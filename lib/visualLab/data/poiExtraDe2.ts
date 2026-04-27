@@ -23,7 +23,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Wiesbaden, die hessische Landeshauptstadt, ist eines der ältesten Kurbäder Europas und berühmt für seine 26 heißen Thermalquellen. Die Stadt besticht durch ihr elegantes klassizistisches Stadtbild, das im Zweiten Weltkrieg weitgehend erhalten blieb. Ein Zentrum des gesellschaftlichen Lebens ist das prächtige Kurhaus mit dem Kurpark und dem renommierten Casino, in dem bereits Dostojewski verkehrte. Wiesbaden war lange Zeit eine kaiserliche Residenzstadt, was sich in den prachtvollen Villenvierteln und der Architektur des Staatstheaters widerspiegelt. Durch seine Lage am Rhein und am Fuße des Taunus ist die Stadt zudem ein idealer Ausgangspunkt für Weinliebhaber und Naturfreunde. Geographie K7 – Die Kurstadt als historisches und modernes Dienstleistungszentrum.",
       hu: "A(z) Wiesbaden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wiesbaden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Wiesbaden, capitala landului Hessa, este una dintre cele mai elegante stațiuni balneare din Europa, faimoasă pentru cele 26 de izvoare termale care atrag vizitatori încă din epoca romană. Arhitectura orașului este definită de stilul neoclasic și istoricist, evitând distrugerile majore din timpul războiului, ceea ce îi conferă un aer aristocratic. Punctul central este Kurhaus, o clădire monumentală ce găzduiește și celebrul cazinou unde a jucat scriitorul Dostoievski. Wiesbaden este situat la marginea munților Taunus și a regiunii viticole Rheingau, oferind un amestec rafinat de cultură urbană, wellness și gastronomie. Geografie K7 – Orașe balneare și capitale administrative.",
       en: ""
     },
     factsAdvanced: {
@@ -36,7 +36,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Wiesbaden deține 26 de izvoare termale fierbinți active și astăzi.", "Kurhaus a fost inaugurat în 1907 de împăratul Wilhelm al II-lea.", "Cazinoul din Wiesbaden este unul dintre cele mai vechi și frumoase din lume.", "Biserica Pieței (Marktkirche) este cea mai înaltă clădire din cărămidă din Hessa.", "Orașul a fost capitala ducatului de Nassau până în anul 1866.", "Nerobergbahn este un funicular istoric alimentat prin balast cu apă, unic în Germania."],
       en: []
     },
     faq: {
@@ -135,7 +135,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Kassel ist das kulturelle und wirtschaftliche Zentrum Nordhessens und weltweit bekannt als Heimat der Documenta, der bedeutendsten Ausstellung für zeitgenössische Kunst. Ein architektonisches Juwel von Weltrang ist der Bergpark Wilhelmshöhe mit dem monumentalen Herkules-Denkmal und den künstlichen Wasserspielen, der seit 2013 zum UNESCO-Weltkulturerbe gehört. Die Stadt blickt zudem auf eine reiche Literaturtradition zurück, da die Brüder Grimm hier viele Jahre lebten und ihre berühmten Märchen sammelten. Kassel verbindet moderne Industriegeschichte, wie den Lokomotivbau, mit herausragenden Parkanlagen und Museen, was es zu einem vielseitigen Ziel für Bildungs- und Kulturreisen macht. Geschichte K7 – Kunstgeschichte und barocke Gartenkunst.",
       hu: "Kassel város Németország Hessen nevű tartományában. A(z) Kassel egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Kassel este un centru mondial al artei contemporane și al peisagisticii baroce, fiind gazda faimoasei expoziții documenta, care are loc o dată la cinci ani. Orașul este dominat de Bergpark Wilhelmshöhe, cel mai mare parc montan din Europa, inclus în patrimoniul UNESCO, unde statuia colosală a lui Hercule veghează asupra regiunii. Kassel este strâns legat de viața Fraților Grimm, care au colectat și editat aici cele mai cunoscute basme ale lor. Jocurile de apă (Wasserspiele) de pe pantele parcului, acționate exclusiv prin presiune naturală, reprezintă un triumf al ingineriei hidraulice din secolul al XVIII-lea. Geografie K7 – Peisaje culturale și turism cultural.",
       en: ""
     },
     factsAdvanced: {
@@ -148,7 +148,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Bergpark Wilhelmshöhe este inclus în patrimoniul mondial UNESCO din 2013.", "Expozitia 'documenta' este considerată cel mai important eveniment de artă contemporană.", "Statuia lui Hercule, simbolul orașului, a fost finalizată în anul 1717.", "Frații Grimm au trăit în Kassel între 1798 și 1830, scriind celebrele basme.", "Jocurile de apă utilizează 750.000 de litri de apă fără pompe mecanice.", "Muzeul Grimmwelt este dedicat vieții și operei lingvistice a celor doi frați."],
       en: []
     },
     faq: {
@@ -247,7 +247,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Marburg an der Lahn ist eine klassische deutsche Universitätsstadt mit einer der ältesten Hochschulen der Welt, der 1527 gegründeten Philipps-Universität. Die Stadt ist berühmt für ihre malerische 'Oberstadt', eine mittelalterliche Altstadt mit engen Gassen und zahlreichen Fachwerkhäusern, die sich terrassenartig den Schlossberg hinaufzieht. Über allem thront das Marburger Landgrafenschloss, Schauplatz des berühmten Marburger Religionsgesprächs zwischen Luther und Zwingli. Marburg war zudem ein wichtiger Wirkungsort der Romantiker und der Brüder Grimm. Die hohe Studentendichte verleiht der Stadt eine lebendige, intellektuelle Atmosphäre, während die Elisabethkirche als eine der frühesten rein gotischen Hallenkirchen Deutschlands gilt. Geschichte K7 – Universitäten und Reformation in Deutschland.",
       hu: "A(z) Marburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Marburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Marburg este un oraș universitar de poveste situat pe malurile râului Lahn, dominat de castelul impunător al landgrafilor de Hessa. Orașul este celebru pentru Biserica Sfânta Elisabeta, una dintre primele biserici gotice din spațiul german, construită peste mormântul Sfintei Elisabeta a Ungariei. Universitatea Philipps, fondată în 1527, este prima universitate protestantă din lume și a atras minți strălucite precum Frații Grimm, care s-au inspirat din atmosfera medievală a orașului pentru basmele lor. Cu străduțele sale înguste și scările abrupte care leagă orașul de jos de castel, Marburg păstrează un farmec academic și istoric inegalabil. Istorie K7 – Orașe universitare și Reforma protestantă.",
       en: ""
     },
     factsAdvanced: {
@@ -260,7 +260,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Universitatea din Marburg, fondată în 1527, este cea mai veche universitate protestantă.", "Sfânta Elisabeta a Ungariei a trăit și a murit aici, îngrijind bolnavii.", "Frații Grimm au studiat dreptul la universitatea din Marburg în secolul al XIX-lea.", "Castelul Marburg (Landgrafenschloss) a găzduit 'Colocviul de la Marburg' între Luther și Zwingli.", "Orașul este construit pe niveluri, cu o diferență mare de înălțime între râu și castel.", "Multe dintre basmele colectate de Grimm au rădăcini în legendele locale din Hessa."],
       en: []
     },
     faq: {
@@ -359,7 +359,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Taunus ist ein deutsches Mittelgebirge nördlich von Frankfurt, das durch seine bewaldeten Höhenzüge und mineralreichen Heilquellen geprägt ist. Die höchste Erhebung ist der Große Feldberg mit 881 Metern, der einen weiten Blick über die Rhein-Main-Ebene bis zum Odenwald bietet. Historisch ist der Taunus durch den Limes, die ehemalige Grenzbefestigung des Römischen Reiches, bedeutsam. Die rekonstruierte Römerburg Saalburg vermittelt heute lebendige Einblicke in das Leben an der antiken Grenze. Die Region ist zudem bekannt für ihre mondänen Kurorte wie Bad Homburg und Kronberg, die seit dem 19. Jahrhundert die Aristokratie und das Bürgertum anzogen. Geographie K6 – Naturraum Mittelgebirge und historische Grenzen.",
       hu: "A(z) Taunus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Taunus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Munții Taunus, situați la nord de Frankfurt pe Main, sunt un lanț muntos de joasă altitudine care îmbină natura sălbatică cu o bogată moștenire istorică. Regiunea a fost granița Imperiului Roman, găzduind celebrul castru Saalburg, singura fortăreață de pe Limes reconstruită complet. Cel mai înalt vârf, Großer Feldberg, oferă panorame spectaculoase asupra zgârie-norilor din Frankfurt și a văii Rinului. Taunus este 'plămânul verde' al regiunii Rin-Main, fiind renumit pentru orașele sale balneare elegante precum Bad Homburg și pentru parcurile naturale vaste. Este un spațiu unde drumețiile prin păduri antice se întâlnesc cu urmele legiunilor romane. Istorie K6 – Limesul germanic și granițele Imperiului Roman.",
       en: ""
     },
     factsAdvanced: {
@@ -372,7 +372,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Großer Feldberg este cel mai înalt vârf, având o altitudine de 881 de metri.", "Limesul Germaniei Superioare din Taunus este inclus în patrimoniul UNESCO.", "Castrul Saalburg a fost reconstruit din temelii la ordinul împăratului Wilhelm al II-lea.", "Regiunea găzduiește parcul de animale Opel-Zoo și parcul de distracții Lochmühle.", "Este una dintre cele mai bogate regiuni rezidențiale din Germania datorită apropierii de Frankfurt.", "În Taunus se află numeroase izvoare minerale utilizate încă din perioada romană."],
       en: []
     },
     faq: {
@@ -471,7 +471,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Lahn ist einer der schönsten und naturbelassensten Nebenflüsse des Rheins und fließt auf 245 Kilometern durch Hessen und Rheinland-Pfalz. Sie entspringt im Rothaargebirge und schlängelt sich durch ein enges, waldreiches Tal, vorbei an historischen Städten wie Marburg, Gießen, Wetzlar und Limburg. Die Lahn ist ein beliebtes Ziel für Kanuwanderer, da sie auf weiten Strecken ruhig fließt und viele Schleusen besitzt. Historisch war das Lahntal ein wichtiger Bergbaustandort für Eisenerz. Heute steht der sanfte Tourismus im Vordergrund, wobei der Lahnradweg und zahlreiche Schlösser und Burgen am Ufer die Region zu einem Highlight für Aktivurlauber machen. Geographie K6 – Flusslandschaften und nachhaltiger Tourismus.",
       hu: "A(z) Lahn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lahn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Lahn este unul dintre cele mai pitorești și nealterate cursuri de apă din Germania, șerpuind prin văi adânci între masivele muntoase Taunus și Westerwald. Râul este celebru pentru turismul activ, fiind considerat cel mai popular râu din Germania pentru canotaj datorită lipsei navigației comerciale grele și a peisajului variat. Pe malurile sale se ridică orașe universitare pline de farmec precum Marburg și Gießen, precum și monumente arhitecturale spectaculoase ca Domul din Limburg. Valea Lahnului îmbină stâncile abrupte de gresie cu pajiști verzi și orașe balneare istorice precum Bad Ems, oferind o idilă naturală și culturală perfectă. Geografie K7 – Ecosisteme fluviale montane și turismul cu ambarcațiuni mici.",
       en: ""
     },
     factsAdvanced: {
@@ -484,7 +484,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Lahn are o lungime de 242 de kilometri și se varsă în Rin la Lahnstein.", "Este navigabil pentru ambarcațiuni de agrement pe o distanță de 160 km.", "Valea Lahnului deține numeroase ecluze istorice acționate manual.", "Orașul Bad Ems de pe malul Lahnului este parte a sitului UNESCO 'Marile Orașe Balneare'.", "Râul traversează trei landuri federale: Renania de Nord-Westfalia, Hessa și Renania-Palatinat.", "Este renumit pentru depozitele de fier și argint extrase în trecut din versanții văii."],
       en: []
     },
     faq: {
@@ -583,7 +583,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Kellerwald im Norden Hessens beherbergt den Nationalpark Kellerwald-Edersee, der für seine uralten, urigen Buchenwälder berühmt ist. Seit 2011 gehören Teile des Nationalparks zum UNESCO-Weltnaturerbe 'Alte Buchenwälder'. Auf rund 6.000 Hektar darf sich die Natur ohne menschliche Eingriffe entwickeln, was zu einer außergewöhnlichen Artenvielfalt bei Pilzen, Käfern und Pflanzen führt. Die hügelige Landschaft mit ihren steilen Hängen zum Edersee bietet spektakuläre Ausblicke und erinnert an ursprüngliche Wildnis. Der Kellerwald ist zudem die Heimat seltener Tierarten wie Schwarzstorch und Rotwild und ein Zentrum für Umweltbildung in der Region. Biologie K6 – Ökosystem Buchenwald und UNESCO-Weltnaturerbe.",
       hu: "A(z) Kellerwald-Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kellerwald-Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Parcul Național Kellerwald-Edersee, situat în landul Hessa, protejează una dintre ultimele păduri vaste de fag neîntrerupte din Europa Centrală, fiind inclus în patrimoniul mondial UNESCO. Peisajul este definit de colinele line acoperite de 'aurul verde' al fagilor antici și de lacul de acumulare Edersee, unul dintre cele mai mari din Germania. Lipsa intervenției umane a permis dezvoltarea unui ecosistem forestier primordial, unde arbori de peste 200 de ani oferă habitat pentru specii rare precum barza neagră și diverse specii de lilieci. Parcul este un model de conservare a biodiversității forestiere temperate. Biologie K6 – Ecosistemul pădurii de foioase și patrimoniul UNESCO.",
       en: ""
     },
     factsAdvanced: {
@@ -596,7 +596,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Pădurile de fag din parc fac parte din situl UNESCO 'Pădurile primordiale de fag'.", "Lacul Edersee, aflat la marginea parcului, are o lungime de 27 de kilometri.", "Parcul Național a fost înființat oficial la data de 1 ianuarie 2004.", "Suprafața protejată cuprinde aproximativ 5.700 de hectare de pădure pură.", "Arborii din speciile de fag ating vârste de peste 200 de ani în zonele centrale.", "Include peste 20 de trasee de drumeție certificate, precum Kellerwaldsteig."],
       en: []
     },
     faq: {
@@ -695,7 +695,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Edersee im Norden Hessens ist einer der größten und landschaftlich reizvollsten Stauseen Deutschlands. Eingebettet in die Berge des Kellerwalds, erstreckt sich das Gewässer über eine Länge von fast 27 Kilometern. Die gewaltige Edertalsperre wurde zwischen 1908 und 1914 errichtet, um die Weserschifffahrt zu regulieren und Strom zu erzeugen. Weltberühmt wurde die Staumauer im Zweiten Weltkrieg durch ihre Zerstörung bei den 'Dambusters'-Angriffen. Heute ist der See ein Magnet für Wassersportler und Wanderer. Eine Besonderheit bei niedrigem Wasserstand ist das 'Edersee-Atlantis' – Ruinen von Dörfern und Brücken, die einst für den Bau des Sees geflutet wurden. Geographie K7 – Wasserbauwerke und touristische Nutzung von Talsperren.",
       hu: "A(z) Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Edersee din Hessa este al doilea ca mărime și unul dintre cele mai spectaculoase lacuri de acumulare din Germania, fiind situat în cadrul Parcului Național Kellerwald-Edersee. Barajul său masiv, construit la începutul secolului XX, are o istorie dramatică, fiind ținta unui atac aerian celebru în al Doilea Război Mondial. Când nivelul apei scade, din adâncuri ies la suprafață ruinele satelor inundate, fenomen cunoscut sub numele de 'Edersee-Atlantis'. Lacul este un centru major pentru sporturi nautice și turism activ, oferind de pe castelul Waldeck vederi panoramice uluitoare asupra văii șerpuite a râului Eder. Geografie K7 – Managementul apei și hidroenergia în Germania.",
       en: ""
     },
     factsAdvanced: {
@@ -708,7 +708,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Barajul Edersee a fost construit între 1908 și 1914 și are 47 de metri înălțime.", "Lacul are o capacitate de stocare de aproape 200 de milioane de metri cubi de apă.", "Este situat în districtul Waldeck-Frankenberg și are o lungime de 27 km.", "Castelul Waldeck domină lacul de pe o stâncă înaltă de 120 de metri.", "Bicicliștii se pot bucura de un traseu circular complet în jurul lacului de circa 50 km.", "În 1943, barajul a fost parțial distrus de bombele 'bouncing bombs' britanice."],
       en: []
     },
     faq: {
@@ -807,7 +807,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Fulda ist eine Stadt von herausragender religiöser und kunsthistorischer Bedeutung und wird oft als die 'Barockstadt' Deutschlands bezeichnet. Gegründet um das im Jahr 744 errichtete Benediktinerkloster des Heiligen Bonifatius, entwickelte sich Fulda zum geistigen Zentrum des frühen Mittelalters. Der Fuldaer Dom, in dem Bonifatius begraben liegt, ist heute das Wahrzeichen der Stadt und ein Meisterwerk des Barock-Architekten Johann Dientzenhofer. Das Barockviertel mit dem prächtigen Stadtschloss, dem Schlossgarten und der Orangerie bildet ein einzigartiges Ensemble. Fulda ist zudem Sitz eines Bistums und ein wichtiger Knotenpunkt an der ICE-Trasse zwischen Nord und Süd. Geschichte K6 – Klösterliche Kultur und Barockarchitektur.",
       hu: "A(z) Kloster Fulda egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Fulda ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Fulda este un oraș baroc spectaculos situat în centrul Germaniei, a cărui istorie este dominată de figura Sfântului Bonifaciu, 'apostolul germanilor'. Catedrala din Fulda, o capodoperă a barocului inspirată de Bazilica Sfântul Petru din Roma, adăpostește mormântul sfântului și rămâne un centru spiritual major. Cartierul baroc, cu Palatul Municipal (Stadtschloss) și oranjeria sa fastuoasă, reflectă puterea și bogăția foștilor prinți-stareți. Orașul este un model de planificare urbană din secolul al XVIII-lea, unde arhitectura sacră și cea laică formează un ansamblu armonios de o eleganță rară, fiind o destinație esențială pentru iubitorii de artă și istorie religioasă. Istorie K7 – Arhitectura barocă și misiunile creștine timpurii.",
       en: ""
     },
     factsAdvanced: {
@@ -820,7 +820,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Catedrala Sf. Salvator a fost construită între 1704 și 1712 de Johann Dientzenhofer.", "Adăpostește mormântul Sfântului Bonifaciu, mort în anul 754.", "Abadia din Fulda a fost unul dintre cele mai importante centre de învățare din Evul Mediu.", "Palatul Stadtschloss are interioare baroce și rococo de o rară frumusețe.", "Orașul este sediul conferinței anuale a episcopilor catolici germani.", "Biserica Sf. Mihail (Michaelskirche) este una dintre cele mai vechi biserici circulare (822)."],
       en: []
     },
     faq: {
@@ -919,7 +919,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Mathildenhöhe in Darmstadt ist ein Gesamtkunstwerk der Moderne und eines der bedeutendsten Zeugnisse des Jugendstils weltweit. Gegründet 1899 von Großherzog Ernst Ludwig als Künstlerkolonie, arbeiteten hier namhafte Künstler wie Joseph Maria Olbrich und Peter Behrens an der Vision einer modernen Lebenswelt. Der Hochzeitsturm mit seinen fünf Zinnen und das Ausstellungsgebäude prägen die markante Silhouette. Seit 2021 gehört das Ensemble zum UNESCO-Weltkulturerbe. Die Mathildenhöhe vereint Architektur, Gartenkunst und Design auf einzigartige Weise und markiert den Übergang vom Historismus zur sachlichen Moderne des 20. Jahrhunderts. Kunstgeschichte K8 – Jugendstil und die Anfänge modernen Designs.",
       hu: "A(z) Mathildenhöhe Darmstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mathildenhöhe Darmstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Mathildenhöhe din Darmstadt este o colonie de artiști vizionară și o capodoperă a stilului Art Nouveau (Jugendstil), inclusă în patrimoniul mondial UNESCO. Fondată în 1899 de marele duce Ernst Ludwig, colonia a fost un laborator viu unde arhitecții și artiștii au creat un mediu de viață și muncă complet modern. Punctul de referință este Hochzeitsturm (Turnul Nunții), cu forma sa unică de 'cinci degete', oferind vederi spectaculoase. Capela Rusă cu decorațiunile sale aurite și casele artiștilor formează un ansamblu estetic armonios care a influențat decisiv arhitectura și designul secolului XX. Arta K8 – Stilul Jugendstil și reformele artistice moderne.",
       en: ""
     },
     factsAdvanced: {
@@ -932,7 +932,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Inclusă în patrimoniul mondial UNESCO în anul 2021.", "Turnul Hochzeitsturm a fost finalizat în 1908 pentru a celebra nunta ducelui.", "Joseph Maria Olbrich a fost arhitectul principal care a modelat aspectul coloniei.", "Capela Rusă a fost construită ca loc de rugăciune privat pentru țarul Nicolae al II-lea.", "Ansamblul include 'Platanenhain', o grădină de platani decorată cu sculpturi.", "Găzduiește Muzeul Coloniei de Artiști, documentând istoria inovației de la Darmstadt."],
       en: []
     },
     faq: {
@@ -1031,7 +1031,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vogelsberg in Hessen ist das größte zusammenhängende Vulkanmassiv Mitteleuropas und eine faszinierende Naturregion. Entstanden vor rund 15 bis 17 Millionen Jahren, besteht er aus einer riesigen Basaltscholle, die sich über 2.500 Quadratkilometer erstreckt. Im Gegensatz zu den spitzen Gipfeln der Eifel ist der Vogelsberg ein sanft gewelltes Hochland mit ausgedehnten Wäldern und Hochmooren. Die höchste Erhebung ist der Hoherodskopf (764 m), ein beliebtes Ziel für Wanderer und Wintersportler. Als Naturpark schützt die Region seltene Biotope und ist ein wichtiges Wassereinzugsgebiet für das Rhein-Main-Gebiet. Die markanten Felsformationen aus erstarrter Lava zeugen überall von der feurigen Vergangenheit des Berges. Geographie K6 – Vulkanismus und Formschatz der Mittelgebirge.",
       hu: "A(z) Vogelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Vogelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Vogelsberg, situat în centrul landului Hessa, este cel mai mare masiv vulcanic din Europa Centrală, format dintr-o suprapunere de straturi de bazalt acum aproximativ 15 milioane de ani. Spre deosebire de vulcanii clasici în formă de con, Vogelsberg este un vulcan-scut uriaș, cu pante line și platouri vaste. Regiunea este un nod hidrografic important, numeroase râuri izvorând din solul său bazaltic fertil. Parcul Natural Vulkanregion Vogelsberg oferă trasee de ciclism unice pe fostele terasamente de cale ferată (Vulkanradweg) și oportunități de observare a naturii pe vârful Hoherodskopf. Este un exemplu spectacol de cum activitatea vulcanică antică a creat un peisaj agricol și forestier prosper. Geografie K6 – Structuri vulcanice de tip scut și petrografia bazaltului.",
       en: ""
     },
     factsAdvanced: {
@@ -1044,7 +1044,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Suprafața totală a masivului vulcanic este de peste 2.500 de kilometri pătrați.", "Vârful Taufstein (773 m) este punctul culminant al regiunii.", "Bazaltul de Vogelsberg a fost folosit pentru pavarea străzilor din întreaga Germanie.", "Vulkanradweg are o lungime de 94 km și o pantă foarte lină, ideală pentru familii.", "Regiunea este renumită pentru mlaștinile sale de mare altitudine și pădurile de fag.", "Hoherodskopf găzduiește un centru de informare despre geologia regiunii."],
       en: []
     },
     faq: {
@@ -1143,7 +1143,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Bad Homburg vor der Höhe ist eine traditionsreiche Kurstadt und ehemalige Residenz der Landgrafen von Hessen-Homburg. Berühmt wurde die Stadt im 19. Jahrhundert als 'Kurort der Kaiser und Könige', der Gäste aus ganz Europa anzog. Das Landgrafenschloss mit dem weithin sichtbaren Weißen Turm und der weitläufige Kurpark mit seinen historischen Quellen und Tempeln zeugen von diesem Glanz. Bad Homburg beherbergt zudem das erste Casino der Welt sowie eine der bedeutendsten Spielbanken Deutschlands. Eine kuriose Besonderheit ist die thailändische Sala, ein Geschenk des Königs von Siam. Heute ist die Stadt ein exklusiver Wohnstandort im Frankfurter Speckgürtel und ein Zentrum für Gesundheit und Wellness. Geschichte K7 – Kurkultur und höfische Tradition.",
       hu: "A(z) Schloss Bad Homburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Bad Homburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Bad Homburg vor der Höhe este un oraș balnear de lux cu o istorie imperială bogată, situat la poalele munților Taunus. Orașul a devenit faimos în secolul al XIX-lea ca reședință de vară a împăraților germani și ca destinație favorită a aristocrației europene, inclusiv a țarilor ruși. Kurpark, parcul central, găzduiește unul dintre cele mai vechi și elegante cazinouri din Europa, supranumit 'Mama de la Monte Carlo'. Castelul Landgrafilor, cu turnul său alb medieval, și templul thailandez Sala, dăruit de regele Siamului, reflectă caracterul cosmopolit și istoric al acestei stațiuni renumite pentru izvoarele sale de sare. Istorie K8 – Cultura balneară și aristocrația europeană.",
       en: ""
     },
     factsAdvanced: {
@@ -1156,7 +1156,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Cazinoul din Bad Homburg a fost fondat în 1841 de frații Blanc.", "Castelul local a fost reședința de vară preferată a împăratului Wilhelm al II-lea.", "Include singurul templu thailandez (Sala) original din Germania, dăruit în 1907.", "Izvorul Elisabethenbrunnen este renumit pentru proprietățile sale curative încă din 1834.", "Orașul a fost locul unde s-a inventat tipul de pălărie 'Homburg'.", "Biserica Rusească din parc a fost sfințită în prezența țarului Nicolae al II-lea."],
       en: []
     },
     faq: {
@@ -1255,7 +1255,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Gießen ist eine bedeutende Universitätsstadt in Mittelhessen und ein Zentrum von Wissenschaft und Forschung. Die 1607 gegründete Justus-Liebig-Universität prägt das Leben in der Stadt, in der fast jeder zweite Einwohner ein Student ist. Gießen blickt auf eine große Tradition in der Chemie zurück, was durch das Liebig-Museum, die ehemalige Wirkungsstätte des berühmten Chemikers Justus von Liebig, gewürdigt wird. Eine moderne Attraktion ist das Mathematikum, das weltweit erste Mitmach-Museum für Mathematik, das trockene Formeln spielerisch begreifbar macht. Trotz schwerer Zerstörungen im Zweiten Weltkrieg hat die Stadt ihren Charakter als lebendiger Bildungsstandort bewahrt und ist ein wichtiger Verkehrsknotenpunkt in Hessen. Physik K8 – Wissenschaftsgeschichte und moderne Didaktik.",
       hu: "A(z) Gießen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gießen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Gießen este un oraș universitar vibrant din landul Hessa, definit prin prezența Universității Justus Liebig, fondată în 1607. Orașul este recunoscut la nivel internațional pentru inovațiile sale educaționale, găzduind Mathematikum, primul muzeu interactiv de matematică din lume, care face această știință accesibilă tuturor vârstelor. Grădina Botanică din Gießen, înființată în 1612, este cea mai veche grădină botanică universitară din Germania care s-a păstrat pe locația sa originală. Deși a suferit distrugeri masive în timpul războiului, Gießen s-a reconstruit ca un centru modern de cercetare și cultură, fiind situat idilic pe malurile râului Lahn. Sachkunde K4 – Știință și educație în orașele germane.",
       en: ""
     },
     factsAdvanced: {
@@ -1268,7 +1268,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Universitatea Justus Liebig a fost fondată în anul 1607.", "Mathematikum este primul muzeu interactiv dedicat matematicii din lume.", "Grădina Botanică a fost înființată în 1612 și funcționează de atunci neîntrerupt.", "Justus von Liebig, tatăl chimiei moderne și al îngrășămintelor, a predat aici.", "Orașul are cea mai mare densitate de studenți raportată la populație din Germania.", "Noul Castel (Neues Schloss) găzduiește importante colecții de artă și istorie."],
       en: []
     },
     faq: {
@@ -1367,7 +1367,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Rhön, oft als 'Land der offenen Fernen' bezeichnet, ist ein Mittelgebirge im Dreiländereck von Hessen, Bayern und Thüringen. Charakteristisch für die vulkanisch geprägte Landschaft sind die weiten, baumlosen Gipfelplateaus, die durch jahrhundertelange Beweidung entstanden sind. Die Wasserkuppe ist mit 950 Metern der höchste Berg Hessens und gilt als 'Wiege des Segelflugs'. Die gesamte Region ist als UNESCO-Biosphärenreservat anerkannt und schützt wertvolle Lebensräume wie Borstgrasrasen und Hochmoore. In wolkenlosen Nächten bietet die Rhön zudem einen der dunkelsten Himmel Deutschlands, was ihr den Titel 'Sternenpark' eingebracht hat. Geographie K6 – Nachhaltige Regionalentwicklung und Biosphärenreservate.",
       hu: "A(z) Rhön (Hessen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rhön (Hessen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Rhön, supranumit 'Ținutul depărtărilor deschise' (Land der offenen Fernen), este un masiv muntos de origine vulcanică situat în inima Germaniei. Regiunea este protejată ca rezervație a biosferei UNESCO și se remarcă prin platourile sale înalte lipsite de păduri, care oferă vederi panoramice nesfârșite. Vârful Wasserkuppe este leagănul zborului cu planorul la nivel mondial și cel mai înalt punct din landul Hessa. Rhön este renumit pentru biodiversitatea sa, incluzând mlaștini montane unice și rase rare de animale, precum oaia de Rhön. Este o destinație ideală pentru turismul sustenabil, oferind liniște, cer înstelat nepoluat și trasee de drumeție de înaltă calitate. Geografie K7 – Rezervații ale biosferei și ecosisteme vulcanice.",
       en: ""
     },
     factsAdvanced: {
@@ -1380,7 +1380,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Wasserkuppe (950 m) este locul unde s-a inventat sportul planorismului în 1911.", "Regiunea a fost declarată rezervație a biosferei UNESCO în anul 1991.", "Include mlaștina 'Rotes Moor', una dintre cele mai importante zone umede montane.", "Rhön este un 'Parc Internațional al Cerului Întunecat' (Star Park).", "Traseul 'Hochrhöner' a fost premiat drept cel mai frumos drum de drumeție din Germania.", "Oaia de Rhön, cu capul negru caracteristic, este simbolul zoologic al regiunii."],
       en: []
     },
     faq: {
@@ -1479,7 +1479,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Loreley-Felsen bei Sankt Goarshausen ist der Inbegriff der Rheinromantik und einer der sagenumwobensten Orte Deutschlands. Der 132 Meter hohe Schieferfelsen ragt steil an einer der engsten und tiefsten Stellen des Mittelrheins auf, wo die starke Strömung früher vielen Schiffern zum Verhängnis wurde. Die Legende der schönen Nixe Loreley, die mit ihrem Gesang die Seeleute ins Verderben lockt, wurde durch Heinrich Heines Gedicht weltberühmt. Das Loreley-Plateau ist heute Teil des UNESCO-Welterbes Oberes Mittelrheintal und bietet einen spektakulären Panoramablick auf die vorbeiziehenden Schiffe und die umliegenden Burgen. Die Freilichtbühne auf dem Felsen ist zudem ein renommierter Ort für internationale Rock- und Klassikkonzerte. Literatur K7 – Deutsche Romantik und rheinische Mythen.",
       hu: "A(z) Rheingau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rheingau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Stânca Loreley este un promontoriu abrupt de ardezie situat la 132 de metri deasupra fluviului Rin, în cel mai îngust și periculos punct al căii navigabile. Legenda celebrei sirene care ademenea marinarii cu cântecul ei, provocând naufragii, a fost imortalizată de poetul Heinrich Heine și a transformat stânca într-un simbol al romantismului german. Din punct de vedere geografic, Loreley marchează inima Văii Superioare a Rinului Mijlociu, inclusă în patrimoniul UNESCO pentru peisajul său cultural unic. Platoul superior oferă o vedere spectaculoasă asupra curburii râului și a castelului Katz, fiind o destinație mitică care atrage turiști de pe toate continentele. Geografie K7 – Dinamica râurilor și peisaje culturale mitologice.",
       en: ""
     },
     factsAdvanced: {
@@ -1492,7 +1492,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Râul Rin are în acest punct o adâncime de 25 de metri și o lățime de doar 113 metri.", "Poemul lui Heinrich Heine din 1824 a făcut stânca faimoasă la nivel mondial.", "La picioarele stâncii se află o statuie de bronz a sirenei Loreley, dăruită în 1983.", "Platoul găzduiește un amfiteatru în aer liber (Loreley Freilichtbühne) pentru concerte majore.", "Ecourile naturale de pe stâncă au contribuit la nașterea legendelor mistic-acustice.", "Face parte din 'Drumul Castelelor' de pe malul Rinului."],
       en: []
     },
     faq: {
@@ -1591,7 +1591,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Limburger Dom, auch Georgsdom genannt, ist eines der vollendetsten Bauwerke der späten Romanik und frühen Gotik in Deutschland. Mit seinen sieben Türmen thront er majestätisch auf einem Felsen oberhalb der Lahn und prägt die Silhouette der historischen Altstadt. Erbaut im 13. Jahrhundert, beeindruckt der Dom durch seine farbenfrohe Außenbemalung, die nach alten Befunden rekonstruiert wurde. Im Inneren finden sich bedeutende mittelalterliche Wandmalereien. Die Architektur markiert den spannenden Übergang vom wuchtigen romanischen Stil zur lichten gotischen Bauweise. Als Kathedrale des Bistums Limburg ist der Dom ein spirituelles Zentrum von europäischem Rang und ein Meisterwerk der Sakralbaukunst. Kunstgeschichte K6 – Sakrale Architektur am Übergang von Romanik zu Gotik.",
       hu: "A(z) Limburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Limburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Catedrala din Limburg (Domul Sfântul Gheorghe), situată spectaculos pe o stâncă deasupra râului Lahn, este un exemplu magistral al tranziției de la stilul romanic la cel gotic. Cu cele șapte turnuri ale sale și exteriorul pictat în culori vibrante (alb și roșu-teracotă), catedrala domină vizual întregul oraș medieval. Interiorul deține fresce medievale rare, descoperite în timpul restaurărilor recente. Orașul vechi din Limburg, cu casele sale pe structură de lemn extrem de vechi și străduțele înguste, formează un ansamblu istoric perfect conservat, catedrala fiind piesa sa centrală și un punct de reper spiritual în landul Hessa. Istorie K6 – Arhitectura sacră și tranziția către stilul gotic.",
       en: ""
     },
     factsAdvanced: {
@@ -1604,7 +1604,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Catedrala actuală a fost sfințită în anul 1235.", "Are șapte turnuri, un număr simbolic reprezentând cele șapte taine ale bisericii.", "Este construită pe locul unei foste fortificații pe o stâncă de calcar.", "Culorile exterioare actuale reproduc fidel aspectul original din secolul al XIII-lea.", "Orașul vechi din jurul domului deține case 'Fachwerk' datând din secolul al XIV-lea.", "Imaginea catedralei a apărut pe bancnota de 1.000 de mărci germane."],
       en: []
     },
     faq: {
@@ -1705,7 +1705,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Wolfsburg ist eine der jüngsten Großstädte Deutschlands und untrennbar mit dem Volkswagen-Konzern verbunden. Gegründet im Jahr 1938 für die Mitarbeiter des VW-Werks, hat sich die Stadt zu einem globalen Zentrum der Automobilindustrie entwickelt. Das Werk selbst ist eines der größten zusammenhängenden Fabrikgebäude der Welt. Eine Hauptattraktion ist die 'Autostadt', ein Themen- und Erlebnispark, der die Marken des Konzerns präsentiert und ein Zentrum für moderne Architektur ist. Wolfsburg bietet zudem erstklassige Kultur- und Wissenschaftserlebnisse, wie das futuristische Science-Center phæno von Zaha Hadid oder das Kunstmuseum. Die Stadt ist ein Paradebeispiel für eine geplante Industriestadt der Moderne. Geographie K7 – Die monostrukturierte Industriestadt im Wandel.",
       hu: "A(z) Wolfsburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wolfsburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Wolfsburg este un oraș unic în peisajul german, fiind fondat în 1938 ca un centru planificat pentru producția automobilului Volkswagen. Astăzi, găzduiește cel mai mare complex industrial de pe glob – fabrica Volkswagen, care se întinde pe o suprafață mai mare decât principatul Monaco. Orașul este un laborator viu de arhitectură modernă, având Autostadt, un parc tematic auto spectaculos, și Phæno, un centru de știință futurist proiectat de Zaha Hadid. Wolfsburg demonstrează modul în care industria poate modela o întreagă cultură urbană, fiind în același timp un oraș foarte verde, cu parcuri vaste și facilități sportive de top. Geografie K8 – Industria automobilului și urbanismul planificat.",
       en: ""
     },
     factsAdvanced: {
@@ -1718,7 +1718,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Fabrica Volkswagen din Wolfsburg este cea mai mare fabrică de mașini din lume.", "Autostadt este un parc tematic vizitat de peste 2 milioane de oameni anual.", "Phæno, proiectat de Zaha Hadid, este una dintre cele mai avangardiste clădiri din lume.", "Orașul a fost fondat la data de 1 iulie 1938.", "Turnurile de sticlă pentru depozitarea mașinilor din Autostadt au 48 de metri înălțime.", "Castelul Wolfsburg, un monument renascentist, a dat numele orașului modern."],
       en: []
     },
     faq: {
@@ -1817,7 +1817,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Braunschweig, die 'Löwenstadt', blickt auf eine über tausendjährige Geschichte zurück und war einst eine mächtige Hansestadt und Residenz der Welfen. Herzog Heinrich der Löwe machte die Stadt im 12. Jahrhundert zu seinem Machtzentrum, wovon der Braunschweiger Löwe auf dem Burgplatz und der Dom St. Blasii zeugen. Heute ist Braunschweig ein führender Standort für Wissenschaft und Forschung in Europa, geprägt durch die Technische Universität (gegründet 1745) und zahlreiche Bundesforschungsinstitute. Die Stadt verbindet historische Traditionen, wie das rekonstruierte Residenzschloss, mit hochmoderner Technologieentwicklung in den Bereichen Verkehr und Luftfahrt. Geschichte K7 – Mittelalterliche Machtzentren und hanseatischer Handel.",
       hu: "A(z) Braunschweig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Braunschweig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Braunschweig, cunoscut sub numele de 'Orașul Leului', este un centru istoric și științific major din Saxonia Inferioară, fiind timp de secole reședința puternicilor duci din dinastia Welf. Orașul a atins apogeul în secolul al XII-lea sub domnia lui Henric Leul, care a ridicat catedrala Sf. Blasii și a stabilit leul de bronz ca simbol al puterii sale, monument ce poate fi admirat și astăzi în Burgplatz. Deși marcat de distrugerile din al Doilea Război Mondial, orașul a reconstruit cu grijă puncte cheie, precum Palatul Rezidențial. Astăzi, Braunschweig este un lider european în cercetare și tehnologie, găzduind numeroase institute federale. Istorie K7 – Orașe hanseatice și reședințe nobiliare.",
       en: ""
     },
     factsAdvanced: {
@@ -1830,7 +1830,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["A fost fondat conform legendei în anul 861 și a devenit oraș hanseatic în secolul XIII.", "Catedrala Sf. Blasii (Domul) a fost construită între 1173 și 1195 de Henric Leul.", "Simbolul orașului, Leul din Braunschweig, este cea mai veche statuie de bronz din nordul Alpilor.", "Universitatea Tehnică din Braunschweig, fondată în 1745, este cea mai veche din Germania.", "Regiunea Braunschweig este considerată cel mai intensiv centru de cercetare din Europa.", "Palatul Rezidențial (Schloss) a fost reconstruit în 2007 folosind fațada originală istorică."],
       en: []
     },
     faq: {
@@ -1929,7 +1929,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Brocken ist mit 1.141 Metern der höchste Berg des Harzes und Norddeutschlands. Er ist ein Ort voller Mythen und Sagen, bekannt als Treffpunkt der Hexen zur Walpurgisnacht, wie es Goethe im 'Faust' verewigte. Durch seine exponierte Lage herrscht auf dem Gipfel ein extremes Klima, das dem der Alpen oder Islands gleicht. Während der deutschen Teilung war der Brocken militärisches Sperrgebiet und Standort wichtiger Abhörstationen der DDR und der Sowjetunion. Heute ist der Gipfel, der im Nationalpark Harz liegt, wieder ein beliebtes Ziel für Wanderer und die historische Brockenbahn. Die Flora des Berges mit dem Brockengarten beherbergt seltene Eiszeitrelikte, die unter strengem Schutz stehen. Geographie K6 – Hochgebirgsklima und ökologische Bedeutung der Mittelgebirge.",
       hu: "A(z) Harz (Niedersachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Harz (Niedersachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Brocken, situat la granița dintre Saxonia Inferioară și Saxonia-Anhalt, este cel mai înalt vârf din nordul Germaniei și inima munților Harz. Partea vestică (dinspre Saxonia Inferioară) este renumită pentru traseele sale abrupte de drumeție care pornesc din stațiuni precum Torfhaus. Muntele este faimos pentru fenomenele sale optice rare, precum 'Spectrul Brocken', și pentru clima sa subalpină severă, similară cu cea din Islanda. Pădurile de molid care acoperă versanții fac parte din Parcul Național Harz, oferind un peisaj de o sălbăticie mistică. Este un loc încărcat de legende despre vrăjitoare și de o istorie politică complexă din perioada divizării Germaniei. Geografie K7 – Forme de relief montane și climate zonale.",
       en: ""
     },
     factsAdvanced: {
@@ -1942,7 +1942,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Vârful Brocken atinge altitudinea de 1.141 metri deasupra nivelului mării.", "Muntele este învăluit în ceață în medie 300 de zile pe an.", "Grădina Botanică Alpină de pe vârf găzduiește peste 1.500 de specii de plante de munte.", "Este legat de localitatea Wernigerode prin calea ferată cu aburi Brockenbahn.", "Vântul poate atinge viteze de peste 260 km/h pe platoul somital.", "Goethe s-a inspirat din drumețiile sale pe Brocken pentru scena 'Noaptea Valpurgiei' din Faust."],
       en: []
     },
     faq: {
@@ -2041,7 +2041,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Lüneburger Heide ist eine einzigartige Kulturlandschaft im Nordosten Niedersachsens, die durch jahrhundertelange Holzentnahme und Beweidung durch Heidschnucken entstanden ist. Im August und September verwandelt sich die Region in ein riesiges lilafarbenes Blütenmeer. Das Herzstück ist das autofreie Naturschutzgebiet um den Wilseder Berg, die höchste Erhebung der norddeutschen Tiefebene. Die Heide ist nicht nur ein Refugium für seltene Pflanzen und Tiere, sondern auch ein wichtiges Zentrum für den sanften Tourismus. Historisch ist die Region durch die Salzgewinnung in Lüneburg geprägt, die der Heide ihren Namen gab. Heute ist sie der älteste Naturpark Deutschlands und ein Vorbild für den Naturschutz. Biologie K6 – Kulturlandschaften und Erhaltung der Biodiversität.",
       hu: "A Lüneburger Heide (lüneburgi puszta) természetvédelmi terület és natúrpark Németországban. Németország első természetvédelmi parkja volt. A(z) Lüneburger Heide egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Lüneburger Heide este cea mai mare zonă de landă (erica) din Europa Centrală, situată în nordul Germaniei. Peisajul său unic, caracterizat prin covoare mov de iarbă neagră (Heidekraut) și ienuperi solitari, este rezultatul secolelor de pășunat tradițional și exploatare forestieră. Pentru a menține acest ecosistem, regiunea este pășunată de celebrele oi 'Heidschnucken', care împiedică regenerarea pădurii. Vârful Wilseder Berg oferă o panoramă spectaculoasă asupra acestei zone protejate, care devine un magnet pentru turiști în special în luna august, în timpul perioadei de înflorire a ierbii negre. Geografie K6 – Peisaje antropice și conservarea landelor.",
       en: ""
     },
     factsAdvanced: {
@@ -2054,7 +2054,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Este cea mai veche și mai mare rezervație naturală din Germania, fondată în 1921.", "Iarba neagră (Calluna vulgaris) înflorește spectaculos între 8 august și 9 septembrie.", "Oile Heidschnucken sunt esențiale pentru menținerea peisajului de landă.", "Wilseder Berg este cel mai înalt punct, având o altitudine de 169 de metri.", "Accesul autovehiculelor este interzis în zona centrală a parcului natural.", "Satul Wilsede din interiorul rezervației păstrează arhitectura rurală autentică."],
       en: []
     },
     faq: {
@@ -2153,7 +2153,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Osnabrück ist als 'Friedensstadt' weltbekannt, da hier 1648 zusammen mit Münster der Westfälische Friede unterzeichnet wurde, der den Dreißigjährigen Krieg beendete. Die Stadt im Südwesten Niedersachsens verbindet diese historische Bedeutung mit einer dynamischen Gegenwart. Das historische Rathaus mit dem Friedenssaal ist das Wahrzeichen der Stadt. Osnabrück liegt inmitten des Natur- und Geoparks TERRA.vita und bietet eine hohe Lebensqualität zwischen Urbanität und Natur. Die Universität und zahlreiche innovative Unternehmen im Bereich Logistik und Metallverarbeitung prägen die Wirtschaftskraft. Auch als Geburtsstadt des Schriftstellers Erich Maria Remarque und des Malers Felix Nussbaum setzt Osnabrück wichtige kulturelle Akzente. Geschichte K7 – Der Westfälische Friede und seine Bedeutung für Europa.",
       hu: "A(z) Osnabrück egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Osnabrück ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Osnabrück este cunoscut în istoria universală ca 'Orașul Păcii', fiind locul unde, împreună cu Münster, a fost semnată Pacea Westfalică în 1648, punând capăt Războiului de Treizeci de Ani. Primăria istorică găzduiește Sala Păcii, unde au avut loc negocierile cruciale. Orașul este și locul de naștere al celebrului scriitor Erich Maria Remarque și al pictorului Felix Nussbaum, căruia îi este dedicat un muzeu avangardist proiectat de Daniel Libeskind. Situat în mijlocul geoparcului UNESCO TERRA.vita, Osnabrück îmbină o moștenire politică și culturală profundă cu un peisaj natural modelat de fenomene geologice de milioane de ani. Istorie K8 – Pacea Westfalică și bazele diplomației moderne.",
       en: ""
     },
     factsAdvanced: {
@@ -2166,7 +2166,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Pacea Westfalică din 1648 a fost negociată în Sala Păcii din primăria orașului.", "Erich Maria Remarque, autorul cărții 'Pe frontul de vest nimic nou', s-a născut aici.", "Muzeul Felix-Nussbaum-Haus a fost prima clădire majoră proiectată de Daniel Libeskind.", "Este singurul oraș mare din Germania situat în mijlocul unui parc natural (UNESCO Geopark).", "Orașul a fost sediul unei episcopii fondate de Carol cel Mare în anul 780.", "Simbolul orașului este 'Roata de la Osnabrück', prezentă pe stema locală."],
       en: []
     },
     faq: {
@@ -2265,7 +2265,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Weser ist ein prägender Strom Norddeutschlands, der durch den Zusammenfluss von Werra und Fulda in Hann. Münden entsteht. Auf ihrem 451 Kilometer langen Weg zur Nordsee durchquert sie das Weserbergland und die norddeutsche Tiefebene. Historisch war die Weser ein bedeutender Handelsweg, was sich in der prachtvollen Weserrenaissance-Architektur der Anrainerfassaden widerspiegelt. Eine geographische Besonderheit ist die Porta Westfalica, wo der Fluss das Wiehen- und Wesergebirge durchbricht. Heute ist die Weser nicht nur eine wichtige Wasserstraße, sondern auch ein Paradies für Radtouristen auf dem beliebten Weser-Radweg. Geographie K7 – Flusssysteme und regionale Architekturstile.",
       hu: "A(z) Weser egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Weser ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Weser este unul dintre marile fluvii ale Germaniei, format prin confluența râurilor Werra și Fulda la Hann. Münden. Străbătând Saxonia Inferioară de la sud la nord, râul a modelat peisajul și arhitectura regiunii, dând naștere stilului 'Renașterea Weser' vizibil în orașe precum Hameln. Weser este o cale navigabilă strategică, legând inima țării de porturile Bremen și Bremerhaven la Marea Nordului. Cursul său inferior este puternic influențat de maree, creând habitate umede valoroase. Valea Weser-ului îmbină legendele Fraților Grimm cu puterea industrială a nordului, fiind un simbol al continuității între tradiția rurală și comerțul maritim global. Geografie K7 – Căi navigabile și peisaje culturale regionale.",
       en: ""
     },
     factsAdvanced: {
@@ -2278,7 +2278,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Weser este singurul fluviu german mare al cărui bazin se află integral în Germania (452 km).", "Hann. Münden este locul unde 'Werra și Fulda se sărută' pentru a forma Weser-ul.", "Include calea navigabilă 'Mittelweser' cu numeroase ecluze moderne.", "Orașul Bremen este cel mai mare centru urban situat pe malurile sale.", "Weser-Radweg este constant votat drept unul dintre cele mai bune trasee de ciclism din lume.", "Gura de vărsare de la Bremerhaven este una dintre cele mai importante porți maritime ale Europei."],
       en: []
     },
     faq: {
@@ -2377,7 +2377,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Hildesheim ist eine geschichtsträchtige Stadt in Niedersachsen, die für ihr herausragendes romanisches Erbe weltbekannt ist. Das Bistum Hildesheim wurde bereits 815 gegründet, und heute zeugen der Dom St. Marien und die Michaeliskirche, beide UNESCO-Weltkulturerbe, von der mittelalterlichen Blütezeit. Ein Symbol der Stadt ist der 'Tausendjährige Rosenstock', der an der Apsis des Doms wächst und die Zerstörung des Zweiten Weltkriegs überstand. Der historische Marktplatz, nach dem Krieg originalgetreu rekonstruiert, mit dem prächtigen Knochenhaueramtshaus, gilt als einer der schönsten Plätze Deutschlands. Hildesheim verbindet diese tiefe Geschichte mit einer modernen Hochschullandschaft. Geschichte K6 – Romanische Baukunst und mittelalterliche Bistümer.",
       hu: "A(z) Hildesheim egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hildesheim ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Hildesheim este un oraș al patrimoniului mondial UNESCO, renumit pentru capodoperele sale de artă romanică și pentru legendarul trandafir de o mie de ani. Catedrala Sfânta Maria și Biserica Sfântul Mihail reprezintă puncte culminante ale arhitecturii sacre medievale, găzduind piese de bronz unice, precum porțile Bernward. Conform legendei, trandafirul sălbatic care crește pe zidul catedralei simbolizează supraviețuirea orașului, acesta înflorind chiar și după bombardamentele din 1945. Piața istorică (Marktplatz), cu faimoasa casă a măcelarilor (Knochenhaueramtshaus), a fost reconstruită fidel, redând orașului farmecul său medieval de odinioară. Istorie K6 – Arta romanică și legendele medievale.",
       en: ""
     },
     factsAdvanced: {
@@ -2390,7 +2390,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Catedrala și Biserica Sf. Mihail fac parte din patrimoniul UNESCO din 1985.", "Trandafirul de o mie de ani este considerat cel mai bătrân trandafir viu din lume.", "Porțile Bernward din bronz, turnate în anul 1015, sunt capodopere ale artei ottoniene.", "Orașul a fost sediul unei episcopii importante încă din anul 815.", "Casa Knochenhaueramtshaus este una dintre cele mai frumoase case pe structură de lemn.", "Muzeul Roemer- und Pelizaeus deține una dintre cele mai importante colecții de artă egipteană."],
       en: []
     },
     faq: {
@@ -2489,7 +2489,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Norderney ist die zweitgrößte der Ostfriesischen Inseln und blickt auf eine stolze Tradition als ältestes deutsches Nordseebad zurück, gegründet 1797. Die Insel vereint mondänes Flair mit wilder Naturlandschaft, die zum Nationalpark Niedersächsisches Wattenmeer gehört. Das historische Kurhaus und die eleganten Villen im Westteil erinnern an die Zeit, als Norderney Sommerresidenz der hannoverschen Könige war. Im Osten der Insel erstrecken sich weite Dünenlandschaften und Salzwiesen, die Rückzugsraum für zahlreiche Vogelarten sind. Norderney ist zudem bekannt für sein reges kulturelles Leben und seine erstklassige Thalasso-Kompetenz. Geographie K6 – Küstenökologie und Tourismusentwicklung an der Nordsee.",
       hu: "A(z) Norderney egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Norderney ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Norderney este una dintre cele mai populare insule frizone de est, fiind renumită pentru contrastul său între viața urbană elegantă și sălbăticia dunelor de nisip. Fondată în 1797 ca prima stațiune balneară germană la Marea Nordului, insula a fost destinația preferată a regilor hanoverieni. Astăzi, Norderney este un centru lider pentru talasoterapie, utilizând puterea vindecătoare a apei sărate și a climatului marin. Partea de vest a insulei este dominată de orașul modern cu numeroase facilități culturale, în timp ce estul aparține în totalitate naturii, făcând parte din patrimoniul UNESCO. Peisajul spectaculos al dunelor și plajele nesfârșite de nisip alb fac din Norderney o destinație de top. Geografie K6 – Turismul balnear și formele de relief litorale.",
       en: ""
     },
     factsAdvanced: {
@@ -2502,7 +2502,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["A fost prima stațiune balneară de la Marea Nordului din Germania (fondată în 1797).", "Insula are o lungime de 14 kilometri și o lățime de maximum 2,5 kilometri.", "Farul din Norderney, construit în 1874, este singura clădire de pe insulă vizibilă de pe continent.", "Aproximativ 85% din suprafața insulei face parte din Parcul Național Marea Watten.", "Găzduiește cel mai mare centru de talasoterapie din Germania (bade:haus).", "Accesul auto este permis, dar puternic restricționat în sezonul turistic."],
       en: []
     },
     faq: {
@@ -2601,7 +2601,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Hameln an der Weser ist weltberühmt durch die Sage vom Rattenfänger, die bereits im Jahr 1284 ihren Ursprung haben soll. Die Stadt ist ein leuchtendes Beispiel für die Weserrenaissance, deren prachtvolle Bauten wie das Rattenfängerhaus und das Hochzeitshaus das Stadtbild prägen. Hinter der Legende verbirgt sich vermutlich die historische Auswanderung junger Bürger nach Osten. Heute zelebriert Hameln sein Erbe mit täglichen Glockenspielen und Rattenfänger-Freilichtspielen. Neben der Märchen-Thematik ist Hameln ein bedeutender Wirtschaftsstandort und ein wichtiger Verkehrsknotenpunkt im Weserbergland. Geschichte K5 – Sagen und ihre historischen Hintergründe.",
       hu: "A(z) Hameln egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hameln ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Hameln este faimos în întreaga lume datorită legendei 'Fluierașului din Hameln', dar orașul este și o bijuterie a arhitecturii Renașterii Weser-ului. Legenda Rattenfänger (Prinzătorul de Șobolani), datând din 1284, este prezentă la fiecare pas prin monumente, jocuri de figurine și spectacole de stradă. Arhitectura orașului impresionează prin fațadele bogat ornamentate ale Casei Rattenfängerhaus și ale Casei Nunții (Hochzeitshaus). Situat pitoresc pe râul Weser, Hameln îmbină atmosfera mistică a poveștilor Fraților Grimm cu farmecul unui oraș comercial prosper, fiind un centru cultural major în inima landului Saxonia Inferioară. Istorie K6 – Legendele germane și Renașterea Weser-ului.",
       en: ""
     },
     factsAdvanced: {
@@ -2614,7 +2614,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Legenda fluierașului datează din anul 1284, când 130 de copii ar fi dispărut.", "Casa Rattenfängerhaus (1602) este una dintre cele mai frumoase clădiri renascentiste.", "Jocul de figurine de pe Hochzeitshaus rulează zilnic povestea fluierașului la ore fixe.", "Orașul este situat pe traseul turistic 'Drumul Basmelor Germane'.", "Stilul arhitectural local este cunoscut sub numele de 'Renașterea Weser'.", "Numele orașului este legat de râul Hamel, un afluent al Weser-ului."],
       en: []
     },
     faq: {
@@ -2713,7 +2713,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Göttingen ist eine klassische deutsche Gelehrtenrepublik, geprägt durch die 1734 gegründete Georg-August-Universität. Die Stadt hat eine beeindruckende Tradition: Über 40 Nobelpreisträger haben hier studiert oder gelehrt, darunter Größen wie Gauß, Lichtenberg und die Brüder Grimm. Ein Wahrzeichen ist das 'Gänseliesel' auf dem Marktplatz – die meistgeküsste Statue der Welt, da es für frisch promovierte Studenten Tradition ist, sie nach bestandenem Examen zu küssen. Die historische Altstadt mit ihren Fachwerkbauten und der grüne Wall um den Stadtkern verleihen Göttingen eine hohe Lebensqualität. Heute ist die Stadt ein führender Standort für Life Sciences und Messtechnik. Geschichte K7 – Universitäten als Zentren von Aufklärung und Wissenschaft.",
       hu: "A(z) Göttingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Göttingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Göttingen este un simbol mondial al excelenței academice, fiind orașul unde au activat sau studiat nu mai puțin de 45 de laureați ai Premiului Nobel. Universitatea Georg-August, fondată în 1734 de regele George al II-lea al Marii Britanii, a dominat lumea științifică în secolele XVIII și XIX, în special în domeniile matematicii și fizicii, prin figuri precum Carl Friedrich Gauss. Simbolul orașului este 'Gänseliesel' (Fata cu gâștele), o fântână situată în fața vechii primării, pe care tradiția îi obligă pe toți proaspeții doctoranzi să o sărute. Centrul medieval cu casele sale pe structură de lemn și zidul orașului oferă un cadru istoric pitoresc. Știință K8 – Centre universitare și istoria cercetării.",
       en: ""
     },
     factsAdvanced: {
@@ -2726,7 +2726,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Nu mai puțin de 45 de laureați ai Premiului Nobel au legături directe cu orașul.", "Universitatea Georg-August a fost fondată în anul 1734.", "Fântâna Gänseliesel este considerată 'cea mai sărutată fată din lume'.", "Matematicianul Carl Friedrich Gauss a trăit și a lucrat aici timp de decenii.", "Frații Grimm au predat la universitatea din Göttingen înainte de a fi expulzați.", "Orașul păstrează o mare parte din fortificațiile sale medievale sub formă de ziduri verzi."],
       en: []
     },
     faq: {
@@ -2825,7 +2825,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Wilhelmshaven an der Nordsee ist der bedeutendste Marinestützpunkt Deutschlands und die einzige Tiefwasserhafen-Stadt des Landes. Gegründet 1869 von König Wilhelm I. von Preußen, war sie lange Zeit das Zentrum der deutschen Seemacht. Heute beherbergt Wilhelmshaven nicht nur das Marinekommando, sondern auch den JadeWeserPort, das einzige Containerterminal Deutschlands, das von den größten Schiffen der Welt tideunabhängig angelaufen werden kann. Das Stadtbild wird durch die imposante Kaiser-Wilhelm-Brücke geprägt. Als Standort für Energielogistik, insbesondere Flüssigerdgas (LNG), spielt die Stadt eine Schlüsselrolle für die deutsche Energieversorgung. Geographie K7 – Marinestützpunkte und moderne Hafenwirtschaft.",
       hu: "A(z) Wilhelmshaven egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wilhelmshaven ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Wilhelmshaven, situat pe malul Golfului Jade la Marea Nordului, este cea mai importantă bază navală a Germaniei și un centru de pionierat pentru energia sustenabilă. Fondat în 1869 de regele Wilhelm I al Prusiei special ca port militar, orașul respiră istorie maritimă prin fiecare stradă. Podul Kaiser Wilhelm, cel mai mare pod pivotant din Europa la momentul construcției, este simbolul inconfundabil al orașului. Astăzi, Wilhelmshaven găzduiește singurul port de ape adânci din Germania (JadeWeserPort) și joacă un rol strategic în securitatea energetică europeană prin terminalele sale de gaze lichefiate (LNG). Este o poartă către Parcul Național Marea Watten. Geografie K7 – Orașe portuare și importanța strategică a marinei.",
       en: ""
     },
     factsAdvanced: {
@@ -2838,7 +2838,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Orașul a fost fondat oficial la data de 17 iunie 1869.", "Podul Kaiser Wilhelm are o lungime de 159 de metri și două arcuri de oțel masive.", "JadeWeserPort este singurul port german care poate primi cele mai mari nave port-container din lume.", "Muzeul Marinei Germane din oraș deține singurul distrugător (Zerstörer) vizitabil.", "Regiunea este un centru major pentru producția de energie eoliană offshore.", "Acvariul local oferă o incursiune în viața subacvatică a Golfului Jade."],
       en: []
     },
     faq: {
@@ -2937,7 +2937,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das Steinhuder Meer bei Hannover ist mit einer Fläche von rund 29 Quadratkilometern der größte See Nordwestdeutschlands. Trotz seiner Größe ist das Gewässer extrem flach, mit einer durchschnittlichen Tiefe von nur 1,35 Metern. Inmitten des Sees liegt die künstliche Inselfestung Wilhelmstein, die im 18. Jahrhundert als uneinnehmbarer Zufluchtsort erbaut wurde. Das Steinhuder Meer ist ein Naturpark von internationaler Bedeutung, besonders als Rastplatz für Zugvögel. Es bietet ideale Bedingungen für Segler und Kitesurfer, während das idyllische Fischerdorf Steinhunde für seine geräucherten Aale bekannt ist. Geographie K6 – Glaziale Seen und ihre ökologische Bedeutung.",
       hu: "A(z) Steinhuder Meer egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Steinhuder Meer ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Steinhuder Meer este cel mai mare lac din nord-vestul Germaniei și inima unui parc natural vast din Saxonia Inferioară. Deși are o suprafață impresionantă, lacul este extrem de puțin adânc, având o medie de doar 1,35 metri, ceea ce îl face ideal pentru începătorii în navigație și windsurfing. Un element unic este insula artificială Wilhelmstein, o fortăreață construită în secolul al XVIII-lea în mijlocul apei. Malurile lacului sunt mărginite de mlaștini protejate (moors), care oferă habitat pentru păsări migratoare rare. Steinhuder Meer îmbină istoria militară curioasă cu turismul ecologic modern, fiind o destinație de weekend preferată pentru locuitorii din Hanovra. Geografie K6 – Lacuri de mică adâncime și zone umede protejate.",
       en: ""
     },
     factsAdvanced: {
@@ -2950,7 +2950,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Suprafața lacului este de aproximativ 29 de kilometri pătrați.", "Insula fortăreață Wilhelmstein a fost locul unde s-a testat primul submarin german în 1772.", "Adâncimea maximă a lacului este de numai 2,9 metri.", "Este un sit protejat prin convenția Ramsar pentru protecția zonelor umede.", "Bicicliștii pot parcurge un traseu de 32 km care înconjoară complet lacul.", "Peștele afumat (Anguilla) este specialitatea gastronomică tradițională a regiunii."],
       en: []
     },
     faq: {
@@ -3049,7 +3049,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Celle ist eine einzigartige Residenzstadt am Südrand der Lüneburger Heide, die durch eines der größten zusammenhängenden Fachwerk-Ensembles Europas besticht. Über 480 denkmalgeschützte Fachwerkhäuser in der Altstadt blieben im Zweiten Weltkrieg nahezu unversehrt und bilden eine malerische Kulisse. Das herrschaftliche Celler Schloss vereint Stilelemente der Renaissance und des Barocks und beherbergt das älteste noch bespielte Barocktheater Europas. Celle war über Jahrhunderte die Residenz der Herzöge von Braunschweig-Lüneburg. Heute verbindet die Stadt diese höfische Tradition mit modernen Akzenten und ist bekannt für das Landgestüt Celle und seine Pferdezucht. Geschichte K7 – Residenzstädte und Denkmalschutz in Deutschland.",
       hu: "A(z) Celle egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Celle ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Celle este o bijuterie arhitecturală situată la porțile Lüneburger Heide, fiind celebră pentru centrul său istoric ce cuprinde peste 450 de case pe structură de lemn (Fachwerk) restaurate. Orașul a servit drept reședință pentru ducii de Braunschweig-Lüneburg timp de aproape trei secole, lăsând moștenire impresionantul Castel Celle, care îmbină elemente de Renaștere și Baroc. Un alt punct de referință este Teatrul Castelului, cel mai vechi teatru baroc încă activ din Germania. Celle reușește să păstreze o atmosferă medievală autentică, fiind în același timp un oraș modern și o poartă către peisajele naturale unice ale landului Saxonia Inferioară. Istorie K6 – Arhitectura medievală și orașele rezidențiale.",
       en: ""
     },
     factsAdvanced: {
@@ -3062,7 +3062,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Centrul vechi al orașului deține cel mai mare ansamblu de case pe structură de lemn din Europa.", "Castelul Celle a fost sediul rezidențial al ducilor din dinastia Welf între 1378 și 1705.", "Teatrul din interiorul castelului a fost construit în 1674 și este cel mai vechi de acest tip.", "Orașul este menționat pentru prima dată în documente oficiale în anul 985.", "Grădina Franceză (Französischer Garten) este un parc baroc istoric creat în secolul XVII.", "Celle este sediul Curții de Apel din Saxonia Inferioară, o tradiție juridică de secole."],
       en: []
     },
     faq: {
@@ -3161,7 +3161,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Goslar am Nordrand des Harzes ist eine ehemalige Kaiserstadt von herausragender historischer Bedeutung. Über Jahrhunderte war sie ein Machtzentrum des Heiligen Römischen Reiches, begründet durch den Silberreichtum des angrenzenden Rammelsberges. Die Kaiserpfalz Goslar ist der größte und am besten erhaltene Profanbau der Romanik in Deutschland. Zusammen mit dem Bergwerk Rammelsberg und der Altstadt gehört Goslar zum UNESCO-Weltkulturerbe. Das mittelalterliche Stadtbild mit seinen schiefergedeckten Häusern und dem Marktplatz mit dem Glockenspiel zeugt vom einstigen Reichtum der hansischen Kaufleute. Geschichte K6 – Bergbau und Kaisertum im Mittelalter.",
       hu: "Goslar, teljes nevén Goslar Alte Kaiserstadt (Goslar Régi Császárváros) egy német város, tartományi körzet központja Alsó-Szászország tartományban. Része az UNESCO világörökségének. A(z) Goslar egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Goslar, situat la poalele munților Harz, este un oraș cu o importanță istorică excepțională, fiind timp de secole reședința favorită a împăraților germani. Orașul și mina Rammelsberg sunt incluse în patrimoniul UNESCO, reflectând peste o mie de ani de tradiție minieră și putere politică. Palatul Imperial (Kaiserpfalz), cu sala sa monumentală pictată, este cel mai mare și mai bine conservat edificiu laic din secolul al XI-lea. Centrul vechi, cu casele sale medievale acoperite cu ardezie și străduțele înguste, oferă o imagine autentică a bogăției aduse de argintul și cuprul extras din munții din apropiere. Istorie K7 – Imperiul Romano-German și mineritul medieval.",
       en: ""
     },
     factsAdvanced: {
@@ -3174,7 +3174,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Palatul Imperial a fost construit între 1040 și 1050 de împăratul Henric al III-lea.", "Mina Rammelsberg a funcționat neîntrerupt timp de peste 1.000 de ani (până în 1988).", "Orașul vechi deține peste 1.500 de case pe structură de lemn (Fachwerk).", "A fost un membru de seamă al Ligii Hanseatice datorită bogățiilor minerale.", "Inclus în patrimoniul mondial UNESCO în anul 1992.", "Primăria orașului deține o sală de consiliu (Huldigungssaal) cu picturi renascentiste unice."],
       en: []
     },
     faq: {
@@ -3273,7 +3273,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Ems ist ein 371 Kilometer langer Fluss, der das westliche Niedersachsen und Nordrhein-Westfalen durchquert. Sie entspringt in der Senne und mündet bei Emden in den Dollart und damit in die Nordsee. Eine weltweite Besonderheit ist ihre Rolle für den Schiffbau: Die Meyer Werft in Papenburg überführt ihre riesigen Kreuzfahrtschiffe über die gestaute Ems rückwärts in Richtung Meer – ein technisches und logistisches Meisterstück, das oft hunderte Schaulustige anlockt. Das Emsland ist zudem eine bedeutende Energieregion. Entlang des Flusses finden sich weite Moorlandschaften und wertvolle Feuchtgebiete, die unter Schutz stehen. Geographie K7 – Flussnutzung zwischen Logistik und Ökologie.",
       hu: "A(z) Ems egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ems ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Ems izvorăște din munții Teutoburg și străbate nord-vestul Germaniei, fiind o cale navigabilă de o importanță strategică excepțională pentru industria navală. Deși este un râu relativ mic, Ems este faimos la nivel mondial pentru transferul spectaculos al navelor de croazieră gigantice construite la șantierul Meyer Werft din Papenburg. Aceste nave colosale parcurg drumul spre Marea Nordului cu spatele, într-o manevră de precizie milimetrică ce depinde de flux și reflux. Barajul Ems de la Gandersum reglează nivelul apei pentru a permite aceste tranzite. Dincolo de industrie, Ems oferă peisaje liniștite de câmpie, fiind o destinație populară pentru drumeții și ciclism. Geografie K7 – Canale navigabile și impactul industriei asupra cursurilor de apă.",
       en: ""
     },
     factsAdvanced: {
@@ -3286,7 +3286,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Are o lungime totală de 371 de kilometri până la vărsarea în Golful Dollart.", "Papenburg este cel mai sudic port maritim de pe Ems, deși situat la 40 km de mare.", "Transferul navelor de croazieră (Ems-Überführung) are loc de obicei de două ori pe an.", "Include barajul Ems-Sperrwerk, finalizat în 2002 pentru protecția împotriva inundațiilor.", "Este conectat la regiunea Ruhr prin canalul Dortmund-Ems.", "Regiunea cursului inferior al Ems-ului este puternic influențată de mareele Mării Nordului."],
       en: []
     },
     faq: {
@@ -3387,7 +3387,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Chemnitz, die drittgrößte Stadt Sachsens, ist ein bedeutender Industriestandort mit einer wechselvollen Geschichte. Im 19. Jahrhundert galt sie als das 'Sächsische Manchester', geprägt durch den Maschinenbau und die Textilindustrie. Während der DDR-Zeit trug die Stadt den Namen 'Karl-Marx-Stadt', wovon das monumentale Karl-Marx-Monument, der zweitgrößte freistehend modellierte Kopf der Welt, noch heute zeugt. Chemnitz hat sich nach der Wende erfolgreich als Zentrum für Hochtechnologie, Forschung und Kultur neu erfunden und wurde zur Europäischen Kulturhauptstadt 2025 gewählt. Die Stadt verbindet industrielle Moderne mit beeindruckenden Parkanlagen und dem Schlossberg-Ensemble. Geschichte K8 – Industrielle Revolution und urbaner Strukturwandel.",
       hu: "A(z) Chemnitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemnitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Chemnitz, situat la poalele Munților Metaliferi, este un oraș cu o identitate industrială puternică, supranumit în trecut 'Manchester-ul Saxon'. Orașul a jucat un rol central în revoluția industrială germană, fiind centrul construcției de mașini și al industriei textile. În perioada RDG, orașul a purtat numele de Karl-Marx-Stadt, perioadă marcată de monumentul masiv al capului lui Karl Marx, a doua cea mai mare bust-sculptură din lume. Astăzi, Chemnitz se reinventează ca un hub cultural și tehnologic, fiind desemnat Capitală Europeană a Culturii pentru anul 2025. Orașul îmbină arhitectura industrială modernizată cu spații verzi generoase. Istorie K8 – Industrializarea și transformările politice în secolul XX.",
       en: ""
     },
     factsAdvanced: {
@@ -3400,7 +3400,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Chemnitz a fost ales Capitală Europeană a Culturii pentru anul 2025.", "Monumentul Karl Marx, înalt de 7 metri, este a doua cea mai mare sculptură de cap din lume.", "În secolul XIX, Chemnitz era cel mai bogat oraș din Germania datorită industriei sale.", "Turnul Roșu (Roter Turm) este cel mai vechi simbol al orașului, datând din secolul XII.", "Orașul a fost redenumit Karl-Marx-Stadt între 1953 și 1990.", "Muzeul Industrial din Chemnitz documentează istoria de 200 de ani a tehnologiei saxone."],
       en: []
     },
     faq: {
@@ -3499,7 +3499,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Zwickau ist die Wiege der sächsischen Automobilindustrie und ein traditionsreiches Zentrum des Bergbaus. Hier gründete August Horch Anfang des 20. Jahrhunderts die Marken Horch und Audi, was den Grundstein für den Weltruf Sachsens als Autoland legte. In der DDR war Zwickau der Produktionsort des legendären Trabant. Heute ist das VW-Werk Zwickau ein Vorreiter der Elektromobilität in Europa. Kulturell ist die Stadt als Geburtsort des Komponisten der Romantik, Robert Schumann, bekannt. Die historische Altstadt mit den Priesterhäusern – den ältesten Wohnbauten Sachsens – und dem prächtigen Dom St. Marien zeugt von der reichen Geschichte als wohlhabende Bergbaustadt. Geschichte K7 – Mobilitätsgeschichte und industrielle Tradition.",
       hu: "A(z) Zwickau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zwickau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Zwickau, situat la poalele Munților Metaliferi, este leagănul industriei automobilului saxone și orașul natal al celebrului compozitor Robert Schumann. Orașul are o istorie industrială fascinantă, fiind locul unde August Horch a fondat mărci de renume precum Audi și unde, mai târziu, s-a produs faimosul automobil Trabant în perioada est-germană. Muzeul August Horch documentează această evoluție tehnologică spectaculoasă. Centrul istoric restaurat cu grijă, cu piața principală și primăria veche, oferă un cadru cultural bogat, completat de Casa Memorială Robert Schumann, care păstrează vie moștenirea romantică a marelui muzician. Geografie K8 – Istoria transporturilor și industria auto.",
       en: ""
     },
     factsAdvanced: {
@@ -3512,7 +3512,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Compozitorul Robert Schumann s-a născut aici în anul 1810.", "August Horch a fondat compania Audi în Zwickau în anul 1909.", "Celebrul automobil 'Trabant' a fost produs aici în peste 3 milioane de exemplare.", "Biserica Sf. Maria (Marienkirche) deține un altar înaripat de o valoare inestimabilă.", "Muzeul August Horch este singurul muzeu auto situat pe locul unei foste fabrici originale.", "Zwickau a fost un centru major al mineritului de cărbune timp de aproape 700 de ani."],
       en: []
     },
     faq: {
@@ -3611,7 +3611,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das Erzgebirge an der Grenze zwischen Sachsen und Böhmen ist eine weltweit einzigartige Kulturlandschaft, die über 800 Jahre durch den Bergbau geprägt wurde. Der Reichtum an Silber, Zinn und Uran gab der Region ihren Namen und machte Sachsen einst zu einem der wohlhabendsten Staaten Europas. Seit 2019 gehört die 'Montanregion Erzgebirge' zum UNESCO-Weltkulturerbe. Aus dem Bergbau entwickelte sich auch die berühmte Handwerkskunst des Schnitzens und Drechselns (Schwibbögen, Nussknacker). Das Gebirge mit seinem höchsten Gipfel, dem Fichtelberg (1.215 m), ist heute zudem ein bedeutendes Wander- und Wintersportgebiet und bewahrt mit seinen Traditionen wie der Bergparade eine lebendige Identität. Geschichte K6 – Montanwesen und kulturelle Identität.",
       hu: "A(z) Erzgebirge egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Erzgebirge ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Munții Metaliferi (Erzgebirge), situați la granița dintre Saxonia și Cehia, sunt inima istorică a mineritului din Europa Centrală, regiunea fiind inclusă în patrimoniul UNESCO. Timp de peste 800 de ani, extragerea argintului, staniului și uraniului a modelat nu doar peisajul, ci și cultura și tradițiile locale. După declinul mineritului, locuitorii s-au specializat în arta sculpturii în lemn, Erzgebirge fiind locul de origine al spărgătorilor de nuci, al piramidelor de Crăciun și al îngerilor de lumină. Iarna, regiunea se transformă în 'Țara Crăciunului', oferind o atmosferă magică cu piețe tradiționale și parade ale minerilor în costume istorice. Geografie K7 – Patrimoniul industrial și tradițiile meșteșugărești.",
       en: ""
     },
     factsAdvanced: {
@@ -3624,7 +3624,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Vârful Fichtelberg (1.215 m) este cel mai înalt punct din partea saxonă.", "Mineritul în regiune a început oficial în anul 1168, lângă Freiberg.", "Regiunea minieră Erzgebirge/Krušnohoří este sit UNESCO din 2019.", "Orașul Seiffen este centrul mondial al jucăriilor tradiționale din lemn.", "Annaperger Kät este cel mai mare festival popular de tip bâlci din regiune.", "Include numeroase mine de vizitare (Schaubergwerke) accesibile publicului."],
       en: []
     },
     faq: {
@@ -3723,7 +3723,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Sächsische Schweiz ist der deutsche Teil des Elbsandsteingebirges und eine der spektakulärsten Naturlandschaften Mitteleuropas. Charakteristisch sind die bizarren Felsformationen, tiefen Schluchten und markanten Tafelberge wie der Lilienstein. Das Wahrzeichen der Region ist die Basteibrücke, die einen atemberaubenden Blick über das Elbtal bietet. Die Landschaft wurde durch Millionen Jahre dauernde Erosion des Kreidesandsteins geformt und inspirierte Künstler der Romantik wie Caspar David Friedrich. Heute ist das Gebiet als Nationalpark geschützt und gilt als eines der anspruchsvollsten Wander- und Klettergebiete Deutschlands, wobei hier die weltweit einzigartige Sächsische Kletterregel ihren Ursprung hat. Geographie K6 – Erosion, Gesteinskunde und Naturschutz.",
       hu: "A(z) Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Elveția Săsească (Sächsische Schweiz) este denumirea spectaculoasă a părții germane a Munților de Gresie ai Elbei, situată la sud de Dresda. Regiunea este unică în lume prin coloanele sale de piatră izolate, canioanele adânci și platourile care se ridică vertical din valea Elbei. Procesele de eroziune de milioane de ani au creat forme bizare care au fascinat artiștii romantici și au pus bazele alpinismului modern în Germania. Parcul Național protejează acest ecosistem fragil, unde vegetația se agață de stâncile golașe. Cu puncte de belvedere emblematice precum Bastei și fortărețe inexpugnabile precum Königstein, regiunea este o minune a naturii și a istoriei saxone. Geografie K6 – Procesele de eroziune și formele de relief reziduale.",
       en: ""
     },
     factsAdvanced: {
@@ -3736,7 +3736,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Numele a fost dat în secolul XVIII de doi artiști elvețieni care predau la Dresda.", "Regiunea deține peste 21.000 de trasee de alpinism pe 1.100 de vârfuri de gresie.", "Podul Bastei este cea mai vizitată atracție naturală din Saxonia.", "Munții s-au format prin depuneri de nisip în marea cretacică de acum 100 milioane de ani.", "Flora include specii rare de ferigi și mușchi care trăiesc în microclimatul canioanelor reci.", "Este legată de Dresda prin cea mai veche și mai mare flotă de vapoare cu aburi din lume."],
       en: []
     },
     faq: {
@@ -3835,7 +3835,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Elbe durchfließt Sachsen auf einer Länge von rund 180 Kilometern und bildet das Rückgrat der sächsischen Kultur- und Wirtschaftsgeschichte. Von der Sächsischen Schweiz kommend, weitet sich das Tal bei Dresden zum weiten Elbkessel und passiert das berühmte Weinanbaugebiet um Meißen. Der Fluss war jahrhundertelang die Hauptschlagader für den Handel mit Böhmen und dem Norden. Die Elbwiesen in Dresden sind ein einzigartiges Flächendenkmal, das Natur und Barockarchitektur verbindet. In Meißen ermöglichte der Elbtransport einst den Export des berühmten Porzellans. Heute ist die Elbe ein wichtiger Naturraum mit einer faszinierenden Tierwelt in den Auenlandschaften und ein Magnet für den Tourismus. Geographie K7 – Flusslandschaften als Kultur- und Wirtschaftsraum.",
       hu: "A(z) Elbe (Sachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Fluviul Elbe în Saxonia parcurge unul dintre cele mai spectaculoase și variate peisaje din Germania, de la canioanele de gresie ale Elveției Săsești până la splendoarea barocă a Dresdei. Râul intră în Germania printre stâncile abrupte de la Schöna, oferind vederi panoramice uluitoare artiștilor și turiștilor. Valea Elbei este renumită pentru podgoriile sale terasate, fiind cea mai nordică regiune viticolă importantă, și pentru palatele regale precum Pillnitz. Deși inundațiile istorice au pus adesea probleme regiunii, râul rămâne inima culturală și economică a Saxoniei, fiind navigat de cea mai veche flotă de vapoare cu aburi din lume. Geografie K7 – Peisaje fluviale și impactul geomorfologic al apei.",
       en: ""
     },
     factsAdvanced: {
@@ -3848,7 +3848,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Elbe străbate aproximativ 180 de kilometri pe teritoriul Saxoniei.", "Valea Elbei din Dresda a fost patrimoniu UNESCO până în anul 2009.", "Flota 'Sächsische Dampfschiffahrt' deține nouă vapoare cu zbaturi istorice.", "Lățimea râului în Dresda variază între 100 și 120 de metri.", "Regiunea viticolă de pe malul Elbei este celebră pentru soiul de vin 'Goldriesling'.", "Elbe-Radweg, traseul de biciclete de-a lungul râului, este cel mai popular din Germania."],
       en: []
     },
     faq: {
@@ -3947,7 +3947,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Meißen, die 'Wiege Sachsens', ist weltweit berühmt für die erste europäische Porzellanmanufaktur, die 1710 von August dem Starken gegründet wurde. Die gekreuzten Schwerter sind das älteste kontinuierlich genutzte Markenzeichen der Welt. Die Stadt wird von der Albrechtsburg, dem ersten deutschen Schlossbau des 15. Jahrhunderts, und dem gotischen Dom überragt. Meißen blieb im Zweiten Weltkrieg weitgehend verschont und besitzt eine prachtvolle mittelalterliche Altstadt. Der Weinbau an den steilen Elbhängen rund um die Stadt hat eine über 850-jährige Tradition und bringt exzellente sächsische Weine hervor. Meißen vereint in einzigartiger Weise höfische Tradition, Kunstfertigkeit und sächsische Geschichte. Kunstgeschichte K7 – Europäische Porzellankunst und Schlossbaukunst.",
       hu: "A(z) Meißen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Meißen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Meißen este celebru în întreaga lume ca 'orașul porțelanului', fiind locul unde în 1710 s-a înființat prima manufactură de porțelan din Europa sub patronajul lui August cel Tare. Castelul Albrechtsburg, care domină orașul de pe un deal stâncos deasupra Elbei, este considerat prima reședință de tip castel-palat construită în Germania (secolul XV). Meißen păstrează o atmosferă aristocratică, cu străduțe medievale, o catedrală gotică impunătoare și podgorii terasate ce produc renumitele vinuri saxone. Moștenirea porțelanului, marcată prin simbolul celor două săbii încrucișate, rămâne elementul central al identității acestui oraș istoric saxon. Istorie K7 – Invenția porțelanului și reședințele nobiliare saxone.",
       en: ""
     },
     factsAdvanced: {
@@ -3960,7 +3960,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Manufactura de Porțelan din Meißen a fost fondată oficial la 23 ianuarie 1710.", "Castelul Albrechtsburg a fost construit între 1471 și 1524 în stil gotic târziu.", "Simbolul porțelanului, săbiile încrucișate, este una dintre cele mai vechi mărci din lume.", "Catedrala din Meißen este un exemplu pur de arhitectură gotică germană.", "Orașul este centrul celei mai nordice regiuni viticole din Germania.", "Scările pitorești leagă orașul de jos de complexul castelului de pe deal."],
       en: []
     },
     faq: {
@@ -4059,7 +4059,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das Völkerschlachtdenkmal in Leipzig ist eines der gewaltigsten Denkmäler Europas und erinnert an die entscheidende Schlacht gegen Napoleon im Jahr 1813. Mit einer Höhe von 91 Metern ist es ein monumentales Wahrzeichen der Stadt. Eingeweiht im Jahr 1913 zum 100. Jahrestag der Schlacht, beeindruckt der Bau durch seine wuchtige Architektur des Historismus und die monumentalen Wächterfiguren im Inneren. In der Ruhmeshalle symbolisieren riesige Statuen die Tugenden des Volkes. Von der Aussichtsplattform bietet sich ein weiter Blick über Leipzig und das Umland. Das Denkmal ist nicht nur ein Gedenkort für über 100.000 Gefallene, sondern auch ein architektonisches Zeugnis des deutschen Nationalgefühls vor dem Ersten Weltkrieg. Geschichte K7 – Die Napoleonischen Kriege und ihre Folgen.",
       hu: "A(z) Völkerschlachtdenkmal Leipzig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Völkerschlachtdenkmal Leipzig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Monumentul Bătăliei Națiunilor (Völkerschlachtdenkmal) din Leipzig este una dintre cele mai masive structuri memoriale din Europa, comemorând victoria aliaților asupra trupelor lui Napoleon în 1813. Inaugurat în 1913, la centenarul bătăliei, monumentul se înalță la 91 de metri și impresionează prin stilul său arhitectural greoi și simbolic, decorat cu statui colosale. Interiorul deține 'Sala Celebrității' cu opt sculpturi uriașe ale 'Păzitorilor Morților'. De pe platforma superioară, vizitatorii au o vedere panoramică spectaculoasă asupra orașului Leipzig și a împrejurimilor. Este un monument al păcii și al istoriei europene, simbolizând sacrificiul și renașterea națională. Istorie K8 – Războaiele napoleoniene și cultura memorială.",
       en: ""
     },
     factsAdvanced: {
@@ -4072,7 +4072,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Monumentul are o înălțime totală de 91 de metri și o greutate de 300.000 de tone.", "Bătălia de la Leipzig (1813) a fost cea mai mare confruntare armată din istorie până la acea dată.", "Include o criptă simbolică și 500 de trepte care duc spre platforma de belvedere.", "Lacul artificial din fața monumentului se numește 'Lacul Lacrimilor' (Tränensee).", "Acustica din interior este fenomenală, monumentul fiind adesea gazdă pentru concerte corale.", "Sculpturile exterioare reprezintă virtuțile poporului german: curajul, credința și jertfa."],
       en: []
     },
     faq: {
@@ -4171,7 +4171,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Augustusbrücke in Dresden ist die historisch bedeutendste Verbindung über die Elbe und verbindet die barocke Altstadt mit der Neustadt. Die heutige Brücke aus Beton mit einer Verkleidung aus Sandstein wurde 1907-1910 nach Plänen von Wilhelm Kreis errichtet und ersetzte den berühmten Vorgängerbau von Matthäus Daniel Pöppelmann aus der Zeit Augusts des Starken. Die Brücke ist ein zentraler Bestandteil der 'Canaletto-Aussicht' und bietet einen ikonischen Blick auf die Frauenkirche, den Zwinger und die Semperoper. In den letzten Jahren wurde sie umfassend saniert und ist heute weitgehend dem öffentlichen Nahverkehr und Fußgängern vorbehalten, was sie zu einer wichtigen Flaniermeile der Stadt macht. Geographie K7 – Stadtentwicklung und historische Verkehrswege.",
       hu: "A(z) Augustusbrücke Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Augustusbrücke Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Podul Augustus (Augustusbrücke) din Dresda este cel mai vechi și important pod peste râul Elba din capitala saxonă, legând centrul istoric (Altstadt) de orașul nou (Neustadt). Construit inițial în piatră în secolul al XII-lea, podul actual a fost reconstruit la începutul secolului XX pentru a permite navigația modernă, păstrând însă stilul baroc dorit de August cel Tare. Este un punct de observație privilegiat pentru celebra 'Vedere a lui Canaletto', panorama spectaculoasă a clădirilor baroce de pe malul Elbei. Podul nu este doar o cale de comunicație, ci un monument istoric ce simbolizează reziliența și frumusețea arhitecturală a Dresdei, 'Florența de pe Elbe'. Istorie K7 – Arhitectura urbană și rețelele de transport medievale.",
       en: ""
     },
     factsAdvanced: {
@@ -4184,7 +4184,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Prima mențiune documentară a unui pod pe acest loc datează din anul 1287.", "August cel Tare a dispus reconstrucția sa în stil baroc între 1727 și 1731.", "Podul actual are nouă arcuri și a fost finalizat în anul 1910.", "A supraviețuit bombardamentului din 1945, dar a fost aruncat în aer parțial de trupele germane la retragere.", "În timpul marilor inundații din 2002, podul a rezistat presiunii uriașe a râului Elba.", "Este rezervat în prezent exclusiv transportului public, bicicliștilor și pietonilor."],
       en: []
     },
     faq: {
@@ -4283,7 +4283,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Görlitz ist die östlichste Stadt Deutschlands und ein architektonisches Juwel von europäischem Rang. Da die Stadt im Zweiten Weltkrieg fast vollständig unversehrt blieb, besitzt sie eines der am besten erhaltenen historischen Stadtbilder Mitteleuropas mit über 4.000 denkmalgeschützten Gebäuden aus Gotik, Renaissance, Barock und Gründerzeit. Die Grenze zu Polen verläuft heute mitten durch die Stadt, die zusammen mit Zgorzelec eine Europastadt bildet. Weltbekannt wurde Görlitz zudem als 'Görliwood', da seine authentische Kulisse als Drehort für zahlreiche internationale Filmproduktionen wie 'Grand Budapest Hotel' diente. Die prächtigen Hallenhäuser der Renaissance zeugen vom einstigen Reichtum als Tuchmacherstadt an der Via Regia. Geschichte K7 – Mittelalterliche Handelsstädte und moderne Grenzregionen.",
       hu: "A(z) Görlitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Görlitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Görlitz este considerat de mulți cel mai frumos oraș din Germania, fiind un muzeu în aer liber ce cuprinde peste 4.000 de monumente arhitecturale din perioadele gotică, renascentistă și barocă. Situat pe malul râului Neisse, la granița cu Polonia, orașul a scăpat aproape intact de distrugerile celui de-al Doilea Război Mondial. Frumusețea sa autentică a transformat orașul în 'Görliwood', fiind o locație de filmare preferată pentru producții de Oscar precum 'The Grand Budapest Hotel' sau 'Inglourious Basterds'. Podul pietonal peste Neisse leagă orașul de partea sa estică, Zgorzelec, formând o singură entitate urbană europeană. Istorie K7 – Conservarea patrimoniului și cultura de frontieră.",
       en: ""
     },
     factsAdvanced: {
@@ -4296,7 +4296,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Orașul deține peste 4.000 de clădiri monument istoric sub protecție.", "Meridianul 15 est trece prin Görlitz, definind ora oficială a Europei Centrale.", "Este o locație de filmare celebră la Hollywood, sub porecla 'Görliwood'.", "Biserica Sf. Petru și Pavel are o orgă faimoasă care poate imita sunete de soare.", "Formează o 'Oraș-Gemene' (Europastadt) împreună cu orașul polonez Zgorzelec.", "Este cel mai estic oraș al Germaniei, fiind poarta către Silezia."],
       en: []
     },
     faq: {
@@ -4395,7 +4395,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Talsperre Kriebstein im sächsischen Mittelland ist ein wichtiges Wasserbauwerk und ein beliebtes Naherholungsgebiet. Gestaut wird hier die Zschopau, die sich tief in die Felsenlandschaft eingeschnitten hat. Die 1927 bis 1930 errichtete Staumauer dient der Stromerzeugung und dem Hochwasserschutz. Besonders reizvoll ist die Kombination aus technischem Denkmal und wildromantischer Natur. Besucher können den See bei einer Schifffahrt erkunden oder die direkt am steilen Felsufer gelegene Burg Kriebstein bewundern, die als Sachsens schönste Ritterburg gilt. Das Gebiet ist ein beliebtes Ziel für Wanderer und Wassersportler und bietet mit der Seebühne einen Ort für kulturelle Veranstaltungen. Geographie K7 – Wasserkraftnutzung und touristische Erschließung.",
       hu: "A(z) Talsperre Kriebstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Talsperre Kriebstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Talsperre Kriebstein este considerat cel mai frumos lac de acumulare din landul Saxonia, fiind situat într-o vale adâncă și împădurită a râului Zschopau. Construit între 1927 și 1929 pentru producția de energie electrică, lacul a devenit rapid o zonă de recreere îndrăgită, fiind dominat de silueta impunătoare a Castelului Kriebstein, cel mai frumos castel cavaleresc din Saxonia. Cu malurile sale stâncoase și pantele abrupte acoperite de păduri de foioase, lacul oferă un peisaj aproape fiordic. Vizitatorii pot explora zona cu bărci de croazieră sau pe numeroasele trasee de drumeție care leagă barajul istoric de fortificația medievală. Geografie K7 – Valorificarea turistică a lacurilor de acumulare.",
       en: ""
     },
     factsAdvanced: {
@@ -4408,7 +4408,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Barajul are o înălțime de 28 de metri și o lungime a coronamentului de 235 de metri.", "Castelul Kriebstein, situat pe o stâncă abruptă, datează din secolul al XIV-lea.", "Lacul are o lungime de aproximativ 9 kilometri în lungul văii Zschopau.", "Găzduiește singura scenă lacustră (Seebühne) din Saxonia pentru spectacole de operetă.", "Este o locație populară pentru competiții de bărci cu motor la nivel internațional.", "Sistemul de ecluze permite accesul ambarcațiunilor pe diferite niveluri ale râului."],
       en: []
     },
     faq: {
@@ -4507,7 +4507,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Nationalpark Sächsische Schweiz schützt seit 1990 das Herzstück des Elbsandsteingebirges rechts der Elbe. Auf über 9.000 Hektar bietet er eine Landschaft aus zerklüfteten Felsnadeln, tiefen, schattigen Schluchten und unberührten Wäldern. Ziel ist es, die dynamischen Naturprozesse wie Erosion und Waldentwicklung ohne menschliche Eingriffe zuzulassen. Für Wanderer ist der Nationalpark durch den Malerweg erschlossen, der zu den schönsten Wanderwegen Deutschlands zählt. Eine Besonderheit ist die hohe Dichte an Horsten seltener Greifvögel wie dem Wanderfalken, der hier erfolgreich wieder angesiedelt wurde. Der Park ist zudem ein internationales Zentrum für das Felsklettern unter strengen Naturschutzauflagen. Biologie K6 – Naturschutzgebiete und Ökosystem Sandsteinregion.",
       hu: "A(z) Nationalpark Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Parcul Național Elveția Săsească (Sächsische Schweiz) protejează peisajul unic de gresie al Munților Elbei, caracterizat prin coloane de piatră spectaculoase, canioane adânci și platouri înalte. Cel mai faimos punct de reper este Podul Bastei, care oferă vederi uluitoare asupra râului Elba și a formațiunilor stâncoase bizare. Regiunea a inspirat numeroși artiști romantici, precum pictorul Caspar David Friedrich, datorită atmosferei sale mistice. Pe lângă frumusețea naturală, parcul găzduiește fortăreața Königstein, una dintre cele mai mari și mai bine conservate cetăți montane din Europa, fiind o destinație de top pentru alpiniști și turiști. Geografie K6 – Forme de relief prin eroziunea gresiei.",
       en: ""
     },
     factsAdvanced: {
@@ -4520,7 +4520,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Singurul parc național de stânci de gresie din Germania, înființat în 1990.", "Podul Bastei a fost construit inițial din lemn în 1824 și din piatră în 1851.", "Regiunea deține peste 1.100 de vârfuri de gresie accesibile pentru alpinism.", "Fortăreața Königstein se află pe un platou stâncos la 240 metri deasupra Elbei.", "Suprafața parcului național este de aproximativ 93 de kilometri pătrați.", "Traseul 'Malerweg' (Calea Pictorilor) este considerat unul dintre cele mai frumoase din lume."],
       en: []
     },
     faq: {
@@ -4619,7 +4619,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Schloss Moritzburg bei Dresden ist eines der prachtvollsten Barockschlösser Mitteleuropas und war das Jagddomizil Augusts des Starken. Das symmetrische Ensemble mit seinen vier Türmen liegt malerisch auf einer Insel inmitten eines künstlichen Teiches. Berühmt ist das Schloss für sein 'Federzimmer' mit über einer Million Vogelfedern und die weltweit umfangreichste Sammlung von Jagdtrophäen (Rotwildgeweihe). Die Innenausstattung mit kostbaren Goldledertapeten spiegelt den Glanz des sächsischen Absolutismus wider. In der Winterzeit wird das Schloss zum Wallfahrtsort für Märchenfans, da es als Original-Drehort des Kultfilms 'Drei Haselnüsse für Aschenbrödel' diente. Ein weiteres Highlight ist das nahegelegene Fasanenschlösschen mit seinem Leuchtturm. Geschichte K7 – Barocke Repräsentation und höfische Jagdkultur.",
       hu: "A(z) Schloss Moritzburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Moritzburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Castelul Moritzburg este unul dintre cele mai frumoase palate baroce din Europa, situat idilic în mijlocul unui lac artificial pe o insulă. Construit inițial ca pavilion de vânătoare în secolul al XVI-lea, castelul a fost transformat de regele August cel Tare într-un palat somptuos, piesa centrală a unui vast domeniu de vânătoare și pescuit. Este celebru la nivel internațional ca locație de filmare pentru basmul 'Trei alune pentru Cenușăreasa'. Interiorul adăpostește colecții impresionante de trofee de vânătoare și faimoasa 'Cameră a Păunului' decorată cu pene de pasăre. Grădinile și Castelul Făsanilor din apropiere completează acest ansamblu regal saxon. Istorie K7 – Barocul saxon și curtea lui August cel Tare.",
       en: ""
     },
     factsAdvanced: {
@@ -4632,7 +4632,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Palatul actual a fost remodelat în stil baroc între 1723 și 1733.", "Este situat pe o insulă artificială și are patru turnuri rotunde masive.", "Găzduiește una dintre cele mai mari colecții de coarne de cerb din lume.", "Aici s-a filmat celebrul film 'Trei alune pentru Cenușăreasa' (1973).", "Castelul Făsanilor (Fasanenschlösschen) din apropiere are singurul far de pe un lac interior.", "Pădurea și iazurile din jur au fost special amenajate pentru vânătoarea regală."],
       en: []
     },
     faq: {
@@ -4731,7 +4731,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Freiberg ist die älteste und bedeutendste Bergstadt Sachsens und war über Jahrhunderte das silberne Herz des Landes. Der Reichtum aus den Silberminen legte den Grundstein für die Macht des wettinischen Fürstenhauses. Heute zeugen der Dom St. Marien mit der berühmten Goldenen Pforte und der Silbermann-Orgel sowie die historische Altstadt von dieser glanzvollen Zeit. Freiberg ist zudem Sitz der 1765 gegründeten TU Bergakademie, der ältesten montanwissenschaftlichen Universität der Welt. Eine moderne Weltsensation ist die 'terra mineralia' im Schloss Freudenstein, die eine der bedeutendsten Mineraliensammlungen weltweit beherbergt. Seit 2019 ist Freiberg ein zentraler Bestandteil des UNESCO-Weltkulturerbes Montanregion Erzgebirge. Geschichte K6 – Bergbautradition und technischer Fortschritt.",
       hu: "A(z) Freiberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Freiberg este inima istorică a mineritului de argint din Saxonia, având o tradiție de peste 800 de ani care a pus bazele bogăției acestui land. Fondat în 1186 după descoperirea unor zăcăminte masive de argint, orașul găzduiește TU Bergakademie, cea mai veche universitate de profil minier din lume încă activă. Centrul istoric este remarcabil conservat, având catedrala Sf. Maria cu celebra 'Poartă de Aur' și cea mai mare orgă Silbermann supraviețuitoare. Expoziția 'Terra Mineralia' din castelul Freudenstein este una dintre cele mai mari colecții de minerale de pe glob, atrăgând cercetători și turiști deopotrivă. Istorie K7 – Mineritul și dezvoltarea economică în Evul Mediu.",
       en: ""
     },
     factsAdvanced: {
@@ -4744,7 +4744,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Prima universitate minieră din lume (Bergakademie) a fost fondată aici în 1765.", "Mineritul de argint a început oficial în regiune în anul 1168.", "Catedrala din Freiberg deține o orgă monumentală construită de Gottfried Silbermann.", "Orașul face parte din regiunea minieră Erzgebirge/Krušnohoří, inclusă în UNESCO.", "Expoziția 'Terra Mineralia' găzduiește peste 3.500 de minerale și pietre prețioase.", "Numele orașului înseamnă 'Muntele Liber', referindu-se la privilegiile minerilor."],
       en: []
     },
     faq: {
@@ -4843,7 +4843,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das 'Blaue Wunder' ist die wohl bekannteste Brücke Dresdens und ein technisches Denkmal von europäischem Rang. Die 1893 fertiggestellte Loschwitzer Brücke verbindet die Villenviertel Blasewitz und Loschwitz und galt damals als Wunder der Technik, da sie die Elbe auf einer Länge von 141 Metern ohne Strompfeiler überspannt. Ihre charakteristische hellblaue Farbe gab ihr den volkstümlichen Namen. Die Brücke aus genietetem Stahl ist ein Symbol für die industrielle Innovationskraft Sachsens Ende des 19. Jahrhunderts. Da sie am Ende des Zweiten Weltkriegs mutig vor der Sprengung bewahrt wurde, ist sie im Originalzustand erhalten. Heute ist sie ein markanter Orientierungspunkt in der Dresdner Elblandschaft. Physik K8 – Brückenbau und Stahlkonstruktionen der Industrialisierung.",
       hu: "A(z) Blaues Wunder Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Blaues Wunder Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Podul Loschwitz din Dresda, cunoscut sub numele popular de 'Minunea Albastră' (Blaues Wunder), este o capodoperă a ingineriei germane de la sfârșitul secolului al XIX-lea. Numele său provine de la vopseaua bleu-deschis originală și de la faptul că, la data construcției, era un 'miracol' tehnic: un pod de oțel masiv care traversează Elba fără a avea niciun pilon în albia râului. Această construcție de tip grindă cu zăbrele a salvat valea Elbei de obstacole vizuale, păstrând panorama pitorească a colinelor cu podgorii. Podul a devenit un simbol al cartierelor elegante Loschwitz și Blasewitz și este unul dintre cele mai iubite repere tehnice din Saxonia. Tehnologie K8 – Ingineria metalică și estetica podurilor urbane.",
       en: ""
     },
     factsAdvanced: {
@@ -4856,7 +4856,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Construit între 1891 și 1893 sub conducerea inginerului Claus Koepcke.", "Lungimea totală a podului este de 280 de metri, fără susținere centrală.", "În 1945, cetățeni curajoși au tăiat firele detonatorului, salvând podul de la distrugere.", "Numele oficial este 'Loschwitzer Brücke', dar nimeni nu îl folosește.", "Greutatea totală a structurii de oțel este de aproximativ 3.500 de tone.", "Este situat în imediata apropiere a celebrei căi ferate suspendate (Schwebebahn)."],
       en: []
     },
     faq: {
@@ -4955,7 +4955,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Dresdner Zwinger ist eines der bedeutendsten Bauwerke des deutschen Barock und ein Symbol für die kulturelle Blüte Sachsens unter August dem Starken. Entworfen von Matthäus Daniel Pöppelmann und ausgestattet mit Skulpturen von Balthasar Permoser, diente er ursprünglich als Orangerie und Festplatz des Hofes. Das symmetrische Ensemble mit dem Kronentor, dem Wallpavillon und dem Nymphenbad ist ein Gesamtkunstwerk aus Architektur, Plastik und Gartenkunst. Heute beherbergt der Zwinger weltberühmte Museen wie die Gemäldegalerie Alte Meister mit der Sixtinischen Madonna von Raffael sowie den Mathematisch-Physikalischen Salon. Er ist das Herzstück der Dresdner Museumslandschaft und ein Magnet für Millionen von Besuchern. Kunstgeschichte K8 – Barocke Architektur und höfische Repräsentation.",
       hu: "A(z) Dresdner Zwinger egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dresdner Zwinger ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Zwinger din Dresda este un triumf al arhitecturii baroce europene, fiind conceput de August cel Tare ca o oranjerie și curte pentru festivități regale. Proiectat de arhitectul Matthäus Daniel Pöppelmann și decorat cu sculpturi de Balthasar Permoser, complexul impresionează prin armonia dintre arhitectură, sculptură și grădini. Poarta Coroanei (Kronentor) și Baia Nimfelor (Nymphenbad) sunt considerate printre cele mai rafinate exemple de artă barocă din lume. Astăzi, Zwinger găzduiește muzee de renume mondial, inclusiv Galeria Vechiilor Maeștri, unde se află 'Madona Sixtină' de Rafael, și cea mai mare colecție de porțelan din afara Asiei. Arta K8 – Barocul european și colecțiile regale de artă.",
       en: ""
     },
     factsAdvanced: {
@@ -4968,7 +4968,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Construit între 1710 și 1728 la ordinul regelui August cel Tare.", "Găzduiește 'Madona Sixtină' de Rafael în Galeria Vechiilor Maeștri.", "Poarta Coroanei este decorată cu o replică a coroanei regale poloneze.", "Nymphenbad este considerată una dintre cele mai frumoase fântâni baroce din Germania.", "Colecția de Porțelan deține peste 20.000 de piese din Meißen și Asia.", "A fost aproape complet distrus în bombardamentul din 1945 și reconstruit ulterior."],
       en: []
     },
     faq: {
@@ -5069,7 +5069,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Koblenz ist eine der ältesten Städte Deutschlands und liegt malerisch am 'Deutschen Eck', dem Zusammenfluss von Rhein und Mosel. Die Stadt blickt auf eine über 2.000-jährige Geschichte zurück, die bis in die Römerzeit reicht. Ein Wahrzeichen ist das monumentale Reiterstandbild Kaiser Wilhelms I. am Zusammenfluss. Hoch über der Stadt thront die Festung Ehrenbreitstein, eine der größten erhaltenen Festungsanlagen Europas, die über eine Seilbahn mit der Altstadt verbunden ist. Als Tor zum UNESCO-Welterbe Oberes Mittelrheintal ist Koblenz ein Zentrum des Tourismus und der Weinkultur. Die Stadt verbindet preußische Militärgeschichte mit rheinischer Lebensfreude und ist ein bedeutender Verwaltungsstandort in Rheinland-Pfalz. Geschichte K7 – Deutsche Einigung und historische Grenzfestungen.",
       hu: "A(z) Koblenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Koblenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Koblenz este unul dintre cele mai vechi și spectaculoase orașe ale Germaniei, situat la confluența râurilor Rin și Mosela, loc cunoscut sub numele de 'Colțul German' (Deutsches Eck). Acest punct strategic este dominat de monumentul ecvestru masiv al împăratului Wilhelm I. Deasupra orașului se înalță fortăreața Ehrenbreitstein, a doua cea mai mare fortăreață conservată din Europa, accesibilă printr-o telecabină modernă ce oferă vederi panoramice unice. Koblenz servește ca poartă de intrare către Valea Rinului Mijlociu, zonă inclusă în patrimoniul UNESCO, fiind faimoasă pentru castelele sale și podgoriile terasate de pe malurile Moselei. Geografie K7 – Confluențe fluviale și regiuni viticole.",
       en: ""
     },
     factsAdvanced: {
@@ -5082,7 +5082,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Deutsches Eck marchează locul unde Mosela se varsă în fluviul Rin.", "Fortăreața Ehrenbreitstein se află la 118 metri deasupra nivelului Rinului.", "Orașul a fost fondat de romani sub numele de 'Confluentes' în anul 9 î.Hr.", "Face parte din patrimoniul mondial UNESCO 'Valea Superioară a Rinului Mijlociu'.", "Telecabina din Koblenz are cea mai mare capacitate de transport din Germania.", "Castelul Electoral (Kurfürstliches Schloss) a fost ultima reședință a electorilor de Trier."],
       en: []
     },
     faq: {
@@ -5181,7 +5181,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Mosel ist der größte deutsche Nebenfluss des Rheins und prägt eine der ältesten und schönsten Kulturlandschaften Europas. Auf ihrem Weg durch Rheinland-Pfalz schlängelt sie sich in engen Schleifen durch das rheinische Schiefergebirge. Weltberühmt ist die Region für ihren Weinbau auf extremen Steillagen wie dem Bremmer Calmont, dem steilsten Weinberg der Welt. Die Flusslandschaft ist gesäumt von mittelalterlichen Burgen wie der Burg Eltz und historischen Winzerdörfern wie Cochem und Bernkastel-Kues. Die Mosel ist nicht nur ein bedeutender Lieferant für erstklassigen Riesling, sondern auch eine wichtige Wasserstraße, die Deutschland mit Frankreich und Luxemburg verbindet. Geographie K7 – Weinbauökologie und Flussmorphologie.",
       hu: "A(z) Mosel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mosel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Mosela (Mosel) străbate în landul Renania-Palatinat una dintre cele mai frumoase și celebre văi viticole din lume. Caracterizat prin meandrele sale strânse (buclele Moselei), râul a tăiat canioane adânci în masivul muntos de ardezie, creând pante abrupte ideale pentru cultivarea viței de vie Riesling. Punctul de maximă spectaculozitate este Bremmer Calmont, cea mai abruptă podgorie din Europa. Malurile Moselei sunt presărate cu orașe medievale de poveste precum Cochem și Bernkastel-Kues, și cu castele impunătoare. Râul este o cale navigabilă importantă, dar farmecul său principal rămâne peisajul cultural unic unde apa, piatra și vinul se contopesc de peste două milenii. Geografie K7 – Podgoriile terasate și relieful de meandre.",
       en: ""
     },
     factsAdvanced: {
@@ -5194,7 +5194,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Mosela este cel mai lung afluent al Rinului, având 544 km (232 km în Germania).", "Buclele Moselei de la Bremm oferă o panoramă de 180 de grade asupra râului.", "Valea Moselei deține peste 60 de milioane de butuci de viță de vie.", "Râul a fost canalizat în anii 1960 pentru a permite navigația navelor de mari dimensiuni.", "Trier, cel mai vechi oraș din Germania, este situat pe cursul superior al Moselei.", "Există 28 de ecluze pe tot cursul Moselei pentru a facilita transportul fluvial."],
       en: []
     },
     faq: {
@@ -5293,7 +5293,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Ludwigshafen am Rhein ist die jüngste Großstadt in Rheinland-Pfalz und ein industrielles Kraftzentrum von Weltrang. Die Stadt entstand Mitte des 19. Jahrhunderts aus einer Rheinschanze und ist untrennbar mit dem Aufstieg der chemischen Industrie verbunden. Heute beherbergt sie mit der BASF das größte zusammenhängende Chemieareal der Welt, das das wirtschaftliche Leben und das Stadtbild maßgeblich prägt. Ludwigshafen ist zudem ein bedeutender Logistikknotenpunkt mit einem leistungsfähigen Rheinhafen. Trotz ihres industriellen Charakters bietet die Stadt mit dem Ebertpark und der Rheinpromenade grüne Oasen. Sie gilt als multikulturelle Stadt und ist bekannt für das Festival des deutschen Films auf der Parkinsel. Geographie K7 – Die Industriestadt als modernes Wirtschaftszentrum.",
       hu: "A(z) Ludwigshafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ludwigshafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Ludwigshafen pe Rin este inima industrială a regiunii Palatinat, fiind cunoscut la nivel global ca sediu al BASF, cea mai mare companie chimică din lume. Orașul are o istorie relativ tânără, dezvoltându-se rapid în secolul al XIX-lea dintr-un port comercial într-un gigant al industriei chimice. Deși este adesea perceput prin prisma peisajului său industrial și a rețelelor complexe de conducte, Ludwigshafen oferă și spații culturale moderne, precum Muzeul Wilhelm-Hack cu celebra sa fațadă de mozaic realizată de Joan Miró. Este un simbol al puterii economice germane și al inovației tehnologice aplicate la scară globală. Geografie K8 – Centre industriale și industria chimică globală.",
       en: ""
     },
     factsAdvanced: {
@@ -5306,7 +5306,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Găzduiește sediul central al BASF, cel mai mare complex chimic integrat din lume.", "Orașul a fost numit oficial în 1843 după regele Ludwig I al Bavariei.", "Muzeul Wilhelm-Hack deține o pictură murală uriașă de 55 de metri realizată de Joan Miró.", "Este un nod logistic major, având unul dintre cele mai mari porturi fluviale de pe Rin.", "A fost aproape complet reconstruit după distrugerile din al Doilea Război Mondial.", "Parcul Ebertpark este o oază verde importantă în inima acestui oraș industrial."],
       en: []
     },
     faq: {
@@ -5405,7 +5405,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Porta Nigra in Trier ist das am besten erhaltene römische Stadttor nördlich der Alpen und das unbestrittene Wahrzeichen der ältesten Stadt Deutschlands. Erbaut um 170 n. Chr. aus riesigen Sandsteinblöcken ohne Mörtel, zeugt sie von der Bedeutung Triers (Augusta Treverorum) als 'zweites Rom' und kaiserliche Residenz der Spätantike. Ihren Namen 'Schwarzes Tor' erhielt sie im Mittelalter aufgrund der dunklen Verfärbung des Steins. Dass das Tor erhalten blieb, verdankt es dem heiligen Simeon, der darin als Eremit lebte, woraufhin das Bauwerk in eine Doppelkirche umgewandelt wurde. Heute ist die Porta Nigra Teil des UNESCO-Weltkulturerbes und ein imposantes Tor in die Geschichte des Römischen Reiches. Geschichte K6 – Das Römische Reich und seine Provinzhauptstädte.",
       hu: "A(z) Trier – Porta Nigra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Trier – Porta Nigra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Porta Nigra (Poarta Neagră) din Trier este cea mai mare și mai bine conservată poartă de oraș romană de la nord de Alpi, fiind simbolul inconfundabil al celui mai vechi oraș din Germania. Construită în secolul al II-lea din blocuri masive de gresie cenușie fără mortar, poarta a căpătat culoarea sa închisă din cauza eroziunii și a poluării medievale. A supraviețuit de-a lungul secolelor datorită transformării sale într-o biserică dublă dedicată Sfântului Simeon, înainte de a fi readusă la forma sa originală de către Napoleon. Astăzi, face parte din patrimoniul UNESCO și reprezintă mărturia supremă a puterii Romei în regiunea Rinului. Istorie K6 – Imperiul Roman și orașul Augusta Treverorum.",
       en: ""
     },
     factsAdvanced: {
@@ -5418,7 +5418,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Construită în jurul anului 170 d.Hr. din aproximativ 7.200 de blocuri de piatră.", "Niciun gram de mortar nu a fost folosit; blocurile sunt fixate cu scoabe de fier.", "În Evul Mediu, a servit drept biserică (Simeonstift) pe două niveluri.", "Inclusă în lista patrimoniului mondial UNESCO în anul 1986.", "Are o lungime de 36 de metri și o înălțime de aproape 30 de metri.", "Numele 'Porta Nigra' a fost menționat pentru prima dată în secolul al XII-lea."],
       en: []
     },
     faq: {
@@ -5517,7 +5517,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Pfälzerwald im Südwesten Deutschlands ist das größte zusammenhängende Waldgebiet der Bundesrepublik und eine faszinierende Buntsandsteinlandschaft. Zusammen mit den angrenzenden Nordvogesen bildet er ein grenzüberschreitendes UNESCO-Biosphärenreservat. Die Region ist geprägt durch weite Kiefern- und Buchenwälder, markante Felsformationen wie den Teufelstisch und eine außergewöhnliche Dichte an mittelalterlichen Burgen, darunter die Reichsfestung Trifels. Ein dichtes Netz an Wanderwegen und die traditionellen Pfälzerwald-Hütten machen die Region zu einem Paradies für Naturfreunde. Die klimatisch begünstigte 'Weinstraße' an seinem Ostrand ist zudem berühmt für ihren Weinbau und das milde Klima. Geographie K6 – Biosphärenreservate und nachhaltiger Tourismus.",
       hu: "A(z) Pfälzerwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Pfälzerwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Pădurea Palatinatului (Pfälzerwald) este cea mai mare suprafață forestieră compactă din Germania și inima unei rezervații a biosferei transfrontaliere UNESCO. Peisajul este definit de formațiunile spectaculoase de gresie roșie și de numeroasele castele medievale cocoțate pe stânci, precum castelul Trifels, unde a fost întemnițat Richard Inimă de Leu. Pfälzerwald este un paradis pentru drumeții și alpiniști, oferind sute de kilometri de trasee prin păduri de pini și castani. La marginea sa estică, pădurea se întâlnește cu renumita regiune viticolă a Palatinatului, oferind un contrast plăcut între sălbăticia naturii și cultura rafinată a vinului german. Biologie K6 – Conservarea biodiversității și ecosistemele forestiere.",
       en: ""
     },
     factsAdvanced: {
@@ -5530,7 +5530,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Rezervația biosferei Pfälzerwald-Vosges du Nord este partajată cu Franța.", "Punctul cel mai înalt este vârful Kalmit, cu o altitudine de 673 de metri.", "Regiunea deține cea mai mare densitate de castele și ruine din Germania.", "Gresia roșie (Buntsandstein) oferă peste 80 de turnuri de escaladă naturale.", "Există peste 100 de cabane forestiere (Hütten) care oferă gastronomie locală drumeților.", "Pădurea este un habitat esențial pentru reintroducerea râsului în Europa."],
       en: []
     },
     faq: {
@@ -5629,7 +5629,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Nahe ist ein 125 Kilometer langer linker Nebenfluss des Rheins, der eine der geologisch abwechslungsreichsten Landschaften Deutschlands durchfließt. Weltbekannt ist das Nahetal für Idar-Oberstein, die 'Edelsteinstadt', deren Tradition auf den Funden von Achaten und Amethysten im 14. Jahrhundert beruht. Ein spektakuläres Naturdenkmal am Flusslauf ist der Rotenfels, die höchste Steilwand nördlich der Alpen. Die Naheregion ist zudem ein renommiertes Weinanbaugebiet, das für seine charakterstarken Rieslinge auf vulkanischem Boden geschätzt wird. Historische Brückenhäuser in Bad Kreuznach und die Mündung in den Rhein bei Bingen prägen den Lauf dieses faszinierenden Flusses. Geographie K7 – Gesteinsvielfalt und regionale Wirtschaftskreisläufe.",
       hu: "A(z) Nahe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nahe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Nahe este o bijuterie ascunsă a sud-vestului Germaniei, șerpuind prin landurile Hessa și Renania-Palatinat înainte de a se vărsa în Rin la Bingen. Valea Nahe este renumită la nivel mondial pentru două bogății: vinurile sale rafinate și pietrele prețioase. Orașul Idar-Oberstein, situat pe malurile sale, este centrul mondial al prelucrării pietrelor prețioase, având singura biserică construită direct într-o stâncă deasupra râului. Peisajul variat cuprinde stânci de porfir roșu, mlaștini și dealuri viticole line. Nahe oferă o experiență autentică, fiind o destinație ideală pentru cei care caută wellness în stațiunile balneare precum Bad Kreuznach și peisaje naturale dramatice. Geografie K7 – Resursele minerale și regiunile viticole de nișă.",
       en: ""
     },
     factsAdvanced: {
@@ -5642,7 +5642,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Nahe are o lungime de 125 de kilometri.", "Valea este renumită pentru Rotenfels, cea mai înaltă stâncă de la nord de Alpi (202 m).", "Bad Kreuznach este faimos pentru gradinele sale de inhalare cu apă sărată (Gradierwerke).", "Regiunea viticolă Nahe este una dintre cele mai mici, dar cele mai diverse geologic din Germania.", "În Idar-Oberstein se află Muzeul German al Pietrelor Prețioase.", "Râul desparte regiunea muntoasă Hunsrück de munții Nordpfälzer Bergland."],
       en: []
     },
     faq: {
@@ -5741,7 +5741,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das Deutsche Eck in Koblenz ist eine künstlich angelegte Landzunge am Zusammenfluss von Rhein und Mosel und einer der symbolträchtigsten Orte der deutschen Einheit. Seinen Namen verdankt der Ort dem Deutschen Orden, der sich hier im Jahr 1216 niederließ. Das monumentale Reiterstandbild von Kaiser Wilhelm I., das 1897 errichtet wurde, sollte die Gründung des Deutschen Reiches feiern. Nach seiner Zerstörung im Zweiten Weltkrieg diente der Sockel als Mahnmal für die deutsche Einheit, bevor das Standbild 1993 rekonstruiert wurde. Heute ist das Deutsche Eck ein Magnet für Touristen aus aller Welt und der Ausgangspunkt für die Seilbahn zur Festung Ehrenbreitstein. Geschichte K7 – Reichsgründung und nationale Denkmäler.",
       hu: "A(z) Deutsches Eck egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Deutsches Eck ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Deutsches Eck (Colțul German) din Koblenz este un loc cu o semnificație istorică și simbolică profundă, marcând confluența spectaculoasă a râului Mosela cu fluviul Rin. Punctul central este monumentul ecvestru monumental al împăratului Wilhelm I, ridicat în 1897 pentru a celebra prima unificare a Germaniei. După distrugerea sa în război, locul a servit ca 'Memorial al Unității Germane' până la reconstrucția statuii în 1993. Astăzi, colțul de pământ în formă de provă de navă este o destinație turistică majoră, fiind punctul de plecare pentru telecabina spre fortăreața Ehrenbreitstein și inima patrimoniului UNESCO din Valea Rinului. Geografie K7 – Confluențe fluviale și simbolistica națională.",
       en: ""
     },
     factsAdvanced: {
@@ -5754,7 +5754,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Numele provine de la Ordinul Teuton (Deutscher Orden), care s-a stabilit aici în 1216.", "Statuia actuală a împăratului Wilhelm I are o înălțime totală de 37 de metri.", "Confluența este vizibilă clar prin culorile diferite ale apelor Rinului și Moselei.", "Locul este flancat de steagurile tuturor celor 16 landuri federale germane.", "Atrage anual peste 2 milioane de vizitatori din întreaga lume.", "Face parte din situl UNESCO 'Valea Superioară a Rinului Mijlociu'."],
       en: []
     },
     faq: {
@@ -5853,7 +5853,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Eifel ist ein faszinierendes Mittelgebirge vulkanischen Ursprungs, das sich über Rheinland-Pfalz und Nordrhein-Westfalen erstreckt. Einzigartig in Deutschland sind die 'Maare' – wassergefüllte Kraterseen, die durch gewaltige Wasserdampfexplosionen entstanden sind und als 'Augen der Eifel' bezeichnet werden. Die Region ist geologisch noch immer aktiv, was sich an aufsteigenden Gasen im Laacher See zeigt. Neben spektakulärer Natur bietet die Eifel historische Schätze wie die Burg Eltz und das mittelalterliche Monschau. Der Nürburgring, eine der berühmtesten Rennstrecken der Welt, ist ebenfalls hier beheimatet. Die Eifel ist heute ein bedeutendes Schutzgebiet mit dem ersten Nationalpark in Nordrhein-Westfalen. Geographie K6 – Vulkanismus und Formschatz der Mittelgebirge.",
       hu: "A(z) Eifel (Rheinland-Pfalz) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eifel (Rheinland-Pfalz) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Regiunea muntoasă Eifel din Renania-Palatinat este un tărâm vulcanic fascinant, renumit pentru lacurile sale circulare albastre numite 'Maare' – ochi de apă formați în cratere vulcanice stinse. Acest peisaj unic oferă o incursiune în istoria geologică a Europei, având cel mai tânăr vulcanism de pe teritoriul german. Pe lângă geologie, Eifel este faimos pentru Nürburgring, unul dintre cele mai dificile circuite de curse din lume, și pentru Parcul Național Eifel, unde se protejează păduri vaste de fag. Regiunea îmbină armonios satele pitorești cu case din piatră, castelele medievale și natura sălbatică a munților de joasă altitudine. Geografie K6 – Vulcanismul și formele de relief lacustre.",
       en: ""
     },
     factsAdvanced: {
@@ -5866,7 +5866,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Hohe Acht este cel mai înalt vârf al regiunii, având 747 de metri.", "Pulvermaar este unul dintre cele mai adânci lacuri vulcanice din Germania (72 m).", "Regiunea este traversată de 'Eifelsteig', un traseu de drumeție de 313 km.", "Eifel găzduiește numeroase izvoare de apă minerală, precum Gerolsteiner.", "Ghețarii din epoca de piatră nu au ajuns în Eifel, păstrând formele vulcanice intacte.", "Abația Maria Laach este cel mai important monument arhitectural din Eifel."],
       en: []
     },
     faq: {
@@ -5965,7 +5965,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Laacher See in der Vulkaneifel ist kein gewöhnlicher See, sondern die wassergefüllte Caldera eines schlafenden Vulkans. Er entstand nach der gewaltigen Eruption des Laacher Vulkans vor etwa 13.000 Jahren, die ganz Mitteleuropa mit Asche bedeckte. Heute ist er der größte See in Rheinland-Pfalz und ein Naturschutzgebiet von europäischem Rang. An seinem Ostufer steigen noch immer vulkanische Gase (Mofetten) in Form von Bläschen auf – ein Zeichen für die magmatische Aktivität im Untergrund. Direkt am Seeufer liegt die prachtvolle hochromanische Abtei Maria Laach, ein kulturelles Juwel des Mittelalters. Der See verbindet auf faszinierende Weise Erdgeschichte mit sakraler Architektur. Geographie K6 – Magmatismus und Vulkanformen in Deutschland.",
       hu: "A(z) Laacher See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Laacher See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Laacher See, situat în munții Eifel, este cel mai mare lac vulcanic din Europa Centrală, format într-o calderă după o erupție masivă acum aproximativ 13.000 de ani. Deși pare liniștit, activitatea vulcanică este încă vizibilă prin micile bule de dioxid de carbon (mofete) care ies la suprafață pe malul estic. Pe malul lacului se înalță Abația Maria Laach, o capodoperă a arhitecturii romanice germane, care conferă locului o atmosferă spirituală unică. Peisajul idilic, format din păduri dese care înconjoară apa albastră, atrage geologi, pelerini și turiști dornici să exploreze trecutul vulcanic activ al regiunii Renania-Palatinat. Geografie K6 – Vulcanismul în Europa și formarea calderelor.",
       en: ""
     },
     factsAdvanced: {
@@ -5978,7 +5978,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Erupția vulcanului Laacher See a fost una dintre cele mai mari din Europa post-glaciară.", "Lacul are o formă aproape circulară și o suprafață de 3,3 km².", "Bulele de gaz (Mofetten) demonstrează că vulcanul este considerat 'adormit', nu stins.", "Abația Maria Laach a fost fondată în anul 1093.", "Adâncimea maximă a lacului este de 51 de metri.", "Zona face parte din Parcul Vulcanologic din estul munților Eifel."],
       en: []
     },
     faq: {
@@ -6077,7 +6077,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Kaiserdom zu Speyer ist das bedeutendste Baudenkmal der Romanik und war 1981 eines der ersten deutschen Denkmäler auf der UNESCO-Welterbeliste. Errichtet ab 1030 unter Konrad II., sollte er die größte Kirche der christlichen Welt sein und den Machtanspruch der salischen Kaiser untermauern. Mit seiner monumentalen Krypta beherbergt er die Grablege von acht mittelalterlichen Kaisern und Königen. Die Architektur mit dem einzigartigen Blendarkaden-System und dem Zwerggalerie-Umlauf beeinflusste den Kirchenbau in ganz Europa. Der Speyerer Dom ist ein Symbol für das Heilige Römische Reich und eine spirituelle Landmarke am Rhein, die fast 1.000 Jahre Geschichte atmet. Geschichte K6 – Das salische Kaisertum und romanische Sakralbauten.",
       hu: "A(z) Speyerer Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Speyerer Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Catedrala din Speyer (Domul Imperial) este cea mai mare și mai impunătoare biserică romanică din lume care s-a păstrat intactă, fiind un simbol al puterii împăraților germani din dinastia Saliană. Inclusă în patrimoniul UNESCO încă din 1981, catedrala impresionează prin dimensiunile sale colosale și prin cripta sa vastă, care adăpostește mormintele a opt împărați și regi germani. Arhitectura sa din gresie roșie, cu cele patru turnuri și două cupole, a servit drept model pentru numeroase alte edificii sacre din Europa. Domul din Speyer nu este doar o capodoperă a ingineriei medievale, ci și un martor tăcut al istoriei politice a Sfântului Imperiu Roman. Istorie K7 – Imperiul Romano-German și dinastiile imperiale.",
       en: ""
     },
     factsAdvanced: {
@@ -6090,7 +6090,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Inclusă în patrimoniul mondial UNESCO în 1981, fiind printre primele situri din Germania.", "A fost construită la inițiativa împăratului Conrad al II-lea în jurul anului 1030.", "Cripta este cea mai mare sală de acest tip din lume, având peste 800 m².", "Lungimea totală a catedralei este de 134 de metri.", "Găzduiește panteonul împăraților din dinastiile Saliană, Staufer și Habsburg.", "Bazinul de piatră din fața domului ('Domnapf') era umplut cu vin la înscăunarea noilor episcopi."],
       en: []
     },
     faq: {
@@ -6189,7 +6189,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Der Loreley-Felsen bei Sankt Goarshausen ist der Inbegriff der Rheinromantik und gehört zum UNESCO-Welterbe Oberes Mittelrheintal. Der 132 Meter hohe Schieferfelsen ragt steil an einer der engsten und tiefsten Stellen des Rheins auf, wo die starke Strömung früher vielen Schiffern zum Verhängnis wurde. Die Legende der schönen Nixe, die mit ihrem Gesang Seeleute ins Verderben lockt, wurde durch das Gedicht von Heinrich Heine weltweit berühmt. Das Plateau bietet einen spektakulären Panoramablick auf den Rheinverlauf und die Burgen Katz und Rheinfels. Heute ist die Loreley mit ihrem modernen Besucherzentrum und der legendären Freilichtbühne ein Magnet für Kulturtouristen aus aller Welt. Literatur K7 – Deutsche Romantik und die Mythen des Rheins.",
       hu: "A(z) Loreley egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Loreley ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Stânca Loreley, situată în landul Renania-Palatinat, este cel mai iconic punct al Văii Superioare a Rinului Mijlociu, inclusă în patrimoniul UNESCO. Acest promontoriu abrupt de ardezie se înalță la 132 de metri deasupra apei, marcând locul unde fluviul este cel mai îngust și mai adânc. Legenda sirenei Loreley, care ademenea marinarii cu cântecul ei înșelător, a devenit un simbol universal al romantismului german. Platoul oferă o panoramă uluitoare asupra fortificațiilor și podgoriilor de pe malurile Rinului, fiind o destinație mitică unde natura sălbatică întâlnește istoria și literatura. Geografie K7 – Peisaje culturale fluviale și mitologia germană.",
       en: ""
     },
     factsAdvanced: {
@@ -6202,7 +6202,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Numele provine din germana veche 'lureln' (murmur) și 'ley' (stâncă).", "Râul Rin are o adâncime de 25 de metri în dreptul stâncii, fiind un sector dificil pentru navigație.", "O statuie de bronz a sirenei a fost ridicată în 1983 la baza promontoriului.", "Centrul pentru vizitatori oferă expoziții interactive despre ecosistemul văii Rinului.", "Amfiteatrul Loreley Freilichtbühne găzduiește concerte rock și de operă de renume mondial.", "Regiunea produce unele dintre cele mai fine vinuri Riesling din lume."],
       en: []
     },
     faq: {
@@ -6301,7 +6301,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Worms ist eine der ältesten Städte Deutschlands und ein Schauplatz von welthistorischer Bedeutung. Hier treffen die Sagenwelt der Nibelungen und die Geburtsstunde der Reformation aufeinander. Im Mittelalter war Worms ein Zentrum kaiserlicher Macht, wovon der prächtige romanische Dom St. Peter zeugt. Weltberühmt wurde die Stadt durch den Reichstag von 1521, auf dem Martin Luther vor Kaiser Karl V. seine Thesen verteidigte. Heute erinnert das größte Reformationsdenkmal der Welt an dieses Ereignis. Zudem ist Worms als 'SchUM-Stadt' Teil des UNESCO-Welterbes und beherbergt mit dem 'Heiligen Sand' den ältesten erhaltenen jüdischen Friedhof Europas. Geschichte K7 – Reformation und jüdisches Erbe in Deutschland.",
       hu: "A(z) Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Worms este unul dintre cele mai vechi orașe ale Germaniei, situat pe malul Rinului și adânc înrădăcinat în mitologie și istorie politică. Este cunoscut sub numele de 'Orașul Nibelungilor', fiind scena principală a epopeii medievale Cântecul Nibelungilor. În plan religios, Worms a fost locul Dietei din 1521, unde Martin Luther și-a apărat tezele în fața împăratului Carol al V-lea, eveniment marcat astăzi de cel mai mare monument al Reformei din lume. Catedrala Sf. Petru, una dintre cele trei catedrale imperiale de pe Rin, reprezintă un apogeu al arhitecturii romanice germane. Orașul păstrează și unul dintre cele mai vechi cimitire evreiești din Europa. Istorie K7 – Epopeile medievale și Reforma religioasă.",
       en: ""
     },
     factsAdvanced: {
@@ -6314,7 +6314,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Catedrala din Worms este una dintre cele trei catedrale imperiale 'Kaiserdom' de pe Rin.", "Martin Luther a rostit celebra frază 'Aici stau și nu pot altfel' în dieta din 1521.", "Cimitirul evreiesc 'Heiliger Sand' datează din secolul al XI-lea.", "Festivalul Nibelungilor are loc anual în fața catedralei din oraș.", "Podul Nibelungilor de peste Rin este decorat cu un turn în stil neoromanic.", "Worms face parte din siturile UNESCO 'ShUM', centre ale culturii evreiești ashkenaze."],
       en: []
     },
     faq: {
@@ -6413,7 +6413,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Die Reichsburg Cochem ist das Wahrzeichen der Moselregion und thront majestätisch auf einem steilen Felskegel über der Stadt Cochem. Ursprünglich im 11. Jahrhundert als Zollburg erbaut, wurde sie im 17. Jahrhundert von Truppen Ludwigs XIV. zerstört. Ihr heutiges Erscheinungsbild im Stil der Neugotik verdankt sie dem Berliner Industriellen Louis Ravené, der die Burg im 19. Jahrhundert als Sommerresidenz prachtvoll wiederaufbauen ließ. Die Anlage mit ihren vielen Türmen und Zinnen gilt als Inbegriff der Rhein- und Moselromantik. Besucher können heute prächtige Rittersäle und Kemenaten bewundern, die mit Renaissance- und Barockmöbeln ausgestattet sind und einen tiefen Einblick in das höfische Leben vergangener Zeiten bieten. Kunstgeschichte K7 – Historismus und die Romantik im 19. Jahrhundert.",
       hu: "A(z) Burg Cochem egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Cochem ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Castelul Reichsburg din Cochem este o bijuterie neogotică ce domină valea Moselei de pe un promontoriu stâncos înalt de 100 de metri. Deși originile sale datează din secolul al XI-lea, castelul medieval a fost distrus complet de trupele lui Ludovic al XIV-lea în 1689. Forma sa actuală, spectaculoasă și plină de turnulețe, este rezultatul reconstrucției romantice realizate de omul de afaceri Louis Ravené în secolul al XIX-lea. Cu interioarele sale bogat decorate cu mobilier renascentist și baroc, castelul oferă o imagine idealizată a cavalerismului german. Panorama asupra râului Mosela și a podgoriilor terasate de la picioarele sale face din Cochem unul dintre cele mai fotografiate locuri din Germania. Istorie K7 – Romantismul german și reconstrucția castelelor medievale.",
       en: ""
     },
     factsAdvanced: {
@@ -6426,7 +6426,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["A fost reședința imperială a dinastiilor Staufer și Luxemburg în Evul Mediu.", "Reconstrucția în stil neogotic a început în 1868 și a durat 9 ani.", "Turnul principal ('Keep') este decorat cu un mozaic uriaș al Sfântului Cristofor.", "Găzduiește mese cavalerești tradiționale în sala de mese istorică a castelului.", "Este situat în cea mai veche regiune viticolă a Germaniei, renumită pentru Riesling.", "Castelul poate fi văzut din aproape orice punct al pitorescului oraș Cochem."],
       en: []
     },
     faq: {
@@ -6525,7 +6525,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Das historische Judenviertel in Worms war über Jahrhunderte ein geistiges Zentrum des aschkenasischen Judentums und gehört heute als Teil der 'SchUM-Stätten' zum UNESCO-Weltkulturerbe. Die Gemeinde in Worms war im Mittelalter so bedeutend, dass die Stadt auch als 'Klein-Jerusalem' bezeichnet wurde. Herzstück des Viertels ist die 1034 errichtete Synagoge mit dem rituellen Tauchbad (Mikwe), das zu den ältesten seiner Art in Europa zählt. Trotz mehrfacher Zerstörungen und Wiederaufbaus blieb der Grundriss des Viertels über 1.000 Jahre erhalten. In Worms wirkte der berühmte Gelehrte Raschi, dessen Erbe noch heute Forscher und Gläubige aus aller Welt anzieht. Geschichte K8 – Jüdische Kultur und ihre Bedeutung im Mittelalter.",
       hu: "A(z) Jüdisches Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Jüdisches Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Cartierul Evreiesc din Worms este unul dintre cele mai importante situri ale culturii evreiești din Europa, făcând parte din patrimoniul mondial UNESCO ca parte a siturilor 'ShUM'. Worms a fost un centru intelectual major în Evul Mediu, fiind supranumit 'Micul Ierusalim de pe Rin'. Sinagoga istorică, baia rituală (Mikveh) subterană deosebit de bine conservată și cimitirul 'Heiliger Sand' – cel mai vechi cimitir evreiesc in situ din Europa – depun mărturie despre o tradiție de un mileniu. Aici a activat celebrul învățat Rashi, ale cărui comentarii asupra Talmudului sunt fundamentale și astăzi pentru iudaismul mondial. Istorie K7 – Iudaismul în Europa medievală și siturile ShUM.",
       en: ""
     },
     factsAdvanced: {
@@ -6538,7 +6538,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Siturile ShUM (Speyer, Worms, Mainz) sunt înscrise în UNESCO din 2021.", "Cimitirul 'Heiliger Sand' are peste 2.500 de pietre funerare, unele din anul 1058.", "Baia rituală (Mikveh) a fost construită în 1185 și coboară 8 metri sub pământ.", "Sinagoga din Worms, fondată în 1034, a fost reconstruită fidel după 1945.", "Celebrul rabin și învățat Rashi a studiat și a predat aici în secolul al XI-lea.", "Cartierul a fost centrul vieții spirituale evreiești ashkenaze timp de secole."],
       en: []
     },
     faq: {
@@ -6637,7 +6637,7 @@ export const poiExtraDe2: POI[] = [
     descriptionAdvanced: {
       de: "Burg Rheinstein bei Trechtingshausen gilt als die Geburtsstätte der rheinischen Burgenromantik. Im frühen 19. Jahrhundert war sie die erste verfallene Ruine am Mittelrhein, die als steingewordenes Ideal des Rittertums wiederaufgebaut wurde. Prinz Friedrich von Preußen ließ die Anlage ab 1823 prachtvoll restaurieren und nutzte sie als Sommerresidenz. Die Burg besticht durch ihre filigrane neugotische Architektur, farbenprächtige Glasmalereien und den prunkvollen Rittersaal. Die hängenden Gärten und der weite Blick über den Rhein machen sie zu einem der romantischsten Orte im Welterbetal. Rheinstein ist ein herausragendes Beispiel für den Wunsch des preußischen Königshauses, die Geschichte des Mittelalters wieder lebendig werden zu lassen. Kunstgeschichte K7 – Die preußische Rheinromantik und der Burgenbau.",
       hu: "A(z) Burg Rheinstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Rheinstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Castelul Rheinstein, situat pe o stâncă abruptă deasupra Rinului, este considerat simbolul reconstrucției romantice a castelelor din Germania. Construit inițial în secolul al XIII-lea sub numele de Burg Voitsberg, a fost transformat în ruină înainte de a fi salvat în 1823 de prințul Frederic al Prusiei. Reconstrucția sa a marcat începutul 'Romantismului Rinului', influențând arhitectura și arta întregii epoci. Castelul păstrează interioare medievale recreate cu mare fast, vitralii istorice și o grădină suspendată spectaculoasă. Rheinstein rămâne unul dintre cele mai vizitate castele din Valea Rinului, fiind un exemplu de conservare a moștenirii cavalerismului german. Istorie K7 – Castelul medieval și epoca Romantismului.",
       en: ""
     },
     factsAdvanced: {
@@ -6650,7 +6650,7 @@ export const poiExtraDe2: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Este primul dintre ruinele castelelor de pe Rin care a fost reconstruit în secolul XIX.", "Capela castelului adăpostește mausoleul prințului Frederic al Prusiei.", "Deține un tun istoric funcțional și o colecție valoroasă de armuri.", "Grădina Burgunden este renumită pentru vița de vie veche de peste 100 de ani.", "Oferă o perspectivă strategică asupra celebrului 'Binger Loch', o zonă dificilă pe Rin.", "Castelul este proprietate privată și este administrat de familia Hecher din 1975."],
       en: []
     },
     faq: {

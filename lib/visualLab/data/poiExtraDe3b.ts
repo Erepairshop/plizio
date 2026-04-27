@@ -23,7 +23,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Potsdam, die Hauptstadt Brandenburgs, ist ein Juwel europäischer Kulturgeschichte und war über Jahrhunderte die glanzvolle Residenzstadt der preußischen Könige. Die Stadt ist weltbekannt für ihr einzigartiges Ensemble aus Schlössern und Gärten, allen voran Park Sanssouci mit dem berühmten Sommerschloss Friedrichs des Großen. Neben der preußischen Pracht ist Potsdam ein Ort der Weltgeschichte: Im Schloss Cecilienhof fand 1945 die Potsdamer Konferenz statt. Die Stadt besticht zudem durch Viertel wie das Holländische Viertel oder die russische Kolonie Alexandrowka. Heute ist Potsdam ein führender Wissenschaftsstandort und das Zentrum der deutschen Filmindustrie mit den traditionsreichen Babelsberger Studios. Geschichte K7 – Preußische Geschichte und europäische Diplomatie.",
       hu: "A(z) Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Potsdam, capitala landului Brandenburg, este unul dintre cele mai splendide orașe rezidențiale din Europa, fiind faimos pentru palatele și parcurile sale incluse în patrimoniul mondial UNESCO. Perla orașului este Palatul Sanssouci, construit de regele Frederic cel Mare ca refugiu de vară, înconjurat de grădini terasate spectaculoase. Potsdam a fost scena unor evenimente istorice majore, precum Conferința de la Potsdam din 1945 la Palatul Cecilienhof. Orașul este, de asemenea, un centru al cinematografiei mondiale prin Studiourile Babelsberg, cele mai vechi de acest tip din lume. Podul Glienicke, locul schimbului de spioni în timpul Războiului Rece, completează identitatea complexă a acestui oraș regal. Istorie K7 – Absolutismul prusac și istoria secolului XX.",
       en: ""
     },
     factsAdvanced: {
@@ -36,7 +36,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Palatul Sanssouci este considerat 'Versailles-ul german', fiind finalizat în 1747.", "Întregul peisaj cultural al orașului (500 ha) este sub protecție UNESCO din 1990.", "Studioul Babelsberg, fondat în 1912, este cel mai vechi studio de film din lume.", "Palatul Cecilienhof a găzduit liderii 'Cei Trei Mari' după al Doilea Război Mondial.", "Podul Glienicke a fost locul a trei schimburi celebre de spioni între Est și Vest.", "Cartierul Olandez (Holländisches Viertel) cuprinde 134 de case din cărămidă roșie."],
       en: []
     },
   },
@@ -61,7 +61,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Cottbus ist das wirtschaftliche und kulturelle Zentrum der Lausitz und das Tor zum Spreewald. Die Stadt blickt auf eine über 850-jährige Geschichte zurück und ist heute eine bedeutende Universitätsstadt. Ein architektonisches Meisterwerk von europäischem Rang ist der Branitzer Park des exzentrischen Fürsten Pückler, der für seine Erdpyramiden und die Gestaltung als englischer Landschaftsgarten berühmt ist. Cottbus ist zudem das Zentrum der sorbischen Kultur in Brandenburg, was sich im zweisprachigen Stadtbild widerspiegelt. Die Stadt hat den Strukturwandel vom Braunkohlerevier zum modernen Technologiestandort erfolgreich eingeleitet und ist Sitz der BTU Cottbus-Senftenberg. Geographie K7 – Strukturwandel in ehemaligen Energie-Regionen.",
       hu: "A(z) Cottbus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Cottbus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Cottbus, situat în sudul landului Brandenburg, este inima culturală a minorității sorabe (venede) și al doilea cel mai mare oraș din regiune. Orașul este celebru la nivel mondial pentru Parcul Branitz, o capodoperă a arhitecturii peisagistice creată de prințul Hermann von Pückler-Muskau, care include piramide de pământ unice în Europa. Cottbus a evoluat dintr-un centru textil medieval într-un hub energetic important, fiind poarta de intrare către regiunea Spreewald. Orașul păstrează un amestec fascinant de arhitectură istorică și influențe culturale slave, vizibile în bilingvismul semnelor stradale. Geografie K7 – Minorități culturale și peisaje antropice în Germania.",
       en: ""
     },
     factsAdvanced: {
@@ -74,7 +74,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Este centrul cultural și politic al sorabilor din regiunea Lusacia Inferioară.", "Parcul Branitz găzduiește singurele piramide de pământ (tumuli) din Europa.", "Numele sorab al orașului este Chóśebuz, reflectând rădăcinile sale slave.", "A fost un centru major al industriei textile în secolul al XIX-lea.", "Găzduiește Universitatea Tehnologică Brandenburg (BTU) din anul 1991.", "Turnul Castelului (Schloßtürm) este cel mai vechi punct de reper supraviețuitor al orașului."],
       en: []
     },
   },
@@ -99,7 +99,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Spree ist der Lebensstrom Brandenburgs und Berlins und durchfließt auf ihrem Weg von der Lausitz bis zur Havel faszinierende Naturräume. Besonders einzigartig ist der Spreewald in Brandenburg, ein UNESCO-Biosphärenreservat, in dem sich der Fluss in hunderte kleine Kanäle verzweigt. Diese Lagunenlandschaft ist die Heimat der Sorben und eine der bedeutendsten Kulturlandschaften Mitteleuropas. Die Spree dient nicht nur der Naherholung durch die berühmten Kahnfahrten, sondern ist auch ökologisch als Rückzugsraum für seltene Tierarten wie den Fischotter von unschätzbarem Wert. In ihrem weiteren Verlauf speist sie Talsperren und bildet die Wasserader der deutschen Hauptstadt. Geographie K8 – Flussverzweigungen und UNESCO-Biosphärenreservate.",
       hu: "A(z) Spree (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spree (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Spree este artera vitală a landului Brandenburg și simbolul capitalei Berlin, fiind renumit în special pentru spectaculoasa deltă interioară numită Spreewald. În această zonă protejată de UNESCO, râul se ramifică în sute de canale înguste, creând un peisaj acvatic unic unde transportul tradițional se face și astăzi cu barca. După ce părăsește idila Spreewald-ului, râul traversează bazinele miniere din Lusacia, unde trece printr-un proces masiv de renaturare, înainte de a intra triumfal în Berlin. Spree nu este doar o cale navigabilă, ci inima unei culturi locale marcată de prezența minorității sorabe și un motor al biodiversității în estul Germaniei. Geografie K6 – Delte interioare și transformări antropice ale râurilor.",
       en: ""
     },
     factsAdvanced: {
@@ -112,7 +112,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Lungimea totală a râului Spree este de aproximativ 400 de kilometri.", "Aproape jumătate din lungimea sa se află pe teritoriul landului Brandenburg.", "Spreewald este o rezervație a biosferei UNESCO din anul 1991.", "Râul izvorăște din trei puncte diferite în munții Luzației, lângă granița cu Cehia.", "În Berlin, Spree alimentează numeroase canale și faimoasa Insulă a Muzeelor.", "Numele râului provine probabil din limba slavă și înseamnă 'râu care se revarsă'."],
       en: []
     },
   },
@@ -137,7 +137,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Havel ist einer der wasserreichsten und seenreichsten Flüsse Deutschlands und durchfließt Brandenburg in einem weiten Bogen. Charakteristisch für die Havel ist ihr extrem geringes Gefälle, weshalb sie an vielen Stellen kaum zu fließen scheint und weite Seenketten bildet. Historisch war der Fluss die Lebensader der Mark Brandenburg; Städte wie Brandenburg an der Havel, Potsdam und Rathenow verdanken ihr ihre Entstehung und ihren Reichtum. Die Havellandschaft mit ihren flachen Ufern, weiten Wiesen und dem Naturpark Westhavelland ist ein Rückzugsraum für seltene Vogelarten. Durch die Bundesgartenschau 2015 wurde die Havelregion zudem als ein zusammenhängendes touristisches Gebiet von nationalem Rang gewürdigt. Geographie K7 – Flusslandschaften und historische Stadtgründungen.",
       hu: "A(z) Havel (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Havel este inima albastră a landului Brandenburg, renumit pentru cursul său neobișnuit de șerpuit și pentru nenumăratele lacuri pe care le formează. Spre deosebire de alte râuri, Havel are o pantă foarte mică, ceea ce îl face să semene cu un lanț continuu de lacuri liniștite, ideale pentru navigație și sporturi nautice. Cursul său trece prin orașe istorice precum Potsdam, unde malurile sale sunt decorate cu palate și parcuri UNESCO, și Brandenburg an der Havel, leagănul mărcii. Rezervația naturală 'Havel inferior' este cea mai mare zonă umedă protejată din interiorul Europei Centrale, fiind un paradis pentru berze și vidre. Geografie K6 – Cursuri de apă lacustre și zone umede.",
       en: ""
     },
     factsAdvanced: {
@@ -150,7 +150,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Lungimea totală a râului Havel este de 334 de kilometri.", "Diferența de nivel pe tot cursul este de numai 40 de metri, rezultând o curgere foarte lentă.", "Formează peste 40 de lacuri de-a lungul cursului său prin Brandenburg și Berlin.", "Este conectat la râul Spree în centrul Berlinului, la Spandau.", "Havel inferior a fost scena celui mai mare proiect de renaturare a unui râu din Europa.", "Regiunea Werder (Havel) este celebră pentru producția de fructe și vin pe malul râului."],
       en: []
     },
   },
@@ -175,7 +175,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Scharmützelsee im Osten Brandenburgs wird aufgrund seiner Größe und Schönheit oft als das 'Märkische Meer' bezeichnet. Er ist der zweitgrößte natürliche See des Landes und das Herzstück des Erholungsortes Bad Saarow. Der See entstand während der letzten Eiszeit als Rinnensee und besticht heute durch seine ausgezeichnete Wasserqualität und die bewaldeten Ufer. Historisch entwickelte sich der See Anfang des 20. Jahrhunderts zum Treffpunkt der Berliner Prominenz, was sich in der prächtigen Architektur der Villen in Bad Saarow widerspiegelt. Mit seinen Heilmooren und Thermalquellen ist die Region ein Zentrum für Gesundheit und Wellness in Brandenburg und ein beliebtes Revier für Segler und Wanderer. Geographie K6 – Glaziale Entstehung von Rinnenseen und Tourismus.",
       hu: "A(z) Scharmützelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Scharmützelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Scharmützelsee, supranumit de scriitorul Theodor Fontane 'Marea din Brandenburg', este un lac pitoresc situat la sud-est de Berlin. Renumit pentru eleganța stațiunii Bad Saarow de pe malul său, lacul a fost timp de peste un secol o destinație de lux pentru elita berlineză. Apa sa curată și împrejurimile împădurite oferă un cadru ideal pentru wellness, navigație și golf. Arhitectura vilelor istorice de pe maluri și parcurile bine întreținute conferă zonei un aer de stațiune aristocratică. Scharmützelsee reprezintă un exemplu perfect de peisaj cultural Mark Brandenburg, unde natura și relaxarea de înaltă clasă se contopesc armonios. Geografie K7 – Peisaje culturale regionale și turismul balnear.",
       en: ""
     },
     factsAdvanced: {
@@ -188,7 +188,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Este al doilea ca mărime dintre lacurile naturale din Brandenburg (12 km²).", "Bad Saarow este prima stațiune balneară din Germania certificată pentru nămol terapeutic.", "Lacul are o formă alungită, cu o lungime de aproximativ 10 kilometri.", "Este conectat la rețeaua de căi navigabile federale prin canalul Storkower.", "Adâncimea maximă a lacului este de aproximativ 29 de metri.", "Regiunea găzduiește unele dintre cele mai bune terenuri de golf din Europa (A-ROSA)."],
       en: []
     },
   },
@@ -213,7 +213,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Schwielowsee südwestlich von Potsdam gilt als einer der landschaftlich schönsten Seen im Verlauf der Havel. Theodor Fontane pries ihn als 'Gottes weite Welt', da er sich fast quadratisch auf über sieben Quadratkilometern ausdehnt. Die Orte rund um den See, wie Werder (Havel), Ferch und Caputh, sind Inbegriffe brandenburgischer Idylle. Besonders Caputh erlangte Weltruhm durch Albert Einstein, der hier in den Sommermonaten in seinem Holzhaus wohnte und auf dem See segelte. Der See ist nicht nur ein beliebtes Naherholungsgebiet für Berliner und Potsdamer, sondern auch ein Zentrum des Segelsports. Die Verbindung von Kulturlandschaft, Geschichte und Wassersport macht ihn einzigartig in Brandenburg. Geographie K6 – Die Havelseen als Teil der preußischen Kulturlandschaft.",
       hu: "A(z) Schwielowsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwielowsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Schwielowsee este considerat cel mai frumos lac din lanțul de lacuri formate de râul Havel, situat în apropiere de Potsdam și Berlin. Farmecul său i-a atras de-a lungul timpului pe renumiți artiști și oameni de știință, printre care Albert Einstein, care a avut o casă de vară în satul Caputh de pe malul lacului. Orașul viticol Werder (Havel), situat pe o insulă la capătul nordic, și palatul baroc din Caputh completează acest peisaj cultural prusac. Cu apele sale liniștite și malurile verzi, Schwielowsee este un centru pentru navigația de agrement și un simbol al idilei rurale din Brandenburg, imortalizat în scrierile lui Theodor Fontane. Istorie K7 – Peisajele culturale prusace și personalități istorice.",
       en: ""
     },
     factsAdvanced: {
@@ -226,7 +226,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Lacul are o suprafață de aproximativ 7,8 kilometri pătrați.", "Casa de vară a lui Albert Einstein din Caputh poate fi vizitată și astăzi.", "Werder (Havel) este renumit pentru festivalul său anual al pomilor înfloriți (Baumblütenfest).", "Schwielowsee este o parte integrantă a parcului fluvial UNESCO din Potsdam.", "Adâncimea sa este redusă, atingând maximum 9 metri.", "Biserica din satul Petzow de pe malul lacului a fost proiectată de Karl Friedrich Schinkel."],
       en: []
     },
   },
@@ -251,7 +251,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Fläming ist ein sanft gewellter Höhenzug in Brandenburg und Sachsen-Anhalt, der durch die gewaltigen Eismassen der vorletzten Eiszeit geformt wurde. Seinen Namen verdankt die Region flämischen Siedlern, die im 12. Jahrhundert hierherkamen und die Landwirtschaft sowie den Bau markanter Feldsteinkirchen prägten. Als Nationaler Naturpark bietet der Fläming weite Wälder, klare Bäche und idyllische Dörfer. Einzigartig ist der 'Fläming-Skate', ein über 200 Kilometer langes Netz aus asphaltierten Wegen für Inlineskater und Radfahrer, das quer durch die Natur führt. Die Region ist zudem bekannt für ihre historischen Mühlen und den Erhalt alter Handwerkstraditionen. Geographie K6 – Altmoränenlandschaften und mittelalterliche Kolonisation.",
       hu: "A(z) Fläming egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Fläming ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Fläming este un peisaj cultural și natural unic situat la sud-vest de Berlin, modelat de ultima eră glaciară. Regiunea se caracterizează prin colinele sale glaciare (morene) și satele pitorești cu biserici fortificate din piatră de câmp. Numele provine de la coloniștii flamanzi care s-au stabilit aici în secolul al XII-lea, aducând tehnici avansate de agricultură și drenaj. Astăzi, Fläming este o destinație populară pentru turismul activ, găzduind 'Flaeming-Skate', cea mai lungă rețea de trasee pentru role și biciclete din Europa. Peisajul mozaicat, cu păduri de pini, câmpuri vaste și castele medievale precum Belzig, oferă o imagine autentică a Germaniei rurale. Geografie K6 – Forme de relief glaciare și așezări rurale.",
       en: ""
     },
     factsAdvanced: {
@@ -264,7 +264,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Regiunea a fost formată în timpul erei glaciare Saale, acum circa 150.000 de ani.", "Flaeming-Skate oferă peste 230 de kilometri de trasee asfaltate de înaltă calitate.", "Multe biserici de sat sunt construite din bolovani de granit aduși de ghețari.", "Vârful Hagelberg, cu 200 de metri, este cel mai înalt punct din Brandenburgul de sud.", "Castelul Eisenhardt din Bad Belzig este un monument central al regiunii.", "Parcul Natural Hoher Fläming protejează biodiversitatea acestui peisaj de morenă."],
       en: []
     },
   },
@@ -289,7 +289,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Dom St. Peter und Paul in Brandenburg an der Havel gilt als die 'Mutterkirche' der Mark Brandenburg und ist ein Monument von höchster historischer Bedeutung. Errichtet auf der Dominsel ab dem Jahr 1165, markiert er die Festigung des Christentums und der askanischen Herrschaft im Osten. Die Architektur verbindet romanische Ursprünge mit prächtiger Backsteingotik. Besonders wertvoll ist die Ausstattung des Doms, darunter der Böhmische Altar und die Wagner-Orgel. Das Domensemble mit Kreuzgang und Klausurgebäuden ist fast vollständig erhalten. Als geistiges Zentrum der Region bewahrt der Dom zudem ein umfangreiches Archiv mit Dokumenten aus über 800 Jahren Geschichte. Geschichte K6 – Entstehung der Mark Brandenburg und christliche Missionierung.",
       hu: "A(z) Brandenburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brandenburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Catedrala din Brandenburg an der Havel este considerată 'Leagănul mărcii Brandenburg', fiind primul edificiu religios major construit de dinastia Ascaniană în secolul al XII-lea. Situată pe o insulă în râul Havel, catedrala în stil gotic din cărămidă roșie marchează începutul expansiunii germane spre est. Complexul cuprinde mănăstirea, curtea catedralei și un muzeu valoros care adăpostește arhiva istorică a landului. Arhitectura sa austeră, dar monumentală, cu cele două turnuri masive, reflectă puterea spirituală și politică a margrafilor medievali. Catedrala rămâne centrul spiritual al regiunii și un monument fundamental pentru înțelegerea istoriei statului Brandenburg. Istorie K7 – Fondarea mărcii Brandenburg și goticul în cărămidă.",
       en: ""
     },
     factsAdvanced: {
@@ -302,7 +302,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Piatra de temelie a fost pusă în anul 1165 pe locul unei foste fortificații slave.", "Este 'Biserica Mamă' a tuturor bisericilor din landul Brandenburg.", "Deține faimoasa orgă Wagner din 1723, una dintre cele mai bine conservate orge baroce.", "Cripta catedralei păstrează elemente romanice originale de o rară frumusețe.", "Arhiva catedralei deține documente neîntrerupte încă din anul 1161.", "Include celebrul 'Triptic al Păpușilor', un altar medieval sculptat cu mare finețe."],
       en: []
     },
   },
@@ -327,7 +327,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Das Kloster Chorin ist eines der bedeutendsten Baudenkmäler der frühen Backsteingotik in Norddeutschland. Die ehemalige Zisterzienserabtei wurde 1273 gegründet und besticht durch ihre architektonische Klarheit und die kunstvolle Verwendung roter Backsteine. Die Westfassade der Klosterkirche gilt als Meisterwerk mittelalterlicher Baukunst. Nach der Säkularisierung im 16. Jahrhundert verfiel die Anlage teilweise, wurde aber im 19. Jahrhundert von Karl Friedrich Schinkel als romantisches Denkmal wiederentdeckt und gesichert. Heute ist Chorin nicht nur ein Magnet für Architekturfreunde, sondern auch ein Ort hochkarätiger Kulturveranstaltungen wie des Choriner Musiksommers, eingebettet in das Biosphärenreservat Schorfheide-Chorin. Kunstgeschichte K6 – Zisterzienserarchitektur und Backsteingotik.",
       hu: "A(z) Kloster Chorin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Chorin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Mănăstirea Chorin este considerată cel mai frumos și important exemplu de arhitectură gotică timpurie în cărămidă roșie din regiunea Brandenburg. Fondată în 1258 de călugării cistercieni, abația impresionează prin armonia proporțiilor sale și prin decorațiunile complexe realizate exclusiv din cărămidă arsă. Situată idilic într-o zonă de pădure și lacuri, mănăstirea a fost timp de secole un centru spiritual și economic major. Deși parțial în ruină după Reformă, situl a fost redescoperit de romanticii germani precum Schinkel, devenind astăzi un centru cultural vibrant, renumit pentru 'Vara Muzicală de la Chorin'. Istorie K6 – Ordinul cistercian și goticul în cărămidă.",
       en: ""
     },
     factsAdvanced: {
@@ -340,7 +340,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Fosta mănăstire cisterciană a fost fondată în anul 1258 de margrafii de Brandenburg.", "Este considerată o capodoperă a stilului gotic în cărămidă (Backsteingotik).", "Abația a fost secularizată în anul 1542 în timpul Reformei protestante.", "Arhitectul Karl Friedrich Schinkel a coordonat primele măsuri de conservare în secolul XIX.", "Găzduiește festivalul 'Choriner Musiksommer' încă din anul 1964.", "Situl este situat în inima Rezervației Biosferei Schorfheide-Chorin."],
       en: []
     },
   },
@@ -365,7 +365,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Schloss Rheinsberg im Norden Brandenburgs gilt als Musterbeispiel für den preußischen Rokoko und als Schicksalsort Friedrichs des Großen. Hier verbrachte er als Kronprinz seine glücklichsten Jahre und entwickelte zusammen mit dem Architekten Knobelsdorff die Visionen, die später in Sanssouci ihre Vollendung fanden. Das Schloss liegt malerisch direkt am Grienericksee und ist durch seine symmetrische Bauweise mit den zwei Rundtürmen markant. Berühmt wurde Rheinsberg auch durch Kurt Tucholskys Erzählung 'Rheinsberg: Ein Bilderbuch für Verliebte' sowie durch die Erwähnung in Fontanes Wanderungen. Heute beherbergt das Schloss zudem ein bedeutendes Opernhaus und ist ein Zentrum für junge Opernsänger. Geschichte K7 – Friedrich der Große und die rheinsberger Aufklärung.",
       hu: "A(z) Schloss Rheinsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Rheinsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Castelul Rheinsberg, situat pe malul lacului Grienerick, este considerat prototipul arhitecturii 'rococo friderician' și un model pentru mai celebrul Sanssouci. Castelul a fost reședința prințului moștenitor Frederic (viitorul Frederic cel Mare), fiind locul unde acesta a petrecut cei mai fericiți ani ai tinereții sale, dedicați muzicii, filozofiei și artelor. Grădinile castelului, care se oglindesc spectaculos în apă, au fost printre primele grădini peisagistice din Brandenburg. Rheinsberg este imortalizat în literatura germană de Kurt Tucholsky și Theodor Fontane, rămânând până astăzi un simbol al eleganței și rafinamentului prusac. Istorie K7 – Iluminismul și tinerețea lui Frederic cel Mare.",
       en: ""
     },
     factsAdvanced: {
@@ -378,7 +378,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Frederic cel Mare a locuit aici între 1736 și 1740 ca prinț moștenitor.", "A fost renovat în stil rococo de arhitectul Georg Wenzeslaus von Knobelsdorff.", "Găzduiește Academia de Muzică Rheinsberg și un muzeu dedicat lui Kurt Tucholsky.", "Grădina castelului îmbină elemente baroce cu stilul englezesc timpuriu.", "Kurt Tucholsky a scris aici celebra sa povestire 'Rheinsberg: Un jurnal ilustrat pentru îndrăgostiți'.", "Castelul are o formă de 'U' deschisă spre lac, oferind o perspectivă spectaculoasă."],
       en: []
     },
   },
@@ -403,7 +403,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Eine Kahnfahrt im Spreewald ist ein weltweit einzigartiges Kulturerlebnis in einer faszinierenden Wasserlandschaft. Inmitten des UNESCO-Biosphärenreservats verzweigt sich die Spree in über 300 schmale Kanäle, die sogenannten Fließe. Die traditionellen Holzkähne werden von den Fährleuten mit langen Rudelstangen (Rudel) fast lautlos durch das Labyrinth geschoben. Historisch waren diese Kähne die einzige Möglichkeit, Personen und Güter zwischen den oft nur über Wasser erreichbaren Gehöften zu transportieren. Für die sorbische/wendische Minderheit ist der Kahn bis heute ein Symbol ihrer Identität. Besucher erleben auf dem Wasser eine verwunschene Erlenbruchwald-Natur und erfahren viel über die traditionelle Lebensweise in der Lagunenlandschaft. Sachkunde K3 – Traditionelle Verkehrsmittel und Naturerfahrung.",
       hu: "A(z) Spreewald Kahnfahrt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald Kahnfahrt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Plimbarea cu barca (Kahnfahrt) prin canalele rezervației UNESCO Spreewald este o experiență culturală și naturală unică în Germania. Această regiune, formată dintr-un labirint de peste 200 de brațe ale râului Spree, a fost locuită și modelată de minoritatea sorabă, care utilizează bărci cu fund plat (Kähne) pentru transport de secole. Barcagiul împinge ambarcațiunea cu o prăjină lungă de 4 metri, numită 'Rudel', oferind turiștilor o călătorie silențioasă prin păduri de anini și sate pitorești. Este singurul mod autentic de a descoperi biodiversitatea Spreewald-ului și tradițiile locale, fiind o atracție centrală a landului Brandenburg. Geografie K6 – Ecosisteme umede și tradiții culturale minoritare.",
       en: ""
     },
     factsAdvanced: {
@@ -416,7 +416,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Canalele navigabile din Spreewald au o lungime totală de aproximativ 475 de kilometri.", "Bărcile tradiționale sunt construite din lemn de stejar sau pin, dar și din aluminiu modern.", "În satul Lehde, poșta și gunoiul sunt transportate și astăzi cu barca.", "O plimbare tipică poate dura între 2 și 8 ore, trecând prin numeroase ecluze manuale.", "Femeile sorabe poartă adesea costume populare tradiționale în timpul sărbătorilor locale.", "Regiunea este celebră pentru castraveții de Spreewald, serviți adesea direct pe barcă."],
       en: []
     },
   },
@@ -441,7 +441,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Beelitzer Spargel ist weit über die Grenzen Brandenburgs hinaus ein Inbegriff für höchste Qualität und kulinarische Tradition. Das Anbaugebiet rund um die Stadt Beelitz profitiert von den lockeren, sandigen Böden der Zauche, die sich perfekt für den Anbau des 'Edelgemüses' eignen. Bereits 1861 wurde hier der erste Spargel professionell kultiviert. Von April bis Juni prägen die typischen Folientunnel und Erdwälle das Landschaftsbild. Beelitz ist heute das größte zusammenhängende Spargelanbaugebiet Brandenburgs und ein bedeutender Wirtschaftsfaktor. Während der Saison locken Spargelhöfe und Museen zehntausende Besucher an, die die Erntehelfer bei ihrer mühsamen Handarbeit beobachten und den frisch gestochenen Spargel genießen können. Geographie K7 – Spezialisierte Landwirtschaft und regionale Vermarktung.",
       hu: "A(z) Beelitzer Spargel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Beelitzer Spargel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Sparanghelul de Beelitz, cunoscut sub numele de 'aurul alb', este cea mai celebră delicatesă agricolă din regiunea Berlin-Brandenburg. Tradiția cultivării a început în anul 1861, când Carl Friedrich Wilhelm Herrmann a plantat primele semințe în solul nisipos și afânat al regiunii, care se încălzește rapid primăvara. Astăzi, Beelitz este centrul celei mai mari zone contigue de cultivare a sparanghelului din Brandenburg, acoperind peste 1.600 de hectare. Produsul beneficiază de statutul de Indicație Geografică Protejată (IGP) din 2018, garantând calitatea și originea sa. Recoltarea se încheie tradițional pe 24 iunie, de ziua Sfântului Ioan. Geografie K7 – Producția agricolă specializată în Germania.",
       en: ""
     },
     factsAdvanced: {
@@ -454,7 +454,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Prima cultură de sparanghel în Beelitz a fost înființată în anul 1861.", "Regiunea cultivată se întinde pe aproximativ 1.600 de hectare în prezent.", "Deține statutul de Indicație Geografică Protejată (IGP) la nivelul UE din 2018.", "Orașul Beelitz a primit oficial titlul de 'Spargelstadt' în anul 2013.", "Sezonul de recoltare se termină simbolic în fiecare an pe data de 24 iunie.", "Muzeul Sparanghelului din Beelitz documentează istoria de peste 160 de ani a culturii."],
       en: []
     },
   },
@@ -479,7 +479,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Spreewälder Gurken sind eine weltweit bekannte Spezialität und das kulinarische Markenzeichen Brandenburgs. Seit dem 16. Jahrhundert werden Gurken in der mineralstoffreichen Moorniederung des Spreewalds angebaut. Die Veredelung mit geheimen Rezepturen aus Kräutern, Gewürzen und Zwiebeln in großen Fässern hat eine lange Tradition. Ob Salzgurke, Senfgurke oder Gewürzgurke – die Qualität ist durch die EU als geschützte geografische Angabe (g.g.A.) streng zertifiziert. Für die Region ist der Gurkenanbau ein bedeutender Wirtschaftsfaktor, der eng mit dem Tourismus verknüpft ist. Der Spreewald-Gurkenradweg verbindet die Anbauflächen mit den traditionsreichen Einlegereien und bietet Einblicke in die moderne Lebensmittelverarbeitung. Wirtschaft K7 – Spezialitäten und Herkunftsschutz in der Landwirtschaft.",
       hu: "A(z) Spreewald-Gurken egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald-Gurken ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Castraveții de Spreewald reprezintă o specialitate culinară protejată la nivel european (IGP) din landul Brandenburg, fiind cultivați în solul bogat în humus al rezervației biosferei UNESCO Spreewald. Această tradiție agricolă datează din secolul al XVI-lea, când coloniștii olandezi au adus tehnici avansate de cultivare în regiune. Astăzi, anual se recoltează între 32.000 și 40.000 de tone de castraveți, folosind utilaje speciale numite 'avioane de castraveți' pentru a proteja plantele sensibile. Gustul unic este asigurat de amestecuri secrete de condimente care includ mărar proaspăt, hrean și ceapă, fiind un simbol al identității regionale germane. Geografie K7 – Agricultură și specialități regionale.",
       en: ""
     },
     factsAdvanced: {
@@ -492,7 +492,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Protejați prin statutul de Indicație Geografică Protejată (IGP) din anul 1999.", "Recolta anuală în regiune este de aproximativ 32.000 până la 40.000 de tone.", "Aproximativ 500-600 de hectare sunt dedicate cultivării castraveților în Spreewald.", "Recoltarea se face manual folosind 'Gurkenflieger' (avioane de castraveți).", "Regiunea găzduiește 'Gurkenradweg', un traseu de biciclete de 260 km.", "Cel puțin 70% din materia primă trebuie să provină direct din regiunea Spreewald."],
       en: []
     },
   },
@@ -517,7 +517,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Filmpark Babelsberg in Potsdam ist Teil der ältesten Großfilmstudios der Welt und ein faszinierendes Ausflugsziel für Cineasten. In Babelsberg wurde Filmgeschichte geschrieben – von Stummfilmklassikern wie 'Metropolis' bis hin zu modernen Hollywood-Produktionen wie 'Inglourious Basterds'. Der Filmpark ermöglicht einen Blick hinter die Kulissen der Traumfabrik: Stunt-Shows, Kulissen aus bekannten Filmen wie 'GZSZ' oder das 'Ganseliesel'-Dorf entführen Besucher in die Welt der Illusionen. Besonders beeindruckend ist das Atelier der Traumwerker, wo Maskenbildner und Kostümbildner ihr Handwerk zeigen. Babelsberg ist das Herz des Medienstandortes Deutschland und ein Symbol für die künstlerische Innovationskraft Brandenburgs. Geschichte K8 – Filmgeschichte und Medientechnologie im 20. Jahrhundert.",
       hu: "A(z) Filmpark Babelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Filmpark Babelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Filmpark Babelsberg din Potsdam este inima celui mai vechi și important centru de producție cinematografică din lume, Studiourile Babelsberg. Fondat în 1912, acest 'Hollywood al Europei' a fost martorul nașterii unor capodopere precum 'Metropolis' și 'Îngerul Albastru' cu Marlene Dietrich. Vizitatorii pot explora platouri de filmare autentice, decoruri medievale și laboratoare de efecte speciale. Parcul oferă o privire fascinantă în culisele cinematografiei, de la epoca filmului mut până la producțiile moderne de succes ca 'Inglourious Basterds'. Este un loc unde istoria artei cinematografice se împletește cu tehnologia modernă a divertismentului. Arta K8 – Istoria cinematografiei și tehnici de producție.",
       en: ""
     },
     factsAdvanced: {
@@ -530,7 +530,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Studiourile Babelsberg au fost fondate în anul 1912, fiind primele de acest tip.", "Aici s-a filmat 'Metropolis' (1927), primul film inclus în patrimoniul UNESCO.", "Parcul tematic a fost deschis pentru publicul larg în anul 1991.", "Include platoul de filmare 'Gassen des Mittelalters' (Ulițele Evului Mediu).", "Oferă spectacole live cu cascadori și prezentări despre machiajul de film.", "Aici au lucrat regizori legendari precum Fritz Lang și Alfred Hitchcock."],
       en: []
     },
   },
@@ -555,7 +555,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Frankfurt (Oder) im Osten Brandenburgs ist eine Stadt an der Schnittstelle zweier Kulturen und ein bedeutender Wissenschaftsstandort. Durch ihre Lage direkt an der Oder, die hier die Grenze zu Polen bildet, fungiert die Stadt als Tor nach Osteuropa. Die 1991 wiedergegründete Europa-Universität Viadrina prägt das internationale Flair und die enge Zusammenarbeit mit der polnischen Nachbarstadt Słubice. Historisch war Frankfurt eine reiche Hansestadt und ein Zentrum des Buchdrucks und Handels. Das markante Rathaus und die gotische Marienkirche mit ihren Glasmalereien zeugen von dieser Blütezeit. Die Stadt ist zudem als Geburtsort des Dichters Heinrich von Kleist bekannt und beherbergt das bedeutende Kleist-Museum. Geschichte K7 – Hanseatische Tradition und moderne Grenzzusammenarbeit.",
       hu: "A(z) Frankfurt (Oder) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankfurt (Oder) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Frankfurt pe Odra este un oraș simbolic al reconcilierii europene, situat direct la granița cu Polonia și legat de orașul vecin Słubice prin Podul Prieteniei. Fondat în secolul al XIII-lea, orașul a fost un important centru comercial hanseatic și sediul primei universități din Brandenburg, Viadrina, reînființată în 1991 ca universitate europeană. Orașul este locul de naștere al celebrului scriitor Heinrich von Kleist, căruia îi este dedicat un muzeu important. Biserica Marienkirche, cu ferestrele sale medievale din sticlă colorată recuperate recent, rămâne un monument gotic de o valoare inestimabilă. Geografie K7 – Orașe de frontieră și cooperarea transfrontalieră.",
       en: ""
     },
     factsAdvanced: {
@@ -568,7 +568,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Universitatea Europeană Viadrina a fost fondată inițial în anul 1506.", "Heinrich von Kleist, marele scriitor german, s-a născut aici în 1777.", "Biserica Marienkirche deține vitralii unice din secolul al XIV-lea.", "Orașul formează o unitate urbană transfrontalieră cu orașul polonez Słubice.", "A fost un membru activ al Ligii Hanseatice începând cu secolul al XIV-lea.", "Este situat la 80 de kilometri est de Berlin, pe malul râului Odra."],
       en: []
     },
   },
@@ -595,7 +595,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Magdeburg, die Hauptstadt Sachsen-Anhalts, blickt auf eine über 1.200-jährige Geschichte als Kaiserresidenz und Hansestadt zurück. Otto der Große, der erste Kaiser des Heiligen Römischen Reiches, machte Magdeburg zu seinem Lieblingsort, wovon der imposante Dom St. Mauritius und St. Katharina – der erste gotische Dom auf deutschem Boden – zeugt. Die Stadt war zudem Schauplatz wegweisender Experimente durch Otto von Guericke. Heute besticht Magdeburg durch eine Mischung aus historischem Erbe und moderner Architektur, wie Hundertwassers 'Grüner Zitadelle'. Als bedeutender Binnenhafen und Wissenschaftsstandort hat sich die Stadt zu einem dynamischen Zentrum an der Elbe entwickelt. Geschichte K6 – Das Heilige Römische Reich unter den Ottonen.",
       hu: "A(z) Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Magdeburg, capitala landului Saxonia-Anhalt, este unul dintre cele mai vechi și importante orașe din estul Germaniei, având o istorie de peste 1200 de ani. Orașul a fost reședința favorită a împăratului Otto cel Mare, care este înmormântat în impresionanta Catedrală din Magdeburg, prima catedrală gotică construită pe pământ german. Orașul este, de asemenea, locul unde fizicianul Otto von Guericke a demonstrat puterea vidului prin celebrul experiment cu emisferele de Magdeburg. Astăzi, orașul îmbină monumentele istorice cu arhitectura modernă avangardistă, precum 'Citadela Verde' proiectată de Friedensreich Hundertwasser, ultimul mare proiect al artistului austriac. Istorie K7 – Împărați medievali și inovații științifice.",
       en: ""
     },
     factsAdvanced: {
@@ -608,7 +608,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Catedrala din Magdeburg este prima catedrală gotică de pe teritoriul Germaniei.", "Împăratul Otto cel Mare a făcut din Magdeburg 'al treilea centru al Romei'.", "Otto von Guericke a inventat pompa de aer și a demonstrat vidul aici în 1654.", "Orașul a fost distrus aproape complet în 1631, în timpul Războiului de 30 de ani.", "Citadela Verde (Die Grüne Zitadelle) este o clădire rezidențială roz proiectată de Hundertwasser.", "Canalul Magdeburg trece peste râul Elbe printr-un pod de apă unic în lume."],
       en: []
     },
   },
@@ -633,7 +633,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Halle an der Saale ist eine Stadt der Kunst, Kultur und Wissenschaft mit einer über 1.000-jährigen Salztradition. Der Reichtum aus den Solequellen machte Halle im Mittelalter zu einer wohlhabenden Hansestadt. Das Wahrzeichen der Stadt ist der Marktplatz mit den fünf Türmen der Marktkirche und dem Roten Turm. Halle ist zudem die Geburtsstadt des Komponisten Georg Friedrich Händel, dessen Erbe alljährlich mit den Händel-Festspielen gefeiert wird. Mit der Leopoldina, der ältesten naturwissenschaftlichen Akademie der Welt, ist die Stadt ein internationales Zentrum der Forschung. Das fast vollständig erhaltene historische Stadtbild und die lebendige Kunsthochschule Burg Giebichenstein verleihen Halle ein einzigartiges Flair. Geschichte K7 – Salzhandel und hanseatische Handelsgeschichte.",
       hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország Halle, város Észak-Rajna-Vesztfália tartományban, Németország Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban Halle, város Belgiumban Halle, kanton Belgium Halle-Vilvoorde járásában Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Halle pe Saale este un centru cultural și științific major, faimos pentru producția sa de sare care datează de peste un mileniu. Orașul este locul de naștere al compozitorului Georg Friedrich Händel, în onoarea căruia se organizează anual un festival internațional. Halle găzduiește, de asemenea, celebra Academie Națională de Științe Leopoldina și Universitatea Martin Luther, una dintre cele mai vechi din Germania. Un punct de atracție de importanță mondială este Discul de la Nebra, cea mai veche reprezentare a cerului, expus la Muzeul Preistoriei. Orașul îmbină arhitectura industrială a salinelor cu palatele renascentiste și modernismul. Istorie K7 – Producția de sare și Iluminismul german.",
       en: ""
     },
     factsAdvanced: {
@@ -646,7 +646,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Compozitorul Georg Friedrich Händel s-a născut aici în anul 1685.", "Academia Leopoldina, fondată în 1652, este cea mai veche societate științifică din lume.", "Producția de sare (Halloren) este atestată documentar încă din anul 806.", "Discul de la Nebra, vechi de 3.600 de ani, este piesa centrală a muzeului local.", "Turnurile Bisericii Mari (Marktkirche) sunt un simbol inconfundabil al pieței centrale.", "Găzduiește Fundațiile Francke, un complex educațional și social unic din secolul XVIII."],
       en: []
     },
   },
@@ -671,7 +671,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Dessau-Roßlau ist weltweit berühmt als Wirkungsstätte des Bauhauses, der bedeutendsten Schule für Architektur und Design des 20. Jahrhunderts. Die Bauhausbauten von Walter Gropius gehören zum UNESCO-Weltkulturerbe und ziehen Besucher aus aller Welt an. Doch Dessau bietet weit mehr: Das Dessau-Wörlitzer Gartenreich ist ein einzigartiges Beispiel für die Aufklärung und Gartenkunst des 18. Jahrhunderts und ebenfalls UNESCO-Welterbe. Die Stadt an der Mündung der Mulde in die Elbe vereint somit moderne Radikalität mit klassischer Harmonie. Dessau ist zudem ein wichtiger Standort der Luftfahrtgeschichte (Hugo Junkers) und heute ein modernes Verwaltungszentrum in Sachsen-Anhalt. Kunstgeschichte K8 – Bauhaus-Moderne und Aufklärung im Gartenreich.",
       hu: "A(z) Dessau-Roßlau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dessau-Roßlau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Dessau-Roßlau este un nume sinonim cu modernismul, fiind locul unde școala de design Bauhaus a cunoscut perioada sa de maximă înflorire între 1925 și 1932. Clădirea Bauhaus și Casele Maeștrilor, proiectate de Walter Gropius, sunt incluse în patrimoniul mondial UNESCO și rămân repere fundamentale ale arhitecturii secolului XX. Pe lângă moștenirea industrială și artistică, orașul face parte din Grădina Regală Dessau-Wörlitz, un peisaj cultural iluminist vast. Situat la confluența râurilor Elbe și Mulde, Dessau a fost, de asemenea, un centru important al aviației prin uzinele Junkers. Geografie K8 – Centre de inovație și patrimoniu industrial.",
       en: ""
     },
     factsAdvanced: {
@@ -684,7 +684,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Școala Bauhaus s-a mutat de la Weimar la Dessau în anul 1925.", "Casele Maeștrilor au fost reședințe pentru artiști ca Wassily Kandinsky și Paul Klee.", "Grădina Dessau-Wörlitz este primul parc peisagistic în stil englezesc din Europa continentală.", "Hugo Junkers a fondat aici fabrica de avioane și motoare în anul 1895.", "Orașul găzduiește sediul Agenției Federale de Mediu din Germania (UBA).", "Dessau a fost capitala micului stat Anhalt-Dessau până în anul 1918."],
       en: []
     },
   },
@@ -709,7 +709,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Elbe prägt Sachsen-Anhalt als mächtige Wasserstraße und wertvoller Naturraum auf einer Länge von rund 300 Kilometern. Einzigartig ist das UNESCO-Biosphärenreservat Mittelelbe, das eine der letzten naturnahen Auenlandschaften Mitteleuropas schützt. Hier finden Biber, Seeadler und seltene Pflanzenarten einen geschützten Lebensraum. Historisch war die Elbe die Hauptschlagader für den Handel in Magdeburg und Wittenberg. Das Wasserstraßenkreuz Magdeburg, an dem der Mittellandkanal die Elbe in einer Trogbrücke überquert, ist ein Meisterwerk der Ingenieurskunst. Die Elbe ist heute ein Symbol für die Verbindung von hochmoderner Logistik und strengem Naturschutz. Geographie K7 – Flussökologie und Wasserbautechnik an der Elbe.",
       hu: "A(z) Elbe (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Pe teritoriul landului Saxonia-Anhalt, fluviul Elbe străbate peisaje naturale vaste și orașe cu o istorie profundă, de la Wittenberg-ul lui Luther până la Magdeburg-ul împăratului Otto. O mare parte a cursului său face parte din Rezervația Biosferei UNESCO 'Mijlocul Elbei', protejând una dintre ultimele lunci inundabile naturale din Europa, unde vulturul codalb și castorul de Elbe prosperă. Un punct culminant al ingineriei moderne este Podul de Apă de la Magdeburg, unde Canalul Elbe-Havel trece peste fluviu. Râul servește ca axă centrală pentru turismul cultural și ecologic, legând moștenirea Reformei de inovațiile tehnice ale secolului XXI. Geografie K7 – Managementul bazinelor hidrografice și rezervațiile biosferei.",
       en: ""
     },
     factsAdvanced: {
@@ -722,7 +722,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Saxonia-Anhalt deține cea mai lungă secțiune a Elbei dintre toate landurile (303 km).", "Rezervația biosferei protejează peste 120.000 de hectare de habitat de luncă.", "Podul de apă de la Magdeburg are o lungime de 918 metri și este cel mai mare din Europa.", "Castorul de Elbe (Castor fiber albicus) a fost salvat de la dispariție în această regiune.", "Orașul Dessau-Roßlau este situat la confluența Elbei cu râul Mulde.", "Regiunea este un punct cheie pentru navigația interioară către portul Hamburg."],
       en: []
     },
   },
@@ -747,7 +747,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Saale ist der zweitlängste Nebenfluss der Elbe und prägt im Süden Sachsen-Anhalts eine der faszinierendsten Kulturlandschaften Deutschlands. Besonders bekannt ist das Saale-Unstrut-Gebiet, das nördlichste Qualitätsweinbaugebiet Deutschlands, wo an steilen Muschelkalkhängen seit über 1.000 Jahren Wein kultiviert wird. Die Flusslandschaft ist gesäumt von imposanten Burgen wie der Rudelsburg und historischen Städten wie Naumburg und Halle. Die Saale windet sich hier durch tiefe Täler und bietet spektakuläre Ausblicke auf weiße Felsen. Der Fluss war jahrhundertelang der Transportweg für die Salzproduktion in Halle und ist heute ein beliebtes Ziel für Wasserwanderer und Radfahrer. Geographie K7 – Flusslandschaften und Weinbauökologie.",
       hu: "A(z) Saale (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saale (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Râul Saale în Saxonia-Anhalt străbate un peisaj cultural dens, marcat de castele medievale, podgorii terasate și orașe universitare de renume precum Jena și Halle. Cursul său inferior face parte din regiunea viticolă Saale-Unstrut, cea mai nordică zonă de vinuri de calitate din Germania, unde râul șerpuiește pe sub zidurile catedralei din Naumburg. Saale a fost în trecut o axă comercială vitală pentru transportul sării, iar astăzi este un coridor ecologic protejat prin Parcul Natural 'Valea Saale Inferioare'. Cu numeroasele sale baraje și lacuri de acumulare (supranumite 'Marea de Turingia' pe cursul superior), Saale este un râu al contrastelor între industria istorică și natura idilică. Geografie K7 – Peisaje culturale regionale și bazine hidrografice.",
       en: ""
     },
     factsAdvanced: {
@@ -760,7 +760,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Saale are o lungime totală de 413 kilometri și se varsă în Elbe la Barby.", "Valea râului deține cea mai mare densitate de castele de pe un curs de apă german.", "Orașul Halle (Saale) este cel mai mare oraș situat direct pe cursul său.", "Include barajul Bleilochtalsperre, cel mai mare lac de acumulare din Germania după volum.", "A fost o graniță strategică importantă între lumea germană și cea slavă în Evul Mediu.", "Regiunea Saale-Unstrut este renumită pentru soiurile sale de vin alb sec."],
       en: []
     },
   },
@@ -785,7 +785,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Arendsee in der Altmark ist mit einer Tiefe von bis zu 50 Metern der größte und tiefste natürliche See in Sachsen-Anhalt. Er ist kein gewöhnlicher See, sondern ein Einbruchsee, der durch das Einstürzen eines unterirdischen Salzstocks vor tausenden Jahren entstand. Das kristallklare Wasser und die unberührte Natur machen ihn zu einer Perle Norddeutschlands. Die Stadt Arendsee am Ufer blickt auf eine lange Tradition als Luftkurort zurück. Ein technisches Denkmal ist das Schaufelradschiff 'Queen Arendsee', das Fahrgäste über das Gewässer bringt. Der See ist zudem für seine seltenen Fischarten wie die Große Maräne bekannt und ein Magnet für Taucher und Segler in der Region. Geographie K6 – Geologische Einbruchsseen und regionale Limnologie.",
       hu: "A(z) Arendsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Arendsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Arendsee este cel mai adânc lac natural din landul Saxonia-Anhalt și un fenomen geologic fascinant. Formarea sa nu este de origine glaciară, ci rezultatul prăbușirii unui dom de sare subteran acum mii de ani, ceea ce îi conferă o formă aproape circulară și adâncimi neobișnuite pentru regiune. Malurile sale nisipoase și apa de o claritate excepțională au făcut din Arendsee 'Perla Altmark-ului', fiind o stațiune balneară populară încă din secolul al XIX-lea. Lacul este traversat de vaporul istoric 'Queen Arendsee', iar legenda mănăstirii scufundate adaugă o notă mistică peisajului liniștit din nordul Germaniei. Geografie K6 – Lacuri de prăbușire și resursele de sare.",
       en: ""
     },
     factsAdvanced: {
@@ -798,7 +798,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Adâncimea maximă a lacului atinge aproximativ 50 de metri.", "S-a format prin dizolvarea și prăbușirea unei structuri de sare subterane (Subrosion).", "Arendsee are o suprafață de circa 5,1 kilometri pătrați.", "Este un sit important pentru sporturile nautice, în special navigație și scufundări.", "Orașul Arendsee de pe malul lacului este o stațiune climaterică recunoscută oficial.", "Include ruinele unei mănăstiri benedictine din secolul al XII-lea pe malul său."],
       en: []
     },
   },
@@ -823,7 +823,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Brocken, auch Blocksberg genannt, ist mit 1.141 Metern der höchste Berg des Harzes und Sachsen-Anhalts. Er ist ein Ort voller Legenden und Schauplatz der Walpurgisnacht, wie sie Goethe im 'Faust' beschrieb. Aufgrund seiner exponierten Lage herrscht auf dem Gipfel ein extremes, fast alpines Klima mit viel Nebel und Wind. Während der deutschen Teilung war der Brocken militärisches Sperrgebiet und beherbergte mächtige Abhörstationen. Heute ist der Gipfel im Nationalpark Harz wieder frei zugänglich und mit der historischen Brockenbahn erreichbar. Die einzigartige Flora im Brockengarten schützt seltene Hochgebirgspflanzen, die hier seit der Eiszeit überlebt haben. Geographie K6 – Klimazonen der Mittelgebirge und Zeitgeschichte.",
       hu: "A(z) Brocken (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brocken (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Vârful Brocken, situat în Saxonia-Anhalt, este cel mai înalt munte din nordul Germaniei și un simbol al istoriei contemporane. În perioada Războiului Rece, muntele a fost o zonă militară strict interzisă, găzduind o stație masivă de ascultare a serviciilor secrete (Stasi și KGB). Astăzi, turiștii pot ajunge pe vârf cu istorica cale ferată cu aburi Brockenbahn, bucurându-se de peisajul Parcului Național Harz. Platoul somital este caracterizat de un climat extrem, cu vegetație de tundră rară în Europa Centrală. Turnul de televiziune și hotelul Brockenhaus sunt repere inconfundabile ale acestui munte care îmbină natura sălbatică cu amintirile divizării germane. Istorie K8 – Divizarea Germaniei și importanța strategică a înălțimilor.",
       en: ""
     },
     factsAdvanced: {
@@ -836,7 +836,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Platoul de pe vârf este cel mai înalt punct din Saxonia-Anhalt (1.141 m).", "Stația de ascultare 'Urian' a fost demontată după reunificare în 1994.", "Brocken a fost prima locație din lume care a transmis semnal TV în format digital.", "Drumul 'Goetheweg' este cel mai popular traseu de drumeție către vârf.", "Vârful se află deasupra liniei naturale a pădurii, fiind acoperit de mușchi și licheni.", "Anual, pe 30 aprilie, mii de oameni celebrează aici 'Noaptea Vrăjitoarelor'."],
       en: []
     },
   },
@@ -861,7 +861,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Nationalpark Harz schützt eine der wildesten Mittelgebirgslandschaften Deutschlands und erstreckt sich länderübergreifend über Niedersachsen und Sachsen-Anhalt. Hier darf sich die Natur nach dem Motto 'Natur Natur sein lassen' ohne menschliche Eingriffe entwickeln. Berühmt ist der Park für seine urigen Fichtenwälder, tiefen Moore und bizarren Granitklippen. Ein besonderer Erfolg des Naturschutzes ist die Wiederansiedlung des Luchses, der hier wieder eine Heimat gefunden hat. Für Wanderer bietet der Park mit dem Harzer-Hexen-Stieg ein unvergessliches Naturerlebnis. Die Region ist zudem ein wichtiges Trinkwasserreservoir für Norddeutschland und schützt wertvolle Bergwiesen mit einer enormen Artenvielfalt. Biologie K6 – Ökosystem Nationalpark und Artenschutz.",
       hu: "A(z) Nationalpark Harz (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Harz (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Parcul Național Harz este prima rezervație naturală din Germania care cuprinde două landuri (Saxonia-Anhalt și Saxonia Inferioară), protejând ecosistemele montane din cel mai nordic lanț muntos al țării. Inima parcului este vârful Brocken, învăluit adesea în ceață și legende despre vrăjitoare, accesibil prin istorica cale ferată cu aburi. Pădurile vaste de molid și fag, mlaștinile montane și stâncile de granit oferă refugiu unor specii rare, precum râsul, care a fost reintrodus cu succes aici. Parcul urmează filosofia 'lăsăm natura să fie natură', permițând proceselor naturale să regenereze pădurea după atacurile gândacului de scoarță, creând un peisaj de o sălbăticie fascinantă. Biologie K7 – Ecosisteme montane și reintroducerea speciilor.",
       en: ""
     },
     factsAdvanced: {
@@ -874,7 +874,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Parcul a fost fondat în 1990 (în Est) și 1994 (în Vest), fiind unit în anul 2006.", "Vârful Brocken are 1.141 metri și o climă subalpină similară cu Islanda.", "Râsul a fost reintrodus cu succes în Harz începând cu anul 2000.", "97% din suprafața parcului este acoperită de păduri naturale și zone sălbatice.", "Calea ferată a Brocken-ului funcționează cu locomotive cu aburi istorice.", "Legenda 'Nopții Valpurgiei' atrage mii de turiști pe vârful Brocken în fiecare an."],
       en: []
     },
   },
@@ -899,7 +899,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Stadtkirche St. Marien in Lutherstadt Wittenberg ist das älteste Gebäude der Stadt und die Mutterkirche der Reformation. Hier predigte Martin Luther regelmäßig und setzte die reformatorischen Ideen in die Tat um. In dieser Kirche fand 1521 der erste evangelische Gottesdienst in deutscher Sprache und die erste Feier des Abendmahls in beiderlei Gestalt statt. Ein herausragendes Kunstwerk ist der Reformationsaltar von Lucas Cranach dem Älteren, der die Reformatoren als Zeitzeugen darstellt. Zusammen mit den anderen Luthergedenkstätten gehört die Stadtkirche zum UNESCO-Weltkulturerbe und ist ein Ort von welthistorischer Bedeutung für den Protestantismus. Geschichte K7 – Martin Luther und die Wittenberger Reformation.",
       hu: "Németország Lutherstadt Eisleben, település Németországban, Szász-Anhalt tartományban Lutherstadt Wittenberg, város Németországban, Szász-Anhalt tartományban A(z) Lutherstadt Wittenberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Biserica Orașului (Stadtkirche) din Wittenberg este cunoscută sub numele de 'Biserica Mamă a Reformei', fiind locul unde Martin Luther a predicat timp de decenii și unde a fost celebrată pentru prima dată liturghia în limba germană. Inclusă în patrimoniul UNESCO, biserica găzduiește celebrul Altar al Reformei, realizat de Lucas Cranach cel Bătrân, care înfățișează figurile centrale ale mișcării protestante în scene biblice. Aici s-a stabilit practica împărtășaniei sub ambele forme (pâine și vin) pentru laici. Wittenberg rămâne un loc de pelerinaj mondial, marcând momentul în care ideile religioase au început să transforme societatea europeană modernă. Istorie K7 – Martin Luther și începuturile Reformei protestante.",
       en: ""
     },
     factsAdvanced: {
@@ -912,7 +912,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Inclusă în patrimoniul mondial UNESCO din anul 1996.", "Martin Luther a predicat aici de peste 2.000 de ori de-a lungul vieții.", "Altarul realizat de Lucas Cranach (1547) este o capodoperă a artei protestante.", "Este cea mai veche clădire din oraș, datând parțial din secolul al XIII-lea.", "Aici a avut loc prima căsătorie a unui preot (Luther cu Katharina von Bora).", "Turnurile bisericii domină silueta orașului, având o înălțime de 70 de metri."],
       en: []
     },
   },
@@ -937,7 +937,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Der Naumburger Dom St. Peter und Paul ist ein Meisterwerk der Architektur und Bildhauerkunst des hohen Mittelalters und gehört seit 2018 zum UNESCO-Weltkulturerbe. Weltberühmt ist er vor allem für den Westchor mit den zwölf lebensgroßen Stifterfiguren des sogenannten Naumburger Meisters. Die Figur der Markgräfin Uta gilt als die 'schönste Frau des Mittelalters' und ist eine Ikone der europäischen Kunstgeschichte. Die Architektur des Doms markiert in einzigartiger Weise den Übergang von der Spätromanik zur Frühgotik. Die geschlossene mittelalterliche Ausstattung und die eindrucksvollen Glasmalereien machen den Dom zu einem der bedeutendsten Kulturgüter Europas. Kunstgeschichte K8 – Mittelalterliche Bildhauerkunst und Kathedralbau.",
       hu: "A(z) Naumburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Naumburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Catedrala din Naumburg, inclusă în patrimoniul UNESCO, este o capodoperă a artei și arhitecturii medievale europene. Este celebră în special pentru cele 12 statui ale ctitorilor, realizate de misteriosul 'Maestru de Naumburg', printre care se numără și figura fascinantă a margrafei Uta, considerată un ideal de frumusețe medievală. Catedrala îmbină elemente romanice și gotice într-un mod armonios, având două coruri opuse, un caz rar în arhitectura sacră. Situată în inima regiunii viticole Saale-Unstrut, catedrala rămâne un simbol al puterii spirituale și artistice a secolului al XIII-lea, atrăgând anual mii de pelerini și iubitori de artă. Istorie K7 – Sculptura gotică și importanța episcopiilor medievale.",
       en: ""
     },
     factsAdvanced: {
@@ -950,7 +950,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Inclusă în lista patrimoniului mondial UNESCO în anul 2018.", "Statuia margrafei Uta este considerată o 'Mona Lisa a Germaniei'.", "Edificiul actual a fost construit în principal în secolul al XIII-lea.", "Deține două ecrane de cor (Lettner) medievale, singura catedrală cu această trăsătură.", "Vitraliile din corul de vest sunt printre cele mai vechi și bine conservate din Germania.", "Este situată la confluența râurilor Saale și Unstrut, într-o zonă viticolă veche."],
       en: []
     },
   },
@@ -975,7 +975,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Die Himmelsscheibe von Nebra ist der bedeutendste archäologische Fund des 21. Jahrhunderts und ein Schlüsseldokument für das astronomische Wissen der Menschheit vor 3.600 Jahren. Die kreisförmige Bronzescheibe mit Goldauflagen ist die weltweit älteste konkrete Darstellung des Kosmos und der Gestirne. Sie wurde 1999 von Raubgräbern auf dem Mittelberg bei Nebra entdeckt und ist heute das Herzstück des Landesmuseums für Vorgeschichte in Halle. Die Scheibe zeigt Sonne, Mond und Sterne, darunter die Plejaden, die zur Synchronisation des Mond- und Sonnenkalenders dienten. Dieses Wissen war für die prähistorische Landwirtschaft von existentieller Bedeutung. Geschichte K5 – Bronzezeit und frühe Himmelskunde.",
       hu: "A(z) Himmelsscheibe von Nebra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Himmelsscheibe von Nebra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Discul de la Nebra (Himmelsscheibe von Nebra) este cea mai veche reprezentare concretă a fenomenelor cosmice din lume, fiind o descoperire arheologică de importanță mondială. Realizat din bronz cu aplicații de aur, discul vechi de 3.600 de ani înfățișează soarele, luna și 32 de stele, inclusiv grupul Pleiadelor, fiind utilizat probabil ca instrument astronomic. Discul a fost descoperit în 1999 lângă orașul Nebra din Saxonia-Anhalt și este inclus în programul UNESCO 'Memoria Lumii'. Centrul de experiență 'Arche Nebra' oferă vizitatorilor o călătorie digitală în epoca bronzului, explicând cunoștințele surprinzătoare ale strămoșilor noștri despre cer. Istorie K7 – Arheologia epocii bronzului și istoria astronomiei.",
       en: ""
     },
     factsAdvanced: {
@@ -988,7 +988,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Discul are un diametru de aproximativ 32 de centimetri și cântărește 2 kilograme.", "A fost găsit de căutători de comori neautorizați pe muntele Mittelberg.", "Datează din aproximativ anul 1600 î.Hr., aparținând culturii Unetice.", "Este considerat o 'Busolă a Credinței' care combina religia cu observația astronomică.", "Piesa originală este expusă la Muzeul de Stat pentru Preistorie din Halle (Saale).", "Arche Nebra include un planetariu și o platformă de observație pe locul descoperirii."],
       en: []
     },
   },
@@ -1013,7 +1013,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Das Bauhaus Dessau ist das weltweit bekannteste Bauwerk der klassischen Moderne und war von 1925 bis 1932 Sitz der berühmten Designschule. Entworfen von Walter Gropius, verkörpert es mit seiner Glasvorhangfassade und der funktionalen Trennung der Gebäudeteile die radikale Erneuerung der Architektur. Hier lehrten Künstler wie Kandinsky, Klee und Moholy-Nagy an der Vision einer neuen Gestaltung für den modernen Menschen. Zusammen mit den Meisterhäusern gehört das Ensemble zum UNESCO-Weltkulturerbe. Heute ist die Stiftung Bauhaus Dessau ein Ort der Forschung, Lehre und Gestaltung, der jährlich hunderttausende Besucher anzieht, die den Geist der Avantgarde hautnah erleben wollen. Kunstgeschichte K8 – Die Moderne und das Prinzip 'Form follows Function'.",
       hu: "A(z) Bauhaus Dessau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bauhaus Dessau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Clădirea Bauhaus din Dessau, proiectată de Walter Gropius și inaugurată în 1926, este cel mai influent monument al arhitecturii moderne din lume. Cu fațada sa revoluționară de sticlă 'curtain wall' și designul funcționalist care elimină ornamentele inutile, edificiul a stabilit principiile care definesc designul și arhitectura secolului XX: 'forma urmează funcția'. Inclus în patrimoniul UNESCO, complexul include atelierele, școala și căminele studențești unde au activat pionieri precum Kandinsky și Klee. Bauhaus Dessau nu este doar o clădire, ci simbolul unei mișcări intelectuale care a căutat să integreze arta cu tehnologia industrială pentru a îmbunătăți viața cotidiană. Arta K8 – Modernismul și revoluția designului industrial.",
       en: ""
     },
     factsAdvanced: {
@@ -1026,7 +1026,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Clădirea a fost sediul școlii Bauhaus între anii 1925 și 1932.", "Fațada de sticlă de 1.000 m² a fost o inovație tehnică absolută la data construcției.", "Include Casele Maeștrilor (Meisterhäuser), unde locuiau profesorii școlii.", "A fost declarată patrimoniu mondial UNESCO în anul 1996.", "A fost grav avariată în timpul războiului și restaurată fidel în anii 1970.", "Găzduiește astăzi Fundația Bauhaus Dessau și un muzeu dedicat mișcării."],
       en: []
     },
   },
@@ -1051,7 +1051,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Sachsen-Anhalt, insbesondere die fruchtbare Magdeburger Börde, ist das historische und moderne Zentrum des deutschen Zuckerrübenanbaus. Die tiefgründigen Lößböden der Region gehören zu den ertragreichsten Böden Deutschlands und boten bereits im 19. Jahrhundert ideale Bedingungen für das 'Weiße Gold'. Im Jahr 1801 wurde in Cunern die weltweit erste Rübenzuckerfabrik errichtet, was eine industrielle Revolution in der Landwirtschaft auslöste. Heute wird der Anbau durch hochmoderne Zuckerfabriken wie in Klein Wanzleben flankiert, die zu den leistungsfähigsten in Europa gehören. Die Zuckerrübe ist ein entscheidender Pfeiler für die regionale Wertschöpfung und die Ernährungsindustrie in Sachsen-Anhalt. Geographie K7 – Bodenfruchtbarkeit und industrielle Landwirtschaft.",
       hu: "A(z) Zuckerrübenanbau (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zuckerrübenanbau (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Saxonia-Anhalt este considerată leagănul industriei zahărului din Germania, regiunea Magdeburger Börde oferind cele mai fertile soluri (loess) pentru cultivarea sfeclei de zahăr. În secolul al XIX-lea, sfecla a devenit 'aurul alb' al regiunii, impulsionând revoluția industrială în Germania Centrală. Satul Klein Wanzleben a devenit faimos la nivel mondial în 1838 prin selecția de semințe de înaltă calitate, care a crescut semnificativ conținutul de zahăr. Astăzi, regiunea rămâne un lider în cercetarea agricolă și producția de zahăr, combinând tradiția 'campaniilor de sfeclă' cu tehnologia modernă de prelucrare. Istorie K7 – Revoluția industrială și agricultura în Saxonia-Anhalt.",
       en: ""
     },
     factsAdvanced: {
@@ -1064,7 +1064,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Magdeburger Börde deține solul cu cel mai mare punctaj de fertilitate din Germania (100 puncte).", "Prima fabrică modernă de zahăr a fost fondată în Klein Wanzleben în anul 1838.", "Cercetarea a crescut conținutul de zahăr al sfeclei de la 8% la peste 18%.", "Regiunea este traversată de 'Traseul Dulce' (Süße Tour), un itinerar turistic industrial.", "Klein Wanzleben este sediul istoric al companiei KWS, lider mondial în semințe.", "Recoltarea și procesarea sfeclei, numită 'Kampagne', are loc anual între septembrie și ianuarie."],
       en: []
     },
   },
@@ -1089,7 +1089,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Quedlinburg am Nordrand des Harzes ist ein architektonisches Juwel von Weltrang und gehört seit 1994 zum UNESCO-Weltkulturerbe. Mit über 1.200 Fachwerkhäusern aus sechs Jahrhunderten besitzt die Stadt eines der größten geschlossenen Fachwerk-Ensembles Europas. Hoch über der Stadt thront der Schlossberg mit der romanischen Stiftskirche St. Servatius, einem Hauptwerk der Straße der Romanik. Hier liegt der erste deutsche König, Heinrich I., begraben. Quedlinburg war über Jahrhunderte ein kaiserliches Damenstift von enormem politischem Gewicht. Das historische Stadtbild ist nahezu lückenlos erhalten und vermittelt ein lebendiges Bild einer mittelalterlichen Königsresidenz. Geschichte K6 – Mittelalterliche Königsherrschaft und Fachwerkarchitektur.",
       hu: "Quedlinburg város Németországban, Szász-Anhalt szövetségi államban található. Európa egyik legjobban megmaradt középkori óvárosa, több mint 2100 favázas házzal és az Ottó kori fejedelmi központtal. A második világháborútól a Németország újraegyesítéséig az  NDK-hoz tartozott. A román kori és reneszánsz építészeti remekeket felvonultató óváros 1994 óta a világörökség része. A(z) Quedlinburg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "",
+      ro: "Quedlinburg, situat la nord de munții Harz, este o bijuterie a patrimoniului mondial UNESCO, oferind unul dintre cele mai bine conservate ansambluri urbane medievale din Europa. Orașul este celebru pentru cele peste 2.000 de case pe structură de lemn (Fachwerk) care datează din șase secole diferite. Castelul și Biserica St. Servatius de pe dealul Schlossberg reprezintă inima istorică, fiind locul unde a fost fondată prima dinastie regală germană de către Henric I. Comoara Catedralei din Quedlinburg, cu manuscrise și relicve de o valoare inestimabilă, completează acest peisaj cultural care pare încremenit în timp. Istorie K6 – Orașe medievale și formarea statului german.",
       en: ""
     },
     factsAdvanced: {
@@ -1102,7 +1102,7 @@ export const poiExtraDe3b: POI[] = [
         "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
         "A Quedlinburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik."
       ],
-      ro: [],
+      ro: ["Inclus în lista patrimoniului mondial UNESCO din anul 1994.", "Deține cea mai veche casă pe structură de lemn din Germania (cca. 1310).", "Quedlinburg a fost capitala imperiului sub domnia împăraților dinastiilor Ottoniene.", "Schlossberg (Dealul Castelului) găzduiește mormântul regelui Henric I și al soției sale Matilda.", "Orașul este renumit pentru creșterea semințelor de flori și legume încă din secolul XVIII.", "Găzduiește Muzeul de Artă Lyonel Feininger, dedicat faimosului artist modernist."],
       en: []
     },
   },
@@ -1127,7 +1127,7 @@ export const poiExtraDe3b: POI[] = [
     descriptionAdvanced: {
       de: "Das Chemiedreieck Leuna-Buna in Sachsen-Anhalt ist einer der traditionsreichsten und heute modernsten Industriestandorte Europas. Seit über 100 Jahren wird hier industrielle Geschichte geschrieben – von der weltweit ersten Ammoniaksynthese in Leuna bis zur Entwicklung des synthetischen Kautschuks (Buna) in Schkopau. Nach 1990 erlebte der Standort eine gigantische Transformation und wurde zum modernsten Chemiepark Deutschlands ausgebaut. Heute produzieren hier über 100 internationale Unternehmen in engem Stoffverbund. Die Region ist ein Vorreiter bei der Entwicklung der grünen Chemie und der Wasserstoffwirtschaft. Leuna-Buna zeigt eindrucksvoll den Wandel von der Kohlechemie hin zur nachhaltigen Kreislaufwirtschaft. Geographie K7 – Industrielle Verbundstandorte und ökologische Erneuerung.",
       hu: "A(z) Chemiedreieck Leuna-Buna egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemiedreieck Leuna-Buna ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "",
+      ro: "Complexul industrial Buna-Schkopau, situat lângă Leuna, este renumit în istoria tehnologiei pentru invenția și producția industrială a cauciucului sintetic (Buna). Numele 'Buna' provine de la componentele chimice Butadien și Natrium. Fondat în anii 1930, situl a fost vital pentru economia de război și ulterior pentru industria RDG-ului sub deviza 'Plastik und Elaste aus Schkopau'. După 1990, uzina a fost preluată și modernizată radical de concernul Dow Chemical, devenind un centru ultra-performant pentru producția de polimeri și mase plastice. Schkopau rămâne un reper al inovației în chimia materialelor sintetice la nivel mondial. Știință K8 – Materiale sintetice și dezvoltarea polimerilor.",
       en: ""
     },
     factsAdvanced: {
@@ -1140,7 +1140,7 @@ export const poiExtraDe3b: POI[] = [
         "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
-      ro: [],
+      ro: ["Producția primului cauciuc sintetic utilizabil comercial a început aici în 1936.", "Situl a fost un punct central al privatizării masive din estul Germaniei după 1990.", "Turnurile de răcire ale centralei electrice Schkopau sunt puncte de reper vizibile de la distanță.", "Dow Chemical a investit miliarde de euro pentru a aduce uzina la standarde ecologice moderne.", "Include o rețea complexă de conducte conectată direct cu situl vecin de la Leuna.", "Produce anual milioane de tone de mase plastice pentru industria globală a ambalajelor."],
       en: []
     },
   },
