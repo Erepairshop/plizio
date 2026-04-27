@@ -2263,13 +2263,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Approximately 452 km long, formed by the confluence of Werra and Fulda.", "The Weser Uplands are a popular hiking area.", "The Pied Piper legend from Hamelin is closely linked to the Weser."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Weser ist ein prägender Strom Norddeutschlands, der durch den Zusammenfluss von Werra und Fulda in Hann. Münden entsteht. Auf ihrem 451 Kilometer langen Weg zur Nordsee durchquert sie das Weserbergland und die norddeutsche Tiefebene. Historisch war die Weser ein bedeutender Handelsweg, was sich in der prachtvollen Weserrenaissance-Architektur der Anrainerfassaden widerspiegelt. Eine geographische Besonderheit ist die Porta Westfalica, wo der Fluss das Wiehen- und Wesergebirge durchbricht. Heute ist die Weser nicht nur eine wichtige Wasserstraße, sondern auch ein Paradies für Radtouristen auf dem beliebten Weser-Radweg. Geographie K7 – Flusssysteme und regionale Architekturstile.",
       hu: "A(z) Weser egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Weser ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Entsteht durch den Zusammenfluss von Werra und Fulda ('Weserstein').", "Einziger großer deutscher Strom mit rein innerdeutschem Einzugsgebiet.", "Gesamtlänge inkl. Werra beträgt ca. 751 Kilometer.", "Passiert die Porta Westfalica mit dem Kaiser-Wilhelm-Denkmal.", "Namensgeber für den Baustil der 'Weserrenaissance' (16./17. Jh.).", "Wichtiger Schifffahrtsweg für den Hafen Bremen/Bremerhaven."],
       hu: [
         "A(z) Weser területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2375,13 +2375,13 @@ export const poiExtraDe2: POI[] = [
       en: ["UNESCO World Heritage: St. Marien Cathedral and St. Michael's Church.", "The Thousand-Year Rose at the Cathedral is said to be 1000 years old.", "An important center of Ottonian art."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Hildesheim ist eine geschichtsträchtige Stadt in Niedersachsen, die für ihr herausragendes romanisches Erbe weltbekannt ist. Das Bistum Hildesheim wurde bereits 815 gegründet, und heute zeugen der Dom St. Marien und die Michaeliskirche, beide UNESCO-Weltkulturerbe, von der mittelalterlichen Blütezeit. Ein Symbol der Stadt ist der 'Tausendjährige Rosenstock', der an der Apsis des Doms wächst und die Zerstörung des Zweiten Weltkriegs überstand. Der historische Marktplatz, nach dem Krieg originalgetreu rekonstruiert, mit dem prächtigen Knochenhaueramtshaus, gilt als einer der schönsten Plätze Deutschlands. Hildesheim verbindet diese tiefe Geschichte mit einer modernen Hochschullandschaft. Geschichte K6 – Romanische Baukunst und mittelalterliche Bistümer.",
       hu: "A(z) Hildesheim egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hildesheim ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Beherbergt zwei UNESCO-Welterbestätten der romanischen Epoche.", "Der 'Tausendjährige Rosenstock' ist ein Wahrzeichen der Stadt.", "Gegründet im Jahr 815 als Missionsbistum durch Ludwig den Frommen.", "Das Knochenhaueramtshaus ist ein Meisterwerk des Fachwerkbaus.", "Bedeutendes Zentrum der Ottonischen Kunst im 11. Jahrhundert.", "Sitz der Universität Hildesheim mit Fokus auf Kulturwissenschaften."],
       hu: [
         "A(z) Hildesheim területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2487,13 +2487,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Germany's second seaside resort, opened in 1797.", "Known for the Wadden Sea National Park.", "Popular with tourists for its long sandy beaches."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Norderney ist die zweitgrößte der Ostfriesischen Inseln und blickt auf eine stolze Tradition als ältestes deutsches Nordseebad zurück, gegründet 1797. Die Insel vereint mondänes Flair mit wilder Naturlandschaft, die zum Nationalpark Niedersächsisches Wattenmeer gehört. Das historische Kurhaus und die eleganten Villen im Westteil erinnern an die Zeit, als Norderney Sommerresidenz der hannoverschen Könige war. Im Osten der Insel erstrecken sich weite Dünenlandschaften und Salzwiesen, die Rückzugsraum für zahlreiche Vogelarten sind. Norderney ist zudem bekannt für sein reges kulturelles Leben und seine erstklassige Thalasso-Kompetenz. Geographie K6 – Küstenökologie und Tourismusentwicklung an der Nordsee.",
       hu: "A(z) Norderney egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Norderney ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ältestes Nordseebad Deutschlands, offiziell seit dem Jahr 1797.", "Insel ist ca. 14 km lang und umfasst 26,3 Quadratkilometer.", "Gehört zum UNESCO-Weltnaturerbe Wattenmeer.", "Das 54 Meter hohe Kap Norderney ist ein markantes Seezeichen.", "Besitzt als einzige ostfriesische Insel ein städtisch geprägtes Zentrum.", "Sommerresidenz von König Georg V. von Hannover (1836–1866)."],
       hu: [
         "A(z) Norderney területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2599,13 +2599,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Pied Piper legend dates from the 13th century.", "Every summer Sunday there are open-air performances about the legend.", "Numerous Weser Renaissance half-timbered houses characterize the townscape."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Hameln an der Weser ist weltberühmt durch die Sage vom Rattenfänger, die bereits im Jahr 1284 ihren Ursprung haben soll. Die Stadt ist ein leuchtendes Beispiel für die Weserrenaissance, deren prachtvolle Bauten wie das Rattenfängerhaus und das Hochzeitshaus das Stadtbild prägen. Hinter der Legende verbirgt sich vermutlich die historische Auswanderung junger Bürger nach Osten. Heute zelebriert Hameln sein Erbe mit täglichen Glockenspielen und Rattenfänger-Freilichtspielen. Neben der Märchen-Thematik ist Hameln ein bedeutender Wirtschaftsstandort und ein wichtiger Verkehrsknotenpunkt im Weserbergland. Geschichte K5 – Sagen und ihre historischen Hintergründe.",
       hu: "A(z) Hameln egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hameln ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltbekannt durch die Sage vom Rattenfänger von Hameln.", "Zentrum der Weserrenaissance mit über 100 historischen Gebäuden.", "Erste urkundliche Erwähnung im Jahr 851 als Benediktinerkloster.", "Das Rattenfängerhaus stammt aus dem Jahr 1602.", "Die Stadtmauer ist mit zwei erhaltenen Wehrtürmen noch teilweise sichtbar.", "Jeden Sonntag im Sommer finden die Rattenfänger-Freilichtspiele statt."],
       hu: [
         "A(z) Hameln területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2711,13 +2711,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Göttingen Seven, seven professors, protested against the king in 1837.", "Numerous Nobel Prize winners taught or studied here.", "The Gänseliesel monument is a symbol of the city."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Göttingen ist eine klassische deutsche Gelehrtenrepublik, geprägt durch die 1734 gegründete Georg-August-Universität. Die Stadt hat eine beeindruckende Tradition: Über 40 Nobelpreisträger haben hier studiert oder gelehrt, darunter Größen wie Gauß, Lichtenberg und die Brüder Grimm. Ein Wahrzeichen ist das 'Gänseliesel' auf dem Marktplatz – die meistgeküsste Statue der Welt, da es für frisch promovierte Studenten Tradition ist, sie nach bestandenem Examen zu küssen. Die historische Altstadt mit ihren Fachwerkbauten und der grüne Wall um den Stadtkern verleihen Göttingen eine hohe Lebensqualität. Heute ist die Stadt ein führender Standort für Life Sciences und Messtechnik. Geschichte K7 – Universitäten als Zentren von Aufklärung und Wissenschaft.",
       hu: "A(z) Göttingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Göttingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Heimat der Georg-August-Universität mit über 40 Nobelpreisträgern.", "Das Gänseliesel-Denkmal ist das Wahrzeichen der Stadt.", "Wirkungsstätte des berühmten Mathematikers Carl Friedrich Gauß.", "Die Brüder Grimm lehrten hier und gehörten zu den 'Göttinger Sieben'.", "Der Stadtwall aus dem 14. Jahrhundert ist heute eine 3 km lange Promenade.", "Wichtiger Standort für die optische Industrie und Nanotechnologie."],
       hu: [
         "A(z) Göttingen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2823,13 +2823,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Germany's only genuine deep-water port for supertankers.", "Home to the German Naval Museum.", "An important location for oil imports and refineries."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Wilhelmshaven an der Nordsee ist der bedeutendste Marinestützpunkt Deutschlands und die einzige Tiefwasserhafen-Stadt des Landes. Gegründet 1869 von König Wilhelm I. von Preußen, war sie lange Zeit das Zentrum der deutschen Seemacht. Heute beherbergt Wilhelmshaven nicht nur das Marinekommando, sondern auch den JadeWeserPort, das einzige Containerterminal Deutschlands, das von den größten Schiffen der Welt tideunabhängig angelaufen werden kann. Das Stadtbild wird durch die imposante Kaiser-Wilhelm-Brücke geprägt. Als Standort für Energielogistik, insbesondere Flüssigerdgas (LNG), spielt die Stadt eine Schlüsselrolle für die deutsche Energieversorgung. Geographie K7 – Marinestützpunkte und moderne Hafenwirtschaft.",
       hu: "A(z) Wilhelmshaven egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wilhelmshaven ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter Standort der Bundeswehr mit rund 9.000 Beschäftigten.", "Gegründet im Jahr 1869 als preußischer Marinehafen.", "Die Kaiser-Wilhelm-Brücke ist eine der größten Drehbrücken Europas.", "Standort des JadeWeserPort, Deutschlands einzigem Tiefwasserhafen.", "Heimat des Deutschen Marinemuseums am historischen Hafen.", "Wichtige Drehscheibe für die deutsche Energieversorgung (LNG-Terminal)."],
       hu: [
         "A(z) Wilhelmshaven területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2935,13 +2935,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Surface area approximately 29 km², average depth only 1.4 m.", "Nature reserve and bird paradise.", "Wilhelmstein island in the lake houses a historic fortress."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Steinhuder Meer bei Hannover ist mit einer Fläche von rund 29 Quadratkilometern der größte See Nordwestdeutschlands. Trotz seiner Größe ist das Gewässer extrem flach, mit einer durchschnittlichen Tiefe von nur 1,35 Metern. Inmitten des Sees liegt die künstliche Inselfestung Wilhelmstein, die im 18. Jahrhundert als uneinnehmbarer Zufluchtsort erbaut wurde. Das Steinhuder Meer ist ein Naturpark von internationaler Bedeutung, besonders als Rastplatz für Zugvögel. Es bietet ideale Bedingungen für Segler und Kitesurfer, während das idyllische Fischerdorf Steinhunde für seine geräucherten Aale bekannt ist. Geographie K6 – Glaziale Seen und ihre ökologische Bedeutung.",
       hu: "A(z) Steinhuder Meer egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Steinhuder Meer ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter See in Niedersachsen mit ca. 29 km² Wasserfläche.", "Extrem geringe Wassertiefe (durchschnittlich nur 1,35 Meter).", "Beherbergt die historische Inselfestung Wilhelmstein aus dem Jahr 1761.", "Wichtiges EU-Vogelschutzgebiet für über 250 verschiedene Arten.", "Beliebtes Segelrevier mit hunderten von Bootsliegeplätzen.", "Entstanden am Ende der letzten Eiszeit in einer Gletschermulde."],
       hu: [
         "A(z) Steinhuder Meer területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3047,13 +3047,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Over 500 half-timbered houses shape the townscape.", "Celle Palace was the residence of the Dukes of Brunswick-Lüneburg.", "Known for the annual stallion parade of Celle State Stud."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Celle ist eine einzigartige Residenzstadt am Südrand der Lüneburger Heide, die durch eines der größten zusammenhängenden Fachwerk-Ensembles Europas besticht. Über 480 denkmalgeschützte Fachwerkhäuser in der Altstadt blieben im Zweiten Weltkrieg nahezu unversehrt und bilden eine malerische Kulisse. Das herrschaftliche Celler Schloss vereint Stilelemente der Renaissance und des Barocks und beherbergt das älteste noch bespielte Barocktheater Europas. Celle war über Jahrhunderte die Residenz der Herzöge von Braunschweig-Lüneburg. Heute verbindet die Stadt diese höfische Tradition mit modernen Akzenten und ist bekannt für das Landgestüt Celle und seine Pferdezucht. Geschichte K7 – Residenzstädte und Denkmalschutz in Deutschland.",
       hu: "A(z) Celle egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Celle ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besitzt über 480 historische Fachwerkhäuser in der geschlossenen Altstadt.", "Das Celler Schloss war die Residenz der Welfen-Herzöge.", "Beherbergt das älteste Barocktheater Europas (gegründet 1674).", "Sitz des Niedersächsischen Landgestüts mit weltberühmter Pferdezucht.", "Das Hoppener Haus von 1532 ist das prächtigste Fachwerkhaus der Stadt.", "Wirkungsstätte der verbannten dänischen Königin Caroline Mathilde."],
       hu: [
         "A(z) Celle területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3159,13 +3159,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Kaiserpfalz is one of the most significant Romanesque palatine structures.", "The old town is a UNESCO World Heritage Site.", "The nearby Rammelsberg mine (also UNESCO) operated for over 1000 years."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Goslar am Nordrand des Harzes ist eine ehemalige Kaiserstadt von herausragender historischer Bedeutung. Über Jahrhunderte war sie ein Machtzentrum des Heiligen Römischen Reiches, begründet durch den Silberreichtum des angrenzenden Rammelsberges. Die Kaiserpfalz Goslar ist der größte und am besten erhaltene Profanbau der Romanik in Deutschland. Zusammen mit dem Bergwerk Rammelsberg und der Altstadt gehört Goslar zum UNESCO-Weltkulturerbe. Das mittelalterliche Stadtbild mit seinen schiefergedeckten Häusern und dem Marktplatz mit dem Glockenspiel zeugt vom einstigen Reichtum der hansischen Kaufleute. Geschichte K6 – Bergbau und Kaisertum im Mittelalter.",
       hu: "Goslar, teljes nevén Goslar Alte Kaiserstadt (Goslar Régi Császárváros) egy német város, tartományi körzet központja Alsó-Szászország tartományban. Része az UNESCO világörökségének. A(z) Goslar egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1992 (Altstadt und Rammelsberg).", "Die Kaiserpfalz wurde zwischen 1040 und 1050 unter Heinrich III. erbaut.", "Das Bergwerk Rammelsberg wurde über 1.000 Jahre kontinuierlich betrieben.", "Besitzt hunderte mittelalterliche Fachwerkhäuser mit Schieferverkleidung.", "Das Goslarer Rathaus beherbergt den prunkvollen 'Huldigungssaal'.", "Das Glockenspiel am Markt zeigt die Geschichte des Bergbaus im Harz."],
       hu: [
         "A(z) Goslar területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3271,13 +3271,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Approximately 371 km long.", "Important for the Meyerwerft shipyard in Papenburg, where cruise ships are built.", "The Dortmund-Ems Canal connects the Ruhr area with the North Sea."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Ems ist ein 371 Kilometer langer Fluss, der das westliche Niedersachsen und Nordrhein-Westfalen durchquert. Sie entspringt in der Senne und mündet bei Emden in den Dollart und damit in die Nordsee. Eine weltweite Besonderheit ist ihre Rolle für den Schiffbau: Die Meyer Werft in Papenburg überführt ihre riesigen Kreuzfahrtschiffe über die gestaute Ems rückwärts in Richtung Meer – ein technisches und logistisches Meisterstück, das oft hunderte Schaulustige anlockt. Das Emsland ist zudem eine bedeutende Energieregion. Entlang des Flusses finden sich weite Moorlandschaften und wertvolle Feuchtgebiete, die unter Schutz stehen. Geographie K7 – Flussnutzung zwischen Logistik und Ökologie.",
       hu: "A(z) Ems egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ems ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 371 km von der Senne bis zur Nordsee-Mündung.", "Bekannt für die spektakulären Überführungen von Kreuzfahrtschiffen.", "Besitzt mit dem Ems-Sperrwerk ein wichtiges Küstenschutzbauwerk.", "Der Ems-Radweg gehört zu den flachsten und beliebtesten Radrouten.", "Dient als wichtige Wasserstraße für den Hafen Emden.", "Beherbergt seltene Fischarten wie den Stör durch Renaturierungsprojekte."],
       hu: [
         "A(z) Ems területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3385,13 +3385,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Known as Karl-Marx-Stadt in the GDR.", "The Karl Marx Monument is one of the world's largest portrait monuments.", "European Capital of Culture 2025."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Chemnitz, die drittgrößte Stadt Sachsens, ist ein bedeutender Industriestandort mit einer wechselvollen Geschichte. Im 19. Jahrhundert galt sie als das 'Sächsische Manchester', geprägt durch den Maschinenbau und die Textilindustrie. Während der DDR-Zeit trug die Stadt den Namen 'Karl-Marx-Stadt', wovon das monumentale Karl-Marx-Monument, der zweitgrößte freistehend modellierte Kopf der Welt, noch heute zeugt. Chemnitz hat sich nach der Wende erfolgreich als Zentrum für Hochtechnologie, Forschung und Kultur neu erfunden und wurde zur Europäischen Kulturhauptstadt 2025 gewählt. Die Stadt verbindet industrielle Moderne mit beeindruckenden Parkanlagen und dem Schlossberg-Ensemble. Geschichte K8 – Industrielle Revolution und urbaner Strukturwandel.",
       hu: "A(z) Chemnitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemnitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wurde zur Europäischen Kulturhauptstadt des Jahres 2025 ernannt.", "Das Karl-Marx-Monument wiegt 40 Tonnen und ist 13 Meter hoch.", "Einst bedeutendstes Zentrum des deutschen Maschinenbaus (Richard Hartmann).", "Besitzt mit dem 'Versteinerten Wald' ein 290 Millionen Jahre altes Naturdenkmal.", "Wichtiger Automobilstandort mit dem VW-Motorenwerk Chemnitz.", "Die Kunstsammlungen Chemnitz gehören zu den renommiertesten Museen Ostdeutschlands."],
       hu: [
         "A(z) Chemnitz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3497,13 +3497,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Birthplace of composer Robert Schumann (1810).", "Traditional center of automobile manufacturing – the Trabant was made here.", "Founding location of Audi's predecessor companies."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Zwickau ist die Wiege der sächsischen Automobilindustrie und ein traditionsreiches Zentrum des Bergbaus. Hier gründete August Horch Anfang des 20. Jahrhunderts die Marken Horch und Audi, was den Grundstein für den Weltruf Sachsens als Autoland legte. In der DDR war Zwickau der Produktionsort des legendären Trabant. Heute ist das VW-Werk Zwickau ein Vorreiter der Elektromobilität in Europa. Kulturell ist die Stadt als Geburtsort des Komponisten der Romantik, Robert Schumann, bekannt. Die historische Altstadt mit den Priesterhäusern – den ältesten Wohnbauten Sachsens – und dem prächtigen Dom St. Marien zeugt von der reichen Geschichte als wohlhabende Bergbaustadt. Geschichte K7 – Mobilitätsgeschichte und industrielle Tradition.",
       hu: "A(z) Zwickau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zwickau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Geburtsort der Marken Horch und Audi durch August Horch.", "Das August-Horch-Museum dokumentiert 120 Jahre Automobilgeschichte.", "Einstige 'Kohlenstadt' mit einer über 800-jährigen Bergbautradition.", "Produktionsort des Trabant 601 (über 3 Millionen Einheiten gefertigt).", "Geburtsstadt des berühmten Komponisten Robert Schumann (1810).", "Die 'Priesterhäuser' am Dom gehören zu den ältesten Gebäuden Deutschlands."],
       hu: [
         "A(z) Zwickau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3609,13 +3609,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Fichtelberg (1215 m) is the highest Saxon mountain.", "Known for Christmas ornaments, nutcrackers, and incense smokers.", "UNESCO World Heritage 'Montanregion Erzgebirge/Krušnohoří' since 2019."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Erzgebirge an der Grenze zwischen Sachsen und Böhmen ist eine weltweit einzigartige Kulturlandschaft, die über 800 Jahre durch den Bergbau geprägt wurde. Der Reichtum an Silber, Zinn und Uran gab der Region ihren Namen und machte Sachsen einst zu einem der wohlhabendsten Staaten Europas. Seit 2019 gehört die 'Montanregion Erzgebirge' zum UNESCO-Weltkulturerbe. Aus dem Bergbau entwickelte sich auch die berühmte Handwerkskunst des Schnitzens und Drechselns (Schwibbögen, Nussknacker). Das Gebirge mit seinem höchsten Gipfel, dem Fichtelberg (1.215 m), ist heute zudem ein bedeutendes Wander- und Wintersportgebiet und bewahrt mit seinen Traditionen wie der Bergparade eine lebendige Identität. Geschichte K6 – Montanwesen und kulturelle Identität.",
       hu: "A(z) Erzgebirge egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Erzgebirge ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe Montanregion Erzgebirge/Krušnohoří seit 2019.", "Höchster Berg in Sachsen ist der Fichtelberg mit 1.215 Metern.", "Weltzentrum für traditionelle Holzkunst und Weihnachtsdekoration.", "Namensgebend durch den enormen Reichtum an Erzen (Silber, Zinn).", "Wichtigster Uranlieferant der Sowjetunion während des Kalten Krieges (SDAG Wismut).", "Beherbergt mit Annaberg-Buchholz eine der bedeutendsten Bergstädte."],
       hu: [
         "A(z) Erzgebirge területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3721,13 +3721,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Saxon Switzerland National Park protects the rocky landscape.", "The Bastei is the most famous excursion destination.", "A popular area for climbing and hiking."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Sächsische Schweiz ist der deutsche Teil des Elbsandsteingebirges und eine der spektakulärsten Naturlandschaften Mitteleuropas. Charakteristisch sind die bizarren Felsformationen, tiefen Schluchten und markanten Tafelberge wie der Lilienstein. Das Wahrzeichen der Region ist die Basteibrücke, die einen atemberaubenden Blick über das Elbtal bietet. Die Landschaft wurde durch Millionen Jahre dauernde Erosion des Kreidesandsteins geformt und inspirierte Künstler der Romantik wie Caspar David Friedrich. Heute ist das Gebiet als Nationalpark geschützt und gilt als eines der anspruchsvollsten Wander- und Klettergebiete Deutschlands, wobei hier die weltweit einzigartige Sächsische Kletterregel ihren Ursprung hat. Geographie K6 – Erosion, Gesteinskunde und Naturschutz.",
       hu: "A(z) Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besteht aus kreidezeitlichem Sandstein, geformt durch Erosion.", "Einziges Felsennationalparkgebiet in ganz Deutschland.", "Die Basteibrücke ist die bekannteste Touristenattraktion der Region.", "Wiege des freien Kletterns mit über 1.100 Klettergipfeln.", "Wirkungsstätte der Maler der Romantik (Caspar David Friedrich).", "Der Lilienstein ist der einzige Tafelberg rechts der Elbe."],
       hu: [
         "A(z) Sächsische Schweiz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3833,13 +3833,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Elbe valley in Dresden is of outstanding value as a cultural landscape.", "Saxon Switzerland was created by Elbe erosion over millions of years.", "An important shipping route since the Middle Ages."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Elbe durchfließt Sachsen auf einer Länge von rund 180 Kilometern und bildet das Rückgrat der sächsischen Kultur- und Wirtschaftsgeschichte. Von der Sächsischen Schweiz kommend, weitet sich das Tal bei Dresden zum weiten Elbkessel und passiert das berühmte Weinanbaugebiet um Meißen. Der Fluss war jahrhundertelang die Hauptschlagader für den Handel mit Böhmen und dem Norden. Die Elbwiesen in Dresden sind ein einzigartiges Flächendenkmal, das Natur und Barockarchitektur verbindet. In Meißen ermöglichte der Elbtransport einst den Export des berühmten Porzellans. Heute ist die Elbe ein wichtiger Naturraum mit einer faszinierenden Tierwelt in den Auenlandschaften und ein Magnet für den Tourismus. Geographie K7 – Flusslandschaften als Kultur- und Wirtschaftsraum.",
       hu: "A(z) Elbe (Sachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Durchfließt Sachsen auf 180 km von Schmilka bis nach Torgau.", "Bildet bei Meißen eines der nördlichsten Weinanbaugebiete der Welt.", "Wichtigste Wasserstraße für den Güterverkehr zwischen Prag und Hamburg.", "Passiert das Elbtal in Dresden, ein Zentrum des europäischen Barock.", "Die Elbwiesen in Dresden umfassen ca. 400 Hektar unbebaute Fläche.", "Wichtiger Lebensraum für Biber und seltene Zugvogelarten."],
       hu: [
         "A(z) Elbe (Sachsen) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3945,13 +3945,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Meissen Porcelain Manufactory was founded in 1710.", "Albrechtsburg Castle temporarily housed the secret porcelain formula.", "The famous Meissen porcelain is called 'white gold'."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Meißen, die 'Wiege Sachsens', ist weltweit berühmt für die erste europäische Porzellanmanufaktur, die 1710 von August dem Starken gegründet wurde. Die gekreuzten Schwerter sind das älteste kontinuierlich genutzte Markenzeichen der Welt. Die Stadt wird von der Albrechtsburg, dem ersten deutschen Schlossbau des 15. Jahrhunderts, und dem gotischen Dom überragt. Meißen blieb im Zweiten Weltkrieg weitgehend verschont und besitzt eine prachtvolle mittelalterliche Altstadt. Der Weinbau an den steilen Elbhängen rund um die Stadt hat eine über 850-jährige Tradition und bringt exzellente sächsische Weine hervor. Meißen vereint in einzigartiger Weise höfische Tradition, Kunstfertigkeit und sächsische Geschichte. Kunstgeschichte K7 – Europäische Porzellankunst und Schlossbaukunst.",
       hu: "A(z) Meißen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Meißen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Sitz der Staatlichen Porzellan-Manufaktur Meissen seit 1710.", "Die Albrechtsburg gilt als das älteste Residenzschloss Deutschlands.", "Erstes europäisches Hartporzellan durch Johann Friedrich Böttger erfunden.", "Der Meißner Dom ist ein bedeutendes Zeugnis der reinen Gotik.", "Zentrum des kleinsten deutschen Weinanbaugebiets (Sachsen).", "Das Markenzeichen der gekreuzten Schwerter wird seit 1722 verwendet."],
       hu: [
         "A(z) Meißen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4057,13 +4057,13 @@ export const poiExtraDe2: POI[] = [
       en: ["At 91 m, one of the largest monuments in Europe.", "Inaugurated in 1913 on the 100th anniversary of the battle.", "The Battle of the Nations was one of the largest battles of the Napoleonic Wars."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Völkerschlachtdenkmal in Leipzig ist eines der gewaltigsten Denkmäler Europas und erinnert an die entscheidende Schlacht gegen Napoleon im Jahr 1813. Mit einer Höhe von 91 Metern ist es ein monumentales Wahrzeichen der Stadt. Eingeweiht im Jahr 1913 zum 100. Jahrestag der Schlacht, beeindruckt der Bau durch seine wuchtige Architektur des Historismus und die monumentalen Wächterfiguren im Inneren. In der Ruhmeshalle symbolisieren riesige Statuen die Tugenden des Volkes. Von der Aussichtsplattform bietet sich ein weiter Blick über Leipzig und das Umland. Das Denkmal ist nicht nur ein Gedenkort für über 100.000 Gefallene, sondern auch ein architektonisches Zeugnis des deutschen Nationalgefühls vor dem Ersten Weltkrieg. Geschichte K7 – Die Napoleonischen Kriege und ihre Folgen.",
       hu: "A(z) Völkerschlachtdenkmal Leipzig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Völkerschlachtdenkmal Leipzig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes Denkmalbauwerk Europas mit einer Höhe von 91 Metern.", "Erinnert an die Völkerschlacht bei Leipzig vom 16. bis 19. Oktober 1813.", "Erbaut aus rund 26.500 Blöcken aus Granitporphyr aus dem Erzgebirge.", "Die Aussichtsplattform erreicht man über genau 500 Treppenstufen.", "Besitzt eine Krypta mit 16 monumentalen Kriegerstatuen als Totenwache.", "Das vorgelagerte Wasserbecken wird 'See der Tränen' genannt."],
       hu: [
         "A(z) Völkerschlachtdenkmal Leipzig területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4169,13 +4169,13 @@ export const poiExtraDe2: POI[] = [
       en: ["First stone bridge over the Elbe in Saxony, originally built in 1319.", "Destroyed in World War II, rebuilt following historical design.", "Connects the Old Town with the New Town."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Augustusbrücke in Dresden ist die historisch bedeutendste Verbindung über die Elbe und verbindet die barocke Altstadt mit der Neustadt. Die heutige Brücke aus Beton mit einer Verkleidung aus Sandstein wurde 1907-1910 nach Plänen von Wilhelm Kreis errichtet und ersetzte den berühmten Vorgängerbau von Matthäus Daniel Pöppelmann aus der Zeit Augusts des Starken. Die Brücke ist ein zentraler Bestandteil der 'Canaletto-Aussicht' und bietet einen ikonischen Blick auf die Frauenkirche, den Zwinger und die Semperoper. In den letzten Jahren wurde sie umfassend saniert und ist heute weitgehend dem öffentlichen Nahverkehr und Fußgängern vorbehalten, was sie zu einer wichtigen Flaniermeile der Stadt macht. Geographie K7 – Stadtentwicklung und historische Verkehrswege.",
       hu: "A(z) Augustusbrücke Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Augustusbrücke Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wichtigste Verbindung zwischen Dresdner Altstadt und Neustadt.", "Heutiges Bauwerk ist die fünfte Elbbrücke an dieser Stelle.", "Wurde im Jahr 1910 fertiggestellt und trägt den Namen Augusts des Starken.", "Die Brücke ist exakt 328 Meter lang und 18 Meter breit.", "Besteht aus neun Bögen und ist mit Sandstein verkleidet.", "Bietet den berühmten Blick auf die Dresdner Stadtsilhouette ('Canaletto-Blick')."],
       hu: [
         "A(z) Augustusbrücke Dresden területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4281,13 +4281,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Considered one of Europe's best-preserved old towns.", "Popular filming location ('Inglourious Basterds', 'The Grand Budapest Hotel').", "The Polish twin city of Zgorzelec lies on the other side of the Neisse."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Görlitz ist die östlichste Stadt Deutschlands und ein architektonisches Juwel von europäischem Rang. Da die Stadt im Zweiten Weltkrieg fast vollständig unversehrt blieb, besitzt sie eines der am besten erhaltenen historischen Stadtbilder Mitteleuropas mit über 4.000 denkmalgeschützten Gebäuden aus Gotik, Renaissance, Barock und Gründerzeit. Die Grenze zu Polen verläuft heute mitten durch die Stadt, die zusammen mit Zgorzelec eine Europastadt bildet. Weltbekannt wurde Görlitz zudem als 'Görliwood', da seine authentische Kulisse als Drehort für zahlreiche internationale Filmproduktionen wie 'Grand Budapest Hotel' diente. Die prächtigen Hallenhäuser der Renaissance zeugen vom einstigen Reichtum als Tuchmacherstadt an der Via Regia. Geschichte K7 – Mittelalterliche Handelsstädte und moderne Grenzregionen.",
       hu: "A(z) Görlitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Görlitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besitzt die höchste Denkmaldichte aller deutschen Städte (über 4.000).", "Östlichste Stadt Deutschlands, geteilt durch die Lausitzer Neiße.", "Berühmter Drehort für Hollywood-Filme ('Görliwood').", "Die 'Hallenhäuser' sind eine architektonische Besonderheit der Renaissance.", "Sitz des Meridiansteins, da der 15. Meridian direkt durch die Stadt verläuft.", "Die Peterskirche besitzt eine Sonnenorgel mit künstlichen Sonnenstrahlen."],
       hu: [
         "A(z) Görlitz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4393,13 +4393,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Completed in 1927, one of Saxony's oldest reservoirs.", "Kriebstein Castle above the lake is considered Saxony's most beautiful knight's castle.", "A popular destination for water sports and hiking."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Talsperre Kriebstein im sächsischen Mittelland ist ein wichtiges Wasserbauwerk und ein beliebtes Naherholungsgebiet. Gestaut wird hier die Zschopau, die sich tief in die Felsenlandschaft eingeschnitten hat. Die 1927 bis 1930 errichtete Staumauer dient der Stromerzeugung und dem Hochwasserschutz. Besonders reizvoll ist die Kombination aus technischem Denkmal und wildromantischer Natur. Besucher können den See bei einer Schifffahrt erkunden oder die direkt am steilen Felsufer gelegene Burg Kriebstein bewundern, die als Sachsens schönste Ritterburg gilt. Das Gebiet ist ein beliebtes Ziel für Wanderer und Wassersportler und bietet mit der Seebühne einen Ort für kulturelle Veranstaltungen. Geographie K7 – Wasserkraftnutzung und touristische Erschließung.",
       hu: "A(z) Talsperre Kriebstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Talsperre Kriebstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut in den Jahren 1927 bis 1930 zur Gewinnung von Wasserkraft.", "Die Staumauer ist 28 Meter hoch und 230 Meter lang.", "Der Stausee windet sich über 9 km durch das steile Zschopautal.", "Beherbergt die einzige Seebühne Sachsens für Theater und Konzerte.", "Die Burg Kriebstein thront spektakulär direkt am Rand des Talsperrensees.", "Beliebtes Wandergebiet mit einem ca. 18 km langen Rundweg."],
       hu: [
         "A(z) Talsperre Kriebstein területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4505,13 +4505,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Founded in 1990, one of Germany's youngest national parks.", "Known for sandstone cliffs, deep gorges, and dense forests.", "Cross-border with Czech Bohemian Switzerland National Park."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Nationalpark Sächsische Schweiz schützt seit 1990 das Herzstück des Elbsandsteingebirges rechts der Elbe. Auf über 9.000 Hektar bietet er eine Landschaft aus zerklüfteten Felsnadeln, tiefen, schattigen Schluchten und unberührten Wäldern. Ziel ist es, die dynamischen Naturprozesse wie Erosion und Waldentwicklung ohne menschliche Eingriffe zuzulassen. Für Wanderer ist der Nationalpark durch den Malerweg erschlossen, der zu den schönsten Wanderwegen Deutschlands zählt. Eine Besonderheit ist die hohe Dichte an Horsten seltener Greifvögel wie dem Wanderfalken, der hier erfolgreich wieder angesiedelt wurde. Der Park ist zudem ein internationales Zentrum für das Felsklettern unter strengen Naturschutzauflagen. Biologie K6 – Naturschutzgebiete und Ökosystem Sandsteinregion.",
       hu: "A(z) Nationalpark Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Deutschlands einziger Nationalpark mit einer Sandstein-Felslandschaft.", "Umfasst eine Gesamtfläche von ca. 9.350 Hektar reiner Naturzone.", "Heimat des Wanderfalken, der hier eines der größten Vorkommen Europas hat.", "Besteht aus zwei räumlich getrennten Teilen (Bastei und Schmilka).", "Der 'Malerweg' ist 112 Kilometer lang und durchquert den Park.", "Beherbergt über 1.100 Klettergipfel innerhalb der Parkgrenzen."],
       hu: [
         "A(z) Nationalpark Sächsische Schweiz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4617,13 +4617,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Built by Augustus the Strong, Elector of Saxony.", "The palace is surrounded by four artificial ponds.", "The film 'Three Hazelnuts for Cinderella' was filmed here."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Moritzburg bei Dresden ist eines der prachtvollsten Barockschlösser Mitteleuropas und war das Jagddomizil Augusts des Starken. Das symmetrische Ensemble mit seinen vier Türmen liegt malerisch auf einer Insel inmitten eines künstlichen Teiches. Berühmt ist das Schloss für sein 'Federzimmer' mit über einer Million Vogelfedern und die weltweit umfangreichste Sammlung von Jagdtrophäen (Rotwildgeweihe). Die Innenausstattung mit kostbaren Goldledertapeten spiegelt den Glanz des sächsischen Absolutismus wider. In der Winterzeit wird das Schloss zum Wallfahrtsort für Märchenfans, da es als Original-Drehort des Kultfilms 'Drei Haselnüsse für Aschenbrödel' diente. Ein weiteres Highlight ist das nahegelegene Fasanenschlösschen mit seinem Leuchtturm. Geschichte K7 – Barocke Repräsentation und höfische Jagdkultur.",
       hu: "A(z) Schloss Moritzburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Moritzburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut als Jagdschloss von 1723 bis 1733 unter August dem Starken.", "Drehort des legendären Märchenfilms 'Drei Haselnüsse für Aschenbrödel'.", "Beherbergt die größte Rotwild-Geweiilsammlung der Welt.", "Das 'Federzimmer' gilt als ein weltweit einzigartiges Kunstwerk.", "Das Schloss ist über eine herrschaftliche Allee mit Dresden verbunden.", "Auf dem Gelände befindet sich der einzige Binnenleuchtturm Sachsens."],
       hu: [
         "A(z) Schloss Moritzburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4729,13 +4729,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Home to TU Bergakademie Freiberg (1765), the world's oldest mining university.", "The silver-rich Ore Mountains brought wealth to the city.", "Part of the UNESCO World Heritage 'Montanregion Erzgebirge'."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Freiberg ist die älteste und bedeutendste Bergstadt Sachsens und war über Jahrhunderte das silberne Herz des Landes. Der Reichtum aus den Silberminen legte den Grundstein für die Macht des wettinischen Fürstenhauses. Heute zeugen der Dom St. Marien mit der berühmten Goldenen Pforte und der Silbermann-Orgel sowie die historische Altstadt von dieser glanzvollen Zeit. Freiberg ist zudem Sitz der 1765 gegründeten TU Bergakademie, der ältesten montanwissenschaftlichen Universität der Welt. Eine moderne Weltsensation ist die 'terra mineralia' im Schloss Freudenstein, die eine der bedeutendsten Mineraliensammlungen weltweit beherbergt. Seit 2019 ist Freiberg ein zentraler Bestandteil des UNESCO-Weltkulturerbes Montanregion Erzgebirge. Geschichte K6 – Bergbautradition und technischer Fortschritt.",
       hu: "A(z) Freiberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Sitz der ältesten noch bestehenden Bergakademie der Welt (1765).", "Zentrum der Silbererzeugung im Heiligen Römischen Reich.", "UNESCO-Weltkulturerbe als Kernstadt der Montanregion Erzgebirge.", "Die 'terra mineralia' zeigt über 3.500 Minerale aus aller Welt.", "Der Freiberger Dom beherbergt die Grablege von 28 sächsischen Fürsten.", "Gottfried Silbermann baute hier seine berühmteste Orgel im Jahr 1735."],
       hu: [
         "A(z) Freiberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4841,13 +4841,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Officially named 'Loschwitzer Brücke'.", "Special feature: no piers in the riverbed.", "Survived World War II as one of the few Dresden bridges left standing."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das 'Blaue Wunder' ist die wohl bekannteste Brücke Dresdens und ein technisches Denkmal von europäischem Rang. Die 1893 fertiggestellte Loschwitzer Brücke verbindet die Villenviertel Blasewitz und Loschwitz und galt damals als Wunder der Technik, da sie die Elbe auf einer Länge von 141 Metern ohne Strompfeiler überspannt. Ihre charakteristische hellblaue Farbe gab ihr den volkstümlichen Namen. Die Brücke aus genietetem Stahl ist ein Symbol für die industrielle Innovationskraft Sachsens Ende des 19. Jahrhunderts. Da sie am Ende des Zweiten Weltkriegs mutig vor der Sprengung bewahrt wurde, ist sie im Originalzustand erhalten. Heute ist sie ein markanter Orientierungspunkt in der Dresdner Elblandschaft. Physik K8 – Brückenbau und Stahlkonstruktionen der Industrialisierung.",
       hu: "A(z) Blaues Wunder Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Blaues Wunder Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Offizieller Name: Loschwitzer Brücke; erbaut zwischen 1891 und 1893.", "Überspannt die Elbe ohne Pfeiler im Wasser (Hängebrücken-Prinzip).", "Galt bei ihrer Eröffnung als technisches Weltwunder.", "Die Konstruktion besteht aus ca. 3.500 Tonnen Eisen und Stahl.", "Wurde 1945 durch mutige Bürger vor der Zerstörung durch die Wehrmacht gerettet.", "Namensgebend ist der charakteristische hellblaue Farbanstrich."],
       hu: [
         "A(z) Blaues Wunder Dresden területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4953,13 +4953,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Conceived by Augustus the Strong as a festival hall and orangery.", "Home to the Old Masters Picture Gallery featuring Raphael's Sistine Madonna.", "Severely destroyed in World War II and extensively reconstructed."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Dresdner Zwinger ist eines der bedeutendsten Bauwerke des deutschen Barock und ein Symbol für die kulturelle Blüte Sachsens unter August dem Starken. Entworfen von Matthäus Daniel Pöppelmann und ausgestattet mit Skulpturen von Balthasar Permoser, diente er ursprünglich als Orangerie und Festplatz des Hofes. Das symmetrische Ensemble mit dem Kronentor, dem Wallpavillon und dem Nymphenbad ist ein Gesamtkunstwerk aus Architektur, Plastik und Gartenkunst. Heute beherbergt der Zwinger weltberühmte Museen wie die Gemäldegalerie Alte Meister mit der Sixtinischen Madonna von Raffael sowie den Mathematisch-Physikalischen Salon. Er ist das Herzstück der Dresdner Museumslandschaft und ein Magnet für Millionen von Besuchern. Kunstgeschichte K8 – Barocke Architektur und höfische Repräsentation.",
       hu: "A(z) Dresdner Zwinger egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dresdner Zwinger ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Meisterwerk des Architekten Pöppelmann, erbaut von 1710 bis 1728.", "Beherbergt die Gemäldegalerie Alte Meister und die Porzellansammlung.", "Das Nymphenbad gilt als eine der schönsten barocken Brunnenanlagen.", "Das Kronentor mit der polnischen Königskrone ist ein Wahrzeichen der Stadt.", "Ursprünglich als Garten für Orangenbäume und Turniere konzipiert.", "Heimat des 'Mathematisch-Physikalischen Salons' mit historischen Instrumenten."],
       hu: [
         "A(z) Dresdner Zwinger területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5067,13 +5067,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Deutsches Eck is the symbol of the city.", "Ehrenbreitstein Fortress rises opposite the city.", "Gateway to the UNESCO-protected Upper Middle Rhine Valley cultural landscape."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Koblenz ist eine der ältesten Städte Deutschlands und liegt malerisch am 'Deutschen Eck', dem Zusammenfluss von Rhein und Mosel. Die Stadt blickt auf eine über 2.000-jährige Geschichte zurück, die bis in die Römerzeit reicht. Ein Wahrzeichen ist das monumentale Reiterstandbild Kaiser Wilhelms I. am Zusammenfluss. Hoch über der Stadt thront die Festung Ehrenbreitstein, eine der größten erhaltenen Festungsanlagen Europas, die über eine Seilbahn mit der Altstadt verbunden ist. Als Tor zum UNESCO-Welterbe Oberes Mittelrheintal ist Koblenz ein Zentrum des Tourismus und der Weinkultur. Die Stadt verbindet preußische Militärgeschichte mit rheinischer Lebensfreude und ist ein bedeutender Verwaltungsstandort in Rheinland-Pfalz. Geschichte K7 – Deutsche Einigung und historische Grenzfestungen.",
       hu: "A(z) Koblenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Koblenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet von den Römern im Jahr 9 v. Chr. als 'Confluentes'.", "Am 'Deutschen Eck' treffen der Rhein und die Mosel aufeinander.", "Die Festung Ehrenbreitstein ist die zweitgrößte erhaltene Festung Europas.", "Die Seilbahn über den Rhein wurde zur Bundesgartenschau 2011 errichtet.", "Einstige Residenzstadt der Kurfürsten von Trier im 18. Jahrhundert.", "Beherbergt das Schloss Stolzenfels, ein Hauptwerk der Rheinromantik."],
       hu: [
         "A(z) Koblenz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5179,13 +5179,13 @@ export const poiExtraDe2: POI[] = [
       en: ["One of Germany's most famous wine rivers with steep slate slopes.", "The Moselle bend near Bremm is one of Europe's tightest river bends.", "Connects France (Lorraine) with Germany."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Mosel ist der größte deutsche Nebenfluss des Rheins und prägt eine der ältesten und schönsten Kulturlandschaften Europas. Auf ihrem Weg durch Rheinland-Pfalz schlängelt sie sich in engen Schleifen durch das rheinische Schiefergebirge. Weltberühmt ist die Region für ihren Weinbau auf extremen Steillagen wie dem Bremmer Calmont, dem steilsten Weinberg der Welt. Die Flusslandschaft ist gesäumt von mittelalterlichen Burgen wie der Burg Eltz und historischen Winzerdörfern wie Cochem und Bernkastel-Kues. Die Mosel ist nicht nur ein bedeutender Lieferant für erstklassigen Riesling, sondern auch eine wichtige Wasserstraße, die Deutschland mit Frankreich und Luxemburg verbindet. Geographie K7 – Weinbauökologie und Flussmorphologie.",
       hu: "A(z) Mosel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mosel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Beherbergt mit dem Bremmer Calmont (65 Grad) den steilsten Weinberg Europas.", "Gesamtlänge der Mosel beträgt 544 km, davon 232 km in Deutschland.", "Wichtigstes Anbaugebiet für deutschen Riesling auf Schieferböden.", "Wurde in den 1950er Jahren durch 28 Staustufen schiffbar gemacht.", "Die Moseltalbrücke bei Winningen ist mit 136 m eine der höchsten Europas.", "Traditionsreiche Handelsroute seit der Antike für Wein und Erze."],
       hu: [
         "A(z) Mosel területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5291,13 +5291,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Home to BASF SE, one of the world's largest chemical companies.", "The BASF plant is the world's largest contiguous chemical plant.", "Birthplace of Federal Chancellor Helmut Kohl."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Ludwigshafen am Rhein ist die jüngste Großstadt in Rheinland-Pfalz und ein industrielles Kraftzentrum von Weltrang. Die Stadt entstand Mitte des 19. Jahrhunderts aus einer Rheinschanze und ist untrennbar mit dem Aufstieg der chemischen Industrie verbunden. Heute beherbergt sie mit der BASF das größte zusammenhängende Chemieareal der Welt, das das wirtschaftliche Leben und das Stadtbild maßgeblich prägt. Ludwigshafen ist zudem ein bedeutender Logistikknotenpunkt mit einem leistungsfähigen Rheinhafen. Trotz ihres industriellen Charakters bietet die Stadt mit dem Ebertpark und der Rheinpromenade grüne Oasen. Sie gilt als multikulturelle Stadt und ist bekannt für das Festival des deutschen Films auf der Parkinsel. Geographie K7 – Die Industriestadt als modernes Wirtschaftszentrum.",
       hu: "A(z) Ludwigshafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ludwigshafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größte Stadt in der Pfalz und Sitz des Chemiekonzerns BASF.", "Erst im Jahr 1853 offiziell zur Stadt erhoben (nach Ludwig I. benannt).", "Beherbergt das weltweit größte integrierte Chemie-Verbundareal.", "Besitzt einen der leistungsfähigsten Binnenhäfen am Oberrhein.", "Bedeutender ICE-Knotenpunkt in der Metropolregion Rhein-Neckar.", "Standort der Deutschen Staatsphilharmonie Rheinland-Pfalz."],
       hu: [
         "A(z) Ludwigshafen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5403,13 +5403,13 @@ export const poiExtraDe2: POI[] = [
       en: ["UNESCO World Heritage as part of the 'Roman Monuments in Trier'.", "Built in the 2nd century AD.", "Used as a church in the Middle Ages."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Porta Nigra in Trier ist das am besten erhaltene römische Stadttor nördlich der Alpen und das unbestrittene Wahrzeichen der ältesten Stadt Deutschlands. Erbaut um 170 n. Chr. aus riesigen Sandsteinblöcken ohne Mörtel, zeugt sie von der Bedeutung Triers (Augusta Treverorum) als 'zweites Rom' und kaiserliche Residenz der Spätantike. Ihren Namen 'Schwarzes Tor' erhielt sie im Mittelalter aufgrund der dunklen Verfärbung des Steins. Dass das Tor erhalten blieb, verdankt es dem heiligen Simeon, der darin als Eremit lebte, woraufhin das Bauwerk in eine Doppelkirche umgewandelt wurde. Heute ist die Porta Nigra Teil des UNESCO-Weltkulturerbes und ein imposantes Tor in die Geschichte des Römischen Reiches. Geschichte K6 – Das Römische Reich und seine Provinzhauptstädte.",
       hu: "A(z) Trier – Porta Nigra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Trier – Porta Nigra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bestes erhaltenes antikes Stadttor der römischen Welt außerhalb Italiens.", "Erbaut im späten 2. Jahrhundert n. Chr. aus bis zu 6 Tonnen schweren Blöcken.", "UNESCO-Weltkulturerbe seit 1986 als Teil der römischen Baudenkmäler Triers.", "Die Steine sind durch Eisenklammern, nicht durch Mörtel verbunden.", "Überlebte das Mittelalter durch die Umwandlung in eine Kirche.", "Trier war unter Konstantin dem Großen zeitweise Hauptstadt des Römischen Reiches."],
       hu: [
         "A(z) Trier – Porta Nigra területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5515,13 +5515,13 @@ export const poiExtraDe2: POI[] = [
       en: ["UNESCO Biosphere Reserve since 1992.", "Known for castle ruins, red sandstone rocks, and hiking trails.", "Directly adjoins the Northern Vosges Biosphere Reserve in France."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Pfälzerwald im Südwesten Deutschlands ist das größte zusammenhängende Waldgebiet der Bundesrepublik und eine faszinierende Buntsandsteinlandschaft. Zusammen mit den angrenzenden Nordvogesen bildet er ein grenzüberschreitendes UNESCO-Biosphärenreservat. Die Region ist geprägt durch weite Kiefern- und Buchenwälder, markante Felsformationen wie den Teufelstisch und eine außergewöhnliche Dichte an mittelalterlichen Burgen, darunter die Reichsfestung Trifels. Ein dichtes Netz an Wanderwegen und die traditionellen Pfälzerwald-Hütten machen die Region zu einem Paradies für Naturfreunde. Die klimatisch begünstigte 'Weinstraße' an seinem Ostrand ist zudem berühmt für ihren Weinbau und das milde Klima. Geographie K6 – Biosphärenreservate und nachhaltiger Tourismus.",
       hu: "A(z) Pfälzerwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Pfälzerwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes zusammenhängendes Waldgebiet in ganz Deutschland (ca. 177.000 ha).", "UNESCO-Biosphärenreservat Pfälzerwald-Nordvogesen seit 1992.", "Besteht geologisch überwiegend aus Schichten des Buntsandsteins.", "Beherbergt über 500 mittelalterliche Burgen und Burgruinen.", "Höchster Gipfel ist die Kalmit mit 673 Metern Höhe.", "Die Pfälzerwald-Hütten-Kultur gehört zum immateriellen Kulturerbe der UNESCO."],
       hu: [
         "A(z) Pfälzerwald területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
