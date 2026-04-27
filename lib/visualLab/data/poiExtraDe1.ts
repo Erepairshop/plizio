@@ -46,13 +46,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Ingolstadt an der Donau ist eine Stadt mit einer faszinierenden Mischung aus herzoglicher Geschichte und hochmoderner Industrie. Erstmals 806 n. Chr. erwähnt, wurde sie später zur ersten bayerischen Landesuniversität (1472) und zur bedeutenden bayerischen Landesfestung. Heute ist Ingolstadt untrennbar mit der Automobilindustrie verbunden, da hier der Hauptsitz und das Stammwerk von Audi beheimatet sind. Die historische Altstadt mit dem prächtigen Liebfrauenmünster und dem Neuen Schloss zeugt von der Bedeutung als Residenzstadt der bayerischen Herzöge. Auch literarisch erlangte die Stadt Weltruhm als Schauplatz von Mary Shelleys Roman 'Frankenstein'. Geographie K7 – Industrie- und Technologiestandorte in Deutschland.",
       hu: "A(z) Ingolstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ingolstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erste bayerische Landesuniversität wurde hier im Jahr 1472 gegründet.", "Hauptsitz der Audi AG mit über 31.000 Mitarbeitern am Standort.", "Das Liebfrauenmünster besitzt einen der größten Dachstühle Süddeutschlands.", "Bekannt als Schauplatz von Mary Shelleys berühmtem Roman 'Frankenstein'.", "Historische bayerische Landesfestung mit gut erhaltenen Verteidigungsanlagen.", "Verkündungsort des bayerischen Reinheitsgebots für Bier im Jahr 1516."],
       hu: [
         "A(z) Ingolstadt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -183,13 +183,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Passau, die 'Dreiflüssestadt', liegt am einzigartigen Zusammenfluss von Donau, Inn und Ilz. Diese geographische Besonderheit prägt das Stadtbild und macht Passau zu einem der schönsten Orte Bayerns. Die Altstadt, die nach einem Stadtbrand im 17. Jahrhundert von italienischen Meistern im Barockstil wiederaufgebaut wurde, verströmt ein fast mediterranes Flair. Überragt wird die Szenerie vom Stephansdom, der die größte Domorgel der Welt beherbergt. Historisch war Passau ein mächtiges Fürstbistum und ein zentraler Knotenpunkt für den Handel auf der Donau. Heute ist die Stadt zudem ein beliebter Ausgangspunkt für Flusskreuzfahrten und Radreisen. Geographie K7 – Stadtentwicklung an großen Flüssen.",
       hu: "A(z) Passau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Passau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zusammenfluss von Donau, Inn und Ilz am sogenannten 'Dreiflüsseeck'.", "Der Stephansdom beherbergt mit 17.774 Pfeifen die größte Domorgel weltweit.", "Die Veste Oberhaus ist eine der größten erhaltenen Burganlagen Europas.", "Wurde im 17. Jahrhundert im Stil des italienischen Barocks neu gestaltet.", "Gisela von Bayern, erste Königin von Ungarn, liegt hier begraben.", "Wichtiger Knotenpunkt für Donau-Kreuzfahrten mit über 50.000 Passagieren jährlich."],
       hu: [
         "A(z) Passau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -305,13 +305,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der 1.838 Meter hohe Wendelstein ist einer der markantesten Aussichtsgipfel der Bayerischen Alpen. Er ist nicht nur für sein beeindruckendes Panorama bekannt, das vom Großglockner bis zum Wettersteingebirge reicht, sondern auch für seine Pionierrolle in der Erschließung der Berge. Die Wendelsteinbahn, die 1912 in Betrieb ging, ist die älteste elektrische Zahnradbahn Deutschlands und ein technisches Denkmal. Auf dem Gipfel befinden sich eine Sternwarte der Universität München, eine Wetterstation und das höchstgelegene Kirchlein Deutschlands. Eine geologische Besonderheit ist die Wendelsteinhöhle, die höchste Schauhöhle des Landes. Geographie K6 – Erschließung und Nutzung der Hochgebirge.",
       hu: "A(z) Wendelstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wendelstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gipfelhöhe von 1.838 Metern über dem Meeresspiegel in den Voralpen.", "Die Wendelstein-Zahnradbahn wurde bereits im Jahr 1912 eröffnet.", "Auf dem Gipfel steht das Wendelsteinkircherl, Deutschlands höchste Kirche.", "Die Wendelsteinhöhle ist die höchstgelegene Schauhöhle in ganz Deutschland.", "Beherbergt ein Observatorium für astronomische und solare Forschung.", "Bietet einen Rundweg mit 360-Grad-Panorama auf über 200 Alpengipfel."],
       hu: [
         "A(z) Wendelstein területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -443,13 +443,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Salzach ist der bedeutendste Fluss im Land Salzburg und ein mächtiger rechter Nebenfluss des Inns. Auf ihrem 225 Kilometer langen Weg von den Kitzbüheler Alpen bis zur Mündung bei Haiming prägt sie die Landschaft und Geschichte der Region. Historisch war die Salzach die Lebensader für den Transport des 'Weißen Goldes' – des Salzes aus den Minen von Hallein. Heute bildet sie über lange Strecken die natürliche Grenze zwischen Bayern und Österreich. In Städten wie Burghausen bietet sie eine spektakuläre Kulisse für die weltlängste Burg. Der Fluss ist zudem ein wichtiger Energielieferant durch zahlreiche Wasserkraftwerke. Geographie K7 – Flusssysteme und historische Handelswege.",
       hu: "A(z) Salzach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Salzach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von ca. 225 km und wichtigster Zufluss des Inns.", "Namensgeber für das Land Salzburg durch den historischen Salzhandel.", "Bildet eine 59 Kilometer lange natürliche Grenze zwischen Deutschland und Österreich.", "Passiert die Burg zu Burghausen, die mit 1.051 m längste Burg der Welt.", "Entspringt in den Kitzbüheler Alpen auf etwa 2.300 Metern Höhe.", "Wichtige Rolle bei der Holztrift und dem Transport von Gütern im Mittelalter."],
       hu: [
         "A(z) Salzach területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -582,13 +582,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Walchensee ist einer der tiefsten und größten Alpenseen Deutschlands und besticht durch sein türkisfarbenes, klares Wasser. Inmitten der Bayerischen Voralpen auf 800 Metern Höhe gelegen, ist er ein Paradies für Taucher, Windsurfer und Wanderer. Eine technische Meisterleistung ist das Walchenseekraftwerk, das den Höhenunterschied von 200 Metern zum Kochelsee zur Stromerzeugung nutzt. Der See entstand vor etwa 18.000 Jahren durch Gletschereinwirkung und ist heute ein Landschaftsschutzgebiet. Durch seine windgeschützte Lage zwischen den Bergen Jochberg und Herzogstand herrscht hier ein besonderes Kleinklima, das ihn zu einem beliebten Drehort für internationale Filmproduktionen macht. Geographie K6 – Glaziale Seenlandschaften und erneuerbare Energien.",
       hu: "A(z) Walchensee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Walchensee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Mit bis zu 190 Metern Tiefe einer der tiefsten Alpenseen Deutschlands.", "Die Wasserfläche des Sees beträgt rund 16,4 Quadratkilometer.", "Das Walchenseekraftwerk wurde 1924 als größtes Speicherkraftwerk eröffnet.", "Der See liegt auf einer Höhe von 800 Metern über dem Meeresspiegel.", "Bekannt als Drehort für Filme wie 'Wickie und die starken Männer'.", "Bietet Sichtweiten von bis zu 40 Metern, ideal für Sporttaucher."],
       hu: [
         "A(z) Walchensee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -720,13 +720,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Würzburger Residenz gilt als eines der bedeutendsten Barockschlösser Europas und wurde 1981 als eines der ersten deutschen Denkmäler in die UNESCO-Welterbeliste aufgenommen. Erbaut zwischen 1720 und 1744 unter der Leitung von Balthasar Neumann, vereint sie französische Schlossarchitektur, Wiener Barock und oberitalienischen Palaststil. Das architektonische Juwel ist das Treppenhaus mit seinem freitragenden Muldengewölbe, das mit dem weltgrößten zusammenhängenden Deckenfresko von Giovanni Battista Tiepolo geschmückt ist. Die über 300 Prunkräume und der prächtige Hofgarten spiegeln die Macht und den Glanz der Würzburger Fürstbischöfe wider. Kunstgeschichte K8 – Höfische Architektur und Malerei des Barock.",
       hu: "A(z) Würzburger Residenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Würzburger Residenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut von 1720 bis 1744 unter dem Architekten Balthasar Neumann.", "Beherbergt das größte zusammenhängende Deckenfresko der Welt (600 m²).", "Das Deckengemälde von Tiepolo stellt die damals bekannten vier Kontinente dar.", "Das Muldengewölbe über der Treppe ist eine bautechnische Meisterleistung.", "UNESCO-Welterbe seit 1981 aufgrund seiner künstlerischen Geschlossenheit.", "Überstand die Zerstörung Würzburgs 1945 durch seine massiven Gewölbe."],
       hu: [
         "A(z) Würzburger Residenz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -859,13 +859,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Regensburger Dom St. Peter ist die bedeutendste Kathedrale Bayerns und ein Meisterwerk der französischen Gotik auf deutschem Boden. Der Bau begann um 1273 und wurde erst nach über 600 Jahren mit der Vollendung der 105 Meter hohen Türme im 19. Jahrhundert abgeschlossen. Besonders kostbar sind die mittelalterlichen Glasmalereien aus dem 13. und 14. Jahrhundert, die das Innere in ein mystisches Licht tauchen. Der Dom ist zudem die Heimat der Regensburger Domspatzen, eines der ältesten und berühmtesten Knabenchöre der Welt. Als Teil der Regensburger Altstadt gehört er zum UNESCO-Welterbe und ist ein spirituelles Zentrum von europäischem Rang. Geschichte K6 – Religiöses Leben und Kathedralbau im Mittelalter.",
       hu: "A(z) Regensburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Regensburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptwerk der Gotik in Bayern, begonnen um das Jahr 1273.", "Die markanten Domtürme erreichen eine Höhe von jeweils 105 Metern.", "Besitzt einen der umfangreichsten Bestände an originalen Glasmalereien.", "Sitz der Regensburger Domspatzen, die bereits im Jahr 975 erwähnt wurden.", "Berühmte Skulptur des 'Lachenden Engels' im Inneren des Doms.", "Der Dom wurde fast vollständig aus lokalem Kalkstein errichtet."],
       hu: [
         "A(z) Regensburger Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -996,13 +996,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Frankenwald, oft als die 'Grüne Krone Bayerns' bezeichnet, ist ein waldreiches Mittelgebirge im Norden Bayerns. Auf rund 1.000 Quadratkilometern erstreckt sich eine Landschaft aus tief eingeschnittenen Tälern und weiten Hochflächen aus Schiefergestein. Historisch war die Region durch die Flößerei geprägt, die das Holz des Waldes bis nach Holland brachte, sowie durch die Glasherstellung. Heute ist der Frankenwald als Qualitäts-Wanderregion bekannt und beherbergt den berühmten Rennsteig an seiner Nordgrenze. Der Naturpark schützt seltene Lebensräume wie Bergwiesen und lichte Nadelwälder und ist ein Geheimtipp für Ruhesuchende abseits der großen Touristenströme. Geographie K6 – Wirtschaftsweisen im Mittelgebirge.",
       hu: "A(z) Frankenwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankenwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umfasst eine Gesamtfläche von ca. 1.000 Quadratkilometern in Oberfranken.", "Bekannt für den historischen Berufsstand der Flößer auf der Rodach.", "Die höchste Erhebung ist der Döbraberg mit 794 Metern Höhe.", "Besteht geologisch größtenteils aus paläozoischem Schiefergestein.", "Trägt aufgrund seines dichten Baumbestandes den Namen 'Grüne Krone'.", "Lucas Cranach der Ältere wurde 1472 in der Frankenwaldstadt Kronach geboren."],
       hu: [
         "A(z) Frankenwald területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1134,13 +1134,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Nymphenburg in München war über Jahrhunderte die Sommerresidenz der bayerischen Herrscher aus dem Hause Wittelsbach. Das prunkvolle Ensemble zählt mit einer Spannweite von 632 Metern zu den größten Königsschlössern Europas. Besonders sehenswert ist der prächtige 'Steinerne Saal', die berühmte Schönheitengalerie König Ludwigs I. und die weltweit renommierte Nymphenburger Porzellanmanufaktur, die noch heute im Schlossgelände produziert. Der weitläufige Schlosspark im Stil eines englischen Landschaftsgartens beherbergt zudem kostbare Parkburgen wie die Amalienburg. Nymphenburg ist ein Paradebeispiel barocker Architektur und bayerischer Repräsentationskultur. Geschichte K7 – Absolutismus und höfische Kultur in Bayern.",
       hu: "A(z) Schloss Nymphenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Nymphenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut ab 1664 als Geschenk für die Kurfürstin Henriette Adelheid.", "Die Hauptfassade hat eine Gesamtlänge von beeindruckenden 632 Metern.", "Beherbergt die 'Schönheitengalerie' mit 36 Porträts von Joseph Stieler.", "Geburtsort von König Ludwig II., dem späteren 'Märchenkönig'.", "Sitz der Porzellanmanufaktur Nymphenburg (gegründet 1747).", "Der Schlosspark umfasst eine Fläche von etwa 180 Hektar."],
       hu: [
         "A(z) Schloss Nymphenburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1271,13 +1271,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Hallertau in Bayern ist das größte zusammenhängende Hopfenanbaugebiet der Welt und liefert rund ein Drittel des weltweiten Hopfenbedarfs. Auf einer Fläche von rund 2.400 Quadratkilometern prägen die bis zu sieben Meter hohen Hopfengärten das Landschaftsbild. Das 'Grüne Gold' wird hier bereits seit dem 8. Jahrhundert kultiviert und ist der wichtigste Rohstoff für die Bitterkeit und das Aroma des Bieres. Mit dem Forschungszentrum Hüll ist die Region zudem weltweit führend in der Züchtung neuer, klimaresistenter Hopfensorten. Die Ernte im September ist ein kulturelles Highlight der Region und lockt zahlreiche Besucher zu Volksfesten und Führungen an. Geographie K8 – Spezialisierte Landwirtschaft und Weltmarktbeziehungen.",
       hu: "A(z) Hallertau Hopfenanbaugebiet egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hallertau Hopfenanbaugebiet ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes zusammenhängendes Hopfenanbaugebiet der Welt (ca. 17.000 ha).", "Rund 34 % der weltweiten Hopfenernte stammt aus dieser Region.", "Die Hopfenpflanzen wachsen an 7 Meter hohen Drahtgerüsten empor.", "Erste urkundliche Erwähnung des Hopfenanbaus im Jahr 736 n. Chr.", "Wachstumsrekorde von bis zu 30 cm an einem einzigen Tag möglich.", "Sitz des weltweit bedeutendsten Hopfenforschungszentrums in Hüll."],
       hu: [
         "A(z) Hallertau Hopfenanbaugebiet területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1410,13 +1410,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Münster ist eine der bedeutendsten Universitätsstädte Deutschlands und weltweit als 'Fahrradhauptstadt' bekannt. Über 500.000 Fahrräder bei rund 310.000 Einwohnern prägen den Alltag und das Stadtbild, besonders auf der Promenade, einem grünen Gürtel um die Altstadt. Historisch erlangte Münster Weltruhm als Ort des Westfälischen Friedens von 1648, der den Dreißigjährigen Krieg beendete. Das historische Rathaus am Prinzipalmarkt mit seinen charakteristischen Giebelhäusern zeugt von der Macht der hansischen Kaufleute. Münster verbindet eine traditionsreiche Geschichte mit einer jungen, lebendigen Atmosphäre und ist regelmäßig unter den Städten mit der höchsten Lebensqualität weltweit. Geschichte K7 – Der Westfälische Friede und die europäische Ordnung.",
       hu: "A(z) Münster egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Münster ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ort des Westfälischen Friedensschlusses 1648 im Historischen Rathaus.", "Gilt mit über 500.000 Leezen (Fahrrädern) als Fahrradhauptstadt.", "Die Universität Münster gehört mit 45.000 Studenten zu den größten Deutschlands.", "Der Prinzipalmarkt ist eine der schönsten Kaufmannsstraßen Europas.", "St. Paulus-Dom besitzt eine astronomische Uhr aus dem 16. Jahrhundert.", "Die Promenade ist ein 4,5 km langer, autofreier Grünring um die City."],
       hu: [
         "A(z) Münster területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1547,13 +1547,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Wuppertal ist das Industrie- und Kulturzentrum des Bergischen Landes und weltweit berühmt für sein technisches Wahrzeichen: die Schwebebahn. Seit 1901 gleiten die Wagen dieser weltweit ältesten elektrischen Hochbahn sicher über die Wupper und die Straßen der Stadt. Wuppertal war eine Wiege der Industrialisierung in Deutschland, was sich noch heute in den prächtigen Villenvierteln der Textilbarone widerspiegelt. Die Stadt liegt in einem schmalen Tal und ist von bewaldeten Hängen umgeben, was ihr den Ruf als eine der grünsten Großstädte Deutschlands einbrachte. Auch kulturell setzt Wuppertal mit dem renommierten Von der Heydt-Museum und dem Pina Bausch Tanztheater internationale Akzente. Geographie K7 – Stadtentwicklung in Tallagen und Industriegeschichte.",
       hu: "A(z) Wuppertal egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wuppertal ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Heimat der Wuppertaler Schwebebahn, eröffnet im Jahr 1901.", "Früher bedeutendes Zentrum der Textilindustrie in Preußen.", "Die Stadt entstand 1929 durch den Zusammenschluss von Elberfeld und Barmen.", "Besitzt eines der bedeutendsten Kunstmuseen Deutschlands (Von der Heydt).", "Wuppertal gilt mit über 400 km Wanderwegen als sehr grüne Stadt.", "Die Gesamtlänge der Schwebebahnstrecke beträgt 13,3 Kilometer."],
       hu: [
         "A(z) Wuppertal területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1685,13 +1685,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Lippe ist mit 220 Kilometern der längste Fluss Westfalens und ein wichtiger rechter Nebenfluss des Rheins. Historisch war die Lippe von enormer strategischer Bedeutung: Schon die Römer nutzten sie als Transportweg für ihre Feldzüge und errichteten entlang des Flusses bedeutende Lager wie in Haltern. Im Mittelalter diente sie als wichtige Grenze und Handelsweg. Heute ist die Lippe-Region durch den Kontrast zwischen industrieller Nutzung im Ruhrgebiet und idyllischen Auenlandschaften geprägt. Umfangreiche Renaturierungsprojekte haben den Fluss in weiten Teilen wieder in einen naturnahen Zustand versetzt, was ihn zu einem wichtigen Lebensraum für seltene Vogelarten und Fische macht. Geographie K7 – Flüsse als historische Grenzen und moderne Lebensadern.",
       hu: "A(z) Lippe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lippe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Längster Fluss Westfalens mit einer Gesamtlänge von ca. 220 km.", "Diente den Römern als wichtige Aufmarschroute nach Germanien.", "Entspringt aus einer Karstquelle in Bad Lippspringe.", "Verbindet das Paderborner Land mit dem Niederrhein bei Wesel.", "Wichtiger Schifffahrtsweg durch den parallel verlaufenden Lippe-Seitenkanal.", "Renaturierte Lippe-Auen sind heute bedeutende Naturschutzgebiete."],
       hu: [
         "A(z) Lippe területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1824,13 +1824,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kölner Dom ist das unangefochtene Wahrzeichen der Stadt und ein Meisterwerk der hochgotischen Architektur. Als drittgrößte gotische Kathedrale der Welt beeindruckt er durch seine riesigen Ausmaße und die beiden 157 Meter hohen Türme. Der Bau begann 1248, um die Gebeine der Heiligen Drei Könige würdig aufzubewahren, blieb aber über Jahrhunderte unvollendet und wurde erst 1880 fertiggestellt. Der Dom beherbergt unschätzbare Kunstschätze wie den Dreikönigenschrein und die Mailänder Madonna. Seit 1996 gehört er zum UNESCO-Weltkulturerbe und ist mit über sechs Millionen Besuchern jährlich die meistbesuchte Sehenswürdigkeit Deutschlands. Geschichte K6 – Architektur und Symbolik gotischer Kathedralen.",
       hu: "A(z) Externsteine egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Externsteine ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bauzeit erstreckte sich mit Unterbrechungen von 1248 bis 1880.", "Die beiden Haupttürme sind exakt 157 Meter hoch.", "UNESCO-Weltkulturerbe seit 1996 als Meisterwerk der Gotik.", "Beherbergt den Schrein der Heiligen Drei Könige aus dem 12. Jahrhundert.", "Die Domfassade ist die größte Kirchenfassade der Welt.", "Die Petersglocke (D'r Decke Pitter) ist die größte schwingende Glocke."],
       hu: [
         "A(z) Externsteine területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1962,13 +1962,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Baldeneysee im Süden von Essen ist der größte der sechs Ruhrstauseen und ein zentrales Naherholungsgebiet für die Metropole Ruhr. Er wurde zwischen 1931 und 1933 angelegt, ursprünglich um die Ruhr biologisch zu reinigen, indem sich Schwebstoffe absetzen konnten. Heute ist der See ein Hotspot für Wassersportler mit zahlreichen Segel- und Rudervereinen. Ein 14 Kilometer langer Wander- und Radweg führt um das Gewässer, vorbei an Sehenswürdigkeiten wie der herrschaftlichen Villa Hügel. Die 'Weiße Flotte' bietet Ausflugsfahrten an, während der Seaside Beach mit seinem Sandstrand für Urlaubsstimmung sorgt. Geographie K7 – Strukturwandel und Freizeitnutzung im Ruhrgebiet.",
       hu: "A(z) Baldeneysee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Baldeneysee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter der sechs Stauseen im Verlauf der Ruhr (ca. 2,6 km²).", "Erbaut in den Jahren 1931 bis 1933 als Arbeitsbeschaffungsmaßnahme.", "Wichtiges Zentrum für den Regattasport mit über 20 Segelvereinen.", "Die Villa Hügel der Industriellenfamilie Krupp überragt den See.", "Besitzt ein eigenes Wasserkraftwerk zur regenerativen Stromerzeugung.", "Ein Rundweg von ca. 14 km ist ideal für Radfahrer und Skater."],
       hu: [
         "A(z) Baldeneysee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2101,13 +2101,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Aachener Dom ist eines der historisch bedeutendsten Bauwerke Europas und war 1978 das erste deutsche Denkmal auf der UNESCO-Welterbeliste. Den Kern bildet die karolingische Pfalzkapelle, die um 800 n. Chr. von Karl dem Großen als Zentrum seines Reiches errichtet wurde. Hier befand sich über 600 Jahre lang die Krönungsstätte der deutschen Könige. Der Dom beherbergt das Grab Karls des Großen und kostbare Reliquien, die Ziel der Aachener Heiligtumsfahrt sind. Architektonisch ist das Oktogon mit seinen antiken Säulen ein einzigartiges Zeugnis der Karolingischen Renaissance und verbindet byzantinische Einflüsse mit germanischer Baukunst. Geschichte K6 – Das Frankenreich unter Karl dem Großen.",
       hu: "A(z) Aachener Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Aachener Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erstes UNESCO-Weltkulturerbe in Deutschland (aufgenommen 1978).", "Krönungsort von 30 deutschen Königen zwischen 936 und 1531.", "Karl der Große wurde hier im Jahr 814 begraben.", "Das Oktogon war über 200 Jahre das höchste Bauwerk nördlich der Alpen.", "Beherbergt den Karlsthron und den Barbarossaleuchter.", "Ziel der Aachener Heiligtumsfahrt, die alle sieben Jahre stattfindet."],
       hu: [
         "A(z) Aachener Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2238,13 +2238,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Teutoburger Wald ist ein langgestreckter Gebirgszug in Nordrhein-Westfalen und Niedersachsen, der vor allem durch die legendäre 'Varusschlacht' im Jahr 9 n. Chr. weltbekannt wurde. Hier besiegten germanische Stämme unter Führung von Arminius drei römische Legionen. Das gewaltige Hermannsdenkmal bei Detmold erinnert an dieses Ereignis. Die Region bietet jedoch mehr als Geschichte: Die Externsteine, eine markante Sandstein-Felsformation, gelten als mystischer Ort und Naturdenkmal. Als Naturpark bietet der Wald vielfältige Wandermöglichkeiten auf dem Hermannsweg und schützt wertvolle Buchenmischwälder. Die Kurorte der Region wie Bad Meinberg nutzen zudem die natürlichen Heilmittel des Waldes. Geschichte K5 – Römer und Germanen im Teutoburger Wald.",
       hu: "A(z) Teutoburger Wald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Teutoburger Wald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Schauplatz der Varusschlacht (9 n. Chr.) zwischen Römern und Germanen.", "Das Hermannsdenkmal ist mit 53 Metern Höhe die höchste Statue Deutschlands.", "Die Externsteine sind eine markante Felsformation aus Sandstein.", "Der Kammweg 'Hermannsweg' gehört zu den Top-Wanderwegen Deutschlands.", "Die höchste Erhebung ist der Barnacken mit 446 Metern Höhe.", "Umfasst den Naturpark Teutoburger Wald / Eggegebirge."],
       hu: [
         "A(z) Teutoburger Wald területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2375,13 +2375,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Ruhrgebiet ist mit über fünf Millionen Einwohnern der größte Ballungsraum Deutschlands und ein Paradebeispiel für den industriellen Strukturwandel. Einst das pulsierende Herz der europäischen Kohle- und Stahlindustrie, hat sich die Region zu einer vielfältigen Wissenschafts- und Kulturlandschaft entwickelt. Die Zeche Zollverein in Essen, heute UNESCO-Welterbe, steht symbolisch für diesen Wandel und ist ein Zentrum für Design und Kultur. Wo früher Schlote rauchten, finden sich heute Technologieparks, moderne Universitäten und grüne Erholungsräume auf ehemaligen Industriebrachen. Die Industriekultur wird durch die 'Route der Industriekultur' lebendig gehalten, die ehemalige Fabriken als Museen und Eventorte verbindet. Geographie K7 – Strukturwandel von der Industrie zur Dienstleistung.",
       hu: "A(z) Ruhrgebiet – Industriekultur egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ruhrgebiet – Industriekultur ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter Ballungsraum Deutschlands mit über 5 Millionen Einwohnern.", "Die Zeche Zollverein in Essen ist seit 2001 UNESCO-Weltkulturerbe.", "Besitzt mit der 'Route der Industriekultur' ein weltweit einzigartiges Netz.", "Zentrum des Strukturwandels von Kohle und Stahl hin zur Technologie.", "Beherbergt die höchste Dichte an Universitäten in ganz Europa.", "Gasometer Oberhausen ist die höchste Ausstellungs- und Veranstaltungshalle."],
       hu: [
         "A(z) Ruhrgebiet – Industriekultur területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2513,13 +2513,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Augustusburg in Brühl zählt zu den frühesten und bedeutendsten Schöpfungen des Rokoko in Deutschland. Es wurde ab 1725 im Auftrag des Kölner Kurfürsten Clemens August errichtet. Besonders berühmt ist das prunkvolle Treppenhaus von Balthasar Neumann, das durch seine farbenprächtige Gestaltung und architektonische Leichtigkeit besticht. Zusammen mit dem Jagdschloss Falkenlust und den barocken Gartenanlagen bildet es ein Ensemble von internationalem Rang, das bereits 1984 in die UNESCO-Welterbeliste aufgenommen wurde. Die Schlösser dienten früher als repräsentativer Rahmen für höfische Feste und die Falkenjagd und sind heute ein wichtiges Zeugnis absolutistischer Lebensart. Kunstgeschichte K8 – Architektur und Gartenkunst des Rokoko.",
       hu: "A(z) Schloss Augustusburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Augustusburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1984 als Meisterwerk des Rokoko.", "Das Prunktreppenhaus wurde vom berühmten Balthasar Neumann entworfen.", "Erbaut im Auftrag des Kurfürsten und Erzbischofs Clemens August.", "Der Schlosspark ist einer der wenigen authentisch erhaltenen Barockgärten.", "Diente lange Zeit als Repräsentationsschloss für Staatsgäste der BRD.", "Angeschlossen ist das Jagdschloss Falkenlust in Sichtweite."],
       hu: [
         "A(z) Schloss Augustusburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2651,13 +2651,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Wupper ist die Lebensader des Bergischen Landes und ein Fluss mit einer bewegten Industriegeschichte. Auf ihrem 116 Kilometer langen Weg durch enge Täler bot sie schon früh die Wasserkraft für Schleifkotten und Webereien, was die Region zu einem Zentrum der frühen Industrialisierung machte. In Wuppertal wird sie auf einer Länge von über 10 Kilometern von der berühmten Schwebebahn überspannt. Einst als 'dreckigster Fluss Deutschlands' verschrien, hat sich die Wupper durch intensive Klär- und Renaturierungsmaßnahmen in den letzten Jahrzehnten wieder in ein sauberes Gewässer verwandelt. Heute ist sie ein beliebtes Revier für Kanufahrer und ein wertvoller Lebensraum für Lachse und Eisvögel. Geographie K7 – Flussnutzung und ökologische Erneuerung.",
       hu: "A(z) Wupper egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wupper ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 116 km mit Einmündung in den Rhein bei Leverkusen.", "Früher der am stärksten verschmutzte Industriefluss Deutschlands.", "Wird in Wuppertal auf ca. 10 km von der Schwebebahn überquert.", "Trieb früher hunderte von Schleifkotten und Hammerwerke an.", "Beherbergt heute wieder Lachse durch aufwendige Fischtreppen.", "Die Müngstener Brücke überquert das Wuppertal in 107 Metern Höhe."],
       hu: [
         "A(z) Wupper területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2790,13 +2790,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Ulm ist eine traditionsreiche Reichsstadt am Ufer der Donau und weltweit bekannt für ihr gewaltiges Münster. Der Turm des Ulmer Münsters ist mit 161,5 Metern der höchste Kirchturm der Welt und ein Meisterwerk der Gotik. Die Stadt verbindet historische Schätze wie das malerische Fischerviertel mit moderner Architektur in der 'Neuen Mitte'. Berühmt ist Ulm auch als Geburtsort von Albert Einstein. Das Ulmer Rathaus besticht durch seine opulente Fassadenmalerei und die astronomische Uhr. Durch seine Lage an der Grenze zwischen Baden-Württemberg und Bayern sowie die renommierte Universität ist Ulm ein dynamisches Zentrum für Wissenschaft und Kultur in Süddeutschland. Geschichte K6 – Freie Reichsstädte und gotische Kathedralbaukunst.",
       hu: "A(z) Ulm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ulm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Das Ulmer Münster besitzt mit 161,5 m den höchsten Kirchturm der Welt.", "Geburtsstadt des Physikers und Nobelpreisträgers Albert Einstein (1879).", "Das historische Fischerviertel ist für seine Fachwerkhäuser direkt am Wasser bekannt.", "Das Ulmer Rathaus besitzt eine astronomische Uhr aus dem Jahr 1520.", "Die Stadtmauer bietet einen beliebten Spazierweg direkt an der Donau.", "Besitzt mit dem 'Löwenmenschen' eines der ältesten Kunstwerke der Menschheit."],
       hu: [
         "A(z) Ulm területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2928,13 +2928,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Feldberg ist mit 1.493 Metern der höchste Gipfel im Schwarzwald und die höchste Erhebung aller deutschen Mittelgebirge. Er ist das Herzstück des ältesten und größten Naturschutzgebietes in Baden-Württemberg. Im Winter verwandelt sich der Berg in ein erstklassiges Skigebiet, während er im Sommer Wanderer mit atemberaubenden Ausblicken bis zu den Alpen und den Vogesen anlockt. Die Hochlagen des Feldbergs beherbergen eine einzigartige subalpine Flora und Fauna, die sonst nur in den Alpen zu finden ist. Mit dem Feldbergturm und der Feldbergbahn ist der Gipfel touristisch bestens erschlossen und ein Symbol für die Naturschönheit des Hochschwarzwalds. Geographie K6 – Naturraum Schwarzwald und Tourismus.",
       hu: "A(z) Feldberg (Schwarzwald) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Feldberg (Schwarzwald) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchster Gipfel des Schwarzwalds mit 1.493 Metern Höhe.", "Höchster Berg in Deutschland außerhalb der Alpenregion.", "Das Naturschutzgebiet Feldberg umfasst eine Fläche von 42 km².", "Bietet bei Inversionswetterlagen Fernsicht bis zum Mont Blanc.", "Zentrum des ersten deutschen Skiverbands (gegründet 1891 am Feldberg).", "Auf dem Gipfel wachsen seltene Eiszeitrelikte wie die Alpen-Anemone."],
       hu: [
         "A(z) Feldberg (Schwarzwald) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3066,13 +3066,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Neckar ist der bedeutendste Fluss Baden-Württembergs und ein wichtiger Nebenfluss des Rheins. Auf seinem 367 Kilometer langen Weg verbindet er die raue Alb mit dem fruchtbaren Unterland und dem Pfälzer Raum. Der Neckar ist nicht nur eine lebenswichtige Wasserstraße, sondern auch ein Kulturstrom, der durch historische Städte wie Tübingen, Stuttgart und Heidelberg fließt. Die steilen Hänge des mittleren Neckartals sind berühmt für ihren Weinbau auf Terrassen, die oft schon seit dem Mittelalter bestehen. In den letzten Jahren wurden viele Abschnitte des Flusses renaturiert, um die Artenvielfalt zu fördern und den Freizeitwert für die Bevölkerung zu steigern. Geographie K7 – Der Neckar als Wirtschafts- und Kulturraum.",
       hu: "A(z) Neckar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neckar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 367 km und wichtigster Fluss Baden-Württembergs.", "Entspringt im Schwenninger Moos auf der Baar.", "Wichtige Bundeswasserstraße mit 27 Staustufen bis Plochingen.", "Berühmt für den Weinbau in Steillagen (Terrassenweinbau).", "Passiert das Heidelberger Schloss, eines der bekanntesten Ruinen der Welt.", "Mündet in Mannheim in den Rhein."],
       hu: [
         "A(z) Neckar területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3203,13 +3203,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Tübingen ist eine klassische deutsche Universitätsstadt mit einer der ältesten und renommiertesten Hochschulen Europas, der 1477 gegründeten Eberhard Karls Universität. Das Stadtbild wird geprägt durch die fast vollständig erhaltene mittelalterliche Altstadt und das Schloss Hohentübingen. Ein Markenzeichen der Stadt ist das Stocherkahnfahren auf dem Neckar, bei dem man die berühmte Neckarfront mit dem Hölderlinturm vom Wasser aus bewundern kann. Tübingen gilt als intellektuelles Zentrum und ist für seine alternative, ökologisch orientierte Stadtpolitik bekannt. Die engen Gassen, die vielen Cafés und die hohe Studentendichte verleihen der Stadt ein einzigartig lebendiges und junges Flair. Geschichte K7 – Universitätsstädte als Zentren der Aufklärung.",
       hu: "A(z) Tübingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Tübingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eberhard Karls Universität wurde bereits im Jahr 1477 gegründet.", "Die Altstadt blieb im Zweiten Weltkrieg fast vollständig unversehrt.", "Der Hölderlinturm war der Wohnort des Dichters Friedrich Hölderlin.", "Stocherkahnfahren auf dem Neckar ist eine einzigartige Tübinger Tradition.", "Rund jeder dritte Einwohner in Tübingen ist ein Student.", "Schloss Hohentübingen beherbergt bedeutende archäologische Sammlungen."],
       hu: [
         "A(z) Tübingen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3342,13 +3342,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Burg Hohenzollern ist der Stammsitz des gleichnamigen preußischen Königshauses und der Fürsten von Hohenzollern. Majestätisch thront sie auf dem 855 Meter hohen Zollerberg am Rande der Schwäbischen Alb. Die heutige Anlage wurde im 19. Jahrhundert im neugotischen Stil als preußisch-brandenburgisches Nationaldenkmal wiederaufgebaut. Mit ihren vielen Türmen und Zinnen gilt sie als Inbegriff einer deutschen Ritterburg und bietet einen Panoramablick über das Albvorland. Die Burg beherbergt wertvolle Kunstschätze, darunter die preußische Königskrone und persönliche Gegenstände Friedrichs des Großen. Sie ist noch heute in Privatbesitz und ein Magnet für Besucher aus aller Welt. Geschichte K7 – Das Haus Hohenzollern und die deutsche Geschichte.",
       hu: "A(z) Burg Hohenzollern egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Hohenzollern ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Stammsitz der preußischen Könige und deutschen Kaiser.", "Heutige Burg wurde zwischen 1850 und 1867 im neugotischen Stil erbaut.", "Liegt markant auf dem 855 m hohen Kegelberg namens Zoller.", "Beherbergt die preußische Königskrone in der Schatzkammer.", "Jährlich besuchen rund 350.000 Menschen die Burganlage.", "Besitzt eine eigene katholische und evangelische Kapelle im Hof."],
       hu: [
         "A(z) Burg Hohenzollern területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3481,13 +3481,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Titisee ist einer der bekanntesten und schönsten Naturseen im Hochschwarzwald und ein Symbol für die Region. Entstanden durch den Feldberg-Gletscher in der letzten Eiszeit, liegt er auf einer Höhe von 845 Metern. Der Ort Titisee-Neustadt an seinem Nordufer ist ein Zentrum des Schwarzwaldtourismus, berühmt für seine Kuckucksuhren und die traditionelle Gastronomie. Das kristallklare Wasser lädt im Sommer zum Baden und Bootsfahren ein, während die umliegenden Wälder ideale Wanderbedingungen bieten. Der Titisee ist zudem Teil eines Naturschutzgebietes und ein wichtiges Trinkwasserreservoir für die Region. Geographie K6 – Glaziale Seen und Tourismus im Schwarzwald.",
       hu: "A(z) Titisee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Titisee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Durch den Feldberg-Gletscher in der Würm-Eiszeit entstanden.", "Liegt auf einer Höhe von 845 Metern über dem Meeresspiegel.", "Maximaltiefe des Sees beträgt ca. 40 Meter.", "Uferpromenade gilt als eine der bekanntesten Flaniermeilen der Region.", "Beliebtes Zentrum für den Export von originalen Kuckucksuhren.", "Gilt aufgrund seiner Wasserqualität als eines der reinsten Gewässer."],
       hu: [
         "A(z) Titisee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3620,13 +3620,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kloster Maulbronn ist die am besten erhaltene mittelalterliche Zisterzienserabtei nördlich der Alpen und gehört seit 1993 zum UNESCO-Weltkulturerbe. Gegründet im Jahr 1147, vereint die Anlage Baustile von der Romanik bis zur Spätgotik. Besonders beeindruckend ist das 'Paradies', die Vorhalle der Klosterkirche, sowie der Kreuzgang mit dem Brunnenhaus. Nach der Reformation wurde das Kloster in eine evangelische Klosterschule umgewandelt, die berühmte Persönlichkeiten wie Johannes Kepler und Hermann Hesse besuchten. Die gesamte Anlage mit ihren Mauern, Wirtschaftshöfen und dem ausgeklügelten Bewässerungssystem ist fast vollständig erhalten und vermittelt ein lebendiges Bild des klösterlichen Lebens. Geschichte K6 – Das Klosterwesen im Mittelalter.",
       hu: "A(z) Kloster Maulbronn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Maulbronn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1993 aufgrund seines Erhaltungszustands.", "Gegründet im Jahr 1147 durch Zisterziensermönche.", "Heimat eines berühmten evangelischen Seminars (Klosterschule).", "Hermann Hesse verarbeitete seine Zeit hier im Roman 'Unterm Rad'.", "Berühmt für das 'Paradies', eine Vorhalle im Übergangsstil zur Gotik.", "Besitzt ein komplexes historisches Wasserwirtschaftssystem mit Seen."],
       hu: [
         "A(z) Kloster Maulbronn területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3757,13 +3757,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Konstanz ist die größte Stadt am Bodensee und ein bedeutendes kulturelles Zentrum im Dreiländereck Deutschland-Österreich-Schweiz. Die Stadt erlangte weltgeschichtliche Bedeutung durch das Konzil von Konstanz (1414-1418), bei dem die einzige Papstwahl auf deutschem Boden stattfand. Das Konzilgebäude am Hafen erinnert noch heute an dieses Ereignis. Die mittelalterliche Altstadt mit dem prächtigen Münster blieb im Zweiten Weltkrieg aufgrund ihrer Lage direkt an der Schweizer Grenze unversehrt. Heute ist Konstanz eine lebendige Universitätsstadt und ein Magnet für Touristen, die das milde Klima, die Seepromenaden und die Nähe zur Blumeninsel Mainau schätzen. Geographie K7 – Tourismus und Kooperation im Bodenseeraum.",
       hu: "A(z) Konstanz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Konstanz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größte Stadt am Bodensee und direkt an der Schweizer Grenze gelegen.", "Ort des Konzils von Konstanz (1414–1418), der größten Versammlung des Mittelalters.", "Besitzt ein fast vollständig erhaltenes mittelalterliches Stadtzentrum.", "Die Statue 'Imperia' im Hafen erinnert satirisch an das Konzil.", "Sitz einer Exzellenzuniversität mit internationalem Ruf.", "Das Konstanzer Münster besitzt eine Krypta aus dem 9. Jahrhundert."],
       hu: [
         "A(z) Konstanz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -3894,13 +3894,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Nordschwarzwald ist geprägt durch seine dichten, dunklen Tannenwälder und tief eingeschnittenen Täler wie das Murgtal. Hier befindet sich der Nationalpark Schwarzwald, in dem sich die Natur weitgehend ohne menschlichen Einfluss entwickeln darf. Die Region ist berühmt für ihre Grinden – baumfreie Heideflächen auf den Gipfelplateaus –, die einzigartige Ausblicke bis in die Rheinebene bieten. Historisch war der Nordschwarzwald ein Zentrum der Holzgewinnung und Flößerei. Heute lockt er Besucher mit der Schwarzwaldhochstraße, einer der ältesten und schönsten Panoramastraßen Deutschlands, sowie mit traditionsreichen Kurorten wie Baden-Baden. Biologie K6 – Ökosystem Nationalpark und Waldschutz.",
       hu: "A(z) Nordschwarzwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nordschwarzwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Beherbergt den Nationalpark Schwarzwald (gegründet 2014).", "Die Schwarzwaldhochstraße (B 500) ist eine berühmte Panoramastraße.", "Höchste Erhebung im Norden ist die Hornisgrinde mit 1.163 Metern.", "Bekannt für die 'Grinden', baumlose Hochmoore und Heiden.", "Historisches Zentrum der Glasherstellung und Flößerei.", "Heimat zahlreicher Talsperren wie der Schwarzenbachtalsperre."],
       hu: [
         "A(z) Nordschwarzwald területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4031,13 +4031,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Freiburg im Breisgau gilt als die 'Sonnenstadt' Deutschlands und ist bekannt für seine hohe Lebensqualität und sein ökologisches Bewusstsein. Das Freiburger Münster mit seinem 'schönsten Turm der Christenheit' überragt die historische Altstadt. Ein einzigartiges Merkmal sind die 'Freiburger Bächle', schmale Wasserläufe in den Straßen, die früher zur Wasserversorgung und Reinigung dienten. Freiburg ist ein bedeutendes Bildungszentrum mit einer der ältesten Universitäten Deutschlands (gegründet 1457). Die Stadt ist Vorreiter in Sachen Solarenergie und nachhaltiger Stadtplanung, was sich besonders im Stadtteil Vauban zeigt. Ihre Lage am Fuße des Schwarzwalds macht sie zudem zum idealen Tor für Naturerlebnisse. Geographie K7 – Nachhaltige Stadtentwicklung und Klimaschutz.",
       hu: "A(z) Freiburg im Breisgau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiburg im Breisgau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Das Freiburger Münster wurde über 300 Jahre lang erbaut (1200–1513).", "Die 'Bächle' in der Altstadt haben eine Gesamtlänge von ca. 15 km.", "Die Albert-Ludwigs-Universität wurde bereits 1457 gegründet.", "Gilt als eine der sonnigsten Großstädte in ganz Deutschland.", "Der Schlossberg bietet mit einer Seilbahn einen Blick über die Stadt.", "Pionierstadt der Solarwirtschaft und Sitz des Fraunhofer ISE."],
       hu: [
         "A(z) Freiburg im Breisgau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
