@@ -25,6 +25,7 @@ import { elsalvadorAllPoi } from "@/lib/visualLab/data/elsalvadorPoi";
 import { estoniaAllPoi } from "@/lib/visualLab/data/estoniaPoi";
 import { finlandAllPoi } from "@/lib/visualLab/data/finlandPoi";
 import { franceAllPoi } from "@/lib/visualLab/data/francePoi";
+import { poiExtraFranceCities } from "./poiExtraFranceCities";
 import { greeceAllPoi } from "@/lib/visualLab/data/greecePoi";
 import { guatemalaAllPoi } from "@/lib/visualLab/data/guatemalaPoi";
 import { haitiAllPoi } from "@/lib/visualLab/data/haitiPoi";
@@ -92,6 +93,7 @@ export const ALL_COUNTRY_POIS = ([
   ...estoniaAllPoi,
   ...finlandAllPoi,
   ...franceAllPoi,
+  ...poiExtraFranceCities,
   ...greeceAllPoi,
   ...guatemalaAllPoi,
   ...haitiAllPoi,
