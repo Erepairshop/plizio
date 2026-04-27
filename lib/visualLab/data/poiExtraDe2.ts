@@ -21,13 +21,13 @@ export const poiExtraDe2: POI[] = [
       en: ["State capital of Hesse.", "Known as a spa town with 26 warm springs.", "Headquarters of the Federal Criminal Police Office (BKA)."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Wiesbaden, die hessische Landeshauptstadt, ist eines der ältesten Kurbäder Europas und berühmt für seine 26 heißen Thermalquellen. Die Stadt besticht durch ihr elegantes klassizistisches Stadtbild, das im Zweiten Weltkrieg weitgehend erhalten blieb. Ein Zentrum des gesellschaftlichen Lebens ist das prächtige Kurhaus mit dem Kurpark und dem renommierten Casino, in dem bereits Dostojewski verkehrte. Wiesbaden war lange Zeit eine kaiserliche Residenzstadt, was sich in den prachtvollen Villenvierteln und der Architektur des Staatstheaters widerspiegelt. Durch seine Lage am Rhein und am Fuße des Taunus ist die Stadt zudem ein idealer Ausgangspunkt für Weinliebhaber und Naturfreunde. Geographie K7 – Die Kurstadt als historisches und modernes Dienstleistungszentrum.",
       hu: "A(z) Wiesbaden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wiesbaden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Landeshauptstadt von Hessen und eine der wohlhabendsten Städte Deutschlands.", "Besitzt 26 heiße Thermalquellen, die bereits die Römer nutzten.", "Das Kurhaus Wiesbaden wurde 1907 von Kaiser Wilhelm II. eingeweiht.", "Beherbergt eines der ältesten und schönsten Casinos der Welt.", "Wird aufgrund des milden Klimas oft als 'Nizza des Nordens' bezeichnet.", "Sitz des Bundeskriminalamts und des Statistischen Bundesamtes."],
       hu: [
         "A(z) Wiesbaden területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -133,13 +133,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Home to documenta, one of the world's most significant contemporary art exhibitions.", "Wilhelmshöhe hill park is a UNESCO World Heritage site.", "Workplace of the Brothers Grimm."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Kassel ist das kulturelle und wirtschaftliche Zentrum Nordhessens und weltweit bekannt als Heimat der Documenta, der bedeutendsten Ausstellung für zeitgenössische Kunst. Ein architektonisches Juwel von Weltrang ist der Bergpark Wilhelmshöhe mit dem monumentalen Herkules-Denkmal und den künstlichen Wasserspielen, der seit 2013 zum UNESCO-Weltkulturerbe gehört. Die Stadt blickt zudem auf eine reiche Literaturtradition zurück, da die Brüder Grimm hier viele Jahre lebten und ihre berühmten Märchen sammelten. Kassel verbindet moderne Industriegeschichte, wie den Lokomotivbau, mit herausragenden Parkanlagen und Museen, was es zu einem vielseitigen Ziel für Bildungs- und Kulturreisen macht. Geschichte K7 – Kunstgeschichte und barocke Gartenkunst.",
       hu: "Kassel város Németország Hessen nevű tartományában. A(z) Kassel egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltberühmter Standort der Weltkunstausstellung 'documenta'.", "Der Bergpark Wilhelmshöhe ist der größte Bergpark in Europa.", "Wurde im Jahr 2013 zum UNESCO-Weltkulturerbe ernannt.", "Heimat der Brüder Grimm, die hier ihre Märchensammlung begannen.", "Das Herkules-Denkmal ist das weithin sichtbare Wahrzeichen der Stadt.", "Wichtiger Standort der Automobilzuliefer- und Schienenfahrzeugindustrie."],
       hu: [
         "A(z) Kassel területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -245,13 +245,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Home to Germany's oldest Protestant university (1527).", "Marburg Castle overlooks the entire city.", "Located along the pilgrimage route Jakobsweg."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Marburg an der Lahn ist eine klassische deutsche Universitätsstadt mit einer der ältesten Hochschulen der Welt, der 1527 gegründeten Philipps-Universität. Die Stadt ist berühmt für ihre malerische 'Oberstadt', eine mittelalterliche Altstadt mit engen Gassen und zahlreichen Fachwerkhäusern, die sich terrassenartig den Schlossberg hinaufzieht. Über allem thront das Marburger Landgrafenschloss, Schauplatz des berühmten Marburger Religionsgesprächs zwischen Luther und Zwingli. Marburg war zudem ein wichtiger Wirkungsort der Romantiker und der Brüder Grimm. Die hohe Studentendichte verleiht der Stadt eine lebendige, intellektuelle Atmosphäre, während die Elisabethkirche als eine der frühesten rein gotischen Hallenkirchen Deutschlands gilt. Geschichte K7 – Universitäten und Reformation in Deutschland.",
       hu: "A(z) Marburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Marburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Heimat der ersten protestantisch gegründeten Universität der Welt (1527).", "Die Elisabethkirche beherbergt das Grabmal der Heiligen Elisabeth.", "Das Landgrafenschloss liegt markant 100 Meter über der Lahn.", "In der Altstadt gibt es aufgrund der Hanglage hunderte von Treppenstufen.", "Wirkungsort von Jacob und Wilhelm Grimm während ihres Studiums.", "Marburg blieb von Zerstörungen im Zweiten Weltkrieg weitgehend verschont."],
       hu: [
         "A(z) Marburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -357,13 +357,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Großer Feldberg at 879 m is the highest peak.", "Popular recreation area for Frankfurt.", "Home to Celtic ring forts and Roman Limes fortifications."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Taunus ist ein deutsches Mittelgebirge nördlich von Frankfurt, das durch seine bewaldeten Höhenzüge und mineralreichen Heilquellen geprägt ist. Die höchste Erhebung ist der Große Feldberg mit 881 Metern, der einen weiten Blick über die Rhein-Main-Ebene bis zum Odenwald bietet. Historisch ist der Taunus durch den Limes, die ehemalige Grenzbefestigung des Römischen Reiches, bedeutsam. Die rekonstruierte Römerburg Saalburg vermittelt heute lebendige Einblicke in das Leben an der antiken Grenze. Die Region ist zudem bekannt für ihre mondänen Kurorte wie Bad Homburg und Kronberg, die seit dem 19. Jahrhundert die Aristokratie und das Bürgertum anzogen. Geographie K6 – Naturraum Mittelgebirge und historische Grenzen.",
       hu: "A(z) Taunus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Taunus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchste Erhebung ist der Große Feldberg mit 881 Metern Höhe.", "Teil des Rheinischen Schiefergebirges in Hessen und Rheinland-Pfalz.", "Beherbergt den Limes, der zum UNESCO-Weltkulturerbe zählt.", "Die Saalburg ist das weltweit einzige wiederaufgebaute Römerkastell.", "Bekannt für seine zahlreichen Mineral- und Heilwasserquellen.", "Wichtiger Erholungsraum für die Bewohner des Rhein-Main-Gebiets."],
       hu: [
         "A(z) Taunus területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -469,13 +469,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Approximately 245 km long.", "Popular for canoeing and cycling.", "Flows through Marburg, Gießen, Limburg, and Lahnstein."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Lahn ist einer der schönsten und naturbelassensten Nebenflüsse des Rheins und fließt auf 245 Kilometern durch Hessen und Rheinland-Pfalz. Sie entspringt im Rothaargebirge und schlängelt sich durch ein enges, waldreiches Tal, vorbei an historischen Städten wie Marburg, Gießen, Wetzlar und Limburg. Die Lahn ist ein beliebtes Ziel für Kanuwanderer, da sie auf weiten Strecken ruhig fließt und viele Schleusen besitzt. Historisch war das Lahntal ein wichtiger Bergbaustandort für Eisenerz. Heute steht der sanfte Tourismus im Vordergrund, wobei der Lahnradweg und zahlreiche Schlösser und Burgen am Ufer die Region zu einem Highlight für Aktivurlauber machen. Geographie K6 – Flusslandschaften und nachhaltiger Tourismus.",
       hu: "A(z) Lahn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lahn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 245 km mit Mündung in den Rhein bei Lahnstein.", "Gilt als einer der beliebtesten Flüsse Deutschlands für Kanutouren.", "Entspringt aus der Lahnquelle im Rothaargebirge auf ca. 600 m Höhe.", "Passiert das imposante Weilburger Schloss und den Limburger Dom.", "Der Lahnradweg gehört zu den Top-Fernradwegen in Deutschland.", "Historisch bedeutend für den Transport von Eisenerz aus dem Lahntal."],
       hu: [
         "A(z) Lahn területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -581,13 +581,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Part of the UNESCO World Natural Heritage 'Ancient Beech Forests of Europe'.", "The Edersee is one of Germany's largest reservoirs.", "Home to wildcats and rare bird species."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kellerwald im Norden Hessens beherbergt den Nationalpark Kellerwald-Edersee, der für seine uralten, urigen Buchenwälder berühmt ist. Seit 2011 gehören Teile des Nationalparks zum UNESCO-Weltnaturerbe 'Alte Buchenwälder'. Auf rund 6.000 Hektar darf sich die Natur ohne menschliche Eingriffe entwickeln, was zu einer außergewöhnlichen Artenvielfalt bei Pilzen, Käfern und Pflanzen führt. Die hügelige Landschaft mit ihren steilen Hängen zum Edersee bietet spektakuläre Ausblicke und erinnert an ursprüngliche Wildnis. Der Kellerwald ist zudem die Heimat seltener Tierarten wie Schwarzstorch und Rotwild und ein Zentrum für Umweltbildung in der Region. Biologie K6 – Ökosystem Buchenwald und UNESCO-Weltnaturerbe.",
       hu: "A(z) Kellerwald-Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kellerwald-Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Beherbergt einen der letzten großen Buchenurwälder Mitteleuropas.", "Nationalpark-Kernzone ist Teil des UNESCO-Weltnaturerbes.", "Umfasst eine Gesamtfläche von ca. 6.000 Hektar reinen Waldes.", "Heimat für über 800 verschiedene Farn- und Blütenpflanzenarten.", "Höchste Erhebung im Nationalpark ist der Traddelkopf (626 m).", "Einer der wenigen Orte in Deutschland mit Vorkommen der Wildkatze."],
       hu: [
         "A(z) Kellerwald-Edersee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -693,13 +693,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Created by the Eder Valley dam (1914).", "Surface area of approximately 11.5 km².", "Damaged in World War II by the Dambusters raid."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Edersee im Norden Hessens ist einer der größten und landschaftlich reizvollsten Stauseen Deutschlands. Eingebettet in die Berge des Kellerwalds, erstreckt sich das Gewässer über eine Länge von fast 27 Kilometern. Die gewaltige Edertalsperre wurde zwischen 1908 und 1914 errichtet, um die Weserschifffahrt zu regulieren und Strom zu erzeugen. Weltberühmt wurde die Staumauer im Zweiten Weltkrieg durch ihre Zerstörung bei den 'Dambusters'-Angriffen. Heute ist der See ein Magnet für Wassersportler und Wanderer. Eine Besonderheit bei niedrigem Wasserstand ist das 'Edersee-Atlantis' – Ruinen von Dörfern und Brücken, die einst für den Bau des Sees geflutet wurden. Geographie K7 – Wasserbauwerke und touristische Nutzung von Talsperren.",
       hu: "A(z) Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zweitgrößter Stausee in Deutschland gemessen an der Wasserfläche.", "Die Staumauer ist 48 Meter hoch und exakt 400 Meter lang.", "Erbaut in den Jahren 1908 bis 1914 unter Kaiser Wilhelm II.", "Beherbergt versunkene Ruinen ('Atlantis'), die bei Ebbe sichtbar werden.", "Wichtiger Wasserspeicher zur Regulierung der Weser und des Mittellandkanals.", "Schauplatz einer der bekanntesten Bombardierungen des Zweiten Weltkriegs."],
       hu: [
         "A(z) Edersee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -805,13 +805,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Founded by Saint Boniface, the 'Apostle of the Germans'.", "The tomb of Boniface is located in Fulda Cathedral.", "An important center for manuscript illumination and scholarship in the Middle Ages."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Fulda ist eine Stadt von herausragender religiöser und kunsthistorischer Bedeutung und wird oft als die 'Barockstadt' Deutschlands bezeichnet. Gegründet um das im Jahr 744 errichtete Benediktinerkloster des Heiligen Bonifatius, entwickelte sich Fulda zum geistigen Zentrum des frühen Mittelalters. Der Fuldaer Dom, in dem Bonifatius begraben liegt, ist heute das Wahrzeichen der Stadt und ein Meisterwerk des Barock-Architekten Johann Dientzenhofer. Das Barockviertel mit dem prächtigen Stadtschloss, dem Schlossgarten und der Orangerie bildet ein einzigartiges Ensemble. Fulda ist zudem Sitz eines Bistums und ein wichtiger Knotenpunkt an der ICE-Trasse zwischen Nord und Süd. Geschichte K6 – Klösterliche Kultur und Barockarchitektur.",
       hu: "A(z) Kloster Fulda egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Fulda ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 744 durch Sturmius im Auftrag von Bonifatius.", "Der Fuldaer Dom ist die Grablege des 'Apostels der Deutschen'.", "Besitzt eines der besterhaltenen geschlossenen Barockviertel Europas.", "Das Stadtschloss war die Residenz der Fuldaer Fürstäbte.", "Die Michaeliskirche gilt als eine der ältesten Kirchen Deutschlands (9. Jh.).", "Zentrum der katholischen Deutschen Bischofskonferenz."],
       hu: [
         "A(z) Kloster Fulda területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -917,13 +917,13 @@ export const poiExtraDe2: POI[] = [
       en: ["UNESCO World Heritage Site since 2021.", "Created by the Darmstadt Artists' Colony around 1900.", "The Russian Chapel and the Wedding Tower are iconic landmarks."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Mathildenhöhe in Darmstadt ist ein Gesamtkunstwerk der Moderne und eines der bedeutendsten Zeugnisse des Jugendstils weltweit. Gegründet 1899 von Großherzog Ernst Ludwig als Künstlerkolonie, arbeiteten hier namhafte Künstler wie Joseph Maria Olbrich und Peter Behrens an der Vision einer modernen Lebenswelt. Der Hochzeitsturm mit seinen fünf Zinnen und das Ausstellungsgebäude prägen die markante Silhouette. Seit 2021 gehört das Ensemble zum UNESCO-Weltkulturerbe. Die Mathildenhöhe vereint Architektur, Gartenkunst und Design auf einzigartige Weise und markiert den Übergang vom Historismus zur sachlichen Moderne des 20. Jahrhunderts. Kunstgeschichte K8 – Jugendstil und die Anfänge modernen Designs.",
       hu: "A(z) Mathildenhöhe Darmstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mathildenhöhe Darmstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1899 als Zentrum für moderne Kunst und Handwerk.", "Der 48 Meter hohe Hochzeitsturm ist das Wahrzeichen von Darmstadt.", "UNESCO-Weltkulturerbe seit Juli 2021 aufgrund seiner Einzigartigkeit.", "Beherbergt eine Russische Kapelle, die für den Zaren Nikolaus II. erbaut wurde.", "Die Künstlerhäuser im Viertel wurden individuell von den Bewohnern entworfen.", "Zentrum der vier großen Ausstellungen zwischen 1901 und 1914."],
       hu: [
         "A(z) Mathildenhöhe Darmstadt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1029,13 +1029,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Extinct shield volcano, approximately 15–18 million years old.", "Highest peak is Taufstein at 773 m.", "Nature park and important water reservoir for the region."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Vogelsberg in Hessen ist das größte zusammenhängende Vulkanmassiv Mitteleuropas und eine faszinierende Naturregion. Entstanden vor rund 15 bis 17 Millionen Jahren, besteht er aus einer riesigen Basaltscholle, die sich über 2.500 Quadratkilometer erstreckt. Im Gegensatz zu den spitzen Gipfeln der Eifel ist der Vogelsberg ein sanft gewelltes Hochland mit ausgedehnten Wäldern und Hochmooren. Die höchste Erhebung ist der Hoherodskopf (764 m), ein beliebtes Ziel für Wanderer und Wintersportler. Als Naturpark schützt die Region seltene Biotope und ist ein wichtiges Wassereinzugsgebiet für das Rhein-Main-Gebiet. Die markanten Felsformationen aus erstarrter Lava zeugen überall von der feurigen Vergangenheit des Berges. Geographie K6 – Vulkanismus und Formschatz der Mittelgebirge.",
       hu: "A(z) Vogelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Vogelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes geschlossenes Basaltmassiv auf dem europäischen Festland.", "Höchster Punkt ist der Taufstein mit 773 Metern Höhe.", "Vulkanische Tätigkeit endete vor etwa 7 Millionen Jahren.", "Zentraler Punkt des Naturparks Vulkanregion Vogelsberg.", "Besitzt eine radiale Flusssystem-Struktur (alle Bäche fließen nach außen).", "Wichtiges Forschungsgebiet für die Geologie des Tertiärs."],
       hu: [
         "A(z) Vogelsberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1141,13 +1141,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Built in the 17th century, renovated multiple times.", "Emperor Wilhelm II particularly loved this place.", "The nearby Bad Homburg casino is one of Germany's oldest."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Bad Homburg vor der Höhe ist eine traditionsreiche Kurstadt und ehemalige Residenz der Landgrafen von Hessen-Homburg. Berühmt wurde die Stadt im 19. Jahrhundert als 'Kurort der Kaiser und Könige', der Gäste aus ganz Europa anzog. Das Landgrafenschloss mit dem weithin sichtbaren Weißen Turm und der weitläufige Kurpark mit seinen historischen Quellen und Tempeln zeugen von diesem Glanz. Bad Homburg beherbergt zudem das erste Casino der Welt sowie eine der bedeutendsten Spielbanken Deutschlands. Eine kuriose Besonderheit ist die thailändische Sala, ein Geschenk des Königs von Siam. Heute ist die Stadt ein exklusiver Wohnstandort im Frankfurter Speckgürtel und ein Zentrum für Gesundheit und Wellness. Geschichte K7 – Kurkultur und höfische Tradition.",
       hu: "A(z) Schloss Bad Homburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Bad Homburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ehemalige Residenzstadt der Landgrafen von Hessen-Homburg.", "Der Weiße Turm des Schlosses ist 48 Meter hoch und ein Wahrzeichen.", "Besitzt den ersten Golfplatz und die ersten Tennisplätze in Deutschland.", "Der Kurpark wurde von Peter Joseph Lenné entworfen.", "Heimat des 'Homburg'-Hutes, der durch Edward VII. populär wurde.", "Sitz der Zentrale des Gesundheitskonzerns Fresenius."],
       hu: [
         "A(z) Schloss Bad Homburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1253,13 +1253,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Justus-Liebig University is named after chemist Justus von Liebig.", "Liebig is considered the founder of agricultural chemistry.", "An important center for medicine and natural sciences."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Gießen ist eine bedeutende Universitätsstadt in Mittelhessen und ein Zentrum von Wissenschaft und Forschung. Die 1607 gegründete Justus-Liebig-Universität prägt das Leben in der Stadt, in der fast jeder zweite Einwohner ein Student ist. Gießen blickt auf eine große Tradition in der Chemie zurück, was durch das Liebig-Museum, die ehemalige Wirkungsstätte des berühmten Chemikers Justus von Liebig, gewürdigt wird. Eine moderne Attraktion ist das Mathematikum, das weltweit erste Mitmach-Museum für Mathematik, das trockene Formeln spielerisch begreifbar macht. Trotz schwerer Zerstörungen im Zweiten Weltkrieg hat die Stadt ihren Charakter als lebendiger Bildungsstandort bewahrt und ist ein wichtiger Verkehrsknotenpunkt in Hessen. Physik K8 – Wissenschaftsgeschichte und moderne Didaktik.",
       hu: "A(z) Gießen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gießen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchste Studentendichte aller deutschen Großstädte (ca. 45 %).", "Heimat der Justus-Liebig-Universität (gegründet im Jahr 1607).", "Das Mathematikum zieht jährlich rund 150.000 Besucher an.", "Wirkungsstätte von Wilhelm Conrad Röntgen und Justus von Liebig.", "Besitzt mit dem botanischen Garten einen der ältesten in Deutschland.", "Wichtiger Standort für die Forschung an Bio- und Nanotechnologie."],
       hu: [
         "A(z) Gießen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1365,13 +1365,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Known as the 'Land of Open Distances'.", "UNESCO Biosphere Reserve since 1991.", "Wasserkuppe (950 m) is the highest peak – on the Bavarian side."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Rhön, oft als 'Land der offenen Fernen' bezeichnet, ist ein Mittelgebirge im Dreiländereck von Hessen, Bayern und Thüringen. Charakteristisch für die vulkanisch geprägte Landschaft sind die weiten, baumlosen Gipfelplateaus, die durch jahrhundertelange Beweidung entstanden sind. Die Wasserkuppe ist mit 950 Metern der höchste Berg Hessens und gilt als 'Wiege des Segelflugs'. Die gesamte Region ist als UNESCO-Biosphärenreservat anerkannt und schützt wertvolle Lebensräume wie Borstgrasrasen und Hochmoore. In wolkenlosen Nächten bietet die Rhön zudem einen der dunkelsten Himmel Deutschlands, was ihr den Titel 'Sternenpark' eingebracht hat. Geographie K6 – Nachhaltige Regionalentwicklung und Biosphärenreservate.",
       hu: "A(z) Rhön (Hessen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rhön (Hessen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Biosphärenreservat seit 1991 aufgrund ihrer Biodiversität.", "Die Wasserkuppe (950 m) ist der höchste Berg des Bundeslandes Hessen.", "Gilt weltweit als Ursprungsort des Segelflugsports.", "Offiziell zertifizierter Internationaler Sternenpark (geringe Lichtverschmutzung).", "Beherbergt das Schwarze Moor, eines der bedeutendsten Hochmoore Mitteleuropas.", "Vulkanische Entstehung vor ca. 25 Millionen Jahren."],
       hu: [
         "A(z) Rhön (Hessen) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1477,13 +1477,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Known for world-class Riesling wine.", "Schloss Johannisberg is one of the oldest wine estates.", "Eberbach Abbey was formerly a significant Cistercian wine estate."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Loreley-Felsen bei Sankt Goarshausen ist der Inbegriff der Rheinromantik und einer der sagenumwobensten Orte Deutschlands. Der 132 Meter hohe Schieferfelsen ragt steil an einer der engsten und tiefsten Stellen des Mittelrheins auf, wo die starke Strömung früher vielen Schiffern zum Verhängnis wurde. Die Legende der schönen Nixe Loreley, die mit ihrem Gesang die Seeleute ins Verderben lockt, wurde durch Heinrich Heines Gedicht weltberühmt. Das Loreley-Plateau ist heute Teil des UNESCO-Welterbes Oberes Mittelrheintal und bietet einen spektakulären Panoramablick auf die vorbeiziehenden Schiffe und die umliegenden Burgen. Die Freilichtbühne auf dem Felsen ist zudem ein renommierter Ort für internationale Rock- und Klassikkonzerte. Literatur K7 – Deutsche Romantik und rheinische Mythen.",
       hu: "A(z) Rheingau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rheingau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Markanter Schieferfelsen mit einer Höhe von 132 Metern über dem Rhein.", "Engste Stelle des schiffbaren Rheins (nur ca. 113 Meter breit).", "Teil des UNESCO-Welterbes Oberes Mittelrheintal seit 2002.", "Berühmt durch das Gedicht von Heinrich Heine und die Melodie von Silcher.", "Die Loreley-Statue im Hafenbecken wurde 1983 aufgestellt.", "Beliebter Aussichtspunkt mit modernem Besucherzentrum auf dem Plateau."],
       hu: [
         "A(z) Rheingau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1589,13 +1589,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Considered one of Germany's most beautiful medieval buildings.", "The seven towers are the landmark of Limburg.", "Contains the Staurothek, a valuable Byzantine relic."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Limburger Dom, auch Georgsdom genannt, ist eines der vollendetsten Bauwerke der späten Romanik und frühen Gotik in Deutschland. Mit seinen sieben Türmen thront er majestätisch auf einem Felsen oberhalb der Lahn und prägt die Silhouette der historischen Altstadt. Erbaut im 13. Jahrhundert, beeindruckt der Dom durch seine farbenfrohe Außenbemalung, die nach alten Befunden rekonstruiert wurde. Im Inneren finden sich bedeutende mittelalterliche Wandmalereien. Die Architektur markiert den spannenden Übergang vom wuchtigen romanischen Stil zur lichten gotischen Bauweise. Als Kathedrale des Bistums Limburg ist der Dom ein spirituelles Zentrum von europäischem Rang und ein Meisterwerk der Sakralbaukunst. Kunstgeschichte K6 – Sakrale Architektur am Übergang von Romanik zu Gotik.",
       hu: "A(z) Limburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Limburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besitzt insgesamt sieben Türme, mehr als jede andere Kirche in Deutschland.", "Eingeweiht im Jahr 1235 nach ca. 40 Jahren Bauzeit.", "Erbaut auf einem steilen Kalkfelsen direkt am Ufer der Lahn.", "Wurde im Jahr 1985 umfangreich nach Originalfarben restauriert.", "War auf der Rückseite des 1.000-D-Mark-Scheins der dritten Serie abgebildet.", "Diente im Mittelalter als Stiftskirche St. Georg."],
       hu: [
         "A(z) Limburger Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1703,13 +1703,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The city was founded in 1938 for VW workers.", "The Volkswagen plant is the world's largest automobile factory.", "The Autostadt is a world-class automotive theme park."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Wolfsburg ist eine der jüngsten Großstädte Deutschlands und untrennbar mit dem Volkswagen-Konzern verbunden. Gegründet im Jahr 1938 für die Mitarbeiter des VW-Werks, hat sich die Stadt zu einem globalen Zentrum der Automobilindustrie entwickelt. Das Werk selbst ist eines der größten zusammenhängenden Fabrikgebäude der Welt. Eine Hauptattraktion ist die 'Autostadt', ein Themen- und Erlebnispark, der die Marken des Konzerns präsentiert und ein Zentrum für moderne Architektur ist. Wolfsburg bietet zudem erstklassige Kultur- und Wissenschaftserlebnisse, wie das futuristische Science-Center phæno von Zaha Hadid oder das Kunstmuseum. Die Stadt ist ein Paradebeispiel für eine geplante Industriestadt der Moderne. Geographie K7 – Die monostrukturierte Industriestadt im Wandel.",
       hu: "A(z) Wolfsburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wolfsburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet am 1. Juli 1938 unter dem Namen 'Stadt des KdF-Wagens'.", "Hauptsitz der Volkswagen AG, dem größten Arbeitgeber der Region.", "Die Autostadt wurde zur EXPO 2000 als Erlebnispark eröffnet.", "Das phæno wurde von der Stararchitektin Zaha Hadid entworfen.", "Das VW-Werk umfasst eine Fläche von über 6 Quadratkilometern.", "Beherbergt den erfolgreichsten Frauenfußball-Verein Deutschlands (VfL Wolfsburg)."],
       hu: [
         "A(z) Wolfsburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1815,13 +1815,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The Burglöwe (castle lion) on Burgplatz is the city's landmark.", "Home of the world-renowned DLR research center.", "Braunschweig Technical University is one of Germany's oldest."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Braunschweig, die 'Löwenstadt', blickt auf eine über tausendjährige Geschichte zurück und war einst eine mächtige Hansestadt und Residenz der Welfen. Herzog Heinrich der Löwe machte die Stadt im 12. Jahrhundert zu seinem Machtzentrum, wovon der Braunschweiger Löwe auf dem Burgplatz und der Dom St. Blasii zeugen. Heute ist Braunschweig ein führender Standort für Wissenschaft und Forschung in Europa, geprägt durch die Technische Universität (gegründet 1745) und zahlreiche Bundesforschungsinstitute. Die Stadt verbindet historische Traditionen, wie das rekonstruierte Residenzschloss, mit hochmoderner Technologieentwicklung in den Bereichen Verkehr und Luftfahrt. Geschichte K7 – Mittelalterliche Machtzentren und hanseatischer Handel.",
       hu: "A(z) Braunschweig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Braunschweig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Einstige Residenz von Heinrich dem Löwen im 12. Jahrhundert.", "Der Braunschweiger Löwe auf dem Burgplatz ist die älteste Freiplastik nördlich der Alpen.", "Wichtigstes Forschungszentrum für Mobilität und Luftfahrt in Niedersachsen.", "Die TU Braunschweig ist die älteste technische Universität Deutschlands.", "Traditionelles Zentrum der deutschen Zuckerindustrie.", "Das Residenzschloss trägt die größte Quadriga Europas auf seinem Dach."],
       hu: [
         "A(z) Braunschweig területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1927,13 +1927,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Brocken (1141 m) is the highest peak.", "Known from Goethe's 'Faust' and the Walpurgis Night legend.", "The Harz narrow-gauge railway is a historic steam rack railway."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Brocken ist mit 1.141 Metern der höchste Berg des Harzes und Norddeutschlands. Er ist ein Ort voller Mythen und Sagen, bekannt als Treffpunkt der Hexen zur Walpurgisnacht, wie es Goethe im 'Faust' verewigte. Durch seine exponierte Lage herrscht auf dem Gipfel ein extremes Klima, das dem der Alpen oder Islands gleicht. Während der deutschen Teilung war der Brocken militärisches Sperrgebiet und Standort wichtiger Abhörstationen der DDR und der Sowjetunion. Heute ist der Gipfel, der im Nationalpark Harz liegt, wieder ein beliebtes Ziel für Wanderer und die historische Brockenbahn. Die Flora des Berges mit dem Brockengarten beherbergt seltene Eiszeitrelikte, die unter strengem Schutz stehen. Geographie K6 – Hochgebirgsklima und ökologische Bedeutung der Mittelgebirge.",
       hu: "A(z) Harz (Niedersachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Harz (Niedersachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchster Berg in ganz Norddeutschland mit 1.141 Metern.", "Liegt an der Grenze zwischen Niedersachsen und Sachsen-Anhalt.", "Gipfel war von 1961 bis 1989 militärisches Sperrgebiet (Grenze).", "Wird täglich von dampfbetriebenen Zügen der Brockenbahn angefahren.", "Jährlich verzeichnet der Berg ca. 300 Nebeltage.", "Berühmt als Schauplatz der Walpurgisnacht in Goethes 'Faust'."],
       hu: [
         "A(z) Harz (Niedersachsen) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2039,13 +2039,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Famous for blooming heather fields in late summer.", "Home to the Heidschnucke sheep, an old local breed.", "Heidepark Soltau is a well-known amusement park."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Lüneburger Heide ist eine einzigartige Kulturlandschaft im Nordosten Niedersachsens, die durch jahrhundertelange Holzentnahme und Beweidung durch Heidschnucken entstanden ist. Im August und September verwandelt sich die Region in ein riesiges lilafarbenes Blütenmeer. Das Herzstück ist das autofreie Naturschutzgebiet um den Wilseder Berg, die höchste Erhebung der norddeutschen Tiefebene. Die Heide ist nicht nur ein Refugium für seltene Pflanzen und Tiere, sondern auch ein wichtiges Zentrum für den sanften Tourismus. Historisch ist die Region durch die Salzgewinnung in Lüneburg geprägt, die der Heide ihren Namen gab. Heute ist sie der älteste Naturpark Deutschlands und ein Vorbild für den Naturschutz. Biologie K6 – Kulturlandschaften und Erhaltung der Biodiversität.",
       hu: "A Lüneburger Heide (lüneburgi puszta) természetvédelmi terület és natúrpark Németországban. Németország első természetvédelmi parkja volt. A(z) Lüneburger Heide egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ältester Naturpark Deutschlands, gegründet im Jahr 1921.", "Größte zusammenhängende Heidefläche in ganz Mitteleuropa.", "Wird durch rund 9.000 Heidschnucken (Schafe) gepflegt und offen gehalten.", "Der Wilseder Berg ist mit 169 m die höchste Erhebung der Tiefebene.", "Zentrum des regionalen Tourismus mit über 5 Millionen Übernachtungen.", "Der Heide-Honig ist eine überregional bekannte Spezialität."],
       hu: [
         "A(z) Lüneburger Heide területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2151,13 +2151,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Co-signing location of the Peace of Westphalia (1648).", "Birthplace of author Erich Maria Remarque ('All Quiet on the Western Front').", "Home to an important medieval cathedral."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Osnabrück ist als 'Friedensstadt' weltbekannt, da hier 1648 zusammen mit Münster der Westfälische Friede unterzeichnet wurde, der den Dreißigjährigen Krieg beendete. Die Stadt im Südwesten Niedersachsens verbindet diese historische Bedeutung mit einer dynamischen Gegenwart. Das historische Rathaus mit dem Friedenssaal ist das Wahrzeichen der Stadt. Osnabrück liegt inmitten des Natur- und Geoparks TERRA.vita und bietet eine hohe Lebensqualität zwischen Urbanität und Natur. Die Universität und zahlreiche innovative Unternehmen im Bereich Logistik und Metallverarbeitung prägen die Wirtschaftskraft. Auch als Geburtsstadt des Schriftstellers Erich Maria Remarque und des Malers Felix Nussbaum setzt Osnabrück wichtige kulturelle Akzente. Geschichte K7 – Der Westfälische Friede und seine Bedeutung für Europa.",
       hu: "A(z) Osnabrück egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Osnabrück ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ort der Unterzeichnung des Westfälischen Friedens von 1648.", "Einzige deutsche Großstadt, die in einem Naturpark (TERRA.vita) liegt.", "Geburtsstadt des Autors von 'Im Westen nichts Neues', Erich Maria Remarque.", "Besitzt mit dem Felix-Nussbaum-Haus ein bedeutendes Museum von Daniel Libeskind.", "Wichtiger Eisenbahnknotenpunkt zwischen Hamburg und dem Ruhrgebiet.", "Das Osnabrücker Schloss dient heute als Hauptsitz der Universität."],
       hu: [
         "A(z) Osnabrück területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",

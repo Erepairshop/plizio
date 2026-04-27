@@ -4171,13 +4171,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Berliner Museumsinsel ist ein weltweit einzigartiges kulturelles Ensemble im Herzen der deutschen Hauptstadt und seit 1999 UNESCO-Weltkulturerbe. Auf dem nördlichen Teil der Spreeinsel befinden sich fünf weltberühmte Museen, die zwischen 1830 und 1930 entstanden sind. Das Alte Museum, das Neue Museum, die Alte Nationalgalerie, das Bode-Museum und das Pergamonmuseum präsentieren über 6.000 Jahre Menschheitsgeschichte. Zu den bedeutendsten Exponaten zählen die Büste der Nofretete und der monumentale Pergamonaltar. Die Insel ist nicht nur ein Schatzhaus der Kunst, sondern auch ein architektonisches Denkmal der preußischen Klassik. Geschichte K7 – Museen als Orte der Weltkultur und Geschichte.",
       hu: "A(z) Museumsinsel Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Museumsinsel Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1999 als einzigartiges Museumsensemble.", "Beherbergt fünf Museen: Altes, Neues, Nationalgalerie, Bode und Pergamon.", "Das Pergamonmuseum ist das meistbesuchte Museum in ganz Berlin.", "Heimat der weltberühmten Büste der Nofretete im Neuen Museum.", "Die James-Simon-Galerie dient seit 2019 als zentrales Empfangsgebäude.", "Die Bauzeit der gesamten Insel erstreckte sich über exakt 100 Jahre."],
       hu: [
         "A(z) Museumsinsel Berlin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4310,13 +4310,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die East Side Gallery in Berlin-Friedrichshain ist das längste noch erhaltene Teilstück der Berliner Mauer und zugleich die größte Open-Air-Galerie der Welt. Auf einer Länge von 1,3 Kilometern direkt an der Spree haben über 100 Künstler aus 21 Ländern ihre Visionen von Freiheit und Überwindung von Grenzen auf den Beton gebannt. Das wohl bekannteste Motiv ist der 'Bruderkuss' zwischen Leonid Breschnew und Erich Honecker. Die Galerie ist heute ein Mahnmal für die Teilung Deutschlands und ein Symbol für die friedliche Revolution von 1989. Sie zieht jährlich Millionen von Besuchern an, die hier Zeitgeschichte und moderne Kunst hautnah erleben können. Geschichte K8 – Kalter Krieg und die Teilung Deutschlands.",
       hu: "A(z) East Side Gallery egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a East Side Gallery ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Längster zusammenhängender Abschnitt der Berliner Mauer (1,3 km).", "Bemalt von 118 Künstlern aus 21 verschiedenen Ländern im Jahr 1990.", "Das berühmteste Bild ist der 'Bruderkuss' von Dmitri Vrubel.", "Steht seit November 1991 unter offiziellem Denkmalschutz.", "Befindet sich im Berliner Bezirk Friedrichshain-Kreuzberg an der Mühlenstraße.", "Wurde auf der ehemaligen Rücklandmauer (Ost-Berlin zugewandt) errichtet."],
       hu: [
         "A(z) East Side Gallery területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4448,13 +4448,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Charlottenburg ist die prächtigste und größte Residenz der preußischen Könige in Berlin. Ursprünglich ab 1695 für Sophie Charlotte, die erste Königin von Preußen, als Sommerhaus erbaut, wurde es über Generationen hinweg zu einer weitläufigen Schlossanlage ausgebaut. Besonders beeindruckend sind der barocke Alte Flügel mit dem prunkvollen Porzellankabinett und der Neue Flügel von Friedrich dem Großen. Der angrenzende Schlosspark, eine Mischung aus französischem Barockgarten und englischem Landschaftspark, beherbergt zudem das Mausoleum der Königin Luise und das Belvedere. Das Schloss ist ein Inbegriff höfischer Pracht und preußischer Geschichte. Kunstgeschichte K7 – Barock und Rokoko in der Residenzstadt Berlin.",
       hu: "A(z) Schloss Charlottenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Charlottenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größte Schlossanlage der Stadt Berlin mit weiten Gartenanlagen.", "Erbaut ab 1695 als Schloss Lützenburg für Sophie Charlotte.", "Beherbergt im Neuen Flügel die bedeutendste Sammlung französischer Malerei.", "Das Porzellankabinett enthält über 2.700 chinesische und japanische Stücke.", "Die Schlosskuppel erreicht eine Gesamthöhe von ca. 48 Metern.", "Das Mausoleum im Park ist die Grabstätte bedeutender preußischer Herrscher."],
       hu: [
         "A(z) Schloss Charlottenburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4586,13 +4586,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Grunewald im Westen Berlins ist mit rund 3.000 Hektar das größte zusammenhängende Waldgebiet der Stadt und eine grüne Lunge von unschätzbarem Wert. Er erstreckt sich vom Bezirk Charlottenburg-Wilmersdorf bis nach Steglitz-Zehlendorf und wird im Westen von der Havel begrenzt. Markante Orientierungspunkte sind der Grunewaldturm auf dem Karlsberg und der künstliche Teufelsberg, der einst als Abhörstation der Westmächte diente. Der Wald bietet vielfältige Erholungsräume, von idyllischen Seenketten bis hin zu historischen Gebäuden wie dem Jagdschloss Grunewald, dem ältesten erhaltenen Schloss Berlins. Er ist ein wichtiger Lebensraum für Wildtiere und ein beliebtes Ziel für Wanderer und Radfahrer. Geographie K6 – Städtische Naherholungsgebiete und Waldökologie.",
       hu: "A(z) Grunewald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Grunewald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes Forstgebiet im Berliner Stadtgebiet (ca. 3.000 Hektar).", "Beherbergt das Jagdschloss Grunewald, Berlins ältestes Schloss (1542).", "Der Grunewaldturm ist 55 Meter hoch und bietet Fernsicht bis Potsdam.", "Der Teufelsberg entstand aus 26 Millionen Kubikmetern Trümmerschutt.", "Die im Westen angrenzende Havel bildet hier seenartige Ausbuchtungen.", "Wichtiges Trinkwasserschutzgebiet und Lebensraum für Wildschweine."],
       hu: [
         "A(z) Grunewald területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4724,13 +4724,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Havel prägt den Berliner Westen durch ihren fast seenartigen Charakter und ihre weiten Ausbuchtungen wie den Wannsee und den Tegeler See. Innerhalb Berlins fließt sie auf einer Länge von rund 30 Kilometern und bildet eine einzigartige Wasserlandschaft, die oft als Seenkette wahrgenommen wird. Historisch war die Havel eine lebenswichtige Wasserstraße und im Kalten Krieg ein Teil der Grenze zwischen West-Berlin und der DDR. Die Glienicker Brücke, die die Havel überquert, wurde als Ort des Agentenaustauschs weltberühmt. Heute ist der Fluss ein Paradies für Wassersportler und ein ökologisch wertvoller Raum für zahlreiche seltene Tierarten in den Schilf- und Uferzonen. Geographie K7 – Gewässersysteme und städtische Wasserwirtschaft.",
       hu: "A(z) Havel (Berlin) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Berlin) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Durchfließt Berlin auf ca. 30 km und weitet sich oft seenartig aus.", "Der Große Wannsee ist eine der bekanntesten Buchten des Flusses.", "Besitzt ein extrem geringes Gefälle von nur ca. 40 m auf 334 km Länge.", "Schauplatz des Agentenaustauschs während des Kalten Krieges (Glienicker Brücke).", "Mündet in Spandau mit der Spree zusammen, dem zweiten Berliner Hauptfluss.", "Wichtiger Lebensraum für Seeadler und Biber im Berliner Umland."],
       hu: [
         "A(z) Havel (Berlin) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -4863,13 +4863,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Berliner Olympiastadion ist eine Sportstätte von monumentalen Ausmaßen und bewegter Geschichte. Erbaut für die Olympischen Sommerspiele 1936 nach Plänen von Werner March, diente es ursprünglich der NS-Propaganda. Heute ist es nach einer umfassenden Modernisierung für die Weltmeisterschaft 2006 ein hochmodernes Multifunktionsstadion mit rund 74.000 Plätzen. Es ist die Heimspielstätte des Fußball-Bundesligisten Hertha BSC und regelmäßiger Austragungsort des DFB-Pokalfinales sowie bedeutender Leichtathletik-Wettbewerbe. Die markante Architektur aus Naturstein und das schwebende High-Tech-Dach machen es zu einem Wahrzeichen der Moderne, das Denkmalpflege und Spitzensport perfekt vereint. Geschichte K8 – Architektur und Politik im 20. Jahrhundert.",
       hu: "A(z) Olympiastadion Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Olympiastadion Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut für die Olympischen Spiele 1936 mit über 100.000 Plätzen.", "Heutiges Fassungsvermögen beträgt genau 74.475 Zuschauer.", "Heimstadion des Traditionsvereins Hertha BSC seit 1963.", "Austragungsort des Finales der Fußball-Weltmeisterschaft 2006.", "Die Laufbahn im Stadion ist aufgrund der Farbe als 'Blaue Bahn' bekannt.", "Die Glocke im angrenzenden Glockenturm wiegt rund 9,5 Tonnen."],
       hu: [
         "A(z) Olympiastadion Berlin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5002,13 +5002,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Denkmal für die ermordeten Juden Europas, oft als Holocaust-Mahnmal bezeichnet, ist der zentrale Gedenkort für die jüdischen Opfer des Nationalsozialismus im Herzen Berlins. Entworfen vom Architekten Peter Eisenman, besteht das Mahnmal aus 2.711 grauen Betonstelen unterschiedlicher Höhe, die in einem wellenförmigen Feld angeordnet sind. Das Durchschreiten der engen, unebenen Gänge zwischen den tonnenschweren Blöcken soll ein Gefühl der Orientierungslosigkeit und Beklemmung erzeugen. Unter dem Feld befindet sich ein Ort der Information, der die Schicksale von Opfern dokumentiert. Das Mahnmal ist ein mutiges Zeichen der Auseinandersetzung mit der eigenen Geschichte und ein fester Bestandteil des Berliner Stadtbildes nahe dem Brandenburger Tor. Geschichte K8 – Erinnerungskultur und Aufarbeitung der NS-Verbrechen.",
       hu: "A(z) Holocaust-Mahnmal Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Holocaust-Mahnmal Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besteht aus insgesamt 2.711 Beton-Stelen auf einer Fläche von 19.000 m².", "Entworfen vom US-amerikanischen Architekten Peter Eisenman.", "Eröffnet im Mai 2005 nach jahrelangen öffentlichen Debatten.", "Der Ort der Information unter dem Feld verzeichnet hohe Besucherzahlen.", "Die Stelen haben eine einheitliche Grundfläche, variieren aber in der Höhe.", "Befindet sich auf dem ehemaligen 'Todesstreifen' der Berliner Mauer."],
       hu: [
         "A(z) Holocaust-Mahnmal Berlin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5139,13 +5139,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kurfürstendamm, liebevoll 'Kudamm' genannt, ist der Inbegriff des mondänen West-Berlins und die berühmteste Shoppingmeile der Stadt. Ursprünglich ein Reitweg zum Jagdschloss Grunewald, wurde er Ende des 19. Jahrhunderts nach dem Vorbild der Pariser Champs-Élysées zum Prachtboulevard ausgebaut. Hier finden sich exklusive Boutiquen internationaler Luxusmarken, prächtige Gründerzeithäuser und kulturelle Wahrzeichen wie die Kaiser-Wilhelm-Gedächtniskirche am Breitscheidplatz. Der Kudamm war in den 'Goldenen Zwanzigern' das Zentrum des intellektuellen Lebens und wurde nach dem Zweiten Weltkrieg zum Schaufenster des Westens. Heute verbindet er historischen Glanz mit urbaner Dynamik und erstklassiger Gastronomie. Geographie K7 – Stadtstrukturen und Dienstleistungszentren.",
       hu: "A(z) Kurfürstendamm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kurfürstendamm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Berühmteste Shoppingmeile Berlins mit einer Länge von 3,5 Kilometern.", "Ursprünglich im 16. Jahrhundert als Reitweg der Kurfürsten angelegt.", "Wurde ab 1886 auf Initiative von Otto von Bismarck ausgebaut.", "Zentrum des kulturellen Lebens im Berlin der 1920er Jahre.", "Beherbergt das berühmte Kaufhaus des Westens (KaDeWe) in der Nähe.", "Markanter Endpunkt ist der Breitscheidplatz mit der Gedächtniskirche."],
       hu: [
         "A(z) Kurfürstendamm területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5277,13 +5277,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Große Müggelsee ist mit einer Wasserfläche von über sieben Quadratkilometern der größte See Berlins und ein Sehnsuchtsort im grünen Bezirk Köpenick. Umgeben von den Müggelbergen, den höchsten natürlichen Erhebungen der Stadt, bietet der See eine idyllische Kulisse für Wassersportler, Segler und Ausflugsgäste. Historisch ist der Müggelsee eng mit der Berliner Wasserversorgung verbunden, was das Wasserwerk Friedrichshagen am Nordufer bezeugt. Das Strandbad Müggelsee ist seit Generationen ein Kultort für Badegäste. Eine Besonderheit ist der Spreetunnel, der Fußgängern das Unterqueren des Seezuflusses ermöglicht. Der Müggelsee ist ein wertvoller Naturraum und ein Rückzugsort für Erholungssuchende im Osten der Hauptstadt. Geographie K6 – Städtische Seenlandschaften und Naherholung.",
       hu: "A(z) Müggelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Müggelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter See im Berliner Stadtgebiet mit 7,4 Quadratkilometern Fläche.", "Maximaltiefe des Sees beträgt ca. 8 Meter im Zentrum.", "Die Spree durchfließt den See als Hauptzufluss und Abfluss.", "Wichtiger Standort für das 1893 errichtete Wasserwerk Friedrichshagen.", "Der Müggelturm bietet einen weiten Blick über Berlin und Brandenburg.", "Berühmt für das Strandbad Müggelsee mit seinem kilometerlangen Uferweg."],
       hu: [
         "A(z) Müggelsee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5416,13 +5416,13 @@ export const poiExtraDe1: POI[] = [
       ],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Sanssouci in Potsdam, unweit der Berliner Stadtgrenze, ist das Meisterwerk des preußischen Rokoko und ein Inbegriff friderizianischer Architektur. Erbaut zwischen 1745 und 1747 nach Skizzen Friedrichs des Großen, diente es ihm als privater Rückzugsort 'ohne Sorgen' (sans souci). Das relativ kleine, eingeschossige Schloss liegt markant auf den berühmten Weinbergterrassen. Zusammen mit dem weitläufigen Park, dem Neuen Palais und dem Orangerieschloss gehört es zum UNESCO-Weltkulturerbe. Die Verbindung von Architektur und Gartenkunst ist weltweit einzigartig und spiegelt das Ideal der Aufklärung wider. Friedrich der Große ist auf der obersten Terrasse des Schlosses in seinem Wunschgrab begraben. Geschichte K7 – Absolutismus und Aufklärung in Preußen.",
       hu: "A(z) Wannsee-Konferenz Gedenkstätte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wannsee-Konferenz Gedenkstätte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut von 1745 bis 1747 als privates Sommerschloss Friedrichs II.", "Markenzeichen sind die sechs Weinbergterrassen an der Südseite.", "Architekt Georg Wenzeslaus von Knobelsdorff leitete die Ausführung.", "Zentrum des Park Sanssouci mit ca. 290 Hektar Gartenfläche.", "Wurde im Jahr 1990 in die Liste des UNESCO-Welterbes aufgenommen.", "Die Innenausstattung ist ein hervorragendes Zeugnis des friderizianischen Rokoko."],
       hu: [
         "A(z) Wannsee-Konferenz Gedenkstätte területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
