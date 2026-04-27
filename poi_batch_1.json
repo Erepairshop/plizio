@@ -1,0 +1,960 @@
+
+[
+  {
+    "id": "DE-BW",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Wahrzeichen von Baden-W\u00fcrttemberg?", "a": "Der Schwarzwald und das Heidelberger Schloss gelten als die bekanntesten Symbole."},
+        {"q": "Welche gro\u00dfen Autohersteller haben hier ihren Sitz?", "a": "Mercedes-Benz und Porsche haben ihre Hauptzentralen in Stuttgart."},
+        {"q": "Welcher gro\u00dfe See liegt im S\u00fcden?", "a": "Der Bodensee grenzt im S\u00fcden an das Bundesland."},
+        {"q": "Wie hei\u00dft die Landeshauptstadt?", "a": "Die Landeshauptstadt von Baden-W\u00fcrttemberg ist Stuttgart."}
+      ],
+      "hu": [
+        {"q": "Mi Baden-W\u00fcrttemberg legismertebb jelk\u00e9pe?", "a": "A Fekete-erd\u0151 \u00e9s a heidelbergi kast\u00e9ly a tartom\u00e1ny f\u0151 szimb\u00f3lumai."},
+        {"q": "Melyik nagy aut\u00f3gy\u00e1rak sz\u00e9khelye tal\u00e1lhat\u00f3 itt?", "a": "A Mercedes-Benz \u00e9s a Porsche k\u00f6zpontja is Stuttgartban van."},
+        {"q": "Melyik nagy t\u00f3 fekszik a tartom\u00e1ny d\u00e9li r\u00e9sz\u00e9n?", "a": "A B\u00f3deni-t\u00f3 hat\u00e1rolja a tartom\u00e1nyt d\u00e9lr\u0151l."},
+        {"q": "Mi a tartom\u00e1ny f\u0151v\u00e1rosa?", "a": "Baden-W\u00fcrttemberg f\u0151v\u00e1rosa Stuttgart."}
+      ],
+      "ro": [
+        {"q": "Care este simbolul landului Baden-W\u00fcrttemberg?", "a": "P\u0103durea Neagr\u0103 \u0219i Castelul Heidelberg sunt cele mai cunoscute simboluri."},
+        {"q": "Ce mari produc\u0103tori auto au sediul aici?", "a": "Mercedes-Benz \u0219i Porsche au sediile centrale \u00een Stuttgart."},
+        {"q": "Ce lac mare se afl\u0103 \u00een sud?", "a": "Lacul Constan\u021ba (Bodensee) se afl\u0103 la grani\u021ba sudic\u0103 a landului."},
+        {"q": "Care este capitala landului?", "a": "Capitala landului Baden-W\u00fcrttemberg este Stuttgart."}
+      ],
+      "en": [
+        {"q": "What is the landmark of Baden-W\u00fcrttemberg?", "a": "The Black Forest and Heidelberg Castle are considered the most famous symbols."},
+        {"q": "Which major car manufacturers are based here?", "a": "Mercedes-Benz and Porsche have their headquarters in Stuttgart."},
+        {"q": "Which large lake is located in the south?", "a": "Lake Constance borders the state to the south."},
+        {"q": "What is the state capital?", "a": "The state capital of Baden-W\u00fcrttemberg is Stuttgart."}
+      ]
+    }
+  },
+  {
+    "id": "DE-BY",
+    "faq": {
+      "de": [
+        {"q": "Was ist das fl\u00e4chenm\u00e4\u00dfig gr\u00f6\u00dfte Bundesland?", "a": "Bayern ist mit \u00fcber 70.000 km\u00b2 das gr\u00f6\u00dfte deutsche Bundesland."},
+        {"q": "F\u00fcr welches Volksfest ist Bayern weltweit bekannt?", "a": "Bayern ist ber\u00fchmt f\u00fcr das Oktoberfest in M\u00fcnchen."},
+        {"q": "Welche Gebirgskette liegt im S\u00fcden Bayerns?", "a": "Im S\u00fcden Bayerns liegen die Alpen."},
+        {"q": "Wie hei\u00dft das ber\u00fchmte M\u00e4rchenschloss in Bayern?", "a": "Das bekannteste Schloss ist Neuschwanstein."}
+      ],
+      "hu": [
+        {"q": "Melyik N\u00e9metorsz\u00e1g legnagyobb ter\u00fclet\u0171 tartom\u00e1nya?", "a": "Bajororsz\u00e1g a maga t\u00f6bb mint 70 000 km\u00b2-\u00e9vel a legnagyobb."},
+        {"q": "Melyik n\u00e9p\u00fcnnep\u00e9lyr\u0151l h\u00edres Bajororsz\u00e1g vil\u00e1gszerte?", "a": "Bajororsz\u00e1g a m\u00fcncheni Oktoberfestr\u0151l h\u00edres."},
+        {"q": "Melyik hegys\u00e9g fekszik Bajororsz\u00e1g d\u00e9li r\u00e9sz\u00e9n?", "a": "Bajororsz\u00e1g d\u00e9li hat\u00e1r\u00e1n az Alpok h\u00faz\u00f3dik."},
+        {"q": "Mi a h\u00edres bajor mesekast\u00e9ly neve?", "a": "A legismertebb kast\u00e9ly a Neuschwanstein."}
+      ],
+      "ro": [
+        {"q": "Care este cel mai mare land german ca suprafa\u021b\u0103?", "a": "Bavaria este cel mai mare land, av\u00e2nd peste 70.000 km\u00b2."},
+        {"q": "Pentru ce festival este Bavaria faimoas\u0103 \u00een lume?", "a": "Bavaria este renumit\u0103 pentru Oktoberfest din M\u00fcnchen."},
+        {"q": "Ce lan\u021b muntos se afl\u0103 \u00een sudul Bavariei?", "a": "Alpii se afl\u0103 \u00een partea de sud a Bavariei."},
+        {"q": "Cum se nume\u0219te faimosul castel de basm din Bavaria?", "a": "Cel mai cunoscut castel este Neuschwanstein."}
+      ],
+      "en": [
+        {"q": "Which is the largest German state by area?", "a": "Bavaria is the largest state with over 70,000 km\u00b2."},
+        {"q": "Which folk festival is Bavaria famous for worldwide?", "a": "Bavaria is famous for the Oktoberfest in Munich."},
+        {"q": "Which mountain range is in southern Bavaria?", "a": "The Alps are located in southern Bavaria."},
+        {"q": "What is the famous fairytale castle in Bavaria?", "a": "The most famous castle is Neuschwanstein."}
+      ]
+    }
+  },
+  {
+    "id": "DE-BE",
+    "faq": {
+      "de": [
+        {"q": "Ist Berlin ein Bundesland?", "a": "Ja, Berlin ist ein Stadtstaat und zugleich die Hauptstadt Deutschlands."},
+        {"q": "Welches Bauwerk symbolisierte die Teilung Berlins?", "a": "Die Berliner Mauer war das Symbol der Teilung zwischen 1961 und 1989."},
+        {"q": "Wo tagt das deutsche Parlament in Berlin?", "a": "Der Deutsche Bundestag tagt im Reichstagsgeb\u00e4ude."},
+        {"q": "Was ist das bekannteste Tor Berlins?", "a": "Das Brandenburger Tor ist das bekannteste Wahrzeichen."}
+      ],
+      "hu": [
+        {"q": "Berlin \u00f6n\u00e1ll\u00f3 tartom\u00e1ny?", "a": "Igen, Berlin egy v\u00e1ros\u00e1llam \u00e9s egyben N\u00e9metorsz\u00e1g f\u0151v\u00e1rosa."},
+        {"q": "Melyik \u00e9p\u00edtm\u00e9ny szimboliz\u00e1lta Berlin megosztotts\u00e1g\u00e1t?", "a": "A berlini fal volt a megosztotts\u00e1g jelk\u00e9pe 1961 \u00e9s 1989 k\u00f6z\u00f6tt."},
+        {"q": "Hol \u00fcl\u00e9sezik a n\u00e9met parlament Berlinben?", "a": "A n\u00e9met Bundestag a Reichstag \u00e9p\u00fclet\u00e9ben \u00fcl\u00e9sezik."},
+        {"q": "Mi Berlin legismertebb kapuja?", "a": "A Brandenburgi kapu a v\u00e1ros legismertebb jelk\u00e9pe."}
+      ],
+      "ro": [
+        {"q": "Este Berlin un land?", "a": "Da, Berlin este un ora\u0219-stat \u0219i, \u00een acela\u0219i timp, capitala Germaniei."},
+        {"q": "Ce construc\u021bie a simbolizat divizarea Berlinului?", "a": "Zidul Berlinului a fost simbolul diviz\u0103rii \u00eentre 1961 \u0219i 1989."},
+        {"q": "Unde \u00ee\u0219i are sediul parlamentul german \u00een Berlin?", "a": "Bundestagul german \u00ee\u0219i desf\u0103\u0219oar\u0103 activitatea \u00een cl\u0103direa Reichstag."},
+        {"q": "Care este cea mai faimoas\u0103 poart\u0103 din Berlin?", "a": "Poarta Brandenburg este cel mai cunoscut simbol."}
+      ],
+      "en": [
+        {"q": "Is Berlin a federal state?", "a": "Yes, Berlin is a city-state and also the capital of Germany."},
+        {"q": "Which structure symbolized the division of Berlin?", "a": "The Berlin Wall was the symbol of division between 1961 and 1989."},
+        {"q": "Where does the German parliament meet in Berlin?", "a": "The German Bundestag meets in the Reichstag building."},
+        {"q": "What is Berlin's most famous gate?", "a": "The Brandenburg Gate is the most famous landmark."}
+      ]
+    }
+  },
+  {
+    "id": "DE-BB",
+    "faq": {
+      "de": [
+        {"q": "Welches Bundesland umschlie\u00dft Berlin?", "a": "Brandenburg umschlie\u00dft die Hauptstadt Berlin vollst\u00e4ndig."},
+        {"q": "Wie hei\u00dft die Landeshauptstadt von Brandenburg?", "a": "Die Landeshauptstadt ist Potsdam."},
+        {"q": "Welches UNESCO-Welterbe liegt in Potsdam?", "a": "Die Schl\u00f6sser und G\u00e4rten von Sanssouci sind weltber\u00fchmt."},
+        {"q": "Was ist der Spreewald?", "a": "Eine einzigartige Lagunenlandschaft mit Kan\u00e4len im S\u00fcdosten Brandenburgs."}
+      ],
+      "hu": [
+        {"q": "Melyik tartom\u00e1ny \u00f6leli k\u00f6r\u00fcl Berlint?", "a": "Brandenburg tartom\u00e1ny teljesen k\u00f6rbeveszi Berlint."},
+        {"q": "Mi Brandenburg f\u0151v\u00e1rosa?", "a": "A tartom\u00e1ny f\u0151v\u00e1rosa Potsdam."},
+        {"q": "Melyik UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9g tal\u00e1lhat\u00f3 Potsdamban?", "a": "A Sanssouci kast\u00e9lyai \u00e9s parkjai vil\u00e1gh\u00edr\u0171ek."},
+        {"q": "Mi az a Spreewald?", "a": "Egy egyed\u00fcl\u00e1ll\u00f3, csatorn\u00e1kkal teli lag\u00fanavid\u00e9k Brandenburg d\u00e9lkeleti r\u00e9sz\u00e9n."}
+      ],
+      "ro": [
+        {"q": "Ce land \u00eenconjoar\u0103 Berlinul?", "a": "Brandenburg \u00eenconjoar\u0103 complet capitala Berlin."},
+        {"q": "Care este capitala landului Brandenburg?", "a": "Capitala landului este Potsdam."},
+        {"q": "Ce sit UNESCO se afl\u0103 \u00een Potsdam?", "a": "Palatele \u0219i gr\u0103dinile Sanssouci sunt renumite \u00een \u00eentreaga lume."},
+        {"q": "Ce este Spreewald?", "a": "Un peisaj unic de lagun\u0103 cu canale \u00een sud-estul Brandenburgului."}
+      ],
+      "en": [
+        {"q": "Which state surrounds Berlin?", "a": "Brandenburg completely surrounds the capital Berlin."},
+        {"q": "What is the capital of Brandenburg?", "a": "The state capital is Potsdam."},
+        {"q": "Which UNESCO World Heritage site is in Potsdam?", "a": "The palaces and gardens of Sanssouci are world-famous."},
+        {"q": "What is the Spreewald?", "a": "A unique lagoon landscape with canals in southeastern Brandenburg."}
+      ]
+    }
+  },
+  {
+    "id": "city-berlin",
+    "faq": {
+      "de": [
+        {"q": "Wann wurde Berlin erstmals erw\u00e4hnt?", "a": "Berlin (als C\u00f6lln) wurde 1237 erstmals urkundlich erw\u00e4hnt."},
+        {"q": "Was ist das h\u00f6chste Geb\u00e4ude in Berlin?", "a": "Der Berliner Fernsehturm am Alexanderplatz ist mit 368 m das h\u00f6chste Geb\u00e4ude."},
+        {"q": "Warum ist die Museumsinsel so bekannt?", "a": "Sie beherbergt f\u00fcnf weltber\u00fchmte Museen und ist UNESCO-Welterbe."},
+        {"q": "Wie hie\u00df der bekannte Checkpoint an der Mauer?", "a": "Checkpoint Charlie war der bekannteste milit\u00e4rische Kontrollpunkt."}
+      ],
+      "hu": [
+        {"q": "Mikor eml\u00edtett\u00e9k el\u0151sz\u00f6r Berlint?", "a": "Berlint (C\u00f6lln n\u00e9ven) 1237-ben eml\u00edtett\u00e9k el\u0151sz\u00f6r \u00edr\u00e1sos eml\u00e9kek."},
+        {"q": "Mi Berlin legmagasabb \u00e9p\u00fclete?", "a": "Az Alexanderplatzon l\u00e9v\u0151 t\u00e9v\u00e9torony 368 m\u00e9terrel a legmagasabb."},
+        {"q": "Mi\u00e9rt olyan h\u00edres a M\u00fazeum-sziget?", "a": "Otthont ad \u00f6t vil\u00e1gh\u00edr\u0171 m\u00fazeumnak \u00e9s UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9g."},
+        {"q": "Hogy h\u00edvt\u00e1k a fal legismertebb ellen\u0151rz\u0151pontj\u00e1t?", "a": "Checkpoint Charlie volt a legismertebb katonai ellen\u0151rz\u0151pont."}
+      ],
+      "ro": [
+        {"q": "C\u00e2nd a fost men\u021bionat Berlinul pentru prima dat\u0103?", "a": "Berlin (sub numele de C\u00f6lln) a fost men\u021bionat documentar \u00een 1237."},
+        {"q": "Care este cea mai \u00eenalt\u0103 cl\u0103dire din Berlin?", "a": "Turnul TV din Alexanderplatz este cea mai \u00eenalt\u0103 cl\u0103dire, av\u00e2nd 368 m."},
+        {"q": "De ce este faimoas\u0103 Insula Muzeelor?", "a": "G\u0103zduie\u0219te cinci muzee de renume mondial \u0219i este patrimoniu UNESCO."},
+        {"q": "Cum se numea faimosul punct de control de la Zid?", "a": "Checkpoint Charlie a fost cel mai cunoscut punct de control militar."}
+      ],
+      "en": [
+        {"q": "When was Berlin first mentioned?", "a": "Berlin (as C\u00f6lln) was first documented in 1237."},
+        {"q": "What is the tallest building in Berlin?", "a": "The Berlin TV Tower at Alexanderplatz is the tallest building at 368 m."},
+        {"q": "Why is Museum Island so famous?", "a": "It houses five world-renowned museums and is a UNESCO World Heritage site."},
+        {"q": "What was the name of the famous checkpoint at the Wall?", "a": "Checkpoint Charlie was the most famous military control point."}
+      ]
+    }
+  },
+  {
+    "id": "city-muenchen",
+    "faq": {
+      "de": [
+        {"q": "Welcher Fluss flie\u00dft durch M\u00fcnchen?", "a": "Die Isar flie\u00dft durch die bayerische Landeshauptstadt."},
+        {"q": "Was ist der Marienplatz?", "a": "Der zentrale Platz in der Altstadt mit dem Neuen Rathaus."},
+        {"q": "Wo findet das Oktoberfest statt?", "a": "Auf der Theresienwiese in M\u00fcnchen."},
+        {"q": "Welche ber\u00fchmte Parkanlage gibt es in M\u00fcnchen?", "a": "Der Englische Garten ist einer der gr\u00f6\u00dften Stadtparks der Welt."}
+      ],
+      "hu": [
+        {"q": "Melyik foly\u00f3 folyik kereszt\u00fcl M\u00fcnchenen?", "a": "Az Isar folyik \u00e1t a bajor f\u0151v\u00e1roson."},
+        {"q": "Mi az a Marienplatz?", "a": "Az \u00f3v\u00e1ros k\u00f6zponti tere az \u00faj v\u00e1rosh\u00e1z\u00e1val."},
+        {"q": "Hol rendezik meg az Oktoberfustet?", "a": "A m\u00fcncheni Theresienwiese ter\u00fclet\u00e9n."},
+        {"q": "Melyik h\u00edres park tal\u00e1lhat\u00f3 M\u00fcnchenben?", "a": "Az Englischer Garten a vil\u00e1g egyik legnagyobb v\u00e1rosi parkja."}
+      ],
+      "ro": [
+        {"q": "Ce r\u00e2u traverseaz\u0103 M\u00fcnchenul?", "a": "Isar traverseaz\u0103 capitala landului Bavaria."},
+        {"q": "Ce este Marienplatz?", "a": "Pia\u021ba central\u0103 din centrul vechi, unde se afl\u0103 Noua Prim\u0103rie."},
+        {"q": "Unde are loc Oktoberfest?", "a": "\u00cen pia\u021ba Theresienwiese din M\u00fcnchen."},
+        {"q": "Ce parc faimos exist\u0103 \u00een M\u00fcnchen?", "a": "Englischer Garten este unul dintre cele mai mari parcuri urbane din lume."}
+      ],
+      "en": [
+        {"q": "Which river flows through Munich?", "a": "The Isar flows through the Bavarian state capital."},
+        {"q": "What is Marienplatz?", "a": "The central square in the Old Town with the New Town Hall."},
+        {"q": "Where does the Oktoberfest take place?", "a": "On the Theresienwiese in Munich."},
+        {"q": "Which famous park is in Munich?", "a": "The English Garden is one of the largest city parks in the world."}
+      ]
+    }
+  },
+  {
+    "id": "city-stuttgart",
+    "faq": {
+      "de": [
+        {"q": "Welche Automarken kommen aus Stuttgart?", "a": "Mercedes-Benz und Porsche haben hier ihren Ursprung."},
+        {"q": "Was ist die Wilhelma?", "a": "Ein bekannter zoologisch-botanischer Garten in Stuttgart."},
+        {"q": "Wie liegt Stuttgart geografisch?", "a": "Stuttgart liegt in einem Talkessel, umgeben von H\u00fcgeln."},
+        {"q": "Was ist der Cannstatter Wasen?", "a": "Ein gro\u00dfes Volksfest in Stuttgart, \u00e4hnlich dem Oktoberfest."}
+      ],
+      "hu": [
+        {"q": "Mely aut\u00f3m\u00e1rk\u00e1k sz\u00e1rmaznak Stuttgartb\u00f3l?", "a": "A Mercedes-Benz \u00e9s a Porsche is innen ered."},
+        {"q": "Mi az a Wilhelma?", "a": "Egy h\u00edres \u00e1llat- \u00e9s botanikus kert Stuttgartban."},
+        {"q": "Milyen Stuttgart f\u00f6ldrajzi fekv\u00e9se?", "a": "Stuttgart egy v\u00f6lgymedenc\u00e9ben fekszik, dombokkal k\u00f6rbev\u00e9ve."},
+        {"q": "Mi az a Cannstatter Wasen?", "a": "Egy nagy n\u00e9p\u00fcnnep\u00e9ly Stuttgartban, hasonl\u00f3 az Oktoberfesthez."}
+      ],
+      "ro": [
+        {"q": "Ce m\u0103rci auto provin din Stuttgart?", "a": "Mercedes-Benz \u0219i Porsche \u00ee\u0219i au originile aici."},
+        {"q": "Ce este Wilhelma?", "a": "O gr\u0103din\u0103 zoologic\u0103 \u0219i botanic\u0103 faimoas\u0103 din Stuttgart."},
+        {"q": "Care este a\u0219ezarea geografic\u0103 a Stuttgartului?", "a": "Stuttgart este situat \u00eentr-o vale \u00eenconjurat\u0103 de dealuri."},
+        {"q": "Ce este Cannstatter Wasen?", "a": "Un mare festival popular \u00een Stuttgart, similar cu Oktoberfest."}
+      ],
+      "en": [
+        {"q": "Which car brands come from Stuttgart?", "a": "Mercedes-Benz and Porsche originated here."},
+        {"q": "What is the Wilhelma?", "a": "A famous zoological-botanical garden in Stuttgart."},
+        {"q": "How is Stuttgart located geographically?", "a": "Stuttgart is located in a valley basin, surrounded by hills."},
+        {"q": "What is the Cannstatter Wasen?", "a": "A large folk festival in Stuttgart, similar to the Oktoberfest."}
+      ]
+    }
+  },
+  {
+    "id": "city-duesseldorf",
+    "faq": {
+      "de": [
+        {"q": "Wof\u00fcr ist die K\u00f6nigsallee bekannt?", "a": "Sie ist eine der exklusivsten Einkaufsstra\u00dfen Deutschlands."},
+        {"q": "Was ist die 'l\u00e4ngste Theke der Welt'?", "a": "So wird die D\u00fcsseldorfer Altstadt wegen ihrer vielen Kneipen genannt."},
+        {"q": "An welchem Fluss liegt D\u00fcsseldorf?", "a": "D\u00fcsseldorf liegt am Rhein."},
+        {"q": "Welche gro\u00dfe Gemeinde lebt in D\u00fcsseldorf?", "a": "D\u00fcsseldorf hat die gr\u00f6\u00dfte japanische Gemeinde in Deutschland."}
+      ],
+      "hu": [
+        {"q": "Mir\u0151l nevezetes a K\u00f6nigsallee?", "a": "N\u00e9metorsz\u00e1g egyik legexkluz\u00edvabb bev\u00e1s\u00e1rl\u00f3utc\u00e1ja."},
+        {"q": "Mi az a 'vil\u00e1g leghosszabb s\u00f6nt\u00e9se'?", "a": "A d\u00fcsseldorfi \u00f3v\u00e1rost h\u00edvj\u00e1k \u00edgy a rengeteg kocsma miatt."},
+        {"q": "Melyik foly\u00f3 partj\u00e1n fekszik D\u00fcsseldorf?", "a": "D\u00fcsseldorf a Rajna partj\u00e1n fekszik."},
+        {"q": "Melyik nagy k\u00f6z\u00f6ss\u00e9g \u00e9l D\u00fcsseldorfban?", "a": "Itt tal\u00e1lhat\u00f3 N\u00e9metorsz\u00e1g legnagyobb jap\u00e1n k\u00f6z\u00f6ss\u00e9ge."}
+      ],
+      "ro": [
+        {"q": "Pentru ce este cunoscut\u0103 K\u00f6nigsallee?", "a": "Este una dintre cele mai exclusiviste str\u0103zi comerciale din Germania."},
+        {"q": "Ce este 'cel mai lung bar din lume'?", "a": "A\u0219a este numit centrul vechi din D\u00fcsseldorf datorit\u0103 multelor pub-uri."},
+        {"q": "Pe ce r\u00e2u se afl\u0103 D\u00fcsseldorf?", "a": "D\u00fcsseldorf este situat pe Rin."},
+        {"q": "Ce comunitate mare tr\u0103ie\u0219te \u00een D\u00fcsseldorf?", "a": "D\u00fcsseldorf are cea mai mare comunitate japonez\u0103 din Germania."}
+      ],
+      "en": [
+        {"q": "What is the Königsallee known for?", "a": "It is one of the most exclusive shopping streets in Germany."},
+        {"q": "What is the 'longest bar in the world'?", "a": "That's what Dusseldorf's Old Town is called because of its many pubs."},
+        {"q": "On which river is Dusseldorf located?", "a": "Dusseldorf is located on the Rhine."},
+        {"q": "Which large community lives in Dusseldorf?", "a": "Dusseldorf has the largest Japanese community in Germany."}
+      ]
+    }
+  },
+  {
+    "id": "city-hamburg",
+    "faq": {
+      "de": [
+        {"q": "Wie wird Hamburg oft genannt?", "a": "Hamburg wird oft als das 'Tor zur Welt' bezeichnet."},
+        {"q": "Was ist die Speicherstadt?", "a": "Der weltweit gr\u00f6\u00dfte historische Lagerhauskomplex."},
+        {"q": "Wie hei\u00dft das moderne Wahrzeichen im Hafen?", "a": "Das moderne Wahrzeichen ist die Elbphilharmonie."},
+        {"q": "Was ist die Reeperbahn?", "a": "Das bekannteste Vergn\u00fcgungs- und Rotlichtviertel Hamburgs."}
+      ],
+      "hu": [
+        {"q": "Hogyan nevezik gyakran Hamburgot?", "a": "Hamburgot gyakran a 'vil\u00e1g kapuj\u00e1nak' h\u00edvj\u00e1k."},
+        {"q": "Mi az a Speicherstadt?", "a": "A vil\u00e1g legnagyobb t\u00f6rt\u00e9nelmi rakt\u00e1r\u00e9p\u00fclet-komplexuma."},
+        {"q": "Mi a kik\u00f6t\u0151 modern jelk\u00e9pe?", "a": "A v\u00e1ros modern jelk\u00e9pe az Elbphilharmonie."},
+        {"q": "Mi az a Reeperbahn?", "a": "Hamburg legismertebb sz\u00f3rakoztat\u00f3 \u00e9s vigalmi negyede."}
+      ],
+      "ro": [
+        {"q": "Cum este numit adesea Hamburgul?", "a": "Hamburg este adesea supranumit 'Poarta c\u0103tre lume'."},
+        {"q": "Ce este Speicherstadt?", "a": "Cel mai mare complex istoric de depozite din lume."},
+        {"q": "Cum se nume\u0219te simbolul modern din port?", "a": "Simbolul modern este Filarmonica de pe Elba (Elbphilharmonie)."},
+        {"q": "Ce este Reeperbahn?", "a": "Cel mai cunoscut cartier de divertisment din Hamburg."}
+      ],
+      "en": [
+        {"q": "What is Hamburg often called?", "a": "Hamburg is often referred to as the 'Gateway to the World'."},
+        {"q": "What is the Speicherstadt?", "a": "The world's largest historical warehouse complex."},
+        {"q": "What is the modern landmark in the harbor?", "a": "The modern landmark is the Elbphilharmonie."},
+        {"q": "What is the Reeperbahn?", "a": "Hamburg's most famous entertainment and red-light district."}
+      ]
+    }
+  },
+  {
+    "id": "city-hannover",
+    "faq": {
+      "de": [
+        {"q": "Wof\u00fcr ist Hannover weltweit bekannt?", "a": "Hannover ist eine f\u00fchrende internationale Messestadt."},
+        {"q": "Was sind die Herrenh\u00e4user G\u00e4rten?", "a": "Ein bedeutendes Ensemble barocker Gartenkunst."},
+        {"q": "Welche Verbindung hat Hannover zum britischen K\u00f6nigshaus?", "a": "Es gab \u00fcber 100 Jahre lang eine Personalunion (Welfenhaus)."},
+        {"q": "Was ist die Eilenriede?", "a": "Ein riesiger Stadtwald mitten in Hannover."}
+      ],
+      "hu": [
+        {"q": "Mir\u0151l vil\u00e1gh\u00edres Hannover?", "a": "Hannover vezet\u0151 nemzetk\u00f6zi v\u00e1s\u00e1rv\u00e1ros."},
+        {"q": "Mik azok a Herrenhausen-kertek?", "a": "A barokk kertm\u0171v\u00e9szet egyik legjelent\u0151sebb alkot\u00e1sa."},
+        {"q": "Milyen kapcsolata van Hannovernek a brit kir\u00e1lyi csal\u00e1ddal?", "a": "T\u00f6bb mint 100 \u00e9ven \u00e1t perszon\u00e1luni\u00f3 \u00e1llt fenn a k\u00e9t orsz\u00e1g k\u00f6z\u00f6tt."},
+        {"q": "Mi az az Eilenriede?", "a": "Egy hatalmas v\u00e1rosi erd\u0151 Hannover sz\u00edv\u00e9ben."}
+      ],
+      "ro": [
+        {"q": "Pentru ce este cunoscut Hanovra \u00een lume?", "a": "Hanovra este un ora\u0219 de top pentru t\u00e2rguri interna\u021bionale."},
+        {"q": "Ce sunt Gr\u0103dinile Herrenhausen?", "a": "Un ansamblu important de art\u0103 peisagistic\u0103 baroc\u0103."},
+        {"q": "Ce leg\u0103tur\u0103 are Hanovra cu familia regal\u0103 britanic\u0103?", "a": "A existat o uniune personal\u0103 timp de peste 100 de ani."},
+        {"q": "Ce este Eilenriede?", "a": "O p\u0103dure urban\u0103 uria\u0219\u0103 \u00een mijlocul Hanovrei."}
+      ],
+      "en": [
+        {"q": "What is Hanover world-famous for?", "a": "Hanover is a leading international trade fair city."},
+        {"q": "What are the Herrenhausen Gardens?", "a": "A significant ensemble of baroque garden art."},
+        {"q": "What connection does Hanover have with the British Royal Family?", "a": "There was a personal union for over 100 years."},
+        {"q": "What is the Eilenriede?", "a": "A huge city forest in the middle of Hanover."}
+      ]
+    }
+  },
+  {
+    "id": "city-wiesbaden",
+    "faq": {
+      "de": [
+        {"q": "Warum wird Wiesbaden 'Nizza des Nordens' genannt?", "a": "Wegen seines milden Klimas und der prachtvollen Architektur."},
+        {"q": "Wof\u00fcr ist Wiesbaden seit der R\u00f6merzeit bekannt?", "a": "F\u00fcr seine zahlreichen hei\u00dfen Thermalquellen."},
+        {"q": "Welche Beh\u00f6rde hat ihren Sitz in Wiesbaden?", "a": "Das Bundeskriminalamt (BKA) hat hier seinen Hauptsitz."},
+        {"q": "Was ist das Kurhaus?", "a": "Ein pr\u00e4chtiges Geb\u00e4ude, das auch eine Spielbank beherbergt."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt nevezik Wiesbadent '\u00c9szak Nizz\u00e1j\u00e1nak'?", "a": "Enyhe kl\u00edm\u00e1ja \u00e9s pomp\u00e1s \u00e9p\u00edt\u00e9szete miatt."},
+        {"q": "Mir\u0151l h\u00edres Wiesbaden a r\u00f3mai kor \u00f3ta?", "a": "Sz\u00e1mos forr\u00f3 term\u00e1lforr\u00e1s\u00e1r\u00f3l."},
+        {"q": "Melyik hat\u00f3s\u00e1g sz\u00e9khelye van Wiesbadenben?", "a": "A Sz\u00f6vets\u00e9gi B\u0171n\u00fcgyi Hivatal (BKA) k\u00f6zpontja itt tal\u00e1lhat\u00f3."},
+        {"q": "Mi az a Kurhaus?", "a": "Egy pomp\u00e1s \u00e9p\u00fclet, amely kaszin\u00f3nak is otthont ad."}
+      ],
+      "ro": [
+        {"q": "De ce este Wiesbaden numit 'Nisa Nordului'?", "a": "Datorit\u0103 climei bl\u00e2nde \u0219i arhitecturii splendide."},
+        {"q": "Pentru ce este faimos Wiesbaden \u00eenc\u0103 din epoca roman\u0103?", "a": "Pentru numeroasele sale izvoare termale fierbin\u021bi."},
+        {"q": "Ce institu\u021bie \u00ee\u0219i are sediul \u00een Wiesbaden?", "a": "Oficiul Federal de Investiga\u021bii Criminale (BKA) are sediul aici."},
+        {"q": "Ce este Kurhaus?", "a": "O cl\u0103dire magnific\u0103 ce g\u0103zduie\u0219te \u0219i un cazinou."}
+      ],
+      "en": [
+        {"q": "Why is Wiesbaden called 'Nice of the North'?", "a": "Because of its mild climate and magnificent architecture."},
+        {"q": "What has Wiesbaden been famous for since Roman times?", "a": "For its numerous hot thermal springs."},
+        {"q": "Which authority is based in Wiesbaden?", "a": "The Federal Criminal Police Office (BKA) is headquartered here."},
+        {"q": "What is the Kurhaus?", "a": "A magnificent building that also houses a casino."}
+      ]
+    }
+  },
+  {
+    "id": "city-mainz",
+    "faq": {
+      "de": [
+        {"q": "Wer ist der ber\u00fchmteste Sohn der Stadt Mainz?", "a": "Johannes Gutenberg, der Erfinder des Buchdrucks."},
+        {"q": "Was ist das Mainzer Fastnacht?", "a": "Einer der traditionsreichsten Karnevals-Umz\u00fcge in Deutschland."},
+        {"q": "Welcher bedeutende Dom steht in Mainz?", "a": "Der \u00fcber 1000 Jahre alte Mainzer Dom St. Martin."},
+        {"q": "Welcher Fernsehsender hat seinen Sitz in Mainz?", "a": "Das Zweite Deutsche Fernsehen (ZDF) sitzt in Mainz."}
+      ],
+      "hu": [
+        {"q": "Ki a v\u00e1ros legh\u00edresebb sz\u00fcl\u00f6tte?", "a": "Johannes Gutenberg, a k\u00f6nyvnyomtat\u00e1s feltal\u00e1l\u00f3ja."},
+        {"q": "Mi a mainzi Fastnacht?", "a": "N\u00e9metorsz\u00e1g egyik leghagyom\u00e1nyosabb karnev\u00e1li felvonul\u00e1sa."},
+        {"q": "Melyik jelent\u0151s d\u00f3m \u00e1ll Mainzban?", "a": "A t\u00f6bb mint 1000 \u00e9ves Szent Márton-d\u00f3m."},
+        {"q": "Melyik telev\u00edzi\u00f3csatorna sz\u00e9khelye van Mainzban?", "a": "A ZDF (Zweites Deutsches Fernsehen) sz\u00e9khelye itt tal\u00e1lhat\u00f3."}
+      ],
+      "ro": [
+        {"q": "Cine este cel mai faimos fiu al ora\u0219ului Mainz?", "a": "Johannes Gutenberg, inventatorul tiparului."},
+        {"q": "Ce este Carnavalul din Mainz (Fastnacht)?", "a": "Unul dintre cele mai tradi\u021bionale carnavaluri din Germania."},
+        {"q": "Ce catedral\u0103 important\u0103 se afl\u0103 \u00een Mainz?", "a": "Catedrala din Mainz, veche de peste 1000 de ani."},
+        {"q": "Ce post de televiziune are sediul \u00een Mainz?", "a": "ZDF (Zweites Deutsches Fernsehen) are sediul \u00een Mainz."}
+      ],
+      "en": [
+        {"q": "Who is the most famous son of the city of Mainz?", "a": "Johannes Gutenberg, the inventor of the printing press."},
+        {"q": "What is the Mainz Fastnacht?", "a": "One of the most traditional carnival celebrations in Germany."},
+        {"q": "Which significant cathedral is in Mainz?", "a": "The over 1,000-year-old Mainz Cathedral of St. Martin."},
+        {"q": "Which TV station is based in Mainz?", "a": "ZDF (Zweites Deutsches Fernsehen) is located in Mainz."}
+      ]
+    }
+  },
+  {
+    "id": "city-saarbruecken",
+    "faq": {
+      "de": [
+        {"q": "Wo liegt Saarbr\u00fccken?", "a": "Direkt an der Grenze zu Frankreich im Bundesland Saarland."},
+        {"q": "Wer pr\u00e4gte das barocke Stadtbild?", "a": "Der Baumeister Friedrich Joachim Stengel."},
+        {"q": "Was ist die Ludwigskirche?", "a": "Eine der bedeutendsten evangelischen Barockkirchen Deutschlands."},
+        {"q": "Welcher Fluss flie\u00dft durch die Stadt?", "a": "Die Saar flie\u00dft mitten durch Saarbr\u00fccken."}
+      ],
+      "hu": [
+        {"q": "Hol fekszik Saarbr\u00fccken?", "a": "K\u00f6zvetlen\u00fcl a francia hat\u00e1ron, Saar-vid\u00e9k tartom\u00e1nyban."},
+        {"q": "Ki hat\u00e1rozta meg a v\u00e1ros barokk arculat\u00e1t?", "a": "Friedrich Joachim Stengel \u00e9p\u00edt\u0151mester."},
+        {"q": "Mi az a Ludwigskirche?", "a": "N\u00e9metorsz\u00e1g egyik legjelent\u0151sebb evang\u00e9likus barokk temploma."},
+        {"q": "Melyik foly\u00f3 folyik \u00e1t a v\u00e1roson?", "a": "A Saar foly\u00f3 szeli \u00e1t Saarbr\u00fcckent."}
+      ],
+      "ro": [
+        {"q": "Unde se afl\u0103 Saarbr\u00fccken?", "a": "Chiar la grani\u021ba cu Fran\u021ba, \u00een landul Saarland."},
+        {"q": "Cine a modelat arhitectura baroc\u0103 a ora\u0219ului?", "a": "Arhitectul Friedrich Joachim Stengel."},
+        {"q": "Ce este Ludwigskirche?", "a": "Una dintre cele mai importante biserici baroce protestante din Germania."},
+        {"q": "Ce r\u00e2u traverseaz\u0103 ora\u0219ul?", "a": "R\u00e2ul Saar traverseaz\u0103 mijlocul ora\u0219ului Saarbr\u00fccken."}
+      ],
+      "en": [
+        {"q": "Where is Saarbrucken located?", "a": "Right on the border with France in the state of Saarland."},
+        {"q": "Who shaped the city's baroque appearance?", "a": "The architect Friedrich Joachim Stengel."},
+        {"q": "What is the Ludwigskirche?", "a": "One of the most important Protestant baroque churches in Germany."},
+        {"q": "Which river flows through the city?", "a": "The Saar river flows through the center of Saarbrucken."}
+      ]
+    }
+  },
+  {
+    "id": "city-bremen",
+    "faq": {
+      "de": [
+        {"q": "Welches M\u00e4rchen machte Bremen weltweit bekannt?", "a": "Die Bremer Stadtmusikanten der Br\u00fcder Grimm."},
+        {"q": "Was ist das UNESCO-Welterbe in Bremen?", "a": "Das historische Rathaus und der Roland auf dem Marktplatz."},
+        {"q": "Welcher Fluss flie\u00dft durch Bremen?", "a": "Die Weser ist der Hauptfluss der Hansestadt."},
+        {"q": "Was ist der Schnoor?", "a": "Das \u00e4lteste Stadtviertel mit engen Gassen und kleinen H\u00e4usern."}
+      ],
+      "hu": [
+        {"q": "Melyik mese tette Br\u00e9m\u00e1t vil\u00e1gh\u00edress\u00e9?", "a": "A Grimm testv\u00e9rek Br\u00e9mai muzsikusok c\u00edm\u0171 mes\u00e9je."},
+        {"q": "Mi sz\u00e1m\u00edt UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9gnek Br\u00e9m\u00e1ban?", "a": "A t\u00f6rt\u00e9nelmi v\u00e1rosh\u00e1za \u00e9s a f\u0151t\u00e9ren \u00e1ll\u00f3 Roland-szobor."},
+        {"q": "Melyik foly\u00f3 folyik \u00e1t Br\u00e9m\u00e1n?", "a": "A Weser a hanzav\u00e1ros f\u0151 foly\u00f3ja."},
+        {"q": "Mi az a Schnoor?", "a": "A v\u00e1ros legr\u00e9gebbi negyede sz\u0171k utc\u00e1kkal \u00e9s apr\u00f3 h\u00e1zakkal."}
+      ],
+      "ro": [
+        {"q": "Ce poveste a f\u0103cut Bremenul faimos \u00een lume?", "a": "Muzican\u021bii din Bremen de fra\u021bii Grimm."},
+        {"q": "Ce face parte din patrimoniul UNESCO \u00een Bremen?", "a": "Prim\u0103ria istoric\u0103 \u0219i statuia Roland din pia\u021ba central\u0103."},
+        {"q": "Ce r\u00e2u traverseaz\u0103 Bremenul?", "a": "Weser este principalul r\u00e2u al ora\u0219ului hanseatic."},
+        {"q": "Ce este Schnoor?", "a": "Cel mai vechi cartier al ora\u0219ului, cu str\u0103zi \u00eenguste \u0219i case mici."}
+      ],
+      "en": [
+        {"q": "Which fairy tale made Bremen world-famous?", "a": "The Town Musicians of Bremen by the Brothers Grimm."},
+        {"q": "What is the UNESCO World Heritage site in Bremen?", "a": "The historic Town Hall and the Roland statue on the market square."},
+        {"q": "Which river flows through Bremen?", "a": "The Weser is the main river of the Hanseatic city."},
+        {"q": "What is the Schnoor?", "a": "The oldest district with narrow alleys and tiny houses."}
+      ]
+    }
+  },
+  {
+    "id": "city-kiel",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Kieler Woche?", "a": "Das gr\u00f6\u00dfte Segelsportereignis der Welt."},
+        {"q": "Wo beginnt der Nord-Ostsee-Kanal?", "a": "Der Kanal beginnt im Kieler Stadtteil Holtenau."},
+        {"q": "An welchem Meer liegt Kiel?", "a": "Kiel liegt direkt an der Ostsee."},
+        {"q": "Welche Bedeutung hat der Hafen in Kiel?", "a": "Er ist ein wichtiger F\u00e4hrhafen nach Skandinavien."}
+      ],
+      "hu": [
+        {"q": "Mi az a Kieler Woche?", "a": "A vil\u00e1g legnagyobb vitorl\u00e1s sportesem\u00e9nye."},
+        {"q": "Hol kezd\u0151dik a Nord-Ostsee-csatorna?", "a": "A csatorna Kiel Holtenau negyed\u00e9n\u00e9l kezd\u0151dik."},
+        {"q": "Melyik tenger partj\u00e1n fekszik Kiel?", "a": "Kiel k\u00f6zvetlen\u00fcl a Balti-tenger partj\u00e1n fekszik."},
+        {"q": "Milyen jelent\u0151s\u00e9ge van a kieli kik\u00f6t\u0151nek?", "a": "Fontos kompkik\u00f6t\u0151 Skandin\u00e1via fel\u00e9."}
+      ],
+      "ro": [
+        {"q": "Ce este S\u0103pt\u0103m\u00e2na Kiel (Kieler Woche)?", "a": "Cel mai mare eveniment de naviga\u021bie cu p\u00e2nze din lume."},
+        {"q": "Unde \u00eencepe Canalul Kiel?", "a": "Canalul \u00eencepe \u00een districtul Holtenau din Kiel."},
+        {"q": "La ce mare se afl\u0103 Kiel?", "a": "Kiel este situat direct pe malul M\u0103rii Baltice."},
+        {"q": "Ce importan\u021b\u0103 are portul din Kiel?", "a": "Este un port de feribot important c\u0103tre Scandinavia."}
+      ],
+      "en": [
+        {"q": "What is Kiel Week?", "a": "The world's largest sailing event."},
+        {"q": "Where does the Kiel Canal start?", "a": "The canal begins in the Holtenau district of Kiel."},
+        {"q": "On which sea is Kiel located?", "a": "Kiel is located directly on the Baltic Sea."},
+        {"q": "What is the importance of the port in Kiel?", "a": "It is a major ferry port to Scandinavia."}
+      ]
+    }
+  },
+  {
+    "id": "city-schwerin",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Wahrzeichen von Schwerin?", "a": "Das Schweriner Schloss auf einer Insel im See."},
+        {"q": "Wie viele Seen gibt es in Schwerin?", "a": "Schwerin wird oft als 'Stadt der sieben Seen' bezeichnet."},
+        {"q": "Ist Schwerin eine gro\u00dfe Stadt?", "a": "Es ist die kleinste Landeshauptstadt Deutschlands nach Einwohnern."},
+        {"q": "Was kann man im Schloss besichtigen?", "a": "Den Thronsaal, die Prunkr\u00e4ume und das Schlossmuseum."}
+      ],
+      "hu": [
+        {"q": "Mi Schwerin legismertebb jelk\u00e9pe?", "a": "A Schwerini-t\u00f3 sziget\u00e9n \u00e1ll\u00f3 kast\u00e9ly."},
+        {"q": "H\u00e1ny t\u00f3 tal\u00e1lhat\u00f3 Schwerinben?", "a": "Schwerint gyakran a 'h\u00e9t t\u00f3 v\u00e1ros\u00e1nak' nevezik."},
+        {"q": "Mekkora v\u00e1ros Schwerin?", "a": "N\u00e9metorsz\u00e1g legkisebb lakoss\u00e1g\u00fa tartom\u00e1nyi f\u0151v\u00e1rosa."},
+        {"q": "Mit lehet megn\u00e9zni a kast\u00e9lyban?", "a": "A tr\u00f3ntermet, a d\u00edsztermeket \u00e9s a kast\u00e9lym\u00fazeumot."}
+      ],
+      "ro": [
+        {"q": "Care este simbolul ora\u0219ului Schwerin?", "a": "Castelul Schwerin, situat pe o insul\u0103 \u00een lac."},
+        {"q": "C\u00e2te lacuri sunt \u00een Schwerin?", "a": "Schwerin este adesea numit 'Ora\u0219ul celor \u0219apte lacuri'."},
+        {"q": "Este Schwerin un ora\u0219 mare?", "a": "Este cea mai mic\u0103 capital\u0103 de land din Germania ca num\u0103r de locuitori."},
+        {"q": "Ce se poate vizita \u00een castel?", "a": "Sala tronului, camerele de stat \u0219i muzeul castelului."}
+      ],
+      "en": [
+        {"q": "What is the landmark of Schwerin?", "a": "Schwerin Castle on an island in the lake."},
+        {"q": "How many lakes are in Schwerin?", "a": "Schwerin is often called the 'City of Seven Lakes'."},
+        {"q": "Is Schwerin a large city?", "a": "It is the smallest state capital in Germany by population."},
+        {"q": "What can you visit in the castle?", "a": "The throne room, the state rooms, and the castle museum."}
+      ]
+    }
+  },
+  {
+    "id": "city-potsdam",
+    "faq": {
+      "de": [
+        {"q": "Wer lie\u00df Schloss Sanssouci bauen?", "a": "K\u00f6nig Friedrich der Gro\u00dfe."},
+        {"q": "Was bedeutet der Name 'Sanssouci'?", "a": "Er kommt aus dem Franz\u00f6sischen und bedeutet 'ohne Sorge'."},
+        {"q": "Warum ist Potsdam f\u00fcr die Filmgeschichte wichtig?", "a": "Wegen des Studio Babelsberg, des \u00e4ltesten Gro\u00dffilmstudios der Welt."},
+        {"q": "Was passierte 1945 im Schloss Cecilienhof?", "a": "Dort fand die Potsdamer Konferenz der Siegerm\u00e4chte statt."}
+      ],
+      "hu": [
+        {"q": "Ki \u00e9p\u00edttette a Sanssouci kast\u00e9lyt?", "a": "Nagy Frigyes kir\u00e1ly."},
+        {"q": "Mit jelent a 'Sanssouci' n\u00e9v?", "a": "Franci\u00e1ul annyit tesz: 'gond n\u00e9lk\u00fcl'."},
+        {"q": "Mi\u00e9rt fontos Potsdam a filmt\u00f6rt\u00e9netben?", "a": "A Studio Babelsberg, a vil\u00e1g legr\u00e9gebbi nagy filmst\u00fadi\u00f3ja miatt."},
+        {"q": "Mi t\u00f6rt\u00e9nt 1945-ben a Cecilienhof kast\u00e9lyban?", "a": "Ott tartott\u00e1k a gy\u0151ztes hatalmak potsdami konferenci\u00e1j\u00e1t."}
+      ],
+      "ro": [
+        {"q": "Cine a construit Palatul Sanssouci?", "a": "Regele Frederic cel Mare."},
+        {"q": "Ce \u00eenseamn\u0103 numele 'Sanssouci'?", "a": "Provine din francez\u0103 \u0219i \u00eenseamn\u0103 'f\u0103r\u0103 griji'."},
+        {"q": "De ce este Potsdam important pentru istoria filmului?", "a": "Datorit\u0103 Studio Babelsberg, cel mai vechi studio de film din lume."},
+        {"q": "Ce s-a \u00eent\u00e2mplat \u00een 1945 la Palatul Cecilienhof?", "a": "Acolo a avut loc Conferin\u021ba de la Potsdam a puterilor victorioase."}
+      ],
+      "en": [
+        {"q": "Who had Sanssouci Palace built?", "a": "King Frederick the Great."},
+        {"q": "What does the name 'Sanssouci' mean?", "a": "It comes from French and means 'without worries'."},
+        {"q": "Why is Potsdam important for film history?", "a": "Because of Studio Babelsberg, the oldest large-scale film studio in the world."},
+        {"q": "What happened in 1945 at Cecilienhof Palace?", "a": "The Potsdam Conference of the victorious powers took place there."}
+      ]
+    }
+  },
+  {
+    "id": "city-magdeburg",
+    "faq": {
+      "de": [
+        {"q": "Welcher Kaiser ist eng mit Magdeburg verbunden?", "a": "Kaiser Otto der Gro\u00dfe lie\u00df hier den Dom errichten."},
+        {"q": "Was ist die 'Gr\u00fcne Zitadelle'?", "a": "Ein farbenfrohes Geb\u00e4ude entworfen von Friedensreich Hundertwasser."},
+        {"q": "An welchem Fluss liegt Magdeburg?", "a": "Magdeburg liegt an der Elbe."},
+        {"q": "Wof\u00fcr war die Stadt im Mittelalter bekannt?", "a": "Sie war eine der wichtigsten Metropolen des Heiligen R\u00f6mischen Reiches."}
+      ],
+      "hu": [
+        {"q": "Melyik cs\u00e1sz\u00e1r k\u00f6t\u0151dik szorosan Magdeburgv\u00e1ros\u00e1hoz?", "a": "Nagy Ott\u00f3 cs\u00e1sz\u00e1r, aki itt \u00e9p\u00edttette fel a d\u00f3mot."},
+        {"q": "Mi az a 'Z\u00f6ld Citadella'?", "a": "Egy sz\u00ednpomp\u00e1s \u00e9p\u00fclet, amelyet Friedensreich Hundertwasser tervezett."},
+        {"q": "Melyik foly\u00f3 partj\u00e1n fekszik Magdeburg?", "a": "Magdeburg az Elba partj\u00e1n fekszik."},
+        {"q": "Mir\u0151l volt h\u00edres a v\u00e1ros a k\u00f6z\u00e9pkorban?", "a": "A N\u00e9met-r\u00f3mai Birodalom egyik legfontosabb metropolisza volt."}
+      ],
+      "ro": [
+        {"q": "Ce \u00eemp\u0103rat este str\u00e2ns legat de Magdeburg?", "a": "\u00cemp\u0103ratul Otto cel Mare a construit aici catedrala."},
+        {"q": "Ce este 'Citadela Verde'?", "a": "O cl\u0103dire colorat\u0103 proiectat\u0103 de Friedensreich Hundertwasser."},
+        {"q": "Pe ce r\u00e2u se afl\u0103 Magdeburg?", "a": "Magdeburg este situat pe Elba."},
+        {"q": "Pentru ce era cunoscut ora\u0219ul \u00een Evul Mediu?", "a": "A fost una dintre cele mai importante metropole ale Sf\u00e2ntului Imperiu Roman."}
+      ],
+      "en": [
+        {"q": "Which emperor is closely connected to Magdeburg?", "a": "Emperor Otto the Great had the cathedral built here."},
+        {"q": "What is the 'Green Citadel'?", "a": "A colorful building designed by Friedensreich Hundertwasser."},
+        {"q": "On which river is Magdeburg located?", "a": "Magdeburg is located on the Elbe."},
+        {"q": "What was the city known for in the Middle Ages?", "a": "It was one of the most important metropolises of the Holy Roman Empire."}
+      ]
+    }
+  },
+  {
+    "id": "city-erfurt",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Kr\u00e4merbr\u00fccke?", "a": "Die l\u00e4ngste mit H\u00e4usern bebaute und bewohnte Br\u00fccke Europas."},
+        {"q": "In welchem Kloster lebte Martin Luther in Erfurt?", "a": "Er lebte als M\u00f6nch im Augustinerkloster."},
+        {"q": "Was ist das Wahrzeichen der Stadt?", "a": "Das Ensemble aus Erfurter Dom und Severikirche."},
+        {"q": "Wodurch wurde Erfurt im Mittelalter reich?", "a": "Durch den Handel mit Waid, einer blauen F\u00e4rberpflanze."}
+      ],
+      "hu": [
+        {"q": "Mi az a Kr\u00e4merbr\u00fccke?", "a": "Eur\u00f3pa leghosszabb, v\u00e9gig h\u00e1zakkal be\u00e9p\u00edtett \u00e9s lakott h\u00eddja."},
+        {"q": "Melyik kolostorban \u00e9lt Luther M\u00e1rton Erfurtban?", "a": "Az \u00c1goston-rendi kolostorban \u00e9lt szerzetesk\u00e9nt."},
+        {"q": "Mi a v\u00e1ros legismertebb jelk\u00e9pe?", "a": "Az Erfurti d\u00f3m \u00e9s a Severi-templom egy\u00fcttese."},
+        {"q": "Mib\u0151l gazdagodott meg Erfurt a k\u00f6z\u00e9pkorban?", "a": "A fest\u0151cs\u00fcllenggel (k\u00e9k fest\u0151n\u00f6v\u00e9ny) val\u00f3 kereskedelemb\u0151l."}
+      ],
+      "ro": [
+        {"q": "Ce este Kr\u00e4merbr\u00fccke?", "a": "Cel mai lung pod locuit \u0219i construit cu case din Europa."},
+        {"q": "\u00cen ce m\u0103n\u0103stire a locuit Martin Luther la Erfurt?", "a": "A locuit ca c\u0103lug\u0103r \u00een M\u0103n\u0103stirea Augustinian\u0103."},
+        {"q": "Care este simbolul ora\u0219ului?", "a": "Ansamblul format din Catedrala Erfurt \u0219i Biserica Sf. Sever."},
+        {"q": "Cum s-a \u00eembog\u0103\u021bit Erfurt \u00een Evul Mediu?", "a": "Prin comer\u021bul cu drobu\u0219or, o plant\u0103 folosit\u0103 pentru vopsea albastr\u0103."}
+      ],
+      "en": [
+        {"q": "What is the Kr\u00e4merbr\u00fccke?", "a": "The longest inhabited bridge lined with houses in Europe."},
+        {"q": "In which monastery did Martin Luther live in Erfurt?", "a": "He lived as a monk in the Augustinian Monastery."},
+        {"q": "What is the landmark of the city?", "a": "The ensemble of Erfurt Cathedral and St. Severus Church."},
+        {"q": "How did Erfurt become wealthy in the Middle Ages?", "a": "Through trade in woad, a blue dye plant."}
+      ]
+    }
+  },
+  {
+    "id": "city-dresden",
+    "faq": {
+      "de": [
+        {"q": "Warum wird Dresden 'Elbflorenz' genannt?", "a": "Wegen seiner barocken Architektur und der Lage am Fluss."},
+        {"q": "Was ist die Semperoper?", "a": "Eines der ber\u00fchmtesten Opernh\u00e4user der Welt."},
+        {"q": "Was symbolisiert die Frauenkirche?", "a": "Den Wiederaufbau nach der Zerst\u00f6rung im Zweiten Weltkrieg."},
+        {"q": "Was ist der Dresdner Zwinger?", "a": "Ein barockes Gesamtkunstwerk mit G\u00e4rten und Museen."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt nevezik Drezd\u00e1t az 'Elba Firenz\u00e9j\u00e9nek'?", "a": "Barokk \u00e9p\u00edt\u00e9szete \u00e9s a foly\u00f3parti fekv\u00e9se miatt."},
+        {"q": "Mi az a Semperoper?", "a": "A vil\u00e1g egyik legh\u00edresebb operah\u00e1za."},
+        {"q": "Mit szimboliz\u00e1l a Frauenkirche?", "a": "A m\u00e1sodik vil\u00e1gh\u00e1bor\u00fa puszt\u00edt\u00e1sa ut\u00e1ni \u00fajj\u00e1\u00e9p\u00edt\u00e9st."},
+        {"q": "Mi az a Drezdai Zwinger?", "a": "Egy barokk \u00f6sszm\u0171v\u00e9szeti alkot\u00e1s kertekkel \u00e9s m\u00fazeumokkal."}
+      ],
+      "ro": [
+        {"q": "De ce este Dresda numit\u0103 'Floren\u021ba de pe Elba'?", "a": "Datorit\u0103 arhitecturii baroce \u0219i a\u0219ez\u0103rii pe r\u00e2u."},
+        {"q": "Ce este Semperoper?", "a": "Una dintre cele mai faimoase case de oper\u0103 din lume."},
+        {"q": "Ce simbolizeaz\u0103 Frauenkirche?", "a": "Reconstruc\u021bia dup\u0103 distrugerea din al Doilea R\u0103zboi Mondial."},
+        {"q": "Ce este Dresdner Zwinger?", "a": "O oper\u0103 de art\u0103 baroc\u0103 cu gr\u0103dini \u0219i muzee."}
+      ],
+      "en": [
+        {"q": "Why is Dresden called 'Florence on the Elbe'?", "a": "Because of its baroque architecture and location on the river."},
+        {"q": "What is the Semperoper?", "a": "One of the most famous opera houses in the world."},
+        {"q": "What does the Frauenkirche symbolize?", "a": "The reconstruction after destruction in World War II."},
+        {"q": "What is the Dresden Zwinger?", "a": "A baroque total work of art with gardens and museums."}
+      ]
+    }
+  },
+  {
+    "id": "city-koeln",
+    "faq": {
+      "de": [
+        {"q": "Wie hoch ist der K\u00f6lner Dom?", "a": "Die beiden T\u00fcrme sind 157 Meter hoch."},
+        {"q": "Was ist der K\u00f6lner Karneval?", "a": "Ein riesiges Volksfest, das jedes Jahr im Februar gefeiert wird."},
+        {"q": "Was ist das 'Eau de Cologne'?", "a": "Ein weltweit bekanntes Parf\u00fcm, das seinen Ursprung in K\u00f6ln hat."},
+        {"q": "An welchem Fluss liegt K\u00f6ln?", "a": "K\u00f6ln liegt am Rhein."}
+      ],
+      "hu": [
+        {"q": "Milyen magas a k\u00f6lni d\u00f3m?", "a": "A k\u00e9t torony 157 m\u00e9ter magas."},
+        {"q": "Mi a k\u00f6lni karnev\u00e1l?", "a": "Egy hatalmas n\u00e9p\u00fcnnep\u00e9ly, amelyet minden \u00e9v febru\u00e1rj\u00e1ban tartanak."},
+        {"q": "Mi az az 'Eau de Cologne'?", "a": "Egy vil\u00e1gszerte ismert parf\u00fcm, amely K\u00f6lnb\u0151l sz\u00e1rmazik."},
+        {"q": "Melyik foly\u00f3 partj\u00e1n fekszik K\u00f6ln?", "a": "K\u00f6ln a Rajna partj\u00e1n fekszik."}
+      ],
+      "ro": [
+        {"q": "C\u00e2t de \u00eenalt este Domul din K\u00f6ln?", "a": "Cele dou\u0103 turnuri au 157 de metri \u00een\u0103l\u021bime."},
+        {"q": "Ce este Carnavalul din K\u00f6ln?", "a": "Un imens festival popular s\u0103rb\u0103torit \u00een fiecare an \u00een februarie."},
+        {"q": "Ce este 'Eau de Cologne'?", "a": "Un parfum cunoscut \u00een \u00eentreaga lume care \u00ee\u0219i are originea \u00een K\u00f6ln."},
+        {"q": "Pe ce r\u00e2u se afl\u0103 K\u00f6ln?", "a": "K\u00f6ln este situat pe Rin."}
+      ],
+      "en": [
+        {"q": "How high is the Cologne Cathedral?", "a": "The two towers are 157 meters high."},
+        {"q": "What is the Cologne Carnival?", "a": "A huge folk festival celebrated every year in February."},
+        {"q": "What is 'Eau de Cologne'?", "a": "A world-famous perfume that originated in Cologne."},
+        {"q": "On which river is Cologne located?", "a": "Cologne is located on the Rhine."}
+      ]
+    }
+  },
+  {
+    "id": "city-frankfurt",
+    "faq": {
+      "de": [
+        {"q": "Warum hat Frankfurt so viele Wolkenkratzer?", "a": "Als bedeutender Finanzplatz konzentrieren sich hier viele Banken."},
+        {"q": "Was ist die Frankfurter Buchmesse?", "a": "Die gr\u00f6\u00dfte und wichtigste Buchmesse der Welt."},
+        {"q": "Wer ist der bekannteste Dichter aus Frankfurt?", "a": "Johann Wolfgang von Goethe wurde hier geboren."},
+        {"q": "Was ist ein 'Ebbelwoi'?", "a": "Das ist die Frankfurter Bezeichnung f\u00fcr Apfelwein."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt van Frankfurtnak ennyi felh\u0151karcol\u00f3ja?", "a": "Mivel jelent\u0151s p\u00e9nz\u00fcgyi k\u00f6zpont, sok bank sz\u00e9khelye van itt."},
+        {"q": "Mi a Frankfurti K\u00f6nyvv\u00e1s\u00e1r?", "a": "A vil\u00e1g legnagyobb \u00e9s legfontosabb k\u00f6nyvv\u00e1s\u00e1ra."},
+        {"q": "Ki a legismertebb frankfurti k\u00f6lt\u0151?", "a": "Johann Wolfgang von Goethe itt sz\u00fcletett."},
+        {"q": "Mi az az 'Ebbelwoi'?", "a": "Ez a frankfurti elnevez\u00e9se az almabornak."}
+      ],
+      "ro": [
+        {"q": "De ce are Frankfurt at\u00e2\u021bia zg\u00e2rie-nori?", "a": "Fiind un centru financiar major, aici se concentreaz\u0103 multe b\u0103nci."},
+        {"q": "Ce este T\u00e2rgul de Carte de la Frankfurt?", "a": "Cel mai mare \u0219i mai important t\u00e2rg de carte din lume."},
+        {"q": "Cine este cel mai faimos poet din Frankfurt?", "a": "Johann Wolfgang von Goethe s-a n\u0103scut aici."},
+        {"q": "Ce este 'Ebbelwoi'?", "a": "Este denumirea local\u0103 din Frankfurt pentru cidrul de mere."}
+      ],
+      "en": [
+        {"q": "Why does Frankfurt have so many skyscrapers?", "a": "As a major financial center, many banks are concentrated here."},
+        {"q": "What is the Frankfurt Book Fair?", "a": "The largest and most important book fair in the world."},
+        {"q": "Who is the most famous poet from Frankfurt?", "a": "Johann Wolfgang von Goethe was born here."},
+        {"q": "What is an 'Ebbelwoi'?", "a": "That is the Frankfurt term for apple wine (cider)."}
+      ]
+    }
+  },
+  {
+    "id": "city-leipzig",
+    "faq": {
+      "de": [
+        {"q": "Welcher Komponist lebte lange in Leipzig?", "a": "Johann Sebastian Bach war viele Jahre Thomaskantor in Leipzig."},
+        {"q": "Was passierte 1989 in Leipzig?", "a": "Die Montagsdemonstrationen l\u00f6sten die Friedliche Revolution aus."},
+        {"q": "Was ist das V\u00f6lkerschlachtdenkmal?", "a": "Ein riesiges Monument zur Erinnerung an die Schlacht gegen Napoleon 1813."},
+        {"q": "Welche Bedeutung hat Leipzig f\u00fcr den Buchhandel?", "a": "Es ist eine traditionsreiche Buch- und Messestadt."}
+      ],
+      "hu": [
+        {"q": "Melyik zeneszerz\u0151 \u00e9lt sok\u00e1ig Lipcs\u00e9ben?", "a": "Johann Sebastian Bach sok \u00e9vig volt a Tam\u00e1s-templom k\u00e1ntora."},
+        {"q": "Mi t\u00f6rt\u00e9nt 1989-ben Lipcs\u00e9ben?", "a": "A h\u00e9tf\u0151i t\u00fcntet\u00e9sek elind\u00edtott\u00e1k a B\u00e9k\u00e9s Forradalmat."},
+        {"q": "Mi az a N\u00e9pek Csat\u00e1j\u00e1nak eml\u00e9km\u0171ve?", "a": "Hatalmas eml\u00e9km\u0171 az 1813-as, Nap\u00f3leon elleni csata eml\u00e9k\u00e9re."},
+        {"q": "Milyen jelent\u0151s\u00e9ge van Lipcs\u00e9nek a k\u00f6nyvkereskedelemben?", "a": "Hagyom\u00e1nyos k\u00f6nyv- \u00e9s v\u00e1s\u00e1rv\u00e1ros."}
+      ],
+      "ro": [
+        {"q": "Ce compozitor a tr\u0103it mult timp la Leipzig?", "a": "Johann Sebastian Bach a fost mul\u021bi ani cantor la Biserica Sf. Toma."},
+        {"q": "Ce s-a \u00eent\u00e2mplat \u00een 1989 la Leipzig?", "a": "Demonstra\u021biile de luni au declan\u0219at Revolu\u021bia Pa\u0219nic\u0103."},
+        {"q": "Ce este Monumentul B\u0103t\u0103liei Na\u021biunilor?", "a": "Un monument uria\u0219 care comemoreaz\u0103 b\u0103t\u0103lia \u00eempotriva lui Napoleon din 1813."},
+        {"q": "Ce importan\u021b\u0103 are Leipzig pentru comer\u021bul de carte?", "a": "Este un ora\u0219 cu o lung\u0103 tradi\u021bie \u00een editarea de c\u0103r\u021bi \u0219i t\u00e2rguri."}
+      ],
+      "en": [
+        {"q": "Which composer lived in Leipzig for a long time?", "a": "Johann Sebastian Bach was cantor at St. Thomas Church for many years."},
+        {"q": "What happened in Leipzig in 1989?", "a": "The Monday demonstrations triggered the Peaceful Revolution."},
+        {"q": "What is the Monument to the Battle of the Nations?", "a": "A huge monument commemorating the battle against Napoleon in 1813."},
+        {"q": "What significance does Leipzig have for the book trade?", "a": "It is a city with a long tradition of books and trade fairs."}
+      ]
+    }
+  },
+  {
+    "id": "city-nuernberg",
+    "faq": {
+      "de": [
+        {"q": "Warum ist N\u00fcrnberg historisch so bedeutend?", "a": "Sie war eine der wichtigsten Reichsst\u00e4dte des Heiligen R\u00f6mischen Reiches."},
+        {"q": "Was sind die N\u00fcrnberger Prozesse?", "a": "Gerichtsverfahren gegen f\u00fchrende Nationalsozialisten nach dem Zweiten Weltkrieg."},
+        {"q": "Was ist der Christkindlesmarkt?", "a": "Einer der bekanntesten und \u00e4ltesten Weihnachtsm\u00e4rkte der Welt."},
+        {"q": "Welche kulinarischen Spezialit\u00e4ten kommen aus N\u00fcrnberg?", "a": "N\u00fcrnberger Lebkuchen und Rostbratw\u00fcrste."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt olyan jelent\u0151s N\u00fcrnberg t\u00f6rt\u00e9nelmileg?", "a": "A N\u00e9met-r\u00f3mai Birodalom egyik legfontosabb v\u00e1rosa volt."},
+        {"q": "Mik voltak a n\u00fcrnbergi perek?", "a": "A m\u00e1sodik vil\u00e1gh\u00e1bor\u00fa ut\u00e1ni b\u00edr\u00f3s\u00e1gi elj\u00e1r\u00e1sok a n\u00e1ci vezet\u0151k ellen."},
+        {"q": "Mi az a Christkindlesmarkt?", "a": "A vil\u00e1g egyik legismertebb \u00e9s legr\u00e9gebbi kar\u00e1csonyi v\u00e1s\u00e1ra."},
+        {"q": "Milyen \u00e9telek sz\u00e1rmaznak N\u00fcrnbergb\u0151l?", "a": "A n\u00fcrnbergi m\u00e9zeskal\u00e1cs \u00e9s a s\u00fclt kolb\u00e1szk\u00e1k."}
+      ],
+      "ro": [
+        {"q": "De ce este N\u00fcrnberg at\u00e2t de important istoric?", "a": "A fost unul dintre cele mai importante ora\u0219e imperiale ale Sf\u00e2ntului Imperiu Roman."},
+        {"q": "Ce au fost Procesele de la N\u00fcrnberg?", "a": "Proceduri judiciare \u00eempotriva liderilor nazi\u0219ti dup\u0103 al Doilea R\u0103zboi Mondial."},
+        {"q": "Ce este Christkindlesmarkt?", "a": "Unul dintre cele mai cunoscute \u0219i mai vechi t\u00e2rguri de Cr\u0103ciun din lume."},
+        {"q": "Ce specialit\u0103\u021bi culinare provin din N\u00fcrnberg?", "a": "Turta dulce de N\u00fcrnberg \u0219i c\u00e2rna\u021bii pr\u0103ji\u021bi."}
+      ],
+      "en": [
+        {"q": "Why is Nuremberg so historically significant?", "a": "It was one of the most important imperial cities of the Holy Roman Empire."},
+        {"q": "What were the Nuremberg Trials?", "a": "Judicial proceedings against leading Nazis after World War II."},
+        {"q": "What is the Christkindlesmarkt?", "a": "One of the most famous and oldest Christmas markets in the world."},
+        {"q": "Which culinary specialties come from Nuremberg?", "a": "Nuremberg gingerbread and bratwurst."}
+      ]
+    }
+  },
+  {
+    "id": "city-heidelberg",
+    "faq": {
+      "de": [
+        {"q": "Welche ist die \u00e4lteste Universit\u00e4t Deutschlands?", "a": "Die Ruprecht-Karls-Universit\u00e4t in Heidelberg, gegr\u00fcndet 1386."},
+        {"q": "Was ist das bekannteste Bauwerk Heidelbergs?", "a": "Das Heidelberger Schloss, eine ber\u00fchmte Ruine \u00fcber der Stadt."},
+        {"q": "Was ist der Philosophenweg?", "a": "Ein bekannter Wanderweg mit Blick auf die Altstadt und das Schloss."},
+        {"q": "Welche Epoche ist eng mit Heidelberg verbunden?", "a": "Die deutsche Romantik des 19. Jahrhunderts."}
+      ],
+      "hu": [
+        {"q": "Melyik N\u00e9metorsz\u00e1g legr\u00e9gebbi egyeteme?", "a": "A heidelbergi Ruprecht-Karls Egyetem, amelyet 1386-ban alap\u00edtottak."},
+        {"q": "Mi Heidelberg legismertebb \u00e9p\u00fclete?", "a": "A heidelbergi kast\u00e9ly, egy h\u00edres rom a v\u00e1ros felett."},
+        {"q": "Mi az a Filoz\u00f3fusok \u00fatja?", "a": "Egy h\u00edres s\u00e9t\u00e1ny, amelyr\u0151l r\u00e1l\u00e1tni az \u00f3v\u00e1rosra \u00e9s a kast\u00e9lyra."},
+        {"q": "Melyik korszak k\u00f6t\u0151dik szorosan Heidelberghez?", "a": "A 19. sz\u00e1zadi n\u00e9met romantika."}
+      ],
+      "ro": [
+        {"q": "Care este cea mai veche universitate din Germania?", "a": "Universitatea Ruprecht-Karls din Heidelberg, fondat\u0103 \u00een 1386."},
+        {"q": "Care este cea mai cunoscut\u0103 construc\u021bie din Heidelberg?", "a": "Castelul Heidelberg, o ruin\u0103 faimoas\u0103 deasupra ora\u0219ului."},
+        {"q": "Ce este Calea Filozofilor (Philosophenweg)?", "a": "Un drum de drume\u021bie renumit cu vedere spre centrul vechi \u0219i castel."},
+        {"q": "Ce epoc\u0103 este str\u00e2ns legat\u0103 de Heidelberg?", "a": "Romantismul german din secolul al XIX-lea."}
+      ],
+      "en": [
+        {"q": "Which is the oldest university in Germany?", "a": "The Ruprecht-Karls University in Heidelberg, founded in 1386."},
+        {"q": "What is the most famous building in Heidelberg?", "a": "Heidelberg Castle, a famous ruin overlooking the city."},
+        {"q": "What is the Philosophers' Walk?", "a": "A famous path with views of the old town and the castle."},
+        {"q": "Which era is closely connected to Heidelberg?", "a": "German Romanticism of the 19th century."}
+      ]
+    }
+  },
+  {
+    "id": "city-luebeck",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Wahrzeichen von L\u00fcbeck?", "a": "Das Holstentor, ein mittelalterliches Stadttor."},
+        {"q": "Welche s\u00fc\u00dfe Spezialit\u00e4t kommt aus L\u00fcbeck?", "a": "Das L\u00fcbecker Marzipan ist weltweit ber\u00fchmt."},
+        {"q": "Warum wird L\u00fcbeck 'K\u00f6nigin der Hanse' genannt?", "a": "Weil sie im Mittelalter die m\u00e4chtigste Hansestadt war."},
+        {"q": "Welche Nobelpreistr\u00e4ger kommen aus L\u00fcbeck?", "a": "Thomas Mann, G\u00fcnter Grass und Willy Brandt."}
+      ],
+      "hu": [
+        {"q": "Mi L\u00fcbeck legismertebb jelk\u00e9pe?", "a": "A Holstentor, egy k\u00f6z\u00e9pkori v\u00e1roskapu."},
+        {"q": "Milyen \u00e9dess\u00e9g sz\u00e1rmazik L\u00fcbeckb\u0151l?", "a": "A l\u00fcbecki marcip\u00e1n vil\u00e1gh\u00edr\u0171."},
+        {"q": "Mi\u00e9rt nevezik L\u00fcbecket a 'Hanza kir\u00e1lyn\u0151j\u00e9nek'?", "a": "Mert a k\u00f6z\u00e9pkorban a leghatalmasabb hanzav\u00e1ros volt."},
+        {"q": "Melyik Nobel-d\u00edjasok sz\u00e1rmaznak L\u00fcbeckb\u0151l?", "a": "Thomas Mann, G\u00fcnter Grass \u00e9s Willy Brandt."}
+      ],
+      "ro": [
+        {"q": "Care este simbolul ora\u0219ului L\u00fcbeck?", "a": "Holstentor, o poart\u0103 medieval\u0103 a ora\u0219ului."},
+        {"q": "Ce specialitate dulce provine din L\u00fcbeck?", "a": "Mar\u021bipanul de L\u00fcbeck este faimos \u00een \u00eentreaga lume."},
+        {"q": "De ce este L\u00fcbeck numit 'Regina Hansei'?", "a": "Deoarece \u00een Evul Mediu a fost cel mai puternic ora\u0219 hanseatic."},
+        {"q": "Ce laurea\u021bi Nobel provin din L\u00fcbeck?", "a": "Thomas Mann, G\u00fcnter Grass \u0219i Willy Brandt."}
+      ],
+      "en": [
+        {"q": "What is the landmark of Lübeck?", "a": "The Holstentor, a medieval city gate."},
+        {"q": "Which sweet specialty comes from Lübeck?", "a": "Lübeck marzipan is world-famous."},
+        {"q": "Why is Lübeck called the 'Queen of the Hanseatic League'?", "a": "Because it was the most powerful Hanseatic city in the Middle Ages."},
+        {"q": "Which Nobel Prize winners come from Lübeck?", "a": "Thomas Mann, Günter Grass, and Willy Brandt."}
+      ]
+    }
+  },
+  {
+    "id": "city-regensburg",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Steinerne Br\u00fccke?", "a": "Eine der \u00e4ltesten erhaltenen Br\u00fccken Deutschlands (12. Jh.)."},
+        {"q": "Wo tagte der Immerw\u00e4hrende Reichstag?", "a": "Im Alten Rathaus von Regensburg von 1663 bis 1806."},
+        {"q": "An welchem Fluss liegt Regensburg?", "a": "Regensburg liegt am n\u00f6rdlichsten Punkt der Donau."},
+        {"q": "Was ist das Wahrzeichen der Stadt?", "a": "Der gotische Regensburger Dom St. Peter."}
+      ],
+      "hu": [
+        {"q": "Mi az a K\u0151h\u00edd (Steinerne Br\u00fccke)?", "a": "N\u00e9metorsz\u00e1g egyik legr\u00e9gebbi \u00e9pen maradt h\u00eddja (12. sz.)."},
+        {"q": "Hol \u00fcl\u00e9sezett az \u00d6r\u00f6k\u00f6s Birodalmi Gy\u0171l\u00e9s?", "a": "A regensburgi r\u00e9gi v\u00e1rosh\u00e1z\u00e1n 1663 \u00e9s 1806 k\u00f6z\u00f6tt."},
+        {"q": "Melyik foly\u00f3 partj\u00e1n fekszik Regensburg?", "a": "Regensburg a Duna leg\u00e9szakibb pontj\u00e1n fekszik."},
+        {"q": "Mi a v\u00e1ros legismertebb jelk\u00e9pe?", "a": "A g\u00f3tikus Szent P\u00e9ter-d\u00f3m."}
+      ],
+      "ro": [
+        {"q": "Ce este Podul de Piatr\u0103 (Steinerne Br\u00fccke)?", "a": "Unul dintre cele mai vechi poduri conservate din Germania (sec. XII)."},
+        {"q": "Unde s-a \u00eentrunit Dieta Imperial\u0103 Permanent\u0103?", "a": "\u00cen Vechea Prim\u0103rie din Regensburg, \u00eentre 1663 \u0219i 1806."},
+        {"q": "Pe ce r\u00e2u se afl\u0103 Regensburg?", "a": "Regensburg este situat \u00een cel mai nordic punct al Dun\u0103rii."},
+        {"q": "Care este simbolul ora\u0219ului?", "a": "Catedrala gotic\u0103 Sf. Petru din Regensburg."}
+      ],
+      "en": [
+        {"q": "What is the Stone Bridge (Steinerne Brücke)?", "a": "One of the oldest preserved bridges in Germany (12th century)."},
+        {"q": "Where did the Perpetual Imperial Diet meet?", "a": "In the Old Town Hall of Regensburg from 1663 to 1806."},
+        {"q": "On which river is Regensburg located?", "a": "Regensburg is located at the northernmost point of the Danube."},
+        {"q": "What is the landmark of the city?", "a": "The Gothic Regensburg Cathedral of St. Peter."}
+      ]
+    }
+  },
+  {
+    "id": "city-wuerzburg",
+    "faq": {
+      "de": [
+        {"q": "Was ist die W\u00fcrzburger Residenz?", "a": "Ein barockes UNESCO-Welterbe-Schloss mit riesigem Deckenfresko."},
+        {"q": "Was ist ein Bocksbeutel?", "a": "Die typische flache, bauchige Weinflasche aus Franken."},
+        {"q": "Welche Festung thront \u00fcber W\u00fcrzburg?", "a": "Die Festung Marienberg."},
+        {"q": "Was ist die Alte Mainbr\u00fccke?", "a": "Eine historische Br\u00fccke mit Heiligenfiguren, bekannt f\u00fcr den Weingenuss."}
+      ],
+      "hu": [
+        {"q": "Mi az a W\u00fcrzburgi \u00c9rseki Palota?", "a": "Egy barokk UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9gi kast\u00e9ly \u00f3ri\u00e1si mennyezeti fresk\u00f3val."},
+        {"q": "Mi az a Bocksbeutel?", "a": "A jellegzetes lapos, hasas boros\u00fcveg Frankf\u00f6ld\u0151l."},
+        {"q": "Melyik er\u0151d magasodik W\u00fcrzburg felett?", "a": "A Marienberg er\u0151d."},
+        {"q": "Mi az a R\u00e9gi Main-h\u00edd?", "a": "Egy szobrokkal d\u00edsz\u00edtett t\u00f6rt\u00e9nelmi h\u00edd, ahol n\u00e9pszer\u0171 a boroz\u00e1s."}
+      ],
+      "ro": [
+        {"q": "Ce este Re\u0219edin\u021ba din W\u00fcrzburg?", "a": "Un palat baroc patrimoniu UNESCO, cu o fresc\u0103 de tavan uria\u0219\u0103."},
+        {"q": "Ce este un Bocksbeutel?", "a": "Sticla de vin tipic\u0103, turtit\u0103, din Franconia."},
+        {"q": "Ce fort\u0103rea\u021b\u0103 troneaz\u0103 deasupra ora\u0219ului W\u00fcrzburg?", "a": "Fort\u0103rea\u021ba Marienberg."},
+        {"q": "Ce este Vechiul Pod peste Main?", "a": "Un pod istoric cu statui de sfin\u021bi, renumit pentru consumul de vin."}
+      ],
+      "en": [
+        {"q": "What is the Würzburg Residence?", "a": "A baroque UNESCO World Heritage palace with a giant ceiling fresco."},
+        {"q": "What is a Bocksbeutel?", "a": "The typical flat, round-bellied wine bottle from Franconia."},
+        {"q": "Which fortress towers over Würzburg?", "a": "The Marienberg Fortress."},
+        {"q": "What is the Old Main Bridge?", "a": "A historic bridge with statues of saints, famous for enjoying wine."}
+      ]
+    }
+  },
+  {
+    "id": "city-rostock",
+    "faq": {
+      "de": [
+        {"q": "Wann wurde die Universit\u00e4t Rostock gegr\u00fcndet?", "a": "Sie wurde 1419 gegr\u00fcndet und ist eine der \u00e4ltesten Nordeuropas."},
+        {"q": "Was ist Warnem\u00fcnde?", "a": "Ein bekannter Stadtteil von Rostock direkt an der Ostsee mit breitem Strand."},
+        {"q": "Was ist die Hanse Sail?", "a": "Ein gro\u00dfes j\u00e4hrliches Treffen von Traditionsseglern in Rostock."},
+        {"q": "Welche Bauweise pr\u00e4gt die Rostocker Altstadt?", "a": "Die norddeutsche Backsteingotik."}
+      ],
+      "hu": [
+        {"q": "Mikor alap\u00edtott\u00e1k a Rostocki Egyetemet?", "a": "1419-ben alap\u00edtott\u00e1k, ezzel \u00c9szak-Eur\u00f3pa egyik legr\u00e9gebbi egyeteme."},
+        {"q": "Mi az a Warnem\u00fcnde?", "a": "Rostock h\u00edres v\u00e1rosr\u00e9sze k\u00f6zvetlen\u00fcl a Balti-tenger partj\u00e1n."},
+        {"q": "Mi az a Hanse Sail?", "a": "Hagyom\u00e1ny\u0151rz\u0151 vitorl\u00e1shaj\u00f3k nagy \u00e9ves tal\u00e1lkoz\u00f3ja Rostockban."},
+        {"q": "Milyen \u00e9p\u00edt\u00e9szeti st\u00edlus jellemzi Rostock \u00f3v\u00e1ros\u00e1t?", "a": "Az \u00e9szak-n\u00e9met t\u00e9glag\u00f3tika."}
+      ],
+      "ro": [
+        {"q": "C\u00e2nd a fost fondat\u0103 Universitatea din Rostock?", "a": "A fost fondat\u0103 \u00een 1419 \u0219i este una dintre cele mai vechi din Europa de Nord."},
+        {"q": "Ce este Warnem\u00fcnde?", "a": "Un cartier renumit al Rostockului, situat direct la Marea Baltic\u0103."},
+        {"q": "Ce este Hanse Sail?", "a": "O mare \u00eent\u00e2lnire anual\u0103 a navelor cu p\u00e2nze tradi\u021bionale \u00een Rostock."},
+        {"q": "Ce stil arhitectural domin\u0103 centrul vechi din Rostock?", "a": "Goticul din c\u0103r\u0103mid\u0103 nord-german."}
+      ],
+      "en": [
+        {"q": "When was Rostock University founded?", "a": "It was founded in 1419 and is one of the oldest in Northern Europe."},
+        {"q": "What is Warnemünde?", "a": "A famous district of Rostock directly on the Baltic Sea with a wide beach."},
+        {"q": "What is the Hanse Sail?", "a": "A large annual gathering of traditional sailing ships in Rostock."},
+        {"q": "Which architectural style characterizes Rostock's old town?", "a": "North German Brick Gothic."}
+      ]
+    }
+  },
+  {
+    "id": "city-augsburg",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Fuggerei?", "a": "Die \u00e4lteste bestehende Sozialsiedlung der Welt (gegr. 1521)."},
+        {"q": "Welches UNESCO-Welterbe besitzt Augsburg?", "a": "Das historische Wassermanagement-System der Stadt."},
+        {"q": "Warum ist Augsburg eine der \u00e4ltesten St\u00e4dte?", "a": "Sie wurde vor \u00fcber 2000 Jahren von den R\u00f6mern gegr\u00fcndet."},
+        {"q": "Was ist der Goldene Saal?", "a": "Ein prunkvoller Festsaal im Augsburger Rathaus."}
+      ],
+      "hu": [
+        {"q": "Mi az a Fuggerei?", "a": "A vil\u00e1g legr\u00e9gebbi, ma is l\u00e9tez\u0151 szoci\u00e1lis lak\u00f3telepe (alap\u00edtva 1521)."},
+        {"q": "Milyen UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9ggel rendelkezik Augsburg?", "a": "A v\u00e1ros t\u00f6rt\u00e9nelmi v\u00edzgazd\u00e1lkod\u00e1si rendszere."},
+        {"q": "Mi\u00e9rt Augsburg az egyik legr\u00e9gebbi v\u00e1ros?", "a": "Mert t\u00f6bb mint 2000 \u00e9ve a r\u00f3maiak alap\u00edtott\u00e1k."},
+        {"q": "Mi az az Arany Terem?", "a": "Az augsburgi v\u00e1rosh\u00e1za pomp\u00e1s d\u00edszterme."}
+      ],
+      "ro": [
+        {"q": "Ce este Fuggerei?", "a": "Cea mai veche a\u0219ezare social\u0103 existent\u0103 din lume (fondat\u0103 \u00een 1521)."},
+        {"q": "Ce sit UNESCO de\u021bine Augsburg?", "a": "Sistemul istoric de gestionare a apei din ora\u0219."},
+        {"q": "De ce este Augsburg unul dintre cele mai vechi ora\u0219e?", "a": "A fost fondat de romani cu peste 2000 de ani \u00een urm\u0103."},
+        {"q": "Ce este Sala de Aur?", "a": "O sal\u0103 de festivit\u0103\u021bi somptuoas\u0103 din Prim\u0103ria Augsburg."}
+      ],
+      "en": [
+        {"q": "What is the Fuggerei?", "a": "The world's oldest existing social housing complex (founded 1521)."},
+        {"q": "What UNESCO World Heritage site does Augsburg have?", "a": "The city's historic water management system."},
+        {"q": "Why is Augsburg one of the oldest cities?", "a": "It was founded by the Romans over 2,000 years ago."},
+        {"q": "What is the Golden Hall?", "a": "A magnificent ceremonial hall in the Augsburg Town Hall."}
+      ]
+    }
+  },
+  {
+    "id": "city-trier",
+    "faq": {
+      "de": [
+        {"q": "Welches Bauwerk ist das Symbol von Trier?", "a": "Die Porta Nigra, ein r\u00f6misches Stadttor."},
+        {"q": "Wer ist der bekannteste in Trier geborene Philosoph?", "a": "Karl Marx wurde 1818 in Trier geboren."},
+        {"q": "Was sind die Kaiserthermen?", "a": "Die Ruinen einer gro\u00dfen r\u00f6mischen Badeanlage."},
+        {"q": "Wie alt ist Trier?", "a": "Gegr\u00fcndet um 16 v. Chr., ist sie die \u00e4lteste Stadt Deutschlands."}
+      ],
+      "hu": [
+        {"q": "Melyik \u00e9p\u00edtm\u00e9ny Trier jelk\u00e9pe?", "a": "A Porta Nigra, egy r\u00f3mai v\u00e1roskapu."},
+        {"q": "Ki a legismertebb Trierben sz\u00fcletett filoz\u00f3fus?", "a": "Karl Marx 1818-ban sz\u00fcletett Trierben."},
+        {"q": "Mik azok a cs\u00e1sz\u00e1ri f\u00fcrd\u0151k (Kaiserthermen)?", "a": "Egy hatalmas r\u00f3mai f\u00fcrd\u0151komplexum romjai."},
+        {"q": "Milyen id\u0151s Trier v\u00e1rosa?", "a": "Kr.e. 16 k\u00f6r\u00fcl alap\u00edtott\u00e1k, ezzel N\u00e9metorsz\u00e1g legr\u00e9gebbi v\u00e1rosa."}
+      ],
+      "ro": [
+        {"q": "Ce construc\u021bie este simbolul ora\u0219ului Trier?", "a": "Porta Nigra, o poart\u0103 roman\u0103 a ora\u0219ului."},
+        {"q": "Cine este cel mai cunoscut filozof n\u0103scut \u00een Trier?", "a": "Karl Marx s-a n\u0103scut \u00een Trier \u00een 1818."},
+        {"q": "Ce sunt B\u0103ile Imperiale (Kaiserthermen)?", "a": "Ruinele unui mare complex de b\u0103i romane."},
+        {"q": "C\u00e2t de vechi este ora\u0219ul Trier?", "a": "Fondat \u00een jurul anului 16 \u00ee.Hr., este cel mai vechi ora\u0219 din Germania."}
+      ],
+      "en": [
+        {"q": "Which structure is the symbol of Trier?", "a": "The Porta Nigra, a Roman city gate."},
+        {"q": "Who is the most famous philosopher born in Trier?", "a": "Karl Marx was born in Trier in 1818."},
+        {"q": "What are the Imperial Baths (Kaiserthermen)?", "a": "The ruins of a large Roman bathing complex."},
+        {"q": "How old is Trier?", "a": "Founded around 16 BC, it is the oldest city in Germany."}
+      ]
+    }
+  },
+  {
+    "id": "city-freiburg",
+    "faq": {
+      "de": [
+        {"q": "Was sind die 'Freiburger B\u00e4chle'?", "a": "Kleine Wasserl\u00e4ufe in den Gassen der Altstadt."},
+        {"q": "Welcher Berg liegt direkt bei Freiburg?", "a": "Der Schauinsland ist der Hausberg der Stadt."},
+        {"q": "Warum gilt Freiburg als 'Green City'?", "a": "Wegen ihrer Vorreiterrolle bei Umwelt- und Solartechnik."},
+        {"q": "Was ist das Freiburger M\u00fcnster?", "a": "Die gotische Kathedrale mit einem der sch\u00f6nsten Kircht\u00fcrme."}
+      ],
+      "hu": [
+        {"q": "Mik azok a 'freiburgi B\u00e4chle'-k?", "a": "Az \u00f3v\u00e1ros utc\u00e1in v\u00e9gigfut\u00f3 apr\u00f3 v\u00edzcsatorn\u00e1k."},
+        {"q": "Melyik hegy fekszik Freiburg k\u00f6zvetlen k\u00f6zel\u00e9ben?", "a": "A Schauinsland a v\u00e1ros h\u00e1zi hegye."},
+        {"q": "Mi\u00e9rt tartj\u00e1k Freiburgot 'Z\u00f6ld V\u00e1rosnak'?", "a": "K\u00f6rnyezet- \u00e9s napenergia-technol\u00f3gi\u00e1ban bet\u00f6lt\u00f6tt \u00fatt\u00f6r\u0151 szerepe miatt."},
+        {"q": "Mi az a Freiburgi M\u00fcnster?", "a": "A g\u00f3tikus sz\u00e9kesegyh\u00e1z, amelynek az egyik legszebb tornya van."}
+      ],
+      "ro": [
+        {"q": "Ce sunt 'Freiburger B\u00e4chle'?", "a": "Mici canale de ap\u0103 \u00een uli\u021bele centrului vechi."},
+        {"q": "Ce munte se afl\u0103 chiar l\u00e2ng\u0103 Freiburg?", "a": "Schauinsland este muntele local al ora\u0219ului."},
+        {"q": "De ce este Freiburg considerat un 'Ora\u0219 Verde'?", "a": "Datorit\u0103 rolului s\u0103u de pionier \u00een tehnologia mediului \u0219i solar\u0103."},
+        {"q": "Ce este Catedrala din Freiburg (M\u00fcnster)?", "a": "Catedrala gotic\u0103 cu unul dintre cele mai frumoase turnuri de biseric\u0103."}
+      ],
+      "en": [
+        {"q": "What are the 'Freiburg Bächle'?", "a": "Small water rills in the alleys of the old town."},
+        {"q": "Which mountain is located right near Freiburg?", "a": "The Schauinsland is the city's local mountain."},
+        {"q": "Why is Freiburg considered a 'Green City'?", "a": "Because of its pioneering role in environmental and solar technology."},
+        {"q": "What is the Freiburg Münster?", "a": "The Gothic cathedral with one of the most beautiful church towers."}
+      ]
+    }
+  },
+  {
+    "id": "city-kassel",
+    "faq": {
+      "de": [
+        {"q": "Was ist die documenta?", "a": "Die weltweit bedeutendste Ausstellung f\u00fcr zeitgen\u00f6ssische Kunst (alle 5 Jahre)."},
+        {"q": "Was ist das Wahrzeichen von Kassel?", "a": "Die Herkules-Statue im Bergpark Wilhelmsh\u00f6he."},
+        {"q": "Welche Br\u00fcder lebten lange in Kassel?", "a": "Jacob und Wilhelm Grimm sammelten hier ihre M\u00e4rchen."},
+        {"q": "Was ist der Bergpark Wilhelmsh\u00f6he?", "a": "Ein UNESCO-Welterbe-Park mit spektakul\u00e4ren Wasserspielen."}
+      ],
+      "hu": [
+        {"q": "Mi az a documenta?", "a": "A vil\u00e1g legjelent\u0151sebb kort\u00e1rs m\u0171v\u00e9szeti ki\u00e1ll\u00edt\u00e1sa (\u00f6t\u00e9vente)."},
+        {"q": "Mi Kassel legismertebb jelk\u00e9pe?", "a": "A Herkules-szobor a Wilhelmsh\u00f6he hegyi parkban."},
+        {"q": "Melyik testv\u00e9rp\u00e1r \u00e9lt hossz\u00fa ideig Kasselben?", "a": "Jacob \u00e9s Wilhelm Grimm itt gy\u0171jt\u00f6tt\u00e9k mes\u00e9iket."},
+        {"q": "Mi az a Bergpark Wilhelmsh\u00f6he?", "a": "UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9gi park l\u00e1tv\u00e1nyos v\u00edzij\u00e1t\u00e9kokkal."}
+      ],
+      "ro": [
+        {"q": "Ce este documenta?", "a": "Cea mai important\u0103 expozi\u021bie de art\u0103 contemporan\u0103 din lume (la fiecare 5 ani)."},
+        {"q": "Care este simbolul ora\u0219ului Kassel?", "a": "Statuia lui Hercule din parcul montan Wilhelmsh\u00f6he."},
+        {"q": "Ce fra\u021bi au locuit mult timp \u00een Kassel?", "a": "Jacob \u0219i Wilhelm Grimm \u0219i-au adunat aici basmele."},
+        {"q": "Ce este Bergpark Wilhelmsh\u00f6he?", "a": "Un parc patrimoniu UNESCO cu jocuri de ap\u0103 spectaculoase."}
+      ],
+      "en": [
+        {"q": "What is documenta?", "a": "The world's most significant exhibition of contemporary art (every 5 years)."},
+        {"q": "What is the landmark of Kassel?", "a": "The Hercules statue in Bergpark Wilhelmshöhe."},
+        {"q": "Which brothers lived in Kassel for a long time?", "a": "Jacob and Wilhelm Grimm collected their fairy tales here."},
+        {"q": "What is Bergpark Wilhelmshöhe?", "a": "A UNESCO World Heritage park with spectacular water displays."}
+      ]
+    }
+  }
+]

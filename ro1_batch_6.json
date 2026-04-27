@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-roman-extra",
+    "name_ro": "Roman",
+    "desc_ro": "Ora\u0219 comercial istoric."
+  },
+  {
+    "id": "city-targu-neamt-extra",
+    "name_ro": "T\u00e2rgu Neam\u021b",
+    "desc_ro": "Ora\u0219ul Cet\u0103\u021bii Neam\u021b."
+  },
+  {
+    "id": "city-caracal-extra",
+    "name_ro": "Caracal",
+    "desc_ro": "Ora\u0219 oltenesc istoric."
+  },
+  {
+    "id": "city-corabia-extra",
+    "name_ro": "Corabia",
+    "desc_ro": "Ora\u0219 portuar."
+  },
+  {
+    "id": "city-scornicesti-extra",
+    "name_ro": "Scornice\u0219ti",
+    "desc_ro": "Ora\u0219ul lui Ceau\u0219escu."
+  },
+  {
+    "id": "city-campina-extra",
+    "name_ro": "C\u00e2mpina",
+    "desc_ro": "Ora\u0219ul petrolului."
+  },
+  {
+    "id": "city-breaza-extra",
+    "name_ro": "Breaza",
+    "desc_ro": "Sta\u021biune climateric\u0103."
+  },
+  {
+    "id": "city-sinaia-extra",
+    "name_ro": "Sinaia",
+    "desc_ro": "Sta\u021biune regal\u00df."
+  },
+  {
+    "id": "city-carei-extra",
+    "name_ro": "Carei",
+    "desc_ro": "Ora\u0219ul castelului."
+  },
+  {
+    "id": "city-negresti-oas-extra",
+    "name_ro": "Negre\u0219ti-Oa\u0219",
+    "desc_ro": "Centrul \u021a\u0103rii Oa\u0219ului."
+  },
+  {
+    "id": "city-tasnad-extra",
+    "name_ro": "T\u0103\u0219nad",
+    "desc_ro": "Ora\u0219ul termal."
+  },
+  {
+    "id": "city-simleu-silvaniei-extra",
+    "name_ro": "\u0218imleu Silvaniei",
+    "desc_ro": "Ora\u0219 istoric."
+  },
+  {
+    "id": "city-jibou-extra",
+    "name_ro": "Jibou",
+    "desc_ro": "Gr\u0103din\u0103 botanic\u0103."
+  },
+  {
+    "id": "city-cehu-silvaniei-extra",
+    "name_ro": "Cehu Silvaniei",
+    "desc_ro": "Ora\u0219 din nordul S\u0103lajului."
+  }
+]

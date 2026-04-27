@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-sebes-extra",
+    "name_ro": "Sebe\u0219",
+    "desc_ro": "Ora\u0219 istoric din Transilvania."
+  },
+  {
+    "id": "city-aiud-extra",
+    "name_ro": "Aiud",
+    "desc_ro": "Important centru cultural."
+  },
+  {
+    "id": "city-blaj-extra",
+    "name_ro": "Blaj",
+    "desc_ro": "Centrul Bisericii Greco-Catolice."
+  },
+  {
+    "id": "city-pecica-extra",
+    "name_ro": "Pecica",
+    "desc_ro": "Centru agrar din Banat."
+  },
+  {
+    "id": "city-santana-extra",
+    "name_ro": "S\u00e2ntana",
+    "desc_ro": "Fost\u0103 a\u0219ezare \u0219v\u0103beasc\u0103."
+  },
+  {
+    "id": "city-lipova-extra",
+    "name_ro": "Lipova",
+    "desc_ro": "Ora\u0219 pe malul Mure\u0219ului."
+  },
+  {
+    "id": "city-curtea-de-arges-extra",
+    "name_ro": "Curtea de Arge\u0219",
+    "desc_ro": "Fost\u0103 capital\u0103 a \u021a\u0103rii Rom\u00e2ne\u0219ti."
+  },
+  {
+    "id": "city-campulung-extra",
+    "name_ro": "C\u00e2mpulung",
+    "desc_ro": "Prima capital\u0103 a \u021a\u0103rii Rom\u00e2ne\u0219ti."
+  },
+  {
+    "id": "city-mioveni-extra",
+    "name_ro": "Mioveni",
+    "desc_ro": "Sediul uzinelor Dacia."
+  },
+  {
+    "id": "city-onesti-extra",
+    "name_ro": "One\u0219ti",
+    "desc_ro": "Ora\u0219 industrial din Moldova."
+  },
+  {
+    "id": "city-moinesti-extra",
+    "name_ro": "Moine\u0219ti",
+    "desc_ro": "Centru petrolier."
+  },
+  {
+    "id": "city-comanesti-extra",
+    "name_ro": "Com\u0103ne\u0219ti",
+    "desc_ro": "Ora\u0219 \u00een Valea Trotu\u0219ului."
+  },
+  {
+    "id": "city-salonta-extra",
+    "name_ro": "Salonta",
+    "desc_ro": "Ora\u0219ul lui J\u00e1nos Arany."
+  },
+  {
+    "id": "city-marghita-extra",
+    "name_ro": "Marghita",
+    "desc_ro": "Centru economic \u00een nordul Bihorului."
+  }
+]

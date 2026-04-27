@@ -1,0 +1,523 @@
+
+{
+  "RO-BV": {
+    "de": [
+      { "q": "Was ist der Poiana Brașov?", "a": "Das bekannteste und am besten ausgestattete Skigebiet Rumäniens." },
+      { "q": "Warum heißt die Schwarze Kirche so?", "a": "Sie erhielt ihren Namen nach einem großen Brand im Jahr 1689, der die Mauern schwärzte." },
+      { "q": "Welches Gebirge umgibt die Stadt Brașov?", "a": "Die Stadt liegt am Fuße der Postăvaru-Berge, die Teil der Karpaten sind." },
+      { "q": "Welche mittelalterliche Festung liegt in der Nähe von Brașov?", "a": "Die Festung Râșnov ist eine beeindruckende Anlage auf einem Hügel nahe der Stadt." }
+    ],
+    "hu": [
+      { "q": "Mi az a Poiana Brașov (Brassópojana)?", "a": "Románia legismertebb és legjobban felszerelt síközpontja." },
+      { "q": "Miért hívják Fekete templomnak?", "a": "Nevét az 1689-es nagy tűzvész után kapta, amely befeketítette a falait." },
+      { "q": "Melyik hegység veszi körül Brassó városát?", "a": "A város a Keresztény-havasok (Postăvaru) lábánál fekszik, amely a Kárpátok része." },
+      { "q": "Melyik középkori vár található Brassó közelében?", "a": "Baryasz (Râșnov) vára egy lenyűgöző erődítmény egy dombtetőn a város közelében." }
+    ],
+    "ro": [
+      { "q": "Ce este Poiana Brașov?", "a": "Cea mai renumită și bine dotată stațiune pentru sporturi de iarnă din România." },
+      { "q": "De ce se numește Biserica Neagră?", "a": "Numele provine de la marele incendiu din 1689, care i-a înneghrit zidurile." },
+      { "q": "Ce munte domină orașul Brașov?", "a": "Muntele Tâmpa, care oferă o panoramă spectaculoasă asupra întregului oraș." },
+      { "q": "Ce cetate medievală importantă se află în apropiere?", "a": "Cetatea Râșnov este o fortificație țărănească impunătoare situată pe un deal stâncos." }
+    ],
+    "en": [
+      { "q": "What is Poiana Brașov?", "a": "The most famous and well-equipped ski resort in Romania." },
+      { "q": "Why is the Black Church called so?", "a": "It got its name after a great fire in 1689 that blackened its walls." },
+      { "q": "Which mountain surrounds the city of Brașov?", "a": "The city is located at the foot of the Postăvaru Mountains, part of the Carpathians." },
+      { "q": "Which medieval fortress is located near Brașov?", "a": "Râșnov Fortress is an impressive complex on a hill near the city." }
+    ]
+  },
+  "RO-BZ": {
+    "de": [
+      { "q": "Was sind die Schlammvulkane?", "a": "Ein seltenes geologisches Phänomen in Berca, bei dem kalter Schlamm aus der Erde sprudelt." },
+      { "q": "Welcher Wein ist in Buzău berühmt?", "a": "Die Weine aus dem Anbaugebiet Pietroasele sind national und international bekannt." },
+      { "q": "Gibt es Höhlenkirchen im Kreis Buzău?", "a": "Ja, die Höhlenkirchen von Aluniș-Colți sind bedeutende religiöse und historische Stätten." },
+      { "q": "Was ist das 'Bernsteinmuseum'?", "a": "In Colți gibt es ein einzigartiges Museum, das dem rumänischen Bernstein (Rumanit) gewidmet ist." }
+    ],
+    "hu": [
+      { "q": "Mik azok az iszapvulkánok?", "a": "Egy ritka geológiai jelenség Berca környékén, ahol hideg iszap tör fel a föld alól." },
+      { "q": "Melyik bor híres Buzău megyében?", "a": "A Pietroasele környéki borok országos és nemzetközi hírnévnek örvendenek." },
+      { "q": "Vannak barlangtemplomok Buzău megyében?", "a": "Igen, az Aluniș-Colți barlangtemplomok jelentős vallási és történelmi helyszínek." },
+      { "q": "Mi az a 'Borostyánmúzeum'?", "a": "Colți faluban található egy egyedülálló múzeum, amelyet a román borostyánnak (rumanit) szenteltek." }
+    ],
+    "ro": [
+      { "q": "Ce sunt Vulcanii Noroioși?", "a": "Un fenomen geologic rar la Berca, unde noroiul rece este împins la suprafață de gazele naturale." },
+      { "q": "Ce vin este celebru în județul Buzău?", "a": "Vinurile din podgoria Pietroasele sunt renumite, în special Tămâioasa Românească." },
+      { "q": "Există biserici rupestre în județul Buzău?", "a": "Da, așezările rupestre de la Aluniș-Colți-Bozioru sunt complexe religioase vechi și fascinante." },
+      { "q": "Ce este special la muzeul din Colți?", "a": "Este singurul muzeu din țară dedicat chihlimbarului, prezentând varietatea locală numită rumanit." }
+    ],
+    "en": [
+      { "q": "What are the Muddy Volcanoes?", "a": "A rare geological phenomenon in Berca, where cold mud bubbles up from the ground." },
+      { "q": "Which wine is famous in Buzău?", "a": "The wines from the Pietroasele vineyard are nationally and internationally recognized." },
+      { "q": "Are there cave churches in Buzău County?", "a": "Yes, the Aluniș-Colți cave churches are significant religious and historical sites." },
+      { "q": "What is the 'Amber Museum'?", "a": "In Colți, there is a unique museum dedicated to Romanian amber (Rumanit)." }
+    ]
+  },
+  "RO-CJ": {
+    "de": [
+      { "q": "Welches ist das wichtigste Denkmal auf dem Hauptplatz von Cluj?", "a": "Das Matthias-Corvinus-Denkmal vor der St.-Michaels-Kirche." },
+      { "q": "Gibt es in der Nähe von Cluj ein Naturreservat?", "a": "Die Turda-Schlucht (Cheile Turzii) ist ein spektakuläres Naturschutzgebiet ganz in der Nähe." },
+      { "q": "Was ist das Hoia-Baciu-Wald?", "a": "Ein Wald bei Cluj, der als einer der mysteriösesten und 'verspuktesten' Orte der Welt gilt." },
+      { "q": "Was macht Cluj zu einem IT-Hub?", "a": "Die Stadt beherbergt Hunderte von Softwareunternehmen und wird oft als 'Silicon Valley Rumäniens' bezeichnet." }
+    ],
+    "hu": [
+      { "q": "Mi a legfontosabb emlékmű Kolozsvár főterén?", "a": "Mátyás király szoborcsoportja a Szent Mihály-templom előtt." },
+      { "q": "Van természetvédelmi terület Kolozsvár közelében?", "a": "A Tordai-hasadék egy lenyűgöző és látványos természetvédelmi terület a közelben." },
+      { "q": "Mi az a Hója-erdő?", "a": "Egy Kolozsvár melletti erdő, amelyet a világ egyik legrejtélyesebb és 'szellemjárta' helyeként tartanak számon." },
+      { "q": "Miért tartják Kolozsvárt IT-központnak?", "a": "A város több száz szoftvercégnek ad otthont, gyakran 'Románia Szilícium-völgyeként' emlegetik." }
+    ],
+    "ro": [
+      { "q": "Care este cel mai cunoscut monument din Piața Unirii din Cluj?", "a": "Ansamblul monumental Matia Corvin, situat în fața Bisericii Sfântul Mihail." },
+      { "q": "Ce rezervație naturală importantă se află lângă Cluj?", "a": "Cheile Turzii oferă un peisaj carstic spectaculos și numeroase trasee de escaladă." },
+      { "q": "Ce este Pădurea Hoia-Baciu?", "a": "O pădure de lângă Cluj renumită pentru fenomenele paranormale raportate acolo." },
+      { "q": "De ce este Clujul numit un hub IT?", "a": "Datorită numărului mare de companii tehnologice și specialiști, fiind supranumit 'Silicon Valley de România'." }
+    ],
+    "en": [
+      { "q": "What is the most important monument in Cluj's main square?", "a": "The Matthias Corvinus Monument in front of St. Michael's Church." },
+      { "q": "Is there a nature reserve near Cluj?", "a": "The Turda Gorge (Cheile Turzii) is a spectacular nature reserve located very close by." },
+      { "q": "What is the Hoia-Baciu Forest?", "a": "A forest near Cluj considered one of the most mysterious and 'haunted' places in the world." },
+      { "q": "What makes Cluj an IT hub?", "a": "The city hosts hundreds of software companies and is often called the 'Silicon Valley of Romania'." }
+    ]
+  },
+  "RO-CL": {
+    "de": [
+      { "q": "Welcher Fluss prägt den Kreis Călărași?", "a": "Die Donau bildet die gesamte südliche Grenze des Kreises." },
+      { "q": "Was ist die wirtschaftliche Hauptstütze der Region?", "a": "Die Landwirtschaft und die Fischerei sind aufgrund der fruchtbaren Böden und der Donau zentral." },
+      { "q": "Gibt es einen Grenzübergang nach Bulgarien?", "a": "Ja, von Călărași aus gibt es eine Fährverbindung nach Silistra in Bulgarien." },
+      { "q": "Was ist der Mostiștea-See?", "a": "Einer der größten Seen in der Region, wichtig für die Bewässerung und Fischzucht." }
+    ],
+    "hu": [
+      { "q": "Melyik folyó határozza meg Călărași megyét?", "a": "A Duna alkotja a megye teljes déli határát." },
+      { "q": "Mi a régió fő gazdasági ágazata?", "a": "A mezőgazdaság és a halászat központi jelentőségű a termékeny talaj és a Duna miatt." },
+      { "q": "Van határátkelő Bulgária felé?", "a": "Igen, Călărași-ból komp közlekedik a bulgáriai Szilisztra városába." },
+      { "q": "Mi az a Mostiștea-tó?", "a": "A régió egyik legnagyobb tava, amely fontos az öntözés és a halászat szempontjából." }
+    ],
+    "ro": [
+      { "q": "Ce râu este esențial pentru județul Călărași?", "a": "Fluviul Dunărea formează întreaga frontieră sudică a județului." },
+      { "q": "Care este principala activitate economică din județ?", "a": "Agricultura este ramura de bază, județul având unele dintre cele mai fertile soluri din țară." },
+      { "q": "Există un punct de trecere a frontierei spre Bulgaria?", "a": "Da, trecerea cu bacul de la Călărași spre Silistra (Bulgaria)." },
+      { "q": "Ce este Balta Ialomiței?", "a": "O zonă insulară mare între brațele Dunării, importantă pentru agricultură și biodiversitate." }
+    ],
+    "en": [
+      { "q": "Which river characterizes Călărași County?", "a": "The Danube forms the entire southern border of the county." },
+      { "q": "What is the main economic mainstay of the region?", "a": "Agriculture and fishing are central due to the fertile soils and the Danube." },
+      { "q": "Is there a border crossing to Bulgaria?", "a": "Yes, there is a ferry connection from Călărași to Silistra in Bulgaria." },
+      { "q": "What is Mostiștea Lake?", "a": "One of the largest lakes in the region, important for irrigation and fish farming." }
+    ]
+  },
+  "RO-CS": {
+    "de": [
+      { "q": "Was ist die älteste Eisenbahnstrecke Rumäniens?", "a": "Die Strecke Oravița-Anina im Banater Bergland, oft als 'Semmering des Banats' bezeichnet." },
+      { "q": "Welcher Nationalpark liegt im Kreis Caraș-Severin?", "a": "Der Nationalpark Cheile Nerei-Beușnița mit seinen türkisfarbenen Seen und Wasserfällen." },
+      { "q": "Was ist Băile Herculane?", "a": "Einer der ältesten Kurorte der Welt, bereits von den Römern für seine Thermalquellen genutzt." },
+      { "q": "Was kann man am 'Eisernen Tor' sehen?", "a": "Die imposante Donau-Schlucht und die riesige Felsstatue des Decebalus." }
+    ],
+    "hu": [
+      { "q": "Melyik Románia legrégebbi hegyi vasútvonala?", "a": "Az Oravicabánya-Anina vonal, amelyet gyakran a 'Bánáti Semmeringnek' neveznek." },
+      { "q": "Melyik nemzeti park található Krassó-Szörény megyében?", "a": "A Néra-szurdok - Beușnița Nemzeti Park a türkizkék tavairól és vízeséseiről híres." },
+      { "q": "Mi az a Herkulesfürdő?", "a": "A világ egyik legrégebbi gyógyfürdője, amelyet már a rómaiak is használtak." },
+      { "q": "Mit lehet látni a Vaskapu-szorosnál?", "a": "A lenyűgöző dunai szurdokot és Decebal király hatalmas sziklába faragott szobrát." }
+    ],
+    "ro": [
+      { "q": "Care este cea mai veche cale ferată montană din România?", "a": "Calea ferată Oravița-Anina, supranumită 'Semmeringul bănățean'." },
+      { "q": "Ce minune naturală se află în Parcul Național Cheile Nerei?", "a": "Lacul Ochiul Beiului și Cascada Beușnița, renumite pentru apele lor de un turcoaz ireal." },
+      { "q": "De când datează stațiunea Băile Herculane?", "a": "Stațiunea are o istorie de aproape 2000 de ani, fiind fondată de romani sub numele de Ad Aquas Herculi Sacras." },
+      { "q": "Unde se află statuia lui Decebal?", "a": "Cea mai mare sculptură în piatră din Europa se află la Cazanele Dunării, lângă localitatea Dubova." }
+    ],
+    "en": [
+      { "q": "What is Romania's oldest mountain railway?", "a": "The Oravița-Anina line, often referred to as the 'Semmering of the Banat'." },
+      { "q": "Which national park is in Caraș-Severin County?", "a": "The Cheile Nerei-Beușnița National Park, famous for its turquoise lakes and waterfalls." },
+      { "q": "What is Băile Herculane?", "a": "One of the world's oldest spa resorts, used by the Romans for its thermal springs." },
+      { "q": "What can be seen at the 'Iron Gates'?", "a": "The imposing Danube Gorge and the massive rock statue of Decebalus." }
+    ]
+  },
+  "RO-CT": {
+    "de": [
+      { "q": "Was ist das bekannteste Casino in Rumänien?", "a": "Das Jugendstil-Casino in Constanța, ein Wahrzeichen am Ufer des Schwarzen Meeres." },
+      { "q": "Welches ist das größte Seebad an der rumänischen Küste?", "a": "Mamaia, bekannt für seine feinen Sandstrände und das pulsierende Nachtleben." },
+      { "q": "Was ist Tomis?", "a": "Der antike griechische Name der Stadt Constanța, die vor über 2.500 Jahren gegründet wurde." },
+      { "q": "Welche Bedeutung hat der Hafen von Constanța?", "a": "Er ist der größte Hafen am Schwarzen Meer und einer der wichtigsten in Europa." }
+    ],
+    "hu": [
+      { "q": "Melyik a legismertebb kaszinó Romániában?", "a": "A konstancai szecessziós kaszinó, amely a Fekete-tenger partjának jelképe." },
+      { "q": "Melyik a legnagyobb tengerparti üdülőhely Romániában?", "a": "Mamaia, amely finom homokos strandjairól és pezsgő éjszakai életéről híres." },
+      { "q": "Mi az a Tomis?", "a": "Konstanca ókori görög neve, a várost több mint 2500 évvel ezelőtt alapították." },
+      { "q": "Mi Konstanca kikötőjének jelentősége?", "a": "A Fekete-tenger legnagyobb kikötője és Európa egyik legfontosabb tengeri kapuja." }
+    ],
+    "ro": [
+      { "q": "Care este clădirea simbol a orașului Constanța?", "a": "Cazinoul din Constanța, o capodoperă a stilului Art Nouveau situată pe faleza mării." },
+      { "q": "Care este cea mai veche așezare atestată de pe teritoriul României?", "a": "Cetatea Histria, situată în județul Constanța, fondată de coloniști greci în secolul VII î.Hr." },
+      { "q": "Ce mare port se află în acest județ?", "a": "Portul Constanța, cel mai mare port de la Marea Neagră și al patrulea din Europa." },
+      { "q": "Care este cea mai populară stațiune de pe litoral?", "a": "Mamaia este considerată 'perla' litoralului românesc, fiind cea mai modernă stațiune." }
+    ],
+    "en": [
+      { "q": "What is the most famous casino in Romania?", "a": "The Art Nouveau Casino in Constanța, a landmark on the shores of the Black Sea." },
+      { "q": "Which is the largest seaside resort on the Romanian coast?", "a": "Mamaia, known for its fine sandy beaches and vibrant nightlife." },
+      { "q": "What is Tomis?", "a": "The ancient Greek name for the city of Constanța, founded over 2,500 years ago." },
+      { "q": "What is the significance of the Port of Constanța?", "a": "It is the largest port on the Black Sea and one of the most important in Europe." }
+    ]
+  },
+  "RO-CV": {
+    "de": [
+      { "q": "Warum wird der Kreis Covasna 'Land der Herrenhäuser' genannt?", "a": "Weil es dort über 160 historische Herrenhäuser und kleine Schlösser gibt." },
+      { "q": "Was ist eine Mofette?", "a": "Ein natürlicher Gasaustritt (CO2), der für medizinische Behandlungen genutzt wird." },
+      { "q": "Welche Stadt ist das Zentrum des Kreises?", "a": "Sfântu Gheorghe (Sankt Georgen) ist die Hauptstadt und ein kulturelles Zentrum der Szekler." },
+      { "q": "Gibt es Mineralwasser in Covasna?", "a": "Ja, der Kreis ist reich an hunderten von Mineralwasserquellen, die lokal abgefüllt werden." }
+    ],
+    "hu": [
+      { "q": "Miért nevezik Kovászna megyét a 'kúriák földjének'?", "a": "Mert több mint 160 történelmi udvarház és kisebb kastély található ott." },
+      { "q": "Mi az a mofetta?", "a": "Természetes gázfeltörés (szén-dioxid), amelyet gyógyászati célokra használnak." },
+      { "q": "Melyik város a megye központja?", "a": "Sepsiszentgyörgy a megyeszékhely és a székelyföldi kultúra egyik központja." },
+      { "q": "Van ásványvíz Kovásznán?", "a": "Igen, a megye több száz ásványvízforrásban gazdag, amelyeket helyben palackoznak." }
+    ],
+    "ro": [
+      { "q": "De ce este Covasna numită 'Ținutul Conacelor'?", "a": "Datorită numărului mare de conace istorice (peste 160) răspândite în tot județul." },
+      { "q": "Ce sunt mofetele?", "a": "Emanații naturale de dioxid de carbon folosite în tratarea bolilor cardiovasculare." },
+      { "q": "Care este reședința de județ?", "a": "Orașul Sfântu Gheorghe, un centru cultural important al comunității maghiare." },
+      { "q": "Prin ce sunt renumite localitățile Covasna și Biborțeni?", "a": "Sunt celebre pentru calitatea superioară a apelor minerale naturale." }
+    ],
+    "en": [
+      { "q": "Why is Covasna County called 'Land of Mansions'?", "a": "Because there are over 160 historic mansions and small castles there." },
+      { "q": "What is a mofette?", "a": "A natural gas discharge (CO2) used for medical treatments." },
+      { "q": "Which city is the center of the county?", "a": "Sfântu Gheorghe is the capital and a cultural center for the Székely community." },
+      { "q": "Is there mineral water in Covasna?", "a": "Yes, the county is rich in hundreds of mineral water springs that are bottled locally." }
+    ]
+  },
+  "RO-DB": {
+    "de": [
+      { "q": "Was ist der Chindia-Turm?", "a": "Ein historischer Wehrturm in Târgoviște, erbaut von Vlad dem Pfähler." },
+      { "q": "Welches Gebirge liegt im Norden des Kreises Dâmbovița?", "a": "Das Bucegi-Gebirge mit spektakulären Formationen wie Babele und Sfinxul." },
+      { "q": "Was war Târgoviște früher?", "a": "Über Jahrhunderte war es die Hauptstadt und der Fürstenhof der Walachei." },
+      { "q": "Was ist die Peștera-Höhle?", "a": "Eine bekannte Schauhöhle im Bucegi-Massiv mit einer kleinen Kirche am Eingang." }
+    ],
+    "hu": [
+      { "q": "Mi az a Chindia-torony?", "a": "Egy történelmi őrtorony Târgoviște-ben, amelyet Vlad Țepeș építtetett." },
+      { "q": "Melyik hegység fekszik Dâmbovița megye északi részén?", "a": "A Bucsecs-hegység, olyan látványos alakzatokkal, mint a Babele és a Szfinx." },
+      { "q": "Mi volt Târgoviște régen?", "a": "Évszázadokon át Havasalföld fővárosa és fejedelmi udvara volt." },
+      { "q": "Mi az a Peștera-barlang?", "a": "Egy ismert barlang a Bucsecs-masszívumban, bejáratánál egy kis templommal." }
+    ],
+    "ro": [
+      { "q": "Ce este Turnul Chindiei?", "a": "Un simbol al orașului Târgoviște, construit de Vlad Țepeș ca turn de supraveghere și apărare." },
+      { "q": "Ce formațiuni stâncoase celebre se află în județul Dâmbovița?", "a": "Babele și Sfinxul din Munții Bucegi sunt cele mai cunoscute atracții naturale." },
+      { "q": "Ce importanță istorică are Târgoviște?", "a": "A fost capitala Țării Românești și reședință domnească timp de peste trei secole." },
+      { "q": "Unde se află Peștera Ialomiței?", "a": "În Munții Bucegi, la o altitudine de 1660m, având la intrare un schit construit în secolul XVI." }
+    ],
+    "en": [
+      { "q": "What is the Chindia Tower?", "a": "A historical watchtower in Târgoviște, built by Vlad the Impaler." },
+      { "q": "Which mountains are in the north of Dâmbovița County?", "a": "The Bucegi Mountains, featuring spectacular formations like Babele and the Sphinx." },
+      { "q": "What was Târgoviște in the past?", "a": "For centuries, it was the capital and the Princely Court of Wallachia." },
+      { "q": "What is the Peștera Cave?", "a": "A well-known show cave in the Bucegi Massif with a small church at the entrance." }
+    ]
+  },
+  "RO-DJ": {
+    "de": [
+      { "q": "Was ist das Wahrzeichen von Craiova?", "a": "Der Nicolae-Romanescu-Park, einer der größten und schönsten Naturparks Europas." },
+      { "q": "Wofür ist der Kreis Dolj bekannt?", "a": "Für seine fruchtbaren Böden und als Zentrum der Region Oltenien." },
+      { "q": "Welcher große Fluss fließt südlich des Kreises?", "a": "Die Donau bildet die gesamte Südgrenze des Kreises Dolj." },
+      { "q": "Gibt es ein bedeutendes Museum in Craiova?", "a": "Das Kunstmuseum von Craiova beherbergt bedeutende Werke von Constantin Brâncuși." }
+    ],
+    "hu": [
+      { "q": "Mi Craiova legismertebb látványossága?", "a": "A Nicolae Romanescu Park, amely Európa egyik legnagyobb és legszebb tájképi parkja." },
+      { "q": "Miről ismert Dolj megye?", "a": "Termékeny földjeiről és Olténia régió központjaként." },
+      { "q": "Melyik nagy folyó folyik a megyétől délre?", "a": "A Duna alkotja Dolj megye teljes déli határát." },
+      { "q": "Van jelentős múzeum Craiovában?", "a": "A Craiovai Művészeti Múzeum Constantin Brâncuși több jelentős alkotását őrzi." }
+    ],
+    "ro": [
+      { "q": "Ce parc renumit se află în Craiova?", "a": "Parcul Nicolae Romanescu, cel mai mare parc natural din estul Europei, proiectat de un peisagist francez." },
+      { "q": "Care este capitala istorică a Olteniei?", "a": "Municipiul Craiova este considerat centrul istoric și cultural al Olteniei." },
+      { "q": "Ce râu important trece prin județul Dolj?", "a": "Râul Jiu traversează județul, iar la sud acesta este mărginit de Dunăre." },
+      { "q": "Ce lucrări celebre se află la Muzeul de Artă din Craiova?", "a": "Muzeul deține șase sculpturi valoroase ale lui Constantin Brâncuși." }
+    ],
+    "en": [
+      { "q": "What is the landmark of Craiova?", "a": "The Nicolae Romanescu Park, one of the largest and most beautiful natural parks in Europe." },
+      { "q": "What is Dolj County known for?", "a": "For its fertile soils and as the center of the Oltenia region." },
+      { "q": "Which large river flows south of the county?", "a": "The Danube forms the entire southern border of Dolj County." },
+      { "q": "Is there a significant museum in Craiova?", "a": "The Craiova Art Museum houses important works by Constantin Brâncuși." }
+    ]
+  },
+  "RO-GJ": {
+    "de": [
+      { "q": "Wer ist der berühmteste Künstler aus Gorj?", "a": "Constantin Brâncuși, ein Pionier der modernen Bildhauerei, geboren in Hobița." },
+      { "q": "Wo stehen die berühmten Werke von Brâncuși?", "a": "In Târgu Jiu befinden sich 'Die unendliche Säule', 'Der Tisch des Schweigens' und 'Das Tor des Kusses'." },
+      { "q": "Was ist die Transalpina?", "a": "Die höchste Gebirgsstraße Rumäniens, die durch das Parâng-Gebirge in Gorj führt." },
+      { "q": "Welches Kloster ist in Gorj bekannt?", "a": "Das Tismana-Kloster ist eines der ältesten und schönsten Klöster der Walachei." }
+    ],
+    "hu": [
+      { "q": "Ki a leghíresebb művész Gorj megyéből?", "a": "Constantin Brâncuși, a modern szobrászat úttörője, aki Hobițában született." },
+      { "q": "Hol találhatók Brâncuși híres művei?", "a": "Zsilvásárhelyen (Târgu Jiu) látható a 'Végtelen oszlop', 'A hallgatás asztala' és 'A csók kapuja'." },
+      { "q": "Mi az a Transzalpina?", "a": "Románia legmagasabb hegyi útja, amely a Páring-hegységen halad át Gorj megyében." },
+      { "q": "Melyik kolostor ismert Gorj megyében?", "a": "A Tismana-kolostor Havasalföld egyik legrégebbi és legszebb kolostora." }
+    ],
+    "ro": [
+      { "q": "Unde se află Ansamblul Sculptural Constantin Brâncuși?", "a": "În orașul Târgu Jiu, unde pot fi admirate Coloana fără Sfârșit, Masa Tăcerii și Poarta Sărutului." },
+      { "q": "Ce șosea faimoasă pornește din județul Gorj?", "a": "Transalpina (DN67C), cea mai înaltă șosea din România, care atinge 2145m în pasul Urdele." },
+      { "q": "Cine este 'Eroina de la Jiu'?", "a": "Ecaterina Teodoroiu, tânăra cercetașă care a luptat și a murit în Primul Război Mondial, originară din Gorj." },
+      { "q": "Care este cea mai veche mănăstire din Oltenia?", "a": "Mănăstirea Tismana, un centru spiritual și cultural major fondat în secolul al XIV-lea." }
+    ],
+    "en": [
+      { "q": "Who is the most famous artist from Gorj?", "a": "Constantin Brâncuși, a pioneer of modern sculpture, born in Hobița." },
+      { "q": "Where are the famous works of Brâncuși located?", "a": "In Târgu Jiu, you can see 'The Endless Column', 'The Table of Silence', and 'The Gate of the Kiss'." },
+      { "q": "What is the Transalpina?", "a": "The highest mountain road in Romania, passing through the Parâng Mountains in Gorj." },
+      { "q": "Which monastery is well-known in Gorj?", "a": "Tismana Monastery is one of the oldest and most beautiful monasteries in Wallachia." }
+    ]
+  },
+  "RO-GL": {
+    "de": [
+      { "q": "Wo liegt Galați?", "a": "Galați ist eine große Hafenstadt am linken Ufer der Donau, nahe der Grenze zur Republik Moldau." },
+      { "q": "Was ist die wirtschaftliche Basis der Stadt?", "a": "Das riesige Stahlwerk (Liberty Galați) und der Schiffsbau sind die wichtigsten Industrien." },
+      { "q": "Gibt es eine Promenade in Galați?", "a": "Ja, die Donaupromenade (Faleza Dunării) ist ein beliebter Ort für Spaziergänge und Skulpturen." },
+      { "q": "Was ist das Besondere am Naturwissenschaftlichen Museum?", "a": "Es verfügt über ein modernes Planetarium und ein beeindruckendes Aquarium." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Galați?", "a": "Galați egy nagy kikötőváros a Duna bal partján, a Moldovai Köztársaság határa közelében." },
+      { "q": "Mi a város gazdasági alapja?", "a": "A hatalmas acélmű (Liberty Galați) és a hajógyártás a legfontosabb iparágak." },
+      { "q": "Van sétány Galați-ban?", "a": "Igen, a dunai sétány (Faleza Dunării) a séták és a szabadtéri szobrok kedvelt helyszíne." },
+      { "q": "Mi a különleges a Természettudományi Múzeumban?", "a": "Modern planetáriummal és lenyűgöző akváriummal rendelkezik." }
+    ],
+    "ro": [
+      { "q": "Unde este situat orașul Galați?", "a": "Galați este un port fluvial major situat la cotul Dunării, în sudul Moldovei." },
+      { "q": "Care este cel mai important obiectiv industrial din Galați?", "a": "Combinatul siderurgic Liberty Galați, cel mai mare din țară." },
+      { "q": "Ce reprezintă Faleza Dunării pentru gălățeni?", "a": "Este cea mai lungă faleză de pe malul Dunării și principalul loc de promenadă, decorat cu sculpturi în metal." },
+      { "q": "Ce instituție de învățământ superior este renumită aici?", "a": "Universitatea 'Dunărea de Jos', specializată în inginerie navală și metalurgie." }
+    ],
+    "en": [
+      { "q": "Where is Galați located?", "a": "Galați is a large port city on the left bank of the Danube, near the border with the Republic of Moldova." },
+      { "q": "What is the economic basis of the city?", "a": "The massive steel plant (Liberty Galați) and shipbuilding are the most important industries." },
+      { "q": "Is there a promenade in Galați?", "a": "Yes, the Danube Promenade (Faleza Dunării) is a popular place for walks and features outdoor sculptures." },
+      { "q": "What is special about the Natural Science Museum?", "a": "It features a modern planetarium and an impressive aquarium." }
+    ]
+  },
+  "RO-GR": {
+    "de": [
+      { "q": "Was verbindet Giurgiu mit Bulgarien?", "a": "Die Brücke der Freundschaft (Giurgiu-Ruse-Brücke) über die Donau." },
+      { "q": "Gibt es einen Nationalpark im Kreis Giurgiu?", "a": "Der Comana-Naturpark, oft als 'Delta bei Bukarest' bezeichnet, ist ein wichtiges Schutzgebiet." },
+      { "q": "Welche historische Bedeutung hat Giurgiu?", "a": "Es war eine wichtige Grenzfestung gegen das Osmanische Reich." },
+      { "q": "Was ist das Kloster Comana?", "a": "Ein historisches Kloster, das von Vlad dem Pfähler im 15. Jahrhundert gegründet wurde." }
+    ],
+    "hu": [
+      { "q": "Mi köti össze Giurgiu-t Bulgáriával?", "a": "A Barátság híd (Giurgiu-Ruse híd) a Duna felett." },
+      { "q": "Van nemzeti park Giurgiu megyében?", "a": "A Comana Natúrpark, amelyet gyakran a 'Bukarest melletti deltának' neveznek, fontos védett terület." },
+      { "q": "Milyen történelmi jelentősége van Giurgiu-nak?", "a": "Fontos határerőd volt az Oszmán Birodalommal szemben." },
+      { "q": "Mi az a Comana kolostor?", "a": "Egy történelmi kolostor, amelyet Vlad Țepeș alapított a 15. században." }
+    ],
+    "ro": [
+      { "q": "Cum se numește podul care leagă Giurgiu de Bulgaria?", "a": "Podul Prieteniei (Giurgiu-Ruse), primul pod construit peste Dunăre între cele două țări." },
+      { "q": "Ce rezervație naturală este supranumită 'a doua Deltă a României'?", "a": "Parcul Natural Comana, datorită biodiversității sale asemănătoare Deltei Dunării." },
+      { "q": "Cine a ctitorit Mănăstirea Comana?", "a": "Mănăstirea a fost ctitorită de Vlad Țepeș în anul 1461 ca o mănăstire-cetate." },
+      { "q": "Ce port important se află pe Dunăre în acest județ?", "a": "Portul Giurgiu, un punct strategic pentru transportul fluvial și comerț." }
+    ],
+    "en": [
+      { "q": "What connects Giurgiu with Bulgaria?", "a": "The Friendship Bridge (Giurgiu-Ruse Bridge) over the Danube." },
+      { "q": "Is there a national park in Giurgiu County?", "a": "The Comana Natural Park, often called the 'Delta near Bucharest', is an important protected area." },
+      { "q": "What historical significance does Giurgiu have?", "a": "It was an important border fortress against the Ottoman Empire." },
+      { "q": "What is the Comana Monastery?", "a": "A historical monastery founded by Vlad the Impaler in the 15th century." }
+    ]
+  },
+  "RO-HD": {
+    "de": [
+      { "q": "Was ist die Burg Hunedoara?", "a": "Das Schloss Corvinilor, eine der prächtigsten gotischen Burgen in Osteuropa." },
+      { "q": "Was war Sarmizegetusa Regia?", "a": "Die antike Hauptstadt der Daker, gelegen in den Orăstie-Bergen." },
+      { "q": "Welcher Nationalpark liegt in Hunedoara?", "a": "Der Nationalpark Retezat, bekannt für seine über 80 Gletscherseen." },
+      { "q": "Was ist das 'Goldschatz-Museum'?", "a": "In Brad gibt es ein einzigartiges Museum, das die Bergbaugeschichte und Goldfunde zeigt." }
+    ],
+    "hu": [
+      { "q": "Mi az a vajdahunyadi vár?", "a": "A Hunyadi-kastély (Castelul Corvinilor), Kelet-Európa egyik legpompásabb gótikus vára." },
+      { "q": "Mi volt Sarmizegetusa Regia?", "a": "A dákok egykori fővárosa a Szászvárosi-hegységben." },
+      { "q": "Melyik nemzeti park található Hunyad megyében?", "a": "A Retyezát Nemzeti Park, amely több mint 80 tengerszeméről (gleccsertaváról) híres." },
+      { "q": "Mi az 'Aranymúzeum'?", "a": "Brádban található egy egyedülálló múzeum, amely a bányászat történetét és aranyleleteket mutat be." }
+    ],
+    "ro": [
+      { "q": "Care este cel mai impunător castel gotic din România?", "a": "Castelul Corvinilor din Hunedoara, considerat unul dintre cele mai frumoase din lume." },
+      { "q": "Unde se află Sarmizegetusa Regia?", "a": "În Munții Orăștiei, fiind capitala politică și religioasă a Daciei înainte de cucerirea romană." },
+      { "q": "Prin ce este renumit Parcul Național Retezat?", "a": "Prin numărul mare de lacuri glaciare (peste 80), inclusiv cel mai întins lac glaciar din țară, Bucura." },
+      { "q": "Ce se poate vizita la Brad?", "a": "Muzeul Aurului, unic în Europa, care expune o colecție impresionantă de aur nativ." }
+    ],
+    "en": [
+      { "q": "What is the Hunedoara Castle?", "a": "Corvin Castle (Castelul Corvinilor), one of the most magnificent Gothic castles in Eastern Europe." },
+      { "q": "What was Sarmizegetusa Regia?", "a": "The ancient capital of the Dacians, located in the Orăstie Mountains." },
+      { "q": "Which national park is in Hunedoara?", "a": "Retezat National Park, known for its over 80 glacial lakes." },
+      { "q": "What is the 'Gold Museum'?", "a": "In Brad, there is a unique museum showcasing mining history and gold specimens." }
+    ]
+  },
+  "RO-HR": {
+    "de": [
+      { "q": "Was ist der Sankt-Anna-See?", "a": "Der einzige Vulkansee in Mittel- und Osteuropa, gelegen in einem Krater." },
+      { "q": "Was ist die Bicaz-Schlucht?", "a": "Eine spektakuläre, enge Schlucht mit bis zu 300 Meter hohen Felswänden." },
+      { "q": "Woher kommt das Mineralwasser Borsec?", "a": "Aus dem gleichnamigen Kurort im Kreis Harghita, der für seine Quellen weltberühmt ist." },
+      { "q": "Was ist der Rote See (Lacu Roșu)?", "a": "Ein natürlicher Stausee, der durch einen Erdrutsch entstand; aus dem Wasser ragen versteinerte Baumstämme." }
+    ],
+    "hu": [
+      { "q": "Mi az a Szent Anna-tó?", "a": "Közép- és Kelet-Európa egyetlen vulkáni krátertava." },
+      { "q": "Mi a Békás-szoros?", "a": "Egy lenyűgöző, szűk szurdokvölgy, akár 300 méter magas sziklafalakkal." },
+      { "q": "Honnan származik a Borszéki ásványvíz?", "a": "A Hargita megyei Borszék üdülővárosból, amely forrásairól világszerte híres." },
+      { "q": "Mi az a Gyilkos-tó?", "a": "Egy földcsuszamlás által keletkezett természetes torlasztó, amelyből megkövült fatörzsek állnak ki." }
+    ],
+    "ro": [
+      { "q": "Ce este unicat la Lacul Sfânta Ana?", "a": "Este singurul lac vulcanic din România și din Europa Centrală, format într-un crater stins." },
+      { "q": "Unde se află Cheile Bicazului?", "a": "La granița dintre județele Harghita și Neamț, fiind una dintre cele mai spectaculoase trecători montane." },
+      { "q": "Ce stațiune din Harghita este faimoasă pentru apele sale minerale?", "a": "Borsec, supranumită 'Regina Apelor Minerale', premiată internațional încă din secolul XIX." },
+      { "q": "Cum s-a format Lacul Roșu?", "a": "S-a format prin bararea naturală a râului Bicaz în urma unui cutremur și a unei alunecări de teren în 1837." }
+    ],
+    "en": [
+      { "q": "What is Saint Anne Lake?", "a": "The only volcanic crater lake in Central and Eastern Europe." },
+      { "q": "What is the Bicaz Gorge?", "a": "A spectacular, narrow gorge with rock walls up to 300 meters high." },
+      { "q": "Where does Borsec mineral water come from?", "a": "From the resort of the same name in Harghita County, world-famous for its springs." },
+      { "q": "What is the Red Lake (Lacu Roșu)?", "a": "A natural dam lake formed by a landslide, with petrified tree trunks emerging from the water." }
+    ]
+  },
+  "RO-IF": {
+    "de": [
+      { "q": "Was ist das Snagov-Kloster?", "a": "Ein auf einer Insel im Snagov-See gelegenes Kloster, in dem sich das Grab von Vlad dem Pfähler befinden soll." },
+      { "q": "Wo liegt der internationale Flughafen Rumäniens?", "a": "Der Flughafen Henri Coandă (Otopeni) befindet sich im Kreis Ilfov, nördlich von Bukarest." },
+      { "q": "Was ist Therme București?", "a": "Eines der größten Wellness- und Thermalbadzentren Europas, gelegen in Balotești." },
+      { "q": "Was ist der Mogosoaia-Palast?", "a": "Ein prächtiger Palast im Brâncovenesc-Stil, umgeben von schönen Gärten." }
+    ],
+    "hu": [
+      { "q": "Mi az a Snagov-kolostor?", "a": "A Snagov-tó egyik szigetén található kolostor, ahol a legenda szerint Vlad Țepeș sírja van." },
+      { "q": "Hol található Románia nemzetközi repülőtere?", "a": "A Henri Coandă (Otopeni) repülőtér Ilfov megyében, Bukaresttől északra fekszik." },
+      { "q": "Mi az a Therme București?", "a": "Európa egyik legnagyobb wellness- és termálfürdő központja, amely Balotești-ben található." },
+      { "q": "Mi a Mogoșoaia-palota?", "a": "Egy gyönyörű, Brâncovenesc-stílusú palota, amelyet csodálatos kertek vesznek körül." }
+    ],
+    "ro": [
+      { "q": "Ce legendă este legată de Mănăstirea Snagov?", "a": "Se spune că aici s-ar afla mormântul lui Vlad Țepeș, mănăstirea fiind situată pe o insulă." },
+      { "q": "Unde se află principalul aeroport al țării?", "a": "Aeroportul Internațional 'Henri Coandă' se află în orașul Otopeni, județul Ilfov." },
+      { "q": "Ce este Palatul Mogoșoaia?", "a": "O capodoperă a stilului brâncovenesc, construită de Constantin Brâncoveanu în 1702." },
+      { "q": "Ce centru de relaxare major se află în Ilfov?", "a": "Therme București, cel mai mare centru de wellness și divertisment din această parte a Europei." }
+    ],
+    "en": [
+      { "q": "What is the Snagov Monastery?", "a": "A monastery located on an island in Snagov Lake, said to house the tomb of Vlad the Impaler." },
+      { "q": "Where is Romania's main international airport?", "a": "The Henri Coandă (Otopeni) Airport is located in Ilfov County, north of Bucharest." },
+      { "q": "What is Therme București?", "a": "One of the largest wellness and thermal spa centers in Europe, located in Balotești." },
+      { "q": "What is the Mogosoaia Palace?", "a": "A magnificent palace in the Brâncovenesc style, surrounded by beautiful gardens." }
+    ]
+  },
+  "RO-IL": {
+    "de": [
+      { "q": "Was ist die wirtschaftliche Basis des Kreises Ialomița?", "a": "Es ist eine rein landwirtschaftliche Region im Herzen der Bărăgan-Ebene." },
+      { "q": "Welche Stadt ist die Hauptstadt von Ialomița?", "a": "Slobozia ist das administrative und kulturelle Zentrum des Kreises." },
+      { "q": "Was ist der Kurort Amara?", "a": "Ein bekannter Ort für Behandlungen mit Heilschlamm aus dem Amara-See." },
+      { "q": "Welcher Fluss fließt durch den Kreis?", "a": "Der Fluss Ialomița, der dem Kreis seinen Namen gibt und in die Donau mündet." }
+    ],
+    "hu": [
+      { "q": "Mi Ialomița megye gazdasági alapja?", "a": "Ez egy tisztán mezőgazdasági régió a Bărăgan-síkság szívében." },
+      { "q": "Melyik város Ialomița központja?", "a": "Slobozia a megye adminisztratív és kulturális központja." },
+      { "q": "Mi az az Amara-üdülőhely?", "a": "Az Amara-tó gyógyiszapjáról ismert népszerű kezelési központ." },
+      { "q": "Melyik folyó folyik keresztül a megyén?", "a": "A Ialomița folyó, amely a megye nevét adja és a Dunába torkollik." }
+    ],
+    "ro": [
+      { "q": "Care este profilul economic al județului Ialomița?", "a": "Este un județ predominant agricol, situat în inima Bărăganului, 'grânarul României'." },
+      { "q": "Prin ce este cunoscută stațiunea Amara?", "a": "Pentru lacul sărat și nămolul sapropelic cu proprietăți terapeutice deosebite." },
+      { "q": "Ce obiectiv cultural inedit se află în Slobozia?", "a": "Muzeul Național al Agriculturii, singurul de acest fel din țară." },
+      { "q": "Ce râu important străbate județul?", "a": "Râul Ialomița, care traversează județul de la vest la est până la vărsarea în Dunăre." }
+    ],
+    "en": [
+      { "q": "What is the economic basis of Ialomița County?", "a": "It is a purely agricultural region in the heart of the Bărăgan Plain." },
+      { "q": "Which city is the capital of Ialomița?", "a": "Slobozia is the administrative and cultural center of the county." },
+      { "q": "What is the Amara resort?", "a": "A well-known place for treatments using therapeutic mud from Amara Lake." },
+      { "q": "Which river flows through the county?", "a": "The Ialomița River, which gives the county its name and flows into the Danube." }
+    ]
+  },
+  "RO-IS": {
+    "de": [
+      { "q": "Was ist der Kulturpalast in Iași?", "a": "Ein prächtiges neugotisches Gebäude, das heute vier Museen beherbergt." },
+      { "q": "Welche religiöse Bedeutung hat Iași?", "a": "Die Stadt ist ein wichtiger Wallfahrtsort, besonders zum Fest der Heiligen Parascheva." },
+      { "q": "Was ist die Universität 'Alexandru Ioan Cuza'?", "a": "Die älteste Universität Rumäniens, gegründet im Jahr 1860." },
+      { "q": "Gibt es einen Botanischen Garten in Iași?", "a": "Ja, der Botanische Garten von Iași ist der älteste und einer der größten des Landes." }
+    ],
+    "hu": [
+      { "q": "Mi az a Kultúrpalota Iași-ban (Jászvásár)?", "a": "Egy pompás neogótikus épület, amely ma négy múzeumnak ad otthont." },
+      { "q": "Milyen vallási jelentősége van Iași-nak?", "a": "A város fontos zarándokhely, különösen Szent Paraszkiva ünnepén." },
+      { "q": "Mi az 'Alexandru Ioan Cuza' Egyetem?", "a": "Románia legrégebbi egyeteme, amelyet 1860-ban alapítottak." },
+      { "q": "Van botanikus kert Iași-ban?", "a": "Igen, a jászvásári botanikus kert az ország legrégebbi és egyik legnagyobb ilyen intézménye." }
+    ],
+    "ro": [
+      { "q": "Care este simbolul arhitectural al orașului Iași?", "a": "Palatul Culturii, o clădire monumentală în stil neogotic care găzduiește patru muzee naționale." },
+      { "q": "Ce eveniment religios major are loc anual în Iași?", "a": "Pelerinajul la moaștele Sfintei Cuvioase Parascheva, cel mai mare din România." },
+      { "q": "Care este prima universitate din România?", "a": "Universitatea 'Alexandru Ioan Cuza' din Iași, fondată de domnitorul Cuza în 1860." },
+      { "q": "Ce este Teiul lui Eminescu?", "a": "Un arbore multisecular din parcul Copou, unde poetul național își găsea inspirația." }
+    ],
+    "en": [
+      { "q": "What is the Palace of Culture in Iași?", "a": "A magnificent Neo-Gothic building that now houses four museums." },
+      { "q": "What religious significance does Iași have?", "a": "The city is a major pilgrimage site, especially for the Feast of Saint Parascheva." },
+      { "q": "What is the 'Alexandru Ioan Cuza' University?", "a": "The oldest university in Romania, founded in 1860." },
+      { "q": "Is there a Botanical Garden in Iași?", "a": "Yes, the Iași Botanical Garden is the oldest and one of the largest in the country." }
+    ]
+  },
+  "RO-MH": {
+    "de": [
+      { "q": "Was ist die Trajansbrücke?", "a": "Die Ruinen einer antiken römischen Brücke über die Donau bei Drobeta-Turnu Severin." },
+      { "q": "Was ist das Wasserkraftwerk 'Eisernes Tor I'?", "a": "Eines der größten Wasserkraftwerke Europas, betrieben von Rumänien und Serbien." },
+      { "q": "Was kann man in der Ponoarele-Höhle sehen?", "a": "Die 'Gottesbrücke', eine der wenigen natürlichen Brücken weltweit, die befahren werden kann." },
+      { "q": "Welche Stadt ist die Hauptstadt von Mehedinți?", "a": "Drobeta-Turnu Severin, eine Stadt mit reicher römischer und mittelalterlicher Geschichte." }
+    ],
+    "hu": [
+      { "q": "Mi az a Traianus hídja?", "a": "Egy ókori római híd romjai a Dunán Drobeta-Turnu Severin (Szörényvár) közelében." },
+      { "q": "Mi a 'Vaskapu I' vízerőmű?", "a": "Európa egyik legnagyobb vízerőműve, amelyet Románia és Szerbia közösen üzemeltet." },
+      { "q": "Mit lehet látni Ponoarele-ben?", "a": "Az 'Isten hídját', a világ kevés természetes hídjának egyikét, amely közúti forgalomra is alkalmas." },
+      { "q": "Melyik város Mehedinți központja?", "a": "Drobeta-Turnu Severin, egy gazdag római és középkori múlttal rendelkező város." }
+    ],
+    "ro": [
+      { "q": "Unde se află ruinele podului lui Traian?", "a": "La Drobeta-Turnu Severin, fiind construit de Apollodor din Damasc în timpul războaielor daco-romane." },
+      { "q": "Ce este 'Podul lui Dumnezeu'?", "a": "O arcadă naturală de piatră în localitatea Ponoarele, singurul pod natural din lume deschis traficului rutier." },
+      { "q": "Ce obiectiv strategic se află la Gura Văii?", "a": "Sistemul Hidroenergetic și de Navigație Porțile de Fier I, cel mai mare de pe Dunăre." },
+      { "q": "Ce se poate vizita la Orșova?", "a": "Mănăstirea Sfânta Ana, situată pe un deal cu o vedere panoramică superbă asupra Dunării." }
+    ],
+    "en": [
+      { "q": "What is Trajan's Bridge?", "a": "The ruins of an ancient Roman bridge over the Danube near Drobeta-Turnu Severin." },
+      { "q": "What is the 'Iron Gates I' hydroelectric power station?", "a": "One of the largest in Europe, operated by Romania and Serbia." },
+      { "q": "What can be seen in Ponoarele?", "a": "The 'God's Bridge', one of the few natural bridges in the world open to traffic." },
+      { "q": "Which city is the capital of Mehedinți?", "a": "Drobeta-Turnu Severin, a city with rich Roman and medieval history." }
+    ]
+  },
+  "RO-MM": {
+    "de": [
+      { "q": "Was ist der Lustige Friedhof?", "a": "Der Friedhof von Săpânța, bekannt für seine bunten Kreuze und humorvollen Grabinschriften." },
+      { "q": "Wofür ist die Region Maramureș bekannt?", "a": "Für ihre Holzkirchen (UNESCO-Erbe) und die Bewahrung jahrhundertealter Traditionen." },
+      { "q": "Was ist die Mocănița?", "a": "Eine historische dampfbetriebene Waldbahn, die durch das malerische Wassertal (Valea Vaserului) fährt." },
+      { "q": "Welches Museum gibt es in Sighetu Marmației?", "a": "Die Gedenkstätte für die Opfer des Kommunismus, untergebracht in einem ehemaligen Gefängnis." }
+    ],
+    "hu": [
+      { "q": "Mi az a Vidám Temető?", "a": "A szaploncai (Săpânța) temető, amely színes keresztjeiről és humoros sírfeliratairól híres." },
+      { "q": "Miről ismert Máramaros régiója?", "a": "Fatemplomairól (UNESCO világörökség) és évszázados hagyományainak őrzéséről." },
+      { "q": "Mi az a Mocănița (Mokanyica)?", "a": "Egy történelmi gőzmozdonyos erdei vasút, amely a festői Vasér-völgyében közlekedik." },
+      { "q": "Milyen múzeum található Máramarosszigeten (Sighetu Marmației)?", "a": "A Kommunizmus Áldozatainak Emlékmúzeuma, amely egy egykori börtönben kapott helyet." }
+    ],
+    "ro": [
+      { "q": "Unde se află Cimitirul Vesel?", "a": "În localitatea Săpânța, fiind faimos pentru crucile albastre decorate cu versuri umoristice despre viața celor decedați." },
+      { "q": "Ce sunt 'Bisericile de lemn din Maramureș'?", "a": "Un grup de lăcașuri de cult din lemn, opt dintre ele fiind incluse în patrimoniul mondial UNESCO." },
+      { "q": "Ce este Mocănița de pe Valea Vaserului?", "a": "Ultima cale ferată forestieră cu abur din lume care încă mai funcționează pentru transportul lemnului și turiștilor." },
+      { "q": "Ce obiectiv important se vizitează la Sighet?", "a": "Memorialul Victimelor Comunismului și al Rezistenței, amenajat în fosta închisoare politică." }
+    ],
+    "en": [
+      { "q": "What is the Merry Cemetery?", "a": "The cemetery in Săpânța, famous for its colorful crosses and humorous epitaphs." },
+      { "q": "What is the Maramureș region known for?", "a": "For its wooden churches (UNESCO heritage) and the preservation of centuries-old traditions." },
+      { "q": "What is the Mocănița?", "a": "A historic steam-powered forest railway that runs through the picturesque Vaser Valley." },
+      { "q": "What museum is in Sighetu Marmației?", "a": "The Memorial to the Victims of Communism, housed in a former prison." }
+    ]
+  },
+  "RO-MS": {
+    "de": [
+      { "q": "Was ist das Wahrzeichen von Târgu Mureș?", "a": "Der Kulturpalast mit seinen wunderschönen bunten Mosaiken und dem Spiegelsaal." },
+      { "q": "Welche mittelalterliche Stadt liegt im Kreis Mureș?", "a": "Sighișoara (Schäßburg), eine der am besten erhaltenen bewohnten Festungen Europas." },
+      { "q": "Was ist die Teleki-Bibliothek?", "a": "Eine der wertvollsten historischen Bibliotheken Siebenbürgens, gegründet 1802." },
+      { "q": "Gibt es Bären in den Bergen von Mureș?", "a": "Ja, besonders im Gurghiu-Gebirge gibt es eine große Population von Braunbären." }
+    ],
+    "hu": [
+      { "q": "Mi Marosvásárhely jelképe?", "a": "A Kultúrpalota a gyönyörű színes mozaikjaival és a Tükörteremmel." },
+      { "q": "Melyik középkori város található Maros megyében?", "a": "Segesvár (Sighișoara), Európa egyik legjobb állapotban fennmaradt, lakott várvárosa." },
+      { "q": "Mi a Teleki Téka?", "a": "Erdély egyik legértékesebb történelmi könyvtára, amelyet 1802-ben alapítottak." },
+      { "q": "Vannak medvék Maros megye hegyeiben?", "a": "Igen, különösen a Görgényi-havasokban jelentős a barnamedve-populáció." }
+    ],
+    "ro": [
+      { "q": "Care este clădirea reprezentativă a orașului Târgu Mureș?", "a": "Palatul Culturii, renumit pentru Sala Oglinzilor și vitraliile sale superbe." },
+      { "q": "Ce cetate medievală locuită se află în acest județ?", "a": "Cetatea Sighișoara, inclusă în patrimoniul mondial UNESCO, locul unde s-a născut Vlad Țepeș." },
+      { "q": "Ce este Biblioteca Teleki?", "a": "Una dintre cele mai bogate colecții de cărți vechi din Transilvania, fondată la sfârșitul secolului XVIII." },
+      { "q": "Prin ce este cunoscută localitatea Sovata?", "a": "Prin Lacul Ursu, cel mai mare lac helioterm din lume, unde poți pluti datorită salinității ridicate." }
+    ],
+    "en": [
+      { "q": "What is the landmark of Târgu Mureș?", "a": "The Palace of Culture with its beautiful colorful mosaics and the Hall of Mirrors." },
+      { "q": "Which medieval town is in Mureș County?", "a": "Sighișoara, one of the best-preserved inhabited fortresses in Europe." },
+      { "q": "What is the Teleki Library?", "a": "One of the most valuable historical libraries in Transylvania, founded in 1802." },
+      { "q": "Are there bears in the Mureș mountains?", "a": "Yes, especially in the Gurghiu Mountains, there is a large population of brown bears." }
+    ]
+  }
+}

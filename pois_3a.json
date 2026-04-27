@@ -1,0 +1,152 @@
+[
+  {
+    "id": "city-rostock-extra",
+    "name_de": "Rostock",
+    "desc_de": "Rostock ist die größte Stadt Mecklenburg-Vorpommerns und eine bedeutende Hafenstadt an der Ostsee."
+  },
+  {
+    "id": "city-stralsund-extra",
+    "name_de": "Stralsund",
+    "desc_de": "Stralsund ist eine Hansestadt mit UNESCO-geschützter Altstadt direkt am Strelasund gegenüber von Rügen."
+  },
+  {
+    "id": "island-ruegen-extra",
+    "name_de": "Rügen",
+    "desc_de": "Rügen ist die größte deutsche Insel in der Ostsee, bekannt für ihre weißen Kreidefelsen und Badestrände."
+  },
+  {
+    "id": "island-usedom-extra",
+    "name_de": "Usedom",
+    "desc_de": "Usedom ist eine Ostsee-Insel zwischen Deutschland und Polen, bekannt als 'Sonneninsel' mit langen Stränden."
+  },
+  {
+    "id": "city-schwerin-extra",
+    "name_de": "Schwerin",
+    "desc_de": "Schwerin ist die Landeshauptstadt von Mecklenburg-Vorpommern und berühmt für sein märchenhaftes Schloss auf einer Seeinsel."
+  },
+  {
+    "id": "lake-mueritz-extra",
+    "name_de": "Müritz",
+    "desc_de": "Die Müritz ist Deutschlands größter Binnensee und das Herzstück des Müritz-Nationalparks."
+  },
+  {
+    "id": "river-warnow-extra",
+    "name_de": "Warnow",
+    "desc_de": "Die Warnow ist der längste Fluss in Mecklenburg-Vorpommern und mündet bei Rostock in die Ostsee."
+  },
+  {
+    "id": "port-wismar-extra",
+    "name_de": "Wismar",
+    "desc_de": "Wismar ist eine historische Hansestadt mit UNESCO-geschützter Altstadt und einem gut erhaltenen Stadthafen."
+  },
+  {
+    "id": "forest-darss-extra",
+    "name_de": "Darß",
+    "desc_de": "Der Darß ist eine waldreiche Halbinsel im Nationalpark Vorpommersche Boddenlandschaft."
+  },
+  {
+    "id": "historical-greifswald-extra",
+    "name_de": "Greifswald",
+    "desc_de": "Greifswald ist eine mittelalterliche Universitätsstadt an der Ostseeküste mit gut erhaltener Altstadt."
+  },
+  {
+    "id": "landmark-schwerin-schloss-extra",
+    "name_de": "Schweriner Schloss",
+    "desc_de": "Das Schweriner Schloss ist eines der bedeutendsten Werke des Historismus in Deutschland, gelegen auf einer Seeinsel."
+  },
+  {
+    "id": "historical-kloster-eldena-extra",
+    "name_de": "Klosterruine Eldena",
+    "desc_de": "Die Ruine des Zisterzienserklosters Eldena bei Greifswald ist durch Gemälde von Caspar David Friedrich weltberühmt geworden."
+  },
+  {
+    "id": "lake-schweriner-see-extra",
+    "name_de": "Schweriner See",
+    "desc_de": "Der Schweriner See ist einer der größten Seen Deutschlands und prägt das Stadtbild der Landeshauptstadt Schwerin."
+  },
+  {
+    "id": "city-neubrandenburg-extra",
+    "name_de": "Neubrandenburg",
+    "desc_de": "Neubrandenburg ist eine Stadt in der Mecklenburgischen Seenplatte, bekannt für ihre einzigartige mittelalterliche Stadtmauer."
+  },
+  {
+    "id": "animal-habitat-mv-kraniche-extra",
+    "name_de": "Kranich-Rastplätze Mecklenburg",
+    "desc_de": "Mecklenburg-Vorpommern ist Europas wichtigstes Durchzugsgebiet für Graukraniche auf dem Weg in die Winterquartiere."
+  },
+  {
+    "id": "city-kiel-extra",
+    "name_de": "Kiel",
+    "desc_de": "Kiel ist die Landeshauptstadt Schleswig-Holsteins und eine wichtige Hafenstadt an der Ostsee."
+  },
+  {
+    "id": "city-luebeck-extra",
+    "name_de": "Lübeck",
+    "desc_de": "Lübeck ist eine historische Hansestadt mit UNESCO-geschützter Altstadt, bekannt als 'Königin der Hanse'."
+  },
+  {
+    "id": "island-sylt-extra",
+    "name_de": "Sylt",
+    "desc_de": "Sylt ist die größte nordfriesische Insel und eines der exklusivsten Urlaubsziele Deutschlands in der Nordsee."
+  },
+  {
+    "id": "river-eider-extra",
+    "name_de": "Eider",
+    "desc_de": "Die Eider ist der längste Fluss Schleswig-Holsteins und gilt historisch als Grenzfluss zwischen Deutschland und Dänemark."
+  },
+  {
+    "id": "port-kiel-kanal-extra",
+    "name_de": "Nord-Ostsee-Kanal",
+    "desc_de": "Der Nord-Ostsee-Kanal verbindet die Nordsee mit der Ostsee und ist die meistbefahrene künstliche Wasserstraße der Welt."
+  },
+  {
+    "id": "historical-schleswig-dom-extra",
+    "name_de": "Schleswig Dom",
+    "desc_de": "Der Dom zu Schleswig ist ein imposanter gotischer Backsteindom und das Wahrzeichen der alten Herzogsstadt Schleswig."
+  },
+  {
+    "id": "landmark-holstentor-extra",
+    "name_de": "Holstentor Lübeck",
+    "desc_de": "Das Holstentor ist das Wahrzeichen Lübecks und eines der bekanntesten mittelalterlichen Stadttore Deutschlands."
+  },
+  {
+    "id": "island-foehr-extra",
+    "name_de": "Föhr",
+    "desc_de": "Föhr ist eine nordfriesische Insel in der Nordsee, bekannt als 'Grüne Insel' wegen ihrer fruchtbaren Landschaft."
+  },
+  {
+    "id": "lake-ploenesee-extra",
+    "name_de": "Plöner See",
+    "desc_de": "Der Plöner See ist der größte See Schleswig-Holsteins und liegt inmitten einer reichen Seenlandschaft."
+  },
+  {
+    "id": "historical-haithabu-extra",
+    "name_de": "Haithabu (Hedeby)",
+    "desc_de": "Haithabu war eine der bedeutendsten Wikingerstädte Nordeuropas und ist heute ein UNESCO-Weltkulturerbe."
+  },
+  {
+    "id": "forest-sachsenwald-extra",
+    "name_de": "Sachsenwald",
+    "desc_de": "Der Sachsenwald ist das größte zusammenhängende Waldgebiet Schleswig-Holsteins und war einst ein Geschenk an Otto von Bismarck."
+  },
+  {
+    "id": "sea-wattenmeer-sh-extra",
+    "name_de": "Schleswig-Holsteinisches Wattenmeer",
+    "desc_de": "Das Schleswig-Holsteinische Wattenmeer ist ein UNESCO-Weltnaturerbe und eines der bedeutendsten Feuchtgebiete der Erde."
+  },
+  {
+    "id": "city-flensburg-extra",
+    "name_de": "Flensburg",
+    "desc_de": "Flensburg ist die nördlichste Stadt Deutschlands, direkt an der dänischen Grenze, und bekannt für Rum und Hafenkultur."
+  },
+  {
+    "id": "landmark-nordertor-flensburg-extra",
+    "name_de": "Nordertor Flensburg",
+    "desc_de": "Das Nordertor ist ein mittelalterliches Stadttor und das Wahrzeichen Flensburgs aus dem 15. Jahrhundert."
+  },
+  {
+    "id": "port-hamburg-altona-sh-extra",
+    "name_de": "Altona (historisch Schleswig-Holstein)",
+    "desc_de": "Altona war bis 1937 eine eigenständige Stadt in Schleswig-Holstein und ist heute ein Stadtteil Hamburgs mit historischem Fischereihafen."
+  }
+]

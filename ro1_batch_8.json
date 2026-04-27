@@ -1,0 +1,52 @@
+[
+  {
+    "id": "city-isaccea-extra",
+    "name_ro": "Isaccea",
+    "desc_ro": "Ora\u0219 portuar."
+  },
+  {
+    "id": "city-barlad-extra",
+    "name_ro": "B\u00e2rlad",
+    "desc_ro": "Centru cultural."
+  },
+  {
+    "id": "city-husi-extra",
+    "name_ro": "Hu\u0219i",
+    "desc_ro": "Ora\u0219 viticol."
+  },
+  {
+    "id": "city-negresti-extra",
+    "name_ro": "Negre\u0219ti",
+    "desc_ro": "Ora\u0219 mic."
+  },
+  {
+    "id": "city-ramnicu-valcea-extra",
+    "name_ro": "R\u00e2mnicu V\u00e2lcea",
+    "desc_ro": "Re\u0219edin\u021ba V\u00e2lcii."
+  },
+  {
+    "id": "city-dragasani-extra",
+    "name_ro": "Dr\u0103g\u0103\u0219ani",
+    "desc_ro": "Ora\u0219 viticol."
+  },
+  {
+    "id": "city-horezu-extra",
+    "name_ro": "Horezu",
+    "desc_ro": "Ora\u0219ul ceramicii."
+  },
+  {
+    "id": "city-adjud-extra",
+    "name_ro": "Adjud",
+    "desc_ro": "Nod de transport."
+  },
+  {
+    "id": "city-marasesti-extra",
+    "name_ro": "M\u0103r\u0103\u0219e\u0219ti",
+    "desc_ro": "Ora\u0219ul mausoleului."
+  },
+  {
+    "id": "city-panciu-extra",
+    "name_ro": "Panciu",
+    "desc_ro": "Ora\u0219 viticol."
+  }
+]

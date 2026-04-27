@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Budapest",
+    "country": "Magyarország",
+    "lat": 47.49791,
+    "lon": 19.04023,
+    "founded_year": 89,
+    "fun_fact": {
+      "de": "Sie hat die älteste elektrifizierte U-Bahn auf dem europäischen Kontinent.",
+      "hu": "Az európai kontinensen itt található a legrégebbi elektromos földalatti vasút.",
+      "ro": "Are cel mai vechi sistem de metrou electrificat de pe continentul european.",
+      "en": "It has the oldest electrified underground railway system on the European continent."
+    }
+  },
+  {
+    "name": "Stockholm",
+    "country": "Svédország",
+    "lat": 59.32932,
+    "lon": 18.06858,
+    "founded_year": 1252,
+    "fun_fact": {
+      "de": "Die Stadt erstreckt sich über 14 Inseln und ist durch 57 Brücken verbunden.",
+      "hu": "A város 14 szigeten terül el, amelyeket 57 híd köt össze.",
+      "ro": "Orașul este răspândit pe 14 insule și conectat prin 57 de poduri.",
+      "en": "The city is spread across 14 islands and connected by 57 bridges."
+    }
+  },
+  {
+    "name": "Αθήνα",
+    "country": "Görögország",
+    "lat": 37.98381,
+    "lon": 23.72754,
+    "founded_year": -508,
+    "fun_fact": {
+      "de": "Athen ist nach Athene benannt, der antiken griechischen Göttin der Weisheit, die der Legende nach die Stadt gegen Poseidon gewann.",
+      "hu": "Athén a nevét Athéné-ról, a bölcsesség ókori görög istennőjéről kapta, aki a legenda szerint Poszeidónnal szemben nyerte el a várost.",
+      "ro": "Atena este numită după Atena, zeița greacă antică a înțelepciunii, care, conform legendei, a câștigat orașul în fața lui Poseidon.",
+      "en": "Athens is named after Athena, the ancient Greek goddess of wisdom, who, according to legend, won the city against Poseidon."
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Hollandia",
+    "lat": 52.36757,
+    "lon": 4.90414,
+    "founded_year": 1300,
+    "fun_fact": {
+      "de": "Amsterdam hat mehr Kanäle als Venedig und mehr Brücken als Paris.",
+      "hu": "Amszterdamban több csatorna van, mint Velencében, és több híd, mint Párizsban.",
+      "ro": "Amsterdam are mai multe canale decât Veneția și mai multe poduri decât Parisul.",
+      "en": "Amsterdam has more canals than Venice and more bridges than Paris."
+    }
+  },
+  {
+    "name": "Dublin",
+    "country": "Írország",
+    "lat": 53.34980,
+    "lon": -6.26031,
+    "founded_year": 841,
+    "fun_fact": {
+      "de": "Der ursprüngliche Name für Dublin, „Dubh Linn“, bedeutet „Schwarzer Tümpel“.",
+      "hu": "Dublin eredeti neve, a „Dubh Linn” azt jelenti, hogy „Fekete Tó”.",
+      "ro": "Numele original al Dublinului, „Dubh Linn”, înseamnă „Bazinul Negru”.",
+      "en": "The original name for Dublin, 'Dubh Linn', means 'Black Pool'."
+    }
+  }
+]

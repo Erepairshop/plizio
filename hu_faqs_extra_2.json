@@ -1,0 +1,4442 @@
+{
+  "palvolgyi-barlang": {
+    "de": [
+      {
+        "q": "Wie lang ist die Pálvölgyi-Höhle?",
+        "a": "Über 31 Kilometer."
+      },
+      {
+        "q": "Was ist die Besonderheit der Höhle?",
+        "a": "Ihre Tropfsteine und engen Passagen."
+      },
+      {
+        "q": "Wo befindet sich die Höhle?",
+        "a": "In Budapest, im Stadtteil Buda."
+      },
+      {
+        "q": "Wie ist die Temperatur in der Höhle?",
+        "a": "Konstant 11 Grad Celsius."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Milyen hosszú a Pálvölgyi-barlang?",
+        "a": "Több mint 31 kilométer."
+      },
+      {
+        "q": "Mi a barlang különlegessége?",
+        "a": "Cseppkövei és szűk járatai."
+      },
+      {
+        "q": "Hol található a barlang?",
+        "a": "Budapesten, a budai oldalon."
+      },
+      {
+        "q": "Milyen a hőmérséklet a barlangban?",
+        "a": "Állandó 11 Celsius-fok."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cât de lungă este peştera Pálvölgyi?",
+        "a": "Peste 31 de kilometri."
+      },
+      {
+        "q": "Care este particularitatea peşterii?",
+        "a": "Stalactitele sale şi pasajele înguste."
+      },
+      {
+        "q": "Unde se află peştera?",
+        "a": "În Budapesta, pe partea Buda."
+      },
+      {
+        "q": "Cum este temperatura în peşteră?",
+        "a": "Constant 11 grade Celsius."
+      }
+    ],
+    "en": [
+      {
+        "q": "How long is the Pálvölgyi Cave?",
+        "a": "Over 31 kilometers."
+      },
+      {
+        "q": "What is the specialty of the cave?",
+        "a": "Its dripstones and narrow passages."
+      },
+      {
+        "q": "Where is the cave located?",
+        "a": "In Budapest, on the Buda side."
+      },
+      {
+        "q": "What is the temperature in the cave?",
+        "a": "A constant 11 degrees Celsius."
+      }
+    ]
+  },
+  "mecsek-hegyseg": {
+    "de": [
+      {
+        "q": "Wo liegt das Mecsek-Gebirge?",
+        "a": "Im Süden Ungarns, bei Pécs."
+      },
+      {
+        "q": "Was ist der höchste Gipfel?",
+        "a": "Der Zengő mit 682 Metern."
+      },
+      {
+        "q": "Wofür ist das Gebirge bekannt?",
+        "a": "Für sein mediterranes Klima und Flora."
+      },
+      {
+        "q": "Welche Stadt liegt am Fuße des Mecsek?",
+        "a": "Pécs."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a Mecsek hegység?",
+        "a": "Dél-Magyarországon, Pécsnél."
+      },
+      {
+        "q": "Melyik a legmagasabb csúcsa?",
+        "a": "A Zengő, 682 méterrel."
+      },
+      {
+        "q": "Miről ismert a hegység?",
+        "a": "Mediterrán éghajlatáról és flórájáról."
+      },
+      {
+        "q": "Melyik város fekszik a Mecsek lábánál?",
+        "a": "Pécs."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află munţii Mecsek?",
+        "a": "În sudul Ungariei, lângă Pécs."
+      },
+      {
+        "q": "Care este cel mai înalt vârf?",
+        "a": "Zengő, cu 682 de metri."
+      },
+      {
+        "q": "Pentru ce sunt cunoscuţi munţii?",
+        "a": "Pentru clima şi flora mediteraneană."
+      },
+      {
+        "q": "Ce oraş se află la poalele Mecsekului?",
+        "a": "Pécs."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where are the Mecsek Mountains located?",
+        "a": "In Southern Hungary, near Pécs."
+      },
+      {
+        "q": "What is the highest peak?",
+        "a": "Zengő, with 682 meters."
+      },
+      {
+        "q": "What is the mountain range known for?",
+        "a": "For its Mediterranean climate and flora."
+      },
+      {
+        "q": "Which city lies at the foot of the Mecsek?",
+        "a": "Pécs."
+      }
+    ]
+  },
+  "balatonfelvideki-np": {
+    "de": [
+      {
+        "q": "Was schützt dieser Nationalpark?",
+        "a": "Die vulkanische Landschaft am Plattensee."
+      },
+      {
+        "q": "Welcher Ort ist das Zentrum?",
+        "a": "Csopak."
+      },
+      {
+        "q": "Was ist eine berühmte Sehenswürdigkeit hier?",
+        "a": "Die Halbinsel Tihany."
+      },
+      {
+        "q": "Wofür sind die Tapolca-Berge bekannt?",
+        "a": "Für ihre Zeugenberge aus Basalt."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mit véd ez a nemzeti park?",
+        "a": "A Balaton-felvidék vulkanikus tájait."
+      },
+      {
+        "q": "Melyik település a központja?",
+        "a": "Csopak."
+      },
+      {
+        "q": "Mi egy híres látnivaló itt?",
+        "a": "A Tihanyi-félsziget."
+      },
+      {
+        "q": "Miről ismertek a Tapolcai-hegyek?",
+        "a": "Bazalt tanúhegyeikről."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce protejează acest parc naţional?",
+        "a": "Peisajele vulcanice din Balatonul de Sus."
+      },
+      {
+        "q": "Care localitate este centrul său?",
+        "a": "Csopak."
+      },
+      {
+        "q": "Care este o atracţie faimoasă aici?",
+        "a": "Peninsula Tihany."
+      },
+      {
+        "q": "Pentru ce sunt cunoscuţi munţii Tapolca?",
+        "a": "Pentru munţii lor martori din bazalt."
+      }
+    ],
+    "en": [
+      {
+        "q": "What does this national park protect?",
+        "a": "The volcanic landscapes of the Balaton Uplands."
+      },
+      {
+        "q": "Which settlement is its center?",
+        "a": "Csopak."
+      },
+      {
+        "q": "What is a famous sight here?",
+        "a": "The Tihany Peninsula."
+      },
+      {
+        "q": "What are the Tapolca mountains known for?",
+        "a": "For their basalt witness mountains."
+      }
+    ]
+  },
+  "koros-maros-np": {
+    "de": [
+      {
+        "q": "Wo liegt dieser Nationalpark?",
+        "a": "Im Südosten Ungarns."
+      },
+      {
+        "q": "Was ist das Hauptziel des Parks?",
+        "a": "Schutz der Steppen und Wasserläufe."
+      },
+      {
+        "q": "Welcher Vogel ist hier heimisch?",
+        "a": "Die Großtrappe."
+      },
+      {
+        "q": "Welche Flüsse gaben dem Park den Namen?",
+        "a": "Körös und Maros."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol fekszik ez a nemzeti park?",
+        "a": "Magyarország délkeleti részén."
+      },
+      {
+        "q": "Mi a park fő célja?",
+        "a": "A puszták és vízfolyások védelme."
+      },
+      {
+        "q": "Melyik madár honos itt?",
+        "a": "A túzok."
+      },
+      {
+        "q": "Mely folyók adták a park nevét?",
+        "a": "A Körös és a Maros."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află acest parc naţional?",
+        "a": "În sud-estul Ungariei."
+      },
+      {
+        "q": "Care este scopul principal al parcului?",
+        "a": "Protejarea stepelor şi cursurilor de apă."
+      },
+      {
+        "q": "Ce pasăre este nativă aici?",
+        "a": "Dropia."
+      },
+      {
+        "q": "Ce râuri au dat numele parcului?",
+        "a": "Crişul şi Mureşul."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is this national park located?",
+        "a": "In southeastern Hungary."
+      },
+      {
+        "q": "What is the main goal of the park?",
+        "a": "Protection of steppes and watercourses."
+      },
+      {
+        "q": "Which bird is native here?",
+        "a": "The Great Bustard."
+      },
+      {
+        "q": "Which rivers gave the park its name?",
+        "a": "The Körös and the Maros."
+      }
+    ]
+  },
+  "oreg-bakony": {
+    "de": [
+      {
+        "q": "Was ist der Öreg-Bakony?",
+        "a": "Der höchste Teil des Bakony-Gebirges."
+      },
+      {
+        "q": "Was ist der höchste Punkt?",
+        "a": "Der Kőris-hegy (709 m)."
+      },
+      {
+        "q": "Welche Stadt liegt in der Nähe?",
+        "a": "Zirc."
+      },
+      {
+        "q": "Was kann man hier unternehmen?",
+        "a": "Wandern und Natur beobachten."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi az Öreg-Bakony?",
+        "a": "A Bakony-hegység legmagasabb része."
+      },
+      {
+        "q": "Melyik a legmagasabb pontja?",
+        "a": "A Kőris-hegy (709 m)."
+      },
+      {
+        "q": "Melyik város van a közelben?",
+        "a": "Zirc."
+      },
+      {
+        "q": "Mit lehet itt csinálni?",
+        "a": "Túrázni és természetet figyelni."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Bakonyul Vechi?",
+        "a": "Cea mai înaltă parte a munţilor Bakony."
+      },
+      {
+        "q": "Care este cel mai înalt punct?",
+        "a": "Kőris-hegy (709 m)."
+      },
+      {
+        "q": "Ce oraş este în apropiere?",
+        "a": "Zirc."
+      },
+      {
+        "q": "Ce se poate face aici?",
+        "a": "Drumeţii şi observarea naturii."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Old Bakony?",
+        "a": "The highest part of the Bakony Mountains."
+      },
+      {
+        "q": "What is the highest point?",
+        "a": "Kőris-hegy (709 m)."
+      },
+      {
+        "q": "Which city is nearby?",
+        "a": "Zirc."
+      },
+      {
+        "q": "What can you do here?",
+        "a": "Hiking and nature watching."
+      }
+    ]
+  },
+  "zempleni-hegyseg-b2": {
+    "de": [
+      {
+        "q": "Wo befindet sich das Zemplén-Gebirge?",
+        "a": "Im Nordosten Ungarns."
+      },
+      {
+        "q": "Was ist der Ursprung des Gebirges?",
+        "a": "Vulkanisch."
+      },
+      {
+        "q": "Welche Burg ist hier berühmt?",
+        "a": "Die Burg von Füzér."
+      },
+      {
+        "q": "Welches Getränk stammt von hier?",
+        "a": "Der Tokajer Wein."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a Zempléni-hegység?",
+        "a": "Északkelet-Magyarországon."
+      },
+      {
+        "q": "Mi a hegység eredete?",
+        "a": "Vulkanikus."
+      },
+      {
+        "q": "Melyik vár híres itt?",
+        "a": "Füzér vára."
+      },
+      {
+        "q": "Melyik ital származik innen?",
+        "a": "A tokaji bor."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află munţii Zemplén?",
+        "a": "În nord-estul Ungariei."
+      },
+      {
+        "q": "Care este originea munţilor?",
+        "a": "Vulcanic."
+      },
+      {
+        "q": "Ce cetate este faimoasă aici?",
+        "a": "Cetatea Füzér."
+      },
+      {
+        "q": "Ce băutură provine de aici?",
+        "a": "Vinul de Tokaj."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where are the Zemplén Mountains located?",
+        "a": "In northeastern Hungary."
+      },
+      {
+        "q": "What is the origin of the mountains?",
+        "a": "Volcanic."
+      },
+      {
+        "q": "Which castle is famous here?",
+        "a": "Füzér Castle."
+      },
+      {
+        "q": "Which drink comes from here?",
+        "a": "Tokaj wine."
+      }
+    ]
+  },
+  "pilis-hegyseg": {
+    "de": [
+      {
+        "q": "Wo liegt das Pilis-Gebirge?",
+        "a": "Nördlich von Budapest."
+      },
+      {
+        "q": "Was ist der höchste Punkt?",
+        "a": "Pilis-tető (756 m)."
+      },
+      {
+        "q": "Was ist eine bekannte Naturschönheit?",
+        "a": "Die Rám-Schlucht."
+      },
+      {
+        "q": "Wofür ist der Pilis historisch bedeutend?",
+        "a": "Als Jagdgebiet ungarischer Könige."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol fekszik a Pilis hegység?",
+        "a": "Budapesttől északra."
+      },
+      {
+        "q": "Melyik a legmagasabb pontja?",
+        "a": "Pilis-tető (756 m)."
+      },
+      {
+        "q": "Mi egy ismert természeti szépség?",
+        "a": "A Rám-szakadék."
+      },
+      {
+        "q": "Miért jelentős történelmileg a Pilis?",
+        "a": "Magyar királyok vadászterülete volt."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află munţii Pilis?",
+        "a": "La nord de Budapesta."
+      },
+      {
+        "q": "Care este cel mai înalt punct?",
+        "a": "Pilis-tető (756 m)."
+      },
+      {
+        "q": "Care este o frumuseţe naturală cunoscută?",
+        "a": "Cheile Rám."
+      },
+      {
+        "q": "De ce este Pilis semnificativ istoric?",
+        "a": "A fost domeniu de vânătoare al regilor maghiari."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where are the Pilis Mountains located?",
+        "a": "North of Budapest."
+      },
+      {
+        "q": "What is the highest point?",
+        "a": "Pilis-tető (756 m)."
+      },
+      {
+        "q": "What is a known natural beauty?",
+        "a": "The Rám Canyon."
+      },
+      {
+        "q": "Why is Pilis historically significant?",
+        "a": "It was a hunting ground for Hungarian kings."
+      }
+    ]
+  },
+  "vertes-hegyseg": {
+    "de": [
+      {
+        "q": "Wo liegt das Vértes-Gebirge?",
+        "a": "In Zentraltransdanubien."
+      },
+      {
+        "q": "Woraus besteht das Gestein?",
+        "a": "Hauptsächlich aus Dolomit."
+      },
+      {
+        "q": "Welche Burgruine ist hier bekannt?",
+        "a": "Die Burg von Vitány."
+      },
+      {
+        "q": "Was ist das Zentrum der Region?",
+        "a": "Mór."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a Vértes hegység?",
+        "a": "Közép-Dunántúlon."
+      },
+      {
+        "q": "Milyen kőzetből áll?",
+        "a": "Főleg dolomitból."
+      },
+      {
+        "q": "Melyik várrom ismert itt?",
+        "a": "Vitányvár."
+      },
+      {
+        "q": "Mi a régió központja?",
+        "a": "Mór."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află munţii Vértes?",
+        "a": "În Transdanubia Centrală."
+      },
+      {
+        "q": "Din ce rocă este compus?",
+        "a": "În principal din dolomit."
+      },
+      {
+        "q": "Ce ruină de cetate este cunoscută aici?",
+        "a": "Cetatea Vitány."
+      },
+      {
+        "q": "Care este centrul regiunii?",
+        "a": "Mór."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where are the Vértes Mountains located?",
+        "a": "In Central Transdanubia."
+      },
+      {
+        "q": "What rock is it made of?",
+        "a": "Mainly dolomite."
+      },
+      {
+        "q": "Which castle ruin is known here?",
+        "a": "Vitány Castle."
+      },
+      {
+        "q": "What is the center of the region?",
+        "a": "Mór."
+      }
+    ]
+  },
+  "gemenc-arter-b2": {
+    "de": [
+      {
+        "q": "Was ist Gemenc?",
+        "a": "Ein riesiger Auwald an der Donau."
+      },
+      {
+        "q": "Welches Tier ist hier berühmt?",
+        "a": "Der Rothirsch."
+      },
+      {
+        "q": "Wie kann man den Wald erkunden?",
+        "a": "Mit der Waldeisenbahn."
+      },
+      {
+        "q": "Zu welchem Nationalpark gehört es?",
+        "a": "Donau-Drau-Nationalpark."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Gemenc?",
+        "a": "Hatalmas ártéri erdő a Dunánál."
+      },
+      {
+        "q": "Melyik állat híres itt?",
+        "a": "A gímszarvas."
+      },
+      {
+        "q": "Hogyan fedezhető fel az erdő?",
+        "a": "Erdei kisvasúttal."
+      },
+      {
+        "q": "Melyik nemzeti park része?",
+        "a": "Duna-Dráva Nemzeti Park."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Gemenc?",
+        "a": "O pădure inundabilă uriaşă la Dunăre."
+      },
+      {
+        "q": "Ce animal este faimos aici?",
+        "a": "Cerbul comun."
+      },
+      {
+        "q": "Cum poate fi explorată pădurea?",
+        "a": "Cu trenuleţul forestier."
+      },
+      {
+        "q": "Din ce parc naţional face parte?",
+        "a": "Parcul Naţional Dunăre-Drava."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Gemenc?",
+        "a": "A huge floodplain forest along the Danube."
+      },
+      {
+        "q": "Which animal is famous here?",
+        "a": "The Red Deer."
+      },
+      {
+        "q": "How can the forest be explored?",
+        "a": "By forest railway."
+      },
+      {
+        "q": "Which national park is it part of?",
+        "a": "Danube-Drava National Park."
+      }
+    ]
+  },
+  "debreceni-allatkert": {
+    "de": [
+      {
+        "q": "Wann wurde der Zoo Debrecen eröffnet?",
+        "a": "Im Jahr 1958."
+      },
+      {
+        "q": "Was ist das Besondere an diesem Zoo?",
+        "a": "Er liegt im Großen Wald (Nagyerdő)."
+      },
+      {
+        "q": "Gibt es dort auch Fahrgeschäfte?",
+        "a": "Ja, es gibt einen integrierten Freizeitpark."
+      },
+      {
+        "q": "Welches Tier ist ein Publikumsliebling?",
+        "a": "Die Giraffen."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mikor nyílt meg a Debreceni Állatkert?",
+        "a": "1958-ban."
+      },
+      {
+        "q": "Mi a különlegessége ennek az állatkertnek?",
+        "a": "A Nagyerdőben található."
+      },
+      {
+        "q": "Vannak ott vidámparki játékok is?",
+        "a": "Igen, egy vidámpark is tartozik hozzá."
+      },
+      {
+        "q": "Melyik állat a közönség kedvence?",
+        "a": "A zsiráfok."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Când s-a deschis grădina zoologică din Debreţin?",
+        "a": "În anul 1958."
+      },
+      {
+        "q": "Ce este special la această grădină zoologică?",
+        "a": "Se află în Pădurea Mare (Nagyerdő)."
+      },
+      {
+        "q": "Există şi jocuri de bâlci acolo?",
+        "a": "Da, are şi un parc de distracţii integrat."
+      },
+      {
+        "q": "Ce animal este favoritul publicului?",
+        "a": "Girafele."
+      }
+    ],
+    "en": [
+      {
+        "q": "When did the Debrecen Zoo open?",
+        "a": "In 1958."
+      },
+      {
+        "q": "What is special about this zoo?",
+        "a": "It is located in the Great Forest (Nagyerdő)."
+      },
+      {
+        "q": "Are there amusement rides there too?",
+        "a": "Yes, it has an integrated amusement park."
+      },
+      {
+        "q": "Which animal is a crowd favorite?",
+        "a": "The giraffes."
+      }
+    ]
+  },
+  "nyiregyhazi-allatkert": {
+    "de": [
+      {
+        "q": "Wie wird der Zoo Nyíregyháza noch genannt?",
+        "a": "Sóstó Zoo."
+      },
+      {
+        "q": "Warum gilt er als einer der besten Zoos?",
+        "a": "Wegen seiner naturnahen Gehege."
+      },
+      {
+        "q": "Was ist das Ozeanarium?",
+        "a": "Ein riesiges Aquarium mit Glastunnel."
+      },
+      {
+        "q": "Welches seltene Tier kann man hier sehen?",
+        "a": "Der Weiße Tiger."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hogy hívják még a Nyíregyházi Állatkertet?",
+        "a": "Sóstó Zoo."
+      },
+      {
+        "q": "Miért tartják az egyik legjobb állatkertnek?",
+        "a": "Természetközeli kifutói miatt."
+      },
+      {
+        "q": "Mi az az Oceanárium?",
+        "a": "Hatalmas akvárium üvegalagúttal."
+      },
+      {
+        "q": "Milyen ritka állat látható itt?",
+        "a": "A fehér tigris."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cum mai este numită grădina zoologică din Nyíregyháza?",
+        "a": "Sóstó Zoo."
+      },
+      {
+        "q": "De ce este considerată una dintre cele mai bune grădini zoologice?",
+        "a": "Datorită ţarcurilor sale apropiate de natură."
+      },
+      {
+        "q": "Ce este Oceanariul?",
+        "a": "Un acvariu uriaş cu tunel de sticlă."
+      },
+      {
+        "q": "Ce animal rar poate fi văzut aici?",
+        "a": "Tigrul alb."
+      }
+    ],
+    "en": [
+      {
+        "q": "What else is the Nyíregyháza Zoo called?",
+        "a": "Sóstó Zoo."
+      },
+      {
+        "q": "Why is it considered one of the best zoos?",
+        "a": "Because of its naturalistic enclosures."
+      },
+      {
+        "q": "What is the Oceanarium?",
+        "a": "A huge aquarium with a glass tunnel."
+      },
+      {
+        "q": "What rare animal can be seen here?",
+        "a": "The White Tiger."
+      }
+    ]
+  },
+  "tropicarium-budapest": {
+    "de": [
+      {
+        "q": "Wo befindet sich das Tropicarium?",
+        "a": "Im Campona Einkaufszentrum."
+      },
+      {
+        "q": "Was ist die Hauptattraktion?",
+        "a": "Das Haifischbecken mit Tunnel."
+      },
+      {
+        "q": "Gibt es dort auch Regenwald-Tiere?",
+        "a": "Ja, inklusive Alligatoren und Affen."
+      },
+      {
+        "q": "Wann gibt es Haifischfütterungen?",
+        "a": "Normalerweise donnerstags."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a Tropicarium?",
+        "a": "A Campona bevásárlóközpontban."
+      },
+      {
+        "q": "Mi a fő látványosság?",
+        "a": "A cápás akvárium alagúttal."
+      },
+      {
+        "q": "Vannak ott esőerdei állatok is?",
+        "a": "Igen, aligátorok és majmok is."
+      },
+      {
+        "q": "Mikor van cápaetetés?",
+        "a": "Általában csütörtökönként."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află Tropicarium?",
+        "a": "În centrul comercial Campona."
+      },
+      {
+        "q": "Care este atracţia principală?",
+        "a": "Acvariul cu rechini şi tunel."
+      },
+      {
+        "q": "Există şi animale din pădurea tropicală acolo?",
+        "a": "Da, inclusiv aligatori şi maimuţe."
+      },
+      {
+        "q": "Când are loc hrănirea rechinilor?",
+        "a": "De obicei joia."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is the Tropicarium located?",
+        "a": "In the Campona shopping mall."
+      },
+      {
+        "q": "What is the main attraction?",
+        "a": "The shark tank with a tunnel."
+      },
+      {
+        "q": "Are there rainforest animals there too?",
+        "a": "Yes, including alligators and monkeys."
+      },
+      {
+        "q": "When is the shark feeding?",
+        "a": "Usually on Thursdays."
+      }
+    ]
+  },
+  "miskolctapolca-barlangfurdo": {
+    "de": [
+      {
+        "q": "Was ist das Einzigartige an diesem Bad?",
+        "a": "Es befindet sich in einer natürlichen Höhle."
+      },
+      {
+        "q": "Wie warm ist das Wasser?",
+        "a": "Etwa 30 Grad Celsius."
+      },
+      {
+        "q": "Gibt es auch Außenbecken?",
+        "a": "Ja, das Bad hat einen großen Außenbereich."
+      },
+      {
+        "q": "Ist das Wasser heilend?",
+        "a": "Ja, es ist ein zertifiziertes Heilbad."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi az egyedülálló ebben a fürdőben?",
+        "a": "Egy természetes barlangban található."
+      },
+      {
+        "q": "Milyen meleg a vize?",
+        "a": "Körülbelül 30 Celsius-fok."
+      },
+      {
+        "q": "Vannak kültéri medencék is?",
+        "a": "Igen, nagy strandterülete is van."
+      },
+      {
+        "q": "Gyógyhatású a vize?",
+        "a": "Igen, minősített gyógyfürdő."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este unic la această baie?",
+        "a": "Se află într-o peşteră naturală."
+      },
+      {
+        "q": "Cât de caldă este apa?",
+        "a": "Aproximativ 30 de grade Celsius."
+      },
+      {
+        "q": "Există şi medecine exterioare?",
+        "a": "Da, baia are o zonă exterioară mare."
+      },
+      {
+        "q": "Apa are proprietăţi curative?",
+        "a": "Da, este o baie curativă certificată."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is unique about this bath?",
+        "a": "It is located in a natural cave."
+      },
+      {
+        "q": "How warm is the water?",
+        "a": "About 30 degrees Celsius."
+      },
+      {
+        "q": "Are there outdoor pools too?",
+        "a": "Yes, the bath has a large outdoor area."
+      },
+      {
+        "q": "Does the water have healing properties?",
+        "a": "Yes, it is a certified medicinal bath."
+      }
+    ]
+  },
+  "mohacsi-busojaras-poi": {
+    "de": [
+      {
+        "q": "Was ist das Busójárás?",
+        "a": "Ein Volksbrauch zur Winteraustreibung."
+      },
+      {
+        "q": "Wann findet es statt?",
+        "a": "Am Ende des Faschings."
+      },
+      {
+        "q": "Was tragen die Teilnehmer?",
+        "a": "Gruselige Holzmasken und Schafsfell."
+      },
+      {
+        "q": "Ist es ein Welterbe?",
+        "a": "Ja, es ist immaterielles UNESCO-Kulturerbe."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Busójárás?",
+        "a": "Télűző népszokás."
+      },
+      {
+        "q": "Mikor tartják?",
+        "a": "Farsang végén."
+      },
+      {
+        "q": "Mit viselnek a résztvevők?",
+        "a": "Ijesztő faálarcot és birkabőrt."
+      },
+      {
+        "q": "Világörökség része?",
+        "a": "Igen, az UNESCO szellemi világöröksége."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Busójárás?",
+        "a": "Un obicei popular de alungare a iernii."
+      },
+      {
+        "q": "Când are loc?",
+        "a": "La sfârşitul carnavalului."
+      },
+      {
+        "q": "Ce poartă participanţii?",
+        "a": "Măşti înfricoşătoare din lemn şi blană de oaie."
+      },
+      {
+        "q": "Face parte din patrimoniul mondial?",
+        "a": "Da, este patrimoniu cultural imaterial UNESCO."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Busójárás?",
+        "a": "A folk custom for scaring away winter."
+      },
+      {
+        "q": "When does it take place?",
+        "a": "At the end of Carnival."
+      },
+      {
+        "q": "What do the participants wear?",
+        "a": "Scary wooden masks and sheepskin."
+      },
+      {
+        "q": "Is it a World Heritage?",
+        "a": "Yes, it is UNESCO Intangible Cultural Heritage."
+      }
+    ]
+  },
+  "zsolnay-negyed": {
+    "de": [
+      {
+        "q": "Was war früher in diesem Viertel?",
+        "a": "Die Zsolnay-Porzellanmanufaktur."
+      },
+      {
+        "q": "In welcher Stadt liegt es?",
+        "a": "In Pécs."
+      },
+      {
+        "q": "Was kann man dort sehen?",
+        "a": "Ausstellungen, Planetarium und Werkstätten."
+      },
+      {
+        "q": "Wofür ist Zsolnay berühmt?",
+        "a": "Für seine Eosinglasur und Pyrogranit."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi volt korábban ebben a negyedben?",
+        "a": "A Zsolnay porcelángyár."
+      },
+      {
+        "q": "Melyik városban található?",
+        "a": "Pécsett."
+      },
+      {
+        "q": "Mit lehet ott látni?",
+        "a": "Kiállításokat, planetáriumot és műhelyeket."
+      },
+      {
+        "q": "Miről híres a Zsolnay?",
+        "a": "Az eozinmázról és a pirogránitról."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce a fost înainte în acest cartier?",
+        "a": "Fabrica de porţelan Zsolnay."
+      },
+      {
+        "q": "În ce oraş se află?",
+        "a": "În Pécs."
+      },
+      {
+        "q": "Ce se poate vedea acolo?",
+        "a": "Expoziţii, planetariu şi ateliere."
+      },
+      {
+        "q": "Pentru ce este faimos Zsolnay?",
+        "a": "Pentru glazura de eozină şi pirogranit."
+      }
+    ],
+    "en": [
+      {
+        "q": "What was formerly in this quarter?",
+        "a": "The Zsolnay porcelain factory."
+      },
+      {
+        "q": "In which city is it located?",
+        "a": "In Pécs."
+      },
+      {
+        "q": "What can be seen there?",
+        "a": "Exhibitions, planetarium, and workshops."
+      },
+      {
+        "q": "What is Zsolnay famous for?",
+        "a": "For its eosin glaze and pyrogranite."
+      }
+    ]
+  },
+  "szegedi-dom": {
+    "de": [
+      {
+        "q": "Wie wird die Kirche noch genannt?",
+        "a": "Votivkirche."
+      },
+      {
+        "q": "Warum wurde sie gebaut?",
+        "a": "Nach dem großen Hochwasser von 1879."
+      },
+      {
+        "q": "Was findet auf dem Platz davor statt?",
+        "a": "Die Szegediner Freilichtspiele."
+      },
+      {
+        "q": "Wie viele Türme hat der Dóm?",
+        "a": "Zwei."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hogy hívják még a templomot?",
+        "a": "Fogadalmi templom."
+      },
+      {
+        "q": "Miért épült?",
+        "a": "Az 1879-es nagy árvíz utáni fogadalomból."
+      },
+      {
+        "q": "Mi zajlik az előtte lévő téren?",
+        "a": "A Szegedi Szabadtéri Játékok."
+      },
+      {
+        "q": "Hány tornya van a Dómnak?",
+        "a": "Kettő."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cum mai este numită biserica?",
+        "a": "Biserica Votivă."
+      },
+      {
+        "q": "De ce a fost construită?",
+        "a": "După marea inundaţie din 1879."
+      },
+      {
+        "q": "Ce se desfăşoară în piaţa din faţă?",
+        "a": "Jocurile în Aer Liber din Seghedin."
+      },
+      {
+        "q": "Câte turnuri are Catedrala?",
+        "a": "Două."
+      }
+    ],
+    "en": [
+      {
+        "q": "What else is the church called?",
+        "a": "Votive Church."
+      },
+      {
+        "q": "Why was it built?",
+        "a": "After the great flood of 1879."
+      },
+      {
+        "q": "What takes place in the square in front?",
+        "a": "The Szeged Open Air Festival."
+      },
+      {
+        "q": "How many towers does the Cathedral have?",
+        "a": "Two."
+      }
+    ]
+  },
+  "pannonhalmi-leveltar": {
+    "de": [
+      {
+        "q": "Wo befindet sich das Archiv?",
+        "a": "In der Erzabtei Pannonhalma."
+      },
+      {
+        "q": "Was ist das wertvollste Dokument?",
+        "a": "Die Gründungsurkunde von Tihany (1055)."
+      },
+      {
+        "q": "Was ist das Besondere an diesem Dokument?",
+        "a": "Es enthält die ersten ungarischen Wörter."
+      },
+      {
+        "q": "Kann man das Archiv besuchen?",
+        "a": "Nur für Forscher oder bei Sonderführungen."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a levéltár?",
+        "a": "A Pannonhalmi Főapátságban."
+      },
+      {
+        "q": "Mi a legértékesebb dokumentum?",
+        "a": "A tihanyi alapítólevél (1055)."
+      },
+      {
+        "q": "Mi a különlegessége ennek a dokumentumnak?",
+        "a": "Az első magyar szórványemlékeket tartalmazza."
+      },
+      {
+        "q": "Látogatható a levéltár?",
+        "a": "Csak kutatóknak vagy külön vezetéssel."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află arhiva?",
+        "a": "În Abaţia Pannonhalma."
+      },
+      {
+        "q": "Care este cel mai valoros document?",
+        "a": "Actul de ctitorire din Tihany (1055)."
+      },
+      {
+        "q": "Ce este special la acest document?",
+        "a": "Conţine primele cuvinte în limba maghiară."
+      },
+      {
+        "q": "Poate fi vizitată arhiva?",
+        "a": "Doar pentru cercetători sau cu ghid special."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is the archive located?",
+        "a": "In the Pannonhalma Archabbey."
+      },
+      {
+        "q": "What is the most valuable document?",
+        "a": "The Tihany Foundation Charter (1055)."
+      },
+      {
+        "q": "What is special about this document?",
+        "a": "It contains the first Hungarian words."
+      },
+      {
+        "q": "Can the archive be visited?",
+        "a": "Only for researchers or with special guidance."
+      }
+    ]
+  },
+  "magyar-nemzeti-galeria-poi": {
+    "de": [
+      {
+        "q": "Wo befindet sich die Nationalgalerie?",
+        "a": "In der Budauer Burg."
+      },
+      {
+        "q": "Was stellt sie aus?",
+        "a": "Ungarische Kunst vom Mittelalter bis heute."
+      },
+      {
+        "q": "Wer ist ein berühmter ausgestellter Maler?",
+        "a": "Mihály Munkácsy."
+      },
+      {
+        "q": "Ist sie montags geöffnet?",
+        "a": "In der Regel nicht."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található a Nemzeti Galéria?",
+        "a": "A Budavári Palotában."
+      },
+      {
+        "q": "Mit állít ki?",
+        "a": "Magyar művészetet a középkortól napjainkig."
+      },
+      {
+        "q": "Ki egy híres kiállított festő?",
+        "a": "Munkácsy Mihály."
+      },
+      {
+        "q": "Nyitva van hétfőn?",
+        "a": "Általában nem."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află Galeria Naţională?",
+        "a": "În Castelul Buda."
+      },
+      {
+        "q": "Ce expune?",
+        "a": "Artă maghiară din Evul Mediu până în prezent."
+      },
+      {
+        "q": "Cine este un pictor faimos expus?",
+        "a": "Mihály Munkácsy."
+      },
+      {
+        "q": "Este deschisă lunea?",
+        "a": "De regulă, nu."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is the National Gallery located?",
+        "a": "In the Buda Castle."
+      },
+      {
+        "q": "What does it exhibit?",
+        "a": "Hungarian art from the Middle Ages to today."
+      },
+      {
+        "q": "Who is a famous painter exhibited?",
+        "a": "Mihály Munkácsy."
+      },
+      {
+        "q": "Is it open on Mondays?",
+        "a": "Usually not."
+      }
+    ]
+  },
+  "corvin-negyed-poi": {
+    "de": [
+      {
+        "q": "Was ist das Corvin-Viertel?",
+        "a": "Ein modernisiertes Stadtviertel in Budapest."
+      },
+      {
+        "q": "Was ist das Zentrum?",
+        "a": "Die Corvin-Promenade."
+      },
+      {
+        "q": "Wofür ist es bekannt?",
+        "a": "Einkaufszentrum, Kinos und Architektur."
+      },
+      {
+        "q": "Welche Metro hält hier?",
+        "a": "Die Linie M3."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Corvin negyed?",
+        "a": "Egy modernizált városnegyed Budapesten."
+      },
+      {
+        "q": "Mi a központja?",
+        "a": "A Corvin sétány."
+      },
+      {
+        "q": "Miről ismert?",
+        "a": "Pláza, mozik és építészet."
+      },
+      {
+        "q": "Melyik metró áll meg itt?",
+        "a": "Az M3-as metró."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este cartierul Corvin?",
+        "a": "Un cartier modernizat din Budapesta."
+      },
+      {
+        "q": "Care este centrul?",
+        "a": "Promenada Corvin."
+      },
+      {
+        "q": "Pentru ce este cunoscut?",
+        "a": "Mall, cinematografe şi arhitectură."
+      },
+      {
+        "q": "Ce metrou opreşte aici?",
+        "a": "Linia M3."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Corvin Quarter?",
+        "a": "A modernized urban district in Budapest."
+      },
+      {
+        "q": "What is the center?",
+        "a": "The Corvin Promenade."
+      },
+      {
+        "q": "What is it known for?",
+        "a": "Mall, cinemas, and architecture."
+      },
+      {
+        "q": "Which metro stops here?",
+        "a": "The M3 line."
+      }
+    ]
+  },
+  "hatvan": {
+    "de": [
+      {
+        "q": "Was bedeutet der Name Hatvan?",
+        "a": "Sechzig."
+      },
+      {
+        "q": "Was ist die Hauptattraktion?",
+        "a": "Das Grassalkovich-Schloss."
+      },
+      {
+        "q": "Welches Museum ist im Schloss?",
+        "a": "Das Jagdmuseum."
+      },
+      {
+        "q": "Wo liegt die Stadt?",
+        "a": "An der Autobahn M3, östlich von Budapest."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mit jelent a Hatvan név?",
+        "a": "Hatvan."
+      },
+      {
+        "q": "Mi a fő látnivaló?",
+        "a": "A Grassalkovich-kastély."
+      },
+      {
+        "q": "Milyen múzeum van a kastélyban?",
+        "a": "Vadászati Múzeum."
+      },
+      {
+        "q": "Hol fekszik a város?",
+        "a": "Az M3-as autópálya mentén, Budapesttől keletre."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce înseamnă numele Hatvan?",
+        "a": "Şaizeci."
+      },
+      {
+        "q": "Care este atracţia principală?",
+        "a": "Castelul Grassalkovich."
+      },
+      {
+        "q": "Ce muzeu se află în castel?",
+        "a": "Muzeul de Vânătoare."
+      },
+      {
+        "q": "Unde se află oraşul?",
+        "a": "Pe autostrada M3, la est de Budapesta."
+      }
+    ],
+    "en": [
+      {
+        "q": "What does the name Hatvan mean?",
+        "a": "Sixty."
+      },
+      {
+        "q": "What is the main attraction?",
+        "a": "The Grassalkovich Palace."
+      },
+      {
+        "q": "What museum is in the palace?",
+        "a": "The Hunting Museum."
+      },
+      {
+        "q": "Where is the city located?",
+        "a": "Along the M3 motorway, east of Budapest."
+      }
+    ]
+  },
+  "tapolca": {
+    "de": [
+      {
+        "q": "Wofür ist Tapolca berühmt?",
+        "a": "Für seinen See-Höhle."
+      },
+      {
+        "q": "Kann man auf dem See Boot fahren?",
+        "a": "Ja, man kann in der Höhle rudern."
+      },
+      {
+        "q": "Was ist der Malom-tó?",
+        "a": "Der Mühlen-See im Stadtzentrum."
+      },
+      {
+        "q": "Gibt es dort auch Heilhöhlen?",
+        "a": "Ja, zur Behandlung von Atemwegen."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről híres Tapolca?",
+        "a": "A tavasbarlangjáról."
+      },
+      {
+        "q": "Lehet csónakázni a tavon?",
+        "a": "Igen, lehet evezni a barlangban."
+      },
+      {
+        "q": "Mi az a Malom-tó?",
+        "a": "A malom-tó a városközpontban."
+      },
+      {
+        "q": "Vannak ott gyógybarlangok is?",
+        "a": "Igen, légúti betegségek kezelésére."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este faimos Tapolca?",
+        "a": "Pentru peştera sa cu lac."
+      },
+      {
+        "q": "Se poate merge cu barca pe lac?",
+        "a": "Da, se poate vâsli în peşteră."
+      },
+      {
+        "q": "Ce este Malom-tó?",
+        "a": "Lacul Morii în centrul oraşului."
+      },
+      {
+        "q": "Există şi peşteri curative acolo?",
+        "a": "Da, pentru tratarea căilor respiratorii."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Tapolca famous for?",
+        "a": "For its Lake Cave."
+      },
+      {
+        "q": "Can you go boating on the lake?",
+        "a": "Yes, you can row in the cave."
+      },
+      {
+        "q": "What is the Malom-tó?",
+        "a": "The Mill Lake in the city center."
+      },
+      {
+        "q": "Are there healing caves there too?",
+        "a": "Yes, for treating respiratory diseases."
+      }
+    ]
+  },
+  "kazincbarcika": {
+    "de": [
+      {
+        "q": "Welchen Beinamen hat Kazincbarcika?",
+        "a": "Kolorcity."
+      },
+      {
+        "q": "Warum wird sie so genannt?",
+        "a": "Wegen der vielen bunten Wandgemälde."
+      },
+      {
+        "q": "Was ist die wirtschaftliche Basis?",
+        "a": "Die chemische Industrie (BorsodChem)."
+      },
+      {
+        "q": "In welchem Komitat liegt sie?",
+        "a": "Borsod-Abaúj-Zemplén."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a beceneve Kazincbarcikának?",
+        "a": "Kolorcity."
+      },
+      {
+        "q": "Miért hívják így?",
+        "a": "A sok színes falfestmény (mural) miatt."
+      },
+      {
+        "q": "Mi a gazdasági alapja?",
+        "a": "A vegyipar (BorsodChem)."
+      },
+      {
+        "q": "Melyik vármegyében található?",
+        "a": "Borsod-Abaúj-Zemplén."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce poreclă are Kazincbarcika?",
+        "a": "Kolorcity."
+      },
+      {
+        "q": "De ce este numit aşa?",
+        "a": "Datorită numeroaselor picturi murale colorate."
+      },
+      {
+        "q": "Care este baza economică?",
+        "a": "Industria chimică (BorsodChem)."
+      },
+      {
+        "q": "În ce judeţ se află?",
+        "a": "Borsod-Abaúj-Zemplén."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the nickname of Kazincbarcika?",
+        "a": "Kolorcity."
+      },
+      {
+        "q": "Why is it called that?",
+        "a": "Because of the many colorful mural paintings."
+      },
+      {
+        "q": "What is the economic base?",
+        "a": "The chemical industry (BorsodChem)."
+      },
+      {
+        "q": "In which county is it located?",
+        "a": "Borsod-Abaúj-Zemplén."
+      }
+    ]
+  },
+  "ozd": {
+    "de": [
+      {
+        "q": "Wofür war Ózd historisch bekannt?",
+        "a": "Für seine Eisen- und Stahlindustrie."
+      },
+      {
+        "q": "Was kann man heute dort besuchen?",
+        "a": "Das Digitale Kraftwerk."
+      },
+      {
+        "q": "Gibt es dort ein Filmmuseum?",
+        "a": "Ja, das Nationale Filminstitut hat dort ein Archiv."
+      },
+      {
+        "q": "Wie ist die Umgebung der Stadt?",
+        "a": "Hügelig und waldreich."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről volt híres Ózd történelmileg?",
+        "a": "A vas- és acélgyártásáról."
+      },
+      {
+        "q": "Mit lehet ma ott meglátogatni?",
+        "a": "A Digitális Erőművet."
+      },
+      {
+        "q": "Van ott filmmúzeum?",
+        "a": "Igen, a Nemzeti Filmtörténeti Élménypark."
+      },
+      {
+        "q": "Milyen a város környezete?",
+        "a": "Dombos és erdős."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce a fost faimos Ózd istoric?",
+        "a": "Pentru industria sa de fier şi oţel."
+      },
+      {
+        "q": "Ce se poate vizita astăzi acolo?",
+        "a": "Centrala Digitală."
+      },
+      {
+        "q": "Există un muzeu al filmului acolo?",
+        "a": "Da, Parcul de Experienţe al Istoriei Filmului Naţional."
+      },
+      {
+        "q": "Cum este împrejurimea oraşului?",
+        "a": "Deluroasă şi împădurită."
+      }
+    ],
+    "en": [
+      {
+        "q": "What was Ózd historically known for?",
+        "a": "For its iron and steel industry."
+      },
+      {
+        "q": "What can you visit there today?",
+        "a": "The Digital Power Plant."
+      },
+      {
+        "q": "Is there a film museum there?",
+        "a": "Yes, the National Film History Adventure Park."
+      },
+      {
+        "q": "What is the city's surroundings like?",
+        "a": "Hilly and forested."
+      }
+    ]
+  },
+  "szigliget": {
+    "de": [
+      {
+        "q": "Was ist die Hauptattraktion von Szigliget?",
+        "a": "Die Burgruine auf dem Hügel."
+      },
+      {
+        "q": "An welchem See liegt der Ort?",
+        "a": "Am Plattensee (Balaton)."
+      },
+      {
+        "q": "Wofür ist der Ort noch bekannt?",
+        "a": "Für seinen Wein und das Esterházy-Schloss."
+      },
+      {
+        "q": "Kann man die Burg besichtigen?",
+        "a": "Ja, sie bietet ein tolles Panorama."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi Szigliget fő vonzereje?",
+        "a": "A dombtetőn lévő várrom."
+      },
+      {
+        "q": "Melyik tó partján fekszik?",
+        "a": "A Balaton partján."
+      },
+      {
+        "q": "Miről ismert még a település?",
+        "a": "A boráról és az Esterházy-kastélyról."
+      },
+      {
+        "q": "Látogatható a vár?",
+        "a": "Igen, csodás panoráma nyílik onnan."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Care este atracţia principală din Szigliget?",
+        "a": "Ruinele cetăţii de pe deal."
+      },
+      {
+        "q": "Pe malul cărui lac se află?",
+        "a": "Pe malul lacului Balaton."
+      },
+      {
+        "q": "Pentru ce mai este cunoscută localitatea?",
+        "a": "Pentru vinul său şi castelul Esterházy."
+      },
+      {
+        "q": "Se poate vizita cetatea?",
+        "a": "Da, oferă o panoramă superbă."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the main attraction of Szigliget?",
+        "a": "The castle ruins on the hill."
+      },
+      {
+        "q": "On which lake is the town located?",
+        "a": "On Lake Balaton."
+      },
+      {
+        "q": "What else is the town known for?",
+        "a": "For its wine and the Esterházy Mansion."
+      },
+      {
+        "q": "Can the castle be visited?",
+        "a": "Yes, it offers a great panorama."
+      }
+    ]
+  },
+  "herend": {
+    "de": [
+      {
+        "q": "Wofür ist Herend weltberühmt?",
+        "a": "Für sein handgemaltes Porzellan."
+      },
+      {
+        "q": "Was ist das Porzellanium?",
+        "a": "Ein Besucherzentrum mit Museum und Werkstatt."
+      },
+      {
+        "q": "Wann wurde die Manufaktur gegründet?",
+        "a": "Im Jahr 1826."
+      },
+      {
+        "q": "Ist das Porzellan teuer?",
+        "a": "Ja, es gilt als Luxusprodukt."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről világhírű Herend?",
+        "a": "A kézzel festett porcelánjáról."
+      },
+      {
+        "q": "Mi az a Porcelánium?",
+        "a": "Látogatóközpont múzeummal és műhellyel."
+      },
+      {
+        "q": "Mikor alapították a manufaktúrát?",
+        "a": "1826-ban."
+      },
+      {
+        "q": "Drága a porcelán?",
+        "a": "Igen, luxusterméknek számít."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este faimos Herend în întreaga lume?",
+        "a": "Pentru porţelanul său pictat manual."
+      },
+      {
+        "q": "Ce este Porcelánium?",
+        "a": "Un centru pentru vizitatori cu muzeu şi atelier."
+      },
+      {
+        "q": "Când a fost fondată manufactura?",
+        "a": "În anul 1826."
+      },
+      {
+        "q": "Este scump porţelanul?",
+        "a": "Da, este considerat un produs de lux."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Herend world-famous for?",
+        "a": "For its hand-painted porcelain."
+      },
+      {
+        "q": "What is the Porcellanium?",
+        "a": "A visitor center with a museum and workshop."
+      },
+      {
+        "q": "When was the manufactory founded?",
+        "a": "In 1826."
+      },
+      {
+        "q": "Is the porcelain expensive?",
+        "a": "Yes, it is considered a luxury product."
+      }
+    ]
+  },
+  "mezokovesd": {
+    "de": [
+      {
+        "q": "Wofür ist Mezőkövesd bekannt?",
+        "a": "Für die Matyó-Stickerei."
+      },
+      {
+        "q": "Wie heißt das berühmte Bad dort?",
+        "a": "Zsóry-Bad."
+      },
+      {
+        "q": "Was ist das Hadas-Viertel?",
+        "a": "Ein alter Stadtteil mit Reetdachhäusern."
+      },
+      {
+        "q": "Gibt es dort ein Museum?",
+        "a": "Ja, das Matyó-Museum."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről ismert Mezőkövesd?",
+        "a": "A matyó hímzésről."
+      },
+      {
+        "q": "Hogy hívják a híres fürdőjét?",
+        "a": "Zsóry-fürdő."
+      },
+      {
+        "q": "Mi az a Hadas városrész?",
+        "a": "Régi városrész nádtetős házakkal."
+      },
+      {
+        "q": "Van ott múzeum?",
+        "a": "Igen, a Matyó Múzeum."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este cunoscut Mezőkövesd?",
+        "a": "Pentru broderia Matyó."
+      },
+      {
+        "q": "Cum se numeşte faimoasa sa baie?",
+        "a": "Băile Zsóry."
+      },
+      {
+        "q": "Ce este cartierul Hadas?",
+        "a": "Un cartier vechi cu case cu acoperiş de stuf."
+      },
+      {
+        "q": "Există un muzeu acolo?",
+        "a": "Da, Muzeul Matyó."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Mezőkövesd known for?",
+        "a": "For Matyó embroidery."
+      },
+      {
+        "q": "What is the name of the famous bath there?",
+        "a": "Zsóry Bath."
+      },
+      {
+        "q": "What is the Hadas district?",
+        "a": "An old district with thatched-roof houses."
+      },
+      {
+        "q": "Is there a museum there?",
+        "a": "Yes, the Matyó Museum."
+      }
+    ]
+  },
+  "hajos": {
+    "de": [
+      {
+        "q": "Wofür ist Hajós berühmt?",
+        "a": "Für sein Kellerdorf."
+      },
+      {
+        "q": "Wie viele Weinkeller gibt es dort?",
+        "a": "Über 1.200."
+      },
+      {
+        "q": "Gibt es dort auch ein Schloss?",
+        "a": "Ja, das Erzbischöfliche Schloss."
+      },
+      {
+        "q": "Welches Event findet jährlich statt?",
+        "a": "Das St.-Orbán-Weinfest."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről híres Hajós?",
+        "a": "A pincéiről (pincefalu)."
+      },
+      {
+        "q": "Hány borospince található ott?",
+        "a": "Több mint 1200."
+      },
+      {
+        "q": "Van ott kastély is?",
+        "a": "Igen, az Érseki Kastély."
+      },
+      {
+        "q": "Milyen eseményt tartanak évente?",
+        "a": "Orbán-napi Borünnep."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este faimos Hajós?",
+        "a": "Pentru satul său de pivniţe."
+      },
+      {
+        "q": "Câte pivniţe de vin se află acolo?",
+        "a": "Peste 1.200."
+      },
+      {
+        "q": "Există şi un castel acolo?",
+        "a": "Da, Castelul Arhiepiscopal."
+      },
+      {
+        "q": "Ce eveniment are loc anual?",
+        "a": "Sărbătoarea Vinului de Sfântul Orban."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Hajós famous for?",
+        "a": "For its cellar village."
+      },
+      {
+        "q": "How many wine cellars are there?",
+        "a": "Over 1,200."
+      },
+      {
+        "q": "Is there a castle there too?",
+        "a": "Yes, the Archbishop's Palace."
+      },
+      {
+        "q": "What event is held annually?",
+        "a": "The St. Urban Wine Festival."
+      }
+    ]
+  },
+  "szentgotthard": {
+    "de": [
+      {
+        "q": "Wo liegt Szentgotthárd?",
+        "a": "An der österreichischen Grenze."
+      },
+      {
+        "q": "Was ist die Hauptsehenswürdigkeit?",
+        "a": "Die barocke Zisterzienserabtei."
+      },
+      {
+        "q": "Wofür ist die Stadt wirtschaftlich bekannt?",
+        "a": "Für das Opel-Werk."
+      },
+      {
+        "q": "Gibt es dort ein Thermalbad?",
+        "a": "Ja, das Thermalpark St. Gotthard."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol található Szentgotthárd?",
+        "a": "Az osztrák határnál."
+      },
+      {
+        "q": "Mi a fő látnivaló?",
+        "a": "A barokk ciszterci apátság."
+      },
+      {
+        "q": "Miről ismert a város gazdaságilag?",
+        "a": "Az Opel-gyárról."
+      },
+      {
+        "q": "Van ott termálfürdő?",
+        "a": "Igen, a St. Gotthard Thermalpark."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află Szentgotthárd?",
+        "a": "La graniţa cu Austria."
+      },
+      {
+        "q": "Care este atracţia principală?",
+        "a": "Abaţia cisterciană barocă."
+      },
+      {
+        "q": "Pentru ce este cunoscut oraşul economic?",
+        "a": "Pentru fabrica Opel."
+      },
+      {
+        "q": "Există o baie termală acolo?",
+        "a": "Da, Thermalpark St. Gotthard."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is Szentgotthárd located?",
+        "a": "At the Austrian border."
+      },
+      {
+        "q": "What is the main attraction?",
+        "a": "The Baroque Cistercian Abbey."
+      },
+      {
+        "q": "What is the city known for economically?",
+        "a": "For the Opel plant."
+      },
+      {
+        "q": "Is there a thermal bath there?",
+        "a": "Yes, the St. Gotthard Thermal Park."
+      }
+    ]
+  },
+  "lenti": {
+    "de": [
+      {
+        "q": "Wofür ist Lenti bekannt?",
+        "a": "Für sein Thermalbad und Energiepark."
+      },
+      {
+        "q": "Was ist der Sankt-Georg-Energiepark?",
+        "a": "Ein Ort mit speziellen Erdstrahlen."
+      },
+      {
+        "q": "Gibt es dort eine Waldbahn?",
+        "a": "Ja, die längste Waldbahn Ungarns."
+      },
+      {
+        "q": "Wo liegt Lenti?",
+        "a": "Im Komitat Zala, nahe Slowenien."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről ismert Lenti?",
+        "a": "Termálfürdőjéről és energiaparkjáról."
+      },
+      {
+        "q": "Mi az a Szent György Energiapark?",
+        "a": "Speciális földsugárzású hely."
+      },
+      {
+        "q": "Van ott erdei vasút?",
+        "a": "Igen, az ország leghosszabb erdei vasútja."
+      },
+      {
+        "q": "Hol fekszik Lenti?",
+        "a": "Zala vármegyében, Szlovénia közelében."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este cunoscut Lenti?",
+        "a": "Pentru baia sa termală şi parcul energetic."
+      },
+      {
+        "q": "Ce este parcul energetic Sfântul Gheorghe?",
+        "a": "Un loc cu radiaţii telurice speciale."
+      },
+      {
+        "q": "Există o cale ferată forestieră acolo?",
+        "a": "Da, cea mai lungă cale ferată forestieră din ţară."
+      },
+      {
+        "q": "Unde se află Lenti?",
+        "a": "În judeţul Zala, lângă Slovenia."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Lenti known for?",
+        "a": "For its thermal bath and energy park."
+      },
+      {
+        "q": "What is the St. George Energy Park?",
+        "a": "A place with special earth radiations."
+      },
+      {
+        "q": "Is there a forest railway there?",
+        "a": "Yes, the longest forest railway in the country."
+      },
+      {
+        "q": "Where is Lenti located?",
+        "a": "In Zala County, near Slovenia."
+      }
+    ]
+  },
+  "karcag": {
+    "de": [
+      {
+        "q": "Wofür ist Karcag bekannt?",
+        "a": "Als Hauptstadt von Großkumanien."
+      },
+      {
+        "q": "Was ist eine kulinarische Spezialität?",
+        "a": "Karcager Schafsgulasch."
+      },
+      {
+        "q": "Was ist das Akácliget-Bad?",
+        "a": "Das örtliche Thermalbad."
+      },
+      {
+        "q": "Gibt es dort Windmühlen?",
+        "a": "Ja, eine berühmte denkmalgeschützte Windmühle."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről ismert Karcag?",
+        "a": "A Nagykunság fővárosaként."
+      },
+      {
+        "q": "Mi egy helyi ételkülönlegesség?",
+        "a": "Karcagi birkapörkölt."
+      },
+      {
+        "q": "Mi az az Akácliget fürdő?",
+        "a": "A helyi termálfürdő."
+      },
+      {
+        "q": "Vannak ott szélmalmok?",
+        "a": "Igen, egy híres műemlék szélmalom."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este cunoscut Karcag?",
+        "a": "Drept capitala Cumaniei Mari."
+      },
+      {
+        "q": "Care este o specialitate culinară locală?",
+        "a": "Tocăniţa de oaie din Karcag."
+      },
+      {
+        "q": "Ce este baia Akácliget?",
+        "a": "Baia termală locală."
+      },
+      {
+        "q": "Există mori de vânt acolo?",
+        "a": "Da, o moară de vânt celebră monument istoric."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Karcag known for?",
+        "a": "As the capital of Great Cumania."
+      },
+      {
+        "q": "What is a local culinary specialty?",
+        "a": "Karcag mutton stew."
+      },
+      {
+        "q": "What is the Akácliget bath?",
+        "a": "The local thermal bath."
+      },
+      {
+        "q": "Are there windmills there?",
+        "a": "Yes, a famous heritage windmill."
+      }
+    ]
+  },
+  "jaszapati": {
+    "de": [
+      {
+        "q": "Was ist Jászapáti?",
+        "a": "Eine Stadt in der Jászság-Region."
+      },
+      {
+        "q": "Wofür ist sie bekannt?",
+        "a": "Für ihr Thermalbad."
+      },
+      {
+        "q": "Gibt es dort eine Kirche?",
+        "a": "Ja, die Franz-von-Assisi-Kirche."
+      },
+      {
+        "q": "Was kann man im Museum sehen?",
+        "a": "Werke des Malers Pál Vágó."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi az a Jászapáti?",
+        "a": "Város a Jászságban."
+      },
+      {
+        "q": "Miről ismert?",
+        "a": "A termálfürdőjéről."
+      },
+      {
+        "q": "Van ott templom?",
+        "a": "Igen, az Assisi Szent Ferenc templom."
+      },
+      {
+        "q": "Mit lehet látni a múzeumban?",
+        "a": "Vágó Pál festőművész alkotásait."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Jászapáti?",
+        "a": "Un oraş în regiunea Jászság."
+      },
+      {
+        "q": "Pentru ce este cunoscut?",
+        "a": "Pentru baia sa termală."
+      },
+      {
+        "q": "Există o biserică acolo?",
+        "a": "Da, biserica Sfântul Francisc de Assisi."
+      },
+      {
+        "q": "Ce se poate vedea în muzeu?",
+        "a": "Operele pictorului Pál Vágó."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Jászapáti?",
+        "a": "A town in the Jászság region."
+      },
+      {
+        "q": "What is it known for?",
+        "a": "For its thermal bath."
+      },
+      {
+        "q": "Is there a church there?",
+        "a": "Yes, the St. Francis of Assisi Church."
+      },
+      {
+        "q": "What can you see in the museum?",
+        "a": "Works of the painter Pál Vágó."
+      }
+    ]
+  },
+  "tiszaujvaros": {
+    "de": [
+      {
+        "q": "Wann wurde Tiszaújváros gegründet?",
+        "a": "In den 1950er Jahren."
+      },
+      {
+        "q": "Wie hieß sie früher?",
+        "a": "Leninváros."
+      },
+      {
+        "q": "Was ist die wirtschaftliche Basis?",
+        "a": "Die chemische Industrie (MOL)."
+      },
+      {
+        "q": "Gibt es dort ein Bad?",
+        "a": "Ja, ein modernes Heil- und Strandbad."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mikor alapították Tiszaújvárost?",
+        "a": "Az 1950-es években."
+      },
+      {
+        "q": "Hogy hívták korábban?",
+        "a": "Leninváros."
+      },
+      {
+        "q": "Mi a gazdasági alapja?",
+        "a": "A vegyipar (MOL)."
+      },
+      {
+        "q": "Van ott fürdő?",
+        "a": "Igen, modern gyógy- és strandfürdő."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Când a fost fondat Tiszaújváros?",
+        "a": "În anii 1950."
+      },
+      {
+        "q": "Cum s-a numit înainte?",
+        "a": "Leninváros."
+      },
+      {
+        "q": "Care este baza economică?",
+        "a": "Industria chimică (MOL)."
+      },
+      {
+        "q": "Există o baie acolo?",
+        "a": "Da, o baie curativă şi ştrand modern."
+      }
+    ],
+    "en": [
+      {
+        "q": "When was Tiszaújváros founded?",
+        "a": "In the 1950s."
+      },
+      {
+        "q": "What was it called earlier?",
+        "a": "Leninváros."
+      },
+      {
+        "q": "What is the economic base?",
+        "a": "The chemical industry (MOL)."
+      },
+      {
+        "q": "Is there a bath there?",
+        "a": "Yes, a modern medicinal and beach bath."
+      }
+    ]
+  },
+  "komlo": {
+    "de": [
+      {
+        "q": "Was war Komló früher?",
+        "a": "Eine bedeutende Bergbaustadt."
+      },
+      {
+        "q": "In welchem Gebirge liegt sie?",
+        "a": "Im Mecsek-Gebirge."
+      },
+      {
+        "q": "Was wird dort heute gefördert?",
+        "a": "Nichts, der Bergbau wurde eingestellt."
+      },
+      {
+        "q": "Was ist eine Sehenswürdigkeit?",
+        "a": "Die Mini-Zoo und das Museum."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi volt korábban Komló?",
+        "a": "Jelentős bányászváros."
+      },
+      {
+        "q": "Melyik hegységben fekszik?",
+        "a": "A Mecsekben."
+      },
+      {
+        "q": "Mit bányásznak ott ma?",
+        "a": "Semmit, a bányászat megszűnt."
+      },
+      {
+        "q": "Mi egy látnivaló ott?",
+        "a": "A Mini Zoo és a múzeum."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce a fost înainte Komló?",
+        "a": "Un oraş minier important."
+      },
+      {
+        "q": "În ce munţi se află?",
+        "a": "În munţii Mecsek."
+      },
+      {
+        "q": "Ce se mai extrage acolo astăzi?",
+        "a": "Nimic, minereul a fost sistat."
+      },
+      {
+        "q": "Care este o atracţie acolo?",
+        "a": "Mini Zoo şi muzeul."
+      }
+    ],
+    "en": [
+      {
+        "q": "What was Komló formerly?",
+        "a": "A significant mining town."
+      },
+      {
+        "q": "In which mountains is it located?",
+        "a": "In the Mecsek Mountains."
+      },
+      {
+        "q": "What is mined there today?",
+        "a": "Nothing, mining has ceased."
+      },
+      {
+        "q": "What is a sight there?",
+        "a": "The Mini Zoo and the museum."
+      }
+    ]
+  },
+  "szazhalombatta": {
+    "de": [
+      {
+        "q": "Woher kommt der Name der Stadt?",
+        "a": "Von den Grabhügeln (Hügelgräber)."
+      },
+      {
+        "q": "Was ist die wirtschaftliche Bedeutung?",
+        "a": "Raffinerie und Kraftwerk."
+      },
+      {
+        "q": "Was kann man im Archäologischen Park sehen?",
+        "a": "Eisenzeitliche Hügelgräber."
+      },
+      {
+        "q": "Wo liegt die Stadt?",
+        "a": "Südlich von Budapest an der Donau."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Honnan ered a város neve?",
+        "a": "A halomsírokról."
+      },
+      {
+        "q": "Mi a gazdasági jelentősége?",
+        "a": "Olajfinomító és erőmű."
+      },
+      {
+        "q": "Mit lehet látni a Régészeti Parkban?",
+        "a": "Vaskori halomsírokat."
+      },
+      {
+        "q": "Hol fekszik a város?",
+        "a": "Budapesttől délre, a Dunánál."
+      }
+    ],
+    "ro": [
+      {
+        "q": "De unde provine numele oraşului?",
+        "a": "De la tumuli (mormintele movilă)."
+      },
+      {
+        "q": "Care este importanţa economică?",
+        "a": "Rafinărie şi centrală electrică."
+      },
+      {
+        "q": "Ce se poate vedea în Parcul Arheologic?",
+        "a": "Tumuli din epoca fierului."
+      },
+      {
+        "q": "Unde se află oraşul?",
+        "a": "La sud de Budapesta, la Dunăre."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where does the city's name come from?",
+        "a": "From the burial mounds (tumuli)."
+      },
+      {
+        "q": "What is the economic significance?",
+        "a": "Oil refinery and power plant."
+      },
+      {
+        "q": "What can you see in the Archaeological Park?",
+        "a": "Iron Age burial mounds."
+      },
+      {
+        "q": "Where is the city located?",
+        "a": "South of Budapest by the Danube."
+      }
+    ]
+  },
+  "monor": {
+    "de": [
+      {
+        "q": "Wofür ist Monor bekannt?",
+        "a": "Für seinen Kellerberg (Strázsa-hegy)."
+      },
+      {
+        "q": "Wie viele Keller gibt es dort?",
+        "a": "Fast 1.000."
+      },
+      {
+        "q": "Welche Traubensorte ist typisch?",
+        "a": "Ezerjó und andere Weiße."
+      },
+      {
+        "q": "Wo liegt Monor?",
+        "a": "In der Nähe des Flughafens Budapest."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről ismert Monor?",
+        "a": "A pincehegyéről (Strázsa-hegy)."
+      },
+      {
+        "q": "Hány pince található ott?",
+        "a": "Közel 1000."
+      },
+      {
+        "q": "Melyik szőlőfajta jellemző?",
+        "a": "Ezerjó és más fehérek."
+      },
+      {
+        "q": "Hol fekszik Monor?",
+        "a": "Budapest repülőtere közelében."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este cunoscut Monor?",
+        "a": "Pentru dealul său de pivniţe (Strázsa-hegy)."
+      },
+      {
+        "q": "Câte pivniţe se află acolo?",
+        "a": "Aproape 1.000."
+      },
+      {
+        "q": "Ce soi de struguri este tipic?",
+        "a": "Ezerjó şi alţi albi."
+      },
+      {
+        "q": "Unde se află Monor?",
+        "a": "În apropierea aeroportului Budapesta."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Monor known for?",
+        "a": "For its cellar hill (Strázsa Hill)."
+      },
+      {
+        "q": "How many cellars are there?",
+        "a": "Nearly 1,000."
+      },
+      {
+        "q": "Which grape variety is typical?",
+        "a": "Ezerjó and other whites."
+      },
+      {
+        "q": "Where is Monor located?",
+        "a": "Near the Budapest Airport."
+      }
+    ]
+  },
+  "nagykoros": {
+    "de": [
+      {
+        "q": "Wofür ist Nagykőrös berühmt?",
+        "a": "Für seine Gurken und Landwirtschaft."
+      },
+      {
+        "q": "Wer ist der berühmte Dichter der Stadt?",
+        "a": "János Arany lehre hier."
+      },
+      {
+        "q": "Gibt es dort ein Safari-Park?",
+        "a": "Ja, der Richter Safari Park."
+      },
+      {
+        "q": "Was ist das Arany-János-Museum?",
+        "a": "Ein Museum über den Dichter und Lokalgeschichte."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről híres Nagykőrös?",
+        "a": "Az uborkájáról és mezőgazdaságáról."
+      },
+      {
+        "q": "Ki a város híres költője?",
+        "a": "Arany János itt tanított."
+      },
+      {
+        "q": "Van ott Safari Park?",
+        "a": "Igen, a Richter Safari Park."
+      },
+      {
+        "q": "Mi az Arany János Múzeum?",
+        "a": "A költőről és helytörténetről szóló múzeum."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este faimos Nagykőrös?",
+        "a": "Pentru castraveţii săi şi agricultură."
+      },
+      {
+        "q": "Cine este poetul faimos al oraşului?",
+        "a": "János Arany a predat aici."
+      },
+      {
+        "q": "Există un Safari Park acolo?",
+        "a": "Da, Richter Safari Park."
+      },
+      {
+        "q": "Ce este Muzeul Arany János?",
+        "a": "Un muzeu despre poet şi istoria locală."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Nagykőrös famous for?",
+        "a": "For its cucumbers and agriculture."
+      },
+      {
+        "q": "Who is the city's famous poet?",
+        "a": "János Arany taught here."
+      },
+      {
+        "q": "Is there a Safari Park there?",
+        "a": "Yes, the Richter Safari Park."
+      },
+      {
+        "q": "What is the Arany János Museum?",
+        "a": "A museum about the poet and local history."
+      }
+    ]
+  },
+  "marcali": {
+    "de": [
+      {
+        "q": "Wo liegt Marcali?",
+        "a": "Südlich des Plattensees."
+      },
+      {
+        "q": "Was ist die Hauptattraktion?",
+        "a": "Das Heil- und Strandbad."
+      },
+      {
+        "q": "Gibt es dort ein Schloss?",
+        "a": "Ja, das Széchényi-Schloss."
+      },
+      {
+        "q": "Wofür ist die Stadt noch bekannt?",
+        "a": "Für Weinbau und Landwirtschaft."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hol fekszik Marcali?",
+        "a": "A Balatontól délre."
+      },
+      {
+        "q": "Mi a fő látnivaló?",
+        "a": "A gyógy- és strandfürdő."
+      },
+      {
+        "q": "Van ott kastély?",
+        "a": "Igen, a Széchényi-kastély."
+      },
+      {
+        "q": "Miről ismert még a város?",
+        "a": "Szőlőtermesztésről és mezőgazdaságról."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Unde se află Marcali?",
+        "a": "La sud de Balaton."
+      },
+      {
+        "q": "Care este atracţia principală?",
+        "a": "Baia curativă şi ştrandul."
+      },
+      {
+        "q": "Există un castel acolo?",
+        "a": "Da, castelul Széchényi."
+      },
+      {
+        "q": "Pentru ce mai este cunoscut oraşul?",
+        "a": "Pentru viticultură şi agricultură."
+      }
+    ],
+    "en": [
+      {
+        "q": "Where is Marcali located?",
+        "a": "South of Lake Balaton."
+      },
+      {
+        "q": "What is the main attraction?",
+        "a": "The medicinal and beach bath."
+      },
+      {
+        "q": "Is there a castle there?",
+        "a": "Yes, the Széchényi Mansion."
+      },
+      {
+        "q": "What else is the city known for?",
+        "a": "For viticulture and agriculture."
+      }
+    ]
+  },
+  "barcs": {
+    "de": [
+      {
+        "q": "An welchem Fluss liegt Barcs?",
+        "a": "An der Drau (Dráva)."
+      },
+      {
+        "q": "Was ist das Besondere an der Drau hier?",
+        "a": "Es ist ein Grenzfluss zu Kroatien."
+      },
+      {
+        "q": "Gibt es dort ein Bad?",
+        "a": "Ja, das Barcser Heilbad."
+      },
+      {
+        "q": "Was schützt der Nationalpark hier?",
+        "a": "Die unberührte Flusslandschaft."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Melyik folyó partján fekszik Barcs?",
+        "a": "A Dráva partján."
+      },
+      {
+        "q": "Mi a Dráva különlegessége itt?",
+        "a": "Határfolyó Horvátország felé."
+      },
+      {
+        "q": "Van ott fürdő?",
+        "a": "Igen, a Barcsi Gyógyfürdő."
+      },
+      {
+        "q": "Mit véd itt a nemzeti park?",
+        "a": "Az érintetlen folyóparti tájat."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pe malul cărui râu se află Barcs?",
+        "a": "Pe malul râului Drava."
+      },
+      {
+        "q": "Ce este special la Drava aici?",
+        "a": "Este un râu de graniţă cu Croaţia."
+      },
+      {
+        "q": "Există o baie acolo?",
+        "a": "Da, Baia Curativă din Barcs."
+      },
+      {
+        "q": "Ce protejează parcul naţional aici?",
+        "a": "Peisajul fluvial virgin."
+      }
+    ],
+    "en": [
+      {
+        "q": "On which river is Barcs located?",
+        "a": "On the Drava."
+      },
+      {
+        "q": "What is special about the Drava here?",
+        "a": "It is a border river with Croatia."
+      },
+      {
+        "q": "Is there a bath there?",
+        "a": "Yes, the Barcs Medicinal Bath."
+      },
+      {
+        "q": "What does the national park protect here?",
+        "a": "The untouched river landscape."
+      }
+    ]
+  },
+  "celldomolk": {
+    "de": [
+      {
+        "q": "Was ist der Ság-hegy?",
+        "a": "Ein erloschener Vulkan bei der Stadt."
+      },
+      {
+        "q": "Wofür ist die Stadt bekannt?",
+        "a": "Als Wallfahrtsort."
+      },
+      {
+        "q": "Was ist die Kemenes Vulkánpark?",
+        "a": "Ein interaktives Vulkan-Museum."
+      },
+      {
+        "q": "Gibt es dort ein Thermalbad?",
+        "a": "Ja, das Vulkánfürdő."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi az a Ság-hegy?",
+        "a": "Egy kialudt vulkán a városnál."
+      },
+      {
+        "q": "Miről ismert a város?",
+        "a": "Búcsújáróhelyként."
+      },
+      {
+        "q": "Mi az a Kemenes Vulkánpark?",
+        "a": "Egy interaktív vulkán-múzeum."
+      },
+      {
+        "q": "Van ott termálfürdő?",
+        "a": "Igen, a Vulkánfürdő."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Ság-hegy?",
+        "a": "Un vulcan stins lângă oraş."
+      },
+      {
+        "q": "Pentru ce este cunoscut oraşul?",
+        "a": "Ca loc de pelerinaj."
+      },
+      {
+        "q": "Ce este Parcul Vulcanic Kemenes?",
+        "a": "Un muzeu interactiv al vulcanilor."
+      },
+      {
+        "q": "Există o baie termală acolo?",
+        "a": "Da, Vulkánfürdő."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is Ság-hegy?",
+        "a": "An extinct volcano near the town."
+      },
+      {
+        "q": "What is the city known for?",
+        "a": "As a pilgrimage site."
+      },
+      {
+        "q": "What is the Kemenes Volcano Park?",
+        "a": "An interactive volcano museum."
+      },
+      {
+        "q": "Is there a thermal bath there?",
+        "a": "Yes, the Vulkánfürdő."
+      }
+    ]
+  },
+  "kormend": {
+    "de": [
+      {
+        "q": "Was ist die Hauptattraktion von Körmend?",
+        "a": "Das Batthyány-Schloss."
+      },
+      {
+        "q": "In welchem Komitat liegt sie?",
+        "a": "Vas."
+      },
+      {
+        "q": "An welchem Fluss liegt die Stadt?",
+        "a": "An der Raab (Rába)."
+      },
+      {
+        "q": "Wofür ist Körmend sportlich bekannt?",
+        "a": "Für seine Basketballmannschaft."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi Körmend fő látnivalója?",
+        "a": "A Batthyány-kastély."
+      },
+      {
+        "q": "Melyik vármegyében található?",
+        "a": "Vas vármegye."
+      },
+      {
+        "q": "Melyik folyó partján fekszik?",
+        "a": "A Rába partján."
+      },
+      {
+        "q": "Miről ismert sportszakmailag?",
+        "a": "A kosárlabdacsapatáról."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Care este atracţia principală din Körmend?",
+        "a": "Castelul Batthyány."
+      },
+      {
+        "q": "În ce judeţ se află?",
+        "a": "Judeţul Vas."
+      },
+      {
+        "q": "Pe malul cărui râu se află oraşul?",
+        "a": "Pe malul râului Raba."
+      },
+      {
+        "q": "Pentru ce este cunoscut sportiv?",
+        "a": "Pentru echipa sa de baschet."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the main attraction of Körmend?",
+        "a": "The Batthyány Mansion."
+      },
+      {
+        "q": "In which county is it located?",
+        "a": "Vas County."
+      },
+      {
+        "q": "On which river does the city lie?",
+        "a": "On the Rába."
+      },
+      {
+        "q": "What is Körmend known for in sports?",
+        "a": "For its basketball team."
+      }
+    ]
+  },
+  "jaki-templom": {
+    "de": [
+      {
+        "q": "Was ist die Kirche von Ják?",
+        "a": "Eine berühmte romanische Abteikirche."
+      },
+      {
+        "q": "Was ist das markanteste Merkmal?",
+        "a": "Das reich verzierte Stufenportal."
+      },
+      {
+        "q": "Wann wurde sie gebaut?",
+        "a": "Im 13. Jahrhundert."
+      },
+      {
+        "q": "Wo befindet sie sich?",
+        "a": "In der Nähe von Szombathely."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Jáki templom?",
+        "a": "Híres román stílusú apátsági templom."
+      },
+      {
+        "q": "Mi a legjellegzetesebb vonása?",
+        "a": "A gazdagon díszített bélletes kapu."
+      },
+      {
+        "q": "Mikor épült?",
+        "a": "A 13. században."
+      },
+      {
+        "q": "Hol található?",
+        "a": "Szombathely közelében."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este biserica din Ják?",
+        "a": "O celebră biserică abaţială în stil romanic."
+      },
+      {
+        "q": "Care este trăsătura cea mai distinctivă?",
+        "a": "Portalul în trepte bogat decorat."
+      },
+      {
+        "q": "Când a fost construită?",
+        "a": "În secolul al XIII-lea."
+      },
+      {
+        "q": "Unde se află?",
+        "a": "Lângă Szombathely."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Church of Ják?",
+        "a": "A famous Romanesque abbey church."
+      },
+      {
+        "q": "What is the most distinctive feature?",
+        "a": "The richly decorated recessed portal."
+      },
+      {
+        "q": "When was it built?",
+        "a": "In the 13th century."
+      },
+      {
+        "q": "Where is it located?",
+        "a": "Near Szombathely."
+      }
+    ]
+  },
+  "nyirbatori-templom": {
+    "de": [
+      {
+        "q": "Welche Konfession hat die Kirche?",
+        "a": "Reformiert."
+      },
+      {
+        "q": "Was ist der Stil der Kirche?",
+        "a": "Spätgotisch."
+      },
+      {
+        "q": "Was ist neben der Kirche besonders?",
+        "a": "Der hölzerne Glockenturm."
+      },
+      {
+        "q": "Welche Familie ist mit dem Ort verbunden?",
+        "a": "Die Familie Báthory."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Milyen felekezetű a templom?",
+        "a": "Református."
+      },
+      {
+        "q": "Milyen stílusú a templom?",
+        "a": "Késő gótikus."
+      },
+      {
+        "q": "Mi különleges a templom mellett?",
+        "a": "A fa harangtorony."
+      },
+      {
+        "q": "Melyik család kötődik a helyhez?",
+        "a": "A Báthory család."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce confesiune are biserica?",
+        "a": "Reformată."
+      },
+      {
+        "q": "În ce stil este construită biserica?",
+        "a": "Gotic târziu."
+      },
+      {
+        "q": "Ce este special lângă biserică?",
+        "a": "Clopotniţa de lemn."
+      },
+      {
+        "q": "Ce familie este legată de loc?",
+        "a": "Familia Báthory."
+      }
+    ],
+    "en": [
+      {
+        "q": "What denomination is the church?",
+        "a": "Reformed."
+      },
+      {
+        "q": "What is the style of the church?",
+        "a": "Late Gothic."
+      },
+      {
+        "q": "What is special next to the church?",
+        "a": "The wooden bell tower."
+      },
+      {
+        "q": "Which family is connected to the place?",
+        "a": "The Báthory family."
+      }
+    ]
+  },
+  "edelenyi-kastely": {
+    "de": [
+      {
+        "q": "Wie heißt das Schloss offiziell?",
+        "a": "L’Huillier-Coburg Schloss."
+      },
+      {
+        "q": "Was ist der Stil des Schlosses?",
+        "a": "Barock."
+      },
+      {
+        "q": "Was kann man drinnen sehen?",
+        "a": "Einzigartige Wandmalereien."
+      },
+      {
+        "q": "Wann wurde es gebaut?",
+        "a": "Zwischen 1716 und 1730."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hogy hívják hivatalosan a kastélyt?",
+        "a": "L’Huillier-Coburg-kastély."
+      },
+      {
+        "q": "Milyen stílusú a kastély?",
+        "a": "Barokk."
+      },
+      {
+        "q": "Mit lehet látni odabent?",
+        "a": "Egyedülálló falfestményeket."
+      },
+      {
+        "q": "Mikor épült?",
+        "a": "1716 és 1730 között."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cum se numeşte oficial castelul?",
+        "a": "Castelul L’Huillier-Coburg."
+      },
+      {
+        "q": "În ce stil este castelul?",
+        "a": "Baroc."
+      },
+      {
+        "q": "Ce se poate vedea în interior?",
+        "a": "Picturi murale unice."
+      },
+      {
+        "q": "Când a fost construit?",
+        "a": "Între 1716 şi 1730."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the official name of the palace?",
+        "a": "L’Huillier-Coburg Palace."
+      },
+      {
+        "q": "What is the style of the palace?",
+        "a": "Baroque."
+      },
+      {
+        "q": "What can you see inside?",
+        "a": "Unique wall paintings."
+      },
+      {
+        "q": "When was it built?",
+        "a": "Between 1716 and 1730."
+      }
+    ]
+  },
+  "csakvari-kastely": {
+    "de": [
+      {
+        "q": "Welcher Familie gehörte das Schloss?",
+        "a": "Esterházy."
+      },
+      {
+        "q": "Was ist der Stil?",
+        "a": "Klassizistisch."
+      },
+      {
+        "q": "Was ist heute im Gebäude?",
+        "a": "Ein Krankenhaus."
+      },
+      {
+        "q": "Gibt es einen Park?",
+        "a": "Ja, ein schöner englischer Garten."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Melyik családé volt a kastély?",
+        "a": "Esterházy."
+      },
+      {
+        "q": "Milyen stílusú?",
+        "a": "Klasszicista."
+      },
+      {
+        "q": "Mi van ma az épületben?",
+        "a": "Kórház működik benne."
+      },
+      {
+        "q": "Van parkja?",
+        "a": "Igen, szép angolkertje van."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cărei familii i-a aparţinut castelul?",
+        "a": "Esterházy."
+      },
+      {
+        "q": "În ce stil este?",
+        "a": "Clasicist."
+      },
+      {
+        "q": "Ce se află astăzi în clădire?",
+        "a": "Funcţionează un spital în el."
+      },
+      {
+        "q": "Are parc?",
+        "a": "Da, are o grădină englezească frumoasă."
+      }
+    ],
+    "en": [
+      {
+        "q": "Which family owned the palace?",
+        "a": "Esterházy."
+      },
+      {
+        "q": "What is the style?",
+        "a": "Classicist."
+      },
+      {
+        "q": "What is in the building today?",
+        "a": "A hospital operates in it."
+      },
+      {
+        "q": "Is there a park?",
+        "a": "Yes, it has a beautiful English garden."
+      }
+    ]
+  },
+  "nadasdy-kastely": {
+    "de": [
+      {
+        "q": "In welchem Ort liegt das Nádasdy-Schloss?",
+        "a": "In Nádasdladány."
+      },
+      {
+        "q": "Was ist der Baustil?",
+        "a": "Tudor-Stil (Neugotik)."
+      },
+      {
+        "q": "Warum ist es berühmt?",
+        "a": "Wegen seiner romantischen Architektur."
+      },
+      {
+        "q": "Ist es renoviert?",
+        "a": "Ja, es wurde vor kurzem saniert."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Melyik településen van a Nádasdy-kastély?",
+        "a": "Nádasdladányban."
+      },
+      {
+        "q": "Mi az építészeti stílusa?",
+        "a": "Tudor-stílusú (neogótikus)."
+      },
+      {
+        "q": "Miért híres?",
+        "a": "Romantikus építészete miatt."
+      },
+      {
+        "q": "Fel van újítva?",
+        "a": "Igen, nemrég újították fel."
+      }
+    ],
+    "ro": [
+      {
+        "q": "În ce localitate se află castelul Nádasdy?",
+        "a": "În Nádasdladány."
+      },
+      {
+        "q": "Care este stilul arhitectural?",
+        "a": "Stil Tudor (neogotic)."
+      },
+      {
+        "q": "De ce este faimos?",
+        "a": "Datorită arhitecturii sale romantice."
+      },
+      {
+        "q": "Este renovat?",
+        "a": "Da, a fost renovat recent."
+      }
+    ],
+    "en": [
+      {
+        "q": "In which settlement is the Nádasdy Mansion located?",
+        "a": "In Nádasdladány."
+      },
+      {
+        "q": "What is the architectural style?",
+        "a": "Tudor style (Neo-Gothic)."
+      },
+      {
+        "q": "Why is it famous?",
+        "a": "Because of its romantic architecture."
+      },
+      {
+        "q": "Is it renovated?",
+        "a": "Yes, it was recently renovated."
+      }
+    ]
+  },
+  "deg-kastely": {
+    "de": [
+      {
+        "q": "Wer baute das Schloss in Dég?",
+        "a": "Die Familie Festetics."
+      },
+      {
+        "q": "Was ist die Besonderheit des Parks?",
+        "a": "Einer der größten englischen Gärten Ungarns."
+      },
+      {
+        "q": "Was ist das Holländerhaus?",
+        "a": "Ein Backsteinbau auf einer Insel im See."
+      },
+      {
+        "q": "Welche Geheimgesellschaft ist mit dem Schloss verbunden?",
+        "a": "Die Freimaurer."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Ki építette a dégi kastélyt?",
+        "a": "A Festetics család."
+      },
+      {
+        "q": "Mi a park különlegessége?",
+        "a": "Magyarország egyik legnagyobb angolkertje."
+      },
+      {
+        "q": "Mi az a Hollandi-ház?",
+        "a": "Téglaépület a tó közepén lévő szigeten."
+      },
+      {
+        "q": "Melyik titkos társaság kötődik a kastélyhoz?",
+        "a": "A szabadkőművesek."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cine a construit castelul din Dég?",
+        "a": "Familia Festetics."
+      },
+      {
+        "q": "Care este particularitatea parcului?",
+        "a": "Una dintre cele mai mari grădini englezeşti din Ungaria."
+      },
+      {
+        "q": "Ce este Casa Olandeză?",
+        "a": "O clădire de cărămidă pe o insulă din mijlocul lacului."
+      },
+      {
+        "q": "Ce societate secretă este legată de castel?",
+        "a": "Francmasonii."
+      }
+    ],
+    "en": [
+      {
+        "q": "Who built the palace in Dég?",
+        "a": "The Festetics family."
+      },
+      {
+        "q": "What is the specialty of the park?",
+        "a": "One of the largest English gardens in Hungary."
+      },
+      {
+        "q": "What is the Dutch House?",
+        "a": "A brick building on an island in the middle of the lake."
+      },
+      {
+        "q": "Which secret society is connected to the palace?",
+        "a": "The Freemasons."
+      }
+    ]
+  },
+  "tiszadob-kastely": {
+    "de": [
+      {
+        "q": "Wofür ist das Andrássy-Schloss bekannt?",
+        "a": "Wegen seines märchenhaften Aussehens."
+      },
+      {
+        "q": "Wie viele Türme und Fenster hat es?",
+        "a": "Es symbolisiert die Jahreszeiten, Monate und Wochen."
+      },
+      {
+        "q": "Was ist im Garten besonders?",
+        "a": "Ein Buchsbaum-Labyrinth."
+      },
+      {
+        "q": "Wo liegt das Schloss?",
+        "a": "In Tiszadob, an der Theiß."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Miről ismert az Andrássy-kastély?",
+        "a": "Mesebeli külseje miatt."
+      },
+      {
+        "q": "Hány tornya és ablaka van?",
+        "a": "Az évszakokat, hónapokat és heteket jelképezik."
+      },
+      {
+        "q": "Mi különleges a kertben?",
+        "a": "Puszpáng-labirintus."
+      },
+      {
+        "q": "Hol található a kastély?",
+        "a": "Tiszadobon, a Tisza mellett."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Pentru ce este cunoscut castelul Andrássy?",
+        "a": "Datorită aspectului său de poveste."
+      },
+      {
+        "q": "Câte turnuri şi ferestre are?",
+        "a": "Simbolizează anotimpurile, lunile şi săptămânile."
+      },
+      {
+        "q": "Ce este special în grădină?",
+        "a": "Un labirint de cimişir."
+      },
+      {
+        "q": "Unde se află castelul?",
+        "a": "În Tiszadob, lângă Tisa."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Andrássy Castle known for?",
+        "a": "Because of its fairytale appearance."
+      },
+      {
+        "q": "How many towers and windows does it have?",
+        "a": "They symbolize the seasons, months, and weeks."
+      },
+      {
+        "q": "What is special in the garden?",
+        "a": "A boxwood labyrinth."
+      },
+      {
+        "q": "Where is the castle located?",
+        "a": "In Tiszadob, by the Tisza."
+      }
+    ]
+  },
+  "fuzerradvany-kastely": {
+    "de": [
+      {
+        "q": "Welcher Familie gehörte das Schloss Károlyi?",
+        "a": "Károlyi."
+      },
+      {
+        "q": "Was ist der Stil?",
+        "a": "Eklektisch."
+      },
+      {
+        "q": "Was ist das Besondere an den Platanen?",
+        "a": "Sie sind riesig und sehr alt."
+      },
+      {
+        "q": "Wo liegt der Ort?",
+        "a": "Im Zemplén-Gebirge."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Melyik családé volt a Károlyi-kastély?",
+        "a": "Károlyi."
+      },
+      {
+        "q": "Milyen stílusú?",
+        "a": "Eklektikus."
+      },
+      {
+        "q": "Mi a különleges a platánfákban?",
+        "a": "Hatalmasak és nagyon öregek."
+      },
+      {
+        "q": "Hol fekszik a település?",
+        "a": "A Zempléni-hegységben."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cărei familii i-a aparţinut castelul Károlyi?",
+        "a": "Károlyi."
+      },
+      {
+        "q": "În ce stil este?",
+        "a": "Ecletic."
+      },
+      {
+        "q": "Ce este special la platani?",
+        "a": "Sunt uriaşi şi foarte bătrâni."
+      },
+      {
+        "q": "Unde se află localitatea?",
+        "a": "În munţii Zemplén."
+      }
+    ],
+    "en": [
+      {
+        "q": "Which family owned the Károlyi Palace?",
+        "a": "Károlyi."
+      },
+      {
+        "q": "What is the style?",
+        "a": "Eclectic."
+      },
+      {
+        "q": "What is special about the plane trees?",
+        "a": "They are huge and very old."
+      },
+      {
+        "q": "Where is the settlement located?",
+        "a": "In the Zemplén Mountains."
+      }
+    ]
+  },
+  "szabadkigyos-kastely": {
+    "de": [
+      {
+        "q": "Wer entwarf das Wenckheim-Schloss?",
+        "a": "Miklós Ybl."
+      },
+      {
+        "q": "Was ist das Motto des Baus?",
+        "a": "Nichts Unmögliches."
+      },
+      {
+        "q": "Wie viele Fenster hat das Schloss?",
+        "a": "365 (eines für jeden Tag)."
+      },
+      {
+        "q": "Wo liegt es?",
+        "a": "In der Nähe von Békéscsaba."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Ki tervezte a Wenckheim-kastélyt?",
+        "a": "Ybl Miklós."
+      },
+      {
+        "q": "Mi volt az építés mottója?",
+        "a": "Semmi sem lehetetlen."
+      },
+      {
+        "q": "Hány ablaka van a kastélynak?",
+        "a": "365 (minden napra egy)."
+      },
+      {
+        "q": "Hol található?",
+        "a": "Békéscsaba közelében."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cine a proiectat castelul Wenckheim?",
+        "a": "Miklós Ybl."
+      },
+      {
+        "q": "Care a fost motoul construcţiei?",
+        "a": "Nimic imposibil."
+      },
+      {
+        "q": "Câte ferestre are castelul?",
+        "a": "365 (una pentru fiecare zi)."
+      },
+      {
+        "q": "Unde se află?",
+        "a": "Lângă Békéscsaba."
+      }
+    ],
+    "en": [
+      {
+        "q": "Who designed the Wenckheim Palace?",
+        "a": "Miklós Ybl."
+      },
+      {
+        "q": "What was the motto of the construction?",
+        "a": "Nothing impossible."
+      },
+      {
+        "q": "How many windows does the palace have?",
+        "a": "365 (one for each day)."
+      },
+      {
+        "q": "Where is it located?",
+        "a": "Near Békéscsaba."
+      }
+    ]
+  },
+  "zsambek-romtemplom": {
+    "de": [
+      {
+        "q": "Was ist die Kirchenruine von Zsámbék?",
+        "a": "Eine spätromanisch-gotische Basilika."
+      },
+      {
+        "q": "Warum wurde sie zur Ruine?",
+        "a": "Durch ein Erdbeben im Jahr 1763."
+      },
+      {
+        "q": "Wem war sie geweiht?",
+        "a": "Johannes dem Täufer."
+      },
+      {
+        "q": "Kann man die Ruine besuchen?",
+        "a": "Ja, sie ist ein beliebtes Ausflugsziel."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Zsámbéki romtemplom?",
+        "a": "Késő román-gótikus bazilika."
+      },
+      {
+        "q": "Miért vált rommá?",
+        "a": "Az 1763-as földrengés miatt."
+      },
+      {
+        "q": "Kinek szentelték?",
+        "a": "Keresztelő Szent Jánosnak."
+      },
+      {
+        "q": "Látogatható a rom?",
+        "a": "Igen, népszerű kirándulóhely."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este biserica ruină din Zsámbék?",
+        "a": "O bazilică în stil romanic-gotic târziu."
+      },
+      {
+        "q": "De ce a devenit o ruină?",
+        "a": "Din cauza cutremurului din 1763."
+      },
+      {
+        "q": "Cui i-a fost dedicată?",
+        "a": "Sfântului Ioan Botezătorul."
+      },
+      {
+        "q": "Poate fi vizitată ruina?",
+        "a": "Da, este un loc de excursie popular."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Zsámbék Church Ruins?",
+        "a": "A late Romanesque-Gothic basilica."
+      },
+      {
+        "q": "Why did it become a ruin?",
+        "a": "Due to the earthquake of 1763."
+      },
+      {
+        "q": "To whom was it dedicated?",
+        "a": "To Saint John the Baptist."
+      },
+      {
+        "q": "Can the ruin be visited?",
+        "a": "Yes, it is a popular excursion site."
+      }
+    ]
+  },
+  "szentendre-varazshegy": {
+    "de": [
+      {
+        "q": "Was ist das Varázshegy in Szentendre?",
+        "a": "Ein Erlebniszentrum für Kinder."
+      },
+      {
+        "q": "Was kann man dort machen?",
+        "a": "Spielen und interaktive Exponate sehen."
+      },
+      {
+        "q": "Ist es für Familien geeignet?",
+        "a": "Ja, absolut."
+      },
+      {
+        "q": "Wo liegt es?",
+        "a": "Im Zentrum von Szentendre."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Varázshegy Szentendrén?",
+        "a": "Gyerekeknek szóló élményközpont."
+      },
+      {
+        "q": "Mit lehet ott csinálni?",
+        "a": "Játszani és interaktív kiállításokat nézni."
+      },
+      {
+        "q": "Családoknak ajánlott?",
+        "a": "Igen, abszolút."
+      },
+      {
+        "q": "Hol található?",
+        "a": "Szentendre központjában."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este Varázshegy în Szentendre?",
+        "a": "Un centru de experienţe pentru copii."
+      },
+      {
+        "q": "Ce se poate face acolo?",
+        "a": "Joacă şi vizionarea expoziţiilor interactive."
+      },
+      {
+        "q": "Este recomandat familiilor?",
+        "a": "Da, absolut."
+      },
+      {
+        "q": "Unde se află?",
+        "a": "În centrul oraşului Szentendre."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Varázshegy in Szentendre?",
+        "a": "An experience center for children."
+      },
+      {
+        "q": "What can you do there?",
+        "a": "Play and see interactive exhibits."
+      },
+      {
+        "q": "Is it recommended for families?",
+        "a": "Yes, absolutely."
+      },
+      {
+        "q": "Where is it located?",
+        "a": "In the center of Szentendre."
+      }
+    ]
+  },
+  "balatonalmadi-strand": {
+    "de": [
+      {
+        "q": "Wie viele Strände hat Balatonalmádi?",
+        "a": "Mehrere, der größte ist der Wesselényi-Strand."
+      },
+      {
+        "q": "Ist der Strand kinderfreundlich?",
+        "a": "Ja, es gibt flaches Wasser und Spielplätze."
+      },
+      {
+        "q": "Gibt es dort Sportmöglichkeiten?",
+        "a": "Ja, Volleyball und Wassersport."
+      },
+      {
+        "q": "Wie ist die Parkplatzsituation?",
+        "a": "Es gibt große kostenlose Parkplätze."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hány strandja van Balatonalmádinak?",
+        "a": "Több is, a legnagyobb a Wesselényi strand."
+      },
+      {
+        "q": "Gyerekbarát a strand?",
+        "a": "Igen, sekély a víz és vannak játszóterek."
+      },
+      {
+        "q": "Vannak sportolási lehetőségek?",
+        "a": "Igen, röplabda és vízi sportok."
+      },
+      {
+        "q": "Milyen a parkolási lehetőség?",
+        "a": "Nagy ingyenes parkolók állnak rendelkezésre."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Câte plaje are Balatonalmádi?",
+        "a": "Mai multe, cea mai mare este plaja Wesselényi."
+      },
+      {
+        "q": "Este plaja potrivită pentru copii?",
+        "a": "Da, apa este mică şi există locuri de joacă."
+      },
+      {
+        "q": "Există posibilităţi de sport?",
+        "a": "Da, volei şi sporturi nautice."
+      },
+      {
+        "q": "Cum este posibilitatea de parcare?",
+        "a": "Sunt disponibile parcări mari gratuite."
+      }
+    ],
+    "en": [
+      {
+        "q": "How many beaches does Balatonalmádi have?",
+        "a": "Several, the largest is the Wesselényi Beach."
+      },
+      {
+        "q": "Is the beach child-friendly?",
+        "a": "Yes, the water is shallow and there are playgrounds."
+      },
+      {
+        "q": "Are there sports facilities?",
+        "a": "Yes, volleyball and water sports."
+      },
+      {
+        "q": "How is the parking situation?",
+        "a": "Large free parking lots are available."
+      }
+    ]
+  },
+  "keszthely-strand": {
+    "de": [
+      {
+        "q": "Welches ist der bekannteste Strand in Keszthely?",
+        "a": "Der Stadtstrand (Városi strand)."
+      },
+      {
+        "q": "Gibt es dort ein Becken in Form des Balatons?",
+        "a": "Ja, ein beheizbares Erlebnisbecken."
+      },
+      {
+        "q": "Gibt es dort Schatten?",
+        "a": "Ja, es gibt viele alte Bäume."
+      },
+      {
+        "q": "Ist der Strand im Winter offen?",
+        "a": "Nein, nur in der Sommersaison."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Melyik Keszthely legismertebb strandja?",
+        "a": "A Városi strand."
+      },
+      {
+        "q": "Van ott Balaton alakú medence?",
+        "a": "Igen, egy fűthető élménymedence."
+      },
+      {
+        "q": "Van árnyék?",
+        "a": "Igen, sok az idős fa."
+      },
+      {
+        "q": "Nyitva van a strand télen?",
+        "a": "Nem, csak a nyári szezonban."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Care este cea mai cunoscută plajă din Keszthely?",
+        "a": "Plaja oraşului (Városi strand)."
+      },
+      {
+        "q": "Există acolo o piscină în formă de Balaton?",
+        "a": "Da, o piscină de experienţă încălzită."
+      },
+      {
+        "q": "Există umbră?",
+        "a": "Da, sunt mulţi copaci bătrâni."
+      },
+      {
+        "q": "Este deschisă plaja iarna?",
+        "a": "Nu, doar în sezonul de vară."
+      }
+    ],
+    "en": [
+      {
+        "q": "Which is Keszthely's best-known beach?",
+        "a": "The City Beach (Városi strand)."
+      },
+      {
+        "q": "Is there a Balaton-shaped pool there?",
+        "a": "Yes, a heated adventure pool."
+      },
+      {
+        "q": "Is there shade?",
+        "a": "Yes, there are many old trees."
+      },
+      {
+        "q": "Is the beach open in winter?",
+        "a": "No, only in the summer season."
+      }
+    ]
+  },
+  "siofok-strand": {
+    "de": [
+      {
+        "q": "Wie heißt der Hauptstrand von Siófok?",
+        "a": "Nagystrand."
+      },
+      {
+        "q": "Was ist das Plázs?",
+        "a": "Ein Party- und Konzertbereich am Strand."
+      },
+      {
+        "q": "Ist der Eintritt kostenlos?",
+        "a": "Tagsüber ist er kostenpflichtig."
+      },
+      {
+        "q": "Gibt es dort ein Riesenrad?",
+        "a": "Ja, im Sommer steht dort das Siófok Eye."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hogy hívják Siófok fő strandját?",
+        "a": "Nagystrand."
+      },
+      {
+        "q": "Mi az a Plázs?",
+        "a": "Parti- és koncerthelyszín a strandon."
+      },
+      {
+        "q": "Ingyenes a belépés?",
+        "a": "Napközben fizetős."
+      },
+      {
+        "q": "Van ott óriáskerék?",
+        "a": "Igen, nyáron ott üzemel a Siófok Eye."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cum se numeşte plaja principală din Siófok?",
+        "a": "Nagystrand."
+      },
+      {
+        "q": "Ce este Plázs?",
+        "a": "Locaţie de petreceri şi concerte pe plajă."
+      },
+      {
+        "q": "Intrarea este gratuită?",
+        "a": "Cu plată în timpul zilei."
+      },
+      {
+        "q": "Există o roată panoramică acolo?",
+        "a": "Da, vara funcţionează acolo Siófok Eye."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the main beach of Siófok called?",
+        "a": "Nagystrand."
+      },
+      {
+        "q": "What is the Plázs?",
+        "a": "A party and concert venue on the beach."
+      },
+      {
+        "q": "Is entry free?",
+        "a": "It is paid during the day."
+      },
+      {
+        "q": "Is there a Ferris wheel there?",
+        "a": "Yes, the Siófok Eye operates there in summer."
+      }
+    ]
+  },
+  "gyor-gyerekvonat": {
+    "de": [
+      {
+        "q": "Gibt es in Győr eine Kindereisenbahn?",
+        "a": "Ja, sie fährt im Püspökerdő."
+      },
+      {
+        "q": "Wer bedient die Bahn?",
+        "a": "Erwachsene, aber sie ist für Kinder gedacht."
+      },
+      {
+        "q": "Wann fährt die Bahn?",
+        "a": "Meistens an Wochenenden im Sommer."
+      },
+      {
+        "q": "Wie lang ist die Strecke?",
+        "a": "Es ist eine kurze Rundstrecke."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Van Győrben gyerekvonat?",
+        "a": "Igen, a Püspökerdőben közlekedik."
+      },
+      {
+        "q": "Kik kezelik a vasutat?",
+        "a": "Felnőttek, de gyerekeknek szól."
+      },
+      {
+        "q": "Mikor jár a vonat?",
+        "a": "Főleg hétvégenként a nyári szezonban."
+      },
+      {
+        "q": "Milyen hosszú a pálya?",
+        "a": "Ez egy rövid körpálya."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Există un trenuleţ al copiilor în Győr?",
+        "a": "Da, circulă în Püspökerdő."
+      },
+      {
+        "q": "Cine operează calea ferată?",
+        "a": "Adulţi, dar este destinată copiilor."
+      },
+      {
+        "q": "Când circulă trenul?",
+        "a": "Mai ales în weekend în sezonul de vară."
+      },
+      {
+        "q": "Cât de lung este traseul?",
+        "a": "Este un traseu scurt circular."
+      }
+    ],
+    "en": [
+      {
+        "q": "Is there a children's train in Győr?",
+        "a": "Yes, it operates in the Püspökerdő."
+      },
+      {
+        "q": "Who operates the railway?",
+        "a": "Adults, but it's for children."
+      },
+      {
+        "q": "When does the train run?",
+        "a": "Mostly on weekends during the summer season."
+      },
+      {
+        "q": "How long is the track?",
+        "a": "It's a short circular track."
+      }
+    ]
+  },
+  "budakeszi-vadaspark": {
+    "de": [
+      {
+        "q": "Welche Tiere sieht man im Wildpark Budakeszi?",
+        "a": "In Europa heimische Wildtiere."
+      },
+      {
+        "q": "Gibt es dort auch einen Streichelzoo?",
+        "a": "Ja, für Kinder sehr beliebt."
+      },
+      {
+        "q": "Was ist der Abenteuerpark?",
+        "a": "Ein Klettergarten im Wald."
+      },
+      {
+        "q": "Wie kommt man von Budapest dorthin?",
+        "a": "Mit dem Bus oder Auto."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Milyen állatokat látni a Budakeszi Vadasparkban?",
+        "a": "Európában őshonos vadállatokat."
+      },
+      {
+        "q": "Van ott állatsimogató is?",
+        "a": "Igen, a gyerekek körében nagyon népszerű."
+      },
+      {
+        "q": "Mi az a kalandpark?",
+        "a": "Egy erdei kötélpályás kalandpark."
+      },
+      {
+        "q": "Hogyan lehet Budapestről oda jutni?",
+        "a": "Busszal vagy autóval."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce animale pot fi văzute în parcul Budakeszi?",
+        "a": "Animale sălbatice native din Europa."
+      },
+      {
+        "q": "Există şi un sector cu animale de mângâiat?",
+        "a": "Da, foarte popular printre copii."
+      },
+      {
+        "q": "Ce este parcul de aventură?",
+        "a": "Un parc de aventură cu frânghii în pădure."
+      },
+      {
+        "q": "Cum se poate ajunge acolo din Budapesta?",
+        "a": "Cu autobuzul sau maşina."
+      }
+    ],
+    "en": [
+      {
+        "q": "What animals can be seen in the Budakeszi Wildlife Park?",
+        "a": "Wildlife native to Europe."
+      },
+      {
+        "q": "Is there a petting zoo too?",
+        "a": "Yes, very popular among children."
+      },
+      {
+        "q": "What is the adventure park?",
+        "a": "A forest rope adventure park."
+      },
+      {
+        "q": "How can you get there from Budapest?",
+        "a": "By bus or car."
+      }
+    ]
+  },
+  "veszpremi-allatkert": {
+    "de": [
+      {
+        "q": "Wie heißt der Zoo in Veszprém offiziell?",
+        "a": "Kittenberger Kálmán Zoo."
+      },
+      {
+        "q": "Was ist der Dino-Park?",
+        "a": "Eine Ausstellung mit lebensgroßen Dinos."
+      },
+      {
+        "q": "Wofür ist der Zoo bekannt?",
+        "a": "Wegen seiner schönen Lage in zwei Tälern."
+      },
+      {
+        "q": "Gibt es dort Elefanten?",
+        "a": "Ja, es gibt ein großes Elefantenhaus."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Hogy hívják hivatalosan a Veszprémi Állatkertet?",
+        "a": "Kittenberger Kálmán Növény- és Vadaspark."
+      },
+      {
+        "q": "Mi az a dínó park?",
+        "a": "Élethű dínókat bemutató kiállítás."
+      },
+      {
+        "q": "Miről ismert az állatkert?",
+        "a": "Szép fekvéséről két völgyben."
+      },
+      {
+        "q": "Vannak ott elefántok?",
+        "a": "Igen, hatalmas elefántházuk van."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Cum se numeşte oficial grădina zoologică din Veszprém?",
+        "a": "Grădina Zoologică Kittenberger Kálmán."
+      },
+      {
+        "q": "Ce este parcul de dinozauri?",
+        "a": "O expoziţie cu dinozauri în mărime naturală."
+      },
+      {
+        "q": "Pentru ce este cunoscută grădina zoologică?",
+        "a": "Pentru locaţia sa frumoasă în două văi."
+      },
+      {
+        "q": "Există elefanţi acolo?",
+        "a": "Da, au o casă de elefanţi uriaşă."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the official name of the Veszprém Zoo?",
+        "a": "Kittenberger Kálmán Zoo."
+      },
+      {
+        "q": "What is the Dino Park?",
+        "a": "An exhibition featuring life-sized dinosaurs."
+      },
+      {
+        "q": "What is the zoo known for?",
+        "a": "For its beautiful location in two valleys."
+      },
+      {
+        "q": "Are there elephants there?",
+        "a": "Yes, they have a huge elephant house."
+      }
+    ]
+  },
+  "szegedi-vadaspark": {
+    "de": [
+      {
+        "q": "Was ist das Besondere am Wildpark Szeged?",
+        "a": "Er zeigt seltene und bedrohte Arten."
+      },
+      {
+        "q": "Wie groß ist der Park?",
+        "a": "Etwa 45 Hektar."
+      },
+      {
+        "q": "Welcher Kontinent ist stark vertreten?",
+        "a": "Südamerika."
+      },
+      {
+        "q": "Kann man dort Tiere füttern?",
+        "a": "Nur mit speziellem Zoofutter bei Vorführungen."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a különlegessége a Szegedi Vadasparknak?",
+        "a": "Ritka és veszélyeztetett fajokat mutat be."
+      },
+      {
+        "q": "Mekkora a park?",
+        "a": "Körülbelül 45 hektár."
+      },
+      {
+        "q": "Melyik kontinens képviselteti magát erősen?",
+        "a": "Dél-Amerika."
+      },
+      {
+        "q": "Szabad ott állatokat etetni?",
+        "a": "Csak bemutatókon speciális eledellel."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este special la grădina zoologică din Seghedin?",
+        "a": "Prezintă specii rare şi periclitate."
+      },
+      {
+        "q": "Cât de mare este parcul?",
+        "a": "Aproximativ 45 de hectare."
+      },
+      {
+        "q": "Ce continent este puternic reprezentat?",
+        "a": "America de Sud."
+      },
+      {
+        "q": "Este permisă hrănirea animalelor?",
+        "a": "Doar la prezentări cu hrană specială."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is special about the Szeged Wildlife Park?",
+        "a": "It presents rare and endangered species."
+      },
+      {
+        "q": "How large is the park?",
+        "a": "About 45 hectares."
+      },
+      {
+        "q": "Which continent is strongly represented?",
+        "a": "South America."
+      },
+      {
+        "q": "Is it allowed to feed animals there?",
+        "a": "Only at demonstrations with special zoo food."
+      }
+    ]
+  },
+  "tihany-levendulamezo": {
+    "de": [
+      {
+        "q": "Wann blüht der Lavendel in Tihany?",
+        "a": "Im Juni und Juli."
+      },
+      {
+        "q": "Was ist das Lavendel-Festival?",
+        "a": "Ein jährliches Event zur Erntezeit."
+      },
+      {
+        "q": "Kann man selbst Lavendel pflücken?",
+        "a": "Ja, bei 'Pflück es selbst'-Aktionen."
+      },
+      {
+        "q": "Was wird aus dem Lavendel gemacht?",
+        "a": "Öl, Seife, Tee und Sirup."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mikor virágzik a tihanyi levendula?",
+        "a": "Júniusban és júliusban."
+      },
+      {
+        "q": "Mi az a Levendula Fesztivál?",
+        "a": "Évente megrendezett esemény aratáskor."
+      },
+      {
+        "q": "Szabad saját kezűleg levendulát szedni?",
+        "a": "Igen, a 'Szedd magad' akciók keretében."
+      },
+      {
+        "q": "Mi készül a levendulából?",
+        "a": "Olaj, szappan, tea és szörp."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Când înfloreşte lavanda în Tihany?",
+        "a": "În iunie şi iulie."
+      },
+      {
+        "q": "Ce este Festivalul Lavandei?",
+        "a": "Un eveniment anual la vremea secerişului."
+      },
+      {
+        "q": "Se poate culege lavandă personal?",
+        "a": "Da, în cadrul acţiunilor 'Culege singur'."
+      },
+      {
+        "q": "Ce se face din lavandă?",
+        "a": "Ulei, săpun, ceai şi sirop."
+      }
+    ],
+    "en": [
+      {
+        "q": "When does the lavender bloom in Tihany?",
+        "a": "In June and July."
+      },
+      {
+        "q": "What is the Lavender Festival?",
+        "a": "An annual event at harvest time."
+      },
+      {
+        "q": "Can you pick lavender yourself?",
+        "a": "Yes, during 'Pick it yourself' actions."
+      },
+      {
+        "q": "What is made from the lavender?",
+        "a": "Oil, soap, tea, and syrup."
+      }
+    ]
+  },
+  "megyer-hegyi-tengerszem": {
+    "de": [
+      {
+        "q": "Was ist der Megyer-hegyi tengerszem?",
+        "a": "Ein gefluteter alter Mühlsteinbruch."
+      },
+      {
+        "q": "Wo befindet er sich?",
+        "a": "Bei Sárospatak."
+      },
+      {
+        "q": "Kann man dort baden?",
+        "a": "Nein, Baden ist verboten."
+      },
+      {
+        "q": "Wie kommt man dorthin?",
+        "a": "Über Wanderwege von Sárospatak aus."
+      }
+    ],
+    "hu": [
+      {
+        "q": "Mi a Megyer-hegyi tengerszem?",
+        "a": "Egy vízzel telt régi malomkőbánya."
+      },
+      {
+        "q": "Hol található?",
+        "a": "Sárospatak közelében."
+      },
+      {
+        "q": "Szabad ott fürdeni?",
+        "a": "Nem, fürdeni tilos."
+      },
+      {
+        "q": "Hogyan lehet oda jutni?",
+        "a": "Gyalogos túraúton Sárospataktól."
+      }
+    ],
+    "ro": [
+      {
+        "q": "Ce este ochiul de mare de pe muntele Megyer?",
+        "a": "O veche carieră de piatră de moară umplută cu apă."
+      },
+      {
+        "q": "Unde se află?",
+        "a": "Lângă Sárospatak."
+      },
+      {
+        "q": "Este permis scăldatul acolo?",
+        "a": "Nu, scăldatul este interzis."
+      },
+      {
+        "q": "Cum se poate ajunge acolo?",
+        "a": "Pe trasee de drumeţie dinspre Sárospatak."
+      }
+    ],
+    "en": [
+      {
+        "q": "What is the Megyer-hegyi Tarn?",
+        "a": "A flooded old millstone quarry."
+      },
+      {
+        "q": "Where is it located?",
+        "a": "Near Sárospatak."
+      },
+      {
+        "q": "Is bathing allowed there?",
+        "a": "No, bathing is prohibited."
+      },
+      {
+        "q": "How can you get there?",
+        "a": "Via hiking trails from Sárospatak."
+      }
+    ]
+  }
+}

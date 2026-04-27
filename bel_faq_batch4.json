@@ -1,0 +1,602 @@
+{
+  "agri-hageland-vineyards": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Hageland region known for in agriculture?",
+          "de": "Wofür ist die Region Hageland in der Landwirtschaft bekannt?",
+          "hu": "Miről ismert a Hageland régió a mezőgazdaságban?",
+          "ro": "Pentru ce este cunoscută regiunea Hageland în agricultură?"
+        },
+        "answer": {
+          "en": "The Hageland is known for its vineyards, being one of Belgium's premier wine-producing regions with its own protected designation of origin (BOB).",
+          "de": "Das Hageland ist bekannt für seine Weinberge und ist eine der wichtigsten Weinbauregionen Belgiens mit einer eigenen geschützten Ursprungsbezeichnung (BOB).",
+          "hu": "Hageland a szőlőültetvényeiről ismert, Belgium egyik elsőszámú bortermelő vidéke, saját oltalom alatt álló eredetmegjelöléssel (BOB).",
+          "ro": "Hageland este cunoscut pentru podgoriile sale, fiind una dintre principalele regiuni viticole din Belgia, cu propria denumire de origine protejată (BOB)."
+        }
+      },
+      {
+        "question": {
+          "en": "What types of wine are produced in Hageland?",
+          "de": "Welche Weinsorten werden im Hageland produziert?",
+          "hu": "Milyen típusú borokat termelnek Hagelandban?",
+          "ro": "Ce tipuri de vin sunt produse în Hageland?"
+        },
+        "answer": {
+          "en": "Hageland produces mainly white wines from grape varieties like Müller-Thurgau, Chardonnay, and Pinot Gris.",
+          "de": "Im Hageland werden hauptsächlich Weißweine aus Rebsorten wie Müller-Thurgau, Chardonnay und Grauburgunder (Pinot Gris) produziert.",
+          "hu": "Hagelandban főleg fehérborokat termelnek olyan szőlőfajtákból, mint a Müller-Thurgau, a Chardonnay és a Pinot Gris.",
+          "ro": "Hageland produce în principal vinuri albe din soiuri de struguri precum Müller-Thurgau, Chardonnay și Pinot Gris."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you follow a wine route in Hageland?",
+          "de": "Kann man im Hageland einer Weinstraße folgen?",
+          "hu": "Van borút Hagelandban?",
+          "ro": "Se poate parcurge un traseu al vinului în Hageland?"
+        },
+        "answer": {
+          "en": "Yes, there are several signposted cycling and walking routes that take you through the picturesque vineyards and past local wineries.",
+          "de": "Ja, es gibt mehrere ausgeschilderte Rad- und Wanderwege, die durch die malerischen Weinberge und an lokalen Weingütern vorbeiführen.",
+          "hu": "Igen, több kijelölt kerékpáros és gyalogos útvonal is létezik, amelyek festői szőlőültetvényeken és helyi borászatok mellett vezetnek el.",
+          "ro": "Da, există mai multe trasee de ciclism și drumeție semnalizate care vă poartă prin podgoriile pitorești și pe lângă cramele locale."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Hageland located?",
+          "de": "Wo liegt das Hageland?",
+          "hu": "Hol található Hageland?",
+          "ro": "Unde se află Hageland?"
+        },
+        "answer": {
+          "en": "Hageland is located in the east of the province of Flemish Brabant, between the cities of Leuven, Aarschot, Diest, and Tienen.",
+          "de": "Das Hageland liegt im Osten der Provinz Flämisch-Brabant, zwischen den Städten Löwen, Aarschot, Diest und Tienen.",
+          "hu": "Hageland Flamand-Brabant tartomány keleti részén található, Leuven, Aarschot, Diest és Tienen városok között.",
+          "ro": "Hageland este situat în estul provinciei Brabantul Flamand, între orașele Leuven, Aarschot, Diest și Tienen."
+        }
+      }
+    ]
+  },
+  "agri-pajottenland-breweries": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is unique about the breweries in Pajottenland?",
+          "de": "Was ist das Besondere an den Brauereien im Pajottenland?",
+          "hu": "Mi az egyedülálló a Pajottenland-i sörfőzdékben?",
+          "ro": "Ce este unic la berăriile din Pajottenland?"
+        },
+        "answer": {
+          "en": "Pajottenland is the only region in the world where Lambic beer is produced using spontaneous fermentation from wild yeasts in the air.",
+          "de": "Das Pajottenland ist die einzige Region der Welt, in der Lambic-Bier durch Spontanvergärung mit wilden Hefen aus der Luft hergestellt wird.",
+          "hu": "Pajottenland a világ egyetlen régiója, ahol a Lambic sört spontán erjesztéssel, a levegőben lévő vadélesztők segítségével készítik.",
+          "ro": "Pajottenland este singura regiune din lume unde berea Lambic este produsă prin fermentație spontană din drojdii sălbatice din aer."
+        }
+      },
+      {
+        "question": {
+          "en": "What are Geuze and Kriek beers?",
+          "de": "Was sind Geuze- und Kriek-Biere?",
+          "hu": "Mik azok a Geuze és Kriek sörök?",
+          "ro": "Ce sunt berile Geuze și Kriek?"
+        },
+        "answer": {
+          "en": "Geuze is a blend of old and young Lambic, while Kriek is Lambic beer macerated with sour cherries.",
+          "de": "Geuze ist ein Verschnitt aus altem und jungem Lambic, während Kriek ein mit Sauerkirschen mazeriertes Lambic-Bier ist.",
+          "hu": "A Geuze öreg és fiatal Lambic sörök keveréke, míg a Kriek meggyel érlelt Lambic sör.",
+          "ro": "Geuze este un amestec de Lambic vechi și tânăr, în timp ce Kriek este bere Lambic macerată cu cireșe amare."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the breweries in Pajottenland?",
+          "de": "Kann man die Brauereien im Pajottenland besuchen?",
+          "hu": "Látogathatók a Pajottenland-i sörfőzdék?",
+          "ro": "Se pot vizita berăriile din Pajottenland?"
+        },
+        "answer": {
+          "en": "Yes, many traditional breweries and 'lambic-o-theques' offer tours and tastings of these unique beers.",
+          "de": "Ja, viele traditionelle Brauereien und 'Lambic-Otheken' bieten Führungen und Verkostungen dieser einzigartigen Biere an.",
+          "hu": "Igen, számos hagyományos sörfőzde és 'lambic-o-téka' kínál túrákat és kóstolókat ezekből az egyedülálló sörökből.",
+          "ro": "Da, multe berării tradiționale și „lambic-o-teci” oferă tururi și degustări ale acestor beri unice."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Pajottenland located?",
+          "de": "Wo liegt das Pajottenland?",
+          "hu": "Hol található Pajottenland?",
+          "ro": "Unde se află Pajottenland?"
+        },
+        "answer": {
+          "en": "Pajottenland is a fertile, hilly region located southwest of Brussels, in the province of Flemish Brabant.",
+          "de": "Das Pajottenland ist eine fruchtbare, hügelige Region südwestlich von Brüssel in der Provinz Flämisch-Brabant.",
+          "hu": "Pajottenland egy termékeny, dombos vidék Brüsszeltől délnyugatra, Flamand-Brabant tartományban.",
+          "ro": "Pajottenland este o regiune fertilă și deluroasă situată la sud-vest de Bruxelles, în provincia Brabantul Flamand."
+        }
+      }
+    ]
+  },
+  "ind-port-of-ghent": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Port of Ghent?",
+          "de": "Was ist der Hafen von Gent?",
+          "hu": "Mi az a Genti kikötő?",
+          "ro": "Ce este Portul Gent?"
+        },
+        "answer": {
+          "en": "The Port of Ghent is a major seaport, now part of the cross-border 'North Sea Port' entity, and is the third largest port in Belgium.",
+          "de": "Der Hafen von Gent ist ein bedeutender Seehafen, der heute Teil des grenzüberschreitenden 'North Sea Port' ist und der drittgrößte Hafen Belgiens ist.",
+          "hu": "A genti kikötő jelentős tengeri kikötő, amely ma már a határokon átnyúló 'North Sea Port' része, és Belgium harmadik legnagyobb kikötője.",
+          "ro": "Portul Gent este un port maritim major, acum parte a entității transfrontaliere „North Sea Port”, și este al treilea port ca mărime din Belgia."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the Port of Ghent an inland or coastal port?",
+          "de": "Ist der Hafen von Gent ein Binnen- oder ein Küstenhafen?",
+          "hu": "Belvízi vagy tengerparti kikötő a genti kikötő?",
+          "ro": "Portul Gent este un port interior sau de coastă?"
+        },
+        "answer": {
+          "en": "It is an inland port, connected to the North Sea via the Ghent-Terneuzen Canal.",
+          "de": "Es ist ein Binnenhafen, der über den Kanal Gent-Terneuzen mit der Nordsee verbunden ist.",
+          "hu": "Ez egy belvízi kikötő, amelyet a Gent–Terneuzen-csatorna köt össze az Északi-tengerrel.",
+          "ro": "Este un port interior, conectat la Marea Nordului prin Canalul Gent-Terneuzen."
+        }
+      },
+      {
+        "question": {
+          "en": "What kind of industries are located in the Port of Ghent?",
+          "de": "Welche Industriezweige sind im Hafen von Gent angesiedelt?",
+          "hu": "Milyen iparágak találhatók a genti kikötőben?",
+          "ro": "Ce fel de industrii sunt situate în Portul Gent?"
+        },
+        "answer": {
+          "en": "The port area is home to major steel, automotive (Volvo), and chemical industries, as well as bio-energy production plants.",
+          "de": "Im Hafengebiet sind bedeutende Stahl-, Automobil- (Volvo) und Chemieunternehmen sowie Anlagen zur Bioenergieerzeugung angesiedelt.",
+          "hu": "A kikötő területén jelentős acél-, autó- (Volvo) és vegyipari vállalatok, valamint bioenergia-előállító üzemek találhatók.",
+          "ro": "Zona portuară găzduiește industrii majore de oțel, auto (Volvo) și chimice, precum și fabrici de producție de bioenergie."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Port of Ghent located?",
+          "de": "Wo liegt der Hafen von Gent?",
+          "hu": "Hol található a genti kikötő?",
+          "ro": "Unde se află Portul Gent?"
+        },
+        "answer": {
+          "en": "The port is located north of the city of Ghent, stretching toward the Dutch border.",
+          "de": "Der Hafen liegt nördlich der Stadt Gent und erstreckt sich bis zur niederländischen Grenze.",
+          "hu": "A kikötő Gent városától északra található, és a holland határ felé nyúlik el.",
+          "ro": "Portul este situat la nord de orașul Gent, întinzându-se spre granița cu Țările de Jos."
+        }
+      }
+    ]
+  },
+  "ind-port-of-zeebrugge": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Port of Zeebrugge known for?",
+          "de": "Wofür ist der Hafen von Zeebrugge bekannt?",
+          "hu": "Miről nevezetes Zeebrugge kikötője?",
+          "ro": "Pentru ce este cunoscut Portul Zeebrugge?"
+        },
+        "answer": {
+          "en": "Zeebrugge is one of the world's leading ports for the import and export of new cars and a major hub for liquefied natural gas (LNG).",
+          "de": "Zeebrugge ist einer der weltweit führenden Häfen für den Import und Export von Neuwagen und ein wichtiger Knotenpunkt für verflüssigtes Erdgas (LNG).",
+          "hu": "Zeebrugge a világ egyik vezető kikötője az új autók importja és exportja terén, valamint a cseppfolyósított földgáz (LNG) jelentős csomópontja.",
+          "ro": "Zeebrugge este unul dintre cele mai importante porturi din lume pentru importul și exportul de mașini noi și un hub major pentru gazul natural lichefiat (GNL)."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Zeebrugge a deep-water port?",
+          "de": "Ist Zeebrugge ein Tiefwasserhafen?",
+          "hu": "Mélyvízi kikötő Zeebrugge?",
+          "ro": "Este Zeebrugge un port de apă adâncă?"
+        },
+        "answer": {
+          "en": "Yes, it is a deep-water coastal port, allowing the largest container ships and car carriers to dock.",
+          "de": "Ja, es ist ein Tiefwasser-Küstenhafen, in dem die größten Containerschiffe und Autotransporter anlegen können.",
+          "hu": "Igen, ez egy tengerparti mélyvízi kikötő, amely lehetővé teszi a legnagyobb konténerszállító hajók és autószállítók kikötését.",
+          "ro": "Da, este un port de coastă cu apă adâncă, permițând ancorarea celor mai mari nave portcontainer și transportoare de mașini."
+        }
+      },
+      {
+        "question": {
+          "en": "How is the Port of Zeebrugge managed today?",
+          "de": "Wie wird der Hafen von Zeebrugge heute verwaltet?",
+          "hu": "Hogyan kezelik ma Zeebrugge kikötőjét?",
+          "ro": "Cum este gestionat Portul Zeebrugge astăzi?"
+        },
+        "answer": {
+          "en": "It has recently merged with the Port of Antwerp to form the Port of Antwerp-Bruges, the largest export port in Europe.",
+          "de": "Er ist vor kurzem mit dem Hafen von Antwerpen zum Hafen Antwerpen-Brügge fusioniert, dem größten Exporthafen Europas.",
+          "hu": "Nemrégiben egyesült az antwerpeni kikötővel, létrehozva az Antwerpen-Brugge kikötőt, amely Európa legnagyobb exportkikötője.",
+          "ro": "S-a unit recent cu Portul Anvers pentru a forma Portul Anvers-Bruges, cel mai mare port de export din Europa."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Port of Zeebrugge located?",
+          "de": "Wo liegt der Hafen von Zeebrugge?",
+          "hu": "Hol található Zeebrugge kikötője?",
+          "ro": "Unde se află Portul Zeebrugge?"
+        },
+        "answer": {
+          "en": "It is located on the Belgian coast, north of the city of Bruges.",
+          "de": "Es liegt an der belgischen Küste, nördlich der Stadt Brügge.",
+          "hu": "A belga tengerparton található, Brugge városától északra.",
+          "ro": "Este situat pe coasta belgiană, la nord de orașul Bruges."
+        }
+      }
+    ]
+  },
+  "kid-bobbejaanland": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Bobbejaanland?",
+          "de": "Was ist das Bobbejaanland?",
+          "hu": "Mi az a Bobbejaanland?",
+          "ro": "Ce este Bobbejaanland?"
+        },
+        "answer": {
+          "en": "Bobbejaanland is a popular theme park in Belgium, founded by the Flemish singer Bobbejaan Schoepen.",
+          "de": "Das Bobbejaanland ist ein beliebter Freizeitpark in Belgien, der von dem flämischen Sänger Bobbejaan Schoepen gegründet wurde.",
+          "hu": "Bobbejaanland egy népszerű vidámpark Belgiumban, amelyet a flamand énekes, Bobbejaan Schoepen alapított.",
+          "ro": "Bobbejaanland este un parc tematic popular din Belgia, fondat de cântărețul flamand Bobbejaan Schoepen."
+        }
+      },
+      {
+        "question": {
+          "en": "What kind of attractions are at Bobbejaanland?",
+          "de": "Welche Attraktionen gibt es im Bobbejaanland?",
+          "hu": "Milyen látnivalók vannak Bobbejaanlandban?",
+          "ro": "Ce fel de atracții sunt la Bobbejaanland?"
+        },
+        "answer": {
+          "en": "The park features numerous roller coasters, water rides, and themed family attractions like 'Land of Legends'.",
+          "de": "Der Park bietet zahlreiche Achterbahnen, Wasserfahrten und thematische Familienattraktionen wie 'Land of Legends'.",
+          "hu": "A parkban számos hullámvasút, vízi játék és olyan tematikus családi attrakciók találhatók, mint a 'Land of Legends'.",
+          "ro": "Parcul are numeroase roller coastere, atracții acvatice și atracții de familie tematice, cum ar fi „Land of Legends”."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Bobbejaanland suitable for young children?",
+          "de": "Ist das Bobbejaanland für kleine Kinder geeignet?",
+          "hu": "Alkalmas Bobbejaanland kisgyermekek számára?",
+          "ro": "Este Bobbejaanland potrivit pentru copiii mici?"
+        },
+        "answer": {
+          "en": "Yes, while famous for its thrill rides, the park has several dedicated areas and rides specifically for smaller children.",
+          "de": "Ja, obwohl der Park für seine aufregenden Fahrgeschäfte bekannt ist, gibt es mehrere spezielle Bereiche und Fahrgeschäfte speziell für kleinere Kinder.",
+          "hu": "Igen, bár az izgalmas játékairól híres, a parkban több terület és játék is kifejezetten a kisebb gyerekeknek lett kialakítva.",
+          "ro": "Da, deși este faimos pentru atracțiile sale palpitante, parcul are mai multe zone și atracții dedicate special copiilor mai mici."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Bobbejaanland located?",
+          "de": "Wo liegt das Bobbejaanland?",
+          "hu": "Hol található Bobbejaanland?",
+          "ro": "Unde se află Bobbejaanland?"
+        },
+        "answer": {
+          "en": "It is located in Lichtaart, in the province of Antwerp.",
+          "de": "Es befindet sich in Lichtaart in der Provinz Antwerpen.",
+          "hu": "Lichtaartban, Antwerpen tartományban található.",
+          "ro": "Este situat în Lichtaart, în provincia Anvers."
+        }
+      }
+    ]
+  },
+  "kid-walibi-belgium": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Walibi Belgium?",
+          "de": "Was ist Walibi Belgien?",
+          "hu": "Mi az a Walibi Belgium?",
+          "ro": "Ce este Walibi Belgia?"
+        },
+        "answer": {
+          "en": "Walibi Belgium is a major amusement park known for its high-thrill roller coasters and its adjacent water park, Aqualibi.",
+          "de": "Walibi Belgien ist ein großer Freizeitpark, der für seine rasanten Achterbahnen und den angrenzenden Wasserpark Aqualibi bekannt ist.",
+          "hu": "A Walibi Belgium egy jelentős vidámpark, amely az izgalmas hullámvasútjairól és a mellette lévő Aqualibi víziparkról ismert.",
+          "ro": "Walibi Belgia este un parc de distracții major, cunoscut pentru roller coasterele sale palpitante și parcul acvatic adiacent, Aqualibi."
+        }
+      },
+      {
+        "question": {
+          "en": "What is 'Kondaa' at Walibi Belgium?",
+          "de": "Was ist 'Kondaa' im Walibi Belgien?",
+          "hu": "Mi az a 'Kondaa' a Walibi Belgiumban?",
+          "ro": "Ce este „Kondaa” la Walibi Belgia?"
+        },
+        "answer": {
+          "en": "Kondaa is the tallest and fastest roller coaster in the Benelux, located in the Exotic World area of the park.",
+          "de": "Kondaa ist die höchste und schnellste Achterbahn in den Benelux-Ländern und befindet sich im Bereich Exotic World des Parks.",
+          "hu": "A Kondaa a Benelux-államok legmagasabb és leggyorsabb hullámvasútja, amely a park Exotic World területén található.",
+          "ro": "Kondaa este cel mai înalt și cel mai rapid roller coaster din Benelux, situat în zona Exotic World a parcului."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Aqualibi included in the Walibi ticket?",
+          "de": "Ist das Aqualibi im Walibi-Ticket enthalten?",
+          "hu": "Benne van az Aqualibi a Walibi jegyben?",
+          "ro": "Este Aqualibi inclus în biletul Walibi?"
+        },
+        "answer": {
+          "en": "No, Aqualibi is a separate water park and usually requires its own admission ticket, though combined tickets are sometimes available.",
+          "de": "Nein, das Aqualibi ist ein separater Wasserpark und erfordert in der Regel eine eigene Eintrittskarte, obwohl manchmal Kombitickets angeboten werden.",
+          "hu": "Nem, az Aqualibi egy különálló vízipark, és általában saját belépőjegy szükséges hozzá, bár néha elérhetők kombinált jegyek is.",
+          "ro": "Nu, Aqualibi este un parc acvatic separat și, de obicei, necesită propriul bilet de intrare, deși uneori sunt disponibile bilete combinate."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Walibi Belgium located?",
+          "de": "Wo liegt Walibi Belgien?",
+          "hu": "Hol található a Walibi Belgium?",
+          "ro": "Unde se află Walibi Belgia?"
+        },
+        "answer": {
+          "en": "It is located in Wavre, south of Brussels, in the province of Walloon Brabant.",
+          "de": "Es befindet sich in Wavre, südlich von Brüssel, in der Provinz Wallonisch-Brabant.",
+          "hu": "Wavre-ban található, Brüsszeltől délre, Vallon-Brabant tartományban.",
+          "ro": "Este situat în Wavre, la sud de Bruxelles, în provincia Brabantul Valon."
+        }
+      }
+    ]
+  },
+  "kid-pairi-daiza": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Pairi Daiza?",
+          "de": "Was ist Pairi Daiza?",
+          "hu": "Mi az a Pairi Daiza?",
+          "ro": "Ce este Pairi Daiza?"
+        },
+        "answer": {
+          "en": "Pairi Daiza is an award-winning zoo and botanical garden, often voted as the best zoo in Europe.",
+          "de": "Pairi Daiza ist ein preisgekrönter Zoo und botanischer Garten, der oft zum besten Zoo Europas gewählt wurde.",
+          "hu": "A Pairi Daiza egy díjnyertes állatkert és botanikus kert, amelyet gyakran Európa legjobb állatkertjének választanak.",
+          "ro": "Pairi Daiza este o grădină zoologică și botanică premiată, votată adesea ca fiind cea mai bună grădină zoologică din Europa."
+        }
+      },
+      {
+        "question": {
+          "en": "Does Pairi Daiza have giant pandas?",
+          "de": "Gibt es im Pairi Daiza Riesenpandas?",
+          "hu": "Vannak óriáspandák a Pairi Daizában?",
+          "ro": "Există urși panda uriași în Pairi Daiza?"
+        },
+        "answer": {
+          "en": "Yes, Pairi Daiza is one of the few zoos in Europe that hosts giant pandas, as part of a conservation program with China.",
+          "de": "Ja, Pairi Daiza ist einer der wenigen Zoos in Europa, die Riesenpandas beherbergen, als Teil eines Erhaltungsprogramms mit China.",
+          "hu": "Igen, a Pairi Daiza azon kevés európai állatkertek egyike, ahol óriáspandák láthatók egy Kínával közös fajmegőrzési program keretében.",
+          "ro": "Da, Pairi Daiza este una dintre puținele grădini zoologice din Europa care găzduiește urși panda uriași, ca parte a unui program de conservare cu China."
+        }
+      },
+      {
+        "question": {
+          "en": "How is the park organized?",
+          "de": "Wie ist der Park organisiert?",
+          "hu": "Hogyan épül fel a park?",
+          "ro": "Cum este organizat parcul?"
+        },
+        "answer": {
+          "en": "The park is divided into several 'worlds' representing different parts of the globe, with authentic architecture and landscaping.",
+          "de": "Der Park ist in mehrere 'Welten' unterteilt, die verschiedene Teile der Erde repräsentieren, mit authentischer Architektur und Landschaftsgestaltung.",
+          "hu": "A park több 'világra' oszlik, amelyek a földgolyó különböző részeit képviselik, autentikus építészettel és tájrendezéssel.",
+          "ro": "Parcul este împărțit în mai multe „lumi” care reprezintă diferite părți ale globului, cu arhitectură și peisagistică autentice."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Pairi Daiza located?",
+          "de": "Wo liegt Pairi Daiza?",
+          "hu": "Hol található a Pairi Daiza?",
+          "ro": "Unde se află Pairi Daiza?"
+        },
+        "answer": {
+          "en": "It is located in Brugelette, in the province of Hainaut, Wallonia.",
+          "de": "Es befindet sich in Brugelette in der Provinz Hennegau, Wallonien.",
+          "hu": "Brugelette-ben található, Hainaut tartományban, Vallóniában.",
+          "ro": "Este situat în Brugelette, în provincia Hainaut, Valonia."
+        }
+      }
+    ]
+  },
+  "kid-bellewaerde": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Bellewaerde?",
+          "de": "Was ist Bellewaerde?",
+          "hu": "Mi az a Bellewaerde?",
+          "ro": "Ce este Bellewaerde?"
+        },
+        "answer": {
+          "en": "Bellewaerde is a unique combination of a theme park and a zoo, offering rides as well as animal encounters.",
+          "de": "Bellewaerde ist eine einzigartige Kombination aus Freizeitpark und Zoo und bietet sowohl Fahrgeschäfte als auch Tierbegegnungen an.",
+          "hu": "Bellewaerde egy vidámpark és egy állatkert egyedülálló ötvözete, amely játékokat és állatokkal való találkozást is kínál.",
+          "ro": "Bellewaerde este o combinație unică între un parc tematic și o grădină zoologică, oferind atât atracții, cât și întâlniri cu animale."
+        }
+      },
+      {
+        "question": {
+          "en": "What kind of animals can you see at Bellewaerde?",
+          "de": "Welche Tiere kann man in Bellewaerde sehen?",
+          "hu": "Milyen állatokat lehet látni Bellewaerde-ben?",
+          "ro": "Ce fel de animale pot fi văzute la Bellewaerde?"
+        },
+        "answer": {
+          "en": "The park is home to tigers, lions, giraffes, zebras, and lemurs, often visible from the rides or special walking paths.",
+          "de": "Der Park beherbergt Tiger, Löwen, Giraffen, Zebras und Lemuren, die oft von den Fahrgeschäften oder speziellen Wanderwegen aus zu sehen sind.",
+          "hu": "A parkban tigrisek, oroszlánok, zsiráfok, zebrák és lemurok élnek, amelyek gyakran láthatók a játékokból vagy a kijelölt gyalogutakról.",
+          "ro": "Parcul găzduiește tigri, lei, girafe, zebre și lemuri, vizibili adesea de pe atracții sau de pe potecile speciale de plimbare."
+        }
+      },
+      {
+        "question": {
+          "en": "Is there a water park at Bellewaerde?",
+          "de": "Gibt es in Bellewaerde einen Wasserpark?",
+          "hu": "Van vízipark Bellewaerde-ben?",
+          "ro": "Există un parc acvatic la Bellewaerde?"
+        },
+        "answer": {
+          "en": "Yes, Bellewaerde Aquapark is an indoor water park located right next to the main theme park.",
+          "de": "Ja, der Bellewaerde Aquapark ist ein Indoor-Wasserpark, der sich direkt neben dem Hauptfreizeitpark befindet.",
+          "hu": "Igen, a Bellewaerde Aquapark egy fedett vízipark, amely közvetlenül a fő vidámpark mellett található.",
+          "ro": "Da, Bellewaerde Aquapark este un parc acvatic interior situat chiar lângă parcul tematic principal."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Bellewaerde located?",
+          "de": "Wo liegt Bellewaerde?",
+          "hu": "Hol található Bellewaerde?",
+          "ro": "Unde se află Bellewaerde?"
+        },
+        "answer": {
+          "en": "It is located in Ieper (Ypres), in the province of West Flanders.",
+          "de": "Es befindet sich in Ieper (Ypern) in der Provinz Westflandern.",
+          "hu": "Ieperben (Ypres), Nyugat-Flandria tartományban található.",
+          "ro": "Este situat în Ieper (Ypres), în provincia Flandra de Vest."
+        }
+      }
+    ]
+  },
+  "nat-meuse-river": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Meuse River?",
+          "de": "Was ist der Fluss Maas?",
+          "hu": "Mi az a Meuse folyó?",
+          "ro": "Ce este râul Meuse?"
+        },
+        "answer": {
+          "en": "The Meuse (Maas) is a major European river that flows through France, Belgium, and the Netherlands before emptying into the North Sea.",
+          "de": "Die Maas (Meuse) ist ein bedeutender europäischer Fluss, der durch Frankreich, Belgien und die Niederlande fließt, bevor er in die Nordsee mündet.",
+          "hu": "A Meuse (Maas) egy jelentős európai folyó, amely Franciaországon, Belgiumon és Hollandián folyik keresztül, mielőtt az Északi-tengerbe torkollik.",
+          "ro": "Meuse (Maas) este un râu european major care trece prin Franța, Belgia și Țările de Jos înainte de a se vărsa în Marea Nordului."
+        }
+      },
+      {
+        "question": {
+          "en": "What are the most scenic parts of the Meuse in Belgium?",
+          "de": "Welche sind die landschaftlich reizvollsten Abschnitte der Maas in Belgien?",
+          "hu": "Melyek a Meuse legszebb szakaszai Belgiumban?",
+          "ro": "Care sunt cele mai pitorești părți ale râului Meuse în Belgia?"
+        },
+        "answer": {
+          "en": "The Upper Meuse valley, between Dinant and Namur, is famous for its steep limestone cliffs, citadels, and charming towns.",
+          "de": "Das obere Maastal zwischen Dinant und Namur ist berühmt für seine steilen Kalksteinfelsen, Zitadellen und charmanten Städte.",
+          "hu": "A Felső-Meuse völgye Dinant és Namur között híres meredek mészkőszikláiról, citadelláiról és bájos városairól.",
+          "ro": "Valea Meusei Superioare, între Dinant și Namur, este faimoasă pentru stâncile sale abrupte de calcar, citadelele și orașele sale fermecătoare."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you go on a river cruise on the Meuse?",
+          "de": "Kann man eine Flusskreuzfahrt auf der Maas machen?",
+          "hu": "Lehet-e folyami hajóútra menni a Meuse-ön?",
+          "ro": "Se poate face o croazieră pe râul Meuse?"
+        },
+        "answer": {
+          "en": "Yes, river cruises are very popular, especially around Dinant, Namur, and Liège, offering a different perspective of the landscape.",
+          "de": "Ja, Flusskreuzfahrten sind sehr beliebt, besonders in der Gegend von Dinant, Namur und Lüttich, und bieten eine andere Perspektive auf die Landschaft.",
+          "hu": "Igen, a folyami hajóutak nagyon népszerűek, különösen Dinant, Namur és Liège környékén, mivel más perspektívából mutatják be a tájat.",
+          "ro": "Da, croazierele pe râu sunt foarte populare, în special în jurul orașelor Dinant, Namur și Liège, oferind o perspectivă diferită asupra peisajului."
+        }
+      },
+      {
+        "question": {
+          "en": "Which major Belgian cities are located on the Meuse?",
+          "de": "Welche großen belgischen Städte liegen an der Maas?",
+          "hu": "Mely jelentős belga városok fekszenek a Meuse partján?",
+          "ro": "Ce orașe belgiene majore sunt situate pe Meuse?"
+        },
+        "answer": {
+          "en": "Namur, Liège, and Dinant are all situated along the banks of the Meuse.",
+          "de": "Namur, Lüttich und Dinant liegen alle an den Ufern der Maas.",
+          "hu": "Namur, Liège és Dinant mind a Meuse partján találhatók.",
+          "ro": "Namur, Liège și Dinant sunt toate situate de-a lungul malurilor râului Meuse."
+        }
+      }
+    ]
+  },
+  "nat-ourthe": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Ourthe?",
+          "de": "Was ist die Ourthe?",
+          "hu": "Mi az az Ourthe?",
+          "ro": "Ce este Ourthe?"
+        },
+        "answer": {
+          "en": "The Ourthe is a winding river in the Belgian Ardennes, a major tributary of the Meuse.",
+          "de": "Die Ourthe ist ein gewundener Fluss in den belgischen Ardennen, ein wichtiger Nebenfluss der Maas.",
+          "hu": "Az Ourthe egy kanyargós folyó a belga Ardennekben, a Meuse jelentős mellékfolyója.",
+          "ro": "Ourthe este un râu sinuos din Ardenii belgieni, un afluent major al râului Meuse."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Ourthe Valley' known for?",
+          "de": "Wofür ist das Ourthe-Tal bekannt?",
+          "hu": "Miről ismert az Ourthe-völgy?",
+          "ro": "Pentru ce este cunoscută „Valea Ourthe”?"
+        },
+        "answer": {
+          "en": "The valley is known for its rugged natural beauty, rocky cliffs (like Le Hérou), and as a prime spot for outdoor activities.",
+          "de": "Das Tal ist bekannt für seine raue natürliche Schönheit, seine Felsklippen (wie Le Hérou) und als erstklassiger Ort für Outdoor-Aktivitäten.",
+          "hu": "A völgy vadregényes természeti szépségéről, sziklás szirtjeiről (mint a Le Hérou) és kiváló szabadtéri sportolási lehetőségeiről ismert.",
+          "ro": "Valea este cunoscută pentru frumusețea sa naturală aspră, stâncile sale (cum ar fi Le Hérou) și ca loc ideal pentru activități în aer liber."
+        }
+      },
+      {
+        "question": {
+          "en": "What outdoor activities can you do on the Ourthe?",
+          "de": "Welche Outdoor-Aktivitäten kann man auf der Ourthe unternehmen?",
+          "hu": "Milyen szabadtéri tevékenységeket lehet végezni az Ourthe-on?",
+          "ro": "Ce activități în aer liber se pot face pe Ourthe?"
+        },
+        "answer": {
+          "en": "Kayaking and canoeing are extremely popular on the Ourthe, especially between La Roche-en-Ardenne and Durbuy.",
+          "de": "Kajak- und Kanufahren sind auf der Ourthe extrem beliebt, besonders zwischen La Roche-en-Ardenne und Durbuy.",
+          "hu": "A kajakozás és a kenuzás rendkívül népszerű az Ourthe-on, különösen La Roche-en-Ardenne és Durbuy között.",
+          "ro": "Caiacul și canotajul sunt extrem de populare pe Ourthe, în special între La Roche-en-Ardenne și Durbuy."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Ourthe River located?",
+          "de": "Wo liegt der Fluss Ourthe?",
+          "hu": "Hol található az Ourthe folyó?",
+          "ro": "Unde se află râul Ourthe?"
+        },
+        "answer": {
+          "en": "The river flows entirely within the Walloon region of Belgium, primarily through the provinces of Luxembourg and Liège.",
+          "de": "Der Fluss fließt vollständig innerhalb der wallonischen Region Belgiens, hauptsächlich durch die Provinzen Luxemburg und Lüttich.",
+          "hu": "A folyó teljes egészében Belgium vallon régiójában, főleg Luxemburg és Liège tartományokon keresztül folyik.",
+          "ro": "Râul curge în întregime în regiunea valonă a Belgiei, în principal prin provinciile Luxemburg și Liège."
+        }
+      }
+    ]
+  }
+}

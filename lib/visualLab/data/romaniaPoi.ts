@@ -153,6 +153,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AB.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Fehér megye (Alba) Románia központi részén, Erdély szívében helyezkedik el, és az ország egyik legfontosabb történelmi és kulturális bölcsője. Területének jelentős részét az Erdélyi-szigethegység és a Kudzsiri-havasok vonulatai uralják, amelyeket a Maros völgye és a Küküllők vidéke tesz változatossá. A megyeszékhely, Gyulafehérvár, nemcsak az Erdélyi Fejedelemség egykori fővárosa, hanem a román nemzeti egység szimbóluma is, ahol 1918-ban kihirdették az egyesülést. A megye gazdasága a bányászatra (arany, ezüst, só), a faiparra és a gépiparra épül, de világszerte ismert az Erdélyi-hegyalja borvidéke is. Természeti kincsei, mint a verespataki római kori aranybányák vagy a Torockói-hegység sziklái, egyedülálló turisztikai vonzerőt jelentenek. Földrajz K7 — hegységek és folyók.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Gyulafehérvár az Erdélyi Fejedelemség történelmi fővárosa volt.", "A megye területének 59%-át hegyvidéki tájak borítják.", "Itt található Verespatak, a római kori aranybányászat világörökségi helyszíne.", "A megye híres borvidéke a Küküllő-menti és az Erdélyi-hegyaljai terület.", "Fehér megyében folyik keresztül a Maros, Erdély legfontosabb folyója.", "A területen számos dák és római kori erődítmény maradványa található.", "Itt található a Székelykő, amely Torockó híres, különleges formájú hegycsúcsa.", "A megye gazdag népművészeti hagyományokkal rendelkezik, különösen a fazekasság terén."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-AG", type: "region", parent: "RO", coords: [24.8733, 44.8563],
@@ -214,6 +226,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AG.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Argyas megye (Argeș) Havasalföld északi részén fekszik, és a román történelem, valamint a modern ipar egyik legfontosabb központja. Északi részét a fenséges Fogarasi-havasok uralják, itt található Románia legmagasabb pontja, a Moldoveanu-csúcs (2544 m). A megye történelmi jelentőségét Curtea de Argeș városa adja, amely Havasalföld első fővárosa volt, és ahol a román királyi család tagjai nyugszanak. Gazdaságilag Argyas az ország autóipari fellegvára, hiszen Mioveni-ben található a Dacia gyár központja. A vízenergia-termelés szempontjából kulcsfontosságú az Argeș folyón épült Vidraru-gát és a hozzá kapcsolódó víztározó. A vidék változatos tájai a magashegyi legelőktől a termékeny síkságokig terjednek, gazdag élővilágot és kulturális örökséget őrizve. Geschichte K8 — román történelem és iparosodás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt található Románia legmagasabb hegycsúcsa, a Moldoveanu (2544 m).", "A megye székhelye Pitești, a román autóipar egyik központja.", "Curtea de Argeș a román ortodox egyház egyik legfontosabb spirituális központja.", "A Vidraru-gát építésekor a maga korában a világ 10 legnagyobb gátja közé tartozott.", "Itt gyártják a Dacia autókat, Románia legsikeresebb exporttermékét.", "A Transzfogarasi út, a világ egyik leglátványosabb hegyi útja itt halad át.", "A megye északi részén található a Poenari-vár, amelyet Drakula eredeti váraként ismernek.", "Argyas megye Románia egyik legjelentősebb vízenergia-termelő vidéke."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-AR", type: "region", parent: "RO", coords: [21.5, 46.2],
@@ -275,6 +299,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-AR.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Arad megye Románia nyugati kapuja, amely a Maros alsó folyása mentén, a magyar határnál terül el. Földrajzi arculatát a nyugati Aradi-síkság és a keleti Zarándi-hegység kontrasztja határozza meg, középen a Maros völgyével. A megyeszékhely, Arad, gazdag építészeti örökséggel rendelkezik, ahol a szecessziós és neoklasszicista paloták a monarchia korabeli hangulatot idézik. Történelmileg a megye kulcsszerepet játszott az 1848–49-es szabadságharcban, az aradi vár a forradalom egyik utolsó bástyája volt. Napjainkban Arad jelentős gépipari és élelmiszeripari központ, valamint az ország egyik legfontosabb közlekedési csomópontja. A megye keleti részén található ménesi borvidék vörösborai és aszúi évszázadok óta híresek. A táj alkalmas a mezőgazdaságra, de a hegyvidéki részek a turizmus számára is vonzóak. Geschichte K8 — az 1848-as forradalom és szabadságharc.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Arad városa a 19. század végén a Magyar Királyság egyik legfejlettebb városa volt.", "A megye keleti felén emelkedik a Zarándi-hegység, kedvelt túrázóhely.", "Ménes borvidéke a történelmi Magyarország egyik leghíresebb vörösbortermő helye.", "A megye fontos határátkelőhelyekkel (Nagylak, Kürtös) kapcsolódik Magyarországhoz.", "Itt található a világosi várrom, ahol 1849-ben a honvédsereg letette a fegyvert.", "Arad megye az ország egyik legjelentősebb gabonatermelő vidéke.", "A Maros-ártér Natúrpark gazdag madárvilágnak és ritka növényeknek ad otthont.", "Az aradi vár Románia egyik legjobb állapotban fennmaradt Vauban-típusú erődítménye."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-B", type: "region", parent: "RO", coords: [26.1025, 44.4268],
@@ -395,6 +431,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BC.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bákó megye (Bacău) Moldva nyugati részén helyezkedik el, ahol a Keleti-Kárpátok vonulatai találkoznak a Moldvai-dombsággal. A tájat a Szeret és a Beszterce folyók völgyei határozzák meg, amelyek mentén számos víztározó és vízerőmű épült. Bákó városa a régió egyik legfontosabb ipari és kereskedelmi központja, amely különösen a vegyiparáról, kőolaj-finomításáról és repülőgépgyártásáról ismert. A megye nyugati, hegyvidéki részein (Tarkő-hegység, Csíki-havasok) jelentős a fakitermelés és a turizmus, különösen a sós vizű gyógyfürdőiről híres Slănic-Moldova. A megye gazdasága sokszínű, az energetikai szektor mellett a könnyűipar is jelen van. Kulturálisan a moldvai hagyományok és a modern ipari fejlődés keveredik itt, létrehozva egy dinamikus regionális központot. Földrajz K7 — energetika és nehézipar.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A megye székhelye, Bákó, jelentős repülőgépgyártó központ (Aerostar).", "Itt található Slănic-Moldova, amelyet a 'Moldvai-Kárpátok gyöngyszemeként' ismernek.", "A Beszterce folyón található vízerőmű-rendszer az ország egyik legfontosabbja.", "A megye Románia egyik legrégebbi kőolaj-kitermelő vidéke.", "Onesti városa a vegyiparáról és Nadia Comăneci tornásznő szülővárosaként híres.", "A Tarkő-hegység érintetlen fenyőerdői gazdag vadállománynak adnak otthont.", "Bákó megye fontos közúti és vasúti kapu Moldva és Erdély között.", "A megyében található a Borgesti-hőerőmű, amely a régió energiaellátását segíti."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BH", type: "region", parent: "RO", coords: [22.1, 46.9667],
@@ -448,6 +496,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BH.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bihar megye (Bihor) Románia északnyugati részén, a Partium területén fekszik, stratégiai kapuként Magyarország felé. Változatos domborzata a nyugati Bihar-síkságtól a keleti Bihari-hegységig terjed, magában foglalva a Sebes-Körös és a Fekete-Körös völgyeit. A megyeszékhely, Nagyvárad (Oradea), lenyűgöző szecessziós építészetéről és gazdag középkori múltjáról híres, a 'Körös-parti Párizsként' is emlegetik. Bihar gazdasága az élelmiszeriparra, a könnyűiparra és az utóbbi években a dinamikusan fejlődő szolgáltatási szektorra épül. A turizmus egyik fő vonzereje Félixfürdő, az ország egyik legnépszerűbb termálvizes üdülőhelye, valamint a Pádis-fennsík karsztjelenségei. A megye lakossága multikulturális, ahol a magyar és román hagyományok évszázadok óta összefonódnak. Sachkunde K3 — határok és régiók.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Nagyvárad a középkori Magyarország egyik legfontosabb vallási és kulturális központja volt.", "Itt található Románia egyik legnagyobb termálvizes gyógyhelye, Félixfürdő.", "A Bihari-hegység barlangjai (pl. Medve-barlang) világritkaságnak számítanak.", "A Sebes-Körös folyó mentén épült vízerőművek fontosak a régió energiaellátásában.", "Bihar megye Románia egyik legjelentősebb kukorica- és búza-termelő vidéke.", "A megyeszékhely vára az egyik legjobb állapotban fennmaradt ötszögletű erődítmény.", "A Pádis-fennsík az Erdélyi-szigethegység leglátványosabb karsztvidéke.", "A megye fontos közlekedési folyosó az Európai Unió belső piacai felé."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BN", type: "region", parent: "RO", coords: [24.5, 47.15],
@@ -501,6 +561,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BN.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Beszterce-Naszód megye (Bistrița-Năsăud) Erdély északi részén, a hegyek gyűrűjében fekszik, északon a Radnai-havasok, keleten a Kelemen-havasok határolják. Földrajzi képét a Szamos és a Beszterce folyók határozzák meg, a táj pedig erdőkben, legelőkben és kristálytiszta patakokban gazdag. A megyeszékhely, Beszterce, egykori szász kereskedőváros, amely megőrizte középkori polgárházait és híres evangélikus templomát. A megye Naszód vidéke történelmileg a román határőrvidék központja volt, ami jelentősen hozzájárult a helyi értelmiség fejlődéséhez. Gazdasága a faiparra, a gépiparra és a mezőgazdaságra, különösen az állattenyésztésre és a tejtermelésre alapoz. A Radnai-havasok Nemzeti Park az ország egyik legszebb magashegyi túrázóhelye, ahol gleccsertavak és havasi gyopár várja a látogatókat. Földrajz K7 — magashegységek és bioszféra.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt található a Radnai-havasok legmagasabb pontja, a Pietrosu-csúcs (2303 m).", "Beszterce városa a hét erdélyi szász város (Siebenbürgen) egyike volt.", "A megye híres a hagyományos népviseletéről, különösen a pávás kalapokról.", "Itt található a Colibița-tó, amelyet a 'Kárpátok tengerének' is neveznek.", "A Borgói-hágó a Bram Stoker által írt Drakula regény egyik híres helyszíne.", "A megye északi része gazdag gyógyvizekben (pl. Oláhszentgyörgy).", "A Radnai-havasokban található az ország egyik legmagasabb vízesése, a Lóhavasi-vízesés.", "Beszterce-Naszód Románia egyik legjelentősebb tejtermelő és húsfeldolgozó vidéke."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BR", type: "region", parent: "RO", coords: [27.9667, 45.2667],
@@ -554,6 +626,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BR.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Brăila megye Délkelet-Romániában, a Havasalföld keleti részén, a Duna alsó szakasza mentén fekszik. A táj jellegzetesen síkvidéki, a Bărăgan-síkság része, ahol a végtelen gabonatáblák és a Duna kanyarulatai dominálnak. A megyeszékhely, Brăila, történelmileg Európa egyik legfontosabb gabonakereskedelmi kikötője volt, aminek köszönhetően a 19. században kozmopolita nagyvárossá fejlődött. A megye területén található a Brăilai-nagysziget, amely a Duna két ága között fekvő hatalmas mezőgazdasági terület. Gazdaságilag a megye a mezőgazdaságra, a hajógyártásra és az élelmiszeriparra épül. A Duna-parti lankák és a Brăilai-mocsárvilág gazdag madárvilágnak ad otthont, ami a természetbarátok számára vonzó célpont. A megye fontos közlekedési csomópont, amely összeköti a szárazföldi utakat a folyami hajózással. Sachkunde K4 — mezőgazdaság és vízi utak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Brăila kikötője a 19. században a gabona világpiaci árának egyik meghatározó helye volt.", "A megyében található a Brăilai-nagysziget, Románia legnagyobb mezőgazdasági üzeme.", "A megyeszékhely belvárosa megőrizte a 19. századi sugárutas, legyező alakú térszerkezetét.", "Brăila és Galați között épült fel a Duna legújabb és egyik leghosszabb függőhídja.", "A megye éghajlata kontinentális, forró nyarakkal és száraz telekkel.", "A Duna árterein gazdag horgászparadicsom és természetvédelmi területek találhatók.", "Itt született Panait Istrati, a világhírű román író, 'a Balkán Gorkija'.", "A megye gazdasága nagyban függ a Duna vízállásától és a folyami szállítástól."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BT", type: "region", parent: "RO", coords: [26.65, 47.75],
@@ -607,6 +691,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BT.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Botoșani megye Románia legészakibb részén, Moldva területén fekszik, a Prut és a Szeret folyók között. A táj lágyan hullámzó dombvidék, amely kiválóan alkalmas a mezőgazdaságra és az állattenyésztésre. Bár gazdaságilag az ország szerényebb megyéi közé tartozik, kulturális jelentősége felbecsülhetetlen: Botoșani a 'román kultúra bölcsője', hiszen innen származik a legnagyobb román költő, Mihai Eminescu, a zeneszerző George Enescu és a történész Nicolae Iorga is. A megye székhelye, Botoșani, egykor virágzó kereskedőváros volt, ahol jelentős zsidó és örmény közösség élt. A vidék békés, hagyományőrző hangulata, a kolostorok és a festői falvak a falusi turizmus számára kínálnak lehetőségeket. A mezőgazdaság mellett a textilipar és az élelmiszer-feldolgozás jelenti a fő megélhetést. Geschichte K8 — román kulturális örökség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Innen származik Mihai Eminescu, a románok nemzeti költője.", "A megye keleti határát a Prut folyó alkotja, amely egyben Románia határa is.", "Itt található George Enescu zeneszerző szülőháza Liveni faluban.", "A megye híres a népi hímzéseiről és a hagyományos fazekasmesterségről.", "Botoșani városa már a középkorban Moldva egyik legfontosabb vámszedő helye volt.", "A területen számos régi ortodox fatemplom és kolostor található.", "A megye éghajlata az országban az egyik leghidegebb télen.", "Mezőgazdaságilag kiemelkedő a gabona- és cukorrépa-termesztés."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BV", type: "region", parent: "RO", coords: [25.5, 45.75],
@@ -619,6 +715,18 @@ export const romaniaRegions: POI[] = [
     },
     facts: { de: ["Schloss Bran (Dracula).", "Schwarze Kirche in Kronstadt.", "Skigebiet Poiana Brașov."], hu: ["Bran vára (Drakula).", "Brassói Fekete templom.", "Poiana Brașov síterep."], ro: ["Castelul Bran.", "Biserica Neagră din Brașov.", "Stațiunea Poiana Brașov."], en: ["Bran Castle (Dracula).", "Black Church in Brașov.", "Poiana Brașov ski resort."] },
     image: "/geo-images/romania/RO-BV.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Brassó megye (Brașov) Románia szívében, a Déli- és Keleti-Kárpátok találkozásánál fekszik, és az ország egyik legfontosabb turisztikai és ipari központja. A tájat a Barcasági-medence síksága és az azt körülölelő magashegységek, mint a Bucsecs és a Fogarasi-havasok határozzák meg. A megyeszékhely, Brassó, a történelmi hét szász város egyike, amelynek középkori óvárosa és a Fekete-templom világszerte ismert. A megye gazdasága rendkívül fejlett, a gépipar (autóalkatrészek, repülőgépgyártás) és a turizmus a fő húzóágazatok. Itt található a Törcsvári kastély (Drakula vára), Románia leglátogatottabb műemléke, valamint Brassópojana, a legnépszerűbb téli sportközpont. Brassó megye a modernitás és a tradíciók tökéletes ötvözete, ahol a szász erődtemplomok és a modern gyárak egymás mellett léteznek. Geschichte K8 — erdélyi szászok és középkori kereskedelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Brassó városa évszázadokon át Erdély legfontosabb kereskedelmi kapuja volt dél felé.", "Itt található a Fekete-templom, Délkelet-Európa legnagyobb gótikus temploma.", "A megye területén emelkedik a Bucsecs-hegység a különleges Szfinx-sziklával.", "Brassó megye az ország egyik legfejlettebb és leginnovatívabb régiója.", "Itt található a barcarozsnyói parasztvár, amely a környék egyik legszebb erődítménye.", "A megyében hét szász erődtemplom is része az UNESCO világörökségnek.", "Brassópojana Románia legmodernebb és legnépszerűbb síterepe.", "A megye fontos vasúti és közúti csomópont, amely összeköti Erdélyt Havasalfölddel."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-BZ", type: "region", parent: "RO", coords: [26.8167, 45.15],
@@ -680,6 +788,18 @@ export const romaniaRegions: POI[] = [
       ],
     },
     image: "/geo-images/romania/RO-BZ.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Bodza megye (Buzău) Románia délkeleti részén, a Kárpátok kanyarulata és a Havasalföldi-síkság találkozásánál fekszik. Domborzata rendkívül változatos: északon a Bodzai-havasok erdősségei, délen a Bărăgan-síkság gabonaföldjei uralják. A megye egyik legismertebb látványossága a Berca-iszapvulkánok, amelyek holdbéli tájat idéznek. Bodza gazdasága a mezőgazdaságra, különösen a borászatra (Dealu Mare borvidék) és az élelmiszeriparra épül, de jelentős a kőolaj- és földgáz-kitermelés is. A megyeszékhely, Bodzavásár (Buzău), fontos vasúti csomópont és történelmi püspöki székhely. A vidék gazdag természeti kincsekben, mint a borostyán és a gyógyvizek, valamint kulturális emlékekben, például a sziklatemplomokban. A Bodza folyó völgye évszázadok óta fontos összekötő kapocs Moldva, Havasalföld és Erdély között. Földrajz K7 — vulkanizmus és természeti jelenségek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A megye híres az iszapvulkánjairól, amelyek Európában ritka természeti jelenségek.", "Itt található Colti falu, ahol Románia egyetlen borostyánmúzeuma működik.", "A Dealu Mare borvidék a megye területén kezdődik, híres a vörösborairól.", "Bodza megyében találhatók a különleges sziklába vájt keresztény templomok (Alunis).", "A megye déli része Románia 'éléskamrájának', a Bărăgan-síkságnak a része.", "Sărata-Monteoru gyógyfürdője híres a sós forrásairól és a kőolajbányászatáról.", "A megyeszékhely, Buzău, fontos logisztikai központ Havasalföld és Moldva határán.", "Itt készül a híres 'bodzavásári perec', amely európai oltalmat élvező termék."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "RO-CJ", type: "region", parent: "RO", coords: [23.6236, 46.7712],

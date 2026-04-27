@@ -1,0 +1,90 @@
+import {
+  SUPPORTED_LANGS,
+  buildPoiPath,
+  pois,
+  type Lang,
+} from "@/lib/seo/slugs";
+import { SITE_URL, poiTitle, poiDescription } from "@/lib/seo/routes";
+
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return SUPPORTED_LANGS.map((lang) => ({ lang: `poi-${lang}.xml` }));
+}
+
+const BUILD_DATE = new Date().toUTCString();
+
+const FEED_TITLE: Record<Lang, string> = {
+  de: "Plizio Visual Lab — Sehenswürdigkeiten",
+  hu: "Plizio Visual Lab — Látnivalók",
+  ro: "Plizio Visual Lab — Puncte de Interes",
+  en: "Plizio Visual Lab — Points of Interest",
+};
+
+const FEED_DESC: Record<Lang, string> = {
+  de: "Entdecke historische Orte, Naturschätze und Kulturschätze in Europa.",
+  hu: "Fedezz fel történelmi helyeket, természeti kincseket és kulturális látnivalókat Európában.",
+  ro: "Descoperă locuri istorice, comori naturale și culturale din Europa.",
+  en: "Discover historical sites, natural wonders and cultural treasures across Europe.",
+};
+
+function escape(s: string): string {
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+export async function GET(
+  _req: Request,
+  { params }: { params: Promise<{ lang: string }> },
+) {
+  const { lang: langParam } = await params;
+  const langCode = langParam.replace(/^poi-/, "").replace(/\.xml$/, "");
+  if (!SUPPORTED_LANGS.includes(langCode as Lang)) {
+    return new Response("Not Found", { status: 404 });
+  }
+  const lang = langCode as Lang;
+
+  const items = pois
+    .filter((p) => p && p.parent && p.type !== "region" && p.type !== "country" && p.image)
+    .map((poi) => {
+      const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
+      const image = poi.image!.startsWith("http") ? poi.image! : `${SITE_URL}${poi.image}`;
+      const title = poiTitle(poi, lang);
+      const desc = poiDescription(poi, lang);
+      return `  <item>
+    <title>${escape(title)}</title>
+    <link>${escape(url)}</link>
+    <guid isPermaLink="true">${escape(url)}</guid>
+    <description>${escape(desc)}</description>
+    <enclosure url="${escape(image)}" type="image/webp" length="0" />
+    <media:content url="${escape(image)}" medium="image" />
+    <pubDate>${BUILD_DATE}</pubDate>
+  </item>`;
+    })
+    .join("\n");
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>${escape(FEED_TITLE[lang])}</title>
+  <link>${SITE_URL}/${lang}/</link>
+  <atom:link href="${SITE_URL}/feed/poi-${lang}.xml" rel="self" type="application/rss+xml" />
+  <description>${escape(FEED_DESC[lang])}</description>
+  <language>${lang}</language>
+  <lastBuildDate>${BUILD_DATE}</lastBuildDate>
+${items}
+</channel>
+</rss>`;
+
+  return new Response(xml, {
+    headers: {
+      "Content-Type": "application/rss+xml; charset=utf-8",
+      "Cache-Control": "public, max-age=3600",
+    },
+  });
+}

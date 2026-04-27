@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "de",
+  "files": [
+    "lib/visualLab/data/poiExtraDe1.ts"
+  ],
+  "items": [
+    {
+      "id": "city-ingolstadt-extra",
+      "descriptionAdvanced": "Ingolstadt a Duna partján fekvő város, amely a 13. század óta a bajor hercegek egyik fontos székhelye volt. A városban található 1472-ben alapított egyetem volt az első bajorországi egyetem, amely komoly tudományos központtá emelte a települést. Ma a város világhírű az autóiparáról és a történelmi óvárosáról, amelyben számos középkori kapu és torony maradt fenn. Földrajz K7 — városok és ipari központok.",
+      "factsAdvanced": [
+        "A város lakossága meghaladja a 135 000 főt.",
+        "Az Audi autógyár központja 1949 óta van itt.",
+        "A 14. században épült Kreuztor a város jelképe.",
+        "A Duna szélessége itt átlagosan 60-80 méter.",
+        "1516-ban itt adták ki a híres bajor tisztasági törvényt.",
+        "A város területén található az Auwald, Európa egyik legnagyobb ártéri erdeje."
+      ]
+    },
+    {
+      "id": "city-passau-extra",
+      "descriptionAdvanced": "Passau az úgynevezett Háromfolyó-város, ahol a Duna, az Inn és az Ilz találkozik. A város különleges fekvésének köszönhetően történelmileg stratégiai fontosságú kereskedelmi csomópont volt, amelyet gyakran a bajor Velenceként emlegetnek. A város fölé magasodó Veste Oberhaus erőd évszázadokon át védte a hercegérseki várost, amely ma a katedrálisában található világ egyik legnagyobb orgonájáról híres. Földrajz K7 — folyók és városi topográfia.",
+      "factsAdvanced": [
+        "Passau területe 69,56 km².",
+        "A Szent István-dóm orgonája 17 974 síppal rendelkezik.",
+        "A város magassága 300 és 450 méter között mozog.",
+        "A három folyó találkozása egyedi vízszín-jelenséget hoz létre.",
+        "A passaui egyetemet 1978-ban alapították.",
+        "1662-ben egy hatalmas tűzvész a város nagy részét elpusztította."
+      ]
+    },
+    {
+      "id": "mnt-wendelstein-extra",
+      "descriptionAdvanced": "A Wendelstein a bajor Alpok egyik legismertebb hegycsúcsa, amely 1838 méteres magasságával messziről felismerhető. A hegycsúcsra 1912 óta fogaskerekű vasút viszi fel a látogatókat, ami abban az időben technikai bravúrnak számított. A csúcs közelében található Németország legmagasabban fekvő temploma, valamint egy csillagvizsgáló is, amely fontos tudományos kutatási helyszín. Földrajz K7 — hegyvidéki formák és közlekedés.",
+      "factsAdvanced": [
+        "A hegy magassága 1838 méter.",
+        "A fogaskerekű vasút 1912-ben kezdte meg a működését.",
+        "A csillagvizsgáló 1941 óta működik a csúcson.",
+        "A Wendelstein-kápolna 1890-ben épült.",
+        "A hegyről tiszta időben az Alpok számos csúcsa látható.",
+        "A hegycsúcs évente több tízezer túrázót vonz."
+      ]
+    }
+  ]
+}

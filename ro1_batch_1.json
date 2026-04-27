@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-beius-extra",
+    "name_ro": "Beiu\u0219",
+    "desc_ro": "Centru cultural \u00een Valea Cri\u0219ului."
+  },
+  {
+    "id": "city-nasaud-extra",
+    "name_ro": "N\u0103s\u0103ud",
+    "desc_ro": "Ora\u0219ul academicienilor."
+  },
+  {
+    "id": "city-beclean-extra",
+    "name_ro": "Beclean",
+    "desc_ro": "Important nod de transport."
+  },
+  {
+    "id": "city-sangeorz-bai-extra",
+    "name_ro": "S\u00e2ngeorz-B\u0103i",
+    "desc_ro": "Sta\u021biune balnear\u0103."
+  },
+  {
+    "id": "city-dorohoi-extra",
+    "name_ro": "Dorohoi",
+    "desc_ro": "Ora\u0219 istoric din nord."
+  },
+  {
+    "id": "city-darabani-extra",
+    "name_ro": "Darabani",
+    "desc_ro": "Cel mai nordic ora\u0219 rom\u00e2nesc."
+  },
+  {
+    "id": "city-saveni-extra",
+    "name_ro": "S\u0103veni",
+    "desc_ro": "Centru al br\u00e2nzeturilor."
+  },
+  {
+    "id": "city-fagaras-extra",
+    "name_ro": "F\u0103g\u0103ra\u0219",
+    "desc_ro": "Cunoscut pentru cetate."
+  },
+  {
+    "id": "city-sacele-extra",
+    "name_ro": "S\u0103cele",
+    "desc_ro": "Ora\u0219 la poalele mun\u021bilor."
+  },
+  {
+    "id": "city-zarnesti-extra",
+    "name_ro": "Z\u0103rne\u0219ti",
+    "desc_ro": "Poarta spre Piatra Craiului."
+  },
+  {
+    "id": "city-ianca-extra",
+    "name_ro": "Ianca",
+    "desc_ro": "Ora\u0219 agrar din Muntenia."
+  },
+  {
+    "id": "city-insuratei-extra",
+    "name_ro": "\u00censur\u0103\u021bei",
+    "desc_ro": "Ora\u0219 rural."
+  },
+  {
+    "id": "city-faurei-extra",
+    "name_ro": "F\u0103urei",
+    "desc_ro": "Nod feroviar."
+  },
+  {
+    "id": "city-ramnicu-sarat-extra",
+    "name_ro": "R\u00e2mnicu S\u0103rat",
+    "desc_ro": "Ora\u0219 istoric."
+  }
+]

@@ -1,0 +1,1112 @@
+{
+    "city-koblenz-extra": {
+        "de": [
+            {
+                "q": "Wie alt ist Koblenz?",
+                "a": "Koblenz wurde vor über 2000 Jahren von den Römern gegründet und ist eine der ältesten Städte Deutschlands."
+            },
+            {
+                "q": "Was ist die Festung Ehrenbreitstein?",
+                "a": "Eine mächtige Festungsanlage auf einem Felsen gegenüber dem Deutschen Eck."
+            },
+            {
+                "q": "Gibt es eine Seilbahn in Koblenz?",
+                "a": "Ja, sie führt über den Rhein vom Rheinufer hinauf zur Festung Ehrenbreitstein."
+            },
+            {
+                "q": "Was ist der Schängelbrunnen?",
+                "a": "Ein Brunnen am Rathaus, dessen Figur (der 'Schängel') in unregelmäßigen Abständen Wasser spuckt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Milyen idős Koblenz?",
+                "a": "Koblenz-et több mint 2000 évvel ezelőtt alapították a rómaiak, és Németország egyik legrégebbi városa."
+            },
+            {
+                "q": "Mi az Ehrenbreitstein erőd?",
+                "a": "Egy hatalmas erődítmény egy sziklán, a Deutsches Eck-kel szemben."
+            },
+            {
+                "q": "Van kötélpálya Koblenzben?",
+                "a": "Igen, a Rajna felett vezet a folyópartról fel az Ehrenbreitstein erődhöz."
+            },
+            {
+                "q": "Mi a Schängel-kút?",
+                "a": "Egy kút a városházánál, amelynek figurája (a 'Schängel') szabálytalan időközönként vizet köp."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Câți ani are Koblenz?",
+                "a": "Koblenz a fost fondat de romani acum peste 2000 de ani și este unul dintre cele mai vechi orașe din Germania."
+            },
+            {
+                "q": "Ce este Fortăreața Ehrenbreitstein?",
+                "a": "O fortăreață impunătoare pe o stâncă aflată vis-a-vis de Colțul German."
+            },
+            {
+                "q": "Există o telecabină în Koblenz?",
+                "a": "Da, aceasta traversează Rinul de la malul râului până la Fortăreața Ehrenbreitstein."
+            },
+            {
+                "q": "Ce este Fântâna Schängel?",
+                "a": "O fântână de la primărie, a cărei figură ('Schängel') scuipă apă la intervale neregulate."
+            }
+        ],
+        "en": [
+            {
+                "q": "How old is Koblenz?",
+                "a": "Koblenz was founded by the Romans over 2000 years ago and is one of Germany's oldest cities."
+            },
+            {
+                "q": "What is Ehrenbreitstein Fortress?",
+                "a": "A powerful fortress on a rock opposite the Deutsches Eck."
+            },
+            {
+                "q": "Is there a cable car in Koblenz?",
+                "a": "Yes, it runs across the Rhine from the riverbank up to Ehrenbreitstein Fortress."
+            },
+            {
+                "q": "What is the Schängel Fountain?",
+                "a": "A fountain at the town hall whose figure (the 'Schängel') spits water at irregular intervals."
+            }
+        ]
+    },
+    "river-mosel-rp-extra": {
+        "de": [
+            {
+                "q": "In welchem Land entspringt die Mosel?",
+                "a": "In Frankreich, in den Vogesen."
+            },
+            {
+                "q": "Was ist die Moselschleife?",
+                "a": "Eine spektakuläre 180-Grad-Kurve des Flusses, besonders bekannt bei Bremm."
+            },
+            {
+                "q": "Welche Rebsorte dominiert an der Mosel?",
+                "a": "Der Riesling."
+            },
+            {
+                "q": "Gibt es viele Burgen an der Mosel?",
+                "a": "Ja, zahlreiche Burgen und Ruinen wie Burg Eltz oder die Reichsburg Cochem prägen das Tal."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Melyik országban ered a Mosel?",
+                "a": "Franciaországban, a Vogézekben."
+            },
+            {
+                "q": "Mi az a Mosel-kanyar?",
+                "a": "A folyó látványos, 180 fokos kanyarulata, különösen híres Bremmnél."
+            },
+            {
+                "q": "Melyik szőlőfajta dominál a Mosel mentén?",
+                "a": "A rizling."
+            },
+            {
+                "q": "Sok vár található a Mosel mentén?",
+                "a": "Igen, számos vár és rom, mint például az Eltz-vár vagy a Cochemi birodalmi vár jellemzi a völgyet."
+            }
+        ],
+        "ro": [
+            {
+                "q": "În ce țară izvorăște Mosela?",
+                "a": "În Franța, în munții Vosgi."
+            },
+            {
+                "q": "Ce este Meandrul Moselei?",
+                "a": "O curbă spectaculoasă de 180 de grade a râului, deosebit de cunoscută la Bremm."
+            },
+            {
+                "q": "Ce soi de struguri domină pe Mosela?",
+                "a": "Riesling."
+            },
+            {
+                "q": "Există multe castele pe Mosela?",
+                "a": "Da, numeroase castele și ruine, cum ar fi Castelul Eltz sau Castelul Imperial Cochem, definesc valea."
+            }
+        ],
+        "en": [
+            {
+                "q": "In which country does the Moselle originate?",
+                "a": "In France, in the Vosges mountains."
+            },
+            {
+                "q": "What is the Moselle Bend?",
+                "a": "A spectacular 180-degree curve of the river, especially famous at Bremm."
+            },
+            {
+                "q": "Which grape variety dominates along the Moselle?",
+                "a": "Riesling."
+            },
+            {
+                "q": "Are there many castles along the Moselle?",
+                "a": "Yes, numerous castles and ruins such as Eltz Castle or Cochem Imperial Castle characterize the valley."
+            }
+        ]
+    },
+    "city-ludwigshafen-extra": {
+        "de": [
+            {
+                "q": "Was ist das Hauptmerkmal von Ludwigshafen?",
+                "a": "Die Stadt ist ein bedeutender Industriestandort, geprägt durch die chemische Industrie."
+            },
+            {
+                "q": "Liegt Ludwigshafen direkt gegenüber einer anderen Stadt?",
+                "a": "Ja, direkt gegenüber am anderen Rheinufer liegt Mannheim."
+            },
+            {
+                "q": "Was ist die 'Eberthalle'?",
+                "a": "Eine bekannte Mehrzweckhalle in Ludwigshafen für Sport und Kultur."
+            },
+            {
+                "q": "Gibt es in Ludwigshafen Parks?",
+                "a": "Ja, der Ebertpark ist eine grüne Oase im Herzen der Stadt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi Ludwigshafen fő jellemzője?",
+                "a": "A város jelentős ipari központ, amelyet a vegyipar határoz meg."
+            },
+            {
+                "q": "Ludwigshafen közvetlenül egy másik várossal szemben fekszik?",
+                "a": "Igen, közvetlenül szemben, a Rajna túlpartján fekszik Mannheim."
+            },
+            {
+                "q": "Mi az az 'Eberthalle'?",
+                "a": "Ismert többcélú csarnok Ludwigshafenben sport- és kulturális eseményekhez."
+            },
+            {
+                "q": "Vannak parkok Ludwigshafenben?",
+                "a": "Igen, az Ebertpark egy zöld oázis a város szívében."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care este principala caracteristică a orașului Ludwigshafen?",
+                "a": "Orașul este un important centru industrial, definit de industria chimică."
+            },
+            {
+                "q": "Ludwigshafen se află direct vis-a-vis de un alt oraș?",
+                "a": "Da, chiar vis-a-vis, pe celălalt mal al Rinului, se află Mannheim."
+            },
+            {
+                "q": "Ce este 'Eberthalle'?",
+                "a": "O cunoscută sală polivalentă din Ludwigshafen pentru sport și cultură."
+            },
+            {
+                "q": "Există parcuri în Ludwigshafen?",
+                "a": "Da, Ebertpark este o oază verde în inima orașului."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the main feature of Ludwigshafen?",
+                "a": "The city is a significant industrial location, characterized by the chemical industry."
+            },
+            {
+                "q": "Is Ludwigshafen located directly opposite another city?",
+                "a": "Yes, Mannheim is located directly opposite on the other side of the Rhine."
+            },
+            {
+                "q": "What is the 'Eberthalle'?",
+                "a": "A well-known multi-purpose hall in Ludwigshafen for sports and culture."
+            },
+            {
+                "q": "Are there parks in Ludwigshafen?",
+                "a": "Yes, the Ebertpark is a green oasis in the heart of the city."
+            }
+        ]
+    },
+    "hist-trier-porta-nigra-extra": {
+        "de": [
+            {
+                "q": "Was bedeutet 'Porta Nigra'?",
+                "a": "Es ist lateinisch für 'Schwarzes Tor', benannt nach der dunklen Verfärbung des Sandsteins."
+            },
+            {
+                "q": "Aus welcher Zeit stammt das Tor?",
+                "a": "Es wurde um 170 n. Chr. von den Römern erbaut."
+            },
+            {
+                "q": "Wie wurden die Steine zusammengehalten?",
+                "a": "Ohne Mörtel, nur durch ihr eigenes Gewicht und Eisenklammern."
+            },
+            {
+                "q": "Warum ist das Tor heute noch so gut erhalten?",
+                "a": "Weil es im Mittelalter als Teil einer Kirche genutzt und dadurch nicht als Steinbruch missbraucht wurde."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mit jelent a 'Porta Nigra'?",
+                "a": "Latinul 'Fekete Kapu', a homokkő sötét elszíneződése után kapta a nevét."
+            },
+            {
+                "q": "Melyik korból származik a kapu?",
+                "a": "Kr.u. 170 körül építették a rómaiak."
+            },
+            {
+                "q": "Hogyan fogták össze a köveket?",
+                "a": "Habarcs nélkül, csak a saját súlyuk és vas kapcsok tartották össze őket."
+            },
+            {
+                "q": "Miért maradt meg a kapu ilyen jó állapotban máig?",
+                "a": "Mert a középkorban egy templom részeként használták, így nem hordták el építőanyagnak."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce înseamnă 'Porta Nigra'?",
+                "a": "În latină înseamnă 'Poarta Neagră', numită astfel după culoarea închisă a gresiei."
+            },
+            {
+                "q": "Din ce perioadă datează poarta?",
+                "a": "A fost construită de romani în jurul anului 170 d.Hr."
+            },
+            {
+                "q": "Cum au fost fixate pietrele?",
+                "a": "Fără mortar, doar prin propria greutate și cleme de fier."
+            },
+            {
+                "q": "De ce este poarta atât de bine conservată astăzi?",
+                "a": "Deoarece în Evul Mediu a fost folosită ca parte a unei biserici, nefiind astfel utilizată ca sursă de piatră."
+            }
+        ],
+        "en": [
+            {
+                "q": "What does 'Porta Nigra' mean?",
+                "a": "It is Latin for 'Black Gate', named after the dark discoloration of the sandstone."
+            },
+            {
+                "q": "From what period does the gate date?",
+                "a": "It was built by the Romans around 170 AD."
+            },
+            {
+                "q": "How were the stones held together?",
+                "a": "Without mortar, only by their own weight and iron clamps."
+            },
+            {
+                "q": "Why is the gate so well preserved today?",
+                "a": "Because it was used as part of a church in the Middle Ages and therefore not looted for stone."
+            }
+        ]
+    },
+    "mnt-pfaelzerwald-extra": {
+        "de": [
+            {
+                "q": "Was ist das Besondere am Pfälzerwald?",
+                "a": "Er ist Teil des grenzüberschreitenden Biosphärenreservats Pfälzerwald-Nordvogesen."
+            },
+            {
+                "q": "Gibt es dort viele Burgen?",
+                "a": "Ja, der Pfälzerwald ist bekannt für seine vielen Felsenburgen wie den Trifels."
+            },
+            {
+                "q": "Was sind die 'Pfälzerwald-Hütten'?",
+                "a": "Ein dichtes Netz von bewirtschafteten Wanderhütten, die für ihre regionale Küche bekannt sind."
+            },
+            {
+                "q": "Welche Gesteinsart prägt die Landschaft?",
+                "a": "Der Buntsandstein mit seinen markanten roten Felsformationen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a különleges a Pfalzi-erdőben?",
+                "a": "A Pfalzi-erdő-Északi-Vogézek határon átnyúló bioszféra-rezervátum része."
+            },
+            {
+                "q": "Sok vár található ott?",
+                "a": "Igen, a Pfalzi-erdő híres számos sziklaváráról, mint például a Trifels."
+            },
+            {
+                "q": "Mik azok a 'Pfalzi-erdő kunyhók'?",
+                "a": "Gyalogos turistaházak sűrű hálózata, amelyek a regionális konyhájukról ismertek."
+            },
+            {
+                "q": "Melyik kőzetfajta határozza meg a tájat?",
+                "a": "A tarka homokkő a jellegzetes vörös sziklaképződményeivel."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este special la Pădurea Palatinatului?",
+                "a": "Face parte din rezervația biosferei transfrontaliere Pădurea Palatinatului-Vosgii de Nord."
+            },
+            {
+                "q": "Există multe castele acolo?",
+                "a": "Da, Pădurea Palatinatului este cunoscută pentru numeroasele sale cetăți pe stâncă, precum Trifels."
+            },
+            {
+                "q": "Ce sunt 'Cabanele din Pădurea Palatinatului'?",
+                "a": "O rețea densă de cabane montane cu servire, cunoscute pentru bucătăria lor regională."
+            },
+            {
+                "q": "Ce tip de rocă definește peisajul?",
+                "a": "Gresia pestriță cu formațiunile sale stâncoase roșii distinctive."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is special about the Palatinate Forest?",
+                "a": "It is part of the cross-border Palatinate Forest-North Vosges Biosphere Reserve."
+            },
+            {
+                "q": "Are there many castles there?",
+                "a": "Yes, the Palatinate Forest is known for its many rock castles such as Trifels."
+            },
+            {
+                "q": "What are the 'Palatinate Forest Huts'?",
+                "a": "A dense network of managed hiking huts known for their regional cuisine."
+            },
+            {
+                "q": "What type of rock characterizes the landscape?",
+                "a": "Bunter sandstone with its prominent red rock formations."
+            }
+        ]
+    },
+    "river-nahe-extra": {
+        "de": [
+            {
+                "q": "Wo mündet die Nahe?",
+                "a": "Bei Bingen am Rhein."
+            },
+            {
+                "q": "Was ist das Besondere an Idar-Oberstein an der Nahe?",
+                "a": "Es ist weltbekannt als Edelsteinstadt."
+            },
+            {
+                "q": "Gibt es Kurorte an der Nahe?",
+                "a": "Ja, z.B. Bad Kreuznach und Bad Münster am Stein-Ebernburg."
+            },
+            {
+                "q": "Wofür ist das Weinbaugebiet Nahe bekannt?",
+                "a": "Für seine große Bodenvielfalt auf engem Raum und elegante Rieslinge."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hol torkollik a Nahe?",
+                "a": "Bingennél a Rajnába."
+            },
+            {
+                "q": "Mi a különleges az Idar-Oberstein-ben a Nahe mentén?",
+                "a": "Világhírű drágakővárosként ismert."
+            },
+            {
+                "q": "Vannak gyógyfürdők a Nahe mentén?",
+                "a": "Igen, pl. Bad Kreuznach és Bad Münster am Stein-Ebernburg."
+            },
+            {
+                "q": "Miről ismert a Nahe borvidék?",
+                "a": "A kis területen belüli nagy talajváltozatosságáról és elegáns rizlingjeiről ismert."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Unde se varsă Nahe?",
+                "a": "La Bingen, în Rin."
+            },
+            {
+                "q": "Ce este special la Idar-Oberstein pe Nahe?",
+                "a": "Este cunoscut la nivel mondial ca oraș al pietrelor prețioase."
+            },
+            {
+                "q": "Există stațiuni balneare pe Nahe?",
+                "a": "Da, de ex. Bad Kreuznach și Bad Münster am Stein-Ebernburg."
+            },
+            {
+                "q": "Pentru ce este cunoscută regiunea viticolă Nahe?",
+                "a": "Pentru marea diversitate a solului pe un spațiu restrâns și Riesling-urile elegante."
+            }
+        ],
+        "en": [
+            {
+                "q": "Where does the Nahe flow into?",
+                "a": "At Bingen into the Rhine."
+            },
+            {
+                "q": "What is special about Idar-Oberstein on the Nahe?",
+                "a": "It is world-famous as a gemstone city."
+            },
+            {
+                "q": "Are there spa towns on the Nahe?",
+                "a": "Yes, e.g., Bad Kreuznach and Bad Münster am Stein-Ebernburg."
+            },
+            {
+                "q": "What is the Nahe wine region known for?",
+                "a": "For its great soil diversity within a small area and elegant Rieslings."
+            }
+        ]
+    },
+    "landmark-deutsches-eck-extra": {
+        "de": [
+            {
+                "q": "Welche Flüsse treffen am Deutschen Eck zusammen?",
+                "a": "Rhein und Mosel."
+            },
+            {
+                "q": "Wen stellt das große Denkmal dar?",
+                "a": "Kaiser Wilhelm I. auf einem Pferd."
+            },
+            {
+                "q": "Warum heißt es 'Deutsches Eck'?",
+                "a": "Nach der Ansiedlung des Deutschen Ordens an dieser Stelle im Jahr 1216."
+            },
+            {
+                "q": "Was ist im Sockel des Denkmals zu sehen?",
+                "a": "Wappen aller deutschen Bundesländer."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mely folyók találkoznak a Deutsches Eck-nél?",
+                "a": "A Rajna és a Mosel."
+            },
+            {
+                "q": "Kit ábrázol a nagy emlékmű?",
+                "a": "I. Vilmos császárt lovon."
+            },
+            {
+                "q": "Miért hívják 'Deutsches Eck'-nek?",
+                "a": "A Német Lovagrend 1216-os itteni letelepedése után kapta a nevét."
+            },
+            {
+                "q": "Mi látható az emlékmű talpazatánál?",
+                "a": "Az összes német szövetségi állam címere."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce râuri se întâlnesc la Colțul German?",
+                "a": "Rinul și Mosela."
+            },
+            {
+                "q": "Pe cine reprezintă marele monument?",
+                "a": "Împăratul Wilhelm I pe cal."
+            },
+            {
+                "q": "De ce se numește 'Colțul German'?",
+                "a": "După așezarea Ordinului Teuton în acest loc în anul 1216."
+            },
+            {
+                "q": "Ce se poate vedea la baza monumentului?",
+                "a": "Stemele tuturor landurilor germane."
+            }
+        ],
+        "en": [
+            {
+                "q": "Which rivers meet at the Deutsches Eck?",
+                "a": "The Rhine and the Moselle."
+            },
+            {
+                "q": "Who does the large monument represent?",
+                "a": "Emperor Wilhelm I on a horse."
+            },
+            {
+                "q": "Why is it called 'Deutsches Eck'?",
+                "a": "After the settlement of the Teutonic Order at this location in 1216."
+            },
+            {
+                "q": "What can be seen in the base of the monument?",
+                "a": "Coats of arms of all German federal states."
+            }
+        ]
+    },
+    "mnt-eifel-rp-extra": {
+        "de": [
+            {
+                "q": "Was ist ein 'Maar'?",
+                "a": "Ein durch Wasserdampfexplosionen entstandener Vulkankrater, der oft mit Wasser gefüllt ist."
+            },
+            {
+                "q": "Gibt es in der Eifel noch aktive Vulkane?",
+                "a": "Die Vulkane gelten als schlafend, aber nicht als erloschen."
+            },
+            {
+                "q": "Was ist die Hohe Acht?",
+                "a": "Mit 747 m der höchste Berg der Eifel."
+            },
+            {
+                "q": "Was ist das 'Dahner Felsenland'?",
+                "a": "Eine Region in der Südpfalz (nicht Eifel), bekannt für bizarre Sandsteinfelsen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi az a 'Maar'?",
+                "a": "Vízgőzrobbanás által keletkezett vulkáni kráter, amely gyakran vízzel telített."
+            },
+            {
+                "q": "Vannak még aktív vulkánok az Eifelben?",
+                "a": "A vulkánok alvónak számítanak, de nem kialudtnak."
+            },
+            {
+                "q": "Mi a Hohe Acht?",
+                "a": "747 méterrel az Eifel legmagasabb hegye."
+            },
+            {
+                "q": "Mi az a 'Dahner Felsenland'?",
+                "a": "Egy régió Dél-Pfalzban (nem az Eifelben), amely bizarr homokkőszikláiról ismert."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este un 'Maar'?",
+                "a": "Un crater vulcanic format prin explozii de vapori de apă, care este adesea umplut cu apă."
+            },
+            {
+                "q": "Mai există vulcani activi în Eifel?",
+                "a": "Vulcanii sunt considerați adormiți, dar nu stinși."
+            },
+            {
+                "q": "Ce este Hohe Acht?",
+                "a": "Cea mai înaltă cotă din Eifel, având 747 m."
+            },
+            {
+                "q": "Ce este 'Dahner Felsenland'?",
+                "a": "O regiune din Palatinatul de Sud (nu în Eifel), cunoscută pentru stâncile bizare de gresie."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is a 'Maar'?",
+                "a": "A volcanic crater formed by steam explosions, often filled with water."
+            },
+            {
+                "q": "Are there still active volcanoes in the Eifel?",
+                "a": "The volcanoes are considered dormant, but not extinct."
+            },
+            {
+                "q": "What is the Hohe Acht?",
+                "a": "At 747 m, the highest mountain in the Eifel."
+            },
+            {
+                "q": "What is the 'Dahner Felsenland'?",
+                "a": "A region in the Southern Palatinate (not Eifel), known for bizarre sandstone rocks."
+            }
+        ]
+    },
+    "lake-laacher-see-extra": {
+        "de": [
+            {
+                "q": "Ist der Laacher See ein echter Kratersee?",
+                "a": "Er ist eine wassergefüllte Caldera, die nach einem gewaltigen Vulkanausbruch eingebrochen ist."
+            },
+            {
+                "q": "Was sind die 'Mofetten' am Ostufer?",
+                "a": "Aufsteigende CO₂-Blasen im Wasser, die auf vulkanische Aktivität hinweisen."
+            },
+            {
+                "q": "Was ist Maria Laach?",
+                "a": "Eine berühmte hochmittelalterliche Benediktinerabtei direkt am See."
+            },
+            {
+                "q": "Kann man im Laacher See schwimmen?",
+                "a": "Ja, am Campingplatz gibt es eine ausgewiesene Badestelle."
+            }
+        ],
+        "hu": [
+            {
+                "q": "A Laacher See valódi krátertó?",
+                "a": "Ez egy vízzel telt kaldera, amely egy hatalmas vulkánkitörés után omlott be."
+            },
+            {
+                "q": "Mik azok a 'mofetták' a keleti parton?",
+                "a": "A vízben feláramló CO₂ buborékok, amelyek vulkáni aktivitásra utalnak."
+            },
+            {
+                "q": "Mi az a Maria Laach?",
+                "a": "Egy híres középkori bencés apátság közvetlenül a tó partján."
+            },
+            {
+                "q": "Lehet úszni a Laacher See-ben?",
+                "a": "Igen, a kempingnél van egy kijelölt fürdőhely."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Este Lacul Laacher un lac de crater adevărat?",
+                "a": "Este o calderă umplută cu apă, care s-a prăbușit după o erupție vulcanică violentă."
+            },
+            {
+                "q": "Ce sunt 'mofetele' de pe malul estic?",
+                "a": "Bule de CO₂ care se ridică în apă, indicând activitate vulcanică."
+            },
+            {
+                "q": "Ce este Maria Laach?",
+                "a": "O faimoasă abație benedictină din Evul Mediu clasic, situată chiar pe malul lacului."
+            },
+            {
+                "q": "Se poate înota în Lacul Laacher?",
+                "a": "Da, există un loc de scăldat amenajat la locul de camping."
+            }
+        ],
+        "en": [
+            {
+                "q": "Is Laacher See a true crater lake?",
+                "a": "It is a water-filled caldera that collapsed after a massive volcanic eruption."
+            },
+            {
+                "q": "What are the 'mofettes' on the east bank?",
+                "a": "Rising CO₂ bubbles in the water that indicate volcanic activity."
+            },
+            {
+                "q": "What is Maria Laach?",
+                "a": "A famous high medieval Benedictine abbey located right on the lake."
+            },
+            {
+                "q": "Can you swim in Laacher See?",
+                "a": "Yes, there is a designated swimming area at the campsite."
+            }
+        ]
+    },
+    "hist-speyer-dom-extra": {
+        "de": [
+            {
+                "q": "Was ist das Besondere an der Krypta des Speyerer Doms?",
+                "a": "Sie ist die größte romanische Hallenkrypta Europas und Grablege deutscher Kaiser."
+            },
+            {
+                "q": "Was bedeutet 'Kaiserdom'?",
+                "a": "Dass der Bau von einem Kaiser (Konrad II.) gestiftet und als Grablege geplant wurde."
+            },
+            {
+                "q": "Was ist der 'Domnapf'?",
+                "a": "Eine große Steinschale vor dem Dom, die früher bei besonderen Anlässen mit Wein gefüllt wurde."
+            },
+            {
+                "q": "Aus welchem Material besteht der Dom?",
+                "a": "Hauptsächlich aus rotem Sandstein."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a különleges a speyeri dóm kriptájában?",
+                "a": "Ez Európa legnagyobb román stílusú csarnokkriptája és német császárok temetkezési helye."
+            },
+            {
+                "q": "Mit jelent a 'Kaiserdom'?",
+                "a": "Azt, hogy az építést egy császár (II. Konrád) alapította és temetkezési helynek szánta."
+            },
+            {
+                "q": "Mi az a 'Domnapf'?",
+                "a": "Egy nagy kőtál a dóm előtt, amelyet korábban különleges alkalmakkor borral töltöttek meg."
+            },
+            {
+                "q": "Milyen anyagból készült a dóm?",
+                "a": "Főként vörös homokkőből."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este special la cripta Catedralei din Speyer?",
+                "a": "Este cea mai mare criptă-hală romanică din Europa și loc de înmormântare al împăraților germani."
+            },
+            {
+                "q": "Ce înseamnă 'Catedrală Imperială'?",
+                "a": "Că edificiul a fost ctitorit de un împărat (Conrad al II-lea) și planificat ca loc de înmormântare."
+            },
+            {
+                "q": "Ce este 'Domnapf'?",
+                "a": "Un mare vas de piatră în fața catedralei, care odinioară era umplut cu vin la ocazii speciale."
+            },
+            {
+                "q": "Din ce material este construită catedrala?",
+                "a": "În principal din gresie roșie."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is special about the crypt of Speyer Cathedral?",
+                "a": "It is the largest Romanesque hall crypt in Europe and the burial site of German emperors."
+            },
+            {
+                "q": "What does 'Imperial Cathedral' mean?",
+                "a": "That the building was endowed by an emperor (Conrad II) and planned as a burial site."
+            },
+            {
+                "q": "What is the 'Domnapf'?",
+                "a": "A large stone bowl in front of the cathedral that used to be filled with wine on special occasions."
+            },
+            {
+                "q": "What material is the cathedral made of?",
+                "a": "Primarily from red sandstone."
+            }
+        ]
+    },
+    "landmark-loreley-rp-extra": {
+        "de": [
+            {
+                "q": "Wer ist Loreley?",
+                "a": "Eine Sagengestalt, die Schiffer mit ihrem Gesang ins Unglück stürzen soll."
+            },
+            {
+                "q": "Gibt es ein Denkmal der Loreley?",
+                "a": "Ja, eine Bronzestatue auf der Hafenmole von Sankt Goarshausen."
+            },
+            {
+                "q": "Was ist die Freilichtbühne Loreley?",
+                "a": "Ein bekannter Veranstaltungsort für Rockkonzerte und Festivals auf dem Loreley-Plateau."
+            },
+            {
+                "q": "Warum ist der Rhein hier so gefährlich?",
+                "a": "Wegen der extremen Enge und der starken Strömung an dieser Stelle."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Ki az a Loreley?",
+                "a": "Egy mondaalak, aki állítólag énekével szerencsétlenségbe sodorta a hajósokat."
+            },
+            {
+                "q": "Van emlékműve Loreley-nek?",
+                "a": "Igen, egy bronzszobor a Sankt Goarshausen-i kikötőgátnál."
+            },
+            {
+                "q": "Mi a Loreley szabadtéri színpad?",
+                "a": "Egy ismert rendezvényhelyszín rockkoncertekhez és fesztiválokhoz a Loreley-fennsíkon."
+            },
+            {
+                "q": "Miért olyan veszélyes itt a Rajna?",
+                "a": "A rendkívüli szűkület és az erős sodrás miatt ezen a ponton."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cine este Loreley?",
+                "a": "O figură legendară care, prin cântecul ei, ar fi atras marinarii în nenorocire."
+            },
+            {
+                "q": "Există un monument al Loreley?",
+                "a": "Da, o statuie de bronz pe digul portului din Sankt Goarshausen."
+            },
+            {
+                "q": "Ce este scena în aer liber Loreley?",
+                "a": "Un loc cunoscut pentru concerte rock și festivaluri pe platoul Loreley."
+            },
+            {
+                "q": "De ce este Rinul atât de periculos aici?",
+                "a": "Din cauza îngustării extreme și a curentului puternic în acest loc."
+            }
+        ],
+        "en": [
+            {
+                "q": "Who is Loreley?",
+                "a": "A legendary figure said to lure sailors to their doom with her song."
+            },
+            {
+                "q": "Is there a monument to Loreley?",
+                "a": "Yes, a bronze statue on the harbor mole of Sankt Goarshausen."
+            },
+            {
+                "q": "What is the Loreley Open-Air Stage?",
+                "a": "A well-known venue for rock concerts and festivals on the Loreley plateau."
+            },
+            {
+                "q": "Why is the Rhine so dangerous here?",
+                "a": "Because of the extreme narrowness and the strong current at this point."
+            }
+        ]
+    },
+    "city-worms-extra": {
+        "de": [
+            {
+                "q": "Was ist das Lutherdenkmal in Worms?",
+                "a": "Das größte Reformationsdenkmal der Welt."
+            },
+            {
+                "q": "Was geschah auf dem Reichstag zu Worms 1521?",
+                "a": "Martin Luther weigerte sich, seine Schriften zu widerrufen."
+            },
+            {
+                "q": "Welche Rolle spielt Worms im Nibelungenlied?",
+                "a": "Es ist der Hauptschauplatz der Sage und Residenz der burgundischen Könige."
+            },
+            {
+                "q": "Was sind die Nibelungenfestspiele?",
+                "a": "Jährliche Theateraufführungen vor dem Wormser Dom, die die Sage thematisieren."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a luther-emlékmű Wormsban?",
+                "a": "A világ legnagyobb reformációs emlékműve."
+            },
+            {
+                "q": "Mi történt az 1521-es worms-i birodalmi gyűlésen?",
+                "a": "Martin Luther megtagadta tanai visszavonását."
+            },
+            {
+                "q": "Milyen szerepet játszik Worms a Nibelung-énekben?",
+                "a": "A monda fő helyszíne és a burgund királyok rezidenciája."
+            },
+            {
+                "q": "Mik azok a Nibelung-játékok?",
+                "a": "Évente megrendezett színházi előadások a worms-i dóm előtt, amelyek a mondát dolgozzák fel."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este monumentul lui Luther din Worms?",
+                "a": "Cel mai mare monument al Reformei din lume."
+            },
+            {
+                "q": "Ce s-a întâmplat la Dieta de la Worms în 1521?",
+                "a": "Martin Luther a refuzat să-și retracteze scrierile."
+            },
+            {
+                "q": "Ce rol joacă Worms în Cântecul Nibelungilor?",
+                "a": "Este locul principal de desfășurare a legendei și reședința regilor burgunzi."
+            },
+            {
+                "q": "Ce este Festivalul Nibelungilor?",
+                "a": "Reprezentații teatrale anuale în fața Catedralei din Worms, care au ca temă legenda."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the Luther Monument in Worms?",
+                "a": "The largest Reformation monument in the world."
+            },
+            {
+                "q": "What happened at the Diet of Worms in 1521?",
+                "a": "Martin Luther refused to recant his writings."
+            },
+            {
+                "q": "What role does Worms play in the Nibelungenlied?",
+                "a": "It is the main setting of the legend and the residence of the Burgundian kings."
+            },
+            {
+                "q": "What are the Nibelung Festivals?",
+                "a": "Annual theater performances in front of Worms Cathedral that theme the legend."
+            }
+        ]
+    },
+    "landmark-cochem-burg-extra": {
+        "de": [
+            {
+                "q": "Ist die Reichsburg Cochem original mittelalterlich?",
+                "a": "Sie wurde im 17. Jahrhundert zerstört und im 19. Jahrhundert im neugotischen Stil wiederaufgebaut."
+            },
+            {
+                "q": "Was kann man bei einer Burgführung sehen?",
+                "a": "Prachtvolle Räume wie den Rittersaal, das Speisezimmer und die Kemenate."
+            },
+            {
+                "q": "Gibt es dort Ritteressen?",
+                "a": "Ja, in den Burgkellern werden regelmäßig rustikale Rittermahle angeboten."
+            },
+            {
+                "q": "Wie hoch liegt die Burg über der Mosel?",
+                "a": "Etwa 100 Meter auf einem markanten Felskegel."
+            }
+        ],
+        "hu": [
+            {
+                "q": "A Cochemi birodalmi vár eredeti középkori?",
+                "a": "A 17. században elpusztult, majd a 19. században neogótikus stílusban építették újjá."
+            },
+            {
+                "q": "Mit lehet látni egy várvezetés során?",
+                "a": "Pompás termeket, mint a lovagterem, az ebédlő és a lakószoba (Kemenate)."
+            },
+            {
+                "q": "Vannak ott lovagi vacsorák?",
+                "a": "Igen, a várpincékben rendszeresen tartanak rusztikus lovagi lakomákat."
+            },
+            {
+                "q": "Milyen magasan fekszik a vár a Mosel felett?",
+                "a": "Körülbelül 100 méter magasan egy jellegzetes sziklakúpon."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Este Castelul Imperial Cochem original medieval?",
+                "a": "A fost distrus în secolul al XVII-lea și reconstruit în stil neogotic în secolul al XIX-lea."
+            },
+            {
+                "q": "Ce se poate vedea în cadrul unui tur al castelului?",
+                "a": "Încăperi splendide precum sala cavalerilor, sufrageria și iatacul."
+            },
+            {
+                "q": "Există ospețe cavalerești acolo?",
+                "a": "Da, în pivnițele castelului sunt oferite regulat ospețe cavalerești rustice."
+            },
+            {
+                "q": "La ce înălțime se află castelul deasupra Moselei?",
+                "a": "La aproximativ 100 de metri, pe un con stâncos proeminent."
+            }
+        ],
+        "en": [
+            {
+                "q": "Is Cochem Imperial Castle originally medieval?",
+                "a": "It was destroyed in the 17th century and rebuilt in Neo-Gothic style in the 19th century."
+            },
+            {
+                "q": "What can be seen during a castle tour?",
+                "a": "Magnificent rooms such as the knights' hall, the dining room, and the bower."
+            },
+            {
+                "q": "Are there knight's banquets there?",
+                "a": "Yes, rustic knight's banquets are regularly offered in the castle cellars."
+            },
+            {
+                "q": "How high is the castle above the Moselle?",
+                "a": "About 100 meters on a prominent rocky cone."
+            }
+        ]
+    },
+    "hist-worms-judenviertel-extra": {
+        "de": [
+            {
+                "q": "Was ist der 'Heilige Sand'?",
+                "a": "Der jüdische Friedhof in Worms, der älteste in situ erhaltene jüdische Friedhof Europas."
+            },
+            {
+                "q": "Wer war Rashi?",
+                "a": "Ein bedeutender jüdischer Gelehrter des Mittelalters, der in Worms wirkte."
+            },
+            {
+                "q": "Was bedeutet 'SchUM'?",
+                "a": "Es ist ein Akronym für die hebräischen Namen der Städte Speyer, Worms und Mainz."
+            },
+            {
+                "q": "Kann man die Synagoge besichtigen?",
+                "a": "Ja, die wiederaufgebaute Synagoge und das jüdische Museum im Raschi-Haus sind öffentlich zugänglich."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi az a 'Heiliger Sand'?",
+                "a": "A worms-i zsidó temető, Európa legrégebbi, eredeti helyén megőrzött zsidó temetője."
+            },
+            {
+                "q": "Ki volt Rashi?",
+                "a": "Egy jelentős középkori zsidó tudós, aki Wormsban tevékenykedett."
+            },
+            {
+                "q": "Mit jelent a 'SchUM'?",
+                "a": "Speyer, Worms és Mainz városok héber neveinek mozaikszava."
+            },
+            {
+                "q": "Látogatható a zsinagóga?",
+                "a": "Igen, az újjáépített zsinagóga és a Raschi-házban található zsidó múzeum látogatható."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este 'Heiliger Sand'?",
+                "a": "Cimitirul evreiesc din Worms, cel mai vechi cimitir evreiesc păstrat in situ din Europa."
+            },
+            {
+                "q": "Cine a fost Rashi?",
+                "a": "Un important învățat evreu din Evul Mediu, care a activat în Worms."
+            },
+            {
+                "q": "Ce înseamnă 'SchUM'?",
+                "a": "Este un acronim pentru numele ebraice ale orașelor Speyer, Worms și Mainz."
+            },
+            {
+                "q": "Se poate vizita sinagoga?",
+                "a": "Da, sinagoga reconstruită și muzeul evreiesc din Casa Rashi sunt deschise publicului."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the 'Heiliger Sand'?",
+                "a": "The Jewish cemetery in Worms, the oldest preserved in situ Jewish cemetery in Europe."
+            },
+            {
+                "q": "Who was Rashi?",
+                "a": "A significant medieval Jewish scholar who worked in Worms."
+            },
+            {
+                "q": "What does 'SchUM' mean?",
+                "a": "It is an acronym for the Hebrew names of the cities of Speyer, Worms, and Mainz."
+            },
+            {
+                "q": "Can the synagogue be visited?",
+                "a": "Yes, the rebuilt synagogue and the Jewish museum in the Rashi House are open to the public."
+            }
+        ]
+    },
+    "landmark-rheinstein-extra": {
+        "de": [
+            {
+                "q": "Wann wurde Burg Rheinstein erbaut?",
+                "a": "Im 14. Jahrhundert als Zollburg."
+            },
+            {
+                "q": "Was ist die 'Burgromantik'?",
+                "a": "Ein kulturelles Phänomen des 19. Jahrhunderts, das zum Wiederaufbau vieler Rheinburgen führte."
+            },
+            {
+                "q": "Was kann man auf der Burg besichtigen?",
+                "a": "Historische Möbel, Rüstungen und Wandmalereien sowie die Burgkapelle."
+            },
+            {
+                "q": "Gibt es dort Gärten?",
+                "a": "Ja, den sogenannten Burgundergarten mit einer Rebe, die über 100 Jahre alt ist."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mikor épült a Rheinstein-vár?",
+                "a": "A 14. században, vámvárként."
+            },
+            {
+                "q": "Mi az a 'várromantika'?",
+                "a": "A 19. század egyik kulturális jelensége, amely számos rajnai vár újjáépítéséhez vezetett."
+            },
+            {
+                "q": "Mit lehet megtekinteni a várban?",
+                "a": "Történelmi bútorokat, páncélokat és falfestményeket, valamint a várkápolnát."
+            },
+            {
+                "q": "Vannak ott kertek?",
+                "a": "Igen, az úgynevezett Burgundi-kertet egy több mint 100 éves szőlőtőkével."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Când a fost construit Castelul Rheinstein?",
+                "a": "În secolul al XIV-lea, ca cetate vamală."
+            },
+            {
+                "q": "Ce este 'romantismul castelelor'?",
+                "a": "Un fenomen cultural din secolul al XIX-lea care a dus la reconstrucția multor castele de pe Rin."
+            },
+            {
+                "q": "Ce se poate vizita la castel?",
+                "a": "Mobilier istoric, armuri și picturi murale, precum și capela castelului."
+            },
+            {
+                "q": "Există grădini acolo?",
+                "a": "Da, așa-numita Grădină Burgundă, cu o viță de vie veche de peste 100 de ani."
+            }
+        ],
+        "en": [
+            {
+                "q": "When was Rheinstein Castle built?",
+                "a": "In the 14th century as a toll castle."
+            },
+            {
+                "q": "What is 'castle romanticism'?",
+                "a": "A 19th-century cultural phenomenon that led to the reconstruction of many Rhine castles."
+            },
+            {
+                "q": "What can be visited at the castle?",
+                "a": "Historic furniture, armor, and wall paintings, as well as the castle chapel."
+            },
+            {
+                "q": "Are there gardens there?",
+                "a": "Yes, the so-called Burgundy Garden featuring a grapevine that is over 100 years old."
+            }
+        ]
+    }
+}

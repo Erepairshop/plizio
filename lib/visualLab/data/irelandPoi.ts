@@ -162,7 +162,7 @@ export const irelandCities: POI[] = [
     image: "/geo-images/ireland/city-limerick.webp",
   },
   {
-    id: "city-belfast",
+    id: "ie-belfast",
     type: "city",
     parent: "ireland",
     coords: [-5.9301, 54.5973],

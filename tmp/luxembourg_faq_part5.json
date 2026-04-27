@@ -1,0 +1,236 @@
+{
+  "historical-berg-castle": {
+    "de": [
+      { "q": "Was ist Schloss Berg?", "a": "Es ist die Hauptresidenz des Großherzogs von Luxemburg." },
+      { "q": "Wo befindet sich Schloss Berg?", "a": "In Colmar-Berg, im Zentrum des Landes." },
+      { "q": "Kann man das Schloss besichtigen?", "a": "Nein, da es die Privatresidenz des Großherzogs ist, ist es normalerweise nicht für die Öffentlichkeit zugänglich." },
+      { "q": "Wann wurde das heutige Schloss erbaut?", "a": "Das heutige Gebäude wurde zwischen 1907 und 1911 errichtet." }
+    ],
+    "hu": [
+      { "q": "Mi az a Berg-kastély?", "a": "Ez a luxemburgi nagyherceg fő rezidenciája." },
+      { "q": "Hol található a Berg-kastély?", "a": "Colmar-Bergben, az ország közepén." },
+      { "q": "Látogatható a kastély?", "a": "Nem, mivel a nagyherceg magánrezidenciája, általában nem nyitott a látogatók előtt." },
+      { "q": "Mikor épült a mai kastély?", "a": "A jelenlegi épületet 1907 és 1911 között emelték." }
+    ],
+    "ro": [
+      { "q": "Ce este castelul Berg?", "a": "Este reședința principală a Marelui Duce de Luxemburg." },
+      { "q": "Unde se află castelul Berg?", "a": "În Colmar-Berg, în centrul țării." },
+      { "q": "Se poate vizita castelul?", "a": "Nu, fiind reședința privată a Marelui Duce, nu este de obicei deschis publicului." },
+      { "q": "Când a fost construit castelul actual?", "a": "Clădirea actuală a fost construită între anii 1907 și 1911." }
+    ],
+    "en": [
+      { "q": "What is Berg Castle?", "a": "It is the principal residence of the Grand Duke of Luxembourg." },
+      { "q": "Where is Berg Castle located?", "a": "In Colmar-Berg, in the center of the country." },
+      { "q": "Can you visit the castle?", "a": "No, as it is the private residence of the Grand Duke, it is not typically open to the public." },
+      { "q": "When was the current castle built?", "a": "The current building was erected between 1907 and 1911." }
+    ]
+  },
+  "historical-schengen-monument": {
+    "de": [
+      { "q": "Was symbolisiert das Schengener Denkmal?", "a": "Es erinnert an die Unterzeichnung des Schengener Abkommens im Jahr 1985." },
+      { "q": "Woraus besteht das Denkmal?", "a": "Es umfasst drei Stahlstelen, die die Gründungsstaaten symbolisieren, sowie Sterne für die Mitgliedstaaten." },
+      { "q": "Wo genau steht das Denkmal?", "a": "An der Mosel-Esplanade in Schengen, nahe dem Europäischen Museum." },
+      { "q": "Gibt es ein Stück der Berliner Mauer in Schengen?", "a": "Ja, direkt beim Denkmal ist ein Originalsegment der Berliner Mauer als Symbol für die Überwindung von Grenzen aufgestellt." }
+    ],
+    "hu": [
+      { "q": "Mit jelképez a schengeni emlékmű?", "a": "Az 1985-ös schengeni egyezmény aláírásának állít emléket." },
+      { "q": "Miből áll az emlékmű?", "a": "Három acélsztéléből, amelyek az alapító államokat jelképezik, valamint a tagállamokat jelölő csillagokból." },
+      { "q": "Pontosan hol áll az emlékmű?", "a": "A schengeni Moselle-sétányon, az Európai Múzeum közelében." },
+      { "q": "Van-e darab a berlini falból Schengenben?", "a": "Igen, közvetlenül az emlékmű mellett található a berlini fal egy eredeti darabja, a határok lebontásának szimbólumaként." }
+    ],
+    "ro": [
+      { "q": "Ce simbolizează monumentul de la Schengen?", "a": "Comemorează semnarea Acordului Schengen în anul 1985." },
+      { "q": "Din ce este compus monumentul?", "a": "Include trei stele de oțel care simbolizează statele fondatoare, precum și stele pentru statele membre." },
+      { "q": "Unde se află exact monumentul?", "a": "Pe esplanada de pe malul Moselei din Schengen, lângă Muzeul European." },
+      { "q": "Există o bucată din Zidul Berlinului la Schengen?", "a": "Da, chiar lângă monument este expus un segment original din Zidul Berlinului ca simbol al depășirii frontierelor." }
+    ],
+    "en": [
+      { "q": "What does the Schengen Monument symbolize?", "a": "It commemorates the signing of the Schengen Agreement in 1985." },
+      { "q": "What does the monument consist of?", "a": "It includes three steel steles symbolizing the founding states, along with stars for the member states." },
+      { "q": "Where exactly is the monument located?", "a": "On the Moselle esplanade in Schengen, near the European Museum." },
+      { "q": "Is there a piece of the Berlin Wall in Schengen?", "a": "Yes, right by the monument, an original segment of the Berlin Wall is displayed as a symbol of overcoming borders." }
+    ]
+  },
+  "landmark-st-willibrord-basilica": {
+    "de": [
+      { "q": "Warum ist die St. Willibrord Basilika so bedeutend?", "a": "Sie beherbergt das Grab des Heiligen Willibrord, des Apostels der Benelux-Länder." },
+      { "q": "In welcher Stadt befindet sich die Basilika?", "a": "In Echternach, der ältesten Stadt Luxemburgs." },
+      { "q": "Welche architektonischen Stile findet man in der Basilika?", "a": "Sie ist primär romanisch, hat aber eine Krypta mit karolingischen Elementen." },
+      { "q": "Findet dort die Springprozession statt?", "a": "Die Prozession endet traditionell an der Basilika, wo die Pilger am Grab des Heiligen vorbeiziehen." }
+    ],
+    "hu": [
+      { "q": "Miért olyan jelentős a Szent Willibrord bazilika?", "a": "Itt található Szent Willibrordnak, a Benelux államok apostolának a sírja." },
+      { "q": "Melyik városban található a bazilika?", "a": "Echternachban, Luxemburg legrégebbi városában." },
+      { "q": "Milyen építészeti stílusok jellemzik a bazilikát?", "a": "Elsősorban román stílusú, de kriptája karoling elemeket is őriz." },
+      { "q": "Ott tartják a szökőkörmenetet?", "a": "A körmenet hagyományosan a bazilikánál ér véget, ahol a zarándokok elvonulnak a szent sírja előtt." }
+    ],
+    "ro": [
+      { "q": "De ce este atât de importantă bazilica Sfântul Willibrord?", "a": "Găzduiește mormântul Sfântului Willibrord, apostolul țărilor Benelux." },
+      { "q": "În ce oraș se află bazilica?", "a": "În Echternach, cel mai vechi oraș din Luxemburg." },
+      { "q": "Ce stiluri arhitecturale se regăsesc în bazilică?", "a": "Este în principal romanică, dar are o criptă cu elemente carolingiene." },
+      { "q": "Acolo are loc Procesiunea Dansantă?", "a": "Procesiunea se termină tradițional la bazilică, unde pelerinii trec pe lângă mormântul sfântului." }
+    ],
+    "en": [
+      { "q": "Why is the St. Willibrord Basilica so significant?", "a": "It houses the tomb of Saint Willibrord, the apostle of the Benelux countries." },
+      { "q": "In which city is the basilica located?", "a": "In Echternach, the oldest town in Luxembourg." },
+      { "q": "What architectural styles can be found in the basilica?", "a": "It is primarily Romanesque but has a crypt with Carolingian elements." },
+      { "q": "Does the Dancing Procession take place there?", "a": "The procession traditionally ends at the basilica, where pilgrims pass by the saint's tomb." }
+    ]
+  },
+  "lake-weiswampach": {
+    "de": [
+      { "q": "Was bieten die Weiswampacher Seen?", "a": "Zwei künstliche Seen für Wassersport, Angeln und Erholung." },
+      { "q": "Kann man in Weiswampach campen?", "a": "Ja, es gibt einen großen, gut ausgestatteten Campingplatz direkt an den Seen." },
+      { "q": "Welche sportlichen Aktivitäten sind möglich?", "a": "Windsurfen, Tretbootfahren und Wandern rund um die Seen." },
+      { "q": "Ist der Ort für Grenztourismus bekannt?", "a": "Ja, aufgrund der Nähe zu Belgien und Deutschland ist es ein beliebtes Ziel zum Einkaufen und für Kurztrips." }
+    ],
+    "hu": [
+      { "q": "Mit kínálnak a weiswampachi tavak?", "a": "Két mesterséges tavat vízi sportokhoz, horgászathoz és kikapcsolódáshoz." },
+      { "q": "Lehet-e kempingezni Weiswampachban?", "a": "Igen, egy nagy, jól felszerelt kemping található közvetlenül a tavak mellett." },
+      { "q": "Milyen sporttevékenységekre van lehetőség?", "a": "Szörfözés, vízibiciklizés és túrázás a tavak körül." },
+      { "q": "Ismert-e a hely a határmenti turizmusról?", "a": "Igen, a belga és német határ közelsége miatt népszerű vásárlási és kirándulóhely." }
+    ],
+    "ro": [
+      { "q": "Ce oferă lacurile din Weiswampach?", "a": "Două lacuri artificiale pentru sporturi nautice, pescuit și recreere." },
+      { "q": "Se poate campa la Weiswampach?", "a": "Da, există un camping mare și bine echipat chiar lângă lacuri." },
+      { "q": "Ce activități sportive sunt posibile?", "a": "Windsurfing, hidrobiciclete și drumeții în jurul lacurilor." },
+      { "q": "Este localitatea cunoscută pentru turismul de frontieră?", "a": "Da, datorită proximității de Belgia și Germania, este o destinație populară pentru cumpărături și excursii scurte." }
+    ],
+    "en": [
+      { "q": "What do the Weiswampach lakes offer?", "a": "Two artificial lakes for water sports, fishing, and recreation." },
+      { "q": "Can you go camping in Weiswampach?", "a": "Yes, there is a large, well-equipped campsite right by the lakes." },
+      { "q": "What sporting activities are possible?", "a": "Windsurfing, paddle boating, and hiking around the lakes." },
+      { "q": "Is the place known for cross-border tourism?", "a": "Yes, due to its proximity to Belgium and Germany, it is a popular destination for shopping and day trips." }
+    ]
+  },
+  "river-moselle": {
+    "de": [
+      { "q": "Welche Rolle spielt die Mosel für Luxemburg?", "a": "Sie ist der wichtigste Fluss für den Weinbau und bildet die Grenze zu Deutschland." },
+      { "q": "Welche Weinsorten wachsen an der Mosel?", "a": "Vor allem Riesling, Pinot Gris, Auxerrois und Elbling." },
+      { "q": "Was ist die 'Route du Vin'?", "a": "Eine touristische Straße, die entlang der Mosel durch die malerischen Winzerdörfer führt." },
+      { "q": "Kann man auf der Mosel Schifffahrten machen?", "a": "Ja, es gibt viele Passagierschiffe für Rundfahrten, besonders ab Remich und Grevenmacher." }
+    ],
+    "hu": [
+      { "q": "Milyen szerepet játszik a Moselle folyó Luxemburg életében?", "a": "Ez a legfontosabb folyó a borászat szempontjából, és határt képez Németországgal." },
+      { "q": "Milyen szőlőfajták teremnek a Moselle mentén?", "a": "Főleg rizling, szürkebarát, auxerrois és elbling." },
+      { "q": "Mi az a 'Route du Vin'?", "a": "Egy turisztikai útvonal, amely a Moselle mentén, festői bortermelő falvakon vezet keresztül." },
+      { "q": "Lehet-e hajókázni a Moselle-en?", "a": "Igen, számos sétahajó indul, különösen Remichből és Grevenmacherből." }
+    ],
+    "ro": [
+      { "q": "Ce rol joacă Mosela pentru Luxemburg?", "a": "Este cel mai important râu pentru viticultură și formează granița cu Germania." },
+      { "q": "Ce soiuri de vin cresc pe malul Moselei?", "a": "În special Riesling, Pinot Gris, Auxerrois și Elbling." },
+      { "q": "Ce este 'Route du Vin'?", "a": "Un drum turistic care trece pe lângă Mosela prin sate viticole pitorești." },
+      { "q": "Se pot face croaziere pe Mosela?", "a": "Da, există multe nave de pasageri pentru croaziere, în special din Remich și Grevenmacher." }
+    ],
+    "en": [
+      { "q": "What role does the Moselle play for Luxembourg?", "a": "It is the most important river for viticulture and forms the border with Germany." },
+      { "q": "What wine varieties grow along the Moselle?", "a": "Mainly Riesling, Pinot Gris, Auxerrois, and Elbling." },
+      { "q": "What is the 'Route du Vin'?", "a": "A tourist route that leads along the Moselle through picturesque wine villages." },
+      { "q": "Can you take boat trips on the Moselle?", "a": "Yes, there are many passenger ships for cruises, especially from Remich and Grevenmacher." }
+    ]
+  },
+  "river-sure": {
+    "de": [
+      { "q": "Wo entspringt die Sauer?", "a": "In den belgischen Ardennen, bevor sie durch Luxemburg fließt." },
+      { "q": "Welcher große Stausee liegt an der Sauer?", "a": "Der Obersauer-Stausee bei Esch-Sauer." },
+      { "q": "In welchen Fluss mündet die Sauer?", "a": "Sie mündet bei Wasserbillig in die Mosel." },
+      { "q": "Was ist die Besonderheit der Sauer im Osten?", "a": "Dort bildet sie über weite Strecken die natürliche Grenze zu Deutschland." }
+    ],
+    "hu": [
+      { "q": "Hol ered a Sauer folyó?", "a": "A belga Ardennekben, mielőtt átfolyna Luxemburgon." },
+      { "q": "Melyik nagy víztározó található a Sauer mentén?", "a": "A Felső-Sûre víztározó Esch-sur-Sûre közelében." },
+      { "q": "Melyik folyóba torkollik a Sauer?", "a": "Wasserbillignél torkollik a Moselle folyóba." },
+      { "q": "Mi a Sauer folyó különlegessége keleten?", "a": "Hosszú szakaszon természetes határt képez Németországgal." }
+    ],
+    "ro": [
+      { "q": "Unde izvorăște râul Sauer?", "a": "În Ardenii belgieni, înainte de a curge prin Luxemburg." },
+      { "q": "Ce lac de acumulare mare se află pe râul Sauer?", "a": "Lacul de acumulare Upper Sûre, lângă Esch-sur-Sûre." },
+      { "q": "În ce râu se varsă Sauer?", "a": "Se varsă în Mosela la Wasserbillig." },
+      { "q": "Care este particularitatea râului Sauer în est?", "a": "Acolo formează pe distanțe lungi granița naturală cu Germania." }
+    ],
+    "en": [
+      { "q": "Where does the Sûre River originate?", "a": "In the Belgian Ardennes, before flowing through Luxembourg." },
+      { "q": "Which large reservoir is located on the Sûre?", "a": "The Upper Sûre Lake near Esch-sur-Sûre." },
+      { "q": "Into which river does the Sûre flow?", "a": "It flows into the Moselle at Wasserbillig." },
+      { "q": "What is special about the Sûre River in the east?", "a": "There it forms the natural border with Germany over long distances." }
+    ]
+  },
+  "city-mondorf-les-bains": {
+    "de": [
+      { "q": "Wofür ist Mondorf-les-Bains bekannt?", "a": "Für seinen Thermalbad-Komplex und das einzige Casino des Landes." },
+      { "q": "Was bietet der Park von Mondorf?", "a": "Ein weitläufiges Gelände mit Blumenbeeten, alten Bäumen und Skulpturen." },
+      { "q": "Gibt es dort medizinische Kuranwendungen?", "a": "Ja, das Thermalzentrum ist spezialisiert auf Kuren und Wellness." },
+      { "q": "Welches Museum befindet sich in der Nähe?", "a": "Das Luftfahrtmuseum (Musée de l'Aviation) im Park von Mondorf." }
+    ],
+    "hu": [
+      { "q": "Miről ismert Mondorf-les-Bains?", "a": "Termálfürdőjéről és az ország egyetlen kaszinójáról." },
+      { "q": "Mit kínál a mondorfi park?", "a": "Hatalmas területet virágágyásokkal, ősfákkal és szobrokkal." },
+      { "q": "Vannak-e ott gyógykezelések?", "a": "Igen, a termálközpont kúrákra és wellnessre specializálódott." },
+      { "q": "Milyen múzeum található a közelben?", "a": "A Repülési Múzeum (Musée de l'Aviation) a mondorfi parkban." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut Mondorf-les-Bains?", "a": "Pentru complexul său termal și singurul cazinou din țară." },
+      { "q": "Ce oferă parcul din Mondorf?", "a": "Un teren vast cu straturi de flori, arbori seculari și sculpturi." },
+      { "q": "Există tratamente medicale acolo?", "a": "Da, centrul termal este specializat în cure și wellness." },
+      { "q": "Ce muzeu se află în apropiere?", "a": "Muzeul Aviației (Musée de l'Aviation) în parcul din Mondorf." }
+    ],
+    "en": [
+      { "q": "What is Mondorf-les-Bains known for?", "a": "For its thermal spa complex and the country's only casino." },
+      { "q": "What does the Mondorf park offer?", "a": "An extensive area with flower beds, ancient trees, and sculptures." },
+      { "q": "Are there medical spa treatments available?", "a": "Yes, the thermal center specializes in cures and wellness." },
+      { "q": "Which museum is located nearby?", "a": "The Aviation Museum (Musée de l'Aviation) in the Mondorf park." }
+    ]
+  },
+  "agriculture-domaine-vinsmoselle-remerschen": {
+    "de": [
+      { "q": "Was ist die Domaine Vinsmoselle?", "a": "Die größte Winzergenossenschaft Luxemburgs." },
+      { "q": "Wo befindet sich die Kellerei in Remerschen?", "a": "In der Nähe der Seenlandschaft Haff Réimech." },
+      { "q": "Was ist die 'Caves du Sud'?", "a": "So wird der Standort der Vinsmoselle in Remerschen genannt." },
+      { "q": "Kann man dort Wein probieren?", "a": "Ja, es gibt einen modernen Weinshop und eine Vinothek für Verkostungen." }
+    ],
+    "hu": [
+      { "q": "Mi az a Domaine Vinsmoselle?", "a": "Luxemburg legnagyobb borászati szövetkezete." },
+      { "q": "Hol található a remerscheni pincészet?", "a": "A Haff Réimech tóvidék közelében." },
+      { "q": "Mi az a 'Caves du Sud'?", "a": "Így nevezik a Vinsmoselle remerscheni telephelyét." },
+      { "q": "Lehet-e ott bort kóstolni?", "a": "Igen, modern borüzlet és vinotéka várja a kóstolni vágyókat." }
+    ],
+    "ro": [
+      { "q": "Ce este Domaine Vinsmoselle?", "a": "Cea mai mare cooperativă viticolă din Luxemburg." },
+      { "q": "Unde se află crama din Remerschen?", "a": "În apropierea zonei lacurilor Haff Réimech." },
+      { "q": "Ce este 'Caves du Sud'?", "a": "Așa este numită locația Vinsmoselle din Remerschen." },
+      { "q": "Se poate degusta vin acolo?", "a": "Da, există un magazin de vinuri modern și o vinotecă pentru degustări." }
+    ],
+    "en": [
+      { "q": "What is Domaine Vinsmoselle?", "a": "Luxembourg's largest winegrowers' cooperative." },
+      { "q": "Where is the winery in Remerschen located?", "a": "Near the Haff Réimech lake district." },
+      { "q": "What is 'Caves du Sud'?", "a": "That is the name of the Vinsmoselle site in Remerschen." },
+      { "q": "Can you taste wine there?", "a": "Yes, there is a modern wine shop and a vinotheque for tastings." }
+    ]
+  },
+  "kid-landmark-paiperleksgaart": {
+    "de": [
+      { "q": "Was ist der Paiperleksgaart?", "a": "Ein tropischer Schmetterlingsgarten in Grevenmacher." },
+      { "q": "Welche Temperaturen herrschen im Garten?", "a": "Konstante 27 bis 28 Grad Celsius, um das tropische Klima zu simulieren." },
+      { "q": "Was kann man dort außer Schmetterlingen sehen?", "a": "Auch Wachteln, Chamäleons und eine Vielzahl exotischer Pflanzen." },
+      { "q": "Wann ist die beste Zeit für einen Besuch?", "a": "Zwischen April und Oktober, wenn die Schmetterlinge am aktivsten sind." }
+    ],
+    "hu": [
+      { "q": "Mi az a Paiperleksgaart?", "a": "Egy trópusi pillangókert Grevenmacherben." },
+      { "q": "Milyen a hőmérséklet a kertben?", "a": "Állandó 27-28 Celsius-fok, a trópusi klíma szimulálására." },
+      { "q": "Mit láthatunk ott a pillangókon kívül?", "a": "Fürjeket, kaméleonokat és számos egzotikus növényt." },
+      { "q": "Mikor a legjobb ellátogatni oda?", "a": "Április és október között, amikor a pillangók a legaktívabbak." }
+    ],
+    "ro": [
+      { "q": "Ce este Paiperleksgaart?", "a": "O grădină tropicală de fluturi în Grevenmacher." },
+      { "q": "Ce temperaturi sunt în grădină?", "a": "Constant 27-28 de grade Celsius, pentru a simula climatul tropical." },
+      { "q": "Ce se mai poate vedea acolo în afară de fluturi?", "a": "Prepelițe, cameleoni și o varietate de plante exotice." },
+      { "q": "Când este cel mai bun moment pentru o vizită?", "a": "Între aprilie și octombrie, când fluturii sunt cei mai activi." }
+    ],
+    "en": [
+      { "q": "What is the Paiperleksgaart?", "a": "A tropical butterfly garden in Grevenmacher." },
+      { "q": "What are the temperatures in the garden?", "a": "A constant 27 to 28 degrees Celsius to simulate a tropical climate." },
+      { "q": "What can you see there besides butterflies?", "a": "Also quails, chameleons, and a variety of exotic plants." },
+      { "q": "When is the best time to visit?", "a": "Between April and October, when the butterflies are most active." }
+    ]
+  }
+}

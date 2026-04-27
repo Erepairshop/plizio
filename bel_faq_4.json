@@ -1,0 +1,262 @@
+{
+  "landmark-museumsinsel-extra": {
+    "de": [
+      {"q": "Welche fünf Museen gehören zur Museumsinsel?", "a": "Das Alte Museum, das Neue Museum, die Alte Nationalgalerie, das Bode-Museum und das Pergamonmuseum."},
+      {"q": "Was ist das bekannteste Ausstellungsstück auf der Museumsinsel?", "a": "Die Büste der Nofretete im Neuen Museum und der Pergamonaltar (derzeit wegen Sanierung geschlossen)."},
+      {"q": "Wann wurde die Museumsinsel zum UNESCO-Welterbe erklärt?", "a": "Sie wurde 1999 als weltweit einzigartiges Ensemble von Museumsbauten in die Welterbeliste aufgenommen."},
+      {"q": "Wer entwarf das erste Museum auf der Insel?", "a": "Karl Friedrich Schinkel entwarf das Alte Museum, das 1830 eröffnet wurde."}
+    ],
+    "hu": [
+      {"q": "Melyik öt múzeum tartozik a Múzeum-szigethez?", "a": "Az Altes Museum, a Neues Museum, az Alte Nationalgalerie, a Bode-Museum és a Pergamonmuseum."},
+      {"q": "Mi a legismertebb kiállítási tárgy a Múzeum-szigeten?", "a": "Nofertiti mellszobra a Neues Museumban és a Pergamon-oltár (jelenleg felújítás miatt zárva)."},
+      {"q": "Mikor nyilvánították a Múzeum-szigetet az UNESCO Világörökség részévé?", "a": "1999-ben került fel a listára, mint a múzeumépületek világszerte egyedülálló együttese."},
+      {"q": "Ki tervezte a sziget első múzeumát?", "a": "Karl Friedrich Schinkel tervezte az Altes Museumot, amelyet 1830-ban nyitottak meg."}
+    ],
+    "ro": [
+      {"q": "Care sunt cele cinci muzee care alcătuiesc Insula Muzeelor?", "a": "Altes Museum, Neues Museum, Alte Nationalgalerie, Bode-Museum și Pergamonmuseum."},
+      {"q": "Care este cel mai cunoscut obiect expus pe Insula Muzeelor?", "a": "Bustul lui Nefertiti din Neues Museum și Altarul din Pergamon (momentan închis pentru renovare)."},
+      {"q": "Când a fost declarată Insula Muzeelor patrimoniu mondial UNESCO?", "a": "A fost inclusă pe listă în 1999 ca un ansamblu unic de clădiri muzeale."},
+      {"q": "Cine a proiectat primul muzeu de pe insulă?", "a": "Karl Friedrich Schinkel a proiectat Altes Museum, care a fost deschis în 1830."}
+    ],
+    "en": [
+      {"q": "Which five museums belong to the Museum Island?", "a": "The Altes Museum, the Neues Museum, the Alte Nationalgalerie, the Bode Museum, and the Pergamon Museum."},
+      {"q": "What is the most famous exhibit on the Museum Island?", "a": "The bust of Nefertiti in the Neues Museum and the Pergamon Altar (currently closed for renovation)."},
+      {"q": "When was the Museum Island declared a UNESCO World Heritage Site?", "a": "It was added to the World Heritage List in 1999 as a globally unique ensemble of museum buildings."},
+      {"q": "Who designed the first museum on the island?", "a": "Karl Friedrich Schinkel designed the Altes Museum, which opened in 1830."}
+    ]
+  },
+  "historical-berliner-mauer-east-extra": {
+    "de": [
+      {"q": "Was ist die East Side Gallery?", "a": "Ein 1,3 Kilometer langer Abschnitt der Berliner Mauer, der von Künstlern aus aller Welt bemalt wurde und heute eine Open-Air-Galerie ist."},
+      {"q": "Was ist das bekannteste Gemälde an der Mauer?", "a": "Der 'Bruderkuss' zwischen Leonid Breschnew und Erich Honecker, gemalt von Dmitri Vrubel."},
+      {"q": "Wo befindet sich dieser Mauerabschnitt?", "a": "Er verläuft entlang der Mühlenstraße in Berlin-Friedrichshain, direkt an der Spree."},
+      {"q": "Was symbolisiert die East Side Gallery heute?", "a": "Sie ist ein Denkmal für den Fall der Mauer und ein Symbol für Freiheit und Versöhnung."}
+    ],
+    "hu": [
+      {"q": "Mi az az East Side Gallery?", "a": "A berlini fal 1,3 kilométer hosszú szakasza, amelyet a világ minden tájáról érkező művészek festettek tele, és ma szabadtéri galériaként működik."},
+      {"q": "Melyik a legismertebb festmény a falon?", "a": "A Leonyid Brezsnyev és Erich Honecker közötti 'testvéri csók', amelyet Dmitrij Vrubel festett."},
+      {"q": "Hol található ez a falszakasz?", "a": "A Mühlenstraßén húzódik Berlin Friedrichshain negyedében, közvetlenül a Spree folyó partján."},
+      {"q": "Mit jelképez ma az East Side Gallery?", "a": "A fal leomlásának emlékhelye, valamint a szabadság és a megbékélés szimbóluma."}
+    ],
+    "ro": [
+      {"q": "Ce este East Side Gallery?", "a": "O secțiune de 1,3 kilometri a Zidului Berlinului, pictată de artiști din întreaga lume, care astăzi servește ca galerie de artă în aer liber."},
+      {"q": "Care este cea mai cunoscută pictură de pe zid?", "a": "'Sărutul frățesc' dintre Leonid Brejnev și Erich Honecker, pictat de Dmitri Vrubel."},
+      {"q": "Unde se află această secțiune a zidului?", "a": "Se întinde de-a lungul străzii Mühlenstraße în Berlin-Friedrichshain, chiar pe malul râului Spree."},
+      {"q": "Ce simbolizează East Side Gallery astăzi?", "a": "Este un monument dedicat căderii Zidului și un simbol al libertății și reconcilierii."}
+    ],
+    "en": [
+      {"q": "What is the East Side Gallery?", "a": "A 1.3-kilometer section of the Berlin Wall painted by artists from all over the world, now functioning as an open-air gallery."},
+      {"q": "What is the most famous painting on the wall?", "a": "The 'Fraternal Kiss' between Leonid Brezhnev and Erich Honecker, painted by Dmitri Vrubel."},
+      {"q": "Where is this section of the wall located?", "a": "It runs along Mühlenstraße in Berlin-Friedrichshain, directly by the Spree River."},
+      {"q": "What does the East Side Gallery symbolize today?", "a": "It is a monument to the fall of the Wall and a symbol of freedom and reconciliation."}
+    ]
+  },
+  "landmark-charlottenburg-palace-extra": {
+    "de": [
+      {"q": "Für wen wurde Schloss Charlottenburg ursprünglich erbaut?", "a": "Es wurde Ende des 17. Jahrhunderts als Sommerresidenz für Sophie Charlotte, die erste Königin in Preußen, errichtet."},
+      {"q": "Was ist das Besondere am Schlossgarten?", "a": "Er ist ein weitläufiger Park, der sowohl barocke Elemente als auch Bereiche im Stil eines englischen Landschaftsgartens umfasst."},
+      {"q": "Was befindet sich in der Goldenen Galerie?", "a": "Es ist ein prachtvoller Festsaal im Stil des friderizianischen Rokoko."},
+      {"q": "Gibt es auf dem Gelände weitere Gebäude?", "a": "Ja, zum Schlossensemble gehören unter anderem das Belvedere, der Neue Pavillon und das Mausoleum der Königin Luise."}
+    ],
+    "hu": [
+      {"q": "Kinek az számára épült eredetileg a Charlottenburgi kastély?", "a": "A 17. század végén épült nyári rezidenciaként Zsófia Sarolta, az első porosz királyné számára."},
+      {"q": "Mi a különlegessége a kastélykertnek?", "a": "Ez egy hatalmas park, amely barokk elemeket és angol tájképi kertstílusú részeket egyaránt tartalmaz."},
+      {"q": "Mi található az Arany Galériában?", "a": "Ez egy pompás bálterem, amely a II. Frigyes-féle rokokó stílusában épült."},
+      {"q": "Vannak más épületek is a területen?", "a": "Igen, a kastélyegyütteshez tartozik többek között a Belvedere, az Új Pavilon és Lujza királyné mauzóleuma."}
+    ],
+    "ro": [
+      {"q": "Pentru cine a fost construit inițial Palatul Charlottenburg?", "a": "A fost construit la sfârșitul secolului al XVII-lea ca reședință de vară pentru Sofia Charlotte, prima regină a Prusiei."},
+      {"q": "Ce este special la grădina palatului?", "a": "Este un parc vast care include atât elemente baroce, cât și zone în stilul unui grădini peisagistice englezești."},
+      {"q": "Ce se află în Galeria de Aur?", "a": "Este o sală de festivități somptuoasă în stilul rococoului friderician."},
+      {"q": "Mai există și alte clădiri pe proprietate?", "a": "Da, ansamblul palatului include, printre altele, Belvedere, Noul Pavilion și Mausoleul reginei Luise."}
+    ],
+    "en": [
+      {"q": "For whom was Charlottenburg Palace originally built?", "a": "It was built at the end of the 17th century as a summer residence for Sophie Charlotte, the first Queen in Prussia."},
+      {"q": "What is special about the palace gardens?", "a": "It is a vast park that includes both Baroque elements and areas in the style of an English landscape garden."},
+      {"q": "What is in the Golden Gallery?", "a": "It is a magnificent ballroom in the style of Friderician Rococo."},
+      {"q": "Are there other buildings on the grounds?", "a": "Yes, the palace complex includes the Belvedere, the New Pavilion, and the Mausoleum of Queen Louise."}
+    ]
+  },
+  "forest-grunewald-extra": {
+    "de": [
+      {"q": "Wo befindet sich der Grunewald?", "a": "Er liegt im Westen Berlins und ist das größte zusammenhängende Waldgebiet der Stadt."},
+      {"q": "Was ist der Grunewaldturm?", "a": "Ein Aussichtsturm auf dem Karlsberg, der zum Gedenken an Kaiser Wilhelm I. erbaut wurde."},
+      {"q": "Welche Seen gibt es im Grunewald?", "a": "Beliebte Seen sind der Schlachtensee, die Krumme Lanke und der Grunewaldsee."},
+      {"q": "Was ist der Teufelsberg?", "a": "Ein künstlicher Hügel aus Trümmerschutt des Zweiten Weltkriegs, auf dem sich eine ehemalige US-Abhörstation befindet."}
+    ],
+    "hu": [
+      {"q": "Hol található a Grunewald?", "a": "Berlin nyugati részén fekszik, és a város legnagyobb összefüggő erdőterülete."},
+      {"q": "Mi az a Grunewald-torony?", "a": "Egy kilátótorony a Karlsbergen, amelyet I. Vilmos császár emlékére építettek."},
+      {"q": "Milyen tavak vannak a Grunewald területén?", "a": "Népszerű tavak a Schlachtensee, a Krumme Lanke és a Grunewaldsee."},
+      {"q": "Mi az a Teufelsberg?", "a": "Egy mesterséges domb a második világháború törmelékeiből, amelyen egy egykori amerikai lehallgatóállomás található."}
+    ],
+    "ro": [
+      {"q": "Unde se află pădurea Grunewald?", "a": "Este situată în vestul Berlinului și este cea mai mare zonă forestieră contiguă din oraș."},
+      {"q": "Ce este turnul Grunewald?", "a": "Un turn de observație pe dealul Karlsberg, construit în memoria împăratului Wilhelm I."},
+      {"q": "Ce lacuri se află în Grunewald?", "a": "Lacuri populare sunt Schlachtensee, Krumme Lanke și Grunewaldsee."},
+      {"q": "Ce este Teufelsberg?", "a": "Un deal artificial format din dărâmăturile din al Doilea Război Mondial, pe care se află o fostă stație de interceptare americană."}
+    ],
+    "en": [
+      {"q": "Where is the Grunewald located?", "a": "It is located in western Berlin and is the city's largest contiguous forest area."},
+      {"q": "What is the Grunewald Tower?", "a": "An observation tower on Mount Karlsberg, built in memory of Emperor Wilhelm I."},
+      {"q": "Which lakes are in the Grunewald?", "a": "Popular lakes include Schlachtensee, Krumme Lanke, and Grunewaldsee."},
+      {"q": "What is the Teufelsberg?", "a": "An artificial hill made of rubble from World War II, on which a former US listening station is located."}
+    ]
+  },
+  "river-havel-berlin-extra": {
+    "de": [
+      {"q": "Wie fließt die Havel durch Berlin?", "a": "Die Havel fließt durch den Westen Berlins und weitet sich dabei oft zu seenartigen Buchten aus, wie am Wannsee."},
+      {"q": "Wo mündet die Spree in die Havel?", "a": "Die Spree mündet in Berlin-Spandau in die Havel."},
+      {"q": "Was ist die Pfaueninsel?", "a": "Eine Insel in der Havel, die für ihr Schloss und die dort lebenden Pfauen bekannt ist."},
+      {"q": "Welche Bedeutung hat die Havel für die Schifffahrt?", "a": "Sie ist eine wichtige Wasserstraße, die Berlin mit der Elbe und dem Kanalnetz verbindet."}
+    ],
+    "hu": [
+      {"q": "Hogyan folyik keresztül a Havel Berlinen?", "a": "A Havel Berlin nyugati részén folyik át, és gyakran tóvá szélesedik, mint például a Wannsee esetében."},
+      {"q": "Hol torkollik a Spree a Havelbe?", "a": "A Spree Berlin Spandau negyedében torkollik a Havelbe."},
+      {"q": "Mi az a Páva-sziget (Pfaueninsel)?", "a": "Egy sziget a Havel folyóban, amely kastélyáról és az ott élő pávákról nevezetes."},
+      {"q": "Milyen jelentősége van a Havelnek a hajózás számára?", "a": "Fontos víziút, amely összeköti Berlint az Elbával és a csatornahálózattal."}
+    ],
+    "ro": [
+      {"q": "Cum curge râul Havel prin Berlin?", "a": "Havel curge prin vestul Berlinului și se lărgește adesea în golfuri asemănătoare unor lacuri, cum ar fi la Wannsee."},
+      {"q": "Unde se varsă Spree în Havel?", "a": "Râul Spree se varsă în Havel în districtul Berlin-Spandau."},
+      {"q": "Ce este Pfaueninsel (Insula Păunilor)?", "a": "O insulă pe râul Havel, cunoscută pentru palatul său și pentru păunii care trăiesc acolo."},
+      {"q": "Ce importanță are râul Havel pentru navigație?", "a": "Este o cale navigabilă importantă care leagă Berlinul de Elba și de rețeaua de canale."}
+    ],
+    "en": [
+      {"q": "How does the Havel flow through Berlin?", "a": "The Havel flows through western Berlin and often widens into lake-like bays, such as at Wannsee."},
+      {"q": "Where does the Spree flow into the Havel?", "a": "The Spree flows into the Havel in Berlin-Spandau."},
+      {"q": "What is Peacock Island (Pfaueninsel)?", "a": "An island in the Havel river known for its palace and the peacocks living there."},
+      {"q": "What significance does the Havel have for shipping?", "a": "It is an important waterway connecting Berlin to the Elbe and the canal network."}
+    ]
+  },
+  "landmark-olympiastadion-berlin-extra": {
+    "de": [
+      {"q": "Wann wurde das Berliner Olympiastadion ursprünglich erbaut?", "a": "Es wurde für die Olympischen Sommerspiele 1936 errichtet."},
+      {"q": "Welcher Fußballverein trägt hier seine Heimspiele aus?", "a": "Hertha BSC nutzt das Olympiastadion als Heimstätte."},
+      {"q": "Gibt es dort eine Kapelle?", "a": "Ja, im Stadion befindet sich eine christliche Kapelle, die für Sportler und Besucher offen steht."},
+      {"q": "Was ist das Maifeld?", "a": "Eine riesige Rasenfläche direkt neben dem Stadion, die früher für Aufmärsche und heute für Sportveranstaltungen oder Konzerte genutzt wird."}
+    ],
+    "hu": [
+      {"q": "Mikor épült eredetileg a berlini Olimpiai Stadion?", "a": "Az 1936-os nyári olimpiai játékokra építették."},
+      {"q": "Melyik labdarúgóklub játssza itt a hazai mérkőzéseit?", "a": "A Hertha BSC használja hazai pályaként az Olimpiai Stadiont."},
+      {"q": "Van ott kápolna?", "a": "Igen, a stadionban található egy keresztény kápolna, amely nyitva áll a sportolók és a látogatók előtt."},
+      {"q": "Mi az a Maifeld?", "a": "Egy hatalmas gyepes terület közvetlenül a stadion mellett, amelyet korábban felvonulásokra, ma pedig sporteseményekre vagy koncertekre használnak."}
+    ],
+    "ro": [
+      {"q": "Când a fost construit inițial Stadionul Olimpic din Berlin?", "a": "A fost construit pentru Jocurile Olimpice de vară din 1936."},
+      {"q": "Ce club de fotbal își dispută aici meciurile de acasă?", "a": "Hertha BSC folosește Stadionul Olimpic ca teren propriu."},
+      {"q": "Există o capelă acolo?", "a": "Da, în incinta stadionului se află o capelă creștină, deschisă pentru sportivi și vizitatori."},
+      {"q": "Ce este Maifeld?", "a": "O peluză imensă situată chiar lângă stadion, folosită în trecut pentru parade, iar astăzi pentru evenimente sportive sau concerte."}
+    ],
+    "en": [
+      {"q": "When was the Berlin Olympic Stadium originally built?", "a": "It was built for the 1936 Summer Olympics."},
+      {"q": "Which football club plays its home games here?", "a": "Hertha BSC uses the Olympic Stadium as its home ground."},
+      {"q": "Is there a chapel there?", "a": "Yes, there is a Christian chapel inside the stadium open to athletes and visitors."},
+      {"q": "What is the Maifeld?", "a": "A huge lawn directly next to the stadium, formerly used for parades and now for sports events or concerts."}
+    ]
+  },
+  "historical-holocaust-memorial-extra": {
+    "de": [
+      {"q": "Wie heißt das Denkmal offiziell?", "a": "Denkmal für die ermordeten Juden Europas."},
+      {"q": "Wer hat das Denkmal entworfen?", "a": "Der US-amerikanische Architekt Peter Eisenman."},
+      {"q": "Woraus besteht das Denkmal?", "a": "Aus 2.711 unterschiedlich hohen Betonstelen, die ein begehbares Wellenfeld bilden."},
+      {"q": "Gibt es unter dem Denkmal weitere Informationen?", "a": "Ja, dort befindet sich der unterirdische 'Ort der Information' mit Ausstellungen zur Verfolgung und Vernichtung der Juden."}
+    ],
+    "hu": [
+      {"q": "Mi az emlékmű hivatalos neve?", "a": "Az Európai Meggyilkolt Zsidók Emlékhelye."},
+      {"q": "Ki tervezte az emlékművet?", "a": "Peter Eisenman amerikai építész."},
+      {"q": "Miből áll az emlékmű?", "a": "2711 darab különböző magasságú betonoszlopból (sztéléből), amelyek egy bejárható hullámmezőt alkotnak."},
+      {"q": "Vannak további információk az emlékmű alatt?", "a": "Igen, ott található a földalatti 'Információs Központ', amely a zsidók üldöztetését és megsemmisítését mutatja be."}
+    ],
+    "ro": [
+      {"q": "Care este numele oficial al monumentului?", "a": "Monumentul pentru evreii uciși din Europa."},
+      {"q": "Cine a proiectat monumentul?", "a": "Arhitectul american Peter Eisenman."},
+      {"q": "Din ce este compus monumentul?", "a": "Din 2.711 de stele de beton de înălțimi diferite, care formează un câmp de valuri prin care se poate trece."},
+      {"q": "Există informații suplimentare sub monument?", "a": "Da, acolo se află subteranul 'Centru de Informare' cu expoziții despre persecuția și exterminarea evreilor."}
+    ],
+    "en": [
+      {"q": "What is the official name of the memorial?", "a": "Memorial to the Murdered Jews of Europe."},
+      {"q": "Who designed the memorial?", "a": "The American architect Peter Eisenman."},
+      {"q": "What does the memorial consist of?", "a": "It consists of 2,711 concrete stelae of varying heights, forming a wave-like field that can be walked through."},
+      {"q": "Is there additional information under the memorial?", "a": "Yes, there is an underground 'Information Center' with exhibitions on the persecution and annihilation of the Jews."}
+    ]
+  },
+  "landmark-kurfuerstendamm-extra": {
+    "de": [
+      {"q": "Was ist der Kurfürstendamm (Ku'damm)?", "a": "Berlins bekannteste Einkaufsmeile und Flaniermeile im Westen der Stadt."},
+      {"q": "Was ist das bekannteste Kaufhaus am oder nahe dem Ku'damm?", "a": "Das KaDeWe (Kaufhaus des Westens) am Tauentzien, der Verlängerung des Ku'damms."},
+      {"q": "Welche Ruine steht am Ende des Kurfürstendamms?", "a": "Die Kaiser-Wilhelm-Gedächtniskirche, deren Turmruine als Mahnmal gegen den Krieg erhalten blieb."},
+      {"q": "Wofür war der Ku'damm in den 1920er Jahren bekannt?", "a": "Er war das Zentrum des kulturellen und gesellschaftlichen Lebens im Berlin der Goldenen Zwanziger."}
+    ],
+    "hu": [
+      {"q": "Mi az a Kurfürstendamm (Ku'damm)?", "a": "Berlin legismertebb bevásárlóutcája és korzója a város nyugati részén."},
+      {"q": "Melyik a legismertebb áruház a Ku'damm közelében?", "a": "A KaDeWe (Kaufhaus des Westens) a Tauentzienstraße-n, a Ku'damm folytatásában."},
+      {"q": "Milyen rom áll a Kurfürstendamm végén?", "a": "A Vilmos császár emléktemplom (Kaiser-Wilhelm-Gedächtniskirche), amelynek toronymaradványa a háború elleni mementóként maradt meg."},
+      {"q": "Miről volt ismert a Ku'damm az 1920-as években?", "a": "Berlin kulturális és társadalmi életének központja volt az 'arany húszas években'."}
+    ],
+    "ro": [
+      {"q": "Ce este Kurfürstendamm (Ku'damm)?", "a": "Cea mai cunoscută stradă comercială și promenadă din vestul Berlinului."},
+      {"q": "Care este cel mai cunoscut magazin situat pe sau lângă Ku'damm?", "a": "KaDeWe (Kaufhaus des Westens), situat pe strada Tauentzien, prelungirea Ku'damm-ului."},
+      {"q": "Ce ruină se află la capătul bulevardului Kurfürstendamm?", "a": "Biserica Memorială Kaiser Wilhelm, a cărei ruină a turnului a fost păstrată ca monument împotriva războiului."},
+      {"q": "Pentru ce a fost cunoscut Ku'damm în anii 1920?", "a": "A fost centrul vieții culturale și sociale în Berlinul 'anilor de aur'."}
+    ],
+    "en": [
+      {"q": "What is the Kurfürstendamm (Ku'damm)?", "a": "Berlin's most famous shopping boulevard and promenade in the west of the city."},
+      {"q": "What is the most famous department store on or near the Ku'damm?", "a": "The KaDeWe (Kaufhaus des Westens) on Tauentzienstraße, the extension of the Ku'damm."},
+      {"q": "What ruin stands at the end of the Kurfürstendamm?", "a": "The Kaiser Wilhelm Memorial Church, whose ruined tower was preserved as a memorial against war."},
+      {"q": "What was the Ku'damm known for in the 1920s?", "a": "It was the center of cultural and social life in Berlin during the Golden Twenties."}
+    ]
+  },
+  "lake-mueggelsee-extra": {
+    "de": [
+      {"q": "Was ist der Müggelsee?", "a": "Er ist der größte See Berlins und liegt im Stadtbezirk Treptow-Köpenick."},
+      {"q": "Wie heißt der Berg am Ufer des Sees?", "a": "Die Müggelberge sind mit dem Müggelturm ein beliebtes Ausflugsziel am See."},
+      {"q": "Durch welchen Fluss wird der Müggelsee gespeist?", "a": "Der Müggelsee wird von der Spree durchflossen."},
+      {"q": "Gibt es dort ein Museum?", "a": "Ja, am Nordufer befindet sich das Museum im Wasserwerk, das über die Berliner Wasserversorgung informiert."}
+    ],
+    "hu": [
+      {"q": "Mi az a Müggelsee?", "a": "Berlin legnagyobb tava, amely a Treptow-Köpenick kerületben található."},
+      {"q": "Hogy hívják a tó partján lévő hegyet?", "a": "A Müggelberge a Müggel-toronnyal együtt a tó népszerű kirándulóhelye."},
+      {"q": "Melyik folyó táplálja a Müggelseét?", "a": "A Müggelseén a Spree folyó folyik keresztül."},
+      {"q": "Van ott múzeum?", "a": "Igen, az északi parton található a Vízmű Múzeum, amely a berlini vízellátásról nyújt tájékoztatást."}
+    ],
+    "ro": [
+      {"q": "Ce este Müggelsee?", "a": "Este cel mai mare lac din Berlin, situat în districtul Treptow-Köpenick."},
+      {"q": "Cum se numește dealul de pe malul lacului?", "a": "Dealurile Müggelberge, împreună cu turnul Müggel, reprezintă o destinație populară de excursie lângă lac."},
+      {"q": "Ce râu alimentează lacul Müggelsee?", "a": "Râul Spree traversează lacul Müggelsee."},
+      {"q": "Există un muzeu acolo?", "a": "Da, pe malul nordic se află Muzeul Stației de Apă, care oferă informații despre alimentarea cu apă a Berlinului."}
+    ],
+    "en": [
+      {"q": "What is the Müggelsee?", "a": "It is Berlin's largest lake and is located in the Treptow-Köpenick district."},
+      {"q": "What is the name of the hill on the shore of the lake?", "a": "The Müggelberge hills, with the Müggel Tower, are a popular excursion destination by the lake."},
+      {"q": "Which river feeds the Müggelsee?", "a": "The Spree River flows through the Müggelsee."},
+      {"q": "Is there a museum there?", "a": "Yes, on the north shore is the Museum in the Waterworks, which informs about Berlin's water supply."}
+    ]
+  },
+  "historical-schloss-sanssouci-berlin-extra": {
+    "de": [
+      {"q": "Wer ließ Schloss Sanssouci erbauen?", "a": "Friedrich der Große ließ es im 18. Jahrhundert als sein privates Sommerschloss errichten."},
+      {"q": "Was bedeutet der Name 'Sanssouci'?", "a": "Der Name stammt aus dem Französischen und bedeutet 'ohne Sorgen'."},
+      {"q": "Was ist das Besondere an der Lage des Schlosses?", "a": "Es liegt oberhalb der berühmten Weinbergterrassen im Park Sanssouci."},
+      {"q": "Wo wurde Friedrich der Große schließlich begraben?", "a": "Sein Wunsch wurde erst 1991 erfüllt, als er in einer Gruft auf der obersten Terrasse von Sanssouci beigesetzt wurde."}
+    ],
+    "hu": [
+      {"q": "Ki építtette a Sanssouci kastélyt?", "a": "Nagy Frigyes építtette a 18. században saját magán nyári kastélyaként."},
+      {"q": "Mit jelent a 'Sanssouci' név?", "a": "A név francia eredetű, jelentése: 'gond nélkül'."},
+      {"q": "Mi a különlegessége a kastély elhelyezkedésének?", "a": "A Sanssouci park híres szőlőteraszai felett helyezkedik el."},
+      {"q": "Végül hová temették Nagy Frigyest?", "a": "Kívánsága csak 1991-ben teljesült, amikor Sanssouci legfelső teraszán, egy kriptában helyezték örök nyugalomra."}
+    ],
+    "ro": [
+      {"q": "Cine a construit Palatul Sanssouci?", "a": "Frederic cel Mare l-a construit în secolul al XVIII-lea ca palat privat de vară."},
+      {"q": "Ce înseamnă numele 'Sanssouci'?", "a": "Numele provine din limba franceză și înseamnă 'fără griji'."},
+      {"q": "Ce este special la locația palatului?", "a": "Este situat deasupra faimoaselor terase de vii din parcul Sanssouci."},
+      {"q": "Unde a fost înmormântat în cele din urmă Frederic cel Mare?", "a": "Dorința sa a fost îndeplinită abia în 1991, când a fost înhumat într-o criptă pe terasa superioară de la Sanssouci."}
+    ],
+    "en": [
+      {"q": "Who had Sanssouci Palace built?", "a": "Frederick the Great had it built in the 18th century as his private summer palace."},
+      {"q": "What does the name 'Sanssouci' mean?", "a": "The name comes from French and means 'without cares'."},
+      {"q": "What is special about the palace's location?", "a": "It is located above the famous vineyard terraces in Sanssouci Park."},
+      {"q": "Where was Frederick the Great eventually buried?", "a": "His wish was finally fulfilled in 1991, when he was interred in a tomb on the topmost terrace of Sanssouci."}
+    ]
+  }
+}

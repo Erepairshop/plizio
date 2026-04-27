@@ -795,7 +795,7 @@ export const finlandCultureExtended: POI[] = [
     image: "/geo-images/finland/landmark-ateneum.webp",
   },
   {
-    id: "landmark-national-museum",
+    id: "fi-national-museum",
     type: "landmark",
     parent: "FI",
     coords: [24.9317, 60.1763],
@@ -1158,7 +1158,7 @@ export const finlandCultureExtended: POI[] = [
 
 export const finlandNatureExtended: POI[] = [
   {
-    id: "nat-lapland",
+    id: "fi-lapland",
     type: "region",
     parent: "finland",
     coords: [26.0, 67.9],

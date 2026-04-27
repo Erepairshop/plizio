@@ -47,6 +47,26 @@ export const italyRegions: POI[] = [
       ro: ["Lombardia este cea mai populată și mai bogată regiune din Italia.","Milano, capitala sa, este cunoscută ca una dintre capitalele modei din lume.","Lacul Garda, cel mai mare lac din Italia, se află parțial în Lombardia.","Regiunea este numită după lombarzi, un popor germanic care a condus zona în Evul Mediu.","Celebra pictură 'Cina cea de Taină' a lui Leonardo da Vinci se află la Milano.","Lombardia produce o parte semnificativă din PIB-ul Italiei.","Regiunea este faimoasă pentru preparate culinare precum Risotto alla Milanese și Ossobuco.","Se învecinează cu Elveția la nord."]
     },
     image: "/geo-images/italy/lombardia.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Lombardia, Olaszország gazdasági motorja, nem csupán Milánó divatvilágáról szól. A régió ad otthont az ország legnagyobb tavainak, mint a Garda-tó és a Comói-tó, melyek az Alpok lábainál fekszenek, lenyűgöző panorámát kínálva. Történelme során a longobárdoktól a Visconti és Sforza családokig számos hatalom formálta, gazdag építészeti és művészeti örökséget hagyva maga után. A Pó-síkság termékeny földjei jelentős mezőgazdasági központtá teszik, különösen a rizstermesztés területén, amely az olyan híres ételek alapja, mint a milánói rizottó. Ez a kettősség – a modern ipar és az ősi tájak találkozása – teszi Lombardiát egyedülállóvá. Földrajz K7 — Európa gazdasági és természeti földrajza.",
+      ro: "",
+      en: "Lombardy, the economic engine of Italy, is more than just Milan's fashion world. The region is home to the country's largest lakes, such as Lake Garda and Lake Como, which lie at the foot of the Alps, offering stunning panoramic views. Throughout its history, it was shaped by powers from the Lombards to the Visconti and Sforza families, leaving behind a rich architectural and artistic heritage. The fertile lands of the Po Valley make it a significant agricultural center, especially for rice cultivation, which is the basis for famous dishes like Risotto alla Milanese. This duality—the meeting of modern industry and ancient landscapes—is what makes Lombardy unique. Geography K7 — Economic and Natural Geography of Europe."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A régióban található a legtöbb UNESCO Világörökségi helyszín Olaszországon belül, beleértve a Valcamonica sziklarajzait.","Lombardia GDP-je önmagában nagyobb, mint számos európai országé.","A Comói-tó több mint 400 méteres mélységével Olaszország legmélyebb tava.","A Franciacorta borvidék világhírű pezsgőket termel, melyeket a klasszikus módszerrel készítenek.","A híres longobárd vaskorona, amelyet évszázadokon át használtak az itáliai királyok koronázásához, Monzában található.","A régióban található a Stelvio Nemzeti Park egy része, amely az Alpok egyik legnagyobb védett területe.","Stradivari, a híres hegedűkészítő Cremonában élt és alkotott, amely ma is a hegedűkészítés fellegvára."],
+      ro: [],
+      en: [
+        "The region has the most UNESCO World Heritage sites within Italy, including the rock drawings of Valcamonica.",
+        "Lombardy's GDP alone is larger than that of many European countries.",
+        "Lake Como, with a depth of over 400 meters, is the deepest lake in Italy.",
+        "The Franciacorta wine region produces world-renowned sparkling wines made with the classic method.",
+        "The famous Iron Crown of Lombardy, used for centuries to crown the kings of Italy, is located in Monza.",
+        "Part of the Stelvio National Park, one of the largest protected areas in the Alps, is in the region.",
+        "Stradivari, the famous violin maker, lived and worked in Cremona, which remains a center for violin making today."
+      ]
+    }
   },
   {
     id: "reg-toscana",
@@ -67,6 +87,26 @@ export const italyRegions: POI[] = [
       ro: ["Florența este capitala regiunii Toscana.","În Toscana se află faimosul Turn Înclinat din Pisa.","Regiunea este renumită pentru vinurile sale Chianti, Brunello di Montalcino și Vino Nobile di Montepulciano.","Limba italiană se bazează pe dialectul toscan, popularizat de scriitori precum Dante Alighieri.","Are șapte situri din Patrimoniul Mondial UNESCO.","Toscana are o coastă lungă la Marea Tireniană.","Palio di Siena este o celebră cursă medievală de cai desfășurată de două ori pe an.","Floarea-soarelui este cultivată pe scară largă în regiune, înflorind frumos vara."]
     },
     image: "/geo-images/italy/toscana.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Toszkána az olasz reneszánsz bölcsője, ahol a művészet és a táj elválaszthatatlan egységet alkot. A Firenzében található Uffizi Képtár és a Galleria dell'Accademia a világ legjelentősebb művészeti kincseit őrzik. A régió azonban több, mint a városok; a Val d'Orcia hullámzó dombjai, a ciprusokkal szegélyezett utak és a középkori dombtetőn álló falvak, mint San Gimignano, festői hátteret biztosítanak. A gasztronómia központi szerepet játszik, alapja a helyi, kiváló minőségű alapanyagok, mint az olívaolaj, a Chianti bor és a Chianina marha. Történelem K6 — A reneszánsz és a nagy földrajzi felfedezések.",
+      ro: "",
+      en: "Tuscany is the cradle of the Italian Renaissance, where art and landscape form an inseparable whole. The Uffizi Gallery and the Galleria dell'Accademia in Florence house some of the world's most important art treasures. However, the region is more than its cities; the rolling hills of Val d'Orcia, roads lined with cypresses, and medieval hilltop villages like San Gimignano provide a picturesque backdrop. Gastronomy plays a central role, based on high-quality local ingredients like olive oil, Chianti wine, and Chianina beef. History K6 — The Renaissance and the Great Geographical Discoveries."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Az olasz irodalmi nyelv a toszkán dialektuson alapul, Dante, Petrarca és Boccaccio munkásságának köszönhetően.","A régióban több mint 120 természetvédelmi terület található, ami a biológiai sokféleség megőrzése iránti elkötelezettséget mutatja.","A pisai ferde torony dőlése a puha altalajnak köszönhető, és az építése közel 200 évig tartott.","A Saturnia hőforrásai természetes, kénes vizű medencéket alkotnak, amelyek már az etruszkok és a rómaiak körében is népszerűek voltak.","A 'Super Tuscan' borok az 1970-es években jelentek meg, amikor néhány borász szembement a Chianti Classico szabályaival, hogy új, kiváló minőségű borokat hozzon létre.","Carrara márványbányáiból származik a márvány, amelyet Michelangelo is használt a Dávid-szoborhoz.","Az évente kétszer megrendezett sienai Palio lóverseny egy mélyen gyökerező középkori hagyomány, amelyben a városrészek (contrade) versengenek egymással."],
+      ro: [],
+      en: [
+        "The modern Italian language is based on the Tuscan dialect, thanks to the works of Dante, Petrarch, and Boccaccio.",
+        "The region has over 120 nature reserves, demonstrating a commitment to preserving biodiversity.",
+        "The lean of the Leaning Tower of Pisa is due to the soft subsoil, and its construction took nearly 200 years.",
+        "The thermal springs of Saturnia form natural, sulphurous pools that were popular even among the Etruscans and Romans.",
+        "'Super Tuscan' wines emerged in the 1970s when some winemakers went against Chianti Classico rules to create new, high-quality wines.",
+        "The marble quarries of Carrara are the source of the marble used by Michelangelo for his David statue.",
+        "The Palio horse race in Siena, held twice a year, is a deep-rooted medieval tradition where the city's districts (contrade) compete."
+      ]
+    }
   },
   {
     id: "reg-sicilia",
@@ -87,6 +127,26 @@ export const italyRegions: POI[] = [
       ro: ["Sicilia este separată de continentul italian de strâmtoarea îngustă Messina.","Muntele Etna din Sicilia este unul dintre cei mai activi vulcani din lume.","Palermo este capitala și cel mai mare oraș al regiunii.","Insula are propria limbă distinctă, siciliana, deși limba italiană este vorbită în principal.","Valea Templelor din Agrigento este un prim exemplu al arhitecturii Greciei Mari.","Cannoli, faimosul desert de patiserie, își are originea în Sicilia.","Sicilia este puternic agricolă, cunoscută pentru producerea de lămâi, portocale și măsline.","Arhimede, celebrul matematician și inventator, s-a născut la Siracuza, Sicilia."]
     },
     image: "/geo-images/italy/sicilia.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Szicília a Földközi-tenger kulturális olvasztótégelye, ahol a görög templomok, normann katedrálisok és arabeszk díszítésű paloták egymás mellett élnek. Az Etna, Európa legmagasabb aktív vulkánja, folyamatosan formálja a tájat és termékeny talajt biztosít a mezőgazdaságnak, különösen a pisztácia- és citrusfélék termesztésének. A sziget konyhája tükrözi ezt a sokszínűséget: az arancini, a caponata és a cannoli mind a helyi történelem ízeit hordozzák. Palermo nyüzsgő piacaitól a barokk városok, mint Noto és Ragusa eleganciájáig Szicília egyedi és felejthetetlen utazást kínál az időben és a kultúrák között. Földrajz K8 — Vulkanizmus és szeizmikus tevékenységek.",
+      ro: "",
+      en: "Sicily is the cultural melting pot of the Mediterranean, where Greek temples, Norman cathedrals, and arabesque palaces coexist. Mount Etna, Europe's highest active volcano, constantly shapes the landscape and provides fertile soil for agriculture, especially for pistachios and citrus fruits. The island's cuisine reflects this diversity: arancini, caponata, and cannoli all carry the flavors of local history. From the bustling markets of Palermo to the elegance of baroque towns like Noto and Ragusa, Sicily offers a unique and unforgettable journey through time and cultures. Geography K8 — Volcanism and Seismic Activities."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Az agrigentói Templomok Völgye a görög világ egyik legkiemelkedőbb régészeti lelőhelye a görög anyaországon kívül.","A sziget a 'Magna Graecia' (Nagy Görögország) fontos része volt, olyan városokkal, mint Szirakúza, amely egykor Athénnal vetekedett.","A palermói kapucinus katakombákban több ezer mumifikálódott holttestet őriznek, amelyek a 16. és 20. század között éltek.","A szicíliai bábszínház (Opera dei Pupi) az UNESCO Szellemi Kulturális Örökség része.","A sólepárlók Trapani és Marsala környékén festői tájat alkotnak a szélmalmokkal, és kiváló minőségű tengeri sót termelnek.","Szicíliában forgatták a 'Keresztapa' trilógia számos ikonikus jelenetét.","Az Aeoli-szigetek, köztük a folyamatosan aktív Stromboli, a sziget partjainál található vulkáni szigetcsoport."],
+      ro: [],
+      en: [
+        "The Valley of the Temples in Agrigento is one of the most outstanding archaeological sites of the Greek world outside of Greece itself.",
+        "The island was an important part of 'Magna Graecia' (Greater Greece), with cities like Syracuse that once rivaled Athens.",
+        "The Capuchin Catacombs of Palermo hold thousands of mummified bodies from the 16th to the 20th centuries.",
+        "The Sicilian puppet theatre (Opera dei Pupi) is a UNESCO Intangible Cultural Heritage.",
+        "The salt pans around Trapani and Marsala, with their windmills, create a picturesque landscape and produce high-quality sea salt.",
+        "Many iconic scenes from 'The Godfather' trilogy were filmed in Sicily.",
+        "The Aeolian Islands, including the constantly active Stromboli, are a volcanic archipelago off the island's coast."
+      ]
+    }
   },
   {
     id: "reg-veneto",
@@ -107,6 +167,18 @@ export const italyRegions: POI[] = [
       ro: ["Veneția este capitala regiunii Veneto.","Verona, cadrul pentru Romeo și Julieta de Shakespeare, este situată în Veneto.","Regiunea este locul de naștere al Prosecco, popularul vin spumant italian.","Munții Dolomiți din nord oferă schi și drumeții de clasă mondială.","Veneto a fost o republică independentă timp de peste 1.000 de ani.","Padova găzduiește una dintre cele mai vechi universități din lume, fondată în 1222.","Tiramisu, faimosul desert cu aromă de cafea, își are originea în regiunea Veneto.","Regiunea organizează un carnaval major în Veneția, cunoscut pentru măștile și costumele elaborate."]
     },
     image: "/geo-images/italy/veneto.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Veneto régiója sokkal többet kínál Velence csatornáinál. A Dolomitok fenséges csúcsaitól a Garda-tó keleti partjáig és a termékeny Pó-síkságig terjedő táj rendkívül változatos. A régió a Velencei Köztársaság ezeréves történelmi örökségét hordozza, amely a kereskedelem és a művészetek központja volt. Padova és Verona városa is büszkélkedhet gazdag kulturális élettel; előbbi Európa egyik legrégebbi egyetemének, utóbbi pedig Shakespeare Rómeó és Júliájának helyszíne. A Prosecco borvidék dombjai, amelyek ma már az UNESCO Világörökség részét képezik, a világhírű habzóbor hazája. Történelem K5 — Kereskedővárosok a középkorban.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A padovai botanikus kert (1545) a világ legrégebbi egyetemi botanikus kertje, és az UNESCO Világörökség része.","A Bassano del Grappa-i Alpini-híd, amelyet Andrea Palladio tervezett, a hegyi csapatok szimbóluma.","A régióban található a 'Strada del Prosecco', Olaszország első borútja.","Veronában egy római kori aréna található, amely ma is operaelőadásoknak ad otthont, és akusztikája világhírű.","A Velencei-lagúnában található Chioggia várost 'Kis Velencének' is nevezik csatornái és hídjai miatt.","A Tiramisu desszertet a venetói Trevisóban találták fel az 1960-as években.","A régió gazdasága a turizmus mellett jelentős ipari és mezőgazdasági termelésre is támaszkodik."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "reg-lazio",
@@ -127,6 +199,18 @@ export const italyRegions: POI[] = [
       ro: ["Roma este atât capitala regiunii Lazio, cât și a Italiei.","Lazio găzduiește Vaticanul, o țară independentă în interiorul Romei.","Regiunea este cunoscută pentru frumoasele sale lacuri vulcanice, cum ar fi Lacul Bracciano și Lacul Bolsena.","Tivoli din Lazio găzduiește spectaculoasa Villa d'Este și Vila lui Hadrian.","Vechiul oraș portuar Ostia Antica este situat în Lazio.","Este faimos pentru mâncărurile clasice de paste romane precum Carbonara și Amatriciana.","Via Appia, unul dintre primele drumuri romane, trece prin Lazio.","Etruscii au trăit în partea de nord a Lazio înainte de ascensiunea Romei."]
     },
     image: "/geo-images/italy/lazio.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Lazio, Olaszország szíve, a Római Birodalom és a pápaság történelmének epicentruma. Róma ókori romjai és a Vatikán művészeti kincsei mellett a régió rejtett gyöngyszemeket is kínál. A Castelli Romani vulkanikus tavai, mint az Albano-tó és a Nemi-tó, a rómaiak kedvelt nyári menedékhelyei. Tivoli városa a Villa d'Este lenyűgöző szökőkútjaival és Hadrianus császár hatalmas villájával büszkélkedhet. Az etruszk civilizáció nyomai Tarquinia és Cerveteri nekropoliszaiban fedezhetők fel, amelyek az UNESCO Világörökség részét képezik. Lazio tájai a Tirrén-tenger partjától az Appenninek hegyeiig terjednek, változatos élményeket nyújtva. Történelem K5 — Az ókori Róma.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Az Appia Antica út, az egyik első római út, ma egy regionális park, ahol ókori síremlékek és katakombák találhatók.","A 'Szent Szörnyek Parkja' Bomarzóban egy bizarr, 16. századi szoborkert, tele mitológiai lényekkel.","Frascati városa híres a fehérboráról, amelyet a környék vulkanikus talaján termesztenek.","A régióban található a világ egyik legkisebb országa, a Vatikán.","Ostia Antica, Róma ókori kikötővárosa, Pompejihez hasonlóan lenyűgöző bepillantást enged a római mindennapokba.","A Civita di Bagnoregio egy lassan erodálódó tufasziklára épült, haldokló városként ismert középkori falu.","A tésztaételek, mint a Carbonara, Amatriciana és Cacio e Pepe, mind a lazioi konyhából származnak."],
+      ro: [],
+      en: []
+    }
   },
 ];
 
@@ -156,6 +240,12 @@ export const italyCities: POI[] = [
       ro: ["Roma este adesea menționată ca 'Orașul Etern'.","A fost fondată în 753 î.Hr., conform tradiției de Romulus și Remus.","Colosseumul este cel mai mare amfiteatru antic construit vreodată.","Roma este singurul oraș din lume care conține un stat întreg (Vaticanul) în interiorul său.","Fântâna Trevi colectează mii de euro în monede în fiecare zi, care sunt donați în scopuri caritabile.","Roma are un muzeu dedicat în întregime pastelor.","Panteonul din Roma este cea mai conservată și influentă clădire a Romei antice.","Există peste 900 de biserici în Roma."]
     },
     image: "/geo-images/italy/rome.webp",
+    factsAdvanced: {
+      de: [],
+      hu: ["A város 1871 óta az egységes Olaszország fővárosa.","Róma hét dombra épült: Palatinus, Aventinus, Capitolinus, Quirinalis, Viminalis, Esquilinus és Caelius.","A Borghese Galéria és Kert egy lenyűgöző művészeti gyűjteményt rejt egy hatalmas parkban.","Minden évben több millió eurónyi érmét dobnak a Trevi-kútba.","Az Appia Antica, a 'utak királynője', az egyik legrégebbi és stratégiailag legfontosabb római út volt.","Rómában több mint 900 templom található, ami a világon a legtöbb egy városban.","A 'La Sapienza' Egyetemet 1303-ban alapították, Európa egyik legnagyobb egyeteme."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "milan",
@@ -176,6 +266,18 @@ export const italyCities: POI[] = [
       ro: ["Milano este al doilea cel mai populat oraș din Italia după Roma.","Finalizarea Domului din Milano a durat aproape șase secole.","Găzduiește Săptămâna Modei de la Milano, unul dintre cele mai importante evenimente de modă la nivel global.","Galleria Vittorio Emanuele II este cel mai vechi centru comercial activ din Italia.","Milano găzduiește două cluburi majore de fotbal: AC Milan și Inter Milan.","Orașul are o rețea extinsă de tramvaie care datează din 1881.","A fost capitala Imperiului Roman de Apus între 286 și 402 d.Hr.","Milano dispune de Navigli, un sistem de canale navigabile și interconectate."]
     },
     image: "/geo-images/italy/milan.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Milánó Olaszország pénzügyi és divatfővárosa, ahol a modern felhőkarcolók és a történelmi épületek izgalmas kontrasztot alkotnak. A gótika mesterműve, a Dóm, tetőteraszáról páratlan kilátás nyílik a városra. A Santa Maria delle Grazie-templomban Leonardo da Vinci 'Az utolsó vacsora' című freskója a reneszánsz művészet egyik csúcsa. A Quadrilatero della Moda luxusüzletei a divat szerelmeseinek zarándokhelyei. A Navigli-csatornák mentén esténként pezsgő élet zajlik, a bárok és éttermek hangulatosak. Milánó az üzlet, a művészet és az 'aperitivo' kultúrájának tökéletes elegye. Gazdaságföldrajz K8 — Divatipar és globális márkák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A La Scala operaház a világ egyik leghíresebb operaháza, 1778-ban nyílt meg.","A város ad otthont Olaszország legrégebbi bevásárlóközpontjának, a Galleria Vittorio Emanuele II-nek.","A milánói rizottó (Risotto alla Milanese) sáfránnyal készül, ami jellegzetes sárga színét adja.","Két világhírű futballcsapat, az AC Milan és az Inter Milan otthona.","A Pirelli-torony a modern olasz építészet egyik első és legjelentősebb példája.","A Brera negyed a művészek és a bohém élet központja, tele galériákkal és hangulatos utcákkal.","Milánóban található a legrégebbi, még működő villamoshálózatiak egyike.","A város a 4. században rövid ideig a Nyugat-Római Birodalom fővárosa volt."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "venice",
@@ -196,6 +298,18 @@ export const italyCities: POI[] = [
       ro: ["Veneția este construită pe milioane de piloți de lemn pietrificați înfipți în mlaștină.","Există peste 400 de poduri care conectează insulele orașului.","Orașul este faimos pentru sticla sa de Murano suflată manual și dantela de Burano.","Acqua Alta este inundația periodică care afectează Veneția la maree înaltă.","Gondolele sunt asimetrice pentru a contrabalansa greutatea gondolierului.","Festivalul de Film de la Veneția este cel mai vechi festival de film din lume.","Veneția a fost cândva o republică maritimă independentă timp de peste un mileniu.","Vehiculele motorizate sunt strict interzise în centrul istoric."]
     },
     image: "/geo-images/italy/venice.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Velence, a lagúnák városa, egyedülálló csoda, amely 118 szigetre épült. A Canal Grande, a város fő ütőere, reneszánsz és gótikus palotákkal van szegélyezve, amelyeken a vaporettók és gondolák közlekednek. A Szent Márk tér a város szíve, ahol a bizánci stílusú bazilika, a Dózse-palota és a Campanile harangtorony áll. A szűk sikátorok (calle) és hidak labirintusában eltévedni a legjobb módja a város rejtett zugainak felfedezésének. A velencei karnevál a maszkok és a jelmezek pazar ünnepe. Velence a művészet, a történelem és a romantika páratlan keveréke, amely lassan, de méltóságteljesen küzd az idő és a víz ellen. Történelem K6 — Kereskedőállamok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Velence több mint 1100 évig volt független köztársaság.","A városban több mint 400 híd található, a leghíresebbek a Rialto-híd és a Sóhajok hídja.","A 'Libreria Acqua Alta' a világ egyik legkülönlegesebb könyvesboltja, ahol a könyveket gondolákban és csónakokban tárolják.","Az Acqua Alta, a periodikus magas vízállás, a város életének természetes része.","A Velencei Biennále a világ egyik legrangosabb kortárs képzőművészeti kiállítása.","A Murano-sziget a híres velencei üveggyártás központja, míg Burano a csipkekészítésről és a színes házakról ismert.","A városban nincsenek autók, a közlekedés kizárólag vízen és gyalogosan történik.","A Campari és az Aperol Spritz népszerű aperitifek, amelyek szorosan kötődnek Velencéhez."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "florence",
@@ -216,6 +330,18 @@ export const italyCities: POI[] = [
       ro: ["Florența este considerată locul de naștere al Renașterii italiene.","Orașul a fost guvernat timp de secole de puternica familie Medici.","Ponte Vecchio este un pod medieval celebru peste râul Arno, cunoscut pentru magazinele de bijuterii.","Catedrala din Florența (Il Duomo) a necesitat peste 140 de ani pentru a fi finalizată.","Dante Alighieri, autorul Divinei Comedii, s-a născut la Florența.","Florența a fost pentru scurt timp capitala Regatului Italiei din 1865 până în 1871.","Orașul a suferit o inundație devastatoare în 1966 care a avariat multe opere de artă.","Galeria Uffizi este unul dintre cele mai vizitate muzee de artă din lume."]
     },
     image: "/geo-images/italy/florence.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Firenze, a reneszánsz bölcsője, olyan, mint egy szabadtéri múzeum. A város látképét a Dóm lenyűgöző, Brunelleschi által tervezett kupolája uralja. Az Uffizi Képtár és a Galleria dell'Accademia a világ legjelentősebb művészeti kincseit őrzik, köztük Botticelli 'Vénusz születését' és Michelangelo 'Dávidját'. A Ponte Vecchio, az Arno folyó felett átívelő középkori híd, ékszerüzleteivel egyedülálló látvány. A Medici család öröksége mindenütt jelen van, a Pitti-palotától a San Lorenzo-templomig. Firenze a művészet, a történelem és a toszkán gasztronómia fellegvára. Művészettörténet K7 — A reneszánsz művészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A modern olasz nyelv a firenzei dialektusból fejlődött ki, Dante Alighieri munkásságának köszönhetően.","A Pitti-palota mögött elterülő Boboli-kert az olasz kerttervezés egyik legkorábbi és legfontosabb példája.","Firenze volt az Olasz Királyság fővárosa 1865 és 1871 között.","A városban találták fel a zongorát, Bartolomeo Cristofori munkája révén.","A 'lampredotto', egy pacalból készült szendvics, a helyi street food specialitás.","Az 1966-os nagy árvíz súlyos károkat okozott a város művészeti kincseiben.","A város jelképe a 'Marzocco', a pajzsot tartó oroszlán, Donatello szobrának másolata a Piazza della Signoria-n áll.","Gucci, a híres divatmárka, Firenzében alakult 1921-ben."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "naples",
@@ -274,6 +400,18 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/naples.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Nápoly, Dél-Olaszország lüktető szíve, egy város tele ellentmondásokkal és élettel. A Vezúv árnyékában fekvő metropolisz a pizza szülőhazája, ahol a 'vera pizza napoletana' hagyományát szigorúan őrzik. A történelmi központ, az UNESCO Világörökség része, egy szűk utcákból álló labirintus, ahol a mindennapi élet zajos és színes. A föld alatt alagutak és katakombák hálózata húzódik, amely a város egy másik, rejtett arcát mutatja meg. A Nemzeti Régészeti Múzeum a Pompejiből és Herculaneumból származó leletek leggazdagabb gyűjteményének ad otthont. Nápoly egy nyers, autentikus és felejthetetlen olasz élmény. Kultúrtörténet K6 — Ókori római mindennapok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A nápolyi nyelv egy különálló, gazdag irodalommal rendelkező újlatin nyelv, nem csupán egy olasz dialektus.","A San Carlo Operaház (1737) a legrégebbi, folyamatosan működő operaház Európában.","A 'Spaccanapoli' egy hosszú, egyenes utca, amely kettészeli a város ősi központját.","A nápolyi betlehemkészítés (presepe) egy aprólékos, generációkon átívelő művészeti hagyomány.","A város alatt egy kiterjedt geotermikus alagútrendszer húzódik, amelyet a görögök kezdtek el építeni.","A kávéfogyasztás kultúrája mélyen gyökerezik, a 'caffè sospeso' (felfüggesztett kávé) hagyománya is innen ered.","A 'sfogliatella', egy kagyló alakú, ricottával töltött sütemény, a város ikonikus édessége.","Nápoly ad otthont a világ egyik legrégebbi állami egyetemének, a II. Frigyes Egyetemnek (1224)."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "colosseum",
@@ -332,6 +470,18 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/colosseum.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Colosseum, eredeti nevén Flavius Amphitheatrum, a Római Birodalom nagyságának és mérnöki zsenialitásának örök szimbóluma. Az i.sz. 1. században épült monumentális aréna a birodalom legnagyobb amfiteátruma volt, amely becslések szerint 50 000-80 000 nézőt tudott befogadni. Itt tartották a hírhedt gladiátorviadalokat, állatvadászatokat (venationes) és nyilvános kivégzéseket. A föld alatti, bonyolult alagútrendszer, a hypogeum, lehetővé tette a harcosok és állatok drámai megjelenését az arénában. Bár az évszázadok során földrengések és kőrablók károsították, ma is Róma leglátogatottabb műemléke. Történelem K5 — Az ókori Róma mindennapjai.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Építését Vespasianus császár kezdte meg és fia, Titus fejezte be i.sz. 80-ban.","A külső falakhoz több mint 100 000 köbméter travertin követ használtak fel, vas kapcsokkal rögzítve.","A bonyolult, 80 bejáratból álló rendszer lehetővé tette a hatalmas tömeg gyors és rendezett be- és kiáramlását.","A forró napokon egy hatalmas vászontetőt, a velariumot feszítettek ki a nézőtér fölé, árnyékot biztosítva.","Alkalmanként vízi csatákat (naumachia) is rendeztek az aréna vízzel való elárasztásával.","A középkorban erőddé, majd lakóépületekké és műhelyekké alakították.","2007-ben a világ hét új csodájának egyikeként választották meg.","A Colosseum képe szerepel az olasz 5 centes euróérmén."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "pisa-tower",
@@ -390,6 +540,18 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/pisa-tower.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A pisai ferde torony, a város katedrálisának harangtornya (campanile), Olaszország egyik legismertebb jelképe. A dőlés már az építkezés korai szakaszában, a 12. században megkezdődött a gyenge altalaj miatt. Az évszázadok során a mérnökök folyamatosan próbálták korrigálni a dőlést, az egyik oldalon magasabbra építve az újabb szinteket, ami a torony enyhe banán-alakját eredményezte. A 20. század végén végzett komoly stabilizációs munkálatoknak köszönhetően a torony ma már biztonságosan látogatható. A Piazza dei Miracoli (Csodák tere) részeként a Dómmal és a Keresztelőkápolnával együtt az UNESCO Világörökség része. Fizika K7 — Gravitáció és tömegközéppont.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A torony építése három szakaszban, közel 200 évig tartott.","A dőlés mértéke a stabilizálás előtt elérte az 5,5 fokot, ma körülbelül 3,97 fok.","A tetején hét harang található, amelyek a zenei skála hét hangjának felelnek meg.","A legenda szerint Galileo Galilei a toronyból leejtett tárgyakkal végezte gravitációs kísérleteit.","A 296 lépcsőfok vezet fel a csúcsra.","A torony hengeres teste hat oszlopsorból áll, amelyek a román stílusú építészet jegyeit viselik.","A 20. századi beavatkozás során több tonna földet távolítottak el az északi oldal alól, hogy csökkentsék a dőlést."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "pompeii",
@@ -448,6 +610,18 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/pompeii.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Pompeji, az ókori római város, amelyet a Vezúv i.sz. 79-es kitörése konzervált, egyedülálló régészeti lelőhely. A több méter vastag hamu- és habkőréteg alatt megőrződött város egy pillanatfelvételt ad egy virágzó kereskedelmi központ mindennapjairól. A feltárt utcák, lakóházak (domusok), üzletek, fürdők és templomok lenyűgöző részletességgel mutatják be a római életmódot. A freskók, mozaikok és a falakon talált graffitik betekintést engednek a kor művészetébe, politikájába és humorába. A legmegrendítőbb leletek a kitörés áldozatainak gipszöntvényei, amelyek az utolsó pillanataikban örökítették meg őket. Történelem K5 — Az ókori Róma.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A város a Sarno folyó torkolatánál feküdt, ami fontos kereskedelmi útvonallá tette.","A feltárások során komplett pékségeket találtak kemencékkel és elszenesedett kenyerekkel.","A 'Cave Canem' ('Vigyázz a kutyával!') mozaik egy híres lelet egy pompeji ház bejáratától.","Pompejiben volt amfiteátrum, két színház és számos közfürdő.","A Vénusznak szentelt templom a város egyik legfontosabb vallási központja volt.","A 'Villa dei Misteri' (Misztériumok Villája) híres freskói egy titokzatos vallási beavatási szertartást ábrázolnak.","A lakosok nem tudták, hogy a Vezúv egy vulkán, hegynek hitték.","Ifjabb Plinius levelei részletesen dokumentálták a kitörést, nagybátyja, Idősebb Plinius halálát is beleértve."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "etna",
@@ -506,6 +680,26 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/etna.webp",
+    descriptionAdvanced: {
+        de: "",
+        hu: "Az Etna, Európa legmagasabb és legaktívabb vulkánja, Szicília keleti partjának látképét uralja. Folyamatos tevékenysége, a lávafolyamoktól a gáz- és hamukibocsátásig, folyamatosan formálja a környező tájat. A hegy oldala egyedülálló ökoszisztéma, ahol a termékeny vulkáni talajon citrusligetek és szőlőültetvények virágoznak, míg a magasabb régiókban holdbéli táj fogadja a látogatót. A hegyre felvonóval és terepjáró buszokkal lehet feljutni, amelyek a fő kráterek közelébe visznek. Az Etna nemcsak természeti csoda, hanem a helyi kultúra és gazdaság szerves része is. Földrajz K8 – Vulkáni tevékenység.",
+        ro: "",
+        en: ""
+    },
+    factsAdvanced: {
+        de: [],
+        hu: [
+            "Az Etna kitöréseit több mint 2700 éve dokumentálják, ezzel a világ leghosszabb ideig feljegyzett vulkáni tevékenységével rendelkezik.",
+            "A hegy magassága a kitörések miatt folyamatosan változik.",
+            "A görög mitológiában Héphaisztosz, a kovácsisten műhelye az Etna alatt volt.",
+            "A 'Valle del Bove' egy hatalmas patkó alakú mélyedés a hegy keleti oldalán, amelyet egy ősi, katasztrofális összeomlás hozott létre.",
+            "A Circumetnea vasút egy 110 km hosszú, keskeny nyomtávú vasútvonal, amely körbejárja a vulkán lábát.",
+            "Az Etna lejtőin termelt borok (Etna DOC) különleges, ásványos ízvilágukról ismertek.",
+            "Télen a hegyen síelni is lehet, a sípályák egyedülálló kilátást nyújtanak a Jón-tengerre."
+        ],
+        ro: [],
+        en: []
+    }
   },
   {
     id: "vatican",
@@ -564,6 +758,18 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/vatican.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Vatikán, a világ legkisebb független állama, a katolicizmus spirituális és adminisztratív központja. A Szent Péter-bazilika, a kereszténység legnagyobb temploma, lenyűgöző kupolájával és Michelangelo Pietà szobrával a reneszánsz építészet csúcsa. A Vatikáni Múzeumok a világ egyik leggazdagabb művészeti gyűjteményét őrzik, amelynek csúcspontja a Sixtus-kápolna, Michelangelo 'Ádám teremtése' és 'Utolsó ítélet' című freskóival. A Szent Péter tér, Bernini ölelő oszlopsorával, a hívők és turisták gyülekezőhelye. A Vatikán a hit, a történelem és a művészet egyedülálló ötvözete. Történelem K8 – A pápaság története.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Vatikánnak saját postaszolgálata, vasútállomása és médiaorgánumai vannak.","A Svájci Gárda, a világ legkisebb és legrégebbi hadserege, 1506 óta védi a pápát.","A Vatikáni Titkos Levéltár évszázadok történelmi dokumentumait őrzi.","A Vatikáni Kertek az állam területének több mint felét elfoglalják.","A Vatikán saját euró érméket bocsát ki.","A Passetto di Borgo egy titkos folyosó, amely a Vatikánt köti össze az Angyalvárral.","Az államnak nincs saját repülőtere."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "it-pompei-full",
@@ -621,7 +827,19 @@ export const italyCities: POI[] = [
                 "A fost recunoscut ca sit al Patrimoniului Mondial UNESCO în 1997."
           ]
     },
-    image: "/geo-images/italy/it-pompei-full.webp"
+    image: "/geo-images/italy/it-pompei-full.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Pompeji, az ókori római város, amelyet a Vezúv i.sz. 79-es kitörése konzervált, egyedülálló régészeti lelőhely. A több méter vastag hamu- és habkőréteg alatt megőrződött város egy pillanatfelvételt ad egy virágzó kereskedelmi központ mindennapjairól. A feltárt utcák, lakóházak (domusok), üzletek, fürdők és templomok lenyűgöző részletességgel mutatják be a római életmódot. A freskók, mozaikok és a falakon talált graffitik betekintést engednek a kor művészetébe, politikájába és humorába. A legmegrendítőbb leletek a kitörés áldozatainak gipszöntvényei, amelyek az utolsó pillanataikban örökítették meg őket. Történelem K5 — Az ókori Róma.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A város a Sarno folyó torkolatánál feküdt, ami fontos kereskedelmi útvonallá tette.","A feltárások során komplett pékségeket találtak kemencékkel és elszenesedett kenyerekkel.","A 'Cave Canem' ('Vigyázz a kutyával!') mozaik egy híres lelet egy pompeji ház bejáratától.","Pompejiben volt amfiteátrum, két színház és számos közfürdő.","A Vénusznak szentelt templom a város egyik legfontosabb vallási központja volt.","A 'Villa dei Misteri' (Misztériumok Villája) híres freskói egy titokzatos vallási beavatási szertartást ábrázolnak.","A lakosok nem tudták, hogy a Vezúv egy vulkán, hegynek hitték.","Ifjabb Plinius levelei részletesen dokumentálták a kitörést, nagybátyja, Idősebb Plinius halálát is beleértve."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "it-herculaneum",
@@ -679,7 +897,19 @@ export const italyCities: POI[] = [
                 "Face parte din situl Patrimoniului Mondial UNESCO alături de Pompei și Torre Annunziata."
           ]
     },
-    image: "/geo-images/italy/it-herculaneum.webp"
+    image: "/geo-images/italy/it-herculaneum.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Herculaneum, Pompeji kevésbé ismert, de gazdagabb testvérvárosa, a Vezúv 79-es kitörésének egy másik, egyedülálló időkapszulája. Míg Pompejit hamu borította, Herculaneumot forró iszap és vulkáni anyag árasztotta el, ami sokkal jobban konzerválta a szerves anyagokat. Ennek köszönhetően elszenesedett fa ajtókeretek, bútorok, sőt, papirusztekercseket tartalmazó könyvtár is fennmaradt. A város lakóházai, mint a Szarvasos Ház, a tehetősebb réteg életébe engednek bepillantást, csodálatos mozaikjaikkal és freskóikkal. A csónakházakban talált csontvázak drámai módon tanúskodnak a menekülni próbálók tragikus sorsáról. Történelem K5 — Az ókori Róma.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A várost a mitikus hősről, Héraklészről (Herkules) nevezték el.","A Papiruszok Villája az egyetlen épségben fennmaradt antik könyvtár a világon.","A vulkáni anyag magas hőmérséklete azonnal elszenesítette a szerves anyagokat, megőrizve formájukat.","A feltárt terület kisebb, mint Pompejiben, mert a modern Ercolano városa ráépült.","A leletek között élelmiszer-maradványokat, például kenyeret és tojást is találtak.","A fürdők (thermae) különösen jó állapotban maradtak fenn, bemutatva a római fürdőkultúrát.","A falakon lévő választási felhívások és hirdetések a politikai életbe engednek betekintést."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "it-ostia-antica",
@@ -737,7 +967,19 @@ export const italyCities: POI[] = [
                 "Spre deosebire de Pompei, Ostia a fost abandonată lent de-a lungul secolelor, nu distrusă brusc."
           ]
     },
-    image: "/geo-images/italy/it-ostia-antica.webp"
+    image: "/geo-images/italy/it-ostia-antica.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ostia Antica, Róma ókori kikötővárosa, lenyűgöző betekintést nyújt a Római Birodalom kereskedelmi életébe. A Tiberis folyó torkolatánál fekvő város a birodalom kapuja volt, ahol a gabona, bor és egzotikus áruk partra szálltak. A hatalmas régészeti parkban sétálva felfedezhetjük a raktárakat (horrea), a kereskedelmi társaságok irodáit (a Corporazioni téren), és a többszintes bérházakat (insulae), ahol a dokkmunkások és kereskedők éltek. A színház, a fürdők és a pékségek mind a nyüzsgő városi életről tanúskodnak. Pompejivel ellentétben Ostiát nem egy katasztrófa, hanem a kikötő eliszaposodása miatt hagyták el lassan az évszázadok során. Történelem K6 — Kereskedelem az ókorban.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Corporazioni terén található mozaikok a különböző kereskedelmi céheket és árucikkeket hirdetik.","Az 'insulae' nevű bérházak a római városi lakhatás korai és jól megőrzött példái.","A Thermopolium egy ókori gyorsétterem, ahol a pultban lévő edényekben tárolták a meleg ételt.","A városnak több fürdője is volt, köztük a Neptunus fürdő, amelynek mozaikjai a tenger istenét ábrázolják.","Ostia saját tűzoltósággal (vigiles) rendelkezett a gyakori tüzek miatt.","A Capitolium a város fő temploma volt, amelyet Jupiter, Juno és Minerva tiszteletére emeltek.","A feltárt nekropoliszok a római temetkezési szokások sokféleségét mutatják be."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "it-siena",
@@ -853,7 +1095,19 @@ export const italyCities: POI[] = [
                 "În ciuda dimensiunilor sale mici, atrage milioane de vizitatori internaționali în fiecare an."
           ]
     },
-    image: "/geo-images/italy/it-san-gimignano.webp"
+    image: "/geo-images/italy/it-san-gimignano.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San Gimignano, a 'középkor Manhattan-je', a toszkán dombok között emelkedik ki egyedülálló toronysziluettjével. A középkorban a gazdag patrícius családok egymással versengve építették a lakótornyokat, hogy demonstrálják hatalmukat és gazdagságukat. Fénykorában 72 torony meredezett az ég felé, mára 14 maradt fenn. A város a Via Francigena, egy fontos zarándokút mentén feküdt, ami hozzájárult gazdasági fellendüléséhez. A ciszterna tér (Piazza della Cisterna) és a Dóm tér (Piazza del Duomo) a középkori városi élet központjai voltak. San Gimignano ma egy tökéletesen megőrzött időkapszula, amely visszarepíti a látogatót a 14. századba. Történelem K6 — Középkori városok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A legmagasabb torony, a Torre Grossa, 54 méter magas és látogatható.","A város a Vernaccia di San Gimignano nevű, száraz fehérboráról híres, amely az első DOCG minősítésű borok egyike volt Olaszországban.","A Fekete Halál (pestisjárvány) 1348-ban megtizedelte a lakosságot, ami a város hanyatlásához vezetett.","A Dóm freskói bibliai jeleneteket ábrázolnak, és a középkori 'képregényként' szolgáltak az írástudatlan hívek számára.","A város falai a 13. században épültek és szinte teljes egészében fennmaradtak.","A sáfránytermesztés fontos bevételi forrás volt a középkori város számára."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "it-assisi",

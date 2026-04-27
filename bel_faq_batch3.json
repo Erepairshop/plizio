@@ -1,0 +1,602 @@
+{
+  "hist-abbey-villers-la-ville": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Villers Abbey?",
+          "de": "Was ist die Abtei Villers?",
+          "hu": "Mi az a Villers-i apátság?",
+          "ro": "Ce este Abația Villers?"
+        },
+        "answer": {
+          "en": "Villers Abbey is a historic Cistercian abbey in ruins, founded in 1146, and is one of the most complete abbey ruins in Europe.",
+          "de": "Die Abtei Villers ist eine historische Zisterzienserabtei in Ruinen, die 1146 gegründet wurde und eine der vollständigsten Abteiruinen Europas ist.",
+          "hu": "A Villers-i apátság egy 1146-ban alapított, romokban álló történelmi ciszterci apátság, és Európa egyik legépebben maradt apátsági romegyüttese.",
+          "ro": "Abația Villers este o abație cisterciană istorică în ruine, fondată în 1146, fiind una dintre cele mai complete ruine de abație din Europa."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the Villers Abbey gardens?",
+          "de": "Kann man die Gärten der Abtei Villers besuchen?",
+          "hu": "Látogathatók a Villers-i apátság kertjei?",
+          "ro": "Se pot vizita grădinile Abației Villers?"
+        },
+        "answer": {
+          "en": "Yes, the site includes several themed gardens, including a medicinal herb garden, which visitors can explore along with the ruins.",
+          "de": "Ja, das Gelände umfasst mehrere thematische Gärten, darunter einen Heilkräutergarten, den Besucher zusammen mit den Ruinen erkunden können.",
+          "hu": "Igen, a helyszín több tematikus kertet is magában foglal, köztük egy gyógynövénykertet, amelyet a látogatók a romokkal együtt fedezhetnek fel.",
+          "ro": "Da, situl include mai multe grădini tematice, inclusiv o grădină de plante medicinale, pe care vizitatorii o pot explora împreună cu ruinele."
+        }
+      },
+      {
+        "question": {
+          "en": "What events are held at Villers Abbey?",
+          "de": "Welche Veranstaltungen finden in der Abtei Villers statt?",
+          "hu": "Milyen eseményeket tartanak a Villers-i apátságban?",
+          "ro": "Ce evenimente au loc la Abația Villers?"
+        },
+        "answer": {
+          "en": "The ruins serve as a unique backdrop for concerts, outdoor theater, and various cultural festivals throughout the year.",
+          "de": "Die Ruinen dienen das ganze Jahr über als einzigartige Kulisse für Konzerte, Freilufttheater und verschiedene Kulturfestivals.",
+          "hu": "A romok egész évben egyedülálló hátteret biztosítanak koncerteknek, szabadtéri színházi előadásoknak és különféle kulturális fesztiváloknak.",
+          "ro": "Ruinele servesc ca fundal unic pentru concerte, teatru în aer liber și diverse festivaluri culturale pe tot parcursul anului."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Villers Abbey located?",
+          "de": "Wo liegt die Abtei Villers?",
+          "hu": "Hol található a Villers-i apátság?",
+          "ro": "Unde se află Abația Villers?"
+        },
+        "answer": {
+          "en": "It is located in the municipality of Villers-la-Ville, in the province of Walloon Brabant, Belgium.",
+          "de": "Sie befindet sich in der Gemeinde Villers-la-Ville in der Provinz Wallonisch-Brabant, Belgien.",
+          "hu": "Belgiumban, Vallon-Brabant tartományban, Villers-la-Ville községben található.",
+          "ro": "Este situată în municipiul Villers-la-Ville, în provincia Brabantul Valon, Belgia."
+        }
+      }
+    ]
+  },
+  "mountain-signal-de-botrange": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Signal de Botrange?",
+          "de": "Was ist Signal de Botrange?",
+          "hu": "Mi az a Signal de Botrange?",
+          "ro": "Ce este Signal de Botrange?"
+        },
+        "answer": {
+          "en": "Signal de Botrange is the highest point in Belgium, with an elevation of 694 meters above sea level.",
+          "de": "Signal de Botrange ist mit einer Höhe von 694 Metern über dem Meeresspiegel der höchste Punkt Belgiens.",
+          "hu": "A Signal de Botrange Belgium legmagasabb pontja, 694 méteres tengerszint feletti magassággal.",
+          "ro": "Signal de Botrange este cel mai înalt punct din Belgia, având o altitudine de 694 de metri deasupra nivelului mării."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Baltia hill' at Signal de Botrange?",
+          "de": "Was ist der 'Baltia-Hügel' am Signal de Botrange?",
+          "hu": "Mi az a 'Baltia-domb' a Signal de Botrange-nál?",
+          "ro": "Ce este „dealul Baltia” de la Signal de Botrange?"
+        },
+        "answer": {
+          "en": "It is an artificial mound with a staircase built in 1923 to bring the altitude of the site to a symbolic 700 meters.",
+          "de": "Es ist ein künstlicher Hügel mit einer Treppe, der 1923 errichtet wurde, um die Höhe des Ortes auf symbolische 700 Meter zu bringen.",
+          "hu": "Ez egy mesterséges domb lépcsővel, amelyet 1923-ban építettek, hogy a hely magasságát szimbolikus 700 méterre emeljék.",
+          "ro": "Este un dâmb artificial cu o scară construit în 1923 pentru a aduce altitudinea sitului la o valoare simbolică de 700 de metri."
+        }
+      },
+      {
+        "question": {
+          "en": "What activities can you do at Signal de Botrange?",
+          "de": "Welche Aktivitäten kann man am Signal de Botrange unternehmen?",
+          "hu": "Milyen tevékenységeket lehet végezni a Signal de Botrange-nál?",
+          "ro": "Ce activități se pot face la Signal de Botrange?"
+        },
+        "answer": {
+          "en": "The area is popular for hiking, cross-country skiing in winter, and exploring the surrounding High Fens nature reserve.",
+          "de": "Die Gegend ist beliebt zum Wandern, Langlaufen im Winter und zum Erkunden des umliegenden Naturschutzgebiets Hohes Venn.",
+          "hu": "A terület népszerű túrázáshoz, télen sífutáshoz, valamint a környező Hohes Venn természetvédelmi terület felfedezéséhez.",
+          "ro": "Zona este populară pentru drumeții, schi fond în timpul iernii și explorarea rezervației naturale Hohes Venn din jur."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Signal de Botrange located?",
+          "de": "Wo liegt Signal de Botrange?",
+          "hu": "Hol található a Signal de Botrange?",
+          "ro": "Unde se află Signal de Botrange?"
+        },
+        "answer": {
+          "en": "It is located in the High Fens region (Hohes Venn) in the province of Liège, eastern Belgium.",
+          "de": "Es befindet sich in der Region Hohes Venn in der Provinz Lüttich im Osten Belgiens.",
+          "hu": "Belgium keleti részén, Liège tartományban, a Hohes Venn régióban található.",
+          "ro": "Este situat în regiunea High Fens (Hohes Venn) din provincia Liège, în estul Belgiei."
+        }
+      }
+    ]
+  },
+  "forest-hallerbos": {
+    "faq": [
+      {
+        "question": {
+          "en": "Why is Hallerbos called 'The Blue Forest'?",
+          "de": "Warum wird der Hallerbos 'Der blaue Wald' genannt?",
+          "hu": "Miért nevezik a Hallerbos-t 'Kék erdőnek'?",
+          "ro": "De ce este numit Hallerbos „Pădurea Albastră”?"
+        },
+        "answer": {
+          "en": "It is famous for the vast carpet of bluebells that bloom on the forest floor, usually in late April and early May.",
+          "de": "Er ist berühmt für den riesigen Teppich aus Hasenglöckchen, die auf dem Waldboden blühen, normalerweise Ende April und Anfang Mai.",
+          "hu": "Híres az erdő talaját borító hatalmas kék jácint szőnyegről, amely általában április végén és május elején virágzik.",
+          "ro": "Este faimos pentru covorul vast de zambile albastre care înfloresc pe solul pădurii, de obicei la sfârșitul lunii aprilie și începutul lunii mai."
+        }
+      },
+      {
+        "question": {
+          "en": "Is there an entrance fee for Hallerbos?",
+          "de": "Gibt es eine Eintrittsgebühr für den Hallerbos?",
+          "hu": "Van belépődíj a Hallerbos-ba?",
+          "ro": "Există o taxă de intrare pentru Hallerbos?"
+        },
+        "answer": {
+          "en": "No, entrance to the forest is free for all visitors.",
+          "de": "Nein, der Eintritt in den Wald ist für alle Besucher kostenlos.",
+          "hu": "Nem, az erdőbe való belépés minden látogató számára ingyenes.",
+          "ro": "Nu, intrarea în pădure este liberă pentru toți vizitatorii."
+        }
+      },
+      {
+        "question": {
+          "en": "What are the rules for visiting Hallerbos during the bluebell season?",
+          "de": "Welche Regeln gelten für den Besuch des Hallerbos während der Hasenglöckchen-Saison?",
+          "hu": "Milyen szabályok vonatkoznak a Hallerbos látogatására a jácintvirágzás idején?",
+          "ro": "Care sunt regulile pentru vizitarea Hallerbos în timpul sezonului zambilelor albastre?"
+        },
+        "answer": {
+          "en": "Visitors must stay on the marked paths to avoid crushing the delicate flowers, and picking the flowers is strictly forbidden.",
+          "de": "Besucher müssen auf den markierten Wegen bleiben, um die empfindlichen Blumen nicht zu zertreten, und das Pflücken der Blumen ist streng verboten.",
+          "hu": "A látogatóknak a kijelölt ösvényeken kell maradniuk, hogy ne tapossák el a kényes virágokat, és a virágok szedése szigorúan tilos.",
+          "ro": "Vizitatorii trebuie să rămână pe potecile marcate pentru a evita strivirea florilor delicate, iar culesul florilor este strict interzis."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Hallerbos located?",
+          "de": "Wo liegt der Hallerbos?",
+          "hu": "Hol található a Hallerbos?",
+          "ro": "Unde se află Hallerbos?"
+        },
+        "answer": {
+          "en": "Hallerbos is located south of Brussels, near the town of Halle in Flemish Brabant.",
+          "de": "Der Hallerbos liegt südlich von Brüssel, in der Nähe der Stadt Halle in Flämisch-Brabant.",
+          "hu": "A Hallerbos Brüsszeltől délre, Halle városa közelében, Flamand-Brabant tartományban található.",
+          "ro": "Hallerbos este situat la sud de Bruxelles, lângă orașul Halle din Brabantul Flamand."
+        }
+      }
+    ]
+  },
+  "forest-sonian-forest": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Sonian Forest?",
+          "de": "Was ist der Sonienwald?",
+          "hu": "Mi az a Sonian Forest?",
+          "ro": "Ce este Pădurea Sonian?"
+        },
+        "answer": {
+          "en": "The Sonian Forest (Zoniënwoud) is an ancient forest of massive beech trees located on the edge of Brussels.",
+          "de": "Der Sonienwald (Zoniënwoud) ist ein alter Wald aus gewaltigen Buchen am Stadtrand von Brüssel.",
+          "hu": "A Sonian Forest (Zoniënwoud) egy ősi erdő hatalmas bükkfákkal, Brüsszel szélén.",
+          "ro": "Pădurea Sonian (Zoniënwoud) este o pădure veche de fagi masivi situată la marginea Bruxelles-ului."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the Sonian Forest a protected site?",
+          "de": "Ist der Sonienwald ein Schutzgebiet?",
+          "hu": "Védett terület a Sonian Forest?",
+          "ro": "Este Pădurea Sonian un sit protejat?"
+        },
+        "answer": {
+          "en": "Yes, parts of the forest are recognized as a UNESCO World Heritage site as part of the 'Ancient and Primeval Beech Forests' listing.",
+          "de": "Ja, Teile des Waldes sind als UNESCO-Weltkulturerbe im Rahmen der Liste 'Alte Buchenwälder und Buchenurwälder' anerkannt.",
+          "hu": "Igen, az erdő egyes részei az UNESCO Világörökség részét képezik az 'Ősbükkösök' listáján.",
+          "ro": "Da, părți din pădure sunt recunoscute ca sit al Patrimoniului Mondial UNESCO, ca parte a listei „Pădurilor de fag antice și primordiale”."
+        }
+      },
+      {
+        "question": {
+          "en": "What wildlife can be found in the Sonian Forest?",
+          "de": "Welche Wildtiere gibt es im Sonienwald?",
+          "hu": "Milyen vadvilág található a Sonian Forest-ben?",
+          "ro": "Ce animale sălbatice pot fi găsite în Pădurea Sonian?"
+        },
+        "answer": {
+          "en": "The forest is home to roe deer, foxes, wild boar, and many species of birds and bats.",
+          "de": "Der Wald ist die Heimat von Rehwild, Füchsen, Wildschweinen und vielen Vogel- und Fledermausarten.",
+          "hu": "Az erdőben őzek, rókák, vaddisznók, valamint számos madár- és denevérfaj él.",
+          "ro": "Pădurea găzduiește căprioare, vulpi, mistreți și multe specii de păsări și lilieci."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Sonian Forest located?",
+          "de": "Wo liegt der Sonienwald?",
+          "hu": "Hol található a Sonian Forest?",
+          "ro": "Unde se află Pădurea Sonian?"
+        },
+        "answer": {
+          "en": "It stretches across the three regions of Belgium: Flanders, Wallonia, and the Brussels-Capital Region.",
+          "de": "Er erstreckt sich über die drei Regionen Belgiens: Flandern, Wallonien und die Region Brüssel-Hauptstadt.",
+          "hu": "Belgium mindhárom régióján: Flandrián, Vallónián és a Brüsszeli Fővárosi Régión is átnyúlik.",
+          "ro": "Se întinde pe cele trei regiuni ale Belgiei: Flandra, Valonia și Regiunea Capitalei Bruxelles."
+        }
+      }
+    ]
+  },
+  "lake-lac-de-l-eau-d-heure": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Lac de l'Eau d'Heure?",
+          "de": "Was ist der Lac de l'Eau d'Heure?",
+          "hu": "Mi az a Lac de l'Eau d'Heure?",
+          "ro": "Ce este Lac de l'Eau d'Heure?"
+        },
+        "answer": {
+          "en": "It is a complex of five artificial lakes, forming the largest lake area in Belgium.",
+          "de": "Es ist ein Komplex aus fünf künstlichen Seen, die das größte Seengebiet Belgiens bilden.",
+          "hu": "Öt mesterséges tóból álló tórendszer, amely Belgium legnagyobb tóvidékét alkotja.",
+          "ro": "Este un complex de cinci lacuri artificiale, formând cea mai mare zonă lacustră din Belgia."
+        }
+      },
+      {
+        "question": {
+          "en": "What sports are available at the lakes?",
+          "de": "Welche Sportarten sind an den Seen möglich?",
+          "hu": "Milyen sportolási lehetőségek vannak a tavaknál?",
+          "ro": "Ce sporturi sunt disponibile la lacuri?"
+        },
+        "answer": {
+          "en": "The lakes offer activities such as sailing, windsurfing, diving, jet skiing, and swimming.",
+          "de": "Die Seen bieten Aktivitäten wie Segeln, Windsurfen, Tauchen, Jet-Ski und Schwimmen an.",
+          "hu": "A tavaknál vitorlázni, szörfözni, búvárkodni, jet-skizni és úszni is lehet.",
+          "ro": "Lacurile oferă activități precum navigație, windsurfing, scufundări, jet ski și înot."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the dam of Lac de l'Eau d'Heure?",
+          "de": "Kann man den Staudamm des Lac de l'Eau d'Heure besuchen?",
+          "hu": "Látogatható a Lac de l'Eau d'Heure gátja?",
+          "ro": "Se poate vizita barajul de la Lac de l'Eau d'Heure?"
+        },
+        "answer": {
+          "en": "Yes, there are guided tours that take visitors inside the Plate Taille dam, including a panoramic view from the top.",
+          "de": "Ja, es gibt geführte Touren, die Besucher in den Staudamm von Plate Taille führen, einschließlich eines Panoramablicks von der Spitze.",
+          "hu": "Igen, vezetett túrák keretében be lehet menni a Plate Taille gát belsejébe, és a tetejéről panorámás kilátás nyílik.",
+          "ro": "Da, există tururi ghidate care îi conduc pe vizitatori în interiorul barajului Plate Taille, incluzând o vedere panoramică de sus."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Lac de l'Eau d'Heure located?",
+          "de": "Wo liegt der Lac de l'Eau d'Heure?",
+          "hu": "Hol található a Lac de l'Eau d'Heure?",
+          "ro": "Unde se află Lac de l'Eau d'Heure?"
+        },
+        "answer": {
+          "en": "It is located in the provinces of Hainaut and Namur, in the Walloon region of Belgium.",
+          "de": "Es befindet sich in den Provinzen Hennegau und Namur in der wallonischen Region Belgiens.",
+          "hu": "Belgium vallon régiójában, Hainaut és Namur tartományok határán található.",
+          "ro": "Este situat în provinciile Hainaut și Namur, în regiunea valonă a Belgiei."
+        }
+      }
+    ]
+  },
+  "lake-robertville": {
+    "faq": [
+      {
+        "question": {
+          "en": "What can you do at Lake Robertville?",
+          "de": "Was kann man am Robertville-See unternehmen?",
+          "hu": "Mit lehet csinálni a Robertville-i tónál?",
+          "ro": "Ce se poate face la Lacul Robertville?"
+        },
+        "answer": {
+          "en": "Visitors can enjoy swimming, boating, fishing, and hiking around the scenic shores.",
+          "de": "Besucher können schwimmen, Boot fahren, angeln und an den malerischen Ufern wandern.",
+          "hu": "A látogatók úszhatnak, csónakázhatnak, horgászhatnak és túrázhatnak a festői part mentén.",
+          "ro": "Vizitatorii se pot bucura de înot, plimbări cu barca, pescuit și drumeții pe malurile pitorești."
+        }
+      },
+      {
+        "question": {
+          "en": "Is there a beach at Lake Robertville?",
+          "de": "Gibt es am Robertville-See einen Strand?",
+          "hu": "Van strand a Robertville-i tónál?",
+          "ro": "Există o plajă la Lacul Robertville?"
+        },
+        "answer": {
+          "en": "Yes, there is an outdoor swimming area with a lawn and diving board during the summer season.",
+          "de": "Ja, es gibt während der Sommersaison einen Freibadebereich mit Liegewiese und Sprungbrett.",
+          "hu": "Igen, a nyári szezonban van egy szabadtéri úszóhely pázsittal és ugródeszkával.",
+          "ro": "Da, există o zonă de înot în aer liber, cu gazon și trambulină în timpul sezonului de vară."
+        }
+      },
+      {
+        "question": {
+          "en": "What landmark is near Lake Robertville?",
+          "de": "Welche Sehenswürdigkeit liegt in der Nähe des Robertville-Sees?",
+          "hu": "Milyen látnivaló van a Robertville-i tó közelében?",
+          "ro": "Ce reper se află lângă Lacul Robertville?"
+        },
+        "answer": {
+          "en": "Reinhardstein Castle is located very close to the lake, perched on a rocky outcrop above the Warche valley.",
+          "de": "Die Burg Reinhardstein liegt ganz in der Nähe des Sees auf einem Felsvorsprung über dem Warchetal.",
+          "hu": "A Reinhardstein-vár nagyon közel található a tóhoz, a Warche-völgy feletti sziklaszirten.",
+          "ro": "Castelul Reinhardstein este situat foarte aproape de lac, cocoțat pe un afloriment stâncos deasupra văii Warche."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Lake Robertville located?",
+          "de": "Wo liegt der Robertville-See?",
+          "hu": "Hol található a Robertville-i tó?",
+          "ro": "Unde se află Lacul Robertville?"
+        },
+        "answer": {
+          "en": "It is located in the High Fens region, in the municipality of Waimes, province of Liège.",
+          "de": "Er befindet sich in der Region Hohes Venn, in der Gemeinde Weismes, Provinz Lüttich.",
+          "hu": "A Hohes Venn régióban, Waimes községben, Liège tartományban található.",
+          "ro": "Este situat în regiunea High Fens, în municipiul Waimes, provincia Liège."
+        }
+      }
+    ]
+  },
+  "river-leie": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the historical importance of the River Leie?",
+          "de": "Was ist die historische Bedeutung des Flusses Leie?",
+          "hu": "Mi a Leie folyó történelmi jelentősége?",
+          "ro": "Care este importanța istorică a râului Leie?"
+        },
+        "answer": {
+          "en": "The River Leie was crucial for the Flemish flax industry, once known as the 'Golden River' because of the flax retted in its waters.",
+          "de": "Der Fluss Leie war entscheidend für die flämische Flachsindustrie und wurde einst wegen des in seinen Gewässern gerösteten Flachses als 'Goldener Fluss' bezeichnet.",
+          "hu": "A Leie folyó döntő fontosságú volt a flamand lenipar számára; egykor 'Arany folyóként' emlegették a benne áztatott len miatt.",
+          "ro": "Râul Leie a fost crucial pentru industria flamandă a inului, fiind cunoscut odinioară sub numele de „Râul de Aur” datorită inului topit în apele sale."
+        }
+      },
+      {
+        "question": {
+          "en": "Which major cities does the River Leie flow through?",
+          "de": "Durch welche großen Städte fließt die Leie?",
+          "hu": "Mely nagyobb városokon folyik keresztül a Leie?",
+          "ro": "Prin ce orașe majore trece râul Leie?"
+        },
+        "answer": {
+          "en": "It flows through Kortrijk and Ghent, where it joins the River Scheldt.",
+          "de": "Sie fließt durch Kortrijk und Gent, wo sie in die Schelde mündet.",
+          "hu": "Kortrijkon és Genten folyik keresztül, ahol a Schelde folyóba torkollik.",
+          "ro": "Trece prin Kortrijk și Gent, unde se unește cu râul Scheldt."
+        }
+      },
+      {
+        "question": {
+          "en": "What are the recreational activities on the Leie?",
+          "de": "Welche Freizeitaktivitäten gibt es auf der Leie?",
+          "hu": "Milyen szabadidős tevékenységeket lehet végezni a Leie-n?",
+          "ro": "Ce activități recreative se pot face pe Leie?"
+        },
+        "answer": {
+          "en": "Boat trips, kayaking, and cycling along the riverbanks are popular activities for tourists and locals.",
+          "de": "Bootsfahrten, Kajakfahren und Radfahren entlang der Flussufer sind beliebte Aktivitäten für Touristen und Einheimische.",
+          "hu": "A hajókirándulások, a kajakozás és a folyóparti kerékpározás népszerű tevékenységek a turisták és a helyiek körében.",
+          "ro": "Excursiile cu barca, caiacul și ciclismul de-a lungul malurilor râului sunt activități populare pentru turiști și localnici."
+        }
+      },
+      {
+        "question": {
+          "en": "Where does the River Leie originate?",
+          "de": "Wo entspringt die Leie?",
+          "hu": "Honnan ered a Leie folyó?",
+          "ro": "De unde izvorăște râul Leie?"
+        },
+        "answer": {
+          "en": "The river originates in northern France and flows into Belgium.",
+          "de": "Der Fluss entspringt in Nordfrankreich und fließt nach Belgien.",
+          "hu": "A folyó Észak-Franciaországból ered, és onnan folyik át Belgiumba.",
+          "ro": "Râul izvorăște din nordul Franței și curge în Belgia."
+        }
+      }
+    ]
+  },
+  "river-dyle": {
+    "faq": [
+      {
+        "question": {
+          "en": "Which cities does the River Dyle flow through?",
+          "de": "Durch welche Städte fließt die Dijle?",
+          "hu": "Mely városokon folyik keresztül a Dyle?",
+          "ro": "Prin ce orașe trece râul Dyle?"
+        },
+        "answer": {
+          "en": "The Dyle (Dijle) flows through Wavre, Leuven, and Mechelen.",
+          "de": "Die Dijle fließt durch Wavre, Löwen und Mechelen.",
+          "hu": "A Dyle (Dijle) Wavre-on, Leuveni-en és Mechelenen folyik keresztül.",
+          "ro": "Dyle (Dijle) trece prin Wavre, Leuven și Mechelen."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you take boat tours on the Dyle?",
+          "de": "Kann man Bootsfahrten auf der Dijle machen?",
+          "hu": "Lehet hajótúrákon részt venni a Dyle-n?",
+          "ro": "Se pot face tururi cu barca pe Dyle?"
+        },
+        "answer": {
+          "en": "Yes, boat tours are particularly popular in Mechelen, offering a view of the city's historic center from the water.",
+          "de": "Ja, Bootsfahrten sind besonders in Mechelen beliebt und bieten einen Blick auf das historische Zentrum der Stadt vom Wasser aus.",
+          "hu": "Igen, a hajótúrák különösen Mechelenben népszerűek, ahonnan a vízről is megcsodálható a város történelmi központja.",
+          "ro": "Da, tururile cu barca sunt deosebit de populare în Mechelen, oferind o vedere a centrului istoric al orașului de pe apă."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the importance of the Dyle in Leuven?",
+          "de": "Welche Bedeutung hat die Dijle in Löwen?",
+          "hu": "Mi a Dyle jelentősége Leuvenben?",
+          "ro": "Care este importanța râului Dyle în Leuven?"
+        },
+        "answer": {
+          "en": "In Leuven, the river flows past the Great Beguinage and the Arenberg Castle, contributing to the city's scenic beauty.",
+          "de": "In Löwen fließt der Fluss am Großen Beginenhof und am Schloss Arenberg vorbei und trägt zur landschaftlichen Schönheit der Stadt bei.",
+          "hu": "Leuvenben a folyó a Nagy Beginaudvar és az Arenberg-kastély mellett halad el, hozzájárulva a város festői szépségéhez.",
+          "ro": "În Leuven, râul trece pe lângă Marele Beguinaj și Castelul Arenberg, contribuind la frumusețea pitorească a orașului."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the River Dyle located?",
+          "de": "Wo liegt der Fluss Dijle?",
+          "hu": "Hol található a Dyle folyó?",
+          "ro": "Unde se află râul Dyle?"
+        },
+        "answer": {
+          "en": "It is located in the central part of Belgium, flowing through the provinces of Walloon Brabant, Flemish Brabant, and Antwerp.",
+          "de": "Er befindet sich im zentralen Teil Belgiens und fließt durch die Provinzen Wallonisch-Brabant, Flämisch-Brabant und Antwerpen.",
+          "hu": "Belgium középső részén található, Vallon-Brabant, Flamand-Brabant és Antwerpen tartományokon keresztül folyik.",
+          "ro": "Este situat în partea centrală a Belgiei, trecând prin provinciile Brabantul Valon, Brabantul Flamand și Anvers."
+        }
+      }
+    ]
+  },
+  "island-ile-d-yvoir": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Ile d'Yvoir?",
+          "de": "Was ist die Ile d'Yvoir?",
+          "hu": "Mi az az Ile d'Yvoir?",
+          "ro": "Ce este Ile d'Yvoir?"
+        },
+        "answer": {
+          "en": "It is a small island in the Meuse River, used as a leisure and recreation park.",
+          "de": "Es ist eine kleine Insel in der Maas, die als Freizeit- und Erholungspark genutzt wird.",
+          "hu": "Egy apró sziget a Meuse folyóban, amely szabadidős és rekreációs parkként működik.",
+          "ro": "Este o mică insulă în râul Meuse, folosită ca parc de agrement și recreere."
+        }
+      },
+      {
+        "question": {
+          "en": "How do you get to the Ile d'Yvoir?",
+          "de": "Wie kommt man auf die Ile d'Yvoir?",
+          "hu": "Hogyan lehet eljutni az Ile d'Yvoir szigetre?",
+          "ro": "Cum se ajunge la Ile d'Yvoir?"
+        },
+        "answer": {
+          "en": "The island is accessible via a small ferry that carries visitors across the river.",
+          "de": "Die Insel ist mit einer kleinen Fähre erreichbar, die die Besucher über den Fluss bringt.",
+          "hu": "A sziget egy kis komppal érhető el, amely átszállítja a látogatókat a folyón.",
+          "ro": "Insula este accesibilă printr-un mic feribot care transportă vizitatorii peste râu."
+        }
+      },
+      {
+        "question": {
+          "en": "What activities are available on the island?",
+          "de": "Welche Aktivitäten werden auf der Insel angeboten?",
+          "hu": "Milyen tevékenységek érhetők el a szigeten?",
+          "ro": "Ce activități sunt disponibile pe insulă?"
+        },
+        "answer": {
+          "en": "Visitors can enjoy a water playground, pedal boats, kayaks, and a large terrace for dining.",
+          "de": "Besucher können einen Wasserspielplatz, Tretboote, Kajaks und eine große Terrasse zum Essen genießen.",
+          "hu": "A látogatók élvezhetik a vízi játszóteret, vízibiciklizhetnek, kajakozhatnak, és egy nagy terasz is várja az étkezni vágyókat.",
+          "ro": "Vizitatorii se pot bucura de un loc de joacă acvatic, hidrobiciclete, caiace și o terasă mare pentru masă."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Ile d'Yvoir located?",
+          "de": "Wo liegt die Ile d'Yvoir?",
+          "hu": "Hol található az Ile d'Yvoir?",
+          "ro": "Unde se află Ile d'Yvoir?"
+        },
+        "answer": {
+          "en": "It is located in the town of Yvoir, in the province of Namur, Wallonia.",
+          "de": "Sie befindet sich in der Stadt Yvoir in der Provinz Namur, Wallonien.",
+          "hu": "Yvoir városában, Namur tartományban, Vallóniában található.",
+          "ro": "Este situată în orașul Yvoir, în provincia Namur, Valonia."
+        }
+      }
+    ]
+  },
+  "agri-haspengouw-fruit-belt": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Haspengouw Fruit Belt?",
+          "de": "Was ist der Obstgürtel von Haspengouw?",
+          "hu": "Mi az a Haspengouw-i gyümölcsövezet?",
+          "ro": "Ce este Centura Pomicolă Haspengouw?"
+        },
+        "answer": {
+          "en": "It is the most important fruit-growing region in Belgium, famous for its apples, pears, and cherries.",
+          "de": "Es ist die wichtigste Obstbauregion Belgiens, berühmt für Äpfel, Birnen und Kirschen.",
+          "hu": "Belgium legfontosabb gyümölcstermesztő vidéke, amely almájáról, körtéjéről és cseresznyéjéről híres.",
+          "ro": "Este cea mai importantă regiune pomicolă din Belgia, faimoasă pentru merele, perele și cireșele sale."
+        }
+      },
+      {
+        "question": {
+          "en": "What makes Haspengouw unique for tourists?",
+          "de": "Was macht Haspengouw für Touristen einzigartig?",
+          "hu": "Mitől egyedülálló Haspengouw a turisták számára?",
+          "ro": "Ce face Haspengouw unic pentru turiști?"
+        },
+        "answer": {
+          "en": "The region is known for its stunning white and pink blossoms in spring, as well as its many castles and rolling hills.",
+          "de": "Die Region ist bekannt für ihre atemberaubenden weißen und rosa Blüten im Frühjahr sowie für ihre vielen Schlösser und sanften Hügel.",
+          "hu": "A vidék a tavasszal nyíló gyönyörű fehér és rózsaszín virágairól, valamint számos kastélyáról és dombos tájáról ismert.",
+          "ro": "Regiunea este cunoscută pentru florile sale albe și roz uluitoare primăvara, precum și pentru numeroasele sale castele și dealuri ondulate."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the fruit farms in Haspengouw?",
+          "de": "Kann man die Obsthöfe in Haspengouw besuchen?",
+          "hu": "Látogathatók a Haspengouw-i gyümölcsfarmok?",
+          "ro": "Se pot vizita fermele pomicole din Haspengouw?"
+        },
+        "answer": {
+          "en": "Yes, many farms offer tours, tasting sessions for local juices and syrups, and pick-your-own events during the harvest season.",
+          "de": "Ja, viele Bauernhöfe bieten Besichtigungen, Verkostungen lokaler Säfte und Sirupe sowie Selbstpflückaktionen während der Erntezeit an.",
+          "hu": "Igen, sok gazdaság kínál túrákat, helyi gyümölcslevek és szirupok kóstolását, valamint a betakarítási szezonban 'szedd magad' akciókat.",
+          "ro": "Da, multe ferme oferă tururi, sesiuni de degustare pentru sucuri și siropuri locale și evenimente de tip „culege-ți singur” în timpul sezonului de recoltare."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Haspengouw located?",
+          "de": "Wo liegt Haspengouw?",
+          "hu": "Hol található Haspengouw?",
+          "ro": "Unde se află Haspengouw?"
+        },
+        "answer": {
+          "en": "Haspengouw is primarily located in the province of Limburg, extending into parts of Liège and Flemish Brabant.",
+          "de": "Haspengouw liegt hauptsächlich in der Provinz Limburg und erstreckt sich bis in Teile von Lüttich und Flämisch-Brabant.",
+          "hu": "Haspengouw elsősorban Limburg tartományban található, de Liège és Flamand-Brabant egyes részeire is kiterjed.",
+          "ro": "Haspengouw este situat în principal în provincia Limburg, extinzându-se în părți din Liège și Brabantul Flamand."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-medias-extra",
+    "name_ro": "Media\u0219",
+    "desc_ro": "Ora\u0219 transilv\u0103nean."
+  },
+  {
+    "id": "city-cisnadie-extra",
+    "name_ro": "Cisn\u0103die",
+    "desc_ro": "Ora\u0219ul bisericilor fortificate."
+  },
+  {
+    "id": "city-avrig-extra",
+    "name_ro": "Avrig",
+    "desc_ro": "Re\u0219edin\u021ba Brukenthal."
+  },
+  {
+    "id": "city-falticeni-extra",
+    "name_ro": "F\u0103lticeni",
+    "desc_ro": "Ora\u0219ul artelor."
+  },
+  {
+    "id": "city-radauti-extra",
+    "name_ro": "R\u0103d\u0103u\u021bi",
+    "desc_ro": "Ora\u0219 bucovinean."
+  },
+  {
+    "id": "city-campulung-moldovenesc-extra",
+    "name_ro": "C\u00e2mpulung Moldovenesc",
+    "desc_ro": "Centru montan."
+  },
+  {
+    "id": "city-rosiorii-de-vede-extra",
+    "name_ro": "Ro\u0219iorii de Vede",
+    "desc_ro": "Ora\u0219 muntean."
+  },
+  {
+    "id": "city-turnu-magurele-extra",
+    "name_ro": "Turnu M\u0103gurele",
+    "desc_ro": "Ora\u0219 portuar."
+  },
+  {
+    "id": "city-zimnicea-extra",
+    "name_ro": "Zimnicea",
+    "desc_ro": "Cel mai sudic ora\u0219."
+  },
+  {
+    "id": "city-lugoj-extra",
+    "name_ro": "Lugoj",
+    "desc_ro": "Ora\u0219 cultural."
+  },
+  {
+    "id": "city-sannicolau-mare-extra",
+    "name_ro": "S\u00e2nnicolau Mare",
+    "desc_ro": "Ora\u0219ul lui B\u00e9la Bart\u00f3k."
+  },
+  {
+    "id": "city-jimbolia-extra",
+    "name_ro": "Jimbolia",
+    "desc_ro": "Ora\u0219 de frontier\u0103."
+  },
+  {
+    "id": "city-tulcea-extra",
+    "name_ro": "Tulcea",
+    "desc_ro": "Poarta Deltei."
+  },
+  {
+    "id": "city-babadag-extra",
+    "name_ro": "Babadag",
+    "desc_ro": "Ora\u0219 dobrogean istoric."
+  }
+]

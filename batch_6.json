@@ -1,0 +1,197 @@
+[
+  {
+    "id": "city-strehaia-extra",
+    "name_hu": "Strehaia",
+    "desc_de": "Strehaia ist eine geschichtsträchtige Kleinstadt im Kreis Mehedinți, die tief in der spirituellen und administrativen Geschichte Olteniens verwurzelt ist. Sie war über Jahrhunderte ein wichtiger Sitz der lokalen Adelsfamilien und ein religiöses Zentrum, wovon heute das imposante Kloster Strehaia zeugt, das im 17. Jahrhundert von Fürst Matei Basarab erbaut wurde. Die Architektur des Klosters mit seinen dicken Mauern und dem wehrhaften Charakter spiegelt die unruhigen Zeiten der Vergangenheit wider. Geografisch liegt Strehaia in einer malerischen Übergangszone zwischen der Donautiefebene und den Getischen Hügeln, was der Region fruchtbare Böden für die Landwirtschaft und den Weinbau verleiht. Heute ist Strehaia ein ruhiger Ort, der seinen ländlichen Charme bewahrt hat und gleichzeitig als administratives Zentrum für die umliegenden Dörfer dient. Besucher schätzen die friedliche Atmosphäre der Klosteranlage und den Einblick in die authentische oltenische Kultur, die hier in Bräuchen und Traditionen lebendig bleibt.",
+    "facts_de": [
+      "Strehaia wurde erstmals im Jahr 1471 urkundlich erwähnt.",
+      "Das Kloster Strehaia ist einzigartig, da seine Kirche nach Norden statt nach Osten ausgerichtet ist.",
+      "Die Stadt war im Mittelalter die Residenz des Amtes 'Bănie' von Strehaia.",
+      "Hier befindet sich eine der ältesten staatlichen Schulen Olteniens, gegründet im 19. Jahrhundert.",
+      "Strehaia liegt am Fluss Motru in einer Höhe von etwa 150 Metern.",
+      "Die Wirtschaft der Stadt basiert auf Landwirtschaft, Viehzucht und lokalem Handel.",
+      "In Strehaia kreuzen sich wichtige Straßenverbindungen zwischen Craiova und Drobeta Turnu Severin.",
+      "Der Name der Stadt leitet sich vermutlich vom slawischen Wort 'strecha' (Dach/Schutz) ab."
+    ]
+  },
+  {
+    "id": "city-vanju-mare-extra",
+    "name_hu": "Vânju Mare",
+    "desc_de": "Vânju Mare ist eine malerische Kleinstadt im Kreis Mehedinți, die landesweit für ihre erstklassigen Weine und ihre lange Tradition im Weinbau bekannt ist. Gelegen im Herzen der sonnenverwöhnten Oltenischen Hügel, bietet die Region ideale Bedingungen für den Anbau hochwertiger Rebsorten, die den Namen der Stadt über die Grenzen des Landes hinaus bekannt gemacht haben. Die Identität von Vânju Mare ist untrennbar mit dem Rhythmus der Natur und der Weinlese verknüpft, wobei die lokalen Weinkeller (Crame) ein zentraler Teil des wirtschaftlichen und sozialen Lebens sind. Geografisch zeichnet sich die Umgebung durch eine sanft gewellte Landschaft aus, die einen weiten Blick über die fruchtbaren Ebenen Südwestrumäniens bietet. Trotz ihres ruhigen, ländlichen Charakters hat sich die Stadt zu einem wichtigen lokalen Dienstleistungszentrum entwickelt. Besucher können hier die authentische Gastfreundschaft der Region erleben und in den Genuss feiner lokaler Tropfen kommen, die die Seele der oltenischen Erde widerspiegeln.",
+    "facts_de": [
+      "Vânju Mare wurde erstmals im Jahr 1772 in offiziellen Dokumenten erwähnt.",
+      "Die Stadt erhielt im Jahr 1968 offiziell den Status einer Stadt.",
+      "Die Region um Vânju Mare ist berühmt für die Produktion von Rotweinen wie Merlot und Cabernet Sauvignon.",
+      "Die Stadt liegt in der Blahnița-Ebene, einer der wärmsten Regionen Rumäniens.",
+      "Weinbau und Getreideproduktion sind die wichtigsten Wirtschaftspfeiler der Gemeinde.",
+      "Vânju Mare liegt etwa 30 Kilometer südöstlich der Kreishauptstadt Drobeta Turnu Severin.",
+      "Die Architektur der Stadt ist schlicht und zweckmäßig, geprägt durch die landwirtschaftliche Prägung.",
+      "Jährlich findet in der Stadt ein bedeutendes Weinfest statt, das die lokale Winzertradition feiert."
+    ]
+  },
+  {
+    "id": "city-reghin-extra",
+    "name_hu": "Szászrégen",
+    "desc_de": "Reghin, im Deutschen Sächsisch-Regen bekannt, ist eine faszinierende Stadt in Siebenbürgen, die weltweit als 'Stadt der Geigen' Ruhm erlangt hat. Sie beherbergt renommierte Manufakturen wie 'Hora', in denen Musikinstrumente von höchster Qualität gefertigt werden, die auf den Bühnen der ganzen Welt erklingen. Gegründet von den Siebenbürger Sachsen im 12. Jahrhundert, bewahrt die Stadt einen charmanten mittelalterlichen Kern mit einer beeindruckenden evangelischen Kirche im gotischen Stil. Geografisch liegt Reghin am Oberlauf des Flusses Mureș (Mieresch) und dient als wichtiges wirtschaftliches und kulturelles Zentrum für das obere Mureș-Tal. Die Stadt zeichnet sich durch ein harmonisches Zusammenleben von Rumänen, Ungarn und Deutschen aus, was sich in einer vielfältigen Architektur und lebendigen Traditionen widerspiegelt. Neben dem Instrumentenbau ist Reghin auch für seine Holzindustrie und seine gepflegten Parks bekannt, die der Stadt eine grüne, einladende Atmosphäre verleihen.",
+    "facts_de": [
+      "Reghin wurde erstmals im Jahr 1228 unter dem Namen Regun urkundlich erwähnt.",
+      "Die Firma 'Hora' in Reghin ist der größte Musikinstrumentenhersteller in Europa.",
+      "Die evangelische Kirche (13. Jh.) besitzt den höchsten Kirchturm im Kreis Mureș.",
+      "Die Stadt war historisch ein bedeutendes Zentrum für den Floßbau und die Holzwirtschaft.",
+      "Reghin liegt an der strategisch wichtigen Bahnlinie zwischen Neumarkt (Târgu Mureș) und Bistritz.",
+      "Das Ethnographische Museum von Reghin beherbergt eine der reichsten Sammlungen Siebenbürgens.",
+      "Die Stadt wird aufgrund ihrer handwerklichen Tradition oft als das 'rumänische Cremona' bezeichnet.",
+      "Jedes Jahr findet hier das Festival der siebenbürgischen Handwerkskunst statt."
+    ]
+  },
+  {
+    "id": "city-ludus-extra",
+    "name_hu": "Marosludas",
+    "desc_de": "Luduș, auf Deutsch Ludas, ist eine dynamische Industriestadt im Westen des Kreises Mureș, gelegen am Ufer des Flusses Mureș. Die Stadt hat sich im 20. Jahrhundert von einer landwirtschaftlichen Siedlung zu einem wichtigen urbanen Zentrum entwickelt, das vor allem durch seine Lebensmittelindustrie und den Maschinenbau geprägt ist. Besonders bekannt ist Luduș für seine traditionsreiche Zuckerfabrik, die über Jahrzehnte das wirtschaftliche Fundament der Stadt bildete. Geografisch liegt Luduș in einer strategisch günstigen Lage an der Hauptverkehrsader zwischen Târgu Mureș und Cluj-Napoca, was die Stadt zu einem attraktiven Standort für Logistik und Handel macht. Die Architektur von Luduș zeigt eine Mischung aus funktionalen Industriebauten und modernen Wohnvierteln, ergänzt durch gepflegte Grünanlagen entlang des Flussufers. Kulturell ist die Stadt ein Ort der Begegnung verschiedener Ethnien, was sich in den lokalen Festen und der vielfältigen Gastronomie der Region widerspiegelt.",
+    "facts_de": [
+      "Luduș wurde erstmals im Jahr 1333 urkundlich erwähnt.",
+      "Die Stadt erhielt im Jahr 1960 offiziell den Status einer Stadt.",
+      "Die Zuckerfabrik von Luduș gehört zu den modernsten Anlagen dieser Art in Rumänien.",
+      "Luduș liegt an der wichtigen Eisenbahnstrecke Bukarest-Oradea.",
+      "Die Stadt verfügt über eine beeindruckende orthodoxe Kathedrale mit goldenen Kuppeln.",
+      "In der Umgebung von Luduș wird intensiver Zuckerrübenanbau betrieben.",
+      "Luduș liegt auf einer durchschnittlichen Höhe von etwa 275 Metern in der Siebenbürgischen Heide.",
+      "Die Bevölkerung besteht aus einer Mischung von Rumänen, Ungarn und Roma."
+    ]
+  },
+  {
+    "id": "city-iernut-extra",
+    "name_hu": "Radnót",
+    "desc_de": "Iernut, im Deutschen Radnuten genannt, ist eine strategisch wichtige Stadt im Kreis Mureș, die vor allem als eines der bedeutendsten Energiezentren Siebenbürgens bekannt ist. Das hier ansässige Wärmekraftwerk spielt eine zentrale Rolle für die Stromversorgung der Region und des gesamten Landes. Doch Iernut blickt auch auf eine reiche aristokratische Geschichte zurück: Das Schloss Kornis-Rákóczi, ein bedeutendes Renaissanceschloss aus dem 16. Jahrhundert, zeugt von der einstigen Pracht unter ungarischer Adelsverwaltung. Geografisch liegt die Stadt malerisch am Ufer des Flusses Mureș, was ihr eine abwechslungsreiche Landschaft aus Auen und Hügeln verleiht. Heute verbindet Iernut seine industrielle Bedeutung mit Bemühungen zur Erhaltung seines kulturellen Erbes. Die Stadt ist ein Paradebeispiel für den Kontrast zwischen historischer Eleganz und moderner technischer Infrastruktur in Rumänien und dient als wichtiger Knotenpunkt für Pendler und Reisende zwischen den großen Zentren Siebenbürgens.",
+    "facts_de": [
+      "Iernut wurde erstmals im Jahr 1257 urkundlich erwähnt.",
+      "Das Kraftwerk Iernut nutzt Erdgas aus der Region zur Stromerzeugung.",
+      "Das Schloss Kornis-Rákóczi wurde zwischen 1572 und 1594 im Renaissancestil erbaut.",
+      "Iernut erhielt im Jahr 1989 offiziell den Status einer Stadt.",
+      "Die Stadt liegt an der Hauptstraße DN15, die Târgu Mureș mit Luduș verbindet.",
+      "Hier befindet sich ein bedeutendes Naturschutzgebiet mit geschützten Vogelarten am Mureș-Ufer.",
+      "Iernut ist bekannt für seine traditionsreichen Fischmärkte am Fluss.",
+      "In der Stadt gibt es eine reformierte Kirche, die ursprünglich aus dem 15. Jahrhundert stammt."
+    ]
+  },
+  {
+    "id": "city-piatra-neamt-extra",
+    "name_hu": "Karácsonkő",
+    "desc_de": "Piatra Neamț, oft als die 'Perle der Moldau' bezeichnet, ist eine der elegantesten und landschaftlich am schönsten gelegenen Städte Rumäniens. Sie liegt in einer tiefen Senke am Ufer des Bistrița-Flusses, umgeben von den bewaldeten Gipfeln der Karpaten. Das absolute Highlight der Stadt ist der herrschaftliche Fürstenhof von Stefan dem Großen, dessen Glockenturm das Wahrzeichen von Piatra Neamț ist. Die Stadt verbindet auf einzigartige Weise mittelalterliche Geschichte mit modernem urbanen Flair, was sich in der modernen Seilbahn widerspiegelt, die Besucher direkt vom Bahnhof auf den Berg Cozla bringt. Piatra Neamț ist ein kulturelles Kraftzentrum der Region Moldau, mit zahlreichen Museen, die bedeutende Funde aus der prähistorischen Cucuteni-Kultur beherbergen. Neben ihrer kulturellen Bedeutung ist die Stadt ein idealer Ausgangspunkt für Touren zum Bicaz-Stausee und in die spektakuläre Bicaz-Schlucht, was sie zu einem Muss für jeden Naturliebhaber macht.",
+    "facts_de": [
+      "Piatra Neamț wurde im Jahr 1387 erstmals urkundlich erwähnt.",
+      "Der Glockenturm von Stefan dem Großen (1499) ist das markanteste Symbol der Stadt.",
+      "Das Museum der Cucuteni-Kultur beherbergt die weltweit bedeutendste Sammlung prähistorischer Kunst dieser Zivilisation.",
+      "Die Stadt verfügt über die einzige Seilbahn Rumäniens, die im Stadtzentrum startet.",
+      "Piatra Neamț liegt auf einer Höhe von 310 Metern, umgeben von Gipfeln wie Pietricica und Cozla.",
+      "Das Kunstmuseum der Stadt zeigt wertvolle Werke rumänischer Klassiker.",
+      "Hier befindet sich eine der ältesten hölzernen Synagogen Europas, die 1766 erbaut wurde.",
+      "Der Bicaz-Staudamm (Izvorul Muntelui) ist nur etwa 30 Kilometer von der Stadt entfernt."
+    ]
+  },
+  {
+    "id": "city-roman-extra",
+    "name_hu": "Románvásár",
+    "desc_de": "Roman ist eine geschichtsträchtige Stadt im Herzen der Region Moldau, die durch ihre strategische Lage am Zusammenfluss von Moldova und Siret geprägt wurde. Seit dem Mittelalter war Roman ein bedeutendes administratives, religiöses und militärisches Zentrum des moldauischen Fürstentums. Die Architektur der Stadt spiegelt diese Bedeutung wider, insbesondere durch die monumentale Kathedrale St. Parascheva, die Sitz eines der ältesten orthodoxen Bistümer des Landes ist. Roman strahlt eine Atmosphäre von bürgerlicher Gelassenheit aus, mit breiten Promenaden, historischen Gymnasien und gepflegten Parks. Neben seiner geistlichen Bedeutung hat sich Roman zu einem wichtigen Industriestandort entwickelt, bekannt für die Stahlrohrproduktion und Lebensmittelverarbeitung. Kulturell ist die Stadt für ihre literarische Tradition und bedeutende Persönlichkeiten wie den Dirigenten Sergiu Celibidache bekannt. Für Besucher bietet Roman eine faszinierende Mischung aus sakraler Pracht, herrschaftlicher Geschichte und moderner moldauischer Lebensart.",
+    "facts_de": [
+      "Roman wurde im Jahr 1392 in einer Urkunde des Fürsten Roman I. erstmals erwähnt.",
+      "Die Stadt war die Hauptstadt des 'Unteren Landes' (Țara de Jos) der Moldau.",
+      "Das Bistum von Roman wurde im frühen 15. Jahrhundert vom Fürsten Alexander dem Guten gegründet.",
+      "Die Stadt beherbergt eine der größten Stahlrohrfabriken Südosteuropas (ArcelorMittal).",
+      "Roman liegt auf einer Hochebene in einer Höhe von etwa 200 Metern.",
+      "Der Dirigent Sergiu Celibidache, einer der größten Musiker des 20. Jahrhunderts, wurde hier geboren.",
+      "Das städtische Museum für Geschichte besitzt wertvolle Funde aus der dakischen Zeit.",
+      "In Roman befindet sich ein wunderschöner Stadtpark, einer der ältesten und größten der Region."
+    ]
+  },
+  {
+    "id": "city-targu-neamt-extra",
+    "name_hu": "Németvásár",
+    "desc_de": "Târgu Neamț ist eine der geschichtsträchtigsten und charmantesten Städte im Norden der Moldau, gelegen am Fuße des mächtigen Berges Pleșu. Das absolute Wahrzeichen der Stadt ist die Festung Neamț (Cetatea Neamțului), ein uneinnehmbares mittelalterliches Bollwerk, das über Jahrhunderte die Grenzen des moldauischen Fürstentums schützte. Die Stadt ist zudem untrennbar mit dem Leben des berühmten rumänischen Schriftstellers Ion Creangă verbunden, dessen malerisches Geburtshaus im Stadtteil Humulești heute eines der meistbesuchten Museen des Landes ist. Geografisch dient Târgu Neamț als Tor zu einer der bedeutendsten Klosterregionen Europas, mit berühmten Klöstern wie Agapia und Văratec in unmittelbarer Nähe. Die Stadt strahlt eine tiefe spirituelle und literarische Ruhe aus, eingebettet in die sanften Hügel und dichten Wälder der Moldau. Für Besucher bietet Târgu Neamț eine perfekte Mischung aus heroischer Geschichte, literarischer Nostalgie und unberührter Natur, die die Seele der rumänischen Identität widerspiegelt.",
+    "facts_de": [
+      "Die Festung Neamț wurde im 14. Jahrhundert von Petru I. Mușat erbaut und von Stefan dem Großen verstärkt.",
+      "Das Ion-Creangă-Gedenkhaus in Humulești ist ein Paradebeispiel für traditionelle moldauische Bauernhausarchitektur.",
+      "Târgu Neamț wurde erstmals im Jahr 1391 in einem päpstlichen Dokument erwähnt.",
+      "Die Stadt liegt am Fluss Neamț (auch Ozana genannt) in einer Höhe von etwa 365 Metern.",
+      "In der Nähe befindet sich das Wisentreservat 'Dragoș Vodă', eines der wenigen in Europa.",
+      "Die Festung Neamț hielt 1691 einer heroischen Belagerung durch den polnischen König Jan Sobieski stand.",
+      "Die Stadt ist bekannt für ihr Handwerk, insbesondere für die Herstellung von Teppichen und Stickereien.",
+      "Das Kloster Neamț, das älteste und bedeutendste in der Moldau, liegt nur 15 Kilometer nordwestlich der Stadt."
+    ]
+  },
+  {
+    "id": "city-caracal-extra",
+    "name_hu": "Caracal",
+    "desc_de": "Caracal ist eine traditionsreiche Stadt in der Ebene von Oltenien, die für ihre reiche Geschichte und ihre kulturelle Bedeutung im Südwesten Rumäniens bekannt ist. Sie war einst der Sitz des Kreises Romanați und strahlt heute noch die bürgerliche Eleganz des 19. Jahrhunderts aus. Das absolute architektonische Juwel von Caracal ist das Nationaltheater, eines der schönsten und akustisch besten Gebäude seiner Art in Rumänien. Trotz zahlreicher lokaler Legenden und Witze über kuriose Vorkommnisse ('die Wunder von Caracal') ist die Stadt ein ernsthaftes Zentrum für Bildung und Kunst. Geografisch liegt Caracal in einer fruchtbaren Agrarzone und diente über Jahrhunderte als wichtiger Marktplatz. Die Architektur im Stadtkern zeigt prachtvolle Villen und öffentliche Gebäude, die vom einstigen Wohlstand zeugen. Heute verbindet Caracal seinen historischen Charme mit modernen Industriebereichen wie dem Schienenfahrzeugbau und bietet Besuchern einen tiefen Einblick in die authentische oltenische Lebensart.",
+    "facts_de": [
+      "Caracal wurde erstmals im Jahr 1538 in einem Dokument des Fürsten Radu Paisie erwähnt.",
+      "Das Nationaltheater von Caracal wurde 1896 im eklektischen Stil mit Barockelementen erbaut.",
+      "Die Stadt liegt in der Romanați-Ebene auf einer Höhe von etwa 100 Metern.",
+      "In Caracal befindet sich das Geburtshaus des berühmten rumänischen Politikers und Diplomaten Nicolae Titulescu.",
+      "Die Stadt ist ein bedeutender Eisenbahnknotenpunkt zwischen Craiova und Bukarest.",
+      "Der Stadtpark 'Constantin Poroineanu' gehört zu den schönsten und größten Naturparks in Südrumänien.",
+      "In Caracal wurden Ruinen eines römischen Lagers entdeckt, was auf eine frühe Besiedlung hinweist.",
+      "Die lokale Wirtschaft wird stark durch die Produktion von Eisenbahnwaggons (Astra Rail) geprägt."
+    ]
+  },
+  {
+    "id": "city-corabia-extra",
+    "name_hu": "Corabia",
+    "desc_de": "Corabia ist eine bedeutende Hafenstadt am Ufer der Donau im Süden des Kreises Olt, die für ihre reiche archäologische Vergangenheit und ihre strategische Lage bekannt ist. Unmittelbar neben der modernen Stadt liegen die Ruinen der antiken römischen Festung Sucidava, die einst eine der wichtigsten Festungen an der Donaulinie war. Ein besonderes technisches Wunder ist der 'Geheime Brunnen' von Sucidava, der auch heute noch die Wasserversorgung aus der Tiefe sicherstellt. Corabia entwickelte sich im 19. Jahrhundert zu einem blühenden Handelszentrum für Getreide, was sich in der Architektur der Speichergebäude und der herrschaftlichen Bürgerhäuser widerspiegelt. Die Stadt bietet weite Ausblicke auf die Donau und die gegenüberliegende bulgarische Küste. Heute ist Corabia ein wichtiger Ort für die Binnenschifffahrt und dient als Zentrum für die landwirtschaftliche Region Süd-Olteniens. Besucher können hier die Verbindung von jahrtausendealter Geschichte und moderner Flusslogistik hautnah erleben.",
+    "facts_de": [
+      "Corabia wurde im Jahr 1871 auf den Ruinen der antiken Stadt Sucidava offiziell gegründet.",
+      "Die Sucidava-Brücke über die Donau, von Konstantin dem Großen erbaut, war einst eine der längsten der Antike.",
+      "Der 'Geheime Brunnen' (Izvorul Secret) ist ein technisches Denkmal aus der byzantinischen Zeit.",
+      "Die Kathedrale der Stadt ist eine der größten und prächtigsten in der gesamten Donauregion.",
+      "Corabia liegt am Kilometer 630 der Donau.",
+      "Die Stadt war im 19. Jahrhundert berühmt für ihren Getreideexport nach ganz Europa.",
+      "In Corabia befindet sich ein bedeutendes Museum für Archäologie und Ethnographie.",
+      "Die Donauinseln in der Nähe bieten eine unberührte Natur für Angler und Ornithologen."
+    ]
+  },
+  {
+    "id": "city-scornicesti-extra",
+    "name_hu": "Scornicesti",
+    "desc_de": "Scornicești ist eine Stadt im Kreis Olt, die weltweite Bekanntheit als Geburtsort des langjährigen kommunistischen Diktators Nicolae Ceaușescu erlangte. Während seiner Herrschaft wurde das ursprüngliche Dorf massiv ausgebaut und sollte als Modell für die 'Systematisierung' des ländlichen Raums dienen. Heute bietet Scornicești einen faszinierenden, wenn auch kontroversen Einblick in die Architektur und Stadtplanung der sozialistischen Ära. Das schlichte Geburtshaus von Ceaușescu ist erhalten geblieben und steht in krassem Kontrast zu den monumentalen Betonbauten und dem überdimensionierten Stadion der Stadt. Geografisch liegt Scornicești in einer sanften Hügellandschaft, die landwirtschaftlich intensiv genutzt wird. Abseits der politischen Geschichte bemüht sich die Stadt heute um eine neue Identität als regionales Zentrum für Leichtindustrie und Agrarhandel. Für Geschichtsinteressierte bietet der Ort ein einzigartiges Freilichtmuseum des rumänischen Kommunismus und seiner städtebaulichen Ambitionen.",
+    "facts_de": [
+      "Nicolae Ceaușescu wurde am 26. Januar 1918 in einem bescheidenen Bauernhaus in Scornicești geboren.",
+      "Die Stadt erhielt im Jahr 1989, kurz vor dem Sturz des Regimes, offiziell den Status einer Stadt.",
+      "Das Stadion von Scornicești (Viitorul) hatte zeitweise eine Kapazität, die die Einwohnerzahl der Stadt überstieg.",
+      "Scornicești war als 'sozialistische Musterstadt' geplant, was man an der untypischen Blockbebauung erkennt.",
+      "Die Stadt liegt etwa 25 Kilometer nordöstlich der Kreishauptstadt Slatina.",
+      "Die Wirtschaft basiert heute auf Textilindustrie, Landwirtschaft und dem Dienstleistungssektor.",
+      "In der Nähe befindet sich ein interessantes ethnographisches Museum, das das bäuerliche Leben der Region zeigt.",
+      "Trotz seiner Geschichte ist Scornicești heute ein ruhiger Ort, der sich in den modernen rumänischen Alltag integriert hat."
+    ]
+  },
+  {
+    "id": "city-campina-extra",
+    "name_hu": "Campina",
+    "desc_de": "Câmpina ist eine elegante Stadt im Kreis Prahova, die für ihr mildes Klima und ihre bedeutende Rolle in der Geschichte der rumänischen Erdölindustrie bekannt ist. Gelegen auf einer Terrasse oberhalb des Flusses Prahova, gilt sie statistisch als der sonnigste Ort Rumäniens. Die Stadt entwickelte sich im späten 19. Jahrhundert rasant zu einem Zentrum für Ölförderung und Raffinerietechnik, was ihr Wohlstand und eine stattliche Architektur bescherte. Kulturell ist Câmpina weltberühmt für das Schloss Julia Hasdeu, ein mystisches Bauwerk, das der Gelehrte Bogdan Petriceicu Hasdeu im Gedenken an seine jung verstorbene Tochter errichtete. Ein weiteres Highlight ist das Gedenkmuseum des Malers Nicolae Grigorescu, der hier seine letzten Lebensjahre verbrachte. Câmpina strahlt eine aristokratische Ruhe aus, ergänzt durch moderne Bildungseinrichtungen wie die nationale Polizeiakademie. Die strategische Lage zwischen Bukarest und den Karpaten macht Câmpina zu einem idealen Wohn- und Ausflugsort.",
+    "facts_de": [
+      "Câmpina besitzt laut Statistik die meisten Sonnentage pro Jahr in ganz Rumänien.",
+      "Das Schloss Julia Hasdeu gilt als eines der mysteriösesten und spirituellsten Gebäude des Landes.",
+      "Die 'Steaua Română' Raffinerie in Câmpina war bei ihrer Gründung eine der modernsten Europas.",
+      "Nicolae Grigorescu, der bedeutendste Maler Rumäniens, lebte und arbeitete hier bis zu seinem Tod 1907.",
+      "Die Stadt liegt auf einer Höhe von 435 bis 450 Metern in einer geschützten Hügellandschaft.",
+      "Câmpina beherbergt die Vasile-Lascăr-Polizeischule, die größte Bildungseinrichtung dieser Art im Land.",
+      "Die Stadt wurde erstmals im Jahr 1503 in Zolldokumenten aus Brașov erwähnt.",
+      "In der Nähe befindet sich der Doftana-Stausee, ein beliebtes Erholungsgebiet mit spektakulären Ausblicken."
+    ]
+  },
+  {
+    "id": "city-breaza-extra",
+    "name_hu": "Breaza",
+    "desc_de": "Breaza ist ein renommierter Luftkurort im Prahova-Tal, der für sein außergewöhnlich gesundes Mikroklima und seine ozonreiche Luft bekannt ist. Die Stadt liegt auf einer malerischen Terrasse zwischen 400 und 600 Metern Höhe, umgeben von den Ausläufern der Karpaten. Breaza hat eine lange Tradition als Erholungsort für die Bukarester Elite und Künstler, die hier Ruhe und Inspiration suchen. Neben der Natur ist die Stadt weltberühmt für ihre traditionelle Handarbeit, insbesondere für die kunstvoll bestickten rumänischen Blusen (Ia), die hier nach jahrhundertealten Mustern gefertigt werden. Die Architektur von Breaza ist geprägt durch herrschaftliche Villen und gepflegte Gärten, die der Stadt ein aristokratisches Flair verleihen. Geografisch dient der Ort als Tor zum oberen Prahova-Tal und bietet zahlreiche Möglichkeiten für Wandern, Radfahren und Golfen. Breaza ist ein Ort der Regeneration, der die Schönheit der Natur mit der Tiefe rumänischer Volkskunst auf harmonische Weise verbindet.",
+    "facts_de": [
+      "Die Luft in Breaza wird oft mit der Luft in Davos (Schweiz) verglichen, da sie besonders rein und ionisiert ist.",
+      "Breaza wurde im Jahr 1503 erstmals urkundlich erwähnt.",
+      "Die Stadt ist ein Zentrum der traditionellen Stickerei und beherbergt zahlreiche Kunsthandwerkstätten.",
+      "In Breaza befindet sich das renommierte Militärgymnasium 'Dimitrie Cantemir'.",
+      "Die Stadt verfügt über einen der wenigen Golfplätze Rumäniens (Lac de Verde).",
+      "Breaza liegt etwa 100 Kilometer nördlich von Bukarest an der Hauptstraße DN1.",
+      "Die umliegenden Hügel wie Gurga und Spătărelu bieten spektakuläre Panoramablicke über das Tal.",
+      "Der Ort ist bekannt für seine 'Häuser im Breaza-Stil', die traditionelle Elemente mit modernem Komfort verbinden."
+    ]
+  }
+]

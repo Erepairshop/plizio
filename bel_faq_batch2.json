@@ -1,0 +1,602 @@
+{
+  "city-lier": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Lier known for?",
+          "de": "Wofür ist Lier bekannt?",
+          "hu": "Miről nevezetes Lier?",
+          "ro": "Pentru ce este cunoscut Lier?"
+        },
+        "answer": {
+          "en": "Lier is known for its Zimmer Tower with its astronomical clock, its beautiful beguinage, and the local specialty 'Lierse vlaaike'.",
+          "de": "Lier ist bekannt für den Zimmer-Turm mit seiner astronomischen Uhr, seinen wunderschönen Beginenhof und die lokale Spezialität 'Lierse vlaaike'.",
+          "hu": "Lier a csillagászati órával ellátott Zimmer-toronyról, gyönyörű beginaudvaráról és a 'Lierse vlaaike' nevű helyi süteményről ismert.",
+          "ro": "Lier este cunoscut pentru Turnul Zimmer cu ceasul său astronomic, frumosul său beguinaj și specialitatea locală „Lierse vlaaike”."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Zimmer Tower?",
+          "de": "Was ist der Zimmer-Turm?",
+          "hu": "Mi az a Zimmer-torony?",
+          "ro": "Ce este Turnul Zimmer?"
+        },
+        "answer": {
+          "en": "The Zimmer Tower is a medieval tower in Lier that was transformed in 1930 to house the Jubilee Clock, which shows various astronomical and time data.",
+          "de": "Der Zimmer-Turm ist ein mittelalterlicher Turm in Lier, der 1930 umgebaut wurde, um die Jubiläumsuhr zu beherbergen, die verschiedene astronomische und Zeitdaten anzeigt.",
+          "hu": "A Zimmer-torony egy középkori torony Lierben, amelyet 1930-ban alakítottak át, hogy helyet adjon a jubileumi órának, amely különféle csillagászati és időadatokat mutat.",
+          "ro": "Turnul Zimmer este un turn medieval din Lier care a fost transformat în 1930 pentru a găzdui Ceasul Jubiliar, care arată diverse date astronomice și temporale."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the Lier Beguinage open to visitors?",
+          "de": "Ist der Beginenhof von Lier für Besucher geöffnet?",
+          "hu": "Látogatható a Lier-i beginaudvar?",
+          "ro": "Este Beguinajul din Lier deschis vizitatorilor?"
+        },
+        "answer": {
+          "en": "Yes, visitors can walk through the quiet streets of this UNESCO World Heritage site, known for its picturesque small houses and church.",
+          "de": "Ja, Besucher können durch die ruhigen Gassen dieses UNESCO-Weltkulturerbes spazieren, das für seine malerischen kleinen Häuser und seine Kirche bekannt ist.",
+          "hu": "Igen, a látogatók végigsétálhatnak az UNESCO Világörökség részét képező terület csendes utcáin, amely festői kis házairól és templomáról ismert.",
+          "ro": "Da, vizitatorii se pot plimba pe străzile liniștite ale acestui sit al Patrimoniului Mondial UNESCO, cunoscut pentru căsuțele și biserica sa pitorească."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Lier located?",
+          "de": "Wo liegt Lier?",
+          "hu": "Hol található Lier?",
+          "ro": "Unde se află Lier?"
+        },
+        "answer": {
+          "en": "Lier is located in the province of Antwerp, at the confluence of the Big and Little Nete rivers.",
+          "de": "Lier liegt in der Provinz Antwerpen, am Zusammenfluss der Großen und Kleinen Nete.",
+          "hu": "Lier Antwerpen tartományban található, a Nagy- és a Kis-Nete folyók összefolyásánál.",
+          "ro": "Lier este situat în provincia Anvers, la confluența râurilor Nete Mare și Nete Mică."
+        }
+      }
+    ]
+  },
+  "city-geel": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is unique about Geel's history of care?",
+          "de": "Was ist das Besondere an der Geschichte der Pflege in Geel?",
+          "hu": "Mi az egyedülálló Geel gondozási történetében?",
+          "ro": "Ce este unic la istoria îngrijirii din Geel?"
+        },
+        "answer": {
+          "en": "Geel is world-famous for its centuries-old tradition of family care for people with mental illnesses, who live with local host families.",
+          "de": "Geel ist weltberühmt für seine jahrhundertealte Tradition der Familienpflege für Menschen mit psychischen Erkrankungen, die bei örtlichen Gastfamilien leben.",
+          "hu": "Geel világhírű a mentális betegséggel élők családi gondozásának évszázados hagyományáról, akik helyi befogadó családoknál élnek.",
+          "ro": "Geel este renumit în întreaga lume pentru tradiția sa de secole de îngrijire familială pentru persoanele cu boli mintale, care locuiesc cu familii gazdă locale."
+        }
+      },
+      {
+        "question": {
+          "en": "Who is Saint Dymphna?",
+          "de": "Wer ist die heilige Dymphna?",
+          "hu": "Ki az a Szent Dymphna?",
+          "ro": "Cine este Sfânta Dymphna?"
+        },
+        "answer": {
+          "en": "Saint Dymphna is the patron saint of the mentally ill; according to legend, she was martyred in Geel, which led to the town becoming a pilgrimage site.",
+          "de": "Die heilige Dymphna ist die Schutzpatronin der Geisteskranken; der Legende nach erlitt sie in Geel das Martyrium, was dazu führte, dass die Stadt zu einem Wallfahrtsort wurde.",
+          "hu": "Szent Dymphna a mentális betegek védőszentje; a legenda szerint Geelben szenvedett mártírhalált, aminek köszönhetően a város zarándokhellyé vált.",
+          "ro": "Sfânta Dymphna este patroana spirituală a celor bolnavi mintal; conform legendei, ea a fost martirizată în Geel, ceea ce a dus la transformarea orașului într-un loc de pelerinaj."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the Saint Dymphna Church in Geel?",
+          "de": "Kann man die St.-Dymphna-Kirche in Geel besuchen?",
+          "hu": "Látogatható a Geel-i Szent Dymphna-templom?",
+          "ro": "Se poate vizita Biserica Sfânta Dymphna din Geel?"
+        },
+        "answer": {
+          "en": "Yes, the late Gothic Saint Dymphna Church houses beautiful altarpieces and the shrine of the saint.",
+          "de": "Ja, die spätgotische St.-Dymphna-Kirche beherbergt wunderschöne Altarbilder und den Schrein der Heiligen.",
+          "hu": "Igen, a késő gótikus Szent Dymphna-templom gyönyörű oltárképeknek és a szent ereklyetartójának ad otthont.",
+          "ro": "Da, biserica Sfânta Dymphna în stil gotic târziu găzduiește retabluri frumoase și racla sfântei."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Geel located?",
+          "de": "Wo liegt Geel?",
+          "hu": "Hol található Geel?",
+          "ro": "Unde se află Geel?"
+        },
+        "answer": {
+          "en": "Geel is located in the Kempen region of the province of Antwerp, Belgium.",
+          "de": "Geel liegt in der Region Kempen in der Provinz Antwerpen, Belgien.",
+          "hu": "Geel Belgiumban, Antwerpen tartomány Kempen régiójában található.",
+          "ro": "Geel este situat în regiunea Kempen din provincia Anvers, Belgia."
+        }
+      }
+    ]
+  },
+  "city-sint-truiden": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Sint-Truiden known for?",
+          "de": "Wofür ist Sint-Truiden bekannt?",
+          "hu": "Miről nevezetes Sint-Truiden?",
+          "ro": "Pentru ce este cunoscut Sint-Truiden?"
+        },
+        "answer": {
+          "en": "Sint-Truiden is known as the center of Belgium's fruit-growing region (Haspengouw) and for its rich religious heritage.",
+          "de": "Sint-Truiden ist als Zentrum der belgischen Obstbauregion (Haspengouw) und für sein reiches religiöses Erbe bekannt.",
+          "hu": "Sint-Truiden Belgium gyümölcstermesztő vidékének (Haspengouw) központjaként és gazdag vallási örökségéről ismert.",
+          "ro": "Sint-Truiden este cunoscut ca centrul regiunii pomicole din Belgia (Haspengouw) și pentru bogata sa moștenire religioasă."
+        }
+      },
+      {
+        "question": {
+          "en": "When is the best time to visit Sint-Truiden for fruit blossoms?",
+          "de": "Wann ist die beste Zeit, um Sint-Truiden wegen der Obstblüte zu besuchen?",
+          "hu": "Mikor a legjobb Sint-Truidenbe látogatni a gyümölcsvirágzás idején?",
+          "ro": "Când este cel mai bun moment pentru a vizita Sint-Truiden pentru florile de fructe?"
+        },
+        "answer": {
+          "en": "The best time is usually in April, when the thousands of fruit trees in the surrounding Haspengouw region are in full bloom.",
+          "de": "Die beste Zeit ist normalerweise im April, wenn die Tausenden von Obstbäumen in der umliegenden Region Haspengouw in voller Blüte stehen.",
+          "hu": "A legjobb időszak általában április, amikor a környező Haspengouw régió több ezer gyümölcsfája teljes virágzásban van.",
+          "ro": "Cel mai bun moment este, de obicei, în aprilie, când mii de pomi fructiferi din regiunea înconjurătoare Haspengouw sunt în plină floare."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the historical center of Sint-Truiden like?",
+          "de": "Wie ist das historische Zentrum von Sint-Truiden?",
+          "hu": "Milyen Sint-Truiden történelmi központja?",
+          "ro": "Cum este centrul istoric al orașului Sint-Truiden?"
+        },
+        "answer": {
+          "en": "The Grote Markt is one of the largest in Belgium, featuring the Town Hall with a UNESCO-listed belfry and the remains of the old abbey.",
+          "de": "Der Grote Markt ist einer der größten Belgiens, mit dem Rathaus samt UNESCO-gelistetem Belfried und den Überresten der alten Abtei.",
+          "hu": "A Grote Markt Belgium egyik legnagyobb tere, ahol a városháza az UNESCO által jegyzett harangtoronnyal és a régi apátság maradványaival található.",
+          "ro": "Grote Markt este una dintre cele mai mari piețe din Belgia, având Primăria cu o clopotniță inclusă pe lista UNESCO și resturile vechii abații."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Sint-Truiden located?",
+          "de": "Wo liegt Sint-Truiden?",
+          "hu": "Hol található Sint-Truiden?",
+          "ro": "Unde se află Sint-Truiden?"
+        },
+        "answer": {
+          "en": "Sint-Truiden is located in the province of Limburg, in the Flemish region of Belgium.",
+          "de": "Sint-Truiden liegt in der Provinz Limburg in der flämischen Region Belgiens.",
+          "hu": "Sint-Truiden Limburg tartományban, Belgium flamand régiójában található.",
+          "ro": "Sint-Truiden este situat în provincia Limburg, în regiunea flamandă a Belgiei."
+        }
+      }
+    ]
+  },
+  "hist-tournai-cathedral": {
+    "faq": [
+      {
+        "question": {
+          "en": "What makes Tournai Cathedral unique?",
+          "de": "Was macht die Kathedrale von Tournai einzigartig?",
+          "hu": "Mitől egyedülálló a Tournai-i székesegyház?",
+          "ro": "Ce face Catedrala din Tournai unică?"
+        },
+        "answer": {
+          "en": "The Cathedral of Notre-Dame in Tournai is famous for its five massive towers and its blend of Romanesque and Gothic architectural styles.",
+          "de": "Die Kathedrale Notre-Dame in Tournai ist bekannt für ihre fünf gewaltigen Türme und ihre Mischung aus romanischem und gotischem Baustil.",
+          "hu": "A tournai-i Notre-Dame-székesegyház öt hatalmas tornyáról, valamint a román és gótikus építészeti stílusok ötvözéséről híres.",
+          "ro": "Catedrala Notre-Dame din Tournai este faimoasă pentru cele cinci turnuri masive ale sale și pentru amestecul său de stiluri arhitecturale romanic și gotic."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Tournai Cathedral a UNESCO World Heritage site?",
+          "de": "Ist die Kathedrale von Tournai ein UNESCO-Weltkulturerbe?",
+          "hu": "A Tournai-i székesegyház az UNESCO Világörökség része?",
+          "ro": "Este Catedrala din Tournai un sit al Patrimoniului Mondial UNESCO?"
+        },
+        "answer": {
+          "en": "Yes, it was added to the UNESCO list in 2000 in recognition of its outstanding architectural value.",
+          "de": "Ja, sie wurde im Jahr 2000 in Anerkennung ihres herausragenden architektonischen Wertes in die UNESCO-Liste aufgenommen.",
+          "hu": "Igen, 2000-ben került fel az UNESCO listájára, kiemelkedő építészeti értékének elismeréseként.",
+          "ro": "Da, a fost adăugată pe lista UNESCO în anul 2000, ca recunoaștere a valorii sale arhitecturale remarcabile."
+        }
+      },
+      {
+        "question": {
+          "en": "What treasures can be found inside Tournai Cathedral?",
+          "de": "Welche Schätze befinden sich im Inneren der Kathedrale von Tournai?",
+          "hu": "Milyen kincsek találhatók a Tournai-i székesegyház belsejében?",
+          "ro": "Ce comori pot fi găsite în interiorul Catedralei din Tournai?"
+        },
+        "answer": {
+          "en": "The cathedral's treasury contains valuable shrines, such as the Shrine of Our Lady by Nicholas of Verdun and the Shrine of Saint Eleutherius.",
+          "de": "Die Domschatzkammer enthält wertvolle Schreine, wie den Marienschrein von Nikolaus von Verdun und den Schrein des heiligen Eleutherius.",
+          "hu": "A székesegyház kincstára értékes ereklyetartókat őriz, például Nicholas of Verdun Mária-kegyhelyét és Szent Eleutherius ereklyetartóját.",
+          "ro": "Tezaurul catedralei conține racle valoroase, cum ar fi Racla Maicii Domnului realizată de Nicholas din Verdun și Racla Sfântului Eleutherius."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Tournai Cathedral located?",
+          "de": "Wo liegt die Kathedrale von Tournai?",
+          "hu": "Hol található a Tournai-i székesegyház?",
+          "ro": "Unde se află Catedrala din Tournai?"
+        },
+        "answer": {
+          "en": "It is located in the heart of Tournai, one of the oldest cities in Belgium, in the province of Hainaut.",
+          "de": "Sie befindet sich im Herzen von Tournai, einer der ältesten Städte Belgiens, in der Provinz Hennegau.",
+          "hu": "Tournai szívében, Belgium egyik legrégebbi városában, Hainaut tartományban található.",
+          "ro": "Este situată în inima orașului Tournai, unul dintre cele mai vechi orașe din Belgia, în provincia Hainaut."
+        }
+      }
+    ]
+  },
+  "hist-mons-belfry": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is unique about the Mons Belfry?",
+          "de": "Was ist das Besondere am Belfried von Mons?",
+          "hu": "Mi az egyedülálló a Mons-i harangtoronyban?",
+          "ro": "Ce este unic la clopotnița (Belfry) din Mons?"
+        },
+        "answer": {
+          "en": "The Mons Belfry is the only Baroque-style belfry in Belgium and is a UNESCO World Heritage site.",
+          "de": "Der Belfried von Mons ist der einzige Belfried im Barockstil in Belgien und gehört zum UNESCO-Weltkulturerbe.",
+          "hu": "A Mons-i harangtorony az egyetlen barokk stílusú harangtorony Belgiumban, és az UNESCO Világörökség része.",
+          "ro": "Belfry din Mons este singura clopotniță în stil baroc din Belgia și este un sit al Patrimoniului Mondial UNESCO."
+        }
+      },
+      {
+        "question": {
+          "en": "How many bells are in the carillon of the Mons Belfry?",
+          "de": "Wie viele Glocken hat das Carillon des Belfrieds von Mons?",
+          "hu": "Hány harang van a Mons-i harangtorony harangjátékában?",
+          "ro": "Câte clopote sunt în carilonul din Belfry din Mons?"
+        },
+        "answer": {
+          "en": "The belfry houses a impressive carillon of 49 bells.",
+          "de": "Der Belfried beherbergt ein beeindruckendes Carillon mit 49 Glocken.",
+          "hu": "A harangtoronyban egy lenyűgöző, 49 harangból álló harangjáték található.",
+          "ro": "Clopotnița găzduiește un carilon impresionant de 49 de clopote."
+        }
+      },
+      {
+        "question": {
+          "en": "When was the Mons Belfry built?",
+          "de": "Wann wurde der Belfried von Mons gebaut?",
+          "hu": "Mikor épült a Mons-i harangtorony?",
+          "ro": "Când a fost construită clopotnița din Mons?"
+        },
+        "answer": {
+          "en": "It was built in the 17th century (1661-1672) after the previous belfry collapsed.",
+          "de": "Er wurde im 17. Jahrhundert (1661-1672) erbaut, nachdem der vorherige Belfried eingestürzt war.",
+          "hu": "A 17. században (1661-1672) épült, miután a korábbi harangtorony összeomlott.",
+          "ro": "A fost construită în secolul al XVII-lea (1661-1672), după ce clopotnița anterioară s-a prăbușit."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Mons Belfry located?",
+          "de": "Wo liegt der Belfried von Mons?",
+          "hu": "Hol található a Mons-i harangtorony?",
+          "ro": "Unde se află clopotnița din Mons?"
+        },
+        "answer": {
+          "en": "The belfry stands on the highest point of the city of Mons, in the province of Hainaut, Wallonia.",
+          "de": "Der Belfried steht auf dem höchsten Punkt der Stadt Mons in der Provinz Hennegau, Wallonien.",
+          "hu": "A harangtorony Mons városának legmagasabb pontján áll, Hainaut tartományban, Vallóniában.",
+          "ro": "Clopotnița se află pe cel mai înalt punct al orașului Mons, în provincia Hainaut, Valonia."
+        }
+      }
+    ]
+  },
+  "hist-beguinage-lier": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Lier Beguinage?",
+          "de": "Was ist der Beginenhof von Lier?",
+          "hu": "Mi az a Lier-i beginaudvar?",
+          "ro": "Ce este Beguinajul din Lier?"
+        },
+        "answer": {
+          "en": "The Lier Beguinage is a well-preserved historic complex of small houses and a church where beguines (religious women) lived in community.",
+          "de": "Der Beginenhof von Lier ist ein gut erhaltener historischer Komplex aus kleinen Häusern und einer Kirche, in dem Beginen (religiöse Frauen) in Gemeinschaft lebten.",
+          "hu": "A Lier-i beginaudvar kis házakból és egy templomból álló, jól megőrzött történelmi épületegyüttes, ahol beginák (vallásos nők) éltek közösségben.",
+          "ro": "Beguinajul din Lier este un complex istoric bine conservat de căsuțe și o biserică în care beguinele (femei religioase) trăiau în comunitate."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the Lier Beguinage part of UNESCO?",
+          "de": "Gehört der Beginenhof von Lier zur UNESCO?",
+          "hu": "Az UNESCO része a Lier-i beginaudvar?",
+          "ro": "Beguinajul din Lier face parte din UNESCO?"
+        },
+        "answer": {
+          "en": "Yes, it is part of the 'Flemish Béguinages' UNESCO World Heritage listing, recognized for its historical and architectural value.",
+          "de": "Ja, er gehört zum UNESCO-Weltkulturerbe 'Flämische Beginenhöfe', das für seinen historischen und architektonischen Wert anerkannt ist.",
+          "hu": "Igen, a 'Flamand beginaudvarok' UNESCO Világörökségi listájának része, történelmi és építészeti értéke miatt elismerve.",
+          "ro": "Da, face parte din lista Patrimoniului Mondial UNESCO „Beguinajele Flamande”, recunoscută pentru valoarea sa istorică și arhitecturală."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Calvary' in the Lier Beguinage?",
+          "de": "Was ist der 'Kalvarienberg' im Beginenhof von Lier?",
+          "hu": "Mi az a 'Kálvária' a Lier-i beginaudvarban?",
+          "ro": "Ce este „Calvarul” din Beguinajul din Lier?"
+        },
+        "answer": {
+          "en": "It is a prominent religious monument or scene within the beguinage complex, typical of these religious communities.",
+          "de": "Es ist ein bedeutendes religiöses Monument oder eine Szene innerhalb des Beginenhof-Komplexes, wie sie für diese religiösen Gemeinschaften typisch ist.",
+          "hu": "Ez egy kiemelkedő vallási emlékmű vagy jelenet a beginaudvar területén, ami jellemző ezekre a vallási közösségekre.",
+          "ro": "Este un monument sau o scenă religioasă proeminentă în cadrul complexului beguinajului, tipică pentru aceste comunități religioase."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Lier Beguinage located?",
+          "de": "Wo liegt der Beginenhof von Lier?",
+          "hu": "Hol található a Lier-i beginaudvar?",
+          "ro": "Unde se află Beguinajul din Lier?"
+        },
+        "answer": {
+          "en": "It is located in the town of Lier, in the province of Antwerp, Flanders.",
+          "de": "Er befindet sich in der Stadt Lier in der Provinz Antwerpen, Flandern.",
+          "hu": "Lier városában, Antwerpen tartományban, Flandriában található.",
+          "ro": "Este situat în orașul Lier, în provincia Anvers, Flandra."
+        }
+      }
+    ]
+  },
+  "hist-fort-breendonk": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Fort Breendonk?",
+          "de": "Was ist Fort Breendonk?",
+          "hu": "Mi az a Breendonk-erőd?",
+          "ro": "Ce este Fort Breendonk?"
+        },
+        "answer": {
+          "en": "Fort Breendonk is a former military fort that was used by Nazi Germany as a transition camp and prison during World War II.",
+          "de": "Fort Breendonk ist ein ehemaliges Militärfort, das von Nazideutschland während des Zweiten Weltkriegs als Auffanglager und Gefängnis genutzt wurde.",
+          "hu": "A Breendonk-erőd egy korábbi katonai erőd, amelyet a náci Németország átmeneti táborként és börtönként használt a második világháború alatt.",
+          "ro": "Fort Breendonk este un fost fort militar care a fost folosit de Germania nazistă ca lagăr de tranzit și închisoare în timpul celui de-al Doilea Război Mondial."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Fort Breendonk a museum today?",
+          "de": "Ist Fort Breendonk heute ein Museum?",
+          "hu": "Múzeum ma a Breendonk-erőd?",
+          "ro": "Este Fort Breendonk un muzeu astăzi?"
+        },
+        "answer": {
+          "en": "Yes, it is preserved as the National Memorial of Fort Breendonk, serving as a powerful museum about the atrocities committed there.",
+          "de": "Ja, es ist als Nationales Denkmal von Fort Breendonk erhalten und dient als eindrucksvolles Museum über die dort begangenen Gräueltaten.",
+          "hu": "Igen, a Breendonk-erőd Nemzeti Emlékhelyeként maradt fenn, és az ott elkövetett borzalmakat bemutató megrázó múzeumként működik.",
+          "ro": "Da, este conservat ca Memorialul Național al Fortului Breendonk, servind ca un muzeu impresionant despre atrocitățile comise acolo."
+        }
+      },
+      {
+        "question": {
+          "en": "What can visitors see at the memorial?",
+          "de": "Was können Besucher an der Gedenkstätte sehen?",
+          "hu": "Mit láthatnak a látogatók az emlékhelyen?",
+          "ro": "Ce pot vedea vizitatorii la memorial?"
+        },
+        "answer": {
+          "en": "Visitors can see the prison cells, interrogation rooms, and the site where executions took place, preserved in their original state.",
+          "de": "Besucher können die Gefängniszellen, Verhörräume und den Ort, an dem Hinrichtungen stattfanden, im Originalzustand sehen.",
+          "hu": "A látogatók eredeti állapotukban láthatják a börtöncellákat, a vallatószobákat és a kivégzések helyszínét.",
+          "ro": "Vizitatorii pot vedea celulele închisorii, sălile de interogatoriu și locul unde aveau loc execuțiile, păstrate în starea lor originală."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Fort Breendonk located?",
+          "de": "Wo liegt Fort Breendonk?",
+          "hu": "Hol található a Breendonk-erőd?",
+          "ro": "Unde se află Fort Breendonk?"
+        },
+        "answer": {
+          "en": "It is located in Willebroek, near Antwerp, Belgium.",
+          "de": "Es befindet sich in Willebroek, in der Nähe von Antwerpen, Belgien.",
+          "hu": "Willebroekben, Antwerpen közelében, Belgiumban található.",
+          "ro": "Este situat în Willebroek, lângă Anvers, Belgia."
+        }
+      }
+    ]
+  },
+  "land-gravensteen-ghent": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Gravensteen in Ghent?",
+          "de": "Was ist das Gravensteen in Gent?",
+          "hu": "Mi az a Gravensteen Gentben?",
+          "ro": "Ce este Gravensteen din Gent?"
+        },
+        "answer": {
+          "en": "The Gravensteen, or 'Castle of the Counts', is a medieval castle in Ghent with an almost intact defense system.",
+          "de": "Das Gravensteen oder 'Grafenburg' ist eine mittelalterliche Burg in Gent mit einem fast unversehrten Verteidigungssystem.",
+          "hu": "A Gravensteen, vagyis a 'Grófi vár', egy középkori vár Gentben, szinte érintetlen védelmi rendszerrel.",
+          "ro": "Gravensteen, sau „Castelul Conților”, este un castel medieval din Gent, cu un sistem de apărare aproape intact."
+        }
+      },
+      {
+        "question": {
+          "en": "Who built the Gravensteen?",
+          "de": "Wer hat das Gravensteen gebaut?",
+          "hu": "Ki építette a Gravensteen-t?",
+          "ro": "Cine a construit Gravensteen?"
+        },
+        "answer": {
+          "en": "The current castle was built in 1180 by Count Philip of Alsace, modeled after crusader castles.",
+          "de": "Die heutige Burg wurde 1180 von Graf Philipp von Elsass nach dem Vorbild von Kreuzritterburgen erbaut.",
+          "hu": "A jelenlegi várat 1180-ban építtette Elzászi Fülöp gróf, a keresztes lovagok várai mintájára.",
+          "ro": "Castelul actual a fost construit în 1180 de către contele Filip de Alsacia, după modelul castelelor cruciaților."
+        }
+      },
+      {
+        "question": {
+          "en": "What can you see inside the Gravensteen?",
+          "de": "Was kann man im Inneren des Gravensteen sehen?",
+          "hu": "Mit lehet látni a Gravensteen belsejében?",
+          "ro": "Ce se poate vedea în interiorul Gravensteen?"
+        },
+        "answer": {
+          "en": "The castle houses a museum of judicial objects, including a collection of torture devices used in former times.",
+          "de": "Die Burg beherbergt ein Museum für Justizobjekte, einschließlich einer Sammlung von Foltergeräten, die in früherer Zeit verwendet wurden.",
+          "hu": "A várban egy igazságügyi múzeum található, beleértve a régi időkben használt kínzóeszközök gyűjteményét.",
+          "ro": "Castelul găzduiește un muzeu de obiecte judiciare, inclusiv o colecție de dispozitive de tortură folosite în vremurile de demult."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the view from the top of the Gravensteen worth it?",
+          "de": "Lohnt sich die Aussicht von der Spitze des Gravensteen?",
+          "hu": "Érdemes felmenni a Gravensteen tetejére a kilátásért?",
+          "ro": "Merită priveliștea de sus de pe Gravensteen?"
+        },
+        "answer": {
+          "en": "Yes, from the ramparts and the keep, visitors get a fantastic panoramic view of the city of Ghent.",
+          "de": "Ja, von den Wehrmauern und dem Bergfried aus haben Besucher einen fantastischen Panoramablick auf die Stadt Gent.",
+          "hu": "Igen, a várfalakról és az öregtoronyból fantasztikus panorámás kilátás nyílik Gent városára.",
+          "ro": "Da, de pe bastioane și din donjon, vizitatorii au o vedere panoramică fantastică asupra orașului Gent."
+        }
+      }
+    ]
+  },
+  "land-basilica-halle": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Basilica of Halle known for?",
+          "de": "Wofür ist die Basilika von Halle bekannt?",
+          "hu": "Miről nevezetes a Halle-i bazilika?",
+          "ro": "Pentru ce este cunoscută Basilica din Halle?"
+        },
+        "answer": {
+          "en": "The Basilica of Saint Martin in Halle is a major pilgrimage site, famous for its 14th-century statue of the Black Madonna.",
+          "de": "Die Basilika St. Martin in Halle ist ein bedeutender Wallfahrtsort, bekannt für ihre Statue der Schwarzen Madonna aus dem 14. Jahrhundert.",
+          "hu": "A hallei Szent Márton-bazilika jelentős zarándokhely, amely a 14. századi Fekete Madonna szobráról híres.",
+          "ro": "Basilica Sfântul Martin din Halle este un loc major de pelerinaj, faimos pentru statuia sa din secolul al XIV-lea a Madonei Negre."
+        }
+      },
+      {
+        "question": {
+          "en": "What are the 'cannonballs of Halle'?",
+          "de": "Was sind die 'Kanonenkugeln von Halle'?",
+          "hu": "Mik azok a 'Halle-i ágyúgolyók'?",
+          "ro": "Ce sunt „ghiulelele din Halle”?"
+        },
+        "answer": {
+          "en": "According to legend, the Black Madonna caught cannonballs to protect the city during a siege in 1489; many are still displayed in the church.",
+          "de": "Der Legende nach fing die Schwarze Madonna während einer Belagerung im Jahr 1489 Kanonenkugeln ab, um die Stadt zu schützen; viele sind noch in der Kirche ausgestellt.",
+          "hu": "A legenda szerint a Fekete Madonna ágyúgolyókat kapott el, hogy megvédje a várost az 1489-es ostrom alatt; sok közülük ma is látható a templomban.",
+          "ro": "Conform legendei, Madona Neagră a prins ghiulelele pentru a proteja orașul în timpul unui asediu din 1489; multe sunt încă expuse în biserică."
+        }
+      },
+      {
+        "question": {
+          "en": "What architectural style is the Basilica of Halle?",
+          "de": "Welchen Baustil hat die Basilika von Halle?",
+          "hu": "Milyen építészeti stílusú a Halle-i bazilika?",
+          "ro": "Ce stil arhitectural are Basilica din Halle?"
+        },
+        "answer": {
+          "en": "It is a prime example of the Brabantine Gothic style, with rich internal decorations and artworks.",
+          "de": "Es ist ein Paradebeispiel für den brabantischen Gotikstil mit reicher Innendekoration und Kunstwerken.",
+          "hu": "A brabanti gótikus stílus egyik kiváló példája, gazdag belső díszítéssel és műalkotásokkal.",
+          "ro": "Este un exemplu primar al stilului gotic brabantin, cu decorațiuni interioare și opere de artă bogate."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Halle located?",
+          "de": "Wo liegt Halle?",
+          "hu": "Hol található Halle?",
+          "ro": "Unde se află Halle?"
+        },
+        "answer": {
+          "en": "Halle is located just south of Brussels, in the province of Flemish Brabant.",
+          "de": "Halle liegt knapp südlich von Brüssel in der Provinz Flämisch-Brabant.",
+          "hu": "Halle Brüsszeltől délre található, Flamand-Brabant tartományban.",
+          "ro": "Halle este situat la sud de Bruxelles, în provincia Brabantul Flamand."
+        }
+      }
+    ]
+  },
+  "land-basilica-holy-blood-bruges": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Basilica of the Holy Blood?",
+          "de": "Was ist die Heilig-Blut-Basilika?",
+          "hu": "Mi az a Szent Vér-bazilika?",
+          "ro": "Ce este Basilica Sângelui Sfânt?"
+        },
+        "answer": {
+          "en": "It is a double-level chapel in Bruges that houses a venerated relic: a cloth said to be stained with the blood of Jesus Christ.",
+          "de": "Es ist eine Doppelkapelle in Brügge, die eine verehrte Reliquie beherbergt: ein Tuch, das mit dem Blut Jesu Christi befleckt sein soll.",
+          "hu": "Ez egy kétszintes kápolna Brugge-ben, amely egy tisztelt ereklyét őriz: egy kendőt, amelyen állítólag Jézus Krisztus vére látható.",
+          "ro": "Este o capelă pe două niveluri din Bruges care găzduiește o relicvă venerată: o pânză despre care se spune că este pătată cu sângele lui Isus Hristos."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the difference between the two chapels?",
+          "de": "Was ist der Unterschied zwischen den beiden Kapellen?",
+          "hu": "Mi a különbség a két kápolna között?",
+          "ro": "Care este diferența dintre cele două capele?"
+        },
+        "answer": {
+          "en": "The lower chapel is in Romanesque style and dedicated to Saint Basil, while the upper chapel was rebuilt in Neo-Gothic style in the 19th century.",
+          "de": "Die Unterkapelle ist im romanischen Stil gehalten und dem heiligen Basilius gewidmet, während die Oberkapelle im 19. Jahrhundert im neugotischen Stil neu erbaut wurde.",
+          "hu": "Az alsó kápolna román stílusú és Szent Vazulnak szentelték, míg a felső kápolnát a 19. században neogótikus stílusban építették újjá.",
+          "ro": "Capela inferioară este în stil romanic și dedicată Sfântului Vasile, în timp ce capela superioară a fost reconstruită în stil neogotic în secolul al XIX-lea."
+        }
+      },
+      {
+        "question": {
+          "en": "When is the relic shown to the public?",
+          "de": "Wann wird die Reliquie der Öffentlichkeit gezeigt?",
+          "hu": "Mikor mutatják be az ereklyét a nyilvánosságnak?",
+          "ro": "Când este expusă relicva publicului?"
+        },
+        "answer": {
+          "en": "The relic is shown daily for veneration at specific times and is carried through the city during the Procession of the Holy Blood on Ascension Day.",
+          "de": "Die Reliquie wird täglich zu bestimmten Zeiten zur Verehrung gezeigt und am Himmelfahrtstag bei der Heilig-Blut-Prozession durch die Stadt getragen.",
+          "hu": "Az ereklyét naponta meghatározott időpontokban mutatják be tiszteletadásra, Áldozócsütörtökön pedig a Szent Vér-körmenet keretében végighordozzák a városon.",
+          "ro": "Relicva este expusă zilnic pentru venerare la ore specifice și este purtată prin oraș în timpul Procesiunii Sângelui Sfânt de Ziua Înălțării."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Basilica located?",
+          "de": "Wo befindet sich die Basilika?",
+          "hu": "Hol található a bazilika?",
+          "ro": "Unde se află Basilica?"
+        },
+        "answer": {
+          "en": "The basilica is located on the Burg square in the center of Bruges.",
+          "de": "Die Basilika befindet sich am Burgplatz im Zentrum von Brügge.",
+          "hu": "A bazilika a Burg téren található, Brugge központjában.",
+          "ro": "Basilica este situată în piața Burg din centrul orașului Bruges."
+        }
+      }
+    ]
+  }
+}

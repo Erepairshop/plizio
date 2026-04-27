@@ -1,0 +1,197 @@
+[
+  {
+    "id": "city-urziceni-extra",
+    "name_hu": "Urziceni",
+    "desc_de": "Urziceni ist eine strategisch wichtige Stadt im Kreis Ialomița, die als bedeutender Verkehrsknotenpunkt in der weiten Bărăgan-Ebene dient. Gelegen an der Kreuzung wichtiger Nationalstraßen, verbindet die Stadt die Hauptstadt Bukarest mit der Region Moldau und der Schwarzmeerküste. Urziceni ist tief in der landwirtschaftlichen Tradition verwurzelt, wobei der Getreideanbau und die Lebensmittelverarbeitung das wirtschaftliche Rückgrat der Gemeinde bilden. In der jüngeren Geschichte erlangte die Stadt internationale Bekanntheit durch ihren Fußballverein Unirea Urziceni, der sensationell die rumänische Meisterschaft gewann und in der Champions League spielte. Heute präsentiert sich Urziceni als ein dynamisches lokales Zentrum, das moderne Dienstleistungen mit einer bodenständigen, ländlichen Atmosphäre verbindet. Die Stadt ist von fruchtbarem Ackerland umgeben, das das typische Panorama der rumänischen Tiefebene prägt und für die nationale Nahrungsmittelproduktion von großer Bedeutung ist.",
+    "facts_de": [
+      "Urziceni wurde im Jahr 1596 erstmals urkundlich erwähnt.",
+      "Die Stadt erlangte 2009 durch den Gewinn der rumänischen Fußballmeisterschaft nationale Berühmtheit.",
+      "Urziceni liegt am Fluss Ialomița auf einer Höhe von etwa 60 Metern.",
+      "Die Stadt ist ein essenzieller Bahnknotenpunkt an der Strecke Bukarest-Galați.",
+      "Die Wirtschaft wird stark durch die Produktion von Pflanzenöl und Tierfutter geprägt.",
+      "Urziceni liegt genau auf halber Strecke zwischen Bukarest und Buzău.",
+      "Das Klima ist durch heiße, trockene Sommer und windige Winter charakterisiert.",
+      "Die orthodoxe Kathedrale 'Heilige Dreifaltigkeit' ist ein markantes Bauwerk im Stadtzentrum."
+    ]
+  },
+  {
+    "id": "city-fetesti-extra",
+    "name_hu": "Fetesti",
+    "desc_de": "Fetești ist eine bedeutende Hafenstadt am Borcea-Arm der Donau im Kreis Ialomița und ein unverzichtbarer logistischer Knotenpunkt Rumäniens. Die Stadt ist weltberühmt für die Anghel-Saligny-Brücke, ein technisches Meisterwerk aus dem späten 19. Jahrhundert, das damals die längste Brücke Europas war und heute als historisches Denkmal gilt. Fetești dient als das wichtigste Tor zwischen der Hauptstadt Bukarest und der Schwarzmeerküste, wobei sowohl die Autobahn A2 als auch die Hauptbahnlinie hier die Donau überqueren. Die Identität der Stadt ist untrennbar mit der Eisenbahn und der Schifffahrt verbunden, was ihr eine geschäftige, industrielle Atmosphäre verleiht. Geografisch liegt Fetești in einer faszinierenden Flusslandschaft, geprägt von Auenwäldern und Kanälen, die eine reiche Flora und Fauna beherbergen. Neben der Logistik spielt die Landwirtschaft in der fruchtbaren Donauebene eine zentrale Rolle für die lokale Wirtschaft und prägt das ländliche Umland der Stadt.",
+    "facts_de": [
+      "Die Anghel-Saligny-Brücke wurde zwischen 1890 und 1895 erbaut und war eine technische Sensation.",
+      "Fetești wurde erstmals im Jahr 1528 in einem Dokument des Fürsten Radu de la Afumați erwähnt.",
+      "Die Stadt erhielt im Jahr 1995 den Status eines Munizipiums.",
+      "Fetești ist einer der größten Eisenbahnknotenpunkte des Landes mit weitläufigen Rangierbahnhöfen.",
+      "Der Borcea-Arm der Donau bietet hervorragende Bedingungen für die Binnenschifffahrt.",
+      "In der Stadt befindet sich ein bedeutendes Depot für Elektrolokomotiven.",
+      "Die Umgebung von Fetești ist für ihren intensiven Weizen- und Maisanbau bekannt.",
+      "Die Stadt liegt am Kilometer 145 der Autobahn A2, der wichtigsten Verkehrsader zum Meer."
+    ]
+  },
+  {
+    "id": "city-tandarei-extra",
+    "name_hu": "Țăndărei",
+    "desc_de": "Țăndărei ist eine charakteristische Kleinstadt im Herzen der Bărăgan-Ebene im Kreis Ialomița, die tief in der landwirtschaftlichen Tradition Ost-Rumäniens verwurzelt ist. Als wichtiges Zentrum für den Getreidehandel und die Lagerung von Agrarprodukten spielt die Stadt eine zentrale Rolle in der Versorgungskette der Region. Die Architektur von Țăndărei ist funktional und spiegelt den rasanten Ausbau während der Industrialisierungsphase im 20. Jahrhundert wider. Geografisch liegt die Stadt in einer weiten, flachen Steppenlandschaft, die durch intensive Landwirtschaft geprägt ist und deren Horizont scheinbar endlos wirkt. Țăndărei ist zudem ein wichtiger Verkehrsknotenpunkt, an dem sich regionale Straßen und Eisenbahnlinien kreuzen, die die Donau mit dem Landesinneren verbinden. Trotz ihres bescheidenen Charakters pflegt die Stadt ein aktives kulturelles Leben und bewahrt lokale Bräuche, die eng mit dem Rhythmus der Ernte und des bäuerlichen Lebens verknüpft sind.",
+    "facts_de": [
+      "Țăndărei wurde erstmals im Jahr 1594 urkundlich erwähnt.",
+      "Die Stadt erhielt im Jahr 1968 offiziell den Status einer Stadt.",
+      "In Țăndărei befinden sich riesige Getreidesilos, die das Stadtbild prägen.",
+      "Die Stadt liegt am Fluss Ialomița, der für die Bewässerung der umliegenden Felder essenziell ist.",
+      "Die Wirtschaft basiert fast ausschließlich auf der Verarbeitung und dem Handel von Agrarprodukten.",
+      "Țăndărei liegt an der Bahnstrecke Bukarest-Constanța, einer der wichtigsten des Landes.",
+      "Das Klima ist durch extreme Trockenheit im Sommer und starke Winde im Winter geprägt.",
+      "Die Stadt ist bekannt für ihre traditionellen Wochenmärkte, die als regionaler Treffpunkt dienen."
+    ]
+  },
+  {
+    "id": "city-pascani-extra",
+    "name_hu": "Páskán",
+    "desc_de": "Pașcani ist eine bedeutende Industriestadt im Kreis Iași, die landesweit als einer der wichtigsten Eisenbahnknotenpunkte der Region Moldau bekannt ist. Die Entwicklung der Stadt ist untrennbar mit dem Bau der ersten Eisenbahnlinien in der Moldau im 19. Jahrhundert verbunden, was Pașcani zu einem Zentrum für Schienenlogistik und Maschinenbau machte. Geografisch liegt die Stadt malerisch im Siret-Tal, umgeben von fruchtbarem Ackerland und sanften Hügeln. Pașcani hat sich in den letzten Jahrzehnten zu einem modernen urbanen Zentrum entwickelt, das neben der Industrie auch im Bildungs- und Kulturbereich eine wichtige regionale Rolle einnimmt. Die Architektur zeigt eine Mischung aus funktionalen Industriebauten und modernen Wohnvierteln. Ein besonderes Wahrzeichen ist der Cantacuzino-Pașcanu-Palast, der an die aristokratische Vergangenheit der Region erinnert. Pașcani ist ein Ort, der den Stolz der moldauischen Arbeiterklasse mit einer dynamischen Vision für die Zukunft verbindet.",
+    "facts_de": [
+      "Pașcani wurde im Jahr 1419 erstmals in einem Dokument des Fürsten Alexander des Guten erwähnt.",
+      "Die Stadt beherbergt große Werkstätten für die Reparatur von Schienenfahrzeugen (Remar).",
+      "Pașcani liegt am rechten Ufer des Flusses Siret auf einer Höhe von etwa 250 Metern.",
+      "Die Stadt erhielt im Jahr 1995 den Status eines Munizipiums.",
+      "Der Cantacuzino-Pașcanu-Palast ist ein bedeutendes architektonisches Denkmal aus dem 17. Jahrhundert.",
+      "Pașcani ist ein wichtiger Umsteigepunkt für Reisende in Richtung Suceava und Iași.",
+      "In der Stadt gibt es eine starke Tradition in der Textil- und Lebensmittelindustrie.",
+      "Jährlich findet in Pașcani ein überregional bekanntes Theaterfestival statt."
+    ]
+  },
+  {
+    "id": "city-harlau-extra",
+    "name_hu": "Harló",
+    "desc_de": "Hârlău ist eine geschichtsträchtige Stadt im Kreis Iași, die im Mittelalter als eine der bevorzugten Residenzen der moldauischen Fürsten glänzte. Besonders unter der Herrschaft von Stefan dem Großen blühte die Stadt auf, wovon heute noch die Ruinen des Fürstenhofs und die prächtige St.-Georgs-Kirche mit ihren beeindruckenden Außenfresken zeugen. Geografisch liegt Hârlău in einer malerischen Hügellandschaft am Ufer des Flusses Bahlui und ist von renommierten Weinbaugebieten wie Cotnari umgeben. Die Stadt strahlt eine ruhige, ehrwürdige Atmosphäre aus, die Besucher in die glanzvolle Zeit des moldauischen Fürstentums zurückversetzt. Neben seinem historischen Erbe ist Hârlău heute ein wichtiges lokales Zentrum für Handwerk und Landwirtschaft. Kulturell ist die Stadt für die Bewahrung traditioneller moldauischer Bräuche bekannt, insbesondere in der Keramikherstellung und Weberei. Hârlău ist ein unverzichtbares Ziel für jeden, der die Wurzeln der moldauischen Identität und Architektur erkunden möchte.",
+    "facts_de": [
+      "Hârlău wurde erstmals im Jahr 1384 urkundlich erwähnt.",
+      "Der Fürstenhof (Curtea Domnească) wurde 1486 von Stefan dem Großen massiv ausgebaut.",
+      "Die St.-Georgs-Kirche (1492) ist ein herausragendes Beispiel der moldauischen Gotik.",
+      "In Hârlău wurde 1907 ein bedeutendes Museum für Weinbau und Ethnographie eröffnet.",
+      "Die Stadt liegt am Fuße des Dealul Mare in einer Höhe von etwa 160 Metern.",
+      "Hârlău war zeitweise die inoffizielle Hauptstadt der Moldau während der Herrschaft von Petru Rareș.",
+      "Die Umgebung ist weltberühmt für den 'Grasă de Cotnari', einen edelsüßen Weißwein.",
+      "In der Stadt gibt es eine lange Tradition der jüdischen Gemeinde, die das Handelsleben prägte."
+    ]
+  },
+  {
+    "id": "city-targu-frumos-extra",
+    "name_hu": "Szépvásár",
+    "desc_de": "Târgu Frumos, wörtlich übersetzt 'Schöner Markt', ist eine historisch bedeutsame Stadt im Kreis Iași, die an der Kreuzung wichtiger Handelswege der Moldau liegt. Über Jahrhunderte war sie ein blühendes Handelszentrum, was sich in ihrer multikulturellen Vergangenheit widerspiegelt. In der Militärgeschichte ist die Stadt für die 'Schlachten von Târgu Frumos' während des Zweiten Weltkriegs bekannt, die als taktische Meisterleistungen gelten. Geografisch liegt die Stadt in einer fruchtbaren Ebene, umgeben von sanften Hügeln, die ideal für die Landwirtschaft und den Gartenbau sind. Heute ist Târgu Frumos ein lebendiger Ort, der Tradition und Moderne verbindet, mit gut erhaltenen Kirchen verschiedener Konfessionen und einem modernen Stadtzentrum. Besucher können hier die typische moldauische Gastfreundschaft erleben und die historischen Denkmäler besichtigen, die von der bewegten Vergangenheit der Region erzählen. Die Stadt dient zudem als wichtiger logistischer Haltepunkt auf dem Weg zur Metropole Iași.",
+    "facts_de": [
+      "Târgu Frumos wurde erstmals im Jahr 1448 urkundlich erwähnt.",
+      "Die Stadt beherbergt eine bedeutende Gemeinschaft von Lipowanern (russisch-orthodoxe Altgläubige).",
+      "Im Jahr 1944 fanden hier entscheidende Panzerschlachten zwischen der Wehrmacht und der Roten Armee statt.",
+      "Die orthodoxe Kirche 'St. Parascheva' ist ein architektonisches Highlight aus dem 16. Jahrhundert.",
+      "Târgu Frumos liegt am Ufer des Bahlui-Flusses in einer Höhe von etwa 100 Metern.",
+      "Die Stadt ist bekannt für ihre fruchtbaren Böden und den intensiven Anbau von Gemüse.",
+      "In Târgu Frumos kreuzen sich die europäischen Straßen E58 und E583.",
+      "Die Stadt feiert jährlich das 'Fest des schönen Marktes' mit traditioneller Musik und lokalem Handwerk."
+    ]
+  },
+  {
+    "id": "city-buftea-extra",
+    "name_hu": "Buftea",
+    "desc_de": "Buftea ist landesweit als die 'Hauptstadt des rumänischen Films' bekannt und liegt im Kreis Ilfov, nur wenige Kilometer nordwestlich von Bukarest. Die Stadt beherbergt die größten Filmstudios des Landes (Studiourile Buftea), in denen seit den 1950er Jahren fast alle bedeutenden rumänischen Filmproduktionen sowie zahlreiche internationale Werke entstanden sind. Neben ihrer cineastischen Bedeutung ist Buftea berühmt für den Știrbey-Palast, ein architektonisches Juwel im neogotischen Stil, das inmitten eines weitläufigen Parks am Ufer des Colentina-Sees liegt. Die Stadt hat sich in den letzten Jahren zu einem attraktiven Wohn- und Erholungsort für Pendler aus Bukarest entwickelt, die die grüne Umgebung und die Ruhe schätzen. Geografisch ist Buftea von einer Kette von Seen und Wäldern umgeben, die ideale Bedingungen für Wassersport und Naturbeobachtungen bieten. Kulturell ist die Stadt ein wichtiger Standort für Festivals und Events, die im historischen Ambiente des Schlosses stattfinden.",
+    "facts_de": [
+      "Die Filmstudios in Buftea wurden 1950 gegründet und erstrecken sich über 40 Hektar.",
+      "Der Știrbey-Palast wurde 1850 von Fürst Barbu Știrbey erbaut.",
+      "Buftea erhielt im Jahr 1968 den Status einer Stadt.",
+      "Hier wurde 1918 der Vorfriede von Buftea zwischen Rumänien und den Mittelmächten unterzeichnet.",
+      "Die Stadt liegt am Fluss Colentina, der hier mehrere Stauseen bildet.",
+      "In Buftea findet jährlich das berühmte 'Summer Well' Musikfestival statt.",
+      "Die Kapelle 'Heilige Dreifaltigkeit' im Știrbey-Park beherbergt Gräber der Adelsfamilie.",
+      "Die Stadt verfügt über ein modernes Sportzentrum und ist bekannt für ihre Fußballakademie."
+    ]
+  },
+  {
+    "id": "city-otopeni-extra",
+    "name_hu": "Otopeni",
+    "desc_de": "Otopeni ist die wichtigste Transitstadt Rumäniens und liegt im Kreis Ilfov, unmittelbar nördlich der Hauptstadt Bukarest. Die Identität der Stadt ist untrennbar mit dem Internationalen Flughafen Henri Coandă verbunden, dem größten und geschäftigsten Flughafen des Landes, der Otopeni zu einem globalen Tor macht. In den letzten Jahrzehnten hat sich Otopeni von einer kleinen Gemeinde zu einer modernen, wohlhabenden Stadt entwickelt, die ein wichtiges Zentrum für Logistik, internationale Unternehmen und Dienstleistungen ist. Trotz des hohen Verkehrsaufkommens hat die Stadt massiv in ihre Infrastruktur, Grünanlagen und Sporteinrichtungen investiert, darunter ein olympisches Schwimmzentrum von Weltklasse. Geografisch liegt Otopeni in der walachischen Tiefebene und dient als strategischer Knotenpunkt an der Nationalstraße DN1. Die Stadt ist ein Symbol für den rasanten wirtschaftlichen Aufstieg Rumäniens und bietet eine hohe Lebensqualität in unmittelbarer Nähe zur Metropole Bukarest.",
+    "facts_de": [
+      "Der Flughafen Otopeni wurde während des Zweiten Weltkriegs als Militärstützpunkt gegründet.",
+      "Der Name der Stadt leitet sich vermutlich von einem Adligen namens 'Otop' ab.",
+      "Otopeni beherbergt den modernsten Schwimmkomplex Rumäniens, der internationale Wettkämpfe ausrichtet.",
+      "Die Stadt erhielt im Jahr 2000 offiziell das Stadtrecht.",
+      "Hier befindet sich der Sitz zahlreicher internationaler Fluggesellschaften und Kurierdienste.",
+      "Otopeni liegt nur etwa 16 Kilometer vom Stadtzentrum Bukarests entfernt.",
+      "In der Stadt gibt es ein bedeutendes Luftfahrtmuseum, das die Geschichte der rumänischen Flugkunst zeigt.",
+      "Die DN1-Route durch Otopeni ist die am stärksten befahrene Straße des Landes."
+    ]
+  },
+  {
+    "id": "city-voluntari-extra",
+    "name_hu": "Voluntari",
+    "desc_de": "Voluntari ist eine der am schnellsten wachsenden Städte Rumäniens und liegt im Kreis Ilfov, direkt an der nordöstlichen Grenze von Bukarest. Ursprünglich als Siedlung für Kriegsveteranen ('Freiwillige') nach dem Ersten Weltkrieg gegründet, hat sich die Stadt zu einem dynamischen urbanen Zentrum und einem bevorzugten Wohnort für die gehobene Mittelschicht entwickelt. Voluntari umfasst auch das exklusive Viertel Pipera, das als das wichtigste Geschäftsviertel des Landes gilt und zahlreiche Hauptquartiere multinationaler Konzerne beherbergt. Die Architektur der Stadt zeigt einen krassen Kontrast zwischen modernen Bürokomplexen, luxuriösen Villenvierteln und den ursprünglichen Wohngebieten. Geografisch ist Voluntari durch seine hervorragende Anbindung an die Autobahn A3 und die Bukarester Ringstraße geprägt. Trotz der rasanten Urbanisierung bemüht sich die Stadt um die Erhaltung von Grünflächen und investiert stark in moderne Bildungs- und Gesundheitseinrichtungen, was sie zu einem Symbol für den Vorstadt-Boom der Hauptstadt macht.",
+    "facts_de": [
+      "Die Stadt wurde 1921 offiziell für die Freiwilligen des Ersten Weltkriegs gegründet.",
+      "Voluntari erhielt im Jahr 2004 den Status einer Stadt.",
+      "Der Stadtteil Pipera beherbergt die höchste Dichte an Büroflächen in ganz Rumänien.",
+      "Voluntari ist der Sitz zahlreicher renommierter internationaler Schulen.",
+      "Die Kathedrale 'Heilige Parascheva' in Voluntari ist eines der größten religiösen Bauwerke im Umland der Hauptstadt.",
+      "Die Stadt grenzt direkt an den Băneasa-Wald, ein wichtiges Naherholungsgebiet.",
+      "Voluntari verfügt über einen der modernsten öffentlichen Verkehrsbetriebe der Region Ilfov.",
+      "Wirtschaftlich gehört Voluntari zu den Städten mit dem höchsten Pro-Kopf-Einkommen in Rumänien."
+    ]
+  },
+  {
+    "id": "city-sighetu-marmatiei-extra",
+    "name_hu": "Máramarossziget",
+    "desc_de": "Sighetu Marmației, im Deutschen Marmaroschsiget, ist eine geschichtsträchtige Grenzstadt im Norden Rumäniens, gelegen am Ufer der Theiß gegenüber der Ukraine. Sie gilt als das kulturelle und historische Zentrum der Maramureș. Die Stadt ist weltweit bekannt für das 'Memorial der Opfer des Kommunismus und des Widerstands', das in einem ehemaligen Gefängnis untergebracht ist und als eines der bedeutendsten Museen dieser Art weltweit gilt. Sighetu Marmației strahlt eine besondere Atmosphäre aus, geprägt von einer Mischung aus habsburgischer Architektur, jüdischem Erbe und den lebendigen Traditionen der Maramureș. Geografisch ist die Stadt ein idealer Ausgangspunkt, um die berühmten Holzkirchen (UNESCO-Welterbe) und den Fröhlichen Friedhof von Săpânța zu erkunden. Jedes Jahr im Dezember findet hier das spektakuläre Festival der Winterbräuche statt, bei dem die archaische Kultur der Region in farbenfrohen Maskenumzügen lebendig wird. Sighetu Marmației ist ein Ort, an dem die Zeit langsamer zu vergehen scheint und Geschichte an jeder Ecke greifbar ist.",
+    "facts_de": [
+      "Sighetu Marmației war über Jahrhunderte die Hauptstadt des Komitats Marmarosch.",
+      "Elie Wiesel, Friedensnobelpreisträger und Holocaust-Überlebender, wurde 1928 hier geboren.",
+      "Die historische Theiß-Brücke verbindet die Stadt direkt mit Solotwyno in der Ukraine.",
+      "Das Gedenkmuseum 'Memorialul Victimelor Comunismului' ist Teil des Europarats-Netzwerks.",
+      "In der Stadt gibt es ein faszinierendes Freilichtmuseum für Dorfarchitektur der Maramureș.",
+      "Sighetu Marmației liegt am Zusammenfluss von Iza und Theiß auf einer Höhe von 274 Metern.",
+      "Die reformierte Kirche im Stadtzentrum ist ein bedeutendes gotisches Baudenkmal.",
+      "Das jährliche Maskenfestival (Festivalul Datinilor de Iarnă) ist das größte seiner Art in Südosteuropa."
+    ]
+  },
+  {
+    "id": "city-viseu-de-sus-extra",
+    "name_hu": "Felsővisó",
+    "desc_de": "Vișeu de Sus, im Deutschen Oberwischau genannt, ist eine charmante Kleinstadt in der Maramureș, die weltweit für ihre einzigartige Waldbahn, die 'Mocănița', berühmt ist. Als letzter Ort in Europa, an dem noch dampfbetriebene Schmalspurbahnen für den Holztransport in tiefe Bergwälder eingesetzt werden, zieht die Stadt Eisenbahnromantiker und Naturliebhaber gleichermaßen an. Geografisch liegt Vișeu de Sus am Zusammenfluss der Flüsse Vișeu und Vaser, eingebettet in die wilden Gipfel der Maramureș-Berge. Die Geschichte der Stadt ist eng mit der Einwanderung deutschsprachiger Siedler, den 'Zipsern', im 18. Jahrhundert verbunden, deren Erbe noch heute in der lokalen Kultur und Sprache spürbar ist. Vișeu de Sus strahlt eine archaische Ruhe aus, in der traditionelle Holzarchitektur und moderne touristische Gastfreundschaft aufeinandertreffen. Die Stadt dient als Tor zum Vaser-Tal, einer der unberührtesten Naturlandschaften Rumäniens, die man am besten im langsamen Rhythmus der Dampflokomotive erkundet.",
+    "facts_de": [
+      "Die Wassertalbahn (Vaser-Tal) wurde 1932 für den Holztransport erbaut und ist 60 km lang.",
+      "Vișeu de Sus wurde erstmals im Jahr 1365 urkundlich erwähnt.",
+      "Die 'Zipser'-Gemeinde prägte über Jahrhunderte das Handwerk und die Forstwirtschaft der Stadt.",
+      "Die Mocănița-Dampflokomotiven werden auch heute noch teilweise mit Holz befeuert.",
+      "Vișeu de Sus liegt auf einer Höhe von 427 Metern im Norden der Karpaten.",
+      "In der Stadt gibt es ein Museum, das der Geschichte der Zipser und der Waldbahn gewidmet ist.",
+      "Die Region ist bekannt für ihre traditionellen Holztore und kunstvoll geschnitzten Häuser.",
+      "Das Vaser-Tal ist Teil des Naturparks Maramureș-Gebirge, dem größten seiner Art in Rumänien."
+    ]
+  },
+  {
+    "id": "city-borsa-extra",
+    "name_hu": "Borsa",
+    "desc_de": "Borșa, auf Deutsch Borscha, ist ein pulsierender Bergkurort im Osten der Maramureș, der sich über ein weites Tal am Fuße der majestätischen Rodna- und Maramureș-Berge erstreckt. Die Stadt ist ein wahres Paradies für Outdoor-Enthusiasten und bietet sowohl im Sommer als auch im Winter spektakuläre Möglichkeiten für Sport und Erholung. Besonders bekannt ist Borșa für seine Skipisten und die moderne Infrastruktur, die es zu einem der wichtigsten Wintersportzentren Nordrumäniens macht. Geografisch ist die Region durch extreme Höhenunterschiede und eine unberührte alpine Flora und Fauna geprägt, darunter der Pietrosul Rodnei, der höchste Gipfel der Ostkarpaten. Die Geschichte von Borșa ist eng mit dem Bergbau und der Forstwirtschaft verbunden, doch heute dominiert der Tourismus das Stadtbild. Besucher können hier archaische Bräuche erleben, den beeindruckenden Cailor-Wasserfall (Pferdefall) bestaunen oder auf anspruchsvollen Pfaden die alpine Wildnis der Karpaten erkunden.",
+    "facts_de": [
+      "Borșa wurde im Jahr 1365 erstmals als königliche Domäne erwähnt.",
+      "Der Gipfel Pietrosul Rodnei (2.303 m) liegt in unmittelbarer Nähe und ist Teil eines UNESCO-Biosphärenreservats.",
+      "Der 'Cascada Cailor' ist mit einer Fallhöhe von 90 Metern einer der höchsten Wasserfälle Rumäniens.",
+      "In Borșa befindet sich eine der längsten Skipisten der Region mit modernen Sesselbahnen.",
+      "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 700 Metern über dem Meeresspiegel.",
+      "Borșa war historisch ein bedeutendes Zentrum für den Abbau von Blei, Kupfer und Silber.",
+      "Die Maramureș-Berge in der Umgebung bieten unzählige unmarkierte Pfade für echte Abenteurer.",
+      "Das Klima ist typisch alpin, mit langen, schneereichen Wintern und kühlen Sommern."
+    ]
+  },
+  {
+    "id": "city-orsova-extra",
+    "name_hu": "Orsova",
+    "desc_de": "Orșova, im Deutschen Orschowa, ist eine faszinierende Hafenstadt am Ufer der Donau im Südwesten Rumäniens, gelegen in der Cerna-Bucht am Eingang zum spektakulären Eisernen Tor. Die heutige Stadt ist ein modernes Wunder der Planung, da das ursprüngliche historische Orșova in den 1970er Jahren durch den Bau des Staudamms Djerdap I (Eisernes Tor) im Donauwasser versank und komplett neu aufgebaut wurde. Diese Transformation verleiht Orșova einen einzigartigen Charakter mit terrassenförmiger Architektur und weiten Ausblicken auf den riesigen Stausee. Die Stadt ist ein bedeutendes touristisches Zentrum und Ausgangspunkt für Bootsfahrten zu den berühmten Donaukesseln (Cazanele Dunării) und der monumentalen Felsstatue des Decebalus. Kulturell ist die moderne katholische Kirche von Orșova mit ihrer avantgardistischen Architektur ein absolutes Highlight. Orșova symbolisiert den menschlichen Sieg über die Naturgewalten und bietet gleichzeitig Zugang zu einer der dramatischsten Flusslandschaften Europas.",
+    "facts_de": [
+      "Orșova hat antike Wurzeln als römisches Lager Dierna.",
+      "In der Nähe von Orșova wurden 1853 die ungarischen Kronjuwelen vergraben aufgefunden.",
+      "Die heutige Stadt wurde zwischen 1966 und 1971 am Hang neu errichtet.",
+      "Die katholische Kirche 'Unbefleckte Empfängnis' (1976) gilt als architektonisches Meisterwerk der Moderne.",
+      "Orșova ist ein wichtiger Knotenpunkt für Kreuzfahrtschiffe auf dem Weg zum Schwarzen Meer.",
+      "Die Felsstatue des Decebalus in der Nähe ist die höchste Felsskulptur Europas (55 Meter).",
+      "Die Stadt liegt am Kilometer 955 der Donau.",
+      "Das Kloster Sfânta Ana, gelegen auf einem Hügel über der Stadt, bietet das beste Panorama der Region."
+    ]
+  }
+]

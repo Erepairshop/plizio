@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-targu-secuiesc-extra",
+    "name_ro": "T\u00e2rgu Secuiesc",
+    "desc_ro": "Ora\u0219ul breslelor."
+  },
+  {
+    "id": "city-covasna-extra",
+    "name_ro": "Covasna",
+    "desc_ro": "Ora\u0219ul celor 1000 de izvoare."
+  },
+  {
+    "id": "city-intorsura-buzaului-extra",
+    "name_ro": "\u00centorsura Buz\u0103ului",
+    "desc_ro": "Polul frigului."
+  },
+  {
+    "id": "city-moreni-extra",
+    "name_ro": "Moreni",
+    "desc_ro": "Ora\u0219 petrolier."
+  },
+  {
+    "id": "city-pucioasa-extra",
+    "name_ro": "Pucioasa",
+    "desc_ro": "B\u0103i sulfuroase."
+  },
+  {
+    "id": "city-gaesti-extra",
+    "name_ro": "G\u0103e\u0219ti",
+    "desc_ro": "Ora\u0219 industrial."
+  },
+  {
+    "id": "city-bailesti-extra",
+    "name_ro": "B\u0103ile\u0219ti",
+    "desc_ro": "Ora\u0219 oltenesc."
+  },
+  {
+    "id": "city-calafat-extra",
+    "name_ro": "Calafat",
+    "desc_ro": "Port la Dun\u0103re."
+  },
+  {
+    "id": "city-filiasi-extra",
+    "name_ro": "Filia\u0219i",
+    "desc_ro": "Nod de transport."
+  },
+  {
+    "id": "city-tecuci-extra",
+    "name_ro": "Tecuci",
+    "desc_ro": "Ora\u0219 moldovean istoric."
+  },
+  {
+    "id": "city-targu-bujor-extra",
+    "name_ro": "T\u00e2rgu Bujor",
+    "desc_ro": "Ora\u0219 viticol."
+  },
+  {
+    "id": "city-beresti-extra",
+    "name_ro": "Bere\u0219ti",
+    "desc_ro": "Centru rural."
+  },
+  {
+    "id": "city-bolintin-vale-extra",
+    "name_ro": "Bolintin-Vale",
+    "desc_ro": "Ora\u0219 l\u00e2ng\u0103 Bucure\u0219ti."
+  },
+  {
+    "id": "city-mihailesti-extra",
+    "name_ro": "Mih\u0103ile\u0219ti",
+    "desc_ro": "Ora\u0219 la lac."
+  }
+]

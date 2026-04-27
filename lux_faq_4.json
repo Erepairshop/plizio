@@ -1,0 +1,523 @@
+{
+  "forest-kockelscheuer-forest": {
+    "de": [
+      { "q": "Wo befindet sich der Kockelscheuer Wald?", "a": "Er liegt südlich von Luxemburg-Stadt und ist ein beliebtes Naherholungsgebiet." },
+      { "q": "Welche Sportmöglichkeiten gibt es dort?", "a": "Es gibt ein großes Sportzentrum mit Eishalle, Tennisplätzen und Golf-Range." },
+      { "q": "Ist der Wald für Wanderer geeignet?", "a": "Ja, es gibt zahlreiche markierte Wanderwege und Trimm-dich-Pfade." },
+      { "q": "Was bietet das Haus der Natur?", "a": "Es bietet Ausstellungen und pädagogische Aktivitäten zum Thema Umwelt und Natur." }
+    ],
+    "hu": [
+      { "q": "Hol található a Kockelscheuer erdő?", "a": "Luxemburg várostól délre fekszik, és népszerű pihenőhely." },
+      { "q": "Milyen sportolási lehetőségek vannak ott?", "a": "Egy nagy sportközpont található itt jégcsarnokkal, teniszpályákkal és golfpályával." },
+      { "q": "Alkalmas az erdő túrázásra?", "a": "Igen, számos kijelölt túraútvonal és erdei tornapálya található." },
+      { "q": "Mit kínál a Természet Háza?", "a": "Kiállításokat és oktatási tevékenységeket kínál a környezet és a természet témakörében." }
+    ],
+    "ro": [
+      { "q": "Unde se află pădurea Kockelscheuer?", "a": "Este situată la sud de orașul Luxemburg și este o zonă de agrement populară." },
+      { "q": "Ce facilități sportive există acolo?", "a": "Există un centru sportiv mare cu patinoar, terenuri de tenis și teren de golf." },
+      { "q": "Este pădurea potrivită pentru drumeții?", "a": "Da, există numeroase trasee de drumeție marcate și trasee de fitness." },
+      { "q": "Ce oferă Casa Naturii?", "a": "Oferă expoziții și activități educaționale despre mediu și natură." }
+    ],
+    "en": [
+      { "q": "Where is the Kockelscheuer forest located?", "a": "It is located south of Luxembourg City and is a popular recreation area." },
+      { "q": "What sports facilities are available there?", "a": "There is a large sports center with an ice rink, tennis courts, and a golf range." },
+      { "q": "Is the forest suitable for hikers?", "a": "Yes, there are numerous marked hiking trails and fitness paths." },
+      { "q": "What does the House of Nature offer?", "a": "It offers exhibitions and educational activities about the environment and nature." }
+    ]
+  },
+  "forest-eislek-forest": {
+    "de": [
+      { "q": "Was ist das Eislek?", "a": "Das Eislek (Ösling) ist die nördliche Region Luxemburgs, Teil der Ardennen." },
+      { "q": "Wofür sind die Wälder im Eislek bekannt?", "a": "Für ihre tiefen Täler, dichten Eichenwälder und schroffen Schieferfelsen." },
+      { "q": "Welche Wanderwege gibt es in dieser Region?", "a": "Der Lee Trail und der Eislek Trail sind die bekanntesten Fernwanderwege der Region." },
+      { "q": "Was ist die typische Flora der Eislek-Wälder?", "a": "Charakteristisch sind ausgedehnte Buchen- und Eichenbestände sowie Fichtenaufforstungen." }
+    ],
+    "hu": [
+      { "q": "Mi az az Eislek?", "a": "Az Eislek (Ösling) Luxemburg északi régiója, az Ardennek része." },
+      { "q": "Miről ismertek az Eislek erdői?", "a": "Mély völgyeikről, sűrű tölgyerdőikről és meredek pala-szikláikról." },
+      { "q": "Milyen túraútvonalak vannak ebben a régióban?", "a": "A Lee Trail és az Eislek Trail a régió legismertebb hosszú távú túraútvonalai." },
+      { "q": "Mi az Eislek erdők jellemző növényvilága?", "a": "Jellemzőek a kiterjedt bükk- és tölgyerdők, valamint a lucfenyő telepítések." }
+    ],
+    "ro": [
+      { "q": "Ce este Eislek?", "a": "Eislek (Ösling) este regiunea de nord a Luxemburgului, parte a Ardenilor." },
+      { "q": "Pentru ce sunt cunoscute pădurile din Eislek?", "a": "Pentru văile lor adânci, pădurile dese de stejar și stâncile abrupte de ardezie." },
+      { "q": "Ce trasee de drumeție există în această regiune?", "a": "Lee Trail și Eislek Trail sunt cele mai cunoscute trasee de drumeție pe distanțe lungi din regiune." },
+      { "q": "Care este flora tipică a pădurilor Eislek?", "a": "Caracteristice sunt pădurile vaste de fag și stejar, precum și plantațiile de molid." }
+    ],
+    "en": [
+      { "q": "What is the Eislek?", "a": "The Eislek (Oesling) is the northern region of Luxembourg, part of the Ardennes." },
+      { "q": "What are the forests in Eislek known for?", "a": "For their deep valleys, dense oak forests, and rugged slate rocks." },
+      { "q": "Which hiking trails are in this region?", "a": "The Lee Trail and the Eislek Trail are the region's most famous long-distance hiking paths." },
+      { "q": "What is the typical flora of the Eislek forests?", "a": "Characteristic are extensive beech and oak stands, as well as spruce plantations." }
+    ]
+  },
+  "agriculture-caves-st-martin": {
+    "de": [
+      { "q": "Wo befinden sich die Caves St. Martin?", "a": "Die Weinkeller liegen in Remich, direkt an der Mosel." },
+      { "q": "Was ist das Besondere an diesen Kellern?", "a": "Sie sind tief in die Kalksteinfelsen entlang der Mosel gehauen." },
+      { "q": "Welche Weine werden hier produziert?", "a": "Bekannt sind sie vor allem für ihre Schaumweine (Crémant) und Stillweine." },
+      { "q": "Kann man die Keller besichtigen?", "a": "Ja, es gibt geführte Touren durch die unterirdischen Stollen mit anschließender Weinprobe." }
+    ],
+    "hu": [
+      { "q": "Hol találhatók a Caves St. Martin pincék?", "a": "A borpincék Remichben, közvetlenül a Moselle folyó partján találhatók." },
+      { "q": "Mi a különleges ezekben a pincékben?", "a": "A Moselle menti mészkősziklákba mélyen bele vannak vájva." },
+      { "q": "Milyen borokat készítenek itt?", "a": "Elsősorban pezsgőikről (Crémant) és csendes boraikról ismertek." },
+      { "q": "Látogathatók a pincék?", "a": "Igen, vezetett túrák keretében megtekinthetők a föld alatti járatok, amit borkóstoló követ." }
+    ],
+    "ro": [
+      { "q": "Unde se află Caves St. Martin?", "a": "Cramele sunt situate în Remich, chiar pe malul rului Mosela." },
+      { "q": "Ce este special la aceste crame?", "a": "Sunt săpate adânc în stâncile de calcar de-a lungul Moselei." },
+      { "q": "Ce vinuri sunt produse aici?", "a": "Sunt cunoscute în special pentru vinurile spumante (Crémant) și vinurile liniștite." },
+      { "q": "Se pot vizita cramele?", "a": "Da, există tururi ghidate prin galeriile subterane, urmate de o degustare de vinuri." }
+    ],
+    "en": [
+      { "q": "Where are the Caves St. Martin located?", "a": "The wine cellars are located in Remich, directly on the banks of the Moselle." },
+      { "q": "What is special about these cellars?", "a": "They are carved deep into the limestone cliffs along the Moselle." },
+      { "q": "Which wines are produced here?", "a": "They are primarily known for their sparkling wines (Crémant) and still wines." },
+      { "q": "Can the cellars be visited?", "a": "Yes, there are guided tours through the underground galleries followed by a wine tasting." }
+    ]
+  },
+  "agriculture-caves-bernard-massard": {
+    "de": [
+      { "q": "Wann wurde Bernard-Massard gegründet?", "a": "Das Weingut wurde 1921 von Jean-Bernard-Massard gegründet." },
+      { "q": "In welcher Stadt liegt das Weingut?", "a": "Es befindet sich in Grevenmacher an der Mosel." },
+      { "q": "Was ist das Hauptprodukt von Bernard-Massard?", "a": "Das Haus ist Luxemburgs führender Produzent von Crémant (Schaumwein)." },
+      { "q": "Bietet Bernard-Massard Verkostungen an?", "a": "Ja, Besucher können die Keller besichtigen und verschiedene Weine in der Vinothek probieren." }
+    ],
+    "hu": [
+      { "q": "Mikor alapították a Bernard-Massard-t?", "a": "A borászatot 1921-ben alapította Jean-Bernard-Massard." },
+      { "q": "Melyik városban található a borászat?", "a": "Grevenmacherben található, a Moselle folyó partján." },
+      { "q": "Mi a Bernard-Massard fő terméke?", "a": "A ház Luxemburg vezető Crémant (pezsgő) termelője." },
+      { "q": "Kínálnak kóstolót a Bernard-Massard-nál?", "a": "Igen, a látogatók megtekinthetik a pincéket és különféle borokat kóstolhatnak a vinotékában." }
+    ],
+    "ro": [
+      { "q": "Când a fost fondată casa Bernard-Massard?", "a": "Vinăria a fost fondată în 1921 de Jean-Bernard-Massard." },
+      { "q": "În ce oraș se află vinăria?", "a": "Se află în Grevenmacher, pe malul Moselei." },
+      { "q": "Care este produsul principal al casei Bernard-Massard?", "a": "Casa este principalul producător de Crémant (vin spumant) din Luxemburg." },
+      { "q": "Oferă Bernard-Massard degustări?", "a": "Da, vizitatorii pot vizita cramele și pot degusta diverse vinuri în vinotecă." }
+    ],
+    "en": [
+      { "q": "When was Bernard-Massard founded?", "a": "The winery was founded in 1921 by Jean-Bernard-Massard." },
+      { "q": "In which city is the winery located?", "a": "It is located in Grevenmacher on the Moselle River." },
+      { "q": "What is Bernard-Massard's main product?", "a": "The house is Luxembourg's leading producer of Crémant (sparkling wine)." },
+      { "q": "Does Bernard-Massard offer tastings?", "a": "Yes, visitors can visit the cellars and taste various wines in the vinoteque." }
+    ]
+  },
+  "agriculture-clos-des-rochers": {
+    "de": [
+      { "q": "Was ist Clos des Rochers?", "a": "Ein renommiertes Weingut in Grevenmacher, das zur Domaine Bernard-Massard gehört." },
+      { "q": "Wofür ist dieses Weingut bekannt?", "a": "Für seine erstklassigen Terroir-Weine, insbesondere Riesling und Pinot Blanc." },
+      { "q": "Wie groß ist das Weingut?", "a": "Es umfasst etwa 18 Hektar Weinberge in den besten Lagen von Grevenmacher." },
+      { "q": "Seit wann gibt es Clos des Rochers?", "a": "Das Anwesen blickt auf eine lange Tradition zurück, die bis ins 19. Jahrhundert reicht." }
+    ],
+    "hu": [
+      { "q": "Mi az a Clos des Rochers?", "a": "Egy neves borászat Grevenmacherben, amely a Domaine Bernard-Massard része." },
+      { "q": "Miről ismert ez a borászat?", "a": "Kiváló terroir-borairól, különösen a rajnai rizlingről és a fehér burgundiról." },
+      { "q": "Mekkora a borászat területe?", "a": "Körülbelül 18 hektárnyi szőlőültetvényt foglal magában Grevenmacher legjobb dűlőiben." },
+      { "q": "Mióta létezik a Clos des Rochers?", "a": "A birtok hosszú hagyományra tekint vissza, amely a 19. századig nyúlik vissza." }
+    ],
+    "ro": [
+      { "q": "Ce este Clos des Rochers?", "a": "O vinărie renumită din Grevenmacher, care aparține de Domaine Bernard-Massard." },
+      { "q": "Pentru ce este cunoscută această vinărie?", "a": "Pentru vinurile sale de terroir de primă clasă, în special Riesling și Pinot Blanc." },
+      { "q": "Cât de mare este vinăria?", "a": "Cuprinde aproximativ 18 hectare de vii în cele mai bune locații din Grevenmacher." },
+      { "q": "De când există Clos des Rochers?", "a": "Proprietatea are o tradiție îndelungată, care datează din secolul al XIX-lea." }
+    ],
+    "en": [
+      { "q": "What is Clos des Rochers?", "a": "A renowned winery in Grevenmacher that belongs to Domaine Bernard-Massard." },
+      { "q": "What is this winery known for?", "a": "For its premium terroir wines, especially Riesling and Pinot Blanc." },
+      { "q": "How large is the winery?", "a": "It covers about 18 hectares of vineyards in the best locations of Grevenmacher." },
+      { "q": "Since when has Clos des Rochers existed?", "a": "The estate has a long tradition dating back to the 19th century." }
+    ]
+  },
+  "industry-bofferding-brewery": {
+    "de": [
+      { "q": "Wo wird Bofferding Bier gebraut?", "a": "Die Brauerei befindet sich in Bascharage (Käerjeng)." },
+      { "q": "Seit wann gibt es die Brauerei Bofferding?", "a": "Sie wurde 1842 von Jean-Baptiste Bofferding gegründet." },
+      { "q": "Welche Biersorten stellt Bofferding her?", "a": "Das bekannteste Bier ist das Bofferding Pils, es gibt aber auch Spezialbiere." },
+      { "q": "Kann man die Brauerei besichtigen?", "a": "Ja, es gibt geführte Touren, bei denen man die Brauprozesse kennenlernen und Bier probieren kann." }
+    ],
+    "hu": [
+      { "q": "Hol főzik a Bofferding sört?", "a": "A sörfőzde Bascharage-ban (Käerjeng) található." },
+      { "q": "Mióta létezik a Bofferding sörfőzde?", "a": "1842-ben alapította Jean-Baptiste Bofferding." },
+      { "q": "Milyen söröket gyárt a Bofferding?", "a": "A legismertebb a Bofferding Pils, de készítenek különleges söröket is." },
+      { "q": "Látogatható a sörfőzde?", "a": "Igen, vannak vezetett túrák, ahol megismerhetők a főzési folyamatok és megkóstolható a sör." }
+    ],
+    "ro": [
+      { "q": "Unde se fabrică berea Bofferding?", "a": "Berăria se află în Bascharage (Käerjeng)." },
+      { "q": "De când există berăria Bofferding?", "a": "A fost fondată în 1842 de Jean-Baptiste Bofferding." },
+      { "q": "Ce tipuri de bere produce Bofferding?", "a": "Cea mai cunoscută bere este Bofferding Pils, dar există și beri speciale." },
+      { "q": "Se poate vizita berăria?", "a": "Da, există tururi ghidate în care puteți învăța despre procesele de fabricare și puteți degusta berea." }
+    ],
+    "en": [
+      { "q": "Where is Bofferding beer brewed?", "a": "The brewery is located in Bascharage (Käerjeng)." },
+      { "q": "Since when has the Bofferding brewery existed?", "a": "It was founded in 1842 by Jean-Baptiste Bofferding." },
+      { "q": "What types of beer does Bofferding produce?", "a": "The most famous is Bofferding Pils, but they also produce special beers." },
+      { "q": "Can the brewery be visited?", "a": "Yes, there are guided tours where you can learn about the brewing processes and taste the beer." }
+    ]
+  },
+  "industry-rumelange-mining-museum": {
+    "de": [
+      { "q": "Was zeigt das Bergbaumuseum in Rümelingen?", "a": "Es dokumentiert die Geschichte des Eisenerzbergbaus in Luxemburg." },
+      { "q": "Ist das Museum unterirdisch?", "a": "Ja, ein großer Teil der Besichtigung findet in den authentischen Stollen des ehemaligen Bergwerks statt." },
+      { "q": "Wie gelangen Besucher in das Bergwerk?", "a": "Die Besucher fahren mit einer Grubenbahn tief in den Berg hinein." },
+      { "q": "Was ist die 'Minett'?", "a": "So wird das phosphorhaltige Eisenerz genannt, das den Reichtum der Region begründete." }
+    ],
+    "hu": [
+      { "q": "Mit mutat be a rümelingeni bányamúzeum?", "a": "A luxemburgi vasércbányászat történetét dokumentálja." },
+      { "q": "Föld alatt van a múzeum?", "a": "Igen, a látogatás nagy része az egykori bánya eredeti járataiban zajlik." },
+      { "q": "Hogyan jutnak be a látogatók a bányába?", "a": "A látogatók bányavasúttal utaznak mélyen a hegy gyomrába." },
+      { "q": "Mi az a 'Minett'?", "a": "Így hívják a foszfortartalmú vasércet, amely a régió gazdagságát megalapozta." }
+    ],
+    "ro": [
+      { "q": "Ce prezintă Muzeul Minier din Rumelange?", "a": "Documentează istoria minieritului de minereu de fier în Luxemburg." },
+      { "q": "Este muzeul subteran?", "a": "Da, o mare parte a vizitei are loc în galeriile autentice ale fostei mine." },
+      { "q": "Cum ajung vizitatorii în mină?", "a": "Vizitatorii călătoresc cu un tren minier adânc în interiorul muntelui." },
+      { "q": "Ce este 'Minett'?", "a": "Așa este numit minereul de fier cu conținut de fosfor, care a stat la baza bogăției regiunii." }
+    ],
+    "en": [
+      { "q": "What does the mining museum in Rumelange show?", "a": "It documents the history of iron ore mining in Luxembourg." },
+      { "q": "Is the museum underground?", "a": "Yes, a large part of the tour takes place in the authentic galleries of the former mine." },
+      { "q": "How do visitors enter the mine?", "a": "Visitors ride a mine train deep into the mountain." },
+      { "q": "What is 'Minett'?", "a": "This is the name given to the phosphorus-containing iron ore that founded the region's wealth." }
+    ]
+  },
+  "kid-landmark-parc-merveilleux": {
+    "de": [
+      { "q": "Wo liegt der Parc Merveilleux?", "a": "Er befindet sich in Bettemburg, im Süden Luxemburgs." },
+      { "q": "Was bietet der Park für Kinder?", "a": "Er bietet einen Märchenwald, Spielplätze, einen Minizug und einen kleinen Zoo." },
+      { "q": "Welche Tiere kann man dort sehen?", "a": "Es gibt Tiere von fünf Kontinenten, darunter Affen, Kängurus und Kaimane." },
+      { "q": "Gibt es dort auch Ponys?", "a": "Ja, Ponyreiten ist eine der beliebtesten Attraktionen für kleine Kinder." }
+    ],
+    "hu": [
+      { "q": "Hol található a Parc Merveilleux?", "a": "Bettembourgban található, Luxemburg déli részén." },
+      { "q": "Mit kínál a park a gyerekeknek?", "a": "Meseerdőt, játszótereket, kisvasutat és egy kis állatkertet kínál." },
+      { "q": "Milyen állatokat láthatunk ott?", "a": "Öt kontinens állatai találhatók meg, köztük majmok, kenguruk és kajmánok." },
+      { "q": "Vannak ott pónik is?", "a": "Igen, a pónilovaglás az egyik legnépszerűbb attrakció a kisgyermekek számára." }
+    ],
+    "ro": [
+      { "q": "Unde se află Parc Merveilleux?", "a": "Se află în Bettembourg, în sudul Luxemburgului." },
+      { "q": "Ce oferă parcul pentru copii?", "a": "Oferă o pădure de basm, locuri de joacă, un trenuleț și o grădină zoologică mică." },
+      { "q": "Ce animale pot fi văzute acolo?", "a": "Există animale de pe cinci continente, inclusiv maimuțe, canguri și caimani." },
+      { "q": "Există și ponei acolo?", "a": "Da, plimbările cu poneii sunt una dintre cele mai populare atracții pentru copiii mici." }
+    ],
+    "en": [
+      { "q": "Where is the Parc Merveilleux located?", "a": "It is located in Bettembourg, in the south of Luxembourg." },
+      { "q": "What does the park offer for children?", "a": "It offers a fairy tale forest, playgrounds, a mini-train, and a small zoo." },
+      { "q": "Which animals can be seen there?", "a": "There are animals from five continents, including monkeys, kangaroos, and caimans." },
+      { "q": "Are there ponies there too?", "a": "Yes, pony riding is one of the most popular attractions for small children." }
+    ]
+  },
+  "kid-landmark-luxembourg-science-center": {
+    "de": [
+      { "q": "Was ist das Luxembourg Science Center?", "a": "Ein interaktives Entdeckungszentrum für Naturwissenschaften und Technik." },
+      { "q": "Wo befindet es sich?", "a": "Es liegt in Differdingen, in einem ehemaligen Industriegebäude." },
+      { "q": "Muss man Experimente nur anschauen?", "a": "Nein, das Konzept ist 'Hands-on', Besucher sollen die Stationen selbst ausprobieren." },
+      { "q": "Gibt es dort Shows?", "a": "Ja, es finden regelmäßig spektakuläre Science Shows zu Themen wie Elektrizität oder Chemie statt." }
+    ],
+    "hu": [
+      { "q": "Mi az a Luxemburgi Tudományos Központ?", "a": "Természettudományi és technológiai interaktív felfedező központ." },
+      { "q": "Hol található?", "a": "Differdange-ban található, egy egykori ipari épületben." },
+      { "q": "Csak nézni lehet a kísérleteket?", "a": "Nem, a koncepció lényege a kipróbálás, a látogatóknak maguknak kell kísérletezniük." },
+      { "q": "Vannak ott bemutatók?", "a": "Igen, rendszeresen tartanak látványos tudományos show-kat például az elektromosság vagy a kémia témakörében." }
+    ],
+    "ro": [
+      { "q": "Ce este Luxembourg Science Center?", "a": "Un centru interactiv de descoperire pentru științe naturale și tehnologie." },
+      { "q": "Unde se află?", "a": "Este situat în Differdange, într-o fostă clădire industrială." },
+      { "q": "Trebuie doar să privești experimentele?", "a": "Nu, conceptul este 'hands-on', vizitatorii sunt încurajați să încerce singuri stațiile." },
+      { "q": "Există spectacole acolo?", "a": "Da, au loc regulat spectacole științifice spectaculoase pe teme precum electricitatea sau chimia." }
+    ],
+    "en": [
+      { "q": "What is the Luxembourg Science Center?", "a": "An interactive discovery center for natural sciences and technology." },
+      { "q": "Where is it located?", "a": "It is located in Differdange, in a former industrial building." },
+      { "q": "Do you only watch experiments?", "a": "No, the concept is 'hands-on', visitors are encouraged to try the stations themselves." },
+      { "q": "Are there shows there?", "a": "Yes, spectacular science shows on topics like electricity or chemistry take place regularly." }
+    ]
+  },
+  "kid-landmark-escher-deierepark": {
+    "de": [
+      { "q": "Wo liegt der Escher Déierepark?", "a": "Er befindet sich auf dem Galgenberg in Esch-sur-Alzette." },
+      { "q": "Was kostet der Eintritt?", "a": "Der Eintritt in den Tierpark ist kostenlos." },
+      { "q": "Welche Tiere leben dort?", "a": "Es gibt vor allem heimische Haus- und Wildtiere wie Hirsche, Ziegen und Kaninchen." },
+      { "q": "Gibt es dort auch Spielmöglichkeiten?", "a": "Ja, es gibt einen großen Waldspielplatz für Kinder." }
+    ],
+    "hu": [
+      { "q": "Hol található az Escher Déierepark?", "a": "Esch-sur-Alzette-ben, a Galgenberg-hegyen található." },
+      { "q": "Mennyibe kerül a belépő?", "a": "Az állatparkba a belépés ingyenes." },
+      { "q": "Milyen állatok élnek ott?", "a": "Főleg hazai házi- és vadállatok láthatók, mint például szarvasok, kecskék és nyulak." },
+      { "q": "Vannak ott játéklehetőségek?", "a": "Igen, egy nagy erdei játszótér várja a gyerekeket." }
+    ],
+    "ro": [
+      { "q": "Unde se află Escher Déierepark?", "a": "Se află pe Galgenberg în Esch-sur-Alzette." },
+      { "q": "Cât costă intrarea?", "a": "Intrarea în parcul de animale este gratuită." },
+      { "q": "Ce animale trăiesc acolo?", "a": "Există în principal animale domestice și sălbatice locale, cum ar fi cerbi, capre și iepuri." },
+      { "q": "Există facilități de joacă acolo?", "a": "Da, există un loc de joacă mare în pădure pentru copii." }
+    ],
+    "en": [
+      { "q": "Where is the Escher Déierepark located?", "a": "It is located on the Galgenberg in Esch-sur-Alzette." },
+      { "q": "How much is the admission?", "a": "Entry to the animal park is free of charge." },
+      { "q": "Which animals live there?", "a": "There are mainly native domestic and wild animals such as deer, goats, and rabbits." },
+      { "q": "Are there play areas there?", "a": "Yes, there is a large forest playground for children." }
+    ]
+  },
+  "kid-landmark-parc-leh": {
+    "de": [
+      { "q": "Was ist der Parc Le'h?", "a": "Ein Naherholungsgebiet in Düdelange, bekannt für seinen Abenteuerpark." },
+      { "q": "Was bietet der Abenteuerpark?", "a": "Es ist ein Hochseilgarten mit verschiedenen Kletterparcours für alle Altersgruppen." },
+      { "q": "Gibt es dort auch Restaurants?", "a": "Ja, es gibt ein bekanntes Restaurant direkt im Park." },
+      { "q": "Was kann man außer Klettern noch machen?", "a": "Man kann dort schön spazieren gehen oder die Natur genießen." }
+    ],
+    "hu": [
+      { "q": "Mi az a Parc Le'h?", "a": "Egy pihenőövezet Dudelange-ban, amely kalandparkjáról ismert." },
+      { "q": "Mit kínál a kalandpark?", "a": "Ez egy kötélpálya különféle mászóútvonalakkal minden korosztály számára." },
+      { "q": "Vannak ott éttermek?", "a": "Igen, egy ismert étterem található közvetlenül a parkban." },
+      { "q": "Mit lehet még csinálni a mászáson kívül?", "a": "Kellemeset lehet sétálni vagy élvezni a természetet." }
+    ],
+    "ro": [
+      { "q": "Ce este Parc Le'h?", "a": "O zonă de agrement în Dudelange, cunoscută pentru parcul său de aventură." },
+      { "q": "Ce oferă parcul de aventură?", "a": "Este un parcurs de corzi înalte cu diverse trasee de cățărare pentru toate vârstele." },
+      { "q": "Există restaurante acolo?", "a": "Da, există un restaurant cunoscut chiar în parc." },
+      { "q": "Ce se mai poate face în afară de cățărat?", "a": "Vă puteți plimba sau vă puteți bucura de natură." },
+      { "q": "Este potrivit pentru evenimente?", "a": "Da, este o locație populară pentru petreceri aniversare și evenimente de echipă." }
+    ],
+    "en": [
+      { "q": "What is the Parc Le'h?", "a": "A recreation area in Dudelange, known for its adventure park." },
+      { "q": "What does the adventure park offer?", "a": "It is a high ropes course with various climbing circuits for all age groups." },
+      { "q": "Are there restaurants there?", "a": "Yes, there is a well-known restaurant right in the park." },
+      { "q": "What else can you do besides climbing?", "a": "You can take nice walks or enjoy nature." }
+    ]
+  },
+  "city-remich": {
+    "de": [
+      { "q": "Wie wird Remich oft genannt?", "a": "Remich wird aufgrund seiner Lage und Schönheit als 'Perle der Mosel' bezeichnet." },
+      { "q": "Was ist die Hauptattraktion für Spaziergänger?", "a": "Die drei Kilometer lange Moselpromenade mit ihren Linden und Kirschbäumen." },
+      { "q": "Wofür ist Remich wirtschaftlich wichtig?", "a": "Es ist ein bedeutendes Zentrum des Weinbaus und des Tourismus an der Mosel." },
+      { "q": "Kann man von Remich aus Bootstouren machen?", "a": "Ja, Remich ist ein wichtiger Anlegepunkt für Ausflugsschiffe auf der Mosel." }
+    ],
+    "hu": [
+      { "q": "Hogyan nevezik gyakran Remichet?", "a": "Remichet elhelyezkedése és szépsége miatt a 'Moselle gyöngyszemének' nevezik." },
+      { "q": "Mi a fő látnivaló a sétálók számára?", "a": "A három kilométer hosszú Moselle-sétány hárs- és cseresznyefákkal." },
+      { "q": "Miért fontos gazdaságilag Remich?", "a": "A borászat és a turizmus jelentős központja a Moselle mentén." },
+      { "q": "Lehet hajókirándulást tenni Remichből?", "a": "Igen, Remich a Moselle-i kirándulóhajók fontos kikötőhelye." }
+    ],
+    "ro": [
+      { "q": "Cum este numit adesea Remich?", "a": "Remich este supranumit 'Perla Moselei' datorită locației și frumuseții sale." },
+      { "q": "Care este principala atracție pentru pietoni?", "a": "Promenada de trei kilometri de-a lungul Moselei, cu tei și cireși." },
+      { "q": "De ce este Remich important din punct de vedere economic?", "a": "Este un centru important al viticulturii și turismului pe Mosela." },
+      { "q": "Se pot face excursii cu barca din Remich?", "a": "Da, Remich este un punct de acostare important pentru navele de excursie pe Mosela." }
+    ],
+    "en": [
+      { "q": "What is Remich often called?", "a": "Remich is called the 'Pearl of the Moselle' due to its location and beauty." },
+      { "q": "What is the main attraction for walkers?", "a": "The three-kilometer-long Moselle promenade with its linden and cherry trees." },
+      { "q": "Why is Remich economically important?", "a": "It is a major center for viticulture and tourism on the Moselle." },
+      { "q": "Can you take boat trips from Remich?", "a": "Yes, Remich is an important docking point for excursion ships on the Moselle." }
+    ]
+  },
+  "city-steinfort": {
+    "de": [
+      { "q": "Wo liegt Steinfort?", "a": "An der westlichen Grenze Luxemburgs zu Belgien." },
+      { "q": "Was kann man im 'Schwarzenhof' (Mirador) sehen?", "a": "Ein Natur- und Waldzentrum, das Informationen über die lokale Umwelt bietet." },
+      { "q": "Gibt es industrielle Spuren in Steinfort?", "a": "Ja, Steinfort hat eine Geschichte in der Eisenindustrie, an die heute noch Denkmäler erinnern." },
+      { "q": "Was ist das Steinfort Adventure?", "a": "Ein bekannter Kletterpark (Hochseilgarten) in den Wäldern bei Steinfort." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Steinfort?", "a": "Luxemburg nyugati határán, Belgium mellett." },
+      { "q": "Mit láthatunk a 'Schwarzenhof'-ban (Mirador)?", "a": "Egy természetvédelmi és erdei központot, amely információkat nyújt a helyi környezetről." },
+      { "q": "Vannak ipari emlékek Steinfortban?", "a": "Igen, Steinfortnak jelentős múltja van a vasiparban, amire ma is emlékművek utalnak." },
+      { "q": "Mi az a Steinfort Adventure?", "a": "Egy ismert kalandpark (kötélpálya) a Steinfort melletti erdőkben." }
+    ],
+    "ro": [
+      { "q": "Unde se află Steinfort?", "a": "La granița de vest a Luxemburgului cu Belgia." },
+      { "q": "Ce se poate vedea la 'Schwarzenhof' (Mirador)?", "a": "Un centru de natură și pădure care oferă informații despre mediul local." },
+      { "q": "Există urme industriale în Steinfort?", "a": "Da, Steinfort are o istorie în industria fierului, comemorată astăzi prin diverse monumente." },
+      { "q": "Ce este Steinfort Adventure?", "a": "Un parcurs de aventură (corzi înalte) cunoscut în pădurile de lângă Steinfort." }
+    ],
+    "en": [
+      { "q": "Where is Steinfort located?", "a": "On the western border of Luxembourg with Belgium." },
+      { "q": "What can you see at the 'Schwarzenhof' (Mirador)?", "a": "A nature and forest center providing information about the local environment." },
+      { "q": "Are there industrial traces in Steinfort?", "a": "Yes, Steinfort has a history in the iron industry, which is still commemorated by monuments today." },
+      { "q": "What is Steinfort Adventure?", "a": "A well-known adventure park (high ropes course) in the forests near Steinfort." }
+    ]
+  },
+  "city-bertrange": {
+    "de": [
+      { "q": "Wo liegt Bertrange?", "a": "Direkt westlich von Luxemburg-Stadt." },
+      { "q": "Ist Bertrange eine reine Wohnstadt?", "a": "Nein, es ist auch ein wichtiges Handelszentrum mit großen Einkaufszentren wie dem 'City Concorde'." },
+      { "q": "Was ist das 'Les Thermes'?", "a": "Ein großes, modernes Schwimmbad und Wellnesszentrum in Bertrange." },
+      { "q": "Hat Bertrange ein Kulturzentrum?", "a": "Ja, das 'Arca' ist ein bekanntes Zentrum für Musik und Kultur in der Gemeinde." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Bertrange?", "a": "Közvetlenül Luxemburg várostól nyugatra." },
+      { "q": "Bertrange tisztán lakóváros?", "a": "Nem, fontos kereskedelmi központ is, olyan nagy bevásárlóközpontokkal, mint a 'City Concorde'." },
+      { "q": "Mi az a 'Les Thermes'?", "a": "Egy nagy, modern uszoda és wellnessközpont Bertrange-ban." },
+      { "q": "Van Bertrange-nak kulturális központja?", "a": "Igen, az 'Arca' egy ismert zenei és kulturális központ a településen." }
+    ],
+    "ro": [
+      { "q": "Unde se află Bertrange?", "a": "Chiar la vest de orașul Luxemburg." },
+      { "q": "Este Bertrange doar un oraș rezidențial?", "a": "Nu, este și un centru comercial important, cu mall-uri mari precum 'City Concorde'." },
+      { "q": "Ce este 'Les Thermes'?", "a": "O piscină mare și modernă și un centru wellness în Bertrange." },
+      { "q": "Are Bertrange un centru cultural?", "a": "Da, 'Arca' este un centru cunoscut pentru muzică și cultură în comună." }
+    ],
+    "en": [
+      { "q": "Where is Bertrange located?", "a": "Right to the west of Luxembourg City." },
+      { "q": "Is Bertrange purely a residential town?", "a": "No, it is also a major commercial hub with large shopping malls like 'City Concorde'." },
+      { "q": "What is 'Les Thermes'?", "a": "A large, modern swimming pool and wellness center in Bertrange." },
+      { "q": "Does Bertrange have a cultural center?", "a": "Yes, 'Arca' is a well-known center for music and culture in the municipality." }
+    ]
+  },
+  "city-dudelange": {
+    "de": [
+      { "q": "Was ist die Besonderheit von Düdelange?", "a": "Es ist die viertgrößte Stadt Luxemburgs und hat eine starke industrielle Vergangenheit." },
+      { "q": "Was ist das CNA?", "a": "Das 'Centre National de l'Audiovisuel' befindet sich in Düdelange und bewahrt das audiovisuelle Erbe des Landes." },
+      { "q": "Welchen Naturpark gibt es in der Nähe?", "a": "Das Naturschutzgebiet 'Haard', das auf einem ehemaligen Tagebaugelände liegt." },
+      { "q": "Gibt es Ruinen in Düdelange?", "a": "Ja, auf dem Johannisberg befinden sich die Überreste einer alten Burg." }
+    ],
+    "hu": [
+      { "q": "Mi Dudelange különlegessége?", "a": "Luxemburg negyedik legnagyobb városa, erős ipari múlttal." },
+      { "q": "Mi az a CNA?", "a": "A 'Centre National de l'Audiovisuel' (Nemzeti Audiovizuális Központ) Dudelange-ban található, és az ország audiovizuális örökségét őrzi." },
+      { "q": "Milyen természetvédelmi terület van a közelben?", "a": "A 'Haard' természetvédelmi terület, amely egy egykori külszíni fejtés területén található." },
+      { "q": "Vannak romok Dudelange-ban?", "a": "Igen, a Johannisberg-hegyen egy régi vár maradványai találhatók." }
+    ],
+    "ro": [
+      { "q": "Care este particularitatea orașului Dudelange?", "a": "Este al patrulea oraș ca mărime din Luxemburg și are un trecut industrial puternic." },
+      { "q": "Ce este CNA?", "a": "Centrul Național al Audiovizualului (CNA) se află în Dudelange și păstrează moștenirea audiovizuală a țării." },
+      { "q": "Ce parc natural există în apropiere?", "a": "Rezervația naturală 'Haard', situată pe locul unei foste mine la suprafață." },
+      { "q": "Există ruine în Dudelange?", "a": "Da, pe muntele Johannisberg se află rămășițele unui castel vechi." }
+    ],
+    "en": [
+      { "q": "What is special about Dudelange?", "a": "It is Luxembourg's fourth-largest city and has a strong industrial past." },
+      { "q": "What is the CNA?", "a": "The 'Centre National de l'Audiovisuel' is located in Dudelange and preserves the country's audiovisual heritage." },
+      { "q": "Which nature park is nearby?", "a": "The 'Haard' nature reserve, located on a former open-cast mining site." },
+      { "q": "Are there ruins in Dudelange?", "a": "Yes, on the Johannisberg hill, there are the remains of an old castle." }
+    ]
+  },
+  "city-schifflange": {
+    "de": [
+      { "q": "Wo liegt Schifflingen?", "a": "Im Süden Luxemburgs, zwischen Esch-sur-Alzette und Kayl." },
+      { "q": "War Schifflingen eine Industriestadt?", "a": "Ja, die Stadt war jahrzehntelang ein wichtiger Standort der Stahlindustrie." },
+      { "q": "Was ist der 'Lalléngerbierg'?", "a": "Ein Naturschutzgebiet und ehemaliges Bergbaugebiet mit markanten roten Felsen." },
+      { "q": "Hat Schifflingen einen Bahnhof?", "a": "Ja, Schifflingen ist gut an das nationale Eisenbahnnetz angeschlossen." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Schifflange?", "a": "Luxemburg déli részén, Esch-sur-Alzette és Kayl között." },
+      { "q": "Schifflange iparváros volt?", "a": "Igen, a város évtizedekig az acélipar egyik fontos helyszíne volt." },
+      { "q": "Mi az a 'Lalléngerbierg'?", "a": "Egy természetvédelmi terület és egykori bányavidék jellegzetes vörös sziklákkal." },
+      { "q": "Van Schifflange-nak vasútállomása?", "a": "Igen, Schifflange jól kapcsolódik az országos vasúthálózathoz." }
+    ],
+    "ro": [
+      { "q": "Unde se află Schifflange?", "a": "În sudul Luxemburgului, între Esch-sur-Alzette și Kayl." },
+      { "q": "A fost Schifflange un oraș industrial?", "a": "Da, orașul a fost timp de decenii un sit important al industriei oțelului." },
+      { "q": "Ce este 'Lalléngerbierg'?", "a": "O rezervație naturală și fostă zonă minieră cu stânci roșii distinctive." },
+      { "q": "Are Schifflange o gară?", "a": "Da, Schifflange este bine conectat la rețeaua feroviară națională." }
+    ],
+    "en": [
+      { "q": "Where is Schifflange located?", "a": "In the south of Luxembourg, between Esch-sur-Alzette and Kayl." },
+      { "q": "Was Schifflange an industrial town?", "a": "Yes, the town was an important site for the steel industry for decades." },
+      { "q": "What is the 'Lalléngerbierg'?", "a": "A nature reserve and former mining area with distinctive red rocks." },
+      { "q": "Does Schifflange have a train station?", "a": "Yes, Schifflange is well connected to the national rail network." }
+    ]
+  },
+  "city-kayl": {
+    "de": [
+      { "q": "Welches Denkmal steht in Kayl?", "a": "Das Nationaldenkmal der Bergleute (Monument National des Mineurs)." },
+      { "q": "Wie heißt der Ortsteil, der oft mit Kayl genannt wird?", "a": "Tetingen (Tétange), beide bilden zusammen die Gemeinde Kayl." },
+      { "q": "Was kann man im 'Waly von Lallingen' sehen?", "a": "Es ist Teil eines Naturschutzgebietes, das für Wanderungen beliebt ist." },
+      { "q": "Gibt es dort ein Bergbaumuseum?", "a": "In der Nähe, in Rümelingen, befindet sich das große Bergbaumuseum, aber Kayl selbst ist stark von dieser Geschichte geprägt." }
+    ],
+    "hu": [
+      { "q": "Milyen emlékmű áll Kaylban?", "a": "A bányászok nemzeti emlékműve (Monument National des Mineurs)." },
+      { "q": "Hogy hívják a településrészt, amelyet gyakran említenek Kayllal együtt?", "a": "Tétange, a kettő együtt alkotja Kayl községet." },
+      { "q": "Mit láthatunk a környéken?", "a": "A régió természetvédelmi területei népszerűek a túrázók körében." },
+      { "q": "Van bányamúzeum Kaylban?", "a": "A közelben, Rümelange-ban található a nagy bányamúzeum, de maga Kayl is erősen kötődik ehhez a múlthoz." }
+    ],
+    "ro": [
+      { "q": "Ce monument se află în Kayl?", "a": "Monumentul Național al Minerilor (Monument National des Mineurs)." },
+      { "q": "Cum se numește localitatea care este adesea menționată împreună cu Kayl?", "a": "Tétange; ambele formează împreună comuna Kayl." },
+      { "q": "Ce se poate vedea în zonă?", "a": "Zona face parte dintr-o rezervație naturală populară pentru drumeții." },
+      { "q": "Există un muzeu minier acolo?", "a": "În apropiere, în Rumelange, se află marele muzeu minier, dar Kayl însuși este puternic marcat de această istorie." }
+    ],
+    "en": [
+      { "q": "Which monument stands in Kayl?", "a": "The National Miners' Monument (Monument National des Mineurs)." },
+      { "q": "What is the name of the district often mentioned with Kayl?", "a": "Tétange; both together form the municipality of Kayl." },
+      { "q": "What can you see in the area?", "a": "It is part of a nature reserve popular for hiking." },
+      { "q": "Is there a mining museum there?", "a": "Nearby in Rumelange is the large mining museum, but Kayl itself is strongly shaped by this history." }
+    ]
+  },
+  "city-mondorf-les-bains": {
+    "de": [
+      { "q": "Wofür ist Mondorf-les-Bains bekannt?", "a": "Es ist der einzige Kurort in Luxemburg, bekannt für sein Thermalbad." },
+      { "q": "Was ist das Casino 2000?", "a": "Das einzige Casino des Landes, das sich ebenfalls in Mondorf befindet." },
+      { "q": "Wie groß ist der Kurpark?", "a": "Der Park umfasst über 40 Hektar und ist einer der schönsten des Landes." },
+      { "q": "Wann wurden die Thermalquellen entdeckt?", "a": "Die Quellen wurden 1841 bei Bohrungen nach Steinsalz entdeckt." }
+    ],
+    "hu": [
+      { "q": "Miről ismert Mondorf-les-Bains?", "a": "Ez Luxemburg egyetlen fürdővárosa, amely termálfürdőjéről híres." },
+      { "q": "Mi az a Casino 2000?", "a": "Az ország egyetlen kaszinója, amely szintén Mondorfban található." },
+      { "q": "Mekkora a fürdőpark?", "a": "A park több mint 40 hektáros, és az ország egyik legszebb parkja." },
+      { "q": "Mikor fedezték fel a termálforrásokat?", "a": "A forrásokat 1841-ben fedezték fel kősó utáni fúrások során." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut Mondorf-les-Bains?", "a": "Este singura stațiune balneară din Luxemburg, cunoscută pentru băile sale termale." },
+      { "q": "Ce este Casino 2000?", "a": "Singurul cazinou din țară, care se află tot în Mondorf." },
+      { "q": "Cât de mare este parcul stațiunii?", "a": "Parcul se întinde pe peste 40 de hectare și este unul dintre cele mai frumoase din țară." },
+      { "q": "Când au fost descoperite izvoarele termale?", "a": "Izvoarele au fost descoperite în 1841 în timpul forajelor pentru sare gemă." }
+    ],
+    "en": [
+      { "q": "What is Mondorf-les-Bains known for?", "a": "It is the only spa town in Luxembourg, famous for its thermal baths." },
+      { "q": "What is Casino 2000?", "a": "The country's only casino, which is also located in Mondorf." },
+      { "q": "How large is the spa park?", "a": "The park covers over 40 hectares and is one of the most beautiful in the country." },
+      { "q": "When were the thermal springs discovered?", "a": "The springs were discovered in 1841 during drilling for rock salt." }
+    ]
+  },
+  "city-redange-sur-attert": {
+    "de": [
+      { "q": "In welcher Region liegt Redange-sur-Attert?", "a": "Im Westen Luxemburgs, im Tal der Attert." },
+      { "q": "Was ist das Besondere am 'Atert-Lycée'?", "a": "Es ist ein modernes, ökologisch gebautes Gymnasium in der Region." },
+      { "q": "Gibt es dort ein Schwimmbad?", "a": "Ja, das 'Redange Swimming Pool' ist ein beliebtes Ziel für die Region." },
+      { "q": "Was ist die Hauptwirtschaft der Region?", "a": "Die Region ist vor allem ländlich geprägt mit viel Landwirtschaft und Naturtourismus." }
+    ],
+    "hu": [
+      { "q": "Melyik régióban fekszik Redange-sur-Attert?", "a": "Luxemburg nyugati részén, az Attert folyó völgyében." },
+      { "q": "Mi a különlegessége az 'Atert-Lycée'-nek?", "a": "Ez egy modern, ökológiai szempontok szerint épült gimnázium a régióban." },
+      { "q": "Van ott uszoda?", "a": "Igen, a redange-i uszoda a környék népszerű célpontja." },
+      { "q": "Mi a régió fő gazdasági ága?", "a": "A régió főleg vidékies jellegű, jelentős mezőgazdasággal és természeti turizmussal." }
+    ],
+    "ro": [
+      { "q": "În ce regiune se află Redange-sur-Attert?", "a": "În vestul Luxemburgului, în valea râului Attert." },
+      { "q": "Ce este special la 'Atert-Lycée'?", "a": "Este un liceu modern, construit ecologic, situat în regiune." },
+      { "q": "Există o piscină acolo?", "a": "Da, piscina din Redange este o destinație populară pentru regiune." },
+      { "q": "Care este principala activitate economică a regiunii?", "a": "Regiunea este predominant rurală, cu multă agricultură și turism natural." }
+    ],
+    "en": [
+      { "q": "In which region is Redange-sur-Attert located?", "a": "In the west of Luxembourg, in the Attert valley." },
+      { "q": "What is special about the 'Atert-Lycée'?", "a": "It is a modern, ecologically built high school in the region." },
+      { "q": "Is there a swimming pool there?", "a": "Yes, the Redange swimming pool is a popular destination for the region." },
+      { "q": "What is the main economy of the region?", "a": "The region is primarily rural with much agriculture and nature tourism." }
+    ]
+  },
+  "city-junglinster": {
+    "de": [
+      { "q": "Wofür ist Junglinster historisch bekannt?", "a": "Für die großen Langwellensender von RTL, die weithin sichtbar sind." },
+      { "q": "In welcher Region liegt Junglinster?", "a": "Im Osten Luxemburgs, etwa 15 km von der Hauptstadt entfernt." },
+      { "q": "Gibt es dort einen Golfplatz?", "a": "Ja, der 'Golf de Luxembourg' in Junglinster ist einer der bekanntesten Plätze des Landes." },
+      { "q": "Was bietet das Dorf Bourglinster (Teil der Gemeinde)?", "a": "Es beherbergt ein prächtiges Schloss mit einem erstklassigen Restaurant." }
+    ],
+    "hu": [
+      { "q": "Miről ismert történelmileg Junglinster?", "a": "Az RTL nagy hosszúhullámú adóiról, amelyek messziről láthatóak." },
+      { "q": "Melyik régióban fekszik Junglinster?", "a": "Luxemburg keleti részén, körülbelül 15 km-re a fővárostól." },
+      { "q": "Van ott golfpálya?", "a": "Igen, a junglinsteri 'Golf de Luxembourg' az ország egyik legismertebb pályája." },
+      { "q": "Mit kínál Bourglinster falu (a község része)?", "a": "Egy pompás várnak ad otthont, amelyben kiváló étterem is működik." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut Junglinster din punct de vedere istoric?", "a": "Pentru marile emițătoare pe unde lungi ale RTL, care sunt vizibile de la distanță." },
+      { "q": "În ce regiune se află Junglinster?", "a": "În estul Luxemburgului, la aproximativ 15 km de capitală." },
+      { "q": "Există un teren de golf acolo?", "a": "Da, 'Golf de Luxembourg' din Junglinster este unul dintre cele mai cunoscute terenuri din țară." },
+      { "q": "Ce oferă satul Bourglinster (parte a comunei)?", "a": "Găzduiește un castel magnific cu un restaurant de primă clasă." }
+    ],
+    "en": [
+      { "q": "What is Junglinster historically known for?", "a": "For the large long-wave transmitters of RTL, which are visible from afar." },
+      { "q": "In which region is Junglinster located?", "a": "In the east of Luxembourg, about 15 km from the capital." },
+      { "q": "Is there a golf course there?", "a": "Yes, the 'Golf de Luxembourg' in Junglinster is one of the most famous courses in the country." },
+      { "q": "What does the village of Bourglinster (part of the municipality) offer?", "a": "It houses a magnificent castle with a first-class restaurant." }
+    ]
+  }
+}

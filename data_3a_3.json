@@ -1,0 +1,202 @@
+{
+  "historical-schleswig-dom-extra": {
+    "desc_de": "Der Schleswiger Dom, offiziell St.-Petri-Dom zu Schleswig, ist eines der bedeutendsten Bauwerke der norddeutschen Kirchengeschichte. Die ersten Bauphasen begannen um das Jahr 1134, womit der Dom eine lange architektonische Entwicklung von der Romanik bis zur Neugotik durchlief. Besonders bemerkenswert ist der 112 Meter hohe Westturm, der erst Ende des 19. Jahrhunderts fertiggestellt wurde. Im Inneren befindet sich der weltberühmte Bordesholmer Altar, ein Meisterwerk der Holzschnitzkunst von Hans Brüggemann aus dem Jahr 1521. Der Dom diente jahrhundertelang als Grablege der Herzöge von Schleswig-Holstein-Gottorf.",
+    "desc_hu": "A schleswigi dóm, hivatalos nevén schleswigi Szent Péter-dóm az észak-német egyháztörténet egyik legjelentősebb építménye. Az első építési szakaszok 1134 körül kezdődtek, így a dóm hosszú építészeti fejlődésen ment keresztül a román stílustól a neogótikáig. Különösen figyelemre méltó a 112 méter magas nyugati torony, amely csak a 19. század végén készült el. Belsejében található a világhírű bordesholmi oltár, Hans Brüggemann fafaragó művészetének 1521-ből származó remekműve. A dóm évszázadokon át a Schleswig-Holstein-Gottorf hercegek temetkezési helyeként szolgált.",
+    "facts_de": [
+      "Der Bau des Schleswiger Doms begann um das Jahr 1134.",
+      "Der neugotische Westturm ist 112 Meter hoch und wurde erst 1894 vollendet.",
+      "Im Dom steht der berühmte Bordesholmer Altar, der 1521 von Hans Brüggemann geschnitzt wurde.",
+      "Der Altar besteht aus Eichenholz und zeigt fast 400 kunstvoll geschnitzte Figuren.",
+      "Im Dom befindet sich die Grabstätte des dänischen Königs Friedrich I.",
+      "Der Kreuzgang des Doms, der sogenannte Schwahl, besitzt gut erhaltene Wandmalereien aus dem 14. Jahrhundert."
+    ],
+    "facts_hu": [
+      "A schleswigi dóm építése 1134 körül kezdődött.",
+      "A neogótikus nyugati torony 112 méter magas, és csak 1894-ben készült el.",
+      "A dómban áll a híres bordesholmi oltár, amelyet Hans Brüggemann faragott 1521-ben.",
+      "Az oltár tölgyfából készült, és közel 400 művészien faragott figurát ábrázol.",
+      "A dómban található I. Frigyes dán király sírja.",
+      "A dóm kerengője, az úgynevezett Schwahl jól megőrzött 14. századi falfestményekkel rendelkezik."
+    ]
+  },
+  "landmark-holstentor-extra": {
+    "desc_de": "Das Holstentor ist das bekannteste Wahrzeichen der Hansestadt Lübeck und eines der berühmtesten Bauwerke Deutschlands. Das imposante Stadttor wurde zwischen 1464 und 1478 im Stil der spätmittelalterlichen Backsteingotik errichtet und diente sowohl der Verteidigung als auch der Repräsentation von Macht und Reichtum der wohlhabenden Handelsstadt. Seine charakteristische Neigung entstand durch das Absacken der massiven Türme im morastigen Untergrund. Heute beherbergt das Holstentor ein stadtgeschichtliches Museum, das Einblicke in die Geschichte der Hanse und die historische Stadtverteidigung bietet.",
+    "desc_hu": "A Holstentor Lübeck Hanza-városának legismertebb jelképe és Németország egyik leghíresebb épülete. Az impozáns városkapu 1464 és 1478 között épült késő középkori téglagótikus stílusban, és mind a védelmet, mind a gazdag kereskedőváros hatalmának és gazdagságának reprezentálását szolgálta. Jellegzetes dőlése a masszív tornyok mocsaras altalajba való süllyedése miatt alakult ki. Ma a Holstentor egy várostörténeti múzeumnak ad otthont, amely betekintést nyújt a Hanza-szövetség történetébe és a történelmi városvédelembe.",
+    "facts_de": [
+      "Das Holstentor wurde zwischen 1464 und 1478 erbaut.",
+      "Es besteht aus zwei massiven Türmen und einem verbindenden Mittelbau.",
+      "Aufgrund des weichen Untergrunds sind die beiden Türme deutlich nach innen geneigt.",
+      "Das Tor ist Teil des UNESCO-Weltkulturerbes der Lübecker Altstadt.",
+      "Über dem Torbogen auf der Feldseite prangt die Inschrift 'CONCORDIA DOMI FORIS PAX' (Eintracht innen, Frieden außen).",
+      "Auf der früheren 50-DM-Banknote war das Holstentor als Motiv abgebildet."
+    ],
+    "facts_hu": [
+      "A Holstentor 1464 és 1478 között épült.",
+      "Két masszív toronyból és egy összekötő középső épületből áll.",
+      "A puha altalaj miatt a két torony észrevehetően befelé dől.",
+      "A kapu a lübecki óváros UNESCO Világörökségének része.",
+      "A külső oldalon a kapuív felett a 'CONCORDIA DOMI FORIS PAX' (Belső egyetértés, külső béke) felirat díszeleg.",
+      "A korábbi 50 márkás bankjegyen a Holstentor szerepelt motívumként."
+    ]
+  },
+  "island-foehr-extra": {
+    "desc_de": "Föhr ist eine der Nordfriesischen Inseln in Schleswig-Holstein und mit einer Fläche von rund 82 Quadratkilometern die zweitgrößte deutsche Nordseeinsel ohne Landverbindung. Sie liegt geschützt hinter den Inseln Sylt und Amrum, was ihr ein vergleichsweise mildes Mikroklima einbringt und ihr den Beinamen 'Friesische Karibik' verlieh. Föhr zeichnet sich durch eine grüne, landwirtschaftlich geprägte Landschaft, 15 Kilometer Sandstrand im Süden und die traditionelle friesische Kultur aus. Die einzige Stadt auf der Insel ist Wyk auf Föhr, umgeben von elf malerischen Inseldörfern.",
+    "desc_hu": "Föhr az észak-fríz szigetek egyike Schleswig-Holsteinben, és mintegy 82 négyzetkilométeres területével a második legnagyobb szárazföldi összeköttetés nélküli német északi-tengeri sziget. Sylt és Amrum szigetei mögött, védett helyen fekszik, ami viszonylag enyhe mikroklímát biztosít számára, és a 'Fríz Karib-térség' becenevet kapta. Föhröt a zöld, mezőgazdasági jellegű táj, a délen található 15 kilométeres homokos strand és a hagyományos fríz kultúra jellemzi. A sziget egyetlen városa Wyk auf Föhr, amelyet tizenegy festői szigeti falu vesz körül.",
+    "facts_de": [
+      "Föhr hat eine Fläche von 82 Quadratkilometern und rund 8.500 ständige Einwohner.",
+      "Aufgrund ihrer geschützten Lage und des milden Klimas wird sie oft 'Friesische Karibik' genannt.",
+      "Die Insel besitzt an der Süd- und Westküste einen 15 Kilometer langen Sandstrand.",
+      "Auf Föhr wird von einem Teil der Bevölkerung noch Fering, ein Dialekt der nordfriesischen Sprache, gesprochen.",
+      "In den Inseldörfern finden sich zahlreiche historische Reetdachhäuser und mittelalterliche Feldsteinkirchen.",
+      "Wyk auf Föhr ist die einzige Stadt der Insel und anerkannter Seeheilbad."
+    ],
+    "facts_hu": [
+      "Föhr területe 82 négyzetkilométer, és mintegy 8500 állandó lakosa van.",
+      "Védett fekvése és enyhe klímája miatt gyakran 'Fríz Karib-térségnek' nevezik.",
+      "A sziget déli és nyugati partján egy 15 kilométer hosszú homokos strand található.",
+      "Föhren a lakosság egy része még mindig beszéli a feringet, az észak-fríz nyelv egyik nyelvjárását.",
+      "A szigeti falvakban számos történelmi nádtetős ház és középkori terméskő templom található.",
+      "Wyk auf Föhr a sziget egyetlen városa és elismert tengeri gyógyfürdő."
+    ]
+  },
+  "lake-ploenesee-extra": {
+    "desc_de": "Der Große Plöner See ist mit einer Fläche von 28 Quadratkilometern der größte See in Schleswig-Holstein und das Herzstück der Holsteinischen Schweiz. Er entstand während der Weichsel-Eiszeit durch Gletscherbewegungen. Mit einer maximalen Tiefe von 58 Metern bietet der See nicht nur ideale Bedingungen für verschiedene Wassersportarten wie Segeln und Paddeln, sondern ist auch Lebensraum für eine vielfältige Flora und Fauna, darunter der Seeadler. Die Stadt Plön mit ihrem majestätischen Schloss, das malerisch auf einer Anhöhe direkt am Ufer liegt, ist das kulturelle Zentrum der Region.",
+    "desc_hu": "A Nagy Plöni-tó 28 négyzetkilométeres területével Schleswig-Holstein legnagyobb tava és a Holsteini Svájc szíve. A Weichsel-jégkorszak idején keletkezett gleccsermozgások révén. 58 méteres maximális mélységével a tó nemcsak a különböző vízi sportokhoz – például vitorlázáshoz és evezéshez – kínál ideális feltételeket, hanem a változatos növény- és állatvilág, köztük a rétisas élőhelye is. Plön városa a fenséges kastélyával, amely festői környezetben, egy dombon fekszik közvetlenül a parton, a régió kulturális központja.",
+    "facts_de": [
+      "Der Große Plöner See ist mit 28 Quadratkilometern der größte See Schleswig-Holsteins.",
+      "Die maximale Tiefe des Sees liegt bei 58 Metern.",
+      "Der See gehört zum Naturpark Holsteinische Schweiz.",
+      "Im See befinden sich zahlreiche Inseln, darunter die Prinzeninsel, die als Naturschutzgebiet dient.",
+      "Das Plöner Schloss, ein bedeutendes Renaissanceschloss, liegt direkt am Ufer des Sees.",
+      "Der See ist ein wichtiges Brut- und Rastgebiet für bedrohte Vogelarten wie den Seeadler."
+    ],
+    "facts_hu": [
+      "A Nagy Plöni-tó 28 négyzetkilométerével Schleswig-Holstein legnagyobb tava.",
+      "A tó maximális mélysége 58 méter.",
+      "A tó a Holsteini Svájc Nemzeti Park része.",
+      "A tóban számos sziget található, köztük a Herceg-sziget (Prinzeninsel), amely természetvédelmi területként szolgál.",
+      "A Plöni kastély, egy jelentős reneszánsz kastély, közvetlenül a tó partján fekszik.",
+      "A tó fontos költő- és pihenőhely a veszélyeztetett madárfajok, például a rétisas számára."
+    ]
+  },
+  "historical-haithabu-extra": {
+    "desc_de": "Haithabu war eine der bedeutendsten wikingerzeitlichen Siedlungen in Nordeuropa und lag am Rande der Schlei in der Nähe des heutigen Schleswig. Zwischen dem 8. und 11. Jahrhundert entwickelte sich der Ort zu einem zentralen Handelsnetzwerk, das das Fränkische Reich mit Skandinavien und die Nordsee mit der Ostsee verband. Durch den halbkreisförmigen Ringwall war Haithabu stark befestigt. Im Jahr 1066 wurde die Siedlung zerstört und aufgegeben. Heute gehört das archäologische Gelände mit dem Wikinger Museum Haithabu zum UNESCO-Weltkulturerbe und bietet rekonstruierte Wikingerhäuser.",
+    "desc_hu": "Hedeby (németül: Haithabu) Észak-Európa egyik legjelentősebb viking kori települése volt, amely a Schlei partján, a mai Schleswig közelében feküdt. A 8. és a 11. század között a hely egy központi kereskedelmi hálózattá fejlődött, amely összekötötte a Frank Birodalmat Skandináviával, valamint az Északi-tengert a Balti-tengerrel. Hedebyt a félköríves sánc révén erősen megerősítették. A települést 1066-ban elpusztították és elhagyták. Ma a régészeti terület a Hedeby Viking Múzeummal az UNESCO Világörökség része, és rekonstruált viking házakat kínál.",
+    "facts_de": [
+      "Haithabu war vom 8. bis 11. Jahrhundert eines der größten Handelszentren der Wikinger.",
+      "Die Siedlung lag an der historischen Handelsroute zwischen Nord- und Ostsee.",
+      "Das Gelände ist von einem halbkreisförmigen Ringwall umgeben.",
+      "Haithabu wurde im Jahr 1066 von den Slawen zerstört und nicht wieder aufgebaut.",
+      "Der archäologische Grenzkomplex Haithabu und das Danewerk gehören seit 2018 zum UNESCO-Weltkulturerbe.",
+      "Im Wikinger Museum Haithabu sind originalgetreu rekonstruierte Wikingerhäuser zu besichtigen."
+    ],
+    "facts_hu": [
+      "Hedeby a 8. és a 11. század között a vikingek egyik legnagyobb kereskedelmi központja volt.",
+      "A település az Északi- és a Balti-tenger közötti történelmi kereskedelmi útvonalon feküdt.",
+      "A területet egy félköríves sánc veszi körül.",
+      "Hedebyt 1066-ban a szlávok elpusztították, és nem építették újjá.",
+      "A hedebyi régészeti határkomplexum és a Danewerk 2018 óta az UNESCO Világörökség része.",
+      "A Hedeby Viking Múzeumban hűen rekonstruált viking házak tekinthetők meg."
+    ]
+  },
+  "forest-sachsenwald-extra": {
+    "desc_de": "Der Sachsenwald ist mit einer Fläche von rund 60 Quadratkilometern das größte zusammenhängende Waldgebiet in Schleswig-Holstein. Er liegt östlich von Hamburg im Kreis Herzogtum Lauenburg. Weltgeschichtliche Bedeutung erlangte der Wald, als Kaiser Wilhelm I. ihn 1871 dem ersten deutschen Reichskanzler Otto von Bismarck für seine Verdienste um die Reichsgründung schenkte. Der Wald ist größtenteils ein Laubmischwald und bietet zahlreichen Tierarten Schutz. Ein Teil des Sachsenwaldes, insbesondere um Friedrichsruh, ist für die Öffentlichkeit zugänglich und beherbergt das Bismarck-Museum sowie das Mausoleum der Familie.",
+    "desc_hu": "A Sachsenwald a maga mintegy 60 négyzetkilométeres területével Schleswig-Holstein legnagyobb összefüggő erdőterülete. Hamburgtól keletre, a Lauenburgi Hercegség járásban található. Az erdő akkor tett szert világtörténelmi jelentőségre, amikor I. Vilmos császár 1871-ben az első német birodalmi kancellárnak, Otto von Bismarcknak adományozta a birodalom alapításában szerzett érdemeiért. Az erdő nagyrészt vegyes lombhullató erdő, és számos állatfajnak nyújt menedéket. A Sachsenwald egy része, különösen Friedrichsruh körül, nyitva áll a nagyközönség előtt, és itt található a Bismarck Múzeum, valamint a család mauzóleuma.",
+    "facts_de": [
+      "Der Sachsenwald ist mit fast 60 Quadratkilometern Schleswig-Holsteins größter Wald.",
+      "1871 wurde der Wald von Kaiser Wilhelm I. an Otto von Bismarck geschenkt.",
+      "Der Sachsenwald befindet sich bis heute größtenteils im Besitz der Familie von Bismarck.",
+      "In Friedrichsruh im Sachsenwald befindet sich das Bismarck-Mausoleum.",
+      "Es handelt sich überwiegend um einen Laubmischwald, dominiert von Buchen und Eichen.",
+      "Der Wald ist ein wichtiges Naherholungsgebiet für den Großraum Hamburg."
+    ],
+    "facts_hu": [
+      "A Sachsenwald közel 60 négyzetkilométeres területével Schleswig-Holstein legnagyobb erdeje.",
+      "Az erdőt 1871-ben I. Vilmos császár Otto von Bismarcknak ajándékozta.",
+      "A Sachsenwald a mai napig nagyrészt a Bismarck család tulajdonában van.",
+      "A Sachsenwald területén fekvő Friedrichsruhban található a Bismarck-mauzóleum.",
+      "Túlnyomórészt vegyes lombhullató erdő, ahol a bükk- és tölgyfák dominálnak.",
+      "Az erdő fontos rekreációs terület a hamburgi nagyvárosi régió számára."
+    ]
+  },
+  "sea-wattenmeer-sh-extra": {
+    "desc_de": "Das Schleswig-Holsteinische Wattenmeer ist der größte Nationalpark Mitteleuropas und erstreckt sich von der Elbmündung im Süden bis zur dänischen Grenze im Norden. Es umfasst eine Fläche von rund 4.410 Quadratkilometern und bildet zusammen mit den Wattenmeeren Niedersachsens und der Niederlande ein UNESCO-Weltnaturerbe von globaler Bedeutung. Die dynamische Landschaft aus Schlick- und Sandwatten, Prielen, Salzwiesen und Dünen wird zweimal täglich vom Wechsel der Gezeiten geprägt. Millionen von Zugvögeln nutzen das nährstoffreiche Wattenmeer jährlich als Rastplatz, während hier Seehunde und Kegelrobben heimisch sind.",
+    "desc_hu": "A Schleswig-holsteini Watt-tenger Közép-Európa legnagyobb nemzeti parkja, és a déli Elba torkolattól az északi dán határig terjed. Mintegy 4410 négyzetkilométeres területet ölel fel, és Alsó-Szászország, valamint Hollandia Watt-tengereivel együtt globális jelentőségű UNESCO Világörökséget alkot. Az iszapos és homokos lapályokból, árapálycsatornákból, sós mocsarakból és dűnékből álló dinamikus tájat naponta kétszer formálja az árapály váltakozása. Vándormadarak milliói használják évente pihenőhelyként a tápanyagban gazdag Watt-tengert, miközben borjúfókák és kúpos fókák is honosak itt.",
+    "facts_de": [
+      "Der Nationalpark Schleswig-Holsteinisches Wattenmeer wurde 1985 gegründet.",
+      "Mit rund 4.410 Quadratkilometern ist er der größte Nationalpark zwischen dem Nordkap und Sizilien.",
+      "Das Gebiet ist seit 2009 Teil des UNESCO-Weltnaturerbes Wattenmeer.",
+      "Im Nationalpark leben etwa 10.000 verschiedene Tier- und Pflanzenarten.",
+      "Jährlich machen bis zu 12 Millionen Zugvögel auf ihrem Weg in den Süden oder Norden hier Halt.",
+      "Die Gezeiten legen zweimal täglich große Flächen des Meeresbodens frei."
+    ],
+    "facts_hu": [
+      "A Schleswig-holsteini Watt-tenger Nemzeti Parkot 1985-ben alapították.",
+      "Körülbelül 4410 négyzetkilométeres területével ez a legnagyobb nemzeti park az Északi-fok és Szicília között.",
+      "A terület 2009 óta a Watt-tenger UNESCO Világörökség része.",
+      "A nemzeti parkban mintegy 10 000 különböző állat- és növényfaj él.",
+      "Évente akár 12 millió vándormadár is megáll itt délre vagy északra tartó útja során.",
+      "Az árapály naponta kétszer hatalmas területeket tesz szabaddá a tengerfenékből."
+    ]
+  },
+  "city-flensburg-extra": {
+    "desc_de": "Flensburg ist die nördlichste kreisfreie Stadt Deutschlands und liegt am Ende der Flensburger Förde, unmittelbar an der Grenze zu Dänemark. Aufgrund dieser Lage ist Flensburg stark von dänischen Einflüssen geprägt und ein Zentrum der dänischen Minderheit in Südschleswig. Im 18. Jahrhundert erlebte die Stadt durch den Rumhandel mit den Dänisch-Westindischen Inseln eine wirtschaftliche Blütezeit, was ihr den Titel 'Rumstadt' einbrachte. Mit rund 92.000 Einwohnern ist sie ein wichtiger Handelsplatz und Universitätsstandort. Bundesweit bekannt ist Flensburg zudem als Sitz des Kraftfahrt-Bundesamtes.",
+    "desc_hu": "Flensburg Németország legészakibb független városa, amely a Flensburgi-fjord végén, közvetlenül a dán határ mentén fekszik. Ebből a fekvésből adódóan Flensburgot erősen befolyásolják a dán hatások, és a dél-schleswigi dán kisebbség központja. A 18. században a város a Dán Nyugat-Indiákkal folytatott rumkereskedelem révén gazdasági virágkort élt meg, ami a 'Rumváros' címet hozta meg számára. Mintegy 92 000 lakosával fontos kereskedelmi és egyetemi központ. Flensburg országosan is ismert a Szövetségi Gépjárműügyi Hivatal székhelyeként.",
+    "facts_de": [
+      "Flensburg ist die nördlichste kreisfreie Stadt der Bundesrepublik Deutschland.",
+      "Die Stadt liegt an der Flensburger Förde, einem Seitenarm der Ostsee.",
+      "Flensburg ist das kulturelle und wirtschaftliche Zentrum der dänischen Minderheit in Deutschland.",
+      "In Flensburg hat das Kraftfahrt-Bundesamt (KBA) seinen Sitz, das das Fahreignungsregister führt.",
+      "Im 18. und 19. Jahrhundert war Flensburg ein bedeutendes Zentrum für die Rum-Herstellung und den Überseehandel.",
+      "Die Altstadt zeichnet sich durch historische Kaufmannshöfe und malerische Gassen aus."
+    ],
+    "facts_hu": [
+      "Flensburg a Német Szövetségi Köztársaság legészakibb független városa.",
+      "A város a Flensburgi-fjordon, a Balti-tenger egyik mellékágán fekszik.",
+      "Flensburg a németországi dán kisebbség kulturális és gazdasági központja.",
+      "Flensburgban található a Szövetségi Gépjárműügyi Hivatal (KBA) székhelye, amely a járművezetői alkalmassági nyilvántartást vezeti.",
+      "A 18. és 19. században Flensburg a rumgyártás és a tengerentúli kereskedelem jelentős központja volt.",
+      "Az óvárost történelmi kereskedőudvarok és festői sikátorok jellemzik."
+    ]
+  },
+  "landmark-nordertor-flensburg-extra": {
+    "desc_de": "Das Nordertor ist das Wahrzeichen der Stadt Flensburg und das letzte erhaltene Stadttor in Schleswig-Holstein. Erbaut wurde das markante Bauwerk im Jahr 1595 im Stil der Renaissance aus rotem Backstein. Es markierte jahrhundertelang die nördliche Begrenzung der Stadt und diente der Kontrolle des Handels sowie der Verteidigung. Auf der der Stadt zugewandten Seite zieren zwei Wappen das Tor: das königlich-dänische Wappen des Königs Christian IV. und das Flensburger Stadtwappen. Heute ist es ein beliebtes Fotomotiv und Symbol für den kulturellen Reichtum der Region.",
+    "desc_hu": "A Nordertor Flensburg városának jelképe, és az utolsó fennmaradt városkapu Schleswig-Holsteinben. A feltűnő építmény 1595-ben épült reneszánsz stílusban, vörös téglából. Évszázadokon át a város északi határát jelezte, és a kereskedelem ellenőrzését, valamint a védelmet szolgálta. A város felé néző oldalon két címer díszíti a kaput: IV. Keresztély király dán királyi címere és Flensburg város címere. Ma kedvelt fotótéma és a régió kulturális gazdagságának szimbóluma.",
+    "facts_de": [
+      "Das Nordertor wurde 1595 als nördliche Begrenzung der Stadt Flensburg erbaut.",
+      "Es ist das letzte vollständig erhaltene historische Stadttor im Bundesland Schleswig-Holstein.",
+      "Der Bau ist im Stil der nordischen Backsteinrenaissance gehalten.",
+      "Auf der stadtzugewandten Seite befinden sich das Wappen von Dänemark und das von Flensburg.",
+      "Das Tor hat einen markanten Treppengiebel, der typisch für die damalige Architektur der Region war.",
+      "Ursprünglich schloss das Tor die Stadtmauer nach Norden hin ab."
+    ],
+    "facts_hu": [
+      "A Nordertor 1595-ben épült Flensburg városának északi határaként.",
+      "Ez az utolsó, teljesen épen maradt történelmi városkapu Schleswig-Holstein tartományban.",
+      "Az épület az északi tégla-reneszánsz stílusában készült.",
+      "A város felőli oldalon Dánia és Flensburg címere található.",
+      "A kapunak jellegzetes lépcsős oromzata van, amely tipikus volt a régió akkori építészetére.",
+      "Eredetileg a kapu zárta le a városfalat északi irányban."
+    ]
+  },
+  "port-hamburg-altona-sh-extra": {
+    "desc_de": "Der Hafen von Altona, heute ein Teil des Hamburger Hafens, blickt auf eine eigenständige und überaus bedeutende Geschichte zurück. Altona war jahrhundertelang eine eigenständige Stadt unter dänischer Verwaltung und der zweitgrößte Ort im dänischen Gesamtstaat. Der Hafen konkurrierte direkt mit dem benachbarten Hamburger Hafen und blühte im 18. und 19. Jahrhundert auf, insbesondere durch Fischerei und Handel. Erst durch das Groß-Hamburg-Gesetz von 1937 wurde Altona in Hamburg eingemeindet. Noch heute zeugen der Fischmarkt und die Architektur entlang der Elbmeile von dieser reichen maritimen und dänisch-holsteinischen Vergangenheit.",
+    "desc_hu": "Altona kikötője, amely ma a hamburgi kikötő része, önálló és rendkívül jelentős múltra tekint vissza. Altona évszázadokon át dán közigazgatás alatt álló, független város volt, és a Dán Királyság második legnagyobb települése. A kikötő közvetlenül versengett a szomszédos hamburgi kikötővel, és a 18. és 19. században felvirágzott, különösen a halászat és a kereskedelem révén. Altonát csak az 1937-es Nagy-Hamburg törvény értelmében csatolták Hamburghoz. A halpiac és az Elba-part menti építészet ma is tanúskodik erről a gazdag tengerészeti és dán-holsteini múltról.",
+    "facts_de": [
+      "Altona war bis 1937 eine eigenständige Stadt und gehörte über 200 Jahre zum dänischen Herrschaftsgebiet.",
+      "Der Hafen Altona war der wichtigste Fischereihafen des dänischen Gesamtstaates.",
+      "Altona konkurrierte jahrhundertelang wirtschaftlich stark mit der benachbarten Hansestadt Hamburg.",
+      "Der berühmte Altonaer Fischmarkt wurde 1703 ins Leben gerufen, um den Handel an Sonntagen zu erlauben.",
+      "Durch das Groß-Hamburg-Gesetz wurde Altona samt seinem Hafen 1937 in Hamburg eingemeindet.",
+      "Heute ist das Gebiet um den ehemaligen Hafen ein beliebtes Wohn- und Ausgehviertel direkt an der Elbe."
+    ],
+    "facts_hu": [
+      "Altona 1937-ig független város volt, és több mint 200 évig a dán fennhatóság alá tartozott.",
+      "Az altonai kikötő a Dán Királyság legfontosabb halászkikötője volt.",
+      "Altona évszázadokon át erős gazdasági versenyt folytatott a szomszédos Hamburg Hanza-várossal.",
+      "A híres altonai halpiacot 1703-ban hozták létre, hogy engedélyezzék a vasárnapi kereskedelmet.",
+      "A Nagy-Hamburg törvény révén Altonát és kikötőjét 1937-ben Hamburghoz csatolták.",
+      "Ma az egykori kikötő körüli terület népszerű lakó- és szórakozónegyed közvetlenül az Elba partján."
+    ]
+  }
+}

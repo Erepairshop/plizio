@@ -1,0 +1,652 @@
+{
+  "poland": {
+    "de": [
+      { "q": "Wann ist Polen der Europäischen Union beigetreten?", "a": "Polen trat der EU am 1. Mai 2004 bei." },
+      { "q": "Was ist der längste Fluss in Polen?", "a": "Die Weichsel (Wisła) ist der längste Fluss und durchquert das ganze Land von den Beskiden bis zur Ostsee." },
+      { "q": "Welcher berühmte Astronom wurde in Toruń geboren?", "a": "Nikolaus Kopernikus, der das heliozentrische Weltbild begründete, wurde dort geboren." },
+      { "q": "Wie viele UNESCO-Welterbestätten gibt es in Polen?", "a": "Derzeit gibt es 17 UNESCO-Welterbestätten in Polen, darunter die Krakauer Altstadt und die Marienburg." }
+    ],
+    "hu": [
+      { "q": "Mikor csatlakozott Lengyelország az Európai Unióhoz?", "a": "Lengyelország 2004. május 1-jén csatlakozott az EU-hoz." },
+      { "q": "Melyik Lengyelország leghosszabb folyója?", "a": "A Visztula (Wisła) a leghosszabb folyó, amely az egész országon átfolyik a Beszkidektől a Balti-tengerig." },
+      { "q": "Melyik híres csillagász született Toruńban?", "a": "Nikolausz Kopernikusz, aki kidolgozta a heliocentrikus világképet, Toruńban született." },
+      { "q": "Hány UNESCO világörökségi helyszín található Lengyelországban?", "a": "Jelenleg 17 UNESCO világörökségi helyszín van Lengyelországban, például Krakkó óvárosa és a malborki vár." }
+    ],
+    "ro": [
+      { "q": "Când a aderat Polonia la Uniunea Europeană?", "a": "Polonia a aderat la UE pe 1 mai 2004." },
+      { "q": "Care este cel mai lung râu din Polonia?", "a": "Vistula (Wisła) este cel mai lung râu, traversând întreaga țară de la Munții Beskizi până la Marea Baltică." },
+      { "q": "Cine este celebrul astronom născut în Toruń?", "a": "Nicolaus Copernic, cel care a formulat modelul heliocentric al universului, s-a născut acolo." },
+      { "q": "Câte situri din Patrimoniul Mondial UNESCO sunt în Polonia?", "a": "În prezent, există 17 situri din Patrimoniul Mondial UNESCO în Polonia, inclusiv Centrul Vechi din Cracovia și Castelul Malbork." }
+    ],
+    "en": [
+      { "q": "When did Poland join the European Union?", "a": "Poland joined the EU on May 1, 2004." },
+      { "q": "What is the longest river in Poland?", "a": "The Vistula (Wisła) is the longest river, flowing through the entire country from the Beskids to the Baltic Sea." },
+      { "q": "Who is the famous astronomer born in Toruń?", "a": "Nicolaus Copernicus, who formulated the heliocentric model of the universe, was born there." },
+      { "q": "How many UNESCO World Heritage sites are in Poland?", "a": "There are currently 17 UNESCO World Heritage sites in Poland, including the Krakow Old Town and Malbork Castle." }
+    ]
+  },
+  "PL-MZ": {
+    "de": [
+      { "q": "Welche Stadt ist das Verwaltungszentrum von Masowien?", "a": "Warschau ist sowohl die Hauptstadt der Woiwodschaft als auch des gesamten Landes." },
+      { "q": "Wo wurde der berühmte Komponist Frédéric Chopin geboren?", "a": "Chopin wurde in Żelazowa Wola geboren, das in der Woiwodschaft Masowien liegt." },
+      { "q": "Was ist das Besondere am Kampinos-Nationalpark?", "a": "Es ist einer der wenigen Nationalparks weltweit, die direkt an eine Hauptstadt grenzen." },
+      { "q": "Welche wirtschaftliche Bedeutung hat Masowien für Polen?", "a": "Es ist die wohlhabendste Region und trägt am stärksten zum polnischen BIP bei." }
+    ],
+    "hu": [
+      { "q": "Melyik város Mazóvia közigazgatási központja?", "a": "Varsó a vajdaság és egyben az ország fővárosa is." },
+      { "q": "Hol született a híres zeneszerző, Frédéric Chopin?", "a": "Chopin a Mazóviai vajdaságban található Żelazowa Wolában született." },
+      { "q": "Mi teszi különlegessé a Kampinos Nemzeti Parkot?", "a": "Ez a világ azon kevés nemzeti parkjainak egyike, amely közvetlenül egy főváros mellett fekszik." },
+      { "q": "Mekkora Mazóvia gazdasági jelentősége Lengyelország számára?", "a": "Ez a leggazdagabb régió, amely a legnagyobb mértékben járul hozzá a lengyel GDP-hez." }
+    ],
+    "ro": [
+      { "q": "Care oraș este centrul administrativ al Mazoviei?", "a": "Varșovia este atât capitala voievodatului, cât și a întregii țări." },
+      { "q": "Unde s-a născut celebrul compozitor Frédéric Chopin?", "a": "Chopin s-a născut în Żelazowa Wola, localitate situată în voievodatul Mazovia." },
+      { "q": "Ce face special Parcul Național Kampinos?", "a": "Este unul dintre puținele parcuri naționale din lume care se învecinează direct cu o capitală." },
+      { "q": "Care este importanța economică a Mazoviei pentru Polonia?", "a": "Este cea mai bogată regiune și are cea mai mare contribuție la PIB-ul Poloniei." }
+    ],
+    "en": [
+      { "q": "Which city is the administrative center of Masovia?", "a": "Warsaw is the capital of both the voivodeship and the entire country." },
+      { "q": "Where was the famous composer Frédéric Chopin born?", "a": "Chopin was born in Żelazowa Wola, which is located in the Masovian Voivodeship." },
+      { "q": "What is unique about the Kampinos National Park?", "a": "It is one of the few national parks in the world that directly borders a capital city." },
+      { "q": "What is the economic significance of Masovia for Poland?", "a": "It is the wealthiest region and contributes the most to Poland's GDP." }
+    ]
+  },
+  "PL-MA": {
+    "de": [
+      { "q": "Welches Gebirge liegt im Süden von Kleinpolen?", "a": "Die Tatra, der höchste Teil der Karpaten, bildet die südliche Grenze der Region." },
+      { "q": "Welches berühmte UNESCO-Salzbergwerk befindet sich hier?", "a": "Das Salzbergwerk Wieliczka, eines der ältesten der Welt, liegt in der Nähe von Krakau." },
+      { "q": "Welche historische Stadt ist die Hauptstadt dieser Region?", "a": "Krakau (Kraków) ist das administrative und kulturelle Zentrum von Kleinpolen." },
+      { "q": "Gibt es in der Region wichtige Gedenkstätten?", "a": "Ja, das ehemalige deutsche NS-Konzentrationslager Auschwitz-Birkenau befindet sich hier." }
+    ],
+    "hu": [
+      { "q": "Melyik hegység található Kis-Lengyelország déli részén?", "a": "A Tátra, a Kárpátok legmagasabb része képezi a régió déli határát." },
+      { "q": "Melyik híres UNESCO sóbánya található itt?", "a": "A wieliczkai sóbánya, a világ egyik legrégebbi bányája Krakkó közelében található." },
+      { "q": "Melyik történelmi város a régió fővárosa?", "a": "Krakkó (Kraków) Kis-Lengyelország közigazgatási és kulturális központja." },
+      { "q": "Találhatók-e fontos emlékhelyek a régióban?", "a": "Igen, az egykori náci német Auschwitz-Birkenau koncentrációs tábor itt található." }
+    ],
+    "ro": [
+      { "q": "Ce munți se află în sudul Poloniei Mici?", "a": "Munții Tatra, cea mai înaltă parte a Carpaților, formează granița sudică a regiunii." },
+      { "q": "Ce celebră salină UNESCO se află aici?", "a": "Salina Wieliczka, una dintre cele mai vechi din lume, este situată lângă Cracovia." },
+      { "q": "Care oraș istoric este capitala acestei regiuni?", "a": "Cracovia (Kraków) este centrul administrativ și cultural al Poloniei Mici." },
+      { "q": "Există situri memoriale importante în regiune?", "a": "Da, fostul lagăr de concentrare nazist german Auschwitz-Birkenau se află aici." }
+    ],
+    "en": [
+      { "q": "What mountain range is located in the south of Lesser Poland?", "a": "The Tatra Mountains, the highest part of the Carpathians, form the southern border of the region." },
+      { "q": "Which famous UNESCO salt mine is found here?", "a": "The Wieliczka Salt Mine, one of the oldest in the world, is located near Krakow." },
+      { "q": "Which historic city is the capital of this region?", "a": "Krakow (Kraków) is the administrative and cultural center of Lesser Poland." },
+      { "q": "Are there any important memorial sites in the region?", "a": "Yes, the former Nazi German concentration camp Auschwitz-Birkenau is located here." }
+    ]
+  },
+  "PL-PM": {
+    "de": [
+      { "q": "Was ist die 'Dreistadt' (Trójmiasto)?", "a": "Es ist ein Ballungsraum an der Ostsee, bestehend aus Danzig, Gdingen und Zoppot." },
+      { "q": "Wo befindet sich die größte Backsteinburg der Welt?", "a": "Die Marienburg (Malbork) liegt in der Woiwodschaft Pommern." },
+      { "q": "Was sind die berühmten Wanderdünen?", "a": "Diese befinden sich im Slowinzischen Nationalpark an der Ostseeküste." },
+      { "q": "Welche Volksgruppe lebt traditionell in dieser Region?", "a": "Die Kaschuben, eine westslawische Volksgruppe mit eigener Sprache, leben hier." }
+    ],
+    "hu": [
+      { "q": "Mi az a 'Hármasváros' (Trójmiasto)?", "a": "Ez egy balti-tengeri agglomeráció, amely Gdańsk, Gdynia és Sopot városaiból áll." },
+      { "q": "Hol található a világ legnagyobb téglaépítésű vára?", "a": "A malborki vár (Marienburg) a Pomerániai vajdaságban található." },
+      { "q": "Mik azok a híres vándorló homokdűnék?", "a": "Ezek a balti-tengeri partvidéken, a Słowiński Nemzeti Parkban találhatók." },
+      { "q": "Melyik népcsoport él hagyományosan ebben a régióban?", "a": "A kaszubok, egy saját nyelvvel rendelkező nyugati szláv népcsoport él itt." }
+    ],
+    "ro": [
+      { "q": "Ce este 'Tricity' (Trójmiasto)?", "a": "Este o zonă metropolitană la Marea Baltică, formată din Gdańsk, Gdynia și Sopot." },
+      { "q": "Unde se află cel mai mare castel de cărămidă din lume?", "a": "Castelul Malbork (Marienburg) este situat în voievodatul Pomerania." },
+      { "q": "Ce sunt faimoasele dune de nisip mișcătoare?", "a": "Acestea se află în Parcul Național Słowiński, pe coasta Mării Baltice." },
+      { "q": "Ce grup etnic trăiește tradițional în această regiune?", "a": "Cașubii, un grup etnic slav de vest cu propria limbă, locuiesc aici." }
+    ],
+    "en": [
+      { "q": "What is the 'Tricity' (Trójmiasto)?", "a": "It is a metropolitan area on the Baltic Sea consisting of Gdansk, Gdynia, and Sopot." },
+      { "q": "Where is the largest brick castle in the world located?", "a": "Malbork Castle (Marienburg) is situated in the Pomeranian Voivodeship." },
+      { "q": "What are the famous shifting sand dunes?", "a": "These are located in the Slowinski National Park on the Baltic coast." },
+      { "q": "Which ethnic group traditionally lives in this region?", "a": "The Kashubians, a West Slavic ethnic group with their own language, live here." }
+    ]
+  },
+  "PL-DS": {
+    "de": [
+      { "q": "Wie heißt die Hauptstadt von Niederschlesien?", "a": "Breslau (Wrocław) ist die Hauptstadt und größte Stadt der Region." },
+      { "q": "Welches Gebirge prägt den Süden der Region?", "a": "Die Sudeten, insbesondere das Riesengebirge, liegen im Süden von Niederschlesien." },
+      { "q": "Was ist die 'Jahrhunderthalle'?", "a": "Ein UNESCO-Weltkulturerbe in Breslau, bekannt für seine frühe Stahlbetonarchitektur." },
+      { "q": "Warum ist die Region für Schlösser bekannt?", "a": "Niederschlesien hat die höchste Dichte an Burgen und Schlössern in ganz Polen." }
+    ],
+    "hu": [
+      { "q": "Hogy hívják Alsó-Szilézia fővárosát?", "a": "Wrocław (Breslau) a régió fővárosa és legnagyobb városa." },
+      { "q": "Melyik hegység határozza meg a régió déli részét?", "a": "A Szudéták, különösen az Óriás-hegység található Alsó-Szilézia déli részén." },
+      { "q": "Mi az a 'Centenáriumi Csarnok'?", "a": "Egy wrocławi UNESCO világörökségi helyszín, amely korai vasbeton építészetéről híres." },
+      { "q": "Miért híres a régió a kastélyairól?", "a": "Alsó-Sziléziában található a legtöbb vár és kastély egész Lengyelországban." }
+    ],
+    "ro": [
+      { "q": "Cum se numește capitala Sileziei Inferioare?", "a": "Wrocław (Breslau) este capitala și cel mai mare oraș al regiunii." },
+      { "q": "Ce munți domină partea de sud a regiunii?", "a": "Munții Sudeți, în special lanțul Karkonosze, se află în sudul Sileziei Inferioare." },
+      { "q": "Ce este 'Sala Centenarului'?", "a": "Un sit al Patrimoniului Mondial UNESCO din Wrocław, faimos pentru arhitectura timpurie din beton armat." },
+      { "q": "De ce este regiunea cunoscută pentru castele?", "a": "Silezia Inferioară are cea mai mare densitate de castele și palate din toată Polonia." }
+    ],
+    "en": [
+      { "q": "What is the capital of Lower Silesia?", "a": "Wroclaw (Wrocław) is the capital and largest city of the region." },
+      { "q": "Which mountain range dominates the south of the region?", "a": "The Sudetes, particularly the Karkonosze range, are in the south of Lower Silesia." },
+      { "q": "What is the 'Centennial Hall'?", "a": "A UNESCO World Heritage site in Wroclaw, famous for its early reinforced concrete architecture." },
+      { "q": "Why is the region famous for castles?", "a": "Lower Silesia has the highest density of castles and palaces in all of Poland." }
+    ]
+  },
+  "PL-WP": {
+    "de": [
+      { "q": "Was war die erste Hauptstadt Polens?", "a": "Gnesen (Gniezno) in Großpolen war die erste historische Hauptstadt Polens." },
+      { "q": "Welche Stadt ist heute die Hauptstadt von Großpolen?", "a": "Poznań (Posen) ist das administrative Zentrum der Woiwodschaft." },
+      { "q": "Was ist die Posener Messe?", "a": "Es ist die größte und wichtigste internationale Handelsmesse in Polen." },
+      { "q": "Welcher Fluss fließt durch Poznań?", "a": "Die Warthe (Warta) ist der wichtigste Fluss der Region." }
+    ],
+    "hu": [
+      { "q": "Mi volt Lengyelország első fővárosa?", "a": "Gniezno (Gnesen) Nagy-Lengyelországban volt Lengyelország első történelmi fővárosa." },
+      { "q": "Melyik város ma Nagy-Lengyelország fővárosa?", "a": "Poznań (Posen) a vajdaság közigazgatási központja." },
+      { "q": "Mi az a Poznańi Vásár?", "a": "Ez Lengyelország legnagyobb és legfontosabb nemzetközi kereskedelmi vására." },
+      { "q": "Melyik folyó folyik át Poznańon?", "a": "A Warta a régió legfontosabb folyója." }
+    ],
+    "ro": [
+      { "q": "Care a fost prima capitală a Poloniei?", "a": "Gniezno (Gnesen) din Polonia Mare a fost prima capitală istorică a Poloniei." },
+      { "q": "Care oraș este astăzi capitala Poloniei Mari?", "a": "Poznań (Posen) este centrul administrativ al voievodatului." },
+      { "q": "Ce este Târgul de la Poznań?", "a": "Este cel mai mare și mai important târg internațional din Polonia." },
+      { "q": "Ce râu curge prin Poznań?", "a": "Warta este cel mai important râu din regiune." }
+    ],
+    "en": [
+      { "q": "What was the first capital of Poland?", "a": "Gniezno (Gnesen) in Greater Poland was the first historical capital of Poland." },
+      { "q": "Which city is currently the capital of Greater Poland?", "a": "Poznań (Posen) is the administrative center of the voivodeship." },
+      { "q": "What is the Poznań Fair?", "a": "It is the largest and most important international trade fair in Poland." },
+      { "q": "Which river flows through Poznań?", "a": "The Warta River is the most significant river in the region." }
+    ]
+  },
+  "PL-SL": {
+    "de": [
+      { "q": "Welche Stadt ist die Hauptstadt der Woiwodschaft Schlesien?", "a": "Kattowitz (Katowice) ist das administrative Zentrum der Region." },
+      { "q": "Welcher bedeutende Wallfahrtsort liegt in dieser Region?", "a": "Das Kloster Jasna Góra in Tschenstochau (Częstochowa) mit der Schwarzen Madonna." },
+      { "q": "Ist die Region immer noch stark vom Bergbau geprägt?", "a": "Obwohl die Industrie zurückgeht, ist Schlesien historisch das Bergbauzentrum Polens." },
+      { "q": "Welches Gebirge liegt im Süden von Schlesien?", "a": "Die Schlesischen Beskiden sind ein beliebtes Ziel für Wanderer und Skifahrer." }
+    ],
+    "hu": [
+      { "q": "Melyik város a Sziléziai vajdaság fővárosa?", "a": "Katowice (Kattowitz) a régió közigazgatási központja." },
+      { "q": "Melyik jelentős zarándokhely található ebben a régióban?", "a": "A częstochowai Jasna Góra kolostor a Fekete Madonnával." },
+      { "q": "Még mindig erős a bányászat a régióban?", "a": "Bár az ipar visszaszorulóban van, Szilézia történelmileg Lengyelország bányászati központja." },
+      { "q": "Melyik hegység található Szilézia déli részén?", "a": "A Sziléziai-Beszkidek népszerű célpont a túrázók és síelők körében." }
+    ],
+    "ro": [
+      { "q": "Care este capitala voievodatului Silezia?", "a": "Katowice (Kattowitz) este centrul administrativ al regiunii." },
+      { "q": "Ce loc important de pelerinaj se află în această regiune?", "a": "Mănăstirea Jasna Góra din Częstochowa, care adăpostește icoana Madonei Negre." },
+      { "q": "Este regiunea încă marcată puternic de minerit?", "a": "Deși industria este în declin, Silezia este istoric centrul minier al Poloniei." },
+      { "q": "Ce munți se află în sudul Sileziei?", "a": "Beskizii Sileziei sunt o destinație populară pentru drumeții și schiori." }
+    ],
+    "en": [
+      { "q": "Which city is the capital of the Silesian Voivodeship?", "a": "Katowice (Kattowitz) is the administrative center of the region." },
+      { "q": "Which major pilgrimage site is located in this region?", "a": "The Jasna Góra Monastery in Częstochowa, home to the Black Madonna." },
+      { "q": "Is the region still heavily dominated by mining?", "a": "Although the industry is declining, Silesia is historically the mining hub of Poland." },
+      { "q": "What mountain range is in the south of Silesia?", "a": "The Silesian Beskids are a popular destination for hikers and skiers." }
+    ]
+  },
+  "PL-LD": {
+    "de": [
+      { "q": "Was ist die Hauptstadt der Woiwodschaft Łódź?", "a": "Die Stadt Łódź ist das Zentrum der Region." },
+      { "q": "Welche Industrie prägte Łódź im 19. Jahrhundert?", "a": "Łódź war das größte Zentrum der Textilindustrie in diesem Teil Europas." },
+      { "q": "Liegt die Region im Zentrum Polens?", "a": "Ja, der geografische Mittelpunkt Polens liegt in der Woiwodschaft Łódź (in Piątek)." },
+      { "q": "Wofür ist Łódź heute kulturell bekannt?", "a": "Die Stadt ist berühmt für ihre renommierte Filmhochschule und moderne Kunst." }
+    ],
+    "hu": [
+      { "q": "Mi a Łódźi vajdaság fővárosa?", "a": "Łódź városa a régió központja." },
+      { "q": "Melyik iparág határozta meg Łódźot a 19. században?", "a": "Łódź Európa ezen részének legnagyobb textilipari központja volt." },
+      { "q": "Lengyelország közepén fekszik a régió?", "a": "Igen, Lengyelország földrajzi középpontja a Łódźi vajdaságban található (Piątekben)." },
+      { "q": "Miről ismert ma kulturálisan Łódź?", "a": "A város híres neves filmművészeti főiskolájáról és a modern művészetekről." }
+    ],
+    "ro": [
+      { "q": "Care este capitala voievodatului Łódź?", "a": "Orașul Łódź este centrul regiunii." },
+      { "q": "Ce industrie a dominat orașul Łódź în secolul al XIX-lea?", "a": "Łódź a fost cel mai mare centru al industriei textile din această parte a Europei." },
+      { "q": "Este regiunea situată în centrul Poloniei?", "a": "Da, centrul geografic al Poloniei se află în voievodatul Łódź (în Piątek)." },
+      { "q": "Pentru ce este cunoscut astăzi orașul Łódź din punct de vedere cultural?", "a": "Orașul este renumit pentru școala sa de film prestigioasă și arta modernă." }
+    ],
+    "en": [
+      { "q": "What is the capital of the Łódź Voivodeship?", "a": "The city of Łódź is the center of the region." },
+      { "q": "Which industry dominated Łódź in the 19th century?", "a": "Łódź was the largest center of the textile industry in this part of Europe." },
+      { "q": "Is the region located in the center of Poland?", "a": "Yes, the geographical center of Poland is in the Łódź Voivodeship (in Piątek)." },
+      { "q": "What is Łódź known for culturally today?", "a": "The city is famous for its prestigious film school and modern art." }
+    ]
+  },
+  "PL-LU": {
+    "de": [
+      { "q": "An welche Länder grenzt die Woiwodschaft Lublin?", "a": "Die Region grenzt im Osten an die Ukraine und an Belarus." },
+      { "q": "Was ist die 'Ideale Stadt' (Zamość)?", "a": "Zamość wurde im 16. Jahrhundert als ideale Renaissance-Stadt nach italienischem Vorbild erbaut." },
+      { "q": "Welche Stadt ist die Hauptstadt der Region?", "a": "Lublin ist die größte Stadt und das administrative Zentrum." },
+      { "q": "Welches Naturgebiet ist in Lublin besonders bekannt?", "a": "Das Roztocze-Hügelland mit seinem Nationalpark ist ein Highlight der Region." }
+    ],
+    "hu": [
+      { "q": "Mely országokkal határos a Lublini vajdaság?", "a": "A régió keleten Ukrajnával és Fehéroroszországgal határos." },
+      { "q": "Mi az az 'ideális város' (Zamość)?", "a": "Zamośćot a 16. században építették ideális reneszánsz városként olasz minta alapján." },
+      { "q": "Melyik város a régió fővárosa?", "a": "Lublin a legnagyobb város és a közigazgatási központ." },
+      { "q": "Melyik természeti terület különösen ismert Lublinban?", "a": "A Roztocze-dombság és az ottani nemzeti park a régió egyik fénypontja." }
+    ],
+    "ro": [
+      { "q": "Cu ce țări se învecinează voievodatul Lublin?", "a": "Regiunea se învecinează la est cu Ucraina și Belarus." },
+      { "q": "Ce este 'Orașul Ideal' (Zamość)?", "a": "Zamość a fost construit în secolul al XVI-lea ca un oraș renascentist ideal, după model italian." },
+      { "q": "Care oraș este capitala regiunii?", "a": "Lublin este cel mai mare oraș și centrul administrativ." },
+      { "q": "Ce zonă naturală este deosebit de cunoscută în Lublin?", "a": "Dealurile Roztocze, cu parcul lor național, reprezintă un punct de atracție al regiunii." }
+    ],
+    "en": [
+      { "q": "Which countries does the Lublin Voivodeship border?", "a": "The region borders Ukraine and Belarus to the east." },
+      { "q": "What is the 'Ideal City' (Zamość)?", "a": "Zamość was built in the 16th century as an ideal Renaissance city based on Italian models." },
+      { "q": "Which city is the capital of the region?", "a": "Lublin is the largest city and the administrative center." },
+      { "q": "Which natural area is particularly famous in Lublin?", "a": "The Roztocze hills and its national park are a highlight of the region." }
+    ]
+  },
+  "PL-WN": {
+    "de": [
+      { "q": "Warum heißt die Region 'Land der Tausend Seen'?", "a": "Weil sich hier die Masurische Seenplatte mit über 2.000 Seen befindet." },
+      { "q": "Welche Stadt ist die Hauptstadt von Ermland-Masuren?", "a": "Olsztyn (Allenstein) ist das administrative Zentrum." },
+      { "q": "Was ist die 'Wolfsschanze'?", "a": "Adolf Hitlers ehemaliges militärisches Hauptquartier in Masuren während des Zweiten Weltkriegs." },
+      { "q": "Welcher große See ist der größte in Polen?", "a": "Der Spirdingsee (Śniardwy) liegt in dieser Region." }
+    ],
+    "hu": [
+      { "q": "Miért hívják a régiót az 'ezer tó vidékének'?", "a": "Mert itt található a Mazuri-tóhátság, több mint 2000 tóval." },
+      { "q": "Melyik város Warmia-Mazúria fővárosa?", "a": "Olsztyn (Allenstein) a közigazgatási központ." },
+      { "q": "Mi az a 'Farkasverem' (Wolfsschanze)?", "a": "Adolf Hitler egykori katonai főhadiszállása Mazúriában a második világháború alatt." },
+      { "q": "Melyik Lengyelország legnagyobb tava?", "a": "A Śniardwy-tó (Spirdingsee) ebben a régióban található." }
+    ],
+    "ro": [
+      { "q": "De ce se numește regiunea 'Țara celor o mie de lacuri'?", "a": "Deoarece aici se află Districtul Lacurilor Mazuriene, cu peste 2.000 de lacuri." },
+      { "q": "Care oraș este capitala regiunii Warmia-Mazuria?", "a": "Olsztyn (Allenstein) este centrul administrativ." },
+      { "q": "Ce este 'Bârlogul Lupului' (Wolfsschanze)?", "a": "Fostul cartier general militar al lui Adolf Hitler din Mazuria în timpul celui de-al Doilea Război Mondial." },
+      { "q": "Care este cel mai mare lac din Polonia?", "a": "Lacul Śniardwy (Spirdingsee) este situat în această regiune." }
+    ],
+    "en": [
+      { "q": "Why is the region called the 'Land of a Thousand Lakes'?", "a": "Because the Masurian Lake District with over 2,000 lakes is located here." },
+      { "q": "Which city is the capital of Warmia-Masuria?", "a": "Olsztyn (Allenstein) is the administrative center." },
+      { "q": "What is the 'Wolf's Lair' (Wolfsschanze)?", "a": "Adolf Hitler's former military headquarters in Masuria during World War II." },
+      { "q": "Which large lake is the largest in Poland?", "a": "Lake Śniardwy (Spirdingsee) is located in this region." }
+    ]
+  },
+  "PL-ZP": {
+    "de": [
+      { "q": "Welche große Hafenstadt ist die Hauptstadt der Region?", "a": "Stettin (Szczecin) ist die Hauptstadt und ein bedeutender Seehafen." },
+      { "q": "Welche bekannte Insel liegt in Westpommern?", "a": "Die Insel Wollin (Wolin) mit ihrem Nationalpark liegt hier." },
+      { "q": "Gibt es beliebte Badeorte in dieser Region?", "a": "Ja, Swinemünde (Świnoujście) und Kolberg (Kołobrzeg) sind sehr bekannte Kurorte." },
+      { "q": "An welches Land grenzt die Region im Westen?", "a": "Westpommern teilt eine lange Grenze mit Deutschland." }
+    ],
+    "hu": [
+      { "q": "Melyik nagy kikötőváros a régió fővárosa?", "a": "Szczecin (Stettin) a főváros és egy jelentős tengeri kikötő." },
+      { "q": "Melyik ismert sziget található Nyugat-Pomerániában?", "a": "Wolin (Wollin) szigete a nemzeti parkjával itt található." },
+      { "q": "Vannak népszerű fürdőhelyek ebben a régióban?", "a": "Igen, Świnoujście (Swinemünde) és Kołobrzeg (Kolberg) nagyon ismert üdülőhelyek." },
+      { "q": "Melyik országgal határos a régió nyugaton?", "a": "Nyugat-Pomeránia hosszú határon osztozik Németországgal." }
+    ],
+    "ro": [
+      { "q": "Care oraș portuar mare este capitala regiunii?", "a": "Szczecin (Stettin) este capitala și un port maritim major." },
+      { "q": "Ce insulă cunoscută se află în Pomerania Occidentală?", "a": "Insula Wolin (Wollin), cu parcul său național, este situată aici." },
+      { "q": "Există stațiuni balneare populare în această regiune?", "a": "Da, Świnoujście (Swinemünde) și Kołobrzeg (Kolberg) sunt stațiuni foarte cunoscute." },
+      { "q": "Cu ce țară se învecinează regiunea la vest?", "a": "Pomerania Occidentală împarte o graniță lungă cu Germania." }
+    ],
+    "en": [
+      { "q": "Which large port city is the capital of the region?", "a": "Szczecin (Stettin) is the capital and a major seaport." },
+      { "q": "Which well-known island is located in West Pomerania?", "a": "Wolin Island (Wollin) with its national park is located here." },
+      { "q": "Are there popular seaside resorts in this region?", "a": "Yes, Swinoujscie (Świnoujście) and Kolobrzeg (Kołobrzeg) are very well-known resorts." },
+      { "q": "Which country does the region border to the west?", "a": "West Pomerania shares a long border with Germany." }
+    ]
+  },
+  "PL-PD": {
+    "de": [
+      { "q": "Was ist der Białowieża-Urwald?", "a": "Eines der letzten Gebiete des europäischen Urwalds, Heimat des Wisents." },
+      { "q": "Welche Stadt ist das administrative Zentrum von Podlachien?", "a": "Białystok ist die Hauptstadt der Region." },
+      { "q": "Warum wird die Region 'Grüne Lunge Polens' genannt?", "a": "Wegen ihrer riesigen Wälder und der unberührten Naturlandschaft." },
+      { "q": "Welche multikulturellen Einflüsse gibt es hier?", "a": "Hier leben Minderheiten wie Tataren, Belarussen und Litauer." }
+    ],
+    "hu": [
+      { "q": "Mi az a Białowieża-erdő?", "a": "Az európai őserdő egyik utolsó területe, az európai bölény otthona." },
+      { "q": "Melyik város Podlasie közigazgatási központja?", "a": "Białystok a régió fővárosa." },
+      { "q": "Miért nevezik a régiót 'Lengyelország zöld tüdejének'?", "a": "Hatalmas erdői és érintetlen természeti tájai miatt." },
+      { "q": "Milyen multikulturális hatások találhatók itt?", "a": "Olyan kisebbségek élnek itt, mint a tatárok, fehéroroszok és litvánok." }
+    ],
+    "ro": [
+      { "q": "Ce este Pădurea Białowieża?", "a": "Una dintre ultimele zone ale pădurii primordiale europene, casa zimbrului." },
+      { "q": "Care oraș este centrul administrativ al Podlasiei?", "a": "Białystok este capitala regiunii." },
+      { "q": "De ce este numită regiunea 'Plămânul Verde al Poloniei'?", "a": "Datorită pădurilor sale imense și peisajului natural neatins." },
+      { "q": "Ce influențe multiculturale există aici?", "a": "Aici trăiesc minorități precum tătarii, belarușii și lituanienii." }
+    ],
+    "en": [
+      { "q": "What is the Białowieża Forest?", "a": "One of the last remnants of the European primeval forest, home to the European bison." },
+      { "q": "Which city is the administrative center of Podlaskie?", "a": "Białystok is the capital of the region." },
+      { "q": "Why is the region called 'Green Lungs of Poland'?", "a": "Due to its vast forests and untouched natural landscape." },
+      { "q": "What multicultural influences are found here?", "a": "Minorities such as Tatars, Belarusians, and Lithuanians live here." }
+    ]
+  },
+  "PL-PK": {
+    "de": [
+      { "q": "Welches wilde Gebirge liegt in dieser Region?", "a": "Die Bieszczady, bekannt für ihre einsamen Wanderwege und Buchenwälder." },
+      { "q": "Welche Stadt ist die Hauptstadt des Karpatenvorlands?", "a": "Rzeszów ist die größte Stadt und Hauptstadt der Woiwodschaft." },
+      { "q": "Was ist das 'Aviation Valley'?", "a": "Ein Zentrum der Luftfahrtindustrie in Südostpolen, rund um Rzeszów." },
+      { "q": "Gibt es UNESCO-Weltkulturerbe in dieser Region?", "a": "Ja, mehrere hölzerne Kirchen der Karpatenregion stehen auf der Liste." }
+    ],
+    "hu": [
+      { "q": "Melyik vadregényes hegység található ebben a régióban?", "a": "A Bieszczady, amely elhagyatott túraútvonalairól és bükkerdőiről ismert." },
+      { "q": "Melyik város a Kárpátaljai vajdaság fővárosa?", "a": "Rzeszów a vajdaság legnagyobb városa és fővárosa." },
+      { "q": "Mi az a 'Repülési Völgy' (Aviation Valley)?", "a": "A repülőgépipar központja Délkelet-Lengyelországban, Rzeszów környékén." },
+      { "q": "Van-e UNESCO világörökségi helyszín ebben a régióban?", "a": "Igen, a Kárpátok régiójának több fatemploma is szerepel a listán." }
+    ],
+    "ro": [
+      { "q": "Ce munți sălbatici se află în această regiune?", "a": "Munții Bieszczady, cunoscuți pentru traseele lor solitare și pădurile de fag." },
+      { "q": "Care oraș este capitala Subcarpatiei?", "a": "Rzeszów este cel mai mare oraș și capitala voievodatului." },
+      { "q": "Ce este 'Valea Aviației' (Aviation Valley)?", "a": "Un centru al industriei aeronautice din sud-estul Poloniei, în jurul orașului Rzeszów." },
+      { "q": "Există situri din Patrimoniul Mondial UNESCO în această regiune?", "a": "Da, mai multe biserici de lemn din regiunea Carpaților sunt incluse pe listă." }
+    ],
+    "en": [
+      { "q": "What wild mountain range is located in this region?", "a": "The Bieszczady Mountains, known for their remote trails and beech forests." },
+      { "q": "Which city is the capital of Subcarpathia?", "a": "Rzeszów is the largest city and capital of the voivodeship." },
+      { "q": "What is the 'Aviation Valley'?", "a": "A center of the aerospace industry in southeastern Poland, located around Rzeszów." },
+      { "q": "Is there a UNESCO World Heritage site in this region?", "a": "Yes, several wooden churches of the Carpathian region are on the list." }
+    ]
+  },
+  "PL-KP": {
+    "de": [
+      { "q": "Welche zwei Städte teilen sich die Hauptstadtfunktion?", "a": "Bydgoszcz (Sitz des Woiwoden) und Toruń (Sitz des Regionalparlaments)." },
+      { "q": "Wer ist der berühmteste Sohn der Stadt Toruń?", "a": "Nikolaus Kopernikus, der berühmte Astronom, wurde hier geboren." },
+      { "q": "Für welche Spezialität ist Toruń weltweit bekannt?", "a": "Für den traditionellen Lebkuchen (pierniki toruńskie)." },
+      { "q": "Welcher Fluss fließt durch beide Hauptstädte?", "a": "Die Weichsel (Wisła) ist die Lebensader der Region." }
+    ],
+    "hu": [
+      { "q": "Melyik két város osztozik a fővárosi funkciókon?", "a": "Bydgoszcz (a vajda székhelye) és Toruń (a regionális parlament székhelye)." },
+      { "q": "Ki Toruń városának leghíresebb szülötte?", "a": "Nikolausz Kopernikusz, a híres csillagász itt született." },
+      { "q": "Melyik különlegességéről híres világszerte Toruń?", "a": "A hagyományos mézeskalácsról (pierniki toruńskie)." },
+      { "q": "Melyik folyó folyik át mindkét fővároson?", "a": "A Visztula (Wisła) a régió éltető ereje." }
+    ],
+    "ro": [
+      { "q": "Care două orașe împart funcția de capitală?", "a": "Bydgoszcz (sediul voievodului) și Toruń (sediul parlamentului regional)." },
+      { "q": "Cine este cel mai faimos fiu al orașului Toruń?", "a": "Nicolaus Copernic, celebrul astronom, s-a născut aici." },
+      { "q": "Pentru ce specialitate este cunoscut Toruń în întreaga lume?", "a": "Pentru turta dulce tradițională (pierniki toruńskie)." },
+      { "q": "Ce râu curge prin ambele capitale?", "a": "Vistula (Wisła) este artera principală a regiunii." }
+    ],
+    "en": [
+      { "q": "Which two cities share the capital functions?", "a": "Bydgoszcz (seat of the voivode) and Toruń (seat of the regional assembly)." },
+      { "q": "Who is the most famous person born in Toruń?", "a": "Nicolaus Copernicus, the famous astronomer, was born here." },
+      { "q": "What specialty is Toruń world-famous for?", "a": "For its traditional gingerbread (pierniki toruńskie)." },
+      { "q": "Which river flows through both capitals?", "a": "The Vistula River is the lifeblood of the region." }
+    ]
+  },
+  "PL-SK": {
+    "de": [
+      { "q": "Wie heißt die Hauptstadt der Woiwodschaft Heiligkreuz?", "a": "Kielce ist das administrative Zentrum der Region." },
+      { "q": "Was sind die Heiligkreuzberge?", "a": "Es ist eines der ältesten Gebirge Europas, das der Region ihren Namen gibt." },
+      { "q": "Welche beeindruckende Schlossruine befindet sich in Ujazd?", "a": "Die Ruine des Schlosses Krzyżtopór, das einst der größte Palast Europas war." },
+      { "q": "Was ist Krzemionki?", "a": "Ein UNESCO-Weltkulturerbe mit prähistorischen Feuersteinminen." }
+    ],
+    "hu": [
+      { "q": "Mi a Szentkereszt vajdaság fővárosa?", "a": "Kielce a régió közigazgatási központja." },
+      { "q": "Mik azok a Szentkereszt-hegyek?", "a": "Európa egyik legrégebbi hegysége, amelyről a régió a nevét kapta." },
+      { "q": "Melyik lenyűgöző várrom található Ujazdban?", "a": "A Krzyżtopór vár romja, amely egykor Európa legnagyobb palotája volt." },
+      { "q": "Mi az a Krzemionki?", "a": "Egy UNESCO világörökségi helyszín őskori kovakőbányákkal." }
+    ],
+    "ro": [
+      { "q": "Care este capitala voievodatului Sfânta Cruce?", "a": "Kielce este centrul administrativ al regiunii." },
+      { "q": "Ce sunt Munții Sfânta Cruce?", "a": "Sunt unii dintre cei mai vechi munți din Europa, care dau numele regiunii." },
+      { "q": "Ce ruină impresionantă de castel se află în Ujazd?", "a": "Ruinele Castelului Krzyżtopór, care a fost cândva cel mai mare palat din Europa." },
+      { "q": "Ce este Krzemionki?", "a": "Un sit al Patrimoniului Mondial UNESCO cu mine de silex preistorice." }
+    ],
+    "en": [
+      { "q": "What is the capital of the Świętokrzyskie Voivodeship?", "a": "Kielce is the administrative center of the region." },
+      { "q": "What are the Holy Cross Mountains?", "a": "They are among the oldest mountains in Europe and give the region its name." },
+      { "q": "What impressive castle ruin is located in Ujazd?", "a": "The ruins of Krzyżtopór Castle, which was once the largest palace in Europe." },
+      { "q": "What is Krzemionki?", "a": "A UNESCO World Heritage site featuring prehistoric flint mines." }
+    ]
+  },
+  "PL-LB": {
+    "de": [
+      { "q": "Warum ist die Region Lebus für Naturfreunde interessant?", "a": "Es ist die am stärksten bewaldete Woiwodschaft in ganz Polen." },
+      { "q": "Welche zwei Städte teilen sich die Hauptstadtfunktion?", "a": "Gorzów Wielkopolski (Sitz des Woiwoden) und Zielona Góra (Sitz des Marschalls)." },
+      { "q": "Ist die Region für den Weinbau bekannt?", "a": "Ja, Zielona Góra ist das nördlichste traditionsreiche Weinbaugebiet Polens." },
+      { "q": "Welcher Nationalpark liegt an der Mündung der Warthe?", "a": "Der Nationalpark Ujście Warty, ein Paradies für Vogelbeobachter." }
+    ],
+    "hu": [
+      { "q": "Miért érdekes a Lubusi régió a természetbarátok számára?", "a": "Ez Lengyelország legerdősebb vajdasága." },
+      { "q": "Melyik két város osztozik a fővárosi funkciókon?", "a": "Gorzów Wielkopolski (a vajda székhelye) és Zielona Góra (a marsall székhelye)." },
+      { "q": "Ismert-e a régió a bortermeléséről?", "a": "Igen, Zielona Góra Lengyelország legészakibb, hagyományokkal rendelkező borvidéke." },
+      { "q": "Melyik nemzeti park található a Warta torkolatánál?", "a": "Az Ujście Warty Nemzeti Park, amely a madármegfigyelők paradicsoma." }
+    ],
+    "ro": [
+      { "q": "De ce este regiunea Lubusz interesantă pentru iubitorii de natură?", "a": "Este cel mai împădurit voievodat din întreaga Polonie." },
+      { "q": "Care două orașe împart funcția de capitală?", "a": "Gorzów Wielkopolski (sediul voievodului) și Zielona Góra (sediul mareșalului)." },
+      { "q": "Este regiunea cunoscută pentru viticultură?", "a": "Da, Zielona Góra este cea mai nordică regiune viticolă tradițională din Polonia." },
+      { "q": "Ce parc național se află la gura de vărsare a râului Warta?", "a": "Parcul Național Ujście Warty, un paradis pentru observatorii de păsări." }
+    ],
+    "en": [
+      { "q": "Which region is interesting for nature lovers?", "a": "It is the most forested voivodeship in all of Poland." },
+      { "q": "Which two cities share the capital functions?", "a": "Gorzów Wielkopolski (seat of the voivode) and Zielona Góra (seat of the marshal)." },
+      { "q": "Is the region known for winemaking?", "a": "Yes, Zielona Góra is the northernmost traditional wine-growing region in Poland." },
+      { "q": "Which national park is located at the mouth of the Warta River?", "a": "The Ujście Warty National Park, a paradise for birdwatchers." }
+    ]
+  },
+  "PL-OP": {
+    "de": [
+      { "q": "Ist Oppeln die kleinste Woiwodschaft Polens?", "a": "Ja, sowohl flächenmäßig als auch nach der Einwohnerzahl ist sie die kleinste." },
+      { "q": "Welche kulturelle Besonderheit gibt es in dieser Region?", "a": "Hier lebt die größte deutsche Minderheit in Polen, was sich in zweisprachigen Schildern zeigt." },
+      { "q": "Wofür ist die Stadt Oppeln landesweit bekannt?", "a": "Für das jährliche Festival des polnischen Liedes (Krajowy Festiwal Piosenki Polskiej)." },
+      { "q": "Gibt es in der Region märchenhafte Schlösser?", "a": "Ja, das Schloss Moszna ist berühmt für seine 99 Türme und 365 Zimmer." }
+    ],
+    "hu": [
+      { "q": "Opole Lengyelország legkisebb vajdasága?", "a": "Igen, területét és lakosságát tekintve is ez a legkisebb." },
+      { "q": "Milyen kulturális sajátosság jellemzi ezt a régiót?", "a": "Itt él Lengyelország legnagyobb német kisebbsége, ami a kétnyelvű táblákon is látszik." },
+      { "q": "Miről ismert Opole városa országszerte?", "a": "Az évente megrendezett lengyel dalfesztiválról (Krajowy Festiwal Piosenki Polskiej)." },
+      { "q": "Vannak-e mesebeli kastélyok a régióban?", "a": "Igen, a mosznai kastély híres a 99 tornyáról és 365 szobájáról." }
+    ],
+    "ro": [
+      { "q": "Este Opole cel mai mic voievodat al Poloniei?", "a": "Da, este cel mai mic atât ca suprafață, cât și ca număr de locuitori." },
+      { "q": "Ce particularitate culturală există în această regiune?", "a": "Aici trăiește cea mai mare minoritate germană din Polonia, fapt reflectat în indicatoarele bilingve." },
+      { "q": "Pentru ce este cunoscut orașul Opole la nivel național?", "a": "Pentru festivalul anual al cântecului polonez (Krajowy Festiwal Piosenki Polskiej)." },
+      { "q": "Există castele de basm în regiune?", "a": "Da, Castelul Moszna este renumit pentru cele 99 de turnuri și 365 de camere ale sale." }
+    ],
+    "en": [
+      { "q": "Is Opole the smallest voivodeship in Poland?", "a": "Yes, it is the smallest both in terms of area and population." },
+      { "q": "What cultural peculiarity is found in this region?", "a": "It is home to the largest German minority in Poland, visible in bilingual signs." },
+      { "q": "What is the city of Opole known for nationwide?", "a": "For the annual National Festival of Polish Song." },
+      { "q": "Are there any fairy-tale castles in the region?", "a": "Yes, Moszna Castle is famous for its 99 towers and 365 rooms." }
+    ]
+  },
+  "warsaw": {
+    "de": [
+      { "q": "Warum wird Warschau die 'Phönix-Stadt' genannt?", "a": "Weil sie nach der fast vollständigen Zerstörung im Zweiten Weltkrieg wiederaufgebaut wurde." },
+      { "q": "Welches Denkmal ist das Symbol der Stadt?", "a": "Die Seejungfer (Syrenka), die sich auch im Stadtwappen befindet." },
+      { "q": "Was ist das höchste Gebäude in Warschau?", "a": "Der Varso Tower ist derzeit das höchste Gebäude in Polen und der EU." },
+      { "q": "Welcher berühmte Musiker verbrachte seine Jugend hier?", "a": "Frédéric Chopin wuchs in Warschau auf und sein Herz ist in einer hiesigen Kirche bestattet." }
+    ],
+    "hu": [
+      { "q": "Miért nevezik Varsót 'Főnix-városnak'?", "a": "Mert a második világháború utáni szinte teljes pusztulásból építették újjá." },
+      { "q": "Melyik emlékmű a város jelképe?", "a": "A hableány (Syrenka), amely a város címerében is szerepel." },
+      { "q": "Melyik Varsó legmagasabb épülete?", "a": "A Varso Tower jelenleg Lengyelország és az EU legmagasabb épülete." },
+      { "q": "Melyik híres zenész töltötte itt az ifjúkorát?", "a": "Frédéric Chopin Varsóban nőtt fel, és szívét az egyik helyi templomban őrzik." }
+    ],
+    "ro": [
+      { "q": "De ce este Varșovia numită 'Orașul Phoenix'?", "a": "Deoarece a fost reconstruită după distrugerea aproape totală din al Doilea Război Mondial." },
+      { "q": "Ce monument este simbolul orașului?", "a": "Sirena (Syrenka), care se află și pe stema orașului." },
+      { "q": "Care este cea mai înaltă clădire din Varșovia?", "a": "Varso Tower este în prezent cea mai înaltă clădire din Polonia și din UE." },
+      { "q": "Ce muzician celebru și-a petrecut tinerețea aici?", "a": "Frédéric Chopin a crescut în Varșovia, iar inima sa este depusă într-o biserică din oraș." }
+    ],
+    "en": [
+      { "q": "Why is Warsaw called the 'Phoenix City'?", "a": "Because it was rebuilt after being almost completely destroyed during World War II." },
+      { "q": "Which monument is the symbol of the city?", "a": "The Mermaid (Syrenka), which is also featured on the city's coat of arms." },
+      { "q": "What is the tallest building in Warsaw?", "a": "The Varso Tower is currently the tallest building in Poland and the EU." },
+      { "q": "Which famous musician spent his youth here?", "a": "Frédéric Chopin grew up in Warsaw, and his heart is interred in a local church." }
+    ]
+  },
+  "krakow": {
+    "de": [
+      { "q": "War Krakau früher die Hauptstadt Polens?", "a": "Ja, bis 1596 war Krakau die offizielle Hauptstadt und Residenz der Könige." },
+      { "q": "Was ist der Hejnał?", "a": "Ein Trompetensignal, das jede Stunde vom Turm der Marienkirche gespielt und abrupt abgebrochen wird." },
+      { "q": "Welches Viertel ist für sein jüdisches Erbe bekannt?", "a": "Kazimierz, das heute ein Zentrum für Kultur und Nachtleben ist." },
+      { "q": "Welche Universität ist die älteste in Polen?", "a": "Die Jagiellonen-Universität in Krakau wurde bereits 1364 gegründet." }
+    ],
+    "hu": [
+      { "q": "Krakkó volt valaha Lengyelország fővárosa?", "a": "Igen, 1596-ig Krakkó volt a hivatalos főváros és a királyok székhelye." },
+      { "q": "Mi az a Hejnał?", "a": "Egy trombitajel, amelyet óránként játszanak a Mária-templom tornyából, és hirtelen szakad meg." },
+      { "q": "Melyik negyed ismert a zsidó örökségéről?", "a": "Kazimierz, amely ma a kultúra és az éjszakai élet központja." },
+      { "q": "Melyik Lengyelország legrégebbi egyeteme?", "a": "A krakkói Jagielló Egyetemet már 1364-ben megalapították." }
+    ],
+    "ro": [
+      { "q": "A fost Cracovia capitala Poloniei în trecut?", "a": "Da, până în 1596, Cracovia a fost capitala oficială și reședința regilor." },
+      { "q": "Ce este Hejnał?", "a": "Un semnal de trompetă redat la fiecare oră din turnul Bisericii Sf. Maria, care se oprește brusc." },
+      { "q": "Ce cartier este cunoscut pentru moștenirea sa evreiască?", "a": "Kazimierz, care astăzi este un centru cultural și al vieții de noapte." },
+      { "q": "Care este cea mai veche universitate din Polonia?", "a": "Universitatea Jagielloniană din Cracovia a fost fondată încă din 1364." }
+    ],
+    "en": [
+      { "q": "Was Krakow formerly the capital of Poland?", "a": "Yes, until 1596, Krakow was the official capital and royal residence." },
+      { "q": "What is the Hejnał?", "a": "A trumpet signal played every hour from the tower of St. Mary's Basilica that breaks off abruptly." },
+      { "q": "Which district is known for its Jewish heritage?", "a": "Kazimierz, which is now a hub for culture and nightlife." },
+      { "q": "Which university is the oldest in Poland?", "a": "The Jagiellonian University in Krakow was founded as early as 1364." }
+    ]
+  },
+  "wroclaw": {
+    "de": [
+      { "q": "Warum wird Breslau die 'Stadt der Zwerge' genannt?", "a": "Über 600 kleine Bronzestatuen von Zwergen sind über die ganze Stadt verteilt." },
+      { "q": "Was ist Ostrów Tumski?", "a": "Die Dominsel ist der älteste Teil der Stadt und war einst eine echte Insel." },
+      { "q": "Welche Besonderheit hat das Rathaus am Marktplatz?", "a": "Es ist eines der prächtigsten gotischen Rathäuser in Mitteleuropa." },
+      { "q": "Gibt es in Breslau viele Brücken?", "a": "Ja, mit über 100 Brücken wird es oft als das 'Venedig Polens' bezeichnet." }
+    ],
+    "hu": [
+      { "q": "Miért nevezik Wrocławot a 'törpék városának'?", "a": "Több mint 600 kis bronz törpeszobor található városszerte." },
+      { "q": "Mi az az Ostrów Tumski?", "a": "A Székesegyház-sziget a város legrégebbi része, amely egykor valódi sziget volt." },
+      { "q": "Mi a különlegessége a piactéren álló városházának?", "a": "Ez Közép-Európa egyik legpompásabb gótikus városházája." },
+      { "q": "Sok híd van Wrocławban?", "a": "Igen, több mint 100 hídjával gyakran nevezik 'Lengyelország Velencéjének'." }
+    ],
+    "ro": [
+      { "q": "De ce este Wrocław numit 'orașul piticilor'?", "a": "Peste 600 de mici statui de bronz reprezentând pitici sunt răspândite prin tot orașul." },
+      { "q": "Ce este Ostrów Tumski?", "a": "Insula Catedralei este cea mai veche parte a orașului și a fost cândva o insulă reală." },
+      { "q": "Ce este special la primăria din piața centrală?", "a": "Este una dintre cele mai magnifice primării gotice din Europa Centrală." },
+      { "q": "Există multe poduri în Wrocław?", "a": "Da, cu peste 100 de poduri, este adesea numit 'Veneția Poloniei'." }
+    ],
+    "en": [
+      { "q": "Why is Wroclaw called the 'city of dwarves'?", "a": "Over 600 small bronze dwarf statues are scattered throughout the city." },
+      { "q": "What is Ostrów Tumski?", "a": "Cathedral Island is the oldest part of the city and was once a real island." },
+      { "q": "What is special about the Town Hall on the market square?", "a": "It is one of the most magnificent Gothic town halls in Central Europe." },
+      { "q": "Are there many bridges in Wroclaw?", "a": "Yes, with over 100 bridges, it is often called the 'Venice of Poland'." }
+    ]
+  },
+  "gdansk": {
+    "de": [
+      { "q": "Warum wird Danzig die 'Bernsteinstadt' genannt?", "a": "Die Stadt ist das weltweite Zentrum für die Verarbeitung und den Handel mit Bernstein." },
+      { "q": "Welches Ereignis fand 1939 auf der Westerplatte statt?", "a": "Dort fielen die ersten Schüsse des Zweiten Weltkriegs." },
+      { "q": "Was ist das Krantor?", "a": "Ein mittelalterlicher Hafenkran, der heute das bekannteste Wahrzeichen von Danzig ist." },
+      { "q": "Was war die Solidarność?", "a": "Die Gewerkschaftsbewegung, die in der Danziger Werft begann und zum Ende des Kommunismus beitrug." }
+    ],
+    "hu": [
+      { "q": "Miért nevezik Gdańskot a 'borostyán városának'?", "a": "A város a borostyán megmunkálásának és kereskedelmének világközpontja." },
+      { "q": "Milyen esemény történt 1939-ben a Westerplattén?", "a": "Ott dördültek el a második világháború első lövései." },
+      { "q": "Mi az a Daru (Żuraw)?", "a": "Egy középkori kikötői daru, amely ma Gdańsk legismertebb jelképe." },
+      { "q": "Mi volt a Szolidaritás (Solidarność)?", "a": "A gdański hajógyárban indult szakszervezeti mozgalom, amely hozzájárult a kommunizmus bukásához." }
+    ],
+    "ro": [
+      { "q": "De ce este Gdańsk numit 'orașul chihlimbarului'?", "a": "Orașul este centrul mondial pentru prelucrarea și comerțul cu chihlimbar." },
+      { "q": "Ce eveniment a avut loc în 1939 la Westerplatte?", "a": "Acolo s-au tras primele focuri de armă ale celui de-al Doilea Război Mondial." },
+      { "q": "Ce este Macaraua (Żuraw)?", "a": "O macara portuară medievală, care este astăzi cel mai cunoscut simbol al orașului Gdańsk." },
+      { "q": "Ce a fost Solidaritatea (Solidarność)?", "a": "Mișcarea sindicală începută în Șantierul Naval din Gdańsk, care a contribuit la căderea comunismului." }
+    ],
+    "en": [
+      { "q": "Why is Gdansk called the 'Amber City'?", "a": "The city is the global center for amber processing and trade." },
+      { "q": "What event took place at Westerplatte in 1939?", "a": "The first shots of World War II were fired there." },
+      { "q": "What is the Crane (Żuraw)?", "a": "A medieval port crane that is now the most famous landmark of Gdansk." },
+      { "q": "What was Solidarity (Solidarność)?", "a": "The trade union movement that began in the Gdansk Shipyard and helped end communism." }
+    ]
+  },
+  "poznan": {
+    "de": [
+      { "q": "Was passiert jeden Mittag am Posener Rathaus?", "a": "Zwei mechanische Ziegenböcke erscheinen und stoßen ihre Köpfe zusammen." },
+      { "q": "Was ist ein St.-Martins-Hörnchen?", "a": "Ein traditionelles süßes Gebäck mit Mohnfüllung, das typisch für Poznań ist." },
+      { "q": "Wo liegt die älteste Kathedrale Polens?", "a": "Die Kathedrale von Poznań auf der Insel Ostrów Tumski ist die älteste des Landes." },
+      { "q": "Ist Poznań ein wichtiges Handelszentrum?", "a": "Ja, die Stadt ist berühmt für ihre internationalen Messen, die seit 1921 stattfinden." }
+    ],
+    "hu": [
+      { "q": "Mi történik minden délben a poznańi városházánál?", "a": "Két mechanikus kecskebak jelenik meg, és összeütik a fejüket." },
+      { "q": "Mi az a Szent Márton-kifli?", "a": "Egy hagyományos, mákkal töltött édes sütemény, amely Poznańra jellemző." },
+      { "q": "Hol található Lengyelország legrégebbi katedrálisa?", "a": "A poznańi katedrális az Ostrów Tumski szigeten az ország legrégebbi székesegyháza." },
+      { "q": "Fontos kereskedelmi központ Poznań?", "a": "Igen, a város híres nemzetközi vásárairól, amelyeket 1921 óta rendeznek meg." }
+    ],
+    "ro": [
+      { "q": "Ce se întâmplă în fiecare zi la prânz la primăria din Poznań?", "a": "Apar doi țapi mecanici care se lovesc cap în cap." },
+      { "q": "Ce este un corn de Sfântul Martin?", "a": "Un produs de patiserie dulce tradițional cu umplutură de mac, tipic pentru Poznań." },
+      { "q": "Unde se află cea mai veche catedrală din Polonia?", "a": "Catedrala din Poznań, de pe insula Ostrów Tumski, este cea mai veche din țară." },
+      { "q": "Este Poznań un centru comercial important?", "a": "Da, orașul este faimos pentru târgurile sale internaționale, organizate din 1921." }
+    ],
+    "en": [
+      { "q": "What happens every day at noon at the Poznan Town Hall?", "a": "Two mechanical goats appear and butt heads together." },
+      { "q": "What is a St. Martin's Croissant?", "a": "A traditional sweet pastry filled with white poppy seeds, typical of Poznań." },
+      { "q": "Where is the oldest cathedral in Poland located?", "a": "The Poznań Cathedral on Ostrów Tumski island is the oldest in the country." },
+      { "q": "Is Poznań an important center for trade?", "a": "Yes, the city is famous for its international trade fairs, held since 1921." }
+    ]
+  },
+  "szcczecin": {
+    "de": [
+      { "q": "Welches berühmte Schloss steht in Stettin?", "a": "Das Schloss der Pommerschen Herzöge, einst Sitz der Greifen-Dynastie." },
+      { "q": "Was ist die Hakenterrasse?", "a": "Eine prächtige Aussichtsterrasse an der Oder, heute Wały Chrobrego genannt." },
+      { "q": "Warum wird der Stadtplan mit Paris verglichen?", "a": "Wegen der sternförmigen Plätze und der strahlenförmigen Straßenführung." },
+      { "q": "Ist Stettin eine Hafenstadt?", "a": "Ja, es ist einer der größten Seehäfen an der Ostsee, obwohl es im Binnenland an der Oder liegt." }
+    ],
+    "hu": [
+      { "q": "Melyik híres kastély áll Szczecinben?", "a": "A Pomerániai Hercegek Kastélya, amely egykor a Griff-dinasztia székhelye volt." },
+      { "q": "Mi az a Hakenterrasse?", "a": "Egy pompás kilátóterasz az Odera partján, mai neve Wały Chrobrego." },
+      { "q": "Miért hasonlítják a városszerkezetet Párizshoz?", "a": "A csillag alakú terek és a sugárirányú utcahálózat miatt." },
+      { "q": "Kikötőváros Szczecin?", "a": "Igen, a Balti-tenger egyik legnagyobb kikötője, bár az Odera folyó mentén, beljebb fekszik." }
+    ],
+    "ro": [
+      { "q": "Ce castel faimos se află în Szczecin?", "a": "Castelul Ducilor de Pomerania, fosta reședință a dinastiei Griffin." },
+      { "q": "Ce este Hakenterrasse?", "a": "O terasă panoramică magnifică pe malul Oderului, numită astăzi Wały Chrobrego." },
+      { "q": "De ce este planul orașului comparat cu cel al Parisului?", "a": "Datorită piețelor în formă de stea și dispunerii radiale a străzilor." },
+      { "q": "Este Szczecin un oraș portuar?", "a": "Da, este unul dintre cele mai mari porturi maritime de la Marea Baltică, deși se află pe râul Oder, în interior." }
+    ],
+    "en": [
+      { "q": "What famous castle is located in Szczecin?", "a": "The Castle of the Pomeranian Dukes, once the seat of the Griffin dynasty." },
+      { "q": "What is the Haken Terrace?", "a": "A magnificent observation terrace on the Oder River, now called Wały Chrobrego." },
+      { "q": "Why is the city's layout compared to Paris?", "a": "Because of its star-shaped plazas and radial street pattern." },
+      { "q": "Is Szczecin a port city?", "a": "Yes, it is one of the largest seaports on the Baltic Sea, although located inland on the Oder River." }
+    ]
+  },
+  "lodz-city": {
+    "de": [
+      { "q": "Was ist die Ulica Piotrkowska?", "a": "Es ist die Hauptstraße von Łódź und eine der längsten Einkaufsstraßen Europas." },
+      { "q": "Warum heißt Łódź 'Hollyłódź'?", "a": "Wegen seiner berühmten Filmhochschule, an der Regisseure wie Roman Polański studierten." },
+      { "q": "Was ist die 'Manufaktura'?", "a": "Ein riesiges Einkaufs- und Kulturzentrum in einer ehemaligen Backsteinfabrik." },
+      { "q": "Hatte Łódź eine bedeutende jüdische Geschichte?", "a": "Ja, vor dem Krieg war sie ein Zentrum jüdischen Lebens mit dem heute größten jüdischen Friedhof Europas." }
+    ],
+    "hu": [
+      { "q": "Mi az az Ulica Piotrkowska?", "a": "Ez Łódź főutcája és Európa egyik leghosszabb bevásárlóutcája." },
+      { "q": "Miért hívják Łódźot 'Hollyłódź'-nak?", "a": "Híres filmművészeti főiskolája miatt, ahol olyan rendezők tanultak, mint Roman Polański." },
+      { "q": "Mi az a 'Manufaktura'?", "a": "Egy hatalmas bevásárló- és kulturális központ egy egykori téglaépítésű gyár területén." },
+      { "q": "Jelentős volt Łódź zsidó történelme?", "a": "Igen, a háború előtt a zsidó élet központja volt, itt található Európa legnagyobb zsidó temetője." }
+    ],
+    "ro": [
+      { "q": "Ce este Ulica Piotrkowska?", "a": "Este strada principală din Łódź și una dintre cele mai lungi străzi comerciale din Europa." },
+      { "q": "De ce este Łódź numit 'Hollyłódź'?", "a": "Datorită faimoasei sale școli de film, unde au studiat regizori precum Roman Polański." },
+      { "q": "Ce este 'Manufaktura'?", "a": "Un centru comercial și cultural imens, situat într-o fostă fabrică de cărămidă." },
+      { "q": "A avut Łódź o istorie evreiască importantă?", "a": "Da, înainte de război a fost un centru al vieții evreiești, având astăzi cel mai mare cimitir evreiesc din Europa." }
+    ],
+    "en": [
+      { "q": "What is Piotrkowska Street?", "a": "It is the main street of Łódź and one of the longest commercial streets in Europe." },
+      { "q": "Why is Łódź called 'Hollyłódź'?", "a": "Because of its famous film school, where directors like Roman Polanski studied." },
+      { "q": "What is 'Manufaktura'?", "a": "A massive shopping and cultural center located in a former red-brick textile factory." },
+      { "q": "Did Łódź have a significant Jewish history?", "a": "Yes, before the war it was a center of Jewish life, and it now has the largest Jewish cemetery in Europe." }
+    ]
+  },
+  "lublin-city": {
+    "de": [
+      { "q": "Was war die Union von Lublin?", "a": "Ein 1569 geschlossener Vertrag, der die Polnisch-Litauische Realunion begründete." },
+      { "q": "Gibt es in Lublin ein Schloss?", "a": "Ja, das Schloss Lublin beherbergt die Dreifaltigkeitskapelle mit byzantinischen Fresken." },
+      { "q": "Was ist das 'Jüdische Oxford'?", "a": "Lublin war vor dem Krieg ein weltweites Zentrum für jüdische Gelehrsamkeit." },
+      { "q": "Welches Festival belebt im Sommer die Altstadt?", "a": "Der Carnaval Sztukmistrzów, ein großes Festival für Straßenkunst und Akrobatik." }
+    ],
+    "hu": [
+      { "q": "Mi volt a Lublini Unió?", "a": "Egy 1569-ben kötött szerződés, amely létrehozta a lengyel-litván nemesi köztársaságot." },
+      { "q": "Van-e Lublinban kastély?", "a": "Igen, a lublini várben található a Szentháromság-kápolna bizánci freskókkal." },
+      { "q": "Mi az a 'zsidó Oxford'?", "a": "Lublin a háború előtt a zsidó tudományosság világméretű központja volt." },
+      { "q": "Melyik fesztivál pezsdíti fel nyáron az óvárost?", "a": "A Carnaval Sztukmistrzów, egy hatalmas utcai művészeti és akrobata fesztivál." }
+    ],
+    "ro": [
+      { "q": "Ce a fost Uniunea de la Lublin?", "a": "Un tratat semnat în 1569 care a pus bazele Uniunii Polono-Lituaniene." },
+      { "q": "Există un castel în Lublin?", "a": "Da, Castelul Lublin găzduiește Capela Sfintei Treimi, decorată cu fresce bizantine." },
+      { "q": "Ce este 'Oxfordul evreiesc'?", "a": "Lublin a fost înainte de război un centru mondial de învățătură evreiască." },
+      { "q": "Ce festival însuflețește centrul vechi în timpul verii?", "a": "Carnaval Sztukmistrzów, un mare festival de artă stradală și acrobație." }
+    ],
+    "en": [
+      { "q": "What was the Union of Lublin?", "a": "A treaty signed in 1569 that established the Polish-Lithuanian Commonwealth." },
+      { "q": "Is there a castle in Lublin?", "a": "Yes, Lublin Castle houses the Holy Trinity Chapel, which features Byzantine frescoes." },
+      { "q": "What is the 'Jewish Oxford'?", "a": "Before the war, Lublin was a global center for Jewish scholarship and learning." },
+      { "q": "Which festival enlivens the Old Town in summer?", "a": "Carnaval Sztukmistrzów, a major street art and circus festival." }
+    ]
+  }
+}

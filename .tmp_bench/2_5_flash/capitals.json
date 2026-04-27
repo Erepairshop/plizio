@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Budapest",
+    "country": "Magyarország",
+    "lat": 47.49791,
+    "lon": 19.04023,
+    "founded_year": 896,
+    "fun_fact": {
+      "de": "Budapest ist bekannt für seine Thermalbäder, darunter das berühmte Széchenyi-Bad.",
+      "hu": "Budapest a világ egyik leggazdagabb termálvizes fővárosa, számos gyógyfürdővel.",
+      "ro": "Budapesta este renumită pentru băile sale termale, printre care se numără și celebra Baie Széchenyi.",
+      "en": "Budapest is renowned for its thermal baths, including the famous Széchenyi Thermal Bath."
+    }
+  },
+  {
+    "name": "København",
+    "country": "Dánia",
+    "lat": 55.67610,
+    "lon": 12.56834,
+    "founded_year": 1167,
+    "fun_fact": {
+      "de": "Die kleine Meerjungfrau, eine Bronzestatue, ist ein weltberühmtes Wahrzeichen Kopenhagens.",
+      "hu": "A Kis Hableány, egy bronzszobor, Koppenhága világhírű szimbóluma.",
+      "ro": "Mica Sirenă, o statuie de bronz, este un simbol celebru al Copenhagăi în întreaga lume.",
+      "en": "The Little Mermaid, a bronze statue, is a world-famous landmark of Copenhagen."
+    }
+  },
+  {
+    "name": "Roma",
+    "country": "Olaszország",
+    "lat": 41.90278,
+    "lon": 12.49637,
+    "founded_year": -753,
+    "fun_fact": {
+      "de": "Rom, die Ewige Stadt, wurde der Legende nach auf sieben Hügeln erbaut.",
+      "hu": "Róma, az Örök Város, a legenda szerint hét dombra épült.",
+      "ro": "Roma, Orașul Etern, a fost construită conform legendei pe șapte coline.",
+      "en": "Rome, the Eternal City, was, according to legend, built on seven hills."
+    }
+  }
+]

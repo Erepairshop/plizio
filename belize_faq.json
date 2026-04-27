@@ -1,0 +1,704 @@
+{
+    "bz-belmopan": {
+        "de": [
+            {"q": "Wann wurde Belmopan gegründet?", "a": "Belmopan wurde 1970 gegründet, nachdem Hurrikan Hattie 1961 Belize City fast vollständig zerstört hatte."},
+            {"q": "Ist Belmopan die größte Stadt in Belize?", "a": "Nein, es ist eine der kleinsten Hauptstädte der Welt; Belize City bleibt die größte Stadt des Landes."},
+            {"q": "Warum wurde Belmopan im Landesinneren gebaut?", "a": "Die Stadt wurde 80 km landeinwärts gebaut, um sie vor der zerstörerischen Gewalt künftiger Hurrikane zu schützen."},
+            {"q": "Was bedeutet der Name Belmopan?", "a": "Der Name ist eine Wortschöpfung aus 'Belize' und 'Mopan', dem Namen eines nahe gelegenen Flusses."}
+        ],
+        "hu": [
+            {"q": "Mikor alapították Belmopant?", "a": "Belmopant 1970-ben alapították, miután az 1961-es Hattie hurrikán szinte teljesen elpusztította Belize Cityt."},
+            {"q": "Belmopan Belize legnagyobb városa?", "a": "Nem, ez a világ egyik legkisebb fővárosa; továbbra is Belize City a legnagyobb város az országban."},
+            {"q": "Miért a szárazföld belsejében építették fel Belmopant?", "a": "A várost 80 km-re a parttól építették, hogy megvédjék a jövőbeli hurrikánok pusztító erejétől."},
+            {"q": "Mit jelent a Belmopan név?", "a": "A név a 'Belize' és a 'Mopan' (egy közeli folyó neve) szavak összevonásából keletkezett."}
+        ],
+        "ro": [
+            {"q": "Când a fost fondat Belmopan?", "a": "Belmopan a fost fondat în 1970, după ce uraganul Hattie a distrus aproape complet Belize City în 1961."},
+            {"q": "Este Belmopan cel mai mare oraș din Belize?", "a": "Nu, este una dintre cele mai mici capitale din lume; Belize City rămâne cel mai mare oraș al țării."},
+            {"q": "De ce a fost construit Belmopan în interiorul țării?", "a": "Orașul a fost construit la 80 km de coastă pentru a fi protejat de forța distructivă a viitoarelor uragane."},
+            {"q": "Ce înseamnă numele Belmopan?", "a": "Numele este o combinație între 'Belize' și 'Mopan', numele unui râu din apropiere."}
+        ],
+        "en": [
+            {"q": "When was Belmopan founded?", "a": "Belmopan was founded in 1970 after Hurricane Hattie nearly destroyed Belize City in 1961."},
+            {"q": "Is Belmopan the largest city in Belize?", "a": "No, it is one of the smallest capital cities in the world; Belize City remains the country's largest."},
+            {"q": "Why was Belmopan built inland?", "a": "The city was built 50 miles (80 km) inland to protect it from the destructive forces of future hurricanes."},
+            {"q": "What does the name Belmopan mean?", "a": "The name is a portmanteau of 'Belize' and 'Mopan,' the name of a local river."}
+        ]
+    },
+    "bz-belizecity": {
+        "de": [
+            {"q": "Wer hat Belize City gegründet?", "a": "Die Stadt wurde 1638 von britischen Holzfällern, den sogenannten Baymen, gegründet."},
+            {"q": "Ist Belize City noch die Hauptstadt?", "a": "Nein, sie war bis 1970 die Hauptstadt, bevor der Sitz der Regierung nach Belmopan verlegt wurde."},
+            {"q": "Was ist die Besonderheit der Swing Bridge?", "a": "Es ist die einzige noch manuell betriebene Schwenkbrücke in ganz Mittelamerika."},
+            {"q": "Wo genau liegt die Stadt?", "a": "Sie liegt an der Karibikküste, direkt an der Mündung des Belize River."}
+        ],
+        "hu": [
+            {"q": "Ki alapította Belize Cityt?", "a": "A várost 1638-ban brit fakitermelők, az úgynevezett Baymenek alapították."},
+            {"q": "Még mindig Belize City a főváros?", "a": "Nem, 1970-ig volt a főváros, mielőtt a kormány székhelyét Belmopanba helyezték át."},
+            {"q": "Mi a Swing Bridge különlegessége?", "a": "Ez az egyetlen kézzel működtetett forgóhíd egész Közép-Amerikában."},
+            {"q": "Pontosan hol fekszik a város?", "a": "A Karib-tenger partján, közvetlenül a Belize-folyó torkolatánál található."}
+        ],
+        "ro": [
+            {"q": "Cine a fondat Belize City?", "a": "Orașul a fost fondat în 1638 de tăietori de lemne britanici, cunoscuți sub numele de Baymen."},
+            {"q": "Mai este Belize City capitala?", "a": "Nu, a fost capitală până în 1970, când sediul guvernului a fost mutat la Belmopan."},
+            {"q": "Care este particularitatea podului Swing Bridge?", "a": "Este singurul pod pivotant acționat manual din întreaga Americă Centrală."},
+            {"q": "Unde este situat exact orașul?", "a": "Este situat pe coasta Mării Caraibilor, chiar la gura de vărsare a râului Belize."}
+        ],
+        "en": [
+            {"q": "Who founded Belize City?", "a": "The city was founded in 1638 by British logwood cutters known as 'Baymen.'"},
+            {"q": "Is Belize City still the capital?", "a": "No, it served as the capital until 1970, when the government was moved to Belmopan."},
+            {"q": "What is unique about the Swing Bridge?", "a": "It is the only manually operated swing bridge remaining in all of Central America."},
+            {"q": "Where exactly is the city located?", "a": "It is situated on the Caribbean coast at the mouth of the Belize River."}
+        ]
+    },
+    "bz-sanignacio": {
+        "de": [
+            {"q": "Wofür ist San Ignacio bekannt?", "a": "Es ist das Zentrum für Abenteuertourismus und Ökotourismus im Cayo-Distrikt."},
+            {"q": "Welche Maya-Ruine liegt direkt bei der Stadt?", "a": "Die Ruine Cahal Pech befindet sich auf einem Hügel direkt am Stadtrand."},
+            {"q": "Wie heißt die berühmte Hängebrücke?", "a": "Die Hawkesworth Bridge verbindet San Ignacio mit der Zwillingsstadt Santa Elena."},
+            {"q": "Welcher Fluss fließt durch San Ignacio?", "a": "Die Stadt liegt am Macal River, der ideal für Kanufahrten ist."}
+        ],
+        "hu": [
+            {"q": "Miről nevezetes San Ignacio?", "a": "A Cayo megye kalandturizmusának és ökoturizmusának központja."},
+            {"q": "Melyik maja rom található közvetlenül a városnál?", "a": "Cahal Pech romjai közvetlenül a város szélén, egy dombon találhatók."},
+            {"q": "Hogy hívják a híres függőhidat?", "a": "A Hawkesworth-híd köti össze San Ignaciót ikervárosával, Santa Elenával."},
+            {"q": "Melyik folyó folyik át San Ignación?", "a": "A város a Macal-folyó partján fekszik, amely kiválóan alkalmas kenutúrákra."}
+        ],
+        "ro": [
+            {"q": "Pentru ce este cunoscut San Ignacio?", "a": "Este centrul turismului de aventură și al ecoturismului din districtul Cayo."},
+            {"q": "Ce ruină mayașă se află chiar lângă oraș?", "a": "Ruinele Cahal Pech sunt situate pe un deal chiar la marginea orașului."},
+            {"q": "Cum se numește celebrul pod suspendat?", "a": "Podul Hawkesworth leagă San Ignacio de orașul geamăn Santa Elena."},
+            {"q": "Ce râu trece prin San Ignacio?", "a": "Orașul este situat pe râul Macal, care este ideal pentru plimbări cu canoa."}
+        ],
+        "en": [
+            {"q": "What is San Ignacio known for?", "a": "It is the main hub for adventure and eco-tourism in the Cayo District."},
+            {"q": "Which Maya ruin is located right in the town?", "a": "The Cahal Pech ruins are situated on a hill right at the edge of the town."},
+            {"q": "What is the name of the famous suspension bridge?", "a": "The Hawkesworth Bridge connects San Ignacio with its twin town, Santa Elena."},
+            {"q": "Which river flows through San Ignacio?", "a": "The town is located on the Macal River, which is popular for canoeing."}
+        ]
+    },
+    "bz-dangriga": {
+        "de": [
+            {"q": "Welche Kultur dominiert in Dangriga?", "a": "Dangriga ist das kulturelle Zentrum der Garifuna-Bevölkerung in Belize."},
+            {"q": "Wie hieß die Stadt früher?", "a": "Die Stadt war früher unter dem Namen Stann Creek Town bekannt."},
+            {"q": "Was bedeutet der Name Dangriga?", "a": "In der Garifuna-Sprache bedeutet Dangriga 'stehendes Wasser'."},
+            {"q": "Wann findet das größte Fest statt?", "a": "Der Garifuna Settlement Day wird jedes Jahr am 19. November groß gefeiert."}
+        ],
+        "hu": [
+            {"q": "Melyik kultúra dominál Dangrigában?", "a": "Dangriga a belize-i garifuna lakosság kulturális központja."},
+            {"q": "Mi volt a város korábbi neve?", "a": "A város korábban Stann Creek Town néven volt ismert."},
+            {"q": "Mit jelent a Dangriga név?", "a": "Garifuna nyelven a Dangriga jelentése 'álló víz'."},
+            {"q": "Mikor tartják a legnagyobb ünnepet?", "a": "A Garifuna Letelepedés Napját minden év november 19-én ünneplik meg nagy pompával."}
+        ],
+        "ro": [
+            {"q": "Ce cultură domină în Dangriga?", "a": "Dangriga este centrul cultural al populației Garifuna din Belize."},
+            {"q": "Cum se numea orașul înainte?", "a": "Orașul a fost cunoscut anterior sub numele de Stann Creek Town."},
+            {"q": "Ce înseamnă numele Dangriga?", "a": "În limba Garifuna, Dangriga înseamnă „apă stătătoare”."},
+            {"q": "Când are loc cea mai mare sărbătoare?", "a": "Garifuna Settlement Day este sărbătorită cu fast în fiecare an pe 19 noiembrie."}
+        ],
+        "en": [
+            {"q": "Which culture is dominant in Dangriga?", "a": "Dangriga is the cultural heart of the Garifuna people in Belize."},
+            {"q": "What was the town's former name?", "a": "The town was previously known as Stann Creek Town."},
+            {"q": "What does the name Dangriga mean?", "a": "In the Garifuna language, Dangriga translates to 'standing water.'"},
+            {"q": "When is the biggest festival held?", "a": "Garifuna Settlement Day is celebrated annually with great fanfare on November 19."}
+        ]
+    },
+    "bz-sanpedro": {
+        "de": [
+            {"q": "Auf welcher Insel liegt San Pedro?", "a": "San Pedro ist die einzige Stadt auf der Insel Ambergris Caye."},
+            {"q": "Welcher Song machte die Stadt berühmt?", "a": "Madonnas Lied 'La Isla Bonita' wurde von San Pedro inspiriert."},
+            {"q": "Was ist das Hauptverkehrsmittel?", "a": "Die meisten Menschen und Touristen nutzen Golfcarts, um sich fortzubewegen."},
+            {"q": "Wer hat die Stadt ursprünglich besiedelt?", "a": "Sie wurde im 19. Jahrhundert von Flüchtlingen des Kastenkrieges aus Yucatán gegründet."}
+        ],
+        "hu": [
+            {"q": "Melyik szigeten fekszik San Pedro?", "a": "San Pedro az Ambergris Caye sziget egyetlen városa."},
+            {"q": "Melyik dal tette híressé a várost?", "a": "Madonna 'La Isla Bonita' című dalát San Pedro ihlette."},
+            {"q": "Mi a fő közlekedési eszköz?", "a": "A legtöbb helyi és turista golfkocsival közlekedik a szigeten."},
+            {"q": "Kik települtek be eredetileg a városba?", "a": "A 19. században a jukatáni kasztok háborúja elől menekülők alapították."}
+        ],
+        "ro": [
+            {"q": "Pe ce insulă se află San Pedro?", "a": "San Pedro este singurul oraș de pe insula Ambergris Caye."},
+            {"q": "Ce cântec a făcut orașul faimos?", "a": "Piesa Madonnei „La Isla Bonita” a fost inspirată de San Pedro."},
+            {"q": "Care este principalul mijloc de transport?", "a": "Majoritatea localnicilor și turiștilor folosesc mașinuțe de golf pentru a se deplasa."},
+            {"q": "Cine a colonizat inițial orașul?", "a": "A fost fondat în secolul al XIX-lea de refugiați din Războiul Castelor din Yucatán."}
+        ],
+        "en": [
+            {"q": "On which island is San Pedro located?", "a": "San Pedro is the only town situated on the island of Ambergris Caye."},
+            {"q": "What song made the town world-famous?", "a": "Madonna's hit 'La Isla Bonita' was famously inspired by San Pedro."},
+            {"q": "What is the primary mode of transport?", "a": "Golf carts are the most common way for locals and tourists to get around."},
+            {"q": "Who originally settled the town?", "a": "It was founded in the 19th century by refugees fleeing the Caste War of Yucatán."}
+        ]
+    },
+    "bz-doyles-delight": {
+        "de": [
+            {"q": "Wie hoch ist Doyle's Delight?", "a": "Es ist der höchste Berg in Belize mit einer Höhe von 1.124 Metern."},
+            {"q": "In welchem Gebirge liegt der Gipfel?", "a": "Der Berg befindet sich in den Maya Mountains im Cockscomb Basin."},
+            {"q": "Ist der Gipfel leicht zu erreichen?", "a": "Nein, er ist aufgrund der extremen Abgeschiedenheit und des dichten Dschungels sehr schwer zugänglich."},
+            {"q": "Woher kommt der Name?", "a": "Der Name stammt von einer Textstelle in Sir Arthur Conan Doyles Buch 'The Lost World'."}
+        ],
+        "hu": [
+            {"q": "Milyen magas a Doyle's Delight?", "a": "Ez Belize legmagasabb hegye, magassága 1124 méter."},
+            {"q": "Melyik hegységben található a csúcs?", "a": "A hegy a Maja-hegységben, a Cockscomb-medencében található."},
+            {"q": "Könnyen elérhető a csúcs?", "a": "Nem, a rendkívüli elszigeteltség és a sűrű dzsungel miatt nagyon nehéz megközelíteni."},
+            {"q": "Honnan ered a név?", "a": "A név Sir Arthur Conan Doyle „Az elveszett világ” című könyvének egy részletéből származik."}
+        ],
+        "ro": [
+            {"q": "Cât de înalt este Doyle's Delight?", "a": "Este cel mai înalt munte din Belize, având o înălțime de 1.124 de metri."},
+            {"q": "În ce lanț muntos se află vârful?", "a": "Muntele este situat în Munții Maya, în bazinul Cockscomb."},
+            {"q": "Este vârful ușor de accesat?", "a": "Nu, este foarte greu de accesat din cauza izolării extreme și a junglei dese."},
+            {"q": "De unde provine numele?", "a": "Numele provine dintr-un pasaj din cartea „O lume dispărută” de Sir Arthur Conan Doyle."}
+        ],
+        "en": [
+            {"q": "How high is Doyle's Delight?", "a": "It is the highest peak in Belize, standing at 1,124 meters (3,688 feet)."},
+            {"q": "In which mountain range is it located?", "a": "The peak is located within the Maya Mountains of southern Belize."},
+            {"q": "Is the summit easy to reach?", "a": "No, it is extremely difficult to access due to its remote location and dense jungle."},
+            {"q": "What is the origin of the name?", "a": "It was named after a quote in Sir Arthur Conan Doyle's book 'The Lost World.'"}
+        ]
+    },
+    "bz-macal-river": {
+        "de": [
+            {"q": "Wo entspringt der Macal River?", "a": "Der Fluss entspringt in den Maya Mountains im Westen von Belize."},
+            {"q": "Welche Aktivitäten werden auf dem Fluss angeboten?", "a": "Kanu- und Kajakfahren sind die beliebtesten Aktivitäten für Besucher."},
+            {"q": "Welche Tiere kann man dort beobachten?", "a": "Man kann oft Leguane, seltene Vögel und manchmal sogar Krokodile sehen."},
+            {"q": "Welche Rolle spielt der Fluss für die Energie?", "a": "Am Macal River befindet sich ein Staudamm zur Gewinnung von Wasserkraft."}
+        ],
+        "hu": [
+            {"q": "Hol ered a Macal-folyó?", "a": "A folyó a Maja-hegységben ered, Belize nyugati részén."},
+            {"q": "Milyen tevékenységeket kínálnak a folyón?", "a": "A kenu- és kajaktúrák a legnépszerűbb tevékenységek a látogatók számára."},
+            {"q": "Milyen állatokat lehet ott megfigyelni?", "a": "Gyakran látni leguánokat, ritka madarakat és néha még krokodilokat is."},
+            {"q": "Milyen szerepet játszik a folyó az energiatermelésben?", "a": "A Macal-folyón egy gát található a vízenergia előállítására."}
+        ],
+        "ro": [
+            {"q": "Unde izvorăște râul Macal?", "a": "Râul izvorăște din Munții Maya, în vestul Belize."},
+            {"q": "Ce activități sunt oferite pe râu?", "a": "Canoea și caiacul sunt cele mai populare activități pentru vizitatori."},
+            {"q": "Ce animale pot fi observate acolo?", "a": "Pot fi văzute adesea iguane, păsări rare și uneori chiar crocodili."},
+            {"q": "Ce rol joacă râul pentru energie?", "a": "Pe râul Macal se află un baraj pentru producerea de energie hidroelectrică."}
+        ],
+        "en": [
+            {"q": "Where does the Macal River originate?", "a": "The river begins its journey in the Maya Mountains of western Belize."},
+            {"q": "What are the most popular activities on the river?", "a": "Canoeing and kayaking are the top choices for tourists visiting the area."},
+            {"q": "What wildlife can be spotted along the banks?", "a": "Common sightings include green iguanas, exotic birds, and occasionally crocodiles."},
+            {"q": "How is the river used for energy production?", "a": "The river hosts a major dam used for generating hydroelectric power for the country."}
+        ]
+    },
+    "bz-new-river": {
+        "de": [
+            {"q": "Wie lang ist der New River?", "a": "Der Fluss hat eine Länge von etwa 132 Kilometern."},
+            {"q": "Welche berühmte Ruine erreicht man über diesen Fluss?", "a": "Er ist der Hauptzugangsweg zu den beeindruckenden Maya-Ruinen von Lamanai."},
+            {"q": "Welche Tiere sieht man bei einer Bootssafari?", "a": "Häufig sieht man Krokodile, Brüllaffen und zahlreiche tropische Vögel."},
+            {"q": "Wohin fließt der New River?", "a": "Der Fluss fließt in nördlicher Richtung und mündet in die Corozal Bay."}
+        ],
+        "hu": [
+            {"q": "Milyen hosszú a New River?", "a": "A folyó hossza körülbelül 132 kilométer."},
+            {"q": "Melyik híres rom érhető el ezen a folyón keresztül?", "a": "Ez a fő útvonal Lamanai lenyűgöző maja romjaihoz."},
+            {"q": "Milyen állatokat látni egy folyami szafarin?", "a": "Gyakran látni krokodilokat, bőgőmajmokat és számos trópusi madarat."},
+            {"q": "Hová folyik a New River?", "a": "A folyó északi irányba tart, és a Corozal-öbölbe torkollik."}
+        ],
+        "ro": [
+            {"q": "Cât de lung este râul New?", "a": "Râul are o lungime de aproximativ 132 de kilometri."},
+            {"q": "Ce ruină faimoasă se accesează prin acest râu?", "a": "Este principala cale de acces către impresionantele ruine mayașe de la Lamanai."},
+            {"q": "Ce animale se văd într-un safari cu barca?", "a": "Se văd frecvent crocodili, maimuțe urlătoare și numeroase păsări tropicale."},
+            {"q": "Unde se varsă râul New?", "a": "Râul curge spre nord și se varsă în Corozal Bay."}
+        ],
+        "en": [
+            {"q": "How long is the New River?", "a": "The river stretches for approximately 132 kilometers (82 miles)."},
+            {"q": "Which famous ruin is accessed via this river?", "a": "It is the primary route for boat safaris heading to the Lamanai Maya site."},
+            {"q": "What wildlife can you see on a river tour?", "a": "Tours often encounter crocodiles, howler monkeys, and many aquatic birds."},
+            {"q": "Where does the New River empty?", "a": "The river flows northwards and empties into the Corozal Bay near the border."}
+        ]
+    },
+    "bz-five-blues": {
+        "de": [
+            {"q": "Was ist das Besondere am Five Blues Lake?", "a": "Er ist ein Karstsee, dessen Wasser je nach Tiefe in fünf verschiedenen Blautönen leuchtet."},
+            {"q": "Seit wann ist das Gebiet ein Nationalpark?", "a": "Das Gebiet wurde im Jahr 1991 zum Nationalpark erklärt."},
+            {"q": "Was passierte mit dem See im Jahr 2006?", "a": "Der See trocknete fast vollständig aus, füllte sich aber nach einigen Jahren auf mysteriöse Weise wieder."},
+            {"q": "Was kann man in der Umgebung des Sees tun?", "a": "Besucher können wandern, Vögel beobachten und die umliegenden Kalksteinhöhlen erkunden."}
+        ],
+        "hu": [
+            {"q": "Mi a különleges a Five Blues Lake-ben?", "a": "Ez egy karszt-tó, amelynek vize a mélységtől függően a kék öt különböző árnyalatában tündököl."},
+            {"q": "Mióta nemzeti park a terület?", "a": "A területet 1991-ben nyilvánították nemzeti parkká."},
+            {"q": "Mi történt a tóval 2006-ban?", "a": "A tó szinte teljesen kiszáradt, de néhány évvel később titokzatos módon újra megtelt."},
+            {"q": "Mit lehet csinálni a tó környékén?", "a": "A látogatók túrázhatnak, madarakat figyelhetnek meg és felfedezhetik a környező mészkőbarlangokat."}
+        ],
+        "ro": [
+            {"q": "Ce este special la Lacul Five Blues?", "a": "Este un lac carstic a cărui apă strălucește în cinci nuanțe diferite de albastru, în funcție de adâncime."},
+            {"q": "De când este zona parc național?", "a": "Zona a fost declarată parc național în anul 1991."},
+            {"q": "Ce s-a întâmplat cu lacul în 2006?", "a": "Lacul a secat aproape complet, dar s-a reumplut misterios după câțiva ani."},
+            {"q": "Ce se poate face în împrejurimile lacului?", "a": "Vizitatorii pot face drumeții, pot observa păsările și pot explora peșterile de calcar din jur."}
+        ],
+        "en": [
+            {"q": "What makes Five Blues Lake unique?", "a": "It is a karst lake named for the five distinct shades of blue visible in its waters."},
+            {"q": "When did it receive national park status?", "a": "The area was officially designated as a national park in 1991."},
+            {"q": "What happened to the lake in 2006?", "a": "The lake mysteriously drained almost completely in 2006, only to refill years later."},
+            {"q": "What activities are available at the park?", "a": "Visitors enjoy hiking, birdwatching, and exploring the surrounding limestone caves."}
+        ]
+    },
+    "bz-pine-ridge": {
+        "de": [
+            {"q": "Was ist das Mountain Pine Ridge Reservat?", "a": "Es ist ein Schutzgebiet, das von Kiefernwäldern statt vom typischen Dschungel geprägt ist."},
+            {"q": "Wann wurde es gegründet?", "a": "Es ist das älteste Schutzgebiet Belizes und wurde 1944 gegründet."},
+            {"q": "Welche Naturwunder gibt es dort?", "a": "Zu den Highlights gehören die Thousand Foot Falls und die Rio on Pools."},
+            {"q": "Auf welchem Gestein basiert die Region?", "a": "Im Gegensatz zum restlichen Belize besteht der Boden hier hauptsächlich aus Granit."}
+        ],
+        "hu": [
+            {"q": "Mi az a Mountain Pine Ridge rezervátum?", "a": "Ez egy védett terület, amelyet a tipikus dzsungel helyett fenyőerdők jellemeznek."},
+            {"q": "Mikor alapították?", "a": "Ez Belize legrégebbi védett területe, 1944-ben alapították."},
+            {"q": "Milyen természeti csodák találhatók ott?", "a": "A legfontosabb látnivalók közé tartozik a Thousand Foot Falls és a Rio on Pools."},
+            {"q": "Milyen kőzeten alapul a régió?", "a": "Belize többi részétől eltérően itt a talaj főleg gránitból áll."}
+        ],
+        "ro": [
+            {"q": "Ce este Rezervația Mountain Pine Ridge?", "a": "Este o zonă protejată caracterizată de păduri de pini în locul junglei tipice."},
+            {"q": "Când a fost fondată?", "a": "Este cea mai veche zonă protejată din Belize, fiind fondată în 1944."},
+            {"q": "Ce minuni naturale se găsesc acolo?", "a": "Printre atracții se numără cascada Thousand Foot și bazinele naturale Rio on Pools."},
+            {"q": "Pe ce tip de rocă se bazează regiunea?", "a": "Spre deosebire de restul Belizei, solul de aici este compus în principal din granit."}
+        ],
+        "en": [
+            {"q": "What is Mountain Pine Ridge?", "a": "It is a unique forest reserve dominated by pine trees rather than tropical broadleaf forest."},
+            {"q": "When was the reserve established?", "a": "It is the oldest protected area in Belize, established in 1944."},
+            {"q": "What are the main attractions in the reserve?", "a": "Key highlights include the 1,600-foot Thousand Foot Falls and the Rio on Pools granite basins."},
+            {"q": "What is the geological basis of the area?", "a": "Unlike most of Belize's limestone, this region is based on ancient granite rock."}
+        ]
+    },
+    "bz-lubantun": {
+        "de": [
+            {"q": "Was bedeutet der Name Lubaantun?", "a": "Der Name kommt aus der Maya-Sprache und bedeutet 'Ort der gefallenen Steine'."},
+            {"q": "Was ist die bauliche Besonderheit der Ruine?", "a": "Die Kalksteinblöcke wurden ohne die Verwendung von Mörtel passgenau zusammengefügt."},
+            {"q": "Welche berühmte Legende ist mit Lubaantun verknüpft?", "a": "Es ist der angebliche Fundort des berühmten (und umstrittenen) Mitchell-Hedges-Kristallschädels."},
+            {"q": "Womit handelte die Stadt in ihrer Blütezeit?", "a": "Die Stadt war ein wichtiges regionales Zentrum für den Handel mit Kakao."}
+        ],
+        "hu": [
+            {"q": "Mit jelent a Lubaantun név?", "a": "A név maja nyelvből származik, jelentése 'a kidőlt kövek helye'."},
+            {"q": "Mi a rom különleges építészeti jellemzője?", "a": "A mészkőtömböket habarcs használata nélkül, tűpontosan illesztették össze."},
+            {"q": "Melyik híres legenda kapcsolódik Lubaantunhoz?", "a": "Ez a híres (és vitatott) Mitchell-Hedges kristálykoponya állítólagos lelőhelye."},
+            {"q": "Mivel kereskedett a város fénykorában?", "a": "A város a kakaókereskedelem egyik fontos regionális központja volt."}
+        ],
+        "ro": [
+            {"q": "Ce înseamnă numele Lubaantun?", "a": "Numele provine din limba mayașă și înseamnă „locul pietrelor căzute”."},
+            {"q": "Care este particularitatea constructivă a ruinei?", "a": "Blocurile de calcar au fost îmbinate cu precizie fără a folosi mortar."},
+            {"q": "Ce legendă celebră este legată de Lubaantun?", "a": "Este locul presupusei descoperiri a celebrului (și controversatului) craniu de cristal Mitchell-Hedges."},
+            {"q": "Cu ce făcea comerț orașul în perioada sa de glorie?", "a": "Orașul a fost un important centru regional pentru comerțul cu cacao."}
+        ],
+        "en": [
+            {"q": "What does the name Lubaantun mean?", "a": "The name is Maya for 'Place of Fallen Stones,' referring to the site's condition upon rediscovery."},
+            {"q": "What is unique about the construction of the site?", "a": "The structures were built using dry-stone masonry, meaning no mortar was used to hold the blocks together."},
+            {"q": "What famous legend is associated with Lubaantun?", "a": "It is the alleged discovery site of the controversial Mitchell-Hedges Crystal Skull."},
+            {"q": "What was the city's main commodity in ancient times?", "a": "The city was a major regional hub for the production and trade of cacao."}
+        ]
+    },
+    "bz-baron-bliss": {
+        "de": [
+            {"q": "Wer war Baron Bliss?", "a": "Baron Bliss war ein britischer Adliger, der sein gesamtes Vermögen dem Land Belize vermachte."},
+            {"q": "Hat der Baron jemals in Belize gelebt?", "a": "Nein, er verbrachte seine letzte Zeit auf seiner Jacht vor der Küste und betrat das Festland nie."},
+            {"q": "Wann wird der Baron-Bliss-Tag gefeiert?", "a": "Sein Todestag, der 9. März, ist ein nationaler Feiertag in Belize."},
+            {"q": "Wo befindet sich das Grab des Barons?", "a": "Er ist in einem Grab direkt am Fuße des Leuchtturms in Belize City beigesetzt."}
+        ],
+        "hu": [
+            {"q": "Ki volt Baron Bliss?", "a": "Baron Bliss egy brit nemes volt, aki egész vagyonát Belize országára hagyta."},
+            {"q": "Élt valaha a báró Belize-ben?", "a": "Nem, utolsó napjait a part menti jachtján töltötte, és soha nem lépett a szárazföldre."},
+            {"q": "Mikor ünneplik a Baron Bliss-napot?", "a": "Halálának napja, március 9-e nemzeti ünnep Belize-ben."},
+            {"q": "Hol található a báró sírja?", "a": "A Belize Cityben található világítótorony lábánál fekvő sírboltban temették el."}
+        ],
+        "ro": [
+            {"q": "Cine a fost Baronul Bliss?", "a": "Baronul Bliss a fost un nobil britanic care și-a lăsat întreaga avere țării Belize."},
+            {"q": "A locuit vreodată baronul în Belize?", "a": "Nu, și-a petrecut ultima parte a vieții pe iahtul său în largul coastei și nu a călcat niciodată pe continent."},
+            {"q": "Când se sărbătorește Ziua Baronului Bliss?", "a": "Ziua morții sale, 9 martie, este o sărbătoare națională în Belize."},
+            {"q": "Unde se află mormântul baronului?", "a": "Este înmormântat într-un mormânt situat chiar la baza farului din Belize City."}
+        ],
+        "en": [
+            {"q": "Who was Baron Bliss?", "a": "Baron Bliss was a British nobleman who bequeathed his vast fortune to the people of Belize."},
+            {"q": "Did the Baron ever live in mainland Belize?", "a": "No, he spent his final days on his yacht off the coast and never actually set foot on the mainland."},
+            {"q": "When is Baron Bliss Day celebrated?", "a": "His death is honored annually with a national holiday on March 9."},
+            {"q": "Where is the Baron's final resting place?", "a": "He is buried in a tomb located at the base of the lighthouse in Belize City."}
+        ]
+    },
+    "bz-bluehole": {
+        "de": [
+            {"q": "Wie groß ist das Great Blue Hole?", "a": "Es ist über 300 Meter breit und etwa 125 Meter tief."},
+            {"q": "Wie ist das Blue Hole entstanden?", "a": "Es entstand als Kalksteinhöhlensystem während der letzten Eiszeit, das später vom Meer überflutet wurde."},
+            {"q": "Wer machte das Blue Hole weltberühmt?", "a": "Der Forscher Jacques Cousteau deklarierte es 1971 zu einem der zehn besten Tauchgebiete der Welt."},
+            {"q": "Ist das Blue Hole vom Weltraum aus sichtbar?", "a": "Ja, aufgrund des tiefen Blaus im Kontrast zum flachen türkisfarbenen Wasser ist es aus dem All erkennbar."}
+        ],
+        "hu": [
+            {"q": "Mekkora a Nagy Kék Lyuk?", "a": "Több mint 300 méter széles és körülbelül 125 méter mély."},
+            {"q": "Hogyan keletkezett a Kék Lyuk?", "a": "Az utolsó jégkorszak idején mészkőbarlang-rendszerként jött létre, amelyet később elöntött a tenger."},
+            {"q": "Ki tette világhírűvé a Kék Lyukat?", "a": "Jacques Cousteau kutató 1971-ben a világ tíz legjobb búvárhelyének egyikévé nyilvánította."},
+            {"q": "Látható a Kék Lyuk az űrből?", "a": "Igen, a mélykék szín és a sekély türkizkék víz kontrasztja miatt az űrből is felismerhető."}
+        ],
+        "ro": [
+            {"q": "Cât de mare este Marea Gaură Albastră?", "a": "Are peste 300 de metri lățime și aproximativ 125 de metri adâncime."},
+            {"q": "Cum s-a format Marea Gaură Albastră?", "a": "S-a format ca un sistem de peșteri de calcar în timpul ultimei ere glaciare, fiind ulterior inundat de mare."},
+            {"q": "Cine a făcut Marea Gaură Albastră faimoasă în întreaga lume?", "a": "Exploratorul Jacques Cousteau a declarat-o în 1971 drept unul dintre cele mai bune zece locuri de scufundări din lume."},
+            {"q": "Este Marea Gaură Albastră vizibilă din spațiu?", "a": "Da, datorită contrastului dintre albastrul intens și apa turcoaz puțin adâncă, este vizibilă din spațiu."}
+        ],
+        "en": [
+            {"q": "How large is the Great Blue Hole?", "a": "It measures over 300 meters (984 feet) across and is approximately 125 meters (410 feet) deep."},
+            {"q": "How did the Blue Hole form?", "a": "It was originally a limestone cave system during the last ice age, which was later submerged as sea levels rose."},
+            {"q": "Who made the Blue Hole world-famous?", "a": "Jacques Cousteau explored it in 1971 and named it one of the top ten scuba diving sites in the world."},
+            {"q": "Is the Blue Hole visible from space?", "a": "Yes, its deep blue color contrasts sharply with the surrounding shallow water, making it visible from orbit."}
+        ]
+    },
+    "bz-xunantunich": {
+        "de": [
+            {"q": "Was bedeutet der Name Xunantunich?", "a": "Der Name bedeutet in der Maya-Sprache 'Steinmetz-Frau' oder 'Frau aus Stein'."},
+            {"q": "Wie hoch ist die Hauptpyramide El Castillo?", "a": "Sie ist etwa 40 Meter hoch und damit eines der höchsten Bauwerke in Belize."},
+            {"q": "Wie gelangt man zu der Ruinenstätte?", "a": "Besucher müssen den Mopan River mit einer handbetriebenen Kurbelfähre überqueren."},
+            {"q": "Wann war die Blütezeit von Xunantunich?", "a": "Die Stadt erlebte ihre Blütezeit in der klassischen Periode zwischen 600 und 900 n. Chr."}
+        ],
+        "hu": [
+            {"q": "Mit jelent a Xunantunich név?", "a": "A név maja nyelven 'kőasszonyt' vagy 'kőből való asszonyt' jelent."},
+            {"q": "Milyen magas az El Castillo főpiramis?", "a": "Körülbelül 40 méter magas, ezzel Belize egyik legmagasabb építménye."},
+            {"q": "Hogyan lehet eljutni a romvároshoz?", "a": "A látogatóknak egy kézi hajtású komppal kell átkelniük a Mopan-folyón."},
+            {"q": "Mikor volt Xunantunich fénykora?", "a": "A város a klasszikus korban, i.sz. 600 és 900 között élte fénykorát."}
+        ],
+        "ro": [
+            {"q": "Ce înseamnă numele Xunantunich?", "a": "Numele înseamnă „femeia de piatră” în limba mayașă."},
+            {"q": "Cât de înaltă este piramida principală El Castillo?", "a": "Are o înălțime de aproximativ 40 de metri, fiind una dintre cele mai înalte structuri din Belize."},
+            {"q": "Cum se ajunge la situl arheologic?", "a": "Vizitatorii trebuie să traverseze râul Mopan cu un feribot acționat manual."},
+            {"q": "Când a fost perioada de glorie a orașului Xunantunich?", "a": "Orașul a înflorit în perioada clasică, între anii 600 și 900 d.Hr."}
+        ],
+        "en": [
+            {"q": "What does the name Xunantunich mean?", "a": "In the Maya language, it translates to 'Stone Woman' or 'Maiden of the Rock.'"},
+            {"q": "How tall is the main El Castillo pyramid?", "a": "It stands about 40 meters (130 feet) tall, making it one of the tallest structures in Belize."},
+            {"q": "How do visitors access the site?", "a": "Access requires crossing the Mopan River on a unique hand-cranked ferry."},
+            {"q": "When was the peak of Xunantunich's civilization?", "a": "The city flourished during the Classic period, specifically between 600 and 900 AD."}
+        ]
+    },
+    "bz-altunha": {
+        "de": [
+            {"q": "Was ist der bedeutendste Fund in Altun Ha?", "a": "Der berühmte Jadekopf des Sonnengottes Kinich Ahau, der fast 4,5 kg wiegt."},
+            {"q": "Woher kennt man die Silhouette des Haupttempels noch?", "a": "Der 'Tempel der gemauerten Altäre' ist das Logo des belizischen Belikin-Biers."},
+            {"q": "Wie weit ist Altun Ha von Belize City entfernt?", "a": "Die Ruinen liegen etwa 50 Kilometer nördlich von Belize City."},
+            {"q": "Was bedeutet der Name Altun Ha?", "a": "Der Name bedeutet in der Maya-Sprache 'Wasser des Felsens'."}
+        ],
+        "hu": [
+            {"q": "Mi a legjelentősebb lelet Altun Ha-ban?", "a": "Kinich Ahau napisten híres jadefeje, amely majdnem 4,5 kg-ot nyom."},
+            {"q": "Honnan ismerős még a főtemplom sziluettje?", "a": "A 'Falazott oltárok temploma' látható a belize-i Belikin sör logóján."},
+            {"q": "Milyen messze van Altun Ha Belize Citytől?", "a": "A romok körülbelül 50 kilométerre északra találhatók Belize Citytől."},
+            {"q": "Mit jelent az Altun Ha név?", "a": "A név maja nyelven azt jelenti: 'a szikla vize'."}
+        ],
+        "ro": [
+            {"q": "Care este cea mai importantă descoperire de la Altun Ha?", "a": "Celebrul cap de jad al zeului soarelui Kinich Ahau, care cântărește aproape 4,5 kg."},
+            {"q": "De unde mai este cunoscută silueta templului principal?", "a": "„Templul Altarelor de Zidărie” este logo-ul berii belizene Belikin."},
+            {"q": "La ce distanță se află Altun Ha de Belize City?", "a": "Ruinele sunt situate la aproximativ 50 de kilometri nord de Belize City."},
+            {"q": "Ce înseamnă numele Altun Ha?", "a": "Numele înseamnă „apa stâncii” în limba mayașă."}
+        ],
+        "en": [
+            {"q": "What is the most famous artifact found at Altun Ha?", "a": "The solid jade head of the Sun God, Kinich Ahau, which weighs nearly 4.5 kg (9.7 lbs)."},
+            {"q": "Where else can you see the silhouette of the main temple?", "a": "The Temple of the Masonry Altars is famously featured on the label of Belikin Beer."},
+            {"q": "How far is Altun Ha from Belize City?", "a": "The ruins are located about 50 kilometers (31 miles) north of Belize City."},
+            {"q": "What does the name Altun Ha mean?", "a": "The name translates from Maya to 'Rockstone Water.'"}
+        ]
+    },
+    "bz-caracol": {
+        "de": [
+            {"q": "Wie hoch ist die Caana-Pyramide in Caracol?", "a": "Sie ist 43 Meter hoch und bleibt eines der höchsten menschengemachten Bauwerke Belizes."},
+            {"q": "Wie viele Menschen lebten in der Blütezeit in Caracol?", "a": "Es wird geschätzt, dass die Stadt über 140.000 Einwohner hatte."},
+            {"q": "Welche andere Maya-Stadt wurde von Caracol besiegt?", "a": "Im Jahr 562 n. Chr. besiegte Caracol die mächtige Stadt Tikal in einem großen Krieg."},
+            {"q": "In welchem Wald liegt Caracol?", "a": "Die Ruinen liegen tief im Chiquibul-Regenwald im Cayo-Distrikt."}
+        ],
+        "hu": [
+            {"q": "Milyen magas a Caana-piramis Caracolban?", "a": "43 méter magas, és továbbra is Belize egyik legmagasabb ember alkotta építménye."},
+            {"q": "Hányan laktak Caracolban a fénykorában?", "a": "Becslések szerint a városnak több mint 140 000 lakosa volt."},
+            {"q": "Melyik másik maja várost győzte le Caracol?", "a": "I.sz. 562-ben Caracol egy nagy háborúban legyőzte a hatalmas Tikalt."},
+            {"q": "Melyik erdőben található Caracol?", "a": "A romok a Chiquibul esőerdő mélyén találhatók, Cayo megyében."}
+        ],
+        "ro": [
+            {"q": "Cât de înaltă este piramida Caana din Caracol?", "a": "Are 43 de metri înălțime și rămâne una dintre cele mai înalte structuri create de om din Belize."},
+            {"q": "Câți oameni trăiau în Caracol în perioada sa de glorie?", "a": "Se estimează că orașul avea peste 140.000 de locuitori."},
+            {"q": "Ce alt oraș mayaș a fost învins de Caracol?", "a": "În anul 562 d.Hr., Caracol a învins puternicul oraș Tikal într-un război major."},
+            {"q": "În ce pădure este situat Caracol?", "a": "Ruinele se află adânc în pădurea tropicală Chiquibul, în districtul Cayo."}
+        ],
+        "en": [
+            {"q": "How tall is the Caana pyramid at Caracol?", "a": "It stands 43 meters (141 feet) high and remains one of the tallest man-made structures in Belize."},
+            {"q": "What was the population of Caracol at its peak?", "a": "At its height, the city is estimated to have supported over 140,000 inhabitants."},
+            {"q": "Which rival Maya city did Caracol famously defeat?", "a": "In 562 AD, Caracol achieved a major military victory over the superpower Tikal."},
+            {"q": "Where is Caracol located?", "a": "It is located deep within the Chiquibul Forest Reserve in western Belize."}
+        ]
+    },
+    "bz-lamanai": {
+        "de": [
+            {"q": "Was bedeutet der Name Lamanai?", "a": "Der Name bedeutet in der Maya-Sprache 'untergetauchtes Krokodil'."},
+            {"q": "Wie lange war Lamanai besiedelt?", "a": "Es ist eine der am längsten besiedelten Maya-Stätten, von 1500 v. Chr. bis ins 17. Jahrhundert."},
+            {"q": "Was ist die bekannteste Struktur in Lamanai?", "a": "Der Maskentempel, der mit großen, in Stein gehauenen Gesichtern verziert ist."},
+            {"q": "Wie erreicht man die Ruinen am besten?", "a": "Die üblichste Anreise ist eine einstündige Bootssafari auf dem New River."}
+        ],
+        "hu": [
+            {"q": "Mit jelent a Lamanai név?", "a": "A név maja nyelven azt jelenti: 'víz alatti krokodil'."},
+            {"q": "Meddig volt lakott Lamanai?", "a": "Ez az egyik leghosszabb ideig lakott maja helyszín, i.e. 1500-tól egészen a 17. századig."},
+            {"q": "Mi Lamanai legismertebb építménye?", "a": "A Maszkos templom, amelyet hatalmas, kőbe faragott arcok díszítenek."},
+            {"q": "Hogyan lehet a legjobban megközelíteni a romokat?", "a": "A leggyakoribb módja egy egyórás folyami szafari a New Riveren."}
+        ],
+        "ro": [
+            {"q": "Ce înseamnă numele Lamanai?", "a": "Numele înseamnă „crocodil scufundat” în limba mayașă."},
+            {"q": "Cât timp a fost locuit Lamanai?", "a": "Este unul dintre siturile mayașe cu cea mai lungă locuire, din 1500 î.Hr. până în secolul al XVII-lea."},
+            {"q": "Care este cea mai cunoscută structură din Lamanai?", "a": "Templul Măștilor, care este decorat cu fețe mari sculptate în piatră."},
+            {"q": "Cum se ajunge cel mai bine la ruine?", "a": "Cea mai obișnuită modalitate este un safari cu barca de o oră pe râul New."}
+        ],
+        "en": [
+            {"q": "What does the name Lamanai mean?", "a": "The name translates from Maya to 'Submerged Crocodile.'"},
+            {"q": "How long was Lamanai inhabited?", "a": "It is one of the longest-occupied Maya sites, with a history spanning from 1500 BC to the 17th century."},
+            {"q": "What is the most iconic structure at the site?", "a": "The Mask Temple, famous for its two large, well-preserved stone faces."},
+            {"q": "What is the best way to get to Lamanai?", "a": "The most popular access is via a scenic boat safari along the New River."}
+        ]
+    },
+    "bz-cayecaulker": {
+        "de": [
+            {"q": "Was ist das Motto von Caye Caulker?", "a": "Das offizielle Motto der Insel lautet 'Go Slow' (Lass es langsam angehen)."},
+            {"q": "Wie entstand 'The Split'?", "a": "Dieser Wasserweg entstand 1961, als der Hurrikan Hattie die Insel in zwei Teile riss."},
+            {"q": "Gibt es auf der Insel Autos?", "a": "Nein, die Insel ist autofrei; man bewegt sich zu Fuß, mit dem Fahrrad oder dem Golfcart fort."},
+            {"q": "Welche Tiere kann man bei Schnorcheltouren sehen?", "a": "Man kann oft Ammenhaie, Rochen und die seltenen Karibik-Manatis beobachten."}
+        ],
+        "hu": [
+            {"q": "Mi Caye Caulker mottója?", "a": "A sziget hivatalos mottója: 'Go Slow' (Lassíts)."},
+            {"q": "Hogyan keletkezett a 'The Split'?", "a": "Ez a vízi út 1961-ben jött létre, amikor a Hattie hurrikán kettészakította a szigetet."},
+            {"q": "Vannak autók a szigeten?", "a": "Nem, a sziget autómentes; gyalog, kerékpárral vagy golfkocsival lehet közlekedni."},
+            {"q": "Milyen állatokat lehet látni a búvártúrákon?", "a": "Gyakran láthatók dajkacápák, ráják és a ritka karibi manátuszok."}
+        ],
+        "ro": [
+            {"q": "Care este mottoul insulei Caye Caulker?", "a": "Mottoul oficial al insulei este „Go Slow” (Mergi încet)."},
+            {"q": "Cum a apărut „The Split”?", "a": "Această cale navigabilă a apărut în 1961, când uraganul Hattie a rupt insula în două."},
+            {"q": "Există mașini pe insulă?", "a": "Nu, insula nu are mașini; deplasarea se face pe jos, cu bicicleta sau cu mașinuța de golf."},
+            {"q": "Ce animale pot fi văzute în timpul tururilor de snorkeling?", "a": "Pot fi observați frecvent rechini dădacă, pisici de mare și rarii lamantini din Caraibe."}
+        ],
+        "en": [
+            {"q": "What is the island's motto?", "a": "The island's world-famous motto is 'Go Slow.'"},
+            {"q": "How was 'The Split' formed?", "a": "This narrow channel was created in 1961 when Hurricane Hattie split the island in two."},
+            {"q": "Are there cars on Caye Caulker?", "a": "No, the island is essentially car-free, with transportation limited to bicycles and golf carts."},
+            {"q": "What marine life can you see nearby?", "a": "Snorkelers often encounter nurse sharks, stingrays, and West Indian manatees."}
+        ]
+    },
+    "bz-barrierreef": {
+        "de": [
+            {"q": "Wie lang ist das Belize Barrier Reef?", "a": "Es erstreckt sich über etwa 300 Kilometer entlang der Küste von Belize."},
+            {"q": "Welchen Rang nimmt es weltweit ein?", "a": "Es ist das zweitgrößte Korallenriffsystem der Erde nach dem Great Barrier Reef."},
+            {"q": "Seit wann gehört es zum UNESCO-Welterbe?", "a": "Das Riff wurde im Jahr 1996 in die Liste des UNESCO-Welterbes aufgenommen."},
+            {"q": "Wie viele Fischarten leben dort?", "a": "In dem Riffsystem sind über 500 verschiedene Fischarten beheimatet."}
+        ],
+        "hu": [
+            {"q": "Milyen hosszú a Belize-korallzátony?", "a": "Körülbelül 300 kilométer hosszan nyúlik el Belize partjai mentén."},
+            {"q": "Hányadik helyen áll a világranglistán?", "a": "Ez a világ második legnagyobb korallzátony-rendszere a Nagy-korallzátony után."},
+            {"q": "Mióta az UNESCO világörökség része?", "a": "A zátony 1996-ban került fel az UNESCO világörökségi listájára."},
+            {"q": "Hány halfaj él ott?", "a": "A zátonyrendszerben több mint 500 különböző halfaj él."}
+        ],
+        "ro": [
+            {"q": "Cât de lungă este Bariera de Corali din Belize?", "a": "Se întinde pe aproximativ 300 de kilometri de-a lungul coastei Belize."},
+            {"q": "Ce locul ocupă în lume?", "a": "Este al doilea cel mai mare sistem de recife de corali din lume, după Marea Barieră de Corali."},
+            {"q": "De când aparține patrimoniului mondial UNESCO?", "a": "Reciful a fost inclus pe lista patrimoniului mondial UNESCO în anul 1996."},
+            {"q": "Câte specii de pești trăiesc acolo?", "a": "Sistemul de recife găzduiește peste 500 de specii diferite de pești."}
+        ],
+        "en": [
+            {"q": "How long is the Belize Barrier Reef?", "a": "The reef system stretches for approximately 300 kilometers (185 miles)."},
+            {"q": "What is its global ranking?", "a": "It is the second largest barrier reef in the world, after Australia's Great Barrier Reef."},
+            {"q": "When did it become a UNESCO World Heritage site?", "a": "It was inscribed on the UNESCO World Heritage list in 1996."},
+            {"q": "How many fish species live in the reef?", "a": "The reef is home to over 500 species of fish and 100 species of coral."}
+        ]
+    },
+    "bz-holchan": {
+        "de": [
+            {"q": "Was bedeutet der Name Hol Chan?", "a": "Der Name stammt aus der Maya-Sprache und bedeutet 'kleiner Kanal'."},
+            {"q": "Wofür ist das Reservat besonders bekannt?", "a": "Es ist weltberühmt für die 'Shark Ray Alley', wo man mit Haien und Rochen schwimmen kann."},
+            {"q": "Ist das Angeln im Reservat erlaubt?", "a": "Nein, das gesamte Gebiet ist eine geschützte Zone, in der Fischfang streng verboten ist."},
+            {"q": "Wie ist die Sicht unter Wasser?", "a": "Hol Chan bietet oft kristallklares Wasser mit Sichtweiten von über 20 Metern."}
+        ],
+        "hu": [
+            {"q": "Mit jelent a Hol Chan név?", "a": "A név maja nyelven azt jelenti: 'kis csatorna'."},
+            {"q": "Miről különösen nevezetes a rezervátum?", "a": "Világhírű a 'Shark Ray Alley'-ről, ahol cápákkal és rájákkal lehet úszni."},
+            {"q": "Szabad horgászni a rezervátumban?", "a": "Nem, az egész terület védett övezet, ahol a halászat szigorúan tilos."},
+            {"q": "Milyenek a látási viszonyok a víz alatt?", "a": "Hol Chan gyakran kristálytiszta vizet kínál, 20 métert meghaladó látótávolsággal."}
+        ],
+        "ro": [
+            {"q": "Ce înseamnă numele Hol Chan?", "a": "Numele provine din limba mayașă și înseamnă „canal mic”."},
+            {"q": "Pentru ce este renumită în mod special rezervația?", "a": "Este celebră în întreaga lume pentru „Shark Ray Alley”, unde poți înota cu rechini și pisici de mare."},
+            {"q": "Este permis pescuitul în rezervație?", "a": "Nu, întreaga zonă este o zonă protejată unde pescuitul este strict interzis."},
+            {"q": "Cum este vizibilitatea sub apă?", "a": "Hol Chan oferă adesea apă cristalină cu vizibilitate de peste 20 de metri."}
+        ],
+        "en": [
+            {"q": "What does the name Hol Chan mean?", "a": "In Maya, 'Hol Chan' translates to 'Little Channel.'"},
+            {"q": "What is the most popular part of the reserve?", "a": "The reserve is most famous for 'Shark Ray Alley,' a top spot for swimming with sharks and rays."},
+            {"q": "Is fishing allowed in Hol Chan?", "a": "No, it is a strictly protected marine zone and all commercial or recreational fishing is prohibited."},
+            {"q": "What are the underwater visibility conditions?", "a": "The reserve is known for its exceptional clarity, often offering over 60 feet of visibility."}
+        ]
+    },
+    "bz-atm": {
+        "de": [
+            {"q": "Was ist das Besondere an der ATM-Höhle?", "a": "Sie enthält zahlreiche Maya-Artefakte und menschliche Skelette, die dort für Rituale geopfert wurden."},
+            {"q": "Wer ist die 'Kristall-Jungfrau'?", "a": "Es ist das Skelett eines jungen Opfers, dessen Knochen durch Kalkablagerungen funkeln."},
+            {"q": "Darf man in der Höhle fotografieren?", "a": "Nein, Kameras sind seit 2012 streng verboten, nachdem ein Tourist ein Artefakt beschädigt hatte."},
+            {"q": "Ist der Zugang zur Höhle anspruchsvoll?", "a": "Ja, man muss schwimmen und durch Wasser waten, um in die Haupthalle zu gelangen."}
+        ],
+        "hu": [
+            {"q": "Mi a különleges az ATM-barlangban?", "a": "Számos maja leletet és emberi csontvázat tartalmaz, amelyeket rituális célokból áldoztak fel ott."},
+            {"q": "Ki a 'Kristályszűz'?", "a": "Egy fiatal áldozat csontváza, amelynek csontjai a mészlerakódásoktól csillognak."},
+            {"q": "Szabad fényképezni a barlangban?", "a": "Nem, a kamerák 2012 óta szigorúan tilosak, miután egy turista kárt okozott egy leletben."},
+            {"q": "Nehéz bejutni a barlangba?", "a": "Igen, úszni és vízben gázolni kell ahhoz, hogy eljussunk a főcsarnokba."}
+        ],
+        "ro": [
+            {"q": "Ce este special la peștera ATM?", "a": "Conține numeroase artefacte mayașe și schelete umane care au fost sacrificate acolo pentru ritualuri."},
+            {"q": "Cine este „Fecioara de Cristal”?", "a": "Este scheletul unei tinere victime, ale cărei oase sclipesc din cauza depunerilor de calciu."},
+            {"q": "Este permisă fotografierea în peșteră?", "a": "Nu, camerele foto sunt strict interzise din 2012, după ce un turist a deteriorat un artefact."},
+            {"q": "Accesul în peșteră este dificil?", "a": "Da, trebuie să înoți și să mergi prin apă pentru a ajunge în sala principală."}
+        ],
+        "en": [
+            {"q": "What is unique about Actun Tunichil Muknal (ATM)?", "a": "The cave serves as a natural museum of Maya history, containing original ritual artifacts and human remains."},
+            {"q": "Who is the 'Crystal Maiden'?", "a": "She is a young sacrifice victim whose skeleton has become completely calcified and sparkles under light."},
+            {"q": "Are cameras allowed inside ATM?", "a": "No, cameras were banned in 2012 after a tourist dropped one on an ancient skull."},
+            {"q": "How physically demanding is the tour?", "a": "It is quite challenging as visitors must swim, wade through water, and climb through narrow passages."}
+        ]
+    },
+    "bz-belizezoo": {
+        "de": [
+            {"q": "Welche Tiere zeigt der Belize Zoo?", "a": "Der Zoo zeigt ausschließlich Tiere, die in Belize heimisch sind."},
+            {"q": "Wie ist der Zoo entstanden?", "a": "Er wurde 1983 gegründet, um Tieren, die nach Filmdrehs zurückgelassen wurden, ein Zuhause zu geben."},
+            {"q": "Warum wird er 'Der beste kleine Zoo der Welt' genannt?", "a": "Wegen seiner naturnahen Haltung und dem Fokus auf Bildung und Artenschutz."},
+            {"q": "Kann man dort Jaguare sehen?", "a": "Ja, der Zoo beherbergt mehrere gerettete Jaguare in großzügigen Gehegen."}
+        ],
+        "hu": [
+            {"q": "Milyen állatokat mutat be a Belize-i Állatkert?", "a": "Az állatkert kizárólag Belize-ben őshonos állatokat mutat be."},
+            {"q": "Hogyan jött létre az állatkert?", "a": "1983-ban alapították, hogy otthont adjanak a filmforgatások után magukra hagyott állatoknak."},
+            {"q": "Miért hívják „A világ legjobb kis állatkertjének”?", "a": "A természetközeli tartási mód és az oktatásra, fajmegőrzésre való összpontosítás miatt."},
+            {"q": "Lehet ott jaguárokat látni?", "a": "Igen, az állatkert több mentett jaguárnak ad otthont tágas kifutókban."}
+        ],
+        "ro": [
+            {"q": "Ce animale prezintă Grădina Zoologică din Belize?", "a": "Grădina prezintă exclusiv animale care sunt native din Belize."},
+            {"q": "Cum a luat ființă grădina zoologică?", "a": "A fost fondată în 1983 pentru a oferi un cămin animalelor abandonate după filmări."},
+            {"q": "De ce este numită „Cea mai bună mică grădină zoologică din lume”?", "a": "Datorită modului de îngrijire apropiat de natură și accentului pus pe educație și conservare."},
+            {"q": "Se pot vedea jaguari acolo?", "a": "Da, grădina găzduiește mai mulți jaguari salvați în țarcuri spațioase."}
+        ],
+        "en": [
+            {"q": "What kind of animals live at the Belize Zoo?", "a": "The zoo exclusively houses over 170 animals that are all native to Belize."},
+            {"q": "How did the zoo start?", "a": "It began in 1983 as a sanctuary for animals that had been used in documentary films."},
+            {"q": "Why is it called 'The Best Little Zoo in the World'?", "a": "It is famous for its focus on education and for keeping animals in large, natural enclosures."},
+            {"q": "Can you see jaguars there?", "a": "Yes, the zoo is well-known for its successful rescue and rehabilitation program for jaguars."}
+        ]
+    },
+    "bz-ambergris-caye": {
+        "de": [
+            {"q": "Wie groß ist Ambergris Caye?", "a": "Es ist die größte Insel von Belize mit einer Länge von etwa 40 Kilometern."},
+            {"q": "Was ist die Hauptstadt der Insel?", "a": "Der einzige größere Ort und das touristische Zentrum ist San Pedro Town."},
+            {"q": "War die Insel schon immer eine Insel?", "a": "Ursprünglich war es eine Halbinsel, die durch einen schmalen Kanal von den Maya vom Festland getrennt wurde."},
+            {"q": "Was kann man im Norden der Insel erkunden?", "a": "Im Norden liegt der Bacalar Chico Nationalpark, der zum UNESCO-Welterbe gehört."}
+        ],
+        "hu": [
+            {"q": "Mekkora az Ambergris Caye?", "a": "Ez Belize legnagyobb szigete, hossza körülbelül 40 kilométer."},
+            {"q": "Mi a sziget központja?", "a": "Az egyetlen nagyobb település és turisztikai központ San Pedro városa."},
+            {"q": "Mindig is sziget volt?", "a": "Eredetileg egy félsziget volt, amelyet a maják egy keskeny csatornával választottak el a szárazföldtől."},
+            {"q": "Mit lehet felfedezni a sziget északi részén?", "a": "Északon található a Bacalar Chico Nemzeti Park, amely az UNESCO világörökség része."}
+        ],
+        "ro": [
+            {"q": "Cât de mare este Ambergris Caye?", "a": "Este cea mai mare insulă din Belize, având o lungime de aproximativ 40 de kilometri."},
+            {"q": "Care este centrul insulei?", "a": "Singura localitate mai mare și centrul turistic este San Pedro Town."},
+            {"q": "A fost întotdeauna o insulă?", "a": "Inițial a fost o peninsulă, care a fost separată de continent de către mayași printr-un canal îngust."},
+            {"q": "Ce se poate explora în nordul insulei?", "a": "În nord se află Parcul Național Bacalar Chico, care aparține patrimoniului mondial UNESCO."}
+        ],
+        "en": [
+            {"q": "How big is Ambergris Caye?", "a": "It is Belize's largest island, measuring roughly 40 kilometers (25 miles) in length."},
+            {"q": "What is the main town on the island?", "a": "San Pedro Town is the only significant urban area and the primary tourist hub."},
+            {"q": "Was Ambergris Caye always an island?", "a": "No, it was originally a peninsula until the ancient Maya dug a canal to separate it from Mexico."},
+            {"q": "What is located in the northern part of the island?", "a": "The north is home to the Bacalar Chico Marine Reserve and National Park, a UNESCO site."}
+        ]
+    },
+    "bz-big-rock-falls": {
+        "de": [
+            {"q": "Wie hoch sind die Big Rock Falls?", "a": "Der Wasserfall ist etwa 45 Meter hoch."},
+            {"q": "In welchem Schutzgebiet liegen die Fälle?", "a": "Sie befinden sich im Mountain Pine Ridge Forest Reserve."},
+            {"q": "Darf man im Pool unter dem Wasserfall schwimmen?", "a": "Ja, der tiefe natürliche Pool ist ein beliebter Ort für ein erfrischendes Bad."},
+            {"q": "Ist der Weg zum Wasserfall schwierig?", "a": "Der Abstieg über die steilen Holztreppen erfordert Trittsicherheit und eine gewisse Fitness."}
+        ],
+        "hu": [
+            {"q": "Milyen magas a Big Rock-vízesés?", "a": "A vízesés körülbelül 45 méter magas."},
+            {"q": "Melyik védett területen találhatók a vízesések?", "a": "A Mountain Pine Ridge Forest Reserve területén találhatók."},
+            {"q": "Szabad úszni a vízesés alatti medencében?", "a": "Igen, a mély természetes medence népszerű hely egy frissítő fürdőzéshez."},
+            {"q": "Nehéz az út a vízeséshez?", "a": "A meredek falépcsőkön való lejutás biztos járást és bizonyos edzettséget igényel."}
+        ],
+        "ro": [
+            {"q": "Cât de înaltă este cascada Big Rock?", "a": "Cascada are o înălțime de aproximativ 45 de metri."},
+            {"q": "În ce zonă protejată se află cascada?", "a": "Se află în Rezervația Mountain Pine Ridge Forest."},
+            {"q": "Este permis înotul în piscina de sub cascadă?", "a": "Da, piscina naturală adâncă este un loc popular pentru o baie răcoritoare."},
+            {"q": "Drumul către cascadă este dificil?", "a": "Coborârea pe scările de lemn abrupte necesită siguranță la mers și o anumită condiție fizică."}
+        ],
+        "en": [
+            {"q": "How tall is Big Rock Falls?", "a": "The waterfall has a magnificent drop of about 45 meters (150 feet)."},
+            {"q": "Where is the waterfall located?", "a": "It is one of the premier attractions within the Mountain Pine Ridge Forest Reserve."},
+            {"q": "Can visitors swim at the falls?", "a": "Yes, there is a large, deep natural pool at the base that is perfect for swimming."},
+            {"q": "Is the hike to the falls difficult?", "a": "The hike is short but steep, involving a series of wooden stairs leading down to the river."}
+        ]
+    },
+    "bz-placencia": {
+        "de": [
+            {"q": "Wofür ist Placencia bekannt?", "a": "Für seine wunderschönen Sandstrände und den 'schmalsten Gehweg der Welt'."},
+            {"q": "Wie lang ist die Halbinsel Placencia?", "a": "Die Halbinsel ist etwa 26 Kilometer lang."},
+            {"q": "Welche besondere Aktivität gibt es im Frühjahr?", "a": "Zwischen März und Juni kann man in der Nähe mit Walhaien schnorcheln."},
+            {"q": "Wie heißt der berühmte Gehweg?", "a": "Der 'Placencia Sidewalk' ist die Hauptader des Dorfes und nur für Fußgänger gedacht."}
+        ],
+        "hu": [
+            {"q": "Miről nevezetes Placencia?", "a": "Gyönyörű homokos strandjairól és a „világ legkeskenyebb sétányáról”."},
+            {"q": "Milyen hosszú a Placencia-félsziget?", "a": "A félsziget körülbelül 26 kilométer hosszú."},
+            {"q": "Milyen különleges program van tavasszal?", "a": "Március és június között a közelben cetcápákkal lehet búvárkodni."},
+            {"q": "Hogy hívják a híres sétányt?", "a": "A 'Placencia Sidewalk' a falu főútja, és csak gyalogosok használhatják."}
+        ],
+        "ro": [
+            {"q": "Pentru ce este cunoscută Placencia?", "a": "Pentru plajele sale frumoase cu nisip și pentru „cea mai îngustă stradă pietonală din lume”."},
+            {"q": "Cât de lungă este peninsula Placencia?", "a": "Peninsula are o lungime de aproximativ 26 de kilometri."},
+            {"q": "Ce activitate specială există primăvara?", "a": "Între martie și iunie se poate face snorkeling cu rechini-balenă în apropiere."},
+            {"q": "Cum se numește celebra stradă pietonală?", "a": "„Placencia Sidewalk” este artera principală a satului și este destinată doar pietonilor."}
+        ],
+        "en": [
+            {"q": "What is Placencia famous for?", "a": "It is known for having the best mainland beaches and the world's narrowest main street."},
+            {"q": "How long is the Placencia Peninsula?", "a": "The narrow sandy peninsula is approximately 26 kilometers (16 miles) long."},
+            {"q": "What unique seasonal activity happens nearby?", "a": "Placencia is the top spot for swimming with whale sharks at Gladden Spit from March to June."},
+            {"q": "What is the 'sidewalk' in Placencia?", "a": "The Placencia Sidewalk is a mile-long pedestrian-only path once recognized by Guinness as the world's narrowest street."}
+        ]
+    },
+    "bz-mountain-pine": {
+        "de": [
+            {"q": "Welcher ist der höchste Wasserfall im Reservat?", "a": "Die Thousand Foot Falls, die eigentlich fast 1.600 Fuß hoch sind."},
+            {"q": "Welches Nationaltier kann man hier sehen?", "a": "Das Gebiet ist ein wichtiger Lebensraum für den Baird-Tapir."},
+            {"q": "Was ist geologisch an der Region besonders?", "a": "Hier findet man Granitgestein, das über 300 Millionen Jahre alt ist."},
+            {"q": "Warum heißt es Pine Ridge?", "a": "Weil das Gebiet von Karibischen Kiefern dominiert wird, was untypisch für die Tropen ist."}
+        ],
+        "hu": [
+            {"q": "Melyik a legmagasabb vízesés a rezervátumban?", "a": "A Thousand Foot Falls, amely valójában majdnem 1600 láb magas."},
+            {"q": "Melyik nemzeti állatot lehet itt látni?", "a": "A terület a közép-amerikai tapír fontos élőhelye."},
+            {"q": "Mi a különleges a régióban földtanilag?", "a": "Itt több mint 300 millió éves gránitkőzet található."},
+            {"q": "Miért hívják Pine Ridge-nek?", "a": "Mert a területet karibi fenyők uralják, ami szokatlan a trópusokon."}
+        ],
+        "ro": [
+            {"q": "Care este cea mai înaltă cascadă din rezervație?", "a": "Cascada Thousand Foot, care are de fapt o înălțime de aproape 1.600 de picioare."},
+            {"q": "Ce animal național poate fi văzut aici?", "a": "Zona este un habitat important pentru tapirul lui Baird."},
+            {"q": "Ce este special din punct de vedere geologic în regiune?", "a": "Aici se găsește rocă de granit care are o vechime de peste 300 de milioane de ani."},
+            {"q": "De ce se numește Pine Ridge?", "a": "Deoarece zona este dominată de pini din Caraibe, ceea ce este neobișnuit pentru tropice."}
+        ],
+        "en": [
+            {"q": "Which is the highest waterfall in the reserve?", "a": "The Thousand Foot Falls, which is actually closer to 1,600 feet in height."},
+            {"q": "Which national animal can be found here?", "a": "The reserve is a critical habitat for the Baird's Tapir, Belize's national animal."},
+            {"q": "What is geologically significant about this area?", "a": "It features ancient granite formations dating back over 300 million years."},
+            {"q": "Why is it called 'Pine Ridge'?", "a": "It is named for its extensive stands of Caribbean Pine, a rare sight in tropical Central America."}
+        ]
+    },
+    "bz-cerros": {
+        "de": [
+            {"q": "Wann war Cerros besiedelt?", "a": "Die Stadt blühte in der späten Präklassik, etwa von 400 v. Chr. bis 400 n. Chr."},
+            {"q": "Warum ist die Lage von Cerros besonders?", "a": "Es ist eine der wenigen Maya-Stätten, die direkt an der Küste (Corozal Bay) liegen."},
+            {"q": "Was handelten die Bewohner von Cerros?", "a": "Sie waren Experten im maritimen Handel mit Salz, Jade und Obsidian."},
+            {"q": "Kann man die Ruinen mit dem Auto erreichen?", "a": "Es ist möglich, aber die beliebteste Anreise ist eine Bootsfahrt von Corozal Town aus."}
+        ],
+        "hu": [
+            {"q": "Mikor volt lakott Cerros?", "a": "A város a késői preklasszikus korban virágzott, körülbelül i.e. 400 és i.sz. 400 között."},
+            {"q": "Miért különleges Cerros elhelyezkedése?", "a": "Ez egyike azon kevés maja helyszíneknek, amelyek közvetlenül a tengerparton (Corozal-öböl) találhatók."},
+            {"q": "Mivel kereskedtek Cerros lakói?", "a": "A sóval, jádéval és obszidiánnal folytatott tengeri kereskedelem szakértői voltak."},
+            {"q": "Elérhetők a romok autóval?", "a": "Lehetséges, de a legnépszerűbb módja egy hajóút Corozal városából."}
+        ],
+        "ro": [
+            {"q": "Când a fost locuit orașul Cerros?", "a": "Orașul a înflorit în perioada preclasică târzie, aproximativ între 400 î.Hr. și 400 d.Hr."},
+            {"q": "De ce este specială locația orașului Cerros?", "a": "Este unul dintre puținele situri mayașe situate chiar pe coastă (Corozal Bay)."},
+            {"q": "Cu ce făceau comerț locuitorii din Cerros?", "a": "Erau experți în comerțul maritim cu sare, jad și obsidian."},
+            {"q": "Se poate ajunge la ruine cu mașina?", "a": "Este posibil, dar cea mai populară cale de acces este o plimbare cu barca din orașul Corozal."}
+        ],
+        "en": [
+            {"q": "When was Cerros inhabited?", "a": "The city flourished during the Late Preclassic period, roughly from 400 BC to 400 AD."},
+            {"q": "What is unique about Cerros' location?", "a": "It is one of the few Maya sites built directly on the ocean shore, specifically Corozal Bay."},
+            {"q": "What were the main trade items for Cerros?", "a": "The inhabitants were skilled maritime traders in salt, jade, and obsidian."},
+            {"q": "Can you reach the ruins by car?", "a": "Yes, but the most scenic and popular way to arrive is by boat from Corozal Town."}
+        ]
+    }
+}

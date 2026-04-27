@@ -1,0 +1,197 @@
+[
+  {
+    "id": "city-sebes-extra",
+    "name_hu": "Szászsebes",
+    "desc_de": "Sebeș, im Deutschen als Mühlbach bekannt, ist eine historisch bedeutsame Stadt im Kreis Alba in Siebenbürgen, Rumänien. Gegründet von den Siebenbürger Sachsen im 12. Jahrhundert, entwickelte sich die Stadt schnell zu einem wichtigen wirtschaftlichen und kulturellen Zentrum. Die Architektur von Mühlbach spiegelt seine reiche mittelalterliche Vergangenheit wider, insbesondere die beeindruckende evangelische Stadtpfarrkirche, die ein Meisterwerk gotischer Baukunst darstellt. Geografisch liegt die Stadt am Ufer des Flusses Sebeș und dient als strategischer Knotenpunkt zwischen den Regionen Südsiebenbürgens. Neben seiner historischen Bedeutung ist Sebeș heute ein dynamischer Industriestandort, der Tradition und Moderne verbindet. Besucher schätzen die gut erhaltene Altstadt und die Nähe zu den spektakulären Berglandschaften der Karpaten, was die Stadt zu einem idealen Ausgangspunkt für kulturelle und naturbezogene Erkundungen macht.",
+    "facts_de": [
+      "Mühlbach wurde um 1150 von deutschen Siedlern (Sachsen) gegründet.",
+      "Die evangelische Stadtpfarrkirche besitzt einen der bedeutendsten Flügelaltäre Siebenbürgens aus dem 16. Jahrhundert.",
+      "Sebeș war im Mittelalter eine der sieben wichtigsten sächsischen Städte (Siebenburgen).",
+      "Die Stadtmauer mit ihren Wehrtürmen stammt ursprünglich aus dem 14. Jahrhundert.",
+      "Hier kreuzen sich die wichtigen europäischen Verkehrsmagistralen A1 und die Nationalstraße 7.",
+      "Das städtische Museum (Muzeul Municipal Ioan Raica) befindet sich im historischen Zapolya-Haus.",
+      "Sebeș liegt auf einer Höhe von etwa 250 Metern über dem Meeresspiegel.",
+      "Die Stadt ist ein bedeutendes Zentrum der holzverarbeitenden Industrie in Rumänien."
+    ]
+  },
+  {
+    "id": "city-aiud-extra",
+    "name_hu": "Nagyenyed",
+    "desc_de": "Aiud, in der deutschen Geschichte als Straßburg am Mieresch bekannt, ist eine charmante Stadt in Siebenbürgen mit einer tief verwurzelten kulturellen Identität. Sie ist besonders berühmt für ihre mittelalterliche Burg, eine der ältesten und am besten erhaltenen ihrer Art in der Region, die heute das Historische Museum beherbergt. Die Stadt war über Jahrhunderte hinweg ein bedeutendes Bildungszentrum, geprägt durch das renommierte Bethlen-Gábor-Kollegium, das im 17. Jahrhundert gegründet wurde und die intellektuelle Elite der Region formte. Geografisch liegt Aiud am Mittellauf des Flusses Mieresch (Mureș) und ist von sanften Hügeln umgeben, die für den Weinbau bekannt sind. Die Mischung aus ungarischen, rumänischen und sächsischen Einflüssen verleiht Aiud eine einzigartige Atmosphäre, die sich in der Architektur, den religiösen Bauwerken und den lokalen Traditionen widerspiegelt.",
+    "facts_de": [
+      "Die Burg von Aiud stammt aus dem 14. Jahrhundert und umfasst neun Wehrtürme.",
+      "Das Bethlen-Gábor-Kollegium wurde 1622 von Fürst Gabriel Bethlen in Weißenburg gegründet und später nach Aiud verlegt.",
+      "In Aiud befindet sich eines der ältesten Naturkundemuseen Rumäniens, gegründet im Jahr 1796.",
+      "Die Stadt war ein Zentrum der Reformation in Siebenbürgen.",
+      "Die reformierte Kirche innerhalb der Burgmauer zeigt beeindruckende gotische Stilelemente.",
+      "Aiud liegt strategisch günstig an der Eisenbahnlinie zwischen Karlsburg (Alba Iulia) und Klausenburg (Cluj-Napoca).",
+      "Das jährliche Weinfest feiert die lange tradition des Weinbaus in der umliegenden Region.",
+      "Während der kommunistischen Ära war das Gefängnis von Aiud berüchtigt für die Inhaftierung politischer Gefangener."
+    ]
+  },
+  {
+    "id": "city-blaj-extra",
+    "name_hu": "Balázsfalva",
+    "desc_de": "Blaj, im Deutschen Blasendorf genannt, nimmt einen heiligen Platz in der Geschichte der rumänischen nationalen Wiedergeburt ein. Gelegen am Zusammenfluss der Großen und Kleinen Kokel (Târnava Mare und Târnava Mică), war die Stadt über Jahrhunderte das geistige und kulturelle Zentrum der griechisch-katholischen Kirche in Siebenbürgen. Hier wurde 1848 auf der berühmten 'Wiese der Freiheit' die nationale Unabhängigkeit der Rumänen in Siebenbürgen proklamiert. Die Architektur der Stadt wird von der majestätischen Kathedrale der Heiligen Dreifaltigkeit und den zahlreichen kirchlichen Bildungseinrichtungen dominiert, die Blaj den Beinamen 'Klein-Rom' einbrachten. Neben seiner historischen und religiösen Bedeutung ist Blaj heute ein modernes Wirtschaftszentrum, das seine Wurzeln pflegt und gleichzeitig in innovative Industrien investiert. Die umliegende Hügellandschaft bietet zudem exzellente Bedingungen für den Weinbau, der eine lange Tradition in der Region hat.",
+    "facts_de": [
+      "Blaj wurde erstmals im Jahr 1252 urkundlich erwähnt.",
+      "Die Stadt gilt als Geburtsort der modernen rumänischen Schriftsprache.",
+      "Die 'Wiese der Freiheit' (Câmpia Libertății) war Schauplatz der großen Nationalversammlung von 1848 mit über 40.000 Teilnehmern.",
+      "Die Kathedrale von Blaj wurde zwischen 1741 und 1749 im Barockstil erbaut.",
+      "In Blaj wurde die erste öffentliche Schule mit rumänischer Unterrichtssprache in Siebenbürgen eröffnet.",
+      "Die Stadt beherbergt die 'Eiche von Avram Iancu', ein Naturdenkmal von hohem symbolischem Wert.",
+      "Blaj ist bekannt für seine hochwertigen Weißweine aus dem Târnave-Weinbaugebiet.",
+      "Der ungarische Dichter Sándor Petőfi beschrieb die Stadt als ein wichtiges kulturelles Zentrum seiner Zeit."
+    ]
+  },
+  {
+    "id": "city-pecica-extra",
+    "name_hu": "Pécska",
+    "desc_de": "Pecica, auf Deutsch Petschka, ist eine geschichtsträchtige Stadt im Kreis Arad, nahe der ungarischen Grenze. Die Region ist seit der Antike besiedelt, was durch bedeutende archäologische Funde aus der Bronzezeit (Pecica-Kultur) belegt wird. Heute ist die Stadt vor allem für ihre fruchtbaren Böden und ihre starke landwirtschaftliche Tradition bekannt, wobei das 'Pecica-Brot' in ganz Rumänien als Delikatesse gilt. Die geografische Lage in der Maros-Ebene macht Pecica zu einem wichtigen Verkehrsknotenpunkt zwischen Mitteleuropa und dem Balkan. Kulturell ist die Stadt durch ein harmonisches Zusammenleben verschiedener Ethnien geprägt, was sich in den lokalen Festen und der vielfältigen Architektur der Sakralbauten zeigt. Besucher können die nahegelegenen Auen des Flusses Maros erkunden, die Teil eines ausgedehnten Naturparks sind und eine reiche Flora und Fauna beherbergen.",
+    "facts_de": [
+      "Archäologische Ausgrabungen in der Nähe (Șanțul Mare) brachten Siedlungen aus der Bronzezeit ans Licht.",
+      "Das berühmte Pecica-Brot wurde traditionell in speziellen Lehmöfen gebacken und bis an den königlichen Hof geliefert.",
+      "Pecica erhielt im Jahr 2004 den Status einer Stadt.",
+      "Der Naturpark Maros-Auen (Lunca Mureșului) beginnt in unmittelbarer Nähe der Stadt.",
+      "Die römisch-katholische Kirche der Stadt ist ein beeindruckendes Bauwerk aus dem späten 19. Jahrhundert.",
+      "Die Stadt liegt nur etwa 20 Kilometer westlich der Kreishauptstadt Arad.",
+      "Die Bevölkerung besteht aus einer Mischung von Rumänen, Ungarn und Roma.",
+      "Jedes Jahr findet das 'Fest des neuen Brotes' statt, das die landwirtschaftlichen Wurzeln der Stadt feiert."
+    ]
+  },
+  {
+    "id": "city-santana-extra",
+    "name_hu": "Újszentanna",
+    "desc_de": "Sântana, bekannt unter dem deutschen Namen Sanktanna, ist eine Stadt im Westen Rumäniens, die tief von der Geschichte der Banater Schwaben geprägt wurde. Im 18. Jahrhundert von deutschen Siedlern gegründet, entwickelte sich der Ort schnell zu einer blühenden Gemeinde mit einer charakteristischen Architektur und einer effizienten Landwirtschaft. Die breiten Straßen und gepflegten Häuser im alten Ortskern zeugen noch heute vom Erbe der sächsischen und schwäbischen Baumeister. Geografisch liegt Sântana in der weiten Arader Ebene, einer Region, die für ihre Getreideproduktion und ihren Weinbau bekannt ist. Obwohl ein Großteil der deutschen Bevölkerung im 20. Jahrhundert auswanderte, bleibt das kulturelle Erbe in den lokalen Traditionen und dem Gemeinschaftsgeist lebendig. Heute ist Sântana ein wichtiger Bahnknotenpunkt und ein wachsendes wirtschaftliches Zentrum, das seine historische Identität mit moderner Entwicklung verknüpft.",
+    "facts_de": [
+      "Sanktanna wurde im Jahr 1736 auf Initiative der Kaiserin Maria Theresia von deutschen Siedlern gegründet.",
+      "Die Stadt war einst eine der größten deutschen Gemeinden im Arader Land.",
+      "Die katholische Kirche St. Anna ist ein zentrales architektonisches Denkmal der Stadt.",
+      "Sântana liegt an der wichtigen Eisenbahnstrecke zwischen Arad und Oradea.",
+      "Die Stadt ist bekannt für ihre traditionellen Kirchweihfeste, die auch heute noch gefeiert werden.",
+      "Die Region um Sântana gilt als eine der fruchtbarsten Agrarzonen Rumäniens.",
+      "Sântana wurde offiziell im Jahr 2003 zur Stadt erklärt.",
+      "In der Stadt gibt es ein Museum, das sich der Geschichte und den Bräuchen der lokalen Bevölkerung widmet."
+    ]
+  },
+  {
+    "id": "city-lipova-extra",
+    "name_hu": "Lippa",
+    "desc_de": "Lipova, im Deutschen als Lippa bekannt, ist eine malerische Stadt im Kreis Arad, die am Ufer des Flusses Mureș liegt. Die Stadt hat eine reiche Geschichte, die bis in die Römerzeit zurückreicht, und war im Mittelalter eine strategisch wichtige Festung. Besonders sehenswert ist die Festung Șoimoș, die auf einem Hügel über der Stadt thront und einen atemberaubenden Blick über das Mureș-Tal bietet. Lipova ist auch für sein Thermalbad und die Mineralwasserquellen bekannt, die seit dem 19. Jahrhundert Besucher anziehen. Die Architektur der Stadt zeigt eine Mischung aus barocken und neoklassizistischen Einflüssen, insbesondere in der Nähe des alten Marktplatzes. Kulturell ist Lipova ein Schmelztiegel, in dem rumänische, ungarische und deutsche Traditionen aufeinandertreffen, was sich in der lokalen Gastronomie und den jährlichen Festen widerspiegelt. Die umliegende Natur lädt zu Wanderungen und Erholung in einer der schönsten Flusslandschaften Westrumäniens ein.",
+    "facts_de": [
+      "Lipova wurde erstmals im Jahr 1245 urkundlich erwähnt.",
+      "Die Festung Șoimoș wurde im 13. Jahrhundert zum Schutz vor tatarischen Invasionen erbaut.",
+      "Das Mineralwasser von Lipova wurde bereits 1818 für seine heilende Wirkung ausgezeichnet.",
+      "Die Stadt beherbergt das Misici-Haus, ein bedeutendes architektonisches Denkmal aus dem 19. Jahrhundert.",
+      "Lipova war während der osmanischen Kriege mehrfach zwischen den Habsburgern und Türken umkämpft.",
+      "Die orthodoxe Kirche 'Mariä Entschlafen' besitzt wertvolle Wandmalereien aus dem 18. Jahrhundert.",
+      "Die Stadt liegt an der historischen Handelsroute, die Siebenbürgen mit der pannonischen Tiefebene verband.",
+      "In der Nähe befindet sich das Kloster Maria Radna, einer der wichtigsten katholischen Wallfahrtsorte im Südosten Europas."
+    ]
+  },
+  {
+    "id": "city-curtea-de-arges-extra",
+    "name_hu": "Argyasudvarhely",
+    "desc_de": "Curtea de Argeș, einst die stolze Hauptstadt des Fürstentums Walachei, ist eine der geschichtsträchtigsten Städte Rumäniens. Sie liegt am Fuße der Făgăraș-Berge und wird vom Fluss Argeș durchflossen. Die Stadt ist weltberühmt für das Kloster Curtea de Argeș, ein architektonisches Juwel aus dem frühen 16. Jahrhundert, das als Grabstätte der rumänischen Königsfamilie dient. Die Legende von Meister Manole, der seine Frau in die Mauern einmauerte, um den Bau zu vollenden, ist tief mit diesem Ort verbunden. Neben dem Kloster beherbergt die Stadt die Fürstenkirche St. Nikolaus, die für ihre byzantinischen Fresken bekannt ist. Curtea de Argeș strahlt eine Atmosphäre von aristokratischer Gelassenheit aus und ist ein wichtiges Ziel für Pilger und Kulturliebhaber. Die geografische Lage macht die Stadt zudem zu einem idealen Ausgangspunkt für Touren auf der spektakulären Transfăgărășan-Hochstraße.",
+    "facts_de": [
+      "Curtea de Argeș war im 14. Jahrhundert die erste Residenz der walachischen Fürsten.",
+      "Das Kloster Curtea de Argeș wurde von Fürst Neagoe Basarab zwischen 1512 und 1517 erbaut.",
+      "In der Kathedrale des Klosters sind alle rumänischen Könige, von Karl I. bis Michael I., bestattet.",
+      "Die Fürstenkirche (Biserica Domnească) gehört zum UNESCO-Weltkulturerbe-Kandidatenpool.",
+      "Die Stadt liegt auf einer Höhe von 450 Metern in einer malerischen Hügellandschaft.",
+      "Curtea de Argeș ist bekannt für seine traditionsreiche Porzellan- und Textilindustrie.",
+      "Der Name der Stadt bedeutet wörtlich 'Der Hof am Argeș'.",
+      "Die nahegelegene Ruine der Burg Poenari gilt als das eigentliche Schloss von Vlad Țepeș (Dracula)."
+    ]
+  },
+  {
+    "id": "city-campulung-extra",
+    "name_hu": "Hosszúmező",
+    "desc_de": "Câmpulung, oft Câmpulung Muscel genannt, war die erste Residenz der walachischen Herrscher und ist eine Stadt voller mittelalterlichem Charme. Geografisch liegt sie in einer Senke zwischen den Ausläufern der Karpaten und bietet ein angenehmes Klima und eine beeindruckende Bergkulisse. Die Stadt ist bekannt für ihre gut erhaltene Architektur, die von der langen Geschichte als Handelszentrum zeugt. Besonders hervorzuheben ist das Kloster Negru Vodă, ein bedeutendes religiöses und kulturelles Denkmal. Câmpulung war über Jahrhunderte ein Ort, an dem sich rumänische, sächsische und andere kulturelle Einflüsse vermischten, was sich in den Bräuchen und der lokalen Kunsthandwerkstradition niederschlägt. Die Stadt ist auch berühmt für das erste schriftliche Dokument in rumänischer Sprache, den Brief von Neacșu, der hier seinen Ursprung hat. Heute ist Câmpulung ein beliebtes Ziel für Touristen, die Geschichte, Natur und authentische rumänische Gastfreundschaft suchen.",
+    "facts_de": [
+      "Câmpulung wurde 1300 erstmals urkundlich erwähnt und war bis 1369 Hauptstadt der Walachei.",
+      "Hier wurde 1521 der Brief von Neacșu verfasst, das älteste erhaltene Dokument in rumänischer Sprache.",
+      "Das Kloster Negru Vodă wurde laut Legende vom mythischen Gründer der Walachei im Jahr 1215 errichtet.",
+      "Die Stadt war im Mittelalter ein wichtiges Zentrum für den Handel mit Siebenbürgen.",
+      "Câmpulung beherbergt zahlreiche historische Villen im typischen Muscel-Stil.",
+      "Der 'Bulevardul Pardon' ist eine berühmte Promenade im Stadtzentrum mit historischem Flair.",
+      "Die Stadt liegt am Fluss Râu Târgului in einer Höhe von etwa 600 Metern.",
+      "In der Nähe befindet sich das Mausoleum von Mateiaș, das den Helden des Ersten Weltkriegs gewidmet ist."
+    ]
+  },
+  {
+    "id": "city-mioveni-extra",
+    "name_hu": "Mioveni",
+    "desc_de": "Mioveni ist eine dynamische Industriestadt im Kreis Argeș, die vor allem als Herz der rumänischen Automobilindustrie bekannt ist. Hier befindet sich das riesige Werk von Automobile Dacia, das einen entscheidenden Beitrag zur nationalen Wirtschaft leistet. Die Stadt hat sich in den letzten Jahrzehnten von einer kleinen Siedlung zu einem modernen urbanen Zentrum entwickelt, das seinen Bewohnern eine hohe Lebensqualität bietet. Geografisch liegt Mioveni in der hügeligen Region der Getischen Hochebene, unweit der Stadt Pitești. Neben der Industrie legt die Stadt großen Wert auf Sport und Bildung, was sich in modernen Sportanlagen und kulturellen Einrichtungen widerspiegelt. Mioveni ist auch für sein Forschungsinstitut für Kernenergie bekannt, was die Stadt zu einem Standort für Hochtechnologie macht. Trotz des industriellen Charakters ist die Umgebung von Mioveni von grünen Landschaften und traditionellen Dörfern geprägt, die einen interessanten Kontrast zum modernen Stadtleben bilden.",
+    "facts_de": [
+      "Die Stadt hieß zwischen 1964 und 1996 'Colibași'.",
+      "Das Dacia-Werk in Mioveni produziert jährlich Hunderttausende Fahrzeuge für den Weltmarkt.",
+      "Hier wurde im Jahr 1968 der erste Dacia 1100 unter französischer Lizenz gefertigt.",
+      "Mioveni beherbergt das einzige Institut für Kernforschung (ICN) in Rumänien.",
+      "Die Stadt verfügt über eine moderne Sportarena, die regelmäßig nationale Wettbewerbe beherbergt.",
+      "Mioveni liegt etwa 15 Kilometer nordöstlich von Pitești.",
+      "Die lokale Kathedrale 'Heilige Petrus und Paulus' ist ein modernes Wahrzeichen der Stadt.",
+      "Der Automobilsektor macht über 90% der lokalen Wirtschaftsleistung aus."
+    ]
+  },
+  {
+    "id": "city-onesti-extra",
+    "name_hu": "Ónfalva",
+    "desc_de": "Onești ist eine bedeutende Industriestadt im Kreis Bacău, gelegen am Zusammenfluss der Flüsse Trotuș, Cașin, Oituz und Tazlău. Die Stadt wurde in den 1950er Jahren als geplantes Industriezentrum massiv ausgebaut und war zeitweise nach dem kommunistischen Führer Gheorghe Gheorghiu-Dej benannt. Onești ist weltweit bekannt als die Heimatstadt der legendären Turnerin Nadia Comăneci, die hier ihre Karriere begann. Wirtschaftlich ist die Stadt durch die chemische Industrie und den Energiesektor geprägt, insbesondere durch den Borzești-Komplex. Geografisch liegt Onești in einer strategisch günstigen Senke, die den Übergang zwischen den Karpaten und der moldauischen Hochebene bildet. Die Stadt ist von bewaldeten Hügeln umgeben, die zahlreiche Freizeitmöglichkeiten bieten. Kulturell hat sich Onești zu einem regionalen Zentrum mit Museen, Theatern und Parks entwickelt, die die industrielle Geschichte und den sportlichen Ruhm der Stadt würdigen.",
+    "facts_de": [
+      "Zwischen 1958 und 1996 trug die Stadt den Namen Gheorghe Gheorghiu-Dej.",
+      "Nadia Comăneci, die bei den Olympischen Spielen 1976 die erste 'perfekte 10' erhielt, wurde hier geboren.",
+      "Das chemische Kombinat in Borzești war einst eines der größten in Osteuropa.",
+      "Onești liegt in einer malerischen Senke am Fuße der Ostkarpaten.",
+      "Die Kirche von Borzești, von Stefan dem Großen 1494 erbaut, ist ein wichtiges historisches Denkmal.",
+      "Die Stadt ist ein wichtiger Knotenpunkt für den Schienen- und Straßenverkehr in der Region Moldau.",
+      "In Onești gibt es ein spezielles Gymnasium für sportliche Höchstleistungen.",
+      "Die umliegenden Wälder beherbergen eine reiche Fauna, darunter Hirsche und Wildschweine."
+    ]
+  },
+  {
+    "id": "city-moinesti-extra",
+    "name_hu": "Mojnest",
+    "desc_de": "Moinești ist eine Stadt im Kreis Bacău, die tief mit der Geschichte der Erdölförderung in Rumänien verbunden ist. Die Region gilt als eine der ältesten Zonen der Welt, in denen Erdöl industriell gewonnen wurde. Die Landschaft um Moinești ist geprägt von den sanften Ausläufern der Karpaten und bietet eine beeindruckende Naturkulisse. Kulturell hat die Stadt eine besondere Bedeutung als Geburtsort von Tristan Tzara, dem Mitbegründer der Dadaismus-Bewegung. Zu seinem Gedenken wurde in der Stadt ein monumentales Denkmal errichtet. Neben der Ölindustrie ist Moinești auch für seine heilenden Mineralquellen bekannt, die bereits im 19. Jahrhundert genutzt wurden. Die Stadt hat sich in den letzten Jahren bemüht, ihr industrielles Erbe mit ökologischem Tourismus und kulturellen Initiativen zu verbinden. Besucher können die 'Dada'-Atmosphäre schnuppern oder in den umliegenden Wäldern wandern, was Moinești zu einem facettenreichen Ziel in der Region Moldau macht.",
+    "facts_de": [
+      "In Moinești wurde bereits im Jahr 1445 die erste Nutzung von Erdöl urkundlich erwähnt.",
+      "Tristan Tzara, der Kopf des Dadaismus, wurde 1896 in Moinești als Samuel Rosenstock geboren.",
+      "Das Dada-Denkmal wurde 1996 zum 100. Geburtstag von Tzara vom Bildhauer Ingo Glass geschaffen.",
+      "Die Stadt besitzt Heilquellen mit Chlorid-, Natrium- und Schwefelgehalt.",
+      "Moinești liegt im Tazlău-Tal auf einer durchschnittlichen Höhe von 440 Metern.",
+      "Die Ölförderung in der Region wird heute hauptsächlich von OMV Petrom betrieben.",
+      "Die Stadt erhielt 2002 den Status eines Munizipiums.",
+      "Der 'Parcul Pinilor' (Kiefernpark) ist ein beliebtes Erholungsgebiet mit alten Nadelbaumbeständen."
+    ]
+  },
+  {
+    "id": "city-comanesti-extra",
+    "name_hu": "Kománfalva",
+    "desc_de": "Comănești liegt idyllisch im Trotuș-Tal im Kreis Bacău und ist von den dichten Wäldern der Ostkarpaten umgeben. Die Stadt hat eine lange industrielle Tradition, die eng mit der Forstwirtschaft und dem Bergbau verknüpft ist. Besonders sehenswert ist der Ghika-Palast, ein architektonisches Meisterwerk aus dem späten 19. Jahrhundert, das einst der Adelsfamilie Ghika gehörte und heute ein Museum beherbergt. Der Palast ist von einem weitläufigen Park umgeben, der zu entspannten Spaziergängen einlädt. Geografisch ist Comănești ein wichtiger Ausgangspunkt für Wanderungen in die nahegelegenen Berge, wie das Tarcău- oder Ciuc-Gebirge. Die Stadt pflegt ihre moldauischen Traditionen, was besonders bei den Winterfestspielen mit ihren charakteristischen Bärenumzügen deutlich wird. Comănești verbindet die raue Schönheit der Industriegeschichte mit dem kulturellen Glanz der Vergangenheit und der unberührten Natur der Karpaten.",
+    "facts_de": [
+      "Der Ghika-Palast wurde 1890 vom italienischen Architekten Albert Galleron entworfen.",
+      "Comănești ist bekannt für die 'Bärenumzüge' (Jocul Urșilor), ein spektakuläres Neujahrsbrauchtum.",
+      "Die Stadt liegt an der strategisch wichtigen Bahnstrecke, die Moldau mit Siebenbürgen verbindet.",
+      "Früher war Comănești ein bedeutendes Zentrum für den Kohleabbau in der Region.",
+      "Die Stadt ist von Bergen umgeben, die Höhen von über 1.000 Metern erreichen.",
+      "Das städtische Museum im Ghika-Palast zeigt Exponate zur Ethnographie und zeitgenössischen Kunst.",
+      "Die Forstwirtschaft spielt auch heute noch eine zentrale Rolle in der lokalen Wirtschaft.",
+      "Comănești liegt auf einer Höhe von etwa 400 Metern über dem Meeresspiegel."
+    ]
+  },
+  {
+    "id": "city-salonta-extra",
+    "name_hu": "Nagyszalonta",
+    "desc_de": "Salonta, im Deutschen Groß-Salontha genannt, ist eine geschichtsträchtige Stadt im Kreis Bihor, direkt an der Grenze zu Ungarn. Sie ist weit über die Region hinaus als Heimatort des berühmten ungarischen Dichters János Arany bekannt. Das Wahrzeichen der Stadt ist der 'Csonkatorony' (Stumpfer Turm), der Rest einer einstigen Festung, in dem heute das Arany-János-Gedenkmuseum untergebracht ist. Die Stadt ist geprägt von einer ruhigen, ländlichen Atmosphäre und einer Architektur, die typisch für die Pannonische Tiefebene ist. Die weiten Ebenen um Salonta bieten ideale Bedingungen für die Landwirtschaft, die seit Jahrhunderten die wirtschaftliche Basis der Gemeinde bildet. Kulturell ist Salonta ein Ort des engen Zusammenlebens zwischen Rumänen und Ungarn, was sich in der zweisprachigen Kultur und den vielfältigen Veranstaltungen widerspiegelt. Die Stadt ist ein Symbol für literarische Tradition und grenzüberschreitende Verbundenheit.",
+    "facts_de": [
+      "Salonta wurde im Jahr 1606 von Fürst István Bocskai als Siedlung für 300 Heiducken gegründet.",
+      "János Arany, einer der bedeutendsten ungarischen Lyriker, wurde 1817 in Salonta geboren.",
+      "Der 'Stumpfe Turm' war Teil einer Festung, die im 17. Jahrhundert zum Schutz vor den Osmanen diente.",
+      "Salonta ist nach Oradea die zweitgrößte Stadt im Kreis Bihor.",
+      "Die Stadt liegt nur etwa 3 Kilometer von der rumänisch-ungarischen Grenze entfernt.",
+      "Salonta ist bekannt für seine traditionsreiche Salami- und Fleischwarenproduktion.",
+      "Die reformierte Kirche im Stadtzentrum ist ein beeindruckendes Beispiel spätgotischer Architektur.",
+      "In der Umgebung von Salonta gibt es bedeutende Schutzgebiete für die Großtrappe, einen seltenen Steppenvogel."
+    ]
+  }
+]

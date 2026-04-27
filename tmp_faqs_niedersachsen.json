@@ -1,0 +1,1112 @@
+{
+    "city-wolfsburg-extra": {
+        "de": [
+            {
+                "q": "Warum wurde Wolfsburg gegründet?",
+                "a": "Die Stadt wurde 1938 als Wohnort für die Arbeiter des Volkswagenwerks gegründet."
+            },
+            {
+                "q": "Was ist die Autostadt?",
+                "a": "Ein Erlebniszentrum und Themenpark von Volkswagen direkt neben dem Werk."
+            },
+            {
+                "q": "Was kann man im Phaeno sehen?",
+                "a": "Es ist ein interaktives Science Center mit über 350 Experimentierstationen."
+            },
+            {
+                "q": "Wie heißt das Fußballstadion in Wolfsburg?",
+                "a": "Die Volkswagen Arena, Heimat des VfL Wolfsburg."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miért alapították Wolfsburgot?",
+                "a": "A várost 1938-ban alapították a Volkswagen-gyár munkásainak lakóhelyéül."
+            },
+            {
+                "q": "Mi az az Autostadt?",
+                "a": "A Volkswagen élményközpontja és élményparkja közvetlenül a gyár mellett."
+            },
+            {
+                "q": "Mit lehet látni a Phaenóban?",
+                "a": "Ez egy interaktív tudományos központ több mint 350 kísérleti állomással."
+            },
+            {
+                "q": "Hogy hívják a wolfsburgi futballstadiont?",
+                "a": "A Volkswagen Arena, a VfL Wolfsburg otthona."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De ce a fost fondat Wolfsburg?",
+                "a": "Orașul a fost fondat în 1938 ca locuință pentru muncitorii uzinei Volkswagen."
+            },
+            {
+                "q": "Ce este Autostadt?",
+                "a": "Un centru de experiență și parc tematic al Volkswagen, direct lângă uzină."
+            },
+            {
+                "q": "Ce se poate vedea la Phaeno?",
+                "a": "Este un centru de știință interactiv cu peste 350 de stații de experimentare."
+            },
+            {
+                "q": "Cum se numește stadionul de fotbal din Wolfsburg?",
+                "a": "Volkswagen Arena, sediul VfL Wolfsburg."
+            }
+        ],
+        "en": [
+            {
+                "q": "Why was Wolfsburg founded?",
+                "a": "The city was founded in 1938 as a place of residence for the workers of the Volkswagen plant."
+            },
+            {
+                "q": "What is the Autostadt?",
+                "a": "An experience center and theme park by Volkswagen right next to the plant."
+            },
+            {
+                "q": "What can be seen at Phaeno?",
+                "a": "It is an interactive science center with over 350 experimental stations."
+            },
+            {
+                "q": "What is the name of the football stadium in Wolfsburg?",
+                "a": "The Volkswagen Arena, home of VfL Wolfsburg."
+            }
+        ]
+    },
+    "city-braunschweig-extra": {
+        "de": [
+            {
+                "q": "Wer war Heinrich der Löwe?",
+                "a": "Ein mächtiger Herzog, der Braunschweig im 12. Jahrhundert zu seiner Residenz ausbaute."
+            },
+            {
+                "q": "Was ist das Happy Rizzi House?",
+                "a": "Ein extrem buntes und ungewöhnlich geformtes Bürogebäude in der Braunschweiger Ackerhof."
+            },
+            {
+                "q": "Welche Forschungsanstalt hat ihren Sitz in Braunschweig?",
+                "a": "Unter anderem die Physikalisch-Technische Bundesanstalt (PTB), die die Zeit in Deutschland vorgibt."
+            },
+            {
+                "q": "Was ist die Burg Dankwarderode?",
+                "a": "Die historische Residenz von Heinrich dem Löwen, heute Teil des Herzog Anton Ulrich-Museums."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Ki volt Oroszlán Henrik?",
+                "a": "Egy hatalmas herceg, aki a 12. században Braunschweiget tette rezidenciájává."
+            },
+            {
+                "q": "Mi az a Happy Rizzi House?",
+                "a": "Egy rendkívül színes és szokatlan formájú irodaház a braunschweigi Ackerhofban."
+            },
+            {
+                "q": "Melyik kutatóintézet székhelye van Braunschweigben?",
+                "a": "Többek között a Physikalisch-Technische Bundesanstalt (PTB), amely Németországban az időt határozza meg."
+            },
+            {
+                "q": "Mi az a Dankwarderode vár?",
+                "a": "Oroszlán Henrik történelmi rezidenciája, ma a Herzog Anton Ulrich-Museum része."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cine a fost Henric Leul?",
+                "a": "Un duce puternic care a transformat Braunschweig în reședința sa în secolul al XII-lea."
+            },
+            {
+                "q": "Ce este Happy Rizzi House?",
+                "a": "O clădire de birouri extrem de colorată și cu o formă neobișnuită în Ackerhof din Braunschweig."
+            },
+            {
+                "q": "Ce institut de cercetare își are sediul în Braunschweig?",
+                "a": "Printre altele, Institutul Federal de Fizică și Tehnică (PTB), care stabilește ora oficială în Germania."
+            },
+            {
+                "q": "Ce este Castelul Dankwarderode?",
+                "a": "Reședința istorică a lui Henric Leul, astăzi parte a Muzeului Herzog Anton Ulrich."
+            }
+        ],
+        "en": [
+            {
+                "q": "Who was Henry the Lion?",
+                "a": "A powerful duke who developed Brunswick into his residence in the 12th century."
+            },
+            {
+                "q": "What is the Happy Rizzi House?",
+                "a": "An extremely colorful and unusually shaped office building in Brunswick's Ackerhof."
+            },
+            {
+                "q": "Which research institute is headquartered in Brunswick?",
+                "a": "Among others, the National Metrology Institute of Germany (PTB), which determines the time in Germany."
+            },
+            {
+                "q": "What is Dankwarderode Castle?",
+                "a": "The historical residence of Henry the Lion, now part of the Herzog Anton Ulrich Museum."
+            }
+        ]
+    },
+    "mnt-brocken-ni-extra": {
+        "de": [
+            {
+                "q": "Wie hoch ist der Brocken?",
+                "a": "Er ist 1141 Meter hoch."
+            },
+            {
+                "q": "Was ist das Brockengespenst?",
+                "a": "Ein optischer Effekt, bei dem der Schatten eines Beobachters auf Nebel geworfen wird."
+            },
+            {
+                "q": "Wie kommt man auf den Gipfel?",
+                "a": "Zu Fuß oder mit der historischen Harzer Schmalspurbahn (Brockenbahn)."
+            },
+            {
+                "q": "War der Brocken während der deutschen Teilung zugänglich?",
+                "a": "Nein, er war militärisches Sperrgebiet und Standort von Abhöranlagen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Milyen magas a Brocken?",
+                "a": "1141 méter magas."
+            },
+            {
+                "q": "Mi az a Brockengespenst?",
+                "a": "Egy optikai hatás, amelynél a megfigyelő árnyéka a ködre vetül."
+            },
+            {
+                "q": "Hogyan lehet feljutni a csúcsra?",
+                "a": "Gyalog vagy a történelmi Harz keskenyvágányú vasúttal (Brockenbahn)."
+            },
+            {
+                "q": "Látogatható volt a Brocken a német kettéosztottság idején?",
+                "a": "Nem, katonai elzárt terület volt, ahol lehallgatóállomások működtek."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cât de înalt este Brocken?",
+                "a": "Are 1141 de metri înălțime."
+            },
+            {
+                "q": "Ce este Brockengespenst (Spectrul Brocken)?",
+                "a": "Un efect optic în care umbra unui observator este proiectată pe ceață."
+            },
+            {
+                "q": "Cum se ajunge pe vârf?",
+                "a": "Pe jos sau cu trenul istoric cu cale îngustă Harz (Brockenbahn)."
+            },
+            {
+                "q": "Era Brocken accesibil în timpul divizării Germaniei?",
+                "a": "Nu, era zonă militară restricționată și sediu al unor instalații de ascultare."
+            }
+        ],
+        "en": [
+            {
+                "q": "How high is the Brocken?",
+                "a": "It is 1141 meters high."
+            },
+            {
+                "q": "What is the Brocken spectre?",
+                "a": "An optical effect where an observer's shadow is cast onto mist or clouds."
+            },
+            {
+                "q": "How do you get to the summit?",
+                "a": "On foot or with the historic Harz Narrow Gauge Railway (Brocken Railway)."
+            },
+            {
+                "q": "Was the Brocken accessible during the division of Germany?",
+                "a": "No, it was a restricted military area and a site for listening posts."
+            }
+        ]
+    },
+    "forest-lueneburger-heide-extra": {
+        "de": [
+            {
+                "q": "Wann blüht die Lüneburger Heide?",
+                "a": "Meist von Anfang August bis Mitte September."
+            },
+            {
+                "q": "Was ist der Wilseder Berg?",
+                "a": "Mit 169 m die höchste Erhebung der Lüneburger Heide."
+            },
+            {
+                "q": "Sind Autos in der Heide erlaubt?",
+                "a": "In den Naturschutzgebieten wie um Wilsede herrscht Autofahrverbot."
+            },
+            {
+                "q": "Was kann man in der Heide unternehmen?",
+                "a": "Wandern, Radfahren und Kutschfahrten sind sehr beliebt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mikor virágzik a Lüneburger Heide?",
+                "a": "Általában augusztus elejétől szeptember közepéig."
+            },
+            {
+                "q": "Mi a Wilseder Berg?",
+                "a": "169 méterrel a Lüneburger Heide legmagasabb pontja."
+            },
+            {
+                "q": "Szabad autóval közlekedni a pusztán?",
+                "a": "A természetvédelmi területeken, mint például Wilsede környékén, autótilalom van érvényben."
+            },
+            {
+                "q": "Mit lehet csinálni a pusztán?",
+                "a": "A túrázás, a kerékpározás és a lovaskocsikázás nagyon népszerű."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Când înflorește Lüneburger Heide?",
+                "a": "De obicei de la începutul lui august până la mijlocul lui septembrie."
+            },
+            {
+                "q": "Ce este Wilseder Berg?",
+                "a": "Cea mai înaltă cotă din Lüneburger Heide, având 169 m."
+            },
+            {
+                "q": "Sunt permise mașinile în landă?",
+                "a": "În zonele protejate, cum ar fi cea din jurul Wilsede, există interdicție pentru mașini."
+            },
+            {
+                "q": "Ce se poate face în landă?",
+                "a": "Drumețiile, ciclismul și plimbările cu trăsura sunt foarte populare."
+            }
+        ],
+        "en": [
+            {
+                "q": "When does the Lüneburg Heath bloom?",
+                "a": "Usually from the beginning of August to mid-September."
+            },
+            {
+                "q": "What is the Wilseder Berg?",
+                "a": "At 169 m, the highest elevation of the Lüneburg Heath."
+            },
+            {
+                "q": "Are cars allowed in the heath?",
+                "a": "In nature reserves like the area around Wilsede, car driving is prohibited."
+            },
+            {
+                "q": "What can you do in the heath?",
+                "a": "Hiking, cycling, and horse-drawn carriage rides are very popular."
+            }
+        ]
+    },
+    "city-osnabrueck-extra": {
+        "de": [
+            {
+                "q": "Warum nennt man Osnabrück 'Friedensstadt'?",
+                "a": "Weil dort 1648 der Westfälische Friede zur Beendigung des Dreißigjährigen Krieges ausgehandelt wurde."
+            },
+            {
+                "q": "Was ist das Felix-Nussbaum-Haus?",
+                "a": "Ein Museum, das dem in Osnabrück geborenen jüdischen Maler Felix Nussbaum gewidmet ist."
+            },
+            {
+                "q": "Gibt es einen Dom in Osnabrück?",
+                "a": "Ja, der spätromanische Dom St. Peter prägt das Stadtbild."
+            },
+            {
+                "q": "Was ist der Piesberg?",
+                "a": "Ein ehemaliger Steinbruch, der heute als Kultur- und Landschaftspark dient."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miért hívják Osnabrücköt 'a béke városának'?",
+                "a": "Mert 1648-ban ott kötötték meg a vesztfáliai békét, amely véget vetett a harmincéves háborúnak."
+            },
+            {
+                "q": "Mi a Felix-Nussbaum-Haus?",
+                "a": "Egy múzeum, amelyet az Osnabrückben született zsidó festőnek, Felix Nussbaumnak szenteltek."
+            },
+            {
+                "q": "Van dóm Osnabrückben?",
+                "a": "Igen, a késő román Szent Péter-dóm meghatározza a városképet."
+            },
+            {
+                "q": "Mi a Piesberg?",
+                "a": "Egy egykori kőbánya, amely ma kulturális és tájképi parkként szolgál."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De ce se numește Osnabrück 'Orașul Păcii'?",
+                "a": "Deoarece acolo s-a negociat în 1648 Pacea Westfalică, care a pus capăt Războiului de Treizeci de Ani."
+            },
+            {
+                "q": "Ce este Felix-Nussbaum-Haus?",
+                "a": "Un muzeu dedicat pictorului evreu Felix Nussbaum, născut în Osnabrück."
+            },
+            {
+                "q": "Există o catedrală în Osnabrück?",
+                "a": "Da, catedrala Sf. Petru în stil romanic târziu definește panorama urbană."
+            },
+            {
+                "q": "Ce este Piesberg?",
+                "a": "O fostă carieră de piatră care astăzi servește ca parc cultural și peisagistic."
+            }
+        ],
+        "en": [
+            {
+                "q": "Why is Osnabrück called the 'City of Peace'?",
+                "a": "Because the Peace of Westphalia was negotiated there in 1648 to end the Thirty Years' War."
+            },
+            {
+                "q": "What is the Felix Nussbaum House?",
+                "a": "A museum dedicated to the Jewish painter Felix Nussbaum, who was born in Osnabrück."
+            },
+            {
+                "q": "Is there a cathedral in Osnabrück?",
+                "a": "Yes, the late Romanesque St. Peter's Cathedral characterizes the cityscape."
+            },
+            {
+                "q": "What is the Piesberg?",
+                "a": "A former quarry that now serves as a cultural and landscape park."
+            }
+        ]
+    },
+    "river-weser-ni-extra": {
+        "de": [
+            {
+                "q": "Welche beiden Flüsse bilden die Weser?",
+                "a": "Die Werra und die Fulda fließen in Hannoversch Münden zusammen und bilden die Weser."
+            },
+            {
+                "q": "In welches Meer mündet die Weser?",
+                "a": "Die Weser mündet bei Bremerhaven in die Nordsee."
+            },
+            {
+                "q": "Was ist die Weserrenaissance?",
+                "a": "Ein spezieller Baustil des 16. und 17. Jahrhunderts, der entlang der Weser verbreitet ist."
+            },
+            {
+                "q": "Ist die Weser für große Schiffe befahrbar?",
+                "a": "Bis Bremen ist sie als Außen- und Unterweser für Seeschiffe befahrbar."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Melyik két folyó alkotja a Wesert?",
+                "a": "A Werra és a Fulda Hannoversch Münden-nél folyik össze, és alkotják a Wesert."
+            },
+            {
+                "q": "Melyik tengerbe torkollik a Weser?",
+                "a": "A Weser Bremerhavennél torkollik az Északi-tengerbe."
+            },
+            {
+                "q": "Mi a Weser-reneszánsz?",
+                "a": "A 16. és 17. század speciális építészeti stílusa, amely a Weser mentén terjedt el."
+            },
+            {
+                "q": "Hajózható a Weser nagy hajók számára?",
+                "a": "Brémáig a külső- és alsó-Weser szakaszon tengeri hajók számára hajózható."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care două râuri formează Weser?",
+                "a": "Werra și Fulda se unesc la Hannoversch Münden pentru a forma Weser."
+            },
+            {
+                "q": "În ce mare se varsă Weser?",
+                "a": "Weser se varsă în Marea Nordului la Bremerhaven."
+            },
+            {
+                "q": "Ce este Renașterea Weserului?",
+                "a": "Un stil arhitectural special din secolele XVI și XVII, răspândit de-a lungul râului Weser."
+            },
+            {
+                "q": "Este Weser navigabil pentru nave mari?",
+                "a": "Până la Bremen este navigabil pentru nave maritime ca Weser Exterior și Inferior."
+            }
+        ],
+        "en": [
+            {
+                "q": "Which two rivers form the Weser?",
+                "a": "The Werra and the Fulda join in Hannoversch Münden to form the Weser."
+            },
+            {
+                "q": "Into which sea does the Weser flow?",
+                "a": "The Weser flows into the North Sea at Bremerhaven."
+            },
+            {
+                "q": "What is the Weser Renaissance?",
+                "a": "A special architectural style of the 16th and 17th centuries common along the Weser."
+            },
+            {
+                "q": "Is the Weser navigable for large ships?",
+                "a": "Up to Bremen, it is navigable for seagoing vessels as the Outer and Lower Weser."
+            }
+        ]
+    },
+    "city-hildesheim-extra": {
+        "de": [
+            {
+                "q": "Was ist das Wahrzeichen von Hildesheim?",
+                "a": "Der Mariendom mit dem legendären 1000-jährigen Rosenstock."
+            },
+            {
+                "q": "Was ist das Knochenhauer-Amtshaus?",
+                "a": "Eines der schönsten Fachwerkhäuser der Welt, am historischen Marktplatz gelegen."
+            },
+            {
+                "q": "Welche andere Kirche gehört zum Weltkulturerbe?",
+                "a": "Die Michaeliskirche, ein Meisterwerk der ottonischen Architektur."
+            },
+            {
+                "q": "Gibt es ein bekanntes Museum in Hildesheim?",
+                "a": "Das Roemer- und Pelizaeus-Museum, berühmt für seine altägyptische Sammlung."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi Hildesheim jelképe?",
+                "a": "A Mariendom a legendás 1000 éves rózsabokorral."
+            },
+            {
+                "q": "Mi a Knochenhauer-Amtshaus?",
+                "a": "A világ egyik legszebb favázas háza, a történelmi piactéren található."
+            },
+            {
+                "q": "Melyik másik templom tartozik a világörökséghez?",
+                "a": "A Michaeliskirche, az ottó-kori építészet remekműve."
+            },
+            {
+                "q": "Van ismert múzeum Hildesheimben?",
+                "a": "A Roemer- und Pelizaeus-Museum, amely az ókori egyiptomi gyűjteményéről híres."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care este simbolul orașului Hildesheim?",
+                "a": "Catedrala Sfânta Maria cu legendarul trandafir de 1000 de ani."
+            },
+            {
+                "q": "Ce este Knochenhauer-Amtshaus?",
+                "a": "Una dintre cele mai frumoase case cu cadre de lemn din lume, situată în piața istorică."
+            },
+            {
+                "q": "Ce altă biserică aparține Patrimoniului Mondial?",
+                "a": "Biserica Sfântul Mihail, o capodoperă a arhitecturii ottoniene."
+            },
+            {
+                "q": "Există un muzeu cunoscut în Hildesheim?",
+                "a": "Muzeul Roemer și Pelizaeus, faimos pentru colecția sa de antichități egiptene."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the landmark of Hildesheim?",
+                "a": "St. Mary's Cathedral with the legendary 1000-year-old rose bush."
+            },
+            {
+                "q": "What is the Knochenhauer-Amtshaus?",
+                "a": "One of the world's most beautiful half-timbered houses, located at the historic marketplace."
+            },
+            {
+                "q": "Which other church belongs to the World Heritage Site?",
+                "a": "St. Michael's Church, a masterpiece of Ottonian architecture."
+            },
+            {
+                "q": "Is there a well-known museum in Hildesheim?",
+                "a": "The Roemer and Pelizaeus Museum, famous for its ancient Egyptian collection."
+            }
+        ]
+    },
+    "island-norderney-extra": {
+        "de": [
+            {
+                "q": "Wie kommt man nach Norderney?",
+                "a": "Mit der Autofähre ab Norddeich-Mole."
+            },
+            {
+                "q": "Darf man auf Norderney mit dem Auto fahren?",
+                "a": "Eingeschränkt; es gibt verkehrsberuhigte Zonen und Fahrverbote im Stadtzentrum."
+            },
+            {
+                "q": "Was ist das 'Bade:haus'?",
+                "a": "Ein großes Thalasso-Zentrum und Wellnessbad auf der Insel."
+            },
+            {
+                "q": "Was ist das Wahrzeichen der Insel?",
+                "a": "Das Kap, ein markantes Seezeichen aus Backstein."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hogyan lehet eljutni Norderney-re?",
+                "a": "Autókomppal Norddeich-Mole kikötőjéből."
+            },
+            {
+                "q": "Szabad Norderney-n autóval közlekedni?",
+                "a": "Korlátozottan; vannak forgalomcsillapított zónák és behajtási tilalmak a városközpontban."
+            },
+            {
+                "q": "Mi az a 'Bade:haus'?",
+                "a": "Egy nagy thalasso-központ és wellness-fürdő a szigeten."
+            },
+            {
+                "q": "Mi a sziget jelképe?",
+                "a": "A Kap, egy jellegzetes téglából épült tengeri jelzés."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cum se ajunge la Norderney?",
+                "a": "Cu feribotul auto de la Norddeich-Mole."
+            },
+            {
+                "q": "Este permisă circulația mașinilor în Norderney?",
+                "a": "Restricționat; există zone cu trafic limitat și interdicții de circulație în centrul orașului."
+            },
+            {
+                "q": "Ce este 'Bade:haus'?",
+                "a": "Un mare centru de talasoterapie și spa de wellness pe insulă."
+            },
+            {
+                "q": "Care este simbolul insulei?",
+                "a": "Cap-ul, un reper maritim distinctiv din cărămidă."
+            }
+        ],
+        "en": [
+            {
+                "q": "How do you get to Norderney?",
+                "a": "By car ferry from Norddeich-Mole."
+            },
+            {
+                "q": "Is driving allowed on Norderney?",
+                "a": "Limited; there are traffic-calmed zones and driving bans in the town center."
+            },
+            {
+                "q": "What is the 'Bade:haus'?",
+                "a": "A large thalasso center and wellness spa on the island."
+            },
+            {
+                "q": "What is the landmark of the island?",
+                "a": "The Kap, a prominent brick daymark."
+            }
+        ]
+    },
+    "hist-hameln-extra": {
+        "de": [
+            {
+                "q": "Wer ist die bekannteste Figur der Stadt?",
+                "a": "Der Rattenfänger von Hameln."
+            },
+            {
+                "q": "Was geschah laut der Sage im Jahr 1284?",
+                "a": "Ein bunt gekleideter Pfeifer soll 130 Kinder aus der Stadt weggeführt haben."
+            },
+            {
+                "q": "Was ist das Rattenfängerhaus?",
+                "a": "Ein prächtiges Gebäude der Weserrenaissance, in dessen Inschrift die Sage erwähnt wird."
+            },
+            {
+                "q": "Kann man die Sage heute noch erleben?",
+                "a": "Ja, durch das Rattenfänger-Freilichtspiel (im Sommer) und das Musical 'RATS'."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Ki a város legismertebb alakja?",
+                "a": "A hamelni patkányfogó."
+            },
+            {
+                "q": "A monda szerint mi történt 1284-ben?",
+                "a": "Egy tarka ruhás sípos állítólag 130 gyermeket vezetett ki a városból."
+            },
+            {
+                "q": "Mi a Patkányfogó-ház?",
+                "a": "Egy pompás Weser-reneszánsz épület, amelynek feliratában említik a mondát."
+            },
+            {
+                "q": "Ma is átélhető még a monda?",
+                "a": "Igen, a patkányfogó szabadtéri játékon (nyáron) és a 'RATS' musicalen keresztül."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cine este cea mai cunoscută figură a orașului?",
+                "a": "Fluierașul din Hameln."
+            },
+            {
+                "q": "Ce s-a întâmplat conform legendei în anul 1284?",
+                "a": "Un fluieraș îmbrăcat pestriț ar fi dus 130 de copii departe de oraș."
+            },
+            {
+                "q": "Ce este Casa Fluierașului?",
+                "a": "O clădire splendidă în stilul Renașterii Weserului, pe a cărei inscripție este menționată legenda."
+            },
+            {
+                "q": "Se mai poate experimenta legenda și astăzi?",
+                "a": "Da, prin spectacolul în aer liber al Fluierașului (vara) și musicalul 'RATS'."
+            }
+        ],
+        "en": [
+            {
+                "q": "Who is the most famous figure of the city?",
+                "a": "The Pied Piper of Hamelin."
+            },
+            {
+                "q": "What happened according to the legend in 1284?",
+                "a": "A colorful piper is said to have led 130 children away from the town."
+            },
+            {
+                "q": "What is the Pied Piper's House?",
+                "a": "A magnificent Weser Renaissance building with an inscription mentioning the legend."
+            },
+            {
+                "q": "Can the legend still be experienced today?",
+                "a": "Yes, through the Pied Piper open-air play (in summer) and the musical 'RATS'."
+            }
+        ]
+    },
+    "city-goettingen-extra": {
+        "de": [
+            {
+                "q": "Was ist das Gänseliesel?",
+                "a": "Eine Bronzestatue auf dem Marktbrunnen und das Wahrzeichen der Stadt."
+            },
+            {
+                "q": "Welche Tradition haben frisch promovierte Doktoren?",
+                "a": "Sie küssen das Gänseliesel nach bestandener Prüfung."
+            },
+            {
+                "q": "Wie viele Nobelpreisträger sind mit Göttingen verbunden?",
+                "a": "Über 40 Nobelpreisträger haben hier gelebt, studiert oder gelehrt."
+            },
+            {
+                "q": "Was war der 'Göttinger Hainbund'?",
+                "a": "Eine bedeutende literarische Dichtergruppe des 18. Jahrhunderts."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi az a Gänseliesel?",
+                "a": "Egy bronzszobor a piaci kúton, a város jelképe."
+            },
+            {
+                "q": "Milyen hagyományuk van a frissen végzett doktoroknak?",
+                "a": "A sikeres vizsga után megcsókolják a Gänseliesel-t."
+            },
+            {
+                "q": "Hány Nobel-díjas kötődik Göttingenhez?",
+                "a": "Több mint 40 Nobel-díjas élt, tanult vagy tanított itt."
+            },
+            {
+                "q": "Mi volt a 'Göttinger Hainbund'?",
+                "a": "A 18. század egy jelentős irodalmi költői csoportja."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este Gänseliesel?",
+                "a": "O statuie de bronz de pe fântâna din piață și simbolul orașului."
+            },
+            {
+                "q": "Ce tradiție au doctoranzii care tocmai și-au susținut teza?",
+                "a": "Ei sărută Gänseliesel după ce trec examenul de doctorat."
+            },
+            {
+                "q": "Câți laureați ai premiului Nobel sunt asociați cu Göttingen?",
+                "a": "Peste 40 de laureați Nobel au trăit, studiat sau predat aici."
+            },
+            {
+                "q": "Ce a fost 'Göttinger Hainbund'?",
+                "a": "Un grup literar important de poeți din secolul al XVIII-lea."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the Gänseliesel?",
+                "a": "A bronze statue on the market fountain and the city's landmark."
+            },
+            {
+                "q": "What tradition do newly graduated doctors have?",
+                "a": "They kiss the Gänseliesel after passing their doctoral examination."
+            },
+            {
+                "q": "How many Nobel Prize winners are associated with Göttingen?",
+                "a": "Over 40 Nobel Prize winners have lived, studied, or taught here."
+            },
+            {
+                "q": "What was the 'Göttinger Hainbund'?",
+                "a": "An important literary group of poets in the 18th century."
+            }
+        ]
+    },
+    "landmark-wilhelmshaven-extra": {
+        "de": [
+            {
+                "q": "Wann wurde Wilhelmshaven gegründet?",
+                "a": "Die Stadt wurde 1869 von König Wilhelm I. als preußischer Marinehafen gegründet."
+            },
+            {
+                "q": "Was ist der JadeWeserPort?",
+                "a": "Deutschlands einziger Tiefwassercontainerterminal."
+            },
+            {
+                "q": "Was zeigt das Marinemuseum?",
+                "a": "Die Geschichte der deutschen Marinen inklusive begehbarer Kriegsschiffe."
+            },
+            {
+                "q": "Was ist die Kaiser-Wilhelm-Brücke?",
+                "a": "Eine große historische Drehbrücke und ein Wahrzeichen der Stadt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mikor alapították Wilhelmshavent?",
+                "a": "A várost 1869-ben alapította I. Vilmos király porosz haditengerészeti kikötőként."
+            },
+            {
+                "q": "Mi az a JadeWeserPort?",
+                "a": "Németország egyetlen mélyvízi konténerterminálja."
+            },
+            {
+                "q": "Mit mutat be a Haditengerészeti Múzeum?",
+                "a": "A német haditengerészet történetét, bejárható hadihajókkal."
+            },
+            {
+                "q": "Mi a Vilmos császár híd?",
+                "a": "Egy nagy történelmi forgóhíd és a város jelképe."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Când a fost fondat Wilhelmshaven?",
+                "a": "Orașul a fost fondat în 1869 de regele Wilhelm I ca port naval prusac."
+            },
+            {
+                "q": "Ce este JadeWeserPort?",
+                "a": "Singurul terminal de containere de apă adâncă din Germania."
+            },
+            {
+                "q": "Ce prezintă Muzeul Naval?",
+                "a": "Istoria marinelor germane, inclusiv nave de război care pot fi vizitate."
+            },
+            {
+                "q": "Ce este Podul Împăratul Wilhelm?",
+                "a": "Un mare pod pivotant istoric și un simbol al orașului."
+            }
+        ],
+        "en": [
+            {
+                "q": "When was Wilhelmshaven founded?",
+                "a": "The city was founded in 1869 by King Wilhelm I as a Prussian naval port."
+            },
+            {
+                "q": "What is the JadeWeserPort?",
+                "a": "Germany's only deep-water container terminal."
+            },
+            {
+                "q": "What does the Naval Museum show?",
+                "a": "The history of the German navies, including warships that can be boarded."
+            },
+            {
+                "q": "What is the Kaiser Wilhelm Bridge?",
+                "a": "A large historic swing bridge and a landmark of the city."
+            }
+        ]
+    },
+    "lake-steinhuder-meer-extra": {
+        "de": [
+            {
+                "q": "Wie tief ist das Steinhuder Meer?",
+                "a": "Es ist sehr flach, im Durchschnitt nur 1,35 Meter."
+            },
+            {
+                "q": "Was ist ein 'Auswanderer'?",
+                "a": "Ein spezieller Segelbootstyp, der nur auf dem Steinhuder Meer vorkommt."
+            },
+            {
+                "q": "Gibt es dort eine Inselfestung?",
+                "a": "Ja, die Festung Wilhelmstein auf einer künstlichen Insel."
+            },
+            {
+                "q": "Was kann man in Steinhude essen?",
+                "a": "Geräucherter Aal ist eine bekannte lokale Spezialität."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Milyen mély a Steinhuder Meer?",
+                "a": "Nagyon sekély, átlagosan mindössze 1,35 méter."
+            },
+            {
+                "q": "Mi az az 'Auswanderer'?",
+                "a": "Egy speciális vitorláshajó-típus, amely csak a Steinhuder Meer-en fordul elő."
+            },
+            {
+                "q": "Van ott szigeterőd?",
+                "a": "Igen, a Wilhelmstein erőd egy mesterséges szigeten."
+            },
+            {
+                "q": "Mit lehet enni Steinhudéban?",
+                "a": "A füstölt angolna egy ismert helyi különlegesség."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cât de adânc este Steinhuder Meer?",
+                "a": "Este foarte puțin adânc, în medie doar 1,35 metri."
+            },
+            {
+                "q": "Ce este un 'Auswanderer'?",
+                "a": "Un tip special de barcă cu pânze care se găsește doar pe Steinhuder Meer."
+            },
+            {
+                "q": "Există o fortăreață pe insulă acolo?",
+                "a": "Da, fortăreața Wilhelmstein pe o insulă artificială."
+            },
+            {
+                "q": "Ce se poate mânca în Steinhude?",
+                "a": "Anguila afumată este o specialitate locală cunoscută."
+            }
+        ],
+        "en": [
+            {
+                "q": "How deep is the Steinhuder Meer?",
+                "a": "It is very shallow, averaging only 1.35 meters."
+            },
+            {
+                "q": "What is an 'Auswanderer'?",
+                "a": "A special type of sailboat found only on the Steinhuder Meer."
+            },
+            {
+                "q": "Is there an island fortress there?",
+                "a": "Yes, the Wilhelmstein fortress on an artificial island."
+            },
+            {
+                "q": "What can you eat in Steinhude?",
+                "a": "Smoked eel is a well-known local specialty."
+            }
+        ]
+    },
+    "city-celle-extra": {
+        "de": [
+            {
+                "q": "Wofür ist Celle berühmt?",
+                "a": "Für seinen geschlossenen Altstadtkern mit über 500 Fachwerkhäusern."
+            },
+            {
+                "q": "War Celle eine Residenzstadt?",
+                "a": "Ja, das Celler Schloss war Residenz der Herzöge von Braunschweig-Lüneburg."
+            },
+            {
+                "q": "Was ist das Landgestüt Celle?",
+                "a": "Ein historisches Gestüt, bekannt für die Zucht der Hannoveraner Pferde."
+            },
+            {
+                "q": "Was ist die Stechinelli-Kapelle?",
+                "a": "Eine kleine, kunstvoll gestaltete barocke Kapelle in der Nähe von Celle."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miről híres Celle?",
+                "a": "Zárt óvárosi magjáról, több mint 500 favázas házzal."
+            },
+            {
+                "q": "Residenciaváros volt Celle?",
+                "a": "Igen, a Celle-i kastély a Braunschweig-Lüneburg hercegek rezidenciája volt."
+            },
+            {
+                "q": "Mi a Celle-i Ménesbirtok?",
+                "a": "Egy történelmi ménes, amely a hannoveri lovak tenyésztéséről ismert."
+            },
+            {
+                "q": "Mi a Stechinelli-kápolna?",
+                "a": "Egy kicsi, művészien kialakított barokk kápolna Celle közelében."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Pentru ce este faimos Celle?",
+                "a": "Pentru centrul său vechi compact cu peste 500 de case cu cadre de lemn."
+            },
+            {
+                "q": "A fost Celle un oraș de reședință?",
+                "a": "Da, castelul Celle a fost reședința ducilor de Braunschweig-Lüneburg."
+            },
+            {
+                "q": "Ce este Herghelia de Stat din Celle?",
+                "a": "O herghelie istorică, cunoscută pentru creșterea cailor hanovrieni."
+            },
+            {
+                "q": "Ce este Capela Stechinelli?",
+                "a": "O capelă barocă mică, realizată artistic, în apropiere de Celle."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is Celle famous for?",
+                "a": "For its cohesive old town center with over 500 half-timbered houses."
+            },
+            {
+                "q": "Was Celle a residence city?",
+                "a": "Yes, Celle Palace was the residence of the Dukes of Brunswick-Lüneburg."
+            },
+            {
+                "q": "What is the Celle State Stud?",
+                "a": "A historic stud farm, famous for breeding Hanoverian horses."
+            },
+            {
+                "q": "What is the Stechinelli Chapel?",
+                "a": "A small, artistically designed Baroque chapel near Celle."
+            }
+        ]
+    },
+    "hist-goslar-extra": {
+        "de": [
+            {
+                "q": "Was war die Kaiserpfalz Goslar?",
+                "a": "Ein bedeutender Pfalzkomplex, in dem im Mittelalter viele Reichstage stattfanden."
+            },
+            {
+                "q": "Was wurde am Rammelsberg abgebaut?",
+                "a": "Vor allem Silber, Kupfer, Blei und Zink über mehr als 1000 Jahre."
+            },
+            {
+                "q": "Was ist das Besondere am Marktplatz von Goslar?",
+                "a": "Das historische Rathaus und das Glockenspiel mit Figuren zur Bergbaugeschichte."
+            },
+            {
+                "q": "Welchen Baustil sieht man in Goslars Altstadt?",
+                "a": "Prachtvolle Fachwerkhäuser und mit Schiefer verkleidete Fassaden."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi volt a Goslari Kaiserpfalz?",
+                "a": "Egy jelentős pfalzi komplexum, ahol a középkorban számos birodalmi gyűlést tartottak."
+            },
+            {
+                "q": "Mit bányásztak a Rammelsbergben?",
+                "a": "Főleg ezüstöt, rezet, ólmot és cinket több mint 1000 éven keresztül."
+            },
+            {
+                "q": "Mi a különleges a goslari piactéren?",
+                "a": "A történelmi városháza és a harangjáték a bányászat történetét bemutató figurákkal."
+            },
+            {
+                "q": "Milyen építészeti stílus látható Goslar óvárosában?",
+                "a": "Pompás favázas házak és palával borított homlokzatok."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce a fost Palatul Imperial (Kaiserpfalz) din Goslar?",
+                "a": "Un complex palatinal important unde au avut loc multe diete imperiale în Evul Mediu."
+            },
+            {
+                "q": "Ce s-a extras la Rammelsberg?",
+                "a": "În special argint, cupru, plumb și zinc timp de peste 1000 de ani."
+            },
+            {
+                "q": "Ce este special la piața din Goslar?",
+                "a": "Primăria istorică și carillonul cu figuri despre istoria mineritului."
+            },
+            {
+                "q": "Ce stil arhitectural se vede în centrul vechi din Goslar?",
+                "a": "Case splendide cu cadre de lemn și fațade placate cu șist."
+            }
+        ],
+        "en": [
+            {
+                "q": "What was the Imperial Palace of Goslar?",
+                "a": "A significant palatine complex where many imperial diets were held in the Middle Ages."
+            },
+            {
+                "q": "What was mined at Rammelsberg?",
+                "a": "Primarily silver, copper, lead, and zinc for over 1000 years."
+            },
+            {
+                "q": "What is special about the marketplace of Goslar?",
+                "a": "The historic town hall and the glockenspiel with figures depicting mining history."
+            },
+            {
+                "q": "What architectural style can be seen in Goslar's old town?",
+                "a": "Magnificent half-timbered houses and facades clad in slate."
+            }
+        ]
+    },
+    "river-ems-extra": {
+        "de": [
+            {
+                "q": "Wo entspringt die Ems?",
+                "a": "In der Senne bei Schloß Holte-Stukenbrock in Nordrhein-Westfalen."
+            },
+            {
+                "q": "Was ist die Meyer Werft?",
+                "a": "Eine weltbekannte Werft in Papenburg an der Ems, die riesige Kreuzfahrtschiffe baut."
+            },
+            {
+                "q": "Wie gelangen die Kreuzfahrtschiffe zum Meer?",
+                "a": "Sie werden bei der sogenannten 'Emsüberführung' rückwärts den Fluss hinunter zum Meer bugsiert."
+            },
+            {
+                "q": "Welche Landschaften prägen den Lauf der Ems?",
+                "a": "Das Emsland und Ostfriesland mit vielen Wiesen und Kanälen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hol ered az Ems?",
+                "a": "Az észak-rajna-vesztfáliai Schloß Holte-Stukenbrock közelében, a Senne-ben."
+            },
+            {
+                "q": "Mi az a Meyer Werft?",
+                "a": "Egy világhírű hajógyár az Ems menti Papenburgban, ahol hatalmas óceánjárókat építenek."
+            },
+            {
+                "q": "Hogyan jutnak el az óceánjárók a tengerhez?",
+                "a": "Az úgynevezett 'Ems-átvezetés' során hátrafelé vontatják le őket a folyón a tengerig."
+            },
+            {
+                "q": "Milyen tájak jellemzik az Ems folyását?",
+                "a": "Az Emsland és Kelet-Frízföld, sok réttel és csatornával."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Unde izvorăște Ems?",
+                "a": "În Senne lângă Schloß Holte-Stukenbrock în Renania de Nord-Westfalia."
+            },
+            {
+                "q": "Ce este Meyer Werft?",
+                "a": "Un șantier naval de renume mondial în Papenburg pe Ems, care construiește nave de croazieră uriașe."
+            },
+            {
+                "q": "Cum ajung navele de croazieră la mare?",
+                "a": "Ele sunt tractate cu spatele pe râu până la mare în cadrul așa-numitei 'transferări pe Ems'."
+            },
+            {
+                "q": "Ce peisaje caracterizează cursul râului Ems?",
+                "a": "Regiunea Emsland și Frizia de Est, cu multe pajiști și canale."
+            }
+        ],
+        "en": [
+            {
+                "q": "Where does the Ems originate?",
+                "a": "In the Senne near Schloß Holte-Stukenbrock in North Rhine-Westphalia."
+            },
+            {
+                "q": "What is the Meyer Werft?",
+                "a": "A world-famous shipyard in Papenburg on the Ems that builds huge cruise ships."
+            },
+            {
+                "q": "How do the cruise ships get to the sea?",
+                "a": "They are towed backward down the river to the sea during the so-called 'Ems conveyance'."
+            },
+            {
+                "q": "What landscapes characterize the course of the Ems?",
+                "a": "The Emsland and East Frisia with many meadows and canals."
+            }
+        ]
+    }
+}

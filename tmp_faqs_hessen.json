@@ -1,0 +1,1112 @@
+{
+    "city-wiesbaden-extra": {
+        "de": [
+            {
+                "q": "Wie viele Thermalquellen gibt es in Wiesbaden?",
+                "a": "Es gibt 26 Thermalquellen, von denen der Kochbrunnen die bekannteste ist."
+            },
+            {
+                "q": "Was ist das Kurhaus Wiesbaden?",
+                "a": "Ein prachtvolles historisches Gebäude, das als Gesellschaftshaus und Standort des Casinos dient."
+            },
+            {
+                "q": "Was ist die Besonderheit der Nerobergbahn?",
+                "a": "Sie ist eine der wenigen noch betriebenen Standseilbahnen mit Wasserballastantrieb."
+            },
+            {
+                "q": "Wann wurde Wiesbaden die Hauptstadt von Hessen?",
+                "a": "Wiesbaden wurde nach dem Zweiten Weltkrieg im Jahr 1945 zur Landeshauptstadt ernannt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hány hőforrás található Wiesbadenben?",
+                "a": "26 hőforrás van, amelyek közül a Kochbrunnen a legismertebb."
+            },
+            {
+                "q": "Mi a wiesbadeni Kurhaus?",
+                "a": "Egy pompás történelmi épület, amely társasági házként és a kaszinó helyszíneként szolgál."
+            },
+            {
+                "q": "Mi a különlegessége a Nerobergbahnnak?",
+                "a": "Egyike a kevés még működő vízballaszt-hajtású siklónak."
+            },
+            {
+                "q": "Mikor lett Wiesbaden Hessen fővárosa?",
+                "a": "Wiesbadent a második világháború után, 1945-ben nevezték ki tartományi fővárossá."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Câte izvoare termale sunt în Wiesbaden?",
+                "a": "Există 26 de izvoare termale, dintre care Kochbrunnen este cel mai cunoscut."
+            },
+            {
+                "q": "Ce este Kurhaus Wiesbaden?",
+                "a": "O clădire istorică splendidă care servește ca casă socială și sediu al cazinoului."
+            },
+            {
+                "q": "Care este particularitatea Nerobergbahn?",
+                "a": "Este una dintre puținele funiculare cu acționare pe bază de balast de apă încă în funcțiune."
+            },
+            {
+                "q": "Când a devenit Wiesbaden capitala landului Hessa?",
+                "a": "Wiesbaden a fost desemnat capitală de land în 1945, după Al Doilea Război Mondial."
+            }
+        ],
+        "en": [
+            {
+                "q": "How many thermal springs are in Wiesbaden?",
+                "a": "There are 26 thermal springs, of which the Kochbrunnen is the most famous."
+            },
+            {
+                "q": "What is the Kurhaus Wiesbaden?",
+                "a": "A magnificent historic building that serves as a social house and home to the casino."
+            },
+            {
+                "q": "What is special about the Nerobergbahn?",
+                "a": "It is one of the few remaining water-ballast driven funiculars in operation."
+            },
+            {
+                "q": "When did Wiesbaden become the capital of Hesse?",
+                "a": "Wiesbaden was designated the state capital in 1945 after World War II."
+            }
+        ]
+    },
+    "city-kassel-extra": {
+        "de": [
+            {
+                "q": "Was ist das Wahrzeichen von Kassel?",
+                "a": "Das Herkules-Monument im Bergpark Wilhelmshöhe."
+            },
+            {
+                "q": "Wie oft findet die documenta statt?",
+                "a": "Die Weltkunstausstellung findet alle fünf Jahre in Kassel statt."
+            },
+            {
+                "q": "Was ist die Löwenburg?",
+                "a": "Eine künstlich errichtete Burgruine im Bergpark Wilhelmshöhe, erbaut um 1800."
+            },
+            {
+                "q": "Welche berühmten Sammler lebten in Kassel?",
+                "a": "Die Brüder Grimm lebten und arbeiteten lange Zeit in der Stadt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi Kassel jelképe?",
+                "a": "A Herkules-emlékmű a Wilhelmshöhe hegyi parkban."
+            },
+            {
+                "q": "Milyen gyakran rendezik meg a documentát?",
+                "a": "A világművészeti kiállítást ötévente rendezik meg Kasselben."
+            },
+            {
+                "q": "Mi az a Löwenburg?",
+                "a": "Egy mesterségesen épített várrom a Wilhelmshöhe hegyi parkban, 1800 körül épült."
+            },
+            {
+                "q": "Mely híres gyűjtők éltek Kasselben?",
+                "a": "A Grimm testvérek hosszú ideig éltek és dolgoztak a városban."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care este simbolul orașului Kassel?",
+                "a": "Monumentul Hercule din parcul Wilhelmshöhe."
+            },
+            {
+                "q": "Cât de des are loc documenta?",
+                "a": "Expoziția mondială de artă are loc la fiecare cinci ani în Kassel."
+            },
+            {
+                "q": "Ce este Löwenburg?",
+                "a": "O ruină de castel construită artificial în parcul Wilhelmshöhe, ridicată în jurul anului 1800."
+            },
+            {
+                "q": "Ce colecționari celebri au trăit în Kassel?",
+                "a": "Frații Grimm au trăit și au lucrat mult timp în oraș."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the landmark of Kassel?",
+                "a": "The Hercules monument in Wilhelmshöhe mountain park."
+            },
+            {
+                "q": "How often does documenta take place?",
+                "a": "The world art exhibition takes place every five years in Kassel."
+            },
+            {
+                "q": "What is the Löwenburg?",
+                "a": "An artificially constructed castle ruin in Wilhelmshöhe mountain park, built around 1800."
+            },
+            {
+                "q": "Which famous collectors lived in Kassel?",
+                "a": "The Brothers Grimm lived and worked in the city for a long time."
+            }
+        ]
+    },
+    "city-marburg-extra": {
+        "de": [
+            {
+                "q": "Was ist das markanteste Gebäude in Marburg?",
+                "a": "Das Landgrafenschloss, das hoch über der Altstadt thront."
+            },
+            {
+                "q": "Welche berühmte Persönlichkeit studierte in Marburg?",
+                "a": "Die Brüder Grimm studierten an der Universität Marburg Jura."
+            },
+            {
+                "q": "Warum gibt es in Marburg so viele Treppen?",
+                "a": "Da die Stadt an einem steilen Hang gebaut ist, verbinden zahlreiche Treppen die Oberstadt mit der Unterstadt."
+            },
+            {
+                "q": "Wer ist die Schutzpatronin der Stadt?",
+                "a": "Die Heilige Elisabeth von Thüringen, der die Elisabethkirche gewidmet ist."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a legjelentősebb épület Marburgban?",
+                "a": "A Landgrafenschloss, amely magasan az óváros felett tornyosul."
+            },
+            {
+                "q": "Melyik híres személyiség tanult Marburgban?",
+                "a": "A Grimm testvérek jogot tanultak a Marburgi Egyetemen."
+            },
+            {
+                "q": "Miért van annyi lépcső Marburgban?",
+                "a": "Mivel a város meredek lejtőre épült, számos lépcső köti össze a felsővárost az alsóvárossal."
+            },
+            {
+                "q": "Ki a város védőszentje?",
+                "a": "Türingiai Szent Erzsébet, akinek az Erzsébet-templomot szentelték."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care este cea mai proeminentă clădire din Marburg?",
+                "a": "Castelul Landgrafen, care domină orașul vechi de la înălțime."
+            },
+            {
+                "q": "Ce personalitate celebră a studiat în Marburg?",
+                "a": "Frații Grimm au studiat dreptul la Universitatea din Marburg."
+            },
+            {
+                "q": "De ce sunt atât de multe scări în Marburg?",
+                "a": "Deoarece orașul este construit pe o pantă abruptă, numeroase scări leagă orașul de sus de orașul de jos."
+            },
+            {
+                "q": "Cine este protectoarea orașului?",
+                "a": "Sfânta Elisabeta a Turingiei, căreia îi este dedicată Biserica Sfânta Elisabeta."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the most prominent building in Marburg?",
+                "a": "The Landgrave's Castle, which towers high above the old town."
+            },
+            {
+                "q": "Which famous person studied in Marburg?",
+                "a": "The Brothers Grimm studied law at the University of Marburg."
+            },
+            {
+                "q": "Why are there so many stairs in Marburg?",
+                "a": "Since the city is built on a steep slope, numerous stairs connect the upper town with the lower town."
+            },
+            {
+                "q": "Who is the patron saint of the city?",
+                "a": "Saint Elizabeth of Thuringia, to whom St. Elizabeth's Church is dedicated."
+            }
+        ]
+    },
+    "mnt-taunus-extra": {
+        "de": [
+            {
+                "q": "Wie hoch ist der höchste Berg im Taunus?",
+                "a": "Der Große Feldberg ist mit 879 m die höchste Erhebung."
+            },
+            {
+                "q": "Gibt es römische Überreste im Taunus?",
+                "a": "Ja, der obergermanisch-raetische Limes verlief durch den Taunus, inklusive des Kastells Saalburg."
+            },
+            {
+                "q": "Was ist das Freilichtmuseum Hessenpark?",
+                "a": "Ein Museum im Taunus, das historische Fachwerkhäuser aus ganz Hessen zeigt."
+            },
+            {
+                "q": "Ist der Taunus ein vulkanisches Gebirge?",
+                "a": "Nein, der Taunus besteht hauptsächlich aus Schiefer und Quarzit."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Milyen magas a Taunus legmagasabb hegye?",
+                "a": "A Großer Feldberg a legmagasabb pont, 879 méterrel."
+            },
+            {
+                "q": "Vannak római maradványok a Taunusban?",
+                "a": "Igen, a felső-germán-raetiai limes áthaladt a Taunuson, beleértve a Saalburg erődöt."
+            },
+            {
+                "q": "Mi a Hessenpark szabadtéri múzeum?",
+                "a": "Egy múzeum a Taunusban, amely Hessen egész területéről származó történelmi favázas házakat mutat be."
+            },
+            {
+                "q": "A Taunus vulkáni hegység?",
+                "a": "Nem, a Taunus főként palából és kvarcitból áll."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cât de înalt este cel mai înalt munte din Taunus?",
+                "a": "Großer Feldberg este cel mai înalt punct, având 879 m."
+            },
+            {
+                "q": "Există vestigii romane în Taunus?",
+                "a": "Da, Limesul Germaniei Superioare-Raetiei trecea prin Taunus, incluzând castrul Saalburg."
+            },
+            {
+                "q": "Ce este muzeul în aer liber Hessenpark?",
+                "a": "Un muzeu din Taunus care prezintă case istorice cu cadre de lemn din întreaga Hessă."
+            },
+            {
+                "q": "Este Taunus un masiv vulcanic?",
+                "a": "Nu, Taunus este format în principal din șist și cuarțit."
+            }
+        ],
+        "en": [
+            {
+                "q": "How high is the highest mountain in the Taunus?",
+                "a": "The Großer Feldberg is the highest elevation at 879 m."
+            },
+            {
+                "q": "Are there Roman remains in the Taunus?",
+                "a": "Yes, the Upper Germanic-Rhaetian Limes ran through the Taunus, including the Saalburg fort."
+            },
+            {
+                "q": "What is the Hessenpark Open Air Museum?",
+                "a": "A museum in the Taunus that displays historic half-timbered houses from all over Hesse."
+            },
+            {
+                "q": "Is the Taunus a volcanic mountain range?",
+                "a": "No, the Taunus consists mainly of slate and quartzite."
+            }
+        ]
+    },
+    "river-lahn-extra": {
+        "de": [
+            {
+                "q": "Wo entspringt die Lahn?",
+                "a": "Die Lahn entspringt im Rothaargebirge in Nordrhein-Westfalen."
+            },
+            {
+                "q": "In welchen Fluss mündet die Lahn?",
+                "a": "Die Lahn mündet bei Lahnstein in den Rhein."
+            },
+            {
+                "q": "Ist die Lahn schiffbar?",
+                "a": "Ja, im unteren Verlauf ist sie für kleinere Schiffe und Sportboote schiffbar."
+            },
+            {
+                "q": "Welche bekannten Städte liegen an der Lahn?",
+                "a": "Marburg, Gießen, Wetzlar, Weilburg und Limburg."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hol ered a Lahn?",
+                "a": "A Lahn az észak-rajna-vesztfáliai Rothaargebirge-ben ered."
+            },
+            {
+                "q": "Melyik folyóba torkollik a Lahn?",
+                "a": "A Lahn Lahnsteinnél torkollik a Rajnába."
+            },
+            {
+                "q": "Hajózható a Lahn?",
+                "a": "Igen, az alsó szakaszon kisebb hajók és sportcsónakok számára hajózható."
+            },
+            {
+                "q": "Mely ismert városok fekszenek a Lahn mentén?",
+                "a": "Marburg, Gießen, Wetzlar, Weilburg és Limburg."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Unde izvorăște Lahn?",
+                "a": "Lahn izvorăște în munții Rothaargebirge din Renania de Nord-Westfalia."
+            },
+            {
+                "q": "În ce râu se varsă Lahn?",
+                "a": "Lahn se varsă în Rin la Lahnstein."
+            },
+            {
+                "q": "Este Lahn navigabil?",
+                "a": "Da, pe cursul inferior este navigabil pentru nave mici și ambarcațiuni sportive."
+            },
+            {
+                "q": "Ce orașe cunoscute sunt situate pe Lahn?",
+                "a": "Marburg, Gießen, Wetzlar, Weilburg și Limburg."
+            }
+        ],
+        "en": [
+            {
+                "q": "Where does the Lahn originate?",
+                "a": "The Lahn originates in the Rothaar Mountains in North Rhine-Westphalia."
+            },
+            {
+                "q": "Into which river does the Lahn flow?",
+                "a": "The Lahn flows into the Rhine at Lahnstein."
+            },
+            {
+                "q": "Is the Lahn navigable?",
+                "a": "Yes, in its lower reaches it is navigable for small vessels and pleasure boats."
+            },
+            {
+                "q": "Which well-known cities are located on the Lahn?",
+                "a": "Marburg, Gießen, Wetzlar, Weilburg, and Limburg."
+            }
+        ]
+    },
+    "forest-kellerwald-extra": {
+        "de": [
+            {
+                "q": "Was schützt der Nationalpark Kellerwald-Edersee?",
+                "a": "Vor allem die alten, großflächigen Buchenwälder."
+            },
+            {
+                "q": "Kann man im Kellerwald wandern?",
+                "a": "Ja, es gibt zahlreiche Wanderwege, darunter den bekannten Kellerwaldsteig."
+            },
+            {
+                "q": "Gibt es dort Wildtiere?",
+                "a": "Ja, unter anderem leben dort Rotwild, Wildschweine und sogar Wildkatzen."
+            },
+            {
+                "q": "Ist der Park das ganze Jahr über zugänglich?",
+                "a": "Ja, der Nationalpark ist jederzeit für Besucher offen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mit véd a Kellerwald-Edersee Nemzeti Park?",
+                "a": "Elsősorban a régi, nagy kiterjedésű bükkerdőket."
+            },
+            {
+                "q": "Lehet túrázni a Kellerwaldban?",
+                "a": "Igen, számos túraútvonal van, köztük az ismert Kellerwaldsteig."
+            },
+            {
+                "q": "Vannak ott vadon élő állatok?",
+                "a": "Igen, többek között gímszarvasok, vaddisznók és még vadmacskák is élnek ott."
+            },
+            {
+                "q": "A park egész évben látogatható?",
+                "a": "Igen, a nemzeti park bármikor nyitva áll a látogatók előtt."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce protejează Parcul Național Kellerwald-Edersee?",
+                "a": "În special pădurile de fag vechi și întinse."
+            },
+            {
+                "q": "Se poate face drumeție în Kellerwald?",
+                "a": "Da, există numeroase trasee de drumeție, inclusiv cunoscutul Kellerwaldsteig."
+            },
+            {
+                "q": "Există animale sălbatice acolo?",
+                "a": "Da, printre altele trăiesc acolo cerbi carpatini, porci mistreți și chiar pisici sălbatice."
+            },
+            {
+                "q": "Parcul este accesibil tot timpul anului?",
+                "a": "Da, parcul național este deschis vizitatorilor în orice moment."
+            }
+        ],
+        "en": [
+            {
+                "q": "What does the Kellerwald-Edersee National Park protect?",
+                "a": "Primarily the old, extensive beech forests."
+            },
+            {
+                "q": "Can you go hiking in the Kellerwald?",
+                "a": "Yes, there are numerous hiking trails, including the well-known Kellerwaldsteig."
+            },
+            {
+                "q": "Are there wild animals there?",
+                "a": "Yes, among others, red deer, wild boar, and even wildcats live there."
+            },
+            {
+                "q": "Is the park accessible year-round?",
+                "a": "Yes, the national park is open to visitors at all times."
+            }
+        ]
+    },
+    "lake-edersee-extra": {
+        "de": [
+            {
+                "q": "Wie tief ist der Edersee?",
+                "a": "An der tiefsten Stelle vor der Staumauer ist er etwa 42 Meter tief."
+            },
+            {
+                "q": "Was ist das 'Edersee-Atlantis'?",
+                "a": "Bei sehr niedrigem Wasserstand werden Ruinen versunkener Dörfer sichtbar."
+            },
+            {
+                "q": "Kann man auf dem Edersee Boot fahren?",
+                "a": "Ja, Segeln, Elektrobootfahren und Personenschifffahrt sind sehr beliebt."
+            },
+            {
+                "q": "Was ist das Schloss Waldeck?",
+                "a": "Eine mittelalterliche Burg auf einem Berg direkt über dem Edersee."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Milyen mély az Edersee?",
+                "a": "A legmélyebb pontján, a gát előtt, körülbelül 42 méter mély."
+            },
+            {
+                "q": "Mi az az 'Edersee-Atlantis'?",
+                "a": "Nagyon alacsony vízállásnál láthatóvá válnak az elsüllyedt falvak romjai."
+            },
+            {
+                "q": "Lehet csónakázni az Edersee-n?",
+                "a": "Igen, a vitorlázás, az elektromos csónakázás és a személyszállító hajózás nagyon népszerű."
+            },
+            {
+                "q": "Mi a Waldeck kastély?",
+                "a": "Egy középkori vár egy hegyen, közvetlenül az Edersee felett."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cât de adânc este Edersee?",
+                "a": "În cel mai adânc punct, în fața barajului, are o adâncime de aproximativ 42 de metri."
+            },
+            {
+                "q": "Ce este 'Edersee-Atlantis'?",
+                "a": "La un nivel foarte scăzut al apei, devin vizibile ruinele satelor scufundate."
+            },
+            {
+                "q": "Se poate merge cu barca pe Edersee?",
+                "a": "Da, navigația cu pânze, cu bărci electrice și transportul de pasageri sunt foarte populare."
+            },
+            {
+                "q": "Ce este Castelul Waldeck?",
+                "a": "O cetate medievală pe un munte direct deasupra lacului Edersee."
+            }
+        ],
+        "en": [
+            {
+                "q": "How deep is the Edersee?",
+                "a": "At its deepest point in front of the dam wall, it is about 42 meters deep."
+            },
+            {
+                "q": "What is 'Edersee-Atlantis'?",
+                "a": "At very low water levels, the ruins of sunken villages become visible."
+            },
+            {
+                "q": "Can you go boating on the Edersee?",
+                "a": "Yes, sailing, electric boating, and passenger shipping are very popular."
+            },
+            {
+                "q": "What is Waldeck Castle?",
+                "a": "A medieval castle on a hill directly above the Edersee."
+            }
+        ]
+    },
+    "hist-fulda-extra": {
+        "de": [
+            {
+                "q": "Was ist das berühmteste Gebäude in Fulda?",
+                "a": "Der Fuldaer Dom St. Salvator."
+            },
+            {
+                "q": "Wer war der Heilige Bonifatius?",
+                "a": "Ein Missionar, der als 'Apostel der Deutschen' gilt und in Fulda begraben liegt."
+            },
+            {
+                "q": "Was ist das Stadtschloss Fulda?",
+                "a": "Die ehemalige Residenz der Fürstäbte und Fürstbischöfe von Fulda."
+            },
+            {
+                "q": "Welchen Baustil findet man oft in Fulda?",
+                "a": "Das Barockviertel prägt mit seinen prachtvollen Bauten das Stadtbild."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi Fulda leghíresebb épülete?",
+                "a": "A fuldai Szent Szalvátor-székesegyház."
+            },
+            {
+                "q": "Ki volt Szent Bonifác?",
+                "a": "Egy misszionárius, akit a 'németek apostolának' tekintenek, és Fuldában van eltemetve."
+            },
+            {
+                "q": "Mi a fuldai Stadtschloss?",
+                "a": "A fuldai hercegapátok és hercegpüspökök egykori rezidenciája."
+            },
+            {
+                "q": "Milyen építészeti stílus található meg gyakran Fuldában?",
+                "a": "A barokk negyed pompás épületeivel meghatározza a városképet."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Care este cea mai faimoasă clădire din Fulda?",
+                "a": "Catedrala Sf. Salvator din Fulda."
+            },
+            {
+                "q": "Cine a fost Sfântul Bonifaciu?",
+                "a": "Un misionar considerat 'Apostolul Germanilor', înmormântat în Fulda."
+            },
+            {
+                "q": "Ce este Castelul Orașului Fulda?",
+                "a": "Fosta reședință a prinților-abați și prinților-episcopi de Fulda."
+            },
+            {
+                "q": "Ce stil arhitectural se găsește des în Fulda?",
+                "a": "Cartierul baroc definește panorama urbană cu clădirile sale splendide."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the most famous building in Fulda?",
+                "a": "The Fulda Cathedral of St. Salvator."
+            },
+            {
+                "q": "Who was Saint Boniface?",
+                "a": "A missionary considered the 'Apostle of the Germans' who is buried in Fulda."
+            },
+            {
+                "q": "What is the Fulda City Palace?",
+                "a": "The former residence of the prince-abbots and prince-bishops of Fulda."
+            },
+            {
+                "q": "What architectural style is frequently found in Fulda?",
+                "a": "The Baroque quarter shapes the cityscape with its magnificent buildings."
+            }
+        ]
+    },
+    "landmark-mathildenhoehe-extra": {
+        "de": [
+            {
+                "q": "Was ist die Mathildenhöhe?",
+                "a": "Ein Hügel in Darmstadt, auf dem eine bedeutende Jugendstil-Künstlerkolonie entstand."
+            },
+            {
+                "q": "Was ist der Hochzeitsturm?",
+                "a": "Das 48 m hohe Wahrzeichen der Mathildenhöhe mit fünf markanten Bögen."
+            },
+            {
+                "q": "Warum steht dort eine russische Kapelle?",
+                "a": "Sie wurde für Zar Nikolaus II. erbaut, der mit einer Darmstädter Prinzessin verheiratet war."
+            },
+            {
+                "q": "Seit wann ist die Mathildenhöhe Weltkulturerbe?",
+                "a": "Sie wurde im Jahr 2021 in die UNESCO-Welterbeliste aufgenommen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a Mathildenhöhe?",
+                "a": "Egy domb Darmstadtban, ahol egy jelentős szecessziós művésztelep jött létre."
+            },
+            {
+                "q": "Mi az a Hochzeitsturm?",
+                "a": "A Mathildenhöhe 48 méter magas jelképe öt jellegzetes ívvel."
+            },
+            {
+                "q": "Miért áll ott egy orosz kápolna?",
+                "a": "II. Miklós cár számára épült, aki egy darmstadti hercegnőt vett feleségül."
+            },
+            {
+                "q": "Mióta világörökség a Mathildenhöhe?",
+                "a": "2021-ben került fel az UNESCO világörökségi listájára."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este Mathildenhöhe?",
+                "a": "Un deal în Darmstadt unde a fost înființată o importantă colonie de artiști Art Nouveau."
+            },
+            {
+                "q": "Ce este Turnul Nunții?",
+                "a": "Simbolul de 48 m al Mathildenhöhe, cu cinci arcade distinctive."
+            },
+            {
+                "q": "De ce se află acolo o capelă rusească?",
+                "a": "A fost construită pentru țarul Nicolae al II-lea, care a fost căsătorit cu o prințesă de Darmstadt."
+            },
+            {
+                "q": "De când este Mathildenhöhe Patrimoniu Mondial?",
+                "a": "A fost inclusă pe lista Patrimoniului Mondial UNESCO în anul 2021."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is Mathildenhöhe?",
+                "a": "A hill in Darmstadt where a significant Art Nouveau artists' colony was established."
+            },
+            {
+                "q": "What is the Wedding Tower?",
+                "a": "The 48 m high landmark of Mathildenhöhe with five distinctive arches."
+            },
+            {
+                "q": "Why is there a Russian chapel there?",
+                "a": "It was built for Tsar Nicholas II, who was married to a Darmstadt princess."
+            },
+            {
+                "q": "Since when has Mathildenhöhe been a World Heritage Site?",
+                "a": "It was added to the UNESCO World Heritage List in 2021."
+            }
+        ]
+    },
+    "mnt-vogelsberg-extra": {
+        "de": [
+            {
+                "q": "Was ist das Besondere am Vogelsberg?",
+                "a": "Er ist das größte geschlossene Basaltmassiv in Europa."
+            },
+            {
+                "q": "Gibt es dort Vulkane?",
+                "a": "Der gesamte Vogelsberg ist ein erloschener Vulkan."
+            },
+            {
+                "q": "Welche Freizeitaktivitäten sind beliebt?",
+                "a": "Radfahren auf dem Vulkanradweg und Wandern sind sehr beliebt."
+            },
+            {
+                "q": "Wie heißt der höchste Gipfel?",
+                "a": "Der Taufstein ist mit 773 Metern die höchste Erhebung."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a különleges a Vogelsbergben?",
+                "a": "Ez Európa legnagyobb összefüggő bazaltmasszívuma."
+            },
+            {
+                "q": "Vannak ott vulkánok?",
+                "a": "Az egész Vogelsberg egy kialudt vulkán."
+            },
+            {
+                "q": "Mely szabadidős tevékenységek népszerűek?",
+                "a": "A Vulkanradweg-en való kerékpározás és a túrázás nagyon népszerű."
+            },
+            {
+                "q": "Hogy hívják a legmagasabb csúcsot?",
+                "a": "A Taufstein a legmagasabb pont, 773 méterrel."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este special la Vogelsberg?",
+                "a": "Este cel mai mare masiv de bazalt continuu din Europa."
+            },
+            {
+                "q": "Există vulcani acolo?",
+                "a": "Întregul Vogelsberg este un vulcan stins."
+            },
+            {
+                "q": "Ce activități de agrement sunt populare?",
+                "a": "Ciclismul pe traseul Vulkanradweg și drumețiile sunt foarte populare."
+            },
+            {
+                "q": "Cum se numește cel mai înalt vârf?",
+                "a": "Taufstein este cel mai înalt punct, având 773 de metri."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is special about the Vogelsberg?",
+                "a": "It is the largest contiguous basalt massif in Europe."
+            },
+            {
+                "q": "Are there volcanoes there?",
+                "a": "The entire Vogelsberg is an extinct volcano."
+            },
+            {
+                "q": "Which leisure activities are popular?",
+                "a": "Cycling on the Vulkanradweg and hiking are very popular."
+            },
+            {
+                "q": "What is the name of the highest peak?",
+                "a": "The Taufstein is the highest elevation at 773 meters."
+            }
+        ]
+    },
+    "hist-bad-homburg-extra": {
+        "de": [
+            {
+                "q": "Was kann man im Schloss Bad Homburg sehen?",
+                "a": "Die historischen Wohnräume der Landgrafen und späteren Kaiser."
+            },
+            {
+                "q": "Was ist der Weiße Turm?",
+                "a": "Der Bergfried der mittelalterlichen Burg, der als Wahrzeichen des Schlosses erhalten blieb."
+            },
+            {
+                "q": "Wer nutzte das Schloss als Sommerresidenz?",
+                "a": "Die preußischen Könige und die deutschen Kaiser, insbesondere Wilhelm II."
+            },
+            {
+                "q": "Gibt es einen Park am Schloss?",
+                "a": "Ja, der Schlosspark ist ein weitläufiger englischer Landschaftsgarten."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mit lehet látni a Bad Homburg-i kastélyban?",
+                "a": "A landgrafok és a későbbi császárok történelmi lakószobáit."
+            },
+            {
+                "q": "Mi a Fehér Torony?",
+                "a": "A középkori vár öregtornya, amely a kastély jelképeként maradt meg."
+            },
+            {
+                "q": "Ki használta a kastélyt nyári rezidenciaként?",
+                "a": "A porosz királyok és a német császárok, különösen II. Vilmos."
+            },
+            {
+                "q": "Van park a kastélynál?",
+                "a": "Igen, a kastélypark egy kiterjedt angol tájképi kert."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce se poate vedea în Castelul Bad Homburg?",
+                "a": "Apartamentele istorice ale landgrafilor și ale împăraților de mai târziu."
+            },
+            {
+                "q": "Ce este Turnul Alb?",
+                "a": "Turnul principal al cetății medievale, care a fost păstrat ca simbol al castelului."
+            },
+            {
+                "q": "Cine a folosit castelul ca reședință de vară?",
+                "a": "Regii prusaci și împărații germani, în special Wilhelm al II-lea."
+            },
+            {
+                "q": "Există un parc la castel?",
+                "a": "Da, parcul castelului este o grădină peisagistică englezească vastă."
+            }
+        ],
+        "en": [
+            {
+                "q": "What can be seen in Bad Homburg Palace?",
+                "a": "The historic living quarters of the landgraves and later emperors."
+            },
+            {
+                "q": "What is the White Tower?",
+                "a": "The keep of the medieval castle, which was preserved as a landmark of the palace."
+            },
+            {
+                "q": "Who used the palace as a summer residence?",
+                "a": "The Prussian kings and German emperors, especially Wilhelm II."
+            },
+            {
+                "q": "Is there a park at the palace?",
+                "a": "Yes, the palace park is an extensive English landscape garden."
+            }
+        ]
+    },
+    "city-giessen-extra": {
+        "de": [
+            {
+                "q": "Wofür ist Gießen bekannt?",
+                "a": "Als bedeutende Universitätsstadt und Forschungsstandort."
+            },
+            {
+                "q": "Was ist das Mathematikum?",
+                "a": "Das erste mathematische Mitmach-Museum der Welt."
+            },
+            {
+                "q": "Wer war Justus von Liebig?",
+                "a": "Ein berühmter Chemiker, der lange Zeit in Gießen lehrte."
+            },
+            {
+                "q": "Fließt ein Fluss durch Gießen?",
+                "a": "Ja, die Stadt liegt an der Lahn."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miről ismert Gießen?",
+                "a": "Jelentős egyetemvárosként és kutatási helyszínként."
+            },
+            {
+                "q": "Mi a Mathematikum?",
+                "a": "A világ első interaktív matematikai múzeuma."
+            },
+            {
+                "q": "Ki volt Justus von Liebig?",
+                "a": "Egy híres kémikus, aki hosszú ideig tanított Gießenben."
+            },
+            {
+                "q": "Folyik folyó Gießenen keresztül?",
+                "a": "Igen, a város a Lahn mentén fekszik."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Pentru ce este cunoscut Gießen?",
+                "a": "Ca un important oraș universitar și centru de cercetare."
+            },
+            {
+                "q": "Ce este Mathematikum?",
+                "a": "Primul muzeu de matematică interactiv din lume."
+            },
+            {
+                "q": "Cine a fost Justus von Liebig?",
+                "a": "Un chimist celebru care a predat mult timp în Gießen."
+            },
+            {
+                "q": "Curge un râu prin Gießen?",
+                "a": "Da, orașul este situat pe râul Lahn."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is Gießen known for?",
+                "a": "As a significant university city and research location."
+            },
+            {
+                "q": "What is the Mathematikum?",
+                "a": "The first interactive mathematics museum in the world."
+            },
+            {
+                "q": "Who was Justus von Liebig?",
+                "a": "A famous chemist who taught in Gießen for a long time."
+            },
+            {
+                "q": "Does a river flow through Gießen?",
+                "a": "Yes, the city is located on the Lahn."
+            }
+        ]
+    },
+    "mnt-rhoen-hessen-extra": {
+        "de": [
+            {
+                "q": "Was ist die Wasserkuppe?",
+                "a": "Der höchste Berg der Rhön und die 'Wiege des Segelflugs'."
+            },
+            {
+                "q": "Welche Tiere sind typisch für die Rhön?",
+                "a": "Das Rhönschaf mit seinem charakteristischen schwarzen Kopf."
+            },
+            {
+                "q": "Was bedeutet 'Land der offenen Fernen'?",
+                "a": "Es beschreibt die weiten, baumlosen Hochflächen mit Panoramablick."
+            },
+            {
+                "q": "Ist die Rhön ein Biosphärenreservat?",
+                "a": "Ja, sie ist ein UNESCO-Biosphärenreservat."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a Wasserkuppe?",
+                "a": "A Rhön legmagasabb hegye és a 'vitorlázórepülés bölcsője'."
+            },
+            {
+                "q": "Mely állatok jellemzőek a Rhönre?",
+                "a": "A rhön-juh a jellegzetes fekete fejével."
+            },
+            {
+                "q": "Mit jelent a 'nyílt távolságok földje'?",
+                "a": "A tágas, fátlan fennsíkokat írja le, panorámás kilátással."
+            },
+            {
+                "q": "A Rhön bioszféra-rezervátum?",
+                "a": "Igen, ez egy UNESCO bioszféra-rezervátum."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este Wasserkuppe?",
+                "a": "Cel mai înalt munte din Rhön și 'leagănul planorismului'."
+            },
+            {
+                "q": "Ce animale sunt tipice pentru Rhön?",
+                "a": "Oaia de Rhön cu capul său negru caracteristic."
+            },
+            {
+                "q": "Ce înseamnă 'Țara orizonturilor deschise'?",
+                "a": "Descrie podișurile vaste, fără copaci, cu vederi panoramice."
+            },
+            {
+                "q": "Este Rhön o rezervație a biosferei?",
+                "a": "Da, este o rezervație a biosferei UNESCO."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the Wasserkuppe?",
+                "a": "The highest mountain in the Rhön and the 'cradle of gliding'."
+            },
+            {
+                "q": "Which animals are typical for the Rhön?",
+                "a": "The Rhön sheep with its characteristic black head."
+            },
+            {
+                "q": "What does 'Land of Open Distances' mean?",
+                "a": "It describes the wide, treeless plateaus with panoramic views."
+            },
+            {
+                "q": "Is the Rhön a biosphere reserve?",
+                "a": "Yes, it is a UNESCO biosphere reserve."
+            }
+        ]
+    },
+    "landmark-loreley-rhein-he-extra": {
+        "de": [
+            {
+                "q": "Was wird im Rheingau hauptsächlich angebaut?",
+                "a": "Vor allem Riesling-Trauben von hoher Qualität."
+            },
+            {
+                "q": "Was ist das Kloster Eberbach?",
+                "a": "Eine ehemalige Zisterzienserabtei, bekannt für ihren Weinbau und als Drehort von 'Der Name der Rose'."
+            },
+            {
+                "q": "Was ist das Niederwalddenkmal?",
+                "a": "Ein monumentales Denkmal bei Rüdesheim, das an die Reichsgründung 1871 erinnert."
+            },
+            {
+                "q": "Gibt es dort Schlösser?",
+                "a": "Ja, z.B. Schloss Johannisberg und Schloss Vollrads."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mit termesztenek főként a Rheingau-ban?",
+                "a": "Főleg kiváló minőségű rajnai rizling szőlőt."
+            },
+            {
+                "q": "Mi az Eberbach kolostor?",
+                "a": "Egy egykori ciszterci apátság, amely borászatáról és 'A rózsa neve' forgatási helyszíneként ismert."
+            },
+            {
+                "q": "Mi a Niederwalddenkmal?",
+                "a": "Egy monumentális emlékmű Rüdesheim közelében, amely az 1871-es birodalomalapításra emlékeztet."
+            },
+            {
+                "q": "Vannak ott kastélyok?",
+                "a": "Igen, pl. a Johannisberg kastély és a Vollrads kastély."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce se cultivă în principal în Rheingau?",
+                "a": "În special struguri Riesling de înaltă calitate."
+            },
+            {
+                "q": "Ce este Mănăstirea Eberbach?",
+                "a": "O fostă abație cisterciană, cunoscută pentru viticultură și ca loc de filmare pentru 'Numele trandafirului'."
+            },
+            {
+                "q": "Ce este Niederwalddenkmal?",
+                "a": "Un monument monumental lângă Rüdesheim, care comemorează fondarea imperiului în 1871."
+            },
+            {
+                "q": "Există castele acolo?",
+                "a": "Da, de ex. Castelul Johannisberg și Castelul Vollrads."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is primarily grown in the Rheingau?",
+                "a": "Primarily high-quality Riesling grapes."
+            },
+            {
+                "q": "What is Eberbach Abbey?",
+                "a": "A former Cistercian abbey, known for its winemaking and as a filming location for 'The Name of the Rose'."
+            },
+            {
+                "q": "What is the Niederwald Monument?",
+                "a": "A monumental memorial near Rüdesheim commemorating the founding of the empire in 1871."
+            },
+            {
+                "q": "Are there castles there?",
+                "a": "Yes, e.g., Schloss Johannisberg and Schloss Vollrads."
+            }
+        ]
+    },
+    "hist-limburg-dom-extra": {
+        "de": [
+            {
+                "q": "Wie viele Türme hat der Limburger Dom?",
+                "a": "Der Dom hat sieben Türme."
+            },
+            {
+                "q": "Wann wurde der Dom erbaut?",
+                "a": "Er wurde im frühen 13. Jahrhundert vollendet."
+            },
+            {
+                "q": "Was ist die Limburger Staurothek?",
+                "a": "Eine wertvolle byzantinische Kreuzreliquie aus dem 10. Jahrhundert."
+            },
+            {
+                "q": "Welchen Baustil zeigt der Dom?",
+                "a": "Er ist ein Beispiel für den Übergang von der Romanik zur Gotik."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Hány tornya van a limburgi dómnak?",
+                "a": "A dómnak hét tornya van."
+            },
+            {
+                "q": "Mikor épült a dóm?",
+                "a": "A 13. század elején készült el."
+            },
+            {
+                "q": "Mi a limburgi Staurothek?",
+                "a": "Egy értékes bizánci kereszt-ereklye a 10. századból."
+            },
+            {
+                "q": "Milyen építészeti stílust mutat a dóm?",
+                "a": "A romanikából a gótikába való átmenet egyik példája."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Câte turnuri are Catedrala din Limburg?",
+                "a": "Catedrala are șapte turnuri."
+            },
+            {
+                "q": "Când a fost construită catedrala?",
+                "a": "A fost finalizată la începutul secolului al XIII-lea."
+            },
+            {
+                "q": "Ce este Staurothek-ul din Limburg?",
+                "a": "O valoroasă relicvă a crucii bizantine din secolul al X-lea."
+            },
+            {
+                "q": "Ce stil arhitectural prezintă catedrala?",
+                "a": "Este un exemplu de tranziție de la stilul romanic la cel gotic."
+            }
+        ],
+        "en": [
+            {
+                "q": "How many towers does Limburg Cathedral have?",
+                "a": "The cathedral has seven towers."
+            },
+            {
+                "q": "When was the cathedral built?",
+                "a": "It was completed in the early 13th century."
+            },
+            {
+                "q": "What is the Limburg Staurothek?",
+                "a": "A valuable Byzantine cross relic from the 10th century."
+            },
+            {
+                "q": "What architectural style does the cathedral show?",
+                "a": "It is an example of the transition from Romanesque to Gothic."
+            }
+        ]
+    }
+}

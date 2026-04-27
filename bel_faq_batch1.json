@@ -1,0 +1,603 @@
+{
+  "city-dinant": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Dinant known for?",
+          "de": "Wofür ist Dinant bekannt?",
+          "hu": "Miről nevezetes Dinant?",
+          "ro": "Pentru ce este cunoscut Dinant?"
+        },
+        "answer": {
+          "en": "Dinant is famous for its fortified citadel, the Collegiate Church of Notre-Dame with its pear-shaped bell tower, and as the birthplace of Adolphe Sax, the inventor of the saxophone.",
+          "de": "Dinant ist bekannt für seine befestigte Zitadelle, die Stiftskirche Notre-Dame mit ihrem birnenförmigen Glockenturm und als Geburtsort von Adolphe Sax, dem Erfinder des Saxophons.",
+          "hu": "Dinant híres erődített citadellájáról, a körte alakú harangtoronnyal rendelkező Notre-Dame társaskáptalani templomról, valamint Adolphe Sax, a szaxofon feltalálójának szülőhelyeként.",
+          "ro": "Dinant este renumit pentru citadela sa fortificată, Biserica Colegiată Notre-Dame cu turnul său de clopot în formă de pară și ca loc de naștere al lui Adolphe Sax, inventatorul saxofonului."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the Dinant Citadel?",
+          "de": "Kann man die Zitadelle von Dinant besuchen?",
+          "hu": "Látogatható a Dinant-i citadella?",
+          "ro": "Se poate vizita Citadela din Dinant?"
+        },
+        "answer": {
+          "en": "Yes, the citadel is open to the public and can be reached via a cable car or by climbing 408 steps for a panoramic view of the Meuse valley.",
+          "de": "Ja, die Zitadelle ist für die Öffentlichkeit zugänglich und kann mit einer Seilbahn oder über 408 Stufen erreicht werden, von wo aus man einen Panoramablick auf das Maastal hat.",
+          "hu": "Igen, a citadella nyitva áll a közönség előtt, és felvonóval vagy 408 lépcső megmászásával érhető el, ahonnan panorámás kilátás nyílik a Meuse völgyére.",
+          "ro": "Da, citadela este deschisă publicului și se poate ajunge la ea cu telecabina sau urcând 408 trepte pentru o vedere panoramică asupra văii Meuse."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Couque de Dinant'?",
+          "de": "Was ist die 'Couque de Dinant'?",
+          "hu": "Mi az a 'Couque de Dinant'?",
+          "ro": "Ce este 'Couque de Dinant'?"
+        },
+        "answer": {
+          "en": "It is an extremely hard, traditional honey biscuit from Dinant, often pressed into decorative molds before baking.",
+          "de": "Es ist ein extrem harter, traditioneller Honigkeks aus Dinant, der vor dem Backen oft in dekorative Formen gepresst wird.",
+          "hu": "Ez egy rendkívül kemény, hagyományos mézes sütemény Dinant-ból, amelyet sütés előtt gyakran díszes formákba nyomnak.",
+          "ro": "Este un biscuit cu miere tradițional din Dinant, extrem de tare, adesea presat în forme decorative înainte de coacere."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Dinant located?",
+          "de": "Wo liegt Dinant?",
+          "hu": "Hol található Dinant?",
+          "ro": "Unde se află Dinant?"
+        },
+        "answer": {
+          "en": "Dinant is located in the Walloon region of Belgium, along the Meuse River in the province of Namur.",
+          "de": "Dinant liegt in der wallonischen Region Belgiens, am Fluss Maas in der Provinz Namur.",
+          "hu": "Dinant Belgium vallon régiójában, a Meuse folyó mentén, Namur tartományban található.",
+          "ro": "Dinant este situat în regiunea valonă a Belgiei, de-a lungul râului Meuse, în provincia Namur."
+        }
+      }
+    ]
+  },
+  "city-huy": {
+    "faq": [
+      {
+        "question": {
+          "en": "What are the 'Four Wonders of Huy'?",
+          "de": "Was sind die 'Vier Wunder von Huy'?",
+          "hu": "Mik Huy 'négy csodája'?",
+          "ro": "Care sunt cele 'Patru Minuni din Huy'?"
+        },
+        "answer": {
+          "en": "The Four Wonders (Li Pontia, Li Rondia, Li Bassinia, and Li Tchestia) refer to the bridge, the rose window of the collegiate church, a fountain, and the former castle.",
+          "de": "Die vier Wunder (Li Pontia, Li Rondia, Li Bassinia und Li Tchestia) beziehen sich auf die Brücke, das Rosettenfenster der Stiftskirche, einen Brunnen und die ehemalige Burg.",
+          "hu": "A Négy Csoda (Li Pontia, Li Rondia, Li Bassinia és Li Tchestia) a hídra, a társaskáptalani templom rózsaablakára, egy szökőkútra és az egykori várra utal.",
+          "ro": "Cele Patru Minuni (Li Pontia, Li Rondia, Li Bassinia și Li Tchestia) se referă la pod, fereastra rozasă a bisericii colegiate, o fântână și fostul castel."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the historical significance of the Huy Citadel?",
+          "de": "Was ist die historische Bedeutung der Zitadelle von Huy?",
+          "hu": "Mi a Huy-i citadella történelmi jelentősége?",
+          "ro": "Care este semnificația istorică a Citadelei din Huy?"
+        },
+        "answer": {
+          "en": "Built by the Dutch in the 19th century, it was used as a prison and detention camp by the German forces during World War II.",
+          "de": "Im 19. Jahrhundert von den Niederländern erbaut, wurde sie während des Zweiten Weltkriegs von den deutschen Truppen als Gefängnis und Internierungslager genutzt.",
+          "hu": "A 19. században a hollandok által épített erődöt a második világháború alatt a német erők börtönként és internálótáborként használták.",
+          "ro": "Construită de olandezi în secolul al XIX-lea, a fost folosită ca închisoare și lagăr de detenție de către forțele germane în timpul celui de-al Doilea Război Mondial."
+        }
+      },
+      {
+        "question": {
+          "en": "Which major cycling race finishes in Huy?",
+          "de": "Welches große Radrennen endet in Huy?",
+          "hu": "Melyik jelentős kerékpárverseny ér véget Huy-ben?",
+          "ro": "Ce cursă majoră de ciclism se termină în Huy?"
+        },
+        "answer": {
+          "en": "The Flèche Wallonne, a classic one-day cycling race, finishes on the steep 'Mur de Huy' (Wall of Huy).",
+          "de": "Der Flèche Wallonne, ein klassisches Eintages-Radrennen, endet auf der steilen 'Mur de Huy' (Mauer von Huy).",
+          "hu": "A Flèche Wallonne, egy klasszikus egynapos kerékpárverseny, a meredek 'Mur de Huy' (Huy fala) emelkedőjén ér véget.",
+          "ro": "Flèche Wallonne, o cursă clasică de ciclism de o zi, se termină pe abruptul 'Mur de Huy' (Zidul din Huy)."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Huy located?",
+          "de": "Wo liegt Huy?",
+          "hu": "Hol található Huy?",
+          "ro": "Unde se află Huy?"
+        },
+        "answer": {
+          "en": "Huy is a city in the province of Liège, Wallonia, situated at the confluence of the Meuse and Hoyoux rivers.",
+          "de": "Huy ist eine Stadt in der Provinz Lüttich, Wallonien, an der Mündung der Hoyoux in die Maas gelegen.",
+          "hu": "Huy egy város Liège tartományban, Vallóniában, a Meuse és a Hoyoux folyók összefolyásánál.",
+          "ro": "Huy este un oraș din provincia Liège, Valonia, situat la confluența râurilor Meuse și Hoyoux."
+        }
+      }
+    ]
+  },
+  "city-rochefort": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Rochefort famous for?",
+          "de": "Wofür ist Rochefort bekannt?",
+          "hu": "Miről nevezetes Rochefort?",
+          "ro": "Pentru ce este cunoscut Rochefort?"
+        },
+        "answer": {
+          "en": "Rochefort is famous for its Trappist beer brewed at Saint-Rémy Abbey and the impressive Lorette Caves.",
+          "de": "Rochefort ist bekannt für sein Trappistenbier, das in der Abtei Saint-Rémy gebraut wird, und die beeindruckenden Lorette-Höhlen.",
+          "hu": "Rochefort híres a Saint-Rémy apátságban főzött trappista söréről és a lenyűgöző Lorette-barlangokról.",
+          "ro": "Rochefort este renumit pentru berea sa trapistă fabricată la Abația Saint-Rémy și pentru impresionantele Peșteri Lorette."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit the ruins of Rochefort Castle?",
+          "de": "Kann man die Ruinen der Burg Rochefort besuchen?",
+          "hu": "Látogathatók a Rochefort-i vár romjai?",
+          "ro": "Se pot vizita ruinele Castelului Rochefort?"
+        },
+        "answer": {
+          "en": "Yes, the ruins of the Counts' Castle (Château des Comtes) offer insight into the town's medieval past and offer great views.",
+          "de": "Ja, die Ruinen der Grafenburg (Château des Comtes) bieten Einblicke in die mittelalterliche Vergangenheit der Stadt und eine großartige Aussicht.",
+          "hu": "Igen, a Grófi vár (Château des Comtes) romjai betekintést nyújtanak a város középkori múltjába, és nagyszerű kilátást biztosítanak.",
+          "ro": "Da, ruinele Castelului Conților (Château des Comtes) oferă o perspectivă asupra trecutului medieval al orașului și oferă priveliști superbe."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Rochefort Trappist brewery?",
+          "de": "Was ist die Trappistenbrauerei von Rochefort?",
+          "hu": "Mi az a Rochefort-i trappista sörfőzde?",
+          "ro": "Ce este berăria trapistă Rochefort?"
+        },
+        "answer": {
+          "en": "It is one of the few recognized Trappist breweries in the world, located within the Rochefort Abbey (Abbaye Notre-Dame de Saint-Rémy).",
+          "de": "Es ist eine der wenigen anerkannten Trappistenbrauereien der Welt und befindet sich in der Abtei Rochefort (Abbaye Notre-Dame de Saint-Rémy).",
+          "hu": "Ez egyike a világ kevés elismert trappista sörfőzdéjének, amely a Rochefort-i apátságban (Abbaye Notre-Dame de Saint-Rémy) található.",
+          "ro": "Este una dintre puținele berării trapiste recunoscute din lume, situată în cadrul Abației Rochefort (Abbaye Notre-Dame de Saint-Rémy)."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Rochefort located?",
+          "de": "Wo liegt Rochefort?",
+          "hu": "Hol található Rochefort?",
+          "ro": "Unde se află Rochefort?"
+        },
+        "answer": {
+          "en": "Rochefort is located in the province of Namur, Wallonia, at the gateway to the Ardennes.",
+          "de": "Rochefort liegt in der Provinz Namur, Wallonien, am Tor zu den Ardennen.",
+          "hu": "Rochefort Namur tartományban, Vallóniában található, az Ardennek kapujában.",
+          "ro": "Rochefort este situat în provincia Namur, Valonia, la poarta de intrare în Ardeni."
+        }
+      }
+    ]
+  },
+  "city-damme": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Damme known for?",
+          "de": "Wofür ist Damme bekannt?",
+          "hu": "Miről nevezetes Damme?",
+          "ro": "Pentru ce este cunoscut Damme?"
+        },
+        "answer": {
+          "en": "Damme is known as a 'book town' with many bookstores and as the setting for the tales of Till Eulenspiegel.",
+          "de": "Damme ist bekannt als 'Bücherstadt' mit vielen Buchhandlungen und als Schauplatz der Geschichten von Till Eulenspiegel.",
+          "hu": "Damme 'könyvvárosként' ismert, számos könyvesbolttal, valamint Till Eulenspiegel történeteinek helyszíneként.",
+          "ro": "Damme este cunoscut ca un „oraș al cărților” cu multe librării și ca decor pentru poveștile lui Till Eulenspiegel."
+        }
+      },
+      {
+        "question": {
+          "en": "How is Damme connected to Bruges?",
+          "de": "Wie ist Damme mit Brügge verbunden?",
+          "hu": "Hogyan kapcsolódik Damme Brugge-höz?",
+          "ro": "Cum este conectat Damme de Bruges?"
+        },
+        "answer": {
+          "en": "Damme is connected to Bruges by the scenic Damse Vaart canal, which can be traveled by boat, bike, or on foot.",
+          "de": "Damme ist mit Brügge durch den malerischen Damse Vaart Kanal verbunden, der mit dem Boot, dem Fahrrad oder zu Fuß befahren werden kann.",
+          "hu": "Damme-ot a festői Damse Vaart-csatorna köti össze Brugge-vel, amely hajóval, kerékpárral vagy gyalog is bejárható.",
+          "ro": "Damme este conectat de Bruges prin pitorescul canal Damse Vaart, care poate fi parcurs cu barca, bicicleta sau pe jos."
+        }
+      },
+      {
+        "question": {
+          "en": "What can you see in Damme's historical center?",
+          "de": "Was kann man im historischen Zentrum von Damme sehen?",
+          "hu": "Mit lehet látni Damme történelmi központjában?",
+          "ro": "Ce se poate vedea în centrul istoric al orașului Damme?"
+        },
+        "answer": {
+          "en": "The Gothic Town Hall and the Church of Our Lady with its flat-topped tower are prominent landmarks.",
+          "de": "Das gotische Rathaus und die Liebfrauenkirche mit ihrem flachen Turm sind markante Sehenswürdigkeiten.",
+          "hu": "A gótikus Városháza és a lapos tetejű toronnyal rendelkező Miasszonyunk-templom kiemelkedő látnivalók.",
+          "ro": "Primăria gotică și Biserica Maicii Domnului cu turnul său plat sunt repere proeminente."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Damme located?",
+          "de": "Wo liegt Damme?",
+          "hu": "Hol található Damme?",
+          "ro": "Unde se află Damme?"
+        },
+        "answer": {
+          "en": "Damme is a small town in the province of West Flanders, just a few kilometers northeast of Bruges.",
+          "de": "Damme ist eine Kleinstadt in der Provinz Westflandern, nur wenige Kilometer nordöstlich von Brügge.",
+          "hu": "Damme egy kisváros Nyugat-Flandria tartományban, mindössze néhány kilométerre északkeletre Brugge-től.",
+          "ro": "Damme este un oraș mic din provincia Flandra de Vest, la doar câțiva kilometri nord-est de Bruges."
+        }
+      }
+    ]
+  },
+  "city-aalst": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Aalst most famous for?",
+          "de": "Wofür ist Aalst am bekanntesten?",
+          "hu": "Miről a leghíresebb Aalst?",
+          "ro": "Pentru ce este cel mai faimos Aalst?"
+        },
+        "answer": {
+          "en": "Aalst is world-famous for its annual Carnival, which is recognized by UNESCO as an Intangible Cultural Heritage.",
+          "de": "Aalst ist weltberühmt für seinen jährlichen Karneval, der von der UNESCO als immaterielles Kulturerbe anerkannt ist.",
+          "hu": "Aalst világhírű az évente megrendezett karneváljáról, amelyet az UNESCO a szellemi kulturális örökség részeként ismer el.",
+          "ro": "Aalst este faimos în întreaga lume pentru Carnavalul său anual, care este recunoscut de UNESCO ca patrimoniu cultural imaterial."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Belfry of Aalst'?",
+          "de": "Was ist der 'Belfried von Aalst'?",
+          "hu": "Mi az 'Aalst-i harangtorony'?",
+          "ro": "Ce este „Belfry din Aalst”?"
+        },
+        "answer": {
+          "en": "It is one of the oldest belfries in the Low Countries, part of a complex that includes the former city hall and territory house.",
+          "de": "Es ist einer der ältesten Belfriede in den Niederlanden, Teil eines Komplexes, zu dem das ehemalige Rathaus und das Schöffenhaus gehören.",
+          "hu": "Ez Németalföld egyik legrégebbi harangtornya, egy olyan komplexum része, amely magában foglalja a korábbi városházát és a skabinusok házát.",
+          "ro": "Este una dintre cele mai vechi clopotnițe din Țările de Jos, parte a unui complex care include fosta primărie și casa teritoriului."
+        }
+      },
+      {
+        "question": {
+          "en": "Who was Dirk Martens from Aalst?",
+          "de": "Wer war Dirk Martens aus Aalst?",
+          "hu": "Ki volt az aalsti Dirk Martens?",
+          "ro": "Cine a fost Dirk Martens din Aalst?"
+        },
+        "answer": {
+          "en": "He was the first printer in the Southern Netherlands, establishing a printing press in Aalst in 1473.",
+          "de": "Er war der erste Buchdrucker in den südlichen Niederlanden und errichtete 1473 in Aalst eine Druckerei.",
+          "hu": "Ő volt az első könyvnyomtató Dél-Németalföldön, aki 1473-ban nyomdát alapított Aalstban.",
+          "ro": "A fost primul tipograf din Țările de Jos de Sud, înființând o tipografie în Aalst în 1473."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Aalst located?",
+          "de": "Wo liegt Aalst?",
+          "hu": "Hol található Aalst?",
+          "ro": "Unde se află Aalst?"
+"
+        },
+        "answer": {
+          "en": "Aalst is a city in East Flanders, located on the Dender River, roughly halfway between Ghent and Brussels.",
+          "de": "Aalst ist eine Stadt in Ostflandern, am Fluss Dender gelegen, etwa auf halbem Weg zwischen Gent und Brüssel.",
+          "hu": "Aalst egy város Kelet-Flandriában, a Dender folyó partján, nagyjából félúton Gent és Brüsszel között.",
+          "ro": "Aalst este un oraș din Flandra de Est, situat pe râul Dender, aproximativ la jumătatea distanței dintre Gent și Bruxelles."
+        }
+      }
+    ]
+  },
+  "city-oudenaarde": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Oudenaarde famous for?",
+          "de": "Wofür ist Oudenaarde bekannt?",
+          "hu": "Miről nevezetes Oudenaarde?",
+          "ro": "Pentru ce este cunoscut Oudenaarde?"
+        },
+        "answer": {
+          "en": "Oudenaarde is famous for its tapestry industry history, its flamboyant Gothic Town Hall, and its connection to cycling.",
+          "de": "Oudenaarde ist bekannt für seine Geschichte der Tapisserie-Industrie, sein prächtiges gotisches Rathaus und seine Verbindung zum Radsport.",
+          "hu": "Oudenaarde híres falikárpit-iparának történetéről, pompás gótikus városházájáról és a kerékpározáshoz fűződő kapcsolatáról.",
+          "ro": "Oudenaarde este faimos pentru istoria industriei sale de tapițerie, primăria sa gotică flamboaiantă și conexiunea sa cu ciclismul."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Tour of Flanders Center'?",
+          "de": "Was ist das 'Zentrum der Flandern-Rundfahrt'?",
+          "hu": "Mi az a 'Flandriai Körverseny Központ'?",
+          "ro": "Ce este „Centrul Turului Flandrei”?"
+        },
+        "answer": {
+          "en": "It is a museum dedicated to the history and atmosphere of the Ronde van Vlaanderen, one of cycling's most famous races.",
+          "de": "Es ist ein Museum, das der Geschichte und Atmosphäre der Ronde van Vlaanderen gewidmet ist, einem der berühmtesten Radrennen der Welt.",
+          "hu": "Ez egy múzeum, amelyet a Ronde van Vlaanderen, a világ egyik leghíresebb kerékpárversenyének történetének és hangulatának szenteltek.",
+          "ro": "Este un muzeu dedicat istoriei și atmosferei Ronde van Vlaanderen, una dintre cele mai faimoase curse de ciclism."
+        }
+      },
+      {
+        "question": {
+          "en": "Why is the Oudenaarde Town Hall significant?",
+          "de": "Warum ist das Rathaus von Oudenaarde bedeutend?",
+          "hu": "Miért jelentős az oudenaarde-i városháza?",
+          "ro": "De ce este semnificativă Primăria din Oudenaarde?"
+        },
+        "answer": {
+          "en": "It is a UNESCO World Heritage site and a masterpiece of Brabantine Gothic architecture.",
+          "de": "Es ist ein UNESCO-Weltkulturerbe und ein Meisterwerk der brabantischen Gotik.",
+          "hu": "Az UNESCO Világörökség része, és a brabanti gótikus építészet mesterműve.",
+          "ro": "Este un sit al Patrimoniului Mondial UNESCO și o capodoperă a arhitecturii gotice brabantine."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Oudenaarde located?",
+          "de": "Wo liegt Oudenaarde?",
+          "hu": "Hol található Oudenaarde?",
+          "ro": "Unde se află Oudenaarde?"
+        },
+        "answer": {
+          "en": "Oudenaarde is located in the province of East Flanders, in the hilly region known as the Flemish Ardennes.",
+          "de": "Oudenaarde liegt in der Provinz Ostflandern, in der hügeligen Region, die als Flämische Ardennen bekannt ist.",
+          "hu": "Oudenaarde Kelet-Flandria tartományban található, a Flamand-Ardennek néven ismert dombos vidéken.",
+          "ro": "Oudenaarde este situat în provincia Flandra de Est, în regiunea deluroasă cunoscută sub numele de Ardenii Flamânzi."
+        }
+      }
+    ]
+  },
+  "city-roeselare": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Roeselare known for?",
+          "de": "Wofür ist Roeselare bekannt?",
+          "hu": "Miről nevezetes Roeselare?",
+          "ro": "Pentru ce este cunoscut Roeselare?"
+        },
+        "answer": {
+          "en": "Roeselare is known for its food industry, Rodenbach brewery, and the National Cycling Museum (KOERS).",
+          "de": "Roeselare ist bekannt für seine Lebensmittelindustrie, die Rodenbach-Brauerei und das Nationale Radsportmuseum (KOERS).",
+          "hu": "Roeselare az élelmiszeriparáról, a Rodenbach sörfőzdéről és a Nemzeti Kerékpáros Múzeumról (KOERS) ismert.",
+          "ro": "Roeselare este cunoscut pentru industria sa alimentară, berăria Rodenbach și Muzeul Național de Ciclism (KOERS)."
+        }
+      },
+      {
+        "question": {
+          "en": "What is unique about Rodenbach beer from Roeselare?",
+          "de": "Was ist das Besondere am Rodenbach-Bier aus Roeselare?",
+          "hu": "Mi az egyedülálló a roeselare-i Rodenbach sörben?",
+          "ro": "Ce este unic la berea Rodenbach din Roeselare?"
+        },
+        "answer": {
+          "en": "It is a Flemish Red Ale aged in massive oak barrels (foeders), giving it a distinctive sour and fruity taste.",
+          "de": "Es ist ein flämisches Red Ale, das in riesigen Eichenfässern (Foedern) reift, was ihm einen unverwechselbaren säuerlichen und fruchtigen Geschmack verleiht.",
+          "hu": "Ez egy flamand vörös sör, amelyet hatalmas tölgyfahordókban (foeders) érlelnek, ami jellegzetes savanykás és gyümölcsös ízt ad neki.",
+          "ro": "Este un Flemish Red Ale maturat în butoaie masive de stejar (foeders), oferindu-i un gust distinctiv acru și fructat."
+        }
+      },
+      {
+        "question": {
+          "en": "What can you see at the KOERS museum?",
+          "de": "Was kann man im KOERS-Museum sehen?",
+          "hu": "Mit lehet látni a KOERS múzeumban?",
+          "ro": "Ce se poate vedea la muzeul KOERS?"
+        },
+        "answer": {
+          "en": "The museum showcases the history of cycling through bikes, jerseys, and trophies of famous champions.",
+          "de": "Das Museum zeigt die Geschichte des Radsports anhand von Fahrrädern, Trikots und Trophäen berühmter Champions.",
+          "hu": "A múzeum a kerékpározás történetét mutatja be híres bajnokok kerékpárjain, mezein és trófeáin keresztül.",
+          "ro": "Muzeul prezintă istoria ciclismului prin biciclete, tricouri și trofee ale unor campioni celebri."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Roeselare located?",
+          "de": "Wo liegt Roeselare?",
+          "hu": "Hol található Roeselare?",
+          "ro": "Unde se află Roeselare?"
+        },
+        "answer": {
+          "en": "Roeselare is a city in the province of West Flanders, in the heart of the region.",
+          "de": "Roeselare ist eine Stadt in der Provinz Westflandern, im Herzen der Region.",
+          "hu": "Roeselare egy város Nyugat-Flandria tartományban, a régió szívében.",
+          "ro": "Roeselare este un oraș din provincia Flandra de Vest, în inima regiunii."
+        }
+      }
+    ]
+  },
+  "city-turnhout": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Turnhout famous for?",
+          "de": "Wofür ist Turnhout bekannt?",
+          "hu": "Miről nevezetes Turnhout?",
+          "ro": "Pentru ce este cunoscut Turnhout?"
+        },
+        "answer": {
+          "en": "Turnhout is known as the world center of playing card production and for its beguinage.",
+          "de": "Turnhout ist bekannt als Weltzentrum der Spielkartenherstellung und für seinen Beginenhof.",
+          "hu": "Turnhout a játékkártya-gyártás világközpontjaként és beginaudvaráról ismert.",
+          "ro": "Turnhout este cunoscut ca centrul mondial al producției de cărți de joc și pentru beguinajul său."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'National Museum of the Playing Card'?",
+          "de": "Was ist das 'Nationalmuseum der Spielkarte'?",
+          "hu": "Mi az 'Országos Játékkártya Múzeum'?",
+          "ro": "Ce este „Muzeul Național al Cărții de Joc”?"
+        },
+        "answer": {
+          "en": "A museum in Turnhout dedicated to the history and manufacturing of playing cards, a craft for which the city is world-renowned.",
+          "de": "Ein Museum in Turnhout, das der Geschichte und Herstellung von Spielkarten gewidmet ist, ein Handwerk, für das die Stadt weltberühmt ist.",
+          "hu": "Egy Turnhout-i múzeum, amely a játékkártyák történetének és gyártásának szentelték, ez az a mesterség, amelyről a város világszerte ismert.",
+          "ro": "Un muzeu din Turnhout dedicat istoriei și fabricării cărților de joc, un meșteșug pentru care orașul este renumit în întreaga lume."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the Turnhout Beguinage a protected site?",
+          "de": "Ist der Beginenhof von Turnhout geschützt?",
+          "hu": "Védett terület a Turnhout-i beginaudvar?",
+          "ro": "Este Beguinajul din Turnhout un sit protejat?"
+        },
+        "answer": {
+          "en": "Yes, it is a UNESCO World Heritage site, recognized for its exceptional preservation and historical value.",
+          "de": "Ja, es ist ein UNESCO-Weltkulturerbe, das für seine außergewöhnliche Erhaltung und seinen historischen Wert anerkannt ist.",
+          "hu": "Igen, az UNESCO Világörökség része, amelyet kivételes megőrzöttsége és történelmi értéke miatt ismertek el.",
+          "ro": "Da, este un sit al Patrimoniului Mondial UNESCO, recunoscut pentru conservarea sa excepțională și valoarea sa istorică."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Turnhout located?",
+          "de": "Wo liegt Turnhout?",
+          "hu": "Hol található Turnhout?",
+          "ro": "Unde se află Turnhout?"
+        },
+        "answer": {
+          "en": "Turnhout is located in the Kempen region of the province of Antwerp, near the border with the Netherlands.",
+          "de": "Turnhout liegt in der Region Kempen in der Provinz Antwerpen, nahe der Grenze zu den Niederlanden.",
+          "hu": "Turnhout Antwerpen tartomány Kempen régiójában található, a holland határ közelében.",
+          "ro": "Turnhout este situat în regiunea Kempen din provincia Anvers, lângă granița cu Țările de Jos."
+        }
+      }
+    ]
+  },
+  "city-hasselt": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Hasselt known for?",
+          "de": "Wofür ist Hasselt bekannt?",
+          "hu": "Miről nevezetes Hasselt?",
+          "ro": "Pentru ce este cunoscut Hasselt?"
+        },
+        "answer": {
+          "en": "Hasselt is known as the 'City of Taste,' for its Jenever production, and its large Japanese Garden.",
+          "de": "Hasselt ist bekannt als 'Stadt des Geschmacks', für seine Jenever-Produktion und seinen großen Japanischen Garten.",
+          "hu": "Hasselt az 'Ízek városaként' ismert Jenever-gyártásáról és hatalmas Japánkertjéről.",
+          "ro": "Hasselt este cunoscut sub numele de „Orașul Gustului”, pentru producția sa de Jenever și marea sa grădină japoneză."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Japanese Garden in Hasselt?",
+          "de": "Was ist der Japanische Garten in Hasselt?",
+          "hu": "Mi az a Hasselt-i Japánkert?",
+          "ro": "Ce este Grădina Japoneză din Hasselt?"
+        },
+        "answer": {
+          "en": "It is the largest Japanese garden in Europe, a gift from Hasselt's Japanese sister city, Itami.",
+          "de": "Es ist der größte japanische Garten in Europa, ein Geschenk von Hasselts japanischer Partnerstadt Itami.",
+          "hu": "Ez Európa legnagyobb japánkertje, amely Hasselt japán testvérvárosának, Itaminak az ajándéka.",
+          "ro": "Este cea mai mare grădină japoneză din Europa, un cadou din partea orașului japonez înfrățit cu Hasselt, Itami."
+        }
+      },
+      {
+        "question": {
+          "en": "What is Jenever?",
+          "de": "Was ist Jenever?",
+          "hu": "Mi az a Jenever?",
+          "ro": "Ce este Jenever?"
+        },
+        "answer": {
+          "en": "Jenever is a traditional juniper-flavored spirit, the predecessor of gin, which has a long history of production in Hasselt.",
+          "de": "Jenever ist eine traditionelle Spirituose mit Wacholdergeschmack, der Vorläufer des Gins, der in Hasselt eine lange Tradition hat.",
+          "hu": "A Jenever egy hagyományos boróka ízesítésű párlat, a gin elődje, amelynek gyártása hosszú múltra tekint vissza Hasseltben.",
+          "ro": "Jenever este un spirit tradițional cu aromă de ienupăr, predecesorul ginului, care are o lungă istorie de producție în Hasselt."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Hasselt located?",
+          "de": "Wo liegt Hasselt?",
+          "hu": "Hol található Hasselt?",
+          "ro": "Unde se află Hasselt?"
+        },
+        "answer": {
+          "en": "Hasselt is the capital city of the province of Limburg, located in the Flemish region of Belgium.",
+          "de": "Hasselt ist die Hauptstadt der Provinz Limburg in der flämischen Region Belgiens.",
+          "hu": "Hasselt Limburg tartomány fővárosa, Belgium flamand régiójában található.",
+          "ro": "Hasselt este capitala provinciei Limburg, situată în regiunea flamandă a Belgiei."
+        }
+      }
+    ]
+  },
+  "city-tongeren": {
+    "faq": [
+      {
+        "question": {
+          "en": "Why is Tongeren significant historically?",
+          "de": "Warum ist Tongeren historisch bedeutend?",
+          "hu": "Miért jelentős történelmileg Tongeren?",
+          "ro": "De ce este semnificativ Tongeren din punct de vedere istoric?"
+        },
+        "answer": {
+          "en": "Tongeren is known as the oldest city in Belgium, founded by the Romans in 15 BC.",
+          "de": "Tongeren ist als die älteste Stadt Belgiens bekannt, die 15 v. Chr. von den Römern gegründet wurde.",
+          "hu": "Tongerent Belgium legrégebbi városaként ismerik, amelyet a rómaiak alapítottak i.e. 15-ben.",
+          "ro": "Tongeren este cunoscut ca fiind cel mai vechi oraș din Belgia, fondat de romani în anul 15 î.Hr."
+        }
+      },
+      {
+        "question": {
+          "en": "Who was Ambiorix?",
+          "de": "Wer war Ambiorix?",
+          "hu": "Ki volt Ambiorix?",
+          "ro": "Cine a fost Ambiorix?"
+        },
+        "answer": {
+          "en": "Ambiorix was the leader of the Eburones tribe who resisted Julius Caesar; a famous statue of him stands in Tongeren's market square.",
+          "de": "Ambiorix war der Anführer des Stammes der Eburonen, der Julius Cäsar Widerstand leistete; eine berühmte Statue von ihm steht auf dem Marktplatz von Tongeren.",
+          "hu": "Ambiorix az eburók törzsének vezetője volt, aki ellenállt Julius Caesarnak; híres szobra Tongeren főterén áll.",
+          "ro": "Ambiorix a fost conducătorul tribului Eburoni care s-a opus lui Iulius Cezar; o faimoasă statuie a sa se află în piața centrală din Tongeren."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Tongeren Antiques Market?",
+          "de": "Was ist der Antiquitätenmarkt von Tongeren?",
+          "hu": "Mi az a Tongeren-i régiségpiac?",
+          "ro": "Ce este Piața de Antichități din Tongeren?"
+        },
+        "answer": {
+          "en": "Every Sunday morning, Tongeren hosts one of the largest and most famous antiques and flea markets in the Benelux region.",
+          "de": "Jeden Sonntagmorgen findet in Tongeren einer der größten und bekanntesten Antiquitäten- und Flohmärkte der Benelux-Region statt.",
+          "hu": "Minden vasárnap reggel Tongeren ad otthont a Benelux-államok egyik legnagyobb és leghíresebb régiség- és bolhapiacának.",
+          "ro": "În fiecare duminică dimineața, Tongeren găzduiește una dintre cele mai mari și mai faimoase piețe de antichități și vechituri din regiunea Benelux."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Tongeren located?",
+          "de": "Wo liegt Tongeren?",
+          "hu": "Hol található Tongeren?",
+          "ro": "Unde se află Tongeren?"
+        },
+        "answer": {
+          "en": "Tongeren is located in the province of Limburg, in the Haspengouw region of Flanders.",
+          "de": "Tongeren liegt in der Provinz Limburg, in der Region Haspengouw in Flandern.",
+          "hu": "Tongeren Limburg tartományban, Flandria Haspengouw régiójában található.",
+          "ro": "Tongeren este situat în provincia Limburg, în regiunea Haspengouw din Flandra."
+        }
+      }
+    ]
+  }
+}

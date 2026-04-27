@@ -1,0 +1,8 @@
+ELAPSED_SEC=50
+EXIT=0
+total 4
+drwxrwxrwx 1 user user  512 Apr 25 08:44 .
+drwxrwxrwx 1 user user  512 Apr 25 08:43 ..
+-rwxrwxrwx 1 user user 1608 Apr 25 08:44 capitals.json
+-rwxrwxrwx 1 user user  323 Apr 25 08:44 run.log
+-rwxrwxrwx 1 user user   22 Apr 25 08:44 timing.txt

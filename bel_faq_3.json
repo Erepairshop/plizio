@@ -1,0 +1,262 @@
+{
+  "city-ulm-extra": {
+    "de": [
+      {"q": "Was ist das architektonische Wahrzeichen von Ulm?", "a": "Das Ulmer Münster besitzt mit 161,53 Metern den höchsten Kirchturm der Welt."},
+      {"q": "Wer ist der berühmteste in Ulm geborene Wissenschaftler?", "a": "Albert Einstein wurde 1879 in Ulm geboren."},
+      {"q": "Was ist das 'Fischerviertel'?", "a": "Ein historisches Viertel an der Einmündung der Blau in die Donau, bekannt für seine alten Fachwerkhäuser und engen Gassen."},
+      {"q": "Was ist das 'Schiefe Haus'?", "a": "Ein spätgotisches Fachwerkhaus im Fischerviertel, das als das schiefste Hotel der Welt im Guinness-Buch der Rekorde steht."}
+    ],
+    "hu": [
+      {"q": "Mi Ulm építészeti jelképe?", "a": "Az ulmi nagytemplom (Ulmer Münster) büszkélkedhet a világ legmagasabb, 161,53 méteres templomtornyával."},
+      {"q": "Ki a leghíresebb Ulmból származó tudós?", "a": "Albert Einstein 1879-ben született Ulmban."},
+      {"q": "Mi az a 'Halásznegyed' (Fischerviertel)?", "a": "Egy történelmi negyed a Blau folyó Dunába torkollásánál, amely régi fagerendás házairól és szűk utcáiról ismert."},
+      {"q": "Mi az a 'Ferde Ház'?", "a": "Egy késő gótikus fagerendás ház a Halásznegyedben, amely a világ legferdébb szállodájaként szerepel a Guinness Rekordok Könyvében."}
+    ],
+    "ro": [
+      {"q": "Care este simbolul arhitectural al orașului Ulm?", "a": "Catedrala din Ulm (Ulmer Münster) deține cel mai înalt turn de biserică din lume, având 161,53 metri."},
+      {"q": "Cine este cel mai faimos om de știință născut în Ulm?", "a": "Albert Einstein s-a născut la Ulm în 1879."},
+      {"q": "Ce este 'Cartierul Pescarilor' (Fischerviertel)?", "a": "Un cartier istoric situat la vărsarea râului Blau în Dunăre, cunoscut pentru casele vechi cu structură din lemn și străzile înguste."},
+      {"q": "Ce este 'Casa Strâmbă'?", "a": "O casă în stil gotic târziu din Cartierul Pescarilor, inclusă în Guinness Book ca fiind cel mai strâmb hotel din lume."}
+    ],
+    "en": [
+      {"q": "What is the architectural landmark of Ulm?", "a": "Ulm Minster has the highest church tower in the world, standing at 161.53 meters."},
+      {"q": "Who is the most famous scientist born in Ulm?", "a": "Albert Einstein was born in Ulm in 1879."},
+      {"q": "What is the 'Fishermen's Quarter'?", "a": "A historic district at the confluence of the Blau and the Danube, known for its old half-timbered houses and narrow alleys."},
+      {"q": "What is the 'Leaning House'?", "a": "A late Gothic half-timbered house in the Fishermen's Quarter, listed in the Guinness Book of Records as the most leaning hotel in the world."}
+    ]
+  },
+  "mnt-feldberg-bw-extra": {
+    "de": [
+      {"q": "Wo befindet sich der Feldberg?", "a": "Er liegt im Südschwarzwald und ist der höchste Berg in Baden-Württemberg."},
+      {"q": "Wie hoch ist der Feldberg?", "a": "Er hat eine Höhe von 1493 Metern über dem Meeresspiegel."},
+      {"q": "Welche Wintersportmöglichkeiten gibt es am Feldberg?", "a": "Der Feldberg ist das größte deutsche Skigebiet außerhalb der Alpen mit zahlreichen Liften und Pisten."},
+      {"q": "Was ist der Feldbergturm?", "a": "Ein ehemaliger Funkturm auf dem Gipfel, der heute als Aussichtsturm und Schinkenmuseum genutzt wird."}
+    ],
+    "hu": [
+      {"q": "Hol található a Feldberg?", "a": "A Déli-Fekete-erdőben fekszik, és Baden-Württemberg legmagasabb hegye."},
+      {"q": "Milyen magas a Feldberg?", "a": "Magassága 1493 méter a tengerszint felett."},
+      {"q": "Milyen téli sportolási lehetőségek vannak a Feldbergen?", "a": "A Feldberg az Alpokon kívüli legnagyobb német síterület, számos felvonóval és pályával."},
+      {"q": "Mi az a Feldberg-torony?", "a": "Egy korábbi rádiótorony a csúcson, amelyet ma kilátóként és sonkamúzeumként használnak."}
+    ],
+    "ro": [
+      {"q": "Unde se află muntele Feldberg?", "a": "Este situat în sudul Pădurii Negre și este cel mai înalt munte din Baden-Württemberg."},
+      {"q": "Ce înălțime are muntele Feldberg?", "a": "Are o înălțime de 1493 de metri deasupra nivelului mării."},
+      {"q": "Ce posibilități de sporturi de iarnă există pe Feldberg?", "a": "Feldberg este cea mai mare zonă de schi din Germania în afara Alpilor, având numeroase teleschiuri și pârtii."},
+      {"q": "Ce este turnul Feldberg?", "a": "Un fost turn de transmisie de pe vârf, care astăzi este folosit ca turn de observație și muzeu al șuncii."}
+    ],
+    "en": [
+      {"q": "Where is the Feldberg located?", "a": "It is located in the Southern Black Forest and is the highest mountain in Baden-Württemberg."},
+      {"q": "How high is the Feldberg?", "a": "It has an elevation of 1493 meters above sea level."},
+      {"q": "What winter sports opportunities are there at the Feldberg?", "a": "The Feldberg is the largest German ski area outside the Alps, with numerous lifts and slopes."},
+      {"q": "What is the Feldberg Tower?", "a": "A former radio tower on the summit, now used as a lookout tower and ham museum."}
+    ]
+  },
+  "river-neckar-extra": {
+    "de": [
+      {"q": "Wo entspringt der Neckar?", "a": "Der Neckar entspringt im Schwenninger Moos bei Villingen-Schwenningen."},
+      {"q": "In welchen Fluss mündet der Neckar?", "a": "Er mündet bei Mannheim in den Rhein."},
+      {"q": "Welche bekannten Städte liegen am Neckar?", "a": "Städte wie Tübingen, Stuttgart, Heilbronn und Heidelberg liegen an seinem Lauf."},
+      {"q": "Ist der Neckar für die Schifffahrt ausgebaut?", "a": "Ja, er ist von Plochingen bis zu seiner Mündung als Bundeswasserstraße für die Schifffahrt kanalisiert."}
+    ],
+    "hu": [
+      {"q": "Hol ered a Neckar?", "a": "A Neckar a Villingen-Schwenningen melletti Schwenninger Moos-ban ered."},
+      {"q": "Melyik folyóba torkollik a Neckar?", "a": "Mannheimnél torkollik a Rajnába."},
+      {"q": "Mely ismert városok fekszenek a Neckar mentén?", "a": "Olyan városok fekszenek a folyó mentén, mint Tübingen, Stuttgart, Heilbronn és Heidelberg."},
+      {"q": "Hajózható-e a Neckar?", "a": "Igen, Plochingentől a torkolatáig szövetségi víziútként csatornázott a hajózás számára."}
+    ],
+    "ro": [
+      {"q": "Unde izvorăște râul Neckar?", "a": "Neckar izvorăște în zona mlăștinoasă Schwenninger Moos, lângă Villingen-Schwenningen."},
+      {"q": "În ce râu se varsă Neckar?", "a": "Se varsă în Rin, în dreptul orașului Mannheim."},
+      {"q": "Ce orașe cunoscute se află pe râul Neckar?", "a": "Orașe precum Tübingen, Stuttgart, Heilbronn și Heidelberg sunt situate de-a lungul cursului său."},
+      {"q": "Este râul Neckar amenajat pentru navigație?", "a": "Da, este canalizat pentru navigație de la Plochingen până la vărsare, fiind o cale navigabilă federală."}
+    ],
+    "en": [
+      {"q": "Where does the Neckar originate?", "a": "The Neckar originates in the Schwenninger Moos near Villingen-Schwenningen."},
+      {"q": "Which river does the Neckar flow into?", "a": "It flows into the Rhine at Mannheim."},
+      {"q": "Which well-known cities lie on the Neckar?", "a": "Cities such as Tübingen, Stuttgart, Heilbronn, and Heidelberg are located along its course."},
+      {"q": "Is the Neckar developed for shipping?", "a": "Yes, it is canalized for shipping as a federal waterway from Plochingen to its confluence."}
+    ]
+  },
+  "city-tuebingen-extra": {
+    "de": [
+      {"q": "Was prägt das Stadtbild von Tübingen?", "a": "Tübingen ist eine klassische Universitätsstadt mit einer sehr gut erhaltenen mittelalterlichen Altstadt am Neckar."},
+      {"q": "Was ist das bekannteste Fotomotiv in Tübingen?", "a": "Die bunte Häuserfront am Neckar mit dem Hölderlinturm."},
+      {"q": "Was ist das 'Stocherkahnfahren'?", "a": "Eine Tübinger Besonderheit, bei der man in flachen Booten mit einer langen Stange über den Neckar befördert wird."},
+      {"q": "Wer war Friedrich Hölderlin?", "a": "Ein berühmter deutscher Lyriker, der die zweite Hälfte seines Lebens in einem Turmzimmer in Tübingen verbrachte."}
+    ],
+    "hu": [
+      {"q": "Mi határozza meg Tübingen városképét?", "a": "Tübingen egy klasszikus egyetemváros, nagyon jól megőrzött középkori óvárossal a Neckar partján."},
+      {"q": "Mi a legismertebb fotótéma Tübingenben?", "a": "A Neckar-parti színes házsor a Hölderlin-toronnyal."},
+      {"q": "Mi az a 'Stocherkahnfahren'?", "a": "Tübingeni különlegesség, amelynek során lapos csónakokban, egy hosszú rúd segítségével hajtják előre az embert a Neckaron."},
+      {"q": "Ki volt Friedrich Hölderlin?", "a": "Híres német költő, aki élete második felét egy tübingeni toronyszobában töltötte."}
+    ],
+    "ro": [
+      {"q": "Ce definește aspectul orașului Tübingen?", "a": "Tübingen este un oraș universitar clasic, cu un centru istoric medieval foarte bine conservat, pe malul râului Neckar."},
+      {"q": "Care este cel mai cunoscut motiv fotografic din Tübingen?", "a": "Fațada colorată a caselor de pe malul Neckarului, cu turnul Hölderlin."},
+      {"q": "Ce este 'Stocherkahnfahren'?", "a": "O particularitate a orașului Tübingen, constând în plimbări pe Neckar în bărci plate, propulsate cu o prăjină lungă."},
+      {"q": "Cine a fost Friedrich Hölderlin?", "a": "Un celebru poet liric german, care și-a petrecut a doua jumătate a vieții într-o cameră din turnul Hölderlin din Tübingen."}
+    ],
+    "en": [
+      {"q": "What characterizes the cityscape of Tübingen?", "a": "Tübingen is a classic university town with a very well-preserved medieval old town on the Neckar."},
+      {"q": "What is the most famous photo motif in Tübingen?", "a": "The colorful waterfront houses on the Neckar with the Hölderlin Tower."},
+      {"q": "What is 'Stocherkahnfahren'?", "a": "A Tübingen specialty involving being transported across the Neckar in flat boats using a long pole."},
+      {"q": "Who was Friedrich Hölderlin?", "a": "A famous German lyric poet who spent the second half of his life in a tower room in Tübingen."}
+    ]
+  },
+  "landmark-hohenzollern-castle-extra": {
+    "de": [
+      {"q": "Wo liegt die Burg Hohenzollern?", "a": "Sie liegt auf dem Gipfel des Zollerbergs am Rande der Schwäbischen Alb."},
+      {"q": "Welches Adelsgeschlecht stammt von dieser Burg?", "a": "Sie ist der Stammsitz des Hauses Hohenzollern, aus dem die preußischen Könige und deutschen Kaiser hervorgingen."},
+      {"q": "In welchem Stil wurde die heutige Burg erbaut?", "a": "Die heutige Burg wurde im 19. Jahrhundert im neugotischen Stil als romantische Ritterburg wiederaufgebaut."},
+      {"q": "Kann man die Burg besichtigen?", "a": "Ja, die Burg ist ein beliebtes Touristenziel und bietet Führungen durch die prunkvollen Säle und die Schatzkammer an."}
+    ],
+    "hu": [
+      {"q": "Hol található Hohenzollern vára?", "a": "A Sváb-Alb szélén, a Zollerberg csúcsán található."},
+      {"q": "Melyik nemesi család származik ebből a várból?", "a": "Ez a Hohenzollern-ház ősi fészke, amelyből a porosz királyok és a német császárok származtak."},
+      {"q": "Milyen stílusban épült a mai vár?", "a": "A mai várat a 19. században építették újjá neogótikus stílusban, romantikus lovagvárként."},
+      {"q": "Látogatható-e a vár?", "a": "Igen, a vár népszerű turisztikai célpont, ahol vezetett túrákat tartanak a pompás termekben és a kincstárban."}
+    ],
+    "ro": [
+      {"q": "Unde se află Castelul Hohenzollern?", "a": "Se află pe vârful muntelui Zollerberg, la marginea Alpilor Șvabi."},
+      {"q": "Ce familie nobiliară provine din acest castel?", "a": "Este sediul ancestral al Casei de Hohenzollern, din care au provenit regii prusaci și împărații germani."},
+      {"q": "În ce stil a fost construit castelul actual?", "a": "Castelul actual a fost reconstruit în secolul al XIX-lea în stil neogotic, ca un castel medieval romantic."},
+      {"q": "Poate fi vizitat castelul?", "a": "Da, castelul este o destinație turistică populară și oferă tururi ghidate prin sălile somptuoase și trezorerie."}
+    ],
+    "en": [
+      {"q": "Where is Hohenzollern Castle located?", "a": "It is located on the summit of Mount Zoller on the edge of the Swabian Alps."},
+      {"q": "Which noble family originates from this castle?", "a": "It is the ancestral seat of the House of Hohenzollern, from which the Prussian kings and German emperors emerged."},
+      {"q": "In what style was the current castle built?", "a": "The current castle was rebuilt in the 19th century in the Neo-Gothic style as a romantic knight's castle."},
+      {"q": "Can the castle be visited?", "a": "Yes, the castle is a popular tourist destination and offers tours through the magnificent halls and the treasury."}
+    ]
+  },
+  "lake-titisee-extra": {
+    "de": [
+      {"q": "Wie ist der Titisee entstanden?", "a": "Der See wurde durch den Feldberg-Gletscher in der letzten Eiszeit geformt."},
+      {"q": "Welcher Ort liegt direkt am See?", "a": "Der bekannte Kurort Titisee-Neustadt liegt am Nordufer des Sees."},
+      {"q": "Welche Freizeitaktivitäten sind dort beliebt?", "a": "Neben Bootsfahrten und Wandern ist die Promenade zum Bummeln und Einkaufen sehr bekannt."},
+      {"q": "Wie hoch liegt der Titisee?", "a": "Er liegt auf einer Höhe von etwa 845 Metern über dem Meeresspiegel."}
+    ],
+    "hu": [
+      {"q": "Hogyan keletkezett a Titisee?", "a": "A tavat a Feldberg-gleccser formálta az utolsó jégkorszak idején."},
+      {"q": "Melyik település fekszik közvetlenül a tónál?", "a": "Az ismert üdülőhely, Titisee-Neustadt fekszik a tó északi partján."},
+      {"q": "Milyen szabadidős tevékenységek népszerűek ott?", "a": "A hajókázás és túrázás mellett a sétány a népszerű korzózásról és vásárlásról is ismert."},
+      {"q": "Milyen magasan fekszik a Titisee?", "a": "Körülbelül 845 méteres tengerszint feletti magasságban található."}
+    ],
+    "ro": [
+      {"q": "Cum s-a format lacul Titisee?", "a": "Lacul a fost format de ghețarul Feldberg în timpul ultimei ere glaciare."},
+      {"q": "Ce localitate se află direct pe malul lacului?", "a": "Cunoscuta stațiune balneară Titisee-Neustadt se află pe malul nordic al lacului."},
+      {"q": "Ce activități de agrement sunt populare acolo?", "a": "Pe lângă plimbările cu barca și drumețiile, promenada este foarte cunoscută pentru plimbări și cumpărături."},
+      {"q": "La ce altitudine se află lacul Titisee?", "a": "Se află la o altitudine de aproximativ 845 de metri deasupra nivelului mării."}
+    ],
+    "en": [
+      {"q": "How was Lake Titisee formed?", "a": "The lake was formed by the Feldberg glacier during the last ice age."},
+      {"q": "Which town is located directly on the lake?", "a": "The well-known spa town of Titisee-Neustadt is located on the north shore of the lake."},
+      {"q": "What recreational activities are popular there?", "a": "In addition to boat trips and hiking, the promenade is very famous for strolling and shopping."},
+      {"q": "How high is Lake Titisee located?", "a": "It is situated at an altitude of about 845 meters above sea level."}
+    ]
+  },
+  "historical-kloster-maulbronn-extra": {
+    "de": [
+      {"q": "Warum ist das Kloster Maulbronn so bedeutend?", "a": "Es gilt als die am besten erhaltene mittelalterliche Zisterzienserabtei nördlich der Alpen und ist UNESCO-Welterbe."},
+      {"q": "Welchen architektonischen Übergang kann man hier sehen?", "a": "Man sieht den Übergang von der Romanik zur Gotik, insbesondere in der berühmten Vorhalle, dem 'Paradies'."},
+      {"q": "Wofür wurde das Kloster nach der Reformation genutzt?", "a": "Es wurde in eine evangelische Klosterschule umgewandelt, die heute noch als Gymnasium existiert."},
+      {"q": "Welche berühmten Schüler besuchten die Klosterschule Maulbronn?", "a": "Prominente Schüler waren unter anderem Johannes Kepler und Hermann Hesse."}
+    ],
+    "hu": [
+      {"q": "Miért olyan jelentős a maulbronni kolostor?", "a": "Az Alpoktól északra fekvő legjobb állapotban megmaradt középkori ciszterci apátságnak tekintik, és az UNESCO Világörökség része."},
+      {"q": "Milyen építészeti átmenet látható itt?", "a": "A román stílusból a gótikába való átmenet látható, különösen a híres előcsarnokban, a 'Paradicsomban'."},
+      {"q": "Mire használták a kolostort a reformáció után?", "a": "Evangélikus kolostori iskolává alakították át, amely ma is gimnáziumként működik."},
+      {"q": "Milyen híres diákok jártak a maulbronni iskolába?", "a": "Olyan híres diákok tanultak itt, mint Johannes Kepler és Hermann Hesse."}
+    ],
+    "ro": [
+      {"q": "De ce este mănăstirea Maulbronn atât de importantă?", "a": "Este considerată cea mai bine conservată abație cisterciană medievală la nord de Alpi și este inclusă în patrimoniul mondial UNESCO."},
+      {"q": "Ce tranziție arhitecturală poate fi văzută aici?", "a": "Se poate observa trecerea de la stilul romanic la cel gotic, în special în celebrul pridvor numit 'Paradisul'."},
+      {"q": "La ce a fost folosită mănăstirea după Reformă?", "a": "A fost transformată într-o școală mănăstirească evanghelică, ce funcționează și astăzi ca liceu."},
+      {"q": "Ce elevi celebri au frecventat școala de la Maulbronn?", "a": "Printre elevii proeminenți s-au numărat Johannes Kepler și Hermann Hesse."}
+    ],
+    "en": [
+      {"q": "Why is Maulbronn Monastery so significant?", "a": "It is considered the best-preserved medieval Cistercian abbey north of the Alps and is a UNESCO World Heritage Site."},
+      {"q": "What architectural transition can be seen here?", "a": "The transition from Romanesque to Gothic is visible, especially in the famous porch, the 'Paradise'."},
+      {"q": "What was the monastery used for after the Reformation?", "a": "It was converted into a Protestant monastery school, which still exists today as a gymnasium."},
+      {"q": "Which famous students attended the Maulbronn monastery school?", "a": "Prominent students included Johannes Kepler and Hermann Hesse."}
+    ]
+  },
+  "city-konstanz-extra": {
+    "de": [
+      {"q": "Wo liegt Konstanz?", "a": "Konstanz liegt am Bodensee, direkt an der Grenze zur Schweiz."},
+      {"q": "Was war das 'Konzil von Konstanz'?", "a": "Eine Kirchenversammlung (1414-1418), die das Abendländische Schisma beendete und den einzigen Papst auf deutschem Boden wählte."},
+      {"q": "Wer ist Jan Hus?", "a": "Ein böhmischer Reformator, der während des Konzils in Konstanz als Ketzer verurteilt und verbrannt wurde."},
+      {"q": "Was ist die 'Imperia'?", "a": "Eine neun Meter hohe Statue im Hafen von Konstanz, die satirisch an die Zeit des Konzils erinnert."}
+    ],
+    "hu": [
+      {"q": "Hol található Konstanz?", "a": "Konstanz a Bódeni-tó partján fekszik, közvetlenül a svájci határnál."},
+      {"q": "Mi volt a 'Konstanzi zsinat'?", "a": "Egy egyházi gyűlés (1414-1418), amely véget vetett a nyugati egyházszakadásnak, és megválasztotta az egyetlen német földön választott pápát."},
+      {"q": "Ki az a Husz János?", "a": "Cseh reformátor, akit a konstanzi zsinat idején eretnekként elítéltek és máglyán megégettek."},
+      {"q": "Mi az az 'Imperia'?", "a": "Egy kilenc méter magas szobor a konstanzi kikötőben, amely szatirikus módon emlékeztet a zsinat idejére."}
+    ],
+    "ro": [
+      {"q": "Unde se află orașul Konstanz?", "a": "Konstanz este situat pe malul lacului Constanța (Bodensee), chiar la granița cu Elveția."},
+      {"q": "Ce a fost 'Conciliul de la Konstanz'?", "a": "O adunare bisericească (1414-1418) care a pus capăt schismei apusene și a ales singurul papă votat pe pământ german."},
+      {"q": "Cine a fost Jan Hus?", "a": "Un reformator boem care a fost condamnat ca eretic și ars pe rug în timpul Conciliului de la Konstanz."},
+      {"q": "Ce este 'Imperia'?", "a": "O statuie înaltă de nouă metri situată în portul Konstanz, care amintește satiric de perioada Conciliului."}
+    ],
+    "en": [
+      {"q": "Where is Konstanz located?", "a": "Konstanz is located on Lake Constance, directly on the border with Switzerland."},
+      {"q": "What was the 'Council of Constance'?", "a": "A church assembly (1414-1418) that ended the Western Schism and elected the only Pope on German soil."},
+      {"q": "Who is Jan Hus?", "a": "A Bohemian reformer who was condemned as a heretic and burned at the stake during the Council of Constance."},
+      {"q": "What is the 'Imperia'?", "a": "A nine-meter-high statue in the harbor of Konstanz, which satirically commemorates the time of the Council."}
+    ]
+  },
+  "forest-schwarzwald-nord-extra": {
+    "de": [
+      {"q": "Was charakterisiert den Nordschwarzwald?", "a": "Er ist geprägt von dichten Tannenwäldern, tiefen Tälern und weiten Hochflächen."},
+      {"q": "Was ist die Schwarzwaldhochstraße?", "a": "Eine der ältesten und bekanntesten Ferienstraßen Deutschlands, die über die Höhen des Nordschwarzwalds führt."},
+      {"q": "Welche Kurstadt liegt am Rande des Nordschwarzwalds?", "a": "Baden-Baden, die weltberühmte Kur- und Bäderstadt, ist ein wichtiger Zugang zur Region."},
+      {"q": "Gibt es dort einen Nationalpark?", "a": "Ja, der Nationalpark Schwarzwald wurde 2014 im Nordschwarzwald gegründet, um die Natur sich selbst zu überlassen."}
+    ],
+    "hu": [
+      {"q": "Mi jellemzi az Északi-Fekete-erdőt?", "a": "Sűrű fenyvesek, mély völgyek és tágas fennsíkok jellemzik."},
+      {"q": "Mi az a 'Schwarzwaldhochstraße'?", "a": "Németország egyik legrégebbi és legismertebb üdülőútvonala, amely az Északi-Fekete-erdő gerincén halad végig."},
+      {"q": "Melyik fürdőváros fekszik az Északi-Fekete-erdő szélén?", "a": "Baden-Baden, a világhírű gyógy- és fürdőváros a régió egyik fontos kapuja."},
+      {"q": "Van ott nemzeti park?", "a": "Igen, a Fekete-erdő Nemzeti Parkot 2014-ben alapították az Északi-Fekete-erdőben, hogy a természetet magára hagyják."}
+    ],
+    "ro": [
+      {"q": "Ce caracterizează nordul Pădurii Negre?", "a": "Este caracterizat de păduri dese de brazi, văi adânci și platouri înalte întinse."},
+      {"q": "Ce este 'Schwarzwaldhochstraße'?", "a": "Una dintre cele mai vechi și mai cunoscute rute turistice din Germania, care traversează înălțimile din nordul Pădurii Negre."},
+      {"q": "Ce oraș balnear se află la marginea de nord a Pădurii Negre?", "a": "Baden-Baden, orașul balnear de renume mondial, este o poartă importantă către această regiune."},
+      {"q": "Există un parc național acolo?", "a": "Da, Parcul Național Pădurea Neagră a fost înființat în 2014 în nordul Pădurii Negre pentru a proteja natura sălbatică."}
+    ],
+    "en": [
+      {"q": "What characterizes the Northern Black Forest?", "a": "It is characterized by dense fir forests, deep valleys, and wide plateaus."},
+      {"q": "What is the 'Schwarzwaldhochstraße'?", "a": "One of the oldest and most famous scenic roads in Germany, leading across the heights of the Northern Black Forest."},
+      {"q": "Which spa town is located on the edge of the Northern Black Forest?", "a": "Baden-Baden, the world-famous spa town, is an important gateway to the region."},
+      {"q": "Is there a national park there?", "a": "Yes, the Black Forest National Park was founded in 2014 in the Northern Black Forest to let nature take its course."}
+    ]
+  },
+  "city-freiburg-extra": {
+    "de": [
+      {"q": "Wofür ist Freiburg im Breisgau besonders bekannt?", "a": "Es gilt als die sonnigste Stadt Deutschlands und als Vorreiter im Umweltschutz (Green City)."},
+      {"q": "Was sind die Freiburger 'Bächle'?", "a": "Kleine Wasserläufe, die durch viele Gassen der Altstadt fließen und ursprünglich zur Wasserversorgung dienten."},
+      {"q": "Was ist das Wahrzeichen der Stadt?", "a": "Das Freiburger Münster mit seinem filigranen Turm, der als 'schönster Turm auf Erden' bezeichnet wurde."},
+      {"q": "Wie heißt der Hausberg von Freiburg?", "a": "Der Schauinsland ist der Hausberg der Stadt und über eine Seilbahn erreichbar."}
+    ],
+    "hu": [
+      {"q": "Miről különösen nevezetes Freiburg im Breisgau?", "a": "Németország legnaposabb városának tartják, és úttörő a környezetvédelem területén (Green City)."},
+      {"q": "Mik azok a freiburgi 'Bächle'-k?", "a": "Kicsi csatornák, amelyek az óváros számos utcáján folynak keresztül, és eredetileg vízellátásra szolgáltak."},
+      {"q": "Mi a város jelképe?", "a": "A freiburgi nagytemplom (Münster) filigrán tornyával, amelyet a 'föld legszebb tornyának' is neveztek."},
+      {"q": "Hogy hívják Freiburg saját hegyét?", "a": "A Schauinsland a város hegye, amely kötélpályás felvonóval érhető el."}
+    ],
+    "ro": [
+      {"q": "Prin ce este renumit în mod deosebit Freiburg im Breisgau?", "a": "Este considerat cel mai însorit oraș din Germania și un pionier în protecția mediului (Green City)."},
+      {"q": "Ce sunt 'Bächle' din Freiburg?", "a": "Mici canale cu apă care curg prin multe străzi ale orașului vechi și care au servit inițial la alimentarea cu apă."},
+      {"q": "Care este simbolul orașului?", "a": "Catedrala din Freiburg (Münster) cu turnul său dantelat, descris ca fiind 'cel mai frumos turn de pe pământ'."},
+      {"q": "Cum se numește muntele local al orașului Freiburg?", "a": "Schauinsland este muntele orașului, accesibil cu ajutorul unei telecabine."}
+    ],
+    "en": [
+      {"q": "What is Freiburg im Breisgau particularly known for?", "a": "It is considered the sunniest city in Germany and a pioneer in environmental protection (Green City)."},
+      {"q": "What are the Freiburg 'Bächle'?", "a": "Small water channels that flow through many streets of the old town, originally used for water supply."},
+      {"q": "What is the landmark of the city?", "a": "Freiburg Minster with its delicate tower, which has been described as the 'most beautiful tower on earth'."},
+      {"q": "What is the name of Freiburg's local mountain?", "a": "The Schauinsland is the city's local mountain and can be reached via a cable car."}
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "landmark-cheile-turzii",
+    "block": "{\n    id: \"landmark-cheile-turzii\", type: \"landmark\", parent: \"RO-CJ\", coords: [23.68, 46.56],\n    name: { de: \"Turzii-Schlucht\", hu: \"Tordai-hasadék\", ro: \"Cheile Turzii\", en: \"Turda Gorge\" },\n    description: { de: \"Karstschlucht bei Turda, Naturreservat.\", hu: \"Karsztos szurdok Torda mellett, természetvédelmi terület.\", ro: \"Chei carstice lângă Turda, rezervație naturală.\", en: \"Karst gorge near Turda, nature reserve.\" },\n    facts: { de: [\"Länge ~2,9 km.\", \"Über 60 Höhlen.\", \"Endemische Pflanzen.\"], hu: [\"Kb. 2,9 km hosszú.\", \"Több mint 60 barlang.\", \"Endemikus növények.\"], ro: [\"Lungime ~2,9 km.\", \"Peste 60 de peșteri.\", \"Plante endemice.\"], en: [\"~2.9 km long.\", \"Over 60 caves.\", \"Endemic plants.\"] },\n    image: \"/geo-images/romania/landmark-cheile-turzii.webp\",\n  }",
+    "start": 355154,
+    "end": 355936,
+    "name": "{ de: \"Turzii-Schlucht\", hu: \"Tordai-hasadék\", ro: \"Cheile Turzii\", en: \"Turda Gorge\" }",
+    "description": "{ de: \"Karstschlucht bei Turda, Naturreservat.\", hu: \"Karsztos szurdok Torda mellett, természetvédelmi terület.\", ro: \"Chei carstice lângă Turda, rezervație naturală.\", en: \"Karst gorge near Turda, nature reserve.\" }",
+    "facts": "{ de: [\"Länge ~2,9 km.\", \"Über 60 Höhlen.\", \"Endemische Pflanzen.\"], hu: [\"Kb. 2,9 km hosszú.\", \"Több mint 60 barlang.\", \"Endemikus növények.\"], ro: [\"Lungime ~2,9 km.\", \"Peste 60 de peșteri.\", \"Plante endemice.\"], en: [\"~2.9 km long.\", \"Over 60 caves.\", \"Endemic plants.\"] }"
+  },
+  {
+    "id": "landmark-salina-turda",
+    "block": "{\n    id: \"landmark-salina-turda\", type: \"landmark\", parent: \"RO-CJ\", coords: [23.787, 46.587],\n    name: { de: \"Salzbergwerk Turda\", hu: \"Tordai sóbánya\", ro: \"Salina Turda\", en: \"Turda Salt Mine\" },\n    description: { de: \"Historisches Salzbergwerk und unterirdischer Themenpark.\", hu: \"Történelmi sóbánya és földalatti élménypark.\", ro: \"Mină de sare istorică și parc tematic subteran.\", en: \"Historic salt mine and underground theme park.\" },\n    facts: { de: [\"Abbau seit römischer Zeit.\", \"Riesenrad und Bootfahrten.\", \"Tiefe bis 112 m.\"], hu: [\"Kitermelés a római kor óta.\", \"Óriáskerék és csónakázótó.\", \"Mélysége 112 m.\"], ro: [\"Exploatată din epoca romană.\", \"Roată panoramică și lac cu bărci.\", \"Adâncime 112 m.\"], en: [\"Mined since Roman times.\", \"Ferris wheel and boating lake.\", \"Depth 112 m.\"] },\n    historyPeriod: \"empire\",\n    image: \"/geo-images/romania/landmark-salina-turda.webp\",\n  }",
+    "start": 355940,
+    "end": 356845,
+    "name": "{ de: \"Salzbergwerk Turda\", hu: \"Tordai sóbánya\", ro: \"Salina Turda\", en: \"Turda Salt Mine\" }",
+    "description": "{ de: \"Historisches Salzbergwerk und unterirdischer Themenpark.\", hu: \"Történelmi sóbánya és földalatti élménypark.\", ro: \"Mină de sare istorică și parc tematic subteran.\", en: \"Historic salt mine and underground theme park.\" }",
+    "facts": "{ de: [\"Abbau seit römischer Zeit.\", \"Riesenrad und Bootfahrten.\", \"Tiefe bis 112 m.\"], hu: [\"Kitermelés a római kor óta.\", \"Óriáskerék és csónakázótó.\", \"Mélysége 112 m.\"], ro: [\"Exploatată din epoca romană.\", \"Roată panoramică și lac cu bărci.\", \"Adâncime 112 m.\"], en: [\"Mined since Roman times.\", \"Ferris wheel and boating lake.\", \"Depth 112 m.\"] }"
+  },
+  {
+    "id": "landmark-salina-praid",
+    "block": "{\n    id: \"landmark-salina-praid\", type: \"landmark\", parent: \"RO-HR\", coords: [25.13, 46.55],\n    name: { de: \"Salzbergwerk Praid\", hu: \"Parajdi sóbánya\", ro: \"Salina Praid\", en: \"Praid Salt Mine\" },\n    description: { de: \"Größtes aktives Salzbergwerk Rumäniens.\", hu: \"Románia legnagyobb működő sóbányája.\", ro: \"Cea mai mare salină activă din România.\", en: \"Romania's largest active salt mine.\" },\n    facts: { de: [\"Abbau seit dem Mittelalter.\", \"Kurzentrum gegen Atemwegsleiden.\", \"Besucherniveau auf 120 m Tiefe.\"], hu: [\"Középkor óta bányásznak itt.\", \"Gyógyászati kezelés légúti betegségekre.\", \"Látogatószint 120 m mélyen.\"], ro: [\"Exploatată din Evul Mediu.\", \"Tratament pentru afecțiuni respiratorii.\", \"Nivel vizitatori la 120 m.\"], en: [\"Mined since the Middle Ages.\", \"Treatment for respiratory ailments.\", \"Visitor level at 120 m depth.\"] },\n    image: \"/geo-images/romania/landmark-salina-praid.webp\",\n  }",
+    "start": 356849,
+    "end": 357771,
+    "name": "{ de: \"Salzbergwerk Praid\", hu: \"Parajdi sóbánya\", ro: \"Salina Praid\", en: \"Praid Salt Mine\" }",
+    "description": "{ de: \"Größtes aktives Salzbergwerk Rumäniens.\", hu: \"Románia legnagyobb működő sóbányája.\", ro: \"Cea mai mare salină activă din România.\", en: \"Romania's largest active salt mine.\" }",
+    "facts": "{ de: [\"Abbau seit dem Mittelalter.\", \"Kurzentrum gegen Atemwegsleiden.\", \"Besucherniveau auf 120 m Tiefe.\"], hu: [\"Középkor óta bányásznak itt.\", \"Gyógyászati kezelés légúti betegségekre.\", \"Látogatószint 120 m mélyen.\"], ro: [\"Exploatată din Evul Mediu.\", \"Tratament pentru afecțiuni respiratorii.\", \"Nivel vizitatori la 120 m.\"], en: [\"Mined since the Middle Ages.\", \"Treatment for respiratory ailments.\", \"Visitor level at 120 m depth.\"] }"
+  },
+  {
+    "id": "landmark-salina-slanic",
+    "block": "{\n    id: \"landmark-salina-slanic\", type: \"landmark\", parent: \"RO-PH\", coords: [25.94, 45.24],\n    name: { de: \"Salzbergwerk Slănic\", hu: \"Slănic Prahova sóbánya\", ro: \"Salina Slănic Prahova\", en: \"Slănic Prahova Salt Mine\" },\n    description: { de: \"Historisches Salzbergwerk mit riesigen Hallen.\", hu: \"Történelmi sóbánya hatalmas termekkel.\", ro: \"Salină istorică cu săli mari.\", en: \"Historic salt mine with huge halls.\" },\n    facts: { de: [\"Unirea-Halle: 53.000 m³.\", \"Kurbetrieb.\", \"Populäres Ausflugsziel.\"], hu: [\"Unirea-terem: 53 000 m³.\", \"Gyógyászati központ.\", \"Népszerű kirándulóhely.\"], ro: [\"Sala Unirii: 53.000 m³.\", \"Sanatoriu subteran.\", \"Obiectiv turistic popular.\"], en: [\"Union Hall: 53,000 m³.\", \"Underground sanatorium.\", \"Popular attraction.\"] },\n    image: \"/geo-images/romania/landmark-salina-slanic.webp\",\n  }",
+    "start": 357775,
+    "end": 358612,
+    "name": "{ de: \"Salzbergwerk Slănic\", hu: \"Slănic Prahova sóbánya\", ro: \"Salina Slănic Prahova\", en: \"Slănic Prahova Salt Mine\" }",
+    "description": "{ de: \"Historisches Salzbergwerk mit riesigen Hallen.\", hu: \"Történelmi sóbánya hatalmas termekkel.\", ro: \"Salină istorică cu săli mari.\", en: \"Historic salt mine with huge halls.\" }",
+    "facts": "{ de: [\"Unirea-Halle: 53.000 m³.\", \"Kurbetrieb.\", \"Populäres Ausflugsziel.\"], hu: [\"Unirea-terem: 53 000 m³.\", \"Gyógyászati központ.\", \"Népszerű kirándulóhely.\"], ro: [\"Sala Unirii: 53.000 m³.\", \"Sanatoriu subteran.\", \"Obiectiv turistic popular.\"], en: [\"Union Hall: 53,000 m³.\", \"Underground sanatorium.\", \"Popular attraction.\"] }"
+  },
+  {
+    "id": "landmark-mud-volcanoes",
+    "block": "{\n    id: \"landmark-mud-volcanoes\", type: \"kid-landmark\", parent: \"RO-BZ\", coords: [26.715, 45.35],\n    name: { de: \"Schlammvulkane Buzău\", hu: \"Iszapvulkánok (Buzău)\", ro: \"Vulcanii Noroioși\", en: \"Mud Volcanoes\" },\n    description: { de: \"Seltene Naturerscheinung: kalte Vulkane aus Schlamm.\", hu: \"Ritka természeti jelenség: hideg iszapvulkánok.\", ro: \"Fenomen natural rar: vulcani reci cu noroi.\", en: \"Rare natural phenomenon: cold mud volcanoes.\" },\n    facts: { de: [\"Gas drückt Schlamm an die Oberfläche.\", \"Naturreservat.\", \"Mondlandschaft.\"], hu: [\"A gáz nyomja fel az iszapot.\", \"Természetvédelmi terület.\", \"Holdbéli táj.\"], ro: [\"Gazele împing noroiul la suprafață.\", \"Rezervație naturală.\", \"Peisaj selenar.\"], en: [\"Gas pushes mud to the surface.\", \"Nature reserve.\", \"Lunar landscape.\"] },\n    image: \"/geo-images/romania/landmark-mud-volcanoes.webp\",\n  }",
+    "start": 358616,
+    "end": 359487,
+    "name": "{ de: \"Schlammvulkane Buzău\", hu: \"Iszapvulkánok (Buzău)\", ro: \"Vulcanii Noroioși\", en: \"Mud Volcanoes\" }",
+    "description": "{ de: \"Seltene Naturerscheinung: kalte Vulkane aus Schlamm.\", hu: \"Ritka természeti jelenség: hideg iszapvulkánok.\", ro: \"Fenomen natural rar: vulcani reci cu noroi.\", en: \"Rare natural phenomenon: cold mud volcanoes.\" }",
+    "facts": "{ de: [\"Gas drückt Schlamm an die Oberfläche.\", \"Naturreservat.\", \"Mondlandschaft.\"], hu: [\"A gáz nyomja fel az iszapot.\", \"Természetvédelmi terület.\", \"Holdbéli táj.\"], ro: [\"Gazele împing noroiul la suprafață.\", \"Rezervație naturală.\", \"Peisaj selenar.\"], en: [\"Gas pushes mud to the surface.\", \"Nature reserve.\", \"Lunar landscape.\"] }"
+  },
+  {
+    "id": "landmark-sphinx-bucegi",
+    "block": "{\n    id: \"landmark-sphinx-bucegi\", type: \"kid-landmark\", parent: \"RO-DB\", coords: [25.467, 45.395],\n    name: { de: \"Bucegi-Sphinx\", hu: \"Bucsecs-Szfinx\", ro: \"Sfinxul din Bucegi\", en: \"Bucegi Sphinx\" },\n    description: { de: \"Markante Felsformation auf 2.216 m Höhe.\", hu: \"Jellegzetes sziklaalakzat 2216 m magasan.\", ro: \"Formațiune stâncoasă la 2.216 m altitudine.\", en: \"Striking rock formation at 2,216 m elevation.\" },\n    facts: { de: [\"Nahe den Babele-Felsen.\", \"Durch Wind erodiert.\", \"Mit Seilbahn erreichbar.\"], hu: [\"A Babele sziklák közelében.\", \"Szél formálta.\", \"Libegővel elérhető.\"], ro: [\"Lângă Babele.\", \"Eroziune eoliană.\", \"Acces cu telecabina.\"], en: [\"Near the Babele rocks.\", \"Shaped by wind.\", \"Accessible by cable car.\"] },\n    elevation: 2216,\n    image: \"/geo-images/romania/landmark-sphinx-bucegi.webp\",\n  }",
+    "start": 359491,
+    "end": 360329,
+    "name": "{ de: \"Bucegi-Sphinx\", hu: \"Bucsecs-Szfinx\", ro: \"Sfinxul din Bucegi\", en: \"Bucegi Sphinx\" }",
+    "description": "{ de: \"Markante Felsformation auf 2.216 m Höhe.\", hu: \"Jellegzetes sziklaalakzat 2216 m magasan.\", ro: \"Formațiune stâncoasă la 2.216 m altitudine.\", en: \"Striking rock formation at 2,216 m elevation.\" }",
+    "facts": "{ de: [\"Nahe den Babele-Felsen.\", \"Durch Wind erodiert.\", \"Mit Seilbahn erreichbar.\"], hu: [\"A Babele sziklák közelében.\", \"Szél formálta.\", \"Libegővel elérhető.\"], ro: [\"Lângă Babele.\", \"Eroziune eoliană.\", \"Acces cu telecabina.\"], en: [\"Near the Babele rocks.\", \"Shaped by wind.\", \"Accessible by cable car.\"] }"
+  },
+  {
+    "id": "landmark-palace-parliament",
+    "block": "{\n    id: \"landmark-palace-parliament\", type: \"landmark\", parent: \"RO-B\", coords: [26.0876, 44.4272],\n    name: { de: \"Parlamentspalast\", hu: \"Parlament Palotája\", ro: \"Palatul Parlamentului\", en: \"Palace of the Parliament\" },\n    description: { de: \"Monumentalbau aus der Ceaușescu-Čra, zweitgrößtes Gebäude der Welt.\", hu: \"Monumentális épület a Ceaușescu-érából, a világ második legnagyobb épülete.\", ro: \"Clădire monumentală din epoca Ceaușescu, a doua cea mai mare clădire din lume.\", en: \"Monumental building from the Ceaușescu era, the world's second-largest building.\" },\n    facts: { de: [\"Volumen 3,93 Mio. m³.\", \"Baubeginn 1984.\", \"1.100 Räume.\"], hu: [\"Térfogata 3,93 millió m³.\", \"Építés kezdete: 1984.\", \"1100 helyiség.\"], ro: [\"Volum 3,93 mil. m³.\", \"Început în 1984.\", \"1.100 de camere.\"], en: [\"Volume 3.93 million m³.\", \"Construction began 1984.\", \"1,100 rooms.\"] },\n    historyPeriod: \"modern\", historyYear: 1984,\n    image: \"/geo-images/romania/landmark-palace-parliament.webp\",\n  }",
+    "start": 360333,
+    "end": 361335,
+    "name": "{ de: \"Parlamentspalast\", hu: \"Parlament Palotája\", ro: \"Palatul Parlamentului\", en: \"Palace of the Parliament\" }",
+    "description": "{ de: \"Monumentalbau aus der Ceaușescu-Čra, zweitgrößtes Gebäude der Welt.\", hu: \"Monumentális épület a Ceaușescu-érából, a világ második legnagyobb épülete.\", ro: \"Clădire monumentală din epoca Ceaușescu, a doua cea mai mare clădire din lume.\", en: \"Monumental building from the Ceaușescu era, the world's second-largest building.\" }",
+    "facts": "{ de: [\"Volumen 3,93 Mio. m³.\", \"Baubeginn 1984.\", \"1.100 Räume.\"], hu: [\"Térfogata 3,93 millió m³.\", \"Építés kezdete: 1984.\", \"1100 helyiség.\"], ro: [\"Volum 3,93 mil. m³.\", \"Început în 1984.\", \"1.100 de camere.\"], en: [\"Volume 3.93 million m³.\", \"Construction began 1984.\", \"1,100 rooms.\"] }"
+  },
+  {
+    "id": "landmark-merry-cemetery",
+    "block": "{\n    id: \"landmark-merry-cemetery\", type: \"kid-landmark\", parent: \"RO-MM\", coords: [23.692, 47.973],\n    name: { de: \"Fröhlicher Friedhof Săpânța\", hu: \"Szaplonca vidám temetője\", ro: \"Cimitirul Vesel din Săpânța\", en: \"Merry Cemetery of Săpânța\" },\n    description: { de: \"Bunte geschnitzte Grabkreuze mit humorvollen Versen.\", hu: \"Színes faragott sírkeresztek humoros versekkel.\", ro: \"Cruci de lemn colorate, cu versuri haioase.\", en: \"Colorful carved wooden crosses with humorous verses.\" },\n    facts: { de: [\"Begründet 1935 von Stan Ioan Pătraș.\", \"Über 800 bemalte Kreuze.\", \"Einzigartig in Europa.\"], hu: [\"1935-ben Stan Ioan Pătraș alapította.\", \"Több mint 800 festett kereszt.\", \"Európában egyedülálló.\"], ro: [\"Început în 1935 de Stan Ioan Pătraș.\", \"Peste 800 de cruci pictate.\", \"Unic în Europa.\"], en: [\"Started in 1935 by Stan Ioan Pătraș.\", \"Over 800 painted crosses.\", \"Unique in Europe.\"] },\n    historyPeriod: \"modern\", historyYear: 1935,\n    image: \"/geo-images/romania/landmark-merry-cemetery.webp\",\n  }",
+    "start": 361339,
+    "end": 362365,
+    "name": "{ de: \"Fröhlicher Friedhof Săpânța\", hu: \"Szaplonca vidám temetője\", ro: \"Cimitirul Vesel din Săpânța\", en: \"Merry Cemetery of Săpânța\" }",
+    "description": "{ de: \"Bunte geschnitzte Grabkreuze mit humorvollen Versen.\", hu: \"Színes faragott sírkeresztek humoros versekkel.\", ro: \"Cruci de lemn colorate, cu versuri haioase.\", en: \"Colorful carved wooden crosses with humorous verses.\" }",
+    "facts": "{ de: [\"Begründet 1935 von Stan Ioan Pătraș.\", \"Über 800 bemalte Kreuze.\", \"Einzigartig in Europa.\"], hu: [\"1935-ben Stan Ioan Pătraș alapította.\", \"Több mint 800 festett kereszt.\", \"Európában egyedülálló.\"], ro: [\"Început în 1935 de Stan Ioan Pătraș.\", \"Peste 800 de cruci pictate.\", \"Unic în Europa.\"], en: [\"Started in 1935 by Stan Ioan Pătraș.\", \"Over 800 painted crosses.\", \"Unique in Europe.\"] }"
+  },
+  {
+    "id": "landmark-ateneul-roman",
+    "block": "{\n    id: \"landmark-ateneul-roman\", type: \"landmark\", parent: \"RO-B\", coords: [26.0971, 44.4415],\n    name: { de: \"Rumänisches Athenäum\", hu: \"Román Atheneum\", ro: \"Ateneul Român\", en: \"Romanian Athenaeum\" },\n    description: { de: \"Prachtvolles Konzerthaus in Bukarest.\", hu: \"Díszes bukaresti koncertterem.\", ro: \"Sală de concerte emblematică din București.\", en: \"Bucharest's flagship concert hall.\" },\n    facts: { de: [\"Eröffnet 1888.\", \"Sitz der Georg-Enescu-Philharmonie.\", \"Kuppelgemälde mit rumänischer Geschichte.\"], hu: [\"1888-ban nyílt meg.\", \"A George Enescu Filharmónia székhelye.\", \"Kupolafreskó a román történelemről.\"], ro: [\"Inaugurat 1888.\", \"Sediul Filarmonicii G. Enescu.\", \"Frescă istorică pe cupolă.\"], en: [\"Opened 1888.\", \"Home of G. Enescu Philharmonic.\", \"Dome fresco depicting Romanian history.\"] },\n    historyPeriod: \"empire\", historyYear: 1888,\n    image: \"/geo-images/romania/landmark-ateneul-roman.webp\",\n  }",
+    "start": 362369,
+    "end": 363310,
+    "name": "{ de: \"Rumänisches Athenäum\", hu: \"Román Atheneum\", ro: \"Ateneul Român\", en: \"Romanian Athenaeum\" }",
+    "description": "{ de: \"Prachtvolles Konzerthaus in Bukarest.\", hu: \"Díszes bukaresti koncertterem.\", ro: \"Sală de concerte emblematică din București.\", en: \"Bucharest's flagship concert hall.\" }",
+    "facts": "{ de: [\"Eröffnet 1888.\", \"Sitz der Georg-Enescu-Philharmonie.\", \"Kuppelgemälde mit rumänischer Geschichte.\"], hu: [\"1888-ban nyílt meg.\", \"A George Enescu Filharmónia székhelye.\", \"Kupolafreskó a román történelemről.\"], ro: [\"Inaugurat 1888.\", \"Sediul Filarmonicii G. Enescu.\", \"Frescă istorică pe cupolă.\"], en: [\"Opened 1888.\", \"Home of G. Enescu Philharmonic.\", \"Dome fresco depicting Romanian history.\"] }"
+  },
+  {
+    "id": "cultura-teatrul-national",
+    "block": "{\n    id: \"cultura-teatrul-national\", type: \"landmark\", parent: \"RO-B\", coords: [26.1036, 44.4361],\n    name: { ro: \"Teatrul Național București\", en: \"National Theatre Bucharest\", hu: \"Bukaresti Nemzeti Színház\", de: \"Nationaltheater Bukarest\" },\n    description: { ro: \"Cel mai mare teatru din România.\", en: \"The largest theatre in Romania.\", hu: \"Románia legnagyobb színháza.\", de: \"Das größte Theater in Rumänien.\" },\n    facts: { ro: [\"Clădirea actuală a fost refăcută recent.\"], en: [\"Current building was recently renovated.\"], hu: [\"A jelenlegi épületet nemrég újították fel.\"], de: [\"Das aktuelle Gebäude wurde kürzlich renoviert.\"] },\n    image: \"/geo-images/romania/cultura-teatrul-national.webp\"\n  }",
+    "start": 363733,
+    "end": 364444,
+    "name": "{ ro: \"Teatrul Național București\", en: \"National Theatre Bucharest\", hu: \"Bukaresti Nemzeti Színház\", de: \"Nationaltheater Bukarest\" }",
+    "description": "{ ro: \"Cel mai mare teatru din România.\", en: \"The largest theatre in Romania.\", hu: \"Románia legnagyobb színháza.\", de: \"Das größte Theater in Rumänien.\" }",
+    "facts": "{ ro: [\"Clădirea actuală a fost refăcută recent.\"], en: [\"Current building was recently renovated.\"], hu: [\"A jelenlegi épületet nemrég újították fel.\"], de: [\"Das aktuelle Gebäude wurde kürzlich renoviert.\"] }"
+  },
+  {
+    "id": "cultura-muzeul-taranului",
+    "block": "{\n    id: \"cultura-muzeul-taranului\", type: \"landmark\", parent: \"RO-B\", coords: [26.0836, 44.4544],\n    name: { ro: \"Muzeul Țăranului Român\", en: \"Museum of the Romanian Peasant\", hu: \"Román Parasztmúzeum\", de: \"Museum des rumänischen Bauern\" },\n    description: { ro: \"Muzeu dedicat artei și tradițiilor populare.\", en: \"Museum dedicated to folk art and traditions.\", hu: \"Népművészetnek és hagyományoknak szentelt múzeum.\", de: \"Museum für Volkskunst und Traditionen.\" },\n    facts: { ro: [\"Clădire în stil neoromânesc.\"], en: [\"Neo-Romanian style building.\"], hu: [\"Neoromán stílusú épület.\"], de: [\"Gebäude im neo-rumänischen Stil.\"] },\n    image: \"/geo-images/romania/museum-of-the-romanian-peasant.webp\"\n  }",
+    "start": 364448,
+    "end": 365161,
+    "name": "{ ro: \"Muzeul Țăranului Român\", en: \"Museum of the Romanian Peasant\", hu: \"Román Parasztmúzeum\", de: \"Museum des rumänischen Bauern\" }",
+    "description": "{ ro: \"Muzeu dedicat artei și tradițiilor populare.\", en: \"Museum dedicated to folk art and traditions.\", hu: \"Népművészetnek és hagyományoknak szentelt múzeum.\", de: \"Museum für Volkskunst und Traditionen.\" }",
+    "facts": "{ ro: [\"Clădire în stil neoromânesc.\"], en: [\"Neo-Romanian style building.\"], hu: [\"Neoromán stílusú épület.\"], de: [\"Gebäude im neo-rumänischen Stil.\"] }"
+  },
+  {
+    "id": "cultura-opera-cluj",
+    "block": "{\n    id: \"cultura-opera-cluj\", type: \"landmark\", parent: \"RO-CJ\", coords: [23.5969, 46.7704],\n    name: { ro: \"Opera Națională Română Cluj-Napoca\", en: \"Romanian National Opera, Cluj-Napoca\", hu: \"Kolozsvári Román Nemzeti Opera\", de: \"Rumänische Nationaloper Cluj-Napoca\" },\n    description: { ro: \"Prima instituție lirică a țării.\", en: \"The country's first lyrical institution.\", hu: \"Az ország első lírai intézménye.\", de: \"Die erste lyrische Einrichtung des Landes.\" },\n    facts: { ro: [\"Inaugurată în 1919.\"], en: [\"Inaugurated in 1919.\"], hu: [\"1919-ben nyílt meg.\"], de: [\"1919 eingeweiht.\"] },\n    image: \"/geo-images/romania/cultura-opera-cluj.webp\"\n  }",
+    "start": 365165,
+    "end": 365829,
+    "name": "{ ro: \"Opera Națională Română Cluj-Napoca\", en: \"Romanian National Opera, Cluj-Napoca\", hu: \"Kolozsvári Román Nemzeti Opera\", de: \"Rumänische Nationaloper Cluj-Napoca\" }",
+    "description": "{ ro: \"Prima instituție lirică a țării.\", en: \"The country's first lyrical institution.\", hu: \"Az ország első lírai intézménye.\", de: \"Die erste lyrische Einrichtung des Landes.\" }",
+    "facts": "{ ro: [\"Inaugurată în 1919.\"], en: [\"Inaugurated in 1919.\"], hu: [\"1919-ben nyílt meg.\"], de: [\"1919 eingeweiht.\"] }"
+  },
+  {
+    "id": "cultura-festivalul-enab",
+    "block": "{\n    id: \"cultura-festivalul-enab\", type: \"landmark\", parent: \"RO-SB\", coords: [24.15, 45.8],\n    name: { ro: \"FITS - Festivalul Internațional de Teatru de la Sibiu\", en: \"Sibiu International Theatre Festival\", hu: \"Nagyszebeni Nemzetközi Színházi Fesztivál\", de: \"Internationales Theaterfestival Sibiu\" },\n    description: { ro: \"Unul dintre cele mai mari festivaluri de teatru din lume.\", en: \"One of the largest theatre festivals in the world.\", hu: \"A világ egyik legnagyobb színházi fesztiválja.\", de: \"Eines der größten Theaterfestivals der Welt.\" },\n    facts: { ro: [\"Are loc anual în Sibiu.\"], en: [\"Takes place annually in Sibiu.\"], hu: [\"Évente kerül megrendezésre Nagyszebenben.\"], de: [\"Findet jährlich in Sibiu statt.\"] },\n    image: \"/geo-images/romania/sibiu-international-theatre-festival.webp\"\n  }",
+    "start": 365833,
+    "end": 366649,
+    "name": "{ ro: \"FITS - Festivalul Internațional de Teatru de la Sibiu\", en: \"Sibiu International Theatre Festival\", hu: \"Nagyszebeni Nemzetközi Színházi Fesztivál\", de: \"Internationales Theaterfestival Sibiu\" }",
+    "description": "{ ro: \"Unul dintre cele mai mari festivaluri de teatru din lume.\", en: \"One of the largest theatre festivals in the world.\", hu: \"A világ egyik legnagyobb színházi fesztiválja.\", de: \"Eines der größten Theaterfestivals der Welt.\" }",
+    "facts": "{ ro: [\"Are loc anual în Sibiu.\"], en: [\"Takes place annually in Sibiu.\"], hu: [\"Évente kerül megrendezésre Nagyszebenben.\"], de: [\"Findet jährlich in Sibiu statt.\"] }"
+  },
+  {
+    "id": "cultura-muzeul-brukenthal",
+    "block": "{\n    id: \"cultura-muzeul-brukenthal\", type: \"landmark\", parent: \"RO-SB\", coords: [24.151, 45.796],\n    name: { ro: \"Muzeul Național Brukenthal\", en: \"Brukenthal National Museum\", hu: \"Brukenthal Nemzeti Múzeum\", de: \"Brukenthal-Nationalmuseum\" },\n    description: { ro: \"Cel mai vechi muzeu din România.\", en: \"The oldest museum in Romania.\", hu: \"Románia legrégebbi múzeuma.\", de: \"Das älteste Museum in Rumänien.\" },\n    facts: { ro: [\"Fondat de Samuel von Brukenthal.\"], en: [\"Founded by Samuel von Brukenthal.\"], hu: [\"Samuel von Brukenthal alapította.\"], de: [\"Gegründet von Samuel von Brukenthal.\"] },\n    image: \"/geo-images/romania/cultura-muzeul-brukenthal.webp\"\n  }",
+    "start": 366653,
+    "end": 367329,
+    "name": "{ ro: \"Muzeul Național Brukenthal\", en: \"Brukenthal National Museum\", hu: \"Brukenthal Nemzeti Múzeum\", de: \"Brukenthal-Nationalmuseum\" }",
+    "description": "{ ro: \"Cel mai vechi muzeu din România.\", en: \"The oldest museum in Romania.\", hu: \"Románia legrégebbi múzeuma.\", de: \"Das älteste Museum in Rumänien.\" }",
+    "facts": "{ ro: [\"Fondat de Samuel von Brukenthal.\"], en: [\"Founded by Samuel von Brukenthal.\"], hu: [\"Samuel von Brukenthal alapította.\"], de: [\"Gegründet von Samuel von Brukenthal.\"] }"
+  },
+  {
+    "id": "cultura-palatul-culturii",
+    "block": "{\n    id: \"cultura-palatul-culturii\", type: \"landmark\", parent: \"RO-IS\", coords: [27.585, 47.157],\n    name: { ro: \"Palatul Culturii Iași\", en: \"Palace of Culture Iași\", hu: \"Jászvásári Kultúrpalota\", de: \"Kulturpalast Iași\" },\n    description: { ro: \"Edificiu emblematic în stil neogotic.\", en: \"Iconic neo-Gothic building.\", hu: \"Emblematikus neogótikus épület.\", de: \"Ikonisches neugotisches Gebäude.\" },\n    facts: { ro: [\"Găzduiește patru muzee mari.\"], en: [\"Houses four major museums.\"], hu: [\"Négy nagy múzeumnak ad otthont.\"], de: [\"Beherbergt vier große Museen.\"] },\n    image: \"/geo-images/romania/cultura-palatul-culturii.webp\"\n  }",
+    "start": 367333,
+    "end": 367976,
+    "name": "{ ro: \"Palatul Culturii Iași\", en: \"Palace of Culture Iași\", hu: \"Jászvásári Kultúrpalota\", de: \"Kulturpalast Iași\" }",
+    "description": "{ ro: \"Edificiu emblematic în stil neogotic.\", en: \"Iconic neo-Gothic building.\", hu: \"Emblematikus neogótikus épület.\", de: \"Ikonisches neugotisches Gebäude.\" }",
+    "facts": "{ ro: [\"Găzduiește patru muzee mari.\"], en: [\"Houses four major museums.\"], hu: [\"Négy nagy múzeumnak ad otthont.\"], de: [\"Beherbergt vier große Museen.\"] }"
+  },
+  {
+    "id": "cultura-untold",
+    "block": "{\n    id: \"cultura-untold\", type: \"landmark\", parent: \"RO-CJ\", coords: [23.572, 46.768],\n    name: { ro: \"UNTOLD Festival\", en: \"UNTOLD Festival\", hu: \"UNTOLD Fesztivál\", de: \"UNTOLD Festival\" },\n    description: { ro: \"Cel mai mare festival de muzică din România.\", en: \"The largest music festival in Romania.\", hu: \"Románia legnagyobb zenei fesztiválja.\", de: \"Das größte Musikfestival in Rumänien.\" },\n    facts: { ro: [\"Atrage sute de mii de participanți anual.\"], en: [\"Attracts hundreds of thousands of attendees annually.\"], hu: [\"Évente több százezer résztvevőt vonz.\"], de: [\"Zieht jährlich Hunderttausende von Besuchern an.\"] },\n    image: \"/geo-images/romania/cultura-untold.webp\"\n  }",
+    "start": 367980,
+    "end": 368675,
+    "name": "{ ro: \"UNTOLD Festival\", en: \"UNTOLD Festival\", hu: \"UNTOLD Fesztivál\", de: \"UNTOLD Festival\" }",
+    "description": "{ ro: \"Cel mai mare festival de muzică din România.\", en: \"The largest music festival in Romania.\", hu: \"Románia legnagyobb zenei fesztiválja.\", de: \"Das größte Musikfestival in Rumänien.\" }",
+    "facts": "{ ro: [\"Atrage sute de mii de participanți anual.\"], en: [\"Attracts hundreds of thousands of attendees annually.\"], hu: [\"Évente több százezer résztvevőt vonz.\"], de: [\"Zieht jährlich Hunderttausende von Besuchern an.\"] }"
+  },
+  {
+    "id": "cultura-saga-festival",
+    "block": "{\n    id: \"cultura-saga-festival\", type: \"landmark\", parent: \"RO-B\", coords: [26.08, 44.47],\n    name: { ro: \"SAGA Festival\", en: \"SAGA Festival\", hu: \"SAGA Fesztivál\", de: \"SAGA Festival\" },\n    description: { ro: \"Festival de muzică electronică din București.\", en: \"Electronic music festival in Bucharest.\", hu: \"Elektronikus zenei fesztivál Bukarestben.\", de: \"Elektronisches Musikfestival in Bukarest.\" },\n    facts: { ro: [\"Se desfășoară în București.\"], en: [\"Takes place in Bucharest.\"], hu: [\"Bukarestben rendezik.\"], de: [\"Findet in Bukarest statt.\"] },\n    image: \"/geo-images/romania/cultura-saga-festival.webp\"\n  }",
+    "start": 368679,
+    "end": 369306,
+    "name": "{ ro: \"SAGA Festival\", en: \"SAGA Festival\", hu: \"SAGA Fesztivál\", de: \"SAGA Festival\" }",
+    "description": "{ ro: \"Festival de muzică electronică din București.\", en: \"Electronic music festival in Bucharest.\", hu: \"Elektronikus zenei fesztivál Bukarestben.\", de: \"Elektronisches Musikfestival in Bukarest.\" }",
+    "facts": "{ ro: [\"Se desfășoară în București.\"], en: [\"Takes place in Bucharest.\"], hu: [\"Bukarestben rendezik.\"], de: [\"Findet in Bukarest statt.\"] }"
+  },
+  {
+    "id": "cultura-muzeul-antipa",
+    "block": "{\n    id: \"cultura-muzeul-antipa\", type: \"landmark\", parent: \"RO-B\", coords: [26.085, 44.453],\n    name: { ro: \"Muzeul Grigore Antipa\", en: \"Grigore Antipa Museum\", hu: \"Grigore Antipa Múzeum\", de: \"Grigore-Antipa-Museum\" },\n    description: { ro: \"Muzeu național de istorie naturală.\", en: \"National museum of natural history.\", hu: \"Nemzeti természettudományi múzeum.\", de: \"Nationales naturhistorisches Museum.\" },\n    facts: { ro: [\"Una dintre cele mai mari colecții din Europa de Est.\"], en: [\"One of the largest collections in Eastern Europe.\"], hu: [\"Kelet-Európa egyik legnagyobb gyűjteménye.\"], de: [\"Eine der größten Sammlungen in Osteuropa.\"] },\n    image: \"/geo-images/romania/grigore-antipa-museum.webp\"\n  }",
+    "start": 369310,
+    "end": 370030,
+    "name": "{ ro: \"Muzeul Grigore Antipa\", en: \"Grigore Antipa Museum\", hu: \"Grigore Antipa Múzeum\", de: \"Grigore-Antipa-Museum\" }",
+    "description": "{ ro: \"Muzeu național de istorie naturală.\", en: \"National museum of natural history.\", hu: \"Nemzeti természettudományi múzeum.\", de: \"Nationales naturhistorisches Museum.\" }",
+    "facts": "{ ro: [\"Una dintre cele mai mari colecții din Europa de Est.\"], en: [\"One of the largest collections in Eastern Europe.\"], hu: [\"Kelet-Európa egyik legnagyobb gyűjteménye.\"], de: [\"Eine der größten Sammlungen in Osteuropa.\"] }"
+  },
+  {
+    "id": "cultura-opera-timisoara",
+    "block": "{\n    id: \"cultura-opera-timisoara\", type: \"landmark\", parent: \"RO-TM\", coords: [21.226, 45.753],\n    name: { ro: \"Opera Națională Română Timișoara\", en: \"Romanian National Opera Timișoara\", hu: \"Temesvári Román Nemzeti Opera\", de: \"Rumänische Nationaloper Timișoara\" },\n    description: { ro: \"Instituție culturală de prestigiu în Banat.\", en: \"Prestigious cultural institution in Banat.\", hu: \"Rangos kulturális intézmény a Bánságban.\", de: \"Renommierte kulturelle Einrichtung im Banat.\" },\n    facts: { ro: [\"Situată în Piața Victoriei.\"], en: [\"Located in Victory Square.\"], hu: [\"A Győzelem téren található.\"], de: [\"Am Siegesplatz gelegen.\"] },\n    image: \"/geo-images/romania/cultura-opera-timisoara.webp\"\n  }",
+    "start": 370034,
+    "end": 370750,
+    "name": "{ ro: \"Opera Națională Română Timișoara\", en: \"Romanian National Opera Timișoara\", hu: \"Temesvári Román Nemzeti Opera\", de: \"Rumänische Nationaloper Timișoara\" }",
+    "description": "{ ro: \"Instituție culturală de prestigiu în Banat.\", en: \"Prestigious cultural institution in Banat.\", hu: \"Rangos kulturális intézmény a Bánságban.\", de: \"Renommierte kulturelle Einrichtung im Banat.\" }",
+    "facts": "{ ro: [\"Situată în Piața Victoriei.\"], en: [\"Located in Victory Square.\"], hu: [\"A Győzelem téren található.\"], de: [\"Am Siegesplatz gelegen.\"] }"
+  },
+  {
+    "id": "trad-martisor",
+    "block": "{\n    id: \"trad-martisor\", type: \"historical\", parent: \"RO\", coords: [25.0, 45.0],\n    name: { ro: \"Mărțișorul\", en: \"Mărțișor (March Amulet)\", hu: \"Mărțișor\", de: \"Mărțișor\" },\n    description: { ro: \"Sărbătoarea venirii primăverii la 1 martie.\", en: \"Celebration of the arrival of spring on March 1st.\", hu: \"A tavasz eljövetelének ünnepe március 1-jén.\", de: \"Feier der Ankunft des Frühlings am 1. März.\" },\n    facts: { ro: [\"Inclus în patrimoniul imaterial UNESCO.\"], en: [\"Included in UNESCO intangible heritage.\"], hu: [\"Az UNESCO szellemi kulturális örökség része.\"], de: [\"In das immaterielle UNESCO-Kulturerbe aufgenommen.\"] },\n    image: \"/geo-images/romania/trad-martisor.webp\"\n  }",
+    "start": 370992,
+    "end": 371685,
+    "name": "{ ro: \"Mărțișorul\", en: \"Mărțișor (March Amulet)\", hu: \"Mărțișor\", de: \"Mărțișor\" }",
+    "description": "{ ro: \"Sărbătoarea venirii primăverii la 1 martie.\", en: \"Celebration of the arrival of spring on March 1st.\", hu: \"A tavasz eljövetelének ünnepe március 1-jén.\", de: \"Feier der Ankunft des Frühlings am 1. März.\" }",
+    "facts": "{ ro: [\"Inclus în patrimoniul imaterial UNESCO.\"], en: [\"Included in UNESCO intangible heritage.\"], hu: [\"Az UNESCO szellemi kulturális örökség része.\"], de: [\"In das immaterielle UNESCO-Kulturerbe aufgenommen.\"] }"
+  },
+  {
+    "id": "trad-calusari",
+    "block": "{\n    id: \"trad-calusari\", type: \"historical\", parent: \"RO-OT\", coords: [24.36, 44.43],\n    name: { ro: \"Dansul Călușarilor\", en: \"Călușari Dance\", hu: \"Călușari tánc\", de: \"Călușari-Tanz\" },\n    description: { ro: \"Dans tradițional românesc cu funcție rituală.\", en: \"Traditional Romanian dance with a ritual function.\", hu: \"Hagyományos román rituális tánc.\", de: \"Traditioneller rumänischer Ritualtanz.\" },\n    facts: { ro: [\"Inclus în patrimoniul UNESCO din 2005.\"], en: [\"Included in UNESCO heritage since 2005.\"], hu: [\"2005 óta az UNESCO örökség része.\"], de: [\"Seit 2005 im UNESCO-Kulturerbe.\"] },\n    image: \"/geo-images/romania/trad-calusari.webp\"\n  }",
+    "start": 371689,
+    "end": 372350,
+    "name": "{ ro: \"Dansul Călușarilor\", en: \"Călușari Dance\", hu: \"Călușari tánc\", de: \"Călușari-Tanz\" }",
+    "description": "{ ro: \"Dans tradițional românesc cu funcție rituală.\", en: \"Traditional Romanian dance with a ritual function.\", hu: \"Hagyományos román rituális tánc.\", de: \"Traditioneller rumänischer Ritualtanz.\" }",
+    "facts": "{ ro: [\"Inclus în patrimoniul UNESCO din 2005.\"], en: [\"Included in UNESCO heritage since 2005.\"], hu: [\"2005 óta az UNESCO örökség része.\"], de: [\"Seit 2005 im UNESCO-Kulturerbe.\"] }"
+  },
+  {
+    "id": "trad-mucenici",
+    "block": "{\n    id: \"trad-mucenici\", type: \"historical\", parent: \"RO\", coords: [26.0, 44.5],\n    name: { ro: \"Sărbătoarea Mucenicilor\", en: \"Martyrs' Day (Mucenici)\", hu: \"Mucenici ünnepe\", de: \"Tag der Märtyrer (Mucenici)\" },\n    description: { ro: \"Tradiție culinară și religioasă pe 9 martie.\", en: \"Culinary and religious tradition on March 9th.\", hu: \"Kulináris és vallási hagyomány március 9-én.\", de: \"Kulinarische und religiöse Tradition am 9. März.\" },\n    facts: { ro: [\"Se prepară colaci în formă de 8.\"], en: [\"Figure-8 shaped pastries are made.\"], hu: [\"8-as alakú kalácsokat készítenek.\"], de: [\"Es werden Gebäcke in Form einer 8 gebacken.\"] },\n    image: \"/geo-images/romania/trad-mucenici.webp\"\n  }",
+    "start": 372354,
+    "end": 373058,
+    "name": "{ ro: \"Sărbătoarea Mucenicilor\", en: \"Martyrs' Day (Mucenici)\", hu: \"Mucenici ünnepe\", de: \"Tag der Märtyrer (Mucenici)\" }",
+    "description": "{ ro: \"Tradiție culinară și religioasă pe 9 martie.\", en: \"Culinary and religious tradition on March 9th.\", hu: \"Kulináris és vallási hagyomány március 9-én.\", de: \"Kulinarische und religiöse Tradition am 9. März.\" }",
+    "facts": "{ ro: [\"Se prepară colaci în formă de 8.\"], en: [\"Figure-8 shaped pastries are made.\"], hu: [\"8-as alakú kalácsokat készítenek.\"], de: [\"Es werden Gebäcke in Form einer 8 gebacken.\"] }"
+  },
+  {
+    "id": "trad-paste",
+    "block": "{\n    id: \"trad-paste\", type: \"historical\", parent: \"RO\", coords: [25.5, 46.0],\n    name: { ro: \"Tradiții de Paște\", en: \"Easter Traditions\", hu: \"Húsvéti hagyományok\", de: \"Ostertraditionen\" },\n    description: { ro: \"Încondeierea ouălor și slujba de Înviere.\", en: \"Egg painting and the Resurrection service.\", hu: \"Tojásírás és a feltámadási mise.\", de: \"Eier bemalen und der Auferstehungsgottesdienst.\" },\n    facts: { ro: [\"Ouăle roșii sunt un simbol principal.\"], en: [\"Red eggs are a main symbol.\"], hu: [\"A piros tojások a fő szimbólumok.\"], de: [\"Rote Eier sind ein Hauptsymbol.\"] },\n    image: \"/geo-images/romania/trad-paste.webp\"\n  }",
+    "start": 373062,
+    "end": 373707,
+    "name": "{ ro: \"Tradiții de Paște\", en: \"Easter Traditions\", hu: \"Húsvéti hagyományok\", de: \"Ostertraditionen\" }",
+    "description": "{ ro: \"Încondeierea ouălor și slujba de Înviere.\", en: \"Egg painting and the Resurrection service.\", hu: \"Tojásírás és a feltámadási mise.\", de: \"Eier bemalen und der Auferstehungsgottesdienst.\" }",
+    "facts": "{ ro: [\"Ouăle roșii sunt un simbol principal.\"], en: [\"Red eggs are a main symbol.\"], hu: [\"A piros tojások a fő szimbólumok.\"], de: [\"Rote Eier sind ein Hauptsymbol.\"] }"
+  },
+  {
+    "id": "trad-sanzaiene",
+    "block": "{\n    id: \"trad-sanzaiene\", type: \"historical\", parent: \"RO\", coords: [24.0, 46.5],\n    name: { ro: \"Sânzienele\", en: \"Sânziene (Midsummer)\", hu: \"Sânziene (Szentivánéj)\", de: \"Sânziene (Mittsommer)\" },\n    description: { ro: \"Sărbătoare de vară legată de recolte și dragoste.\", en: \"Summer festival related to harvest and love.\", hu: \"Nyári ünnep a terméshez és a szerelemhez kötődően.\", de: \"Sommerfest im Zusammenhang mit Ernte und Liebe.\" },\n    facts: { ro: [\"Se sărbătorește pe 24 iunie.\"], en: [\"Celebrated on June 24th.\"], hu: [\"Június 24-én ünneplik.\"], de: [\"Wird am 24. Juni gefeiert.\"] },\n    image: \"/geo-images/romania/sanziene-midsummer.webp\"\n  }",
+    "start": 373711,
+    "end": 374372,
+    "name": "{ ro: \"Sânzienele\", en: \"Sânziene (Midsummer)\", hu: \"Sânziene (Szentivánéj)\", de: \"Sânziene (Mittsommer)\" }",
+    "description": "{ ro: \"Sărbătoare de vară legată de recolte și dragoste.\", en: \"Summer festival related to harvest and love.\", hu: \"Nyári ünnep a terméshez és a szerelemhez kötődően.\", de: \"Sommerfest im Zusammenhang mit Ernte und Liebe.\" }",
+    "facts": "{ ro: [\"Se sărbătorește pe 24 iunie.\"], en: [\"Celebrated on June 24th.\"], hu: [\"Június 24-én ünneplik.\"], de: [\"Wird am 24. Juni gefeiert.\"] }"
+  },
+  {
+    "id": "trad-colindat",
+    "block": "{\n    id: \"trad-colindat\", type: \"historical\", parent: \"RO\", coords: [25.0, 47.0],\n    name: { ro: \"Colindatul de Crăciun\", en: \"Christmas Caroling\", hu: \"Karácsonyi kántálás\", de: \"Weihnachtssingen\" },\n    description: { ro: \"Tradiție de iarnă în care grupuri merg din casă în casă.\", en: \"Winter tradition where groups go from house to house.\", hu: \"Téli hagyomány, amikor csoportok házról házra járnak.\", de: \"Wintertradition, bei der Gruppen von Haus zu Haus gehen.\" },\n    facts: { ro: [\"Colindatul de ceată bărbătească este în patrimoniul UNESCO.\"], en: [\"Men's group caroling is in UNESCO heritage.\"], hu: [\"A férficsoportos kántálás az UNESCO örökség része.\"], de: [\"Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe.\"] },\n    image: \"/geo-images/romania/christmas-caroling.webp\"\n  }",
+    "start": 374376,
+    "end": 375174,
+    "name": "{ ro: \"Colindatul de Crăciun\", en: \"Christmas Caroling\", hu: \"Karácsonyi kántálás\", de: \"Weihnachtssingen\" }",
+    "description": "{ ro: \"Tradiție de iarnă în care grupuri merg din casă în casă.\", en: \"Winter tradition where groups go from house to house.\", hu: \"Téli hagyomány, amikor csoportok házról házra járnak.\", de: \"Wintertradition, bei der Gruppen von Haus zu Haus gehen.\" }",
+    "facts": "{ ro: [\"Colindatul de ceată bărbătească este în patrimoniul UNESCO.\"], en: [\"Men's group caroling is in UNESCO heritage.\"], hu: [\"A férficsoportos kántálás az UNESCO örökség része.\"], de: [\"Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe.\"] }"
+  },
+  {
+    "id": "trad-dragobete",
+    "block": "{\n    id: \"trad-dragobete\", type: \"historical\", parent: \"RO\", coords: [23.5, 45.5],\n    name: { ro: \"Dragobetele\", en: \"Dragobete (Lovers' Day)\", hu: \"Dragobete (Szerelmesek napja)\", de: \"Dragobete (Tag der Liebenden)\" },\n    description: { ro: \"Sărbătoarea tradițională a iubirii la români.\", en: \"Traditional Romanian celebration of love.\", hu: \"A szerelem hagyományos román ünnepe.\", de: \"Traditionelles rumänisches Fest der Liebe.\" },\n    facts: { ro: [\"Sărbătorit pe 24 februarie.\"], en: [\"Celebrated on February 24th.\"], hu: [\"Február 24-én ünneplik.\"], de: [\"Wird am 24. Februar gefeiert.\"] },\n    image: \"/geo-images/romania/dragobete-lovers.webp\"\n  }",
+    "start": 375178,
+    "end": 375837,
+    "name": "{ ro: \"Dragobetele\", en: \"Dragobete (Lovers' Day)\", hu: \"Dragobete (Szerelmesek napja)\", de: \"Dragobete (Tag der Liebenden)\" }",
+    "description": "{ ro: \"Sărbătoarea tradițională a iubirii la români.\", en: \"Traditional Romanian celebration of love.\", hu: \"A szerelem hagyományos román ünnepe.\", de: \"Traditionelles rumänisches Fest der Liebe.\" }",
+    "facts": "{ ro: [\"Sărbătorit pe 24 februarie.\"], en: [\"Celebrated on February 24th.\"], hu: [\"Február 24-én ünneplik.\"], de: [\"Wird am 24. Februar gefeiert.\"] }"
+  },
+  {
+    "id": "trad-ignatul",
+    "block": "{\n    id: \"trad-ignatul\", type: \"historical\", parent: \"RO\", coords: [24.5, 46.0],\n    name: { ro: \"Ignatul\", en: \"Ignat Day (Pig Slaughter)\", hu: \"Disznóvágás (Ignat)\", de: \"Ignattag (Schweineschlachten)\" },\n    description: { ro: \"Tradiție pre-crăciun care implică tăierea porcului.\", en: \"Pre-Christmas tradition involving pig slaughtering.\", hu: \"Karácsony előtti disznóvágás hagyomanya.\", de: \"Vorweihnachtliche Tradition des Schweineschlachtens.\" },\n    facts: { ro: [\"Are loc pe 20 decembrie.\"], en: [\"Takes place on December 20th.\"], hu: [\"December 20-án zajlik.\"], de: [\"Findet am 20. Dezember statt.\"] },\n    image: \"/geo-images/romania/ignat-day-pig-slaughter.webp\"\n  }",
+    "start": 375841,
+    "end": 376520,
+    "name": "{ ro: \"Ignatul\", en: \"Ignat Day (Pig Slaughter)\", hu: \"Disznóvágás (Ignat)\", de: \"Ignattag (Schweineschlachten)\" }",
+    "description": "{ ro: \"Tradiție pre-crăciun care implică tăierea porcului.\", en: \"Pre-Christmas tradition involving pig slaughtering.\", hu: \"Karácsony előtti disznóvágás hagyomanya.\", de: \"Vorweihnachtliche Tradition des Schweineschlachtens.\" }",
+    "facts": "{ ro: [\"Are loc pe 20 decembrie.\"], en: [\"Takes place on December 20th.\"], hu: [\"December 20-án zajlik.\"], de: [\"Findet am 20. Dezember statt.\"] }"
+  },
+  {
+    "id": "trad-boboteaza",
+    "block": "{\n    id: \"trad-boboteaza\", type: \"historical\", parent: \"RO\", coords: [26.0, 45.0],\n    name: { ro: \"Boboteaza\", en: \"Epiphany\", hu: \"Vízkereszt\", de: \"Dreikönigsfest\" },\n    description: { ro: \"Sărbătoare de iarnă cu sfințirea apelor.\", en: \"Winter holiday with the blessing of the waters.\", hu: \"Téli ünnep a vizek megszentelésével.\", de: \"Winterfest mit der Segnung der Gewässer.\" },\n    facts: { ro: [\"Sărbătorită pe 6 ianuarie.\"], en: [\"Celebrated on January 6th.\"], hu: [\"Január 6-án ünneplik.\"], de: [\"Wird am 6. Januar gefeiert.\"] },\n    image: \"/geo-images/romania/epiphany.webp\"\n  }",
+    "start": 376524,
+    "end": 377116,
+    "name": "{ ro: \"Boboteaza\", en: \"Epiphany\", hu: \"Vízkereszt\", de: \"Dreikönigsfest\" }",
+    "description": "{ ro: \"Sărbătoare de iarnă cu sfințirea apelor.\", en: \"Winter holiday with the blessing of the waters.\", hu: \"Téli ünnep a vizek megszentelésével.\", de: \"Winterfest mit der Segnung der Gewässer.\" }",
+    "facts": "{ ro: [\"Sărbătorită pe 6 ianuarie.\"], en: [\"Celebrated on January 6th.\"], hu: [\"Január 6-án ünneplik.\"], de: [\"Wird am 6. Januar gefeiert.\"] }"
+  },
+  {
+    "id": "trad-paparudele",
+    "block": "{\n    id: \"trad-paparudele\", type: \"historical\", parent: \"RO\", coords: [25.0, 44.0],\n    name: { ro: \"Paparudele\", en: \"Paparuda\", hu: \"Paparuda (Esőtánc)\", de: \"Paparuda (Regentanz)\" },\n    description: { ro: \"Ritual arhaic pentru invocarea ploii.\", en: \"Archaic ritual for invoking rain.\", hu: \"Archaikus rituálé az eső hívására.\", de: \"Archaisches Ritual zur Beschwörung von Regen.\" },\n    facts: { ro: [\"Practicat în perioade de secetă.\"], en: [\"Practiced during periods of drought.\"], hu: [\"Aszály idején gyakorolják.\"], de: [\"Wird während Dürreperioden praktiziert.\"] },\n    image: \"/geo-images/romania/trad-paparudele.webp\"\n  }",
+    "start": 377120,
+    "end": 377754,
+    "name": "{ ro: \"Paparudele\", en: \"Paparuda\", hu: \"Paparuda (Esőtánc)\", de: \"Paparuda (Regentanz)\" }",
+    "description": "{ ro: \"Ritual arhaic pentru invocarea ploii.\", en: \"Archaic ritual for invoking rain.\", hu: \"Archaikus rituálé az eső hívására.\", de: \"Archaisches Ritual zur Beschwörung von Regen.\" }",
+    "facts": "{ ro: [\"Practicat în perioade de secetă.\"], en: [\"Practiced during periods of drought.\"], hu: [\"Aszály idején gyakorolják.\"], de: [\"Wird während Dürreperioden praktiziert.\"] }"
+  },
+  {
+    "id": "wild-ursul-brun",
+    "block": "{\n    id: \"wild-ursul-brun\", type: \"animal-habitat\", parent: \"RO-BV\", coords: [25.6, 45.6],\n    name: { ro: \"Ursul Brun\", en: \"Brown Bear\", hu: \"Barna medve\", de: \"Braunbär\" },\n    description: { ro: \"Cea mai mare populație din Europa.\", en: \"Largest population in Europe.\", hu: \"A legnagyobb populáció Európában.\", de: \"Größte Population in Europa.\" },\n    facts: { ro: [\"Peste 6000 de exemplare în Carpați.\"], en: [\"Over 6000 individuals in the Carpathians.\"], hu: [\"Több mint 6000 példány a Kárpátokban.\"], de: [\"Über 6000 Exemplare in den Karpaten.\"] },\n    image: \"/geo-images/romania/wild-ursul-brun.webp\"\n  }",
+    "start": 377990,
+    "end": 378605,
+    "name": "{ ro: \"Ursul Brun\", en: \"Brown Bear\", hu: \"Barna medve\", de: \"Braunbär\" }",
+    "description": "{ ro: \"Cea mai mare populație din Europa.\", en: \"Largest population in Europe.\", hu: \"A legnagyobb populáció Európában.\", de: \"Größte Population in Europa.\" }",
+    "facts": "{ ro: [\"Peste 6000 de exemplare în Carpați.\"], en: [\"Over 6000 individuals in the Carpathians.\"], hu: [\"Több mint 6000 példány a Kárpátokban.\"], de: [\"Über 6000 Exemplare in den Karpaten.\"] }"
+  },
+  {
+    "id": "wild-rasul",
+    "block": "{\n    id: \"wild-rasul\", type: \"animal-habitat\", parent: \"RO-NT\", coords: [26.0, 47.0],\n    name: { ro: \"Râsul (Lynx)\", en: \"Carpathian Lynx\", hu: \"Kárpáti hiúz\", de: \"Karpatenluchs\" },\n    description: { ro: \"Cea mai mare felină sălbatică din Europa.\", en: \"The largest wild feline in Europe.\", hu: \"Európa legnagyobb vadmacskája.\", de: \"Die größte Wildkatze in Europa.\" },\n    facts: { ro: [\"Trăiește în păduri dese.\"], en: [\"Lives in dense forests.\"], hu: [\"Sűrű erdőkben él.\"], de: [\"Lebt in dichten Wäldern.\"] },\n    image: \"/geo-images/romania/wild-rasul.webp\"\n  }",
+    "start": 378609,
+    "end": 379178,
+    "name": "{ ro: \"Râsul (Lynx)\", en: \"Carpathian Lynx\", hu: \"Kárpáti hiúz\", de: \"Karpatenluchs\" }",
+    "description": "{ ro: \"Cea mai mare felină sălbatică din Europa.\", en: \"The largest wild feline in Europe.\", hu: \"Európa legnagyobb vadmacskája.\", de: \"Die größte Wildkatze in Europa.\" }",
+    "facts": "{ ro: [\"Trăiește în păduri dese.\"], en: [\"Lives in dense forests.\"], hu: [\"Sűrű erdőkben él.\"], de: [\"Lebt in dichten Wäldern.\"] }"
+  },
+  {
+    "id": "wild-zimbrul",
+    "block": "{\n    id: \"wild-zimbrul\", type: \"animal-habitat\", parent: \"RO-NT\", coords: [26.2, 47.2],\n    name: { ro: \"Zimbrul European\", en: \"European Bison\", hu: \"Európai bölény\", de: \"Wisent\" },\n    description: { ro: \"Cel mai mare mamifer terestru din Europa, reintrodus în natură.\", en: \"The largest land mammal in Europe, reintroduced.\", hu: \"Európa legnagyobb szárazföldi emlőse, visszatelepítve.\", de: \"Das größte Landsäugetier Europas, wieder eingeführt.\" },\n    facts: { ro: [\"Prezent în rezervații precum Vânători-Neamț.\"], en: [\"Present in reserves like Vânători-Neamț.\"], hu: [\"Vânători-Neamț rezervátumában él.\"], de: [\"Präsent im Reservat Vânători-Neamț.\"] },\n    image: \"/geo-images/romania/wild-zimbrul.webp\"\n  }",
+    "start": 379182,
+    "end": 379898,
+    "name": "{ ro: \"Zimbrul European\", en: \"European Bison\", hu: \"Európai bölény\", de: \"Wisent\" }",
+    "description": "{ ro: \"Cel mai mare mamifer terestru din Europa, reintrodus în natură.\", en: \"The largest land mammal in Europe, reintroduced.\", hu: \"Európa legnagyobb szárazföldi emlőse, visszatelepítve.\", de: \"Das größte Landsäugetier Europas, wieder eingeführt.\" }",
+    "facts": "{ ro: [\"Prezent în rezervații precum Vânători-Neamț.\"], en: [\"Present in reserves like Vânători-Neamț.\"], hu: [\"Vânători-Neamț rezervátumában él.\"], de: [\"Präsent im Reservat Vânători-Neamț.\"] }"
+  },
+  {
+    "id": "wild-vidra",
+    "block": "{\n    id: \"wild-vidra\", type: \"animal-habitat\", parent: \"RO-TL\", coords: [29.0, 45.0],\n    name: { ro: \"Vidra\", en: \"Eurasian Otter\", hu: \"Vidra\", de: \"Fischotter\" },\n    description: { ro: \"Mamifer acvatic întâlnit în Delta Dunării și râuri.\", en: \"Aquatic mammal found in the Danube Delta and rivers.\", hu: \"A Duna-deltában és a folyókban élő vízi emlős.\", de: \"Wassersäugetier, das im Donaudelta und in Flüssen vorkommt.\" },\n    facts: { ro: [\"Este un indicator al calității apei.\"], en: [\"It is an indicator of water quality.\"], hu: [\"A vízminőség indikátora.\"], de: [\"Es ist ein Indikator für die Wasserqualität.\"] },\n    image: \"/geo-images/romania/eurasian-otter.webp\"\n  }",
+    "start": 379902,
+    "end": 380581,
+    "name": "{ ro: \"Vidra\", en: \"Eurasian Otter\", hu: \"Vidra\", de: \"Fischotter\" }",
+    "description": "{ ro: \"Mamifer acvatic întâlnit în Delta Dunării și râuri.\", en: \"Aquatic mammal found in the Danube Delta and rivers.\", hu: \"A Duna-deltában és a folyókban élő vízi emlős.\", de: \"Wassersäugetier, das im Donaudelta und in Flüssen vorkommt.\" }",
+    "facts": "{ ro: [\"Este un indicator al calității apei.\"], en: [\"It is an indicator of water quality.\"], hu: [\"A vízminőség indikátora.\"], de: [\"Es ist ein Indikator für die Wasserqualität.\"] }"
+  },
+  {
+    "id": "wild-pelicanul",
+    "block": "{\n    id: \"wild-pelicanul\", type: \"animal-habitat\", parent: \"RO-TL\", coords: [29.4, 44.9],\n    name: { ro: \"Pelicanul\", en: \"Pelican\", hu: \"Pelikán\", de: \"Pelikan\" },\n    description: { ro: \"Delta Dunării găzduiește cele mai mari colonii de pelicani.\", en: \"The Danube Delta hosts the largest colonies of pelicans.\", hu: \"A Duna-delta a legnagyobb pelikánkolóniáknak ad otthont.\", de: \"Das Donaudelta beherbergt die größten Pelikankolonien.\" },\n    facts: { ro: [\"Pelicanul comun și creț sunt prezenți.\"], en: [\"Great white and Dalmatian pelicans are present.\"], hu: [\"Rózsás és borzas gödény egyaránt jelen van.\"], de: [\"Rosapelikan und Krauskopfpelikan sind vertreten.\"] },\n    image: \"/geo-images/romania/pelican.webp\"\n  }",
+    "start": 380585,
+    "end": 381310,
+    "name": "{ ro: \"Pelicanul\", en: \"Pelican\", hu: \"Pelikán\", de: \"Pelikan\" }",
+    "description": "{ ro: \"Delta Dunării găzduiește cele mai mari colonii de pelicani.\", en: \"The Danube Delta hosts the largest colonies of pelicans.\", hu: \"A Duna-delta a legnagyobb pelikánkolóniáknak ad otthont.\", de: \"Das Donaudelta beherbergt die größten Pelikankolonien.\" }",
+    "facts": "{ ro: [\"Pelicanul comun și creț sunt prezenți.\"], en: [\"Great white and Dalmatian pelicans are present.\"], hu: [\"Rózsás és borzas gödény egyaránt jelen van.\"], de: [\"Rosapelikan und Krauskopfpelikan sind vertreten.\"] }"
+  },
+  {
+    "id": "wild-capra-neagra",
+    "block": "{\n    id: \"wild-capra-neagra\", type: \"animal-habitat\", parent: \"RO-SB\", coords: [24.6, 45.6],\n    name: { ro: \"Capra Neagră\", en: \"Chamois\", hu: \"Zerge\", de: \"Gämse\" },\n    description: { ro: \"Se găsește pe crestele stâncoase ale Carpaților.\", en: \"Found on the rocky ridges of the Carpathians.\", hu: \"A Kárpátok sziklás gerincein található.\", de: \"Zu finden auf den felsigen Kämmen der Karpaten.\" },\n    facts: { ro: [\"Adaptat la mediul alpin.\"], en: [\"Adapted to the alpine environment.\"], hu: [\"Alpesi környezethez alkalmazkodott.\"], de: [\"An die alpine Umgebung angepasst.\"] },\n    image: \"/geo-images/romania/wild-capra-neagra.webp\"\n  }",
+    "start": 381314,
+    "end": 381955,
+    "name": "{ ro: \"Capra Neagră\", en: \"Chamois\", hu: \"Zerge\", de: \"Gämse\" }",
+    "description": "{ ro: \"Se găsește pe crestele stâncoase ale Carpaților.\", en: \"Found on the rocky ridges of the Carpathians.\", hu: \"A Kárpátok sziklás gerincein található.\", de: \"Zu finden auf den felsigen Kämmen der Karpaten.\" }",
+    "facts": "{ ro: [\"Adaptat la mediul alpin.\"], en: [\"Adapted to the alpine environment.\"], hu: [\"Alpesi környezethez alkalmazkodott.\"], de: [\"An die alpine Umgebung angepasst.\"] }"
+  },
+  {
+    "id": "wild-sturionul",
+    "block": "{\n    id: \"wild-sturionul\", type: \"animal-habitat\", parent: \"RO-TL\", coords: [29.6, 45.1],\n    name: { ro: \"Sturionii\", en: \"Sturgeons\", hu: \"Tokhalak\", de: \"Störe\" },\n    description: { ro: \"Pești preistorici care migrează din Marea Neagră în Dunăre.\", en: \"Prehistoric fish that migrate from the Black Sea to the Danube.\", hu: \"Őskori halak, amelyek a Fekete-tengerből a Dunába vándorolnak.\", de: \"Prähistorische Fische, die vom Schwarzen Meer in die Donau wandern.\" },\n    facts: { ro: [\"Produc faimosul caviar.\"], en: [\"Produce the famous caviar.\"], hu: [\"A híres kaviárt adják.\"], de: [\"Produzieren den berühmten Kaviar.\"] },\n    image: \"/geo-images/romania/sturgeons.webp\"\n  }",
+    "start": 381959,
+    "end": 382641,
+    "name": "{ ro: \"Sturionii\", en: \"Sturgeons\", hu: \"Tokhalak\", de: \"Störe\" }",
+    "description": "{ ro: \"Pești preistorici care migrează din Marea Neagră în Dunăre.\", en: \"Prehistoric fish that migrate from the Black Sea to the Danube.\", hu: \"Őskori halak, amelyek a Fekete-tengerből a Dunába vándorolnak.\", de: \"Prähistorische Fische, die vom Schwarzen Meer in die Donau wandern.\" }",
+    "facts": "{ ro: [\"Produc faimosul caviar.\"], en: [\"Produce the famous caviar.\"], hu: [\"A híres kaviárt adják.\"], de: [\"Produzieren den berühmten Kaviar.\"] }"
+  },
+  {
+    "id": "wild-marmota",
+    "block": "{\n    id: \"wild-marmota\", type: \"animal-habitat\", parent: \"RO-BV\", coords: [24.7, 45.6],\n    name: { ro: \"Marmota\", en: \"Marmot\", hu: \"Marmota\", de: \"Murmeltier\" },\n    description: { ro: \"Rozător specific zonelor alpine din Făgăraș și Retezat.\", en: \"Rodent specific to the alpine areas of Făgăraș and Retezat.\", hu: \"A Fogarasi-havasok és a Retyezát alpesi övezetének jellemző rágcsálója.\", de: \"Nagetier der alpinen Zonen von Făgăraș und Retezat.\" },\n    facts: { ro: [\"Hibernează în timpul iernii.\"], en: [\"Hibernates during winter.\"], hu: [\"Télen téli álmot alszik.\"], de: [\"Hält Winterschlaf.\"] },\n    image: \"/geo-images/romania/wild-marmota.webp\"\n  }",
+    "start": 382645,
+    "end": 383303,
+    "name": "{ ro: \"Marmota\", en: \"Marmot\", hu: \"Marmota\", de: \"Murmeltier\" }",
+    "description": "{ ro: \"Rozător specific zonelor alpine din Făgăraș și Retezat.\", en: \"Rodent specific to the alpine areas of Făgăraș and Retezat.\", hu: \"A Fogarasi-havasok és a Retyezát alpesi övezetének jellemző rágcsálója.\", de: \"Nagetier der alpinen Zonen von Făgăraș und Retezat.\" }",
+    "facts": "{ ro: [\"Hibernează în timpul iernii.\"], en: [\"Hibernates during winter.\"], hu: [\"Télen téli álmot alszik.\"], de: [\"Hält Winterschlaf.\"] }"
+  },
+  {
+    "id": "wild-cocosul-de-munte",
+    "block": "{\n    id: \"wild-cocosul-de-munte\", type: \"animal-habitat\", parent: \"RO-SV\", coords: [25.5, 47.4],\n    name: { ro: \"Cocoșul de Munte\", en: \"Western Capercaillie\", hu: \"Siketfajd\", de: \"Auerhuhn\" },\n    description: { ro: \"Pasăre mare, specifică pădurilor de conifere.\", en: \"Large bird, specific to coniferous forests.\", hu: \"Nagytestű madár, tűlevelű erdőkben él.\", de: \"Großer Vogel, heimisch in Nadelwäldern.\" },\n    facts: { ro: [\"Renumit pentru dansul nupțial spectaculos.\"], en: [\"Famous for its spectacular mating dance.\"], hu: [\"Látványos násztáncáról híres.\"], de: [\"Berühmt für seinen spektakulären Balztanz.\"] },\n    image: \"/geo-images/romania/western-capercaillie.webp\"\n  }",
+    "start": 383307,
+    "end": 383992,
+    "name": "{ ro: \"Cocoșul de Munte\", en: \"Western Capercaillie\", hu: \"Siketfajd\", de: \"Auerhuhn\" }",
+    "description": "{ ro: \"Pasăre mare, specifică pădurilor de conifere.\", en: \"Large bird, specific to coniferous forests.\", hu: \"Nagytestű madár, tűlevelű erdőkben él.\", de: \"Großer Vogel, heimisch in Nadelwäldern.\" }",
+    "facts": "{ ro: [\"Renumit pentru dansul nupțial spectaculos.\"], en: [\"Famous for its spectacular mating dance.\"], hu: [\"Látványos násztáncáról híres.\"], de: [\"Berühmt für seinen spektakulären Balztanz.\"] }"
+  },
+  {
+    "id": "wild-lupul",
+    "block": "{\n    id: \"wild-lupul\", type: \"animal-habitat\", parent: \"RO-HR\", coords: [25.8, 46.5],\n    name: { ro: \"Lupul Carpatin\", en: \"Carpathian Wolf\", hu: \"Kárpáti farkas\", de: \"Karpatenwolf\" },\n    description: { ro: \"România găzduiește una dintre cele mai mari populații de lupi din Europa.\", en: \"Romania hosts one of the largest wolf populations in Europe.\", hu: \"Romániában él Európa egyik legnagyobb farkaspopulációja.\", de: \"Rumänien beherbergt eine der größten Wolfspopulationen Europas.\" },\n    facts: { ro: [\"Trăiesc în haite bine organizate.\"], en: [\"They live in well-organized packs.\"], hu: [\"Jól szervezett falkákban élnek.\"], de: [\"Sie leben in gut organisierten Rudeln.\"] },\n    image: \"/geo-images/romania/carpathian-wolf.webp\"\n  }",
+    "start": 383996,
+    "end": 384737,
+    "name": "{ ro: \"Lupul Carpatin\", en: \"Carpathian Wolf\", hu: \"Kárpáti farkas\", de: \"Karpatenwolf\" }",
+    "description": "{ ro: \"România găzduiește una dintre cele mai mari populații de lupi din Europa.\", en: \"Romania hosts one of the largest wolf populations in Europe.\", hu: \"Romániában él Európa egyik legnagyobb farkaspopulációja.\", de: \"Rumänien beherbergt eine der größten Wolfspopulationen Europas.\" }",
+    "facts": "{ ro: [\"Trăiesc în haite bine organizate.\"], en: [\"They live in well-organized packs.\"], hu: [\"Jól szervezett falkákban élnek.\"], de: [\"Sie leben in gut organisierten Rudeln.\"] }"
+  },
+  {
+    "id": "folk-maramures",
+    "block": "{\n    id: \"folk-maramures\", type: \"region\", parent: \"RO-MM\", coords: [24.0, 47.8],\n    name: { ro: \"Țara Maramureșului\", en: \"Maramureș Region\", hu: \"Máramaros vidék\", de: \"Region Maramureș\" },\n    description: { ro: \"Cunoscută pentru bisericile de lemn și portul tradițional.\", en: \"Known for its wooden churches and traditional attire.\", hu: \"Fatemplomairól és hagyományos viseletéről ismert.\", de: \"Bekannt für seine Holzkirchen und traditionelle Kleidung.\" },\n    facts: { ro: [\"Porțile de lemn sunt un simbol.\"], en: [\"Wooden gates are a symbol.\"], hu: [\"A fakapuk szimbólumok.\"], de: [\"Holztore sind ein Symbol.\"] },\n    image: \"/geo-images/romania/maramures-region.webp\"\n  }",
+    "start": 384987,
+    "end": 385668,
+    "name": "{ ro: \"Țara Maramureșului\", en: \"Maramureș Region\", hu: \"Máramaros vidék\", de: \"Region Maramureș\" }",
+    "description": "{ ro: \"Cunoscută pentru bisericile de lemn și portul tradițional.\", en: \"Known for its wooden churches and traditional attire.\", hu: \"Fatemplomairól és hagyományos viseletéről ismert.\", de: \"Bekannt für seine Holzkirchen und traditionelle Kleidung.\" }",
+    "facts": "{ ro: [\"Porțile de lemn sunt un simbol.\"], en: [\"Wooden gates are a symbol.\"], hu: [\"A fakapuk szimbólumok.\"], de: [\"Holztore sind ein Symbol.\"] }"
+  },
+  {
+    "id": "folk-bucovina",
+    "block": "{\n    id: \"folk-bucovina\", type: \"region\", parent: \"RO-SV\", coords: [25.5, 47.5],\n    name: { ro: \"Bucovina\", en: \"Bukovina\", hu: \"Bukovina\", de: \"Bukowina\" },\n    description: { ro: \"Zonă faimoasă pentru mănăstirile pictate și încondeierea ouălor.\", en: \"Famous area for painted monasteries and egg painting.\", hu: \"A festett kolostorokról és a tojásírásról híres vidék.\", de: \"Bekannt für die bemalten Klöster und das Bemalen von Eiern.\" },\n    facts: { ro: [\"Ceramica de Marginea este renumită.\"], en: [\"Marginea ceramics are renowned.\"], hu: [\"A margineai kerámia híres.\"], de: [\"Marginea-Keramik ist berühmt.\"] },\n    image: \"/geo-images/romania/bukovina.webp\"\n  }",
+    "start": 385672,
+    "end": 386341,
+    "name": "{ ro: \"Bucovina\", en: \"Bukovina\", hu: \"Bukovina\", de: \"Bukowina\" }",
+    "description": "{ ro: \"Zonă faimoasă pentru mănăstirile pictate și încondeierea ouălor.\", en: \"Famous area for painted monasteries and egg painting.\", hu: \"A festett kolostorokról és a tojásírásról híres vidék.\", de: \"Bekannt für die bemalten Klöster und das Bemalen von Eiern.\" }",
+    "facts": "{ ro: [\"Ceramica de Marginea este renumită.\"], en: [\"Marginea ceramics are renowned.\"], hu: [\"A margineai kerámia híres.\"], de: [\"Marginea-Keramik ist berühmt.\"] }"
+  },
+  {
+    "id": "folk-tara-motilor",
+    "block": "{\n    id: \"folk-tara-motilor\", type: \"region\", parent: \"RO-AB\", coords: [23.0, 46.4],\n    name: { ro: \"Țara Moților\", en: \"Țara Moților (Land of the Moți)\", hu: \"Mócvidék\", de: \"Motzenland\" },\n    description: { ro: \"Zonă etnografică din Munții Apuseni, unde trăiesc moții.\", en: \"Ethnographic area in the Apuseni Mountains, where the Moți live.\", hu: \"Néprajzi vidék az Erdélyi-szigethegységben, a mócok hazája.\", de: \"Ethnographisches Gebiet im Apuseni-Gebirge, wo die Motzen leben.\" },\n    facts: { ro: [\"Meșteșugul lemnului este specific.\"], en: [\"Woodcrafting is specific here.\"], hu: [\"A faművesség jellemző itt.\"], de: [\"Die Holzkunst ist hier spezifisch.\"] },\n    image: \"/geo-images/romania/tara-motilor-land-of-the-moti.webp\"\n  }",
+    "start": 386345,
+    "end": 387084,
+    "name": "{ ro: \"Țara Moților\", en: \"Țara Moților (Land of the Moți)\", hu: \"Mócvidék\", de: \"Motzenland\" }",
+    "description": "{ ro: \"Zonă etnografică din Munții Apuseni, unde trăiesc moții.\", en: \"Ethnographic area in the Apuseni Mountains, where the Moți live.\", hu: \"Néprajzi vidék az Erdélyi-szigethegységben, a mócok hazája.\", de: \"Ethnographisches Gebiet im Apuseni-Gebirge, wo die Motzen leben.\" }",
+    "facts": "{ ro: [\"Meșteșugul lemnului este specific.\"], en: [\"Woodcrafting is specific here.\"], hu: [\"A faművesség jellemző itt.\"], de: [\"Die Holzkunst ist hier spezifisch.\"] }"
+  },
+  {
+    "id": "folk-oltenia",
+    "block": "{\n    id: \"folk-oltenia\", type: \"region\", parent: \"RO-GJ\", coords: [23.5, 44.8],\n    name: { ro: \"Oltenia Tradițională\", en: \"Traditional Oltenia\", hu: \"Hagyományos Olténia\", de: \"Traditionelles Oltenien\" },\n    description: { ro: \"Cunoscută pentru covoarele oltenești și ceramica de Horezu.\", en: \"Known for Oltenian carpets and Horezu ceramics.\", hu: \"Az olténiai szőnyegekről és a horezui kerámiáról ismert.\", de: \"Bekannt für oltenische Teppiche und Horezu-Keramik.\" },\n    facts: { ro: [\"Ceramica de Horezu este în patrimoniul UNESCO.\"], en: [\"Horezu ceramics are in UNESCO heritage.\"], hu: [\"A horezui kerámia UNESCO örökség.\"], de: [\"Horezu-Keramik gehört zum UNESCO-Kulturerbe.\"] },\n    image: \"/geo-images/romania/traditional-oltenia.webp\"\n  }",
+    "start": 387088,
+    "end": 387840,
+    "name": "{ ro: \"Oltenia Tradițională\", en: \"Traditional Oltenia\", hu: \"Hagyományos Olténia\", de: \"Traditionelles Oltenien\" }",
+    "description": "{ ro: \"Cunoscută pentru covoarele oltenești și ceramica de Horezu.\", en: \"Known for Oltenian carpets and Horezu ceramics.\", hu: \"Az olténiai szőnyegekről és a horezui kerámiáról ismert.\", de: \"Bekannt für oltenische Teppiche und Horezu-Keramik.\" }",
+    "facts": "{ ro: [\"Ceramica de Horezu este în patrimoniul UNESCO.\"], en: [\"Horezu ceramics are in UNESCO heritage.\"], hu: [\"A horezui kerámia UNESCO örökség.\"], de: [\"Horezu-Keramik gehört zum UNESCO-Kulturerbe.\"] }"
+  },
+  {
+    "id": "folk-tara-oasului",
+    "block": "{\n    id: \"folk-tara-oasului\", type: \"region\", parent: \"RO-SM\", coords: [23.3, 47.9],\n    name: { ro: \"Țara Oașului\", en: \"Oaș Country\", hu: \"Avasság (Avas)\", de: \"Oascher Land\" },\n    description: { ro: \"Regiune faimoasă pentru portul colorat și muzica tradițională.\", en: \"Region famous for colorful costumes and traditional music.\", hu: \"A színes viseletről és a hagyományos zenéről híres vidék.\", de: \"Region berühmt für bunte Trachten und traditionelle Musik.\" },\n    facts: { ro: [\"Nuntile oșenești sunt spectaculoase.\"], en: [\"Oaș weddings are spectacular.\"], hu: [\"Az avasi esküvők látványosak.\"], de: [\"Oascher Hochzeiten sind spektakulär.\"] },\n    image: \"/geo-images/romania/folk-tara-oasului.webp\"\n  }",
+    "start": 387844,
+    "end": 388557,
+    "name": "{ ro: \"Țara Oașului\", en: \"Oaș Country\", hu: \"Avasság (Avas)\", de: \"Oascher Land\" }",
+    "description": "{ ro: \"Regiune faimoasă pentru portul colorat și muzica tradițională.\", en: \"Region famous for colorful costumes and traditional music.\", hu: \"A színes viseletről és a hagyományos zenéről híres vidék.\", de: \"Region berühmt für bunte Trachten und traditionelle Musik.\" }",
+    "facts": "{ ro: [\"Nuntile oșenești sunt spectaculoase.\"], en: [\"Oaș weddings are spectacular.\"], hu: [\"Az avasi esküvők látványosak.\"], de: [\"Oascher Hochzeiten sind spektakulär.\"] }"
+  },
+  {
+    "id": "folk-dobrogea",
+    "block": "{\n    id: \"folk-dobrogea\", type: \"region\", parent: \"RO-TL\", coords: [28.5, 44.8],\n    name: { ro: \"Tradiții Dobrogene\", en: \"Dobruja Traditions\", hu: \"Dobrudzsai hagyományok\", de: \"Dobrudscha Traditionen\" },\n    description: { ro: \"Mix cultural unic între români, turci, tătari și lipoveni.\", en: \"Unique cultural mix between Romanians, Turks, Tatars, and Lipovans.\", hu: \"Egyedülálló kulturális keverék románok, törökök, tatárok és lipovánok között.\", de: \"Einzigartige kulturelle Mischung aus Rumänen, Türken, Tataren und Lippowanern.\" },\n    facts: { ro: [\"Gastronomia include pește și plăcinte.\"], en: [\"Gastronomy includes fish and pies.\"], hu: [\"A gasztronómia halat és lepényt tartalmaz.\"], de: [\"Gastronomie umfasst Fisch und Pasteten.\"] },\n    image: \"/geo-images/romania/folk-dobrogea.webp\"\n  }",
+    "start": 388561,
+    "end": 389365,
+    "name": "{ ro: \"Tradiții Dobrogene\", en: \"Dobruja Traditions\", hu: \"Dobrudzsai hagyományok\", de: \"Dobrudscha Traditionen\" }",
+    "description": "{ ro: \"Mix cultural unic între români, turci, tătari și lipoveni.\", en: \"Unique cultural mix between Romanians, Turks, Tatars, and Lipovans.\", hu: \"Egyedülálló kulturális keverék románok, törökök, tatárok és lipovánok között.\", de: \"Einzigartige kulturelle Mischung aus Rumänen, Türken, Tataren und Lippowanern.\" }",
+    "facts": "{ ro: [\"Gastronomia include pește și plăcinte.\"], en: [\"Gastronomy includes fish and pies.\"], hu: [\"A gasztronómia halat és lepényt tartalmaz.\"], de: [\"Gastronomie umfasst Fisch und Pasteten.\"] }"
+  },
+  {
+    "id": "folk-transilvania-saseasca",
+    "block": "{\n    id: \"folk-transilvania-saseasca\", type: \"region\", parent: \"RO-SB\", coords: [24.5, 46.0],\n    name: { ro: \"Transilvania Săsească\", en: \"Saxon Transylvania\", hu: \"Szász Erdély\", de: \"Siebenbürgen (sächsisch)\" },\n    description: { ro: \"Zonă marcată de satele cu biserici fortificate construite de sași.\", en: \"Area marked by villages with fortified churches built by Saxons.\", hu: \"A szászok által épített erődtemplomos falvakkal jellemezhető vidék.\", de: \"Gegend, die von Dörfern mit von Sachsen erbauten Kirchenburgen geprägt ist.\" },\n    facts: { ro: [\"Multe biserici fortificate sunt UNESCO.\"], en: [\"Many fortified churches are UNESCO.\"], hu: [\"Sok erődtemplom UNESCO örökség.\"], de: [\"Viele Kirchenburgen sind UNESCO.\"] },\n    image: \"/geo-images/romania/saxon-transylvania.webp\"\n  }",
+    "start": 389369,
+    "end": 390162,
+    "name": "{ ro: \"Transilvania Săsească\", en: \"Saxon Transylvania\", hu: \"Szász Erdély\", de: \"Siebenbürgen (sächsisch)\" }",
+    "description": "{ ro: \"Zonă marcată de satele cu biserici fortificate construite de sași.\", en: \"Area marked by villages with fortified churches built by Saxons.\", hu: \"A szászok által épített erődtemplomos falvakkal jellemezhető vidék.\", de: \"Gegend, die von Dörfern mit von Sachsen erbauten Kirchenburgen geprägt ist.\" }",
+    "facts": "{ ro: [\"Multe biserici fortificate sunt UNESCO.\"], en: [\"Many fortified churches are UNESCO.\"], hu: [\"Sok erődtemplom UNESCO örökség.\"], de: [\"Viele Kirchenburgen sind UNESCO.\"] }"
+  },
+  {
+    "id": "folk-tara-fagarasului",
+    "block": "{\n    id: \"folk-tara-fagarasului\", type: \"region\", parent: \"RO-BV\", coords: [24.8, 45.8],\n    name: { ro: \"Țara Făgărașului\", en: \"Făgăraș Country\", hu: \"Fogarasföld\", de: \"Fogarascher Land\" },\n    description: { ro: \"Regiune istorică bogată în tradiții transilvănene.\", en: \"Historical region rich in Transylvanian traditions.\", hu: \"Erdélyi hagyományokban gazdag történelmi régió.\", de: \"Historische Region reich an siebenbürgischen Traditionen.\" },\n    facts: { ro: [\"Faimoasă pentru cetatea Făgăraș.\"], en: [\"Famous for Făgăraș Fortress.\"], hu: [\"A fogarasi várról híres.\"], de: [\"Berühmt für die Festung Fogarasch.\"] },\n    image: \"/geo-images/romania/fagaras-country.webp\"\n  }",
+    "start": 390166,
+    "end": 390848,
+    "name": "{ ro: \"Țara Făgărașului\", en: \"Făgăraș Country\", hu: \"Fogarasföld\", de: \"Fogarascher Land\" }",
+    "description": "{ ro: \"Regiune istorică bogată în tradiții transilvănene.\", en: \"Historical region rich in Transylvanian traditions.\", hu: \"Erdélyi hagyományokban gazdag történelmi régió.\", de: \"Historische Region reich an siebenbürgischen Traditionen.\" }",
+    "facts": "{ ro: [\"Faimoasă pentru cetatea Făgăraș.\"], en: [\"Famous for Făgăraș Fortress.\"], hu: [\"A fogarasi várról híres.\"], de: [\"Berühmt für die Festung Fogarasch.\"] }"
+  },
+  {
+    "id": "folk-marginimea-sibiului",
+    "block": "{\n    id: \"folk-marginimea-sibiului\", type: \"region\", parent: \"RO-SB\", coords: [23.9, 45.7],\n    name: { ro: \"Mărginimea Sibiului\", en: \"Mărginimea Sibiului\", hu: \"Szeben-hegyalja\", de: \"Mărginimea Sibiului\" },\n    description: { ro: \"Zonă etnografică pastorală din apropierea Sibiului.\", en: \"Pastoral ethnographic area near Sibiu.\", hu: \"Pásztorkodó néprajzi vidék Nagyszeben közelében.\", de: \"Pastorales ethnographisches Gebiet in der Nähe von Sibiu.\" },\n    facts: { ro: [\"Cunoscută pentru brânza de oaie.\"], en: [\"Known for sheep cheese.\"], hu: [\"Juhtúrójáról ismert.\"], de: [\"Bekannt für Schafskäse.\"] },\n    image: \"/geo-images/romania/marginimea-sibiului.webp\"\n  }",
+    "start": 390852,
+    "end": 391524,
+    "name": "{ ro: \"Mărginimea Sibiului\", en: \"Mărginimea Sibiului\", hu: \"Szeben-hegyalja\", de: \"Mărginimea Sibiului\" }",
+    "description": "{ ro: \"Zonă etnografică pastorală din apropierea Sibiului.\", en: \"Pastoral ethnographic area near Sibiu.\", hu: \"Pásztorkodó néprajzi vidék Nagyszeben közelében.\", de: \"Pastorales ethnographisches Gebiet in der Nähe von Sibiu.\" }",
+    "facts": "{ ro: [\"Cunoscută pentru brânza de oaie.\"], en: [\"Known for sheep cheese.\"], hu: [\"Juhtúrójáról ismert.\"], de: [\"Bekannt für Schafskäse.\"] }"
+  },
+  {
+    "id": "ro-poi-moneasa",
+    "block": "{\n    id: \"ro-poi-moneasa\", type: \"landmark\", parent: \"RO-AR\", coords: [22.2583, 46.4583],\n    name: { de: \"Moneasa\", hu: \"Menyháza\", ro: \"Stațiunea Moneasa\", en: \"Moneasa Resort\" },\n    description: { de: \"Bekannter Kurort.\", hu: \"Híres gyógyüdülőhely.\", ro: \"Stațiune balneoclimaterică cunoscută.\", en: \"Well-known spa resort.\" },\n    facts: { de: [], hu: [], ro: [\"Moneasa (în maghiară Menyháza) este satul de reședință al comunei cu același nume din județul Arad, Crișana, România.\"], en: [\"Moneasa (Hungarian: Menyháza) is a commune in Arad County, Romania.\", \"Its administrative surface stretches over 6,824 hectares (16,860 acres) and it is composed of two villages, Moneasa and Rănușa (Kisróna).\"] },\n    image: \"/geo-images/romania/moneasa-resort.webp\"\n  }",
+    "start": 391971,
+    "end": 392736,
+    "name": "{ de: \"Moneasa\", hu: \"Menyháza\", ro: \"Stațiunea Moneasa\", en: \"Moneasa Resort\" }",
+    "description": "{ de: \"Bekannter Kurort.\", hu: \"Híres gyógyüdülőhely.\", ro: \"Stațiune balneoclimaterică cunoscută.\", en: \"Well-known spa resort.\" }",
+    "facts": "{ de: [], hu: [], ro: [\"Moneasa (în maghiară Menyháza) este satul de reședință al comunei cu același nume din județul Arad, Crișana, România.\"], en: [\"Moneasa (Hungarian: Menyháza) is a commune in Arad County, Romania.\", \"Its administrative surface stretches over 6,824 hectares (16,860 acres) and it is composed of two villages, Moneasa and Rănușa (Kisróna).\"] }"
+  },
+  {
+    "id": "ro-poi-cetatea-siria",
+    "block": "{\n    id: \"ro-poi-cetatea-siria\", type: \"historical\", parent: \"RO-AR\", coords: [21.6333, 46.2667],\n    name: { de: \"Burg Șiria\", hu: \"Világosvári vár\", ro: \"Cetatea Șiria\", en: \"Șiria Fortress\" },\n    description: { de: \"Ruinen einer mittelalterlichen Burg.\", hu: \"Egy középkori vár romjai.\", ro: \"Ruinele unei cetăți medievale.\", en: \"Ruins of a medieval fortress.\" },\n    facts: { de: [\"Diese Liste führt (noch unvollständig) Burgen, Festungen, Kirchenburgen, Schlösser und Wehrklöster in Rumänien auf.\", \"Marienburg, Feldioara (Marienberg), Kreis Brașov Zitadelle Alba Carolina, Alba Iulia (Karlsburg), Kreis Alba Alexandru-Ghica-Palast, Moara Vlăsiei-Căciulați, Kreis Ilfov Festung Arad, Arad, Kreis Arad Schloss Bánffy, Bonțida (Bruck), Kreis Cluj Burg Bethlen-Haller, Cetatea de Baltă Schloss Bran, Bran (Törzburg), Kreis Brașov Brukenthal’sche Sommerresidenz, Avrig (Freck), Kreis Sibiu Schloss Csernovics, Macea (Matscha), Kreis Arad Cetatea Tricule, Svinița, Kreis Mehedinți am Ufer der Donau Chindia-Turm, Târgoviște, Kreis Dâmbovița Burgruine Colț, Râu de Mori (Mühlendorf), Kreis Hunedoara Schloss Cotroceni, Bukarest Burgruine Deva, Deva, Kreis Hunedoara Burg Făgăraș, Făgăraș (Fogarasch), Kreis Brașov Fürstenhof Târgoviște (Curtea Domnească), Târgoviște, Kreis Dâmbovița Schloss Gilău, Gilău (Gela), Kreis Cluj Burg Hunedoara, Hunedoara (Eisenmarkt), Kreis Hunedoara Schloss Hunyadi, Timișoara (Temeswar), Kreis Timiș Burg Kelling (Festung Câlnic), Câlnic (dt.\", \"Kelling) Schloss Kendeffy, Sântămăria-Orlea (Liebfrauen), Kreis Hunedoara Burg Lazar (Castelul Lazar), Lăzarea, Kreis Harghita Burg Mălăieşti (auch Burg Saracinesti, rumänisch Cetatea Mălăieşti (Saracinesti)), Sălașu de Sus-Mălăieşti Burg Mikó (Castelul Mikó), Miercurea Ciuc, Kreis Harghita Schloss Mogoșoaia, Bukarest Burg Neamț, Târgu Neamț, Kreis Neamț Schloss Peleș, Sinaia, Kreis Prahova Schloss Pelișor, Sinaia, Kreis Prahova Burg Poenari, Arefu, Kreis Argeș Bauernburg Râșnov, Râșnov (Rosenau), Kreis Brașov Burg Rupea, Rupea (Reps), Kreis Brașov Burgruine Saschiz, Saschiz (Keisd), Kreis Mureș Schloss Săvârșin, Săvârșin (Soborschin), Kreis Arad Burgruine Schwarzburg (Cetatea Neagra; auch: castrum Feketewholum), Codlea (Zeiden), auf dem Zeidner Berg Burg Suceava, Suceava (Suczawa), Kreis Suceava Burg Sighișoara (lat.\"], hu: [\"Szucsáva, régi magyar nevén Szőcsvásár(románul Suceava, lengyelül Suczawa, ukránul Сучава, jiddisül שאָץ) nagyváros Romániában, Suceava megye központja.\", \"1388 és 1565 között Szucsáva volt az első központosított moldvai állam fővárosa.\"], ro: [\"Cetatea Șiria este o cetate monumente istoric (cod LMI AR-II-a-A-00650), datând din secolul al XIII-lea, zidită pe Dealul Cetății (496 m), de unde domină regiunea din jurul localității Șiria.\"], en: [\"This is a list of castles and fortresses declared historic monuments by Romania's Ministry of Culture.\"] },\n    image: \"/geo-images/romania/siria-fortress.webp\"\n  }",
+    "start": 392740,
+    "end": 395669,
+    "name": "{ de: \"Burg Șiria\", hu: \"Világosvári vár\", ro: \"Cetatea Șiria\", en: \"Șiria Fortress\" }",
+    "description": "{ de: \"Ruinen einer mittelalterlichen Burg.\", hu: \"Egy középkori vár romjai.\", ro: \"Ruinele unei cetăți medievale.\", en: \"Ruins of a medieval fortress.\" }",
+    "facts": "{ de: [\"Diese Liste führt (noch unvollständig) Burgen, Festungen, Kirchenburgen, Schlösser und Wehrklöster in Rumänien auf.\", \"Marienburg, Feldioara (Marienberg), Kreis Brașov Zitadelle Alba Carolina, Alba Iulia (Karlsburg), Kreis Alba Alexandru-Ghica-Palast, Moara Vlăsiei-Căciulați, Kreis Ilfov Festung Arad, Arad, Kreis Arad Schloss Bánffy, Bonțida (Bruck), Kreis Cluj Burg Bethlen-Haller, Cetatea de Baltă Schloss Bran, Bran (Törzburg), Kreis Brașov Brukenthal’sche Sommerresidenz, Avrig (Freck), Kreis Sibiu Schloss Csernovics, Macea (Matscha), Kreis Arad Cetatea Tricule, Svinița, Kreis Mehedinți am Ufer der Donau Chindia-Turm, Târgoviște, Kreis Dâmbovița Burgruine Colț, Râu de Mori (Mühlendorf), Kreis Hunedoara Schloss Cotroceni, Bukarest Burgruine Deva, Deva, Kreis Hunedoara Burg Făgăraș, Făgăraș (Fogarasch), Kreis Brașov Fürstenhof Târgoviște (Curtea Domnească), Târgoviște, Kreis Dâmbovița Schloss Gilău, Gilău (Gela), Kreis Cluj Burg Hunedoara, Hunedoara (Eisenmarkt), Kreis Hunedoara Schloss Hunyadi, Timișoara (Temeswar), Kreis Timiș Burg Kelling (Festung Câlnic), Câlnic (dt.\", \"Kelling) Schloss Kendeffy, Sântămăria-Orlea (Liebfrauen), Kreis Hunedoara Burg Lazar (Castelul Lazar), Lăzarea, Kreis Harghita Burg Mălăieşti (auch Burg Saracinesti, rumänisch Cetatea Mălăieşti (Saracinesti)), Sălașu de Sus-Mălăieşti Burg Mikó (Castelul Mikó), Miercurea Ciuc, Kreis Harghita Schloss Mogoșoaia, Bukarest Burg Neamț, Târgu Neamț, Kreis Neamț Schloss Peleș, Sinaia, Kreis Prahova Schloss Pelișor, Sinaia, Kreis Prahova Burg Poenari, Arefu, Kreis Argeș Bauernburg Râșnov, Râșnov (Rosenau), Kreis Brașov Burg Rupea, Rupea (Reps), Kreis Brașov Burgruine Saschiz, Saschiz (Keisd), Kreis Mureș Schloss Săvârșin, Săvârșin (Soborschin), Kreis Arad Burgruine Schwarzburg (Cetatea Neagra; auch: castrum Feketewholum), Codlea (Zeiden), auf dem Zeidner Berg Burg Suceava, Suceava (Suczawa), Kreis Suceava Burg Sighișoara (lat.\"], hu: [\"Szucsáva, régi magyar nevén Szőcsvásár(románul Suceava, lengyelül Suczawa, ukránul Сучава, jiddisül שאָץ) nagyváros Romániában, Suceava megye központja.\", \"1388 és 1565 között Szucsáva volt az első központosított moldvai állam fővárosa.\"], ro: [\"Cetatea Șiria este o cetate monumente istoric (cod LMI AR-II-a-A-00650), datând din secolul al XIII-lea, zidită pe Dealul Cetății (496 m), de unde domină regiunea din jurul localității Șiria.\"], en: [\"This is a list of castles and fortresses declared historic monuments by Romania's Ministry of Culture.\"] }"
+  },
+  {
+    "id": "ro-poi-salina-targu-ocna",
+    "block": "{\n    id: \"ro-poi-salina-targu-ocna\", type: \"landmark\", parent: \"RO-BC\", coords: [26.5986, 46.2731],\n    name: { de: \"Salzbergwerk Târgu Ocna\", hu: \"Aknavásár fémbánya\", ro: \"Salina Târgu Ocna\", en: \"Târgu Ocna Salt Mine\" },\n    description: { de: \"Touristisches Salzbergwerk.\", hu: \"Turisztikai sóbánya.\", ro: \"Salină turistică.\", en: \"Tourist salt mine.\" },\n    facts: { de: [\"Târgu Ocna (deutsch veraltet Stadt Okna, ungarisch Aknavásár) ist eine Stadt im Kreis Bacău in Rumänien.\"], hu: [\"Azoknál az országoknál, ahol két oszlopban vannak a latin nevek, az első oszlop a középkori és újkori latin nevet tartalmazza.\", \"A második oszlopban az ókori latin név látható, amennyiben az eltér az újkoritól, illetve ha a település csak az ókorban létezett.\"], ro: [\"Salina Târgu Ocna este o exploatare minieră a sării aflată în stațiunea balneoclimaterică Târgu Ocna din Județul Bacău, Moldova, România.\", \"Este a treia cea mai mare salină și una din cele mai vechi din România, ce aparține Societății Naționale a Sării „Salrom“ S.A.\", \"Societatea deține și cea mai mare bază de tratament din țară, amplasată în mina Trotuș la 240 m adâncime, ce oferă condiții pentru relaxare, mișcare și tratarea afecțiunilor respiratorii.\"], en: [\"Târgu Ocna (Romanian pronunciation: [ˌtɨrɡu ˈokna]; Hungarian: Aknavásár) is a town in Bacău County, Romania.\", \"It administers two villages, Poieni and Vâlcele.\", \"The town is situated on the left bank of the Trotuș River, an affluent of the Siret, and on a branch railway which crosses the Ghimeș Pass from Moldavia into Transylvania.\"] },\n    image: \"/geo-images/romania/targu-ocna-salt-mine.webp\"\n  }",
+    "start": 395693,
+    "end": 397328,
+    "name": "{ de: \"Salzbergwerk Târgu Ocna\", hu: \"Aknavásár fémbánya\", ro: \"Salina Târgu Ocna\", en: \"Târgu Ocna Salt Mine\" }",
+    "description": "{ de: \"Touristisches Salzbergwerk.\", hu: \"Turisztikai sóbánya.\", ro: \"Salină turistică.\", en: \"Tourist salt mine.\" }",
+    "facts": "{ de: [\"Târgu Ocna (deutsch veraltet Stadt Okna, ungarisch Aknavásár) ist eine Stadt im Kreis Bacău in Rumänien.\"], hu: [\"Azoknál az országoknál, ahol két oszlopban vannak a latin nevek, az első oszlop a középkori és újkori latin nevet tartalmazza.\", \"A második oszlopban az ókori latin név látható, amennyiben az eltér az újkoritól, illetve ha a település csak az ókorban létezett.\"], ro: [\"Salina Târgu Ocna este o exploatare minieră a sării aflată în stațiunea balneoclimaterică Târgu Ocna din Județul Bacău, Moldova, România.\", \"Este a treia cea mai mare salină și una din cele mai vechi din România, ce aparține Societății Naționale a Sării „Salrom“ S.A.\", \"Societatea deține și cea mai mare bază de tratament din țară, amplasată în mina Trotuș la 240 m adâncime, ce oferă condiții pentru relaxare, mișcare și tratarea afecțiunilor respiratorii.\"], en: [\"Târgu Ocna (Romanian pronunciation: [ˌtɨrɡu ˈokna]; Hungarian: Aknavásár) is a town in Bacău County, Romania.\", \"It administers two villages, Poieni and Vâlcele.\", \"The town is situated on the left bank of the Trotuș River, an affluent of the Siret, and on a branch railway which crosses the Ghimeș Pass from Moldavia into Transylvania.\"] }"
+  },
+  {
+    "id": "ro-poi-slanic-moldova",
+    "block": "{\n    id: \"ro-poi-slanic-moldova\", type: \"landmark\", parent: \"RO-BC\", coords: [26.4386, 46.2069],\n    name: { de: \"Slănic Moldova\", hu: \"Szlanikfürdő\", ro: \"Slănic Moldova\", en: \"Slănic Moldova\" },\n    description: { de: \"Kurort mit Mineralquellen.\", hu: \"Gyógyüdülőhely ásványvízforrásokkal.\", ro: \"Stațiune cu izvoare minerale.\", en: \"Resort with mineral springs.\" },\n    facts: { de: [\"Slănic-Moldova (deutsch Moldenmarkt, ungarisch Szlanikfürdő) ist eine Kleinstadt im Kreis Bacău in der Region Westmoldau in Rumänien.\", \"Die Kleinstadt ist auch als Kurort mit kräftigen salinischen Heilquellen bei Târgu Ocna bekannt.\", \"Slănic ist auch der Name einer ehemals bedeutenden Staatssaline in der Walachei.\"], hu: [\"Szlanikfürdő (románul Slănic-Moldova) város Romániában, Moldvában, Bákó megyében.\", \"A települést „Moldova gyöngyének” is nevezik.\", \"A lakosságban a moldvai csángók vannak többségben, de mára már nagyon kevesen beszélnek magyarul.\"], ro: [], en: [] },\n    image: \"/geo-images/romania/slanic-moldova.webp\"\n  }",
+    "start": 397332,
+    "end": 398357,
+    "name": "{ de: \"Slănic Moldova\", hu: \"Szlanikfürdő\", ro: \"Slănic Moldova\", en: \"Slănic Moldova\" }",
+    "description": "{ de: \"Kurort mit Mineralquellen.\", hu: \"Gyógyüdülőhely ásványvízforrásokkal.\", ro: \"Stațiune cu izvoare minerale.\", en: \"Resort with mineral springs.\" }",
+    "facts": "{ de: [\"Slănic-Moldova (deutsch Moldenmarkt, ungarisch Szlanikfürdő) ist eine Kleinstadt im Kreis Bacău in der Region Westmoldau in Rumänien.\", \"Die Kleinstadt ist auch als Kurort mit kräftigen salinischen Heilquellen bei Târgu Ocna bekannt.\", \"Slănic ist auch der Name einer ehemals bedeutenden Staatssaline in der Walachei.\"], hu: [\"Szlanikfürdő (románul Slănic-Moldova) város Romániában, Moldvában, Bákó megyében.\", \"A települést „Moldova gyöngyének” is nevezik.\", \"A lakosságban a moldvai csángók vannak többségben, de mára már nagyon kevesen beszélnek magyarul.\"], ro: [], en: [] }"
+  },
+  {
+    "id": "ro-poi-pestera-ursilor",
+    "block": "{\n    id: \"ro-poi-pestera-ursilor\", type: \"landmark\", parent: \"RO-BH\", coords: [22.5683, 46.5531],\n    name: { de: \"Bärenhöhle\", hu: \"Medve-barlang\", ro: \"Peștera Urșilor\", en: \"Bears' Cave\" },\n    description: { de: \"Höhle mit Höhlenbärenfossilien.\", hu: \"Barlang barlangi medve fosszíliákkal.\", ro: \"Peșteră cu fosile de urși de peșteră.\", en: \"Cave with cave bear fossils.\" },\n    facts: { de: [\"Peștera Urșilor (deutsch Bärenhöhle) ist eine der bekanntesten Höhlen in Rumänien und liegt im Kreischgebiet, im Westen von Siebenbürgen, ungefähr 75 Kilometer südöstlich der Kreisstadt Oradea im Kreis Bihor in der Nähe der Gemeinde Pietroasa, Ortsteil Chișcău.\"], hu: [\"Magyarország Medve-barlang, bátonyterenyei barlang Medve-barlang, nagybörzsönyi barlang Medve-barlang, váci barlang Románia Medve-barlang, homoródalmási barlang Medve-barlang (Peştera Urşilor), kiskohi barlang Medve-barlang (Grota Urșilor), menyházi barlang Szlovákia Medve-barlang, (Medvedia jaskyňa), a Magas-Tátrában, a Jávor-völgyben Hasonló néven Medvehagymás-barlang Balatonedericsen Medvekoponyás-barlang a Parasznyán található Kő-lyuk másik elnevezése Medve-kői-sziklaüreg Bakonyszücsön Medvetorok-barlang Boldogkőújfalun Medvetükrös-barlang Szilvásváradon Nagymedve-barlang Miskolcon\"], ro: [\"Peștera Urșilor a fost descoperită în 1975, cu ocazia unei dinamitări executate la cariera de marmură din zonă.\", \"Este unul dintre principalele obiective turistice ale Munților Apuseni, ea aflându-se în județul Bihor, în imediata apropiere a localității Chișcău, comuna Pietroasa, la o altitudine de 482 m.\"], en: [] },\n    image: \"/geo-images/romania/bears.webp\"\n  }",
+    "start": 398381,
+    "end": 400021,
+    "name": "{ de: \"Bärenhöhle\", hu: \"Medve-barlang\", ro: \"Peștera Urșilor\", en: \"Bears' Cave\" }",
+    "description": "{ de: \"Höhle mit Höhlenbärenfossilien.\", hu: \"Barlang barlangi medve fosszíliákkal.\", ro: \"Peșteră cu fosile de urși de peșteră.\", en: \"Cave with cave bear fossils.\" }",
+    "facts": "{ de: [\"Peștera Urșilor (deutsch Bärenhöhle) ist eine der bekanntesten Höhlen in Rumänien und liegt im Kreischgebiet, im Westen von Siebenbürgen, ungefähr 75 Kilometer südöstlich der Kreisstadt Oradea im Kreis Bihor in der Nähe der Gemeinde Pietroasa, Ortsteil Chișcău.\"], hu: [\"Magyarország Medve-barlang, bátonyterenyei barlang Medve-barlang, nagybörzsönyi barlang Medve-barlang, váci barlang Románia Medve-barlang, homoródalmási barlang Medve-barlang (Peştera Urşilor), kiskohi barlang Medve-barlang (Grota Urșilor), menyházi barlang Szlovákia Medve-barlang, (Medvedia jaskyňa), a Magas-Tátrában, a Jávor-völgyben Hasonló néven Medvehagymás-barlang Balatonedericsen Medvekoponyás-barlang a Parasznyán található Kő-lyuk másik elnevezése Medve-kői-sziklaüreg Bakonyszücsön Medvetorok-barlang Boldogkőújfalun Medvetükrös-barlang Szilvásváradon Nagymedve-barlang Miskolcon\"], ro: [\"Peștera Urșilor a fost descoperită în 1975, cu ocazia unei dinamitări executate la cariera de marmură din zonă.\", \"Este unul dintre principalele obiective turistice ale Munților Apuseni, ea aflându-se în județul Bihor, în imediata apropiere a localității Chișcău, comuna Pietroasa, la o altitudine de 482 m.\"], en: [] }"
+  },
+  {
+    "id": "ro-poi-baile-felix",
+    "block": "{\n    id: \"ro-poi-baile-felix\", type: \"landmark\", parent: \"RO-BH\", coords: [21.9833, 46.9833],\n    name: { de: \"Thermalbad Felix\", hu: \"Félixfürdő\", ro: \"Băile Felix\", en: \"Băile Felix\" },\n    description: { de: \"Größtes Thermalbad in Rumänien.\", hu: \"Románia legnagyobb termálfürdője.\", ro: \"Cea mai mare stațiune balneară din România.\", en: \"Largest thermal spa in Romania.\" },\n    facts: { de: [\"Băile Felix (deutsch Bad Felix, ungarisch Félixfürdő) ist ein Kurort mit Thermalquellen von internationalem Ruf im Kreis Bihor im westlichen Rumänien.\", \"Die Heilquellen werden seit etwa tausend Jahren genutzt.\", \"Die Wassertemperatur beträgt 20 bis 49 °C.\"], hu: [], ro: [\"Băile Felix (în maghiară Félixfürdő) este un sat în comuna Sânmartin din județul Bihor, Crișana, România.\", \"Băile Felix se află la ca.\", \"10 km sud de municipiul Oradea.\"], en: [\"Băile Felix (Hungarian: Félixfürdő) is a thermal spa resort near the commune of Sânmartin in Bihor County, Transylvania, Romania.\", \"Băile Felix is at a close distance to Oradea, a major city in western Romania.\"] },\n    image: \"/geo-images/romania/baile-felix.webp\"\n  }",
+    "start": 400025,
+    "end": 401148,
+    "name": "{ de: \"Thermalbad Felix\", hu: \"Félixfürdő\", ro: \"Băile Felix\", en: \"Băile Felix\" }",
+    "description": "{ de: \"Größtes Thermalbad in Rumänien.\", hu: \"Románia legnagyobb termálfürdője.\", ro: \"Cea mai mare stațiune balneară din România.\", en: \"Largest thermal spa in Romania.\" }",
+    "facts": "{ de: [\"Băile Felix (deutsch Bad Felix, ungarisch Félixfürdő) ist ein Kurort mit Thermalquellen von internationalem Ruf im Kreis Bihor im westlichen Rumänien.\", \"Die Heilquellen werden seit etwa tausend Jahren genutzt.\", \"Die Wassertemperatur beträgt 20 bis 49 °C.\"], hu: [], ro: [\"Băile Felix (în maghiară Félixfürdő) este un sat în comuna Sânmartin din județul Bihor, Crișana, România.\", \"Băile Felix se află la ca.\", \"10 km sud de municipiul Oradea.\"], en: [\"Băile Felix (Hungarian: Félixfürdő) is a thermal spa resort near the commune of Sânmartin in Bihor County, Transylvania, Romania.\", \"Băile Felix is at a close distance to Oradea, a major city in western Romania.\"] }"
+  },
+  {
+    "id": "ro-poi-bistrita",
+    "block": "{\n    id: \"ro-poi-bistrita\", type: \"city\", parent: \"RO-BN\", coords: [24.5, 47.1333],\n    name: { de: \"Bistritz\", hu: \"Beszterce\", ro: \"Bistrița\", en: \"Bistrița\" },\n    description: { de: \"Historische Stadt in Siebenbürgen.\", hu: \"Történelmi város Erdélyben.\", ro: \"Oraș istoric în Transilvania.\", en: \"Historic city in Transylvania.\" },\n    facts: { de: [\"Bistrița (, deutsch Bistritz, siebenbürgisch-sächsisch Nīzn [Nösen] oder Bistriz, ungarisch Beszterce [ˈbɛstɛrt͜sɛ]) ist eine Stadt im Nordosten von Siebenbürgen im Kreis Bistrița-Năsăud in Rumänien.\", \"Bistrița ist Zentrum des Nösnerlandes.\", \"Durch die Stadt fließt der gleichnamige Fluss Bistrița.\"], hu: [], ro: [\"Bistrița (în germană Bistritz, formă arhaică Nösen; în maghiară Beszterce; în dialectul săsesc Nîsner-Bistritz, Nîzn, Bästerts, Bîsterts, Bistriz) este municipiul de reședință al județului Bistrița-Năsăud, Transilvania, România, format din localitățile componente Bistrița (reședința), Ghinda, Sărata, Sigmir, Slătinița, Unirea și Viișoara.\", \"Este și cel mai mare oraș din acest județ și al 25-lea din țară, cu o populație de 78,877 locuitori (2021).\", \"Ocupă o suprafață de 14.547 ha.\"], en: [\"Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.\", \"It is situated on the Bistrița River.\", \"The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő).\"] },\n    image: \"/geo-images/romania/bistrita.webp\"\n  }",
+    "start": 401182,
+    "end": 402946,
+    "name": "{ de: \"Bistritz\", hu: \"Beszterce\", ro: \"Bistrița\", en: \"Bistrița\" }",
+    "description": "{ de: \"Historische Stadt in Siebenbürgen.\", hu: \"Történelmi város Erdélyben.\", ro: \"Oraș istoric în Transilvania.\", en: \"Historic city in Transylvania.\" }",
+    "facts": "{ de: [\"Bistrița (, deutsch Bistritz, siebenbürgisch-sächsisch Nīzn [Nösen] oder Bistriz, ungarisch Beszterce [ˈbɛstɛrt͜sɛ]) ist eine Stadt im Nordosten von Siebenbürgen im Kreis Bistrița-Năsăud in Rumänien.\", \"Bistrița ist Zentrum des Nösnerlandes.\", \"Durch die Stadt fließt der gleichnamige Fluss Bistrița.\"], hu: [], ro: [\"Bistrița (în germană Bistritz, formă arhaică Nösen; în maghiară Beszterce; în dialectul săsesc Nîsner-Bistritz, Nîzn, Bästerts, Bîsterts, Bistriz) este municipiul de reședință al județului Bistrița-Năsăud, Transilvania, România, format din localitățile componente Bistrița (reședința), Ghinda, Sărata, Sigmir, Slătinița, Unirea și Viișoara.\", \"Este și cel mai mare oraș din acest județ și al 25-lea din țară, cu o populație de 78,877 locuitori (2021).\", \"Ocupă o suprafață de 14.547 ha.\"], en: [\"Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.\", \"It is situated on the Bistrița River.\", \"The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő).\"] }"
+  },
+  {
+    "id": "ro-poi-parcul-rodnei",
+    "block": "{\n    id: \"ro-poi-parcul-rodnei\", type: \"landmark\", parent: \"RO-BN\", coords: [24.8, 47.5333],\n    name: { de: \"Nationalpark Rodna-Gebirge\", hu: \"Radnai-havasok Nemzeti Park\", ro: \"Parcul Național Munții Rodnei\", en: \"Rodna Mountains National Park\" },\n    description: { de: \"Höchstes Gebirge der Ostkarpaten.\", hu: \"A Keleti-Kárpátok legmagasabb hegysége.\", ro: \"Cei mai înalți munți din Carpații Orientali.\", en: \"Highest mountains of the Eastern Carpathians.\" },\n    facts: { de: [\"i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.\", \"Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.\", \"Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171.\"], hu: [\"Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait.\"], ro: [\"Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.\", \"Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \\\"Omul și Biosfera\\\".\"], en: [\"The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava.\"] },\n    image: \"/geo-images/romania/rodna-mountains-national-park.webp\"\n  }",
+    "start": 402950,
+    "end": 404781,
+    "name": "{ de: \"Nationalpark Rodna-Gebirge\", hu: \"Radnai-havasok Nemzeti Park\", ro: \"Parcul Național Munții Rodnei\", en: \"Rodna Mountains National Park\" }",
+    "description": "{ de: \"Höchstes Gebirge der Ostkarpaten.\", hu: \"A Keleti-Kárpátok legmagasabb hegysége.\", ro: \"Cei mai înalți munți din Carpații Orientali.\", en: \"Highest mountains of the Eastern Carpathians.\" }",
+    "facts": "{ de: [\"i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.\", \"Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.\", \"Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171.\"], hu: [\"Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait.\"], ro: [\"Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.\", \"Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \\\"Omul și Biosfera\\\".\"], en: [\"The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava.\"] }"
+  },
+  {
+    "id": "ro-poi-lacul-colibita",
+    "block": "{\n    id: \"ro-poi-lacul-colibita\", type: \"lake\", parent: \"RO-BN\", coords: [24.8833, 47.1667],\n    name: { de: \"Colibița-See\", hu: \"Kolibica-tó\", ro: \"Lacul Colibița\", en: \"Colibița Lake\" },\n    description: { de: \"Stausee mit sauberer Bergluft.\", hu: \"Víztározó tiszta hegyi levegővel.\", ro: \"Lac de acumulare cu aer montan curat.\", en: \"Reservoir with clean mountain air.\" },\n    facts: { de: [], hu: [], ro: [\"Lacul Colibița este un lac artificial de acumulare din Munții Călimani, județul Bistrița-Năsăud.\", \"Lacul a fost creat prin construirea barajului Colibița pe cursul râului Bistrița, baraj amenajat în perioada 1977 - 1991 cu scop hidroenergetic, de alimentarea cu apă a localităților din aval, a industriei, irigații și regularizare a debitului apelor râului Bistrița.\", \"Lacul Colibița are suprafața de 270 ha, lungimea de 13 km și volumul de 65 mil m3 fiind situat la o altitudine de 900 m.\"], en: [\"Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.\", \"It is situated on the Bistrița River.\", \"The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő).\"] },\n    image: \"/geo-images/romania/colibita-lake.webp\"\n  }",
+    "start": 404785,
+    "end": 406297,
+    "name": "{ de: \"Colibița-See\", hu: \"Kolibica-tó\", ro: \"Lacul Colibița\", en: \"Colibița Lake\" }",
+    "description": "{ de: \"Stausee mit sauberer Bergluft.\", hu: \"Víztározó tiszta hegyi levegővel.\", ro: \"Lac de acumulare cu aer montan curat.\", en: \"Reservoir with clean mountain air.\" }",
+    "facts": "{ de: [], hu: [], ro: [\"Lacul Colibița este un lac artificial de acumulare din Munții Călimani, județul Bistrița-Năsăud.\", \"Lacul a fost creat prin construirea barajului Colibița pe cursul râului Bistrița, baraj amenajat în perioada 1977 - 1991 cu scop hidroenergetic, de alimentarea cu apă a localităților din aval, a industriei, irigații și regularizare a debitului apelor râului Bistrița.\", \"Lacul Colibița are suprafața de 270 ha, lungimea de 13 km și volumul de 65 mil m3 fiind situat la o altitudine de 900 m.\"], en: [\"Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.\", \"It is situated on the Bistrița River.\", \"The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő).\"] }"
+  },
+  {
+    "id": "ro-poi-botosani",
+    "block": "{\n    id: \"ro-poi-botosani\", type: \"city\", parent: \"RO-BT\", coords: [26.6664, 47.7408],\n    name: { de: \"Botoschan\", hu: \"Botosán\", ro: \"Botoșani\", en: \"Botoșani\" },\n    description: { de: \"Kulturstadt im Norden der Moldau.\", hu: \"Kulturális város Észak-Moldvában.\", ro: \"Oraș cultural din nordul Moldovei.\", en: \"Cultural city in northern Moldavia.\" },\n    facts: { de: [\"Botoșani ([] deutsch Botoschan oder auch Bottuschan) ist eine Stadt im Nordosten von Rumänien und liegt im gleichnamigen Kreis Botoșani.\", \"Die Stadt ist umgeben von den Ostkarpaten, der Republik Moldau und der Ukraine.\"], hu: [], ro: [\"Botoșani este municipiul de reședință al județului cu același nume, Moldova, România.\", \"Se află în Câmpia Jijiei, la o altitudine de 170 m deasupra nivelului mării.\", \"Are o suprafață de 41,36 km².\"], en: [\"Botoșani (Romanian pronunciation: [botoˈʃanʲ] ) is the capital city of Botoșani County, in the northern part of Moldavia, Romania.\", \"Today, it is best known as the birthplace of many celebrated Romanians, including Mihai Eminescu, Nicolae Iorga and Grigore Antipa.\"] },\n    image: \"/geo-images/romania/botosani.webp\"\n  }",
+    "start": 406324,
+    "end": 407463,
+    "name": "{ de: \"Botoschan\", hu: \"Botosán\", ro: \"Botoșani\", en: \"Botoșani\" }",
+    "description": "{ de: \"Kulturstadt im Norden der Moldau.\", hu: \"Kulturális város Észak-Moldvában.\", ro: \"Oraș cultural din nordul Moldovei.\", en: \"Cultural city in northern Moldavia.\" }",
+    "facts": "{ de: [\"Botoșani ([] deutsch Botoschan oder auch Bottuschan) ist eine Stadt im Nordosten von Rumänien und liegt im gleichnamigen Kreis Botoșani.\", \"Die Stadt ist umgeben von den Ostkarpaten, der Republik Moldau und der Ukraine.\"], hu: [], ro: [\"Botoșani este municipiul de reședință al județului cu același nume, Moldova, România.\", \"Se află în Câmpia Jijiei, la o altitudine de 170 m deasupra nivelului mării.\", \"Are o suprafață de 41,36 km².\"], en: [\"Botoșani (Romanian pronunciation: [botoˈʃanʲ] ) is the capital city of Botoșani County, in the northern part of Moldavia, Romania.\", \"Today, it is best known as the birthplace of many celebrated Romanians, including Mihai Eminescu, Nicolae Iorga and Grigore Antipa.\"] }"
+  },
+  {
+    "id": "ro-poi-casa-eminescu",
+    "block": "{\n    id: \"ro-poi-casa-eminescu\", type: \"historical\", parent: \"RO-BT\", coords: [26.55, 47.7667],\n    name: { de: \"Eminescu Gedenkhaus\", hu: \"Eminescu Emlékház\", ro: \"Casa Memorială Mihai Eminescu\", en: \"Mihai Eminescu Memorial House\" },\n    description: { de: \"Geburtshaus des Nationaldichters.\", hu: \"A nemzeti költő szülőháza.\", ro: \"Casa unde s-a născut poetul național.\", en: \"Birthplace of the national poet.\" },\n    facts: { de: [\"Dies ist eine Liste von Literaturmuseen und literarischen Gedenkstätten, sortiert nach Ländern und Regionen.\", \"Siehe auch: Liste von Schriftstellermuseen, sortiert nach den Nachnamen der Schriftsteller.\"], hu: [\"Veronica Micle, eredeti nevén Ana Câmpeanu (Naszód, 1850.\", \"április 22.\", \"– Văratec, 1889.\"], ro: [\"Casa memorială Mihai Eminescu de la Ipotești este un muzeu memorial amenajat în casa în care a trăit poetul Mihai Eminescu (1850-1889) în satul Ipotești din județul Botoșani.\", \"Memorialul Ipotești - Centrul Național de Studii „Mihai Eminescu” se află pe Lista Monumentelor Istorice din județul Botoșani din anul 2004, având codul BT-IV-a-B-02047, fiind format din două obiective: Casa memorială \\\"Mihai Eminescu\\\" - datând din sec.\", \"al XIX-lea și având codul BT-IV-m-B-02047.01 Mormintele familiei Eminescu - datând din sec.\"], en: [\"Mihai Eminescu (Romanian pronunciation: [miˈhaj emiˈnesku] ; born Mihail Eminovici; 15 January [O.S.\", \"3 January] 1850 – 15 June [O.S.\", \"3 June] 1889) was a Romanian Romantic poet, novelist, and journalist from Moldavia, generally regarded as the most famous and influential Romanian poet.\"] },\n    image: \"/geo-images/romania/ro-poi-casa-eminescu.webp\"\n  }",
+    "start": 407467,
+    "end": 409115,
+    "name": "{ de: \"Eminescu Gedenkhaus\", hu: \"Eminescu Emlékház\", ro: \"Casa Memorială Mihai Eminescu\", en: \"Mihai Eminescu Memorial House\" }",
+    "description": "{ de: \"Geburtshaus des Nationaldichters.\", hu: \"A nemzeti költő szülőháza.\", ro: \"Casa unde s-a născut poetul național.\", en: \"Birthplace of the national poet.\" }",
+    "facts": "{ de: [\"Dies ist eine Liste von Literaturmuseen und literarischen Gedenkstätten, sortiert nach Ländern und Regionen.\", \"Siehe auch: Liste von Schriftstellermuseen, sortiert nach den Nachnamen der Schriftsteller.\"], hu: [\"Veronica Micle, eredeti nevén Ana Câmpeanu (Naszód, 1850.\", \"április 22.\", \"– Văratec, 1889.\"], ro: [\"Casa memorială Mihai Eminescu de la Ipotești este un muzeu memorial amenajat în casa în care a trăit poetul Mihai Eminescu (1850-1889) în satul Ipotești din județul Botoșani.\", \"Memorialul Ipotești - Centrul Național de Studii „Mihai Eminescu” se află pe Lista Monumentelor Istorice din județul Botoșani din anul 2004, având codul BT-IV-a-B-02047, fiind format din două obiective: Casa memorială \\\"Mihai Eminescu\\\" - datând din sec.\", \"al XIX-lea și având codul BT-IV-m-B-02047.01 Mormintele familiei Eminescu - datând din sec.\"], en: [\"Mihai Eminescu (Romanian pronunciation: [miˈhaj emiˈnesku] ; born Mihail Eminovici; 15 January [O.S.\", \"3 January] 1850 – 15 June [O.S.\", \"3 June] 1889) was a Romanian Romantic poet, novelist, and journalist from Moldavia, generally regarded as the most famous and influential Romanian poet.\"] }"
+  },
+  {
+    "id": "ro-poi-lacul-stanca",
+    "block": "{\n    id: \"ro-poi-lacul-stanca\", type: \"lake\", parent: \"RO-BT\", coords: [27.2167, 47.8167],\n    name: { de: \"Stânca-Costești See\", hu: \"Stânca-Costești-tó\", ro: \"Lacul Stânca-Costești\", en: \"Stânca-Costești Lake\" },\n    description: { de: \"Großer Stausee am Fluss Prut.\", hu: \"Nagy víztározó a Prut folyón.\", ro: \"Mare lac de acumulare pe râul Prut.\", en: \"Large reservoir on the Prut river.\" },\n    facts: { de: [\"Der Drum național 24C (rumänisch für „Nationalstraße 24C“, kurz DN24C) ist eine Hauptstraße in Rumänien.\"], hu: [], ro: [\"Lacul Stânca Costești este o arie protejată (arie de protecție specială avifaunistică — SPA) din România întinsă pe o suprafață de 2.192,8 ha, integral pe uscat.\"], en: [\"The Stânca–Costești Dam (Romanian: Barajul Stânca–Costești) is a dam on the Prut River and a checkpoint between Moldova and Romania.\", \"The dam is located between Costești (Moldova) and Stânca (Romania).\"] },\n    image: \"/geo-images/romania/stanca-costesti-lake.webp\"\n  }",
+    "start": 409119,
+    "end": 410098,
+    "name": "{ de: \"Stânca-Costești See\", hu: \"Stânca-Costești-tó\", ro: \"Lacul Stânca-Costești\", en: \"Stânca-Costești Lake\" }",
+    "description": "{ de: \"Großer Stausee am Fluss Prut.\", hu: \"Nagy víztározó a Prut folyón.\", ro: \"Mare lac de acumulare pe râul Prut.\", en: \"Large reservoir on the Prut river.\" }",
+    "facts": "{ de: [\"Der Drum național 24C (rumänisch für „Nationalstraße 24C“, kurz DN24C) ist eine Hauptstraße in Rumänien.\"], hu: [], ro: [\"Lacul Stânca Costești este o arie protejată (arie de protecție specială avifaunistică — SPA) din România întinsă pe o suprafață de 2.192,8 ha, integral pe uscat.\"], en: [\"The Stânca–Costești Dam (Romanian: Barajul Stânca–Costești) is a dam on the Prut River and a checkpoint between Moldova and Romania.\", \"The dam is located between Costești (Moldova) and Stânca (Romania).\"] }"
+  }
+]

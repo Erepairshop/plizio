@@ -1,0 +1,222 @@
+{
+  "city-rostock-extra": {
+    "desc_de": "Rostock, die einwohnerreichste Stadt in Mecklenburg-Vorpommern, ist ein faszinierendes Zentrum der Hansegeschichte an der Ostseeküste. Die Stadt, die im Jahr 1218 das Lübische Stadtrecht erhielt, erstreckt sich entlang des Flusses Warnow bis zu dessen Mündung im Seebad Warnemünde. Rostock ist berühmt für seine gut erhaltene Backsteingotik, darunter die imposante Marienkirche mit ihrer astronomischen Uhr aus dem 15. Jahrhundert. Wirtschaftlich spielt der Seehafen eine entscheidende Rolle für den Fährverkehr und den Güterumschlag im Ostseeraum. Zudem beherbergt die Stadt die Universität Rostock, die 1419 gegründet wurde und somit die älteste Hochschule im Ostseeraum darstellt. Jedes Jahr lockt die Hanse Sail, eines der weltweit größten maritimen Feste für Traditionssegler, über eine Million Besucher in die Stadt.",
+    "desc_hu": "Rostock, Mecklenburg-Elő-Pomeránia legnépesebb városa, a Hanza-szövetség történetének lenyűgöző központja a Balti-tenger partján. A város, amely 1218-ban kapta meg a lübecki városjogot, a Warnow folyó mentén húzódik egészen annak torkolatáig, Warnemünde tengerparti üdülőhelyéig. Rostock híres a jó állapotban fennmaradt téglagótikus építészetéről, köztük az impozáns Mária-templomról, amelynek 15. századi csillagászati órája világhírű. Gazdaságilag a tengeri kikötő döntő szerepet játszik a kompforgalomban és az árufuvarozásban a balti-tengeri térségben. Emellett a város ad otthont az 1419-ben alapított Rostocki Egyetemnek, amely a legrégebbi felsőoktatási intézmény a Balti-tenger térségében. A Hanse Sail, a világ egyik legnagyobb hagyományőrző vitorlásfesztiválja, évente több mint egymillió látogatót vonz.",
+    "facts_de": [
+      "Rostock hat etwa 210.000 Einwohner und ist damit die größte Stadt des Bundeslandes.",
+      "Die Universität Rostock wurde im Jahr 1419 als erste Universität im Ostseeraum gegründet.",
+      "Die Astronomische Uhr in der Marienkirche funktioniert seit 1472 nahezu ununterbrochen.",
+      "Das Seebad Warnemünde ist ein wichtiger Anlaufhafen für Kreuzfahrtschiffe in Deutschland.",
+      "Die Hanse Sail findet jährlich im August statt und zieht über eine Million Besucher an.",
+      "Rostock wurde 1218 offiziell das Stadtrecht nach lübischem Vorbild verliehen.",
+      "Der Rostocker Seehafen ist ein bedeutender Knotenpunkt für den Fährverkehr nach Skandinavien."
+    ],
+    "facts_hu": [
+      "Rostock lakossága körülbelül 210 000 fő, amivel a tartomány legnagyobb városa.",
+      "A Rostocki Egyetemet 1419-ben alapították, így a Balti-tenger térségének legrégebbi egyeteme.",
+      "A Mária-templomban található csillagászati óra 1472 óta szinte folyamatosan működik.",
+      "Warnemünde tengerparti üdülőhelye a tengerjáró hajók egyik legfontosabb németországi kikötője.",
+      "A Hanse Sail fesztivált minden év augusztusában rendezik meg, és több mint egymillió látogatót vonz.",
+      "Rostock 1218-ban kapta meg hivatalosan a városjogot lübecki mintára.",
+      "A rostocki tengeri kikötő a Skandináviába irányuló kompforgalom egyik fő csomópontja."
+    ]
+  },
+  "city-stralsund-extra": {
+    "desc_de": "Stralsund, malerisch am Strelasund gelegen, gilt als das Tor zur Insel Rügen und ist eine der bedeutendsten historischen Hansestädte Deutschlands. Gegründet im Jahr 1234, erlangte die Stadt schnell Reichtum und Macht innerhalb der Hanse, was sich noch heute in der prachtvollen Backsteingotik widerspiegelt. Aufgrund ihres außergewöhnlich gut erhaltenen mittelalterlichen Stadtkerns mit dem prächtigen Rathaus und den markanten Pfarrkirchen wurde die Altstadt 2002 in die UNESCO-Welterbeliste aufgenommen. Nach dem Dreißigjährigen Krieg stand Stralsund fast 200 Jahre lang unter schwedischer Herrschaft, was deutliche kulturelle Spuren hinterließ. Heute ist die Stadt nicht nur ein beliebtes Touristenziel, sondern beherbergt mit dem Ozeaneum, einem hochmodernen Meeresmuseum, auch eine überregional bekannte wissenschaftliche und kulturelle Einrichtung.",
+    "desc_hu": "A festői Strelasund partján fekvő Stralsund a Rügen szigetének kapuja, és Németország egyik legjelentősebb történelmi Hanza-városa. Az 1234-ben alapított város gyorsan meggazdagodott és megerősödött a Hanza-szövetségen belül, ami ma is visszatükröződik a pompás téglagótikus épületekben. A kivételesen jó állapotban fennmaradt középkori történelmi központját, a lenyűgöző városházával és a jellegzetes plébániatemplomokkal együtt 2002-ben felvették az UNESCO világörökségi listájára. A harmincéves háború után Stralsund csaknem 200 évig svéd uralom alatt állt, ami mély kulturális nyomokat hagyott. Ma a város nemcsak népszerű turisztikai célpont, hanem itt található az Ozeaneum is, egy ultramodern tengerészeti múzeum, amely országosan is elismert tudományos és kulturális intézmény.",
+    "facts_de": [
+      "Stralsund wurde im Jahr 1234 das lübische Stadtrecht verliehen.",
+      "Die historische Altstadt gehört seit 2002 zum UNESCO-Weltkulturerbe.",
+      "Von 1648 bis 1815 gehörte die Stadt zum Königreich Schweden.",
+      "Das Ozeaneum in Stralsund wurde 2010 als Europäisches Museum des Jahres ausgezeichnet.",
+      "Die Rügenbrücke verbindet Stralsund mit der Insel Rügen über den Strelasund.",
+      "Das Stralsunder Rathaus gilt als eines der profanbaukünstlerischen Meisterwerke der Backsteingotik.",
+      "Mit dem Stralsunder Frieden 1370 endete der Krieg zwischen der Hanse und Dänemark."
+    ],
+    "facts_hu": [
+      "Stralsund 1234-ben kapta meg a lübecki városjogot.",
+      "A történelmi óváros 2002 óta az UNESCO világörökség része.",
+      "A város 1648 és 1815 között a Svéd Királysághoz tartozott.",
+      "A stralsundi Ozeaneum 2010-ben elnyerte az Év Európai Múzeuma díjat.",
+      "A Rügenbrücke köti össze Stralsundot a Rügen szigettel a Strelasund felett.",
+      "A stralsundi városháza a téglagótika egyik legkiválóbb világi építészeti remekműve.",
+      "Az 1370-es stralsundi békével ért véget a Hanza és Dánia közötti háború."
+    ]
+  },
+  "island-ruegen-extra": {
+    "desc_de": "Rügen ist mit einer Fläche von 926 Quadratkilometern die größte und zugleich bevölkerungsreichste Insel Deutschlands. Gelegen vor der pommerschen Ostseeküste in Mecklenburg-Vorpommern, fasziniert die Insel durch eine außergewöhnlich abwechslungsreiche Landschaft. Weltberühmt sind die blendend weißen Kreidefelsen im Nationalpark Jasmund, die vom Romantik-Maler Caspar David Friedrich im 19. Jahrhundert unsterblich gemacht wurden. Neben den imposanten Steilküsten bietet Rügen kilometerlange, feinsandige Strände, dichte Buchenwälder und mondäne Seebäder wie Binz und Sellin, die für ihre elegante Bäderarchitektur bekannt sind. Die Insel ist über den Rügendamm und die moderne Rügenbrücke mit der Hansestadt Stralsund auf dem Festland verbunden. Rügen spielt seit dem späten 19. Jahrhundert eine zentrale Rolle im deutschen Badetourismus.",
+    "desc_hu": "Rügen a maga 926 négyzetkilométeres területével Németország legnagyobb és egyben legnépesebb szigete. A pomerániai balti-tengeri partoknál, Mecklenburg-Elő-Pomeránia tartományban fekvő sziget rendkívül változatos tájaival nyűgözi le a látogatókat. Világhírűek a Jasmund Nemzeti Park vakítóan fehér krétasziklái, amelyeket Caspar David Friedrich romantikus festő halhatatlanná tett a 19. században. Az impozáns meredek partok mellett Rügen kilométereken át elnyúló, finom homokos strandokat, sűrű bükkerdőket és olyan elegáns tengerparti üdülőhelyeket kínál, mint Binz és Sellin, amelyek fürdőépítészetükről ismertek. A szigetet a Rügendamm és a modern Rügenbrücke köti össze a szárazföldön fekvő Stralsund Hanza-várossal. Rügen a 19. század vége óta központi szerepet játszik a német fürdőturizmusban.",
+    "facts_de": [
+      "Rügen ist mit 926 Quadratkilometern die größte Insel Deutschlands.",
+      "Der Königsstuhl ist mit 118 Metern der höchste Kreidefelsen im Nationalpark Jasmund.",
+      "Die alten Buchenwälder auf Rügen gehören zum UNESCO-Weltnaturerbe.",
+      "Kap Arkona markiert den nördlichsten Punkt der Insel und der ehemaligen DDR.",
+      "Die dampfbetriebene Schmalspurbahn 'Rasender Roland' fährt seit 1895 auf Rügen.",
+      "Das Seebad Prora wurde in der NS-Zeit geplant und ist heute ein gigantischer, teils sanierter Gebäudekomplex.",
+      "Die Rügenbrücke, fertiggestellt im Jahr 2007, ist mit 2,8 Kilometern die längste Brücke Deutschlands."
+    ],
+    "facts_hu": [
+      "Rügen 926 négyzetkilométeres területével Németország legnagyobb szigete.",
+      "A Königsstuhl (Királyszék) a maga 118 méterével a Jasmund Nemzeti Park legmagasabb krétasziklája.",
+      "A rügeni ősbükkösök az UNESCO világörökség részét képezik.",
+      "Az Arkona-fok jelöli a sziget és az egykori NDK legészakibb pontját.",
+      "A 'Rasender Roland' nevű gőzhajtású keskeny nyomtávú vasút 1895 óta közlekedik Rügenen.",
+      "A prora-i üdülőt a náci korszakban tervezték, ma gigantikus, részben felújított épületkomplexum.",
+      "A 2007-ben átadott Rügenbrücke 2,8 kilométeres hosszával Németország leghosszabb hídja."
+    ]
+  },
+  "island-usedom-extra": {
+    "desc_de": "Usedom, malerisch im Mündungsgebiet der Oder in die Ostsee gelegen, ist eine grenzüberschreitende Insel, deren westlicher Teil zu Deutschland und östlicher Teil zu Polen gehört. Mit durchschnittlich 1906 Sonnenstunden im Jahr wird Usedom oft als die sonnenreichste Region Deutschlands bezeichnet. Die Insel beeindruckt mit einem 42 Kilometer langen, durchgehenden Sandstrand, an dem sich die berühmten Kaiserbäder Ahlbeck, Heringsdorf und Bansin aneinanderreihen. Diese Badeorte sind geprägt von der eleganten Bäderarchitektur des 19. Jahrhunderts, die wohlhabende Berliner während der Kaiserzeit anlockte. Eine weitere historische Besonderheit befindet sich in Peenemünde, wo während des Zweiten Weltkriegs unter Wernher von Braun Raketen entwickelt wurden, darunter die V2. Heute ist Usedom ein Paradies für Naturfreunde, Radfahrer und Wellnessurlauber.",
+    "desc_hu": "Az Odera Balti-tengerbe való torkolatánál festői környezetben fekvő Usedom egy határon átnyúló sziget, amelynek nyugati része Németországhoz, keleti része pedig Lengyelországhoz tartozik. Az évi átlagosan 1906 napsütéses órával Usedomot gyakran Németország legnaposabb régiójaként emlegetik. A sziget lenyűgöző, 42 kilométer hosszú, egybefüggő homokos strandjával büszkélkedhet, amely mentén a híres császári üdülőhelyek, Ahlbeck, Heringsdorf és Bansin sorakoznak. Ezeket az üdülőhelyeket a 19. századi elegáns fürdőépítészet jellemzi, amely a császárkorban a tehetős berliniek kedvelt célpontja volt. Egy másik történelmi különlegesség Peenemündében található, ahol a második világháború alatt Wernher von Braun irányításával rakétákat, köztük a V2-t is fejlesztették. Ma Usedom a természetkedvelők, a kerékpárosok és a wellness szerelmeseinek paradicsoma.",
+    "facts_de": [
+      "Usedom ist mit 445 Quadratkilometern die zweitgrößte Insel Deutschlands.",
+      "Rund 80 Prozent der Inselfläche gehören zu Deutschland, 20 Prozent zu Polen.",
+      "Die Seebrücke in Heringsdorf ist mit 508 Metern die längste in Kontinentaleuropa.",
+      "Mit durchschnittlich 1906 Sonnenstunden jährlich ist sie die sonnenreichste Insel des Landes.",
+      "Die Kaiserbäder Ahlbeck, Heringsdorf und Bansin sind für ihre Bäderarchitektur berühmt.",
+      "Das Historisch-Technische Museum Peenemünde dokumentiert die Entwicklung der V2-Rakete.",
+      "Die längste grenzüberschreitende Strandpromenade Europas verbindet Bansin mit dem polnischen Swinemünde."
+    ],
+    "facts_hu": [
+      "Usedom 445 négyzetkilométeres területével Németország második legnagyobb szigete.",
+      "A sziget területének mintegy 80 százaléka Németországhoz, 20 százaléka pedig Lengyelországhoz tartozik.",
+      "A heringsdorfi móló a maga 508 méterével a leghosszabb a kontinentális Európában.",
+      "Évi átlagosan 1906 napsütéses órájával az ország legnaposabb szigete.",
+      "Ahlbeck, Heringsdorf és Bansin császári üdülőhelyek híresek fürdőépítészetükről.",
+      "A peenemündei Történelmi-Műszaki Múzeum a V2-es rakéta fejlesztését mutatja be.",
+      "Európa leghosszabb határon átnyúló tengerparti sétánya köti össze Bansint a lengyelországi Świnoujściével."
+    ]
+  },
+  "city-schwerin-extra": {
+    "desc_de": "Schwerin, eingebettet in eine malerische Wald- und Seenlandschaft, ist die Landeshauptstadt von Mecklenburg-Vorpommern. Obwohl sie die kleinste Landeshauptstadt Deutschlands ist, besticht sie durch ihren immensen historischen und kulturellen Reichtum. Das absolute Wahrzeichen der Stadt ist das Schweriner Schloss, ein architektonisches Meisterwerk des romantischen Historismus, das majestätisch auf einer Insel im Schweriner See thront. Das Schloss diente jahrhundertelang als Residenz der mecklenburgischen Herzöge und Großherzöge und beherbergt heute den Landtag von Mecklenburg-Vorpommern. Das harmonische Stadtbild wird von klassizistischen Repräsentativbauten, dem gotischen Dom St. Marien und St. Johannis sowie großzügigen Gartenanlagen geprägt. Im Jahr 1160 erhielt Schwerin von Heinrich dem Löwen das Stadtrecht und blickt somit auf eine lange und stolze Geschichte als Zentrum politischer Macht zurück.",
+    "desc_hu": "A festői erdők és tavak vidékébe ágyazott Schwerin Mecklenburg-Elő-Pomeránia tartomány fővárosa. Bár Németország legkisebb tartományi fővárosa, lenyűgöző történelmi és kulturális gazdagsággal büszkélkedhet. A város abszolút jelképe a schwerini kastély, a romantikus historizmus építészeti remekműve, amely fenségesen magasodik egy szigeten a Schwerini-tóban. A kastély évszázadokon át a mecklenburgi hercegek és nagyhercegek rezidenciájaként szolgált, ma pedig a Mecklenburg-Elő-Pomeránia tartományi parlamentjének ad otthont. A harmonikus városképet klasszicista reprezentatív épületek, a gótikus Szent Mária és Szent János dóm, valamint tágas kertek határozzák meg. Schwerin 1160-ban kapott városjogot Oroszlán Henriktől, így hosszú és büszke múltra tekinthet vissza a politikai hatalom központjaként.",
+    "facts_de": [
+      "Schwerin ist mit rund 95.000 Einwohnern die kleinste Landeshauptstadt in Deutschland.",
+      "Die Stadt wurde im Jahr 1160 von Heinrich dem Löwen offiziell gegründet.",
+      "Das Schweriner Schloss wird oft als das 'Neuschwanstein des Nordens' bezeichnet.",
+      "Der Schweriner See ist der viertgrößte See Deutschlands.",
+      "Etwa ein Drittel des gesamten Stadtgebiets besteht aus Wasserflächen.",
+      "Der Turm des Schweriner Doms ist 117,5 Meter hoch und bietet einen weiten Ausblick.",
+      "Seit 1990 ist das Schloss der Sitz des Landtages von Mecklenburg-Vorpommern."
+    ],
+    "facts_hu": [
+      "Schwerin mintegy 95 000 lakosával Németország legkisebb tartományi fővárosa.",
+      "A várost hivatalosan 1160-ban alapította Oroszlán Henrik.",
+      "A schwerini kastélyt gyakran az 'Észak Neuschwansteinjének' is nevezik.",
+      "A Schwerini-tó Németország negyedik legnagyobb tava.",
+      "A teljes városterület mintegy egyharmada vízfelület.",
+      "A schwerini dóm tornya 117,5 méter magas, és messzire nyúló kilátást nyújt.",
+      "1990 óta a kastély ad otthont Mecklenburg-Elő-Pomeránia tartományi parlamentjének."
+    ]
+  },
+  "lake-mueritz-extra": {
+    "desc_de": "Die Müritz, deren Name aus dem Slawischen stammt und so viel wie 'kleines Meer' bedeutet, ist der größte See, der vollständig innerhalb der deutschen Staatsgrenzen liegt. Das Gewässer im Zentrum der Mecklenburgischen Seenplatte erstreckt sich über eine Fläche von beeindruckenden 117 Quadratkilometern. Das Ostufer der Müritz ist Teil des Müritz-Nationalparks, eines der wichtigsten Naturschutzgebiete Deutschlands, das durch ausgedehnte Kiefern- und Buchenwälder, Moore und Schilfzonen besticht. Diese unberührte Natur ist ein Paradies für Vogelbeobachter, da hier seltene Arten wie Seeadler, Fischadler und Kraniche in großer Zahl brüten und rasten. Neben der Bedeutung für den Naturschutz ist die Müritz ein Magnet für Wassersportler; Segler, Kanuten und Hausboot-Urlauber schätzen das ausgedehnte, vernetzte Wassersystem, das über Flüsse und Kanäle bis nach Berlin reicht.",
+    "desc_hu": "A Müritz, amelynek neve a szláv nyelvből származik és 'kis tengert' jelent, a legnagyobb olyan tó, amely teljes egészében Németország határain belül fekszik. A Mecklenburgi-tóvidék szívében található víztömeg lenyűgöző, 117 négyzetkilométeres területen terül el. A Müritz keleti partja a Müritz Nemzeti Park része, amely Németország egyik legfontosabb természetvédelmi területe, kiterjedt fenyő- és bükkerdőkkel, lápokkal és nádasokkal. Ez az érintetlen természet a madármegfigyelők paradicsoma, mivel ritka fajok, például rétisasok, halászsasok és darvak fészkelnek és pihennek itt nagy számban. Természetvédelmi jelentősége mellett a Müritz a vízisportok szerelmeseinek mágnesként vonzza; a vitorlázók, kenusok és lakóhajós nyaralók értékelik a kiterjedt, hálózatba kapcsolt vízrendszert, amely folyókon és csatornákon keresztül egészen Berlinig ér.",
+    "facts_de": [
+      "Die Müritz ist mit 117 Quadratkilometern der größte vollständig innerdeutsche Binnensee.",
+      "Ihre maximale Tiefe beträgt an der tiefsten Stelle etwa 31 Meter.",
+      "Der See ist über die Havel-Oder-Wasserstraße direkt mit Berlin verbunden.",
+      "Der angrenzende Müritz-Nationalpark wurde 1990 zum Schutz der einzigartigen Natur gegründet.",
+      "Der See beherbergt eine der höchsten Dichten an brütenden Fischadlern in Deutschland.",
+      "Die Hauptorte am Ufer der Müritz sind Waren (Müritz), Röbel und Rechlin.",
+      "Das Ostufer ist sehr flach, während das Westufer tiefere Rinnen und Buchten aufweist."
+    ],
+    "facts_hu": [
+      "A Müritz a maga 117 négyzetkilométerével a legnagyobb, teljes egészében belföldi német tó.",
+      "Legnagyobb mélysége a legmélyebb pontján körülbelül 31 méter.",
+      "A tavat a Havel-Odera vízi út köti össze közvetlenül Berlinnel.",
+      "A szomszédos Müritz Nemzeti Parkot 1990-ben alapították az egyedülálló természet védelme érdekében.",
+      "A tó ad otthont a költő halászsasok egyik legnagyobb sűrűségének Németországban.",
+      "A Müritz partján található főbb települések Waren (Müritz), Röbel és Rechlin.",
+      "A keleti part nagyon sekély, míg a nyugati parton mélyebb árkok és öblök találhatók."
+    ]
+  },
+  "river-warnow-extra": {
+    "desc_de": "Die Warnow, ein etwa 155 Kilometer langer Fluss im Herzen von Mecklenburg-Vorpommern, ist ein landschaftlich und wirtschaftlich bedeutsames Fließgewässer der Region. Sie entspringt in einem kleinen Moorgebiet nahe Grebbin und bahnt sich ihren Weg durch malerische, teils unberührte Naturlandschaften und Endmoränentäler nach Norden. Besonders bemerkenswert ist das Durchbruchstal bei Sternberg, wo der Fluss ein für Norddeutschland ungewöhnlich tief eingeschnittenes Tal geformt hat. Auf ihrem Weg durchfließt die Warnow Bützow und Schwaan, bevor sie schließlich in Rostock zum schiffbaren Fluss wird. Hier verbreitert sie sich dramatisch und bildet die Unterwarnow, die als natürlicher und tiefwasserreicher Hafen dient, bevor sie bei Warnemünde in die Ostsee mündet. Die Warnow ist nicht nur ein beliebtes Revier für Wasserwanderer und Kanuten, sondern war historisch die Lebensader für die Entwicklung Rostocks zur bedeutenden Hansestadt.",
+    "desc_hu": "A Warnow, egy körülbelül 155 kilométer hosszú folyó Mecklenburg-Elő-Pomeránia szívében, a régió tájképi és gazdasági szempontból is jelentős vízfolyása. Egy kis mocsaras területen ered Grebbin közelében, és észak felé tartva festői, részben érintetlen természeti tájakon és végmoréna-völgyeken halad keresztül. Különösen figyelemre méltó a Sternberg melletti áttöréses völgy, ahol a folyó egy észak-németországi viszonylatban szokatlanul mélyen bevágódott völgyet alakított ki. Útja során átszeli Bützow és Schwaan városát, mielőtt Rostocknál végül hajózható folyóvá válik. Itt drámaian kiszélesedik, és létrehozza az Unterwarnow-t, amely természetes és mélyvizű kikötőként szolgál, mielőtt Warnemündénél a Balti-tengerbe torkollik. A Warnow nemcsak a vízi túrázók és kenusok kedvelt területe, hanem történelmileg is a rostocki Hanza-város fejlődésének éltető ereje volt.",
+    "facts_de": [
+      "Die Warnow hat eine Gesamtlänge von rund 155 Kilometern.",
+      "Sie ist der zweitlängste Fluss, der vollständig in Mecklenburg-Vorpommern fließt.",
+      "Das Warnow-Durchbruchstal bei Sternberg steht seit 1935 unter Naturschutz.",
+      "In Rostock verläuft unter der Warnow der 2003 eröffnete Warnowtunnel.",
+      "Der Flussname hat slawische Wurzeln und bedeutet 'Krähenfluss'.",
+      "Die Warnow entwässert ein Einzugsgebiet von über 3.300 Quadratkilometern.",
+      "Die Unterwarnow vor Rostock ist tief genug, um Hochseeschiffe aufzunehmen."
+    ],
+    "facts_hu": [
+      "A Warnow teljes hossza körülbelül 155 kilométer.",
+      "Ez a második leghosszabb folyó, amely teljes egészében Mecklenburg-Elő-Pomerániában folyik.",
+      "A Sternberg melletti Warnow-áttörés völgye 1935 óta természetvédelem alatt áll.",
+      "Rostockban a folyó alatt halad a 2003-ban átadott Warnow-alagút.",
+      "A folyó neve szláv gyökerű, jelentése 'Varjú-folyó'.",
+      "A Warnow több mint 3300 négyzetkilométeres vízgyűjtő területet ürít le.",
+      "A Rostock előtti Unterwarnow elég mély ahhoz, hogy tengerjáró hajókat is fogadjon."
+    ]
+  },
+  "port-wismar-extra": {
+    "desc_de": "Wismar, an der südlichen Spitze der Wismarer Bucht in der Ostsee gelegen, ist eine Stadt, die ihre hanseatische und schwedische Vergangenheit bis heute lebendig hält. Die 1229 gegründete Stadt gehörte zu den florierendsten Mitgliedern der Hanse. Wismar ist bekannt für sein bemerkenswert geschlossenes Stadtbild der Backsteingotik, weshalb die Altstadt 2002 gemeinsam mit Stralsund zum UNESCO-Weltkulturerbe erklärt wurde. Der riesige, ein Hektar große Marktplatz mit der charakteristischen 'Wasserkunst' aus dem 16. Jahrhundert bildet das Herzstück der Altstadt. Ein faszinierendes Kapitel der Stadtgeschichte ist die Zugehörigkeit zum schwedischen Königreich von 1648 bis 1903, was jährlich mit dem farbenprächtigen 'Schwedenfest' gefeiert wird. Der alte Stadthafen ist heute ein idyllischer Anziehungspunkt, während der Seehafen weiterhin wirtschaftliche Bedeutung für den Holz- und Güterumschlag besitzt.",
+    "desc_hu": "A Balti-tenger Wismari-öblének déli csücskén fekvő Wismar olyan város, amely a mai napig életben tartja hanza és svéd múltját. Az 1229-ben alapított város a Hanza-szövetség egyik legvirágzóbb tagja volt. Wismar a téglagótika rendkívül egységes városképéről ismert, ezért az óvárost 2002-ben Stralsunddal együtt az UNESCO világörökség részévé nyilvánították. A hatalmas, egyhektáros piactér, a 16. századból származó jellegzetes 'Wasserkunst' vízművel az óváros szíve. A város történetének lenyűgöző fejezete a Svéd Királysághoz tartozás 1648 és 1903 között, amit évente a színpompás 'Svéd Fesztivállal' (Schwedenfest) ünnepelnek meg. A régi városi kikötő ma idilli vonzerejű hely, miközben a tengeri kikötő továbbra is gazdasági jelentőséggel bír a fa- és árufuvarozásban.",
+    "facts_de": [
+      "Der Marktplatz von Wismar gehört mit 10.000 Quadratmetern zu den größten in Norddeutschland.",
+      "Wismar stand ab dem Westfälischen Frieden 1648 bis 1903 offiziell unter schwedischer Herrschaft.",
+      "Die Altstadt wurde 2002 gemeinsam mit Stralsund in die UNESCO-Welterbeliste aufgenommen.",
+      "Die St.-Georgen-Kirche besaß einen der massivsten Baukörper der Backsteingotik, bevor sie im 2. Weltkrieg stark beschädigt wurde.",
+      "Das Gebäude 'Alter Schwede' von 1380 ist das älteste bekannte Bürgerhaus der Stadt.",
+      "Die 'Wasserkunst' auf dem Marktplatz versorgte die Stadt jahrhundertelang mit Trinkwasser.",
+      "Der Wismarer Hafen war im Mittelalter ein wichtiger Umschlagplatz für Heringe und Bier."
+    ],
+    "facts_hu": [
+      "A wismari piactér a maga 10 000 négyzetméterével Észak-Németország egyik legnagyobbja.",
+      "Wismar az 1648-as vesztfáliai béke után 1903-ig hivatalosan svéd uralom alatt állt.",
+      "Az óvárost 2002-ben Stralsunddal együtt felvették az UNESCO világörökségi listájára.",
+      "A Szent György-templom a téglagótika egyik legmasszívabb építménye volt, mielőtt a II. világháborúban súlyosan megsérült.",
+      "Az 1380-ból származó 'Alter Schwede' épület a város legrégebbi ismert polgárháza.",
+      "A piactéren található 'Wasserkunst' évszázadokon át ivóvízzel látta el a várost.",
+      "A wismari kikötő a középkorban a hering és a sör fontos rakodóhelye volt."
+    ]
+  },
+  "forest-darss-extra": {
+    "desc_de": "Der Darß bildet den mittleren Teil der reizvollen Halbinsel Fischland-Darß-Zingst an der Ostseeküste Mecklenburg-Vorpommerns. Diese Landschaft wurde durch Sandablagerungen und Meeresströmungen über Jahrtausende geformt. Der Großteil des Darß wird vom dichten, urwüchsigen Darßwald bedeckt, der eine Fläche von etwa 5.800 Hektar einnimmt und ein wesentlicher Bestandteil des Nationalparks Vorpommersche Boddenlandschaft ist. Diese Region ist berühmt für ihren wildromantischen Weststrand, an dem vom Wind geformte Kiefern, die sogenannten 'Windflüchter', steil über den Sandstrand hinausragen. Einst ein isoliertes Rückzugsgebiet für Seefahrer und Fischer, ist der Darß heute bekannt für seine reetgedeckten Häuser mit den bunten, traditionell geschnitzten Darßer Türen. Im Herbst wird die Boddenlandschaft zum Schauplatz eines spektakulären Naturschauspiels, wenn zehntausende Kraniche auf ihrem Vogelzug hier rasten.",
+    "desc_hu": "A Darß alkotja a mecklenburg-elő-pomerániai Balti-tenger partján fekvő festői Fischland-Darß-Zingst félsziget középső részét. Ezt a tájat évezredek alatt a homoklerakódások és az óceáni áramlatok alakították ki. A Darß nagy részét a sűrű, ősi Darßwald erdő borítja, amely mintegy 5800 hektáron terül el, és szerves része az Elő-pomerániai Bodden-táj Nemzeti Parknak. Ez a régió a vadregényes nyugati strandjáról (Weststrand) híres, ahol a szél által formált fenyők, az úgynevezett 'szélmenekülők' (Windflüchter) meredeken nyúlnak a homokos part fölé. Az egykor a tengerészek és halászok elszigetelt menedékének számító Darß ma már ismert a nádfedeles házairól és a színes, hagyományosan faragott darß-i ajtóiról. Ősszel a Bodden-táj egy látványos természeti esemény helyszínévé válik, amikor is több tízezer daru pihen meg itt madárvonulása során.",
+    "facts_de": [
+      "Der Darßwald nimmt mit 5.800 Hektar einen Großteil der Halbinsel ein.",
+      "Der Weststrand wurde aufgrund seiner Wildheit oft zu einem der schönsten Strände Europas gewählt.",
+      "Der Leuchtturm Darßer Ort, erbaut 1848, steht an der nordwestlichsten Spitze der Halbinsel.",
+      "Der Darß gehört vollständig zum Nationalpark Vorpommersche Boddenlandschaft.",
+      "Traditionelle, kunstvoll bemalte 'Darßer Türen' sind ein kulturelles Markenzeichen der Region.",
+      "Die sogenannten 'Windflüchter' sind Bäume, deren Wuchs durch den starken Westwind einseitig geprägt ist.",
+      "Im Herbst rasten bis zu 70.000 Kraniche in den seichten Boddengewässern rund um den Darß."
+    ],
+    "facts_hu": [
+      "A Darßwald 5800 hektárjával a félsziget nagy részét elfoglalja.",
+      "A vadregényes Weststrandot (Nyugati strand) gyakran Európa legszebb strandjai közé választják.",
+      "Az 1848-ban épült Darßer Ort világítótorony a félsziget legészaknyugatibb csücskén áll.",
+      "A Darß teljes egészében az Elő-pomerániai Bodden-táj Nemzeti Parkhoz tartozik.",
+      "A hagyományos, művészien festett 'darß-i ajtók' a régió kulturális védjegyei.",
+      "A 'szélmenekülők' (Windflüchter) olyan fák, amelyek növekedését az erős nyugati szél egyoldalúan alakította.",
+      "Ősszel akár 70 000 daru is megpihen a Darß körüli sekély boddeni vizekben."
+    ]
+  },
+  "historical-greifswald-extra": {
+    "desc_de": "Die Universitäts- und Hansestadt Greifswald, idyllisch am Fluss Ryck nahe der Mündung in die Ostsee gelegen, ist eine Stadt, in der Wissenschaft und mittelalterliche Geschichte eng miteinander verwoben sind. Die im Jahr 1456 gegründete Universität Greifswald ist die zweitälteste im Ostseeraum und prägt das geistige und kulturelle Leben der Stadt bis heute entscheidend. Greifswald war die Geburtsstadt des bedeutendsten deutschen Malers der Romantik, Caspar David Friedrich, dessen Motive oft die heimische Landschaft und die nahen Klosterruinen von Eldena zeigten. Den historischen Stadtkern dominieren eindrucksvolle Giebelhäuser der Backsteingotik sowie drei große Stadtkirchen, die von den Einheimischen liebevoll 'Der dicke Marie', 'Der lange Nikolaus' und 'Der kleine Jakob' genannt werden. Der Museumshafen mit seinen traditionellen Segelschiffen unterstreicht das tief verwurzelte maritime Erbe der Stadt.",
+    "desc_hu": "Az egyetemi és Hanza-város Greifswald, amely idillikus környezetben fekszik a Ryck folyó partján, a Balti-tengeri torkolat közelében, egy olyan hely, ahol a tudomány és a középkori történelem szorosan összefonódik. Az 1456-ban alapított Greifswaldi Egyetem a Balti-tenger térségének második legrégebbi egyeteme, és a mai napig meghatározó szerepet játszik a város szellemi és kulturális életében. Greifswald a romantika legjelentősebb német festőjének, Caspar David Friedrichnek a szülővárosa, akinek motívumai gyakran a helyi tájat és a közeli eldenai kolostorromokat ábrázolták. A történelmi városközpontot lenyűgöző téglagótikus oromzatos házak, valamint három nagy városi templom uralja, amelyeket a helyiek szeretettel 'Kövér Máriának', 'Hosszú Miklósnak' és 'Kis Jakabnak' neveznek. A múzeumkikötő a hagyományos vitorlásokkal alátámasztja a város mélyen gyökerező tengeri örökségét.",
+    "facts_de": [
+      "Die Universität Greifswald wurde 1456 gegründet und ist eine der ältesten in Mitteleuropa.",
+      "Greifswald ist der Geburtsort des berühmten Romantik-Malers Caspar David Friedrich (geboren 1774).",
+      "Die Stadt war wie Stralsund und Wismar fast 200 Jahre lang Teil des Königreichs Schweden.",
+      "Der Dom St. Nikolai (der 'lange Nikolaus') besitzt einen knapp 100 Meter hohen Turm.",
+      "Greifswald blieb während des Zweiten Weltkriegs dank kampfloser Übergabe weitgehend unzerstört.",
+      "Der Museumshafen Greifswald beherbergt eine der größten Flotten historischer Arbeitsschiffe Deutschlands.",
+      "In Greifswald befindet sich das Max-Planck-Institut für Plasmaphysik mit dem Forschungsreaktor Wendelstein 7-X."
+    ],
+    "facts_hu": [
+      "A Greifswaldi Egyetemet 1456-ban alapították, és Közép-Európa egyik legrégebbi egyeteme.",
+      "Greifswald a híres romantikus festő, Caspar David Friedrich (született 1774-ben) szülőhelye.",
+      "A város, akárcsak Stralsund és Wismar, közel 200 évig a Svéd Királyság része volt.",
+      "A Szent Miklós-dóm (a 'hosszú Miklós') majdnem 100 méter magas toronnyal rendelkezik.",
+      "Greifswald a harc nélküli átadásnak köszönhetően nagyrészt sértetlen maradt a második világháború alatt.",
+      "A greifswaldi múzeumkikötő Németország egyik legnagyobb történelmi munkahajó-flottájának ad otthont.",
+      "Greifswaldban található a Max Planck Plazmafizikai Intézet a Wendelstein 7-X kutatóreaktorral."
+    ]
+  }
+}

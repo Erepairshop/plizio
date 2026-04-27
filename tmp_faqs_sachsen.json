@@ -1,0 +1,1112 @@
+{
+    "city-chemnitz-extra": {
+        "de": [
+            {
+                "q": "Welchen Namen trug Chemnitz früher?",
+                "a": "Zwischen 1953 und 1990 hieß die Stadt Karl-Marx-Stadt."
+            },
+            {
+                "q": "Was ist das Karl-Marx-Monument?",
+                "a": "Ein riesiger bronzener Kopf von Karl Marx, der als Wahrzeichen der Stadt gilt."
+            },
+            {
+                "q": "Was ist das 'Sächsische Manchester'?",
+                "a": "Ein Beiname für Chemnitz im 19. Jahrhundert aufgrund seiner starken Textilindustrie."
+            },
+            {
+                "q": "Gibt es ein bekanntes Industriemuseum?",
+                "a": "Ja, das Sächsische Industriemuseum zeigt die Technikgeschichte der Region."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi volt Chemnitz korábbi neve?",
+                "a": "1953 és 1990 között a város neve Karl-Marx-Stadt volt."
+            },
+            {
+                "q": "Mi az a Karl-Marx-emlékmű?",
+                "a": "Karl Marx hatalmas bronzfeje, amely a város jelképe."
+            },
+            {
+                "q": "Mi az a 'Szász Manchester'?",
+                "a": "Chemnitz beceneve a 19. században az erős textilipara miatt."
+            },
+            {
+                "q": "Van ismert ipari múzeum?",
+                "a": "Igen, a Szász Ipari Múzeum mutatja be a régió technikatörténetét."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce nume a purtat Chemnitz înainte?",
+                "a": "Între 1953 și 1990, orașul s-a numit Karl-Marx-Stadt."
+            },
+            {
+                "q": "Ce este Monumentul Karl Marx?",
+                "a": "Un cap uriaș de bronz al lui Karl Marx, considerat simbolul orașului."
+            },
+            {
+                "q": "Ce este 'Manchester-ul Saxon'?",
+                "a": "O poreclă pentru Chemnitz în secolul al XIX-lea datorită industriei sale textile puternice."
+            },
+            {
+                "q": "Există un muzeu industrial cunoscut?",
+                "a": "Da, Muzeul Industrial Saxon prezintă istoria tehnologiei din regiune."
+            }
+        ],
+        "en": [
+            {
+                "q": "What was the former name of Chemnitz?",
+                "a": "Between 1953 and 1990, the city was named Karl-Marx-Stadt."
+            },
+            {
+                "q": "What is the Karl Marx Monument?",
+                "a": "A giant bronze head of Karl Marx, considered a landmark of the city."
+            },
+            {
+                "q": "What is the 'Saxon Manchester'?",
+                "a": "A nickname for Chemnitz in the 19th century due to its strong textile industry."
+            },
+            {
+                "q": "Is there a well-known industrial museum?",
+                "a": "Yes, the Saxon Museum of Industry displays the technical history of the region."
+            }
+        ]
+    },
+    "city-zwickau-extra": {
+        "de": [
+            {
+                "q": "Welches berühmte Auto wurde in Zwickau gebaut?",
+                "a": "Der Trabant, das bekannteste Auto der DDR."
+            },
+            {
+                "q": "Was ist das August Horch Museum?",
+                "a": "Ein Automobilmuseum, das die Geschichte von Horch, Audi und dem Trabant zeigt."
+            },
+            {
+                "q": "Welcher Komponist wurde in Zwickau geboren?",
+                "a": "Robert Schumann wurde 1810 in Zwickau geboren."
+            },
+            {
+                "q": "Gibt es ein Denkmal für Robert Schumann?",
+                "a": "Ja, ein Denkmal und sein Geburtshaus, das heute ein Museum ist."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Melyik híres autót gyártották Zwickauban?",
+                "a": "A Trabant, az NDK legismertebb autója."
+            },
+            {
+                "q": "Mi az August Horch Múzeum?",
+                "a": "Egy autómúzeum, amely a Horch, az Audi és a Trabant történetét mutatja be."
+            },
+            {
+                "q": "Melyik zeneszerző született Zwickauban?",
+                "a": "Robert Schumann 1810-ben született Zwickauban."
+            },
+            {
+                "q": "Van emlékmű Robert Schumannnak?",
+                "a": "Igen, egy emlékmű és a szülőháza, amely ma múzeum."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce mașină celebră a fost construită în Zwickau?",
+                "a": "Trabant, cea mai cunoscută mașină din RDG."
+            },
+            {
+                "q": "Ce este Muzeul August Horch?",
+                "a": "Un muzeu auto care prezintă istoria Horch, Audi și a Trabantului."
+            },
+            {
+                "q": "Ce compozitor s-a născut în Zwickau?",
+                "a": "Robert Schumann s-a născut în Zwickau în 1810."
+            },
+            {
+                "q": "Există un monument pentru Robert Schumann?",
+                "a": "Da, un monument și casa sa natală, care astăzi este muzeu."
+            }
+        ],
+        "en": [
+            {
+                "q": "Which famous car was built in Zwickau?",
+                "a": "The Trabant, the most famous car of the GDR."
+            },
+            {
+                "q": "What is the August Horch Museum?",
+                "a": "An automobile museum displaying the history of Horch, Audi, and the Trabant."
+            },
+            {
+                "q": "Which composer was born in Zwickau?",
+                "a": "Robert Schumann was born in Zwickau in 1810."
+            },
+            {
+                "q": "Is there a monument to Robert Schumann?",
+                "a": "Yes, a monument and his birthplace, which is now a museum."
+            }
+        ]
+    },
+    "mnt-erzgebirge-extra": {
+        "de": [
+            {
+                "q": "Warum heißt das Erzgebirge so?",
+                "a": "Wegen der reichen Erzvorkommen (Silber, Zinn, Eisen), die dort jahrhundertelang abgebaut wurden."
+            },
+            {
+                "q": "Was ist die 'Erzgebirgische Volkskunst'?",
+                "a": "Bekannte Holzschnitzereien wie Nussknacker, Räuchermänner und Schwibbögen."
+            },
+            {
+                "q": "Was ist die Bergparade?",
+                "a": "Ein traditioneller Umzug von Bergleuten in historischen Uniformen, meist in der Adventszeit."
+            },
+            {
+                "q": "Welcher ist der höchste Berg auf deutscher Seite?",
+                "a": "Der Fichtelberg mit 1215 Metern."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miért hívják Érchegységnek?",
+                "a": "A gazdag érclelőhelyek (ezüst, ón, vas) miatt, amelyeket évszázadokon át bányásztak ott."
+            },
+            {
+                "q": "Mi az 'érchegységi népművészet'?",
+                "a": "Ismert fafaragások, mint a diótörők, füstölő figurák és gyertyatartók (Schwibbögen)."
+            },
+            {
+                "q": "Mi a bányászfelvonulás?",
+                "a": "Bányászok hagyományos felvonulása történelmi egyenruhában, általában advent idején."
+            },
+            {
+                "q": "Melyik a legmagasabb hegy a német oldalon?",
+                "a": "A Fichtelberg, 1215 méterrel."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De ce se numește Erzgebirge (Munții Metaliferi)?",
+                "a": "Datorită zăcămintelor bogate de minereu (argint, cositor, fier) care au fost extrase acolo timp de secole."
+            },
+            {
+                "q": "Ce este 'Arta Populară din Erzgebirge'?",
+                "a": "Cunoscute sculpturi în lemn, cum ar fi spărgătoarele de nuci, figurinele fumătoare și arcadele luminoase."
+            },
+            {
+                "q": "Ce este parada minerilor?",
+                "a": "O paradă tradițională a minerilor în uniforme istorice, de obicei în perioada Adventului."
+            },
+            {
+                "q": "Care este cel mai înalt munte de pe partea germană?",
+                "a": "Fichtelberg, având 1215 metri."
+            }
+        ],
+        "en": [
+            {
+                "q": "Why is it called the Ore Mountains?",
+                "a": "Because of the rich ore deposits (silver, tin, iron) that were mined there for centuries."
+            },
+            {
+                "q": "What is 'Ore Mountain Folk Art'?",
+                "a": "Famous woodcarvings such as nutcrackers, incense smokers, and candle arches."
+            },
+            {
+                "q": "What is the miner's parade?",
+                "a": "A traditional parade of miners in historic uniforms, usually held during the Advent season."
+            },
+            {
+                "q": "Which is the highest mountain on the German side?",
+                "a": "The Fichtelberg at 1215 meters."
+            }
+        ]
+    },
+    "mnt-saechsische-schweiz-extra": {
+        "de": [
+            {
+                "q": "Was ist die Bastei?",
+                "a": "Eine berühmte Felsformation mit einer steinernen Brücke und weitem Blick über das Elbtal."
+            },
+            {
+                "q": "Kann man in der Sächsischen Schweiz klettern?",
+                "a": "Ja, es ist eines der traditionsreichsten Klettergebiete der Welt (Sächsisches Bergsteigen)."
+            },
+            {
+                "q": "Was ist die Festung Königstein?",
+                "a": "Eine der größten Bergfestungen Europas, auf einem Tafelberg gelegen."
+            },
+            {
+                "q": "Wie ist das Gebirge entstanden?",
+                "a": "Durch Erosion von Ablagerungen eines kreidezeitlichen Meeres."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi az a Bastei?",
+                "a": "Egy híres sziklaképződmény kőhíddal és tágas kilátással az Elba-völgyre."
+            },
+            {
+                "q": "Lehet mászni a Szász Svájcban?",
+                "a": "Igen, ez a világ egyik legnagyobb hagyományú mászóterülete (szász hegymászás)."
+            },
+            {
+                "q": "Mi a Königstein erőd?",
+                "a": "Európa egyik legnagyobb hegyi erődje, egy táblahegyen található."
+            },
+            {
+                "q": "Hogyan keletkezett a hegység?",
+                "a": "Egy kréta kori tenger üledékeinek eróziója révén."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este Bastei?",
+                "a": "O faimoasă formațiune stâncoasă cu un pod de piatră și o vedere largă asupra văii Elbei."
+            },
+            {
+                "q": "Se poate face alpinism în Elveția Saxonă?",
+                "a": "Da, este una dintre cele mai tradiționale zone de alpinism din lume (alpinismul saxon)."
+            },
+            {
+                "q": "Ce este Fortăreața Königstein?",
+                "a": "Una dintre cele mai mari cetăți montane din Europa, situată pe un munte tabular."
+            },
+            {
+                "q": "Cum s-a format masivul muntos?",
+                "a": "Prin eroziunea depozitelor unei mări din perioada cretacică."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is the Bastei?",
+                "a": "A famous rock formation with a stone bridge and wide views over the Elbe Valley."
+            },
+            {
+                "q": "Can you go climbing in Saxon Switzerland?",
+                "a": "Yes, it is one of the world's most traditional climbing areas (Saxon climbing)."
+            },
+            {
+                "q": "What is Königstein Fortress?",
+                "a": "One of Europe's largest hilltop fortresses, situated on a table mountain."
+            },
+            {
+                "q": "How was the mountain range formed?",
+                "a": "Through the erosion of deposits from a Cretaceous sea."
+            }
+        ]
+    },
+    "river-elbe-sachsen-extra": {
+        "de": [
+            {
+                "q": "Woher kommt die Elbe?",
+                "a": "Sie entspringt im Riesengebirge in Tschechien (Labe)."
+            },
+            {
+                "q": "Was ist das Elbtal in Dresden?",
+                "a": "Ein kulturell bedeutender Flussabschnitt, der früher UNESCO-Weltkulturerbe war."
+            },
+            {
+                "q": "Kann man auf der Elbe mit historischen Schiffen fahren?",
+                "a": "Ja, die Sächsische Dampfschifffahrt betreibt die älteste und größte Raddampferflotte der Welt."
+            },
+            {
+                "q": "Welche Gefahr geht oft von der Elbe aus?",
+                "a": "Starke Hochwasser können weite Teile der angrenzenden Gebiete überfluten."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Honnan ered az Elba?",
+                "a": "A csehországi Óriás-hegységben ered (Labe)."
+            },
+            {
+                "q": "Mi az a drezdai Elba-völgy?",
+                "a": "Egy kulturálisan jelentős folyószakasz, amely korábban UNESCO világörökség volt."
+            },
+            {
+                "q": "Lehet az Elbán történelmi hajókkal utazni?",
+                "a": "Igen, a Szász Gőzhajózás üzemelteti a világ legrégebbi és legnagyobb lapátkerekes gőzhajó-flottáját."
+            },
+            {
+                "q": "Milyen veszély forrása gyakran az Elba?",
+                "a": "Az erős áradások elönthetik a környező területek nagy részét."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De unde vine Elba?",
+                "a": "Izvorăște în Munții Karkonosze din Cehia (Labe)."
+            },
+            {
+                "q": "Ce este Valea Elbei din Dresda?",
+                "a": "O secțiune de râu importantă din punct de vedere cultural, care a fost anterior în Patrimoniul UNESCO."
+            },
+            {
+                "q": "Se poate naviga pe Elba cu nave istorice?",
+                "a": "Da, Compania Saxonă de Navigație cu Abur operează cea mai veche și mai mare flotă de nave cu pápale din lume."
+            },
+            {
+                "q": "Ce pericol provine adesea de la Elba?",
+                "a": "Inundațiile puternice pot acoperi părți vaste din zonele adiacente."
+            }
+        ],
+        "en": [
+            {
+                "q": "Where does the Elbe come from?",
+                "a": "It originates in the Giant Mountains in the Czech Republic (Labe)."
+            },
+            {
+                "q": "What is the Elbe Valley in Dresden?",
+                "a": "A culturally significant stretch of the river that was formerly a UNESCO World Heritage site."
+            },
+            {
+                "q": "Can you travel on the Elbe with historic ships?",
+                "a": "Yes, Saxon Steamship Navigation operates the world's oldest and largest fleet of paddle-wheel steamers."
+            },
+            {
+                "q": "What danger often comes from the Elbe?",
+                "a": "Strong floods can inundate large parts of the adjacent areas."
+            }
+        ]
+    },
+    "hist-meissen-extra": {
+        "de": [
+            {
+                "q": "Wann wurde die Porzellanmanufaktur gegründet?",
+                "a": "Im Jahr 1710 auf Befehl von August dem Starken."
+            },
+            {
+                "q": "Was ist das Meissener Markenzeichen?",
+                "a": "Die gekreuzten blauen Schwerter."
+            },
+            {
+                "q": "Was ist die Albrechtsburg?",
+                "a": "Ein Schloss in Meißen, das als der erste deutsche Schlossbau gilt."
+            },
+            {
+                "q": "Gibt es einen Dom in Meißen?",
+                "a": "Ja, der Meißner Dom St. Johannis und St. Donatus ist ein bedeutendes Bauwerk der Gotik."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mikor alapították a porcelánmanufaktúrát?",
+                "a": "1710-ben, Erős Ágost parancsára."
+            },
+            {
+                "q": "Mi a meisseni védjegy?",
+                "a": "A keresztezett kék kardok."
+            },
+            {
+                "q": "Mi az az Albrechtsburg?",
+                "a": "Egy kastély Meissenben, amelyet az első német kastélyépületnek tartanak."
+            },
+            {
+                "q": "Van dóm Meissenben?",
+                "a": "Igen, a meisseni Szent János és Szent Donát dóm a gótika egyik jelentős épülete."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Când a fost fondată manufactura de porțelan?",
+                "a": "În anul 1710, din ordinul lui August cel Puternic."
+            },
+            {
+                "q": "Care este emblema Meissen?",
+                "a": "Săbiile albastre încrucișate."
+            },
+            {
+                "q": "Ce este Albrechtsburg?",
+                "a": "Un castel din Meissen, considerat prima construcție de castel din Germania."
+            },
+            {
+                "q": "Există o catedrală în Meissen?",
+                "a": "Da, Catedrala din Meissen Sf. Ioan și Sf. Donatus este o construcție gotică importantă."
+            }
+        ],
+        "en": [
+            {
+                "q": "When was the porcelain manufactory founded?",
+                "a": "In 1710 by order of Augustus the Strong."
+            },
+            {
+                "q": "What is the Meissen trademark?",
+                "a": "The crossed blue swords."
+            },
+            {
+                "q": "What is the Albrechtsburg?",
+                "a": "A castle in Meissen considered the first German castle building."
+            },
+            {
+                "q": "Is there a cathedral in Meissen?",
+                "a": "Yes, Meissen Cathedral of St. John and St. Donatus is a significant Gothic building."
+            }
+        ]
+    },
+    "landmark-voelkerschlachtdenkmal-extra": {
+        "de": [
+            {
+                "q": "Was geschah in der Völkerschlacht?",
+                "a": "Die verbündeten Heere Russlands, Preußens, Österreichs und Schwedens besiegten Napoleon."
+            },
+            {
+                "q": "Kann man das Denkmal besteigen?",
+                "a": "Ja, es gibt eine Aussichtsplattform an der Spitze mit weitem Blick über Leipzig."
+            },
+            {
+                "q": "Was ist die Krypta?",
+                "a": "Ein runder Raum im Inneren mit acht Statuen, die als 'Totenwächter' bekannt sind."
+            },
+            {
+                "q": "Gibt es dort eine gute Akustik?",
+                "a": "Ja, das Denkmal ist für seine außergewöhnliche Akustik und Chorkonzerte bekannt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi történt a népek csatájában?",
+                "a": "Oroszország, Poroszország, Ausztria és Svédország szövetséges seregei legyőzték Napóleont."
+            },
+            {
+                "q": "Fel lehet menni az emlékműbe?",
+                "a": "Igen, a tetején van egy kilátóterasz, ahonnan tágas kilátás nyílik Lipcsére."
+            },
+            {
+                "q": "Mi az a kripta?",
+                "a": "Egy belső kerek terem nyolc szoborral, amelyeket 'halottőröknek' hívnak."
+            },
+            {
+                "q": "Jó ott az akusztika?",
+                "a": "Igen, az emlékmű híres a rendkívüli akusztikájáról és a kóruskoncertekről."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce s-a întâmplat în Bătălia Națiunilor?",
+                "a": "Armatele aliate ale Rusiei, Prusiei, Austriei și Suediei l-au învins pe Napoleon."
+            },
+            {
+                "q": "Se poate urca în monument?",
+                "a": "Da, există o platformă de observație în vârf, cu o vedere largă asupra orașului Leipzig."
+            },
+            {
+                "q": "Ce este cripta?",
+                "a": "O încăpere circulară în interior cu opt statui cunoscute sub numele de 'păzitori ai morților'."
+            },
+            {
+                "q": "Există o acustică bună acolo?",
+                "a": "Da, monumentul este cunoscut pentru acustica sa extraordinară și concertele corale."
+            }
+        ],
+        "en": [
+            {
+                "q": "What happened in the Battle of the Nations?",
+                "a": "The allied armies of Russia, Prussia, Austria, and Sweden defeated Napoleon."
+            },
+            {
+                "q": "Can you climb the monument?",
+                "a": "Yes, there is an observation platform at the top with a wide view over Leipzig."
+            },
+            {
+                "q": "What is the crypt?",
+                "a": "A circular room inside with eight statues known as 'watchers of the dead'."
+            },
+            {
+                "q": "Is there good acoustics there?",
+                "a": "Yes, the monument is known for its extraordinary acoustics and choral concerts."
+            }
+        ]
+    },
+    "landmark-augustusbruecke-extra": {
+        "de": [
+            {
+                "q": "Wer gab der Brücke ihren Namen?",
+                "a": "August der Starke, Kurfürst von Sachsen."
+            },
+            {
+                "q": "Welche Baustile vereint die heutige Brücke?",
+                "a": "Sie wurde im frühen 20. Jahrhundert neu gebaut, lehnt sich aber an historische Formen an."
+            },
+            {
+                "q": "Ist die Brücke für Autos befahrbar?",
+                "a": "Nach der Sanierung ist sie hauptsächlich für Straßenbahnen, Radfahrer und Fußgänger reserviert."
+            },
+            {
+                "q": "Was sieht man von der Brücke aus?",
+                "a": "Den berühmten Canaletto-Blick auf die Dresdner Altstadt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Ki adta a híd nevét?",
+                "a": "Erős Ágost, szász választófejedelem."
+            },
+            {
+                "q": "Milyen építészeti stílusokat ötvöz a mai híd?",
+                "a": "A 20. század elején épült újjá, de történelmi formákhoz igazodik."
+            },
+            {
+                "q": "Hajózható a híd autóval?",
+                "a": "A felújítás után főként villamosok, kerékpárosok és gyalogosok számára van fenntartva."
+            },
+            {
+                "q": "Mit lehet látni a hídról?",
+                "a": "A híres Canaletto-kilátást a drezdai óvárosra."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cine a dat numele podului?",
+                "a": "August cel Puternic, elector al Saxoniei."
+            },
+            {
+                "q": "Ce stiluri arhitecturale îmbină podul actual?",
+                "a": "A fost reconstruit la începutul secolului XX, dar respectă formele istorice."
+            },
+            {
+                "q": "Este podul circulabil pentru mașini?",
+                "a": "După renovare, este rezervat în principal tramvaielor, bicicliștilor și pietonilor."
+            },
+            {
+                "q": "Ce se vede de pe pod?",
+                "a": "Faimoasa vedere Canaletto asupra centrului vechi din Dresda."
+            }
+        ],
+        "en": [
+            {
+                "q": "Who gave the bridge its name?",
+                "a": "Augustus the Strong, Elector of Saxony."
+            },
+            {
+                "q": "What architectural styles does the current bridge combine?",
+                "a": "It was rebuilt in the early 20th century but follows historical designs."
+            },
+            {
+                "q": "Is the bridge accessible for cars?",
+                "a": "After renovation, it is primarily reserved for trams, cyclists, and pedestrians."
+            },
+            {
+                "q": "What can you see from the bridge?",
+                "a": "The famous Canaletto view of Dresden's old town."
+            }
+        ]
+    },
+    "city-goerlitz-extra": {
+        "de": [
+            {
+                "q": "Warum nennt man Görlitz 'Görliwood'?",
+                "a": "Wegen der vielen internationalen Filmproduktionen, die dort gedreht wurden."
+            },
+            {
+                "q": "Liegt Görlitz direkt an der Grenze?",
+                "a": "Ja, die Lausitzer Neiße bildet die Grenze zu Polen."
+            },
+            {
+                "q": "Was ist das Heilige Grab in Görlitz?",
+                "a": "Eine originalgetreue Nachbildung der Grabeskirche in Jerusalem aus dem Mittelalter."
+            },
+            {
+                "q": "Welche Baustile findet man in Görlitz?",
+                "a": "Einen einzigartigen Mix aus Spätgotik, Renaissance, Barock und Gründerzeit."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miért hívják Görlitzet 'Görliwoodnak'?",
+                "a": "A sok ott forgatott nemzetközi filmprodukció miatt."
+            },
+            {
+                "q": "Görlitz közvetlenül a határon fekszik?",
+                "a": "Igen, a Lausitzer Neiße alkotja a határt Lengyelországgal."
+            },
+            {
+                "q": "Mi az a Szent Sír Görlitzben?",
+                "a": "A jeruzsálemi Szent Sír-templom középkori, hű másolata."
+            },
+            {
+                "q": "Milyen építészeti stílusok találhatók Görlitzben?",
+                "a": "A késő gótika, a reneszánsz, a barokk és a historizmus egyedülálló keverékét."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De ce se numește Görlitz 'Görliwood'?",
+                "a": "Datorită numeroaselor producții cinematografice internaționale care au fost filmate acolo."
+            },
+            {
+                "q": "Görlitz este situat direct pe graniță?",
+                "a": "Da, Neisse Lusatiană formează granița cu Polonia."
+            },
+            {
+                "q": "Ce este Sfântul Mormânt din Görlitz?",
+                "a": "O replică fidelă a Bisericii Sfântului Mormânt din Ierusalim, datând din Evul Mediu."
+            },
+            {
+                "q": "Ce stiluri arhitecturale se găsesc în Görlitz?",
+                "a": "Un amestec unic de gotic târziu, renaștere, baroc și arhitectură de la sfârșitul secolului XIX."
+            }
+        ],
+        "en": [
+            {
+                "q": "Why is Görlitz called 'Görliwood'?",
+                "a": "Because of the many international film productions that have been filmed there."
+            },
+            {
+                "q": "Is Görlitz located directly on the border?",
+                "a": "Yes, the Lusatian Neisse forms the border with Poland."
+            },
+            {
+                "q": "What is the Holy Sepulchre in Görlitz?",
+                "a": "A faithful replica of the Church of the Holy Sepulchre in Jerusalem from the Middle Ages."
+            },
+            {
+                "q": "What architectural styles can be found in Görlitz?",
+                "a": "A unique mix of Late Gothic, Renaissance, Baroque, and late 19th-century architecture."
+            }
+        ]
+    },
+    "lake-talsperre-kriebstein-extra": {
+        "de": [
+            {
+                "q": "Welcher Fluss wird in der Talsperre Kriebstein gestaut?",
+                "a": "Die Zschopau."
+            },
+            {
+                "q": "Gibt es dort Fahrgastschiffe?",
+                "a": "Ja, Linien- und Rundfahrten mit Motorschiffen sind möglich."
+            },
+            {
+                "q": "Was ist die Seebühne Kriebstein?",
+                "a": "Eine schwimmende Bühne für Operetten-, Musical- und Theateraufführungen."
+            },
+            {
+                "q": "Kann man in der Talsperre baden?",
+                "a": "Ja, es gibt ausgewiesene Badestellen und ein Strandbad."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Melyik folyót duzzasztják a Kriebstein-tározóban?",
+                "a": "A Zschopau."
+            },
+            {
+                "q": "Vannak ott sétahajók?",
+                "a": "Igen, menetrend szerinti járatok és sétahajózás is lehetséges."
+            },
+            {
+                "q": "Mi a Kriebstein tószínpad?",
+                "a": "Egy úszó színpad operett-, musical- és színházi előadásokhoz."
+            },
+            {
+                "q": "Lehet fürdeni a tározóban?",
+                "a": "Igen, vannak kijelölt fürdőhelyek és egy strandfürdő."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce râu este zăgăzuit în barajul Kriebstein?",
+                "a": "Râul Zschopau."
+            },
+            {
+                "q": "Există nave de pasageri acolo?",
+                "a": "Da, sunt posibile curse regulate și croaziere cu nave cu motor."
+            },
+            {
+                "q": "Ce este scena pe lac Kriebstein?",
+                "a": "O scenă plutitoare pentru spectacole de operetă, musical și teatru."
+            },
+            {
+                "q": "Se poate face baie în lacul de acumulare?",
+                "a": "Da, există locuri de scăldat amenajate și un ștrand."
+            }
+        ],
+        "en": [
+            {
+                "q": "Which river is dammed in the Kriebstein Reservoir?",
+                "a": "The Zschopau."
+            },
+            {
+                "q": "Are there passenger ships there?",
+                "a": "Yes, scheduled trips and cruises with motorboats are possible."
+            },
+            {
+                "q": "What is the Kriebstein Lake Stage?",
+                "a": "A floating stage for operetta, musical, and theater performances."
+            },
+            {
+                "q": "Can you swim in the reservoir?",
+                "a": "Yes, there are designated swimming areas and a lido."
+            }
+        ]
+    },
+    "forest-saechsische-schweiz-park-extra": {
+        "de": [
+            {
+                "q": "Darf man im Nationalpark übernachten?",
+                "a": "Nur an speziell gekennzeichneten Plätzen, dem sogenannten 'Boofen' für Kletterer."
+            },
+            {
+                "q": "Was ist die Kirnitzschtalbahn?",
+                "a": "Eine historische Straßenbahn, die durch das romantische Kirnitzschtal fährt."
+            },
+            {
+                "q": "Wie groß ist der Nationalpark?",
+                "a": "Er umfasst eine Fläche von knapp 94 Quadratkilometern."
+            },
+            {
+                "q": "Welche seltenen Pflanzen gibt es dort?",
+                "a": "Zum Beispiel verschiedene Farne und Moose, die das feucht-kühle Klima in den Schluchten lieben."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Szabad éjszakázni a nemzeti parkban?",
+                "a": "Csak a speciálisan kijelölt helyeken, az úgynevezett 'Boofen'-nél a hegymászók számára."
+            },
+            {
+                "q": "Mi a Kirnitzschtalbahn?",
+                "a": "Egy történelmi villamos, amely a romantikus Kirnitzsch-völgyben közlekedik."
+            },
+            {
+                "q": "Mekkora a nemzeti park?",
+                "a": "Közel 94 négyzetkilométeres területet foglal magában."
+            },
+            {
+                "q": "Milyen ritka növények találhatók ott?",
+                "a": "Például különböző páfrányok és mohák, amelyek kedvelik a szurdokok nedves-hűvös klímáját."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Este permisă înnoptarea în parcul național?",
+                "a": "Numai în locuri special marcate, așa-numitele 'Boofen' pentru alpiniști."
+            },
+            {
+                "q": "Ce este Kirnitzschtalbahn?",
+                "a": "Un tramvai istoric care circulă prin valea romantică Kirnitzsch."
+            },
+            {
+                "q": "Cât de mare este parcul național?",
+                "a": "Acoperă o suprafață de aproape 94 de kilometri pătrați."
+            },
+            {
+                "q": "Ce plante rare se găsesc acolo?",
+                "a": "De exemplu, diverse ferigi și mușchi care iubesc climatul umed și răcoros din chei."
+            }
+        ],
+        "en": [
+            {
+                "q": "Is staying overnight allowed in the national park?",
+                "a": "Only at specially designated places, the so-called 'Boofen' for climbers."
+            },
+            {
+                "q": "What is the Kirnitzschtalbahn?",
+                "a": "A historic tram that runs through the romantic Kirnitzsch Valley."
+            },
+            {
+                "q": "How large is the national park?",
+                "a": "It covers an area of nearly 94 square kilometers."
+            },
+            {
+                "q": "What rare plants can be found there?",
+                "a": "For example, various ferns and mosses that love the moist, cool climate in the gorges."
+            }
+        ]
+    },
+    "hist-moritzburg-extra": {
+        "de": [
+            {
+                "q": "Wer ließ Schloss Moritzburg in seiner heutigen Form erbauen?",
+                "a": "August der Starke im 18. Jahrhundert."
+            },
+            {
+                "q": "Was ist das 'Fasanenschlösschen'?",
+                "a": "Ein kleines Rokoko-Schloss in der Nähe von Moritzburg mit einem eigenen Hafen und Leuchtturm."
+            },
+            {
+                "q": "Was kann man im Inneren des Schlosses sehen?",
+                "a": "Eine bedeutende Sammlung von Jagdtropäen und die berühmte Ledertapeten-Ausstattung."
+            },
+            {
+                "q": "Was ist das 'Federzimmer'?",
+                "a": "Ein Prunkbett, das mit Millionen von Vogelfedern verziert ist."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Ki építtette a Moritzburg kastélyt a mai formájában?",
+                "a": "Erős Ágost a 18. században."
+            },
+            {
+                "q": "Mi az a 'Fácán-kastély'?",
+                "a": "Egy kis rokokó kastély Moritzburg közelében, saját kikötővel és világítótoronnyal."
+            },
+            {
+                "q": "Mit lehet látni a kastély belsejében?",
+                "a": "Jelentős vadásztrófea-gyűjteményt és a híres bőrtapétákat."
+            },
+            {
+                "q": "Mi az a 'Tolltársalgó'?",
+                "a": "Egy díszes ágy, amelyet több millió madártoll díszít."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Cine a dispus construirea Castelului Moritzburg în forma sa actuală?",
+                "a": "August cel Puternic în secolul al XVIII-lea."
+            },
+            {
+                "q": "Ce este 'Micul Castel al Fazanilor'?",
+                "a": "Un mic castel rococo lângă Moritzburg, cu propriul port și far."
+            },
+            {
+                "q": "Ce se poate vedea în interiorul castelului?",
+                "a": "O colecție importantă de trofee de vânătoare și faimoasele tapete din piele."
+            },
+            {
+                "q": "Ce este 'Camera de pene'?",
+                "a": "Un pat de paradă decorat cu milioane de pene de pasăre."
+            }
+        ],
+        "en": [
+            {
+                "q": "Who had Moritzburg Palace built in its current form?",
+                "a": "Augustus the Strong in the 18th century."
+            },
+            {
+                "q": "What is the 'Little Pheasant Castle'?",
+                "a": "A small Rococo palace near Moritzburg with its own harbor and lighthouse."
+            },
+            {
+                "q": "What can be seen inside the palace?",
+                "a": "A significant collection of hunting trophies and the famous leather wallpaper furnishings."
+            },
+            {
+                "q": "What is the 'Feather Room'?",
+                "a": "A state bed decorated with millions of bird feathers."
+            }
+        ]
+    },
+    "city-freiberg-sachsen-extra": {
+        "de": [
+            {
+                "q": "Was ist die 'terra mineralia'?",
+                "a": "Eine der weltweit bedeutendsten Mineralienausstellungen im Schloss Freudenstein."
+            },
+            {
+                "q": "Was ist der Dom St. Marien in Freiberg?",
+                "a": "Eine spätgotische Hallenkirche mit der berühmten 'Goldenen Pforte'."
+            },
+            {
+                "q": "Wer baute die berühmten Orgeln im Freiberger Dom?",
+                "a": "Gottfried Silbermann."
+            },
+            {
+                "q": "Was ist der 'Obermarkt'?",
+                "a": "Ein prachtvoller Platz im Stadtzentrum, umgeben von historischen Patrizierhäusern."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mi a 'terra mineralia'?",
+                "a": "A világ egyik legjelentősebb ásványkiállítása a Freudenstein kastélyban."
+            },
+            {
+                "q": "Mi a freibergi Szent Mária dóm?",
+                "a": "Egy késő gótikus csarnoktemplom a híres 'Aranykapuval'."
+            },
+            {
+                "q": "Ki építette a híres orgonákat a freibergi dómban?",
+                "a": "Gottfried Silbermann."
+            },
+            {
+                "q": "Mi az az 'Obermarkt'?",
+                "a": "A városközpont pompás tere, amelyet történelmi patrícius házak vesznek körül."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce este 'terra mineralia'?",
+                "a": "Una dintre cele mai importante expoziții de minerale din lume, în Castelul Freudenstein."
+            },
+            {
+                "q": "Ce este Catedrala Sfânta Maria din Freiberg?",
+                "a": "O biserică-hală în stil gotic târziu cu faimoasa 'Poartă de Aur'."
+            },
+            {
+                "q": "Cine a construit faimoasele orgi din Catedrala din Freiberg?",
+                "a": "Gottfried Silbermann."
+            },
+            {
+                "q": "Ce este 'Obermarkt'?",
+                "a": "O piață splendidă în centrul orașului, înconjurată de case istorice de patricieni."
+            }
+        ],
+        "en": [
+            {
+                "q": "What is 'terra mineralia'?",
+                "a": "One of the world's most significant mineral exhibitions in Freudenstein Castle."
+            },
+            {
+                "q": "What is St. Mary's Cathedral in Freiberg?",
+                "a": "A Late Gothic hall church featuring the famous 'Golden Portal'."
+            },
+            {
+                "q": "Who built the famous organs in Freiberg Cathedral?",
+                "a": "Gottfried Silbermann."
+            },
+            {
+                "q": "What is the 'Obermarkt'?",
+                "a": "A magnificent square in the city center surrounded by historic patrician houses."
+            }
+        ]
+    },
+    "landmark-blaues-wunder-dresden-extra": {
+        "de": [
+            {
+                "q": "Warum heißt die Brücke 'Blaues Wunder'?",
+                "a": "Wegen ihrer hellblauen Farbe und der für damals kühnen Konstruktion."
+            },
+            {
+                "q": "Welche Stadtteile verbindet sie?",
+                "a": "Blasewitz und Loschwitz."
+            },
+            {
+                "q": "Wer rettete die Brücke 1945?",
+                "a": "Zwei mutige Bürger verhinderten die Sprengung durch die SS."
+            },
+            {
+                "q": "Was ist eine Bergschwebebahn?",
+                "a": "Eine Schwebebahn in Loschwitz, die direkt neben dem Blauen Wunder einen Hang hinaufführt."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Miért hívják a hidat 'Kék csodának'?",
+                "a": "Világoskék színe és az akkori időkhöz képest merész szerkezete miatt."
+            },
+            {
+                "q": "Mely városrészeket köti össze?",
+                "a": "Blasewitzet és Loschwitzot."
+            },
+            {
+                "q": "Ki mentette meg a hidat 1945-ben?",
+                "a": "Két bátor polgár akadályozta meg az SS általi felrobbantást."
+            },
+            {
+                "q": "Mi az a hegyi függővasút?",
+                "a": "Egy függővasút Loschwitzban, amely közvetlenül a Kék csoda mellett halad fel egy hegyoldalon."
+            }
+        ],
+        "ro": [
+            {
+                "q": "De ce se numește podul 'Minunea Albastră'?",
+                "a": "Datorită culorii sale albastru deschis și a construcției îndrăznețe pentru acea vreme."
+            },
+            {
+                "q": "Ce cartiere leagă?",
+                "a": "Blasewitz și Loschwitz."
+            },
+            {
+                "q": "Cine a salvat podul în 1945?",
+                "a": "Doi cetățeni curajoși au împiedicat aruncarea în aer de către SS."
+            },
+            {
+                "q": "Ce este o cale ferată suspendată montană?",
+                "a": "O cale ferată suspendată în Loschwitz, care urcă o pantă chiar lângă Minunea Albastră."
+            }
+        ],
+        "en": [
+            {
+                "q": "Why is the bridge called the 'Blue Wonder'?",
+                "a": "Because of its light blue color and its bold construction for the time."
+            },
+            {
+                "q": "Which districts does it connect?",
+                "a": "Blasewitz and Loschwitz."
+            },
+            {
+                "q": "Who saved the bridge in 1945?",
+                "a": "Two courageous citizens prevented it from being blown up by the SS."
+            },
+            {
+                "q": "What is a mountain suspension railway?",
+                "a": "A suspension railway in Loschwitz that goes up a slope right next to the Blue Wonder."
+            }
+        ]
+    },
+    "hist-zwinger-dresden-extra": {
+        "de": [
+            {
+                "q": "Was bedeutet der Name 'Zwinger'?",
+                "a": "Er bezeichnete ursprünglich den Raum zwischen innerer und äußerer Festungsmauer."
+            },
+            {
+                "q": "Was ist das Kronentor?",
+                "a": "Ein berühmtes Pavillontor des Zwingers, das mit einer vergoldeten Krone geschmückt ist."
+            },
+            {
+                "q": "Welche Museen befinden sich im Zwinger?",
+                "a": "Die Gemäldegalerie Alte Meister, der Mathematisch-Physikalische Salon und die Porzellansammlung."
+            },
+            {
+                "q": "Was ist das Nymphenbad?",
+                "a": "Einer der schönsten barocken Brunnenanlagen in Deutschland, im Zwinger gelegen."
+            }
+        ],
+        "hu": [
+            {
+                "q": "Mit jelent a 'Zwinger' név?",
+                "a": "Eredetileg a belső és külső várfal közötti területet jelölte."
+            },
+            {
+                "q": "Mi az a Kronentor?",
+                "a": "A Zwinger egyik híres pavilonkapuja, amelyet egy aranyozott korona díszít."
+            },
+            {
+                "q": "Milyen múzeumok találhatók a Zwingerben?",
+                "a": "A Régi Mesterek képtára, a Matematikai-Fizikai Szalon és a Porcelángyűjtemény."
+            },
+            {
+                "q": "Mi a Nymphenbad?",
+                "a": "Németország egyik legszebb barokk kútja, a Zwinger területén."
+            }
+        ],
+        "ro": [
+            {
+                "q": "Ce înseamnă numele 'Zwinger'?",
+                "a": "Inițial desemna spațiul dintre zidul interior și cel exterior al cetății."
+            },
+            {
+                "q": "Ce este Poarta Coroanei (Kronentor)?",
+                "a": "O faimoasă poartă-pavilion a Zwinger-ului, decorată cu o coroană aurită."
+            },
+            {
+                "q": "Ce muzee se află în Zwinger?",
+                "a": "Galeria de Pictură a Vechilor Maeștri, Salonul de Matematică și Fizică și Colecția de Porțelan."
+            },
+            {
+                "q": "Ce este Baia Nimfelor (Nymphenbad)?",
+                "a": "Una dintre cele mai frumoase fântâni baroce din Germania, situată în Zwinger."
+            }
+        ],
+        "en": [
+            {
+                "q": "What does the name 'Zwinger' mean?",
+                "a": "It originally referred to the space between the inner and outer fortress walls."
+            },
+            {
+                "q": "What is the Crown Gate?",
+                "a": "A famous pavilion gate of the Zwinger decorated with a gilded crown."
+            },
+            {
+                "q": "Which museums are located in the Zwinger?",
+                "a": "The Old Masters Picture Gallery, the Mathematics-Physics Salon, and the Porcelain Collection."
+            },
+            {
+                "q": "What is the Nymphs' Bath?",
+                "a": "One of the most beautiful Baroque fountain complexes in Germany, located in the Zwinger."
+            }
+        ]
+    }
+}

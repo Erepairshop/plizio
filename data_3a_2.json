@@ -1,0 +1,202 @@
+{
+  "landmark-schwerin-schloss-extra": {
+    "desc_de": "Das Schweriner Schloss liegt auf der Schlossinsel im Stadtzentrum von Schwerin und gilt als eines der bedeutendsten Bauwerke des romantischen Historismus in Europa. Der heutige Prachtbau entstand zwischen 1845 und 1857 unter der Leitung namhafter Architekten wie Gottfried Semper und Friedrich August Stüler. Mit seinen fünf Flügeln und zahlreichen Türmen diente es jahrhundertelang als Residenz der mecklenburgischen Herzöge. Heute beherbergt das Gebäude den Landtag von Mecklenburg-Vorpommern sowie das staatliche Museum. Die umliegende Parkanlage, darunter der im Barockstil gehaltene Burggarten, macht es zu einer der meistbesuchten Sehenswürdigkeiten in Norddeutschland.",
+    "desc_hu": "A Schwerini kastély a Schwerin városközpontjában található kastélyszigeten fekszik, és az európai romantikus historizmus egyik legjelentősebb építményének tartják. A mai pompás épület 1845 és 1857 között épült neves építészek, köztük Gottfried Semper és Friedrich August Stüler irányításával. Öt szárnyával és számtalan tornyával évszázadokon át a mecklenburgi hercegek rezidenciájaként szolgált. Ma az épület ad otthont a Mecklenburg-Elő-Pomerániai tartományi parlamentnek, valamint az állami múzeumnak. A környező park, köztük a barokk stílusú várkert, Észak-Németország egyik leglátogatottabb látványosságává teszi.",
+    "facts_de": [
+      "Das Schweriner Schloss befindet sich auf einer Insel im Schweriner See.",
+      "Der Bau in seiner heutigen Form wurde zwischen 1845 und 1857 vollendet.",
+      "Das Gebäude verfügt über fünf Flügel und zahlreiche prachtvolle Türme.",
+      "Heute dient das Schloss als Sitz des Landtages von Mecklenburg-Vorpommern.",
+      "Im Inneren des Schlosses befindet sich ein Museum mit herrschaftlichen Wohnräumen aus dem 19. Jahrhundert.",
+      "Der Architekt Gottfried Semper trug maßgeblich zum Design der Schlossanlage bei."
+    ],
+    "facts_hu": [
+      "A Schwerini kastély a Schwerini-tó egyik szigetén található.",
+      "A mai formájában látható épületet 1845 és 1857 között fejezték be.",
+      "Az épület öt szárnnyal és számos pompás toronnyal rendelkezik.",
+      "Ma a kastély a Mecklenburg-Elő-Pomerániai tartományi parlament székhelye.",
+      "A kastély belsejében egy múzeum található, amely 19. századi főúri lakótereket mutat be.",
+      "Gottfried Semper építész jelentősen hozzájárult a kastélyegyüttes tervezéséhez."
+    ]
+  },
+  "historical-kloster-eldena-extra": {
+    "desc_de": "Die Klosterruine Eldena liegt im Greifswalder Stadtteil Eldena in Vorpommern. Das Zisterzienserkloster wurde 1199 von dänischen Mönchen aus dem Kloster Esrum gegründet und entwickelte sich zu einem bedeutenden geistlichen und wirtschaftlichen Zentrum der Region. Nach der Reformation wurde das Kloster 1535 säkularisiert und verfiel im Laufe der Jahrhunderte, teilweise durch Nutzung als Steinbruch für die Greifswalder Stadtbefestigung. Weltweite Berühmtheit erlangte die Ruine im 19. Jahrhundert durch die Gemälde von Caspar David Friedrich, der das verfallene Gemäuer zum Symbol der romantischen Epoche stilisierte.",
+    "desc_hu": "Az eldenai kolostorrom az elő-pomerániai Greifswald Eldena nevű városrészében található. A ciszterci kolostort 1199-ben alapították az esrumi kolostorból érkező dán szerzetesek, és a régió jelentős szellemi és gazdasági központjává fejlődött. A reformáció után, 1535-ben a kolostort szekularizálták, és az évszázadok során romlásnak indult, részben azért, mert kőbányaként használták a greifswaldi városfalhoz. A rom a 19. században vált világhírűvé Caspar David Friedrich festményei révén, aki a romos falakat a romantika korszakának szimbólumává emelte.",
+    "facts_de": [
+      "Das Kloster Eldena wurde im Jahr 1199 von Zisterziensermönchen gegründet.",
+      "Es entwickelte sich im Mittelalter zu einem der reichsten Klöster in Pommern.",
+      "Nach der Reformation erfolgte 1535 die Säkularisation des Klosters.",
+      "Die Ruine wurde im Dreißigjährigen Krieg stark beschädigt und diente danach als Steinbruch.",
+      "Caspar David Friedrich machte die Ruine durch seine romantischen Gemälde weltberühmt.",
+      "Heute ist die Ruine von einem Park umgeben und dient als Kulisse für kulturelle Veranstaltungen."
+    ],
+    "facts_hu": [
+      "Az eldenai kolostort 1199-ben alapították ciszterci szerzetesek.",
+      "A középkorban Pomeránia egyik leggazdagabb kolostorává fejlődött.",
+      "A reformációt követően, 1535-ben került sor a kolostor szekularizációjára.",
+      "A rom a harmincéves háborúban súlyosan megrongálódott, majd kőbányaként szolgált.",
+      "Caspar David Friedrich romantikus festményei révén tette világhírűvé a romot.",
+      "Ma a romot egy park veszi körül, és kulturális rendezvények helyszínéül szolgál."
+    ]
+  },
+  "lake-schweriner-see-extra": {
+    "desc_de": "Der Schweriner See ist ein Gletscherzungensee in Mecklenburg-Vorpommern und mit einer Fläche von 61,5 Quadratkilometern der zweitgrößte See in Norddeutschland. Er entstand während der Weichsel-Eiszeit und erstreckt sich über eine Länge von 21 Kilometern von Nord nach Süd. Der See wird durch den künstlich angelegten Paulsdamm in einen Außen- und einen Innensee geteilt. An seinem südwestlichen Ufer liegt die Landeshauptstadt Schwerin, deren berühmtes Schloss auf einer Insel im See thront. Der See ist ein beliebtes Wassersportrevier und über Kanäle mit der Elbe verbunden.",
+    "desc_hu": "A Schwerini-tó egy gleccsernyelv által formált tó Mecklenburg-Elő-Pomerániában, és 61,5 négyzetkilométeres területével Észak-Németország második legnagyobb tava. A Weichsel-jégkorszak alatt keletkezett, és észak-déli irányban 21 kilométer hosszan nyúlik el. A tavat a mesterségesen kialakított Paulsdamm osztja egy külső és egy belső tóra. Délnyugati partján fekszik a tartományi főváros, Schwerin, amelynek híres kastélya a tó egyik szigetén magasodik. A tó népszerű vízi sportközpont, és csatornákon keresztül az Elbával is összeköttetésben áll.",
+    "facts_de": [
+      "Der Schweriner See hat eine Gesamtfläche von 61,5 Quadratkilometern.",
+      "Er ist der viertgrößte See Deutschlands und der zweitgrößte in Norddeutschland.",
+      "Der Paulsdamm teilt das Gewässer in den Schweriner Innensee und den Schweriner Außensee.",
+      "Die maximale Tiefe des Sees beträgt 52,4 Meter.",
+      "Auf einer Insel im südlichen Teil des Sees befindet sich das Schweriner Schloss.",
+      "Der Störkanal verbindet den Schweriner See mit der Müritz-Elde-Wasserstraße und somit mit der Elbe."
+    ],
+    "facts_hu": [
+      "A Schwerini-tó teljes területe 61,5 négyzetkilométer.",
+      "Ez Németország negyedik, Észak-Németország pedig második legnagyobb tava.",
+      "A Paulsdamm osztja a vizet a Schwerini belső tóra és a Schwerini külső tóra.",
+      "A tó maximális mélysége 52,4 méter.",
+      "A tó déli részén lévő egyik szigeten található a Schwerini kastély.",
+      "A Stör csatorna köti össze a Schwerini-tavat a Müritz-Elde vízi úttal, és ezáltal az Elbával."
+    ]
+  },
+  "city-neubrandenburg-extra": {
+    "desc_de": "Neubrandenburg ist die drittgrößte Stadt in Mecklenburg-Vorpommern und liegt malerisch am nördlichen Ufer des Tollensesees. Gegründet 1248 von Markgraf Johann I. von Brandenburg, ist die Stadt vor allem für ihre nahezu vollständig erhaltene mittelalterliche Stadtmauer bekannt, die eine Länge von über 2 Kilometern aufweist. Eingebettet in diese Befestigungsanlage sind die vier markanten Backsteintore, die der Stadt den Beinamen 'Stadt der Vier Tore' gaben. Heute ist Neubrandenburg mit rund 63.000 Einwohnern ein wirtschaftliches und kulturelles Zentrum der Region Mecklenburgische Seenplatte.",
+    "desc_hu": "Neubrandenburg Mecklenburg-Elő-Pomeránia harmadik legnagyobb városa, és festői környezetben, a Tollensese északi partján fekszik. Az 1248-ban I. János brandenburgi őrgróf által alapított város elsősorban szinte teljesen épen maradt, több mint 2 kilométer hosszú középkori városfaláról ismert. Ebbe az erődítményrendszerbe illeszkedik a négy jellegzetes téglakapu, amelyekről a várost a 'Négy Kapu Városának' is nevezik. Ma a mintegy 63 000 lakosú Neubrandenburg a Mecklenburgi-tóvidék gazdasági és kulturális központja.",
+    "facts_de": [
+      "Neubrandenburg wurde im Jahr 1248 von Markgraf Johann I. gegründet.",
+      "Die Stadt besitzt die am besten erhaltene mittelalterliche Stadtmauer in Norddeutschland mit 2.300 Metern Länge.",
+      "Die vier historischen Tore sind das Friedländer, das Stargarder, das Treptower und das Neue Tor.",
+      "Die Konzertkirche in Neubrandenburg ist eine entwidmete Marienkirche, die heute als renommierter Konzertsaal dient.",
+      "Die Stadt liegt am Tollensesee, einem der größten Seen Mecklenburg-Vorpommerns.",
+      "Neubrandenburg ist mit etwa 63.000 Einwohnern das Oberzentrum der Region."
+    ],
+    "facts_hu": [
+      "Neubrandenburgot 1248-ban alapította I. János őrgróf.",
+      "A város rendelkezik Észak-Németország legjobb állapotban fennmaradt középkori városfalával, amely 2300 méter hosszú.",
+      "A négy történelmi kapu a Friedländer, a Stargarder, a Treptower és a Neue Tor.",
+      "A neubrandenburgi Koncerttemplom egy deszakralizált Mária-templom, amely ma neves koncertteremként működik.",
+      "A város a Tollensesee, Mecklenburg-Elő-Pomeránia egyik legnagyobb tava mellett fekszik.",
+      "Neubrandenburg mintegy 63 000 lakosával a régió felsőközpontja."
+    ]
+  },
+  "animal-habitat-mv-kraniche-extra": {
+    "desc_de": "Mecklenburg-Vorpommern ist einer der bedeutendsten Rastplätze für Graukraniche in ganz Europa. Jedes Jahr im Herbst sammeln sich bis zu 70.000 dieser majestätischen Vögel in den flachen Boddengewässern und an den Seen der Region, bevor sie ihre Reise in die Winterquartiere in Süd- und Westeuropa antreten. Besonders der Nationalpark Vorpommersche Boddenlandschaft und die Rügen-Bock-Region bieten ideale Bedingungen: Tagsüber finden die Kraniche Nahrung auf abgeernteten Feldern, nachts schlafen sie stehend in den flachen, geschützten Gewässern, um vor Raubtieren sicher zu sein.",
+    "desc_hu": "Mecklenburg-Elő-Pomeránia a darvak egyik legjelentősebb pihenőhelye egész Európában. Minden ősszel akár 70 000 ilyen fenséges madár gyűlik össze a sekély boddeng-vizekben és a régió tavainál, mielőtt megkezdenék útjukat a dél- és nyugat-európai telelőhelyeik felé. Különösen az Elő-pomerániai Bodden-vidék Nemzeti Park és a Rügen-Bock régió kínál ideális körülményeket: napközben a darvak a learatott földeken találnak táplálékot, éjszaka pedig a sekély, védett vizekben állva alszanak, hogy biztonságban legyenek a ragadozóktól.",
+    "facts_de": [
+      "Bis zu 70.000 Graukraniche rasten im Herbst in Mecklenburg-Vorpommern.",
+      "Die Rügen-Bock-Region gilt als der größte Kranichrastplatz in Mitteleuropa.",
+      "Kraniche übernachten stehend im flachen Wasser, um sich vor Raubtieren wie Füchsen zu schützen.",
+      "Tagsüber fressen sich die Vögel auf den Feldern Fettreserven für den Weiterflug an.",
+      "Der Einflug der Kraniche am Abend zu ihren Schlafplätzen zieht jährlich zehntausende Naturbeobachter an.",
+      "Die Vögel ziehen von Skandinavien und Osteuropa über Deutschland nach Spanien oder Frankreich."
+    ],
+    "facts_hu": [
+      "Ősszel akár 70 000 daru is megpihen Mecklenburg-Elő-Pomerániában.",
+      "A Rügen-Bock régiót Közép-Európa legnagyobb daru-pihenőhelyeként tartják számon.",
+      "A darvak sekély vízben állva éjszakáznak, hogy megvédjék magukat a ragadozóktól, például a rókáktól.",
+      "Napközben a madarak a mezőkön táplálkozva halmoznak fel zsírtartalékot a továbbútra.",
+      "A darvak esti berepülése az alvóhelyeikre évente tízezernyi természetmegfigyelőt vonz.",
+      "A madarak Skandináviából és Kelet-Európából Németországon keresztül Spanyolországba vagy Franciaországba vonulnak."
+    ]
+  },
+  "city-kiel-extra": {
+    "desc_de": "Kiel ist die Landeshauptstadt von Schleswig-Holstein und liegt direkt an der Ostseeküste. Die Hafenstadt ist international bekannt für die Kieler Woche, das weltweit größte Segelsportereignis und eines der größten Sommerfeste im Norden Europas. Gegründet im 13. Jahrhundert, wurde Kiel durch die Eröffnung des Nord-Ostsee-Kanals (früher Kaiser-Wilhelm-Kanal) im Jahr 1895 zu einem zentralen maritimen Knotenpunkt. Mit rund 246.000 Einwohnern ist sie die bevölkerungsreichste Stadt des Bundeslandes. Die Christian-Albrechts-Universität zu Kiel sowie bedeutende Werften prägen die Wirtschaft und Kultur der Stadt.",
+    "desc_hu": "Kiel Schleswig-Holstein tartomány fővárosa, és közvetlenül a Balti-tenger partján fekszik. A kikötőváros nemzetközileg ismert a Kieli hétről (Kieler Woche), amely a világ legnagyobb vitorlás sporteseménye és Észak-Európa egyik legnagyobb nyári fesztiválja. A 13. században alapított Kiel az Északi-tenger–Balti-tenger-csatorna (korábban Vilmos császár-csatorna) 1895-ös megnyitásával vált központi tengerészeti csomóponttá. Mintegy 246 000 lakosával a tartomány legnépesebb városa. A Kieli Christian Albrechts Egyetem, valamint a jelentős hajógyárak határozzák meg a város gazdaságát és kultúráját.",
+    "facts_de": [
+      "Kiel ist mit rund 246.000 Einwohnern die größte Stadt in Schleswig-Holstein.",
+      "Die Kieler Woche zieht jährlich über drei Millionen Besucher an und ist das größte Segelsportereignis der Welt.",
+      "In Kiel endet der Nord-Ostsee-Kanal, die meistbefahrene künstliche Wasserstraße der Welt.",
+      "Die Christian-Albrechts-Universität wurde 1665 gegründet und ist die älteste in Schleswig-Holstein.",
+      "Der Hafen von Kiel ist ein wichtiger Ausgangspunkt für Fährverbindungen nach Skandinavien und in das Baltikum.",
+      "Während des Zweiten Weltkriegs wurde Kiel wegen seiner Marineanlagen zu über 80 Prozent zerstört."
+    ],
+    "facts_hu": [
+      "Kiel mintegy 246 000 lakosával Schleswig-Holstein legnagyobb városa.",
+      "A Kieli hét évente több mint hárommillió látogatót vonz, és a világ legnagyobb vitorlás sporteseménye.",
+      "Kielben ér véget az Északi-tenger–Balti-tenger-csatorna, a világ legforgalmasabb mesterséges vízi útja.",
+      "A Christian Albrechts Egyetemet 1665-ben alapították, és a legrégebbi Schleswig-Holsteinben.",
+      "A kieli kikötő fontos kiindulópontja a Skandináviába és a balti államokba induló kompjáratoknak.",
+      "A második világháború alatt Kiel tengerészeti létesítményei miatt több mint 80 százalékban megsemmisült."
+    ]
+  },
+  "city-luebeck-extra": {
+    "desc_de": "Lübeck, oft als die 'Königin der Hanse' bezeichnet, liegt im Südosten Schleswig-Holsteins an der Trave. Die 1143 als erste deutsche Hafenstadt an der Ostsee gegründete Stadt spielte im Mittelalter eine dominierende Rolle im nordeuropäischen Handel. Die fast vollständig von Wasser umschlossene historische Altstadt mit ihren zahlreichen Bauwerken im Stil der Backsteingotik gehört seit 1987 zum UNESCO-Weltkulturerbe. Das Holstentor, eines der berühmtesten Stadttore Deutschlands, ist das Wahrzeichen Lübecks. Kulinarisch ist die Stadt weltweit für das Lübecker Marzipan bekannt.",
+    "desc_hu": "Lübeck, amelyet gyakran a 'Hanza királynőjének' is neveznek, Schleswig-Holstein délkeleti részén, a Trave folyó mentén fekszik. Az 1143-ban az első német balti-tengeri kikötővárosként alapított város a középkorban meghatározó szerepet játszott az észak-európai kereskedelemben. A majdnem teljesen vízzel körülvett történelmi óváros számos téglagótikus stílusú épületével 1987 óta az UNESCO Világörökség része. A Holstentor, Németország egyik leghíresebb városkapuja Lübeck jelképe. Kulináris szempontból a város világszerte ismert a lübecki marcipánról.",
+    "facts_de": [
+      "Die Lübecker Altstadtinsel wurde 1987 als erstes Flächendenkmal Nordeuropas zum UNESCO-Weltkulturerbe erklärt.",
+      "Lübeck war über Jahrhunderte das unangefochtene Haupt der Hanse.",
+      "Das Holstentor, ein Überrest der Stadtbefestigung, wurde im 15. Jahrhundert im Stil der Backsteingotik erbaut.",
+      "Die Marienkirche in Lübeck hat das höchste Backsteingewölbe der Welt (38,5 Meter).",
+      "Lübeck hat rund 216.000 Einwohner und ist flächenmäßig die größte Stadt Schleswig-Holsteins.",
+      "Das weltberühmte Lübecker Marzipan wird seit dem Mittelalter in der Stadt hergestellt."
+    ],
+    "facts_hu": [
+      "A lübecki óvárosi szigetet 1987-ben Észak-Európa első területi műemlékeként UNESCO Világörökséggé nyilvánították.",
+      "Lübeck évszázadokon át a Hanza-szövetség vitathatatlan központja volt.",
+      "A Holstentor, a városfal egyik maradványa a 15. században épült téglagótikus stílusban.",
+      "A lübecki Marienkirche rendelkezik a világ legmagasabb téglaboltozatával (38,5 méter).",
+      "Lübecknek mintegy 216 000 lakosa van, és területét tekintve Schleswig-Holstein legnagyobb városa.",
+      "A világhírű lübecki marcipánt a középkor óta gyártják a városban."
+    ]
+  },
+  "island-sylt-extra": {
+    "desc_de": "Sylt ist die größte nordfriesische Insel und liegt in der Nordsee vor der Küste Schleswig-Holsteins und Dänemarks. Bekannt für ihre charakteristische, längliche Form, erstreckt sie sich über 38 Kilometer Länge und besitzt fast 40 Kilometer Sandstrand an der Westküste. Die Insel ist über den 11 Kilometer langen Hindenburgdamm, der nur für den Zugverkehr freigegeben ist, mit dem Festland verbunden. Sylt ist berühmt für seine Kurorte wie Westerland und Kampen, markante Reetdachhäuser und das sensible Ökosystem des Wattenmeers, leidet jedoch stark unter Küstenerosion.",
+    "desc_hu": "Sylt a legnagyobb észak-fríz sziget, amely az Északi-tengerben, Schleswig-Holstein és Dánia partjainál fekszik. Jellegzetes, hosszúkás formájáról ismert, több mint 38 kilométer hosszan nyúlik el, és a nyugati partján majdnem 40 kilométeres homokos strand található. A szigetet a 11 kilométer hosszú Hindenburg-gát köti össze a szárazfölddel, amely csak a vonatközlekedés számára nyitott. Sylt híres olyan üdülőhelyeiről, mint Westerland és Kampen, jellegzetes nádtetős házairól és a Watt-tenger érzékeny ökoszisztémájáról, azonban erősen szenved a part menti eróziótól.",
+    "facts_de": [
+      "Sylt ist mit 99 Quadratkilometern die viertgrößte Insel Deutschlands.",
+      "Die Insel verliert durch Sturmfluten jährlich an Landmasse, was durch kostspielige Sandvorspülungen ausgeglichen wird.",
+      "Der Hindenburgdamm verbindet Sylt seit 1927 mit dem schleswig-holsteinischen Festland.",
+      "Der nördlichste Punkt Deutschlands, der Ellenbogen, liegt auf Sylt.",
+      "Die Westküste bietet einen fast 40 Kilometer langen ununterbrochenen Sandstrand.",
+      "Rund 15.000 Einwohner leben dauerhaft auf der Insel, im Sommer kommen zehntausende Touristen hinzu."
+    ],
+    "facts_hu": [
+      "Sylt 99 négyzetkilométeres területével Németország negyedik legnagyobb szigete.",
+      "A sziget a vihardagályok miatt évente veszít a szárazföldjéből, amit költséges homokfeltöltésekkel kompenzálnak.",
+      "A Hindenburg-gát 1927 óta köti össze Syltet a schleswig-holsteini szárazfölddel.",
+      "Németország legészakibb pontja, az Ellenbogen (Könyök) Sylten található.",
+      "A nyugati part egy közel 40 kilométer hosszú, megszakítás nélküli homokos strandot kínál.",
+      "Körülbelül 15 000 lakos él állandóan a szigeten, nyáron pedig több tízezer turista érkezik."
+    ]
+  },
+  "river-eider-extra": {
+    "desc_de": "Die Eider ist mit 188 Kilometern der längste Fluss in Schleswig-Holstein. Sie entspringt in der Nähe von Bordesholm, durchfließt den Westensee und mündet bei Tönning in die Nordsee, wobei sich ihr Mündungstrichter bis zum Eidersperrwerk erstreckt. Historisch war die Eider von großer Bedeutung: Bis 1864 bildete sie die natürliche und politische Grenze zwischen dem Herzogtum Schleswig und dem Herzogtum Holstein. Heute ist die Eider durch den Bau des Nord-Ostsee-Kanals und des Gieselau-Kanals in Teilen zu einer wichtigen Binnenwasserstraße ausgebaut.",
+    "desc_hu": "Az Eider a maga 188 kilométerével Schleswig-Holstein leghosszabb folyója. Bordesholm közelében ered, átfolyik a Westensee tavon, és Tönningnél torkollik az Északi-tengerbe, tölcsértorkolata pedig egészen az Eider gátig ér. Történelmileg az Eider nagy jelentőséggel bírt: 1864-ig természetes és politikai határt képezett a Schleswigi és a Holsteini Hercegség között. Ma az Eider az Északi-tenger–Balti-tenger-csatorna és a Gieselau-csatorna megépítésével részben fontos belvízi hajózóúttá épült ki.",
+    "facts_de": [
+      "Die Eider ist der längste Fluss Schleswig-Holsteins mit einer Gesamtlänge von 188 Kilometern.",
+      "Bis zum Deutsch-Dänischen Krieg 1864 war die Eider die Grenze zwischen dem Herzogtum Schleswig und dem Heiligen Römischen Reich.",
+      "Das Eidersperrwerk, errichtet 1973, schützt das Hinterland vor den verheerenden Sturmfluten der Nordsee.",
+      "Das Einzugsgebiet der Eider umfasst rund 3.275 Quadratkilometer.",
+      "Der Flussverlauf wurde im 20. Jahrhundert durch verschiedene Kanalbauprojekte stark verändert.",
+      "Tönning ist die bekannteste Stadt an der Mündung der Eider in die Nordsee."
+    ],
+    "facts_hu": [
+      "Az Eider Schleswig-Holstein leghosszabb folyója, teljes hossza 188 kilométer.",
+      "Az 1864-es német-dán háborúig az Eider alkotta a határt a Schleswigi Hercegség és a Német-római Birodalom között.",
+      "Az 1973-ban épült Eider gát (Eidersperrwerk) védi a hátországot az Északi-tenger pusztító vihardagályaitól.",
+      "Az Eider vízgyűjtő területe körülbelül 3275 négyzetkilométer.",
+      "A folyó medrét a 20. században különböző csatornaépítési projektek jelentősen megváltoztatták.",
+      "Tönning a legismertebb város az Eider északi-tengeri torkolatánál."
+    ]
+  },
+  "port-kiel-kanal-extra": {
+    "desc_de": "Der Nord-Ostsee-Kanal (international Kiel Canal genannt) ist eine künstliche Wasserstraße in Schleswig-Holstein, die die Nordsee bei Brunsbüttel mit der Ostsee bei Kiel-Holtenau verbindet. Mit einer Länge von rund 98 Kilometern erspart der 1895 als Kaiser-Wilhelm-Kanal eröffnete Wasserweg den Schiffen den gefährlichen und rund 460 Kilometer längeren Umweg über die Nordspitze Dänemarks. Er ist die meistbefahrene künstliche Seeschifffahrtsstraße der Welt, auf der jährlich etwa 30.000 Schiffe verkehren. Gewaltige Schleusenanlagen an beiden Enden gleichen die Tidenhübe der Meere aus.",
+    "desc_hu": "Az Északi-tenger–Balti-tenger-csatorna (nemzetközi nevén Kiel Canal) egy mesterséges vízi út Schleswig-Holsteinben, amely az Északi-tengert (Brunsbüttelnél) köti össze a Balti-tengerrel (Kiel-Holtenaunál). Az 1895-ben Vilmos császár-csatornaként megnyitott, mintegy 98 kilométer hosszú vízi út megkíméli a hajókat a Dánia északi csücskét megkerülő veszélyes és körülbelül 460 kilométerrel hosszabb kitérőtől. Ez a világ legforgalmasabb mesterséges tengeri hajózóútja, amelyen évente mintegy 30 000 hajó halad át. Mindkét végén hatalmas zsiliprendszerek egyenlítik ki a tengerek árapály-ingadozását.",
+    "facts_de": [
+      "Der Nord-Ostsee-Kanal ist fast 100 Kilometer lang und erspart Schiffen einen Umweg von etwa 460 Kilometern.",
+      "Er wurde 1895 von Kaiser Wilhelm II. offiziell eröffnet.",
+      "Der Kanal ist die weltweit meistbefahrene künstliche Wasserstraße für Seeschiffe.",
+      "An beiden Enden des Kanals (Brunsbüttel und Kiel) befinden sich große Schleusenanlagen.",
+      "Die Eisenbahnhochbrücke Rendsburg überquert den Kanal in einer Höhe von 42 Metern mit einer Schwebefähre.",
+      "Durchschnittlich passieren jährlich rund 30.000 Schiffe den Kanal, die Frachtmenge liegt bei etwa 90 Millionen Tonnen."
+    ],
+    "facts_hu": [
+      "Az Északi-tenger–Balti-tenger-csatorna majdnem 100 kilométer hosszú, és mintegy 460 kilométeres kitérőtől kíméli meg a hajókat.",
+      "A csatornát 1895-ben II. Vilmos császár nyitotta meg hivatalosan.",
+      "Ez a világ legforgalmasabb mesterséges vízi útja a tengeri hajók számára.",
+      "A csatorna mindkét végén (Brunsbüttel és Kiel) nagy zsiliprendszerek találhatók.",
+      "A rendsburgi magasvasúti híd 42 méteres magasságban ível át a csatornán egy lebegő komppal.",
+      "Átlagosan évente mintegy 30 000 hajó halad át a csatornán, a rakomány mennyisége pedig körülbelül 90 millió tonna."
+    ]
+  }
+}

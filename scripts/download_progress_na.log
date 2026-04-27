@@ -1,0 +1,1399 @@
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+>>> Fájl: francePoi.ts <<<
+
+>>> Fájl: italyPoi.ts <<<
+
+>>> Fájl: spainPoi.ts <<<
+
+>>> Fájl: unitedkingdomPoi.ts <<<
+[1] Keresés: Leeds Castle (united-kingdom)
+  HIBA: Letöltés sikertelen.
+
+>>> Fájl: netherlandsPoi.ts <<<
+
+>>> Fájl: polandPoi.ts <<<
+[2] Keresés: Gdańsk Beach (poland)
+  Keresési hiba (Gdańsk Beach poland landmark photo): https://duckduckgo.com/i.js?o=json&q=Gda%C5%84sk+Beach+poland+landmark+photo&l=wt-wt&vqd=4-326595771730521292727017810426213991384&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[3] Keresés: Masuria Lakes Area (poland)
+  Keresési hiba (Masuria Lakes Area poland landmark photo): https://duckduckgo.com/i.js?o=json&q=Masuria+Lakes+Area+poland+landmark+photo&l=wt-wt&vqd=4-175687835531621195704527258420684419022&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: hungaryPoi.ts <<<
+
+>>> Fájl: poi.ts <<<
+[4] Keresés: Brandenburg (germany)
+  Keresési hiba (Brandenburg germany landmark photo): https://duckduckgo.com/i.js?o=json&q=Brandenburg+germany+landmark+photo&l=wt-wt&vqd=4-266400754498193519109755353128240804674&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[5] Keresés: Hamburg (germany)
+  HIBA: Letöltés sikertelen.
+[6] Keresés: Augsburg (germany)
+  Keresési hiba (Augsburg germany landmark photo): https://duckduckgo.com/i.js?o=json&q=Augsburg+germany+landmark+photo&l=wt-wt&vqd=4-186680411847188836196735362093007725621&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[7] Keresés: Lutherstadt Eisleben (germany)
+  SIKER: /geo-images/germany/lutherstadt-eisleben.webp
+[8] Keresés: Bremen Roland & Town Hall (germany)
+  Keresési hiba (Bremen Roland & Town Hall germany landmark photo): https://duckduckgo.com/i.js?o=json&q=Bremen+Roland+%26+Town+Hall+germany+landmark+photo&l=wt-wt&vqd=4-254355090107174938590365331902579653424&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[9] Keresés: St. Michaelis Hamburg (germany)
+  Keresési hiba (St. Michaelis Hamburg germany landmark photo): https://duckduckgo.com/i.js?o=json&q=St.+Michaelis+Hamburg+germany+landmark+photo&l=wt-wt&vqd=4-210318576798846080427443569747466517444&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[10] Keresés: Reeperbahn St. Pauli (germany)
+  Keresési hiba (Reeperbahn St. Pauli germany landmark photo): https://duckduckgo.com/i.js?o=json&q=Reeperbahn+St.+Pauli+germany+landmark+photo&l=wt-wt&vqd=4-139105709645517005873231832673676343405&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[11] Keresés: Colditz Castle (germany)
+  Keresési hiba (Colditz Castle germany landmark photo): https://duckduckgo.com/i.js?o=json&q=Colditz+Castle+germany+landmark+photo&l=wt-wt&vqd=4-132451879640560196345960843116720800270&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[12] Keresés: Dresden Frauenkirche (germany)
+  HIBA: Letöltés sikertelen.
+
+>>> Fájl: romaniaPoi.ts <<<
+[13] Keresés: Therme Bucharest (romania)
+  Keresési hiba (Therme Bucharest romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Therme+Bucharest+romania+landmark+photo&l=wt-wt&vqd=4-61331853227966172729375696304461908122&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[14] Keresés: Bears (romania)
+  Keresési hiba (Bears romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Bears+romania+landmark+photo&l=wt-wt&vqd=4-105355874911661309734119364884923046719&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[15] Keresés: Grădiștei Gorges (romania)
+  Keresési hiba (Grădiștei Gorges romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Gr%C4%83di%C8%99tei+Gorges+romania+landmark+photo&l=wt-wt&vqd=4-20645412747505878198459104632279292431&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[16] Keresés: Râșnov Citadel (romania)
+  Keresési hiba (Râșnov Citadel romania landmark photo): https://duckduckgo.com/i.js?o=json&q=R%C3%A2%C8%99nov+Citadel+romania+landmark+photo&l=wt-wt&vqd=4-211353336300881610144557773854565848888&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[17] Keresés: Sânziene (Midsummer) (romania)
+  Keresési hiba (Sânziene (Midsummer) romania landmark photo): https://duckduckgo.com/i.js?o=json&q=S%C3%A2nziene+%28Midsummer%29+romania+landmark+photo&l=wt-wt&vqd=4-335427259510331962512540518718424747354&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[18] Keresés: Carpathian Wolf (romania)
+  Keresési hiba (Carpathian Wolf romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Carpathian+Wolf+romania+landmark+photo&l=wt-wt&vqd=4-26778284241538970409848978600148612977&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[19] Keresés: Saxon Transylvania (romania)
+  Keresési hiba (Saxon Transylvania romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Saxon+Transylvania+romania+landmark+photo&l=wt-wt&vqd=4-66923539348410586120862018082171676644&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[20] Keresés: Făgăraș Country (romania)
+  Keresési hiba (Făgăraș Country romania landmark photo): https://duckduckgo.com/i.js?o=json&q=F%C4%83g%C4%83ra%C8%99+Country+romania+landmark+photo&l=wt-wt&vqd=4-242140759843255093830492593852075910091&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[21] Keresés: Șiria Fortress (romania)
+  Keresési hiba (Șiria Fortress romania landmark photo): https://duckduckgo.com/i.js?o=json&q=%C8%98iria+Fortress+romania+landmark+photo&l=wt-wt&vqd=4-156364428109008203607119091068054024953&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[22] Keresés: Târgu Ocna Salt Mine (romania)
+  Keresési hiba (Târgu Ocna Salt Mine romania landmark photo): https://duckduckgo.com/i.js?o=json&q=T%C3%A2rgu+Ocna+Salt+Mine+romania+landmark+photo&l=wt-wt&vqd=4-96503315111323085623260591558102245639&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[23] Keresés: Bears (romania)
+  Keresési hiba (Bears romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Bears+romania+landmark+photo&l=wt-wt&vqd=4-105356890299792026727887093424067078447&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[24] Keresés: Living Fire (romania)
+  Keresési hiba (Living Fire romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Living+Fire+romania+landmark+photo&l=wt-wt&vqd=4-199636695150246059065948754245670909686&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[25] Keresés: Lower Danube Museum (romania)
+  HIBA: Letöltés sikertelen.
+[26] Keresés: Roses Square (romania)
+  Keresési hiba (Roses Square romania landmark photo): https://duckduckgo.com/i.js?o=json&q=Roses+Square+romania+landmark+photo&l=wt-wt&vqd=4-307194922740007861211733332979735437579&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 RatelimitC:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[27] Keresés: Galați Botanical Garden (romania)
+  Letöltési hiba: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  HIBA: Letöltés sikertelen.
+[28] Keresés: St. Michael (romania)
+  Keresési hiba (St. Michael romania landmark photo): https://duckduckgo.com/i.js?o=json&q=St.+Michael+romania+landmark+photo&l=wt-wt&vqd=4-301479912291611930976045854848489377694&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: austriaPoi.ts <<<
+[29] Keresés: Anker Clock (austria)
+  Keresési hiba (Anker Clock austria landmark photo): https://duckduckgo.com/i.js?o=json&q=Anker+Clock+austria+landmark+photo&l=wt-wt&vqd=4-106406979766829906169511962206503593029&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: switzerlandPoi.ts <<<
+[30] Keresés: Castelgrande (switzerland)
+  Keresési hiba (Castelgrande switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=Castelgrande+switzerland+landmark+photo&l=wt-wt&vqd=4-339494919892152801967323120958564793668&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[31] Keresés: Sasso Corbaro (switzerland)
+  Keresési hiba (Sasso Corbaro switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=Sasso+Corbaro+switzerland+landmark+photo&l=wt-wt&vqd=4-177320549729526440155983822682140442124&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[32] Keresés: St. Peter (switzerland)
+  Keresési hiba (St. Peter switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=St.+Peter+switzerland+landmark+photo&l=wt-wt&vqd=4-251654674078238446799191782345270186968&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[33] Keresés: Olympic Museum (switzerland)
+  Keresési hiba (Olympic Museum switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=Olympic+Museum+switzerland+landmark+photo&l=wt-wt&vqd=4-169478763903612490264268400958540948126&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[34] Keresés: Port of Birsfelden (switzerland)
+  Keresési hiba (Port of Birsfelden switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=Port+of+Birsfelden+switzerland+landmark+photo&l=wt-wt&vqd=4-80028179578731158038894433337726591923&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[35] Keresés: Bern Old Town (switzerland)
+  Keresési hiba (Bern Old Town switzerland landmark photo): https://duckduckgo.com/i.js?o=json&q=Bern+Old+Town+switzerland+landmark+photo&l=wt-wt&vqd=4-99010321420105292268270622307422539235&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: belgiumPoi.ts <<<
+[36] Keresés: Bruges Belfry (belgium)
+  Keresési hiba (Bruges Belfry belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Bruges+Belfry+belgium+landmark+photo&l=wt-wt&vqd=4-106475485739761352727707172640420003527&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[37] Keresés: Stoclet Palace (belgium)
+  Keresési hiba (Stoclet Palace belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Stoclet+Palace+belgium+landmark+photo&l=wt-wt&vqd=4-324683522741145129861641797351793226794&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[38] Keresés: Bouillon (belgium)
+  Keresési hiba (Bouillon belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Bouillon+belgium+landmark+photo&l=wt-wt&vqd=4-178800065615044793733829453949969580148&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[39] Keresés: Aalst (belgium)
+  SIKER: /geo-images/belgium/city-aalst.webp
+[40] Keresés: Roeselare (belgium)
+  Keresési hiba (Roeselare belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Roeselare+belgium+landmark+photo&l=wt-wt&vqd=4-225480251495156961939303708910680338701&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[41] Keresés: Geel (belgium)
+  Keresési hiba (Geel belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Geel+belgium+landmark+photo&l=wt-wt&vqd=4-276597987840852918664112586190859012197&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[42] Keresés: Lier Beguinage (belgium)
+  Keresési hiba (Lier Beguinage belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Lier+Beguinage+belgium+landmark+photo&l=wt-wt&vqd=4-299891497270980977596660490366355619076&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[43] Keresés: Basilica of the Holy Blood (belgium)
+  SIKER: /geo-images/belgium/land-basilica-holy-blood-bruges.webp
+[44] Keresés: Villers Abbey (belgium)
+  Keresési hiba (Villers Abbey belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Villers+Abbey+belgium+landmark+photo&l=wt-wt&vqd=4-297742429609722806511157864180715637109&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[45] Keresés: Signal de Botrange (belgium)
+  SIKER: /geo-images/belgium/mountain-signal-de-botrange.webp
+[46] Keresés: Sonian Forest (belgium)
+  Keresési hiba (Sonian Forest belgium landmark photo): https://duckduckgo.com/i.js?o=json&q=Sonian+Forest+belgium+landmark+photo&l=wt-wt&vqd=4-140862947568650640206917104872268630065&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[47] Keresés: Lakes of Eau d (belgium)
+  SIKER: /geo-images/belgium/lake-lac-de-l-eau-d-heure.webp
+[48] Keresés: Pajottenland Breweries (belgium)
+  SIKER: /geo-images/belgium/agri-pajottenland-breweries.webp
+
+>>> Fájl: czechRepublicPoi.ts <<<
+[49] Keresés: Trutnov (czech-republic)
+  Keresési hiba (Trutnov czech-republic landmark photo): https://duckduckgo.com/i.js?o=json&q=Trutnov+czech-republic+landmark+photo&l=wt-wt&vqd=4-334631396955739799356280440946768197502&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[50] Keresés: Zatec Hop Fields (czech-republic)
+  Keresési hiba (Zatec Hop Fields czech-republic landmark photo): https://duckduckgo.com/i.js?o=json&q=Zatec+Hop+Fields+czech-republic+landmark+photo&l=wt-wt&vqd=4-97110510560142872228510236010616039261&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[51] Keresés: Melnik Vineyards (czech-republic)
+  Keresési hiba (Melnik Vineyards czech-republic landmark photo): https://duckduckgo.com/i.js?o=json&q=Melnik+Vineyards+czech-republic+landmark+photo&l=wt-wt&vqd=4-264196933593559914439315734848587056405&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[52] Keresés: Tatra Trucks Koprivnice (czech-republic)
+  Keresési hiba (Tatra Trucks Koprivnice czech-republic landmark photo): https://duckduckgo.com/i.js?o=json&q=Tatra+Trucks+Koprivnice+czech-republic+landmark+photo&l=wt-wt&vqd=4-123112504131615843506044818310270709692&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 RatelimitC:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[53] Keresés: Prague Zoo (czech-republic)
+  Keresési hiba (Prague Zoo czech-republic landmark photo): https://duckduckgo.com/i.js?o=json&q=Prague+Zoo+czech-republic+landmark+photo&l=wt-wt&vqd=4-63217731252037085309748696945814856930&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: slovakiaPoi.ts <<<
+[54] Keresés: Nitra (slovakia)
+  Keresési hiba (Nitra slovakia landmark photo): https://duckduckgo.com/i.js?o=json&q=Nitra+slovakia+landmark+photo&l=wt-wt&vqd=4-26548335798080724351693038668227288376&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[55] Keresés: UFO Observation Deck (slovakia)
+  Keresési hiba (UFO Observation Deck slovakia landmark photo): https://duckduckgo.com/i.js?o=json&q=UFO+Observation+Deck+slovakia+landmark+photo&l=wt-wt&vqd=4-41193475454364034939081914098870276844&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: sloveniaPoi.ts <<<
+[56] Keresés: Postojna Cave and Predjama Castle (slovenia)
+  SIKER: /geo-images/slovenia/cult-postojna.webp
+[57] Keresés: Russian Chapel (slovenia)
+  Keresési hiba (Russian Chapel slovenia landmark photo): https://duckduckgo.com/i.js?o=json&q=Russian+Chapel+slovenia+landmark+photo&l=wt-wt&vqd=4-139069751946487561700222780770775548&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[58] Keresés: Ljubljana Opera House (slovenia)
+  Keresési hiba (Ljubljana Opera House slovenia landmark photo): https://duckduckgo.com/i.js?o=json&q=Ljubljana+Opera+House+slovenia+landmark+photo&l=wt-wt&vqd=4-272603374453250234317756361183037023635&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[59] Keresés: Triglav National Park and Peak (slovenia)
+  Keresési hiba (Triglav National Park and Peak slovenia landmark photo): https://duckduckgo.com/i.js?o=json&q=Triglav+National+Park+and+Peak+slovenia+landmark+photo&l=wt-wt&vqd=4-22638099224222478657648615664387084022&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: croatiaPoi.ts <<<
+
+>>> Fájl: serbiaPoi.ts <<<
+[60] Keresés: Serbia (serbia)
+  Keresési hiba (Serbia serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Serbia+serbia+landmark+photo&l=wt-wt&vqd=4-121543643659460724242090047327628329057&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[61] Keresés: Vojvodina (serbia)
+  Keresési hiba (Vojvodina serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Vojvodina+serbia+landmark+photo&l=wt-wt&vqd=4-183144386162144707908945640842485806057&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[62] Keresés: Šumadija (serbia)
+  Keresési hiba (Šumadija serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=%C5%A0umadija+serbia+landmark+photo&l=wt-wt&vqd=4-178922924983359761266518073891663378950&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[63] Keresés: Novi Sad (serbia)
+  Keresési hiba (Novi Sad serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Novi+Sad+serbia+landmark+photo&l=wt-wt&vqd=4-17060591450745031314384552851529868849&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[64] Keresés: Kragujevac (serbia)
+  Keresési hiba (Kragujevac serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kragujevac+serbia+landmark+photo&l=wt-wt&vqd=4-317399612315560395331961315006228964477&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[65] Keresés: Subotica (serbia)
+  Keresési hiba (Subotica serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Subotica+serbia+landmark+photo&l=wt-wt&vqd=4-22022938792360824769946627192403702005&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[66] Keresés: Čačak (serbia)
+  SIKER: /geo-images/serbia/a-ak.webp
+[67] Keresés: Zrenjanin (serbia)
+  Keresési hiba (Zrenjanin serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Zrenjanin+serbia+landmark+photo&l=wt-wt&vqd=4-77334327535434729897258587893328808571&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[68] Keresés: Kalemegdan Fortress (serbia)
+  Keresési hiba (Kalemegdan Fortress serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kalemegdan+Fortress+serbia+landmark+photo&l=wt-wt&vqd=4-44565765071330931917398763145898570225&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[69] Keresés: Petrovaradin Fortress (serbia)
+  SIKER: /geo-images/serbia/petrovaradin-fortress.webp
+[70] Keresés: Golubac Fortress (serbia)
+  Keresési hiba (Golubac Fortress serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Golubac+Fortress+serbia+landmark+photo&l=wt-wt&vqd=4-292970676606341968465711767413166589532&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[71] Keresés: Felix Romuliana (serbia)
+  Keresési hiba (Felix Romuliana serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Felix+Romuliana+serbia+landmark+photo&l=wt-wt&vqd=4-151367259426875082523144012281403769722&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[72] Keresés: Skull Tower (serbia)
+  Keresési hiba (Skull Tower serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Skull+Tower+serbia+landmark+photo&l=wt-wt&vqd=4-66071191723558815101414696448257753540&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[73] Keresés: Smederevo Fortress (serbia)
+  Keresési hiba (Smederevo Fortress serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Smederevo+Fortress+serbia+landmark+photo&l=wt-wt&vqd=4-8498191800986520141798533714910606630&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[74] Keresés: Oplenac (serbia)
+  SIKER: /geo-images/serbia/oplenac.webp
+[75] Keresés: Vrnjačka Banja (serbia)
+  Keresési hiba (Vrnjačka Banja serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Vrnja%C4%8Dka+Banja+serbia+landmark+photo&l=wt-wt&vqd=4-284720272964236999097296228478014077267&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[76] Keresés: Sokobanja (serbia)
+  Keresési hiba (Sokobanja serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Sokobanja+serbia+landmark+photo&l=wt-wt&vqd=4-36053769840250311209716949556313748675&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[77] Keresés: Tara National Park (serbia)
+  Keresési hiba (Tara National Park serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Tara+National+Park+serbia+landmark+photo&l=wt-wt&vqd=4-305706983225685561068564645553932546041&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[78] Keresés: Đerdap National Park (serbia)C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  Keresési hiba (Đerdap National Park serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=%C4%90erdap+National+Park+serbia+landmark+photo&l=wt-wt&vqd=4-24053615228410822320831796140926868432&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[79] Keresés: Kopaonik (serbia)
+  SIKER: /geo-images/serbia/kopaonik.webp
+[80] Keresés: Fruška Gora (serbia)
+  SIKER: /geo-images/serbia/fru-ka-gora.webp
+[81] Keresés: Uvac Canyon (serbia)
+  Keresési hiba (Uvac Canyon serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Uvac+Canyon+serbia+landmark+photo&l=wt-wt&vqd=4-94570871969516700151744919367722419058&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[82] Keresés: Zlatibor (serbia)
+  Keresési hiba (Zlatibor serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Zlatibor+serbia+landmark+photo&l=wt-wt&vqd=4-140727730862399918680220171989078211254&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[83] Keresés: Lake Palić (serbia)
+  Keresési hiba (Lake Palić serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Lake+Pali%C4%87+serbia+landmark+photo&l=wt-wt&vqd=4-136029253230796536421032148828318511460&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[84] Keresés: Danube (serbia)
+  Keresési hiba (Danube serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Danube+serbia+landmark+photo&l=wt-wt&vqd=4-170483666111657275818794911447603897327&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[85] Keresés: Subotica (serbia)
+  Keresési hiba (Subotica serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Subotica+serbia+landmark+photo&l=wt-wt&vqd=4-22021923404230126665644799345514939109&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[86] Keresés: Lake Palić (serbia)
+  SIKER: /geo-images/serbia/lake-pali.webp
+[87] Keresés: Sombor (serbia)
+  Keresési hiba (Sombor serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Sombor+serbia+landmark+photo&l=wt-wt&vqd=4-95776315325270471163334785327135401443&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[88] Keresés: Apatin (serbia)
+  Keresési hiba (Apatin serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Apatin+serbia+landmark+photo&l=wt-wt&vqd=4-121269911469224197180537998253049021375&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[89] Keresés: Kikinda (serbia)
+  Keresési hiba (Kikinda serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kikinda+serbia+landmark+photo&l=wt-wt&vqd=4-338703571507809702784923512730500737967&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[90] Keresés: Senta (serbia)
+  SIKER: /geo-images/serbia/senta.webp
+[91] Keresés: Vranje (serbia)
+  SIKER: /geo-images/serbia/vranje.webp
+[92] Keresés: Prohor Pčinjski Monastery (serbia)
+  SIKER: /geo-images/serbia/prohor-p-injski-monastery.webp
+[93] Keresés: Bor (serbia)
+  Keresési hiba (Bor serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Bor+serbia+landmark+photo&l=wt-wt&vqd=4-24334948441147452245748663619696405120&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[94] Keresés: Negotin (serbia)
+  Keresési hiba (Negotin serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Negotin+serbia+landmark+photo&l=wt-wt&vqd=4-215163072134953515264670610745011212005&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[95] Keresés: Zaječar (serbia)
+  Keresési hiba (Zaječar serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Zaje%C4%8Dar+serbia+landmark+photo&l=wt-wt&vqd=4-273453992068695417879596482130777976927&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[96] Keresés: Felix Romuliana (serbia)
+  Keresési hiba (Felix Romuliana serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Felix+Romuliana+serbia+landmark+photo&l=wt-wt&vqd=4-151368316647475766723498676642311159642&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[97] Keresés: Pirot (serbia)
+  Keresési hiba (Pirot serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Pirot+serbia+landmark+photo&l=wt-wt&vqd=4-288588265731982331140832544737508623387&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[98] Keresés: Stara Planina (serbia)
+  Keresési hiba (Stara Planina serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Stara+Planina+serbia+landmark+photo&l=wt-wt&vqd=4-226818032647426665883545493637456606022&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[99] Keresés: Leskovac (serbia)
+  Keresési hiba (Leskovac serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Leskovac+serbia+landmark+photo&l=wt-wt&vqd=4-144093407437336797432292197740841757307&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[100] Keresés: Caričin Grad (serbia)
+  Keresési hiba (Caričin Grad serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Cari%C4%8Din+Grad+serbia+landmark+photo&l=wt-wt&vqd=4-69321446434945351642051309889584132284&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[101] Keresés: Kraljevo (serbia)
+  Keresési hiba (Kraljevo serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kraljevo+serbia+landmark+photo&l=wt-wt&vqd=4-269946186263330101898875798772057623235&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[102] Keresés: Jagodina (serbia)
+  Keresési hiba (Jagodina serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Jagodina+serbia+landmark+photo&l=wt-wt&vqd=4-81613842236699467671635274417669824927&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[103] Keresés: Manasija Monastery (serbia)
+  Keresési hiba (Manasija Monastery serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Manasija+Monastery+serbia+landmark+photo&l=wt-wt&vqd=4-92406715381941136663984619263685505610&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[104] Keresés: Prokuplje (serbia)
+  SIKER: /geo-images/serbia/prokuplje.webp
+[105] Keresés: Užice (serbia)
+  Keresési hiba (Užice serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=U%C5%BEice+serbia+landmark+photo&l=wt-wt&vqd=4-115179510801146888538772769175281000996&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[106] Keresés: Tara National Park (serbia)
+  Keresési hiba (Tara National Park serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Tara+National+Park+serbia+landmark+photo&l=wt-wt&vqd=4-305708035375683467747274774238658499545&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  Nincs találat.
+[107] Keresés: Sremska Mitrovica (serbia)
+  Keresési hiba (Sremska Mitrovica serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Sremska+Mitrovica+serbia+landmark+photo&l=wt-wt&vqd=4-266972236180538436808586683064327192690&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[108] Keresés: Krušedol Monastery (serbia)
+  Keresési hiba (Krušedol Monastery serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kru%C5%A1edol+Monastery+serbia+landmark+photo&l=wt-wt&vqd=4-35958330415709906788259117599714000634&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[109] Keresés: Tronoša Monastery (serbia)
+  Keresési hiba (Tronoša Monastery serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Trono%C5%A1a+Monastery+serbia+landmark+photo&l=wt-wt&vqd=4-38043490015228586693155697572309358508&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[110] Keresés: Novi Sad (serbia)
+  Keresési hiba (Novi Sad serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Novi+Sad+serbia+landmark+photo&l=wt-wt&vqd=4-17061525709237239254140976449837139969&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[111] Keresés: Zrenjanin (serbia)
+  Keresési hiba (Zrenjanin serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Zrenjanin+serbia+landmark+photo&l=wt-wt&vqd=4-77334769945494293666472661962888619083&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[112] Keresés: Carska Bara (serbia)
+  Keresési hiba (Carska Bara serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Carska+Bara+serbia+landmark+photo&l=wt-wt&vqd=4-134094606052267725531728864445465829511&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[113] Keresés: Pančevo (serbia)
+  Keresési hiba (Pančevo serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Pan%C4%8Devo+serbia+landmark+photo&l=wt-wt&vqd=4-193169074963127339247900517955220615022&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[114] Keresés: Vršac (serbia)
+  Keresési hiba (Vršac serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Vr%C5%A1ac+serbia+landmark+photo&l=wt-wt&vqd=4-39850125513717901905620097269254644540&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[115] Keresés: Požarevac (serbia)
+  Keresési hiba (Požarevac serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Po%C5%BEarevac+serbia+landmark+photo&l=wt-wt&vqd=4-257389225069160395739000460903499691869&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[116] Keresés: Viminacium (serbia)
+  Keresési hiba (Viminacium serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Viminacium+serbia+landmark+photo&l=wt-wt&vqd=4-237468680717494815722991423061482224605&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[117] Keresés: Kalemegdan Fortress (serbia)
+  Keresési hiba (Kalemegdan Fortress serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kalemegdan+Fortress+serbia+landmark+photo&l=wt-wt&vqd=4-44566212551992953858224096512669982657&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[118] Keresés: Smederevo (serbia)
+  Keresési hiba (Smederevo serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Smederevo+serbia+landmark+photo&l=wt-wt&vqd=4-177029318676383490988028592506197828407&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[119] Keresés: Smederevo Fortress (serbia)
+  Keresési hiba (Smederevo Fortress serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Smederevo+Fortress+serbia+landmark+photo&l=wt-wt&vqd=4-8497822914661730650366187875334052630&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[120] Keresés: Skull Tower (serbia)
+  Keresési hiba (Skull Tower serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Skull+Tower+serbia+landmark+photo&l=wt-wt&vqd=4-66069401800911029569568424968140183940&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[121] Keresés: Kruševac (serbia)
+  Keresési hiba (Kruševac serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Kru%C5%A1evac+serbia+landmark+photo&l=wt-wt&vqd=4-152432506163148399973531613557965408090&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[122] Keresés: Ljubostinja Monastery (serbia)
+  Keresési hiba (Ljubostinja Monastery serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Ljubostinja+Monastery+serbia+landmark+photo&l=wt-wt&vqd=4-103450722999372252269577582539147501034&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[123] Keresés: Kragujevac (serbia)
+  SIKER: /geo-images/serbia/kragujevac.webp
+[124] Keresés: Valjevo (serbia)
+  Keresési hiba (Valjevo serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Valjevo+serbia+landmark+photo&l=wt-wt&vqd=4-109439571588822665006890028923352985408&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[125] Keresés: Lelić Monastery (serbia)
+  Keresési hiba (Lelić Monastery serbia landmark photo): https://duckduckgo.com/i.js?o=json&q=Leli%C4%87+Monastery+serbia+landmark+photo&l=wt-wt&vqd=4-33390213005754351747055736880241329163&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: bulgariaPoi.ts <<<
+
+>>> Fájl: greecePoi.ts <<<
+[126] Keresés: Olympia (greece)
+  SIKER: /geo-images/greece/cult-olympia.webp
+[127] Keresés: Larissa (greece)
+  Keresési hiba (Larissa greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Larissa+greece+landmark+photo&l=wt-wt&vqd=4-273838940918342126571228259932289790806&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[128] Keresés: Volos (greece)
+  Keresési hiba (Volos greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Volos+greece+landmark+photo&l=wt-wt&vqd=4-47525864671467051908858436658141932953&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[129] Keresés: Ioannina (greece)
+  Keresési hiba (Ioannina greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Ioannina+greece+landmark+photo&l=wt-wt&vqd=4-178809106190661994194772917598876086647&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[130] Keresés: Kavala (greece)
+  SIKER: /geo-images/greece/city-kavala.webp
+[131] Keresés: Trikala (greece)
+  Keresési hiba (Trikala greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Trikala+greece+landmark+photo&l=wt-wt&vqd=4-177132689588747819407948865392944506977&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[132] Keresés: Kalamata (greece)C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  Keresési hiba (Kalamata greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Kalamata+greece+landmark+photo&l=wt-wt&vqd=4-56736854896003442871788669275122712099&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[133] Keresés: Agrinio (greece)
+  Keresési hiba (Agrinio greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Agrinio+greece+landmark+photo&l=wt-wt&vqd=4-52248763944402316946233886766804254035&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[134] Keresés: Tripoli (greece)
+  Keresési hiba (Tripoli greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Tripoli+greece+landmark+photo&l=wt-wt&vqd=4-203877952860834571123143190216795562942&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[135] Keresés: Philippi (greece)
+  SIKER: /geo-images/greece/historical-philippi.webp
+[136] Keresés: Olympia (greece)
+  Keresési hiba (Olympia greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Olympia+greece+landmark+photo&l=wt-wt&vqd=4-85808364474306355315116907549413366220&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[137] Keresés: Vergina (greece)
+  Keresési hiba (Vergina greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Vergina+greece+landmark+photo&l=wt-wt&vqd=4-23020023724458053683847029120787854452&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[138] Keresés: Mycenae (greece)
+  Keresési hiba (Mycenae greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Mycenae+greece+landmark+photo&l=wt-wt&vqd=4-76745511090424314453290853854029425805&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[139] Keresés: Marathon (greece)
+  Keresési hiba (Marathon greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Marathon+greece+landmark+photo&l=wt-wt&vqd=4-297238020629726131303725305046647900581&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[140] Keresés: Thermopylae (greece)
+  SIKER: /geo-images/greece/historical-thermopylae.webp
+[141] Keresés: Mount Parnassus (greece)
+  Keresési hiba (Mount Parnassus greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Mount+Parnassus+greece+landmark+photo&l=wt-wt&vqd=4-280543844669412020354368202994638440259&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[142] Keresés: Mount Taygetus (greece)
+  SIKER: /geo-images/greece/mountain-taygetus.webp
+[143] Keresés: Psiloritis (greece)
+  Keresési hiba (Psiloritis greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Psiloritis+greece+landmark+photo&l=wt-wt&vqd=4-91282119803287772037306119547731038038&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[144] Keresés: Lake Trichonida (greece)
+  Keresési hiba (Lake Trichonida greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Lake+Trichonida+greece+landmark+photo&l=wt-wt&vqd=4-50949639219328277748300055721149563264&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[145] Keresés: Lake Kerkini (greece)
+  Keresési hiba (Lake Kerkini greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Lake+Kerkini+greece+landmark+photo&l=wt-wt&vqd=4-128352058055384895466226922751083801905&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[146] Keresés: Axios River (greece)
+  SIKER: /geo-images/greece/river-axios.webp
+[147] Keresés: Evros River (greece)
+  Keresési hiba (Evros River greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Evros+River+greece+landmark+photo&l=wt-wt&vqd=4-203379594429346602783420192931944676294&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[148] Keresés: Corfu (greece)
+  Keresési hiba (Corfu greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Corfu+greece+landmark+photo&l=wt-wt&vqd=4-170660004812887977938353649444419427782&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[149] Keresés: Acropolis Museum (greece)
+  Keresési hiba (Acropolis Museum greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Acropolis+Museum+greece+landmark+photo&l=wt-wt&vqd=4-299557669553348397726751608362354874337&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[150] Keresés: National Archaeological Museum (greece)
+  Keresési hiba (National Archaeological Museum greece landmark photo): https://duckduckgo.com/i.js?o=json&q=National+Archaeological+Museum+greece+landmark+photo&l=wt-wt&vqd=4-291199922135575917997238617338703537890&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[151] Keresés: Benaki Museum (greece)
+  Keresési hiba (Benaki Museum greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Benaki+Museum+greece+landmark+photo&l=wt-wt&vqd=4-95831490664212311382653846479599993244&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[152] Keresés: Stavros Niarchos Foundation Cultural Center (greece)
+  Keresési hiba (Stavros Niarchos Foundation Cultural Center greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Stavros+Niarchos+Foundation+Cultural+Center+greece+landmark+photo&l=wt-wt&vqd=4-302302158722705792543926048465935083708&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[153] Keresés: Panathenaic Stadium (greece)
+  Keresési hiba (Panathenaic Stadium greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Panathenaic+Stadium+greece+landmark+photo&l=wt-wt&vqd=4-237181939582675722469497158435538889236&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[154] Keresés: Hellenic Parliament (greece)
+  Keresési hiba (Hellenic Parliament greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Hellenic+Parliament+greece+landmark+photo&l=wt-wt&vqd=4-69310263249642655464263936695818257711&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[155] Keresés: Corinth Canal (greece)
+  Keresési hiba (Corinth Canal greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Corinth+Canal+greece+landmark+photo&l=wt-wt&vqd=4-215455595143152558685092972856925792580&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[156] Keresés: Port of Piraeus (greece)
+  Keresési hiba (Port of Piraeus greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Port+of+Piraeus+greece+landmark+photo&l=wt-wt&vqd=4-131441686710896748475244831284503168697&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[157] Keresés: Port of Thessaloniki (greece)
+  Keresési hiba (Port of Thessaloniki greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Port+of+Thessaloniki+greece+landmark+photo&l=wt-wt&vqd=4-321374627338566170363102018178322530110&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 RatelimitC:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[158] Keresés: Port of Heraklion (greece)
+  Keresési hiba (Port of Heraklion greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Port+of+Heraklion+greece+landmark+photo&l=wt-wt&vqd=4-246881128238149261323877820205475047627&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[159] Keresés: Nemea Vineyards (greece)
+  Keresési hiba (Nemea Vineyards greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Nemea+Vineyards+greece+landmark+photo&l=wt-wt&vqd=4-294868489039330428642456361648937860627&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[160] Keresés: Lavrio (greece)
+  Keresési hiba (Lavrio greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Lavrio+greece+landmark+photo&l=wt-wt&vqd=4-216804543227042877314233153486472375600&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[161] Keresés: Nafplio (greece)
+  Keresési hiba (Nafplio greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Nafplio+greece+landmark+photo&l=wt-wt&vqd=4-13585692232983916590262349122199983807&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[162] Keresés: Sparta (greece)
+  Keresési hiba (Sparta greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Sparta+greece+landmark+photo&l=wt-wt&vqd=4-213281504016959190745437071517849668835&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[163] Keresés: Arta (greece)
+  SIKER: /geo-images/greece/city-arta.webp
+[164] Keresés: Kozani (greece)
+  Keresési hiba (Kozani greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Kozani+greece+landmark+photo&l=wt-wt&vqd=4-174358457291507479166967695586719925836&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[165] Keresés: Kastoria (greece)
+  Keresési hiba (Kastoria greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Kastoria+greece+landmark+photo&l=wt-wt&vqd=4-222302403341817603608346713735467575980&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[166] Keresés: Florina (greece)
+  HIBA: Letöltés sikertelen.
+[167] Keresés: Veria (greece)
+  Keresési hiba (Veria greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Veria+greece+landmark+photo&l=wt-wt&vqd=4-192054632870682299454419579745541696958&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[168] Keresés: Xanthi (greece)
+  Keresési hiba (Xanthi greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Xanthi+greece+landmark+photo&l=wt-wt&vqd=4-33228216799833759245744766320615514402&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[169] Keresés: Komotini (greece)
+  Keresési hiba (Komotini greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Komotini+greece+landmark+photo&l=wt-wt&vqd=4-216398316612971894208854498442333946473&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[170] Keresés: Alexandroupoli (greece)
+  Keresési hiba (Alexandroupoli greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Alexandroupoli+greece+landmark+photo&l=wt-wt&vqd=4-270409115079433481222195505542679492707&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[171] Keresés: Rethymno (greece)
+  SIKER: /geo-images/greece/city-rethymno.webp
+[172] Keresés: Ierapetra (greece)
+  Keresési hiba (Ierapetra greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Ierapetra+greece+landmark+photo&l=wt-wt&vqd=4-115256128189446005629820958909583199674&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[173] Keresés: Sitia (greece)
+  Keresési hiba (Sitia greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Sitia+greece+landmark+photo&l=wt-wt&vqd=4-241506748140737037982171355224561512672&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[174] Keresés: Palamidi Fortress (greece)
+  SIKER: /geo-images/greece/landmark-palamidi-fortress.webp
+[175] Keresés: Nafpaktos Castle (greece)
+  Keresési hiba (Nafpaktos Castle greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Nafpaktos+Castle+greece+landmark+photo&l=wt-wt&vqd=4-322891667084246649130028477867997791820&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[176] Keresés: Church of Agios Dimitrios (greece)
+  Keresési hiba (Church of Agios Dimitrios greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Church+of+Agios+Dimitrios+greece+landmark+photo&l=wt-wt&vqd=4-163351405190270210909750142781885389453&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[177] Keresés: Rotunda of Thessaloniki (greece)
+  Keresési hiba (Rotunda of Thessaloniki greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Rotunda+of+Thessaloniki+greece+landmark+photo&l=wt-wt&vqd=4-181229490008861273375398219768427093058&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[178] Keresés: Archaeological Museum of Heraklion (greece)
+  Keresési hiba (Archaeological Museum of Heraklion greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Archaeological+Museum+of+Heraklion+greece+landmark+photo&l=wt-wt&vqd=4-275549381188433188213358367082212252064&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[179] Keresés: Museum of Ancient Olympia (greece)
+  Keresési hiba (Museum of Ancient Olympia greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Museum+of+Ancient+Olympia+greece+landmark+photo&l=wt-wt&vqd=4-128211954354067543596398717091191854008&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[180] Keresés: Panagia Kera Monastery (greece)
+  Keresési hiba (Panagia Kera Monastery greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Panagia+Kera+Monastery+greece+landmark+photo&l=wt-wt&vqd=4-230624670282709768476830529009942005769&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[181] Keresés: Mount Parnitha (greece)
+  Keresési hiba (Mount Parnitha greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Mount+Parnitha+greece+landmark+photo&l=wt-wt&vqd=4-298059123103932337202231940641127984178&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[182] Keresés: Lake Prespa (greece)
+  Keresési hiba (Lake Prespa greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Lake+Prespa+greece+landmark+photo&l=wt-wt&vqd=4-82085624630773965208773084525894591845&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[183] Keresés: Aliakmonas River (greece)
+  Keresési hiba (Aliakmonas River greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Aliakmonas+River+greece+landmark+photo&l=wt-wt&vqd=4-41989775660362760703608390466594967069&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 RatelimitC:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[184] Keresés: Elafonisos (greece)
+  Keresési hiba (Elafonisos greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Elafonisos+greece+landmark+photo&l=wt-wt&vqd=4-326823471014317800091040453842282868534&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[185] Keresés: Dadia Forest (greece)
+  Keresési hiba (Dadia Forest greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Dadia+Forest+greece+landmark+photo&l=wt-wt&vqd=4-145702858144217206697853356330979222501&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[186] Keresés: Lake Kournas (greece)
+  SIKER: /geo-images/greece/lake-kournas.webp
+[187] Keresés: Keritis River (greece)
+  Keresési hiba (Keritis River greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Keritis+River+greece+landmark+photo&l=wt-wt&vqd=4-25813920032742191120343525513169200363&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[188] Keresés: Samos Muscat Vineyards (greece)
+  SIKER: /geo-images/greece/agriculture-samos-muscat-vines.webp
+[189] Keresés: Crete Olive Groves (greece)
+  Keresési hiba (Crete Olive Groves greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Crete+Olive+Groves+greece+landmark+photo&l=wt-wt&vqd=4-171068968512612685220690510435679526186&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[190] Keresés: Athens Planetarium (greece)
+  Keresési hiba (Athens Planetarium greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Athens+Planetarium+greece+landmark+photo&l=wt-wt&vqd=4-32431285357114251405044117362276409007&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[191] Keresés: Attica Zoological Park (greece)
+  Keresési hiba (Attica Zoological Park greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Attica+Zoological+Park+greece+landmark+photo&l=wt-wt&vqd=4-192504052406873254435049086148719434500&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[192] Keresés: Noesis Science Center (greece)
+  Keresési hiba (Noesis Science Center greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Noesis+Science+Center+greece+landmark+photo&l=wt-wt&vqd=4-25238598569350181096375811992584175106&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[193] Keresés: Cretaquarium (greece)
+  Keresési hiba (Cretaquarium greece landmark photo): https://duckduckgo.com/i.js?o=json&q=Cretaquarium+greece+landmark+photo&l=wt-wt&vqd=4-319371852029824201787971872800768758668&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: portugalPoi.ts <<<
+[194] Keresés: Casa da Musica (portugal)
+  Keresési hiba (Casa da Musica portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Casa+da+Musica+portugal+landmark+photo&l=wt-wt&vqd=4-203686884447946133361201361775931937348&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[195] Keresés: Douro Vineyards (portugal)
+  Keresési hiba (Douro Vineyards portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Douro+Vineyards+portugal+landmark+photo&l=wt-wt&vqd=4-298515318900558204152599336410943588657&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[196] Keresés: Sete Cidades Lake (portugal)
+  Keresési hiba (Sete Cidades Lake portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Sete+Cidades+Lake+portugal+landmark+photo&l=wt-wt&vqd=4-88579146208606574292449645297689395205&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[197] Keresés: Caramulo Range (portugal)
+  Keresési hiba (Caramulo Range portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Caramulo+Range+portugal+landmark+photo&l=wt-wt&vqd=4-11272636205034702742272101313356577430&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[198] Keresés: Braganca (portugal)
+  Keresési hiba (Braganca portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Braganca+portugal+landmark+photo&l=wt-wt&vqd=4-239991578921681890828848029993613859883&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[199] Keresés: Elvas Fortifications (portugal)
+  Keresési hiba (Elvas Fortifications portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Elvas+Fortifications+portugal+landmark+photo&l=wt-wt&vqd=4-178626774894713675537334254187323439135&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[200] Keresés: Vinho Verde Region (portugal)
+  Keresési hiba (Vinho Verde Region portugal landmark photo): https://duckduckgo.com/i.js?o=json&q=Vinho+Verde+Region+portugal+landmark+photo&l=wt-wt&vqd=4-26077204421075598664888188148685810096&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: estoniaPoi.ts <<<
+[201] Keresés: Paldiski South Harbour (estonia)
+  Keresési hiba (Paldiski South Harbour estonia landmark photo): https://duckduckgo.com/i.js?o=json&q=Paldiski+South+Harbour+estonia+landmark+photo&l=wt-wt&vqd=4-79887424712453759767132254689912211349&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[202] Keresés: Port of Pärnu (estonia)
+  Keresési hiba (Port of Pärnu estonia landmark photo): https://duckduckgo.com/i.js?o=json&q=Port+of+P%C3%A4rnu+estonia+landmark+photo&l=wt-wt&vqd=4-187101373068326456872510819258734827336&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: latviaPoi.ts <<<
+[203] Keresés: Museum of the Occupation of Latvia (latvia)
+  Keresési hiba (Museum of the Occupation of Latvia latvia landmark photo): https://duckduckgo.com/i.js?o=json&q=Museum+of+the+Occupation+of+Latvia+latvia+landmark+photo&l=wt-wt&vqd=4-141664874435460460807822598075712112848&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[204] Keresés: Liepāja Port (latvia)
+  Keresési hiba (Liepāja Port latvia landmark photo): https://duckduckgo.com/i.js?o=json&q=Liep%C4%81ja+Port+latvia+landmark+photo&l=wt-wt&vqd=4-250043440197237499569834036750222331217&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: lithuaniaPoi.ts <<<
+[205] Keresés: Curonian Spit (lithuania)
+  Keresési hiba (Curonian Spit lithuania landmark photo): https://duckduckgo.com/i.js?o=json&q=Curonian+Spit+lithuania+landmark+photo&l=wt-wt&vqd=4-258278350967060854072130779268647996317&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[206] Keresés: Panevėžys (lithuania)
+  Keresési hiba (Panevėžys lithuania landmark photo): https://duckduckgo.com/i.js?o=json&q=Panev%C4%97%C5%BEys+lithuania+landmark+photo&l=wt-wt&vqd=4-337109567122008698253756247500192157222&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+
+  Nincs találat.
+[207] Keresés: Klaipėda LNG Terminal (lithuania)
+  HIBA: Letöltés sikertelen.
+
+>>> Fájl: finlandPoi.ts <<<
+[208] Keresés: Vantaa (finland)
+  Keresési hiba (Vantaa finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Vantaa+finland+landmark+photo&l=wt-wt&vqd=4-226095441059800426539130587923414321475&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[209] Keresés: Kotka (finland)
+  Keresési hiba (Kotka finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Kotka+finland+landmark+photo&l=wt-wt&vqd=4-248062342103889860459361019963577289269&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[210] Keresés: Suomenlinna Fortress (finland)
+  Keresési hiba (Suomenlinna Fortress finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Suomenlinna+Fortress+finland+landmark+photo&l=wt-wt&vqd=4-163853051439170366497530819730051070483&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[211] Keresés: Helsinki Design District (finland)
+  Keresési hiba (Helsinki Design District finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Helsinki+Design+District+finland+landmark+photo&l=wt-wt&vqd=4-130227331319280913834244681258893734284&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[212] Keresés: Old Rauma (finland)
+  Keresési hiba (Old Rauma finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Old+Rauma+finland+landmark+photo&l=wt-wt&vqd=4-119812014693017644987625644685540387236&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[213] Keresés: Petäjävesi Old Church (finland)
+  Keresési hiba (Petäjävesi Old Church finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Pet%C3%A4j%C3%A4vesi+Old+Church+finland+landmark+photo&l=wt-wt&vqd=4-258038489600007492796778316407422023841&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[214] Keresés: Oodi Library (finland)
+  Keresési hiba (Oodi Library finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Oodi+Library+finland+landmark+photo&l=wt-wt&vqd=4-225352553489365491254607385121447489808&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[215] Keresés: Kvarken Archipelago (finland)
+  Keresési hiba (Kvarken Archipelago finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Kvarken+Archipelago+finland+landmark+photo&l=wt-wt&vqd=4-67239264085102855883638425274723885370&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[216] Keresés: Neristan (finland)
+  Keresési hiba (Neristan finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Neristan+finland+landmark+photo&l=wt-wt&vqd=4-114787315848466907128778931981618917673&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[217] Keresés: Kastelholm Castle (finland)
+  Keresési hiba (Kastelholm Castle finland landmark photo): https://duckduckgo.com/i.js?o=json&q=Kastelholm+Castle+finland+landmark+photo&l=wt-wt&vqd=4-60801768421148833947858031386147754374&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: swedenPoi.ts <<<
+[218] Keresés: Lulea (sweden)
+  Keresési hiba (Lulea sweden landmark photo): https://duckduckgo.com/i.js?o=json&q=Lulea+sweden+landmark+photo&l=wt-wt&vqd=4-210381393618959487929320195325455605206&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[219] Keresés: Birka and Hovgården (sweden)
+  Keresési hiba (Birka and Hovgården sweden landmark photo): https://duckduckgo.com/i.js?o=json&q=Birka+and+Hovg%C3%A5rden+sweden+landmark+photo&l=wt-wt&vqd=4-236883798881892262896094457227089676975&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[220] Keresés: Battle of Stangebro (sweden)
+  Keresési hiba (Battle of Stangebro sweden landmark photo): https://duckduckgo.com/i.js?o=json&q=Battle+of+Stangebro+sweden+landmark+photo&l=wt-wt&vqd=4-297559436462756759880197825609584115493&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: norwayPoi.ts <<<
+[221] Keresés: Norwegian Lapland (norway)
+  Keresési hiba (Norwegian Lapland norway landmark photo): https://duckduckgo.com/i.js?o=json&q=Norwegian+Lapland+norway+landmark+photo&l=wt-wt&vqd=4-47537133511494727413486279695322980754&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[222] Keresés: Holmenkollen Ski Jump (norway)
+  Keresési hiba (Holmenkollen Ski Jump norway landmark photo): https://duckduckgo.com/i.js?o=json&q=Holmenkollen+Ski+Jump+norway+landmark+photo&l=wt-wt&vqd=4-161105454400780369880487075527286941679&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[223] Keresés: Herøya Industrial Park (norway)
+  Keresési hiba (Herøya Industrial Park norway landmark photo): https://duckduckgo.com/i.js?o=json&q=Her%C3%B8ya+Industrial+Park+norway+landmark+photo&l=wt-wt&vqd=4-324518833473629283462905142828227993454&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: denmarkPoi.ts <<<
+[224] Keresés: Roskilde (denmark)
+  Keresési hiba (Roskilde denmark landmark photo): https://duckduckgo.com/i.js?o=json&q=Roskilde+denmark+landmark+photo&l=wt-wt&vqd=4-169988335041199776359529794279986678419&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[225] Keresés: Kolding (denmark)
+  SIKER: /geo-images/denmark/kolding.webp
+[226] Keresés: Round Tower (denmark)
+  Keresési hiba (Round Tower denmark landmark photo): https://duckduckgo.com/i.js?o=json&q=Round+Tower+denmark+landmark+photo&l=wt-wt&vqd=4-315831280590443352030418725332806264343&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[227] Keresés: Port of Aarhus (denmark)
+  HIBA: Letöltés sikertelen.
+[228] Keresés: Roskilde Cathedral (denmark)
+  Keresési hiba (Roskilde Cathedral denmark landmark photo): https://duckduckgo.com/i.js?o=json&q=Roskilde+Cathedral+denmark+landmark+photo&l=wt-wt&vqd=4-334477403524645708748433258183492563255&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[229] Keresés: Trelleborg Viking Fortress (denmark)
+  Keresési hiba (Trelleborg Viking Fortress denmark landmark photo): https://duckduckgo.com/i.js?o=json&q=Trelleborg+Viking+Fortress+denmark+landmark+photo&l=wt-wt&vqd=4-55789471844060989231705236968996228357&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+
+>>> Fájl: irelandPoi.ts <<<
+[230] Keresés: Dundalk (ireland)
+  Keresési hiba (Dundalk ireland landmark photo): https://duckduckgo.com/i.js?o=json&q=Dundalk+ireland+landmark+photo&l=wt-wt&vqd=4-87064069906427687277386139302837621866&p=-1&f=%2Csize%3AMedium%2C%2Ctype%3Aphoto%2C%2C 403 Ratelimit
+  !!! RATE LIMIT DETECTED !!! Várakozás 5 percig...
+  Nincs találat.
+[231] Keresés: Carrauntoohil (ireland)C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+C:\Users\User\plizio-repo\scripts\smart_poi_downloader_v2.py:91: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:

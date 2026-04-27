@@ -1,0 +1,133 @@
+
+{
+  "historical-aquincum-museum-extra": {
+    "desc_hu": "Az Aquincumi Múzeum és Régészeti Park Budapest egyik legfontosabb történelmi helyszíne, amely az egykori római polgárváros maradványait őrzi. Az i.sz. 1. században alapított település Pannónia provincia székhelye volt, virágkorában több tízezer lakossal és fejlett infrastruktúrával rendelkezett. A látogatók bejárhatják az ókori utcákat, megcsodálhatják a padlófűtéssel ellátott lakóházakat, a közfürdőket és a két amfiteátrumot. A múzeumi épületben világhírű leletek láthatóak, köztük az Aquincumi Víziorgona, amely egyedülálló darabja az antik zenetörténetnek. A park területén zajló Floralia ünnepségek minden évben életre keltik a római hagyományokat, bemutatva a katonai életet és a kézművességet. Aquincum nemcsak a múlt emléke, hanem a modern várostervezés és mérnöki tudományok ókori bizonyítéka is. Történelem K5 — a Római Birodalom és Pannónia.",
+    "facts_hu": [
+      "Aquincum az 1. század végén lett a római határvédelmi rendszer, a limes része.",
+      "A város két részből állt: a polgárvárosból és a közeli katonai táborból.",
+      "Az itt talált víziorgona 228-ból származik, és 1931-ben fedezték fel a romok között.",
+      "A település saját vízvezeték-hálózattal és csatornarendszerrel rendelkezett.",
+      "A polgárvárosi amfiteátrum körülbelül 6000 néző befogadására volt alkalmas.",
+      "Marcus Aurelius császár a germánok elleni hadjáratok idején itt is tartózkodott.",
+      "A múzeum 1894-ben nyitotta meg kapuit, Magyarország egyik legrégebbi régészeti intézménye.",
+      "A feltárt romok között mithreumok (Mithrász-szentélyek) és ókeresztény kápolnák is vannak."
+    ]
+  },
+  "historical-vasarcsarnok-extra": {
+    "desc_hu": "A budapesti Nagyvásárcsarnok, vagy központi vásárcsarnok, a magyar főváros egyik leglátványosabb és legforgalmasabb épülete, a magyar gasztronómia igazi szentélye. A 19. század végén Pecz Samu tervei alapján épült neogotikus csarnok acélszerkezetével és a pécsi Zsolnay-gyár színes mázas cserepeivel borított tetejével az építészeti világörökség része. Három szinten kínálja a legkiválóbb magyar termékeket: a földszinten a friss áruk, húsok és zöldségek, az emeleten a népművészeti ajándéktárgyak és kifőzdék, míg az alagsorban a halasok és savanyúságosok kapnak helyet. A csarnok nemcsak bevásárlóhely, hanem turisztikai látványosság is, ahol a látogatók közvetlen közelről ismerhetik meg a magyar konyha alapanyagait és hangulatát. 2013-ban a CNN Travel Európa legjobb piacának választotta, ami nemzetközi hírnevét tovább öregbítette. Földrajz K7 — városi funkciók, kereskedelem és építészettörténet.",
+    "facts_hu": [
+      "A csarnok 1897-ben készült el, egyszerre öt másik budapesti vásárcsarnokkal.",
+      "A tetőt díszítő színes majolikacserepek a világhírű Zsolnay-gyárban készültek.",
+      "Az épületnek eredetileg saját dunai hajórakodója és vasúti vágánya is volt.",
+      "A második világháború alatt súlyos károkat szenvedett, csak az 1990-es években újították fel teljesen.",
+      "Alapterülete közel 10 000 négyzetméter, amivel Magyarország legnagyobb fedett piaca.",
+      "Híres látogatók között volt Diana hercegnő és Margaret Thatcher is.",
+      "A csarnok vasszerkezete korának egyik legmodernebb mérnöki megoldása volt.",
+      "A horganyzott acél tetőszerkezet fesztávolsága és magassága is monumentális."
+    ]
+  },
+  "historical-operahaz-extra": {
+    "desc_hu": "A Magyar Állami Operaház a neoreneszánsz építészet egyik legszebb alkotása Budapesten, az elegáns Andrássy úton. Ybl Miklós tervei alapján épült 1875 és 1884 között, a korszak legkiválóbb magyar művészeinek közreműködésével. A palota belső terei lélegzetelállítóak: a márványoszlopok, az aranyozott díszítések és Lotz Károly monumentális mennyezetfreskói az „Olümposzról” a magyar kultúra aranykorát idézik. Az Operaház akusztikája világhírű, patkó alakú nézőtere az egyik legjobb hangzást biztosítja Európában. Nemcsak operaelőadások, hanem a Magyar Nemzeti Balett otthona is. A monumentális lépcsőház és a királyi páholyok a Monarchia pompáját tükrözik, miközben az épület ma már a legmodernebb színpadtechnikával várja a közönséget. Művészettörténet K6 — neoreneszánsz stílus és Ybl Miklós életműve.",
+    "facts_hu": [
+      "Az épületet 1884. szeptember 27-én avatták fel Ferenc József császár jelenlétében.",
+      "A legenda szerint a császár kikötötte, hogy nem lehet nagyobb a bécsi operánál.",
+      "A nézőtér csillárja 3 tonna súlyú, és eredetileg gázvilágítással működött.",
+      "Gustav Mahler 1888 és 1891 között volt a ház igazgatója és karmestere.",
+      "A homlokzatot Liszt Ferenc és Erkel Ferenc szobrai díszítik, Alajos Stróbl alkotásai.",
+      "A színpad alatti hidraulika és süllyesztőrendszer építésekor forradalmi volt.",
+      "A 2022-es teljes felújítás során az eredeti akusztikai paramétereket is finomhangolták.",
+      "A nézőtér 1200 fő befogadására alkalmas, belső díszítéséhez 7 kilogramm aranyat használtak fel."
+    ]
+  },
+  "animal-habitat-allatkert-bp-extra": {
+    "desc_hu": "A Fővárosi Állat- és Növénykert a világ egyik legrégebbi és legszebb állatkertje, amely 1866-ban nyitotta meg kapuit a Városliget szívében. Az intézmény különlegessége a páratlan építészeti öröksége: szecessziós stílusú állatházai, mint az indiai hatású Elefánt-ház vagy a Zsolnay-kerámiával díszített épületek, önmagukban is műemléknek számítanak. Az állatkert több mint ezer fajt mutat be, az egzotikus állatoktól a hazai vadon élővilágáig, mindezt egy botanikailag is rendkívül gazdag kertben. A legújabb látványosság a „Varázshegy”, amely a központi műszikla belsejében kínál interaktív tudományos kiállítást az evolúcióról és az élet sokszínűségéről. Az állatkert fontos szerepet játszik a veszélyeztetett fajok védelmében és a környezeti nevelésben, generációk számára nyújtva felejthetetlen élményt. Természetismeret K4 — élőlények védelme és állatkertek szerepe.",
+    "facts_hu": [
+      "Magyarország első állatkertje 1866. augusztus 9-én nyílt meg a közönség előtt.",
+      "Az Elefánt-ház és a Pálmaház a magyar szecessziós építészet remekművei.",
+      "Kós Károly építész számos ikonikus épületet tervezett a kert számára az 1910-es években.",
+      "A kert területén több mint 1000 növényfaj és változat található a világ minden tájáról.",
+      "Itt született meg 2007-ben az első mesterséges megtermékenyítéssel fogant orrszarvú borjú.",
+      "A Varázs-hegy interaktív kalandközpontja egy 30 méter magas műszikla belsejében van.",
+      "Az intézmény tagja a Világ Állatkertjei és Akváriumai Szövetségének (WAZA).",
+      "Az Állatkert az ország egyik leglátogatottabb kulturális és turisztikai célpontja."
+    ]
+  },
+  "port-csepel-kikoto-extra": {
+    "desc_hu": "A Csepeli Szabadkikötő Magyarország legjelentősebb vízi kapuja és legfontosabb logisztikai csomópontja a Dunán. A 20. század elején épült kikötő Budapest déli részén, a Csepel-sziget északi csúcsán helyezkedik el, stratégiai összeköttetést biztosítva az Északi-tenger és a Fekete-tenger között a Rajna-Majna-Duna csatornán keresztül. Ez a trimodális központ – ahol a vízi, vasúti és közúti szállítás találkozik – hatalmas konténerterminálokkal, gabonasilókkal és modern raktárakkal rendelkezik. A kikötő jelentősége a magyar külkereskedelem szempontjából felbecsülhetetlen, hiszen itt zajlik az ország nyersanyag- és áruforgalmának jelentős része. A folyamatos fejlesztések révén a Szabadkikötő ma már modern technológiákkal és környezetbarát megoldásokkal szolgálja ki az európai folyami áruszállítást. Földrajz K7 — vízi közlekedés, áruszállítás és logisztikai hálózatok.",
+    "facts_hu": [
+      "A kikötő hivatalos megnyitására 1928. október 20-án került sor.",
+      "Ez az egyetlen olyan kikötő Magyarországon, amely szabadkikötői (vámmentes) státusszal bírt.",
+      "Medencéit úgy alakították ki, hogy alacsony dunai vízállásnál is biztonságosan használhatóak legyenek.",
+      "A kikötő gabonasilója átadásakor Európa egyik legnagyobb és legmodernebb ilyen építménye volt.",
+      "Területe meghaladja a 150 hektárt, ahol több tucat logisztikai cég működik.",
+      "Évente több millió tonna áru, főként gabona, érc és konténer fordul meg itt.",
+      "Közvetlen vasúti kapcsolata révén a tehervonatok a kikötőből egyenesen az országos hálózatra jutnak.",
+      "A második világháborúban stratégiai célpontként súlyos bombatalálatokat kapott."
+    ]
+  },
+  "historical-siklosi-var-extra": {
+    "desc_hu": "A siklósi vár Magyarország egyik legépszerűbb és legimpozánsabb középkori erődítménye, amely Baranya vármegye déli részén magasodik a város fölé. Története a 13. századig nyúlik vissza, és az évszázadok során olyan neves főúri családok lakták, mint a Garaiak vagy a Perényiek. Az épület egyedülálló módon ötvözi a gótika, a reneszánsz és a barokk stílusjegyeit, tükrözve a különböző történelmi korszakok igényeit. A vár különleges látnivalója a pazar késő gótikus várkápolna és a vármúzeum, ahol fegyvertörténeti és helytörténeti kiállítások várják a látogatókat. Országos hírnevét a „Tenkes kapitánya” című televíziós sorozatnak is köszönheti, amelyet a falai között forgattak. A felújított bástyákról és gyilokjárókról pazar kilátás nyílik a Villányi-hegység borvidékére. Történelem K5 — várépítészet és végvárak Magyarországon.",
+    "facts_hu": [
+      "A vár első írásos említése 1294-ből származik, vélhetően a tatárjárás után épült.",
+      "Zsigmond királyt 1401-ben a fellázadt magyar bárók egy ideig itt tartották fogva.",
+      "A Perényi család idején vált a vár jelentős reneszánsz kulturális központtá.",
+      "A várkápolna freskói és faragott kőoltára nemzetközi szinten is kiemelkedő műalkotás.",
+      "A török hódoltság idején Siklós fontos igazgatási és katonai központ volt.",
+      "Ma a várban panoptikum mutatja be az egykori lakók, köztük Kanizsai Dorottya alakját.",
+      "A vár belső udvarán rendszeresen tartanak szabadtéri színházi előadásokat és koncerteket.",
+      "Itt található Magyarország egyik leggazdagabb középkori kínzókamra kiállítása."
+    ]
+  },
+  "historical-mohacsi-emlekhely-extra": {
+    "desc_hu": "A Mohácsi Nemzeti Emlékhely a magyar történelem egyik legtragikusabb és egyben legfontosabb eseményének, az 1526-os mohácsi csatának állít méltó emléket. A Sátorhely határában fekvő park azon a helyszínen található, ahol a régészek a csatában elesett katonák tömegsírjait feltárták. Az emlékpark szimbolikus elrendezése, a több mint 1700 egyedi fa szobor, amely a névtelen hősöket, lovasokat és vitézeket ábrázolja, mély érzelmi hatást gyakorol az ide látogatókra. A modern látogatóközpont interaktív kiállítása bemutatja a csata előzményeit, menetét és a hódoltság korának következményeit. Ez a hely nemcsak a gyászé, hanem a nemzeti önazonosságé és az áldozatvállalásé is, figyelmeztetve az utókort a múlt tanulságaira. Történelem K5 — a mohácsi vész és következményei.",
+    "facts_hu": [
+      "A mohácsi csata 1526. augusztus 29-én zajlott, és mindössze néhány óra alatt eldőlt.",
+      "Az emlékhelyet 1976-ban, a csata 450. évfordulóján nyitották meg a közönség előtt.",
+      "A parkban található fa szobrok mindegyike egy-egy elesett katonát vagy történelmi alakot jelképez.",
+      "A központi épület formája a magyar Szent Koronát idézi fel felülnézetből.",
+      "A csatatéren vesztette életét a fiatal II. Lajos király is, aki menekülés közben a Csele-patakba fúlt.",
+      "A tömegsírokban magyarok mellett számos más nemzetiségű katona nyugszik.",
+      "A terület 2011-ben bővült a modern, többszintes látogatóközponttal.",
+      "Minden évben nagyszabású megemlékezést és haditornát tartanak a csata évfordulóján."
+    ]
+  },
+  "historical-pecsi-szekesegyhaz-extra": {
+    "desc_hu": "A Pécsi Székesegyház, vagy más néven a Szent Péter és Szent Pál-bazilika, Pécs városának legismertebb jelképe és a magyarországi keresztény építészet egyik legfontosabb emléke. A Mecsek lábánál magasodó négytornyú bazilika alapjai a római korig és az államalapítás koráig nyúlnak vissza, mai neoromán formáját a 19. század végén nyerte el Friedrich von Schmidt tervei alapján. A templom belső tere lenyűgöző: Lotz Károly és Székely Bertalan monumentális freskói, az aranyozott oltárok és a pazar szobordíszítések a Monarchia virágkorát idézik. Különleges értéke az öthajós altemplom, amely hazánk egyik legrégebbi és legépebben maradt román kori építménye. A bazilika kiváló akusztikája miatt rendszeresen ad otthont világszínvonalú orgonakoncerteknek is. Művészettörténet K6 — román és neoromán stílus, freskóművészet.",
+    "facts_hu": [
+      "A bazilika négy tornya egyenként 60 méter magas, a négy égtáj felé mutatva.",
+      "A török hódoltság idején a templomot mecsetként és lőporraktárként is használták.",
+      "Itt található Magyarország egyik legnagyobb és legjobb hangzású orgonája.",
+      "Az altemplomban nyugszik többek között Janus Pannonius, a híres humanista költő és püspök.",
+      "A bazilika déli kapuján látható bronz domborművek a magyar szenteket ábrázolják.",
+      "A templom belső díszítéséhez több mázsa aranyfüstöt használtak fel a restauráláskor.",
+      "A Székesegyház a világörökségi Pécsi ókeresztény sírkamrák tőszomszédságában fekszik.",
+      "1991-ben II. János Pál pápa látogatásakor a bazilikát a 'minor' rangra emelte."
+    ]
+  },
+  "animal-habitat-pecsi-allatkert-extra": {
+    "desc_hu": "A Pécsi Állatkert és Akvárium-Terrárium a Mecsek hegység oldalában, festői környezetben várja a természet kedvelőit. Az 1960-ban alapított, nemrégiben teljes körűen felújított park Magyarország egyik legmodernebb állatkertje, amely a hegyoldal sajátos domborzati viszonyait kihasználva egyedülálló látványt nyújt. A gyűjteményben olyan ritka fajok szerepelnek, mint a törpevíziló, a perzsa párduc és a vörös panda, de nagy hangsúlyt fektetnek a Mecsek őshonos élővilágának bemutatására is. Az épületkomplexumban kapott helyet a modern akvárium és terrárium, ahol a látogatók a cápák és tengeri halak világa mellett egzotikus hüllőkkel is találkozhatnak. A kert legmagasabb pontjáról lenyűgöző panoráma nyílik Pécs belvárosára, így a természetjárás és a városnézés élménye itt összekapcsolódik. Természetismeret K4 — állatvilág védelme és ökoturizmus.",
+    "facts_hu": [
+      "Az állatkertet 1960-ban társadalmi munkában, rekordidő alatt építették fel a pécsiek.",
+      "A park 300 méter tengerszint feletti magasságban, egy egykori kőbánya területén fekszik.",
+      "Az Akvárium-Terrárium egység korábban a belvárosban működött, ma már a kert része.",
+      "Itt látható a dél-dunántúli régió egyetlen nagyméretű tengeri akváriuma.",
+      "Az állatkert különleges oktatóközpontja a Mecsek élővilágát mutatja be iskolásoknak.",
+      "A területen számos védett, vadon élő növényfaj, például orchideák is megtalálhatóak.",
+      "A pécsi állatkert aktívan részt vesz nemzetközi fajmegőrzési programokban (EEP).",
+      "A park kabalaállata a Rote Panda, amelynek tenyésztésében sikereket értek el."
+    ]
+  },
+  "industry-beremendi-cementgyar-extra": {
+    "desc_hu": "A Beremendi Cementgyár Magyarország legdélebbi és egyik legnagyobb múltú ipari létesítménye, amely az ország építőiparának alapvető bázisa. A gyár Beremend nagyközség határában, a kiváló minőségű mészkőlelőhelyek közelében épült fel, és több mint egy évszázada meghatározza a régió gazdasági életét. A modernizált üzem ma már világszínvonalú technológiát alkalmaz, nagy hangsúlyt fektetve a környezetvédelmi előírások betartására és a fenntartható termelésre. A gyár monumentális silói és a környező hatalmas bányák a dél-baranyai táj meghatározó elemei. Beremend cementje ott van az ország legfontosabb hídjaiban, autópályáiban és középületeiben, bizonyítva az itteni ipari tudás minőségét. A gyár a térség legjelentősebb munkáltatója, stabilitást biztosítva a Dráva-menti tanyavilág és falvak lakóinak. Földrajz K7 — nehézipar, bányászat és építőanyag-gyártás Magyarországon.",
+    "facts_hu": [
+      "A cementgyártás Beremenden 1911-ben kezdődött meg az első körkemencékkel.",
+      "A gyár alapanyaga a Beremendi-hegy kristályos mészköve, amely Európa-hírű tisztaságú.",
+      "A település a trianoni határ után az ország legdélebbi pontjává vált, ami stratégiai helyzetet adott.",
+      "A 70-es években épült fel az új, modern száraz technológiájú gyáregység.",
+      "A gyár élen jár a hulladékhasznosításban, az energiatermeléshez alternatív tüzelőanyagokat is használ.",
+      "Éves termelési kapacitása meghaladja az egymillió tonna cementet.",
+      "A létesítmény saját vasúti rakodóval rendelkezik az áruk hatékony elszállításához.",
+      "A gyár környezetében elhelyezkedő bányatavak ma már fontos horgász- és pihenőhelyek."
+    ]
+  }
+}

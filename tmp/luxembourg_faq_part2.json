@@ -1,0 +1,444 @@
+{
+  "city-bourscheid": {
+    "de": [
+      { "q": "Was ist die Hauptattraktion in Bourscheid?", "a": "Die imposante mittelalterliche Burg Bourscheid, die größte des Landes." },
+      { "q": "Wie hoch liegt die Burg über der Sauer?", "a": "Sie liegt etwa 150 Meter über dem Fluss auf einem markanten Felsen." },
+      { "q": "Welchen Ausblick hat man von der Burg Bourscheid?", "a": "Einen spektakulären 360-Grad-Panorama-Blick auf das Our- und Sauertal." },
+      { "q": "Ist die Burg nachts beleuchtet?", "a": "Ja, sie ist prachtvoll illuminiert und von weitem in den Ardennen sichtbar." }
+    ],
+    "hu": [
+      { "q": "Mi Bourscheid fő látnivalója?", "a": "Az impozáns középkori bourscheidi vár, amely az ország legnagyobb vára." },
+      { "q": "Milyen magasan fekszik a vár a Sauer folyó felett?", "a": "Körülbelül 150 méterrel a folyó felett, egy jellegzetes sziklán található." },
+      { "q": "Milyen kilátás nyílik a bourscheidi várból?", "a": "Látványos, 360 fokos panoráma nyílik az Our- és Sauer-völgyre." },
+      { "q": "Ki van világítva a vár éjszaka?", "a": "Igen, pompásan ki van világítva, és messziről látható az Ardennekben." }
+    ],
+    "ro": [
+      { "q": "Care este principala atracție din Bourscheid?", "a": "Impunătorul castel medieval Bourscheid, cel mai mare din țară." },
+      { "q": "La ce înălțime se află castelul deasupra râului Sauer?", "a": "Se află la aproximativ 150 de metri deasupra râului, pe o stâncă proeminentă." },
+      { "q": "Ce priveliște oferă castelul Bourscheid?", "a": "O panoramă spectaculoasă de 360 de grade asupra văilor Our și Sauer." },
+      { "q": "Este castelul iluminat noaptea?", "a": "Da, este iluminat magnific și vizibil de la mare distanță în Ardeni." }
+    ],
+    "en": [
+      { "q": "What is the main attraction in Bourscheid?", "a": "The imposing medieval Bourscheid Castle, the largest in the country." },
+      { "q": "How high is the castle above the Sûre River?", "a": "It is located about 150 meters above the river on a prominent rock." },
+      { "q": "What kind of view do you get from Bourscheid Castle?", "a": "A spectacular 360-degree panoramic view of the Our and Sûre valleys." },
+      { "q": "Is the castle illuminated at night?", "a": "Yes, it is magnificently lit up and visible from afar in the Ardennes." }
+    ]
+  },
+  "city-berdorf": {
+    "de": [
+      { "q": "Wofür ist das Dorf Berdorf bekannt?", "a": "Für seine spektakulären Sandsteinfelsformationen und als Herz des Müllerthals." },
+      { "q": "Welche bekannte Felsformation liegt bei Berdorf?", "a": "Der 'Priedegtstull' (Predigtstuhl)." },
+      { "q": "Gibt es lokale Spezialitäten in Berdorf?", "a": "Ja, Berdorf ist berühmt für seinen lokal produzierten Berdorfer Käse." },
+      { "q": "Was ist der 'Aquatower' in Berdorf?", "a": "Ein 55 Meter hoher Wasserturm mit einer Aussichtsplattform und einer Ausstellung über Wasser." }
+    ],
+    "hu": [
+      { "q": "Miről nevezetes Berdorf falu?", "a": "Látványos homokkő sziklaalakzatairól és arról, hogy a Mullerthal szíve." },
+      { "q": "Melyik ismert sziklaalakzat található Berdorf közelében?", "a": "A 'Priedegtstull' (Prédikálószék)." },
+      { "q": "Vannak helyi különlegességek Berdorfban?", "a": "Igen, Berdorf híres a helyben készített Berdorfer sajtról." },
+      { "q": "Mi az az 'Aquatower' Berdorfban?", "a": "Egy 55 méter magas víztorony kilátóval és a vízzel kapcsolatos kiállítással." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut satul Berdorf?", "a": "Pentru formațiunile sale spectaculoase de gresie și ca fiind inima regiunii Mullerthal." },
+      { "q": "Ce formațiune stâncoasă cunoscută se află lângă Berdorf?", "a": " 'Priedegtstull' (Amvonul)." },
+      { "q": "Există specialități locale în Berdorf?", "a": "Da, Berdorf este renumit pentru brânza Berdorfer produsă local." },
+      { "q": "Ce este 'Aquatower' din Berdorf?", "a": "Un turn de apă de 55 de metri înălțime, cu o platformă de observație și o expoziție despre apă." }
+    ],
+    "en": [
+      { "q": "What is the village of Berdorf known for?", "a": "For its spectacular sandstone rock formations and as the heart of the Mullerthal." },
+      { "q": "Which well-known rock formation is located near Berdorf?", "a": "The 'Priedegtstull' (Preacher's Chair)." },
+      { "q": "Are there local specialties in Berdorf?", "a": "Yes, Berdorf is famous for its locally produced Berdorfer cheese." },
+      { "q": "What is the 'Aquatower' in Berdorf?", "a": "A 55-meter-high water tower with an observation deck and an exhibition about water." }
+    ]
+  },
+  "city-beaufort": {
+    "de": [
+      { "q": "Welche zwei Burgen gibt es in Befort?", "a": "Eine mittelalterliche Burgruine und ein Renaissance-Schloss direkt daneben." },
+      { "q": "Welches berühmte Getränk wird auf der Burg Befort hergestellt?", "a": "Der 'Cassero', ein traditioneller schwarzer Johannisbeerlikör." },
+      { "q": "Aus welchem Jahrhundert stammt die mittelalterliche Burg?", "a": "Sie wurde um 1150 erbaut." },
+      { "q": "Kann man das Renaissance-Schloss besichtigen?", "a": "Ja, es gibt geführte Touren durch die Innenräume des Schlosses aus dem 17. Jahrhundert." }
+    ],
+    "hu": [
+      { "q": "Melyik két vár található Beaufortban?", "a": "Egy középkori várrom és közvetlenül mellette egy reneszánsz kastély." },
+      { "q": "Milyen híres ital készül a Beaufort-i várban?", "a": "A 'Cassero', egy hagyományos feketeribizli-likőr." },
+      { "q": "Melyik századból származik a középkori vár?", "a": "1150 körül épült." },
+      { "q": "Látogatható a reneszánsz kastély?", "a": "Igen, vezetett túrák indulnak a 17. századi kastély belső termeibe." }
+    ],
+    "ro": [
+      { "q": "Ce două castele se află în Beaufort?", "a": "O ruină de castel medieval și un palat renascentist chiar lângă ea." },
+      { "q": "Ce băutură celebră este produsă la castelul Beaufort?", "a": " 'Cassero', un lichior tradițional de coacăze negre." },
+      { "q": "Din ce secol datează castelul medieval?", "a": "A fost construit în jurul anului 1150." },
+      { "q": "Se poate vizita palatul renascentist?", "a": "Da, există tururi ghidate prin interiorul palatului din secolul al XVII-lea." }
+    ],
+    "en": [
+      { "q": "Which two castles are located in Beaufort?", "a": "A medieval castle ruin and a Renaissance palace right next to it." },
+      { "q": "What famous drink is produced at Beaufort Castle?", "a": " 'Cassero,' a traditional blackcurrant liqueur." },
+      { "q": "From which century does the medieval castle date?", "a": "It was built around 1150." },
+      { "q": "Can you visit the Renaissance palace?", "a": "Yes, there are guided tours through the interiors of the 17th-century palace." }
+    ]
+  },
+  "city-clervaux": {
+    "de": [
+      { "q": "Welche weltberühmte Fotoausstellung beherbergt Clerf?", "a": " 'The Family of Man' von Edward Steichen, die zum UNESCO-Weltdokumentenerbe gehört." },
+      { "q": "Was ist das architektonische Wahrzeichen von Clerf?", "a": "Das weiße Schloss aus dem 12. Jahrhundert und die Abtei mit den roten Dächern." },
+      { "q": "Welche Abtei liegt oberhalb von Clerf?", "a": "Die Benediktinerabtei St. Mauritius und St. Maurus." },
+      { "q": "Welches Museum zum Zweiten Weltkrieg gibt es in Clerf?", "a": "Das Museum der Ardennenoffensive im Schloss." }
+    ],
+    "hu": [
+      { "q": "Melyik világhírű fotókiállításnak ad otthont Clervaux?", "a": "Edward Steichen 'The Family of Man' című kiállításának, amely az UNESCO Világemlékezet része." },
+      { "q": "Mi Clervaux építészeti jelképe?", "a": "A 12. századi fehér vár és a vörös tetős apátság." },
+      { "q": "Melyik apátság található Clervaux felett?", "a": "A Szent Móric és Szent Mór bencés apátság." },
+      { "q": "Milyen második világháborús múzeum van Clervaux-ban?", "a": "Az ardenneki offenzíva múzeuma a várban." }
+    ],
+    "ro": [
+      { "q": "Ce expoziție de fotografie celebră în lume găzduiește Clervaux?", "a": " 'The Family of Man' de Edward Steichen, care face parte din Registrul Memoria Lumii UNESCO." },
+      { "q": "Care este simbolul arhitectural al orașului Clervaux?", "a": "Castelul alb din secolul al XII-lea și abația cu acoperișuri roșii." },
+      { "q": "Ce abație se află deasupra orașului Clervaux?", "a": "Abația benedictină Sfântul Maurice și Sfântul Maur." },
+      { "q": "Ce muzeu dedicat celui de-al Doilea Război Mondial există în Clervaux?", "a": "Muzeul Ofensivei din Ardeni, situat în castel." }
+    ],
+    "en": [
+      { "q": "Which world-famous photo exhibition does Clervaux house?", "a": " 'The Family of Man' by Edward Steichen, which is part of the UNESCO Memory of the World." },
+      { "q": "What is the architectural landmark of Clervaux?", "a": "The white 12th-century castle and the abbey with the red roofs." },
+      { "q": "Which abbey is located above Clervaux?", "a": "The Benedictine Abbey of St. Maurice and St. Maur." },
+      { "q": "What World War II museum is in Clervaux?", "a": "The Museum of the Battle of the Bulge located in the castle." }
+    ]
+  },
+  "city-larochette": {
+    "de": [
+      { "q": "Was dominiert das Stadtbild von Larochette?", "a": "Die imposanten Ruinen der Burg Larochette auf einem 150 Meter hohen Felsvorsprung." },
+      { "q": "In welchem Tal liegt Larochette?", "a": "Im Tal der Weißen Ernz." },
+      { "q": "Wie heißt der zentrale Marktplatz der Stadt?", "a": "Place Bleue (Bleuer Platz)." },
+      { "q": "Warum ist Larochette bei Wanderern beliebt?", "a": "Es ist ein zentraler Knotenpunkt in der Region Müllerthal mit vielen abwechslungsreichen Wegen." }
+    ],
+    "hu": [
+      { "q": "Mi uralja Larochette látképét?", "a": "A Larochette-i vár impozáns romjai egy 150 méter magas sziklás kiszögellésen." },
+      { "q": "Melyik völgyben fekszik Larochette?", "a": "A Fehér-Ernz völgyében." },
+      { "q": "Hogy hívják a város központi piacterét?", "a": "Place Bleue (Kék tér)." },
+      { "q": "Miért népszerű Larochette a túrázók körében?", "a": "A Mullerthal régió központi csomópontja, számos változatos útvonallal." }
+    ],
+    "ro": [
+      { "q": "Ce domină peisajul orașului Larochette?", "a": "Ruinele impunătoare ale castelului Larochette, situate pe un promontoriu stâncos de 150 de metri înălțime." },
+      { "q": "În ce vale se află Larochette?", "a": "În valea râului Ernz Albă." },
+      { "q": "Cum se numește piața centrală a orașului?", "a": "Place Bleue (Piața Albastră)." },
+      { "q": "De ce este Larochette popular în rândul drumeților?", "a": "Este un nod central în regiunea Mullerthal, cu multe trasee variate." }
+    ],
+    "en": [
+      { "q": "What dominates the cityscape of Larochette?", "a": "The imposing ruins of Larochette Castle on a 150-meter-high rocky promontory." },
+      { "q": "In which valley is Larochette located?", "a": "In the valley of the White Ernz." },
+      { "q": "What is the name of the town's central market square?", "a": "Place Bleue (Blue Square)." },
+      { "q": "Why is Larochette popular with hikers?", "a": "It is a central hub in the Mullerthal region with many diverse trails." }
+    ]
+  },
+  "city-consdorf": {
+    "de": [
+      { "q": "Wofür ist Consdorf in der Region Müllerthal bekannt?", "a": "Für seine engen Felsspalten und Höhlen, wie die 'Kuelscheier'." },
+      { "q": "Was sollte man bei einer Wanderung in Consdorf dabei haben?", "a": "Eine Taschenlampe, um die dunklen Felsspalten sicher zu erkunden." },
+      { "q": "Gibt es ein bekanntes Denkmal in Consdorf?", "a": "Ja, eine Gedenkstätte für die Opfer des Zweiten Weltkriegs." },
+      { "q": "Wie heißt der Bach, der durch Consdorf fließt?", "a": "Die Consdorferbach." }
+    ],
+    "hu": [
+      { "q": "Miről ismert Consdorf a Mullerthal régióban?", "a": "Szűk sziklahasadékairól és barlangjairól, mint például a 'Kuelscheier'." },
+      { "q": "Mit érdemes magunkkal vinni egy consdorfi túrára?", "a": "Zseblámpát, hogy biztonságosan felfedezhessük a sötét sziklahasadékokat." },
+      { "q": "Van ismert emlékmű Consdorfban?", "a": "Igen, egy emlékhely a második világháború áldozatainak tiszteletére." },
+      { "q": "Hogy hívják a patakot, amely átfolyik Consdorfon?", "a": "A Consdorferbach." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut Consdorf în regiunea Mullerthal?", "a": "Pentru crevasele sale înguste și peșteri, cum ar fi 'Kuelscheier'." },
+      { "q": "Ce ar trebui să aveți la voi într-o drumeție în Consdorf?", "a": "O lanternă pentru a explora în siguranță crevasele întunecate." },
+      { "q": "Există un monument cunoscut în Consdorf?", "a": "Da, un memorial dedicat victimelor celui de-al Doilea Război Mondial." },
+      { "q": "Cum se numește pârâul care curge prin Consdorf?", "a": "Consdorferbach." }
+    ],
+    "en": [
+      { "q": "What is Consdorf known for in the Mullerthal region?", "a": "For its narrow rock crevices and caves, such as the 'Kuelscheier'." },
+      { "q": "What should you bring on a hike in Consdorf?", "a": "A flashlight to safely explore the dark rock crevices." },
+      { "q": "Is there a well-known monument in Consdorf?", "a": "Yes, a memorial dedicated to the victims of World War II." },
+      { "q": "What is the name of the stream that flows through Consdorf?", "a": "The Consdorferbach." }
+    ]
+  },
+  "city-waldbillig": {
+    "de": [
+      { "q": "Zu welcher Gemeinde gehört das berühmte Müllerthal?", "a": "Das Dorf Müllerthal gehört zur Gemeinde Waldbillig." },
+      { "q": "Welche berühmte Sehenswürdigkeit liegt auf dem Gebiet von Waldbillig?", "a": "Der Schiessentümpel-Wasserfall." },
+      { "q": "Was ist die Christnach?", "a": "Ein malerisches Dorf in der Gemeinde Waldbillig, das für seinen Golfplatz und seine Architektur bekannt ist." },
+      { "q": "Welche Art von Landschaft prägt Waldbillig?", "a": "Hügelige Wiesen und dichte Wälder am Rande der Felsregion." }
+    ],
+    "hu": [
+      { "q": "Melyik községhez tartozik a híres Mullerthal?", "a": "Mullerthal falu Waldbillig községhez tartozik." },
+      { "q": "Melyik híres látnivaló található Waldbillig területén?", "a": "A Schiessentümpel-vízesés." },
+      { "q": "Mi az a Christnach?", "a": "Egy festői falu Waldbillig községben, amely golfpályájáról és építészetéről ismert." },
+      { "q": "Milyen táj jellemzi Waldbilliget?", "a": "Dombos rétek és sűrű erdők a sziklás régió szélén." }
+    ],
+    "ro": [
+      { "q": "De ce comună aparține celebrul sat Mullerthal?", "a": "Satul Mullerthal aparține de comuna Waldbillig." },
+      { "q": "Ce obiectiv turistic faimos se află pe teritoriul comunei Waldbillig?", "a": "Cascada Schiessentümpel." },
+      { "q": "Ce este Christnach?", "a": "Un sat pitoresc din comuna Waldbillig, cunoscut pentru terenul său de golf și arhitectură." },
+      { "q": "Ce tip de peisaj caracterizează Waldbillig?", "a": "Pajiști deluroase și păduri dese la marginea regiunii stâncoase." }
+    ],
+    "en": [
+      { "q": "Which municipality does the famous Mullerthal belong to?", "a": "The village of Mullerthal belongs to the municipality of Waldbillig." },
+      { "q": "Which famous sight is located in the Waldbillig area?", "a": "The Schiessentümpel waterfall." },
+      { "q": "What is Christnach?", "a": "A picturesque village in the municipality of Waldbillig, known for its golf course and architecture." },
+      { "q": "What type of landscape characterizes Waldbillig?", "a": "Hilly meadows and dense forests on the edge of the rocky region." }
+    ]
+  },
+  "city-weiswampach": {
+    "de": [
+      { "q": "Wofür ist Weiswampach im Norden Luxemburgs bekannt?", "a": "Für seine zwei großen künstlichen Seen, die für Freizeit und Erholung genutzt werden." },
+      { "q": "Wo liegt Weiswampach?", "a": "Im äußersten Norden des Landes, nahe der Grenze zu Belgien und Deutschland." },
+      { "q": "Welche Aktivitäten werden an den Seen angeboten?", "a": "Schwimmen, Angeln, Tretbootfahren und Camping." },
+      { "q": "Gibt es ein großes Einkaufszentrum in Weiswampach?", "a": "Ja, es ist ein beliebter Stopp für Grenzgänger und Touristen zum Einkaufen." }
+    ],
+    "hu": [
+      { "q": "Miről ismert Weiswampach Észak-Luxemburgban?", "a": "Két nagy mesterséges taváról, amelyeket szabadidős és kikapcsolódási célokra használnak." },
+      { "q": "Hol fekszik Weiswampach?", "a": "Az ország távoli északi részén, a belga és a német határ közelében." },
+      { "q": "Milyen tevékenységeket kínálnak a tavaknál?", "a": "Úszás, horgászat, vízibiciklizés és kempingezés." },
+      { "q": "Van nagy bevásárlóközpont Weiswampachban?", "a": "Igen, népszerű megálló a határon túlról érkezők és a turisták számára vásárláshoz." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscut Weiswampach în nordul Luxemburgului?", "a": "Pentru cele două lacuri artificiale mari, folosite pentru agrement și recreere." },
+      { "q": "Unde se află Weiswampach?", "a": "În extremitatea nordică a țării, aproape de granița cu Belgia și Germania." },
+      { "q": "Ce activități sunt oferite la lacuri?", "a": "Înot, pescuit, hidrobiciclete și camping." },
+      { "q": "Există un centru comercial mare în Weiswampach?", "a": "Da, este o oprire populară pentru cumpărături pentru navetiști și turiști." }
+    ],
+    "en": [
+      { "q": "What is Weiswampach in northern Luxembourg known for?", "a": "For its two large artificial lakes used for leisure and recreation." },
+      { "q": "Where is Weiswampach located?", "a": "In the far north of the country, near the borders with Belgium and Germany." },
+      { "q": "What activities are offered at the lakes?", "a": "Swimming, fishing, paddle boating, and camping." },
+      { "q": "Is there a large shopping center in Weiswampach?", "a": "Yes, it is a popular stop for cross-border shoppers and tourists." }
+    ]
+  },
+  "city-troisvierges": {
+    "de": [
+      { "q": "Was bedeutet der Name 'Troisvierges'?", "a": "Es bedeutet 'Drei Jungfrauen' und bezieht sich auf drei heilige Jungfrauen, die in der Kirche verehrt werden." },
+      { "q": "Warum ist Troisvierges verkehrstechnisch wichtig?", "a": "Es ist der letzte Bahnhof in Luxemburg vor der belgischen Grenze an der Nordstrecke." },
+      { "q": "Gibt es ein Erlebnisbad in Troisvierges?", "a": "Ja, der 'AquaNat' Park ist ein beliebtes Ziel für Familien." },
+      { "q": "Was kann man im 'Garten von Europa' in Troisvierges sehen?", "a": "Ein Projekt mit verschiedenen Gärten, die die Zusammenarbeit in der Region symbolisieren." }
+    ],
+    "hu": [
+      { "q": "Mit jelent a 'Troisvierges' név?", "a": "Azt jelenti, hogy 'Három Szűz', és a templomban tisztelt három szent szűzre utal." },
+      { "q": "Miért fontos Troisvierges a közlekedés szempontjából?", "a": "Ez az utolsó vasútállomás Luxemburgban a belga határ előtt az északi vonalon." },
+      { "q": "Van élményfürdő Troisvierges-ben?", "a": "Igen, az 'AquaNat' park népszerű úti cél a családok számára." },
+      { "q": "Mit láthatunk a 'Garten von Europa' (Európa kertje) helyszínen?", "a": "Egy projektet különböző kertekkel, amelyek a régió együttműködését szimbolizálják." }
+    ],
+    "ro": [
+      { "q": "Ce înseamnă numele 'Troisvierges'?", "a": "Înseamnă 'Trei Fecioare' și se referă la trei sfinte fecioare venerate în biserica locală." },
+      { "q": "De ce este Troisvierges important din punct de vedere al transportului?", "a": "Este ultima gară din Luxemburg înainte de granița cu Belgia, pe magistrala de nord." },
+      { "q": "Există un parc acvatic în Troisvierges?", "a": "Da, parcul 'AquaNat' este o destinație populară pentru familii." },
+      { "q": "Ce se poate vedea în 'Grădina Europei' din Troisvierges?", "a": "Un proiect cu diferite grădini care simbolizează cooperarea în regiune." }
+    ],
+    "en": [
+      { "q": "What does the name 'Troisvierges' mean?", "a": "It means 'Three Virgins' and refers to three holy virgins venerated in the local church." },
+      { "q": "Why is Troisvierges important for transportation?", "a": "It is the last train station in Luxembourg before the Belgian border on the northern line." },
+      { "q": "Is there a water park in Troisvierges?", "a": "Yes, the 'AquaNat' park is a popular destination for families." },
+      { "q": "What can you see in the 'Garden of Europe' in Troisvierges?", "a": "A project featuring various gardens that symbolize cooperation in the region." }
+    ]
+  },
+  "city-beckerich": {
+    "de": [
+      { "q": "Wofür ist die Gemeinde Beckerich bekannt?", "a": "Für ihr Engagement im Bereich Nachhaltigkeit und erneuerbare Energien." },
+      { "q": "Gibt es ein bekanntes Mineralwasser aus Beckerich?", "a": "Ja, das 'Beckerich' Mineralwasser wird dort abgefüllt." },
+      { "q": "Was kann man in der alten Mühle von Beckerich machen?", "a": "Die 'Millen' beherbergt ein Kulturzentrum, ein Restaurant und Ausstellungen über Ökologie." },
+      { "q": "Wo liegt Beckerich?", "a": "Im Westen Luxemburgs, nahe der Grenze zu Belgien." }
+    ],
+    "hu": [
+      { "q": "Miről ismert Beckerich község?", "a": "A fenntarthatóság és a megújuló energiák melletti elkötelezettségéről." },
+      { "q": "Van-e ismert ásványvíz Beckerichből?", "a": "Igen, a 'Beckerich' ásványvizet ott palackozzák." },
+      { "q": "Mit lehet csinálni a beckerichi régi malomban?", "a": "A 'Millen' kulturális központnak, étteremnek és ökológiai kiállításoknak ad otthont." },
+      { "q": "Hol fekszik Beckerich?", "a": "Luxemburg nyugati részén, a belga határ közelében." }
+    ],
+    "ro": [
+      { "q": "Pentru ce este cunoscută comuna Beckerich?", "a": "Pentru angajamentul său în domeniul sustenabilității și al energiilor regenerabile." },
+      { "q": "Există o apă minerală cunoscută din Beckerich?", "a": "Da, apa minerală 'Beckerich' este îmbuteliată acolo." },
+      { "q": "Ce se poate face la vechea moară din Beckerich?", "a": " 'Millen' găzduiește un centru cultural, un restaurant și expoziții despre ecologie." },
+      { "q": "Unde se află Beckerich?", "a": "În vestul Luxemburgului, aproape de granița cu Belgia." }
+    ],
+    "en": [
+      { "q": "What is the municipality of Beckerich known for?", "a": "For its commitment to sustainability and renewable energy." },
+      { "q": "Is there a well-known mineral water from Beckerich?", "a": "Yes, 'Beckerich' mineral water is bottled there." },
+      { "q": "What can you do at the old mill of Beckerich?", "a": "The 'Millen' houses a cultural center, a restaurant, and exhibitions about ecology." },
+      { "q": "Where is Beckerich located?", "a": "In western Luxembourg, near the border with Belgium." }
+    ]
+  },
+  "city-walferdange": {
+    "de": [
+      { "q": "Was ist eine Hauptattraktion in Walferdingen?", "a": "Das Schloss Walferdingen, das heute Teile der Universität und Bildungszentren beherbergt." },
+      { "q": "Gibt es römische Geschichte in Walferdingen?", "a": "Ja, die Überreste einer römischen Villa und das unterirdische Aquädukt 'Raschpëtzer'." },
+      { "q": "Was sind die 'Raschpëtzer'?", "a": "Ein beeindruckendes römisches unterirdisches Kanalsystem (Qanat), eines der besterhaltenen seiner Art." },
+      { "q": "Wo liegt Walferdingen?", "a": "Nördlich von Luxemburg-Stadt im Alzette-Tal." }
+    ],
+    "hu": [
+      { "q": "Mi Walferdange egyik fő látnivalója?", "a": "A Walferdange-i kastély, amely ma az egyetem egyes részeinek és oktatási központoknak ad otthont." },
+      { "q": "Van-e római kori történelem Walferdange-ban?", "a": "Igen, egy római villa maradványai és a 'Raschpëtzer' föld alatti vízvezeték." },
+      { "q": "Mik azok a 'Raschpëtzer'-ek?", "a": "Egy lenyűgöző római föld alatti csatornarendszer (Qanat), az egyik legjobb állapotban fennmaradt ilyen jellegű építmény." },
+      { "q": "Hol fekszik Walferdange?", "a": "Luxemburg várostól északra, az Alzette-völgyben." }
+    ],
+    "ro": [
+      { "q": "Care este o atracție principală în Walferdange?", "a": "Castelul Walferdange, care găzduiește astăzi părți ale universității și centre educaționale." },
+      { "q": "Există istorie romană în Walferdange?", "a": "Da, rămășițele unei vile romane și apeductul subteran 'Raschpëtzer'." },
+      { "q": "Ce sunt 'Raschpëtzer'?", "a": "Un sistem impresionant de canale subterane romane (Qanat), unul dintre cele mai bine conservate de acest tip." },
+      { "q": "Unde se află Walferdange?", "a": "La nord de orașul Luxemburg, în valea râului Alzette." }
+    ],
+    "en": [
+      { "q": "What is a main attraction in Walferdange?", "a": "Walferdange Castle, which now houses parts of the university and educational centers." },
+      { "q": "Is there Roman history in Walferdange?", "a": "Yes, the remains of a Roman villa and the underground aqueduct 'Raschpëtzer'." },
+      { "q": "What are the 'Raschpëtzer'?", "a": "An impressive Roman underground canal system (Qanat), one of the best-preserved of its kind." },
+      { "q": "Where is Walferdange located?", "a": "North of Luxembourg City in the Alzette valley." }
+    ]
+  },
+  "city-strassen": {
+    "de": [
+      { "q": "Wie weit ist Strassen von Luxemburg-Stadt entfernt?", "a": "Es liegt direkt westlich an die Hauptstadt angrenzend." },
+      { "q": "Wofür ist Strassen bekannt?", "a": "Als moderne Wohngemeinde und für das Thermalbad 'Les Thermes'." },
+      { "q": "Was bietet 'Les Thermes' in Strassen?", "a": "Ein architektonisch markantes Schwimmbad, Sauna- und Wellnessbereiche." },
+      { "q": "Hat Strassen ein eigenes Kulturzentrum?", "a": "Ja, das 'Paul Barblé' Kulturzentrum ist Schauplatz vieler Veranstaltungen." }
+    ],
+    "hu": [
+      { "q": "Milyen messze van Strassen Luxemburg várostól?", "a": "Közvetlenül a főváros nyugati szomszédságában fekszik." },
+      { "q": "Miről ismert Strassen?", "a": "Modern lakónegyedéről és a 'Les Thermes' termálfürdőről." },
+      { "q": "Mit kínál a 'Les Thermes' Strassenben?", "a": "Egy építészetileg egyedi úszómedencét, szaunát és wellness részleget." },
+      { "q": "Van Strassennek saját kulturális központja?", "a": "Igen, a 'Paul Barblé' kulturális központ számos esemény helyszíne." }
+    ],
+    "ro": [
+      { "q": "Cât de departe este Strassen de orașul Luxemburg?", "a": "Se află direct la vest, fiind adiacent capitalei." },
+      { "q": "Pentru ce este cunoscut Strassen?", "a": "Ca o comună rezidențială modernă și pentru complexul termal 'Les Thermes'." },
+      { "q": "Ce oferă 'Les Thermes' din Strassen?", "a": "O piscină cu o arhitectură frapantă, zone de saună și wellness." },
+      { "q": "Are Strassen un centru cultural propriu?", "a": "Da, centrul cultural 'Paul Barblé' găzduiește multe evenimente." }
+    ],
+    "en": [
+      { "q": "How far is Strassen from Luxembourg City?", "a": "It is located directly west, adjacent to the capital." },
+      { "q": "What is Strassen known for?", "a": "As a modern residential community and for the 'Les Thermes' thermal baths." },
+      { "q": "What does 'Les Thermes' in Strassen offer?", "a": "An architecturally striking swimming pool, sauna, and wellness areas." },
+      { "q": "Does Strassen have its own cultural center?", "a": "Yes, the 'Paul Barblé' cultural center is the venue for many events." }
+    ]
+  },
+  "city-mamer": {
+    "de": [
+      { "q": "Wo liegt Mamer?", "a": "Westlich von Luxemburg-Stadt, im Tal der Mamer." },
+      { "q": "Welches große europäische Institut ist in Mamer ansässig?", "a": "Die Europäische Schule Luxemburg II befindet sich auf dem Gebiet der Gemeinde." },
+      { "q": "Gibt es ein Schloss in Mamer?", "a": "Ja, das 'Mamer Schlass' beherbergt heute die Gemeindeverwaltung." },
+      { "q": "Welcher berühmte luxemburgische Sportler stammt aus Mamer?", "a": "Nicolas Frantz, zweifacher Sieger der Tour de France." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Mamer?", "a": "Luxemburg várostól nyugatra, a Mamer folyó völgyében." },
+      { "q": "Melyik nagy európai intézmény található Mamerben?", "a": "A Luxemburgi Európai Iskola II. (European School Luxembourg II) a község területén található." },
+      { "q": "Van kastély Mamerben?", "a": "Igen, a 'Mamer Schlass' ma a polgármesteri hivatalnak ad otthont." },
+      { "q": "Melyik híres luxemburgi sportoló származik Mamerből?", "a": "Nicolas Frantz, a Tour de France kétszeres győztese." }
+    ],
+    "ro": [
+      { "q": "Unde se află Mamer?", "a": "La vest de orașul Luxemburg, în valea râului Mamer." },
+      { "q": "Ce instituție europeană mare are sediul în Mamer?", "a": "Școala Europeană Luxemburg II se află pe teritoriul comunei." },
+      { "q": "Există un castel în Mamer?", "a": "Da, 'Mamer Schlass' găzduiește astăzi administrația municipală." },
+      { "q": "Ce sportiv luxemburghez celebru provine din Mamer?", "a": "Nicolas Frantz, dublu câștigător al Turului Franței." }
+    ],
+    "en": [
+      { "q": "Where is Mamer located?", "a": "West of Luxembourg City, in the valley of the Mamer river." },
+      { "q": "Which large European institution is based in Mamer?", "a": "The European School Luxembourg II is located within the municipality." },
+      { "q": "Is there a castle in Mamer?", "a": "Yes, the 'Mamer Schlass' now houses the municipal administration." },
+      { "q": "Which famous Luxembourgish athlete is from Mamer?", "a": "Nicolas Frantz, two-time winner of the Tour de France." }
+    ]
+  },
+  "city-hesperange": {
+    "de": [
+      { "q": "Wie heißt die markante Burgruine in Hesperingen?", "a": "Die Burg Hesperingen (Château de Hesperange)." },
+      { "q": "Gibt es einen schönen Park in Hesperingen?", "a": "Ja, der Hesperinger Park ist eine grüne Oase mit Spielplätzen und Teichen." },
+      { "q": "In welchem Tal liegt Hesperingen?", "a": "Im Tal der Alzette, südlich der Hauptstadt." },
+      { "q": "Warum ist Hesperingen ein wichtiger Verkehrsknoten?", "a": "Es liegt an einer Hauptverbindung zwischen der Hauptstadt und dem Süden des Landes." }
+    ],
+    "hu": [
+      { "q": "Hogy hívják Hesperange jellegzetes várromját?", "a": "Hesperange-i vár (Château de Hesperange)." },
+      { "q": "Van szép park Hesperange-ban?", "a": "Igen, a hesperange-i park egy zöld oázis játszóterekkel és tavakkal." },
+      { "q": "Melyik völgyben fekszik Hesperange?", "a": "Az Alzette-völgyben, a fővárostól délre." },
+      { "q": "Miért fontos közlekedési csomópont Hesperange?", "a": "A fővárost és az ország déli részét összekötő egyik főútvonal mentén fekszik." }
+    ],
+    "ro": [
+      { "q": "Cum se numește ruina de castel proeminentă din Hesperange?", "a": "Castelul Hesperange (Château de Hesperange)." },
+      { "q": "Există un parc frumos în Hesperange?", "a": "Da, parcul Hesperange este o oază de verdeață cu locuri de joacă și iazuri." },
+      { "q": "În ce vale se află Hesperange?", "a": "În valea râului Alzette, la sud de capitală." },
+      { "q": "De ce este Hesperange un nod important de trafic?", "a": "Se află pe o legătură principală între capitală și sudul țării." }
+    ],
+    "en": [
+      { "q": "What is the name of the prominent castle ruin in Hesperange?", "a": "Hesperange Castle (Château de Hesperange)." },
+      { "q": "Is there a nice park in Hesperange?", "a": "Yes, the Hesperange Park is a green oasis with playgrounds and ponds." },
+      { "q": "In which valley is Hesperange located?", "a": "In the Alzette valley, south of the capital." },
+      { "q": "Why is Hesperange an important traffic hub?", "a": "It is located on a major link between the capital and the south of the country." }
+    ]
+  },
+  "city-betzdorf": {
+    "de": [
+      { "q": "Warum ist Betzdorf technologisch weltweit bekannt?", "a": "Es ist der Hauptsitz von SES, einem der weltweit größten Satellitenbetreiber." },
+      { "q": "Welche Sehenswürdigkeit beherbergt das SES-Gelände?", "a": "Das Schloss Betzdorf, das heute als Firmenzentrale dient." },
+      { "q": "Wo liegt Betzdorf?", "a": "Im Osten Luxemburgs, etwa auf halber Strecke zwischen der Hauptstadt und Grevenmacher." },
+      { "q": "Welche Landschaft prägt Betzdorf?", "a": "Eine sanfte Hügellandschaft mit viel Landwirtschaft und Wäldern." }
+    ],
+    "hu": [
+      { "q": "Miért világhírű technológiailag Betzdorf?", "a": "Itt található az SES, a világ egyik legnagyobb műholdüzemeltetőjének központja." },
+      { "q": "Melyik látnivalónak ad otthont az SES területe?", "a": "A betzdorfi kastélynak, amely ma a cég központjaként szolgál." },
+      { "q": "Hol fekszik Betzdorf?", "a": "Kelet-Luxemburgban, körülbelül félúton a főváros és Grevenmacher között." },
+      { "q": "Milyen táj jellemzi Betzdorfot?", "a": "Szelíd dombos vidék, sok mezőgazdasági területtel és erdővel." }
+    ],
+    "ro": [
+      { "q": "De ce este Betzdorf cunoscut în întreaga lume din punct de vedere tehnologic?", "a": "Este sediul central al SES, unul dintre cei mai mari operatori de sateliți din lume." },
+      { "q": "Ce obiectiv turistic găzduiește sediul SES?", "a": "Castelul Betzdorf, care servește astăzi drept sediu al companiei." },
+      { "q": "Unde se află Betzdorf?", "a": "În estul Luxemburgului, cam la jumătatea distanței dintre capitală și Grevenmacher." },
+      { "q": "Ce tip de peisaj caracterizează Betzdorf?", "a": "Un peisaj deluros blând, cu multă agricultură și păduri." }
+    ],
+    "en": [
+      { "q": "Why is Betzdorf technologically famous worldwide?", "a": "It is the headquarters of SES, one of the world's largest satellite operators." },
+      { "q": "Which landmark does the SES site house?", "a": "Betzdorf Castle, which now serves as the company's headquarters." },
+      { "q": "Where is Betzdorf located?", "a": "In eastern Luxembourg, about halfway between the capital and Grevenmacher." },
+      { "q": "What type of landscape characterizes Betzdorf?", "a": "A gentle hilly landscape with lots of agriculture and forests." }
+    ]
+  },
+  "city-biwer": {
+    "de": [
+      { "q": "Wo liegt Biwer?", "a": "Im Osten Luxemburgs, in der Nähe von Grevenmacher." },
+      { "q": "Was prägt den Charakter des Dorfes Biwer?", "a": "Es ist ein ruhiges, ländliches Dorf, das stark von der Landwirtschaft geprägt ist." },
+      { "q": "Welcher Bach fließt durch Biwer?", "a": "Die Biwerbach." },
+      { "q": "Warum ist Biwer für Pendler attraktiv?", "a": "Aufgrund seiner ruhigen Lage und der guten Bahnanbindung an Luxemburg-Stadt." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Biwer?", "a": "Kelet-Luxemburgban, Grevenmacher közelében." },
+      { "q": "Mi jellemzi Biwer falu karakterét?", "a": "Egy csendes, vidéki falu, amelyet erősen meghatároz a mezőgazdaság." },
+      { "q": "Melyik patak folyik át Biweren?", "a": "A Biwerbach." },
+      { "q": "Miért vonzó Biwer az ingázók számára?", "a": "Csendes fekvése és a Luxemburg városba tartó jó vonatösszeköttetés miatt." }
+    ],
+    "ro": [
+      { "q": "Unde se află Biwer?", "a": "În estul Luxemburgului, în apropiere de Grevenmacher." },
+      { "q": "Ce caracterizează satul Biwer?", "a": "Este un sat rural liniștit, puternic marcat de agricultură." },
+      { "q": "Ce pârâu curge prin Biwer?", "a": "Biwerbach." },
+      { "q": "De ce este Biwer atractiv pentru navetiști?", "a": "Datorită locației sale liniștite și conexiunii feroviare bune către orașul Luxemburg." }
+    ],
+    "en": [
+      { "q": "Where is Biwer located?", "a": "In eastern Luxembourg, near Grevenmacher." },
+      { "q": "What characterizes the village of Biwer?", "a": "It is a quiet, rural village strongly shaped by agriculture." },
+      { "q": "Which stream flows through Biwer?", "a": "The Biwerbach." },
+      { "q": "Why is Biwer attractive for commuters?", "a": "Due to its quiet location and good train connections to Luxembourg City." }
+    ]
+  },
+  "city-petange": {
+    "de": [
+      { "q": "Wo liegt Petingen?", "a": "Im äußersten Südwesten Luxemburgs, am Dreiländereck mit Frankreich und Belgien." },
+      { "q": "Welche historische Bahn fährt von Petingen aus?", "a": "Der 'Train 1900', eine historische Dampfeisenbahn zum Fond-de-Gras." },
+      { "q": "Was ist das 'Fond-de-Gras' bei Petingen?", "a": "Ein Freilichtmuseum und Industriepark, der die Geschichte des Eisenerzbergbaus zeigt." },
+      { "q": "Gibt es ein schönes Naturgebiet in Petingen?", "a": "Ja, den Titelberg (Tëtelbierg), ein ehemaliges keltisches Oppidum mit toller Aussicht." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Petange?", "a": "Luxemburg távoli délnyugati részén, a francia és a belga határ találkozásánál." },
+      { "q": "Milyen történelmi vonat indul Petange-ból?", "a": "A 'Train 1900', egy történelmi gőzmozdonyos vonat a Fond-de-Gras-hoz." },
+      { "q": "Mi az a 'Fond-de-Gras' Petange közelében?", "a": "Egy szabadtéri múzeum és ipari park, amely a vasércbányászat történetét mutatja be." },
+      { "q": "Van szép természeti terület Petange-ban?", "a": "Igen, a Titelberg (Tëtelbierg), egy egykori kelta oppidum, ahonnan remek a kilátás." }
+    ],
+    "ro": [
+      { "q": "Unde se află Petange?", "a": "În extremitatea de sud-vest a Luxemburgului, la punctul triplu de frontieră cu Franța și Belgia." },
+      { "q": "Ce tren istoric pleacă din Petange?", "a": " 'Train 1900', un tren istoric cu aburi către Fond-de-Gras." },
+      { "q": "Ce este 'Fond-de-Gras' de lângă Petange?", "a": "Un muzeu în aer liber și parc industrial care prezintă istoria minieră a fierului." },
+      { "q": "Există o zonă naturală frumoasă în Petange?", "a": "Da, Titelberg (Tëtelbierg), un fost oppidum celtic cu o vedere minunată." }
+    ],
+    "en": [
+      { "q": "Where is Petange located?", "a": "In the far southwest of Luxembourg, at the tripoint border with France and Belgium." },
+      { "q": "Which historic train departs from Petange?", "a": "The 'Train 1900,' a historic steam train to Fond-de-Gras." },
+      { "q": "What is the 'Fond-de-Gras' near Petange?", "a": "An open-air museum and industrial park showing the history of iron ore mining." },
+      { "q": "Is there a nice nature area in Petange?", "a": "Yes, the Titelberg (Tëtelbierg), a former Celtic oppidum with great views." }
+    ]
+  }
+}

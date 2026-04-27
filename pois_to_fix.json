@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "RO",
+    "name": {
+      "de": "Rumänien",
+      "hu": "Románia",
+      "ro": "România",
+      "en": "Romania"
+    },
+    "description": {
+      "de": "Rumänien ist ein Land in Südosteuropa, bekannt für die bewaldete Region Transsilvanien, die majestätischen Karpaten und das einzigartige Donaudelta.",
+      "hu": "Románia egy délkelet-európai ország, amely Erdély erdős vidékeiről, a fenséges Kárpátokról és az egyedülálló Duna-deltáról ismert.",
+      "ro": "România este o țară din sud-estul Europei, cunoscută pentru regiunea împădurită a Transilvaniei, maiestuoșii Munți Carpați și Delta Dunării unică.",
+      "en": "Romania is a country in southeastern Europe, known for the forested region of Transylvania, the majestic Carpathian Mountains, and the unique Danube Delta."
+    }
+  },
+  {
+    "id": "RO-VS",
+    "name": {
+      "de": "Vaslui",
+      "hu": "Vaslui",
+      "ro": "Vaslui",
+      "en": "Vaslui"
+    },
+    "description": {
+      "de": "Moldauischer Kreis an der Grenze zur Republik Moldau.",
+      "hu": "Moldvai megye a Moldovai Köztársaság határán.",
+      "ro": "Județ moldovean, la granița cu Republica Moldova.",
+      "en": "Moldavian county on the border with the Republic of Moldova."
+    }
+  },
+  {
+    "id": "city-mogosoaia-palace",
+    "name": {
+      "de": "Schloss Mogoșoaia",
+      "hu": "Mogosoaia-palota",
+      "ro": "Palatul Mogoșoaia",
+      "en": "Mogoșoaia Palace"
+    },
+    "description": {
+      "de": "Prachtvoller Palast im Brâncovenesc-Stil nahe Bukarest.",
+      "hu": "Díszes Brâncoveanu-stílusú palota Bukarest közelében.",
+      "ro": "Palat brâncovenesc spectaculos situat lângă București.",
+      "en": "Splendid Brâncovenesc-style palace located near Bucharest."
+    }
+  },
+  {
+    "id": "city-cotroceni-palace",
+    "name": {
+      "de": "Palast von Cotroceni",
+      "hu": "Cotroceni-palota",
+      "ro": "Palatul Cotroceni",
+      "en": "Cotroceni Palace"
+    },
+    "description": {
+      "de": "Sitz des rumänischen Präsidenten und historisches Nationalmuseum.",
+      "hu": "A román elnök székhelye és történelmi nemzeti múzeum.",
+      "ro": "Sediul Președinției României și muzeu național de istorie.",
+      "en": "Seat of the Romanian President and national history museum."
+    }
+  },
+  {
+    "id": "landmark-therme-bucuresti",
+    "name": {
+      "de": "Therme Bukarest",
+      "hu": "Bukaresti Therme",
+      "ro": "Therme București",
+      "en": "Therme Bucharest"
+    },
+    "description": {
+      "de": "Größtes Wellness- und Entspannungszentrum in Europa.",
+      "hu": "Európa legnagyobb wellness és relaxációs központja.",
+      "ro": "Cel mai mare centru de wellness și relaxare din Europa.",
+      "en": "The largest wellness and relaxation center in Europe."
+    }
+  },
+  {
+    "id": "landmark-palas-iasi",
+    "name": {
+      "de": "Palas Iași",
+      "hu": "Palas Jászvásár",
+      "ro": "Palas Iași",
+      "en": "Palas Iași"
+    },
+    "description": {
+      "de": "Modernes Stadtviertel mit Einkaufszentrum und Park am Kulturpalast.",
+      "hu": "Modern városnegyed bevásárlóközponttal és parkkal a Kultúrpalota mellett.",
+      "ro": "Ansamblu urbanistic modern cu mall și parc lângă Palatul Culturii.",
+      "en": "Modern urban complex with a mall and park next to the Palace of Culture."
+    }
+  },
+  {
+    "id": "landmark-astra-museum",
+    "name": {
+      "de": "ASTRA-Museum",
+      "hu": "ASTRA Múzeum",
+      "ro": "Muzeul ASTRA Sibiu",
+      "en": "ASTRA Museum"
+    },
+    "description": {
+      "de": "Eines der größten Freilichtmuseen der Welt in Sibiu.",
+      "hu": "A világ egyik legnagyobb szabadtéri múzeuma Nagyszebenben.",
+      "ro": "Unul dintre cele mai mari muzee în aer liber din lume, la Sibiu.",
+      "en": "One of the largest open-air museums in the world, located in Sibiu."
+    }
+  },
+  {
+    "id": "landmark-cluj-botanical",
+    "name": {
+      "de": "Botanischer Garten Klausenburg",
+      "hu": "Kolozsvári botanikus kert",
+      "ro": "Grădina Botanică din Cluj-Napoca",
+      "en": "Cluj-Napoca Botanical Garden"
+    },
+    "description": {
+      "de": "Wunderschöner botanischer Garten der Universität Babeș-Bolyai.",
+      "hu": "A Babeș-Bolyai Tudományegyetem gyönyörű botanikus kertje.",
+      "ro": "Grădina botanică superbă a Universității Babeș-Bolyai.",
+      "en": "The beautiful botanical garden of the Babeș-Bolyai University."
+    }
+  },
+  {
+    "id": "landmark-stefan-statue",
+    "name": {
+      "de": "Stefan-der-Große-Statue",
+      "hu": "Nagy István szobra",
+      "ro": "Statuia lui Ștefan cel Mare din Iași",
+      "en": "Stephen the Great Statue"
+    },
+    "description": {
+      "de": "Reiterstatue des berühmtesten moldauischen Fürsten in Iași.",
+      "hu": "A leghíresebb moldvai fejedelem lovasszobra Jászvásáron.",
+      "ro": "Statuia ecvestră a celui mai faimos domnitor moldovean, în Iași.",
+      "en": "The equestrian statue of the most famous Moldavian prince, in Iași."
+    }
+  },
+  {
+    "id": "landmark-asachi-university",
+    "name": {
+      "de": "Gheorghe-Asachi-Universität",
+      "hu": "Gheorghe Asachi Egyetem",
+      "ro": "Universitatea Tehnică Gheorghe Asachi",
+      "en": "Gheorghe Asachi University"
+    },
+    "description": {
+      "de": "Technische Universität in Iași mit einer der schönsten Bibliotheken.",
+      "hu": "Műszaki egyetem Jászvásáron, az egyik legszebb könyvtárral.",
+      "ro": "Universitate tehnică din Iași, cu una dintre cele mai frumoase biblioteci.",
+      "en": "Technical university in Iași, featuring one of the most beautiful libraries."
+    }
+  },
+  {
+    "id": "landmark-bucharest-old-town",
+    "name": {
+      "de": "Altstadt Bukarest",
+      "hu": "Bukaresti óváros",
+      "ro": "Centrul Vechi București",
+      "en": "Bucharest Old Town"
+    },
+    "description": {
+      "de": "Das historische Herz von Bukarest mit vielen Cafés und Denkmälern.",
+      "hu": "Bukarest történelmi szíve számos kávézóval és műemlékkel.",
+      "ro": "Inima istorică a Bucureștiului, cu multe cafenele și monumente.",
+      "en": "The historical heart of Bucharest with many cafes and monuments."
+    }
+  },
+  {
+    "id": "city-gura-humorului",
+    "name": {
+      "de": "Gura Humorului",
+      "hu": "Gura Humorului",
+      "ro": "Gura Humorului",
+      "en": "Gura Humorului"
+    },
+    "description": {
+      "de": "Charmante Stadt in der Bukowina, Tor zu den Klöstern.",
+      "hu": "Bájos város Bukovinában, a kolostorok kapuja.",
+      "ro": "Oraș fermecător în Bucovina, poartă către mănăstiri.",
+      "en": "Charming town in Bukovina, gateway to the monasteries."
+    }
+  },
+  {
+    "id": "landmark-salina-cacica",
+    "name": {
+      "de": "Salzbergwerk Cacica",
+      "hu": "Kacsikai sóbánya",
+      "ro": "Salina Cacica",
+      "en": "Cacica Salt Mine"
+    },
+    "description": {
+      "de": "Einzigartiges Salzbergwerk mit einer Kapelle und einem See.",
+      "hu": "Egyedülálló sóbánya kápolnával és tóval.",
+      "ro": "Salină unică cu o capelă și un lac.",
+      "en": "Unique salt mine with a chapel and a lake."
+    }
+  },
+  {
+    "id": "landmark-dino-park-rasnov",
+    "name": {
+      "de": "Dino Parc Râșnov",
+      "hu": "Dino Parc Barcarozsnyó",
+      "ro": "Dino Parc Râșnov",
+      "en": "Dino Parc Râșnov"
+    },
+    "description": {
+      "de": "Größter Dinosaurierpark in Südosteuropa.",
+      "hu": "Délkelet-Európa legnagyobb dinoszaurusz parkja.",
+      "ro": "Cel mai mare parc cu dinozauri din sud-estul Europei.",
+      "en": "The largest dinosaur park in Southeastern Europe."
+    }
+  },
+  {
+    "id": "river-crisul",
+    "name": {
+      "de": "Kreisch",
+      "hu": "Körös",
+      "ro": "Crișuri",
+      "en": "Criș"
+    },
+    "description": {
+      "de": "Drei Flüsse (Weiße, Schwarze, Schnelle Körös) im Westen.",
+      "hu": "Három folyó (Fehér-, Fekete-, Sebes-Körös) nyugaton.",
+      "ro": "Trei râuri (Crișul Alb, Negru, Repede).",
+      "en": "Three rivers (Crișul Alb, Negru, Repede) in the west."
+    }
+  },
+  {
+    "id": "mountain-occidentali",
+    "name": {
+      "de": "Westkarpaten",
+      "hu": "Nyugati-Kárpátok",
+      "ro": "Carpații Occidentali",
+      "en": "Western Carpathians"
+    },
+    "description": {
+      "de": "Niedrigere, zerklüftete Gebirgsgruppen im Westen.",
+      "hu": "Alacsonyabb, tagolt nyugati hegyláncok.",
+      "ro": "Lanțuri joase și fragmentate în vest.",
+      "en": "Lower, fragmented ranges in the west."
+    }
+  },
+  {
+    "id": "lake-sovata",
+    "name": {
+      "de": "Bärensee Sovata",
+      "hu": "Medve-tó",
+      "ro": "Lacul Ursu",
+      "en": "Bear Lake"
+    },
+    "description": {
+      "de": "Heliothermaler Salzsee in Form einer Bärenhaut.",
+      "hu": "Heliotermikus sósvíztó medvebőr alakban.",
+      "ro": "Lac sărat heliotermal, în formă de piele de urs.",
+      "en": "Heliothermal salt lake shaped like a bear hide."
+    }
+  },
+  {
+    "id": "nature-cheile-gradistei",
+    "name": {
+      "de": "Grădiștei-Schlucht",
+      "hu": "Gradistye-szurdok",
+      "ro": "Cheile Grădiștei",
+      "en": "Grădiștei Gorges"
+    },
+    "description": {
+      "de": "Malerische Schlucht in der Nähe von Moieciu.",
+      "hu": "Festői szurdok Moieciu közelében.",
+      "ro": "Chei pitorești în apropiere de Moieciu.",
+      "en": "Picturesque gorges near Moieciu."
+    }
+  },
+  {
+    "id": "hist-ulpia-traiana",
+    "name": {
+      "de": "Ulpia Traiana Sarmizegetusa",
+      "hu": "Ulpia Traiana Sarmizegetusa",
+      "ro": "Ulpia Traiana Sarmizegetusa",
+      "en": "Ulpia Traiana Sarmizegetusa"
+    },
+    "description": {
+      "de": "Hauptstadt der römischen Provinz Dacia.",
+      "hu": "Dacia római provincia fővárosa.",
+      "ro": "Capitala provinciei romane Dacia.",
+      "en": "Capital of the Roman province of Dacia."
+    }
+  },
+  {
+    "id": "hist-histria",
+    "name": {
+      "de": "Histria",
+      "hu": "Histria",
+      "ro": "Histria",
+      "en": "Histria"
+    },
+    "description": {
+      "de": "Člteste Stadt auf rumänischem Boden, griechische Gründung 657 v. Chr.",
+      "hu": "Románia területének legrégebbi városa, görögök alapították Kr. e. 657-ben.",
+      "ro": "Cea mai veche așezare urbană a României, fondată de greci în 657 î.Hr.",
+      "en": "Oldest urban settlement in Romania, founded by Greeks in 657 BC."
+    }
+  },
+  {
+    "id": "hist-sighisoara-citadel",
+    "name": {
+      "de": "Zitadelle Schäßburg",
+      "hu": "Segesvári vár",
+      "ro": "Cetatea Sighișoara",
+      "en": "Sighișoara Citadel"
+    },
+    "description": {
+      "de": "Bewohnte mittelalterliche Festungsstadt (UNESCO).",
+      "hu": "Ma is lakott középkori várnegyed (UNESCO).",
+      "ro": "Cetate medievală locuită (UNESCO).",
+      "en": "Still-inhabited medieval fortified town (UNESCO)."
+    }
+  },
+  {
+    "id": "hist-moldovita",
+    "name": {
+      "de": "Kloster Moldovița",
+      "hu": "Moldovica kolostor",
+      "ro": "Mănăstirea Moldovița",
+      "en": "Moldovița Monastery"
+    },
+    "description": {
+      "de": "Bemaltes Kloster der Bukowina (UNESCO).",
+      "hu": "Bukovinai festett kolostor (UNESCO).",
+      "ro": "Mănăstire pictată din Bucovina (UNESCO).",
+      "en": "Painted monastery of Bukovina (UNESCO)."
+    }
+  },
+  {
+    "id": "hist-horezu",
+    "name": {
+      "de": "Kloster Horezu",
+      "hu": "Horezu kolostor",
+      "ro": "Mănăstirea Horezu",
+      "en": "Horezu Monastery"
+    },
+    "description": {
+      "de": "Barockes Kloster (Brâncovenesc-Stil), UNESCO-Welterbe.",
+      "hu": "Brâncoveanu-stílusú barokk kolostor, UNESCO-örökség.",
+      "ro": "Mănăstire în stil brâncovenesc, patrimoniu UNESCO.",
+      "en": "Brâncovenesc-style monastery, UNESCO site."
+    }
+  },
+  {
+    "id": "hist-curtea-veche",
+    "name": {
+      "de": "Alter Fürstenhof Bukarest",
+      "hu": "Régi fejedelmi udvar (Bukarest)",
+      "ro": "Curtea Veche",
+      "en": "Old Princely Court"
+    },
+    "description": {
+      "de": "Historische Keimzelle Bukarests, Residenz Vlad Țepeș'.",
+      "hu": "Bukarest történelmi magja, Vlad Tepes rezidenciája.",
+      "ro": "Nucleul istoric al Bucureștiului, reședința lui Vlad Țepeș.",
+      "en": "Bucharest's historical core, Vlad the Impaler's residence."
+    }
+  },
+  {
+    "id": "hist-targoviste-court",
+    "name": {
+      "de": "Fürstenhof von Târgoviște",
+      "hu": "Târgoviștei fejedelmi udvar",
+      "ro": "Curtea Domnească din Târgoviște",
+      "en": "Princely Court of Târgoviște"
+    },
+    "description": {
+      "de": "Ehemalige Hauptstadt der Walachei und Residenz von Vlad Țepeș.",
+      "hu": "Havasalföld egykori fővárosa és Vlad Tepes rezidenciája.",
+      "ro": "Fostă capitală a Țării Românești și reședința lui Vlad Țepeș.",
+      "en": "Former capital of Wallachia and residence of Vlad the Impaler."
+    }
+  },
+  {
+    "id": "hist-oradea-fortress",
+    "name": {
+      "de": "Festung Oradea",
+      "hu": "Nagyváradi vár",
+      "ro": "Cetatea Oradea",
+      "en": "Oradea Fortress"
+    },
+    "description": {
+      "de": "Mächtige fünfzackige Sternfestung im Westen Rumäniens.",
+      "hu": "Hatalmas ötszögletű csillagvár Románia nyugati részén.",
+      "ro": "Cetate bastionară în formă de stea cu cinci colțuri.",
+      "en": "Massive pentagonal star-shaped fortress in western Romania."
+    }
+  },
+  {
+    "id": "hist-deva-citadel",
+    "name": {
+      "de": "Zitadelle von Deva",
+      "hu": "Dévai vár",
+      "ro": "Cetatea Devei",
+      "en": "Deva Citadel"
+    },
+    "description": {
+      "de": "Ruine einer strategischen Festung auf einem Vulkankegel.",
+      "hu": "Stratégiai fontosságú várrom egy vulkáni kúpon.",
+      "ro": "Ruinele unei cetăți strategice pe un con vulcanic.",
+      "en": "Ruins of a strategic fortress atop a volcanic cone."
+    }
+  },
+  {
+    "id": "hist-neamt-citadel",
+    "name": {
+      "de": "Zitadelle Neamț",
+      "hu": "Németi vár",
+      "ro": "Cetatea Neamț",
+      "en": "Neamț Citadel"
+    },
+    "description": {
+      "de": "Mittelalterliche Festung in der Moldau auf dem Pleșu-Berg.",
+      "hu": "Középkori moldvai vár a Pleșu-hegyen.",
+      "ro": "Cetate medievală moldovenească pe stânca Pleșului.",
+      "en": "Medieval Moldavian fortress atop the Pleșu Rock."
+    }
+  },
+  {
+    "id": "hist-putna",
+    "name": {
+      "de": "Kloster Putna",
+      "hu": "Putnai kolostor",
+      "ro": "Mănăstirea Putna",
+      "en": "Putna Monastery"
+    },
+    "description": {
+      "de": "Bedeutendes Kloster und Grablege Stefans des Großen.",
+      "hu": "Jelentős kolostor és Nagy István temetkezési helye.",
+      "ro": "Unul dintre cele mai importante centre culturale și religioase.",
+      "en": "One of the most important cultural and religious centers."
+    }
+  },
+  {
+    "id": "hist-enisala",
+    "name": {
+      "de": "Festung Enisala",
+      "hu": "Eniszala vára",
+      "ro": "Cetatea Enisala",
+      "en": "Enisala Fortress"
+    },
+    "description": {
+      "de": "Mittelalterliche genuesische Festung mit Blick auf den Razim-See.",
+      "hu": "Középkori genuai vár a Razim-tóra néző kilátással.",
+      "ro": "Singura cetate medievală din Dobrogea care a supraviețuit.",
+      "en": "The only medieval fortress in Dobruja that has survived."
+    }
+  },
+  {
+    "id": "hist-calnic",
+    "name": {
+      "de": "Burg Kelling (Câlnic)",
+      "hu": "Kelneki vár",
+      "ro": "Cetatea Câlnic",
+      "en": "Câlnic Fortress"
+    },
+    "description": {
+      "de": "UNESCO-Weltkulturerbe, eine der besterhaltenen Burgen Siebenbürgens.",
+      "hu": "UNESCO-világörökség, Erdély egyik legjobb állapotban fennmaradt vára.",
+      "ro": "Monument UNESCO, una dintre cele mai bine păstrate cetăți.",
+      "en": "UNESCO monument, one of the best-preserved fortresses."
+    }
+  },
+  {
+    "id": "hist-cozia",
+    "name": {
+      "de": "Kloster Cozia",
+      "hu": "Kozsia-kolostor",
+      "ro": "Mănăstirea Cozia",
+      "en": "Cozia Monastery"
+    },
+    "description": {
+      "de": "Mittelalterliches Kloster am Ufer des Olt, erbaut von Mircea cel Bătrân.",
+      "hu": "Középkori kolostor az Olt partján, Mircea cel Bătrân alapította.",
+      "ro": "Mănăstire medievală pe malul Oltului, ctitorită de Mircea cel Bătrân.",
+      "en": "Medieval monastery on the banks of the Olt, founded by Mircea the Elder."
+    }
+  },
+  {
+    "id": "hist-suceava-fortress",
+    "name": {
+      "de": "Festung von Suceava",
+      "hu": "Szucsávai vár",
+      "ro": "Cetatea de Scaun a Sucevei",
+      "en": "Suceava Princely Fortress"
+    },
+    "description": {
+      "de": "Mächtige mittelalterliche Festung, Residenz der moldauischen Fürsten.",
+      "hu": "Hatalmas középkori erődítmény, a moldvai fejedelmek székhelye.",
+      "ro": "Cetate medievală impunătoare, reședința domnitorilor Moldovei.",
+      "en": "Imposing medieval fortress, the residence of Moldavian princes."
+    }
+  },
+  {
+    "id": "hist-sighisoara-clock-tower",
+    "name": {
+      "de": "Stundturm Schäßburg",
+      "hu": "Segesvári óratorony",
+      "ro": "Turnul cu Ceas din Sighișoara",
+      "en": "Sighișoara Clock Tower"
+    },
+    "description": {
+      "de": "Wahrzeichen von Schäßburg mit einem mechanischen Figurenspiel.",
+      "hu": "Segesvár jelképe mechanikus figurás óraszerkezettel.",
+      "ro": "Simbolul orașului Sighișoara, cu un mecanism cu figurine.",
+      "en": "The symbol of Sighișoara, featuring a mechanical figurine clock."
+    }
+  },
+  {
+    "id": "hist-arad-fortress",
+    "name": {
+      "de": "Festung Arad",
+      "hu": "Aradi vár",
+      "ro": "Cetatea Aradului",
+      "en": "Arad Fortress"
+    },
+    "description": {
+      "de": "Vauban-Festung am Ufer des Mureș, Ort historischer Ereignisse.",
+      "hu": "Vauban-stílusú vár a Maros partján, történelmi események helyszíne.",
+      "ro": "Cetate în stil Vauban pe malul Mureșului, loc al evenimentelor istorice.",
+      "en": "Vauban-style fortress on the banks of the Mureș, site of historical events."
+    }
+  },
+  {
+    "id": "hist-densus",
+    "name": {
+      "de": "Kirche von Densuș",
+      "hu": "Demsusi templom",
+      "ro": "Biserica Sfântul Nicolae din Densuș",
+      "en": "Densuș Church"
+    },
+    "description": {
+      "de": "Eine der ältesten Steinkirchen Rumäniens, erbaut aus römischen Spolien.",
+      "hu": "Románia egyik legrégebbi kőtemploma, római kövekből épült.",
+      "ro": "Una dintre cele mai vechi biserici de piatră, construită din spoli romane.",
+      "en": "One of Romania's oldest stone churches, built from Roman spolia."
+    }
+  },
+  {
+    "id": "hist-cirtza",
+    "name": {
+      "de": "Kloster Kerz",
+      "hu": "Kerczi apátság",
+      "ro": "Mănăstirea Cârța",
+      "en": "Cârța Monastery"
+    },
+    "description": {
+      "de": "Ruinen einer Zisterzienserabtei, ein bedeutendes gotisches Denkmal.",
+      "hu": "Ciszterci apátság romjai, jelentős gótikus műemlék.",
+      "ro": "Ruinele unei abații cisterciene, monument gotic important.",
+      "en": "Ruins of a Cistercian abbey, an important Gothic monument."
+    }
+  },
+  {
+    "id": "hist-rupea",
+    "name": {
+      "de": "Burg Rupea",
+      "hu": "Kőhalmi vár",
+      "ro": "Cetatea Rupea",
+      "en": "Rupea Fortress"
+    },
+    "description": {
+      "de": "Mittelalterliche Bauernburg auf einem Basaltfelsen.",
+      "hu": "Középkori parasztvár egy bazaltsziklán.",
+      "ro": "Cetate țărănească medievală pe o stâncă de bazalt.",
+      "en": "Medieval peasant fortress on a basalt rock."
+    }
+  },
+  {
+    "id": "hist-dragomirna",
+    "name": {
+      "de": "Kloster Dragomirna",
+      "hu": "Dragomirnai kolostor",
+      "ro": "Mănăstirea Dragomirna",
+      "en": "Dragomirna Monastery"
+    },
+    "description": {
+      "de": "Einzigartiges befestigtes Kloster mit extrem hohen Mauern.",
+      "hu": "Egyedülálló erődített kolostor rendkívül magas falakkal.",
+      "ro": "Mănăstire fortificată unică, cu ziduri extrem de înalte.",
+      "en": "Unique fortified monastery with extremely high walls."
+    }
+  },
+  {
+    "id": "hist-agapia",
+    "name": {
+      "de": "Kloster Agapia",
+      "hu": "Agapia-kolostor",
+      "ro": "Mănăstirea Agapia",
+      "en": "Agapia Monastery"
+    },
+    "description": {
+      "de": "Eines der größten Nonnenklöster Rumäniens, bekannt für seine Fresken.",
+      "hu": "Románia egyik legnagyobb apácakolostora, freskóiról híres.",
+      "ro": "Una dintre cele mai mari mănăstiri de maici, celebră pentru fresce.",
+      "en": "One of Romania's largest nunneries, famous for its frescoes."
+    }
+  },
+  {
+    "id": "hist-tismana",
+    "name": {
+      "de": "Kloster Tismana",
+      "hu": "Tiszmanai kolostor",
+      "ro": "Mănăstirea Tismana",
+      "en": "Tismana Monastery"
+    },
+    "description": {
+      "de": "Čltestes Kloster der Walachei, erbaut auf einem Felsen.",
+      "hu": "Havasalföld legrégebbi kolostora, egy sziklára épült.",
+      "ro": "Cea mai veche mănăstire din Țara Românească, pe o stâncă.",
+      "en": "The oldest monastery in Wallachia, built on a rock."
+    }
+  },
+  {
+    "id": "landmark-retezat-np",
+    "name": {
+      "de": "Retezat-Nationalpark",
+      "hu": "Retyezát Nemzeti Park",
+      "ro": "Parcul Național Retezat",
+      "en": "Retezat National Park"
+    },
+    "description": {
+      "de": "Čltester Nationalpark Rumäniens (1935).",
+      "hu": "Románia legrégebbi nemzeti parkja (1935).",
+      "ro": "Cel mai vechi parc național (1935).",
+      "en": "Romania's oldest national park (1935)."
+    }
+  },
+  {
+    "id": "landmark-cheile-bicazului",
+    "name": {
+      "de": "Bicaz-Schlucht",
+      "hu": "Békási-szoros",
+      "ro": "Cheile Bicazului",
+      "en": "Bicaz Gorge"
+    },
+    "description": {
+      "de": "Spektakuläre Kalksteinschlucht zwischen Transsilvanien und Moldau.",
+      "hu": "Látványos mészkőszurdok Erdély és Moldva között.",
+      "ro": "Chei calcaroase spectaculoase între Transilvania și Moldova.",
+      "en": "Spectacular limestone gorge between Transylvania and Moldavia."
+    }
+  },
+  {
+    "id": "landmark-cheile-turzii",
+    "name": {
+      "de": "Turzii-Schlucht",
+      "hu": "Tordai-hasadék",
+      "ro": "Cheile Turzii",
+      "en": "Turda Gorge"
+    },
+    "description": {
+      "de": "Karstschlucht bei Turda, Naturreservat.",
+      "hu": "Karsztos szurdok Torda mellett, természetvédelmi terület.",
+      "ro": "Chei carstice lângă Turda, rezervație naturală.",
+      "en": "Karst gorge near Turda, nature reserve."
+    }
+  },
+  {
+    "id": "landmark-salina-praid",
+    "name": {
+      "de": "Salzbergwerk Praid",
+      "hu": "Parajdi sóbánya",
+      "ro": "Salina Praid",
+      "en": "Praid Salt Mine"
+    },
+    "description": {
+      "de": "Größtes aktives Salzbergwerk Rumäniens.",
+      "hu": "Románia legnagyobb működő sóbányája.",
+      "ro": "Cea mai mare salină activă din România.",
+      "en": "Romania's largest active salt mine."
+    }
+  },
+  {
+    "id": "landmark-salina-slanic",
+    "name": {
+      "de": "Salzbergwerk Slănic",
+      "hu": "Slănic Prahova sóbánya",
+      "ro": "Salina Slănic Prahova",
+      "en": "Slănic Prahova Salt Mine"
+    },
+    "description": {
+      "de": "Historisches Salzbergwerk mit riesigen Hallen.",
+      "hu": "Történelmi sóbánya hatalmas termekkel.",
+      "ro": "Salină istorică cu săli mari.",
+      "en": "Historic salt mine with huge halls."
+    }
+  },
+  {
+    "id": "landmark-mud-volcanoes",
+    "name": {
+      "de": "Schlammvulkane Buzău",
+      "hu": "Iszapvulkánok (Buzău)",
+      "ro": "Vulcanii Noroioși",
+      "en": "Mud Volcanoes"
+    },
+    "description": {
+      "de": "Seltene Naturerscheinung: kalte Vulkane aus Schlamm.",
+      "hu": "Ritka természeti jelenség: hideg iszapvulkánok.",
+      "ro": "Fenomen natural rar: vulcani reci cu noroi.",
+      "en": "Rare natural phenomenon: cold mud volcanoes."
+    }
+  },
+  {
+    "id": "landmark-sphinx-bucegi",
+    "name": {
+      "de": "Bucegi-Sphinx",
+      "hu": "Bucsecs-Szfinx",
+      "ro": "Sfinxul din Bucegi",
+      "en": "Bucegi Sphinx"
+    },
+    "description": {
+      "de": "Markante Felsformation auf 2.216 m Höhe.",
+      "hu": "Jellegzetes sziklaalakzat 2216 m magasan.",
+      "ro": "Formațiune stâncoasă la 2.216 m altitudine.",
+      "en": "Striking rock formation at 2,216 m elevation."
+    }
+  },
+  {
+    "id": "landmark-ateneul-roman",
+    "name": {
+      "de": "Rumänisches Athenäum",
+      "hu": "Román Atheneum",
+      "ro": "Ateneul Român",
+      "en": "Romanian Athenaeum"
+    },
+    "description": {
+      "de": "Prachtvolles Konzerthaus in Bukarest.",
+      "hu": "Díszes bukaresti koncertterem.",
+      "ro": "Sală de concerte emblematică din București.",
+      "en": "Bucharest's flagship concert hall."
+    }
+  },
+  {
+    "id": "cultura-teatrul-national",
+    "name": {
+      "de": "Nationaltheater Bukarest",
+      "hu": "Bukaresti Nemzeti Színház",
+      "ro": "Teatrul Național București",
+      "en": "National Theatre Bucharest"
+    },
+    "description": {
+      "de": "Das größte Theater in Rumänien.",
+      "hu": "Románia legnagyobb színháza.",
+      "ro": "Cel mai mare teatru din România.",
+      "en": "The largest theatre in Romania."
+    }
+  },
+  {
+    "id": "cultura-muzeul-taranului",
+    "name": {
+      "de": "Museum des rumänischen Bauern",
+      "hu": "Román Parasztmúzeum",
+      "ro": "Muzeul Țăranului Român",
+      "en": "Museum of the Romanian Peasant"
+    },
+    "description": {
+      "de": "Museum für Volkskunst und Traditionen.",
+      "hu": "Népművészetnek és hagyományoknak szentelt múzeum.",
+      "ro": "Muzeu dedicat artei și tradițiilor populare.",
+      "en": "Museum dedicated to folk art and traditions."
+    }
+  },
+  {
+    "id": "cultura-opera-cluj",
+    "name": {
+      "de": "Rumänische Nationaloper Cluj-Napoca",
+      "hu": "Kolozsvári Román Nemzeti Opera",
+      "ro": "Opera Națională Română Cluj-Napoca",
+      "en": "Romanian National Opera, Cluj-Napoca"
+    },
+    "description": {
+      "de": "Die erste lyrische Einrichtung des Landes.",
+      "hu": "Az ország első lírai intézménye.",
+      "ro": "Prima instituție lirică a țării.",
+      "en": "The country's first lyrical institution."
+    }
+  },
+  {
+    "id": "cultura-festivalul-enab",
+    "name": {
+      "de": "Internationales Theaterfestival Sibiu",
+      "hu": "Nagyszebeni Nemzetközi Színházi Fesztivál",
+      "ro": "FITS - Festivalul Internațional de Teatru de la Sibiu",
+      "en": "Sibiu International Theatre Festival"
+    },
+    "description": {
+      "de": "Eines der größten Theaterfestivals der Welt.",
+      "hu": "A világ egyik legnagyobb színházi fesztiválja.",
+      "ro": "Unul dintre cele mai mari festivaluri de teatru din lume.",
+      "en": "One of the largest theatre festivals in the world."
+    }
+  },
+  {
+    "id": "cultura-muzeul-brukenthal",
+    "name": {
+      "de": "Brukenthal-Nationalmuseum",
+      "hu": "Brukenthal Nemzeti Múzeum",
+      "ro": "Muzeul Național Brukenthal",
+      "en": "Brukenthal National Museum"
+    },
+    "description": {
+      "de": "Das älteste Museum in Rumänien.",
+      "hu": "Románia legrégebbi múzeuma.",
+      "ro": "Cel mai vechi muzeu din România.",
+      "en": "The oldest museum in Romania."
+    }
+  },
+  {
+    "id": "cultura-palatul-culturii",
+    "name": {
+      "de": "Kulturpalast Iași",
+      "hu": "Jászvásári Kultúrpalota",
+      "ro": "Palatul Culturii Iași",
+      "en": "Palace of Culture Iași"
+    },
+    "description": {
+      "de": "Ikonisches neugotisches Gebäude.",
+      "hu": "Emblematikus neogótikus épület.",
+      "ro": "Edificiu emblematic în stil neogotic.",
+      "en": "Iconic neo-Gothic building."
+    }
+  },
+  {
+    "id": "cultura-untold",
+    "name": {
+      "de": "UNTOLD Festival",
+      "hu": "UNTOLD Fesztivál",
+      "ro": "UNTOLD Festival",
+      "en": "UNTOLD Festival"
+    },
+    "description": {
+      "de": "Das größte Musikfestival in Rumänien.",
+      "hu": "Románia legnagyobb zenei fesztiválja.",
+      "ro": "Cel mai mare festival de muzică din România.",
+      "en": "The largest music festival in Romania."
+    }
+  },
+  {
+    "id": "cultura-saga-festival",
+    "name": {
+      "de": "SAGA Festival",
+      "hu": "SAGA Fesztivál",
+      "ro": "SAGA Festival",
+      "en": "SAGA Festival"
+    },
+    "description": {
+      "de": "Elektronisches Musikfestival in Bukarest.",
+      "hu": "Elektronikus zenei fesztivál Bukarestben.",
+      "ro": "Festival de muzică electronică din București.",
+      "en": "Electronic music festival in Bucharest."
+    }
+  },
+  {
+    "id": "cultura-muzeul-antipa",
+    "name": {
+      "de": "Grigore-Antipa-Museum",
+      "hu": "Grigore Antipa Múzeum",
+      "ro": "Muzeul Grigore Antipa",
+      "en": "Grigore Antipa Museum"
+    },
+    "description": {
+      "de": "Nationales naturhistorisches Museum.",
+      "hu": "Nemzeti természettudományi múzeum.",
+      "ro": "Muzeu național de istorie naturală.",
+      "en": "National museum of natural history."
+    }
+  },
+  {
+    "id": "cultura-opera-timisoara",
+    "name": {
+      "de": "Rumänische Nationaloper Timișoara",
+      "hu": "Temesvári Román Nemzeti Opera",
+      "ro": "Opera Națională Română Timișoara",
+      "en": "Romanian National Opera Timișoara"
+    },
+    "description": {
+      "de": "Renommierte kulturelle Einrichtung im Banat.",
+      "hu": "Rangos kulturális intézmény a Bánságban.",
+      "ro": "Instituție culturală de prestigiu în Banat.",
+      "en": "Prestigious cultural institution in Banat."
+    }
+  },
+  {
+    "id": "trad-martisor",
+    "name": {
+      "de": "Mărțișor",
+      "hu": "Mărțișor",
+      "ro": "Mărțișorul",
+      "en": "Mărțișor (March Amulet)"
+    },
+    "description": {
+      "de": "Feier der Ankunft des Frühlings am 1. März.",
+      "hu": "A tavasz eljövetelének ünnepe március 1-jén.",
+      "ro": "Sărbătoarea venirii primăverii la 1 martie.",
+      "en": "Celebration of the arrival of spring on March 1st."
+    }
+  },
+  {
+    "id": "trad-calusari",
+    "name": {
+      "de": "Călușari-Tanz",
+      "hu": "Călușari tánc",
+      "ro": "Dansul Călușarilor",
+      "en": "Călușari Dance"
+    },
+    "description": {
+      "de": "Traditioneller rumänischer Ritualtanz.",
+      "hu": "Hagyományos román rituális tánc.",
+      "ro": "Dans tradițional românesc cu funcție rituală.",
+      "en": "Traditional Romanian dance with a ritual function."
+    }
+  },
+  {
+    "id": "trad-mucenici",
+    "name": {
+      "de": "Tag der Märtyrer (Mucenici)",
+      "hu": "Mucenici ünnepe",
+      "ro": "Sărbătoarea Mucenicilor",
+      "en": "Martyrs' Day (Mucenici)"
+    },
+    "description": {
+      "de": "Kulinarische und religiöse Tradition am 9. März.",
+      "hu": "Kulináris és vallási hagyomány március 9-én.",
+      "ro": "Tradiție culinară și religioasă pe 9 martie.",
+      "en": "Culinary and religious tradition on March 9th."
+    }
+  },
+  {
+    "id": "trad-paste",
+    "name": {
+      "de": "Ostertraditionen",
+      "hu": "Húsvéti hagyományok",
+      "ro": "Tradiții de Paște",
+      "en": "Easter Traditions"
+    },
+    "description": {
+      "de": "Eier bemalen und der Auferstehungsgottesdienst.",
+      "hu": "Tojásírás és a feltámadási mise.",
+      "ro": "Încondeierea ouălor și slujba de Înviere.",
+      "en": "Egg painting and the Resurrection service."
+    }
+  },
+  {
+    "id": "trad-sanzaiene",
+    "name": {
+      "de": "Sânziene (Mittsommer)",
+      "hu": "Sânziene (Szentivánéj)",
+      "ro": "Sânzienele",
+      "en": "Sânziene (Midsummer)"
+    },
+    "description": {
+      "de": "Sommerfest im Zusammenhang mit Ernte und Liebe.",
+      "hu": "Nyári ünnep a terméshez és a szerelemhez kötődően.",
+      "ro": "Sărbătoare de vară legată de recolte și dragoste.",
+      "en": "Summer festival related to harvest and love."
+    }
+  },
+  {
+    "id": "trad-colindat",
+    "name": {
+      "de": "Weihnachtssingen",
+      "hu": "Karácsonyi kántálás",
+      "ro": "Colindatul de Crăciun",
+      "en": "Christmas Caroling"
+    },
+    "description": {
+      "de": "Wintertradition, bei der Gruppen von Haus zu Haus gehen.",
+      "hu": "Téli hagyomány, amikor csoportok házról házra járnak.",
+      "ro": "Tradiție de iarnă în care grupuri merg din casă în casă.",
+      "en": "Winter tradition where groups go from house to house."
+    }
+  },
+  {
+    "id": "trad-dragobete",
+    "name": {
+      "de": "Dragobete (Tag der Liebenden)",
+      "hu": "Dragobete (Szerelmesek napja)",
+      "ro": "Dragobetele",
+      "en": "Dragobete (Lovers' Day)"
+    },
+    "description": {
+      "de": "Traditionelles rumänisches Fest der Liebe.",
+      "hu": "A szerelem hagyományos román ünnepe.",
+      "ro": "Sărbătoarea tradițională a iubirii la români.",
+      "en": "Traditional Romanian celebration of love."
+    }
+  },
+  {
+    "id": "trad-ignatul",
+    "name": {
+      "de": "Ignattag (Schweineschlachten)",
+      "hu": "Disznóvágás (Ignat)",
+      "ro": "Ignatul",
+      "en": "Ignat Day (Pig Slaughter)"
+    },
+    "description": {
+      "de": "Vorweihnachtliche Tradition des Schweineschlachtens.",
+      "hu": "Karácsony előtti disznóvágás hagyomanya.",
+      "ro": "Tradiție pre-crăciun care implică tăierea porcului.",
+      "en": "Pre-Christmas tradition involving pig slaughtering."
+    }
+  },
+  {
+    "id": "trad-boboteaza",
+    "name": {
+      "de": "Dreikönigsfest",
+      "hu": "Vízkereszt",
+      "ro": "Boboteaza",
+      "en": "Epiphany"
+    },
+    "description": {
+      "de": "Winterfest mit der Segnung der Gewässer.",
+      "hu": "Téli ünnep a vizek megszentelésével.",
+      "ro": "Sărbătoare de iarnă cu sfințirea apelor.",
+      "en": "Winter holiday with the blessing of the waters."
+    }
+  },
+  {
+    "id": "trad-paparudele",
+    "name": {
+      "de": "Paparuda (Regentanz)",
+      "hu": "Paparuda (Esőtánc)",
+      "ro": "Paparudele",
+      "en": "Paparuda"
+    },
+    "description": {
+      "de": "Archaisches Ritual zur Beschwörung von Regen.",
+      "hu": "Archaikus rituálé az eső hívására.",
+      "ro": "Ritual arhaic pentru invocarea ploii.",
+      "en": "Archaic ritual for invoking rain."
+    }
+  },
+  {
+    "id": "wild-lupul",
+    "name": {
+      "de": "Karpatenwolf",
+      "hu": "Kárpáti farkas",
+      "ro": "Lupul Carpatin",
+      "en": "Carpathian Wolf"
+    },
+    "description": {
+      "de": "Rumänien beherbergt eine der größten Wolfspopulationen Europas.",
+      "hu": "Romániában él Európa egyik legnagyobb farkaspopulációja.",
+      "ro": "România găzduiește una dintre cele mai mari populații de lupi din Europa.",
+      "en": "Romania hosts one of the largest wolf populations in Europe."
+    }
+  },
+  {
+    "id": "folk-maramures",
+    "name": {
+      "de": "Region Maramureș",
+      "hu": "Máramaros vidék",
+      "ro": "Țara Maramureșului",
+      "en": "Maramureș Region"
+    },
+    "description": {
+      "de": "Bekannt für seine Holzkirchen und traditionelle Kleidung.",
+      "hu": "Fatemplomairól és hagyományos viseletéről ismert.",
+      "ro": "Cunoscută pentru bisericile de lemn și portul tradițional.",
+      "en": "Known for its wooden churches and traditional attire."
+    }
+  },
+  {
+    "id": "folk-bucovina",
+    "name": {
+      "de": "Bukowina",
+      "hu": "Bukovina",
+      "ro": "Bucovina",
+      "en": "Bukovina"
+    },
+    "description": {
+      "de": "Bekannt für die bemalten Klöster und das Bemalen von Eiern.",
+      "hu": "A festett kolostorokról és a tojásírásról híres vidék.",
+      "ro": "Zonă faimoasă pentru mănăstirile pictate și încondeierea ouălor.",
+      "en": "Famous area for painted monasteries and egg painting."
+    }
+  },
+  {
+    "id": "folk-tara-motilor",
+    "name": {
+      "de": "Motzenland",
+      "hu": "Mócvidék",
+      "ro": "Țara Moților",
+      "en": "Țara Moților (Land of the Moți)"
+    },
+    "description": {
+      "de": "Ethnographisches Gebiet im Apuseni-Gebirge, wo die Motzen leben.",
+      "hu": "Néprajzi vidék az Erdélyi-szigethegységben, a mócok hazája.",
+      "ro": "Zonă etnografică din Munții Apuseni, unde trăiesc moții.",
+      "en": "Ethnographic area in the Apuseni Mountains, where the Moți live."
+    }
+  },
+  {
+    "id": "folk-oltenia",
+    "name": {
+      "de": "Traditionelles Oltenien",
+      "hu": "Hagyományos Olténia",
+      "ro": "Oltenia Tradițională",
+      "en": "Traditional Oltenia"
+    },
+    "description": {
+      "de": "Bekannt für oltenische Teppiche und Horezu-Keramik.",
+      "hu": "Az olténiai szőnyegekről és a horezui kerámiáról ismert.",
+      "ro": "Cunoscută pentru covoarele oltenești și ceramica de Horezu.",
+      "en": "Known for Oltenian carpets and Horezu ceramics."
+    }
+  },
+  {
+    "id": "folk-tara-oasului",
+    "name": {
+      "de": "Oascher Land",
+      "hu": "Avasság (Avas)",
+      "ro": "Țara Oașului",
+      "en": "Oaș Country"
+    },
+    "description": {
+      "de": "Region berühmt für bunte Trachten und traditionelle Musik.",
+      "hu": "A színes viseletről és a hagyományos zenéről híres vidék.",
+      "ro": "Regiune faimoasă pentru portul colorat și muzica tradițională.",
+      "en": "Region famous for colorful costumes and traditional music."
+    }
+  },
+  {
+    "id": "folk-dobrogea",
+    "name": {
+      "de": "Dobrudscha Traditionen",
+      "hu": "Dobrudzsai hagyományok",
+      "ro": "Tradiții Dobrogene",
+      "en": "Dobruja Traditions"
+    },
+    "description": {
+      "de": "Einzigartige kulturelle Mischung aus Rumänen, Türken, Tataren und Lippowanern.",
+      "hu": "Egyedülálló kulturális keverék románok, törökök, tatárok és lipovánok között.",
+      "ro": "Mix cultural unic între români, turci, tătari și lipoveni.",
+      "en": "Unique cultural mix between Romanians, Turks, Tatars, and Lipovans."
+    }
+  },
+  {
+    "id": "folk-transilvania-saseasca",
+    "name": {
+      "de": "Siebenbürgen (sächsisch)",
+      "hu": "Szász Erdély",
+      "ro": "Transilvania Săsească",
+      "en": "Saxon Transylvania"
+    },
+    "description": {
+      "de": "Gegend, die von Dörfern mit von Sachsen erbauten Kirchenburgen geprägt ist.",
+      "hu": "A szászok által épített erődtemplomos falvakkal jellemezhető vidék.",
+      "ro": "Zonă marcată de satele cu biserici fortificate construite de sași.",
+      "en": "Area marked by villages with fortified churches built by Saxons."
+    }
+  },
+  {
+    "id": "folk-tara-fagarasului",
+    "name": {
+      "de": "Fogarascher Land",
+      "hu": "Fogarasföld",
+      "ro": "Țara Făgărașului",
+      "en": "Făgăraș Country"
+    },
+    "description": {
+      "de": "Historische Region reich an siebenbürgischen Traditionen.",
+      "hu": "Erdélyi hagyományokban gazdag történelmi régió.",
+      "ro": "Regiune istorică bogată în tradiții transilvănene.",
+      "en": "Historical region rich in Transylvanian traditions."
+    }
+  },
+  {
+    "id": "folk-marginimea-sibiului",
+    "name": {
+      "de": "Mărginimea Sibiului",
+      "hu": "Szeben-hegyalja",
+      "ro": "Mărginimea Sibiului",
+      "en": "Mărginimea Sibiului"
+    },
+    "description": {
+      "de": "Pastorales ethnographisches Gebiet in der Nähe von Sibiu.",
+      "hu": "Pásztorkodó néprajzi vidék Nagyszeben közelében.",
+      "ro": "Zonă etnografică pastorală din apropierea Sibiului.",
+      "en": "Pastoral ethnographic area near Sibiu."
+    }
+  },
+  {
+    "id": "ro-poi-moneasa",
+    "name": {
+      "de": "Moneasa",
+      "hu": "Menyháza",
+      "ro": "Stațiunea Moneasa",
+      "en": "Moneasa Resort"
+    },
+    "description": {
+      "de": "Bekannter Kurort.",
+      "hu": "Híres gyógyüdülőhely.",
+      "ro": "Stațiune balneoclimaterică cunoscută.",
+      "en": "Well-known spa resort."
+    }
+  }
+]

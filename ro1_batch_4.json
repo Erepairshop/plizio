@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-targu-jiu-extra",
+    "name_ro": "T\u00e2rgu Jiu",
+    "desc_ro": "Capitala Gorjului."
+  },
+  {
+    "id": "city-motru-extra",
+    "name_ro": "Motru",
+    "desc_ro": "Ora\u0219 minier."
+  },
+  {
+    "id": "city-rovinari-extra",
+    "name_ro": "Rovinari",
+    "desc_ro": "Centru energetic."
+  },
+  {
+    "id": "city-odorheiu-secuiesc-extra",
+    "name_ro": "Odorheiu Secuiesc",
+    "desc_ro": "Ora\u0219 secuiesc."
+  },
+  {
+    "id": "city-gheorgheni-extra",
+    "name_ro": "Gheorgheni",
+    "desc_ro": "Ora\u0219 \u00een Depresiunea Giurgeu."
+  },
+  {
+    "id": "city-toplita-extra",
+    "name_ro": "Topli\u021ba",
+    "desc_ro": "Ora\u0219 pe Mure\u0219."
+  },
+  {
+    "id": "city-deva-extra",
+    "name_ro": "Deva",
+    "desc_ro": "Re\u0219edin\u021ba Hunedoarei."
+  },
+  {
+    "id": "city-hunedoara-extra",
+    "name_ro": "Hunedoara",
+    "desc_ro": "Ora\u0219ul Castelului Corvinilor."
+  },
+  {
+    "id": "city-petrosani-extra",
+    "name_ro": "Petro\u0219ani",
+    "desc_ro": "Centrul V\u0103ii Jiului."
+  },
+  {
+    "id": "city-urziceni-extra",
+    "name_ro": "Urziceni",
+    "desc_ro": "Centru agricol."
+  },
+  {
+    "id": "city-fetesti-extra",
+    "name_ro": "Fete\u0219ti",
+    "desc_ro": "Port la Dun\u0103re."
+  },
+  {
+    "id": "city-tandarei-extra",
+    "name_ro": "\u021a\u0103nd\u0103rei",
+    "desc_ro": "Ora\u0219 din B\u0103r\u0103gan."
+  },
+  {
+    "id": "city-pascani-extra",
+    "name_ro": "Pa\u0219cani",
+    "desc_ro": "Nod feroviar."
+  },
+  {
+    "id": "city-harlau-extra",
+    "name_ro": "H\u00e2rl\u0103u",
+    "desc_ro": "Curte domneasc\u0103."
+  }
+]

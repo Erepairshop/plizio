@@ -1,0 +1,210 @@
+{
+  "historical-echternach-basilica": {
+    "de": [
+      { "q": "Wer ist in der Basilika von Echternach begraben?", "a": "Der Heilige Willibrord, der Gründer der Stadt und der Abtei." },
+      { "q": "Was befindet sich in der Krypta der Basilika?", "a": "Das prachtvolle Grabmal des Heiligen Willibrord." },
+      { "q": "Aus welcher Epoche stammt der heutige Bau?", "a": "Die Basilika ist ein Meisterwerk der romanischen Architektur." },
+      { "q": "Welche Zerstörungen erlitt die Basilika im Krieg?", "a": "Sie wurde im Zweiten Weltkrieg schwer beschädigt und danach originalgetreu wiederaufgebaut." }
+    ],
+    "hu": [
+      { "q": "Ki van eltemetve az echternachi bazilikában?", "a": "Szent Willibrord, a város és az apátság alapítója." },
+      { "q": "Mi található a bazilika kriptájában?", "a": "Szent Willibrord díszes síremléke." },
+      { "q": "Melyik korszakból származik a mai épület?", "a": "A bazilika a román stílusú építészet egyik remekműve." },
+      { "q": "Milyen pusztításokat szenvedett el a bazilika a háborúban?", "a": "A második világháborúban súlyosan megsérült, majd az eredeti formájában építették újjá." }
+    ],
+    "ro": [
+      { "q": "Cine este înmormântat în bazilica din Echternach?", "a": "Sfântul Willibrord, fondatorul orașului și al abației." },
+      { "q": "Ce se află în cripta bazilicii?", "a": "Mormântul magnific al Sfântului Willibrord." },
+      { "q": "Din ce epocă datează clădirea actuală?", "a": "Bazilica este o capodoperă a arhitecturii romanice." },
+      { "q": "Ce distrugeri a suferit bazilica în timpul războiului?", "a": "A fost grav avariată în al Doilea Război Mondial și reconstruită ulterior conform originalului." }
+    ],
+    "en": [
+      { "q": "Who is buried in the Echternach Basilica?", "a": "Saint Willibrord, the founder of the town and the abbey." },
+      { "q": "What is located in the basilica's crypt?", "a": "The magnificent tomb of Saint Willibrord." },
+      { "q": "From what era does the current building date?", "a": "The basilica is a masterpiece of Romanesque architecture." },
+      { "q": "What destruction did the basilica suffer during the war?", "a": "It was heavily damaged during WWII and subsequently rebuilt as it was originally." }
+    ]
+  },
+  "historical-victor-hugo-house": {
+    "de": [
+      { "q": "Warum gibt es ein Victor-Hugo-Haus in Vianden?", "a": "Der berühmte Schriftsteller lebte dort 1871 drei Monate lang im Exil." },
+      { "q": "Was kann man im Museum sehen?", "a": "Originalmanuskripte, Zeichnungen von Hugo und Möbel aus seiner Zeit." },
+      { "q": "Wie blickte Victor Hugo auf Vianden?", "a": "Er liebte die Stadt und bezeichnete sie als eine der schönsten Landschaften, die er kannte." },
+      { "q": "Wo genau in Vianden liegt das Haus?", "a": "Direkt an der Our-Brücke am Fuße des Burgfelsens." }
+    ],
+    "hu": [
+      { "q": "Miért van Victor Hugo-ház Viandenben?", "a": "A híres író 1871-ben három hónapig ott élt száműzetésben." },
+      { "q": "Mit láthatunk a múzeumban?", "a": "Eredeti kéziratokat, Hugo rajzait és korabeli bútorokat." },
+      { "q": "Hogyan vélekedett Victor Hugo Viandenről?", "a": "Imádta a várost, és az egyik legszebb tájnak nevezte, amit valaha látott." },
+      { "q": "Pontosan hol található a ház Viandenben?", "a": "Közvetlenül az Our-hídnál, a várhegy lábánál." }
+    ],
+    "ro": [
+      { "q": "De ce există o casă Victor Hugo în Vianden?", "a": "Celebrul scriitor a locuit acolo în exil timp de trei luni, în 1871." },
+      { "q": "Ce se poate vedea în muzeu?", "a": "Manuscrise originale, desene de Hugo și mobilier din epoca sa." },
+      { "q": "Care a fost părerea lui Victor Hugo despre Vianden?", "a": "A iubit orașul și l-a descris ca fiind unul dintre cele mai frumoase peisaje pe care le cunoștea." },
+      { "q": "Unde anume în Vianden se află casa?", "a": "Chiar lângă podul peste Our, la poalele stâncii castelului." }
+    ],
+    "en": [
+      { "q": "Why is there a Victor Hugo House in Vianden?", "a": "The famous writer lived there in exile for three months in 1871." },
+      { "q": "What can you see in the museum?", "a": "Original manuscripts, drawings by Hugo, and furniture from his time." },
+      { "q": "How did Victor Hugo view Vianden?", "a": "He loved the town and called it one of the most beautiful landscapes he knew." },
+      { "q": "Where exactly in Vianden is the house located?", "a": "Right by the Our bridge at the foot of the castle rock." }
+    ]
+  },
+  "industry-arcelormittal-belval": {
+    "de": [
+      { "q": "Was war Belval früher?", "a": "Eines der größten Stahlwerke Luxemburgs." },
+      { "q": "Was ist heute aus den Hochöfen geworden?", "a": "Sie sind Industriedenkmäler und können von Besuchern bestiegen werden." },
+      { "q": "Welche Institutionen befinden sich heute in Belval?", "a": "Die Universität Luxemburg, Forschungsinstitute und das Konzerthaus Rockhal." },
+      { "q": "Kann man die Geschichte der Eisenindustrie dort noch erleben?", "a": "Ja, durch Führungen an den erhaltenen Industrieanlagen und in Ausstellungen." }
+    ],
+    "hu": [
+      { "q": "Mi volt korábban Belval?", "a": "Luxemburg egyik legnagyobb acélműve." },
+      { "q": "Mi lett mára a nagyolvasztókból?", "a": "Ipari műemlékek, amelyeket a látogatók meg is mászhatnak." },
+      { "q": "Milyen intézmények találhatók ma Belvalban?", "a": "A Luxemburgi Egyetem, kutatóintézetek és a Rockhal koncertterem." },
+      { "q": "Átélhető-e még ott a vasipar történelme?", "a": "Igen, a megőrzött ipari létesítményeknél tartott vezetett túrákon és kiállításokon keresztül." }
+    ],
+    "ro": [
+      { "q": "Ce a fost Belval în trecut?", "a": "Una dintre cele mai mari oțelării din Luxemburg." },
+      { "q": "Ce s-a întâmplat cu furnalele de acolo?", "a": "Sunt monumente industriale și pot fi urcate de către vizitatori." },
+      { "q": "Ce instituții se află astăzi în Belval?", "a": "Universitatea din Luxemburg, institute de cercetare și sala de concerte Rockhal." },
+      { "q": "Mai poate fi experimentată istoria industriei siderurgice acolo?", "a": "Da, prin tururi ghidate la instalațiile industriale păstrate și în expoziții." }
+    ],
+    "en": [
+      { "q": "What was Belval in the past?", "a": "One of Luxembourg's largest steelworks." },
+      { "q": "What has become of the blast furnaces there?", "a": "They are industrial monuments and can be climbed by visitors." },
+      { "q": "Which institutions are located in Belval today?", "a": "The University of Luxembourg, research institutes, and the Rockhal concert hall." },
+      { "q": "Can you still experience the history of the iron industry there?", "a": "Yes, through guided tours of the preserved industrial plants and in exhibitions." }
+    ]
+  },
+  "historical-neumunster-abbey": {
+    "de": [
+      { "q": "Wo liegt die Abtei Neumünster?", "a": "Im malerischen Stadtteil Grund in Luxemburg-Stadt." },
+      { "q": "Was ist neimënster heute?", "a": "Ein renommiertes Kulturzentrum für Konzerte, Theater und Ausstellungen." },
+      { "q": "Welche dunkle Phase hatte die Abtei?", "a": "Sie wurde im 19. und 20. Jahrhundert lange Zeit als Gefängnis genutzt." },
+      { "q": "Was kann man im Innenhof der Abtei sehen?", "a": "Häufig finden dort Open-Air-Konzerte und Skulpturenausstellungen statt." }
+    ],
+    "hu": [
+      { "q": "Hol található a Neumünster-apátság?", "a": "Luxemburg város festői Grund negyedében." },
+      { "q": "Mi a neimënster ma?", "a": "Egy neves kulturális központ koncertek, színházi előadások és kiállítások számára." },
+      { "q": "Milyen sötét korszaka volt az apátságnak?", "a": "A 19. és 20. században hosszú ideig börtönként használták." },
+      { "q": "Mit láthatunk az apátság belső udvarán?", "a": "Gyakran tartanak ott szabadtéri koncerteket és szoborkiállításokat." }
+    ],
+    "ro": [
+      { "q": "Unde se află abația Neumünster?", "a": "În cartierul pitoresc Grund din orașul Luxemburg." },
+      { "q": "Ce este neimënster astăzi?", "a": "Un centru cultural renumit pentru concerte, teatru și expoziții." },
+      { "q": "Ce perioadă întunecată a avut abația?", "a": "A fost folosită mult timp ca închisoare în secolele XIX și XX." },
+      { "q": "Ce se poate vedea în curtea interioară a abației?", "a": "Acolo au loc frecvent concerte în aer liber și expoziții de sculptură." }
+    ],
+    "en": [
+      { "q": "Where is Neumünster Abbey located?", "a": "In the picturesque Grund district of Luxembourg City." },
+      { "q": "What is neimënster today?", "a": "A renowned cultural center for concerts, theater, and exhibitions." },
+      { "q": "What dark period did the abbey have?", "a": "It was used as a prison for a long time in the 19th and 20th centuries." },
+      { "q": "What can you see in the abbey's courtyard?", "a": "Open-air concerts and sculpture exhibitions are frequently held there." }
+    ]
+  },
+  "forest-bambesch": {
+    "de": [
+      { "q": "Wo liegt der Bambësch-Wald?", "a": "Direkt am nordwestlichen Rand von Luxemburg-Stadt." },
+      { "q": "Was bietet der Bambësch für Erholungssuchende?", "a": "Kilometerlange Wanderwege, Fitnesspfade und große Waldspielplätze." },
+      { "q": "Gibt es Sportmöglichkeiten im Bambësch?", "a": "Ja, es gibt ein Tenniszentrum und Reitställe in der Nähe." },
+      { "q": "Ist der Wald für Familien geeignet?", "a": "Ja, er ist eines der beliebtesten Ausflugsziele für Familien aus der Hauptstadt." }
+    ],
+    "hu": [
+      { "q": "Hol található a Bambësch-erdő?", "a": "Közvetlenül Luxemburg város északnyugati peremén." },
+      { "q": "Mit kínál a Bambësch a kikapcsolódni vágyóknak?", "a": "Kilométereken átnyúló túraútvonalakat, fitneszösvényeket és nagy erdei játszótereket." },
+      { "q": "Vannak sportolási lehetőségek a Bambëschben?", "a": "Igen, a közelben teniszpályák és lovardák is találhatók." },
+      { "q": "Ajánlott-e az erdő családoknak?", "a": "Igen, a fővárosi családok egyik legnépszerűbb kirándulóhelye." }
+    ],
+    "ro": [
+      { "q": "Unde se află pădurea Bambësch?", "a": "Chiar la marginea de nord-vest a orașului Luxemburg." },
+      { "q": "Ce oferă Bambësch pentru recreere?", "a": "Kilometri de trasee de drumeție, trasee de fitness și locuri de joacă mari în pădure." },
+      { "q": "Există facilități sportive în Bambësch?", "a": "Da, există un centru de tenis și manejuri de echitație în apropiere." },
+      { "q": "Este pădurea potrivită pentru familii?", "a": "Da, este una dintre cele mai populare destinații de excursie pentru familiile din capitală." }
+    ],
+    "en": [
+      { "q": "Where is the Bambësch forest located?", "a": "Right on the northwestern edge of Luxembourg City." },
+      { "q": "What does Bambësch offer for leisure seekers?", "a": "Kilometers of hiking trails, fitness paths, and large forest playgrounds." },
+      { "q": "Are there sports facilities in Bambësch?", "a": "Yes, there is a tennis center and riding stables nearby." },
+      { "q": "Is the forest suitable for families?", "a": "Yes, it is one of the most popular excursion destinations for families from the capital." }
+    ]
+  },
+  "lake-remerschen-lakes": {
+    "de": [
+      { "q": "Was sind die Remerscher Weiher?", "a": "Eine Reihe von Seen in einer ehemaligen Kiesgrube an der Mosel." },
+      { "q": "Was ist das Naturschutzzentrum 'Haff Réimech'?", "a": "Ein modernes Zentrum direkt an den Seen, das über die lokale Flora und Fauna informiert." },
+      { "q": "Kann man in Remerschen schwimmen?", "a": "Ja, es gibt eine große Freizeitanlage mit einem Baggersee zum Baden." },
+      { "q": "Warum sind die Seen für Vogelliebhaber interessant?", "a": "Sie sind ein wichtiges Brut- und Rastgebiet für viele seltene Vogelarten." }
+    ],
+    "hu": [
+      { "q": "Mik azok a remerscheni tavak?", "a": "Egy korábbi kavicsbánya helyén kialakult tórendszer a Moselle mentén." },
+      { "q": "Mi az a 'Haff Réimech' természetvédelmi központ?", "a": "Egy modern központ közvetlenül a tavaknál, amely a helyi növény- és állatvilágot mutatja be." },
+      { "q": "Lehet-e úszni Remerschenben?", "a": "Igen, van egy nagy szabadidőközpont egy fürdésre alkalmas bányatóval." },
+      { "q": "Miért érdekesek a tavak a madárbarátok számára?", "a": "Fontos fészkelő- és pihenőhelyet jelentenek számos ritka madárfaj számára." }
+    ],
+    "ro": [
+      { "q": "Ce sunt lacurile din Remerschen?", "a": "O serie de lacuri aflate într-o fostă balastieră de pe Mosela." },
+      { "q": "Ce este centrul de conservare a naturii 'Haff Réimech'?", "a": "Un centru modern chiar lângă lacuri, care oferă informații despre flora și fauna locală." },
+      { "q": "Se poate înota la Remerschen?", "a": "Da, există o zonă mare de agrement cu un lac amenajat pentru scăldat." },
+      { "q": "De ce sunt lacurile interesante pentru iubitorii de păsări?", "a": "Sunt o zonă importantă de cuibărit și popas pentru multe specii rare de păsări." }
+    ],
+    "en": [
+      { "q": "What are the Remerschen Lakes?", "a": "A series of lakes in a former gravel pit along the Moselle." },
+      { "q": "What is the 'Haff Réimech' nature center?", "a": "A modern center right by the lakes that provides information on local flora and fauna." },
+      { "q": "Can you swim in Remerschen?", "a": "Yes, there is a large leisure area with a lake suitable for swimming." },
+      { "q": "Why are the lakes interesting for birdwatchers?", "a": "They are an important breeding and resting area for many rare bird species." }
+    ]
+  },
+  "industry-minett-park-fond-de-gras": {
+    "de": [
+      { "q": "Was ist der Minett Park Fond-de-Gras?", "a": "Ein Freilichtmuseum, das die Geschichte des Eisenerzbergbaus in Luxemburg zeigt." },
+      { "q": "Welche historischen Züge fahren dort?", "a": "Der Dampfzug 'Train 1900' und die Grubenbahn 'Minièresbunn'." },
+      { "q": "Was kann man im Dorf Lasauvage sehen?", "a": "Ein ehemaliges Arbeiterdorf mit einer besonderen Legende um eine 'wilde Frau'." },
+      { "q": "Ist der Park nur für Technikfans interessant?", "a": "Nein, er bietet auch wunderschöne Wanderwege durch die ehemalige Bergbaulandschaft." }
+    ],
+    "hu": [
+      { "q": "Mi az a Minett Park Fond-de-Gras?", "a": "Egy szabadtéri múzeum, amely a luxemburgi vasércbányászat történetét mutatja be." },
+      { "q": "Milyen történelmi vonatok közlekednek ott?", "a": "A 'Train 1900' gőzmozdony és a 'Minièresbunn' bányavasút." },
+      { "q": "Mit láthatunk Lasauvage faluban?", "a": "Egy egykori munkásfalut, amelyhez egy 'vadon élő asszonyról' szóló különleges legenda fűződik." },
+      { "q": "Csak a technika iránt érdeklődőknek érdekes a park?", "a": "Nem, gyönyörű túraútvonalakat is kínál az egykori bányavidéken keresztül." }
+    ],
+    "ro": [
+      { "q": "Ce este Minett Park Fond-de-Gras?", "a": "Un muzeu în aer liber care prezintă istoria minieritului de fier din Luxemburg." },
+      { "q": "Ce trenuri istorice circulă acolo?", "a": "Trenul cu aburi 'Train 1900' și trenul minier 'Minièresbunn'." },
+      { "q": "Ce se poate vedea în satul Lasauvage?", "a": "Un fost sat muncitoresc cu o legendă specială despre o 'femeie sălbatică'." },
+      { "q": "Este parcul interesant doar pentru fanii tehnicii?", "a": "Nu, oferă și trasee de drumeție frumoase prin fostul peisaj minier." }
+    ],
+    "en": [
+      { "q": "What is Minett Park Fond-de-Gras?", "a": "An open-air museum showcasing the history of iron ore mining in Luxembourg." },
+      { "q": "Which historic trains run there?", "a": "The 'Train 1900' steam train and the 'Minièresbunn' mining train." },
+      { "q": "What can you see in the village of Lasauvage?", "a": "A former workers' village with a unique legend about a 'wild woman'." },
+      { "q": "Is the park only interesting for tech fans?", "a": "No, it also offers beautiful hiking trails through the former mining landscape." }
+    ]
+  },
+  "kid-landmark-vianden-chairlift": {
+    "de": [
+      { "q": "Wohin führt der Sessellift in Vianden?", "a": "Vom Tal auf einen 440 Meter hohen Berg mit herrlicher Aussicht." },
+      { "q": "Was kann man an der Bergstation machen?", "a": "Die Aussicht genießen, im Restaurant einkehren oder zur Burg hinunterwandern." },
+      { "q": "Darf man Hunde mit in den Sessellift nehmen?", "a": "Ja, kleine Hunde dürfen auf dem Schoß mitfahren." },
+      { "q": "Wie lange dauert die Fahrt?", "a": "Die gemütliche Fahrt dauert etwa 10 bis 15 Minuten." }
+    ],
+    "hu": [
+      { "q": "Hová visz a viandeni libegő?", "a": "A völgyből egy 440 méter magas hegyre, ahonnan csodás a kilátás." },
+      { "q": "Mit lehet csinálni a felső állomáson?", "a": "Élvezni a kilátást, enni az étteremben, vagy lehelysétálni a várhoz." },
+      { "q": "Szabad kutyát vinni a libegőre?", "a": "Igen, kistestű kutyák ölben utazhatnak." },
+      { "q": "Milyen hosszú az út?", "a": "A kellemes utazás körülbelül 10-15 percig tart." }
+    ],
+    "ro": [
+      { "q": "Unde duce telescaunul din Vianden?", "a": "Din vale până pe un munte de 440 de metri înălțime, cu o vedere superbă." },
+      { "q": "Ce se poate face la stația de sus?", "a": "Puteți admira priveliștea, mânca la restaurant sau coborî pe jos spre castel." },
+      { "q": "Este permis accesul cu câini în telescaun?", "a": "Da, câinii mici pot fi ținuți în brațe." },
+      { "q": "Cât durează călătoria?", "a": "Călătoria relaxantă durează aproximativ 10-15 minute." }
+    ],
+    "en": [
+      { "q": "Where does the Vianden chairlift lead?", "a": "From the valley to a 440-meter-high hill with a magnificent view." },
+      { "q": "What can you do at the mountain station?", "a": "Enjoy the view, eat at the restaurant, or hike down to the castle." },
+      { "q": "Are dogs allowed on the chairlift?", "a": "Yes, small dogs can ride on your lap." },
+      { "q": "How long does the ride take?", "a": "The leisurely ride takes about 10 to 15 minutes." }
+    ]
+  }
+}

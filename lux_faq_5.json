@@ -1,0 +1,522 @@
+{
+  "city-mertert": {
+    "de": [
+      { "q": "Wo liegt Mertert?", "a": "Mertert liegt im Osten Luxemburgs an der Mündung der Syre in die Mosel." },
+      { "q": "Wofür ist Mertert wirtschaftlich bekannt?", "a": "Es beherbergt den einzigen Binnenhafen Luxemburgs, der für den Güterumschlag von großer Bedeutung ist." },
+      { "q": "Was ist das Besondere an Wasserbillig?", "a": "Wasserbillig gehört zur Gemeinde Mertert und ist mit 130 Metern der tiefste Punkt Luxemburgs." },
+      { "q": "Gibt es Sehenswürdigkeiten für Familien?", "a": "Ja, das Aquarium in Wasserbillig zeigt zahlreiche heimische und exotische Fischarten." }
+    ],
+    "hu": [
+      { "q": "Hol található Mertert?", "a": "Mertert Luxemburg keleti részén, a Syre és a Moselle folyók találkozásánál fekszik." },
+      { "q": "Miről ismert Mertert gazdaságilag?", "a": "Itt található Luxemburg egyetlen folyami kikötője, amely fontos az áruszállítás szempontjából." },
+      { "q": "Mi a különleges Wasserbilligben?", "a": "Wasserbillig Mertert község része, és 130 méteres tengerszint feletti magasságával Luxemburg legmélyebb pontja." },
+      { "q": "Vannak látnivalók családok számára?", "a": "Igen, a wasserbilligi akvárium számos hazai és egzotikus halfajt mutat be." }
+    ],
+    "ro": [
+      { "q": "Unde se află Mertert?", "a": "Mertert este situat în estul Luxemburgului, la confluența râurilor Syre și Mosela." },
+      { "q": "Prin ce este cunoscut Mertert din punct de vedere economic?", "a": "Găzduiește singurul port fluvial din Luxemburg, fiind esențial pentru transportul de mărfuri." },
+      { "q": "Ce este special la Wasserbillig?", "a": "Wasserbillig face parte din comuna Mertert și este cel mai de jos punct din Luxemburg, la 130 de metri altitudine." },
+      { "q": "Există atracții pentru familii?", "a": "Da, acvariul din Wasserbillig prezintă numeroase specii de pești autohtoni și exotici." }
+    ],
+    "en": [
+      { "q": "Where is Mertert located?", "a": "Mertert is located in eastern Luxembourg at the confluence of the Syre and Moselle rivers." },
+      { "q": "What is Mertert economically known for?", "a": "It is home to Luxembourg's only inland port, which is of great importance for freight handling." },
+      { "q": "What is special about Wasserbillig?", "a": "Wasserbillig is part of the Mertert municipality and is the lowest point in Luxembourg at 130 meters." },
+      { "q": "Are there attractions for families?", "a": "Yes, the aquarium in Wasserbillig displays numerous native and exotic fish species." }
+    ]
+  },
+  "landmark-st-willibrord-basilica": {
+    "de": [
+      { "q": "Wo befindet sich die St. Willibrord-Basilika?", "a": "Sie steht in Echternach, der ältesten Stadt Luxemburgs." },
+      { "q": "Wer war der Heilige Willibrord?", "a": "Er war ein angelsächsischer Missionar und ist der Schutzpatron von Luxemburg; sein Grab liegt in der Krypta der Basilika." },
+      { "q": "Welches berühmte Ereignis findet hier statt?", "a": "Die Echternacher Springprozession, die zum UNESCO-Weltkulturerbe gehört, endet an der Basilika." },
+      { "q": "Aus welcher Zeit stammt das heutige Gebäude?", "a": "Die Basilika hat romanische Ursprünge, wurde aber nach Zerstörungen im Zweiten Weltkrieg originalgetreu wieder aufgebaut." }
+    ],
+    "hu": [
+      { "q": "Hol található a Szent Willibrord-bazilika?", "a": "Echternachban, Luxemburg legrégebbi városában található." },
+      { "q": "Ki volt Szent Willibrord?", "a": "Angolszász misszionárius és Luxemburg védőszentje volt; sírja a bazilika kriptájában található." },
+      { "q": "Milyen híres esemény zajlik itt?", "a": "Az UNESCO világörökség részét képező echternachi szökőkörmenet a bazilikánál ér véget." },
+      { "q": "Melyik korból származik a jelenlegi épület?", "a": "A bazilika román kori eredetű, de a második világháborús pusztítások után hűen újjáépítették." }
+    ],
+    "ro": [
+      { "q": "Unde se află Bazilica Sfântul Willibrord?", "a": "Se află în Echternach, cel mai vechi oraș din Luxemburg." },
+      { "q": "Cine a fost Sfântul Willibrord?", "a": "A fost un misionar anglo-saxon și este sfântul protector al Luxemburgului; mormântul său se află în cripta bazilicii." },
+      { "q": "Ce eveniment faimos are loc aici?", "a": "Procesiunea dansantă din Echternach, inclusă în patrimoniul UNESCO, se termină la bazilică." },
+      { "q": "Din ce perioadă datează clădirea actuală?", "a": "Bazilica are origini romanice, dar a fost reconstruită fidel după distrugerile din al Doilea Război Mondial." }
+    ],
+    "en": [
+      { "q": "Where is the St. Willibrord Basilica located?", "a": "It is located in Echternach, the oldest town in Luxembourg." },
+      { "q": "Who was Saint Willibrord?", "a": "He was an Anglo-Saxon missionary and is the patron saint of Luxembourg; his tomb is in the basilica's crypt." },
+      { "q": "What famous event takes place here?", "a": "The Echternach Hopping Procession, a UNESCO World Heritage event, ends at the basilica." },
+      { "q": "From which period does the current building date?", "a": "The basilica has Romanesque origins but was faithfully rebuilt after destruction in WWII." }
+    ]
+  },
+  "historical-neumunster-abbey": {
+    "de": [
+      { "q": "Was ist die Abtei Neumünster heute?", "a": "Ein bedeutendes Kultur- und Begegnungszentrum im Stadtteil Grund in Luxemburg-Stadt." },
+      { "q": "Welche historische Nutzung hatte die Abtei?", "a": "Ursprünglich ein Benediktinerkloster, diente sie später als Militärhospital und sogar als Gefängnis." },
+      { "q": "Was kann man dort heute erleben?", "a": "Es finden regelmäßig Konzerte, Ausstellungen, Theateraufführungen und Konferenzen statt." },
+      { "q": "Wo genau liegt sie?", "a": "Sie liegt malerisch am Ufer der Alzette, direkt unterhalb der Bock-Felsen." }
+    ],
+    "hu": [
+      { "q": "Mi ma a Neumünster-apátság?", "a": "Egy jelentős kulturális és találkozóközpont Luxemburg város Grund negyedében." },
+      { "q": "Mire használták korábban az apátságot?", "a": "Eredetileg bencés kolostor volt, később katonai kórházként, sőt börtönként is szolgált." },
+      { "q": "Mit lehet ott ma tapasztalni?", "a": "Rendszeresen tartanak koncerteket, kiállításokat, színházi előadásokat és konferenciákat." },
+      { "q": "Pontosan hol található?", "a": "Festői környezetben, az Alzette folyó partján fekszik, közvetlenül a Bock-sziklák alatt." }
+    ],
+    "ro": [
+      { "q": "Ce este astăzi Abația Neumünster?", "a": "Un important centru cultural și de întâlnire situat în cartierul Grund din orașul Luxemburg." },
+      { "q": "Ce utilizare istorică a avut abația?", "a": "Inițial o mănăstire benedictină, a servit ulterior ca spital militar și chiar ca închisoare." },
+      { "q": "Ce se poate experimenta acolo astăzi?", "a": "Găzduiește regulat concerte, expoziții, spectacole de teatru și conferințe." },
+      { "q": "Unde se află mai pontos?", "a": "Este situată pitoresc pe malul râului Alzette, chiar sub stâncile Bock." }
+    ],
+    "en": [
+      { "q": "What is Neumünster Abbey today?", "a": "A major cultural and meeting center in the Grund district of Luxembourg City." },
+      { "q": "What was the historical use of the abbey?", "a": "Originally a Benedictine monastery, it later served as a military hospital and even a prison." },
+      { "q": "What can you experience there today?", "a": "It regularly hosts concerts, exhibitions, theater performances, and conferences." },
+      { "q": "Where exactly is it located?", "a": "It is picturesquely situated on the banks of the Alzette, directly below the Bock cliffs." }
+    ]
+  },
+  "forest-bambesch": {
+    "de": [
+      { "q": "Was ist der Bambësch?", "a": "Das größte Waldgebiet in der unmittelbaren Umgebung von Luxemburg-Stadt." },
+      { "q": "Was bietet der Bambësch für Sportler?", "a": "Es gibt zahlreiche markierte Wege zum Wandern, Laufen und Mountainbiken sowie einen Trimm-dich-Pfad." },
+      { "q": "Ist der Wald kinderfreundlich?", "a": "Ja, es gibt dort einen der größten und beliebtesten Kinderspielplätze der Hauptstadt." },
+      { "q": "Wie erreicht man den Wald?", "a": "Er ist leicht mit dem Auto oder dem städtischen Bus (Linie 21) von Luxemburg-Stadt aus zu erreichen." }
+    ],
+    "hu": [
+      { "q": "Mi az a Bambësch?", "a": "Luxemburg város közvetlen közelében található legnagyobb erdőterület." },
+      { "q": "Mit kínál a Bambësch a sportolók számára?", "a": "Számos jelzett útvonal található túrázáshoz, futáshoz és hegyi kerékpározáshoz, valamint egy erdei tornapálya is rendelkezésre áll." },
+      { "q": "Gyerekbarát az erdő?", "a": "Igen, itt található a főváros egyik legnagyobb és legnépszerűbb játszótere." },
+      { "q": "Hogyan érhető el az erdő?", "a": "Könnyen megközelíthető autóval vagy a fővárosból induló 21-es autóbusszal." }
+    ],
+    "ro": [
+      { "q": "Ce este Bambësch?", "a": "Cea mai mare zonă forestieră aflată în imediata vecinătate a orașului Luxemburg." },
+      { "q": "Ce oferă Bambësch pentru sportivi?", "a": "Există numeroase trasee marcate pentru drumeții, alergare și ciclism montan, precum și un traseu de fitness." },
+      { "q": "Este pădurea potrivită pentru copii?", "a": "Da, acolo se află unul dintre cele mai mari și mai populare locuri de joacă din capitală." },
+      { "q": "Cum se poate ajunge la pădure?", "a": "Este ușor accesibilă cu mașina sau cu autobuzul municipal (linia 21) din orașul Luxemburg." }
+    ],
+    "en": [
+      { "q": "What is the Bambësch?", "a": "The largest forest area in the immediate vicinity of Luxembourg City." },
+      { "q": "What does the Bambësch offer for athletes?", "a": "There are numerous marked trails for hiking, running, and mountain biking, as well as a fitness trail." },
+      { "q": "Is the forest child-friendly?", "a": "Yes, it is home to one of the capital's largest and most popular playgrounds." },
+      { "q": "How can you reach the forest?", "a": "It is easily accessible by car or by city bus (line 21) from Luxembourg City." }
+    ]
+  },
+  "forest-grunewald": {
+    "de": [
+      { "q": "Was ist der Grünewald?", "a": "Mit etwa 4.500 Hektar ist er das größte zusammenhängende Waldgebiet Luxemburgs." },
+      { "q": "Wo liegt dieser Wald?", "a": "Er erstreckt sich nordöstlich von Luxemburg-Stadt über mehrere Gemeinden." },
+      { "q": "Wem gehört der Grünewald?", "a": "Ein großer Teil des Waldes ist Staatsbesitz, ein Teil gehört dem großherzoglichen Haus." },
+      { "q": "Welche geografische Bedeutung hat er?", "a": "Im Grünewald entspringen die Schwarze Ernz und die Weiße Ernz." }
+    ],
+    "hu": [
+      { "q": "Mi az a Grünewald?", "a": "Körülbelül 4500 hektárjával ez Luxemburg legnagyobb összefüggő erdőterülete." },
+      { "q": "Hol található ez az erdő?", "a": "Luxemburg várostól északkeletre terül el több község területén." },
+      { "q": "Kié a Grünewald?", "a": "Az erdő nagy része állami tulajdonban van, egy része pedig a nagyhercegi családé." },
+      { "q": "Mi a földrajzi jelentősége?", "a": "A Grünewaldban ered a Fekete-Ernz és a Fehér-Ernz folyó." }
+    ],
+    "ro": [
+      { "q": "Ce este Grünewald?", "a": "Cu aproximativ 4.500 de hectare, este cea mai mare zonă forestieră contiguă din Luxemburg." },
+      { "q": "Unde se află această pădure?", "a": "Se întinde la nord-est de orașul Luxemburg, pe teritoriul mai multor comune." },
+      { "q": "Cui aparține Grünewald?", "a": "O mare parte a pădurii este proprietate de stat, iar o parte aparține Casei Marii Ducale." },
+      { "q": "Ce importanță geografică are?", "a": "În Grünewald își au izvoarele râurile Ernz Neagră și Ernz Albă." }
+    ],
+    "en": [
+      { "q": "What is the Grünewald?", "a": "With about 4,500 hectares, it is the largest contiguous forest area in Luxembourg." },
+      { "q": "Where is this forest located?", "a": "It extends northeast of Luxembourg City across several municipalities." },
+      { "q": "Who owns the Grünewald?", "a": "A large part of the forest is state-owned, and part belongs to the Grand Ducal family." },
+      { "q": "What is its geographical significance?", "a": "The sources of the Black Ernz and the White Ernz rivers are located in the Grünewald." }
+    ]
+  },
+  "lake-haute-sure": {
+    "de": [
+      { "q": "Was ist der Obersauer-Stausee?", "a": "Es ist das größte Trinkwasserreservoir und das größte Gewässer Luxemburgs." },
+      { "q": "Darf man im See baden?", "a": "Ja, es gibt ausgewiesene Badestellen, zum Beispiel in Lultzhausen oder Insenborn." },
+      { "q": "Welche Freizeitaktivitäten sind erlaubt?", "a": "Schwimmen, Kanufahren, Tauchen und Segeln; Motorboote sind zum Schutz des Trinkwassers verboten." },
+      { "q": "Wie hoch ist die Staumauer?", "a": "Die Staumauer bei Esch-sur-Sûre ist 47 Meter hoch." }
+    ],
+    "hu": [
+      { "q": "Mi az a Felső-Sûre víztározó?", "a": "Ez Luxemburg legnagyobb ivóvízkészlete és legnagyobb vízfelülete." },
+      { "q": "Szabad fürdeni a tóban?", "a": "Igen, vannak kijelölt fürdőhelyek, például Lultzhausenben vagy Insenbornban." },
+      { "q": "Milyen szabadidős tevékenységek engedélyezettek?", "a": "Úszás, kenuzás, búvárkodás és vitorlázás; a motorcsónakok használata az ivóvíz védelme érdekében tilos." },
+      { "q": "Milyen magas a gát?", "a": "Az Esch-sur-Sûre-nél található gát 47 méter magas." }
+    ],
+    "ro": [
+      { "q": "Ce este lacul de acumulare Haute-Sûre?", "a": "Este cel mai mare rezervor de apă potabilă și cea mai mare întindere de apă din Luxemburg." },
+      { "q": "Este permis înotul în lac?", "a": "Da, există zone de scăldat special amenajate, de exemplu în Lultzhausen sau Insenborn." },
+      { "q": "Ce activități de agrement sunt permise?", "a": "Înotul, canotajul, scufundările și navigația; ambarcațiunile cu motor sunt interzise pentru protejarea apei potabile." },
+      { "q": "Cât de înalt este barajul?", "a": "Barajul de la Esch-sur-Sûre are o înălțime de 47 de metri." }
+    ],
+    "en": [
+      { "q": "What is the Upper Sûre Lake?", "a": "It is the largest drinking water reservoir and the largest body of water in Luxembourg." },
+      { "q": "Is swimming allowed in the lake?", "a": "Yes, there are designated swimming areas, for example in Lultzhausen or Insenborn." },
+      { "q": "What leisure activities are permitted?", "a": "Swimming, canoeing, diving, and sailing; motorboats are prohibited to protect the drinking water." },
+      { "q": "How high is the dam?", "a": "The dam at Esch-sur-Sûre is 47 meters high." }
+    ]
+  },
+  "lake-weiswampach": {
+    "de": [
+      { "q": "Was sind die Seen von Weiswampach?", "a": "Zwei künstlich angelegte Seen im Norden Luxemburgs, die als Erholungszentrum dienen." },
+      { "q": "Was kann man dort im Sommer machen?", "a": "Man kann schwimmen, Tretboot fahren oder auf den Liegewiesen entspannen." },
+      { "q": "Gibt es dort Campingmöglichkeiten?", "a": "Ja, direkt an den Seen befindet sich ein großer Campingplatz." },
+      { "q": "Sind die Seen für Familien geeignet?", "a": "Absolut, es gibt Spielplätze und das Wasser ist meist ruhig und flach am Rand." }
+    ],
+    "hu": [
+      { "q": "Mik azok a weiswampachi tavak?", "a": "Két mesterségesen kialakított tó Luxemburg északi részén, amelyek üdülőközpontként szolgálnak." },
+      { "q": "Mit lehet ott csinálni nyáron?", "a": "Lehet úszni, vízibiciklizni vagy pihenni a napozópázsiton." },
+      { "q": "Vannak ott kempingezési lehetőségek?", "a": "Igen, közvetlenül a tavak mellett található egy nagy kemping." },
+      { "q": "Alkalmasak a tavak családok számára?", "a": "Teljes mértékben, vannak játszóterek, és a víz a széleken többnyire nyugodt és sekély." }
+    ],
+    "ro": [
+      { "q": "Ce sunt lacurile de la Weiswampach?", "a": "Două lacuri artificiale în nordul Luxemburgului, care servesc drept centru de recreere." },
+      { "q": "Ce se poate face acolo vara?", "a": "Se poate înota, se pot închiria hidrobiciclete sau vă puteți relaxa pe gazonul special amenajat." },
+      { "q": "Există facilități de camping acolo?", "a": "Da, chiar lângă lacuri se află un camping mare." },
+      { "q": "Sunt lacurile potrivite pentru familii?", "a": "Absolut, există locuri de joacă, iar apa este de obicei calmă și puțin adâncă la margine." }
+    ],
+    "en": [
+      { "q": "What are the Weiswampach Lakes?", "a": "Two artificial lakes in northern Luxembourg that serve as a recreation center." },
+      { "q": "What can you do there in summer?", "a": "You can swim, pedal boat, or relax on the sunbathing lawns." },
+      { "q": "Are there camping facilities?", "a": "Yes, there is a large campsite located directly by the lakes." },
+      { "q": "Are the lakes suitable for families?", "a": "Absolutely, there are playgrounds and the water is mostly calm and shallow at the edges." }
+    ]
+  },
+  "lake-remerschen-lakes": {
+    "de": [
+      { "q": "Was ist das Besondere an den Seen von Remerschen?", "a": "Sie liegen im Naturschutzgebiet 'Haff Réimech' und sind ein Paradies für Wasservögel." },
+      { "q": "Darf man dort schwimmen?", "a": "Ja, es gibt einen Bereich (Baggerweier), der im Sommer zum Baden freigegeben ist." },
+      { "q": "Was ist das Biodiversum?", "a": "Ein futuristisches Naturzentrum direkt an den Seen, das über die lokale Flora und Fauna informiert." },
+      { "q": "Wie sind die Seen entstanden?", "a": "Es handelt sich um ehemalige Kiesgruben, die nach Ende des Abbaus renaturiert wurden." }
+    ],
+    "hu": [
+      { "q": "Mi a különleges a remerscheni tavakban?", "a": "A 'Haff Réimech' természetvédelmi területen találhatók, és a vízimadarak paradicsomának számítanak." },
+      { "q": "Szabad ott úszni?", "a": "Igen, van egy kijelölt terület (Baggerweier), amely nyáron nyitva áll a fürdőzők előtt." },
+      { "q": "Mi az a Biodiversum?", "a": "Egy futurisztikus természetvédelmi központ közvetlenül a tavak mellett, amely a helyi növény- és állatvilágot mutatja be." },
+      { "q": "Hogyan jöttek létre a tavak?", "a": "Ezek egykori kavicsbányák, amelyeket a kitermelés befejezése után rehabilitáltak." }
+    ],
+    "ro": [
+      { "q": "Ce este special la lacurile de la Remerschen?", "a": "Sunt situate în rezervația naturală 'Haff Réimech' și reprezintă un paradis pentru păsările de apă." },
+      { "q": "Este permis înotul acolo?", "a": "Da, există o zonă (Baggerweier) care este deschisă pentru scăldat în timpul verii." },
+      { "q": "Ce este Biodiversum?", "a": "Un centru de natură futurist chiar lângă lacuri, care oferă informații despre flora și fauna locală." },
+      { "q": "Cum au luat naștere lacurile?", "a": "Sunt foste cariere de pietriș care au fost renaturate după încheierea exploatării." }
+    ],
+    "en": [
+      { "q": "What is special about the Remerschen Lakes?", "a": "They are located in the 'Haff Réimech' nature reserve and are a paradise for water birds." },
+      { "q": "Is swimming allowed there?", "a": "Yes, there is an area (Baggerweier) that is open for swimming in the summer." },
+      { "q": "What is the Biodiversum?", "a": "A futuristic nature center right by the lakes that provides information about local flora and fauna." },
+      { "q": "How were the lakes formed?", "a": "They are former gravel pits that were renatured after excavation ended." }
+    ]
+  },
+  "river-sure": {
+    "de": [
+      { "q": "Woher kommt die Sauer (Sûre)?", "a": "Sie entspringt in den belgischen Ardennen und fließt dann durch Luxemburg." },
+      { "q": "Welche Rolle spielt der Fluss für die Grenze?", "a": "Im Unterlauf bildet die Sauer die Grenze zwischen Luxemburg und Deutschland." },
+      { "q": "Wo mündet die Sauer?", "a": "Sie mündet bei Wasserbillig in die Mosel." },
+      { "q": "Was ist das bedeutendste Bauwerk am Fluss?", "a": "Die Staumauer des Obersauer-Stausees bei Esch-sur-Sûre." }
+    ],
+    "hu": [
+      { "q": "Honnan ered a Sauer (Sûre) folyó?", "a": "A belga Ardennekben ered, majd Luxemburgon folyik keresztül." },
+      { "q": "Milyen szerepet játszik a folyó a határnál?", "a": "Alsó szakaszán a Sauer képezi a határt Luxemburg és Németország között." },
+      { "q": "Hol torkollik a Sauer?", "a": "Wasserbillignél torkollik a Moselle folyóba." },
+      { "q": "Mi a legjelentősebb építmény a folyón?", "a": "Az Esch-sur-Sûre-nél található Felső-Sûre víztározó gátja." }
+    ],
+    "ro": [
+      { "q": "De unde provine râul Sûre (Sauer)?", "a": "Izvorăște în Ardenii belgieni și apoi traversează Luxemburgul." },
+      { "q": "Ce rol joacă râul pentru graniță?", "a": "În cursul inferior, râul Sûre formează granița dintre Luxemburg și Germania." },
+      { "q": "Unde se varsă râul Sûre?", "a": "Se varsă în râul Mosela la Wasserbillig." },
+      { "q": "Care este cea mai importantă construcție de pe râu?", "a": "Barajul lacului de acumulare Haute-Sûre de lângă Esch-sur-Sûre." }
+    ],
+    "en": [
+      { "q": "Where does the Sûre (Sauer) river come from?", "a": "It rises in the Belgian Ardennes and then flows through Luxembourg." },
+      { "q": "What role does the river play for the border?", "a": "In its lower course, the Sûre forms the border between Luxembourg and Germany." },
+      { "q": "Where does the Sûre flow into?", "a": "It flows into the Moselle at Wasserbillig." },
+      { "q": "What is the most significant structure on the river?", "a": "The dam of the Upper Sûre Lake near Esch-sur-Sûre." }
+    ]
+  },
+  "river-moselle": {
+    "de": [
+      { "q": "Welche Bedeutung hat die Mosel für Luxemburg?", "a": "Sie bildet die Grenze zu Deutschland und ist das wichtigste Weinbaugebiet des Landes." },
+      { "q": "Wie lang ist die luxemburgische Moselstrecke?", "a": "Der Fluss fließt auf einer Länge von etwa 37 Kilometern an der luxemburgischen Grenze entlang." },
+      { "q": "Was kann man auf der Mosel unternehmen?", "a": "Sehr beliebt sind Schifffahrten, zum Beispiel mit der 'MS Marie-Astrid'." },
+      { "q": "Welcher Ort an der Mosel ist historisch weltberühmt?", "a": "Schengen, wo das berühmte Abkommen zur Öffnung der Grenzen unterzeichnet wurde." }
+    ],
+    "hu": [
+      { "q": "Milyen jelentősége van a Moselle folyónak Luxemburg számára?", "a": "A folyó alkotja a határt Németországgal, és az ország legfontosabb borvidéke." },
+      { "q": "Milyen hosszú a Moselle luxemburgi szakasza?", "a": "A folyó körülbelül 37 kilométer hosszan folyik a luxemburgi határ mentén." },
+      { "q": "Mit lehet csinálni a Moselle folyón?", "a": "Nagyon népszerűek a sétahajózások, például az 'MS Marie-Astrid' hajóval." },
+      { "q": "Melyik település a Moselle partján világhírű történelmileg?", "a": "Schengen, ahol a határok megnyitásáról szóló híres egyezményt aláírták." }
+    ],
+    "ro": [
+      { "q": "Ce importanță are râul Mosela pentru Luxemburg?", "a": "Formează granița cu Germania și este cea mai importantă regiune viticolă a țării." },
+      { "q": "Cât de lungă este porțiunea luxemburgheză a Moselei?", "a": "Râul curge pe o lungime de aproximativ 37 de kilometri de-a lungul graniței luxemburgheze." },
+      { "q": "Ce se poate face pe râul Mosela?", "a": "Plimbările cu vaporul sunt foarte populare, de exemplu cu 'MS Marie-Astrid'." },
+      { "q": "Ce localitate de pe Mosela este faimoasă din punct de vedere istoric?", "a": "Schengen, unde a fost semnat celebrul acord privind deschiderea frontierelor." }
+    ],
+    "en": [
+      { "q": "What is the significance of the Moselle for Luxembourg?", "a": "It forms the border with Germany and is the country's most important wine-growing region." },
+      { "q": "How long is the Luxembourgish stretch of the Moselle?", "a": "The river flows along the Luxembourgish border for about 37 kilometers." },
+      { "q": "What can you do on the Moselle?", "a": "Boat trips are very popular, for example with the 'MS Marie-Astrid'." },
+      { "q": "Which town on the Moselle is historically world-famous?", "a": "Schengen, where the famous agreement to open borders was signed." }
+    ]
+  },
+  "river-ernz-noire": {
+    "de": [
+      { "q": "Wo fließt die Schwarze Ernz?", "a": "Sie fließt durch das Müllerthal, auch 'Kleine Luxemburger Schweiz' genannt." },
+      { "q": "Was ist die bekannteste Sehenswürdigkeit an diesem Fluss?", "a": "Der Schiessentümpel, ein malerischer Wasserfall mit einer alten Steinbrücke." },
+      { "q": "Welche Landschaft prägt den Flusslauf?", "a": "Spektakuläre Sandsteinformationen, enge Schluchten und dichte Wälder." },
+      { "q": "Wo entspringt die Schwarze Ernz?", "a": "Sie entspringt im Grünewald in der Nähe von Luxemburg-Stadt." }
+    ],
+    "hu": [
+      { "q": "Hol folyik a Fekete-Ernz?", "a": "A Mullerthalon, más néven a 'Kis Luxemburgi Svájcon' keresztül folyik." },
+      { "q": "Mi a legismertebb látnivaló ezen a folyón?", "a": "A Schiessentümpel, egy festői vízesés egy régi kőhíddal." },
+      { "q": "Milyen táj jellemzi a folyó folyását?", "a": "Látványos homokkő-alakzatok, szűk szurdokok és sűrű erdők." },
+      { "q": "Hol ered a Fekete-Ernz?", "a": "A Luxemburg város közelében található Grünewaldban ered." }
+    ],
+    "ro": [
+      { "q": "Unde curge Ernz Neagră?", "a": "Curge prin regiunea Mullerthal, cunoscută și sub numele de 'Mica Elveție'." },
+      { "q": "Care este cea mai cunoscută atracție de pe acest râu?", "a": "Schiessentümpel, o cascadă pitorească cu un pod vechi de piatră." },
+      { "q": "Ce fel de peisaj caracterizează cursul râului?", "a": "Formațiuni spectaculoase de gresie, defilee înguste și păduri dese." },
+      { "q": "Unde izvorăște Ernz Neagră?", "a": "Izvorăște în pădurea Grünewald, lângă orașul Luxemburg." }
+    ],
+    "en": [
+      { "q": "Where does the Black Ernz flow?", "a": "It flows through the Mullerthal, also known as 'Little Switzerland'." },
+      { "q": "What is the most famous landmark on this river?", "a": "The Schiessentümpel, a picturesque waterfall with an old stone bridge." },
+      { "q": "What landscape characterizes the river's course?", "a": "Spectacular sandstone formations, narrow gorges, and dense forests." },
+      { "q": "Where does the Black Ernz rise?", "a": "It rises in the Grünewald near Luxembourg City." }
+    ]
+  },
+  "agriculture-domaine-vinsmoselle-remerschen": {
+    "de": [
+      { "q": "Was ist Domaines Vinsmoselle?", "a": "Es ist die größte Winzergenossenschaft in Luxemburg mit Sitz in Remerschen." },
+      { "q": "Was sind die 'Caves du Sud'?", "a": "Die Kellerei in Remerschen, die für Besucher Weinproben und Führungen anbietet." },
+      { "q": "Welche Weine werden dort produziert?", "a": "Vor allem Crémants de Luxembourg sowie Weißweine wie Riesling, Pinot Blanc und Auxerrois." },
+      { "q": "Kann man dort auch feiern?", "a": "Ja, das Anwesen verfügt über Räumlichkeiten für Veranstaltungen und Hochzeiten." }
+    ],
+    "hu": [
+      { "q": "Mi az a Domaines Vinsmoselle?", "a": "Ez Luxemburg legnagyobb borászati szövetkezete, amelynek székhelye Remerschenben van." },
+      { "q": "Mik azok a 'Caves du Sud'?", "a": "A remerscheni borászat, amely borkóstolókat és túrákat kínál a látogatóknak." },
+      { "q": "Milyen borokat termelnek ott?", "a": "Főleg luxemburgi pezsgőket (Crémant), valamint fehérborokat, például Rizlinget, Pinot Blanc-t és Auxerrois-t." },
+      { "q": "Lehet ott rendezvényeket tartani?", "a": "Igen, a birtok rendelkezik rendezvények és esküvők lebonyolítására alkalmas termekkel." }
+    ],
+    "ro": [
+      { "q": "Ce este Domaines Vinsmoselle?", "a": "Este cea mai mare cooperativă de viticultori din Luxemburg, cu sediul în Remerschen." },
+      { "q": "Ce sunt 'Caves du Sud'?", "a": "Crama din Remerschen care oferă degustări de vinuri și tururi ghidate pentru vizitatori." },
+      { "q": "Ce vinuri se produc acolo?", "a": "În principal Crémant de Luxembourg și vinuri albe precum Riesling, Pinot Blanc și Auxerrois." },
+      { "q": "Se pot organiza evenimente acolo?", "a": "Da, proprietatea dispune de spații pentru evenimente și nunți." }
+    ],
+    "en": [
+      { "q": "What is Domaines Vinsmoselle?", "a": "It is the largest winegrowers' cooperative in Luxembourg, headquartered in Remerschen." },
+      { "q": "What are the 'Caves du Sud'?", "a": "The winery in Remerschen that offers wine tastings and guided tours for visitors." },
+      { "q": "Which wines are produced there?", "a": "Mainly Crémant de Luxembourg and white wines like Riesling, Pinot Blanc, and Auxerrois." },
+      { "q": "Can you host events there?", "a": "Yes, the estate has facilities for events and weddings." }
+    ]
+  },
+  "agriculture-domaine-mathis-bastian-remich": {
+    "de": [
+      { "q": "Wer führt das Weingut Mathis Bastian?", "a": "Es ist ein traditionsreiches Familienunternehmen, das heute von Anouk Bastian geführt wird." },
+      { "q": "Wo genau liegt das Weingut?", "a": "Es liegt am Ortseingang von Remich, der 'Perle der Mosel'." },
+      { "q": "Welchen Ansatz verfolgt das Weingut beim Anbau?", "a": "Das Gut setzt auf naturnahen Weinbau und höchste Qualität." },
+      { "q": "Gibt es dort eine Vinothek?", "a": "Ja, in der modernen Vinothek können Gäste die Weine probieren und kaufen." }
+    ],
+    "hu": [
+      { "q": "Ki vezeti a Mathis Bastian borászatot?", "a": "Ez egy hagyományőrző családi vállalkozás, amelyet ma Anouk Bastian vezet." },
+      { "q": "Pontosan hol található a borászat?", "a": "Remich, a 'Moselle gyöngyszeme' bejáratánál található." },
+      { "q": "Milyen szemléletet követ a borászat a termesztés során?", "a": "A birtok a természetközeli borászatra és a legmagasabb minőségre összpontosít." },
+      { "q": "Van ott borkóstoló helyiség?", "a": "Igen, a modern vinotékában a vendégek megkóstolhatják és megvásárolhatják a borokat." }
+    ],
+    "ro": [
+      { "q": "Cine conduce crama Mathis Bastian?", "a": "Este o afacere de familie cu tradiție, condusă astăzi de Anouk Bastian." },
+      { "q": "Unde se află mai pontos crama?", "a": "Se află la intrarea în Remich, 'Perla Moselei'." },
+      { "q": "Ce abordare urmează crama în cultivarea viței de vie?", "a": "Domeniul pune accent pe viticultura sustenabilă și pe cea mai înaltă calitate." },
+      { "q": "Există o vinotecă acolo?", "a": "Da, în vinoteca modernă, oaspeții pot degusta și cumpăra vinurile." }
+    ],
+    "en": [
+      { "q": "Who runs the Mathis Bastian winery?", "a": "It is a traditional family business, currently managed by Anouk Bastian." },
+      { "q": "Where exactly is the winery located?", "a": "It is located at the entrance to Remich, the 'Pearl of the Moselle'." },
+      { "q": "What approach does the winery take to cultivation?", "a": "The estate focuses on environmentally friendly viticulture and highest quality." },
+      { "q": "Is there a wine shop?", "a": "Yes, in the modern vinotheque, guests can taste and purchase the wines." }
+    ]
+  },
+  "agriculture-clos-mon-vieux-moulin": {
+    "de": [
+      { "q": "Was ist Clos 'Mon Vieux Moulin'?", "a": "Ein renommiertes Weingut in Ahn, das seit dem 11. Jahrhundert im Besitz der Familie Duhr ist." },
+      { "q": "Wofür ist das Weingut bekannt?", "a": "Für seine exzellenten Lagenweine und die Pionierarbeit bei Rebsorten wie Pinot Noir." },
+      { "q": "In welcher Ortschaft liegt es?", "a": "Das Weingut befindet sich im malerischen Winzerdorf Ahn an der Mosel." },
+      { "q": "Kann man dort Weinproben machen?", "a": "Ja, nach Voranmeldung werden Verkostungen der hochwertigen Stillweine und Crémants angeboten." }
+    ],
+    "hu": [
+      { "q": "Mi az a Clos 'Mon Vieux Moulin'?", "a": "Egy neves borászat Ahn-ban, amely a 11. generáció óta a Duhr család tulajdonában van." },
+      { "q": "Miről ismert a borászat?", "a": "Kiváló dűlőszelektált borairól és az olyan szőlőfajták úttörő alkalmazásáról, mint a Pinot Noir." },
+      { "q": "Melyik településen található?", "a": "A borászat a festői Ahn borászfaluban, a Moselle partján található." },
+      { "q": "Lehet ott borkóstolót tartani?", "a": "Igen, előzetes bejelentkezés alapján kóstolókat tartanak a kiváló minőségű boraikból és pezsgőikből." }
+    ],
+    "ro": [
+      { "q": "Ce este Clos 'Mon Vieux Moulin'?", "a": "O cramă renumită din Ahn, aflată în proprietatea familiei Duhr de 11 generații." },
+      { "q": "Prin ce este cunoscută crama?", "a": "Pentru vinurile sale deosebite și pentru munca de pionierat cu soiuri de struguri precum Pinot Noir." },
+      { "q": "În ce localitate se află?", "a": "Crama este situată în pitorescul sat viticol Ahn, pe malul Moselei." },
+      { "q": "Se pot face degustări de vin acolo?", "a": "Da, cu programare prealabilă, se oferă degustări de vinuri liniștite și Crémant-uri de înaltă calitate." }
+    ],
+    "en": [
+      { "q": "What is Clos 'Mon Vieux Moulin'?", "a": "A renowned winery in Ahn that has been owned by the Duhr family for 11 generations." },
+      { "q": "What is the winery known for?", "a": "For its excellent single-vineyard wines and pioneering work with grape varieties like Pinot Noir." },
+      { "q": "In which village is it located?", "a": "The winery is located in the picturesque wine village of Ahn on the Moselle." },
+      { "q": "Can you do wine tastings there?", "a": "Yes, tastings of high-quality still wines and Crémants are offered by appointment." }
+    ]
+  },
+  "industry-arcelormittal-belval": {
+    "de": [
+      { "q": "Was kann man in Belval besichtigen?", "a": "Die imposanten alten Hochöfen, von denen man einen (Hochofen A) sogar besteigen kann." },
+      { "q": "Was ist das Besondere an diesem Standort?", "a": "Es ist eine gelungene Mischung aus altem Industrieerbe und moderner Stadtentwicklung mit Universität und Forschung." },
+      { "q": "Wie hoch ist die Aussichtsplattform auf dem Hochofen?", "a": "Die Plattform befindet sich in einer Höhe von 40 Metern und bietet einen weiten Blick über die Region." },
+      { "q": "Gibt es dort auch Ausstellungen?", "a": "Ja, in der 'Möllerei' finden regelmäßig kulturelle und historische Ausstellungen statt." }
+    ],
+    "hu": [
+      { "q": "Mit lehet megtekinteni Belvalban?", "a": "Az impozáns régi nagyolvasztókat, amelyek közül az egyikre (A nagyolvasztó) fel is lehet mászni." },
+      { "q": "Mi a különleges ezen a helyszínen?", "a": "A régi ipari örökség és a modern városfejlesztés (egyetem, kutatás) sikeres ötvözete." },
+      { "q": "Milyen magas a nagyolvasztón található kilátó?", "a": "A platform 40 méter magasan van, és széles kilátást nyújt a régióra." },
+      { "q": "Vannak ott kiállítások is?", "a": "Igen, a 'Möllerei' épületében rendszeresen tartanak kulturális és történelmi kiállításokat." }
+    ],
+    "ro": [
+      { "q": "Ce se poate vizita în Belval?", "a": "Impozantele furnale vechi, dintre care unul (Furnalul A) poate fi escaladat." },
+      { "q": "Ce este special la acest loc?", "a": "Este o îmbinare reușită între patrimoniul industrial vechi și dezvoltarea urbană modernă, incluzând universitatea și cercetarea." },
+      { "q": "Cât de înaltă este platforma de observare de pe furnal?", "a": "Platforma se află la o înălțime de 40 de metri și oferă o vedere panoramică asupra regiunii." },
+      { "q": "Există și expoziții acolo?", "a": "Da, în clădirea 'Möllerei' au loc regulat expoziții culturale și istorice." }
+    ],
+    "en": [
+      { "q": "What can you visit in Belval?", "a": "The impressive old blast furnaces, one of which (Blast Furnace A) can even be climbed." },
+      { "q": "What is special about this location?", "a": "It is a successful mix of old industrial heritage and modern urban development with a university and research centers." },
+      { "q": "How high is the observation deck on the blast furnace?", "a": "The platform is located at a height of 40 meters and offers a wide view over the region." },
+      { "q": "Are there also exhibitions?", "a": "Yes, cultural and historical exhibitions are regularly held in the 'Möllerei' building." }
+    ]
+  },
+  "industry-minett-park-fond-de-gras": {
+    "de": [
+      { "q": "Was ist der Minett Park?", "a": "Ein Freilichtmuseum im Süden Luxemburgs, das die Geschichte des Erzabbaus lebendig hält." },
+      { "q": "Was ist der 'Train 1900'?", "a": "Ein historischer Dampfzug, der Besucher zwischen Petingen und Fond-de-Gras befördert." },
+      { "q": "Kann man in ein Bergwerk einfahren?", "a": "Ja, die Grubenbahn 'Minièresbunn' fährt Besucher in einen ehemaligen Erzstollen." },
+      { "q": "Wann ist der Park geöffnet?", "a": "In der Regel von Mai bis September an Sonn- und Feiertagen." }
+    ],
+    "hu": [
+      { "q": "Mi az a Minett Park?", "a": "Egy szabadtéri múzeum Luxemburg déli részén, amely életben tartja az ércbányászat történetét." },
+      { "q": "Mi az a 'Train 1900'?", "a": "Egy történelmi gőzmozdonyos vonat, amely Petange és Fond-de-Gras között szállítja az utasokat." },
+      { "q": "Be lehet menni egy bányába?", "a": "Igen, a 'Minièresbunn' bányavasút beviszi a látogatókat egy egykori bányatárnába." },
+      { "q": "Mikor van nyitva a park?", "a": "Általában májustól szeptemberig, vasárnapokon és ünnepnapokon." }
+    ],
+    "ro": [
+      { "q": "Ce este Minett Park?", "a": "Un muzeu în aer liber din sudul Luxemburgului, care păstrează vie istoria exploatării minereului de fier." },
+      { "q": "Ce este 'Train 1900'?", "a": "Un tren istoric cu aburi care transportă vizitatorii între Petange și Fond-de-Gras." },
+      { "q": "Se poate intra într-o mină?", "a": "Da, trenulețul minier 'Minièresbunn' duce vizitatorii într-o fostă galerie de mină." },
+      { "q": "Când este deschis parcul?", "a": "De regulă, din mai până în septembrie, în zilele de duminică și de sărbători legale." }
+    ],
+    "en": [
+      { "q": "What is Minett Park?", "a": "An open-air museum in southern Luxembourg that keeps the history of iron ore mining alive." },
+      { "q": "What is the 'Train 1900'?", "a": "A historical steam train that carries visitors between Petange and Fond-de-Gras." },
+      { "q": "Can you go into a mine?", "a": "Yes, the 'Minièresbunn' mining train takes visitors into a former mine gallery." },
+      { "q": "When is the park open?", "a": "Usually from May to September on Sundays and public holidays." }
+    ]
+  },
+  "kid-landmark-paiperleksgaart": {
+    "de": [
+      { "q": "Was ist der Paiperleksgaart?", "a": "Ein Schmetterlingsgarten in Grevenmacher mit hunderten exotischen Faltern." },
+      { "q": "Welche Bedingungen herrschen dort?", "a": "In dem Glashaus herrscht ein tropisches Klima mit etwa 27 Grad Celsius." },
+      { "q": "Gibt es außer Schmetterlingen noch andere Tiere?", "a": "Ja, man kann auch Wachteln, Chamäleons, Schildkröten und Bienen beobachten." },
+      { "q": "Ist der Garten das ganze Jahr über geöffnet?", "a": "Nein, er ist in der Regel saisonal von April bis Oktober geöffnet." }
+    ],
+    "hu": [
+      { "q": "Mi az a Paiperleksgaart?", "a": "Egy Grevenmacherben található lepkeház, ahol több száz egzotikus pillangó látható." },
+      { "q": "Milyen körülmények vannak ott?", "a": "Az üvegházban trópusi klíma uralkodik, körülbelül 27 Celsius-fokkal." },
+      { "q": "Vannak más állatok is a lepkéken kívül?", "a": "Igen, fürjeket, kaméleonokat, teknősöket és méheket is megfigyelhetünk." },
+      { "q": "Egész évben nyitva van a kert?", "a": "Nem, általában szezonálisan, áprilistól októberig tart nyitva." }
+    ],
+    "ro": [
+      { "q": "Ce este Paiperleksgaart?", "a": "O grădină de fluturi în Grevenmacher, cu sute de fluturi exotici." },
+      { "q": "Ce condiții sunt acolo?", "a": "În seră domnește un climat tropical, cu aproximativ 27 de grade Celsius." },
+      { "q": "Există și alte animale în afară de fluturi?", "a": "Da, pot fi observați și prepelițe, cameleoni, țestoase și albine." },
+      { "q": "Este grădina deschisă tot anul?", "a": "Nu, este de obicei deschisă sezonier, din aprilie până în octombrie." }
+    ],
+    "en": [
+      { "q": "What is the Paiperleksgaart?", "a": "A butterfly garden in Grevenmacher with hundreds of exotic butterflies." },
+      { "q": "What are the conditions inside?", "a": "The greenhouse has a tropical climate with a temperature of about 27 degrees Celsius." },
+      { "q": "Are there other animals besides butterflies?", "a": "Yes, you can also see quails, chameleons, turtles, and bees." },
+      { "q": "Is the garden open all year round?", "a": "No, it is usually open seasonally from April to October." }
+    ]
+  },
+  "kid-landmark-syrdall-schwemm": {
+    "de": [
+      { "q": "Was bietet die Syrdall Schwemm?", "a": "Es ist ein modernes Schwimmbad mit Erlebnisbereich, Rutschen und einem großen Wellnessbereich." },
+      { "q": "Wo befindet sich das Bad?", "a": "In Niederanven, nicht weit von Luxemburg-Stadt entfernt." },
+      { "q": "Gibt es dort auch ein Außenbecken?", "a": "Ja, es gibt ein ganzjährig beheiztes Außenbecken mit Massagedüsen." },
+      { "q": "Ist das Bad für kleine Kinder geeignet?", "a": "Ja, es gibt ein spezielles Baby- und Kleinkindbecken mit Spielelementen." }
+    ],
+    "hu": [
+      { "q": "Mit kínál a Syrdall Schwemm?", "a": "Ez egy modern úszómedence élményfürdővel, csúszdákkal és egy nagy wellness részleggel." },
+      { "q": "Hol található a fürdő?", "a": "Niederanvenben, nem messze Luxemburg várostól." },
+      { "q": "Van ott kültéri medence is?", "a": "Igen, van egy egész évben fűtött kültéri medence masszázsfúvókákkal." },
+      { "q": "Alkalmas a fürdő kisgyermekek számára?", "a": "Igen, van egy speciális baba- és kisgyermekmedence játékelemekkel." }
+    ],
+    "ro": [
+      { "q": "Ce oferă Syrdall Schwemm?", "a": "Este o piscină modernă cu zonă de aventură, tobogane și o zonă mare de wellness." },
+      { "q": "Unde se află piscina?", "a": "În Niederanven, nu departe de orașul Luxemburg." },
+      { "q": "Există și o piscină exterioară?", "a": "Da, există o piscină exterioară încălzită tot anul, dotată cu jeturi de masaj." },
+      { "q": "Este piscina potrivită pentru copii mici?", "a": "Da, există o piscină specială pentru bebeluși și copii mici, cu elemente de joacă." }
+    ],
+    "en": [
+      { "q": "What does the Syrdall Schwemm offer?", "a": "It is a modern swimming pool with an adventure area, slides, and a large wellness section." },
+      { "q": "Where is the pool located?", "a": "In Niederanven, not far from Luxembourg City." },
+      { "q": "Is there an outdoor pool?", "a": "Yes, there is an outdoor pool heated year-round with massage jets." },
+      { "q": "Is the pool suitable for small children?", "a": "Yes, there is a special baby and toddler pool with play elements." }
+    ]
+  },
+  "kid-landmark-aquatower-berdorf": {
+    "de": [
+      { "q": "Was ist der Aquatower?", "a": "Ein 55 Meter hoher Wasserturm in Berdorf, der eine Ausstellung über Wasser beherbergt." },
+      { "q": "Was kann man dort lernen?", "a": "In einer interaktiven Ausstellung lernt man alles über die Trinkwassergewinnung und Geologie." },
+      { "q": "Gibt es eine Aussichtsplattform?", "a": "Ja, von oben hat man einen spektakulären Panoramablick über Berdorf und das Müllerthal." },
+      { "q": "Ist der Turm barrierefrei?", "a": "Ja, es gibt einen Aufzug, der Besucher bequem nach oben bringt." }
+    ],
+    "hu": [
+      { "q": "Mi az az Aquatower?", "a": "Egy 55 méter magas víztorony Berdorfban, amely egy vízzel kapcsolatos kiállításnak ad otthont." },
+      { "q": "Mit lehet ott tanulni?", "a": "Egy interaktív kiállításon mindent megtudhatunk az ivóvízkitermelésről és a geológiáról." },
+      { "q": "Van kilátóterasz?", "a": "Igen, fentről látványos panoráma nyílik Berdorfra és a Mullerthalra." },
+      { "q": "Akadálymentesített a torony?", "a": "Igen, van lift, amely kényelmesen felviszi a látogatókat." }
+    ],
+    "ro": [
+      { "q": "Ce este Aquatower?", "a": "Un turn de apă înalt de 55 de metri în Berdorf, care găzduiește o expoziție despre apă." },
+      { "q": "Ce se poate învăța acolo?", "a": "Într-o expoziție interactivă, puteți afla totul despre extracția apei potabile și geologie." },
+      { "q": "Există o platformă de observare?", "a": "Da, de sus aveți o vedere panoramică spectaculoasă asupra Berdorfului și regiunii Mullerthal." },
+      { "q": "Este turnul accesibil persoanelor cu dizabilități?", "a": "Da, există un lift care transportă vizitatorii în siguranță până sus." }
+    ],
+    "en": [
+      { "q": "What is the Aquatower?", "a": "A 55-meter-high water tower in Berdorf that houses an exhibition about water." },
+      { "q": "What can you learn there?", "a": "In an interactive exhibition, you can learn all about drinking water production and geology." },
+      { "q": "Is there an observation deck?", "a": "Yes, from the top you have a spectacular panoramic view of Berdorf and the Mullerthal." },
+      { "q": "Is the tower accessible?", "a": "Yes, there is an elevator that takes visitors comfortably to the top." }
+    ]
+  },
+  "kid-landmark-vianden-chairlift": {
+    "de": [
+      { "q": "Was ist der Sessellift von Vianden?", "a": "Luxemburgs einziger Sessellift, der vom Tal hinauf auf einen Berg führt." },
+      { "q": "Wie hoch fährt der Lift?", "a": "Er bringt die Fahrgäste auf eine Höhe von etwa 440 Metern." },
+      { "q": "Was sieht man während der Fahrt?", "a": "Man hat einen fantastischen Blick auf das Schloss Vianden und das Tal der Our." },
+      { "q": "Was kann man an der Bergstation machen?", "a": "Es gibt eine Terrasse mit Bewirtung und man kann zu Fuß zurück ins Tal oder zum Schloss wandern." }
+    ],
+    "hu": [
+      { "q": "Mi az a viandeni libegő?", "a": "Luxemburg egyetlen libegője, amely a völgyből egy hegyre visz fel." },
+      { "q": "Milyen magasra megy a libegő?", "a": "Körülbelül 440 méteres magasságba szállítja az utasokat." },
+      { "q": "Mit látunk az út során?", "a": "Fantasztikus kilátás nyílik a viandeni várra és az Our folyó völgyére." },
+      { "q": "Mit lehet csinálni a hegyi állomáson?", "a": "Van egy vendéglátóhely terasszal, és gyalogosan visszatérhetünk a völgybe vagy a várhoz." }
+    ],
+    "ro": [
+      { "q": "Ce este telescaunul din Vianden?", "a": "Singurul telescaun din Luxemburg, care duce din vale până pe un munte." },
+      { "q": "Până la ce înălțime urcă telescaunul?", "a": "Transportă pasagerii până la o altitudine de aproximativ 440 de metri." },
+      { "q": "Ce se vede în timpul călătoriei?", "a": "Aveți o vedere fantastică asupra castelului Vianden și a văii râului Our." },
+      { "q": "Ce se poate face la stația de sus?", "a": "Există o terasă cu servire și puteți coborî pe jos în vale sau către castel." }
+    ],
+    "en": [
+      { "q": "What is the Vianden chairlift?", "a": "Luxembourg's only chairlift, which takes you from the valley up to a mountain top." },
+      { "q": "How high does the lift go?", "a": "It takes passengers to an altitude of about 440 meters." },
+      { "q": "What do you see during the ride?", "a": "You have a fantastic view of Vianden Castle and the Our valley." },
+      { "q": "What can you do at the top station?", "a": "There is a terrace with refreshments, and you can hike back down to the valley or to the castle." }
+    ]
+  }
+}

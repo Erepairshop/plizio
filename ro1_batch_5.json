@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-targu-frumos-extra",
+    "name_ro": "T\u00e2rgu Frumos",
+    "desc_ro": "Ora\u0219 comercial."
+  },
+  {
+    "id": "city-buftea-extra",
+    "name_ro": "Buftea",
+    "desc_ro": "Ora\u0219ul filmului."
+  },
+  {
+    "id": "city-otopeni-extra",
+    "name_ro": "Otopeni",
+    "desc_ro": "Ora\u0219ul aeroportului."
+  },
+  {
+    "id": "city-voluntari-extra",
+    "name_ro": "Voluntari",
+    "desc_ro": "Suburbie a Bucure\u0219tiului."
+  },
+  {
+    "id": "city-sighetu-marmatiei-extra",
+    "name_ro": "Sighetu Marma\u021biei",
+    "desc_ro": "Ora\u0219 de frontier\u0103."
+  },
+  {
+    "id": "city-viseu-de-sus-extra",
+    "name_ro": "Vi\u0219eu de Sus",
+    "desc_ro": "Ora\u0219ul Moc\u0103ni\u021bei."
+  },
+  {
+    "id": "city-borsa-extra",
+    "name_ro": "Bor\u0219a",
+    "desc_ro": "Sta\u021biune montan\u0103."
+  },
+  {
+    "id": "city-orsova-extra",
+    "name_ro": "Or\u0219ova",
+    "desc_ro": "Ora\u0219 la Por\u021bile de Fier."
+  },
+  {
+    "id": "city-strehaia-extra",
+    "name_ro": "Strehaia",
+    "desc_ro": "Ora\u0219 oltenesc istoric."
+  },
+  {
+    "id": "city-vanju-mare-extra",
+    "name_ro": "V\u00e2nju Mare",
+    "desc_ro": "Ora\u0219 viticol."
+  },
+  {
+    "id": "city-reghin-extra",
+    "name_ro": "Reghin",
+    "desc_ro": "Ora\u0219ul viorilor."
+  },
+  {
+    "id": "city-ludus-extra",
+    "name_ro": "Ludu\u0219",
+    "desc_ro": "Ora\u0219 industrial."
+  },
+  {
+    "id": "city-iernut-extra",
+    "name_ro": "Iernut",
+    "desc_ro": "Centru energetic."
+  },
+  {
+    "id": "city-piatra-neamt-extra",
+    "name_ro": "Piatra Neam\u021b",
+    "desc_ro": "Perla Moldovei."
+  }
+]

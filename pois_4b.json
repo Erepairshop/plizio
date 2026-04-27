@@ -1,0 +1,152 @@
+[
+  {
+    "id": "landmark-elbphilharmonie-hh-extra",
+    "name_de": "Elbphilharmonie",
+    "desc_de": "Die Elbphilharmonie ist Hamburgs spektakulärstes Wahrzeichen, ein Konzerthaus auf einem historischen Kaispeicher im Hafen, das 2017 eröffnet wurde."
+  },
+  {
+    "id": "historical-speicherstadt-hh-extra",
+    "name_de": "Speicherstadt",
+    "desc_de": "Die Speicherstadt ist der weltgrößte historische Lagerhausspeicher-Komplex, erbaut zwischen 1883 und 1927 auf Eichenpfählen im Hamburger Hafen."
+  },
+  {
+    "id": "port-hamburger-hafen-extra",
+    "name_de": "Hamburger Hafen",
+    "desc_de": "Der Hamburger Hafen ist der drittgrößte Containerhafen Europas und das wirtschaftliche Herzstück der Stadt, gelegen an der Tideelbe."
+  },
+  {
+    "id": "historical-rathaus-hamburg-extra",
+    "name_de": "Hamburger Rathaus",
+    "desc_de": "Das Hamburger Rathaus ist ein beeindruckendes Neorenaissance-Gebäude aus dem Jahr 1897, das den Senat und die Bürgerschaft der Freien und Hansestadt Hamburg beherbergt."
+  },
+  {
+    "id": "landmark-reeperbahn-hh-extra",
+    "name_de": "Reeperbahn (St. Pauli)",
+    "desc_de": "Die Reeperbahn im Stadtteil St. Pauli ist Hamburgs bekannteste Vergnügungsmeile und weltweit als Rotlichtviertel und Musik-Club-Szene bekannt."
+  },
+  {
+    "id": "river-alster-hh-extra",
+    "name_de": "Alster",
+    "desc_de": "Die Alster ist ein Zufluss der Elbe, der im Zentrum Hamburgs zu zwei künstlichen Seen aufgestaut wurde: der Außenalster und der Binnenalster."
+  },
+  {
+    "id": "city-altona-hh-extra",
+    "name_de": "Altona",
+    "desc_de": "Altona ist ein westlicher Bezirk Hamburgs, einst eine selbständige Stadt, die für ihren historischen Bahnhof, den Fischmarkt und das bunte Schanzenviertel bekannt ist."
+  },
+  {
+    "id": "historical-hafencity-hh-extra",
+    "name_de": "HafenCity",
+    "desc_de": "HafenCity ist Europas größtes innerstädtisches Stadtentwicklungsprojekt, das auf einem ehemaligen Freihafen-Areal nördlich der Speicherstadt entsteht."
+  },
+  {
+    "id": "landmark-michaelis-hh-extra",
+    "name_de": "Hauptkirche St. Michaelis",
+    "desc_de": "Die Hauptkirche Sankt Michaelis, liebevoll 'Michel' genannt, ist das Wahrzeichen Hamburgs und eine der bedeutendsten barocken Kirchen Norddeutschlands."
+  },
+  {
+    "id": "city-bergedorf-hh-extra",
+    "name_de": "Bergedorf",
+    "desc_de": "Bergedorf ist ein östlicher Bezirk Hamburgs mit einem historischen Schlossviertel und einem der letzten erhaltenen Bauernhöfe innerhalb einer Großstadt."
+  },
+  {
+    "id": "island-neuwerk-hh-extra",
+    "name_de": "Insel Neuwerk",
+    "desc_de": "Neuwerk ist eine kleine Insel im Wattenmeer, die politisch zu Hamburg gehört, obwohl sie rund 100 km vom Stadtzentrum entfernt liegt."
+  },
+  {
+    "id": "historical-krameramtsstuben-hh-extra",
+    "name_de": "Kramer-Amtsstuben",
+    "desc_de": "Die Kramer-Amtsstuben sind eine Gruppe von Almsgehöften aus dem 17. Jahrhundert nahe St. Michaelis, die als Altenheim für Witwen der Hamburger Krämerzunft dienten."
+  },
+  {
+    "id": "city-harburg-hh-extra",
+    "name_de": "Hamburg-Harburg",
+    "desc_de": "Harburg ist ein südlicher Bezirk Hamburgs jenseits der Elbe, mit einem bedeutenden Binnenhafen, der Technischen Universität Hamburg und historischem Schloss."
+  },
+  {
+    "id": "landmark-miniaturwunderland-hh-extra",
+    "name_de": "Miniatur Wunderland",
+    "desc_de": "Das Miniatur Wunderland in der Hamburger Speicherstadt ist die weltgrößte Modelleisenbahn-Ausstellung und zählt zu Deutschlands meistbesuchten Attraktionen."
+  },
+  {
+    "id": "forest-volksdorf-hh-extra",
+    "name_de": "Volksdorfer Wald",
+    "desc_de": "Der Volksdorfer Wald ist ein weitläufiges Waldgebiet im Nordosten Hamburgs, ein beliebtes Naherholungsgebiet für die Bevölkerung der Hansestadt."
+  },
+  {
+    "id": "state-capital-saarbruecken-sl-extra",
+    "name_de": "Saarbrücken",
+    "desc_de": "Saarbrücken ist die Landeshauptstadt des Saarlandes, eine mittelgroße Stadt an der Saar nahe der französischen Grenze mit einer lebendigen Innenstadt."
+  },
+  {
+    "id": "historical-voelklinger-huette-sl-extra",
+    "name_de": "Völklinger Hütte",
+    "desc_de": "Die Völklinger Hütte ist ein UNESCO-Weltkulturerbe, ein historisches Eisenwerk aus dem 19. Jahrhundert, das die Industriegeschichte des Saarlandes verkörpert."
+  },
+  {
+    "id": "river-saar-sl-extra",
+    "name_de": "Saar",
+    "desc_de": "Die Saar ist der namensgebende Fluss des Saarlandes, der von Frankreich durch das Saarland fließt und bei Konz in die Mosel mündet."
+  },
+  {
+    "id": "landmark-saarschleife-sl-extra",
+    "name_de": "Saarschleife",
+    "desc_de": "Die Saarschleife bei Mettlach ist das bekannteste Naturdenkmal des Saarlandes, wo der Fluss Saar eine spektakuläre Hufeisenform bildet."
+  },
+  {
+    "id": "mountain-hohe-warte-sl-extra",
+    "name_de": "Hohe Warte",
+    "desc_de": "Die Hohe Warte ist mit 695 Metern der höchste Punkt des Saarlandes im Naturpark Saar-Hunsrück, eingebettet in Wälder nahe der Grenze zu Rheinland-Pfalz."
+  },
+  {
+    "id": "city-neunkirchen-sl-extra",
+    "name_de": "Neunkirchen",
+    "desc_de": "Neunkirchen ist die zweitgrößte Stadt des Saarlandes und ein ehemaliges Zentrum der Stahlindustrie, das heute seinen industriellen Wandel vollzieht."
+  },
+  {
+    "id": "city-homburg-sl-extra",
+    "name_de": "Homburg (Saar)",
+    "desc_de": "Homburg ist eine saarländische Stadt, bekannt für die Homburger Schlossberg-Höhlen, die größten Sandsteinhöhlen Europas, und als Universitätsstadt."
+  },
+  {
+    "id": "river-blies-sl-extra",
+    "name_de": "Blies",
+    "desc_de": "Die Blies ist ein Nebenfluss der Saar, der durch den Südosten des Saarlandes und über die Grenze nach Rheinland-Pfalz fließt."
+  },
+  {
+    "id": "historical-blieskastel-sl-extra",
+    "name_de": "Blieskastel",
+    "desc_de": "Blieskastel ist eine historische Barockstadt im Saarland, ehemals Residenzstadt der Grafen von der Leyen, mit einer bemerkenswert gut erhaltenen Altstadt."
+  },
+  {
+    "id": "mountain-schaumberg-sl-extra",
+    "name_de": "Schaumberg",
+    "desc_de": "Der Schaumberg bei Tholey ist mit 568 Metern der höchste Berg im nördlichen Saarland und bietet einen weiten Panoramablick über die Region."
+  },
+  {
+    "id": "lake-bostalsee-sl-extra",
+    "name_de": "Bostalsee",
+    "desc_de": "Der Bostalsee ist der größte Freizeitsee des Saarlandes und ein beliebtes Naherholungsgebiet mit Wassersport, Camping und Strandmöglichkeiten."
+  },
+  {
+    "id": "industry-bergwerk-duhamel-sl-extra",
+    "name_de": "Bergbaumuseum Bexbach",
+    "desc_de": "Das Bergbaumuseum Bexbach dokumentiert die Geschichte des Steinkohlebergbaus im Saarland und bewahrt das Erbe der Region als einstiges Bergarbeiter-Land."
+  },
+  {
+    "id": "forest-warndt-sl-extra",
+    "name_de": "Warndt",
+    "desc_de": "Der Warndt ist ein grenzüberschreitendes Waldgebiet zwischen dem Saarland und Lothringen in Frankreich, ein bedeutendes Naherholungsgebiet für die Großregion."
+  },
+  {
+    "id": "city-saarlouis-sl-extra",
+    "name_de": "Saarlouis",
+    "desc_de": "Saarlouis ist eine Festungsstadt im Saarland, gegründet 1680 von König Ludwig XIV. von Frankreich als strategische Garnisonsstadt an der Saar."
+  },
+  {
+    "id": "historical-mettlach-abbey-sl-extra",
+    "name_de": "Alte Abtei Mettlach",
+    "desc_de": "Die Alte Abtei Mettlach ist ein karolingischer Turm, Überrest eines benediktinischen Klosters aus dem 7. Jahrhundert, heute Teil der Villeroy-&-Boch-Zentrale."
+  }
+]

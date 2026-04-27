@@ -1308,7 +1308,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Alcsúti Arborétum ist ein Juwel der ungarischen Gartenkunst und eines der bedeutendsten Denkmäler der Landschaftsgestaltung aus der Zeit des Klassizismus. Gegründet wurde es in den 1820er Jahren von Erzherzog Joseph, dem Palatin von Ungarn, der hier einen englischen Landschaftsgarten von Weltrang erschaffen ließ. Auf einer Fläche von über 40 Hektar finden Besucher eine beeindruckende Sammlung von mehr als 540 Baum- und Straucharten, darunter gigantische Platanen und seltene Nadelhölzer. Ein besonderes Highlight ist das jährlich im Vorfrühling stattfindende Schneeglöckchenfest, wenn Millionen dieser zarten Blumen den Waldboden in ein weißes Meer verwandeln. Die romantische Atmosphäre wird durch die Ruinen des ehemaligen Schlosses der Habsburger verstärkt, von dem nach einem Brand im Zweiten Weltkrieg nur noch die eindrucksvolle Hauptfassade steht. Das Arboretum ist zu jeder Jahreszeit ein Ort der Ruhe und Inspiration, der die Geschichte und die botanische Vielfalt Ungarns perfekt vereint.",
-      hu: "",
+      hu: "Az Alcsúti Arborétum Magyarország egyik legjelentősebb és legszebb tájképi kertje, amely Fejér vármegye szívében, a Habsburgok egykori uradalmi központjában található. József nádor alapította 1820-ban, aki a kor híres kertépítőjével, Tost Károllyal közösen alakította ki ezt a botanikai remekművet. A kert központi látványossága az egykori klasszicista kastély monumentális portikusza, amely egy 1944-es tűzvész után is büszkén hirdeti a múlt dicsőségét. Az arborétum több mint 40 hektáron terül el, és több mint 540 fa- és cserjefajnak ad otthont, köztük évszázados mocsárciprusoknak és libanoni cédrusoknak. Különleges vonzereje a kora tavaszi hóvirágünnep, amikor hatalmas fehér virágszőnyeg borítja a parkot, valamint a nyári szentjánosbogár-rajzás, amely varázslatos esti látványt nyújt. Földrajz K7 – Magyarország védett természeti értékei és a kultúrtáj védelme.",
       ro: "",
       en: ""
     },
@@ -1323,7 +1323,7 @@ export const poiExtraHu2: POI[] = [
         "Mehrere Teiche and ein kleiner Bach innerhalb des Parks regulieren das Mikroklima für die empfindlichen Pflanzen.",
         "Das Arboretum dient heute auch als Forschungsstätte für dendrologische Studien und Klimaanpassung."
       ],
-      hu: [],
+      hu: ["József nádor alapította 1820-ban, az ország egyik legelső arborétumaként.", "A terület több mint 540 különböző fa- és cserjefajt őriz a világ minden tájáról.", "Itt látható Magyarország legnagyobb, 2,5 hektáros összefüggő hóvirágmezője.", "A parkot neves kertművészek, köztük a schönbrunni Tost Károly tervezte.", "A kastély maradványai Pollack Mihály klasszicista építészetének remekművei.", "A kertben található kápolnát Storno Ferenc tervei alapján neoromán stílusban építették.", "Az arborétum egyik legidősebb lakója egy több mint 170 éves libanoni cédrus.", "A park egész évben látogatható, mikroklímáját saját tórendszere szabályozza."],
       ro: [],
       en: []
     }
@@ -1348,7 +1348,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Veres-hegy (Roter Berg) ist eine markante Erhebung im Vértes-Gebirge, die besonders durch ihre geologische Beschaffenheit und den weiten Ausblick besticht. Gelegen in der Nähe von Csákvár, erhebt sich der Berg über die weite Zámolyi-Ebene und bietet Wanderern eines der schönsten Panoramen der Region. Der Name des Berges deutet auf die rötliche Färbung des Bodens und der Felsen hin, die stellenweise durch Bauxitvorkommen und spezielle Mineralien verursacht wird. Die Vegetation ist typisch für das Vértes-Gebirge: ein Mosaik aus submediterranen Karstbüschen, Flaumeichenwäldern und offenen Dolomit-Felsrasen. Diese Vielfalt macht den Berg zu einem wertvollen Lebensraum für seltene Insekten und geschützte Vögel. Für Wanderer ist der Aufstieg moderat, aber belohnend, da der Gipfel eine fast ungestörte Rundumsicht bis hin zu den fernen Gipfeln des Bakony ermöglicht. Es ist ein Ort, an dem man die geologische Kraft und die stille Schönheit des ungarischen Mittelgebirges unmittelbar erleben kann.",
-      hu: "",
+      hu: "A Vértes-hegység déli lankáin, Csákvár közelében emelkedő Veres-hegy a hegység egyik legizgalmasabb geológiai és botanikai pontja. A hegy neve a naplementében vöröslő dolomitsziklákra és az ősszel élénk színekben pompázó cserszömörcére utal, amely a vidék egyik jellegzetes növénye. A terület a Vértes 'szubmediterrán' arcát mutatja be, ahol a kopár dolomit sziklagyepek és a karsztbokorerdők különleges élőhelyet biztosítanak ritka orchideafajoknak és hüllőknek. A csúcsról és a környező bércekről pazar kilátás nyílik a Zámolyi-medencére és a Velencei-hegység távoli vonulataira. A hegy lábánál futó Haraszt-hegyi tanösvény interaktív módon mutatja be a környék kialakulását és a kőzetrétegek titkait, így a természetjárók és a geológia iránt érdeklődők számára is tökéletes célpont. Földrajz K6 – a középhegységek felépítése és a karsztjelenségek.",
       ro: "",
       en: ""
     },
@@ -1363,7 +1363,7 @@ export const poiExtraHu2: POI[] = [
         "Archäologische Funde in der Umgebung belegen eine Besiedlung seit der Steinzeit, begünstigt durch nahegelegene Quellen.",
         "Ein gut markierter Wanderweg führt von Csákvár aus direkt auf das Hochplateau des Berges."
       ],
-      hu: [],
+      hu: ["A Veres-hegy a Vértes déli részén található, magassága kb. 340-350 méter.", "Nevét a dolomitsziklák jellegzetes színéről és az ősszel vöröslő cserszömörcéről kapta.", "A hegyoldalakon ritka, szubmediterrán növénytársulások és karsztbokorerdők élnek.", "A tetőről tiszta időben jól látszanak a Velencei-tó és a Balaton-felvidék hegyei is.", "A közeli Csákváron található Magyarország egyik legnagyobb gipszbarlangja.", "A terület a Duna-Ipoly Nemzeti Park része, fokozottan védett természeti érték.", "A hegy környéke egykor fontos bauxitbányászati központ volt, ma geológiai park.", "A túraútvonalak murvás, dolomitos talaja nedves időben rendkívül csúszós lehet."],
       ro: [],
       en: []
     }
@@ -1388,7 +1388,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Pázmándi-tó ist ein verstecktes Naturjuwel am nordöstlichen Rand des Velence-Gebirges. Dieser kleine, idyllische See ist weit weniger bekannt als sein großer Nachbar, der Velence-See, bietet dafür aber eine Ruhe und Ursprünglichkeit, die man in touristischen Zentren oft vermisst. Eingebettet in eine sanfte Hügellandschaft, ist der See von dichten Schilfgürteln und alten Weiden umgeben. Er dient primär als Angelgewässer und lokales Erholungsgebiet, hat sich aber über die Jahre zu einem wichtigen Biotop für Wasservögel und Amphibien entwickelt. Die Umgebung von Pázmánd ist zudem für ihre bizarren Granitfelsen und historischen Weinkeller bekannt, was eine Wanderung zum See perfekt ergänzt. Das sanfte Licht am Abend und das Plätschern des Wassers machen den Pázmándi-tó zu einem idealen Ort für ein Picknick oder eine entspannte Naturbeobachtung fernab der großen Verkehrsströme.",
-      hu: "",
+      hu: "A Fejér vármegyei Pázmánd határában elterülő Pázmándi-tó egy festői völgyzárógátas víztározó, amely a Velencei-hegység keleti lábánál fekszik. A tavat a Pázmándi-vízfolyás táplálja, és bár eredetileg mezőgazdasági és árvízvédelmi célokkal hozták létre, mára a régió egyik legkedveltebb horgász- és pihenőhelyévé vált. A vízfelületet nádasok és gondosan karbantartott partvonal övezi, ahol a látogatók csendes, zavartalan környezetben élvezhetik a természet közelségét. A tó gazdag halállománya, különösen a ponty és az amur, messziről vonzza a sporthorgászokat, miközben a környék lankás dombjai kiváló túrázási lehetőségeket kínálnak a híres pázmándi kvarcit-sziklákhoz. A tó vize fontos szerepet játszik a helyi ökoszisztéma fenntartásában és a talajvíz szabályozásában a szárazabb időszakokban is. Földrajz K5 – síksági és dombsági vízrendszerek, mesterséges tavak szerepe.",
       ro: "",
       en: ""
     },
@@ -1403,7 +1403,7 @@ export const poiExtraHu2: POI[] = [
         "Die Geologie der Umgebung ist durch rund 300 Millionen Jahre alten Granit geprägt, was eine Seltenheit in Ungarn ist.",
         "Der See bietet einen wunderschönen Blick auf den Berg Pázmándi-hegy mit seiner charakteristischen Kapelle."
       ],
-      hu: [],
+      hu: ["A Pázmándi-tó egy mesterségesen létrehozott völgyzárógátas víztározó Fejér vármegyében.", "A vízfelület területe körülbelül 3-4 hektár, átlagmélysége 1,5 és 2,5 méter közötti.", "A tavat a Velencei-hegységből lefutó Pázmándi-vízfolyás friss vize táplálja.", "Híres gazdag ponty- és amurállományáról, emellett ragadozó halak is élnek benne.", "A part mentén kiépített tűzrakó helyek és pihenőpadok várják a kirándulókat.", "A tó szomszédságában találhatók a különleges geológiai képződménynek számító 'Ingókövek'.", "Pázmánd község szélén található, az M7-es autópályáról percek alatt elérhető.", "A víztározó fontos élőhelyet biztosít a környék vízi madarainak és kétéltűinek."],
       ro: [],
       en: []
     }
@@ -1429,7 +1429,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Hanság ist eine der geheimnisvollsten und geschichtsträchtigsten Landschaften Westungarns. Ursprünglich ein riesiges, fast unzugängliches Sumpf- und Moorgebiet, das den Neusiedler See mit der Donau verband, wurde es im 20. Jahrhundert weitgehend trockengelegt. Heute ist der Hanság ein Mosaik aus Kanälen, nassen Wiesen, kleinen Erlenwäldern und wiedervernässten Mooren, das einen Großteil des Fertő-Hanság-Nationalparks ausmacht. Die Region ist berühmt für ihre reiche Sagenwelt und als letztes Rückzugsgebiet für seltene Tierarten wie den europäischen Schlammpeitzger oder die Großtrappe. Das Lichtspiel über den weiten Kanälen und die absolute Stille der Natur verleihen dem Hanság eine fast melancholische Schönheit. Für Besucher bietet die Region einzigartige Möglichkeiten zur Vogelbeobachtung und für ausgedehnte Radtouren auf den ehemaligen Treppelwegen der Kanäle, wo man die mühsame Rückeroberung der Natur durch den Menschen nachempfinden kann.",
-      hu: "",
+      hu: "A Hanság, vagy népi nevén a Hany, Magyarország északnyugati részén elterülő hatalmas lápos, mocsaras terület, amely egykor a Kisalföld legvadregényesebb tája volt. Az évszázadokig áthatolhatatlan mocsárvilágot a 18. századtól kezdődően csatornázással és lecsapolással próbálták megszelídíteni, ami radikálisan átalakította a táj képét. Ma a Fertő–Hanság Nemzeti Park részeként a terület egyedülálló biodiverzitást őriz: égerlápok, nedves rétek és ritka állatfajok, mint a parlagi sas vagy a túzok otthona. A Hanság legendákkal is átszőtt, legismertebb alakja Hany Istók, a mocsárban talált 'víziember', akinek története generációk óta foglalkoztatja az embereket. A vidék ma fontos ökológiai folyosó és a fenntartható tájgazdálkodás mintaterülete, ahol a látogatók tanösvényeken ismerhetik meg a lápi világ rejtett kincseit. Földrajz K8 – mocsarak lecsapolása, tájátalakítás és természetvédelem.",
       ro: "",
       en: ""
     },
@@ -1444,7 +1444,7 @@ export const poiExtraHu2: POI[] = [
         "Das Informationszentrum in Öntésmajor bietet tiefe Einblicke in die Natur und die Geschichte der Entwässerung.",
         "Der Hanság spielt eine vitale Rolle im grenzüberschreitenden Biotopverbund zwischen Ungarn und Österreich."
       ],
-      hu: [],
+      hu: ["A Hanság a Kisalföld mélyebb fekvésű, egykor összefüggő mocsárvidéke volt.", "Neve a 'hany' szóból ered, ami lápos, ingoványos területet jelent.", "A Fertő–Hanság Nemzeti Park része, 1991 óta áll nemzetközi védelem alatt.", "Itt él Magyarország egyik legjelentősebb túzokállománya a háborítatlan réteken.", "A Hanság-főcsatorna építése a 18. század végén kezdődött a terület lecsapolására.", "A monda szerint Hany Istókot, a vadóc fiút 1749-ben találták meg a halászok a lápban.", "A táj ma mozaikos szerkezetű: égererdők, sásrétek és szántóföldek váltják egymást.", "A terület madárvilága kiemelkedő, több mint 200 fészkelő és vonuló fajt figyeltek meg."],
       ro: [],
       en: []
     }
@@ -1469,7 +1469,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Rábca ist ein charakteristischer Fluss der Region Transdanubien, der das Wasser aus den nördlichen Ausläufern des Hanság sammelt und der Moson-Donau zuführt. Ihr Lauf ist geprägt von der flachen, fruchtbaren Landschaft des Rábaköz, durch die sie sich gemächlich in zahlreichen Windungen schlängelt. Historisch war die Rábca entscheidend für die Entwässerung der Hanság-Sümpfe, weshalb ihr Bett in vielen Abschnitten kanalartig ausgebaut wurde. Dennoch hat der Fluss an vielen Stellen seinen natürlichen Charme bewahrt, gesäumt von dichten Weidengebüschen und Schilf. Für Angler ist die Rábca ein Geheimtipp, da sie für ihre Ruhe und ihren Fischreichtum bekannt ist. Die Mündung der Rábca bei Győr ist zudem ein wichtiger wasserbaulicher Punkt, wo der Fluss das Stadtbild mitprägt. Wer dem Lauf der Rábca folgt, erlebt eine typisch westungarische Agrarlandschaft, in der Wasser und Landwirtschaft seit Jahrhunderten in engem Austausch stehen.",
-      hu: "",
+      hu: "A Rábca folyó a Kisalföld egyik meghatározó vízfolyása, amely a Répce és a Kis-Rába egyesüléséből születik a Hanság területén. A folyó útja során keresztülvág a síkságon, és végül Győr városánál torkollik a Mosoni-Dunába, fontos szerepet játszva a régió hidrológiájában. Története szorosan kapcsolódik a Hanság mocsárvilágának lecsapolásához, hiszen a folyó medrét többször is szabályozták, hogy elvezesse a felesleges belvizeket a lápos területekről. A Rábca ma kedvelt célpontja a vízitúrázóknak és a horgászoknak, köszönhetően lassú folyásának és a part menti gazdag növényzetnek, amely menedéket nyújt a vízi élővilágnak. Győri szakasza különösen érdekes, hiszen a város építésekor a folyó eredeti medrét elterelték, helyén ma parkok és sétányok találhatók, emlékeztetve a folyó és a város évszázados kapcsolatára. Földrajz K7 – folyószabályozás, torkolatvidékek és városi vízgazdálkodás.",
       ro: "",
       en: ""
     },
@@ -1484,7 +1484,7 @@ export const poiExtraHu2: POI[] = [
         "Entlang des Flusses finden sich zahlreiche Storchennester in den angrenzenden Dörfern, die vom Nahrungsreichtum profitieren.",
         "Hochwasserschutzdämme entlang der Rábca dienen heute oft als Radwege für Naturtouristen."
       ],
-      hu: [],
+      hu: ["A Rábca a Répce és a Kis-Rába folyók összefolyásából keletkezik a Hanságban.", "Teljes hossza körülbelül 50-60 kilométer a szabályozott szakaszokkal együtt.", "A folyó a Hanság mocsárvilágának fő vízelvezetője, medre szinte végig csatornázott.", "Győr városában a Rábca torkolata felett több fontos híd is átível.", "A 20. század elején a folyó torkolatát áthelyezték, hogy védjék a várost az árvizektől.", "A folyó vize gazdag halakban, kedvelt horgászhely a keszeg és a süllő kedvelőinek.", "Átlagos vízhozama 15-20 m³/s, de hóolvadáskor jelentősen megduzzadhat.", "Partjainál jelentős ártéri erdők és nádasok maradtak meg, melyek Natura 2000 területek."],
       ro: [],
       en: []
     }
@@ -1509,7 +1509,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Marcal ist ein bedeutender rechter Nebenfluss der Raab, der aus dem südlichen Bakony kommt und die weite Ebene des Kleinen Alföld durchquert. Sein Lauf ist von einer ruhigen, fast kontemplativen Atmosphäre geprägt, während er durch weite Wiesen und kleine Dörfer fließt. Der Fluss erlangte traurige Berühmtheit durch die Rotschlamm-Katastrophe von 2010, als seine Ökologie schwer geschädigt wurde. Doch die darauf folgenden intensiven Renaturierungsmaßnahmen haben zu einem kleinen Wunder geführt: Heute ist der Marcal wieder ein lebendiger Fluss mit sauberem Wasser und einer zurückgekehrten Fischfauna. Die Ufer sind ein Paradies für Naturbeobachter, da sie wichtige Wanderkorridore für Wildtiere darstellen. Die Landschaft am Marcal verkörpert die Widerstandsfähigkeit der Natur und bietet heute wieder ideale Bedingungen für ruhige Kanutouren und entspanntes Angeln in einer wiedererstandenen Flusslandschaft.",
-      hu: "",
+      hu: "A Marcal folyó a Bakony délnyugati lábánál eredő, a Kisalföld síkságán végigkanyargó jelentős vízfolyás, amely a Rába folyó egyik legfontosabb mellékvize. Völgye, a Marcal-medence, különleges átmeneti táj a hegyvidék és az alföld között, ahol a folyó lassú folyásával és széles árterével határozza meg a környező települések életét. A folyó történetének egyik legtragikusabb pontja a 2010-es vörösiszap-katasztrófa volt, amely során a Torna-patakon keresztül beömlő lúgos anyag szinte a teljes élővilágot elpusztította. Azóta azonban a természet és a tudatos emberi beavatkozás révén a Marcal látványos regeneráción ment keresztül, és ma ismét fontos horgászvíz és ökológiai folyosó. A folyó menti rétek és legelők hagyományosan az állattenyésztés központjai, a völgy panorámáját pedig a távoli tanúhegyek, mint a Somló és a Ság-hegy sziluettje teszi teljessé. Földrajz K8 – környezeti katasztrófák, folyó-rehabilitáció és tájegységek találkozása.",
       ro: "",
       en: ""
     },
@@ -1524,7 +1524,7 @@ export const poiExtraHu2: POI[] = [
         "Die Mündung des Marcal in die Raab bei Koroncó ist ein bekanntes Ausflugsziel für lokale Wanderer.",
         "In den Auen des Flusses brüten seltene Vogelarten wie der Wachtelkönig und die Bekassine."
       ],
-      hu: [],
+      hu: ["A Marcal a Bakony hegységben, Sümegprága környékén ered.", "Hossza körülbelül 100 kilométer, vízgyűjtő területe több mint 3000 km².", "A folyó Gyirmót közelében torkollik a Rába folyóba, lassú, alföldi jellegű mederben.", "A 2010-es katasztrófa után a folyó medrébe több tonna gipszet szórtak a lúg semlegesítésére.", "A Marcal-völgy híres a 'lápi széna' termeléséről és a hagyományos legeltetésről.", "A folyó mentén több Natura 2000 védelem alatt álló vizes élőhely is található.", "A meder esése rendkívül kicsi, ezért a folyó gyakran képez kanyargós mocsaras részeket.", "A Marcal menti települések gazdag néprajzi hagyományokkal rendelkeznek a halászat terén."],
       ro: [],
       en: []
     }
@@ -1549,7 +1549,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Répce ist ein kleiner, aber ökologisch wertvoller Fluss im Nordwesten Ungarns, der seine Reise in den österreichischen Alpen beginnt (dort als Rabnitz bekannt). Nach dem Grenzübergang bei Lutzmannsburg mäandert sie durch die sanfte Hügellandschaft des Komitats Vas und später durch die Ebene von Győr-Moson-Sopron. Die Répce ist bekannt für ihre naturbelassenen Abschnitte, in denen der Fluss noch sein eigenes Bett gestalten darf. Besonders schön ist das Gebiet um Répcevis und Bük, wo der Fluss durch dichte Auenwälder fließt. Die Répce speist zudem wichtige Feuchtgebiete, die als natürliche Wasserspeicher fungieren. Trotz ihrer geringen Größe spielt sie eine entscheidende Rolle für das lokale Mikroklima und als Lebensraum für zahlreiche geschützte Pflanzen- und Tierarten. Für Reisende bietet die Répce-Region eine Mischung aus Naturerlebnis und Entspannung, insbesondere durch die Nähe zu den berühmten Heilbädern der Region.",
-      hu: "",
+      hu: "A Répce folyó az Alpokalján, Ausztria területén eredő, majd Magyarországon a Kisalföld síkságába simuló vízfolyás, amely kristálytiszta felső szakaszáról és természeti értékeiről nevezetes. Ausztriában még Rabnitz néven ismert, de a határt átlépve nevét a mentén egykor tömegesen termesztett káposztarepce után kapta. A folyó útja során áthalad a híres fürdőváros, Bük mellett, ahol vize és part menti parkjai a rekreációt szolgálják. A Répce völgye fontos ökológiai kapocs, amely az Alpok és az Alföld flóráját és faunáját köti össze, különleges élőhelyet biztosítva a ritka jégkorszaki maradványnövényeknek és védett halfajoknak. A Hanságba érve a folyó vize a Kis-Rábával egyesülve alkotja meg a Rábcát, így zárva le önálló útját. Szabályozatlanabb szakaszain ma is felfedezhető az ősi folyómenti táj vadsága és szépsége. Földrajz K7 – határmenti folyók, vízgyűjtő területek és az Alpokalja vízrajza.",
       ro: "",
       en: ""
     },
@@ -1564,7 +1564,7 @@ export const poiExtraHu2: POI[] = [
         "Die Fischbestände des Flusses sind vielfältig und umfassen Schlammpeitzger und Gründlinge.",
         "Ein lokaler Radweg folgt weiten Teilen des Flusslaufs und verbindet historische Dörfer miteinander."
       ],
-      hu: [],
+      hu: ["A Répce forrása az ausztriai Rozália-hegységben, kb. 700 méteres magasságban van.", "Ausztriában 70 km, Magyarországon pedig 55 km hosszú a folyómeder.", "Bükfürdőnél a folyó mentén épült ki az ország egyik legszebb rekreációs parkja.", "A folyó a Hanság-főcsatorna közelében egyesül a Kis-Rábával, így jön létre a Rábca.", "Felső szakaszán tiszta vizű hegyi patak jellegű, ahol pisztrángok is előfordulnak.", "Nevét a 'répce' növényről kapta, ami a 15. század óta dokumentált helynév.", "A Répce-menti erdőkben ritka orchideafajok és kockás liliom is megtalálható.", "A folyó fontos szerepet játszott az egykori határőrvidék védelmi rendszerében."],
       ro: [],
       en: []
     }
@@ -1589,7 +1589,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Szigetköz-Wald ist Teil einer einzigartigen Flusslandschaft in Nordwestungarn, die als die 'Kleine Schüttinsel' bekannt ist. Dieses Gebiet, das von der Donau und der Moson-Donau umschlossen wird, beherbergt eines der größten zusammenhängenden Auenwaldgebiete Mitteleuropas. Die Wälder sind geprägt von einem komplexen System aus Nebenarmen, Inseln und Kanälen, die eine außergewöhnliche Biodiversität unterstützen. Gigantische Silberweiden, Schwarzpappeln und Eschen bilden ein dichtes Blätterdach, das zahlreichen seltenen Tierarten Schutz bietet. Der Wald fungiert als natürlicher Filter und Regulator für das Wassersystem der Donau. Für Besucher bietet der Szigetköz-Wald ein fast urwaldähnliches Erlebnis, das am besten vom Wasser aus mit dem Kanu oder bei ausgedehnten Wanderungen auf den Dämmen erkundet werden kann. Die mystische Atmosphäre der nebelverhangenen Flussarme und die reiche Flora machen diesen Ort zu einem Paradies für Naturfotografen.",
-      hu: "",
+      hu: "A Szigetköz, a Duna 'ajándéka', Magyarország legnagyobb szigete, amelyet a Nagy-Duna és a Mosoni-Duna ölel közre, egyedülálló ártéri erdőrendszert alkotva. Ez a vidék egy óriási hordalékkúp, amelyet a folyó épített évezredek alatt, és ahol ma Európa egyik legszövevényesebb és legváltozatosabb ágrendszere található. A Szigetköz erdői, a fűz-nyár ligeterdők és a tölgy-kőris-szil ligeterdők, különleges mikroklímával rendelkeznek, menedéket nyújtva a hódoknak, vidráknak és a ritka fekete gólyáknak. A terület hidrológiája a bőszi-nagymarosi vízlépcsőrendszer körüli viták óta központi környezetvédelmi téma, de a rehabilitációs munkák révén sikerült megőrizni a táj vadregényes jellegét. A Szigetköz nemcsak természeti kincs, hanem a vízitúrázók paradicsoma is, ahol a labirintusszerű csatornák és holtágak felejthetetlen élményt kínálnak a felfedezőknek. Földrajz K8 – folyami szigetek kialakulása, ártéri erdők és a fenntartható vízgazdálkodás.",
       ro: "",
       en: ""
     },
@@ -1604,7 +1604,7 @@ export const poiExtraHu2: POI[] = [
         "Ein Großteil des Gebiets gehört zum Landschaftsschutzgebiet Szigetköz und unterliegt strengen Schutzregeln.",
         "Die traditionelle Nutzung der Weiden für die Korbflechterei ist in den umliegenden Dörfern noch heute lebendig."
       ],
-      hu: [],
+      hu: ["A Szigetköz területe 375 négyzetkilométer, Magyarország legnagyobb szárazföldi szigete.", "Az ártéri erdőkben több mint 200 madárfaj és számos ritka kétéltű él.", "A terület a Duna hordalékából épült fel az utolsó jégkorszak óta.", "Itt található az ország egyik legjelentősebb hódállománya és európai vidra-populációja.", "A Szigetköz ágrendszere több mint 800 kilométernyi hajózható vagy evezhető útvonalat kínál.", "A Dunakiliti duzzasztómű fontos szerepet játszik a terület vízpótló rendszerében.", "A tájegység a Fertő–Hanság Nemzeti Park Igazgatósága alá tartozik.", "A szigetközi 'ökoparkok' a környezeti nevelés és a zöldturizmus fontos központjai."],
       ro: [],
       en: []
     }
@@ -1630,7 +1630,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Berettyó ist ein charakteristischer Fluss der östlichen Tiefebene Ungarns, der in den Bergen des Apuseni-Gebirges in Rumänien entspringt. Auf ihrem Weg durch das Komitat Hajdú-Bihar prägt sie die Bihar-Ebene durch ihren ruhigen, fast trägen Lauf. Historisch war die Berettyó ein wilder, unberechenbarer Fluss, der riesige Sumpfgebiete speiste, bis er im 19. Jahrhundert im Zuge der großen Flussregulierungen weitgehend kanalisiert wurde. Heute ist sie ein lebensnotwendiger Teil des regionalen Wasserwirtschaftssystems, der zur Bewässerung der fruchtbaren Felder dient. Trotz der Begradigungen haben sich entlang des Flusses wertvolle Biotope erhalten, in denen typische Auenpflanzen und zahlreiche Fischarten gedeihen. Die Stadt Berettyóújfalu verdankt dem Fluss nicht nur ihren Namen, sondern auch ihre historische Bedeutung als Handelsknotenpunkt und regionales Zentrum.",
-      hu: "",
+      hu: "A Berettyó a Tiszántúl egyik legkarakteresebb folyója, amely a romániai Réz-hegységben ered, majd a magyar határt átlépve kanyarog az Alföld rónaságán. A folyó története elválaszthatatlan a Nagy-Sárrét mocsárvilágától, hiszen a szabályozások előtt a Berettyó vize táplálta ezt a hatalmas és titokzatos vízi birodalmat. Neve ősi magyar eredetű, jelentése 'berekkel szegélyezett folyó', ami ma is híven tükrözi a part menti ligeterdők és bokrosok hangulatát. Bár medre ma már nagyrészt gátak közé szorított, a folyó lassú folyásával, horgászhelyeivel és a mentén fekvő olyan városokkal, mint Berettyóújfalu, fontos kulturális és gazdasági tengelyt alkot. A Berettyó végül Szeghalom közelében egyesül a Sebes-Körössel, vizeivel gazdagítva a Körös-vidék hidrológiai rendszerét és biztosítva az alföldi mezőgazdaság vízellátását. Földrajz K6 – alföldi folyók jellemzői, a Sárrét története és mocsarak átalakítása.",
       ro: "",
       en: ""
     },
@@ -1645,7 +1645,7 @@ export const poiExtraHu2: POI[] = [
         "Bei Berettyóújfalu befinden sich die Überreste der mittelalterlichen Herpály-Klosterruine nahe dem Ufer.",
         "Der Name Berettyó leitet sich vermutlich von einem alttürkischen Wort für 'glänzendes Wasser' ab."
       ],
-      hu: [],
+      hu: ["A Berettyó teljes hossza 167 kilométer, ebből 79 kilométer esik Magyarországra.", "Neve a finnugor 'bere' (berek) és a 'jó' (folyó) szavak összetételéből ered.", "A folyó vízgyűjtő területe közel 6000 km², forrása 589 méter magasan található.", "A 19. századi szabályozások előtt a folyó vize a hatalmas Sárrét mocsárba veszett.", "Berettyóújfalu a folyó partján fekvő legjelentősebb magyarországi város.", "A folyó vize kedvelt horgászhely, híres a harcsa- és pontyállományáról.", "A Berettyó-csatorna köti össze a folyót a Körösökkel az árvízvédelem érdekében.", "A folyó menti ligetekben számos védett növény- és rovarfaj talál menedéket."],
       ro: [],
       en: []
     }
@@ -1670,7 +1670,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Vekeri-tó ist das beliebteste Naherholungsziel der Bewohner von Debrecen und ein Juwel in der Region Erdőspuszták. In den 1970er Jahren künstlich angelegt, hat sich der See harmonisch in die umliegende Wald- und Steppenlandschaft eingefügt. Er bietet eine willkommene Abkühlung und Ruheoase in der oft heißen und trockenen Umgebung der ungarischen Tiefebene. Der See ist von dichten Kiefern- und Eichenwäldern umgeben, die zahlreiche Wanderpfade und Picknickplätze beherbergen. Ob Rudern auf dem spiegelglatten Wasser, Angeln am Schilfufer oder einfach nur Entspannen im Schatten der Bäume – der Vekeri-tó bietet vielfältige Freizeitmöglichkeiten. Besonders stimmungsvoll ist das Gebiet im Herbst, wenn sich das Laub der Wälder bunt färbt und sich in der Wasseroberfläche spiegelt. Der See ist zudem ein wichtiges Zentrum für lokale Veranstaltungen und Pfadfinderlager, was ihn zu einem lebendigen Teil der regionalen Kultur macht.",
-      hu: "",
+      hu: "A Debrecen központjától mintegy 10 kilométerre, az Erdőspuszták szívében fekvő Vekeri-tó a cívisváros egyik legnépszerűbb jóléti víztározója és kirándulóhelye. Az 1970-es években mesterségesen létrehozott tó célja a debreceniek rekreációjának biztosítása volt egy olyan területen, ahol a természetes állóvizek ritkák. A tó és környezete igazi oázis az Alföld közepén: csónakázó tó, horgászstégek, kemping és tágas rétek várják a látogatókat. A Vekeri-tó neve összefonódott a híres debreceni zenei fesztiválokkal is, amelyek évtizedeken át vonzották ide a fiatalokat a tölgyerdők árnyékába. Bár a klímaváltozás és a szárazság az utóbbi években komoly kihívások elé állította a tó vízellátását, a vízpótlási projektek révén ma ismét csillog a víztükör, élőhelyet adva a vízi madaraknak és frissítő levegőt a városi embernek. Sachkunde K3 – szabadidő a természetben és mesterséges vizek fenntartása.",
       ro: "",
       en: ""
     },
@@ -1685,7 +1685,7 @@ export const poiExtraHu2: POI[] = [
         "Der Vekeri-tó ist Teil eines größeren Seensystems, zu dem auch der Fancsika-See gehört.",
         "Im Winter wird der See bei ausreichender Frosttiefe zu einer beliebten natürlichen Eisbahn."
       ],
-      hu: [],
+      hu: ["A Vekeri-tavat 1975-ben adták át, mint jóléti víztározót Debrecen közelében.", "A vízfelület területe körülbelül 12 hektár, közepén egy kis sziget található.", "Az Erdőspuszták tájvédelmi körzetének része, homoki tölgyesekkel övezve.", "Híres volt a Vekeri-tavi Fesztiválról, amely az ország egyik legnagyobb ifjúsági rendezvénye volt.", "A tó vizét a Kati-ér és a Debrecen-közeli csatornahálózat táplálja.", "Népszerű helyszíne az iskolai számháborúknak, családi bográcsozásoknak és kempingezésnek.", "A tó partján kilátó is található, ahonnan belátható az Erdőspuszták különleges tája.", "A 2020-as évek elején a tó majdnem teljesen kiszáradt, de sikeresen rehabilitálták."],
       ro: [],
       en: []
     }
@@ -1710,7 +1710,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Erdőspuszták bilden einen faszinierenden Grüngürtel östlich der Stadt Debrecen und stellen einen einzigartigen Übergang zwischen dem Nyírség-Sandgebiet und der Tiefebene dar. Dieses abwechslungsreiche Gebiet ist geprägt von einem Mosaik aus künstlich angepflanzten Kiefern- und Akazienwäldern sowie Resten ursprünglicher Eichen-Hainbuchenbestände. Dazwischen finden sich immer wieder kleine Teiche, Sumpfgebiete und offene Sanddünen, die eine spezialisierte Flora und Fauna beherbergen. Die Region dient nicht nur als ökologischer Korridor, sondern ist auch historisch bedeutsam, da sie früher die Weidegründe der Stadt Debrecen bildete. Heute ist sie das wichtigste Wandergebiet für Naturfreunde aus der Region, mit zahlreichen markierten Lehrpfaden, die über die Geologie und Biologie dieses besonderen Biotops informieren. Die Stille der Wälder bietet einen scharfen Kontrast zum geschäftigen Treiben der nahen Großstadt.",
-      hu: "",
+      hu: "A Debrecentől keletre elterülő Erdőspuszták a Nyírség déli részének egyik legértékesebb erdős-sztyepp vidéke, amely félkörívben öleli körbe a cívisvárost. Ez a táj az egykori hatalmas nyírségi erdőségek maradványa, ahol a homokbuckák és a vizenyős völgyek váltakozása különleges mikroklímát és gazdag élővilágot hozott létre. A terület központja Hármashegyalja, ahol a 151 méter magas dombon álló kilátóból pazar panoráma nyílik a vidékre. Az Erdőspuszták nemcsak a természetjárók paradicsoma a Zsuzsi Erdei Vasúttal és a számos tanösvénnyel, hanem fontos környezetvédelmi terület is, ahol gyöngyvirágos tölgyesek és ritka homoki növények élnek. A vidék bemutatóháza és arborétuma hitelesen szemlélteti a régió természeti kincseit és a hagyományos erdőművelő vákáncsosok múltját. Földrajz K7 – a Nyírség kialakulása és az erdős-sztyepp övezet jellemzői.",
       ro: "",
       en: ""
     },
@@ -1725,7 +1725,7 @@ export const poiExtraHu2: POI[] = [
         "Die Erdőspuszták sind ein Paradies für Pilzsammler, besonders nach warmen Regenfällen im Herbst.",
         "Archäologische Funde belegen die Existenz zahlreicher mittelalterlicher Dörfer in diesem Waldgürtel."
       ],
-      hu: [],
+      hu: ["Az Erdőspuszták Debrecen városától kb. 10 km-re, egy 120-150 méter magas hátságon fekszenek.", "Legmagasabb pontja a Hármashegy (151 m), ahol egy 18 méter magas kilátó áll.", "A területen halad át a Zsuzsi Erdei Vasút, Magyarország legidősebb kisvasútja.", "Jellemző erdőtípusai a gyöngyvirágos tölgyesek és a homoki fenyvesek.", "A Bánki bemutatóház az egykori erdőművelők, a vákáncsosok életét is ismerteti.", "A vidék gazdag vadállományában az őz, a vaddisznó és a gímszarvas is gyakori.", "Számos jóléti tó, köztük a Vekeri-tó és a Fancsikai-tavak láncolata található itt.", "A terület a Hortobágyi Nemzeti Park Igazgatóságának felügyelete alá tartozik."],
       ro: [],
       en: []
     }
@@ -1750,7 +1750,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Hortobágy-Fluss ist die lebensspendende Ader der weltberühmten ungarischen Puszta. Er entspringt im Nyírség-Gebiet und schlängelt sich mit einer extrem geringen Fließgeschwindigkeit durch das Herz des Hortobágy-Nationalparks. Der Fluss ist untrennbar mit dem Bild der Puszta verbunden, insbesondere durch die ikonische Neunbögige Brücke, die ihn bei der Ortschaft Hortobágy überspannt. Früher war der Fluss für seine weitreichenden Überschwemmungen bekannt, die die riesigen alkalischen Steppen bewässerten. Heute ist sein Lauf weitgehend reguliert, doch er bleibt die wichtigste Wasserquelle für das Vieh – die ungarischen Graurinder, Racka-Schafe und Pferde – die in der Steppe weiden. Die Schilfgürtel entlang des Ufers sind ein wichtiges Rückzugsgebiet für zahlreiche geschützte Vogelarten. Der Fluss verkörpert die unendliche Weite und die archaische Stille der ungarischen Ebene.",
-      hu: "",
+      hu: "A Hortobágy-folyó, amelyről a híres magyar puszta a nevét kapta, az Alföld egyik legkülönlegesebb és leglassabb vízfolyása. Érdekessége, hogy nincs klasszikus forrásvidéke; mai formájában a Keleti-főcsatornából ágazik ki Tiszavasvári közelében, majd 167 kilométeren át kanyarog a Hortobágyi Nemzeti Park szívében, mígnem a Hármas-Körösbe torkollik. A folyó esése olyannyira csekély, hogy bizonyos vízállásoknál képes 'megfordulni' és visszafelé folyni, ami vízrajzi ritkaságnak számít. A szabályozások előtt a folyó vize hatalmas mocsárvilágot táplált a pusztán, ma pedig fontos ökológiai folyosó, amelynek nádasai és árterei számtalan vízi madárnak és ritka halfajnak nyújtanak menedéket. A folyó menti legelők a hagyományos magyar pásztorkultúra bölcsője, ahol a víz és a föld egysége határozza meg a táj karakterét. Földrajz K6 – alföldi vízrendszerek, síksági folyók lassú folyása és mocsárvilág.",
       ro: "",
       en: ""
     },
@@ -1765,7 +1765,7 @@ export const poiExtraHu2: POI[] = [
         "Die alkalischen Böden entlang des Flusses beherbergen spezialisierte, salztolerante Pflanzenarten.",
         "Jährlich im August findet an der Brücke über den Fluss der berühmte 'Brückenmarkt' statt."
       ],
-      hu: [],
+      hu: ["A folyó teljes hossza 167,3 kilométer, torkolata Mezőtúr közelében található.", "Neve ősi magyar szavakból (Hort és Bágy) állt össze, jelentése mocsaras vízfolyás.", "A folyó esése mindössze pár centiméter kilométerenként, ami extrém lassú áramlást eredményez.", "A Hortobágyi Nemzeti Park legfontosabb vizes élőhelye és vízi útvonala.", "Itt található a híres kilenclyukú híd, amely a folyó egyik legfontosabb átkelőhelye volt.", "Halállománya kiemelkedő, jellemző faja a ponty, a csuka és a védett compó.", "A folyó vize kulcsszerepet játszik a pusztai állattartás vízellátásában.", "Árterei fontos fészkelőhelyei a nagy kócsagnak és a szürke gémnek."],
       ro: [],
       en: []
     }
@@ -1790,7 +1790,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Fancsika-See (eigentlich ein System aus zwei Hauptbecken, Fancsika I und II) ist ein bedeutendes Angler- und Erholungsgebiet am östlichen Rand von Debrecen. Eingebettet in die idyllische Landschaft der Erdőspuszták, wurden diese Seen ursprünglich als Speicherbecken für die Wasserwirtschaft angelegt. Im Laufe der Jahre haben sie sich jedoch zu wertvollen Biotopen entwickelt. Die Seen sind von dichten Schilfgürteln umgeben, die zahlreichen Wasservögeln wie Enten, Reihern und Tauchern als Nistplatz dienen. Für die Stadtbevölkerung sind die Fancsika-Seen ein Synonym für Entspannung am Wochenende. Trotz der Herausforderungen durch wechselnde Wasserstände in trockenen Jahren bleibt das Gebiet ein wichtiger Rückzugsort für Mensch und Natur. Die gut ausgebauten Uferbereiche bieten ideale Bedingungen für Familienpicknicks und ruhige Spaziergänge unter alten Bäumen.",
-      hu: "",
+      hu: "A Debrecen határában található Fancsikai-tavak egy három tagból álló mesterséges tórendszert alkotnak, amely évtizedekig a város környékének legnépszerűbb horgász- és pihenőhelye volt. Az Erdőspuszták völgyeiben kialakított víztározók (Fancsika I, II és III) célja a csapadékvíz visszatartása és a jóléti funkciók biztosítása volt. Az utóbbi években azonban a klímaváltozás és az aszályok miatt a tavak sorsa bizonytalanná vált: vízszintjük drasztikusan lecsökkent, helyenként teljesen kiszáradtak. A rehabilitációs törekvések és a vízpótlási projektek ma is zajlanak, hogy megmentsék ezt az értékes vizes élőhelyet. A tavakat övező dús növényzet és erdősávok ma is kedvelt túracélpontok, ahol a látogatók a vízi világ és a homoki erdők találkozását figyelhetik meg, miközben reménykednek a víztükör tartós visszatérésében. Sachkunde K3 – vizes élőhelyek védelme és a környezeti változások hatásai.",
       ro: "",
       en: ""
     },
@@ -1805,7 +1805,7 @@ export const poiExtraHu2: POI[] = [
         "Die Seen dienen als wichtiger Tränkeplatz für das in den Erdőspuszták lebende Rot- und Schwarzwild.",
         "Lokale Naturschutzvereine setzen sich aktiv für den Erhalt des Wasserstandes und der Reinheit der Seen ein."
       ],
-      hu: [],
+      hu: ["A Fancsikai-tórendszer három különálló víztározóból áll (Fancsika I, II, III).", "A tavakat az 1970-es években alakították ki jóléti és árvízvédelmi célokból.", "Vízellátásukat főként a felszíni csapadék és a Kati-ér biztosítja.", "A tavak környéke Natura 2000 természetvédelmi területnek minősül.", "A tartós aszályok miatt a tavak többször is közel kerültek a teljes kiszáradáshoz.", "Egykor híres horgászvíz volt, kapitális pontyokkal és ragadozó halakkal.", "A tavak mentén tanösvények és kilátók segítik az élővilág megismerését.", "A Fancsika III. tó mára szinte teljesen elnádasodott és mocsárrá alakult."],
       ro: [],
       en: []
     }
@@ -1831,7 +1831,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Galyatető ist mit 964 Metern eine der höchsten Erhebungen Ungarns und ein Juwel des Mátra-Gebirges. Bekannt als einer der bedeutendsten Luftkurorte des Landes, bietet dieser Ort aufgrund seiner Höhenlage und der reinen, pollenfreien Luft ideale Bedingungen für Erholungsuchende und Menschen mit Atemwegsbeschwerden. Das Wahrzeichen des Gipfels ist die spektakulär renovierte Galya-Aussichtswarte, die durch ihre moderne Architektur und die bunten Biwak-Räume weltweit Aufmerksamkeit erregte. Von der Plattform aus eröffnet sich ein grandioses Panorama, das bei klarer Sicht bis zu den Gipfeln der Hohen Tatra reicht. Die Umgebung ist von dichten Buchenwäldern geprägt, die von einem dichten Netz an Wanderwegen, darunter dem Nationalen Blauen Pfad, durchzogen sind. Galyatető verbindet historische Eleganz – repräsentiert durch das berühmte Grandhotel – mit moderner Naturnähe und sportlicher Aktivität.",
-      hu: "",
+      hu: "Galyatető a Mátra hegység és egyben Magyarország egyik legmagasabban fekvő üdülőhelye, a hegység második legmagasabb tömbje (964 méter). Híres tiszta, magaslati levegőjéről, amely már a 20. század eleje óta vonzza a gyógyulni és pihenni vágyókat. A csúcs legmeghatározóbb építménye a modernizált Galya-kilátó, amely innovatív építészeti megoldásaival és a benne kialakított bivakszállásokkal világszinten is egyedülálló. A kilátó tetejéről 360 fokos panoráma nyílik, tiszta időben még a Magas-Tátra havas csúcsai is feltűnnek az északi horizonton. Galyatető fontos központja az országos kéktúrának és a téli sportoknak is, sífutópályái és biatlon lőtere országos jelentőségűek. A település és környéke a csend és a nyugalom szigete, ahol a bükkerdők és a hegyi rétek harmóniája felejthetetlen élményt nyújt. Földrajz K7 – magashegységi formakincs és a klimatikus gyógyhelyek szerepe.",
       ro: "",
       en: ""
     },
@@ -1846,7 +1846,7 @@ export const poiExtraHu2: POI[] = [
         "Der Fernwanderweg Országos Kéktúra führt direkt über den Gipfelbereich.",
         "Die Flora umfasst seltene Gebirgspflanzen wie den Alpen-Fingerhut und verschiedene Farnarten."
       ],
-      hu: [],
+      hu: ["Galyatető 964 méteres magasságával a Mátra és az ország egyik legmagasabb pontja.", "A Galya-kilátó (korábban Péter-hegyese kilátó) 2015-ben kapott modern, díjnyertes külsőt.", "Itt található az ország legmagasabban fekvő temploma, a Kodály Zoltánról elnevezett kápolna.", "A helyszín híres sífutó- és biatlonközpont, modern lőtérrel és pályarendszerrel.", "A Galyatető Turistacentrum az ország egyik legkorszerűbb bakancsos szálláshelye.", "A bükkerdők uralják a tájat, ahol gyakori a ritka havasi cincér és a parlagi sas.", "A település levegője bizonyítottan gyógyhatású a légzőszervi betegségek esetén.", "Az Országos Kéktúra útvonala keresztülhalad a település központján."],
       ro: [],
       en: []
     }
@@ -1871,7 +1871,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Sár-hegy (Schlammberg) ist ein markanter, isoliert stehender vulkanischer Berg am südlichen Rand der Mátra, direkt über der Stadt Gyöngyös. Trotz seines Namens ist der Berg ein Ort von außergewöhnlicher botanischer Vielfalt und Schönheit. Geologisch gesehen ist er ein Überrest der vulkanischen Aktivität, die das Mátra-Gebirge formte, doch seine südliche Lage verleiht ihm ein fast mediterranes Mikroklima. Der Berg ist berühmt für seine Steppenvegetation und die terrassierten Weinberge an seinen Hängen, die einige der besten Weine der Mátra-Region hervorbringen. Ein besonderes geologisches Highlight ist der kleine, oft nur temporär wasserführende Kratersee 'Szent Anna-tó' auf dem Hochplateau. Wanderwege führen durch duftende Trockenrasen und Flaumeichenwälder und bieten spektakuläre Ausblicke auf das Mátra-Vorland und die ungarische Tiefebene.",
-      hu: "",
+      hu: "A Gyöngyös felett magasodó Sár-hegy a Mátra hegység déli előhírnöke, egy különálló vulkanikus tömb, amely meredeken emelkedik ki az Alföld északi pereméből. Ez a terület egy igazi ökológiai ékszerdoboz, ahol a hegység vulkáni kőzetei és a síkság meleg klímája találkozik, különleges szubmediterrán élőhelyeket hozva létre. A hegy déli lejtőin évszázadok óta virágzik a szőlőkultúra, a Mátrai borvidék egyik legnemesebb területeit adva. A Sár-hegy tetején található a titokzatos Szent Anna-tó, egy apró, mocsaras állóvíz, amely a hegy vulkáni kráterében alakult ki. A hegyoldalakon ritka növények, mint a tavaszi hérics és a leánykökörcsin virítanak, a sziklás bércekről pedig lélegzetelállító kilátás nyílik a magyar Alföld végtelen rónáira. Földrajz K6 – vulkáni tanúhegyek és a sztyepprétek élővilága.",
       ro: "",
       en: ""
     },
@@ -1886,7 +1886,7 @@ export const poiExtraHu2: POI[] = [
         "Der Berg ist ein wichtiger Forschungsstandort für ungarische Botaniker und Ökologen.",
         "Im Frühjahr blühen hier Tausende von Zwergiris und Frühlings-Adonisröschen."
       ],
-      hu: [],
+      hu: ["A Sár-hegy magassága 497 méter, és jellegzetes alakjával uralja a gyöngyösi tájat.", "Vulkanikus eredetű, főként andezitből és tufa rétegekből épül fel.", "A hegy tetején lévő Szent Anna-tó egy lefolyástalan, mocsaras karsztvíz-tó.", "A terület 1975 óta természetvédelmi oltalom alatt áll ritka flórája és faunája miatt.", "Déli lejtői híresek a minőségi fehérborokról, főként az olaszrizlingről.", "A hegyen vezet keresztül a Rákóczi-turistaút, amely történelmi emlékeket is érint.", "Itt él a ritka pannóniai gyík és számos fokozottan védett lepkefaj.", "A Sár-hegy egykor katonai gyakorlótérként is funkcionált, ma kedvelt túracélpont."],
       ro: [],
       en: []
     }
@@ -1911,7 +1911,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Tarna ist ein bedeutender Fluss im Nordosten Ungarns, der das Mátra-Gebirge von der Heveser Tiefebene trennt. Sie entspringt in den Bergen des Cserhát und fließt in einem weiten Bogen nach Südosten. Der Fluss spielt eine zentrale Rolle für das Ökosystem der Region, da er als natürlicher Korridor zwischen den bewaldeten Bergen und der offenen Steppe fungiert. In ihrem Oberlauf ist die Tarna ein spritziger Gebirgsbach, der durch malerische Täler fließt, während sie im Unterlauf gemächlich durch fruchtbares Ackerland mäandert. Die Tarna ist bekannt für ihre reiche Fischfauna und die gut erhaltenen Auenwälder entlang ihrer Ufer. Trotz menschlicher Eingriffe zur Regulierung hat der Fluss in vielen Abschnitten seinen natürlichen Charakter bewahrt und ist ein geschätztes Ziel für Naturbeobachter und Angler, die die Abgeschiedenheit suchen.",
-      hu: "",
+      hu: "A Tarna folyó az Északi-középhegység egyik legfontosabb vízfolyása, amely a Heves–Borsodi-dombságban ered, majd a Mátrát és a Bükköt elválasztva halad dél felé az Alföld irányába. A folyó völgye évszázadok óta fontos közlekedési folyosó és mezőgazdasági terület, ahol a folyó vize élteti a környék gazdag növénytermesztését és állattenyésztését. A Tarna felső szakasza gyorsabb folyású és tiszta vizű, míg az alsóbb részeken lelassul, és kanyargós mederben éri el a Zagyva folyót. A Tarna mente gazdag néprajzi és történelmi emlékekben, hiszen számos várat és ősi települést találunk a partján. A folyó vízszintje rendkívül ingadozó, a tavaszi áradások után a nyári aszályok idején gyakran kritikusan lecsökken a vízhozama, ami komoly kihívást jelent a helyi élővilág és a vízgazdálkodás számára. Földrajz K7 – a vízgyűjtő területek szerkezete és a folyók évszakos ingadozása.",
       ro: "",
       en: ""
     },
@@ -1926,7 +1926,7 @@ export const poiExtraHu2: POI[] = [
         "Bei Sirok fließt die Tarna unterhalb der berühmten Felsenburg vorbei.",
         "Die Wasserqualität der Tarna wird durch strengen Umweltschutz im Einzugsgebiet des Mátra-Gebirges gesichert."
       ],
-      hu: [],
+      hu: ["A Tarna hossza körülbelül 105 kilométer, forrása a szlovák határ közelében található.", "Legnagyobb mellékfolyója az Eger-patak, amely a folyó középső szakaszán csatlakozik hozzá.", "A folyó a Zagyvába torkollik Jászjákóhalma közelében.", "A Tarna völgye választóvonalat képez a Mátra és a Bükk hegység vonulatai között.", "A folyó felső szakasza Natura 2000 védelem alatt áll a ritka vízi élővilága miatt.", "A völgy híres a hagyományos juh- és marhatartásról a folyó menti réteken.", "A Tarna vize mentén több középkori várrom (pl. Sirok) is magasodik.", "A folyó neve valószínűleg szláv eredetű, és 'tövises' vagy 'fekete' jelentéssel bír."],
       ro: [],
       en: []
     }
@@ -1951,7 +1951,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Eger-Bach ist die Lebensader der gleichnamigen Barockstadt Eger und prägt seit Jahrhunderten deren Geschichte und Stadtbild. Er entspringt im Bükk-Gebirge und fließt nach Süden durch das Eger-Tal, bevor er schließlich in den Theiß-See mündet. In der Stadt Eger ist der Bach kunstvoll in die Architektur integriert; seine Uferpromenaden und kleinen Brücken laden zu romantischen Spaziergängen ein. Historisch war der Bach von strategischer Bedeutung, da er die Wassergräben der berühmten Burg von Eger speiste. Über seine städtische Rolle hinaus ist der Eger-Bach ein wichtiges ökologisches Bindeglied, das kühles Bergwasser in die Ebene transportiert. Entlang seines Laufs finden sich zahlreiche Mühlenstandorte und kleine Parks, die den Bach zu einem unverzichtbaren Teil der regionalen Lebensqualität machen.",
-      hu: "",
+      hu: "Az Eger-patak a Bükk-vidék és a Mátra határán folyó jelentős vízfolyás, amely keresztülhalad Heves vármegye székhelyén, Eger városán. A patak a Bükk-fennsík déli peremén ered, és útja során mély völgyeket váj a mészkőbe, mielőtt elérné az alföldi síkságot. Eger városában a patak a település szövetének szerves része: partjait sétányok, hidak és parkok díszítik, meghatározva a barokk belváros hangulatát. A történelem során a patak vize malmokat hajtott és a vár védműveit is táplálta a híres 1552-es ostrom idején. Ma az Eger-patak fontos ökológiai folyosó, amely összeköti a hegyvidéki erdőket az alföldi vizes élőhelyekkel. Bár hossza nem nagy, vízgyűjtő területe és kulturális jelentősége kiemelt helyet biztosít számára a magyar folyók sorában. Földrajz K6 – városi vízfolyások szerepe és a patakok völgyképző munkája.",
       ro: "",
       en: ""
     },
@@ -1966,7 +1966,7 @@ export const poiExtraHu2: POI[] = [
         "Der Bach ist bekannt für seine Populationen an Stockenten und Wasseramseln.",
         "Regelmäßige Reinigungsaktionen der Bürger von Eger zeugen von der tiefen Verbundenheit mit ihrem Bach."
       ],
-      hu: [],
+      hu: ["Az Eger-patak a Bükk hegységben, Balaton község határában ered.", "Hossza körülbelül 68 kilométer, és végül a Tarna folyóba torkollik.", "A patak vize Eger városában több helyen is mesterséges csatornákba és duzzasztókba kerül.", "A 20. század közepéig a patak mentén számos vízi malom működött.", "A patak völgye híres a minőségi szőlőtermesztésről és az egri borvidékről.", "Számos védett halfaj, köztük a sujtásos küsz és a fenékjáró küllő él a vizében.", "A patak menti sétányok Eger egyik legkedveltebb szabadidős övezetét alkotják.", "A patak vízszintje hóolvadáskor hirtelen megemelkedhet, ezért jelentős árvédelmi művek védik a várost."],
       ro: [],
       en: []
     }
@@ -1991,7 +1991,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Mátra-Wälder bedecken das höchste Gebirgsmassiv Ungarns und stellen ein ökologisches Refugium von nationalem Rang dar. Geprägt von majestätischen Buchenwäldern in den höheren Lagen und dichten Eichen-Hainbuchen-Beständen an den Hängen, bieten diese Wälder einen Lebensraum für eine beeindruckende Vielfalt an Wildtieren, darunter Rothirsche, Wildschweine und die vor Jahrzehnten erfolgreich angesiedelten Mufflons. Die Mátra ist zudem bekannt für ihre zahlreichen Heilquellen und das gesunde Waldklima, das bereits im frühen 20. Jahrhundert zur Gründung bedeutender Sanatorien führte. Wanderer finden hier ein perfekt ausgebautes Wegenetz, das zu versteckten Felsformationen, Wasserfällen und spektakulären Aussichtspunkten führt. Die Wälder sind nicht nur forstwirtschaftlich wertvoll, sondern dienen als wichtigste 'grüne Lunge' Nordungarns und als Zentrum für den naturnahen Tourismus zu jeder Jahreszeit.",
-      hu: "",
+      hu: "A Mátrai Tájvédelmi Körzet Magyarország legmagasabb hegységének legértékesebb részeit foglalja magában, mintegy 12 000 hektáron. A terület célja a Mátra vulkanikus formakincsének, bükk- és tölgyerdőinek, valamint ritka hegyi rétjeinek megőrzése. Itt találhatók hazánk legmagasabb csúcsai, a Kékes és a Galyatető, melyek környezete különleges magashegységi mikroklímával rendelkezik. A tájvédelmi körzetben olyan természeti ritkaságokat csodálhatunk meg, mint az Ilona-völgyi vízesés vagy a sástói lápvidék. Az erdők mélyén ritka állatfajok, mint a parlagi sas, a vándorsólyom és a muflon találnak otthonra. A terület nemcsak természetvédelmi szempontból kiemelkedő, hanem az ország egyik legfontosabb turisztikai célpontja is, ahol az ember és a természet évszázados együttélése (erdőgazdálkodás, legeltetés, turizmus) ma is megfigyelhető. Földrajz K7 – a Mátra vulkanizmusa és a magashegységi flóra-fauna védettsége.",
       ro: "",
       en: ""
     },
@@ -2006,7 +2006,7 @@ export const poiExtraHu2: POI[] = [
         "Die Wälder sind reich an vulkanischen Gesteinsformationen, die oft als 'Steinstrme' bezeichnet werden.",
         "Die Mátra-Wälder sind ein wichtiges Ziel für den Wintersport, mit Skipisten und Rodelbahnen."
       ],
-      hu: [],
+      hu: ["A Mátrai Tájvédelmi Körzet 1985-ben alakult meg a Bükki Nemzeti Park Igazgatósága alatt.", "Területe magában foglalja az ország legmagasabb pontját, a Kékestetőt (1014 m).", "A hegység vulkáni andezitből épül fel, amely különleges sziklaalakzatokat képez.", "Itt található Magyarország legmagasabb természetes vízesése, az Ilona-völgyi vízesés.", "Az erdők több mint 90%-át bükkösök és gyertyános-tölgyesek alkotják.", "A területen több mint 1000 növényfajt tartanak számon, köztük számos jégkorszaki maradványt.", "Sástó, az ország legmagasabban fekvő tava, szintén a körzet része.", "A tájvédelmi körzet fontos szerepet játszik a klímakutatásban és a levegőtisztaság mérésében."],
       ro: [],
       en: []
     }
@@ -3238,7 +3238,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Szekszárdi-dombság (Szekszárder Hügelland) ist eine der charakteristischsten Weinbauregionen Ungarns. Die Landschaft ist geprägt von sanften, mit Löss bedeckten Hügeln, die von tiefen, oft klammartigen Tälern (den sogenannten 'Szurdik') durchzogen sind. Diese Täler wurden über Jahrtausende durch das Regenwasser in den weichen Lössboden gegraben und verleihen der Region ein fast labyrinthartiges Aussehen. Berühmt ist das Hügelland vor allem für seine vollmundigen Rotweine, insbesondere den Szekszárder Bikavér (Stierblut). Die südliche Lage und das warme Klima sorgen für exzellente Reifebedingungen. Neben dem Weinbau bietet die Region wunderschöne Wanderwege durch kleine Eichenwälder und weite Felder, von denen aus man immer wieder einen Blick auf die Donau und die Stadt Szekszárd werfen kann. Die Kombination aus kulinarischem Genuss und landschaftlicher Idylle macht das Szekszárder Hügelland zu einem beliebten Ziel für anspruchsvolle Reisende.",
-      hu: "",
+      hu: "A Szekszárdi-dombság a Dunántúli-dombság délkeleti peremén helyezkedik el, és világszerte híres a löszös talaján termő tüzes vörösborairól. Ez a tájegység egy mélyen szabdalt, völgyekkel és meredek horhosokkal átszőtt vidék, amelyet vastag, néhol a 30 métert is elérő löszréteg borít. A dombság klímája mediterrán hatások alatt áll, ami hosszú, meleg nyarakat és kedvező őszöket biztosít a szőlőművelésnek. Szekszárd városa a dombság lábánál fekszik, és történelme összefonódott a borászattal: már a rómaiak is ültettek itt szőlőt. A vidék legnemesebb bora a Szekszárdi Bikavér, amelynek készítése szigorú szabályokhoz kötött. A dombság nemcsak gazdasági, hanem természeti érték is: a löszfalakban gyurgyalagok fészkelnek, a völgyekben pedig gazdag tölgyerdők és vadvirágos rétek találhatók. Földrajz K8 – a lösz kialakulása, dombsági formakincs és a történelmi borvidékek földrajza.",
       ro: "",
       en: ""
     },
@@ -3253,7 +3253,7 @@ export const poiExtraHu2: POI[] = [
         "Das Hügelland beherbergt zahlreiche historische Weinkeller, die direkt in den Löss gegraben wurden.",
         "Die Region ist ein wichtiges Habitat für Bienenfresser, die ihre Nester in die Lösswände bauen."
       ],
-      hu: [],
+      hu: ["A dombságot vastag, 20-30 méteres löszréteg borítja, amely az utolsó jégkorszak idején rakódott le.", "Legmagasabb pontja a Sötét-völgy felett található, magassága nem éri el a 300 métert.", "A vidék az egyik legnaposabb tájegységünk, erős dél-európai éghajlati hatással.", "Itt találhatók a híres 'szekszárdi horhosok', a löszbe vájt mély utat és völgyek.", "A Szekszárdi borvidék az ország egyik legrégebbi és legnevesebb vörösboros területe.", "A dombság löszfalai a színpompás gyurgyalagok egyik legfontosabb hazai költőhelyei.", "A területen számos borospincét vájtak közvetlenül a löszfalakba a 18-19. században.", "A Gemenci-erdő közelsége miatt a dombság vadállománya, különösen a gímszarvas-állomány kiemelkedő."],
       ro: [],
       en: []
     }
@@ -3278,7 +3278,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Pacsmagi-tavak (Pacsmager Teiche) stellen eines der bedeutendsten Vogelschutzgebiete in Südtransdanubien dar. Dieses System aus mehreren künstlich angelegten Fischteichen im Koppány-Tal hat sich über die Jahrzehnte zu einem unersetzlichen Biotop für Wasservögel entwickelt. Die Teiche sind von ausgedehnten Schilfgürteln und Feuchtwiesen umgeben, die ideale Bedingungen für Brut und Rast bieten. Während der Zugperioden im Frühjahr und Herbst rasten hier Zehntausende von Vögeln, was die Teiche zu einem Hotspot für Ornithologen aus ganz Europa macht. Das Gebiet steht unter strengem Naturschutz und ist Teil der Ramsar-Konvention. Für Besucher gibt es spezielle Beobachtungspunkte, von denen aus man seltene Arten wie den Seeadler oder den Löffler in ihrem natürlichen Lebensraum beobachten kann, ohne sie zu stören.",
-      hu: "",
+      hu: "A Tolna vármegyei Tamási közelében fekvő Pacsmagi-tavak Magyarország egyik legjelentősebb vízimadár-rezervátuma és nemzetközileg elismert Ramsari területe. A hét tóból álló tórendszert a Kapos-folyó völgyében alakították ki, és mára Európa-szerte híres a gazdag madárvilágáról: eddig több mint 214 madárfajt figyeltek meg itt, ami a hazai fajok több mint fele. A tavak különösen fontosak a gémfélék és récefélék számára; itt él hazánk egyik legnagyobb cigányréce-állománya és rendszeresen költ a ritka üstökösréce is. A terület a Duna-Dráva Nemzeti Park Igazgatóságához tartozik, és szigorú védelem alatt áll, biztosítva a zavartalan fészkelést és táplálkozást a vonuló madarak számára. A tavakat övező nádasok, mocsárrétek és erdők komplex ökoszisztémát alkotnak, amely a természetfotósok és az ornitológusok igazi paradicsoma. Biológia K8 – vizes élőhelyek ökológiája, madárvonulás és a nemzetközi természetvédelmi egyezmények.",
       ro: "",
       en: ""
     },
@@ -3293,7 +3293,7 @@ export const poiExtraHu2: POI[] = [
         "Die Vegetation umfasst seltene Wasserpflanzen wie den Froschbiss und verschiedene Algenarten.",
         "Regelmäßige naturkundliche Führungen werden für Schulklassen und interessierte Touristen angeboten."
       ],
-      hu: [],
+      hu: ["A Pacsmagi-tórendszer 7 tóból áll, és 1997 óta a Ramsari Egyezmény védelme alatt áll.", "A területen 214 madárfajt azonosítottak, köztük számos fokozottan védett ritkaságot.", "Itt található Magyarország egyik legjelentősebb cigányréce-populációja.", "A tavak mentén rendszeres madárgyűrűző táborokat szerveznek a kutatók számára.", "A környékbeli erdőkben fészkel a fekete gólya és a rétisas is.", "A tavak vízszintjét csatornarendszer és zsilipek segítségével szabályozzák.", "A terület belső részei csak szakvezetéssel látogathatók a madarak nyugalmának biztosítása érdekében.", "A tavak közelségében löszfalak találhatók, ahol nagy számban költenek gyurgyalagok."],
       ro: [],
       en: []
     }
@@ -3318,7 +3318,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Gemenci-erdő ist eine Legende unter den europäischen Wäldern. Als größtes zusammenhängendes Auenwaldgebiet Mitteleuropas erstreckt er sich entlang der Donau im Süden Ungarns. Dieser Wald wird regelmäßig von den Hochwassern der Donau überflutet, was ein dynamisches und einzigartiges Ökosystem schafft. Gigantische Silberweiden und Schwarzpappeln dominieren das Bild, durchzogen von Altarmen und geheimen Kanälen. Der Gemencer Wald ist weltweit berühmt für seine kapitalen Rothirsche, deren Geweihe zu den beeindruckendsten der Welt gehören. Eine Fahrt mit der Gemencer Waldbahn, einer Schmalspurbahn, die tief in das Herz des Waldes führt, bietet die beste Möglichkeit, diese geheimnisvolle Wildnis zu erleben. Hier scheint die Natur noch ihren eigenen Rhythmus zu haben, diktiert vom ewigen Steigen und Fallen des großen Stroms.",
-      hu: "",
+      hu: "A Gemenci-erdő Közép-Európa legnagyobb összefüggő ártéri erdeje, amely a Duna és a Sió találkozásánál, Tolna és Bács-Kiskun vármegyék határán terül el. Ez a vadregényes táj a folyó állandó alakító munkájának köszönheti létét: a rendszeres áradások, a kanyargós holtágak és a sűrű galériaerdők egyedülálló ökoszisztémát alkotnak. Gemenc világhírű a gímszarvas-állományáról, amelynek bikái rekordméretű agancsokat növesztenek az ártéri réteken. A fekete gólyák sűrűsége itt a legnagyobb a világon, de a terület a rétisasok és vidrák számára is fontos menedék. A látogatók a híres Gemenci Állami Erdei Vasúton utazva vagy magas vízállásnál kenuba szállva ismerhetik meg ezt a misztikus vízi világot, ahol a természet az úr. Földrajz K7 – folyami ártéri erdők, biodiverzitás és a Duna vízrajzi jelentősége.",
       ro: "",
       en: ""
     },
@@ -3333,7 +3333,7 @@ export const poiExtraHu2: POI[] = [
         "Das Gebiet ist ein Paradies für Wildschweine, die sich perfekt an die sumpfigen Bedingungen angepasst haben.",
         "Historisch war Gemenc ein bevorzugtes Jagdgebiet ungarischer Könige und späterer Staatsmänner."
       ],
-      hu: [],
+      hu: ["A Gemenci-erdő területe körülbelül 180 négyzetkilométer, 1977 óta védett terület.", "Itt található Magyarország legnagyobb kerületű fája, a 12 méteres törzsű 'Pörbölyi titán'.", "A terület a Duna-Dráva Nemzeti Park része, és nemzetközi jelentőségű vadvíz.", "A 30 km hosszú Gemenci Erdei Vasút az ország egyetlen ártéri kisvasútja.", "A gímszarvasok mellett a vaddisznó és az európai hód is jelentős állományban van jelen.", "A vidék néprajzi értéke a dunai halászat és a híres bajai halászlé hagyománya.", "A Gemenc-Zrt. vadaskertjeiben testközelből is megfigyelhető az ártéri fauna.", "A terület madárvilága 250 fajt számlál, köztük olyan ritkaságokat, mint a kerecsensólyom."],
       ro: [],
       en: []
     }
@@ -3358,7 +3358,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Mündung des Kapos in die Sió bei Szekszárd ist ein bedeutender wasserbaulicher und ökologischer Knotenpunkt in Südtransdanubien. Hier fließen die Wasser des Kapos-Tals mit dem regulierten Abfluss des Plattensees zusammen. Die Region ist geprägt von weiten Auenlandschaften und dichten Schilfzonen, die einen wichtigen Lebensraum für Wasservögel und Fische bilden. Die Mündungsregion ist ein dynamisches System, das besonders bei Hochwasser beeindruckende Ausmaße annehmen kann. Für Naturliebhaber bietet dieser Ort eine fast ungestörte Stille und die Möglichkeit, seltene Vögel wie den Eisvogel oder verschiedene Reiherarten bei der Jagd zu beobachten. Das Gebiet ist zudem ein wichtiger Teil des regionalen Hochwassermanagements und zeigt die komplexe Verbindung zwischen menschlicher Wasserbaukunst und dem Erhalt natürlicher Flussbiotope.",
-      hu: "",
+      hu: "A Kapos folyó torkolatvidéke Tolna vármegyében, Tolna és Szekszárd közelében található, ahol a somogyi és tolnai dombság vizeit összegyűjtő folyó a Sió-csatornába ömlik. Ez a terület stratégiai fontosságú a régió vízgazdálkodása szempontjából, hiszen itt találkozik a dél-dunántúli dombvidék vízrendszere a Duna menti síksággal. A torkolat környéke alacsonyan fekvő, vizenyős terület, amely gazdag ártéri növényzettel és nádasokkal rendelkezik, fontos élőhelyet biztosítva a vízi madaraknak és kétéltűeknek. A Kapos völgye történelmileg is jelentős, hiszen fontos közlekedési útvonal volt a Balaton és a Duna között. Ma a torkolatvidék a horgászok és a természetjárók kedvelt célpontja, ahol a folyók lassú hömpölygése és a környező löszhátak kontrasztja különleges tájképi élményt nyújt. Földrajz K5 – folyótorkolatok típusai és a dombsági vízgyűjtők.",
       ro: "",
       en: ""
     },
@@ -3373,7 +3373,7 @@ export const poiExtraHu2: POI[] = [
         "Die Wasserqualität an der Mündung spiegelt den Zustand des gesamten Kapos-Einzugsgebiets wider.",
         "Für Kanuwanderer ist die Passage der Mündung ein interessanter navigatorischer Punkt."
       ],
-      hu: [],
+      hu: ["A Kapos folyó teljes hossza 113 kilométer, torkolata Tolna vármegyében van.", "A folyó vize végül a Sió-csatornán keresztül jut el a Dunába.", "A torkolat közelében található a Pacsmagi-tórendszer, amely nemzetközi madárvédelmi terület.", "A Kapos-völgy a 19. századi szabályozások előtt mocsaras, nehezen járható vidék volt.", "A folyó torkolati szakasza kedvelt horgászhely, híres a keszegfélékről.", "A terület hidrológiáját a Sió-zsilip működése is befolyásolja.", "A Kapos mente fontos ökológiai folyosó a somogyi erdők és a Dunántúli-dombság között.", "A torkolatvidék löszös talaján gazdag szőlőművelés és borászat alakult ki."],
       ro: [],
       en: []
     }
@@ -3398,7 +3398,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Tolnai-hegyhát (Tolnaer Bergrücken) ist eine der stillsten und ursprünglichsten Landschaften Ungarns. Im Zentrum des Komitats Tolna gelegen, bildet er eine sanfte Brücke zwischen dem Hügelland von Somogy und der Donauebene. Die Landschaft ist geprägt von welligen Hügeln, tiefen, bewaldeten Tälern und weiten Panoramablicken. Diese Region ist historisch eng mit der Kultur der Donauschwaben verbunden, was sich in der Architektur der gepflegten Dörfer und den zahlreichen historischen Kirchen widerspiegelt. Der Tolnai-hegyhát ist ein Paradies für Wanderer, die Einsamkeit suchen; die Wege führen durch dichte Eichenwälder und vorbei an alten Streuobstwiesen. Es ist eine Region, die durch ihre Authentizität und die herzliche Gastfreundschaft ihrer Bewohner besticht und einen tiefen Einblick in das ländliche Leben Südungarns bietet.",
-      hu: "",
+      hu: "A Tolnai-hegyhát a Dunántúli-dombság északkeleti részén, a Kapos és a Sió völgyei között elterülő, völgyekkel sűrűn szabdalt dombvidék. Ez a táj nemcsak mezőgazdasági jelentőségéről, hanem gazdag történelmi és néprajzi örökségéről is nevezetes. A hegyhátat vastag löszréteg borítja, amelynek köszönhetően mély horhosok és szakadékok alakultak ki, egyedi domborzati formákat hozva létre. A terület központja Gyönk és környéke, ahol a német (székely) és magyar telepesek kultúrája ötvöződik. A Tolnai-hegyhát erdői, főként tölgyesek és gyertyánosok, gazdag vadállománynak adnak otthont, míg a domboldalakon kiváló minőségű borok teremnek. A vidék nyugalma és érintetlensége ideális a falusi turizmus és a csendes túrázás kedvelőinek, akik a múlt emlékeit és a természeti szépségeket egyszerre keresik. Földrajz K8 – dombsági formakincs, löszpuszták és a népesség eloszlása.",
       ro: "",
       en: ""
     },
@@ -3413,7 +3413,7 @@ export const poiExtraHu2: POI[] = [
         "Die Hügel bestehen hauptsächlich aus Löss- und Sandablagerungen der letzten Eiszeit.",
         "Lokale Weine aus den kleinen Weingärten des Heghát gelten als Geheimtipp für Kenner."
       ],
-      hu: [],
+      hu: ["A Tolnai-hegyhát átlagos magassága 200-250 méter, legmagasabb pontja a Hegyhát-kilátó közelében van.", "A terület geológiai alapja a pannon üledék, amelyet 10-20 méter vastag lösz takar.", "Híres az 1700-as években ide települt dunai svábok építészeti és mezőgazdasági örökségéről.", "Az erdőkben jelentős gímszarvas- és dámvadállomány él, fontos vadászati terület.", "A hegyháton keresztülhalad az országos kék-túra dél-dunántúli szakasza.", "A vidék tradicionális bortermelő körzetei a Szekszárdi borvidék északi nyúlványai.", "A mély löszvölgyekben (horhosokban) különleges, hűvös mikroklíma alakult ki.", "A területen számos középkori várhely és templomrom található a török hódoltság korából."],
       ro: [],
       en: []
     }
@@ -3439,7 +3439,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Rába (Raab) gilt als der wildeste und unberechenbarste Fluss Westungarns. Sie entspringt in den österreichischen Alpen und fließt in einem weiten, oft windungsreichen Bett durch das Komitat Vas. Was die Rába so besonders macht, sind ihre zahlreichen Strudel, Untiefen und die oft starken Strömungsänderungen, die sie zu einem anspruchsvollen Revier für Kanufahrer machen. Entlang ihres Laufs haben sich wertvolle Auenlandschaften erhalten, die Teil des Nationalparks Őrség sind. Die Rába ist ein Fluss, der noch immer seine eigene Dynamik entfalten darf; nach jedem Hochwasser verändern sich die Sand- und Kiesbänke. Für Naturfreunde bietet die Rába ein echtes Abenteuer in einer fast unberührten Flusslandschaft, die Heimat für seltene Vögel wie den Eisvogel und zahlreiche geschützte Fischarten ist.",
-      hu: "",
+      hu: "A Rába a Dunántúl legjelentősebb folyója, amely az osztrák Alpokban, a Fischbachi-Alpokban ered, majd Magyarországon a Kisalföldön keresztül tart Győr felé, ahol a Mosoni-Dunába torkollik. Ez a folyó az ország egyik legvadabb és legtermészetesebb vízfolyása, amelynek kanyargós medre és hirtelen áradásai évszázadok óta meghatározzák a vidék életét. A Rába-völgy nemcsak természeti, hanem történelmi szempontból is kiemelkedő: a folyó mentén sorakoznak az egykori határőrvidék települései, és partján zajlott a híres 1664-es szentgotthárdi csata is. A folyó ma a vízitúrázók egyik legnépszerűbb célpontja, ahol a gyorsabb és lassabb szakaszok váltakozása izgalmas kalandot kínál. A Rába menti ártéri erdők és rétek a Fertő–Hanság Nemzeti Park részeként szigorú védelem alatt állnak, őrizve a nyugat-magyarországi táj eredeti szépségét. Földrajz K7 – hegyvidéki és síksági folyószakaszok, árvízvédelem és határmenti vízrajz.",
       ro: "",
       en: ""
     },
@@ -3454,7 +3454,7 @@ export const poiExtraHu2: POI[] = [
         "Die Wasserqualität der Rába wird durch internationale Abkommen mit Österreich streng überwacht.",
         "Bei St. Gotthard (Szentgotthárd) war der Fluss Schauplatz einer bedeutenden Schlacht gegen das Osmanische Reich."
       ],
-      hu: [],
+      hu: ["A Rába teljes hossza 283 kilométer, ebből 188 kilométer található Magyarország területén.", "Ez a Duna legjelentősebb magyarországi jobb oldali mellékfolyója.", "Vízjárása rendkívül szeszélyes, az Alpokban leeső csapadék miatt órák alatt megáradhat.", "Szentgotthárdnál lép be az országba, és Győrnél, a 'folyók városánál' ér véget.", "A Rába-menti nemzeti parki területeken ritka vízi növények és vidrák élnek.", "A folyó energiáját már a középkortól malmok, ma pedig kiserőművek hasznosítják.", "Medre sok helyen még ma is szabadon kanyarog, zátonyokat és holtágakat építve.", "A Rába vize fontos szerepet játszik a Kisalföld mezőgazdasági öntözőrendszereiben."],
       ro: [],
       en: []
     }
@@ -3479,7 +3479,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Kőszegi-hegység (Günscher Gebirge) ist der östlichste Ausläufer der Alpen auf ungarischem Staatsgebiet und bietet eine für das Land einzigartige alpine Atmosphäre. Die Landschaft ist geprägt von steilen Hängen, tiefen Tälern und dichten Nadel- und Buchenwäldern. Aufgrund der hohen Niederschlagsmengen und der kühlen Luft herrscht hier ein subalpines Klima, das den Berg zu einem beliebten Luftkurort macht. Zahlreiche kristallklare Quellen entspringen im Gebirge und speisen kleine Bäche. Wanderer schätzen das Kőszegi-hegység für sein dichtes und gut markiertes Wegenetz, das zu historischen Aussichtstürmen und bizarren Felsformationen führt. Die Stadt Kőszeg am Fuße des Gebirges ist der ideale Ausgangspunkt, um die natürliche Schönheit und die geschichtsträchtige Grenzregion zu erkunden.",
-      hu: "",
+      hu: "A Kőszegi-hegység Magyarország legnyugatibb hegyvidéke, az Alpok utolsó nyúlványa, amely kristálytiszta levegőjével és alpesi jellegű növényvilágával emelkedik ki környezetéből. Itt található a Dunántúl legmagasabb pontja, az Írott-kő, amelynek csúcsán a határvonal pontosan a kilátón keresztül halad. A hegység híres szubalpin klímájáról, amely már a 19. század óta kedvelt gyógyhelyszínné tette a vidéket, különösen a légzőszervi betegségek kezelésében. A sűrű bükk- és fenyőerdők mélyén sebes vizű patakok, mint a Gyöngyös-patak, és olyan látványosságok bújnak meg, mint a Hétforrás vagy a Stájer-házak. Kőszeg városa a hegység lábánál fekszik, és történelme elválaszthatatlan a hegyek védelmétől. A Kőszegi Tájvédelmi Körzet részeként a terület gazdag ritka orchideákban, havasi növényekben és az erdők csendjét kedvelő nagyvadakban. Földrajz K7 – az Alpok és a Kárpát-medence találkozása, magashegységi hatások.",
       ro: "",
       en: ""
     },
@@ -3494,7 +3494,7 @@ export const poiExtraHu2: POI[] = [
         "In den dichten Wäldern leben seltene Tiere wie der Feuersalamander und die Haselmaus.",
         "Das Kőszegi-hegység ist ein bedeutendes Ziel für den Wintersport in Westungarn."
       ],
-      hu: [],
+      hu: ["A hegység legmagasabb pontja az Írott-kő (882 m), amely egyben a Dunántúl csúcsa is.", "Geológiailag a Keleti-Alpokhoz tartozik, fő kőzete a kristályos pala és a mészpala.", "Magyarország egyik legcsapadékosabb területe, ahol az évi mennyiség meghaladhatja a 800 mm-et.", "A hegységben találhatók az ország legszebb szelídgesztenyései és fenyvesei.", "Híres az 1532-es török ostromról, amikor a várvédők a hegység előterében állították meg a szultán seregét.", "A terület 1980 óta tájvédelmi körzet, gazdag forrásokban és kis vízfolyásokban.", "A Hétforrás a hegység egyik legnépszerűbb kirándulóhelye, vize iható és jéghideg.", "A Kőszegi-hegységben él az ország egyik legjelentősebb foltos szalamandra állománya."],
       ro: [],
       en: []
     }
@@ -3519,7 +3519,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Wälder des Őrség-Nationalparks im äußersten Südwesten Ungarns sind von einer fast mystischen Schönheit geprägt. Diese Region, in der die Grenzen von Ungarn, Österreich und Slowenien aufeinandertreffen, hat sich ihre Ursprünglichkeit über Jahrhunderte bewahrt. Die Wälder sind eine Mischung aus majestätischen Buchen, Tannen und Eichen, durchsetzt mit seltenen Hochmooren und feuchten Wiesen. Charakteristisch für den Őrség-Wald ist seine hohe Biodiversität; hier finden sich Pflanzen und Pilze, die sonst eher in den Alpen heimisch sind. Die Wälder dienten historisch den 'Wächtern' (Őrök) als Schutz und Lebensgrundlage. Heute sind sie ein Paradies für Wanderer, die Stille suchen, und für Pilzsammler, die hier eine unglaubliche Vielfalt finden. Die tiefen, dunklen Wälder des Őrség verkörpern die archaische Kraft der Natur in ihrer reinsten Form.",
-      hu: "",
+      hu: "Az Őrség erdői Magyarország legnyugatibb csücskében, a Vas vármegyei dombvidéken terülnek el, és hazánk egyik legérintetlenebb természeti tájának szívét alkotják. Ez a vidék az Őrségi Nemzeti Park része, ahol a dús fenyvesek, a gyertyános-tölgyesek és a vizenyős rétek mozaikja különleges, nyugodt atmoszférát teremt. Az Őrség elnevezés a középkori határőrizeti funkcióra utal, amikor az itt élők 'őrállók' voltak, és a tájat is eszerint alakították ki a jellegzetes szeres településszerkezettel. Az erdők mélyén olyan ritka fajok élnek, mint a fekete gólya, a darázsölyv és a különböző orchideafajok, míg a gombákban való gazdagsága országosan egyedülálló. Az Őrségi-erdő nemcsak természeti kincs, hanem kulturális menedék is, ahol a hagyományos gazdálkodás és a természet tisztelete a mai napig kéz a kézben jár. Biológia K6 – erdőségek típusai, biodiverzitás és a fenntartható erdőgazdálkodás.",
       ro: "",
       en: ""
     },
@@ -3534,7 +3534,7 @@ export const poiExtraHu2: POI[] = [
         "Hier findet man seltene Schmetterlingsarten, die auf den ungedüngten Waldwiesen leben.",
         "Die Stille der Őrség-Wälder wird oft für Waldtherapien und zur Stressreduktion genutzt."
       ],
-      hu: [],
+      hu: ["Az Őrség területének több mint 50%-át erdő borítja, ami az egyik legmagasabb arány hazánkban.", "Jellemzője a szubalpin klíma és a magas páratartalom, ami kedvez a fenyőféléknek.", "Az erdőkben több mint 100 ehető és mérgező gombafaj található, az Őrség a gombászok paradicsoma.", "Itt található az ország legjelentősebb állománya a ritka tőzegmohás lápokból.", "A vidék híres a 'tökmagolaj'-ról, amelyet az erdőszéli gazdaságokban állítanak elő.", "Az Őrségi Nemzeti Park 2002-ben alakult meg a táj és a népi építészet megőrzésére.", "Az erdők mélyén bújnak meg a 'szerek', az egymástól távol eső házcsoportok.", "A terület gazdag forrásokban, melyek a Zala és a Kerka folyókat táplálják."],
       ro: [],
       en: []
     }
@@ -3559,7 +3559,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Güns (Gyöngyös-patak) ist ein bedeutender Wasserlauf im Westen Ungarns, der das Kőszegi-hegység mit der Ebene verbindet. Er entspringt in Österreich und fließt durch die historischen Städte Kőszeg und Szombathely. Der Bach hat eine immense kulturhistorische Bedeutung, da er über Jahrhunderte die Energie für zahlreiche Mühlen und Werkstätten lieferte und die Wassergräben der Befestigungsanlagen speiste. In den Städten ist der Bach oft in Parkanlagen integriert und bietet grüne Oasen der Erholung. Außerhalb der Siedlungen fließt die Güns durch eine abwechslungsreiche Landschaft aus Wiesen und kleinen Wäldern. Ökologisch ist der Bach als Lebensraum für kälteliebende Fischarten und als Wanderkorridor für Wildtiere von großer Bedeutung. Ein Spaziergang entlang der Güns verbindet Naturerlebnis mit der Entdeckung geschichtsträchtiger Orte in West-Pannonien.",
-      hu: "",
+      hu: "A Gyöngyös-patak a Kőszegi-hegység legjelentősebb vízfolyása, amely az Alpok osztrák oldalán ered, majd Kőszeg városán keresztülhaladva érkezik meg a magyar síkságra. A patak vize kristálytiszta és gyors folyású, ami az alpesi eredetének köszönhető, és meghatározza Kőszeg és környékének mikroklímáját. A patak mentén épült ki a város történelmi magja, ahol a víz egykor a várárkokat táplálta és malmokat hajtott. A Gyöngyös-patak völgye fontos ökológiai folyosó, amely összeköti a hegyvidéki erdőket a Rába-síksággal, gazdag élőhelyet biztosítva a pisztrángoknak és a jégmadaraknak. A patak partján kialakított sétányok és parkok a város legszebb részei, ahol a látogatók a természet közelségét élvezhetik a történelmi falak tövében. Földrajz K6 – hegyi patakok jellemzői, eróziós munka és a víz szerepe a városszerkezetben.",
       ro: "",
       en: ""
     },
@@ -3574,7 +3574,7 @@ export const poiExtraHu2: POI[] = [
         "Der Bach ist bekannt für seine Forellenbestände, was ihn bei Fliegenfischern beliebt macht.",
         "Entlang der Güns wurden mehrere Hochwasserrückhaltebecken angelegt, die heute auch als Teiche zur Erholung dienen."
       ],
-      hu: [],
+      hu: ["A Gyöngyös-patak teljes hossza Magyarországon 33 kilométer, Kőszegnél lép be az országba.", "A patak vize végül a Rába folyóba torkollik Sárvár közelében.", "Nevét a víztükrén csillogó napfény 'gyöngyöző' hatásáról kaphatta.", "A patakmenti égerligetek fokozottan védett természeti területek.", "A történelem során többször is pusztító árvizeket okozott, ezért medrét mára szabályozták.", "Vize ideális élőhely a sebes pisztráng és a kövi csík számára.", "Kőszeg belvárosában több hangulatos kőhíd is átível felette.", "A patakvölgyben találhatók a híres kőszegi Stájer-házak, egykori erdészlakok."],
       ro: [],
       en: []
     }
@@ -3599,7 +3599,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Írott-kő (Geschriebenstein) ist mit 884 Metern der stolze Gipfel des Kőszegi-hegység und die höchste Erhebung in ganz Transdanubien. Seine Besonderheit liegt in seiner Lage direkt auf der Staatsgrenze zwischen Ungarn und Österreich. Die steinerne Aussichtswarte auf dem Gipfel wird symbolisch durch die Grenze geteilt; eine Hälfte steht in Ungarn, die andere in Österreich. Der Berg ist ein Symbol der Verbundenheit und der europäischen Integration. Der Name 'Geschriebenstein' bezieht sich auf historische Grenzsteine mit Inschriften aus dem 14. Jahrhundert. Der Aufstieg zum Gipfel führt durch dichte Buchenwälder und bietet am Ziel einen grandiosen Rundblick, der an klaren Tagen vom Neusiedler See bis zu den Alpen und über die gesamte westungarische Ebene reicht. Als Endpunkt des ungarischen Nationalen Blauen Pfades hat der Írott-kő zudem einen fast kultischen Status unter Wanderern.",
-      hu: "",
+      hu: "Az Írott-kő (németül Geschriebenstein) a Kőszegi-hegység és egyben a Dunántúl legmagasabb pontja, 882 méteres magasságával. Ez a csúcs nemcsak földrajzi, hanem szimbolikus jelentőséggel is bír: a tetején álló kőkilátó pontosan a magyar-osztrák államhatáron fekszik, így a látogatók egyetlen lépéssel országhatárt válthatnak. Nevét a hagyomány szerint egy egykori feliratos határkőről kapta, amely a Batthyány és az Esterházy birtokok határát jelölte. Az Írott-kő az Országos Kéktúra nyugati végpontja, így a magyar természetjárás ikonikus helyszíne. A csúcsot övező hatalmas bükk- és fenyőerdők, a tiszta hegyi levegő és a kilátóból elénk táruló panoráma – amely tiszta időben egészen a Fertő-tóig és az osztrák Alpokig ellát – felejthetetlen élményt nyújt minden túrázónak. Földrajz K7 – határmenti hegyvidékek, a Dunántúl domborzata és a gyalogos turizmus jelentősége.",
       ro: "",
       en: ""
     },
@@ -3614,7 +3614,7 @@ export const poiExtraHu2: POI[] = [
         "Historisch war der Gipfel während des Kalten Krieges ein streng bewachtes Sperrgebiet.",
         "Vom Gipfel aus führt ein schöner Lehrpfad zum nahegelegenen Ort Velem."
       ],
-      hu: [],
+      hu: ["Az Írott-kő 882 méterével Magyarország legmagasabb pontja a Dunántúlon.", "A tetőn 1913-ban épült kilátó közepén húzódik az államhatár vonala.", "A csúcsról látható az osztrák Schneeberg és a Rax hegytömbje is.", "Itt található az Országos Kéktúra és a Rockenbauer Pál Dél-dunántúli Kéktúra találkozási pontja.", "A hegység ezen része a Geschriebenstein-Írottkő Natúrpark része, amely határokon átnyúló védelem.", "A csúcs környékén ritka havasi növények és védett zuzmófajok élnek.", "A legközelebbi nagyobb település a magyar oldalon Kőszeg, az osztrák oldalon Városszalónak (Stadtschlaining).", "A hegységben érezhető leginkább az Alpok közelsége, mind flórában, mind éghajlatban."],
       ro: [],
       en: []
     }
@@ -3640,7 +3640,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Somló ist einer der markantesten und faszinierendsten Zeugenberge Ungarns. Er erhebt sich völlig isoliert aus der Marcal-Ebene und verdankt seine Form seiner vulkanischen Vergangenheit. Der Berg ist weltberühmt für seine exzellenten Weißweine, die auf dem mineralstoffreichen Basaltboden wachsen; der Wein vom Somló wird oft als 'Wein der Hochzeitsnächte' bezeichnet. Die terrassierten Hänge sind mit unzähligen kleinen Kelterhäusern und Weinkellern übersät, die dem Berg ein einzigartiges, kulturlandschaftliches Gesicht verleihen. Auf dem Gipfel thront die Ruine der Burg Somló, die weithin sichtbar ist und eine bewegte Geschichte erzählt. Eine Wanderung auf den Somló ist ein Erlebnis für alle Sinne: von der Verkostung des feurigen Weins bis hin zum spektakulären Ausblick von der St.-Stephans-Aussichtswarte über das halbe Transdanubien.",
-      hu: "",
+      hu: "A Somló, a 'nászéjszakák bora' hazája, a Bakony és a Kisalföld határán magányosan emelkedő vulkanikus tanúhegy. Jellegzetes, koporsó alakú sziluettje már messziről felismerhető a síkságból. A hegy oldalai teraszosan beültetett szőlőkkel vannak teli, ahol az ország egyik legkisebb, de legnevesebb borvidéke található. A Somlói bor különlegességét a vulkáni bazalt talaj adja, amely ásványos, tüzes és hosszú ideig eltartható fehérborokat (pl. Juhfark) eredményez. A hegy tetején a Somlói vár romjai magasodnak, ahonnan pazar kilátás nyílik a Kisalföldre és a Balaton-felvidékre. A terület nemcsak gazdasági, hanem természeti érték is: a bazaltsziklák és a karsztbokorerdők számos ritka fajnak nyújtanak menedéket. A Somló egy igazi spirituális és gasztronómiai központ, ahol a táj és az emberi munka harmonikus egysége érezhető. Földrajz K8 – tanúhegyek kialakulása, vulkanizmus és a történelmi borvidékek földrajza.",
       ro: "",
       en: ""
     },
@@ -3655,7 +3655,7 @@ export const poiExtraHu2: POI[] = [
         "Die Flora am Somló ist geprägt von wärmeliebenden Pflanzen und seltenen Felsrasenarten.",
         "Vom Gipfel aus kann man an klaren Tagen den Plattensee und die Berge des Bakony sehen."
       ],
-      hu: [],
+      hu: ["A Somló magassága 431 méter, és egy körülbelül 3-5 millió évvel ezelőtti vulkánkitörés eredménye.", "Ez Magyarország legkisebb borvidéke, mindössze 600 hektárnyi szőlőterülettel.", "A hegy tetején álló vár a 14. században épült, és fontos stratégiai pont volt a török korban.", "A bazaltorgonák és sziklaalakzatok a hegy északi oldalán a leglátványosabbak.", "Itt található a Szent István-kilátó, amelyet a magyar államalapítás 950. évfordulójára építettek.", "A terület a Balaton-felvidéki Nemzeti Park része, fokozottan védett növényekkel (pl. fekete kökörcsin).", "Híres mondás szerint a somlói Juhfark elfogyasztása fiúgyermek születését segíti elő.", "A hegy lábánál található a híres somlóvásárhelyi borászati központ."],
       ro: [],
       en: []
     }
@@ -3680,7 +3680,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Szent György-hegy (Sankt-Georgs-Berg) im Tapolca-Becken gilt unter Naturliebhabern oft als der schönste der ungarischen Zeugenberge. Seine absolute Besonderheit sind die gigantischen 'Basaltorgeln' – bis zu 30 Meter hohe, senkrechte Basaltsäulen, die durch die langsame Abkühlung von Lava entstanden sind und an überdimensionale Orgelpfeifen erinnern. Der Berg ist ein Paradies für Wanderer und Weinliebhaber gleichermaßen; an seinen Hängen wachsen einige der mineralischsten Weißweine der Balaton-Region. Die südliche Seite des Berges beherbergt wunderschöne barocke Kelterhäuser und die berühmte Lengyel-Kapelle mit ihrer strahlend gelben Fassade. Ein Wanderweg führt direkt an den Basaltsäulen vorbei zum Gipfel, von dem aus man einen unvergleichlichen Blick über den Plattensee und die benachbarten Vulkanhügel wie den Badacsony genießt.",
-      hu: "",
+      hu: "A Szent György-hegy a Balaton-felvidék egyik legszebb és leglátványosabb tanúhegye, amely a Tapolcai-medence közepén emelkedik. Világhírét a hegy északi oldalán található monumentális bazaltorgonáinak köszönheti, amelyek akár 30-40 méter magas, szabályos sokszögletű oszlopokként sorakoznak a meredek lejtőn. A hegy déli lejtői a napsütés és a bazalt talaj jótékony hatása miatt kiváló szőlőtermő vidékek, ahol a Badacsonyhoz hasonlóan tüzes fehérborok teremnek. A Szent György-hegy nemcsak geológiai látványosság, hanem spirituális és történelmi helyszín is: számos barokk kápolna (pl. Lengyel-kápolna) és népi építészeti emlék díszíti az oldalát. A csúcsról nyíló panoráma – rálátással a Balaton víztükrére és a környező tanúhegyekre – Magyarország egyik legszebb kilátása. Földrajz K6 – tanúhegyek, oszlopos bazalt kialakulása és a pannon-tenger emlékei.",
       ro: "",
       en: ""
     },
@@ -3695,7 +3695,7 @@ export const poiExtraHu2: POI[] = [
         "Vom Gipfelplateau aus bietet sich der beste Blick auf die Burgruine von Szigliget.",
         "Der Berg ist bekannt für seine hervorragenden Rieslinge und Grauburgunder."
       ],
-      hu: [],
+      hu: ["A hegy magassága 415 méter, anyaga bazalt, amely vulkáni működés során keletkezett.", "A bazaltorgonák az ország leglátványosabb kőzetoszlopai, a fagy és a szél munkája formálta őket.", "Itt található a jégbarlangnak is nevezett 'Sárkány-lik', ahol nyáron is hűvös levegő áramlik ki.", "A hegyen álló Lengyel-kápolna 1760-ban épült, és a barokk egyházi építészet remekműve.", "A terület a Balaton-felvidéki Nemzeti Park része, gazdag orchidea- és gyíkfajokban.", "A Szent György-hegy vörös kőzetéből számos helyi ház és kerítés épült a múltban.", "A hegy híres szőlőfajtája az Olaszrizling és a Szürkebarát.", "A hegy lábánál fekszik Hegymagas település, amely híres vendégszeretetéről és borpincéiről."],
       ro: [],
       en: []
     }
@@ -3720,7 +3720,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Seehöhle von Tapolca ist ein weltweit einzigartiges Naturphänomen im Herzen einer lebendigen Stadt. Das Höhlensystem wurde 1903 zufällig beim Brunnenbau entdeckt und ist Teil eines weit verzweigten unterirdischen Karstsystems. Die Besonderheit liegt in dem kristallklaren, durch Thermalquellen erwärmten Wasser, das die Gänge der Höhle füllt. Besucher können die Höhle in kleinen Ruderbooten erkunden und dabei durch die beleuchteten, engen und weiten Passagen gleiten – ein magisches Erlebnis. Über der Seehöhle befindet sich ein modernes Besucherzentrum, das die Entstehung des Höhlensystems und die Geologie des Tapolca-Beckens anschaulich erklärt. Neben dem touristischen Wert hat die Höhle auch eine medizinische Bedeutung: Die extrem reine, feuchte und allergenfreie Luft im trockenen Teil des Systems wird seit Jahrzehnten erfolgreich zur Behandlung von Atemwegserkrankungen genutzt.",
-      hu: "",
+      hu: "A Tapolcai-tavasbarlang egyedülálló természeti képződmény, amely a Balaton-felvidéken, Tapolca városa alatt húzódik. Ez az ország egyik legkülönlegesebb barlangja, ahol a látogatók csónakba szállva fedezhetik fel a mészkőbe vájt járatokat a kristálytiszta, azúr kék víz felett. A barlangot 1903-ban, kútásás közben fedezték fel véletlenül, és hamar világhírűvé vált turisztikai attrakcióként. A víz hőmérséklete állandóan 18-20 fok körüli, amit a mélyből feltörő meleg vizek és a felszíni hidegebb vizek keveredése okoz. A barlang levegője rendkívül tiszta és magas páratartalmú, ami bizonyítottan gyógyhatású a légzőszervi betegségekre – ezért a barlangrendszer egyik ága gyógybarlangként is funkcionál. A barlang felett interaktív látogatóközpont mutatja be a karsztvidékek titkait és a víz alatti világ élővilágát. Földrajz K7 – karsztjelenségek, barlangképződés és a gyógyvíz szerepe.",
       ro: "",
       en: ""
     },
@@ -3735,7 +3735,7 @@ export const poiExtraHu2: POI[] = [
         "Die Seehöhle ist seit 1942 ein geschütztes Naturdenkmal.",
         "Der See in der Höhle ist mit dem 'Mühlenteich' (Malom-tó) im Stadtzentrum von Tapolca verbunden."
       ],
-      hu: [],
+      hu: ["A barlangrendszer teljes hossza 3,3 kilométer, ebből 250 méter járható be csónakkal.", "Magyarország negyedik leghosszabb barlangrendszere, 1942 óta áll védelem alatt.", "A barlang vizét karsztforrások táplálják, mélysége helyenként a 70-100 métert is eléri.", "A barlangban él a ritka és apró barlangi vakkandics (halfaj), amely alkalmazkodott a sötéthez.", "A barlang klímája asztmás betegek számára kifejezetten ajánlott orvosi felügyelet mellett.", "A csónakázható szakasz megvilágítása különleges látványt nyújt a víz alatti sziklaformáknak.", "A tavasbarlangot 1912-ben nyitották meg a nagyközönség előtt az országban elsőként.", "A barlang feletti város, Tapolca a nevét a 'meleg víz' jelentésű szláv szóból kapta."],
       ro: [],
       en: []
     }
@@ -3760,7 +3760,7 @@ export const poiExtraHu2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Cuha-Bach im Bakony-Gebirge ist Inbegriff wildromantischer Natur und ein Favorit für Wanderer und Eisenbahnliebhaber. In einer tiefen, engen Schlucht zwischen Porva-Csesznek und Vinye hat der Bach eine spektakuläre Landschaft geschaffen. Das Besondere an diesem Ort ist das Zusammenspiel von Natur und Technik: Die Eisenbahnstrecke Győr-Veszprém führt hier durch zahlreiche Tunnel und über kühne Viadukte direkt am Bachlauf entlang und gilt als eine der schönsten Bahntrassen Europas. Der Wanderweg kreuzt den Bach mehrfach über Furtübergänge, was besonders nach Regenfällen ein kleines Abenteuer darstellt. Das Cuha-Tal ist von dichten Buchenwäldern und steilen Felswänden umgeben, die an heißen Sommertagen eine angenehme Kühle bewahren. Es ist ein Ort, an dem man die Kraft des Wassers und die Harmonie einer historischen Bahnstrecke in einer unberührten Waldlandschaft erleben kann.",
-      hu: "",
+      hu: "A Cuha-patak a Bakony hegység legvadregényesebb vízfolyása, amely mély, sziklás szurdokvölgyet vájt a mészkőbe Veszprém és Győr-Moson-Sopron vármegyék határán. A Cuha-völgy nemcsak a természetjárók kedvence a meredek sziklafalaival és a patakon átvezető gázlóival, hanem az ipari műemlékvédelem egyik ékköve is: itt halad keresztül a Győr-Veszprém vasútvonal (a Bakonyvasút) legszebb szakasza. A vasút monumentális viaduktokon és alagutakon keresztül kanyarog a szurdok oldalában, miközben a patak vize alattunk zúg a mélyben. A völgy különleges mikroklímája kedvez a ritka hegyi növényeknek és a bükkerdőknek. A túrázók számára felejthetetlen élményt nyújt a patak mentén haladó ösvény, amely többször is keresztezi a vizet, próbára téve az ügyességet. Földrajz K6 – völgyképződés, szurdokvölgyek és a közlekedési útvonalak műszaki megoldásai a hegységben.",
       ro: "",
       en: ""
     },
@@ -3775,7 +3775,7 @@ export const poiExtraHu2: POI[] = [
         "Ein Obelisk im Tal erinnert an den Bau der Eisenbahnstrecke unter schwierigen geologischen Bedingungen.",
         "Die Schlucht ist zu jeder Jahreszeit attraktiv, besonders aber während der herbstlichen Laubfärbung."
       ],
-      hu: [],
+      hu: ["A Cuha-patak a Bakonyban, Eplény környékén ered és a Rábca folyóba torkollik.", "A Cuha-völgyi vasúti szakasz 1896-ban épült, ma műemléki védelem alatt áll.", "A szurdokvölgy hossza körülbelül 4 kilométer Vinye és Porva-Csesznek között.", "A patak vízállása hóolvadáskor vagy nagy esőzéskor hirtelen megduzzadhat, ilyenkor a gázlók járhatatlanok.", "A völgyben látható a híres Gubányi Károly-viadukt, amely a vasút egyik legszebb mérnöki alkotása.", "A terület gazdag barlangokban és sziklaereszekben, mint például a Betyár-barlang.", "A Cuha-patak vize tiszta, számos vízi rovarnak és apró halfajnak ad otthont.", "A völgy mentén tanösvény és számos kiépített pihenőhely várja a bakancsos turistákat."],
       ro: [],
       en: []
     }

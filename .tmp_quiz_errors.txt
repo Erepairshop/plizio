@@ -1,0 +1,123 @@
+  [de/bbQuiz.ts :: de-bb-med-3] spot_error: option POI "hist-kloster-chorin-extra" not found
+  [de/bbQuiz.ts :: de-bb-med-3] spot_error: option POI "hist-schloss-rheinsberg-extra" not found
+  [de/bbQuiz.ts :: de-bb-med-3] spot_error: option POI "hist-filmpark-babelsberg-extra" not found
+  [de/bbQuiz.ts :: de-bb-hard-1] order_by: some POIs not found: hist-filmpark-babelsberg-extra, landmark-spreewald-kahnfahrt-extra
+  [de/bbQuiz.ts :: de-bb-hard-2] distance_guess: missing POI hist-schloss-rheinsberg-extra 
+  [de/bbQuiz.ts :: de-bb-hard-3] spot_error: option POI "landmark-spreewald-kahnfahrt-extra" not found
+  [de/bbQuiz.ts :: de-bb-hard-3] spot_error: option POI "landmark-brandenburger-dom-extra" not found
+  [de/bbQuiz.ts :: de-bb-hard-3] spot_error: option POI "agriculture-gurken-spreewald-extra" not found
+  [de/bbQuiz.ts :: de-bb-special] order_by: some POIs not found: agriculture-gurken-spreewald-extra, landmark-spreewald-kahnfahrt-extra, forest-flaeming-extra
+  [de/beQuiz.ts :: de-be-med-2] click_poi: targetPoiId "forest-grunewald-extra" not found in POI data
+  [de/beQuiz.ts :: de-be-med-3] spot_error: option POI "historical-schloss-sanssouci-berlin-extra" not found
+  [de/beQuiz.ts :: de-be-hard-1] order_by: some POIs not found: landmark-olympiastadion-berlin-extra
+  [de/beQuiz.ts :: de-be-hard-2] distance_guess: missing POI river-havel-berlin-extra 
+  [de/beQuiz.ts :: de-be-hard-3] spot_error: option POI "landmark-charlottenburg-palace-extra" not found
+  [de/bwQuiz.ts :: de-bw-med-1] distance_guess: missing POI  mnt-feldberg-bw-extra
+  [de/bwQuiz.ts :: de-bw-med-3] spot_error: option POI "landmark-hohenzollern-castle-extra" not found
+  [de/bwQuiz.ts :: de-bw-med-3] spot_error: option POI "city-freiburg-extra" not found
+  [de/bwQuiz.ts :: de-bw-hard-2] distance_guess: missing POI  forest-schwarzwald-nord-extra
+  [de/bwQuiz.ts :: de-bw-hard-3] spot_error: option POI "city-ulm-extra" not found
+  [de/bwQuiz.ts :: de-bw-hard-3] spot_error: option POI "city-tuebingen-extra" not found
+  [de/bwQuiz.ts :: de-bw-special] order_by: some POIs not found: lake-titisee-extra
+  [de/byQuiz.ts :: de-by-med-1] distance_guess: missing POI  landmark-nymphenburg-extra
+  [de/byQuiz.ts :: de-by-hard-1] order_by: some POIs not found: landmark-residenz-wuerzburg-extra
+  [de/byQuiz.ts :: de-by-hard-3] spot_error: option POI "landmark-residenz-wuerzburg-extra" not found
+  [de/hbQuiz.ts :: de-hb-med-1] distance_guess: missing POI district-altstadt-bremen-extra landmark-universum-bremen-extra
+  [de/hbQuiz.ts :: de-hb-med-2] click_poi: targetPoiId "river-weser-hb-extra" not found in POI data
+  [de/hbQuiz.ts :: de-hb-med-3] spot_error: option POI "landmark-roland-bremen-extra" not found
+  [de/hbQuiz.ts :: de-hb-med-3] spot_error: option POI "landmark-rathaus-bremen-extra" not found
+  [de/hbQuiz.ts :: de-hb-med-3] spot_error: option POI "district-boettcherstr-extra" not found
+  [de/hbQuiz.ts :: de-hb-med-3] spot_error: option POI "landmark-dom-bremen-extra" not found
+  [de/hbQuiz.ts :: de-hb-hard-1] order_by: some POIs not found: district-bremerhaven-city-extra, landmark-dom-bremen-extra, district-schnoorviertel-extra
+  [de/hbQuiz.ts :: de-hb-hard-3] spot_error: option POI "district-altstadt-bremen-extra" not found
+  [de/hbQuiz.ts :: de-hb-hard-3] spot_error: option POI "district-schnoorviertel-extra" not found
+  [de/hbQuiz.ts :: de-hb-special] order_by: some POIs not found: landmark-dom-bremen-extra
+  [de/heQuiz.ts :: de-he-med-3] spot_error: option POI "hist-bad-homburg-extra" not found
+  [de/heQuiz.ts :: de-he-med-3] spot_error: option POI "city-giessen-extra" not found
+  [de/heQuiz.ts :: de-he-med-3] spot_error: option POI "city-kassel-extra" not found
+  [de/heQuiz.ts :: de-he-med-3] spot_error: option POI "city-marburg-extra" not found
+  [de/heQuiz.ts :: de-he-hard-1] order_by: some POIs not found: hist-fulda-extra
+  [de/heQuiz.ts :: de-he-hard-2] distance_guess: missing POI  landmark-loreley-rhein-he-extra
+  [de/heQuiz.ts :: de-he-hard-3] spot_error: option POI "hist-limburg-dom-extra" not found
+  [de/heQuiz.ts :: de-he-hard-3] spot_error: option POI "hist-fulda-extra" not found
+  [de/heQuiz.ts :: de-he-special] order_by: some POIs not found: river-lahn-extra
+  [de/hhQuiz.ts :: de-hh-med-1] distance_guess: missing POI  river-alster-hh-extra
+  [de/hhQuiz.ts :: de-hh-med-3] spot_error: option POI "landmark-elbphilharmonie-hh-extra" not found
+  [de/hhQuiz.ts :: de-hh-hard-1] order_by: some POIs not found: island-neuwerk-hh-extra, city-harburg-hh-extra, landmark-miniaturwunderland-hh-extra
+  [de/hhQuiz.ts :: de-hh-hard-3] spot_error: option POI "historical-speicherstadt-hh-extra" not found
+  [de/hhQuiz.ts :: de-hh-special] order_by: some POIs not found: historical-speicherstadt-hh-extra, city-harburg-hh-extra
+  [de/mvQuiz.ts :: de-mv-med-1] distance_guess: missing POI lake-schweriner-see-extra city-neubrandenburg-extra
+  [de/mvQuiz.ts :: de-mv-med-3] spot_error: option POI "historical-kloster-eldena-extra" not found
+  [de/mvQuiz.ts :: de-mv-med-3] spot_error: option POI "historical-greifswald-extra" not found
+  [de/mvQuiz.ts :: de-mv-hard-1] order_by: some POIs not found: city-rostock-extra, animal-habitat-mv-kraniche-extra, city-stralsund-extra
+  [de/mvQuiz.ts :: de-mv-hard-2] distance_guess: missing POI lake-schweriner-see-extra 
+  [de/mvQuiz.ts :: de-mv-hard-3] spot_error: option POI "city-neubrandenburg-extra" not found
+  [de/mvQuiz.ts :: de-mv-hard-3] spot_error: option POI "city-stralsund-extra" not found
+  [de/mvQuiz.ts :: de-mv-hard-3] spot_error: option POI "lake-mueritz-extra" not found
+  [de/mvQuiz.ts :: de-mv-hard-3] spot_error: option POI "city-rostock-extra" not found
+  [de/niQuiz.ts :: de-ni-med-1] distance_guess: missing POI city-celle-extra 
+  [de/niQuiz.ts :: de-ni-med-3] spot_error: option POI "city-wolfsburg-extra" not found
+  [de/niQuiz.ts :: de-ni-med-3] spot_error: option POI "hist-hameln-extra" not found
+  [de/niQuiz.ts :: de-ni-med-3] spot_error: option POI "city-goettingen-extra" not found
+  [de/niQuiz.ts :: de-ni-hard-1] order_by: some POIs not found: city-goettingen-extra
+  [de/niQuiz.ts :: de-ni-hard-2] distance_guess: missing POI city-osnabrueck-extra hist-goslar-extra
+  [de/niQuiz.ts :: de-ni-hard-3] spot_error: option POI "hist-hameln-extra" not found
+  [de/niQuiz.ts :: de-ni-hard-3] spot_error: option POI "hist-goslar-extra" not found
+  [de/niQuiz.ts :: de-ni-special] order_by: some POIs not found: lake-steinhuder-meer-extra, landmark-wilhelmshaven-extra, river-ems-extra
+  [de/nwQuiz.ts :: de-nw-med-3] spot_error: option POI "landmark-schloss-augustusburg-extra" not found
+  [de/nwQuiz.ts :: de-nw-med-3] spot_error: option POI "city-wuppertal-extra" not found
+  [de/nwQuiz.ts :: de-nw-hard-1] order_by: some POIs not found: city-wuppertal-extra
+  [de/nwQuiz.ts :: de-nw-hard-2] distance_guess: missing POI river-wupper-extra 
+  [de/nwQuiz.ts :: de-nw-hard-3] spot_error: option POI "landmark-cologne-cathedral-dom-extra" not found
+  [de/nwQuiz.ts :: de-nw-special] order_by: some POIs not found: industry-ruhrgebiet-extra
+  [de/rpQuiz.ts :: de-rp-med-1] distance_guess: missing POI landmark-deutsches-eck-extra 
+  [de/rpQuiz.ts :: de-rp-med-3] spot_error: option POI "landmark-rheinstein-extra" not found
+  [de/rpQuiz.ts :: de-rp-med-3] spot_error: option POI "landmark-cochem-burg-extra" not found
+  [de/rpQuiz.ts :: de-rp-hard-1] order_by: some POIs not found: mnt-pfaelzerwald-extra, hist-worms-judenviertel-extra
+  [de/rpQuiz.ts :: de-rp-hard-3] spot_error: option POI "hist-trier-porta-nigra-extra" not found
+  [de/rpQuiz.ts :: de-rp-special] order_by: some POIs not found: hist-worms-judenviertel-extra, river-nahe-extra, river-mosel-rp-extra
+  [de/shQuiz.ts :: de-sh-med-1] distance_guess: missing POI port-kiel-kanal-extra city-luebeck-extra
+  [de/shQuiz.ts :: de-sh-hard-1] order_by: some POIs not found: island-sylt-extra, historical-schleswig-dom-extra
+  [de/shQuiz.ts :: de-sh-hard-2] distance_guess: missing POI landmark-nordertor-flensburg-extra river-eider-extra
+  [de/shQuiz.ts :: de-sh-hard-3] spot_error: option POI "island-foehr-extra" not found
+  [de/shQuiz.ts :: de-sh-special] order_by: some POIs not found: port-hamburg-altona-sh-extra
+  [de/slQuiz.ts :: de-sl-med-1] distance_guess: missing POI historical-voelklinger-huette-sl-extra historical-mettlach-abbey-sl-extra
+  [de/slQuiz.ts :: de-sl-med-3] spot_error: option POI "city-saarlouis-sl-extra" not found
+  [de/slQuiz.ts :: de-sl-med-3] spot_error: option POI "city-neunkirchen-sl-extra" not found
+  [de/slQuiz.ts :: de-sl-med-3] spot_error: option POI "city-homburg-sl-extra" not found
+  [de/slQuiz.ts :: de-sl-hard-1] order_by: some POIs not found: city-saarlouis-sl-extra, historical-voelklinger-huette-sl-extra
+  [de/slQuiz.ts :: de-sl-hard-2] distance_guess: missing POI lake-bostalsee-sl-extra industry-bergwerk-duhamel-sl-extra
+  [de/slQuiz.ts :: de-sl-hard-3] spot_error: option POI "city-saarlouis-sl-extra" not found
+  [de/slQuiz.ts :: de-sl-hard-3] spot_error: option POI "city-homburg-sl-extra" not found
+  [de/slQuiz.ts :: de-sl-special] order_by: some POIs not found: historical-blieskastel-sl-extra, city-neunkirchen-sl-extra, state-capital-saarbruecken-sl-extra
+  [de/snQuiz.ts :: de-sn-med-1] distance_guess: missing POI hist-meissen-extra city-freiberg-sachsen-extra
+  [de/snQuiz.ts :: de-sn-med-3] spot_error: option POI "city-freiberg-sachsen-extra" not found
+  [de/snQuiz.ts :: de-sn-med-3] spot_error: option POI "city-zwickau-extra" not found
+  [de/snQuiz.ts :: de-sn-med-3] spot_error: option POI "hist-meissen-extra" not found
+  [de/snQuiz.ts :: de-sn-hard-1] order_by: some POIs not found: city-zwickau-extra, river-elbe-sachsen-extra, city-goerlitz-extra
+  [de/snQuiz.ts :: de-sn-hard-2] distance_guess: missing POI  city-freiberg-sachsen-extra
+  [de/snQuiz.ts :: de-sn-hard-3] spot_error: option POI "hist-moritzburg-extra" not found
+  [de/snQuiz.ts :: de-sn-hard-3] spot_error: option POI "landmark-blaues-wunder-dresden-extra" not found
+  [de/snQuiz.ts :: de-sn-hard-3] spot_error: option POI "hist-zwinger-dresden-extra" not found
+  [de/snQuiz.ts :: de-sn-special] order_by: some POIs not found: hist-moritzburg-extra
+  [de/stQuiz.ts :: de-st-med-1] distance_guess: missing POI river-saale-st-extra landmark-bauhaus-dessau-extra
+  [de/stQuiz.ts :: de-st-med-3] spot_error: option POI "landmark-bauhaus-dessau-extra" not found
+  [de/stQuiz.ts :: de-st-med-3] spot_error: option POI "hist-wittenberg-stadtkirche-extra" not found
+  [de/stQuiz.ts :: de-st-med-3] spot_error: option POI "hist-naumburg-dom-extra" not found
+  [de/stQuiz.ts :: de-st-hard-1] order_by: some POIs not found: agriculture-zuckerruebe-st-extra, city-magdeburg-extra
+  [de/stQuiz.ts :: de-st-hard-2] distance_guess: missing POI landmark-quedlinburg-st-extra city-dessau-extra
+  [de/stQuiz.ts :: de-st-hard-3] spot_error: option POI "landmark-nebra-himmelsscheibe-extra" not found
+  [de/stQuiz.ts :: de-st-hard-3] spot_error: option POI "landmark-bauhaus-dessau-extra" not found
+  [de/stQuiz.ts :: de-st-hard-3] spot_error: option POI "landmark-quedlinburg-st-extra" not found
+  [de/stQuiz.ts :: de-st-special] order_by: some POIs not found: city-dessau-extra, hist-naumburg-dom-extra, city-magdeburg-extra
+  [de/thQuiz.ts :: de-th-med-1] distance_guess: missing POI  landmark-kraemerbrue-erfurt-extra
+  [de/thQuiz.ts :: de-th-med-2] click_poi: targetPoiId "mountain-grosser-beerberg-extra" not found in POI data
+  [de/thQuiz.ts :: de-th-med-3] spot_error: option POI "castle-wartburg-extra" not found
+  [de/thQuiz.ts :: de-th-med-3] spot_error: option POI "historical-buchenwald-extra" not found
+  [de/thQuiz.ts :: de-th-hard-1] order_by: some POIs not found: mountain-inselsberg-extra, mountain-grosser-beerberg-extra, landmark-kraemerbrue-erfurt-extra, river-saale-th-extra
+  [de/thQuiz.ts :: de-th-hard-3] spot_error: option POI "city-gotha-extra" not found
+  [de/thQuiz.ts :: de-th-hard-3] spot_error: option POI "city-weimar-extra" not found
+  [de/thQuiz.ts :: de-th-hard-3] spot_error: option POI "landmark-kraemerbrue-erfurt-extra" not found
+  [de/thQuiz.ts :: de-th-hard-3] spot_error: option POI "city-gera-extra" not found
+  [de/thQuiz.ts :: de-th-hard-3] spot_error: option POI "city-jena-extra" not found
+  [de/thQuiz.ts :: de-th-special] order_by: some POIs not found: city-weimar-extra, city-erfurt-extra, city-gotha-extra

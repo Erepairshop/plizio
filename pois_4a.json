@@ -1,0 +1,147 @@
+[
+  {
+    "id": "city-erfurt-extra",
+    "name_de": "Erfurt",
+    "desc_de": "Erfurt ist die Landeshauptstadt Thüringens und eine der ältesten Städte Deutschlands. Die mittelalterliche Altstadt mit dem Dom und der Krämerbrücke zieht Besucher aus aller Welt an."
+  },
+  {
+    "id": "city-weimar-extra",
+    "name_de": "Weimar",
+    "desc_de": "Weimar ist eine Kulturstadt von Weltrang in Thüringen. Hier wirkten Goethe und Schiller, das Bauhaus wurde gegründet, und die erste deutsche Demokratie – die Weimarer Republik – trägt den Namen der Stadt."
+  },
+  {
+    "id": "city-jena-extra",
+    "name_de": "Jena",
+    "desc_de": "Jena ist ein bedeutendes Wissenschafts- und Technologiezentrum in Thüringen. Die Friedrich-Schiller-Universität und Weltkonzerne wie Zeiss und Schott prägen die Stadt."
+  },
+  {
+    "id": "castle-wartburg-extra",
+    "name_de": "Wartburg",
+    "desc_de": "Die Wartburg bei Eisenach ist eine der bedeutendsten mittelalterlichen Burgen Deutschlands und UNESCO-Weltkulturerbe. Hier übersetzte Martin Luther das Neue Testament ins Deutsche."
+  },
+  {
+    "id": "mountain-grosser-beerberg-extra",
+    "name_de": "Großer Beerberg",
+    "desc_de": "Der Große Beerberg ist mit 982 Metern der höchste Gipfel des Thüringer Waldes und Thüringens. Er liegt im Kerngebiet des Rennsteig-Kamms und ist ein beliebtes Wanderziel."
+  },
+  {
+    "id": "forest-thueringer-wald-extra",
+    "name_de": "Thüringer Wald",
+    "desc_de": "Der Thüringer Wald ist das bekannteste Mittelgebirge Thüringens, berühmt für ausgedehnte Wälder, den Rennsteig-Höhenwanderweg und traditionelles Kunsthandwerk wie Glaskunst und Holzspielzeug."
+  },
+  {
+    "id": "river-saale-th-extra",
+    "name_de": "Saale",
+    "desc_de": "Die Saale ist der längste Fluss Thüringens und durchfließt die Städte Jena und Halle. Das romantische Saaletal ist bekannt für Burgen, Weinberge und Naturschutzgebiete."
+  },
+  {
+    "id": "lake-bleilochtalsperre-extra",
+    "name_de": "Bleilochtalsperre",
+    "desc_de": "Die Bleilochtalsperre ist die größte Talsperre Thüringens und Teil der Saale-Kaskade. Der Stausee liegt inmitten bewaldeter Berge und ist ein beliebtes Erholungsgebiet."
+  },
+  {
+    "id": "city-eisenach-extra",
+    "name_de": "Eisenach",
+    "desc_de": "Eisenach ist eine Stadt am Nordwestrand des Thüringer Waldes, bekannt als Geburtsort Johann Sebastian Bachs und als Ort der Wartburg, die das Stadtbild überragt."
+  },
+  {
+    "id": "historical-buchenwald-extra",
+    "name_de": "Gedenkstätte Buchenwald",
+    "desc_de": "Das Konzentrationslager Buchenwald bei Weimar war eines der größten auf deutschem Boden. Heute ist die Gedenkstätte ein wichtiger Ort des Gedenkens und der historischen Bildung."
+  },
+  {
+    "id": "city-gera-extra",
+    "name_de": "Gera",
+    "desc_de": "Gera ist die drittgrößte Stadt Thüringens und ein regionales Zentrum im Osten des Landes. Die Stadt ist bekannt als Geburtsort des Malers Otto Dix."
+  },
+  {
+    "id": "landmark-kraemerbrue-erfurt-extra",
+    "name_de": "Krämerbrücke Erfurt",
+    "desc_de": "Die Krämerbrücke in Erfurt ist Europas längste Brücke, die komplett mit Häusern bebaut und bewohnt ist. Die mittelalterliche Brücke überspannt die Gera und trägt 32 Fachwerkhäuser."
+  },
+  {
+    "id": "river-werra-th-extra",
+    "name_de": "Werra",
+    "desc_de": "Die Werra entspringt im Thüringer Schiefergebirge und fließt durch den Südwesten Thüringens. Sie vereint sich bei Hannoversch Münden mit der Fulda zur Weser."
+  },
+  {
+    "id": "city-gotha-extra",
+    "name_de": "Gotha",
+    "desc_de": "Gotha ist eine historische Stadt im Westen Thüringens mit dem prächtigen Schloss Friedenstein. Die Stadt war einst Residenzstadt der Herzöge von Sachsen-Coburg und Gotha."
+  },
+  {
+    "id": "mountain-inselsberg-extra",
+    "name_de": "Großer Inselsberg",
+    "desc_de": "Der Große Inselsberg ist ein markanter Gipfel im Thüringer Wald mit 916 Metern Höhe. Der freistehendesartige Bergrücken bietet einen weiten Panoramablick über die gesamte Region."
+  },
+  {
+    "id": "landmark-rathaus-bremen-extra",
+    "name_de": "Bremer Rathaus",
+    "desc_de": "Das Bremer Rathaus am Marktplatz ist ein herausragendes Beispiel der Weser-Renaissance und zusammen mit dem Roland seit 2004 UNESCO-Welterbe. Es ist eines der bedeutendsten Rathäuser Deutschlands."
+  },
+  {
+    "id": "landmark-roland-bremen-extra",
+    "name_de": "Bremer Roland",
+    "desc_de": "Der Bremer Roland ist eine 5,50 Meter hohe Steinfigur auf dem Marktplatz und Symbol der Stadtfreiheit Bremens. Er gilt als das älteste noch erhaltene Roland-Standbild Deutschlands."
+  },
+  {
+    "id": "port-bremerhaven-extra",
+    "name_de": "Hafen Bremerhaven",
+    "desc_de": "Der Hafen Bremerhaven ist einer der bedeutendsten Seehäfen Europas und einer der weltgrößten Automobilumschlagplätze. Er verbindet Deutschland mit den Weltmeeren."
+  },
+  {
+    "id": "river-weser-hb-extra",
+    "name_de": "Weser (Bremen)",
+    "desc_de": "Die Weser durchfließt als Hauptfluss das Stadtgebiet Bremens und verbindet die Innenstadt mit der Nordsee bei Bremerhaven. Die Weserpromenade ist das grüne Herz der Stadt."
+  },
+  {
+    "id": "district-altstadt-bremen-extra",
+    "name_de": "Bremer Altstadt",
+    "desc_de": "Die Bremer Altstadt auf der Weserinsel ist das historische Herz der Stadt. Rathaus, Roland, Dom und die verwinkelten Gassen des Schnoorviertel prägen das Bild der mittelalterlichen Hansestadt."
+  },
+  {
+    "id": "landmark-stadtmusikanten-extra",
+    "name_de": "Bremer Stadtmusikanten",
+    "desc_de": "Die Bronzestatue der Bremer Stadtmusikanten steht vor dem Rathaus und ist das bekannteste Wahrzeichen Bremens. Das Märchen der Brüder Grimm macht Esel, Hund, Katze und Hahn weltberühmt."
+  },
+  {
+    "id": "district-schnoorviertel-extra",
+    "name_de": "Schnoorviertel",
+    "desc_de": "Das Schnoorviertel ist das älteste Stadtviertel Bremens mit engen, kopfsteingepflasterten Gassen und kleinen Fachwerkhäusern aus dem 15. und 16. Jahrhundert. Es ist eines der best erhaltenen mittelalterlichen Quartiere Norddeutschlands."
+  },
+  {
+    "id": "district-bremerhaven-city-extra",
+    "name_de": "Bremerhaven",
+    "desc_de": "Bremerhaven ist die zweite Stadtgemeinde des Landes Bremen und liegt an der Wesermündung. Als wichtiger Hafen- und Fischereistandort hat die Stadt eine bewegte maritime Geschichte."
+  },
+  {
+    "id": "landmark-dom-bremen-extra",
+    "name_de": "Bremer Dom",
+    "desc_de": "Der St.-Petri-Dom in Bremen ist eine evangelische Kirche, deren Geschichte bis ins 8. Jahrhundert zurückreicht. Mit seinen zwei markanten Türmen prägt er die Silhouette der Bremer Altstadt."
+  },
+  {
+    "id": "industry-airbus-bremen-extra",
+    "name_de": "Airbus Bremen",
+    "desc_de": "Das Airbus-Werk in Bremen ist einer der wichtigsten Luft- und Raumfahrtstandorte in Deutschland. Hier werden Flügelkomponenten und Kabinensysteme für Airbus-Flugzeuge gefertigt."
+  },
+  {
+    "id": "district-boettcherstr-extra",
+    "name_de": "Böttcherstraße",
+    "desc_de": "Die Böttcherstraße in der Bremer Altstadt ist ein einzigartiges Ensemble expressionistischer Architektur, das der Kaufmann Ludwig Roselius in den 1920er Jahren erbauen ließ."
+  },
+  {
+    "id": "port-container-bremerhaven-extra",
+    "name_de": "Containerterminal Bremerhaven",
+    "desc_de": "Der Containerterminal Bremerhaven gehört zu den größten und modernsten Containerhäfen Europas. Riesige Containerbrücken und automatisierte Systeme ermöglichen den Umschlag von Millionen Containern jährlich."
+  },
+  {
+    "id": "landmark-universum-bremen-extra",
+    "name_de": "Universum® Bremen",
+    "desc_de": "Das Universum® Bremen ist ein Science-Center in der Form eines riesigen Wals. Es bietet interaktive Ausstellungen zu Natur, Mensch und Technik für Groß und Klein."
+  },
+  {
+    "id": "district-viertel-bremen-extra",
+    "name_de": "Das Viertel Bremen",
+    "desc_de": "Das Viertel ist Bremens lebendigstes Stadtquartier rund um die Ostertorsteinweg. Es ist bekannt für seine Vielfalt an Cafés, Kneipen, Geschäften, Galerien und einem weltoffenen Flair."
+  }
+]

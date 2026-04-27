@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Budapest",
+    "country": "Magyarország",
+    "lat": 47.49791,
+    "lon": 19.04023,
+    "founded_year": 1873,
+    "fun_fact": {
+      "de": "Budapest entstand 1873 durch den Zusammenschluss von Pest, Buda und Óbuda.",
+      "hu": "Budapest 1873-ban jött létre Pest, Buda és Óbuda egyesítésével.",
+      "ro": "Budapesta a fost creată în 1873 prin fuziunea orașelor Pest, Buda și Óbuda.",
+      "en": "Budapest was created in 1873 by the merger of Pest, Buda, and Óbuda."
+    }
+  },
+  {
+    "name": "Stockholm",
+    "country": "Svédország",
+    "lat": 59.32932,
+    "lon": 18.06858,
+    "founded_year": 1252,
+    "fun_fact": {
+      "de": "Die Stadt ist auf 14 Inseln erbaut, die durch über 50 Brücken verbunden sind.",
+      "hu": "A város 14 szigetre épült, amelyeket több mint 50 híd köt össze.",
+      "ro": "Orașul este construit pe 14 insule, conectate prin peste 50 de poduri.",
+      "en": "The city is built on 14 islands, connected by over 50 bridges."
+    }
+  },
+  {
+    "name": "Αθήνα",
+    "country": "Görögország",
+    "lat": 37.98381,
+    "lon": 23.72754,
+    "founded_year": -3000,
+    "fun_fact": {
+      "de": "Athen ist eine der ältesten ununterbrochen bewohnten Städte der Welt.",
+      "hu": "Athén a világ egyik legrégebbi, folyamatosan lakott városa.",
+      "ro": "Atena este una dintre cele mai vechi orașe locuite continuu din lume.",
+      "en": "Athens is one of the world's oldest continuously inhabited cities."
+    }
+  },
+  {
+    "name": "Roma",
+    "country": "Olaszország",
+    "lat": 41.90278,
+    "lon": 12.49637,
+    "founded_year": -753,
+    "fun_fact": {
+      "de": "Innerhalb der Stadtgrenzen von Rom befindet sich ein unabhängiger Staat, der Vatikan.",
+      "hu": "Róma városán belül található egy független állam, a Vatikán.",
+      "ro": "În interiorul orașului Roma se află un stat independent, Vaticanul.",
+      "en": "Within the city limits of Rome lies an independent state, the Vatican."
+    }
+  },
+  {
+    "name": "Warszawa",
+    "country": "Lengyelország",
+    "lat": 52.22968,
+    "lon": 21.01223,
+    "founded_year": 1300,
+    "fun_fact": {
+      "de": "Die Altstadt von Warschau wurde nach dem Zweiten Weltkrieg originalgetreu rekonstruiert.",
+      "hu": "Varsó óvárosát a második világháború után az eredeti állapotának megfelelően építették újjá.",
+      "ro": "Orașul vechi din Varșovia a fost reconstruit fidel după al Doilea Război Mondial.",
+      "en": "The Old Town of Warsaw was meticulously reconstructed after World War II."
+    }
+  }
+]

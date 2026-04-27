@@ -1,0 +1,72 @@
+[
+  {
+    "id": "city-nehoiu-extra",
+    "name_ro": "Nehoiu",
+    "desc_ro": "Ora\u0219 \u00een Valea Buz\u0103ului."
+  },
+  {
+    "id": "city-pogoanele-extra",
+    "name_ro": "Pogoanele",
+    "desc_ro": "Ora\u0219 din B\u0103r\u0103gan."
+  },
+  {
+    "id": "city-resita-extra",
+    "name_ro": "Re\u0219i\u021ba",
+    "desc_ro": "Centru industrial din Banat."
+  },
+  {
+    "id": "city-caransebes-extra",
+    "name_ro": "Caransebe\u0219",
+    "desc_ro": "Centru religios."
+  },
+  {
+    "id": "city-oravita-extra",
+    "name_ro": "Oravi\u021ba",
+    "desc_ro": "Ora\u0219ul primei c\u0103i ferate montane."
+  },
+  {
+    "id": "city-calarasi-extra",
+    "name_ro": "C\u0103l\u0103ra\u0219i",
+    "desc_ro": "Ora\u0219 portuar la Dun\u0103re."
+  },
+  {
+    "id": "city-oltenita-extra",
+    "name_ro": "Olteni\u021ba",
+    "desc_ro": "Port la Dun\u0103re."
+  },
+  {
+    "id": "city-lehliu-gara-extra",
+    "name_ro": "Lehliu Gar\u0103",
+    "desc_ro": "Nod de transport."
+  },
+  {
+    "id": "city-turda-extra",
+    "name_ro": "Turda",
+    "desc_ro": "Faimos pentru salin\u0103."
+  },
+  {
+    "id": "city-dej-extra",
+    "name_ro": "Dej",
+    "desc_ro": "Ora\u0219 istoric."
+  },
+  {
+    "id": "city-campia-turzii-extra",
+    "name_ro": "C\u00e2mpia Turzii",
+    "desc_ro": "Centru industrial."
+  },
+  {
+    "id": "city-mangalia-extra",
+    "name_ro": "Mangalia",
+    "desc_ro": "Sta\u021biune la mare."
+  },
+  {
+    "id": "city-medgidia-extra",
+    "name_ro": "Medgidia",
+    "desc_ro": "Ora\u0219 la canal."
+  },
+  {
+    "id": "city-navodari-extra",
+    "name_ro": "N\u0103vodari",
+    "desc_ro": "Centru de rafinare."
+  }
+]

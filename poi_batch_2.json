@@ -1,0 +1,873 @@
+
+[
+  {
+    "id": "city-aachen",
+    "faq": {
+      "de": [
+        {"q": "Wer ist der bekannteste Herrscher Aachens?", "a": "Kaiser Karl der Gro\u00dfe machte Aachen zu seiner Residenz."},
+        {"q": "Welche Besonderheit hat der Aachener Dom?", "a": "Er war das erste deutsche UNESCO-Welterbe (1978)."},
+        {"q": "Was sind Aachener Printen?", "a": "Eine spezielle Art von Lebkuchen, die nur in Aachen hergestellt werden darf."},
+        {"q": "Warum ist Aachen als Kurort bekannt?", "a": "Wegen seiner hei\u00dfen, schwefelhaltigen Thermalquellen."}
+      ],
+      "hu": [
+        {"q": "Ki Aachen legh\u00edresebb uralkod\u00f3ja?", "a": "Nagy K\u00e1roly cs\u00e1sz\u00e1r, aki itt rendezte be sz\u00e9khely\u00e9t."},
+        {"q": "Mi az Aacheni D\u00f3m k\u00fcl\u00f6nlegess\u00e9ge?", "a": "Ez volt az els\u0151 n\u00e9metorsz\u00e1gi helysz\u00edn az UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9gi list\u00e1n."},
+        {"q": "Mik azok az aacheni Print\u00e9k?", "a": "Egy speci\u00e1lis m\u00e9zeskal\u00e1cs-fajta, amelyet csak Aachenben gy\u00e1rthatnak."},
+        {"q": "Mi\u00e9rt ismert f\u00fcrd\u0151v\u00e1rosk\u00e9nt Aachen?", "a": "Forr\u00f3, k\u00e9ntartalm\u00fa term\u00e1lforr\u00e1sai miatt."}
+      ],
+      "ro": [
+        {"q": "Cine este cel mai cunoscut conduc\u0103tor al Aachenului?", "a": "\u00cemp\u0103ratul Carol cel Mare a f\u0103cut din Aachen re\u0219edin\u021ba sa."},
+        {"q": "Ce este special la Catedrala din Aachen?", "a": "A fost primul sit UNESCO din Germania (1978)."},
+        {"q": "Ce sunt Aachener Printen?", "a": "Un tip special de turt\u0103 dulce care poate fi produs doar \u00een Aachen."},
+        {"q": "De ce este Aachen cunoscut ca sta\u021biune balnear\u0103?", "a": "Datorit\u0103 izvoarelor sale termale fierbin\u021bi, bogate \u00een sulf."}
+      ],
+      "en": [
+        {"q": "Who is the most famous ruler of Aachen?", "a": "Emperor Charlemagne made Aachen his residence."},
+        {"q": "What is special about Aachen Cathedral?", "a": "It was the first German UNESCO World Heritage site (1978)."},
+        {"q": "What are Aachener Printen?", "a": "A special type of gingerbread that may only be produced in Aachen."},
+        {"q": "Why is Aachen known as a spa town?", "a": "Because of its hot, sulfurous thermal springs."}
+      ]
+    }
+  },
+  {
+    "id": "city-braunschweig",
+    "faq": {
+      "de": [
+        {"q": "Wer war Heinrich der L\u00f6we?", "a": "Ein m\u00e4chtiger Herzog, der Braunschweig im 12. Jahrhundert zur Residenz ausbaute."},
+        {"q": "Was ist das Symbol von Braunschweig?", "a": "Der Braunschweiger L\u00f6we, eine Bronzestatue auf dem Burgplatz."},
+        {"q": "Ist Braunschweig eine Forschungsstadt?", "a": "Ja, sie gilt als eine der forschungsintensivsten Regionen in Europa."},
+        {"q": "Welche Rolle spielte die Hanse f\u00fcr die Stadt?", "a": "Braunschweig war ein bedeutendes und einflussreiches Mitglied der Hanse."}
+      ],
+      "hu": [
+        {"q": "Ki volt Oroszl\u00e1n Henrik?", "a": "Egy hatalmas herceg, aki a 12. sz\u00e1zadban Braunschweiget rezidenci\u00e1j\u00e1v\u00e1 tette."},
+        {"q": "Mi Braunschweig jelk\u00e9pe?", "a": "A braunschweigi oroszl\u00e1n, egy bronzszobor a Burgplatzon."},
+        {"q": "Kutat\u00f3v\u00e1rosnak sz\u00e1m\u00edt Braunschweig?", "a": "Igen, Eur\u00f3pa egyik legintenz\u00edvebb kutat\u00f3i r\u00e9gi\u00f3jak\u00e9nt ismert."},
+        {"q": "Milyen szerepet j\u00e1tszott a Hanza a v\u00e1ros \u00e9let\u00e9ben?", "a": "Braunschweig a Hanza-sz\u00f6vets\u00e9g egyik jelent\u0151s \u00e9s befoly\u00e1sos tagja volt."}
+      ],
+      "ro": [
+        {"q": "Cine a fost Henric Leul?", "a": "Un duce puternic care a transformat Braunschweig \u00een re\u0219edin\u021ba sa \u00een secolul al XII-lea."},
+        {"q": "Care este simbolul ora\u0219ului Braunschweig?", "a": "Leul din Braunschweig, o statuie de bronz \u00een Burgplatz."},
+        {"q": "Este Braunschweig un ora\u0219 al cercet\u0103rii?", "a": "Da, este considerat\u0103 una dintre cele mai intensive regiuni de cercetare din Europa."},
+        {"q": "Ce rol a jucat Liga Hanseatic\u0103 pentru ora\u0219?", "a": "Braunschweig a fost un membru important \u0219i influent al Ligii Hanseatice."}
+      ],
+      "en": [
+        {"q": "Who was Henry the Lion?", "a": "A powerful duke who developed Braunschweig into his residence in the 12th century."},
+        {"q": "What is the symbol of Braunschweig?", "a": "The Brunswick Lion, a bronze statue on the Burgplatz."},
+        {"q": "Is Braunschweig a research city?", "a": "Yes, it is considered one of the most research-intensive regions in Europe."},
+        {"q": "What role did the Hanseatic League play for the city?", "a": "Braunschweig was a significant and influential member of the Hanseatic League."}
+      ]
+    }
+  },
+  {
+    "id": "city-bonn",
+    "faq": {
+      "de": [
+        {"q": "War Bonn jemals Hauptstadt?", "a": "Ja, von 1949 bis 1990 war Bonn die Hauptstadt der Bundesrepublik Deutschland."},
+        {"q": "Wer ist der bekannteste Komponist aus Bonn?", "a": "Ludwig van Beethoven wurde 1770 in Bonn geboren."},
+        {"q": "Welche internationale Organisation sitzt heute in Bonn?", "a": "Die Vereinten Nationen (UN) haben einen gro\u00dfen Standort in Bonn."},
+        {"q": "An welchem Fluss liegt die Stadt?", "a": "Bonn liegt direkt am Rhein."}
+      ],
+      "hu": [
+        {"q": "Volt Bonn valaha f\u0151v\u00e1ros?", "a": "Igen, 1949 \u00e9s 1990 k\u00f6z\u00f6tt Bonn volt a N\u00e9met Sz\u00f6vets\u00e9gi K\u00f6zt\u00e1rsas\u00e1g f\u0151v\u00e1rosa."},
+        {"q": "Ki a legh\u00edresebb bonni zeneszerz\u0151?", "a": "Ludwig van Beethoven 1770-ben sz\u00fcletett Bonnban."},
+        {"q": "Melyik nemzetk\u00f6zi szervezet sz\u00e9khelye van ma Bonnban?", "a": "Az Egyes\u00fclt Nemzetek Szervezet\u00e9nek (ENSZ) jelent\u0151s r\u00e9szlege van itt."},
+        {"q": "Melyik foly\u00f3 partj\u00e1n fekszik a v\u00e1ros?", "a": "Bonn k\u00f6zvetlen\u00fcl a Rajna partj\u00e1n ter\u00fcl el."}
+      ],
+      "ro": [
+        {"q": "A fost Bonn vreodat\u0103 capital\u0103?", "a": "Da, \u00eentre 1949 \u0219i 1990 Bonn a fost capitala Republicii Federale Germania."},
+        {"q": "Cine este cel mai faimos compozitor din Bonn?", "a": "Ludwig van Beethoven s-a n\u0103scut la Bonn \u00een 1770."},
+        {"q": "Ce organiza\u021bie interna\u021bional\u0103 are sediul ast\u0103zi la Bonn?", "a": "Organiza\u021bia Na\u021biunilor Unite (ONU) are un sediu major \u00een Bonn."},
+        {"q": "Pe ce r\u00e2u se afl\u0103 ora\u0219ul?", "a": "Bonn este situat direct pe malul Rinului."}
+      ],
+      "en": [
+        {"q": "Was Bonn ever the capital?", "a": "Yes, from 1949 to 1990 Bonn was the capital of the Federal Republic of Germany."},
+        {"q": "Who is the most famous composer from Bonn?", "a": "Ludwig van Beethoven was born in Bonn in 1770."},
+        {"q": "Which international organization is based in Bonn today?", "a": "The United Nations (UN) has a major location in Bonn."},
+        {"q": "On which river is the city located?", "a": "Bonn is located directly on the Rhine."}
+      ]
+    }
+  },
+  {
+    "id": "city-goettingen",
+    "faq": {
+      "de": [
+        {"q": "Was ist das G\u00e4nseliesel?", "a": "Ein Brunnenm\u00e4dchen in G\u00f6ttingen, das traditionell von neuen Doktoren gek\u00fcsst wird."},
+        {"q": "Warum ist G\u00f6ttingen als Gelehrtenstadt bekannt?", "a": "Wegen der \u00fcber 40 Nobelpreistr\u00e4ger, die mit der Stadt verbunden sind."},
+        {"q": "Wann wurde die Universit\u00e4t G\u00f6ttingen gegr\u00fcndet?", "a": "Die Georg-August-Universit\u00e4t wurde 1737 gegr\u00fcndet."},
+        {"q": "Was umschlie\u00df die G\u00f6ttinger Altstadt?", "a": "Eine historische, heute park\u00e4hnliche Wallanlage."}
+      ],
+      "hu": [
+        {"q": "Mi az a G\u00e4nseliesel?", "a": "Egy k\u00fatfigura G\u00f6ttingenben, amelyet a hagyom\u00e1ny szerint az \u00faj doktorok megcs\u00f3kolnak."},
+        {"q": "Mi\u00e9rt ismert G\u00f6ttingen a tud\u00f3sok v\u00e1rosak\u00e9nt?", "a": "A v\u00e1roshoz k\u00f6thet\u0151 t\u00f6bb mint 40 Nobel-d\u00edjas miatt."},
+        {"q": "Mikor alap\u00edtott\u00e1k a G\u00f6ttingeni Egyetemet?", "a": "A Georg-August Egyetemet 1737-ben alap\u00edtott\u00e1k."},
+        {"q": "Mi veszi k\u00f6r\u00fcl G\u00f6ttingen \u00f3v\u00e1ros\u00e1t?", "a": "Egy t\u00f6rt\u00e9nelmi, ma parkk\u00e9nt szolg\u00e1l\u00f3 s\u00e1ncrendszer."}
+      ],
+      "ro": [
+        {"q": "Ce este G\u00e4nseliesel?", "a": "O figur\u0103 de f\u00e2nt\u00e2n\u0103 din G\u00f6ttingen, s\u0103rutat\u0103 tradi\u021bional de noii doctori \u00een \u0219tiin\u021be."},
+        {"q": "De ce este G\u00e4nseliesel cunoscut ca ora\u0219 al \u00eenv\u0103\u021ba\u021bilor?", "a": "Datorit\u0103 celor peste 40 de laurea\u021bi Nobel lega\u021bi de acest ora\u0219."},
+        {"q": "C\u00e2nd a fost fondat\u0103 Universitatea din G\u00f6ttingen?", "a": "Universitatea Georg-August a fost fondat\u0103 \u00een 1737."},
+        {"q": "Ce \u00eenconjoar\u0103 centrul vechi din G\u00f6ttingen?", "a": "Un sistem istoric de fortifica\u021bii tip val, ast\u0103zi transformat \u00een parc."}
+      ],
+      "en": [
+        {"q": "What is the Gänseliesel?", "a": "A fountain girl in Göttingen, traditionally kissed by new doctoral graduates."},
+        {"q": "Why is Göttingen known as a city of scholars?", "a": "Because of the more than 40 Nobel laureates associated with the city."},
+        {"q": "When was Göttingen University founded?", "a": "The Georg August University was founded in 1737."},
+        {"q": "What encloses the old town of Göttingen?", "a": "A historical, now park-like rampart system."}
+      ]
+    }
+  },
+  {
+    "id": "city-bayreuth",
+    "faq": {
+      "de": [
+        {"q": "Wof\u00fcr ist Bayreuth weltweit ber\u00fchmt?", "a": "F\u00fcr die j\u00e4hrlichen Richard-Wagner-Festspiele."},
+        {"q": "Was ist das Markgr\u00e4fliche Opernhaus?", "a": "Ein UNESCO-Welterbe und eines der sch\u00f6nsten Barocktheater Europas."},
+        {"q": "Wer war Markgr\u00e4fin Wilhelmine?", "a": "Eine preu\u00dfische Prinzessin, die Bayreuth im 18. Jh. kulturell pr\u00e4gte."},
+        {"q": "Wo befindet sich das Grab von Richard Wagner?", "a": "Im Garten seines ehemaligen Wohnhauses, der Villa Wahnfried."}
+      ],
+      "hu": [
+        {"q": "Mir\u0151l h\u00edres Bayreuth vil\u00e1gszerte?", "a": "Az \u00e9vente megrendezett Richard Wagner \u00dcnnepi J\u00e1t\u00e9kokr\u00f3l."},
+        {"q": "Mi az az \u0150rgr\u00f3fi Operah\u00e1z?", "a": "UNESCO-vil\u00e1g\u00f6r\u00f6ks\u00e9g \u00e9s Eur\u00f3pa egyik legszebb barokk sz\u00ednh\u00e1za."},
+        {"q": "Ki volt Wilhelmine \u0151rgr\u00f3fn\u00e9?", "a": "Egy porosz hercegn\u0151, aki a 18. sz\u00e1zadban vir\u00e1goztatta fel Bayreuth kult\u00far\u00e1j\u00e1t."},
+        {"q": "Hol tal\u00e1lhat\u00f3 Richard Wagner s\u00edrja?", "a": "Egykori lak\u00f3h\u00e1za, a Villa Wahnfried kertj\u00e9ben."}
+      ],
+      "ro": [
+        {"q": "Pentru ce este faimos Bayreuth \u00een lume?", "a": "Pentru Festivalul anual Richard Wagner."},
+        {"q": "Ce este Opera Margravial\u0103?", "a": "Un sit UNESCO \u0219i unul dintre cele mai frumoase teatre baroce din Europa."},
+        {"q": "Cine a fost margrafa Wilhelmine?", "a": "O prin\u021bes\u0103 prusac\u0103 care a marcat cultura Bayreuth-ului \u00een sec. XVIII."},
+        {"q": "Unde se afl\u0103 morm\u00e2ntul lui Richard Wagner?", "a": "\u00cen gr\u0103dina fostei sale case, Villa Wahnfried."}
+      ],
+      "en": [
+        {"q": "What is Bayreuth world-famous for?", "a": "For the annual Richard Wagner Festival."},
+        {"q": "What is the Margravial Opera House?", "a": "A UNESCO World Heritage site and one of Europe's most beautiful baroque theaters."},
+        {"q": "Who was Margravine Wilhelmine?", "a": "A Prussian princess who shaped Bayreuth culturally in the 18th century."},
+        {"q": "Where is Richard Wagner's grave located?", "a": "In the garden of his former home, Villa Wahnfried."}
+      ]
+    }
+  },
+  {
+    "id": "city-jena",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Wahrzeichen von Jena?", "a": "Der Jentower, ein markanter runder B\u00fcroturm."},
+        {"q": "Welche Industriezweige sind typisch f\u00fcr Jena?", "a": "Optik (Zeiss) und Glasherstellung (Schott)."},
+        {"q": "Was ist das Zeiss-Planetarium?", "a": "Das \u00e4lteste noch betriebsf\u00e4hige Planetarium der Welt."},
+        {"q": "Welcher Dichter lehrte an der Universit\u00e4t Jena?", "a": "Friedrich Schiller war hier Professor f\u00fcr Geschichte."}
+      ],
+      "hu": [
+        {"q": "Mi J\u00e9na legismertebb jelk\u00e9pe?", "a": "A Jentower, egy jellegzetes kerek irodah\u00e1z."},
+        {"q": "Mely ipar\u00e1gak jellemz\u0151ek J\u00e9n\u00e1ra?", "a": "Az optika (Zeiss) \u00e9s az \u00fcveggy\u00e1rt\u00e1s (Schott)."},
+        {"q": "Mi az a Zeiss-Planet\u00e1rium?", "a": "A vil\u00e1g legr\u00e9gebbi, ma is m\u0171k\u00f6d\u0151 planet\u00e1riuma."},
+        {"q": "Melyik k\u00f6lt\u0151 tan\u00edtott a J\u00e9nai Egyetemen?", "a": "Friedrich Schiller a t\u00f6rt\u00e9nelem professzora volt itt."}
+      ],
+      "ro": [
+        {"q": "Care este simbolul ora\u0219ului Jena?", "a": "Jentower, un turn de birouri rotund \u0219i proeminent."},
+        {"q": "Ce ramuri industriale sunt tipice pentru Jena?", "a": "Optica (Zeiss) \u0219i fabricarea sticlei (Schott)."},
+        {"q": "Ce este Planetariul Zeiss?", "a": "Cel mai vechi planetariu \u00eenc\u0103 \u00een func\u021biune din lume."},
+        {"q": "Ce poet a predat la Universitatea din Jena?", "a": "Friedrich Schiller a fost profesor de istorie aici."}
+      ],
+      "en": [
+        {"q": "What is the landmark of Jena?", "a": "The Jentower, a prominent round office tower."},
+        {"q": "Which industries are typical for Jena?", "a": "Optics (Zeiss) and glass manufacturing (Schott)."},
+        {"q": "What is the Zeiss Planetarium?", "a": "The oldest still operational planetarium in the world."},
+        {"q": "Which poet taught at the University of Jena?", "a": "Friedrich Schiller was a professor of history here."}
+      ]
+    }
+  },
+  {
+    "id": "city-duisburg",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Besondere am Duisburger Hafen?", "a": "Er ist der gr\u00f6\u00dftes Binnenhafen der Welt."},
+        {"q": "Was ist der Landschaftspark Duisburg-Nord?", "a": "Ein stillgelegtes H\u00fcttenwerk, das heute ein Freizeitpark ist."},
+        {"q": "An welchen Fl\u00fcssen liegt Duisburg?", "a": "An der M\u00fcndung der Ruhr in den Rhein."},
+        {"q": "Warum war Duisburg f\u00fcr die Industrie so wichtig?", "a": "Wegen der zentralen Lage f\u00fcr Stahlproduktion und Logistik."}
+      ],
+      "hu": [
+        {"q": "Mi a k\u00fcl\u00f6nlegess\u00e9ge a duisburgi kik\u00f6t\u0151nek?", "a": "Ez a vil\u00e1g legnagyobb folyami kik\u00f6t\u0151je."},
+        {"q": "Mi az a Duisburg-Nord T\u00e1jpark?", "a": "Egy le\u00e1ll\u00edtott vaskoh\u00f3, amely ma szabadid\u0151s parkk\u00e9nt m\u0171k\u00f6dik."},
+        {"q": "Melyik foly\u00f3k ment\u00e9n fekszik Duisburg?", "a": "A Ruhr foly\u00f3 Rajn\u00e1ba val\u00f3 torkolat\u00e1n\u00e1l."},
+        {"q": "Mi\u00e9rt volt Duisburg olyan fontos az ipar sz\u00e1m\u00e1ra?", "a": "K\u00f6zponti fekv\u00e9se miatt az ac\u00e9lgy\u00e1rt\u00e1s \u00e9s logisztika ter\u00e9n."}
+      ],
+      "ro": [
+        {"q": "Ce este special la portul din Duisburg?", "a": "Este cel mai mare port fluvial din lume."},
+        {"q": "Ce este Parcul Peisagistic Duisburg-Nord?", "a": "O fost\u0103 o\u021bel\u0103rie transformat\u0103 ast\u0103zi \u00eentr-un parc de agrement."},
+        {"q": "La ce r\u00e2uri este situat Duisburg?", "a": "La confluen\u021ba r\u00e2ului Ruhr cu Rinul."},
+        {"q": "De ce a fost Duisburg at\u00e2t de important pentru industrie?", "a": "Datorit\u0103 loca\u021biei centrale pentru produc\u021bia de o\u021bel \u0219i logistic\u0103."}
+      ],
+      "en": [
+        {"q": "What is special about the Port of Duisburg?", "a": "It is the world's largest inland port."},
+        {"q": "What is the Landschaftspark Duisburg-Nord?", "a": "A decommissioned ironworks that is now a recreational park."},
+        {"q": "On which rivers is Duisburg located?", "a": "At the mouth of the Ruhr where it joins the Rhine."},
+        {"q": "Why was Duisburg so important for industry?", "a": "Because of its central location for steel production and logistics."}
+      ]
+    }
+  },
+  {
+    "id": "city-oberhausen",
+    "faq": {
+      "de": [
+        {"q": "Was ist das CentrO?", "a": "Eines der gr\u00f6\u00dften Einkaufs- und Freizeitzentren Europas."},
+        {"q": "Was kann man im Gasometer sehen?", "a": "Es ist eine spektakul\u00e4re Ausstellungshalle in einem alten Gasspeicher."},
+        {"q": "Wie hoch ist der Gasometer?", "a": "Er ist 117 Meter hoch und bietet einen tollen Ausblick."},
+        {"q": "Was symbolisiert Oberhausen heute?", "a": "Den erfolgreichen Wandel von der Schwerindustrie zum Tourismus."}
+      ],
+      "hu": [
+        {"q": "Mi az a CentrO?", "a": "Eur\u00f3pa egyik legnagyobb bev\u00e1s\u00e1rl\u00f3- \u00e9s sz\u00f3rakoztat\u00f3 k\u00f6zpontja."},
+        {"q": "Mit lehet l\u00e1tni a Gasometerben?", "a": "Ez egy l\u00e1tv\u00e1nyos ki\u00e1ll\u00edt\u00f3csarnok egy r\u00e9gi g\u00e1ztart\u00e1lyban."},
+        {"q": "Milyen magas a Gasometer?", "a": "117 m\u00e9ter magas, \u00e9s remek kil\u00e1t\u00e1st ny\u00fajt."},
+        {"q": "Mit szimboliz\u00e1l ma Oberhausen?", "a": "A sikeres \u00e1tmenetet a neh\u00e9ziparb\u00f3l a turizmusba."}
+      ],
+      "ro": [
+        {"q": "Ce este CentrO?", "a": "Unul dintre cele mai mari centre comerciale \u0219i de agrement din Europa."},
+        {"q": "Ce se poate vedea la Gasometer?", "a": "Este o sal\u0103 de expozi\u021bii spectaculoas\u0103 \u00eintr-un fost rezervor de gaz."},
+        {"q": "C\u00e2t de \u00eenalt este Gasometer?", "a": "Are 117 metri \u00een\u0103l\u021bime \u0219i ofer\u0103 o vedere panoramic\u0103 excelent\u0103."},
+        {"q": "Ce simbolizeaz\u0103 Oberhausen ast\u0103zi?", "a": "Transformarea de succes de la industria grea la turism."}
+      ],
+      "en": [
+        {"q": "What is the CentrO?", "a": "One of the largest shopping and leisure centers in Europe."},
+        {"q": "What can you see in the Gasometer?", "a": "It is a spectacular exhibition hall inside an old gas holder."},
+        {"q": "How high is the Gasometer?", "a": "It is 117 meters high and offers a great view."},
+        {"q": "What does Oberhausen symbolize today?", "a": "The successful transition from heavy industry to tourism."}
+      ]
+    }
+  },
+  {
+    "id": "city-gelsenkirchen",
+    "faq": {
+      "de": [
+        {"q": "Welcher Fu\u00dfballverein ist hier zu Hause?", "a": "Der FC Schalke 04 hat hier seinen Sitz."},
+        {"q": "Was ist die Veltins-Arena?", "a": "Ein hochmodernes Stadion mit ausfahrbarem Rasen und Dach."},
+        {"q": "Warum hie\u00df die Stadt '1000 Feuer'?", "a": "Wegen der vielen Flammen der Kokereien im Bergbauzeitalter."},
+        {"q": "Was ist der Nordsternpark?", "a": "Ein gro\u00dfes Parkgel\u00e4nde auf einer ehemaligen Zeche."}
+      ],
+      "hu": [
+        {"q": "Melyik futballcsapat otthona a v\u00e1ros?", "a": "Az FC Schalke 04 sz\u00e9khelye van itt."},
+        {"q": "Mi az a Veltins-Arena?", "a": "Egy ultramodern stadion kih\u00fazhat\u00f3 gyepsz\u0151nyeggel \u00e9s tet\u0151vel."},
+        {"q": "Mi\u00e9rt h\u00edvt\u00e1k a v\u00e1rost az '1000 t\u0171z v\u00e1ros\u00e1nak'?", "a": "A b\u00e1ny\u00e1szat idej\u00e9n a kokszol\u00f3k sz\u00e1mtalan l\u00e1ngja miatt."},
+        {"q": "Mi az a Nordsternpark?", "a": "Egy nagy park egy egykori sz\u00e9nb\u00e1nya ter\u00fclet\u00e9n."}
+      ],
+      "ro": [
+        {"q": "Ce echip\u0103 de fotbal are sediul aici?", "a": "Clubul FC Schalke 04 are sediul \u00een Gelsenkirchen."},
+        {"q": "Ce este Veltins-Arena?", "a": "Un stadion ultramodern cu gazon \u0219i acoperi\u0219 retractabile."},
+        {"q": "De ce era numit ora\u0219ul 'cele 1000 de focuri'?", "a": "Datorit\u0103 numeroaselor fl\u0103c\u0103ri ale cocseriilor din era minier\u0103."},
+        {"q": "Ce este Parcul Nordstern?", "a": "O zon\u0103 mare de parc pe amplasamentul unei foste mine."}
+      ],
+      "en": [
+        {"q": "Which football club is based here?", "a": "FC Schalke 04 is based here."},
+        {"q": "What is the Veltins-Arena?", "a": "A state-of-the-art stadium with a retractable pitch and roof."},
+        {"q": "Why was the city called '1,000 Fires'?", "a": "Because of the many flames from the coking plants in the mining era."},
+        {"q": "What is the Nordsternpark?", "a": "A large park area on the site of a former coal mine."}
+      ]
+    }
+  },
+  {
+    "id": "city-bochum",
+    "faq": {
+      "de": [
+        {"q": "Was ist das Deutsche Bergbau-Museum?", "a": "Das weltweit gr\u00f6\u00dfte Museum f\u00fcr Bergbaugeschichte."},
+        {"q": "Welches Musical l\u00e4uft seit Jahrzehnten in Bochum?", "a": "Starlight Express wird hier seit 1988 aufgef\u00fchrt."},
+        {"q": "Was ist das Bermuda3Eck?", "a": "Ein weit bekanntes Kneipen- und Ausgehviertel in Bochum."},
+        {"q": "An welcher Universit\u00e4t studieren die meisten Menschen?", "a": "An der Ruhr-Universit\u00e4t Bochum (RUB)."}
+      ],
+      "hu": [
+        {"q": "Mi az a N\u00e9met B\u00e1ny\u00e1szati M\u00fazeum?", "a": "A vil\u00e1g legnagyobb b\u00e1ny\u00e1szatt\u00f6rt\u00e9neti m\u00fazeuma."},
+        {"q": "Melyik musical fut \u00e9vtizedek \u00f3ta Bochumban?", "a": "A Starlight Express-t 1988 \u00f3ta j\u00e1tssz\u00e1k itt."},
+        {"q": "Mi az a Bermuda3Eck?", "a": "Bochum sz\u00e9les k\u00f6rben ismert kocsma- \u00e9s sz\u00f3rakoz\u00f3negyede."},
+        {"q": "Melyik egyetemen tanul a legt\u00f6bb di\u00e1k?", "a": "A bochumi Ruhr-Egyetemen (RUB)."}
+      ],
+      "ro": [
+        {"q": "Ce este Muzeul German al Mineritului?", "a": "Cel mai mare muzeu de istorie a mineritului din lume."},
+        {"q": "Ce musical se joac\u0103 de decenii la Bochum?", "a": "Starlight Express este pus \u00een scen\u0103 aici din 1988."},
+        {"q": "Ce este Bermuda3Eck?", "a": "Un cartier de pub-uri \u0219i via\u021b\u0103 de noapte foarte cunoscut \u00een Bochum."},
+        {"q": "La ce universitate studiaz\u0103 cei mai mul\u021bi studen\u021bi?", "a": "La Universitatea Ruhr din Bochum (RUB)."}
+      ],
+      "en": [
+        {"q": "What is the German Mining Museum?", "a": "The world's largest museum of mining history."},
+        {"q": "Which musical has been running for decades in Bochum?", "a": "Starlight Express has been performed here since 1988."},
+        {"q": "What is the Bermuda3Eck?", "a": "A widely known pub and nightlife district in Bochum."},
+        {"q": "At which university do most people study?", "a": "At the Ruhr University Bochum (RUB)."}
+      ]
+    }
+  },
+  {
+    "id": "city-bielefeld",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Bielefeld-Verschw\u00f6rung?", "a": "Ein satirischer Witz, der behauptet, dass es Bielefeld gar nicht gibt."},
+        {"q": "Was ist die Sparrenburg?", "a": "Eine m\u00e4chtige mittelalterliche Festung hoch \u00fcber der Stadt."},
+        {"q": "Welcher bekannte Lebensmittelhersteller sitzt hier?", "a": "Die Firma Dr. Oetker hat in Bielefeld ihren Stammsitz."},
+        {"q": "Welcher Wald beginnt direkt in Bielefeld?", "a": "Der Teutoburger Wald l\u00e4dt zum Wandern ein."}
+      ],
+      "hu": [
+        {"q": "Mi az a Bielefeld-\u00f6sszeesk\u00fcv\u00e9s?", "a": "Egy szatirikus vicc, amely azt \u00e1ll\u00edtja, hogy Bielefeld nem is l\u00e9tezik."},
+        {"q": "Mi az a Sparrenburg?", "a": "Egy hatalmas k\u00f6z\u00e9pkori er\u0151d magasan a v\u00e1ros felett."},
+        {"q": "Melyik ismert \u00e9lelmiszergy\u00e1rt\u00f3 sz\u00e9khelye van itt?", "a": "A Dr. Oetker c\u00e9g k\u00f6zpontja Bielefeldben tal\u00e1lhat\u00f3."},
+        {"q": "Melyik erd\u0151 kezd\u0151dik k\u00f6zvetlen\u00fcl Bielefeldn\u00e9l?", "a": "A Teutoburgi-erd\u0151 kiv\u00e1l\u00f3 t\u00far\u00e1z\u00f3helyeket k\u00edn\u00e1l."}
+      ],
+      "ro": [
+        {"q": "Ce este 'Conspira\u021bia Bielefeld'?", "a": "O glum\u0103 satiric\u0103 care sus\u021bine c\u0103 Bielefeld nu exist\u0103 \u00een realitate."},
+        {"q": "Ce este Sparrenburg?", "a": "O fort\u0103rea\u021b\u0103 medieval\u0103 masiv\u0103 situat\u0103 deasupra ora\u0219ului."},
+        {"q": "Ce produc\u0103tor alimentar cunoscut are sediul aici?", "a": "Compania Dr. Oetker \u0219i-a stabilit sediul central \u00een Bielefeld."},
+        {"q": "Ce p\u0103dure \u00eencepe chiar \u00een Bielefeld?", "a": "P\u0103durea Teutoburg ofer\u0103 numeroase trasee de drume\u021bie."}
+      ],
+      "en": [
+        {"q": "What is the Bielefeld Conspiracy?", "a": "A satirical joke claiming that Bielefeld doesn't actually exist."},
+        {"q": "What is the Sparrenburg?", "a": "A powerful medieval fortress high above the city."},
+        {"q": "Which famous food manufacturer is based here?", "a": "The company Dr. Oetker has its headquarters in Bielefeld."},
+        {"q": "Which forest begins directly in Bielefeld?", "a": "The Teutoburg Forest offers great hiking opportunities."}
+      ]
+    }
+  },
+  {
+    "id": "river-rhein",
+    "faq": {
+      "de": [
+        {"q": "Wie lang ist der Rhein in Deutschland?", "a": "Er ist etwa 865 km lang und damit der l\u00e4ngste Fluss."},
+        {"q": "Was ist der sagenumwobene Felsen am Rhein?", "a": "Die Loreley bei St. Goarshausen."},
+        {"q": "In welches Meer flie\u00dft der Rhein?", "a": "Der Rhein m\u00fcndet in die Nordsee."},
+        {"q": "Warum ist der Rhein wirtschaftlich so wichtig?", "a": "Er ist die am st\u00e4rksten befahrene Wasserstra\u00dfe Europas."}
+      ],
+      "hu": [
+        {"q": "Milyen hossz\u00fa a Rajna n\u00e9metorsz\u00e1gi szakasza?", "a": "K\u00f6r\u00fclbel\u00fcl 865 km, ezzel az orsz\u00e1g leghosszabb foly\u00f3ja."},
+        {"q": "Melyik a Rajna menti legend\u00e1s szikla?", "a": "A Loreley-szikla St. Goarshausen k\u00f6zel\u00e9ben."},
+        {"q": "Melyik tengerbe torkollik a Rajna?", "a": "A Rajna az \u00c9szaki-tengerbe \u00f6mlik."},
+        {"q": "Mi\u00e9rt olyan fontos a Rajna gazdas\u00e1gilag?", "a": "Ez Eur\u00f3pa legforgalmasabb belv\u00edzi v\u00edzi \u00fatja."}
+      ],
+      "ro": [
+        {"q": "C\u00e2t de lung este Rinul \u00een Germania?", "a": "Are aproximativ 865 km, fiind cel mai lung r\u00e2u din \u021bar\u0103."},
+        {"q": "Care este st\u00e2nca legendar\u0103 de pe Rin?", "a": "Loreley, l\u00e2ng\u0103 St. Goarshausen."},
+        {"q": "\u00cen ce mare se vars\u0103 Rinul?", "a": "Rinul se vars\u0103 \u00een Marea Nordului."},
+        {"q": "De ce este Rinul at\u00e2t de important economic?", "a": "Este cea mai circulat\u0103 cale navigabil\u0103 din Europa."}
+      ],
+      "en": [
+        {"q": "How long is the Rhine in Germany?", "a": "It is about 865 km long, making it the longest river."},
+        {"q": "What is the legendary rock on the Rhine?", "a": "The Loreley near St. Goarshausen."},
+        {"q": "Which sea does the Rhine flow into?", "a": "The Rhine flows into the North Sea."},
+        {"q": "Why is the Rhine so economically important?", "a": "It is the busiest waterway in Europe."}
+      ]
+    }
+  },
+  {
+    "id": "river-elbe",
+    "faq": {
+      "de": [
+        {"q": "An welcher Stadt m\u00fcndet die Elbe?", "a": "Sie m\u00fcndet bei Cuxhaven/Hamburg in die Nordsee."},
+        {"q": "Durch welche s\u00e4chsische Stadt flie\u00dft die Elbe?", "a": "Die Elbe durchflie\u00dft Dresden (Elbflorenz)."},
+        {"q": "Wo entspringt die Elbe?", "a": "Sie entspringt im Riesengebirge in Tschechien."},
+        {"q": "Was war die Elbe w\u00e4hrend der Teilung?", "a": "Ein Grenzfluss zwischen der DDR und der BRD."}
+      ],
+      "hu": [
+        {"q": "Melyik v\u00e1rosn\u00e1l torkollik az Elba a tengerbe?", "a": "Hamburg/Cuxhaven k\u00f6zel\u00e9ben \u00f6mlik az \u00c9szaki-tengerbe."},
+        {"q": "Melyik sz\u00e1sz v\u00e1roson folyik \u00e1t az Elba?", "a": "Az Elba Drezd\u00e1n is \u00e1thalad."},
+        {"q": "Hol ered az Elba?", "a": "A csehorsz\u00e1gi \u00d3ri\u00e1s-hegys\u00e9gben."},
+        {"q": "Mi volt az Elba szerepe a megosztotts\u00e1g alatt?", "a": "Hat\u00e1rfoly\u00f3 volt az NDK \u00e9s az NSZK k\u00f6z\u00f6tt."}
+      ],
+      "ro": [
+        {"q": "Unde se vars\u0103 Elba \u00een mare?", "a": "Se vars\u0103 \u00een Marea Nordului, l\u00e2ng\u0103 Cuxhaven/Hamburg."},
+        {"q": "Prin ce ora\u0219 saxon trece Elba?", "a": "Elba traverseaz\u0103 Dresda."},
+        {"q": "Unde izvor\u0103\u0219te Elba?", "a": "Izvor\u0103\u0219te \u00een Mun\u021bii Gigantici din Cehia."},
+        {"q": "Ce a fost Elba \u00een timpul diviz\u0103rii?", "a": "Un r\u00e2u de frontier\u0103 \u00eentre RDG \u0219i RFG."}
+      ],
+      "en": [
+        {"q": "Where does the Elbe empty into the sea?", "a": "It empties into the North Sea near Cuxhaven/Hamburg."},
+        {"q": "Through which Saxon city does the Elbe flow?", "a": "The Elbe flows through Dresden."},
+        {"q": "Where does the Elbe rise?", "a": "It rises in the Giant Mountains (Krkonoše) in Czechia."},
+        {"q": "What was the Elbe during the division?", "a": "A border river between East and West Germany."}
+      ]
+    }
+  },
+  {
+    "id": "river-donau",
+    "faq": {
+      "de": [
+        {"q": "Wo entspringt die Donau?", "a": "Die Donau entspringt im Schwarzwald (Donaueschingen)."},
+        {"q": "In welches Meer flie\u00dft die Donau?", "a": "Sie m\u00fcndet ins Schwarze Meer."},
+        {"q": "Durch wie viele L\u00e4nder flie\u00dft die Donau?", "a": "Sie durchquert zehn europ\u00e4ische L\u00e4nder."},
+        {"q": "Wie hei\u00dft die n\u00f6rdlichste Stadt an der Donau?", "a": "Regensburg ist die n\u00f6rdlichste Donaustadt."}
+      ],
+      "hu": [
+        {"q": "Hol ered a Duna?", "a": "A Duna a Fekete-erd\u0151ben ered (Donaueschingen)."},
+        {"q": "Melyik tengerbe torkollik a Duna?", "a": "A Fekete-tengerbe \u00f6mlik."},
+        {"q": "H\u00e1ny orsz\u00e1gon folyik \u00e1t a Duna?", "a": "T\u00edz eur\u00f3pai orsz\u00e1gon halad kereszt\u00fcl."},
+        {"q": "Mi a Duna leg\u00e9szakibb v\u00e1rosa?", "a": "Regensburg a leg\u00e9szakabbra fekv\u0151 duna-parti v\u00e1ros."}
+      ],
+      "ro": [
+        {"q": "Unde izvor\u0103\u0219te Dun\u0103rea?", "a": "Dun\u0103rea izvor\u0103\u0219te din P\u0103durea Neagr\u0103 (Donaueschingen)."},
+        {"q": "\u00cen ce mare se vars\u0103 Dun\u0103rea?", "a": "Se vars\u0103 \u00een Marea Neagr\u0103."},
+        {"q": "Prin c\u00e2te \u021b\u0103ri trece Dun\u0103rea?", "a": "Traverseaz\u0103 zece \u021b\u0103ri europene."},
+        {"q": "Care este cel mai nordic ora\u0219 de pe Dun\u0103re?", "a": "Regensburg este cel mai nordic ora\u0219 dun\u0103rean."}
+      ],
+      "en": [
+        {"q": "Where does the Danube rise?", "a": "The Danube rises in the Black Forest (Donaueschingen)."},
+        {"q": "Which sea does the Danube flow into?", "a": "It empties into the Black Sea."},
+        {"q": "Through how many countries does the Danube flow?", "a": "It crosses ten European countries."},
+        {"q": "What is the northernmost city on the Danube?", "a": "Regensburg is the northernmost city on the Danube."}
+      ]
+    }
+  },
+  {
+    "id": "river-main",
+    "faq": {
+      "de": [
+        {"q": "Wo m\u00fcndet der Main?", "a": "Der Main m\u00fcndet bei Mainz in den Rhein."},
+        {"q": "Welche gro\u00dfe Stadt durchflie\u00dft der Main?", "a": "Er flie\u00dft mitten durch Frankfurt am Main."},
+        {"q": "Was ist der Main-Donau-Kanal?", "a": "Eine Wasserstra\u00dfe, die Main und Donau verbindet."},
+        {"q": "In welcher Region liegt das Quellgebiet?", "a": "Der Main entspringt im Fichtelgebirge und in der Fr\u00e4nkischen Alb."}
+      ],
+      "hu": [
+        {"q": "Hol torkollik a Majna?", "a": "A Majna Mainzn\u00e1l \u00f6mlik a Rajn\u00e1ba."},
+        {"q": "Melyik nagy v\u00e1roson folyik \u00e1t a Majna?", "a": "Frankfurt am Main v\u00e1ros\u00e1n halad \u00e1t."},
+        {"q": "Mi az a Majna\u2013Duna-csatorna?", "a": "Egy v\u00edzi \u00fat, amely \u00f6sszek\u00f6ti a Majn\u00e1t \u00e9s a Dun\u00e1t."},
+        {"q": "Melyik r\u00e9gi\u00f3ban tal\u00e1lhat\u00f3 a forr\u00e1svid\u00e9ke?", "a": "A Majna a Fichtel-hegys\u00e9gben \u00e9s a Frank-Jur\u00e1ban ered."}
+      ],
+      "ro": [
+        {"q": "Unde se vars\u0103 Mainul?", "a": "Mainul se vars\u0103 \u00een Rin la Mainz."},
+        {"q": "Ce ora\u0219 mare traverseaz\u0103 Mainul?", "a": "Traverseaz\u0103 Frankfurt am Main."},
+        {"q": "Ce este Canalul Main-Dun\u0103re?", "a": "O cale navigabil\u0103 care leag\u0103 Mainul de Dun\u0103re."},
+        {"q": "Unde se afl\u0103 zona sa de izvor\u00e2re?", "a": "Mainul izvor\u0103\u0219te din Mun\u021bii Fichtel \u0219i Jura Franconic\u0103."}
+      ],
+      "en": [
+        {"q": "Where does the Main empty?", "a": "The Main joins the Rhine at Mainz."},
+        {"q": "Which large city does the Main flow through?", "a": "It flows through the middle of Frankfurt am Main."},
+        {"q": "What is the Main-Danube Canal?", "a": "A waterway connecting the Main and the Danube."},
+        {"q": "In which region is its source located?", "a": "The Main rises in the Fichtel Mountains and the Franconian Jura."}
+      ]
+    }
+  },
+  {
+    "id": "river-mosel",
+    "faq": {
+      "de": [
+        {"q": "Wof\u00fcr ist das Moseltal bekannt?", "a": "F\u00fcr seine extrem steilen Weinberge und erstklassigen Riesling."},
+        {"q": "In welchen Fluss m\u00fcndet die Mosel?", "a": "Die Mosel m\u00fcndet in Koblenz am Deutschen Eck in den Rhein."},
+        {"q": "Durch welche L\u00e4nder flie\u00dft die Mosel?", "a": "Durch Frankreich, Luxemburg und Deutschland."},
+        {"q": "Was ist die \u00e4lteste Stadt an der Mosel?", "a": "Trier ist die \u00e4lteste Stadt Deutschlands und liegt an der Mosel."}
+      ],
+      "hu": [
+        {"q": "Mir\u0151l h\u00edres a Mosel-v\u00f6lgy?", "a": "Rendk\u00edv\u00fcl meredek sz\u0151l\u0151skertjeir\u0151l \u00e9s a kiv\u00e1l\u00f3 rizlingr\u0151l."},
+        {"q": "Melyik foly\u00f3ba torkollik a Mosel?", "a": "A Mosel Koblenzn\u00e9l, a Deutsches Eck-n\u00e9l \u00f6mlik a Rajn\u00e1ba."},
+        {"q": "Mely orsz\u00e1gokon folyik \u00e1t a Mosel?", "a": "Franciaorsz\u00e1gon, Luxemburgon \u00e9s N\u00e9metorsz\u00e1gon."},
+        {"q": "Melyik a legr\u00e9gebbi v\u00e1ros a Mosel ment\u00e9n?", "a": "Trier N\u00e9metorsz\u00e1g legr\u00e9gebbi v\u00e1rosa, \u00e9s a Mosel partj\u00e1n fekszik."}
+      ],
+      "ro": [
+        {"q": "Pentru ce este cunoscut\u0103 Valea Moselei?", "a": "Pentru podgoriile sale extrem de abrupte \u0219i Rieslingul de prim\u0103 clas\u0103."},
+        {"q": "\u00cen ce r\u00e2u se vars\u0103 Mosela?", "a": "Mosela se vars\u0103 \u00een Rin la Koblenz, la Col\u021bul German (Deutsches Eck)."},
+        {"q": "Prin ce \u021b\u0103ri trece Mosela?", "a": "Prin Fran\u021ba, Luxemburg \u0219i Germania."},
+        {"q": "Care este cel mai vechi ora\u0219 de pe Mosela?", "a": "Trier este cel mai vechi ora\u0219 din Germania \u0219i se afl\u0103 pe Mosela."}
+      ],
+      "en": [
+        {"q": "What is the Moselle Valley known for?", "a": "For its extremely steep vineyards and world-class Riesling."},
+        {"q": "Into which river does the Moselle flow?", "a": "The Moselle joins the Rhine at the Deutsches Eck in Koblenz."},
+        {"q": "Through which countries does the Moselle flow?", "a": "Through France, Luxembourg, and Germany."},
+        {"q": "What is the oldest city on the Moselle?", "a": "Trier is Germany's oldest city and is located on the Moselle."}
+      ]
+    }
+  },
+  {
+    "id": "river-neckar",
+    "faq": {
+      "de": [
+        {"q": "Welcher gro\u00dfe Fluss flie\u00dft durch Stuttgart?", "a": "Der Neckar durchquert die Landeshauptstadt Stuttgart."},
+        {"q": "Wo m\u00fcndet der Neckar?", "a": "Der Neckar m\u00fcndet bei Mannheim in den Rhein."},
+        {"q": "Wo entspringt der Neckar?", "a": "Er entspringt im Schwarzwald bei Villingen-Schwenningen."},
+        {"q": "Welche Universit\u00e4tsstadt liegt am Neckar?", "a": "Heidelberg und T\u00fcbingen sind bekannte Universit\u00e4tsst\u00e4dte am Neckar."}
+      ],
+      "hu": [
+        {"q": "Melyik nagy foly\u00f3 folyik \u00e1t Stuttgarton?", "a": "A Neckar szeli \u00e1t Stuttgart tartom\u00e1nyi f\u0151v\u00e1rost."},
+        {"q": "Hol torkollik a Neckar?", "a": "A Neckar Mannheimn\u00e9l \u00f6mlik a Rajn\u00e1ba."},
+        {"q": "Hol ered a Neckar?", "a": "A Fekete-erd\u0151ben ered, Villingen-Schwenningen k\u00f6zel\u00e9ben."},
+        {"q": "Melyik egyetemv\u00e1ros fekszik a Neckar partj\u00e1n?", "a": "Heidelberg \u00e9s T\u00fcbingen is ismert egyetemv\u00e1ros a Neckar ment\u00e9n."}
+      ],
+      "ro": [
+        {"q": "Ce r\u00e2u mare trece prin Stuttgart?", "a": "Neckar traverseaz\u0103 capitala landului, Stuttgart."},
+        {"q": "Unde se vars\u0103 Neckarul?", "a": "Neckarul se vars\u0103 \u00een Rin la Mannheim."},
+        {"q": "Unde izvor\u0103\u0219te Neckarul?", "a": "Izvor\u0103\u0219te din P\u0103durea Neagr\u0103, l\u00e2ng\u0103 Villingen-Schwenningen."},
+        {"q": "Ce ora\u0219 universitar se afl\u0103 pe Neckar?", "a": "Heidelberg \u0219i T\u00fcbingen sunt ora\u0219e universitare cunoscute pe Neckar."}
+      ],
+      "en": [
+        {"q": "Which major river flows through Stuttgart?", "a": "The Neckar crosses the state capital, Stuttgart."},
+        {"q": "Where does the Neckar empty?", "a": "The Neckar joins the Rhine at Mannheim."},
+        {"q": "Where does the Neckar rise?", "a": "It rises in the Black Forest near Villingen-Schwenningen."},
+        {"q": "Which university city is located on the Neckar?", "a": "Heidelberg and Tübingen are famous university cities on the Neckar."}
+      ]
+    }
+  },
+  {
+    "id": "river-weser",
+    "faq": {
+      "de": [
+        {"q": "Wie entsteht die Weser?", "a": "Durch den Zusammenfluss von Werra und Fulda bei Hann. M\u00fcnden."},
+        {"q": "Welche Hansestadt liegt an der Weser?", "a": "Bremen ist die bedeutendste Hansestadt an der Weser."},
+        {"q": "Wo m\u00fcndet die Weser?", "a": "Sie m\u00fcndet bei Bremerhaven in die Nordsee."},
+        {"q": "Was ist das Weserbergland?", "a": "Eine Mittelgebirgsregion, durch die der Fluss im Oberlauf flie\u00dft."}
+      ],
+      "hu": [
+        {"q": "Hogyan keletkezik a Weser?", "a": "A Werra \u00e9s a Fulda \u00f6sszefoly\u00e1s\u00e1val Hann. M\u00fcndenn\u00e9l."},
+        {"q": "Melyik hanzav\u00e1ros fekszik a Weser ment\u00e9n?", "a": "A legjelent\u0151sebb hanzav\u00e1ros a Weser ment\u00e9n Br\u00e9ma."},
+        {"q": "Hol torkollik a Weser?", "a": "Bremerhavenn\u00e9l \u00f6mlik az \u00c9szaki-tengerbe."},
+        {"q": "Mi az a Weserbergland?", "a": "Egy k\u00f6z\u00e9phegys\u00e9gi r\u00e9gi\u00f3, amelyen a foly\u00f3 fels\u0151 szakasza \u00e1thalad."}
+      ],
+      "ro": [
+        {"q": "Cum se formeaz\u0103 Weserul?", "a": "Prin confluen\u021ba r\u00e2urilor Werra \u0219i Fulda la Hann. M\u00fcnden."},
+        {"q": "Ce ora\u0219 hanseatic se afl\u0103 pe Weser?", "a": "Bremen este cel mai important ora\u0219 hanseatic de pe Weser."},
+        {"q": "Unde se vars\u0103 Weserul?", "a": "Se vars\u0103 \u00een Marea Nordului la Bremerhaven."},
+        {"q": "Ce este Weserbergland?", "a": "O regiune muntoas\u0103 prin care trece cursul superior al r\u00e2ului."}
+      ],
+      "en": [
+        {"q": "How is the Weser formed?", "a": "By the confluence of the Werra and Fulda rivers at Hann. Münden."},
+        {"q": "Which Hanseatic city is located on the Weser?", "a": "Bremen is the most significant Hanseatic city on the Weser."},
+        {"q": "Where does the Weser empty?", "a": "It empties into the North Sea at Bremerhaven."},
+        {"q": "What is the Weser Uplands (Weserbergland)?", "a": "A low mountain region through which the river flows in its upper course."}
+      ]
+    }
+  },
+  {
+    "id": "river-isar",
+    "faq": {
+      "de": [
+        {"q": "Welche Stadt ist eng mit der Isar verbunden?", "a": "M\u00fcnchen ist die bekannteste Stadt an der Isar."},
+        {"q": "Wo entspringt die Isar?", "a": "Sie entspringt im Karwendelgebirge in Tirol (\u00d6sterreich)."},
+        {"q": "In welchen Fluss m\u00fcndet die Isar?", "a": "Die Isar m\u00fcndet bei Deggendorf in die Donau."},
+        {"q": "Was ist der Englische Garten?", "a": "Ein gro\u00dfer Park in M\u00fcnchen, an dem die Isar vorbeiflie\u00dft."}
+      ],
+      "hu": [
+        {"q": "Melyik v\u00e1ros kapcsol\u00f3dik szorosan az Isarhoz?", "a": "M\u00fcnchen a legismertebb v\u00e1ros az Isar ment\u00e9n."},
+        {"q": "Hol ered az Isar?", "a": "A tiroli Karwendel-hegys\u00e9gben (Ausztria) ered."},
+        {"q": "Melyik foly\u00f3ba torkollik az Isar?", "a": "Az Isar Deggendorfn\u00e1l \u00f6mlik a Dun\u00e1ba."},
+        {"q": "Mi az az Englischer Garten?", "a": "Egy hatalmas park M\u00fcnchenben, amely mellett az Isar elhalad."}
+      ],
+      "ro": [
+        {"q": "Ce ora\u0219 este str\u00e2ns legat de Isar?", "a": "M\u00fcnchen este cel mai cunoscut ora\u0219 de pe Isar."},
+        {"q": "Unde izvor\u0103\u0219te Isarul?", "a": "Izvor\u0103\u0219te \u00een mun\u021bii Karwendel din Tirol (Austria)."},
+        {"q": "\u00cen ce r\u00e2u se vars\u0103 Isarul?", "a": "Isarul se vars\u0103 \u00een Dun\u0103re la Deggendorf."},
+        {"q": "Ce este Gr\u0103dina Englez\u0103 (Englischer Garten)?", "a": "Un parc mare din M\u00fcnchen pe l\u00e2ng\u0103 care trece Isarul."}
+      ],
+      "en": [
+        {"q": "Which city is closely connected to the Isar?", "a": "Munich is the most famous city on the Isar."},
+        {"q": "Where does the Isar rise?", "a": "It rises in the Karwendel mountains in Tyrol (Austria)."},
+        {"q": "Into which river does the Isar flow?", "a": "The Isar joins the Danube at Deggendorf."},
+        {"q": "What is the English Garden?", "a": "A large park in Munich that the Isar flows past."}
+      ]
+    }
+  },
+  {
+    "id": "river-oder",
+    "faq": {
+      "de": [
+        {"q": "Welche Grenze markiert die Oder?", "a": "Die Oder bildet einen Gro\u00dfteil der Grenze zwischen Deutschland und Polen."},
+        {"q": "Wo m\u00fcndet die Oder?", "a": "Sie m\u00fcndet ins Stettiner Haff und damit in die Ostsee."},
+        {"q": "Was ist das Oderbruch?", "a": "Eine fruchtbare, trockengelegte Niederungslandschaft an der Oder."},
+        {"q": "Wo entspringt die Oder?", "a": "Sie entspringt im Odergebirge in Tschechien."}
+      ],
+      "hu": [
+        {"q": "Melyik hat\u00e1rt jel\u00f6li ki az Oder?", "a": "Az Oder alkotja N\u00e9metorsz\u00e1g \u00e9s Lengyelorsz\u00e1g hat\u00e1r\u00e1nak nagy r\u00e9sz\u00e9t."},
+        {"q": "Hol torkollik az Oder?", "a": "A Stettini-lag\u00fan\u00e1ba, \u00edgy a Balti-tengerbe \u00f6mlik."},
+        {"q": "Mi az az Oderbruch?", "a": "Egy term\u00e9keny, lecsapolt m\u00e9lyf\u00f6ldi ter\u00fclet az Oder ment\u00e9n."},
+        {"q": "Hol ered az Oder?", "a": "A csehorsz\u00e1gi Oder-hegys\u00e9gben ered."}
+      ],
+      "ro": [
+        {"q": "Ce frontier\u0103 marcheaz\u0103 Oder?", "a": "Oder formeaz\u0103 o mare parte a grani\u021bei dintre Germania \u0219i Polonia."},
+        {"q": "Unde se vars\u0103 Oderul?", "a": "Se vars\u0103 \u00een Laguna Szczecin \u0219i astfel \u00een Marea Baltic\u0103."},
+        {"q": "Ce este Oderbruch?", "a": "O regiune joas\u0103 fertil\u0103, desecat\u0103, de-a lungul r\u00e2ului Oder."},
+        {"q": "Unde izvor\u0103\u0219te Oderul?", "a": "Izvor\u0103\u0219te \u00een Mun\u021bii Oder din Cehia."}
+      ],
+      "en": [
+        {"q": "Which border does the Oder mark?", "a": "The Oder forms a large part of the border between Germany and Poland."},
+        {"q": "Where does the Oder empty?", "a": "It empties into the Szczecin Lagoon and thus into the Baltic Sea."},
+        {"q": "What is the Oderbruch?", "a": "A fertile, drained lowland landscape along the Oder."},
+        {"q": "Where does the Oder rise?", "a": "It rises in the Oder Mountains in Czechia."}
+      ]
+    }
+  },
+  {
+    "id": "river-spree",
+    "faq": {
+      "de": [
+        {"q": "Durch welche Hauptstadt flie\u00dft die Spree?", "a": "Die Spree ist der Hauptfluss von Berlin."},
+        {"q": "Was ist der Spreewald?", "a": "Eine Kanallandschaft in Brandenburg, durch die die Spree flie\u00dft."},
+        {"q": "In welchen Fluss m\u00fcndet die Spree?", "a": "Sie m\u00fcndet in Berlin-Spandau in die Havel."},
+        {"q": "Was kann man auf der Spree in Berlin machen?", "a": "Sehr beliebt sind Sightseeing-Fahrten mit dem Schiff."}
+      ],
+      "hu": [
+        {"q": "Melyik f\u0151v\u00e1roson folyik \u00e1t a Spree?", "a": "A Spree Berlin f\u0151 foly\u00f3ja."},
+        {"q": "Mi az a Spreewald?", "a": "Egy csatorn\u00e1kkal teli t\u00e1j Brandenburgban, amelyen a Spree \u00e1thalad."},
+        {"q": "Melyik foly\u00f3ba torkollik a Spree?", "a": "Berlin-Spandaun\u00e1l \u00f6mlik a Havel foly\u00f3ba."},
+        {"q": "Mit lehet csin\u00e1lni a Spree foly\u00f3n Berlinben?", "a": "Nagyon n\u00e9pszer\u0171ek a v\u00e1rosn\u00e9z\u0151 haj\u00f3kir\u00e1ndul\u00e1sok."}
+      ],
+      "ro": [
+        {"q": "Prin ce capital\u0103 trece Spree?", "a": "Spree este principalul r\u00e2u al Berlinului."},
+        {"q": "Ce este Spreewald?", "a": "Un peisaj cu canale \u00een Brandenburg, prin care trece r\u00e2ul Spree."},
+        {"q": "\u00cen ce r\u00e2u se vars\u0103 Spree?", "a": "Se vars\u0103 \u00een Havel, \u00een districtul Spandau din Berlin."},
+        {"q": "Ce activit\u0103\u021bi se pot face pe Spree \u00een Berlin?", "a": "Sunt foarte populare tururile de vizitare cu vaporul."}
+      ],
+      "en": [
+        {"q": "Through which capital city does the Spree flow?", "a": "The Spree is the main river of Berlin."},
+        {"q": "What is the Spreewald?", "a": "A landscape of canals in Brandenburg through which the Spree flows."},
+        {"q": "Into which river does the Spree flow?", "a": "It joins the Havel in Berlin-Spandau."},
+        {"q": "What can you do on the Spree in Berlin?", "a": "Sightseeing boat tours are very popular."}
+      ]
+    }
+  },
+  {
+    "id": "river-ruhr",
+    "faq": {
+      "de": [
+        {"q": "Welche Region erhielt ihren Namen von diesem Fluss?", "a": "Das Ruhrgebiet, Deutschlands gr\u00f6\u00dfter Ballungsraum."},
+        {"q": "Wo m\u00fcndet die Ruhr?", "a": "Sie m\u00fcndet bei Duisburg in den Rhein."},
+        {"q": "War die Ruhr f\u00fcr die Industrie wichtig?", "a": "Ja, sie diente fr\u00fcher als wichtiger Transportweg f\u00fcr Kohle."},
+        {"q": "Wo entspringt die Ruhr?", "a": "Sie entspringt im Rothaargebirge im Sauerland."}
+      ],
+      "hu": [
+        {"q": "Melyik r\u00e9gi\u00f3 kapta a nev\u00e9t err\u0151l a foly\u00f3r\u00f3l?", "a": "A Ruhr-vid\u00e9k, N\u00e9metorsz\u00e1g legnagyobb agglomer\u00e1ci\u00f3ja."},
+        {"q": "Hol torkollik a Ruhr?", "a": "Duisburgn\u00e1l \u00f6mlik a Rajn\u00e1ba."},
+        {"q": "Fontos volt a Ruhr az ipar sz\u00e1m\u00e1ra?", "a": "Igen, kor\u00e1bban fontos sz\u00e1ll\u00edt\u00f3 \u00fatvonal volt a sz\u00e9n sz\u00e1m\u00e1ra."},
+        {"q": "Hol ered a Ruhr?", "a": "A Sauerlandban, a Rothaar-hegys\u00e9gben ered."}
+      ],
+      "ro": [
+        {"q": "Ce regiune \u0219i-a primit numele de la acest r\u00e2u?", "a": "Regiunea Ruhr, cea mai mare zon\u0103 metropolitan\u0103 din Germania."},
+        {"q": "Unde se vars\u0103 Ruhrul?", "a": "Se vars\u0103 \u00een Rin la Duisburg."},
+        {"q": "A fost Ruhrul important pentru industrie?", "a": "Da, a servit \u00een trecut ca o cale important\u0103 de transport pentru c\u0103rbune."},
+        {"q": "Unde izvor\u0103\u0219te Ruhrul?", "a": "Izvor\u0103\u0219te din Mun\u021bii Rothaar \u00een Sauerland."}
+      ],
+      "en": [
+        {"q": "Which region got its name from this river?", "a": "The Ruhr area, Germany's largest metropolitan region."},
+        {"q": "Where does the Ruhr empty?", "a": "It joins the Rhine at Duisburg."},
+        {"q": "Was the Ruhr important for industry?", "a": "Yes, it used to be an important transport route for coal."},
+        {"q": "Where does the Ruhr rise?", "a": "It rises in the Rothaar Mountains in the Sauerland."}
+      ]
+    }
+  },
+  {
+    "id": "river-havel",
+    "faq": {
+      "de": [
+        {"q": "In welchen Fluss m\u00fcndet die Havel?", "a": "Die Havel m\u00fcndet in die Elbe."},
+        {"q": "Durch welche Bundesl\u00e4nder flie\u00dft die Havel?", "a": "Sie flie\u00dft durch Mecklenburg-Vorpommern, Brandenburg und Berlin."},
+        {"q": "Was ist das Besondere an der Havel?", "a": "Sie bildet viele seenartige Erweiterungen."},
+        {"q": "Welche Stadt liegt an der Havel?", "a": "Potsdam und Berlin liegen an der Havel."}
+      ],
+      "hu": [
+        {"q": "Melyik foly\u00f3ba torkollik a Havel?", "a": "A Havel az Elb\u00e1ba \u00f6mlik."},
+        {"q": "Melyik tartom\u00e1nyokon folyik \u00e1t a Havel?", "a": "Mecklenburg-El\u0151-Pomer\u00e1ni\u00e1n, Brandenburgen \u00e9s Berlinen folyik \u00e1t."},
+        {"q": "Mi a Havel k\u00fcl\u00f6nlegess\u00e9ge?", "a": "Sz\u00e1mos t\u00f3szer\u0171 kisz\u00e9lesed\u00e9se van."},
+        {"q": "Melyik v\u00e1ros fekszik a Havel partj\u00e1n?", "a": "Potsdam \u00e9s Berlin is a Havel ment\u00e9n fekszik."}
+      ],
+      "ro": [
+        {"q": "\u00cen ce r\u00e2u se vars\u0103 Havel?", "a": "Havelul se vars\u0103 \u00een Elba."},
+        {"q": "Prin ce landuri trece Havelul?", "a": "Trece prin Mecklenburg-Pomerania Inferioar\u0103, Brandenburg \u0219i Berlin."},
+        {"q": "Ce este special la r\u00e2ul Havel?", "a": "Formeaz\u0103 multe l\u0103rgiri asem\u0103n\u0103toare cu ni\u0219te lacuri."},
+        {"q": "Ce ora\u0219 se afl\u0103 pe Havel?", "a": "Potsdam \u0219i Berlin sunt situate pe Havel."}
+      ],
+      "en": [
+        {"q": "Into which river does the Havel flow?", "a": "The Havel joins the Elbe."},
+        {"q": "Through which states does the Havel flow?", "a": "It flows through Mecklenburg-Western Pomerania, Brandenburg, and Berlin."},
+        {"q": "What is special about the Havel?", "a": "It forms many lake-like widenings."},
+        {"q": "Which city is located on the Havel?", "a": "Potsdam and Berlin are located on the Havel."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-zugspitze",
+    "faq": {
+      "de": [
+        {"q": "Was ist der h\u00f6chste Berg Deutschlands?", "a": "Die Zugspitze mit einer H\u00f6he von 2.962 Metern."},
+        {"q": "Wie kommt man auf den Gipfel?", "a": "Mit der Seilbahn oder der historischen Zahnradbahn."},
+        {"q": "Welches Gebirge umfasst die Zugspitze?", "a": "Sie geh\u00f6rt zum Wettersteingebirge in den Alpen."},
+        {"q": "Kann man auf der Zugspitze Skifahren?", "a": "Ja, auf dem Zugspitzplatt gibt es ein schneesicheres Skigebiet."}
+      ],
+      "hu": [
+        {"q": "Melyik N\u00e9metorsz\u00e1g legmagasabb hegye?", "a": "A Zugspitze, amelynek magass\u00e1ga 2962 m\u00e9ter."},
+        {"q": "Hogyan lehet feljutni a cs\u00facsra?", "a": "Felvon\u00f3val vagy a t\u00f6rt\u00e9nelmi fogaskerek\u0171 vas\u00fattal."},
+        {"q": "Melyik hegys\u00e9g r\u00e9sze a Zugspitze?", "a": "Az Alpok Wetterstein-hegys\u00e9g\u00e9hez tartozik."},
+        {"q": "Lehet s\u00edelni a Zugspitz\u00e9n?", "a": "Igen, a Zugspitzplatt-on h\u00f3biztos s\u00edterep tal\u00e1lhat\u00f3."}
+      ],
+      "ro": [
+        {"q": "Care este cel mai \u00eenalt munte din Germania?", "a": "Zugspitze, cu o \u00een\u0103l\u021bime de 2.962 de metri."},
+        {"q": "Cum se poate ajunge pe v\u00e2rf?", "a": "Cu telecabina sau cu istorica cale ferat\u0103 cu cremalier\u0103."},
+        {"q": "Din ce masiv muntos face parte Zugspitze?", "a": "Face parte din Mun\u021bii Wetterstein din Alpi."},
+        {"q": "Se poate schia pe Zugspitze?", "a": "Da, pe Zugspitzplatt exist\u0103 o zon\u0103 de schi cu z\u00e3pad\u0103 garantat\u0103."}
+      ],
+      "en": [
+        {"q": "What is the highest mountain in Germany?", "a": "The Zugspitze, with a height of 2,962 meters."},
+        {"q": "How can you get to the summit?", "a": "By cable car or the historical rack railway."},
+        {"q": "Which mountain range includes the Zugspitze?", "a": "It belongs to the Wetterstein Mountains in the Alps."},
+        {"q": "Can you ski on the Zugspitze?", "a": "Yes, there is a snow-sure ski area on the Zugspitzplatt."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-brocken",
+    "faq": {
+      "de": [
+        {"q": "Welcher Berg ist der h\u00f6chste in Norddeutschland?", "a": "Der Brocken im Harz mit 1.141 Metern."},
+        {"q": "Welche Sage ist mit dem Brocken verbunden?", "a": "Die Walpurgisnacht, in der Hexen auf dem Gipfel tanzen sollen."},
+        {"q": "Wie erreicht man den Gipfel bequem?", "a": "Mit der dampfbetriebenen Brockenbahn."},
+        {"q": "Wie ist das Wetter auf dem Brocken?", "a": "Oft neblig und sehr st\u00fcrmisch, \u00e4hnlich wie in Island."}
+      ],
+      "hu": [
+        {"q": "Melyik \u00c9szak-N\u00e9metorsz\u00e1g legmagasabb hegye?", "a": "A Harz-hegys\u00e9gben l\u00e9v\u0151 Brocken, 1141 m\u00e9terrel."},
+        {"q": "Milyen legenda kapcsol\u00f3dik a Brockenhez?", "a": "A Walpurgis-\u00e9j, amikor a boszork\u00e1nyok \u00e1ll\u00edt\u00f3lag a cs\u00facson t\u00e1ncolnak."},
+        {"q": "Hogyan lehet k\u00e9nyelmesen feljutni a cs\u00facsra?", "a": "A g\u0151zhajt\u00e1s\u00fa Brocken-vas\u00fattal."},
+        {"q": "Milyen az id\u0151j\u00e1r\u00e1s a Brocken-hegyen?", "a": "Gyakran k\u00f6d\u00f6s \u00e9s nagyon szeles, hasonl\u00f3 Izland\u00e9hoz."}
+      ],
+      "ro": [
+        {"q": "Care este cel mai \u00eenalt munte din nordul Germaniei?", "a": "Brocken din Mun\u021bii Harz, cu 1.141 de metri."},
+        {"q": "Ce legend\u0103 este legat\u0103 de Brocken?", "a": "Noaptea Walpurgiei, \u00een care se spune c\u0103 vr\u0103jitoarele danseaz\u0103 pe v\u00e2rf."},
+        {"q": "Cum se poate ajunge confortabil pe v\u00e2rf?", "a": "Cu trenul cu aburi Brockenbahn."},
+        {"q": "Cum este vremea pe Brocken?", "a": "Adesea cea\u021boas\u0103 \u0219i foarte furtunoas\u0103, similar\u0103 cu cea din Islanda."}
+      ],
+      "en": [
+        {"q": "Which mountain is the highest in northern Germany?", "a": "The Brocken in the Harz Mountains at 1,141 meters."},
+        {"q": "What legend is associated with the Brocken?", "a": "Walpurgis Night, when witches are said to dance on the summit."},
+        {"q": "How can you reach the summit comfortably?", "a": "With the steam-powered Brocken Railway."},
+        {"q": "What is the weather like on the Brocken?", "a": "Often foggy and very stormy, similar to Iceland."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-feldberg",
+    "faq": {
+      "de": [
+        {"q": "Was ist der h\u00f6chste Berg im Schwarzwald?", "a": "Der Feldberg mit 1.493 Metern."},
+        {"q": "Kann man vom Feldberg aus die Alpen sehen?", "a": "Ja, bei guter Fernsicht reicht der Blick bis zu den Alpen."},
+        {"q": "Gibt es dort ein Skigebiet?", "a": "Ja, der Feldberg ist das gr\u00f6\u00dfte Wintersportzentrum im Schwarzwald."},
+        {"q": "Ist der Feldberg ein Naturschutzgebiet?", "a": "Ja, es ist das gr\u00f6\u00dfte und \u00e4lteste Naturschutzgebiet Baden-W\u00fcrttembergs."}
+      ],
+      "hu": [
+        {"q": "Melyik a Fekete-erd\u0151 legmagasabb hegye?", "a": "A Feldberg, amely 1493 m\u00e9ter magas."},
+        {"q": "L\u00e1tni lehet az Alpokat a Feldbergr\u0151l?", "a": "Igen, j\u00f3 l\u00e1t\u00e1si viszonyok mellett a kil\u00e1t\u00e1s az Alpokig \u00e9r."},
+        {"q": "Van ott s\u00edterep?", "a": "Igen, a Feldberg a Fekete-erd\u0151 legnagyobb t\u00e9li sportk\u00f6zpontja."},
+        {"q": "Term\u00e9szetv\u00e9delmi ter\u00fclet a Feldberg?", "a": "Igen, Baden-W\u00fcrttemberg legnagyobb \u00e9s legr\u00e9gebbi term\u00e9szetv\u00e9delmi ter\u00fclete."}
+      ],
+      "ro": [
+        {"q": "Care este cel mai \u00eenalt munte din P\u0103durea Neagr\u0103?", "a": "Feldberg, cu 1.493 de metri."},
+        {"q": "Se pot vedea Alpii de pe Feldberg?", "a": "Da, \u00een condi\u021bii de vizibilitate bun\u0103, panorama ajunge p\u00e2n\u0103 la Alpi."},
+        {"q": "Exist\u0103 o zon\u0103 de schi acolo?", "a": "Da, Feldberg este cel mai mare centru de sporturi de iarn\u0103 din P\u0103durea Neagr\u0103."},
+        {"q": "Este Feldberg o rezerva\u021bie natural\u0103?", "a": "Da, este cea mai mare \u0219i mai veche rezerva\u021bie natural\u0103 din Baden-W\u00fcrttemberg."}
+      ],
+      "en": [
+        {"q": "What is the highest mountain in the Black Forest?", "a": "The Feldberg at 1,493 meters."},
+        {"q": "Can you see the Alps from the Feldberg?", "a": "Yes, with good visibility the view extends to the Alps."},
+        {"q": "Is there a ski resort there?", "a": "Yes, the Feldberg is the largest winter sports center in the Black Forest."},
+        {"q": "Is the Feldberg a nature reserve?", "a": "Yes, it is the largest and oldest nature reserve in Baden-Württemberg."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-grosser-arber",
+    "faq": {
+      "de": [
+        {"q": "Warum hei\u00dft der Gro\u00dfe Arber 'K\u00f6nig des Bayerwaldes'?", "a": "Weil er mit 1.456 m der h\u00f6chste Berg des Bayerischen Waldes ist."},
+        {"q": "Welche Besonderheit hat der Gipfel?", "a": "Er ist die einzige Erhebung der Region oberhalb der Baumgrenze."},
+        {"q": "Was sind die markanten Kuppeln auf dem Berg?", "a": "Das sind Radarstationen der Bundeswehr."},
+        {"q": "Was liegt unterhalb des Gipfels?", "a": "Der malerische Gro\u00dfe Arbersee."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt h\u00edvj\u00e1k a Gro\u00dfer Arber-t a 'Bajor-erd\u0151 kir\u00e1ly\u00e1nak'?", "a": "Mert 1456 m\u00e9ter\u00e9vel ez a Bajor-erd\u0151 legmagasabb hegye."},
+        {"q": "Mi a cs\u00facs k\u00fcl\u00f6nlegess\u00e9ge?", "a": "Ez a r\u00e9gi\u00f3 egyetlen olyan pontja, amely a fahat\u00e1r felett van."},
+        {"q": "Mik azok a jellegzetes kupol\u00e1k a hegyen?", "a": "Ezek a n\u00e9met hadsereg (Bundeswehr) radarkupol\u00e1i."},
+        {"q": "Mi tal\u00e1lhat\u00f3 a cs\u00facs alatt?", "a": "A fest\u0151i Nagy-Arber-t\u00f3 (Gro\u00dfer Arbersee)."}
+      ],
+      "ro": [
+        {"q": "De ce se nume\u0219te Gro\u00dfer Arber 'Regele P\u0103durii Bavareze'?", "a": "Deoarece este cel mai \u00eenalt munte din P\u0103durea Bavarez\u0103, cu 1.456 m."},
+        {"q": "Ce este special la v\u00e2rful s\u0103u?", "a": "Este singura cot\u0103 din regiune situat\u0103 deasupra limitei p\u0103durii."},
+        {"q": "Ce sunt acele cupole de pe munte?", "a": "Sunt sta\u021bii radar ale armatei germane (Bundeswehr)."},
+        {"q": "Ce se afl\u0103 sub v\u00e2rf?", "a": "Pitorescul lac Gro\u00dfer Arbersee."}
+      ],
+      "en": [
+        {"q": "Why is the Großer Arber called the 'King of the Bavarian Forest'?", "a": "Because at 1,456 m it is the highest mountain in the Bavarian Forest."},
+        {"q": "What is special about the summit?", "a": "It is the only elevation in the region above the tree line."},
+        {"q": "What are the prominent domes on the mountain?", "a": "Those are radar stations of the German Armed Forces."},
+        {"q": "What lies below the summit?", "a": "The picturesque Großer Arbersee lake."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-watzmann",
+    "faq": {
+      "de": [
+        {"q": "Was ist die Sage vom Watzmann?", "a": "Ein grausamer K\u00f6nig und seine Familie sollen dort versteinert worden sein."},
+        {"q": "Was ist die Watzmann-Ostwand?", "a": "Die h\u00f6chste Felswand der Ostalpen (1.800 m)."},
+        {"q": "Wie hoch ist der Watzmann?", "a": "Der h\u00f6chste Punkt, die Mittelspitze, liegt auf 2.713 m."},
+        {"q": "Welcher See liegt direkt am Fu\u00df des Berges?", "a": "Der weltber\u00fchmte K\u00f6nigssee."}
+      ],
+      "hu": [
+        {"q": "Mi a Watzmann-legenda?", "a": "A t\u00f6rt\u00e9net szerint egy kegyetlen kir\u00e1ly \u00e9s csal\u00e1dja v\u00e1lt ott k\u0151v\u00e9."},
+        {"q": "Mi az a Watzmann-keleti fal?", "a": "A Keleti-Alpok legmagasabb sziklafala (1800 m)."},
+        {"q": "Milyen magas a Watzmann?", "a": "Legmagasabb pontja, a Mittelspitze, 2713 m\u00e9ter."},
+        {"q": "Melyik t\u00f3 fekszik k\u00f6zvetlen\u00fcl a hegy l\u00e1b\u00e1n\u00e1l?", "a": "A vil\u00e1gh\u00edr\u0171 K\u00f6nigssee (Kir\u00e1ly-t\u00f3)."}
+      ],
+      "ro": [
+        {"q": "Care este legenda muntelui Watzmann?", "a": "Se spune c\u0103 un rege crud \u0219i familia sa au fost pietrifica\u021bi acolo."},
+        {"q": "Ce este peretele estic al Watzmann?", "a": "Cel mai \u00eenalt perete de st\u00e2nc\u0103 din Alpii Orientali (1.800 m)."},
+        {"q": "C\u00e2t de \u00eenalt este Watzmann?", "a": "Cel mai \u00eenalt punct, Mittelspitze, se afl\u0103 la 2.713 m."},
+        {"q": "Ce lac se afl\u0103 chiar la poalele muntelui?", "a": "Faimosul lac K\u00f6nigssee."}
+      ],
+      "en": [
+        {"q": "What is the legend of the Watzmann?", "a": "A cruel king and his family are said to have been turned to stone there."},
+        {"q": "What is the Watzmann East Face?", "a": "The highest rock wall in the Eastern Alps (1,800 m)."},
+        {"q": "How high is the Watzmann?", "a": "The highest point, the Middle Peak, is at 2,713 m."},
+        {"q": "Which lake lies directly at the foot of the mountain?", "a": "The world-famous Königssee."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-wasserkuppe",
+    "faq": {
+      "de": [
+        {"q": "Warum ist die Wasserkuppe f\u00fcr Flieger wichtig?", "a": "Sie gilt als die 'Wiege des Segelflugs'."},
+        {"q": "Was ist der h\u00f6chste Berg in Hessen?", "a": "Die Wasserkuppe mit 950 m."},
+        {"q": "Welcher Fluss entspringt an der Wasserkuppe?", "a": "Die Fulda hat hier ihre Quelle."},
+        {"q": "Was kann man dort au\u00dfer Fliegen machen?", "a": "Es gibt eine Sommerrodelbahn und das Segelflugmuseum."}
+      ],
+      "hu": [
+        {"q": "Mi\u00e9rt fontos a Wasserkuppe a rep\u00fcl\u0151knek?", "a": "A 'vitorl\u00e1z\u00f3rep\u00fcl\u00e9s b\u00f6lcs\u0151jek\u00e9nt' ismert."},
+        {"q": "Melyik Hessen legmagasabb hegye?", "a": "A Wasserkuppe, amely 950 m\u00e9ter magas."},
+        {"q": "Melyik foly\u00f3 ered a Wasserkupp\u00e9n?", "a": "Itt tal\u00e1lhat\u00f3 a Fulda foly\u00f3 forr\u00e1sa."},
+        {"q": "Mit lehet ott m\u00e9g csin\u00e1lni a rep\u00fcl\u00e9sen k\u00edv\u00fcl?", "a": "Van ny\u00e1ri bobp\u00e1lya \u00e9s vitorl\u00e1z\u00f3rep\u00fcl\u0151 m\u00fazeum is."}
+      ],
+      "ro": [
+        {"q": "De ce este Wasserkuppe important\u0103 pentru aviatori?", "a": "Este considerat\u0103 'leag\u0103nul zborului cu planorul'."},
+        {"q": "Care este cel mai \u00eenalt munte din landul Hessa?", "a": "Muntele Wasserkuppe, cu 950 m."},
+        {"q": "Ce r\u00e2u izvor\u0103\u0219te pe Wasserkuppe?", "a": "R\u00e2ul Fulda \u00ee\u0219i are izvorul aici."},
+        {"q": "Ce se mai poate face acolo \u00een afar\u0103 de zbor?", "a": "Exist\u0103 o p\u0103rtie de bob de var\u0103 \u0219i muzeul planoarelor."}
+      ],
+      "en": [
+        {"q": "Why is the Wasserkuppe important for pilots?", "a": "It is considered the 'cradle of gliding'."},
+        {"q": "What is the highest mountain in Hesse?", "a": "The Wasserkuppe at 950 m."},
+        {"q": "Which river rises at the Wasserkuppe?", "a": "The Fulda river has its source here."},
+        {"q": "What else can you do there besides flying?", "a": "There is a summer toboggan run and the gliding museum."}
+      ]
+    }
+  },
+  {
+    "id": "mnt-fichtelberg",
+    "faq": {
+      "de": [
+        {"q": "Was ist der h\u00f6chste Berg Sachsens?", "a": "Der Fichtelberg mit 1.214 Metern."},
+        {"q": "In welchem Gebirge liegt der Fichtelberg?", "a": "Im Erzgebirge an der Grenze zu Tschechien."},
+        {"q": "Was ist Oberwiesenthal?", "a": "Der bekannteste Kurort am Fu\u00df des Berges und h\u00f6chstgelegene Stadt Deutschlands."},
+        {"q": "Wie kommt man auf den Gipfel?", "a": "Zum Beispiel mit der \u00e4ltesten Seilschwebebahn Deutschlands."}
+      ],
+      "hu": [
+        {"q": "Melyik Sz\u00e1szorsz\u00e1g legmagasabb hegye?", "a": "A Fichtelberg, amely 1214 m\u00e9ter magas."},
+        {"q": "Melyik hegys\u00e9gben fekszik a Fichtelberg?", "a": "Az \u00c9rchegys\u00e9gben, a cseh hat\u00e1r ment\u00e9n."},
+        {"q": "Mi az az Oberwiesenthal?", "a": "A hegy l\u00e1b\u00e1n\u00e1l fekv\u0151 legismertebb \u00fcd\u00fcl\u0151hely \u00e9s N\u00e9metorsz\u00e1g legmagasabban fekv\u0151 v\u00e1rosa."},
+        {"q": "Hogyan lehet feljutni a cs\u00facsra?", "a": "P\u00e9ld\u00e1ul N\u00e9metorsz\u00e1g legr\u00e9gebbi k\u00e9tk\u00f6teles felvon\u00f3j\u00e1val."}
+      ],
+      "ro": [
+        {"q": "Care este cel mai \u00eenalt munte din Saxonia?", "a": "Fichtelberg, cu 1.214 metri."},
+        {"q": "\u00cen ce mun\u021bi se afl\u0103 Fichtelberg?", "a": "\u00cen Mun\u021bii Metaliferi (Erzgebirge), la grani\u021ba cu Cehia."},
+        {"q": "Ce este Oberwiesenthal?", "a": "Cea mai cunoscut\u0103 sta\u021biune de la poalele muntelui \u0219i cel mai \u00eenalt ora\u0219 din Germania."},
+        {"q": "Cum se poate ajunge pe v\u00e2rf?", "a": "De exemplu, cu cea mai veche telecabin\u0103 din Germania."}
+      ],
+      "en": [
+        {"q": "What is the highest mountain in Saxony?", "a": "The Fichtelberg at 1,214 meters."},
+        {"q": "In which mountain range is the Fichtelberg located?", "a": "In the Ore Mountains (Erzgebirge) on the border with Czechia."},
+        {"q": "What is Oberwiesenthal?", "a": "The most famous resort at the foot of the mountain and the highest town in Germany."},
+        {"q": "How can you reach the summit?", "a": "For example, with the oldest cable car in Germany."}
+      ]
+    }
+  }
+]

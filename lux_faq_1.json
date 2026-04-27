@@ -1,0 +1,298 @@
+{
+  "lu-country": {
+    "de": [
+      { "q": "Was ist die Staatsform von Luxemburg?", "a": "Luxemburg ist das einzige verbliebene Großherzogtum der Welt." },
+      { "q": "Wie viele Amtssprachen hat Luxemburg?", "a": "Es gibt drei offizielle Amtssprachen: Luxemburgisch, Französisch und Deutsch." },
+      { "q": "Ist der öffentliche Nahverkehr in Luxemburg kostenlos?", "a": "Ja, Luxemburg war das erste Land der Welt, das landesweit kostenlosen öffentlichen Nahverkehr eingeführt hat." },
+      { "q": "Wo befindet sich der höchste Punkt des Landes?", "a": "Der höchste Punkt ist der Kneiff in Wilwerdingen mit einer Höhe von 560 Metern." },
+      { "q": "Welche Bedeutung hat das Schengener Abkommen für Luxemburg?", "a": "Das Abkommen wurde 1985 in dem luxemburgischen Dorf Schengen unterzeichnet und ermöglicht den grenzfreien Reiseverkehr in Europa." }
+    ],
+    "hu": [
+      { "q": "Mi Luxemburg államformája?", "a": "Luxemburg a világ egyetlen fennmaradó Nagyhercegsége." },
+      { "q": "Hány hivatalos nyelv van Luxemburgban?", "a": "Három hivatalos nyelv van: a luxemburgi, a francia és a német." },
+      { "q": "Ingyenes a tömegközlekedés Luxemburgban?", "a": "Igen, Luxemburg volt az első ország a világon, amely az egész országban ingyenessé tette a tömegközlekedést." },
+      { "q": "Melyik az ország legmagasabb pontja?", "a": "A legmagasabb pont a Kneiff Wilwerdingenben, amely 560 méter magas." },
+      { "q": "Mi a jelentősége a schengeni egyezménynek Luxemburg számára?", "a": "Az egyezményt 1985-ben a luxemburgi Schengen faluban írták alá, és lehetővé teszi a határok nélküli utazást Európában." }
+    ],
+    "ro": [
+      { "q": "Care este forma de guvernământ a Luxemburgului?", "a": "Luxemburg este singurul mare ducat rămas în lume." },
+      { "q": "Câte limbi oficiale există în Luxemburg?", "a": "Există trei limbi oficiale: luxemburgheza, franceza și germana." },
+      { "q": "Este transportul public gratuit în Luxemburg?", "a": "Da, Luxemburg a fost prima țară din lume care a introdus transportul public gratuit la nivel național." },
+      { "q": "Care este cel mai înalt punct din țară?", "a": "Cel mai înalt punct este Kneiff din Wilwerdingen, cu o înălțime de 560 de metri." },
+      { "q": "Ce importanță are Acordul Schengen pentru Luxemburg?", "a": "Acordul a fost semnat în 1985 în satul luxemburghez Schengen și permite circulația liberă în Europa." }
+    ],
+    "en": [
+      { "q": "What is the form of government in Luxembourg?", "a": "Luxembourg is the only remaining Grand Duchy in the world." },
+      { "q": "How many official languages are there in Luxembourg?", "a": "There are three official languages: Luxembourgish, French, and German." },
+      { "q": "Is public transport free in Luxembourg?", "a": "Yes, Luxembourg was the first country in the world to make public transport free nationwide." },
+      { "q": "What is the highest point in the country?", "a": "The highest point is the Kneiff in Wilwerdingen, with an elevation of 560 meters." },
+      { "q": "What is the significance of the Schengen Agreement for Luxembourg?", "a": "The agreement was signed in 1985 in the Luxembourgish village of Schengen, enabling border-free travel in Europe." }
+    ]
+  },
+  "lu-luxembourg-city": {
+    "de": [
+      { "q": "Was ist das 'Gibraltar des Nordens'?", "a": "So wurde Luxemburg-Stadt aufgrund seiner gewaltigen Festungsanlagen früher genannt." },
+      { "q": "Seit wann gehört die Altstadt von Luxemburg zum UNESCO-Weltkulturerbe?", "a": "Die Altstadt und ihre Festungsanlagen wurden 1994 in die Liste des UNESCO-Weltkulturerbes aufgenommen." },
+      { "q": "Was sind die Bock-Kasematten?", "a": "Ein 23 km langes unterirdisches Tunnelnetz, das Teil der ehemaligen Stadtfestung war." },
+      { "q": "Welcher Ort in Luxemburg-Stadt wird als 'schönster Balkon Europas' bezeichnet?", "a": "Der Chemin de la Corniche, der einen spektakulären Blick auf den Grund bietet." },
+      { "q": "Welche bedeutende EU-Institution hat ihren Sitz in Luxemburg-Stadt?", "a": "Der Europäische Gerichtshof befindet sich auf dem Kirchberg-Plateau." }
+    ],
+    "hu": [
+      { "q": "Mi az 'Észak Gibraltárja'?", "a": "Így nevezték korábban Luxemburg várost hatalmas erődítményei miatt." },
+      { "q": "Mióta része Luxemburg óvárosa az UNESCO Világörökségnek?", "a": "Az óvárost és erődítményeit 1994-ben vették fel az UNESCO Világörökségi listájára." },
+      { "q": "Mik azok a Bock-kazamaták?", "a": "Egy 23 km hosszú föld alatti alagútrendszer, amely az egykori várerőd része volt." },
+      { "q": "Melyik helyet nevezik Luxemburgban 'Európa legszebb erkélyének'?", "a": "A Chemin de la Corniche sétányt, amely lenyűgöző kilátást nyújt a Grund negyedre." },
+      { "q": "Melyik jelentős uniós intézmény székhelye van Luxemburgban?", "a": "Az Európai Bíróság a Kirchberg-fennsíkon található." }
+    ],
+    "ro": [
+      { "q": "Ce este 'Gibraltarul Nordului'?", "a": "Așa a fost supranumit orașul Luxemburg datorită fortificațiilor sale masive." },
+      { "q": "Din ce an face parte orașul vechi din Luxemburg din Patrimoniul UNESCO?", "a": "Orașul vechi și fortificațiile sale au fost incluse în lista UNESCO în 1994." },
+      { "q": "Ce sunt Casematele Bock?", "a": "O rețea de tuneluri subterane de 23 km, care făcea parte din fosta fortăreață a orașului." },
+      { "q": "Ce loc din orașul Luxemburg este numit 'cel mai frumos balcon al Europei'?", "a": "Chemin de la Corniche, care oferă o vedere spectaculoasă asupra cartierului Grund." },
+      { "q": "Ce instituție importantă a UE are sediul în orașul Luxemburg?", "a": "Curtea de Justiție a Uniunii Europene se află pe platoul Kirchberg." }
+    ],
+    "en": [
+      { "q": "What is the 'Gibraltar of the North'?", "a": "This was the nickname given to Luxembourg City due to its massive fortifications." },
+      { "q": "Since when has Luxembourg's Old Town been a UNESCO World Heritage site?", "a": "The Old Town and its fortifications were added to the UNESCO list in 1994." },
+      { "q": "What are the Bock Casemates?", "a": "A 23 km long network of underground tunnels that were part of the former city fortress." },
+      { "q": "Which spot in Luxembourg City is called 'Europe's most beautiful balcony'?", "a": "The Chemin de la Corniche, which offers spectacular views of the Grund district." },
+      { "q": "Which major EU institution is based in Luxembourg City?", "a": "The European Court of Justice is located on the Kirchberg plateau." }
+    ]
+  },
+  "lu-vianden": {
+    "de": [
+      { "q": "Was ist die Hauptattraktion von Vianden?", "a": "Die prachtvolle Burg Vianden, eine der größten und schönsten feudalen Residenzen Europas." },
+      { "q": "Welcher berühmte französische Schriftsteller lebte im Exil in Vianden?", "a": "Victor Hugo lebte 1871 in Vianden; sein ehemaliges Wohnhaus ist heute ein Museum." },
+      { "q": "Gibt es in Vianden einen Sessellift?", "a": "Ja, es ist der einzige Sessellift in Luxemburg und bietet einen tollen Blick auf die Burg." },
+      { "q": "Wann findet das berühmte Mittelalterfest in Vianden statt?", "a": "Das Mittelalterfest findet jährlich im August in der Burg Vianden statt." },
+      { "q": "An welchem Fluss liegt Vianden?", "a": "Vianden liegt malerisch im Tal der Our, die hier die Grenze zu Deutschland bildet." }
+    ],
+    "hu": [
+      { "q": "Mi Vianden fő látnivalója?", "a": "A pompás Viandeni vár, amely Európa egyik legnagyobb és legszebb feudális rezidenciája." },
+      { "q": "Melyik híres francia író élt száműzetésben Viandenben?", "a": "Victor Hugo 1871-ben élt Viandenben; egykori lakóháza ma múzeum." },
+      { "q": "Van libegő Viandenben?", "a": "Igen, ez Luxemburg egyetlen libegője, és nagyszerű kilátást nyújt a várra." },
+      { "q": "Mikor rendezik meg a híres középkori fesztivált Viandenben?", "a": "A középkori fesztivált minden év augusztusában tartják a Viandeni várban." },
+      { "q": "Melyik folyó partján fekszik Vianden?", "a": "Vianden festői környezetben, az Our folyó völgyében fekszik, amely itt a határt képezi Németországgal." }
+    ],
+    "ro": [
+      { "q": "Care este principala atracție din Vianden?", "a": "Magnificul castel Vianden, una dintre cele mai mari și mai frumoase reședințe feudale din Europa." },
+      { "q": "Ce scriitor francez celebru a trăit în exil la Vianden?", "a": "Victor Hugo a locuit la Vianden în 1871; fosta sa casă este acum un muzeu." },
+      { "q": "Există un telescaun în Vianden?", "a": "Da, este singurul telescaun din Luxemburg și oferă o vedere excelentă asupra castelului." },
+      { "q": "Când are loc celebrul festival medieval din Vianden?", "a": "Festivalul medieval are loc anual în luna august, în incinta castelului Vianden." },
+      { "q": "Pe ce râu este situat Vianden?", "a": "Vianden este situat pitoresc în valea râului Our, care formează aici granița cu Germania." }
+    ],
+    "en": [
+      { "q": "What is the main attraction of Vianden?", "a": "The magnificent Vianden Castle, one of the largest and most beautiful feudal residences in Europe." },
+      { "q": "Which famous French writer lived in exile in Vianden?", "a": "Victor Hugo lived in Vianden in 1871; his former residence is now a museum." },
+      { "q": "Is there a chairlift in Vianden?", "a": "Yes, it is the only chairlift in Luxembourg and offers a great view of the castle." },
+      { "q": "When does the famous medieval festival in Vianden take place?", "a": "The medieval festival is held annually in August at Vianden Castle." },
+      { "q": "On which river is Vianden located?", "a": "Vianden is picturesquely located in the valley of the Our River, which forms the border with Germany here." }
+    ]
+  },
+  "lu-echternach": {
+    "de": [
+      { "q": "Warum ist Echternach historisch so bedeutend?", "a": "Es ist die älteste Stadt Luxemburgs, gegründet im Jahr 698 vom Heiligen Willibrord." },
+      { "q": "Was ist die Echternacher Springprozession?", "a": "Eine religiöse Tradition, bei der Pilger zu Musik durch die Stadt springen; sie gehört zum UNESCO-Weltkulturerbe." },
+      { "q": "Wer ist der Schutzpatron der Stadt Echternach?", "a": "Der Heilige Willibrord, dessen Krypta sich in der Basilika von Echternach befindet." },
+      { "q": "Welche Region beginnt direkt bei Echternach?", "a": "Echternach gilt als das Tor zum Müllerthal, auch bekannt als 'Kleine Luxemburger Schweiz'." },
+      { "q": "Gibt es römische Überreste in Echternach?", "a": "Ja, in Echternach befinden sich die Ruinen einer der größten römischen Villen nördlich der Alpen." }
+    ],
+    "hu": [
+      { "q": "Miért olyan jelentős történelmileg Echternach?", "a": "Ez Luxemburg legrégebbi városa, amelyet 698-ban alapított Szent Willibrord." },
+      { "q": "Mi az az echternachi szökőkörmenet?", "a": "Egy vallási hagyomány, ahol a zarándokok zene ütemére táncolnak végig a városon; az UNESCO szellemi örökség része." },
+      { "q": "Ki Echternach város védőszentje?", "a": "Szent Willibrord, akinek kriptája az echternachi bazilikában található." },
+      { "q": "Melyik régió kezdődik közvetlenül Echternachnál?", "a": "Echternach a Mullerthal, más néven a 'Kis Luxemburgi Svájc' kapuja." },
+      { "q": "Vannak római kori maradványok Echternachban?", "a": "Igen, Echternachban találhatók az Alpoktól északra fekvő egyik legnagyobb római villa romjai." }
+    ],
+    "ro": [
+      { "q": "De ce este Echternach atât de important din punct de vedere istoric?", "a": "Este cel mai vechi oraș din Luxemburg, fondat în anul 698 de Sfântul Willibrord." },
+      { "q": "Ce este Procesiunea Dansantă din Echternach?", "a": "O tradiție religioasă în care pelerinii dansează prin oraș pe muzică; face parte din patrimoniul UNESCO." },
+      { "q": "Cine este sfântul protector al orașului Echternach?", "a": "Sfântul Willibrord, a cărui criptă se află în bazilica din Echternach." },
+      { "q": "Ce regiune începe chiar lângă Echternach?", "a": "Echternach este considerat poarta de intrare în Mullerthal, cunoscută și sub numele de 'Mica Elveție'." },
+      { "q": "Există vestigii romane în Echternach?", "a": "Da, în Echternach se află ruinele uneia dintre cele mai mari vile romane de la nord de Alpi." }
+    ],
+    "en": [
+      { "q": "Why is Echternach so historically significant?", "a": "It is the oldest town in Luxembourg, founded in 698 by Saint Willibrord." },
+      { "q": "What is the Echternach Dancing Procession?", "a": "A religious tradition where pilgrims dance through the town to music; it is a UNESCO Intangible Cultural Heritage." },
+      { "q": "Who is the patron saint of Echternach?", "a": "Saint Willibrord, whose crypt is located in the Basilica of Echternach." },
+      { "q": "Which region starts right at Echternach?", "a": "Echternach is the gateway to the Mullerthal, also known as 'Little Switzerland'." },
+      { "q": "Are there Roman remains in Echternach?", "a": "Yes, Echternach is home to the remains of one of the largest Roman villas north of the Alps." }
+    ]
+  },
+  "lu-mullerthal": {
+    "de": [
+      { "q": "Was ist das Müllerthal?", "a": "Eine Region in Luxemburg, die wegen ihrer Felsen und Wälder als 'Kleine Luxemburger Schweiz' bekannt ist." },
+      { "q": "Was ist der Schiessentümpel?", "a": "Ein berühmter Wasserfall mit einer malerischen Steinbrücke, das Wahrzeichen des Müllerthals." },
+      { "q": "Wie lang ist der Müllerthal Trail?", "a": "Der Müllerthal Trail ist ein zertifizierter Wanderweg mit einer Gesamtlänge von 112 Kilometern." },
+      { "q": "Welche Gesteinsart prägt die Landschaft im Müllerthal?", "a": "Die Region ist berühmt für ihre spektakulären Sandsteinfelsformationen." },
+      { "q": "Gibt es Höhlen im Müllerthal, die man besuchen kann?", "a": "Ja, es gibt viele Schluchten und Höhlen, wie zum Beispiel die Wolfsschlucht (Wollefsschlucht)." }
+    ],
+    "hu": [
+      { "q": "Mi az a Mullerthal?", "a": "Egy luxemburgi régió, amelyet sziklái és erdői miatt 'Kis Luxemburgi Svájcként' ismernek." },
+      { "q": "Mi az a Schiessentümpel?", "a": "Egy híres vízesés festői kőhíddal, amely a Mullerthal jelképe." },
+      { "q": "Milyen hosszú a Mullerthal Trail?", "a": "A Mullerthal Trail egy minősített túraútvonal, amelynek teljes hossza 112 kilométer." },
+      { "q": "Milyen kőzet határozza meg a Mullerthal tájképét?", "a": "A régió a látványos homokkő sziklaalakzatairól híres." },
+      { "q": "Vannak látogatható barlangok a Mullerthalban?", "a": "Igen, számos szurdok és barlang található itt, például a Farkas-szakadék (Wollefsschlucht)." }
+    ],
+    "ro": [
+      { "q": "Ce este Mullerthal?", "a": "O regiune din Luxemburg cunoscută sub numele de 'Mica Elveție' datorită stâncilor și pădurilor sale." },
+      { "q": "Ce este Schiessentümpel?", "a": "O cascadă celebră cu un pod de piatră pitoresc, simbolul regiunii Mullerthal." },
+      { "q": "Cât de lung este Mullerthal Trail?", "a": "Mullerthal Trail este un traseu de drumeție certificat cu o lungime totală de 112 kilometri." },
+      { "q": "Ce tip de rocă definește peisajul din Mullerthal?", "a": "Regiunea este faimoasă pentru spectaculoasele sale formațiuni de gresie." },
+      { "q": "Există peșteri în Mullerthal care pot fi vizitate?", "a": "Da, există multe defilee și peșteri, cum ar fi Gura Lupului (Wollefsschlucht)." }
+    ],
+    "en": [
+      { "q": "What is the Mullerthal?", "a": "A region in Luxembourg known as 'Little Switzerland' for its rocky landscape and forests." },
+      { "q": "What is the Schiessentümpel?", "a": "A famous waterfall with a picturesque stone bridge, the landmark of the Mullerthal." },
+      { "q": "How long is the Mullerthal Trail?", "a": "The Mullerthal Trail is a certified hiking trail with a total length of 112 kilometers." },
+      { "q": "What type of rock characterizes the Mullerthal landscape?", "a": "The region is famous for its spectacular sandstone rock formations." },
+      { "q": "Are there caves in the Mullerthal that can be visited?", "a": "Yes, there are many gorges and caves, such as the Wolf's Gorge (Wollefsschlucht)." }
+    ]
+  },
+  "lu-schengen": {
+    "de": [
+      { "q": "Warum ist das Dorf Schengen weltweit bekannt?", "a": "Hier wurde 1985 das Schengener Abkommen unterzeichnet, das die Binnengrenzen in Europa öffnete." },
+      { "q": "In welchem Dreiländereck liegt Schengen?", "a": "Schengen liegt am Treffpunkt der Grenzen von Luxemburg, Frankreich und Deutschland." },
+      { "q": "An welchem Fluss liegt Schengen?", "a": "Schengen liegt am Ufer der Mosel." },
+      { "q": "Was kann man im Europäischen Museum Schengen sehen?", "a": "Es dokumentiert die Geschichte des Abkommens und die Entwicklung der offenen Grenzen in Europa." },
+      { "q": "Wofür ist die Region um Schengen neben dem Abkommen noch bekannt?", "a": "Für ihren Weinbau, insbesondere für exzellente Weißweine aus dem Moseltal." }
+    ],
+    "hu": [
+      { "q": "Miért világhírű Schengen falu?", "a": "Itt írták alá 1985-ben a schengeni egyezményt, amely megnyitotta a belső határokat Európában." },
+      { "q": "Melyik hármashatárnál fekszik Schengen?", "a": "Schengen Luxemburg, Franciaország és Németország határainak találkozásánál fekszik." },
+      { "q": "Melyik folyó partján fekszik Schengen?", "a": "Schengen a Moselle folyó partján fekszik." },
+      { "q": "Mit láthatunk a schengeni Európai Múzeumban?", "a": "A múzeum az egyezmény történetét és a nyitott európai határok fejlődését mutatja be." },
+      { "q": "Miről ismert még a Schengen környéki régió az egyezményen kívül?", "a": "A borászatáról, különösen a Moselle-völgy kiváló fehérborairól." }
+    ],
+    "ro": [
+      { "q": "De ce este satul Schengen cunoscut în întreaga lume?", "a": "Aici a fost semnat în 1985 Acordul Schengen, care a deschis frontierele interne în Europa." },
+      { "q": "La ce punct triplu de frontieră se află Schengen?", "a": "Schengen se află la punctul unde se întâlnesc granițele Luxemburgului, Franței și Germaniei." },
+      { "q": "Pe ce râu este situat Schengen?", "a": "Schengen este situat pe malul râului Mosela." },
+      { "q": "Ce se poate vedea la Muzeul European din Schengen?", "a": "Muzeul documentează istoria acordului și dezvoltarea frontierelor deschise în Europa." },
+      { "q": "Pentru ce mai este cunoscută regiunea Schengen în afară de acord?", "a": "Pentru viticultură, în special pentru vinurile albe excelente din Valea Mosellei." }
+    ],
+    "en": [
+      { "q": "Why is the village of Schengen world-famous?", "a": "The Schengen Agreement was signed here in 1985, opening internal borders in Europe." },
+      { "q": "At which tripoint border is Schengen located?", "a": "Schengen is located at the meeting point of the borders of Luxembourg, France, and Germany." },
+      { "q": "On which river is Schengen situated?", "a": "Schengen is located on the banks of the Moselle River." },
+      { "q": "What can you see at the European Museum Schengen?", "a": "It documents the history of the agreement and the development of open borders in Europe." },
+      { "q": "What else is the Schengen region known for besides the agreement?", "a": "For its viticulture, especially for excellent white wines from the Moselle Valley." }
+    ]
+  },
+  "city-luxembourg": {
+    "de": [
+      { "q": "Was ist die Hauptstadt von Luxemburg?", "a": "Die Hauptstadt heißt ebenfalls Luxemburg (Luxemburg-Stadt)." },
+      { "q": "Wie viele Einwohner hat Luxemburg-Stadt etwa?", "a": "Die Stadt hat etwa 130.000 Einwohner, ist aber das wirtschaftliche Zentrum für die ganze Region." },
+      { "q": "Welches Viertel der Stadt liegt im tiefen Tal?", "a": "Das Viertel Grund liegt malerisch im Tal der Alzette." },
+      { "q": "Was ist die 'Gëlle Fra'?", "a": "Ein goldenes Mahnmal auf der Place de la Constitution, das an die Gefallenen der Weltkriege erinnert." },
+      { "q": "Wie heißt der Sitz der großherzoglichen Familie in der Stadt?", "a": "Der Palais Grand-Ducal (Großherzoglicher Palast)." }
+    ],
+    "hu": [
+      { "q": "Mi Luxemburg fővárosa?", "a": "A fővárost szintén Luxemburgnak hívják (Luxemburg város)." },
+      { "q": "Körülbelül hány lakosa van Luxemburg városnak?", "a": "A városnak körülbelül 130 000 lakosa van, de az egész régió gazdasági központja." },
+      { "q": "A város melyik negyede fekszik a mély völgyben?", "a": "A Grund negyed festői környezetben, az Alzette folyó völgyében található." },
+      { "q": "Mi az a 'Gëlle Fra'?", "a": "Egy arany emlékmű a Place de la Constitution téren, amely a világháborúk áldozataira emlékeztet." },
+      { "q": "Hogy hívják a nagyhercegi család városi rezidenciáját?", "a": "A Palais Grand-Ducal (Nagyhercegi Palota)." }
+    ],
+    "ro": [
+      { "q": "Care este capitala Luxemburgului?", "a": "Capitala se numește tot Luxemburg (orașul Luxemburg)." },
+      { "q": "Câți locuitori are aproximativ orașul Luxemburg?", "a": "Orașul are aproximativ 130.000 de locuitori, dar este centrul economic pentru întreaga regiune." },
+      { "q": "Ce cartier al orașului este situat în valea adâncă?", "a": "Cartierul Grund este situat pitoresc în valea râului Alzette." },
+      { "q": "Ce este 'Gëlle Fra'?", "a": "Un monument auriu în Place de la Constitution, care comemorează victimele războaielor mondiale." },
+      { "q": "Cum se numește sediul familiei marelui duce din oraș?", "a": "Palais Grand-Ducal (Palatul Marilor Duci)." }
+    ],
+    "en": [
+      { "q": "What is the capital of Luxembourg?", "a": "The capital is also named Luxembourg (Luxembourg City)." },
+      { "q": "Approximately how many inhabitants does Luxembourg City have?", "a": "The city has about 130,000 inhabitants, but it is the economic hub for the entire region." },
+      { "q": "Which district of the city is located in the deep valley?", "a": "The Grund district is picturesquely located in the Alzette valley." },
+      { "q": "What is the 'Gëlle Fra'?", "a": "A golden monument in Place de la Constitution commemorating those who died in the world wars." },
+      { "q": "What is the name of the Grand Ducal family's city residence?", "a": "The Palais Grand-Ducal (Grand Ducal Palace)." }
+    ]
+  },
+  "city-esch": {
+    "de": [
+      { "q": "Was ist Esch-sur-Alzette?", "a": "Esch-sur-Alzette ist die zweitgrößte Stadt Luxemburgs und liegt im Süden des Landes." },
+      { "q": "Wofür war Esch früher bekannt?", "a": "Für seine bedeutende Eisen- und Stahlindustrie in der Region 'Terres Rouges' (Rote Erde)." },
+      { "q": "Was ist Belval?", "a": "Ein ehemaliges Industriegelände in Esch, das heute ein moderner Stadtteil mit Universität und Kulturzentren ist." },
+      { "q": "Welches große Konzerthaus befindet sich in Esch-Belval?", "a": "Die Rockhal, das bekannteste Konzerthaus des Großherzogtums." },
+      { "q": "War Esch schon einmal Kulturhauptstadt?", "a": "Ja, Esch-sur-Alzette war im Jahr 2022 Europäische Kulturhauptstadt." }
+    ],
+    "hu": [
+      { "q": "Mi az az Esch-sur-Alzette?", "a": "Esch-sur-Alzette Luxemburg második legnagyobb városa, az ország déli részén található." },
+      { "q": "Miről volt ismert korábban Esch?", "a": "A jelentős vas- és acéliparáról a 'Terres Rouges' (Vörös Föld) régióban." },
+      { "q": "Mi az a Belval?", "a": "Egy egykori ipari terület Eschben, amely ma egyetemi és kulturális központokkal rendelkező modern városrész." },
+      { "q": "Melyik nagy koncertterem található Esch-Belvalban?", "a": "A Rockhal, a Nagyhercegség legismertebb koncerthelyszíne." },
+      { "q": "Volt már Esch Európa Kulturális Fővárosa?", "a": "Igen, Esch-sur-Alzette 2022-ben Európa Kulturális Fővárosa volt." }
+    ],
+    "ro": [
+      { "q": "Ce este Esch-sur-Alzette?", "a": "Esch-sur-Alzette este al doilea oraș ca mărime din Luxemburg și se află în sudul țării." },
+      { "q": "Pentru ce a fost cunoscut Esch în trecut?", "a": "Pentru industria sa importantă de fier și oțel din regiunea 'Terres Rouges' (Pământurile Roșii)." },
+      { "q": "Ce este Belval?", "a": "O fostă zonă industrială din Esch, care astăzi este un cartier modern cu universitate și centre culturale." },
+      { "q": "Ce sală mare de concerte se află în Esch-Belval?", "a": "Rockhal, cea mai cunoscută sală de concerte din Marele Ducat." },
+      { "q": "A fost vreodată Esch Capitală Europeană a Culturii?", "a": "Da, Esch-sur-Alzette a fost Capitală Europeană a Culturii în anul 2022." }
+    ],
+    "en": [
+      { "q": "What is Esch-sur-Alzette?", "a": "Esch-sur-Alzette is the second-largest city in Luxembourg, located in the south of the country." },
+      { "q": "What was Esch known for in the past?", "a": "For its major iron and steel industry in the 'Terres Rouges' (Red Lands) region." },
+      { "q": "What is Belval?", "a": "A former industrial site in Esch that is now a modern district with a university and cultural centers." },
+      { "q": "Which large concert hall is located in Esch-Belval?", "a": "The Rockhal, the Grand Duchy's most famous concert venue." },
+      { "q": "Has Esch ever been a European Capital of Culture?", "a": "Yes, Esch-sur-Alzette was the European Capital of Culture in 2022." }
+    ]
+  },
+  "city-differdange": {
+    "de": [
+      { "q": "Wo liegt Differdingen?", "a": "Differdingen liegt im Südwesten Luxemburgs und ist die drittgrößte Stadt des Landes." },
+      { "q": "Welchen Beinamen hat Differdingen?", "a": "Die Stadt wird aufgrund ihrer Industriegeschichte oft als 'Eisenstadt' bezeichnet." },
+      { "q": "Was ist das Luxembourg Science Center?", "a": "Ein interaktives Wissenschaftsmuseum in Differdingen, das besonders bei Familien beliebt ist." },
+      { "q": "Wofür wird das Schloss Differdingen heute genutzt?", "a": "Es dient als Campus für die Miami University aus den USA." },
+      { "q": "Gibt es Naturgebiete um Differdingen?", "a": "Ja, die Stadt ist von Wäldern umgeben, wie dem Naturreservat 'Prënzebierg'." }
+    ],
+    "hu": [
+      { "q": "Hol fekszik Differdange?", "a": "Differdange Luxemburg délnyugati részén fekszik, és az ország harmadik legnagyobb városa." },
+      { "q": "Mi Differdange beceneve?", "a": "Ipari múltja miatt a várost gyakran 'Vasmunkások városának' (Iron City) nevezik." },
+      { "q": "Mi az a Luxemburgi Tudományos Központ?", "a": "Egy interaktív tudományos múzeum Differdange-ban, amely különösen népszerű a családok körében." },
+      { "q": "Mire használják ma a Differdange-i kastélyt?", "a": "Az amerikai Miami Egyetem kampuszaként szolgál." },
+      { "q": "Vannak természeti területek Differdange körül?", "a": "Igen, a várost erdők veszik körül, például a 'Prënzebierg' természetvédelmi terület." }
+    ],
+    "ro": [
+      { "q": "Unde se află Differdange?", "a": "Differdange se află în sud-vestul Luxemburgului și este al treilea oraș ca mărime din țară." },
+      { "q": "Ce poreclă are orașul Differdange?", "a": "Orașul este adesea supranumit 'Orașul Fierului' datorită istoriei sale industriale." },
+      { "q": "Ce este Luxembourg Science Center?", "a": "Un muzeu interactiv de știință din Differdange, foarte popular în rândul familiilor." },
+      { "q": "Pentru ce este folosit astăzi castelul Differdange?", "a": "Servește drept campus pentru Universitatea Miami din SUA." },
+      { "q": "Există zone naturale în jurul orașului Differdange?", "a": "Da, orașul este încurat de păduri, cum ar fi rezervația naturală 'Prënzebierg'." }
+    ],
+    "en": [
+      { "q": "Where is Differdange located?", "a": "Differdange is in southwestern Luxembourg and is the country's third-largest city." },
+      { "q": "What is Differdange's nickname?", "a": "The city is often called the 'Iron City' due to its industrial history." },
+      { "q": "What is the Luxembourg Science Center?", "a": "An interactive science museum in Differdange, especially popular with families." },
+      { "q": "What is Differdange Castle used for today?", "a": "It serves as a campus for Miami University from the USA." },
+      { "q": "Are there nature areas around Differdange?", "a": "Yes, the city is surrounded by forests, such as the 'Prënzebierg' nature reserve." }
+    ]
+  },
+  "cult-bock": {
+    "de": [
+      { "q": "Was sind die Bock-Kasematten?", "a": "Ein riesiges unterirdisches Tunnelnetz in Luxemburg-Stadt, das Teil der ehemaligen Festung war." },
+      { "q": "Wann wurden die Kasematten gebaut?", "a": "Der Bau begann 1644 unter spanischer Herrschaft." },
+      { "q": "Wie lang war das Tunnelnetz auf seinem Höhepunkt?", "a": "Es erstreckte sich über 23 Kilometer." },
+      { "q": "Wozu dienten die Kasematten im Zweiten Weltkrieg?", "a": "Sie dienten der Zivilbevölkerung als Luftschutzbunker." }
+    ],
+    "hu": [
+      { "q": "Mik azok a Bock-kazamaták?", "a": "Hatalmas föld alatti alagútrendszer Luxemburg városban, amely az egykori erőd része volt." },
+      { "q": "Mikor épültek a kazamaták?", "a": "Az építkezés 1644-ben kezdődött spanyol fennhatóság alatt." },
+      { "q": "Milyen hosszú volt az alagútrendszer a fénykorában?", "a": "23 kilométer hosszan nyúlt el." },
+      { "q": "Mire használták a kazamatákat a második világháborúban?", "a": "A polgári lakosság számára óvóhelyként szolgáltak." }
+    ],
+    "ro": [
+      { "q": "Ce sunt Casematele Bock?", "a": "O rețea uriașă de tuneluri subterane în orașul Luxemburg, care făcea parte din fosta fortăreață." },
+      { "q": "Când au fost construite casematele?", "a": "Construcția a început în 1644 sub stăpânire spaniolă." },
+      { "q": "Cât de lungă era rețeaua de tuneluri la apogeul său?", "a": "Se întindea pe o lungime de 23 de kilometri." },
+      { "q": "La ce au servit casematele în al Doilea Război Mondial?", "a": "Au servit ca adăpost antiaerian pentru populația civilă." }
+    ],
+    "en": [
+      { "q": "What are the Bock Casemates?", "a": "A massive network of underground tunnels in Luxembourg City that was part of the former fortress." },
+      { "q": "When were the casemates built?", "a": "Construction began in 1644 under Spanish rule." },
+      { "q": "How long was the tunnel network at its peak?", "a": "It spanned over 23 kilometers." },
+      { "q": "What were the casemates used for during WWII?", "a": "They served as air-raid shelters for the civilian population." }
+    ]
+  }
+}

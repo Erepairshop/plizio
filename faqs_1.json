@@ -1,0 +1,267 @@
+
+{
+  "RO": {
+    "de": [
+      { "q": "Was ist der höchste Berg in Rumänien?", "a": "Der Moldoveanu-Gipfel in den Făgăraș-Bergen ist mit 2.544 Metern der höchste Punkt des Landes." },
+      { "q": "Wann ist der Nationalfeiertag Rumäniens?", "a": "Der Nationalfeiertag wird am 1. Dezember gefeiert und erinnert an die Vereinigung von 1918." },
+      { "q": "Welches Meer grenzt an Rumänien?", "a": "Das Schwarze Meer bildet die südöstliche Grenze des Landes." },
+      { "q": "Ist Rumänien Teil des Schengen-Raums?", "a": "Ja, seit März 2024 gehört Rumänien teilweise zum Schengen-Raum (Luft- und Seeweg)." },
+      { "q": "Wie heißt der längste Fluss, der durch Rumänien fließt?", "a": "Die Donau ist der wichtigste und längste Fluss des Landes und mündet im Donaudelta ins Schwarze Meer." }
+    ],
+    "hu": [
+      { "q": "Melyik Románia legmagasabb pontja?", "a": "A Fogarasi-havasokban található Moldoveanu-csúcs, amely 2544 méter magas." },
+      { "q": "Mikor van Románia nemzeti ünnepe?", "a": "December 1-jén ünneplik az 1918-as egyesülés emlékére." },
+      { "q": "Melyik tenger határolja Romániát?", "a": "A Fekete-tenger alkotja az ország délkeleti határát." },
+      { "q": "Románia tagja a schengeni övezetnek?", "a": "Igen, 2024 márciusa óta Románia részlegesen (légi és vízi úton) a schengeni övezet tagja." },
+      { "q": "Melyik a leghosszabb folyó Romániában?", "a": "A Duna a legjelentősebb folyó, amely a Duna-deltán keresztül ömlik a Fekete-tengerbe." }
+    ],
+    "ro": [
+      { "q": "Care este cel mai înalt vârf din România?", "a": "Vârful Moldoveanu din Munții Făgăraș este cel mai înalt punct, având 2.544 de metri." },
+      { "q": "Când este Ziua Națională a României?", "a": "Ziua Națională se sărbătorește pe 1 decembrie, marcarea Marii Uniri din 1918." },
+      { "q": "Ce mare se învecinează cu România?", "a": "Marea Neagră formează granița de sud-est a țării." },
+      { "q": "Este România în spațiul Schengen?", "a": "Da, din martie 2024, România a aderat parțial la spațiul Schengen (aerian și maritim)." },
+      { "q": "Care este cel mai lung fluviu care trece prin România?", "a": "Dunărea este cel mai important fluviu, vărsându-se în Marea Neagră prin Delta Dunării." }
+    ],
+    "en": [
+      { "q": "What is the highest peak in Romania?", "a": "Moldoveanu Peak in the Făgăraș Mountains is the highest point at 2,544 meters." },
+      { "q": "When is the National Day of Romania?", "a": "The National Day is celebrated on December 1st, commemorating the 1918 Great Union." },
+      { "q": "Which sea borders Romania?", "a": "The Black Sea forms the south-eastern border of the country." },
+      { "q": "Is Romania part of the Schengen Area?", "a": "Yes, since March 2024, Romania has partially joined the Schengen Area (air and sea)." },
+      { "q": "What is the longest river flowing through Romania?", "a": "The Danube is the most significant river, flowing into the Black Sea through the Danube Delta." }
+    ]
+  },
+  "RO-AB": {
+    "de": [
+      { "q": "Was bedeutet der Name 'Alba'?", "a": "Der Name leitet sich vom lateinischen Wort für 'weiß' ab." },
+      { "q": "Welche berühmte Festung steht in Alba Iulia?", "a": "Die Festung Alba Carolina, eine beeindruckende sternförmige Anlage im Vauban-Stil." },
+      { "q": "Gibt es im Kreis Alba UNESCO-Welterbestätten?", "a": "Ja, das Bergdorf Roșia Montană und die Kirchenburg von Câlnic gehören dazu." },
+      { "q": "Welcher Fluss ist prägend für die Region?", "a": "Der Fluss Mureș durchfließt den Kreis und prägt das Landschaftsbild." }
+    ],
+    "hu": [
+      { "q": "Mit jelent az 'Alba' név?", "a": "A név a latin 'fehér' szóból származik (magyarul Fehér megye)." },
+      { "q": "Melyik híres erőd található Gyulafehérváron?", "a": "Az Alba Carolina erőd, amely egy lenyűgöző csillag alakú Vauban-stílusú építmény." },
+      { "q": "Van UNESCO világörökségi helyszín a megyében?", "a": "Igen, Verespatak (Roșia Montană) és Kelnek erődtemploma is a világörökség része." },
+      { "q": "Melyik folyó határozza meg a régió képét?", "a": "A Maros folyó szeli át a megyét, jelentősen befolyásolva a tájat." }
+    ],
+    "ro": [
+      { "q": "Ce înseamnă numele 'Alba'?", "a": "Numele provine din limba latină și înseamnă 'alb'." },
+      { "q": "Ce cetate celebră se află în Alba Iulia?", "a": "Cetatea Alba Carolina, o fortificație spectaculoasă în stil Vauban, în formă de stea." },
+      { "q": "Există situri UNESCO în județul Alba?", "a": "Da, Roșia Montană și cetatea de la Câlnic sunt incluse în patrimoniul UNESCO." },
+      { "q": "Care este râul principal care trece prin județ?", "a": "Râul Mureș traversează județul, fiind principala arteră hidrografică a zonei." }
+    ],
+    "en": [
+      { "q": "What does the name 'Alba' mean?", "a": "The name is derived from the Latin word for 'white'." },
+      { "q": "Which famous fortress is located in Alba Iulia?", "a": "The Alba Carolina Citadel, an impressive star-shaped Vauban-style fortification." },
+      { "q": "Are there any UNESCO World Heritage sites in Alba?", "a": "Yes, Roșia Montană and the Câlnic fortress are part of the UNESCO heritage." },
+      { "q": "Which river characterizes the region?", "a": "The Mureș River flows through the county, shaping its landscape." }
+    ]
+  },
+  "RO-AG": {
+    "de": [
+      { "q": "Woher hat der Kreis Argeș seinen Namen?", "a": "Der Kreis ist nach dem Fluss Argeș benannt, der durch die Region fließt." },
+      { "q": "Was ist das bekannteste Produkt aus Argeș?", "a": "Die Dacia-Autos, die im Werk in Mioveni bei Pitești hergestellt werden." },
+      { "q": "Welche historische Stadt war früher die Hauptstadt der Walachei?", "a": "Curtea de Argeș war eine der ersten Hauptstädte des Fürstentums Walachei." },
+      { "q": "Was ist die Transfogarascher Hochstraße?", "a": "Eine der spektakulärsten Gebirgsstraßen der Welt, die die Karpaten im Kreis Argeș überquert." }
+    ],
+    "hu": [
+      { "q": "Honnan kapta Argeș megye a nevét?", "a": "A megyét a rajta keresztülfolyó Argeș folyóról nevezték el." },
+      { "q": "Mi Argeș legismertebb terméke?", "a": "A Dacia gépkocsik, amelyeket a Pitești melletti Mioveni gyárban állítanak elő." },
+      { "q": "Melyik történelmi város volt egykor Havasalföld fővárosa?", "a": "Curtea de Argeș (Argyasudvarhely) volt a Havasalföldi Fejedelemség egyik első fővárosa." },
+      { "q": "Mi az a Transzfogarasi út?", "a": "A világ egyik leglátványosabb hegyi útja, amely Argeș megyében szeli át a Kárpátokat." }
+    ],
+    "ro": [
+      { "q": "De unde provine numele județului Argeș?", "a": "Județul poartă numele râului Argeș, care traversează regiunea." },
+      { "q": "Care este cel mai cunoscut produs industrial din Argeș?", "a": "Automobilele Dacia, produse la uzina de la Mioveni, lângă Pitești." },
+      { "q": "Care a fost prima capitală a Țării Românești situată în acest județ?", "a": "Curtea de Argeș a fost una dintre primele capitale ale Țării Românești." },
+      { "q": "Ce este Transfăgărășanul?", "a": "Una dintre cele mai spectaculoase șosele montane din lume, care traversează munții prin județul Argeș." }
+    ],
+    "en": [
+      { "q": "Where does the name of Argeș County come from?", "a": "The county is named after the Argeș River, which flows through the region." },
+      { "q": "What is the best-known product from Argeș?", "a": "Dacia cars, manufactured at the plant in Mioveni, near Pitești." },
+      { "q": "Which historical city was once the capital of Wallachia?", "a": "Curtea de Argeș was one of the first capitals of the Principality of Wallachia." },
+      { "q": "What is the Transfăgărășan?", "a": "One of the world's most spectacular mountain roads, crossing the Carpathians in Argeș County." }
+    ]
+  },
+  "RO-AR": {
+    "de": [
+      { "q": "Welchen architektonischen Stil findet man oft in Arad?", "a": "Die Stadt ist bekannt für ihre prächtigen Gebäude im Sezessions- und Barockstil." },
+      { "q": "Welche Bedeutung hat die Festung Arad?", "a": "Sie ist eine der wenigen Vauban-Festungen in Osteuropa, die noch militärisch genutzt werden." },
+      { "q": "Welcher Wein ist typisch für die Region Arad?", "a": "Der Rote aus Miniș (Cadarca) ist eine berühmte lokale Weinsorte." },
+      { "q": "Wie weit ist Arad von der ungarischen Grenze entfernt?", "a": "Die Stadt liegt nur etwa 50 Kilometer von der ungarischen Grenze entfernt." }
+    ],
+    "hu": [
+      { "q": "Milyen építészeti stílus jellemző Aradra?", "a": "A város híres pompás szecessziós és barokk stílusú épületeiről." },
+      { "q": "Mi az aradi vár jelentősége?", "a": "Ez az egyik ritka kelet-európai Vauban-erőd, amelyet még mindig katonai célokra használnak." },
+      { "q": "Melyik bor tipikus az aradi régióban?", "a": "A ménesi vörösbor (Ménesi Kadarka) egy híres helyi borfajta." },
+      { "q": "Milyen messze van Arad a magyar határtól?", "a": "A város mindössze körülbelül 50 kilométerre fekszik a magyar határtól." }
+    ],
+    "ro": [
+      { "q": "Ce stil arhitectural este predominant în orașul Arad?", "a": "Orașul este cunoscut pentru clădirile sale splendide în stil Secession și Baroc." },
+      { "q": "Care este particularitatea Cetății Aradului?", "a": "Este una dintre puținele cetăți de tip Vauban din Europa de Est care încă mai are destinație militară." },
+      { "q": "Ce soi de vin este renumit în regiunea Aradului?", "a": "Cadarca de Miniș este un soi de vin roșu celebru, specific acestei zone." },
+      { "q": "Cât de aproape este Aradul de granița cu Ungaria?", "a": "Orașul se află la o distanță de aproximativ 50 de kilometri de frontiera cu Ungaria." }
+    ],
+    "en": [
+      { "q": "Which architectural style is commonly found in Arad?", "a": "The city is famous for its magnificent Secession and Baroque style buildings." },
+      { "q": "What is the significance of the Arad Fortress?", "a": "It is one of the few Vauban fortresses in Eastern Europe still used for military purposes." },
+      { "q": "Which wine is typical for the Arad region?", "a": "Cadarca of Miniș is a famous local red wine variety." },
+      { "q": "How far is Arad from the Hungarian border?", "a": "The city is located only about 50 kilometers from the Hungarian border." }
+    ]
+  },
+  "RO-B": {
+    "de": [
+      { "q": "Welchen Spitznamen hatte Bukarest in der Zwischenkriegszeit?", "a": "Die Stadt wurde aufgrund ihrer Eleganz und Architektur 'Kleines Paris' genannt." },
+      { "q": "Was ist das Wahrzeichen der Stadt?", "a": "Der monumentale Parlamentspalast ist das bekannteste Symbol der Stadt." },
+      { "q": "Gibt es in Bukarest viele Parks?", "a": "Ja, die Stadt hat viele Grünflächen, darunter den Herăstrău-Park und den Cișmigiu-Garten." },
+      { "q": "Wo befindet sich das historische Zentrum?", "a": "Das Viertel Lipscani ist das älteste Viertel der Stadt und heute ein beliebtes Ausgehviertel." }
+    ],
+    "hu": [
+      { "q": "Mi volt Bukarest beceneve a két világháború között?", "a": "A várost eleganciája és építészete miatt 'Kis Párizsnak' nevezték." },
+      { "q": "Mi a város legismertebb jelképe?", "a": "A monumentális Parlamenti Palota a város legismertebb szimbóluma." },
+      { "q": "Sok park található Bukarestben?", "a": "Igen, a város számos zöld területtel rendelkezik, mint például a Herăstrău park és a Cișmigiu kert." },
+      { "q": "Hol található a történelmi központ?", "a": "A Lipscani negyed a város legrégebbi része, amely ma népszerű szórakozónegyed." }
+    ],
+    "ro": [
+      { "q": "Ce poreclă avea Bucureștiul în perioada interbelică?", "a": "Orașul era supranumit 'Micul Paris' datorită eleganței și arhitecturii sale." },
+      { "q": "Care este cea mai emblematică clădire a orașului?", "a": "Monumentalul Palat al Parlamentului este cel mai cunoscut simbol al Bucureștiului." },
+      { "q": "Are Bucureștiul multe spații verzi?", "a": "Da, orașul dispune de numeroase parcuri, precum Herăstrău, Cișmigiu sau Tineretului." },
+      { "q": "Unde se află centrul istoric al orașului?", "a": "Cartierul Lipscani reprezintă centrul istoric, fiind astăzi o zonă foarte populară pentru petrecerea timpului liber." }
+    ],
+    "en": [
+      { "q": "What was Bucharest's nickname in the interwar period?", "a": "The city was called 'Little Paris' due to its elegance and architecture." },
+      { "q": "What is the city's main landmark?", "a": "The monumental Palace of the Parliament is the most famous symbol of the city." },
+      { "q": "Are there many parks in Bucharest?", "a": "Yes, the city has many green spaces, including Herăstrău Park and the Cișmigiu Garden." },
+      { "q": "Where is the historical center located?", "a": "The Lipscani district is the oldest part of the city and is now a popular entertainment area." }
+    ]
+  },
+  "RO-BC": {
+    "de": [
+      { "q": "Welcher Kurort im Kreis Bacău ist für sein Heilwasser bekannt?", "a": "Slănic-Moldova ist berühmt für seine über 20 Mineralquellen." },
+      { "q": "Gibt es im Kreis Bacău ein Salzbergwerk?", "a": "Ja, das Salzbergwerk Târgu Ocna ist ein bedeutendes Ziel für Touristen und Kurgäste." },
+      { "q": "Welche Rolle spielt die Industrie im Kreis Bacău?", "a": "Die Region hat eine starke Tradition in der Ölraffinerie und im Maschinenbau." },
+      { "q": "Wer ist der berühmteste Dichter aus Bacău?", "a": "George Bacovia, einer der bedeutendsten rumänischen symbolistischen Dichter." }
+    ],
+    "hu": [
+      { "q": "Melyik Bákó megyei üdülőhely híres gyógyvizeiről?", "a": "Slănic-Moldova (Szlanikfürdő) több mint 20 ásványvízforrásáról ismert." },
+      { "q": "Van sóbánya Bákó megyében?", "a": "Igen, az aknavásári (Târgu Ocna) sóbánya jelentős turisztikai és egészségügyi célpont." },
+      { "q": "Milyen szerepet játszik az ipar Bákó megyében?", "a": "A régiónak erős hagyományai vannak az olajfinomításban és a gépgyártásban." },
+      { "q": "Ki a leghíresebb költő, aki Bákóból származik?", "a": "George Bacovia, a román szimbolista költészet egyik legjelentősebb alakja." }
+    ],
+    "ro": [
+      { "q": "Ce stațiune din județul Bacău este renumită pentru apele sale curative?", "a": "Slănic-Moldova este celebră pentru cele peste 20 de izvoare de apă minerală." },
+      { "q": "Există vreo salină în județul Bacău?", "a": "Da, Salina Târgu Ocna este o destinație majoră pentru turism și tratament." },
+      { "q": "Ce ramură industrială este tradițională în județul Bacău?", "a": "Regiunea are o tradiție îndelungată în rafinarea petrolului și industria constructoare de mașini." },
+      { "q": "Cine este cel mai cunoscut poet născut în Bacău?", "a": "George Bacovia este unul dintre cei mai importanți poeți simboliști din literatura română." }
+    ],
+    "en": [
+      { "q": "Which resort in Bacău County is famous for its healing waters?", "a": "Slănic-Moldova is renowned for its more than 20 mineral springs." },
+      { "q": "Is there a salt mine in Bacău County?", "a": "Yes, Târgu Ocna salt mine is a significant destination for tourists and health seekers." },
+      { "q": "What role does industry play in Bacău County?", "a": "The region has a strong tradition in oil refining and machinery manufacturing." },
+      { "q": "Who is the most famous poet from Bacău?", "a": "George Bacovia, one of the most important Romanian symbolist poets." }
+    ]
+  },
+  "RO-BH": {
+    "de": [
+      { "q": "Was ist das Besondere an der Architektur von Oradea?", "a": "Oradea ist eine der bedeutendsten Jugendstil-Städte in Europa." },
+      { "q": "Welcher Thermalort liegt in der Nähe von Oradea?", "a": "Băile Felix ist der größte und bekannteste Thermal-Kurort in Rumänien." },
+      { "q": "Was kann man in der Bärenhöhle sehen?", "a": "Beeindruckende Tropfsteinformationen und Skelette von Höhlenbären." },
+      { "q": "Welcher Fluss fließt durch den Kreis Bihor?", "a": "Der Crișul Repede (Schnelle Kreisch) durchquert die Region und die Stadt Oradea." }
+    ],
+    "hu": [
+      { "q": "Mi teszi különlegessé Nagyvárad építészetét?", "a": "Nagyvárad Európa egyik legjelentősebb szecessziós városa." },
+      { "q": "Melyik termálvizes üdülőhely található Nagyvárad közelében?", "a": "Félixfürdő Románia legnagyobb és legismertebb termálvizes gyógyhelye." },
+      { "q": "Mit lehet látni a Medve-barlangban?", "a": "Lenyűgöző cseppkőképződményeket és barlangi medvék csontvázait." },
+      { "q": "Melyik folyó folyik keresztül Bihar megyén?", "a": "A Sebes-Körös szeli át a régiót és Nagyvárad városát." }
+    ],
+    "ro": [
+      { "q": "Prin ce se remarcă arhitectura orașului Oradea?", "a": "Oradea este unul dintre cele mai importante orașe Art Nouveau din Europa." },
+      { "q": "Ce stațiune termală se află lângă Oradea?", "a": "Băile Felix este cea mai mare și cunoscută stațiune balneoclimaterică din România." },
+      { "q": "Ce se poate vizita la Peștera Urșilor?", "a": "Formațiuni spectaculoase de stalactite și stalagmite, precum și schelete de urși de peșteră." },
+      { "q": "Ce râu traversează județul Bihor?", "a": "Crișul Repede traversează regiunea și municipiul Oradea." }
+    ],
+    "en": [
+      { "q": "What is special about Oradea's architecture?", "a": "Oradea is one of the most significant Art Nouveau cities in Europe." },
+      { "q": "Which thermal resort is located near Oradea?", "a": "Băile Felix is the largest and best-known thermal spa resort in Romania." },
+      { "q": "What can be seen in the Bears Cave?", "a": "Impressive stalactite and stalagmite formations and skeletons of cave bears." },
+      { "q": "Which river flows through Bihor County?", "a": "The Crișul Repede flows through the region and the city of Oradea." }
+    ]
+  },
+  "RO-BN": {
+    "de": [
+      { "q": "Welche sächsische Erbe findet man in Bistritz?", "a": "Die evangelische Kirche mit ihrem 75 Meter hohen Turm ist ein Wahrzeichen." },
+      { "q": "Was ist der Colibița-See?", "a": "Ein Stausee in den Bergen, der für seine ozonreiche, saubere Luft bekannt ist." },
+      { "q": "Wie heißt der Pass, der nach Moldau führt?", "a": "Der Tihuța-Pass (Borgó-Pass), bekannt aus der Dracula-Legende." },
+      { "q": "Gibt es Naturschutzgebiete im Kreis?", "a": "Ja, der Nationalpark Rodna-Gebirge schützt seltene Pflanzen und Tiere." }
+    ],
+    "hu": [
+      { "q": "Milyen szász örökség található Besztercén?", "a": "Az evangélikus templom a 75 méter magas tornyával a város jelképe." },
+      { "q": "Mi az a Colibița-tó?", "a": "Egy hegyi víztározó, amely az ózonban gazdag, tiszta levegőjéről híres." },
+      { "q": "Hogy hívják a Moldvába vezető hágót?", "a": "Borgói-hágó (Pasul Tihuța), amely a Drakula-legendából is ismert." },
+      { "q": "Vannak természetvédelmi területek a megyében?", "a": "Igen, a Radnai-havasok Nemzeti Park ritka növényeket és állatokat védelmez." }
+    ],
+    "ro": [
+      { "q": "Ce moștenire săsească importantă se află în Bistrița?", "a": "Biserica Evanghelică, cu turnul său de 75 de metri, este un simbol al orașului." },
+      { "q": "Ce este special la Lacul Colibița?", "a": "Este un lac de acumulare montan renumit pentru puritatea aerului și concentrația mare de ozon." },
+      { "q": "Cum se numește pasul care face legătura cu Moldova?", "a": "Pasul Tihuța, cunoscut și sub numele de Pasul Bârgău, celebru din legenda lui Dracula." },
+      { "q": "Există rezervații naturale în județ?", "a": "Da, Parcul Național Munții Rodnei protejează specii rare de floră și faună." }
+    ],
+    "en": [
+      { "q": "What Saxon heritage can be found in Bistrița?", "a": "The Evangelical Church with its 75-meter high tower is a landmark." },
+      { "q": "What is Colibița Lake?", "a": "A mountain reservoir known for its ozone-rich, clean air." },
+      { "q": "What is the name of the pass leading to Moldavia?", "a": "The Tihuța Pass (Borgó Pass), famous from the Dracula legend." },
+      { "q": "Are there nature reserves in the county?", "a": "Yes, the Rodna Mountains National Park protects rare plants and animals." }
+    ]
+  },
+  "RO-BR": {
+    "de": [
+      { "q": "Was ist die wirtschaftliche Basis von Brăila?", "a": "Hafendienstleistungen an der Donau und die Landwirtschaft in der Bărăgan-Ebene." },
+      { "q": "Welches kulturelle Ereignis ist wichtig für Brăila?", "a": "Der internationale Harfen-Wettbewerb und Musikfestivals am Maria-Filotti-Theater." },
+      { "q": "Gibt es Naturgebiete zum Besuchen?", "a": "Der Naturpark 'Balta Mică a Brăilei' ist ein Paradies für Vogelbeobachter." },
+      { "q": "Ist Brăila eine historische Stadt?", "a": "Ja, im 19. Jahrhundert war sie eine der wohlhabendsten Handelsstädte am Unterlauf der Donau." }
+    ],
+    "hu": [
+      { "q": "Mi Brăila gazdasági alapja?", "a": "A dunai kikötői szolgáltatások és a Bărăgan-síkság mezőgazdasága." },
+      { "q": "Milyen kulturális esemény fontos Brăila számára?", "a": "A nemzetközi hárfaverseny és a Maria Filotti Színház zenei fesztiváljai." },
+      { "q": "Vannak látogatható természeti területek?", "a": "A Brăilai Kis-sziget Natúrpark a madármegfigyelők paradicsoma." },
+      { "q": "Történelmi város Brăila?", "a": "Igen, a 19. században az Alsó-Duna egyik leggazdagabb kereskedelmi városa volt." }
+    ],
+    "ro": [
+      { "q": "Care este baza economică a județului Brăila?", "a": "Serviciile portuare la Dunăre și agricultura din Câmpia Bărăganului." },
+      { "q": "Ce eveniment cultural important are loc în Brăila?", "a": "Concursul internațional de harpă și festivalurile de la Teatrul Maria Filotti." },
+      { "q": "Ce zone naturale pot fi vizitate?", "a": "Parcul Natural Balta Mică a Brăilei este un paradis pentru observarea păsărilor." },
+      { "q": "Este Brăila un oraș istoric?", "a": "Da, în secolul al XIX-lea a fost unul dintre cele mai prospere orașe comerciale de la Dunăre." }
+    ],
+    "en": [
+      { "q": "What is the economic basis of Brăila?", "a": "Port services on the Danube and agriculture in the Bărăgan Plain." },
+      { "q": "What cultural event is important for Brăila?", "a": "The international harp competition and music festivals at the Maria Filotti Theater." },
+      { "q": "Are there natural areas to visit?", "a": "The 'Small Island of Brăila' Natural Park is a paradise for birdwatchers." },
+      { "q": "Is Brăila a historic city?", "a": "Yes, in the 19th century, it was one of the wealthiest commercial cities on the Lower Danube." }
+    ]
+  },
+  "RO-BT": {
+    "de": [
+      { "q": "Warum wird Botoșani 'Kreis der Kultur' genannt?", "a": "Weil hier bedeutende Persönlichkeiten wie Eminescu, Enescu und Iorga geboren wurden." },
+      { "q": "Gibt es Denkmäler für Mihai Eminescu?", "a": "Ja, sein Geburtshaus in Ipotești ist ein vielbesuchtes Museum." },
+      { "q": "Welcher Fluss bildet die Grenze?", "a": "Der Pruth bildet die östliche Grenze des Kreises zur Republik Moldau." },
+      { "q": "Was ist typisch für die Landschaft?", "a": "Weite, sanfte Hügel und eine sehr ruhige, ländliche Atmosphäre." }
+    ],
+    "hu": [
+      { "q": "Miért hívják Botoșani-t a 'kultúra megyéjének'?", "a": "Mert olyan jelentős személyiségek születtek itt, mint Eminescu, Enescu és Iorga." },
+      { "q": "Vannak emlékművek Mihai Eminescu tiszteletére?", "a": "Igen, ipotești-i szülőháza népszerű múzeum." },
+      { "q": "Melyik folyó alkotja a határt?", "a": "A Prut folyó alkotja a megye keleti határát a Moldovai Köztársasággal." },
+      { "q": "Mi jellemző a tájra?", "a": "Tágas, lankás dombok és nagyon nyugodt, vidéki hangulat." }
+    ],
+    "ro": [
+      { "q": "De ce este Botoșani numit 'județul culturii'?", "a": "Deoarece aici s-au născut mari personalități precum Eminescu, Enescu și Iorga." },
+      { "q": "Există monumente dedicate lui Mihai Eminescu?", "a": "Da, casa sa natală de la Ipotești este un muzeu foarte vizitat." },
+      { "q": "Ce râu formează granița județului?", "a": "Râul Prut formează granița de est a județului cu Republica Moldova." },
+      { "q": "Ce este specific peisajului din Botoșani?", "a": "Dealurile domoale și o atmosferă rurală foarte liniștită." }
+    ],
+    "en": [
+      { "q": "Why is Botoșani called the 'county of culture'?", "a": "Because great personalities like Eminescu, Enescu, and Iorga were born here." },
+      { "q": "Are there monuments dedicated to Mihai Eminescu?", "a": "Yes, his birthplace in Ipotești is a frequently visited museum." },
+      { "q": "Which river forms the border?", "a": "The Prut river forms the county's eastern border with the Republic of Moldova." },
+      { "q": "What is typical for the landscape?", "a": "Broad, rolling hills and a very peaceful, rural atmosphere." }
+    ]
+  }
+}

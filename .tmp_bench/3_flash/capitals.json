@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Budapest",
+    "country": "Magyarország",
+    "lat": 47.49791,
+    "lon": 19.04023,
+    "founded_year": 1873,
+    "fun_fact": {
+      "de": "Budapest hat die älteste U-Bahn-Linie des europäischen Festlands.",
+      "hu": "Budapest rendelkezik a kontinentális Európa legrégebbi földalatti vasútvonalával.",
+      "ro": "Budapesta are cea mai veche linie de metrou din Europa continentală.",
+      "en": "Budapest has the oldest underground railway line in continental Europe."
+    }
+  },
+  {
+    "name": "København",
+    "country": "Dánia",
+    "lat": 55.67610,
+    "lon": 12.56834,
+    "founded_year": 1167,
+    "fun_fact": {
+      "de": "In Kopenhagen gibt es mehr Fahrräder als Einwohner.",
+      "hu": "Koppenhágában több kerékpár van, mint lakos.",
+      "ro": "În Copenhaga există mai multe biciclete decât locuitori.",
+      "en": "There are more bicycles than inhabitants in Copenhagen."
+    }
+  },
+  {
+    "name": "Roma",
+    "country": "Olaszország",
+    "lat": 41.89021,
+    "lon": 12.49223,
+    "founded_year": -753,
+    "fun_fact": {
+      "de": "Fast 700.000 Euro an Münzen werden jedes Jahr aus dem Trevi-Brunnen geworfen und für wohltätige Zwecke gespendet.",
+      "hu": "Évente közel 700 000 eurónyi érmét dobnak a Trevi-kútba, amit jótékonysági célokra fordítanak.",
+      "ro": "Aproape 700.000 de euro în monede sunt aruncați în Fontana di Trevi în fiecare an și donați în scopuri caritabile.",
+      "en": "Nearly 700,000 euros worth of coins are thrown into the Trevi Fountain each year and donated to charity."
+    }
+  }
+]

@@ -1,0 +1,332 @@
+{
+  "city-erfurt-extra": {
+    "desc_de": "Erfurt, die historische Landeshauptstadt Thüringens, ist eine der ältesten und am besten erhaltenen mittelalterlichen Großstädte Deutschlands. Gegründet im Jahr 742 durch den heiligen Bonifatius, entwickelte sich die Stadt im Mittelalter dank des Handels mit Waid (einer blauen Färberpflanze) zu einem blühenden Wirtschaftszentrum. Das Stadtbild wird vom monumentalen Ensemble des Erfurter Doms St. Marien und der Severikirche dominiert, die majestätisch auf dem Domberg thronen. Die weltberühmte Krämerbrücke, die längste durchgehend mit Häusern bebaute und bewohnte Brücke Europas, spannt sich malerisch über die Gera. Erfurt ist auch tief mit Martin Luther verbunden, der hier an der 1392 gegründeten Universität studierte und im Augustinerkloster als Mönch lebte. Heute ist die Stadt ein wichtiges administratives, kulturelles und wirtschaftliches Zentrum in der Mitte Deutschlands.",
+    "desc_hu": "Erfurt, Türingia történelmi tartományi fővárosa, Németország egyik legrégebbi és legjobb állapotban fennmaradt középkori nagyvárosa. A 742-ben Szent Bonifác által alapított város a középkorban a csülleng (egy kék festőnövény) kereskedelmének köszönhetően virágzó gazdasági központtá fejlődött. A városképet a Szűz Mária-dóm és a Severi-templom monumentális együttese uralja, amelyek fenségesen magasodnak a Domberg hegyén. A világhírű Krämerbrücke (Kalmárhíd), Európa leghosszabb, folyamatosan házakkal beépített és lakott hídja, festőien ível át a Gera folyón. Erfurt szorosan kötődik Luther Mártonhoz is, aki az 1392-ben alapított egyetemen tanult, és az Ágoston-rendi kolostorban élt szerzetesként. Ma a város fontos közigazgatási, kulturális és gazdasági központ Németország szívében.",
+    "facts_de": [
+      "Erfurt ist mit rund 214.000 Einwohnern die größte Stadt Thüringens.",
+      "Die Universität Erfurt, gegründet 1392, ist eine der ältesten Universitäten Deutschlands.",
+      "Die Gloriosa im Erfurter Dom ist die größte freischwingende mittelalterliche Glocke der Welt.",
+      "Der egapark in Erfurt ist einer der größten und schönsten Blumen- und Gartenparks Deutschlands.",
+      "Die Zitadelle Petersberg ist die einzige weitgehend erhaltene barocke Stadtfestung Mitteleuropas.",
+      "Martin Luther bezeichnete die Universität Erfurt einst als 'seine Mutter'.",
+      "Auf der Krämerbrücke befinden sich heute 32 (ursprünglich 62) Fachwerkhäuser."
+    ],
+    "facts_hu": [
+      "Erfurt mintegy 214 000 lakosával Türingia legnagyobb városa.",
+      "Az 1392-ben alapított Erfurti Egyetem Németország egyik legrégebbi egyeteme.",
+      "Az erfurti dómban található Gloriosa a világ legnagyobb szabadon lengő középkori harangja.",
+      "Az erfurti egapark Németország egyik legnagyobb és legszebb virág- és kertparkja.",
+      "A Petersberg fellegvár Közép-Európa egyetlen nagyrészt fennmaradt barokk városi erődítménye.",
+      "Luther Márton egykor az Erfurti Egyetemet 'anyjának' nevezte.",
+      "A Krämerbrückén (Kalmárhídon) ma 32 (eredetileg 62) favázas ház található."
+    ]
+  },
+  "city-weimar-extra": {
+    "desc_de": "Weimar, oft als die kulturelle Herzkammer Deutschlands bezeichnet, ist eine idyllische Stadt an der Ilm, deren historisches Erbe von beispielloser globaler Bedeutung ist. Ende des 18. und Anfang des 19. Jahrhunderts war die Stadt das Zentrum der 'Weimarer Klassik', in der Geistesgrößen wie Johann Wolfgang von Goethe, Friedrich Schiller und Johann Gottfried Herder lebten und wirkten. Dieses intellektuelle Erbe wird im Goethe-Nationalmuseum und in Schillers Wohnhaus lebendig gehalten. Im Jahr 1919 wurde hier das Bauhaus von Walter Gropius gegründet, eine Kunstschule, die Design und Architektur weltweit revolutionierte. Im selben Jahr trat im Deutschen Nationaltheater die Nationalversammlung zusammen und gründete die erste deutsche Demokratie, die Weimarer Republik. Aufgrund dieser dichten kulturellen und historischen Konzentration gehören viele Stätten der Stadt zum UNESCO-Weltkulturerbe.",
+    "desc_hu": "Weimar, amelyet gyakran Németország kulturális szívének is neveznek, egy idilli város az Ilm folyó partján, amelynek történelmi öröksége páratlan globális jelentőséggel bír. A 18. század végén és a 19. század elején a város a 'weimari klasszicizmus' központja volt, ahol olyan szellemi nagyságok éltek és alkottak, mint Johann Wolfgang von Goethe, Friedrich Schiller és Johann Gottfried Herder. Ezt a szellemi örökséget a Goethe Nemzeti Múzeum és Schiller lakóháza tartja életben. 1919-ben itt alapította meg Walter Gropius a Bauhaust, azt a művészeti iskolát, amely világszerte forradalmasította a formatervezést és az építészetet. Ugyanebben az évben a Német Nemzeti Színházban ült össze a Nemzetgyűlés, és megalapította az első német demokráciát, a weimari köztársaságot. E sűrű kulturális és történelmi koncentráció miatt a város számos helyszíne az UNESCO világörökség része.",
+    "facts_de": [
+      "Weimar war der Gründungsort der ersten demokratischen Republik Deutschlands im Jahr 1919.",
+      "Das 'Klassische Weimar' umfasst 11 verschiedene Denkmäler auf der UNESCO-Welterbeliste.",
+      "Goethe lebte über 50 Jahre in Weimar, von 1775 bis zu seinem Tod 1832.",
+      "Die Herzogin Anna Amalia Bibliothek beherbergt über eine Million historische Bände.",
+      "Das Bauhaus wurde 1919 von Walter Gropius in Weimar gegründet.",
+      "Der berühmte Zwiebelmarkt findet seit 1653 jedes Jahr im Oktober statt.",
+      "Die Stadt war 1999 Kulturhauptstadt Europas."
+    ],
+    "facts_hu": [
+      "Weimar volt az első német demokratikus köztársaság alapítási helye 1919-ben.",
+      "A 'Klasszikus Weimar' 11 különböző műemléket foglal magában az UNESCO világörökségi listáján.",
+      "Goethe több mint 50 évig, 1775-től 1832-ben bekövetkezett haláláig élt Weimarban.",
+      "Anna Amalia hercegnő könyvtára (Herzogin Anna Amalia Bibliothek) több mint egymillió történelmi kötetet őriz.",
+      "A Bauhaust Walter Gropius alapította Weimarban 1919-ben.",
+      "A híres Hagymavásárt (Zwiebelmarkt) 1653 óta minden év októberében megrendezik.",
+      "A város 1999-ben Európa Kulturális Fővárosa volt."
+    ]
+  },
+  "city-jena-extra": {
+    "desc_de": "Jena, eingebettet in die malerischen Muschelkalkhänge des mittleren Saaletals, ist die zweitgrößte Stadt Thüringens und ein pulsierendes Zentrum für Wissenschaft und Hochtechnologie. Die 1558 gegründete Friedrich-Schiller-Universität war um 1800 ein Zentrum der deutschen Frühromantik und des philosophischen Idealismus. Die moderne Identität Jenas wurde jedoch im späten 19. Jahrhundert geprägt, als Carl Zeiss, Ernst Abbe und Otto Schott den Grundstein für die optische und feinmechanische Industrie legten. Aus dieser Zusammenarbeit entstanden Weltkonzerne, die Jena den Titel 'Lichtstadt' einbrachten. Das Stadtbild ist geprägt von einer faszinierenden Mischung aus historischer Architektur, wie dem mittelalterlichen Johannistor, und modernen Hochhäusern wie dem JenTower, der an ein Fernglas erinnern soll. Jena ist heute eine junge, dynamische Studentenstadt mit hoher Lebensqualität und exzellenten Forschungseinrichtungen.",
+    "desc_hu": "Jena, amely a középső Saale-völgy festői kagylómészkő lejtőibe ágyazódik, Türingia második legnagyobb városa, és a tudomány, valamint a csúcstechnológia lüktető központja. Az 1558-ban alapított Friedrich Schiller Egyetem 1800 körül a német korai romantika és a filozófiai idealizmus központja volt. Jena modern identitását azonban a 19. század végén kapta, amikor Carl Zeiss, Ernst Abbe és Otto Schott megvetették az optikai és finommechanikai ipar alapjait. Ebből az együttműködésből olyan világcégek jöttek létre, amelyek meghozták Jenának a 'Fény városa' (Lichtstadt) címet. A városképet a történelmi építészet – mint például a középkori János-kapu (Johannistor) – és a modern felhőkarcolók, mint a távcsőre emlékeztető JenTower lenyűgöző keveréke jellemzi. Jena ma egy fiatal, dinamikus diákváros, amely magas életminőséggel és kiváló kutatóintézetekkel rendelkezik.",
+    "facts_de": [
+      "Jena ist die Wiege der modernen Optikindustrie, begründet von Carl Zeiss im Jahr 1846.",
+      "Der JenTower ist mit 144,5 Metern das höchste Bürogebäude in den neuen Bundesländern.",
+      "Das Zeiss-Planetarium in Jena, eröffnet 1926, ist das älteste noch in Betrieb befindliche Planetarium der Welt.",
+      "Etwa jeder vierte Einwohner der Stadt ist Student an der Universität oder Fachhochschule.",
+      "Die Schlacht bei Jena und Auerstedt (1806) markierte eine verheerende Niederlage Preußens gegen Napoleon.",
+      "Das Optische Museum Jena beherbergt eine der bedeutendsten Sammlungen optischer Instrumente.",
+      "Der Botanische Garten Jena ist der zweitälteste seiner Art in Deutschland."
+    ],
+    "facts_hu": [
+      "Jena a modern optikai ipar bölcsője, amelyet Carl Zeiss alapított 1846-ban.",
+      "A JenTower a maga 144,5 méterével a legmagasabb irodaépület a volt keletnémet tartományokban.",
+      "Az 1926-ban megnyílt jénai Zeiss-Planetárium a világ legrégebbi, még mindig működő planetáriuma.",
+      "A város lakosságának körülbelül minden negyedik tagja egyetemi vagy főiskolai hallgató.",
+      "A jénai és auerstedti csata (1806) Poroszország megsemmisítő vereségét hozta Napóleon ellen.",
+      "A jénai Optikai Múzeum az optikai műszerek egyik legjelentősebb gyűjteményének ad otthont.",
+      "A jénai Botanikus Kert a második legrégebbi a maga nemében Németországban."
+    ]
+  },
+  "castle-wartburg-extra": {
+    "desc_de": "Die Wartburg, die auf einem steilen Felsplateau über der Stadt Eisenach thront, ist zweifellos die berühmteste Burg Deutschlands und eng mit entscheidenden Ereignissen der deutschen Geschichte verknüpft. Gegründet im Jahr 1067 von Ludwig dem Springer, erlebte die Burg im Mittelalter als Sitz der Landgrafen von Thüringen ihre erste Blütezeit und war Schauplatz des legendären 'Sängerkrieges'. Die größte historische Strahlkraft erhielt die Burg jedoch 1521/1522, als der Reformator Martin Luther hier unter dem Decknamen 'Junker Jörg' Schutz fand und das Neue Testament in nur elf Wochen aus dem Griechischen ins Deutsche übersetzte. Im Jahr 1817 fand hier das Wartburgfest statt, eine wegweisende Demonstration von Studenten für einen einheitlichen deutschen Nationalstaat. Aufgrund ihrer herausragenden Bedeutung als 'ideale Burg' des Mittelalters wurde sie 1999 zum UNESCO-Weltkulturerbe erklärt.",
+    "desc_hu": "Wartburg vára, amely egy meredek sziklafennsíkon magasodik Eisenach városa fölött, kétségtelenül Németország leghíresebb vára, és szorosan kötődik a német történelem sorsdöntő eseményeihez. Az 1067-ben Ugró Lajos által alapított vár a középkorban, a türingiai tartománygrófok székhelyeként élte első virágkorát, és itt zajlott a legendás 'Dalnokverseny' is. Legnagyobb történelmi kisugárzását azonban 1521/1522-ben nyerte el, amikor a reformátor Luther Márton 'Junker Jörg' álnéven itt talált menedéket, és mindössze tizenegy hét alatt ógörögből németre fordította az Újszövetséget. 1817-ben itt rendezték meg a Wartburgi Ünnepet (Wartburgfest), a diákok úttörő tüntetését az egységes német nemzetállamért. A középkor 'ideális váraként' betöltött kiemelkedő jelentősége miatt 1999-ben az UNESCO világörökség részévé nyilvánították.",
+    "facts_de": [
+      "Die Wartburg wurde der Legende nach im Jahr 1067 gegründet.",
+      "Martin Luther übersetzte in der Burg das Neue Testament in nur elf Wochen ins Deutsche.",
+      "Die Heilige Elisabeth von Thüringen lebte im 13. Jahrhundert auf der Wartburg.",
+      "Das Palasgebäude (Landgrafenhaus) ist einer der besterhaltenen romanischen Profanbauten nördlich der Alpen.",
+      "Das Wartburgfest von 1817 forderte erstmals öffentlich einen deutschen Nationalstaat.",
+      "Im 19. Jahrhundert wurde die Burg stark im romantisierenden Stil restauriert und erweitert.",
+      "Die Burg inspirierte Richard Wagner zu seiner berühmten Oper 'Tannhäuser'."
+    ],
+    "facts_hu": [
+      "A legenda szerint Wartburg várát 1067-ben alapították.",
+      "Luther Márton a várban mindössze tizenegy hét alatt fordította le az Újszövetséget németre.",
+      "Türingiai Szent Erzsébet a 13. században élt Wartburg várában.",
+      "A palotaszárny (tartománygrófi ház) az Alpoktól északra fekvő egyik legjobb állapotban fennmaradt román kori világi épület.",
+      "Az 1817-es Wartburgi Ünnepen követeltek először nyilvánosan német nemzetállamot.",
+      "A 19. században a várat erőteljesen romantizáló stílusban restaurálták és kibővítették.",
+      "A vár inspirálta Richard Wagnert híres 'Tannhäuser' című operájának megírására."
+    ]
+  },
+  "mountain-grosser-beerberg-extra": {
+    "desc_de": "Der Große Beerberg ist mit einer Höhe von 982,9 Metern über dem Meeresspiegel der höchste Berg des Thüringer Waldes und des gesamten Bundeslandes Thüringen. Er ist vulkanischen Ursprungs und liegt im Kerngebiet des Mittelgebirges zwischen den Orten Suhl, Zella-Mehlis und Ilmenau. Im Gegensatz zu vielen anderen markanten Berggipfeln besitzt der Beerberg keine scharfe Bergkuppe, sondern bildet eine weite, oft von Hochmooren geprägte Hochebene. Auf dem Gipfelplateau befindet sich das Beerbergmoor, eines der wenigen noch intakten Hochmoore der Region, das streng geschützt ist und vielen seltenen Pflanzenarten wie Sonnentau und Wollgras eine Heimat bietet. Knapp unterhalb des Gipfels bietet die Aussichtsplattform 'Plänckners Aussicht' einen atemberaubenden Panoramablick über Südthüringen. Der Berg ist ein zentrales Etappenziel am berühmten Höhenwanderweg Rennsteig.",
+    "desc_hu": "A Großer Beerberg a maga 982,9 méteres tengerszint feletti magasságával a Türingiai-erdő és egész Türingia tartomány legmagasabb hegye. Vulkáni eredetű, és a középhegység magterületén fekszik Suhl, Zella-Mehlis és Ilmenau települések között. Sok más jellegzetes hegycsúccsal ellentétben a Beerbergnek nincs éles hegycsúcsa, hanem egy széles, gyakran dagadólápok által jellemzett fennsíkot alkot. A csúcsfennsíkon található a Beerbergmoor, a régió egyik utolsó, még érintetlen dagadólápja, amely szigorúan védett, és számos ritka növényfajnak – például a harmatfűnek és a gyapjúsásnak – ad otthont. Közvetlenül a csúcs alatt a 'Plänckners Aussicht' kilátó lélegzetelállító panorámát kínál Dél-Türingiára. A hegy a híres Rennsteig magaslati túraútvonal egyik központi szakaszának célpontja.",
+    "facts_de": [
+      "Der Große Beerberg ist mit 982,9 Metern der höchste Punkt in Thüringen.",
+      "Das Gestein des Berges besteht hauptsächlich aus Quarzporphyr, einem vulkanischen Gestein.",
+      "Das Beerbergmoor auf dem Gipfel steht unter strengem Naturschutz (Betreten verboten).",
+      "Der Gipfel liegt direkt am Rennsteig, dem bekanntesten Weitwanderweg Deutschlands.",
+      "Der Aussichtspunkt 'Plänckners Aussicht' wurde nach einem Kartografen des Rennsteigs benannt.",
+      "Zwischen dem Großen Beerberg und dem benachbarten Schneekopf liegt das tiefe Tal der 'Schmücke'.",
+      "Aufgrund der flachen Kuppe ist der höchste Punkt im Wald oft schwer genau zu erkennen."
+    ],
+    "facts_hu": [
+      "A Großer Beerberg a maga 982,9 méterével Türingia legmagasabb pontja.",
+      "A hegy kőzete főként kvarcporfírból, egy vulkáni kőzetből áll.",
+      "A csúcson található Beerbergmoor dagadóláp szigorú természetvédelem alatt áll (belépni tilos).",
+      "A csúcs közvetlenül a Rennsteig, Németország legismertebb hosszú távú túraútvonala mentén található.",
+      "A 'Plänckners Aussicht' kilátót a Rennsteig egyik térképészéről nevezték el.",
+      "A Großer Beerberg és a szomszédos Schneekopf között fekszik a 'Schmücke' mély völgye.",
+      "A lapos csúcs miatt az erdőben gyakran nehéz pontosan felismerni a legmagasabb pontot."
+    ]
+  },
+  "forest-thueringer-wald-extra": {
+    "desc_de": "Der Thüringer Wald ist ein dicht bewaldetes Mittelgebirge und gilt als das 'Grüne Herz Deutschlands'. Er erstreckt sich über eine Länge von etwa 150 Kilometern von Eisenach im Nordwesten bis fast nach Coburg im Südosten. Diese beeindruckende Landschaft zeichnet sich durch tiefe, kerbtalartige Schluchten, steile Berghänge, idyllische Bergwiesen und ausgedehnte Fichten- und Buchenwälder aus. Der Höhenkamm des Gebirges wird vom weltberühmten Rennsteig gekrönt, einem 169 Kilometer langen historischen Grenz- und Höhenweg, der jährlich von zehntausenden Wanderern begangen wird. Neben seiner Bedeutung als Erholungs- und Wintersportzentrum (besonders rund um Oberhof) besitzt der Thüringer Wald eine reiche kulturgeschichtliche Tradition. Regionen wie Lauscha sind weltweit als Wiege des gläsernen Christbaumschmucks bekannt, während Städte wie Sonneberg und Suhl für ihre historischen Waffen- und Spielzeugmanufakturen berühmt sind.",
+    "desc_hu": "A Türingiai-erdő egy sűrűn erdősült középhegység, amelyet 'Németország zöld szívének' is tartanak. Körülbelül 150 kilométer hosszan húzódik az északnyugati Eisenachtól majdnem a délkeleti Coburgig. Ezt a lenyűgöző tájat mély, V alakú szurdokok, meredek hegyoldalak, idilli hegyi rétek, valamint kiterjedt lucfenyő- és bükkerdők jellemzik. A hegység gerincét a világhírű Rennsteig koronázza: ez egy 169 kilométer hosszú történelmi határ- és magaslati út, amelyet évente túrázók tízezrei járnak be. Amellett, hogy jelentős rekreációs és téli sportközpont (különösen Oberhof környékén), a Türingiai-erdő gazdag kultúrtörténeti hagyományokkal is rendelkezik. Az olyan régiók, mint Lauscha, az üveg karácsonyfadíszek bölcsőjeként világszerte ismertek, míg Sonneberg vagy Suhl történelmi fegyver- és játékmanufaktúráikról híresek.",
+    "facts_de": [
+      "Der höchste Berg des Thüringer Waldes ist der Große Beerberg mit 982 Metern.",
+      "Der Rennsteig ist der älteste und meistbegangene Weitwanderweg in Deutschland.",
+      "Das Klima im Thüringer Wald ist rau; in den Höhenlagen schneit es oft ausgiebig.",
+      "Oberhof ist ein international renommiertes Zentrum für den Wintersport (Biathlon, Rennrodeln).",
+      "Lauscha im Thüringer Wald gilt als Erfindungsort der gläsernen Christbaumkugel (um 1847).",
+      "Der Naturpark Thüringer Wald umfasst eine Fläche von rund 2.200 Quadratkilometern.",
+      "Der Wald war historisch ein wichtiges Gebiet für den Abbau von Eisen- und Kupfererzen."
+    ],
+    "facts_hu": [
+      "A Türingiai-erdő legmagasabb hegye a 982 méteres Großer Beerberg.",
+      "A Rennsteig a legrégebbi és leglátogatottabb hosszú távú túraútvonal Németországban.",
+      "A Türingiai-erdő éghajlata zord; a magasabb területeken gyakran esik nagy mennyiségű hó.",
+      "Oberhof a téli sportok (biatlon, szánkó) nemzetközileg elismert központja.",
+      "A türingiai-erdei Lauscha az üveg karácsonyfagömbök feltalálásának helyszíne (1847 körül).",
+      "A Türingiai-erdő Natúrpark mintegy 2200 négyzetkilométeres területet ölel fel.",
+      "Az erdő történelmileg fontos terület volt a vas- és rézércek bányászatában."
+    ]
+  },
+  "river-saale-th-extra": {
+    "desc_de": "Die Saale ist mit einer Länge von 413 Kilometern einer der wichtigsten Flüsse Mitteldeutschlands und der längste Fluss, der durch Thüringen fließt. Sie entspringt im Fichtelgebirge in Bayern, gräbt sich durch das Thüringer Schiefergebirge und formt im weiteren Verlauf das beeindruckende, tief eingeschnittene Saaletal. Entlang ihres Laufs in Thüringen wird der Fluss an mehreren Stellen spektakulär aufgestaut, wodurch die Saaletalsperren (die 'Saale-Kaskade') entstanden, darunter die gewaltige Bleiloch- und die Hohenwartetalsperre. Diese Talsperren, oft als das 'Thüringer Meer' bezeichnet, sind von enormer Bedeutung für den Hochwasserschutz, die Energieerzeugung und den Tourismus. Weiter flussabwärts durchquert die Saale die Universitätsstadt Jena und die Weinbauregion Saale-Unstrut. Das von steilen Kalkfelsen, zahlreichen Burgruinen (wie der Dornburger Schlösser) und idyllischen Weinbergen gesäumte Flusstal gilt als eines der romantischsten in Deutschland.",
+    "desc_hu": "A Saale 413 kilométeres hosszával Közép-Németország egyik legfontosabb folyója, és a leghosszabb, amely keresztülfolyik Türingián. A bajorországi Fichtel-hegységben ered, átvágja magát a Türingiai-palahegységen, és a továbbiakban kialakítja a lenyűgöző, mélyen bevágódott Saale-völgyet. Türingiai folyása mentén a folyót több helyen látványosan felduzzasztották, így hozva létre a Saale-völgyi gátakat (a 'Saale-kaszkádot'), köztük a hatalmas Bleiloch- és Hohenwarte-víztározókat. Ezek a gyakran 'Türingiai tengerként' emlegetett gátak óriási jelentőséggel bírnak az árvízvédelem, az energiatermelés és a turizmus szempontjából. Lejjebb haladva a Saale átszeli az egyetemi várost, Jénát, és a Saale-Unstrut borvidéket. A meredek mészkősziklákkal, számos várrommal (például a dornburgi kastélyokkal) és idilli szőlőültetvényekkel övezett folyóvölgyet Németország egyik legromantikusabb völgyének tartják.",
+    "facts_de": [
+      "Die Saale ist mit 413 km Länge der zweitlängste Nebenfluss der Elbe.",
+      "Die Saale-Kaskade umfasst fünf große Talsperren und ist das größte zusammenhängende Stauseegebiet Deutschlands.",
+      "Der Fluss überwindet von seiner Quelle bis zur Mündung einen Höhenunterschied von knapp 700 Metern.",
+      "Die Weinbauregion Saale-Unstrut gehört zu den nördlichsten Qualitätsweinbaugebieten Europas.",
+      "Am Ufer der Saale liegen die Städte Hof, Jena, Naumburg und Halle.",
+      "Der Saaleradweg ist einer der beliebtesten Flussradwege in Deutschland.",
+      "In der Geschichte bildete die Saale (Limes Sorabicus) zeitweise die Grenze zwischen Franken und Slawen."
+    ],
+    "facts_hu": [
+      "A Saale 413 km-es hosszával az Elba második leghosszabb mellékfolyója.",
+      "A Saale-kaszkád öt nagy duzzasztógátat foglal magában, és Németország legnagyobb összefüggő víztározó területe.",
+      "A folyó a forrásától a torkolatáig közel 700 méteres szintkülönbséget küzd le.",
+      "A Saale-Unstrut borvidék Európa legészakibb minőségi borvidékei közé tartozik.",
+      "A Saale partján találhatók Hof, Jena, Naumburg és Halle városok.",
+      "A Saale menti kerékpárút (Saaleradweg) az egyik legnépszerűbb folyóparti kerékpárút Németországban.",
+      "A történelem során a Saale (Limes Sorabicus) egy időben határt képezett a frankok és a szlávok között."
+    ]
+  },
+  "lake-bleilochtalsperre-extra": {
+    "desc_de": "Die Bleilochtalsperre ist ein gigantisches Bauwerk der Ingenieurskunst und die nach Fassungsvermögen größte Talsperre Deutschlands. Eingebettet in die bewaldeten Hänge des Thüringer Schiefergebirges staut sie den Fluss Saale auf einer Länge von fast 28 Kilometern. Die zwischen 1927 und 1932 errichtete Staumauer ist 65 Meter hoch und dient primär dem Hochwasserschutz, der Energiegewinnung durch ein leistungsstarkes Wasserkraftwerk und der Niedrigwasseraufhöhung der Elbe. Gemeinsam mit der Hohenwartetalsperre bildet sie das sogenannte 'Thüringer Meer', eine beeindruckende, fjordartige Seenlandschaft. Aufgrund der ausgezeichneten Wind- und Wasserbedingungen hat sich die Bleilochtalsperre zu einem Mekka für Wassersportler entwickelt: Segeln, Windsurfen, Wasserski und Angeln sind hier äußerst populär. Einmal im Jahr verwandelt sich die Region moreover in einen Hotspot für elektronische Musik, wenn das renommierte Festival 'SonneMondSterne' am Stauseeufer zehntausende Besucher anlockt.",
+    "desc_hu": "A Bleiloch-víztározó (Bleilochtalsperre) egy gigantikus mérnöki műtárgy, térfogatát tekintve pedig Németország legnagyobb duzzasztógátja. A Türingiai-palahegység erdős lejtőibe ágyazódva közel 28 kilométer hosszan duzzasztja fel a Saale folyót. Az 1927 és 1932 között épült gát 65 méter magas, és elsődlegesen az árvízvédelmet, egy nagy teljesítményű vízerőművön keresztüli energiatermelést, valamint az Elba kisvizes időszakaiban a vízszintnövelést szolgálja. A Hohenwarte-víztározóval együtt alkotják az úgynevezett 'Türingiai tengert', egy lenyűgöző, fjordszerű tóvidéket. A kiváló szél- és vízi körülményeknek köszönhetően a Bleiloch-víztározó a vízisportok szerelmeseinek mekkájává vált: a vitorlázás, a szörfözés, a vízisí és a horgászat rendkívül népszerű itt. Évente egyszer a régió az elektronikus zene központjává is válik, amikor a neves 'SonneMondSterne' fesztivál több tízezer látogatót vonz a tározó partjára.",
+    "facts_de": [
+      "Die Bleilochtalsperre fasst maximal 215 Millionen Kubikmeter Wasser.",
+      "Die Staumauer ist eine 65 Meter hohe und 212 Meter lange Schwergewichtsmauer aus Gussbeton.",
+      "Der Bau dauerte fünf Jahre (1927–1932) und bot tausenden Arbeitslosen während der Weltwirtschaftskrise Arbeit.",
+      "Das Kraftwerk am Fuß der Staumauer hat eine Leistung von 80 Megawatt.",
+      "Das Festival 'SonneMondSterne' zieht jährlich bis zu 40.000 Besucher an die Talsperre.",
+      "Der Name 'Bleiloch' stammt von alten Blei-Bergbauschächten, die vor dem Einstauen in diesem Tal lagen.",
+      "Das Staugebiet windet sich in unzähligen Schleifen durch das Tal und wirkt wie ein skandinavischer Fjord."
+    ],
+    "facts_hu": [
+      "A Bleiloch-víztározó maximális befogadóképessége 215 millió köbméter víz.",
+      "A gát egy 65 méter magas és 212 méter hosszú, öntött betonból készült súlygát.",
+      "Az építkezés öt évig (1927–1932) tartott, és munkanélküliek ezreinek adott munkát a nagy gazdasági világválság idején.",
+      "A gát lábánál lévő erőmű 80 megawatt teljesítményű.",
+      "A 'SonneMondSterne' fesztivál évente akár 40 000 látogatót is vonz a víztározóhoz.",
+      "A 'Bleiloch' név a völgyben a duzzasztás előtt fekvő régi ólombányászati aknákból származik.",
+      "A felduzzasztott terület számtalan kanyarral kanyarog a völgyön keresztül, és úgy néz ki, mint egy skandináv fjord."
+    ]
+  },
+  "city-eisenach-extra": {
+    "desc_de": "Eisenach, wunderschön gelegen am nordwestlichen Rand des Thüringer Waldes, ist eine Stadt, in der sich Weltgeschichte und Kulturgeschichte auf einzigartige Weise überschneiden. Hoch über der Stadt wacht die majestätische Wartburg (UNESCO-Weltkulturerbe), auf der Martin Luther das Neue Testament übersetzte. Die Stadt selbst ist weltberühmt als Geburtsort des Komponisten Johann Sebastian Bach; sein Geburtshaus, das historische Bachhaus, ist heute eines der wichtigsten musikhistorischen Museen der Welt. Auch in der Automobilgeschichte spielte Eisenach eine Pionierrolle: Bereits 1898 begann hier die Fahrzeugproduktion. Später wurden hier der legendäre Dixi und in der DDR-Zeit der bekannte Wartburg produziert. Heute führt Opel diese lange Industrietradition fort. Die historische Altstadt mit dem Marktplatz, dem Stadtschloss und dem Georgenbrunnen versprüht einen beschaulichen, fast romantischen Charme.",
+    "desc_hu": "Eisenach, amely gyönyörű környezetben, a Türingiai-erdő északnyugati szélén fekszik, egy olyan város, ahol a világtörténelem és a kultúrtörténet egyedülálló módon fedi egymást. A város felett őrködik a fenséges Wartburg (UNESCO világörökség), ahol Luther Márton lefordította az Újszövetséget. Maga a város a zeneszerző, Johann Sebastian Bach szülőhelyeként világhírű; szülőháza, a történelmi Bachhaus (Bach-ház), ma a világ egyik legfontosabb zenetörténeti múzeuma. Eisenach az autóipar történetében is úttörő szerepet játszott: a járműgyártás már 1898-ban megkezdődött itt. Később itt gyártották a legendás Dixi-t, az NDK-korszakban pedig az ismert Wartburgot. Ezt a hosszú ipari hagyományt ma az Opel folytatja. A történelmi óváros a piactérrel, a városi kastéllyal és a György-kúttal (Georgenbrunnen) békés, szinte romantikus bájt áraszt.",
+    "facts_de": [
+      "Johann Sebastian Bach wurde am 21. März 1685 in Eisenach geboren.",
+      "Die Automobilproduktion in Eisenach gehört zu den ältesten in Deutschland (seit 1898).",
+      "Das Reuter-Wagner-Museum in Eisenach besitzt nach Bayreuth die umfangreichste Richard-Wagner-Sammlung der Welt.",
+      "Eisenach war im Mittelalter die Hauptresidenz der mächtigen Landgrafen von Thüringen.",
+      "Im Jahr 1869 wurde in Eisenach die Sozialdemokratische Arbeiterpartei (SDAP) gegründet.",
+      "Das schmale Haus in der Johannisstraße gilt mit nur 2,05 Metern Breite als eines der schmalsten bewohnten Häuser Deutschlands.",
+      "Der historische Drachenschlucht-Wanderweg bei Eisenach ist an seiner schmalsten Stelle nur 68 Zentimeter breit."
+    ],
+    "facts_hu": [
+      "Johann Sebastian Bach 1685. március 21-én született Eisenachban.",
+      "Az eisenachi autógyártás a legrégebbiek közé tartozik Németországban (1898 óta).",
+      "Az eisenachi Reuter-Wagner Múzeum Bayreuth után a világ legátfogóbb Richard Wagner-gyűjteményével rendelkezik.",
+      "Eisenach a középkorban a nagyhatalmú türingiai tartománygrófok főrezidenciája volt.",
+      "1869-ben Eisenachban alapították meg a Szociáldemokrata Munkáspártot (SDAP).",
+      "A Johannisstraße-n található keskeny ház mindössze 2,05 méteres szélességével Németország egyik legkeskenyebb lakott háza.",
+      "Az Eisenach melletti történelmi Drachenschlucht (Sárkány-szurdok) túraútvonal a legkeskenyebb pontján mindössze 68 centiméter széles."
+    ]
+  },
+  "historical-buchenwald-extra": {
+    "desc_de": "Die Gedenkstätte Buchenwald auf dem Ettersberg nahe Weimar erinnert an eines der dunkelsten Kapitel der deutschen Geschichte. Zwischen 1937 und 1945 betrieb die SS hier eines der größten Konzentrationslager auf deutschem Boden. Von den über 280.000 Menschen aus mehr als 50 Ländern, die nach Buchenwald und in seine Außenlager deportiert wurden, kamen schätzungsweise 56.000 durch Hunger, Krankheit, medizinische Experimente, Erschöpfung oder systematische Ermordung ums Leben. Das Gelände zeugt in bedrückender Weise von den Verbrechen: Erhalten sind das eiserne Lagertor mit der zynischen Inschrift 'Jedem das Seine', die Wachtürme und das Krematorium. Nach dem Krieg nutzte die sowjetische Besatzungsmacht Teile des Lagers bis 1950 als Internierungslager ('Speziallager Nr. 2'), in dem weitere 7.000 Menschen starben. Heute ist Buchenwald ein Mahnmal gegen Faschismus und Totalitarismus und eine unverzichtbare Stätte der politischen Bildung.",
+    "desc_hu": "A Weimar közelében, az Ettersbergen található Buchenwald Emlékhely a német történelem egyik legsötétebb fejezetére emlékeztet. 1937 és 1945 között az SS itt működtette a német területen lévő egyik legnagyobb koncentrációs tábort. A több mint 50 országból Buchenwaldba és altáboraiba deportált több mint 280 000 ember közül a becslések szerint 56 000-en vesztették életüket éhezés, betegség, orvosi kísérletek, kimerültség vagy szisztematikus gyilkosság következtében. A terület nyomasztó módon tanúskodik a bűncselekményekről: fennmaradt a tábor vaskapuja a cinikus 'Jedem das Seine' (Mindenkinek a magáét) felirattal, az őrtornyok és a krematórium. A háború után a szovjet megszálló hatalom a tábor egyes részeit 1950-ig internálótáborként ('2-es számú speciális tábor') használta, ahol további 7000 ember halt meg. Ma Buchenwald a fasizmus és a totalitarizmus elleni emlékmű, valamint a politikai oktatás nélkülözhetetlen helyszíne.",
+    "facts_de": [
+      "Das KZ Buchenwald wurde im Juli 1937 auf dem Ettersberg bei Weimar errichtet.",
+      "Über 280.000 Häftlinge aus fast ganz Europa wurden im Lager und seinen 139 Außenlagern inhaftiert.",
+      "Die SS-Führung zwang die Häftlinge, in Rüstungsfabriken der Umgebung Sklavenarbeit zu verrichten.",
+      "Zu den prominenten Häftlingen gehörten der französische Politiker Léon Blum und der Schriftsteller Elie Wiesel.",
+      "Am 11. April 1945 übernahmen bewaffnete Häftlinge kurz vor dem Eintreffen der US-Armee die Kontrolle über das Lager.",
+      "Der monumentale Glockenturm (Buchenwald-Mahnmal) wurde 1958 von der DDR-Regierung eingeweiht.",
+      "Die Uhr auf dem Appellplatz steht für immer auf 15:15 Uhr, dem Zeitpunkt der Befreiung."
+    ],
+    "facts_hu": [
+      "A buchenwaldi koncentrációs tábort 1937 júliusában hozták létre a Weimar melletti Ettersbergen.",
+      "Szinte egész Európából több mint 280 000 foglyot tartottak fogva a táborban és 139 altáborában.",
+      "Az SS vezetése rabszolgamunkára kényszerítette a foglyokat a környező fegyvergyárakban.",
+      "A prominens foglyok közé tartozott Léon Blum francia politikus és Elie Wiesel író.",
+      "1945. április 11-én felfegyverzett foglyok röviddel az amerikai hadsereg megérkezése előtt átvették az irányítást a tábor felett.",
+      "A monumentális harangtornyot (buchenwaldi emlékmű) 1958-ban avatta fel az NDK kormánya.",
+      "A sorakozótéren lévő óra örökre 15:15-ön áll, a felszabadítás időpontján."
+    ]
+  },
+  "city-gera-extra": {
+    "desc_de": "Gera, idyllisch in die Hügellandschaft des Weiße-Elster-Tals eingebettet, ist die drittgrößte Stadt Thüringens. Im 19. Jahrhundert erlebte Gera durch die Textilindustrie, insbesondere den florierenden Stoff- und Tuchhandel, einen beispiellosen wirtschaftlichen Aufstieg. Aus dieser Glanzzeit stammt der Beiname 'Reußische Residenzstadt', da Gera lange Zeit Hauptresidenz der Fürsten Reuß jüngerer Linie war. Den einstigen Reichtum der Industriellen spiegeln heute die zahlreichen prachtvollen, architektonisch wertvollen Stadtvillen wider, die das Stadtbild prägen. Kulturell ist die Stadt eng mit Otto Dix verbunden; das Geburtshaus des berühmten Malers der 'Neuen Sachlichkeit' ist heute ein bedeutendes Museum. Zu den faszinierendsten Besonderheiten Geras gehören die 'Geraer Höhler', ein ausgedehntes, labyrinthartiges System historischer Tiefkeller, die seit dem 16. Jahrhundert zur Lagerung des legendären Geraer Bieres genutzt wurden.",
+    "desc_hu": "A Weiße Elster (Fehér-Elster) völgyének dombvidékébe idillien beágyazódó Gera Türingia harmadik legnagyobb városa. A 19. században Gera a textiliparnak, különösen a virágzó szövet- és posztókereskedelemnek köszönhetően példátlan gazdasági fellendülést élt át. Ebből a fénykorból származik a 'Reussi rezidenciaváros' (Reußische Residenzstadt) becenév, mivel Gera sokáig a Reuss hercegek ifjabb ágának főrezidenciája volt. A gyárosok egykori gazdagságát ma is tükrözi az a számos pompás, építészetileg értékes városi villa, amely meghatározza a városképet. Kulturális szempontból a város szorosan kötődik Otto Dixhez; az 'Új Tárgyilagosság' (Neue Sachlichkeit) híres festőjének szülőháza ma fontos múzeum. Gera leglenyűgözőbb különlegességei közé tartoznak a 'Geraer Höhler'-ek, a történelmi mélypincék kiterjedt, labirintusszerű rendszere, amelyet a 16. század óta a legendás gerai sör tárolására használtak.",
+    "facts_de": [
+      "Gera war von 1848 bis 1918 die Hauptstadt des Fürstentums Reuß jüngerer Linie.",
+      "Die Textilindustrie brachte der Stadt im 19. Jahrhundert enormen Reichtum, was ihr den Namen 'Klein-Leipzig' einbrachte.",
+      "Das Otto-Dix-Haus zeigt eine ständige Ausstellung von Werken des in Gera geborenen Künstlers.",
+      "Das System der 'Geraer Höhler' umfasst insgesamt fast neun Kilometer historische unterirdische Gänge.",
+      "Die Orangerie in Gera beherbergt heute die renommierte städtische Kunstsammlung.",
+      "Im Jahr 2007 war Gera Austragungsort der Bundesgartenschau (BUGA), die den Hofwiesenpark nachhaltig verschönerte.",
+      "Das prachtvolle Geraer Rathaus am Marktplatz zeichnet sich durch ein reich verziertes Renaissanceportal aus."
+    ],
+    "facts_hu": [
+      "Gera 1848 és 1918 között a Reuss Hercegség (ifjabb ág) fővárosa volt.",
+      "A textilipar a 19. században hatalmas gazdagságot hozott a városnak, ami a 'Kis-Lipcse' (Klein-Leipzig) nevet is eredményezte.",
+      "Az Otto Dix-házban a Gerában született művész alkotásaiból látható állandó kiállítás.",
+      "A 'Geraer Höhler' nevű pincerendszer összesen közel kilenc kilométer hosszú történelmi földalatti folyosót foglal magában.",
+      "A gerai Orangerie ma a neves városi művészeti gyűjteménynek ad otthont.",
+      "2007-ben Gera volt a házigazdája a Szövetségi Kertészeti Kiállításnak (BUGA), amely tartósan megszépítette a Hofwiesenparkot.",
+      "A piactéren található pompás gerai városházát egy gazdagon díszített reneszánsz portál ékesíti."
+    ]
+  },
+  "landmark-kraemerbrue-erfurt-extra": {
+    "desc_de": "Die Krämerbrücke in Erfurt ist ein außergewöhnliches bauhistorisches Denkmal und das touristische Herzstück der Thüringer Landeshauptstadt. Mit einer Länge von 120 Metern spannt sie sich in sechs steinernen Bögen über die Gera. Das Einzigartige an ihr: Sie ist die längste durchgehend mit Häusern bebaute und bewohnte Brücke in ganz Europa, vergleichbar nur mit dem Ponte Vecchio in Florenz. Ursprünglich im Jahr 1117 als Holzbrücke erwähnt, wurde sie nach mehreren Bränden 1325 aus Stein neu errichtet. Einst säumten 62 schmale Fachwerkhäuser die Brücke; durch spätere Zusammenlegungen sind es heute noch 32. In diesen charmanten, liebevoll restaurierten Gebäuden finden sich heute Kunsthandwerker, Galerien, Antiquitätenhändler und kleine Boutiquen. Die Brücke, auf der das Kopfsteinpflaster von unzähligen Schritten glattpoliert ist, verleiht Erfurt ein unvergleichlich romantisches, mittelalterliches Flair.",
+    "desc_hu": "Az erfurti Krämerbrücke (Kalmárhíd) egy kivételes építészettörténeti műemlék és Türingia tartományi fővárosának turisztikai központja. 120 méteres hosszával hat kőívben ível át a Gera folyó felett. Az egyedülálló benne: ez a leghosszabb, folyamatosan házakkal beépített és lakott híd egész Európában, amely csak a firenzei Ponte Vecchióhoz hasonlítható. Eredetileg 1117-ben említik fahídként, majd több tűzvész után 1325-ben kőből építették újjá. Egykor 62 keskeny favázas ház sorakozott a hídon; a későbbi összevonások miatt ma már csak 32 található. Ezekben a hangulatos, gondosan felújított épületekben ma kézművesek, galériák, régiségkereskedők és kis butikok találhatók. A híd, amelynek macskaköveit számtalan lépés csiszolta simára, páratlanul romantikus, középkori hangulatot kölcsönöz Erfurtnak.",
+    "facts_de": [
+      "Die Krämerbrücke ist Europas längste komplett bebaute und bewohnte Brücke.",
+      "Die steinerne Grundstruktur der Brücke stammt aus dem Jahr 1325.",
+      "Von den ursprünglich 62 Häusern auf der Brücke sind durch Zusammenlegungen heute noch 32 erhalten.",
+      "Fast alle Gebäude auf der Brücke gehören heute der Stadt Erfurt und werden zur Förderung des Kunsthandwerks vermietet.",
+      "Auf der Brücke darf laut städtischer Satzung nur traditionelles Gewerbe (kein Fast-Food oder Ramsch) ansässig sein.",
+      "Das jährlich im Juni stattfindende 'Krämerbrückenfest' ist das größte Altstadtfest Thüringens.",
+      "An beiden Enden der Brücke befanden sich früher Brückenköpfe mit Kirchen; heute steht nur noch die Ägidienkirche."
+    ],
+    "facts_hu": [
+      "A Krämerbrücke Európa leghosszabb, teljesen beépített és lakott hídja.",
+      "A híd kőből készült alapstruktúrája 1325-ből származik.",
+      "A hídon lévő eredeti 62 házból az összevonások révén ma 32 maradt fenn.",
+      "Ma a hídon lévő szinte összes épület Erfurt városának tulajdonában van, és a kézművesség népszerűsítése érdekében adják bérbe őket.",
+      "A városi rendelet szerint a hídon csak hagyományos kereskedelem (nem gyorsétterem vagy bóvli) telepedhet le.",
+      "A minden év júniusában megrendezésre kerülő 'Krämerbrückenfest' (Kalmárhíd-ünnep) Türingia legnagyobb óvárosi fesztiválja.",
+      "A híd mindkét végén egykor hídfők álltak templomokkal; ma már csak az Ägidienkirche (Egyed-templom) áll."
+    ]
+  },
+  "river-werra-th-extra": {
+    "desc_de": "Die Werra, mit einer Länge von knapp 300 Kilometern, ist einer der beiden Quellflüsse der Weser und ein landschaftlich prägendes Gewässer für Süd- und Westthüringen sowie Hessen. Sie entspringt kurioserweise aus zwei offiziellen Quellen im Thüringer Schiefergebirge nahe Eisfeld. Der Fluss mäandert durch malerische, hügelige Landschaften, vorbei an steilen Muschelkalkfelsen und historischen Fachwerkmustern im Werratal. Besonders bekannt ist die Region um den Fluss für den jahrhundertealten Kalibergbau; die riesigen weißen Rückstandshalden, der 'Monte Kali', ragen bei Heringen weithin sichtbar in den Himmel und zeugen von der industriellen Prägung. Bei Hann. Münden, im benachbarten Niedersachsen, vereinigt sich die Werra schließlich mit der Fulda, wobei der bekannte Spruch gilt: 'Wo Werra sich und Fulda küssen, sie ihre Namen büßen müssen, und hier entsteht durch diesen Kuss, Deutsch bis zum Meer der Weserfluss'.",
+    "desc_hu": "A közel 300 kilométer hosszú Werra a Weser két forrásfolyójának egyike, és tájképileg meghatározó vízfolyás Dél- és Nyugat-Türingiában, valamint Hessenben. Érdekes módon két hivatalos forrásból is ered a Türingiai-palahegységben, Eisfeld közelében. A folyó festői, dombos tájakon kanyarog keresztül, a Werra-völgy meredek kagylómészkő sziklái és történelmi favázas falvai mellett. A folyó körüli régió különösen ismert az évszázados hamuzsír-bányászatról (káliumbányászat); a hatalmas fehér meddőhányók, a 'Monte Kali' Heringen közelében messzire látszóan magasodnak az égre, és tanúskodnak az ipari múltról. A szomszédos Alsó-Szászországban található Hann. Mündennél a Werra végül egyesül a Fuldával, ahol a jól ismert mondás érvényes: 'Ahol a Werra és a Fulda megcsókolja egymást, ott elvesztik a nevüket, és ebből a csókból születik a Weser, amely a tengerig német folyó'.",
+    "facts_de": [
+      "Die Werra hat eine Gesamtlänge von 299,6 Kilometern.",
+      "Es gibt einen Streit um die 'echte' Werraquelle; offiziell gibt es zwei anerkannte Quellen bei Eisfeld und Siegmundsburg.",
+      "Der Fluss bildete während der deutschen Teilung über viele Kilometer den Grenzverlauf zwischen BRD und DDR.",
+      "Der Werratal-Radweg ist über 300 Kilometer lang und einer der beliebtesten Radfernwege Deutschlands.",
+      "Der Kalibergbau im Werratal sorgte jahrzehntelang für eine starke Versalzung des Flusses.",
+      "Bei Vacha ragt die mittelalterliche Werrabrücke (die 'Brücke der Einheit') über den Fluss.",
+      "Die Werra vereinigt sich in Hann. Münden mit der Fulda zur Weser."
+    ],
+    "facts_hu": [
+      "A Werra teljes hossza 299,6 kilométer.",
+      "Vita van az 'igazi' Werra-forrásról; hivatalosan két elismert forrás létezik Eisfeld és Siegmundsburg közelében.",
+      "A folyó a német megosztottság idején sok kilométeren át a határon folyt az NSZK és az NDK között.",
+      "A Werra-völgyi kerékpárút (Werratal-Radweg) több mint 300 kilométer hosszú, és Németország egyik legnépszerűbb távolsági kerékpárútja.",
+      "A Werra-völgyi káliumbányászat évtizedekig a folyó erős elsósodását okozta.",
+      "Vachánál a középkori Werra-híd (az 'Egység hídja') ível át a folyón.",
+      "A Werra Hann. Mündennél egyesül a Fuldával, és létrehozza a Wesert."
+    ]
+  },
+  "city-gotha-extra": {
+    "desc_de": "Gotha, eine historisch überaus bedeutsame Stadt im Herzen Thüringens, war über Jahrhunderte ein Zentrum der Macht und Kultur. Als Residenzstadt des Herzogtums Sachsen-Gotha-Altenburg (später Sachsen-Coburg und Gotha) erlangte die Stadt europäische Bedeutung; das Gothaer Herrscherhaus stellte durch geschickte Heiratspolitik Könige für Großbritannien (Haus Windsor), Belgien, Portugal und Bulgarien. Majestätisch überragt wird das Stadtbild vom Schloss Friedenstein, der größten frühbarocken Schlossanlage Deutschlands aus dem 17. Jahrhundert. Das Schlossensemble beherbergt prachtvolle Kunstsammlungen, das historische Ekhof-Theater (mit originaler barocker Bühnenmaschinerie) und wertvolle naturkundliche Ausstellungen. Gotha nimmt zudem einen wichtigen Platz in der Geschichte der deutschen Arbeiterbewegung ein, da hier 1875 das Gothaer Programm zur Gründung der Sozialistischen Arbeiterpartei Deutschlands beschlossen wurde.",
+    "desc_hu": "Gotha, a Türingia szívében fekvő, történelmileg rendkívül fontos város évszázadokon át a hatalom és a kultúra központja volt. A Szász-Gotha-Altenburgi (később Szász-Coburg és Gotha) Hercegség rezidenciavárosaként a város európai jelentőségre tett szert; a gothai uralkodóház ügyes házasságpolitikája révén királyokat adott Nagy-Britanniának (Windsor-ház), Belgiumnak, Portugáliának és Bulgáriának. A városképet a Friedenstein-kastély uralja fenségesen, amely Németország legnagyobb kora barokk kastélyegyüttese a 17. századból. A kastélyegyüttes pompás művészeti gyűjteményeknek, a történelmi Ekhof Színháznak (eredeti barokk színpadtechnikával) és értékes természettudományi kiállításoknak ad otthont. Gotha emellett fontos helyet foglal el a német munkásmozgalom történetében is, mivel itt fogadták el 1875-ben a Gothai Programot a Német Szocialista Munkáspárt megalapítására.",
+    "facts_de": [
+      "Schloss Friedenstein in Gotha ist die größte frühbarocke Schlossanlage Deutschlands.",
+      "Das im Schloss befindliche Ekhof-Theater besitzt die älteste noch funktionierende Bühnenmaschinerie der Welt.",
+      "Der Gothaische Hofkalender (der 'Gotha') war ab dem 18. Jahrhundert das wichtigste Handbuch des europäischen Adels.",
+      "Das britische Königshaus Windsor stammt in direkter Linie vom Haus Sachsen-Coburg und Gotha ab.",
+      "Der Gothaer Justus Perthes Verlag war ein weltweit führender Verlag für geografische Atlanten und Karten.",
+      "Gotha gilt als die Geburtsstätte des deutschen Versicherungswesens (Gothaer Versicherungsbank, 1820).",
+      "Das Gothaer Programm von 1875 legte den Grundstein für die SPD."
+    ],
+    "facts_hu": [
+      "A gothai Friedenstein-kastély Németország legnagyobb kora barokk kastélyegyüttese.",
+      "A kastélyban található Ekhof Színház a világ legrégebbi, még mindig működő színpadtechnikájával rendelkezik.",
+      "A Gothai Udvari Naptár (a 'Gotha') a 18. századtól az európai nemesség legfontosabb kézikönyve volt.",
+      "A brit királyi Windsor-ház egyenes ágon a Szász-Coburg és Gotha-házból származik.",
+      "A gothai Justus Perthes Kiadó a világ egyik vezető kiadója volt a földrajzi atlaszok és térképek terén.",
+      "Gothát a német biztosítási ipar szülőhelyének tartják (Gothaer Versicherungsbank, 1820).",
+      "Az 1875-ös Gothai Program tette le az SPD (Német Szociáldemokrata Párt) alapjait."
+    ]
+  },
+  "mountain-inselsberg-extra": {
+    "desc_de": "Der Große Inselsberg ist mit 916,5 Metern zwar nicht der höchste, aber wohl der markanteste Berg des Thüringer Waldes. Sein Kegel erhebt sich weithin sichtbar über die bewaldeten Gebirgskämme im nordwestlichen Teil des Mittelgebirges nahe Brotterode und Tabarz. Aufgrund seiner exponierten Lage bietet der Gipfel bei gutem Wetter eine phänomenale Fernsicht, die bis zum Brocken im Harz, zum Fichtelberg in Bayern und zur Wasserkuppe in Hessen reicht. Der Berg wird direkt vom historischen Höhenwanderweg Rennsteig überquert. Schon im 19. Jahrhundert wurde er zu einem beliebten Ausflugsziel für Touristen, wovon der Bau von Berggasthöfen zeugt. Heute ist der Inselsberg durch eine moderne Sendeanlage gekrönt und bietet Besuchern zahlreiche Attraktionen, darunter eine Sommerrodelbahn am Nordhang und den Funpark Inselsberg.",
+    "desc_hu": "A Großer Inselsberg a maga 916,5 méterével ugyan nem a legmagasabb, de alighanem a legjellegzetesebb hegy a Türingiai-erdőben. Kúpja messziről láthatóan emelkedik az erdős hegygerincek fölé a középhegység északnyugati részén, Brotterode és Tabarz közelében. Kiemelt elhelyezkedésének köszönhetően a csúcs jó időben fenomenális távoli kilátást nyújt, amely egészen a Harz hegységben lévő Brockenig, a bajorországi Fichtelbergig és a hesseni Wasserkuppéig elér. A hegyet közvetlenül átszeli a történelmi Rennsteig magaslati túraútvonal. Már a 19. században kedvelt kirándulóhellyé vált a turisták számára, amit a hegyi fogadók építése is bizonyít. Ma az Inselsberg tetején egy modern adótorony áll, és számos látványosságot kínál a látogatóknak, köztük egy nyári bobpályát az északi lejtőn, valamint az Inselsberg Funparkot.",
+    "facts_de": [
+      "Der Große Inselsberg ist 916,5 Meter hoch und besteht größtenteils aus Quarzporphyr.",
+      "Bei klarer Sicht kann man vom Gipfel aus bis zu 100 Kilometer weit sehen.",
+      "Der Gipfelbereich ist seit dem 19. Jahrhundert gastronomisch erschlossen.",
+      "Der Rennsteig verläuft direkt über das Gipfelplateau des Inselsbergs.",
+      "Auf dem Gipfel stehen zwei markante Sende- und Aussichtstürme, die der Orientierung dienen.",
+      "Der Berg war in der Zeit des Kalten Krieges ein wichtiger strategischer Abhör- und Sendeposten.",
+      "Am Nordhang befindet sich eine beliebte Sommerrodelbahn mit knapp 1.000 Metern Länge."
+    ],
+    "facts_hu": [
+      "A Großer Inselsberg 916,5 méter magas, és nagyrészt kvarcporfírból áll.",
+      "Tiszta időben a csúcsról akár 100 kilométerre is el lehet látni.",
+      "A csúcs területén a 19. század óta működnek vendéglátóhelyek.",
+      "A Rennsteig közvetlenül áthalad az Inselsberg csúcsfennsíkján.",
+      "A csúcson két jellegzetes adó- és kilátótorony áll, amelyek a tájékozódást szolgálják.",
+      "A hegy a hidegháború idején fontos stratégiai lehallgató és sugárzó állomás volt.",
+      "Az északi lejtőn található egy népszerű, közel 1000 méter hosszú nyári bobpálya."
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "lang": "hu",
+  "country": "ro2",
+  "files": [
+    "lib/visualLab/data/poiExtraRo2.ts"
+  ],
+  "items": [
+    {
+      "id": "river-somes-mic-extra",
+      "descriptionAdvanced": "A Kis-Szamos (Someșul Mic) Erdély egyik legfontosabb folyója, amely Kolozsvár szívén folyik keresztül, meghatározva a város arculatát és hangulatát. A folyó a Meleg-Szamos és a Hideg-Szamos egyesüléséből jön létre Gyalu (Gilău) közelében, és északkelet felé tartva végül a Nagy-Szamossal egyesülve alkotja a Szamos folyót. Kolozsváron a folyópart az elmúlt években jelentős megújuláson ment keresztül, modern sétaterekkel és zöldövezetekkel gazdagodva, amelyek a helyiek kedvenc pihenőhelyeivé váltak. A Kis-Szamos völgye fontos ökológiai folyosó és vízi erőforrás, amely évszázadok óta élteti a környező településeket és ipart. A folyó mentén sétálva felfedezhetjük Kolozsvár dinamikus fejlődését és a természet közelségét az erdélyi metropolisz szívében.",
+      "factsAdvanced": [
+        "A Kis-Szamos hossza körülbelül 178 kilométer az egyesüléstől a torkolatig.",
+        "A folyó keresztülhalad Kolozsvár történelmi központján.",
+        "Vízhozamát több nagy víztározó tó (pl. Tárnica, Béles) szabályozza a forrásvidéken.",
+        "A folyóparti 'Szamos-part' projekt nemzetközi építészeti díjakat is nyert.",
+        "Dezs (Dej) közelében egyesül a Nagy-Szamossal.",
+        "A Kis-Szamos vize fontos szerepet játszik a régió ivóvízellátásában.",
+        "A folyó mentén számos középkori vár és kastély (pl. Bonchida) található.",
+        "Völgye az egyik legsűrűbben lakott terület Erdélyben."
+      ]
+    },
+    {
+      "id": "river-somes-mare-extra",
+      "descriptionAdvanced": "A Nagy-Szamos (Someșul Mare) a Keleti-Kárpátokból, a Radnai-havasok lábától indul útjára, és vadregényes völgyeken keresztül szeli át Beszterce-Naszód megyét. A folyó híres tiszta vizéről és gazdag halállományáról, különösen a felső szakaszán, ahol sebes hegyi patakként kanyarog a sziklák között. A Nagy-Szamos völgye a román irodalom és kultúra egyik bölcsője, olyan híres írók szülőföldje, mint Liviu Rebreanu vagy George Coșbuc. A folyó mentén sorakozó falvak megőrizték autentikus néprajzi értékeiket és hagyományaikat. Dezs városánál egyesül a Kis-Szamossal, hogy együtt folytassák útjukat a Tisza felé. A Nagy-Szamos nemcsak egy vízfolyás, hanem a kárpáti táj erejének és nyugalmának szimbóluma, amely ideális helyszín a természetjárók és a horgászok számára.",
+      "factsAdvanced": [
+        "A Nagy-Szamos hossza körülbelül 130 kilométer.",
+        "Forrása a Radnai-havasokban, több mint 1000 méter magasan található.",
+        "Völgye híres az 'Inasa-völgye' néprajzi tájegységről.",
+        "A folyó felső szakasza népszerű a vadvízi horgászat kedvelői körében.",
+        "A Nagy-Szamos vize kristálytiszta, köszönhetően a magashegyi eredetnek.",
+        "Számos kisebb vízerőmű hasznosítja a folyó energiáját Beszterce megyében.",
+        "A folyó mente fontos vándorlási útvonal a kárpáti vadon élő állatok számára.",
+        "Történelmileg fontos határvonal és védelmi pont volt a régióban."
+      ]
+    },
+    {
+      "id": "mountain-meses-extra",
+      "descriptionAdvanced": "A Meszes-hegység (Munții Meseș) az Erdélyi-szigethegység északnyugati kapuja, amely Szilágy megye területén húzódik, elválasztva az Erdélyi-medencét a Partiumtól. A hegység bár nem tartozik a legmagasabbak közé, stratégiai elhelyezkedése miatt a történelem során mindig is kiemelt jelentőséggel bírt. Itt haladt keresztül a római Limes, és Zilah városa a hegység lábánál épült fel. A Meszes sűrű bükk- és tölgyerdői, valamint a hűvös völgyek kiváló túrázási lehetőségeket kínálnak a természet kedvelőinek. Legmagasabb pontja a Meszes-csúcs (Vârful Măgura Priei, 996 m), ahonnan tiszta időben messzire ellátni a környező dombságokra. A hegység gazdag flórával és faunával rendelkezik, és számos barlangot, sziklaformációt rejt, amelyek felfedezésre várnak a látogatók számára.",
+      "factsAdvanced": [
+        "A Meszes-hegység legmagasabb pontja a Măgura Priei, 996 méter.",
+        "A hegységben találhatók a Porolissum római erőd maradványai és a védművek nyomai.",
+        "A Meszes-hágó (Pasul Meseș) fontos közúti összeköttetés Zilah és Kolozsvár között.",
+        "A hegység híres a gazdag vadállományáról, különösen a vaddisznókról és őzekről.",
+        "Számos jól jelzett turistaútvonal indul Zilah városából a hegyekbe.",
+        "A Meszes növényvilága több ritka orchideafajt is tartalmaz.",
+        "A hegység kőzetei főleg kristályos palából és mészkőből állnak.",
+        "A terület kedvelt helyszíne a hegyi kerékpározásnak és a terepfutásnak."
+      ]
+    },
+    {
+      "id": "river-crisul-repede-extra",
+      "descriptionAdvanced": "A Sebes-Körös (Crișul Repede) Erdély és a Partium egyik legdinamikusabb és leglátványosabb folyója, amely az Erdélyi-szigethegységben ered és Nagyvárad városán keresztül éri el a magyar határt. Nevét sebes folyásáról és a hegyekből lezúduló víztömegeiről kapta, amely látványos szurdokokat vájt a mészkőbe, mint például a híres Rév-köröstopai szorost. A Sebes-Körös völgye a vadvízi evezés (rafting) és a sziklamászás paradicsoma, de híres barlangjairól (pl. Szelek barlangja) is. Nagyváradon a folyóparti sétányok a városi élet központjai, ahol a szecessziós épületek tükröződnek a víz felszínén. A folyó fontos szerepet játszik az energiatermelésben és az öntözésben is, miközben kristálytiszta hegyi vize és festői környezete évről évre több turistát vonz a régióba.",
+      "factsAdvanced": [
+        "A Sebes-Körös teljes hossza 209 kilométer.",
+        "Völgye az egyik legfontosabb közlekedési és vasúti folyosó Erdély és Magyarország között.",
+        "A folyón több nagy víztározó és vízerőmű épült (pl. Élesd, Lugas).",
+        "A Rév-i szurdokvölgy szigorúan védett természeti rezervátum.",
+        "A folyóban számos nemes halfaj, köztük pisztráng és paduc él.",
+        "A Sebes-Körös menti barlangok Románia leghosszabb barlangrendszereit rejtik.",
+        "Nagyváradnál a folyó kiszélesedik és lassabbá válik az Alföld felé tartva.",
+        "A folyó vize egyesül a Fekete- és Fehér-Körössel Magyarország területén."
+      ]
+    },
+    {
+      "id": "mountain-zarand-extra",
+      "descriptionAdvanced": "A Zarándi-hegység (Munții Zarandului) a Nyugati-Kárpátok déli részén, Arad megyében található, és egy különleges, alacsonyabb, de annál erdősebb hegyvidéket alkot. A hegység híres sűrű erdőiről, amelyekben bükkösök és tölgyesek váltják egymást, menedéket nyújtva a gazdag vadállománynak. Legmagasabb pontja a Highiș-csúcs (943 m), amely népszerű célpont a helyi túrázók körében. A Zarándi-hegység lábánál található a híres Ménesi borvidék, ahol a hegyoldalak napsütötte lejtőin kiváló minőségű szőlő terem. A terület gazdag történelmi emlékekben is, mint például Világos vára vagy a máriaradnai kegyhely. A hegység vadsága, a csendes völgyek és a történelmi utak találkozása különleges bájt kölcsönöz a vidéknek, amely ideális a bakancsos turizmushoz és a lelki feltöltődéshez.",
+      "factsAdvanced": [
+        "A Zarándi-hegység főleg vulkanikus és kristályos kőzetekből épül fel.",
+        "Itt található Románia egyik legrégebbi és legfontosabb vörösbortermelő vidéke (Ménes).",
+        "A hegység területén fekszik a Világosi várrom, az 1849-es fegyverletétel helyszínének közelében.",
+        "A Highiș-csúcsról gyönyörű kilátás nyílik az Alföldre és a Maros völgyére.",
+        "Számos jól jelzett turistaútvonal köti össze a hegység falvait.",
+        "A Zarándi-hegység erdei híresek a szarvas- és vaddisznó-állományukról.",
+        "A területen több kolostor és erdei remetelak is található.",
+        "A hegység klímája enyhébb, köszönhetően a nyugati fekvésnek és az alacsonyabb tengerszint feletti magasságnak."
+      ]
+    },
+    {
+      "id": "river-bega-extra",
+      "descriptionAdvanced": "A Béga (Bega) folyó Temesvár életének és történelmének legfontosabb ütőere, amely a határmenti régió egyik legérdekesebb vízfolyása. A Béga volt az első csatornázott folyó Romániában, aminek köszönhetően Temesvár már a 18. században fontos kikötővárossá válhatott, közvetlen vízi összeköttetéssel Európa többi részével. A városi szakaszon a Béga-csatorna partja egy hatalmas zöld parkrendszerré alakult, ahol sétaterek, bicikliutak és teraszok várják a pihenni vágyókat. A folyón ma is közlekednek a 'vaporetto' jellegű vízi buszok, egyedülálló közlekedési módot kínálva. A Béga nemcsak gazdasági szempontból volt döntő, hanem a város modern identitását is meghatározza, mint a kultúra és a kikapcsolódás színtere. A folyó mente a Bánság egyik legélhetőbb és legvonzóbb területe.",
+      "factsAdvanced": [
+        "A Béga folyó hossza 244 kilométer, amelyből 168 km van Románia területén.",
+        "A Béga-csatornát 1728-ban kezdték el építeni gróf Mercy irányításával.",
+        "Temesvár volt az első város a mai Románia területén, ahol folyami tömegközlekedés indult.",
+        "A folyó vize a forrásvidéken (Pojána-Ruszka) kristálytiszta, az Alföldön pedig szabályozott.",
+        "A Béga partján található Temesvár legtöbb fontos közparkja.",
+        "A folyó a Bánsági-alföld egyik legfontosabb öntözővizét biztosítja.",
+        "A Béga vize Szerbiában egyesül a Tiszával.",
+        "A Béga-parti kerékpárút egészen a szerb határig vezet, több mint 37 kilométer hosszan."
+      ]
+    },
+    {
+      "id": "mountain-mehedinti-extra",
+      "descriptionAdvanced": "A Mehedinți-hegység a Déli-Kárpátok legdélebbi, látványos mészkővonulata, amely meredek falaival és mély szurdokaival uralja a Cserna-völgy és a Duna közötti tájat. A hegység a karsztjelenségek paradicsoma: tágas barlangok, hatalmas víznyelők és szédítő mészkőszirtek jellemzik. Legmagasabb pontja a Stan-csúcs (Vârful lui Stan, 1466 m), ahonnan lélegzetelállító panoráma nyílik a Cserna-havasokra és a Dunára. A Mehedinți-hegység a Domogled-Cserna-völgy Nemzeti Park része, és gazdag szubmediterrán flórával rendelkezik, beleértve a híres bánáti feketefenyőt. A hegység vadsága és nehezen megközelíthető sziklavilága vonzza a tapasztalt túrázókat és hegymászókat, akik az érintetlen természetet és a drámai tájképeket keresik a Kárpátok ezen eldugott sarkában.",
+      "factsAdvanced": [
+        "A Mehedinți-hegység Románia egyik legkarakteresebb mészkőhegysége.",
+        "Itt található a Domogled-hegy, amely híres különleges növényvilágáról és lepkefaunájáról.",
+        "A hegység lábánál fekszik Herkulesfürdő, Európa egyik legrégebbi gyógyhelye.",
+        "A Stan-csúcsra vezető túra az egyik leglátványosabb gerinctúra a Déli-Kárpátokban.",
+        "Számos barlangot ( pl. Pestera cu Apa din Cheile Lazului) rejt a hegység mélye.",
+        "A szubmediterrán hatás miatt a területen számos ritka hüllőfaj, például a homoki vipera is él.",
+        "A hegység karsztforrásai táplálják a környék híres termálvizeit.",
+        "A terület az UNESCO Világörökség részét képező bükkerdőkkel is büszkélkedhet."
+      ]
+    },
+    {
+      "id": "river-olt-extra",
+      "descriptionAdvanced": "Az Olt Románia egyik legfontosabb és leghosszabb folyója, amely kizárólag az ország területén folyik, a Gyergyói-havasoktól egészen a Dunáig. Az Olt völgye az ország egyik legfontosabb történelmi és közlekedési tengelye, amely összeköti Erdélyt Havasalfölddel a drámai Vöröstoronyi-szoroson keresztül. A folyó mentén számos vízerőmű és víztározó épült, amelyek Románia vízenergia-termelésének jelentős részét adják. Az Olt partján olyan nagyvárosok fekszenek, mint Sepsiszentgyörgy, Fogaras vagy Râmnicu Vâlcea, mindegyikük gazdag épített örökséggel és ipari hagyományokkal. A folyó mente ökológiai szempontból is kiemelkedő, árterei fontos védett területek a költözőmadarak és a vízi élővilág számára. Az Olt nemcsak egy vízfolyás, hanem a nemzeti egység és a természet erejének monumentális szimbóluma.",
+      "factsAdvanced": [
+        "Az Olt folyó teljes hossza körülbelül 615 kilométer.",
+        "Ez az egyetlen folyó, amely áttöri a Déli-Kárpátok hegyláncát.",
+        "Az Olton több mint 30 víztározó tó és erőmű működik, alkotva az 'Olt-lépcsőt'.",
+        "A Vöröstoronyi-szoros évszázadokig fontos vámhely és katonai védelmi vonal volt.",
+        "A folyó völgye híres a középkori kolostorairól (pl. Cozia).",
+        "Az Olt menti síkság Havasalföld egyik leggazdagabb mezőgazdasági vidéke.",
+        "A folyó torkolata Turnu Măgurele közelében található.",
+        "Számos népdal és ballada emlékezik meg az Olt vadságáról és szépségéről."
+      ]
+    },
+    {
+      "id": "river-vedea-extra",
+      "descriptionAdvanced": "A Vedea folyó Dél-Románia egyik jelentős vízfolyása, amely az Előkárpátok dombvidékén ered és a román Alföldön keresztül tart a Duna felé. A folyó völgye hagyományosan fontos mezőgazdasági terület, amely évezredek óta biztosítja az itt élő közösségek megélhetését. A Vedea mentén fekszik Alexandria városa, a folyó pedig meghatározza Teleorman megye tájképét és gazdasági tevékenységét. Bár vízhozama az év során jelentősen változhat, ártere gazdag alluviális talajokkal rendelkezik, amelyek ideálisak a gabonatermesztéshez. A folyó mente csendes, rurális környezetet kínál, ahol a természetes növényzet és a hagyományos falusi életmód harmonikusan él egymás mellett. A Vedea völgye fontos régészeti lelőhelyeket is rejt, tanúskodva a környék ősi benépesüléséről és a folyó menti korai civilizációkról.",
+      "factsAdvanced": [
+        "A Vedea folyó hossza körülbelül 224 kilométer.",
+        "Forrása az Argeș-dombságban, közel 600 méteres magasságban található.",
+        "A folyó vize fontos szerepet játszik a Teleorman-síkság öntözésében.",
+        "Völgye gazdag dák és római kori régészeti leletekben.",
+        "A Vedea mente kedvelt helyszíne a hagyományos horgászatnak.",
+        "A folyó vize végül Bujoru közelében ömlik a Dunába.",
+        "Számos kisebb mellékfolyója hálózza be a dél-romániai rónaságot.",
+        "A folyó neve egyes feltételezések szerint dák eredetű, jelentése 'víz'."
+      ]
+    }
+  ]
+}

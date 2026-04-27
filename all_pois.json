@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "animal-habitat-wilhelma-stuttgart-extra",
+    "name": "Wilhelma Stuttgart"
+  },
+  {
+    "id": "kid-landmark-europa-park-rust-extra",
+    "name": "Europa-Park Rust"
+  },
+  {
+    "id": "animal-habitat-tierpark-lohberg-extra",
+    "name": "Bayerwald-Tierpark Lohberg"
+  },
+  {
+    "id": "animal-habitat-wildpark-poing-extra",
+    "name": "Wildpark Poing"
+  },
+  {
+    "id": "kid-landmark-botanischer-garten-berlin-extra",
+    "name": "Botanischer Garten Berlin"
+  },
+  {
+    "id": "kid-landmark-biosphaere-potsdam-extra",
+    "name": "Biosphäre Potsdam"
+  },
+  {
+    "id": "agriculture-paaren-extra",
+    "name": "MAFZ Erlebnispark Paaren"
+  },
+  {
+    "id": "kid-landmark-rhododendron-park-bremen-extra",
+    "name": "Rhododendron-Park Bremen"
+  },
+  {
+    "id": "animal-habitat-schwarze-berge-extra",
+    "name": "Wildpark Schwarze Berge"
+  },
+  {
+    "id": "kid-landmark-palmengarten-frankfurt-extra",
+    "name": "Palmengarten Frankfurt"
+  },
+  {
+    "id": "animal-habitat-opel-zoo-extra",
+    "name": "Opel-Zoo Kronberg"
+  },
+  {
+    "id": "animal-habitat-baerenwald-mueritz-extra",
+    "name": "Bärenwald Müritz"
+  },
+  {
+    "id": "kid-landmark-ozeaneum-stralsund-extra",
+    "name": "OZEANEUM Stralsund"
+  },
+  {
+    "id": "kid-landmark-heide-park-soltau-extra",
+    "name": "Heide Park Resort"
+  },
+  {
+    "id": "animal-habitat-weltvogelpark-walsrode-extra",
+    "name": "Weltvogelpark Walsrode"
+  },
+  {
+    "id": "kid-landmark-phantasialand-bruehl-extra",
+    "name": "Phantasialand Brühl"
+  },
+  {
+    "id": "animal-habitat-zoom-gelsenkirchen-extra",
+    "name": "Zoom Erlebniswelt Gelsenkirchen"
+  },
+  {
+    "id": "kid-landmark-holiday-park-extra",
+    "name": "Holiday Park Haßloch"
+  },
+  {
+    "id": "animal-habitat-eifelpark-extra",
+    "name": "Eifelpark Gondorf"
+  },
+  {
+    "id": "kid-landmark-gondwana-extra",
+    "name": "Gondwana – Das Praehistorium"
+  },
+  {
+    "id": "animal-habitat-wolfspark-extra",
+    "name": "Wolfspark Werner Freund"
+  },
+  {
+    "id": "kid-landmark-sonnenlandpark-extra",
+    "name": "Sonnenlandpark Lichtenau"
+  },
+  {
+    "id": "kid-landmark-saurierpark-extra",
+    "name": "Saurierpark Kleinwelka"
+  },
+  {
+    "id": "animal-habitat-tiergarten-stendal-extra",
+    "name": "Tiergarten Stendal"
+  },
+  {
+    "id": "kid-landmark-elbauenpark-extra",
+    "name": "Elbauenpark Magdeburg"
+  },
+  {
+    "id": "kid-landmark-hansa-park-extra",
+    "name": "Hansa-Park Sierksdorf"
+  },
+  {
+    "id": "kid-landmark-multimar-extra",
+    "name": "Multimar Wattforum Tönning"
+  },
+  {
+    "id": "animal-habitat-zoo-erfurt-extra",
+    "name": "Thüringer Zoopark Erfurt"
+  },
+  {
+    "id": "kid-landmark-baumkronenpfad-extra",
+    "name": "Baumkronenpfad Hainich"
+  },
+  {
+    "id": "kid-landmark-gaerten-der-welt-extra",
+    "name": "Gärten der Welt Berlin"
+  },
+  {
+    "id": "industry-mercedes-sindelfingen-extra",
+    "name": "Mercedes-Benz Werk Sindelfingen"
+  },
+  {
+    "id": "industry-bosch-feuerbach-extra",
+    "name": "Robert Bosch Werk Feuerbach"
+  },
+  {
+    "id": "industry-audi-ingolstadt-extra",
+    "name": "Audi Werk Ingolstadt"
+  },
+  {
+    "id": "industry-siemens-amberg-extra",
+    "name": "Siemens Werk Amberg"
+  },
+  {
+    "id": "industry-siemensstadt-extra",
+    "name": "Siemensstadt Square"
+  },
+  {
+    "id": "industry-tesla-brandenburg-extra",
+    "name": "Tesla Gigafactory Berlin-Brandenburg"
+  },
+  {
+    "id": "industry-pck-schwedt-extra",
+    "name": "PCK Raffinerie Schwedt"
+  },
+  {
+    "id": "industry-mercedes-bremen-extra",
+    "name": "Mercedes-Benz Werk Bremen"
+  },
+  {
+    "id": "port-altenwerder-extra",
+    "name": "Container Terminal Altenwerder"
+  },
+  {
+    "id": "industry-airbus-hamburg-extra",
+    "name": "Airbus Werk Finkenwerder"
+  },
+  {
+    "id": "industry-industriepark-hoechst-extra",
+    "name": "Industriepark Höchst"
+  },
+  {
+    "id": "industry-opel-ruesselsheim-extra",
+    "name": "Opel Werk Rüsselsheim"
+  },
+  {
+    "id": "industry-mv-werften-rostock-extra",
+    "name": "Marinearsenal Warnowwerft"
+  },
+  {
+    "id": "port-rostock-extra",
+    "name": "Seehafen Rostock"
+  },
+  {
+    "id": "industry-meyer-werft-extra",
+    "name": "Meyer Werft Papenburg"
+  },
+  {
+    "id": "industry-continental-hannover-extra",
+    "name": "Continental Werk Stöcken"
+  },
+  {
+    "id": "port-duisburg-extra",
+    "name": "Duisburger Hafen (duisport)"
+  },
+  {
+    "id": "industry-bayer-leverkusen-extra",
+    "name": "Bayer-Werk Leverkusen"
+  },
+  {
+    "id": "industry-ford-koeln-extra",
+    "name": "Ford-Werke Köln-Niehl"
+  },
+  {
+    "id": "industry-basf-ludwigshafen-extra",
+    "name": "BASF SE Ludwigshafen"
+  },
+  {
+    "id": "industry-boehringer-ingelheim-extra",
+    "name": "Boehringer Ingelheim Stammwerk"
+  },
+  {
+    "id": "industry-dillinger-huette-extra",
+    "name": "Dillinger Hütte"
+  },
+  {
+    "id": "industry-ford-saarlouis-extra",
+    "name": "Ford-Werke Saarlouis"
+  },
+  {
+    "id": "industry-glaeserne-manufaktur-extra",
+    "name": "Gläserne Manufaktur Dresden"
+  },
+  {
+    "id": "industry-porsche-leipzig-extra",
+    "name": "Porsche Werk Leipzig"
+  },
+  {
+    "id": "industry-leuna-extra",
+    "name": "Chemiestandort Leuna"
+  },
+  {
+    "id": "industry-skw-piesteritz-extra",
+    "name": "SKW Stickstoffwerke Piesteritz"
+  },
+  {
+    "id": "industry-tkms-kiel-extra",
+    "name": "ThyssenKrupp Marine Systems Kiel"
+  },
+  {
+    "id": "port-luebeck-extra",
+    "name": "Lübecker Hafen"
+  },
+  {
+    "id": "industry-zeiss-jena-extra",
+    "name": "Carl Zeiss Werk Jena"
+  },
+  {
+    "id": "city-ingolstadt-extra",
+    "name": "Ingolstadt"
+  },
+  {
+    "id": "city-passau-extra",
+    "name": "Passau"
+  },
+  {
+    "id": "mnt-wendelstein-extra",
+    "name": "Wendelstein"
+  },
+  {
+    "id": "river-salzach-extra",
+    "name": "Salzach"
+  },
+  {
+    "id": "lake-walchensee-extra",
+    "name": "Walchensee"
+  },
+  {
+    "id": "landmark-residenz-wuerzburg-extra",
+    "name": "Würzburger Residenz"
+  },
+  {
+    "id": "historical-regensburg-dom-extra",
+    "name": "Regensburger Dom"
+  },
+  {
+    "id": "forest-frankenwald-extra",
+    "name": "Frankenwald"
+  },
+  {
+    "id": "landmark-nymphenburg-extra",
+    "name": "Schloss Nymphenburg"
+  },
+  {
+    "id": "agriculture-hopfen-hallertau-extra",
+    "name": "Hallertau Hopfenanbaugebiet"
+  },
+  {
+    "id": "city-muenster-extra",
+    "name": "Münster"
+  },
+  {
+    "id": "city-wuppertal-extra",
+    "name": "Wuppertal"
+  },
+  {
+    "id": "river-lippe-extra",
+    "name": "Lippe"
+  },
+  {
+    "id": "landmark-cologne-cathedral-dom-extra",
+    "name": "Externsteine"
+  },
+  {
+    "id": "lake-baldeneysee-extra",
+    "name": "Baldeneysee"
+  },
+  {
+    "id": "historical-aachen-karl-extra",
+    "name": "Aachener Dom"
+  },
+  {
+    "id": "forest-teutoburger-wald-extra",
+    "name": "Teutoburger Wald"
+  },
+  {
+    "id": "industry-ruhrgebiet-extra",
+    "name": "Ruhrgebiet – Industriekultur"
+  },
+  {
+    "id": "landmark-schloss-augustusburg-extra",
+    "name": "Schloss Augustusburg"
+  },
+  {
+    "id": "river-wupper-extra",
+    "name": "Wupper"
+  },
+  {
+    "id": "city-ulm-extra",
+    "name": "Ulm"
+  },
+  {
+    "id": "mnt-feldberg-bw-extra",
+    "name": "Feldberg (Schwarzwald)"
+  },
+  {
+    "id": "river-neckar-extra",
+    "name": "Neckar"
+  },
+  {
+    "id": "city-tuebingen-extra",
+    "name": "Tübingen"
+  },
+  {
+    "id": "landmark-hohenzollern-castle-extra",
+    "name": "Burg Hohenzollern"
+  },
+  {
+    "id": "lake-titisee-extra",
+    "name": "Titisee"
+  },
+  {
+    "id": "historical-kloster-maulbronn-extra",
+    "name": "Kloster Maulbronn"
+  },
+  {
+    "id": "city-konstanz-extra",
+    "name": "Konstanz"
+  },
+  {
+    "id": "forest-schwarzwald-nord-extra",
+    "name": "Nordschwarzwald"
+  },
+  {
+    "id": "city-freiburg-extra",
+    "name": "Freiburg im Breisgau"
+  },
+  {
+    "id": "landmark-museumsinsel-extra",
+    "name": "Museumsinsel Berlin"
+  },
+  {
+    "id": "historical-berliner-mauer-east-extra",
+    "name": "East Side Gallery"
+  },
+  {
+    "id": "landmark-charlottenburg-palace-extra",
+    "name": "Schloss Charlottenburg"
+  },
+  {
+    "id": "forest-grunewald-extra",
+    "name": "Grunewald"
+  },
+  {
+    "id": "river-havel-berlin-extra",
+    "name": "Havel (Berlin)"
+  },
+  {
+    "id": "landmark-olympiastadion-berlin-extra",
+    "name": "Olympiastadion Berlin"
+  },
+  {
+    "id": "historical-holocaust-memorial-extra",
+    "name": "Holocaust-Mahnmal Berlin"
+  },
+  {
+    "id": "landmark-kurfuerstendamm-extra",
+    "name": "Kurfürstendamm"
+  },
+  {
+    "id": "lake-mueggelsee-extra",
+    "name": "Müggelsee"
+  },
+  {
+    "id": "historical-schloss-sanssouci-berlin-extra",
+    "name": "Wannsee-Konferenz Gedenkstätte"
+  },
+  {
+    "id": "city-wiesbaden-extra",
+    "name": "Wiesbaden"
+  },
+  {
+    "id": "city-kassel-extra",
+    "name": "Kassel"
+  },
+  {
+    "id": "city-marburg-extra",
+    "name": "Marburg"
+  },
+  {
+    "id": "mnt-taunus-extra",
+    "name": "Taunus"
+  },
+  {
+    "id": "river-lahn-extra",
+    "name": "Lahn"
+  },
+  {
+    "id": "forest-kellerwald-extra",
+    "name": "Kellerwald-Edersee"
+  },
+  {
+    "id": "lake-edersee-extra",
+    "name": "Edersee"
+  },
+  {
+    "id": "hist-fulda-extra",
+    "name": "Kloster Fulda"
+  },
+  {
+    "id": "landmark-mathildenhoehe-extra",
+    "name": "Mathildenhöhe Darmstadt"
+  },
+  {
+    "id": "mnt-vogelsberg-extra",
+    "name": "Vogelsberg"
+  },
+  {
+    "id": "hist-bad-homburg-extra",
+    "name": "Schloss Bad Homburg"
+  },
+  {
+    "id": "city-giessen-extra",
+    "name": "Gießen"
+  },
+  {
+    "id": "mnt-rhoen-hessen-extra",
+    "name": "Rhön (Hessen)"
+  },
+  {
+    "id": "landmark-loreley-rhein-he-extra",
+    "name": "Rheingau"
+  },
+  {
+    "id": "hist-limburg-dom-extra",
+    "name": "Limburger Dom"
+  },
+  {
+    "id": "city-wolfsburg-extra",
+    "name": "Wolfsburg"
+  },
+  {
+    "id": "city-braunschweig-extra",
+    "name": "Braunschweig"
+  },
+  {
+    "id": "mnt-brocken-ni-extra",
+    "name": "Harz (Niedersachsen)"
+  },
+  {
+    "id": "forest-lueneburger-heide-extra",
+    "name": "Lüneburger Heide"
+  },
+  {
+    "id": "city-osnabrueck-extra",
+    "name": "Osnabrück"
+  },
+  {
+    "id": "river-weser-ni-extra",
+    "name": "Weser"
+  },
+  {
+    "id": "city-hildesheim-extra",
+    "name": "Hildesheim"
+  },
+  {
+    "id": "island-norderney-extra",
+    "name": "Norderney"
+  },
+  {
+    "id": "hist-hameln-extra",
+    "name": "Hameln"
+  },
+  {
+    "id": "city-goettingen-extra",
+    "name": "Göttingen"
+  },
+  {
+    "id": "landmark-wilhelmshaven-extra",
+    "name": "Wilhelmshaven"
+  },
+  {
+    "id": "lake-steinhuder-meer-extra",
+    "name": "Steinhuder Meer"
+  },
+  {
+    "id": "city-celle-extra",
+    "name": "Celle"
+  },
+  {
+    "id": "hist-goslar-extra",
+    "name": "Goslar"
+  },
+  {
+    "id": "river-ems-extra",
+    "name": "Ems"
+  },
+  {
+    "id": "city-chemnitz-extra",
+    "name": "Chemnitz"
+  },
+  {
+    "id": "city-zwickau-extra",
+    "name": "Zwickau"
+  },
+  {
+    "id": "mnt-erzgebirge-extra",
+    "name": "Erzgebirge"
+  },
+  {
+    "id": "mnt-saechsische-schweiz-extra",
+    "name": "Sächsische Schweiz"
+  },
+  {
+    "id": "river-elbe-sachsen-extra",
+    "name": "Elbe (Sachsen)"
+  },
+  {
+    "id": "hist-meissen-extra",
+    "name": "Meißen"
+  },
+  {
+    "id": "landmark-voelkerschlachtdenkmal-extra",
+    "name": "Völkerschlachtdenkmal Leipzig"
+  },
+  {
+    "id": "landmark-augustusbruecke-extra",
+    "name": "Augustusbrücke Dresden"
+  },
+  {
+    "id": "city-goerlitz-extra",
+    "name": "Görlitz"
+  },
+  {
+    "id": "lake-talsperre-kriebstein-extra",
+    "name": "Talsperre Kriebstein"
+  },
+  {
+    "id": "forest-saechsische-schweiz-park-extra",
+    "name": "Nationalpark Sächsische Schweiz"
+  },
+  {
+    "id": "hist-moritzburg-extra",
+    "name": "Schloss Moritzburg"
+  },
+  {
+    "id": "city-freiberg-sachsen-extra",
+    "name": "Freiberg"
+  },
+  {
+    "id": "landmark-blaues-wunder-dresden-extra",
+    "name": "Blaues Wunder Dresden"
+  },
+  {
+    "id": "hist-zwinger-dresden-extra",
+    "name": "Dresdner Zwinger"
+  },
+  {
+    "id": "city-koblenz-extra",
+    "name": "Koblenz"
+  },
+  {
+    "id": "river-mosel-rp-extra",
+    "name": "Mosel"
+  },
+  {
+    "id": "city-ludwigshafen-extra",
+    "name": "Ludwigshafen"
+  },
+  {
+    "id": "hist-trier-porta-nigra-extra",
+    "name": "Trier – Porta Nigra"
+  },
+  {
+    "id": "mnt-pfaelzerwald-extra",
+    "name": "Pfälzerwald"
+  },
+  {
+    "id": "river-nahe-extra",
+    "name": "Nahe"
+  },
+  {
+    "id": "landmark-deutsches-eck-extra",
+    "name": "Deutsches Eck"
+  },
+  {
+    "id": "mnt-eifel-rp-extra",
+    "name": "Eifel (Rheinland-Pfalz)"
+  },
+  {
+    "id": "lake-laacher-see-extra",
+    "name": "Laacher See"
+  },
+  {
+    "id": "hist-speyer-dom-extra",
+    "name": "Speyerer Dom"
+  },
+  {
+    "id": "landmark-loreley-rp-extra",
+    "name": "Loreley"
+  },
+  {
+    "id": "city-worms-extra",
+    "name": "Worms"
+  },
+  {
+    "id": "landmark-cochem-burg-extra",
+    "name": "Burg Cochem"
+  },
+  {
+    "id": "hist-worms-judenviertel-extra",
+    "name": "Jüdisches Worms"
+  },
+  {
+    "id": "landmark-rheinstein-extra",
+    "name": "Burg Rheinstein"
+  },
+  {
+    "id": "city-rostock-extra",
+    "name": "Rostock"
+  },
+  {
+    "id": "city-stralsund-extra",
+    "name": "Stralsund"
+  },
+  {
+    "id": "island-ruegen-extra",
+    "name": "Rügen"
+  },
+  {
+    "id": "island-usedom-extra",
+    "name": "Usedom"
+  },
+  {
+    "id": "city-schwerin-extra",
+    "name": "Schwerin"
+  },
+  {
+    "id": "lake-mueritz-extra",
+    "name": "Müritz"
+  },
+  {
+    "id": "river-warnow-extra",
+    "name": "Warnow"
+  },
+  {
+    "id": "port-wismar-extra",
+    "name": "Wismar"
+  },
+  {
+    "id": "forest-darss-extra",
+    "name": "Darß"
+  },
+  {
+    "id": "historical-greifswald-extra",
+    "name": "Greifswald"
+  },
+  {
+    "id": "landmark-schwerin-schloss-extra",
+    "name": "Schweriner Schloss"
+  },
+  {
+    "id": "historical-kloster-eldena-extra",
+    "name": "Klosterruine Eldena"
+  },
+  {
+    "id": "lake-schweriner-see-extra",
+    "name": "Schweriner See"
+  },
+  {
+    "id": "city-neubrandenburg-extra",
+    "name": "Neubrandenburg"
+  },
+  {
+    "id": "animal-habitat-mv-kraniche-extra",
+    "name": "Kranich-Rastplätze Mecklenburg"
+  },
+  {
+    "id": "city-kiel-extra",
+    "name": "Kiel"
+  },
+  {
+    "id": "city-luebeck-extra",
+    "name": "Lübeck"
+  },
+  {
+    "id": "island-sylt-extra",
+    "name": "Sylt"
+  },
+  {
+    "id": "river-eider-extra",
+    "name": "Eider"
+  },
+  {
+    "id": "port-kiel-kanal-extra",
+    "name": "Nord-Ostsee-Kanal"
+  },
+  {
+    "id": "historical-schleswig-dom-extra",
+    "name": "Schleswig Dom"
+  },
+  {
+    "id": "landmark-holstentor-extra",
+    "name": "Holstentor Lübeck"
+  },
+  {
+    "id": "island-foehr-extra",
+    "name": "Föhr"
+  },
+  {
+    "id": "lake-ploenesee-extra",
+    "name": "Plöner See"
+  },
+  {
+    "id": "historical-haithabu-extra",
+    "name": "Haithabu (Hedeby)"
+  },
+  {
+    "id": "forest-sachsenwald-extra",
+    "name": "Sachsenwald"
+  },
+  {
+    "id": "sea-wattenmeer-sh-extra",
+    "name": "Schleswig-Holsteinisches Wattenmeer"
+  },
+  {
+    "id": "city-flensburg-extra",
+    "name": "Flensburg"
+  },
+  {
+    "id": "landmark-nordertor-flensburg-extra",
+    "name": "Nordertor Flensburg"
+  },
+  {
+    "id": "port-hamburg-altona-sh-extra",
+    "name": "Altona (historisch Schleswig-Holstein)"
+  },
+  {
+    "id": "city-potsdam-extra",
+    "name": "Potsdam"
+  },
+  {
+    "id": "city-cottbus-extra",
+    "name": "Cottbus"
+  },
+  {
+    "id": "river-spree-bb-extra",
+    "name": "Spree (Brandenburg)"
+  },
+  {
+    "id": "river-havel-bb-extra",
+    "name": "Havel (Brandenburg)"
+  },
+  {
+    "id": "lake-scharmuetzelsee-extra",
+    "name": "Scharmützelsee"
+  },
+  {
+    "id": "lake-schwielowsee-extra",
+    "name": "Schwielowsee"
+  },
+  {
+    "id": "forest-flaeming-extra",
+    "name": "Fläming"
+  },
+  {
+    "id": "landmark-brandenburger-dom-extra",
+    "name": "Brandenburger Dom"
+  },
+  {
+    "id": "hist-kloster-chorin-extra",
+    "name": "Kloster Chorin"
+  },
+  {
+    "id": "hist-schloss-rheinsberg-extra",
+    "name": "Schloss Rheinsberg"
+  },
+  {
+    "id": "landmark-spreewald-kahnfahrt-extra",
+    "name": "Spreewald Kahnfahrt"
+  },
+  {
+    "id": "agriculture-spargel-beelitz-extra",
+    "name": "Beelitzer Spargel"
+  },
+  {
+    "id": "agriculture-gurken-spreewald-extra",
+    "name": "Spreewald-Gurken"
+  },
+  {
+    "id": "hist-filmpark-babelsberg-extra",
+    "name": "Filmpark Babelsberg"
+  },
+  {
+    "id": "city-frankfurt-oder-extra",
+    "name": "Frankfurt (Oder)"
+  },
+  {
+    "id": "city-magdeburg-extra",
+    "name": "Magdeburg"
+  },
+  {
+    "id": "city-halle-saale-extra",
+    "name": "Halle (Saale)"
+  },
+  {
+    "id": "city-dessau-extra",
+    "name": "Dessau-Roßlau"
+  },
+  {
+    "id": "river-elbe-st-extra",
+    "name": "Elbe (Sachsen-Anhalt)"
+  },
+  {
+    "id": "river-saale-st-extra",
+    "name": "Saale (Sachsen-Anhalt)"
+  },
+  {
+    "id": "lake-arendsee-extra",
+    "name": "Arendsee"
+  },
+  {
+    "id": "mnt-brocken-st-extra",
+    "name": "Brocken (Sachsen-Anhalt)"
+  },
+  {
+    "id": "forest-harz-nationalpark-extra",
+    "name": "Nationalpark Harz (Sachsen-Anhalt)"
+  },
+  {
+    "id": "hist-wittenberg-stadtkirche-extra",
+    "name": "Lutherstadt Wittenberg"
+  },
+  {
+    "id": "hist-naumburg-dom-extra",
+    "name": "Naumburger Dom"
+  },
+  {
+    "id": "landmark-nebra-himmelsscheibe-extra",
+    "name": "Himmelsscheibe von Nebra"
+  },
+  {
+    "id": "landmark-bauhaus-dessau-extra",
+    "name": "Bauhaus Dessau"
+  },
+  {
+    "id": "agriculture-zuckerruebe-st-extra",
+    "name": "Zuckerrübenanbau (Sachsen-Anhalt)"
+  },
+  {
+    "id": "landmark-quedlinburg-st-extra",
+    "name": "Quedlinburg"
+  },
+  {
+    "id": "industry-leuna-buna-extra",
+    "name": "Chemiedreieck Leuna-Buna"
+  },
+  {
+    "id": "city-erfurt-extra",
+    "name": "Erfurt"
+  },
+  {
+    "id": "city-weimar-extra",
+    "name": "Weimar"
+  },
+  {
+    "id": "city-jena-extra",
+    "name": "Jena"
+  },
+  {
+    "id": "castle-wartburg-extra",
+    "name": "Wartburg"
+  },
+  {
+    "id": "mountain-grosser-beerberg-extra",
+    "name": "Großer Beerberg"
+  },
+  {
+    "id": "forest-thueringer-wald-extra",
+    "name": "Thüringer Wald"
+  },
+  {
+    "id": "river-saale-th-extra",
+    "name": "Saale"
+  },
+  {
+    "id": "lake-bleilochtalsperre-extra",
+    "name": "Bleilochtalsperre"
+  },
+  {
+    "id": "city-eisenach-extra",
+    "name": "Eisenach"
+  },
+  {
+    "id": "historical-buchenwald-extra",
+    "name": "Gedenkstätte Buchenwald"
+  },
+  {
+    "id": "city-gera-extra",
+    "name": "Gera"
+  },
+  {
+    "id": "landmark-kraemerbrue-erfurt-extra",
+    "name": "Krämerbrücke Erfurt"
+  },
+  {
+    "id": "river-werra-th-extra",
+    "name": "Werra"
+  },
+  {
+    "id": "city-gotha-extra",
+    "name": "Gotha"
+  },
+  {
+    "id": "mountain-inselsberg-extra",
+    "name": "Großer Inselsberg"
+  },
+  {
+    "id": "landmark-rathaus-bremen-extra",
+    "name": "Bremer Rathaus"
+  },
+  {
+    "id": "landmark-roland-bremen-extra",
+    "name": "Bremer Roland"
+  },
+  {
+    "id": "port-bremerhaven-extra",
+    "name": "Hafen Bremerhaven"
+  },
+  {
+    "id": "river-weser-hb-extra",
+    "name": "Weser (Bremen)"
+  },
+  {
+    "id": "district-altstadt-bremen-extra",
+    "name": "Bremer Altstadt"
+  },
+  {
+    "id": "landmark-stadtmusikanten-extra",
+    "name": "Bremer Stadtmusikanten"
+  },
+  {
+    "id": "district-schnoorviertel-extra",
+    "name": "Schnoorviertel"
+  },
+  {
+    "id": "district-bremerhaven-city-extra",
+    "name": "Bremerhaven"
+  },
+  {
+    "id": "landmark-dom-bremen-extra",
+    "name": "Bremer Dom"
+  },
+  {
+    "id": "industry-airbus-bremen-extra",
+    "name": "Airbus Bremen"
+  },
+  {
+    "id": "district-boettcherstr-extra",
+    "name": "Böttcherstraße"
+  },
+  {
+    "id": "port-container-bremerhaven-extra",
+    "name": "Containerterminal Bremerhaven"
+  },
+  {
+    "id": "landmark-universum-bremen-extra",
+    "name": "Universum® Bremen"
+  },
+  {
+    "id": "district-viertel-bremen-extra",
+    "name": "Das Viertel Bremen"
+  },
+  {
+    "id": "landmark-elbphilharmonie-hh-extra",
+    "name": "Elbphilharmonie"
+  },
+  {
+    "id": "historical-speicherstadt-hh-extra",
+    "name": "Speicherstadt"
+  },
+  {
+    "id": "port-hamburger-hafen-extra",
+    "name": "Hamburger Hafen"
+  },
+  {
+    "id": "historical-rathaus-hamburg-extra",
+    "name": "Hamburger Rathaus"
+  },
+  {
+    "id": "landmark-reeperbahn-hh-extra",
+    "name": "Reeperbahn (St. Pauli)"
+  },
+  {
+    "id": "river-alster-hh-extra",
+    "name": "Alster"
+  },
+  {
+    "id": "city-altona-hh-extra",
+    "name": "Altona"
+  },
+  {
+    "id": "historical-hafencity-hh-extra",
+    "name": "HafenCity"
+  },
+  {
+    "id": "landmark-michaelis-hh-extra",
+    "name": "Hauptkirche St. Michaelis"
+  },
+  {
+    "id": "city-bergedorf-hh-extra",
+    "name": "Bergedorf"
+  },
+  {
+    "id": "island-neuwerk-hh-extra",
+    "name": "Insel Neuwerk"
+  },
+  {
+    "id": "historical-krameramtsstuben-hh-extra",
+    "name": "Kramer-Amtsstuben"
+  },
+  {
+    "id": "city-harburg-hh-extra",
+    "name": "Hamburg-Harburg"
+  },
+  {
+    "id": "landmark-miniaturwunderland-hh-extra",
+    "name": "Miniatur Wunderland"
+  },
+  {
+    "id": "forest-volksdorf-hh-extra",
+    "name": "Volksdorfer Wald"
+  },
+  {
+    "id": "state-capital-saarbruecken-sl-extra",
+    "name": "Saarbrücken"
+  },
+  {
+    "id": "historical-voelklinger-huette-sl-extra",
+    "name": "Völklinger Hütte"
+  },
+  {
+    "id": "river-saar-sl-extra",
+    "name": "Saar"
+  },
+  {
+    "id": "landmark-saarschleife-sl-extra",
+    "name": "Saarschleife"
+  },
+  {
+    "id": "mountain-hohe-warte-sl-extra",
+    "name": "Hohe Warte"
+  },
+  {
+    "id": "city-neunkirchen-sl-extra",
+    "name": "Neunkirchen"
+  },
+  {
+    "id": "city-homburg-sl-extra",
+    "name": "Homburg (Saar)"
+  },
+  {
+    "id": "river-blies-sl-extra",
+    "name": "Blies"
+  },
+  {
+    "id": "historical-blieskastel-sl-extra",
+    "name": "Blieskastel"
+  },
+  {
+    "id": "mountain-schaumberg-sl-extra",
+    "name": "Schaumberg"
+  },
+  {
+    "id": "lake-bostalsee-sl-extra",
+    "name": "Bostalsee"
+  },
+  {
+    "id": "industry-bergwerk-duhamel-sl-extra",
+    "name": "Bergbaumuseum Bexbach"
+  },
+  {
+    "id": "forest-warndt-sl-extra",
+    "name": "Warndt"
+  },
+  {
+    "id": "city-saarlouis-sl-extra",
+    "name": "Saarlouis"
+  },
+  {
+    "id": "historical-mettlach-abbey-sl-extra",
+    "name": "Alte Abtei Mettlach"
+  }
+]

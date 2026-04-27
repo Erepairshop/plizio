@@ -1,0 +1,602 @@
+{
+  "nat-signal-botrange": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Signal de Botrange?",
+          "de": "Was ist Signal de Botrange?",
+          "hu": "Mi az a Signal de Botrange?",
+          "ro": "Ce este Signal de Botrange?"
+        },
+        "answer": {
+          "en": "Signal de Botrange is the highest point in Belgium, standing at 694 meters above sea level.",
+          "de": "Signal de Botrange ist mit 694 Metern über dem Meeresspiegel der höchste Punkt Belgiens.",
+          "hu": "A Signal de Botrange Belgium legmagasabb pontja, 694 méterrel a tengerszint felett.",
+          "ro": "Signal de Botrange este cel mai înalt punct din Belgia, situat la 694 de metri deasupra nivelului mării."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you reach an altitude of 700 meters at Botrange?",
+          "de": "Kann man in Botrange eine Höhe von 700 Metern erreichen?",
+          "hu": "Elérhető a 700 méteres magasság Botrange-nál?",
+          "ro": "Se poate ajunge la o altitudine de 700 de metri la Botrange?"
+        },
+        "answer": {
+          "en": "Yes, by climbing the 6-meter high 'Baltia hill' staircase, you can symbolically stand at exactly 700 meters.",
+          "de": "Ja, indem man die 6 Meter hohe 'Baltia-Hügel'-Treppe hinaufsteigt, kann man symbolisch auf genau 700 Metern stehen.",
+          "hu": "Igen, a 6 méter magas 'Baltia-domb' lépcsőjének megmászásával szimbolikusan pontosan 700 méteren állhatunk.",
+          "ro": "Da, urcând scara de 6 metri a „dealului Baltia”, puteți sta simbolic la exact 700 de metri."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the environment like around Signal de Botrange?",
+          "de": "Wie ist die Umgebung rund um das Signal de Botrange?",
+          "hu": "Milyen a környezet a Signal de Botrange körül?",
+          "ro": "Cum este mediul înconjurător la Signal de Botrange?"
+        },
+        "answer": {
+          "en": "It is located in the heart of the High Fens, a vast nature reserve consisting of unique plateau moors and peat bogs.",
+          "de": "Es liegt im Herzen des Hohen Venns, eines riesigen Naturschutzgebiets, das aus einzigartigen Hochmooren und Torfmooren besteht.",
+          "hu": "A Hohes Venn szívében található, amely egy egyedülálló fennsíki lápokból és tőzeglápokból álló hatalmas természetvédelmi terület.",
+          "ro": "Este situat în inima regiunii High Fens, o vastă rezervație naturală formată din platouri mlăștinoase și turbării unice."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Signal de Botrange located?",
+          "de": "Wo liegt Signal de Botrange?",
+          "hu": "Hol található a Signal de Botrange?",
+          "ro": "Unde se află Signal de Botrange?"
+        },
+        "answer": {
+          "en": "It is located in the province of Liège, within the Walloon region of eastern Belgium.",
+          "de": "Es befindet sich in der Provinz Lüttich, innerhalb der wallonischen Region im Osten Belgiens.",
+          "hu": "Liège tartományban, Belgium keleti részén, a vallon régióban található.",
+          "ro": "Este situat în provincia Liège, în regiunea valonă din estul Belgiei."
+        }
+      }
+    ]
+  },
+  "nat-semois-valley": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the Semois Valley known for?",
+          "de": "Wofür ist das Semois-Tal bekannt?",
+          "hu": "Miről ismert a Semois-völgy?",
+          "ro": "Pentru ce este cunoscută Valea Semois?"
+        },
+        "answer": {
+          "en": "The Semois Valley is known for its winding river, spectacular panoramas (like the 'Giant's Tomb'), and its historical tobacco farming.",
+          "de": "Das Semois-Tal ist bekannt für seinen gewundenen Fluss, spektakuläre Panoramen (wie das 'Grab des Riesen') und seinen historischen Tabakanbau.",
+          "hu": "A Semois-völgy kanyargós folyójáról, látványos panorámáiról (mint az 'Óriás sírja') és történelmi dohánytermesztéséről ismert.",
+          "ro": "Valea Semois este cunoscută pentru râul său sinuos, panoramele spectaculoase (cum ar fi „Mormântul Uriașului”) și cultivarea istorică a tutunului."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Giant's Tomb'?",
+          "de": "Was ist das 'Grab des Riesen' (Tombeau du Géant)?",
+          "hu": "Mi az az 'Óriás sírja'?",
+          "ro": "Ce este „Mormântul Uriașului”?"
+        },
+        "answer": {
+          "en": "It is a famous meander of the Semois River that surrounds a hill, creating a shape that looks like a giant's coffin.",
+          "de": "Es ist eine berühmte Meisterschleife der Semois, die einen Hügel umschließt und eine Form bildet, die wie der Sarg eines Riesen aussieht.",
+          "hu": "A Semois folyó egyik híres kanyarulata, amely egy dombot ölel körül, és egy óriás koporsójára emlékeztető formát alkot.",
+          "ro": "Este un faimos meandru al râului Semois care înconjoară un deal, creând o formă care seamănă cu sicriul unui uriaș."
+        }
+      },
+      {
+        "question": {
+          "en": "Which activities are popular in the Semois Valley?",
+          "de": "Welche Aktivitäten sind im Semois-Tal beliebt?",
+          "hu": "Milyen tevékenységek népszerűek a Semois-völgyben?",
+          "ro": "Ce activități sunt populare în Valea Semois?"
+        },
+        "answer": {
+          "en": "Hiking through the dense forests and kayaking on the river are the most popular activities for visitors.",
+          "de": "Wandern durch die dichten Wälder und Kajakfahren auf dem Fluss sind die beliebtesten Aktivitäten für Besucher.",
+          "hu": "A sűrű erdőkben való túrázás és a folyón való kajakozás a legnépszerűbb tevékenységek a látogatók számára.",
+          "ro": "Drumețiile prin pădurile dense și caiacul pe râu sunt cele mai populare activități pentru vizitatori."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Semois Valley located?",
+          "de": "Wo liegt das Semois-Tal?",
+          "hu": "Hol található a Semois-völgy?",
+          "ro": "Unde se află Valea Semois?"
+        },
+        "answer": {
+          "en": "It is located in the southern part of the Belgian Ardennes, mainly in the province of Luxembourg.",
+          "de": "Es befindet sich im südlichen Teil der belgischen Ardennen, hauptsächlich in der Provinz Luxemburg.",
+          "hu": "A belga Ardennek déli részén, főleg Luxemburg tartományban található.",
+          "ro": "Este situată în partea de sud a Ardenilor belgieni, în principal în provincia Luxemburg."
+        }
+      }
+    ]
+  },
+  "hist-ypres": {
+    "faq": [
+      {
+        "question": {
+          "en": "Why is Ypres significant in history?",
+          "de": "Warum ist Ypern historisch bedeutsam?",
+          "hu": "Miért jelentős Ypres a történelemben?",
+          "ro": "De ce este Ypres semnificativ în istorie?"
+        },
+        "answer": {
+          "en": "Ypres (Ieper) was a major site of several battles during World War I and was almost completely destroyed and later rebuilt.",
+          "de": "Ypern (Ieper) war ein wichtiger Schauplatz mehrerer Schlachten im Ersten Weltkrieg und wurde fast vollständig zerstört und später wieder aufgebaut.",
+          "hu": "Ypres (Ieper) az első világháború több jelentős csatájának helyszíne volt, szinte teljesen elpusztult, majd később újjáépítették.",
+          "ro": "Ypres (Ieper) a fost un loc major al mai multor bătălii în timpul Primului Război Mondial și a fost aproape complet distrus și ulterior reconstruit."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Menin Gate?",
+          "de": "Was ist das Menin-Tor?",
+          "hu": "Mi az a Menin-kapu?",
+          "ro": "Ce este Poarta Menin?"
+        },
+        "answer": {
+          "en": "The Menin Gate is a war memorial dedicated to the missing British and Commonwealth soldiers who died in the Ypres Salient.",
+          "de": "Das Menin-Tor ist ein Kriegsdenkmal, das den vermissten britischen und Commonwealth-Soldaten gewidmet ist, die im Ypernbogen gefallen sind.",
+          "hu": "A Menin-kapu egy háborús emlékhely, amelyet az Ypres-környéki harcokban elesett, eltűnt brit és nemzetközösségi katonáknak szenteltek.",
+          "ro": "Poarta Menin este un memorial de război dedicat soldaților britanici și din Commonwealth dispăruți, care au murit în Ypres Salient."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the 'Last Post' ceremony?",
+          "de": "Was ist die 'Last Post'-Zeremonie?",
+          "hu": "Mi az a 'Last Post' ceremónia?",
+          "ro": "Ce este ceremonia „Last Post”?"
+        },
+        "answer": {
+          "en": "It is a daily tribute at the Menin Gate, where buglers sound the Last Post every evening at 8:00 PM to honor the fallen.",
+          "de": "Es ist eine tägliche Ehrung am Menin-Tor, bei der jeden Abend um 20:00 Uhr das Hornsignal 'Last Post' zur Ehre der Gefallenen erklingt.",
+          "hu": "Ez egy napi tiszteletadás a Menin-kapunál, ahol minden este 20:00-kor kürtszóval (Last Post) emlékeznek meg az elesettekről.",
+          "ro": "Este un tribut zilnic la Poarta Menin, unde goarnistii sună „Last Post” în fiecare seară la ora 20:00 pentru a onora eroii căzuți."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Ypres located?",
+          "de": "Wo liegt Ypern?",
+          "hu": "Hol található Ypres?",
+          "ro": "Unde se află Ypres?"
+        },
+        "answer": {
+          "en": "Ypres is located in the province of West Flanders, in the western part of Belgium.",
+          "de": "Ypern liegt in der Provinz Westflandern, im westlichen Teil Belgiens.",
+          "hu": "Ypres Nyugat-Flandria tartományban, Belgium nyugati részén található.",
+          "ro": "Ypres este situat în provincia Flandra de Vest, în partea de vest a Belgiei."
+        }
+      }
+    ]
+  },
+  "hist-bastogne": {
+    "faq": [
+      {
+        "question": {
+          "en": "What happened in Bastogne during WWII?",
+          "de": "Was geschah während des Zweiten Weltkriegs in Bastogne?",
+          "hu": "Mi történt Bastogne-ban a második világháború alatt?",
+          "ro": "Ce s-a întâmplat în Bastogne în timpul celui de-al Doilea Război Mondial?"
+        },
+        "answer": {
+          "en": "Bastogne was the center of the Battle of the Bulge in 1944, where American paratroopers were surrounded by German forces but refused to surrender.",
+          "de": "Bastogne war das Zentrum der Ardennenoffensive 1944, in der amerikanische Fallschirmjäger von deutschen Truppen eingekesselt wurden, sich aber weigerten zu kapitulieren.",
+          "hu": "Bastogne volt az 1944-es ardenneki offenzíva központja, ahol az amerikai ejtőernyősöket bekerítették a német erők, de ők megtagadták a megadást.",
+          "ro": "Bastogne a fost centrul Bătăliei de la Bulge în 1944, unde parașutiștii americani au fost încercuiți de forțele germane, dar au refuzat să se predea."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Mardasson Memorial?",
+          "de": "Was ist das Mardasson-Denkmal?",
+          "hu": "Mi az a Mardasson-emlékmű?",
+          "ro": "Ce este Memorialul Mardasson?"
+        },
+        "answer": {
+          "en": "It is a large star-shaped monument built to honor the memory of the American soldiers who were wounded or killed during the Battle of the Bulge.",
+          "de": "Es ist ein großes sternförmiges Denkmal, das zum Gedenken an die amerikanischen Soldaten errichtet wurde, die während der Ardennenoffensive verwundet wurden oder fielen.",
+          "hu": "Ez egy nagyméretű, csillag alakú emlékmű, amelyet az ardenneki offenzíva során megsebesült vagy elesett amerikai katonák emlékére emeltek.",
+          "ro": "Este un monument mare în formă de stea, construit pentru a onora memoria soldaților americani care au fost răniți sau uciși în timpul Bătăliei de la Bulge."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you visit a museum about the battle in Bastogne?",
+          "de": "Kann man in Bastogne ein Museum über die Schlacht besuchen?",
+          "hu": "Látogatható-e múzeum a csatáról Bastogne-ban?",
+          "ro": "Se poate vizita un muzeu despre bătălia din Bastogne?"
+        },
+        "answer": {
+          "en": "Yes, the Bastogne War Museum offers an immersive experience and deep insight into the history of the Ardennes Offensive.",
+          "de": "Ja, das Bastogne War Museum bietet ein immersives Erlebnis und tiefe Einblicke in die Geschichte der Ardennenoffensive.",
+          "hu": "Igen, a Bastogne War Museum magával ragadó élményt és mély betekintést nyújt az ardenneki offenzíva történetébe.",
+          "ro": "Da, Muzeul de Război din Bastogne oferă o experiență captivantă și o perspectivă profundă asupra istoriei Ofensivei din Ardeni."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Bastogne located?",
+          "de": "Wo liegt Bastogne?",
+          "hu": "Hol található Bastogne?",
+          "ro": "Unde se află Bastogne?"
+        },
+        "answer": {
+          "en": "Bastogne is located in the province of Luxembourg, in the Walloon region of southern Belgium.",
+          "de": "Bastogne liegt in der Provinz Luxemburg, in der wallonischen Region im Süden Belgiens.",
+          "hu": "Bastogne Luxemburg tartományban, Belgium déli részén, a vallon régióban található.",
+          "ro": "Bastogne este situat în provincia Luxemburg, în regiunea valonă din sudul Belgiei."
+        }
+      }
+    ]
+  },
+  "hist-waterloo-1815": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is the historical significance of Waterloo?",
+          "de": "Was ist die historische Bedeutung von Waterloo?",
+          "hu": "Mi Waterloo történelmi jelentősége?",
+          "ro": "Care este semnificația istorică a localității Waterloo?"
+        },
+        "answer": {
+          "en": "Waterloo was the site of the final defeat of Napoleon Bonaparte in 1815, ending his rule as Emperor of the French.",
+          "de": "Waterloo war der Ort der endgültigen Niederlage von Napoleon Bonaparte im Jahr 1815, was seine Herrschaft als Kaiser der Franzosen beendete.",
+          "hu": "Waterloo volt Napóleon Bonaparte végső vereségének helyszíne 1815-ben, ami véget vetett francia császári uralmának.",
+          "ro": "Waterloo a fost locul înfrângerii finale a lui Napoleon Bonaparte în 1815, punând capăt domniei sale ca împărat al francezilor."
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Lion's Mound?",
+          "de": "Was ist der Löwenhügel?",
+          "hu": "Mi az az Oroszlán-domb?",
+          "ro": "Ce este Colina Leului?"
+        },
+        "answer": {
+          "en": "It is a large artificial hill with a lion statue on top, built to mark the spot where the Prince of Orange was wounded during the battle.",
+          "de": "Es ist ein großer künstlicher Hügel mit einer Löwenstatue an der Spitze, der an der Stelle errichtet wurde, an der der Prinz von Oranien während der Schlacht verwundet wurde.",
+          "hu": "Ez egy hatalmas mesterséges domb, tetején egy oroszlánszoborral, amelyet azon a helyen emeltek, ahol az Orániai herceg megsebesült a csatában.",
+          "ro": "Este o colină artificială mare, cu o statuie de leu în vârf, construită pentru a marca locul unde Prințul de Orania a fost rănit în timpul bătăliei."
+        }
+      },
+      {
+        "question": {
+          "en": "Can you see a panorama of the battle?",
+          "de": "Kann man ein Panorama der Schlacht sehen?",
+          "hu": "Látható-e körkép a csatáról?",
+          "ro": "Se poate vedea o panoramă a bătăliei?"
+        },
+        "answer": {
+          "en": "Yes, there is a large circular painting (The Panorama) depicting key moments of the battle, housed in a dedicated building near the mound.",
+          "de": "Ja, es gibt ein großes Rundgemälde (Das Panorama), das Schlüsselmomente der Schlacht darstellt und in einem eigenen Gebäude in der Nähe des Hügels untergebracht ist.",
+          "hu": "Igen, a domb közelében egy külön épületben található egy hatalmas körkép (A Panoráma), amely a csata kulcsfontosságú pillanatait ábrázolja.",
+          "ro": "Da, există o pictură circulară mare (Panorama) care înfățișează momente cheie ale bătăliei, găzduită într-o clădire dedicată lângă colină."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Waterloo located?",
+          "de": "Wo liegt Waterloo?",
+          "hu": "Hol található Waterloo?",
+          "ro": "Unde se află Waterloo?"
+        },
+        "answer": {
+          "en": "Waterloo is located just south of Brussels, in the province of Walloon Brabant.",
+          "de": "Waterloo liegt südlich von Brüssel in der Provinz Wallonisch-Brabant.",
+          "hu": "Waterloo Brüsszeltől délre, Vallon-Brabant tartományban található.",
+          "ro": "Waterloo este situat la sud de Bruxelles, în provincia Brabantul Valon."
+        }
+      }
+    ]
+  },
+  "sight-galeries-stroom": {
+    "faq": [
+      {
+        "question": {
+          "en": "What are the Galeries Royales Saint-Hubert?",
+          "de": "Was sind die Galeries Royales Saint-Hubert?",
+          "hu": "Mik azok a Galeries Royales Saint-Hubert?",
+          "ro": "Ce sunt Galeriile Regale Saint-Hubert?"
+        },
+        "answer": {
+          "en": "They are a stunning ensemble of glass-roofed shopping arcades in central Brussels, among the oldest in Europe.",
+          "de": "Sie sind ein prächtiges Ensemble glasüberdachter Einkaufspassagen im Zentrum von Brüssel, die zu den ältesten in Europa gehören.",
+          "hu": "Ez egy lenyűgöző, üvegtetős bevásárlóárkád-együttes Brüsszel központjában, Európa egyik legrégebbi ilyen létesítménye.",
+          "ro": "Sunt un ansamblu uluitor de arcade comerciale cu acoperiș de sticlă din centrul Bruxelles-ului, printre cele mai vechi din Europa."
+        }
+      },
+      {
+        "question": {
+          "en": "What can you find inside the galleries?",
+          "de": "Was findet man in den Galerien?",
+          "hu": "Mit találunk a galériákban?",
+          "ro": "Ce se poate găsi în interiorul galeriilor?"
+        },
+        "answer": {
+          "en": "The galleries house high-end boutiques, luxury chocolate shops (like Neuhaus), theaters, and elegant cafes.",
+          "de": "Die Galerien beherbergen exklusive Boutiquen, luxuriöse Schokoladengeschäfte (wie Neuhaus), Theater und elegante Cafés.",
+          "hu": "A galériákban exkluzív butikok, luxus csokoládéboltok (mint a Neuhaus), színházak és elegáns kávézók találhatók.",
+          "ro": "Galeriile găzduiesc buticuri de lux, magazine de ciocolată de lux (precum Neuhaus), teatre și cafenele elegante."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the architecture of the galleries significant?",
+          "de": "Ist die Architektur der Galerien bedeutend?",
+          "hu": "Jelentős a galériák építészete?",
+          "ro": "Este arhitectura galeriilor semnificativă?"
+        },
+        "answer": {
+          "en": "Yes, built in 1847, the Cinquecento-style architecture was a pioneer for later shopping arcades like the Galleria Vittorio Emanuele II in Milan.",
+          "de": "Ja, die 1847 erbauten Passagen im Cinquecento-Stil waren wegweisend für spätere Einkaufspassagen wie die Galleria Vittorio Emanuele II in Mailand.",
+          "hu": "Igen, az 1847-ben épült Cinquecento-stílusú építészet úttörő volt a későbbi bevásárlóárkádok, például a milánói Galleria Vittorio Emanuele II számára.",
+          "ro": "Da, construită în 1847, arhitectura în stil Cinquecento a fost un pionier pentru arcadele comerciale de mai târziu, cum ar fi Galleria Vittorio Emanuele II din Milano."
+        }
+      },
+      {
+        "question": {
+          "en": "Where are the galleries located?",
+          "de": "Wo befinden sich die Galerien?",
+          "hu": "Hol találhatók a galériák?",
+          "ro": "Unde se află galeriile?"
+        },
+        "answer": {
+          "en": "They are located in the heart of Brussels, just a short walk from the Grand Place.",
+          "de": "Sie befinden sich im Herzen von Brüssel, nur wenige Gehminuten vom Grand Place entfernt.",
+          "hu": "Brüsszel szívében találhatók, csak egy rövid sétára a Grand Place-től.",
+          "ro": "Sunt situate în inima Bruxelles-ului, la doar o scurtă plimbare de Grand Place."
+        }
+      }
+    ]
+  },
+  "sight-spa": {
+    "faq": [
+      {
+        "question": {
+          "en": "Why is the town of Spa famous?",
+          "de": "Warum ist die Stadt Spa berühmt?",
+          "hu": "Miért híres Spa városa?",
+          "ro": "De ce este faimos orașul Spa?"
+        },
+        "answer": {
+          "en": "Spa is famous for its natural mineral springs and is the namesake for all spa resorts worldwide.",
+          "de": "Spa ist berühmt für seine natürlichen Mineralquellen und ist der Namensgeber für alle Spa-Resorts weltweit.",
+          "hu": "Spa híres természetes ásványvízforrásairól, és az egész világon használt 'spa' kifejezés névadója.",
+          "ro": "Spa este faimos pentru izvoarele sale minerale naturale și este omonimul pentru toate stațiunile balneare din întreaga lume."
+        }
+      },
+      {
+        "question": {
+          "en": "Is Spa a UNESCO World Heritage site?",
+          "de": "Gehört Spa zum UNESCO-Weltkulturerbe?",
+          "hu": "Az UNESCO Világörökség része Spa?",
+          "ro": "Este Spa un sit al Patrimoniului Mondial UNESCO?"
+        },
+        "answer": {
+          "en": "Yes, Spa is part of the 'Great Spa Towns of Europe' UNESCO World Heritage listing.",
+          "de": "Ja, Spa ist Teil des UNESCO-Weltkulturerbes 'Bedeutende Kurstädte Europas'.",
+          "hu": "Igen, Spa része az UNESCO Világörökségi listáján szereplő 'Európa nagy fürdővárosai' csoportnak.",
+          "ro": "Da, Spa face parte din lista Patrimoniului Mondial UNESCO „Marile Orașe Balneare ale Europei”."
+        }
+      },
+      {
+        "question": {
+          "en": "What else is Spa known for besides its springs?",
+          "de": "Wofür ist Spa außer für seine Quellen noch bekannt?",
+          "hu": "Miről ismert még Spa a forrásain kívül?",
+          "ro": "Pentru ce mai este cunoscut Spa în afară de izvoarele sale?"
+        },
+        "answer": {
+          "en": "Spa is also famous for its historic casino and the nearby Circuit de Spa-Francorchamps, which hosts the Belgian Formula 1 Grand Prix.",
+          "de": "Spa ist auch bekannt für sein historisches Casino und den nahe gelegenen Circuit de Spa-Francorchamps, auf dem der Große Preis von Belgien der Formel 1 stattfindet.",
+          "hu": "Spa híres történelmi kaszinójáról és a közelben található Circuit de Spa-Francorchamps versenypályáról is, ahol a belga Forma-1-es nagydíjat rendezik.",
+          "ro": "Spa este, de asemenea, faimos pentru cazinoul său istoric și pentru Circuitul Spa-Francorchamps din apropiere, care găzduiește Marele Premiu al Belgiei de Formula 1."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Spa located?",
+          "de": "Wo liegt Spa?",
+          "hu": "Hol található Spa?",
+          "ro": "Unde se află Spa?"
+        },
+        "answer": {
+          "en": "Spa is located in the Ardennes region, in the province of Liège, eastern Belgium.",
+          "de": "Spa liegt in der Region Ardennen in der Provinz Lüttich im Osten Belgiens.",
+          "hu": "Spa az Ardennek vidékén, Liège tartományban, Belgium keleti részén található.",
+          "ro": "Spa este situat în regiunea Ardeni, în provincia Liège, în estul Belgiei."
+        }
+      }
+    ]
+  },
+  "sight-chocolate-museum-bruges": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Choco-Story in Bruges?",
+          "de": "Was ist das Choco-Story in Brügge?",
+          "hu": "Mi az a Choco-Story Brugge-ben?",
+          "ro": "Ce este Choco-Story din Bruges?"
+        },
+        "answer": {
+          "en": "Choco-Story is a museum in Bruges dedicated to the history and making of Belgian chocolate.",
+          "de": "Choco-Story ist ein Museum in Brügge, das der Geschichte und Herstellung belgischer Schokolade gewidmet ist.",
+          "hu": "A Choco-Story egy múzeum Brugge-ben, amely a belga csokoládé történetét és készítését mutatja be.",
+          "ro": "Choco-Story este un muzeu din Bruges dedicat istoriei și fabricării ciocolatei belgiene."
+        }
+      },
+      {
+        "question": {
+          "en": "What can visitors see at the museum?",
+          "de": "Was können Besucher im Museum sehen?",
+          "hu": "Mit láthatnak a látogatók a múzeumban?",
+          "ro": "Ce pot vedea vizitatorii la muzeu?"
+        },
+        "answer": {
+          "en": "Visitors can see chocolate-making demonstrations, historical artifacts, and learn about the cocoa-to-chocolate process.",
+          "de": "Besucher können Vorführungen zur Schokoladenherstellung und historische Artefakte sehen sowie den Prozess vom Kakao zur Schokolade kennenlernen.",
+          "hu": "A látogatók csokoládékészítő bemutatókat, történelmi tárgyakat láthatnak, és megismerhetik a folyamatot a kakaóbabtól a csokoládéig.",
+          "ro": "Vizitatorii pot vedea demonstrații de fabricare a ciocolatei, artefacte istorice și pot învăța despre procesul de la cacao la ciocolată."
+        }
+      },
+      {
+        "question": {
+          "en": "Is there a tasting session included?",
+          "de": "Ist eine Verkostung inbegriffen?",
+          "hu": "Tartozik a látogatáshoz kóstoló is?",
+          "ro": "Este inclusă o sesiune de degustare?"
+        },
+        "answer": {
+          "en": "Yes, visits usually end with a tasting session of freshly made chocolates.",
+          "de": "Ja, die Besuche enden in der Regel mit einer Verkostung frisch hergestellter Pralinen.",
+          "hu": "Igen, a látogatás végén általában meg lehet kóstolni a frissen készült csokoládékat.",
+          "ro": "Da, vizitele se termină de obicei cu o sesiune de degustare de ciocolată proaspăt preparată."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the museum located?",
+          "de": "Wo befindet sich das Museum?",
+          "hu": "Hol található a múzeum?",
+          "ro": "Unde se află muzeul?"
+        },
+        "answer": {
+          "en": "It is located in the historic Maison de Croon building in the center of Bruges.",
+          "de": "Es befindet sich im historischen Gebäude Maison de Croon im Zentrum von Brügge.",
+          "hu": "Brugge központjában, a történelmi Maison de Croon épületében található.",
+          "ro": "Este situat în clădirea istorică Maison de Croon din centrul orașului Bruges."
+        }
+      }
+    ]
+  },
+  "city-antwerp": {
+    "faq": [
+      {
+        "question": {
+          "en": "What is Antwerp known for?",
+          "de": "Wofür ist Antwerpen bekannt?",
+          "hu": "Miről nevezetes Antwerpen?",
+          "ro": "Pentru ce este cunoscut orașul Anvers?"
+        },
+        "answer": {
+          "en": "Antwerp is known as the world capital of diamonds, a major global port, and for its vibrant fashion and art scenes.",
+          "de": "Antwerpen ist bekannt als Welthauptstadt der Diamanten, als bedeutender Welthafen und für seine lebendige Mode- und Kunstszene.",
+          "hu": "Antwerpen a gyémántok világfővárosaként, jelentős világkikötőként, valamint pezsgő divat- és művészeti életéről ismert.",
+          "ro": "Anvers este cunoscut drept capitala mondială a diamantelor, un port global major și pentru scenele sale vibrante de modă și artă."
+        }
+      },
+      {
+        "question": {
+          "en": "Who is the most famous artist from Antwerp?",
+          "de": "Wer ist der berühmteste Künstler aus Antwerpen?",
+          "hu": "Ki a leghíresebb antwerpeni művész?",
+          "ro": "Cine este cel mai faimos artist din Anvers?"
+        },
+        "answer": {
+          "en": "Peter Paul Rubens is the most famous artist associated with the city; his former home and studio is now a museum (the Rubenshuis).",
+          "de": "Peter Paul Rubens ist der berühmteste Künstler, der mit der Stadt verbunden ist; sein ehemaliges Wohnhaus und Atelier ist heute ein Museum (das Rubenshuis).",
+          "hu": "Peter Paul Rubens a városhoz köthető leghíresebb művész; egykori otthona és műterme ma múzeumként (Rubenshuis) működik.",
+          "ro": "Peter Paul Rubens este cel mai faimos artist asociat cu orașul; fosta sa casă și atelierul său sunt acum muzeu (Rubenshuis)."
+        }
+      },
+      {
+        "question": {
+          "en": "What is unique about Antwerp Central Station?",
+          "de": "Was ist das Besondere am Antwerpener Hauptbahnhof?",
+          "hu": "Mi az egyedülálló az antwerpeni főpályaudvarban?",
+          "ro": "Ce este unic la Gara Centrală din Anvers?"
+        },
+        "answer": {
+          "en": "Often called the 'Railway Cathedral,' it is widely regarded as one of the most beautiful train stations in the world.",
+          "de": "Er wird oft als 'Eisenbahnkathedrale' bezeichnet und gilt weithin als einer der schönsten Bahnhöfe der Welt.",
+          "hu": "Gyakran emlegetik 'vasúti katedrálisként', és széles körben a világ egyik legszebb vasútállomásának tartják.",
+          "ro": "Numită adesea „Catedrala Feroviară”, este considerată pe scară largă drept una dintre cele mai frumoase gări din lume."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Antwerp located?",
+          "de": "Wo liegt Antwerpen?",
+          "hu": "Hol található Antwerpen?",
+          "ro": "Unde se află orașul Anvers?"
+        },
+        "answer": {
+          "en": "Antwerp is located in northern Belgium, in the region of Flanders, on the banks of the River Scheldt.",
+          "de": "Antwerpen liegt im Norden Belgiens, in der Region Flandern, am Ufer der Schelde.",
+          "hu": "Antwerpen Belgium északi részén, Flandriában, a Schelde folyó partján található.",
+          "ro": "Anvers este situat în nordul Belgiei, în regiunea Flandra, pe malurile râului Scheldt."
+        }
+      }
+    ]
+  },
+  "city-bruges": {
+    "faq": [
+      {
+        "question": {
+          "en": "Why is Bruges called the 'Venice of the North'?",
+          "de": "Warum wird Brügge als 'Venedig des Nordens' bezeichnet?",
+          "hu": "Miért nevezik Brugge-t az 'Észak Velencéjének'?",
+          "ro": "De ce este supranumit Bruges „Veneția Nordului”?"
+        },
+        "answer": {
+          "en": "Bruges is called the 'Venice of the North' because of its extensive network of canals that wind through its medieval city center.",
+          "de": "Brügge wird wegen seines weitläufigen Kanalnetzes, das sich durch das mittelalterliche Stadtzentrum zieht, als 'Venedig des Nordens' bezeichnet.",
+          "hu": "Brugge-t a középkori városközponton kanyargó kiterjedt csatornahálózata miatt nevezik az 'Észak Velencéjének'.",
+          "ro": "Bruges este supranumit „Veneția Nordului” datorită rețelei sale extinse de canale care șerpuiesc prin centrul său istoric medieval."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the historic center of Bruges a UNESCO site?",
+          "de": "Gehört das historische Zentrum von Brügge zum UNESCO-Welterbe?",
+          "hu": "Az UNESCO Világörökség része Brugge történelmi központja?",
+          "ro": "Centrul istoric din Bruges este un sit UNESCO?"
+        },
+        "answer": {
+          "en": "Yes, the entire historic city center of Bruges is recognized as a UNESCO World Heritage site for its well-preserved medieval architecture.",
+          "de": "Ja, das gesamte historische Stadtzentrum von Brügge ist wegen seiner gut erhaltenen mittelalterlichen Architektur als UNESCO-Weltkulturerbe anerkannt.",
+          "hu": "Igen, Brugge teljes történelmi városközpontja az UNESCO Világörökség része a jól megőrzött középkori építészete miatt.",
+          "ro": "Da, întregul centru istoric al orașului Bruges este recunoscut ca sit al Patrimoniului Mondial UNESCO pentru arhitectura sa medievală bine conservată."
+        }
+      },
+      {
+        "question": {
+          "en": "What are the most famous landmarks in Bruges?",
+          "de": "Was sind die berühmtesten Sehenswürdigkeiten in Brügge?",
+          "hu": "Melyek Brugge leghíresebb látnivalói?",
+          "ro": "Care sunt cele mai faimoase repere din Bruges?"
+        },
+        "answer": {
+          "en": "The Belfry of Bruges, the Church of Our Lady, and the Basilica of the Holy Blood are among its most famous landmarks.",
+          "de": "Der Belfried von Brügge, die Liebfrauenkirche und die Heilig-Blut-Basilika gehören zu den berühmtesten Sehenswürdigkeiten.",
+          "hu": "Brugge leghíresebb látnivalói közé tartozik a harangtorony (Belfry), a Miasszonyunk-templom és a Szent Vér-bazilika.",
+          "ro": "Clopotnița (Belfry) din Bruges, Biserica Maicii Domnului și Basilica Sângelui Sfânt se numără printre cele mai faimoase repere."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is Bruges located?",
+          "de": "Wo liegt Brügge?",
+          "hu": "Hol található Brugge?",
+          "ro": "Unde se află Bruges?"
+        },
+        "answer": {
+          "en": "Bruges is located in the northwest of Belgium, and it is the capital of the province of West Flanders.",
+          "de": "Brügge liegt im Nordwesten Belgiens und ist die Hauptstadt der Provinz Westflandern.",
+          "hu": "Brugge Belgium északnyugati részén található, Nyugat-Flandria tartomány fővárosa.",
+          "ro": "Bruges este situat în nord-vestul Belgiei și este capitala provinciei Flandra de Vest."
+        }
+      }
+    ]
+  }
+}

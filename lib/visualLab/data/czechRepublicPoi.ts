@@ -1812,7 +1812,7 @@ export const czechRepublicCulture: POI[] = [
     image: "/geo-images/czechRepublic/historical-trosky.webp"
   },
   {
-    id: "landmark-national-museum",
+    id: "cz-national-museum-prague",
     type: "landmark",
     parent: "CZ",
     coords: [14.4307, 50.0796],
@@ -2678,7 +2678,7 @@ export const czechRepublicCulture: POI[] = [
     image: "/geo-images/czechRepublic/agriculture-zatec-hop-fields.webp"
   },
   {
-    id: "agriculture-melnik-vineyards",
+    id: "cz-melnik-vineyards",
     type: "agriculture",
     parent: "CZ",
     coords: [14.4750, 50.3504],

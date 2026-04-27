@@ -1218,7 +1218,7 @@ export const swedenNature: POI[] = [
     image: "/geo-images/sweden/gotland.webp",
   },
   {
-    id: "nat-lapland",
+    id: "se-laponia",
     type: "landmark",
     parent: "sweden",
     coords: [18.7, 67.3],

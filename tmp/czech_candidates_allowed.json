@@ -1,0 +1,1202 @@
+[
+  {
+    "population": 86685,
+    "name": "Brno střed",
+    "asciiname": "Brno stred",
+    "lat": 49.19343,
+    "lon": 16.60712,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "6694367"
+  },
+  {
+    "population": 82768,
+    "name": "Havířov",
+    "asciiname": "Havirov",
+    "lat": 49.77984,
+    "lon": 18.43688,
+    "feat_code": "PPLA3",
+    "admin1": "85",
+    "geonameid": "3075921"
+  },
+  {
+    "population": 69664,
+    "name": "Kladno",
+    "asciiname": "Kladno",
+    "lat": 50.14734,
+    "lon": 14.10285,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3073699"
+  },
+  {
+    "population": 63474,
+    "name": "Most",
+    "asciiname": "Most",
+    "lat": 50.50301,
+    "lon": 13.63617,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3070291"
+  },
+  {
+    "population": 60758,
+    "name": "Stodůlky",
+    "asciiname": "Stodulky",
+    "lat": 50.05,
+    "lon": 14.31667,
+    "feat_code": "PPL",
+    "admin1": "52",
+    "geonameid": "3065112"
+  },
+  {
+    "population": 60252,
+    "name": "Opava",
+    "asciiname": "Opava",
+    "lat": 49.93866,
+    "lon": 17.90257,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3068927"
+  },
+  {
+    "population": 50912,
+    "name": "Teplice",
+    "asciiname": "Teplice",
+    "lat": 50.6404,
+    "lon": 13.82451,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3064288"
+  },
+  {
+    "population": 48637,
+    "name": "Karviná",
+    "asciiname": "Karvina",
+    "lat": 49.854,
+    "lon": 18.54169,
+    "feat_code": "PPLA2",
+    "admin1": "85",
+    "geonameid": "3073789"
+  },
+  {
+    "population": 46771,
+    "name": "Chomutov",
+    "asciiname": "Chomutov",
+    "lat": 50.46048,
+    "lon": 13.41779,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3077685"
+  },
+  {
+    "population": 46209,
+    "name": "Jablonec nad Nisou",
+    "asciiname": "Jablonec nad Nisou",
+    "lat": 50.72431,
+    "lon": 15.17108,
+    "feat_code": "PPL",
+    "admin1": "83",
+    "geonameid": "3074603"
+  },
+  {
+    "population": 43684,
+    "name": "Mladá Boleslav",
+    "asciiname": "Mlada Boleslav",
+    "lat": 50.41135,
+    "lon": 14.90318,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3070544"
+  },
+  {
+    "population": 43408,
+    "name": "Prostějov",
+    "asciiname": "Prostejov",
+    "lat": 49.47188,
+    "lon": 17.11184,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3067421"
+  },
+  {
+    "population": 40906,
+    "name": "Přerov",
+    "asciiname": "Prerov",
+    "lat": 49.45511,
+    "lon": 17.4509,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3067580"
+  },
+  {
+    "population": 38415,
+    "name": "Třinec",
+    "asciiname": "Trinec",
+    "lat": 49.67763,
+    "lon": 18.67078,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3064000"
+  },
+  {
+    "population": 36815,
+    "name": "Česká Lípa",
+    "asciiname": "Ceska Lipa",
+    "lat": 50.68551,
+    "lon": 14.53764,
+    "feat_code": "PPL",
+    "admin1": "83",
+    "geonameid": "3077929"
+  },
+  {
+    "population": 35280,
+    "name": "Znojmo",
+    "asciiname": "Znojmo",
+    "lat": 48.8555,
+    "lon": 16.0488,
+    "feat_code": "PPLA2",
+    "admin1": "78",
+    "geonameid": "3061344"
+  },
+  {
+    "population": 33444,
+    "name": "Kolín",
+    "asciiname": "Kolin",
+    "lat": 50.02806,
+    "lon": 15.1998,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3073371"
+  },
+  {
+    "population": 32773,
+    "name": "Příbram",
+    "asciiname": "Pribram",
+    "lat": 49.68988,
+    "lon": 14.01043,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3067542"
+  },
+  {
+    "population": 29774,
+    "name": "Písek",
+    "asciiname": "Pisek",
+    "lat": 49.3088,
+    "lon": 14.1475,
+    "feat_code": "PPL",
+    "admin1": "79",
+    "geonameid": "3068293"
+  },
+  {
+    "population": 28768,
+    "name": "Šumperk",
+    "asciiname": "Sumperk",
+    "lat": 49.96528,
+    "lon": 16.97061,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3064673"
+  },
+  {
+    "population": 27540,
+    "name": "Orlová",
+    "asciiname": "Orlova",
+    "lat": 49.84527,
+    "lon": 18.43011,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3068873"
+  },
+  {
+    "population": 27481,
+    "name": "Valašské Meziříčí",
+    "asciiname": "Valasske Mezirici",
+    "lat": 49.47181,
+    "lon": 17.97113,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3063447"
+  },
+  {
+    "population": 26547,
+    "name": "Nový Jičín",
+    "asciiname": "Novy Jicin",
+    "lat": 49.59438,
+    "lon": 18.01028,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3069305"
+  },
+  {
+    "population": 25750,
+    "name": "Český Těšín",
+    "asciiname": "Cesky Tesin",
+    "lat": 49.74613,
+    "lon": 18.62613,
+    "feat_code": "PPLA3",
+    "admin1": "85",
+    "geonameid": "3077882"
+  },
+  {
+    "population": 25185,
+    "name": "Vsetín",
+    "asciiname": "Vsetin",
+    "lat": 49.33871,
+    "lon": 17.99619,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3062339"
+  },
+  {
+    "population": 24563,
+    "name": "Líšeň",
+    "asciiname": "Lisen",
+    "lat": 49.20711,
+    "lon": 16.69484,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3071748"
+  },
+  {
+    "population": 24356,
+    "name": "Havlíčkův Brod",
+    "asciiname": "Havlickuv Brod",
+    "lat": 49.6069,
+    "lon": 15.57937,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3075919"
+  },
+  {
+    "population": 24212,
+    "name": "Královo Pole",
+    "asciiname": "Kralovo Pole",
+    "lat": 49.22522,
+    "lon": 16.58987,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3072934"
+  },
+  {
+    "population": 23630,
+    "name": "Chrudim",
+    "asciiname": "Chrudim",
+    "lat": 49.95109,
+    "lon": 15.79558,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3077539"
+  },
+  {
+    "population": 23517,
+    "name": "Hodonín",
+    "asciiname": "Hodonin",
+    "lat": 48.84893,
+    "lon": 17.13244,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3075654"
+  },
+  {
+    "population": 23424,
+    "name": "Kopřivnice",
+    "asciiname": "Koprivnice",
+    "lat": 49.59947,
+    "lon": 18.1448,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3073254"
+  },
+  {
+    "population": 22812,
+    "name": "Jindřichův Hradec",
+    "asciiname": "Jindrichuv Hradec",
+    "lat": 49.14404,
+    "lon": 15.00301,
+    "feat_code": "PPL",
+    "admin1": "79",
+    "geonameid": "3074149"
+  },
+  {
+    "population": 22763,
+    "name": "Klatovy",
+    "asciiname": "Klatovy",
+    "lat": 49.39552,
+    "lon": 13.29505,
+    "feat_code": "PPL",
+    "admin1": "87",
+    "geonameid": "3073660"
+  },
+  {
+    "population": 22685,
+    "name": "Bystrc",
+    "asciiname": "Bystrc",
+    "lat": 49.22645,
+    "lon": 16.5303,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3078308"
+  },
+  {
+    "population": 22518,
+    "name": "Krnov",
+    "asciiname": "Krnov",
+    "lat": 50.08967,
+    "lon": 17.70385,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3072656"
+  },
+  {
+    "population": 22461,
+    "name": "Řepy",
+    "asciiname": "Repy",
+    "lat": 50.07064,
+    "lon": 14.30051,
+    "feat_code": "PPL",
+    "admin1": "52",
+    "geonameid": "3066909"
+  },
+  {
+    "population": 22387,
+    "name": "Litvínov",
+    "asciiname": "Litvinov",
+    "lat": 50.6042,
+    "lon": 13.61812,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3071665"
+  },
+  {
+    "population": 22355,
+    "name": "Strakonice",
+    "asciiname": "Strakonice",
+    "lat": 49.26141,
+    "lon": 13.90237,
+    "feat_code": "PPL",
+    "admin1": "79",
+    "geonameid": "3065067"
+  },
+  {
+    "population": 22007,
+    "name": "Sokolov",
+    "asciiname": "Sokolov",
+    "lat": 50.1813,
+    "lon": 12.6401,
+    "feat_code": "PPL",
+    "admin1": "81",
+    "geonameid": "3065617"
+  },
+  {
+    "population": 21521,
+    "name": "Beroun",
+    "asciiname": "Beroun",
+    "lat": 49.96382,
+    "lon": 14.072,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3079467"
+  },
+  {
+    "population": 20645,
+    "name": "Vyškov",
+    "asciiname": "Vyskov",
+    "lat": 49.27747,
+    "lon": 16.99897,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3062283"
+  },
+  {
+    "population": 20315,
+    "name": "Bohumín",
+    "asciiname": "Bohumin",
+    "lat": 49.90411,
+    "lon": 18.35755,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3079129"
+  },
+  {
+    "population": 20313,
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "asciiname": "Brandys nad Labem-Stara Boleslav",
+    "lat": 50.18709,
+    "lon": 14.66326,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3078837"
+  },
+  {
+    "population": 20002,
+    "name": "Blansko",
+    "asciiname": "Blansko",
+    "lat": 49.36304,
+    "lon": 16.64446,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3079273"
+  },
+  {
+    "population": 19387,
+    "name": "Žabovřesky",
+    "asciiname": "Zabovresky",
+    "lat": 49.21395,
+    "lon": 16.57253,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3062119"
+  },
+  {
+    "population": 19240,
+    "name": "Jirkov",
+    "asciiname": "Jirkov",
+    "lat": 50.49979,
+    "lon": 13.44769,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3074110"
+  },
+  {
+    "population": 19231,
+    "name": "Mělník",
+    "asciiname": "Melnik",
+    "lat": 50.3505,
+    "lon": 14.47411,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3070862"
+  },
+  {
+    "population": 18920,
+    "name": "Židenice",
+    "asciiname": "Zidenice",
+    "lat": 49.19654,
+    "lon": 16.64738,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3061473"
+  },
+  {
+    "population": 18759,
+    "name": "Kadaň",
+    "asciiname": "Kadan",
+    "lat": 50.38333,
+    "lon": 13.26667,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3074020"
+  },
+  {
+    "population": 18068,
+    "name": "Louny",
+    "asciiname": "Louny",
+    "lat": 50.35699,
+    "lon": 13.79667,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3071507"
+  },
+  {
+    "population": 17969,
+    "name": "Hranice",
+    "asciiname": "Hranice",
+    "lat": 49.54796,
+    "lon": 17.73469,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3074893"
+  },
+  {
+    "population": 17401,
+    "name": "Otrokovice",
+    "asciiname": "Otrokovice",
+    "lat": 49.20934,
+    "lon": 17.53944,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3068690"
+  },
+  {
+    "population": 17373,
+    "name": "Kralupy nad Vltavou",
+    "asciiname": "Kralupy nad Vltavou",
+    "lat": 50.24107,
+    "lon": 14.31149,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3072929"
+  },
+  {
+    "population": 17238,
+    "name": "Rožnov pod Radhoštěm",
+    "asciiname": "Roznov pod Radhostem",
+    "lat": 49.45853,
+    "lon": 18.14302,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3066651"
+  },
+  {
+    "population": 17143,
+    "name": "Říčany",
+    "asciiname": "Ricany",
+    "lat": 49.99168,
+    "lon": 14.65427,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3066878"
+  },
+  {
+    "population": 17043,
+    "name": "Benešov",
+    "asciiname": "Benesov",
+    "lat": 49.78162,
+    "lon": 14.68697,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3079508"
+  },
+  {
+    "population": 16541,
+    "name": "Pelhřimov",
+    "asciiname": "Pelhrimov",
+    "lat": 49.43134,
+    "lon": 15.22336,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3068445"
+  },
+  {
+    "population": 16427,
+    "name": "Neratovice",
+    "asciiname": "Neratovice",
+    "lat": 50.25926,
+    "lon": 14.51759,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3069844"
+  },
+  {
+    "population": 16367,
+    "name": "Uherský Brod",
+    "asciiname": "Uhersky Brod",
+    "lat": 49.02513,
+    "lon": 17.64715,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3063736"
+  },
+  {
+    "population": 16328,
+    "name": "Jičín",
+    "asciiname": "Jicin",
+    "lat": 50.43723,
+    "lon": 15.35162,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3074204"
+  },
+  {
+    "population": 16150,
+    "name": "Dvůr Králové nad Labem",
+    "asciiname": "Dvur Kralove nad Labem",
+    "lat": 50.43172,
+    "lon": 15.81402,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3061284"
+  },
+  {
+    "population": 16073,
+    "name": "Svitavy",
+    "asciiname": "Svitavy",
+    "lat": 49.75594,
+    "lon": 16.46829,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3064454"
+  },
+  {
+    "population": 15682,
+    "name": "Rakovník",
+    "asciiname": "Rakovnik",
+    "lat": 50.1037,
+    "lon": 13.7334,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3067051"
+  },
+  {
+    "population": 15681,
+    "name": "Ostrov",
+    "asciiname": "Ostrov",
+    "lat": 50.30592,
+    "lon": 12.93907,
+    "feat_code": "PPL",
+    "admin1": "81",
+    "geonameid": "3068766"
+  },
+  {
+    "population": 15232,
+    "name": "Poděbrady",
+    "asciiname": "Podebrady",
+    "lat": 50.14242,
+    "lon": 15.11881,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3068107"
+  },
+  {
+    "population": 15151,
+    "name": "Ústí nad Orlicí",
+    "asciiname": "Usti nad Orlici",
+    "lat": 49.97387,
+    "lon": 16.39361,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3063546"
+  },
+  {
+    "population": 15070,
+    "name": "Slaný",
+    "asciiname": "Slany",
+    "lat": 50.23046,
+    "lon": 14.08693,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3065903"
+  },
+  {
+    "population": 15037,
+    "name": "Bruntál",
+    "asciiname": "Bruntal",
+    "lat": 49.98844,
+    "lon": 17.4647,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3078545"
+  },
+  {
+    "population": 15010,
+    "name": "Česká Třebová",
+    "asciiname": "Ceska Trebova",
+    "lat": 49.90436,
+    "lon": 16.44413,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3077920"
+  },
+  {
+    "population": 14704,
+    "name": "Varnsdorf",
+    "asciiname": "Varnsdorf",
+    "lat": 50.91154,
+    "lon": 14.61824,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3063375"
+  },
+  {
+    "population": 14507,
+    "name": "Turnov",
+    "asciiname": "Turnov",
+    "lat": 50.58356,
+    "lon": 15.15186,
+    "feat_code": "PPL",
+    "admin1": "83",
+    "geonameid": "3063853"
+  },
+  {
+    "population": 14497,
+    "name": "Bílina",
+    "asciiname": "Bilina",
+    "lat": 50.54854,
+    "lon": 13.77535,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3079348"
+  },
+  {
+    "population": 14373,
+    "name": "Nymburk",
+    "asciiname": "Nymburk",
+    "lat": 50.18605,
+    "lon": 15.04167,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3069236"
+  },
+  {
+    "population": 14270,
+    "name": "Milovice",
+    "asciiname": "Milovice",
+    "lat": 50.22596,
+    "lon": 14.88863,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3070628"
+  },
+  {
+    "population": 14228,
+    "name": "Hlučín",
+    "asciiname": "Hlucin",
+    "lat": 49.89795,
+    "lon": 18.19196,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3075716"
+  },
+  {
+    "population": 14068,
+    "name": "Klášterec nad Ohří",
+    "asciiname": "Klasterec nad Ohri",
+    "lat": 50.3886,
+    "lon": 13.18342,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3073668"
+  },
+  {
+    "population": 14052,
+    "name": "Mariánské Lázně",
+    "asciiname": "Marianske Lazne",
+    "lat": 49.96459,
+    "lon": 12.70118,
+    "feat_code": "PPL",
+    "admin1": "81",
+    "geonameid": "3071024"
+  },
+  {
+    "population": 13826,
+    "name": "Rokycany",
+    "asciiname": "Rokycany",
+    "lat": 49.7427,
+    "lon": 13.59459,
+    "feat_code": "PPL",
+    "admin1": "87",
+    "geonameid": "3066794"
+  },
+  {
+    "population": 13687,
+    "name": "Krupka",
+    "asciiname": "Krupka",
+    "lat": 50.68449,
+    "lon": 13.85815,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3072598"
+  },
+  {
+    "population": 13423,
+    "name": "Řečkovice",
+    "asciiname": "Reckovice",
+    "lat": 49.25212,
+    "lon": 16.58146,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3066965"
+  },
+  {
+    "population": 13320,
+    "name": "Zábřeh",
+    "asciiname": "Zabreh",
+    "lat": 49.8826,
+    "lon": 16.87223,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3062111"
+  },
+  {
+    "population": 13239,
+    "name": "Šternberk",
+    "asciiname": "Sternberk",
+    "lat": 49.73044,
+    "lon": 17.29889,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3065166"
+  },
+  {
+    "population": 13084,
+    "name": "Roudnice nad Labem",
+    "asciiname": "Roudnice nad Labem",
+    "lat": 50.42528,
+    "lon": 14.26175,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3066727"
+  },
+  {
+    "population": 12898,
+    "name": "Vrchlabí",
+    "asciiname": "Vrchlabi",
+    "lat": 50.62697,
+    "lon": 15.60937,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3062439"
+  },
+  {
+    "population": 12831,
+    "name": "Jaroměř",
+    "asciiname": "Jaromer",
+    "lat": 50.3562,
+    "lon": 15.92136,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3074462"
+  },
+  {
+    "population": 12609,
+    "name": "Chodov",
+    "asciiname": "Chodov",
+    "lat": 50.24018,
+    "lon": 12.74551,
+    "feat_code": "PPL",
+    "admin1": "81",
+    "geonameid": "3077706"
+  },
+  {
+    "population": 12508,
+    "name": "Boskovice",
+    "asciiname": "Boskovice",
+    "lat": 49.48751,
+    "lon": 16.65997,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3078910"
+  },
+  {
+    "population": 12474,
+    "name": "Čelákovice",
+    "asciiname": "Celakovice",
+    "lat": 50.16038,
+    "lon": 14.75005,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3078160"
+  },
+  {
+    "population": 12293,
+    "name": "Vysoké Mýto",
+    "asciiname": "Vysoke Myto",
+    "lat": 49.9532,
+    "lon": 16.16169,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3062214"
+  },
+  {
+    "population": 12225,
+    "name": "Vlašim",
+    "asciiname": "Vlasim",
+    "lat": 49.70632,
+    "lon": 14.89881,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3062759"
+  },
+  {
+    "population": 12081,
+    "name": "Veselí nad Moravou",
+    "asciiname": "Veseli nad Moravou",
+    "lat": 48.95363,
+    "lon": 17.37648,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3063032"
+  },
+  {
+    "population": 11961,
+    "name": "Bohunice",
+    "asciiname": "Bohunice",
+    "lat": 49.16734,
+    "lon": 16.57751,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3079124"
+  },
+  {
+    "population": 11860,
+    "name": "Kuřim",
+    "asciiname": "Kurim",
+    "lat": 49.29852,
+    "lon": 16.53144,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3072476"
+  },
+  {
+    "population": 11753,
+    "name": "Velké Meziříčí",
+    "asciiname": "Velke Mezirici",
+    "lat": 49.35522,
+    "lon": 16.01224,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3063196"
+  },
+  {
+    "population": 11695,
+    "name": "Rychnov nad Kněžnou",
+    "asciiname": "Rychnov nad Kneznou",
+    "lat": 50.16284,
+    "lon": 16.27488,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3066503"
+  },
+  {
+    "population": 11616,
+    "name": "Holešov",
+    "asciiname": "Holesov",
+    "lat": 49.33331,
+    "lon": 17.57832,
+    "feat_code": "PPL",
+    "admin1": "90",
+    "geonameid": "3075606"
+  },
+  {
+    "population": 11597,
+    "name": "Kohoutovice",
+    "asciiname": "Kohoutovice",
+    "lat": 49.19449,
+    "lon": 16.54146,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3073419"
+  },
+  {
+    "population": 11538,
+    "name": "Starý Lískovec",
+    "asciiname": "Stary Liskovec",
+    "lat": 49.16425,
+    "lon": 16.56146,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3071731"
+  },
+  {
+    "population": 11483,
+    "name": "Sušice",
+    "asciiname": "Susice",
+    "lat": 49.23106,
+    "lon": 13.52018,
+    "feat_code": "PPL",
+    "admin1": "87",
+    "geonameid": "3064662"
+  },
+  {
+    "population": 11318,
+    "name": "Nový Bor",
+    "asciiname": "Novy Bor",
+    "lat": 50.75761,
+    "lon": 14.55555,
+    "feat_code": "PPL",
+    "admin1": "83",
+    "geonameid": "3069381"
+  },
+  {
+    "population": 11237,
+    "name": "Uničov",
+    "asciiname": "Unicov",
+    "lat": 49.77092,
+    "lon": 17.12144,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3063596"
+  },
+  {
+    "population": 11202,
+    "name": "Vinohrady",
+    "asciiname": "Vinohrady",
+    "lat": 49.20655,
+    "lon": 16.66317,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "6694695"
+  },
+  {
+    "population": 11119,
+    "name": "Prachatice",
+    "asciiname": "Prachatice",
+    "lat": 49.01292,
+    "lon": 13.99752,
+    "feat_code": "PPL",
+    "admin1": "79",
+    "geonameid": "3067713"
+  },
+  {
+    "population": 10992,
+    "name": "Uhříněves",
+    "asciiname": "Uhrineves",
+    "lat": 50.02885,
+    "lon": 14.59948,
+    "feat_code": "PPL",
+    "admin1": "52",
+    "geonameid": "3063708"
+  },
+  {
+    "population": 10914,
+    "name": "Humpolec",
+    "asciiname": "Humpolec",
+    "lat": 49.54152,
+    "lon": 15.35932,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3074723"
+  },
+  {
+    "population": 10815,
+    "name": "Rumburk",
+    "asciiname": "Rumburk",
+    "lat": 50.95151,
+    "lon": 14.55699,
+    "feat_code": "PPL",
+    "admin1": "89",
+    "geonameid": "3066578"
+  },
+  {
+    "population": 10645,
+    "name": "Kyjov",
+    "asciiname": "Kyjov",
+    "lat": 49.01018,
+    "lon": 17.12253,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3072407"
+  },
+  {
+    "population": 10554,
+    "name": "Frenštát pod Radhoštěm",
+    "asciiname": "Frenstat pod Radhostem",
+    "lat": 49.54835,
+    "lon": 18.21078,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3076132"
+  },
+  {
+    "population": 10460,
+    "name": "Jesenice",
+    "asciiname": "Jesenice",
+    "lat": 49.96814,
+    "lon": 14.5135,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3074286"
+  },
+  {
+    "population": 10456,
+    "name": "Jeseník",
+    "asciiname": "Jesenik",
+    "lat": 50.22937,
+    "lon": 17.20464,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3074281"
+  },
+  {
+    "population": 10429,
+    "name": "Újezd nad Lesy",
+    "asciiname": "Ujezd nad Lesy",
+    "lat": 50.07648,
+    "lon": 14.6595,
+    "feat_code": "PPL",
+    "admin1": "52",
+    "geonameid": "3063652"
+  },
+  {
+    "population": 10411,
+    "name": "Hlinsko",
+    "asciiname": "Hlinsko",
+    "lat": 49.76213,
+    "lon": 15.90756,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3075766"
+  },
+  {
+    "population": 10341,
+    "name": "Studénka",
+    "asciiname": "Studenka",
+    "lat": 49.72342,
+    "lon": 18.07853,
+    "feat_code": "PPL",
+    "admin1": "85",
+    "geonameid": "3064807"
+  },
+  {
+    "population": 10126,
+    "name": "Nové Město nad Metují",
+    "asciiname": "Nove Mesto nad Metuji",
+    "lat": 50.34456,
+    "lon": 16.15147,
+    "feat_code": "PPL",
+    "admin1": "82",
+    "geonameid": "3069466"
+  },
+  {
+    "population": 10098,
+    "name": "Nové Město na Moravě",
+    "asciiname": "Nove Mesto na Morave",
+    "lat": 49.56144,
+    "lon": 16.07418,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3069465"
+  },
+  {
+    "population": 10062,
+    "name": "Litovel",
+    "asciiname": "Litovel",
+    "lat": 49.70121,
+    "lon": 17.07615,
+    "feat_code": "PPL",
+    "admin1": "84",
+    "geonameid": "3071669"
+  },
+  {
+    "population": 10025,
+    "name": "Čáslav",
+    "asciiname": "Caslav",
+    "lat": 49.91099,
+    "lon": 15.38972,
+    "feat_code": "PPL",
+    "admin1": "88",
+    "geonameid": "3078234"
+  },
+  {
+    "population": 9898,
+    "name": "Ivančice",
+    "asciiname": "Ivancice",
+    "lat": 49.10144,
+    "lon": 16.37752,
+    "feat_code": "PPL",
+    "admin1": "78",
+    "geonameid": "3074615"
+  },
+  {
+    "population": 9849,
+    "name": "Chotěboř",
+    "asciiname": "Chotebor",
+    "lat": 49.72072,
+    "lon": 15.67018,
+    "feat_code": "PPL",
+    "admin1": "80",
+    "geonameid": "3077669"
+  },
+  {
+    "population": 9847,
+    "name": "Lanškroun",
+    "asciiname": "Lanskroun",
+    "lat": 49.91217,
+    "lon": 16.6119,
+    "feat_code": "PPL",
+    "admin1": "86",
+    "geonameid": "3072332"
+  }
+]

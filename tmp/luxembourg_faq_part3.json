@@ -1,0 +1,262 @@
+{
+  "cult-bock": {
+    "de": [
+      { "q": "Was sind die Bock-Kasematten?", "a": "Ein riesiges unterirdisches Tunnelnetz in Luxemburg-Stadt, das Teil der ehemaligen Festung war." },
+      { "q": "Wann wurden die Kasematten gebaut?", "a": "Der Bau begann 1644 unter spanischer Herrschaft." },
+      { "q": "Wie lang war das Tunnelnetz auf seinem Höhepunkt?", "a": "Es erstreckte sich über 23 Kilometer." },
+      { "q": "Wozu dienten die Kasematten im Zweiten Weltkrieg?", "a": "Sie dienten der Zivilbevölkerung als Luftschutzbunker." }
+    ],
+    "hu": [
+      { "q": "Mik azok a Bock-kazamaták?", "a": "Hatalmas föld alatti alagútrendszer Luxemburg városban, amely az egykori erőd része volt." },
+      { "q": "Mikor épültek a kazamaták?", "a": "Az építkezés 1644-ben kezdődött spanyol fennhatóság alatt." },
+      { "q": "Milyen hosszú volt az alagútrendszer a fénykorában?", "a": "23 kilométer hosszan nyúlt el." },
+      { "q": "Mire használták a kazamatákat a második világháborúban?", "a": "A polgári lakosság számára óvóhelyként szolgáltak." }
+    ],
+    "ro": [
+      { "q": "Ce sunt Casematele Bock?", "a": "O rețea uriașă de tuneluri subterane în orașul Luxemburg, care făcea parte din fosta fortăreață." },
+      { "q": "Când au fost construite casematele?", "a": "Construcția a început în 1644 sub stăpânire spaniolă." },
+      { "q": "Cât de lungă era rețeaua de tuneluri la apogeul său?", "a": "Se întindea pe o lungime de 23 de kilometri." },
+      { "q": "La ce au servit casematele în al Doilea Război Mondial?", "a": "Au servit ca adăpost antiaerian pentru populația civilă." }
+    ],
+    "en": [
+      { "q": "What are the Bock Casemates?", "a": "A massive network of underground tunnels in Luxembourg City that was part of the former fortress." },
+      { "q": "When were the casemates built?", "a": "Construction began in 1644 under Spanish rule." },
+      { "q": "How long was the tunnel network at its peak?", "a": "It spanned over 23 kilometers." },
+      { "q": "What were the casemates used for during WWII?", "a": "They served as air-raid shelters for the civilian population." }
+    ]
+  },
+  "cult-vianden": {
+    "de": [
+      { "q": "Was ist die Burg Vianden?", "a": "Eine der bedeutendsten mittelalterlichen Burgen Europas, thronend über dem Ourtal." },
+      { "q": "Aus welcher Zeit stammt die Burg?", "a": "Sie wurde zwischen dem 11. und 14. Jahrhundert erbaut." },
+      { "q": "Wer besaß die Burg für viele Jahrhunderte?", "a": "Das Haus Vianden und später das Haus Nassau-Oranien." },
+      { "q": "Kann man die Innenräume besichtigen?", "a": "Ja, sie wurden aufwendig restauriert und sind heute als Museum zugänglich." }
+    ],
+    "hu": [
+      { "q": "Mi a Viandeni vár?", "a": "Európa egyik legjelentősebb középkori vára, amely az Our-völgy felett trónol." },
+      { "q": "Melyik korból származik a vár?", "a": "A 11. és 14. század között épült." },
+      { "q": "Ki birtokolta a várat évszázadokon át?", "a": "A Vianden-ház, majd később a Nassau-Orange ház." },
+      { "q": "Látogathatók a belső termek?", "a": "Igen, a termeket aprólékosan restaurálták, és ma múzeumként működnek." }
+    ],
+    "ro": [
+      { "q": "Ce este castelul Vianden?", "a": "Unul dintre cele mai importante castele medievale din Europa, situat deasupra văii Our." },
+      { "q": "Din ce perioadă datează castelul?", "a": "A fost construit între secolele XI și XIV." },
+      { "q": "Cine a deținut castelul timp de mai multe secole?", "a": "Casa de Vianden și ulterior Casa de Nassau-Orange." },
+      { "q": "Se pot vizita interioarele?", "a": "Da, au fost restaurate cu grijă și sunt deschise astăzi ca muzeu." }
+    ],
+    "en": [
+      { "q": "What is Vianden Castle?", "a": "One of the most important medieval castles in Europe, perched above the Our valley." },
+      { "q": "From what period does the castle date?", "a": "It was built between the 11th and 14th centuries." },
+      { "q": "Who owned the castle for many centuries?", "a": "The House of Vianden and later the House of Nassau-Orange." },
+      { "q": "Can you visit the interiors?", "a": "Yes, they have been extensively restored and are open as a museum today." }
+    ]
+  },
+  "nat-mullerthal": {
+    "de": [
+      { "q": "Warum heißt das Müllerthal 'Kleine Luxemburger Schweiz'?", "a": "Wegen seiner markanten Sandsteinfelsen und der hügeligen, bewaldeten Landschaft." },
+      { "q": "Was ist der Schiessentümpel?", "a": "Ein ikonischer kleiner Wasserfall mit einer pittoresken Steinbrücke im Müllerthal." },
+      { "q": "Welche Stadt ist das Tor zum Müllerthal?", "a": "Echternach, die älteste Stadt des Landes." },
+      { "q": "Wie heißt der bekannteste Wanderweg der Region?", "a": "Der Müllerthal Trail." }
+    ],
+    "hu": [
+      { "q": "Miért hívják a Mullerthalt 'Kis Luxemburgi Svájcnak'?", "a": "A jellegzetes homokkő sziklái és a dombos, erdős tája miatt." },
+      { "q": "Mi az a Schiessentümpel?", "a": "Egy ikonikus kis vízesés festői kőhíddal a Mullerthalban." },
+      { "q": "Melyik város a Mullerthal kapuja?", "a": "Echternach, az ország legrégebbi városa." },
+      { "q": "Hogy hívják a régió legismertebb túraútvonalát?", "a": "A Mullerthal Trail." }
+    ],
+    "ro": [
+      { "q": "De ce este numit Mullerthal 'Mica Elveție'?", "a": "Datorită stâncilor sale de gresie și a peisajului deluros și împădurit." },
+      { "q": "Ce este Schiessentümpel?", "a": "O mică cascadă iconică, cu un pod de piatră pitoresc, în Mullerthal." },
+      { "q": "Care oraș este poarta de intrare în Mullerthal?", "a": "Echternach, cel mai vechi oraș din țară." },
+      { "q": "Cum se numește cel mai cunoscut traseu de drumeție din regiune?", "a": "Mullerthal Trail." }
+    ],
+    "en": [
+      { "q": "Why is the Mullerthal called 'Little Switzerland'?", "a": "Because of its striking sandstone rocks and the hilly, forested landscape." },
+      { "q": "What is Schiessentümpel?", "a": "An iconic small waterfall with a picturesque stone bridge in the Mullerthal." },
+      { "q": "Which town is the gateway to the Mullerthal?", "a": "Echternach, the oldest town in the country." },
+      { "q": "What is the name of the most famous hiking trail in the region?", "a": "The Mullerthal Trail." }
+    ]
+  },
+  "nat-ardennek-lu": {
+    "de": [
+      { "q": "Was ist das Ösling?", "a": "So wird die luxemburgische Ardennenregion im Norden des Landes genannt." },
+      { "q": "Welche Burgen liegen in den luxemburgischen Ardennen?", "a": "Bekannte Burgen sind Vianden, Clerf, Bourscheid und Wiltz." },
+      { "q": "Gibt es Naturparks in den Ardennen?", "a": "Ja, den Naturpark Obersauer und den Naturpark Our." },
+      { "q": "Welche historische Bedeutung haben die Ardennen?", "a": "Sie waren Schauplatz der Ardennenoffensive im Winter 1944/45." }
+    ],
+    "hu": [
+      { "q": "Mi az az Oesling?", "a": "Így nevezik a luxemburgi Ardennek régiót az ország északi részén." },
+      { "q": "Milyen várak találhatók a luxemburgi Ardennekben?", "a": "Ismert várak Vianden, Clervaux, Bourscheid és Wiltz." },
+      { "q": "Vannak natúrparkok az Ardennekben?", "a": "Igen, a Felső-Sûre Natúrpark és az Our Natúrpark." },
+      { "q": "Milyen történelmi jelentősége van az Ardenneknek?", "a": "Itt zajlott az ardenneki offenzíva 1944/45 telén." }
+    ],
+    "ro": [
+      { "q": "Ce este Oesling?", "a": "Așa este numită regiunea Ardenilor luxemburghezi din nordul țării." },
+      { "q": "Ce castele se află în Ardenii luxemburghezi?", "a": "Castele cunoscute sunt Vianden, Clervaux, Bourscheid și Wiltz." },
+      { "q": "Există parcuri naturale în Ardeni?", "a": "Da, Parcul Natural Upper Sûre și Parcul Natural Our." },
+      { "q": "Ce importanță istorică au Ardenii?", "a": "Au fost locul de desfășurare a Ofensivei din Ardeni în iarna anilor 1944/45." }
+    ],
+    "en": [
+      { "q": "What is the Oesling?", "a": "This is the name of the Luxembourgish Ardennes region in the north of the country." },
+      { "q": "Which castles are located in the Luxembourg Ardennes?", "a": "Well-known castles include Vianden, Clervaux, Bourscheid, and Wiltz." },
+      { "q": "Are there nature parks in the Ardennes?", "a": "Yes, the Upper Sûre Nature Park and the Our Nature Park." },
+      { "q": "What historical significance do the Ardennes have?", "a": "They were the site of the Battle of the Bulge in the winter of 1944/45." }
+    ]
+  },
+  "river-our-river": {
+    "de": [
+      { "q": "Wo fließt die Our?", "a": "Im Norden Luxemburgs, wo sie größtenteils die Grenze zu Deutschland bildet." },
+      { "q": "In welchen größeren Fluss mündet die Our?", "a": "Sie mündet bei Wallendorf in die Sauer." },
+      { "q": "Welche bekannte Stadt liegt an der Our?", "a": "Die malerische Stadt Vianden." },
+      { "q": "Gibt es einen Naturpark an der Our?", "a": "Ja, den Naturpark Our, der für seine Wanderwege bekannt ist." }
+    ],
+    "hu": [
+      { "q": "Hol folyik az Our?", "a": "Luxemburg északi részén, ahol nagyrészt a német határt képezi." },
+      { "q": "Melyik nagyobb folyóba torkollik az Our?", "a": "Wallendorfnál torkollik a Sauer folyóba." },
+      { "q": "Melyik ismert város fekszik az Our partján?", "a": "A festői Vianden városa." },
+      { "q": "Van natúrpark az Our mentén?", "a": "Igen, az Our Natúrpark, amely túraútvonalairól ismert." }
+    ],
+    "ro": [
+      { "q": "Unde curge râul Our?", "a": "În nordul Luxemburgului, unde formează în mare parte granița cu Germania." },
+      { "q": "În ce râu mai mare se varsă Our?", "a": "Se varsă în râul Sauer lângă Wallendorf." },
+      { "q": "Ce oraș cunoscut este situat pe râul Our?", "a": "Orașul pitoresc Vianden." },
+      { "q": "Există un parc natural pe râul Our?", "a": "Da, Parcul Natural Our, cunoscut pentru traseele sale de drumeție." }
+    ],
+    "en": [
+      { "q": "Where does the Our River flow?", "a": "In northern Luxembourg, where it mostly forms the border with Germany." },
+      { "q": "Into which larger river does the Our flow?", "a": "It flows into the Sûre River near Wallendorf." },
+      { "q": "Which well-known town is located on the Our?", "a": "The picturesque town of Vianden." },
+      { "q": "Is there a nature park along the Our?", "a": "Yes, the Our Nature Park, which is famous for its hiking trails." }
+    ]
+  },
+  "river-alzette-river": {
+    "de": [
+      { "q": "Durch welche Großstadt fließt die Alzette?", "a": "Durch Luxemburg-Stadt, wo sie tiefe Täler in den Fels gegraben hat." },
+      { "q": "Welcher Stadtteil von Luxemburg-Stadt liegt direkt an der Alzette?", "a": "Der historische Stadtteil Grund." },
+      { "q": "In welchen Fluss mündet die Alzette?", "a": "Sie mündet bei Ettelbrück in die Sauer." },
+      { "q": "Welche andere große luxemburgische Stadt liegt an der Alzette?", "a": "Esch-sur-Alzette im Süden des Landes." }
+    ],
+    "hu": [
+      { "q": "Melyik nagyvároson folyik keresztül az Alzette?", "a": "Luxemburg városon, ahol mély völgyeket vájt a sziklába." },
+      { "q": "Luxemburg város melyik negyede fekszik közvetlenül az Alzette partján?", "a": "A történelmi Grund negyed." },
+      { "q": "Melyik folyóba torkollik az Alzette?", "a": "Ettelbrucknál torkollik a Sauer folyóba." },
+      { "q": "Melyik másik nagy luxemburgi város fekszik az Alzette mentén?", "a": "Esch-sur-Alzette az ország déli részén." }
+    ],
+    "ro": [
+      { "q": "Prin ce oraș mare curge Alzette?", "a": "Prin orașul Luxemburg, unde a săpat văi adânci în stâncă." },
+      { "q": "Ce cartier din orașul Luxemburg se află chiar pe Alzette?", "a": "Cartierul istoric Grund." },
+      { "q": "În ce râu se varsă Alzette?", "a": "Se varsă în râul Sauer lângă Ettelbruck." },
+      { "q": "Ce alt oraș mare luxemburghez este situat pe Alzette?", "a": "Esch-sur-Alzette, în sudul țării." }
+    ],
+    "en": [
+      { "q": "Which major city does the Alzette flow through?", "a": "Luxembourg City, where it has carved deep valleys into the rock." },
+      { "q": "Which district of Luxembourg City is located directly on the Alzette?", "a": "The historic Grund district." },
+      { "q": "Into which river does the Alzette flow?", "a": "It flows into the Sûre River near Ettelbruck." },
+      { "q": "Which other large Luxembourgish city is situated on the Alzette?", "a": "Esch-sur-Alzette in the south of the country." }
+    ]
+  },
+  "agriculture-caves-st-martin": {
+    "de": [
+      { "q": "Wo befinden sich die Caves St. Martin?", "a": "In Remich an der luxemburgischen Mosel." },
+      { "q": "Was ist das Besondere an diesen Weinkellern?", "a": "Die Keller sind direkt in die massiven Kalkfelsen gegraben." },
+      { "q": "Welche Art von Wein wird dort produziert?", "a": "Vor allem Crémants (Schaumweine) und Stillweine aus der Moselregion." },
+      { "q": "Kann man die Keller besichtigen?", "a": "Ja, es gibt geführte Touren durch die unterirdischen Galerien mit anschließender Verkostung." }
+    ],
+    "hu": [
+      { "q": "Hol található a Caves St. Martin?", "a": "Remichben, a luxemburgi Moselle mentén." },
+      { "q": "Mi a különlegessége ezeknek a borpincéknek?", "a": "A pincéket közvetlenül a tömör mészkősziklákba vájták." },
+      { "q": "Milyen típusú borokat készítenek ott?", "a": "Elsősorban Crémant-okat (pezsgőket) és a Moselle-régió csendes borait." },
+      { "q": "Látogathatók a pincék?", "a": "Igen, vezetett túrák indulnak a föld alatti járatokba, amit kóstoló követ." }
+    ],
+    "ro": [
+      { "q": "Unde se află Caves St. Martin?", "a": "În Remich, pe Mosela luxemburgheză." },
+      { "q": "Ce este special la aceste crame?", "a": "Pivnițele sunt săpate direct în stâncile masive de calcar." },
+      { "q": "Ce tip de vin se produce acolo?", "a": "În special Crémant (vinuri spumante) și vinuri liniștite din regiunea Mosela." },
+      { "q": "Se pot vizita pivnițele?", "a": "Da, există tururi ghidate prin galeriile subterane, urmate de o degustare." }
+    ],
+    "en": [
+      { "q": "Where is Caves St. Martin located?", "a": "In Remich along the Luxembourg Moselle." },
+      { "q": "What is special about these wine cellars?", "a": "The cellars are dug directly into the massive limestone rocks." },
+      { "q": "What type of wine is produced there?", "a": "Mainly Crémants (sparkling wines) and still wines from the Moselle region." },
+      { "q": "Can you visit the cellars?", "a": "Yes, there are guided tours through the underground galleries followed by a tasting." }
+    ]
+  },
+  "industry-bofferding-brewery": {
+    "de": [
+      { "q": "Wo hat die Brauerei Bofferding ihren Sitz?", "a": "In Bascharage (Niederkerschen) im Südwesten Luxemburgs." },
+      { "q": "Wie lange gibt es die Brauerei Bofferding schon?", "a": "Sie wurde im Jahr 1842 gegründet." },
+      { "q": "Bietet die Brauerei Besichtigungen an?", "a": "Ja, die 'Bofferding Brewery Visit' zeigt den gesamten Brauprozess." },
+      { "q": "Welche Biersorte ist die bekannteste von Bofferding?", "a": "Das Bofferding Pils ist das Flaggschiff der Brauerei." }
+    ],
+    "hu": [
+      { "q": "Hol van a Bofferding sörfőzde székhelye?", "a": "Bascharage-ban (Niederkerschen), Luxemburg délnyugati részén." },
+      { "q": "Mióta létezik a Bofferding sörfőzde?", "a": "1842-ben alapították." },
+      { "q": "Lehet-e látogatni a sörfőzdét?", "a": "Igen, a sörfőzde-látogatás során bemutatják a teljes sörfőzési folyamatot." },
+      { "q": "Melyik a Bofferding legismertebb sörfajtája?", "a": "A Bofferding Pils a sörfőzde zászlóshajója." }
+    ],
+    "ro": [
+      { "q": "Unde se află sediul berăriei Bofferding?", "a": "În Bascharage (Niederkerschen), în sud-vestul Luxemburgului." },
+      { "q": "De cât timp există berăria Bofferding?", "a": "A fost fondată în anul 1842." },
+      { "q": "Oferă berăria tururi de vizitare?", "a": "Da, vizita la berărie prezintă întregul proces de fabricare a berii." },
+      { "q": "Care este cel mai cunoscut tip de bere Bofferding?", "a": "Bofferding Pils este sortimentul emblematic al berăriei." }
+    ],
+    "en": [
+      { "q": "Where is the Bofferding Brewery based?", "a": "In Bascharage (Niederkerschen) in southwestern Luxembourg." },
+      { "q": "How long has the Bofferding Brewery been around?", "a": "It was founded in 1842." },
+      { "q": "Does the brewery offer tours?", "a": "Yes, the 'Bofferding Brewery Visit' shows the entire brewing process." },
+      { "q": "Which beer variety is Bofferding's most famous?", "a": "Bofferding Pils is the brewery's flagship beer." }
+    ]
+  },
+  "kid-landmark-parc-merveilleux": {
+    "de": [
+      { "q": "Was ist der Parc Merveilleux?", "a": "Ein Märchen- und Freizeitpark mit Tiergehegen in Bettemburg." },
+      { "q": "Welche Attraktionen gibt es für Kinder?", "a": "Märchenhäuser, Spielplätze, eine kleine Eisenbahn und Ponyreiten." },
+      { "q": "Gibt es exotische Tiere im Park?", "a": "Ja, es gibt Tiere aus fünf verschiedenen Kontinenten, darunter Kaimane und Affen." },
+      { "q": "Wann ist der Park geöffnet?", "a": "Normalerweise von Ostern bis Anfang Oktober." }
+    ],
+    "hu": [
+      { "q": "Mi az a Parc Merveilleux?", "a": "Egy mese- és szabadidőpark állatkerttel Bettembourgban." },
+      { "q": "Milyen látnivalók vannak gyerekeknek?", "a": "Meseházak, játszóterek, kisvasút és pónilovaglás." },
+      { "q": "Vannak egzotikus állatok a parkban?", "a": "Igen, öt különböző kontinens állatai találhatók itt, köztük kajmánok és majmok." },
+      { "q": "Mikor van nyitva a park?", "a": "Általában húsvéttól október elejéig." }
+    ],
+    "ro": [
+      { "q": "Ce este Parc Merveilleux?", "a": "Un parc de distracții și de basm cu grădină zoologică în Bettembourg." },
+      { "q": "Ce atracții există pentru copii?", "a": "Case de basm, locuri de joacă, un trenuleț și plimbări cu ponei." },
+      { "q": "Există animale exotice în parc?", "a": "Da, există animale de pe cinci continente, inclusiv caimani și maimuțe." },
+      { "q": "Când este deschis parcul?", "a": "De obicei de la Paște până la începutul lunii octombrie." }
+    ],
+    "en": [
+      { "q": "What is Parc Merveilleux?", "a": "A fairy-tale and amusement park with a zoo in Bettembourg." },
+      { "q": "What attractions are there for children?", "a": "Fairy-tale houses, playgrounds, a mini train, and pony rides." },
+      { "q": "Are there exotic animals in the park?", "a": "Yes, there are animals from five different continents, including caimans and monkeys." },
+      { "q": "When is the park open?", "a": "Usually from Easter until the beginning of October." }
+    ]
+  },
+  "lake-haute-sure": {
+    "de": [
+      { "q": "Was ist der Stausee Obersauer?", "a": "Ein großer Stausee in den Ardennen, der zur Stromerzeugung und Trinkwasserversorgung dient." },
+      { "q": "Welche Wassersportarten sind erlaubt?", "a": "Schwimmen, Kanufahren, Segeln und Tauchen (keine Motorboote)." },
+      { "q": "Wo kann man am See baden?", "a": "In Orten wie Lultzhausen, Insenborn und Burfelt gibt es Liegewiesen." },
+      { "q": "Gibt es ein Besucherzentrum?", "a": "Ja, das Naturparkzentrum in der alten Tuchfabrik in Esch-Sauer." }
+    ],
+    "hu": [
+      { "q": "Mi az a Felső-Sûre víztározó?", "a": "Egy nagy víztározó az Ardennekben, amely áramtermelésre és ivóvízellátásra szolgál." },
+      { "q": "Milyen vízi sportok engedélyezettek?", "a": "Úszás, kenuzás, vitorlázás és búvárkodás (motorcsónakok nem)." },
+      { "q": "Hol lehet fürdeni a tónál?", "a": "Lultzhausenben, Insenbornban és Burfeltben vannak kijelölt strandok." },
+      { "q": "Van-e látogatóközpont?", "a": "Igen, a natúrpark látogatóközpontja Esch-sur-Sûre-ben, egy régi posztógyárban található." }
+    ],
+    "ro": [
+      { "q": "Ce este lacul de acumulare Haute-Sûre?", "a": "Un lac de acumulare mare în Ardeni, folosit pentru producerea de electricitate și alimentare cu apă." },
+      { "q": "Ce sporturi nautice sunt permise?", "a": "Înot, canoe, navigație și scufundări (fără bărci cu motor)." },
+      { "q": "Unde se poate face baie la lac?", "a": "În locuri precum Lultzhausen, Insenborn și Burfelt există zone special amenajate." },
+      { "q": "Există un centru pentru vizitatori?", "a": "Da, centrul parcului natural aflat în fosta fabrică de postav din Esch-sur-Sûre." }
+    ],
+    "en": [
+      { "q": "What is the Upper Sûre Lake?", "a": "A large reservoir in the Ardennes used for power generation and drinking water supply." },
+      { "q": "Which water sports are allowed?", "a": "Swimming, canoeing, sailing, and diving (no motorboats)." },
+      { "q": "Where can you go swimming at the lake?", "a": "In places like Lultzhausen, Insenborn, and Burfelt, there are grassy beaches." },
+      { "q": "Is there a visitor center?", "a": "Yes, the nature park center in the old cloth factory in Esch-sur-Sûre." }
+    ]
+  }
+}

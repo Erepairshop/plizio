@@ -1,0 +1,371 @@
+{
+  "Znojmo": {
+    "name": "Znojmo",
+    "asciiname": "Znojmo",
+    "lat": 48.8555,
+    "lon": 16.0488,
+    "feat_code": "PPLA2",
+    "population": 35280,
+    "admin1": "78"
+  },
+  "Volary": {
+    "name": "Volary",
+    "asciiname": "Volary",
+    "lat": 48.90881,
+    "lon": 13.88657,
+    "feat_code": "PPL",
+    "population": 3692,
+    "admin1": "79"
+  },
+  "Vimperk": {
+    "name": "Vimperk",
+    "asciiname": "Vimperk",
+    "lat": 49.05857,
+    "lon": 13.78286,
+    "feat_code": "PPL",
+    "population": 8043,
+    "admin1": "79"
+  },
+  "Varnsdorf": {
+    "name": "Varnsdorf",
+    "asciiname": "Varnsdorf",
+    "lat": 50.91154,
+    "lon": 14.61824,
+    "feat_code": "PPL",
+    "population": 14704,
+    "admin1": "89"
+  },
+  "Turnov": {
+    "name": "Turnov",
+    "asciiname": "Turnov",
+    "lat": 50.58356,
+    "lon": 15.15186,
+    "feat_code": "PPL",
+    "population": 14507,
+    "admin1": "83"
+  },
+  "Teplice": {
+    "name": "Teplice",
+    "asciiname": "Teplice",
+    "lat": 50.6404,
+    "lon": 13.82451,
+    "feat_code": "PPL",
+    "population": 50912,
+    "admin1": "89"
+  },
+  "Svitavy": {
+    "name": "Svitavy",
+    "asciiname": "Svitavy",
+    "lat": 49.75594,
+    "lon": 16.46829,
+    "feat_code": "PPL",
+    "population": 16073,
+    "admin1": "86"
+  },
+  "Strakonice": {
+    "name": "Strakonice",
+    "asciiname": "Strakonice",
+    "lat": 49.26141,
+    "lon": 13.90237,
+    "feat_code": "PPL",
+    "population": 22355,
+    "admin1": "79"
+  },
+  "Semily": {
+    "name": "Semily",
+    "asciiname": "Semily",
+    "lat": 50.60191,
+    "lon": 15.33552,
+    "feat_code": "PPL",
+    "population": 8022,
+    "admin1": "83"
+  },
+  "Rumburk": {
+    "name": "Rumburk",
+    "asciiname": "Rumburk",
+    "lat": 50.95151,
+    "lon": 14.55699,
+    "feat_code": "PPL",
+    "population": 10815,
+    "admin1": "89"
+  },
+  "Roztoky": {
+    "name": "Roztoky",
+    "asciiname": "Roztoky",
+    "lat": 50.02671,
+    "lon": 13.86787,
+    "feat_code": "PPL",
+    "population": 1048,
+    "admin1": "88"
+  },
+  "Rokycany": {
+    "name": "Rokycany",
+    "asciiname": "Rokycany",
+    "lat": 49.7427,
+    "lon": 13.59459,
+    "feat_code": "PPL",
+    "population": 13826,
+    "admin1": "87"
+  },
+  "Prachatice": {
+    "name": "Prachatice",
+    "asciiname": "Prachatice",
+    "lat": 49.01292,
+    "lon": 13.99752,
+    "feat_code": "PPL",
+    "population": 11119,
+    "admin1": "79"
+  },
+  "Pacov": {
+    "name": "Pacov",
+    "asciiname": "Pacov",
+    "lat": 49.47076,
+    "lon": 15.00168,
+    "feat_code": "PPL",
+    "population": 5145,
+    "admin1": "80"
+  },
+  "Opava": {
+    "name": "Opava",
+    "asciiname": "Opava",
+    "lat": 49.93866,
+    "lon": 17.90257,
+    "feat_code": "PPL",
+    "population": 60252,
+    "admin1": "85"
+  },
+  "Nymburk": {
+    "name": "Nymburk",
+    "asciiname": "Nymburk",
+    "lat": 50.18605,
+    "lon": 15.04167,
+    "feat_code": "PPL",
+    "population": 14373,
+    "admin1": "88"
+  },
+  "Neratovice": {
+    "name": "Neratovice",
+    "asciiname": "Neratovice",
+    "lat": 50.25926,
+    "lon": 14.51759,
+    "feat_code": "PPL",
+    "population": 16427,
+    "admin1": "88"
+  },
+  "Nepomuk": {
+    "name": "Nepomuk",
+    "asciiname": "Nepomuk",
+    "lat": 49.48616,
+    "lon": 13.58225,
+    "feat_code": "PPL",
+    "population": 3670,
+    "admin1": "87"
+  },
+  "Most": {
+    "name": "Most",
+    "asciiname": "Most",
+    "lat": 50.50301,
+    "lon": 13.63617,
+    "feat_code": "PPL",
+    "population": 63474,
+    "admin1": "89"
+  },
+  "Mohelnice": {
+    "name": "Mohelnice",
+    "asciiname": "Mohelnice",
+    "lat": 49.77698,
+    "lon": 16.91946,
+    "feat_code": "PPL",
+    "population": 9742,
+    "admin1": "84"
+  },
+  "Milevsko": {
+    "name": "Milevsko",
+    "asciiname": "Milevsko",
+    "lat": 49.45089,
+    "lon": 14.36,
+    "feat_code": "PPL",
+    "population": 9343,
+    "admin1": "79"
+  },
+  "Louny": {
+    "name": "Louny",
+    "asciiname": "Louny",
+    "lat": 50.35699,
+    "lon": 13.79667,
+    "feat_code": "PPL",
+    "population": 18068,
+    "admin1": "89"
+  },
+  "Litovel": {
+    "name": "Litovel",
+    "asciiname": "Litovel",
+    "lat": 49.70121,
+    "lon": 17.07615,
+    "feat_code": "PPL",
+    "population": 10062,
+    "admin1": "84"
+  },
+  "Kyjov": {
+    "name": "Kyjov",
+    "asciiname": "Kyjov",
+    "lat": 49.01018,
+    "lon": 17.12253,
+    "feat_code": "PPL",
+    "population": 10645,
+    "admin1": "78"
+  },
+  "Krnov": {
+    "name": "Krnov",
+    "asciiname": "Krnov",
+    "lat": 50.08967,
+    "lon": 17.70385,
+    "feat_code": "PPL",
+    "population": 22518,
+    "admin1": "85"
+  },
+  "Kralupy nad Vltavou": {
+    "name": "Kralupy nad Vltavou",
+    "asciiname": "Kralupy nad Vltavou",
+    "lat": 50.24107,
+    "lon": 14.31149,
+    "feat_code": "PPL",
+    "population": 17373,
+    "admin1": "88"
+  },
+  "Klatovy": {
+    "name": "Klatovy",
+    "asciiname": "Klatovy",
+    "lat": 49.39552,
+    "lon": 13.29505,
+    "feat_code": "PPL",
+    "population": 22763,
+    "admin1": "87"
+  },
+  "Kladno": {
+    "name": "Kladno",
+    "asciiname": "Kladno",
+    "lat": 50.14734,
+    "lon": 14.10285,
+    "feat_code": "PPL",
+    "population": 69664,
+    "admin1": "88"
+  },
+  "Kaplice": {
+    "name": "Kaplice",
+    "asciiname": "Kaplice",
+    "lat": 48.73881,
+    "lon": 14.49449,
+    "feat_code": "PPL",
+    "population": 7531,
+    "admin1": "79"
+  },
+  "Jilemnice": {
+    "name": "Jilemnice",
+    "asciiname": "Jilemnice",
+    "lat": 50.6089,
+    "lon": 15.50653,
+    "feat_code": "PPL",
+    "population": 5777,
+    "admin1": "83"
+  },
+  "Jablonec nad Nisou": {
+    "name": "Jablonec nad Nisou",
+    "asciiname": "Jablonec nad Nisou",
+    "lat": 50.72431,
+    "lon": 15.17108,
+    "feat_code": "PPL",
+    "population": 46209,
+    "admin1": "83"
+  },
+  "Humpolec": {
+    "name": "Humpolec",
+    "asciiname": "Humpolec",
+    "lat": 49.54152,
+    "lon": 15.35932,
+    "feat_code": "PPL",
+    "population": 10914,
+    "admin1": "80"
+  },
+  "Hranice": {
+    "name": "Hranice",
+    "asciiname": "Hranice",
+    "lat": 49.54796,
+    "lon": 17.73469,
+    "feat_code": "PPL",
+    "population": 17969,
+    "admin1": "84"
+  },
+  "Chrudim": {
+    "name": "Chrudim",
+    "asciiname": "Chrudim",
+    "lat": 49.95109,
+    "lon": 15.79558,
+    "feat_code": "PPL",
+    "population": 23630,
+    "admin1": "86"
+  },
+  "Chomutov": {
+    "name": "Chomutov",
+    "asciiname": "Chomutov",
+    "lat": 50.46048,
+    "lon": 13.41779,
+    "feat_code": "PPL",
+    "population": 46771,
+    "admin1": "89"
+  },
+  "Broumov": {
+    "name": "Broumov",
+    "asciiname": "Broumov",
+    "lat": 50.58566,
+    "lon": 16.33181,
+    "feat_code": "PPL",
+    "population": 8254,
+    "admin1": "82"
+  },
+  "Boskovice": {
+    "name": "Boskovice",
+    "asciiname": "Boskovice",
+    "lat": 49.48751,
+    "lon": 16.65997,
+    "feat_code": "PPL",
+    "population": 12508,
+    "admin1": "78"
+  },
+  "Blovice": {
+    "name": "Blovice",
+    "asciiname": "Blovice",
+    "lat": 49.5822,
+    "lon": 13.54009,
+    "feat_code": "PPL",
+    "population": 3901,
+    "admin1": "87"
+  },
+  "Blansko": {
+    "name": "Blansko",
+    "asciiname": "Blansko",
+    "lat": 49.36304,
+    "lon": 16.64446,
+    "feat_code": "PPL",
+    "population": 20002,
+    "admin1": "78"
+  },
+  "Beroun": {
+    "name": "Beroun",
+    "asciiname": "Beroun",
+    "lat": 49.96382,
+    "lon": 14.072,
+    "feat_code": "PPL",
+    "population": 21521,
+    "admin1": "88"
+  },
+  "Abertamy": {
+    "name": "Abertamy",
+    "asciiname": "Abertamy",
+    "lat": 50.36874,
+    "lon": 12.81826,
+    "feat_code": "PPL",
+    "population": 1315,
+    "admin1": "81"
+  }
+}

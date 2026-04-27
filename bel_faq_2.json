@@ -1,0 +1,262 @@
+{
+  "city-muenster-extra": {
+    "de": [
+      {"q": "Was ist das wichtigste Fortbewegungsmittel in Münster?", "a": "Münster gilt als die Fahrradhauptstadt Deutschlands; es gibt dort mehr Fahrräder als Einwohner."},
+      {"q": "Was war der 'Westfälische Friede'?", "a": "Ein 1648 in Münster und Osnabrück geschlossener Friedensvertrag, der den Dreißigjährigen Krieg beendete."},
+      {"q": "Was passierte im 16. Jahrhundert mit den Wiedertäufern in Münster?", "a": "Die Wiedertäufer errichteten eine radikale Herrschaft, die 1535 gewaltsam beendet wurde; die Käfige ihrer Anführer hängen noch heute am Turm der Lambertikirche."},
+      {"q": "Wie heißt der große See im Stadtgebiet?", "a": "Der Aasee ist ein künstlich angelegter See, der als beliebtes Naherholungsgebiet dient."}
+    ],
+    "hu": [
+      {"q": "Mi a legfontosabb közlekedési eszköz Münsterben?", "a": "Münster Németország kerékpáros fővárosa; több bicikli van ott, mint lakos."},
+      {"q": "Mi volt a 'vesztfáliai béke'?", "a": "Egy 1648-ban Münsterben és Osnabrückben kötött békeszerződés, amely véget vetett a harmincéves háborúnak."},
+      {"q": "Mi történt az újrakeresztelkedőkkel Münsterben a 16. században?", "a": "Az újrakeresztelkedők radikális uralmat hoztak létre, amelyet 1535-ben erőszakkal levertek; vezetőik ketrecei ma is láthatóak a Szent Lambert-templom tornyán."},
+      {"q": "Hogy hívják a város területén található nagy tavat?", "a": "Az Aasee egy mesterséges tó, amely népszerű pihenőhelyként szolgál."}
+    ],
+    "ro": [
+      {"q": "Care este cel mai important mijloc de transport în Münster?", "a": "Münster este considerat capitala bicicletelor din Germania; există mai multe biciclete decât locuitori."},
+      {"q": "Ce a fost 'Pacea Westfalică'?", "a": "Un tratat de pace semnat în 1648 la Münster și Osnabrück, care a pus capăt Războiului de Treizeci de Ani."},
+      {"q": "Ce s-a întâmplat cu anabaptiștii din Münster în secolul al XVI-lea?", "a": "Anabaptiștii au stabilit o guvernare radicală, care a fost înăbușită violent în 1535; cuștile liderilor lor sunt suspendate și astăzi pe turnul bisericii Sf. Lamberti."},
+      {"q": "Cum se numește marele lac din zona orașului?", "a": "Aasee este un lac artificial care servește ca zonă populară de recreere."}
+    ],
+    "en": [
+      {"q": "What is the most important means of transport in Münster?", "a": "Münster is considered the bicycle capital of Germany; there are more bicycles than inhabitants."},
+      {"q": "What was the 'Peace of Westphalia'?", "a": "A peace treaty signed in 1648 in Münster and Osnabrück, ending the Thirty Years' War."},
+      {"q": "What happened to the Anabaptists in Münster in the 16th century?", "a": "The Anabaptists established a radical rule that was violently ended in 1535; the cages of their leaders still hang from the tower of St. Lamberti Church today."},
+      {"q": "What is the name of the large lake in the city area?", "a": "The Aasee is an artificial lake that serves as a popular recreation area."}
+    ]
+  },
+  "city-wuppertal-extra": {
+    "de": [
+      {"q": "Was ist das berühmteste Verkehrsmittel in Wuppertal?", "a": "Die Wuppertaler Schwebebahn ist ein weltweit einzigartiges technisches Denkmal und wichtiges Nahverkehrsmittel."},
+      {"q": "Wer war der bekannteste Sohn der Stadt?", "a": "Friedrich Engels, der Mitbegründer des Marxismus, wurde 1820 in Barmen (heute Wuppertal) geboren."},
+      {"q": "Was ist der 'Grüne Zoo'?", "a": "Es ist der Tierpark von Wuppertal, der für seine landschaftlich reizvolle Lage und seine Elefantenanlage bekannt ist."},
+      {"q": "Welche Rolle spielte Wuppertal in der Industriegeschichte?", "a": "Wuppertal war im 19. Jahrhundert eines der Zentren der deutschen Textilindustrie."}
+    ],
+    "hu": [
+      {"q": "Mi a leghíresebb közlekedési eszköz Wuppertalban?", "a": "A Wuppertali Függővasút egy világszerte egyedülálló technikai műemlék és fontos tömegközlekedési eszköz."},
+      {"q": "Ki volt a város legismertebb szülötte?", "a": "Friedrich Engels, a marxizmus társalapítója 1820-ban született Barmenben (ma Wuppertal része)."},
+      {"q": "Mi az a 'Zöld Állatkert'?", "a": "Ez Wuppertal állatkertje, amely festői elhelyezkedéséről és elefántkifutójáról ismert."},
+      {"q": "Milyen szerepet játszott Wuppertal az ipartörténetben?", "a": "Wuppertal a 19. században a német textilipar egyik központja volt."}
+    ],
+    "ro": [
+      {"q": "Care este cel mai faimos mijloc de transport din Wuppertal?", "a": "Trenul suspendat din Wuppertal (Schwebebahn) este un monument tehnic unic în lume și un mijloc important de transport public."},
+      {"q": "Cine a fost cel mai cunoscut fiu al orașului?", "a": "Friedrich Engels, cofondatorul marxismului, s-a născut în 1820 la Barmen (astăzi parte din Wuppertal)."},
+      {"q": "Ce este 'Grüner Zoo'?", "a": "Este grădina zoologică din Wuppertal, cunoscută pentru așezarea sa pitorească și pentru padocul elefanților."},
+      {"q": "Ce rol a jucat Wuppertal în istoria industrială?", "a": "În secolul al XIX-lea, Wuppertal a fost unul dintre centrele industriei textile germane."}
+    ],
+    "en": [
+      {"q": "What is the most famous means of transport in Wuppertal?", "a": "The Wuppertal Suspension Railway (Schwebebahn) is a globally unique technical monument and an important public transport system."},
+      {"q": "Who was the city's most famous son?", "a": "Friedrich Engels, the co-founder of Marxism, was born in 1820 in Barmen (now Wuppertal)."},
+      {"q": "What is the 'Green Zoo'?", "a": "It is Wuppertal's zoo, known for its scenic location and its elephant enclosure."},
+      {"q": "What role did Wuppertal play in industrial history?", "a": "Wuppertal was one of the centers of the German textile industry in the 19th century."}
+    ]
+  },
+  "river-lippe-extra": {
+    "de": [
+      {"q": "Wo fließt die Lippe?", "a": "Die Lippe fließt durch Nordrhein-Westfalen und mündet bei Wesel in den Rhein."},
+      {"q": "Wie lang ist die Lippe?", "a": "Sie ist etwa 220 Kilometer lang und der längste Fluss Westfalens."},
+      {"q": "War die Lippe früher für die Schifffahrt wichtig?", "a": "Ja, sie war historisch ein bedeutender Transportweg, insbesondere für Salz und später für Kohle."},
+      {"q": "Welche bekannten Städte liegen an der Lippe?", "a": "Städte wie Paderborn, Lippstadt, Hamm, Lünen und Marl liegen an ihrem Lauf."}
+    ],
+    "hu": [
+      {"q": "Hol folyik a Lippe?", "a": "A Lippe Észak-Rajna-Vesztfálián folyik keresztül, és Weselnél torkollik a Rajnába."},
+      {"q": "Milyen hosszú a Lippe?", "a": "Körülbelül 220 kilométer hosszú, és Vesztfália leghosszabb folyója."},
+      {"q": "Fontos volt-e régebben a Lippe a hajózás szempontjából?", "a": "Igen, történelmileg jelentős szállítási útvonal volt, különösen a só, később pedig a szén számára."},
+      {"q": "Mely ismert városok fekszenek a Lippe mentén?", "a": "Olyan városok fekszenek a folyó mentén, mint Paderborn, Lippstadt, Hamm, Lünen és Marl."}
+    ],
+    "ro": [
+      {"q": "Unde curge râul Lippe?", "a": "Râul Lippe curge prin Renania de Nord-Westfalia și se varsă în Rin la Wesel."},
+      {"q": "Cât de lung este râul Lippe?", "a": "Are o lungime de aproximativ 220 de kilometri și este cel mai lung râu din Westfalia."},
+      {"q": "A fost râul Lippe important pentru navigație în trecut?", "a": "Da, a fost o cale de transport istorică importantă, în special pentru sare și mai târziu pentru cărbune."},
+      {"q": "Ce orașe cunoscute se află pe râul Lippe?", "a": "Orașe precum Paderborn, Lippstadt, Hamm, Lünen și Marl sunt situate de-a lungul cursului său."}
+    ],
+    "en": [
+      {"q": "Where does the Lippe flow?", "a": "The Lippe flows through North Rhine-Westphalia and flows into the Rhine at Wesel."},
+      {"q": "How long is the Lippe?", "a": "It is about 220 kilometers long and the longest river in Westphalia."},
+      {"q": "Was the Lippe important for shipping in the past?", "a": "Yes, it was a significant historical transport route, especially for salt and later for coal."},
+      {"q": "Which well-known cities lie on the Lippe?", "a": "Cities such as Paderborn, Lippstadt, Hamm, Lünen, and Marl are located along its course."}
+    ]
+  },
+  "landmark-cologne-cathedral-dom-extra": {
+    "de": [
+      {"q": "Wie lange dauerte der Bau des Kölner Doms?", "a": "Die Bauzeit betrug insgesamt über 600 Jahre, von der Grundsteinlegung 1248 bis zur Vollendung 1880."},
+      {"q": "Welche bedeutenden Reliquien werden im Dom aufbewahrt?", "a": "Der Dreikönigenschrein enthält die Gebeine der Heiligen Drei Könige."},
+      {"q": "War der Kölner Dom einst das höchste Gebäude der Welt?", "a": "Ja, von 1880 bis 1884 war er mit 157 Metern das höchste Bauwerk der Erde."},
+      {"q": "Wie viele Stufen muss man steigen, um auf den Turm zu gelangen?", "a": "Man muss 533 Stufen erklimmen, um die Aussichtsplattform des Südturms zu erreichen."}
+    ],
+    "hu": [
+      {"q": "Mennyi ideig tartott a kölni dóm építése?", "a": "Az építés összesen több mint 600 évig tartott, az 1248-as alapkőletételtől az 1880-as befejezésig."},
+      {"q": "Milyen jelentős ereklyéket őriznek a dómban?", "a": "A Háromkirályok-ereklyetartó a napkeleti bölcsek földi maradványait tartalmazza."},
+      {"q": "Volt-e valaha a kölni dóm a világ legmagasabb épülete?", "a": "Igen, 1880 és 1884 között 157 méteres magasságával a világ legmagasabb építménye volt."},
+      {"q": "Hány lépcsőfokot kell megmászni a toronyba jutáshoz?", "a": "533 lépcsőfokot kell megmászni a déli torony kilátóteraszának eléréséhez."}
+    ],
+    "ro": [
+      {"q": "Cât timp a durat construcția Catedralei din Köln?", "a": "Construcția a durat în total peste 600 de ani, de la punerea pietrei de temelie în 1248 până la finalizarea în 1880."},
+      {"q": "Ce relicve importante sunt păstrate în catedrală?", "a": "Racla celor Trei Magi conține moaștele Sfinților Trei Magi de la Răsărit."},
+      {"q": "A fost Catedrala din Köln cândva cea mai înaltă clădire din lume?", "a": "Da, din 1880 până în 1884 a fost cea mai înaltă structură de pe Pământ, având 157 de metri."},
+      {"q": "Câte trepte trebuie urcate pentru a ajunge în turn?", "a": "Trebuie urcate 533 de trepte pentru a ajunge la platforma de observație a turnului de sud."}
+    ],
+    "en": [
+      {"q": "How long did it take to build Cologne Cathedral?", "a": "The construction took over 600 years in total, from the laying of the foundation stone in 1248 to completion in 1880."},
+      {"q": "What significant relics are kept in the cathedral?", "a": "The Shrine of the Three Kings contains the bones of the biblical Three Wise Men."},
+      {"q": "Was Cologne Cathedral once the tallest building in the world?", "a": "Yes, from 1880 to 1884, at 157 meters, it was the tallest structure on Earth."},
+      {"q": "How many steps must you climb to get to the tower?", "a": "You have to climb 533 steps to reach the observation deck of the south tower."}
+    ]
+  },
+  "lake-baldeneysee-extra": {
+    "de": [
+      {"q": "Wo befindet sich der Baldeneysee?", "a": "Er liegt im Süden der Stadt Essen und ist der größte der sechs Ruhrstauseen."},
+      {"q": "Wann und warum wurde der See angelegt?", "a": "Der See wurde 1931-1933 als Wasserreservoir und zur Klärung des Flusswassers der Ruhr aufgestaut."},
+      {"q": "Darf man im Baldeneysee baden?", "a": "Seit 2017 gibt es eine offizielle Badestelle an der Seaside Beach, deren Nutzung jedoch von der aktuellen Wasserqualität abhängt."},
+      {"q": "Welches berühmte Gebäude liegt oberhalb des Sees?", "a": "Die Villa Hügel, der ehemalige Wohnsitz der Industriellenfamilie Krupp, überblickt den See."}
+    ],
+    "hu": [
+      {"q": "Hol található a Baldeneysee?", "a": "Essen városának déli részén fekszik, és a hat Ruhr-víztározó közül a legnagyobb."},
+      {"q": "Mikor és miért hozták létre a tavat?", "a": "A tavat 1931 és 1933 között hozták létre víztározóként és a Ruhr folyó vizének tisztítására."},
+      {"q": "Szabad-e fürödni a Baldeneysee-ben?", "a": "2017 óta van egy hivatalos fürdőhely a Seaside Beachen, de használata az aktuális vízminőségtől függ."},
+      {"q": "Melyik híres épület található a tó felett?", "a": "A Villa Hügel, a Krupp iparoscsalád egykori lakóhelye magasodik a tó fölé."}
+    ],
+    "ro": [
+      {"q": "Unde se află lacul Baldeney (Baldeneysee)?", "a": "Este situat în sudul orașului Essen și este cel mai mare dintre cele șase lacuri de acumulare de pe râul Ruhr."},
+      {"q": "Când și de ce a fost creat lacul?", "a": "Lacul a fost creat între 1931 și 1933 ca rezervor de apă și pentru purificarea apei râului Ruhr."},
+      {"q": "Este permis înotul în Baldeneysee?", "a": "Din 2017 există o zonă oficială de înot la Seaside Beach, dar utilizarea sa depinde de calitatea actuală a apei."},
+      {"q": "Ce clădire faimoasă se află deasupra lacului?", "a": "Villa Hügel, fosta reședință a familiei de industriali Krupp, domină lacul."}
+    ],
+    "en": [
+      {"q": "Where is Lake Baldeney located?", "a": "It is located in the south of the city of Essen and is the largest of the six Ruhr reservoirs."},
+      {"q": "When and why was the lake created?", "a": "The lake was dammed between 1931 and 1933 as a water reservoir and to clarify the river water of the Ruhr."},
+      {"q": "Is swimming allowed in Lake Baldeney?", "a": "Since 2017, there has been an official swimming area at Seaside Beach, but its use depends on the current water quality."},
+      {"q": "Which famous building is located above the lake?", "a": "Villa Hügel, the former residence of the Krupp industrialist family, overlooks the lake."}
+    ]
+  },
+  "historical-aachen-karl-extra": {
+    "de": [
+      {"q": "Welche Bedeutung hatte Aachen für Karl den Großen?", "a": "Aachen war seine Lieblingspfalz und das politische Zentrum seines Frankenreiches."},
+      {"q": "Welches Bauwerk ließ Karl der Große in Aachen errichten?", "a": "Er ließ die Pfalzkapelle bauen, die heute den Kern des Aachener Doms bildet."},
+      {"q": "Wo befindet sich das Grab Karls des Großen?", "a": "Sein Leichnam ruht im Karlsschrein im Chor des Aachener Doms."},
+      {"q": "Was ist der Karlsthron?", "a": "Ein einfacher Marmorthron im Aachener Dom, auf dem zwischen 936 und 1531 insgesamt 31 deutsche Könige gekrönt wurden."}
+    ],
+    "hu": [
+      {"q": "Milyen jelentősége volt Aachennek Nagy Károly számára?", "a": "Aachen volt a kedvenc palotája és Frank Birodalmának politikai központja."},
+      {"q": "Milyen építményt emeltetett Nagy Károly Aachenben?", "a": "Ő építtette a palotakápolnát, amely ma az aacheni dóm magját alkotja."},
+      {"q": "Hol található Nagy Károly sírja?", "a": "Földi maradványai az aacheni dóm kórusában található Károly-ereklyetartóban nyugszanak."},
+      {"q": "Mi az a Károly-trón?", "a": "Egy egyszerű márványtrón az aacheni dómban, amelyen 936 és 1531 között összesen 31 német királyt koronáztak meg."}
+    ],
+    "ro": [
+      {"q": "Ce importanță a avut Aachen pentru Carol cel Mare?", "a": "Aachen a fost reședința sa preferată și centrul politic al Imperiului Franc."},
+      {"q": "Ce edificiu a construit Carol cel Mare în Aachen?", "a": "A construit Capela Palatină, care formează astăzi nucleul Catedralei din Aachen."},
+      {"q": "Unde se află mormântul lui Carol cel Mare?", "a": "Rămășițele sale se odihnesc în Racla lui Carol din corul Catedralei din Aachen."},
+      {"q": "Ce este Tronul lui Carol?", "a": "Un tron simplu de marmură în Catedrala din Aachen, pe care au fost încoronați 31 de regi germani între anii 936 și 1531."}
+    ],
+    "en": [
+      {"q": "What significance did Aachen have for Charlemagne?", "a": "Aachen was his favorite residence and the political center of his Frankish Empire."},
+      {"q": "Which building did Charlemagne have erected in Aachen?", "a": "He had the Palatine Chapel built, which today forms the core of Aachen Cathedral."},
+      {"q": "Where is Charlemagne's grave located?", "a": "His remains rest in the Shrine of Charlemagne in the choir of Aachen Cathedral."},
+      {"q": "What is Charlemagne's Throne?", "a": "A simple marble throne in Aachen Cathedral, on which 31 German kings were crowned between 936 and 1531."}
+    ]
+  },
+  "forest-teutoburger-wald-extra": {
+    "de": [
+      {"q": "Welches historische Ereignis ist mit dem Teutoburger Wald verbunden?", "a": "Die Varusschlacht im Jahr 9 n. Chr., in der germanische Stämme drei römische Legionen besiegten."},
+      {"q": "Welches Denkmal erinnert an dieses Ereignis?", "a": "Das Hermannsdenkmal bei Detmold erinnert an den Cheruskerfürsten Arminius."},
+      {"q": "Was sind die Externsteine?", "a": "Eine markante Sandstein-Felsformation im Teutoburger Wald, die als Natur- und Kulturdenkmal gilt."},
+      {"q": "Wie heißt der bekannteste Wanderweg der Region?", "a": "Die Hermannshöhen sind ein bekannter Kammweg, der über den Teutoburger Wald führt."}
+    ],
+    "hu": [
+      {"q": "Milyen történelmi esemény kapcsolódik a Teutoburgi-erdőhöz?", "a": "A varusi csata i.sz. 9-ben, amelyben a germán törzsek legyőztek három római légiót."},
+      {"q": "Melyik emlékmű emlékeztet erre az eseményre?", "a": "A Detmold melletti Hermann-emlékmű (Hermannsdenkmal) emlékeztet Arminius keruszk hercegre."},
+      {"q": "Mik azok az Externsteine sziklák?", "a": "Egy jellegzetes homokkő sziklaalakzat a Teutoburgi-erdőben, amely természetvédelmi és kulturális emlékhely."},
+      {"q": "Hogy hívják a régió legismertebb túraútvonalát?", "a": "A Hermannshöhen egy ismert gerincútvonal, amely a Teutoburgi-erdőn halad keresztül."}
+    ],
+    "ro": [
+      {"q": "Ce eveniment istoric este legat de Pădurea Teutoburgică?", "a": "Bătălia de la Teutoburger Wald din anul 9 d.Hr., în care triburile germanice au învins trei legiuni romane."},
+      {"q": "Ce monument comemorează acest eveniment?", "a": "Monumentul lui Hermann (Hermannsdenkmal) de lângă Detmold îl onorează pe șeful cherusc Arminius."},
+      {"q": "Ce sunt stâncile Externsteine?", "a": "O formațiune proeminentă de gresie din Pădurea Teutoburgică, considerată un monument natural și cultural."},
+      {"q": "Cum se numește cel mai cunoscut traseu de drumeție din regiune?", "a": "Hermannshöhen este un traseu de creastă renumit care traversează Pădurea Teutoburgică."}
+    ],
+    "en": [
+      {"q": "What historical event is associated with the Teutoburg Forest?", "a": "The Battle of the Teutoburg Forest in 9 AD, in which Germanic tribes defeated three Roman legions."},
+      {"q": "Which monument commemorates this event?", "a": "The Hermann Monument (Hermannsdenkmal) near Detmold commemorates the Cheruscan leader Arminius."},
+      {"q": "What are the Externsteine?", "a": "A striking sandstone rock formation in the Teutoburg Forest, considered a natural and cultural monument."},
+      {"q": "What is the most famous hiking trail in the region?", "a": "The Hermannshöhen is a well-known ridge trail leading across the Teutoburg Forest."}
+    ]
+  },
+  "industry-ruhrgebiet-extra": {
+    "de": [
+      {"q": "Welche Rohstoffe prägten die Industrie im Ruhrgebiet?", "a": "Steinkohle und Eisenerz waren die Grundlage für den Aufstieg zur bedeutendsten Montanregion Europas."},
+      {"q": "Was versteht man unter dem 'Strukturwandel' im Ruhrgebiet?", "a": "Den Übergang von der Schwerindustrie hin zu Dienstleistung, Technologie und Kultur nach dem Ende des Bergbaus."},
+      {"q": "Was ist die 'Route der Industriekultur'?", "a": "Ein touristisches Netzwerk, das die wichtigsten Industriedenkmäler der Region, wie die Zeche Zollverein, verbindet."},
+      {"q": "Wie viele Menschen leben etwa im Ruhrgebiet?", "a": "Es ist mit rund 5 Millionen Einwohnern der größte Ballungsraum in Deutschland."}
+    ],
+    "hu": [
+      {"q": "Milyen nyersanyagok határozták meg a Ruhr-vidék iparát?", "a": "A kőszén és a vasérc képezte az alapját annak, hogy Európa legjelentősebb bányászati és kohászati régiójává váljon."},
+      {"q": "Mit értünk 'szerkezetváltás' alatt a Ruhr-vidéken?", "a": "A nehéziparról a szolgáltatásokra, a technológiára és a kultúrára való áttérést a bányászat befejezése után."},
+      {"q": "Mi az az 'Ipari Kultúra Útja'?", "a": "Egy turisztikai hálózat, amely összeköti a régió legfontosabb ipari műemlékeit, például a Zollverein szénbányát."},
+      {"q": "Körülbelül hány ember él a Ruhr-vidéken?", "a": "Körülbelül 5 millió lakosával ez Németország legnagyobb agglomerációja."}
+    ],
+    "ro": [
+      {"q": "Ce materii prime au modelat industria din regiunea Ruhr?", "a": "Huila și minereul de fier au fost baza ascensiunii sale ca cea mai importantă regiune minieră și metalurgică din Europa."},
+      {"q": "Ce se înțelege prin 'schimbare structurală' în regiunea Ruhr?", "a": "Tranziția de la industria grea către servicii, tehnologie și cultură după încetarea activităților miniere."},
+      {"q": "Ce este 'Traseul Culturii Industriale'?", "a": "O rețea turistică ce leagă cele mai importante monumente industriale din regiune, cum ar fi mina Zollverein."},
+      {"q": "Câți oameni trăiesc aproximativ în regiunea Ruhr?", "a": "Cu aproximativ 5 milioane de locuitori, este cea mai mare zonă metropolitană din Germania."}
+    ],
+    "en": [
+      {"q": "Which raw materials shaped the industry in the Ruhr area?", "a": "Hard coal and iron ore were the basis for its rise to become Europe's most important mining and steel region."},
+      {"q": "What is meant by 'structural change' in the Ruhr area?", "a": "The transition from heavy industry to services, technology, and culture after the end of mining."},
+      {"q": "What is the 'Industrial Heritage Trail'?", "a": "A tourist network connecting the region's most important industrial monuments, such as the Zollverein Coal Mine."},
+      {"q": "Approximately how many people live in the Ruhr area?", "a": "With around 5 million inhabitants, it is the largest metropolitan area in Germany."}
+    ]
+  },
+  "landmark-schloss-augustusburg-extra": {
+    "de": [
+      {"q": "Wo befindet sich Schloss Augustusburg?", "a": "Es liegt in der Stadt Brühl bei Köln."},
+      {"q": "Wer ließ das Schloss erbauen?", "a": "Clemens August von Wittelsbach, der Erzbischof von Köln, ließ es im 18. Jahrhundert als Prunkresidenz errichten."},
+      {"q": "Warum ist das Schloss kunsthistorisch bedeutend?", "a": "Es gilt als eines der bedeutendsten Werke des Rokoko in Deutschland und gehört zum UNESCO-Welterbe."},
+      {"q": "Welches andere Schloss gehört zur gleichen Anlage?", "a": "Das Jagdschloss Falkenlust liegt in unmittelbarer Nähe und ist durch eine Allee mit Augustusburg verbunden."}
+    ],
+    "hu": [
+      {"q": "Hol található az Augustusburgi kastély?", "a": "Brühl városában található, Köln közelében."},
+      {"q": "Ki építtette a kastélyt?", "a": "Clemens August von Wittelsbach, kölni érsek építtette a 18. században reprezentatív rezidenciaként."},
+      {"q": "Miért jelentős a kastély művészettörténeti szempontból?", "a": "Németország egyik legjelentősebb rokokó alkotásának tekintik, és az UNESCO Világörökség része."},
+      {"q": "Melyik másik kastély tartozik ugyanahhoz az együtteshez?", "a": "A Falkenlust vadászkastély a közvetlen közelben található, és egy fasor köti össze az Augustusburgi kastéllyal."}
+    ],
+    "ro": [
+      {"q": "Unde se află Castelul Augustusburg?", "a": "Se află în orașul Brühl, lângă Köln."},
+      {"q": "Cine a construit castelul?", "a": "Clemens August de Wittelsbach, arhiepiscopul de Köln, l-a construit în secolul al XVIII-lea ca reședință de protocol."},
+      {"q": "De ce este castelul important din punct de vedere al istoriei artei?", "a": "Este considerat una dintre cele mai importante opere ale stilului rococo din Germania și aparține patrimoniului mondial UNESCO."},
+      {"q": "Ce alt castel aparține aceluiași ansamblu?", "a": "Castelul de vânătoare Falkenlust este situat în imediata apropiere și este legat de Augustusburg printr-o alee."}
+    ],
+    "en": [
+      {"q": "Where is Augustusburg Palace located?", "a": "It is located in the town of Brühl near Cologne."},
+      {"q": "Who had the palace built?", "a": "Clemens August of Wittelsbach, the Archbishop of Cologne, had it built in the 18th century as a magnificent residence."},
+      {"q": "Why is the palace significant in terms of art history?", "a": "It is considered one of the most important works of Rococo in Germany and is a UNESCO World Heritage Site."},
+      {"q": "Which other palace belongs to the same complex?", "a": "The Falkenlust hunting lodge is located nearby and is connected to Augustusburg by an avenue."}
+    ]
+  },
+  "river-wupper-extra": {
+    "de": [
+      {"q": "Durch welches markante Tal fließt die Wupper?", "a": "Sie fließt durch das Bergische Land, insbesondere durch das eng bebaute Tal von Wuppertal."},
+      {"q": "Warum war die Wupper für die Industrie wichtig?", "a": "Ihre Wasserkraft trieb früher zahlreiche Mühlen und Schleifkotten an, was die Basis für die frühe Industrialisierung der Region war."},
+      {"q": "Was ist die Müngstener Brücke?", "a": "Es ist die höchste Eisenbahnbrücke Deutschlands, die bei Solingen die Wupper überspannt."},
+      {"q": "In welchen Fluss mündet die Wupper?", "a": "Sie mündet bei Leverkusen in den Rhein."}
+    ],
+    "hu": [
+      {"q": "Milyen jellegzetes völgyön folyik keresztül a Wupper?", "a": "A Bergisches Land területén folyik át, különösen Wuppertal sűrűn beépített völgyén."},
+      {"q": "Miért volt fontos a Wupper az ipar számára?", "a": "Vízenergiája korábban számos malmot és köszörűműhelyt hajtott, ami a régió korai iparosodásának alapja volt."},
+      {"q": "Mi az a Müngsteni híd?", "a": "Németország legmagasabb vasúti hídja, amely Solingennél ível át a Wupper felett."},
+      {"q": "Melyik folyóba torkollik a Wupper?", "a": "Leverkusennél torkollik a Rajnába."}
+    ],
+    "ro": [
+      {"q": "Prin ce vale distinctivă curge râul Wupper?", "a": "Curge prin regiunea Bergisches Land, în special prin valea dens construită a orașului Wuppertal."},
+      {"q": "De ce a fost râul Wupper important pentru industrie?", "a": "Forța apei sale a acționat în trecut numeroase mori și ateliere de șlefuire, reprezentând baza industrializării timpurii a regiunii."},
+      {"q": "Ce este Podul Müngsten?", "a": "Este cel mai înalt pod feroviar din Germania, care traversează râul Wupper lângă Solingen."},
+      {"q": "În ce râu se varsă Wupper?", "a": "Se varsă în Rin, lângă Leverkusen."}
+    ],
+    "en": [
+      {"q": "Through which striking valley does the Wupper flow?", "a": "It flows through the Bergisches Land, especially through the densely built-up valley of Wuppertal."},
+      {"q": "Why was the Wupper important for industry?", "a": "Its water power used to drive numerous mills and grinding shops, which was the basis for the early industrialization of the region."},
+      {"q": "What is the Müngsten Bridge?", "a": "It is the highest railway bridge in Germany, spanning the Wupper near Solingen."},
+      {"q": "Which river does the Wupper flow into?", "a": "It flows into the Rhine at Leverkusen."}
+    ]
+  }
+}

@@ -1,0 +1,1338 @@
+{
+  "ro1": [
+    {
+      "id": "city-sebes-extra",
+      "nameHu": "Szászsebes",
+      "nameDe": "Mühlbach",
+      "type": "city"
+    },
+    {
+      "id": "city-aiud-extra",
+      "nameHu": "Nagyenyed",
+      "nameDe": "Straßburg am Mieresch",
+      "type": "city"
+    },
+    {
+      "id": "city-blaj-extra",
+      "nameHu": "Balázsfalva",
+      "nameDe": "Blasendorf",
+      "type": "city"
+    },
+    {
+      "id": "city-pecica-extra",
+      "nameHu": "Pécska",
+      "nameDe": "Petschka",
+      "type": "city"
+    },
+    {
+      "id": "city-santana-extra",
+      "nameHu": "Újszentanna",
+      "nameDe": "Sanktanna",
+      "type": "city"
+    },
+    {
+      "id": "city-lipova-extra",
+      "nameHu": "Lippa",
+      "nameDe": "Lippa",
+      "type": "city"
+    },
+    {
+      "id": "city-curtea-de-arges-extra",
+      "nameHu": "Argyasudvarhely",
+      "nameDe": "Argisch",
+      "type": "city"
+    },
+    {
+      "id": "city-campulung-extra",
+      "nameHu": "Hosszúmező",
+      "nameDe": "Langenau",
+      "type": "city"
+    },
+    {
+      "id": "city-mioveni-extra",
+      "nameHu": "Mioveni",
+      "nameDe": "Mioveni",
+      "type": "city"
+    },
+    {
+      "id": "city-onesti-extra",
+      "nameHu": "Ónfalva",
+      "nameDe": "Onesti",
+      "type": "city"
+    },
+    {
+      "id": "city-moinesti-extra",
+      "nameHu": "Mojnest",
+      "nameDe": "Moinesti",
+      "type": "city"
+    },
+    {
+      "id": "city-comanesti-extra",
+      "nameHu": "Kománfalva",
+      "nameDe": "Comanesti",
+      "type": "city"
+    },
+    {
+      "id": "city-salonta-extra",
+      "nameHu": "Nagyszalonta",
+      "nameDe": "Gross-Salontha",
+      "type": "city"
+    },
+    {
+      "id": "city-marghita-extra",
+      "nameHu": "Margitta",
+      "nameDe": "Margarethen",
+      "type": "city"
+    },
+    {
+      "id": "city-beius-extra",
+      "nameHu": "Belényes",
+      "nameDe": "Binsch",
+      "type": "city"
+    },
+    {
+      "id": "city-nasaud-extra",
+      "nameHu": "Naszód",
+      "nameDe": "Nassod",
+      "type": "city"
+    },
+    {
+      "id": "city-beclean-extra",
+      "nameHu": "Bethlen",
+      "nameDe": "Bethlen",
+      "type": "city"
+    },
+    {
+      "id": "city-sangeorz-bai-extra",
+      "nameHu": "Oláhszentgyörgy",
+      "nameDe": "Sankt Georgen",
+      "type": "city"
+    },
+    {
+      "id": "city-dorohoi-extra",
+      "nameHu": "Dorohoj",
+      "nameDe": "Dorohoi",
+      "type": "city"
+    },
+    {
+      "id": "city-darabani-extra",
+      "nameHu": "Darabani",
+      "nameDe": "Darabani",
+      "type": "city"
+    },
+    {
+      "id": "city-saveni-extra",
+      "nameHu": "Szavény",
+      "nameDe": "Saveni",
+      "type": "city"
+    },
+    {
+      "id": "city-fagaras-extra",
+      "nameHu": "Fogaras",
+      "nameDe": "Fogarasch",
+      "type": "city"
+    },
+    {
+      "id": "city-sacele-extra",
+      "nameHu": "Négyfalu",
+      "nameDe": "Siebendörfer",
+      "type": "city"
+    },
+    {
+      "id": "city-zarnesti-extra",
+      "nameHu": "Zernest",
+      "nameDe": "Zernescht",
+      "type": "city"
+    },
+    {
+      "id": "city-ianca-extra",
+      "nameHu": "Ianca",
+      "nameDe": "Ianca",
+      "type": "city"
+    },
+    {
+      "id": "city-insuratei-extra",
+      "nameHu": "Insuratei",
+      "nameDe": "Insuratei",
+      "type": "city"
+    },
+    {
+      "id": "city-faurei-extra",
+      "nameHu": "Faurei",
+      "nameDe": "Faurei",
+      "type": "city"
+    },
+    {
+      "id": "city-ramnicu-sarat-extra",
+      "nameHu": "Râmnicu Sărat",
+      "nameDe": "Rümnick",
+      "type": "city"
+    },
+    {
+      "id": "city-nehoiu-extra",
+      "nameHu": "Nehoiu",
+      "nameDe": "Nehoiu",
+      "type": "city"
+    },
+    {
+      "id": "city-pogoanele-extra",
+      "nameHu": "Pogoanele",
+      "nameDe": "Pogoanele",
+      "type": "city"
+    },
+    {
+      "id": "city-resita-extra",
+      "nameHu": "Resicabánya",
+      "nameDe": "Reschitz",
+      "type": "city"
+    },
+    {
+      "id": "city-caransebes-extra",
+      "nameHu": "Karánsebes",
+      "nameDe": "Karansebesch",
+      "type": "city"
+    },
+    {
+      "id": "city-oravita-extra",
+      "nameHu": "Oravicabánya",
+      "nameDe": "Orawitza",
+      "type": "city"
+    },
+    {
+      "id": "city-calarasi-extra",
+      "nameHu": "Călărași",
+      "nameDe": "Kalarasch",
+      "type": "city"
+    },
+    {
+      "id": "city-oltenita-extra",
+      "nameHu": "Oltenița",
+      "nameDe": "Oltenitza",
+      "type": "city"
+    },
+    {
+      "id": "city-lehliu-gara-extra",
+      "nameHu": "Lehliu Gara",
+      "nameDe": "Lehliu Gara",
+      "type": "city"
+    },
+    {
+      "id": "city-turda-extra",
+      "nameHu": "Torda",
+      "nameDe": "Thorenburg",
+      "type": "city"
+    },
+    {
+      "id": "city-dej-extra",
+      "nameHu": "Dés",
+      "nameDe": "Burglos",
+      "type": "city"
+    },
+    {
+      "id": "city-campia-turzii-extra",
+      "nameHu": "Aranyosgyéres",
+      "nameDe": "Jerischmarkt",
+      "type": "city"
+    },
+    {
+      "id": "city-mangalia-extra",
+      "nameHu": "Mangalia",
+      "nameDe": "Mangalia",
+      "type": "city"
+    },
+    {
+      "id": "city-medgidia-extra",
+      "nameHu": "Medgidia",
+      "nameDe": "Medgidia",
+      "type": "city"
+    },
+    {
+      "id": "city-navodari-extra",
+      "nameHu": "Navodari",
+      "nameDe": "Navodari",
+      "type": "city"
+    },
+    {
+      "id": "city-targu-secuiesc-extra",
+      "nameHu": "Kézdivásárhely",
+      "nameDe": "Szekler Neumarkt",
+      "type": "city"
+    },
+    {
+      "id": "city-covasna-extra",
+      "nameHu": "Kovászna",
+      "nameDe": "Kowasna",
+      "type": "city"
+    },
+    {
+      "id": "city-intorsura-buzaului-extra",
+      "nameHu": "Bodzaforduló",
+      "nameDe": "Bodzau",
+      "type": "city"
+    },
+    {
+      "id": "city-moreni-extra",
+      "nameHu": "Moreni",
+      "nameDe": "Moreni",
+      "type": "city"
+    },
+    {
+      "id": "city-pucioasa-extra",
+      "nameHu": "Pucioasa",
+      "nameDe": "Putzosa",
+      "type": "city"
+    },
+    {
+      "id": "city-gaesti-extra",
+      "nameHu": "Gaesti",
+      "nameDe": "Gaesti",
+      "type": "city"
+    },
+    {
+      "id": "city-bailesti-extra",
+      "nameHu": "Bailesti",
+      "nameDe": "Bailesti",
+      "type": "city"
+    },
+    {
+      "id": "city-calafat-extra",
+      "nameHu": "Kalafat",
+      "nameDe": "Kalafat",
+      "type": "city"
+    },
+    {
+      "id": "city-filiasi-extra",
+      "nameHu": "Filiași",
+      "nameDe": "Filiasi",
+      "type": "city"
+    },
+    {
+      "id": "city-tecuci-extra",
+      "nameHu": "Tekucs",
+      "nameDe": "Tekutsch",
+      "type": "city"
+    },
+    {
+      "id": "city-targu-bujor-extra",
+      "nameHu": "Târgu Bujor",
+      "nameDe": "Targu Bujor",
+      "type": "city"
+    },
+    {
+      "id": "city-beresti-extra",
+      "nameHu": "Beresti",
+      "nameDe": "Beresti",
+      "type": "city"
+    },
+    {
+      "id": "city-bolintin-vale-extra",
+      "nameHu": "Bolintin-Vale",
+      "nameDe": "Bolintin-Vale",
+      "type": "city"
+    },
+    {
+      "id": "city-mihailesti-extra",
+      "nameHu": "Mihăilești",
+      "nameDe": "Mihailesti",
+      "type": "city"
+    },
+    {
+      "id": "city-targu-jiu-extra",
+      "nameHu": "Zsilvásárhely",
+      "nameDe": "Turgu Jiu",
+      "type": "city"
+    },
+    {
+      "id": "city-motru-extra",
+      "nameHu": "Motru",
+      "nameDe": "Motru",
+      "type": "city"
+    },
+    {
+      "id": "city-rovinari-extra",
+      "nameHu": "Rovinari",
+      "nameDe": "Rovinari",
+      "type": "city"
+    },
+    {
+      "id": "city-odorheiu-secuiesc-extra",
+      "nameHu": "Székelyudvarhely",
+      "nameDe": "Oderhellen",
+      "type": "city"
+    },
+    {
+      "id": "city-gheorgheni-extra",
+      "nameHu": "Gyergyószentmiklós",
+      "nameDe": "Niklasmarkt",
+      "type": "city"
+    },
+    {
+      "id": "city-toplita-extra",
+      "nameHu": "Maroshévíz",
+      "nameDe": "Töplitz",
+      "type": "city"
+    },
+    {
+      "id": "city-deva-extra",
+      "nameHu": "Déva",
+      "nameDe": "Diemrich",
+      "type": "city"
+    },
+    {
+      "id": "city-hunedoara-extra",
+      "nameHu": "Vajdahunyad",
+      "nameDe": "Eisenmarkt",
+      "type": "city"
+    },
+    {
+      "id": "city-petrosani-extra",
+      "nameHu": "Petrozsény",
+      "nameDe": "Petroschen",
+      "type": "city"
+    },
+    {
+      "id": "city-urziceni-extra",
+      "nameHu": "Urziceni",
+      "nameDe": "Urziceni",
+      "type": "city"
+    },
+    {
+      "id": "city-fetesti-extra",
+      "nameHu": "Fetesti",
+      "nameDe": "Fetesti",
+      "type": "city"
+    },
+    {
+      "id": "city-tandarei-extra",
+      "nameHu": "Țăndărei",
+      "nameDe": "Tandarei",
+      "type": "city"
+    },
+    {
+      "id": "city-pascani-extra",
+      "nameHu": "Páskán",
+      "nameDe": "Pascani",
+      "type": "city"
+    },
+    {
+      "id": "city-harlau-extra",
+      "nameHu": "Harló",
+      "nameDe": "Harlau",
+      "type": "city"
+    },
+    {
+      "id": "city-targu-frumos-extra",
+      "nameHu": "Szépvásár",
+      "nameDe": "Targu Frumos",
+      "type": "city"
+    },
+    {
+      "id": "city-buftea-extra",
+      "nameHu": "Buftea",
+      "nameDe": "Buftea",
+      "type": "city"
+    },
+    {
+      "id": "city-otopeni-extra",
+      "nameHu": "Otopeni",
+      "nameDe": "Otopeni",
+      "type": "city"
+    },
+    {
+      "id": "city-voluntari-extra",
+      "nameHu": "Voluntari",
+      "nameDe": "Voluntari",
+      "type": "city"
+    },
+    {
+      "id": "city-sighetu-marmatiei-extra",
+      "nameHu": "Máramarossziget",
+      "nameDe": "Marmaroschsiget",
+      "type": "city"
+    },
+    {
+      "id": "city-viseu-de-sus-extra",
+      "nameHu": "Felsővisó",
+      "nameDe": "Oberwischau",
+      "type": "city"
+    },
+    {
+      "id": "city-borsa-extra",
+      "nameHu": "Borsa",
+      "nameDe": "Borscha",
+      "type": "city"
+    },
+    {
+      "id": "city-orsova-extra",
+      "nameHu": "Orsova",
+      "nameDe": "Orschowa",
+      "type": "city"
+    },
+    {
+      "id": "city-strehaia-extra",
+      "nameHu": "Strehaia",
+      "nameDe": "Strehaia",
+      "type": "city"
+    },
+    {
+      "id": "city-vanju-mare-extra",
+      "nameHu": "Vânju Mare",
+      "nameDe": "Vanju Mare",
+      "type": "city"
+    },
+    {
+      "id": "city-reghin-extra",
+      "nameHu": "Szászrégen",
+      "nameDe": "Sächsisch-Regen",
+      "type": "city"
+    },
+    {
+      "id": "city-ludus-extra",
+      "nameHu": "Marosludas",
+      "nameDe": "Ludas",
+      "type": "city"
+    },
+    {
+      "id": "city-iernut-extra",
+      "nameHu": "Radnót",
+      "nameDe": "Radnuten",
+      "type": "city"
+    },
+    {
+      "id": "city-piatra-neamt-extra",
+      "nameHu": "Karácsonkő",
+      "nameDe": "Kreuzburg",
+      "type": "city"
+    },
+    {
+      "id": "city-roman-extra",
+      "nameHu": "Románvásár",
+      "nameDe": "Roman",
+      "type": "city"
+    },
+    {
+      "id": "city-targu-neamt-extra",
+      "nameHu": "Németvásár",
+      "nameDe": "Targu Neamt",
+      "type": "city"
+    },
+    {
+      "id": "city-caracal-extra",
+      "nameHu": "Caracal",
+      "nameDe": "Caracal",
+      "type": "city"
+    },
+    {
+      "id": "city-corabia-extra",
+      "nameHu": "Corabia",
+      "nameDe": "Corabia",
+      "type": "city"
+    },
+    {
+      "id": "city-scornicesti-extra",
+      "nameHu": "Scornicesti",
+      "nameDe": "Scornicesti",
+      "type": "city"
+    },
+    {
+      "id": "city-campina-extra",
+      "nameHu": "Campina",
+      "nameDe": "Campina",
+      "type": "city"
+    },
+    {
+      "id": "city-breaza-extra",
+      "nameHu": "Breaza",
+      "nameDe": "Breaza",
+      "type": "city"
+    },
+    {
+      "id": "city-sinaia-extra",
+      "nameHu": "Szinaja",
+      "nameDe": "Sinaia",
+      "type": "city"
+    },
+    {
+      "id": "city-carei-extra",
+      "nameHu": "Nagykároly",
+      "nameDe": "Grosskarol",
+      "type": "city"
+    },
+    {
+      "id": "city-negresti-oas-extra",
+      "nameHu": "Avasfelsőfalu",
+      "nameDe": "Negresti-Oas",
+      "type": "city"
+    },
+    {
+      "id": "city-tasnad-extra",
+      "nameHu": "Tasnád",
+      "nameDe": "Tresten",
+      "type": "city"
+    },
+    {
+      "id": "city-simleu-silvaniei-extra",
+      "nameHu": "Szilágysomlyó",
+      "nameDe": "Schomlenmarkt",
+      "type": "city"
+    },
+    {
+      "id": "city-jibou-extra",
+      "nameHu": "Zsibó",
+      "nameDe": "Siben",
+      "type": "city"
+    },
+    {
+      "id": "city-cehu-silvaniei-extra",
+      "nameHu": "Szilágycseh",
+      "nameDe": "Böhmischdorf",
+      "type": "city"
+    },
+    {
+      "id": "city-medias-extra",
+      "nameHu": "Medgyes",
+      "nameDe": "Mediasch",
+      "type": "city"
+    },
+    {
+      "id": "city-cisnadie-extra",
+      "nameHu": "Nagydisznód",
+      "nameDe": "Heltau",
+      "type": "city"
+    },
+    {
+      "id": "city-avrig-extra",
+      "nameHu": "Felek",
+      "nameDe": "Freck",
+      "type": "city"
+    },
+    {
+      "id": "city-falticeni-extra",
+      "nameHu": "Falticsén",
+      "nameDe": "Falticeni",
+      "type": "city"
+    },
+    {
+      "id": "city-radauti-extra",
+      "nameHu": "Radóc",
+      "nameDe": "Radautz",
+      "type": "city"
+    },
+    {
+      "id": "city-campulung-moldovenesc-extra",
+      "nameHu": "Hosszúmező",
+      "nameDe": "Kimpolung",
+      "type": "city"
+    },
+    {
+      "id": "city-rosiorii-de-vede-extra",
+      "nameHu": "Rosiorii de Vede",
+      "nameDe": "Rosiorii de Vede",
+      "type": "city"
+    },
+    {
+      "id": "city-turnu-magurele-extra",
+      "nameHu": "Turnu Măgurele",
+      "nameDe": "Turnu Magurele",
+      "type": "city"
+    },
+    {
+      "id": "city-zimnicea-extra",
+      "nameHu": "Zimnicea",
+      "nameDe": "Simnitz",
+      "type": "city"
+    },
+    {
+      "id": "city-lugoj-extra",
+      "nameHu": "Lugos",
+      "nameDe": "Lugos",
+      "type": "city"
+    },
+    {
+      "id": "city-sannicolau-mare-extra",
+      "nameHu": "Nagyszentmiklós",
+      "nameDe": "Gross-Sankt-Nikolaus",
+      "type": "city"
+    },
+    {
+      "id": "city-jimbolia-extra",
+      "nameHu": "Zsombolya",
+      "nameDe": "Hatzfeld",
+      "type": "city"
+    },
+    {
+      "id": "city-tulcea-extra",
+      "nameHu": "Tulcsa",
+      "nameDe": "Tultsch",
+      "type": "city"
+    },
+    {
+      "id": "city-babadag-extra",
+      "nameHu": "Babadag",
+      "nameDe": "Babadag",
+      "type": "city"
+    },
+    {
+      "id": "city-isaccea-extra",
+      "nameHu": "Iszakcsa",
+      "nameDe": "Isaktscha",
+      "type": "city"
+    },
+    {
+      "id": "city-barlad-extra",
+      "nameHu": "Barlád",
+      "nameDe": "Berlad",
+      "type": "city"
+    },
+    {
+      "id": "city-husi-extra",
+      "nameHu": "Huszváros",
+      "nameDe": "Husi",
+      "type": "city"
+    },
+    {
+      "id": "city-negresti-extra",
+      "nameHu": "Negrești",
+      "nameDe": "Negresti",
+      "type": "city"
+    },
+    {
+      "id": "city-ramnicu-valcea-extra",
+      "nameHu": "Râmnicu Vâlcea",
+      "nameDe": "Königsberg",
+      "type": "city"
+    },
+    {
+      "id": "city-dragasani-extra",
+      "nameHu": "Drăgășani",
+      "nameDe": "Dragasani",
+      "type": "city"
+    },
+    {
+      "id": "city-horezu-extra",
+      "nameHu": "Horezu",
+      "nameDe": "Horezu",
+      "type": "city"
+    },
+    {
+      "id": "city-adjud-extra",
+      "nameHu": "Egyedhalma",
+      "nameDe": "Adjud",
+      "type": "city"
+    },
+    {
+      "id": "city-marasesti-extra",
+      "nameHu": "Marasesti",
+      "nameDe": "Marasesti",
+      "type": "city"
+    },
+    {
+      "id": "city-panciu-extra",
+      "nameHu": "Panciu",
+      "nameDe": "Panciu",
+      "type": "city"
+    }
+  ],
+  "ro2": [
+    {
+      "id": "industry-petrobrazi-extra",
+      "nameHu": "Petrobrazi Finomító",
+      "nameDe": "Raffinerie Petrobrazi",
+      "type": "industry"
+    },
+    {
+      "id": "port-constanta-south-extra",
+      "nameHu": "Konstancai déli kikötő",
+      "nameDe": "Hafen Constanța Süd",
+      "type": "port"
+    },
+    {
+      "id": "industry-dacia-mioveni-extra",
+      "nameHu": "Dacia gyár Mioveni",
+      "nameDe": "Dacia-Werk Mioveni",
+      "type": "industry"
+    },
+    {
+      "id": "industry-continental-timisoara-extra",
+      "nameHu": "Continental Temesvár",
+      "nameDe": "Continental Temeswar",
+      "type": "industry"
+    },
+    {
+      "id": "industry-ford-craiova-extra",
+      "nameHu": "Ford Otosan Craiova",
+      "nameDe": "Ford Otosan Craiova",
+      "type": "industry"
+    },
+    {
+      "id": "industry-liberty-galati-extra",
+      "nameHu": "Liberty Galați acélmű",
+      "nameDe": "Stahlwerk Liberty Galați",
+      "type": "industry"
+    },
+    {
+      "id": "industry-aerostar-bacau-extra",
+      "nameHu": "Aerostar Bákó",
+      "nameDe": "Aerostar Bacău",
+      "type": "industry"
+    },
+    {
+      "id": "industry-autoliv-brasov-extra",
+      "nameHu": "Autoliv Brassó",
+      "nameDe": "Autoliv Kronstadt",
+      "type": "industry"
+    },
+    {
+      "id": "industry-mintia-power-extra",
+      "nameHu": "Mintia erőmű",
+      "nameDe": "Kraftwerk Mintia",
+      "type": "industry"
+    },
+    {
+      "id": "industry-resita-steel-extra",
+      "nameHu": "Resicabányai acélmű",
+      "nameDe": "Stahlwerk Reșița",
+      "type": "industry"
+    },
+    {
+      "id": "industry-rovinari-extra",
+      "nameHu": "Rovinari erőmű",
+      "nameDe": "Kraftwerk Rovinari",
+      "type": "industry"
+    },
+    {
+      "id": "industry-oltchim-vl-extra",
+      "nameHu": "Oltchim Râmnicu Vâlcea",
+      "nameDe": "Oltchim Râmnicu Vâlcea",
+      "type": "industry"
+    },
+    {
+      "id": "industry-tenaris-zalau-extra",
+      "nameHu": "TenarisSilcotub Zilah",
+      "nameDe": "TenarisSilcotub Zalău",
+      "type": "industry"
+    },
+    {
+      "id": "industry-draexlmaier-sm-extra",
+      "nameHu": "Dräxlmaier Szatmárnémeti",
+      "nameDe": "Dräxlmaier Sathmar",
+      "type": "industry"
+    },
+    {
+      "id": "industry-faist-oradea-extra",
+      "nameHu": "Faist Mekatronic Nagyvárad",
+      "nameDe": "Faist Mekatronic Großwardein",
+      "type": "industry"
+    },
+    {
+      "id": "industry-astra-vagoane-arad-extra",
+      "nameHu": "Astra Vagoane Arad",
+      "nameDe": "Astra Vagoane Arad",
+      "type": "industry"
+    },
+    {
+      "id": "industry-star-assembly-sebes-extra",
+      "nameHu": "Star Assembly Szászsebes",
+      "nameDe": "Star Assembly Mühlbach",
+      "type": "industry"
+    },
+    {
+      "id": "industry-continental-sibiu-extra",
+      "nameHu": "Continental Nagyszeben",
+      "nameDe": "Continental Hermannstadt",
+      "type": "industry"
+    },
+    {
+      "id": "industry-bosch-cluj-extra",
+      "nameHu": "Bosch Jucu gyár",
+      "nameDe": "Bosch-Werk Jucu",
+      "type": "industry"
+    },
+    {
+      "id": "industry-azomures-ms-extra",
+      "nameHu": "Azomureș Marosvásárhely",
+      "nameDe": "Azomureș Neumarkt",
+      "type": "industry"
+    },
+    {
+      "id": "industry-leoni-bn-extra",
+      "nameHu": "Leoni Beszterce",
+      "nameDe": "Leoni Bistritz",
+      "type": "industry"
+    },
+    {
+      "id": "industry-egger-sv-extra",
+      "nameHu": "Egger Radóc",
+      "nameDe": "Egger Rădăuți",
+      "type": "industry"
+    },
+    {
+      "id": "industry-rifil-nt-extra",
+      "nameHu": "Rifil Săvinești",
+      "nameDe": "Rifil Săvinești",
+      "type": "industry"
+    },
+    {
+      "id": "industry-delphi-is-extra",
+      "nameHu": "Delphi Jászvásár",
+      "nameDe": "Delphi Jassy",
+      "type": "industry"
+    },
+    {
+      "id": "industry-rulmenti-vs-extra",
+      "nameHu": "Barládi csapágygyár",
+      "nameDe": "Wälzlager Bârlad",
+      "type": "industry"
+    },
+    {
+      "id": "industry-damen-galati-extra",
+      "nameHu": "Damen hajógyár Galac",
+      "nameDe": "Damen Werft Galatz",
+      "type": "industry"
+    },
+    {
+      "id": "industry-vard-braila-extra",
+      "nameHu": "Vard hajógyár Brăila",
+      "nameDe": "Vard Werft Brăila",
+      "type": "industry"
+    },
+    {
+      "id": "industry-vard-tulcea-extra",
+      "nameHu": "Vard hajógyár Tulcsa",
+      "nameDe": "Vard Werft Tulcea",
+      "type": "industry"
+    },
+    {
+      "id": "industry-midia-navodari-extra",
+      "nameHu": "Petromidia Finomító",
+      "nameDe": "Raffinerie Petromidia",
+      "type": "industry"
+    },
+    {
+      "id": "industry-policolor-b-extra",
+      "nameHu": "Policolor Bukarest",
+      "nameDe": "Policolor Bukarest",
+      "type": "industry"
+    },
+    {
+      "id": "industry-pmi-otopeni-extra",
+      "nameHu": "Philip Morris Otopeni",
+      "nameDe": "Philip Morris Otopeni",
+      "type": "industry"
+    },
+    {
+      "id": "industry-arctic-gaesti-extra",
+      "nameHu": "Arctic Găești",
+      "nameDe": "Arctic Găești",
+      "type": "industry"
+    },
+    {
+      "id": "industry-koyo-tr-extra",
+      "nameHu": "Koyo Alexandria",
+      "nameDe": "Koyo Alexandria",
+      "type": "industry"
+    },
+    {
+      "id": "industry-shipyard-gr-extra",
+      "nameHu": "Gyurgyevói hajógyár",
+      "nameDe": "Werft Giurgiu",
+      "type": "industry"
+    },
+    {
+      "id": "industry-tenaris-cl-extra",
+      "nameHu": "Tenaris Călărași",
+      "nameDe": "Tenaris Călărași",
+      "type": "industry"
+    },
+    {
+      "id": "industry-combinat-slobozia-extra",
+      "nameHu": "Sloboziai vegyikombinát",
+      "nameDe": "Chemiewerk Slobozia",
+      "type": "industry"
+    },
+    {
+      "id": "industry-ursus-bz-extra",
+      "nameHu": "Ursus sörgyár Buzău",
+      "nameDe": "Ursus Brauerei Buzău",
+      "type": "industry"
+    },
+    {
+      "id": "industry-pandora-vn-extra",
+      "nameHu": "Pandora Prod Foksány",
+      "nameDe": "Pandora Prod Focșani",
+      "type": "industry"
+    },
+    {
+      "id": "industry-chimcomplex-bc-extra",
+      "nameHu": "Chimcomplex Borzești",
+      "nameDe": "Chimcomplex Borzești",
+      "type": "industry"
+    },
+    {
+      "id": "industry-formens-bt-extra",
+      "nameHu": "Formens Botosán",
+      "nameDe": "Formens Botoșani",
+      "type": "industry"
+    },
+    {
+      "id": "industry-walmark-cv-extra",
+      "nameHu": "Walmark Sepsiszentgyörgy",
+      "nameDe": "Walmark Sankt Georgen",
+      "type": "industry"
+    },
+    {
+      "id": "industry-romaqua-hr-extra",
+      "nameHu": "Romaqua Group Borszék",
+      "nameDe": "Romaqua Group Borsec",
+      "type": "industry"
+    },
+    {
+      "id": "industry-severnav-mh-extra",
+      "nameHu": "Severnav Szörényvár",
+      "nameDe": "Severnav Turnu Severin",
+      "type": "industry"
+    },
+    {
+      "id": "industry-alro-ot-extra",
+      "nameHu": "Alro Slatina",
+      "nameDe": "Alro Slatina",
+      "type": "industry"
+    },
+    {
+      "id": "industry-brazi-power-extra",
+      "nameHu": "Brazi erőmű",
+      "nameDe": "Kraftwerk Brazi",
+      "type": "industry"
+    },
+    {
+      "id": "industry-ploiesti-west-park-extra",
+      "nameHu": "Ploiești West Park",
+      "nameDe": "Ploiești West Park",
+      "type": "industry"
+    },
+    {
+      "id": "industry-emerson-cluj-extra",
+      "nameHu": "Emerson Kolozsvár",
+      "nameDe": "Emerson Klausenburg",
+      "type": "industry"
+    },
+    {
+      "id": "industry-flextronics-tm-extra",
+      "nameHu": "Flex Temesvár",
+      "nameDe": "Flex Temeswar",
+      "type": "industry"
+    },
+    {
+      "id": "industry-imb-b-extra",
+      "nameHu": "Bukaresti ipari park",
+      "nameDe": "Industriepark Bukarest",
+      "type": "industry"
+    },
+    {
+      "id": "industry-aramis-mm-extra",
+      "nameHu": "Aramis Group Nagybánya",
+      "nameDe": "Aramis Gruppe Frauenbach",
+      "type": "industry"
+    },
+    {
+      "id": "animal-habitat-baneasa-zoo-extra",
+      "nameHu": "Bukaresti Állatkert",
+      "nameDe": "Zoo Bukarest",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-libearty-zarnesti-extra",
+      "nameHu": "Zernyesti medverezervátum",
+      "nameDe": "Bärenreservat Zărnești",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-sibiu-zoo-extra",
+      "nameHu": "Nagyszebeni Állatkert",
+      "nameDe": "Zoo Hermannstadt",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-dolphinarium-ct-extra",
+      "nameHu": "Konstancai Delfinárium",
+      "nameDe": "Delfinarium Konstanza",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-oradea-zoo-extra",
+      "nameHu": "Nagyváradi Állatkert",
+      "nameDe": "Zoo Großwardein",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "kid-landmark-adrenalin-park-cj-extra",
+      "nameHu": "Adrenalin Park Kolozsvár",
+      "nameDe": "Adrenalin Park Klausenburg",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "animal-habitat-ms-zoo-extra",
+      "nameHu": "Marosvásárhelyi Állatkert",
+      "nameDe": "Zoo Neumarkt",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-ceala-extra",
+      "nameHu": "Csálai Natúrpark",
+      "nameDe": "Naturpark Ceala",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-tm-zoo-extra",
+      "nameHu": "Temesvári Állatkert",
+      "nameDe": "Zoo Temeswar",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "kid-landmark-dino-parc-bv-extra",
+      "nameHu": "Dino Parc Barcarozsnyó",
+      "nameDe": "Dino Parc Râșnov",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "kid-landmark-edenland-extra",
+      "nameHu": "Edenland Park",
+      "nameDe": "Edenland Park",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "animal-habitat-targoviste-zoo-extra",
+      "nameHu": "Târgoviștei Állatkert",
+      "nameDe": "Zoo Târgoviște",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-pitesti-zoo-extra",
+      "nameHu": "Pitești Állatkert",
+      "nameDe": "Zoo Pitești",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-drobeta-zoo-extra",
+      "nameHu": "Szörényvári Állatkert",
+      "nameDe": "Zoo Severin",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-craiova-zoo-extra",
+      "nameHu": "Craiovai Állatkert",
+      "nameDe": "Zoo Craiova",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "kid-landmark-garboavele-extra",
+      "nameHu": "Gârboavele Kalandpark",
+      "nameDe": "Abenteuerpark Gârboavele",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "animal-habitat-vivarium-bc-extra",
+      "nameHu": "Bákói Vivárium",
+      "nameDe": "Vivarium Bacău",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-iasi-zoo-extra",
+      "nameHu": "Jászvásári Állatkert",
+      "nameDe": "Zoo Jassy",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-bm-zoo-extra",
+      "nameHu": "Nagybányai Állatkert",
+      "nameDe": "Zoo Frauenbach",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "animal-habitat-sm-zoo-extra",
+      "nameHu": "Szatmárnémeti Állatkert",
+      "nameDe": "Zoo Sathmar",
+      "type": "animal-habitat"
+    },
+    {
+      "id": "kid-landmark-nymphaea-bh-extra",
+      "nameHu": "Nymphaea Aquapark",
+      "nameDe": "Nymphaea Wasserpark",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "kid-landmark-aqua-magic-ct-extra",
+      "nameHu": "Aqua Magic Mamaia",
+      "nameDe": "Aqua Magic Mamaia",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "kid-landmark-therme-b-extra",
+      "nameHu": "Bukaresti Termálfürdő",
+      "nameDe": "Therme Bukarest",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "kid-landmark-arka-park-sb-extra",
+      "nameHu": "Arka Park Szebenjuharos",
+      "nameDe": "Arka Park Păltiniș",
+      "type": "kid-landmark"
+    },
+    {
+      "id": "agriculture-ferma-dacilor-extra",
+      "nameHu": "Dák Farm",
+      "nameDe": "Dakische Farm",
+      "type": "agriculture"
+    },
+    {
+      "id": "river-iza-extra",
+      "nameHu": "Iza",
+      "nameDe": "Iza",
+      "type": "river"
+    },
+    {
+      "id": "river-siret-extra",
+      "nameHu": "Szeret",
+      "nameDe": "Siret",
+      "type": "river"
+    },
+    {
+      "id": "river-prut-extra",
+      "nameHu": "Prut",
+      "nameDe": "Pruth",
+      "type": "river"
+    },
+    {
+      "id": "river-bistrita-extra",
+      "nameHu": "Beszterce",
+      "nameDe": "Bistritz",
+      "type": "river"
+    },
+    {
+      "id": "river-trotus-extra",
+      "nameHu": "Tatros",
+      "nameDe": "Trotuș",
+      "type": "river"
+    },
+    {
+      "id": "river-putna-extra",
+      "nameHu": "Putna",
+      "nameDe": "Putna",
+      "type": "river"
+    },
+    {
+      "id": "river-buzau-extra",
+      "nameHu": "Bodza",
+      "nameDe": "Buzău",
+      "type": "river"
+    },
+    {
+      "id": "river-ialomita-extra",
+      "nameHu": "Ialomița",
+      "nameDe": "Ialomița",
+      "type": "river"
+    },
+    {
+      "id": "lake-mostistea-extra",
+      "nameHu": "Mostiștea-tó",
+      "nameDe": "Mostiștea-See",
+      "type": "lake"
+    },
+    {
+      "id": "lake-razim-extra",
+      "nameHu": "Razim-tó",
+      "nameDe": "Razim-See",
+      "type": "lake"
+    },
+    {
+      "id": "lake-sinoe-extra",
+      "nameHu": "Sinoe-tó",
+      "nameDe": "Sinoe-See",
+      "type": "lake"
+    },
+    {
+      "id": "lake-techirghiol-extra",
+      "nameHu": "Tekirgöl-tó",
+      "nameDe": "Techirghiol-See",
+      "type": "lake"
+    },
+    {
+      "id": "forest-letea-extra",
+      "nameHu": "Letea-erdő",
+      "nameDe": "Letea-Wald",
+      "type": "forest"
+    },
+    {
+      "id": "mountain-semenic-extra",
+      "nameHu": "Szemenik-hegység",
+      "nameDe": "Semenic-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "mountain-poiana-rusca-extra",
+      "nameHu": "Polyána-Ruszka-hegység",
+      "nameDe": "Poiana-Ruscă-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "mountain-trascau-extra",
+      "nameHu": "Torockói-hegység",
+      "nameDe": "Trascău-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "river-somes-mic-extra",
+      "nameHu": "Kis-Szamos",
+      "nameDe": "Kleiner Somesch",
+      "type": "river"
+    },
+    {
+      "id": "river-somes-mare-extra",
+      "nameHu": "Nagy-Szamos",
+      "nameDe": "Großer Somesch",
+      "type": "river"
+    },
+    {
+      "id": "mountain-meses-extra",
+      "nameHu": "Meszes-hegység",
+      "nameDe": "Meseș-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "river-crisul-repede-extra",
+      "nameHu": "Sebes-Körös",
+      "nameDe": "Schnelle Kreisch",
+      "type": "river"
+    },
+    {
+      "id": "mountain-zarand-extra",
+      "nameHu": "Zarándi-hegység",
+      "nameDe": "Zărand-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "river-bega-extra",
+      "nameHu": "Béga",
+      "nameDe": "Bega",
+      "type": "river"
+    },
+    {
+      "id": "mountain-mehedinti-extra",
+      "nameHu": "Mehedinți-hegység",
+      "nameDe": "Mehedinți-Gebirge",
+      "type": "mountain"
+    },
+    {
+      "id": "river-olt-extra",
+      "nameHu": "Olt",
+      "nameDe": "Alt",
+      "type": "river"
+    },
+    {
+      "id": "river-vedea-extra",
+      "nameHu": "Vedea",
+      "nameDe": "Vedea",
+      "type": "river"
+    }
+  ]
+}
