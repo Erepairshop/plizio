@@ -97,6 +97,9 @@ import { sloveniaMap, sloveniaViewBox, projectCoordsSI } from "./slovenia.svg";
 import { sloveniaAllPoi } from "../data/sloveniaPoi";
 import { sanmarinoMap, sanmarinoViewBox, projectCoordsSM } from "./sanmarino.svg";
 import { sanmarinoAllPoi } from "../data/sanmarinoPoi";
+import { poiExtraSanmarinoCities } from "../data/poiExtraSanmarinoCities";
+import { poiExtraSanmarinoHistory } from "../data/poiExtraSanmarinoHistory";
+import { poiExtraSanmarinoOther } from "../data/poiExtraSanmarinoOther";
 import { croatiaMap, croatiaViewBox, projectCoordsHR } from "./croatia.svg";
 import { croatiaAllPoi } from "../data/croatiaPoi";
 import { bulgariaMap, bulgariaViewBox, projectCoordsBG } from "./bulgaria.svg";
@@ -137,6 +140,7 @@ import { andorraMap, andorraViewBox, projectCoordsAD } from "./andorra.svg";
 import { andorraAllPoi } from "../data/andorraPoi";
 import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
+import { poiExtraMonacoCities } from "../data/poiExtraMonacoCities";
 import { vaticanMap, vaticanViewBox, projectCoordsVA } from "./vatican.svg";
 import { vaticanPois } from "../data/vaticanPoi";
 // ─── North America ────────────────────────────────────────────────────────
@@ -483,7 +487,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: sanmarinoMap as unknown as BundeslandPath[],
         viewBox: sanmarinoViewBox,
         projectCoords: projectCoordsSM,
-        pois: sanmarinoAllPoi,
+        pois: [...sanmarinoAllPoi, ...poiExtraSanmarinoCities, ...poiExtraSanmarinoHistory, ...poiExtraSanmarinoOther],
         subregions: {},
       };
     case "hr":
@@ -519,7 +523,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: lithuaniaMap as unknown as BundeslandPath[],
         viewBox: lithuaniaViewBox,
         projectCoords: projectCoordsLT,
-        pois: lithuaniaAllPoi,
+        pois: lithuaniaAllPoi as POI[],
         subregions: {},
       };
     case "lv":
@@ -582,7 +586,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: monacoMap as unknown as BundeslandPath[],
         viewBox: monacoViewBox,
         projectCoords: projectCoordsMC,
-        pois: monacoAllPoi,
+        pois: [...monacoAllPoi, ...poiExtraMonacoCities],
         subregions: {},
       };
     // ─── North America ────────────────────────────────────────────────
