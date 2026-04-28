@@ -6,6 +6,7 @@ import type { POI } from "@/lib/visualLab/data/poi";
 
 import { albaniaAllPoi } from "@/lib/visualLab/data/albaniaPoi";
 import { andorraAllPoi } from "@/lib/visualLab/data/andorraPoi";
+import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
 import { austriaAllPoi } from "@/lib/visualLab/data/austriaPoi";
 import { poiExtraAustriaCities } from "./poiExtraAustriaCities";
 import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
@@ -98,6 +99,7 @@ import { poiExtraRo2 } from "./poiExtraRo2";
 export const ALL_COUNTRY_POIS = ([
   ...albaniaAllPoi,
   ...andorraAllPoi,
+  ...poiExtraAndorraCities,
   ...austriaAllPoi,
   ...poiExtraAustriaCities,
   ...poiExtraAustriaHistorical,

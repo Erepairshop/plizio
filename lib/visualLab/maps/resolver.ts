@@ -138,6 +138,7 @@ import { ukrainePois } from "../data/ukrainePoi";
 import { belarusAllPoi } from "../data/belarusPoi";
 import { andorraMap, andorraViewBox, projectCoordsAD } from "./andorra.svg";
 import { andorraAllPoi } from "../data/andorraPoi";
+import { poiExtraAndorraCities } from "../data/poiExtraAndorraCities";
 import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
 import { poiExtraMonacoCities } from "../data/poiExtraMonacoCities";
@@ -577,7 +578,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: andorraMap as unknown as BundeslandPath[],
         viewBox: andorraViewBox,
         projectCoords: projectCoordsAD,
-        pois: andorraAllPoi,
+        pois: [...andorraAllPoi, ...poiExtraAndorraCities],
         subregions: {},
       };
     case "mc":
