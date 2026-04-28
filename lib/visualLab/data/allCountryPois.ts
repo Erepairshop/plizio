@@ -49,10 +49,16 @@ import { latviaAllPoi } from "@/lib/visualLab/data/latviaPoi";
 import { liechtensteinAllPoi } from "@/lib/visualLab/data/liechtensteinPoi";
 import { lithuaniaAllPoi } from "@/lib/visualLab/data/lithuaniaPoi";
 import { luxembourgAllPoi } from "@/lib/visualLab/data/luxembourgPoi";
+import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
+import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
+import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
 import { mexicoAllPoi } from "@/lib/visualLab/data/mexicoPoi";
 import { moldovaAllPoi } from "@/lib/visualLab/data/moldovaPoi";
 import { monacoAllPoi } from "@/lib/visualLab/data/monacoPoi";
 import { montenegroAllPoi } from "@/lib/visualLab/data/montenegroPoi";
+import { montenegroCitiesExtra } from "./poiExtraMontenegroCities";
+import { montenegroHistoryExtra } from "./poiExtraMontenegroHistory";
+import { montenegroOtherExtra } from "./poiExtraMontenegroOther";
 import { netherlandsAllPoi } from "@/lib/visualLab/data/netherlandsPoi";
 import { poiExtraNetherlandsCities } from "./poiExtraNetherlandsCities";
 import { nicaraguaAllPoi } from "@/lib/visualLab/data/nicaraguaPoi";
@@ -63,8 +69,15 @@ import { poiExtraPolandCities } from "./poiExtraPolandCities";
 import { portugalAllPoi } from "@/lib/visualLab/data/portugalPoi";
 import { romaniaAllPois } from "@/lib/visualLab/data/romaniaPoi";
 import { sanmarinoAllPoi } from "@/lib/visualLab/data/sanmarinoPoi";
+import { poiExtraSanmarinoCities } from "./poiExtraSanmarinoCities";
+import { poiExtraSanmarinoHistory } from "./poiExtraSanmarinoHistory";
+import { poiExtraSanmarinoOther } from "./poiExtraSanmarinoOther";
+
 import { serbiaAllPoi } from "@/lib/visualLab/data/serbiaPoi";
 import { slovakiaAllPoi } from "@/lib/visualLab/data/slovakiaPoi";
+import { poiExtraSlovakiaCities } from "./poiExtraSlovakiaCities";
+import { poiExtraSlovakiaHistory } from "./poiExtraSlovakiaHistory";
+import { poiExtraSlovakiaOther } from "./poiExtraSlovakiaOther";
 import { sloveniaAllPoi } from "@/lib/visualLab/data/sloveniaPoi";
 import { spainAllPoi } from "@/lib/visualLab/data/spainPoi";
 import { swedenAllPoi } from "@/lib/visualLab/data/swedenPoi";
@@ -72,6 +85,8 @@ import { switzerlandAllPoi } from "@/lib/visualLab/data/switzerlandPoi";
 import { trinidadAllPoi } from "@/lib/visualLab/data/trinidadPoi";
 import { unitedkingdomAllPoi } from "@/lib/visualLab/data/unitedkingdomPoi";
 import { usaAllPoi } from "@/lib/visualLab/data/usaPoi";
+import { vaticanAll } from "@/lib/visualLab/data/vaticanPoi";
+import { poiExtraVaticanOther } from "./poiExtraVaticanOther";
 import { poiExtraHu1 } from "./poiExtraHu1";
 import { poiExtraHu2 } from "./poiExtraHu2";
 import { poiExtraHu3 } from "./poiExtraHu3";
@@ -127,10 +142,16 @@ export const ALL_COUNTRY_POIS = ([
   ...liechtensteinAllPoi,
   ...lithuaniaAllPoi,
   ...luxembourgAllPoi,
+  ...luxembourgExtraCities,
+  ...luxembourgExtraHistory,
+  ...luxembourgExtraOther,
   ...mexicoAllPoi,
   ...moldovaAllPoi,
   ...monacoAllPoi,
   ...montenegroAllPoi,
+  ...montenegroCitiesExtra,
+  ...montenegroHistoryExtra,
+  ...montenegroOtherExtra,
   ...netherlandsAllPoi,
   ...poiExtraNetherlandsCities,
   ...nicaraguaAllPoi,
@@ -143,8 +164,14 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraRo1,
   ...poiExtraRo2,
   ...sanmarinoAllPoi,
+  ...poiExtraSanmarinoCities,
+  ...poiExtraSanmarinoHistory,
+  ...poiExtraSanmarinoOther,
   ...serbiaAllPoi,
   ...slovakiaAllPoi,
+  ...poiExtraSlovakiaCities,
+  ...poiExtraSlovakiaHistory,
+  ...poiExtraSlovakiaOther,
   ...sloveniaAllPoi,
   ...spainAllPoi,
   ...swedenAllPoi,
@@ -152,6 +179,8 @@ export const ALL_COUNTRY_POIS = ([
   ...trinidadAllPoi,
   ...unitedkingdomAllPoi,
   ...usaAllPoi,
+  ...vaticanAll,
+  ...poiExtraVaticanOther,
 ] as POI[]);
 
 // DE POI extensions (batches 1-4b). Separate from main DE pois but need to be in sitemap.
