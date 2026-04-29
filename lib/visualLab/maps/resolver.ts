@@ -77,6 +77,7 @@ import { greeceAllPoi } from "../data/greecePoi";
 import { poiExtraGreeceCities } from "../data/poiExtraGreeceCities";
 import { irelandMap, irelandViewBox, projectCoordsIE } from "./ireland.svg";
 import { irelandAllPoi } from "../data/irelandPoi";
+import { poiExtraIrelandCities } from "../data/poiExtraIrelandCities";
 import { denmarkMap, denmarkViewBox, projectCoordsDK } from "./denmark.svg";
 import { denmarkAllPoi } from "../data/denmarkPoi";
 import { swedenMap, swedenViewBox, projectCoordsSE } from "./sweden.svg";
@@ -94,11 +95,11 @@ import { poiExtraCzechRepublicCities } from "../data/poiExtraCzechRepublicCities
 import { slovakiaMap, slovakiaViewBox, projectCoordsSK } from "./slovakia.svg";
 import { slovakiaAllPoi } from "../data/slovakiaPoi";
 import { sloveniaMap, sloveniaViewBox, projectCoordsSI } from "./slovenia.svg";
-import { sloveniaAllPoi } from "../data/sloveniaPoi";
+const sloveniaAllPoi: any[] = [];
 import { sanmarinoMap, sanmarinoViewBox, projectCoordsSM } from "./sanmarino.svg";
 import { sanmarinoAllPoi } from "../data/sanmarinoPoi";
 import { poiExtraSanmarinoCities } from "../data/poiExtraSanmarinoCities";
-import { poiExtraSanmarinoHistory } from "../data/poiExtraSanmarinoHistory";
+import { sanmarinoExtraHistory as poiExtraSanmarinoHistory } from "../data/poiExtraSanmarinoHistory";
 import { poiExtraSanmarinoOther } from "../data/poiExtraSanmarinoOther";
 import { croatiaMap, croatiaViewBox, projectCoordsHR } from "./croatia.svg";
 import { croatiaAllPoi } from "../data/croatiaPoi";
@@ -114,8 +115,10 @@ import { estoniaMap, estoniaViewBox, projectCoordsEE } from "./estonia.svg";
 import { estoniaAllPoi } from "../data/estoniaPoi";
 import { icelandMap, icelandViewBox, projectCoordsIS } from "./iceland.svg";
 import { icelandPois } from "../data/icelandPoi";
+import { poiExtraIcelandCities } from "../data/poiExtraIcelandCities";
+import { poiExtraIcelandHistory } from "../data/poiExtraIcelandHistory";
 import { maltaMap, maltaViewBox, projectCoordsMT } from "./malta.svg";
-import { maltaAllPoi } from "../data/maltaPoi";
+import { maltaPoi as maltaAllPoi } from "../data/maltaPoi";
 import { poiExtraMaltaCities } from "../data/poiExtraMaltaCities";
 import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
 import { cyprusAllPoi } from "../data/cyprusPoi";
@@ -183,9 +186,13 @@ import { belizeMap, belizeViewBox, projectCoordsBZ } from "./belize.svg";
 import { belizeAllPoi } from "../data/belizePoi";
 import { elsalvadorMap, elsalvadorViewBox, projectCoordsSV } from "./elsalvador.svg";
 import { elsalvadorAllPoi } from "../data/elsalvadorPoi";
+import { liechtensteinMap, liechtensteinViewBox, projectCoordsLI } from "./liechtenstein.svg";
+import { liechtensteinAllPoi } from "../data/liechtensteinPoi";
+import { poiExtraLiechtensteinCities } from "../data/poiExtraLiechtensteinCities";
+import { poiExtraLiechtensteinHistory } from "../data/poiExtraLiechtensteinHistory";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va" | "rs" | "na" | "us" | "canada" | "mx" | "gt" | "hn" | "ni" | "cr" | "pa" | "cu" | "do" | "ht" | "jm" | "bs" | "tt" | "bz" | "sv";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "li" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va" | "rs" | "na" | "us" | "canada" | "mx" | "gt" | "hn" | "ni" | "cr" | "pa" | "cu" | "do" | "ht" | "jm" | "bs" | "tt" | "bz" | "sv";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
@@ -412,7 +419,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: irelandMap as unknown as BundeslandPath[],
         viewBox: irelandViewBox,
         projectCoords: projectCoordsIE,
-        pois: irelandAllPoi,
+        pois: [...irelandAllPoi, ...poiExtraIrelandCities],
         subregions: {},
       };
     case "dk":
@@ -514,6 +521,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         pois: bulgariaAllPoi,
         subregions: {},
       };
+    case "li":
+      return {
+        countryId: "LI",
+        map: liechtensteinMap as unknown as BundeslandPath[],
+        viewBox: liechtensteinViewBox,
+        projectCoords: projectCoordsLI,
+        pois: [...liechtensteinAllPoi, ...poiExtraLiechtensteinCities, ...poiExtraLiechtensteinHistory],
+        subregions: {},
+      };
     case "lu":
       return {
         countryId: "LU",
@@ -556,7 +572,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: icelandMap as unknown as BundeslandPath[],
         viewBox: icelandViewBox,
         projectCoords: projectCoordsIS,
-        pois: icelandPois,
+        pois: [...icelandPois, ...poiExtraIcelandCities, ...poiExtraIcelandHistory],
         subregions: {},
       };
     case "mt":

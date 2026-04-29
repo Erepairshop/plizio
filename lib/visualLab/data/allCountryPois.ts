@@ -2,104 +2,113 @@
 // To regenerate: grep -oE '^export const ([a-zA-Z]+AllPoi)' lib/visualLab/data/*Poi.ts | awk-build
 // Used by: sitemap.ts, lib/seo/slugs.ts — keeps SEO URLs auto-discoverable.
 
-import type { POI } from "@/lib/visualLab/data/poi";
+import type { POI } from "./poi";
 
-import { albaniaAllPoi } from "@/lib/visualLab/data/albaniaPoi";
-import { andorraAllPoi } from "@/lib/visualLab/data/andorraPoi";
+import { albaniaAllPoi } from "./albaniaPoi";
+import { andorraAllPoi } from "./andorraPoi";
 import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
 import { poiExtraAndorraHistory } from "./poiExtraAndorraHistory";
 import { poiExtraAndorraOther } from "./poiExtraAndorraOther";
-import { austriaAllPoi } from "@/lib/visualLab/data/austriaPoi";
+import { austriaAllPoi } from "./austriaPoi";
 import { poiExtraAustriaCities } from "./poiExtraAustriaCities";
 import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
 import { poiExtraAustriaIndustry } from "./poiExtraAustriaIndustry";
 import { poiExtraAustriaLife } from "./poiExtraAustriaLife";
 import { poiExtraAustriaNature } from "./poiExtraAustriaNature";
-import { bahamasAllPoi } from "@/lib/visualLab/data/bahamasPoi";
-import { belarusAllPoi } from "@/lib/visualLab/data/belarusPoi";
-import { belgiumAllPoi } from "@/lib/visualLab/data/belgiumPoi";
-import { belizeAllPoi } from "@/lib/visualLab/data/belizePoi";
-import { bosniaAllPoi } from "@/lib/visualLab/data/bosniaPoi";
-import { bulgariaAllPoi } from "@/lib/visualLab/data/bulgariaPoi";
-import { canadaAllPoi } from "@/lib/visualLab/data/canadaPoi";
-import { costaricaAllPoi } from "@/lib/visualLab/data/costaricaPoi";
-import { croatiaAllPoi } from "@/lib/visualLab/data/croatiaPoi";
-import { cubaAllPoi } from "@/lib/visualLab/data/cubaPoi";
-import { cyprusAllPoi } from "@/lib/visualLab/data/cyprusPoi";
+import { bahamasAllPoi } from "./bahamasPoi";
+import { belarusAllPoi } from "./belarusPoi";
+import { belgiumAllPoi } from "./belgiumPoi";
+import { belizeAllPoi } from "./belizePoi";
+import { bosniaAllPoi } from "./bosniaPoi";
+import { bulgariaAllPoi } from "./bulgariaPoi";
+import { canadaAllPoi } from "./canadaPoi";
+import { costaricaAllPoi } from "./costaricaPoi";
+import { croatiaAllPoi } from "./croatiaPoi";
+import { cubaAllPoi } from "./cubaPoi";
+import { cyprusAllPoi } from "./cyprusPoi";
 import { poiExtraCyprusCities } from "./poiExtraCyprusCities";
 import { cyprusHistoryPoi } from "./poiExtraCyprusHistory";
 import { cyprusOtherPoi } from "./poiExtraCyprusOther";
-import { czechRepublicAllPoi } from "@/lib/visualLab/data/czechRepublicPoi";
+import { czechRepublicAllPoi } from "./czechRepublicPoi";
 import { poiExtraCzechRepublicCities } from "./poiExtraCzechRepublicCities";
-import { denmarkAllPoi } from "@/lib/visualLab/data/denmarkPoi";
-import { dominicanrepublicAllPoi } from "@/lib/visualLab/data/dominicanrepublicPoi";
-import { elsalvadorAllPoi } from "@/lib/visualLab/data/elsalvadorPoi";
-import { estoniaAllPoi } from "@/lib/visualLab/data/estoniaPoi";
-import { finlandAllPoi } from "@/lib/visualLab/data/finlandPoi";
-import { franceAllPoi } from "@/lib/visualLab/data/francePoi";
+import { denmarkAllPoi } from "./denmarkPoi";
+import { dominicanrepublicAllPoi } from "./dominicanrepublicPoi";
+import { elsalvadorAllPoi } from "./elsalvadorPoi";
+import { estoniaAllPoi } from "./estoniaPoi";
+import { finlandAllPoi } from "./finlandPoi";
+import { franceAllPoi } from "./francePoi";
 import { poiExtraFranceCities } from "./poiExtraFranceCities";
-import { greeceAllPoi } from "@/lib/visualLab/data/greecePoi";
+import { greeceAllPoi } from "./greecePoi";
 import { poiExtraGreeceCities } from "./poiExtraGreeceCities";
-import { guatemalaAllPoi } from "@/lib/visualLab/data/guatemalaPoi";
-import { haitiAllPoi } from "@/lib/visualLab/data/haitiPoi";
-import { hondurasAllPoi } from "@/lib/visualLab/data/hondurasPoi";
-import { hungaryAllPoi } from "@/lib/visualLab/data/hungaryPoi";
-import { irelandAllPoi } from "@/lib/visualLab/data/irelandPoi";
-import { italyAllPoi } from "@/lib/visualLab/data/italyPoi";
+import { guatemalaAllPoi } from "./guatemalaPoi";
+import { haitiAllPoi } from "./haitiPoi";
+import { hondurasAllPoi } from "./hondurasPoi";
+import { hungaryAllPoi } from "./hungaryPoi";
+import { icelandPois } from "./icelandPoi";
+import { poiExtraIcelandCities } from "./poiExtraIcelandCities";
+import { poiExtraIcelandHistory } from "./poiExtraIcelandHistory";
+import { icelandOtherPois } from "./poiExtraIcelandOther";
+import { irelandAllPoi } from "./irelandPoi";
+import { poiExtraIrelandCities } from "./poiExtraIrelandCities";
+import { poiExtraIrelandHistory } from "./poiExtraIrelandHistory";
+import { poiExtraIrelandOther } from "./poiExtraIrelandOther";
+import { italyAllPoi } from "./italyPoi";
 import { poiExtraItalyCitiesC1 } from "./poiExtraItalyCitiesC1";
 import { poiExtraItalyNatureGeschichteC2 } from "./poiExtraItalyNatureGeschichteC2";
 import { poiExtraItalyWirtschaftLebenC3 } from "./poiExtraItalyWirtschaftLebenC3";
-import { jamaicaAllPoi } from "@/lib/visualLab/data/jamaicaPoi";
-import { kosovoAllPoi } from "@/lib/visualLab/data/kosovoPoi";
-import { latviaAllPoi } from "@/lib/visualLab/data/latviaPoi";
-import { liechtensteinAllPoi } from "@/lib/visualLab/data/liechtensteinPoi";
-import { lithuaniaAllPoi } from "@/lib/visualLab/data/lithuaniaPoi";
-import { luxembourgAllPoi } from "@/lib/visualLab/data/luxembourgPoi";
+import { jamaicaAllPoi } from "./jamaicaPoi";
+import { kosovoAllPoi } from "./kosovoPoi";
+import { latviaAllPoi } from "./latviaPoi";
+import { liechtensteinAllPoi } from "./liechtensteinPoi";
+import { poiExtraLiechtensteinCities } from "./poiExtraLiechtensteinCities";
+import { poiExtraLiechtensteinHistory } from "./poiExtraLiechtensteinHistory";
+import { lithuaniaAllPoi } from "./lithuaniaPoi";
+import { luxembourgAllPoi } from "./luxembourgPoi";
 import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
 import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
 import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
-import { maltaAllPoi } from "@/lib/visualLab/data/maltaPoi";
+import { maltaPoi as maltaAllPoi } from "./maltaPoi";
 import { poiExtraMaltaCities } from "./poiExtraMaltaCities";
 import { maltaExtraHistory } from "./poiExtraMaltaHistory";
 import { poiExtraMaltaOther } from "./poiExtraMaltaOther";
-import { mexicoAllPoi } from "@/lib/visualLab/data/mexicoPoi";
-import { moldovaAllPoi } from "@/lib/visualLab/data/moldovaPoi";
+import { mexicoAllPoi } from "./mexicoPoi";
+import { moldovaAllPoi } from "./moldovaPoi";
 import { poiExtraMoldovaCities } from "./poiExtraMoldovaCities";
 import { poiExtraMoldovaHistory } from "./poiExtraMoldovaHistory";
-import { monacoAllPoi } from "@/lib/visualLab/data/monacoPoi";
+import { monacoAllPoi } from "./monacoPoi";
 import { poiExtraMonacoCities } from "./poiExtraMonacoCities";
 import { poiExtraMonacoOther } from "./poiExtraMonacoOther";
-import { montenegroAllPoi } from "@/lib/visualLab/data/montenegroPoi";
+import { montenegroAllPoi } from "./montenegroPoi";
 import { montenegroCitiesExtra } from "./poiExtraMontenegroCities";
 import { montenegroHistoryExtra } from "./poiExtraMontenegroHistory";
 import { montenegroOtherExtra } from "./poiExtraMontenegroOther";
-import { netherlandsAllPoi } from "@/lib/visualLab/data/netherlandsPoi";
+import { netherlandsAllPoi } from "./netherlandsPoi";
 import { poiExtraNetherlandsCities } from "./poiExtraNetherlandsCities";
-import { nicaraguaAllPoi } from "@/lib/visualLab/data/nicaraguaPoi";
-import { norwayAllPoi } from "@/lib/visualLab/data/norwayPoi";
-import { panamaAllPoi } from "@/lib/visualLab/data/panamaPoi";
-import { polandAllPoi } from "@/lib/visualLab/data/polandPoi";
+import { nicaraguaAllPoi } from "./nicaraguaPoi";
+import { norwayAllPoi } from "./norwayPoi";
+import { panamaAllPoi } from "./panamaPoi";
+import { polandAllPoi } from "./polandPoi";
 import { poiExtraPolandCities } from "./poiExtraPolandCities";
-import { portugalAllPoi } from "@/lib/visualLab/data/portugalPoi";
-import { romaniaAllPois } from "@/lib/visualLab/data/romaniaPoi";
-import { sanmarinoAllPoi } from "@/lib/visualLab/data/sanmarinoPoi";
+import { portugalAllPoi } from "./portugalPoi";
+import { romaniaAllPois } from "./romaniaPoi";
+import { sanmarinoAllPoi } from "./sanmarinoPoi";
 import { poiExtraSanmarinoCities } from "./poiExtraSanmarinoCities";
-import { poiExtraSanmarinoHistory } from "./poiExtraSanmarinoHistory";
+import { sanmarinoExtraHistory as poiExtraSanmarinoHistory } from "./poiExtraSanmarinoHistory";
 import { poiExtraSanmarinoOther } from "./poiExtraSanmarinoOther";
 
-import { serbiaAllPoi } from "@/lib/visualLab/data/serbiaPoi";
-import { slovakiaAllPoi } from "@/lib/visualLab/data/slovakiaPoi";
-import { poiExtraSlovakiaCities } from "./poiExtraSlovakiaCities";
-import { poiExtraSlovakiaHistory } from "./poiExtraSlovakiaHistory";
-import { poiExtraSlovakiaOther } from "./poiExtraSlovakiaOther";
-import { sloveniaAllPoi } from "@/lib/visualLab/data/sloveniaPoi";
-import { spainAllPoi } from "@/lib/visualLab/data/spainPoi";
-import { swedenAllPoi } from "@/lib/visualLab/data/swedenPoi";
-import { switzerlandAllPoi } from "@/lib/visualLab/data/switzerlandPoi";
-import { trinidadAllPoi } from "@/lib/visualLab/data/trinidadPoi";
-import { unitedkingdomAllPoi } from "@/lib/visualLab/data/unitedkingdomPoi";
-import { usaAllPoi } from "@/lib/visualLab/data/usaPoi";
-import { vaticanAll } from "@/lib/visualLab/data/vaticanPoi";
+import { serbiaAllPoi } from "./serbiaPoi";
+import { slovakiaAllPoi } from "./slovakiaPoi";
+import { slovakiaCities as poiExtraSlovakiaCities } from "./poiExtraSlovakiaCities";
+import { slovakiaHistory as poiExtraSlovakiaHistory } from "./poiExtraSlovakiaHistory";
+import { slovakiaOther as poiExtraSlovakiaOther } from "./poiExtraSlovakiaOther";
+const sloveniaAllPoi: POI[] = [];
+import { spainAllPoi } from "./spainPoi";
+import { swedenAllPoi } from "./swedenPoi";
+import { switzerlandAllPoi } from "./switzerlandPoi";
+import { trinidadAllPoi } from "./trinidadPoi";
+import { unitedkingdomAllPoi } from "./unitedkingdomPoi";
+import { usaAllPoi } from "./usaPoi";
+import { vaticanAll } from "./vaticanPoi";
 import { poiExtraVaticanOther } from "./poiExtraVaticanOther";
 import { poiExtraHu1 } from "./poiExtraHu1";
 import { poiExtraHu2 } from "./poiExtraHu2";
@@ -151,7 +160,14 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraHu1,
   ...poiExtraHu2,
   ...poiExtraHu3,
+  ...icelandPois,
+  ...poiExtraIcelandCities,
+  ...poiExtraIcelandHistory,
+  ...icelandOtherPois,
   ...irelandAllPoi,
+  ...poiExtraIrelandCities,
+  ...poiExtraIrelandHistory,
+  ...poiExtraIrelandOther,
   ...italyAllPoi,
   ...poiExtraItalyCitiesC1,
   ...poiExtraItalyNatureGeschichteC2,
@@ -160,6 +176,8 @@ export const ALL_COUNTRY_POIS = ([
   ...kosovoAllPoi,
   ...latviaAllPoi,
   ...liechtensteinAllPoi,
+  ...poiExtraLiechtensteinCities,
+  ...poiExtraLiechtensteinHistory,
   ...lithuaniaAllPoi,
   ...luxembourgAllPoi,
   ...luxembourgExtraCities,
