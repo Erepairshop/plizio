@@ -8,6 +8,7 @@ import { albaniaAllPoi } from "@/lib/visualLab/data/albaniaPoi";
 import { andorraAllPoi } from "@/lib/visualLab/data/andorraPoi";
 import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
 import { poiExtraAndorraHistory } from "./poiExtraAndorraHistory";
+import { poiExtraAndorraOther } from "./poiExtraAndorraOther";
 import { austriaAllPoi } from "@/lib/visualLab/data/austriaPoi";
 import { poiExtraAustriaCities } from "./poiExtraAustriaCities";
 import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
@@ -25,6 +26,8 @@ import { costaricaAllPoi } from "@/lib/visualLab/data/costaricaPoi";
 import { croatiaAllPoi } from "@/lib/visualLab/data/croatiaPoi";
 import { cubaAllPoi } from "@/lib/visualLab/data/cubaPoi";
 import { cyprusAllPoi } from "@/lib/visualLab/data/cyprusPoi";
+import { poiExtraCyprusCities } from "./poiExtraCyprusCities";
+import { cyprusHistoryPoi } from "./poiExtraCyprusHistory";
 import { czechRepublicAllPoi } from "@/lib/visualLab/data/czechRepublicPoi";
 import { poiExtraCzechRepublicCities } from "./poiExtraCzechRepublicCities";
 import { denmarkAllPoi } from "@/lib/visualLab/data/denmarkPoi";
@@ -102,6 +105,7 @@ export const ALL_COUNTRY_POIS = ([
   ...andorraAllPoi,
   ...poiExtraAndorraCities,
   ...poiExtraAndorraHistory,
+  ...poiExtraAndorraOther,
   ...austriaAllPoi,
   ...poiExtraAustriaCities,
   ...poiExtraAustriaHistorical,
@@ -119,6 +123,8 @@ export const ALL_COUNTRY_POIS = ([
   ...croatiaAllPoi,
   ...cubaAllPoi,
   ...cyprusAllPoi,
+  ...poiExtraCyprusCities,
+  ...cyprusHistoryPoi,
   ...czechRepublicAllPoi,
   ...poiExtraCzechRepublicCities,
   ...denmarkAllPoi,

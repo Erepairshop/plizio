@@ -118,6 +118,7 @@ import { maltaMap, maltaViewBox, projectCoordsMT } from "./malta.svg";
 import { maltaPoi } from "../data/maltaPoi";
 import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
 import { cyprusAllPoi } from "../data/cyprusPoi";
+import { poiExtraCyprusCities } from "../data/poiExtraCyprusCities";
 import { albaniaMap, albaniaViewBox, projectCoordsAL } from "./albania.svg";
 import { albaniaAllPoi } from "../data/albaniaPoi";
 import { serbiaMap, serbiaViewBox, projectCoordsRS } from "./serbia.svg";
@@ -570,7 +571,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: cyprusMap as unknown as BundeslandPath[],
         viewBox: cyprusViewBox,
         projectCoords: projectCoordsCY,
-        pois: cyprusAllPoi,
+        pois: [...cyprusAllPoi, ...poiExtraCyprusCities],
         subregions: {},
       };
     case "ad":

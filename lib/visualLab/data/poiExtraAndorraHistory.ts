@@ -1,844 +1,1513 @@
-import { POI } from './poi';
+
+import { POI } from "./poi";
 
 export const poiExtraAndorraHistory: POI[] = [
+  // Canillo Parish
   {
-    id: 'historical-sant-joan-de-caselles-extra',
-    type: 'historical',
-    parent: 'AD-02', // Canillo
-    coords: [1.5836, 42.5667],
+    id: "historical-esglesia-de-sant-miquel-de-prats-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.5975, 42.5714],
     name: {
-      de: 'Kirche Sant Joan de Caselles',
-      hu: 'Sant Joan de Caselles templom',
-      ro: 'Biserica Sant Joan de Caselles',
-      en: 'Sant Joan de Caselles Church',
+      de: "Kirche Sant Miquel de Prats",
+      hu: "Sant Miquel de Prats templom",
+      ro: "Biserica Sant Miquel de Prats",
+      en: "Church of Sant Miquel de Prats"
     },
     description: {
-      de: 'Eine romanische Kirche aus dem 11.-12. Jahrhundert, bekannt für ihren Glockenturm und die gut erhaltenen Fresken.',
-      hu: 'Egy 11-12. századi román stílusú templom, amely harangtornyáról és jól megőrzött freskóiról ismert.',
-      ro: 'O biserică romanică din secolele XI-XII, renumită pentru clopotnița sa și frescele bine conservate.',
-      en: 'A Romanesque church from the 11th-12th century, known for its bell tower and well-preserved frescoes.',
+      de: "Eine romanische Kirche im Dorf Prats, bekannt für ihre einfache Architektur und historischen Wandmalereien.",
+      hu: "Egy román stílusú templom Prats faluban, amely egyszerű építészetéről és történelmi falfestményeiről ismert.",
+      ro: "O biserică romanică în satul Prats, remarcabilă pentru arhitectura sa simplă și picturile murale istorice.",
+      en: "A Romanesque church located in the village of Prats, notable for its simple architecture and historic murals."
     },
     facts: {
-      de: ["Lombardischer Glockenturm.', 'Romanische Stuck-Majestät im Inneren.', 'Berühmt für sein Altarbild aus dem 16. Jahrhundert."],
-      hu: ["Lombard stílusú harangtorony.', 'Belső román kori stukkó-Krisztus.', 'Híres a 16. századi oltárképéről."],
-      ro: ["Clopotniță în stil lombard.', 'Stucatură romanică a Măreției Domnului în interior.', 'Renumită pentru retablul său din secolul al XVI-lea."],
-      en: ["Lombard-style bell tower.', 'Romanesque stucco Majesty of the Lord inside.', 'Famous for its 16th-century altarpiece."],
+      de: ["Erbaut im 12.-13. Jahrhundert.", "Enthält Reste romanischer Malereien.", "Teil des Kulturerbes von Andorra."],
+      hu: ["A 12-13. században épült.", "Román stílusú festmények maradványait tartalmazza.", "Andorra kulturális örökségének része."],
+      ro: ["Construită în secolele XII-XIII.", "Conține rămășițe de picturi romanice.", "Face parte din patrimoniul cultural al Andorrei."],
+      en: ["Built during the 12th-13th centuries.", "Contains remnants of Romanesque paintings.", "Part of Andorra's cultural heritage."]
     },
+    plizioChallenge: "Ha egy restaurátor 3 nap alatt tár fel 1 négyzetméter falfestményt, mennyi idő alatt tárna fel egy 5x3 méteres falfelületet?"
   },
   {
-    id: 'historical-meritxell-sanctuary-extra',
-    type: 'historical',
-    parent: 'AD-02', // Canillo
-    coords: [1.5556, 42.555],
+    id: "historical-creu-dels-set-bracos-extra",
+    type: "landmark",
+    parent: "AD-02",
+    coords: [1.6333, 42.5786],
     name: {
-      de: 'Heiligtum von Meritxell',
-      hu: 'Meritxell-i szentély',
-      ro: 'Sanctuarul Meritxell',
-      en: 'Meritxell Sanctuary',
+      de: "Kreuz der Sieben Arme",
+      hu: "A Hét Kar Keresztje",
+      ro: "Crucea celor Șapte Brațe",
+      en: "Cross of the Seven Arms"
     },
     description: {
-      de: 'Das wichtigste religiöse Zentrum Andorras, das der Schutzpatronin des Landes, Unserer Lieben Frau von Meritxell, gewidmet ist.',
-      hu: 'Andorra legfontosabb vallási központja, amelyet az ország védőszentjének, a Meritxell-i Miasszonyunknak szenteltek.',
-      ro: 'Cel mai important centru religios din Andorra, dedicat sfintei patroane a țării, Maica Domnului din Meritxell.',
-      en: 'The most important religious center in Andorra, dedicated to the patron saint of the country, Our Lady of Meritxell.',
+      de: "Ein Steinkreuz aus dem 15. Jahrhundert in Canillo, das eine lokale Legende über sieben Brüder darstellt.",
+      hu: "Egy 15. századi kőkereszt Canillóban, amely egy helyi legendát ábrázol hét testvérről.",
+      ro: "O cruce de piatră din secolul al XV-lea în Canillo, care reprezintă o legendă locală despre șapte frați.",
+      en: "A 15th-century stone cross in Canillo that represents a local legend about seven brothers."
     },
     facts: {
-      de: ["Ursprüngliche Kapelle brannte 1972 nieder.', 'Von Ricardo Bofill entworfener moderner Komplex.', 'Beherbergt eine Nachbildung der romanischen Marienstatue."],
-      hu: ["Az eredeti kápolna 1972-ben leégett.', 'Ricardo Bofill által tervezett modern komplexum.', 'Itt található a román kori Mária-szobor másolata."],
-      ro: ["Capela originală a ars în 1972.', 'Complex modern proiectat de Ricardo Bofill.', 'Găzduiește o replică a statuii romanice a Fecioarei."],
-      en: ["Original chapel burned down in 1972.', 'Modern complex designed by Ricardo Bofill.', 'Houses a replica of the Romanesque statue of the Virgin."],
+      de: ["Gotisches Steinkreuz.", "Jeder Arm symbolisiert einen der Brüder.", "Eine Kopie steht am ursprünglichen Ort."],
+      hu: ["Gótikus kőkereszt.", "Minden kar egy-egy testvért szimbolizál.", "Egy másolat áll az eredeti helyén."],
+      ro: ["Cruce gotică din piatră.", "Fiecare braț simbolizează unul dintre frați.", "O copie se află la locația originală."],
+      en: ["Gothic stone cross.", "Each arm symbolizes one of the brothers.", "A replica stands in its original location."]
     },
+    plizioChallenge: "Ha a kereszt eredetileg 7 karú volt, és egy kar letört, hány százaléka maradt meg az eredeti karoknak?"
   },
   {
-    id: 'historical-sant-serni-de-canillo-extra',
-    type: 'historical',
-    parent: 'AD-02', // Canillo
-    coords: [1.5992, 42.5665],
+    id: "historical-esglesia-de-sant-serni-de-canillo-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.5992, 42.5664],
     name: {
-      de: 'Kirche Sant Serni de Canillo',
-      hu: 'Sant Serni de Canillo templom',
-      ro: 'Biserica Sant Serni de Canillo',
-      en: 'Sant Serni de Canillo Church',
+      de: "Kirche Sant Serni de Canillo",
+      hu: "Sant Serni de Canillo templom",
+      ro: "Biserica Sant Serni de Canillo",
+      en: "Church of Sant Serni de Canillo"
     },
     description: {
-      de: 'Eine Kirche barocken Ursprungs, die im 17. und 18. Jahrhundert erbaut wurde und einen der höchsten Glockentürme Andorras besitzt.',
-      hu: 'Egy barokk eredetű, a 17-18. században épült templom, amely Andorra egyik legmagasabb harangtornyával rendelkezik.',
-      ro: 'O biserică de origine barocă, construită în secolele XVII-XVIII, cu unul dintre cele mai înalte clopotnițe din Andorra.',
-      en: 'A church of Baroque origin, built in the 17th-18th centuries, with one of the tallest bell towers in Andorra.',
+      de: "Eine Barockkirche aus dem 18. Jahrhundert, die auf den Überresten einer älteren romanischen Struktur erbaut wurde. Ihr Glockenturm ist einer der höchsten in Andorra.",
+      hu: "Egy 18. századi barokk templom, amely egy régebbi román kori építmény maradványaira épült. Harangtornya Andorra egyik legmagasabbja.",
+      ro: "O biserică barocă din secolul al XVIII-lea, construită pe rămășițele unei structuri romanice mai vechi. Turnul său clopotniță este unul dintre cele mai înalte din Andorra.",
+      en: "An 18th-century Baroque church built on the remains of an older Romanesque structure. Its bell tower is one of the tallest in Andorra."
     },
     facts: {
-      de: ["Barockes Altarbild.', 'Glockenturm ist 28 Meter hoch.', 'Im Zentrum von Canillo gelegen."],
-      hu: ["Barokk oltárkép.', 'A harangtorony 28 méter magas.', 'Canillo központjában található."],
-      ro: ["Retablu baroc.', 'Clopotnița are o înălțime de 28 de metri.', 'Situată în centrul orașului Canillo."],
-      en: ["Baroque altarpiece.', 'The bell tower is 28 meters high.', 'Located in the center of Canillo."],
+      de: ["Erbaut im 18. Jahrhundert.", "Hat den höchsten Glockenturm in Andorra.", "Besitzt ein barockes Altarbild."],
+      hu: ["A 18. században épült.", "Andorra legmagasabb harangtornyával rendelkezik.", "Barokk oltárképe van."],
+      ro: ["Construită în secolul al XVIII-lea.", "Are cel mai înalt turn clopotniță din Andorra.", "Deține un retablu baroc."],
+      en: ["Built in the 18th century.", "Has the tallest bell tower in Andorra.", "Features a Baroque altarpiece."]
     },
+    plizioChallenge: "Ha a harangtorony 33 méter magas, és egy űrhajó 3 m/s sebességgel emelkedik, mennyi idő alatt éri el a torony csúcsát?"
   },
   {
-    id: 'historical-santa-eulalia-dencamp-extra',
-    type: 'historical',
-    parent: 'AD-03', // Encamp
-    coords: [1.5815, 42.5361],
+    id: "historical-moli-fariner-de-la-vall-d-incles-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.666, 42.593],
     name: {
-      de: 'Kirche Santa Eulàlia d’Encamp',
-      hu: 'Santa Eulàlia d’Encamp templom',
-      ro: 'Biserica Santa Eulàlia din Encamp',
-      en: 'Santa Eulàlia d’Encamp Church',
+      de: "Mehlmühle im Incles-Tal",
+      hu: "Incles-völgyi lisztmalom",
+      ro: "Moara de făină din Valea Incles",
+      en: "Flour Mill of Incles Valley"
     },
     description: {
-      de: 'Eine romanische Kirche mit einem markanten lombardischen Glockenturm, einem der höchsten in Andorra.',
-      hu: 'Egy román stílusú templom, jellegzetes lombard harangtoronnyal, amely az egyik legmagasabb Andorrában.',
-      ro: 'O biserică romanică cu o clopotniță lombardă distinctivă, una dintre cele mai înalte din Andorra.',
-      en: 'A Romanesque church with a distinctive Lombard bell tower, one of the tallest in Andorra.',
+      de: "Eine restaurierte Wassermühle, die die traditionelle Getreidemahlerei in den Pyrenäen demonstriert.",
+      hu: "Egy felújított vízimalom, amely a hagyományos gabonaőrlést mutatja be a Pireneusokban.",
+      ro: "O moară de apă restaurată care demonstrează măcinarea tradițională a cerealelor în Pirinei.",
+      en: "A restored watermill demonstrating the traditional process of grinding grain in the Pyrenees."
     },
     facts: {
-      de: ["Der Glockenturm ist 23 Meter hoch.', 'Romanische Weihwasserschale.', 'Barocke Altarbilder aus dem 17. und 18. Jahrhundert."],
-      hu: ["A harangtorony 23 méter magas.', 'Román kori szenteltvíztartó.', '17. és 18. századi barokk oltárképek."],
-      ro: ["Clopotnița are 23 de metri înălțime.', 'Vas de apă sfințită romanic.', 'Retabluri baroce din secolele XVII și XVIII."],
-      en: ["The bell tower is 23 meters high.', 'Romanesque holy water font.', 'Baroque altarpieces from the 17th and 18th centuries."],
+      de: ["Zeigt traditionelle Mühlentechnik.", "Angetrieben durch den Incles-Fluss.", "Dient als kleines Museum."],
+      hu: ["Hagyományos malomtechnikát mutat be.", "Az Incles folyó hajtja.", "Kis múzeumként szolgál."],
+      ro: ["Prezintă tehnologia tradițională de măcinat.", "Acționată de râul Incles.", "Servește ca un mic muzeu."],
+      en: ["Showcases traditional milling technology.", "Powered by the Incles River.", "Serves as a small museum."]
     },
+    plizioChallenge: "Ha a malomkerék percenként 10-szer fordul körbe, hányat fordul egy óra alatt?"
   },
   {
-    id: 'historical-les-bons-complex-extra',
-    type: 'historical',
-    parent: 'AD-03', // Encamp
-    coords: [1.5714, 42.5408],
+    id: "historical-bordes-de-mereig-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.63, 42.56],
     name: {
-      de: 'Historischer Komplex von Les Bons',
-      hu: 'Les Bons történelmi komplexum',
-      ro: 'Complexul istoric Les Bons',
-      en: 'Les Bons Historical Complex',
+      de: "Hütten von Mereig",
+      hu: "Mereig pásztorkunyhói",
+      ro: "Bordele din Mereig",
+      en: "Bordes of Mereig"
     },
     description: {
-      de: 'Ein mittelalterlicher Komplex, der aus der Kirche Sant Romà, einem Verteidigungsturm und einem alten Wassertank besteht.',
-      hu: 'Egy középkori komplexum, amely a Sant Romà templomból, egy védelmi toronyból és egy régi víztározóból áll.',
-      ro: 'Un complex medieval format din biserica Sant Romà, un turn de apărare și un vechi rezervor de apă.',
-      en: 'A medieval complex consisting of the church of Sant Romà, a defense tower, and an old water tank.',
+      de: "Eine Ansammlung traditioneller Steinhütten (bordes) im Meritxell-Tal, die die historische Bedeutung der Viehzucht in dieser Region bezeugen.",
+      hu: "Hagyományos kőkunyhók (bordes) csoportja a Meritxell-völgyben, amelyek a régió állattenyésztésének történelmi jelentőségét tanúsítják.",
+      ro: "Un grup de borde tradiționale din piatră în Valea Meritxell, mărturie a importanței istorice a creșterii animalelor în această regiune.",
+      en: "A collection of traditional stone huts (bordes) in the Meritxell Valley, testifying to the historical importance of livestock farming in this region."
     },
     facts: {
-      de: ["Wachturm aus dem 12. Jahrhundert.', 'Romanische Fresken in der Kirche.', 'Bietet einen Panoramablick über das Tal."],
-      hu: ["12. századi őrtorony.', 'Román kori freskók a templomban.', 'Panorámás kilátás nyílik a völgyre."],
-      ro: ["Turn de veghe din secolul al XII-lea.', 'Fresce romanice în biserică.', 'Oferă vederi panoramice asupra văii."],
-      en: ["12th-century watchtower.', 'Romanesque frescoes in the church.', 'Offers panoramic views of the valley."],
+      de: ["Traditionelle ländliche Bauten.", "Im Meritxell-Tal gelegen.", "Zeugnis der pastoralen Vergangenheit."],
+      hu: ["Hagyományos vidéki építmények.", "A Meritxell-völgyben található.", "A pásztorélet múltjának tanúja."],
+      ro: ["Construcții rurale tradiționale.", "Situat în Valea Meritxell.", "Mărturie a trecutului pastoral."],
+      en: ["Traditional rural constructions.", "Located in the Meritxell Valley.", "Testimony to the pastoral past."]
     },
+    plizioChallenge: "Ha 5 kunyhó van, és mindegyik 10 juhot tudott befogadni, hány juhot tudtak összesen elszállásolni?"
   },
+  // Encamp Parish
   {
-    id: 'landmark-casa-dareny-plandolit-extra',
-    type: 'landmark',
-    parent: 'AD-04', // Ordino
-    coords: [1.5333, 42.5562],
+    id: "historical-conjunt-historic-de-les-bons-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.5833, 42.535],
     name: {
-      de: 'Museum Casa d’Areny-Plandolit',
-      hu: 'Casa d’Areny-Plandolit Múzeum',
-      ro: 'Muzeul Casa d’Areny-Plandolit',
-      en: 'Casa d’Areny-Plandolit Museum',
+      de: "Historischer Komplex von Les Bons",
+      hu: "Les Bons történelmi komplexum",
+      ro: "Complexul Istoric Les Bons",
+      en: "Historical Complex of Les Bons"
     },
     description: {
-      de: 'Ein Herrenhaus aus dem 17. Jahrhundert, das das Leben einer wohlhabenden andorranischen Familie vom 17. bis zum 19. Jahrhundert zeigt.',
-      hu: 'Egy 17. századi nemesi ház, amely egy jómódú andorrai család életét mutatja be a 17. és 19. század között.',
-      ro: 'O casă nobiliară din secolul al XVII-lea, care prezintă viața unei familii andorrane înstărite din secolul al XVII-lea până în secolul al XIX-lea.',
-      en: 'A 17th-century noble house that showcases the life of a wealthy Andorran family from the 17th to the 19th century.',
+      de: "Ein historisches Ensemble, das eine romanische Kirche (Sant Romà), einen Verteidigungsturm und ein altes Taubenhaus umfasst und einen Einblick in das mittelalterliche Leben in Andorra bietet.",
+      hu: "Egy történelmi együttes, amely egy román stílusú templomot (Sant Romà), egy védelmi tornyot és egy régi galambdúcot foglal magában, bepillantást nyújtva Andorra középkori életébe.",
+      ro: "Un ansamblu istoric care include o biserică romanică (Sant Romà), un turn de apărare și un vechi porumbar, oferind o privire asupra vieții medievale din Andorra.",
+      en: "A historical ensemble that includes a Romanesque church (Sant Romà), a defense tower, and an old dovecote, offering a glimpse into medieval life in Andorra."
     },
     facts: {
-      de: ["Einziges Beispiel eines andorranischen Adelshauses, das für die Öffentlichkeit zugänglich ist.', 'Originalmöbel und -gegenstände.', 'Spiegelt die wirtschaftliche Macht der Familie wider, die mit der Eisenindustrie verbunden war."],
-      hu: ["Az egyetlen andorrai nemesi ház, amely látogatható.', 'Eredeti bútorok és tárgyak.', 'A család vaskohászattal kapcsolatos gazdasági hatalmát tükrözi."],
-      ro: ["Singurul exemplu de casă nobiliară andorrană deschisă publicului.', 'Mobilier și obiecte originale.', 'Reflectă puterea economică a familiei legată de industria fierului."],
-      en: ["Only example of an Andorran noble house open to the public.', 'Original furniture and objects.', 'Reflects the economic power of the family linked to the iron industry."],
+      de: ["Stammt aus dem 12. Jahrhundert.", "Umfasst eine Kirche, einen Turm und ein Taubenhaus.", "Bietet Panoramablick."],
+      hu: ["A 12. századból származik.", "Templomot, tornyot és galambdúcot foglal magában.", "Panorámás kilátást nyújt."],
+      ro: ["Datează din secolul al XII-lea.", "Include o biserică, un turn și un porumbar.", "Oferă vederi panoramice."],
+      en: ["Dates back to the 12th century.", "Includes a church, tower, and dovecote.", "Offers panoramic views."]
     },
+    plizioChallenge: "Ha a védelmi torony 15 méter magas, és minden emelet 3 méter, hány emeletes a torony?"
   },
   {
-    id: 'historical-sant-marti-de-la-cortinada-extra',
-    type: 'historical',
-    parent: 'AD-04', // Ordino
-    coords: [1.518, 42.5762],
-    name: {
-      de: 'Kirche Sant Martí de la Cortinada',
-      hu: 'Sant Martí de la Cortinada templom',
-      ro: 'Biserica Sant Martí de la Cortinada',
-      en: 'Sant Martí de la Cortinada Church',
-    },
-    description: {
-      de: 'Eine romanische Kirche, die für ihre Wandmalereien aus dem 12. Jahrhundert und ihre barocken Altarbilder bekannt ist.',
-      hu: 'Egy román stílusú templom, amely 12. századi falfestményeiről és barokk oltárképeiről ismert.',
-      ro: 'O biserică romanică renumită pentru picturile sale murale din secolul al XII-lea și retablurile sale baroce.',
-      en: 'A Romanesque church known for its 12th-century murals and its baroque altarpieces.',
-    },
-    facts: {
-      de: ["Fresken, die vom Meister von La Cortinada gemalt wurden.', 'Schmiedeeiserne Gitter aus dem 17. Jahrhundert.', 'Holzaltarbilder aus dem 18. Jahrhundert."],
-      hu: ["A la Cortinada-i mester által festett freskók.', '17. századi kovácsoltvas rácsok.', '18. századi fa oltárképek."],
-      ro: ["Fresce pictate de Maestrul din La Cortinada.', 'Grilaje din fier forjat din secolul al XVII-lea.', 'Retabluri din lemn din secolul al XVIII-lea."],
-      en: ["Murals painted by the Master of La Cortinada.', '17th-century wrought iron grilles.', '18th-century wooden altarpieces."],
-    },
-  },
-  {
-    id: 'historical-sant-climent-de-pal-extra',
-    type: 'historical',
-    parent: 'AD-05', // La Massana
-    coords: [1.483, 42.545],
-    name: {
-      de: 'Kirche Sant Climent de Pal',
-      hu: 'Sant Climent de Pal templom',
-      ro: 'Biserica Sant Climent de Pal',
-      en: 'Sant Climent de Pal Church',
-    },
-    description: {
-      de: 'Eine der ältesten romanischen Kirchen in Andorra, die sich durch ihren dreistöckigen Glockenturm mit Zwillingsfenstern auszeichnet.',
-      hu: 'Andorra egyik legrégebbi román stílusú temploma, amelyet háromszintes, ikerablakos harangtornya jellemez.',
-      ro: 'Una dintre cele mai vechi biserici romanice din Andorra, remarcabilă prin clopotnița sa cu trei etaje și ferestre geminate.',
-      en: 'One of the oldest Romanesque churches in Andorra, notable for its three-story bell tower with twin windows.',
-    },
-    facts: {
-      de: ["Glockenturm aus dem 11.-12. Jahrhundert.', 'Romanische Statue Unserer Lieben Frau der Heilmittel.', 'Zwei barocke Altarbilder."],
-      hu: ["11-12. századi harangtorony.', 'A Gyógyító Boldogasszony román kori szobra.', 'Két barokk oltárkép."],
-      ro: ["Clopotniță din secolele XI-XII.', 'Statuie romanică a Maicii Domnului a Leacurilor.', 'Două retabluri baroce."],
-      en: ["11th-12th century bell tower.', 'Romanesque statue of Our Lady of the Remedies.', 'Two baroque altarpieces."],
-    },
-  },
-  {
-    id: 'landmark-farga-rossell-extra',
-    type: 'landmark',
-    parent: 'AD-05', // La Massana
-    coords: [1.5143, 42.5495],
-    name: {
-      de: 'Interpretationszentrum Farga Rossell',
-      hu: 'Farga Rossell Értelmező Központ',
-      ro: 'Centrul de Interpretare Farga Rossell',
-      en: 'Farga Rossell Interpretation Centre',
-    },
-    description: {
-      de: 'Eine alte Eisenschmiede, die in ein Museum umgewandelt wurde, das den Prozess der Umwandlung von Eisenerz in Barren zeigt.',
-      hu: 'Egy régi vaskohó, amelyet múzeummá alakítottak át, bemutatva a vasérc rúddá alakításának folyamatát.',
-      ro: 'O veche forjă de fier transformată în muzeu, care demonstrează procesul de transformare a minereului de fier în lingouri.',
-      en: 'An old iron forge converted into a museum, demonstrating the process of transforming iron ore into ingots.',
-    },
-    facts: {
-      de: ["Erbaut zwischen 1842 und 1846.', 'Eine der letzten aktiven Schmieden in Andorra.', 'Verwendet einen wasserbetriebenen Hammer."],
-      hu: ["1842 és 1846 között épült.', 'Az egyik utolsó működő kovácsműhely Andorrában.', 'Vízzel hajtott kalapácsot használ."],
-      ro: ["Construită între 1842 și 1846.', 'Una dintre ultimele forje active din Andorra.', 'Folosește un ciocan acționat de apă."],
-      en: ["Built between 1842 and 1846.', 'One of the last active forges in Andorra.', 'Uses a water-powered hammer."],
-    },
-  },
-  {
-    id: 'landmark-casa-de-la-vall-extra',
-    type: 'landmark',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.5211, 42.5069],
-    name: {
-      de: 'Casa de la Vall',
-      hu: 'Casa de la Vall (Völgyek Háza)',
-      ro: 'Casa de la Vall',
-      en: 'Casa de la Vall',
-    },
-    description: {
-      de: 'Der ehemalige Sitz des Consell General (Parlament von Andorra), ein Gebäude aus dem 16. Jahrhundert von großer historischer Bedeutung.',
-      hu: 'A Consell General (Andorra parlamentje) egykori székhelye, egy 16. századi, nagy történelmi jelentőségű épület.',
-      ro: 'Fostul sediu al Consiliului General (Parlamentul Andorrei), o clădire din secolul al XVI-lea de o mare importanță istorică.',
-      en: 'The former seat of the General Council (Parliament of Andorra), a 16th-century building of great historical importance.',
-    },
-    facts: {
-      de: ["Erbaut 1580 als Herrenhaus für die Familie Busquets.', 'Diente von 1702 bis 2011 als Parlamentsgebäude.', 'Beherbergt wichtige historische Dokumente.', 'Küche mit traditionellen Utensilien."],
-      hu: ["1580-ban épült a Busquets család nemesi házaként.', '1702-től 2011-ig parlamenti épületként szolgált.', 'Fontos történelmi dokumentumokat őriz.', 'Konyha hagyományos eszközökkel."],
-      ro: ["Construită în 1580 ca o casă nobiliară pentru familia Busquets.', 'A servit drept sediu al parlamentului din 1702 până în 2011.', 'Găzduiește documente istorice importante.', 'Bucătărie cu ustensile tradiționale."],
-      en: ["Built in 1580 as a manor house for the Busquets family.', 'Served as the parliament building from 1702 to 2011.', 'Houses important historical documents.', 'Kitchen with traditional utensils."],
-    },
-  },
-  {
-    id: 'historical-sant-esteve-church-extra',
-    type: 'historical',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.5213, 42.5075],
-    name: {
-      de: 'Kirche Sant Esteve',
-      hu: 'Szent István templom',
-      ro: 'Biserica Sant Esteve',
-      en: 'Sant Esteve Church',
-    },
-    description: {
-      de: 'Eine romanische Kirche im historischen Zentrum von Andorra la Vella, die im 20. Jahrhundert umfassend renoviert wurde.',
-      hu: 'Egy román stílusú templom Andorra la Vella történelmi központjában, amelyet a 20. században jelentősen felújítottak.',
-      ro: 'O biserică romanică în centrul istoric al Andorrei la Vella, renovată extensiv în secolul al XX-lea.',
-      en: 'A Romanesque church in the historic center of Andorra la Vella, extensively renovated in the 20th century.',
-    },
-    facts: {
-      de: ["Original romanische Apsis aus dem 12. Jahrhundert.', 'Buntglasfenster, die die Sakramente darstellen.', 'Lombardischer Glockenturm."],
-      hu: ["Eredeti, 12. századi román stílusú apszis.', 'A szentségeket ábrázoló ólomüveg ablakok.', 'Lombard stílusú harangtorony."],
-      ro: ["Absidă romanică originală din secolul al XII-lea.', 'Vitralii reprezentând sacramentele.', 'Clopotniță în stil lombard."],
-      en: ["Original 12th-century Romanesque apse.', 'Stained glass windows depicting the sacraments.', 'Lombard-style bell tower."],
-    },
-  },
-  {
-    id: 'landmark-la-margineda-bridge-extra',
-    type: 'landmark',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.4947, 42.4939],
-    name: {
-      de: 'Brücke von La Margineda',
-      hu: 'La Margineda híd',
-      ro: 'Podul La Margineda',
-      en: 'La Margineda Bridge',
-    },
-    description: {
-      de: 'Die größte mittelalterliche Brücke in Andorra, ein romanisches Bauwerk über den Fluss Valira.',
-      hu: 'Andorra legnagyobb középkori hídja, egy román stílusú építmény a Valira folyó felett.',
-      ro: 'Cel mai mare pod medieval din Andorra, o structură romanică peste râul Valira.',
-      en: 'The largest medieval bridge in Andorra, a Romanesque structure over the Valira river.',
-    },
-    facts: {
-      de: ["Erbaut im 14.-15. Jahrhundert.', 'Hat einen einzigen Bogen von 33 Metern.', 'Teil der alten Königsstraße."],
-      hu: ["A 14-15. században épült.', 'Egyetlen, 33 méteres ívvel rendelkezik.', 'A régi királyi út része."],
-      ro: ["Construit în secolele XIV-XV.', 'Are un singur arc de 33 de metri.', 'Parte a vechiului drum regal."],
-      en: ["Built in the 14th-15th century.', 'Has a single arch of 33 meters.', 'Part of the old royal road."],
-    },
-  },
-  {
-    id: 'historical-tobacco-museum-extra',
-    type: 'historical',
-    parent: 'AD-06', // Sant Julià de Lòria
-    coords: [1.4914, 42.4658],
-    name: {
-      de: 'Tabakmuseum',
-      hu: 'Dohánymúzeum',
-      ro: 'Muzeul Tutunului',
-      en: 'Tobacco Museum',
-    },
-    description: {
-      de: 'Das Museum befindet sich in der ehemaligen Tabakfabrik Reig und zeigt die Bedeutung des Tabakanbaus für die andorranische Geschichte.',
-      hu: 'A múzeum az egykori Reig Dohánygyárban található, és bemutatja a dohánytermesztés jelentőségét Andorra történelmében.',
-      ro: 'Situat în fosta fabrică de tutun Reig, muzeul prezintă importanța cultivării tutunului în istoria Andorrei.',
-      en: 'Located in the former Reig Tobacco Factory, the museum showcases the importance of tobacco cultivation in Andorran history.',
-    },
-    facts: {
-      de: ["Gebäude aus dem frühen 20. Jahrhundert.', 'Erklärt den Prozess des Tabakanbaus und der Herstellung.', 'Multimedia-Ausstellungen."],
-      hu: ["20. század eleji épület.', 'Bemutatja a dohánytermesztés és -gyártás folyamatát.', 'Multimédiás kiállítások."],
-      ro: ["Clădire de la începutul secolului XX.', 'Explică procesul de cultivare și fabricare a tutunului.', 'Expoziții multimedia."],
-      en: ["Early 20th-century building.', 'Explains the process of tobacco cultivation and manufacturing.', 'Multimedia exhibits."],
-    },
-  },
-  {
-    id: 'historical-sant-cerni-de-nagol-extra',
-    type: 'historical',
-    parent: 'AD-06', // Sant Julià de Lòria
-    coords: [1.5039, 42.4789],
-    name: {
-      de: 'Kirche Sant Cerni de Nagol',
-      hu: 'Sant Cerni de Nagol templom',
-      ro: 'Biserica Sant Cerni de Nagol',
-      en: 'Sant Cerni de Nagol Church',
-    },
-    description: {
-      de: 'Eine romanische Kirche aus dem 11. Jahrhundert, die in einen Felsen gehauen ist und originale romanische Malereien enthält.',
-      hu: 'Egy 11. századi, sziklába vájt román stílusú templom, amely eredeti román kori festményeket tartalmaz.',
-      ro: 'O biserică romanică din secolul al XI-lea, sculptată în stâncă, care conține picturi romanice originale.',
-      en: 'An 11th-century Romanesque church carved into the rock, containing original Romanesque paintings.',
-    },
-    facts: {
-      de: ["Erbaut im Jahr 1055.', 'Rechteckiges Kirchenschiff und halbrunde Apsis.', 'Malereien, die Fabelwesen und Heilige darstellen."],
-      hu: ["1055-ben épült.', 'Téglalap alakú hajó és félköríves apszis.', 'Mesebeli lényeket és szenteket ábrázoló festmények."],
-      ro: ["Construită în 1055.', 'Navă dreptunghiulară și absidă semicirculară.', 'Picturi reprezentând ființe fantastice și sfinți."],
-      en: ["Built in 1055.', 'Rectangular nave and semi-circular apse.', 'Paintings depicting fantastic beings and saints."],
-    },
-  },
-  {
-    id: 'landmark-caldea-spa-extra',
-    type: 'landmark',
-    parent: 'AD-08', // Escaldes-Engordany
-    coords: [1.542, 42.513],
-    name: {
-      de: 'Caldea Thermalbad',
-      hu: 'Caldea Termálfürdő',
-      ro: 'Centrul Termal Caldea',
-      en: 'Caldea Thermal Spa',
-    },
-    description: {
-      de: 'Ein großes Thermalbad-Resort, das für seine futuristische Architektur und seine Thermalwasser-Einrichtungen bekannt ist.',
-      hu: 'Egy hatalmas termálfürdő-komplexum, amely futurisztikus építészetéről és termálvizes létesítményeiről ismert.',
-      ro: 'Un mare complex balnear termal, cunoscut pentru arhitectura sa futuristă și facilitățile sale cu apă termală.',
-      en: 'A large thermal spa resort, known for its futuristic architecture and its thermal water facilities.',
-    },
-    facts: {
-      de: ["Entworfen vom französischen Architekten Jean-Michel Ruols.', 'Der Glasturm ist 80 Meter hoch.', 'Größtes Thermalbad-Zentrum in Südeuropa."],
-      hu: ["A francia építész, Jean-Michel Ruols tervezte.', 'Az üvegtorony 80 méter magas.', 'Dél-Európa legnagyobb termálfürdő-központja."],
-      ro: ["Proiectat de arhitectul francez Jean-Michel Ruols.', 'Turnul de sticlă are 80 de metri înălțime.', 'Cel mai mare centru balnear termal din sudul Europei."],
-      en: ["Designed by French architect Jean-Michel Ruols.', 'The glass tower is 80 meters high.', 'Largest thermal spa center in southern Europe."],
-    },
-  },
-  {
-    id: 'historical-sant-miquel-dengolasters-extra',
-    type: 'historical',
-    parent: 'AD-08', // Escaldes-Engordany
-    coords: [1.56, 42.511],
-    name: {
-      de: 'Kirche Sant Miquel d’Engolasters',
-      hu: 'Sant Miquel d’Engolasters templom',
-      ro: 'Biserica Sant Miquel d’Engolasters',
-      en: 'Sant Miquel d’Engolasters Church',
-    },
-    description: {
-      de: 'Eine romanische Kirche aus dem 12. Jahrhundert mit einem bemerkenswerten lombardischen Glockenturm und Kopien romanischer Wandmalereien.',
-      hu: 'Egy 12. századi román stílusú templom, figyelemre méltó lombard harangtoronnyal és román kori falfestmények másolataival.',
-      ro: 'O biserică romanică din secolul al XII-lea, cu o remarcabilă clopotniță lombardă și copii ale picturilor murale romanice.',
-      en: 'A 12th-century Romanesque church with a remarkable Lombard bell tower and copies of Romanesque murals.',
-    },
-    facts: {
-      de: ["Originale Fresken befinden sich im MNAC in Barcelona.', 'Asymmetrisches Dach, eine Seltenheit in der romanischen Architektur.', 'Blick auf das Tal von Andorra la Vella."],
-      hu: ["Az eredeti freskók a barcelonai MNAC-ban találhatók.', 'Aszimmetrikus tető, ami ritkaság a román kori építészetben.', 'Kilátás az Andorra la Vella-i völgyre."],
-      ro: ["Frescele originale se află la MNAC în Barcelona.', 'Acoperiș asimetric, o raritate în arhitectura romanică.', 'Vedere spre valea Andorrei la Vella."],
-      en: ["Original frescoes are in the MNAC in Barcelona.', 'Asymmetric roof, a rarity in Romanesque architecture.', 'View over the Andorra la Vella valley."],
-    },
-  },
-  {
-    id: 'historical-santa-coloma-church-extra',
-    type: 'historical',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.5095, 42.4950],
-    name: {
-      de: 'Kirche Santa Coloma',
-      hu: 'Santa Coloma templom',
-      ro: 'Biserica Santa Coloma',
-      en: 'Santa Coloma Church',
-    },
-    description: {
-      de: 'Eine der ältesten Kirchen Andorras mit einem einzigartigen runden Glockenturm aus dem 12. Jahrhundert.',
-      hu: 'Andorra egyik legrégebbi temploma, egyedi, 12. századi kerek harangtoronnyal.',
-      ro: 'Una dintre cele mai vechi biserici din Andorra, cu o clopotniță circulară unică din secolul al XII-lea.',
-      en: "One of Andorra's oldest churches, with a unique 12th-century round bell tower.",
-    },
-    facts: {
-      de: ["Vorromanischer Ursprung.', 'Runder lombardischer Glockenturm.', 'Beherbergte einst berühmte romanische Fresken."],
-      hu: ["Preromán eredetű.', 'Kerek lombard harangtorony.', 'Egykor híres román kori freskóknak adott otthont."],
-      ro: ["Origine pre-romanică.', 'Clopotniță circulară lombardă.', 'A găzduit cândva faimoase fresce romanice."],
-      en: ["Pre-Romanesque origins.', 'Round Lombard bell tower.', 'Once housed famous Romanesque frescoes."],
-    },
-  },
-  {
-    id: 'landmark-pont-de-la-tosca-extra',
-    type: 'landmark',
-    parent: 'AD-08', // Escaldes-Engordany
-    coords: [1.5458, 42.5118],
-    name: {
-      de: 'Brücke von La Tosca',
-      hu: 'La Tosca híd',
-      ro: 'Podul La Tosca',
-      en: 'La Tosca Bridge',
-    },
-    description: {
-      de: 'Eine kleine, aber charmante mittelalterliche Brücke, die sich perfekt in die städtische Landschaft einfügt.',
-      hu: 'Egy kicsi, de bájos középkori híd, amely tökéletesen illeszkedik a városi tájba.',
-      ro: 'Un pod medieval mic, dar fermecător, care se integrează perfect în peisajul urban.',
-      en: 'A small but charming medieval bridge that integrates perfectly into the urban landscape.',
-    },
-    facts: {
-      de: ["Romanischer Ursprung.', 'Besteht aus einem einzigen Steinbogen.', 'In der Nähe des Thermalzentrums Caldea gelegen."],
-      hu: ["Román eredetű.', 'Egyetlen kőívből áll.', 'A Caldea termálközpont közelében található."],
-      ro: ["Origine romanică.', 'Constă dintr-un singur arc de piatră.', 'Situat în apropierea centrului termal Caldea."],
-      en: ["Romanesque origin.', 'Consists of a single stone arch.', 'Located near the Caldea thermal center."],
-    },
-  },
-  {
-    id: 'historical-sant-pere-del-serrat-extra',
-    type: 'historical',
-    parent: 'AD-04', // Ordino
-    coords: [1.556, 42.618],
-    name: {
-      de: 'Kirche Sant Pere del Serrat',
-      hu: 'Sant Pere del Serrat templom',
-      ro: 'Biserica Sant Pere del Serrat',
-      en: 'Sant Pere del Serrat Church',
-    },
-    description: {
-      de: 'Eine kleine Kirche aus dem 17.-18. Jahrhundert im malerischen Dorf El Serrat.',
-      hu: 'Egy kis 17-18. századi templom El Serrat festői falujában.',
-      ro: 'O mică biserică din secolele XVII-XVIII în satul pitoresc El Serrat.',
-      en: 'A small 17th-18th century church in the picturesque village of El Serrat.',
-    },
-    facts: {
-      de: ["Erbaut auf den Überresten einer romanischen Kirche.', 'Barocker Altaraufsatz.', 'Umgeben von einer beeindruckenden Berglandschaft."],
-      hu: ["Egy román kori templom maradványaira épült.', 'Barokk oltárkép.', 'Lenyűgöző hegyi táj veszi körül."],
-      ro: ["Construită pe rămășițele unei biserici romanice.', 'Retablu baroc.', 'Înconjurată de un peisaj montan impresionant."],
-      en: ["Built on the remains of a Romanesque church.', 'Baroque altarpiece.', 'Surrounded by an impressive mountain landscape."],
-    },
-  },
-  {
-    id: 'historical-sant-andreu-del-prat-del-roure-extra',
-    type: 'historical',
-    parent: 'AD-08', // Escaldes-Engordany
-    coords: [1.536, 42.509],
-    name: {
-      de: 'Kirche Sant Andreu del Prat del Roure',
-      hu: 'Sant Andreu del Prat del Roure templom',
-      ro: 'Biserica Sant Andreu del Prat del Roure',
-      en: 'Sant Andreu del Prat del Roure Church',
-    },
-    description: {
-      de: 'Eine kleine romanische Kapelle, die an einen neuen Ort versetzt wurde, um sie zu erhalten.',
-      hu: 'Egy kis román kápolna, amelyet a megőrzése érdekében új helyre költöztettek.',
-      ro: 'O mică capelă romanică mutată într-o nouă locație pentru conservarea sa.',
-      en: 'A small Romanesque chapel moved to a new location for its preservation.',
-    },
-    facts: {
-      de: ["Ursprünglich aus dem 12. Jahrhundert.', 'Stein für Stein versetzt.', 'Befindet sich heute in einem Stadtpark."],
-      hu: ["Eredetileg a 12. századból származik.', 'Kőről kőre helyezték át.', 'Ma egy városi parkban található."],
-      ro: ["Original din secolul al XII-lea.', 'Mutată piatră cu piatră.', 'Acum se află într-un parc urban."],
-      en: ["Originally from the 12th century.', 'Moved stone by stone.', 'Now located in an urban park."],
-    },
-  },
-  {
-    id: 'historical-church-of-sant-bartomeu-de-soldeu-extra',
-    type: 'historical',
-    parent: 'AD-02', // Canillo
-    coords: [1.666, 42.578],
-    name: {
-        de: 'Kirche Sant Bartomeu de Soldeu',
-        hu: 'Sant Bartomeu de Soldeu templom',
-        ro: 'Biserica Sant Bartomeu din Soldeu',
-        en: 'Church of Sant Bartomeu de Soldeu'
-    },
-    description: {
-        de: 'Eine Barockkirche aus dem 17. oder 18. Jahrhundert im Dorf Soldeu.',
-        hu: 'Egy 17. vagy 18. századi barokk templom Soldeu faluban.',
-        ro: 'O biserică barocă din secolul al XVII-lea sau al XVIII-lea, situată în satul Soldeu.',
-        en: 'A Baroque church from the 17th or 18th century, located in the village of Soldeu.'
-    },
-    facts: {
-        de: ["Rechteckiger Grundriss.', 'Barocker Altaraufsatz.', 'Typisch für die andorranische ländliche Architektur."],
-        hu: ["Téglalap alakú alaprajz.', 'Barokk oltárkép.', 'Jellemző az andorrai vidéki építészetre."],
-        ro: ["Plan dreptunghiular.', 'Retablu baroc.', 'Tipic pentru arhitectura rurală andorrană."],
-        en: ["Rectangular floor plan.', 'Baroque altarpiece.', 'Typical of Andorran rural architecture."]
-    }
-  },
-  {
-    id: 'historical-church-of-sant-pere-del-tarter-extra',
-    type: 'historical',
-    parent: 'AD-02', // Canillo
-    coords: [1.650, 42.579],
-    name: {
-        de: 'Kirche Sant Pere del Tarter',
-        hu: 'Sant Pere del Tarter templom',
-        ro: 'Biserica Sant Pere del Tarter',
-        en: 'Church of Sant Pere del Tarter'
-    },
-    description: {
-        de: 'Eine kleine Kirche aus dem 16. Jahrhundert, die im 18. Jahrhundert umgebaut wurde.',
-        hu: 'Egy 16. századi kis templom, amelyet a 18. században átépítettek.',
-        ro: 'O mică biserică din secolul al XVI-lea, modificată în secolul al XVIII-lea.',
-        en: 'A small 16th-century church, modified in the 18th century.'
-    },
-    facts: {
-        de: ["Romanische und barocke Elemente.', 'Wandmalereien aus dem 16. Jahrhundert.', 'Einfaches, aber charmantes Design."],
-        hu: ["Román és barokk elemek.', '16. századi falfestmények.', 'Egyszerű, de bájos kialakítás."],
-        ro: ["Elemente romanice și baroce.', 'Picturi murale din secolul al XVI-lea.', 'Design simplu, dar fermecător."],
-        en: ["Romanesque and Baroque elements.', '16th-century murals.', 'Simple but charming design."]
-    }
-  },
-  {
-    id: 'historical-church-of-sant-vicenc-denclar-extra',
-    type: 'historical',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.513, 42.499],
-    name: {
-        de: 'Kirche Sant Vicenç d’Enclar',
-        hu: 'Sant Vicenç d’Enclar templom',
-        ro: 'Biserica Sant Vicenç d’Enclar',
-        en: 'Church of Sant Vicenç d’Enclar'
-    },
-    description: {
-        de: 'Die Überreste einer mittelalterlichen Kirche und Festung auf einem Hügel mit Blick auf Santa Coloma.',
-        hu: 'Egy középkori templom és erőd maradványai egy dombon, ahonnan Santa Colomára nyílik kilátás.',
-        ro: 'Rămășițele unei biserici și fortărețe medievale pe un deal cu vedere la Santa Coloma.',
-        en: 'The remains of a medieval church and fortress on a hill overlooking Santa Coloma.'
-    },
-    facts: {
-        de: ["Stammt aus dem 8.-9. Jahrhundert.', 'Wichtige archäologische Stätte.', 'Bietet einen strategischen Blick auf das Tal."],
-        hu: ["A 8-9. századból származik.', 'Fontos régészeti lelőhely.', 'Stratégiai kilátást nyújt a völgyre."],
-        ro: ["Datează din secolele VIII-IX.', 'Situl arheologic important.', 'Oferă o vedere strategică a văii."],
-        en: ["Dates from the 8th-9th century.', 'Important archaeological site.', 'Offers a strategic view of the valley."]
-    }
-  },
-  {
-    id: 'historical-church-sant-roma-de-les-bons-extra',
-    type: 'historical',
-    parent: 'AD-03', // Encamp
-    coords: [1.571, 42.540],
-    name: {
-      de: 'Kirche Sant Romà de les Bons',
-      hu: 'Sant Romà de les Bons templom',
-      ro: 'Biserica Sant Romà de les Bons',
-      en: 'Church of Sant Romà de les Bons',
-    },
-    description: {
-      de: 'Eine romanische Kirche aus dem 12. Jahrhundert, die Teil des historischen Komplexes von Les Bons ist.',
-      hu: 'Egy 12. századi román stílusú templom, a Les Bons történelmi komplexum része.',
-      ro: 'O biserică romanică din secolul al XII-lea, parte a complexului istoric Les Bons.',
-      en: 'A 12th-century Romanesque church, part of the Les Bons historical complex.',
-    },
-    facts: {
-      de: ["Romanische Wandmalereien.', 'Lombardischer Glockenturm.', 'Verteidigungsturm in der Nähe."],
-      hu: ["Román kori falfestmények.', 'Lombard harangtorony.', 'Közeli védőtorony."],
-      ro: ["Picturi murale romanice.', 'Clopotniță lombardă.', 'Turn de apărare în apropiere."],
-      en: ["Romanesque murals.', 'Lombard bell tower.', 'Nearby defense tower."],
-    },
-  },
-  {
-    id: 'landmark-pont-d-engordany-extra',
-    type: 'landmark',
-    parent: 'AD-08', // Escaldes-Engordany
-    coords: [1.540, 42.509],
-    name: {
-      de: 'Brücke von Engordany',
-      hu: 'Engordany híd',
-      ro: 'Podul din Engordany',
-      en: 'Engordany Bridge',
-    },
-    description: {
-      de: 'Eine weitere historische Brücke, die Escaldes mit Engordany verbindet und aus dem 18. Jahrhundert stammt.',
-      hu: 'Egy másik történelmi híd, amely összeköti Escaldes-t Engordany-val, a 18. századból származik.',
-      ro: 'Un alt pod istoric care leagă Escaldes de Engordany, datând din secolul al XVIII-lea.',
-      en: 'Another historic bridge linking Escaldes to Engordany, dating from the 18th century.',
-    },
-    facts: {
-      de: ["Erbaut 1785.', 'Steinstruktur.', 'Zeugnis des alten Kommunikationsnetzes."],
-      hu: ["1785-ben épült.', 'Kőszerkezet.', 'A régi kommunikációs hálózat tanúja."],
-      ro: ["Construit în 1785.', 'Structură de piatră.', 'Mărturie a vechii rețele de comunicații."],
-      en: ["Built in 1785.', 'Stone structure.', 'Witness to the old communication network."],
-    },
-  },
-  {
-    id: 'historical-sant-miquel-de-la-mosquera-extra',
-    type: 'historical',
-    parent: 'AD-03', // Encamp
+    id: "historical-esglesia-de-santa-eulalia-d-encamp-extra",
+    type: "historical",
+    parent: "AD-03",
     coords: [1.582, 42.536],
     name: {
-      de: 'Kirche Sant Miquel de la Mosquera',
-      hu: 'Sant Miquel de la Mosquera templom',
-      ro: 'Biserica Sant Miquel de la Mosquera',
-      en: 'Church of Sant Miquel de la Mosquera',
+      de: "Kirche Santa Eulàlia d'Encamp",
+      hu: "Santa Eulàlia d'Encamp templom",
+      ro: "Biserica Santa Eulàlia d'Encamp",
+      en: "Church of Santa Eulàlia d'Encamp"
     },
     description: {
-      de: 'Eine kleine Kapelle romanischen Ursprungs im Zentrum von Encamp.',
-      hu: 'Egy kis, román eredetű kápolna Encamp központjában.',
-      ro: 'O mică capelă de origine romanică în centrul Encamp.',
-      en: 'A small chapel of Romanesque origin in the center of Encamp.',
+      de: "Eine Kirche romanischen Ursprungs mit späteren Erweiterungen. Ihr romanischer Glockenturm, der vom Hauptschiff getrennt ist, ist einer der höchsten und schlanksten in Andorra.",
+      hu: "Egy román kori eredetű templom későbbi bővítésekkel. A főhajótól elkülönülő román stílusú harangtornya Andorra egyik legmagasabb és legkarcsúbb tornya.",
+      ro: "O biserică de origine romanică cu extinderi ulterioare. Turnul său clopotniță romanic, separat de naos, este unul dintre cele mai înalte și mai zvelte din Andorra.",
+      en: "A church of Romanesque origin with later extensions. Its Romanesque bell tower, separate from the main nave, is one of the tallest and most slender in Andorra."
     },
     facts: {
-      de: ["Einfache Konstruktion.', 'Wurde im Laufe der Zeit umgebaut.', 'Zeugnis der mittelalterlichen Vergangenheit von Encamp."],
-      hu: ["Egyszerű építésű.', 'Az idők során átépítették.', 'Encamp középkori múltjának tanúja."],
-      ro: ["Construcție simplă.', 'A fost modificată de-a lungul timpului.', 'Mărturie a trecutului medieval al Encamp."],
-      en: ["Simple construction.', 'Has been modified over time.', 'Witness to the medieval past of Encamp."],
+      de: ["Romanischer Ursprung (11.-12. Jh.).", "23 Meter hoher Glockenturm.", "Getrennter Glockenturm ist einzigartig."],
+      hu: ["Román kori eredetű (11-12. sz.).", "23 méter magas harangtorony.", "Különálló harangtornya egyedülálló."],
+      ro: ["Origine romanică (secolele XI-XII).", "Turn clopotniță de 23 de metri înălțime.", "Turnul clopotniță separat este unic."],
+      en: ["Romanesque origin (11th-12th c.).", "23-meter high bell tower.", "Separate bell tower is a unique feature."]
     },
+    plizioChallenge: "Mekkora a torony magasságának és egy űrhajó 1 méteres magasságának aránya?"
   },
   {
-    id: 'historical-sant-armengol-chapel-extra',
-    type: 'historical',
-    parent: 'AD-05', // La Massana
-    coords: [1.516, 42.574],
+    id: "historical-museu-de-l-art-sacre-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.5822, 42.5361],
     name: {
-      de: 'Kapelle Sant Ermengol',
-      hu: 'Szent Ermengol kápolna',
-      ro: 'Capela Sant Ermengol',
-      en: 'Sant Ermengol Chapel',
+      de: "Museum für Sakrale Kunst",
+      hu: "Szakrális Művészeti Múzeum",
+      ro: "Muzeul de Artă Sacră",
+      en: "Museum of Sacred Art"
     },
     description: {
-      de: 'Eine kleine Kapelle in Sispony, die dem Heiligen Ermengol gewidmet ist.',
-      hu: 'Egy kis kápolna Sisponyban, amelyet Szent Ermengolnak szenteltek.',
-      ro: 'O mică capelă în Sispony dedicată Sfântului Ermengol.',
-      en: 'A small chapel in Sispony dedicated to Saint Ermengol.',
+      de: "Dieses Museum befindet sich neben der Kirche Santa Eulàlia und beherbergt eine Sammlung religiöser Kunst aus verschiedenen Kirchen in der Pfarrei Encamp.",
+      hu: "A Santa Eulàlia templom mellett található múzeum az Encamp parókia különböző templomaiból származó vallási művészeti gyűjteménynek ad otthont.",
+      ro: "Situat lângă Biserica Santa Eulàlia, acest muzeu găzduiește o colecție de artă religioasă din diverse biserici din parohia Encamp.",
+      en: "Located next to the Church of Santa Eulàlia, this museum houses a collection of religious art from various churches in the Encamp parish."
     },
     facts: {
-      de: ["Barocker Stil.', 'Jährliche Wallfahrt.', 'Befindet sich neben dem Casa Rull Museum."],
-      hu: ["Barokk stílus.', 'Évenkénti zarándoklat.', 'A Casa Rull Múzeum mellett található."],
-      ro: ["Stil baroc.', 'Pelerinaj anual.', 'Situată lângă Muzeul Casa Rull."],
-      en: ["Baroque style.', 'Annual pilgrimage.', 'Located next to the Casa Rull Museum."],
+      de: ["Stellt liturgische Gegenstände aus.", "Zeigt Gold- und Silberschmiedearbeiten.", "Enthält romanische und barocke Stücke."],
+      hu: ["Liturgikus tárgyakat állít ki.", "Ötvös- és ezüstműves munkákat mutat be.", "Román és barokk darabokat tartalmaz."],
+      ro: ["Expune obiecte liturgice.", "Prezintă lucrări de orfevrărie și argintărie.", "Conține piese romanice și baroce."],
+      en: ["Displays liturgical objects.", "Showcases gold and silversmith work.", "Contains Romanesque and Baroque pieces."]
     },
+    plizioChallenge: "Ha a múzeumban 50 kiállítási tárgy van, és 20% arany, hány aranytárgy van?"
   },
   {
-    id: 'historical-sant-julià-i-sant-germa-church-extra',
-    type: 'historical',
-    parent: 'AD-06', // Sant Julià de Lòria
-    coords: [1.492, 42.465],
+    id: "historical-radio-andorra-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.633, 42.541],
     name: {
-      de: 'Kirche Sant Julià i Sant Germà',
-      hu: 'Szent Julià és Szent Germà templom',
-      ro: 'Biserica Sant Julià i Sant Germà',
-      en: 'Church of Sant Julià i Sant Germà',
+      de: "Sender Radio Andorra",
+      hu: "Radio Andorra adótorony",
+      ro: "Emițătorul Radio Andorra",
+      en: "Radio Andorra Transmitter"
     },
     description: {
-      de: 'Die Pfarrkirche von Sant Julià de Lòria, ein Gebäude, das Romanik und spätere Umbauten vereint.',
-      hu: 'Sant Julià de Lòria plébániatemploma, egy épület, amely ötvözi a román stílust és a későbbi átalakításokat.',
-      ro: 'Biserica parohială din Sant Julià de Lòria, o clădire care combină romanicul cu modificări ulterioare.',
-      en: 'The parish church of Sant Julià de Lòria, a building that combines Romanesque and later modifications.',
+      de: "Der historische Radiosender, der von 1939 bis 1981 sendete. Das Gebäude und die Antennen sind ein wichtiges Denkmal der Kommunikationsgeschichte des 20. Jahrhunderts in Europa.",
+      hu: "A történelmi rádióadó, amely 1939 és 1981 között sugárzott. Az épület és az antennák a 20. századi európai kommunikációtörténet fontos emlékművei.",
+      ro: "Stația de emisie radio istorică care a funcționat între 1939 și 1981. Clădirea și antenele sunt un monument important al istoriei comunicațiilor din secolul XX în Europa.",
+      en: "The historic radio broadcasting station that operated from 1939 to 1981. The building and antennas are an important monument to 20th-century communication history in Europe."
     },
     facts: {
-      de: ["Romanischer Glockenturm.', 'Barocke Altarbilder.', 'Christus in Majestät aus dem 12. Jahrhundert."],
-      hu: ["Román stílusú harangtorony.', 'Barokk oltárképek.', '12. századi trónoló Krisztus."],
-      ro: ["Clopotniță romanică.', 'Retabluri baroce.', 'Hristos în Majestate din secolul al XII-lea."],
-      en: ["Romanesque bell tower.', 'Baroque altarpieces.', '12th-century Christ in Majesty."],
+      de: ["Gegründet 1939.", "Wichtiger Sender während des 2. WK.", "Ein Symbol des Kalten Krieges."],
+      hu: ["1939-ben alapították.", "Fontos adó volt a II. vh. alatt.", "A hidegháború szimbóluma."],
+      ro: ["Fondat în 1939.", "Post important în timpul celui de-al Doilea Război Mondial.", "Un simbol al Războiului Rece."],
+      en: ["Founded in 1939.", "Important broadcaster during WWII.", "A symbol of the Cold War."]
     },
+    plizioChallenge: "Ha a rádió 1939-től 1981-ig működött, hány éven keresztül sugárzott?"
+  },
+  // Ordino Parish
+  {
+    id: "historical-casa-d-arenyplandolit-extra",
+    type: "landmark",
+    parent: "AD-05",
+    coords: [1.5333, 42.5562],
+    name: {
+      de: "Haus Areny-Plandolit",
+      hu: "Areny-Plandolit Ház",
+      ro: "Casa d'Areny-Plandolit",
+      en: "Areny-Plandolit House"
+    },
+    description: {
+      de: "Ein Herrenhaus aus dem 17. Jahrhundert, das das Leben einer wohlhabenden andorranischen Familie vom 17. bis zum 20. Jahrhundert zeigt. Es ist eines der emblematischsten Museen in Andorra.",
+      hu: "Egy 17. századi nemesi ház, amely egy gazdag andorrai család életét mutatja be a 17. és 20. század között. Andorra egyik legjellegzetesebb múzeuma.",
+      ro: "O casă nobiliară din secolul al XVII-lea care prezintă viața unei familii andorrane înstărite din secolul al XVII-lea până în secolul al XX-lea. Este unul dintre cele mai emblematice muzee din Andorra.",
+      en: "A 17th-century manor house showcasing the life of a wealthy Andorran family from the 17th to the 20th century. It is one of the most emblematic museums in Andorra."
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1633.", "Zeigt den Lebensstil einer einflussreichen Familie.", "Hat einen einzigartigen Garten."],
+      hu: ["1633-ban épült.", "Egy befolyásos család életmódját mutatja be.", "Egyedülálló kertje van."],
+      ro: ["Construită în 1633.", "Prezintă stilul de viață al unei familii influente.", "Are o grădină unică."],
+      en: ["Built in 1633.", "Shows the lifestyle of an influential family.", "Has a unique garden."]
+    },
+    plizioChallenge: "Ha a házat 1633-ban építették, hány év telt el az építése és 2023 között?"
   },
   {
-    id: 'landmark-ethnographic-museum-casa-cristo-extra',
-    type: 'landmark',
-    parent: 'AD-02', // Canillo
-    coords: [1.599, 42.566],
+    id: "historical-esglesia-de-sant-corneli-i-sant-cebria-d-ordino-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.533, 42.556],
     name: {
-      de: 'Ethnographisches Museum Casa Cristo',
-      hu: 'Casa Cristo Néprajzi Múzeum',
-      ro: 'Muzeul Etnografic Casa Cristo',
-      en: 'Casa Cristo Ethnographic Museum',
+      de: "Kirche Sant Corneli i Sant Cebrià",
+      hu: "Sant Corneli i Sant Cebrià templom",
+      ro: "Biserica Sant Corneli i Sant Cebrià",
+      en: "Church of Sant Corneli i Sant Cebrià"
     },
     description: {
-      de: 'Ein bescheidenes ländliches Haus, das das Leben einer einfachen andorranischen Familie im 19. Jahrhundert zeigt.',
-      hu: 'Egy szerény vidéki ház, amely egy egyszerű andorrai család 19. századi életét mutatja be.',
-      ro: 'O casă rurală modestă care prezintă viața unei familii andorrane simple în secolul al XIX-lea.',
-      en: 'A humble rural house that shows the life of a simple Andorran family in the 19th century.',
+      de: "Eine mittelalterliche Kirche, die im 17. und 19. Jahrhundert stark umgebaut wurde. Sie beherbergt mehrere barocke Altarbilder und eine romanische Marienstatue aus dem 12. Jahrhundert.",
+      hu: "Egy középkori templom, amelyet a 17. és 19. században jelentősen átépítettek. Több barokk oltárképet és egy 12. századi román stílusú Mária-szobrot őriz.",
+      ro: "O biserică medievală, puternic modificată în secolele al XVII-lea și al XIX-lea. Găzduiește mai multe retabluri baroce și o statuie romanică a Fecioarei Maria din secolul al XII-lea.",
+      en: "A medieval church, heavily modified in the 17th and 19th centuries. It houses several Baroque altarpieces and a 12th-century Romanesque statue of the Virgin Mary."
     },
     facts: {
-      de: ["Originalmöbel und Werkzeuge.', 'Zeigt die harte Realität des Lebens in den Bergen.', 'Kontrastiert mit den Adelshäusern."],
-      hu: ["Eredeti bútorok és szerszámok.', 'Bemutatja a hegyi élet kemény valóságát.', 'Ellentétben áll a nemesi házakkal."],
-      ro: ["Mobilier și unelte originale.', 'Arată realitatea dură a vieții la munte.', 'Contrastează cu casele nobiliare."],
-      en: ["Original furniture and tools.', 'Shows the harsh reality of mountain life.', 'Contrasts with the noble houses."],
+      de: ["Mittelalterlicher Ursprung.", "Barocke Altarbilder.", "Besitzt eine romanische Schnitzerei der Jungfrau Maria."],
+      hu: ["Középkori eredetű.", "Barokk oltárképek.", "Egy román stílusú Mária-faragványt őriz."],
+      ro: ["Origine medievală.", "Retabluri baroce.", "Deține o sculptură romanică a Fecioarei Maria."],
+      en: ["Medieval origins.", "Baroque altarpieces.", "Holds a Romanesque carving of the Virgin Mary."]
     },
+    plizioChallenge: "Ha a Mária-szobor a 12. századból származik, hány évszázados volt 2000-ben?"
   },
   {
-    id: 'historical-sant-joan-d-sispony-church-extra',
-    type: 'historical',
-    parent: 'AD-05', // La Massana
-    coords: [1.503, 42.531],
+    id: "historical-mina-de-ferro-de-llorts-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.535, 42.599],
     name: {
-      de: 'Kirche Sant Joan de Sispony',
-      hu: 'Sant Joan de Sispony templom',
-      ro: 'Biserica Sant Joan de Sispony',
-      en: 'Church of Sant Joan de Sispony',
+      de: "Eisenmine von Llorts",
+      hu: "Llortsi vasbánya",
+      ro: "Mina de Fier din Llorts",
+      en: "Llorts Iron Mine"
     },
     description: {
-      de: 'Eine Kirche romanischen Ursprungs, die im 17. Jahrhundert umgebaut wurde.',
-      hu: 'Egy román eredetű templom, amelyet a 17. században átépítettek.',
-      ro: 'O biserică de origine romanică, modificată în secolul al XVII-lea.',
-      en: 'A church of Romanesque origin, modified in the 17th century.',
+      de: "Ein Teil der 'Eisenroute' von Andorra. Besucher können einen Teil der Mine erkunden, um mehr über die Bedeutung des Eisenerzabbaus in der andorranischen Geschichte zu erfahren.",
+      hu: "Andorra 'Vasútjának' része. A látogatók bejárhatják a bánya egy részét, hogy megismerjék a vasércbányászat jelentőségét Andorra történelmében.",
+      ro: "Parte a 'Rutei Fierului' din Andorra. Vizitatorii pot explora o parte a minei pentru a învăța despre importanța exploatării minereului de fier în istoria Andorrei.",
+      en: "Part of Andorra's 'Iron Route'. Visitors can explore a section of the mine to learn about the importance of iron mining in Andorran history."
     },
     facts: {
-      de: ["Romanische Apsis.', 'Gotisches Altarbild, das im Ausland aufbewahrt wird.', 'Barocker Hauptaltaraufsatz."],
-      hu: ["Román apszis.', 'Külföldön őrzött gótikus oltárkép.', 'Barokk főoltárkép."],
-      ro: ["Absidă romanică.', 'Retablu gotic păstrat în străinătate.', 'Retablu principal baroc."],
-      en: ["Romanesque apse.', 'Gothic altarpiece kept abroad.', 'Baroque main altarpiece."],
+      de: ["Aktiv vom 17. bis 19. Jahrhundert.", "Wichtige Industrie für Andorra.", "Teil der Eisenroute."],
+      hu: ["A 17-19. század között volt aktív.", "Fontos iparág volt Andorra számára.", "A Vasút része."],
+      ro: ["Activă din secolul al XVII-lea până în al XIX-lea.", "Industrie importantă pentru Andorra.", "Parte a Rutei Fierului."],
+      en: ["Active from the 17th to 19th centuries.", "Important industry for Andorra.", "Part of the Iron Route."]
     },
+    plizioChallenge: "Ha egy bányász naponta 50 kg vasércet termelt ki, mennyit termelt ki egy 20 napos hónapban?"
   },
   {
-    id: 'historical-church-of-llorts-extra',
-    type: 'historical',
-    parent: 'AD-04', // Ordino
-    coords: [1.533, 42.596],
+    id: "historical-auditori-nacional-d-andorra-extra",
+    type: "landmark",
+    parent: "AD-05",
+    coords: [1.532, 42.557],
     name: {
-      de: 'Kirche Sant Serni de Llorts',
-      hu: 'Llorts-i Szent Szernin templom',
-      ro: 'Biserica Sant Serni din Llorts',
-      en: 'Church of Sant Serni de Llorts',
+      de: "Nationales Auditorium von Andorra",
+      hu: "Andorrai Nemzeti Auditórium",
+      ro: "Auditoriul Național al Andorrei",
+      en: "National Auditorium of Andorra"
     },
     description: {
-      de: 'Eine kleine Kirche aus dem 17. Jahrhundert im Dorf Llorts, einem wichtigen Punkt auf der Eisenroute.',
-      hu: 'Egy kis 17. századi templom Llorts faluban, amely a Vasút fontos pontja.',
-      ro: 'O mică biserică din secolul al XVII-lea în satul Llorts, un punct important pe Ruta Fierului.',
-      en: 'A small 17th-century church in the village of Llorts, an important point on the Iron Route.',
+      de: "Das wichtigste Konzerthaus Andorras in Ordino. Es befindet sich in einem historischen Gebäude, der Casa Gassia, und ist Schauplatz zahlreicher klassischer Musikfestivals.",
+      hu: "Andorra legfontosabb koncertterme Ordinóban. Egy történelmi épületben, a Casa Gassiában található, és számos klasszikus zenei fesztiválnak ad otthont.",
+      ro: "Principala sală de concerte din Andorra, situată în Ordino. Se află într-o clădire istorică, Casa Gassia, și găzduiește numeroase festivaluri de muzică clasică.",
+      en: "The main concert hall in Andorra, located in Ordino. It is housed in a historic building, Casa Gassia, and is the venue for numerous classical music festivals."
     },
     facts: {
-      de: ["Einfacher, ländlicher Stil.', 'Kleiner Glockenturm.', 'In der Nähe einer alten Eisenmine."],
-      hu: ["Egyszerű, vidéki stílus.', 'Kicsi harangtorony.', 'Egy régi vasbánya közelében."],
-      ro: ["Stil simplu, rural.', 'Clopotniță mică.', 'Aproape de o veche mină de fier."],
-      en: ["Simple, rural style.', 'Small bell tower.', 'Near an old iron mine."],
+      de: ["Hauptkonzertsaal des Landes.", "In einem historischen Gebäude.", "Austragungsort des Narciso Yepes Festivals."],
+      hu: ["Az ország fő koncertterme.", "Egy történelmi épületben található.", "A Narciso Yepes Fesztivál helyszíne."],
+      ro: ["Principala sală de concerte a țării.", "Într-o clădire istorică.", "Gazdă a Festivalului Narciso Yepes."],
+      en: ["The country's main concert hall.", "Housed in a historic building.", "Venue for the Narciso Yepes Festival."]
     },
+    plizioChallenge: "Ha egy koncerten 300 ülőhely van, és a jegyek 85%-a kelt el, hány üres hely maradt?"
+  },
+  // La Massana Parish
+  {
+    id: "historical-pont-de-sant-antoni-de-la-grella-extra",
+    type: "landmark",
+    parent: "AD-04",
+    coords: [1.5061, 42.5255],
+    name: {
+      de: "Brücke Sant Antoni de la Grella",
+      hu: "Sant Antoni de la Grella híd",
+      ro: "Podul Sant Antoni de la Grella",
+      en: "Sant Antoni de la Grella Bridge"
+    },
+    description: {
+      de: "Eine mittelalterliche Brücke mit einem einzigen großen Bogen, die einst ein wichtiger Zugangspunkt nach La Massana war.",
+      hu: "Egy középkori híd egyetlen nagy ívvel, amely egykor fontos belépési pont volt La Massanába.",
+      ro: "Un pod medieval cu un singur arc mare, care a fost odată un punct de acces crucial către La Massana.",
+      en: "A medieval bridge with a single large arch that was once a crucial access point to La Massana."
+    },
+    facts: {
+      de: ["Romanischen Ursprungs.", "Überquert den Fluss Valira del Nord.", "War Teil der alten königlichen Straße."],
+      hu: ["Román kori eredetű.", "A Valira del Nord folyón ível át.", "A régi királyi út része volt."],
+      ro: ["De origine romanică.", "Traversează râul Valira del Nord.", "Făcea parte din vechiul drum regal."],
+      en: ["Of Romanesque origin.", "Crosses the Valira del Nord river.", "Was part of the old royal road."]
+    },
+    plizioChallenge: "Ha a híd 25 méter hosszú, és egy űrhajó 5 m/s sebességgel halad át felette, mennyi idő alatt teszi meg?"
   },
   {
-    id: 'historical-pont-de-sant-antoni-de-la-grella-extra',
-    type: 'historical',
-    parent: 'AD-05', // La Massana
-    coords: [1.512, 42.525],
+    id: "historical-esglesia-de-sant-cristofol-d-anyos-extra",
+    type: "historical",
+    parent: "AD-04",
+    coords: [1.5303, 42.5331],
     name: {
-        de: 'Brücke Sant Antoni de la Grella',
-        hu: 'Sant Antoni de la Grella híd',
-        ro: 'Podul Sant Antoni de la Grella',
-        en: 'Sant Antoni de la Grella Bridge'
+      de: "Kirche Sant Cristòfol d'Anyós",
+      hu: "Sant Cristòfol d'Anyós templom",
+      ro: "Biserica Sant Cristòfol d'Anyós",
+      en: "Church of Sant Cristòfol d'Anyós"
     },
     description: {
-        de: 'Eine mittelalterliche Steinbrücke romanischen Ursprungs, die einst ein wichtiger Verkehrsweg war.',
-        hu: 'Egy román eredetű középkori kőhíd, amely egykor fontos közlekedési útvonal volt.',
-        ro: 'Un pod medieval de piatră de origine romanică, care a fost odată o rută de transport importantă.',
-        en: 'A medieval stone bridge of Romanesque origin that was once an important transport route.'
+      de: "Eine romanische Kirche aus dem 12. Jahrhundert auf einem Hügel mit Panoramablick. Sie ist bekannt für ihre Wandmalereien, die Szenen aus dem Jüngsten Gericht darstellen.",
+      hu: "Egy 12. századi román stílusú templom egy dombon, panorámás kilátással. Híres falfestményeiről, amelyek az Utolsó Ítélet jeleneteit ábrázolják.",
+      ro: "O biserică romanică din secolul al XII-lea, situată pe un deal cu vederi panoramice. Este renumită pentru picturile sale murale care înfățișează scene din Judecata de Apoi.",
+      en: "A 12th-century Romanesque church located on a hill with panoramic views. It is famous for its murals depicting scenes from the Last Judgment."
     },
     facts: {
-        de: ["Großer zentraler Bogen.', 'Verbindet die Pfarreien La Massana und Andorra la Vella.', 'Legende über den Teufel, der beim Bau half."],
-        hu: ["Nagy központi ív.', 'Összeköti La Massana és Andorra la Vella parókiáit.', 'Legenda az ördögről, aki segített az építésben."],
-        ro: ["Arc central mare.', 'Leagă parohiile La Massana și Andorra la Vella.', 'Legendă despre diavolul care a ajutat la construcție."],
-        en: ["Large central arch.', 'Connects the parishes of La Massana and Andorra la Vella.', 'Legend about the devil helping in its construction."]
-    }
+      de: ["Erbaut im 12. Jahrhundert.", "Romanische Wandmalereien.", "Strategische Aussichtslage."],
+      hu: ["A 12. században épült.", "Román stílusú falfestmények.", "Stratégiai kilátópont."],
+      ro: ["Construită în secolul al XII-lea.", "Picturi murale romanice.", "Locație strategică cu priveliște."],
+      en: ["Built in the 12th century.", "Romanesque murals.", "Strategic viewpoint location."]
+    },
+    plizioChallenge: "Ha a templom 1300 méter magasan van, és te 1000 méteren kezdesz, hány méter szintkülönbséget kell megtenned?"
   },
   {
-    id: 'historical-collegiata-sant-vicenc-extra',
-    type: 'historical',
-    parent: 'AD-03', // Encamp
-    coords: [1.571, 42.540],
+    id: "historical-museu-del-comic-extra",
+    type: "landmark",
+    parent: "AD-04",
+    coords: [1.5152, 42.5463],
     name: {
-      de: 'Stiftskirche Sant Vicenç',
-      hu: 'Szent Vince társkáptalan',
-      ro: 'Biserica Colegiată Sant Vicenç',
-      en: 'Collegiate Church of Sant Vicenç',
+      de: "Comic-Museum",
+      hu: "Képregénymúzeum",
+      ro: "Muzeul Benzilor Desenate",
+      en: "Comic Museum"
     },
     description: {
-      de: 'Obwohl nur noch wenige Überreste vorhanden sind, war dies einst eine wichtige religiöse Stätte in Encamp.',
-      hu: 'Bár már csak néhány maradványa van, ez egykor fontos vallási hely volt Encampban.',
-      ro: 'Deși mai există doar câteva rămășițe, acesta a fost odată un important sit religios în Encamp.',
-      en: 'Although only a few remains exist, this was once an important religious site in Encamp.',
+      de: "Das in La Massana gelegene Museum ist der Welt der Comics gewidmet und zeigt wechselnde Ausstellungen von nationalen und internationalen Künstlern.",
+      hu: "A La Massanában található múzeum a képregények világának szentelt, és nemzeti és nemzetközi művészek időszakos kiállításait mutatja be.",
+      ro: "Situat în La Massana, acest muzeu este dedicat lumii benzilor desenate, prezentând expoziții temporare ale artiștilor naționali și internaționali.",
+      en: "Located in La Massana, this museum is dedicated to the world of comics, featuring temporary exhibitions by national and international artists."
     },
     facts: {
-      de: ["Stammt aus dem Mittelalter.', 'Befindet sich im historischen Komplex von Les Bons.', 'Wichtige archäologische Stätte."],
-      hu: ["A középkorból származik.', 'A Les Bons történelmi komplexumban található.', 'Fontos régészeti lelőhely."],
-      ro: ["Datează din Evul Mediu.', 'Situată în complexul istoric Les Bons.', 'Situl arheologic important."],
-      en: ["Dates from the Middle Ages.', 'Located in the Les Bons historical complex.', 'Important archaeological site."],
+      de: ["Einziges Comic-Museum in Andorra.", "Zeigt Originalzeichnungen.", "Veranstaltet häufig Workshops."],
+      hu: ["Andorra egyetlen képregénymúzeuma.", "Eredeti rajzokat állít ki.", "Gyakran tart workshopokat."],
+      ro: ["Singurul muzeu de benzi desenate din Andorra.", "Expune desene originale.", "Organizează frecvent ateliere."],
+      en: ["Andorra's only comic museum.", "Displays original drawings.", "Hosts frequent workshops."]
     },
+    plizioChallenge: "Ha egy kiállításon 120 képregényoldal látható, és minden oldal 4 képkockából áll, hány képkocka van összesen?"
   },
   {
-    id: 'historical-casa-de-la-justicia-extra',
-    type: 'historical',
-    parent: 'AD-07', // Andorra la Vella
-    coords: [1.521, 42.506],
+    id: "historical-esglesia-de-sant-joan-de-sispony-extra",
+    type: "historical",
+    parent: "AD-04",
+    coords: [1.503, 42.536],
     name: {
-      de: 'Gerichtsgebäude',
-      hu: 'Igazságügyi Palota',
-      ro: 'Palatul de Justiție',
-      en: 'Courthouse',
+      de: "Kirche Sant Joan de Sispony",
+      hu: "Sant Joan de Sispony templom",
+      ro: "Biserica Sant Joan de Sispony",
+      en: "Church of Sant Joan de Sispony"
     },
     description: {
-      de: 'Der Sitz des andorranischen Justizsystems, der sich in der Nähe des historischen Zentrums befindet.',
-      hu: 'Az andorrai igazságügyi rendszer székhelye, amely a történelmi központ közelében található.',
-      ro: 'Sediul sistemului judiciar andorran, situat în apropierea centrului istoric.',
-      en: 'The seat of the Andorran judicial system, located near the historic center.',
+      de: "Eine mittelalterliche Kirche, die im 17. Jahrhundert umgebaut wurde. Sie befindet sich im malerischen Dorf Sispony und bewahrt ein barockes Altarbild.",
+      hu: "Egy középkori templom, amelyet a 17. században átépítettek. Sispony festői falujában található, és egy barokk oltárképet őriz.",
+      ro: "O biserică medievală, modificată în secolul al XVII-lea. Este situată în satul pitoresc Sispony și păstrează un retablu baroc.",
+      en: "A medieval church, modified in the 17th century. It is located in the picturesque village of Sispony and preserves a Baroque altarpiece."
     },
     facts: {
-      de: ["Modernes Gebäude.', 'Beherbergt die Gerichte und das Justizministerium.', 'Symbol der Gewaltenteilung in Andorra."],
-      hu: ["Modern épület.', 'Itt találhatók a bíróságok és az Igazságügyi Minisztérium.', 'A hatalmi ágak szétválasztásának szimbóluma Andorrában."],
-      ro: ["Clădire modernă.', 'Găzduiește instanțele și Ministerul Justiției.', 'Simbol al separării puterilor în Andorra."],
-      en: ["Modern building.', 'Houses the courts and the Ministry of Justice.', 'Symbol of the separation of powers in Andorra."],
+      de: ["Mittelalterlicher Ursprung.", "Im 17. Jahrhundert umgebaut.", "Barockes Altarbild im Inneren."],
+      hu: ["Középkori eredetű.", "A 17. században átépítették.", "Belsejében barokk oltárkép található."],
+      ro: ["Origine medievală.", "Modificată în secolul al XVII-lea.", "Retablu baroc în interior."],
+      en: ["Medieval origin.", "Modified in the 17th century.", "Baroque altarpiece inside."]
     },
+    plizioChallenge: "Ha a templomot 1680-ban építették át, hány év telt el azóta 2020-ig?"
+  },
+  // Andorra la Vella Parish
+  {
+    id: "historical-esglesia-de-sant-esteve-extra",
+    type: "historical",
+    parent: "AD-07",
+    coords: [1.5211, 42.5075],
+    name: {
+      de: "Kirche Sant Esteve",
+      hu: "Szent István templom",
+      ro: "Biserica Sant Esteve",
+      en: "Church of Saint Stephen"
+    },
+    description: {
+      de: "Eine Kirche romanischen Ursprungs im Herzen von Andorra la Vella. Sie wurde im 20. Jahrhundert umfassend renoviert, bewahrt aber ihre ursprüngliche Apsis und Wandmalereien.",
+      hu: "Egy román kori eredetű templom Andorra la Vella szívében. A 20. században alaposan felújították, de megőrizte eredeti apszisát és falfestményeit.",
+      ro: "O biserică de origine romanică în inima Andorrei la Vella. A fost renovată extensiv în secolul al XX-lea, dar își păstrează absida și picturile murale originale.",
+      en: "A church of Romanesque origin in the heart of Andorra la Vella. It was extensively renovated in the 20th century but retains its original apse and murals."
+    },
+    facts: {
+      de: ["Romanischer Ursprung (12. Jh.).", "Lage im historischen Zentrum.", "Enthält romanische Malereien."],
+      hu: ["Román kori eredetű (12. sz.).", "A történelmi központban található.", "Román kori festményeket tartalmaz."],
+      ro: ["Origine romanică (secolul al XII-lea).", "Situată în centrul istoric.", "Conține picturi romanice."],
+      en: ["Romanesque origin (12th c.).", "Located in the historic center.", "Contains Romanesque paintings."]
+    },
+    plizioChallenge: "Ha a templom eredetileg a 12. században épült és a 20. században újították fel, hány évszázad telt el a kettő között?"
   },
   {
-    id: 'historical-tristaina-viewpoint-extra',
-    type: 'landmark',
-    parent: 'AD-04', // Ordino
-    coords: [1.500, 42.641],
+    id: "historical-parlament-d-andorra-consell-general-extra",
+    type: "landmark",
+    parent: "AD-07",
+    coords: [1.5208, 42.507],
     name: {
-      de: 'Aussichtspunkt Tristaina',
-      hu: 'Tristaina kilátó',
-      ro: 'Punctul de belvedere Tristaina',
-      en: 'Tristaina Viewpoint',
+      de: "Parlament von Andorra (Consell General)",
+      hu: "Andorrai Parlament (Consell General)",
+      ro: "Parlamentul Andorrei (Consell General)",
+      en: "Parliament of Andorra (Consell General)"
     },
     description: {
-      de: 'Eine moderne ringförmige Struktur, die einen 360-Grad-Panoramablick auf die Tristaina-Seen und die umliegenden Berge bietet.',
-      hu: 'Egy modern, gyűrű alakú építmény, amely 360 fokos panorámás kilátást nyújt a Tristaina-tavakra és a környező hegyekre.',
-      ro: 'O structură circulară modernă care oferă vederi panoramice de 360 de grade ale lacurilor Tristaina și munților din jur.',
-      en: 'A modern circular structure offering 360-degree panoramic views of the Tristaina lakes and surrounding mountains.',
+      de: "Das neue Parlamentsgebäude von Andorra, das sich neben der historischen Casa de la Vall befindet. Es ist der Sitz der Legislative des Fürstentums.",
+      hu: "Andorra új parlamentjének épülete, amely a történelmi Casa de la Vall mellett található. Ez a hercegség törvényhozó testületének székhelye.",
+      ro: "Noua clădire a parlamentului Andorrei, situată lângă istorica Casa de la Vall. Este sediul puterii legislative a principatului.",
+      en: "The new parliament building of Andorra, located next to the historic Casa de la Vall. It is the seat of the principality's legislative branch."
     },
     facts: {
-      de: ["Eröffnet im Jahr 2021.', 'Entworfen, um sich in die Landschaft einzufügen.', 'Befindet sich auf dem Gipfel des Peyreguils."],
-      hu: ["2021-ben nyílt meg.', 'Úgy tervezték, hogy beleolvadjon a tájba.', 'A Peyreguils csúcsán található."],
-      ro: ["Inaugurat în 2021.', 'Proiectat pentru a se integra în peisaj.', 'Situat pe vârful Peyreguils."],
-      en: ["Opened in 2021.', 'Designed to blend into the landscape.', 'Located on the peak of Peyreguils."],
+      de: ["Eingeweiht im Jahr 2011.", "Moderner Architekturstil.", "Sitz des andorranischen Parlaments."],
+      hu: ["2011-ben avatták fel.", "Modern építészeti stílus.", "Az andorrai parlament székhelye."],
+      ro: ["Inaugurat în 2011.", "Stil arhitectural modern.", "Sediul parlamentului andorran."],
+      en: ["Inaugurated in 2011.", "Modern architectural style.", "Seat of the Andorran parliament."]
     },
+    plizioChallenge: "Ha a parlamentben 28 képviselő van, és a népesség 77 000 fő, hány lakos jut egy képviselőre?"
+  },
+  {
+    id: "historical-barri-antic-andorra-la-vella-extra",
+    type: "historical",
+    parent: "AD-07",
+    coords: [1.5205, 42.5072],
+    name: {
+      de: "Altstadt von Andorra la Vella",
+      hu: "Andorra la Vella óvárosa",
+      ro: "Centrul Vechi din Andorra la Vella",
+      en: "Old Town of Andorra la Vella"
+    },
+    description: {
+      de: "Das historische Herz der Hauptstadt mit engen Kopfsteinpflasterstraßen, Steinhäusern und wichtigen Gebäuden wie der Casa de la Vall.",
+      hu: "A főváros történelmi szíve szűk macskaköves utcákkal, kőházakkal és olyan fontos épületekkel, mint a Casa de la Vall.",
+      ro: "Inima istorică a capitalei, cu străzi înguste pavate cu piatră, case de piatră și clădiri importante precum Casa de la Vall.",
+      en: "The historic heart of the capital, featuring narrow cobblestone streets, stone houses, and important buildings like the Casa de la Vall."
+    },
+    facts: {
+      de: ["Enge Kopfsteinpflasterstraßen.", "Traditionelle Steingebäude.", "Beherbergt die Casa de la Vall."],
+      hu: ["Szűk macskaköves utcák.", "Hagyományos kőépületek.", "Itt található a Casa de la Vall."],
+      ro: ["Străzi înguste pavate cu piatră.", "Clădiri tradiționale din piatră.", "Găzduiește Casa de la Vall."],
+      en: ["Narrow cobblestone streets.", "Traditional stone buildings.", "Home to the Casa de la Vall."]
+    },
+    plizioChallenge: "Ha egy utca 2 méter széles, hány ilyen utca férne el egymás mellett egy 20 méter széles területen?"
+  },
+  {
+    id: "historical-rec-del-sola-extra",
+    type: "historical",
+    parent: "AD-07",
+    coords: [1.528, 42.51],
+    name: {
+      de: "Solà-Bewässerungskanal",
+      hu: "Solà öntözőcsatorna",
+      ro: "Canalul de irigații Solà",
+      en: "Solà Irrigation Canal"
+    },
+    description: {
+      de: "Ein historischer Bewässerungskanal, der heute ein beliebter Wanderweg oberhalb von Andorra la Vella ist und Einblicke in die traditionelle Wassernutzung sowie tolle Ausblicke bietet.",
+      hu: "Egy történelmi öntözőcsatorna, amely ma népszerű sétaút Andorra la Vella felett, bepillantást nyújtva a hagyományos vízgazdálkodásba és nagyszerű kilátást kínálva.",
+      ro: "Un canal de irigații istoric, acum o potecă populară deasupra Andorrei la Vella, oferind o perspectivă asupra gestionării tradiționale a apei și vederi minunate.",
+      en: "A historic irrigation canal, now a popular walking path above Andorra la Vella, offering insights into traditional water management and great views."
+    },
+    facts: {
+      de: ["Historischer Bewässerungsweg.", "Panoramaweg.", "Zeigt traditionelle Landwirtschaft."],
+      hu: ["Történelmi öntözőútvonal.", "Panoráma sétaút.", "A hagyományos mezőgazdaságot mutatja be."],
+      ro: ["Traseu istoric de irigații.", "Potecă panoramică.", "Prezintă agricultura tradițională."],
+      en: ["Historic irrigation path.", "Panoramic walking trail.", "Shows traditional agriculture."]
+    },
+    plizioChallenge: "Ha a csatorna 2 km hosszú, és 30 perc alatt sétálod végig, mennyi az átlagsebességed km/h-ban?"
+  },
+  // Sant Julià de Lòria Parish
+  {
+    id: "historical-esglesia-de-sant-cerni-de-nagol-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.4939, 42.4789],
+    name: {
+      de: "Kirche Sant Cerni de Nagol",
+      hu: "Sant Cerni de Nagol templom",
+      ro: "Biserica Sant Cerni de Nagol",
+      en: "Church of Sant Cerni de Nagol"
+    },
+    description: {
+      de: "Eine romanische Kirche aus dem 11. Jahrhundert, die in einen Felsen gehauen ist. Sie ist bekannt für ihre geringe Größe und ihre gut erhaltenen romanischen Wandmalereien.",
+      hu: "Egy 11. századi román stílusú templom, amelyet egy sziklába vájtak. Kis méretéről és jól megőrzött román kori falfestményeiről ismert.",
+      ro: "O biserică romanică din secolul al XI-lea, sculptată într-o stâncă. Este cunoscută pentru dimensiunile sale reduse și pentru picturile murale romanice bine conservate.",
+      en: "An 11th-century Romanesque church carved into a rock. It is known for its small size and its well-preserved Romanesque murals."
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1055.", "In Felsen gehauen.", "Romanische Wandmalereien."],
+      hu: ["1055-ben épült.", "Sziklába vájták.", "Román kori falfestmények."],
+      ro: ["Construită în 1055.", "Sculptată în stâncă.", "Picturi murale romanice."],
+      en: ["Built in 1055.", "Carved into the rock.", "Romanesque murals."]
+    },
+    plizioChallenge: "Ha a templomot 1055-ben szentelték fel, hányadik évfordulóját ünnepelték 2005-ben?"
+  },
+  {
+    id: "historical-santuari-de-canolic-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.48, 42.44],
+    name: {
+      de: "Heiligtum von Canòlic",
+      hu: "Canòlici szentély",
+      ro: "Sanctuarul din Canòlic",
+      en: "Sanctuary of Canòlic"
+    },
+    description: {
+      de: "Ein romanisches Heiligtum, das im 17. Jahrhundert umgebaut wurde. Es ist ein wichtiger Wallfahrtsort, an dem eine romanische Marienstatue aus dem 12. Jahrhundert aufbewahrt wird.",
+      hu: "Egy román kori szentély, amelyet a 17. században átépítettek. Fontos zarándokhely, amely egy 12. századi román stílusú Mária-szobrot őriz.",
+      ro: "Un sanctuar romanic, modificat în secolul al XVII-lea. Este un important loc de pelerinaj, care păstrează o statuie romanică a Fecioarei din secolul al XII-lea.",
+      en: "A Romanesque sanctuary, modified in the 17th century. It is an important pilgrimage site, housing a 12th-century Romanesque statue of the Virgin."
+    },
+    facts: {
+      de: ["Romanischer Ursprung (12. Jh.).", "Wichtiger Wallfahrtsort.", "Beherbergt eine verehrte Marienstatue."],
+      hu: ["Román kori eredetű (12. sz.).", "Fontos zarándokhely.", "Egy tisztelt Mária-szobrot őriz."],
+      ro: ["Origine romanică (secolul al XII-lea).", "Important loc de pelerinaj.", "Găzduiește o statuie venerată a Fecioarei."],
+      en: ["Romanesque origin (12th c.).", "Important pilgrimage site.", "Houses a venerated statue of the Virgin."]
+    },
+    plizioChallenge: "Ha a zarándoklat május utolsó szombatján van, és május 1-je szerda, hanyadikára esik a zarándoklat?"
+  },
+  {
+    id: "historical-pont-de-la-fontaneda-extra",
+    type: "landmark",
+    parent: "AD-06",
+    coords: [1.479, 42.457],
+    name: {
+      de: "Brücke von Fontaneda",
+      hu: "Fontanedai híd",
+      ro: "Podul din Fontaneda",
+      en: "Fontaneda Bridge"
+    },
+    description: {
+      de: "Eine einfache, aber elegante mittelalterliche Brücke im Dorf Fontaneda, die den rustikalen Charme der alten andorranischen Architektur bewahrt.",
+      hu: "Egy egyszerű, mégis elegáns középkori híd Fontaneda faluban, amely megőrzi a régi andorrai építészet rusztikus báját.",
+      ro: "Un pod medieval simplu, dar elegant, în satul Fontaneda, care păstrează farmecul rustic al vechii arhitecturi andorrane.",
+      en: "A simple yet elegant medieval bridge in the village of Fontaneda, preserving the rustic charm of old Andorran architecture."
+    },
+    facts: {
+      de: ["Mittelalterliche Steinbrücke.", "Liegt im malerischen Dorf Fontaneda.", "Einfaches Bogendesign."],
+      hu: ["Középkori kőhíd.", "A festői Fontaneda faluban található.", "Egyszerű íves kialakítás."],
+      ro: ["Pod medieval de piatră.", "Situat în satul pitoresc Fontaneda.", "Design simplu în arc."],
+      en: ["Medieval stone bridge.", "Located in the picturesque village of Fontaneda.", "Simple arch design."]
+    },
+    plizioChallenge: "Ha a híd 15 méter hosszú és 3 méter széles, mekkora a területe?"
+  },
+  {
+    id: "historical-laurèdia-air-museum-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.491, 42.465],
+    name: {
+      de: "Luftfahrtmuseum Laurèdia",
+      hu: "Laurèdia Repülési Múzeum",
+      ro: "Muzeul Aerian Laurèdia",
+      en: "Laurèdia Air Museum"
+    },
+    description: {
+      de: "Ein Freilichtmuseum in Sant Julià de Lòria, das verschiedene historische Flugzeuge und Hubschrauber ausstellt.",
+      hu: "Egy szabadtéri múzeum Sant Julià de Lòriában, amely különböző történelmi repülőgépeket és helikoptereket állít ki.",
+      ro: "Un muzeu în aer liber în Sant Julià de Lòria, care expune diverse avioane și elicoptere istorice.",
+      en: "An open-air museum in Sant Julià de Lòria that displays various historical aircraft and helicopters."
+    },
+    facts: {
+      de: ["Freilichtmuseum.", "Ausstellung von Flugzeugen.", "Einzigartig in Andorra."],
+      hu: ["Szabadtéri múzeum.", "Repülőgépek kiállítása.", "Egyedülálló Andorrában."],
+      ro: ["Muzeu în aer liber.", "Expoziție de aeronave.", "Unic în Andorra."],
+      en: ["Open-air museum.", "Exhibition of aircraft.", "Unique in Andorra."]
+    },
+    plizioChallenge: "Ha egy helikopter rotorja percenként 400-szor forog, hányszor forog egy másodperc alatt (kb.)?"
+  },
+  // Escaldes-Engordany Parish
+  {
+    id: "historical-pont-d-engordany-extra",
+    type: "landmark",
+    parent: "AD-08",
+    coords: [1.541, 42.510],
+    name: {
+      de: "Brücke von Engordany",
+      hu: "Engordany hídja",
+      ro: "Podul din Engordany",
+      en: "Engordany Bridge"
+    },
+    description: {
+      de: "Eine mittelalterliche Brücke, die die alten Zentren von Escaldes und Engordany verbindet. Sie ist ein Symbol für die Vereinigung der beiden Städte.",
+      hu: "Egy középkori híd, amely összeköti Escaldes és Engordany régi központjait. A két város egyesülésének szimbóluma.",
+      ro: "Un pod medieval care leagă vechile centre Escaldes și Engordany. Este un simbol al unirii celor două orașe.",
+      en: "A medieval bridge that connects the old centers of Escaldes and Engordany. It is a symbol of the union of the two towns."
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1785.", "Verbindet Escaldes und Engordany.", "Steinbrücke über den Fluss Valira d'Orient."],
+      hu: ["1785-ben épült.", "Összeköti Escaldes-t és Engordany-t.", "Kőhíd a Valira d'Orient folyó felett."],
+      ro: ["Construit în 1785.", "Leagă Escaldes și Engordany.", "Pod de piatră peste râul Valira d'Orient."],
+      en: ["Built in 1785.", "Connects Escaldes and Engordany.", "Stone bridge over the Valira d'Orient river."]
+    },
+    plizioChallenge: "Ha a hidat 1785-ben építették, hány éves volt 2020-ban?"
+  },
+  {
+    id: "historical-esglesia-de-sant-pere-martir-extra",
+    type: "historical",
+    parent: "AD-08",
+    coords: [1.540, 42.509],
+    name: {
+      de: "Kirche Sant Pere Màrtir",
+      hu: "Sant Pere Màrtir templom",
+      ro: "Biserica Sant Pere Màrtir",
+      en: "Church of Sant Pere Màrtir"
+    },
+    description: {
+      de: "Eine Kirche, die 1956 erbaut wurde und neoromanische Elemente sowie Granit als Hauptbaumaterial verwendet. Sie ist bekannt für ihre Buntglasfenster.",
+      hu: "Egy 1956-ban épült templom, amely neoromán elemeket és gránitot használ fő építőanyagként. Ólomüveg ablakairól ismert.",
+      ro: "O biserică construită în 1956, care folosește elemente neo-romanice și granit ca principal material de construcție. Este cunoscută pentru vitraliile sale.",
+      en: "A church built in 1956, using neo-Romanesque elements and granite as the main construction material. It is known for its stained glass windows."
+    },
+    facts: {
+      de: ["Erbaut Mitte des 20. Jahrhunderts.", "Neoromanischer Stil.", "Buntglasfenster von Josep de Dalmases."],
+      hu: ["A 20. század közepén épült.", "Neoromán stílusú.", "Josep de Dalmases ólomüveg ablakai."],
+      ro: ["Construită la mijlocul secolului al XX-lea.", "Stil neo-romanic.", "Vitralii de Josep de Dalmases."],
+      en: ["Built in the mid-20th century.", "Neo-Romanesque style.", "Stained glass windows by Josep de Dalmases."]
+    },
+    plizioChallenge: "Ha a templomnak 10 nagy ólomüveg ablaka van, és mindegyik 150 üvegdarabból áll, hány darab üveget használtak összesen?"
+  },
+  {
+    id: "historical-ciac-centre-d-art-d-escaldes-engordany-extra",
+    type: "landmark",
+    parent: "AD-08",
+    coords: [1.541, 42.509],
+    name: {
+      de: "CIAC - Kunstzentrum Escaldes-Engordany",
+      hu: "CIAC - Escaldes-Engordany Művészeti Központ",
+      ro: "CIAC - Centrul de Artă Escaldes-Engordany",
+      en: "CIAC - Art Center of Escaldes-Engordany"
+    },
+    description: {
+      de: "Ein Kulturzentrum in einem historischen Gebäude, das Ausstellungen zur lokalen Geschichte, Kunst und den Modellen romanischer Kirchen in Andorra beherbergt.",
+      hu: "Egy kulturális központ egy történelmi épületben, amely a helyi történelemmel, művészettel és az andorrai román stílusú templomok makettjeivel kapcsolatos kiállításoknak ad otthont.",
+      ro: "Un centru cultural într-o clădire istorică, care găzduiește expoziții despre istoria locală, artă și modele ale bisericilor romanice din Andorra.",
+      en: "A cultural center in a historic building that hosts exhibitions on local history, art, and models of Andorra's Romanesque churches."
+    },
+    facts: {
+      de: ["Befindet sich in einem alten Schulgebäude.", "Zeigt Modelle romanischer Kunst.", "Veranstaltet Wechselausstellungen."],
+      hu: ["Egy régi iskolaépületben található.", "Román kori művészeti maketteket állít ki.", "Időszakos kiállításokat rendez."],
+      ro: ["Situat într-o clădire veche a unei școli.", "Expune modele de artă romanică.", "Găzduiește expoziții temporare."],
+      en: ["Located in an old school building.", "Displays models of Romanesque art.", "Hosts temporary exhibitions."]
+    },
+    plizioChallenge: "Ha egy kiállításon 20 templommakett látható, és mindegyik 1:50 méretarányú, egy 25 méter magas templom makettje milyen magas?"
+  },
+  {
+    id: "historical-font-del-roc-del-metge-extra",
+    type: "historical",
+    parent: "AD-08",
+    coords: [1.542, 42.511],
+    name: {
+      de: "Quelle Roc del Metge",
+      hu: "Roc del Metge forrás",
+      ro: "Izvorul Roc del Metge",
+      en: "Roc del Metge Spring"
+    },
+    description: {
+      de: "Eine der berühmten Thermalquellen von Escaldes-Engordany, deren Wasser mit 70°C austritt. Es ist die heißeste Thermalquelle in den Pyrenäen.",
+      hu: "Escaldes-Engordany egyik híres termálforrása, melynek vize 70°C-on tör a felszínre. A Pireneusok legforróbb termálforrása.",
+      ro: "Unul dintre faimoasele izvoare termale din Escaldes-Engordany, a cărui apă izvorăște la 70°C. Este cel mai fierbinte izvor termal din Pirinei.",
+      en: "One of the famous hot springs of Escaldes-Engordany, with water emerging at 70°C. It is the hottest thermal spring in the Pyrenees."
+    },
+    facts: {
+      de: ["70°C heißes Thermalwasser.", "Schwefelhaltiges Wasser.", "Historisch für die Wollwäsche genutzt."],
+      hu: ["70°C-os termálvíz.", "Kénes víz.", "Történelmileg gyapjúmosásra használták."],
+      ro: ["Apă termală la 70°C.", "Apă sulfuroasă.", "Folosit istoric pentru spălarea lânii."],
+      en: ["70°C thermal water.", "Sulphurous water.", "Historically used for washing wool."]
+    },
+    plizioChallenge: "Ha a víz 70°C-os, és a levegő 15°C-os, mekkora a hőmérséklet-különbség?"
+  },
+  // More POIs to reach 50
+  {
+    id: "historical-esglesia-de-sant-roma-de-les-bons-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.5833, 42.535],
+    name: {
+      de: "Kirche Sant Romà de les Bons",
+      hu: "Sant Romà de les Bons templom",
+      ro: "Biserica Sant Romà de les Bons",
+      en: "Church of Sant Romà de les Bons"
+    },
+    description: {
+      de: "Eine romanische Kirche aus dem 12. Jahrhundert mit lombardischen Einflüssen und bemerkenswerten Wandmalereien, die heute im Nationalmuseum für Katalanische Kunst in Barcelona aufbewahrt werden.",
+      hu: "Egy 12. századi, lombard hatásokat mutató román stílusú templom, melynek figyelemre méltó falfestményeit ma a barcelonai Katalán Nemzeti Művészeti Múzeumban őrzik.",
+      ro: "O biserică romanică din secolul al XII-lea cu influențe lombarde și picturi murale remarcabile, păstrate acum la Muzeul Național de Artă al Cataloniei din Barcelona.",
+      en: "A 12th-century Romanesque church with Lombard influences and notable murals, now preserved in the National Art Museum of Catalonia in Barcelona."
+    },
+    facts: {
+      de: ["Erbaut im 12. Jahrhundert.", "Originalgemälde in Barcelona.", "Teil des Komplexes Les Bons."],
+      hu: ["A 12. században épült.", "Eredeti festményei Barcelonában vannak.", "A Les Bons komplexum része."],
+      ro: ["Construită în secolul al XII-lea.", "Picturile originale sunt la Barcelona.", "Parte a complexului Les Bons."],
+      en: ["Built in the 12th century.", "Original paintings are in Barcelona.", "Part of the Les Bons complex."]
+    },
+    plizioChallenge: "Ha a falfestményeket 800 km-re szállították Barcelonába, és az út 10 órát tartott, mennyi volt az átlagsebesség?"
+  },
+  {
+    id: "historical-torre-dels-moros-les-bons-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.5835, 42.5352],
+    name: {
+      de: "Maurenturm in Les Bons",
+      hu: "Mór torony Les Bons-ban",
+      ro: "Turnul Maurilor din Les Bons",
+      en: "Moors' Tower in Les Bons"
+    },
+    description: {
+      de: "Ein mittelalterlicher Wachturm, der Teil des historischen Komplexes von Les Bons ist und zur Überwachung des Tals diente.",
+      hu: "Egy középkori őrtorony, amely a Les Bons-i történelmi komplexum részét képezi, és a völgy megfigyelésére szolgált.",
+      ro: "Un turn de veghe medieval care face parte din complexul istoric Les Bons, folosit pentru a supraveghea valea.",
+      en: "A medieval watchtower, part of the historical complex of Les Bons, used for surveillance of the valley."
+    },
+    facts: {
+      de: ["Mittelalterlicher Verteidigungsturm.", "Strategische Position.", "Bietet tolle Aussichten."],
+      hu: ["Középkori védelmi torony.", "Stratégiai pozíció.", "Nagyszerű kilátást nyújt."],
+      ro: ["Turn de apărare medieval.", "Poziție strategică.", "Oferă priveliști minunate."],
+      en: ["Medieval defense tower.", "Strategic position.", "Offers great views."]
+    },
+    plizioChallenge: "Ha a toronyból 15 km-re lehet ellátni, mekkora területet lehet belátni (körként számolva, A=πr²)? Adj meg egy becslést."
+  },
+  {
+    id: "historical-esglesia-de-sant-vicenc-d-enclar-extra",
+    type: "historical",
+    parent: "AD-07",
+    coords: [1.508, 42.498],
+    name: {
+      de: "Kirche Sant Vicenç d'Enclar",
+      hu: "Sant Vicenç d'Enclar templom",
+      ro: "Biserica Sant Vicenç d'Enclar",
+      en: "Church of Sant Vicenç d'Enclar"
+    },
+    description: {
+      de: "Die Überreste einer vorromanischen Kirche auf einem Hügel, Teil einer größeren mittelalterlichen Festungsanlage. Es ist eine der ältesten Kirchen in Andorra.",
+      hu: "Egy dombon álló, preromán stílusú templom maradványai, egy nagyobb középkori erődítmény részeként. Andorra egyik legrégebbi temploma.",
+      ro: "Rămășițele unei biserici pre-romanice pe un deal, parte a unei fortificații medievale mai mari. Este una dintre cele mai vechi biserici din Andorra.",
+      en: "The remains of a pre-Romanesque church on a hill, part of a larger medieval fortification. It is one of the oldest churches in Andorra."
+    },
+    facts: {
+      de: ["Erbaut um das 8.-9. Jahrhundert.", "Teil einer mittelalterlichen Burg.", "Wichtige archäologische Stätte."],
+      hu: ["A 8-9. század körül épült.", "Egy középkori vár része.", "Fontos régészeti lelőhely."],
+      ro: ["Construită în jurul secolelor VIII-IX.", "Parte a unui castel medieval.", "Sit arheologic important."],
+      en: ["Built around the 8th-9th century.", "Part of a medieval castle.", "Important archaeological site."]
+    },
+    plizioChallenge: "Ha a templom a 9. században épült, hány évszázaddal korábban, mint a 12. századi Sant Joan de Caselles?"
+  },
+  {
+    id: "landmark-pont-d-escaldes-extra",
+    type: "landmark",
+    parent: "AD-08",
+    coords: [1.5383, 42.5088],
+    name: {
+      de: "Brücke von Escaldes",
+      hu: "Escaldes híd",
+      ro: "Podul din Escaldes",
+      en: "Escaldes Bridge"
+    },
+    description: {
+      de: "Eine historische Steinbrücke, die das Zentrum von Escaldes-Engordany überspannt und ein Zeugnis der traditionellen Ingenieurskunst der Region ist.",
+      hu: "Egy történelmi kőhíd, amely Escaldes-Engordany központját íveli át, tanúbizonyságot téve a régió hagyományos mérnöki tudásáról.",
+      ro: "Un pod istoric de piatră care traversează centrul Escaldes-Engordany, o mărturie a ingineriei tradiționale din regiune.",
+      en: "A historic stone bridge spanning the center of Escaldes-Engordany, a testament to the region's traditional engineering."
+    },
+    facts: {
+      de: ["Mittelalterlicher Steinbogen.", "Im Herzen der Stadt.", "Fotomotiv."],
+      hu: ["Középkori kőív.", "A város szívében.", "Népszerű fotótéma."],
+      ro: ["Arc medieval de piatră.", "În inima orașului.", "Loc popular pentru fotografii."],
+      en: ["Medieval stone arch.", "In the heart of the city.", "Popular photo spot."]
+    },
+    plizioChallenge: "Ha a híd 20 méter hosszú, hány lépés egy átlagos embernek (0,75 m/lépés) átkelni rajta?"
+  },
+  {
+    id: "historical-esglesia-de-sant-jaume-dels-cortals-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.6167, 42.5333],
+    name: {
+      de: "Kirche Sant Jaume dels Cortals",
+      hu: "Sant Jaume dels Cortals templom",
+      ro: "Biserica Sant Jaume dels Cortals",
+      en: "Church of Sant Jaume dels Cortals"
+    },
+    description: {
+      de: "Eine moderne Kirche in den Bergen von Encamp, bekannt für ihre Integration in die natürliche Landschaft und ihre innovative Architektur.",
+      hu: "Egy modern templom Encamp hegyei között, amely a természeti tájba való beilleszkedéséről és innovatív építészetéről ismert.",
+      ro: "O biserică modernă în munții din Encamp, cunoscută pentru integrarea sa în peisajul natural și arhitectura sa inovatoare.",
+      en: "A modern church in the mountains of Encamp, known for its integration with the natural landscape and its innovative architecture."
+    },
+    facts: {
+      de: ["Zeitgenössische religiöse Architektur.", "Erbaut im 20. Jahrhundert.", "Bietet spektakuläre Aussichten."],
+      hu: ["Kortárs vallási építészet.", "A 20. században épült.", "Látványos kilátást nyújt."],
+      ro: ["Arhitectură religioasă contemporană.", "Construită în secolul XX.", "Oferă vederi spectaculoase."],
+      en: ["Contemporary religious architecture.", "Built in the 20th century.", "Offers spectacular views."]
+    },
+    plizioChallenge: "Ha a templom 1900 méter magasan van, mennyivel van magasabban, mint a 1023 méteren fekvő Andorra la Vella?"
+  },
+  {
+    id: "historical-esglesia-de-sant-andreu-d-arinsal-extra",
+    type: "historical",
+    parent: "AD-04",
+    coords: [1.483, 42.572],
+    name: {
+      de: "Kirche Sant Andreu d'Arinsal",
+      hu: "Sant Andreu d'Arinsal templom",
+      ro: "Biserica Sant Andreu d'Arinsal",
+      en: "Church of Sant Andreu d'Arinsal"
+    },
+    description: {
+      de: "Eine kleine romanische Kirche im Dorf Arinsal, die im 17. Jahrhundert umgebaut wurde. Sie ist dem Heiligen Andreas gewidmet und bewahrt ein barockes Altarbild.",
+      hu: "Egy kis román stílusú templom Arinsal faluban, amelyet a 17. században átépítettek. Szent Andrásnak szentelték, és egy barokk oltárképet őriz.",
+      ro: "O mică biserică romanică în satul Arinsal, modificată în secolul al XVII-lea. Este dedicată Sfântului Andrei și păstrează un retablu baroc.",
+      en: "A small Romanesque church in the village of Arinsal, modified in the 17th century. It is dedicated to Saint Andrew and preserves a Baroque altarpiece."
+    },
+    facts: {
+      de: ["Romanischer Ursprung.", "Barockes Altarbild aus dem 18. Jh.", "Im Dorf Arinsal gelegen."],
+      hu: ["Román kori eredetű.", "18. századi barokk oltárkép.", "Arinsal faluban található."],
+      ro: ["Origine romanică.", "Retablu baroc din secolul al XVIII-lea.", "Situată în satul Arinsal."],
+      en: ["Romanesque origin.", "18th-century Baroque altarpiece.", "Located in the village of Arinsal."]
+    },
+    plizioChallenge: "Ha a barokk oltárképet 1720-ban készítették, hány évvel később, mint a templom 12. századi alapítását (kb. 1150)?"
+  },
+  {
+    id: "historical-capella-de-sant-mateu-de-pui-d-olivesa-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.468, 42.455],
+    name: {
+      de: "Kapelle Sant Mateu de Pui d'Olivesa",
+      hu: "Sant Mateu de Pui d'Olivesa kápolna",
+      ro: "Capela Sant Mateu de Pui d'Olivesa",
+      en: "Chapel of Sant Mateu de Pui d'Olivesa"
+    },
+    description: {
+      de: "Eine kleine romanische Kapelle in Sant Julià de Lòria, die hoch über dem Tal thront und eine einfache, aber eindrucksvolle Architektur aufweist.",
+      hu: "Egy kis román stílusú kápolna Sant Julià de Lòriában, magasan a völgy felett, egyszerű, de lenyűgöző építészettel.",
+      ro: "O mică capelă romanică în Sant Julià de Lòria, așezată sus deasupra văii, cu o arhitectură simplă, dar impresionantă.",
+      en: "A small Romanesque chapel in Sant Julià de Lòria, perched high above the valley, featuring simple yet evocative architecture."
+    },
+    facts: {
+      de: ["Romanische Architektur.", "Panoramablick auf Sant Julià.", "Isolierte, friedliche Lage."],
+      hu: ["Román kori építészet.", "Panorámás kilátás Sant Julià-ra.", "Elszigetelt, békés helyen."],
+      ro: ["Arhitectură romanică.", "Vederi panoramice ale Sant Julià.", "Locație izolată și pașnică."],
+      en: ["Romanesque architecture.", "Panoramic views of Sant Julià.", "Isolated, peaceful location."]
+    },
+    plizioChallenge: "Ha a kápolnához vezető út 3 km hosszú és 300 méter szintemelkedést tartalmaz, mekkora az átlagos emelkedés százalékban?"
+  },
+  {
+    id: "historical-esglesia-de-sant-roma-d-aixirivall-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.512, 42.472],
+    name: {
+      de: "Kirche Sant Romà d'Aixirivall",
+      hu: "Sant Romà d'Aixirivall templom",
+      ro: "Biserica Sant Romà d'Aixirivall",
+      en: "Church of Sant Romà d'Aixirivall"
+    },
+    description: {
+      de: "Eine Kirche romanischen Ursprungs im Dorf Aixirivall, die im 17. Jahrhundert umgebaut wurde. Sie hat einen unverwechselbaren Glockengiebel.",
+      hu: "Egy román kori eredetű templom Aixirivall faluban, amelyet a 17. században átépítettek. Jellegzetes harangfala van.",
+      ro: "O biserică de origine romanică în satul Aixirivall, modificată în secolul al XVII-lea. Are un clopotniță-zid distinctivă.",
+      en: "A church of Romanesque origin in the village of Aixirivall, modified in the 17th century. It has a distinctive bell-gable."
+    },
+    facts: {
+      de: ["Romanischer Ursprung.", "Glockengiebel statt Turm.", "Im Dorf Aixirivall gelegen."],
+      hu: ["Román kori eredetű.", "Torony helyett harangfal.", "Aixirivall faluban található."],
+      ro: ["Origine romanică.", "Clopotniță-zid în loc de turn.", "Situată în satul Aixirivall."],
+      en: ["Romanesque origin.", "Bell-gable instead of a tower.", "Located in the village of Aixirivall."]
+    },
+    plizioChallenge: "Ha a harangfalon 2 harang van, és az egyik 250 kg, a másik 150 kg, mennyi a két harang össztömege?"
+  },
+  {
+    id: "historical-esglesia-de-sant-isidor-d-ancodina-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.543, 42.585],
+    name: {
+      de: "Kirche Sant Iscle i Santa Victòria",
+      hu: "Sant Iscle i Santa Victòria templom",
+      ro: "Biserica Sant Iscle i Santa Victòria",
+      en: "Church of Sant Iscle and Santa Victòria"
+    },
+    description: {
+      de: "Eine romanische Kirche im Dorf La Cortinada, die für ihre gut erhaltenen Wandmalereien aus dem 12. Jahrhundert und ein barockes Altarbild bekannt ist.",
+      hu: "Egy román stílusú templom La Cortinada faluban, amely jól megőrzött 12. századi falfestményeiről és egy barokk oltárképéről ismert.",
+      ro: "O biserică romanică în satul La Cortinada, cunoscută pentru picturile sale murale bine conservate din secolul al XII-lea și un retablu baroc.",
+      en: "A Romanesque church in the village of La Cortinada, known for its well-preserved 12th-century murals and a Baroque altarpiece."
+    },
+    facts: {
+      de: ["Romanische Wandmalereien (12. Jh.).", "Barockes Altarbild.", "Gitter aus Schmiedeeisen."],
+      hu: ["12. századi román falfestmények.", "Barokk oltárkép.", "Kovácsoltvas rácsok."],
+      ro: ["Picturi murale romanice (secolul al XII-lea).", "Retablu baroc.", "Grile din fier forjat."],
+      en: ["12th-century Romanesque murals.", "Baroque altarpiece.", "Wrought iron grilles."]
+    },
+    plizioChallenge: "Ha a falfestményeket egy 5 fős csapat 2 év alatt restaurálta, hány emberévnyi munka volt?"
+  },
+  {
+    id: "historical-cal-pal-centre-d-interpretacio-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.5432, 42.5851],
+    name: {
+      de: "Cal Pal Interpretationszentrum",
+      hu: "Cal Pal Értelmező Központ",
+      ro: "Centrul de Interpretare Cal Pal",
+      en: "Cal Pal Interpretation Center"
+    },
+    description: {
+      de: "Ein historisches Haus in La Cortinada, das in ein Interpretationszentrum umgewandelt wurde und das traditionelle Leben und die Architektur in den andorranischen Tälern zeigt.",
+      hu: "Egy történelmi ház La Cortinadában, amelyet értelmező központtá alakítottak át, bemutatva a hagyományos életet és építészetet az andorrai völgyekben.",
+      ro: "O casă istorică din La Cortinada, transformată într-un centru de interpretare, care prezintă viața și arhitectura tradițională din văile andorrane.",
+      en: "A historic house in La Cortinada, converted into an interpretation center showcasing traditional life and architecture in the Andorran valleys."
+    },
+    facts: {
+      de: ["Traditionelles andorranisches Haus.", "Fokus auf Ethnographie.", "In La Cortinada gelegen."],
+      hu: ["Hagyományos andorrai ház.", "Néprajzi fókuszú.", "La Cortinadában található."],
+      ro: ["Casă tradițională andorrană.", "Accent pe etnografie.", "Situată în La Cortinada."],
+      en: ["Traditional Andorran house.", "Focus on ethnography.", "Located in La Cortinada."]
+    },
+    plizioChallenge: "Ha egy család 5 generáción át élt a házban, és egy generációt 25 évnek számolunk, hány évig lakták a házat?"
+  },
+  {
+    id: "historical-mola-i-serradora-de-cal-pal-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.5435, 42.5855],
+    name: {
+      de: "Sägewerk und Mühle von Cal Pal",
+      hu: "Cal Pal fűrész- és vízimalom",
+      ro: "Gaterul și Moara de la Cal Pal",
+      en: "Sawmill and Mill of Cal Pal"
+    },
+    description: {
+      de: "Ein restauriertes wasserbetriebenes Sägewerk und eine Mühle neben dem Cal Pal Haus, die die industrielle Vergangenheit der Region veranschaulichen.",
+      hu: "A Cal Pal ház melletti felújított, vízzel hajtott fűrész- és vízimalom, amely a régió ipari múltját szemlélteti.",
+      ro: "Un gater și o moară acționate hidraulic, restaurate, lângă casa Cal Pal, care ilustrează trecutul industrial al regiunii.",
+      en: "A restored water-powered sawmill and mill located next to the Cal Pal house, illustrating the industrial past of the region."
+    },
+    facts: {
+      de: ["Wasserbetrieben.", "Zeigt Holz- und Getreideverarbeitung.", "Teil des Cal Pal Komplexes."],
+      hu: ["Vízenergia hajtja.", "Fa- és gabonafeldolgozást mutat be.", "A Cal Pal komplexum része."],
+      ro: ["Acționată hidraulic.", "Prezintă prelucrarea lemnului și a cerealelor.", "Parte a complexului Cal Pal."],
+      en: ["Water-powered.", "Shows wood and grain processing.", "Part of the Cal Pal complex."]
+    },
+    plizioChallenge: "Ha a fűrész percenként 2 rönköt vág fel, mennyi idő alatt vág fel 50 rönköt?"
+  },
+  {
+    id: "historical-pont-del-riu-dels-cortals-extra",
+    type: "landmark",
+    parent: "AD-03",
+    coords: [1.602, 42.534],
+    name: {
+      de: "Brücke über den Cortals-Fluss",
+      hu: "Cortals-folyó hídja",
+      ro: "Podul peste râul Cortals",
+      en: "Cortals River Bridge"
+    },
+    description: {
+      de: "Eine traditionelle Steinbrücke in der Nähe von Encamp, die ein Beispiel für die ländliche Ingenieurskunst in den andorranischen Bergen ist.",
+      hu: "Egy hagyományos kőhíd Encamp közelében, amely az andorrai hegyvidéki mérnöki munka példája.",
+      ro: "Un pod tradițional de piatră lângă Encamp, un exemplu de inginerie rurală din munții andorrani.",
+      en: "A traditional stone bridge near Encamp, an example of rural engineering in the Andorran mountains."
+    },
+    facts: {
+      de: ["Ländliche Steinbrücke.", "Überquert einen Gebirgsfluss.", "Rustikaler Charme."],
+      hu: ["Vidéki kőhíd.", "Egy hegyi folyón ível át.", "Rusztikus báj."],
+      ro: ["Pod rural de piatră.", "Traversează un râu de munte.", "Farmec rustic."],
+      en: ["Rural stone bridge.", "Crosses a mountain river.", "Rustic charm."]
+    },
+    plizioChallenge: "Ha a híd teherbírása 3 tonna, hány 60 kg-os ember mehet át rajta egyszerre?"
+  },
+  {
+    id: "historical-bordes-de-l-armiana-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.615, 42.573],
+    name: {
+      de: "Hütten von L'Armiana",
+      hu: "L'Armiana pásztorkunyhói",
+      ro: "Bordele din L'Armiana",
+      en: "Bordes of L'Armiana"
+    },
+    description: {
+      de: "Eine Gruppe traditioneller Steinhütten (bordes) in Canillo, die früher von Hirten als saisonale Unterkunft genutzt wurden.",
+      hu: "Hagyományos kőkunyhók (bordes) csoportja Canillóban, amelyeket régen pásztorok használtak szezonális szállásként.",
+      ro: "Un grup de borde tradiționale din piatră în Canillo, folosite în trecut de păstori ca adăposturi sezoniere.",
+      en: "A group of traditional stone huts (bordes) in Canillo, formerly used by shepherds as seasonal shelters."
+    },
+    facts: {
+      de: ["Traditionelle Hirtenhütten.", "Beispiel für ländliche Architektur.", "Zeugnis der Transhumanz."],
+      hu: ["Hagyományos pásztorkunyhók.", "A vidéki építészet példája.", "A transzhumálás tanúja."],
+      ro: ["Adăposturi tradiționale de păstori.", "Exemplu de arhitectură rurală.", "Mărturie a transhumanței."],
+      en: ["Traditional shepherd huts.", "Example of rural architecture.", "Testimony to transhumance."]
+    },
+    plizioChallenge: "Ha egy pásztor nyáron 90 napot töltött egy ilyen kunyhóban, ez az év hány százaléka (365 napos évvel számolva)?"
+  },
+  {
+    id: "historical-esglesia-de-sant-marti-de-nagol-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.4939, 42.4789],
+    name: {
+      de: "Kirche Sant Martí de Nagol",
+      hu: "Sant Martí de Nagol templom",
+      ro: "Biserica Sant Martí de Nagol",
+      en: "Church of Sant Martí de Nagol"
+    },
+    description: {
+      de: "Eine kleine, einfache romanische Kirche, die in der Nähe der bekannteren Sant Cerni de Nagol liegt und einen weiteren Einblick in die frühe religiöse Architektur Andorras bietet.",
+      hu: "Egy kicsi, egyszerű román stílusú templom a ismertebb Sant Cerni de Nagol közelében, amely további bepillantást nyújt Andorra korai vallási építészetébe.",
+      ro: "O biserică romanică mică și simplă, situată lângă mai cunoscuta Sant Cerni de Nagol, oferind o altă perspectivă asupra arhitecturii religioase timpurii a Andorrei.",
+      en: "A small, simple Romanesque church located near the more famous Sant Cerni de Nagol, offering another glimpse into Andorra's early religious architecture."
+    },
+    facts: {
+      de: ["Einfache romanische Struktur.", "In der Nähe von Sant Cerni de Nagol.", "Felsige Umgebung."],
+      hu: ["Egyszerű román stílusú építmény.", "A Sant Cerni de Nagol közelében.", "Sziklás környezetben."],
+      ro: ["Structură romanică simplă.", "Aproape de Sant Cerni de Nagol.", "Mediu stâncos."],
+      en: ["Simple Romanesque structure.", "Near Sant Cerni de Nagol.", "Rocky surroundings."]
+    },
+    plizioChallenge: "Ha két templom 200 méterre van egymástól, mennyi idő alatt sétálsz át egyikből a másikba 4 km/h sebességgel?"
+  },
+  {
+    id: "historical-casa-comuna-d-ordino-extra",
+    type: "landmark",
+    parent: "AD-05",
+    coords: [1.5335, 42.5565],
+    name: {
+      de: "Rathaus von Ordino",
+      hu: "Ordino városháza",
+      ro: "Primăria din Ordino",
+      en: "Ordino Town Hall"
+    },
+    description: {
+      de: "Das Rathaus von Ordino, ein traditionelles andorranisches Gebäude, das als Verwaltungszentrum für die Gemeinde dient und sich im Herzen des malerischen Dorfes befindet.",
+      hu: "Ordino városháza, egy hagyományos andorrai épület, amely a község közigazgatási központjaként szolgál, a festői falu szívében.",
+      ro: "Primăria din Ordino, o clădire tradițională andorrană care servește drept centru administrativ pentru parohie, situată în inima satului pitoresc.",
+      en: "The town hall of Ordino, a traditional Andorran building that serves as the administrative center for the parish, located in the heart of the picturesque village."
+    },
+    facts: {
+      de: ["Verwaltungszentrum von Ordino.", "Traditionelle Steinarchitektur.", "Im historischen Zentrum gelegen."],
+      hu: ["Ordino közigazgatási központja.", "Hagyományos kőépítészet.", "A történelmi központban található."],
+      ro: ["Centrul administrativ al Ordino.", "Arhitectură tradițională din piatră.", "Situată în centrul istoric."],
+      en: ["Administrative center of Ordino.", "Traditional stone architecture.", "Located in the historic center."]
+    },
+    plizioChallenge: "Ha a városházán 15 ember dolgozik, és Ordino lakossága kb. 5000 fő, hány lakos jut egy hivatalnokra?"
+  },
+  {
+    id: "historical-esglesia-de-sant-miquel-de-la-mosquera-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.57, 42.53],
+    name: {
+      de: "Kirche Sant Miquel de la Mosquera",
+      hu: "Sant Miquel de la Mosquera templom",
+      ro: "Biserica Sant Miquel de la Mosquera",
+      en: "Church of Sant Miquel de la Mosquera"
+    },
+    description: {
+      de: "Die Überreste einer kleinen romanischen Kirche in Encamp, deren Apsis erhalten ist und ein Zeugnis der ländlichen religiösen Bauten der Vergangenheit ist.",
+      hu: "Egy kis román kori templom maradványai Encampban, melynek apszisa megmaradt, és a múlt vidéki vallási építményeinek tanúja.",
+      ro: "Rămășițele unei mici biserici romanice în Encamp, a cărei absidă este conservată, fiind o mărturie a construcțiilor religioase rurale din trecut.",
+      en: "The remains of a small Romanesque church in Encamp, with its apse preserved, acting as a testament to the rural religious constructions of the past."
+    },
+    facts: {
+      de: ["Romanische Ruine.", "Erhaltene Apsis.", "Archäologische Stätte."],
+      hu: ["Román kori rom.", "Megmaradt apszis.", "Régészeti lelőhely."],
+      ro: ["Ruină romanică.", "Absidă conservată.", "Sit arheologic."],
+      en: ["Romanesque ruin.", "Preserved apse.", "Archaeological site."]
+    },
+    plizioChallenge: "Ha a templom eredeti hossza 15 méter volt, és ma már csak a 3 méter hosszú apszis áll, az eredeti hossz hány százaléka maradt meg?"
+  },
+  {
+    id: "historical-pont-de-sornas-extra",
+    type: "landmark",
+    parent: "AD-05",
+    coords: [1.536, 42.573],
+    name: {
+      de: "Brücke von Sornàs",
+      hu: "Sornàs hídja",
+      ro: "Podul din Sornàs",
+      en: "Sornàs Bridge"
+    },
+    description: {
+      de: "Eine mittelalterliche Steinbrücke im Dorf Sornàs, die ein typisches Beispiel für die Infrastruktur ist, die die verschiedenen Gemeinden in den Tälern von Ordino verband.",
+      hu: "Egy középkori kőhíd Sornàs faluban, amely tipikus példája az Ordino völgyeinek különböző közösségeit összekötő infrastruktúrának.",
+      ro: "Un pod medieval de piatră în satul Sornàs, un exemplu tipic de infrastructură care lega diferitele comunități din văile Ordino.",
+      en: "A medieval stone bridge in the village of Sornàs, a typical example of the infrastructure that connected the different communities in the Ordino valleys."
+    },
+    facts: {
+      de: ["Mittelalterliche Brücke.", "Verbindet Teile des Dorfes Sornàs.", "Aus lokalem Stein gebaut."],
+      hu: ["Középkori híd.", "Sornàs falu részeit köti össze.", "Helyi kőből épült."],
+      ro: ["Pod medieval.", "Leagă părți ale satului Sornàs.", "Construit din piatră locală."],
+      en: ["Medieval bridge.", "Connects parts of Sornàs village.", "Built with local stone."]
+    },
+    plizioChallenge: "Ha a híd 500 kg/m² teherbírású, és a felülete 20 m², mekkora az összteherbírása kilogrammban?"
+  },
+  {
+    id: "historical-esglesia-de-sant-roc-de-sornas-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.5365, 42.5735],
+    name: {
+      de: "Kirche Sant Roc de Sornàs",
+      hu: "Sant Roc de Sornàs templom",
+      ro: "Biserica Sant Roc de Sornàs",
+      en: "Church of Sant Roc de Sornàs"
+    },
+    description: {
+      de: "Eine kleine Kirche aus dem 18. Jahrhundert im Dorf Sornàs, die dem Heiligen Rochus, dem Schutzpatron gegen die Pest, gewidmet ist.",
+      hu: "Egy kis 18. századi templom Sornàs faluban, amelyet Szent Rókusnak, a pestis elleni védőszentnek szenteltek.",
+      ro: "O mică biserică din secolul al XVIII-lea în satul Sornàs, dedicată Sfântului Roc, protectorul împotriva ciumei.",
+      en: "A small 18th-century church in the village of Sornàs, dedicated to Saint Roch, the patron saint against plague."
+    },
+    facts: {
+      de: ["Erbaut im 18. Jahrhundert.", "Dem Heiligen Rochus gewidmet.", "Einfache, ländliche Architektur."],
+      hu: ["A 18. században épült.", "Szent Rókusnak szentelték.", "Egyszerű, vidéki építészet."],
+      ro: ["Construită în secolul al XVIII-lea.", "Dedicată Sfântului Roc.", "Arhitectură simplă, rurală."],
+      en: ["Built in the 18th century.", "Dedicated to Saint Roch.", "Simple, rural architecture."]
+    },
+    plizioChallenge: "Ha a pestisjárvány 1650-ben érte el a régiót, hány évvel később épült a templom (kb. 1730)?"
+  },
+  {
+    id: "historical-esglesia-de-santa-barbara-d-ordino-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.5338, 42.5568],
+    name: {
+      de: "Kirche Santa Bàrbara d'Ordino",
+      hu: "Santa Bàrbara d'Ordino templom",
+      ro: "Biserica Santa Bàrbara d'Ordino",
+      en: "Church of Santa Bàrbara d'Ordino"
+    },
+    description: {
+      de: "Eine kleine Kapelle im Herzen von Ordino, die für ihre einfache Architektur und ihre Rolle im lokalen religiösen Leben bekannt ist.",
+      hu: "Egy kis kápolna Ordino szívében, amely egyszerű építészetéről és a helyi vallási életben betöltött szerepéről ismert.",
+      ro: "O mică capelă în inima localității Ordino, cunoscută pentru arhitectura sa simplă și rolul său în viața religioasă locală.",
+      en: "A small chapel in the heart of Ordino, known for its simple architecture and its role in local religious life."
+    },
+    facts: {
+      de: ["Kleine Kapelle.", "Im Zentrum von Ordino.", "Barocker Stil."],
+      hu: ["Kis kápolna.", "Ordino központjában.", "Barokk stílusú."],
+      ro: ["Capelă mică.", "În centrul localității Ordino.", "Stil baroc."],
+      en: ["Small chapel.", "In the center of Ordino.", "Baroque style."]
+    },
+    plizioChallenge: "Ha a kápolna 50 fő befogadására képes, és mise alatt 35-en vannak, hány százalékos a telítettség?"
+  },
+  {
+    id: "historical-casa-de-la-vall-extra",
+    type: "historical",
+    parent: "AD-07",
+    coords: [1.52083, 42.50694],
+    name: {
+      de: "Casa de la Vall",
+      hu: "Casa de la Vall (Völgyek Háza)",
+      ro: "Casa de la Vall (Casa Văilor)",
+      en: "Casa de la Vall (House of the Valleys)"
+    },
+    description: {
+      de: "Der historische Sitz des andorranischen Parlaments (Consell General) von 1702 bis 2011. Das Gebäude aus dem 16. Jahrhundert ist ein Symbol der andorranischen Geschichte und Unabhängigkeit.",
+      hu: "Az andorrai parlament (Consell General) történelmi székhelye 1702-től 2011-ig. A 16. századi épület Andorra történelmének és függetlenségének szimbóluma.",
+      ro: "Sediul istoric al parlamentului andorran (Consell General) din 1702 până în 2011. Clădirea din secolul al XVI-lea este un simbol al istoriei și independenței Andorrei.",
+      en: "The historic seat of the Andorran Parliament (Consell General) from 1702 to 2011. The 16th-century building is a symbol of Andorran history and independence."
+    },
+    facts: {
+      de: ["Erbaut 1580.", "Ehemaliger Parlamentssitz.", "Besitzt historische Dokumente."],
+      hu: ["1580-ban épült.", "Korábbi parlamenti székhely.", "Történelmi dokumentumokat őriz."],
+      ro: ["Construită în 1580.", "Fostul sediu al parlamentului.", "Deține documente istorice."],
+      en: ["Built in 1580.", "Former parliament seat.", "Holds historical documents."]
+    },
+    plizioChallenge: "Ha a parlament 1702-től 2011-ig ülésezett itt, hány évig használta az épületet?"
+  },
+  {
+    id: "historical-santuari-de-meritxell-original-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.604, 42.555],
+    name: {
+      de: "Altes Heiligtum von Meritxell",
+      hu: "Régi Meritxell-i szentély",
+      ro: "Vechiul Sanctuar din Meritxell",
+      en: "Old Sanctuary of Meritxell"
+    },
+    description: {
+      de: "Die Überreste der ursprünglichen romanischen Kapelle, die 1972 bei einem Brand zerstört wurde. Neben dem modernen Heiligtum gelegen, dient es als Gedenkstätte.",
+      hu: "Az eredeti román kori kápolna maradványai, amely 1972-ben egy tűzvészben megsemmisült. A modern szentély mellett található, emlékhelyként szolgál.",
+      ro: "Rămășițele capelei romanice originale, distrusă într-un incendiu în 1972. Situată lângă sanctuarul modern, servește ca un loc memorial.",
+      en: "The remains of the original Romanesque chapel, destroyed in a fire in 1972. Located next to the modern sanctuary, it serves as a memorial site."
+    },
+    facts: {
+      de: ["Romanischer Ursprung.", "1972 durch Feuer zerstört.", "Heute eine Gedenkstätte."],
+      hu: ["Román kori eredetű.", "1972-ben tűz pusztította el.", "Ma emlékhely."],
+      ro: ["Origine romanică.", "Distrusă de un incendiu în 1972.", "Astăzi este un loc memorial."],
+      en: ["Romanesque origin.", "Destroyed by fire in 1972.", "Now a memorial site."]
+    },
+    plizioChallenge: "Ha a tűz 1972-ben volt, hány év telt el azóta 2024-ig?"
+  },
+  {
+    id: "historical-esglesia-de-sant-miquel-d-aixovall-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.498, 42.488],
+    name: {
+      de: "Kirche Sant Miquel d'Aixovall",
+      hu: "Sant Miquel d'Aixovall templom",
+      ro: "Biserica Sant Miquel d'Aixovall",
+      en: "Church of Sant Miquel d'Aixovall"
+    },
+    description: {
+      de: "Eine kleine Kirche in der Nähe von Sant Julià de Lòria, die ursprünglich romanisch war, aber im Laufe der Jahrhunderte stark verändert wurde.",
+      hu: "Egy kis templom Sant Julià de Lòria közelében, amely eredetileg román stílusú volt, de az évszázadok során jelentősen átalakították.",
+      ro: "O mică biserică lângă Sant Julià de Lòria, inițial romanică, dar puternic modificată de-a lungul secolelor.",
+      en: "A small church near Sant Julià de Lòria, originally Romanesque but heavily modified over the centuries."
+    },
+    facts: {
+      de: ["Einfache ländliche Kirche.", "Mehrfach umgebaut.", "In der Nähe von Aixovall."],
+      hu: ["Egyszerű vidéki templom.", "Többször átépítették.", "Aixovall közelében."],
+      ro: ["Biserică rurală simplă.", "Modificată de mai multe ori.", "Aproape de Aixovall."],
+      en: ["Simple rural church.", "Modified several times.", "Near Aixovall."]
+    },
+    plizioChallenge: "Ha a templom 3 nagyobb átalakításon esett át, és az első 1500-ban, a második 1700-ban, a harmadik 1900-ban volt, hány év telt el az egyes átalakítások között?"
+  },
+  {
+    id: "historical-pont-de-bixessarri-extra",
+    type: "landmark",
+    parent: "AD-06",
+    coords: [1.48, 42.477],
+    name: {
+      de: "Brücke von Bixessarri",
+      hu: "Bixessarri híd",
+      ro: "Podul din Bixessarri",
+      en: "Bixessarri Bridge"
+    },
+    description: {
+      de: "Eine charmante Steinbrücke im malerischen Dorf Bixessarri, die den Fluss Os überspannt und zum idyllischen Charakter des Ortes beiträgt.",
+      hu: "Egy bájos kőhíd a festői Bixessarri faluban, amely az Os folyón ível át és hozzájárul a hely idilli jellegéhez.",
+      ro: "Un pod de piatră fermecător în satul pitoresc Bixessarri, care traversează râul Os și contribuie la caracterul idilic al locului.",
+      en: "A charming stone bridge in the picturesque village of Bixessarri, spanning the Os River and adding to the idyllic character of the place."
+    },
+    facts: {
+      de: ["Traditionelle Steinbogenbrücke.", "Im Dorf Bixessarri.", "Überquert den Fluss Os."],
+      hu: ["Hagyományos kőívhíd.", "Bixessarri faluban.", "Az Os folyón ível át."],
+      ro: ["Pod tradițional în arc de piatră.", "În satul Bixessarri.", "Traversează râul Os."],
+      en: ["Traditional stone arch bridge.", "In the village of Bixessarri.", "Crosses the Os River."]
+    },
+    plizioChallenge: "Ha a folyó vízhozama 2 m³/s, mennyi víz folyik át a híd alatt egy perc alatt?"
+  },
+  {
+    id: "historical-esglesia-de-sant-esteve-de-juberri-extra",
+    type: "historical",
+    parent: "AD-06",
+    coords: [1.51, 42.45],
+    name: {
+      de: "Kirche Sant Esteve de Juberri",
+      hu: "Sant Esteve de Juberri templom",
+      ro: "Biserica Sant Esteve de Juberri",
+      en: "Church of Sant Esteve de Juberri"
+    },
+    description: {
+      de: "Eine kleine romanische Kirche, die in den Juberri-Gärten thront und einen außergewöhnlichen Blick auf das Tal von Sant Julià bietet.",
+      hu: "Egy kis román stílusú templom a Juberri kertekben, amely kivételes kilátást nyújt a Sant Julià völgyére.",
+      ro: "O mică biserică romanică, cocoțată în grădinile Juberri, oferind o priveliște excepțională asupra văii Sant Julià.",
+      en: "A small Romanesque church perched within the Juberri Gardens, offering an exceptional view over the Sant Julià valley."
+    },
+    facts: {
+      de: ["Romanischer Ursprung.", "In den Juberri-Gärten gelegen.", "Spektakuläre Aussicht."],
+      hu: ["Román kori eredetű.", "A Juberri kertekben található.", "Látványos kilátás."],
+      ro: ["Origine romanică.", "Situată în Grădinile Juberri.", "Priveliște spectaculoasă."],
+      en: ["Romanesque origin.", "Located in the Juberri Gardens.", "Spectacular views."]
+    },
+    plizioChallenge: "Ha a kilátópontról 50 km-re lehet ellátni, és egy űrhajó 500 km/h sebességgel közeledik, mennyi idő múlva láthatnád meg?"
+  },
+  {
+    id: "historical-esglesia-de-sant-serni-de-llorts-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.535, 42.599],
+    name: {
+      de: "Kirche Sant Serni de Llorts",
+      hu: "Sant Serni de Llorts templom",
+      ro: "Biserica Sant Serni de Llorts",
+      en: "Church of Sant Serni de Llorts"
+    },
+    description: {
+      de: "Eine kleine Kirche aus dem 17. Jahrhundert im Bergbaudorf Llorts. Sie ist ein einfaches, aber repräsentatives Beispiel für die ländliche Barockarchitektur Andorras.",
+      hu: "Egy kis 17. századi templom a bányászfalu Llortsban. Egyszerű, de reprezentatív példája Andorra vidéki barokk építészetének.",
+      ro: "O mică biserică din secolul al XVII-lea în satul minier Llorts. Este un exemplu simplu, dar reprezentativ al arhitecturii baroce rurale din Andorra.",
+      en: "A small 17th-century church in the mining village of Llorts. It is a simple but representative example of Andorra's rural Baroque architecture."
+    },
+    facts: {
+      de: ["Erbaut im 17. Jahrhundert.", "Ländlicher Barockstil.", "Im Dorf Llorts."],
+      hu: ["A 17. században épült.", "Vidéki barokk stílus.", "Llorts faluban."],
+      ro: ["Construită în secolul al XVII-lea.", "Stil baroc rural.", "În satul Llorts."],
+      en: ["Built in the 17th century.", "Rural Baroque style.", "In the village of Llorts."]
+    },
+    plizioChallenge: "Ha a falu lakossága 150 fő volt a 17. században, és a templom 50 fő befogadására volt képes, a lakosság hány százaléka fért be egyszerre?"
+  },
+  {
+    id: "historical-casa-rossell-d-ordino-extra",
+    type: "historical",
+    parent: "AD-05",
+    coords: [1.533, 42.557],
+    name: {
+      de: "Casa Rossell d'Ordino",
+      hu: "Casa Rossell d'Ordino",
+      ro: "Casa Rossell din Ordino",
+      en: "Casa Rossell of Ordino"
+    },
+    description: {
+      de: "Ein weiteres wichtiges Herrenhaus in Ordino, das der einflussreichen Familie Rossell gehörte. Es spiegelt den Reichtum wider, der durch die Eisenindustrie generiert wurde.",
+      hu: "Egy másik fontos nemesi ház Ordinóban, amely a befolyásos Rossell családé volt. Tükrözi a vasipar által termelt gazdagságot.",
+      ro: "O altă casă nobiliară importantă din Ordino, aparținând influentei familii Rossell. Reflectă bogăția generată de industria fierului.",
+      en: "Another important manor house in Ordino, belonging to the influential Rossell family. It reflects the wealth generated by the iron industry."
+    },
+    facts: {
+      de: ["Herrenhaus aus dem 17. Jahrhundert.", "Gehörte der Familie Rossell.", "Verbunden mit der Eisenindustrie."],
+      hu: ["17. századi nemesi ház.", "A Rossell családé volt.", "A vasiparhoz kötődik."],
+      ro: ["Conac din secolul al XVII-lea.", "A aparținut familiei Rossell.", "Legată de industria fierului."],
+      en: ["17th-century manor house.", "Belonged to the Rossell family.", "Linked to the iron industry."]
+    },
+    plizioChallenge: "Ha egy család vagyona 5000 arany volt, és 10%-át a ház építésére költötték, mennyibe került a ház?"
+  },
+  {
+    id: "historical-pont-pla-extra",
+    type: "landmark",
+    parent: "AD-07",
+    coords: [1.531, 42.515],
+    name: {
+      de: "Pont Pla Brücke",
+      hu: "Pont Pla híd",
+      ro: "Podul Pont Pla",
+      en: "Pont Pla Bridge"
+    },
+    description: {
+      de: "Eine mittelalterliche Brücke in der Nähe von Andorra la Vella mit einem einzigen Bogen, die ein wichtiges Zeugnis der alten Kommunikationswege des Fürstentums ist.",
+      hu: "Egy középkori, egyíves híd Andorra la Vella közelében, amely a hercegség régi közlekedési útvonalainak fontos tanúja.",
+      ro: "Un pod medieval cu un singur arc lângă Andorra la Vella, o mărturie importantă a vechilor căi de comunicație ale principatului.",
+      en: "A medieval single-arch bridge near Andorra la Vella, an important testimony to the principality's old communication routes."
+    },
+    facts: {
+      de: ["Romanischer Stil.", "Restauriert und gut erhalten.", "In der Nähe der Hauptstadt."],
+      hu: ["Román stílusú.", "Felújított és jól megőrzött.", "A főváros közelében."],
+      ro: ["Stil romanic.", "Restaurat și bine conservat.", "Aproape de capitală."],
+      en: ["Romanesque style.", "Restored and well-preserved.", "Near the capital city."]
+    },
+    plizioChallenge: "Ha a híd ívének magassága 5 méter, és a szélessége 10 méter, mekkora a magasság/szélesség arány?"
+  },
+  {
+    id: "historical-esglesia-de-sant-bartomeu-de-soldeu-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.666, 42.578],
+    name: {
+      de: "Kirche Sant Bartomeu de Soldeu",
+      hu: "Sant Bartomeu de Soldeu templom",
+      ro: "Biserica Sant Bartomeu de Soldeu",
+      en: "Church of Sant Bartomeu de Soldeu"
+    },
+    description: {
+      de: "Eine Kirche aus dem 17. oder 18. Jahrhundert im Dorf Soldeu, die sich durch ihre einfache, aber charmante Bergarchitektur auszeichnet.",
+      hu: "Egy 17. vagy 18. századi templom Soldeu faluban, amelyet egyszerű, de bájos hegyi építészete jellemez.",
+      ro: "O biserică din secolul al XVII-lea sau al XVIII-lea în satul Soldeu, remarcabilă prin arhitectura sa montană simplă, dar fermecătoare.",
+      en: "A 17th or 18th-century church in the village of Soldeu, notable for its simple yet charming mountain architecture."
+    },
+    facts: {
+      de: ["Barocke Bergarchitektur.", "Im Skigebiet von Soldeu.", "Einfacher Grundriss."],
+      hu: ["Hegyvidéki barokk építészet.", "Soldeu síterepén.", "Egyszerű alaprajz."],
+      ro: ["Arhitectură barocă montană.", "În stațiunea de schi Soldeu.", "Plan simplu."],
+      en: ["Mountain Baroque architecture.", "In the ski village of Soldeu.", "Simple floor plan."]
+    },
+    plizioChallenge: "Ha a templom 1800 méter magasan van, és a hóhatár 1600 méteren, hány méterrel van a templom a hóhatár felett?"
+  },
+  {
+    id: "historical-museu-etnografic-casa-cristo-extra",
+    type: "historical",
+    parent: "AD-03",
+    coords: [1.581, 42.536],
+    name: {
+      de: "Ethnographisches Museum Casa Cristo",
+      hu: "Casa Cristo Néprajzi Múzeum",
+      ro: "Muzeul Etnografic Casa Cristo",
+      en: "Casa Cristo Ethnographic Museum"
+    },
+    description: {
+      de: "Ein bescheidenes Landhaus in Encamp, das als Museum erhalten wurde und das Leben einer Bauernfamilie in Andorra im 19. Jahrhundert darstellt.",
+      hu: "Egy szerény parasztház Encampban, amelyet múzeumként őriztek meg, bemutatva egy parasztcsalád életét a 19. századi Andorrában.",
+      ro: "O casă rurală modestă din Encamp, conservată ca muzeu, care descrie viața unei familii de țărani din Andorra secolului al XIX-lea.",
+      en: "A humble rural house in Encamp, preserved as a museum, depicting the life of a peasant family in 19th-century Andorra."
+    },
+    facts: {
+      de: ["Zeigt das Leben im 19. Jahrhundert.", "Authentische Möbel und Werkzeuge.", "Beispiel für ländliches Leben."],
+      hu: ["A 19. századi életet mutatja be.", "Eredeti bútorok és szerszámok.", "A vidéki élet példája."],
+      ro: ["Prezintă viața în secolul al XIX-lea.", "Mobilier și unelte autentice.", "Exemplu de viață rurală."],
+      en: ["Shows life in the 19th century.", "Authentic furniture and tools.", "Example of rural life."]
+    },
+    plizioChallenge: "Ha egy család 6 tagú volt és napi 2 kg kenyeret ettek, hány kg kenyeret fogyasztottak egy 30 napos hónapban?"
+  },
+  {
+    id: "historical-pont-de-la-plana-extra",
+    type: "landmark",
+    parent: "AD-03",
+    coords: [1.59, 42.53],
+    name: {
+      de: "Brücke von La Plana",
+      hu: "La Plana híd",
+      ro: "Podul din La Plana",
+      en: "La Plana Bridge"
+    },
+    description: {
+      de: "Eine alte Steinbrücke in der Pfarrei Encamp, die ein Beispiel für die funktionale und dauerhafte Konstruktion der traditionellen Kommunikationswege darstellt.",
+      hu: "Egy régi kőhíd Encamp parókiában, amely a hagyományos közlekedési útvonalak funkcionális és tartós építésének példája.",
+      ro: "Un pod vechi de piatră în parohia Encamp, un exemplu de construcție funcțională și durabilă a vechilor căi de comunicație.",
+      en: "An old stone bridge in the parish of Encamp, an example of the functional and durable construction of traditional communication routes."
+    },
+    facts: {
+      de: ["Traditionelle Steinbrücke.", "Teil eines alten Weges.", "Ländliche Umgebung."],
+      hu: ["Hagyományos kőhíd.", "Egy régi út része.", "Vidéki környezet."],
+      ro: ["Pod tradițional de piatră.", "Parte a unui drum vechi.", "Cadru rural."],
+      en: ["Traditional stone bridge.", "Part of an old path.", "Rural setting."]
+    },
+    plizioChallenge: "Ha a hidat 300 kőből építették, és egy kő átlagosan 20 kg, mekkora a felhasznált kövek össztömege?"
+  },
+  {
+    id: "historical-bordes-d-envalira-conjunt-extra",
+    type: "historical",
+    parent: "AD-02",
+    coords: [1.71, 42.55],
+    name: {
+      de: "Hütten von Bordes d'Envalira",
+      hu: "Bordes d'Envalira pásztorkunyhói",
+      ro: "Bordele din Bordes d'Envalira",
+      en: "Bordes of Bordes d'Envalira"
+    },
+    description: {
+      de: "Eine Gruppe von traditionellen 'bordes' oder Steinhütten in der Nähe des Envalira-Passes, die die historische Weidewirtschaft in den Hochlagen der Pyrenäen bezeugen.",
+      hu: "Hagyományos „bordes” vagy kőkunyhók csoportja az Envalira-hágó közelében, amelyek a Pireneusok magashegyi legeltető állattenyésztésének történelmi tanúi.",
+      ro: "Un grup de 'borde' tradiționale sau cabane de piatră lângă Pasul Envalira, mărturie a păstoritului istoric din zonele înalte ale Pirineilor.",
+      en: "A group of traditional 'bordes' or stone huts near the Envalira Pass, testifying to the historical pastoral economy of the high Pyrenees."
+    },
+    facts: {
+      de: ["Hochgebirgs-Hirtenhütten.", "Zeugen der Transhumanz.", "Robuste Steinarchitektur."],
+      hu: ["Magashegyi pásztorkunyhók.", "A transzhumálás tanúi.", "Robusztus kőépítészet."],
+      ro: ["Cabane pastorale de mare altitudine.", "Mărturii ale transhumanței.", "Arhitectură robustă din piatră."],
+      en: ["High-altitude shepherd huts.", "Witnesses to transhumance.", "Robust stone architecture."]
+    },
+    plizioChallenge: "Ha egy 'borda' alapterülete 5x8 méter, mekkora az alapterülete négyzetméterben?"
   }
 ];
