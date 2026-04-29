@@ -58,8 +58,14 @@ import { luxembourgAllPoi } from "@/lib/visualLab/data/luxembourgPoi";
 import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
 import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
 import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
+import { maltaAllPoi } from "@/lib/visualLab/data/maltaPoi";
+import { poiExtraMaltaCities } from "./poiExtraMaltaCities";
+import { maltaExtraHistory } from "./poiExtraMaltaHistory";
+import { poiExtraMaltaOther } from "./poiExtraMaltaOther";
 import { mexicoAllPoi } from "@/lib/visualLab/data/mexicoPoi";
 import { moldovaAllPoi } from "@/lib/visualLab/data/moldovaPoi";
+import { poiExtraMoldovaCities } from "./poiExtraMoldovaCities";
+import { poiExtraMoldovaHistory } from "./poiExtraMoldovaHistory";
 import { monacoAllPoi } from "@/lib/visualLab/data/monacoPoi";
 import { poiExtraMonacoCities } from "./poiExtraMonacoCities";
 import { poiExtraMonacoOther } from "./poiExtraMonacoOther";
@@ -159,8 +165,14 @@ export const ALL_COUNTRY_POIS = ([
   ...luxembourgExtraCities,
   ...luxembourgExtraHistory,
   ...luxembourgExtraOther,
+  ...maltaAllPoi,
+  ...poiExtraMaltaCities,
+  ...maltaExtraHistory,
+  ...poiExtraMaltaOther,
   ...mexicoAllPoi,
   ...moldovaAllPoi,
+  ...poiExtraMoldovaCities,
+  ...poiExtraMoldovaHistory,
   ...monacoAllPoi,
   ...poiExtraMonacoCities,
   ...poiExtraMonacoOther,
