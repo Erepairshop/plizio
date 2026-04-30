@@ -1,13 +1,27 @@
+export type MultiLangText = {
+  de: string;
+  hu: string;
+  ro: string;
+  en: string;
+};
+
+export type MultiLangArray = {
+  de: string[];
+  hu: string[];
+  ro: string[];
+  en: string[];
+};
+
 export type POI = {
   id: string;
   type: "state-capital" | "city" | "river" | "mountain" | "lake" | "island" | "landmark" | "historical" | "country" | "region" | "forest" | "sea" | "animal-habitat" | "agriculture" | "kid-landmark" | "industry" | "port" | "relief" | string; // allow string for auto-generated POIs with custom types
   parent?: string;
   coords: [lon: number, lat: number] | number[];
-  name: { de: string; hu: string; ro: string; en: string };
-  description?: { de: string; hu: string; ro: string; en: string };
-  descriptionAdvanced?: { de: string; hu: string; ro: string; en: string };
-  facts?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
-  factsAdvanced?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
+  name: MultiLangText;
+  description?: MultiLangText;
+  descriptionAdvanced?: MultiLangText;
+  facts?: MultiLangArray;
+  factsAdvanced?: MultiLangArray;
   faq?: {
     de: { q: string; a: string }[];
     hu: { q: string; a: string }[];
@@ -24,7 +38,7 @@ export type POI = {
   image?: string;
   coa?: string;
   audio?: string;
-  plizioChallenge?: { de: string; hu: string; ro: string; en: string };
+  plizioChallenge?: MultiLangText;
 };
 
 // Minden tartomány (id megegyezik az SVG id-vel)

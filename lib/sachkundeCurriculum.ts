@@ -8,6 +8,9 @@ import { G2_Generators_Sachkunde } from "./sachkundeGenerators2";
 import { G3_Generators_Sachkunde } from "./sachkundeGenerators3";
 import { G4_Generators_Sachkunde, G4_Typing_Generators_Sachkunde } from "./sachkundeGenerators4";
 
+type QuestionGenerator = (seed?: number) => CurriculumQuestion[];
+type GeneratorMap = Record<string, QuestionGenerator>;
+
 // ─── TOPIC NAMES (German) ───────────────────────────────────────────────────────
 
 const TOPIC_NAMES: Record<string, string> = {
@@ -120,12 +123,12 @@ const TOPIC_NAMES: Record<string, string> = {
 
 function buildTheme(
   id: string,
-  name: string,
+  name: string | Record<string, string>,
   icon: string,
   color: string,
-  generators: Record<string, (cc: string) => CurriculumQuestion[]>,
+  generators: GeneratorMap,
   topicKeys: string[],
-  typingGenerators?: Record<string, (cc: string) => CurriculumQuestion[]>,
+  typingGenerators?: GeneratorMap,
 ): CurriculumTheme {
   return {
     id,
@@ -136,8 +139,8 @@ function buildTheme(
       const mcqGen = generators[key];
       const typGen = typingGenerators?.[key];
       const questions: CurriculumQuestion[] = [];
-      if (mcqGen) questions.push(...mcqGen("DE"));
-      if (typGen) questions.push(...typGen("DE"));
+      if (mcqGen) questions.push(...mcqGen());
+      if (typGen) questions.push(...typGen());
       return {
         id: key,
         name: TOPIC_NAMES[key] ?? key,
@@ -152,22 +155,22 @@ function buildTheme(
 
 const G1_THEMES: CurriculumTheme[] = [
   buildTheme("g1_körper", "Mein Körper", "🧍", "#FF6B6B",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["körperteile", "sinnesorgane", "gesundheit_hygiene"]),
   buildTheme("g1_tiere", "Tiere", "🐾", "#4ECDC4",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["haustiere", "wilde_tiere", "tierlaute"]),
   buildTheme("g1_natur", "Natur & Jahreszeiten", "🌿", "#45B7D1",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["jahreszeiten_natur", "bäume", "blueten_fruechte", "wetter", "jahreszeiten_detail", "monate_tage"]),
   buildTheme("g1_zusammenleben", "Zusammenleben", "👨‍👩‍👧", "#96CEB4",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["familie", "zuhause", "regeln_verhalten"]),
   buildTheme("g1_verkehr", "Verkehr & Sicherheit", "🚗", "#FFEAA7",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["verkehrsmittel", "verkehrsregeln", "sicherheit"]),
   buildTheme("g1_technik", "Materialien & Umwelt", "♻️", "#DDA0DD",
-    G1_Generators_Sachkunde as any,
+    G1_Generators_Sachkunde,
     ["materialien", "mülltrennung"]),
 ];
 
@@ -175,25 +178,25 @@ const G1_THEMES: CurriculumTheme[] = [
 
 const G2_THEMES: CurriculumTheme[] = [
   buildTheme("g2_körper", "Mein Körper", "🧍", "#FF6B6B",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["ernährung_verdauung", "zahngesundheit", "bewegung_körperpflege", "schlaf_ruhe"]),
   buildTheme("g2_tiere", "Tiere & Lebensräume", "🐾", "#4ECDC4",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["lebensräume", "nahrungsketten", "haustiere_pflege", "wildtiere_anpassung"]),
   buildTheme("g2_pflanzen", "Pflanzen", "🌱", "#45B7D1",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["pflanzenteile", "wachstum_lebenszyklus", "samen_zur_blüte", "nützliche_pflanzen"]),
   buildTheme("g2_wasser", "Wasser & Zeit", "💧", "#74B9FF",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["wasserkreislauf", "aggregatzustände", "wasser_im_leben", "tag_jahreszeiten"]),
   buildTheme("g2_berufe", "Berufe & Familie", "👷", "#FFEAA7",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["verschiedene_berufe", "was_machen_berufe", "familie_rollen", "zusammenleben_hilfe"]),
   buildTheme("g2_sicherheit", "Sicherheit", "🛡️", "#FF7675",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["unfallprävention", "verkehrssicherheit", "erste_hilfe_basics", "notsituationen"]),
   buildTheme("g2_technik", "Technik & Experimente", "🧲", "#A29BFE",
-    G2_Generators_Sachkunde as any,
+    G2_Generators_Sachkunde,
     ["magnetismus", "schwimmen_sinken"]),
 ];
 
@@ -201,25 +204,25 @@ const G2_THEMES: CurriculumTheme[] = [
 
 const G3_THEMES: CurriculumTheme[] = [
   buildTheme("g3_körper", { de: "Körper & Gesundheit", hu: "Test és egészség", ro: "Corp și sănătate", en: "Body & Health" }, "🧍", "#FF6B6B",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["körperaufbau", "ernährungspyramide", "zahnentwicklung", "bewegung_sport"]),
   buildTheme("g3_tiere", { de: "Tiere & Ökosysteme", hu: "Állatok és ökoszisztémák", ro: "Animale și ecosisteme", en: "Animals & Ecosystems" }, "🐾", "#4ECDC4",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["tierklassen", "nahrungsnetze", "schmetterlinge_insekten", "waldtiere_raubtiere", "haustier_züchtung"]),
   buildTheme("g3_pflanzen", { de: "Pflanzen & Botanik", hu: "Növények és botanika", ro: "Plante și botanică", en: "Plants & Botany" }, "🌿", "#45B7D1",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["blüte_bestäubung", "photosynthese_einfach", "pflanzenvermehrung", "waldschichten"]),
   buildTheme("g3_wetter", { de: "Wasser, Wetter & Klima", hu: "Víz, időjárás és éghajlat", ro: "Apă, vreme și climă", en: "Water, Weather & Climate" }, "🌦️", "#74B9FF",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["wasserkreislauf_detail", "wetter_instrumente", "jahreszeiten_klima", "gewässer_typen"]),
   buildTheme("g3_technik", { de: "Technik & Erfindungen", hu: "Technika és találmányok", ro: "Tehnică și invenții", en: "Technology & Inventions" }, "⚙️", "#A29BFE",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["einfache_maschinen", "energie_quellen", "verkehrsmittel"]),
   buildTheme("g3_gesellschaft", { de: "Gesellschaft & Geschichte", hu: "Társadalom és történelem", ro: "Societate și istorie", en: "Society & History" }, "🏛️", "#FFEAA7",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["berufe", "dorf_stadt", "grundbedürfnisse", "regeln_gesetze"]),
   buildTheme("g3_umwelt", { de: "Umwelt & Navigation", hu: "Környezet és navigáció", ro: "Mediu și navigație", en: "Environment & Navigation" }, "🧭", "#96CEB4",
-    G3_Generators_Sachkunde as any,
+    G3_Generators_Sachkunde,
     ["umweltschutz_recycling", "kompass_himmelsrichtungen", "kartenlesen"]),
 ];
 
@@ -227,28 +230,28 @@ const G3_THEMES: CurriculumTheme[] = [
 
 const G4_THEMES: CurriculumTheme[] = [
   buildTheme("g4_körper", { de: "Körper & Gesundheit", hu: "Test és egészség", ro: "Corp și sănătate", en: "Body & Health" }, "🧍", "#FF6B6B",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["organe", "ernährung", "bewegung_sport", "skelet_muskulatur", "gesundheit_advanced"],
-    G4_Typing_Generators_Sachkunde as any),
+    G4_Typing_Generators_Sachkunde),
   buildTheme("g4_tiere", { de: "Tiere", hu: "Állatok", ro: "Animale", en: "Animals" }, "🐾", "#4ECDC4",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["säugetiere", "vögel", "reptilien_amphibien", "insekten", "vogel_zug", "ernährungskette"],
-    G4_Typing_Generators_Sachkunde as any),
+    G4_Typing_Generators_Sachkunde),
   buildTheme("g4_pflanzen", { de: "Pflanzen & Ökosysteme", hu: "Növények és ökoszisztémák", ro: "Plante și ecosisteme", en: "Plants & Ecosystems" }, "🌿", "#45B7D1",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["pflanzenbau", "ökosysteme", "wald_ökosystem"]),
   buildTheme("g4_wetter", { de: "Wetter & Klima", hu: "Időjárás és éghajlat", ro: "Vreme și climă", en: "Weather & Climate" }, "🌦️", "#74B9FF",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["wetter_klima", "jahreszeiten_natur", "klima"]),
   buildTheme("g4_stoffe", { de: "Stoffe & Energie", hu: "Anyagok és energia", ro: "Substanțe și energie", en: "Matter & Energy" }, "⚡", "#A29BFE",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["wasser", "luft", "steine_mineral", "energie", "stromkreis"],
-    G4_Typing_Generators_Sachkunde as any),
+    G4_Typing_Generators_Sachkunde),
   buildTheme("g4_geographie", { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography" }, "🗺️", "#FFEAA7",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["deutsche_bundesländer", "europa"]),
   buildTheme("g4_gesellschaft", { de: "Gesellschaft & Verkehr", hu: "Társadalom és közlekedés", ro: "Societate și trafic", en: "Society & Traffic" }, "🚦", "#96CEB4",
-    G4_Generators_Sachkunde as any,
+    G4_Generators_Sachkunde,
     ["beruf", "verkehr_sicherheit"]),
 ];
 

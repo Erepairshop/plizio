@@ -459,13 +459,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
           const newCorrectIndex = shuffledChoices.indexOf(correctChoice);
           newInteractive = { ...newInteractive, choices: shuffledChoices, correctIndex: newCorrectIndex };
         } else if (newInteractive.type === "drag-to-bucket" && newInteractive.items) {
-          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items]) };
+          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items] as any[]) };
         } else if (newInteractive.type === "match-pairs" && newInteractive.pairs) {
-          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs]) };
+          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs] as any[]) };
         } else if (newInteractive.type === "physics-bucket" && newInteractive.items) {
-          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items]) };
+          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items] as any[]) };
         } else if (newInteractive.type === "physics-magnet" && newInteractive.pairs) {
-          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs]) };
+          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs] as any[]) };
         }
       }
 

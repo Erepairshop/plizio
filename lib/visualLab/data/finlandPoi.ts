@@ -1158,26 +1158,6 @@ export const finlandCultureExtended: POI[] = [
 
 export const finlandNatureExtended: POI[] = [
   {
-    id: "fi-lapland",
-    type: "region",
-    parent: "finland",
-    coords: [26.0, 67.9],
-    name: { de: "Finnisch-Lappland", hu: "Finn Lappföld", ro: "Laponia finlandeză", en: "Finnish Lapland" },
-    description: {
-      de: "Finnisch-Lappland steht für Polarlichter, weite Tundra und Wintererlebnisse mit Huskys und Rentieren.",
-      hu: "A finn Lappföld a sarki fényről, a hatalmas tundráról és a husky- és rénszarvasos téli élményekről ismert.",
-      ro: "Laponia finlandeză înseamnă aurore boreale, tundră vastă și experiențe de iarnă cu husky și reni.",
-      en: "Finnish Lapland is known for the Northern Lights, vast tundra, and winter experiences with huskies and reindeer."
-    },
-    facts: {
-      de: ["Einer der besten Orte für Polarlichter.", "Im Winter gibt es die Polarnacht.", "Rovaniemi liegt in der Region."],
-      hu: ["Az egyik legjobb hely a sarki fény megfigyelésére.", "Télen poláris éjszaka uralkodik.", "Rovaniemi is a régió része."],
-      ro: ["Unul dintre cele mai bune locuri pentru aurora boreală.", "Iarna există noaptea polară.", "Rovaniemi se află în această regiune."],
-      en: ["One of the best places to see the Northern Lights.", "The region experiences polar night in winter.", "Rovaniemi is part of the area."]
-    },
-    image: "/geo-images/finland/nat-lapland.webp",
-  },
-  {
     id: "nat-national-parks",
     type: "forest",
     parent: "finland",
@@ -1416,26 +1396,6 @@ export const finlandNatureExtended: POI[] = [
       en: ["In South Savo.", "Useful for day trips.", "Compact local center.", "Good regional visibility.", "Easy to pair with nearby sights."]
     },
     image: "/geo-images/finland/city-mikkeli.webp",
-  },
-  {
-    id: "city-savonlinna",
-    type: "city",
-    parent: "reg-south-savo-fi",
-    coords: [28.8770, 61.8660],
-    name: { de: "Savonlinna", hu: "Savonlinna", ro: "Savonlinna", en: "Savonlinna" },
-    description: {
-      de: "Savonlinna ist eine Stadt in South Savo. Sie bringt einen lokalen Stadtnamen, eine klare regionale Lage und einen nutzlichen Stopp fur Roadtrips. Der Ort passt gut zu Alltagsreisen, Kurztrips und Regionalfuhrern. Fur Suchen zu South Savo ist Savonlinna ein praktischer und wiedererkennbarer Ort.",
-      hu: "Savonlinna egy varos South Savo teruleten. Helyi varosnevet, tiszta regiojelolest es hasznos megallot ad az utvonalakhoz. Jol mukodik mindennapi utazasokhoz, rovid kiruccanasokhoz es tersegi utakhoz. South Savo kereseseiben Savonlinna egyertelmu es felismerheto hely.",
-      ro: "Savonlinna este un oras din South Savo. Adauga un nume local de oras, un cadru regional clar si o oprire utila pentru drumuri. Locul merge bine pentru calatorii de zi cu zi, escapade scurte si ghiduri de zona. Pentru cautari despre South Savo, Savonlinna este o locatie practica si usor de recunoscut.",
-      en: "Savonlinna is a town in South Savo. It adds a local city name, a clear regional setting, and a useful stop for road trips. The place works well for everyday travel, short breaks, and area guides. For South Savo searches, Savonlinna is a practical and recognizable location."
-    },
-    facts: {
-      de: ["In South Savo.", "Gut fur Tagesausfluge.", "Kompaktes lokales Zentrum.", "Starke regionale Sichtbarkeit.", "Leicht mit nahen Sehenswurdigkeiten zu verbinden."],
-      hu: ["South Savo teruleten.", "Jol mukodik egynapos kirandulasokhoz.", "Kompakt helyi kozpont.", "Erős regionalis lathatosag.", "Könnyen osszekapcsolhato kozelebbi latnivalokkal."],
-      ro: ["In South Savo.", "Util pentru excursii de o zi.", "Centru local compact.", "Vizibilitate regionala buna.", "Usor de combinat cu obiective apropiate."],
-      en: ["In South Savo.", "Useful for day trips.", "Compact local center.", "Good regional visibility.", "Easy to pair with nearby sights."]
-    },
-    image: "/geo-images/finland/city-savonlinna.webp",
   },
   {
     id: "city-iisalmi",
@@ -1778,26 +1738,6 @@ export const finlandNatureExtended: POI[] = [
     image: "/geo-images/finland/industry-vaasa-energy-hub.webp",
   },
   {
-    id: "natural-kvarken-islands",
-    type: "island",
-    parent: "reg-ostrobothnia-fi",
-    coords: [21.4500, 63.1700],
-    name: { de: "Kvarken Archipelago", hu: "Kvarken Archipelago", ro: "Kvarken Archipelago", en: "Kvarken Archipelago" },
-    description: {
-      de: "Kvarken Archipelago ist eine Kustenlandschaft in Ostrobothnia. Er ist gut fur Bootstouren, Fotos und Slow Travel. Der Ort hat starken regionalen Charakter und klare Meeresbezuge. Fur Natur-Suchen zu Ostrobothnia ist Kvarken Archipelago ein klarer Anker.",
-      hu: "Kvarken Archipelago egy part menti taj Ostrobothnia teruleten. Jol mukodik hajos kirandulasokhoz, fotokhoz es lassu utazasokhoz. A hely eros regionalis karaktert es tengerhez kotheto hangulatot ad. Ostrobothnia termeszetes kereseseiben Kvarken Archipelago egyertelmu kotopont.",
-      ro: "Kvarken Archipelago este un peisaj de coasta in Ostrobothnia. Este bun pentru excursii cu barca, fotografii si slow travel. Situl pastreaza un caracter regional puternic si asocieri clare cu marea. Pentru cautari despre natura in Ostrobothnia, Kvarken Archipelago este un reper clar.",
-      en: "Kvarken Archipelago is a coastal landscape in Ostrobothnia. It is good for boat trips, photos, and slow travel. The site keeps strong regional character and clear sea associations. For Ostrobothnia nature searches, Kvarken Archipelago is a clear anchor."
-    },
-    facts: {
-      de: ["Kustenlandschaft.", "Gut fur Bootstouren.", "Das ganze Jahr uber malerisch.", "Nutzlich fur Fotos.", "Stark im regionalen Reisen."],
-      hu: ["Parti taj.", "Jol mukodik hajos kirandulasokhoz.", "Egész evben szép.", "Hasznos fotokhoz.", "Erős a regionalis utazasokban."],
-      ro: ["Peisaj de coasta.", "Bun pentru excursii cu barca.", "Scenic tot anul.", "Util pentru fotografii.", "Puternic in turismul regional."],
-      en: ["Coastal landscape.", "Good for boat trips.", "Scenic all year.", "Useful for photos.", "Strong in regional travel."]
-    },
-    image: "/geo-images/finland/natural-kvarken-islands.webp",
-  },
-  {
     id: "landmark-kokkola-old-town",
     type: "landmark",
     parent: "reg-central-ostrobothnia-fi",
@@ -1936,46 +1876,6 @@ export const finlandNatureExtended: POI[] = [
       en: ["Natural landscape.", "Good for outdoor trips.", "Scenic all year.", "Useful for photos.", "Strong in regional travel."]
     },
     image: "/geo-images/finland/forest-hossa.webp",
-  },
-  {
-    id: "mountain-saana",
-    type: "mountain",
-    parent: "reg-lapland-fi",
-    coords: [20.8410, 69.0430],
-    name: { de: "Saana", hu: "Saana", ro: "Saana", en: "Saana" },
-    description: {
-      de: "Saana ist ein Berg in Lapland. Er gibt der Gegend eine starke Silhouette und eine klare Outdoor-Identitat. Der Ort ist nutzlich fur Wanderungen, Fotos und Slow Travel. Fur Natur-Suchen zu Lapland ist Saana ein klarer Anker.",
-      hu: "Saana egy hegy Lapland teruleten. Erős sziluettet es egyertelmu szabadt eri identitast ad a tajnak. Hasznos turazashoz, fotokhoz es lassu utazasokhoz. Lapland termeszetes kereseseiben Saana egyertelmu kotopont.",
-      ro: "Saana este un munte in Lapland. Ofera zonei o silueta puternica si o identitate clara de outdoor. Locul este util pentru drumetii, fotografii si slow travel. Pentru cautari despre natura in Lapland, Saana este un reper clar.",
-      en: "Saana is a mountain in Lapland. It gives the area a strong skyline and a clear outdoor identity. The site is useful for hikes, photos, and slow travel. For Lapland nature searches, Saana is a clear anchor."
-    },
-    facts: {
-      de: ["Naturwahrzeichen.", "Gut fur Wanderungen.", "Das ganze Jahr uber malerisch.", "Nutzlich fur Fotos.", "Stark im regionalen Reisen."],
-      hu: ["Termeszetes jelke p.", "Jol mukodik turazashoz.", "Egész evben szép.", "Hasznos fotokhoz.", "Erős a regionalis utazasokban."],
-      ro: ["Reper natural.", "Bun pentru drumetii.", "Scenic tot anul.", "Util pentru fotografii.", "Puternic in turismul regional."],
-      en: ["Natural landmark.", "Good for hikes.", "Scenic all year.", "Useful for photos.", "Strong in regional travel."]
-    },
-    image: "/geo-images/finland/mountain-saana.webp",
-  },
-  {
-    id: "lake-inari",
-    type: "lake",
-    parent: "reg-lapland-fi",
-    coords: [27.2800, 68.9100],
-    name: { de: "Lake Inari", hu: "Lake Inari", ro: "Lake Inari", en: "Lake Inari" },
-    description: {
-      de: "Lake Inari ist ein Naturort in Lapland. Er stellt Seelandschaft und ruhige Regionalbilder in den Vordergrund. Der Ort ist nutzlich fur Outdoor-Trips, Fotos und Slow Travel. Fur Natur-Suchen zu Lapland ist Lake Inari ein klarer Anker.",
-      hu: "Lake Inari egy termeszetes hely Lapland teruleten. A tavi tajat es a nyugodt regionalis latvanyt emeli ki. Hasznos szabadt eri kirandulasokhoz, fotokhoz es lassu utazasokhoz. Lapland termeszetes kereseseiben Lake Inari egyertelmu kotopont.",
-      ro: "Lake Inari este un loc natural in Lapland. Pune in prim plan peisajul lacustru si peisajele regionale linistite. Situl este util pentru excursii in aer liber, fotografii si slow travel. Pentru cautari despre natura in Lapland, Lake Inari este un reper clar.",
-      en: "Lake Inari is a natural place in Lapland. It highlights lake scenery and calm regional landscapes. The site is useful for outdoor trips, photos, and slow travel. For Lapland nature searches, Lake Inari is a clear anchor."
-    },
-    facts: {
-      de: ["Naturlandschaft.", "Gut fur Outdoor-Trips.", "Das ganze Jahr uber malerisch.", "Nutzlich fur Fotos.", "Stark im regionalen Reisen."],
-      hu: ["Termeszetes taj.", "Jol mukodik szabadt eri programokhoz.", "Egész evben szép.", "Hasznos fotokhoz.", "Erős a regionalis utazasokban."],
-      ro: ["Peisaj natural.", "Bun pentru excursii in aer liber.", "Scenic tot anul.", "Util pentru fotografii.", "Puternic in turismul regional."],
-      en: ["Natural landscape.", "Good for outdoor trips.", "Scenic all year.", "Useful for photos.", "Strong in regional travel."]
-    },
-    image: "/geo-images/finland/lake-inari.webp",
   },
   {
     id: "kid-ranua-wildlife-park",

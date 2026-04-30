@@ -337,33 +337,7 @@ export const belizeCities: POI[] = [
 ];
 
 export const belizeLandmarks: POI[] = [
-  { 
-    id: "bz-bluehole", 
-    type: "landmark", 
-    parent: "BZ", 
-    coords: [-87.5344, 17.3156], 
-    name: { de: "Great Blue Hole", hu: "Nagy Kék Lyuk (Great Blue Hole)", ro: "Marea Gaură Albastră", en: "Great Blue Hole" }, 
-    description: { de: "Eine riesige marine Doline vor der Küste von Belize, ein Tauchparadies.", hu: "Hatalmas tengeri víznyelő Belize partjainál, búvárparadicsom.", ro: "O uriașă dolină marină în largul coastei statului Belize, un paradis al scafandrilor.", en: "A giant marine sinkhole off the coast of Belize, a diving paradise." },
-    descriptionAdvanced: {
-      de: "Das Great Blue Hole ist eine kreisrunde marine Doline, die über 300 Meter breit und 125 Meter tief ist. Sie ist Teil des Belize Barrier Reef Reserve System und weltberühmt für ihre kristallklaren Gewässer und die beeindruckenden Unterwasser-Tropfsteinformationen.",
-      hu: "A Nagy Kék Lyuk egy kör alakú tengeri víznyelő, amely több mint 300 méter széles és 125 méter mély. A Belize-korallzátony védelmi rendszerének része, és világhírű kristálytiszta vizéről, valamint lenyűgöző víz alatti cseppkőképződményeiről.",
-      ro: "Marea Gaură Albastră este o dolină marină circulară, având peste 300 de metri lățime și 125 de metri adâncime. Face parte din sistemul de recife din Belize și este celebră pentru apele sale cristaline și formațiunile de stalactite submarine.",
-      en: "The Great Blue Hole is a massive circular underwater sinkhole, measuring over 300 meters across and 125 meters deep. Part of the Belize Barrier Reef, it is globally famous for its crystal-clear water and prehistoric stalactite formations."
-    },
-    facts: {
-      de: ["Tiefe: ca. 125 Meter.", "Durchmesser: über 300 Meter.", "Bekannt durch Jacques Cousteau.", "UNESCO-Welterbe."],
-      hu: ["Mélysége: kb. 125 méter.", "Átmérője: több mint 300 méter.", "Jacques Cousteau tette híressé.", "UNESCO világörökség."],
-      ro: ["Adâncime: aprox. 125 metri.", "Diametru: peste 300 metri.", "Făcută celebră de Jacques Cousteau.", "Patrimoniu UNESCO."],
-      en: ["Depth: approx. 125 meters.", "Diameter: over 300 meters.", "Made famous by Jacques Cousteau.", "UNESCO World Heritage site."]
-    },
-    factsAdvanced: {
-      de: ["Es handelt sich um ein kollabiertes Höhlensystem aus der letzten Eiszeit.", "In der Tiefe gibt es kaum Sauerstoff, was die Konservierung fördert.", "Das Blue Hole ist aus dem Weltraum sichtbar."],
-      hu: ["Ez egy beomlott barlangrendszer az utolsó jégkorszakból.", "A mélyben alig van oxigén, ami elősegíti az állagmegóvást.", "A Kék Lyuk az űrből is látható."],
-      ro: ["Este un sistem de peșteri prăbușit din ultima eră glaciară.", "La adâncime există foarte puțin oxigen, ceea ce ajută la conservare.", "Gaura Albastră este vizibilă din spațiu."],
-      en: ["The hole formed as a limestone cave system during the last glacial period.", "Diving into its depths reveals massive stalactites suspended in still water.", "It is clearly visible from space due to its deep indigo color contrast."]
-    }
-  },
-  { 
+    { 
     id: "bz-xunantunich", 
     type: "historical", 
     parent: "BZ", 

@@ -1,0 +1,544 @@
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "mississauga-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "brampton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "hamilton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "london-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "markham-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "vaughan-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "kitchener-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "windsor-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "surrey-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "burnaby-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "richmond-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "coquitlam-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "kelowna-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "laval-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "gatineau-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "longueuil-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "sherbrooke-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "saguenay-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "levis-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "trois-rivieres-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "lethbridge-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "red-deer-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "st-albert-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "medicine-hat-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "grande-prairie-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "moncton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "saint-john-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "cape-breton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "barrie-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "oshawa-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "guelph-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "kingston-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "kamloops-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "nanaimo-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "prince-george-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "chilliwack-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "abbotsford-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "thunder-bay-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "sudbury-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "brantford-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "peterborough-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "sarnia-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "niagara-falls-city-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "st-catharines-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "chatham-kent-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "new-westminster-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "port-coquitlam-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "langley-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "white-rock-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "terrebonne-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "saint-jean-sur-richelieu-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "blainville-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "drummondville-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "saint-hyacinthe-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "mirabel-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "granby-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "moose-jaw-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "prince-albert-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "brandon-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "north-bay-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "belleville-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "sault-ste-marie-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "kawartha-lakes-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "airdrie-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "wood-buffalo-fort-mcmurray-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "st-johns-county-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "clarington-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "pickering-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "ajax-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "richmond-hill-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "oakville-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "burlington-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "cambridge-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "waterloo-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "halton-hills-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "milton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "newmarket-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "caledon-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "maple-ridge-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "north-vancouver-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "delta-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "victoriaville-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "salaberry-de-valleyfield-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "saint-jerome-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "shawinigan-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "rimouski-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "swift-current-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "yorkton-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "north-battleford-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "lloydminster-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "corner-brook-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "mount-pearl-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "conception-bay-south-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "truro-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "new-glasgow-cities-v2",
+lib/visualLab/data/poiExtraCanadaCitiesV2.ts:    id: "summerside-cities-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fort-york-toronto-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "battle-of-batoche-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "grosse-ile-irish-memorial-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fort-henry-kingston-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "klondike-gold-rush-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "writing-on-stone-park-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "red-bay-basque-whaling-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "pier-21-halifax-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fort-garry-winnipeg-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "dundurn-castle-hamilton-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fort-langley-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "old-montreal-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "distillery-district-toronto-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "sgang-gwaay-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "battlefields-park-quebec-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "casa-loma-toronto-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "craigdarroch-castle-victoria-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "royal-bc-museum-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "glenbow-museum-calgary-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "chateau-ramsay-montreal-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fort-malden-amherstburg-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "martello-towers-kingston-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "galt-historic-railway-park-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "britannia-mine-museum-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "bar-u-ranch-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "fisgard-lighthouse-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "gulf-of-georgia-cannery-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "green-gables-pei-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "province-house-charlottetown-history-v2",
+lib/visualLab/data/poiExtraCanadaHistoryV2.ts:    id: "esterhazy-flour-mill-history-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "syncrude-oilsands-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "suncor-fort-mcmurray-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "sudbury-nickel-mines-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "potash-corp-saskatchewan-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "gander-international-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "quebec-aluminum-smelter-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "saint-john-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "thunder-bay-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "delta-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "sept-iles-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "kitimat-lng-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "windsor-assembly-plant-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "saskatoon-uranium-mining-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "winnipeg-logistics-hub-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "burnaby-oil-refinery-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "nanticoke-steel-plant-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "columbia-river-hydro-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "hamilton-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "sarnia-petrochemical-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "vancouver-grain-terminals-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "charlottetown-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "oilsands-pipe-infrastructure-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "st-johns-port-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "guelph-manufacturing-hub-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "baffin-mining-project-economic-v2",
+lib/visualLab/data/poiExtraCanadaEconomicV2.ts:    id: "fraser-valley-agriculture-logistics-economic-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "notre-dame-basilica-montreal-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "saint-josephs-oratory-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "confederation-bridge-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "calgary-tower-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "rogers-centre-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "scotiabank-saddledome-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "olympic-stadium-montreal-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "bc-place-stadium-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "habitat-67-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "national-gallery-of-canada-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "royal-ontario-museum-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "canadian-museum-for-human-rights-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "fairmont-le-chateau-frontenac-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "casa-loma-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "toronto-city-hall-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "lions-gate-bridge-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "peace-tower-ottawa-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "ontario-place-cinesphere-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "brockville-railway-tunnel-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "toronto-sign-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "calgary-peace-bridge-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "gooderham-building-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "hartland-covered-bridge-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "macdonald-bridge-halifax-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "winnipeg-legislative-building-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "saskatchewan-legislative-building-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "edmonton-funicular-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "prince-edward-viaduct-toronto-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLandmarksV2.ts:    id: "the-forks-winnipeg-landmarks-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "toronto-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "calgary-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "granby-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "vancouver-aquarium-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "ripleys-aquarium-canada-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "african-lion-safari-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "parc-omega-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "saskatoon-forestry-farm-park-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "assiniboine-park-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "edmonton-valley-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "magnetic-hill-zoo-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "pei-potato-farming-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "niagara-icewine-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "prairie-canola-fields-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "fraser-valley-blueberries-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "annapolis-valley-apples-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "pacific-salmon-run-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "gwaii-haanas-marine-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "churchill-beluga-whales-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "elk-island-bison-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "point-pelee-bird-migration-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "la-mauricie-black-bears-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "calaway-park-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "la-ronde-montreal-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "science-world-vancouver-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "ontario-science-centre-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "saskatchewan-cranberry-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "gaspereau-valley-wines-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "southern-alberta-sugar-beets-life-v2",
+lib/visualLab/data/poiExtraCanadaLifeV2.ts:    id: "montreal-insectarium-life-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-assiniboine-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "south-nahanni-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "great-slave-lake-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "haida-gwaii-islands-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "pacific-rim-national-park-forest-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "beaufort-sea-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-temple-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "athabasca-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "lake-superior-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "magdalen-islands-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "boreal-forest-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "hudson-bay-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-waddington-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "churchill-river-saskatchewan-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "lake-winnipeg-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "prince-edward-island-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "carmanah-walbran-provincial-park-forest-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-assiniboine-park-forest-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "gwaii-haanas-national-park-reserve-forest-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-columbia-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "peace-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "lake-athabasca-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "cape-breton-island-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "manitoulin-island-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "yukon-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "mount-foraker-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "saint-john-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "malgne-lake-nature-v2",
+lib/visualLab/data/poiExtraCanadaNatureV2.ts:    id: "bow-river-nature-v2",
+lib/visualLab/data/poiExtraCanadaRefill.ts:    id: "thousand-islands-refill",
+lib/visualLab/data/poiExtraCanadaRefill.ts:    id: "montreal-botanical-garden-refill",
+can_cap",    name: { de: "Ottawa", hu: "Ottawa", ro: "Ottawa", en: "Ottawa
+can_tor",    name: { de: "Toronto", hu: "Toronto", ro: "Toronto", en: "Toronto
+can_mon",    name: { de: "Montreal", hu: "Montreal", ro: "Montreal", en: "Montreal
+can_van",    name: { de: "Vancouver", hu: "Vancouver", ro: "Vancouver", en: "Vancouver
+can_cal",    name: { de: "Calgary", hu: "Calgary", ro: "Calgary", en: "Calgary
+can_edm",    name: { de: "Edmonton", hu: "Edmonton", ro: "Edmonton", en: "Edmonton
+can_que",    name: { de: "Quebec City", hu: "Quebec City", ro: "Quebec City", en: "Quebec City
+can_win",    name: { de: "Winnipeg", hu: "Winnipeg", ro: "Winnipeg", en: "Winnipeg
+can_hal",    name: { de: "Halifax", hu: "Halifax", ro: "Halifax", en: "Halifax
+can_vic",    name: { de: "Victoria", hu: "Victoria", ro: "Victoria", en: "Victoria
+can_ss",    name: { de: "Saskatoon", hu: "Saskatoon", ro: "Saskatoon", en: "Saskatoon
+can_reg",    name: { de: "Regina", hu: "Regina", ro: "Regina", en: "Regina
+can_stj",    name: { de: "St. John's", hu: "St. John's", ro: "St. John's", en: "St. John's
+can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown
+can_fre",    name: { de: "Fredericton", hu: "Fredericton", ro: "Fredericton", en: "Fredericton
+can_whi",    name: { de: "Whitehorse", hu: "Whitehorse", ro: "Whitehorse", en: "Whitehorse
+can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife
+can_iqa",    name: { de: "Iqaluit", hu: "Iqaluit", ro: "Iqaluit", en: "Iqaluit
+ca-mount-robson
+ca-fraser-river
+ca-great-bear-lake
+ca-algonquin-park
+ca-mount-cavell
+ca-fortress-louisbourg
+ca-anse-meadows
+can_banff",    name: { de: "Banff National Park", hu: "Banff Nemzeti Park", ro: "Parcul Național Banff", en: "Banff National Park
+can_niagara",    name: { de: "Niagarafälle", hu: "Niagara-vízesés", ro: "Cascada Niagara", en: "Niagara Falls
+can_cntower",    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower
+can_jasper",    name: { de: "Jasper National Park", hu: "Jasper Nemzeti Park", ro: "Parcul Național Jasper", en: "Jasper National Park
+can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler
+can_fundy",    name: { de: "Bay of Fundy", hu: "Fundy-öböl", ro: "Golful Fundy", en: "Bay of Fundy
+can_louise",    name: { de: "Lake Louise", hu: "Louise-tó", ro: "Lacul Louise", en: "Lake Louise
+can_mackenzie",    name: { de: "Mackenzie River", hu: "Mackenzie-folyó", ro: "Fluviul Mackenzie", en: "Mackenzie River
+can_stlawrence",    name: { de: "Sankt-Lorenz-Strom", hu: "Szent Lőrinc-folyó", ro: "Fluviul Sfântul Laurențiu", en: "St. Lawrence River
+can_rockies",    name: { de: "Kanadische Rocky Mountains", hu: "Kanadai-Sziklás-hegység", ro: "Munții Stâncoși Canadieni", en: "Canadian Rockies
+can_grosmorne",    name: { de: "Gros-Morne-Nationalpark", hu: "Gros Morne Nemzeti Park", ro: "Parcul Național Gros Morne", en: "Gros Morne
+can_logan",    name: { de: "Mount Logan", hu: "Mount Logan", ro: "Muntele Logan", en: "Mount Logan
+ca-rideau-canal
+ca-buffalo-jump
+ca-plains-abraham
+ca-peggys-cove
+ca-parliament-hill
+ca-hopewell-rocks
+ca-butchart-gardens
+ca-signal-hill
+ca-banff-grizzly
+ca-churchill-polar-bear
+ca-wood-buffalo-bison
+ca-quebec-maple
+ca-saskatchewan-wheat
+ca-okanagan-wine
+ca-canadas-wonderland
+ca-west-edmonton-mall
+ca-alberta-oil-sands
+ca-vancouver-film
+ca-toronto-finance
+ca-port-vancouver
+ca-port-halifax
+ca-baffin-island
+ca-vancouver-island
+mississauga-cities-v2
+brampton-cities-v2
+hamilton-cities-v2
+london-cities-v2
+markham-cities-v2
+vaughan-cities-v2
+kitchener-cities-v2
+windsor-cities-v2
+surrey-cities-v2
+burnaby-cities-v2
+richmond-cities-v2
+coquitlam-cities-v2
+kelowna-cities-v2
+laval-cities-v2
+gatineau-cities-v2
+longueuil-cities-v2
+sherbrooke-cities-v2
+saguenay-cities-v2
+levis-cities-v2
+trois-rivieres-cities-v2
+lethbridge-cities-v2
+red-deer-cities-v2
+st-albert-cities-v2
+medicine-hat-cities-v2
+grande-prairie-cities-v2
+moncton-cities-v2
+saint-john-cities-v2
+cape-breton-cities-v2
+barrie-cities-v2
+oshawa-cities-v2
+guelph-cities-v2
+kingston-cities-v2
+kamloops-cities-v2
+nanaimo-cities-v2
+prince-george-cities-v2
+chilliwack-cities-v2
+abbotsford-cities-v2
+thunder-bay-cities-v2
+sudbury-cities-v2
+brantford-cities-v2
+peterborough-cities-v2
+sarnia-cities-v2
+niagara-falls-city-cities-v2
+st-catharines-cities-v2
+chatham-kent-cities-v2
+new-westminster-cities-v2
+port-coquitlam-cities-v2
+langley-cities-v2
+white-rock-cities-v2
+terrebonne-cities-v2
+saint-jean-sur-richelieu-cities-v2
+blainville-cities-v2
+drummondville-cities-v2
+saint-hyacinthe-cities-v2
+mirabel-cities-v2
+granby-cities-v2
+moose-jaw-cities-v2
+prince-albert-cities-v2
+brandon-cities-v2
+north-bay-cities-v2
+belleville-cities-v2
+sault-ste-marie-cities-v2
+kawartha-lakes-cities-v2
+airdrie-cities-v2
+wood-buffalo-fort-mcmurray-cities-v2
+st-johns-county-cities-v2
+clarington-cities-v2
+pickering-cities-v2
+ajax-cities-v2
+richmond-hill-cities-v2
+oakville-cities-v2
+burlington-cities-v2
+cambridge-cities-v2
+waterloo-cities-v2
+halton-hills-cities-v2
+milton-cities-v2
+newmarket-cities-v2
+caledon-cities-v2
+maple-ridge-cities-v2
+north-vancouver-cities-v2
+delta-cities-v2
+victoriaville-cities-v2
+salaberry-de-valleyfield-cities-v2
+saint-jerome-cities-v2
+shawinigan-cities-v2
+rimouski-cities-v2
+swift-current-cities-v2
+yorkton-cities-v2
+north-battleford-cities-v2
+lloydminster-cities-v2
+corner-brook-cities-v2
+mount-pearl-cities-v2
+conception-bay-south-cities-v2
+truro-cities-v2
+new-glasgow-cities-v2
+summerside-cities-v2
+fort-york-toronto-history-v2
+battle-of-batoche-history-v2
+grosse-ile-irish-memorial-history-v2
+fort-henry-kingston-history-v2
+klondike-gold-rush-history-v2
+writing-on-stone-park-history-v2
+red-bay-basque-whaling-history-v2
+pier-21-halifax-history-v2
+fort-garry-winnipeg-history-v2
+dundurn-castle-hamilton-history-v2
+fort-langley-history-v2
+old-montreal-history-v2
+distillery-district-toronto-history-v2
+sgang-gwaay-history-v2
+battlefields-park-quebec-history-v2
+casa-loma-toronto-history-v2
+craigdarroch-castle-victoria-history-v2
+royal-bc-museum-history-v2
+glenbow-museum-calgary-history-v2
+chateau-ramsay-montreal-history-v2
+fort-malden-amherstburg-history-v2
+martello-towers-kingston-history-v2
+galt-historic-railway-park-history-v2
+britannia-mine-museum-history-v2
+bar-u-ranch-history-v2
+fisgard-lighthouse-history-v2
+gulf-of-georgia-cannery-history-v2
+green-gables-pei-history-v2
+province-house-charlottetown-history-v2
+esterhazy-flour-mill-history-v2
+syncrude-oilsands-economic-v2
+suncor-fort-mcmurray-economic-v2
+sudbury-nickel-mines-economic-v2
+potash-corp-saskatchewan-economic-v2
+gander-international-port-economic-v2
+quebec-aluminum-smelter-economic-v2
+saint-john-port-economic-v2
+thunder-bay-port-economic-v2
+delta-port-economic-v2
+sept-iles-port-economic-v2
+kitimat-lng-economic-v2
+windsor-assembly-plant-economic-v2
+saskatoon-uranium-mining-economic-v2
+winnipeg-logistics-hub-economic-v2
+burnaby-oil-refinery-economic-v2
+nanticoke-steel-plant-economic-v2
+columbia-river-hydro-economic-v2
+hamilton-port-economic-v2
+sarnia-petrochemical-economic-v2
+vancouver-grain-terminals-economic-v2
+charlottetown-port-economic-v2
+oilsands-pipe-infrastructure-economic-v2
+st-johns-port-economic-v2
+guelph-manufacturing-hub-economic-v2
+baffin-mining-project-economic-v2
+fraser-valley-agriculture-logistics-economic-v2
+notre-dame-basilica-montreal-landmarks-v2
+saint-josephs-oratory-landmarks-v2
+confederation-bridge-landmarks-v2
+calgary-tower-landmarks-v2
+rogers-centre-landmarks-v2
+scotiabank-saddledome-landmarks-v2
+olympic-stadium-montreal-landmarks-v2
+bc-place-stadium-landmarks-v2
+habitat-67-landmarks-v2
+national-gallery-of-canada-landmarks-v2
+royal-ontario-museum-landmarks-v2
+canadian-museum-for-human-rights-landmarks-v2
+fairmont-le-chateau-frontenac-landmarks-v2
+casa-loma-landmarks-v2
+toronto-city-hall-landmarks-v2
+lions-gate-bridge-landmarks-v2
+peace-tower-ottawa-landmarks-v2
+ontario-place-cinesphere-landmarks-v2
+brockville-railway-tunnel-landmarks-v2
+toronto-sign-landmarks-v2
+calgary-peace-bridge-landmarks-v2
+gooderham-building-landmarks-v2
+hartland-covered-bridge-landmarks-v2
+macdonald-bridge-halifax-landmarks-v2
+winnipeg-legislative-building-landmarks-v2
+saskatchewan-legislative-building-landmarks-v2
+edmonton-funicular-landmarks-v2
+prince-edward-viaduct-toronto-landmarks-v2
+the-forks-winnipeg-landmarks-v2
+toronto-zoo-life-v2
+calgary-zoo-life-v2
+granby-zoo-life-v2
+vancouver-aquarium-life-v2
+ripleys-aquarium-canada-life-v2
+african-lion-safari-life-v2
+parc-omega-life-v2
+saskatoon-forestry-farm-park-zoo-life-v2
+assiniboine-park-zoo-life-v2
+edmonton-valley-zoo-life-v2
+magnetic-hill-zoo-life-v2
+pei-potato-farming-life-v2
+niagara-icewine-life-v2
+prairie-canola-fields-life-v2
+fraser-valley-blueberries-life-v2
+annapolis-valley-apples-life-v2
+pacific-salmon-run-life-v2
+gwaii-haanas-marine-life-v2
+churchill-beluga-whales-life-v2
+elk-island-bison-life-v2
+point-pelee-bird-migration-life-v2
+la-mauricie-black-bears-life-v2
+calaway-park-life-v2
+la-ronde-montreal-life-v2
+science-world-vancouver-life-v2
+ontario-science-centre-life-v2
+saskatchewan-cranberry-life-v2
+gaspereau-valley-wines-life-v2
+southern-alberta-sugar-beets-life-v2
+montreal-insectarium-life-v2
+mount-assiniboine-nature-v2
+south-nahanni-river-nature-v2
+great-slave-lake-nature-v2
+haida-gwaii-islands-nature-v2
+pacific-rim-national-park-forest-nature-v2
+beaufort-sea-nature-v2
+mount-temple-nature-v2
+athabasca-river-nature-v2
+lake-superior-nature-v2
+magdalen-islands-nature-v2
+boreal-forest-nature-v2
+hudson-bay-nature-v2
+mount-waddington-nature-v2
+churchill-river-saskatchewan-nature-v2
+lake-winnipeg-nature-v2
+prince-edward-island-nature-v2
+carmanah-walbran-provincial-park-forest-nature-v2
+mount-assiniboine-park-forest-nature-v2
+gwaii-haanas-national-park-reserve-forest-nature-v2
+mount-columbia-nature-v2
+peace-river-nature-v2
+lake-athabasca-nature-v2
+cape-breton-island-nature-v2
+manitoulin-island-nature-v2
+yukon-river-nature-v2
+mount-foraker-nature-v2
+saint-john-river-nature-v2
+malgne-lake-nature-v2
+bow-river-nature-v2
+thousand-islands-refill
+montreal-botanical-garden-refill

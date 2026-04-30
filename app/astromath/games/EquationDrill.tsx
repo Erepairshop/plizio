@@ -3,7 +3,7 @@
 // Same MCQ logic as OrbitQuiz but with bigger "?" display and card-style answers.
 // Designed for Grade 4 multiplication/division islands.
 
-import { memo, useState, useEffect, useCallback, useRef } from "react";
+import { memo, useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -32,14 +32,14 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
 
   const q = questions[idx];
 
-  const shuffledOpts = useMemo(() => {
+  const shuffledOpts = useMemo<string[]>(() => {
     if (!q?.options) return [];
     const a = [...q.options];
     for (let i = a.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [a[i], a[j]] = [a[j], a[i]];
     }
-    return a;
+    return a.map((opt) => String(opt));
   }, [q]);
 
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);

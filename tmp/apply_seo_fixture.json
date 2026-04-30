@@ -1,0 +1,15 @@
+{
+  "lang": "hu",
+  "files": ["tmp/apply_seo_fixture.ts"],
+  "items": [
+    {
+      "id": "test-brace-poi",
+      "descriptionAdvanced": "Egészítve \"idézőjellel\" és } kapcsos zárral",
+      "factsAdvanced": [
+        "Első ] elem",
+        "Második } elem",
+        "Harmadik \"idézet\""
+      ]
+    }
+  ]
+}

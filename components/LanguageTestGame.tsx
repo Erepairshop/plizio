@@ -103,11 +103,18 @@ function checkAnswer(input: string, expected: string | string[]): boolean {
   return variants.some((v) => normalise(v) === inp);
 }
 
+function resolveText(value: string | Record<string, string> | undefined, lang: string, fallback = "") {
+  if (!value) return fallback;
+  if (typeof value === "string") return value;
+  return value[lang] ?? value.en ?? Object.values(value)[0] ?? fallback;
+}
+
 // ─── MAIN COMPONENT ───────────────────────────────────────────────────────────
 
 export default function LanguageTestGame({ config }: { config: LanguageTestConfig }) {
   const avatarProps = useAvatarProps();
   const { labels } = config;
+  const tLabel = (value: string | Record<string, string> | undefined) => resolveText(value, "en");
 
   const [screen, setScreen]               = useState<Screen>("country");
   const [countryCode, setCountryCode]     = useState(config.countries[0]?.code ?? "US");
@@ -283,7 +290,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
               <h1 className="text-4xl font-black tracking-wider text-white" style={{ textShadow: `0 0 20px ${config.color}66` }}>
                 {config.title}
               </h1>
-              <p className="text-white/50 text-sm">{labels.selectCountry}</p>
+              <p className="text-white/50 text-sm">{tLabel(labels.selectCountry)}</p>
             </motion.div>
 
             <motion.div
@@ -346,7 +353,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
               </motion.div>
               <h1 className="text-4xl font-black tracking-wider text-white">{config.title}</h1>
               <p className="text-white/50 text-sm">
-                {config.countries.find((c) => c.code === countryCode)?.flag ?? ""} {labels.selectGrade}
+                {config.countries.find((c) => c.code === countryCode)?.flag ?? ""} {tLabel(labels.selectGrade)}
               </p>
             </motion.div>
 
@@ -406,7 +413,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                 {config.gradeLabel} {grade}
               </span>
             </div>
-            <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">{labels.selectTopics}</p>
+            <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">{tLabel(labels.selectTopics)}</p>
 
             {/* Themes */}
             <div className="relative z-10 flex flex-col gap-2.5">
@@ -433,7 +440,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                   >
                     <div className="flex items-center gap-2.5 px-4 py-3" style={{ borderLeft: `3px solid ${themeColor}` }}>
                       <span className="text-xl">{theme.icon}</span>
-                      <span className="font-bold text-sm flex-1" style={{ color: themeColor }}>{theme.name}</span>
+                      <span className="font-bold text-sm flex-1" style={{ color: themeColor }}>{resolveText(theme.name, "en")}</span>
                       {availSubs.length > 1 && (
                         <button
                           onClick={toggleAll}
@@ -444,7 +451,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                             background: allSel ? `${themeColor}15` : "transparent",
                           }}
                         >
-                          {allSel ? labels.allCheck : labels.all}
+                          {allSel ? tLabel(labels.allCheck) : tLabel(labels.all)}
                         </button>
                       )}
                     </div>
@@ -469,12 +476,12 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                             >
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
-                            <span className="flex-1">{sub.name}</span>
+                            <span className="flex-1">{resolveText(sub.name, "en")}</span>
                             {empty
-                              ? <span className="text-[10px] text-white/20">{labels.soon}</span>
+                              ? <span className="text-[10px] text-white/20">{tLabel(labels.soon)}</span>
                               : sub.hasGenerator && sub.questions.length === 0
-                                ? <span className="text-[10px]" style={{ color: `${themeColor}80` }}>GEN {labels.questions}</span>
-                                : <span className="text-[10px]" style={{ color: `${themeColor}80` }}>{sub.questions.length} {labels.questions}</span>
+                                ? <span className="text-[10px]" style={{ color: `${themeColor}80` }}>GEN {tLabel(labels.questions)}</span>
+                                : <span className="text-[10px]" style={{ color: `${themeColor}80` }}>{sub.questions.length} {tLabel(labels.questions)}</span>
                             }
                           </button>
                         );
@@ -497,10 +504,10 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                   boxShadow: selectedIds.length > 0 ? `0 0 24px ${config.color}70` : "none",
                 }}
               >
-                {labels.startTest} →
+                {tLabel(labels.startTest)} →
                 {selectedIds.length > 0 && (
                   <span className="font-normal text-sm ml-2 opacity-70">
-                    ({selectedIds.length} {labels.areas})
+                    ({selectedIds.length} {tLabel(labels.areas)})
                   </span>
                 )}
               </motion.button>
@@ -522,7 +529,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
               </button>
               <div className="flex-1">
                 <div className="flex justify-between text-xs text-white/40 mb-1">
-                  <span>{labels.question} {idx + 1} / {totalQ}</span>
+                  <span>{tLabel(labels.question)} {idx + 1} / {totalQ}</span>
                   <span>{config.gradeLabel} {grade}</span>
                 </div>
                 <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
@@ -577,7 +584,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                     value={typingInput}
                     onChange={(e) => setTypingInput(e.target.value)}
                     disabled={showFeedback}
-                    placeholder={labels.placeholder}
+                    placeholder={tLabel(labels.placeholder)}
                     autoFocus
                     className={`w-full bg-[#1A1A35] border rounded-xl px-4 py-3 text-white text-base outline-none placeholder:text-white/25 transition-all
                       ${showFeedback ? lastCorrect ? "border-[#00FF88] bg-[#00FF88]/10" : "border-[#FF2D78] bg-[#FF2D78]/10" : "border-white/20 focus:border-[#00D4FF]/60"}`}
@@ -589,7 +596,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                       className="py-3 rounded-xl font-black text-black disabled:opacity-30 disabled:cursor-not-allowed"
                       style={{ background: config.color }}
                     >
-                      {labels.answerBtn} →
+                      {tLabel(labels.answerBtn)} →
                     </motion.button>
                   )}
                 </form>
@@ -605,7 +612,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                   >
                     <div className={`flex items-center gap-2 font-bold text-sm ${lastCorrect ? "text-[#00FF88]" : "text-[#FF2D78]"}`}>
                       {lastCorrect
-                        ? <><Check size={16} /> {labels.correct} 🌟</>
+                        ? <><Check size={16} /> {tLabel(labels.correct)} 🌟</>
                         : <>
                             <XIcon size={16} />
                             <span>Correct:</span>
@@ -668,7 +675,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                   style={{ borderColor: mark.color, boxShadow: `0 0 30px ${mark.color}40` }}
                 >
                   <span className="text-4xl font-black" style={{ color: mark.color }}>{mark.label}</span>
-                  <span className="text-[10px] text-white/40 uppercase">{labels.gradeMark}</span>
+                  <span className="text-[10px] text-white/40 uppercase">{tLabel(labels.gradeMark)}</span>
                 </div>
                 <p className="text-xl font-bold" style={{ color: mark.color }}>{mark.description}</p>
                 <p className="text-white/50 text-sm mt-1">{mark.emoji} {scoreCount} / {answers.length} correct ({scorePct}%)</p>
@@ -677,7 +684,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
               {/* Answer review */}
               <div className="bg-[#12122A] rounded-xl border border-white/10 overflow-hidden mb-6">
                 <div className="px-4 py-2.5 border-b border-white/5 text-xs text-white/40 font-bold uppercase tracking-wide">
-                  {labels.review}
+                  {tLabel(labels.review)}
                 </div>
                 <div className="divide-y divide-white/5">
                   {questions.map((q, i) => {
@@ -707,13 +714,13 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                   className="flex-1 py-4 rounded-xl font-black text-black flex items-center justify-center gap-2"
                   style={{ background: config.color }}
                 >
-                  <RotateCcw size={18} /> {labels.again}
+                  <RotateCcw size={18} /> {tLabel(labels.again)}
                 </motion.button>
                 <Link
                   href="/"
                   className="flex-1 py-4 rounded-xl bg-white/10 text-white/70 font-bold flex items-center justify-center gap-2 hover:bg-white/15 transition-all"
                 >
-                  <Home size={18} /> {labels.home}
+                  <Home size={18} /> {tLabel(labels.home)}
                 </Link>
               </div>
             </div>

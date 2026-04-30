@@ -90,7 +90,7 @@ export const frQuizTasks: QuizTask[] = [
       en: "How far is Bordeaux from Strasbourg? Click on both cities!",
     },
     // Bordeaux (-0.58°, 44.84°) ↔ Strasbourg (7.75°, 48.57°) = 758 km haversine
-    targetPoiId: "bordeaux",
+    targetPoiId: "fr-bordeaux",
     targetPoiId2: "strasbourg",
     expectedKm: 758,
   },
@@ -106,8 +106,8 @@ export const frQuizTasks: QuizTask[] = [
       en: "Which city is NOT on the Mediterranean coast? Click on it!",
     },
     // Marseille, Nice, Cannes, Montpellier are on the Mediterranean; Bordeaux is on the Atlantic
-    optionPoiIds: ["marseille", "nice", "cannes", "fr-montpellier", "bordeaux"],
-    wrongPoiId: "bordeaux",
+    optionPoiIds: ["marseille", "nice", "cannes", "fr-montpellier", "fr-bordeaux"],
+    wrongPoiId: "fr-bordeaux",
   },
   {
     id: "fr-se-2",
@@ -134,7 +134,7 @@ export const frQuizTasks: QuizTask[] = [
       en: "Click the cities from west to east: Bordeaux → Lyon → Strasbourg!",
     },
     // Bordeaux (-0.58°), Lyon (4.84°), Strasbourg (7.75°) — west to east
-    orderedPoiIds: ["bordeaux", "lyon", "strasbourg"],
+    orderedPoiIds: ["fr-bordeaux", "lyon", "strasbourg"],
     orderBy: "west_to_east",
   },
 ];

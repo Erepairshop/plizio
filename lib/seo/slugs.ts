@@ -9,6 +9,10 @@ export type Lang = "de" | "hu" | "ro" | "en";
 
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 
+function isDefinedPoi(poi: POI | null | undefined): poi is POI {
+  return Boolean(poi && poi.id && poi.name && poi.type);
+}
+
 // Base: DE + RO + HU + Vatican (explicit, for backward compat).
 // Plus: all other countries via ALL_COUNTRY_POIS aggregate.
 // De-duplicate by id (RO/HU/Vatican already in the aggregate list too, keep first occurrence).
@@ -191,10 +195,10 @@ export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
 };
 
 export const REGION_BY_ID = new Map(
-  regions.filter((r) => r && r.id).map((region) => [region.id, region])
+  regions.filter(isDefinedPoi).map((region) => [region.id, region])
 );
 
-const poisOnly = pois.filter((poi) => poi && poi.type !== "region" && poi.type !== "country");
+const poisOnly = pois.filter((poi): poi is POI => isDefinedPoi(poi) && poi.type !== "region" && poi.type !== "country");
 const poiIdByLangSlug = new Map<string, string>();
 
 function slugKey(lang: Lang, slug: string) {
@@ -233,11 +237,11 @@ export function poiSlug(poi: POI, lang: Lang) {
 }
 
 export function findRegionByStateSlug(lang: Lang, stateSlug: string) {
-  return regions.find((region) => STATE_SLUGS[region.id]?.[lang] === stateSlug) ?? null;
+  return regions.find((region): region is POI => isDefinedPoi(region) && STATE_SLUGS[region.id]?.[lang] === stateSlug) ?? null;
 }
 
 export function findPoiBySlug(lang: Lang, poiSlugValue: string) {
-  return poisOnly.find((poi) => POI_SLUGS[poi.id]?.[lang] === poiSlugValue) ?? null;
+  return poisOnly.find((poi): poi is POI => POI_SLUGS[poi.id]?.[lang] === poiSlugValue) ?? null;
 }
 
 // Map of ISO2/state-prefix to country-id (used as slug key in COUNTRY_SLUGS)

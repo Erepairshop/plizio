@@ -123,13 +123,14 @@ function MissionDoneScreen({ mission, island, score, total, onContinue }: {
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const scoreLabel = (t as unknown as Record<string, string>).score ?? "Score";
   return (
     <div className="flex flex-col items-center justify-center text-center px-4 w-full">
       <div className="text-6xl mb-4">🏆</div>
       <h2 className="text-3xl font-black text-white mb-2">{t.missionDone}</h2>
       <p className="text-white/60 text-sm mb-6">{mission.label[lang as keyof typeof mission.label] ?? mission.label.en}</p>
       <div className="flex flex-col gap-2 bg-white/5 rounded-3xl p-6 w-full max-w-sm mb-8 border border-white/10">
-        <p className="text-white/50 text-xs font-bold uppercase tracking-wider">{t.score}</p>
+        <p className="text-white/50 text-xs font-bold uppercase tracking-wider">{scoreLabel}</p>
         <p className="text-4xl font-black text-[#FFD700]">{score} <span className="text-xl text-white/30">/ {total}</span></p>
       </div>
       <button onClick={onContinue} className="w-full max-w-sm py-4 rounded-2xl font-black text-black" style={{ background: "linear-gradient(135deg, #FFD700, #FFA500)" }}>{t.next} 🚀</button>

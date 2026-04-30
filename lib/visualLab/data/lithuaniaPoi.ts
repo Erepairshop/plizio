@@ -1,5 +1,5 @@
 export const lithuaniaAllPoi = [
-  {
+{
     id: "lt-country",
     type: "country",
     coords: [23.8813, 55.1694],
@@ -73,7 +73,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/country.jpg"
   },
-  {
+{
     id: "lt-vilnius",
     type: "city",
     parent: "lt-country",
@@ -104,7 +104,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/vilnius.jpg"
   },
-  {
+{
     id: "lt-kaunas",
     type: "city",
     parent: "lt-country",
@@ -129,7 +129,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/kaunas.jpg"
   },
-  {
+{
     id: "lt-klaipeda",
     type: "city",
     parent: "lt-country",
@@ -154,7 +154,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/klaipeda.jpg"
   },
-  {
+{
     id: "lt-trakai",
     type: "city",
     parent: "lt-country",
@@ -179,7 +179,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/trakai.jpg"
   },
-  {
+{
     id: "lt-hill-of-crosses",
     type: "landmark",
     parent: "lt-country",
@@ -204,7 +204,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/hill-of-crosses.jpg"
   },
-  {
+{
     id: "lt-curonian-spit",
     type: "landmark",
     parent: "lt-country",
@@ -229,7 +229,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/curonian-spit.jpg"
   },
-  {
+{
     id: "lt-kernave",
     type: "landmark",
     parent: "lt-country",
@@ -254,107 +254,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/images/visualLab/lithuania/kernave.jpg"
   },
-  {
-    id: "city-vilnius",
-    type: "city",
-    parent: "lt-country",
-    coords: [25.2797, 54.6872],
-    name: {
-      de: "Vilnius",
-      hu: "Vilnius",
-      ro: "Vilnius",
-      en: "Vilnius"
-    },
-    description: {
-      de: "Hauptstadt, UNESCO-Altstadt, Gediminas-Turm",
-      hu: "Főváros, UNESCO óváros, Gedimino torony",
-      ro: "Capitală, centrul vechi UNESCO, Turnul Gediminas",
-      en: "Capital, UNESCO old town, Gediminas Tower"
-    },
-    facts: {
-      de: ["Hauptstadt Litauens", "UNESCO-Altstadt"],
-      hu: ["Főváros", "UNESCO óváros"],
-      ro: ["Capitala Lituaniei", "Centrul vechi UNESCO"],
-      en: ["Capital of Lithuania", "UNESCO old town"]
-    },
-    image: "/geo-images/lithuania/city-vilnius.webp"
-  },
-  {
-    id: "city-kaunas",
-    type: "city",
-    parent: "lt-country",
-    coords: [23.9036, 54.8985],
-    name: {
-      de: "Kaunas",
-      hu: "Kaunas",
-      ro: "Kaunas",
-      en: "Kaunas"
-    },
-    description: {
-      de: "Zweitgrößte Stadt, zwischen den Weltkriegen Hauptstadt",
-      hu: "2. legnagyobb, két világháború közti főváros",
-      ro: "Al doilea oraș ca mărime, capitală între cele două războaie mondiale",
-      en: "Second-largest city, interwar capital"
-    },
-    facts: {
-      de: ["Zweitgrößte Stadt Litauens", "Zwischenkriegsarchitektur"],
-      hu: ["2. legnagyobb város", "Két világháború közti főváros"],
-      ro: ["Al doilea oraș ca mărime", "Capitală interbelică"],
-      en: ["Second-largest city", "Interwar capital"]
-    },
-    image: "/geo-images/lithuania/city-kaunas.webp"
-  },
-  {
-    id: "city-klaipeda",
-    type: "city",
-    parent: "lt-country",
-    coords: [21.1443, 55.7033],
-    name: {
-      de: "Klaipėda",
-      hu: "Klaipėda",
-      ro: "Klaipėda",
-      en: "Klaipėda"
-    },
-    description: {
-      de: "Hafenstadt, Memel in deutscher Zeit",
-      hu: "Kikötő, Memel a német időben",
-      ro: "Oraș-port, Memel în perioada germană",
-      en: "Port city, Memel in the German period"
-    },
-    facts: {
-      de: ["Baltischer Hafen", "Historisch: Memel"],
-      hu: ["Balti kikötő", "Történelmi név: Memel"],
-      ro: ["Port la Marea Baltică", "Nume istoric: Memel"],
-      en: ["Baltic port", "Historical name: Memel"]
-    },
-    image: "/geo-images/lithuania/city-klaipeda.webp"
-  },
-  {
-    id: "city-siauliai",
-    type: "city",
-    parent: "lt-country",
-    coords: [23.3156, 55.9333],
-    name: {
-      de: "Šiauliai",
-      hu: "Šiauliai",
-      ro: "Šiauliai",
-      en: "Šiauliai"
-    },
-    description: {
-      de: "Nordlitauen, nahe dem Berg der Kreuze",
-      hu: "Észak-Litvánia, Kereszt-domb közelében",
-      ro: "Lituania de nord, aproape de Dealul Crucilor",
-      en: "Northern Lithuania, near the Hill of Crosses"
-    },
-    facts: {
-      de: ["Nordlitauen", "Nahe dem Berg der Kreuze"],
-      hu: ["Észak-Litvánia", "Kereszt-domb közelében"],
-      ro: ["Lituania de nord", "Aproape de Dealul Crucilor"],
-      en: ["Northern Lithuania", "Near the Hill of Crosses"]
-    },
-    image: "/geo-images/lithuania/city-siauliai.webp"
-  },
-  {
+{
     id: "cult-vilnius-oldtown",
     type: "landmark",
     parent: "lt-country",
@@ -379,7 +279,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-vilnius-oldtown.webp"
   },
-  {
+{
     id: "cult-trakai",
     type: "landmark",
     parent: "lt-country",
@@ -404,57 +304,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-trakai.webp"
   },
-  {
-    id: "cult-hill-crosses",
-    type: "landmark",
-    parent: "lt-country",
-    coords: [23.4153, 56.0153],
-    name: {
-      de: "Berg der Kreuze",
-      hu: "Kryžių kalnas",
-      ro: "Dealul Crucilor",
-      en: "Hill of Crosses"
-    },
-    description: {
-      de: "100.000+ Kreuze, Pilgerort",
-      hu: "100000+ kereszt zarándokhely",
-      ro: "Peste 100.000 de cruci, loc de pelerinaj",
-      en: "100,000+ crosses, pilgrimage site"
-    },
-    facts: {
-      de: ["Pilgerort", "100.000+ Kreuze"],
-      hu: ["Zarándokhely", "100000+ kereszt"],
-      ro: ["Loc de pelerinaj", "Peste 100.000 de cruci"],
-      en: ["Pilgrimage site", "100,000+ crosses"]
-    },
-    image: "/geo-images/lithuania/cult-hill-crosses.webp"
-  },
-  {
-    id: "cult-kernave",
-    type: "landmark",
-    parent: "lt-country",
-    coords: [24.8561, 54.8875],
-    name: {
-      de: "Kernavė",
-      hu: "Kernavė",
-      ro: "Kernavė",
-      en: "Kernavė"
-    },
-    description: {
-      de: "UNESCO-archäologische mittelalterliche Hauptstadt",
-      hu: "UNESCO régészeti középkori főváros",
-      ro: "Capitala medievală arheologică UNESCO",
-      en: "UNESCO archaeological medieval capital"
-    },
-    facts: {
-      de: ["UNESCO-Archäologie", "Ehemalige Hauptstadt"],
-      hu: ["UNESCO régészet", "Egykori főváros"],
-      ro: ["Arheologie UNESCO", "Fostă capitală"],
-      en: ["UNESCO archaeology", "Former capital"]
-    },
-    image: "/geo-images/lithuania/cult-kernave.webp"
-  },
-  {
+{
     id: "nat-curonian-spit",
     type: "landmark",
     parent: "lt-country",
@@ -479,7 +329,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-curonian-spit.webp"
   },
-  {
+{
     id: "nat-aukstaitija",
     type: "landmark",
     parent: "lt-country",
@@ -504,7 +354,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-aukstaitija.webp"
   },
-  {
+{
     id: "nat-dzukija",
     type: "landmark",
     parent: "lt-country",
@@ -529,7 +379,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-dzukija.webp"
   },
-  {
+{
     id: "nat-kursiu-neringa",
     type: "landmark",
     parent: "lt-country",
@@ -554,7 +404,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-kursiu-neringa.webp"
   },
-  {
+{
     id: "nat-nemunas",
     type: "river",
     parent: "lt-country",
@@ -579,7 +429,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-nemunas.webp"
   },
-  {
+{
     id: "nat-zemaitija",
     type: "landmark",
     parent: "lt-country",
@@ -604,7 +454,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-zemaitija.webp"
   },
-  {
+{
     id: "nat-baltic-dunes",
     type: "landmark",
     parent: "lt-country",
@@ -629,7 +479,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-baltic-dunes.webp"
   },
-  {
+{
     id: "nat-labanoras",
     type: "forest",
     parent: "lt-country",
@@ -654,7 +504,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/nat-labanoras.webp"
   },
-  {
+{
     id: "cult-rumsiskes",
     type: "historical",
     parent: "lt-country",
@@ -679,7 +529,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-rumsiskes.webp"
   },
-  {
+{
     id: "cult-panemune-castles",
     type: "historical",
     parent: "lt-country",
@@ -704,7 +554,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-panemune-castles.webp"
   },
-  {
+{
     id: "cult-grutas",
     type: "historical",
     parent: "lt-country",
@@ -729,7 +579,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-grutas.webp"
   },
-  {
+{
     id: "cult-gediminas-tower",
     type: "landmark",
     parent: "lt-country",
@@ -754,7 +604,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-gediminas-tower.webp"
   },
-  {
+{
     id: "cult-palanga-amber",
     type: "landmark",
     parent: "lt-country",
@@ -779,7 +629,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-palanga-amber.webp"
   },
-  {
+{
     id: "cult-uzupis",
     type: "landmark",
     parent: "lt-country",
@@ -804,7 +654,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/cult-uzupis.webp"
   },
-  {
+{
     id: "lt-siauliai",
     type: "city",
     parent: "lt-country",
@@ -829,7 +679,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-siauliai.webp"
   },
-  {
+{
     id: "lt-panevezys",
     type: "city",
     parent: "lt-country",
@@ -854,7 +704,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-panevezys.webp"
   },
-  {
+{
     id: "lt-alytus",
     type: "city",
     parent: "lt-country",
@@ -879,7 +729,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-alytus.webp"
   },
-  {
+{
     id: "lt-marijampole",
     type: "city",
     parent: "lt-country",
@@ -904,7 +754,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-marijampole.webp"
   },
-  {
+{
     id: "lt-mazeikiai",
     type: "city",
     parent: "lt-country",
@@ -929,7 +779,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-mazeikiai.webp"
   },
-  {
+{
     id: "lt-jonava",
     type: "city",
     parent: "lt-country",
@@ -954,7 +804,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-jonava.webp"
   },
-  {
+{
     id: "lt-utena",
     type: "city",
     parent: "lt-country",
@@ -979,7 +829,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-utena.webp"
   },
-  {
+{
     id: "lt-kedainiai",
     type: "city",
     parent: "lt-country",
@@ -1004,7 +854,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-kedainiai.webp"
   },
-  {
+{
     id: "lt-taurage",
     type: "city",
     parent: "lt-country",
@@ -1029,7 +879,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-taurage.webp"
   },
-  {
+{
     id: "lt-telsiai",
     type: "city",
     parent: "lt-country",
@@ -1054,8 +904,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-telsiai.webp"
   },
-  ,
-  {
+{
     id: "lt-kaunas-castle",
     type: "historical",
     parent: "lt-country",
@@ -1080,7 +929,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-kaunas-castle.webp"
   },
-  {
+{
     id: "lt-trakai-peninsula-castle",
     type: "historical",
     parent: "lt-country",
@@ -1105,7 +954,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-trakai-peninsula-castle.webp"
   },
-  {
+{
     id: "lt-birzai-castle",
     type: "historical",
     parent: "lt-country",
@@ -1130,7 +979,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-birzai-castle.webp"
   },
-  {
+{
     id: "lt-raudone-castle",
     type: "historical",
     parent: "lt-country",
@@ -1155,7 +1004,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-raudone-castle.webp"
   },
-  {
+{
     id: "lt-raudondvaris-manor",
     type: "historical",
     parent: "lt-country",
@@ -1180,7 +1029,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-raudondvaris-manor.webp"
   },
-  {
+{
     id: "lt-medininkai-castle",
     type: "historical",
     parent: "lt-country",
@@ -1205,7 +1054,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-medininkai-castle.webp"
   },
-  {
+{
     id: "lt-siesikai-castle",
     type: "historical",
     parent: "lt-country",
@@ -1230,7 +1079,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-siesikai-castle.webp"
   },
-  {
+{
     id: "lt-tuskulenai-memorial",
     type: "historical",
     parent: "lt-country",
@@ -1255,7 +1104,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-tuskulenai-memorial.webp"
   },
-  {
+{
     id: "lt-aukstojas-hill",
     type: "mountain",
     parent: "lt-country",
@@ -1280,7 +1129,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-aukstojas-hill.webp"
   },
-  {
+{
     id: "lt-lake-galve",
     type: "lake",
     parent: "lt-country",
@@ -1305,7 +1154,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-lake-galve.webp"
   },
-  {
+{
     id: "lt-lake-plateliai",
     type: "lake",
     parent: "lt-country",
@@ -1330,7 +1179,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-lake-plateliai.webp"
   },
-  {
+{
     id: "lt-lake-druksiai",
     type: "lake",
     parent: "lt-country",
@@ -1354,9 +1203,8 @@ export const lithuaniaAllPoi = [
       en: ["Border region", "Large lake", "Quiet shores", "Nature watching", "Broad water surface"]
     },
     image: "/geo-images/lithuania/lt-lake-druksiai.webp"
-  }
-  ,
-  {
+  },
+{
     id: "lt-nemunas-river",
     type: "river",
     parent: "lt-country",
@@ -1381,7 +1229,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-nemunas-river.webp"
   },
-  {
+{
     id: "lt-neris-river",
     type: "river",
     parent: "lt-country",
@@ -1406,7 +1254,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-neris-river.webp"
   },
-  {
+{
     id: "lt-rusne-island",
     type: "island",
     parent: "lt-country",
@@ -1431,7 +1279,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-rusne-island.webp"
   },
-  {
+{
     id: "lt-dainava-forest",
     type: "forest",
     parent: "lt-country",
@@ -1455,9 +1303,8 @@ export const lithuaniaAllPoi = [
       en: ["Large forest area", "Southern Lithuania", "Pine woods", "Hiking and berries", "Quiet nature zone"]
     },
     image: "/geo-images/lithuania/lt-dainava-forest.webp"
-  }
-  ,
-  {
+  },
+{
     id: "lt-vilnius-cathedral",
     type: "landmark",
     parent: "lt-country",
@@ -1482,7 +1329,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-vilnius-cathedral.webp"
   },
-  {
+{
     id: "lt-grand-ducal-palace",
     type: "landmark",
     parent: "lt-country",
@@ -1507,7 +1354,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-grand-ducal-palace.webp"
   },
-  {
+{
     id: "lt-st-annes-church",
     type: "landmark",
     parent: "lt-country",
@@ -1532,7 +1379,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-st-annes-church.webp"
   },
-  {
+{
     id: "lt-vilnius-tv-tower",
     type: "landmark",
     parent: "lt-country",
@@ -1556,9 +1403,8 @@ export const lithuaniaAllPoi = [
       en: ["Tallest structure", "Vilnius", "Observation deck", "1991 symbol", "Strong skyline icon"]
     },
     image: "/geo-images/lithuania/lt-vilnius-tv-tower.webp"
-  }
-  ,
-  {
+  },
+{
     id: "lt-mo-museum",
     type: "landmark",
     parent: "lt-country",
@@ -1583,7 +1429,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-mo-museum.webp"
   },
-  {
+{
     id: "lt-lithuanian-sea-museum",
     type: "landmark",
     parent: "lt-country",
@@ -1608,7 +1454,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-lithuanian-sea-museum.webp"
   },
-  {
+{
     id: "lt-kaunas-resurrection-basilica",
     type: "landmark",
     parent: "lt-country",
@@ -1633,7 +1479,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-kaunas-resurrection-basilica.webp"
   },
-  {
+{
     id: "lt-kaunas-central-post-office",
     type: "landmark",
     parent: "lt-country",
@@ -1657,9 +1503,8 @@ export const lithuaniaAllPoi = [
       en: ["Interwar architecture", "Kaunas", "Urban modernity", "Historic civic building", "Architecture route"]
     },
     image: "/geo-images/lithuania/lt-kaunas-central-post-office.webp"
-  }
-  ,
-  {
+  },
+{
     id: "lt-klaipeda-port",
     type: "port",
     parent: "lt-country",
@@ -1684,7 +1529,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-klaipeda-port.webp"
   },
-  {
+{
     id: "lt-butinge-terminal",
     type: "port",
     parent: "lt-country",
@@ -1709,7 +1554,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-butinge-terminal.webp"
   },
-  {
+{
     id: "lt-klaipeda-lng-terminal",
     type: "port",
     parent: "lt-country",
@@ -1733,9 +1578,8 @@ export const lithuaniaAllPoi = [
       en: ["Coastal site", "Energy infrastructure", "Supply security", "Modern project", "Port-adjacent"]
     },
     image: "/geo-images/lithuania/lt-klaipeda-lng-terminal.webp"
-  }
-  ,
-  {
+  },
+{
     id: "lt-orlen-mazeikiai-refinery",
     type: "industry",
     parent: "lt-country",
@@ -1760,7 +1604,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-orlen-mazeikiai-refinery.webp"
   },
-  {
+{
     id: "lt-achema-jonava-plant",
     type: "industry",
     parent: "lt-country",
@@ -1785,7 +1629,7 @@ export const lithuaniaAllPoi = [
     },
     image: "/geo-images/lithuania/lt-achema-jonava-plant.webp"
   },
-  {
+{
     id: "lt-dotnuva-agri-centre",
     type: "agriculture",
     parent: "lt-country",

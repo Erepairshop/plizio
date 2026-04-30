@@ -1,0 +1,80 @@
+name: Build & Deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'  # daily 03:00 UTC = 05:00 CET
+
+concurrency:
+  group: build-deploy
+  cancel-in-progress: false
+
+env:
+  SSH_HOST: 72.61.100.230
+  SSH_PORT: '65002'
+  SSH_USER: u660905446
+  TARGET_DIR: domains/plizio.com/public_html
+  REMOTE_STAGING: .deploy-out
+  ARCHIVE_NAME: plizio-out.tar.gz
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Cache .next
+        uses: actions/cache@v4
+        with:
+          path: |
+            .next/cache
+          key: nextcache-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          restore-keys: |
+            nextcache-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
+            nextcache-${{ runner.os }}-
+
+      - run: npm ci
+
+      - name: Build
+        env:
+          NODE_OPTIONS: --max-old-space-size=14336
+        run: npx next build --webpack
+
+      - name: Pack archive
+        run: tar -C out -czf ${{ env.ARCHIVE_NAME }} .
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p ${{ env.SSH_PORT }} -H ${{ env.SSH_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Upload to staging
+        run: |
+          scp -P $SSH_PORT $ARCHIVE_NAME $SSH_USER@$SSH_HOST:$TARGET_DIR/
+          ssh -p $SSH_PORT $SSH_USER@$SSH_HOST "
+            cd $TARGET_DIR &&
+            rm -rf $REMOTE_STAGING &&
+            mkdir -p $REMOTE_STAGING &&
+            tar -xzf $ARCHIVE_NAME -C $REMOTE_STAGING &&
+            test -f $REMOTE_STAGING/index.html &&
+            test -d $REMOTE_STAGING/_next
+          "
+
+      - name: Activate deploy
+        run: |
+          ssh -p $SSH_PORT $SSH_USER@$SSH_HOST "
+            cd $TARGET_DIR &&
+            rm -rf _next next_static &&
+            cp -r $REMOTE_STAGING/* . &&
+            if [ -d _next ]; then mv _next next_static; fi &&
+            rm -rf $REMOTE_STAGING $ARCHIVE_NAME &&
+            test -f index.html && test -d next_static
+          "

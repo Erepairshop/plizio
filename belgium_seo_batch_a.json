@@ -1,0 +1,648 @@
+{
+  "nat-ardennes": {
+    "descriptionAdvanced": {
+      "de": "Die Ardennen sind eine waldreiche Gebirgslandschaft im Südosten Belgiens, die für ihre raue Schönheit und tiefen Täler bekannt ist. Diese Region bietet ideale Bedingungen für Outdoor-Aktivitäten wie Wandern, Radfahren und Kajakfahren auf den zahlreichen Flüssen. Historisch gesehen waren die Ardennen Schauplatz bedeutender Schlachten, insbesondere während des Zweiten Weltkriegs. Heute ziehen malerische Dörfer und historische Schlösser Besucher aus aller Welt an. Die dichten Wälder beherbergen eine reiche Flora und Fauna, was die Region zu einem Paradies für Naturliebhaber macht. Es ist ein Ort, an dem man Ruhe findet und gleichzeitig Abenteuer in der Wildnis erleben kann.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Ardennen erstrecken sich auch über Teile von Luxemburg und Frankreich.",
+        "Der höchste Punkt Belgiens, der Signal de Botrange, liegt in dieser Region.",
+        "Die Region ist berühmt für ihren Schinken und ihre herzhafte Wildküche.",
+        "Während der Ardennenoffensive 1944/45 fand hier eine entscheidende Schlacht des Zweiten Weltkriegs statt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "city-ghent": {
+    "descriptionAdvanced": {
+      "de": "Gent ist eine pulsierende Universitätsstadt im Herzen Flanderns, die eine perfekte Mischung aus mittelalterlichem Charme und modernem Leben bietet. Die Stadt beeindruckt mit ihrer gut erhaltenen Architektur, darunter die berühmte Graslei und Korenlei am Ufer der Leie. Ein absolutes Highlight ist die St.-Bavo-Kathedrale, die das weltberühmte Gemälde 'Der Genter Altar' von Jan van Eyck beherbergt. Gent ist bekannt für seine lebendige Kulturszene, zahlreiche Festivals und eine hervorragende Gastronomie. Dank der vielen Studenten herrscht in den Gassen der Altstadt eine junge und dynamische Atmosphäre. Ein Spaziergang durch das historische Zentrum fühlt sich an wie eine Reise in die glanzvolle Vergangenheit der Stadt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gent war im Mittelalter eine der reichsten und größten Städte Europas.",
+        "Die Stadt verfügt über das größte zusammenhängende Fußgängerzentrum Belgiens.",
+        "Alle zehn Jahre finden hier die Genter Floralien, eine weltberühmte Blumenschau, statt.",
+        "Das Genter Schloss Gravensteen ist die einzige erhaltene mittelalterliche Wasserburg in Flandern."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "city-liege": {
+    "descriptionAdvanced": {
+      "de": "Lüttich, an den Ufern der Maas gelegen, ist das kulturelle und wirtschaftliche Zentrum Walloniens. Die Stadt blickt auf eine lange industrielle Geschichte zurück, wandelt sich aber zunehmend zu einem modernen Reiseziel mit beeindruckender Architektur. Besonders sehenswert ist der futuristische Bahnhof Liège-Guillemins, der vom Stararchitekten Santiago Calatrava entworfen wurde. In der Altstadt finden Besucher enge Gassen, historische Treppen wie die Montagne de Bueren und lebhafte Märkte wie den Marché de la Batte. Lüttich ist zudem berühmt für seine herzliche Gastfreundschaft und natürlich die köstlichen Lütticher Waffeln. Die Stadt bietet eine faszinierende Mischung aus Tradition, Moderne und einem Hauch von industrieller Romantik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Lüttich wird oft als die 'Cité Ardente' (die glühende Stadt) bezeichnet.",
+        "Die Treppe Montagne de Bueren hat 374 Stufen und bietet einen Panoramablick über die Stadt.",
+        "Der Bahnhof Liège-Guillemins gilt als einer der schönsten und modernsten Bahnhöfe weltweit.",
+        "Lüttich war über Jahrhunderte die Hauptstadt eines unabhängigen Fürstbistums."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "city-leuven": {
+    "descriptionAdvanced": {
+      "de": "Löwen ist eine charmante Stadt östlich von Brüssel, die vor allem für ihre altehrwürdige Universität und ihre lebendige Bierkultur bekannt ist. Das spätgotische Rathaus am Grote Markt gilt als eines der schönsten architektonischen Meisterwerke Belgiens. Die Stadt ist die Heimat von Stella Artois und verfügt mit dem Oude Markt über die angeblich 'längste Theke der Welt'. Neben der reichen Geschichte bietet Löwen dank der vielen Studenten eine junge, innovative Atmosphäre und ein breites kulturelles Angebot. Der Große Beginenhof, ein UNESCO-Welterbe, bietet eine Oase der Ruhe inmitten der Stadt. Löwen ist der ideale Ort für Entdecker, die sowohl historische Pracht als auch modernes studentisches Leben schätzen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die KU Leuven wurde 1425 gegründet und ist eine der ältesten Universitäten der Welt.",
+        "Das Rathaus von Löwen ist mit 236 Statuen an der Fassade geschmückt.",
+        "Der Oude Markt beherbergt fast 40 verschiedene Bars auf engstem Raum.",
+        "Löwen gilt als die offizielle Bierhauptstadt Belgiens."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "city-oostende": {
+    "descriptionAdvanced": {
+      "de": "Ostende, die 'Königin der Seebäder', ist die größte Stadt an der belgischen Küste und bietet eine einzigartige Mischung aus Strandurlaub und urbanem Flair. Mit ihrem breiten Sandstrand, der langen Promenade und dem geschäftigen Hafen zieht die Stadt das ganze Jahr über Besucher an. Historisch war Ostende ein beliebter Rückzugsort für den belgischen Adel, was sich noch heute in den prachtvollen Villen und den Königlichen Galerien widerspiegelt. Die Stadt hat auch eine starke Verbindung zur Kunst, insbesondere durch den Maler James Ensor, dessen Haus heute ein Museum ist. Neben Erholung am Meer bietet Ostende ein lebendiges Nachtleben, ein Casino und zahlreiche Fischrestaurants. Es ist ein Ort, der maritimes Erbe mit moderner Lebensfreude perfekt verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ostende war einst die Sommerresidenz der belgischen Könige Leopold I. und Leopold II.",
+        "Der Fischmarkt 'Vistrap' ist berühmt für seinen täglich fangfrischen Fisch und Garnelen.",
+        "In Ostende befindet sich das größte Casino Belgiens, das Kursaal Oostende.",
+        "Die Stadt ist Endpunkt der längsten Straßenbahnlinie der Welt, der Kusttram."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "cult-manneken-pis": {
+    "descriptionAdvanced": {
+      "de": "Das Manneken Pis ist ein Wahrzeichen von Brüssel und eine der bekanntesten Statuen der Welt, trotz seiner geringen Größe von nur 61 Zentimetern. Die Bronzefigur eines urinierenden Jungen verkörpert den respektlosen Humor und die Freiheit der Brüsseler Bürger. Es gibt zahlreiche Legenden über seinen Ursprung, die von Heldentaten bis hin zu einfachen Alltagsgeschichten reichen. Zu besonderen Anlässen wird die Statue mit verschiedenen Kostümen eingekleidet, von denen viele im nahegelegenen Museum 'GardeRobe MannekenPis' ausgestellt sind. Ein Besuch der Statue gehört für jeden Touristen in Brüssel zum Pflichtprogramm. Obwohl oft kopiert, bleibt das Original in der Brüsseler Altstadt ein unersetzliches kulturelles Symbol.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die heutige Bronzestatue ist eine Kopie aus dem Jahr 1965; das Original stammt von 1619.",
+        "Das Manneken Pis besitzt eine Garderobe mit über 1.000 verschiedenen Kostümen.",
+        "Es gibt in Brüssel auch weibliche und tierische Gegenstücke: Jeanneke Pis und Zinneke Pis.",
+        "Die Statue wurde im Laufe der Geschichte mehrfach gestohlen und beschädigt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "cult-bruges-belfry": {
+    "descriptionAdvanced": {
+      "de": "Der Belfried von Brügge ist ein imposanter mittelalterlicher Glockenturm, der den Marktplatz der Stadt dominiert und als Symbol für Freiheit und Wohlstand gilt. Mit einer Höhe von 83 Metern bietet er nach dem Aufstieg über 366 Stufen einen atemberaubenden Panoramablick über das UNESCO-Weltkulturerbe Brügge. Der Turm beherbergt ein beeindruckendes Glockenspiel (Carillon) mit 47 Glocken, das regelmäßig für Konzerte genutzt wird. Historisch diente der Belfried zur Aufbewahrung der Stadtrechte und als Wachturm zur Früherkennung von Bränden. Die Architektur des Turms spiegelt verschiedene Epochen wider, da er nach Bränden mehrfach umgebaut wurde. Er ist eines der meistfotografierten Motive der Stadt und ein Muss für jeden Besucher.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Turm hat eine leichte Neigung von etwa einem Meter nach links.",
+        "Der Bau des Turms begann im 13. Jahrhundert und dauerte über 200 Jahre.",
+        "Das Glockenspiel wird noch heute von einem professionellen Stadtturmschläger bedient.",
+        "Der Belfried von Brügge gehört seit 1999 zum UNESCO-Weltkulturerbe."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "cult-waterloo": {
+    "descriptionAdvanced": {
+      "de": "Waterloo ist weltweit bekannt als Schauplatz der historischen Schlacht von 1815, in der Napoleon Bonaparte endgültig besiegt wurde. Heute ist der Ort ein bedeutendes Denkmal- und Museumszentrum, das die Ereignisse jenes schicksalhaften Tages lebendig hält. Das markanteste Wahrzeichen ist der Löwenhügel, ein künstlicher Hügel, der einen Überblick über das ehemalige Schlachtfeld bietet. Besucher können moderne Museen wie das 'Mémorial 1815' erkunden, die mit Multimedia-Installationen die Geschichte veranschaulichen. Neben der Geschichte bietet die Gemeinde Waterloo auch eine angenehme Wohnatmosphäre und schöne Grünflächen. Es ist ein Ort der Besinnung und des Gedenkens an eine Wendezeit der europäischen Geschichte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Löwenhügel besteht aus rund 390.000 Kubikmetern Erde.",
+        "Die Schlacht von Waterloo beendete die Herrschaft Napoleons und die napoleonischen Kriege.",
+        "Das Panorama der Schlacht von Waterloo ist ein riesiges Rundgemälde aus dem Jahr 1912.",
+        "Jährlich finden in Waterloo beeindruckende Reenactments der Schlacht statt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-hohes-venn": {
+    "descriptionAdvanced": {
+      "de": "Das Hohe Venn ist eines der letzten Hochmoore Europas und ein einzigartiges Naturschutzgebiet an der Grenze zwischen Belgien und Deutschland. Die weite, offene Landschaft ist geprägt von Heidekraut, Gräsern und seltenen Moorpflanzen, die eine fast mystische Atmosphäre schaffen. Holzstege führen Wanderer sicher durch die empfindlichen Sumpfgebiete und bieten spektakuläre Ausblicke auf die unberührte Natur. Es ist ein Rückzugsort für seltene Tierarten wie das Birkhuhn und beherbergt eine außergewöhnliche Artenvielfalt. Im Winter verwandelt sich das Hohe Venn oft in eine verschneite Märchenlandschaft, die ideal für Langlauf ist. Das Gebiet steht unter strengem Schutz, um dieses sensible Ökosystem für zukünftige Generationen zu bewahren.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Hohe Venn ist das älteste Naturschutzgebiet Walloniens.",
+        "Es ist Teil des grenzüberschreitenden Naturparks Deutsch-Belgischer Naturpark Hohes Venn – Eifel.",
+        "Einige Teile des Moores dürfen nur in Begleitung von autorisierten Naturführern betreten werden.",
+        "Das Klima im Hohen Venn ist deutlich rauer und kühler als im Rest Belgiens."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-dinant-citadel": {
+    "descriptionAdvanced": {
+      "de": "Die Zitadelle von Dinant thront majestätisch auf einem steilen Felsen hoch über der Stadt Dinant und der Maas. Sie bietet nicht nur eine beeindruckende militärische Architektur, sondern auch einen der spektakulärsten Ausblicke über das Maastal. Besucher können die Festung entweder mit einer Seilbahn oder über eine Treppe mit 408 Stufen erreichen. Im Inneren der Zitadelle führt ein Museum durch die bewegte Geschichte der Festung, von den mittelalterlichen Anfängen bis zu den Kämpfen im Ersten Weltkrieg. Die Kombination aus der historischen Festung, der darunter liegenden Stiftskirche und den bunten Häusern am Fluss macht Dinant zu einem der malerischsten Orte Belgiens. Ein Besuch der Zitadelle ist eine Reise durch die Jahrhunderte der Verteidigungsgeschichte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die heutige Zitadelle wurde im Jahr 1818 von den Niederländern erbaut.",
+        "Im Inneren gibt es einen 'eingestürzten Unterstand', der die optische Täuschung eines schiefen Bodens erzeugt.",
+        "Dinant ist der Geburtsort von Adolphe Sax, dem Erfinder des Saxophons.",
+        "Die Seilbahn zur Zitadelle ist eine der steilsten ihrer Art in Belgien."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-gravensteen": {
+    "descriptionAdvanced": {
+      "de": "Die Burg Gravensteen in Gent ist eine imposante mittelalterliche Wasserburg, die einst als Residenz der Grafen von Flandern diente. Mit ihren mächtigen Mauern, Zinnen und dem Wassergraben verkörpert sie das Idealbild einer Ritterburg. Im Inneren können Besucher den Donjon, die Residenzräume und eine beeindruckende Sammlung von Folterinstrumenten besichtigen. Die Burg wurde Ende des 19. Jahrhunderts aufwendig restauriert, nachdem sie zeitweise als Textilfabrik zweckentfremdet worden war. Von den oberen Wehrgängen bietet sich ein fantastischer Blick über das historische Zentrum von Gent. Gravensteen ist ein lebendiges Denkmal flämischer Macht und Geschichte und ein absolutes Highlight für Geschichtsliebhaber.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gravensteen bedeutet übersetzt so viel wie 'Grafenstein' oder 'Burg des Grafen'.",
+        "Die Burg wurde im Jahr 1180 von Philipp von Elsass nach dem Vorbild von Kreuzritterburgen erbaut.",
+        "In der Burg befindet sich heute ein Museum für Justizgeschichte und Foltergeräte.",
+        "Es ist die einzige vollständig erhaltene mittelalterliche Burg in ganz Flandern."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-beersel-castle": {
+    "descriptionAdvanced": {
+      "de": "Das Schloss Beersel ist eine der am besten erhaltenen mittelalterlichen Wasserburgen Belgiens und liegt nur eine kurze Fahrt südlich von Brüssel. Die charakteristischen drei hufeisenförmigen Türme und der tiefe Wassergraben verleihen der Burg ein unverwechselbares Aussehen. Erbaut im 14. Jahrhundert als Teil des Verteidigungsrings um Brüssel, hat das Schloss zahlreiche Belagerungen und Kriege überstanden. Im Gegensatz zu vielen anderen Schlössern wurde Beersel nie in eine luxuriöse Residenz umgewandelt und behielt so seinen wehrhaften Charakter. Besucher können durch die schmalen Gänge und über die Zugbrücken wandern und das Gefühl des mittelalterlichen Lebens nachempfinden. Es ist ein beeindruckendes Beispiel für spätmittelalterliche Militärarchitektur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Schloss wurde fast ausschließlich aus Backsteinen errichtet, was für die damalige Zeit untypisch war.",
+        "Es diente als Schauplatz für eines der berühmten Comic-Abenteuer von 'Suske und Wiske'.",
+        "Die Burg wurde nach einer schweren Zerstörung im Jahr 1489 wieder aufgebaut.",
+        "Schloss Beersel ist von einem malerischen Park umgeben, der zum Spazierengehen einlädt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-bouillon-castle": {
+    "descriptionAdvanced": {
+      "de": "Die Burg von Bouillon thronte hoch über dem Semois-Tal und gilt als eine der ältesten und beeindruckendsten Feudalburgen Europas. Sie ist untrennbar mit dem Namen Gottfried von Bouillon verbunden, der die Burg verkaufte, um den ersten Kreuzzug zu finanzieren. Die Festungsanlage beeindruckt durch ihr komplexes System aus Gängen, Sälen und Verteidigungsanlagen, die direkt in den Felsen gehauen wurden. Besucher können heute Greifvogelshows erleben, die in der historischen Kulisse der Burg stattfinden. Die Aussicht von den Türmen auf die Windungen des Flusses Semois und die umliegenden Wälder ist atemberaubend. Bouillon bietet eine faszinierende Reise zurück ins dunkle Mittelalter und die Zeit der Ritter.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Ursprünge der Burg reichen bis in das 8. Jahrhundert zurück.",
+        "Gottfried von Bouillon wurde nach dem ersten Kreuzzug zum 'Beschützer des Heiligen Grabes' in Jerusalem.",
+        "Die Festung wurde im 17. Jahrhundert vom berühmten Festungsbaumeister Vauban modernisiert.",
+        "Es gibt ein ausgeklügeltes System von Zisternen, um die Burg bei Belagerungen mit Wasser zu versorgen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-stoclet-palace": {
+    "descriptionAdvanced": {
+      "de": "Das Palais Stoclet in Brüssel ist ein architektonisches Meisterwerk des Jugendstils und der Wiener Secession, entworfen von Josef Hoffmann für den Bankier Adolphe Stoclet. Das Gebäude gilt als 'Gesamtkunstwerk', bei dem Architektur, Inneneinrichtung und Garten perfekt aufeinander abgestimmt sind. Besonders berühmt ist der Speisesaal mit den prächtigen Mosaiken von Gustav Klimt. Die Fassade aus weißem Marmor und die strengen geometrischen Formen waren für die Bauzeit zwischen 1905 und 1911 revolutionär. Da das Palais nach wie vor im Privatbesitz der Familie Stoclet ist, kann es leider nicht von innen besichtigt werden. Dennoch gehört es zum UNESCO-Weltkulturerbe und ist von außen ein faszinierendes Beispiel für den Übergang zur Moderne.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Palais Stoclet wurde im Jahr 2009 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "Für den Bau und die Ausstattung wurden keine Kosten gescheut; es kamen edelste Materialien wie Marmor und Halbedelsteine zum Einsatz.",
+        "Es gilt als eines der am besten erhaltenen Beispiele der Wiener Secession außerhalb von Österreich.",
+        "Der Turm des Gebäudes ist mit vier Bronzestatuen von Franz Metzner geschmückt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-tyne-cot-cemetery": {
+    "descriptionAdvanced": {
+      "de": "Der Tyne Cot Cemetery in Zonnebeke bei Ypern ist der größte britische Soldatenfriedhof der Welt und ein bewegendes Denkmal für die Gefallenen des Ersten Weltkriegs. Auf dem Gelände ruhen fast 12.000 Soldaten des Commonwealth, während eine Gedenkmauer die Namen von weiteren 35.000 Vermissten trägt. Der Friedhof wurde auf einem ehemaligen deutschen Stützpunkt errichtet, von dem noch heute Bunkerruinen zeugen. Die schier endlose Reihe weißer Grabsteine inmitten der flämischen Felder ist ein mahnendes Zeugnis für die Schrecken des Krieges. Ein Besucherzentrum bietet Hintergrundinformationen zur Dritten Flandernschlacht (Passchendaele). Jedes Jahr kommen Tausende Menschen hierher, um der Opfer zu gedenken und innezuhalten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tyne Cot ist der größte Friedhof der Commonwealth War Graves Commission weltweit.",
+        "Der Name 'Tyne Cot' stammt von Soldaten aus Northumberland, die die deutschen Bunker mit Hütten am Fluss Tyne verglichen.",
+        "Zwei der deutschen Bunker wurden in das Design des Friedhofs integriert.",
+        "Das 'Cross of Sacrifice' wurde auf Wunsch von König Georg V. auf einem der Bunker errichtet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-signal-de-botrange": {
+    "descriptionAdvanced": {
+      "de": "Der Signal de Botrange ist mit 694 Metern der höchste Punkt Belgiens und liegt im Herzen des Naturparks Hohes Venn. Von hier aus erstreckt sich die weite Moorlandschaft, die zu jeder Jahreszeit einen besonderen Reiz ausübt. Um die symbolische Höhe von 700 Metern zu erreichen, wurde 1923 der 'Baltia-Hügel' mit einer Treppe aufgeschüttet. Ein Aussichtsturm und ein Naturzentrum bieten Besuchern wertvolle Informationen über die einzigartige Flora und Fauna der Region. Wanderwege starten direkt vom Plateau und führen tief in die geschützten Bereiche des Hochmoors. Im Winter ist der Signal de Botrange ein beliebtes Zentrum für Skilanglauf in Belgien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Signal de Botrange liegt in der Provinz Lüttich, nahe der deutschen Grenze.",
+        "Ein 1923 errichteter Hügel ermöglicht es Besuchern, auf genau 700 Meter Höhe zu stehen.",
+        "Das Gebiet verzeichnet die höchsten Niederschlagsmengen und die kältesten Temperaturen Belgiens.",
+        "Dort befindet sich eine meteorologische Station, die wichtige Daten für die Region liefert."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-baraque-michel": {
+    "descriptionAdvanced": {
+      "de": "Baraque Michel ist ein bekannter historischer Gasthof und Wanderstützpunkt im Hohen Venn, der lange Zeit als der höchste Punkt des Landes galt. Die Lage auf dem nebelanfälligen Hochplateau machte den Ort über Jahrhunderte zu einem wichtigen Rettungspunkt für verirrte Wanderer. Eine Glocke, die 'Glocke der Verirrten', wurde früher geläutet, um Menschen in Sicherheit zu führen. Heute ist Baraque Michel ein beliebter Ausgangspunkt für Erkundungstouren durch das Moor und die Heide. In der gemütlichen Gaststube können Besucher regionale Spezialitäten genießen und sich nach einer Wanderung aufwärmen. Es ist ein Ort voller Geschichte, der die raue Natur des Venns widerspiegelt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Baraque Michel war vor der Annexion der Ostkantone im Jahr 1919 der höchste Punkt Belgiens.",
+        "Der Name geht auf Michel Schmitz zurück, der hier Ende des 18. Jahrhunderts eine Zufluchtsstätte errichtete.",
+        "Die Kapelle Fischbach in der Nähe wurde als Dank für eine Errettung aus dem Moor erbaut.",
+        "Es ist ein idealer Ort, um die typische 'Venn-Atmosphäre' mit ihren weiten Horizonten zu erleben."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-lake-robertville": {
+    "descriptionAdvanced": {
+      "de": "Der See von Robertville ist ein künstlich angelegter Stausee in der Gemeinde Waimes, der harmonisch in die Landschaft der Ardennen eingebettet ist. Er entstand durch den Bau einer Talsperre am Fluss Warche in den 1920er Jahren zur Stromerzeugung und Trinkwasserversorgung. Heute ist der See ein beliebtes Freizeitzentrum, das Möglichkeiten zum Schwimmen, Bootfahren und Angeln bietet. Die umliegenden Wälder sind durchzogen von Wanderwegen, die spektakuläre Ausblicke auf das glitzernde Wasser und die nahegelegene Burg Reinhardstein bieten. Besonders im Sommer lockt der Strand von Robertville Badegäste aus der gesamten Region an. Es ist ein Ort der Entspannung, der Naturgenuss mit sportlichen Aktivitäten verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Staumauer von Robertville ist 55 Meter hoch.",
+        "Der See hat eine Fläche von etwa 62 Hektar und eine maximale Tiefe von 50 Metern.",
+        "In unmittelbarer Nähe befindet sich der Wasserfall von Reinhardstein, der höchste Wasserfall Belgiens.",
+        "Das Wasser des Sees ist für seine ausgezeichnete Qualität bekannt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-semois-river": {
+    "descriptionAdvanced": {
+      "de": "Die Semois ist ein malerischer Fluss im Süden Belgiens, der sich in unzähligen Windungen durch die tiefen Wälder der Ardennen schlängelt. Die Region um die Semois ist berühmt für ihre spektakulären Aussichtspunkte, wie den 'Grab des Riesen' (Tombeau du Géant) bei Botassart. Das Tal war früher ein bedeutendes Zentrum für den Tabakanbau, wovon heute noch historische Tabakscheunen zeugen. Wanderer und Kajakfahrer schätzen den Fluss für seine ruhige Strömung und die unberührte Natur an seinen Ufern. Kleine, charmante Dörfer wie Rochehaut oder Bouillon laden zum Verweilen und Entdecken der lokalen Kultur ein. Die Semois gilt als einer der romantischsten und ursprünglichsten Flüsse in ganz Wallonien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Semois entspringt in Arlon und mündet in Frankreich in die Maas.",
+        "Wegen ihrer vielen Schleifen ist der Flussweg deutlich länger als die Luftlinie.",
+        "Das Semois-Tal war bis zur Mitte des 20. Jahrhunderts eine wichtige Tabakregion.",
+        "Die Region ist bekannt für ihre Nebelstimmungen, die dem Tal oft ein mystisches Aussehen verleihen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-lesse-river": {
+    "descriptionAdvanced": {
+      "de": "Die Lesse ist ein faszinierender Fluss in den Ardennen, der besonders für seine spektakulären Felsformationen und unterirdischen Verläufe bekannt ist. Bei Han-sur-Lesse verschwindet der Fluss in den berühmten Grotten von Han, einem der größten Höhlensysteme Europas. Die Abfahrt auf der Lesse mit dem Kajak von Houyet nach Anseremme ist eine der beliebtesten touristischen Aktivitäten in Belgien. Während der Fahrt gleitet man an steilen Kalksteinfelsen, dichten Wäldern und historischen Schlössern wie dem Schloss Walzin vorbei. Der Fluss bietet sowohl ruhige Abschnitte als auch kleine Stromschnellen, die für Spaß und Abwechslung sorgen. Die Lesse ist ein wunderbares Beispiel für die dynamische Kraft der Natur in der wallonischen Region.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Lesse legt einen Teil ihres Weges vollständig unterirdisch durch Kalksteinhöhlen zurück.",
+        "Die Kajakstrecke zwischen Houyet und Anseremme ist etwa 21 Kilometer lang.",
+        "Das Tal der Lesse beherbergt zahlreiche prähistorische Fundstätten in seinen Höhlen.",
+        "Der Fluss mündet bei Dinant in die Maas."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "nat-monsin-island": {
+    "descriptionAdvanced": {
+      "de": "Die Insel Monsin liegt in der Maas bei Lüttich und ist ein wichtiger Knotenpunkt für die Schifffahrt und Industrie der Region. Sie entstand durch den Bau des Albert-Kanals und beherbergt bedeutende Infrastrukturanlagen wie das Wasserkraftwerk und das Denkmal von König Albert I. Trotz ihrer industriellen Bedeutung gibt es auf der Insel auch Grünflächen und Bereiche, die für die lokale Fischerei wichtig sind. Die Insel markiert den Eingang zum Hafen von Lüttich, dem drittgrößten Binnenhafen Europas. Die imposanten Schleusenanlagen von Monsin sind ein beeindruckendes Beispiel für Wasserbaukunst. Für Technikinteressierte bietet die Insel einen spannenden Einblick in die logistische Bedeutung der Maas für Belgien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Insel beherbergt ein monumentales Denkmal zu Ehren von König Albert I., das 1939 eingeweiht wurde.",
+        "Monsin ist ein zentraler Bestandteil des Hafens von Lüttich.",
+        "Auf der Insel befindet sich ein wichtiges Wasserkraftwerk, das die Kraft der Maas nutzt.",
+        "Die Schleuse von Monsin ermöglicht den Höhenausgleich für Schiffe zwischen der Maas und dem Albert-Kanal."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-atomium": {
+    "descriptionAdvanced": {
+      "de": "Das Atomium ist das futuristische Wahrzeichen von Brüssel und wurde ursprünglich für die Weltausstellung 1958 (Expo 58) errichtet. Es stellt eine 165-milliardenfache Vergrößerung einer Eisenkristallstruktur dar und symbolisiert den wissenschaftlichen Fortschritt und die friedliche Nutzung der Kernenergie. Die Struktur besteht aus neun miteinander verbundenen Kugeln, von denen einige für Besucher zugänglich sind und Ausstellungen beherbergen. In der obersten Kugel befindet sich ein Restaurant mit einem atemberaubenden Panoramablick über die gesamte Stadt Brüssel. Nachts wird das Atomium durch Tausende von Lichtern spektakulär beleuchtet. Es ist eines der einzigartigsten Bauwerke der Welt und ein Symbol für Optimismus und Innovation.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Atomium war ursprünglich nur für eine Dauer von sechs Monaten geplant.",
+        "Die gesamte Konstruktion ist 102 Meter hoch; jede der Kugeln hat einen Durchmesser von 18 Metern.",
+        "Der Aufzug im Inneren war zum Zeitpunkt seiner Eröffnung der schnellste Europas.",
+        "Nach einer umfassenden Renovierung im Jahr 2006 erstrahlt die Aluminium-Fassade nun in rostfreiem Stahl."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-grand-place-brussels": {
+    "descriptionAdvanced": {
+      "de": "Der Grand Place (Grote Markt) in Brüssel gilt als einer der schönsten Marktplätze der Welt und ist das historische Herz der belgischen Hauptstadt. Er ist gesäumt von prächtigen Zunfthäusern, dem beeindruckenden Rathaus und dem Maison du Roi, die alle durch ihre detailreiche Architektur bestechen. Der Platz spiegelt den Wohlstand und die Macht der Brüsseler Bürger und Handwerker im 17. Jahrhundert wider. Seit 1998 gehört der Grand Place zum UNESCO-Weltkulturerbe und ist Schauplatz zahlreicher Veranstaltungen, wie dem berühmten Blumenteppich. Die Atmosphäre auf dem Platz ist zu jeder Tageszeit magisch, besonders wenn die Gebäude am Abend golden beleuchtet werden. Er ist ein unverzichtbares Ziel für jeden Besucher, der die Pracht der flämischen Renaissance und des Barock erleben möchte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Alle zwei Jahre im August wird der Platz mit einem riesigen Teppich aus Millionen von Begonien bedeckt.",
+        "Der Turm des Rathauses ist 96 Meter hoch und im gotischen Stil erbaut.",
+        "Im Jahr 1695 wurde der Großteil der Gebäude durch den Beschuss französischer Truppen zerstört und kurz darauf prächtiger wieder aufgebaut.",
+        "Jedes Zunfthaus auf dem Platz hat einen eigenen Namen und eine spezifische Symbolik an der Fassade."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-antwerp-central-station": {
+    "descriptionAdvanced": {
+      "de": "Der Hauptbahnhof von Antwerpen, oft als 'Eisenbahnkathedrale' bezeichnet, gilt als einer der schönsten Bahnhöfe der Welt. Er wurde zwischen 1895 und 1905 erbaut und beeindruckt durch seine monumentale Architektur, die eine riesige Glaskuppel mit einer prächtigen Empfangshalle kombiniert. Die Verwendung von verschiedenen Marmorarten und kunstvollen Steingravuren verleiht dem Gebäude einen herrschaftlichen Glanz. Nach einer umfassenden Modernisierung ist der Bahnhof heute auf vier Ebenen organisiert und empfängt Hochgeschwindigkeitszüge aus ganz Europa. Er ist nicht nur ein wichtiger Verkehrsknotenpunkt, sondern auch eine architektonische Sehenswürdigkeit für sich. Ein Besuch des Bahnhofs ist ein Erlebnis, das die Eleganz des frühen 20. Jahrhunderts mit modernster Logistik vereint.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Bahnhof wurde im Auftrag von König Leopold II. entworfen.",
+        "Die beeindruckende Glaskuppel über den Gleisen wurde von dem Ingenieur Clément Van Bogaert konstruiert.",
+        "Antwerpen Centraal belegt regelmäßig Spitzenplätze in Rankings der schönsten Bahnhöfe weltweit.",
+        "In der Bahnhofshalle befinden sich über 20 verschiedene Marmor- und Steinarten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-belfry-bruges": {
+    "descriptionAdvanced": {
+      "de": "Der Belfried von Brügge ist ein imposanter mittelalterlicher Glockenturm, der den Marktplatz der Stadt dominiert und als Symbol für Freiheit und Wohlstand gilt. Mit einer Höhe von 83 Metern bietet er nach dem Aufstieg über 366 Stufen einen atemberaubenden Panoramablick über das UNESCO-Weltkulturerbe Brügge. Der Turm beherbergt ein beeindruckendes Glockenspiel (Carillon) mit 47 Glocken, das regelmäßig für Konzerte genutzt wird. Historisch diente der Belfried zur Aufbewahrung der Stadtrechte und als Wachturm zur Früherkennung von Bränden. Die Architektur des Turms spiegelt verschiedene Epochen wider, da er nach Bränden mehrfach umgebaut wurde. Er ist eines der meistfotografierten Motive der Stadt und ein Muss für jeden Besucher.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Turm hat eine leichte Neigung von etwa einem Meter nach links.",
+        "Der Bau des Turms begann im 13. Jahrhundert und dauerte über 200 Jahre.",
+        "Das Glockenspiel wird noch heute von einem professionellen Stadtturmschläger bedient.",
+        "Der Belfried von Brügge gehört seit 1999 zum UNESCO-Weltkulturerbe."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-waterloo-battlefield": {
+    "descriptionAdvanced": {
+      "de": "Das Schlachtfeld von Waterloo ist ein Ort von welthistorischer Bedeutung, an dem 1815 das Schicksal Europas entschieden wurde. Auf diesen weiten Feldern südlich von Brüssel endete die Herrschaft Napoleons nach seiner Niederlage gegen die alliierten Truppen unter Wellington und Blücher. Heute können Besucher das Gelände erkunden und an strategischen Punkten wie dem Gutshof Hougoumont die Dramatik der Kämpfe nachempfinden. Der Löwenhügel, ein künstlich aufgeschüttetes Monument, bietet einen weiten Blick über das ehemalige Kampfgebiet. Moderne Gedenkstätten und Museen vermitteln die historischen Details und ehren die Tausenden Soldaten, die hier ihr Leben ließen. Es ist ein Ort der Stille, der gleichzeitig die Intensität einer der folgenreichsten Schlachten der Weltgeschichte ausstrahlt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Schlachtfeld ist gesetzlich geschützt, um seinen ursprünglichen Charakter zu bewahren.",
+        "Der Gutshof Hougoumont spielte eine entscheidende Rolle bei der Verteidigung der alliierten Stellungen.",
+        "Das 'Mémorial 1815' unterhalb des Löwenhügels ist ein unterirdisches Museum.",
+        "Die Schlacht dauerte etwa 10 Stunden und forderte rund 50.000 Opfer (Tote und Verwundete)."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "hist-fort-eben-emael": {
+    "descriptionAdvanced": {
+      "de": "Das Fort Eben-Emael war einst eine der stärksten und modernsten Festungsanlagen Europas und galt als uneinnehmbar. Es wurde zwischen den Weltkriegen zum Schutz der belgischen Grenze und des Albert-Kanals errichtet. Die spektakuläre Einnahme des Forts durch deutsche Fallschirmjäger im Mai 1940 unter Einsatz neuartiger Hohlladungen schockierte die Welt. Heute ist das Fort ein beeindruckendes Museum, das Einblicke in das Leben der Soldaten und die militärische Ingenieurskunst bietet. Die riesige unterirdische Anlage umfasst Kilometer von Gängen, Kasernen und Munitionslagern. Ein Besuch führt durch die dramatischen Ereignisse des Angriffs und zeigt die imposanten Geschütztürme auf dem weitläufigen Plateau.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Fort hat eine Fläche von 75 Hektar und liegt direkt an der Grenze zu den Niederlanden.",
+        "Der Bau dauerte drei Jahre und erforderte gewaltige Mengen an Beton und Stahl.",
+        "Die gesamte Anlage ist durch ein Belüftungssystem gegen Gasangriffe geschützt.",
+        "Ein großer Teil der Anlage befindet sich bis zu 60 Meter tief unter der Erde."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-royal-greenhouses-laeken": {
+    "descriptionAdvanced": {
+      "de": "Die Königlichen Gewächshäuser von Laeken sind ein Juwel der Glaskunst und Architektur des 19. Jahrhunderts. Entworfen von Alphonse Balat für König Leopold II., bilden sie eine riesige 'Glasstadt' inmitten des königlichen Parks. Die prächtigen Eisen-Glas-Konstruktionen beherbergen eine beeindruckende Sammlung seltener Pflanzen und Blumen aus aller Welt. Besonders berühmt ist die zentrale 'Große Rotunde' mit ihrer majestätischen Kuppel. Die Gewächshäuser sind nur für wenige Wochen im Jahr, meist im Frühjahr, für die Öffentlichkeit zugänglich. Ein Spaziergang durch die blühenden Korridore ist ein märchenhaftes Erlebnis, das Architektur und Botanik in vollkommener Harmonie vereint.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Einige der Pflanzen in der Sammlung stammen noch aus der Zeit von König Leopold II.",
+        "Die gesamte Glasfläche der Gewächshäuser beträgt über 2,5 Hektar.",
+        "Die Anlage dient auch heute noch als Ort für offizielle Empfänge des belgischen Königs.",
+        "Alphonse Balat war der Lehrmeister des berühmten Jugendstil-Architekten Victor Horta."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-palace-justice-brussels": {
+    "descriptionAdvanced": {
+      "de": "Der Justizpalast von Brüssel ist ein monumentales Bauwerk, das majestätisch auf dem Galgenberg thront und die Skyline der Stadt dominiert. Bei seiner Fertigstellung im Jahr 1883 war es das größte Gebäude der Welt und beeindruckt noch heute durch seine gewaltigen Ausmaße und den eklektischen Stil. Der Architekt Joseph Poelaert schuf ein Werk von schier unglaublicher Opulenz, das die Macht des Gesetzes symbolisieren sollte. Die prunkvolle Eingangshalle mit ihrer riesigen Kuppel ist ein beeindruckendes Beispiel für die Baukunst des 19. Jahrhunderts. Trotz jahrzehntelanger Renovierungsarbeiten bleibt das Gebäude ein faszinierendes Wahrzeichen und bietet vom Vorplatz aus einen der besten Ausblicke über Brüssel. Es ist ein Ort, der Ehrfurcht einflößt und die wechselvolle Geschichte Belgiens widerspiegelt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Justizpalast ist mit 26.000 Quadratmetern Grundfläche größer als der Petersdom in Rom.",
+        "Für den Bau mussten ganze Stadtviertel abgerissen werden, was zu großem Unmut bei der Bevölkerung führte.",
+        "Das Gebäude befindet sich seit über 40 Jahren fast ununterbrochen unter Gerüsten.",
+        "Es gibt zahlreiche Legenden über Geheimgänge und verborgene Räume im Inneren des Palastes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "land-mas-museum-antwerp": {
+    "descriptionAdvanced": {
+      "de": "Das Museum aan de Stroom (MAS) ist ein modernes architektonisches Highlight im alten Hafenviertel von Antwerpen. Der markante Turm aus rotem Sandstein und gewelltem Glas erzählt die Geschichte Antwerpens als Weltstadt und bedeutender Hafen. Jede Etage des Museums widmet sich einem anderen Thema, von der Schifffahrt über die Diamantenindustrie bis hin zu globalen Handelsbeziehungen. Ein Highlight ist der 'Boulevard', eine spiralförmige Treppe, die Besucher an Panoramafenstern vorbei nach oben führt. Von der kostenlosen Dachterrasse aus bietet sich ein spektakulärer 360-Grad-Blick über die Stadt, den Hafen und die Schelde. Das MAS ist nicht nur ein Museum, sondern ein lebendiger Treffpunkt, der Tradition und Moderne perfekt verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Fassade des Museums ist mit 3.185 kleinen Händen aus Aluminium verziert, dem Symbol Antwerpens.",
+        "Das Gebäude ist 60 Meter hoch und wurde von den niederländischen Architekten Neutelings Riedijk entworfen.",
+        "Die Glasscheiben des 'Boulevards' sind gewellt, was für zusätzliche Stabilität und interessante Lichteffekte sorgt.",
+        "Im Inneren befinden sich über 500.000 Museumsstücke."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "port-antwerp-bruges": {
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Antwerpen-Brügge ist nach der Fusion der beiden Standorte einer der größten und wichtigsten Seehäfen der Welt. Er fungiert als zentrales Tor für den europäischen Außenhandel und ist ein bedeutender Wirtschaftsmotor für die gesamte Region. In Antwerpen liegt der Schwerpunkt auf Containertransport und Chemie, während Zeebrugge ein weltweit führendes Zentrum für den Umschlag von Neufahrzeugen und Flüssigerdgas (LNG) ist. Der Hafen ist bekannt für seine hochmoderne Infrastruktur und seine Bemühungen um Nachhaltigkeit und Digitalisierung. Er verbindet Hunderte von Destinationen weltweit und sichert Tausende von Arbeitsplätzen. Die schiere Größe und die logistische Komplexität des Hafens sind tief beeindruckend.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Es ist der zweitgrößte Hafen Europas nach Rotterdam.",
+        "Antwerpen beherbergt den größten integrierten Chemie-Cluster Europas.",
+        "Der Hafen von Zeebrugge ist der weltweit wichtigste Hafen für den Import und Export von Autos.",
+        "Die Häfen fusionierten im Jahr 2022 offiziell zum 'Port of Antwerp-Bruges'."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "port-zeebrugge": {
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Zeebrugge ist ein moderner Tiefwasserhafen an der belgischen Nordseeküste und ein integraler Bestandteil des Port of Antwerp-Bruges. Seine strategische Lage macht ihn zu einem idealen Umschlagplatz für den Fährverkehr nach Großbritannien und den Handel mit Skandinavien. Zeebrugge ist weltführend im Bereich des Automobilumschlags und verfügt über riesige Terminals für den Import und Export von Neufahrzeugen. Zudem spielt der Hafen eine zentrale Rolle in der Energieversorgung Belgiens als Standort für ein großes LNG-Terminal. Die Hafenanlagen sind für die größten Containerschiffe der Welt zugänglich und zeichnen sich durch schnelle Abfertigungszeiten aus. Neben der Industrie ist Zeebrugge auch für seinen Fischereihafen und die kulinarischen Spezialitäten bekannt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zeebrugge ist der weltweit größte Hafen für den Umschlag von Neuwagen.",
+        "Rund 15 % des gesamten in Westeuropa verbrauchten Erdgases fließen durch das Terminal in Zeebrugge.",
+        "Der Name bedeutet wörtlich 'Brügge am Meer'.",
+        "Der Hafen wurde Ende des 19. Jahrhunderts künstlich angelegt, um Brügge wieder einen Zugang zum Meer zu verschaffen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "port-ghent": {
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Gent ist ein bedeutender Binnenhafen, der über den Kanal Gent-Terneuzen mit der Nordsee verbunden ist. Er ist bekannt für seine starke industrielle Ausrichtung, insbesondere in den Bereichen Stahlproduktion, Automobilbau und Biokraftstoffe. Große Unternehmen wie Volvo Cars und ArcelorMittal haben hier ihre Produktionsstätten und nutzen die hervorragende logistische Anbindung. Der Hafen legt einen starken Fokus auf Kreislaufwirtschaft und Nachhaltigkeit und strebt danach, ein Vorreiter in der grünen Energieversorgung zu werden. Die modernen Hafenanlagen stehen im interessanten Kontrast zum historischen Charme der nahegelegenen Genter Innenstadt. Gent ist ein wichtiger Knotenpunkt für den Güterverkehr im Herzen Flanderns und trägt maßgeblich zum Wohlstand der Region bei.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hafen von Gent ist seit 2018 Teil der grenzüberschreitenden Hafengruppe 'North Sea Port'.",
+        "Der Kanal Gent-Terneuzen ist für Schiffe mit einem Tiefgang von bis zu 12,5 Metern befahrbar.",
+        "In Gent befindet sich eines der größten Biokraftstoff-Cluster Europas.",
+        "Der Hafen schafft direkt und indirekt Arbeitsplätze für über 70.000 Menschen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  "port-liege": {
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Lüttich ist der größte Binnenhafen Belgiens und einer der bedeutendsten in ganz Europa. Gelegen an der Maas und am Albert-Kanal, dient er als zentrales Drehkreuz für den Warentransport zwischen den Seehäfen und dem europäischen Hinterland. Der Hafen besteht aus zahlreichen Terminals, die auf den Umschlag von Containern, Schüttgut und Erdölprodukten spezialisiert sind. Besonders hervorzuheben ist der trimodale Charakter, der eine effiziente Verknüpfung von Wasserstraße, Schiene und Straße ermöglicht. Der Hafen von Lüttich ist ein entscheidender Faktor für die industrielle Renaissance Walloniens und zieht stetig neue Investitionen an. Seine strategische Bedeutung reicht weit über die Landesgrenzen hinaus bis nach Deutschland und Frankreich.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Lüttich ist der drittgrößte Binnenhafen Europas nach Duisburg und Paris.",
+        "Der Hafen erstreckt sich über eine Länge von etwa 26 Kilometern entlang der Maas.",
+        "Durch den Albert-Kanal ist der Hafen direkt mit dem Hafen von Antwerpen verbunden.",
+        "Jährlich werden hier rund 20 Millionen Tonnen Güter umgeschlagen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+}

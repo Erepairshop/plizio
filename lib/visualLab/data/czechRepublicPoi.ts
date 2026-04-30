@@ -1283,53 +1283,7 @@ export const czechRepublicCulture: POI[] = [
       ]
     },
     image: "/geo-images/czechRepublic/cult-prague-castle.webp"
-  },
-  {
-    id: "cult-cesky-krumlov",
-    type: "landmark",
-    parent: "country-czech-republic",
-    coords: [14.3158, 48.8129],
-    name: {
-      de: "Böhmisch Krumau",
-      hu: "Český Krumlov",
-      ro: "Český Krumlov",
-      en: "Český Krumlov"
-    },
-    description: {
-      de: "Český Krumlov ist eine malerische Renaissance-Stadt in Südböhmen. Ihr historisches Zentrum und das Schloss gehören zu den bekanntesten UNESCO-Orten des Landes.",
-      hu: "Český Krumlov egy festői reneszánsz város Dél-Csehországban. Történelmi központja és vára az ország legismertebb UNESCO-helyszínei közé tartozik.",
-      ro: "Český Krumlov este un oraș pitoresc renascentist din sudul Boemiei. Centrul istoric și castelul său se numără printre cele mai cunoscute situri UNESCO din țară.",
-      en: "Český Krumlov is a picturesque Renaissance town in South Bohemia. Its historic center and castle are among the country's best-known UNESCO sites."
-    },
-    facts: {
-      de: [
-        "Das historische Zentrum ist UNESCO-Welterbe.",
-        "Das Schloss gehört zu den größten in Tschechien.",
-        "Die Stadt wird von einer Moldau-Schleife umgeben.",
-        "Český Krumlov ist eines der schönsten historischen Ensembles Mitteleuropas."
-      ],
-      hu: [
-        "A történelmi központ UNESCO világörökségi helyszín.",
-        "A vár Csehország egyik legnagyobbja.",
-        "A várost a Moldva egy kanyarulata öleli körül.",
-        "Český Krumlov Közép-Európa egyik legszebb történelmi együttese."
-      ],
-      ro: [
-        "Centrul istoric este sit UNESCO.",
-        "Castelul este unul dintre cele mai mari din Cehia.",
-        "Orașul este înconjurat de un meandru al Vltavei.",
-        "Český Krumlov este unul dintre cele mai frumoase ansambluri istorice din Europa Centrală."
-      ],
-      en: [
-        "Its historic center is a UNESCO World Heritage site.",
-        "The castle is among the largest in the Czech Republic.",
-        "The town is surrounded by a bend of the Vltava River.",
-        "Český Krumlov is one of Central Europe's finest historic ensembles."
-      ]
-    },
-    image: "/geo-images/czechRepublic/cult-cesky-krumlov.webp"
-  },
-  {
+  },{
     id: "cult-karlstejn",
     type: "landmark",
     parent: "country-czech-republic",
@@ -3019,53 +2973,7 @@ export const czechRepublicNature: POI[] = [
       ]
     },
     image: "/geo-images/czechRepublic/nat-krkonose.webp"
-  },
-  {
-    id: "nat-karlovy-vary",
-    type: "landmark",
-    parent: "country-czech-republic",
-    coords: [12.8671, 50.2301],
-    name: {
-      de: "Karlsbad",
-      hu: "Karlovy Vary",
-      ro: "Karlovy Vary",
-      en: "Karlovy Vary"
-    },
-    description: {
-      de: "Karlovy Vary ist ein berühmter Kurort in Westböhmen mit Thermalquellen, Kolonnaden und historischer Bäderarchitektur. Die Stadt ist auch als UNESCO-Heilbad bekannt.",
-      hu: "Karlovy Vary egy híres nyugat-csehországi fürdőváros termálforrásokkal, árkádokkal és történelmi fürdőépületekkel. A város UNESCO-gyógyhelyként is ismert.",
-      ro: "Karlovy Vary este un renumit oraș balnear din Boemia de Vest, cu izvoare termale, colonade și arhitectură istorică de băi. Orașul este cunoscut și ca sit UNESCO balnear.",
-      en: "Karlovy Vary is a famous spa town in western Bohemia with thermal springs, colonnades, and historic bath architecture. The city is also known as a UNESCO spa destination."
-    },
-    facts: {
-      de: [
-        "Die Stadt gehört zu den bekanntesten Kurorten Europas.",
-        "Ihre Thermalquellen prägen das ganze Stadtbild.",
-        "Karlovy Vary ist für seine Kurarchitektur und Kolonnaden bekannt.",
-        "Das internationale Filmfestival macht den Ort zusätzlich berühmt."
-      ],
-      hu: [
-        "A város Európa legismertebb fürdővárosai közé tartozik.",
-        "A termálforrások az egész városképet meghatározzák.",
-        "Karlovy Vary híres a fürdőépítészetéről és árkádjairól.",
-        "A nemzetközi filmfesztivál tovább növeli az ismertségét."
-      ],
-      ro: [
-        "Orașul este printre cele mai cunoscute stațiuni balneare din Europa.",
-        "Izvoarele termale definesc întregul peisaj urban.",
-        "Karlovy Vary este renumit pentru arhitectura balneară și colonadele sale.",
-        "Festivalul internațional de film îi sporește faima."
-      ],
-      en: [
-        "The city is among Europe's best-known spa towns.",
-        "Its thermal springs shape the entire cityscape.",
-        "Karlovy Vary is known for its spa architecture and colonnades.",
-        "The international film festival adds to its fame."
-      ]
-    },
-    image: "/geo-images/czechRepublic/nat-karlovy-vary.webp"
-  },
-  {
+  },{
     id: "mountain-snezka",
     type: "mountain",
     parent: "CZ",

@@ -173,142 +173,7 @@ export const slovakiaRegions: POI[] = [
     },
     image: "/geo-images/slovakia/city-kosice.webp"
   },
-  {
-    id: "nature-high-tatras",
-    type: "landmark",
-    parent: "country-slovakia",
-    coords: [20.1333, 49.1667],
-    name: {
-      de: "Hohe Tatra",
-      hu: "Magas-Tátra",
-      ro: "Munții Tatra Mare",
-      en: "High Tatras"
-    },
-    description: {
-      de: "Die Hohe Tatra ist das kleinste Hochgebirge der Welt und Teil der Karpaten. Sie bietet spektakuläre Gipfel, Gletscherseen (Tarnen) und eine einzigartige Flora und Fauna.",
-      hu: "A Magas-Tátra a világ legkisebb magashegysége és a Kárpátok része. Látványos csúcsokat, gleccsertavakat (tengerszemeket) és egyedülálló növény- és állatvilágot kínál.",
-      ro: "Munții Tatra Mare sunt cei mai mici munți înalți din lume și fac parte din Carpați. Oferă vârfuri spectaculoase, lacuri glaciare și o floră și faună unică.",
-      en: "The High Tatras are the smallest high mountain range in the world and part of the Carpathians. They offer spectacular peaks, glacial lakes (tarns), and unique flora and fauna."
-    },
-    facts: {
-      de: [
-        "Der Gerlachovský štít ist mit 2.655 Metern der höchste Gipfel der Slowakei.",
-        "Die Hohe Tatra ist der älteste Nationalpark der Slowakei (TANAP).",
-        "Es gibt über 100 Gletscherseen in der Hohen Tatra.",
-        "Die Region ist ein Lebensraum für Braunbären, Wölfe und Gämsen."
-      ],
-      hu: [
-        "A Gerlachfalvi-csúcs 2655 méterrel Szlovákia legmagasabb pontja.",
-        "A Magas-Tátra Szlovákia legrégebbi nemzeti parkja (TANAP).",
-        "Több mint 100 gleccsertó található a Magas-Tátrában.",
-        "A régió barna medvék, farkasok és zergék élőhelye."
-      ],
-      ro: [
-        "Vârful Gerlachovský este cel mai înalt vârf din Slovacia, cu 2.655 de metri.",
-        "Tatra Mare este cel mai vechi parc național din Slovacia (TANAP).",
-        "Există peste 100 de lacuri glaciare în Tatra Mare.",
-        "Regiunea este un habitat pentru urși bruni, lupi și capre negre."
-      ],
-      en: [
-        "Gerlachovský štít is the highest peak in Slovakia at 2,655 meters.",
-        "The High Tatras is the oldest national park in Slovakia (TANAP).",
-        "There are over 100 glacial lakes in the High Tatras.",
-        "The region is a habitat for brown bears, wolves, and chamois."
-      ]
-    },
-    image: "/geo-images/slovakia/nature-high-tatras.webp"
-  },
-  {
-    id: "city-banska-stiavnica",
-    type: "city",
-    parent: "country-slovakia",
-    coords: [18.8931, 48.4585],
-    name: {
-      de: "Schemnitz",
-      hu: "Selmecbánya",
-      ro: "Banská Štiavnica",
-      en: "Banská Štiavnica"
-    },
-    description: {
-      de: "Banská Štiavnica ist eine wunderschön erhaltene mittelalterliche Bergbaustadt und UNESCO-Welterbe. Sie liegt in der Mitte eines riesigen erloschenen Vulkans.",
-      hu: "Selmecbánya egy gyönyörűen megőrzött középkori bányászváros és UNESCO Világörökségi helyszín. Egy hatalmas kialudt vulkán közepén fekszik.",
-      ro: "Banská Štiavnica este un oraș minier medieval frumos conservat și sit al Patrimoniului Mondial UNESCO. Este situat în mijlocul unui vulcan uriaș stins.",
-      en: "Banská Štiavnica is a beautifully preserved medieval mining town and a UNESCO World Heritage site. It is located in the center of a huge extinct volcano."
-    },
-    facts: {
-      de: [
-        "Hier wurde 1762 die erste Bergbauakademie der Welt gegründet.",
-        "Die Stadt ist bekannt für ihre 'Tajchy' – künstliche Wasserreservoirs für den Bergbau.",
-        "Das Alte Schloss und das Neue Schloss sind markante Wahrzeichen.",
-        "Schießpulver wurde hier 1627 zum ersten Mal weltweit im Bergbau eingesetzt."
-      ],
-      hu: [
-        "Itt alapították a világ első bányászati akadémiáját 1762-ben.",
-        "A város híres a 'tajchy'-król – a bányászathoz használt mesterséges víztározókról.",
-        "Az Óvár és az Újvár a város jellegzetes látnivalói.",
-        "A világon először itt használtak puskaport bányászati célokra 1627-ben."
-      ],
-      ro: [
-        "Prima academie minieră din lume a fost fondată aici în 1762.",
-        "Orașul este cunoscut pentru 'tajchy' – rezervoare de apă artificiale pentru minerit.",
-        "Castelul Vechi și Castelul Nou sunt repere distinctive.",
-        "Praful de pușcă a fost folosit aici pentru prima dată în lume în minerit, în 1627."
-      ],
-      en: [
-        "The world's first mining academy was founded here in 1762.",
-        "The town is known for its 'tajchy' – artificial water reservoirs for mining.",
-        "The Old Castle and the New Castle are prominent landmarks.",
-        "Gunpowder was used here for the first time in the world for mining in 1627."
-      ]
-    },
-    image: "/geo-images/slovakia/city-banska-stiavnica.webp"
-  },
-  {
-    id: "castle-spis",
-    type: "historical",
-    parent: "country-slovakia",
-    coords: [20.7681, 49.0011],
-    name: {
-      de: "Zipser Burg",
-      hu: "Szepesi vár",
-      ro: "Cetatea Spiš",
-      en: "Spiš Castle"
-    },
-    description: {
-      de: "Die Zipser Burg (Spišský hrad) ist eine der größten Burganlagen in Mitteleuropa. Sie thront auf einem Travertinfelsen über der Stadt Spišské Podhradie und ist UNESCO-Welterbe.",
-      hu: "A Szepesi vár (Spišský hrad) Közép-Európa egyik legnagyobb várkomplexuma. Egy travertin sziklán magasodik Szepesváralja (Spišské Podhradie) városa felett, és az UNESCO Világörökség része.",
-      ro: "Cetatea Spiš (Spišský hrad) este unul dintre cele mai mari complexe de castele din Europa Centrală. Se află pe o stâncă de travertin deasupra orașului Spišské Podhradie și este sit al Patrimoniului Mondial UNESCO.",
-      en: "Spiš Castle (Spišský hrad) is one of the largest castle complexes in Central Europe. It towers on a travertine rock above the town of Spišské Podhradie and is a UNESCO World Heritage site."
-    },
-    facts: {
-      de: [
-        "Die Burg erstreckt sich über eine Fläche von mehr als 4 Hektar.",
-        "Sie wurde im 12. Jahrhundert an der Stelle einer älteren Festung erbaut.",
-        "Die Burg brannte 1780 nieder und ist seitdem eine Ruine.",
-        "Sie diente als Drehort für Filme wie 'Dragonheart' und 'Die letzte Legion'."
-      ],
-      hu: [
-        "A vár területe meghaladja a 4 hektárt.",
-        "A 12. században épült egy korábbi erőd helyén.",
-        "A vár 1780-ban leégett, azóta romként áll.",
-        "Olyan filmek forgatási helyszíne volt, mint a 'Sárkányszív' és 'Az utolsó légió'."
-      ],
-      ro: [
-        "Cetatea se întinde pe o suprafață de peste 4 hectare.",
-        "A fost construită în secolul al XII-lea pe locul unei fortărețe mai vechi.",
-        "Cetatea a ars în 1780 și de atunci este o ruină.",
-        "A servit ca locație de filmare pentru filme precum 'Dragonheart' și 'Ultima legiune'."
-      ],
-      en: [
-        "The castle covers an area of more than 4 hectares.",
-        "It was built in the 12th century on the site of an older fortress.",
-        "The castle burned down in 1780 and has been a ruin ever since.",
-        "It served as a filming location for movies like 'Dragonheart' and 'The Last Legion'."
-      ]
-    },
-    image: "/geo-images/slovakia/castle-spis.webp"
-  },
-  {
+        {
     id: "nature-slovak-paradise",
     type: "landmark",
     parent: "country-slovakia",
@@ -401,87 +266,7 @@ export const slovakiaRegions: POI[] = [
 ];
 
 export const slovakiaCities: POI[] = [
-  {
-    id: "city-banska-bystrica",
-    type: "city",
-    parent: "country-slovakia",
-    coords: [19.145, 48.7395],
-    name: { de: "Neusohl", hu: "Besztercebánya", ro: "Banská Bystrica", en: "Banská Bystrica" },
-    description: {
-      de: "Banská Bystrica liegt im Herzen der Slowakei und ist eng mit dem Bergbau und dem slowakischen Nationalaufstand verbunden. Die Stadt verbindet historische Plätze mit starker regionaler Identität.",
-      hu: "Besztercebánya Szlovákia szívében fekszik, és szorosan kapcsolódik a bányászathoz, valamint a szlovák nemzeti felkeléshez. Történelmi tereket és erős regionális identitást egyesít.",
-      ro: "Banská Bystrica se află în inima Slovaciei și este legată de minerit și de revolta națională slovacă. Îmbină piețe istorice cu o identitate regională puternică.",
-      en: "Banská Bystrica lies in the heart of Slovakia and is tied to mining and the Slovak National Uprising. It combines historic squares with strong regional identity."
-    },
-    facts: {
-      de: [
-        "Die Stadt spielte 1944 eine zentrale Rolle beim slowakischen Nationalaufstand.",
-        "Sie liegt im Tal des Flusses Hron.",
-        "Der Hauptplatz ist das historische Zentrum der Stadt.",
-        "Die Umgebung ist reich an Bergbaugeschichte."
-      ],
-      hu: [
-        "A város 1944-ben központi szerepet játszott a szlovák nemzeti felkelésben.",
-        "A Hron folyó völgyében fekszik.",
-        "A főtér a város történelmi központja.",
-        "Környezete bányászati örökségben gazdag."
-      ],
-      ro: [
-        "Orașul a avut un rol central în Revolta Națională Slovacă din 1944.",
-        "Se află în valea râului Hron.",
-        "Piața principală este centrul istoric al orașului.",
-        "Zona înconjurătoare este bogată în istorie minieră."
-      ],
-      en: [
-        "The city played a central role in the 1944 Slovak National Uprising.",
-        "It lies in the valley of the Hron River.",
-        "The main square is the historic center of the city.",
-        "The surrounding area is rich in mining heritage."
-      ]
-    },
-    image: "/geo-images/slovakia/city-banska-bystrica.webp"
-  },
-  {
-    id: "city-zilina",
-    type: "city",
-    parent: "country-slovakia",
-    coords: [18.7408, 49.2236],
-    name: { de: "Sillein", hu: "Zsolna", ro: "Žilina", en: "Žilina" },
-    description: {
-      de: "Žilina liegt im Nordwesten der Slowakei am Fluss Waag und ist ein wichtiges regionales Zentrum. Die Stadt ist ein Ausgangspunkt für Reisen in die Berge.",
-      hu: "Zsolna Szlovákia északnyugati részén, a Vág folyó mellett fekszik, és fontos regionális központ. A város a hegyek felé vezető utak kiindulópontja.",
-      ro: "Žilina se află în nord-vestul Slovaciei, pe râul Váh, și este un important centru regional. Orașul este un punct de plecare spre munți.",
-      en: "Žilina lies in northwestern Slovakia on the Váh River and is an important regional center. The city is a gateway to the mountains."
-    },
-    facts: {
-      de: [
-        "Žilina liegt am Fluss Waag.",
-        "Die Stadt ist ein wichtiger Verkehrsknoten im Nordwesten.",
-        "Sie dient als Tor zu den Bergen der Region.",
-        "Die Altstadt rund um die Kirche ist historisch bedeutsam."
-      ],
-      hu: [
-        "Zsolna a Vág folyó partján fekszik.",
-        "A város fontos közlekedési csomópont északnyugaton.",
-        "A térség hegyeihez vezető kapu.",
-        "Az óváros történelmileg jelentős."
-      ],
-      ro: [
-        "Žilina se află pe râul Váh.",
-        "Orașul este un nod important de transport în nord-vest.",
-        "Funcționează ca poartă către munții regiunii.",
-        "Centrul vechi are valoare istorică."
-      ],
-      en: [
-        "Žilina lies on the Váh River.",
-        "The city is a major transport hub in the northwest.",
-        "It serves as a gateway to the region's mountains.",
-        "The old town has historical significance."
-      ]
-    },
-    image: "/geo-images/slovakia/city-zilina.webp"
-  },
-  {
+      {
     id: "city-poprad",
     type: "city",
     parent: "country-slovakia",
@@ -917,51 +702,7 @@ export const slovakiaCities: POI[] = [
     },
     image: "/geo-images/slovakia/city-senec.webp"
   },
-  {
-    id: "city-bardejov",
-    type: "city",
-    parent: "country-slovakia",
-    coords: [21.2740, 49.2920],
-    name: { de: "Bartfeld", hu: "Bártfa", ro: "Bardejov", en: "Bardejov" },
-    description: {
-      de: "Bartfeld gehoert zu den bekanntesten historischen Staedten der Slowakei. Die Altstadt und das Heilbad geben dem Ort starken Tourismuswert. Bardejov verbindet UNESCO-Flair, Geschichte und Wellness. Es ist ein starkes Keyword fuer Ostslowakei-Reisen.",
-      hu: "Bártfa Szlovakia egyik legismertebb tortenelmi varosa. Az ovaros es a gyogyfurdo eros turisztikai erteket ad a helynek. Bardejov az UNESCO-hangulatot, a tortenelmet es a wellnesst kotyerti ossze. Eros kulcsszo a kelet-szlovakiai utazasokhoz.",
-      ro: "Bardejov este unul dintre cele mai cunoscute orașe istorice din Slovacia. Centrul vechi și stațiunea balneară îi dau o valoare turistică puternică. Bardejov combină atmosfera UNESCO, istoria și wellness-ul. Este un cuvânt-cheie puternic pentru călătoriile în est.",
-      en: "Bardejov is one of the best-known historic towns in Slovakia. The old town and spa give it strong tourism value. Bardejov combines UNESCO vibes, history, and wellness. It is a strong keyword for travel in eastern Slovakia."
-    },
-    facts: {
-      de: [
-        "Bartfeld hat eine sehr gut erhaltene Altstadt.",
-        "Das Heilbad Bardejovske Kupele liegt in der Naehe.",
-        "Der Markt ist ein zentrales Fotomotiv.",
-        "Die Stadt ist eng mit UNESCO verbunden.",
-        "Bardejov zieht Kultur- und Wellnessgaeste an."
-      ],
-      hu: [
-        "Bártfa nagyon jol megorzott ovarossal rendelkezik.",
-        "A Bardejovske Kupele gyogyfurdo kozel van.",
-        "A fo ter fontos fotomotivum.",
-        "A varos szorosan kapcsolodik az UNESCO-hoz.",
-        "Bardejov kulturális es wellnessvendégeket vonz."
-      ],
-      ro: [
-        "Bardejov are un centru vechi foarte bine păstrat.",
-        "Stațiunea Bardejovské Kúpele se află aproape.",
-        "Piața este un motiv foto central.",
-        "Orașul este strâns legat de UNESCO.",
-        "Bardejov atrage oaspeți culturali și de wellness."
-      ],
-      en: [
-        "Bardejov has a very well-preserved old town.",
-        "The Bardejovské Kúpele spa is nearby.",
-        "The market square is a core photo motif.",
-        "The city is closely tied to UNESCO.",
-        "Bardejov attracts culture and wellness visitors."
-      ]
-    },
-    image: "/geo-images/slovakia/city-bardejov.webp"
-  }
-];
+  ];
 
 export const slovakiaCulture: POI[] = [
   {
@@ -1004,87 +745,7 @@ export const slovakiaCulture: POI[] = [
     },
     image: "/geo-images/slovakia/cult-bratislava-castle.webp"
   },
-  {
-    id: "cult-spis-castle",
-    type: "historical",
-    parent: "country-slovakia",
-    coords: [20.7678, 48.9983],
-    name: { de: "Zipser Burg", hu: "Szepesvár", ro: "Castelul Spiș", en: "Spiš Castle" },
-    description: {
-      de: "Die Zipser Burg gehört zu den größten mittelalterlichen Burganlagen Mitteleuropas und ist UNESCO-Welterbe.",
-      hu: "A Szepesvár Közép-Európa egyik legnagyobb középkori várkomplexuma és UNESCO Világörökség.",
-      ro: "Castelul Spiș este unul dintre cele mai mari complexe medievale de fortificații din Europa Centrală și sit UNESCO.",
-      en: "Spiš Castle is one of the largest medieval castle complexes in Central Europe and a UNESCO World Heritage site."
-    },
-    facts: {
-      de: [
-        "Die Burg ist UNESCO-Welterbe.",
-        "Sie zählt zu den größten Burganlagen Mitteleuropas.",
-        "Die Ruine liegt auf einem Travertinhügel.",
-        "Sie ist ein Symbol der Ostslowakei."
-      ],
-      hu: [
-        "A vár UNESCO Világörökség.",
-        "Közép-Európa egyik legnagyobb várkomplexuma.",
-        "A rom egy travertin dombon áll.",
-        "A kelet-szlovákiai régió egyik jelképe."
-      ],
-      ro: [
-        "Castelul este sit UNESCO.",
-        "Este unul dintre cele mai mari complexe de castele din Europa Centrală.",
-        "Ruina se află pe un deal de travertin.",
-        "Este un simbol al estului Slovaciei."
-      ],
-      en: [
-        "The castle is a UNESCO World Heritage site.",
-        "It is one of the largest castle complexes in Central Europe.",
-        "The ruin stands on a travertine hill.",
-        "It is a symbol of eastern Slovakia."
-      ]
-    },
-    image: "/geo-images/slovakia/cult-spis-castle.webp"
-  },
-  {
-    id: "cult-banska-stiavnica",
-    type: "historical",
-    parent: "country-slovakia",
-    coords: [18.8925, 48.4594],
-    name: { de: "Schemnitz", hu: "Selmecbánya", ro: "Banská Štiavnica", en: "Banská Štiavnica" },
-    description: {
-      de: "Banská Štiavnica ist eine historische Bergbaustadt und UNESCO-Welterbe in einer vulkanischen Landschaft.",
-      hu: "Selmecbánya történelmi bányászváros és UNESCO Világörökség egy vulkanikus tájban.",
-      ro: "Banská Štiavnica este un oraș minier istoric și sit UNESCO într-un peisaj vulcanic.",
-      en: "Banská Štiavnica is a historic mining town and UNESCO World Heritage site in a volcanic landscape."
-    },
-    facts: {
-      de: [
-        "Die Stadt ist UNESCO-Welterbe.",
-        "Sie war ein Zentrum des Bergbaus in Mitteleuropa.",
-        "Die künstlichen Wasserreservoirs heißen Tajchy.",
-        "Hier entstand eine der ersten Bergbauakademien der Welt."
-      ],
-      hu: [
-        "A város UNESCO Világörökség.",
-        "Közép-Európa bányászatának egyik központja volt.",
-        "A mesterséges víztározókat tajchy-nak nevezik.",
-        "Itt jött létre a világ egyik első bányászati akadémiája."
-      ],
-      ro: [
-        "Orașul este sit UNESCO.",
-        "A fost un centru important al mineritului în Europa Centrală.",
-        "Rezervoarele artificiale de apă se numesc tajchy.",
-        "Aici a apărut una dintre primele academii miniere din lume."
-      ],
-      en: [
-        "The town is a UNESCO World Heritage site.",
-        "It was a major mining center in Central Europe.",
-        "The artificial water reservoirs are called tajchy.",
-        "One of the world's first mining academies was founded here."
-      ]
-    },
-    image: "/geo-images/slovakia/cult-banska-stiavnica.webp"
-  },
-  {
+      {
     id: "cult-vlkolinec",
     type: "historical",
     parent: "country-slovakia",
@@ -1124,47 +785,7 @@ export const slovakiaCulture: POI[] = [
     },
     image: "/geo-images/slovakia/cult-vlkolinec.webp"
   },
-  {
-    id: "cult-bardejov",
-    type: "historical",
-    parent: "country-slovakia",
-    coords: [21.2761, 49.2941],
-    name: { de: "Bartfeld", hu: "Bártfa", ro: "Bardejov", en: "Bardejov" },
-    description: {
-      de: "Bardejov ist eine mittelalterliche Stadt mit einem hervorragend erhaltenen Marktplatz und UNESCO-Status.",
-      hu: "Bártfa középkori város, kiemelkedően megőrzött főtérrel és UNESCO-státusszal.",
-      ro: "Bardejov este un oraș medieval cu o piață principală foarte bine păstrată și statut UNESCO.",
-      en: "Bardejov is a medieval town with a remarkably preserved main square and UNESCO status."
-    },
-    facts: {
-      de: [
-        "Die Altstadt gehört zum UNESCO-Welterbe.",
-        "Der Hauptplatz zählt zu den schönsten in der Slowakei.",
-        "Viele gotische und Renaissance-Bauten sind erhalten.",
-        "Bardejov liegt nahe der polnischen Grenze."
-      ],
-      hu: [
-        "Az óváros az UNESCO Világörökség része.",
-        "A főtér Szlovákia egyik legszebb tere.",
-        "Sok gótikus és reneszánsz épület fennmaradt.",
-        "Bártfa közel fekszik a lengyel határhoz."
-      ],
-      ro: [
-        "Centrul vechi face parte din Patrimoniul Mondial UNESCO.",
-        "Piața principală este una dintre cele mai frumoase din Slovacia.",
-        "Au supraviețuit multe clădiri gotice și renascentiste.",
-        "Bardejov se află aproape de granița cu Polonia."
-      ],
-      en: [
-        "The old town is part of the UNESCO World Heritage site.",
-        "The main square is one of the most beautiful in Slovakia.",
-        "Many Gothic and Renaissance buildings have survived.",
-        "Bardejov lies close to the Polish border."
-      ]
-    },
-    image: "/geo-images/slovakia/cult-bardejov.webp"
-  },
-  {
+    {
     id: "hist-devin-castle",
     type: "historical",
     parent: "country-slovakia",
@@ -2135,47 +1756,7 @@ export const slovakiaCulture: POI[] = [
 ];
 
 export const slovakiaNature: POI[] = [
-  {
-    id: "nat-high-tatras",
-    type: "mountain",
-    parent: "country-slovakia",
-    coords: [20.1, 49.17],
-    name: { de: "Hohe Tatra", hu: "Magas-Tátra", ro: "Munții Tatra Mare", en: "High Tatras" },
-    description: {
-      de: "Die Hohe Tatra ist das kleinste Hochgebirge der Welt und das alpine Herz der Slowakei.",
-      hu: "A Magas-Tátra a világ legkisebb magashegysége és Szlovákia alpesi szíve.",
-      ro: "Munții Tatra Mare sunt cea mai mică zonă montană înaltă din lume și inima alpină a Slovaciei.",
-      en: "The High Tatras are the smallest high mountain range in the world and the alpine heart of Slovakia."
-    },
-    facts: {
-      de: [
-        "Der Gerlachovský štít ist mit 2655 Metern der höchste Berg des Landes.",
-        "Die Region gehört zu den bekanntesten Wandergebieten der Slowakei.",
-        "Die Hohe Tatra ist Teil der Karpaten.",
-        "Sie ist ein Symbol des slowakischen Naturerbes."
-      ],
-      hu: [
-        "A Gerlachovský štít 2655 méterrel Szlovákia legmagasabb pontja.",
-        "A térség az ország egyik legismertebb túrahelye.",
-        "A Magas-Tátra a Kárpátok része.",
-        "A szlovák természeti örökség fontos szimbóluma."
-      ],
-      ro: [
-        "Gerlachovský štít este cel mai înalt vârf din Slovacia, cu 2655 m.",
-        "Regiunea este una dintre cele mai cunoscute zone de drumeție din țară.",
-        "Tatra Mare face parte din Carpați.",
-        "Este un simbol important al patrimoniului natural slovac."
-      ],
-      en: [
-        "Gerlachovský štít is the highest peak in Slovakia at 2655 meters.",
-        "The region is one of the country's best-known hiking areas.",
-        "The High Tatras are part of the Carpathians.",
-        "They are an important symbol of Slovak natural heritage."
-      ]
-    },
-    image: "/geo-images/slovakia/nat-high-tatras.webp"
-  },
-  {
+    {
     id: "nat-slovensky-raj",
     type: "forest",
     parent: "country-slovakia",

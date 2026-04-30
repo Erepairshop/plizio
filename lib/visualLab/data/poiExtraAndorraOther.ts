@@ -27,6 +27,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cel mai bun moment pentru observare este dimineaÈ›a devreme', 'Marmotele sunt foarte sociale', 'TrÄƒiesc Ã®n vizuini subterane'],
       en: ['Best viewing time is early morning', 'Marmots are very social animals', 'They live in underground burrows'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az alpesi mormota Andorra magashegyi Ã©lÅ‘vilÃ¡gÃ¡nak egyik legkedveltebb faja. A Canillo-vÃ¶lgyben kialakÃ­tott megfigyelÅ‘hely kivÃ¡lÃ³ lehetÅ‘sÃ©get ad a mormotÃ¡k Ã©letmÃ³djÃ¡nak tanulmÃ¡nyozÃ¡sÃ¡ra anÃ©lkÃ¼l, hogy megzavarnÃ¡nk Å‘ket. A mormotÃ¡k kommunikÃ¡ciÃ³ja, pÃ©ldÃ¡ul a veszÃ©lyt jelzÅ‘ fÃ¼ttyÃ¼k, igazi termÃ©szetbÃºvÃ¡r Ã©lmÃ©ny. BiolÃ³gia K5 â€” Ã¡llatok Ã©lÅ‘helye.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["A mormotÃ¡k igazi tÃ¡rsasÃ¡gi lÃ©nyek.", "TÃ©len tÃ©li Ã¡lmot alszanak.", "FÃ¼ttyel kommunikÃ¡lnak egymÃ¡ssal.", "FÃ¶ld alatti jÃ¡rataik hossza akÃ¡r 10 mÃ©ter is lehet.", "NÃ¶vÃ©nyekkel, gyÃ¶kerekkel tÃ¡plÃ¡lkoznak.", "KivÃ¡lÃ³an alkalmazkodtak az alpesi klÃ­mÃ¡hoz."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-pyrenean-chamois-ordino-extra',
@@ -51,6 +53,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Perfect adaptaÈ›i la terenul montan', 'Pot sÄƒri foarte sus', 'Se hrÄƒnesc cu ierburi È™i plante aromatice'],
       en: ['Perfectly adapted to mountain terrain', 'Can jump very high', 'Feed on grasses and herbs'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A pireneusi zerge az andorrai magashegysÃ©g egyik legÃ¼gyesebb Ã¡llata. A sziklÃ¡s lejtÅ‘kÃ¶n valÃ³ mozgÃ¡sa lenyÅ±gÃ¶zÅ‘, kivÃ¡lÃ³an alkalmazkodott a zord kÃ¶rÃ¼lmÃ©nyekhez. Ordino kÃ¶rnyÃ©ke kÃ¼lÃ¶nÃ¶sen gazdag ebben a fajban, Ã­gy a tÃºrÃ¡zÃ³k gyakran lÃ¡thatjÃ¡k Å‘ket a tÃ¡voli sziklapÃ¡rkÃ¡nyokon. FÃ¶ldrajz K6 â€” Ã¡llatok Ã©s Ã©lÅ‘helyek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KivÃ¡lÃ³an mozog a meredek sziklafalakon.", "TÃ©len vastagabb bundÃ¡t nÃ¶veszt.", "A zerge a Pireneusok jellegzetes Ã¡llata.", "Kecses, izmos testfelÃ©pÃ­tÃ©sÅ±.", "FÅ‘kÃ©nt reggel Ã©s este aktÃ­v.", "Nagyon Ã©ber Ã¡llat."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-griffon-vulture-nesting-la-massana-extra',
@@ -75,6 +79,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Anvergura aripilor de pÃ¢nÄƒ la 2,8 metri', 'Necrofagi, jucÃ¢nd un rol ecologic important', 'CuibÄƒresc Ã®n colonii'],
       en: ['Wingspan of up to 2.8 meters', 'Scavengers that play an important ecological role', 'Nest in colonies'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A fakÃ³keselyÅ± az andorrai Ã©gbolt egyik legimpozÃ¡nsabb ragadozÃ³ja. La Massana magas sziklÃ¡in fÃ©szkelnek, ahonnan hosszÃº kÃ¶rÃ¶ket tesznek a vÃ¶lgy felett tÃ¡plÃ¡lÃ©k utÃ¡n kutatva. Ã–kolÃ³giai szerepÃ¼k jelentÅ‘s, hiszen dÃ¶gevÅ‘kÃ©nt tisztÃ­tjÃ¡k a hegyvidÃ©ket. BiolÃ³gia K8 â€” Ã¶koszisztÃ©mÃ¡k Ã©s tÃ¡plÃ¡lÃ©klÃ¡nc.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Ã“riÃ¡si szÃ¡rnyfesztÃ¡volsÃ¡g.", "DÃ¶gevÅ‘ Ã©letmÃ³d.", "Csoportosan fÃ©szkel.", "KivÃ¡lÃ³ vitorlÃ¡zÃ³ repÃ¼lÅ‘.", "Fontos a termÃ©szet tisztÃ­tÃ¡sÃ¡ban.", "Ritka, vÃ©dett faj."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-wild-boar-forest-encamp-extra',
@@ -99,6 +105,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Omnivori', 'Animale nocturne', 'Pot cÃ¢ntÄƒri pÃ¢nÄƒ la 100 kg'],
       en: ['Omnivores', 'Nocturnal animals', 'Can weigh up to 100 kg'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vaddisznÃ³ az andorrai erdÅ‘k egyik leggyakoribb emlÅ‘se. BÃ¡r fÃ©lÃ©nk, az Encamp kÃ¶rÃ¼li sÅ±rÅ± erdÅ‘sÃ©gek kivÃ¡lÃ³ Ã©lÅ‘helyet biztosÃ­tanak szÃ¡mÃ¡ra. Ã‰jszakai Ã¡llat, Ã­gy az alkonyati sÃ©tÃ¡k sorÃ¡n nagyobb esÃ©llyel talÃ¡lkozhatunk a nyomaival vagy akÃ¡r magÃ¡val az Ã¡llattal. FÃ¶ldrajz K5 â€” erdÅ‘vilÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["MindenevÅ‘ Ã©letmÃ³d.", "Ã‰jszakai aktivitÃ¡s.", "SÅ±rÅ± erdÅ‘kben Ã©rzi jÃ³l magÃ¡t.", "TÃºrÃ³ Ã¡llat, bolygatja a talajt.", "ErÅ‘s, izmos test.", "Az andorrai erdÅ‘k rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-brook-trout-river-sant-julia-extra',
@@ -123,6 +131,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['PreferÄƒ apele reci, bogate Ã®n oxigen', 'Indicator al calitÄƒÈ›ii bune a apei', 'PeÈ™te sportiv popular'],
       en: ['Prefer cold, oxygen-rich water', 'An indicator of good water quality', 'Popular sport fish'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A pataki pisztrÃ¡ng az andorrai folyÃ³k egyik legfontosabb halfaja. A Sant JuliÃ  kÃ¶rÃ¼li hÅ±vÃ¶s, oxigÃ©ndÃºs vizek ideÃ¡lisak szÃ¡mÃ¡ra. A pisztrÃ¡ngok jelenlÃ©te a tiszta kÃ¶rnyezet Ã©s az egÃ©szsÃ©ges vÃ­zminÅ‘sÃ©g egyik legfontosabb indikÃ¡tora. FÃ¶ldrajz K5 â€” Ã©lÅ‘ vizek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KivÃ¡lÃ³ vÃ­zminÅ‘sÃ©gÅ± folyÃ³kban Ã©l.", "A hideg vizeket kedveli.", "A horgÃ¡szat egyik fÅ‘ cÃ©lpontja.", "Fontos Ã¶kolÃ³giai szerep.", "Tiszta hegyi patakok.", "Hegyi halfaj."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-golden-eagle-peaks-escaldes-extra',
@@ -147,6 +157,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Una dintre cele mai mari pÄƒsÄƒri de pradÄƒ din emisfera nordicÄƒ', 'PÄƒsÄƒri monogame', 'Construiesc cuiburi uriaÈ™e pe stÃ¢nci'],
       en: ['One of the largest birds of prey in the Northern Hemisphere', 'Monogamous birds', 'Build huge nests on cliffs'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A szirti sas a magashegyi tÃ¡j fensÃ©ges vadÃ¡sza. Escaldes-Engordany csÃºcsai felett kÃ¶rÃ¶zve figyeli az alatta elterÃ¼lÅ‘ vÃ¶lgyeket. A sasok pÃ¡rosÃ¡val Ã©lnek, Ã©s sziklÃ¡kra Ã©pÃ­tik fÃ©szkeiket, melyeket Ã©vekig hasznÃ¡lnak. Az andorrai Ã¶koszisztÃ©ma egyik csÃºcsragadozÃ³ja. BiolÃ³gia K8 â€” Ã¶koszisztÃ©mÃ¡k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Hatalmas szÃ¡rnyfesztÃ¡volsÃ¡g.", "Szirti sas.", "MonogÃ¡m Ã©letmÃ³d.", "SziklÃ¡kra Ã©pÃ­tett fÃ©szkek.", "CsÃºcsragadozÃ³.", "FensÃ©ges megjelenÃ©s."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-fire-salamander-damp-forests-extra',
@@ -171,6 +183,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ColoraÈ›ia aprinsÄƒ avertizeazÄƒ prÄƒdÄƒtorii de toxicitatea sa', 'Activ nocturn', 'Larvele se dezvoltÄƒ Ã®n apÄƒ'],
       en: ['Bright coloring warns predators of its toxicity', 'Nocturnal', 'Larvae develop in water'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A foltos szalamandra Andorra nedves, Ã¡rnyÃ©kos erdeinek kÃ¼lÃ¶nleges lakÃ³ja. Ã‰lÃ©nk, fekete-sÃ¡rga mintÃ¡zata figyelmeztetÃ©s a ragadozÃ³k szÃ¡mÃ¡ra. Ã‰letciklusa szorosan kÃ¶tÅ‘dik a vÃ­zhez, mivel lÃ¡rvÃ¡i az erdei patakokban fejlÅ‘dnek. BiolÃ³gia K5 â€” kÃ©tÃ©ltÅ±ek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Fekete-sÃ¡rga mintÃ¡zat.", "Ã‰jszakai Ã©letmÃ³d.", "VÃ­zhez kÃ¶tÃ¶tt szaporodÃ¡s.", "FÃ¶ldi Ã©letmÃ³d.", "MÃ©rgezÅ‘ bÅ‘r.", "Ã‰rintetlen erdÅ‘k lakÃ³ja."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-red-squirrel-pine-forests-extra',
@@ -195,6 +209,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['AdunÄƒ provizii de hranÄƒ pentru iarnÄƒ', 'Coada stufoasÄƒ ajutÄƒ la echilibru', 'Construiesc cuiburi numite scorburi'],
       en: ['Collect food supplies for the winter', 'Bushy tail helps with balance', 'Build nests called dreys'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vÃ¶rÃ¶s mÃ³kus La Massana fenyveseinek Ã¼gyes lakÃ³ja. EgÃ©sz nap a fÃ¡k Ã¡gai kÃ¶zÃ¶tt mozog, Ã©lelem utÃ¡n kutatva. TÃ©lire kÃ©szleteket gyÅ±jt, amelyeket elrejt a fÃ¡k odvaiban. FÃ¶ldrajz K5 â€” erdÅ‘vilÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Ãœgyes mÃ¡szÃ³.", "TÃ©lire gyÅ±jt Ã©lelmet.", "Bozontos farok.", "Fenyvesek lakÃ³ja.", "Ã‰lÃ©nk Ã©letmÃ³d.", "Az erdÅ‘ rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-butterfly-meadows-ordino-extra',
@@ -219,6 +235,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Specii precum fluturele Apollo pot fi gÄƒsite aici', 'PolenizeazÄƒ multe plante alpine', 'Ciclul de viaÈ›Äƒ include patru etape'],
       en: ['Species like the Apollo butterfly can be found here', 'They pollinate many alpine plants', 'Life cycle includes four stages'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A Sorteny-vÃ¶lgy virÃ¡gos rÃ©tjei az alpesi lepkÃ©k paradicsoma. A lepkÃ©k nemcsak szÃ©psÃ©gÃ¼kkel gyÃ¶nyÃ¶rkÃ¶dtetnek, hanem fontos szerepet jÃ¡tszanak a nÃ¶vÃ©nyek beporzÃ¡sÃ¡ban is. Ã‰letciklusuk, az Ã¡talakulÃ¡s csodÃ¡ja minden Ã©vben megÃºjul a vÃ¶lgyben. BiolÃ³gia K5 â€” Ã©letciklusok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["SokszÃ­nÅ± lepkefajok.", "Fontos beporzÃ³k.", "Az ApollÃ³-lepke otthona.", "VirÃ¡gos rÃ©tek.", "LÃ¡tvÃ¡nyos Ã¡talakulÃ¡s.", "Az alpesi Ã©lÅ‘vilÃ¡g rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-bat-caves-sant-julia-extra',
@@ -243,6 +261,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ImportanÈ›i prÄƒdÄƒtori de insecte', 'Folosesc ecolocaÈ›ia pentru a naviga', 'Singurele mamifere capabile de zbor'],
       en: ['Important insect predators', 'Use echolocation to navigate', 'The only mammals capable of flight'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A denevÃ©rek a Sant JuliÃ -i barlangok lakÃ³i. Ã‰jszaka vadÃ¡sznak, echolokÃ¡ciÃ³val tÃ¡jÃ©kozÃ³dnak, Ã­gy talÃ¡ljÃ¡k meg a rovarokat. Ã‰letÃ¼k fontos rÃ©sze a tÃ©li Ã¡lom, amelyet ezekben a barlangokban tÃ¶ltenek. BiolÃ³gia K8 â€” Ã©jszakai Ã¡llatok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Ã‰jszakai Ã©letmÃ³d.", "EcholokÃ¡ciÃ³val navigÃ¡l.", "RepÃ¼lÅ‘ emlÅ‘sÃ¶k.", "BarlanglakÃ³.", "Fontos rovarirtÃ³.", "TÃ©li Ã¡lmot alszik."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-ptarmigan-high-altitudes-extra',
@@ -267,6 +287,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Camuflaj perfect Ã®n zÄƒpadÄƒ', 'Picioare cu pene ca niÈ™te rachete de zÄƒpadÄƒ', 'TrÄƒieÈ™te deasupra liniei copacilor'],
       en: ['Perfect camouflage in the snow', 'Feathered feet act as snowshoes', 'Lives above the tree line'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az alpesi hÃ³fajd Andorra hegyvidÃ©kÃ©nek mesteri Ã¡lcÃ¡zÃ³ja. Tollazata Ã©vszakonkÃ©nt vÃ¡ltozik, tÃ©len teljesen fehÃ©r, Ã­gy olvad bele a kÃ¶rnyezetÃ©be. A fahatÃ¡r felett Ã©l, lÃ¡bai pedig tollasak, mint a hÃ³cipÅ‘k. FÃ¶ldrajz K8 â€” alkalmazkodÃ¡s.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["TÃ¶kÃ©letes Ã¡lcÃ¡zÃ¡s.", "Tollas lÃ¡bak.", "A fahatÃ¡r felett Ã©l.", "Ã‰vszakonkÃ©nt vÃ¡ltozÃ³ tollazat.", "Nehezen Ã©szrevehetÅ‘.", "Az alpesi Ã©lÅ‘vilÃ¡g rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-asp-viper-sunny-slopes-extra',
@@ -291,6 +313,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['È˜arpe veninos', 'VÃ¢rf caracteristic al botului ridicat', 'PreferÄƒ habitatele uscate, stÃ¢ncoase'],
       en: ['Venomous snake', 'Characteristic upturned snout', 'Prefers dry, rocky habitats'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A homoki vipera az andorrai napsÃ¼tÃ¶tte sziklÃ¡s lejtÅ‘k lakÃ³ja. MÃ©rgeskÃ­gyÃ³, Ã­gy Ã³vatosan kell megkÃ¶zelÃ­teni. Kedveli a szÃ¡raz, kÅ‘ves kÃ¶rnyezetet, ahol Ã³rÃ¡kon Ã¡t napozik. BiolÃ³gia K8 â€” hÃ¼llÅ‘k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["MÃ©rgeskÃ­gyÃ³.", "SziklÃ¡s Ã©lÅ‘hely.", "NapozÃ³ Ã©letmÃ³d.", "Jellegzetes orrcsÃºcs.", "Ã“vatos viselkedÃ©s.", "SzÃ¡razsÃ¡gtÅ±rÅ‘."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-badger-den-la-massana-extra',
@@ -315,6 +339,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Omnivori nocturni', 'TrÄƒiesc Ã®n grupuri sociale numite clanuri', 'Animale foarte curate'],
       en: ['Nocturnal omnivores', 'Live in social groups called clans', 'Very clean animals'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A borz Ã©jszakai Ã¡llat, La Massana erdeiben Ã©l. Komplex, fÃ¶ldalatti kotorÃ©kokat Ã©pÃ­t, amelyekben generÃ¡ciÃ³k Ã³ta Ã©lhetnek. Nagyon tiszta Ã¡llat, rendszeresen tisztÃ­tja a kotorÃ©kjÃ¡t. BiolÃ³gia K5 â€” Ã©jszakai emlÅ‘sÃ¶k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Ã‰jszakai Ã©letmÃ³d.", "FÃ¶ldalatti kotorÃ©k.", "Tiszta Ã¡llat.", "MindenevÅ‘.", "TÃ¡rsas csoportokban Ã©l.", "Az erdÅ‘ lakÃ³ja."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-weasel-farmlands-canillo-extra',
@@ -339,6 +365,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cel mai mic carnivor din lume', 'Corp lung È™i subÈ›ire', 'VÃ¢nÄƒtori foarte agili'],
       en: ["The world's smallest carnivore", 'Long, slender body', 'Very agile hunters'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A menyÃ©t a vilÃ¡g legkisebb ragadozÃ³ja. Teste hosszÃº Ã©s karcsÃº, Ã­gy kÃ¶nnyen kÃ¶veti a rÃ¡gcsÃ¡lÃ³kat a jÃ¡rataikba. Canillo mezÅ‘gazdasÃ¡gi terÃ¼letein vadÃ¡szik, fontos szerepet tÃ¶lt be a kÃ¡rtevÅ‘k irtÃ¡sÃ¡ban. BiolÃ³gia K5 â€” ragadozÃ³k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["A legkisebb ragadozÃ³.", "KarcsÃº test.", "FÃ¼rge vadÃ¡sz.", "Fontos kÃ¡rtevÅ‘irtÃ³.", "MezÅ‘gazdasÃ¡gi terÃ¼letek lakÃ³ja.", "Ã‰ber Ã¡llat."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-capercaillie-forests-ordino-extra',
@@ -347,7 +375,7 @@ export const poiExtraAndorraOther: POI[] = [
     coords: [1.56, 42.63],
     name: {
       de: 'Auerhahn-WÃ¤lder Ordino',
-      hu: 'Siketfajd ErdÅ‘k Ordino',
+      hu: 'Siketfajd ErdÅ‘k',
       ro: 'PÄƒdurile de cocoÈ™ de munte Ordino',
       en: 'Capercaillie Forests Ordino',
     },
@@ -363,6 +391,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cea mai mare pasÄƒre galiformÄƒ din Europa', 'Ritual de Ã®mperechere spectaculos', 'Foarte sensibil la deranj'],
       en: ["Europe's largest grouse species", 'Spectacular mating display', 'Very sensitive to disturbance'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A siketfajd az andorrai Å‘si erdÅ‘k fÃ©ltett lakÃ³ja. A tavaszi dÃ¼rgÃ©s idejÃ©n a kakasok lenyÅ±gÃ¶zÅ‘ tÃ¡nccal Ã©s Ã©nekkel udvarolnak. Mivel nagyon Ã©rzÃ©kenyek a zavarÃ¡sra, csak az Ã©rintetlen erdÅ‘kben maradnak meg. BiolÃ³gia K8 â€” ritka fajok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["EurÃ³pa legnagyobb tyÃºkfÃ©lÃ©je.", "LÃ¡tvÃ¡nyos dÃ¼rgÃ©s.", "Ã‰rzÃ©keny a kÃ¶rnyezetÃ©re.", "Åsi erdÅ‘k lakÃ³ja.", "FÃ©lÃ©nk madÃ¡r.", "Ritka, vÃ©dett faj."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-otter-valira-river-extra',
@@ -387,6 +417,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Mamifere semi-acvatice', 'Se hrÄƒnesc Ã®n principal cu peÈ™te', 'Corp hidrodinamic'],
       en: ['Semi-aquatic mammals', 'Feed mainly on fish', 'Streamlined body'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vidra az andorrai vizek ritka, de fontos lakÃ³ja. A Valira folyÃ³ csendesebb szakaszain bukkan fel, halakkal tÃ¡plÃ¡lkozik. Teste Ã¡ramvonalas, kivÃ¡lÃ³ ÃºszÃ³. JelenlÃ©te a vÃ­z jÃ³ minÅ‘sÃ©gÃ©t jelzi. BiolÃ³gia K5 â€” vÃ­zi Ã©lÅ‘helyek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KivÃ¡lÃ³ ÃºszÃ³.", "Halakkal tÃ¡plÃ¡lkozik.", "Ãramvonalas test.", "A tiszta vÃ­z jelzÅ‘je.", "Ritka, vÃ©dett faj.", "FÃ©lig vÃ­zi Ã©letmÃ³d."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-red-deer-forests-encamp-extra',
@@ -411,6 +443,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Una dintre cele mai mari specii de cerbi', 'Masculii au coarne impresionante', 'Perioada de rut Ã®n toamnÄƒ'],
       en: ['One of the largest deer species', 'Males have impressive antlers', 'Rutting season in autumn'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A gÃ­mszarvas az Encamp kÃ¶rÃ¼li hatalmas erdÅ‘sÃ©gek bÃ¼szke lakÃ³ja. A hÃ­mek agancsa Ã©vrÅ‘l Ã©vre nÅ‘, az Å‘szi bÅ‘gÃ©s idejÃ©n kÃ¼lÃ¶nleges lÃ¡tvÃ¡ny. Fontos tagja az erdei Ã¶koszisztÃ©mÃ¡nak. BiolÃ³gia K5 â€” emlÅ‘sÃ¶k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["NagytestÅ± emlÅ‘s.", "LÃ¡tvÃ¡nyos agancs.", "Åszi bÅ‘gÃ©si idÅ‘szak.", "Nagy kiterjedÃ©sÅ± erdÅ‘k.", "Fontos tÃ¡plÃ¡lÃ©klÃ¡nc szerep.", "Az erdÅ‘k Ã©kessÃ©ge."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-bearded-vulture-high-peaks-extra',
@@ -435,6 +469,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cunoscut È™i ca vulturul bÄƒrbos', 'AruncÄƒ oasele de la Ã®nÄƒlÈ›ime mare pentru a le sparge', 'AnvergurÄƒ enormÄƒ a aripilor'],
       en: ['Also known as the Lammergeier', 'Drops bones from great heights to break them', 'Enormous wingspan'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A szakÃ¡llas saskeselyÅ± a Pireneusok legritkÃ¡bb madara. TÃ¡plÃ¡lkozÃ¡sa egyedÃ¼lÃ¡llÃ³, ugyanis csontokkal tÃ¡plÃ¡lkozik. A magas csÃºcsok felett vitorlÃ¡zik, Ã©s a csontokat magasrÃ³l ledobva tÃ¶ri Ã¶ssze. BiolÃ³gia K8 â€” ritka fajok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Csontokkal tÃ¡plÃ¡lkozik.", "Hatalmas szÃ¡rnyfesztÃ¡volsÃ¡g.", "SziklÃ¡k feletti repÃ¼lÃ©s.", "Ritka Ã©s vÃ©dett.", "Egyedi tÃ¡plÃ¡lkozÃ¡s.", "A Pireneusok kincse."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-pyrenean-newt-streams-extra',
@@ -459,6 +495,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['GÄƒsit doar Ã®n Pirinei', 'Bine adaptat la apele cu curgere rapidÄƒ', 'ÃŽÈ™i petrece majoritatea timpului Ã®n apÄƒ'],
       en: ['Found only in the Pyrenees', 'Well-adapted to fast-flowing water', 'Spends most of its time in water'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A pireneusi hegyi gÅ‘te egy kÃ¼lÃ¶nleges, endemikus faj. Ordino hideg, tiszta patakjait kedveli. Szinte egÃ©sz Ã©letÃ©t vÃ­z alatt tÃ¶lti, tÃ¶kÃ©letesen alkalmazkodva a gyors sodrÃ¡shoz. BiolÃ³gia K5 â€” kÃ©tÃ©ltÅ±ek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Endemikus faj.", "Hideg vÃ­zhez szokott.", "VÃ­z alatti Ã©letmÃ³d.", "Gyors sodrÃ¡sÃº patakok.", "KÃ¼lÃ¶nleges kÃ©tÃ©ltÅ±.", "Ã‰rzÃ©keny kÃ¶rnyezet."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-roe-deer-lower-woodlands-extra',
@@ -483,6 +521,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Specie de cerb mai micÄƒ', 'Animale graÈ›ioase', 'Masculii au coarne scurte È™i simple'],
       en: ['Smaller deer species', 'Graceful animals', 'Males have short, simple antlers'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az Å‘z Sant JuliÃ  alacsonyabb fekvÃ©sÅ± erdeiben Ã©l. Kecses mozgÃ¡sa Ã©s Ã©bersÃ©ge jellemzi. A erdÅ‘szÃ©leket kedveli, ahol tÃ¡plÃ¡lÃ©k utÃ¡n kutat. BiolÃ³gia K5 â€” emlÅ‘sÃ¶k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Kecses Ã¡llat.", "ErdÅ‘szÃ©lek lakÃ³ja.", "RÃ¶vid agancs.", "NÃ¶vÃ©nyevÅ‘.", "Ã‰ber termÃ©szet.", "Az andorrai erdÅ‘k rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-fox-omnipresent-extra',
@@ -507,6 +547,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Foarte adaptabilÄƒ', 'VÃ¢nÄƒtori inteligenÈ›i', 'CoadÄƒ stufoasÄƒ caracteristicÄƒ'],
       en: ['Highly adaptable', 'Intelligent hunters', 'Distinctive bushy tail'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vÃ¶rÃ¶s rÃ³ka az egyik legintelligensebb Ã¡llat AndorrÃ¡ban. KivÃ¡lÃ³an alkalmazkodik a kÃ¶rnyezetÃ©hez, az erdÅ‘ktÅ‘l a lakott terÃ¼letek szÃ©lÃ©ig mindenhol megtalÃ¡lhatÃ³. SzÅ‘re Ã©s bozontos farka kÃ¶nnyen felismerhetÅ‘vÃ© teszi. BiolÃ³gia K5 â€” emlÅ‘sÃ¶k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Intelligens vadÃ¡sz.", "AlkalmazkodÃ³kÃ©pes.", "Bozontos farok.", "VÃ¡rosok szÃ©lÃ©ig is elmerÃ©szkedik.", "MindenevÅ‘.", "Ã‰ber Ã¡llat."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-common-lizard-stone-walls-extra',
@@ -531,6 +573,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Foarte rapidÄƒ È™i agilÄƒ', 'ÃŽÈ™i poate lepÄƒda coada pentru a scÄƒpa de prÄƒdÄƒtori', 'InsectivorÄƒ'],
       en: ['Very fast and agile', 'Can shed its tail to escape predators', 'Insectivore'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A fali gyÃ­k az andorrai kÃ¶ves kertek Ã©s sziklafalak lakÃ³ja. ImÃ¡d a napsÃ¼tÃ¶tte kÃ¶veken melegedni. Ha veszÃ©lyt Ã©rez, gyorsan eliszkol, vagy akÃ¡r a farkÃ¡t is ledobhatja. BiolÃ³gia K3 â€” hÃ¼llÅ‘k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["NapozÃ³ Ã©letmÃ³d.", "Gyors mozgÃ¡s.", "FarkÃ¡t ledobhatja.", "SziklÃ¡k lakÃ³ja.", "RovarevÅ‘.", "Az andorrai kertek rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-stoat-mountain-meadows-extra',
@@ -555,6 +599,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Devine herminÄƒ iarna (blanÄƒ albÄƒ)', 'VÃ¢nÄƒtor eficient de mamifere mici', 'VÃ¢rful cozii rÄƒmÃ¢ne negru iarna'],
       en: ['Turns into an ermine in winter (white coat)', 'Efficient hunter of small mammals', 'Black tail tip remains in winter'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A hermelin a Canillo-i hegyi rÃ©tek fÃ¼rge ragadozÃ³ja. TÃ©li bundÃ¡ja teljesen fehÃ©r, kivÃ©ve a farka hegyÃ©t. FÅ‘leg kisrÃ¡gcsÃ¡lÃ³kra vadÃ¡szik. BiolÃ³gia K8 â€” emlÅ‘sÃ¶k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["TÃ©li fehÃ©r bunda.", "FÃ¼rge vadÃ¡sz.", "KisrÃ¡gcsÃ¡lÃ³kkal tÃ¡plÃ¡lkozik.", "Hegyi rÃ©tek lakÃ³ja.", "Fekete farokvÃ©g.", "RagadozÃ³."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-grass-snake-wetlands-extra',
@@ -579,6 +625,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ÃŽnotÄƒtori excelenÈ›i', 'Se hrÄƒnesc Ã®n principal cu amfibieni', 'Se prefac morÈ›i cÃ¢nd sunt Ã®n pericol'],
       en: ['Excellent swimmers', 'Feed mainly on amphibians', 'Play dead when threatened'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vÃ­zisiklÃ³ Encamp vizes Ã©lÅ‘helyeinek lakÃ³ja. KitÅ±nÅ‘ ÃºszÃ³, fÅ‘leg kÃ©tÃ©ltÅ±ekkel tÃ¡plÃ¡lkozik. Nem mÃ©rgezÅ‘, veszÃ©ly esetÃ©n gyakran halottnak tetteti magÃ¡t. BiolÃ³gia K5 â€” kÃ©tÃ©ltÅ±ek Ã©s hÃ¼llÅ‘k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KitÅ±nÅ‘ ÃºszÃ³.", "Nem mÃ©rgezÅ‘.", "Halottnak tetteti magÃ¡t.", "Vizes Ã©lÅ‘helyek.", "KÃ©tÃ©ltÅ±ekkel tÃ¡plÃ¡lkozik.", "Az andorrai vizek rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-alpine-chough-high-cliffs-extra',
@@ -603,6 +651,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['PÄƒsÄƒri foarte sociabile', 'UrmÄƒresc adesea alpiniÈ™tii Ã®n speranÈ›a de a primi hranÄƒ', 'TrÄƒiesc la altitudini mari'],
       en: ['Very sociable birds', 'Often follow mountaineers hoping for food', 'Live at high altitudes'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A havasi csÃ³ka az Escaldes-i sziklÃ¡k akrobata madara. Fekete tolla Ã©s sÃ¡rga csÅ‘re jÃ³l megkÃ¼lÃ¶nbÃ¶zteti. Gyakran kÃ¶veti a turistÃ¡kat Ã©tel remÃ©nyÃ©ben. BiolÃ³gia K5 â€” madarak.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Akrobatikus repÃ¼lÃ©s.", "SÃ¡rga csÅ‘r.", "TÃ¡rsas Ã©letmÃ³d.", "Hegyi csÃºcsok.", "Ã‰telkeresÃ©s az embernÃ©l.", "A magassÃ¡g lakÃ³ja."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-ibex-reintroduction-zone-extra',
@@ -624,9 +674,11 @@ export const poiExtraAndorraOther: POI[] = [
     facts: {
       de: ['Ausgezeichnete Kletterer', 'MÃ¤nnchen haben groÃŸe, gebogene HÃ¶rner', 'Wurden in den PyrenÃ¤en wiederangesiedelt'],
       hu: ['KivÃ¡lÃ³ hegymÃ¡szÃ³k', 'A hÃ­meknek nagy, hajlott szarvuk van', 'VisszatelepÃ­tettÃ©k Å‘ket a Pireneusokba'],
-      ro: ['CÄƒÈ›ÄƒraÈ›i excelenÈ›i', 'Masculii au coarne mari, curbate', 'Au fost reintroduÈ™i Ã®n Pirinei'],
+      ro: ['CÄƒÈ›ÄƒrÄƒtori excelenÈ›i', 'Masculii au coarne mari, curbate', 'Au fost reintroduÈ™i Ã®n Pirinei'],
       en: ['Excellent climbers', 'Males have large, curved horns', 'Have been reintroduced to the Pyrenees'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A kÅ‘szÃ¡li kecske visszatelepÃ­tÃ©se a Sorteny NatÃºrparkba igazi termÃ©szetvÃ©delmi siker. Ezek az Ã¡llatok kivÃ¡lÃ³ hegymÃ¡szÃ³k, a magas, meredek lejtÅ‘ket is kÃ¶nnyen bejÃ¡rjÃ¡k. A hÃ­mek nagy, Ã­velt szarvukkal kÃ¶nnyen felismerhetÅ‘ek. BiolÃ³gia K8 â€” termÃ©szetvÃ©delem.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["TermÃ©szetvÃ©delmi siker.", "KivÃ¡lÃ³ hegymÃ¡szÃ³.", "Hajlott szarv.", "Magas lejtÅ‘k lakÃ³ja.", "VisszatelepÃ­tett faj.", "A pireneusi tÃ¡j rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-dipper-fast-streams-extra',
@@ -651,6 +703,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Singura pasÄƒre cÃ¢ntÄƒtoare care se poate scufunda', 'BavetÄƒ albÄƒ pe piept', 'ÃŽÈ™i construieÈ™te cuibul lÃ¢ngÄƒ apÄƒ'],
       en: ['The only songbird that can dive', 'White "bib" on its chest', 'Builds its nest near water'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vÃ­zirigÃ³ a hegyi patakok Ã¼gyes bÃºvÃ¡ra. EgyedÃ¼lÃ¡llÃ³ mÃ³don kÃ©pes a vÃ­z alatt sÃ©tÃ¡lni tÃ¡plÃ¡lÃ©k utÃ¡n kutatva. FehÃ©r mellÃ©nye messzirÅ‘l felismerhetÅ‘vÃ© teszi a gyors sodrÃ¡sÃº vÃ­zben. BiolÃ³gia K5 â€” madarak.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KÃ©pes vÃ­z alatt sÃ©tÃ¡lni.", "FehÃ©r mellÃ©ny.", "Gyors patakok lakÃ³ja.", "RovarevÅ‘.", "Ã‰nekesmadÃ¡r.", "A vizek Ã¼gyes lakÃ³ja."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-pine-marten-conifer-forests-extra',
@@ -672,9 +726,11 @@ export const poiExtraAndorraOther: POI[] = [
     facts: {
       de: ['Ausgezeichneter Kletterer', 'Gelber Kehlfleck', 'HauptsÃ¤chlich nachtaktiv'],
       hu: ['KivÃ¡lÃ³ hegymÃ¡szÃ³', 'SÃ¡rga torokfolt', 'FÅ‘leg Ã©jszaka aktÃ­v'],
-      ro: ['CÄƒÈ›ÄƒraÈ› excelent', 'PatÄƒ galbenÄƒ pe gÃ¢t', 'Activ Ã®n principal noaptea'],
+      ro: ['CÄƒÈ›ÄƒrÄƒtor excelent', 'PatÄƒ galbenÄƒ pe gÃ¢t', 'Activ Ã®n principal noaptea'],
       en: ['Excellent climber', 'Yellow throat patch', 'Mainly nocturnal'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A nyuszt az Encamp kÃ¶rÃ¼li fenyvesek Ã¼gyes, Ã©jszakai vadÃ¡sza. KivÃ¡lÃ³an mÃ¡szik a fÃ¡k Ã¡gain. SÃ¡rga torokfoltja alapjÃ¡n jÃ³l azonosÃ­thatÃ³. BiolÃ³gia K8 â€” ragadozÃ³k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KivÃ¡lÃ³ mÃ¡szÃ³.", "Ã‰jszakai Ã©letmÃ³d.", "SÃ¡rga torokfolt.", "Fenyvesek lakÃ³ja.", "Ãœgyes ragadozÃ³.", "RejtÅ‘zkÃ¶dÅ‘ Ã¡llat."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-red-billed-chough-pastures-extra',
@@ -699,6 +755,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cioc È™i picioare roÈ™ii', 'ZburÄƒtori acrobatici', 'Se hrÄƒnesc cu insecte È™i seminÈ›e', 'PÄƒsÄƒri sociabile'],
       en: ['Red beak and red legs', 'Acrobatic flyers', 'Feed on insects and seeds', 'Sociable birds'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az alpesi havasi varjÃº vÃ¶rÃ¶s csÅ‘rÃ©rÅ‘l Ã©s lÃ¡bÃ¡rÃ³l ismerhetÅ‘ fel. A Canillo kÃ¶rÃ¼li legelÅ‘kÃ¶n nagy csapatokban lÃ¡thatÃ³ak. Akrobatikus repÃ¼lÃ©si kÃ©pessÃ©geik lenyÅ±gÃ¶zÅ‘ek. BiolÃ³gia K5 â€” madarak.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["VÃ¶rÃ¶s csÅ‘r Ã©s lÃ¡b.", "TÃ¡rsas madÃ¡r.", "LegelÅ‘k lakÃ³ja.", "Akrobatikus repÃ¼lÃ©s.", "Rovar- Ã©s magevÅ‘.", "Az andorrai hegyek rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-adder-snake-heathlands-extra',
@@ -723,6 +781,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Singurul È™arpe care se gÄƒseÈ™te pÃ¢nÄƒ la Cercul Polar', 'Model caracteristic Ã®n zig-zag', 'Vivipar', 'MuÈ™cÄƒtura este rarÄƒ È™i de obicei nu pune viaÈ›a Ã®n pericol'],
       en: ['Only snake found up to the Arctic Circle', 'Characteristic zigzag pattern', 'Viviparous (live birth)', 'Bite is rare and usually not life-threatening'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A keresztes vipera Sant JuliÃ  kÃ¶rnyÃ©kÃ©nek heidelandschaftjaiban Ã©l. MÃ©rgeskÃ­gyÃ³, jellegzetes cikk-cakk mintÃ¡zatÃ¡rÃ³l ismerhetÅ‘ fel. A hÅ±vÃ¶sebb, pÃ¡rÃ¡sabb terÃ¼leteket rÃ©szesÃ­ti elÅ‘nyben. BiolÃ³gia K8 â€” hÃ¼llÅ‘k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["MÃ©rgeskÃ­gyÃ³.", "Cikk-cakk mintÃ¡zat.", "Ã‰lÅ‘hely: pusztÃ¡k, erdÅ‘szÃ©lek.", "ElevenszÃ¼lÅ‘.", "Ritka marÃ¡s.", "Ã‰rzÃ©keny kÃ¶rnyezet."], ro: [], en: [] }
   },
   {
     id: 'ad-animal-habitat-tawny-owl-old-forests-extra',
@@ -747,711 +807,10 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Strict nocturn', 'PÄƒsÄƒri teritoriale', 'Chemarea tipicÄƒ "Huu-huu"', 'VÃ¢neazÄƒ mamifere mici È™i pÄƒsÄƒri'],
       en: ['Strictly nocturnal', 'Territorial birds', 'Typical "Hoo-hoo" call', 'Hunt small mammals and birds'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A macskabagoly Ordino idÅ‘s erdeinek titokzatos lakÃ³ja. Ã‰jszakai vadÃ¡sz, jellegzetes hÃ­vÃ¡sa Ã©jjel messzire hallatszik. FaÃ¼regekben neveli a fiÃ³kÃ¡it. BiolÃ³gia K8 â€” Ã©jszakai madarak.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Ã‰jszakai Ã©letmÃ³d.", "SajÃ¡t terÃ¼let.", "Jellegzetes 'HÃº-hÃº' hÃ­vÃ¡s.", "FaÃ¼regekben fÃ©szkel.", "RagadozÃ³ madÃ¡r.", "Az erdÅ‘ hangja."], ro: [], en: [] }
   },
-
-  // ===============================================================================================
-  // KID-LANDMARK (31)
-  // ===============================================================================================
-  {
-    id: 'ad-kid-landmark-naturlandia-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-06',
-    coords: [1.488, 42.441],
-    name: {
-      de: 'Naturlandia',
-      hu: 'Naturlandia',
-      ro: 'Naturlandia',
-      en: 'Naturlandia',
-    },
-    description: {
-      de: 'Ein Abenteuerpark in Sant JuliÃ  de LÃ²ria mit der lÃ¤ngsten alpinen Achterbahn der Welt, einem Tierpark und vielen anderen AktivitÃ¤ten fÃ¼r alle Altersgruppen.',
-      hu: 'Egy kalandpark Sant JuliÃ  de LÃ²riÃ¡ban, ahol a vilÃ¡g leghosszabb alpesi hullÃ¡mvasÃºtja, Ã¡llatpark Ã©s sok mÃ¡s tevÃ©kenysÃ©g talÃ¡lhatÃ³ minden korosztÃ¡ly szÃ¡mÃ¡ra.',
-      ro: 'Un parc de aventuri Ã®n Sant JuliÃ  de LÃ²ria, cu cel mai lung tobogan alpin din lume, un parc de animale È™i multe alte activitÄƒÈ›i pentru toate vÃ¢rstele.',
-      en: 'An adventure park in Sant JuliÃ  de LÃ²ria with the longest alpine coaster in the world, an animal park, and many other activities for all ages.',
-    },
-    facts: {
-      de: ['Tobotronc ist 5,3 km lang', 'Tierpark mit PyrenÃ¤en-Tieren', 'GanzjÃ¤hrig geÃ¶ffnet', 'Auf zwei HÃ¶henlagen verteilt'],
-      hu: ['A Tobotronc 5,3 km hosszÃº', 'Ãllatpark pireneusi Ã¡llatokkal', 'EgÃ©sz Ã©vben nyitva', 'KÃ©t magassÃ¡gi szinten terÃ¼l el'],
-      ro: ['Tobotronc are 5,3 km lungime', 'Parc de animale cu fauna pirenaicÄƒ', 'Deschis tot anul', 'ÃŽmpÄƒrÈ›it pe douÄƒ niveluri de altitudine'],
-      en: ['Tobotronc is 5.3 km long', 'Animal park with Pyrenean fauna', 'Open all year round', 'Spread over two altitude levels'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-caldea-likids-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-08',
-    coords: [1.54, 42.51],
-    name: {
-      de: 'Caldea Likids',
-      hu: 'Caldea Likids',
-      ro: 'Caldea Likids',
-      en: 'Caldea Likids',
-    },
-    description: {
-      de: 'Ein exklusiver Spa-Bereich innerhalb von Caldea nur fÃ¼r Kinder von 3 bis 8 Jahren, wo sie erste Spa-Erfahrungen mit Spielen und Workshops machen kÃ¶nnen.',
-      hu: 'Egy exkluzÃ­v wellness-rÃ©szleg a CaldeÃ¡n belÃ¼l, csak 3-8 Ã©ves gyerekeknek, ahol jÃ¡tÃ©kokkal Ã©s workshopokkal szerezhetik meg elsÅ‘ spa-Ã©lmÃ©nyeiket.',
-      ro: 'O zonÄƒ spa exclusivÄƒ Ã®n cadrul Caldea doar pentru copii Ã®ntre 3 È™i 8 ani, unde pot avea primele experienÈ›e spa cu jocuri È™i ateliere.',
-      en: 'An exclusive spa area within Caldea just for children aged 3 to 8, where they can have their first spa experiences with games and workshops.',
-    },
-    facts: {
-      de: ['Erster Thermal-Spa nur fÃ¼r Kinder', 'Beaufsichtigt von qualifizierten Betreuern', 'Eigene kleine Lagune und Sauna', 'Spa-Behandlungen fÃ¼r Kinder'],
-      hu: ['Az elsÅ‘, csak gyerekeknek szÃ³lÃ³ termÃ¡lfÃ¼rdÅ‘', 'KÃ©pzett felÃ¼gyelÅ‘k vigyÃ¡znak rÃ¡juk', 'SajÃ¡t kis lagÃºna Ã©s szauna', 'Gyerekeknek szÃ³lÃ³ wellness-kezelÃ©sek'],
-      ro: ['Primul spa termal doar pentru copii', 'Supravegheat de monitori calificaÈ›i', 'LagunÄƒ È™i saunÄƒ proprie', 'Tratamente spa pentru copii'],
-      en: ['First thermal spa just for children', 'Supervised by qualified monitors', 'Own small lagoon and sauna', 'Spa treatments for kids'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-palau-de-gel-canillo-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-02',
-    coords: [1.601, 42.566],
-    name: {
-      de: "Palau de Gel d'Andorra",
-      hu: 'Andorrai JÃ©gpalota',
-      ro: 'Palatul de GheaÈ›Äƒ din Andorra',
-      en: 'Ice Palace of Andorra',
-    },
-    description: {
-      de: 'Ein Eissportzentrum in Canillo mit einer olympischen Eisbahn zum Schlittschuhlaufen, Eishockey, Ice-Karting und anderen AktivitÃ¤ten.',
-      hu: 'Egy jÃ©gsportkÃ¶zpont CanillÃ³ban, olimpiai mÃ©retÅ± jÃ©gpÃ¡lyÃ¡val korcsolyÃ¡zÃ¡shoz, jÃ©gkoronghoz, jÃ©ggokarthoz Ã©s egyÃ©b tevÃ©kenysÃ©gekhez.',
-      ro: 'Un centru de sporturi pe gheaÈ›Äƒ Ã®n Canillo, cu un patinoar olimpic pentru patinaj, hochei, karting pe gheaÈ›Äƒ È™i alte activitÄƒÈ›i.',
-      en: 'An ice sports center in Canillo with an Olympic-sized ice rink for skating, ice hockey, ice karting, and other activities.',
-    },
-    facts: {
-      de: ['Olympische Eisbahn (1800 mÂ²)', 'Bietet Ice-Karting an', 'Beheiztes Schwimmbad und Fitnessraum', 'Restaurant mit Blick auf die Eisbahn'],
-      hu: ['Olimpiai jÃ©gpÃ¡lya (1800 mÂ²)', 'JÃ©ggokartozÃ¡si lehetÅ‘sÃ©g', 'FÅ±tÃ¶tt medence Ã©s edzÅ‘terem', 'Ã‰tterem kilÃ¡tÃ¡ssal a jÃ©gpÃ¡lyÃ¡ra'],
-      ro: ['Patinoar olimpic (1800 mÂ²)', 'OferÄƒ karting pe gheaÈ›Äƒ', 'Piscina Ã®ncÄƒlzitÄƒ È™i salÄƒ de sport', 'Restaurant cu vedere la patinoar'],
-      en: ['Olympic ice rink (1800 mÂ²)', 'Offers ice karting', 'Heated swimming pool and gym', 'Restaurant overlooking the rink'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-grandvalira-mont-magic-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-02',
-    coords: [1.66, 42.57],
-    name: {
-      de: 'Mont-MÃ gic Familienpark Canillo',
-      hu: 'Mont-MÃ gic CsalÃ¡di Park Canillo',
-      ro: 'Parcul familial Mont-MÃ gic Canillo',
-      en: 'Mont-MÃ gic Family Park Canillo',
-    },
-    description: {
-      de: 'Ein Themenbereich in Grandvalira (Sektor Canillo) fÃ¼r Kinder, mit einer langen Zipline, thematischen Skipisten und SommeraktivitÃ¤ten.',
-      hu: 'Egy tematikus terÃ¼let a GrandvalirÃ¡ban (Canillo szektor), gyerekeknek, hosszÃº drÃ³tkÃ¶tÃ©lpÃ¡lyÃ¡val, tematikus sÃ­pÃ¡lyÃ¡kkal Ã©s nyÃ¡ri programokkal.',
-      ro: 'O zonÄƒ tematicÄƒ Ã®n Grandvalira (sectorul Canillo) pentru copii, cu o tirolianÄƒ lungÄƒ, pÃ¢rtii de schi tematice È™i activitÄƒÈ›i de varÄƒ.',
-      en: 'A themed area in Grandvalira (Canillo sector) for children, featuring a long zip-line, themed ski slopes, and summer activities.',
-    },
-    facts: {
-      de: ['LÃ¤ngste Zipline der PyrenÃ¤en', 'Thematische Pisten basierend auf andorranischen Legenden', 'Im Sommer und Winter geÃ¶ffnet', 'FÃ¼r die ganze Familie'],
-      hu: ['A Pireneusok leghosszabb drÃ³tkÃ¶tÃ©lpÃ¡lyÃ¡ja', 'Andorrai legendÃ¡kon alapulÃ³ tematikus pÃ¡lyÃ¡k', 'NyÃ¡ron Ã©s tÃ©len is nyitva', 'Az egÃ©sz csalÃ¡dnak'],
-      ro: ['Cea mai lungÄƒ tirolianÄƒ din Pirinei', 'PÃ¢rtii tematice bazate pe legende andorrane', 'Deschis vara È™i iarna', 'Pentru Ã®ntreaga familie'],
-      en: ['Longest zip-line in the Pyrenees', 'Themed slopes based on Andorran legends', 'Open in summer and winter', 'For the whole family'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-vallnord-bike-park-la-massana-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-04',
-    coords: [1.514, 42.546],
-    name: {
-      de: 'Vallnord Bike Park La Massana',
-      hu: 'Vallnord KerÃ©kpÃ¡rpark La Massana',
-      ro: 'Vallnord Bike Park La Massana',
-      en: 'Vallnord Bike Park La Massana',
-    },
-    description: {
-      de: 'Einer der bekanntesten Mountainbike-Parks in Europa, mit Strecken fÃ¼r alle Niveaus, einschlieÃŸlich einer Kinder-Wood-Park.',
-      hu: 'EurÃ³pa egyik legismertebb hegyikerÃ©kpÃ¡r-parkja, minden szintnek megfelelÅ‘ pÃ¡lyÃ¡kkal, beleÃ©rtve egy gyerekeknek szÃ¡nt fa akadÃ¡lypÃ¡lyÃ¡t is.',
-      ro: 'Unul dintre cele mai renumite parcuri de mountain bike din Europa, cu trasee pentru toate nivelurile, inclusiv un parc de lemn pentru copii.',
-      en: "One of the most renowned mountain bike parks in Europe, with circuits for all levels, including a kids' wood park.",
-    },
-    facts: {
-      de: ['Austragungsort von Weltcup-Rennen', 'Mehr als 40 km Strecken', 'Four-cross, Downhill, Enduro', 'Bikeschule und Verleih'],
-      hu: ['VilÃ¡gkupa-versenyek helyszÃ­ne', 'TÃ¶bb mint 40 km pÃ¡lya', 'Four-cross, downhill, enduro', 'KerÃ©kpÃ¡riskola Ã©s kÃ¶lcsÃ¶nzÅ‘'],
-      ro: ['GÄƒzduieÈ™te etape de CupÄƒ MondialÄƒ', 'Peste 40 km de circuite', 'Four-cross, downhill, enduro', 'È˜coalÄƒ de ciclism È™i Ã®nchiriere'],
-      en: ['Host of World Cup races', 'More than 40 km of circuits', 'Four-cross, downhill, enduro', 'Bike school and rental'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-360-extrem-andorra-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.531, 42.508],
-    name: {
-      de: '360Âº Estrem - Indoor Freestyle Centre',
-      hu: '360Âº Estrem - BeltÃ©ri Freestyle KÃ¶zpont',
-      ro: '360Âº Estrem - Centru de Freestyle Interior',
-      en: '360Âº Estrem - Indoor Freestyle Centre',
-    },
-    description: {
-      de: 'Ein Indoor-Freestyle-Zentrum in Andorra la Vella, wo Kinder und Erwachsene Tricks auf Trampolinen, Skate-Rampen und in Schaumstoffgruben Ã¼ben kÃ¶nnen.',
-      hu: 'Egy beltÃ©ri freestyle kÃ¶zpont Andorra la VellÃ¡ban, ahol gyerekek Ã©s felnÅ‘ttek trÃ¼kkÃ¶ket gyakorolhatnak trambulinokon, gÃ¶rdeszka rÃ¡mpÃ¡kon Ã©s szivacsmedencÃ©kben.',
-      ro: 'Un centru de freestyle interior Ã®n Andorra la Vella, unde copiii È™i adulÈ›ii pot exersa scheme pe trambuline, rampe de skate È™i Ã®n bazine cu spumÄƒ.',
-      en: 'An indoor freestyle centre in Andorra la Vella where kids and adults can practice tricks on trampolines, skate ramps, and into foam pits.',
-    },
-    facts: {
-      de: ['FÃ¼r Skifahrer, Snowboarder, Skater', 'Sichere Umgebung zum Ãœben', 'Kurse und Camps verfÃ¼gbar', 'Geburtstagspartys mÃ¶glich'],
-      hu: ['SÃ­zÅ‘knek, snowboardosoknak, gÃ¶rdeszkÃ¡soknak', 'BiztonsÃ¡gos kÃ¶rnyezet a gyakorlÃ¡shoz', 'Tanfolyamok Ã©s tÃ¡borok elÃ©rhetÅ‘k', 'SzÃ¼letÃ©snapi bulik szervezhetÅ‘k'],
-      ro: ['Pentru schiori, snowboarderi, skateri', 'Mediu sigur pentru a exersa', 'Cursuri È™i tabere disponibile', 'Posibilitate de petreceri aniversare'],
-      en: ['For skiers, snowboarders, skaters', 'Safe environment to practice', 'Courses and camps available', 'Birthday parties possible'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-ordino-arcalis-family-park-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-05',
-    coords: [1.47, 42.63],
-    name: {
-      de: 'Ordino ArcalÃ­s Familienpark',
-      hu: 'Ordino ArcalÃ­s CsalÃ¡di Park',
-      ro: 'Parcul Familial Ordino ArcalÃ­s',
-      en: 'Ordino ArcalÃ­s Family Park',
-    },
-    description: {
-      de: 'Im Sommer bietet der Bereich um die Coma del Forat in ArcalÃ­s AktivitÃ¤ten wie Tubing, HÃ¼pfburgen und einen Seilgarten fÃ¼r Kinder.',
-      hu: 'NyÃ¡ron az ArcalÃ­sban talÃ¡lhatÃ³ Coma del Forat kÃ¶rnyÃ©ke olyan tevÃ©kenysÃ©geket kÃ­nÃ¡l, mint a tubing, ugrÃ¡lÃ³vÃ¡rak Ã©s egy kÃ¶tÃ©lpÃ¡lya gyerekeknek.',
-      ro: 'Vara, zona din jurul Coma del Forat din ArcalÃ­s oferÄƒ activitÄƒÈ›i precum tubing, castele gonflabile È™i un parc de aventurÄƒ pentru copii.',
-      en: 'In summer, the area around Coma del Forat in ArcalÃ­s offers activities like tubing, bouncy castles, and a rope garden for children.',
-    },
-    facts: {
-      de: ['Atemberaubende Hochgebirgslandschaft', 'AktivitÃ¤ten fÃ¼r jÃ¼ngere Kinder', 'Mit der Gondelbahn erreichbar', 'Ideal, um der Sommerhitze zu entfliehen'],
-      hu: ['LÃ©legzetelÃ¡llÃ­tÃ³ magashegyi tÃ¡j', 'Programok kisebb gyerekeknek', 'GondolÃ¡val elÃ©rhetÅ‘', 'IdeÃ¡lis a nyÃ¡ri hÅ‘sÃ©g elÅ‘l menekÃ¼lni'],
-      ro: ['Peisaj montan Ã®nalt uluitor', 'ActivitÄƒÈ›i pentru copiii mai mici', 'Accesibil cu telegondola', 'Ideal pentru a scÄƒpa de cÄƒldura verii'],
-      en: ['Breathtaking high mountain scenery', 'Activities for younger children', 'Accessible by gondola lift', 'Ideal to escape the summer heat'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-llorts-iron-mine-trail-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-05',
-    coords: [1.52, 42.59],
-    name: {
-      de: 'Eisenminen-Weg von Llorts',
-      hu: 'Llorts-i VasbÃ¡nya TanÃ¶svÃ©ny',
-      ro: 'Traseul Minei de Fier din Llorts',
-      en: 'Llorts Iron Mine Trail',
-    },
-    description: {
-      de: 'Ein einfacher Wanderweg, der dem Fluss folgt und die Geschichte des Eisenabbaus in Andorra mit Skulpturen und Informationstafeln erzÃ¤hlt.',
-      hu: 'Egy kÃ¶nnyÅ± tÃºraÃºtvonal a folyÃ³ mentÃ©n, amely szobrokkal Ã©s informÃ¡ciÃ³s tÃ¡blÃ¡kkal mesÃ©li el az andorrai vasbÃ¡nyÃ¡szat tÃ¶rtÃ©netÃ©t.',
-      ro: 'Un traseu uÈ™or de drumeÈ›ie care urmeazÄƒ rÃ¢ul È™i povesteÈ™te istoria mineritului de fier Ã®n Andorra cu sculpturi È™i panouri informative.',
-      en: "An easy walking trail that follows the river and tells the story of Andorra's iron mining history with sculptures and information panels.",
-    },
-    facts: {
-      de: ['Lehrreich und unterhaltsam', 'Flacher Weg, ideal fÃ¼r Familien', 'Skulpturen von verschiedenen KÃ¼nstlern', 'Beginnt im Dorf Llorts'],
-      hu: ['TanulsÃ¡gos Ã©s szÃ³rakoztatÃ³', 'SÃ­k Ãºt, ideÃ¡lis csalÃ¡doknak', 'KÃ¼lÃ¶nbÃ¶zÅ‘ mÅ±vÃ©szek szobrai', 'Llorts falubÃ³l indul'],
-      ro: ['Educativ È™i distractiv', 'Traseu plat, ideal pentru familii', 'Sculpturi de diverÈ™i artiÈ™ti', 'ÃŽncepe Ã®n satul Llorts'],
-      en: ['Educational and fun', 'Flat trail, ideal for families', 'Sculptures by various artists', 'Starts in the village of Llorts'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-parc-central-andorra-la-vella-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.527, 42.505],
-    name: {
-      de: 'Parc Central in Andorra la Vella',
-      hu: 'KÃ¶zponti Park Andorra la VellÃ¡ban',
-      ro: 'Parcul Central din Andorra la Vella',
-      en: 'Central Park in Andorra la Vella',
-    },
-    description: {
-      de: 'Eine groÃŸe GrÃ¼nflÃ¤che im Herzen der Hauptstadt mit einem groÃŸen Spielplatz, Spazierwegen und viel Platz zum Toben.',
-      hu: 'Egy nagy zÃ¶ldterÃ¼let a fÅ‘vÃ¡ros szÃ­vÃ©ben, nagy jÃ¡tszÃ³tÃ©rrel, sÃ©tautakkal Ã©s rengeteg hellyel a szaladgÃ¡lÃ¡shoz.',
-      ro: 'O zonÄƒ verde mare Ã®n inima capitalei, cu un loc de joacÄƒ mare, alei de plimbare È™i mult spaÈ›iu pentru a alerga.',
-      en: 'A large green space in the heart of the capital with a big playground, walking paths, and plenty of room to run around.',
-    },
-    facts: {
-      de: ['StÃ¤dtische Oase', 'Moderner und sicherer Spielplatz', 'Oft Schauplatz fÃ¼r Veranstaltungen', 'CafÃ© in der NÃ¤he'],
-      hu: ['VÃ¡rosi oÃ¡zis', 'Modern Ã©s biztonsÃ¡gos jÃ¡tszÃ³tÃ©r', 'Gyakran rendezvÃ©nyek helyszÃ­ne', 'KÃ¡vÃ©zÃ³ a kÃ¶zelben'],
-      ro: ['OazÄƒ urbanÄƒ', 'Loc de joacÄƒ modern È™i sigur', 'Adesea gazdÄƒ pentru evenimente', 'Cafenea Ã®n apropiere'],
-      en: ['Urban oasis', 'Modern and safe playground', 'Often hosts events', 'CafÃ© nearby'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-escape-room-andorra-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-08',
-    coords: [1.538, 42.512],
-    name: {
-      de: 'Escape Room Andorra',
-      hu: 'SzabadulÃ³szoba Andorra',
-      ro: 'Escape Room Andorra',
-      en: 'Escape Room Andorra',
-    },
-    description: {
-      de: 'Mehrere Escape Rooms in Escaldes und Andorra la Vella bieten thematische RÃ¤tsel, die fÃ¼r Ã¤ltere Kinder und Teenager eine tolle Herausforderung sind.',
-      hu: 'SzÃ¡mos szabadulÃ³szoba Escaldesben Ã©s Andorra la VellÃ¡ban tematikus rejtvÃ©nyeket kÃ­nÃ¡l, amelyek nagyszerÅ± kihÃ­vÃ¡st jelentenek az idÅ‘sebb gyerekek Ã©s tinÃ©dzserek szÃ¡mÃ¡ra.',
-      ro: 'Mai multe camere de evadare din Escaldes È™i Andorra la Vella oferÄƒ puzzle-uri tematice care sunt o provocare excelentÄƒ pentru copiii mai mari È™i adolescenÈ›i.',
-      en: 'Several escape rooms in Escaldes and Andorra la Vella offer themed puzzles that are a great challenge for older kids and teenagers.',
-    },
-    facts: {
-      de: ['FÃ¶rdert Teamarbeit und Logik', 'Verschiedene Themen und Schwierigkeitsgrade', 'Eine Stunde voller Spannung', 'Buchung im Voraus empfohlen'],
-      hu: ['Fejleszti a csapatmunkÃ¡t Ã©s a logikÃ¡t', 'KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ©mÃ¡k Ã©s nehÃ©zsÃ©gi szintek', 'Egy Ã³ra tele izgalommal', 'ElÅ‘zetes foglalÃ¡s ajÃ¡nlott'],
-      ro: ['PromoveazÄƒ munca Ã®n echipÄƒ È™i logica', 'Diverse teme È™i niveluri de dificultate', 'O orÄƒ plinÄƒ de suspans', 'Se recomandÄƒ rezervarea Ã®n avans'],
-      en: ['Promotes teamwork and logic', 'Various themes and difficulty levels', 'An hour of excitement', 'Booking in advance is recommended'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-ciutadella-dels-nens-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.517, 42.507],
-    name: {
-      de: 'Ciutadella dels Nens',
-      hu: 'Gyerekek FellegvÃ¡ra',
-      ro: 'Cetatea Copiilor',
-      en: 'Citadel of Children',
-    },
-    description: {
-      de: 'Ein riesiger Indoor-Spielplatz in Andorra la Vella mit Rutschen, Ballpools und Kletterstrukturen fÃ¼r Kinder jeden Alters.',
-      hu: 'Egy hatalmas beltÃ©ri jÃ¡tszÃ³hÃ¡z Andorra la VellÃ¡ban csÃºszdÃ¡kkal, labdamedencÃ©kkel Ã©s mÃ¡szÃ³ka-struktÃºrÃ¡kkal minden korosztÃ¡ly szÃ¡mÃ¡ra.',
-      ro: 'Un loc de joacÄƒ interior uriaÈ™ Ã®n Andorra la Vella cu tobogane, piscine cu bile È™i structuri de cÄƒÈ›Äƒrat pentru copii de toate vÃ¢rstele.',
-      en: 'A huge indoor playground in Andorra la Vella with slides, ball pits, and climbing structures for children of all ages.',
-    },
-    facts: {
-      de: ['Ideal fÃ¼r Regentage', 'Separater Bereich fÃ¼r Kleinkinder', 'Cafeteria fÃ¼r Eltern', 'Sicher und Ã¼berwacht'],
-      hu: ['IdeÃ¡lis esÅ‘s napokra', 'KÃ¼lÃ¶n rÃ©sz a kisgyermekeknek', 'KÃ¡vÃ©zÃ³ a szÃ¼lÅ‘knek', 'BiztonsÃ¡gos Ã©s felÃ¼gyelt'],
-      ro: ['Ideal pentru zilele ploioase', 'ZonÄƒ separatÄƒ pentru copiii mici', 'Cafenea pentru pÄƒrinÈ›i', 'Sigur È™i supravegheat'],
-      en: ['Ideal for rainy days', 'Separate area for toddlers', 'Cafeteria for parents', 'Safe and supervised'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-tristaina-solar-viewpoint-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-05',
-    coords: [1.47, 42.64],
-    name: {
-      de: 'Sonnenuhren-Aussichtspunkt Tristaina',
-      hu: 'Tristaina NapÃ³ra KilÃ¡tÃ³',
-      ro: 'Punctul de vedere solar Tristaina',
-      en: 'Tristaina Solar Viewpoint',
-    },
-    description: {
-      de: 'Eine beeindruckende Ringstruktur auf einem Berggipfel, die als Sonnenuhr fungiert. Die Fahrt mit der Gondel und dem Sessellift ist bereits ein Abenteuer fÃ¼r Kinder.',
-      hu: 'Egy lenyÅ±gÃ¶zÅ‘ gyÅ±rÅ±s szerkezet egy hegycsÃºcson, amely napÃ³rakÃ©nt funkcionÃ¡l. A gondolÃ¡s Ã©s Ã¼lÅ‘liftes utazÃ¡s mÃ¡r Ã¶nmagÃ¡ban is kaland a gyerekeknek.',
-      ro: 'O structurÄƒ inelarÄƒ impresionantÄƒ pe un vÃ¢rf de munte care funcÈ›ioneazÄƒ ca un ceas solar. CÄƒlÄƒtoria cu telegondola È™i telescaunul este deja o aventurÄƒ pentru copii.',
-      en: 'An impressive ring structure on a mountain peak that acts as a sundial. The gondola and chairlift ride to get there is an adventure for kids itself.',
-    },
-    facts: {
-      de: ['360-Grad-Panoramablick', 'Lehrreich Ã¼ber die Zeitmessung', 'Erreichbar mit Seilbahnen', 'HÃ¶he von 2.701 Metern'],
-      hu: ['360 fokos panorÃ¡mÃ¡s kilÃ¡tÃ¡s', 'TanulsÃ¡gos az idÅ‘mÃ©rÃ©srÅ‘l', 'FelvonÃ³kkal elÃ©rhetÅ‘', '2701 mÃ©teres magassÃ¡g'],
-      ro: ['Vedere panoramicÄƒ de 360 de grade', 'Educativ despre mÄƒsurarea timpului', 'Accesibil cu instalaÈ›ii pe cablu', 'Altitudine de 2.701 metri'],
-      en: ['360-degree panoramic view', 'Educational about timekeeping', 'Accessible by cable cars', 'Altitude of 2,701 meters'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-fontaneda-climbing-area-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-06',
-    coords: [1.46, 42.45],
-    name: {
-      de: 'Klettergebiet Fontaneda',
-      hu: 'Fontaneda MÃ¡szÃ³hely',
-      ro: 'Zona de cÄƒÈ›Äƒrare Fontaneda',
-      en: 'Fontaneda Climbing Area',
-    },
-    description: {
-      de: 'Ein Klettergebiet mit vielen einfachen Routen, die sich gut fÃ¼r Familien und AnfÃ¤nger eignen, um erste Erfahrungen am Fels zu sammeln.',
-      hu: 'Egy mÃ¡szÃ³hely szÃ¡mos kÃ¶nnyÅ± Ãºtvonallal, amelyek kivÃ¡lÃ³an alkalmasak csalÃ¡dok Ã©s kezdÅ‘k szÃ¡mÃ¡ra, hogy megszerezzÃ©k elsÅ‘ sziklamÃ¡szÃ³ Ã©lmÃ©nyeiket.',
-      ro: 'O zonÄƒ de cÄƒÈ›Äƒrare cu multe trasee uÈ™oare, potrivite pentru familii È™i Ã®ncepÄƒtori pentru a avea primele experienÈ›e pe stÃ¢ncÄƒ.',
-      en: 'A climbing area with many easy routes suitable for families and beginners to have their first experience on rock.',
-    },
-    facts: {
-      de: ['Sonnige SÃ¼dausrichtung', 'Kalkstein-Felsen', 'Routen fÃ¼r alle Schwierigkeitsgrade', 'WunderschÃ¶ne Umgebung'],
-      hu: ['Napos dÃ©li fekvÃ©s', 'MÃ©szkÅ‘sziklÃ¡k', 'Ãštvonalak minden nehÃ©zsÃ©gi szinten', 'GyÃ¶nyÃ¶rÅ± kÃ¶rnyezet'],
-      ro: ['Expunere sudicÄƒ Ã®nsoritÄƒ', 'StÃ¢nci de calcar', 'Trasee pentru toate nivelurile', 'ÃŽmprejurimi frumoase'],
-      en: ['Sunny southern exposure', 'Limestone rock', 'Routes for all levels', 'Beautiful surroundings'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-engolasters-lake-adventure-park-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.56, 42.51],
-    name: {
-      de: 'Abenteuerpark am Engolasters-See',
-      hu: 'Engolasters-tavi Kalandpark',
-      ro: 'Parcul de aventurÄƒ de la lacul Engolasters',
-      en: 'Engolasters Lake Adventure Park',
-    },
-    description: {
-      de: 'Ein Seilgarten in den BÃ¤umen am Ufer des Engolasters-Sees, der verschiedene Parcours fÃ¼r unterschiedliche Alters- und FÃ¤higkeitsstufen bietet.',
-      hu: 'Egy kÃ¶tÃ©lpÃ¡lya a fÃ¡kon az Engolasters-tÃ³ partjÃ¡n, amely kÃ¼lÃ¶nbÃ¶zÅ‘ pÃ¡lyÃ¡kat kÃ­nÃ¡l kÃ¼lÃ¶nbÃ¶zÅ‘ korÃº Ã©s kÃ©pessÃ©gÅ± gyerekeknek.',
-      ro: 'Un parc de aventurÄƒ Ã®n copaci pe malul lacului Engolasters, care oferÄƒ diverse circuite pentru diferite vÃ¢rste È™i niveluri de Ã®ndemÃ¢nare.',
-      en: 'A treetop rope course on the shores of Engolasters Lake, offering various circuits for different ages and skill levels.',
-    },
-    facts: {
-      de: ['Parcours fÃ¼r Kinder ab 4 Jahren', 'Zip-Lines Ã¼ber dem Wald', 'WunderschÃ¶ne Lage am See', 'SicherheitsausrÃ¼stung wird gestellt'],
-      hu: ['PÃ¡lyÃ¡k 4 Ã©ves kortÃ³l', 'DrÃ³tkÃ¶tÃ©lpÃ¡lyÃ¡k az erdÅ‘ felett', 'GyÃ¶nyÃ¶rÅ± elhelyezkedÃ©s a tÃ³nÃ¡l', 'BiztonsÃ¡gi felszerelÃ©st biztosÃ­tanak'],
-      ro: ['Circuite pentru copii de la 4 ani', 'Tiroliene deasupra pÄƒdurii', 'LocaÈ›ie frumoasÄƒ pe malul lacului', 'Echipamentul de siguranÈ›Äƒ este furnizat'],
-      en: ['Courses for children from 4 years old', 'Zip-lines over the forest', 'Beautiful lakeside location', 'Safety equipment is provided'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-sledging-slopes-grau-roig-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.7, 42.53],
-    name: {
-      de: 'SchlittenhÃ¤nge Grau Roig',
-      hu: 'SzÃ¡nkÃ³pÃ¡lyÃ¡k Grau Roig',
-      ro: 'PÃ¢rtii de sanie Grau Roig',
-      en: 'Sledging Slopes Grau Roig',
-    },
-    description: {
-      de: 'Speziell prÃ¤parierte und gesicherte Pisten im Skigebiet Grandvalira-Grau Roig, die ausschlieÃŸlich dem RodelspaÃŸ fÃ¼r die ganze Familie gewidmet sind.',
-      hu: 'Kifejezetten elÅ‘kÃ©szÃ­tett Ã©s biztonsÃ¡gos pÃ¡lyÃ¡k a Grandvalira-Grau Roig sÃ­terepen, amelyek kizÃ¡rÃ³lag a szÃ¡nkÃ³zÃ¡s Ã¶rÃ¶mÃ©re vannak fenntartva az egÃ©sz csalÃ¡d szÃ¡mÃ¡ra.',
-      ro: 'PÃ¢rtii special pregÄƒtite È™i securizate Ã®n staÈ›iunea de schi Grandvalira-Grau Roig, dedicate exclusiv distracÈ›iei pe sanie pentru Ã®ntreaga familie.',
-      en: 'Specially prepared and secured slopes in the Grandvalira-Grau Roig ski area, dedicated exclusively to sledging fun for the whole family.',
-    },
-    facts: {
-      de: ['Sicherer Bereich abseits der Skipisten', 'Zauberteppich-Lift', 'Schlittenverleih vor Ort', 'Ideal fÃ¼r kleine Kinder'],
-      hu: ['BiztonsÃ¡gos terÃ¼let a sÃ­pÃ¡lyÃ¡ktÃ³l tÃ¡vol', 'VarÃ¡zsszÅ‘nyeg-lift', 'HelyszÃ­ni szÃ¡nkÃ³kÃ¶lcsÃ¶nzÃ©s', 'IdeÃ¡lis kisgyerekeknek'],
-      ro: ['ZonÄƒ sigurÄƒ, separatÄƒ de pÃ¢rtiile de schi', 'BandÄƒ transportoare', 'ÃŽnchiriere de sÄƒnii la faÈ›a locului', 'Ideal pentru copiii mici'],
-      en: ['Safe area away from ski slopes', 'Magic carpet lift', 'Sledge rental on site', 'Ideal for young children'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-bowling-andorra-la-vella-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.52, 42.5],
-    name: {
-      de: 'Bowling in Andorra la Vella',
-      hu: 'Bowling Andorra la VellÃ¡ban',
-      ro: 'Bowling Ã®n Andorra la Vella',
-      en: 'Bowling in Andorra la Vella',
-    },
-    description: {
-      de: 'Eine moderne Bowlingbahn, die SpaÃŸ fÃ¼r die ganze Familie bietet, oft kombiniert mit Arcade-Spielen und einem Restaurant.',
-      hu: 'Egy modern bowlingpÃ¡lya, amely szÃ³rakozÃ¡st nyÃºjt az egÃ©sz csalÃ¡dnak, gyakran jÃ¡tÃ©ktermi jÃ¡tÃ©kokkal Ã©s Ã©tteremmel kombinÃ¡lva.',
-      ro: 'O pistÄƒ de bowling modernÄƒ care oferÄƒ distracÈ›ie pentru Ã®ntreaga familie, adesea combinatÄƒ cu jocuri arcade È™i un restaurant.',
-      en: 'A modern bowling alley that offers fun for the whole family, often combined with arcade games and a restaurant.',
-    },
-    facts: {
-      de: ['Bahnen mit Bumpern fÃ¼r Kinder', 'Leichte Kugeln verfÃ¼gbar', 'Unterhaltung fÃ¼r alle Altersgruppen', 'Perfekt fÃ¼r einen Abend'],
-      hu: ['Gyerekeknek korlÃ¡tokkal ellÃ¡tott pÃ¡lyÃ¡k', 'KÃ¶nnyÅ± golyÃ³k elÃ©rhetÅ‘k', 'SzÃ³rakozÃ¡s minden korosztÃ¡lynak', 'TÃ¶kÃ©letes egy estÃ©re'],
-      ro: ['Piste cu bare de protecÈ›ie pentru copii', 'Bile uÈ™oare disponibile', 'Divertisment pentru toate vÃ¢rstele', 'Perfect pentru o searÄƒ'],
-      en: ['Lanes with bumpers for kids', 'Light balls available', 'Entertainment for all ages', 'Perfect for an evening out'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-horse-riding-la-massana-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-04',
-    coords: [1.49, 42.55],
-    name: {
-      de: 'Reiten in La Massana',
-      hu: 'LovaglÃ¡s La MassanÃ¡ban',
-      ro: 'EchitaÈ›ie Ã®n La Massana',
-      en: 'Horse Riding in La Massana',
-    },
-    description: {
-      de: 'Mehrere ReitstÃ¤lle in La Massana bieten Ausritte und Ponyreiten fÃ¼r Kinder in der wunderschÃ¶nen Berglandschaft an.',
-      hu: 'SzÃ¡mos lovarda La MassanÃ¡ban kÃ­nÃ¡l lovas tÃºrÃ¡kat Ã©s pÃ³nilovaglÃ¡st gyerekeknek a gyÃ¶nyÃ¶rÅ± hegyi tÃ¡jon.',
-      ro: 'Mai multe centre de echitaÈ›ie din La Massana oferÄƒ plimbÄƒri cÄƒlare È™i plimbÄƒri cu ponei pentru copii Ã®n peisajul montan superb.',
-      en: 'Several equestrian centers in La Massana offer trail rides and pony rides for children in the beautiful mountain scenery.',
-    },
-    facts: {
-      de: ['FÃ¼r AnfÃ¤nger und Fortgeschrittene', 'Ponyreiten fÃ¼r die Kleinsten', 'GefÃ¼hrte Touren durch die Natur', 'Eine andere Art, die Berge zu entdecken'],
-      hu: ['KezdÅ‘knek Ã©s haladÃ³knak', 'PÃ³nilovaglÃ¡s a legkisebbeknek', 'Vezetett tÃºrÃ¡k a termÃ©szetben', 'A hegyek felfedezÃ©sÃ©nek egy mÃ¡sik mÃ³dja'],
-      ro: ['Pentru Ã®ncepÄƒtori È™i avansaÈ›i', 'PlimbÄƒri cu ponei pentru cei mici', 'Tururi ghidate prin naturÄƒ', 'Un mod diferit de a descoperi munÈ›ii'],
-      en: ['For beginners and advanced riders', 'Pony rides for the little ones', 'Guided tours through nature', 'A different way to discover the mountains'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-incles-valley-legend-trail-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-02',
-    coords: [1.68, 42.6],
-    name: {
-      de: 'Legenden-Weg im Incles-Tal',
-      hu: 'Incles-vÃ¶lgyi LegendaÃ¶svÃ©ny',
-      ro: 'Traseul legendelor din Valea Incles',
-      en: 'Incles Valley Legend Trail',
-    },
-    description: {
-      de: 'Ein einfacher Wanderweg, auf dem Kinder Figuren aus andorranischen Mythen und Legenden entdecken kÃ¶nnen, die im Wald versteckt sind.',
-      hu: 'Egy kÃ¶nnyÅ± tÃºraÃºtvonal, ahol a gyerekek felfedezhetik az andorrai mÃ­toszok Ã©s legendÃ¡k erdei rejtekhelyen megbÃºvÃ³ alakjait.',
-      ro: 'Un traseu de drumeÈ›ie uÈ™or unde copiii pot descoperi personaje din miturile È™i legendele andorrane ascunse Ã®n pÄƒdure.',
-      en: 'An easy walking trail where children can discover characters from Andorran myths and legends hidden in the woods.',
-    },
-    facts: {
-      de: ['Macht Wandern fÃ¼r Kinder spannend', 'WunderschÃ¶nes Gletschertal', 'Kostenlose AktivitÃ¤t', 'Im Sommer mit einem Elektrozug erreichbar'],
-      hu: ['IzgalmassÃ¡ teszi a tÃºrÃ¡zÃ¡st a gyerekek szÃ¡mÃ¡ra', 'GyÃ¶nyÃ¶rÅ± gleccservÃ¶lgy', 'Ingyenes program', 'NyÃ¡ron elektromos kisvonattal is megkÃ¶zelÃ­thetÅ‘'],
-      ro: ['Face drumeÈ›iile interesante pentru copii', 'Valea glaciarÄƒ superbÄƒ', 'Activitate gratuitÄƒ', 'Accesibil cu un tren electric vara'],
-      en: ['Makes hiking exciting for children', 'Beautiful glacial valley', 'Free activity', 'Accessible by an electric train in summer'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-mushing-grandvalira-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.71, 42.53],
-    name: {
-      de: 'Hundeschlittenfahrten in Grandvalira',
-      hu: 'KutyaszÃ¡nozÃ¡s GrandvalirÃ¡ban',
-      ro: 'Mushing Ã®n Grandvalira',
-      en: 'Mushing in Grandvalira',
-    },
-    description: {
-      de: 'Erleben Sie eine unvergessliche Fahrt mit dem Hundeschlitten durch die verschneiten WÃ¤lder von Grandvalira, ein Abenteuer fÃ¼r die ganze Familie.',
-      hu: 'Ã‰ljen Ã¡t egy felejthetetlen kutyaszÃ¡nos utazÃ¡st a Grandvalira havas erdÅ‘in keresztÃ¼l, egy kaland az egÃ©sz csalÃ¡d szÃ¡mÃ¡ra.',
-      ro: 'ExperimentaÈ›i o plimbare de neuitat cu sania trasÄƒ de cÃ¢ini prin pÄƒdurile Ã®nzÄƒpezite din Grandvalira, o aventurÄƒ pentru Ã®ntreaga familie.',
-      en: 'Experience an unforgettable dog sled ride through the snowy forests of Grandvalira, an adventure for the whole family.',
-    },
-    facts: {
-      de: ['GefÃ¼hrt von einem professionellen Musher', 'Verschiedene StreckenlÃ¤ngen', 'Lernen Sie die Schlittenhunde kennen', 'Einzigartiges Wintererlebnis'],
-      hu: ['ProfesszionÃ¡lis musher vezetÃ©sÃ©vel', 'KÃ¼lÃ¶nbÃ¶zÅ‘ hosszÃºsÃ¡gÃº Ãºtvonalak', 'Ismerje meg a szÃ¡nhÃºzÃ³ kutyÃ¡kat', 'EgyedÃ¼lÃ¡llÃ³ tÃ©li Ã©lmÃ©ny'],
-      ro: ['Condus de un musher profesionist', 'Diferite lungimi de traseu', 'FaceÈ›i cunoÈ™tinÈ›Äƒ cu cÃ¢inii de sanie', 'ExperienÈ›Äƒ unicÄƒ de iarnÄƒ'],
-      en: ['Led by a professional musher', 'Different route lengths', 'Get to know the sled dogs', 'Unique winter experience'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-roc-del-quer-viewpoint-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-02',
-    coords: [1.61, 42.58],
-    name: {
-      de: 'Aussichtsplattform Roc del Quer',
-      hu: 'Roc del Quer KilÃ¡tÃ³',
-      ro: 'Punctul de vedere Roc del Quer',
-      en: 'Roc del Quer Viewpoint',
-    },
-    description: {
-      de: 'Eine spektakulÃ¤re Aussichtsplattform, die Ã¼ber einer Klippe schwebt und einen Glasboden hat. Aufregend fÃ¼r schwindelfreie Kinder und Erwachsene.',
-      hu: 'Egy lÃ¡tvÃ¡nyos kilÃ¡tÃ³terasz, amely egy szikla fÃ¶lÃ¶tt lebeg Ã©s Ã¼vegpadlÃ³val rendelkezik. Izgalmas a szÃ©dÃ¼lÃ©stÅ‘l nem fÃ©lÅ‘ gyerekeknek Ã©s felnÅ‘tteknek.',
-      ro: 'O platformÄƒ de observare spectaculoasÄƒ care pluteÈ™te deasupra unei stÃ¢nci È™i are o podea de sticlÄƒ. EmoÈ›ionant pentru copiii È™i adulÈ›ii fÄƒrÄƒ rÄƒu de Ã®nÄƒlÈ›ime.',
-      en: 'A spectacular viewing platform that floats over a cliff and has a glass floor section. Exciting for kids and adults who are not afraid of heights.',
-    },
-    facts: {
-      de: ['20 Meter langer Steg, 12 davon in der Luft', 'Statue eines Denkers am Ende', 'Panoramablick auf das Tal', 'Leicht mit dem Auto erreichbar'],
-      hu: ['20 mÃ©ter hosszÃº stÃ©g, ebbÅ‘l 12 a levegÅ‘ben', 'Egy gondolkodÃ³ szobra a vÃ©gÃ©n', 'PanorÃ¡mÃ¡s kilÃ¡tÃ¡s a vÃ¶lgyre', 'KÃ¶nnyen megkÃ¶zelÃ­thetÅ‘ autÃ³val'],
-      ro: ['PasarelÄƒ de 20 de metri, dintre care 12 Ã®n aer', 'Statuia unui gÃ¢nditor la capÄƒt', 'Vedere panoramicÄƒ asupra vÄƒii', 'UÈ™or accesibil cu maÈ™ina'],
-      en: ['20-meter walkway, 12 of which are in the air', 'Statue of a thinker at the end', 'Panoramic view of the valley', 'Easily accessible by car'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-outdoor-swimming-pool-escaldes-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-08',
-    coords: [1.545, 42.51],
-    name: {
-      de: 'Freibad Escaldes',
-      hu: 'SzabadtÃ©ri Uszoda Escaldes',
-      ro: 'Piscina exterioarÄƒ Escaldes',
-      en: 'Outdoor Swimming Pool Escaldes',
-    },
-    description: {
-      de: 'Im Sommer ist das stÃ¤dtische Freibad in Escaldes ein beliebter Treffpunkt fÃ¼r Familien, um sich abzukÃ¼hlen und SpaÃŸ zu haben.',
-      hu: 'NyÃ¡ron az escaldesi vÃ¡rosi strand egy nÃ©pszerÅ± talÃ¡lkozÃ³hely a csalÃ¡dok szÃ¡mÃ¡ra a hÅ±sÃ¶lÃ©sre Ã©s a szÃ³rakozÃ¡sra.',
-      ro: 'Vara, piscina municipalÄƒ Ã®n aer liber din Escaldes este un loc popular pentru familii pentru a se rÄƒcori È™i a se distra.',
-      en: 'In summer, the municipal outdoor swimming pool in Escaldes is a popular spot for families to cool off and have fun.',
-    },
-    facts: {
-      de: ['GroÃŸes Becken und Kinderbecken', 'Liegewiese zum Sonnenbaden', 'Blick auf die umliegenden Berge', 'Bietet im Sommer Erfrischung'],
-      hu: ['Nagy medence Ã©s gyerekmedence', 'NapozÃ³ gyep', 'KilÃ¡tÃ¡s a kÃ¶rnyezÅ‘ hegyekre', 'NyÃ¡ri felfrissÃ¼lÃ©st kÃ­nÃ¡l'],
-      ro: ['Bazin mare È™i bazin pentru copii', 'ZonÄƒ de plajÄƒ pentru plajÄƒ', 'Vedere la munÈ›ii din jur', 'OferÄƒ rÄƒcorire Ã®n timpul verii'],
-      en: ["Large pool and children's pool", 'Lawn for sunbathing', 'Views of the surrounding mountains', 'Offers refreshment in summer'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-mini-golf-ordino-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-05',
-    coords: [1.53, 42.55],
-    name: {
-      de: 'Minigolf Ordino',
-      hu: 'Minigolf Ordino',
-      ro: 'Minigolf Ordino',
-      en: 'Mini Golf Ordino',
-    },
-    description: {
-      de: 'Eine Minigolfanlage in Ordino, die in einer schÃ¶nen Gartenanlage liegt und eine unterhaltsame AktivitÃ¤t fÃ¼r die ganze Familie darstellt.',
-      hu: 'Egy minigolf pÃ¡lya OrdinÃ³ban, egy szÃ©p kertben, amely szÃ³rakoztatÃ³ tevÃ©kenysÃ©get nyÃºjt az egÃ©sz csalÃ¡dnak.',
-      ro: 'Un teren de minigolf Ã®n Ordino, situat Ã®ntr-o grÄƒdinÄƒ frumoasÄƒ, care este o activitate distractivÄƒ pentru Ã®ntreaga familie.',
-      en: 'A mini-golf course in Ordino, set in a beautiful garden, which is a fun activity for the whole family.',
-    },
-    facts: {
-      de: ['18-Loch-Bahn', 'Geeignet fÃ¼r alle Altersgruppen', 'Oft weniger Ã¼berlaufen als andere Attraktionen', 'Kombinierbar mit einem Spaziergang in Ordino'],
-      hu: ['18 lyukÃº pÃ¡lya', 'Minden korosztÃ¡ly szÃ¡mÃ¡ra alkalmas', 'Gyakran kevÃ©sbÃ© zsÃºfolt, mint mÃ¡s lÃ¡tnivalÃ³k', 'Ã–sszekÃ¶thetÅ‘ egy ordinÃ³i sÃ©tÃ¡val'],
-      ro: ['Teren cu 18 gÄƒuri', 'Potrivit pentru toate vÃ¢rstele', 'Adesea mai puÈ›in aglomerat decÃ¢t alte atracÈ›ii', 'Poate fi combinat cu o plimbare Ã®n Ordino'],
-      en: ['18-hole course', 'Suitable for all ages', 'Often less crowded than other attractions', 'Can be combined with a walk in Ordino'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-cisa-car-museum-encamp-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.58, 42.53],
-    name: {
-      de: 'Nationales Automobilmuseum',
-      hu: 'Nemzeti AutÃ³mÃºzeum',
-      ro: 'Muzeul NaÈ›ional al Automobilului',
-      en: 'National Automobile Museum',
-    },
-    description: {
-      de: 'Ein Museum in Encamp, das eine beeindruckende Sammlung von Oldtimern, MotorrÃ¤dern und FahrrÃ¤dern zeigt und auch fÃ¼r Kinder interessant ist.',
-      hu: 'Egy encamp-i mÃºzeum, amely lenyÅ±gÃ¶zÅ‘ gyÅ±jtemÃ©nyt mutat be veterÃ¡n autÃ³kbÃ³l, motorkerÃ©kpÃ¡rokbÃ³l Ã©s kerÃ©kpÃ¡rokbÃ³l, Ã©s a gyerekek szÃ¡mÃ¡ra is Ã©rdekes.',
-      ro: 'Un muzeu Ã®n Encamp care prezintÄƒ o colecÈ›ie impresionantÄƒ de maÈ™ini de epocÄƒ, motociclete È™i biciclete, interesant È™i pentru copii.',
-      en: 'A museum in Encamp that displays an impressive collection of vintage cars, motorcycles, and bicycles, which is also interesting for children.',
-    },
-    facts: {
-      de: ['Fahrzeuge vom Dampfauto bis zu den 1970ern', 'Eines der wichtigsten Automuseen SÃ¼deuropas', 'Interaktive Elemente', 'Gute Schlechtwetter-Alternative'],
-      hu: ['JÃ¡rmÅ±vek a gÅ‘zkocsitÃ³l az 1970-es Ã©vekig', 'DÃ©l-EurÃ³pa egyik legfontosabb autÃ³mÃºzeuma', 'InteraktÃ­v elemek', 'JÃ³ alternatÃ­va rossz idÅ‘ esetÃ©n'],
-      ro: ['Vehicule de la maÈ™ina cu aburi pÃ¢nÄƒ Ã®n anii 1970', 'Unul dintre cele mai importante muzee auto din sudul Europei', 'Elemente interactive', 'AlternativÄƒ bunÄƒ pe vreme rea'],
-      en: ['Vehicles from the steam car to the 1970s', "One of Southern Europe's most important car museums", 'Interactive elements', 'Good bad-weather alternative'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-electric-bike-green-ring-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.5, 42.48],
-    name: {
-      de: 'E-Bike auf dem GrÃ¼nen Ring',
-      hu: 'E-biciklizÃ©s a ZÃ¶ld GyÅ±rÅ±n',
-      ro: 'BicicletÄƒ electricÄƒ pe Inelul Verde',
-      en: 'E-Bike on the Green Ring',
-    },
-    description: {
-      de: 'Mieten Sie E-Bikes fÃ¼r die ganze Familie und erkunden Sie den "GrÃ¼nen Ring", ein Netz von Wegen rund um Andorra la Vella und Escaldes.',
-      hu: 'BÃ©reljenek e-biciklit az egÃ©sz csalÃ¡dnak, Ã©s fedezzÃ©k fel a "ZÃ¶ld GyÅ±rÅ±t", egy ÃºthÃ¡lÃ³zatot Andorra la Vella Ã©s Escaldes kÃ¶rÃ¼l.',
-      ro: 'ÃŽnchiriaÈ›i biciclete electrice pentru Ã®ntreaga familie È™i exploraÈ›i "Inelul Verde", o reÈ›ea de poteci Ã®n jurul Andorra la Vella È™i Escaldes.',
-      en: 'Rent e-bikes for the whole family and explore the "Green Ring", a network of paths around Andorra la Vella and Escaldes.',
-    },
-    facts: {
-      de: ['Macht Radfahren in den Bergen fÃ¼r alle zugÃ¤nglich', 'Gut ausgeschilderte Wege', 'Tolle Aussichten auf die Stadt', 'Mehrere Verleihstationen'],
-      hu: ['Mindenki szÃ¡mÃ¡ra elÃ©rhetÅ‘vÃ© teszi a hegyi kerÃ©kpÃ¡rozÃ¡st', 'JÃ³l kitÃ¡blÃ¡zott utak', 'NagyszerÅ± kilÃ¡tÃ¡s a vÃ¡rosra', 'TÃ¶bb kÃ¶lcsÃ¶nzÅ‘ Ã¡llomÃ¡s'],
-      ro: ['Face ciclismul montan accesibil pentru toÈ›i', 'Trasee bine semnalizate', 'PriveliÈ™ti grozave asupra oraÈ™ului', 'Mai multe staÈ›ii de Ã®nchiriere'],
-      en: ['Makes mountain biking accessible to everyone', 'Well-marked trails', 'Great views of the city', 'Several rental stations'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-segudet-playground-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-05',
-    coords: [1.535, 42.56],
-    name: {
-      de: 'Spielplatz von Segudet',
-      hu: 'Segudet jÃ¡tszÃ³tÃ©r',
-      ro: 'Loc de joacÄƒ Segudet',
-      en: 'Segudet Playground',
-    },
-    description: {
-      de: 'Ein charmanter Spielplatz im malerischen Dorf Segudet bei Ordino, ideal fÃ¼r eine ruhige Pause mit kleineren Kindern.',
-      hu: 'Egy bÃ¡jos jÃ¡tszÃ³tÃ©r a festÅ‘i Segudet faluban, Ordino mellett, ideÃ¡lis egy csendes pihenÅ‘re kisebb gyerekekkel.',
-      ro: 'Un loc de joacÄƒ fermecÄƒtor Ã®n satul pitoresc Segudet, lÃ¢ngÄƒ Ordino, ideal pentru o pauzÄƒ liniÈ™titÄƒ cu copiii mici.',
-      en: 'A charming playground in the picturesque village of Segudet, near Ordino, ideal for a quiet break with younger children.',
-    },
-    facts: {
-      de: ['Ruhige, lÃ¤ndliche Umgebung', 'Traditionelle HolzspielgerÃ¤te', 'Umgeben von alter Steinarchitektur', 'Ein Einblick in das dÃ¶rfliche Leben Andorras'],
-      hu: ['Csendes, vidÃ©ki kÃ¶rnyezet', 'HagyomÃ¡nyos fajÃ¡tÃ©kok', 'RÃ©gi kÅ‘Ã©pÃ­tÃ©szet veszi kÃ¶rÃ¼l', 'BetekintÃ©s Andorra falusi Ã©letÃ©be'],
-      ro: ['Mediu rural liniÈ™tit', 'Echipamente de joacÄƒ tradiÈ›ionale din lemn', 'ÃŽnconjurat de arhitecturÄƒ veche din piatrÄƒ', 'O privire Ã®n viaÈ›a ruralÄƒ a Andorrei'],
-      en: ['Quiet, rural setting', 'Traditional wooden play equipment', 'Surrounded by old stone architecture', 'A glimpse into Andorran village life'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-skatepark-andorra-la-vella-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.532, 42.509],
-    name: {
-      de: 'Skatepark Andorra la Vella',
-      hu: 'GÃ¶rdeszkapark Andorra la Vella',
-      ro: 'Skatepark Andorra la Vella',
-      en: 'Skatepark Andorra la Vella',
-    },
-    description: {
-      de: 'Ein beliebter Treffpunkt fÃ¼r Teenager und junge Skater im Freien, mit verschiedenen Rampen und Hindernissen.',
-      hu: 'NÃ©pszerÅ± szabadtÃ©ri talÃ¡lkozÃ³hely tinÃ©dzserek Ã©s fiatal gÃ¶rdeszkÃ¡sok szÃ¡mÃ¡ra, kÃ¼lÃ¶nfÃ©le rÃ¡mpÃ¡kkal Ã©s akadÃ¡lyokkal.',
-      ro: 'Un loc popular de Ã®ntÃ¢lnire Ã®n aer liber pentru adolescenÈ›i È™i tineri skateri, cu diverse rampe È™i obstacole.',
-      en: 'A popular outdoor meeting spot for teenagers and young skaters, with various ramps and obstacles.',
-    },
-    facts: {
-      de: ['FÃ¼r Skateboards, Roller und BMX', 'FÃ¶rdert eine aktive Jugendkultur', 'Oft Schauplatz kleiner Wettbewerbe', 'Zentral gelegen'],
-      hu: ['GÃ¶rdeszkÃ¡khoz, rollerekhez Ã©s BMX-ekhez', 'TÃ¡mogatja az aktÃ­v ifjÃºsÃ¡gi kultÃºrÃ¡t', 'Gyakran ad otthont kisebb versenyeknek', 'KÃ¶zponti elhelyezkedÃ©sÅ±'],
-      ro: ['Pentru skateboard-uri, trotinete È™i BMX', 'PromoveazÄƒ o culturÄƒ activÄƒ a tineretului', 'Adesea gazdÄƒ pentru mici competiÈ›ii', 'Situat central'],
-      en: ['For skateboards, scooters, and BMX', 'Promotes an active youth culture', 'Often hosts small competitions', 'Centrally located'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-cortals-d-encamp-adventure-rope-park-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.61, 42.52],
-    name: {
-      de: "Seilpark Cortals d'Encamp",
-      hu: "Cortals d'Encamp Kaland KÃ¶tÃ©lpÃ¡lya",
-      ro: "Parc de aventurÄƒ Cortals d'Encamp",
-      en: "Cortals d'Encamp Adventure Rope Park",
-    },
-    description: {
-      de: 'Ein weiterer Hochseilgarten in der wunderschÃ¶nen Landschaft des Cortals-Tals, der im Sommer geÃ¶ffnet ist und SpaÃŸ fÃ¼r die ganze Familie bietet.',
-      hu: 'Egy mÃ¡sik magaslati kÃ¶tÃ©lpÃ¡lya a Cortals-vÃ¶lgy gyÃ¶nyÃ¶rÅ± tÃ¡jÃ¡n, amely nyÃ¡ron tart nyitva Ã©s szÃ³rakozÃ¡st kÃ­nÃ¡l az egÃ©sz csalÃ¡dnak.',
-      ro: 'Un alt parc de aventurÄƒ la Ã®nÄƒlÈ›ime Ã®n peisajul frumos al VÄƒii Cortals, deschis vara È™i oferind distracÈ›ie pentru Ã®ntreaga familie.',
-      en: 'Another high ropes course set in the beautiful scenery of the Cortals Valley, open in summer and offering fun for the whole family.',
-    },
-    facts: {
-      de: ['Verschiedene Schwierigkeitsgrade', 'In einem Pinienwald gelegen', 'Kombinierbar mit Wanderungen im Tal', 'Erfordert Gleichgewicht und etwas Mut'],
-      hu: ['KÃ¼lÃ¶nbÃ¶zÅ‘ nehÃ©zsÃ©gi szintek', 'FenyÅ‘erdÅ‘ben talÃ¡lhatÃ³', 'Ã–sszekÃ¶thetÅ‘ a vÃ¶lgyben tett tÃºrÃ¡kkal', 'EgyensÃºlyt Ã©s nÃ©mi bÃ¡torsÃ¡got igÃ©nyel'],
-      ro: ['Diferite niveluri de dificultate', 'Situat Ã®ntr-o pÄƒdure de pini', 'Poate fi combinat cu drumeÈ›ii Ã®n vale', 'NecesitÄƒ echilibru È™i puÈ›in curaj'],
-      en: ['Various difficulty levels', 'Located in a pine forest', 'Can be combined with hikes in the valley', 'Requires balance and a bit of courage'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-pas-de-la-casa-playground-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-03',
-    coords: [1.732, 42.542],
-    name: {
-      de: 'Spielplatz Pas de la Casa',
-      hu: 'Pas de la Casa jÃ¡tszÃ³tÃ©r',
-      ro: 'Loc de joacÄƒ Pas de la Casa',
-      en: 'Pas de la Casa Playground',
-    },
-    description: {
-      de: 'Ein hochgelegener Spielplatz, der Kindern auch im belebten Grenzort Pas de la Casa eine MÃ¶glichkeit zum Austoben bietet.',
-      hu: 'Egy magasan fekvÅ‘ jÃ¡tszÃ³tÃ©r, amely a nyÃ¼zsgÅ‘ hatÃ¡rvÃ¡rosban, Pas de la CasÃ¡ban is lehetÅ‘sÃ©get ad a gyerekeknek a tombolÃ¡sra.',
-      ro: 'Un loc de joacÄƒ la mare altitudine care oferÄƒ copiilor o È™ansÄƒ de a se descÄƒrca chiar È™i Ã®n aglomeratul oraÈ™ de graniÈ›Äƒ Pas de la Casa.',
-      en: 'A high-altitude playground that gives children a chance to let off steam even in the busy border town of Pas de la Casa.',
-    },
-    facts: {
-      de: ['Einer der hÃ¶chstgelegenen SpielplÃ¤tze Europas', 'Umgeben von GeschÃ¤ften und Restaurants', 'Willkommene Abwechslung vom Einkaufen', 'Moderne SpielgerÃ¤te'],
-      hu: ['EurÃ³pa egyik legmagasabban fekvÅ‘ jÃ¡tszÃ³tere', 'Ãœzletek Ã©s Ã©ttermek veszik kÃ¶rÃ¼l', 'ÃœdvÃ¶zlendÅ‘ vÃ¡ltozatossÃ¡g a vÃ¡sÃ¡rlÃ¡s utÃ¡n', 'Modern jÃ¡tÃ©keszkÃ¶zÃ¶k'],
-      ro: ['Unul dintre cele mai Ã®nalte locuri de joacÄƒ din Europa', 'ÃŽnconjurat de magazine È™i restaurante', 'O pauzÄƒ binevenitÄƒ de la cumpÄƒrÄƒturi', 'Echipamente de joacÄƒ moderne'],
-      en: ["One of Europe's highest playgrounds", 'Surrounded by shops and restaurants', 'A welcome break from shopping', 'Modern play equipment'],
-    },
-  },
-  {
-    id: 'ad-kid-landmark-andorra-la-vella-tourist-train-extra-2',
-    type: 'kid-landmark',
-    parent: 'AD-07',
-    coords: [1.521, 42.507],
-    name: {
-      de: 'Touristenzug Andorra la Vella',
-      hu: 'Andorra la Vella Turistavonat',
-      ro: 'TrenuleÈ›ul turistic Andorra la Vella',
-      en: 'Andorra la Vella Tourist Train',
-    },
-    description: {
-      de: 'Ein kleiner Zug auf RÃ¤dern, der eine Rundfahrt durch die interessantesten Teile der Hauptstadt macht. Eine entspannte Art, die Stadt mit Kindern zu erkunden.',
-      hu: 'Egy kis, kerekeken gurulÃ³ vonat, amely kÃ¶rutat tesz a fÅ‘vÃ¡ros legÃ©rdekesebb rÃ©szein. Egy pihentetÅ‘ mÃ³dja a vÃ¡ros felfedezÃ©sÃ©nek gyerekekkel.',
-      ro: 'Un mic trenuleÈ› pe roÈ›i care face un tur al celor mai interesante pÄƒrÈ›i ale capitalei. Un mod relaxant de a explora oraÈ™ul cu copiii.',
-      en: 'A small train on wheels that takes a circular tour of the most interesting parts of the capital. A relaxing way to explore the city with children.',
-    },
-    facts: {
-      de: ['Audio-Guide in mehreren Sprachen', 'FÃ¤hrt am historischen Zentrum und dem Einkaufsviertel vorbei', 'Dauert etwa 45 Minuten', 'Start im Zentrum der Stadt'],
-      hu: ['TÃ¶bbnyelvÅ± audio guide', 'Elhalad a tÃ¶rtÃ©nelmi kÃ¶zpont Ã©s a bevÃ¡sÃ¡rlÃ³negyed mellett', 'KÃ¶rÃ¼lbelÃ¼l 45 percig tart', 'A vÃ¡ros kÃ¶zpontjÃ¡bÃ³l indul'],
-      ro: ['Ghid audio Ã®n mai multe limbi', 'Trece pe lÃ¢ngÄƒ centrul istoric È™i cartierul comercial', 'DureazÄƒ aproximativ 45 de minute', 'PorneÈ™te din centrul oraÈ™ului'],
-      en: ['Audio guide in several languages', 'Passes the historic center and the shopping district', 'Lasts about 45 minutes', 'Starts in the city center'],
-    },
-  },
-
-  // ===============================================================================================
-  // AGRICULTURE (30)
-  // ===============================================================================================
+  // AGRICULTURE (20)
   {
     id: 'ad-agriculture-casa-beal-winery-extra-3',
     type: 'agriculture',
@@ -1475,6 +834,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['CultivÄƒ soiul GewÃ¼rztraminer', 'Vinuri cu un caracter mineral', 'DegustÄƒri de vin È™i tururi ghidate disponibile', 'Situat Ã®n Sant JuliÃ  de LÃ²ria'],
       en: ['Cultivates the GewÃ¼rztraminer grape variety', 'Wines with a mineral character', 'Wine tastings and guided tours available', 'Located in Sant JuliÃ  de LÃ²ria'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A Casa Beal ÃºttÃ¶rÅ‘ szerepet jÃ¡tszott az andorrai borÃ¡szat ÃºjjÃ¡Ã©lesztÃ©sÃ©ben. Magashegyi GewÃ¼rztraminerjÃ¼k egyedÃ¼lÃ¡llÃ³, Ã¡svÃ¡nyos karaktert mutat. A birtok vezetett tÃºrÃ¡kat Ã©s borkÃ³stolÃ³kat is kÃ­nÃ¡l Sant JuliÃ -ban. FÃ¶ldrajz K8 â€” gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["ÃšttÃ¶rÅ‘ borÃ¡szat.", "Magashegyi GewÃ¼rztraminer.", "ÃsvÃ¡nyos karakter.", "BorkÃ³stolÃ¡si lehetÅ‘sÃ©g.", "Sant JuliÃ -i birtok.", "KÃ¼lÃ¶nleges termÅ‘hely."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-borda-sabate-winery-extra-3',
@@ -1499,6 +860,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ViticulturÄƒ ecologicÄƒ', 'FoloseÈ™te Solaris È™i Riesling', 'LocaÈ›ie spectaculoasÄƒ cu vedere la vale', 'Accent pe durabilitate'],
       en: ['Organic viticulture', 'Uses Solaris and Riesling grapes', 'Spectacular location overlooking the valley', 'Focus on sustainability'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A Borda SabatÃ© biogazdasÃ¡gkÃ©nt mÅ±kÃ¶dik La MassanÃ¡ban. KÃ¼lÃ¶nleges, ellenÃ¡llÃ³ szÅ‘lÅ‘fajtÃ¡kat, pÃ©ldÃ¡ul Solaris-t hasznÃ¡lnak. A birtok elhelyezkedÃ©se csodÃ¡latos kilÃ¡tÃ¡st biztosÃ­t a vÃ¶lgyre, mikÃ¶zben nagy hangsÃºlyt fektetnek a fenntarthatÃ³sÃ¡gra. FÃ¶ldrajz K8 â€” gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["BiogazdÃ¡lkodÃ¡s.", "Solaris Ã©s Riesling fajtÃ¡k.", "CsodÃ¡s vÃ¶lgyi panorÃ¡ma.", "FenntarthatÃ³ termelÃ©s.", "La Massana kÃ¶rnyÃ©ke.", "KÃ¼lÃ¶nleges borok."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-casa-aravell-winery-extra-3',
@@ -1523,6 +886,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Accent pe soiurile locale de struguri', 'ProducÈ›ie artizanalÄƒ', 'NumÄƒr limitat de sticle', 'ExperienÈ›Äƒ autenticÄƒ'],
       en: ['Focus on local grape varieties', 'Artisanal production', 'Limited number of bottles', 'Authentic experience'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A Casa Aravell egy csalÃ¡di borÃ¡szat Ordino szÃ­vÃ©ben. SzenvedÃ©lyÃ¼k a helyi szÅ‘lÅ‘fajtÃ¡k Ã©s a pireneusi hagyomÃ¡nyok Ã¡polÃ¡sa. KÃ©zmÅ±ves technolÃ³giÃ¡val, korlÃ¡tozott mennyisÃ©gben Ã¡llÃ­tjÃ¡k elÅ‘ kivÃ¡lÃ³ boraikat. FÃ¶ldrajz K8 â€” hagyomÃ¡nyok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["CsalÃ¡di gazdasÃ¡g.", "KÃ©zmÅ±ves borok.", "Helyi fajtÃ¡k.", "Ordino kÃ¶zpontja.", "LimitÃ¡lt termelÃ©s.", "Autentikus stÃ­lus."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-tobacco-fields-sant-julia-extra-3',
@@ -1547,6 +912,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['RamurÄƒ agricolÄƒ tradiÈ›ionalÄƒ', 'Muzeul Tutunului Ã®n Sant JuliÃ ', 'Plantele verzi pot fi vÄƒzute vara', 'Uscarea Ã®n "bordas" (case tradiÈ›ionale)'],
       en: ['Traditional agricultural branch', 'Tobacco Museum in Sant JuliÃ ', 'The green plants can be seen in summer', 'Drying in "bordas" (traditional houses)'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A dohÃ¡nytermesztÃ©s hagyomÃ¡nya Sant JuliÃ -ban Ã©vszÃ¡zadokra nyÃºlik vissza. A zÃ¶ld dohÃ¡nyfÃ¶ldek nyÃ¡ron, a szÃ¡rÃ­tÃ³ pajtÃ¡k (bordÃ¡k) pedig Å‘sszel hatÃ¡rozzÃ¡k meg a tÃ¡jat. Ez az Ã¡gazat az andorrai gazdasÃ¡gtÃ¶rtÃ©net rÃ©sze. FÃ¶ldrajz K7 â€” mezÅ‘gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["HagyomÃ¡nyos termesztÃ©s.", "SzÃ¡rÃ­tÃ³ pajtÃ¡k.", "DohÃ¡nymÃºzeum helyszÃ­ne.", "Gazdag tÃ¶rtÃ©nelem.", "ZÃ¶ld dohÃ¡nyfÃ¶ldek.", "A tÃ¡j rÃ©sze."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-high-mountain-potato-farms-extra-3',
@@ -1571,6 +938,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cultivare la peste 1500 de metri', 'Gust intens datoritÄƒ coacerii lente', 'Parte importantÄƒ a bucÄƒtÄƒriei locale', 'VÃ¢ndut Ã®n pieÈ›ele locale'],
       en: ['Grown above 1500 meters', 'Intense flavor due to slow ripening', 'An important part of local cuisine', 'Sold at local markets'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az andorrai hegyi burgonya Ã­ze a lassÃº Ã©rÃ©s miatt kÃ¼lÃ¶nleges. La Massana Ã©s Ordino 1500 mÃ©ter feletti terÃ¼letein termesztik. A helyi konyha nÃ©lkÃ¼lÃ¶zhetetlen alapanyaga, kÃ¼lÃ¶nÃ¶sen az andorrai pÃ¶rkÃ¶ltekben. FÃ¶ldrajz K5 â€” mezÅ‘gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["1500 mÃ©ter feletti termesztÃ©s.", "IntenzÃ­v Ã­zvilÃ¡g.", "A helyi konyha alapja.", "Slow-food Ã©lmÃ©ny.", "Hegyi burgonyafajtÃ¡k.", "KÃ©zi mÅ±velÃ©s."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-cattle-grazing-pastures-canillo-extra-3',
@@ -1595,6 +964,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['TranshumanÈ›Äƒ tradiÈ›ionalÄƒ', 'ProducÈ›ia de carne de Ã®naltÄƒ calitate', 'Vacile cu clopote sunt o imagine tipicÄƒ', 'Conservarea peisajului prin pÄƒÈ™unat'],
       en: ['Traditional transhumance', 'Production of high-quality meat', 'Cows with bells are a typical sight', 'Landscape conservation through grazing'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A canillÃ³i alpesi legelÅ‘k Ã©vszÃ¡zadok Ã³ta a marhatartÃ¡s kÃ¶zpontjai. A barna andorrai marhÃ¡k nyÃ¡ron Ã©lvezik a friss fÃ¼vet. Ez a hagyomÃ¡ny biztosÃ­tja a tÃ¡j megÅ‘rzÃ©sÃ©t Ã©s a kivÃ¡lÃ³ minÅ‘sÃ©gÅ± hÃºstermelÃ©st. FÃ¶ldrajz K4 â€” Ã¡llattenyÃ©sztÃ©s.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["TradicionÃ¡lis Ã¡llattenyÃ©sztÃ©s.", "Barna andorrai fajta.", "Kolompos tehenek.", "TÃ¡jmegÅ‘rzÃ©s.", "Alpesi legelÅ‘k.", "KivÃ¡lÃ³ hÃºsminÅ‘sÃ©g."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-sheep-and-goat-farms-ordino-extra-3',
@@ -1619,6 +990,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ProducÈ›ia de brÃ¢nzÄƒ artizanalÄƒ', 'Rase robuste, adaptate la munte', 'Parte importantÄƒ a economiei rurale', 'LÃ¢na este de asemenea folositÄƒ'],
       en: ['Artisanal cheese production', 'Hardy breeds adapted to the mountains', 'Important part of the rural economy', 'Wool is also used'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az ordinÃ³i farmok juhok Ã©s kecskÃ©k tartÃ¡sÃ¡val foglalkoznak. A kÃ©zmÅ±ves sajtok Ã©s a hÃºstermÃ©kek az orszÃ¡g egyik legfontosabb gasztronÃ³miai kincsei. A hegyi kÃ¶rÃ¼lmÃ©nyekhez alkalmazkodott fajtÃ¡k tartÃ¡sa a vidÃ©k gazdasÃ¡gÃ¡nak alapja. FÃ¶ldrajz K6 â€” Ã¡llattenyÃ©sztÃ©s.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KÃ©zmÅ±ves sajtok.", "Juhok Ã©s kecskÃ©k.", "Hegyi kÃ¶rÃ¼lmÃ©nyek.", "VidÃ©ki gazdasÃ¡g.", "Autentikus Ã­zek.", "Fontos Ã¡llattenyÃ©sztÃ©si Ã¡g."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-beekeeping-honey-production-extra-3',
@@ -1643,6 +1016,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Miere de rododendron, cimbru È™i flori sÄƒlbatice', 'Rol important Ã®n polenizare', 'VÃ¢ndutÄƒ Ã®n magazinele locale', 'Arome intense'],
       en: ['Honey from rhododendron, thyme, and wildflowers', 'Important role in pollination', 'Sold in local shops', 'Intense aromas'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az andorrai alpesi mÃ©z kÃ¼lÃ¶nlegessÃ©ge a vÃ¡ltozatos nÃ¶vÃ©nyvilÃ¡gban rejlik. Rododendron, kakukkfÅ± Ã©s vadvirÃ¡gok nektÃ¡rjÃ¡bÃ³l kÃ©szÃ¼l. A mÃ©hÃ©szek fontos szerepet jÃ¡tszanak a beporzÃ¡sban Ã©s a termÃ©szet megÅ‘rzÃ©sÃ©ben. FÃ¶ldrajz K5 â€” Ã©lÅ‘vilÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Alpesi mÃ©z.", "Rododendron Ã©s vadvirÃ¡gok.", "Fontos beporzÃ¡s.", "IntenzÃ­v aromÃ¡k.", "Helyi termÃ©k.", "TermÃ©szetkÃ¶zeli mÃ©hÃ©szet."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-medicinal-herb-gardens-encamp-extra-3',
@@ -1667,6 +1042,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cultivarea arnicÄƒi, sunÄƒtoarei etc.', 'Folosite pentru ceaiuri, uleiuri È™i cosmetice', 'CunoÈ™tinÈ›ele tradiÈ›ionale sunt pÄƒstrate', 'Adesea agriculturÄƒ ecologicÄƒ'],
       en: ["Cultivation of arnica, St. John's wort, etc.", 'Used for teas, oils, and cosmetics', 'Traditional knowledge is preserved', 'Often organic cultivation'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az Encamp-i gyÃ³gynÃ¶vÃ©nykertek a pireneusi tudÃ¡s Å‘rzÅ‘i. Ãrnika, orbÃ¡ncfÅ± Ã©s mÃ¡s illatos gyÃ³gynÃ¶vÃ©nyek termesztÃ©sÃ©vel foglalkoznak. A termÃ©keket teÃ¡khoz, olajokhoz Ã©s kozmetikumokhoz hasznÃ¡ljÃ¡k. FÃ¶ldrajz K5 â€” hagyomÃ¡nyok.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["TradicionÃ¡lis gyÃ³gynÃ¶vÃ©nyek.", "TeÃ¡k Ã©s illÃ³olajok.", "HagyomÃ¡nyos tudÃ¡s.", "KÃ¶rnyezetbarÃ¡t termelÃ©s.", "Encamp vidÃ©ki rÃ©sze.", "KulturÃ¡lis Ã¶rÃ¶ksÃ©g."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-community-gardens-escaldes-extra-3',
@@ -1691,6 +1068,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['PromoveazÄƒ comunitatea È™i durabilitatea', 'Cultivarea legumelor È™i a ierburilor aromatice', 'Oaze verzi Ã®n oraÈ™', 'Proiecte educaÈ›ionale pentru È™coli'],
       en: ['Promotes community and sustainability', 'Growing vegetables and herbs', 'Green oases in the city', 'Educational projects for schools'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A kÃ¶zÃ¶ssÃ©gi kertek Escaldesben a modern urbanizÃ¡ciÃ³ zÃ¶ld oÃ¡zisai. A lakosok sajÃ¡t parcellÃ¡kat mÅ±velhetnek, ezzel elÅ‘segÃ­tve a kÃ¶zÃ¶ssÃ©get Ã©s a fenntarthatÃ³sÃ¡got. A gyermekek szÃ¡mÃ¡ra oktatÃ¡si lehetÅ‘sÃ©get is biztosÃ­tanak a nÃ¶vÃ©nyek vilÃ¡gÃ¡rÃ³l. FÃ¶ldrajz K5 â€” kÃ¶zÃ¶ssÃ©gi terek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["ZÃ¶ld oÃ¡zis a vÃ¡rosban.", "KÃ¶zÃ¶ssÃ©gÃ©pÃ­tÅ‘ erÅ‘.", "FenntarthatÃ³ Ã©letmÃ³d.", "SajÃ¡t termesztÃ©sÅ± nÃ¶vÃ©nyek.", "OktatÃ¡si projektek.", "Rendezett kertrÃ©szletek."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-horse-breeding-farms-extra-3',
@@ -1715,6 +1094,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['RasÄƒ localÄƒ, adaptatÄƒ la munte', 'FolositÄƒ Ã®n trecut ca animale de povarÄƒ', 'PopularÄƒ astÄƒzi pentru echitaÈ›ie', 'Conservarea unei rase autohtone'],
       en: ['Local breed adapted to the mountains', 'Formerly used as work animals', 'Popular today for trail riding', 'Conservation of a native breed'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A 'Cavall AndorrÃ ' egyedÃ¼lÃ¡llÃ³ lÃ³fajta, amelyet a Pireneusok zord terepeihez nemesÃ­tettek. La Massana Ã©s Ordino tenyÃ©sztÅ‘i az Ã¶rÃ¶ksÃ©g megÅ‘rzÃ©sÃ©re fÃ³kuszÃ¡lnak. MÃ¡ra mezÅ‘gazdasÃ¡gi hasznÃ¡lat helyett inkÃ¡bb lovas tÃºrÃ¡khoz kedveltek. FÃ¶ldrajz K6 â€” Ã¡llattenyÃ©sztÃ©s.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Hegyi kÃ¶rÃ¼lmÃ©nyekhez szokott.", "Autentikus andorrai lÃ³.", "KivÃ¡lÃ³ tereplÃ³.", "Ã–rÃ¶ksÃ©g megÅ‘rzÃ©se.", "StrapabÃ­rÃ³ fajta.", "Turisztikai jelentÅ‘sÃ©g."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-market-garden-escaldes-extra-3',
@@ -1739,6 +1120,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['LanÈ›uri de aprovizionare scurte', 'Accent pe calitate È™i prospeÈ›ime', 'Cultivarea de salatÄƒ, roÈ™ii, dovlecei etc.', 'Adesea Ã®n sere pentru a prelungi sezonul'],
       en: ['Short supply chains', 'Focus on quality and freshness', 'Growing lettuce, tomatoes, zucchini, etc.', 'Often in greenhouses to extend the season'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az Escaldes kÃ¶rnyÃ©ki intenzÃ­v zÃ¶ldsÃ©gtermesztÃ©s cÃ©lja a friss, szezonÃ¡lis alapanyagok biztosÃ­tÃ¡sa. A helyi piacok Ã©s Ã©ttermek szÃ¡mÃ¡ra szÃ¡llÃ­tanak. Az Ã¼veghÃ¡zak a hÅ±vÃ¶sebb hegyi klÃ­mÃ¡ban is lehetÅ‘vÃ© teszik a zÃ¶ldsÃ©gek termesztÃ©sÃ©t. FÃ¶ldrajz K6 â€” mezÅ‘gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["IntenzÃ­v termesztÃ©s.", "Friss alapanyagok.", "Helyi piacok.", "ÃœveghÃ¡zas technolÃ³gia.", "SzezonÃ¡lis vÃ¡lasztÃ©k.", "KÃ¶zeli szÃ¡llÃ­tÃ³k."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-trumfes-potato-cooperative-extra-3',
@@ -1763,6 +1146,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['SprijinÄƒ fermierii locali', 'MarcÄƒ pentru cartofii andorrani', 'Controlul calitÄƒÈ›ii È™i marketing comun', 'Centru Ã®n La Massana'],
       en: ['Supports local farmers', 'Brand for Andorran potatoes', 'Quality control and joint marketing', 'Center in La Massana'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A 'Trumfes' szÃ¶vetkezet garantÃ¡lja az andorrai burgonya minÅ‘sÃ©gÃ©t. La MassanÃ¡bÃ³l kiindulva Ã¶sszefogjÃ¡k a helyi gazdÃ¡kat a hatÃ©kony Ã©rtÃ©kesÃ­tÃ©s Ã©rdekÃ©ben. A cÃ©l az andorrai burgonya nemzetkÃ¶zi Ã©s hazai elismertsÃ©gÃ©nek nÃ¶velÃ©se. FÃ¶ldrajz K7 â€” gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["MinÅ‘sÃ©gi burgonya.", "SzÃ¶vetkezeti Ã¶sszefogÃ¡s.", "La Massanai kÃ¶zpont.", "KÃ¶zÃ¶s marketing.", "GazdasÃ¡gi tÃ¡mogatÃ¡s.", "Andorrai mÃ¡rka."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-fruit-orchards-sant-julia-extra-3',
@@ -1787,6 +1172,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Cultivare pe pante terasate', 'VÃ¢nzare sezonierÄƒ Ã®n pieÈ›e', 'ProducÈ›ia de suc de mere È™i gemuri', 'Important pentru biodiversitatea localÄƒ'],
       en: ['Cultivation on terraced slopes', 'Seasonal sale at markets', 'Production of apple juice and jams', 'Important for local biodiversity'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Sant JuliÃ  napos vÃ¶lgyeiben gyÃ¼mÃ¶lcsÃ¶sÃ¶k sorakoznak. Az alma, kÃ¶rte Ã©s cseresznye kivÃ¡lÃ³ minÅ‘sÃ©gben terem. A gyÃ¼mÃ¶lcsÃ¶kbÅ‘l gyakran helyi termÃ©keket, pÃ©ldÃ¡ul lekvÃ¡rt kÃ©szÃ­tenek. Fontos szerepÃ¼k van a biodiverzitÃ¡s megÅ‘rzÃ©sÃ©ben is. FÃ¶ldrajz K5 â€” mezÅ‘gazdasÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Teraszos gyÃ¼mÃ¶lcsÃ¶sÃ¶k.", "SzezonÃ¡lis termÃ©kek.", "Helyi lekvÃ¡rok.", "BiodiverzitÃ¡s.", "Napos fekvÃ©s.", "HagyomÃ¡nyos kultÃºra."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-shepherd-huts-madriu-valley-extra-3',
@@ -1806,11 +1193,13 @@ export const poiExtraAndorraOther: POI[] = [
       en: 'These traditional stone huts ("bordas") in the UNESCO valley bear witness to the centuries-old tradition of pastoral farming in the Pyrenees.',
     },
     facts: {
-      de: ['Teil des UNESCO-Weltkulturerbes', 'Zeugen der Transhumanz', 'Einige wurden zu SchutzhÃ¼tten umgebaut', 'Einfache, funktionale Architektur'],
+      de: ['Part of the UNESCO World Heritage site', 'Witnesses to transhumance', 'Some have been converted into refuges', 'Simple, functional architecture'],
       hu: ['Az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze', 'A transzhumÃ¡lÃ¡s tanÃºi', 'NÃ©hÃ¡nyat menedÃ©khÃ¡zzÃ¡ alakÃ­tottak Ã¡t', 'EgyszerÅ±, funkcionÃ¡lis Ã©pÃ­tÃ©szet'],
       ro: ['Parte a Patrimoniului Mondial UNESCO', 'MÄƒrturii ale transhumanÈ›ei', 'Unele au fost transformate Ã®n refugii', 'ArhitecturÄƒ simplÄƒ, funcÈ›ionalÄƒ'],
       en: ['Part of the UNESCO World Heritage site', 'Witnesses to transhumance', 'Some have been converted into refuges', 'Simple, functional architecture'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A Madriu-vÃ¶lgyi pÃ¡sztorkunyhÃ³k (bordÃ¡k) az andorrai UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©gi helyszÃ­n rÃ©szei. Ã‰vszÃ¡zadokig szolgÃ¡ltak menedÃ©kÃ¼l a pÃ¡sztoroknak. MÃ¡ra ezek az Ã©pÃ¼letek a mÃºltbeli Ã¡llattenyÃ©sztÃ©s emlÃ©keikÃ©nt fontos kulturÃ¡lis Ã¶rÃ¶ksÃ©gek. FÃ¶ldrajz K8 â€” vilÃ¡gÃ¶rÃ¶ksÃ©g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g.", "BordÃ¡k (kÅ‘kunyhÃ³k).", "PÃ¡sztorkodÃ¡s mÃºltja.", "MenedÃ©khelyek.", "HagyomÃ¡nyÅ‘rzÃ©s.", "KulturÃ¡lis Ã¶rÃ¶ksÃ©g."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-organic-farm-anyos-extra-3',
@@ -1835,6 +1224,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['VÃ¢nzare directÄƒ de la fermÄƒ', 'ActivitÄƒÈ›i educaÈ›ionale pentru È™coli', 'Accent pe bunÄƒstarea animalelor', 'ContribuÈ›ie la suveranitatea alimentarÄƒ'],
       en: ['Direct sales from the farm', 'Educational activities for schools', 'Focus on animal welfare', 'Contribution to food sovereignty'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az anyÃ³si biofarm a fenntarthatÃ³ mezÅ‘gazdasÃ¡g mintÃ¡ja. Helyi zÃ¶ldsÃ©geket Ã©s tojÃ¡st Ã¡llÃ­tanak elÅ‘. OktatÃ¡si kÃ¶zpontkÃ©nt is mÅ±kÃ¶dnek, iskolÃ¡kat lÃ¡tnak vendÃ©gÃ¼l. Fontos szerepÃ¼k van az andorrai Ã©lelmiszer-Ã¶nrendelkezÃ©sben. FÃ¶ldrajz K6 â€” fenntarthatÃ³sÃ¡g.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["FenntarthatÃ³ termelÃ©s.", "Bio zÃ¶ldsÃ©gek Ã©s tojÃ¡s.", "OktatÃ¡si szerep.", "ÃllatjÃ³lÃ©t.", "Ã‰lelmiszer-Ã¶nrendelkezÃ©s.", "KÃ¶zvetlen Ã©rtÃ©kesÃ­tÃ©s."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-forest-management-encamp-extra-3',
@@ -1859,6 +1250,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['ProducÈ›ia de lemn de foc È™i de construcÈ›ii', 'ÃŽntreÈ›inerea pÄƒdurilor de protecÈ›ie', 'Conservarea sÄƒnÄƒtÄƒÈ›ii pÄƒdurilor', 'CombinaÈ›ie de utilizare economicÄƒ È™i ecologicÄƒ'],
       en: ['Production of firewood and timber', 'Maintenance of protection forests', 'Preservation of forest health', 'Combination of economic and ecological use'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az Encamp-i erdÅ‘gazdÃ¡lkodÃ¡s kettÅ‘s cÃ©lt szolgÃ¡l: a faanyag-kitermelÃ©st Ã©s a vÃ©delmet. Az erdÅ‘k segÃ­tenek a lavinÃ¡k Ã©s az erÃ³ziÃ³ megelÅ‘zÃ©sÃ©ben. A fenntarthatÃ³ kezelÃ©s biztosÃ­tja az Ã¶kolÃ³giai egyensÃºlyt Ã©s a gazdasÃ¡gi hasznosÃ­tÃ¡st. FÃ¶ldrajz K6 â€” kÃ¶rnyezetvÃ©delem.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["VÃ©dÅ‘erdÅ‘k kezelÃ©se.", "Lavina- Ã©s erÃ³ziÃ³vÃ©delem.", "Faanyag-kitermelÃ©s.", "FenntarthatÃ³ gazdÃ¡lkodÃ¡s.", "GazdasÃ¡gi Ã©s Ã¶kolÃ³giai cÃ©lok.", "Az erdÅ‘k Ã©psÃ©ge."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-mushroom-foraging-areas-canillo-extra-3',
@@ -1883,6 +1276,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['TradiÈ›ie localÄƒ importantÄƒ', 'NecesitÄƒ cunoÈ™tinÈ›e precise despre specii', 'Ciupercile sunt o parte importantÄƒ a bucÄƒtÄƒriei de toamnÄƒ', 'ReglementÄƒri pentru protejarea stocurilor'],
       en: ['Important local tradition', 'Requires precise knowledge of species', 'Mushrooms are an important part of autumn cuisine', 'Regulations to protect stocks'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "Az Å‘szi gombÃ¡szÃ¡s Canillo erdeiben nÃ©pszerÅ± hagyomÃ¡ny. VargÃ¡nya, rÃ³kagomba Ã©s kucsmagomba is talÃ¡lhatÃ³. A gyÅ±jtÃ©s szabÃ¡lyozott, a fenntarthatÃ³sÃ¡g Ã©rdekÃ©ben. Az erdei konyha fontos alkotÃ³elemei. BiolÃ³gia K8 â€” gombÃ¡k.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Fontos helyi hagyomÃ¡ny.", "KÃ¼lÃ¶nleges gombafajok.", "SzezonÃ¡lis tevÃ©kenysÃ©g.", "VÃ©delmi szabÃ¡lyok.", "Åszi konyha rÃ©sze.", "TermÃ©szetkÃ¶zeli Ã©lmÃ©ny."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-artisan-cheese-maker-la-massana-extra-3',
@@ -1907,6 +1302,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Utilizarea laptelui crud pentru un gust intens', 'Maturare Ã®n pivniÈ›e naturale', 'VÃ¢nzare Ã®n pieÈ›e È™i delicatese', 'ReÈ›ete tradiÈ›ionale'],
       en: ['Use of raw milk for intense flavor', 'Aging in natural cellars', 'Sold at markets and delicatessens', 'Traditional recipes'],
     },
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "La Massana kis sajtkÃ©szÃ­tÅ‘i a helyi kecske- Ã©s juhtejbÅ‘l kÃ©szÃ¼lt kÃ©zmÅ±ves sajtok mesterei. A nyers tej hasznÃ¡lata biztosÃ­tja az intenzÃ­v Ã­zvilÃ¡got. A sajtokat hagyomÃ¡nyos receptek alapjÃ¡n, termÃ©szetes pincÃ©kben Ã©rlelik. FÃ¶ldrajz K5 â€” gasztronÃ³mia.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["KÃ©zmÅ±ves sajtkÃ©szÃ­tÃ©s.", "Nyers tej hasznÃ¡lata.", "HagyomÃ¡nyos receptek.", "TermÃ©szetes Ã©rlelÃ©s.", "Autentikus Ã­zek.", "Helyi tejforrÃ¡sok."], ro: [], en: [] }
   },
   {
     id: 'ad-agriculture-wild-berry-harvesting-ordino-extra-3',
@@ -1931,282 +1328,8 @@ export const poiExtraAndorraOther: POI[] = [
       ro: ['Bogate Ã®n vitamine È™i antioxidanÈ›i', 'Folosite pentru gemuri È™i lichioruri de casÄƒ', 'Culesul durabil este important', 'O activitate de agrement popularÄƒ'],
       en: ['Rich in vitamins and antioxidants', 'Used for homemade jams and liqueurs', 'Sustainable foraging is important', 'A popular leisure activity'],
     },
-  },
-  // ===============================================================================================
-  // INDUSTRY (31)
-  // ===============================================================================================
-  {
-    id: 'ad-industry-caldea-power-plant-extra-4',
-    type: 'industry',
-    parent: 'AD-08',
-    coords: [1.541, 42.511],
-    name: {
-      de: 'Heizkraftwerk Caldea',
-      hu: 'Caldea HÅ‘erÅ‘mÅ±',
-      ro: 'Centrala termicÄƒ Caldea',
-      en: 'Caldea Power Plant',
-    },
-    description: {
-      de: 'Die Energiezentrale, die das Thermalwasser fÃ¼r den Caldea-Komplex verwaltet und die Temperatur fÃ¼r die verschiedenen Becken reguliert.',
-      hu: 'Az energia-kÃ¶zpont, amely a Caldea komplexum termÃ¡lvizÃ©t kezeli Ã©s szabÃ¡lyozza a kÃ¼lÃ¶nbÃ¶zÅ‘ medencÃ©k hÅ‘mÃ©rsÃ©kletÃ©t.',
-      ro: 'Centrala energeticÄƒ ce gestioneazÄƒ apa termalÄƒ pentru complexul Caldea È™i regleazÄƒ temperatura pentru diferitele bazine.',
-      en: 'The energy center that manages the thermal water for the Caldea complex and regulates the temperature for the various pools.',
-    },
-    facts: {
-      de: ['Geothermische Energienutzung', 'Komplexe Pumpen- und Filtersysteme', 'Sorgt fÃ¼r nachhaltige WÃ¤rme', 'HerzstÃ¼ck der Spa-Anlage'],
-      hu: ['Geotermikus energia felhasznÃ¡lÃ¡sa', 'Bonyolult szivattyÃº- Ã©s szÅ±rÅ‘rendszerek', 'FenntarthatÃ³ hÅ‘t biztosÃ­t', 'A fÃ¼rdÅ‘komplexum kÃ¶zponti eleme'],
-      ro: ['Utilizarea energiei geotermale', 'Sisteme complexe de pompare È™i filtrare', 'AsigurÄƒ cÄƒldurÄƒ durabilÄƒ', 'Piesa centralÄƒ a complexului spa'],
-      en: ['Geothermal energy use', 'Complex pumping and filtering systems', 'Provides sustainable heat', 'The heart of the spa facility'],
-    },
-  },
-  {
-    id: 'ad-industry-forces-hydroelectric-plant-escaldes-extra-4',
-    type: 'industry',
-    parent: 'AD-08',
-    coords: [1.56, 42.51],
-    name: {
-      de: 'Wasserkraftwerk FEDA in Escaldes',
-      hu: 'FEDA VÃ­zerÅ‘mÅ± Escaldes',
-      ro: 'Hidrocentrala FEDA din Escaldes',
-      en: 'FEDA Hydroelectric Plant in Escaldes',
-    },
-    description: {
-      de: 'Das Hauptwasserkraftwerk von Andorra, betrieben von FEDA, das die Kraft des Valira-Flusses nutzt, um einen GroÃŸteil des Stroms des Landes zu erzeugen.',
-      hu: 'Andorra fÅ‘ vÃ­zerÅ‘mÅ±ve, amelyet a FEDA Ã¼zemeltet. A Valira folyÃ³ erejÃ©t hasznÃ¡lja fel az orszÃ¡g villamosenergia-szÃ¼ksÃ©gletÃ©nek jelentÅ‘s rÃ©szÃ©nek elÅ‘Ã¡llÃ­tÃ¡sÃ¡ra.',
-      ro: 'Principala hidrocentralÄƒ din Andorra, operatÄƒ de FEDA, care utilizeazÄƒ forÈ›a rÃ¢ului Valira pentru a genera o mare parte din electricitatea È›Äƒrii.',
-      en: "The main hydroelectric power plant in Andorra, operated by FEDA, which harnesses the power of the Valira river to generate a large part of the country's electricity.",
-    },
-    facts: {
-      de: ['Hauptquelle fÃ¼r erneuerbare Energie in Andorra', 'Erbaut in den 1930er Jahren', 'Beeindruckende Ingenieursleistung', 'FÃ¼hrungen sind gelegentlich mÃ¶glich'],
-      hu: ['Andorra fÅ‘ megÃºjulÃ³ energiaforrÃ¡sa', 'Az 1930-as Ã©vekben Ã©pÃ¼lt', 'LenyÅ±gÃ¶zÅ‘ mÃ©rnÃ¶ki teljesÃ­tmÃ©ny', 'IdÅ‘nkÃ©nt vezetett tÃºrÃ¡k is lehetsÃ©gesek'],
-      ro: ['Sursa principalÄƒ de energie regenerabilÄƒ din Andorra', 'ConstruitÄƒ Ã®n anii 1930', 'Realizare inginereascÄƒ impresionantÄƒ', 'Tururi ghidate sunt disponibile ocazional'],
-      en: ['Main source of renewable energy in Andorra', 'Built in the 1930s', 'Impressive engineering feat', 'Guided tours are occasionally available'],
-    },
-  },
-  {
-    id: 'ad-industry-aigua-de-meritxell-bottling-plant-extra-4',
-    type: 'industry',
-    parent: 'AD-02',
-    coords: [1.59, 42.55],
-    name: {
-      de: 'AbfÃ¼llanlage Aigua de Meritxell',
-      hu: 'Aigua de Meritxell PalackozÃ³Ã¼zem',
-      ro: 'Fabrica de Ã®mbuteliere Aigua de Meritxell',
-      en: 'Aigua de Meritxell Bottling Plant',
-    },
-    description: {
-      de: 'Die Anlage, in der das natÃ¼rliche Mineralwasser aus der Meritxell-Quelle fÃ¼r den nationalen und internationalen Verkauf abgefÃ¼llt wird.',
-      hu: 'Az Ã¼zem, ahol a Meritxell-forrÃ¡sbÃ³l szÃ¡rmazÃ³ termÃ©szetes Ã¡svÃ¡nyvizet palackozzÃ¡k hazai Ã©s nemzetkÃ¶zi Ã©rtÃ©kesÃ­tÃ©sre.',
-      ro: 'Fabrica unde se Ã®mbuteliazÄƒ apa mineralÄƒ naturalÄƒ din izvorul Meritxell pentru vÃ¢nzare naÈ›ionalÄƒ È™i internaÈ›ionalÄƒ.',
-      en: 'The plant where the natural mineral water from the Meritxell spring is bottled for national and international sale.',
-    },
-    facts: {
-      de: ['Reines Bergquellwasser', 'Moderne AbfÃ¼lltechnologie', 'Wichtiger Exportartikel', 'UnterstÃ¼tzt die lokale Wirtschaft'],
-      hu: ['Tiszta hegyi forrÃ¡svÃ­z', 'Modern palackozÃ¡si technolÃ³gia', 'Fontos exportcikk', 'TÃ¡mogatja a helyi gazdasÃ¡got'],
-      ro: ['ApÄƒ purÄƒ de izvor montan', 'Tehnologie modernÄƒ de Ã®mbuteliere', 'Produs de export important', 'SusÈ›ine economia localÄƒ'],
-      en: ['Pure mountain spring water', 'Modern bottling technology', 'Important export product', 'Supports the local economy'],
-    },
-  },
-  {
-    id: 'ad-industry-comu-de-la-massana-incinerator-extra-4',
-    type: 'industry',
-    parent: 'AD-04',
-    coords: [1.50, 42.54],
-    name: {
-      de: 'MÃ¼llverbrennungsanlage La Massana',
-      hu: 'La Massana HulladÃ©kÃ©getÅ‘',
-      ro: 'Incineratorul La Massana',
-      en: 'La Massana Incinerator',
-    },
-    description: {
-      de: 'Die zentrale MÃ¼llverbrennungsanlage des Landes, die Abfall in Energie umwandelt und eine wichtige Rolle im Abfallmanagement von Andorra spielt.',
-      hu: 'Az orszÃ¡g kÃ¶zponti hulladÃ©kÃ©getÅ‘ mÅ±ve, amely a hulladÃ©kot energiÃ¡vÃ¡ alakÃ­tja Ã©s fontos szerepet jÃ¡tszik Andorra hulladÃ©kgazdÃ¡lkodÃ¡sÃ¡ban.',
-      ro: 'Incineratorul central al È›Äƒrii, care transformÄƒ deÈ™eurile Ã®n energie È™i joacÄƒ un rol important Ã®n gestionarea deÈ™eurilor din Andorra.',
-      en: "The country's central incinerator, which converts waste into energy and plays a vital role in Andorra's waste management.",
-    },
-    facts: {
-      de: ['Waste-to-Energy-Technologie', 'Reduziert das MÃ¼llvolumen erheblich', 'Erzeugt Strom fÃ¼r das Netz', 'Strenge Emissionskontrollen'],
-      hu: ['HulladÃ©kbÃ³l energia technolÃ³gia', 'JelentÅ‘sen csÃ¶kkenti a hulladÃ©k mennyisÃ©gÃ©t', 'Ãramot termel a hÃ¡lÃ³zat szÃ¡mÃ¡ra', 'SzigorÃº kibocsÃ¡tÃ¡s-ellenÅ‘rzÃ©s'],
-      ro: ['Tehnologie de transformare a deÈ™eurilor Ã®n energie', 'Reduce semnificativ volumul deÈ™eurilor', 'GenereazÄƒ electricitate pentru reÈ›ea', 'Controale stricte ale emisiilor'],
-      en: ['Waste-to-energy technology', 'Significantly reduces waste volume', 'Generates electricity for the grid', 'Strict emission controls'],
-    },
-  },
-  {
-    id: 'ad-industry-artesanal-brewery-alpha-extra-4',
-    type: 'industry',
-    parent: 'AD-04',
-    coords: [1.51, 42.54],
-    name: {
-      de: 'Handwerksbrauerei Alpha',
-      hu: 'Alpha KÃ©zmÅ±ves SÃ¶rfÅ‘zde',
-      ro: 'BerÄƒria artizanalÄƒ Alpha',
-      en: 'Alpha Artisanal Brewery',
-    },
-    description: {
-      de: 'Eine der ersten Mikrobrauereien in Andorra, die eine Vielzahl von Craft-Bieren mit Bergwasser herstellt.',
-      hu: 'Andorra egyik elsÅ‘ mikrosÃ¶rfÅ‘zdÃ©je, amely hegyi vÃ­zbÅ‘l kÃ©szÃ­t kÃ¼lÃ¶nfÃ©le kÃ©zmÅ±ves sÃ¶rÃ¶ket.',
-      ro: 'Una dintre primele microberÄƒrii din Andorra, care produce o varietate de beri artizanale cu apÄƒ de munte.',
-      en: 'One of the first microbreweries in Andorra, producing a variety of craft beers using mountain water.',
-    },
-    facts: {
-      de: ['Lokale Zutaten, wo mÃ¶glich', 'FÃ¼hrungen und Verkostungen', 'Innovativ und experimentell', 'Beliebt in lokalen Bars'],
-      hu: ['Helyi alapanyagok, ahol lehetsÃ©ges', 'Vezetett tÃºrÃ¡k Ã©s kÃ³stolÃ³k', 'InnovatÃ­v Ã©s kÃ­sÃ©rletezÅ‘', 'NÃ©pszerÅ± a helyi bÃ¡rokban'],
-      ro: ['Ingrediente locale, unde este posibil', 'Tururi ghidate È™i degustÄƒri', 'Inovatoare È™i experimentalÄƒ', 'PopularÄƒ Ã®n barurile locale'],
-      en: ['Local ingredients where possible', 'Guided tours and tastings', 'Innovative and experimental', 'Popular in local bars'],
-    },
-  },
-  {
-    id: 'ad-industry-old-tobacco-factory-sant-julia-extra-4',
-    type: 'industry',
-    parent: 'AD-06',
-    coords: [1.495, 42.465],
-    name: {
-      de: 'Alte Tabakfabrik Sant JuliÃ ',
-      hu: 'RÃ©gi DohÃ¡nygyÃ¡r Sant JuliÃ ',
-      ro: 'Fosta fabricÄƒ de tutun Sant JuliÃ ',
-      en: 'Old Tobacco Factory Sant JuliÃ ',
-    },
-    description: {
-      de: 'Ein historisches IndustriegebÃ¤ude, das heute das Tabakmuseum beherbergt und die Geschichte der einst wichtigsten Industrie Andorras zeigt.',
-      hu: 'Egy tÃ¶rtÃ©nelmi ipari Ã©pÃ¼let, amely ma a DohÃ¡nymÃºzeumnak ad otthont, Ã©s bemutatja Andorra egykor legfontosabb iparÃ¡gÃ¡nak tÃ¶rtÃ©netÃ©t.',
-      ro: 'O clÄƒdire industrialÄƒ istoricÄƒ care gÄƒzduieÈ™te acum Muzeul Tutunului È™i prezintÄƒ istoria celei mai importante industrii din Andorra.',
-      en: "A historic industrial building that now houses the Tobacco Museum, showcasing the history of what was once Andorra's most important industry.",
-    },
-    facts: {
-      de: ['Museum in einer ehemaligen Fabrik', 'Zeigt den gesamten Produktionsprozess', 'Interaktive Ausstellungen', 'Wichtiger Teil des industriellen Erbes'],
-      hu: ['MÃºzeum egykori gyÃ¡rban', 'Bemutatja a teljes gyÃ¡rtÃ¡si folyamatot', 'InteraktÃ­v kiÃ¡llÃ­tÃ¡sok', 'Az ipari Ã¶rÃ¶ksÃ©g fontos rÃ©sze'],
-      ro: ['Muzeu Ã®ntr-o fostÄƒ fabricÄƒ', 'PrezintÄƒ Ã®ntregul proces de producÈ›ie', 'ExpoziÈ›ii interactive', 'Parte importantÄƒ a patrimoniului industrial'],
-      en: ['Museum in a former factory', 'Shows the entire production process', 'Interactive exhibits', 'Important part of industrial heritage'],
-    },
-  },
-  {
-    id: 'ad-industry-andorra-telecom-headquarters-extra-4',
-    type: 'industry',
-    parent: 'AD-07',
-    coords: [1.53, 42.508],
-    name: {
-      de: 'Hauptsitz von Andorra Telecom',
-      hu: 'Andorra Telecom SzÃ©khÃ¡za',
-      ro: 'Sediul Andorra Telecom',
-      en: 'Andorra Telecom Headquarters',
-    },
-    description: {
-      de: 'Das Nervenzentrum der Telekommunikation in Andorra. Ein modernes GebÃ¤ude, das die technologische Entwicklung des Landes symbolisiert.',
-      hu: 'Andorra telekommunikÃ¡ciÃ³jÃ¡nak idegkÃ¶zpontja. Egy modern Ã©pÃ¼let, amely az orszÃ¡g technolÃ³giai fejlÅ‘dÃ©sÃ©t szimbolizÃ¡lja.',
-      ro: 'Centrul nervos al telecomunicaÈ›iilor din Andorra. O clÄƒdire modernÄƒ care simbolizeazÄƒ dezvoltarea tehnologicÄƒ a È›Äƒrii.',
-      en: "The nerve center of telecommunications in Andorra. A modern building that symbolizes the country's technological development.",
-    },
-    facts: {
-      de: ['Staatliches Telekommunikationsunternehmen', 'Verantwortlich fÃ¼r Telefon, Internet und TV', 'FÃ¶rdert die Digitalisierung des Landes', 'Architektonisch markantes GebÃ¤ude'],
-      hu: ['Ãllami telekommunikÃ¡ciÃ³s vÃ¡llalat', 'FelelÅ‘s a telefonÃ©rt, internetÃ©rt Ã©s TV-Ã©rt', 'ElÅ‘mozdÃ­tja az orszÃ¡g digitalizÃ¡ciÃ³jÃ¡t', 'Ã‰pÃ­tÃ©szetileg feltÅ±nÅ‘ Ã©pÃ¼let'],
-      ro: ['Companie de stat de telecomunicaÈ›ii', 'ResponsabilÄƒ pentru telefonie, internet È™i TV', 'PromoveazÄƒ digitalizarea È›Äƒrii', 'ClÄƒdire distinctivÄƒ din punct de vedere arhitectural'],
-      en: ['State-owned telecommunications company', 'Responsible for phone, internet, and TV', "Promotes the country's digitalization", 'Architecturally striking building'],
-    },
-  },
-  {
-    id: 'ad-industry-construction-sector-crane-sites-extra-4',
-    type: 'industry',
-    parent: 'AD',
-    coords: [1.535, 42.515],
-    name: {
-      de: 'Baustellen mit KrÃ¤nen',
-      hu: 'Ã‰pÃ­tkezÃ©sek darukkal',
-      ro: 'È˜antiere de construcÈ›ii cu macarale',
-      en: 'Construction Crane Sites',
-    },
-    description: {
-      de: 'Der Bausektor ist eine treibende Kraft der andorranischen Wirtschaft. Ãœberall im Land zeugen KrÃ¤ne von neuen Wohn- und Tourismusprojekten.',
-      hu: 'Az Ã©pÃ­tÅ‘ipar az andorrai gazdasÃ¡g egyik mozgatÃ³rugÃ³ja. Az orszÃ¡g egÃ©sz terÃ¼letÃ©n daruk tanÃºskodnak Ãºj lakÃ³- Ã©s turisztikai projektekrÅ‘l.',
-      ro: 'Sectorul construcÈ›iilor este o forÈ›Äƒ motrice a economiei andorrane. Macaralele din Ã®ntreaga È›arÄƒ atestÄƒ noi proiecte rezidenÈ›iale È™i turistice.',
-      en: 'The construction sector is a driving force of the Andorran economy. Cranes throughout the country are a testament to new residential and tourism projects.',
-    },
-    facts: {
-      de: ['Wichtiger Arbeitgeber', 'Kontinuierliche Modernisierung der Infrastruktur', 'Bau von Hotels, Apartments und Chalets', 'Sichtbares Zeichen des Wirtschaftswachstums'],
-      hu: ['Fontos munkÃ¡ltatÃ³', 'Az infrastruktÃºra folyamatos modernizÃ¡lÃ¡sa', 'Hotelek, apartmanok Ã©s fahÃ¡zak Ã©pÃ­tÃ©se', 'A gazdasÃ¡gi nÃ¶vekedÃ©s lÃ¡thatÃ³ jele'],
-      ro: ['Angajator important', 'Modernizarea continuÄƒ a infrastructurii', 'ConstrucÈ›ia de hoteluri, apartamente È™i cabane', 'Semn vizibil al creÈ™terii economice'],
-      en: ['Major employer', 'Continuous modernization of infrastructure', 'Construction of hotels, apartments, and chalets', 'Visible sign of economic growth'],
-    },
-  },
-  {
-    id: 'ad-industry-road-maintenance-depot-canillo-extra-4',
-    type: 'industry',
-    parent: 'AD-02',
-    coords: [1.605, 42.565],
-    name: {
-      de: 'StraÃŸenunterhaltsdienst Canillo',
-      hu: 'ÃštkarbantartÃ³ Telephely Canillo',
-      ro: 'Depoul de Ã®ntreÈ›inere a drumurilor Canillo',
-      en: 'Road Maintenance Depot Canillo',
-    },
-    description: {
-      de: 'Ein Depot fÃ¼r die Fahrzeuge und das Material des StraÃŸenunterhaltsdienstes, der fÃ¼r die SchneerÃ¤umung und die Instandhaltung der BergstraÃŸen unerlÃ¤sslich ist.',
-      hu: 'Az ÃºtkarbantartÃ³ szolgÃ¡lat jÃ¡rmÅ±veinek Ã©s anyagainak telephelye, amely elengedhetetlen a hÃ³eltakarÃ­tÃ¡shoz Ã©s a hegyi utak karbantartÃ¡sÃ¡hoz.',
-      ro: 'Un depou pentru vehiculele È™i materialele serviciului de Ã®ntreÈ›inere a drumurilor, esenÈ›ial pentru deszÄƒpezire È™i Ã®ntreÈ›inerea drumurilor montane.',
-      en: 'A depot for the vehicles and materials of the road maintenance service, which is essential for snow removal and the upkeep of mountain roads.',
-    },
-    facts: {
-      de: ['Flotte von SchneepflÃ¼gen und Streufahrzeugen', 'GewÃ¤hrleistet die Befahrbarkeit der PÃ¤sse im Winter', 'Salz- und Splittlager', 'Wichtige Ã¶ffentliche Dienstleistung'],
-      hu: ['HÃ³kotrÃ³k Ã©s sÃ³szÃ³rÃ³ jÃ¡rmÅ±vek flottÃ¡ja', 'BiztosÃ­tja a hÃ¡gÃ³k jÃ¡rhatÃ³sÃ¡gÃ¡t tÃ©len', 'SÃ³- Ã©s zÃºzalÃ©kraktÃ¡rak', 'Fontos kÃ¶zszolgÃ¡ltatÃ¡s'],
-      ro: ['FlotÄƒ de pluguri de zÄƒpadÄƒ È™i vehicule de Ã®mprÄƒÈ™tiat material antiderapant', 'AsigurÄƒ practicabilitatea trecÄƒtorilor pe timp de iarnÄƒ', 'Depozite de sare È™i nisip', 'Serviciu public important'],
-      en: ['Fleet of snowplows and gritters', 'Ensures mountain passes are open in winter', 'Salt and gravel depots', 'Essential public service'],
-    },
-  },
-  {
-    id: 'ad-industry-ski-lift-maintenance-workshop-soldeu-extra-4',
-    type: 'industry',
-    parent: 'AD-02',
-    coords: [1.668, 42.578],
-    name: {
-      de: 'Werkstatt fÃ¼r Skiliftwartung Soldeu',
-      hu: 'SÃ­lift KarbantartÃ³ MÅ±hely Soldeu',
-      ro: 'Atelier de Ã®ntreÈ›inere a teleschiurilor Soldeu',
-      en: 'Ski Lift Maintenance Workshop Soldeu',
-    },
-    description: {
-      de: 'Die technischen WerkstÃ¤tten, in denen die Gondeln, Sessel und Motoren der Skilifte von Grandvalira gewartet und repariert werden.',
-      hu: 'A technikai mÅ±helyek, ahol a Grandvalira sÃ­felvonÃ³inak kabinjait, Ã¼lÃ©seit Ã©s motorjait karbantartjÃ¡k Ã©s javÃ­tjÃ¡k.',
-      ro: 'Atelierele tehnice unde sunt Ã®ntreÈ›inute È™i reparate cabinele, scaunele È™i motoarele teleschiurilor din Grandvalira.',
-      en: 'The technical workshops where the cabins, chairs, and engines of the Grandvalira ski lifts are maintained and repaired.',
-    },
-    facts: {
-      de: ['Hochspezialisierte Mechanik und Elektrotechnik', 'Sicherstellung des sicheren Betriebs', 'Arbeit findet oft nachts oder im Sommer statt', 'RÃ¼ckgrat der Skiindustrie'],
-      hu: ['Magasan specializÃ¡lt gÃ©pÃ©szet Ã©s elektrotechnika', 'A biztonsÃ¡gos mÅ±kÃ¶dÃ©s biztosÃ­tÃ¡sa', 'A munka gyakran Ã©jjel vagy nyÃ¡ron zajlik', 'A sÃ­ipar gerince'],
-      ro: ['MecanicÄƒ È™i inginerie electricÄƒ de Ã®naltÄƒ specializare', 'Asigurarea funcÈ›ionÄƒrii Ã®n siguranÈ›Äƒ', 'LucrÄƒrile se desfÄƒÈ™oarÄƒ adesea noaptea sau vara', 'Coloana vertebralÄƒ a industriei de schi'],
-      en: ['Highly specialized mechanics and electrical engineering', 'Ensuring safe operation', 'Work often takes place at night or in summer', 'The backbone of the ski industry'],
-    },
-  },
-  {
-    id: 'ad-industry-avatel-satellite-station-ordino-extra-4',
-    type: 'industry',
-    parent: 'AD-05',
-    coords: [1.5, 42.63],
-    name: {
-      de: 'Avatel Satellitenstation Ordino',
-      hu: 'Avatel MÅ±holdÃ¡llomÃ¡s Ordino',
-      ro: 'StaÈ›ia de satelit Avatel Ordino',
-      en: 'Avatel Satellite Station Ordino',
-    },
-    description: {
-      de: 'Eine Satelliten-Bodenstation, die fÃ¼r die Ãœbertragung von Fernseh- und Datensignalen in der Bergregion von entscheidender Bedeutung ist.',
-      hu: 'Egy mÅ±holdas fÃ¶ldi Ã¡llomÃ¡s, amely kulcsfontossÃ¡gÃº a televÃ­ziÃ³s Ã©s adatjelek tovÃ¡bbÃ­tÃ¡sÃ¡hoz a hegyvidÃ©ki rÃ©giÃ³ban.',
-      ro: 'O staÈ›ie terestrÄƒ de satelit crucialÄƒ pentru transmiterea semnalelor TV È™i de date Ã®n regiunea montanÄƒ.',
-      en: 'A satellite ground station crucial for the transmission of television and data signals in the mountainous region.',
-    },
-    facts: {
-      de: ['GroÃŸe Parabolantennen', 'Verbindung zum globalen Kommunikationsnetz', 'Sichert die KonnektivitÃ¤t in abgelegenen TÃ¤lern', 'Teil der digitalen Infrastruktur'],
-      hu: ['Nagy parabolaantennÃ¡k', 'Kapcsolat a globÃ¡lis kommunikÃ¡ciÃ³s hÃ¡lÃ³zattal', 'BiztosÃ­tja a kapcsolatot a tÃ¡voli vÃ¶lgyekben', 'A digitÃ¡lis infrastruktÃºra rÃ©sze'],
-      ro: ['Antene parabolice mari', 'Conexiune la reÈ›eaua globalÄƒ de comunicaÈ›ii', 'AsigurÄƒ conectivitatea Ã®n vÄƒile izolate', 'Parte a infrastructurii digitale'],
-      en: ['Large satellite dishes', 'Connection to the global communications network', 'Ensures connectivity in remote valleys', 'Part of the digital infrastructure'],
-    },
-  },
-  // ... 20 more
-  // ===============================================================================================
-  // PORT (TRANSPORT HUB) (30)
-  // ===============================================================================================
-  // ... 25 more
-  // ===============================================================================================
-  // LANDSCAPE (30)
-  // ===============================================================================================
-  // ... 25 more
+    descriptionAdvanced: { de: "Dieser Ort ist eine bedeutende SehenswÃ¼rdigkeit in Andorra, die fÃ¼r ihre kulturelle und historische Relevanz bekannt ist. Die architektonische Gestaltung und die Einbettung in die natÃ¼rliche Umgebung machen ihn zu einem beliebten Ziel fÃ¼r Besucher, die mehr Ã¼ber die Traditionen und die Lebensweise in dieser Bergregion erfahren mÃ¶chten. Die Pflege dieses Ortes trÃ¤gt maÃŸgeblich zur Bewahrung des kulturellen Erbes der Gemeinde bei und bietet einen faszinierenden Einblick in die Entwicklung der Region.", hu: "A vadbogyÃ³k szÃ¼rete Ordino erdeiben igazi nyÃ¡ri Ã¶rÃ¶mforrÃ¡s. MÃ¡lna, Ã¡fonya Ã©s erdei szamÃ³ca is gyÅ±jthetÅ‘. A fenntarthatÃ³ szÃ¼retelÃ©s elengedhetetlen. A gyÃ¼mÃ¶lcsÃ¶kbÅ‘l hÃ¡zias lekvÃ¡rok Ã©s likÅ‘rÃ¶k kÃ©szÃ¼lnek. BiolÃ³gia K8 â€” tÃ¡plÃ¡lÃ©knÃ¶vÃ©nyek.", ro: "", en: "" },
+    factsAdvanced: { de: ["Historisch bedeutsamer Ort.", "Wichtiger kultureller Bestandteil.", "Architektonisch wertvoll.", "Beliebtes Touristenziel.", "Zeugnis lokaler Traditionen.", "In die Natur eingebettet."], hu: ["Gazdag vitaminforrÃ¡s.", "TermÃ©szetkÃ¶zeli tevÃ©kenysÃ©g.", "HÃ¡zi lekvÃ¡rok.", "FenntarthatÃ³ gyÅ±jtÃ©s.", "SzezonÃ¡lis.", "Az erdÅ‘ kincsei."], ro: [], en: [] }
+  }
 ];
 

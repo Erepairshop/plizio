@@ -13,7 +13,7 @@ export interface KemiaSubtopic {
 
 export interface KemiaTheme {
   id: string;
-  name: string;
+  name: string | Record<string, string>;
   icon: string;
   color: string;
   subtopics: KemiaSubtopic[];

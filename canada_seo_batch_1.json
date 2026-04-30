@@ -1,0 +1,902 @@
+[
+  {
+    "id": "can_cap",
+    "descriptionAdvanced": {
+      "de": "Ottawa, die majestätische Hauptstadt Kanadas, präsentiert sich als eine Stadt von zeitloser Eleganz und politischer Bedeutung. Gelegen am malerischen Zusammenfluss des Ottawa-, Gatineau- und Rideau-Flusses, bietet die Metropole eine einzigartige Mischung aus historischer Pracht und modernem Lebensgefühl. Das Herzstück der Stadt ist zweifellos der Parliament Hill, dessen neugotische Architektur und der emporragende Peace Tower die Skyline dominieren. Besucher können hier die feierliche Wachablösung miterleben oder die prachtvolle Parlamentsbibliothek bestaunen. Ein weiteres Highlight ist der Rideau-Kanal, ein UNESCO-Weltkulturerbe, der im Winter zur längsten natürlichen Schlittschuhbahn der Welt wird. Das kulturelle Leben floriert im ByWard Market, wo lokale Köstlichkeiten und Kunsthandwerk aufeinandertreffen. Ottawa ist zudem ein Zentrum für Weltklasse-Museen, wie das National Gallery of Canada, die die reiche Geschichte und Kunst des Landes lebendig halten. Die Stadt verbindet Naturverbundenheit mit urbaner Raffinesse und ist ein unverzichtbares Ziel für Entdecker."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ottawa wurde am 31. Dezember 1857 von Königin Victoria zur Hauptstadt Kanadas ernannt.",
+        "Der Peace Tower auf dem Parliament Hill ist genau 92,2 Meter hoch.",
+        "Der Rideau-Kanal erstreckt sich über eine Gesamtlänge von 202 Kilometern bis nach Kingston.",
+        "Im Winter verwandelt sich der Kanal in eine 7,8 Kilometer lange Eislaufbahn.",
+        "Die National Gallery of Canada beherbergt über 40.000 Kunstwerke.",
+        "Das jährliche Tulpenfestival im Mai zeigt mehr als 1 Million blühende Tulpen.",
+        "Ottawa liegt auf einer durchschnittlichen Höhe von 70 Metern über dem Meeresspiegel.",
+        "Die Stadt hat über 170 Kilometer an Radwegen innerhalb des Stadtgebiets."
+      ]
+    }
+  },
+  {
+    "id": "can_tor",
+    "descriptionAdvanced": {
+      "de": "Toronto ist das pulsierende wirtschaftliche Kraftzentrum Kanadas und eine der multikulturellsten Metropolen der Welt. Am Nordufer des Ontariosees gelegen, besticht die Stadt durch ihre ikonische Skyline, die vom CN Tower, einst dem höchsten freistehenden Bauwerk der Erde, angeführt wird. Toronto ist ein Schmelztiegel der Kulturen, was sich in den lebhaften Vierteln wie Chinatown, Little Italy und dem Distillery District widerspiegelt. Die Stadt bietet eine beeindruckende Vielfalt an erstklassigen Restaurants, Museen und Theatern, die sie zum kulturellen Epizentrum des Landes machen. Das Royal Ontario Museum mit seiner markanten Architektur und die Art Gallery of Ontario sind Pflichtbesuche für Kunst- und Geschichtsliebhaber. Für Natursuchende bieten die Toronto Islands eine grüne Oase mit atemberaubendem Blick auf die Skyline. Als Finanzhub beherbergt Toronto die wichtigsten Banken und die Börse des Landes. Die Energie der Stadt ist in den geschäftigen Straßen der Bay Street und am belebten Yonge-Dundas Square förmlich greifbar."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der CN Tower war mit 553,3 Metern für 32 Jahre das höchste Gebäude der Welt.",
+        "Toronto hat eine Bevölkerung von über 2,7 Millionen Menschen im Stadtgebiet.",
+        "Mehr als 50 % der Einwohner Torontos wurden außerhalb Kanadas geboren.",
+        "PATH ist das weltweit größte unterirdische Einkaufssystem mit über 30 Kilometern Länge.",
+        "Der Ontariosee, an dem die Stadt liegt, hat eine Fläche von 18.960 Quadratkilometern.",
+        "Der Distillery District beherbergt die größte Sammlung viktorianischer Industrie-Architektur in Nordamerika.",
+        "Toronto empfängt jährlich mehr als 27 Millionen Touristen.",
+        "Die Stadt verfügt über mehr als 1.600 öffentliche Parks."
+      ]
+    }
+  },
+  {
+    "id": "can_mon",
+    "descriptionAdvanced": {
+      "de": "Montreal ist eine bezaubernde Verschmelzung von europäischem Charme und nordamerikanischer Dynamik. Als zweitgrößte französischsprachige Stadt der Welt versprüht sie ein unverwechselbares Flair, das besonders im historischen Viertel Vieux-Montréal spürbar wird. Die kopfsteingepflasterten Gassen, gesäumt von Gebäuden aus dem 17. Jahrhundert und der prachtvollen Basilika Notre-Dame, versetzen Besucher in eine andere Zeit. Montreal ist berühmt für seine Lebensfreude, die sich in zahlreichen Festivals wie dem Montreal International Jazz Festival ausdrückt. Der Mount Royal Park, entworfen von Frederick Law Olmsted, bietet nicht nur weitläufige Grünflächen, sondern auch einen spektakulären Panoramablick über die Stadt. Die kulinarische Szene ist legendär, von den berühmten Montreal-Bagels bis hin zur deftigen Poutine. Unter der Erde erstreckt sich die 'RÉSO', eine riesige unterirdische Stadt, die besonders im Winter Schutz vor der Kälte bietet. Montreal ist ein Zentrum für Design, Technologie und Hochschulbildung, das Tradition und Innovation meisterhaft verbindet."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Montreal wurde im Jahr 1642 unter dem Namen Ville-Marie gegründet.",
+        "Der Mont Royal, der Namensgeber der Stadt, hat eine Höhe von 233 Metern.",
+        "Die unterirdische Stadt RÉSO umfasst ein Tunnelnetz von etwa 32 Kilometern.",
+        "Die Basilika Notre-Dame wurde zwischen 1824 und 1829 im neugotischen Stil erbaut.",
+        "Das Montreal Jazz Festival ist laut Guinness-Buch das größte Jazzfestival der Welt.",
+        "Die Stadt liegt auf der Île de Montréal, einer Insel am Zusammenfluss von Sankt-Lorenz- und Ottawa-Fluss.",
+        "In Montreal gibt es über 50 nationale historische Stätten Kanadas.",
+        "Der Hafen von Montreal ist einer der größten Binnenhäfen der Welt."
+      ]
+    }
+  },
+  {
+    "id": "can_van",
+    "descriptionAdvanced": {
+      "de": "Vancouver gilt oft als eine der lebenswertesten Städte der Welt und besticht durch seine spektakuläre Lage zwischen den schneebedeckten Gipfeln der Coast Mountains und dem glitzernden Pazifik. Diese 'Perle am Pazifik' bietet eine seltene Harmonie von urbaner Dichte und unberührter Natur. Das Juwel der Stadt ist der Stanley Park, einer der größten Stadtparks Nordamerikas, der fast vollständig von Wasser umgeben ist und kilometerlange Uferwege bietet. Das historische Viertel Gastown mit seinen dampfbetriebenen Uhren und Granville Island mit seinem geschäftigen Public Market sind kulturelle Anziehungspunkte. Vancouver ist zudem ein bedeutendes Tor zum asiatisch-pazifischen Raum, was sich in seiner ethnischen Vielfalt und kulinarischen Exzellenz niederschlägt. Die Filmindustrie der Stadt ist so bedeutend, dass sie oft als 'Hollywood North' bezeichnet wird. Ob Skifahren auf dem Grouse Mountain am Vormittag oder Segeln in der English Bay am Nachmittag – Vancouver macht es möglich und fasziniert Besucher mit seiner entspannten Outdoor-Kultur."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Stanley Park ist mit 405 Hektar etwa 10 % größer als der Central Park in New York.",
+        "Vancouver war im Jahr 2010 stolzer Gastgeber der Olympischen Winterspiele.",
+        "Die Stadt wurde 1886 gegründet und nach dem britischen Entdecker George Vancouver benannt.",
+        "Vancouver hat den größten Hafen Kanadas, der jährlich Waren im Wert von 200 Mrd. CAD umschlägt.",
+        "Etwa 35 % der Bevölkerung Vancouvers haben chinesische Wurzeln.",
+        "Der Grouse Mountain Skyride ist die größte Luftseilbahn Nordamerikas.",
+        "Die jährliche Niederschlagsmenge in Vancouver beträgt durchschnittlich 1.153 Millimeter.",
+        "Die Capilano Suspension Bridge ist 137 Meter lang und schwebt 70 Meter über dem Fluss."
+      ]
+    }
+  },
+  {
+    "id": "can_cal",
+    "descriptionAdvanced": {
+      "de": "Calgary, am Fuße der majestätischen Rocky Mountains gelegen, ist eine dynamische Metropole, die ihre Wildwest-Wurzeln stolz mit moderner Wirtschaftskraft vereint. Bekannt als Zentrum der kanadischen Energieindustrie, hat sich die Stadt zu einem innovativen Hub für Technologie und Finanzen entwickelt. Das weltberühmte 'Calgary Stampede', oft als die größte Outdoor-Show der Welt bezeichnet, verwandelt die Stadt jeden Juli in ein Mekka für Cowboy-Kultur und Rodeosport. Der Calgary Tower bietet einen atemberaubenden 360-Grad-Blick auf die Stadt und die nahen Berge. Das Heritage Park Historical Village entführt Besucher in das Leben der frühen Siedler. Calgary zeichnet sich durch seine hohe Lebensqualität und sein sonniges Klima aus, ergänzt durch ein weitläufiges Netz an Rad- und Wanderwegen entlang des Bow River. Als Tor zu den Nationalparks Banff und Jasper ist die Stadt der ideale Ausgangspunkt für Outdoor-Abenteuer. Die moderne Architektur des Central Library und das pulsierende Viertel East Village zeigen die zukunftsorientierte Seite dieser herzlichen Stadt."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Calgary liegt auf einer beachtlichen Höhe von 1.045 Metern über dem Meeresspiegel.",
+        "Mit durchschnittlich 333 Sonnentagen pro Jahr ist es die sonnigste Großstadt Kanadas.",
+        "Das Calgary Stampede zieht jährlich über 1 Million Besucher an.",
+        "Der Calgary Tower wurde 1968 erbaut und ist 191 Meter hoch.",
+        "Calgary war 1988 die erste kanadische Stadt, die Olympische Winterspiele ausrichtete.",
+        "Das Skywalk-System 'Plus 15' ist mit 18 Kilometern eines der weltweit umfangreichsten oberirdischen Fußgängernetze.",
+        "Der Bow River fließt durch das Stadtzentrum und ist weltweit bekannt für das Forellenangeln.",
+        "In Calgary befinden sich die Hauptsitze fast aller großen Energieunternehmen Kanadas."
+      ]
+    }
+  },
+  {
+    "id": "can_edm",
+    "descriptionAdvanced": {
+      "de": "Edmonton, die Hauptstadt von Alberta, ist eine Stadt der Kontraste und wird oft als 'Festival City' Kanadas gefeiert. Sie liegt am Ufer des North Saskatchewan River, dessen tief eingeschnittenes Flusstal das größte zusammenhängende städtische Parksystem Nordamerikas beherbergt. Edmonton ist weltweit bekannt für die West Edmonton Mall, einst das größte Einkaufszentrum der Welt, das mit einem Wellenbad, einem Freizeitpark und hunderten Geschäften weit mehr als nur ein Shopping-Ziel ist. Doch die Stadt bietet auch eine tiefe kulturelle Seele, die im Viertel Old Strathcona mit seinen historischen Gebäuden und Theatern spürbar wird. Das Royal Alberta Museum und die Art Gallery of Alberta präsentieren beeindruckende Ausstellungen. Als bedeutendes Tor zum Norden ist Edmonton ein wichtiger Stützpunkt für die Ressourcenindustrie, bewahrt jedoch einen starken Gemeinschaftssinn. Die langen Sommertage, an denen die Sonne kaum unterzugehen scheint, werden für unzählige Festivals genutzt, die von Theater bis zu kulinarischen Genüssen reichen."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Edmonton ist die nördlichste Millionenstadt Nordamerikas.",
+        "Das Flusstal-Parksystem ist 22-mal größer als der Central Park in New York.",
+        "Die West Edmonton Mall umfasst eine Fläche von über 490.000 Quadratmetern.",
+        "Edmonton beherbergt jährlich mehr als 50 verschiedene Festivals.",
+        "Das Muttart Conservatory besteht aus vier markanten Glaspyramiden mit unterschiedlichen Klimazonen.",
+        "Der Elk Island Nationalpark liegt nur 35 Kilometer östlich der Stadt.",
+        "Edmonton wurde 1795 als Handelsposten der Hudson's Bay Company gegründet.",
+        "Die High Level Bridge ist 777 Meter lang und verfügt über einen künstlichen Wasserfall."
+      ]
+    }
+  },
+  {
+    "id": "can_que",
+    "descriptionAdvanced": {
+      "de": "Quebec City ist das historische Juwel Nordamerikas und die einzige befestigte Stadt nördlich von Mexiko, deren Stadtmauern noch heute stolz das Zentrum umschließen. Die Altstadt, Vieux-Québec, gehört zum UNESCO-Weltkulturerbe und verzaubert mit ihrem europäischen Flair, den schmalen Kopfsteinpflastergassen und prachtvollen Gebäuden. Über allem thront das majestätische Château Frontenac, das meistfotografierte Hotel der Welt, das wie ein Märchenschloss über dem Sankt-Lorenz-Strom wacht. Ein Spaziergang über die Dufferin Terrace bietet spektakuläre Ausblicke auf den Fluss und die Ile d'Orléans. Die Stadt ist ein Zentrum der französisch-kanadischen Kultur, was sich in ihrer exquisiten Gastronomie und den herzlichen Einwohnern widerspiegelt. Im Winter verwandelt sich Quebec City in ein Winterwunderland und feiert den weltberühmten Carnaval de Québec mit Eisskulpturen und Paraden. Die historische Zitadelle und die Battlefields Parks erzählen von der bewegten militärischen Vergangenheit der Stadt, die die Geschichte des gesamten Kontinents maßgeblich geprägt hat."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Quebec City wurde im Jahr 1608 vom Entdecker Samuel de Champlain gegründet.",
+        "Das Château Frontenac verfügt über 611 Zimmer und wurde 1893 eröffnet.",
+        "Die Stadtmauern von Quebec erstrecken sich über eine Länge von etwa 4,6 Kilometern.",
+        "Etwa 95 % der Bevölkerung sprechen Französisch als Muttersprache.",
+        "Die Montmorency-Falls, kurz außerhalb der Stadt, sind mit 84 Metern höher als die Niagarafälle.",
+        "Die Basilika-Kathedrale Notre-Dame de Québec ist der Sitz des Primas von Kanada.",
+        "Der Petit Champlain Distrikt gilt als eine der ältesten Geschäftsstraßen Nordamerikas.",
+        "Die Stadt empfängt jährlich etwa 4,5 Millionen Besucher."
+      ]
+    }
+  },
+  {
+    "id": "can_win",
+    "descriptionAdvanced": {
+      "de": "Winnipeg, gelegen im geografischen Zentrum Kanadas, ist eine Stadt mit einer tiefen kulturellen Vielfalt und einer faszinierenden Geschichte als 'Tor zum Westen'. Wo sich der Red River und der Assiniboine River am historischen Ort 'The Forks' treffen, pulsiert seit Jahrtausenden das Leben. Heute ist Winnipeg bekannt für seine beeindruckende Architektur, wie das Kanadische Museum für Menschenrechte, dessen markante Glasstruktur die Skyline prägt. Das Viertel Exchange District beherbergt eine der besterhaltenen Sammlungen nordamerikanischer Geschäftsgebäude aus der Zeit um 1900. Winnipeg ist ein bedeutendes Zentrum für Kunst und Kultur, Heimat des Royal Winnipeg Ballet und einer lebendigen Musikszene. Trotz der berüchtigten Winterkälte strahlt die Stadt eine Wärme durch ihre herzliche Bevölkerung und ihre zahlreichen Winteraktivitäten aus, wie das Eislaufen auf den zugefrorenen Flüssen. Die Stadt ist zudem ein Schmelztiegel der Kulturen, was sich in einer exzellenten Gastronomie widerspiegelt, die von ukrainischen Spezialitäten bis zu modernen indigenen Gerichten reicht."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Winnipeg liegt genau in der Mitte zwischen dem Atlantik und dem Pazifik.",
+        "Das Kanadische Museum für Menschenrechte ist das einzige Nationalmuseum Kanadas außerhalb von Ottawa.",
+        "Der Exchange District umfasst 20 Häuserblocks mit über 150 historischen Gebäuden.",
+        "Winnipeg war 1912 die viertgrößte Stadt Kanadas.",
+        "Im Winter kann die Temperatur in Winnipeg auf unter -40 Grad Celsius fallen.",
+        "Der Assiniboine Park beherbergt den berühmten Skulpturengarten von Leo Mol.",
+        "Winnipeg ist die Hauptstadt der Provinz Manitoba und hat über 750.000 Einwohner.",
+        "Die Stadt verfügt über die breiteste Hauptstraße Kanadas, die Portage Avenue."
+      ]
+    }
+  },
+  {
+    "id": "can_hal",
+    "descriptionAdvanced": {
+      "de": "Halifax, die dynamische Hauptstadt von Nova Scotia, ist eine Stadt, die tief mit dem Atlantik verwurzelt ist. Ihr geschäftiger Hafen, einer der größten und tiefsten natürlichen eisfreien Häfen der Welt, ist seit Jahrhunderten das Tor Kanadas zum Osten. Die Uferpromenade von Halifax ist eine der längsten der Welt und lädt zum Bummeln zwischen historischen Lagerhäusern, modernen Museen und lebhaften Restaurants ein. Hoch über der Stadt thront die sternförmige Halifax Citadel, eine nationale historische Stätte, die einen weiten Blick über den Hafen bietet. Halifax ist bekannt für seine reiche maritime Geschichte, die im Maritime Museum of the Atlantic dokumentiert ist, wo Artefakte der Titanic-Katastrophe ausgestellt sind. Als bedeutendes Bildungs- und Forschungszentrum beherbergt die Stadt mehrere Universitäten, was ihr ein jugendliches und lebendiges Flair verleiht. Die Gastfreundschaft der Maritimes ist in den unzähligen Pubs spürbar, wo oft Live-Musik und frische Meeresfrüchte wie Hummer und Jakobsmuscheln serviert werden."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Halifax wurde im Jahr 1749 als britischer Militärstützpunkt gegründet.",
+        "Der Hafen von Halifax ist einer der tiefsten natürlichen Häfen der Welt.",
+        "Die Halifax Citadel ist das meistbesuchte nationale historische Denkmal Kanadas.",
+        "Im Jahr 1917 ereignete sich im Hafen die 'Halifax-Explosion', die größte künstliche Explosion vor der Atombombe.",
+        "Halifax beherbergt das Pier 21, das 'Ellis Island Kanadas', durch das über 1 Million Einwanderer kamen.",
+        "Die Stadt hat mehr Pubs pro Kopf als jede andere Stadt in Kanada.",
+        "Die Gezeiten im nahen Becken von Bedford gehören zu den stärksten der Welt.",
+        "Halifax ist die Heimat von über 400.000 Menschen und das wirtschaftliche Zentrum der Atlantikprovinzen."
+      ]
+    }
+  },
+  {
+    "id": "can_vic",
+    "descriptionAdvanced": {
+      "de": "Victoria, die charmante Hauptstadt von British Columbia, liegt an der Südspitze von Vancouver Island und verzaubert Besucher mit ihrem milden Klima und dem ausgeprägten britischen Erbe. Oft als 'Gartenstadt' bezeichnet, blüht Victoria fast das ganze Jahr über, was besonders in den weltberühmten Butchart Gardens deutlich wird. Das Herz der Stadt ist der Inner Harbour, gesäumt von prachtvollen Gebäuden wie den Parlamentsgebäuden von British Columbia und dem ehrwürdigen Fairmont Empress Hotel, in dem der Nachmittagstee eine feste Tradition ist. Victoria verbindet koloniale Geschichte mit einer modernen Outdoor-Kultur. Besucher können hier erstklassige Walbeobachtungstouren unternehmen oder die malerische Küstenlinie beim Radfahren erkunden. Das Royal British Columbia Museum bietet faszinierende Einblicke in die Naturgeschichte und die Kultur der First Nations. Die entspannte Atmosphäre, die gut erhaltene viktorianische Architektur und die Nähe zur unberührten Wildnis machen Victoria zu einem einzigartigen Ziel, das Ruhe und kulturelle Vielfalt gleichermaßen bietet."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Victoria ist nach London und San Francisco die zweitmeistbesuchte Stadt an der Pazifikküste.",
+        "Die Stadt wurde 1843 als Handelsposten der Hudson's Bay Company gegründet.",
+        "Das Klima in Victoria ist das mildeste in ganz Kanada.",
+        "Die Butchart Gardens ziehen jährlich über 1 Million Besucher an.",
+        "Victoria beherbergt das älteste Chinatown Kanadas.",
+        "Der Inner Harbour ist das ganze Jahr über eisfrei.",
+        "Die Parlamentsgebäude werden nachts von über 3.300 Glühbirnen beleuchtet.",
+        "Victoria liegt etwa 100 Kilometer südlich von Vancouver."
+      ]
+    }
+  },
+  {
+    "id": "can_ss",
+    "descriptionAdvanced": {
+      "de": "Saskatoon, oft als 'Paris der Prärie' bezeichnet, ist eine lebendige Stadt am South Saskatchewan River, die für ihre sieben markanten Brücken bekannt ist. Sie ist die größte Stadt der Provinz Saskatchewan und dient als bedeutendes kulturelles und wirtschaftliches Zentrum. Das Stadtbild wird durch den Fluss geprägt, dessen Ufer von weitläufigen Parks und Wanderwegen gesäumt sind. Das Remai Modern Museum zeigt erstklassige zeitgenössische Kunst und beherbergt eine bedeutende Picasso-Sammlung. Saskatoon ist tief mit dem Agrarsektor verwurzelt, hat sich aber zu einem Hub für Biotechnologie und Bergbau entwickelt. Die Universität von Saskatchewan mit ihren historischen Kalksteingebäuden verleiht der Stadt ein akademisches Flair. Besucher können die reiche indigene Geschichte im nahegelegenen Wanuskewin Heritage Park erkunden. Die kulinarische Szene in Saskatoon ist überraschend vielfältig und nutzt lokale Zutaten der Prärie, wie die berühmte Saskatoon-Beere. Mit seiner Mischung aus Kleinstadtcharme und urbaner Innovation ist Saskatoon ein echtes Juwel in der kanadischen Weite."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Saskatoon ist nach einer lokalen Beere benannt, die in der Sprache der Cree 'Mis-sask-quah-toomina' heißt.",
+        "Die Stadt wird von sieben Brücken überquert, was ihr den Spitznamen 'Bridge City' einbrachte.",
+        "Saskatoon hat eine der höchsten Pro-Kopf-Konzentrationen an Forschungseinrichtungen in Kanada.",
+        "Die Universität von Saskatchewan wurde im Jahr 1907 gegründet.",
+        "Der Wanuskewin Heritage Park ist eine Bewerberstätte für das UNESCO-Weltkulturerbe.",
+        "Saskatoon ist ein weltweit führendes Zentrum für den Abbau von Kali und Uran.",
+        "In der Stadt gibt es über 200 öffentliche Parks und Grünflächen.",
+        "Die durchschnittliche Höhe der Stadt liegt bei 482 Metern über dem Meeresspiegel."
+      ]
+    }
+  },
+  {
+    "id": "can_reg",
+    "descriptionAdvanced": {
+      "de": "Regina, die stolze Hauptstadt von Saskatchewan, erhebt sich als grüne Oase aus der flachen Weite der kanadischen Prärie. Das Herzstück der Stadt ist das Wascana Centre, einer der größten Stadtparks Nordamerikas, der um einen künstlich angelegten See herum angelegt wurde. Hier befinden sich das prächtige Parlamentsgebäude von Saskatchewan und die Universität von Regina. Die Stadt hat eine tiefe historische Bedeutung als ursprüngliches Hauptquartier der North-West Mounted Police. Heute ist das RCMP Heritage Centre ein Muss für Besucher, die mehr über die Geschichte der berühmten 'Mounties' erfahren möchten. Regina ist ein kulturelles Zentrum mit einer blühenden Kunstszene und dem Royal Saskatchewan Museum, das die Naturgeschichte der Region dokumentiert. Trotz seiner Lage in einer agrarisch geprägten Region ist Regina eine moderne Stadt mit einem starken Fokus auf Bildung und Verwaltung. Die weiten Horizonte und das spektakuläre Licht der Prärie verleihen der Stadt eine ganz besondere Atmosphäre, die besonders bei den feurigen Sonnenuntergängen zur Geltung kommt."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Regina wurde 1882 gegründet und nach Königin Victoria benannt (Regina ist Latein für Königin).",
+        "Das Wascana Centre ist mit 9,3 Quadratkilometern größer als der New Yorker Central Park.",
+        "Die Stadt beherbergt das einzige Ausbildungsdepot der Royal Canadian Mounted Police (RCMP).",
+        "Regina ist die Heimat der Saskatchewan Roughriders, eines der populärsten Teams der CFL.",
+        "Das Parlamentsgebäude wurde zwischen 1908 und 1912 im Beaux-Arts-Stil errichtet.",
+        "Ursprünglich hieß der Ort 'Pile-O-Bones' aufgrund der dort gelagerten Büffelknochen.",
+        "Die Stadt liegt auf einer Höhe von etwa 577 Metern über dem Meeresspiegel.",
+        "In Regina befindet sich die älteste kontinuierlich spielende Sinfonie Kanadas."
+      ]
+    }
+  },
+  {
+    "id": "can_stj",
+    "descriptionAdvanced": {
+      "de": "St. John's, die Hauptstadt von Neufundland und Labrador, ist eine der ältesten und charaktervollsten Städte Nordamerikas. Am östlichsten Rand des Kontinents gelegen, schmiegt sie sich an die steilen Hänge eines geschützten Hafens am Atlantik. Berühmt ist die Stadt für ihre 'Jellybean Row' – Reihen von Häusern, die in leuchtenden, bunten Farben gestrichen sind und der oft nebligen Küste ein frohes Gesicht verleihen. Über der Stadt thront der Signal Hill, wo 1901 das erste transatlantische Funksignal empfangen wurde. Die raue Schönheit der Küste mit ihren Klippen und der Blick auf vorbeiziehende Eisberge und Wale machen St. John's zu einem Paradies für Naturfreunde. Die George Street im Stadtzentrum ist legendär für ihre Dichte an Pubs und Live-Musik, die das irische und englische Erbe der Insel widerspiegeln. St. John's ist ein Ort, an dem die Geschichte der Fischerei auf die moderne Energie der Offshore-Ölindustrie trifft, bewahrt aber stets seinen authentischen, herzlichen Charme und seine unverwechselbare Identität."
+    },
+    "factsAdvanced": {
+      "de": [
+        "St. John's gilt als die älteste von Engländern gegründete Stadt in Nordamerika (1497).",
+        "Der Ort liegt näher an Irland als an Vancouver.",
+        "Cape Spear, nur wenige Kilometer entfernt, ist der östlichste Punkt Nordamerikas.",
+        "Die Stadt wird oft als 'Nebelhauptstadt' Kanadas bezeichnet, mit über 120 Nebeltagen pro Jahr.",
+        "Die George Street ist bekannt dafür, die meisten Pubs pro Quadratmeter in Nordamerika zu haben.",
+        "Im Jahr 1892 zerstörte ein verheerender Brand zwei Drittel der Stadt.",
+        "Der Signal Hill war Schauplatz der letzten Schlacht des Siebenjährigen Krieges in Nordamerika.",
+        "St. John's ist die Heimat der Memorial University of Newfoundland."
+      ]
+    }
+  },
+  {
+    "id": "can_cha",
+    "descriptionAdvanced": {
+      "de": "Charlottetown, die malerische Hauptstadt von Prince Edward Island (PEI), wird stolz als 'Wiege der Konföderation' bezeichnet. Hier trafen sich 1864 die Gründungsväter Kanadas, um die Basis für das moderne Land zu schaffen. Die Stadt am Meer verzaubert mit ihrer gut erhaltenen viktorianischen Architektur, den baumgesäumten Straßen und einer entspannten, kleinstädtischen Atmosphäre. Das Confederation Centre of the Arts ist das kulturelle Herz der Insel und zeigt jeden Sommer das berühmte Musical 'Anne of Green Gables'. Die Uferpromenade Peake's Wharf ist ein lebhafter Ort mit Geschäften, Cafés und Blick auf den geschäftigen Hafen. Charlottetown ist zudem das Tor zur kulinarischen Welt von PEI, bekannt für erstklassige Meeresfrüchte, insbesondere Hummer und Austern. Die Nähe zu den roten Sandstränden und sanften grünen Hügeln der Insel macht die Stadt zu einem idealen Ausgangspunkt für Entdeckungen. Die Herzlichkeit der Inselbewohner und der historische Charme machen Charlottetown zu einem unverzichtbaren Stopp im Osten Kanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Charlottetown wurde 1764 gegründet und nach Königin Charlotte benannt.",
+        "Die Stadt hat etwa 36.000 Einwohner und ist die größte Stadt auf PEI.",
+        "Die Charlottetown-Konferenz von 1864 legte den Grundstein für die Gründung Kanadas 1867.",
+        "Prince Edward Island ist die kleinste Provinz Kanadas.",
+        "Charlottetown ist über die 12,9 Kilometer lange Confederation Bridge mit dem Festland verbunden.",
+        "Das Province House ist das zweitälteste aktive Parlamentsgebäude in Kanada.",
+        "Die Stadt beherbergt die University of Prince Edward Island.",
+        "PEI produziert etwa 25 % der Kartoffeln in Kanada."
+      ]
+    }
+  },
+  {
+    "id": "can_fre",
+    "descriptionAdvanced": {
+      "de": "Fredericton, die charmante Hauptstadt von New Brunswick, liegt malerisch am Ufer des majestätischen Saint John River. Die Stadt ist bekannt für ihre üppigen Grünflächen und ihre tiefen historischen Wurzeln, die besonders im historischen Offiziersviertel (Officers' Square) spürbar sind. Hier können Besucher im Sommer die feierliche Wachablösung erleben. Fredericton verbindet seinen Status als politisches Zentrum mit einer blühenden Kunst- und Kulturszene. Die Beaverbrook Art Gallery beherbergt eine beeindruckende Sammlung, darunter Werke von Salvador Dalí und bedeutenden kanadischen Künstlern. Als Universitätsstadt bietet Fredericton eine lebendige Atmosphäre mit vielen Cafés, lokalen Brauereien und einer engagierten Gemeinschaft. Der Fluss spielt eine zentrale Rolle im Leben der Stadt und bietet Möglichkeiten zum Kajakfahren, Bootfahren und Radfahren entlang des ausgedehnten Wegenetzes am Ufer. Mit seiner Mischung aus kolonialer Geschichte, akademischem Esprit und natürlicher Schönheit ist Fredericton ein ruhiges, aber kulturell reiches Ziel im Osten Kanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Fredericton wurde im Jahr 1785 von loyalistischen Siedlern gegründet.",
+        "Die University of New Brunswick (gegründet 1785) ist eine der ältesten öffentlichen Unis Nordamerikas.",
+        "Das Parlamentsgebäude von New Brunswick stammt aus dem Jahr 1882.",
+        "Fredericton ist eine der wenigen Städte Kanadas, die vollständig zweisprachig (Englisch/Französisch) agieren.",
+        "Der Saint John River ist der längste Fluss an der Atlantikküste zwischen dem Sankt-Lorenz-Strom und dem Mississippi.",
+        "Die Stadt hat über 88 Kilometer an Wander- und Radwegen.",
+        "In Fredericton befindet sich die 'Christ Church Cathedral', eines der besten Beispiele für neugotische Architektur in Kanada.",
+        "Die Stadt hat eine Bevölkerung von etwa 60.000 Einwohnern."
+      ]
+    }
+  },
+  {
+    "id": "can_whi",
+    "descriptionAdvanced": {
+      "de": "Whitehorse, die Hauptstadt des Yukon-Territoriums, ist bekannt als die 'Wildnisstadt' und liegt eingebettet in das weite Tal des Yukon River. Sie ist das Tor zu den unendlichen Abenteuern des hohen Nordens und bietet eine faszinierende Mischung aus Goldrausch-Historie und moderner Infrastruktur. Die Stadt war ein entscheidender Stützpunkt während des Klondike-Goldrausches Ende des 19. Jahrhunderts, woran heute der historische Raddampfer SS Klondike erinnert. Besucher können die atemberaubende Natur beim Wandern, Kanufahren oder im Winter beim Hundeschlittenfahren erleben. Ein Highlight ist das Yukon Wildlife Preserve, wo man Elche, Karibus und Moschusochsen beobachten kann. Im Winter ist Whitehorse einer der weltweit besten Orte, um das magische Tanzen der Polarlichter zu bestaunen. Trotz seiner Abgeschiedenheit bietet die Stadt eine lebendige Kunstszene und gemütliche Cafés. Whitehorse strahlt den Geist der Pioniere aus und ist der ideale Ort für Reisende, die die raue Schönheit der Arktis und den Reiz der Einsamkeit suchen."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Whitehorse beherbergt über 75 % der gesamten Bevölkerung des Yukon-Territoriums.",
+        "Der Name stammt von den 'White Horse Rapids' des Yukon River, die an die Mähnen weißer Pferde erinnerten.",
+        "Die Stadt liegt etwa 2.400 Kilometer nördlich von Vancouver.",
+        "Im Sommer scheint die Sonne in Whitehorse bis zu 20 Stunden am Tag.",
+        "Die SS Klondike war einer der größten Raddampfer auf dem Yukon River.",
+        "Whitehorse wurde im Jahr 1953 die Hauptstadt des Yukon (vorher war es Dawson City).",
+        "Die durchschnittliche Höhe der Stadt liegt bei 640 Metern über dem Meeresspiegel.",
+        "Die Miles Canyon Hängebrücke bietet einen spektakulären Blick auf den tiefblauen Fluss."
+      ]
+    }
+  },
+  {
+    "id": "can_yel",
+    "descriptionAdvanced": {
+      "de": "Yellowknife, die Hauptstadt der Nordwest-Territorien, liegt am Nordufer des gewaltigen Großen Sklavensees und gilt als die 'Diamantenhauptstadt' Kanadas. Die Stadt entstand in den 1930er Jahren während eines Goldrausches und hat sich von einer rauen Bergbausiedlung zu einem modernen Verwaltungs- und Logistikzentrum entwickelt. Heute ist Yellowknife weltberühmt für die Beobachtung von Polarlichtern, da die klaren, kalten Nächte des Nordens ideale Bedingungen bieten. Die Altstadt, 'Old Town', mit ihren urigen Holzhütten und dem berühmten Bush Pilot's Monument, versprüht den authentischen Charme des Nordens. Besucher können im Winter auf Eisstraßen fahren, die über den gefrorenen See führen, oder im Sommer die endlosen Tage unter der Mitternachtssonne genießen. Der Große Sklavensee bietet erstklassige Möglichkeiten zum Angeln und Segeln. Yellowknife ist ein Ort, an dem indigene Traditionen auf die moderne Ressourcenindustrie treffen, und bietet ein einzigartiges Erlebnis am Rande der arktischen Wildnis."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Yellowknife liegt am zehntgrößten See der Welt, dem Großen Sklavensee (27.200 qkm).",
+        "Die Stadt ist bekannt für drei große Diamantenminen in der näheren Umgebung.",
+        "In Yellowknife können Polarlichter an durchschnittlich 240 Nächten im Jahr gesehen werden.",
+        "Die Stadt wurde 1934 gegründet, nachdem Gold in der Region entdeckt worden war.",
+        "Yellowknife liegt etwa 400 Kilometer südlich des Polarkreises.",
+        "Im Winter werden die 'Ice Roads' bis zu 1,5 Meter dick, um schwere LKWs zu tragen.",
+        "Das Bush Pilot's Monument ist der höchste Punkt der Stadt.",
+        "Die durchschnittliche Januartemperatur liegt bei etwa -26 Grad Celsius."
+      ]
+    }
+  },
+  {
+    "id": "can_iqa",
+    "descriptionAdvanced": {
+      "de": "Iqaluit, die entlegene Hauptstadt von Nunavut, liegt an der Küste der Baffininsel und ist das kulturelle und administrative Herz der Arktis Kanadas. Als jüngste Hauptstadt des Landes bietet sie einen faszinierenden Einblick in die moderne Lebensweise der Inuit in einer der extremsten Umgebungen der Erde. Die Stadt am Frobisher Bay ist geprägt von einer kargen, aber wunderschönen Tundra-Landschaft, die im Sommer in Farben erblüht und im Winter unter einer dicken Eisdecke liegt. Das markante Parlamentsgebäude von Nunavut, inspiriert von traditionellen Formen, und die St. Jude's Cathedral in Iglu-Form sind architektonische Highlights. Iqaluit ist ein bedeutendes Zentrum für indigene Kunst, bekannt für seine Speckstein-Schnitzereien und Drucke. Besucher können die unberührte Natur beim Wandern im Sylvia Grinnell Territorial Park oder bei Schlittenhundetouren erleben. Die Stadt ist nur per Flugzeug erreichbar, was ihre Rolle als isolierter, aber lebendiger Außenposten der Zivilisation inmitten des ewigen Eises unterstreicht."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Iqaluit hieß bis 1987 Frobisher Bay, benannt nach dem englischen Seefahrer Martin Frobisher.",
+        "Die Stadt wurde 1999 mit der Gründung des Territoriums Nunavut zur Hauptstadt ernannt.",
+        "Über 60 % der Einwohner Iqaluits sind Inuit.",
+        "Es gibt keine Straßenverbindung nach Iqaluit; alles muss per Flugzeug oder im Sommer per Schiff geliefert werden.",
+        "Die Tiden im Frobisher Bay gehören mit bis zu 12 Metern Hub zu den höchsten der Welt.",
+        "Die durchschnittliche Jahrestemperatur in Iqaluit liegt bei etwa -9 Grad Celsius.",
+        "Im Dezember gibt es in der Stadt nur etwa 4 Stunden Tageslicht pro Tag.",
+        "Iqaluit ist das logistische Drehkreuz für Forschung und Bergbau in der östlichen Arktis."
+      ]
+    }
+  },
+  {
+    "id": "ca-mount-robson",
+    "descriptionAdvanced": {
+      "de": "Mount Robson ist der unangefochtene König der kanadischen Rocky Mountains und mit einer Höhe von 3.954 Metern der höchste Gipfel dieses gewaltigen Gebirgszuges. Er bildet das Herzstück des Mount Robson Provincial Park, dem zweitältesten Park in British Columbia und Teil des UNESCO-Weltnaturerbes. Seine markante, oft wolkenverhangene Silhouette und die fast 2.500 Meter steil über den Berg Lake aufragende Nordwand machen ihn zu einem der beeindruckendsten Anblicke Nordamerikas. Für Bergsteiger ist Mount Robson aufgrund seiner technischen Schwierigkeit und der unberechenbaren Wetterbedingungen eine legendäre Herausforderung. Wanderer hingegen schätzen den Berg Lake Trail, der spektakuläre Ausblicke auf hängende Gletscher und donnernde Wasserfälle wie die Emperor Falls bietet. Die reiche Flora und Fauna des Parks, von Bergziegen bis zu Grizzlybären, unterstreicht die ökologische Bedeutung dieses Gebiets. Mount Robson ist nicht nur ein geografischer Höhepunkt, sondern ein Symbol für die unbezähmbare Wildnis Westkanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mount Robson ist mit 3.954 Metern der höchste Punkt der kanadischen Rockies.",
+        "Die Nordwand ragt beeindruckende 2.500 Meter vertikal empor.",
+        "Die Erstbesteigung gelang im Jahr 1913 durch Conrad Kain und seine Begleiter.",
+        "Der Mount Robson Provincial Park wurde bereits 1913 gegründet.",
+        "Der Berg Lake, an seinem Fuß gelegen, wird von mehreren Gletschern gespeist.",
+        "Aufgrund seiner Höhe erzeugt der Berg oft sein eigenes Mikroklima und ist häufig in Wolken gehüllt.",
+        "Der Berg ist Teil des UNESCO-Weltnaturerbes der kanadischen Rocky Mountain Parks.",
+        "Mount Robson ist deutlich höher als seine unmittelbaren Nachbarn, was ihn besonders dominant erscheinen lässt."
+      ]
+    }
+  },
+  {
+    "id": "ca-fraser-river",
+    "descriptionAdvanced": {
+      "de": "Der Fraser River ist die lebenswichtige Pulsader von British Columbia und mit einer Länge von 1.375 Kilometern der längste Fluss der Provinz. Er entspringt in der Nähe des Mount Robson in den Rocky Mountains und bahnt sich seinen Weg durch tiefe Schluchten und weite Täler, bevor er südlich von Vancouver in den Pazifik mündet. Der Fluss ist weltberühmt für seine gewaltigen Lachswanderungen, die eine der wichtigsten Nahrungsquellen für das gesamte Ökosystem darstellen und seit Jahrtausenden die Grundlage für die Kulturen der First Nations bilden. Historisch war der Fraser River das Zentrum mehrerer Goldräusche, die die Besiedlung des Westens vorantrieben. Entlang seines Laufs finden sich dramatische Abschnitte wie Hell's Gate, wo sich der Fluss durch eine nur 35 Meter breite Engstelle zwängt. Heute dient der Fraser River als bedeutender Transportweg, Energiequelle und Erholungsraum. Sein riesiges Delta ist zudem ein international bedeutendes Rastgebiet für Millionen von Zugvögeln auf ihrem Weg entlang der Pazifikküste."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Fraser River entwässert eine Fläche von etwa 220.000 Quadratkilometern.",
+        "Er ist der produktivste Lachsfluss der Welt.",
+        "Am Hell's Gate schießen in der Sekunde bis zu 900 Millionen Liter Wasser durch die Engstelle.",
+        "Der Fluss befördert jährlich rund 20 Millionen Tonnen Sediment in den Pazifik.",
+        "Simon Fraser erforschte den Flusslauf im Jahr 1808 für die North West Company.",
+        "Der Fraser River ist der längste Fluss Kanadas, der vollständig innerhalb einer einzigen Provinz verläuft.",
+        "Das Fraser-Delta beherbergt über 300 verschiedene Vogelarten.",
+        "Die jährliche Abflussmenge an der Mündung beträgt durchschnittlich 3.550 Kubikmeter pro Sekunde."
+      ]
+    }
+  },
+  {
+    "id": "ca-great-bear-lake",
+    "descriptionAdvanced": {
+      "de": "Der Große Bärensee (Great Bear Lake) ist ein Naturwunder der Superlative: Er ist der größte See, der vollständig innerhalb Kanadas liegt, und der viertgrößte in ganz Nordamerika. Direkt am Polarkreis in den Nordwest-Territorien gelegen, ist er von einer nahezu unberührten borealen Wildnis und Tundra umgeben. Sein Wasser gilt als eines der klarsten und reinsten der Welt, was ihn zu einem begehrten Ziel für Sportfischer macht, die hier Weltrekord-Trophäen von Seesaiblingen jagen. Aufgrund seiner nördlichen Lage ist der See für den Großteil des Jahres von einer dicken Eisschicht bedeckt, die oft erst im Hochsommer vollständig verschwindet. Die einzige dauerhafte Siedlung am Ufer ist Délı̨nę, eine indigene Gemeinschaft der Sahtu Dene, die eine tiefe spirituelle Verbindung zum See pflegt. Das Gebiet um den See ist ein wichtiges Habitat für Grizzlybären, Karibus und Moschusochsen. Der Große Bärensee ist ein Symbol für die unendliche Weite und ökologische Reinheit der arktischen Gebiete Kanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mit einer Fläche von 31.153 Quadratkilometern ist der See größer als Belgien.",
+        "Der Große Bärensee ist der achtgrößte See der Welt.",
+        "Die maximale Tiefe des Sees beträgt beeindruckende 446 Meter.",
+        "Die Sichtweite unter Wasser kann bis zu 30 Meter betragen.",
+        "Der Polarkreis verläuft direkt durch den nördlichen Arm des Sees (McTavish Arm).",
+        "Die Uferlinie des Sees erstreckt sich über eine Gesamtlänge von 2.719 Kilometern.",
+        "Der See fließt über den Great Bear River in den Mackenzie River ab.",
+        "Der See ist im Durchschnitt nur etwa vier Monate im Jahr eisfrei."
+      ]
+    }
+  },
+  {
+    "id": "ca-algonquin-park",
+    "descriptionAdvanced": {
+      "de": "Der Algonquin Provincial Park ist die grüne Seele Ontarios und der älteste Provinzpark Kanadas. Gelegen auf dem felsigen Kanadischen Schild, umfasst er über 7.600 Quadratkilometer unberührter Wildnis, die von dichten Ahorn- und Kiefernwäldern, sanften Hügeln und mehr als 2.400 Seen geprägt ist. Der Park ist ein Paradies für Kanufahrer, die auf einem Netz von über 2.000 Kilometern Paddelwegen die Stille der Natur genießen können. Berühmt ist Algonquin für seine reiche Tierwelt; nirgendwo sonst in Ontario stehen die Chancen besser, Elche, Wölfe oder Schwarzbären in ihrem natürlichen Lebensraum zu beobachten. Die Landschaft inspirierte die berühmte Künstlergruppe 'Group of Seven', die die wilde Schönheit des Parks in ihren ikonischen Gemälden verewigte. Ob beim Wandern auf den zahlreichen Wegen, beim Campen unter dem Sternenzelt oder beim Lauschen des nächtlichen Wolfsgeheuls – der Algonquin Park bietet ein authentisches kanadisches Outdoor-Erlebnis, das Besucher aus aller Welt anzieht und zum Innehalten einlädt."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Algonquin wurde im Jahr 1893 gegründet, um den Holzeinschlag zu regulieren und die Natur zu schützen.",
+        "Der Park ist etwa anderthalbmal so groß wie die Insel Mallorca.",
+        "Es gibt über 140 verschiedene Vogelarten, die im Park brüten.",
+        "Algonquin beherbergt eines der bedeutendsten Wolfsforschungsgebiete der Welt.",
+        "Im Park gibt es rund 1.500 Kilometer an markierten Kanurouten.",
+        "Der höchste Punkt des Parks liegt auf etwa 580 Metern über dem Meeresspiegel.",
+        "Jährlich besuchen mehr als 800.000 Menschen den Algonquin Park.",
+        "Der Highway 60 ist die einzige Hauptstraße, die durch den südlichen Teil des Parks führt."
+      ]
+    }
+  },
+  {
+    "id": "ca-mount-cavell",
+    "descriptionAdvanced": {
+      "de": "Mount Edith Cavell ist einer der markantesten und meistbesuchten Berge im Jasper Nationalpark, benannt nach einer heroischen britischen Krankenschwester aus dem Ersten Weltkrieg. Mit seinen 3.363 Metern ragt er majestätisch über das Tal des Athabasca River empor und beeindruckt durch seine massiven Quarzitwände. Ein absolutes Highlight am Fuße des Berges ist der Angel-Gletscher, dessen Form an die ausgebreiteten Flügel eines Engels erinnert und spektakulär über eine Felswand hängt. Unterhalb des Gletschers befindet sich ein kleiner, oft mit Eisbergen gefüllter See, der Cavell Pond. Wanderwege wie der 'Path of the Glacier' führen Besucher nah an diese eisigen Wunder heran, während der anspruchsvollere 'Cavell Meadows Trail' im Sommer mit einem Meer aus bunten Wildblumen und spektakulären Panoramablicken auf die umliegenden Gipfel belohnt. Die geologische Dynamik ist hier greifbar, da man regelmäßig das Donnern kleiner Eislawinen hören kann. Mount Edith Cavell ist ein Ort von erhabener Schönheit und geologischer Kraft."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mount Edith Cavell hat eine Gipfelhöhe von 3.363 Metern.",
+        "Der Berg hieß ursprünglich 'La Montagne de la Grande Traverse'.",
+        "Der Angel-Gletscher hat in den letzten Jahrzehnten aufgrund der Erwärmung deutlich an Masse verloren.",
+        "Der Berg besteht hauptsächlich aus präkambrischem Quarzit.",
+        "Die vertikale Nordwand des Berges ist ein Ziel für erfahrene Alpinisten.",
+        "Die Region um den Berg ist ein wichtiger Lebensraum für Murmeltiere und Pikas.",
+        "Der Zugang zum Berg ist über eine schmale, serpentinenreiche Straße möglich, die meist von Juni bis Oktober geöffnet ist.",
+        "Im Jahr 2012 verursachte ein massiver Abbruch des Ghost-Gletschers eine Flutwelle im Cavell Pond."
+      ]
+    }
+  },
+  {
+    "id": "ca-fortress-louisbourg",
+    "descriptionAdvanced": {
+      "de": "Die Festung Louisbourg auf der Kap-Breton-Insel in Nova Scotia ist die größte historische Rekonstruktion Nordamerikas und entführt Besucher direkt in das 18. Jahrhundert. Einst war sie ein mächtiger französischer Militärstützpunkt und einer der geschäftigsten Handelshäfen des Kontinents, strategisch günstig am Atlantik gelegen. Nach zwei heftigen Belagerungen durch die Briten wurde die Festung schließlich geschleift. In den 1960er Jahren begann man mit der akribischen Rekonstruktion eines Viertels der ursprünglichen Stadt nach den Originalplänen. Heute können Besucher durch die Straßen schlendern, prachtvolle Gebäude wie das King's Bastion besuchen und mit kostümierten Animatoren interagieren, die das Leben der Soldaten, Händler und Fischer von 1744 lebendig machen. Vom Kanonendonner bis zum Duft von frisch gebackenem Brot in der historischen Bäckerei bietet Louisbourg ein immersives Erlebnis. Die Festung ist nicht nur ein Denkmal französischer Kolonialgeschichte, sondern ein lebendiges Museum, das die Konflikte und Träume einer vergangenen Ära greifbar macht."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die ursprüngliche Festung wurde zwischen 1713 und 1740 von den Franzosen erbaut.",
+        "Louisbourg war im 18. Jahrhundert die drittgrößte Stadt Nordamerikas nach Boston und Philadelphia.",
+        "Die Rekonstruktion umfasst etwa 50 Gebäude auf einer Fläche von 60 Hektar.",
+        "Das Projekt war eines der größten archäologischen Vorhaben in der Geschichte Kanadas.",
+        "Die Festung wurde zweimal von den Briten belagert: 1745 und 1758.",
+        "Nach der endgültigen Eroberung 1758 zerstörten britische Pioniere die Befestigungsanlagen systematisch.",
+        "Heute ist Louisbourg eine nationale historische Stätte Kanadas und wird von Parks Canada verwaltet.",
+        "Im Sommer arbeiten hier über 100 kostümierte Darsteller."
+      ]
+    }
+  },
+  {
+    "id": "ca-anse-meadows",
+    "descriptionAdvanced": {
+      "de": "L'Anse aux Meadows, an der nördlichsten Spitze von Neufundland gelegen, ist ein Ort von weltgeschichtlicher Bedeutung. Diese UNESCO-Welterbestätte beherbergt die einzige authentifizierte Wikingersiedlung in Nordamerika außerhalb Grönlands. Um das Jahr 1000 n. Chr. landeten hier skandinavische Seefahrer unter der Führung von Leif Eriksson und errichteten eine Siedlung aus Grassodenhäusern. Die archäologischen Funde, darunter Werkzeuge aus Eisen und Webutensilien, beweisen zweifelsfrei, dass Europäer den amerikanischen Kontinent bereits 500 Jahre vor Kolumbus erreichten. Heute können Besucher rekonstruierte Sodengebäude besichtigen und in die Welt der Wikinger eintauchen. Die karge, windgepeitschte Küstenlandschaft mit Blick auf das weite Meer unterstreicht die Waghalsigkeit dieser frühen Entdecker. L'Anse aux Meadows ist nicht nur eine bedeutende archäologische Stätte, sondern ein Ort, der unsere Vorstellung von der Entdeckung der Neuen Welt grundlegend verändert hat und die unglaubliche Reichweite der nordischen Seefahrerkultur dokumentiert."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Stätte wurde im Jahr 1960 vom norwegischen Forscher Helge Ingstad entdeckt.",
+        "L'Anse aux Meadows wurde 1978 in die erste UNESCO-Welterbeliste aufgenommen.",
+        "Die Siedlung bestand aus mindestens acht Gebäuden, darunter drei Langhäuser.",
+        "Man fand Überreste einer Schmiede, was die erste Eisenverarbeitung in Nordamerika belegt.",
+        "Die Wikinger nannten dieses neue Land wahrscheinlich 'Vinland'.",
+        "Es wird geschätzt, dass etwa 70 bis 90 Personen gleichzeitig in der Siedlung lebten.",
+        "Die Siedlung wurde wahrscheinlich nach nur wenigen Jahren wieder verlassen.",
+        "Archäologen fanden über 2.000 einzelne Objekte während der Ausgrabungen."
+      ]
+    }
+  },
+  {
+    "id": "can_banff",
+    "descriptionAdvanced": {
+      "de": "Der Banff-Nationalpark, gegründet im Jahr 1885, ist der älteste Nationalpark Kanadas und ein weltweit bekanntes Symbol für alpine Pracht. Im Herzen der kanadischen Rocky Mountains gelegen, umfasst er über 6.600 Quadratkilometer spektakulärer Berglandschaften. Besucher aus aller Welt werden von den smaragdgrünen Seen wie dem Lake Louise und dem Moraine Lake angezogen, die wie Juwelen zwischen den zerklüfteten Gipfeln liegen. Die Stadt Banff, eine charmante Berggemeinde innerhalb des Parks, bietet erstklassige Unterkünfte, Gastronomie und Kultur. Der Park beherbergt zudem das Columbia-Eisfeld, eines der größten Eisfelder außerhalb der Polargebiete. Banff ist ein Paradies für Outdoor-Enthusiasten, ob beim Skifahren in den 'Big 3' Resorts, beim Wandern auf tausenden Kilometern Wanderwegen oder beim Entspannen in den historischen Upper Hot Springs. Als Teil des UNESCO-Weltnaturerbes spielt der Park eine entscheidende Rolle beim Schutz bedrohter Arten wie Grizzlybären und Karibus und bewahrt die wilde Schönheit der Rockies für zukünftige Generationen."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Banff war der weltweit dritte Nationalpark, der jemals gegründet wurde.",
+        "Der Park umfasst eine Fläche von genau 6.641 Quadratkilometern.",
+        "Der höchste Gipfel im Park ist der Mount Forbes mit 3.612 Metern.",
+        "Banff empfängt jährlich mehr als 4 Millionen Besucher.",
+        "Es gibt über 1.600 Kilometer an markierten Wanderwegen im Park.",
+        "Die Cave and Basin National Historic Site ist der Geburtsort des Parks.",
+        "Banff beherbergt mehr als 50 verschiedene Säugetierarten.",
+        "Die Icefields Parkway, eine der schönsten Panoramastraßen der Welt, beginnt hier."
+      ]
+    }
+  },
+  {
+    "id": "can_niagara",
+    "descriptionAdvanced": {
+      "de": "Die Niagarafälle sind eines der spektakulärsten Naturwunder der Erde und eine Ikone der gewaltigen Kraft des Wassers. An der Grenze zwischen Kanada und den USA stürzen pro Minute Millionen von Litern Wasser in die Tiefe. Die kanadische Seite ist berühmt für die Horseshoe Falls, den größten der drei Wasserfälle, dessen gewaltige Gischtwolke oft schon von weitem sichtbar ist. Besucher können die Fälle aus nächster Nähe erleben, sei es bei einer Bootsfahrt mit 'Niagara City Cruises', die direkt in das tosende Herz der Gischt führt, oder hinter den Kulissen beim 'Journey Behind the Falls'. Nachts werden die Fälle in bunten Farben illuminiert und bieten ein magisches Schauspiel. Die umliegende Stadt Niagara Falls ist ein lebhaftes Touristenzentrum mit Kasinos, Museen und Aussichtstürmen wie dem Skylon Tower. Über die reine Touristenattraktion hinaus sind die Fälle eine der bedeutendsten Quellen für saubere Wasserkraft in Nordamerika und ein faszinierendes Beispiel für geologische Erosion über Jahrtausende."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Horseshoe Falls haben eine Fallhöhe von etwa 57 Metern.",
+        "Etwa 90 % des Wassers des Niagara River fließen über die Horseshoe Falls.",
+        "Die Wasserfälle bewegen sich aufgrund von Erosion jährlich um etwa 30 Zentimeter zurück.",
+        "Insgesamt stürzen pro Sekunde rund 2.800 Kubikmeter Wasser über die Kante.",
+        "Das Alter der Niagarafälle wird auf etwa 12.000 Jahre geschätzt.",
+        "Die Fälle erzeugen über 4 Millionen Kilowatt Strom für Kanada und die USA.",
+        "Der Niagara River verbindet den Eriesee mit dem Ontariosee.",
+        "Jährlich besuchen schätzungsweise 12 bis 14 Millionen Menschen die Fälle."
+      ]
+    }
+  },
+  {
+    "id": "can_cntower",
+    "descriptionAdvanced": {
+      "de": "Der CN Tower ist das unverkennbare Wahrzeichen Torontos und ein technisches Meisterwerk, das die Skyline der Stadt majestätisch dominiert. Mit einer Höhe von 553 Metern war er über drei Jahrzehnte lang das höchste freistehende Bauwerk der Welt. Ursprünglich als Sende- und Kommunikationsturm konzipiert, hat er sich zu einer der meistbesuchten Touristenattraktionen Kanadas entwickelt. Besucher können mit gläsernen Aufzügen in rasender Geschwindigkeit zur Aussichtsplattform 'LookOut' fahren, um einen spektakulären Panoramablick über Toronto und den Ontariosee zu genießen. Mutige wagen sich auf den 'Glass Floor', durch den man 342 Meter tief blicken kann, oder probieren den nervenaufreibenden 'EdgeWalk', einen gesicherten Spaziergang auf dem äußeren Rand des Turms. Das rotierende 360 Restaurant bietet kulinarische Genüsse in schwindelerregender Höhe. Der CN Tower ist nicht nur ein Symbol für kanadische Ingenieurskunst, sondern auch ein Orientierungspunkt, der nachts in ständig wechselnden Farben beleuchtet wird und die Energie der Metropole widerspiegelt."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Gesamthöhe des CN Towers beträgt exakt 553,33 Meter.",
+        "Der Bau dauerte 40 Monate und wurde 1976 fertiggestellt.",
+        "Der Turm wiegt etwa 130.000 Tonnen, was etwa 23.000 Elefanten entspricht.",
+        "Der Glass Floor kann das Gewicht von 14 großen Flusspferden tragen.",
+        "Blitzeinschläge treffen den Turm durchschnittlich 75 bis 80 Mal pro Jahr.",
+        "Der EdgeWalk findet auf einer Höhe von 356 Metern (116 Stockwerke) statt.",
+        "An klaren Tagen kann man bis zu 160 Kilometer weit sehen (bis zu den Niagarafällen).",
+        "Der Turm verfügt über eine Treppe mit 1.776 Stufen, die nur für Wohltätigkeitsläufe genutzt wird."
+      ]
+    }
+  },
+  {
+    "id": "can_jasper",
+    "descriptionAdvanced": {
+      "de": "Der Jasper-Nationalpark ist der größte und wildeste Nationalpark in den kanadischen Rocky Mountains und Teil des UNESCO-Weltnaturerbes. Er bietet eine unberührte alpine Wildnis, die von gigantischen Gletschern, tiefblauen Seen und dramatischen Schluchten geprägt ist. Im Vergleich zu seinem südlichen Nachbarn Banff ist Jasper ruhiger und ursprünglicher geblieben. Ein absolutes Highlight ist das Columbia-Eisfeld, wo Besucher auf dem Athabasca-Gletscher spazieren können. Die Maligne Canyon und der Maligne Lake mit der ikonischen Spirit Island sind Postkartenmotive von Weltruf. Jasper ist zudem ein zertifiziertes 'Dark Sky Preserve', was es zu einem der weltweit besten Orte für die Beobachtung des Nachthimmels macht. Die Tierwelt ist allgegenwärtig; es ist nicht ungewöhnlich, Elche oder Wapitis direkt im malerischen Ort Jasper zu sehen. Ob beim Wandern, Mountainbiken oder Skifahren am Marmot Basin – Jasper bietet ein authentisches Naturerlebnis, das die majestätische Kraft und Stille der Wildnis fühlbar macht."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Jasper umfasst eine gewaltige Fläche von 10.878 Quadratkilometern.",
+        "Der Park wurde im Jahr 1907 gegründet.",
+        "Jasper ist das zweitgrößte Lichtschutzgebiet (Dark Sky Preserve) der Welt.",
+        "Der Maligne Lake ist mit 22 Kilometern Länge der größte natürliche See in den Rockies.",
+        "Der Mount Columbia ist mit 3.747 Metern der höchste Punkt in Alberta.",
+        "Der Athabasca-Gletscher ist etwa 6 Kilometer lang und bis zu 300 Meter dick.",
+        "Im Park gibt es schätzungsweise 20.000 Einwohner einer der größten Elchpopulationen Kanadas.",
+        "Es gibt über 1.200 Kilometer an Wanderwegen im gesamten Nationalpark."
+      ]
+    }
+  },
+  {
+    "id": "can_whistler",
+    "descriptionAdvanced": {
+      "de": "Whistler, gelegen in den spektakulären Coast Mountains von British Columbia, ist ein weltweit führendes Ganzjahresziel für Outdoor-Enthusiasten. Berühmt wurde der Ort vor allem als Co-Gastgeber der Olympischen Winterspiele 2010 und durch das preisgekrönte Skigebiet Whistler Blackcomb, das über 200 markierte Pisten auf zwei gewaltigen Bergen bietet. Die 'Peak 2 Peak' Gondel verbindet beide Berggipfel und bietet eine der längsten und höchsten Seilbahnfahrten der Welt mit atemberaubenden Ausblicken. Doch Whistler ist weit mehr als nur ein Winterparadies; im Sommer verwandelt es sich in ein Mekka für Mountainbiker und Wanderer. Das Whistler Village ist ein lebhaftes, autofreies Zentrum mit erstklassigen Restaurants, Geschäften und Galerien, das eine pulsierende 'Après'-Atmosphäre versprüht. Die Region ist zudem tief in der Kultur der Squamish und Lil'wat First Nations verwurzelt, deren Geschichte im Squamish Lil'wat Cultural Centre dokumentiert ist. Mit seiner Kombination aus sportlicher Exzellenz und alpiner Gemütlichkeit zieht Whistler Besucher aus aller Welt in seinen Bann."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Whistler Blackcomb verfügt über die größte Skifläche in Nordamerika (über 3.300 Hektar).",
+        "Die Peak 2 Peak Gondel hält den Weltrekord für die längste freischwebende Seilstrecke (3,024 km).",
+        "Jährlich besuchen über 3 Millionen Menschen den Ort Whistler.",
+        "Whistler erhält im Durchschnitt über 11 Meter Neuschnee pro Jahr.",
+        "Der Whistler Mountain hat eine Gipfelhöhe von 2.182 Metern.",
+        "Der Ort liegt etwa 120 Kilometer nördlich von Vancouver am Sea-to-Sky Highway.",
+        "Das Skigebiet verfügt über insgesamt 37 Lifte und Bergbahnen.",
+        "Der Whistler Mountain Bike Park gilt als einer der besten und größten der Welt."
+      ]
+    }
+  },
+  {
+    "id": "can_fundy",
+    "descriptionAdvanced": {
+      "de": "Die Bay of Fundy, gelegen zwischen New Brunswick und Nova Scotia, ist ein Naturphänomen der Extraklasse und bekannt für den weltweit höchsten Tidenhub. Zweimal täglich fließen unglaubliche 160 Milliarden Tonnen Meerwasser in die Bucht hinein und wieder heraus – das ist mehr als die Wassermenge aller Flüsse der Welt zusammen. Dieser enorme Wasserdruck hat über Jahrtausende spektakuläre Küstenlandschaften geformt, wie die ikonischen Hopewell Rocks, die wie riesige Blumentöpfe aus dem Wasser ragen. Bei Ebbe können Besucher auf dem Meeresboden wandern, wo nur Stunden zuvor meterhohes Wasser stand. Die Bucht ist zudem ein ökologischer Hotspot und ein bedeutendes Nahrungsgebiet für viele Walarten, darunter der seltene Nordkaper. Die steilen Klippen beherbergen wertvolle Fossilienlagerstätten, die Einblicke in die Erdgeschichte bieten. Ob beim Whale Watching, beim Wandern auf dem Fundy Trail oder beim Bestaunen der 'Reversing Falls' – die Bay of Fundy ist ein Ort, an dem die unbändige Kraft des Mondes und des Ozeans so unmittelbar spürbar ist wie nirgendwo sonst auf der Erde."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der maximale Tidenhub in der Bucht kann bis zu 16 Meter erreichen.",
+        "Die Wassermenge, die bei jeder Tide bewegt wird, entspricht etwa 100 Milliarden Badewannen.",
+        "Die Bay of Fundy ist etwa 270 Kilometer lang.",
+        "Über 12 Walarten nutzen die Bucht im Sommer als Futterplatz.",
+        "Die Joggins Fossil Cliffs (UNESCO) enthalten Fossilien aus dem Karbon-Zeitalter vor 300 Mio. Jahren.",
+        "An den Hopewell Rocks ändert sich der Wasserstand stündlich um etwa 1,5 bis 2 Meter.",
+        "Die Bucht ist eines der 'Sieben Naturwunder Nordamerikas'.",
+        "Die Old Sow Whirlpool ist der größte Gezeitenwirbel der westlichen Hemisphäre."
+      ]
+    }
+  },
+  {
+    "id": "can_louise",
+    "descriptionAdvanced": {
+      "de": "Lake Louise ist das unbestrittene Juwel des Banff-Nationalparks und eines der am meisten fotografierten Naturwunder Kanadas. Der See besticht durch sein kristallklares, tief türkisfarbenes Wasser, das seine außergewöhnliche Farbe dem Gletschermehl verdankt, das durch die Gletscherschmelze in den See gespült wird. Eingerahmt von majestätischen Gipfeln und dem gewaltigen Victoria-Gletscher am Ende des Tals, bietet der See eine Kulisse von fast unwirklicher Schönheit. Das ehrwürdige Fairmont Chateau Lake Louise am Ufer des Sees verleiht der Szenerie eine elegante, historische Note. Besucher können im Sommer auf dem See kanufahren oder auf Wanderwegen wie dem 'Plain of Six Glaciers' die umliegende Bergwelt erkunden. Im Winter verwandelt sich der gefrorene See in eine märchenhafte Schlittschuhbahn vor verschneiter Kulisse. Lake Louise ist nicht nur ein Ort für spektakuläre Fotos, sondern ein spiritueller Rückzugsort, der die Ruhe und erhabene Majestät der kanadischen Wildnis in ihrer reinsten Form verkörpert."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Lake Louise liegt auf einer beachtlichen Höhe von 1.731 Metern über dem Meeresspiegel.",
+        "Der See hat eine maximale Tiefe von etwa 70 Metern.",
+        "Er wurde nach Prinzessin Louise Caroline Alberta benannt, der vierten Tochter von Königin Victoria.",
+        "Die türkise Farbe entsteht durch Lichtreflexion an feinen Gesteinspartikeln (Gletschermehl).",
+        "Das Chateau Lake Louise wurde ursprünglich 1890 als kleiner Holzbau errichtet.",
+        "Der See ist etwa 2,4 Kilometer lang und 500 Meter breit.",
+        "Die Wassertemperatur steigt im Sommer selten über 4 Grad Celsius.",
+        "Lake Louise ist das Zentrum eines der größten Skigebiete Nordamerikas."
+      ]
+    }
+  },
+  {
+    "id": "can_mackenzie",
+    "descriptionAdvanced": {
+      "de": "Der Mackenzie River ist der gewaltige Riese des kanadischen Nordens und mit einer Gesamtlänge von 4.241 Kilometern (im Mackenzie-Peace-System) der längste Fluss des Landes. Er entwässert ein Gebiet, das fast so groß ist wie Westeuropa und durchfließt einige der entlegensten und unberührtesten Landschaften der Erde. Von seinem Ursprung im Großen Sklavensee bahnt sich der Fluss seinen Weg durch boreale Wälder und endlose Tundra, bis er schließlich in einem riesigen Delta in die Beaufortsee mündet. Für die indigenen Gemeinschaften des Nordens, wie die Dene und Inuvialuit, ist der Mackenzie River seit Jahrtausenden die lebenswichtige 'Strasse des Nordens' für Transport und Nahrung. Er spielt eine zentrale Rolle für das arktische Ökosystem und transportiert gewaltige Mengen an Süßwasser und Sedimenten in den Arktischen Ozean. Als Teil eines der größten Flusssysteme der Welt ist der Mackenzie ein Symbol für die unbezähmbare Weite und ökologische Bedeutung der kanadischen Arktis und Subarktis."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Mackenzie-Flusssystem hat ein Einzugsgebiet von etwa 1,8 Millionen Quadratkilometern.",
+        "Der Fluss wurde nach dem Entdecker Alexander Mackenzie benannt, der ihn 1789 befuhr.",
+        "Der Mackenzie River ist nach dem Mississippi der zweitgrößte Fluss Nordamerikas nach Abflussmenge.",
+        "Das Flussdelta an der Mündung ist etwa 12.000 Quadratkilometer groß.",
+        "Im Winter wird der gefrorene Fluss als 'Ice Road' für den Schwerlastverkehr genutzt.",
+        "Der Fluss ist im Durchschnitt für etwa 8 Monate des Jahres gefroren.",
+        "An seiner Mündung fließen jährlich etwa 300 Kubikkilometer Süßwasser in den Ozean.",
+        "Der Mackenzie River ist ein wichtiger Migrationskorridor für Millionen von Zugvögeln."
+      ]
+    }
+  },
+  {
+    "id": "can_stlawrence",
+    "descriptionAdvanced": {
+      "de": "Der Sankt-Lorenz-Strom ist eine der bedeutendsten Wasserstraßen Nordamerikas und das historische Herz Kanadas. Er bildet den gewaltigen Abfluss der Großen Seen in den Atlantik und erstreckt sich über 3.000 Kilometer. Seit Jahrhunderten ist er die Lebensader für Handel, Entdeckung und Besiedlung; Städte wie Montreal und Quebec City verdanken ihre Existenz dieser strategischen Route. Der Strom ist berühmt für seine landschaftliche Vielfalt, von der idyllischen Region der 'Thousand Islands' bis zum gigantischen Ästuar bei Tadoussac, wo das Aufeinandertreffen von Süß- und Salzwasser ideale Bedingungen für Wale schafft. Heute ist der Sankt-Lorenz-Seeweg ein technisches Wunderwerk aus Schleusen und Kanälen, das Hochseeschiffen den Weg bis tief ins Innere des Kontinents ermöglicht. Doch der Fluss ist auch ein wichtiges Ökosystem, Heimat von Belugawalen und zahlreichen Zugvögeln. Er verbindet die industrielle Kraft des Kontinents mit der rauen Schönheit des Nordatlantiks und bleibt eine der prägendsten geografischen Erscheinungen Kanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Sankt-Lorenz-Strom wurde 1535 vom französischen Entdecker Jacques Cartier erstmals befahren.",
+        "Das Ästuar des Flusses ist eines der größten und tiefsten der Welt.",
+        "Rund 60 % der kanadischen Bevölkerung leben im Einzugsgebiet dieses Flusssystems.",
+        "Die 'Thousand Islands' bestehen tatsächlich aus 1.864 einzelnen Inseln.",
+        "Der Sankt-Lorenz-Seeweg wurde 1959 als gemeinsame kanadisch-amerikanische Initiative eröffnet.",
+        "In den Gewässern des Flusses leben ganzjährig gefährdete Belugawale.",
+        "Der Fluss transportiert jährlich über 160 Millionen Tonnen Fracht.",
+        "An seiner breitesten Stelle im Golf von Sankt-Lorenz misst er über 100 Kilometer."
+      ]
+    }
+  },
+  {
+    "id": "can_rockies",
+    "descriptionAdvanced": {
+      "de": "Die kanadischen Rocky Mountains sind ein Inbegriff ungezähmter Wildnis und von einer majestätischen Schönheit, die Besucher ehrfürchtig werden lässt. Dieser gewaltige Gebirgszug, der sich durch Alberta und British Columbia zieht, ist geprägt von schroffen, schneebedeckten Gipfeln, tiefblauen Gletscherseen und weiten Urwäldern. Mehrere Nationalparks, darunter Banff, Jasper, Yoho und Kootenay, bilden zusammen ein UNESCO-Weltnaturerbe von globaler Bedeutung. Die Region ist ein Refugium für eine beeindruckende Tierwelt, von Grizzlybären und Wölfen bis hin zu Bergziegen und Elchen. Die Geologie der Rockies ist spektakulär; hier finden sich einige der bedeutendsten Fossilienlagerstätten der Welt, wie der Burgess-Schiefer. Ob beim Wandern auf alpinen Pfaden, beim Skifahren in weltberühmten Resorts oder beim Bestaunen des Columbia-Eisfelds – die Rockies bieten Abenteuer und Stille gleichermaßen. Das Spiel von Licht und Schatten auf den massiven Felswänden und das Leuchten der Gletscher machen die kanadischen Rocky Mountains zu einer der ikonischsten Landschaften unserer Erde."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die kanadischen Rockies erstrecken sich über eine Länge von etwa 1.450 Kilometern.",
+        "Der höchste Gipfel der kanadischen Rockies ist der Mount Robson mit 3.954 Metern.",
+        "Die Berge bestehen hauptsächlich aus Kalkstein und Schiefer.",
+        "Der Burgess-Schiefer enthält Fossilien, die über 500 Millionen Jahre alt sind.",
+        "Die Rockies bilden die kontinentale Wasserscheide Nordamerikas.",
+        "Der Nationalpark-Komplex umfasst insgesamt über 23.000 Quadratkilometer geschützte Fläche.",
+        "Die Rocky Mountains sind geologisch jünger als die Appalachen im Osten.",
+        "Die Region beherbergt einige der größten zusammenhängenden Eisfelder südlich der Arktis."
+      ]
+    }
+  },
+  {
+    "id": "can_grosmorne",
+    "descriptionAdvanced": {
+      "de": "Der Gros-Morne-Nationalpark an der Westküste von Neufundland ist ein geologisches Wunderwerk von globaler Bedeutung und gehört zum UNESCO-Weltnaturerbe. Die Landschaft ist von einer fast surrealen Vielfalt geprägt: tiefe, fjordartige Seen mit steilen Felswänden, neblige Hochebenen und weite Küstenebenen. Berühmt ist der Park für die 'Tablelands', eine karge, ockerfarbene Wüstenlandschaft, die tatsächlich aus Gestein des Erdmantels besteht, das durch die Plattentektonik an die Oberfläche geschoben wurde. Hier kann man buchstäblich auf dem Inneren der Erde wandern. Der Western Brook Pond, ein Binnensefjord, bietet mit seinen 600 Meter hohen Klippen einen der spektakulärsten Anblicke Kanadas. Der Park ist zudem ein Paradies für Wanderer und Naturliebhaber, die hier Elche, Karibus und seltene arktische Pflanzen beobachten können. Gros Morne erzählt die Geschichte der Kontinentaldrift so anschaulich wie kaum ein anderer Ort und fasziniert Besucher mit seiner rauen, ursprünglichen Schönheit und wissenschaftlichen Einzigartigkeit."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gros Morne umfasst eine Fläche von 1.805 Quadratkilometern.",
+        "Der Name stammt vom Gros Morne Mountain, dem zweithöchsten Berg Neufundlands (806 m).",
+        "Die Tablelands beweisen die Theorie der Plattentektonik durch freigelegtes Peridotit-Gestein.",
+        "Der Western Brook Pond ist eigentlich kein Fjord, sondern ein durch Gletscher geformter Binnensee.",
+        "Die Klippen am Western Brook Pond ragen bis zu 650 Meter senkrecht in die Höhe.",
+        "Gros Morne wurde 1987 zum UNESCO-Weltnaturerbe erklärt.",
+        "Der Park beherbergt eine der höchsten Elchdichten der Welt.",
+        "Die geologische Geschichte der Region reicht über 1 Milliarde Jahre zurück."
+      ]
+    }
+  },
+  {
+    "id": "can_logan",
+    "descriptionAdvanced": {
+      "de": "Mount Logan ist der unbestrittene Gigant des Nordens und mit einer Höhe von 5.959 Metern der höchste Berg Kanadas sowie der zweithöchste Gipfel Nordamerikas. Er liegt tief im Herzen des Kluane-Nationalparks im Yukon, inmitten des größten nicht-polaren Eisfelds der Welt. Mount Logan ist kein einzelner spitzer Gipfel, sondern ein massives Gebirgsmassiv mit elf Gipfeln über 5.000 Metern, dessen Basisumfang größer ist als der jedes anderen Berges auf der Erde. Aufgrund tektonischer Aktivitäten wächst der Berg auch heute noch weiter in die Höhe. Das Klima am Mount Logan ist extrem; Temperaturen von unter -40 Grad Celsius und orkanartige Winde sind keine Seltenheit. Für Bergsteiger stellt er aufgrund seiner Abgeschiedenheit und der extremen Wetterbedingungen eine der ultimativen Herausforderungen dar. Umgeben von gewaltigen Gletschern wie dem Hubbard-Gletscher, ist Mount Logan ein Symbol für die unbezähmbare Kraft der Natur und die eisige Erhabenheit der arktischen Hochgebirge."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mount Logan erreicht eine exakte Höhe von 5.959 Metern über dem Meeresspiegel.",
+        "Das Massiv hat einen Basisumfang von über 40 Kilometern.",
+        "Der Berg wurde nach Sir William Edmond Logan, dem Gründer des geologischen Dienstes von Kanada, benannt.",
+        "Die Erstbesteigung fand am 23. Juni 1925 durch eine internationale Expedition statt.",
+        "Die Temperaturen auf dem Gipfel können bis zu -70 Grad Celsius erreichen.",
+        "Mount Logan erhebt sich jährlich um etwa 0,35 Millimeter aufgrund der Hebung der Erdkruste.",
+        "Das Massiv besitzt elf verschiedene Gipfel, die alle die 5.000-Meter-Marke überschreiten.",
+        "Der Berg ist Teil des UNESCO-Weltnaturerbes Kluane / Wrangell-St. Elias / Glacier Bay."
+      ]
+    }
+  },
+  {
+    "id": "ca-rideau-canal",
+    "descriptionAdvanced": {
+      "de": "Der Rideau-Kanal ist ein Meisterwerk des Ingenieurwesens aus dem frühen 19. Jahrhundert und die älteste kontinuierlich betriebene künstliche Wasserstraße Nordamerikas. Er erstreckt sich über 202 Kilometer und verbindet die Hauptstadt Ottawa mit dem Ontariosee bei Kingston. Ursprünglich wurde er nach dem Krieg von 1812 aus rein militärstrategischen Gründen erbaut, um im Falle eines Konflikts mit den USA eine sichere Versorgungsroute abseits des Sankt-Lorenz-Stroms zu gewährleisten. Heute gehört der Kanal zum UNESCO-Weltkulturerbe und ist eine der beliebtesten Erholungsadern Ontarios. Die 45 handbetriebenen Schleusen sind technische Zeitkapseln, die noch wie vor fast 200 Jahren funktionieren. Im Sommer ist der Kanal ein Paradies für Kapitäne und Hausbooturlauber, während er sich im Winter in Ottawa in die 'Rideau Canal Skateway' verwandelt – die längste natürliche Schlittschuhbahn der Welt. Der Kanal ist ein lebendiges Denkmal kanadischer Geschichte und ein Paradebeispiel für die Harmonie zwischen historischer Infrastruktur und moderner Nutzung."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Rideau-Kanal wurde zwischen 1826 und 1832 erbaut.",
+        "Der Bau wurde von Colonel John By geleitet, dem Gründer von Bytown (heute Ottawa).",
+        "Das Kanalsystem umfasst 45 Schleusen an 23 Stationen.",
+        "Im Winter 1971 wurde die Skateway-Tradition in Ottawa begründet.",
+        "Die Eislaufbahn in Ottawa hat eine Gesamtfläche von etwa 165.000 Quadratmetern.",
+        "Der Kanal wurde 2007 von der UNESCO zum Weltkulturerbe erklärt.",
+        "Die meisten Schleusen werden auch heute noch von Hand mit Kurbeln bedient.",
+        "Die Baukosten beliefen sich damals auf rund 822.000 Pfund Sterling, was das Budget bei weitem überstieg."
+      ]
+    }
+  },
+  {
+    "id": "ca-buffalo-jump",
+    "descriptionAdvanced": {
+      "de": "Head-Smashed-In Buffalo Jump in Alberta ist eine der bedeutendsten archäologischen Stätten Nordamerikas und ein tief beeindruckendes Denkmal für die Kultur und den Einfallsreichtum der indigenen Völker der Ebenen. Über 6.000 Jahre lang nutzten die Blackfoot-Indianer (Siksikaitsitapi) diese Klippe am Fuße der Rocky Mountains zur Jagd auf Bisons. In einer hochkomplexen Gemeinschaftsleistung trieben sie riesige Herden über kilometerlange Leitsysteme an die Kante, sodass die Tiere in den Abgrund stürzten. Dies bot Nahrung, Kleidung und Werkzeuge für den gesamten Stamm. Die UNESCO-Welterbestätte umfasst nicht nur die Klippe selbst, sondern auch die riesigen Knochenlager am Fuße und ein preisgekröntes, in die Felsen gebautes Interpretationszentrum. Head-Smashed-In vermittelt ein tiefes Verständnis für die enge Verbindung zwischen Mensch, Tier und Topografie und ist ein Zeugnis einer nachhaltigen Lebensweise, die über Jahrtausende im Einklang mit dem Ökosystem der Prärie florierte."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Nutzung der Stätte durch indigene Völker lässt sich über 6.000 Jahre zurückverfolgen.",
+        "Die Klippen haben eine Höhe von etwa 11 Metern über der Ebene.",
+        "Head-Smashed-In wurde 1981 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "Der Name stammt von einem jungen Blackfoot, dessen Schädel von herabstürzenden Büffeln zertrümmert wurde.",
+        "Die Knochenablagerungen am Fuße der Klippe sind bis zu 11 Meter tief.",
+        "Die Herden wurden oft über Entfernungen von 10 bis 15 Kilometern zu den Klippen gelenkt.",
+        "Ein Bison lieferte durchschnittlich 200 Kilogramm Fleisch und Material für unzählige Werkzeuge.",
+        "Das moderne Interpretationszentrum ist auf fünf Ebenen in die Klippe integriert."
+      ]
+    }
+  },
+  {
+    "id": "ca-plains-abraham",
+    "descriptionAdvanced": {
+      "de": "Die Abraham-Ebene (Plains of Abraham) in Quebec City ist einer der geschichtsträchtigsten Orte Nordamerikas und Schauplatz einer Schlacht, die das Schicksal des gesamten Kontinents veränderte. Im Jahr 1759 trafen hier die Truppen des britischen Generals Wolfe und des französischen Generals Montcalm aufeinander. Der rasche britische Sieg führte zum Fall von Quebec und markierte das Ende der französischen Herrschaft über Kanada. Heute ist das ehemalige Schlachtfeld Teil des Battlefields Park, einer riesigen grünen Lunge inmitten der Stadt, die zum Spazierengehen, Sporttreiben und Innehalten einlädt. Zahlreiche Denkmäler und Kanonen erinnern an die militärische Vergangenheit, während moderne Museen die Ereignisse von 1759 lebendig halten. Die weiten Rasenflächen bieten spektakuläre Ausblicke auf den Sankt-Lorenz-Strom und sind Schauplatz großer kultureller Ereignisse wie des Festival d'été de Québec. Die Abraham-Ebene ist ein Ort der Versöhnung und der Besinnung, an dem die komplexe Geschichte Kanadas und der Übergang von der französischen zur britischen Ära für jeden Besucher greifbar werden."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die entscheidende Schlacht von 1759 dauerte weniger als 30 Minuten.",
+        "Sowohl der britische General Wolfe als auch der französische General Montcalm fielen in der Schlacht.",
+        "Der Park umfasst eine Gesamtfläche von etwa 98 Hektar.",
+        "Die Ebene wurde nach Abraham Martin benannt, einem Fischer, dem das Land im 17. Jahrhundert gehörte.",
+        "Der Battlefields Park wurde im Jahr 1908 zum Schutz des historischen Bodens gegründet.",
+        "Jährlich besuchen mehr als 4 Millionen Menschen die Parkanlagen.",
+        "Im Winter gibt es hier eine Eislaufbahn und Loipen für Langläufer.",
+        "Teile der ursprünglichen Befestigungsanlagen und Martello-Türme sind noch heute sichtbar."
+      ]
+    }
+  },
+  {
+    "id": "ca-peggys-cove",
+    "descriptionAdvanced": {
+      "de": "Peggy's Cove ist das Inbegriff eines idyllischen kanadischen Fischerdorfes und beherbergt den wohl am meisten fotografierten Leuchtturm der Welt. Gelegen an der rauen Atlantikküste von Nova Scotia, thront der rot-weiße Peggy's Point Lighthouse auf gewaltigen Granitfelsen, die über Jahrmillionen vom Ozean glatt geschliffen wurden. Die Kombination aus dem strahlenden Turm, den tosenden Wellen des Atlantiks und den bunten Holzhäusern des Dorfes schafft eine fast unwirklich schöne Szenerie. Trotz seiner Beliebtheit hat sich Peggy's Cove den Charme eines arbeitenden Fischerdorfs bewahrt, in dem Hummerfallen an den Stegen lagern und kleine Fischerboote im geschützten Hafen schaukeln. Besucher müssen jedoch vorsichtig sein; die schwarzen Felsen nahe der Wasserlinie sind tückisch und bekannt für unvorhersehbare Wellen. Die Gegend lädt zum Klettern auf den Felsformationen und zum Genießen frischer Meeresfrüchte ein. Peggy's Cove verkörpert die maritime Seele der Maritimes und ist ein Ort, an dem die Kraft des Ozeans und die Ruhe des Küstenlebens aufeinandertreffen."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der aktuelle Leuchtturm wurde im Jahr 1915 erbaut und ist 15 Meter hoch.",
+        "Der Ort liegt etwa 43 Kilometer südwestlich von Halifax.",
+        "Im Leuchtturm befand sich früher eine kleine Postfiliale.",
+        "Die Granitfelsen von Peggy's Cove sind über 400 Millionen Jahre alt.",
+        "Der ursprüngliche Leuchtturm aus Holz wurde 1868 errichtet.",
+        "Das Dorf hat eine dauerhafte Bevölkerung von nur etwa 30 bis 40 Einwohnern.",
+        "Jährlich besuchen mehr als 700.000 Touristen diesen kleinen Ort.",
+        "Peggy's Cove ist Teil der 'Lighthouse Route', die entlang der gesamten Südküste führt."
+      ]
+    }
+  },
+  {
+    "id": "ca-parliament-hill",
+    "descriptionAdvanced": {
+      "de": "Parliament Hill ist das politische und kulturelle Herz Kanadas und ein architektonisches Juwel im Herzen der Hauptstadt Ottawa. Auf einer markanten Klippe über dem Ottawa River gelegen, beherbergen die prachtvollen neugotischen Gebäude den Sitz der kanadischen Bundesregierung. Das markanteste Bauwerk ist der Centre Block mit dem imposanten Peace Tower, dessen Glockenspiel und Aussichtsplattform weithin sichtbar sind. Besonders bemerkenswert ist die Parlamentsbibliothek, ein Rundbau, der als einziges Teil der ursprünglichen Struktur den verheerenden Brand von 1916 überstand. Parliament Hill ist jedoch weit mehr als nur ein Arbeitsort für Politiker; es ist ein nationaler Versammlungsort. Im Sommer können Besucher die farbenfrohe Zeremonie der Wachablösung verfolgen oder nachts die spektakuläre Licht- und Soundshow 'Northern Lights' auf den Fassaden bewundern. Die Centennial Flame, die seit 1967 brennt, symbolisiert die Einheit Kanadas von Küste zu Küste. Parliament Hill verkörpert die demokratischen Werte und die Geschichte der kanadischen Nation in einer beeindruckenden Kulisse."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Peace Tower ist exakt 92,2 Meter hoch.",
+        "Das Glockenspiel im Peace Tower besteht aus 53 Glocken mit einem Gesamtgewicht von über 54 Tonnen.",
+        "Die Grundsteinlegung für das ursprüngliche Gebäude fand 1860 durch den Prinzen von Wales statt.",
+        "Die Bibliothek des Parlaments beherbergt eine Sammlung von über 600.000 Bänden.",
+        "Das Gelände des Parliament Hill umfasst eine Fläche von etwa 3,6 Hektar.",
+        "Im Centre Block befindet sich die Gedenkhalle für die im Krieg gefallenen Kanadier.",
+        "Die Wachablösung wird von Regimentern der Canadian Grenadier Guards und der Governor General's Foot Guards durchgeführt.",
+        "An der Centennial Flame sind die Wappen aller kanadischen Provinzen und Territorien angebracht."
+      ]
+    }
+  },
+  {
+    "id": "ca-hopewell-rocks",
+    "descriptionAdvanced": {
+      "de": "Die Hopewell Rocks, im Hopewell Rocks Provincial Park in New Brunswick gelegen, sind eine der spektakulärsten Auswirkungen der gewaltigen Tiden der Bay of Fundy. Diese bizarren Felsformationen, die aufgrund ihrer Form oft als 'Flowerpot Rocks' (Blumentopf-Felsen) bezeichnet werden, wurden über Jahrtausende durch die gewaltige Erosionskraft des Wassers aus den Klippen geformt. Das Besondere an einem Besuch ist das Doppelerlebnis: Bei Ebbe können Besucher auf dem Meeresboden zwischen den massiven, mit Algen bewachsenen Felsfüßen wandern und die gewaltige Höhe der Formationen bestaunen. Nur wenige Stunden später, bei Flut, steht das Wasser so hoch, dass man mit dem Kajak um die nun wie kleine Inseln wirkenden Felsspitzen paddeln kann. Die Hopewell Rocks sind ein lebendiges Beispiel für die ständige Veränderung unserer Küsten durch die Naturkräfte. Die rötlichen Sedimentfelsen bieten zudem Lebensraum für Wanderfalken und andere Küstenvögel. Es ist ein Ort, der die unglaubliche Dynamik des Ozeans so unmittelbar greifbar macht wie kaum ein anderer in Nordamerika."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Tidenhub an den Hopewell Rocks kann bis zu 14 Meter betragen.",
+        "Die Felsen bestehen aus Konglomerat- und Sandstein, der rund 300 Millionen Jahre alt ist.",
+        "Die 'Flowerpot'-Form entsteht, weil die weicheren unteren Schichten schneller erodieren als die bewachsenen oberen Teile.",
+        "Das Wasser steigt während der Flut mit einer Geschwindigkeit von etwa 1,5 bis 2 Metern pro Stunde.",
+        "Die Hopewell Rocks ziehen jährlich mehr als 250.000 Besucher an.",
+        "Es gibt über 20 markante Hauptformationen entlang der Küstenlinie.",
+        "An den Klippen brüten jedes Jahr Wanderfalken.",
+        "Das Informationszentrum des Parks bietet eine interaktive Ausstellung zur Entstehung der Tiden."
+      ]
+    }
+  },
+  {
+    "id": "ca-butchart-gardens",
+    "descriptionAdvanced": {
+      "de": "Die Butchart Gardens auf Vancouver Island sind ein weltweit gefeiertes Meisterwerk der Gartenkunst und eine Inspiration für jeden Naturliebhaber. Was 1904 als ambitioniertes Projekt von Jennie Butchart begann, um einen ehemaligen Kalksteinbruch in eine blühende Oase zu verwandeln, hat sich zu einer 22 Hektar großen Anlage von atemberaubender Vielfalt entwickelt. Das Herzstück ist der Sunken Garden, der spektakulär in den Tiefen des alten Steinbruchs angelegt wurde. Weitere Highlights sind der duftende Rosengarten, der harmonische Japanische Garten und der prachtvolle Italienische Garten. Jede Jahreszeit hat ihren eigenen Zauber, von der Tulpenpracht im Frühling bis hin zu den spektakulären Illuminationen in der Weihnachtszeit. Die Butchart Gardens sind als nationale historische Stätte Kanadas anerkannt und bleiben in Familienbesitz. Neben der floralen Pracht bieten sie im Sommer Open-Air-Konzerte und beeindruckende Feuerwerke. Ein Besuch in diesem 'Garten Eden' ist eine Reise durch Farben, Düfte und gärtnerische Perfektion, die Ruhe und Staunen gleichermaßen hervorruft."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Gärten umfassen eine Fläche von etwa 22 Hektar (55 Acres).",
+        "Jährlich werden über 900 verschiedene Pflanzenarten in den Gärten präsentiert.",
+        "Die Anlage zieht jedes Jahr mehr als 1 Million Besucher an.",
+        "Der Sunken Garden liegt etwa 15 Meter unter dem ursprünglichen Bodenniveau.",
+        "Im Sommer arbeiten über 50 Vollzeitgärtner an der Pflege der Anlage.",
+        "Die Gärten wurden im Jahr 2004 zum 100-jährigen Jubiläum zur nationalen historischen Stätte erklärt.",
+        "Der Ross Fountain wurde 1964 zum 60. Jubiläum der Gärten installiert.",
+        "In der Weihnachtszeit werden die Gärten mit Zehntausenden von Lichtern geschmückt."
+      ]
+    }
+  },
+  {
+    "id": "ca-signal-hill",
+    "descriptionAdvanced": {
+      "de": "Signal Hill ist der unangefochtene Wächter von St. John's und ein Ort von weltgeschichtlicher Bedeutung, der hoch über dem Atlantik und dem Hafeneingang thront. Seine strategische Lage machte ihn über Jahrhunderte zum Zentrum der Verteidigung Neufundlands, wovon heute noch Kanonen und historische Befestigungsanlagen zeugen. Weltruhm erlangte Signal Hill am 12. Dezember 1901, als Guglielmo Marconi hier das allererste transatlantische Funksignal empfing, was die Geburtsstunde der modernen drahtlosen Kommunikation markierte. Das markante Wahrzeichen auf dem Gipfel ist der Cabot Tower, der 1897 zum Gedenken an den 400. Jahrestag der Entdeckung Neufundlands durch John Cabot errichtet wurde. Besucher können auf spektakulären Wanderwegen wie dem 'North Head Trail' entlang der Klippen wandern und dabei oft Wale oder Eisberge beobachten. Die Kombination aus militärischer Geschichte, technischem Pioniergeist und der atemberaubenden, rauen Küstenschönheit macht Signal Hill zu einem der faszinierendsten und bedeutendsten Orte Kanadas."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Marconi empfing das Signal 'S' im Morsecode aus Cornwall, England, über eine Entfernung von 3.500 km.",
+        "Der Cabot Tower ist 15 Meter hoch und aus rotem Sandstein erbaut.",
+        "Signal Hill war Schauplatz der Schlacht von Signal Hill (1762), der letzten Schlacht des Siebenjährigen Krieges.",
+        "Vom Gipfel hat man einen 360-Grad-Blick auf den Atlantik und die Stadt St. John's.",
+        "Die Höhe des Berges beträgt etwa 167 Meter über dem Meeresspiegel.",
+        "Im Sommer findet hier der 'Signal Hill Tattoo' statt, eine historische Militärshow.",
+        "Die Region ist bekannt für ihre extremen Winde, die oft über 100 km/h erreichen können.",
+        "Der Hügel ist eine nationale historische Stätte Kanadas und wird von Parks Canada verwaltet."
+      ]
+    }
+  },
+  {
+    "id": "ca-banff-grizzly",
+    "descriptionAdvanced": {
+      "de": "Grizzlybären sind die unangefochtenen Symbole der Wildnis im Banff-Nationalpark und spielen eine zentrale Rolle im Ökosystem der kanadischen Rocky Mountains. Diese majestätischen Raubtiere benötigen riesige, ungestörte Reviere, um zu überleben, was den Schutz ihres Lebensraums in Banff so entscheidend macht. Besucher haben oft die Hoffnung, einen dieser beeindruckenden Bären zu erspähen, wobei Vorsicht und Respekt oberstes Gebot sind. Banff hat Pionierarbeit im Wildtiermanagement geleistet, insbesondere durch den Bau von Wildtierüberführungen und -unterführungen über den Trans-Canada Highway, die es Grizzlys ermöglichen, sich sicher im Park zu bewegen. Besonders im Frühling, wenn sie nach dem Winterschlaf die ersten grünen Triebe in den Tälern suchen, steigen die Chancen für Sichtungen. Grizzlys sind intelligente und komplexe Tiere, deren Anwesenheit ein Zeichen für ein gesundes und intaktes Gebirgsökosystem ist. Ein Treffen aus sicherer Entfernung ist ein unvergessliches Erlebnis, das die Ehrfurcht vor der Natur und die Notwendigkeit ihres Schutzes unmittelbar vor Augen führt."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ein ausgewachsener männlicher Grizzly in Banff kann bis zu 300 Kilogramm wiegen.",
+        "Schätzungen zufolge leben im Banff-Nationalpark etwa 65 bis 70 Grizzlybären.",
+        "Die Bären verbringen etwa 5 bis 7 Monate im Jahr im Winterschlaf.",
+        "Grizzlys haben eine Beißkraft von über 8 Millionen Pascal (8.000.000 Pa).",
+        "Trotz ihres massigen Körpers können sie Geschwindigkeiten von bis zu 55 km/h erreichen.",
+        "Ihre Nahrung besteht zu über 80 % aus pflanzlichem Material wie Beeren und Wurzeln.",
+        "Die Krallen eines Grizzlys können bis zu 10 Zentimeter lang sein.",
+        "Weibliche Grizzlys bringen meist zwei Jungtiere zur Welt, die zwei bis drei Jahre bei der Mutter bleiben."
+      ]
+    }
+  },
+  {
+    "id": "ca-churchill-polar-bear",
+    "descriptionAdvanced": {
+      "de": "Churchill, an den Ufern der Hudson Bay in Manitoba gelegen, gilt weltweit als die 'Welthauptstadt der Eisbären'. Jedes Jahr im Oktober und November versammeln sich hunderte dieser gewaltigen arktischen Raubtiere in der Nähe des Ortes und warten ungeduldig darauf, dass die Bucht zufriert, damit sie auf das Eis ziehen können, um Robben zu jagen. Dieses einzigartige Naturphänomen ermöglicht es Besuchern, Eisbären in ihrer natürlichen Umgebung aus nächster Nähe zu beobachten, oft bequem von speziellen 'Tundra Buggies' aus. Die Begegnung mit dem größten an Land lebenden Fleischfresser der Erde vor der Kulisse der gefrorenen Tundra ist ein tiefgreifendes Erlebnis. Churchill ist jedoch nicht nur für Bären bekannt; im Sommer bevölkern tausende Belugawale die Mündung des Churchill River. Die Stadt ist zudem einer der besten Orte weltweit zur Beobachtung von Polarlichtern. Churchill verkörpert den Geist der Arktis und ist ein entscheidender Ort für die Forschung zum Klimawandel und dessen Auswirkungen auf dieses sensible Ökosystem."
+    },
+    "factsAdvanced": {
+      "de": [
+        "In der Region um Churchill leben schätzungsweise 800 bis 1.000 Eisbären.",
+        "Ein männlicher Eisbär kann eine Standhöhe von bis zu 3 Metern erreichen.",
+        "Die Bären können bis zu 10 Tage ohne Nahrung auskommen, wenn sie auf das Eis warten.",
+        "Churchill liegt auf dem 58. Breitengrad, direkt an der Hudson Bay.",
+        "In der Stadt gibt es ein 'Eisbärengefängnis' für Bären, die zu nah an Siedlungen kommen.",
+        "Die Eisbärenpopulation im Westen der Hudson Bay ist eine der am besten erforschten weltweit.",
+        "Ein ausgewachsenes Männchen kann zwischen 400 und 600 Kilogramm wiegen.",
+        "Im Jahr 1987 wurde der Wapusk-Nationalpark südlich von Churchill gegründet, um die Wurfhöhlen der Bären zu schützen."
+      ]
+    }
+  },
+  {
+    "id": "ca-wood-buffalo-bison",
+    "descriptionAdvanced": {
+      "de": "Der Wood-Buffalo-Nationalpark, der sich über den Norden von Alberta und die Nordwest-Territorien erstreckt, ist die Heimat der weltweit größten freilebenden Herde von Waldbisons. Ursprünglich im Jahr 1922 gegründet, um diese majestätischen Tiere vor dem Aussterben zu bewahren, beherbergt der Park heute tausende dieser gewaltigen Geschöpfe, die deutlich größer und schwerer als ihre Verwandten in der Prärie sind. Als Kanadas größter Nationalpark und UNESCO-Weltnaturerbe bietet Wood Buffalo eine schier endlose Wildnis aus borealen Wäldern, ausgedehnten Salzwiesen und dem riesigen Peace-Athabasca-Delta. Die Beobachtung einer Bisonherde, die langsam durch die Weite des Parks zieht, ist ein beeindruckendes Zeugnis ursprünglicher Naturkraft. Der Park ist zudem der einzige Ort weltweit, an dem die vom Aussterben bedrohten Schreikraniche noch in Freiheit brüten. Wood Buffalo ist ein Ort der Extreme und der Stille, ein unersetzliches Refugium für Arten, die anderswo längst verdrängt wurden, und ein Symbol für erfolgreichen Naturschutz über ein Jahrhundert hinweg."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wood Buffalo ist mit 44.807 Quadratkilometern der größte Nationalpark Kanadas.",
+        "Im Park leben schätzungsweise über 3.000 Waldbisons.",
+        "Ein männlicher Waldbison kann ein Gewicht von bis zu 900 Kilogramm erreichen.",
+        "Der Park ist flächenmäßig größer als die Schweiz.",
+        "Wood Buffalo wurde 1983 zum UNESCO-Weltnaturerbe erklärt.",
+        "Das Peace-Athabasca-Delta im Park ist eines der weltweit größten Binnendeltas.",
+        "Der Park beherbergt das weltweit größte Lichtschutzgebiet (Dark Sky Preserve).",
+        "Die Waldbisons sind die größten Landsäugetiere Nordamerikas."
+      ]
+    }
+  },
+  {
+    "id": "ca-quebec-maple",
+    "descriptionAdvanced": {
+      "de": "Ahornsirup ist das 'flüssige Gold' von Quebec und tief in der kulturellen Identität der Provinz verwurzelt. Mit über 70 % der weltweiten Produktion ist Quebec das unangefochtene Zentrum dieser süßen Tradition. Jedes Frühjahr, wenn die Nächte noch frostig sind und die Tage milder werden, beginnt die 'Sugaring Season'. Der Saft der Zuckerahornbäume wird gesammelt und in den traditionellen 'Cabanes à Sucre' (Zuckerhütten) zu Sirup eingekocht. Dieser Prozess erfordert Geduld und handwerkliches Geschick, da für einen Liter Sirup etwa 40 Liter Saft benötigt werden. Ein Besuch in einer Zuckerhütte ist ein fester Bestandteil des quebecischen Frühlings, verbunden mit deftigen Mahlzeiten und 'Tire d'Érable' – auf Schnee gegossenem Ahornsirup, der zu einem klebrigen Lutscher gerollt wird. Der Ahornsirup ist nicht nur ein Exportschlager, sondern ein Symbol für den Wechsel der Jahreszeiten und die enge Verbundenheit der Menschen mit ihrer Natur. Von hellen, milden Sorten bis zu dunklen, kräftigen Aromen bietet er eine kulinarische Vielfalt, die weltweit geschätzt wird."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Quebec produziert jährlich etwa 11 bis 13 Millionen Gallonen Ahornsirup.",
+        "Etwa 72 % des weltweit konsumierten Ahornsirups stammen aus Quebec.",
+        "Es werden etwa 40 Liter Ahornsaft benötigt, um einen einzigen Liter Sirup herzustellen.",
+        "In Quebec gibt es über 11.000 Ahornsirupproduzenten.",
+        "Die Provinz verfügt über eine 'Strategische Ahornsirup-Reserve' zur Stabilisierung der Weltmarktpreise.",
+        "Ein Ahornbaum muss etwa 40 Jahre alt sein, bevor er erstmals angezapft werden kann.",
+        "Der Sirup wird in verschiedene Qualitätsstufen (Golden, Amber, Dark, Very Dark) eingeteilt.",
+        "Ahornsirup enthält wertvolle Mineralien wie Mangan und Riboflavin."
+      ]
+    }
+  },
+  {
+    "id": "ca-saskatchewan-wheat",
+    "descriptionAdvanced": {
+      "de": "Saskatchewan ist als die 'Brotkammer Kanadas' bekannt und seine schier endlosen Weizenfelder sind ein ikonisches Bild der kanadischen Prärie. Fast die Hälfte des gesamten Ackerlandes Kanadas liegt in dieser Provinz, wo der fruchtbare Boden und die weiten Horizonte ideale Bedingungen für den Getreideanbau bieten. Im Sommer verwandelt sich die Landschaft in ein goldgelbes Meer aus wogenden Ähren, das bis zum Horizont reicht und die wirtschaftliche Stärke der Region unterstreicht. Der Weizenanbau prägte die Geschichte der Besiedlung des Westens maßgeblich; historische Getreidespeicher (Grain Elevators), oft als 'Kathedralen der Prärie' bezeichnet, sind noch heute charakteristische Wegmarken entlang der Eisenbahnlinien. Saskatchewan ist einer der weltweit bedeutendsten Exporteure von Hartweizen, der für die Pasta-Produktion weltweit geschätzt wird. Die harte Arbeit der Farmer und die immense Skala der Landwirtschaft vermitteln ein Gefühl für die Bedeutung dieser Region für die globale Ernährungssicherung. Die Weite der Felder unter dem 'Land of Living Skies' ist eine Landschaft von schlichter, aber überwältigender Schönheit."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Saskatchewan produziert etwa 40 % des kanadischen Weizens.",
+        "In der Provinz gibt es über 15 Millionen Hektar landwirtschaftliche Nutzfläche.",
+        "Saskatchewan ist der weltweit größte Exporteur von Hartweizen und Linsen.",
+        "Die Weizenernte in einem guten Jahr kann über 15 Millionen Tonnen betragen.",
+        "Etwa 95 % des in der Provinz produzierten Getreides werden exportiert.",
+        "Ein einzelner Getreidezug kann über 100 Waggons lang sein und tausende Tonnen Weizen transportieren.",
+        "Die Provinz beherbergt über 30.000 Farmbetriebe.",
+        "Der 'Marquis-Weizen', eine im frühen 20. Jahrhundert entwickelte Sorte, revolutionierte den Anbau in der Prärie."
+      ]
+    }
+  }
+]

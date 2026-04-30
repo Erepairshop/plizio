@@ -1,0 +1,706 @@
+[
+  {
+    "id": "belgium",
+    "name_hu": "Belgium",
+    "desc_hu": "Belgium egy nyugat-európai ország, amely középkori városairól, reneszánsz építészetéről, valamint az EU és a NATO székhelyeként ismert.",
+    "desc_adv_hu": "Belgium, hivatalos nevén a Belga Királyság, egy lenyűgöző ország Nyugat-Európa szívében, amely kis mérete ellenére hatalmas kulturális és politikai jelentőséggel bír. Az Európai Unió alapító tagjaként és számos nemzetközi szervezet, például a NATO és az Európai Bizottság székhelyeként a főváros, Brüsszel, gyakran a kontinens nem hivatalos politikai központjaként funkcionál. Földrajzilag Belgium három jellegzetes régióra oszlik: az északi, holland nyelvű Flandriára, a déli, francia nyelvű Vallóniára és a kétnyelvű Brüsszeli Fővárosi Régióra. Ez a nyelvi és kulturális sokszínűség határozza meg az ország identitását, és tükröződik gazdag történelmében, amely a római kortól a középkoron át az ipari forradalomig ível. Az olyan flamand városok, mint Brugge, Gent és Antwerpen, világhírűek kivételesen jól megőrzött középkori építészetükről, pompás főtereikről és jelentős művészettörténetükről, különösen a flamand primitívek alkotásairól. Ezzel szemben Vallónia festői tájaival, az Ardennek szelíd dombjaival, történelmi citadelláival és mély ipari hagyományaival nyűgözi le a látogatókat. Kulináris szempontból Belgium világhatalom; itt található a világ legjobb csokoládéja, a ropogós belga gofri és egy olyan sörkultúra, amelyet az UNESCO a szellemi kulturális örökség részévé nyilvánított, és amely több mint 800 különböző fajtát foglal magában. A képregénykultúra is mélyen gyökerezik a belga lélekben, olyan legendás figurákkal, mint Tintin vagy a Hupikék törpikék. Ma Belgium modern, magasan iparosodott nemzet, nyitott társadalommal és első osztályú infrastruktúrával. Akár Brugge romantikus csatornáin hajókázik valaki, akár a brüsszeli Atomium futurista építészetét csodálja meg, vagy az Ardennek érintetlen természetét fedezi fel – Belgium a történelmi örökség és a kortárs dinamizmus egyedülálló keverékét kínálja, amely a világ minden tájáról vonzza a látogatókat.",
+    "has_facts_adv": true,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-brussels",
+    "name_hu": "Brüsszel",
+    "desc_hu": "Brüsszel Belgium fővárosa és az Európai Unió szíve, amely a Grand Place-ről, az Atomiumról és multikulturális hangulatáról ismert.",
+    "desc_adv_hu": "Brüsszel, Belgium lüktető fővárosa és az Európai Unió adminisztratív szíve, a kontrasztok és a kulturális sokszínűség városa. Itt a császári ragyogás modern üvegpalotákkal, a középkori utcák pedig futurista építészettel találkoznak. A város szíve a Grand Place, a világ egyik legszebb főtere, amelyet gazdagon díszített céhházak és a fenséges városháza vesznek körül. Egy másik ikonikus jelkép az Atomium, az 1958-as világkiállítás öröksége, amely ma a haladás és az innováció szimbóluma. Brüsszel a kultúrák olvasztótégelye, ahol több mint 100 nyelvet beszélnek, és a világ minden tájáról érkező emberek találkoznak. A város a művészetkedvelők paradicsoma is, olyan világszínvonalú múzeumokkal, mint a Királyi Szépművészeti Múzeum, valamint vibráló street-art élettel, amely különösen a képregénykultúrának hódol. Kulináris szempontból Brüsszel világhírű ropogós sült krumplijáról, a legfinomabb pralinéiról és a kézműves sörök szinte végtelen választékáról. Akár az elegáns Galeries Royales Saint-Hubert passzázsban sétál valaki, akár a különc Manneken Pis szobrot látogatja meg, vagy az európai politikát tapasztalja meg testközelből az EU-negyedben – Brüsszel a kozmopolita hangulat és a tipikus belga nyugalom keverékével fogadja látogatóit.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "reg-flanders",
+    "name_hu": "Flandria",
+    "desc_hu": "Flandria Belgium északi, holland nyelvű régiója, amely középkori művészeti városairól és sík tengerparti tájáról ismert.",
+    "desc_adv_hu": "Flandria Belgium holland nyelvű északi régiója. Jellemzője a sík táj, az olyan történelmi művészeti városok, mint Antwerpen, Gent és Brugge, valamint az erős gazdasági jelenlét. A régió gazdag művészeti örökséggel rendelkezik, a flamand primitívek és olyan mesterek otthona, mint Rubens. Flandria híres kerékpáros kultúrájáról és világszínvonalú kikötőiről is.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "reg-wallonia",
+    "name_hu": "Vallónia",
+    "desc_hu": "Vallónia Belgium déli, francia nyelvű régiója, amely az Ardennek dombjairól, történelmi citadelláiról és gazdag ipari múltjáról ismert.",
+    "desc_adv_hu": "Vallónia Belgium francia nyelvű déli régiója. Festői tájairól, többek között az Ardennek hegységéről, történelmi kastélyairól és ipari örökségéről ismert. A régió olyan bájos városok keverékét kínálja, mint Namur és Liège, valamint gyönyörű természetet, amely tökéletes túrázáshoz és szabadtéri tevékenységekhez. Vallónia gazdag folklórral rendelkezik, és híres kiadós konyhájáról és helyi söreiről.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-ardennes",
+    "name_hu": "Ardennek",
+    "desc_hu": "Az Ardennek kiterjedt erdők, dombok és hegygerincek vidéke Délkelet-Belgiumban. A természetkedvelők paradicsoma, számos túra-, kerékpár- és kajakútvonalat kínál. A területet bájos falvak, történelmi apátságok és középkori várak tarkítják. Gazdag vadvilágáról és a II. világháború jelentős történelmi helyszíneként is ismert.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-ghent",
+    "name_hu": "Gent",
+    "desc_hu": "Gent egy vibráló egyetemi város Flandriában, amely jól megőrzött középkori építészetéről és a Genti oltárról ismert.",
+    "desc_adv_hu": "Középkori óvárosa és 3 tornya.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-liege",
+    "name_hu": "Liège",
+    "desc_hu": "Vallón kulturális fővárosa.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-leuven",
+    "name_hu": "Leuven",
+    "desc_hu": "Belgium legrégibb egyeteme.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-oostende",
+    "name_hu": "Oostende",
+    "desc_hu": "Tengerparti üdülővárosa.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "cult-manneken-pis",
+    "name_hu": "Manneken Pis",
+    "desc_hu": "400 éves pisilő kisfiú szobor.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "cult-bruges-belfry",
+    "name_hu": "Brugge-i harangtorony",
+    "desc_hu": "UNESCO 83m középkori harangtorony.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "cult-waterloo",
+    "name_hu": "Waterloo Oroszlán-domb",
+    "desc_hu": "Napóleoni csatatér emlékmű.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-hohes-venn",
+    "name_hu": "Hohes Venn",
+    "desc_hu": "Belgium legmagasabb láppali plató.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-dinant-citadel",
+    "name_hu": "Dinant citadella",
+    "desc_hu": "Szikla-vár és Meuse folyó.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-gravensteen",
+    "name_hu": "Gravensteen var",
+    "desc_hu": "A Gravensteen Belgium egyik legismertebb kozepkori vara. A Gentben allo erosseg jol mutatja, milyen eros volt egykor Flandria grófsaga. Ma tortenelemhez, epiteszethez es varosi elmenyhez is top celpont. Ezert a Gravensteen nagy ismertseget ad a belgiumi utazasoknak.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-beersel-castle",
+    "name_hu": "Beersel var",
+    "desc_hu": "A Beersel var egy klasszikus vizivár Brusszel delkeleti agglomeraciojaban. Falai, arvizei es tornyai a kesőkozepkori vedelmi epiteszet eros peldajaivá teszik. A var kicsi, de tortenelmileg nagyon gazdag es latvanyos. Kirandulhelykent rovid utat es igazi belga varhangulatot ad.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-bouillon-castle",
+    "name_hu": "Bouillon var",
+    "desc_hu": "A Bouillon var magasodik a Semois folyo felett, es az Ardennek egyik legismertebb erossege. Neve szorosan kapcsolodik a keresztes lovagokhoz es a kozepkorhoz. Fekvese miatt tortenelmi es tajkepileg is rendkivul vonzo. Ezert Bouillon eros tema a var- es ardenneki utvonalakhoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-stoclet-palace",
+    "name_hu": "Stoclet-palota",
+    "desc_hu": "A brusszeli Stoclet-palota a 20. szazad elejenek egyik kulcsmuve. Az epulet magas szinten kapcsolja ossze a muveszetet, az epiteszetet es a lakhatas kulturajat. UNESCO Vilagoroksegkent kulonosen eros design- es epiteszeti tartalmakhoz. Belgium utazasokban egyszerre jelenti a presztizst es a modernseget.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-tyne-cot-cemetery",
+    "name_hu": "Tyne Cot temeto",
+    "desc_hu": "Tyne Cot a vilag legnagyobb Commonwealth katonai temetoje, es Flandria egyik kozponti emlekhelye. Az egyuttes Ypres kozeleben all, es szorosan kotodik az elso vilaghaboru csataihoz. A csendes emlekepiteszetet a frontvonal tortenelmi tajaval kapcsolja ossze. A tortenelmi belgiumi tartalmakhoz Tyne Cot nagyon eros szimbolum.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-signal-de-botrange",
+    "name_hu": "Signal de Botrange",
+    "desc_hu": "A Signal de Botrange Belgium legmagasabb pontja, es a Hohes Venn teruleten talalhato. A nyilt magaslapi taj itt zord, szeles es nagyon tagas hatast kelt. Termeszeti celkent tokeletes terkephez, szintprofilhoz es regionalis Belgium-SEO-hoz. Fekvese miatt az Ardennek es az Eifel korutak egyik kozponti pontja.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-baraque-michel",
+    "name_hu": "Baraque Michel",
+    "desc_hu": "A Baraque Michel egy ismert magaslati pont az Ardennekben, es klasszikus celpont termeszetutazasokhoz. A kornyek nyilt, szeleknek kitett es gyakran joval huvosabb, mint Belgium alacsonyabban fekvo reszei. Nagyon jol illik a turazas, a mocsari taj es a teli taj temaiba. A Hohes Vennel egyutt eros foldrajzi kulcsszo.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-lake-robertville",
+    "name_hu": "Robertville-tó",
+    "desc_hu": "A Robertville-to az Ardennekben fekszik, es kedvelt hely a csendes termeszetbeni pihenéshez. A tiszta viz es az erdois környezet vonzo a turazok es hetvegi latogatok szamara. A to jol illik a pihenes, outdoor es ardenneki utvonalak temaihoz. A belgiumi termeszetes oldalakhoz eros es jol fotozhato hely.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-semois-river",
+    "name_hu": "Semois folyo",
+    "desc_hu": "A Semois az Ardennek egyik legszebb folyója, klasszikus celpont termeszetutazasokhoz. Folyasa kanyargos, zold es kis varosokkal, kilatasokkal szorosan osszekapcsolt. Kulonosen fontos outdoor-tartalmakhoz, kenuezeshez es nyugodt tajkepekhez. Belgium-keresesekben a Semois az autentikussag es a pihenes szinonimaja.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-lesse-river",
+    "name_hu": "Lesse folyo",
+    "desc_hu": "A Lesse egy kedvelt ardenneki folyo, szorosan kotodik a kajakozashoz es a barlangi tajakhoz. A folyo termeszetes kanyarjairól, meszkosziklairól es kirandulasi celpontjairol ismert. Belgium-SEO-ban a Lesse eros az elmeny, kaland es hetvegi turizmus temajaban. Pont olyan folyoparti tajat ad, amit az utazok a terkepen keresnek.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-monsin-island",
+    "name_hu": "Monsin-sziget",
+    "desc_hu": "A Monsin-sziget a Meuse folyónal, Liège mellett talalhato, es markans varosi-folyami ter. Az ipari tortenetet partmenti tajjal es varosi utvonalakkal kapcsolja ossze. Belgiumi szigetkent jo tema terkephez, foldrajzhoz es varosi tartalomhoz. Monsin jol mutatja, mennyire osszefonodik a viz es a varos a Meuse-völgyben.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-atomium",
+    "name_hu": "Atomium",
+    "desc_hu": "Az Atomium Belgium egyik legismertebb szimboluma es Brusszel latogatoinak kihagyhatatlan celpontja. A futurisztikus epulet egyedi modon kapcsolja ossze a tudomanyos kepet, az epiteszetet es a popkulturat. Az orszag egyik legtobbet fotozott jelkepe, es eros a turisztikai keresésekben. Belgium es Brusszel SEO-hoz az Atomium valodi magnes.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-grand-place-brussels",
+    "name_hu": "Grand Place",
+    "desc_hu": "A Grand Place Brusszel leghiresebb tertere es egy UNESCO-csucspon. A cehhazak es a varoshaza kozott a varos nagy epiteszeti hagyomanyat mutatja meg. A ter az egyik fo motviuma a varosmarketingnek, a tortenelemnek es a rovid utazasoknak. Belgium keresesenel a Grand Place szinte elkerulhetetlen.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-antwerp-central-station",
+    "name_hu": "Antwerpeni kozponti palyaudvar",
+    "desc_hu": "Az antwerpeni kozponti palyaudvar a varos egyik epiteszeti kirakathelyszine. A lenyugozo kupolacsarnok, valamint a ko, acel es feny kombinacioja vilaghiruve teszi. Sok latogato kizarolag az epulet miatt jon, nem csak a vasuti forgalom miatt. Ezert eros landmark a varosi, epiteszeti es belgiumi tartalmakhoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-belfry-bruges",
+    "name_hu": "Brugge harangtornya",
+    "desc_hu": "A brugge-i harangtorony évszazadok ota uralja a regi varoskepet. A torony a var kozepkori oroksegenek egyik legerosebb jelkepe. A latogatók kilatassal, tortenelemmel es UNESCO hangulattal kotik ossze. Landmarkkent kotelezo motívum Brugge- es Belgium-oldalakhoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-waterloo-battlefield",
+    "name_hu": "Waterloo csatatere",
+    "desc_hu": "A Waterloo csatatere Napóleon vegso veresegenek helyszine 1815-bol. A hely ma is Belgium es Europa egyik legismertebb tortenelmi celpontja. Az emlekmuvek, dombok es a latogatokozpont jol erthetove teszik az esemenyt. A tortenelmi utazasokban Waterloo klasszikus es erosen lathato tema.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-fort-eben-emael",
+    "name_hu": "Eben-Emael erod",
+    "desc_hu": "A Fort Eben-Emael Belgium egyik legismertebb 20. szazadi eroditmenye. A komplexum modern technikaval keszult, es 1940-ben kozponti szerepet jatszott. Ma eros celpont katonai tortenelmi es eroditmeny-turakhoz. SEO szempontbol jol kotia ossze a technikat, a haborutortenelmet es az utazas temat.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-royal-greenhouses-laeken",
+    "name_hu": "Laekeni kiralyi uveghazak",
+    "desc_hu": "A laekeni kiralyi uveghazak Brusszel egyik legelegansabb epitmenyei koze tartoznak. Az uveg, a fem es az idoszakos viragzas nagyon eros kepet ad az epiteszeti es kerteszeti turizmushoz. A helyet gyakran kotik a luxushoz, a kiralyi csaladhoz es a tavaszi latogatasokhoz. Belgium-tartalmakban ez egy minosegi, vizualis landmark.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-palace-justice-brussels",
+    "name_hu": "Brusszeli Igazsagugyi palota",
+    "desc_hu": "A brusszeli Igazsagugyi palota Europa egyik legmonumentalisabb epulete. A hatalmas kupola es a varosra nező dominans helyzete igazi landmarkka teszi. Az epulet az erő, az epiteszettortenet es a varoskep alakitasanak szimbóluma. Utazasi tartalmakban a klasszikus, nagy Brusszel jelkepekent mukodik.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-mas-museum-antwerp",
+    "name_hu": "MAS Antwerpen",
+    "desc_hu": "A MAS Antwerpen egyik legmodernebb jelkepe, es erosen meghatarozza a kikotoi zónat. A muzeum a varostortenetet, a vilagkereskedelmet es a modern epiteszetet egy eros tortenetbe kapcsolja. A latogatók leginkabb a tetoteraszt es a kikotore nyilo kilatast kedvelik. Antwerp-SEO-ban a MAS nagyon eros, mai landmark.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "port-antwerp-bruges",
+    "name_hu": "Antwerpen-Brugge kikoto",
+    "desc_hu": "Az Antwerpen-Brugge kikoto Belgium vilagkereskedelmi kapuja. Hatalmas kontenerterminalokat, logisztikat, energiat es ipart egyesit egyetlen tengeri rendszerben. A kikotoregio gazdasag, ellatasi lancok es foldrajzi tartalmak szempontjabol rendkivul fontos. SEO-temakent a varost, folyot es a globalis aruforgalmat kapcsolja ossze.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "port-zeebrugge",
+    "name_hu": "Zeebrugge kikoto",
+    "desc_hu": "Zeebrugge Belgium Eszaki-tengerre nyilo ablaka es fontos tengeri kikoto. A hely kompakt kikototerben kapcsolja ossze a kompforgalmat, a kontener, az auto- es az energiaforgalmat. Brugge kozelsege miatt turisztikai utakhoz is erdekes. SEO-szovegekben Zeebrugge a tenger, logisztika es nemzetkozi kapcsolatok szinonimaja.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "port-ghent",
+    "name_hu": "Gent kikoto",
+    "desc_hu": "A Gent kikoto jelentos belso kikoto, amely kozvetlen kapcsolatban all az Eszaki-tengerrel. Erosen kapcsolodik az iparhoz, a hajozashoz es az energiához, es meghatarozza a regio gazdasagi kepet. A csatornaparti fekves miatt logisztikai es utvonaltervezesi szempontbol is erdekes. POI-kent jo tartalmat ad a kikoto, kereskedelem es varosfejlodes temakhoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "port-liege",
+    "name_hu": "Liège kikoto",
+    "desc_hu": "A Liège kikoto a Meuse menti belso kikoto es fontos gazdasagi helyszin. A folyami kozlekedest iparral, disztribucioval es regionalis logisztikaval kapcsolja ossze. A kikotoinfrastruktura szorosan illeszkedik a Meuse-völgybe, es hosszu hagyomanya van. Belgium gazdasagi SEO-jaban Liège kulonosen relevans kikotoi tema.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "agri-haspengouw-fruit-region",
+    "name_hu": "Haspengouw gyumolcsvidek",
+    "desc_hu": "Haspengouw Belgium legismertebb gyumolcstaja, kulonosen alma- es korte­termeszteserol ismert. A lankas mezoek, kis falvak es a tavaszi viragzas nagyon fotogenne teszik a videket. Ersen kotodik a falusi turizmushoz, a helyi termekekhez es a szezonalis utazasokhoz. SEO-ban a Haspengouw eros kifejezes a mezogazdasag es az elvezet temajaban.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "ind-c-mine-genk",
+    "name_hu": "C-mine Genk",
+    "desc_hu": "A genki C-mine eros peldaja az atalakult banyaszati teruleteknek es a kreativ gazdasagnak. A helyszin ipari tortenelmet, kulturtereket es modern varosfejlodest kapcsol ossze. A latogatók itt tisztan latjak az utat a szenrol a designig es az esemenyekig. SEO-ban a C-mine tokeletes tema az ipari orokseg es az ujrahasznositas kapcsan.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-brussels-town-hall",
+    "name_hu": "Brusszeli varoshaza",
+    "desc_hu": "A Brusszeli varoshaza a Grand Place szive es Belgium egyik legszebb gotikus epulete. Magas tornya évszazadok ota meghatarozza a belvaros latvanyat. Az epulet a varostortenetet, a politikat es az UNESCO hangulatot kepviseli. Brusszel SEO-jaban ez kihagyhatatlan landmark.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-durbuy",
+    "name_hu": "Durbuy",
+    "desc_hu": "Durbuy egy kicsi ardenneki város, szűk történelmi központtal és erős kirándulóhangulattal. A település az Ourthe folyó kanyarulatában fekszik, ezért különösen festői. A látogatók az óvárosi utcák, a kilátópontok és a szabadtéri programok miatt érkeznek. A vallon kisvárosokra kereső tartalmakban Durbuy nagyon erős célpont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-bouillon",
+    "name_hu": "Bouillon",
+    "desc_hu": "Bouillon egy ardenneki város, amely szorosan a folyókanyar és a vár köré épült. A Semois partján fekvő helyszín egyszerre vonzó a természet- és a történelmi turizmus számára. A látogatók a panoráma, a víz és a középkori hangulat keverékét kedvelik. A regionális utazási tartalmakban Bouillon nagyon erős célpont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-dinant",
+    "name_hu": "Dinant",
+    "desc_hu": "Dinant egy jellegzetes meuse-i város meredek sziklafalakkal és kompakt belvárossal. A folyó és a citadella közti fekvés azonnal felismerhetővé teszi a helyet. Sok látogató a panorámát, a vízi programokat és a zenei örökséget köti Dinanthoz. Vallónia-utazásoknál Dinant különösen erős keresési név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-huy",
+    "name_hu": "Huy",
+    "desc_hu": "Huy egy kompakt meuse-i város, erős történelmi folyóparti hangulattal. A település meredek utcáiról, citadellájáról és a folyó menti kirándulóútvonalak közelségéről ismert. Sokkal kisebb és nyugodtabb, mint a nagy vallon központok. Helyi SEO-tartalmakhoz Huy nagyon jó választás.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-rochefort",
+    "name_hu": "Rochefort",
+    "desc_hu": "Rochefort az Ardennek peremén fekszik, és városi környezetet sok természettel kapcsol össze. A település jó kiindulópont barlangokhoz, erdőkhöz és nyugodt túrákhoz. Helyi sörkészítéséről és regionális termékeiről is ismert. Rochefort ezért jó kulcsszó természet- és gasztroturizmushoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-damme",
+    "name_hu": "Damme",
+    "desc_hu": "Damme egy kicsi flamand város Brugge és a tengerpart között. A település nyugodt hangulatáról, sík tájáról és történelmi látképéről ismert. A kerékpárosok és egynapos kirándulók gyakran megállnak itt. Kis nyugat-flandriai úti célként Damme jól látható a regionális keresésekben.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-aalst",
+    "name_hu": "Aalst",
+    "desc_hu": "Aalst egy élénk város Kelet-Flandriában, erős helyi karakterrel. A település karneváljáról, kereskedelméről és a Dender folyó menti kompakt központjáról ismert. Jó téma a valódi flamand mindennapi kultúráról szóló tartalmakhoz. A látogatók városi életet és regionális identitást egyszerre találnak itt.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-oudenaarde",
+    "name_hu": "Oudenaarde",
+    "desc_hu": "Oudenaarde a Schelde partján fekvő nyugodt város, és jó belépő a flamand dombvidékhez. A település szorosan kötődik a kerékpársporthoz, a piacokhoz és a regionális építészethez. Fekvése miatt Flandria és az Ardennek között nagyon sokoldalú hatást kelt. Regionális utazási témákban Oudenaarde alulértékelt név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-roeselare",
+    "name_hu": "Roeselare",
+    "desc_hu": "Roeselare egy nyugat-flandriai város erős kereskedelmi és hétköznapi karakterrel. A település bevásárlóéletet, helyi ipart és rövid távolságot kínál a régió kisebb helyeihez. Az utazók számára praktikus bázis Brugge és a szárazföld között. Roeselare jól működik a kevésbé zsúfolt Belgium-listákban.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-turnhout",
+    "name_hu": "Turnhout",
+    "desc_hu": "Turnhout egy kompakt város Antwerpen tartomány északi részén, erős regionális identitással. A település nyomdai és kártyakészítési hagyományairól, valamint kellemes központjáról ismert. A holland határ közelében fekszik, így határ menti szempontból is érdekes. A regionális városlistákban Turnhout értékes kiegészítés.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-hasselt",
+    "name_hu": "Hasselt",
+    "desc_hu": "Hasselt Limburg tartomány fővárosa, és barátságos belépő Kelet-Flandria felé. A város divatról, gasztronómiáról és kellemes belvárosról ismert. Fekvése miatt jó bázis természetjáráshoz és kisebb települések felfedezéséhez. Hasselt ezért sokoldalú találat a regionális tartalmakhoz.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-tongeren",
+    "name_hu": "Tongeren",
+    "desc_hu": "Tongeren Belgium legrégebbi városaként ismert, és a római múltat kellemes városképpel kapcsolja össze. A település áttekinthető, és az antikvitásokról, a piacokról és az archeológiai nyomokról ismert. Ezért Tongeren nagyon jó történelmi utazási témákhoz. A város jól kiegészíti a kelet-belgiumi Limburg-fedést.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-lier",
+    "name_hu": "Lier",
+    "desc_hu": "Lier egy bájos város Antwerpen tartományban, kompakt központtal és sok vízi elemmel a városképben. Rövid látogatásokra ideális, mert minden közel van egymáshoz. A hely történelmi, de nem zsúfolt, ezért kellemes. A kisebb flamand városok között Lier nagyon erős célpont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-geel",
+    "name_hu": "Geel",
+    "desc_hu": "Geel egy nyugodt város a Kempen régióban, nyitott és helyi hangulattal. Jó név a kisebb antwerpeni tartománybeli települések kereséseihez. A város a belvárost, zöldterületeket és erős közösségi életet kapcsol össze. A regionális Belgium-listákban Geel hasznos plusz pont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-sint-truiden",
+    "name_hu": "Sint-Truiden",
+    "desc_hu": "Sint-Truiden Haspengouw szívében fekszik, és gyümölcsösökről, enyhe tájairól ismert. A város történelmi központot, mezőgazdaságot és évszakos színeket kapcsol össze. Nagyon jól illik Limburg és a flamand gyümölcsös régió témáihoz. Helyi utazásokhoz Sint-Truiden erős és barátságos név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-tournai-cathedral",
+    "name_hu": "Tournai székesegyháza",
+    "desc_hu": "A tournai-i székesegyház Belgium egyik legfontosabb egyházi épülete. Masszív tornyai, valamint a román és gótikus elemek keveréke azonnal felismerhetővé teszi. Az épület ma is meghatározza a város történelmi identitását. Építészetre és templomokra kereső tartalmaknál nagyon erős célpont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-mons-belfry",
+    "name_hu": "Mons harangtornya",
+    "desc_hu": "A mons-i harangtorony a város egyik legfontosabb jelképe. A történelmi központ fölött áll, és erős sziluettet ad Monsnak. Az épület szorosan kapcsolódik a várostörténethez és a regionális büszkeséghez. A történelmi városképet kereső látogatóknak biztos találat.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-beguinage-lier",
+    "name_hu": "Lier beginaudvara",
+    "desc_hu": "A lieri beginaudvar csendes történelmi együttes szűk utcákkal és tiszta flamand hangulattal. A házak és udvarok egy különleges vallási és társadalmi életformáról mesélnek. A hely nyugodt, ugyanakkor rendkívül fotogén. Kis flamand történelmi célpontként Lier nagyon jó példa.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-fort-breendonk",
+    "name_hu": "Breendonk erőd",
+    "desc_hu": "A Breendonk erőd súlyos emlékhely és történelmi emlékmű Flandriában. A 20. században a náci megszállással és annak bűneivel kapcsolódott össze. Ma fontos emlékezeti és oktatási helyszín. A történelem iránt érdeklődő látogatóknak Breendonk központi név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-gravensteen-ghent",
+    "name_hu": "Gravensteen",
+    "desc_hu": "A Gravensteen Gent híres vára és Belgium egyik legjellegzetesebb középkori épülete. Az erőd a város közepén áll, így a történelem azonnal láthatóvá válik. Masszív megjelenése tökéletes városmarketinghez és utazási fotókhoz. Flandriai tartalmakhoz a Gravensteen valódi horgonypont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-basilica-halle",
+    "name_hu": "Halle bazilikája",
+    "desc_hu": "A Halle-i bazilika Belgium középső részének fontos vallási és építészeti célpontja. Az épület erősen kötődik a zarándoklathoz, a helyi hagyományhoz és a városi identitáshoz. Fekvése miatt Brüsszelből is gyorsan elérhető. Egyházi és regionális keresésekhez nagyon értékes.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "land-basilica-holy-blood-bruges",
+    "name_hu": "Szent Vér-bazilika",
+    "desc_hu": "A Szent Vér-bazilika Brugge egyik legismertebb spirituális helyszíne. Csendes kápolnahangulatot erős történelmi szimbolikával kapcsol össze. Sok látogató a klasszikus óvárosi séták részeként keresi fel. Kultúra- és vallási témákban nagyon erős név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-abbey-villers-la-ville",
+    "name_hu": "Villers apátság",
+    "desc_hu": "A Villers apátság lenyűgöző kolostorrom Vallóniában, erős hangulattal. A kiterjedt falak és boltívek egy fontos vallási központról mesélnek. Ma a hely kedvelt kulturális séták és csendes látogatások célpontja. Vallónia történelmi tartalmaihoz Villers nagyon jó elem.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "forest-hallerbos",
+    "name_hu": "Hallerbos",
+    "desc_hu": "A Hallerbos Belgium egyik legismertebb erdeje, különösen tavasszal vonz sok látogatót. Ilyenkor a kék virágok szőnyege nagyon fotogén tájjá változtatja az erdőt. A hely könnyen kapcsolható Brüsszelhez és Brabant térségéhez, ezért kedvelt egynapos célpont. Természeti keresésekhez a Hallerbos rendkívül erős.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "forest-sonian-forest",
+    "name_hu": "Zoniën-erdő",
+    "desc_hu": "A Zoniënwald egy hatalmas erdőterület közvetlenül Brüsszeltől délre. Az öreg bükkösök és a hosszú utak miatt ideális sétákhoz és kerékpározáshoz. Nagyon közvetlen módon kapcsolja össze a várost és a természetet. Brüsszellel kapcsolatos tartalmaknál az erdő természetes kiegészítő elem.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "lake-lac-de-l-eau-d-heure",
+    "name_hu": "Lac de l'Eau d'Heure",
+    "desc_hu": "Az Eau d'Heure-tavak Belgium legnagyobb víztározó-együttesét alkotják. A víz, a partok és a szabadidős lehetőségek sokoldalú kirándulóhellyé teszik a helyet. Itt a vízisport, a természet és a pihenés találkozik. Vallóniában ez nagyon erős természeti és szabadidős pont.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "river-leie",
+    "name_hu": "Leie folyó",
+    "desc_hu": "A Leie fontos folyó Nyugat- és Kelet-Flandriában. Városokat, folyóparti sétányokat és történelmi tájakat köt össze kellemes módon. Gent környékén különösen meghatározza a víz és a kultúra arculatát. Flamand természet- és városi tartalmakhoz a Leie nagyon hasznos.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "river-dyle",
+    "name_hu": "Dijle folyó",
+    "desc_hu": "A Dijle egy nyugodt folyó, amely Brabant régión és Leuven környékén halad át. Zöld partokat, városi sétányokat és kis hidakat köt össze. Nem hatalmas folyó, mégis nagyon fontos a városképek szempontjából. Leuven környéki természet- és városi tartalmakhoz ideális.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "island-ile-d-yvoir",
+    "name_hu": "Yvoir-sziget",
+    "desc_hu": "Az Île d'Yvoir egy kis sziget a Meuse folyóban és szokatlan szabadidős célpont. A hely a vizet, a nyugalmat és a nyári programokat egy kompakt keretben kapcsolja össze. Ezért nagyon jó családi kirándulási ötletekhez. Belgiumi szigetpontként figyelemfelkeltő bejegyzés.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "agri-haspengouw-fruit-belt",
+    "name_hu": "Haspengouw gyümölcsös vidéke",
+    "desc_hu": "Haspengouw Belgium egyik legismertebb gyümölcsös vidéke, az alma- és körte-termesztés központja. Tavasszal és ősszel a táj különösen vonzó utazáshoz és fotózáshoz. A régió egyértelműen köti össze a mezőgazdaságot, az évszakos színeket és a regionális termékeket. Agrár- és gasztrotartalmakhoz Haspengouw nagyon erős téma.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "agri-hageland-vineyards",
+    "name_hu": "Hageland borvidéke",
+    "desc_hu": "Hageland egy kicsi, de fejlődő bor- és agrártérség Flamand-Brabantban. A lágy dombok jól illenek szőlőhöz, gasztroútvonalakhoz és vidéki kirándulásokhoz. A régió jó példa a modern belga bortermelésre. Regionális gasztro- és boros keresésekhez Hageland nagyon illik.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "agri-pajottenland-breweries",
+    "name_hu": "Pajottenland sörfőzdéi",
+    "desc_hu": "Pajottenland regionális italairól, sörfőzési hagyományáról és a Brüsszel környéki közelségéről ismert. A táj jó gasztroútvonalakhoz, falvakhoz, rétekhez és helyi termelőkhöz. Itt a mezőgazdaság, a sörkultúra és a városközelség találkozik. Food és kézműves sör keresésekhez ez a térség nagyon releváns.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "kid-bobbejaanland",
+    "name_hu": "Bobbejaanland",
+    "desc_hu": "A Bobbejaanland Belgium egyik legismertebb vidámparkja és klasszikus családi célpont. A park játékokat, műsorokat és egy teljes napnyi szórakozást kínál. A Kempen régióban található, így Antwerpenből is jól elérhető. Gyerekbarát utazási tartalmakhoz nagyon erős név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "kid-walibi-belgium",
+    "name_hu": "Walibi Belgium",
+    "desc_hu": "A Walibi Belgium egy nagy walloniai vidámpark, népszerű családi kirándulási célpont. A park hullámvasutakat, vizes attrakciókat és sok tematikus részt kínál. Wavre-ben található, ezért Brüsszelből is jól elérhető. Gyerekekre fókuszáló Belgium-utazásokhoz Walibi nagyon egyértelmű találat.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "kid-pairi-daiza",
+    "name_hu": "Pairi Daiza",
+    "desc_hu": "A Pairi Daiza Belgium egyik legismertebb állatparkja, és jóval az ország határain túl is népszerű. Az intézmény állatvilágot, kertépítészeti tereket és élményzónákat kombinál. Ezért a látogatás különösen változatos családok és gyerekek számára. Állatkertekről és élményparkokról szóló tartalmakhoz top név.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "kid-bellewaerde",
+    "name_hu": "Bellewaerde",
+    "desc_hu": "A Bellewaerde egy családi park Ypres közelében, amely állatokat, attrakciókat és szórakozást kapcsol össze. Különösen jó a fiatalabb gyerekes családoknak. Nyugat-Flandriában található, ezért a tengerparti vagy városi látogatásokkal is jól kombinálható. Gyerekbarát belgiumi utazásokhoz nagyon hasznos bejegyzés.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-meuse-river",
+    "name_hu": "Meuse folyó",
+    "desc_hu": "A Meuse folyó Belgium egyik legfontosabb folyója, és Vallónia nagy részének arculatát formálja. Völgye városokat, erődöket és csendes folyópartokat köt össze.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-ourthe",
+    "name_hu": "Ourthe-völgy",
+    "desc_hu": "Az Ourthe-völgy az Ardennek egyik legszebb folyóvidéke. Kanyargós szakaszai, erdői és sziklái miatt kedvelt kirándulóhely.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "nat-semois-valley",
+    "name_hu": "Semois-völgy",
+    "desc_hu": "A Semois-völgy az Ardennek egyik legfestőibb tája. A folyó szűk ívekben kanyarog erdők és meredek domboldalak között.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-ypres",
+    "name_hu": "Ypres",
+    "desc_hu": "Ypres szorosan kapcsolódik az első világháborúhoz és a flandriai csataterekhez. A város súlyosan megsérült, majd gondosan újjáépítették.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "hist-bastogne",
+    "name_hu": "Bastogne",
+    "desc_hu": "Bastogne az 1944/45-ös ardenneki csata egyik központi szimbóluma. A város neve szorosan összefonódott a 101. légiszállítású hadosztály kitartásával.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "sight-galeries-stroom",
+    "name_hu": "Galeries Royales Saint-Hubert",
+    "desc_hu": "A Galeries Royales Saint-Hubert elegáns fedett passzázs Brüsszel szívében. Klasszikus üvegteteje és luxus kirakatai miatt korai európai mintának számít.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "sight-spa",
+    "name_hu": "Spa",
+    "desc_hu": "Spa egy híres fürdőváros az Ardennekben, amely világszerte a gyógyfürdők névadójává vált.",
+    "desc_adv_hu": "Spa egy híres fürdőváros az Ardennekben, és a gyógyfürdő jelentésű 'spa' szó forrása. Ma a wellness-hagyományt motorsporttal és természettel köti össze.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "sight-chocolate-museum-bruges",
+    "name_hu": "Choco-Story múzeum Brugge",
+    "desc_hu": "A bruges-i Choco-Story múzeum a csokoládé történetét mutatja be a maja időktől napjainkig. A látogatók a gyártásról és kereskedelemről is tanulhatnak, és kóstolásra is van lehetőség.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-antwerp",
+    "name_hu": "Antwerpen",
+    "desc_hu": "Antwerpen Belgium egyik legfontosabb kikoto- es kereskedelmi varosa a Schelde folyonal. A varos a tortenelmi belvarost modern logisztikaval, divattal es gyemantkereskedelemmel kapcsolja ossze. Avarosi utazasokhoz muzeumokat, gasztronomiat es sok lathatot kinal. Ezert Antwerpen Belgium egyik legkeresettebb uticelja.",
+    "desc_adv_hu": "",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-bruges",
+    "name_hu": "Brugge",
+    "desc_hu": "Brugge Európa egyik legjobban megőrzött középkori városa, amely romantikus csatornáiról és történelmi központjáról ismert.",
+    "desc_adv_hu": "Brugge Europa egyik legismertebb regi belvarosi uticelja. A varos csatornairol, teglaepuleteirol es rendkivul fotogen kozepkori latvanyarol hires. Sok utazo romantika, csokolade es UNESCO hangulat miatt keresi. Belgium egyik top helyszinekent Brugge remekul illik a kulturutazasi tartalmakba.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  },
+  {
+    "id": "city-namur",
+    "name_hu": "Namur",
+    "desc_hu": "Namur Vallónia fővárosa, amely festői helyen, a Meuse és a Sambre összefolyásánál fekszik, egy hatalmas citadella árnyékában.",
+    "desc_adv_hu": "Namur Vallonia fovarosa, amely festoi helyen fekszik a Meuse es a Sambre osszefolyasanal. A varos a citadellarol, a folyoparti tajrol es a hangulatos kozpontról ismert. Namur az igazgatasi szerepet eros turisztikai profillal kapcsolja ossze. Ezert gyakran szerepel Belgium-utazasi kalauzokban.",
+    "has_facts_adv": false,
+    "facts_adv_hu": []
+  }
+]

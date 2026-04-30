@@ -38,6 +38,25 @@ export const northmacedoniaPois: POI[] = [
       hu: "Szkopje Észak-Macedónia fővárosa és legnagyobb városa.",
       ro: "Skopje este capitala și cel mai mare oraș din Macedonia de Nord.",
       en: "Skopje is the capital and largest city of North Macedonia."
+    },
+    descriptionAdvanced: {
+      de: "Skopje präsentiert eine faszinierende Mischung aus osmanischem Erbe und moderner Architektur. Die Stadt am Fluss Vardar wurde durch das Erdbeben von 1963 stark geprägt, was zu ihrem einzigartigen Stadtbild führte. Sie dient als wichtiges kulturelles Zentrum des Landes. Geografie K7 — Flüsse und Städte in Südosteuropa.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Steinbrücke (Kameni Most) ist das Wahrzeichen der Stadt.",
+        "Der Matka-Canyon liegt nur 15 km außerhalb des Zentrums.",
+        "Skopje beherbergt eine der ältesten Festungen des Balkans.",
+        "Der Vardar-Fluss teilt die Stadt in eine osmanische Altstadt und einen modernen Teil.",
+        "Der Millennium-Kreuz auf dem Vodno-Berg ist 66 Meter hoch.",
+        "Das Erdbeben von 1963 zerstörte fast 80 % der Stadt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {

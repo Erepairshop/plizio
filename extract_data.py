@@ -1,47 +1,91 @@
 import re
 import json
 
-file_path = '/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraHu2.ts'
-
+file_path = 'lib/visualLab/data/italyPoi.ts'
 with open(file_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
-# Split by POI entry starting with { id: "
-entries = content.split('  {')
-data_to_update = []
+ids = [
+    "reg-lombardia", "reg-toscana", "reg-sicilia", "reg-veneto", "reg-lazio",
+    "milan", "venice", "florence", "naples", "colosseum", "pisa-tower",
+    "pompeii", "etna", "vatican", "it-pompei-full", "it-herculaneum",
+    "it-ostia-antica", "it-san-gimignano"
+]
 
-for entry in entries:
-    if 'id:' not in entry:
+results = []
+
+def extract_obj(content, start_index):
+    brace_count = 0
+    in_string = False
+    quote_char = ''
+    for i in range(start_index, len(content)):
+        char = content[i]
+        if char in ["'", '"', '`'] and (i == 0 or content[i-1] != '\\'):
+            if not in_string:
+                in_string = True
+                quote_char = char
+            elif char == quote_char:
+                in_string = False
+        if not in_string:
+            if char == '{':
+                brace_count += 1
+            elif char == '}':
+                brace_count -= 1
+                if brace_count == 0:
+                    return content[start_index:i+1]
+    return None
+
+def extract_langs(text):
+    langs = {}
+    for lang in ['en', 'hu', 'ro', 'de']:
+        # Match "en: '...'" or 'en: "..."' or 'en: `...`'
+        # Handle newlines and spaces
+        match = re.search(rf'{lang}:\s*(["\'`])(.*?)\1', text, re.DOTALL)
+        if match:
+            langs[lang] = match.group(2).strip()
+        else:
+            langs[lang] = ""
+    return langs
+
+def extract_facts(text):
+    facts = {}
+    for lang in ['en', 'hu', 'ro', 'de']:
+        match = re.search(rf'{lang}:\s*\[(.*?)\]', text, re.DOTALL)
+        if match:
+            items_text = match.group(1)
+            # Find all strings in the array
+            items = re.findall(r'(["\'`])(.*?)\1', items_text, re.DOTALL)
+            facts[lang] = [item[1].strip() for item in items]
+        else:
+            facts[lang] = []
+    return facts
+
+for poi_id in ids:
+    # Find the start of the object with this id
+    pattern = rf'id:\s*"{poi_id}"|id:\s*\'{poi_id}\''
+    match = re.search(pattern, content)
+    if not match:
+        print(f"ID {poi_id} not found")
         continue
-        
-    id_match = re.search(r'id:\s*"([^"]+)"', entry)
-    if not id_match:
-        continue
-    poi_id = id_match.group(1)
     
-    # Check if RO content is missing
-    desc_ro_empty = 'ro: ""' in entry and 'descriptionAdvanced' in entry
-    facts_ro_empty = 'ro: []' in entry and 'factsAdvanced' in entry
+    # Extract the whole POI object
+    # Find the nearest '{' before the id
+    obj_start = content.rfind('{', 0, match.start())
+    obj_text = extract_obj(content, obj_start)
     
-    if desc_ro_empty or facts_ro_empty:
-        hu_desc_match = re.search(r'hu:\s*"([^"]+)"', entry.split('descriptionAdvanced')[1] if 'descriptionAdvanced' in entry else "")
-        de_desc_match = re.search(r'de:\s*"([^"]+)"', entry.split('descriptionAdvanced')[1] if 'descriptionAdvanced' in entry else "")
+    if obj_text:
+        # Extract descriptionAdvanced
+        desc_match = re.search(r'descriptionAdvanced:\s*\{(.*?)\}', obj_text, re.DOTALL)
+        desc_langs = extract_langs(desc_match.group(1)) if desc_match else {"en":"","hu":"","ro":"","de":""}
         
-        hu_facts_part = entry.split('factsAdvanced')[1].split('hu: [')[1].split(']')[0] if 'factsAdvanced' in entry and 'hu: [' in entry.split('factsAdvanced')[1] else ""
-        de_facts_part = entry.split('factsAdvanced')[1].split('de: [')[1].split(']')[0] if 'factsAdvanced' in entry and 'de: [' in entry.split('factsAdvanced')[1] else ""
+        # Extract factsAdvanced
+        facts_match = re.search(r'factsAdvanced:\s*\{(.*?)\}', obj_text, re.DOTALL)
+        facts_langs = extract_facts(facts_match.group(1)) if facts_match else {"en":[],"hu":[],"ro":[],"de":[]}
         
-        hu_facts = re.findall(r'"([^"]+)"', hu_facts_part)
-        de_facts = re.findall(r'"([^"]+)"', de_facts_part)
-        
-        data_to_update.append({
+        results.append({
             "id": poi_id,
-            "hu_desc": hu_desc_match.group(1) if hu_desc_match else "",
-            "de_desc": de_desc_match.group(1) if de_desc_match else "",
-            "hu_facts": hu_facts,
-            "de_facts": de_facts
+            "descriptionAdvanced": desc_langs,
+            "factsAdvanced": facts_langs
         })
 
-with open('pois_to_update.json', 'w', encoding='utf-8') as f:
-    json.dump(data_to_update, f, ensure_ascii=False, indent=2)
-
-print(f"Extracted {len(data_to_update)} POIs.")
+print(json.dumps(results, indent=2, ensure_ascii=False))

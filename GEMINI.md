@@ -52,8 +52,8 @@ Német mezőbe csak német szó, magyar mezőbe csak magyar, stb. Ékezetek hely
 ## Workflow
 1. Olvasd be a cél-fájlt 1×, ne ismételd.
 2. Módosítsd/bővítsd a szükséges részt.
-3. Futtass `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit` és fixáld a saját fájlod hibáit (másét NE).
-4. Ha shell-hiba (AttachConsole, pty-error) jön — NE retry-olj loopban, hagyd ki a check-et, folytasd.
+3. **NE FUTTASS `tsc`-t** — egy külön codex-runner csinálja a TypeScript ellenőrzést és javítást a háttérben. Te csak figyelj a saját fájlodban a syntax-helyességre (idézőjelek, vesszők, zárójelek, mezőnevek konzisztencia).
+4. Ha shell-hiba (AttachConsole, pty-error) jön — NE retry-olj loopban, hagyd ki, folytasd.
 5. Ha 429: várj 30s, 1 retry, aztán folytasd más fájllal.
 6. Git commit végén, NE pushold — user csinálja.
 
@@ -147,8 +147,19 @@ Ezeket a hibákat a te korábbi futásaid okozták — minden új Gemini-session
 - **Orphan SEO-blokk POI objektumon kívül**: `descriptionAdvanced` / `facts` mezőket TILOS különálló blokkként beszúrni a POI után `{` / `}` nélkül. Mindig a POI OBJEKTUMON BELÜL legyenek.
 - **Duplikált POI-blokk**: ne másold le a teljes POI objektumot csak mert új mezőt akarsz hozzáadni. Szerkeszd az EREDETIT.
 - **Hiányzó `];` array-záró**: minden `export const xxxCities: POI[] = [` után kötelezően `];` van mielőtt új exportot nyitsz.
+- **🚨 Dupla `];` a fájl végén TILOS** (2026-04-28 incident: poiExtraLuxembourg*.ts):
+  - Ha az utolsó sor már `];`, NE tegyél még egy üres sort és újabb `];`-t.
+  - Ellenőrizd: a fájl végének pontosan EGY `];` legyen (vagy `}` ha objektumot exportálsz), ne kettő.
+  - Hiba: `error TS1128: Declaration or statement expected.`
 - **Hiányzó `,` 2 POI között**: `}` után `,` kötelező ha még POI jön.
 - **Escaped quote artifact**: NE írj `\"` idézőjelet a string-ekben — használj rendes `"`-t.
+- **🚨 Apostróf single-quoted stringben TILOS** (2026-04-28 incident: irelandPoi.ts):
+  - `'Giant's Causeway'` → SYNTAX ERROR (apostróf lezárja a stringet)
+  - `'world's longest'` / `'country's population'` / `'island's history'` → SYNTAX ERROR
+  - **Szabály:** Ha a string tartalmaz `'` karaktert (apostróf, possessive), KÖTELEZŐ double-quote-ot használni: `"Giant's Causeway"` ✅
+  - Vonatkozik: minden nyelv (en/de/hu/ro), minden mező (`name`, `description`, `facts`, `descriptionAdvanced`, `factsAdvanced`)
+  - Tömbökben is: `[ "Capital is Dublin.", "World's largest..." ]` — ha bármelyik elem apostrófot tartalmaz, az ELEM legyen double-quote-os
+  - Konzisztencia kedvéért: ha kétséges, mindig `"..."` használj `'...'` helyett TS string literálokhoz
 - **`historyPeriod: "Modern"`** — a régi enum szigorú volt `"modern"` lowercase-szel. Most a típus string, de ha lehet lowercase-t írj (`"modern"`, `"classical"`, `"colonial"`) konzisztencia miatt.
 - **Shell-hiba loop (`AttachConsole failed`)**: ha a `tsc` / `grep` Windows-ConPTY hibát dob, NE próbálkozz újra 50×. Hagyd ki az ellenőrzést, írj tovább, aztán user kézzel ellenőrzi.
 - **32k output-token limit**: ha a feladat nagy (pl. 4 ország teljes generálása egy promptban), oszd fel kisebb részekre. Inkább 2 kisebb commit, mint 1 megszakadt.

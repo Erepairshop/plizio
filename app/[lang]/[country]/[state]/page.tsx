@@ -114,7 +114,7 @@ export default async function StatePage({
                   <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{region.name[lang] || region.name.de}</h1>
                 </div>
               </div>
-              <p className="mt-5 text-base leading-7 text-white/72">{region.description[lang] || region.description.de}</p>
+              <p className="mt-5 text-base leading-7 text-white/72">{region.description?.[lang] || region.description?.de || ""}</p>
               <div className="mt-5 flex flex-wrap gap-2">
                 {(region.facts?.[lang] || region.facts?.de || []).slice(0, 4).map((fact) => (
                   <span key={fact} className="rounded-full border border-cyan-500/15 bg-cyan-500/8 px-3 py-1 text-sm text-cyan-100/85">

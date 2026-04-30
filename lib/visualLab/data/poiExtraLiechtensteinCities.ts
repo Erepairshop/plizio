@@ -1,7 +1,6 @@
 import type { POI } from "./poi";
 
 export const poiExtraLiechtensteinCities: POI[] = [
-] = [
   {
     id: "city-muehleholz-extra",
     type: "city",
@@ -648,7 +647,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       en: ["Features modern sports and leisure facilities.", "The name is of Romance origin."]
     }
   },
-] = [
   {
     id: "city-malbun-extra",
     type: "city",
@@ -1276,7 +1274,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       en: ["The Samina river cuts through the valley towards Austria.", "One of the most inaccessible regions of the country."]
     }
   },
-] = [
   {
     id: "city-saroja-extra",
     type: "city",

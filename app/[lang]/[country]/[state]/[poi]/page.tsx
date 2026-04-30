@@ -110,8 +110,8 @@ export default async function PoiPage({
   const countryCopy = COUNTRY_COPY[countryId][resolved.lang as Lang];
   const related = getRelatedPois(poi);
   const geoFacts = geographicFacts(poi);
-  const description = poi.description[resolved.lang as Lang] || poi.description.de;
-  const advanced = poi.descriptionAdvanced?.[resolved.lang as Lang] || poi.descriptionAdvanced?.de;
+  const description = poi.description?.[resolved.lang as Lang] || poi.description?.de || "";
+  const advanced = poi.descriptionAdvanced?.[resolved.lang as Lang] || poi.descriptionAdvanced?.de || "";
   const facts = [
     ...(poi.facts?.[resolved.lang as Lang] || poi.facts?.de || []),
     ...((poi.factsAdvanced?.[resolved.lang as Lang] || poi.factsAdvanced?.de || []) as string[]),

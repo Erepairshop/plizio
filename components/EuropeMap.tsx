@@ -60,7 +60,7 @@ const COUNTRY_BINDINGS: Record<string, string> = {
   VA: "/vatican-map",
 };
 
-const COMING_SOON: Record<Lang, string> = {
+const COMING_SOON: Partial<Record<Lang, string>> = {
   de: "Bald verfügbar",
   hu: "Hamarosan",
   ro: "În curând",
@@ -194,9 +194,10 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
     if (bind) {
       router.push(bind);
     } else {
+      const info = COMING_SOON[lang] ?? COMING_SOON.en ?? "Coming soon";
       setToast({
         title: country.names[lang as keyof typeof country.names] || country.names.en,
-        info: COMING_SOON[lang] || COMING_SOON.en,
+        info,
       });
       setTimeout(() => setToast(null), 2500);
     }

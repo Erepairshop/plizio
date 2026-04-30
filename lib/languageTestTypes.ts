@@ -55,7 +55,7 @@ export interface ReadingPassage {
     | {
         type: "typing";
         question: string;
-        answer: string;
+        answer: string | string[];
         subtopic?: string;
       }
   >;

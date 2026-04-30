@@ -154,7 +154,7 @@ export default async function CountryPage({
                     ) : null}
                     <div className="min-w-0">
                       <h3 className="text-sm font-semibold text-white">{state.name[lang] || state.name.de}</h3>
-                      <p className="mt-1 text-xs leading-5 text-white/60">{state.description[lang] || state.description.de}</p>
+                      <p className="mt-1 text-xs leading-5 text-white/60">{state.description?.[lang] || state.description?.de || ""}</p>
                     </div>
                   </div>
                 </a>

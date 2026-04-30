@@ -1,4 +1,4 @@
-
+﻿
 import { POI } from "./poi";
 
 export const poiExtraAndorraHistory: POI[] = [
@@ -380,33 +380,7 @@ export const poiExtraAndorraHistory: POI[] = [
       en: ["Built in the 12th century.", "Romanesque murals.", "Strategic viewpoint location."]
     },
     plizioChallenge: "Ha a templom 1300 méter magasan van, és te 1000 méteren kezdesz, hány méter szintkülönbséget kell megtenned?"
-  },
-  {
-    id: "historical-museu-del-comic-extra",
-    type: "landmark",
-    parent: "AD-04",
-    coords: [1.5152, 42.5463],
-    name: {
-      de: "Comic-Museum",
-      hu: "Képregénymúzeum",
-      ro: "Muzeul Benzilor Desenate",
-      en: "Comic Museum"
-    },
-    description: {
-      de: "Das in La Massana gelegene Museum ist der Welt der Comics gewidmet und zeigt wechselnde Ausstellungen von nationalen und internationalen Künstlern.",
-      hu: "A La Massanában található múzeum a képregények világának szentelt, és nemzeti és nemzetközi művészek időszakos kiállításait mutatja be.",
-      ro: "Situat în La Massana, acest muzeu este dedicat lumii benzilor desenate, prezentând expoziții temporare ale artiștilor naționali și internaționali.",
-      en: "Located in La Massana, this museum is dedicated to the world of comics, featuring temporary exhibitions by national and international artists."
-    },
-    facts: {
-      de: ["Einziges Comic-Museum in Andorra.", "Zeigt Originalzeichnungen.", "Veranstaltet häufig Workshops."],
-      hu: ["Andorra egyetlen képregénymúzeuma.", "Eredeti rajzokat állít ki.", "Gyakran tart workshopokat."],
-      ro: ["Singurul muzeu de benzi desenate din Andorra.", "Expune desene originale.", "Organizează frecvent ateliere."],
-      en: ["Andorra's only comic museum.", "Displays original drawings.", "Hosts frequent workshops."]
-    },
-    plizioChallenge: "Ha egy kiállításon 120 képregényoldal látható, és minden oldal 4 képkockából áll, hány képkocka van összesen?"
-  },
-  {
+  },{
     id: "historical-esglesia-de-sant-joan-de-sispony-extra",
     type: "historical",
     parent: "AD-04",

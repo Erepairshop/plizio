@@ -1,0 +1,669 @@
+[
+  {
+    "id": "lazaro-cardenas-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Lázaro Cárdenas, located at the mouth of the Balsas River in Michoacán, is Mexico's premier deep-water gateway to the Pacific. As one of the largest and most modern ports in the country, it serves as a critical link for trade with Asia and the Americas. The port is uniquely equipped with 18-meter-deep access channels, allowing it to accommodate the world's largest container vessels. It is a major hub for the automotive industry, handling thousands of vehicle imports and exports annually. Beyond containerized cargo, Lázaro Cárdenas is a vital transshipment point for bulk minerals and steel products, supported by a specialized industrial zone and efficient rail connections to Mexico's heartland and the US border. Its strategic position and continuous expansion make it an essential driver of Mexico's global economic competitiveness."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Lázaro Cárdenas is the only Mexican port with sufficient depth (18m) to handle seventh-generation container ships.",
+        "The port complex covers over 3,800 hectares of land and water.",
+        "It handles more than 1.3 million TEUs (Twenty-foot Equivalent Units) of container traffic annually.",
+        "The port features the most specialized automotive terminal in Mexico, with a capacity for 600,000 units per year.",
+        "It is connected to the US rail network via the Kansas City Southern de México line.",
+        "The port's industrial zone includes a massive steel mill operated by ArcelorMittal.",
+        "Lázaro Cárdenas acts as a major entry point for raw materials used in the Mexican manufacturing industry."
+      ]
+    }
+  },
+  {
+    "id": "veracruz-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Veracruz is Mexico's most historic and significant commercial gateway on the Gulf of Mexico. Established in the 16th century by Spanish explorers, it has evolved into a state-of-the-art maritime hub that connects Mexico to Europe, Africa, and the eastern United States. The port is a leader in handling diversified cargo, including automobiles, grain, agricultural machinery, and mineral bulk. A massive multi-billion dollar expansion project, known as the 'New Port of Veracruz,' has significantly increased its capacity by adding five new specialized terminals and a deeper navigation channel. This development ensures that Veracruz remains a vital artery for Mexican international trade, blending its rich colonial heritage with the logistical demands of a globalized 21st-century economy."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Veracruz is the oldest port in Mexico, founded by Hernán Cortés in 1519.",
+        "The 'New Port' project triples the previous capacity to over 95 million tons of cargo per year.",
+        "It is the leading port in Mexico for the handling of agricultural bulk products like corn and wheat.",
+        "The port's new breakwater is 4.2 kilometers long, the largest of its kind in Latin America.",
+        "Veracruz handles approximately 70% of the total vehicle traffic on Mexico's Gulf coast.",
+        "The port is a key logistics point for the Mexican energy sector, particularly for refined petroleum products.",
+        "The landmark 'San Juan de Ulúa' fortress still stands within the port area as a reminder of its historical defense."
+      ]
+    }
+  },
+  {
+    "id": "altamira-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Altamira, situated in the state of Tamaulipas, is a world-class industrial seaport and one of Mexico's most important trade hubs on the Gulf coast. Unlike traditional ports, Altamira was specifically designed as an integrated port-industrial complex, featuring a massive industrial park directly adjacent to the shipping terminals. This strategic layout makes it a premier location for the petrochemical, steel, and manufacturing industries, allowing for the seamless movement of raw materials and finished goods. The port specializes in containerized cargo and specialized liquids, supporting a large cluster of international companies. With its deep-water access and advanced automated terminals, Altamira plays a crucial role in connecting Northern Mexico's industrial heartland to global markets across the Atlantic."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Altamira Industrial Port Complex covers a vast area of over 9,500 hectares.",
+        "It is home to the largest petrochemical cluster in Mexico, with numerous international plants onsite.",
+        "The port handles more than 20 million tons of cargo annually.",
+        "Altamira features a specialized liquefied natural gas (LNG) terminal, vital for Mexico's energy supply.",
+        "It is one of the top five ports in Mexico for container movement, handling over 800,000 TEUs yearly.",
+        "The port's strategic location provides a direct gateway to the central and northern Mexican industrial corridors.",
+        "Altamira offers the largest land reserve for industrial development among all Mexican ports."
+      ]
+    }
+  },
+  {
+    "id": "manzanillo-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Manzanillo, located in the state of Colima, is the busiest and most significant container port in Mexico. Often called the 'Gateway to the Pacific,' it handles the vast majority of trade between Mexico and the Asia-Pacific region. Its strategic location and efficient logistics make it the primary entry point for consumer goods, electronics, and industrial components destined for the populous central regions of Mexico, including Mexico City and Guadalajara. The port features highly specialized terminals for containers, agricultural bulk, and mineral products. Manzanillo's continuous modernization and its role as a regional logistics hub have made it an indispensable engine of the Mexican economy, facilitating a dynamic flow of international commerce that sustains millions of jobs and supports national industrial growth."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Manzanillo handles nearly 40% of all containerized cargo moving through Mexican ports.",
+        "The port moves over 3 million TEUs (Twenty-foot Equivalent Units) of cargo annually.",
+        "It is the main port for Mexican exports to China, Japan, and South Korea.",
+        "The port complex includes a massive 15-meter-deep navigation channel to accommodate large vessels.",
+        "Manzanillo is a major center for the Pacific fishing industry, particularly tuna.",
+        "It is connected to the national rail network operated by Ferromex, linking it directly to the US border.",
+        "The port's activities contribute to over 70% of the state of Colima's GDP."
+      ]
+    }
+  },
+  {
+    "id": "monterrey-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Monterrey is the industrial powerhouse of Mexico and the undisputed capital of its steel and heavy manufacturing sectors. As the capital of Nuevo León, the city has fostered a robust business culture and is home to some of the country's most powerful global corporations. The Monterrey Industrial Center is characterized by a high degree of technological sophistication, ranging from traditional steel production and glass manufacturing to advanced automotive and aerospace components. The city's proximity to the United States and its world-class educational institutions, such as the Tecnológico de Monterrey, create a dynamic ecosystem for innovation and industrial excellence. Monterrey's economic strength and its leadership in international trade make it a cornerstone of the North American manufacturing supply chain."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Monterrey accounts for approximately 8% of Mexico's total national GDP.",
+        "The city is home to CEMEX, one of the world's largest cement companies.",
+        "Monterrey was the site of the first steel mill in Latin America, Fundidora de Fierro y Acero, established in 1900.",
+        "The city hosts a massive cluster of more than 3,500 manufacturing companies.",
+        "It is a leading destination for foreign direct investment (FDI) in Mexico.",
+        "The Monterrey metropolitan area produces about 25% of Mexico's total manufactured exports.",
+        "Major global companies like Tesla, Kia, and Ternium have significant operations in the region."
+      ]
+    }
+  },
+  {
+    "id": "queretaro-aerospace-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Querétaro Aerospace Cluster is one of the most successful and rapidly growing high-tech industrial hubs in the world. Since its inception in the mid-2000s, Querétaro has transformed into a premier global destination for aerospace manufacturing, maintenance, and research. The cluster hosts dozens of international companies, including giants like Bombardier, Airbus, and GE Aerospace, which produce complex aircraft components and engines. This success is driven by a unique triple-helix model that integrates government support, private investment, and specialized educational institutions like the Universidad Aeronáutica en Querétaro (UNAQ). The cluster's commitment to innovation and quality has positioned Querétaro as a critical node in the global aviation supply chain, symbolizing Mexico's transition towards high-value-added industrial production."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Querétaro is the 4th largest destination for aerospace foreign direct investment globally.",
+        "The cluster accounts for nearly 50% of Mexico's total aerospace exports.",
+        "More than 80 specialized aerospace companies and research centers operate in the state.",
+        "The UNAQ is the only university in Mexico dedicated solely to aerospace education.",
+        "The state features specialized industrial parks with on-site customs and logistics services.",
+        "Querétaro-based companies produce everything from landing gear and fuselages to jet engine turbines.",
+        "The aerospace sector in Querétaro provides direct employment to over 10,000 highly skilled professionals."
+      ]
+    }
+  },
+  {
+    "id": "salina-cruz-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Salina Cruz is a strategic maritime and energy hub located on the Pacific coast of the Isthmus of Tehuantepec in Oaxaca. It serves as a vital logistics center for Mexico's oil industry, hosting a major Pemex refinery and serving as the primary Pacific outlet for refined petroleum products. Beyond its energy role, Salina Cruz is a cornerstone of the Interoceanic Corridor of the Isthmus of Tehuantepec project. This ambitious initiative aims to modernize the rail and port infrastructure to create a commercial alternative to the Panama Canal, connecting Salina Cruz to the Port of Coatzacoalcos on the Gulf coast. This transformation is expected to turn Salina Cruz into a major international transshipment hub, driving economic development across southern Mexico."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Salina Cruz is home to the 'Antonio Dovalí Jaime' refinery, the largest in Mexico by capacity.",
+        "The port features specialized terminals for oil tankers and refined chemical products.",
+        "It is the southern terminus of the 300-kilometer Trans-Isthmus rail line.",
+        "The port is undergoing a massive expansion to include a new deep-water container terminal.",
+        "Salina Cruz is a major hub for the regional salt production industry.",
+        "The port provides critical access for trade between southern Mexico and Asian markets.",
+        "Historically, the port was a major terminal for the Tehuantepec National Railway opened in 1907."
+      ]
+    }
+  },
+  {
+    "id": "toluca-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Toluca Industrial Zone, located in the State of Mexico, is one of the most diverse and powerful manufacturing hubs in the country. Situated just west of Mexico City, it benefits from its strategic proximity to the nation's largest consumer market. Toluca is a primary center for the automotive industry, hosting massive assembly plants for brands like Stellantis and General Motors. Beyond vehicles, the region is a leader in the production of food, beverages, and pharmaceuticals, supported by a vast network of modern industrial parks. The high altitude and temperate climate of the Toluca Valley, combined with a highly skilled workforce, have made it a preferred location for multinational corporations. As a major logistics and production engine, Toluca is essential to the economic vitality of central Mexico."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Toluca hosts the largest industrial corridor in the State of Mexico.",
+        "The region is a major hub for the Mexican pharmaceutical industry, with dozens of global labs present.",
+        "Stellantis (formerly Chrysler) operates one of its most productive assembly plants in Toluca.",
+        "The city is a top producer of food products, home to major plants for companies like Nestlé.",
+        "Toluca's International Airport serves as a major hub for air cargo and low-cost carriers.",
+        "The industrial zone provides employment for more than 150,000 workers.",
+        "It is connected to the major highways linking Mexico City to the western and northern parts of the country."
+      ]
+    }
+  },
+  {
+    "id": "tijuana-assembly-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Tijuana Industrial Cluster is the epicenter of Mexico's 'maquiladora' industry, located right on the border with the United States. This unique economic position has made Tijuana a world leader in the manufacturing of electronics and medical devices. The city hosts hundreds of assembly plants that leverage a highly efficient cross-border supply chain, allowing for the rapid production and export of goods to the North American market. From televisions and aerospace components to sophisticated surgical equipment, Tijuana-made products are used globally. The cluster is characterized by its adaptability and increasingly high degree of technical expertise, transitioning from simple assembly to complex manufacturing and engineering. This industrial dynamism has turned Tijuana into a thriving metropolis and a key driver of the Baja California economy."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Tijuana is the world's leading manufacturer of televisions, producing millions of units annually.",
+        "The city hosts the largest cluster of medical device manufacturing companies in North America.",
+        "There are over 600 maquiladora plants operating within the Tijuana metropolitan area.",
+        "The industrial sector accounts for approximately 50% of the city's total employment.",
+        "Major global brands like Samsung, Toyota, and Panasonic have large-scale operations in Tijuana.",
+        "The Otay Mesa border crossing is one of the busiest commercial ports in the world.",
+        "Tijuana's aerospace industry specialized in high-precision thermal and sound insulation."
+      ]
+    }
+  },
+  {
+    "id": "ciudad-juarez-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Ciudad Juárez is a formidable pillar of Mexico's industrial and export economy, located strategically across the Rio Grande from El Paso, Texas. As a pioneer and major center of the maquiladora program, the city has developed a massive manufacturing infrastructure focused on the automotive, electronics, and appliance sectors. Juárez acts as a vital assembly hub where complex global supply chains converge to produce high volumes of consumer and industrial goods destined for the US market. The city's industrial prowess is supported by a large, experienced workforce and a sophisticated logistics network of international bridges and rail lines. Despite economic cycles, Ciudad Juárez remains a resilient and essential node in the North American manufacturing ecosystem, symbolizing the deep economic integration of the border region."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Ciudad Juárez is the city with the highest number of maquiladora workers in Mexico.",
+        "The manufacturing sector employs over 300,000 people in the city.",
+        "It is a major hub for the production of automotive wire harnesses and electronic components.",
+        "More than 320 manufacturing plants (IMMEX) are located in the city.",
+        "Global companies like Foxconn, Delphi, and Electrolux maintain some of their largest plants here.",
+        "The city produces a significant percentage of all computer servers and routers sold in North America.",
+        "Juárez's industrial parks are among the most extensive and well-equipped in the country."
+      ]
+    }
+  },
+  {
+    "id": "ensenada-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Ensenada, located in the state of Baja California, is a versatile and strategic maritime gateway for northwestern Mexico. Situated on the Pacific coast, it serves as a critical link for international trade, particularly for agricultural and industrial products from the Mexicali and Tijuana regions. Ensenada is a leading port for the export of Mexican minerals and seafood, while also serving as a major hub for the regional cruise ship industry. Its proximity to the United States and the bustling port of Long Beach makes it an important alternative for cross-border logistics. Beyond commerce, the port is the heart of Ensenada's vibrant tourism and fishing sectors, acting as a portal to the famous Guadalupe Valley wine region and the rich marine biodiversity of the Pacific."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Ensenada is the only deep-water port in the state of Baja California.",
+        "The port handles more than 3 million tons of cargo per year.",
+        "It is the second most important cruise ship port in Mexico's Pacific, after Puerto Vallarta.",
+        "Ensenada is a major center for the Pacific tuna and sardine fishing fleets.",
+        "The port features a specialized terminal for the export of limestone and other minerals.",
+        "It is a key logistics point for the export of wheat and cotton from the Colorado River Delta.",
+        "The port is a major participant in the 'Green Port' initiative for environmental sustainability."
+      ]
+    }
+  },
+  {
+    "id": "puebla-automotive-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Puebla Automotive Cluster is the historical and economic heart of Mexico's vehicle manufacturing industry. Its centerpiece is the massive Volkswagen de México plant, which has been in operation since 1967 and is one of the largest automotive factories in the world. This anchor facility has fostered a vast ecosystem of hundreds of specialized Tier 1 and Tier 2 suppliers, producing everything from engines and transmissions to sophisticated electronics. More recently, the region's importance has been further elevated by the addition of the Audi Mexico plant, the first premium car factory in the country. The Puebla cluster is characterized by its high quality standards and its ability to export vehicles to markets across the globe, making it a vital pillar of the Mexican economy and a symbol of its industrial maturity."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Volkswagen Puebla plant produced its 13 millionth vehicle in 2021.",
+        "The Audi plant in San José Chiapa is the most modern and sustainable in the Audi global network.",
+        "More than 150 automotive supplier companies are located in the state of Puebla.",
+        "The automotive sector accounts for approximately 40% of the state's total GDP.",
+        "Puebla-made vehicles are exported to more than 80 countries worldwide.",
+        "The cluster provides direct employment for more than 60,000 workers in the state.",
+        "Historically, Puebla was the global home for the production of the original Volkswagen Beetle until 2003."
+      ]
+    }
+  },
+  {
+    "id": "progreso-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Progreso is the primary maritime lifeline for the Yucatán Peninsula, serving as the region's main gateway for international trade and tourism. Located on the northern coast of Yucatán, it is famous for its monumental 6.5-kilometer-long pier, which stretches deep into the Gulf of Mexico to reach waters deep enough for large vessels. Progreso is a critical hub for the supply of fuel, grain, and construction materials to the entire peninsula. It is also a premier destination for the Caribbean cruise ship industry, providing millions of tourists with access to the archaeological and colonial wonders of Mérida and Chichén Itzá. The port's continuous expansion and its strategic location make it an essential driver of economic growth and logistical efficiency for the southeastern tip of Mexico."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Progreso's pier is the longest in the world, measuring 6.5 kilometers (4 miles).",
+        "The port handles over 5 million tons of cargo annually.",
+        "It is the main entry point for the fuel used to generate electricity in the Yucatán Peninsula.",
+        "Progreso receives more than 100 cruise ships per year, bringing over 400,000 passengers.",
+        "The port features a specialized container terminal and a grain terminal for agricultural imports.",
+        "It is a major center for the regional fishing industry, particularly grouper and octopus.",
+        "The port's depth at the end of the pier is approximately 12 meters."
+      ]
+    }
+  },
+  {
+    "id": "guaymas-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Guaymas, located in the state of Sonora, is a strategic maritime and industrial center on the Gulf of California. Historically one of Mexico's most important Pacific ports, Guaymas today serves as a vital logistics node for the state's mining and agricultural sectors. It is a major gateway for the export of copper and other minerals from Sonora's world-class mines, as well as wheat and vegetables from the fertile Yaqui Valley. The port's natural deep-water bay and its proximity to the United States make it an attractive hub for international commerce. Guaymas is also the heart of a significant fishing industry and hosts a growing cluster of aerospace and electronics manufacturing. Its role as a multimodal trade center is essential for the economic development of northwestern Mexico."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Guaymas is the deepest natural harbor on the Mexican Pacific coast.",
+        "The port handles more than 7 million tons of cargo per year.",
+        "It is a leading port for the export of concentrated copper ore to Asian markets.",
+        "The port features specialized silos for the storage and export of millions of tons of Sonoran wheat.",
+        "Guaymas is the home of one of the largest sardine and tuna fishing fleets in the Gulf of California.",
+        "It is part of the Guaymas-Empalme industrial corridor, a major manufacturing hub.",
+        "The port is connected by rail to the US border at Nogales, Arizona."
+      ]
+    }
+  },
+  {
+    "id": "leon-leather-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "León, Guanajuato, is the undisputed 'Shoe Capital of the World,' serving as the global heart of Mexico's leather and footwear industry. With a tradition dating back to the colonial era, the city has developed a massive and sophisticated ecosystem that spans from tanneries and chemical suppliers to high-fashion shoe and leather garment manufacturing. León produces over 70% of all footwear in Mexico, with its products exported to more than 60 countries. The city's industrial prowess is showcased in the Zona Piel, a vibrant commercial district with over 4,500 shops, and at SAPICA, the most important footwear trade fair in Latin America. León's commitment to quality, design, and innovation has made it a premier industrial hub in the Bajío region and a symbol of Mexican craftsmanship."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "León produces more than 250 million pairs of shoes annually.",
+        "The leather and footwear sector accounts for nearly 50% of the city's economic activity.",
+        "There are over 3,000 shoe factories and 500 tanneries in the León metropolitan area.",
+        "The city hosts SAPICA twice a year, attracting buyers from across the globe.",
+        "León-made leather is used by major international luxury and automotive brands.",
+        "The industry provides direct and indirect employment to more than 150,000 people.",
+        "The city features a specialized Leather and Footwear Research Center (CIATEC) to drive innovation."
+      ]
+    }
+  },
+  {
+    "id": "coatzacoalcos-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Coatzacoalcos, situated in the state of Veracruz, is Mexico's premier petrochemical maritime hub on the Gulf of Mexico. Located at the mouth of the Coatzacoalcos River, it is the northern gateway of the Interoceanic Corridor of the Isthmus of Tehuantepec. The port is uniquely positioned to handle massive volumes of crude oil, refined products, and chemical bulk, supporting the massive Pemex petrochemical complexes located in the region. Beyond energy, Coatzacoalcos is transforming into a world-class multimodal transshipment point, aimed at connecting Gulf trade with the Pacific. Its deep-water terminals and efficient rail and highway links make it a critical node for national energy security and a vital component of Mexico's international trade infrastructure."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Coatzacoalcos is the leading port in Mexico for the handling of bulk liquids and petrochemicals.",
+        "It is the northern terminus of the 300-kilometer rail line connecting the Gulf to the Pacific.",
+        "The port handles more than 28 million tons of cargo annually.",
+        "It serves as the primary outlet for the products of the Pajaritos and Morelos petrochemical complexes.",
+        "The port's depth in the main channel is approximately 12 meters.",
+        "Coatzacoalcos features a specialized ferry service (Rail-Ferry) that connects it directly to the US port of Mobile, Alabama.",
+        "The port is a key driver of the economic development of the southeastern Mexican region."
+      ]
+    }
+  },
+  {
+    "id": "queretaro-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Querétaro Industrial Zone is a premier example of Mexico's transition to a high-tech, diversified manufacturing economy. Located in the heart of the Bajío region, Querétaro has attracted massive investment from multinational corporations across the automotive, aerospace, electronics, and household appliance sectors. The state is characterized by its high quality of life, political stability, and a highly educated workforce. Beyond manufacturing, Querétaro is a growing hub for information technology and data centers, hosting major facilities for companies like Amazon and Microsoft. Its modern industrial parks, world-class infrastructure, and strategic location on the main trade corridors to the United States have made it one of the most competitive and economically dynamic states in Mexico, driving innovation and high-value production."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Querétaro has one of the highest rates of foreign direct investment per capita in Mexico.",
+        "The state is home to more than 40 industrial parks equipped with world-class infrastructure.",
+        "It is a major center for the production of automotive parts, with over 300 specialized companies.",
+        "Querétaro's industrial sector contributes to over 30% of the state's total GDP.",
+        "The region is a leader in the production of household appliances for the North American market.",
+        "It is home to the most important data center cluster in Mexico due to its low seismic activity.",
+        "The state consistently ranks among the top in Mexico for competitiveness and ease of doing business."
+      ]
+    }
+  },
+  {
+    "id": "topolobampo-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Topolobampo, located in northern Sinaloa, is a strategic deep-water maritime gateway on the Gulf of California. It serves as a vital logistics center for the state's powerful agricultural sector, particularly for the export of grains like corn and wheat from the fertile Fuerte Valley. Topolobampo is a leading port for the handling of bulk minerals and provides a critical link for trade between northwestern Mexico and Asian markets. The port also plays a key role in regional energy supply, hosting a major natural gas terminal. Beyond its commercial activities, Topolobampo is the starting point for the ferry service to La Paz, Baja California Sur, and is closely linked to the city of Los Mochis, making it a critical hub for both regional and international commerce and transportation."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Topolobampo is one of the three main commercial ports in the state of Sinaloa.",
+        "The port handles more than 6 million tons of cargo per year.",
+        "It is a major gateway for the export of Sinaloan agricultural products to the US and Asia.",
+        "The port features a specialized natural gas terminal that supplies power plants across northwestern Mexico.",
+        "It is the main maritime link for the 'El Chepe' railway corridor to the Copper Canyon.",
+        "Topolobampo is a significant center for the Pacific shrimp and sardine fishing industries.",
+        "The port's deep-water channel can accommodate large Panamax-sized vessels."
+      ]
+    }
+  },
+  {
+    "id": "saltillo-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Saltillo, Coahuila, is a major pillar of Mexico's heavy industry, famously known as the 'Detroit of Mexico' for its powerful automotive and manufacturing sectors. The city is a leading hub for vehicle assembly, hosting massive plants for global giants like Stellantis (Chrysler) and General Motors, along with a vast network of specialized suppliers. Beyond cars, Saltillo is a significant center for the steel industry and the production of household appliances and construction materials. Its industrial strength is supported by a highly skilled workforce and a strategic location on the main trade route between Mexico's heartland and the US border at Laredo. Saltillo's combination of industrial maturity, technological sophistication, and economic resilience makes it an essential engine of growth for northern Mexico."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Saltillo-Ramos Arizpe industrial corridor produces approximately 20% of all vehicles made in Mexico.",
+        "The region is a global leader in the production of high-performance V8 engines.",
+        "Saltillo is home to the largest ceramic tile plant in the world (Interceramic).",
+        "The city accounts for a significant portion of Mexico's total exports of automotive components.",
+        "Major companies like John Deere and Whirlpool have large-scale manufacturing operations in the area.",
+        "The industrial sector provides employment for over 60% of the city's active workforce.",
+        "Saltillo is home to several specialized research centers focused on materials and metallurgy."
+      ]
+    }
+  },
+  {
+    "id": "tampico-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Tampico, located on the Pánuco River in Tamaulipas, is one of Mexico's most historic and vital maritime gateways on the Gulf. Historically at the heart of Mexico's first oil boom, today it remains a major center for the petrochemical and maritime construction industries. The port is a leader in the handling of mineral bulk, steel products, and specialized offshore equipment. It hosts a large cluster of shipyards that build and maintain platforms for the Gulf's oil and gas sector. Tampico's unique river-port configuration, combined with its efficient rail and highway links, makes it a critical logistics hub for the industrial heartland of central and northern Mexico. Its blend of industrial prowess and rich architectural heritage reflects its long-standing importance to the nation's economy."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Tampico was the first port in Mexico to export oil, beginning in the early 20th century.",
+        "The port handles more than 7 million tons of cargo annually.",
+        "It is a leading center for the construction and repair of offshore drilling platforms.",
+        "Tampico is the main port for the export of Mexican silver and other minerals through the Gulf.",
+        "The port's specialized terminals handle significant volumes of imported steel and wood products.",
+        "It is connected to the heart of Mexico by a direct rail line to San Luis Potosí.",
+        "The Tampico Bridge, crossing the Pánuco River, is one of the most iconic structures in the region."
+      ]
+    }
+  },
+  {
+    "id": "san-luis-potosi-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "San Luis Potosí is a rapidly ascending star in Mexico's industrial firmament, strategically located at the intersection of the country's most important trade routes. Known as the 'Golden Triangle' of Mexico, it sits equidistant from Mexico City, Monterrey, and Guadalajara. This geographical advantage has turned the city into a premier hub for the automotive and manufacturing industries, hosting massive assembly plants for global leaders like BMW and General Motors. The San Luis Potosí Industrial Park is one of the largest and most modern in Latin America, featuring a highly diversified ecosystem of suppliers and logistics providers. With its robust infrastructure, favorable business climate, and a large pool of skilled labor, the region has become a vital engine for the North American manufacturing supply chain and a symbol of Mexico's economic modernization."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The BMW plant in San Luis Potosí is one of the most advanced and sustainable in the BMW global network.",
+        "The city is a major logistics hub, hosting the largest private inland port in Mexico (WTC Industrial).",
+        "Over 200 automotive supplier companies are located in the state's industrial corridors.",
+        "San Luis Potosí is a leading producer of household appliances and electrical components.",
+        "The industrial sector accounts for approximately 35% of the state's total GDP.",
+        "The state has some of the best highway and rail connectivity in all of Mexico.",
+        "The city is a major center for the production of specialized steel and copper products."
+      ]
+    }
+  },
+  {
+    "id": "aguascalientes-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Aguascalientes is a dynamic and thriving industrial state in central Mexico, world-renowned as a major hub for the automotive industry. Its economic transformation has been driven by the massive presence of Nissan, which operates two of its most efficient assembly plants in the world here. This anchor has attracted a vast cluster of over 200 specialized suppliers, primarily from Japan, creating a unique and sophisticated manufacturing ecosystem. Beyond cars, Aguascalientes is a growing center for the electronics, logistics, and information technology sectors. The state is celebrated for its high quality of life, exceptional security, and a highly productive workforce. As a leading destination for foreign direct investment, Aguascalientes symbolizes the success of Mexico's integrated manufacturing strategy and its vital role in the global automotive supply chain."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Aguascalientes produces approximately 25% of all vehicles manufactured by Nissan globally.",
+        "The automotive sector accounts for over 30% of the state's total GDP.",
+        "The state has one of the highest concentrations of Japanese investment in Latin America.",
+        "Aguascalientes consistently ranks among the most competitive states in Mexico.",
+        "The COMPAS plant is a joint venture between Nissan and Daimler (Mercedes-Benz) located in the state.",
+        "The industry provides direct employment to more than 45,000 workers in the state.",
+        "The state is a major logistics center due to its location on the central rail and highway corridors."
+      ]
+    }
+  },
+  {
+    "id": "lazaro-cardenas-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Lázaro Cárdenas is a powerhouse of Mexico's heavy industry, situated at the country's premier deep-water port in Michoacán. The city's industrial zone is dominated by one of the largest and most sophisticated steel mills in the Americas, operated by ArcelorMittal. This facility produces millions of tons of steel used in construction and manufacturing across Mexico and for export. The region's industrial prowess is closely tied to its world-class port infrastructure, which facilitates the efficient import of raw materials like iron ore and coal, and the export of finished heavy goods. Lázaro Cárdenas also serves as a critical logistics hub for the automotive and energy sectors, supported by modern rail and highway links. As a vital industrial gateway, the region is essential for Mexico's self-sufficiency in steel and its integration into global heavy-duty supply chains."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The ArcelorMittal steel mill in Lázaro Cárdenas has a production capacity of over 4 million tons per year.",
+        "The city is the leading producer of long and flat steel products in Mexico.",
+        "The industrial zone covers an area of more than 1,000 hectares.",
+        "It is a major center for the production of fertilizers and petrochemical products.",
+        "The region is a key node for the export of Mexican iron ore to international markets.",
+        "The industrial sector accounts for approximately 80% of the city's economic activity.",
+        "Lázaro Cárdenas features a specialized terminal for the handling of massive oversized industrial equipment."
+      ]
+    }
+  },
+  {
+    "id": "hermosillo-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Hermosillo, the capital of Sonora, is a vibrant and essential hub for the automotive and manufacturing industries in northwestern Mexico. Its industrial growth is anchored by the Ford Hermosillo Stamping and Assembly plant, which is consistently ranked among the most productive and highest-quality factories in North America. This facility has attracted a vast cluster of over 50 specialized Tier 1 and Tier 2 suppliers, creating a robust ecosystem for vehicle production. Beyond cars, Hermosillo is a growing center for the aerospace, electronics, and food processing industries, supported by its proximity to the US border and a highly skilled technical workforce. The city's strategic location on the CANAMEX corridor and its world-class industrial parks have made it a premier destination for international investment and a vital engine of growth for the Sonoran economy."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Ford Hermosillo plant is the exclusive global producer of the Ford Bronco Sport and the Ford Maverick.",
+        "The automotive sector accounts for over 15% of Sonora's total state GDP.",
+        "Hermosillo hosts more than 100 manufacturing companies in its various industrial parks.",
+        "The city is a major hub for the export of Sonoran manufactured goods to the United States.",
+        "Major global companies like TE Connectivity and ZF TRW have significant operations in the city.",
+        "The industry provides direct employment to over 30,000 people in the Hermosillo area.",
+        "Hermosillo's technical universities provide a steady stream of highly qualified engineers for the local industry."
+      ]
+    }
+  },
+  {
+    "id": "mazatlan-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Mazatlán is a versatile and strategic maritime gateway on Mexico's Pacific coast, serving as a vital link for the state of Sinaloa and the broader northern region. Historically a major commercial port, today it is a leader in the handling of containerized cargo, agricultural bulk, and mineral products. Mazatlán is especially critical for the export of Sinaloan agricultural produce and the import of industrial components for the manufacturing sector. The port is also a premier destination for the international cruise ship industry and home to one of Mexico's largest and most productive fishing fleets. The ongoing modernization of its terminals and the completion of the Mazatlán-Durango highway have significantly enhanced its logistical reach, transforming the port into a major multimodal hub that connects the Pacific trade to the Mexican heartland and the US border."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Mazatlán is one of the top five ports in Mexico for the handling of vehicle imports on the Pacific.",
+        "The port moves more than 4 million tons of cargo annually.",
+        "It is the primary home port for Mexico's largest tuna and shrimp fishing fleets.",
+        "Mazatlán receives over 150 cruise ships per year, bringing more than 500,000 visitors.",
+        "The port features specialized silos for the storage and export of Sinaloan chickpeas and other crops.",
+        "It is a key node on the 'Northern Economic Corridor' linking the Pacific to the Gulf of Mexico.",
+        "The port's specialized automobile terminal has a capacity for over 100,000 units per year."
+      ]
+    }
+  },
+  {
+    "id": "tuxpan-port-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Tuxpan, located in the state of Veracruz, is a critical maritime and energy gateway for central Mexico. Situated at the mouth of the Tuxpan River, it is the closest deep-water port to Mexico City, making it a vital logistics hub for the country's most populous region. Tuxpan is a leader in the handling of petroleum products and refined fuel, serving as a primary entry point for the energy needs of the capital and the Bajío region. The port also specializes in containerized cargo and automobile imports, supported by a modern highway that has drastically reduced transit times to the heartland. With its efficient terminals and strategic location, Tuxpan plays an indispensable role in Mexico's energy security and its international commercial competitiveness, facilitating a seamless flow of goods between the Gulf and the national center."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Tuxpan is the closest port to Mexico City, located only 293 kilometers away via a modern highway.",
+        "The port handles more than 15 million tons of cargo per year.",
+        "It is a primary hub for the import of gasoline and diesel for the Mexican central region.",
+        "Tuxpan features the Tuxpan Port Terminal (TPT), one of the most automated container terminals in Mexico.",
+        "The port is a major center for the storage and distribution of grain and agricultural bulk.",
+        "It is a critical logistics point for the Mexican offshore oil and gas industry in the Gulf.",
+        "Tuxpan's navigation channel has been dredged to 15 meters to accommodate large container and fuel vessels."
+      ]
+    }
+  },
+  {
+    "id": "chihuahua-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Chihuahua City is a formidable industrial capital in northern Mexico, serving as a premier hub for the automotive, aerospace, and electronics sectors. The city has developed a sophisticated manufacturing ecosystem characterized by its high technical quality and efficient integration into North American supply chains. Chihuahua is home to a world-class aerospace cluster, hosting dozens of international companies that produce high-precision aircraft components. The city's automotive sector is equally robust, with a large concentration of engine and electronic part manufacturing. This industrial strength is supported by a highly skilled workforce, modern industrial parks, and a strategic location on the main trade corridors to the United States. Chihuahua's commitment to innovation and its leadership in high-tech manufacturing make it a vital engine for the state's and the nation's economic growth."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Chihuahua City is home to the most important engine plant in Mexico (Ford Chihuahua).",
+        "The aerospace sector in the city employs more than 15,000 highly skilled professionals.",
+        "There are over 80 manufacturing plants (IMMEX) operating within the city's various industrial parks.",
+        "Chihuahua is a leading producer of sophisticated electronic components for the global market.",
+        "Major global companies like Textron, Honeywell, and Jabil have large-scale operations in the city.",
+        "The industrial sector accounts for over 40% of the city's total economic output.",
+        "Chihuahua's industrial parks are among the best-equipped in Mexico for high-tech production."
+      ]
+    }
+  },
+  {
+    "id": "merida-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "Mérida is the growing economic and industrial heart of the Yucatán Peninsula, transitioning from a traditional trade center to a modern hub for manufacturing and logistics. The city's industrial zone is characterized by a high degree of diversification, with significant strength in the food and beverage, textile, and construction material sectors. More recently, Mérida has successfully attracted investment in the automotive and aerospace industries, leveraging its stable business environment, high quality of life, and skilled workforce. The city's strategic location, supported by the modern Port of Progreso just to the north, makes it a vital logistics node for trade with the Caribbean and the eastern United States. As a leading center for innovation and business in southeastern Mexico, Mérida is essential for the region's economic modernization and global integration."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Mérida is the primary industrial and commercial hub for the entire Yucatán Peninsula.",
+        "The city hosts a growing number of sustainable industrial parks (e.g., Sky Park, Hunucmá).",
+        "It is a major center for the production of processed foods and beverages for the regional market.",
+        "Mérida is a leading destination for information technology and software development in southeastern Mexico.",
+        "The industrial sector accounts for approximately 20% of the city's total GDP.",
+        "Major companies like Grupo Modelo and Envases Universales have massive production facilities in the region.",
+        "Mérida's industrial growth is supported by its exceptional safety record and business-friendly environment."
+      ]
+    }
+  },
+  {
+    "id": "puebla-industry-economic-v2",
+    "descriptionAdvanced": {
+      "de": "",
+      "hu": "",
+      "ro": "",
+      "en": "The Puebla Industrial Zone is a massive and diverse manufacturing engine located at the crossroads of central Mexico's most important trade routes. While world-famous for its powerful automotive cluster, the region also hosts a wide range of industries including textiles, chemicals, metalworking, and consumer goods. Its strategic proximity to Mexico City and the Port of Veracruz makes it a premier location for logistics and international trade. Puebla's industrial parks are among the most established and well-equipped in the country, supporting a vast network of both global multinational corporations and local medium-sized enterprises. The region's long industrial history, combined with its modern infrastructure and a large pool of skilled labor, ensures that Puebla remains a vital pillar of the Mexican economy and a key player in the North American industrial landscape."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Puebla is home to the largest industrial corridor in the central-east region of Mexico.",
+        "The state is a leading producer of high-quality textiles and automotive fabrics.",
+        "There are over 20 major industrial parks operating within the Puebla metropolitan area.",
+        "The manufacturing sector provides direct employment for more than 150,000 people in the state.",
+        "Puebla is a major hub for the production of iron and steel products for the construction industry.",
+        "The region accounts for a significant portion of Mexico's total exports to Europe and the US.",
+        "Puebla's industrial success is supported by over 20 technical and research universities in the city."
+      ]
+    }
+  }
+]

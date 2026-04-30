@@ -1921,7 +1921,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                     >
                       <span className="text-xl">{theme.icon}</span>
                       <span className="font-bold text-sm flex-1" style={{ color: theme.color }}>
-                        {typeof theme.name === 'object' && theme.name !== null ? (theme.name[langPrefix] ?? theme.name.en ?? theme.name.de ?? theme.name.hu ?? theme.name.ro ?? "...") : theme.name as React.ReactNode}
+                        {typeof theme.name === 'object' && theme.name !== null ? ((theme.name as any)[langPrefix] ?? (theme.name as any).en ?? (theme.name as any).de ?? (theme.name as any).hu ?? (theme.name as any).ro ?? "...") : theme.name as React.ReactNode}
                       </span>
                       {availSubs.length > 1 && (
                         <button
@@ -1968,7 +1968,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
                             <span className="flex-1 flex items-center gap-1 flex-wrap">
-                              <span>{typeof sub.name === 'object' && sub.name !== null ? (sub.name[langPrefix] ?? sub.name.en ?? sub.name.de ?? sub.name.hu ?? sub.name.ro ?? "...") : sub.name as React.ReactNode}</span>
+                              <span>{typeof sub.name === 'object' && sub.name !== null ? ((sub.name as any)[langPrefix] ?? (sub.name as any).en ?? (sub.name as any).de ?? (sub.name as any).hu ?? (sub.name as any).ro ?? "...") : sub.name as React.ReactNode}</span>
                               {(configVisualSubtopicMap.get(sub.id) ?? []).map(vt => {
                                 // Extract trailing emoji from label (e.g. "Sentence Builder ✏️" → "✏️")
                                 const emoji = vt.label.match(/[\p{Emoji}\p{Emoji_Presentation}\p{Extended_Pictographic}]\uFE0F?$/u)?.[0];
@@ -2253,7 +2253,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               >
                                 {Icon ? (
                                   <div style={{ width: 44, height: 44 }} className="flex items-center justify-center">
-                                    <Icon style={{ width: '100%', height: 'auto', objectFit: 'contain', maxHeight: 120 }} />
+                                    <Icon />
                                   </div>
                                 ) : (
                                   <span className="text-xs text-slate-400">{imgKey}</span>

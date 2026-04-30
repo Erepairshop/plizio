@@ -1,0 +1,35 @@
+{
+  "id": "reg-lapland-fi",
+  "type": "region",
+  "parent": "finland",
+  "coords": [26.0, 68.0],
+  "name": { "de": "Lappland", "hu": "Lappföld", "ro": "Laponia", "en": "Lapland" },
+  "description": {
+    "de": "Lappland ist die größte und nördlichste Region Finnlands. Sie ist bekannt für ihre subarktische Wildnis, Skigebiete und Naturphänomene wie die Mitternachtssonne und das Nordlicht. Hier befindet sich auch das offizielle Zuhause des Weihnachtsmannes.",
+    "hu": "Lappföld Finnország legnagyobb és legészakibb régiója. Ismert a szubarktikus vadonjáról, síterepeiről és olyan természeti jelenségekről, mint az éjféli nap és az északi fény. Itt található a Mikulás hivatalos otthona is.",
+    "ro": "Laponia este cea mai mare și cea mai nordică regiune a Finlandei. Este cunoscută pentru sălbăticia sa subarctică, stațiunile de schi și fenomenele naturale precum soarele de la miezul nopții și aurora boreală. Aici se află și casa oficială a lui Moș Crăciun.",
+    "en": "Lapland is the largest and northernmost region of Finland. It is known for its subarctic wilderness, ski resorts, and natural phenomena like the midnight sun and the Northern Lights. It is also the official home of Santa Claus."
+  },
+  "facts": {
+    "de": ["Heimat des Weihnachtsmannes.", "Nordlichter (Aurora Borealis).", "Mitternachtssonne im Sommer.", "Sami-Kultur.", "Zahlreiche Nationalparks."],
+    "hu": ["A Mikulás otthona.", "Északi fény (Aurora Borealis).", "Éjféli nap nyáron.", "Számi kultúra.", "Számos nemzeti park."],
+    "ro": ["Acasă la Moș Crăciun.", "Aurora Boreală.", "Soarele de la miezul nopții vara.", "Cultura Sami.", "Numeroase parcuri naționale."],
+    "en": ["Home of Santa Claus.", "Northern Lights (Aurora Borealis).", "Midnight sun in summer.", "Sami culture.", "Numerous national parks."]
+  },
+  "descriptionAdvanced": {
+    "ro": "Laponia, inima arctică a Finlandei, este un tărâm de o frumusețe ireală, unde natura dictează ritmul vieții. Departe de agitația urbană din Helsinki, aici peisajele se transformă într-un spectacol continuu. Iarna, pădurile sunt acoperite de zăpadă imaculată, iar nopțile sunt luminate de dansul aurorei boreale, un fenomen ce atrage vizitatori din întreaga lume. Vara, soarele de la miezul nopții topește zăpezile, dezvăluind o rețea de lacuri și râuri ideale pentru canoe, la fel ca în regiunea Lakeland. Pe lângă peisajele sale unice, Laponia este profund legată de cultura Sami, poporul indigen al acestor meleaguri, ale cărui tradiții se împletesc cu creșterea renilor. Geografie K7 — fenomene arctice."
+  },
+  "factsAdvanced": {
+    "ro": [
+      "În Laponia se găsește Parcul Național Urho Kekkonen, una dintre cele mai mari arii protejate din Finlanda.",
+      "Temperatura poate scădea sub -30°C în timpul iernii, creând condiții perfecte pentru sculpturi în gheață.",
+      "Orașul Rovaniemi este considerat reședința oficială a lui Moș Crăciun și atrage anual mii de turiști.",
+      "În timpul verii, soarele nu apune timp de aproximativ 73 de zile consecutive.",
+      "Aici trăiesc mai mulți reni decât oameni, fiind o parte esențială a economiei și culturii locale.",
+      "Pe lângă schi, plimbările cu sănii trase de câini husky reprezintă o activitate extrem de populară.",
+      "Satul Inari este centrul cultural al populației Sami din Finlanda și găzduiește muzeul Siida.",
+      "Grosimea stratului de zăpadă poate atinge un metru în cele mai reci luni ale anului."
+    ]
+  },
+  "image": "/geo-images/finland/reg-lapland-fi.webp"
+}

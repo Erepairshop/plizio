@@ -1,142 +1,62 @@
 [
   {
-    "id": "mountain-janos-hegy-extra",
-    "description_ro": "Dealul János, având o înălțime de 527 de metri, este cel mai înalt punct al capitalei ungare, Budapesta, fiind un simbol iconic al Munților Buda. În vârful acestui deal se înalță maiestuos Turnul de observație Erzsébet, o capodoperă în stil neoroman inaugurată în anul 1910. De pe terasele turnului, vizitatorii se pot bucura de o panoramă uluitoare de 360 de grade care cuprinde întreaga metropolă, Cotul Dunării și, în condiții de vizibilitate optimă, chiar și vârfurile îndepărtate ale Munților Tatra Mare. Dealul nu este apreciat doar pentru calitățile sale geografice, ci și pentru atracțiile turistice deosebite, cum ar fi telescaunul Libegő care urcă din Zugliget și faimoasa Cale Ferată a Copiilor care șerpuiește prin pădurile din apropiere, făcând din această locație o destinație preferată pentru familii și pasionații de drumeții în natură.",
-    "facts_ro": [
-      "Cu o altitudine de 527 de metri, Dealul János reprezintă cel mai înalt punct din zona urbană a Budapestei.",
-      "Turnul de observație Erzsébet a fost construit între 1908 și 1910, după planurile arhitectului Frigyes Schulek.",
-      "Piatra necesară construcției turnului a fost transportată pe munte cu ajutorul cailor de povară.",
-      "În zilele senine, de pe vârful dealului se pot vedea crestele înzăpezite ale Munților Tatra Mare la peste 80 km distanță.",
-      "Telescaunul Libegő face legătura directă între cartierul Zugliget și vârful dealului încă din anul 1970.",
-      "În interiorul dealului se află Peștera de Trecere de pe Dealul János, o zonă naturală strict protejată.",
-      "Împărăteasa Elisabeta (Sisi) a vizitat dealul de mai multe ori în 1882, inspirând denumirea ulterioară a turnului.",
-      "Pădurile înconjurătoare sunt dominate de specii de fagi și stejari, oferind un habitat bogat pentru flora locală."
-    ]
+    "id": "poland",
+    "nameDe": "Polen"
   },
   {
-    "id": "mountain-harmashatar-hegy-extra",
-    "description_ro": "Dealul Hármashatár, cu o altitudine de 495 de metri, este una dintre cele mai populare destinații de excursie din partea de nord a Munților Buda. Numele său, care s-ar traduce prin „Dealul celor trei frontiere”, amintește de perioada de până în 1873, când aici se întâlneau granițele administrative ale orașelor Buda, Óbuda și ale localității Pesthidegkút. Astăzi, muntele este renumit în special pentru condițiile sale termice excelente, fiind considerat leagănul planorismului maghiar încă din anii 1930. Platourile sale largi, adesea bătute de vânt, oferă o floră unică și vederi panoramice spectaculoase. În vârful dealului se află Turnul de observație Károly Guckler, o structură modernă din lemn care oferă o vedere circulară completă asupra Budapestei și a împrejurimilor, atrăgând sportivi și iubitori de natură deopotrivă pe trasee precum celebrul Traseu Albastru.",
-    "facts_ro": [
-      "Numele dealului face referire la punctul de întâlnire istoric al frontierelor dintre Buda, Óbuda și Pesthidegkút.",
-      "Punctul său culminant se ridică la 495 de metri deasupra nivelului mării în nordul munților Buda.",
-      "Turnul de observație Károly Guckler a fost construit în 2016 utilizând grinzi masive de pin.",
-      "Aerodromul situat la poalele muntelui este baza sporturilor cu planorul în Ungaria încă din perioada interbelică.",
-      "Compoziția geologică este formată în principal din dolomită triasică, care găzduiește rari pajiști stâncoase.",
-      "Turnul de transmisie de pe vârf face ca muntele să fie ușor de recunoscut de la mare distanță.",
-      "Prin această zonă trece una dintre cele mai populare secțiuni ale Traseului Național Albastru (Országos Kéktúra).",
-      "În apropiere se află renumitul restaurant Fenyőgyöngye, un loc istoric de întâlnire pentru excursioniști."
-    ]
+    "id": "PL-MZ",
+    "nameDe": "Masowien"
   },
   {
-    "id": "mountain-sas-hegy-extra",
-    "description_ro": "În mijlocul zonelor dens populate ale Budapestei, Dealul Sas (Dealul Vulturilor) se înalță ca o bijuterie ecologică de o valoare inestimabilă în sectorul XI. Această rezervație naturală de 30 de hectare, protejată strict încă din 1958, este un adevărat „muzeu viu” care păstrează vestigii ale perioadei post-glaciare. Pe versanții sudici, stâncoși și însoriți, supraviețuiesc rarități botanice care nu se mai găsesc nicăieri altundeva în regiune. Un traseu didactic interactiv și un centru de vizitare modern oferă informații despre biodiversitatea zonei și despre lumea fascinantă a florei de dolomită. De pe platforma de observație de pe vârf, vizitatorii pot admira una dintre cele mai frumoase panorame de 360 de grade asupra Castelului Buda, a Dealului Gellért și a acoperișurilor orașului, reprezentând dovada vie că natura poate fi conservată chiar și în inima unei metropole.",
-    "facts_ro": [
-      "Zona beneficiază de protecție de stat din 1958, fiind administrată astăzi de Parcul Național Dunăre-Ipoly.",
-      "Aici trăiește șopârla panonică, cea mai mică specie de șopârlă din Ungaria, într-o populație stabilă.",
-      "Conform legendei, numele dealului provine de la vulturii care s-au ridicat în zbor în timpul eliberării Budei din 1686.",
-      "În peșterile formate în fisurile rocii de dolomită se adăpostesc specii rare de lilieci.",
-      "Centrul de vizitare Sas-hegy oferă expoziții moderne și interactive destinate în special familiilor și școlilor.",
-      "Flora include specii rare precum pajiștile de iarbă neagră panonică și diverse specii de orhidee sălbatice.",
-      "Adânc în interiorul dealului se află o stație seismologică importantă a Academiei Ungare de Științe.",
-      "Accesul în rezervație este restricționat, fiind permis doar pe traseele marcate sau în cadrul tururilor ghidate."
-    ]
+    "id": "PL-MA",
+    "nameDe": "Kleinpolen"
   },
   {
-    "id": "lake-naplas-to-extra",
-    "description_ro": "Lacul Naplás, cunoscut oficial sub numele de Rezervorul Szilas-patak, situat în sectorul XVI al Budapestei, este cea mai mare întindere de apă stătătoare din capitală. Creat artificial în 1978 prin bararea pârâului Szilas pentru controlul inundațiilor, lacul s-a transformat de-a lungul deceniilor într-un paradis ecologic unic, înconjurat de o rezervație naturală de 150 de hectare. Stuful de pe maluri și mlaștinile de arini adăpostesc numeroase specii de păsări protejate și una dintre cele mai mari populații de țestoase de mlaștină din țară. În 2021 a fost inaugurat un turn de observare modern, cu o arhitectură deosebită din lemn, de unde se deschide o vedere magnifică asupra pădurii Cinkota și a oglinzii apei. Zona este extrem de populară pentru pescari, alergători și bicicliști, oferind o oază de liniște departe de agitația urbană.",
-    "facts_ro": [
-      "Suprafața apei este de aproximativ 16 hectare, având o adâncime medie de 2 metri.",
-      "Împreună cu pădurea Cinkotai și mlaștinile adiacente, zona este declarată rezervație naturală din 1997.",
-      "Turnul de observare construit în 2021 are o înălțime de 22 de metri și este realizat din pin și oțel.",
-      "Lacul Naplás reprezintă un punct crucial de oprire pentru păsările migratoare în drumul lor prin regiune.",
-      "Scăldatul este interzis în lac, însă pescuitul este permis în zonele special amenajate.",
-      "În apele sale trăiește cea mai mare populație de țestoase de mlaștină europene din zona metropolitană.",
-      "O pistă de biciclete amenajată de-a lungul pârâului Szilas asigură o legătură directă cu centrul orașului.",
-      "Primăvara se poate observa o migrație în masă a broaștelor dinspre pădure către apele lacului."
-    ]
+    "id": "PL-PM",
+    "nameDe": "Pommern"
   },
   {
-    "id": "river-soroksari-duna-extra",
-    "description_ro": "Brațul Soroksár al Dunării, cunoscut adesea sub numele de „Dunărea Mică” sau Dunărea de la Ráckeve, este unul dintre cele mai importante brațe laterale ale fluviului, separând Insula Csepel de câmpia Pestei. Având o lungime de 58 de kilometri, brațul este reglat la ambele capete prin ecluze (Kvassay la nord și Tassi la sud), ceea ce îi conferă un nivel al apei aproape constant și un curent foarte slab. Acest ecosistem specific a favorizat formarea mlaștinilor plutitoare, o raritate ecologică în Europa. Malurile acoperite de stufărișuri dese și brațele moarte liniștite sunt un paradis pentru canotiști, caiaciști și pescari, oferind locuri de cuibărit pentru numeroase păsări acvatice, precum stârcul pitic și pescărușul albastru. Insula Molnár și zonele de agrement înconjurătoare sunt destinații de weekend preferate, unde atmosfera de mal de apă se întâlnește cu natura neatinsă.",
-    "facts_ro": [
-      "Brațul are o lungime totală de 58 de kilometri între Budapesta și localitatea Tass.",
-      "Mlaștinile plutitoare (úszóláp) de aici sunt printre cele mai mari și mai valoroase de acest tip din Europa.",
-      "Nivelul apei este controlat artificial, având o fluctuație de doar 10-20 de centimetri pe parcursul anului.",
-      "Aici se află una dintre cele mai importante piste de concurs pentru sporturile de kaiac-canoe din Ungaria.",
-      "De-a lungul malurilor se găsesc peste 20.000 de pontoane de pescuit, demonstrând popularitatea zonei.",
-      "Insula Molnár este cea mai mare și mai cunoscută insulă locuită de pe brațul Soroksár.",
-      "Zona face parte din rețeaua Natura 2000, acordând o atenție deosebită protejării pescărușului albastru.",
-      "Datorită curentului lent, brațul îngheață mult mai repede decât cursul principal al Dunării în timpul iernii."
-    ]
+    "id": "PL-DS",
+    "nameDe": "Niederschlesien"
   },
   {
-    "id": "mountain-tubes-extra",
-    "description_ro": "Vârful Tubes, cu o înălțime de 611 metri, este unul dintre cele mai populare puncte de belvedere din Munții Mecsek Centrali, dominând orașul Pécs. Importanța sa strategică este cunoscută de secole, oferind o supraveghere excelentă asupra întregii regiuni. Atracția principală a muntelui este Turnul de observație János, construit în 2001 din piatră și lemn, care poartă numele cercetătorului naturalist János Hunyadi. De aici, în zilele senine, se deschide o panoramă impresionantă: spre sud se întinde câmpia Drávei și munții Papuk din Croația, iar spre nord, pădurile nesfârșite ale masivului Mecsek. Vegetația este marcată de influențe submediteraneene, cu păduri de stejar pufos și tufișuri carstice unde cresc specii rare de orhidee. Tubes este o destinație preferată atât pentru drumeții de anduranță, cât și pentru familiile din Pécs care caută recreere în natură aproape de casă.",
-    "facts_ro": [
-      "Cu 611 metri, Tubes este al treilea cel mai înalt vârf din munții Mecsek.",
-      "Turnul de observație János oferă o vizibilitate de până la munții Papuk din Croația în condiții meteo ideale.",
-      "Lângă turnul de observație se află și o stație radar militară, subliniind poziția strategică a vârfului.",
-      "Tubes este un punct de oprire spectaculos pe traseul de drumeție „Traseul Albastru din Mecsek”.",
-      "Pe versanții sudici înflorește orhideea maimuță și alte specii botanice strict protejate.",
-      "Vârful este accesibil printr-o potecă de creastă de 3 kilometri pornind de la Turnul TV de pe Misina.",
-      "În interiorul muntelui se află calcare triasice în care s-au format mici peșteri carstice.",
-      "În 2004, o mobilizare civilă de amploare a împiedicat construcția unui radar NATO gigant pe acest vârf."
-    ]
+    "id": "PL-WP",
+    "nameDe": "Großpolen"
   },
   {
-    "id": "mountain-jakab-hegy-extra",
-    "description_ro": "Muntele Jakab (Muntele Iacob) este poate cel mai mistic și mai spectaculos punct din Munții Mecsek de Vest. Din punct de vedere geologic, se distinge clar de restul masivului prin rocile sale de gresie roșie din perioada permiană, care îi conferă o culoare caracteristică. Vârful muntelui este un platou uriaș, înconjurat de fortificațiile monumentale ale unei cetăți de pământ celtice din epoca fierului, una dintre cele mai mari de acest tip din Europa Centrală. Spiritul locului este întregit de ruinele unei mănăstiri pauline fondate în secolul al XIII-lea, centrul singurului ordin călugăresc fondat în Ungaria. Pe marginile platoului se găsesc formațiuni stâncoase bizare, precum „Babás-szerkövek” și „Zsongorkő”, modelate de eroziunea vântului și a apei, oferind vederi panoramice de neuitat asupra câmpiei Drávei.",
-    "facts_ro": [
-      "Rocile de gresie roșie ale muntelui s-au format acum aproximativ 250 de milioane de ani.",
-      "Fortificațiile celtice au o lungime de peste 2 kilometri, atingând pe alocuri o înălțime de 10 metri.",
-      "Mănăstirea paulină a fost fondată în 1225 de episcopul Bertalan de Pécs pentru pustnicii din regiune.",
-      "Formațiunile stâncoase Babás-szerkövek sunt considerare de legendele locale a fi nuntași împietriți.",
-      "Punctul de belvedere Zsongorkő este o proeminență stâncoasă abruptă, protejată cu balustrade metalice.",
-      "Pe munte au fost filmate scene din clasicul film maghiar „Indul a bakterház”.",
-      "Muntele găzduiește specii rare de licheni care se dezvoltă doar pe solurile acide de gresie.",
-      "Satul Cserkút, situat la poalele muntelui, este cel mai bun punct de plecare pentru explorarea zonei."
-    ]
+    "id": "PL-SL",
+    "nameDe": "Schlesien"
   },
   {
-    "id": "river-fekete-viz-extra",
-    "description_ro": "Fekete-víz (Apa Neagră) este cel mai important curs de apă al Câmpiei Baranya și al regiunii Ormánság, izvorând pe versanții sudici ai Munților Mecsek și vărsându-se în Dunăre. Numele său provine de la culoarea închisă a apei, bogată în substanțe humice, care amintește de imensele zone mlaștinoase de altădată. Înainte de regularizările din secolul al XIX-lea, râul inunda suprafețe vaste la fiecare viitură, creând un peisaj lacustru care a izolat satele din Ormánság timp de secole. Această izolare a permis conservarea arhitecturii tradiționale unice și a bisericilor cu tavan casetat pictat. Astăzi, albia este în mare parte canalizată, dar stufărișurile și pajiștile inundabile rămân refugii vitale pentru păsări acvatice și amfibieni rari. Digurile râului oferă trasee excelente pentru bicicliști, permițând explorarea ecoturistică a acestui colț pitoresc al Ungariei.",
-    "facts_ro": [
-      "Lungimea totală a râului este de 45 de kilometri, având un bazin hidrografic de peste 600 kmp.",
-      "Regularizarea râului în anii 1800 a fost necesară pentru a câștiga terenuri agricole din zonele mlăștinoase.",
-      "În pădurile de luncă de-a lungul râului cuibăresc specii rare precum barza neagră și vulturul codalb.",
-      "În apele sale trăiește populații semnificative de țipar de mlaștină și alte specii protejate.",
-      "Datorită curentului lent și a adâncimii reduse, râul poate seca parțial în verile extrem de secetoase.",
-      "La gura de vărsare a râului, lângă Drávaszabolcs, funcționează un sistem masiv de ecluze.",
-      "În localitatea Sellye, muzeele locale prezintă modul de viață tradițional legat de resursele acestui râu.",
-      "Numele râului face referire la conținutul ridicat de materie organică ce îi conferă opacitate."
-    ]
+    "id": "PL-LD",
+    "nameDe": "Lodz"
   },
   {
-    "id": "lake-orfui-to-extra",
-    "description_ro": "Sistemul de lacuri de la Orfű este un exemplu remarcabil de peisagistică și dezvoltare turistică la poalele nordice ale Munților Mecsek. Creat în anii 1960 prin bararea apelor izvoarelor carstice, sistemul este format din patru lacuri cu funcții diferite: Lacul Orfű, Lacul Pécs, Lacul Herman Ottó și Lacul Kovácsszénája. Cel mai mare și mai cunoscut este Lacul Pécs, centrul sporturilor nautice, navigației și scăldatului. Datorită microclimatului montan și a apei cristaline de izvor, Orfű a devenit una dintre cele mai populare stațiuni de vacanță din sudul Ungariei. Pe lângă activitățile recreative, locul este un centru cultural, găzduind anual festivalul de muzică „Fishing on Orfű”. Pentru iubitorii de natură, Lacul Herman Ottó oferă liniște, fiind o rezervație strict protejată pentru pești și păsări, unde biodiversitatea este lăsată să se dezvolte neperturbată.",
-    "facts_ro": [
-      "Ideea creării sistemului de lacuri a apărut în anii '60 pentru valorificarea turistică a văii.",
-      "Lacul Pécs este cea mai mare suprafață de apă din sistem, acoperind aproximativ 72 de hectare.",
-      "Muzeul Morilor din Orfű găzduiește singura moară de hârtie funcțională din țară.",
-      "Scăldatul este strict interzis în Lacul Herman Ottó pentru a proteja habitatele păsărilor acvatice.",
-      "Temperatura apei în timpul verii atinge 24-26 de grade Celsius, fiind alimentată de izvoare curate.",
-      "Lungimea aleilor de promenadă amenajate în jurul lacurilor depășește 10 kilometri.",
-      "Peștera Abaliget și muzeul liliecilor din apropiere sunt atracții complementare majore pentru turiști.",
-      "Orfű este un centru național pentru sporturile de kaiac și navigație în regiunea Transdanubiei de Sud."
-    ]
+    "id": "PL-LU",
+    "nameDe": "Lublin"
   },
   {
-    "id": "lake-szelidi-to-extra",
-    "description_ro": "Lacul Szelid, format dintr-o veche albie a Dunării, este o întindere de apă de 5 kilometri lungime situată lângă Dunapataj, fiind al cincilea cel mai mare lac natural din Ungaria. Este renumit pentru apa sa specială, bogată în carbonat de sodiu și magneziu, care îi conferă o textură mătăsoasă și proprietăți curative cunoscute de secole, fiind ideală pentru tratarea afecțiunilor neurologice și reumatice. Pe malul sudic s-a dezvoltat o zonă de vacanță vibrantă, cu restaurante, campinguri și o scenă în aer liber, în timp ce partea nordică, mărginită de stufărișuri, este un paradis pentru pescari și fotografi de natură. Prin intermediul traseului didactic „Kékmoszat” (Alga Albastră), vizitatorii pot descoperi flora și fauna unică a acestei regiuni de câmpie, unde istoria, tratamentul balnear și sporturile nautice se întâlnesc armonios.",
-    "facts_ro": [
-      "Cu o lungime de 5 km și o lățime medie de 150-200 m, este cel mai mare braț mort din regiune.",
-      "Apa conține sulfat de sodiu, care are un efect dezinfectant natural asupra pielii.",
-      "Adâncimea maximă a lacului atinge 4 metri, o raritate pentru lacurile din Câmpia Ungară.",
-      "Traseul didactic Kékmoszat are 2,4 km lungime și prezintă viața lacului în 12 stații.",
-      "Peste 100 de specii de păsări cuibăresc sau se odihnesc în pădurile și stufărișurile înconjurătoare.",
-      "Săpăturile arheologice din apropiere au scos la iveală morminte din perioada avară și a descălecatului.",
-      "Lacul este foarte atractiv pentru pescari datorită stocurilor de amur, crap și șalău.",
-      "În timpul iernilor geroase, suprafața lacului se transformă într-un imens patinoar natural."
-    ]
+    "id": "PL-WN",
+    "nameDe": "Ermland-Masuren"
+  },
+  {
+    "id": "PL-ZP",
+    "nameDe": "Westpommern"
+  },
+  {
+    "id": "PL-PD",
+    "nameDe": "Podlachien"
+  },
+  {
+    "id": "PL-PK",
+    "nameDe": "Karpatenvorland"
+  },
+  {
+    "id": "PL-KP",
+    "nameDe": "Kujawien-Pommern"
+  },
+  {
+    "id": "PL-SK",
+    "nameDe": "Heiligkreuz"
   }
 ]

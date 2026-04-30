@@ -1,4 +1,4 @@
-import type { POI } from "./poi";
+﻿import type { POI } from "./poi";
 
 // ============================================================================
 // ROMANIA — POI (Points of Interest)
@@ -3940,14 +3940,7 @@ export const romaniaExtraPois: POI[] = [
   },
 
   // BIHOR (RO-BH)
-  {
-    id: "ro-poi-pestera-ursilor", type: "landmark", parent: "RO-BH", coords: [22.5683, 46.5531],
-    name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Urșilor", en: "Bears' Cave" },
-    description: { de: "Höhle mit Höhlenbärenfossilien.", hu: "Barlang barlangi medve fosszíliákkal.", ro: "Peșteră cu fosile de urși de peșteră.", en: "Cave with cave bear fossils." },
-    facts: { de: ["Peștera Urșilor (deutsch Bärenhöhle) ist eine der bekanntesten Höhlen in Rumänien und liegt im Kreischgebiet, im Westen von Siebenbürgen, ungefähr 75 Kilometer südöstlich der Kreisstadt Oradea im Kreis Bihor in der Nähe der Gemeinde Pietroasa, Ortsteil Chișcău."], hu: ["Magyarország Medve-barlang, bátonyterenyei barlang Medve-barlang, nagybörzsönyi barlang Medve-barlang, váci barlang Románia Medve-barlang, homoródalmási barlang Medve-barlang (Peştera Urşilor), kiskohi barlang Medve-barlang (Grota Urșilor), menyházi barlang Szlovákia Medve-barlang, (Medvedia jaskyňa), a Magas-Tátrában, a Jávor-völgyben Hasonló néven Medvehagymás-barlang Balatonedericsen Medvekoponyás-barlang a Parasznyán található Kő-lyuk másik elnevezése Medve-kői-sziklaüreg Bakonyszücsön Medvetorok-barlang Boldogkőújfalun Medvetükrös-barlang Szilvásváradon Nagymedve-barlang Miskolcon"], ro: ["Peștera Urșilor a fost descoperită în 1975, cu ocazia unei dinamitări executate la cariera de marmură din zonă.", "Este unul dintre principalele obiective turistice ale Munților Apuseni, ea aflându-se în județul Bihor, în imediata apropiere a localității Chișcău, comuna Pietroasa, la o altitudine de 482 m."], en: [] },
-    image: "/geo-images/romania/bears.webp"
-  },
-  {
+    {
     id: "ro-poi-baile-felix", type: "landmark", parent: "RO-BH", coords: [21.9833, 46.9833],
     name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
     description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." },
@@ -3970,14 +3963,7 @@ export const romaniaExtraPois: POI[] = [
     facts: { de: ["i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.", "Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.", "Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: ["Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.", "Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \"Omul și Biosfera\"."], en: ["The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava."] },
     image: "/geo-images/romania/rodna-mountains-national-park.webp"
   },
-  {
-    id: "ro-poi-lacul-colibita", type: "lake", parent: "RO-BN", coords: [24.8833, 47.1667],
-    name: { de: "Colibița-See", hu: "Kolibica-tó", ro: "Lacul Colibița", en: "Colibița Lake" },
-    description: { de: "Stausee mit sauberer Bergluft.", hu: "Víztározó tiszta hegyi levegővel.", ro: "Lac de acumulare cu aer montan curat.", en: "Reservoir with clean mountain air." },
-    facts: { de: [], hu: [], ro: ["Lacul Colibița este un lac artificial de acumulare din Munții Călimani, județul Bistrița-Năsăud.", "Lacul a fost creat prin construirea barajului Colibița pe cursul râului Bistrița, baraj amenajat în perioada 1977 - 1991 cu scop hidroenergetic, de alimentarea cu apă a localităților din aval, a industriei, irigații și regularizare a debitului apelor râului Bistrița.", "Lacul Colibița are suprafața de 270 ha, lungimea de 13 km și volumul de 65 mil m3 fiind situat la o altitudine de 900 m."], en: ["Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.", "It is situated on the Bistrița River.", "The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő)."] },
-    image: "/geo-images/romania/colibita-lake.webp"
-  },
-
+  
   // BOTOȘANI (RO-BT)
   {
     id: "ro-poi-botosani", type: "city", parent: "RO-BT", coords: [26.6664, 47.7408],
@@ -4078,14 +4064,7 @@ export const romaniaExtraPois: POI[] = [
     facts: { de: ["Băile Herculane (deutsch Herkulesbad, ungarisch Herkulesfürdő) ist eine Kleinstadt und ein Kurort im Kreis Caraș-Severin in der Region Banat in Rumänien."], hu: [], ro: ["Băile Herculane (în latină Aqua Herculis, în germană Herkulesbad, în maghiară Herkulesfürdő) este un oraș în județul Caraș-Severin, Banat, România, format din localitățile componente Băile Herculane (reședința) și Pecinișca.", "Are o populație de 5.008 locuitori.", "Orașul este situat pe Valea Cernei, fiind accesibil la 5 km de DN 6 (E70), principala arteră rutieră ce leagă capitala țării de Timișoara."], en: ["Băile Herculane (Latin: Aqua Herculis; German: Herkulesbad; Hungarian: Herkulesfürdő; Czech: Herkulovy Lázně, Turkish: Lazarethane, English: Herculean Baths) is a spa town in Romanian Banat, in Caraș-Severin County, situated in the valley of the Cerna River, between the Mehedinți Mountains to the east and the Cerna Mountains to the west, elevation 168 m (551 ft).", "Its current population is 3,787.", "The town administers one village, Pecinișca (Hungarian: Pecsenyeska; from 1912 to 1918 Csernabesenyő)."] },
     image: "/geo-images/romania/baile-herculane.webp"
   },
-  {
-    id: "ro-poi-cascada-bigar", type: "landmark", parent: "RO-CS", coords: [21.9594, 45.0033],
-    name: { de: "Bigăr-Wasserfall", hu: "Bigér-vízesés", ro: "Cascada Bigăr", en: "Bigăr Waterfall" },
-    description: { de: "Einzigartiger moosbedeckter Wasserfall.", hu: "Egyedülálló mohos vízesés.", ro: "Cascadă unică acoperită de mușchi.", en: "Unique moss-covered waterfall." },
-    facts: { de: ["Der Bigăr-Wasserfall (rumänisch Cascada Bigăr) ist ein Wasserfall des etwa 200 Meter langen Baches Bigăr auf dem Gebiet der Gemeinde Bozovici im Kreis Caraș-Severin in Rumänien.", "Die Umgebung des Baches einschließlich Wasserfall und Quelle ist unter der Bezeichnung Izvorul Bigăr (deutsch Bigăr-Quelle; auch bekannt als Izbucul Bigăr) ein Naturschutzgebiet der IUCN-Kategorie IV.", "Der Bach mündet über die Miniș in die Nera und schließlich in die Donau."], hu: ["A Bigéri-vízesés (románul: Izvorul Bigăr) Románia egyik leghíresebb vízesése, amely Bozovics közigazgatási területén, Krassó-Szörény megyében található.", "A travertínó vízesés jelentős része 2021.", "június 7-én leszakadt, így különleges látványa már a múlté."], ro: [], en: [] },
-    image: "/geo-images/romania/bigar-waterfall.webp"
-  },
-
+  
   // CONSTANȚA (RO-CT)
   {
     id: "ro-poi-acvariul-constanta", type: "landmark", parent: "RO-CT", coords: [28.6622, 44.1714],
@@ -4183,14 +4162,7 @@ export const romaniaExtraPois: POI[] = [
   },
 
   // GORJ (RO-GJ)
-  {
-    id: "ro-poi-manastirea-tismana", type: "historical", parent: "RO-GJ", coords: [22.9472, 45.0583],
-    name: { de: "Kloster Tismana", hu: "Tismana-kolostor", ro: "Mănăstirea Tismana", en: "Tismana Monastery" },
-    description: { de: "Čltestes aktives Kloster in Rumänien.", hu: "Románia legrégebbi működő kolostora.", ro: "Cea mai veche mănăstire activă din România.", en: "Oldest active monastery in Romania." },
-    facts: { de: ["Tismana ist eine Kleinstadt in der rumänischen Walachei im Kreis Gorj.", "Besonders bekannt ist der in den Transsilvanischen Alpen gelegene Ort durch das rumänisch-orthodoxe Kloster Tismana.", "Dieses ist das älteste noch vorhandene Kloster in der Walachei."], hu: ["A Curtea de Argeș-i kolostor (románul: Mănăstirea Curtea de Argeș) ortodox kolostor, épületegyüttes Romániában, Curtea de Argeș (egyes forrásokban Argyasudvarhely) városában.", "1512 és 1517 között, V.", "Basarab havasalföldi fejedelem (Neagoe Basarab) uralkodása alatt épült."], ro: ["Mănăstirea Tismana este cel mai vechi așezământ monahal din Țara Românească (Oltenia), aflat pe teritoriul orașului Tismana din județul Gorj, la 36 km de orașul Târgu-Jiu."], en: ["Nikodim Tismanski, also known as Nicodemus the Sanctified, Nikodim Osvećeni, Nikodim Vratnenski, Nikodim Grčić, and in Romanian, Nicodim de la Tismana, (Prilep, today in North Macedonia, then Byzantine Empire, c.", "1320 – Tismana, Walachia, now Romania, 26 December 1406), was a Christian monk scribe and translator who was the founder of monasteries, one in Serbia and two in Romania.", "In Serbian medieval history he is remembered for conveying hesychastic monastic traditions and as a member of a diplomatic and ecclesiastical mission to Constantinople in 1375."] },
-    image: "/geo-images/romania/tismana-monastery.webp"
-  },
-  {
+    {
     id: "ro-poi-cheile-oltetului", type: "landmark", parent: "RO-GJ", coords: [23.7667, 45.195],
     name: { de: "Olteț-Klamm", hu: "Oltész-szurdok", ro: "Cheile Oltețului", en: "Olteț Gorges" },
     description: { de: "Sehr enge Karstschlucht.", hu: "Nagyon szűk karszt-szurdok.", ro: "Chei carstice foarte înguste.", en: "Very narrow karst gorge." },
@@ -4231,14 +4203,7 @@ export const romaniaExtraPois: POI[] = [
   },
 
   // ILFOV (RO-IF)
-  {
-    id: "ro-poi-palatul-mogosoaia", type: "historical", parent: "RO-IF", coords: [25.9922, 44.5275],
-    name: { de: "Schloss Mogoșoaia", hu: "Mogoșoaia-palota", ro: "Palatul Mogoșoaia", en: "Mogoșoaia Palace" },
-    description: { de: "Historischer Palast im Brâncovenesc-Stil.", hu: "Történelmi palota Brâncovenesc-stílusban.", ro: "Palat istoric în stil brâncovenesc.", en: "Historical palace in Brâncovenesc style." },
-    facts: { de: ["Das Schloss Mogoșoaia befindet sich in Rumänien.", "Es liegt rund 15 Kilometer nordwestlich der Landeshauptstadt Bukarest in einem Park am Ufer des Mogoșoaia-Sees in der Gemeinde Mogoșoaia im Kreis Ilfov.", "Schloss Mogoșoaia gehört zu den bekanntesten Kulturdenkmalen Rumäniens."], hu: ["Bukarest (románul: București) Románia fővárosa, politikai, ipari, kereskedelmi és kulturális központja, valamint legnagyobb városa.", "Valamivel több mint 1,8 millió lakosával és 2,2 millió lakosú városi agglomerációval, az Európai Unió 7.", "legnagyobb városa."], ro: ["Palatul Mogoșoaia este o clădire istorică din localitatea Mogoșoaia, județul Ilfov, România, aflată la circa 15 km de centrul orașului București.", "Complexul conține clădirea propriu-zisă, curtea acestuia cu turnul de veghe, cuhnia (bucătăria), casa de oaspeți (Vila D'Elchingen), ghețăria și cavoul familiei Bibescu, precum și biserica „Sfântul Gheorghe” aflată lângă zidurile curții.", "Palatul Mogoșoaia a fost în posesia familiei Brâncoveanu timp de aproximativ 119 de ani, trecând apoi în proprietatea familiei Bibescu."], en: ["Mogoșoaia Palace (Romanian: Palatul Mogoșoaia, pronounced [paˈlatul moɡoˈʃo̯aja]) is situated about 10 kilometres (6.2 mi) from Bucharest, Romania.", "It was built between 1698 and 1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style.", "The palace bears the name of the widow of the Romanian boyar Mogoș, who owned the land it was built on."] },
-    image: "/geo-images/romania/mogosoaia-palace.webp"
-  },
-  {
+    {
     id: "ro-poi-manastirea-snagov", type: "historical", parent: "RO-IF", coords: [26.175, 44.7303],
     name: { de: "Kloster Snagov", hu: "Snagov-kolostor", ro: "Mănăstirea Snagov", en: "Snagov Monastery" },
     description: { de: "Kloster auf einer Insel, angebliches Grab von Vlad III.", hu: "Szigeti kolostor, Vlad Tepes feltételezett sírja.", ro: "Mănăstire pe o insulă, presupusul mormânt al lui Vlad Țepeș.", en: "Island monastery, alleged tomb of Vlad the Impaler." },
@@ -4380,14 +4345,7 @@ export const romaniaExtraPois: POI[] = [
   },
 
   // VÂLCEA (RO-VL)
-  {
-    id: "ro-poi-manastirea-cozia", type: "historical", parent: "RO-VL", coords: [24.3164, 45.2731],
-    name: { de: "Kloster Cozia", hu: "Cozia-kolostor", ro: "Mănăstirea Cozia", en: "Cozia Monastery" },
-    description: { de: "Mittelalterliches Kloster am Fluss Olt.", hu: "Középkori kolostor az Olt folyó partján.", ro: "Mănăstire medievală pe malul Oltului.", en: "Medieval monastery on the Olt river." },
-    facts: { de: ["Das Kloster Cozia (rumänisch Mǎnǎstirea Cozia) liegt im Olt-Tal in Rumänien.", "Es wurde 1386 von Fürst Mircea dem Člteren gegründet.", "Erst als Nucet-Kloster benannt, bekam es den heutigen Namen vom nahe gelegenen Berg Cozia."], hu: ["A Cozia kolostor Romániában, Olténiában, Vâlcea megyében, Călimăneștiben, az Olt jobb partján helyezkedik el.", "Az ortodox vallási épületegyüttes a romániai műemlékek jegyzékében a VL-II-a-A-09697 sorszámon szerepel.", "Mircea cel Bătrân alapította 1388-ban, a történelem során pedig sokszor alakították és javították."], ro: ["Mănăstirea Cozia este un complex monahal medieval, situat în orașul Călimănești, pe malul râului Olt.", "Este o ctitorie a domnului Mircea cel Bătrân, extinsă și renovată de-a lungul istoriei sale multiseculare.", "Paul de Alep, în jurnalul călătoriei sale în Țara Românească între 21 august 1656 - 13 octombrie 1658 scria despre Cozia: „În limba lor înțelesul numelui acestei mănăstiri, Cozia este „fortăreață de pământ din pricina nenumăraților munți din această țară”."], en: ["Cozia Monastery (Romanian: Mănăstirea Cozia) is one of the most important medieval monastic complexes in Romania, located on the right bank of the Olt River near the town of Călimănești in Vâlcea County.", "Founded in the late 14th century by voivode Mircea the Elder, the monastery has played a pivotal role in the spiritual, cultural, and political history of the region for over six centuries.", "Its construction between 1387 and 1391 marked a defining moment in the development of Wallachian religious architecture and established Cozia as a prominent Orthodox monastic center."] },
-    image: "/geo-images/romania/ro-poi-manastirea-cozia.webp"
-  },
-  {
+    {
     id: "ro-poi-salina-ocnele-mari", type: "landmark", parent: "RO-VL", coords: [24.3167, 45.0833],
     name: { de: "Salzbergwerk Ocnele Mari", hu: "Ocnele Mari Sóbánya", ro: "Salina Ocnele Mari", en: "Ocnele Mari Salt Mine" },
     description: { de: "Großes touristisches Salzbergwerk.", hu: "Nagy turisztikai sóbánya.", ro: "Mare salină turistică.", en: "Large tourist salt mine." },
@@ -4487,21 +4445,7 @@ export const romaniaExtraPois: POI[] = [
     facts: { de: ["Reiche Flora und Fauna.", "Spektakuläre Olt-Schlucht.", "Zahlreiche Wanderwege."], hu: ["Gazdag növény- és állatvilág.", "Látványos Olt-szurdok.", "Számos túraútvonal."], ro: ["Floră și faună bogată.", "Defileul Oltului spectaculos.", "Numeroase trasee de drumeție."], en: ["Rich flora and fauna.", "Spectacular Olt gorge.", "Numerous hiking trails."] },
     image: "/geo-images/romania/cozia-np.webp"
   },
-  {
-    id: "ro-poi-maramures-mountains", type: "mountain", parent: "RO-MM", coords: [24.5333, 47.8500],
-    name: { de: "Maramuresch-Gebirge", hu: "Máramarosi-havasok", ro: "Munții Maramureșului", en: "Maramureș Mountains" },
-    description: { de: "Wildes Gebirge an der Grenze zur Ukraine.", hu: "Vad hegység az ukrán határ mentén.", ro: "Munți sălbatici la granița cu Ucraina.", en: "Wild mountains along the Ukrainian border." },
-    facts: { de: ["Teil des Nationalparks Maramuresch-Gebirge.", "Sehr abgelegene und unberührte Natur.", "Traditionelle Almwirtschaft."], hu: ["A Máramarosi-havasok Nemzeti Park része.", "Nagyon távoli és érintetlen természet.", "Hagyományos hegyi pásztorkodás."], ro: ["Parte a Parcului Natural Munții Maramureșului.", "Natură foarte izolată și neatinsă.", "Păstorit tradițional."], en: ["Part of the Maramureș Mountains Natural Park.", "Very remote and untouched nature.", "Traditional mountain shepherding."] },
-    image: "/geo-images/romania/maramures-mountains.webp"
-  },
-  {
-    id: "ro-poi-sovata-lacul-ursu", type: "lake", parent: "RO-MS", coords: [25.0833, 46.6000],
-    name: { de: "Bärensee Sovata", hu: "Medve-tó Szováta", ro: "Lacul Ursu Sovata", en: "Bear Lake Sovata" },
-    description: { de: "Der weltweit größte heliothemische Salzsee.", hu: "A világ legnagyobb heliotermikus sós tava.", ro: "Cel mai mare lac sărat helioterm din lume.", en: "The world's largest heliothermic salt lake." },
-    facts: { de: ["Wassertemperatur steigt durch Sonneneinstrahlung.", "Heilende Wirkung bei Rheuma.", "Geformt wie ein Bärenfell."], hu: ["A víz hőmérséklete a napsugárzás hatására emelkedik.", "Gyógyhatású reuma esetén.", "Medvebőr alakú."], ro: ["Temperatura apei crește datorită radiației solare.", "Efecte terapeutice pentru reumatism.", "Format ca o piele de urs."], en: ["Water temperature increases due to solar radiation.", "Therapeutic effects for rheumatism.", "Shaped like a bear skin."] },
-    image: "/geo-images/romania/sovata-bear-lake.webp"
-  },
-  {
+      {
     id: "ro-poi-vacarescu-house", type: "historical", parent: "RO-B", coords: [26.1000, 44.4333],
     name: { de: "Văcărescu-Haus", hu: "Văcărescu-ház", ro: "Casa Memorială Elena Văcărescu", en: "Elena Văcărescu Memorial House" },
     description: { de: "Gedenkstätte für die rumänisch-französische Schriftstellerin.", hu: "Emlékhely a román-francia írónő számára.", ro: "Casă memorială dedicată scriitoarei româno-franceze.", en: "Memorial site dedicated to the Romanian-French writer." },

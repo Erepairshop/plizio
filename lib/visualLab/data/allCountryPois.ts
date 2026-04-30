@@ -19,12 +19,14 @@ import { bahamasAllPoi } from "./bahamasPoi";
 import { belarusAllPoi } from "./belarusPoi";
 import { belgiumAllPoi } from "./belgiumPoi";
 import { belizeAllPoi } from "./belizePoi";
+import { poiExtraBelizeLifeV2 } from "./poiExtraBelizeLifeV2";
 import { bosniaAllPoi } from "./bosniaPoi";
 import { bulgariaAllPoi } from "./bulgariaPoi";
 import { canadaAllPoi } from "./canadaPoi";
 import { costaricaAllPoi } from "./costaricaPoi";
 import { croatiaAllPoi } from "./croatiaPoi";
 import { cubaAllPoi } from "./cubaPoi";
+import { poiExtraCubaReliefV2 } from "./poiExtraCubaReliefV2";
 import { cyprusAllPoi } from "./cyprusPoi";
 import { poiExtraCyprusCities } from "./poiExtraCyprusCities";
 import { cyprusHistoryPoi } from "./poiExtraCyprusHistory";
@@ -103,6 +105,9 @@ import { slovakiaHistory as poiExtraSlovakiaHistory } from "./poiExtraSlovakiaHi
 import { slovakiaOther as poiExtraSlovakiaOther } from "./poiExtraSlovakiaOther";
 const sloveniaAllPoi: POI[] = [];
 import { spainAllPoi } from "./spainPoi";
+import { spainCitiesExtra } from "./poiExtraSpainCities";
+import { spainHistoryExtra } from "./poiExtraSpainHistory";
+import { spainOtherExtra } from "./poiExtraSpainOther";
 import { swedenAllPoi } from "./swedenPoi";
 import { switzerlandAllPoi } from "./switzerlandPoi";
 import { trinidadAllPoi } from "./trinidadPoi";
@@ -132,12 +137,14 @@ export const ALL_COUNTRY_POIS = ([
   ...belarusAllPoi,
   ...belgiumAllPoi,
   ...belizeAllPoi,
+  ...poiExtraBelizeLifeV2,
   ...bosniaAllPoi,
   ...bulgariaAllPoi,
   ...canadaAllPoi,
   ...costaricaAllPoi,
   ...croatiaAllPoi,
   ...cubaAllPoi,
+  ...poiExtraCubaReliefV2,
   ...cyprusAllPoi,
   ...poiExtraCyprusCities,
   ...cyprusHistoryPoi,
@@ -220,6 +227,9 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraSlovakiaOther,
   ...sloveniaAllPoi,
   ...spainAllPoi,
+  ...spainCitiesExtra,
+  ...spainHistoryExtra,
+  ...spainOtherExtra,
   ...swedenAllPoi,
   ...switzerlandAllPoi,
   ...trinidadAllPoi,

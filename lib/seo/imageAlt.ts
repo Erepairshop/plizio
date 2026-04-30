@@ -2,6 +2,10 @@ import type { POI } from "@/lib/visualLab/data/poi";
 
 type Lang = "de" | "hu" | "ro" | "en";
 
+function localizedValue(value: { de: string; hu: string; ro: string; en: string } | undefined, lang: Lang) {
+  return value?.[lang] || value?.de || "";
+}
+
 const TYPE_LABEL: Record<string, Record<Lang, string>> = {
   "state-capital": { de: "Hauptstadt", hu: "főváros", ro: "capitală", en: "capital city" },
   city:            { de: "Stadt",      hu: "város",    ro: "oraș",      en: "city" },
@@ -25,9 +29,9 @@ const TYPE_LABEL: Record<string, Record<Lang, string>> = {
  * Format: "{POI name} – {type}{, in country/region}. {first ~60 chars of description}"
  */
 export function poiImageAlt(poi: POI, lang: Lang, regionName?: string, countryName?: string): string {
-  const name = poi.name[lang] || poi.name.de || poi.id;
+  const name = localizedValue(poi.name, lang) || poi.id;
   const typeLabel = poi.type && TYPE_LABEL[poi.type]?.[lang];
-  const desc = poi.description?.[lang] || poi.description?.de || "";
+  const desc = localizedValue(poi.description, lang);
 
   let base = name;
   if (typeLabel) base += ` – ${typeLabel}`;

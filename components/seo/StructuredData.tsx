@@ -47,7 +47,7 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
     "@type": poiSchemaType(poi),
     ...(poi.type === "island" ? { additionalType: "Island" } : {}),
     name: poi.name[lang] || poi.name.de,
-    description: poi.description[lang] || poi.description.de,
+    description: poi.description?.[lang] || poi.description?.de || "",
     image: poi.image ? absoluteUrl(poi.image) : undefined,
     geo: {
       "@type": "GeoCoordinates",
@@ -59,7 +59,7 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
       addressCountry: countryCode,
     },
     sameAs,
-    containedInPlace: localizedStateName(poi.parent, lang),
+    containedInPlace: localizedStateName(poi.parent ?? "", lang),
     inLanguage: lang,
   };
 }
@@ -87,7 +87,7 @@ export function createStateStructuredData(state: POI, lang: Lang) {
     "@context": "https://schema.org",
     "@type": "AdministrativeArea",
     name: state.name[lang] || state.name.de,
-    description: state.description[lang] || state.description.de,
+    description: state.description?.[lang] || state.description?.de || "",
     image: state.image ? absoluteUrl(state.image) : undefined,
     inLanguage: lang,
   };

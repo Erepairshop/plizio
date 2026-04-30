@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "poland",
+    "nameDe": "Polen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Polen ist ein Land in Mitteleuropa, das an die Ostsee und sieben weitere Staaten grenzt. Es hat eine über tausendjährige Geschichte mit bedeutenden kulturellen und wissenschaftlichen Beiträgen. Die Hauptstadt und größte Stadt ist Warschau, gefolgt von Großstädten wie Krakau und Breslau. Polen ist eine entwickelte Marktwirtschaft und Mitglied der EU sowie der NATO.",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-MZ",
+    "nameDe": "Masowien",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-MA",
+    "nameDe": "Kleinpolen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-PM",
+    "nameDe": "Pommern",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-DS",
+    "nameDe": "Niederschlesien",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-WP",
+    "nameDe": "Großpolen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-SL",
+    "nameDe": "Schlesien",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-LD",
+    "nameDe": "Lodz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-LU",
+    "nameDe": "Lublin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-WN",
+    "nameDe": "Ermland-Masuren",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-ZP",
+    "nameDe": "Westpommern",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-PD",
+    "nameDe": "Podlachien",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-PK",
+    "nameDe": "Karpatenvorland",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-KP",
+    "nameDe": "Kujawien-Pommern",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-SK",
+    "nameDe": "Heiligkreuz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-LB",
+    "nameDe": "Lebus",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "PL-OP",
+    "nameDe": "Oppeln",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "warsaw",
+    "nameDe": "Warschau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Warschau ist die Hauptstadt und größte Stadt Polens. Die Metropole liegt an der Weichsel im östlichen Zentrum Polens. Die offizielle Einwohnerzahl beträgt 1,86 Millionen, im Großraum leben 3,1 Millionen Menschen, womit Warschau die siebtgrößte Stadt der Europäischen Union ist. Das Stadtgebiet umfasst 517,24 Quadratkilometer. Warschau ist eine Alpha-Weltstadt, ein wichtiges internationales Touristenziel und ein bedeutendes kulturelles, politisches und wirtschaftliches Zentrum.",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "krakow",
+    "nameDe": "Krakau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Krakau ist die zweitgrößte und eine der ältesten Städte Polens. Die Stadt liegt an der Weichsel in der Woiwodschaft Kleinpolen und geht auf das siebte Jahrhundert zurück. Sie war bis 1596 die offizielle Hauptstadt Polens und ist traditionell eines der führenden Zentren des polnischen akademischen, wirtschaftlichen, kulturellen und künstlerischen Lebens. Sie gilt als eine der schönsten Städte Europas und ihre Altstadt ist ein UNESCO-Weltkulturerbe.",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "wroclaw",
+    "nameDe": "Breslau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Wrocław (Breslau) ist eine Stadt im Südwesten Polens und die größte Stadt in der historischen Region Schlesien. Sie liegt an den Ufern der Oder im schlesischen Tiefland in Mitteleuropa. Mit einer offiziellen Bevölkerung von über 670.000 ist Wrocław die drittgrößte Stadt Polens. Die Stadt ist bekannt für ihre vielen Brücken, Inseln und den historischen Marktplatz. Breslau ist ein bedeutendes Studentenzentrum und ein wichtiges kulturelles und wirtschaftliches Zentrum.",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "gdansk",
+    "nameDe": "Danzig",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Danzig ist eine große Hafenstadt an der Ostseeküste Polens. Mit fast 486.000 Einwohnern ist sie die Hauptstadt der Woiwodschaft Pommern und die bedeutendste Stadt in der geografischen Region Pommerellen. Es ist Polens wichtigster Seehafen und das Zentrum der viertgrößten Metropolregion des Landes. Die Stadt hat eine komplexe Geschichte mit polnischen, preußischen, deutschen Herrschaften und Autonomie. Die Solidarność-Bewegung, die das Ende des Kommunismus in Polen einleitete, entstand auf der Danziger Werft.",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "poznan",
+    "nameDe": "Posen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "szczecin",
+    "nameDe": "Stettin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "lodz-city",
+    "nameDe": "Lodz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "lublin-city",
+    "nameDe": "Lublin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "katowice",
+    "nameDe": "Kattowitz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "bialystok",
+    "nameDe": "Białystok",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "torun",
+    "nameDe": "Thorn",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "czestochowa",
+    "nameDe": "Tschenstochau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "gdynia",
+    "nameDe": "Gdingen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "sopot",
+    "nameDe": "Sopot",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "wawel",
+    "nameDe": "Wawel-Schloss",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "rynek-glowny",
+    "nameDe": "Hauptmarkt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "biebrza",
+    "nameDe": "Biebrza-Nationalpark",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "ojcow",
+    "nameDe": "Ojców-Nationalpark",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "wieliczka",
+    "nameDe": "Salzbergwerk Wieliczka",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "auschwitz",
+    "nameDe": "Auschwitz-Birkenau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "tatra",
+    "nameDe": "Tatra-Gebirge",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "malbork",
+    "nameDe": "Marienburg",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "bialowieza",
+    "nameDe": "Białowieża-Urwald",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "mazury",
+    "nameDe": "Masurische Seenplatte",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "stare-miasto-warszawa",
+    "nameDe": "Warschauer Altstadt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "stare-miasto-torun",
+    "nameDe": "Thorner Altstadt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "zamosc-city",
+    "nameDe": "Zamość",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "stare-miasto-zamosc",
+    "nameDe": "Altstadt von Zamość",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kazimierz-krakow",
+    "nameDe": "Stadtteil Kazimierz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "jasna-gora",
+    "nameDe": "Kloster Jasna Góra",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "stare-miasto-gdansk",
+    "nameDe": "Danziger Rechtstadt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "gniezno",
+    "nameDe": "Gnesen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "zamek-ksiaz",
+    "nameDe": "Schloss Fürstenstein",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "zamek-lancut",
+    "nameDe": "Schloss Łańcut",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "karkonosze-np",
+    "nameDe": "Nationalpark Riesengebirge",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "bieszczady-np",
+    "nameDe": "Nationalpark Bieszczady",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "morskie-oko",
+    "nameDe": "Meerauge",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "slowinski-np",
+    "nameDe": "Slowinzischer Nationalpark",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pieniny-np",
+    "nameDe": "Nationalpark Pieninen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "dunajec-gorge",
+    "nameDe": "Dunajec-Durchbruch",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "hel-peninsula",
+    "nameDe": "Halbinsel Hel",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "bialka-tatrzanska",
+    "nameDe": "Białka Tatrzańska",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "muzeum-powstania-warszawskiego",
+    "nameDe": "Museum des Warschauer Aufstands",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "centrum-nauki-kopernik",
+    "nameDe": "Kopernikus-Wissenschaftszentrum",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "warsaw-zoo",
+    "nameDe": "Warschauer Zoo",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "rynek-wroclaw",
+    "nameDe": "Breslauer Ring",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "ulica-piotrkowska",
+    "nameDe": "Piotrkowska-Straße",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "stary-rynek-poznan",
+    "nameDe": "Alter Markt in Posen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "energylandia",
+    "nameDe": "Energylandia",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-bydgoszcz",
+    "nameDe": "Bydgoszcz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-lublin",
+    "nameDe": "Lublin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-katowice",
+    "nameDe": "Kattowitz",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-czestochowa",
+    "nameDe": "Tschenstochau",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-radom",
+    "nameDe": "Radom",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-sopot",
+    "nameDe": "Sopot",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-kielce",
+    "nameDe": "Kielce",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-olsztyn",
+    "nameDe": "Allenstein",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-rzeszow",
+    "nameDe": "Rzeszów",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-gdynia",
+    "nameDe": "Gdingen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-malbork-castle",
+    "nameDe": "Marienburg",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-wawel-castle",
+    "nameDe": "Wawel",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-kazimierz-dolny",
+    "nameDe": "Kazimierz Dolny",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-torun-old-town",
+    "nameDe": "Toruńer Altstadt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-ogrodzieniec",
+    "nameDe": "Burg Ogrodzieniec",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-zamosc",
+    "nameDe": "Zamość",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-warsaw-old-town",
+    "nameDe": "Warschauer Altstadt",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-jasna-gora",
+    "nameDe": "Kloster Jasna Góra",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-gniezno-cathedral",
+    "nameDe": "Kathedrale von Gnesen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-krzyztopor",
+    "nameDe": "Schloss Krzyżtopór",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-bialowieza-np",
+    "nameDe": "Białowieża-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-tatra-np",
+    "nameDe": "Tatra-Nationalpark",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-bieszczady-np",
+    "nameDe": "Bieszczady-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-masurian-lakes",
+    "nameDe": "Masurische Seen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-slowinski-np",
+    "nameDe": "Slowinzischer NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-morskie-oko",
+    "nameDe": "Meerauge",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-ojcow-np",
+    "nameDe": "Ojców-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-kampinos-np",
+    "nameDe": "Kampinos-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-pieniny-np",
+    "nameDe": "Pieninen-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-wolin-np",
+    "nameDe": "Wollin-NP",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-lublin-old-town",
+    "nameDe": "Altstadt von Lublin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-zamosc-rynek",
+    "nameDe": "Marktplatz von Zamość",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-pelplin-cathedral",
+    "nameDe": "Dom zu Pelplin",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-ksiaz-castle",
+    "nameDe": "Schloss Książ",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-pszczyna-palace",
+    "nameDe": "Palast von Pszczyna",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-bieszczady",
+    "nameDe": "Bieszczady",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-gdansk-beach",
+    "nameDe": "Strand von Danzig",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-masuria-lakes-area",
+    "nameDe": "Masurische Seenplatte",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-slowinski-dunes",
+    "nameDe": "Słowiński-Dünen",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-warsaw-science-center",
+    "nameDe": "Warschauer Wissenschaftszentrum",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-katowice-spodek",
+    "nameDe": "Spodek",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-wroclaw-dwarfs",
+    "nameDe": "Breslauer Zwerge",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-crooked-forest",
+    "nameDe": "Krummer Wald",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "pl-lodz-film-museum",
+    "nameDe": "Filmuseum Łódź",
+    "file": "lib/visualLab/data/polandPoi.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-zielona-gora-extra",
+    "nameDe": "Grünberg in Schlesien",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Zielona Góra, auf Deutsch Grünberg, ist Polens Weinhauptstadt. Die Stadt liegt auf malerischen Hügeln, die seit Jahrhunderten für den Weinanbau genutzt werden. Das alljährliche Weinfest ",
+    "hasFactsDe": true,
+    "existingFactsDe": [
+      "Der Weinanbau in der Region geht auf das 12. Jahrhundert zurück.",
+      "Das Weinfest 'Winobranie' ist das älteste und größte in Polen.",
+      "In der Stadt gibt es über 200 Skulpturen von Bachus",
+      "dem Gott des Weines.",
+      "Das Palmenhaus beherbergt über 200 Pflanzenarten.",
+      "Die Philharmonie von Zielona Góra ist international bekannt.",
+      "Die Stadt hat ein gut ausgebautes Netz von Fahrradwegen."
+    ]
+  },
+  {
+    "id": "city-gorzow-wielkopolski-extra",
+    "nameDe": "Landsberg an der Warthe",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-olsztyn-extra",
+    "nameDe": "Allenstein",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-elblag-extra",
+    "nameDe": "Elbing",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-rzeszow-extra",
+    "nameDe": "Rzeszów",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-przemysl-extra",
+    "nameDe": "Przemyśl",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-kielce-extra",
+    "nameDe": "Kielce",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-opole-extra",
+    "nameDe": "Oppeln",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-bydgoszcz-extra",
+    "nameDe": "Bromberg",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-bialystok-extra",
+    "nameDe": "Białystok",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-suwalki-extra",
+    "nameDe": "Suwałki",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-szczecin-extra",
+    "nameDe": "Stettin",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "sea-swinoujscie-extra",
+    "nameDe": "Swinemünde",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-kolobrzeg-extra",
+    "nameDe": "Kolberg",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": true,
+    "existingDescDe": "Kołobrzeg, das ehemalige Kolberg, blickt auf eine über tausendjährige Geschichte zurück. Die Stadt war einst eine wichtige Festung und Mitglied der Hanse. Nach den Zerstörungen des Zweiten Weltkriegs wurde die Altstadt wiederaufgebaut. Heute ist Kołobrzeg ein blühender Kur- und Badeort, der für sein Mikroklima, seine jodreiche Luft und seine Kuranwendungen geschätzt wird. Der Leuchtturm bietet eine wunderbare Aussicht auf das Meer und den Hafen.",
+    "hasFactsDe": true,
+    "existingFactsDe": [
+      "Die erste Erwähnung der Stadt stammt aus dem Jahr 1000.",
+      "Der Leuchtturm wurde auf den Fundamenten einer alten Festung erbaut.",
+      "Die Stadt verfügt über die längste Stahlbeton-Seebrücke in Polen.",
+      "Kołobrzeg hat den Status eines Heilbades seit über 200 Jahren.",
+      "Das Museum der Polnischen Waffen zeigt Militärtechnik vom Mittelalter bis heute.",
+      "Die 220 Meter lange Seebrücke ist ein beliebter Treffpunkt."
+    ]
+  },
+  {
+    "id": "port-gdynia-extra",
+    "nameDe": "Hafen Gdynia",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-radom-extra",
+    "nameDe": "Radom",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-plock-extra",
+    "nameDe": "Płock",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-czestochowa-extra",
+    "nameDe": "Tschenstochau",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-zakopane-extra",
+    "nameDe": "Zakopane",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-sandomierz-extra",
+    "nameDe": "Sandomir",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-legnica-extra",
+    "nameDe": "Liegnitz",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-jelenia-gora-extra",
+    "nameDe": "Hirschberg im Riesengebirge",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-gliwice-extra",
+    "nameDe": "Gleiwitz",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-zabrze-extra",
+    "nameDe": "Zabrze",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-bytom-extra",
+    "nameDe": "Beuthen",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-sosnowiec-extra",
+    "nameDe": "Sosnowitz",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-glogow-extra",
+    "nameDe": "Glogau",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-walbrzych-extra",
+    "nameDe": "Waldenburg",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-swidnica-extra",
+    "nameDe": "Schweidnitz",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-kalisz-extra",
+    "nameDe": "Kalisz",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-pila-extra",
+    "nameDe": "Schneidemühl",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-gniezno-extra",
+    "nameDe": "Gnesen",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-ostrow-wielkopolski-extra",
+    "nameDe": "Ostrów Wielkopolski",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-tarnow-extra",
+    "nameDe": "Tarnów",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "city-nowy-sacz-extra",
+    "nameDe": "Neu-Sandez",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "port-police-chemical-port-extra",
+    "nameDe": "Chemiehafen Police",
+    "file": "lib/visualLab/data/poiExtraPolandCities.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-fortress-krosno-odrzanskie-extra",
+    "nameDe": "Festung Crossen an der Oder",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-wolfsschanze-extra",
+    "nameDe": "Wolfsschanze",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "castle-lancut-extra",
+    "nameDe": "Schloss Łańcut",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-krzyztopor-castle-extra",
+    "nameDe": "Schloss Krzyżtopór",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-moszna-castle-extra",
+    "nameDe": "Schloss Moschen",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-biskupin-extra",
+    "nameDe": "Biskupin",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-chelmno-extra",
+    "nameDe": "Kulm",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-tykocin-extra",
+    "nameDe": "Tykocin",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-zelazowa-wola-extra",
+    "nameDe": "Żelazowa Wola",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-piotrkowska-street-extra",
+    "nameDe": "Piotrkowska-Straße",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-kazimierz-dolny-extra",
+    "nameDe": "Kazimierz Dolny",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-majdanek-extra",
+    "nameDe": "KZ Majdanek",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "castle-ogrodzieniec-extra",
+    "nameDe": "Burg Ogrodzieniec",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-guido-mine-extra",
+    "nameDe": "Schaubergwerk Guido",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-polin-museum-extra",
+    "nameDe": "POLIN Museum",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-wilanow-palace-extra",
+    "nameDe": "Schloss Wilanów",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-ksiaz-castle-extra",
+    "nameDe": "Schloss Fürstenstein",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-project-riese-extra",
+    "nameDe": "Projekt Riese",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "castle-kornik-castle-extra",
+    "nameDe": "Schloss Kórnik",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-lednica-extra",
+    "nameDe": "Lednica",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-wooden-churches-southern-lesser-poland-extra",
+    "nameDe": "Holzkirchen im südlichen Kleinpolen",
+    "file": "lib/visualLab/data/poiExtraPolandHistory.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-muskauer-park-extra",
+    "nameDe": "Muskauer Park",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "lake-sniardwy-extra",
+    "nameDe": "Spirdingsee",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-bieszczady-mountains-extra",
+    "nameDe": "Bieszczady-Gebirge",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "monastery-holy-cross-extra",
+    "nameDe": "Kloster Heiligkreuz",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-jurapark-baltow-extra",
+    "nameDe": "JuraPark Bałtów",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "mountain-gora-swietej-anny-extra",
+    "nameDe": "St. Annaberg",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "agriculture-ciechocinek-extra",
+    "nameDe": "Ciechocinek Gradierwerke",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "river-biebrza-extra",
+    "nameDe": "Biebrza",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "forest-knyszyn-forest-extra",
+    "nameDe": "Knyszyn-Urwald",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-wolin-national-park-extra",
+    "nameDe": "Nationalpark Wollin",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "historical-crooked-forest-extra",
+    "nameDe": "Krummer Wald",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-pge-turow-extra",
+    "nameDe": "Kraftwerk Turów",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-kghm-copper-extra",
+    "nameDe": "KGHM Kupferbergbau",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "agriculture-lower-silesian-forests-extra",
+    "nameDe": "Niederschlesische Heide",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-gdansk-shipyard-extra",
+    "nameDe": "Danziger Werft",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-sopot-pier-extra",
+    "nameDe": "Seebrücke von Sopot",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "animal-habitat-hel-peninsula-extra",
+    "nameDe": "Halbinsel Hel",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "animal-habitat-gdansk-zoo-extra",
+    "nameDe": "Zoo Danzig",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-pkn-orlen-plock-extra",
+    "nameDe": "PKN Orlen Raffinerie Płock",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-warsaw-zoo-extra",
+    "nameDe": "Warschauer Zoo",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "forest-kampinos-national-park-extra",
+    "nameDe": "Nationalpark Kampinos",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-bełchatow-power-station-extra",
+    "nameDe": "Kraftwerk Bełchatów",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-manufaktura-lodz-extra",
+    "nameDe": "Manufaktura Łódź",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-zaklady-azotowe-pulawy-extra",
+    "nameDe": "Stickstoffwerke Puławy",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-roztocze-national-park-extra",
+    "nameDe": "Nationalpark Roztocze",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-zamosc-old-town-extra",
+    "nameDe": "Altstadt von Zamość",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "animal-habitat-polesie-national-park-extra",
+    "nameDe": "Nationalpark Polesie",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-silesian-voivodeship-industry-extra",
+    "nameDe": "Industrieregion Schlesien",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-trail-of-eagles-nests-extra",
+    "nameDe": "Adlerhorst-Route",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "animal-habitat-silesian-zoo-extra",
+    "nameDe": "Schlesischer Zoologischer Garten",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "mountain-rysy-extra",
+    "nameDe": "Rysy",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "lake-morskie-oko-extra",
+    "nameDe": "Meerauge",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-kasprowy-wierch-cable-car-extra",
+    "nameDe": "Kasprowy-Wierch-Seilbahn",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "river-dunajec-gorge-extra",
+    "nameDe": "Dunajec-Durchbruch",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-palace-of-culture-and-science-extra",
+    "nameDe": "Kultur- und Wissenschaftspalast",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-warsaw-uprising-museum-extra",
+    "nameDe": "Museum des Warschauer Aufstands",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-copernicus-science-centre-extra",
+    "nameDe": "Kopernikus-Wissenschaftszentrum",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-vistula-river-extra",
+    "nameDe": "Weichsel",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "river-oder-river-extra",
+    "nameDe": "Oder",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "forest-bialowieza-forest-extra",
+    "nameDe": "Białowieża-Urwald",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "mountain-table-mountains-extra",
+    "nameDe": "Heuscheuergebirge",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-energylandia-extra",
+    "nameDe": "Energylandia",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "animal-habitat-wroclaw-zoo-extra",
+    "nameDe": "Zoo Breslau",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-hydropolis-wroclaw-extra",
+    "nameDe": "Hydropolis Breslau",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-karkonosze-national-park-extra",
+    "nameDe": "Nationalpark Riesengebirge",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-church-of-peace-swidnica-extra",
+    "nameDe": "Friedenskirche Świdnica",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-church-of-peace-jawor-extra",
+    "nameDe": "Friedenskirche Jawor",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "industry-fiat-auto-poland-tychy-extra",
+    "nameDe": "Fiat Auto Poland Tychy",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "agriculture-zywiec-brewery-extra",
+    "nameDe": "Brauerei Żywiec",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "landmark-beskid-mountains-extra",
+    "nameDe": "Beskiden",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-wielkopolski-national-park-extra",
+    "nameDe": "Nationalpark Großpolen",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "nature-ojcow-national-park-extra",
+    "nameDe": "Nationalpark Ojców",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-wieliczka-salt-mine-extra",
+    "nameDe": "Salzbergwerk Wieliczka",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "kid-landmark-bochnia-salt-mine-extra",
+    "nameDe": "Salzbergwerk Bochnia",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "agriculture-bieszczady-forested-area-extra",
+    "nameDe": "Forstwirtschaft Bieszczady",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  },
+  {
+    "id": "agriculture-podlaskie-stork-villages-extra",
+    "nameDe": "Storchendörfer in Podlachien",
+    "file": "lib/visualLab/data/poiExtraPolandOther.ts",
+    "hasDescDe": false,
+    "existingDescDe": "",
+    "hasFactsDe": false,
+    "existingFactsDe": []
+  }
+]

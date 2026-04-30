@@ -172,33 +172,7 @@ export const latviaAllPoi = [
       en: ["Cēsis Medieval Castle", "Historic old town"]
     },
     image: "/images/visualLab/latvia/cesis.jpg"
-  },
-  {
-    id: "lv-liepaja",
-    type: "city",
-    parent: "lv-country",
-    coords: [21.0108, 56.5047],
-    name: {
-      de: "Liepāja",
-      hu: "Liepāja",
-      ro: "Liepāja",
-      en: "Liepāja"
-    },
-    description: {
-      de: "Die drittgrößte Stadt Lettlands, bekannt als die 'Stadt, in der der Wind geboren wird'.",
-      hu: "Lettország harmadik legnagyobb városa, amelyet 'a város, ahol a szél születik' néven is ismernek.",
-      ro: "Al treilea oraș ca mărime din Letonia, cunoscut ca 'orașul unde se naște vântul'.",
-      en: "The third-largest city in Latvia, known as the 'city where the wind is born'."
-    },
-    facts: {
-      de: ["Eisfreier Hafen", "Karosta-Gefängnis"],
-      hu: ["Jégmentes kikötő", "Karosta börtön"],
-      ro: ["Port fără gheață", "Închisoarea Karosta"],
-      en: ["Ice-free port", "Karosta Prison"]
-    },
-    image: "/images/visualLab/latvia/liepaja.jpg"
-  },
-  {
+  },{
     id: "lv-gauja",
     type: "landmark",
     parent: "lv-country",
@@ -222,33 +196,7 @@ export const latviaAllPoi = [
       en: ["Established in 1973", "Devonian sandstone cliffs"]
     },
     image: "/images/visualLab/latvia/gauja.jpg"
-  },
-  {
-    id: "lv-rundale",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [24.0244, 56.4133],
-    name: {
-      de: "Schloss Rundāle",
-      hu: "Rundāle palota",
-      ro: "Palatul Rundāle",
-      en: "Rundāle Palace"
-    },
-    description: {
-      de: "Eines der bedeutendsten Barock- und Rokokoschlösser in Lettland, entworfen von Rastrelli.",
-      hu: "Lettország egyik legjelentősebb barokk és rokokó kastélya, amelyet Rastrelli tervezett.",
-      ro: "Unul dintre cele mai importante palate baroce și rococo din Letonia, proiectat de Rastrelli.",
-      en: "One of the most significant Baroque and Rococo palaces in Latvia, designed by Rastrelli."
-    },
-    facts: {
-      de: ["Barockarchitektur", "Französischer Garten"],
-      hu: ["Barokk építészet", "Francia kert"],
-      ro: ["Arhitectură barocă", "Grădină franceză"],
-      en: ["Baroque architecture", "French garden"]
-    },
-    image: "/images/visualLab/latvia/rundale.jpg"
-  },
-  {
+  },{
     id: "lv-jelgava",
     type: "city",
     parent: "lv-country",
@@ -1852,56 +1800,6 @@ export const latviaAllPoi = [
 
 export const latviaCities = [
   {
-    id: "city-riga",
-    type: "city",
-    parent: "lv-country",
-    coords: [24.1052, 56.9496],
-    name: {
-      de: "Riga",
-      hu: "Riga",
-      ro: "Riga",
-      en: "Riga"
-    },
-    description: {
-      de: "Die Hauptstadt Lettlands mit UNESCO-geschützter Altstadt und berühmter Jugendstilarchitektur.",
-      hu: "Lettország fővárosa, UNESCO-védett óvárossal és híres jugendstil építészettel.",
-      ro: "Capitala Letoniei, cu un centru vechi protejat de UNESCO și arhitectură Art Nouveau celebră.",
-      en: "The capital of Latvia, with a UNESCO-listed old town and famous Art Nouveau architecture."
-    },
-    facts: {
-      de: ["Hauptstadt Lettlands", "UNESCO-geschützte Altstadt"],
-      hu: ["Lettország fővárosa", "UNESCO-védett óváros"],
-      ro: ["Capitala Letoniei", "Centrul vechi este UNESCO"],
-      en: ["Capital of Latvia", "UNESCO-listed old town"]
-    },
-    image: "/geo-images/latvia/city-riga.webp"
-  },
-  {
-    id: "city-jurmala",
-    type: "city",
-    parent: "lv-country",
-    coords: [23.7708, 56.9678],
-    name: {
-      de: "Jūrmala",
-      hu: "Jūrmala",
-      ro: "Jūrmala",
-      en: "Jūrmala"
-    },
-    description: {
-      de: "Ein beliebter Badeort an der Küste neben Riga mit langen Sandstränden und Holzvillen.",
-      hu: "Népszerű tengerparti üdülőhely Riga mellett, hosszú homokos strandokkal és fa villákkal.",
-      ro: "O stațiune de litoral populară lângă Riga, cu plaje lungi de nisip și vile din lemn.",
-      en: "A popular seaside resort next to Riga, known for long sandy beaches and wooden villas."
-    },
-    facts: {
-      de: ["Badeort an der Ostsee", "Bekannt für Holzvillen"],
-      hu: ["Balti-tengeri üdülőhely", "Fa villáiról ismert"],
-      ro: ["Stațiune la Marea Baltică", "Cunoscută pentru vilele din lemn"],
-      en: ["Baltic Sea resort", "Known for wooden villas"]
-    },
-    image: "/geo-images/latvia/city-jurmala.webp"
-  },
-  {
     id: "city-liepaja",
     type: "city",
     parent: "lv-country",
@@ -1953,135 +1851,9 @@ export const latviaCities = [
   }
 ];
 
-export const latviaCulture = [
-  {
-    id: "cult-riga-oldtown",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [24.1055, 56.9495],
-    name: {
-      de: "Altstadt Riga",
-      hu: "Riga óváros",
-      ro: "Centrul vechi Riga",
-      en: "Riga Old Town"
-    },
-    description: {
-      de: "UNESCO-Altstadt mit hanseatischem Erbe und dichter Jugendstilkulisse.",
-      hu: "UNESCO-óváros hanza örökséggel és sűrű jugendstil környezettel.",
-      ro: "Centrul vechi UNESCO cu moștenire hanseatică și un puternic decor Art Nouveau.",
-      en: "A UNESCO old town with Hanseatic heritage and dense Art Nouveau surroundings."
-    },
-    facts: {
-      de: ["UNESCO-Welterbe", "Hanseatische Altstadt"],
-      hu: ["UNESCO világörökség", "Hanza-kori óváros"],
-      ro: ["Patrimoniu UNESCO", "Oraș vechi hanseatic"],
-      en: ["UNESCO World Heritage", "Hanseatic old town"]
-    },
-    image: "/geo-images/latvia/cult-riga-oldtown.webp"
-  },
-  {
-    id: "cult-rundale",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [24.0242, 56.4144],
-    name: {
-      de: "Schloss Rundāle",
-      hu: "Rundāle-palota",
-      ro: "Palatul Rundāle",
-      en: "Rundāle Palace"
-    },
-    description: {
-      de: "Ein barockes Residenzschloss aus dem 18. Jahrhundert, entworfen von Rastrelli.",
-      hu: "18. századi barokk rezidenciapalota, Rastrelli tervei alapján.",
-      ro: "Un palat rezidențial baroc din secolul al XVIII-lea, proiectat de Rastrelli.",
-      en: "An 18th-century Baroque residence palace designed by Rastrelli."
-    },
-    facts: {
-      de: ["Barockpalast", "Entworfen von Rastrelli"],
-      hu: ["Barokk palota", "Rastrelli tervezte"],
-      ro: ["Palat baroc", "Proiectat de Rastrelli"],
-      en: ["Baroque palace", "Designed by Rastrelli"]
-    },
-    image: "/geo-images/latvia/cult-rundale.webp"
-  },
-  {
-    id: "cult-turaida",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [24.8611, 57.1833],
-    name: {
-      de: "Burg Turaida",
-      hu: "Turaida-kastély",
-      ro: "Castelul Turaida",
-      en: "Turaida Castle"
-    },
-    description: {
-      de: "Eine mittelalterliche rote Backsteinburg im Gauja-Tal mit starkem historischen Charakter.",
-      hu: "Középkori vörös-téglás vár a Gauja-völgyben, erős történelmi hangulattal.",
-      ro: "Un castel medieval din cărămidă roșie în valea Gauja, cu un puternic caracter istoric.",
-      en: "A medieval red-brick castle in the Gauja Valley with a strong historical character."
-    },
-    facts: {
-      de: ["Mittelalterliche Burg", "Im Gauja-Tal"],
-      hu: ["Középkori vár", "A Gauja-völgyben"],
-      ro: ["Castel medieval", "În valea Gauja"],
-      en: ["Medieval castle", "In the Gauja Valley"]
-    },
-    image: "/geo-images/latvia/cult-turaida.webp"
-  },
-  {
-    id: "cult-cesis",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [25.2722, 57.3125],
-    name: {
-      de: "Burg Cēsis",
-      hu: "Cēsis-vár",
-      ro: "Castelul Cēsis",
-      en: "Cēsis Castle"
-    },
-    description: {
-      de: "Eine livländische Ordensburg mit gut erhaltener mittelalterlicher Atmosphäre.",
-      hu: "Livónia-rendi vár jól megőrzött középkori hangulattal.",
-      ro: "Un castel al Ordinului Livonian cu o atmosferă medievală bine păstrată.",
-      en: "A Livonian Order castle with a well-preserved medieval atmosphere."
-    },
-    facts: {
-      de: ["Livländische Ordensburg", "Mittelalterliche Ruine"],
-      hu: ["Livónia-rendi vár", "Középkori romok"],
-      ro: ["Castel al Ordinului Livonian", "Ruine medievale"],
-      en: ["Livonian Order castle", "Medieval ruins"]
-    },
-    image: "/geo-images/latvia/cult-cesis.webp"
-  }
-];
+export const latviaCulture = [];
 
 export const latviaNature = [
-  {
-    id: "nat-gauja",
-    type: "landmark",
-    parent: "lv-country",
-    coords: [24.9, 57.3],
-    name: {
-      de: "Gauja-Nationalpark",
-      hu: "Gauja Nemzeti Park",
-      ro: "Parcul Național Gauja",
-      en: "Gauja National Park"
-    },
-    description: {
-      de: "Lettlands größter Nationalpark, oft als Livländische Schweiz bezeichnet.",
-      hu: "Lettország legnagyobb nemzeti parkja, gyakran Livóniai-Svájcként emlegetik.",
-      ro: "Cel mai mare parc național al Letoniei, adesea numit Elveția Livoniană.",
-      en: "Latvia's largest national park, often called the Livonian Switzerland."
-    },
-    facts: {
-      de: ["Größter Nationalpark Lettlands", "Gauja-Tal"],
-      hu: ["Lettország legnagyobb NP-je", "Gauja-völgy"],
-      ro: ["Cel mai mare parc național", "Valea Gauja"],
-      en: ["Largest national park in Latvia", "Gauja Valley"]
-    },
-    image: "/geo-images/latvia/nat-gauja.webp"
-  },
   {
     id: "nat-kemeri",
     type: "landmark",

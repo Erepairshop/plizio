@@ -1,0 +1,152 @@
+[
+  {
+    "id": "jardin-botanico-la-laguna-life-v2",
+    "desc_en": "La Laguna Botanical Garden is one of El Salvador's most unique natural attractions, situated at the bottom of an extinct volcanic crater. Opened to the public in the 1970s, it has since become one of the region's most important botanical centers. The crater walls provide natural protection for the plants, creating a microclimate that supports lush tropical vegetation. Visitors can discover more than 3,500 plant species while walking along carefully maintained paths. The area also features a small pond that is home to various aquatic birds and turtles. Geography K7",
+    "facts_en": ["Officially opened to visitors in 1978.", "The garden covers approximately 30 hectares within the crater.", "It is home to more than 3,500 different plant species.", "It is located in the Antiguo Cuscatlán district of the capital."]
+  },
+  {
+    "id": "parque-natural-balboa-life-v2",
+    "desc_en": "Balboa Natural Park is one of San Salvador's most popular recreational areas, located just a few kilometers from the capital. The park is covered by dense forest that provides fresh air and cooling shade on hot days. Numerous paths wind through the giant trees, where visitors can observe local birdlife and tropical flora. The park is famous for its handicraft vendors and traditional Salvadoran food, especially pupusas, which can be enjoyed near the viewpoints. It is an excellent location for families, featuring playgrounds and picnic areas for visitors. Geography K7",
+    "facts_en": ["Located in the Planes de Renderos area in southern San Salvador.", "The park sits at an altitude of 1,070 meters above sea level.", "It is famous for the stone sculptures found throughout the park.", "It is a central hub for local gastronomy, particularly the traditional pupusa."]
+  },
+  {
+    "id": "parque-bicentenario-el-espino-life-v2",
+    "desc_en": "Bicentennial Park was created for the 200th anniversary of El Salvador's independence and is considered the 'lungs' of the capital. This massive green space is part of the protected El Espino forest, which plays a critical role in the city's water supply and air quality. The park features modern infrastructure, including safe running tracks, bike paths, and picnic zones. Many wild animals, such as squirrels and various birds, have found refuge among the dense vegetation. It is an ideal location for those seeking peace close to nature away from the city bustle. Geography K7",
+    "facts_en": ["Opened to the general public in 2011.", "The park covers an area of more than 91 hectares.", "It is shared between two cities, San Salvador and Antiguo Cuscatlán.", "More than 500 species of birds and animals live within its territory."]
+  },
+  {
+    "id": "parque-nacional-el-boqueron-life-v2",
+    "desc_en": "El Boquerón National Park is located on top of the monumental San Salvador Volcano and offers stunning views of the massive crater. The crater is 1.5 kilometers wide and 558 meters deep, and a smaller crater called 'Boqueroncito' can be found inside it. Due to its high altitude, the air here is much cooler than in the city below, making fog and cloud forest vegetation common. A series of built-up viewpoints allow a look into the volcano's throat, where the power of nature is within reach. Numerous paths lead through rich flora where orchids and wild flowers bloom. Geography K8",
+    "facts_en": ["The last major eruption of the volcano occurred in 1917.", "Its highest point is 1,893 meters above sea level.", "The small cone at the bottom of the crater is named 'Boqueroncito'.", "The park is reachable in just 30 minutes by car from the capital city."]
+  },
+  {
+    "id": "brews-coffee-finca-el-boqueron-life-v2",
+    "desc_en": "Brews Coffee is a cozy cafe and rest stop on the side of the San Salvador Volcano, connected to the famous Finca El Boquerón plantation. Here, visitors can taste some of the country's highest quality coffee directly at the source while enjoying the panorama of the hillside. The plantation uses the richness of the volcanic soil to grow Arabica coffee, which is processed using traditional methods. The cafe blends modern and rustic elements, providing the perfect setting for a refreshing break after climbing the volcano. In addition to coffee, they offer local cakes and sweets that complete the gastronomic experience. Geography K7",
+    "facts_en": ["Located directly along the road leading to the volcano's summit.", "Their specialty is locally roasted and ground Arabica coffee.", "The city of San Salvador and its surroundings are visible from the terrace.", "They sell their own brand of coffee products as souvenirs."]
+  },
+  {
+    "id": "zoologico-nacional-san-salvador-life-v2",
+    "desc_en": "The National Zoo of San Salvador has been a favorite weekend destination for Salvadoran families for generations. The zoo aims not only to display animals but also to provide education and protect Central American species. The area is home to dozens of mammal, bird, and reptile species, including rarities such as jaguars, spectacled bears, and magnificent macaws. The garden's lush vegetation and winding paths allow for a pleasant walk even during the hottest hours. The zoo plays an important role in rehabilitating injured wildlife and increasing environmental awareness in the country. Science K7",
+    "facts_en": ["Opened at its current location on May 26, 1953.", "The facility covers an area of more than 8 hectares.", "It showcases many animal species native to the Central American region.", "It is located near the historic center of the city."]
+  },
+  {
+    "id": "walter-thilo-deininger-life-v2",
+    "desc_en": "Walter Thilo Deininger National Park is a rare natural treasure on El Salvador's coast where the tropical dry forest ecosystem remains intact. This type of forest is extremely important because it changes drastically with the seasons, becoming deciduous in the dry season and turning lush green during the rains. Within the park, many wild animals such as deer, iguanas, and over 100 bird species find refuge. For the adventurous, caves, viewpoints, and adventure courses are available along the forest paths. The park was named after a philanthropist of German descent who donated the land to the state for conservation. Geography K8",
+    "facts_en": ["The park covers a total area of 732 hectares.", "Located in the La Libertad department near the coastline.", "One of its main attractions is the 'La Cueva del Encanto' cave.", "It possesses high biodiversity, including rare reptile species."]
+  },
+  {
+    "id": "tamanique-waterfalls-life-v2",
+    "desc_en": "The Tamanique Waterfalls are a series of stunning cascades hidden in a deep river valley near the village of Tamanique. Reaching the waterfalls involves a steep but spectacular hike through the hillside, offering views of the Pacific Ocean along the way. The water plunges down several levels of cliffs, creating natural pools where visitors can soak in the refreshing, clear water. The brave can even jump from higher rocks into the deeper pools. The surrounding lush vegetation and the sound of splashing water create a true tropical paradise atmosphere away from the coastal bustle. Geography K7",
+    "facts_en": ["The hike begins from the mountain village of Tamanique.", "There are a total of four major waterfalls situated one below the other.", "The round-trip hike takes approximately 1.5 to 2 hours.", "The water temperature remains constantly cool and refreshing."]
+  },
+  {
+    "id": "san-diego-beach-life-v2",
+    "desc_en": "San Diego Beach is one of El Salvador's widest and flattest sandy beaches, ideal for long walks and relaxation. Unlike the neighboring rocky surf paradises, dunes and spacious sandy plains dominate here, creating a special ecosystem. The area is an important nesting site for sea turtles, and nearby river estuaries are home to rich birdlife. Numerous small restaurants and accommodations can be found along the coast, which have preserved their authentic, family atmosphere. San Diego is particularly popular among locals seeking calmer waters and an endless horizon. Geography K7",
+    "facts_en": ["Located just 10 minutes from the port city of La Libertad.", "The sand is dark gray and of volcanic origin.", "It is a popular location for turtle conservation programs.", "The beach stretches for several kilometers along the coastline."]
+  },
+  {
+    "id": "el-espino-beach-life-v2",
+    "desc_en": "El Espino is one of the most beautiful beaches in eastern El Salvador, located near the massive Jiquilisco Bay. The beach is famous for its extraordinary width and slowly deepening water, which makes swimming safe. The area's ecological importance is outstanding as it is directly connected to mangrove forests, providing a home for many migratory birds and endangered sea turtles. Coconut palms line the shore, and the atmosphere is much quieter than on the more popular beaches of the western coast. This location is perfect for those who want to disconnect from the modern world and experience the tranquility of untouched nature. Geography K7",
+    "facts_en": ["Located in the Usulután department.", "It features more than 10 kilometers of continuous sandy beach.", "One of the most important spawning grounds for sea turtles in the country.", "It is close to the Jiquilisco Bay Biosphere Reserve."]
+  },
+  {
+    "id": "bahia-de-jiquilisco-life-v2",
+    "desc_en": "Jiquilisco Bay is El Salvador's largest continuous mangrove ecosystem and an UNESCO Biosphere Reserve. This massive wetland consists of a labyrinth-like network of channels, lagoons, and more than 20 small islands where life takes place at the edge of water and land. The bay is a crucial refuge for critically endangered Hawksbill turtles and is home to one of Central America's most significant waterbird populations. Visitors can explore the world among dense roots on boat tours, where crocodiles, monkeys, and rare bird species also appear. Sustainable fishing and ecotourism in the bay area provide livelihoods for local communities. Geography K8",
+    "facts_en": ["It is an UNESCO Biosphere Reserve and a Ramsar site.", "The area covers approximately 635 square kilometers.", "A significant portion of the world's Hawksbill turtle population nests here.", "It consists of more than 27 islands and sandbars."]
+  },
+  {
+    "id": "nancuchiname-forest-life-v2",
+    "desc_en": "Nancuchiname Forest is one of El Salvador's last remaining tropical lowland forests, located on the Usulután plains in the eastern part of the country. This reserve is a vital link between inland forests and the mangrove systems of Jiquilisco Bay. The area's rich biodiversity is impressive, with animals like spider monkeys, ocelots, and countless colorful bird species living under massive ceiba and mahogany trees. The forest plays an important role in regulating the local climate and preserving groundwater. Well-developed paths allow visitors to observe wildlife in its natural, undisturbed environment. Geography K8",
+    "facts_en": ["Created through the rewilding of former agricultural lands.", "Plays a central role in the protection of spider monkeys.", "Located near the lower section of the Lempa River.", "Includes more than 1,000 hectares of protected territory."]
+  },
+  {
+    "id": "chaguantique-reserve-life-v2",
+    "desc_en": "Chaguantique Reserve is a hidden gem near the town of Jiquilisco, named after the local Nahuatl word for 'place of springs'. This area is particularly famous for a significant population of spider monkeys, which visitors can often spot among the dense foliage. Crystal-clear springs emerge within the reserve, providing a constant water supply for the lush vegetation and rich wildlife. Additionally, the reserve is famous for its blue butterflies and rare bird species that prefer the moist, tropical environment. It is an excellent example of community-based conservation where local residents actively participate in preserving the area. Geography K7",
+    "facts_en": ["The name means 'place among the springs' in the Nahuatl language.", "It is one of the best places in the country to observe spider monkeys.", "The reserve features natural pools and freshwater springs.", "It forms an important ecological corridor along the coastline."]
+  },
+  {
+    "id": "laguna-el-jocotal-life-v2",
+    "desc_en": "El Jocotal Lagoon was El Salvador's first internationally recognized Ramsar site, located at the foot of the San Miguel Volcano. This shallow, freshwater lake is one of the country's most important wildlife areas, where hundreds of thousands of migratory birds find a resting place each year. The lagoon's surface is often covered by aquatic vegetation, providing ideal nesting sites for waterbirds like ducks and herons. Local communities manage the area sustainably by placing artificial nests for the birds. Visitors can tour the lake in small boats, admiring nature's many faces and the volcano's reflection on the water. Geography K8",
+    "facts_en": ["Became the first Salvadoran Ramsar site in 1999.", "More than 200 bird species have been recorded here.", "The lake's depth averages only 1 to 3 meters.", "The San Miguel Volcano provides a spectacular backdrop to the landscape."]
+  },
+  {
+    "id": "laguna-de-olomega-life-v2",
+    "desc_en": "Olomega Lagoon is the largest freshwater lake in El Salvador's eastern region, spanning the borders of Usulután and San Miguel departments. This massive wetland plays a vital role in the local ecosystem, being home to many rare bird species and aquatic organisms. The lives of fishing communities living around the lake are closely intertwined with the water, as they catch their daily food using traditional methods. The lagoon area is particularly magical at sunset when the silhouettes of surrounding mountains and flocks of birds are reflected on the water's surface. In recent years, ecotourism has also grown, offering visitors the chance to explore the landscape and local culture. Geography K7",
+    "facts_en": ["The lake covers an area of approximately 24 square kilometers.", "It was declared a Ramsar site in 2010.", "It contains several small islands, such as 'Isla de Olomega'.", "It is an important stop on the Central American bird migration route."]
+  },
+  {
+    "id": "parque-nacional-montecristo-life-v2",
+    "desc_en": "Montecristo National Park is a mystical cloud forest where the borders of El Salvador, Guatemala, and Honduras meet at a point called 'Punto Trifinio'. This park is one of the country's most pristine natural areas, where giant ferns, mosses, and orchids create a truly fairytale world. At an altitude of 2,400 meters above sea level, the air is cool and moist, and clouds often drift through the treetops. Rare animal species live here, including the quetzal, spectacled bear, and pumas. Access to the park is limited to protect nature, but designated campsites and trails offer an unforgettable experience for adventurers. Geography K8",
+    "facts_en": ["Part of the 'El Trifinio' Biosphere Reserve.", "Its highest point is Cerro Montecristo at 2,418 meters.", "Home to one of the country's last untouched cloud forests.", "The orchid garden showcases more than 100 local species."]
+  },
+  {
+    "id": "cerro-verde-national-park-life-v2",
+    "desc_en": "Cerro Verde National Park is situated on top of an extinct volcano and offers one of the best views of El Salvador's two other iconic volcanoes: Izalco and Santa Ana. The park's dense cloud forest is home to rich flora and fauna, where more than 120 bird species nest. Nature trails designed for visitors lead through the 'path of flowers', where exotic blooms and ferns decorate the way. A special feature of Cerro Verde is the 'Hotels and Volcanoes' complex, which radiates a historic atmosphere. The park is a perfect starting point for climbing neighboring volcanoes or simply enjoying the clean mountain air and stunning panorama. Geography K8",
+    "facts_en": ["Part of the Volcanoes Complex (Complejo de los Volcanes).", "Sits at an altitude of 2,030 meters above sea level.", "Located in direct proximity to the Izalco Volcano.", "Famous for its 'cloud forest' ecosystem and numerous orchids."]
+  },
+  {
+    "id": "lago-de-guija-life-v2",
+    "desc_en": "Lake Güija is a massive body of water of volcanic origin located on the border between El Salvador and Guatemala. The lake is surrounded by several extinct volcanoes, such as San Diego and El Tule, which provide a dramatic backdrop to the landscape. This wetland is crucial for waterbirds, and important archaeological finds have been discovered on islands in the middle of the lake, testifying to ancient Maya presence. Fishing is the main source of income for communities living in the area, and visitors can take boat trips on the clear blue water. The lake area is quiet and pristine, ideal for nature lovers. Geography K7",
+    "facts_en": ["The lake covers an area of 45 square kilometers.", "Created by a volcanic dam thousands of years ago.", "Part of an UNESCO Biosphere Reserve.", "Contains several small islands, such as 'Isla de Teotipa'."]
+  },
+  {
+    "id": "lago-de-coatepeque-life-v2",
+    "desc_en": "Lake Coatepeque is one of El Salvador's most spectacular natural formations, a large lake formed within a massive volcanic crater. Due to the crystal-clear water and the view of surrounding mountains, it is often called one of the most beautiful lakes in the world. A unique feature is that in certain years, the water color mysteriously turns turquoise due to minerals and algae. The lake is an ideal location for water sports such as diving, sailing, and kayaking. Elegant villas and cozy restaurants line the shore, where visitors can also see Teopán Island in the middle of the lake, which was once a sacred place for the Maya. Geography K8",
+    "facts_en": ["Situated in a large caldera formed between 25,000 and 72,000 years ago.", "Its maximum depth reaches 115 meters.", "Teopán Island served as a Maya ceremonial center.", "In 2013, it was a runner-up for the 'Eighth Wonder of the World' title."]
+  },
+  {
+    "id": "coffee-farms-ruta-de-las-flores-life-v2",
+    "desc_en": "The Ruta de las Flores (Route of Flowers) is El Salvador's most famous tourist route, leading through picturesque colonial towns and endless coffee plantations. The region's cool climate and fertile volcanic soil provide perfect conditions for growing Arabica coffee certified as 'Strictly High Grown'. Visitors can participate in coffee tours where they learn about the process from caring for the shrubs to harvesting and roasting. The plantations are not only of economic importance but also provide an important ecological refuge for local birdlife. During the seasonal blooming, roadside gardens and hillsides are covered in vibrant colors. Geography K7",
+    "facts_en": ["The most famous coffee-growing region in the country.", "Includes the towns of Ataco, Apaneca, and Juayúa.", "Altitude ranges between 1,000 and 1,500 meters above sea level.", "Many 'fincas' (estates) offer accommodation and coffee tastings."]
+  },
+  {
+    "id": "concepcion-de-ataco-coffee-hills-life-v2",
+    "desc_en": "The rolling hills around the town of Concepción de Ataco form the heart of El Salvador's coffee production. These hillsides create an almost continuous green carpet, occasionally interrupted by a winding road or a distant manor house. The coffee produced here is considered among the best in the world for its aroma and smoothness. Most plantations tucked among the hills produce shade-grown coffee, which helps preserve the structure of native forests. For visitors, viewpoints on the hilltops offer stunning panoramas of misty peaks and the town's colorful rooftops. Geography K7",
+    "facts_en": ["Famous for the 'Borbollón' and 'El Carmen' estates.", "The town of Ataco is also known for its murals and handicrafts.", "The region enjoys cool, spring-like weather throughout the year.", "An important stop for coffee tourism in El Salvador."]
+  },
+  {
+    "id": "apaneca-laguna-verde-life-v2",
+    "desc_en": "Laguna Verde is a magical, greenish-water lake located in the crater of an extinct volcano near the town of Apaneca. The lake gets its name from the dense forests and vegetation reflected in its waters. The area is often covered in thick fog, giving the landscape a mystical and peaceful atmosphere. A well-maintained path surrounds the lagoon, which is ideal for easy nature walks and enjoying the fresh mountain air. Coffee plantations and cypress forests alternate in the surroundings, and rest areas await hikers on the lakeshore. It is a true sanctuary for those seeking silence and untouched nature. Geography K7",
+    "facts_en": ["Situated at an altitude of over 1,600 meters above sea level.", "Located in the Apaneca mountains in the Ahuachapán department.", "Easily accessible by off-road vehicle or by hiking.", "The water color appears green due to algae and reflection."]
+  },
+  {
+    "id": "apaneca-laguna-las-ninfas-life-v2",
+    "desc_en": "Laguna Las Ninfas is a small but ecologically extremely rich wetland in the high-altitude region of Apaneca. The lake takes its name from the countless water lilies floating on its surface, which cover the water in white when in bloom. The lake is surrounded by a dense, misty forest that provides a special microclimate and constant moisture for rare plant species. The area is famous for its rich birdlife, especially hummingbirds and migratory waterbirds. Although smaller than the neighboring Laguna Verde, its pristine nature and silence make it a favorite destination for nature photographers. Geography K8",
+    "facts_en": ["The name means 'Lagoon of the Nymphs'.", "Famous for the water lilies covering its surface.", "A wetland formed within a volcanic crater.", "Part of an UNESCO Biosphere Reserve."]
+  },
+  {
+    "id": "laberinto-de-albania-life-v2",
+    "desc_en": "Laberinto de Albania is one of El Salvador's most exciting newer tourist attractions, located among the cool mountains of Apaneca. This is the largest hedge maze in Central America, consisting of more than 2,000 cypress trees, and offers a logical and navigational challenge to visitors. The park is not only famous for the maze but also offers many other adventure opportunities, such as a bicycle zip line, extreme swings, and surf simulators on the hillside. From the site, there is an impressive view of the surrounding coffee plantations and mountains. It is an excellent choice for families seeking nature-based fun and adventure. Geography K7",
+    "facts_en": ["Built from more than 2,000 cypress trees.", "A lookout tower is located in the middle of the maze.", "It is the largest hedge maze in Central America.", "The site offers several extreme sports opportunities."]
+  },
+  {
+    "id": "parque-nacional-el-imposible-life-v2",
+    "desc_en": "El Imposible National Park is El Salvador's most important natural reserve, named after the difficulty of crossing its deep canyons and steep cliffs. This massive tropical forest is home to the country's greatest biodiversity, including hundreds of bird species, mammals like ocelots and wild boars, and rare reptiles. The park's dramatic landscapes are dotted with crystal-clear rivers, waterfalls, and breathtaking viewpoints. Hikers can explore the depths of the primary forest on trails of various difficulty levels while learning about the area's rich cultural heritage. El Imposible is a bastion of conservation in the country and one of the last refuges for many endangered species. Geography K8",
+    "facts_en": ["Founded in 1989, it covers nearly 4,000 hectares.", "Named after a once-dangerous mountain pass.", "Home to more than 500 bird species and 100 mammal species.", "The headwaters of eight different rivers are located within its territory."]
+  },
+  {
+    "id": "barra-de-santiago-mangroves-life-v2",
+    "desc_en": "Barra de Santiago is a stunning estuary area on the coast of Ahuachapán department, where river water meets the salty waves of the Pacific Ocean. This area is one of El Salvador's richest mangrove ecosystems, providing refuge for many animal species with its labyrinth-like channels. Visitors can explore the dense vegetation by boat, where crocodiles, sea turtles, and countless exotic birds are often seen. The area is attractive not only for its nature but also for tourism, thanks to clean sandy beaches and local restaurants offering fresh seafood. The community actively participates in turtle protection programs. Geography K7",
+    "facts_en": ["A protected wetland and Ramsar site.", "Famous for its turtle protection and hatching programs.", "Considered one of the most beautiful estuaries in Central America.", "An important habitat for the rare American crocodile."]
+  },
+  {
+    "id": "bosque-cinquera-life-v2",
+    "desc_en": "Cinquera Forest is a symbol of hope and rebirth in El Salvador, as the local community worked together to regenerate an area severely damaged during the civil war. Today, this subtropical forest is a thriving ecosystem where lush vegetation and songbirds are now found in place of former trenches. During guided tours, visitors can learn not only about the rich flora and fauna but also about the forest's historical significance. Numerous waterfalls and natural pools make the area even more attractive for hikers. The commitment of local residents to environmental protection is exemplary for the entire country. Geography K8",
+    "facts_en": ["A community-managed ecological park.", "Famous for its accommodation called 'La Posada del Bosque'.", "Played an important role in El Salvador's modern history.", "Possesses rich biodiversity, including rare butterflies and birds."]
+  },
+  {
+    "id": "meanguera-island-life-v2",
+    "desc_en": "Meanguera Island is a hidden volcanic gem in the heart of the Gulf of Fonseca, where time seems to have stood still. This is the southernmost inhabited territory belonging to El Salvador, where locals live mainly from fishing and handicrafts. The island features dramatic cliffs, hidden coves, and dark sand beaches paired with crystal-clear waters. The hilly terrain offers excellent hiking opportunities with views of the entire gulf, including the coasts of Honduras and Nicaragua. The island's authentic atmosphere, welcoming community, and proximity to the sea provide a unique experience for adventurous travelers. Geography K7",
+    "facts_en": ["The largest Salvadoran island in the Gulf of Fonseca.", "Of volcanic origin with hilly terrain.", "Famous for its fresh seafood and the 'mariscada' dish.", "Accessible only by boat from the port of La Unión."]
+  },
+  {
+    "id": "conchagua-volcano-wildlife-life-v2",
+    "desc_en": "Conchagua Volcano rises in the southeastern tip of El Salvador and offers one of the country's most impressive natural viewpoints. The slopes of the volcano are covered with dense tropical forest that is home to many bird species and mammals. From the summit, particularly from the point called 'Espíritu de la Montaña', there is a breathtaking panorama of the Gulf of Fonseca where the islands and coasts of El Salvador, Honduras, and Nicaragua meet. The volcano area is quiet and less crowded than the volcanoes of the central region, making it ideal for peaceful nature walks. Geography K8",
+    "facts_en": ["The highest point is Cerro del Ocote at 1,225 meters.", "It has two main peaks: Cerro Santiago and Cerro del Ocote.", "One of its most popular spots is the 'Espíritu de la Montaña' viewpoint.", "Its name comes from the local Lenca indigenous culture."]
+  },
+  {
+    "id": "gulf-of-fonseca-mangroves-life-v2",
+    "desc_en": "The mangrove ecosystem of the Gulf of Fonseca is a shared natural treasure of El Salvador, Honduras, and Nicaragua, possessing extraordinary ecological importance. This massive wetland serves as a natural filter and protective barrier for the coastline while providing a nursery for countless marine species. Along winding channels, red, black, and white mangrove trees form an impenetrable wall where herons, pelicans, and frigatebirds nest in large numbers. Visitors can tour the waterways by motorboat, observing the daily lives of fishers and wild animals. The tranquility of the gulf and the pristine nature radiate a special atmosphere. Geography K8",
+    "facts_en": ["Shared by three countries: El Salvador, Honduras, and Nicaragua.", "Critically important for maintaining marine biodiversity.", "A wintering site for many rare migratory birds.", "Rich in crustaceans and mollusks, which form the basis of the local economy."]
+  }
+]

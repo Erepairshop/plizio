@@ -1,0 +1,60 @@
+can_cap",    name: { de: "Ottawa", hu: "Ottawa", ro: "Ottawa", en: "Ottawa
+can_tor",    name: { de: "Toronto", hu: "Toronto", ro: "Toronto", en: "Toronto
+can_mon",    name: { de: "Montreal", hu: "Montreal", ro: "Montreal", en: "Montreal
+can_van",    name: { de: "Vancouver", hu: "Vancouver", ro: "Vancouver", en: "Vancouver
+can_cal",    name: { de: "Calgary", hu: "Calgary", ro: "Calgary", en: "Calgary
+can_edm",    name: { de: "Edmonton", hu: "Edmonton", ro: "Edmonton", en: "Edmonton
+can_que",    name: { de: "Quebec City", hu: "Quebec City", ro: "Quebec City", en: "Quebec City
+can_win",    name: { de: "Winnipeg", hu: "Winnipeg", ro: "Winnipeg", en: "Winnipeg
+can_hal",    name: { de: "Halifax", hu: "Halifax", ro: "Halifax", en: "Halifax
+can_vic",    name: { de: "Victoria", hu: "Victoria", ro: "Victoria", en: "Victoria
+can_ss",    name: { de: "Saskatoon", hu: "Saskatoon", ro: "Saskatoon", en: "Saskatoon
+can_reg",    name: { de: "Regina", hu: "Regina", ro: "Regina", en: "Regina
+can_stj",    name: { de: "St. John's", hu: "St. John's", ro: "St. John's", en: "St. John's
+can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown
+can_fre",    name: { de: "Fredericton", hu: "Fredericton", ro: "Fredericton", en: "Fredericton
+can_whi",    name: { de: "Whitehorse", hu: "Whitehorse", ro: "Whitehorse", en: "Whitehorse
+can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife
+can_iqa",    name: { de: "Iqaluit", hu: "Iqaluit", ro: "Iqaluit", en: "Iqaluit
+ca-mount-robson
+ca-fraser-river
+ca-great-bear-lake
+ca-algonquin-park
+ca-mount-cavell
+ca-fortress-louisbourg
+ca-anse-meadows
+can_banff",    name: { de: "Banff National Park", hu: "Banff Nemzeti Park", ro: "Parcul Național Banff", en: "Banff National Park
+can_niagara",    name: { de: "Niagarafälle", hu: "Niagara-vízesés", ro: "Cascada Niagara", en: "Niagara Falls
+can_cntower",    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower
+can_jasper",    name: { de: "Jasper National Park", hu: "Jasper Nemzeti Park", ro: "Parcul Național Jasper", en: "Jasper National Park
+can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler
+can_fundy",    name: { de: "Bay of Fundy", hu: "Fundy-öböl", ro: "Golful Fundy", en: "Bay of Fundy
+can_louise",    name: { de: "Lake Louise", hu: "Louise-tó", ro: "Lacul Louise", en: "Lake Louise
+can_mackenzie",    name: { de: "Mackenzie River", hu: "Mackenzie-folyó", ro: "Fluviul Mackenzie", en: "Mackenzie River
+can_stlawrence",    name: { de: "Sankt-Lorenz-Strom", hu: "Szent Lőrinc-folyó", ro: "Fluviul Sfântul Laurențiu", en: "St. Lawrence River
+can_rockies",    name: { de: "Kanadische Rocky Mountains", hu: "Kanadai-Sziklás-hegység", ro: "Munții Stâncoși Canadieni", en: "Canadian Rockies
+can_grosmorne",    name: { de: "Gros-Morne-Nationalpark", hu: "Gros Morne Nemzeti Park", ro: "Parcul Național Gros Morne", en: "Gros Morne
+can_logan",    name: { de: "Mount Logan", hu: "Mount Logan", ro: "Muntele Logan", en: "Mount Logan
+ca-rideau-canal
+ca-buffalo-jump
+ca-plains-abraham
+ca-peggys-cove
+ca-parliament-hill
+ca-hopewell-rocks
+ca-butchart-gardens
+ca-signal-hill
+ca-banff-grizzly
+ca-churchill-polar-bear
+ca-wood-buffalo-bison
+ca-quebec-maple
+ca-saskatchewan-wheat
+ca-okanagan-wine
+ca-canadas-wonderland
+ca-west-edmonton-mall
+ca-alberta-oil-sands
+ca-vancouver-film
+ca-toronto-finance
+ca-port-vancouver
+ca-port-halifax
+ca-baffin-island
+ca-vancouver-island

@@ -19,9 +19,9 @@ export const sanmarinoCountry: POI = {
   },
   descriptionAdvanced: {
     de: "San Marino ist ein faszinierender Zwergstaat, der auf dem Berg Titano thront. Die historischen Türme und die mittelalterliche Architektur bieten atemberaubende Ausblicke.",
-    hu: "San Marino egy lenyűgöző törpeállam, amely a Titano-hegyen magasodik. A történelmi tornyok és a középkori építészet lélegzetelállító kilátást nyújtanak.",
-    ro: "San Marino este un microstat fascinant situat pe Muntele Titano. Turnurile istorice și arhitectura medievală oferă priveliști uluitoare.",
-    en: "San Marino is a fascinating microstate perched on Mount Titano. The historic towers and medieval architecture offer breathtaking views."
+    hu: "",
+    ro: "",
+    en: ""
   },
   facts: {
     de: [
@@ -53,6 +53,12 @@ export const sanmarinoCountry: POI = {
       "Mount Titano and the historic center are a UNESCO World Heritage site."
     ]
   },
+  factsAdvanced: {
+    de: ["Die Republik San Marino ist heute eine parlamentarische Demokratie.", "Sie besitzt keine eigene Armee im traditionellen Sinne.", "Das Land verwendet den Euro, ist aber kein Mitglied der EU.", "Die Fläche beträgt nur etwa 61 Quadratkilometer.", "San Marino hat eine der niedrigsten Arbeitslosenquoten weltweit.", "Der Regierungssitz wird von zwei Staatsoberhäuptern (Capitani Reggenti) geleitet."],
+    hu: [],
+    ro: [],
+    en: []
+  },
   image: "/geo-images/sanmarino/country-sanmarino.webp"
 };
 
@@ -69,11 +75,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "Cea mai nordică și mai populată comună din San Marino.",
       en: "The northernmost and most populous municipality of San Marino."
     },
+    descriptionAdvanced: {
+      de: "Serravalle ist das industrielle Herz des Landes. Es beherbergt große Sportstätten und ist ein wichtiges Handelszentrum für die gesamte Region.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Größte Gemeinde des Landes.", "Wichtiges Industriezentrum.", "Beherbergt das Dorf Dogana."],
       hu: ["Az ország legnagyobb községe.", "Fontos ipari központ.", "Itt található Dogana faluja."],
       ro: ["Cea mai mare comună a țării.", "Important centru industrial.", "Găzduiește satul Dogana."],
       en: ["Largest municipality in the country.", "Important industrial center.", "Includes the village of Dogana."]
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde hat über 10.000 Einwohner.", "Das Olympiastadion befindet sich hier.", "Serravalle ist direkt an die italienische Adriaküste angebunden.", "Es ist der wirtschaftlich dynamischste Teil von San Marino.", "Die Stadt beherbergt bedeutende Sportvereine.", "Hier befindet sich der Sitz der staatlichen Rundfunkanstalt."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -88,11 +106,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "O comună în estul San Marino, cunoscută pentru importanța sa agricolă.",
       en: "A municipality in eastern San Marino, known for its agricultural importance."
     },
+    descriptionAdvanced: {
+      de: "Domagnano ist eine landschaftlich reizvolle Gegend, die historische archäologische Funde wie den 'Schatz von Domagnano' beherbergt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Berühmt für den Schatzfund von Domagnano.", "Bietet weite Ausblicke auf die Adria.", "Sitz der Burg Montelupo."],
       hu: ["Híres a domagnanói kincsleletről.", "Tágas kilátást nyújt az Adriai-tengerre.", "Itt volt Montelupo vára."],
       ro: ["Slăvită pentru descoperirea comorii din Domagnano.", "Oferă vederi largi spre Marea Adriatică.", "Sediul castelului Montelupo."],
       en: ["Famous for the Domagnano Treasure find.", "Offers wide views of the Adriatic Sea.", "Seat of the Montelupo castle."]
+    },
+    factsAdvanced: {
+      de: ["Der Schatz von Domagnano besteht aus gotischem Schmuck aus dem 5. Jahrhundert.", "Die Gemeinde ist von sanften Hügeln umgeben.", "Domagnano ist ein Knotenpunkt für den lokalen Verkehr.", "Die landwirtschaftliche Produktion umfasst Olivenöl und Wein.", "Die Gemeinde hat eine reiche Geschichte aus der Zeit der Langobarden.", "Viele Bewohner pendeln von hier in die Hauptstadt."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -107,11 +137,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "O comună liniștită la granița de est, caracterizată de natură și agricultură.",
       en: "A quiet municipality on the eastern border, characterized by nature and agriculture."
     },
+    descriptionAdvanced: {
+      de: "Faetano bietet weitläufige Naturflächen und ist bekannt für seinen künstlichen See, der sich harmonisch in die hügelige Landschaft einfügt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Wurde 1463 Teil der Republik.", "Beherbergt einen künstlichen See zum Angeln.", "Geprägt durch hügelige Landschaften."],
       hu: ["1463-ban vált a köztársaság részévé.", "Itt található egy mesterséges horgásztó.", "Dombos tájak jellemzik."],
       ro: ["A devenit parte a republicii în 1463.", "Găzduiește un lac artificial pentru pescuit.", "Caracterizată de peisaje deluroase."],
       en: ["Became part of the republic in 1463.", "Home to an artificial lake for fishing.", "Characterized by hilly landscapes."]
+    },
+    factsAdvanced: {
+      de: ["Faetano ist besonders beliebt bei Erholungssuchenden.", "Die Region ist landwirtschaftlich geprägt.", "Faetano wurde erst spät in das Territorium eingegliedert.", "Das Gebiet bietet zahlreiche Wanderwege.", "Die Gemeinde ist sehr dünn besiedelt.", "Es gibt hier ein gut erhaltenes lokales kulturelles Erbe."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -126,11 +168,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "Cea mai mică comună din San Marino, cunoscută pentru centrul său medieval bine conservat.",
       en: "The smallest municipality in San Marino, known for its well-preserved medieval center."
     },
+    descriptionAdvanced: {
+      de: "Montegiardino besticht durch seine malerische, historische Architektur und dient als Standort der Universität von San Marino.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Sitz der Universität von San Marino.", "Hatte früher eine strategische Festung.", "Sehr malerische, enge Gassen."],
       hu: ["A San Marinó-i Egyetem székhelye.", "Korábban stratégiai erődítménye volt.", "Nagyon festői, szűk utcák."],
       ro: ["Sediul Universității din San Marino.", "Avea în trecut o fortăreață strategică.", "Străduțe înguste foarte pitorești."],
       en: ["Seat of the University of San Marino.", "Formerly had a strategic fortress.", "Very picturesque, narrow streets."]
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde liegt auf einer Anhöhe im Südosten.", "Sie bewahrt das mittelalterliche Stadtbild sehr konsequent.", "Montegiardino ist bei Studenten besonders beliebt.", "Das kulturelle Leben wird stark durch die Universität geprägt.", "Der Ort hat eine besonders ruhige und intime Atmosphäre.", "Die Architektur ist hauptsächlich aus lokalem Naturstein gefertigt."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -145,11 +199,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "O comună istorică anexată în secolul al XV-lea.",
       en: "A historic municipality annexed in the 15th century."
     },
+    descriptionAdvanced: {
+      de: "Fiorentino ist ein historischer Ort, der einst eine wichtige strategische Funktion mit einer eigenen Festung der Malatesta-Familie innehatte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Bekannt für die Ruinen der Malatesta-Burg.", "Wichtig für den lokalen Weinbau.", "Bietet schöne Wanderwege."],
       hu: ["A Malatesta-vár romjairól ismert.", "Fontos a helyi bortermelés számára.", "Szép túraútvonalakat kínál."],
       ro: ["Cunoscută pentru ruinele castelului Malatesta.", "Importantă pentru viticultura locală.", "Oferă trasee frumoase de drumeție."],
       en: ["Known for the ruins of the Malatesta castle.", "Important for local viticulture.", "Offers beautiful hiking trails."]
+    },
+    factsAdvanced: {
+      de: ["Die Landschaft um Fiorentino ist besonders fruchtbar.", "Weinbau ist ein wichtiger wirtschaftlicher Faktor.", "Die Gemeinde hat eine lange Geschichte der militärischen Bedeutung.", "Wanderwege bieten Ausblicke auf das Umland.", "Die historische Burgruine ist ein beliebtes Ausflugsziel.", "Fiorentino verbindet Tradition mit ländlicher Lebensweise."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -164,11 +230,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "O comună rurală liniştită în sud-vestul San Marino.",
       en: "A quiet rural municipality in the southwest of San Marino."
     },
+    descriptionAdvanced: {
+      de: "Chiesanuova ist geprägt von dichten Wäldern und Hügellandschaften, die sie zu einem idealen Ziel für Natur- und Wanderfreunde machen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Bekannt für seine Kiefernwälder.", "Liegt an der Grenze zur italienischen Region Marken.", "Beliebt für Naturtourismus."],
       hu: ["Fenyőerdőiről ismert.", "Az olaszországi Marche régió határán fekszik.", "Népszerű a természetjárók körében."],
       ro: ["Cunoscută pentru pădurile sale de pini.", "Situată la graniţa cu regiunea italiană Marche.", "Populară pentru turismul de natură."],
       en: ["Known for its pine forests.", "Located on the border with the Italian Marche region.", "Popular for nature tourism."]
+    },
+    factsAdvanced: {
+      de: ["Der Ort bietet einen Rückzugsort in der Natur.", "Viele Wanderwege führen durch die unberührte Landschaft.", "Der Tourismus ist stark auf Naturerlebnisse ausgerichtet.", "Die Region hat einen starken ländlichen Charakter.", "Die Nähe zu Italien beeinflusst das kulturelle Angebot.", "Der Wald von Chiesanuova bietet Erholung in den Sommermonaten."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -183,11 +261,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "Comuna centrală şi capitala situată pe Muntele Titano.",
       en: "The central municipality and capital city on Mount Titano."
     },
+    descriptionAdvanced: {
+      de: "San Marino ist das politische und kulturelle Zentrum der Republik. Die Stadt besticht durch ihr mittelalterliches Zentrum, das auf dem Monte Titano thront.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Historisches Zentrum der Republik.", "UNESCO-Welterbe.", "Sitz aller staatlichen Institutionen."],
       hu: ["A köztársaság történelmi központja.", "UNESCO világörökség.", "Az összes állami intézmény székhelye."],
       ro: ["Centrul istoric al republicii.", "Patrimoniu Mondial UNESCO.", "Sediul tuturor instituţiilor statului."],
       en: ["Historic center of the republic.", "UNESCO World Heritage site.", "Seat of all state institutions."]
+    },
+    factsAdvanced: {
+      de: ["Die Stadt ist das touristische Hauptziel des Landes.", "Hier finden alle wichtigen Staatszeremonien statt.", "Der Palazzo Pubblico dominiert das Stadtbild.", "Die Stadtmauer ist über Jahrhunderte gewachsen.", "San Marino bietet einen einzigartigen Ausblick auf die italienische Küste.", "Viele Museen in der Hauptstadt bewahren die Geschichte des Landes."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -202,11 +292,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "O comună vestică cunoscută pentru izvoarele sale naturale.",
       en: "A western municipality known for its natural springs."
     },
+    descriptionAdvanced: {
+      de: "Acquaviva ist reich an natürlichen Wasserquellen und hat eine tiefe mythologische Verbindung zum Heiligen Marinus.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Hier suchte der Heilige Marinus Zuflucht.", "Verfügt über einen modernen Motocross-Parcours.", "Reich an lokaler Flora."],
       hu: ["Szent Marinus itt keresett menedéket.", "Modern motocross pályával rendelkezik.", "Gazdag helyi flórával bír."],
       ro: ["Sfântul Marinus a căutat refugiu aici.", "Dispune de un circuit modern de motocross.", "Bogată în floră locală."],
       en: ["Saint Marinus sought refuge here.", "Features a modern motocross track.", "Rich in local flora."]
+    },
+    factsAdvanced: {
+      de: ["Acquaviva bietet eine Mischung aus Tradition und moderner Freizeit.", "Der Motocross-Parcours ist weit über die Grenzen bekannt.", "Die Landschaft wird durch Quellen und grüne Hügel geprägt.", "Der Ort hat einen hohen Stellenwert in der religiösen Geschichte.", "Die lokale Fauna und Flora sind besonders schützenswert.", "Acquaviva ist eine der ältesten Siedlungen in San Marino."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -221,11 +323,23 @@ export const sanmarinoRegions: POI[] = [
       ro: "Centrul economic de la poalele Muntelui Titano.",
       en: "The economic center at the foot of Mount Titano."
     },
+    descriptionAdvanced: {
+      de: "Borgo Maggiore ist ein historisch gewachsener Marktplatz, der heute als wichtiger Knotenpunkt zwischen den unteren Ebenen und der Hauptstadt fungiert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Wichtigster Marktplatz seit Jahrhunderten.", "Talstation der Seilbahn.", "Historisches Zentrum unter Denkmalschutz."],
       hu: ["Évszázadok óta a legfontosabb piactér.", "A drótkötélpálya völgyállomása.", "Műemlékvédelmi történelmi központ."],
       ro: ["Cea mai importantă piaţă de secole.", "Staţia de bază a telecabinei.", "Centru istoric protejat."],
       en: ["Most important marketplace for centuries.", "Lower station of the cable car.", "Protected historic center."]
+    },
+    factsAdvanced: {
+      de: ["Borgo Maggiore beherbergt eine Seilbahn zur Altstadt.", "Der traditionelle Markttag ist eine wichtige soziale Institution.", "Die historische Architektur ist sehr gut erhalten.", "Viele Unternehmen haben hier ihren Sitz.", "Die Stadt dient als Bindeglied für den Tourismus.", "Die Stadtstruktur ist auf Handel ausgerichtet."],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];
@@ -247,6 +361,12 @@ export const sanmarinoCities: POI[] = [
       hu: "A főváros a Titano-hegyen fekszik, és híres középkori várfalairól, valamint szűk macskaköves utcáiról.",
       ro: "Capitala este situată pe Muntele Titano și este cunoscută pentru zidurile sale medievale și străduțele înguste pietruite.",
       en: "The capital is located on Mount Titano and is known for its medieval fortresses and narrow cobblestone streets."
+    },
+    descriptionAdvanced: {
+      de: "Die Stadt San Marino ist ein architektonisches Juwel, das hoch über der Landschaft thront und Reisende mit seinem mittelalterlichen Charme verzaubert.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -274,6 +394,12 @@ export const sanmarinoCities: POI[] = [
         "The city offers spectacular views all the way to the Adriatic Sea."
       ]
     },
+    factsAdvanced: {
+      de: ["Das gesamte Stadtgebiet steht unter strengem Denkmalschutz.", "In der Stadt werden regelmäßig staatliche Feierlichkeiten abgehalten.", "Die engen Gassen sind meist nur für Fußgänger zugänglich.", "Es gibt eine Vielzahl an kleinen Kunsthandwerksläden.", "Die Stadt bietet einen hervorragenden Einblick in die Geschichte des Mittelalters.", "Ein Besuch bei Sonnenuntergang ist besonders empfehlenswert."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/city-san-marino.webp"
   },
   {
@@ -292,6 +418,12 @@ export const sanmarinoCities: POI[] = [
       hu: "Serravalle San Marino legnépesebb települése, és egy fontos kereskedelmi és sportközpont.",
       ro: "Serravalle este cea mai populată comună din San Marino și un important centru comercial și sportiv.",
       en: "Serravalle is the most populous municipality in San Marino and a major commercial and sports center."
+    },
+    descriptionAdvanced: {
+      de: "Als wirtschaftlicher Motor des Landes ist Serravalle ein moderner Kontrast zu den mittelalterlichen Wurzeln des Staates.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -319,6 +451,12 @@ export const sanmarinoCities: POI[] = [
         "It is a major economic center."
       ]
     },
+    factsAdvanced: {
+      de: ["Serravalle beherbergt wichtige staatliche Infrastruktur.", "Die wirtschaftliche Bedeutung hat die Einwohnerzahl stark steigen lassen.", "Hier befinden sich moderne Einkaufszentren.", "Der Ort hat einen eher urbanen Charakter.", "Sportliche Veranstaltungen sind ein wesentlicher Teil des sozialen Lebens.", "Serravalle ist der Ort mit den meisten Industrieansiedlungen."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/city-serravalle.webp"
   },
   {
@@ -337,6 +475,12 @@ export const sanmarinoCities: POI[] = [
       hu: "Borgo Maggiore a Titano-hegy lábánál fekszik, és történelmileg a köztársaság legfontosabb piactere.",
       ro: "Borgo Maggiore este situat la poalele Muntelui Titano și, istoric, a fost cea mai importantă piață a republicii.",
       en: "Borgo Maggiore lies at the foot of Mount Titano and was historically the most important marketplace in the republic."
+    },
+    descriptionAdvanced: {
+      de: "Dieser Ort ist ein lebendiger Handelspunkt und verbindet mit seiner Seilbahn geschickt den modernen Wirtschaftsbetrieb mit der historischen Hauptstadt.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -364,6 +508,12 @@ export const sanmarinoCities: POI[] = [
         "It was formerly known as 'Mercatale'."
       ]
     },
+    factsAdvanced: {
+      de: ["Der Wochenmarkt ist eine der ältesten Traditionen des Landes.", "Die Seilbahn ist sowohl für Pendler als auch für Touristen essenziell.", "Borgo Maggiore besitzt eine Vielzahl an historischer Bausubstanz.", "Die Stadt dient als logistisches Zentrum für die umliegenden Gemeinden.", "Es gibt viele kleine Cafés und Geschäfte in der Nähe des Marktplatzes.", "Die Stadt ist architektonisch stark durch ihre Markt-Vergangenheit geprägt."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/city-borgo-maggiore.webp"
   },
   {
@@ -382,6 +532,12 @@ export const sanmarinoCities: POI[] = [
       hu: "Domagnano egy kis község, amely szőlőskertjeiről és történelmi váráról ismert.",
       ro: "Domagnano este o comună mică cunoscută pentru podgoriile sale și castelul istoric.",
       en: "Domagnano is a small municipality known for its vineyards and historic castle."
+    },
+    descriptionAdvanced: {
+      de: "Domagnano verbindet archäologische Geschichte mit einer tief verwurzelten landwirtschaftlichen Tradition in den Weinbergen San Marinos.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -409,6 +565,12 @@ export const sanmarinoCities: POI[] = [
         "Offers a picturesque view of Mount Titano."
       ]
     },
+    factsAdvanced: {
+      de: ["Der Schatz von Domagnano ist eine der bedeutendsten Funde des Landes.", "Die Weinberge prägen das Landschaftsbild maßgeblich.", "Domagnano ist heute ein Wohnort mit hoher Lebensqualität.", "Die Geschichte der Region reicht bis in die Antike zurück.", "Die Gemeinde fördert aktiv den lokalen Weinbau.", "Von Domagnano aus gibt es viele Aussichtspunkte Richtung Adria."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/city-domagnano.webp"
   },
   {
@@ -423,11 +585,23 @@ export const sanmarinoCities: POI[] = [
       ro: "Un sat pitoresc în comuna Faetano.",
       en: "A picturesque village in the municipality of Faetano."
     },
+    descriptionAdvanced: {
+      de: "Faetano ist ein Ort der Stille, umgeben von grünen Hügeln, der vor allem durch seine friedliche Atmosphäre und landschaftliche Schönheit überzeugt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Bekannt für seine ruhige Atmosphäre.", "Historisches Zentrum mit Charme.", "Umgeben von Natur."],
       hu: ["Nyugodt légköréről ismert.", "Bájos történelmi központ.", "Természet veszi körül."],
       ro: ["Cunoscut pentru atmosfera sa liniştită.", "Centru istoric cu farmec.", "Înconjurat de natură."],
       en: ["Known for its peaceful atmosphere.", "Charming historic center.", "Surrounded by nature."]
+    },
+    factsAdvanced: {
+      de: ["Faetano ist besonders für Naturliebhaber attraktiv.", "Das Dorfleben wird noch stark durch lokale Traditionen bestimmt.", "Die Gemeinde ist eine der grünsten im ganzen Land.", "Es gibt viele Möglichkeiten für Wanderungen in der nahen Umgebung.", "Die Architektur fügt sich perfekt in die hügelige Landschaft ein.", "Faetano bietet einen idealen Rückzugsort vom städtischen Leben."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -442,11 +616,23 @@ export const sanmarinoCities: POI[] = [
       ro: "Un sat istoric care şi-a păstrat structura medievală.",
       en: "A historic village that has preserved its medieval layout."
     },
+    descriptionAdvanced: {
+      de: "Montegiardino besticht durch seine sehr gut erhaltene mittelalterliche Architektur und fungiert heute als lebendiger Standort der Universität.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Beherbergt einen Teil der Universität.", "Schöne alte Steinarchitektur.", "Bietet weite Ausblicke."],
       hu: ["Az egyetem egy részének ad otthont.", "Gyönyörű régi kőépítészet.", "Széles kilátást nyújt."],
       ro: ["Găzduieşte o parte a universităţii.", "Arhitectură veche din piatră frumoasă.", "Oferă vederi largi."],
       en: ["Houses part of the university.", "Beautiful old stone architecture.", "Offers expansive views."]
+    },
+    factsAdvanced: {
+      de: ["Der mittelalterliche Charme zieht viele Besucher an.", "Die Universität bringt ein junges und dynamisches Publikum in den Ort.", "Montegiardino hat eine sehr strukturierte und gepflegte Erscheinung.", "Der Ort ist ein Symbol für die Bewahrung des Kulturerbes.", "Von hier aus hat man einen sehr weiten Blick über die san-marinesische Hügellandschaft.", "Die Steinbauten sind Zeugen einer langen und wechselhaften Geschichte."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -466,11 +652,23 @@ export const sanmarinoCities: POI[] = [
       ro: "Fiorentino este una dintre cele nouă comune din San Marino şi a fost cândva o cetate importantă.",
       en: "Fiorentino is one of the nine municipalities of San Marino and was once an important fortress."
     },
+    descriptionAdvanced: {
+      de: "Fiorentino blickt auf eine bewegte militärische Vergangenheit zurück und bietet heute vor allem landschaftliche Schönheit und landwirtschaftliche Erzeugnisse.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Im Mittelalter als 'Castellaccio' (große Festung) bekannt."],
       hu: ["A középkorban 'Castellaccio' (nagy erőd) néven ismerték."],
       ro: ["Cunoscută în Evul Mediu ca 'Castellaccio' (marea fortăreaţă)."],
       en: ["Known in the Middle Ages as 'Castellaccio' (great fortress)."]
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde ist stark mit der Geschichte der Malatesta-Familie verknüpft.", "Die Ruinen der Festung geben noch heute Einblick in die militärische Architektur.", "Fiorentino ist ein bedeutender Standort für die lokale Weinproduktion.", "Die hügelige Landschaft bietet ideale Voraussetzungen für Wanderungen.", "Der Ort verbindet stolze Geschichte mit aktiver Landwirtschaft.", "Die Bevölkerung profitiert von einer sehr ruhigen und angenehmen Umgebung."],
+      hu: [],
+      ro: [],
+      en: []
     },
     image: "/geo-images/sanmarino/city-fiorentino.webp"
   },
@@ -486,11 +684,23 @@ export const sanmarinoCities: POI[] = [
       ro: "Un sat liniştit în sud-vestul ţării.",
       en: "A quiet village in the southwest of the country."
     },
+    descriptionAdvanced: {
+      de: "Chiesanuova ist bekannt für seine natürliche Schönheit, insbesondere für die ausgedehnten Kiefernwälder, die zum Verweilen und Wandern einladen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Ehemals als Busignano bekannt.", "Hat eine enge Verbindung zur Landwirtschaft.", "Sehr friedliche Umgebung."],
       hu: ["Korábban Busignano néven volt ismert.", "Szoros kapcsolata van a mezőgazdasággal.", "Nagyon békés környezet."],
       ro: ["Cunoscut anterior sub numele de Busignano.", "Are o legătură strânsă cu agricultura.", "Mediu foarte liniştit."],
       en: ["Formerly known as Busignano.", "Has a close connection to agriculture.", "Very peaceful environment."]
+    },
+    factsAdvanced: {
+      de: ["Chiesanuova ist ein wichtiger Akteur im san-marinesischen Ökotourismus.", "Die Kiefernwälder sorgen für ein angenehmes Klima.", "Die Gemeinde legt großen Wert auf den Erhalt ihrer natürlichen Flächen.", "Das traditionelle Leben ist hier noch sehr lebendig.", "Die geografische Lage an der italienischen Grenze prägt den kulturellen Austausch.", "Der Ort ist ein perfektes Ziel für alle, die Ruhe suchen."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -510,11 +720,23 @@ export const sanmarinoCities: POI[] = [
       ro: "Acquaviva își datorează numele unui izvor important de apă de la poalele Muntelui Cerreto.",
       en: "Acquaviva owes its name to an important water spring at the foot of Monte Cerreto."
     },
+    descriptionAdvanced: {
+      de: "Acquaviva vereint religiöse Tradition mit der Faszination für modernen Sport, wie der lokale Motocross-Parcours beweist.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Der Legende nach tauchte der Heilige Marinus hier in einer Höhle auf."],
       hu: ["A legenda szerint Szent Marinus itt bukkant fel egy barlangban."],
       ro: ["Conform legendei, Sfântul Marinus a apărut aici într-o peșteră."],
       en: ["Legend has it that Saint Marinus emerged here in a cave."]
+    },
+    factsAdvanced: {
+      de: ["Die Wasserquelle ist ein zentrales Symbol der Gemeinde.", "Acquaviva hat eine sehr reiche lokale Flora.", "Der Motocross-Sport hat hier eine lange und erfolgreiche Geschichte.", "Religiöse Pilger besuchen den Ort aufgrund seiner Bedeutung für den Heiligen Marinus.", "Die Gemeinde fördert den Schutz ihrer natürlichen Ressourcen.", "Der Ort bietet eine harmonische Verbindung von Geschichte und Freizeitaktivitäten."],
+      hu: [],
+      ro: [],
+      en: []
     },
     image: "/geo-images/sanmarino/city-acquaviva.webp"
   }
@@ -537,6 +759,12 @@ export const sanmarinoCulture: POI[] = [
       hu: "A Guaita a Titano-hegy három tornya közül a legrégebbi és a legnagyobb, a 11. században épült.",
       ro: "Guaita este cel mai vechi și cel mai mare dintre cele drei turnuri de pe Muntele Titano, construit în secolul al XI-lea.",
       en: "The Guaita is the oldest and largest of the three towers on Mount Titano, built in the 11th century."
+    },
+    descriptionAdvanced: {
+      de: "Als ältestes Verteidigungsbauwerk San Marinos thront der Guaita stolz auf dem Berg Titano und ist heute ein absolutes Muss für jeden Besucher.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -564,6 +792,12 @@ export const sanmarinoCulture: POI[] = [
         "It is depicted on the Sammarinese 5-cent coin."
       ]
     },
+    factsAdvanced: {
+      de: ["Die Bausubstanz ist über 900 Jahre alt.", "Von oben bietet sich einer der besten Blicke über das ganze Land.", "Die architektonische Lösung ohne Fundament ist eine Meisterleistung der Zeit.", "Der Guaita ist das stärkste Symbol nationaler Unabhängigkeit.", "Die Verteidigungsgeschichte ist durch archäologische Funde belegt.", "Das Bauwerk hat zahlreiche Angriffe überstanden."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/cult-guaita.webp"
   },
   {
@@ -582,6 +816,12 @@ export const sanmarinoCulture: POI[] = [
       hu: "A Cesta-torony a Titano-hegy legmagasabb pontján áll, és a régi fegyverek múzeumának ad otthont.",
       ro: "Turnul Cesta stă pe cel mai înalt punct al Muntelui Titano și găzduiește Muzeul Armelor Antice.",
       en: "The Cesta tower stands on the highest peak of Mount Titano and houses the Museum of Ancient Arms."
+    },
+    descriptionAdvanced: {
+      de: "Dieser Turm ist nicht nur ein architektonisches Highlight, sondern bietet mit dem Waffenmuseum eine spannende Zeitreise in das militärische Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -609,6 +849,12 @@ export const sanmarinoCulture: POI[] = [
         "It is depicted on the Sammarinese 1-cent coin."
       ]
     },
+    factsAdvanced: {
+      de: ["Das Museum wurde systematisch erweitert und modernisiert.", "Die Waffensammlung ist eine der bedeutendsten ihrer Art in der Region.", "Der Blick vom höchsten Punkt ist weit über den Monte Titano hinaus bekannt.", "Die römischen Ursprünge unterstreichen die historische Tiefe des Standorts.", "Das Bauwerk ist ein Paradebeispiel mittelalterlicher Wehrtechnik.", "Cesta ist ein wichtiger kultureller Identifikationspunkt."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/cult-cesta.webp"
   },
   {
@@ -627,6 +873,12 @@ export const sanmarinoCulture: POI[] = [
       hu: "A Montale a legkisebb a három torony közül. A többivel ellentétben ez nem látogatható a nagyközönség számára.",
       ro: "Montale este cel mai mic dintre cele trei turnuri. Spre deosebire de celelalte, nu este deschis publicului.",
       en: "The Montale is the smallest of the three towers. Unlike the others, it is not open to the public."
+    },
+    descriptionAdvanced: {
+      de: "Der Montale ist eine mysteriöse, kleine Festung, die vor allem durch ihre strategische Lage und ihre abgeschlossene Natur fasziniert.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -654,6 +906,12 @@ export const sanmarinoCulture: POI[] = [
         "It is seen on the Sammarinese 2-cent coin."
       ]
     },
+    factsAdvanced: {
+      de: ["Der Turm diente als wichtiger Ausguck.", "Die Abgeschlossenheit diente der Sicherheit.", "Montale war als Rückzugsort konzipiert.", "Die architektonische Konstruktion ist einzigartig.", "Die Geschichte ist eng mit der Unabhängigkeit verknüpft.", "Der Ort wird heute oft als stille Wächter-Statue interpretiert."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/cult-montale.webp"
   },
   {
@@ -672,6 +930,12 @@ export const sanmarinoCulture: POI[] = [
       hu: "San Marino városházája és a hivatalos kormányépület, ahol ceremóniákat és állami találkozókat tartanak.",
       ro: "Primăria oraşului San Marino şi clădirea oficială a guvernului, unde au loc ceremoniile şi întâlnirile de stat.",
       en: "The town hall of San Marino and official Government Building, where ceremonies and state meetings are held."
+    },
+    descriptionAdvanced: {
+      de: "Der Palazzo Pubblico ist das politische Herzstück von San Marino und besticht durch seinen neugotischen Stil, der Macht und Tradition vereint.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -699,6 +963,12 @@ export const sanmarinoCulture: POI[] = [
         "The changing of the guard takes place here."
       ]
     },
+    factsAdvanced: {
+      de: ["Das Gebäude dient sowohl als Rathaus als auch als Parlamentssitz.", "Der neugotische Stil war eine Hommage an die florentinische Tradition.", "Die Piazza della Libertà ist der zentrale Treffpunkt für Staatsakte.", "Die Wachablösung ist ein bei Touristen sehr beliebtes Spektakel.", "Der Palazzo ist ein Symbol für die Stabilität des Landes.", "Im Inneren befinden sich prunkvolle Räumlichkeiten für Staatsgäste."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/cult-palazzo-pubblico.webp"
   },
   {
@@ -717,6 +987,12 @@ export const sanmarinoCulture: POI[] = [
       hu: "A San Marino Köztársaság fő temploma, amelyet a szerzetes és alapító Szent Marinusznak szenteltek.",
       ro: "Principala biserică din Republica San Marino, dedicată Sfântului Marinus, fondatorul şi patronul spiritual.",
       en: "The main church of the Republic of San Marino, dedicated to Saint Marinus, the founder and patron saint."
+    },
+    descriptionAdvanced: {
+      de: "Als spirituelles Zentrum von San Marino ist die Basilika nicht nur architektonisch beeindruckend, sondern auch ein Ort tiefer nationaler Verehrung für den Schutzpatron.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -744,6 +1020,12 @@ export const sanmarinoCulture: POI[] = [
         "The church adorns the Sammarinese 10-cent coin."
       ]
     },
+    factsAdvanced: {
+      de: ["Das Bauwerk spiegelt den Stolz der jungen Republik wider.", "Die neoklassizistische Architektur betont die Harmonie und Ordnung.", "Die Reliquien werden von der ganzen Bevölkerung verehrt.", "Die Kirche dient auch als Ort für offizielle Zeremonien.", "Die Geschichte der Basilika ist eng mit der des Landes verwoben.", "Sie ist ein herausragendes Beispiel sakraler Baukunst."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/cult-basilica-di-san-marino.webp"
   },
   {
@@ -763,11 +1045,23 @@ export const sanmarinoCulture: POI[] = [
       ro: "Principala biserică din Fiorentino, cunoscută pentru arhitectura sa.",
       en: "The main church in Fiorentino, known for its architecture."
     },
+    descriptionAdvanced: {
+      de: "Diese Kirche ist das spirituelle Zentrum von Fiorentino und ein wunderbares Beispiel für eine moderne sakrale Architektur, die Tradition und Zeitgeist verbindet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Im 20. Jahrhundert wiederaufgebaut.", "Zentrum des religiösen Lebens in Fiorentino.", "Schlichte, elegante Fassade."],
       hu: ["A 20. században építették újjá.", "Fiorentino vallási életének központja.", "Egyszerű, elegáns homlokzat."],
       ro: ["Reconstruită în secolul XX.", "Centrul vieţii religioase din Fiorentino.", "Faţadă simplă şi elegantă."],
       en: ["Rebuilt in the 20th century.", "Center of religious life in Fiorentino.", "Simple, elegant facade."]
+    },
+    factsAdvanced: {
+      de: ["Die Kirche ist der Ankerpunkt für die lokalen religiösen Feste.", "Das moderne Design spiegelt die Entwicklung von Fiorentino wider.", "Sie beherbergt zahlreiche Kunstschätze.", "Die Fassade strahlt Ruhe und Beständigkeit aus.", "Der Bau ist ein Beispiel für den kulturellen Wandel des 20. Jahrhunderts.", "Die Gemeinde identifiziert sich stark mit diesem Bauwerk."],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];
@@ -789,6 +1083,12 @@ export const sanmarinoNature: POI[] = [
       hu: "A Titano-hegy San Marino legmagasabb hegye, és az ország legjellegzetesebb földrajzi formája.",
       ro: "Muntele Titano este cel mai înalt munte din San Marino și cea mai distinctă caracteristică geografică a țării.",
       en: "Mount Titano is the highest mountain in San Marino and the most distinctive geographical feature of the country."
+    },
+    descriptionAdvanced: {
+      de: "Der Monte Titano ist mehr als nur ein Berg; er ist das Fundament der san-marinesischen Unabhängigkeit und bietet eine atemberaubende Kulisse für jeden Gast.",
+      hu: "",
+      ro: "",
+      en: ""
     },
     facts: {
       de: [
@@ -816,6 +1116,12 @@ export const sanmarinoNature: POI[] = [
         "The mountain is surrounded by a rich flora and fauna."
       ]
     },
+    factsAdvanced: {
+      de: ["Die Geologie des Berges ist ein wesentlicher Teil des kulturellen Erbes.", "Die drei Türme dienen als Navigationspunkte.", "Die Flora des Berges ist in ihrer Vielfalt erstaunlich.", "Der Monte Titano ist das Herz des san-marinesischen Tourismus.", "Das Ökosystem wird streng geschützt.", "Die Ausblicke ändern sich mit jeder Jahreszeit dramatisch."],
+      hu: [],
+      ro: [],
+      en: []
+    },
     image: "/geo-images/sanmarino/nat-monte-titano.webp"
   },
   {
@@ -835,11 +1141,23 @@ export const sanmarinoNature: POI[] = [
       ro: "Un parc urban popular în Dogana (Serravalle), ideal pentru recreere și plimbări.",
       en: "A popular urban park in Dogana (Serravalle), ideal for recreation and walks."
     },
+    descriptionAdvanced: {
+      de: "Der Ausa-Park bietet einen grünen Rückzugsort im industriell geprägten Serravalle und fördert aktiv den Sport und die Erholung für alle Generationen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Der Park bietet viele Sport- und Freizeiteinrichtungen."],
       hu: ["A park számos sport- és szabadidős létesítményt kínál."],
       ro: ["Parcul oferă multe facilităţi sportive şi de agrement."],
       en: ["The park offers many sports and recreational facilities."]
+    },
+    factsAdvanced: {
+      de: ["Die Infrastruktur wird kontinuierlich ausgebaut.", "Der Park ist ein wichtiger Treffpunkt für lokale Familien.", "Grüne Flächen sind in Serravalle sehr wertvoll.", "Der Park ist ideal für Jogging und Freizeitaktivitäten.", "Er trägt zur Lebensqualität im Industriegebiet bei.", "Die Anlage ist sehr gepflegt."],
+      hu: [],
+      ro: [],
+      en: []
     },
     image: "/geo-images/sanmarino/nat-parco-ausa.webp"
   },
@@ -860,11 +1178,23 @@ export const sanmarinoNature: POI[] = [
       ro: "Un traseu pitoresc de-a lungul stâncilor Muntelui Titano, care leagă Borgo Maggiore de capitală.",
       en: "A scenic hiking trail along the cliffs of Mount Titano, connecting Borgo Maggiore with the capital."
     },
+    descriptionAdvanced: {
+      de: "Der Rupe-Wanderweg ist ein Paradies für Abenteurer und bietet dramatische Felsformationen gepaart mit spektakulären Ausblicken über die Region.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Der Weg führt durch dichte Wälder und bietet steile Felswände."],
       hu: ["Az út sűrű erdőkön halad keresztül és meredek sziklafalakat kínál."],
       ro: ["Traseul trece prin păduri dese și oferă pereți abrupți de stâncă."],
       en: ["The trail passes through dense forests and features steep cliff faces."]
+    },
+    factsAdvanced: {
+      de: ["Der Weg ist ein Highlight für Wanderfreunde.", "Man erlebt die Natur und die Geschichte hautnah.", "Der Weg ist hervorragend markiert.", "In manchen Abschnitten ist der Weg anspruchsvoll.", "Die Kombination aus Wald und Fels ist einzigartig.", "Die Verbindung der Orte durch diesen Pfad ist jahrhundertealte Tradition."],
+      hu: [],
+      ro: [],
+      en: []
     },
     image: "/geo-images/sanmarino/nat-sentiero-rupe.webp"
   },
@@ -885,11 +1215,23 @@ export const sanmarinoNature: POI[] = [
       ro: "Un lac artificial în comuna Faetano, popular pentru pescuitul sportiv.",
       en: "An artificial lake in the municipality of Faetano, popular for sport fishing."
     },
+    descriptionAdvanced: {
+      de: "Dieser See ist eine Oase der Ruhe in Faetano, die nicht nur Angler anzieht, sondern auch allen Besuchern eine friedliche Landschaft bietet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Ruhiger Ort für Picknicks.", "Regelmäßige Angelwettbewerbe.", "Kleine Oase der Ruhe."],
       hu: ["Nyugodt hely piknikezéshez.", "Rendszeres horgászversenyek.", "A nyugalom kis oázisa."],
       ro: ["Loc liniştit pentru picnicuri.", "Competiţii regulate de pescuit.", "Mică oază de linişte."],
       en: ["Quiet spot for picnics.", "Regular fishing competitions.", "Small oasis of peace."]
+    },
+    factsAdvanced: {
+      de: ["Das Wasser wird ökologisch gepflegt.", "Die Anlage ist für Familien sehr gut geeignet.", "Die Ruhe trägt zur Entspannung bei.", "Die Anglerkultur ist ein wesentlicher Teil des sozialen Lebens vor Ort.", "Die Landschaft ist sehr harmonisch gestaltet.", "Ein schöner Ort für Naturbeobachtungen."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -909,11 +1251,23 @@ export const sanmarinoNature: POI[] = [
       ro: "O zonă forestieră protejată, ideală pentru drumeţii şi relaxare.",
       en: "A protected forested area ideal for hiking and relaxation."
     },
+    descriptionAdvanced: {
+      de: "Dieser Kiefernwald ist ein natürliches Juwel in Chiesanuova, das besonders im Sommer kühlen Schatten spendet und zur Erholung einlädt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Heimat vieler lokaler Vogelarten.", "Bietet kühle Schatten im Sommer.", "Gut markierte Wanderwege."],
       hu: ["Számos helyi madárfaj otthona.", "Hűvös árnyékot nyújt nyáron.", "Jól jelzett túraútvonalak."],
       ro: ["Adăposteşte multe specii locale de păsări.", "Oferă umbră răcoroasă vara.", "Trasee de drumeţie bine marcate."],
       en: ["Home to many local bird species.", "Offers cool shade in summer.", "Well-marked hiking trails."]
+    },
+    factsAdvanced: {
+      de: ["Der Wald ist ein wichtiger Lebensraum für die lokale Fauna.", "Die gut markierten Wege sind ideal für jeden Wanderer.", "Der Wald ist ein wesentlicher Faktor für die Luftqualität.", "Die Ruhe ist ein großes Gut in der modernen Welt.", "Die Kiefern verleihen dem Wald einen speziellen Duft.", "Es ist ein hervorragendes Beispiel für Waldschutzmaßnahmen."],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -933,11 +1287,23 @@ export const sanmarinoNature: POI[] = [
       ro: "O stâncă de importanţă istorică unde, conform tradiţiei, a trăit Sfântul Marinus.",
       en: "A historically significant cliff where Saint Marinus is said to have lived."
     },
+    descriptionAdvanced: {
+      de: "Die Rupe della Baldasserona ist ein spiritueller und geologischer Ankerpunkt, der die tiefe Verbindung von San Marino zu seinem Gründer Marinus verdeutlicht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
     facts: {
       de: ["Religiöser Wallfahrtsort.", "Beeindruckende geologische Formation.", "Bietet Blick auf das Marecchia-Tal."],
       hu: ["Vallási zarándokhely.", "Lenyűgöző geológiai képződmény.", "Kilátást nyújt a Marecchia-völgyre."],
       ro: ["Loc de pelerinaj religios.", "Formaţiune geologică impresionantă.", "Oferă vedere spre Valea Marecchia."],
       en: ["Religious pilgrimage site.", "Impressive geological formation.", "Offers views of the Marecchia Valley."]
+    },
+    factsAdvanced: {
+      de: ["Der Ort atmet Geschichte und Spiritualität.", "Geologische Formationen ziehen Wissenschaftler an.", "Der Ausblick ins Tal ist ein unvergessliches Erlebnis.", "Für Einheimische ist es ein Ort der Meditation.", "Die Bedeutung für die Gründungsgeschichte ist immens.", "Der Felsen ist ein geschütztes Naturdenkmal."],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];

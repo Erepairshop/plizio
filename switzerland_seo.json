@@ -1,0 +1,524 @@
+[
+  {
+    "id": "country-switzerland",
+    "descriptionAdvanced": {
+      "ro": "Elveția, cunoscută oficial drept Confederația Elvețiană, este o țară fără ieșire la mare, situată la confluența Europei de Vest, Centrale și de Sud. Peisajul său este dominat de Alpi, care acoperă peste 60% din teritoriu, oferind peisaje spectaculoase cu vârfuri iconice precum Matterhorn și Jungfrau. Dincolo de munți, Elveția este faimoasă pentru lacurile sale cristaline, precum Lacul Geneva sau Lacul Lucerna. Sistemul politic unic, bazat pe democrație directă și neutralitate strictă, a transformat țara în gazda a numeroase organizații internaționale, inclusiv Crucea Roșie. Diversitatea culturală este reflectată de cele patru limbi naționale (germană, franceză, italiană, retoromană), fiecare regiune având tradiții și o gastronomie specifică, renumită pentru brânzeturi (Fondue, Raclette) și ciocolata de calitate superioară. Acest mozaic cultural și natural face din Elveția o destinație fascinantă pentru explorare, conectând geografia alpină cu istoria europeană."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Elveția are cea mai mare densitate de milionari din lume.",
+        "Tunelul de bază Gotthard, cu o lungime de 57 km, este cel mai lung tunel feroviar din lume.",
+        "Imnul național elvețian are patru versuri oficiale, câte una pentru fiecare limbă națională.",
+        "Legea elvețiană interzice deținerea unui singur porcușor de Guineea, considerându-i animale sociale.",
+        "Armata elvețiană menține un sistem de buncăre complet echipate, capabile să adăpostească aproape întreaga populație.",
+        "Francul elvețian este considerat una dintre cele mai stabile monede din lume.",
+        "Sediul central al FIFA, forul mondial al fotbalului, se află la Zurich.",
+        "Elveția are peste 1.500 de lacuri, majoritatea de origine glaciară."
+      ]
+    }
+  },
+  {
+    "id": "city-zurich",
+    "descriptionAdvanced": {
+      "ro": "Zurich, inima economică a Elveției, este un oraș al contrastelor, unde istoria se întâlnește cu modernitatea. Dincolo de reputația sa de centru financiar, orașul vechi (Altstadt) te invită la o plimbare pe străzi pietruite, flancate de case medievale și buticuri elegante. Lacul Zürich oferă o oază de liniște, ideală pentru plimbări cu barca sau relaxare pe mal. Urcând pe muntele Uetliberg, vei fi răsplătit cu o panoramă spectaculoasă asupra orașului, lacului și a Alpilor la orizont. Zurich este și un centru cultural vibrant, cu peste 50 de muzee și 100 de galerii de artă, inclusiv renumitul Kunsthaus. Pentru elevi, o vizită la Grădina Zoologică din Zurich, cu ecosistemul său dedicat pădurii tropicale Masoala, este o lecție de biologie pe viu. Conectat la programa școlară Plizio, orașul oferă exemple concrete de geografie (formarea lacurilor glaciare), istorie (Reforma Protestantă cu Zwingli) și economie."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Peste 1.200 de fântâni cu apă potabilă sunt răspândite în tot orașul.",
+        "Gara principală din Zurich (Hauptbahnhof) este cea mai mare din Elveția, deservind zilnic peste 400.000 de pasageri.",
+        "Mișcarea artistică Dada a fost fondată în Zurich în 1916, la Cabaret Voltaire.",
+        "Universitatea ETH Zurich, alma mater a lui Albert Einstein, este clasată constant printre cele mai bune universități tehnice din lume.",
+        "Biserica Fraumünster este renumită pentru vitraliile create de artistul Marc Chagall.",
+        "Street Parade, cel mai mare festival de muzică tehno din lume, atrage anual aproape un milion de vizitatori.",
+        "Grădina Zoologică din Zurich recreează un ecosistem de 5 acri al pădurii tropicale Masoala din Madagascar.",
+        "Conform mai multor studii, Zurich se clasează constant în top 3 orașe din lume pentru calitatea vieții."
+      ]
+    }
+  },
+  {
+    "id": "city-geneva",
+    "descriptionAdvanced": {
+      "ro": "Geneva, supranumită 'Capitala Păcii', este un centru global al diplomației și cooperării internaționale. Situată la capătul sud-vestic al Lacului Geneva (Lacul Leman), orașul găzduiește sediul european al Națiunilor Unite și Comitetul Internațional al Crucii Roșii. Simbolul orașului, fântâna Jet d'Eau, aruncă un jet de apă la 140 de metri înălțime. Geneva este, de asemenea, leagănul orologeriei de lux și un centru pentru bunuri de înaltă calitate. Orașul vechi, dominat de Catedrala Sf. Petru, invită la explorare pe străduțele sale pietruite. Muntele Salève, deși situat în Franța, este considerat 'muntele casei' pentru genevezi și oferă o priveliște de neuitat asupra orașului, lacului și Alpilor. Pentru pasionații de știință, o vizită la CERN este obligatorie, locul unde s-a născut World Wide Web-ul, un subiect relevant pentru informatica din programa K8."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Lacul Geneva este cel mai mare lac alpin din Europa Centrală.",
+        "La CERN, Organizația Europeană pentru Cercetare Nucleară, a fost inventat World Wide Web-ul în 1989.",
+        "Convențiile de la Geneva, tratate esențiale ale dreptului umanitar, au fost semnate aici.",
+        "'Horloge Fleuri', un ceas floral din Grădina Engleză, este un simbol renumit al preciziei elvețiene.",
+        "Peste 200 de organizații internaționale și misiuni diplomatice își au sediul în Geneva.",
+        "Jet d'Eau propulsează 500 de litri de apă pe secundă cu o viteză de 200 km/h.",
+        "A fost unul dintre centrele majore ale Reformei Protestante sub conducerea lui Jean Calvin.",
+        "Salonul Auto de la Geneva este unul dintre cele mai prestigioase evenimente anuale din industria auto."
+      ]
+    }
+  },
+  {
+    "id": "city-bern",
+    "descriptionAdvanced": {
+      "ro": "Berna, capitala de facto a Elveției, te farmecă cu unul dintre cele mai bine conservate centre medievale din Europa, îmbrățișat de o buclă pitorească a râului Aare. Întregul oraș vechi a fost inclus în Patrimoniul Mondial UNESCO în 1983. O caracteristică distinctivă sunt cei șase kilometri de arcade, numite 'Lauben', care formează una dintre cele mai lungi promenade comerciale acoperite din Europa. Impunătorul Palat Federal, sediul parlamentului și guvernului, domină orașul. Alte atracții includ Turnul cu Ceas (Zytglogge), cu mecanismul său astronomic, și Parcul Urșilor, unde trăiesc animalele heraldice ale orașului. Albert Einstein a dezvoltat Teoria Relativității în timpul șederii sale la Berna, iar fosta sa locuință este acum un muzeu, un punct de interes pentru pasionații de fizică K8."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Centrul vechi din Berna este în întregime un sit al Patrimoniului Mondial UNESCO.",
+        "Râul Aare, care înconjoară orașul vechi, este un loc popular pentru înot în timpul verii pentru localnici.",
+        "Casa Einstein, unde Albert Einstein a locuit între 1903 și 1905, este acum un muzeu dedicat vieții și operei sale.",
+        "Turnul cu Ceas (Zytglogge) prezintă la fiecare oră un spectacol de figurine medievale în mișcare.",
+        "Berna are peste 100 de fântâni, multe datând din secolul al XVI-lea, decorate cu statui alegorice.",
+        "Legenda spune că numele orașului provine de la primul animal vânat de fondator, un urs (Bär în germană).",
+        "Palatul Federal are un acoperiș distinctiv, cu o cupolă de cupru de culoare verde.",
+        "Grădina de Trandafiri (Rosengarten) oferă o vedere panoramică spectaculoasă asupra orașului vechi și a râului Aare."
+      ]
+    }
+  },
+  {
+    "id": "city-basel",
+    "descriptionAdvanced": {
+      "ro": "Basel, situat strategic la granița dintre Elveția, Germania și Franța, este un centru vibrant pentru artă, cultură și știință. Orașul găzduiește aproape 40 de muzee, inclusiv renumita Fundație Beyeler și Muzeul de Artă din Basel (Kunstmuseum), cea mai veche colecție publică de artă din lume. Art Basel, cel mai important târg internațional de artă, atrage anual colecționari și artiști din întreaga lume. Centrul său vechi este dominat de impunătoarea Catedrală (Münster) din gresie roșie. Rinul, care împarte orașul în Grossbasel și Kleinbasel, este o arteră vitală și un loc de recreere popular. Ca centru global al industriei farmaceutice, Basel joacă un rol economic crucial. Carnavalul din Basel (Fasnacht), inclus în patrimoniul UNESCO, este un eveniment unic, o explozie de creativitate și tradiție."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Portul de pe Rin din Basel este singura ieșire directă a Elveției la mare, conectând țara cu portul Rotterdam.",
+        "Carnavalul din Basel (Basler Fasnacht) este cel mai mare din Elveția și este inclus în patrimoniul cultural imaterial UNESCO.",
+        "Basel are cea mai veche universitate din Elveția, fondată în 1460.",
+        "Sediul central al Băncii Reglementelor Internaționale (BIS), 'banca centrală a băncilor centrale', se află la Basel.",
+        "Muzeul Tinguely, proiectat de arhitectul Mario Botta, este dedicat operelor de artă cinetică ale lui Jean Tinguely.",
+        "Trei țări se întâlnesc la 'Dreiländereck', un monument situat în portul orașului.",
+        "Compania farmaceutică Roche are sediul central într-un zgârie-nori care este cea mai înaltă clădire din Elveția.",
+        "Podul de Mijloc (Mittlere Brücke), inaugurat în 1226, este unul dintre cele mai vechi puncte de trecere a Rinului."
+      ]
+    }
+  },
+  {
+    "id": "city-lausanne",
+    "descriptionAdvanced": {
+      "ro": "Lausanne, 'Capitala Olimpică', se înalță pitoresc pe dealurile de pe malul nordic al Lacului Geneva. Fiind sediul Comitetului Internațional Olimpic (CIO) și al Muzeului Olimpic, orașul respiră spiritul sportiv. Construit pe trei coline, Lausanne este caracterizat de străzi abrupte și scări, oferind priveliști uluitoare spre lac și Alpii Savoiei. Catedrala gotică Notre-Dame este considerată una dintre cele mai frumoase din Elveția. Lausanne este, de asemenea, un centru educațional și de cercetare de prim rang, găzduind prestigioasa École Polytechnique Fédérale de Lausanne (EPFL). Viața studențească vibrantă conferă orașului o atmosferă tânără și dinamică. Cartierul de artă modernă PLATEFORME 10 reunește mai multe muzee, fiind un punct cultural de atracție major."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Lausanne este sediul central al Comitetului Internațional Olimpic din 1915.",
+        "Este singurul oraș din Elveția care are un sistem de metrou.",
+        "Catedrala din Lausanne are un program unic în Europa: un paznic de noapte anunță ora din clopotniță între 22:00 și 2:00.",
+        "Școala Politehnică Federală din Lausanne (EPFL) este unul dintre cele mai importante institute de știință și tehnologie din lume.",
+        "Colecția de l'Art Brut este un muzeu unic, dedicat artei create de artiști autodidacți, în afara normelor academice.",
+        "Compania de balet Béjart Ballet Lausanne, de renume mondial, își are sediul aici.",
+        "Cartierul Ouchy de pe malul lacului este o fostă localitate pescărească, acum o zonă populară de promenadă.",
+        "Tratatul de la Lausanne, care a stabilit granițele Turciei moderne, a fost semnat aici în 1923."
+      ]
+    }
+  },
+  {
+    "id": "nature-matterhorn",
+    "descriptionAdvanced": {
+      "ro": "Matterhorn, simbolul absolut al Alpilor, se înalță semeț spre cerul de deasupra stațiunii Zermatt cu forma sa piramidală aproape perfectă. Silueta sa inconfundabilă îl face unul dintre cei mai fotografiați munți din lume și emblema Elveției. Cu o altitudine de 4.478 de metri, este unul dintre cele mai înalte vârfuri din Alpi. Ascensiunea sa reprezintă o provocare majoră, atrăgând alpiniști din întreaga lume încă de la dramatica primă ascensiune din 1865. Cele patru creste ale sale - Hörnli, Furggen, Lion și Zmutt - sunt abrupte și expuse. Muntele se află la granița dintre Elveția și Italia. Satul Zermatt, fără mașini, oferă baza perfectă pentru a explora frumusețea și miturile acestui vârf legendar, o lecție practică despre geologia și forțele tectonice studiate în K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Cele patru fețe ale muntelui Matterhorn sunt aliniate aproape perfect cu cele patru puncte cardinale.",
+        "Prima ascensiune, realizată de Edward Whymper în 1865, s-a încheiat tragic cu moartea a patru din cei șapte membri ai expediției la coborâre.",
+        "Forma distinctivă a muntelui a inspirat logo-ul ciocolatei Toblerone, care ascunde și un urs în designul său.",
+        "Datorită încălzirii globale, permafrostul din interiorul muntelui se topește, crescând riscul de căderi de stânci.",
+        "Creasta Hörnli este ruta cea mai frecventată pentru ascensiune, fiind echipată cu cabane și corzi fixe.",
+        "Nu există telecabine sau funiculare care să ducă pe vârful Matterhorn, ascensiunea fiind posibilă doar prin alpinism.",
+        "Muntele este compus din roci dure (gneiss) din placa continentală africană.",
+        "În fiecare vară, peste 2.500 de alpiniști încearcă să cucerească vârful."
+      ]
+    }
+  },
+  {
+    "id": "city-lucerne",
+    "descriptionAdvanced": {
+      "ro": "Lucerna, așezată pe malul Lacului celor Patru Cantoane și înconjurată de un decor montan maiestuos, întruchipează idila Elveției Centrale. Emblema orașului este Podul Capelei (Kapellbrücke), cel mai vechi pod de lemn acoperit din Europa, cu turnul său de apă octogonal. Orașul vechi bine conservat, cu fațadele sale pictate și piețele pitorești, invită la plimbare. Un alt monument emoționant este Monumentul Leului, care comemorează gărzile elvețiene masacrate în timpul Revoluției Franceze. Lucerna este și un centru cultural, renumit pentru KKL Luzern, un centru de congrese și cultură proiectat de Jean Nouvel, cu o acustică de renume mondial. Apropierea de munții Pilatus și Rigi face din oraș un punct de plecare ideal pentru a explora natura, oferind exemple vii de geografie montană pentru cursurile K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Podul Capelei a fost construit în secolul al XIV-lea și conține o serie de picturi interioare care ilustrează istoria orașului.",
+        "Monumentul Leului a fost descris de Mark Twain drept 'cea mai tristă și mai mișcătoare bucată de piatră din lume'.",
+        "Muzeul Elvețian al Transporturilor este cel mai vizitat muzeu din Elveția, prezentând o istorie completă a mobilității.",
+        "Muntele Pilatus din apropiere este accesibil cu cea mai abruptă cale ferată cu cremalieră din lume, cu o înclinație de până la 48%.",
+        "Festivalul de Muzică Clasică de la Lucerna este unul dintre cele mai prestigioase evenimente de acest gen din lume.",
+        "Zidul Musegg, o parte a fortificațiilor medievale, s-a păstrat aproape intact, iar unele dintre turnurile sale sunt deschise publicului.",
+        "Primul hotel de lux din Europa, Hotel Schweizerhof, a fost deschis la Lucerna în 1845.",
+        "Lacul celor Patru Cantoane are o formă complexă, atingând patru cantoane diferite ale Elveției."
+      ]
+    }
+  },
+  {
+    "id": "nature-jungfraujoch",
+    "descriptionAdvanced": {
+      "ro": "Jungfraujoch – Top of Europe este o experiență unică în lumea alpină a Alpilor Bernezi. La 3.454 de metri deasupra nivelului mării se află cea mai înaltă gară din Europa, accesibilă cu o spectaculoasă cale ferată cu cremalieră care traversează munții Eiger și Mönch. De pe platforma de observație a Observatorului Sphinx, se deschide o panoramă de neegalat asupra tripletei Eiger, Mönch și Jungfrau, precum și asupra ghețarului Aletsch, cel mai lung din Alpi, inclus în Patrimoniul Mondial UNESCO. Vizitatorii pot explora Palatul de Gheață, săpat în interiorul ghețarului, sau se pot plimba pe platoul acoperit de zăpadă veșnică. Jungfraujoch este nu doar o atracție turistică, ci și o importantă stație de cercetare pentru glaciologie, meteorologie și astronomie, un studiu de caz perfect pentru geografia K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Gara de la Jungfraujoch, la 3.454 de metri, este supranumită 'Top of Europe'.",
+        "Construcția căii ferate Jungfrau a durat 16 ani (1896-1912) și a fost o minune a ingineriei epocii.",
+        "Observatorul Sphinx este una dintre cele mai înalte stații de cercetare astronomică din lume.",
+        "Ghețarul Aletsch, vizibil de la Jungfraujoch, are o lungime de 23 km și este cel mai mare din Alpi.",
+        "Palatul de Gheață este menținut la o temperatură constantă de -3°C.",
+        "Liftul care urcă la Observatorul Sphinx parcurge 108 metri în doar 25 de secunde.",
+        "Regiunea Jungfrau-Aletsch a fost primul sit alpin inclus în Patrimoniul Mondial Natural UNESCO, în 2001.",
+        "Peste 70% din traseul căii ferate se află în tunel, săpat direct în stânca munților Eiger și Mönch."
+      ]
+    }
+  },
+  {
+    "id": "city-winterthur",
+    "descriptionAdvanced": {
+      "ro": "Winterthur, adesea trecut cu vederea în favoarea vecinului său mai mare, Zurich, este o adevărată bijuterie culturală și educațională. Fost un important centru industrial, orașul s-a transformat într-un pol vibrant al artei. Găzduiește o densitate impresionantă de muzee, inclusiv Fotomuseum Winterthur, Kunst Museum Winterthur și centrul științific interactiv Technorama, un loc perfect pentru a explora principiile fizicii K6. Centrul său vechi fermecător, fără trafic, este cea mai mare zonă pietonală din Elveția, ideală pentru plimbări și cumpărături. În ciuda dezvoltării sale urbane, Winterthur și-a păstrat caracterul verde, cu numeroase parcuri și grădini. Orașul este, de asemenea, un important centru educațional, găzduind Universitatea de Științe Aplicate din Zurich (ZHAW)."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Winterthur are cea mai mare zonă pietonală continuă din Elveția.",
+        "Colecția Oskar Reinhart 'Am Römerholz' este considerată una dintre cele mai importante colecții private de artă europeană din secolul XX.",
+        "Centrul Elvețian de Știință Technorama este un muzeu interactiv unic, cu peste 500 de stații experimentale.",
+        "Orașul a fost un centru major al industriei elvețiene de mașini și locomotive.",
+        "Peste 17 muzee își au sediul în Winterthur, aducându-i renumele de 'oraș al muzeelor'.",
+        "Castelul Kyburg, una dintre cele mai bine conservate fortărețe medievale din estul Elveției, se află în apropierea orașului.",
+        "Primul meci internațional de fotbal al echipei naționale a Elveției a avut loc la Winterthur în 1905.",
+        "Clădirea 'Hochhaus zur Sulzer-Allee', finalizată în 2021, este una dintre cele mai înalte clădiri rezidențiale din lemn din lume."
+      ]
+    }
+  },
+  {
+    "id": "city-chur",
+    "descriptionAdvanced": {
+      "ro": "Chur, cel mai vechi oraș din Elveția, te captivează cu o istorie de peste 5.000 de ani și un centru vechi complet conservat, lipsit de trafic. Situat în valea Rinului, înconjurat de vârfuri alpine maiestuoase, este poarta de acces spre cantonul Graubünden. Străduțele sale întortocheate, clădirile istorice și curtea episcopală dominată de catedrala Adormirea Maicii Domnului te invită la o călătorie în timp. Chur este, de asemenea, un nod de transport crucial și punctul de plecare pentru faimoasele trenuri panoramice ale Căii Ferate Retice, precum Bernina Express și Glacier Express. Muntele local, Brambrüesch, este accesibil direct din centrul orașului cu o telecabină, oferind oportunități de drumeții și schi, un exemplu excelent de interacțiune om-mediu pentru lecțiile de geografie K6."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Chur este considerat cel mai vechi oraș cu locuire continuă din Elveția, cu o istorie de peste 5000 de ani.",
+        "Catedrala din Chur a fost construită între secolele al XII-lea și al XIII-lea și adăpostește un altar triptic gotic magnific.",
+        "Este singurul oraș din Elveția cu o zonă de sporturi de iarnă proprie, accesibilă direct din centru.",
+        "În epoca romană, orașul era cunoscut sub numele de 'Curia Raetorum'.",
+        "Celebrul artist H.R. Giger, creatorul designului din filmul 'Alien', s-a născut la Chur; un bar din orașul vechi este dedicat operei sale.",
+        "Centrul vechi are peste 500 de clădiri protejate ca monumente istorice.",
+        "Chur este un centru important pentru cultura retoromană, una dintre cele patru limbi naționale ale Elveției.",
+        "Este punctul de plecare pentru Arosabahn, o linie de cale ferată spectaculoasă care urcă aproape 1.000 de metri pe o distanță de 26 km."
+      ]
+    }
+  },
+  {
+    "id": "city-lugano",
+    "descriptionAdvanced": {
+      "ro": "Lugano, cel mai mare oraș din cantonul Ticino, îmbină eficiența elvețiană cu farmecul mediteranean. Așezat pe malul lacului Lugano și înconjurat de munții Monte San Salvatore și Monte Brè, orașul oferă un peisaj de vis. Promenada de pe malul lacului, mărginită de palmieri, parcurile și grădinile înflorite conferă orașului o atmosferă sudică. Centrul orașului, cu buticurile sale exclusiviste, clădirile istorice în stil lombard și piețele pline de viață, invită la cumpărături și relaxare. Lugano este un important centru financiar, al treilea ca mărime din Elveția, și un centru cultural vibrant, cu modernul centru LAC (Lugano Arte e Cultura). Satele pescărești din jur, precum Gandria, sunt destinații pitorești pentru excursii, ilustrând adaptarea vieții umane la peisajul lacustru, un concept cheie în geografia K6."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Monte San Salvatore este adesea comparat cu Muntele Sugarloaf din Rio de Janeiro datorită formei sale conice.",
+        "Parco Ciani, de pe malul lacului, este considerat unul dintre cele mai frumoase parcuri din Elveția.",
+        "Lugano este al treilea cel mai important centru financiar din Elveția, după Zurich și Geneva.",
+        "Centrul cultural LAC (Lugano Arte e Cultura) găzduiește un muzeu de artă modernă și o sală de concerte de talie mondială.",
+        "De pe Monte Brè se poate admira o panoramă care se întinde până la Alpii Walliser și Bernezi.",
+        "Parcul Swissminiatur din apropiere prezintă cele mai faimoase clădiri și mijloace de transport din Elveția la o scară de 1:25.",
+        "Scriitorul Hermann Hesse a trăit și a scris multe dintre operele sale în Montagnola, o localitate de lângă Lugano.",
+        "Funicularul Monte San Salvatore, inaugurat în 1890, urcă pe o pantă cu o înclinație de până la 61%."
+      ]
+    }
+  },
+  {
+    "id": "city-st-gallen",
+    "descriptionAdvanced": {
+      "ro": "St. Gallen, inima Elveției de Est, este renumit pentru districtul său abațial, inclus în Patrimoniul Mondial UNESCO. Catedrala barocă și biblioteca abațială, una dintre cele mai vechi și mai frumoase biblioteci din lume, constituie centrul orașului. Biblioteca adăpostește o colecție neprețuită de aproximativ 170.000 de cărți și manuscrise, unele vechi de peste 1.000 de ani. Orașul vechi din St. Gallen se distinge prin ferestrele sale colorate, ieșite în afară (Erker), datând din secolele al XVI-lea și al XVII-lea. Orașul are o lungă tradiție în industria textilă, în special în broderie, care i-a adus prosperitate la nivel mondial. Astăzi, St. Gallen este un centru economic important și sediul unei universități de afaceri renumite, un exemplu de evoluție economică de la producție la servicii, relevant pentru educația K8."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Districtul Abațial din St. Gallen a fost declarat Patrimoniu Mondial UNESCO în 1983.",
+        "Biblioteca Abațială este, de asemenea, cunoscută sub numele de 'Farmacia Sufletului' (Seelenapotheke).",
+        "Orașul este situat între Lacul Constanța și regiunea Appenzell.",
+        "Universitatea din St. Gallen (HSG) este una dintre cele mai importante universități de afaceri din Europa.",
+        "Faimosul cârnat local, 'Bratwurst von St. Gallen', este protejat geografic și se mănâncă tradițional fără muștar.",
+        "Peste 100 de ferestre 'Erker' bogat ornamentate împodobesc fațadele clădirilor din centrul vechi.",
+        "Orașul poartă numele misionarului irlandez Gallus, care a fondat aici un schit în anul 612.",
+        "Muzeul Textil documentează istoria bogată a industriei de broderie din St. Gallen."
+      ]
+    }
+  },
+  {
+    "id": "city-biel-bienne",
+    "descriptionAdvanced": {
+      "ro": "Biel/Bienne, situat la poalele Munților Jura și pe malul lacului Biel, este cel mai mare oraș bilingv din Elveția, unde cultura germană și cea franceză se întâlnesc și coexistă. Acest amestec îi conferă orașului un farmec unic. Biel este considerat metropola orologeriei, fiind leagănul unor mărci de renume mondial precum Omega și Swatch. Muzeul Omega și Cité du Temps oferă perspective fascinante asupra acestei industrii de precizie. Centrul istoric, cu clădirile breslelor și fântânile sale, este bine conservat. Lacul Biel și podgoriile înconjurătoare invită la excursii cu barca, drumeții și ciclism. Insula Sf. Petru, unde filozoful Jean-Jacques Rousseau a găsit refugiu, este o destinație populară, legând istoria culturală de peisajul natural, un concept explorat în studiile sociale K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Biel/Bienne este oficial bilingv, toate semnele stradale și anunțurile oficiale fiind în germană și franceză.",
+        "Orașul este considerat leagănul ceasului Swatch, care a revoluționat industria orologeră în anii 1980.",
+        "Sediul central mondial al The Swatch Group, cel mai mare producător de ceasuri din lume, este o capodoperă arhitecturală proiectată de Shigeru Ban.",
+        "Noul Muzeu Biel (NMB) prezintă istoria, arta și arheologia regiunii, având o secțiune dedicată industriei ceasurilor.",
+        "Biel a fost unul dintre cele patru orașe gazdă ale Expo.02, expoziția națională elvețiană din 2002.",
+        "Lacul Biel este cel mai mare lac care se află în întregime pe teritoriul Elveției, unde se vorbesc atât germana, cât și franceza pe malurile sale.",
+        "Rolex deține una dintre cele mai mari unități de producție în Biel, unde produce mecanismele pentru ceasurile sale.",
+        "Deviza neoficială a orașului este 'Două limbi, un singur spirit'."
+      ]
+    }
+  },
+  {
+    "id": "city-thun",
+    "descriptionAdvanced": {
+      "ro": "Thun, poarta de intrare în Oberlandul Bernez, este situat la ieșirea râului Aare din lacul Thun. Orașul este dominat de impunătorul castel Thun, o fortăreață medievală bine conservată din secolul al XII-lea, care găzduiește acum un muzeu istoric. Centrul vechi istoric, situat pe o insulă în Aare, este unic în Europa prin trotuarele sale înalte (Hochtrottoirs), o soluție arhitecturală ingenioasă. Râul Aare, cu apa sa limpede, de culoare turcoaz, este popular printre surferi și înotători în timpul verii. Lacul Thun, înconjurat de un peisaj montan grandios, oferă numeroase posibilități de sporturi nautice. Thun este, de asemenea, cel mai mare oraș-garnizoană al armatei elvețiene. Muntele Niesen din apropiere este supranumit 'Piramida Elvețiană' datorită formei sale distincte."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Castelul Thun, cu cele patru turnuri ale sale, este un simbol al orașului și un monument istoric de importanță națională.",
+        "Trotuarele înalte din strada principală (Obere Hauptgasse) permit accesul la magazine atât la parter, cât și la primul etaj.",
+        "Festivalul de pe lacul Thun (Thunerseespiele) este un eveniment popular de musical în aer liber, cu o scenă construită pe apă.",
+        "Ecluzele istorice din lemn din centrul orașului reglează nivelul apei râului Aare încă din Evul Mediu.",
+        "Biserica orașului (Stadtkirche), cu turnul său octogonal distinctiv, datează din secolul al XIV-lea.",
+        "Thun este renumit pentru tradiția sa în producția de ceramică, cu numeroase ateliere și magazine.",
+        "Castelul Schadau, situat pe malul lacului, găzduiește Muzeul Gastronomiei Elvețiene.",
+        "Podul Panzerbrücke este un pod militar pliabil, o mărturie a importanței strategice a orașului."
+      ]
+    }
+  },
+  {
+    "id": "city-schaffhausen",
+    "descriptionAdvanced": {
+      "ro": "Schaffhausen, un oraș pitoresc pe Rinul Superior, este celebru mai ales pentru apropierea de Cascada Rinului, cea mai mare cascadă din Europa ca volum. Centrul său vechi bine conservat, fără trafic, este unul dintre cele mai frumoase din Elveția, cu numeroase clădiri renascentiste și baroce și peste 170 de ferestre 'Erker'. Deasupra orașului tronează fortăreața Munot, o structură circulară de apărare din secolul al XVI-lea, care oferă o priveliște magnifică asupra orașului și a Rinului. În fiecare seară la ora 21:00, clopotul Munotului sună, un obicei care datează din Evul Mediu pentru a semnala închiderea porților orașului. Regiunea este, de asemenea, cunoscută pentru viticultură, în special pentru vinurile Pinot Noir (Blauburgunder)."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Cascada Rinului are o lățime de 150 de metri și o înălțime de 23 de metri, cu un debit mediu de 600.000 de litri pe secundă vara.",
+        "Fortăreața circulară Munot a fost construită parțial pe baza planurilor lui Albrecht Dürer.",
+        "Schaffhausen s-a alăturat Confederației Elvețiene în 1501, devenind al 12-lea canton.",
+        "Compania de ceasuri de lux IWC (International Watch Company) a fost fondată la Schaffhausen în 1868.",
+        "La 1 aprilie 1944, în timpul celui de-al Doilea Război Mondial, orașul a fost bombardat din greșeală de forțele aeriene americane.",
+        "Mănăstirea Allerheiligen (Toți Sfinții) este cel mai vechi complex de clădiri din oraș, datând din secolul al XI-lea.",
+        "Orașul este conectat de satul pitoresc Stein am Rhein printr-o rută populară de croazieră pe Rin.",
+        "Fațada casei 'Zum goldenen Ochsen' este acoperită cu fresce valoroase care descriu scene din istoria antică."
+      ]
+    }
+  },
+  {
+    "id": "city-fribourg",
+    "descriptionAdvanced": {
+      "ro": "Fribourg, așezat pe o stâncă deasupra râului Saane (Sarine), este unul dintre cele mai bine conservate orașe medievale din Elveția. Orașul este o punte între Elveția germanofonă și cea francofonă, fiind oficial bilingv. Catedrala gotică Sfântul Nicolae, cu faimoasele sale vitralii realizate de Józef Mehoffer și turnul său de 74 de metri, domină peisajul urban. Peste 200 de fațade gotice din secolul al XV-lea caracterizează orașul vechi. Fribourg este, de asemenea, un oraș universitar vibrant. O particularitate o reprezintă funicularele sale, inclusiv unul care este operat folosind apele uzate ale orașului, un exemplu fascinant de inginerie sustenabilă, perfect pentru a ilustra lecțiile de tehnologie K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Fribourg a fost fondat în 1157 de Ducele Berthold al IV-lea de Zähringen.",
+        "Catedrala Sfântul Nicolae adăpostește una dintre cele mai mari orgi din Elveția, cu peste 7.800 de tuburi.",
+        "Universitatea din Fribourg este singura universitate complet bilingvă (franceză-germană) din Elveția.",
+        "Orașul are 11 poduri istorice care traversează râul Saane, inclusiv faimosul Pod Berna din lemn acoperit.",
+        "Funicularul care leagă orașul de jos de cel de sus funcționează din 1899 pe bază de balast de apă uzată.",
+        "Fribourg este renumit pentru specialitățile sale culinare, precum brânza Vacherin Fribourgeois și pâinea cu șofran Cuchaule.",
+        "Muzeul Espace Jean Tinguely - Niki de Saint Phalle expune opere ale celor doi artiști renumiți.",
+        "O mare parte din fortificațiile medievale ale orașului, inclusiv ziduri și turnuri, s-au păstrat până astăzi."
+      ]
+    }
+  },
+  {
+    "id": "city-sion",
+    "descriptionAdvanced": {
+      "ro": "Sion, capitala cantonului Valais, este cel mai însorit oraș din Elveția. Peisajul său este dominat de două dealuri gemene, Valeria și Tourbillon. Pe dealul Valeria se înalță o bazilică fortificată care adăpostește una dintre cele mai vechi orgi funcționale din lume, datând din secolul al XV-lea. Pe dealul Tourbillon se găsesc ruinele castelului episcopal, distrus de un incendiu în 1788. Centrul vechi al orașului Sion este bogat în clădiri istorice și monumente. Înconjurat de podgorii extinse, Sion este inima celei mai mari regiuni viticole din Elveția. Regiunea este renumită pentru vinurile sale albe, în special Fendant (din struguri Chasselas), și pentru vinurile roșii Pinot Noir, oferind un context excelent pentru discuții despre agricultură și climă la cursurile de geografie K6."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Sion este unul dintre cele mai vechi orașe din Elveția, cu o istorie de peste 7.000 de ani.",
+        "Orga din Bazilica Valeria datează din jurul anului 1435 și este considerată cea mai veche orgă funcțională din lume.",
+        "Cantonul Valais este cel mai mare producător de vin din Elveția, reprezentând aproximativ o treime din producția totală.",
+        "Sion are un climat uscat și însorit, benefic pentru cultivarea viței de vie și a fructelor precum caisele.",
+        "Orașul a candidat de mai multe ori, fără succes, pentru a găzdui Jocurile Olimpice de iarnă.",
+        "Procesele vrăjitoarelor din Valais, din secolul al XV-lea, au fost printre primele și cele mai ample din Europa.",
+        "Râul Ron (Rhône) traversează orașul, fiind vital pentru irigarea podgoriilor din vale.",
+        "În fiecare an, Sion găzduiește un festival internațional de muzică clasică de renume."
+      ]
+    }
+  },
+  {
+    "id": "city-montreux",
+    "descriptionAdvanced": {
+      "ro": "Montreux, situat pe 'Riviera Elvețiană' a Lacului Geneva, este renumit pentru microclimatul său blând și pentru festivalul de jazz de renume mondial. Promenada sa pe malul lacului, mărginită de palmieri și plante exotice, se întinde de la faimosul Castel Chillon până la Vevey. Numeroși artiști, scriitori și muzicieni au fost atrași de frumusețea regiunii, inclusiv Freddie Mercury, căruia i s-a dedicat o statuie de bronz pe malul lacului. Muntele Rochers-de-Naye, accesibil cu o cale ferată cu cremalieră, oferă o priveliște spectaculoasă asupra lacului și a Alpilor. Montreux este, de asemenea, un punct de plecare ideal pentru a explora podgoriile terasate din Lavaux, sit al Patrimoniului Mondial UNESCO."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Festivalul de Jazz de la Montreux, fondat în 1967 de Claude Nobs, este al doilea cel mai mare festival de jazz din lume.",
+        "Piesa 'Smoke on the Water' a trupei Deep Purple a fost inspirată de un incendiu la Cazinoul din Montreux în timpul unui concert Frank Zappa.",
+        "Statuia lui Freddie Mercury, solistul trupei Queen, este un loc de pelerinaj pentru fanii din întreaga lume; trupa a înregistrat mai multe albume la studiourile locale.",
+        "Microclimatul blând permite cultivarea de plante exotice, palmieri, chiparoși și chiar viță de vie pe dealurile din jur.",
+        "Castelul Chillon, situat la mică distanță, este cea mai vizitată clădire istorică din Elveția.",
+        "Promenada de pe malul lacului are o lungime de peste 13 kilometri, legând Montreux de Vevey.",
+        "În fiecare an, în decembrie, Montreux găzduiește una dintre cele mai mari și mai populare piețe de Crăciun din Elveția.",
+        "Trenul cu ciocolată (Train du Chocolat) este o excursie populară care pornește din Montreux spre fabrica de brânză Gruyères și fabrica de ciocolată Cailler."
+      ]
+    }
+  },
+  {
+    "id": "cult-bern-altstadt",
+    "descriptionAdvanced": {
+      "ro": "Orașul vechi din Berna, un sit al Patrimoniului Mondial UNESCO, este o capodoperă a planificării urbane medievale. Înconjurat de râul Aare, și-a păstrat caracterul original de-a lungul secolelor. Cei 6 kilometri de arcade, cunoscuți sub numele de 'Lauben', oferă adăpost pe orice vreme și găzduiesc nenumărate magazine și cafenele. Turnul cu Ceas Zytglogge cu mecanismul său astronomic, Palatul Federal și catedrala gotică sunt doar câteva dintre punctele de atracție arhitecturale. Fațadele bine conservate din gresie, fântânile istorice și străduțele înguste creează o atmosferă unică, transportând vizitatorii într-o altă epocă, un exemplu viu de istorie urbană pentru elevii de clasa a VII-a."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Orașul vechi din Berna a fost inclus pe lista Patrimoniului Mondial UNESCO în 1983.",
+        "Statuia 'Mâncătorul de copii' (Kindlifresser) de pe una dintre fântânile din oraș este una dintre cele mai vechi și mai enigmatice statui din Berna.",
+        "Bucla râului Aare a funcționat ca o apărare naturală, protejând orașul vechi pe trei laturi.",
+        "Multe dintre pivnițele caselor din orașul vechi au fost transformate în baruri, restaurante și teatre de avangardă.",
+        "Piața săptămânală din Piața Federală și de pe străzile adiacente este o tradiție veche de secole.",
+        "Acoperișurile caselor din orașul vechi sunt acoperite în mod tradițional cu țiglă roșie, creând o imagine unitară.",
+        "Aspectul arhitectural uniform se datorează folosirii gresiei locale de culoare verzuie.",
+        "Berna este unul dintre puținele orașe medievale care și-au păstrat structura stradală originală."
+      ]
+    }
+  },
+  {
+    "id": "cult-rhaetian-railway",
+    "descriptionAdvanced": {
+      "ro": "Calea ferată retică din peisajul Albula/Bernina este una dintre cele mai spectaculoase rute feroviare din lume și face parte din Patrimoniul Mondial UNESCO. Traseul este o capodoperă a ingineriei, integrându-se armonios în peisajul alpin. Linia Albula depășește diferențe de nivel considerabile cu ajutorul unor viaducte îndrăznețe, precum viaductul Landwasser, și a unor tuneluri elicoidale. Linia Bernina, cea mai înaltă traversare feroviară a Alpilor din Europa, te poartă de la ghețarii masivului Bernina până la palmierii din Tirano, Italia. O călătorie cu Bernina Express sau Glacier Express pe acest traseu este o experiență de neuitat și o lecție aplicată de inginerie și geografie pentru elevii de gimnaziu."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Traseul a fost inclus în Patrimoniul Mondial UNESCO în 2008, împreună cu peisajul înconjurător.",
+        "Trenul Bernina Express urcă pante de până la 7% fără a folosi cremalieră, o performanță tehnică remarcabilă.",
+        "Viaductul Landwasser, înalt de 65 de metri, este un simbol al liniei și se termină direct într-un tunel montan.",
+        "Întregul traseu UNESCO însumează 88 de tuneluri și 383 de poduri.",
+        "Cea mai înaltă stație de pe traseu este Ospizio Bernina, la 2.253 de metri deasupra nivelului mării.",
+        "Viaductul elicoidal de la Brusio este o soluție inginerească unică, permițând trenului să câștige altitudine într-un spațiu restrâns.",
+        "Trenurile roșii ale Căii Ferate Retice au devenit un simbol iconic al Elveției.",
+        "Linia ferată este esențială pentru transportul local în cantonul Graubünden, funcționând pe tot parcursul anului."
+      ]
+    }
+  },
+  {
+    "id": "cult-chillon",
+    "descriptionAdvanced": {
+      "ro": "Castelul Chillon, un castel pe apă situat pe malul Lacului Geneva, este cea mai vizitată clădire istorică din Elveția. Poziția sa pitorească, având Alpii pe fundal, a inspirat artiști și poeți precum Lord Byron, care a imortalizat castelul în poemul său 'Prizonierul din Chillon'. Castelul este format din 25 de clădiri și trei curți interioare, protejate de două rânduri de ziduri. Vizitatorii pot explora bolțile subterane, sălile somptuoase și vechile dormitoare, pătrunzând în lumea medievală a conților de Savoia. Castelul a servit ca punct strategic de control pentru traficul dintre nordul și sudul Europei, o lecție de istorie medievală și geografie strategică pentru cursurile K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Cele mai vechi părți ale castelului datează din secolul al X-lea.",
+        "Poemul lui Lord Byron a făcut celebră în întreaga lume soarta prizonierului François Bonivard.",
+        "Castelul este construit pe o insulă stâncoasă, la doar câțiva metri de mal.",
+        "În interior se păstrează picturi murale din secolul al XIV-lea.",
+        "Castelul a fost reședința conților de Savoia pentru mai mult de 250 de ani.",
+        "Peste 400.000 de turiști vizitează castelul în fiecare an.",
+        "Castelul are propria sa podgorie și produce vinul Clos de Chillon.",
+        "În temnițele castelului, prizonierii erau legați de stâlpi săpați direct în stâncă."
+      ]
+    }
+  },
+  {
+    "id": "cult-pilatus",
+    "descriptionAdvanced": {
+      "ro": "Pilatus, muntele emblematic al Lucernei, este un masiv montan plin de mituri și legende. O legendă spune că trupul neînsuflețit al lui Ponțiu Pilat a fost aruncat într-un lac de pe acest munte. Muntele este accesibil cu cea mai abruptă cale ferată cu cremalieră din lume, care depășește o înclinație de până la 48%. Alternativ, o telegondolă panoramică și o telecabină urcă spre vârf. Odată ajuns sus, se deschide o vedere spectaculoasă de 360 de grade asupra Lacului celor Patru Cantoane și a Alpilor. O rețea de trasee de drumeții, inclusiv 'Calea Dragonului', străbate peisajul stâncos. Iarna, Pilatus este o destinație populară pentru săniuș și sporturi de iarnă, oferind un studiu de caz excelent despre turismul montan la geografia K8."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Calea ferată cu cremalieră a fost inaugurată în 1889 și a fost electrificată în 1937.",
+        "Călătoria cu trenul cu cremalieră de la Alpnachstad la Pilatus Kulm durează aproximativ 30 de minute.",
+        "Numele 'Pilatus' derivă posibil din latinescul 'pileatus' (acoperit de nori).",
+        "Cel mai înalt punct al masivului este Tomlishorn, la 2.128 de metri.",
+        "În Evul Mediu, accesul pe munte era interzis, deoarece se credea că aici locuiesc dragoni.",
+        "'Pilatus Seilpark' este cel mai mare parc de aventură în copaci din Elveția Centrală.",
+        "Legenda spune că spiritul lui Ponțiu Pilat bântuia muntele, provocând furtuni violente.",
+        "Pe vârf se află un hotel istoric și mai multe restaurante."
+      ]
+    }
+  },
+  {
+    "id": "cult-cern",
+    "descriptionAdvanced": {
+      "ro": "CERN, Organizația Europeană pentru Cercetare Nucleară, este unul dintre cele mai mari și mai prestigioase centre de cercetare fundamentală în fizică din lume. Este situat la granița franco-elvețiană, la vest de Geneva. Aici, fizicieni și ingineri încearcă să înțeleagă componentele de bază ale materiei și forțele care le leagă. Inima CERN este Large Hadron Collider (LHC), cel mai mare și mai puternic accelerator de particule din lume. World Wide Web a fost inventat la CERN în 1989 de Tim Berners-Lee. Vizitatorii pot explora expoziții interactive la noul 'Science Gateway' și pot arunca o privire în lumea fascinantă a fizicii particulelor, un subiect complex, dar esențial pentru înțelegerea tehnologiei moderne (programa K8)."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "CERN a fost fondat în 1954 de 12 state europene.",
+        "Tunelul LHC are o circumferință de 27 de kilometri și se află la o adâncime de până la 175 de metri sub pământ.",
+        "La CERN a fost confirmată existența bosonului Higgs în 2012, o descoperire epocală.",
+        "CERN este locul de naștere al World Wide Web, o invenție care a schimbat lumea.",
+        "Peste 10.000 de oameni de știință din peste 100 de țări colaborează la experimentele CERN.",
+        "Deceleratorul de Antiprotoni (AD) de la CERN produce și studiază antimateria.",
+        "CERN generează o cantitate imensă de date, necesitând o putere de calcul globală (Grid computing).",
+        "Bugetul anual al CERN este de aproximativ 1 miliard de franci elvețieni."
+      ]
+    }
+  },
+  {
+    "id": "nat-matterhorn",
+    "descriptionAdvanced": {
+      "ro": "Matterhorn, cu forma sa piramidală iconică, este emblema Elveției și un vis pentru orice alpinist. Acest munte magnific, care se înalță la 4.478 de metri la granița dintre Elveția și Italia, domină orizontul stațiunii Zermatt. Nu este doar o provocare tehnică pentru alpiniști, ci și un spectacol vizual copleșitor pentru orice iubitor al naturii. Cele patru fețe ale sale, orientate spre punctele cardinale, își schimbă culoarea pe parcursul zilei, de la auriu la răsărit la roșu aprins la apus. Explorarea zonei din jurul Matterhorn-ului, cu lacurile sale glaciare în care se oglindește vârful, oferă o lecție de neuitat despre dinamica peisajelor alpine și importanța conservării acestora, un subiect cheie pentru geografia K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Forma piramidală a muntelui este rezultatul eroziunii glaciare pe patru laturi.",
+        "Prima ascensiune reușită din 1865 a fost umbrită de o tragedie la coborâre, care a marcat istoria alpinismului.",
+        "Satul Zermatt de la poalele muntelui este complet închis traficului auto, accesul făcându-se doar cu trenul.",
+        "Calea ferată Gornergrat, care urcă pe creasta opusă, oferă una dintre cele mai spectaculoase priveliști asupra Matterhorn-ului.",
+        "Lacul Stellisee este renumit pentru fotografia perfectă a Matterhorn-ului reflectat în apele sale calme.",
+        "Matterhorn-ul este compus din roci aduse din placa continentală africană, suprapuse peste cele europene.",
+        "Muntele a fost unul dintre ultimele mari vârfuri alpine care au fost cucerite.",
+        "În fiecare an, serviciul de salvare montană Air Zermatt efectuează sute de operațiuni în zona Matterhorn."
+      ]
+    }
+  },
+  {
+    "id": "nat-jungfraujoch",
+    "descriptionAdvanced": {
+      "ro": "Supranumit 'Vârful Europei', Jungfraujoch oferă la 3.454 de metri o incursiune într-o lume unică a ghețarilor și a munților, accesibilă publicului larg datorită căii ferate Jungfrau. Călătoria în sine este o aventură, trenul cu cremalieră urcând printr-un tunel săpat în stânca munților Eiger și Mönch. Odată ajuns, panorama este copleșitoare: o mare de gheață a ghețarului Aletsch, cel mai lung din Alpi, se întinde sub privirile tale, înconjurată de vârfuri de peste 4.000 de metri. Această experiență la mare altitudine oferă o perspectivă directă asupra impactului schimbărilor climatice asupra ghețarilor, un subiect de maximă importanță pentru educația ecologică și geografia K8."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Jungfraujoch găzduiește cea mai înaltă gară din Europa.",
+        "Observatorul astronomic Sphinx de pe Jungfraujoch este deschis și pentru public.",
+        "Ghețarul Aletsch, parte a patrimoniului UNESCO, are o grosime de până la 900 de metri.",
+        "Palatul de Gheață este o rețea de tuneluri și sculpturi realizate în întregime în gheața ghețarului.",
+        "Calea ferată Jungfrau sărbătorește peste 100 de ani de funcționare, fiind inaugurată în 1912.",
+        "Datorită altitudinii, aerul este rarefiat, iar vizitatorilor li se recomandă să se deplaseze lent.",
+        "Aici se află cel mai înalt oficiu poștal din Europa, de unde se pot trimite vederi cu o ștampilă specială.",
+        "Zona este un important centru de cercetare pentru glaciologie și monitorizarea climei."
+      ]
+    }
+  },
+  {
+    "id": "nat-lucerne",
+    "descriptionAdvanced": {
+      "ro": "Lacul celor Patru Cantoane este un lac asemănător unui fiord în inima Elveției, leagănul istoric al națiunii. Înconjurat de munți celebri precum Rigi și Pilatus, forma sa complexă creează peisaje constant în schimbare. Pe malurile sale se găsesc locuri legendare, precum pajiștea Rütli, unde se spune că a fost fondată Confederația Elvețiană în 1291. O plimbare cu un vapor istoric cu aburi pe acest lac este o călătorie în timp, conectând orașe pitorești și sate idilice. Lacul nu este doar o cale de transport, ci și un ecosistem vital și o zonă de recreere, ilustrând perfect relația dintre așezările umane și resursele de apă, un subiect esențial pentru geografia K6."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Numele lacului provine de la cele patru cantoane 'pădure' originale: Uri, Schwyz, Unterwalden și Lucerna.",
+        "Capela lui Wilhelm Tell, un personaj legendar al Elveției, este situată pe o stâncă de pe malul lacului.",
+        "Lacul are o adâncime maximă de 214 metri.",
+        "Flota de vapoare cu aburi cu zbaturi este cea mai mare de acest tip din Europa, pe un lac interior.",
+        "Datorită adâncimii și vânturilor Föhn, lacul îngheață foarte rar complet.",
+        "'Calea Elveției' (Weg der Schweiz) este un traseu de drumeții de 35 km creat pentru a celebra a 700-a aniversare a țării.",
+        "Calitatea apei este excelentă, fiind potrivită pentru înot în numeroase locuri special amenajate.",
+        "Forma sa neregulată, cu multe brațe, face ca lungimea totală a malurilor să fie de 114 km."
+      ]
+    }
+  },
+  {
+    "id": "nat-lauterbrunnen",
+    "descriptionAdvanced": {
+      "ro": "Valea Lauterbrunnen este renumită pentru cele 72 de cascade ale sale, inclusiv faimoasa cascadă Staubbach, și pentru pereții săi stâncoși impunători, fiind una dintre cele mai impresionante văi glaciare din Alpi. Caracterul său unic, cu fundul plat al văii și versanții abrupți, a inspirat numeroși artiști, inclusiv pe J.R.R. Tolkien pentru crearea tărâmului elfilor, Rivendell. Cascadele Trümmelbach, ascunse în interiorul muntelui, sunt un spectacol natural deosebit, unde apa ghețarilor Eiger, Mönch și Jungfrau sculptează stânca. Valea este un paradis pentru drumeții și un exemplu perfect de relief glaciar, modelat de forța gheții și a apei, un subiect fascinant pentru lecțiile de geografie K7."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Cascada Staubbach are o cădere de aproape 300 de metri, fiind una dintre cele mai înalte cascade cu cădere liberă din Europa.",
+        "Cascadele Trümmelbach transportă până la 20.000 de litri de apă pe secundă, fiind singurele cascade glaciare din lume accesibile subteran.",
+        "Valea Lauterbrunnen este o arie naturală protejată de importanță națională.",
+        "Numele 'Lauterbrunnen' înseamnă 'multe fântâni' sau 'izvoare zgomotoase', o referire la numeroasele cascade.",
+        "Partea superioară a văii, spre Stechelberg, este o zonă fără mașini, păstrând un farmec autentic.",
+        "Se crede că peisajul văii a servit drept inspirație pentru Rivendell în opera lui J.R.R. Tolkien, 'Stăpânul Inelelor'.",
+        "Valea este un punct de plecare popular pentru a ajunge la satele montane Wengen și Mürren.",
+        "Cascada Mürrenbach, cu o înălțime totală de 417 metri, este considerată cea mai înaltă cascadă din Elveția."
+      ]
+    }
+  },
+  {
+    "id": "nat-interlaken",
+    "descriptionAdvanced": {
+      "ro": "Interlaken este capitala aventurii și a activităților în aer liber a Elveției, situată strategic între lacurile Thun și Brienz și având o priveliște directă spre faimosul trio montan Eiger, Mönch și Jungfrau. Această locație unică o transformă într-un hub pentru o gamă largă de sporturi, de la parapantă și canyoning la rafting și schi. În același timp, este un punct de plecare perfect pentru excursii mai liniștite, fie că este vorba de o croazieră pe unul dintre cele două lacuri de un albastru intens sau o călătorie cu trenul spre inima Alpilor Bernezi. Inima orașului este pajiștea Höhenmatte, un spațiu verde de 14 hectare care garantează o vedere neobstrucționată spre Jungfrau, un exemplu de planificare urbană care prioritizează peisajul natural."
+    },
+    "factsAdvanced": {
+      "ro": [
+        "Numele Interlaken înseamnă 'între lacuri' în latină (inter lacus).",
+        "Orașul este un centru recunoscut la nivel mondial pentru sporturi de aventură precum parapanta, zborul cu deltaplanul și săriturile cu parașuta.",
+        "Funicularul Harderbahn urcă pe muntele local, Harder Kulm, pentru o panoramă excepțională asupra celor două lacuri și a munților.",
+        "Râul Aare, care leagă cele două lacuri, traversează orașul, având o culoare turcoaz spectaculoasă.",
+        "Hotelul Grand Victoria-Jungfrau este unul dintre cele mai faimoase și luxoase hoteluri istorice din Elveția.",
+        "Interlaken a devenit o destinație turistică majoră în secolul al XIX-lea, atrasă de pictorii romantici ai peisajului.",
+        "De aici pornesc trenuri directe spre Jungfraujoch, 'Top of Europe'.",
+        "Peșterile Sf. Beatus din apropiere sunt un sistem extins de peșteri carstice, cu cascade subterane și formațiuni impresionante."
+      ]
+    }
+  }
+]

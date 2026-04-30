@@ -13,7 +13,7 @@ export interface GeographieSubtopic {
 
 export interface GeographieTheme {
   id: string;
-  name: string;
+  name: string | Record<string, string>;
   icon: string;
   color: string;
   subtopics: GeographieSubtopic[];

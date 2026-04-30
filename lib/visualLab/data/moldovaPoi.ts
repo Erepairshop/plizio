@@ -3,60 +3,6 @@ import { POI } from "./poi";
 export const moldovaAllPoi: POI[] = [
   // --- Főváros és Városok ---
   {
-    id: "md-chisinau",
-    parent: "MD",
-    type: "state-capital",
-    coords: [28.8638, 47.0105],
-    name: {
-      de: "Chișinău",
-      hu: "Chișinău",
-      ro: "Chișinău",
-      en: "Chișinău",
-    },
-    description: {
-      de: "Die Hauptstadt und größte Stadt der Republik Moldau, das kulturelle und wirtschaftliche Zentrum des Landes.",
-      hu: "Moldova fővárosa és legnagyobb városa, az ország kulturális és gazdasági központja.",
-      ro: "Capitala și cel mai mare oraș al Republicii Moldova, centrul cultural și economic al țării.",
-      en: "The capital and largest city of Moldova, the cultural and economic center of the country.",
-    },
-  },
-  {
-    id: "md-balti",
-    parent: "MD",
-    type: "city",
-    coords: [27.9289, 47.7617],
-    name: {
-      de: "Bălți",
-      hu: "Bălți",
-      ro: "Bălți",
-      en: "Bălți",
-    },
-    description: {
-      de: "Die zweitgrößte Stadt in der Republik Moldau, oft als 'nördliche Hauptstadt' bezeichnet.",
-      hu: "Moldova második legnagyobb városa, amelyet gyakran az 'északi fővárosnak' is neveznek.",
-      ro: "Al doilea cel mai mare oraș din Republica Moldova, numit adesea 'capitala de nord'.",
-      en: "The second largest city in Moldova, often referred to as the 'northern capital'.",
-    },
-  },
-  {
-    id: "md-tiraspol",
-    parent: "MD",
-    type: "city",
-    coords: [29.6322, 46.8353],
-    name: {
-      de: "Tiraspol",
-      hu: "Tiraszpol",
-      ro: "Tiraspol",
-      en: "Tiraspol",
-    },
-    description: {
-      de: "Die Hauptstadt der abtrünnigen Region Transnistrien, bekannt für ihre sowjetische Architektur.",
-      hu: "A szakadár Dnyeszter Menti Köztársaság fővárosa, szovjet kori építészetéről ismert.",
-      ro: "Capitala regiunii separatiste Transnistria, cunoscută pentru arhitectura sa sovietică.",
-      en: "The capital of the breakaway region of Transnistria, known for its Soviet-era architecture.",
-    },
-  },
-  {
     id: "md-bender",
     parent: "MD",
     type: "city",
@@ -74,61 +20,6 @@ export const moldovaAllPoi: POI[] = [
       en: "A historically significant city located on the right bank of the Dniester river.",
     },
   },
-  {
-    id: "md-soroca",
-    parent: "MD",
-    type: "city",
-    coords: [28.2849, 48.1564],
-    name: {
-      de: "Soroca",
-      hu: "Soroca",
-      ro: "Soroca",
-      en: "Soroca",
-    },
-    description: {
-      de: "Bekannt für ihre mittelalterliche Festung und als das inoffizielle Zentrum der Roma in der Republik Moldau.",
-      hu: "Középkori erődjéről, valamint a moldovai roma közösség nem hivatalos központjaként ismert.",
-      ro: "Cunoscut pentru cetatea sa medievală și ca centru neoficial al romilor din Republica Moldova.",
-      en: "Known for its medieval fortress and as the unofficial center of the Roma people in Moldova.",
-    },
-  },
-  {
-    id: "md-orhei",
-    parent: "MD",
-    type: "city",
-    coords: [28.8167, 47.3833],
-    name: {
-      de: "Orhei",
-      hu: "Orhei",
-      ro: "Orhei",
-      en: "Orhei",
-    },
-    description: {
-      de: "Eine wichtige Stadt in Zentralmoldau, nicht weit vom berühmten historischen Komplex Orheiul Vechi entfernt.",
-      hu: "Közép-Moldova egyik fontos városa, nem messze a híres Orheiul Vechi történelmi komplexumtól.",
-      ro: "Un oraș important din centrul Moldovei, nu departe de faimosul complex istoric Orheiul Vechi.",
-      en: "An important city in central Moldova, not far from the famous Orheiul Vechi historical complex.",
-    },
-  },
-  {
-    id: "md-comrat",
-    parent: "MD",
-    type: "city",
-    coords: [28.6575, 46.3006],
-    name: {
-      de: "Comrat",
-      hu: "Comrat",
-      ro: "Comrat",
-      en: "Comrat",
-    },
-    description: {
-      de: "Die Hauptstadt der autonomen Region Gagausien im Süden der Republik Moldau.",
-      hu: "Gagauzia autonóm régió fővárosa Moldova déli részén.",
-      ro: "Capitala regiunii autonome Găgăuzia, în sudul Republicii Moldova.",
-      en: "The capital of the autonomous region of Gagauzia in southern Moldova.",
-    },
-  },
-
   // --- Történelmi és Látnivalók ---
   {
     id: "md-orheiul-vechi",
@@ -203,24 +94,6 @@ export const moldovaAllPoi: POI[] = [
     },
   },
   {
-    id: "md-capriana",
-    parent: "MD",
-    type: "historical",
-    coords: [28.4527, 47.1166],
-    name: {
-      de: "Kloster Căpriana",
-      hu: "Căpriana kolostor",
-      ro: "Mănăstirea Căpriana",
-      en: "Căpriana Monastery",
-    },
-    description: {
-      de: "Eines der ältesten und bedeutendsten orthodoxen Klöster in der Republik Moldau, gelegen in der waldreichen Codru-Region.",
-      hu: "Moldova egyik legrégebbi és legjelentősebb ortodox kolostora az erdős Codru régióban.",
-      ro: "Una dintre cele mai vechi și mai importante mănăstiri ortodoxe din Republica Moldova, situată în zona împădurită Codru.",
-      en: "One of the oldest and most important Orthodox monasteries in Moldova, located in the forested Codru region.",
-    },
-  },
-  {
     id: "md-tighina-fortress",
     parent: "MD",
     type: "historical",
@@ -236,24 +109,6 @@ export const moldovaAllPoi: POI[] = [
       hu: "Egy 16. századi jelentős oszmán erőd a Dnyeszter partján, Bender városában.",
       ro: "O importantă cetate otomană din secolul al XVI-lea pe Nistru, în orașul Bender.",
       en: "An important 16th-century Ottoman fortress on the Dniester River in the city of Bender.",
-    },
-  },
-  {
-    id: "md-saharna",
-    parent: "MD",
-    type: "historical",
-    coords: [28.9722, 47.6961],
-    name: {
-      de: "Kloster Saharna",
-      hu: "Saharna kolostor",
-      ro: "Mănăstirea Saharna",
-      en: "Saharna Monastery",
-    },
-    description: {
-      de: "Ein malerisches Kloster in einer wunderschönen Schlucht mit Wasserfällen.",
-      hu: "Festői kolostor, amely egy gyönyörű, vízesésekkel tarkított szurdok mélyén fekszik.",
-      ro: "O mănăstire pitorească situată într-un defileu frumos, renumit pentru cascadele sale.",
-      en: "A picturesque monastery located in a beautiful gorge, famous for its waterfalls.",
     },
   },
   {

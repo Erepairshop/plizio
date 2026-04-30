@@ -5,6 +5,7 @@ import {
   buildPoiPath,
   buildStatePath,
   countrySlugFor,
+  COUNTRY_SLUGS,
   findPoiBySlug,
   findRegionByStateSlug,
   getCountryId,
@@ -17,6 +18,10 @@ import {
 import type { POI } from "@/lib/visualLab/data/poi";
 
 export const SITE_URL = "https://plizio.com";
+
+function localizedValue(value: { de: string; hu: string; ro: string; en: string } | undefined, lang: Lang) {
+  return value?.[lang] || value?.de || "";
+}
 
 export const SEO_LOCALES: Record<Lang, string> = {
   de: "de_DE",
@@ -147,6 +152,7 @@ export function getPoisForState(stateId: string) {
 }
 
 export function getRelatedPois(poi: POI, limit = 6) {
+  if (!poi.parent) return [];
   return getPoisForState(poi.parent)
     .filter((entry) => entry.id !== poi.id)
     .sort((a, b) => Number(a.type !== poi.type) - Number(b.type !== poi.type))
@@ -164,11 +170,15 @@ export function groupPoisForState(stateId: string) {
 }
 
 export function getPoiByRouteParams(lang: Lang, country: string, state: string, poiSlugValue: string) {
-  let countryId: string = "germany";
-  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
-  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
-
-  if (country !== countrySlugFor(lang, countryId)) return null;
+  // Find country by matching localized slug across ALL known countries
+  let countryId: string | null = null;
+  for (const cid of Object.keys(COUNTRY_SLUGS)) {
+    if (country === COUNTRY_SLUGS[cid][lang]) {
+      countryId = cid;
+      break;
+    }
+  }
+  if (!countryId) return null;
 
   const region = findRegionByStateSlug(lang, state);
   if (!region || getCountryId(region.id) !== countryId) return null;
@@ -180,11 +190,15 @@ export function getPoiByRouteParams(lang: Lang, country: string, state: string, 
 }
 
 export function getStateByRouteParams(lang: Lang, country: string, state: string) {
-  let countryId: string = "germany";
-  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
-  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
-
-  if (country !== countrySlugFor(lang, countryId)) return null;
+  // Find country by matching localized slug across ALL known countries
+  let countryId: string | null = null;
+  for (const cid of Object.keys(COUNTRY_SLUGS)) {
+    if (country === COUNTRY_SLUGS[cid][lang]) {
+      countryId = cid;
+      break;
+    }
+  }
+  if (!countryId) return null;
 
   const region = findRegionByStateSlug(lang, state);
   if (!region || getCountryId(region.id) !== countryId) return null;
@@ -193,18 +207,18 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
 
 export function poiTitle(poi: POI, lang: Lang) {
   const state = getStateForPoi(poi);
-  const name = poi.name[lang] || poi.name.de;
-  return `${name} - ${localizedStateName(state?.id || poi.parent, lang)} | Plizio Visual Lab`;
+  const name = localizedValue(poi.name, lang) || poi.id;
+  return `${name} - ${localizedStateName(state?.id ?? poi.parent ?? "", lang)} | Plizio Visual Lab`;
 }
 
 export function poiDescription(poi: POI, lang: Lang) {
-  return truncateDescription(poi.description[lang] || poi.description.de || "");
+  return truncateDescription(localizedValue(poi.description, lang));
 }
 
 export function stateDescription(stateId: string, lang: Lang) {
   const state = regions.find((entry) => entry.id === stateId);
   const countryId = getCountryId(stateId);
-  return truncateDescription(state?.description[lang] || state?.description.de || COUNTRY_COPY[countryId][lang].description);
+  return truncateDescription(localizedValue(state?.description, lang) || COUNTRY_COPY[countryId][lang].description);
 }
 
 export function countryMetadata(lang: Lang, countryId: string = "germany"): Metadata {

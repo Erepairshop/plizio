@@ -540,18 +540,6 @@ export const liechtensteinNature: POI[] = [
     },
   },
   {
-    id: "li-nat-ruggeller-riet",
-    type: "landmark",
-    parent: "LI-009",
-    coords: [9.5422, 47.2433],
-    name: {
-      de: "Ruggeller Riet",
-      hu: "Ruggeller Riet",
-      ro: "Ruggeller Riet",
-      en: "Ruggeller Riet"
-    },
-  },
-  {
     id: "li-nat-samina",
     type: "landmark",
     parent: "LI-003",

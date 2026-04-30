@@ -272,16 +272,7 @@ export const franceCities: POI[] = [
     facts: {"de":["Das Château des ducs de Bretagne war im Mittelalter das Zentrum der bretonischen Macht.","Jules Verne, der berühmte Science-Fiction-Autor, wurde in Nantes geboren.","Die Stadt war historisch ein Knotenpunkt für den Schiffbau und den Handel.","Der Passageneinkaufsgang Passage Pommeraye stammt aus dem 19. Jahrhundert.","Nantes wurde 2013 zur Umwelthauptstadt Europas gewählt.","Das Mémorial de l'Abolition de l'Esclavage erinnert an die Rolle der Stadt im Sklavenhandel.","Der Botanische Garten (Jardin des Plantes) gehört zu den schönsten des Landes.","Die LU-Keksfabrik (Lieu Unique) wurde in ein Zentrum für zeitgenössische Künste umgebaut."],"hu":["A Château des ducs de Bretagne a középkorban a breton hatalom központja volt.","Jules Verne, a híres sci-fi író Nantes-ban született.","A város történelmileg a hajóépítés és a kereskedelem csomópontja volt.","A Passage Pommeraye nevű bevásárló árkád a 19. századból származik.","Nantes-ot 2013-ban Európa Zöld Fővárosának választották.","A Mémorial de l'Abolition de l'Esclavage a város rabszolgakereskedelemben betöltött szerepére emlékeztet.","A botanikus kert (Jardin des Plantes) az ország egyik legszebb kertje.","A LU kekszgyárat (Lieu Unique) a kortárs művészetek központjává alakították át."],"ro":["Château des ducs de Bretagne a fost centrul puterii bretone în Evul Mediu.","Jules Verne, celebrul autor de science-fiction, s-a născut la Nantes.","Orașul a fost istoric un centru pentru construcția de nave și comerț.","Galeria comercială Passage Pommeraye datează din secolul al XIX-lea.","Nantes a fost numit Capitala Verde Europeană în 2013.","Mémorial de l'Abolition de l'Esclavage comemorează rolul orașului în comerțul cu sclavi.","Grădina Botanică (Jardin des Plantes) este una dintre cele mai frumoase din țară.","Fabrica de biscuiți LU (Lieu Unique) a fost transformată într-un centru de artă contemporană."],"en":["The Château des ducs de Bretagne was the center of Breton power in the Middle Ages.","Jules Verne, the famous science fiction author, was born in Nantes.","The city was historically a hub for shipbuilding and trade.","The Passage Pommeraye shopping arcade dates back to the 19th century.","Nantes was voted the European Green Capital in 2013.","The Mémorial de l'Abolition de l'Esclavage commemorates the city's role in the slave trade.","The Botanical Garden (Jardin des Plantes) is one of the most beautiful in the country.","The LU biscuit factory (Lieu Unique) was converted into a contemporary arts center."]},
     image: "/geo-images/france/nantes.webp"
   },
-  {
-    id: "bordeaux",
-    type: "city",
-    parent: "FR-NAQ",
-    coords: [-0.5792, 44.8378],
-    name: {"de": "Bordeaux", "hu": "Bordeaux", "ro": "Bordeaux", "en": "Bordeaux"},
-    description: {"de":"Bordeaux, am Ufer der Garonne gelegen, ist die weltweite Hauptstadt des Weins. Die Architektur der Stadt, die zum UNESCO-Weltkulturerbe gehört, ist geprägt von prächtigen Gebäuden aus dem 18. Jahrhundert. Mit der beeindruckenden Place de la Bourse und dem Spiegelbecken (Miroir d'eau) bietet die Stadt malerische Fotomotive. Das moderne Museum Cité du Vin feiert die reiche Weintradition der Region auf interaktive Weise. Bordeaux ist zudem bekannt für seine elegante Lebensart und exzellente Gastronomie.","hu":"A Garonne folyó partján fekvő Bordeaux a bor világfővárosa. Az UNESCO világörökség részét képező város építészetét a 18. századi pompás épületek határozzák meg. A lenyűgöző Place de la Bourse és a Víztükör (Miroir d'eau) festői fotótémákat kínál. A modern Cité du Vin múzeum interaktív módon ünnepli a régió gazdag borászati hagyományait. Bordeaux az elegáns életmódjáról és kiváló gasztronómiájáról is híres.","ro":"Bordeaux, situat pe malurile Garonnei, este capitala mondială a vinului. Arhitectura orașului, un sit al Patrimoniului Mondial UNESCO, este caracterizată de clădiri magnifice din secolul al XVIII-lea. Cu impresionanta Place de la Bourse și Oglinda de Apă (Miroir d'eau), orașul oferă motive fotografice pitorești. Muzeul modern Cité du Vin sărbătorește în mod interactiv tradiția viticolă bogată a regiunii. Bordeaux este, de asemenea, cunoscut pentru stilul său de viață elegant și gastronomia excelentă.","en":"Bordeaux, located on the banks of the Garonne, is the world capital of wine. The city's architecture, a UNESCO World Heritage site, is characterized by magnificent 18th-century buildings. With the impressive Place de la Bourse and the Water Mirror (Miroir d'eau), the city offers picturesque photo opportunities. The modern Cité du Vin museum interactively celebrates the region's rich winemaking tradition. Bordeaux is also known for its elegant lifestyle and excellent gastronomy."},
-    facts: {"de":["Bordeaux ist das größte geschlossene städtische UNESCO-Weltkulturerbe der Welt.","Die Region produziert einige der teuersten und berühmtesten Weine der Welt.","Das Miroir d'eau ist das größte Reflexionsbecken der Welt.","Das Grand Théâtre de Bordeaux gilt als eines der schönsten Opernhäuser Europas.","Die Brücke Pont de Pierre wurde auf Befehl von Napoleon Bonaparte erbaut.","Canelés sind traditionelle kleine Kuchen aus Bordeaux mit Rum und Vanille.","Bordeaux war historisch der zweitwichtigste Hafen Frankreichs nach Marseille.","Das Stadion Matmut Atlantique ist ein architektonisches Meisterwerk für Sportevents."],"hu":["Bordeaux a világ legnagyobb összefüggő városi UNESCO világörökségi helyszíne.","A régió állítja elő a világ legdrágább és leghíresebb borait.","A Miroir d'eau a világ legnagyobb víztükre.","A Grand Théâtre de Bordeaux Európa egyik legszebb operaháza.","A Pont de Pierre hidat Napóleon Bonaparte parancsára építették.","A Canelés hagyományos aprósütemények Bordeaux-ból, rummal és vaníliával.","Bordeaux történelmileg Franciaország második legfontosabb kikötője volt Marseille után.","A Matmut Atlantique stadion sporteseményekre tervezett építészeti remekmű."],"ro":["Bordeaux este cel mai mare sit urban UNESCO din lume din punct de vedere al suprafeței continue.","Regiunea produce unele dintre cele mai scumpe și celebre vinuri din lume.","Miroir d'eau este cel mai mare bazin reflectorizant din lume.","Grand Théâtre de Bordeaux este considerat una dintre cele mai frumoase opere din Europa.","Podul Pont de Pierre a fost construit la ordinul lui Napoleon Bonaparte.","Canelés sunt prăjituri tradiționale mici din Bordeaux cu rom și vanilie.","Bordeaux a fost istoric al doilea cel mai important port al Franței, după Marsilia.","Stadionul Matmut Atlantique este o capodoperă arhitecturală pentru evenimente sportive."],"en":["Bordeaux is the largest contiguous urban UNESCO World Heritage site in the world.","The region produces some of the most expensive and famous wines globally.","The Miroir d'eau is the largest reflecting pool in the world.","The Grand Théâtre de Bordeaux is considered one of the most beautiful opera houses in Europe.","The Pont de Pierre bridge was built on the orders of Napoleon Bonaparte.","Canelés are traditional small cakes from Bordeaux made with rum and vanilla.","Bordeaux was historically the second most important port in France after Marseille.","The Matmut Atlantique stadium is an architectural masterpiece for sporting events."]},
-    image: "/geo-images/france/bordeaux.webp"
-  },
+
   {
     id: "strasbourg",
     type: "city",
@@ -362,16 +353,7 @@ export const franceCities: POI[] = [
     facts: {"de":["Die Region beherbergt das größte zusammenhängende Skigebiet der Welt, Les Trois Vallées.","Annecy, das \"Venedig der Alpen\", liegt an einem der saubersten Seen Europas.","Der Vanoise-Nationalpark war der erste Nationalpark Frankreichs.","Grenoble ist bekannt als die Hauptstadt der französischen Alpen.","In Chamonix fanden 1924 die allerersten Olympischen Winterspiele statt.","Die Serpentinenstraße nach Alpe d'Huez ist eine der legendärsten Etappen der Tour de France.","Tartiflette, Raclette und Fondue sind typische traditionelle Alpen-Gerichte.","Die Seilbahn Aiguille du Midi in Chamonix gehört zu den höchsten Seilbahnen Europas."],"hu":["A régió ad otthont a világ legnagyobb összefüggő síterepének, a Les Trois Vallées-nek.","Annecy, az \"Alpok Velencéje\", Európa egyik legtisztább tava mellett fekszik.","A Vanoise Nemzeti Park volt Franciaország első nemzeti parkja.","Grenoble a francia Alpok fővárosaként ismert.","Chamonix-ban rendezték meg az első téli olimpiát 1924-ben.","Az Alpe d'Huez-be vezető szerpentines út a Tour de France egyik leglegendásabb szakasza.","A Tartiflette, a Raclette és a Fondue tipikus hagyományos alpesi ételek.","A chamonix-i Aiguille du Midi felvonó Európa egyik legmagasabb drótkötélpályája."],"ro":["Regiunea găzduiește cea mai mare zonă de schi interconectată din lume, Les Trois Vallées.","Annecy, \"Veneția Alpilor\", se află pe malul unuia dintre cele mai curate lacuri din Europa.","Parcul Național Vanoise a fost primul parc național al Franței.","Grenoble este cunoscut drept capitala Alpilor Francezi.","Primele Jocuri Olimpice de Iarnă au avut loc la Chamonix în 1924.","Drumul șerpuit către Alpe d'Huez este una dintre cele mai legendare etape ale Turului Franței.","Tartiflette, Raclette și Fondue sunt preparate tipice tradiționale din Alpi.","Telecabina Aiguille du Midi din Chamonix este printre cele mai înalte telecabine din Europa."],"en":["The region is home to the largest interconnected ski area in the world, Les Trois Vallées.","Annecy, the \"Venice of the Alps\", is located on one of Europe's cleanest lakes.","The Vanoise National Park was the first national park in France.","Grenoble is known as the capital of the French Alps.","The very first Winter Olympic Games were held in Chamonix in 1924.","The winding road to Alpe d'Huez is one of the most legendary stages of the Tour de France.","Tartiflette, Raclette, and Fondue are typical traditional Alpine dishes.","The Aiguille du Midi cable car in Chamonix is one of the highest cable cars in Europe."]},
     image: "/geo-images/france/french-alps.webp"
   },
-  {
-    id: "mont-blanc",
-    type: "mountain",
-    parent: "FR-ARA",
-    coords: [6.8642, 45.8326],
-    name: {"de": "Mont Blanc", "hu": "Mont Blanc", "ro": "Mont Blanc", "en": "Mont Blanc"},
-    description: {"de":"Der Mont Blanc ist der höchste Berg der Alpen und das 'Dach Europas'. Er markiert die Grenze zwischen Frankreich und Italien. Seine schneebedeckte Kuppe ist ein ikonisches Wahrzeichen und ein Traumziel für Alpinisten weltweit. Die umliegende Landschaft bietet gewaltige Gletscher, darunter das beeindruckende Mer de Glace. Der Mont-Blanc-Tunnel unter dem Berg ist eine wichtige Verkehrsverbindung zwischen den beiden Ländern.","hu":"A Mont Blanc az Alpok legmagasabb hegye és 'Európa teteje'. Franciaország és Olaszország közötti határt jelöli. Hóval borított csúcsa ikonikus nevezetesség és az alpinisták álomcélpontja világszerte. A környező táj hatalmas gleccsereket kínál, köztük a lenyűgöző Mer de Glace-t. A hegy alatt húzódó Mont Blanc-alagút fontos közlekedési kapcsolat a két ország között.","ro":"Mont Blanc este cel mai înalt munte din Alpi și „Acoperișul Europei”. Acesta marchează granița dintre Franța și Italia. Vârful său acoperit de zăpadă este un reper emblematic și o destinație de vis pentru alpiniștii din întreaga lume. Peisajul din jur oferă ghețari masivi, inclusiv impresionantul Mer de Glace. Tunelul Mont Blanc pe sub munte este o legătură importantă de transport între cele două țări.","en":"Mont Blanc is the highest mountain in the Alps and the 'Roof of Europe'. It marks the border between France and Italy. Its snow-capped peak is an iconic landmark and a dream destination for alpinists worldwide. The surrounding landscape offers massive glaciers, including the impressive Mer de Glace. The Mont Blanc Tunnel beneath the mountain is an important transport link between the two countries."},
-    facts: {"de":["Der Mont Blanc erreicht eine Höhe von 4.805 Metern (die exakte Höhe variiert je nach Schneedecke).","Die Erstbesteigung fand am 8. August 1786 durch Jacques Balmat und Michel-Gabriel Paccard statt.","Jedes Jahr versuchen rund 20.000 Bergsteiger den Gipfel zu erreichen.","Die Tour du Mont Blanc ist einer der berühmtesten Fernwanderwege Europas.","Der Mont-Blanc-Tunnel ist 11,6 Kilometer lang.","Auf dem Berg herrschen extreme Wetterbedingungen mit Temperaturen bis zu -40°C.","Chamonix auf französischer Seite ist der wichtigste Ausgangspunkt für Expeditionen.","Ein großer Teil des Gesteins am Mont Blanc besteht aus Granit."],"hu":["A Mont Blanc eléri a 4805 méteres magasságot (a pontos magasság a hótakarótól függően változik).","Az első megmászás 1786. augusztus 8-án történt Jacques Balmat és Michel-Gabriel Paccard által.","Évente mintegy 20 000 hegymászó próbálja meg elérni a csúcsot.","A Tour du Mont Blanc Európa egyik leghíresebb hosszú távú túraútvonala.","A Mont Blanc-alagút 11,6 kilométer hosszú.","A hegyen szélsőséges időjárási viszonyok uralkodnak, a hőmérséklet akár -40°C is lehet.","A francia oldalon lévő Chamonix a legfontosabb kiindulópont az expedíciók számára.","A Mont Blanc kőzeteinek nagy része gránitból áll."],"ro":["Mont Blanc atinge o înălțime de 4.805 metri (înălțimea exactă variază în funcție de stratul de zăpadă).","Prima ascensiune a avut loc la 8 august 1786 de către Jacques Balmat și Michel-Gabriel Paccard.","În fiecare an, aproximativ 20.000 de alpiniști încearcă să ajungă în vârf.","Tour du Mont Blanc este unul dintre cele mai faimoase trasee de drumeție de lungă distanță din Europa.","Tunelul Mont Blanc are o lungime de 11,6 kilometri.","Pe munte predomină condiții meteorologice extreme, cu temperaturi de până la -40°C.","Chamonix pe partea franceză este principalul punct de plecare pentru expediții.","O mare parte din roca de pe Mont Blanc este formată din granit."],"en":["Mont Blanc reaches a height of 4,805 meters (the exact height varies depending on the snow cover).","The first ascent took place on August 8, 1786, by Jacques Balmat and Michel-Gabriel Paccard.","Every year, about 20,000 mountaineers try to reach the summit.","The Tour du Mont Blanc is one of the most famous long-distance hiking trails in Europe.","The Mont Blanc Tunnel is 11.6 kilometers long.","Extreme weather conditions prevail on the mountain with temperatures down to -40°C.","Chamonix on the French side is the main starting point for expeditions.","A large part of the rock on Mont Blanc consists of granite."]},
-    image: "/geo-images/france/mont-blanc.webp"
-  },
+
   {
     id: "normandy-dday",
     type: "historical",
@@ -412,16 +394,7 @@ export const franceCities: POI[] = [
     facts: {"de":["Der Grundstein wurde im Jahr 1163 gelegt.","Die Bauzeit dauerte fast 200 Jahre.","Die beiden charakteristischen Türme sind 69 Meter hoch.","Napoleon Bonaparte krönte sich 1804 in Notre-Dame zum Kaiser.","Der Point Zéro vor der Kathedrale ist der Referenzpunkt für alle Entfernungsangaben in Frankreich.","Die große Glocke im Südturm heißt Emmanuel und wiegt 13 Tonnen.","Während der Französischen Revolution wurden viele Statuen stark beschädigt oder zerstört.","Vor dem Brand im April 2019 empfing Notre-Dame jährlich rund 13 Millionen Besucher."],"hu":["Az alapkövet 1163-ban rakták le.","Az építkezés csaknem 200 évig tartott.","A két jellegzetes torony 69 méter magas.","Napóleon Bonaparte 1804-ben koronázta magát császárrá a Notre-Dame-ban.","A katedrális előtti Point Zéro a franciaországi távolságadatok referenciapontja.","A déli torony nagy harangját Emmanuelnek hívják, és 13 tonnát nyom.","A francia forradalom alatt sok szobor súlyosan megrongálódott vagy elpusztult.","A 2019. áprilisi tűzvész előtt a Notre-Dame évente mintegy 13 millió látogatót fogadott."],"ro":["Piatra de temelie a fost pusă în anul 1163.","Timpul de construcție a durat aproape 200 de ani.","Cele două turnuri caracteristice au o înălțime de 69 de metri.","Napoleon Bonaparte s-a încoronat împărat la Notre-Dame în 1804.","Point Zéro din fața catedralei este punctul de referință pentru toate distanțele rutiere din Franța.","Clopotul mare din turnul de sud se numește Emmanuel și cântărește 13 tone.","În timpul Revoluției Franceze, multe statui au fost grav avariate sau distruse.","Înainte de incendiul din aprilie 2019, Notre-Dame primea aproximativ 13 milioane de vizitatori anual."],"en":["The foundation stone was laid in the year 1163.","The construction process took nearly 200 years.","The two characteristic towers are 69 meters high.","Napoleon Bonaparte crowned himself emperor in Notre-Dame in 1804.","The Point Zéro in front of the cathedral is the reference point for all road distances in France.","The great bell in the south tower is called Emmanuel and weighs 13 tons.","During the French Revolution, many statues were severely damaged or destroyed.","Before the fire in April 2019, Notre-Dame received about 13 million visitors annually."]},
     image: "/geo-images/france/notre-dame.webp"
   },
-  {
-    id: "chambord",
-    type: "landmark",
-    parent: "FR-CVL",
-    coords: [1.5172, 47.616],
-    name: {"de": "Schloss Chambord", "hu": "Chambord kastély", "ro": "Castelul Chambord", "en": "Schloss Chambord"},
-    description: {"de":"Das Schloss Chambord ist das größte und prächtigste Schloss der Loire-Region. Es ist ein herausragendes Beispiel der französischen Renaissance-Architektur und verschmilzt traditionelle mittelalterliche Elemente mit klassischen italienischen Strukturen. Das Schloss wurde ursprünglich als monumentales Jagdschloss für König Franz I. erbaut. Seine atemberaubende Dachlandschaft mit Türmchen und Schornsteinen ist weltweit unverwechselbar. Umgeben ist Chambord vom größten geschlossenen Waldpark Europas.","hu":"A chambordi kastély a Loire régió legnagyobb és legpompásabb kastélya. A francia reneszánsz építészet kiemelkedő példája, amely ötvözi a hagyományos középkori elemeket a klasszikus olasz struktúrákkal. A kastélyt eredetileg monumentális vadászkastélyként építették I. Ferenc király számára. Lélegzetelállító tetőtere a tornyokkal és a kéményekkel világszerte összetéveszthetetlen. Chambord-t Európa legnagyobb összefüggő erdei parkja veszi körül.","ro":"Castelul Chambord este cel mai mare și cel mai magnific castel din regiunea Loarei. Este un exemplu remarcabil al arhitecturii renascentiste franceze, îmbinând elementele tradiționale medievale cu structurile clasice italiene. Castelul a fost inițial construit ca un complex monumental de vânătoare pentru regele Francisc I. Peisajul său uluitor al acoperișului cu turnulețe și coșuri de fum este inconfundabil la nivel mondial. Chambord este înconjurat de cel mai mare parc forestier închis din Europa.","en":"The Château de Chambord is the largest and most magnificent castle in the Loire region. It is an outstanding example of French Renaissance architecture, blending traditional medieval elements with classical Italian structures. The castle was originally built as a monumental hunting lodge for King Francis I. Its breathtaking roofscape featuring turrets and chimneys is globally unmistakable. Chambord is surrounded by the largest enclosed forest park in Europe."},
-    facts: {"de":["Das Schloss verfügt über 440 Räume, 282 Kamine und 84 Treppen.","Das markanteste architektonische Merkmal ist die berühmte doppelläufige Wendeltreppe.","Man nimmt an, dass Leonardo da Vinci an den Entwürfen beteiligt war.","Der das Schloss umgebende Park ist so groß wie die Innenstadt von Paris.","Die Schlossmauer ist 32 Kilometer lang und die längste in Frankreich.","Franz I. hielt sich in seiner gesamten Regierungszeit nur wenige Wochen in Chambord auf.","Während des Zweiten Weltkriegs diente das Schloss als Versteck für Kunstwerke aus dem Louvre.","Das Schloss steht seit 1981 auf der UNESCO-Weltkulturerbe-Liste."],"hu":["A kastély 440 szobával, 282 kandallóval és 84 lépcsővel rendelkezik.","A legszembetűnőbb építészeti jellemzője a híres kettős csigalépcső.","Feltételezések szerint Leonardo da Vinci is részt vett a tervek elkészítésében.","A kastélyt körülvevő park akkora, mint Párizs belvárosa.","A kastély fala 32 kilométer hosszú, és a leghosszabb Franciaországban.","I. Ferenc teljes uralkodása alatt mindössze néhány hetet töltött Chambord-ban.","A második világháború alatt a kastély a Louvre műkincseinek rejtekhelyéül szolgált.","A kastély 1981 óta szerepel az UNESCO világörökségi listáján."],"ro":["Castelul are 440 de camere, 282 de șeminee și 84 de scări.","Cea mai izbitoare caracteristică arhitecturală este faimoasa scară cu dublă spirală.","Se presupune că Leonardo da Vinci a fost implicat în realizarea proiectelor.","Parcul din jurul castelului are dimensiunea centrului Parisului.","Zidul castelului are o lungime de 32 de kilometri, cel mai lung din Franța.","Francisc I a petrecut doar câteva săptămâni la Chambord în întreaga sa domnie.","În timpul celui de-Al Doilea Război Mondial, castelul a servit ca ascunzătoare pentru operele de artă de la Luvru.","Castelul se află pe lista Patrimoniului Mondial UNESCO din anul 1981."],"en":["The castle has 440 rooms, 282 fireplaces, and 84 staircases.","The most striking architectural feature is the famous double-helix staircase.","It is believed that Leonardo da Vinci was involved in the design.","The park surrounding the castle is the size of central Paris.","The castle wall is 32 kilometers long and the longest in France.","Francis I spent only a few weeks in Chambord during his entire reign.","During World War II, the castle served as a hiding place for artworks from the Louvre.","The castle has been on the UNESCO World Heritage list since 1981."]},
-    image: "/geo-images/france/chambord.webp"
-  },
+
   {
     id: "calais",
     type: "city",
@@ -1057,46 +1030,8 @@ export const franceCities: POI[] = [
       en: ["The Hall of Mirrors is the palace's best-known room.", "The estate has been a UNESCO World Heritage site since 1979."]
     },
   },
-  {
-    id: "chateau-chenonceau",
-    type: "historical",
-    parent: "FR-CVL",
-    coords: [1.0708, 47.3245],
-    name: { de: "Schloss Chenonceau", hu: "Chenonceau-i kastely", ro: "Castelul Chenonceau", en: "Chateau de Chenonceau" },
-    image: "/geo-images/france/chateau-chenonceau.webp",
-    description: {
-      de: "Das Schloss Chenonceau überspannt elegant den Fluss Cher und gehört zu den beliebtesten Loire-Schlössern. Die Mischung aus Brücke, Wasser und Renaissance-Architektur macht es unverwechselbar.",
-      hu: "A Chenonceau-i kastely elegánsan ível át a Cher folyó fölött, és a Loire-menti kastélyok egyik legkedveltebbike. A híd, a víz és a reneszánsz építészet keveréke összetéveszthetetlenné teszi.",
-      ro: "Castelul Chenonceau trece elegant peste râul Cher și este unul dintre cele mai iubite castele de pe Valea Loarei. Combinația dintre pod, apă și arhitectura renascentistă îl face inconfundabil.",
-      en: "Chateau de Chenonceau spans the Cher River in an elegant way and is one of the most beloved Loire castles. The mix of bridge, water, and Renaissance architecture makes it unmistakable."
-    },
-    facts: {
-      de: ["Der Bau wurde über den Fluss Cher errichtet.", "Chenonceau ist eines der bekanntesten Loire-Schlösser."],
-      hu: ["Az épület a Cher folyó fölé épült.", "Chenonceau a Loire-menti kastélyok egyik legismertebb példája."],
-      ro: ["Construcția a fost ridicată peste râul Cher.", "Chenonceau este unul dintre cele mai cunoscute castele de pe Loara."],
-      en: ["The structure was built across the Cher River.", "Chenonceau is one of the best-known Loire castles."]
-    },
-  },
-  {
-    id: "chateau-fontainebleau",
-    type: "historical",
-    parent: "FR-IDF",
-    coords: [2.7005, 48.4021],
-    name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastely", ro: "Castelul Fontainebleau", en: "Chateau de Fontainebleau" },
-    image: "/geo-images/france/chateau-fontainebleau.webp",
-    description: {
-      de: "Das Schloss Fontainebleau war über Jahrhunderte eine königliche und kaiserliche Residenz. Es verbindet mittelalterliche, Renaissance- und klassizistische Architektur in einem einzigen großen Ensemble.",
-      hu: "A Fontainebleau-i kastely évszázadokon át királyi és császári rezidenciaként szolgált. Egyetlen nagy együttesként ötvözi a középkori, reneszánsz és klasszicista építészetet.",
-      ro: "Castelul Fontainebleau a fost timp de secole o reședință regală și imperială. Îmbină arhitectura medievală, renascentistă și clasicistă într-un singur ansamblu amplu.",
-      en: "Chateau de Fontainebleau served for centuries as a royal and imperial residence. It blends medieval, Renaissance, and neoclassical architecture into one large complex."
-    },
-    facts: {
-      de: ["Napoleon I. nutzte das Schloss als Residenz.", "Die Anlage gehört zum UNESCO-Welterbe."],
-      hu: ["I. Napóleon is használta a kastélyt rezidenciaként.", "Az együttes az UNESCO világörökség része."],
-      ro: ["Napoleon I a folosit castelul ca reședință.", "Ansamblul face parte din patrimoniul UNESCO."],
-      en: ["Napoleon I used the palace as a residence.", "The estate is part of the UNESCO World Heritage."]
-    },
-  },
+
+
   {
     id: "carcassonne-citadel",
     type: "historical",
@@ -1117,46 +1052,8 @@ export const franceCities: POI[] = [
       en: ["The fortification is part of the UNESCO World Heritage.", "The citadel defines the cityscape of Carcassonne."]
     },
   },
-  {
-    id: "chateau-chambord",
-    type: "landmark",
-    parent: "FR-CVL",
-    coords: [1.5172, 47.6160],
-    name: { de: "Schloss Chambord", hu: "Chambord-i kastely", ro: "Castelul Chambord", en: "Chateau de Chambord" },
-    image: "/geo-images/france/chateau-chambord.webp",
-    description: {
-      de: "Das Schloss Chambord ist das größte und bekannteste Schloss im Loiretal. Seine Renaissance-Architektur und das markante Dach machen es zu einem der ikonischsten Bauwerke Frankreichs.",
-      hu: "A Chambord-i kastely a Loire-völgy legnagyobb és legismertebb kastélya. Reneszánsz építészete és jellegzetes tetőszerkezete Franciaország egyik legikonikusabb épületévé teszi.",
-      ro: "Castelul Chambord este cel mai mare și cel mai cunoscut castel din Valea Loarei. Arhitectura renascentistă și acoperișul său distinctiv îl fac una dintre cele mai iconice clădiri ale Franței.",
-      en: "Chateau de Chambord is the largest and best-known castle in the Loire Valley. Its Renaissance architecture and distinctive roof make it one of France's most iconic buildings."
-    },
-    facts: {
-      de: ["Das Schloss steht seit 1981 auf der UNESCO-Liste.", "Die doppelläufige Wendeltreppe ist sein berühmtestes Detail."],
-      hu: ["A kastély 1981 óta szerepel az UNESCO listáján.", "A híres kettős csigalépcső a legismertebb részlete."],
-      ro: ["Castelul se află pe lista UNESCO din 1981.", "Scara dublă în spirală este cel mai celebru detaliu al său."],
-      en: ["The castle has been on the UNESCO list since 1981.", "Its double-helix staircase is its most famous feature."]
-    },
-  },
-  {
-    id: "chateau-vincennes",
-    type: "historical",
-    parent: "FR-IDF",
-    coords: [2.4380, 48.8430],
-    name: { de: "Schloss Vincennes", hu: "Vincennes-i kastely", ro: "Castelul Vincennes", en: "Chateau de Vincennes" },
-    image: "/geo-images/france/chateau-vincennes.webp",
-    description: {
-      de: "Das Schloss Vincennes ist eine mächtige mittelalterliche Festung am Rand von Paris. Der hohe Donjon und die gotische Kapelle machen die Anlage besonders markant.",
-      hu: "A Vincennes-i kastely egy hatalmas középkori erőd Párizs szélén. A magas donjon és a gótikus kápolna különösen jellegzetessé teszi az együttest.",
-      ro: "Castelul Vincennes este o fortăreață medievală impunătoare la marginea Parisului. Donjonul înalt și capela gotică îi dau un aspect foarte distinct.",
-      en: "Chateau de Vincennes is a powerful medieval fortress on the edge of Paris. Its tall keep and Gothic chapel make the complex especially distinctive."
-    },
-    facts: {
-      de: ["Der Donjon zählt zu den höchsten seiner Art in Europa.", "Die Anlage diente auch als königliche Residenz."],
-      hu: ["A donjon Európa egyik legmagasabb ilyen tornya.", "Az épület királyi rezidenciaként is szolgált."],
-      ro: ["Donjonul este unul dintre cele mai înalte din Europa.", "Ansamblul a servit și ca reședință regală."],
-      en: ["The keep is among the tallest of its kind in Europe.", "The site also served as a royal residence."]
-    },
-  },
+
+
   {
     id: "lavender-fields-provence",
     type: "landmark",
@@ -1197,26 +1094,7 @@ export const franceCities: POI[] = [
       en: ["They sit at the edge of the Calanques National Park.", "Many inlets are accessible only by boat or on foot."]
     },
   },
-  {
-    id: "gorges-du-verdon",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [6.3560, 43.7560],
-    name: { de: "Verdonschlucht", hu: "Verdon-szoros", ro: "Cheile Verdonului", en: "Gorges du Verdon" },
-    image: "/geo-images/france/gorges-du-verdon.webp",
-    description: {
-      de: "Die Verdonschlucht ist ein tiefer Canyon in der Provence und oft als Grand Canyon Europas bekannt. Das helltürkise Wasser und die Kalksteinwände machen die Landschaft spektakulär.",
-      hu: "A Verdon-szoros egy mély kanyon Provence-ban, amelyet gyakran Európa Grand Canyonjaként emlegetnek. A világos türkiz víz és a mészkőfalak látványos tájat alkotnak.",
-      ro: "Cheile Verdonului sunt un canion adânc din Provence, adesea numit Marele Canion al Europei. Apa turcoaz deschis și pereții de calcar creează un peisaj spectaculos.",
-      en: "The Gorges du Verdon is a deep canyon in Provence, often called the Grand Canyon of Europe. Its pale turquoise water and limestone walls create a spectacular landscape."
-    },
-    facts: {
-      de: ["Die Schlucht ist rund 25 Kilometer lang.", "Sie ist ein beliebtes Ziel für Wandern und Kajakfahren."],
-      hu: ["A szurdok nagyjából 25 kilométer hosszú.", "Népszerű célpont túrázásra és kajakozásra."],
-      ro: ["Cheile au aproximativ 25 de kilometri lungime.", "Sunt o destinație populară pentru drumeții și caiac."],
-      en: ["The gorge is about 25 kilometers long.", "It is a popular destination for hiking and kayaking."]
-    },
-  },
+
   {
     id: "lake-annecy",
     type: "landmark",
@@ -1237,46 +1115,8 @@ export const franceCities: POI[] = [
       en: ["The lake is among the cleanest in Europe.", "The city of Annecy, the 'Venice of the Alps', lies on its shore."]
     },
   },
-  {
-    id: "camargue",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [4.4300, 43.5400],
-    name: { de: "Camargue", hu: "Camargue", ro: "Camargue", en: "Camargue" },
-    image: "/geo-images/france/camargue.webp",
-    description: {
-      de: "Die Camargue ist ein weites Feuchtgebiet im Rhonedelta in Südfrankreich. Weiße Pferde, schwarze Stiere und Flamingos prägen das Bild dieser besonderen Naturlandschaft.",
-      hu: "A Camargue egy hatalmas vizes élőhely a Rhône-deltában, Dél-Franciaországban. Fehér lovak, fekete bikák és flamingók adják e különleges táj arculatát.",
-      ro: "Camargue este o vastă zonă umedă din delta Ronului, în sudul Franței. Caii albi, taurii negri și flamingii dau identitatea acestui peisaj special.",
-      en: "Camargue is a vast wetland in the Rhône delta in southern France. White horses, black bulls, and flamingos define this distinctive natural landscape."
-    },
-    facts: {
-      de: ["Die Region ist ein bedeutendes Vogelparadies.", "Salzgewinnung ist hier traditionell wichtig."],
-      hu: ["A vidék fontos madárparadicsom.", "A sótermelés itt hagyományosan jelentős."],
-      ro: ["Regiunea este un paradis important pentru păsări.", "Producția de sare are aici o tradiție puternică."],
-      en: ["The region is a major bird paradise.", "Salt production has long been important here."]
-    },
-  },
-  {
-    id: "corsica-gr20",
-    type: "mountain",
-    parent: "FR-COR",
-    coords: [9.0000, 42.0000],
-    name: { de: "GR20 auf Korsika", hu: "Korzika GR20", ro: "GR20 din Corsica", en: "Corsica GR20" },
-    image: "/geo-images/france/corsica-gr20.webp",
-    description: {
-      de: "Der GR20 ist der berühmteste Fernwanderweg Korsikas und einer der anspruchsvollsten in Europa. Er führt durch ein wildes Hochgebirge und bietet starke Kontraste zwischen Fels, Wald und Meer.",
-      hu: "A GR20 Korzika leghíresebb hosszú távú túraútvonala és Európa egyik legnehezebb túrája. Vad magashegyi tájon vezet át, erős kontrasztot mutatva szikla, erdő és tenger között.",
-      ro: "GR20 este cel mai faimos traseu de lungă distanță din Corsica și unul dintre cele mai dificile din Europa. Traversează munți sălbatici și oferă contraste puternice între stâncă, pădure și mare.",
-      en: "The GR20 is Corsica's most famous long-distance trail and one of the hardest in Europe. It crosses wild high mountains and offers strong contrasts between rock, forest, and sea."
-    },
-    facts: {
-      de: ["Die Route wird meist in 16 Etappen begangen.", "Der Weg ist für sehr erfahrene Wanderer gedacht."],
-      hu: ["Az útvonalat általában 16 szakaszra bontják.", "A túra kifejezetten tapasztalt túrázóknak való."],
-      ro: ["Traseul este parcurs de obicei în 16 etape.", "Este destinat în special drumeților foarte experimentați."],
-      en: ["The route is usually split into 16 stages.", "It is intended for very experienced hikers."]
-    },
-  },
+
+
   {
     id: "musee-dorsay",
     type: "landmark",
@@ -1337,26 +1177,7 @@ export const franceCities: POI[] = [
       en: ["The chapel was built in the 13th century.", "Its stained-glass windows are among the finest in Europe."]
     },
   },
-  {
-    id: "notre-dame-de-paris",
-    type: "landmark",
-    parent: "FR-IDF",
-    coords: [2.3499, 48.8529],
-    name: { de: "Notre-Dame de Paris", hu: "Notre-Dame de Paris", ro: "Notre-Dame de Paris", en: "Notre-Dame de Paris" },
-    image: "/geo-images/france/notre-dame-de-paris.webp",
-    description: {
-      de: "Notre-Dame de Paris ist eine der bekanntesten Kathedralen der Welt und ein Schlüsselwerk der französischen Gotik. Sie steht im Herzen von Paris und prägt die Stadt seit Jahrhunderten.",
-      hu: "A Notre-Dame de Paris a világ egyik legismertebb katedrálisa és a francia gótika kulcsműve. Párizs szívében áll, és évszázadok óta meghatározza a várost.",
-      ro: "Notre-Dame de Paris este una dintre cele mai cunoscute catedrale din lume și o operă-cheie a goticului francez. Se află în inima Parisului și definește orașul de secole.",
-      en: "Notre-Dame de Paris is one of the world's best-known cathedrals and a key work of French Gothic architecture. It stands in the heart of Paris and has shaped the city for centuries."
-    },
-    facts: {
-      de: ["Die Kathedrale wurde nach dem Brand von 2019 umfassend restauriert.", "Sie ist eng mit Victor Hugos Roman verbunden."],
-      hu: ["A katedrálist a 2019-es tűz után nagyszabásúan helyreállították.", "Victor Hugo regénye szorosan kötődik hozzá."],
-      ro: ["Catedrala a fost restaurată amplu după incendiul din 2019.", "Este strâns legată de romanul lui Victor Hugo."],
-      en: ["The cathedral was extensively restored after the 2019 fire.", "It is closely associated with Victor Hugo's novel."]
-    }
-  },
+
 ];
 
 export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities, ...franceCitiesExtra];

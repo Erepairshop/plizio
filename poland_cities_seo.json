@@ -1,0 +1,155 @@
+[
+  {
+    "id": "city-zielona-gora-extra",
+    "descriptionAdvanced": { "de": "Grünberg in Schlesien, heute Zielona Góra, ist eine Stadt, deren Identität tief in der Weinkultur verwurzelt ist. Über Jahrhunderte prägte der Weinbau die Hänge rund um die Stadt und machte sie zu einem der nördlichsten Weinanbaugebiete Europas. Das jährliche Weinfest 'Winobranie' ist mehr als nur ein Fest; es ist eine Hommage an diese reiche Geschichte. Abseits des Weins hat sich die Stadt zu einem dynamischen Zentrum für Bildung und Innovation entwickelt. Die Universität Zielona Góra ist ein wichtiger Motor für die regionale Entwicklung. Die Stadt verbindet historisches Erbe, wie die Altstadt und das Palmenhaus, mit modernem Flair." },
+    "factsAdvanced": { "de": ["Eines der nördlichsten kommerziellen Weinanbaugebiete Europas.", "Das Palmenhaus beherbergt über 200 Pflanzenarten.", "Die Universität von Zielona Góra wurde 2001 gegründet.", "Die Stadt war historisch auch ein Zentrum der Tuchmacherei.", "Das Winobranie-Fest ist das größte Weinfest in Polen.", "Zielona Góra besitzt ein Planetarium namens 'Venus'.", "Der 'Hungerturm' ist ein Überbleibsel der mittelalterlichen Stadtbefestigung."] }
+  },
+  {
+    "id": "city-gorzow-wielkopolski-extra",
+    "descriptionAdvanced": { "de": "Landsberg an der Warthe, heute Gorzów Wielkopolski, ist eine Stadt mit einer bewegten Geschichte am Ufer der Warthe. Als eine der beiden Hauptstädte der Woiwodschaft Lebus spielt sie eine wichtige administrative Rolle. Die Stadt ist ein bedeutender Wirtschaftsstandort, der sich von seiner industriellen Vergangenheit zu einem modernen Dienstleistungszentrum entwickelt hat. Der Fluss prägt die Stadt und dient als Verkehrs- und Erholungsader. Die Uferpromenade ist ein beliebter Treffpunkt. Kulturell bietet Gorzów ein reiches Programm mit Theater und zahlreichen Veranstaltungen. Die beeindruckende Kathedrale aus dem 13. Jahrhundert zeugt von der langen Geschichte." },
+    "factsAdvanced": { "de": ["1257 von brandenburgischen Markgrafen gegründet.", "Die Kathedrale Mariä Himmelfahrt ist das älteste Gebäude der Stadt.", "Wichtiges Zentrum für den Speedway-Sport in Polen.", "Die Stadt hat einen der größten Binnenhäfen Polens.", "Der Philharmonische Saal von 2011 ist für seine moderne Architektur bekannt.", "Der 'Hexenturm' war Teil der mittelalterlichen Stadtbefestigung.", "Wichtiger Standort für die Produktion von Jutefasern."] }
+  },
+  {
+    "id": "historical-fortress-krosno-odrzanskie-extra",
+    "descriptionAdvanced": { "de": "Die Festung Crossen, im heutigen Krosno Odrzańskie, war über Jahrhunderte ein strategischer Schlüsselpunkt an der Oder. Ihre Ursprünge reichen bis in die Zeit der ersten polnischen Herrscher zurück. Das Schloss der Piasten-Dynastie, dessen Ruinen heute noch sichtbar sind, war das Herz der Anlage. Im Laufe der Geschichte wurde die Festung mehrfach umgebaut und erweitert, insbesondere während der schlesischen Kriege. Obwohl heute nur noch Teile erhalten sind, erzählen die Mauern von der bewegten Vergangenheit einer Stadt im Spannungsfeld der Mächte, die eine wichtige Rolle in der Verteidigung Schlesiens und Brandenburgs spielte." },
+    "factsAdvanced": { "de": ["Erste urkundliche Erwähnung der Burg stammt aus dem Jahr 1005.", "War zeitweise Hauptstadt des Herzogtums Crossen.", "Heinrich der Bärtige baute die Burg im 13. Jahrhundert aus.", "Die Festung kontrollierte eine wichtige Furt über die Oder.", "Teile der Festung im Dreißigjährigen Krieg zerstört.", "Im Schloss wurde die spätere Königin von Polen, Hedwig von Sagan, geboren.", "Die Oder-Brücke bei Krosno war strategisch wichtig."] }
+  },
+  {
+    "id": "nature-muskauer-park-extra",
+    "descriptionAdvanced": { "de": "Der Muskauer Park ist ein Meisterwerk der Landschaftsarchitektur des 19. Jahrhunderts, geschaffen vom Fürsten Hermann von Pückler-Muskau. Als grenzüberschreitendes UNESCO-Welterbe erstreckt er sich beiderseits der Neiße und verbindet Deutschland und Polen. Pückler gestaltete den Park als idealisierte Naturlandschaft mit malerischen Wegen, sorgfältig platzierten Sichtachsen und Bauwerken wie dem Neuen Schloss. Der Park wirkt wie ein Gemälde, in dem sich Wiesen, Wälder und Wasserflächen harmonisch ergänzen. Er ist ein Denkmal der Gartenkunst, ein Symbol der europäischen Zusammenarbeit und ein Ort der Erholung." },
+    "factsAdvanced": { "de": ["Umfasst eine Fläche von rund 830 Hektar.", "Pückler-Muskau finanzierte den Park u.a. durch den Verkauf von Ländereien.", "Das 'Englische Haus' ist eines der erhaltenen Parkgebäude.", "Zwischen 1815 und 1845 angelegt.", "Die 'Doppelbrücke' über die Neiße verbindet den polnischen und deutschen Teil.", "Gestaltung folgt den Prinzipien des englischen Landschaftsgartens.", "Beherbergt viele seltene Baumarten aus Nordamerika und Asien."] }
+  },
+  {
+    "id": "city-olsztyn-extra",
+    "descriptionAdvanced": { "de": "Allenstein, das heutige Olsztyn, ist die pulsierende Hauptstadt von Ermland-Masuren, oft als 'Stadt der Seen' bezeichnet. Ihre einzigartige Lage, eingebettet in eine Landschaft aus Wäldern und mehr als einem Dutzend Seen direkt im Stadtgebiet, macht sie zu einem Paradies für Natur- und Wassersportliebhaber. Die historische Altstadt, auf einem Hügel über dem Fluss Łyna, wird von der gotischen Burg des Ermländischen Domkapitels dominiert. Hier residierte und arbeitete der berühmte Astronom Nikolaus Kopernikus als Administrator. Seine Präsenz ist in der Stadt bis heute spürbar. Olsztyn ist eine gelungene Symbiose aus reicher Geschichte, lebendiger akademischer Kultur und hohem Freizeitwert." },
+    "factsAdvanced": { "de": ["Nikolaus Kopernikus verteidigte die Burg Allenstein erfolgreich gegen die Deutschordensritter.", "Das Hohe Tor ist das einzige erhaltene von drei Stadttoren.", "In der Burg befindet sich eine von Kopernikus selbst erstellte astronomische Tafel.", "Die St.-Jakobs-Konkathedrale ist ein Beispiel der Backsteingotik.", "Die Straßenbahnlinie wurde 2015 wiedereröffnet.", "Größtes Stadtfest ist 'Olsztyńskie Lato Artystyczne'.", "Die Stadt war bis 1945 Teil von Ostpreußen."] }
+  },
+  {
+    "id": "city-nowy-sacz-extra",
+    "descriptionAdvanced": { "de": "Neu-Sandez, heute Nowy Sącz, ist eine historische Stadt am Zusammenfluss der Flüsse Dunajec und Kamienica. Mit ihrem weitläufigen Marktplatz, einem der größten in Polen, und den Ruinen der königlichen Burg aus dem 14. Jahrhundert atmet die Stadt Geschichte. Sie war ein wichtiges Handelszentrum an der Route nach Ungarn. Das 'Galizische Städtchen', ein liebevoll rekonstruiertes Freilichtmuseum, versetzt Besucher zurück in das 19. Jahrhundert und zeigt das Leben in einer typischen Kleinstadt dieser Region. Nowy Sącz ist zudem das kulturelle Herz der Sądecczyzna-Region, bekannt für ihre Folklore und die Holzkirchen, die die Landschaft prägen."
+    },
+    "factsAdvanced": { "de": [
+        "Gegründet 1292 von König Wenzel II. von Böhmen.",
+        "Der Marktplatz (Rynek) ist mit 19.200 m² einer der größten in Polen.",
+        "Die Ruinen der Burg beherbergten einst König Kasimir den Großen.",
+        "Das Bezirksmuseum besitzt eine bedeutende Sammlung von Ikonen.",
+        "Nowy Sącz war ein wichtiges Zentrum des Chassidismus.",
+        "Die Stadt ist ein Tor zu den Beskiden-Bergen.",
+        "Das jährliche Festival 'Jesień Sądecka' feiert die regionale Kultur.",
+        "Die Synagoge aus dem 18. Jahrhundert dient heute als Kunstgalerie."
+      ]
+    }
+  },
+  {
+    "id": "nature-ojcow-national-park-extra",
+    "descriptionAdvanced": { "de": "Der Nationalpark Ojców ist der kleinste Nationalpark Polens, aber reich an Naturschönheiten und Geschichte. Er liegt im malerischen Prądnik-Tal, das von beeindruckenden Kalksteinfelsen, tiefen Schluchten und über 400 Höhlen geprägt ist. Die berühmteste ist die Łokietek-Höhle, in der sich der polnische König Władysław I. Łokietek versteckt haben soll. Die Landschaft wird von den Ruinen der gotischen Burg Ojców und dem prächtigen Renaissanceschloss Pieskowa Skała gekrönt, die beide Teil der Adlerhorst-Route sind. Dieser Park ist ein perfektes Beispiel für die Karstlandschaft des Krakau-Tschenstochauer Juras und ein beliebtes Ausflugsziel für Wanderer und Naturliebhaber aus dem nahen Krakau."
+    },
+    "factsAdvanced": { "de": [
+        "Mit nur 21,46 km² der kleinste Nationalpark Polens.",
+        "Die Herkuleskeule ist eine der bekanntesten Felsformationen.",
+        "Das Prądnik-Tal ist die Hauptachse des Parks.",
+        "Im Park leben 17 Fledermausarten.",
+        "Die Burg Pieskowa Skała beherbergt eine Außenstelle des Wawel-Schlosses.",
+        "Die Ruinen der Burg Ojców stammen aus dem 14. Jahrhundert.",
+        "Der Park wurde 1956 gegründet, um die einzigartige Landschaft zu schützen.",
+        "Es gibt zahlreiche markierte Wanderwege durch den Park."
+      ]
+    }
+  },
+  {
+    "id": "historical-wooden-churches-southern-lesser-poland-extra",
+    "descriptionAdvanced": { "de": "Die Holzkirchen im südlichen Kleinpolen sind ein außergewöhnliches Zeugnis mittelalterlicher Baukunst und tiefen Glaubens. Sechs dieser Kirchen wurden von der UNESCO zum Weltkulturerbe erklärt: in Binarowa, Blizne, Dębno Podhalańskie, Haczów, Lipnica Murowana und Sękowa. Sie wurden mit der Blockbautechnik errichtet, einer Methode, bei der horizontale Stämme ohne Nägel miteinander verbunden werden. Diese Technik ermöglichte den Bau beeindruckender Strukturen, die sich harmonisch in die Karpatenlandschaft einfügen. Im Inneren verbergen sich oft farbenprächtige Wandmalereien und kunstvoll geschnitzte Altäre. Diese Kirchen sind nicht nur architektonische Meisterwerke, sondern auch lebendige Zentren der lokalen Gemeinschaften."
+    },
+    "factsAdvanced": { "de": [
+        "Die Kirche in Haczów ist die größte gotische Holzkirche Europas.",
+        "Die Kirche von Dębno aus dem 15. Jh. hat eine vollständig erhaltene polychrome Bemalung.",
+        "Die Blockbautechnik wurde von lokalen Zimmerleuten perfektioniert.",
+        "Die Kirchen wurden hauptsächlich aus Tannen- und Lärchenholz gebaut.",
+        "Jede der sechs UNESCO-Kirchen hat einen einzigartigen architektonischen Charakter.",
+        "Die ältesten Kirchen stammen aus dem 14. und 15. Jahrhundert.",
+        "Sie stellen die am besten erhaltene Gruppe von Holzkirchen in Europa dar.",
+        "Viele Kirchen sind noch heute als Pfarrkirchen in Gebrauch."
+      ]
+    }
+  },
+  {
+    "id": "kid-landmark-wieliczka-salt-mine-extra",
+    "descriptionAdvanced": { "de": "Das Salzbergwerk Wieliczka ist eine unterirdische Welt voller Wunder und eines der ersten UNESCO-Weltkulturerbestätten. Über 700 Jahre lang wurde hier Steinsalz abgebaut, wodurch ein Labyrinth aus Gängen, Kammern und Kapellen auf neun Ebenen entstand, das bis zu 327 Meter tief reicht. Die Hauptattraktion ist die atemberaubende Kapelle der Heiligen Kinga, eine vollständig aus Salz gehauene Kirche, komplett mit Kronleuchtern, Altären und Skulpturen. Besucher können auf der Touristenroute die Geschichte des Salzabbaus entdecken, unterirdische Seen überqueren und die einzigartige, gesundheitsfördernde Luft des Bergwerks atmen. Wieliczka ist mehr als nur eine Mine; es ist ein Denkmal der menschlichen Arbeit, des Glaubens und der Kunst."
+    },
+    "factsAdvanced": { "de": [
+        "1978 als eines der ersten 12 Objekte in die UNESCO-Liste aufgenommen.",
+        "Die Gesamtlänge der Gänge beträgt über 287 Kilometer.",
+        "Die Luft in der Mine hat durch ihren hohen Salzgehalt therapeutische Eigenschaften.",
+        "Der größte Kronleuchter in der Kinga-Kapelle besteht aus Salz-Kristallen.",
+        "Goethe und Chopin gehörten zu den berühmten Besuchern der Mine.",
+        "Es gibt einen unterirdischen Kurort 135 Meter unter der Erde.",
+        "Die letzte Salzförderung fand 1996 statt.",
+        "Das Bergwerk beherbergt ein Museum zur Geschichte des Salzabbaus."
+      ]
+    }
+  },
+  {
+    "id": "kid-landmark-bochnia-salt-mine-extra",
+    "descriptionAdvanced": { "de": "Das Salzbergwerk Bochnia, das älteste in Polen, ist ein verborgenes Juwel, das oft im Schatten seiner berühmteren Schwestermine in Wieliczka steht. Es wurde 2013 in die UNESCO-Welterbeliste aufgenommen und bietet ein einzigartiges und authentisches Erlebnis. Die Mine ist seit dem 13. Jahrhundert in Betrieb und ihre Gänge erzählen die Geschichte der Entwicklung der Bergbautechnik über Epochen hinweg. Eine besondere Attraktion ist die weltweit einzige unterirdische Bootsfahrt, bei der Besucher eine mit Sole geflutete Kammer durchqueren. Weitere Highlights sind eine 140 Meter lange Rutsche, die verschiedene Ebenen verbindet, und die beeindruckende Ważyn-Kammer, die als Sportplatz und Bankettsaal dient. Bochnia bietet einen faszinierenden Einblick in die harte Arbeit und das Leben der Bergleute."
+    },
+    "factsAdvanced": { "de": [
+        "Der kommerzielle Salzabbau begann 1251.",
+        "Die Ważyn-Kammer ist die größte unterirdische Kammer in Polen, die für Touristen zugänglich ist.",
+        "Die Touristenroute verläuft 212 Meter unter der Erde.",
+        "In der Mine herrscht eine konstante Temperatur von 14-16°C.",
+        "Es gibt eine unterirdische Eisenbahn, die Touristen transportiert.",
+        "Die St.-Kinga-Kapelle in Bochnia ist älter als die in Wieliczka.",
+        "Die Mine bietet Übernachtungsmöglichkeiten in der Ważyn-Kammer.",
+        "Das Bergwerk wurde 2013 zum UNESCO-Weltkulturerbe hinzugefügt."
+      ]
+    }
+  },
+  {
+    "id": "agriculture-bieszczady-forested-area-extra",
+    "descriptionAdvanced": { "de": "Die Forstwirtschaft in den Bieszczady ist ein wesentlicher Bestandteil der regionalen Identität und Wirtschaft. Diese dünn besiedelte Region ist von ausgedehnten, naturnahen Wäldern geprägt, hauptsächlich Buchen- und Tannenwälder. Nachhaltige Forstwirtschaft spielt eine entscheidende Rolle, um das ökologische Gleichgewicht zu wahren und gleichzeitig Holz als wichtige Ressource zu nutzen. Ein faszinierendes Relikt aus der Blütezeit der Holzindustrie ist die Bieszczady-Waldbahn. Einst diente sie dem mühsamen Holztransport aus den entlegenen Tälern; heute ist sie eine beliebte Touristenattraktion, die Passagiere auf einer malerischen Route durch die wilde Landschaft befördert und so die Geschichte der Forstwirtschaft lebendig hält."
+    },
+    "factsAdvanced": { "de": [
+        "Die Wälder der Bieszczady sind Teil des UNESCO-Biosphärenreservats Ostkarpaten.",
+        "Buchenholz ist das am häufigsten geerntete Holz in der Region.",
+        "Die Bieszczady-Waldbahn wurde Ende des 19. Jahrhunderts gebaut.",
+        "Die Region ist bekannt für ihre traditionelle Holzkohleproduktion in 'Mielerz'.",
+        "Die Wälder sind Lebensraum für große Raubtiere wie Bären, Wölfe und Luchse.",
+        "Nach dem Zweiten Weltkrieg war die Region stark entvölkert, was die Wiederbewaldung förderte.",
+        "Die Forstämter organisieren Lehrpfade zur Waldökologie.",
+        "Die Holzbeschaffung unterliegt strengen Zertifizierungsstandards (FSC)."
+      ]
+    }
+  },
+  {
+    "id": "agriculture-podlaskie-stork-villages-extra",
+    "descriptionAdvanced": { "de": "Die Region Podlachien ist das polnische Storchenparadies. Die ländliche, von Landwirtschaft geprägte Landschaft mit ihren Feuchtwiesen, Flüssen und Seen bietet ideale Lebensbedingungen für den Weißstorch. In vielen Dörfern übersteigt die Zahl der Störche die der menschlichen Einwohner. Pentowo, offiziell als 'Europäisches Storchendorf' ausgezeichnet, ist ein besonders eindrucksvolles Beispiel. Hier haben Dutzende von Storchenpaaren ihre Nester auf Dächern, Masten und speziell errichteten Plattformen gebaut. Die Störche sind tief in der lokalen Folklore verwurzelt und gelten als Symbol für Glück und Fruchtbarkeit. Ihr jährliches Kommen und Gehen bestimmt den Rhythmus des Lebens und macht die Region zu einem einzigartigen Ziel für Naturbeobachter."
+    },
+    "factsAdvanced": { "de": [
+        "Etwa ein Viertel der weltweiten Weißstorchpopulation brütet in Polen.",
+        "In Pentowo gibt es über 30 besetzte Storchennester auf einem einzigen Gutshof.",
+        "Das Dorf Tykocin ist ebenfalls für seine hohe Storchendichte bekannt.",
+        "Die Störche legen jedes Jahr Tausende von Kilometern auf ihrem Zug nach Afrika zurück.",
+        "Der Schutz der Feuchtwiesen ist entscheidend für den Nahrungserwerb der Störche.",
+        "Lokale Gemeinschaften errichten oft spezielle Nistplattformen.",
+        "Das 'Storchendorf' ist ein Projekt der Stiftung Euronatur.",
+        "Die Ankunft der ersten Störche im Frühling wird oft gefeiert."
+      ]
+    }
+  },
+  {
+    "id": "port-police-chemical-port-extra",
+    "descriptionAdvanced": { "de": "Der Chemiehafen in Police, nahe Stettin, ist ein hochspezialisierter Seehafen, der eine entscheidende Rolle für die polnische Chemieindustrie spielt. Er ist direkt mit den Grupa Azoty Police Chemiewerken verbunden, einem der größten Düngemittelhersteller des Landes. Der Hafen ist für den Umschlag von Massengütern wie Phosphaten, Ammoniak, Schwefel und Mineralsalzen ausgelegt, die für die Produktion von Düngemitteln und anderen Chemikalien unerlässlich sind. Mit seiner modernen Infrastruktur und den tiefen Wasserstraßen kann der Hafen große Seeschiffe abfertigen. Seine strategische Lage an der Odermündung ermöglicht einen effizienten Weitertransport der Güter ins Binnenland per Schiff, Bahn oder LKW, was ihn zu einem wichtigen Logistikknotenpunkt für Mitteleuropa macht."
+    },
+    "factsAdvanced": { "de": [
+        "Der Hafen von Police ist nach Tonnage einer der größten Seehäfen in Polen.",
+        "Er ist der größte Umschlaghafen für Ammoniak an der Ostsee.",
+        "Die Grupa Azoty Police ist der größte Arbeitgeber in der Region.",
+        "Der Hafen kann Schiffe mit einem Tiefgang von bis zu 12,5 Metern aufnehmen.",
+        "Die Hauptimporte sind Phosphate aus Marokko und Gas aus dem Nahen Osten.",
+        "Der Hafen verfügt über spezielle Terminals für Flüssig- und Schüttgüter.",
+        "Er spielt eine Schlüsselrolle in der globalen Lieferkette für Düngemittel.",
+        "Der Hafen wurde in den 1960er Jahren zusammen mit dem Chemiewerk gebaut."
+      ]
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "jardin-botanico-la-laguna-life-v2",
+    "desc_hu": "A La Laguna Botanikus Kert El Salvador egyik legkülönlegesebb természeti látnivalója, mivel egy egykori vulkáni kráter fenekén terül el. A kertet az 1970-es években nyitották meg a nagyközönség előtt, és azóta a régió egyik legfontosabb növénytani központjává vált. A kráter falai természetes védelmet nyújtanak a növények számára, így olyan mikroklíma alakult ki, amely kedvez a buja trópusi vegetációnak. A látogatók több mint 3500 növényfajt fedezhetnek fel a gondosan ápolt ösvényeken sétálva. A területen egy kis tó is található, amely számos vízi madárnak és teknősnek ad otthont.",
+    "facts_hu": [
+      "1978-ban nyitották meg hivatalosan a látogatók előtt.",
+      "Területe körülbelül 30 hektáron fekszik a kráterben.",
+      "Több mint 3500 különböző növényfajnak ad otthont.",
+      "Antiguo Cuscatlán városrészben található."
+    ]
+  },
+  {
+    "id": "parque-natural-balboa-life-v2",
+    "desc_hu": "A Balboa Természeti Park San Salvador egyik legkedveltebb rekreációs területe, amely a fővárostól mindössze néhány kilométerre található. A parkot sűrű erdő borítja, amely friss levegőt és hűsítő árnyékot biztosít a forró napokon. Számos ösvény kanyarog az óriási fák között, ahol a látogatók megfigyelhetik a helyi madárvilágot és a trópusi flórát. A park híres a kézműves árusairól és a hagyományos salvadori ételekről, különösen a pupusáról, amit a kilátópontok közelében élvezhetünk. Kiváló helyszín családok számára, hiszen játszóterek és piknikezőhelyek is várják az érkezőket.",
+    "facts_hu": [
+      "San Salvador déli részén, a Planes de Renderos területén fekszik.",
+      "Tengerszint feletti magassága 1070 méter.",
+      "Híres a parkban található kőszobrokról.",
+      "A helyi gasztronómia, különösen a pupusa egyik központja."
+    ]
+  },
+  {
+    "id": "parque-bicentenario-el-espino-life-v2",
+    "desc_hu": "A Bicentenario Park El Salvador függetlenségének kétszázadik évfordulójára készült, és a főváros tüdejének tekintik. Ez a hatalmas zöldterület az El Espino védett erdő része, amely kritikus szerepet játszik a város vízellátásában és levegőminőségének javításában. A park modern infrastruktúrával rendelkezik, beleértve a biztonságos futópályákat, kerékpárutakat és piknikező zónákat. A sűrű növényzet között számos vadon élő állat, például mókusok és különféle madarak találtak menedéket. Ideális helyszín azoknak, akik a városi forgatagból menekülve egy kis természetközeli nyugalomra vágynak.",
+    "facts_hu": [
+      "2011-ben adták át a nagyközönségnek.",
+      "Területe több mint 91 hektár.",
+      "Két város, San Salvador és Antiguo Cuscatlán osztozik rajta.",
+      "Több mint 500 madár- és állatfaj él a területén."
+    ]
+  },
+  {
+    "id": "parque-nacional-el-boqueron-life-v2",
+    "desc_hu": "Az El Boquerón Nemzeti Park a monumentális San Salvador-vulkán tetején található, és lenyűgöző látványt nyújt a hatalmas kráterre. A kráter 1,5 kilométer széles és 558 méter mély, belsejében pedig egy kisebb kráter, a 'Boqueroncito' is felfedezhető. A park magaslati fekvésének köszönhetően a levegő itt sokkal hűvösebb, mint a lenti városban, így gyakori a köd és a felhőerdő jellegű növényzet. Kiépített kilátók sora enged betekintést a vulkán torkába, ahol a természet ereje kézzelfogható közelségbe kerül. A környéken számos ösvény vezet a gazdag növényvilágon keresztül, ahol orchideák és vadon élő virágok pompáznak.",
+    "facts_hu": [
+      "A vulkán legutóbbi jelentős kitörése 1917-ben történt.",
+      "Legmagasabb pontja 1893 méterrel van a tengerszint felett.",
+      "A kráter alján található kis kúpot 'Boqueroncito'-nak hívják.",
+      "A fővárostól mindössze 30 perc alatt elérhető autóval."
+    ]
+  },
+  {
+    "id": "brews-coffee-finca-el-boqueron-life-v2",
+    "desc_hu": "A Brews Coffee egy hangulatos kávézó és pihenőhely a San Salvador-vulkán oldalában, amely a híres Finca El Boquerón ültetvényhez kapcsolódik. Itt a látogatók közvetlenül a forrásnál kóstolhatják meg az ország egyik legjobb minőségű kávéját, miközben a hegyoldalról eléjük táruló panorámában gyönyörködnek. Az ültetvény a vulkanikus talaj gazdagságát kihasználva termeszti az arabica kávét, amelyet tradicionális módszerekkel dolgoznak fel. A kávézó modern és rusztikus elemeket ötvöz, tökéletes helyszínt biztosítva egy frissítő szünethez a vulkán megmászása után. A kávé mellett helyi süteményeket és édességeket is kínálnak, amelyek kiegészítik a gasztronómiai élményt.",
+    "facts_hu": [
+      "Közvetlenül a vulkánhoz vezető út mentén található.",
+      "Specialitásuk a helyben pörkölt és őrölt arabica kávé.",
+      "A kávézó teraszáról látható San Salvador városa és környéke.",
+      "Saját márkás kávétermékeket is árusítanak ajándéktárgyként."
+    ]
+  },
+  {
+    "id": "zoologico-nacional-san-salvador-life-v2",
+    "desc_hu": "A San Salvador-i Nemzeti Állatkert generációk óta a salvadori családok kedvenc hétvégi programhelyszíne. Az állatkert célja nemcsak az állatok bemutatása, hanem az oktatás és a közép-amerikai fajok védelme is. A területen több tucat emlős-, madár- és hüllőfaj él, köztük olyan ritkaságok, mint a jaguár, a pápaszemes medve és a pompás ara papagájok. A kert dús növényzete és a kanyargó ösvények kellemes sétát tesznek lehetővé még a legforróbb órákban is. Az állatkert fontos szerepet játszik a sérült vadállatok rehabilitációjában és a természetvédelmi tudatosság növelésében az országban.",
+    "facts_hu": [
+      "1953. május 26-án nyitották meg a jelenlegi helyén.",
+      "Területe több mint 8 hektár.",
+      "Számos, a régióban őshonos állatfajt mutatnak be.",
+      "A város történelmi központjának közelében található."
+    ]
+  },
+  {
+    "id": "walter-thilo-deininger-life-v2",
+    "desc_hu": "A Walter Thilo Deininger Nemzeti Park egy ritka természeti kincs El Salvador partvidékén, ahol a trópusi szárazerdő ökoszisztémája maradt fenn épségben. Ez a típusú erdő rendkívül fontos, mivel az évszakok változásával drasztikusan változtatja képét, a száraz évszakban lombhullatóvá válik, az esőzések idején pedig buja zöldbe borul. A park területén számos vadon élő állat, többek között őzek, leguánok és több mint 100 madárfaj talál menedéket. A kalandvágyók számára barlangok, kilátók és kalandpályák is rendelkezésre állnak az erdei ösvények mentén. A park nevét egy német származású filantrópról kapta, aki a területet az államnak adományozta természetvédelmi célokra.",
+    "facts_hu": [
+      "Területe 732 hektár.",
+      "La Libertad megyében, a tengerpart közelében fekszik.",
+      "Egyik fő látványossága a 'La Cueva del Encanto' barlang.",
+      "Magas biodiverzitással rendelkezik, beleértve ritka hüllőket."
+    ]
+  },
+  {
+    "id": "tamanique-waterfalls-life-v2",
+    "desc_hu": "A Tamanique-vízesések egy sorozatnyi lenyűgöző zuhatagot jelentenek, amelyek egy mély folyóvölgyben rejtőznek Tamanique falu közelében. A vízesések eléréséhez egy meredek, de látványos túra vezet a hegyoldalon keresztül, ahonnan kilátás nyílik a Csendes-óceánra is. A víz több szinten zúdul le a sziklákról, természetes medencéket hozva létre, amelyekben a látogatók megmártózhatnak a frissítő, tiszta vízben. A bátrabbak a magasabb sziklákról is beugorhatnak a mélyebb medencékbe. A környező buja vegetáció és a csobogó víz hangja igazi trópusi paradicsomi hangulatot áraszt, távol a tengerparti nyüzsgéstől.",
+    "facts_hu": [
+      "Tamanique hegyi falujából indul a túra.",
+      "Összesen négy nagyobb vízesés található egymás alatt.",
+      "A túra oda-vissza körülbelül 1,5-2 órát vesz igénybe.",
+      "A víz hőmérséklete állandóan hűvös és frissítő."
+    ]
+  },
+  {
+    "id": "san-diego-beach-life-v2",
+    "desc_hu": "A San Diego-part El Salvador egyik legszélesebb és leglaposabb homokos tengerpartja, amely ideális a hosszú sétákhoz és a pihenéshez. Ellentétben a szomszédos sziklás szörfparadicsomokkal, itt a dűnék és a tágas homokos síkságok dominálnak, ami különleges ökoszisztémát teremt. A terület fontos fészkelőhelye a tengeri teknősöknek, és a közeli folyótorkolatok gazdag madárvilágnak adnak otthont. A part mentén számos kis étterem és szálláshely található, amelyek megőrizték autentikus, családias hangulatukat. San Diego különösen népszerű a helyiek körében, akik a nyugodtabb vizet és a végtelen horizontot keresik.",
+    "facts_hu": [
+      "La Libertad kikötővárosától mindössze 10 percre fekszik.",
+      "Homokja sötétszürke, vulkanikus eredetű.",
+      "Népszerű helyszín a teknősvédelmi programok számára.",
+      "A part hossza több kilométeren át nyúlik el."
+    ]
+  },
+  {
+    "id": "el-espino-beach-life-v2",
+    "desc_hu": "Az El Espino El Salvador keleti részének egyik leggyönyörűbb tengerpartja, amely a hatalmas Jiquilisco-öböl közelében fekszik. A part híres rendkívüli szélességéről és a lassan mélyülő vízről, ami biztonságossá teszi a fürdőzést. A terület ökológiai jelentősége kiemelkedő, mivel közvetlen kapcsolatban áll a mangrove erdőkkel, így számos vándorló madár és veszélyeztetett tengeri teknős talál itt otthont. A part mentén kókuszpálmák sorakoznak, és a hangulat sokkal csendesebb, mint a nyugati partvidék népszerűbb strandjain. Ez a helyszín tökéletes azok számára, akik el akarnak szakadni a modern világtól és átélni az érintetlen természet nyugalmát.",
+    "facts_hu": [
+      "Usulután megyében található.",
+      "Több mint 10 kilométer hosszú homokos parttal rendelkezik.",
+      "A tengeri teknősök egyik legfontosabb ívóhelye az országban.",
+      "Közel van a Jiquilisco-öböl Bioszféra Rezervátumhoz."
+    ]
+  },
+  {
+    "id": "bahia-de-jiquilisco-life-v2",
+    "desc_hu": "A Jiquilisco-öböl El Salvador legnagyobb összefüggő mangrove ökoszisztémája és egyben az UNESCO világörökség része. Ez a hatalmas vizes élőhely egy labirintusszerű csatornahálózatból, lagúnákból és több mint 20 kis szigetből áll, ahol az élet a víz és a szárazföld határán zajlik. Az öböl kulcsfontosságú menedékhely a kritikusan veszélyeztetett közönséges cserepesteknősök számára, és itt található Közép-Amerika egyik legjelentősebb vízimadár-populációja. A látogatók csónaktúrákon fedezhetik fel a sűrű gyökerek közötti világot, ahol krokodilok, majmok és ritka madárfajok is felbukkannak. Az öböl környékén fenntartható halászat és ökoturizmus biztosítja a helyi közösségek megélhetését.",
+    "facts_hu": [
+      "UNESCO Bioszféra Rezervátum és Ramsari terület.",
+      "Területe megközelítőleg 635 négyzetkilométer.",
+      "Itt fészkel a világ közönséges cserepesteknős-állományának jelentős része.",
+      "Több mint 27 sziget és homokpad alkotja a belső részét."
+    ]
+  },
+  {
+    "id": "nancuchiname-forest-life-v2",
+    "desc_hu": "A Nancuchiname-erdő egyike El Salvador utolsó megmaradt trópusi síkvidéki erdőinek, amely az ország keleti részén, az Usulután síkságon terül el. Ez a rezervátum létfontosságú összekötő kapocs a szárazföldi erdők és a Jiquilisco-öböl mangrove-rendszerei között. A terület gazdag biodiverzitása lenyűgöző: hatalmas ceiba fák és mahagónik alatt élnek olyan állatok, mint a pókmajmok, az ocelotok és a számtalan színes madárfaj. Az erdő fontos szerepet játszik a helyi éghajlat szabályozásában és a talajvíz megőrzésében. A látogatók számára kiépített ösvények teszik lehetővé a vadon élővilágának megfigyelését természetes, zavartalan környezetben.",
+    "facts_hu": [
+      "Egykori mezőgazdasági területek visszavadításával jött létre.",
+      "Központi szerepe van a pókmajmok védelmében.",
+      "A Lempa-folyó alsó szakaszának közelében fekszik.",
+      "Több mint 1000 hektárnyi védett területet foglal magában."
+    ]
+  },
+  {
+    "id": "chaguantique-reserve-life-v2",
+    "desc_hu": "A Chaguantique Rezervátum egy rejtett gyöngyszem Jiquilisco városának közelében, amely nevét a helyi nahuatl nyelven 'vízforrást' jelentő szóról kapta. Ez a terület különösen híres a pókmajmok egy jelentős populációjáról, amelyeket a sűrű lombok között gyakran megpillanthatnak a látogatók. A rezervátum területén kristálytiszta források fakadnak, amelyek állandó vízellátást biztosítanak a dús növényzetnek és a gazdag állatvilágnak. Emellett a rezervátum híres a kék pillangóiról és a ritka madárfajokról, amelyek a nedves, trópusi környezetet kedvelik. A közösségi alapú természetvédelem kiváló példája, ahol a helyi lakosok aktívan részt vesznek a terület megőrzésében.",
+    "facts_hu": [
+      "A név jelentése nahuatl nyelven 'hely a források között'.",
+      "Az ország egyik legjobb helye a pókmajmok megfigyelésére.",
+      "Természetes medencékkel és forrásokkal rendelkezik.",
+      "Fontos ökológiai folyosót alkot a partvidéken."
+    ]
+  },
+  {
+    "id": "laguna-el-jocotal-life-v2",
+    "desc_hu": "Az El Jocotal-lagúna El Salvador első nemzetközileg elismert Ramsari területe, amely San Miguel vulkánjának lábánál fekszik. Ez a sekély, édesvizű tó az ország egyik legfontosabb vadvédelmi területe, ahol évente több százezer vándormadár talál pihenőhelyet. A lagúna felszínét gyakran borítja vízi növényzet, amely ideális fészkelőhelyet biztosít a vízi madaraknak, például a kacsáknak és gémeknek. A helyi közösségek fenntartható módon kezelik a területet, mesterséges fészkeket helyezve ki a madarak számára. A látogatók kisméretű csónakokkal járhatják be a tavat, közelről megcsodálva a természet ezer arcát és a vulkán tükörképét a vízen.",
+    "facts_hu": [
+      "1999-ben vált az első salvadori Ramsari területté.",
+      "Több mint 200 madárfaj fordult már elő itt.",
+      "A tó mélysége átlagosan csak 1-3 méter.",
+      "A San Miguel-vulkán látványos hátteret biztosít a tájnak."
+    ]
+  },
+  {
+    "id": "laguna-de-olomega-life-v2",
+    "desc_hu": "Az Olomega-lagúna El Salvador keleti régiójának legnagyobb édesvízi tava, amely Usulután és San Miguel megyék határán terül el. Ez a hatalmas vizes élőhely létfontosságú szerepet tölt be a helyi ökoszisztémában, hiszen számos ritka madárfaj és vízi élőlény otthona. A tó körül élő halászközösségek élete szorosan összefonódik a vízzel, hagyományos módszerekkel fogják ki a napi betevőt. A lagúna vidéke különösen varázslatos naplementekor, amikor a környező hegyek sziluettje és a madarak raja visszatükröződik a vízfelszínen. Az utóbbi években az ökoturizmus is fellendült, lehetőséget adva a látogatóknak a táj felfedezésére és a helyi kultúra megismerésére.",
+    "facts_hu": [
+      "Területe körülbelül 24 négyzetkilométer.",
+      "2010-ben nyilvánították Ramsari területté.",
+      "Számos kis sziget, például az 'Isla de Olomega' található benne.",
+      "Fontos állomása a közép-amerikai madárvonulási útvonalnak."
+    ]
+  },
+  {
+    "id": "parque-nacional-montecristo-life-v2",
+    "desc_hu": "A Montecristo Nemzeti Park egy misztikus köderdő, ahol El Salvador, Guatemala és Honduras határai találkoznak a 'Punto Trifinio' nevű ponton. Ez a park az ország egyik legérintetlenebb természeti területe, ahol az óriási páfrányok, mohák és orchideák egy valóságos mesebeli világot alkotnak. A tengerszint feletti 2400 méteres magasságban a levegő hűvös és nyirkos, a felhők pedig gyakran átvonulnak a fák lombkoronái között. Itt élnek olyan ritka állatfajok, mint a quetzal, a pápaszemes medve és a pumák. A park látogatása korlátozott a természet megóvása érdekében, de a kijelölt kempingek és ösvények felejthetetlen élményt nyújtanak a kalandvágyóknak.",
+    "facts_hu": [
+      "A 'El Trifinio' bioszféra rezervátum része.",
+      "Legmagasabb pontja a Cerro Montecristo (2418 méter).",
+      "Itt található az ország egyik utolsó érintetlen köderdője.",
+      "Az orchideák kertje több mint 100 helyi fajt mutat be."
+    ]
+  },
+  {
+    "id": "cerro-verde-national-park-life-v2",
+    "desc_hu": "A Cerro Verde Nemzeti Park egy kialudt vulkán tetején fekszik, és az egyik legszebb kilátást nyújtja El Salvador két másik ikonikus vulkánjára: az Izalcóra és a Santa Anára. A park sűrű köderdeje gazdag növény- és állatvilágnak ad otthont, ahol több mint 120 madárfaj fészkel. A látogatók számára kialakított tanösvények a 'virágok útján' vezetnek keresztül, ahol egzotikus virágok és páfrányok díszítik az utat. Cerro Verde különlegessége a 'Hotelek és Vulkánok' komplexuma, amely történelmi hangulatot áraszt. A park tökéletes kiindulópont a szomszédos vulkánok megmászásához, vagy egyszerűen a tiszta hegyi levegő és a lenyűgöző panoráma élvezetéhez.",
+    "facts_hu": [
+      "Része a Vulkánok Komplexumának (Complejo de los Volcanes).",
+      "Tengerszint feletti magassága 2030 méter.",
+      "Az Izalco-vulkán közvetlen közelében található.",
+      "Híres a 'köderdő' ökoszisztémájáról és orchideáiról."
+    ]
+  },
+  {
+    "id": "lago-de-guija-life-v2",
+    "desc_hu": "A Güija-tó egy hatalmas, vulkanikus eredetű állóvíz, amely El Salvador és Guatemala határán fekszik. A tavat több kialudt vulkán, például a San Diego és az El Tule veszi körül, ami drámai hátteret kölcsönöz a tájnak. Ez a vizes élőhely kulcsfontosságú a vízi madarak számára, és a tó közepén található szigeteken fontos régészeti leleteket is találtak, amelyek az egykori maja jelenlétről tanúskodnak. A halászat a környéken élő közösségek fő bevételi forrása, a látogatók pedig csónakázhatnak a tiszta kék vízen. A tó környéke csendes és érintetlen, ideális a természet szerelmeseinek.",
+    "facts_hu": [
+      "Területe 45 négyzetkilométer.",
+      "Vulkanikus gát hozta létre évezredekkel ezelőtt.",
+      "Az UNESCO Bioszféra Rezervátum része.",
+      "Számos kis sziget, például az 'Isla de Teotipa' található benne."
+    ]
+  },
+  {
+    "id": "lago-de-coatepeque-life-v2",
+    "desc_hu": "A Coatepeque-tó El Salvador egyik leglátványosabb természeti képződménye, egy hatalmas vulkáni kráterben kialakult tó. A kristálytiszta víz és a környező hegyek látványa miatt gyakran illetik a 'világ egyik legszebb tava' címmel. Különlegessége, hogy bizonyos években a víz színe rejtélyes módon türkizkékké változik a benne lévő ásványi anyagok és algák miatt. A tó ideális helyszín vízi sportokhoz, például búvárkodáshoz, vitorlázáshoz és kajakozáshoz. A part mentén elegáns villák és hangulatos éttermek sorakoznak, ahonnan a látogatók a tó közepén fekvő Teopán-szigetre is ráláthatnak, amely egykor a maják szent helye volt.",
+    "facts_hu": [
+      "Egy hatalmas kalderában fekszik, amely 25 000 - 72 000 évvel ezelőtt alakult ki.",
+      "Legnagyobb mélysége eléri a 115 métert.",
+      "A Teopán-sziget maja szertartási központ volt.",
+      "2013-ban második helyezést ért el a 'világ nyolcadik csodája' szavazáson."
+    ]
+  },
+  {
+    "id": "coffee-farms-ruta-de-las-flores-life-v2",
+    "desc_hu": "A Ruta de las Flores (Virágok útja) El Salvador leghíresebb turisztikai útvonala, amely festői gyarmati városokon és végtelen kávéültetvényeken keresztül vezet. A régió hűvös klímája és termékeny vulkáni talaja tökéletes körülményeket biztosít a 'Strictly High Grown' minősítésű arabica kávé termesztéséhez. A látogatók részt vehetnek kávétúrákon, ahol megismerhetik a folyamatot a cserjék gondozásától kezdve a szüretelésen át egészen a pörkölésig. Az ültetvények nemcsak gazdasági jelentőségűek, hanem fontos ökológiai menedéket is nyújtanak a helyi madárvilágnak. A szezonális virágzás idején az út menti kertek és hegyoldalak vibráló színekbe borulnak, felejthetetlen vizuális élményt nyújtva.",
+    "facts_hu": [
+      "A leghíresebb kávétermő vidék az országban.",
+      "Magában foglalja Ataco, Apaneca és Juayúa városait.",
+      "A tengerszint feletti magasság 1000 és 1500 méter között van.",
+      "Számos 'finca' (birtok) kínál szállást és kóstolókat."
+    ]
+  },
+  {
+    "id": "concepcion-de-ataco-coffee-hills-life-v2",
+    "desc_hu": "Concepción de Ataco városa körül hullámzó dombok El Salvador kávétermelésének szívét alkotják. Ezek a domboldalak szinte teljesen összefüggő zöld szőnyeget alkotnak, amelyet csak néha szakít meg egy-egy kanyargós út vagy egy távoli udvarház. Az itteni kávét a világ legjobbjai között tartják számon aromája és selymessége miatt. A dombok között megbújó ültetvények nagy része árnyékban termesztett kávét állít elő, ami segít megőrizni az őshonos erdők szerkezetét. A látogatók számára a dombtetőkön található kilátók lenyűgöző panorámát nyújtanak a ködös hegycsúcsokra és a város színes háztetőire.",
+    "facts_hu": [
+      "Híres a 'Borbollón' és 'El Carmen' birtokokról.",
+      "Ataco városa a falfestményeiről és kézműveseiről is ismert.",
+      "A vidék egész évben hűvös, tavaszias időjárással rendelkezik.",
+      "Fontos állomása az El Salvador-i kávéturizmusnak."
+    ]
+  },
+  {
+    "id": "apaneca-laguna-verde-life-v2",
+    "desc_hu": "A Laguna Verde egy varázslatos, zöldes vizű tó, amely egy kialudt vulkán kráterében helyezkedik el Apaneca városa közelében. A tó nevét a vizében tükröződő sűrű erdőknek és a benne lévő növényzetnek köszönheti. A területet gyakran sűrű köd borítja, ami misztikus és nyugodt hangulatot kölcsönöz a tájnak. Egy jól karbantartott ösvény veszi körül a lagúnát, amely ideális a könnyű természetjáráshoz és a friss hegyi levegő élvezetéhez. A környéken kávéültetvények és ciprus erdők váltják egymást, a tóparton pedig pihenőhelyek várják a kirándulókat. Igazi menedékhely azoknak, akik a csendet és az érintetlen természetet keresik.",
+    "facts_hu": [
+      "Tengerszint feletti magassága 1600 méter felett van.",
+      "Apaneca hegyeiben, Ahuachapán megyében található.",
+      "Könnyen megközelíthető terepjáróval vagy gyalogos túrával.",
+      "A víz színe az algák és a tükröződés miatt tűnik zöldnek."
+    ]
+  },
+  {
+    "id": "apaneca-laguna-las-ninfas-life-v2",
+    "desc_hu": "A Laguna Las Ninfas egy apró, de ökológiailag rendkívül gazdag vizes élőhely Apaneca magaslati régiójában. A tó nevét a felszínén lebegő számtalan tündérrózsáról és vízi liliomról kapta, amelyek virágzáskor fehérbe borítják a vizet. A tavat sűrű, ködös erdő veszi körül, amely különleges mikroklímát és állandó nedvességet biztosít a ritka növényfajoknak. A terület híres a gazdag madárvilágáról, különösen a kolibrikról és a vándorló vízimadarakról. Bár kisebb, mint a szomszédos Laguna Verde, érintetlensége és csendje miatt a természetfotósok és a meditálni vágyók kedvelt célpontja.",
+    "facts_hu": [
+      "A név jelentése: 'Nimfák lagúnája'.",
+      "Híres a felszínét borító vízi liliomokról.",
+      "Vulkanikus kráterben kialakult vizes élőhely.",
+      "Az UNESCO Bioszféra Rezervátum része."
+    ]
+  },
+  {
+    "id": "laberinto-de-albania-life-v2",
+    "desc_hu": "A Laberinto de Albania El Salvador egyik legizgalmasabb újabb turisztikai attrakciója, amely Apaneca hűvös hegyei között található. Ez Közép-Amerika legnagyobb sövény-útvesztője, amely több mint 2000 ciprusfából áll, és a látogatóknak logikai és tájékozódási kihívást nyújt. A park nemcsak az útvesztőről híres, hanem számos más kalandlehetőséget is kínál, mint például a kerékpáros drótkötélpálya, extrém hinták és szörf-szimulátorok a hegyoldalban. A helyszínről lenyűgöző kilátás nyílik a környező kávéültetvényekre és hegyekre. Kiváló választás családok számára, akik a természetközeli szórakozást és a kalandot keresik egy gyönyörű magaslati környezetben.",
+    "facts_hu": [
+      "Több mint 2000 ciprusfából épült fel.",
+      "A labirintus közepén egy kilátótorony található.",
+      "Közép-Amerika legnagyobb sövény-útvesztője.",
+      "Számos extrém sportlehetőséget is kínál a helyszínen."
+    ]
+  },
+  {
+    "id": "parque-nacional-el-imposible-life-v2",
+    "desc_hu": "Az El Imposible Nemzeti Park El Salvador legfontosabb természeti rezervátuma, amely nevét a területén található mély kanyonok és meredek sziklák nehéz átjárhatóságáról kapta. Ez a hatalmas trópusi erdő ad otthont az ország legnagyobb biodiverzitásának, beleértve több száz madárfajt, emlősöket, például ocelotokat és vaddisznókat, valamint ritka hüllőket. A park drámai tájait kristálytiszta folyók, vízesések és lélegzetelállító kilátópontok tarkítják. A túrázók különböző nehézségű útvonalakon fedezhetik fel az őserdő mélyét, miközben megismerhetik a terület gazdag kulturális örökségét is. El Imposible a természetvédelem bástyája az országban, és az egyik utolsó menedéke számos veszélyeztetett fajnak.",
+    "facts_hu": [
+      "1989-ben alapították, területe közel 4000 hektár.",
+      "Nevét egy veszélyes hegyi átjáróról kapta.",
+      "Több mint 500 madárfaj és 100 emlősfaj él itt.",
+      "Nyolc különböző folyó forrásvidéke található a területén."
+    ]
+  },
+  {
+    "id": "barra-de-santiago-mangroves-life-v2",
+    "desc_hu": "A Barra de Santiago egy lenyűgöző torkolatvidék Ahuachapán megye partjainál, ahol a folyóvíz találkozik a Csendes-óceán sós hullámaival. Ez a terület El Salvador egyik leggazdagabb mangrove ökoszisztémája, amely labirintusszerű csatornáival menedéket nyújt számos állatfajnak. A látogatók csónakkal fedezhetik fel a sűrű növényzetet, ahol gyakran láthatók krokodilok, tengeri teknősök és számtalan egzotikus madár. A környék nemcsak természeti, hanem turisztikai szempontból is vonzó, köszönhetően a tiszta homokos partoknak és a friss tengeri ételeket kínáló helyi éttermeknek. A közösség aktívan részt vesz a teknősvédelmi programokban, tovább erősítve a hely fenntartható jellegét.",
+    "facts_hu": [
+      "Védett vizes élőhely és Ramsari terület.",
+      "Híres az itt folyó teknősvédelmi és keltetési programokról.",
+      "Közép-Amerika egyik legszebb torkolatvidéke.",
+      "Fontos élőhelye a ritka amerikai krokodilnak."
+    ]
+  },
+  {
+    "id": "bosque-cinquera-life-v2",
+    "desc_hu": "A Cinquera-erdő a remény és az újjászületés szimbóluma El Salvadorban, mivel a polgárháború idején súlyosan károsodott területet a helyi közösség összefogásával sikerült regenerálni. Ma ez a szubtrópusi erdő virágzó ökoszisztéma, ahol az egykori lövészárkok helyén ma már buja növényzet és énekesmadarak találhatók. A parkban vezetett túrák során a látogatók nemcsak a gazdag növény- és állatvilágot ismerhetik meg, hanem az erdő történelmi jelentőségét is. Számos vízesés és természetes medence teszi még vonzóbbá a területet a kirándulók számára. A helyi lakosok elkötelezettsége a környezetvédelem iránt példaértékű az egész ország számára.",
+    "facts_hu": [
+      "Közösségi kezelésben lévő ökológiai park.",
+      "Híres a 'La Posada del Bosque' nevű szálláshelyéről.",
+      "Fontos szerepet játszott El Salvador modern történelmében.",
+      "Gazdag biodiverzitás, beleértve ritka lepkéket és madarakat."
+    ]
+  },
+  {
+    "id": "meanguera-island-life-v2",
+    "desc_hu": "Meanguera-szigete egy rejtett vulkanikus ékkő a Fonseca-öböl szívében, ahol az idő mintha megállt volna. Ez az El Salvadorhoz tartozó legdélebbi lakott terület, ahol a helyiek főként halászatból és kézművességből élnek. A sziget drámai sziklafalakkal, rejtett öblökkel és sötét homokos strandokkal rendelkezik, amelyek kristálytiszta vizekkel párosulnak. A dombos terep kiváló túralehetőségeket kínál, ahonnan belátni az egész öblöt, sőt Honduras és Nicaragua partjait is. A sziget autentikus hangulata, a vendégszerető közösség és a tenger közelsége egyedülálló élményt nyújt a kalandvágyó utazóknak.",
+    "facts_hu": [
+      "A Fonseca-öböl legnagyobb salvadori szigete.",
+      "Vulkanikus eredetű, dombos domborzattal.",
+      "Híres a friss tengeri ételeiről és a 'mariscada'-ról.",
+      "Kizárólag hajóval közelíthető meg La Unión kikötőjéből."
+    ]
+  },
+  {
+    "id": "conchagua-volcano-wildlife-life-v2",
+    "desc_hu": "A Conchagua-vulkán El Salvador délkeleti csücskében emelkedik, és az ország egyik leglenyűgözőbb természetes kilátópontját kínálja. A vulkán oldalait sűrű trópusi erdő borítja, amely otthont ad számos madárfajnak és emlősnek. A csúcsról, különösen az 'Espíritu de la Montaña' nevű pontról, lélegzetelállító panoráma nyílik a Fonseca-öbölre, ahol El Salvador, Honduras és Nicaragua szigetei és partjai találkoznak. A vulkán környéke csendes és kevésbé zsúfolt, mint a középső régió tűzhányói, így ideális a nyugodt természetjáráshoz. A hegyi levegő és a végtelen óceáni horizont kombinációja felejthetetlen élményt nyújt minden látogatónak.",
+    "facts_hu": [
+      "Legmagasabb pontja a Cerro del Ocote (1225 méter).",
+      "Két fő csúcsa van: a Cerro Santiago és a Cerro del Ocote.",
+      "Egyik legnépszerűbb pontja az 'Espíritu de la Montaña' kilátó.",
+      "Nevét a helyi lenca indián kultúrából kapta."
+    ]
+  },
+  {
+    "id": "gulf-of-fonseca-mangroves-life-v2",
+    "desc_hu": "A Fonseca-öböl mangrove ökoszisztémája El Salvador, Honduras és Nicaragua közös természeti kincse, amely rendkívüli ökológiai jelentőséggel bír. Ez a hatalmas vizes élőhely természetes szűrőként és védőgátként szolgál a partvonal számára, miközben számtalan tengeri faj számára biztosít bölcsőhelyet. A kanyargós csatornák mentén vörös, fekete és fehér mangrove fák alkotnak áthatolhatatlan falat, ahol gémek, pelikánok és fregattmadarak fészkelnek nagy számban. A látogatók motoros csónakokkal járhatják be a vízi utakat, megfigyelve a halászok mindennapjait és a vadon élő állatokat. Az öböl nyugalma és a természet érintetlensége különleges hangulatot áraszt a trópusi napsütésben.",
+    "facts_hu": [
+      "Három ország osztozik rajta: El Salvador, Honduras és Nicaragua.",
+      "Kritikus fontosságú a tengeri biodiverzitás fenntartásához.",
+      "Számos ritka vándormadár telelőhelye.",
+      "Gazdag rákfélékben és puhatestűekben, ami a helyi gazdaság alapja."
+    ]
+  }
+]

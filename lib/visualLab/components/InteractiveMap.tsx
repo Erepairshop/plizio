@@ -123,11 +123,15 @@ export const InteractiveMap = ({
   subject = "geographie",
   grade = 5,
   initialPoiId = null,
+  defaultCoords,
+  defaultZoom,
 }: {
   lang?: string;
   subject?: Subject;
   grade?: number;
   initialPoiId?: string | null;
+  defaultCoords?: [number, number];
+  defaultZoom?: number;
 }) => {
   const router = useRouter();
   // Static-export-safe URL param reader (avoids useSearchParams Suspense requirement)

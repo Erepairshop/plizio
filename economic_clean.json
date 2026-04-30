@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "bz-big-creek-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.401,
+      16.517
+    ],
+    "name": {
+      "de": "Big Creek Hafen",
+      "hu": "Big Creek kik\u00f6t\u0151",
+      "ro": "Portul Big Creek",
+      "en": "Big Creek Port"
+    },
+    "description": {
+      "de": "Der wichtigste Tiefseehafen von Belize f\u00fcr den Export von Agrarprodukten.",
+      "hu": "Belize legfontosabb m\u00e9lyv\u00edzi kik\u00f6t\u0151je a mez\u0151gazdas\u00e1gi term\u00e9kek exportj\u00e1ra.",
+      "ro": "Cel mai important port de mare ad\u00e2ncime din Belize pentru exportul produselor agricole.",
+      "en": "The primary deep-water port in Belize for agricultural exports."
+    },
+    "facts": {
+      "de": [
+        "Hauptumschlagplatz f\u00fcr Bananen.",
+        "Tiefseehafen im S\u00fcden.",
+        "Privat betrieben.",
+        "Wichtiger Wirtschaftsfaktor."
+      ],
+      "hu": [
+        "F\u0151 ban\u00e1n\u00e1trakod\u00f3 hely.",
+        "D\u00e9li m\u00e9lyv\u00edzi kik\u00f6t\u0151.",
+        "Mag\u00e1n\u00fczemeltet\u00e9s\u0171.",
+        "Fontos gazdas\u00e1gi t\u00e9nyez\u0151."
+      ],
+      "ro": [
+        "Principalul centru de tranzit pentru banane.",
+        "Port de mare ad\u00e2ncime \u00een sud.",
+        "Operat privat.",
+        "Factor economic important."
+      ],
+      "en": [
+        "Primary hub for banana exports.",
+        "Key southern deep-water facility.",
+        "Privately operated terminal.",
+        "Crucial for national economy."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Big Creek Port ist der wichtigste Tiefseehafen im S\u00fcden von Belize und ein entscheidendes Drehkreuz f\u00fcr die Exportwirtschaft des Landes. Gelegen im Stann Creek District, dient er als prim\u00e4rer Umschlagplatz f\u00fcr Bananen, Zitrusfr\u00fcchte und Roh\u00f6l. In den letzten Jahren wurden erhebliche Investitionen in die Infrastruktur get\u00e4tigt, um den Hafen zu einer der modernsten Anlagen der Region auszubauen. Er ist das Zentrum einer wachsenden Industriezone, die essentielle Logistikdienstleistungen f\u00fcr die Agrarbetriebe des S\u00fcdens bereitstellt. Durch seine strategische Lage erm\u00f6glicht Big Creek den Zugang zu internationalen M\u00e4rkten und sichert tausende Arbeitspl\u00e4tze in der Region. Die Effizienz und Kapazit\u00e4t des Hafens machen ihn zu einem Eckpfeiler der nationalen Wirtschaftsentwicklung Belizes und f\u00f6rdern den globalen Handel mit lokalen Qualit\u00e4tsprodukten.",
+      "hu": "",
+      "ro": "",
+      "en": "Big Creek Port is the primary deep-water port in southern Belize and a vital gateway for the country's export economy. Located in the Stann Creek District, it is the main hub for the shipment of bananas, citrus, and crude oil. The port has seen significant investment and expansion in recent years, becoming one of the most efficient and modern facilities in the region. Big Creek is the center of a bustling industrial zone, providing essential services and logistics for the southern agricultural districts and the national oil industry. Its strategic location and its role as a vital node in Belize's trade network make it a cornerstone of the nation's economic development, facilitating the movement of goods to international markets and supporting thousands of local jobs."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Einziger Hafen Belizes, der Panamax-Schiffe abfertigen kann.",
+        "Hauptexportpunkt f\u00fcr 100% der belizischen Bananenproduktion.",
+        "Wichtigstes Terminal f\u00fcr den Export von Roh\u00f6l aus Spanish Lookout.",
+        "Verf\u00fcgt \u00fcber mehr als 1.000 Meter Anlegefl\u00e4che.",
+        "Zentrales Logistikzentrum f\u00fcr die Garnelen- und Zitrusindustrie.",
+        "In den 1990er Jahren gegr\u00fcndet und kontinuierlich erweitert.",
+        "Bedeutendster Arbeitgeber f\u00fcr die Gemeinden Independence und Mango Creek.",
+        "Strategisch g\u00fcnstig f\u00fcr den Handel mit Zentralamerika gelegen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "Big Creek is the only port in Belize capable of handling Panamax vessels.",
+        "It is the primary export point for 100% of Belize's banana production.",
+        "The port facilitates the export of crude oil from the Spanish Lookout field.",
+        "It features over 1",
+        "000 meters of berthing space.",
+        "Big Creek Port is a major center for the regional citrus and shrimp industries.",
+        "The port was established in the 1990s and has undergone continuous expansion.",
+        "It is a vital employer for the communities of Independence and Mango Creek."
+      ]
+    }
+  },
+  {
+    "id": "bz-belize-city-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.182,
+      17.494
+    ],
+    "name": {
+      "de": "Hafen von Belize City",
+      "hu": "Belize City kik\u00f6t\u0151je",
+      "ro": "Portul Belize City",
+      "en": "Port of Belize City"
+    },
+    "description": {
+      "de": "Der gr\u00f6\u00dfte Hafen des Landes, der Container- und Kreuzfahrtschiffe bedient.",
+      "hu": "Az orsz\u00e1g legnagyobb kik\u00f6t\u0151je, amely kont\u00e9ner- \u00e9s \u00fcd\u00fcl\u0151haj\u00f3kat szolg\u00e1l ki.",
+      "ro": "Cel mai mare port al \u021b\u0103rii, care deserve\u0219te nave de containere \u0219i de croazier\u0103.",
+      "en": "The country's largest port handling container and cruise ship traffic."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dfter Hafen in Belize.",
+        "Kreuzfahrtterminal.",
+        "Wichtigster Importknoten.",
+        "Logistisches Zentrum."
+      ],
+      "hu": [
+        "Belize legnagyobb kik\u00f6t\u0151je.",
+        "\u00dcd\u00fcl\u0151haj\u00f3-termin\u00e1l.",
+        "Legfontosabb importcsom\u00f3pont.",
+        "Logisztikai k\u00f6zpont."
+      ],
+      "ro": [
+        "Cel mai mare port din Belize.",
+        "Terminal de croazier\u0103.",
+        "Cel mai important nod de import.",
+        "Centru logistic."
+      ],
+      "en": [
+        "Largest port facility in Belize.",
+        "Major cruise ship terminal.",
+        "Primary import hub.",
+        "Central logistics center."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Belize City ist das historische und kommerzielle Herz des Landes und dient als wichtigstes Tor f\u00fcr den internationalen Warenverkehr. An der M\u00fcndung des Belize River gelegen, verbindet er die Nation mit den gro\u00dfen Schifffahrtslinien der Welt. Er ist das prim\u00e4re Zentrum f\u00fcr den Containerumschlag und den Import von Konsumg\u00fctern, Treibstoffen und Industrieausr\u00fcstung. Das Hafengebiet beherbergt zahlreiche Logistikunternehmen, Lagerh\u00e4user und die Hauptquartiere der nationalen Zollbeh\u00f6rden. Trotz der Konkurrenz durch neue Tiefseeh\u00e4fen bleibt der Hafen von Belize City aufgrund seiner zentralen Lage und exzellenten Anbindung an das Stra\u00dfennetz unverzichtbar. Er spielt eine Schl\u00fcsselrolle bei der Versorgung der bev\u00f6lkerungsreichsten Region des Landes und ist ein Symbol f\u00fcr die maritime Tradition und wirtschaftliche Vitalit\u00e4t der ehemaligen Hauptstadt.",
+      "hu": "",
+      "ro": "",
+      "en": "The Port of Belize City is the country's largest and most historic maritime gateway, serving as the primary hub for containerized cargo and general trade. Located at the mouth of the Belize River, the port connects the nation with major international shipping lines and markets. It is the center of a vital commercial district, housing major warehouses, logistics companies, and the headquarters of the national customs and port authorities. While facing competition from newer deep-water facilities, the Belize City port remains an essential node in the country's trade network, facilitating the import of consumer goods, fuel, and industrial equipment. Its long history and its central role in the national economy make it a cornerstone of Belize's commercial and industrial infrastructure."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gr\u00f6\u00dfter Hafen f\u00fcr den Containerumschlag in Belize.",
+        "Wichtigster Importpunkt f\u00fcr Erd\u00f6lprodukte und Treibstoffe.",
+        "Zentraler Knotenpunkt f\u00fcr die nationale Logistik und Distribution.",
+        "Sitz der belizischen Hafenbeh\u00f6rde (Port Authority).",
+        "Verarbeitet \u00fcber 50 % der containerisierten Fracht des Landes.",
+        "Strategische Lage an der M\u00fcndung des Belize River.",
+        "Zentrum f\u00fcr Zollabwicklungen und grenz\u00fcberschreitenden Handel.",
+        "Wichtiger Standort f\u00fcr Lagerhaltung und Speditionen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Port of Belize City handles over 50% of the country's containerized cargo.",
+        "It is the main entry point for imported fuel and petroleum products.",
+        "The port serves as a major hub for the regional distribution of goods.",
+        "It is the primary port for the national cruise ship industry nearby.",
+        "The facility includes a major container terminal and bulk cargo docks.",
+        "The port is a key center for the country's customs and excise operations.",
+        "It is situated at the most strategic location for mainland trade in Belize."
+      ]
+    }
+  },
+  {
+    "id": "bz-libertad-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CZL",
+    "coords": [
+      -88.463,
+      18.283
+    ],
+    "name": {
+      "de": "Zuckerfabrik Libertad",
+      "hu": "Libertad cukorgy\u00e1r",
+      "ro": "Fabrica de zah\u0103r Libertad",
+      "en": "Libertad Sugar Factory"
+    },
+    "description": {
+      "de": "Eine bedeutende Anlage zur Zuckerrohrverarbeitung in Nord-Belize.",
+      "hu": "Jelent\u0151s cukorn\u00e1dfeldolgoz\u00f3 \u00fczem \u00c9szak-Belize-ben.",
+      "ro": "O unitate semnificativ\u0103 de procesare a trestiei de zah\u0103r \u00een nordul Belize.",
+      "en": "A significant sugarcane processing facility in northern Belize."
+    },
+    "facts": {
+      "de": [
+        "Zuckerverarbeitung.",
+        "Historische Industriest\u00e4tte.",
+        "Besch\u00e4ftigt viele Landwirte.",
+        "Exportorientiert."
+      ],
+      "hu": [
+        "Cukor-feldolgoz\u00e1s.",
+        "T\u00f6rt\u00e9nelmi ipari helysz\u00edn.",
+        "Sok mez\u0151gazdas\u00e1gi termel\u0151t foglalkoztat.",
+        "Exportorient\u00e1lt."
+      ],
+      "ro": [
+        "Procesarea zah\u0103rului.",
+        "Sit industrial istoric.",
+        "Angajeaz\u0103 mul\u021bi fermieri.",
+        "Orientat\u0103 spre export."
+      ],
+      "en": [
+        "Sugarcane processing hub.",
+        "Historic industrial site.",
+        "Supports many local farmers.",
+        "Export-focused industry."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Zuckerfabrik Libertad im Corozal District ist ein markanter Pfeiler der industriellen Geschichte Nord-Belizes. Urspr\u00fcnglich als eine der Hauptverarbeitungsanlagen f\u00fcr Zuckerrohr konzipiert, hat sie \u00fcber Jahrzehnte die wirtschaftliche Entwicklung der Region gepr\u00e4gt. Obwohl sich der Schwerpunkt der Produktion im Laufe der Zeit verschoben hat, bleibt Libertad ein bedeutender Standort f\u00fcr die Agrarindustrie und die Lagerung von Exportg\u00fctern. Die Anlage symbolisiert den \u00dcbergang Belizes von einer rein agrarischen Gesellschaft hin zu einer diversifizierten Industriewirtschaft. F\u00fcr die umliegenden Gemeinden ist Libertad ein wichtiger Bezugspunkt, der eng mit der Identit\u00e4t der Zuckerrohrbauern verbunden ist. Die Infrastruktur der Fabrik wird heute f\u00fcr verschiedene logistische Zwecke genutzt und tr\u00e4gt weiterhin zur Stabilit\u00e4t der lokalen Wirtschaft im Norden bei.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Historisch bedeutendes Zentrum der Zuckerindustrie in Nord-Belize.",
+        "Wichtiger Standort f\u00fcr die Lagerung landwirtschaftlicher Produkte.",
+        "Unterst\u00fctzt die kleinb\u00e4uerliche Zuckerrohrproduktion im Corozal District.",
+        "Wahrzeichen der industriellen Entwicklung in der Region.",
+        "Bietet Infrastruktur f\u00fcr die Weiterverarbeitung von Rohstoffen.",
+        "Eng verbunden mit der lokalen Wirtschaft von Libertad Village.",
+        "Teil des Netzwerks f\u00fcr den Export von Agrarg\u00fctern nach Mexiko.",
+        "Saisonaler Schwerpunkt w\u00e4hrend der Zuckerrohrernte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-orange-walk-agri-economic-v2",
+    "type": "industry",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.561,
+      18.077
+    ],
+    "name": {
+      "de": "Orange Walk Agro-Zentrum",
+      "hu": "Orange Walk agr\u00e1rk\u00f6zpont",
+      "ro": "Centrul agro Orange Walk",
+      "en": "Orange Walk Agro-Center"
+    },
+    "description": {
+      "de": "Ein Zentrum f\u00fcr die Verarbeitung von landwirtschaftlichen Erzeugnissen.",
+      "hu": "K\u00f6zpont a mez\u0151gazdas\u00e1gi term\u00e9kek feldolgoz\u00e1s\u00e1hoz.",
+      "ro": "Un centru pentru procesarea produselor agricole.",
+      "en": "A hub for the processing of various agricultural goods."
+    },
+    "facts": {
+      "de": [
+        "Agrarverarbeitung.",
+        "Regionales Zentrum.",
+        "Lebensmittelindustrie.",
+        "Besch\u00e4ftigungshub."
+      ],
+      "hu": [
+        "Agr\u00e1rfeldolgoz\u00e1s.",
+        "Region\u00e1lis k\u00f6zpont.",
+        "\u00c9lelmiszeripar.",
+        "Foglalkoztat\u00e1si k\u00f6zpont."
+      ],
+      "ro": [
+        "Procesare agricol\u0103.",
+        "Centru regional.",
+        "Industria alimentar\u0103.",
+        "Hub de ocupare a for\u021bei de munc\u0103."
+      ],
+      "en": [
+        "Agricultural processing site.",
+        "Regional hub.",
+        "Food processing industry.",
+        "Key employment center."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Orange Walk Agro-Zentrum ist das pulsierende Herz der landwirtschaftlichen Verarbeitung im Norden von Belize. In einer Region, die als 'Zuckerstadt' bekannt ist, fungiert dieses Zentrum als entscheidender Mittler zwischen den Feldern und den Weltm\u00e4rkten. Neben der Zuckerrohrverarbeitung werden hier vielf\u00e4ltige Produkte wie Zitrusfr\u00fcchte, Mais und Bohnen aufbereitet und f\u00fcr den Handel vorbereitet. Das Zentrum bietet modernste Technologien zur Qualit\u00e4tskontrolle und Verpackung, was die Wettbewerbsf\u00e4higkeit belizischer Produkte international st\u00e4rkt. Es ist zudem ein wichtiger Ort f\u00fcr die Forschung und Beratung, um nachhaltige Anbaumethoden in der Region zu f\u00f6rdern. Als gr\u00f6\u00dfter Arbeitgeber im Orange Walk District sichert das Agro-Zentrum den Lebensunterhalt tausender Familien und treibt die wirtschaftliche Diversifizierung des l\u00e4ndlichen Raums voran.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentraler Knotenpunkt f\u00fcr die Agrarwirtschaft in Nord-Belize.",
+        "Spezialisiert auf die Aufbereitung von Zuckerrohr und Getreide.",
+        "Wichtigster Dienstleister f\u00fcr lokale Bauernkooperativen.",
+        "Bietet moderne Anlagen zur Trocknung und Lagerung von Getreide.",
+        "Zentrum f\u00fcr Qualit\u00e4tspr\u00fcfung und Exportvorbereitung.",
+        "F\u00f6rdert nachhaltige landwirtschaftliche Praktiken in der Region.",
+        "Gro\u00dfer regionaler Arbeitgeber im Industriesektor.",
+        "Erm\u00f6glicht den effizienten Transport von Waren zum Hafen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-towers-hill-mill-economic-v2",
+    "type": "industry",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.665,
+      18.008
+    ],
+    "name": {
+      "de": "Towers Hill Zuckerrohrm\u00fchle",
+      "hu": "Towers Hill cukorn\u00e1dl\u00e9 \u00fczem",
+      "ro": "Moara de trestie de zah\u0103r Towers Hill",
+      "en": "Towers Hill Sugarcane Mill"
+    },
+    "description": {
+      "de": "Eine gro\u00dfe M\u00fchle zur Verarbeitung von Zuckerrohr in Orange Walk.",
+      "hu": "Nagy \u00fczem a cukorn\u00e1d feldolgoz\u00e1s\u00e1ra Orange Walk-ban.",
+      "ro": "O moar\u0103 mare pentru procesarea trestiei de zah\u0103r \u00een Orange Walk.",
+      "en": "A large-scale mill for processing sugarcane in Orange Walk."
+    },
+    "facts": {
+      "de": [
+        "Zuckerproduktion.",
+        "Gro\u00dfe Kapazit\u00e4t.",
+        "Industrieller Standort.",
+        "Saisonaler Betrieb."
+      ],
+      "hu": [
+        "Cukortermel\u00e9s.",
+        "Nagy kapacit\u00e1s.",
+        "Ipari helysz\u00edn.",
+        "Szezon\u00e1lis \u00fczemeltet\u00e9s."
+      ],
+      "ro": [
+        "Produc\u021bia de zah\u0103r.",
+        "Capacitate mare.",
+        "Loca\u021bie industrial\u0103.",
+        "Func\u021bionare sezonier\u0103."
+      ],
+      "en": [
+        "Large sugar production facility.",
+        "High capacity mill.",
+        "Industrial location.",
+        "Seasonal operations."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Towers Hill Zuckerrohrm\u00fchle ist eine der leistungsst\u00e4rksten industriellen Anlagen in Belize und ein technologisches Wunderwerk der Agrarindustrie. Sie ist darauf spezialisiert, gewaltige Mengen an Zuckerrohr in hochwertigen Rohzucker und Melasse f\u00fcr den Export zu verwandeln. W\u00e4hrend der Erntesaison, bekannt als 'Zafra', ist die M\u00fchle rund um die Uhr in Betrieb und verarbeitet den Ertrag tausender Farmer aus dem ganzen Norden. Towers Hill nutzt modernste Extraktionsmethoden und tr\u00e4gt durch die Erzeugung von Bioenergie aus Bagasse ma\u00dfgeblich zur nachhaltigen Stromversorgung des Landes bei. Die Anlage ist nicht nur ein Produktionsstandort, sondern auch ein logistisches Zentrum, das den reibungslosen Ablauf der Ernte koordiniert. Ihre Bedeutung f\u00fcr das Bruttoinlandsprodukt von Belize macht Towers Hill zu einer der kritischsten Infrastruktureinrichtungen des Landes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gr\u00f6\u00dfte und modernste Zuckerrohrm\u00fchle in Belize.",
+        "Zentrum der nationalen Zuckerproduktion f\u00fcr den Weltmarkt.",
+        "Erzeugt Strom aus Biomasse (Bagasse) f\u00fcr das nationale Netz.",
+        "Verarbeitet t\u00e4glich tausende Tonnen Zuckerrohr w\u00e4hrend der Ernte.",
+        "Wichtigster Abnehmer f\u00fcr \u00fcber 5.000 unabh\u00e4ngige Farmer.",
+        "Hochmoderne Laboranlagen zur \u00dcberwachung der Zuckerqualit\u00e4t.",
+        "Logistisches Zentrum f\u00fcr den Transport von fl\u00fcssiger Melasse.",
+        "Eckpfeiler der wirtschaftlichen Stabilit\u00e4t in Nord-Belize."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-belmopan-admin-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CYO",
+    "coords": [
+      -88.761,
+      17.252
+    ],
+    "name": {
+      "de": "Belmopan Industriezone",
+      "hu": "Belmopan ipari z\u00f3na",
+      "ro": "Zona industrial\u0103 Belmopan",
+      "en": "Belmopan Industrial Park"
+    },
+    "description": {
+      "de": "Ein Gebiet f\u00fcr leichte Industrie und Dienstleistungsbetriebe.",
+      "hu": "Ter\u00fclet k\u00f6nny\u0171ipari \u00e9s szolg\u00e1ltat\u00f3 c\u00e9gek sz\u00e1m\u00e1ra.",
+      "ro": "O zon\u0103 pentru industria u\u0219oar\u0103 \u0219i unit\u0103\u021bi de servicii.",
+      "en": "An area dedicated to light industry and service businesses."
+    },
+    "facts": {
+      "de": [
+        "Leichtindustrie.",
+        "Gewerbegebiet.",
+        "Dienstleister.",
+        "Wachsendes Zentrum."
+      ],
+      "hu": [
+        "K\u00f6nny\u0171ipar.",
+        "Ipari park.",
+        "Szolg\u00e1ltat\u00f3k.",
+        "N\u00f6vekv\u0151 k\u00f6zpont."
+      ],
+      "ro": [
+        "Industrie u\u0219oar\u0103.",
+        "Zon\u0103 industrial\u0103.",
+        "Furnizori de servicii.",
+        "Centru \u00een cre\u0219tere."
+      ],
+      "en": [
+        "Light industrial zone.",
+        "Business park.",
+        "Service providers.",
+        "Growing commercial hub."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Industriezone von Belmopan ist ein strategisch geplantes Gebiet in der Hauptstadt von Belize, das auf die F\u00f6rderung von Leichtindustrie und Dienstleistungsunternehmen ausgerichtet ist. Dank ihrer zentralen Lage bietet die Zone ideale Bedingungen f\u00fcr die Distribution von Waren im ganzen Land. Hier finden sich Unternehmen aus den Bereichen Lebensmittelverarbeitung, M\u00f6belherstellung und Bauwesen sowie moderne Lager- und Logistikzentren. Die unmittelbare N\u00e4he zu den Regierungsbeh\u00f6rden und internationalen diplomatischen Vertretungen macht Belmopan zu einem attraktiven Standort f\u00fcr innovative Start-ups und expandierende Betriebe. Die Zone ist ein wichtiger Faktor f\u00fcr die Diversifizierung der Wirtschaft der Hauptstadt und bietet qualifizierte Arbeitspl\u00e4tze f\u00fcr die wachsende Bev\u00f6lkerung. Durch Investitionen in moderne Infrastruktur wird Belmopan zunehmend zu einem industriellen Motor im Landesinneren.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentral gelegener Industriepark in der Hauptstadt Belmopan.",
+        "Schwerpunkt auf Leichtindustrie und hochwertigen Dienstleistungen.",
+        "Idealer Standort f\u00fcr die landesweite Warenverteilung.",
+        "Beherbergt Unternehmen der Lebensmittel- und M\u00f6belindustrie.",
+        "Profitierte von der N\u00e4he zu Regierungs- und Verwaltungszentren.",
+        "Wachsendes Viertel mit Fokus auf innovative Gesch\u00e4ftskonzepte.",
+        "Bietet moderne Gewerbefl\u00e4chen und Infrastruktur.",
+        "Wichtiger Standort f\u00fcr nationale Versorgungsunternehmen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-stann-creek-fruit-economic-v2",
+    "type": "industry",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.355,
+      16.852
+    ],
+    "name": {
+      "de": "Stann Creek Obst-Verarbeitung",
+      "hu": "Stann Creek gy\u00fcm\u00f6lcsfeldolgoz\u00f3",
+      "ro": "Procesare fructe Stann Creek",
+      "en": "Stann Creek Fruit Processing"
+    },
+    "description": {
+      "de": "Anlage zur Verarbeitung von Zitrusfr\u00fcchten f\u00fcr den Export.",
+      "hu": "Citrusf\u00e9l\u00e9k feldolgoz\u00e1s\u00e1ra szolg\u00e1l\u00f3 \u00fczem exportra.",
+      "ro": "Unitate pentru procesarea citricelor pentru export.",
+      "en": "Facility for processing citrus fruits for export."
+    },
+    "facts": {
+      "de": [
+        "Zitrusverarbeitung.",
+        "Export von S\u00e4ften.",
+        "Gro\u00dfer Arbeitgeber.",
+        "Saisonal aktiv."
+      ],
+      "hu": [
+        "Citrusfeldolgoz\u00e1s.",
+        "Gy\u00fcm\u00f6lcslevek exportja.",
+        "Jelent\u0151s munk\u00e1ltat\u00f3.",
+        "Szezon\u00e1lisan akt\u00edv."
+      ],
+      "ro": [
+        "Procesarea citricelor.",
+        "Export de sucuri.",
+        "Angajator mare.",
+        "Activ sezonier."
+      ],
+      "en": [
+        "Citrus processing plant.",
+        "Juice export hub.",
+        "Major regional employer.",
+        "Seasonal activities."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Stann Creek Obst-Verarbeitungsanlage ist das Herzst\u00fcck der belizischen Zitrusindustrie und weltber\u00fchmt f\u00fcr die Herstellung von hochwertigen S\u00e4ften und Konzentraten. Inmitten der fruchtbaren T\u00e4ler des Stann Creek District gelegen, verarbeitet diese Fabrik Orangen und Grapefruits von riesigen Plantagen sowie von zahlreichen Kleinbauern. Die Produkte, die hier unter strengsten Qualit\u00e4tsstandards hergestellt werden, finden ihren Weg in Superm\u00e4rkte in Europa, Nordamerika und der Karibik. Die Anlage ist ein technologischer Vorreiter in der Region und nutzt effiziente Methoden zur Gewinnung von \u00e4therischen \u00d6len und anderen Nebenprodukten. Als einer der gr\u00f6\u00dften Arbeitgeber im S\u00fcden des Landes spielt sie eine entscheidende Rolle f\u00fcr die soziale Stabilit\u00e4t und den wirtschaftlichen Wohlstand. Die Erntesaison bringt Leben in die gesamte Region und unterstreicht die Bedeutung von Stann Creek als Garten Belizes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Hauptstandort f\u00fcr die Produktion von Zitruskonzentraten in Belize.",
+        "Exportiert S\u00e4fte und \u00e4therische \u00d6le in die ganze Welt.",
+        "Zertifiziert nach internationalen Standards f\u00fcr Lebensmittelsicherheit.",
+        "Bietet saisonale und dauerhafte Arbeitspl\u00e4tze f\u00fcr hunderte Menschen.",
+        "Verarbeitet Fr\u00fcchte von \u00fcber 500 lokalen Produzenten.",
+        "Wichtiger Innovationstreiber in der Agrartechnologie Belizes.",
+        "Zentraler Faktor f\u00fcr den wirtschaftlichen Erfolg des Stann Creek District.",
+        "F\u00f6rdert den fairen Handel und nachhaltige Anbaumethoden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-pueblo-viejo-mine-economic-v2",
+    "type": "industry",
+    "parent": "BZ-TOL",
+    "coords": [
+      -89.155,
+      16.205
+    ],
+    "name": {
+      "de": "Pueblo Viejo Steinbruch",
+      "hu": "Pueblo Viejo k\u0151b\u00e1nya",
+      "ro": "Carier\u0103 Pueblo Viejo",
+      "en": "Pueblo Viejo Quarry"
+    },
+    "description": {
+      "de": "Ein Steinbruch zur Gewinnung von Baumaterialien.",
+      "hu": "K\u0151b\u00e1nya \u00e9p\u00edt\u0151anyagok kitermel\u00e9s\u00e9re.",
+      "ro": "O carier\u0103 pentru extrac\u021bia materialelor de construc\u021bie.",
+      "en": "A quarry for the extraction of construction materials."
+    },
+    "facts": {
+      "de": [
+        "Gesteinsabbau.",
+        "Bauindustrie.",
+        "Regionales Material.",
+        "Industrielle Nutzung."
+      ],
+      "hu": [
+        "K\u0151kitermel\u00e9s.",
+        "\u00c9p\u00edt\u0151ipar.",
+        "Region\u00e1lis anyagok.",
+        "Ipari hasznos\u00edt\u00e1s."
+      ],
+      "ro": [
+        "Extrac\u021bia de piatr\u0103.",
+        "Industria construc\u021biilor.",
+        "Materiale regionale.",
+        "Utilizare industrial\u0103."
+      ],
+      "en": [
+        "Rock extraction site.",
+        "Construction materials.",
+        "Regional supplier.",
+        "Industrial utilization."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Steinbruch von Pueblo Viejo im Toledo District ist eine essentielle Quelle f\u00fcr Baumaterialien im S\u00fcden Belizes. Er liefert hochwertiges Gestein, Kalkstein und Kies, die f\u00fcr den Ausbau der nationalen Infrastruktur, insbesondere f\u00fcr den Stra\u00dfen- und Br\u00fcckenbau, unverzichtbar sind. Die Gewinnung erfolgt unter Ber\u00fccksichtigung moderner technischer Standards, um den Bedarf der schnell wachsenden Region zu decken. Durch die lokale Produktion werden Transportkosten gesenkt und die Abh\u00e4ngigkeit von Importen reduziert. Der Steinbruch ist zudem ein wichtiger Arbeitgeber in einer traditionell eher agrarisch gepr\u00e4gten Gegend und bietet Schulungsm\u00f6glichkeiten f\u00fcr technische Berufe. Seine Lage erm\u00f6glicht eine effiziente Belieferung von Projekten in der gesamten s\u00fcdlichen H\u00e4lfte des Landes. Pueblo Viejo tr\u00e4gt somit ma\u00dfgeblich dazu bei, die physische Verbindung zwischen den entlegenen D\u00f6rfern des S\u00fcdens und den st\u00e4dtischen Zentren zu verbessern.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtigster Lieferant f\u00fcr Baumaterialien im Toledo District.",
+        "Produziert hochwertigen Kalkstein und Schotter f\u00fcr den Stra\u00dfenbau.",
+        "Essentiell f\u00fcr die Entwicklung der s\u00fcdlichen Infrastruktur.",
+        "Reduziert regionale Baukosten durch lokale Gewinnung.",
+        "Stellt qualifizierte Arbeitspl\u00e4tze in der Bergbautechnik bereit.",
+        "Unterst\u00fctzt gro\u00dfe staatliche Infrastrukturprojekte.",
+        "Verf\u00fcgt \u00fcber moderne Anlagen zur Gesteinszerkleinerung.",
+        "Wichtiger Partner f\u00fcr lokale Bauunternehmen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-corozal-fishing-economic-v2",
+    "type": "port",
+    "parent": "BZ-CZL",
+    "coords": [
+      -88.395,
+      18.398
+    ],
+    "name": {
+      "de": "Corozal Fischereihafen",
+      "hu": "Corozal hal\u00e1szkik\u00f6t\u0151",
+      "ro": "Portul pesc\u0103resc Corozal",
+      "en": "Corozal Fishing Port"
+    },
+    "description": {
+      "de": "Ein kleiner Hafen f\u00fcr die lokale Fischerei und den Kleinhandel.",
+      "hu": "Kis kik\u00f6t\u0151 a helyi hal\u00e1szat \u00e9s kiskereskedelem sz\u00e1m\u00e1ra.",
+      "ro": "Un port mic pentru pescuitul local \u0219i comer\u021bul mic.",
+      "en": "A small harbor for local fishing and small-scale trade."
+    },
+    "facts": {
+      "de": [
+        "Fischerei.",
+        "Kleiner Handel.",
+        "Regionale Versorgung.",
+        "Traditionelle Anlage."
+      ],
+      "hu": [
+        "Hal\u00e1szat.",
+        "Kiskereskedelem.",
+        "Region\u00e1lis ell\u00e1t\u00e1s.",
+        "Tradicion\u00e1lis l\u00e9tes\u00edtm\u00e9ny."
+      ],
+      "ro": [
+        "Pescuit.",
+        "Comer\u021b mic.",
+        "Aprovizionare regional\u0103.",
+        "Facilitate tradi\u021bional\u0103."
+      ],
+      "en": [
+        "Fishing port.",
+        "Small-scale trade.",
+        "Regional supply.",
+        "Traditional harbor."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Fischereihafen von Corozal ist ein malerisches und zugleich wirtschaftlich bedeutendes Zentrum an der Nordk\u00fcste Belizes. Er dient als Basis f\u00fcr eine engagierte Gemeinschaft von Kleinfischern, die die Region mit frischen Meeresfr\u00fcchten versorgen. Der Hafen spielt eine zentrale Rolle in der lokalen Wirtschaft, indem er nicht nur Lebensmittel liefert, sondern auch den Handel mit dem benachbarten Mexiko unterst\u00fctzt. Die traditionellen Methoden der Fischer sind eng mit dem Schutz der Chetumal-Bucht verbunden, wobei ein Fokus auf Nachhaltigkeit liegt. Neben dem Fischfang ist der Hafen ein wichtiger Anlaufpunkt f\u00fcr kleine Handelsschiffe und Boote, die G\u00fcter zwischen den K\u00fcstengemeinden transportieren. F\u00fcr Besucher bietet der Hafen einen authentischen Einblick in das maritime Leben Belizes und ist ein lebendiger Treffpunkt, an dem die Frische des Meeres direkt auf den lokalen Markt trifft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentrum der handwerklichen Fischerei in Nord-Belize.",
+        "Wichtiger Versorger f\u00fcr regionale M\u00e4rkte und Restaurants.",
+        "St\u00fctzt die grenz\u00fcberschreitende Handelsbeziehung mit Mexiko.",
+        "Basis f\u00fcr zahlreiche Fischerkooperativen.",
+        "Fokus auf nachhaltigen Fischfang in der Chetumal-Bucht.",
+        "Umschlagplatz f\u00fcr lokale G\u00fcter und Frischwaren.",
+        "Beliebter Ort f\u00fcr den maritimen Kleintransport.",
+        "Kulturelles Wahrzeichen der K\u00fcstenstadt Corozal."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-pascua-mill-economic-v2",
+    "type": "industry",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.605,
+      18.102
+    ],
+    "name": {
+      "de": "Pascua M\u00fchle",
+      "hu": "Pascua malom",
+      "ro": "Moara Pascua",
+      "en": "Pascua Mill"
+    },
+    "description": {
+      "de": "Kleine Anlage zur Verarbeitung von landwirtschaftlichen Produkten.",
+      "hu": "Kis \u00fczem mez\u0151gazdas\u00e1gi term\u00e9kek feldolgoz\u00e1s\u00e1ra.",
+      "ro": "Unitate mic\u0103 pentru procesarea produselor agricole.",
+      "en": "Small facility for agricultural product processing."
+    },
+    "facts": {
+      "de": [
+        "Agrarverarbeitung.",
+        "Regionaler Bedarf.",
+        "Kleine Kapazit\u00e4t.",
+        "Lokale Industrie."
+      ],
+      "hu": [
+        "Agr\u00e1rfeldolgoz\u00e1s.",
+        "Region\u00e1lis ig\u00e9nyek.",
+        "Kis kapacit\u00e1s.",
+        "Helyi ipar."
+      ],
+      "ro": [
+        "Procesare agricol\u0103.",
+        "Nevoie regional\u0103.",
+        "Capacitate mic\u0103.",
+        "Industrie local\u0103."
+      ],
+      "en": [
+        "Agriculture processing.",
+        "Regional demand.",
+        "Small capacity.",
+        "Local industry."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Pascua M\u00fchle im Orange Walk District ist eine spezialisierte Anlage zur Verarbeitung von landwirtschaftlichen Erzeugnissen f\u00fcr den regionalen Markt. Sie konzentriert sich auf die Veredelung von Getreide und anderen Feldfr\u00fcchten, die von den umliegenden Farmen produziert werden. Als kleinere, aber hochgradig effiziente M\u00fchle bietet sie den lokalen Landwirten eine wichtige Alternative zu den gro\u00dfen Industriekomplexen und erm\u00f6glicht eine flexiblere Vermarktung ihrer Produkte. Die M\u00fchle ist bekannt f\u00fcr ihre hohe Qualit\u00e4t bei der Herstellung von Futtermitteln und Mehlprodukten, die in der lokalen Tierhaltung und B\u00e4ckereiindustrie sehr gefragt sind. Durch ihre Arbeit st\u00e4rkt die Pascua M\u00fchle die lokale Wertsch\u00f6pfungskette und f\u00f6rdert die landwirtschaftliche Vielfalt im Norden. Sie ist ein Beweis f\u00fcr die Kraft mittelst\u00e4ndischer Unternehmen, die das R\u00fcckgrat der l\u00e4ndlichen \u00d6konomie in Belize bilden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Spezialisierte Verarbeitungsanlage f\u00fcr Getreide und Futtermittel.",
+        "Wichtiger Partner f\u00fcr mittelst\u00e4ndische Landwirte in Orange Walk.",
+        "Produziert hochwertige Basisprodukte f\u00fcr den lokalen Markt.",
+        "F\u00f6rdert die Diversifizierung der landwirtschaftlichen Produktion.",
+        "Bekannt f\u00fcr effiziente und qualit\u00e4tsorientierte Mahlprozesse.",
+        "Unterst\u00fctzt die regionale Lebensmittelversorgungssicherheit.",
+        "Flexibler Dienstleister f\u00fcr kleine Erntemengen.",
+        "Wichtiger Baustein der l\u00e4ndlichen Industrie im Norden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-san-estevan-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.595,
+      18.125
+    ],
+    "name": {
+      "de": "San Estevan Industriepark",
+      "hu": "San Estevan ipari park",
+      "ro": "Parc industrial San Estevan",
+      "en": "San Estevan Industrial Park"
+    },
+    "description": {
+      "de": "Kleiner Industriepark in der N\u00e4he von Orange Walk.",
+      "hu": "Kis ipari park Orange Walk k\u00f6zel\u00e9ben.",
+      "ro": "Un mic parc industrial l\u00e2ng\u0103 Orange Walk.",
+      "en": "A small industrial park near Orange Walk."
+    },
+    "facts": {
+      "de": [
+        "Leichtindustrie.",
+        "Lagerlogistik.",
+        "Gewerbe.",
+        "Lokale Wirtschaft."
+      ],
+      "hu": [
+        "K\u00f6nny\u0171ipar.",
+        "Rakt\u00e1rlogisztika.",
+        "Ipar.",
+        "Helyi gazdas\u00e1g."
+      ],
+      "ro": [
+        "Industrie u\u0219oar\u0103.",
+        "Logistic\u0103 depozitare.",
+        "Comer\u021b.",
+        "Economie local\u0103."
+      ],
+      "en": [
+        "Light industry.",
+        "Warehousing.",
+        "Commercial zone.",
+        "Local economy."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Industriepark von San Estevan ist ein dynamisch wachsender Standort f\u00fcr Gewerbe und Leichtindustrie in unmittelbarer N\u00e4he zu Orange Walk Town. Er bietet eine moderne Plattform f\u00fcr Unternehmen, die sich auf die Lagerlogistik, die Herstellung von Baumaterialien und kleine Manufakturen spezialisiert haben. Die Lage an einer strategisch wichtigen Verbindungsstra\u00dfe macht San Estevan zu einem idealen Verteilzentrum f\u00fcr den Norden Belizes. Der Park zeichnet sich durch seine gute Erreichbarkeit und die Bereitstellung essentieller Versorgungsleitungen aus, was ihn besonders f\u00fcr mittelst\u00e4ndische Betriebe attraktiv macht. Durch die Ansiedlung verschiedener Branchen tr\u00e4gt San Estevan zur wirtschaftlichen Resilienz der Region bei und schafft neue Besch\u00e4ftigungsm\u00f6glichkeiten au\u00dferhalb der traditionellen Landwirtschaft. Es ist ein Ort des Fortschritts, der zeigt, wie l\u00e4ndliche Gemeinden durch gezielte Industrieansiedlung prosperieren k\u00f6nnen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Moderner Gewerbestandort nahe der Stadt Orange Walk.",
+        "Zentrum f\u00fcr Lagerhaltung und regionale Distribution.",
+        "Beherbergt vielf\u00e4ltige Betriebe der Leichtindustrie.",
+        "Strategisch g\u00fcnstig an wichtigen Handelsrouten gelegen.",
+        "F\u00f6rdert die wirtschaftliche Entwicklung im l\u00e4ndlichen Raum.",
+        "Bietet attraktive Fl\u00e4chen f\u00fcr mittelst\u00e4ndische Unternehmen.",
+        "Wichtiger Standort f\u00fcr die Bauzulieferindustrie.",
+        "Tr\u00e4gt zur Schaffung von Arbeitspl\u00e4tzen in der Gemeinde San Estevan bei."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-burrell-boom-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.425,
+      17.585
+    ],
+    "name": {
+      "de": "Burrell Boom Logistik",
+      "hu": "Burrell Boom logisztika",
+      "ro": "Logistic\u0103 Burrell Boom",
+      "en": "Burrell Boom Logistics"
+    },
+    "description": {
+      "de": "Ein Zentrum f\u00fcr Logistik und Transportunternehmen.",
+      "hu": "K\u00f6zpont logisztikai \u00e9s sz\u00e1ll\u00edtm\u00e1nyoz\u00e1si c\u00e9gek sz\u00e1m\u00e1ra.",
+      "ro": "Un centru pentru companii de logistic\u0103 \u0219i transport.",
+      "en": "A hub for logistics and transport businesses."
+    },
+    "facts": {
+      "de": [
+        "Transportlogistik.",
+        "Verteilzentrum.",
+        "Verkehrsg\u00fcnstig.",
+        "Wirtschaftsknoten."
+      ],
+      "hu": [
+        "Sz\u00e1ll\u00edtm\u00e1nyoz\u00e1s.",
+        "Eloszt\u00f3 k\u00f6zpont.",
+        "J\u00f3 k\u00f6zleked\u00e9s.",
+        "Gazdas\u00e1gi csom\u00f3pont."
+      ],
+      "ro": [
+        "Logistic\u0103 transport.",
+        "Centru de distribu\u021bie.",
+        "Accesibil.",
+        "Nod economic."
+      ],
+      "en": [
+        "Logistics.",
+        "Distribution hub.",
+        "Transport hub.",
+        "Economic node."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Burrell Boom Logistik ist ein zentraler Knotenpunkt im Transportnetz von Belize und liegt an der strategisch wichtigen Verbindung zwischen dem George Price Highway und dem Northern Highway. Dieses Gebiet hat sich zu einem bevorzugten Standort f\u00fcr Logistikunternehmen, Speditionen und Schwertransport-Dienstleister entwickelt. Die hervorragende Anbindung an die wichtigsten Wirtschaftsregionen des Landes macht Burrell Boom zum idealen Ort f\u00fcr die Zwischenlagerung und Verteilung von G\u00fctern aller Art. Neben dem Transportsektor haben sich hier auch Unternehmen angesiedelt, die im Bereich der Fahrzeugwartung und industriellen Dienstleistungen t\u00e4tig sind. Die Entwicklung von Burrell Boom zu einem Logistikhub hat das einst ruhige Dorf in ein wichtiges wirtschaftliches Zentrum verwandelt, das den Warenstrom zwischen Belize City, dem Westen und dem Norden effizient koordiniert. Es ist das logistische Gelenk, das die verschiedenen Teile der belizischen Wirtschaft miteinander verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Strategischer Logistikknotenpunkt im Zentrum Belizes.",
+        "Wichtigste Verbindung zwischen den Hauptfernstra\u00dfen des Landes.",
+        "Zentrum f\u00fcr nationale und grenz\u00fcberschreitende Transportdienste.",
+        "Beherbergt gro\u00dfe Lagerhallen und Distributionszentren.",
+        "Spezialisiert auf Schwertransport und Flottenmanagement.",
+        "Idealer Standort f\u00fcr Unternehmen mit landesweitem Lieferradius.",
+        "F\u00f6rdert die Effizienz der belizischen Lieferketten.",
+        "Wachsendes Industrie- und Gewerbegebiet in verkehrsg\u00fcnstiger Lage."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-independence-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.415,
+      16.505
+    ],
+    "name": {
+      "de": "Independence Hafen",
+      "hu": "Independence kik\u00f6t\u0151",
+      "ro": "Portul Independence",
+      "en": "Independence Port"
+    },
+    "description": {
+      "de": "Ein wichtiger Hafen f\u00fcr den Transport im S\u00fcden.",
+      "hu": "Fontos kik\u00f6t\u0151 a sz\u00e1ll\u00edt\u00e1s sz\u00e1m\u00e1ra d\u00e9len.",
+      "ro": "Un port important pentru transportul \u00een sud.",
+      "en": "An important port for transportation in the south."
+    },
+    "facts": {
+      "de": [
+        "Frachtumschlag.",
+        "Regionaler Hafen.",
+        "Verbindung zum S\u00fcden.",
+        "Logistik."
+      ],
+      "hu": [
+        "\u00c1ruforgalom.",
+        "Region\u00e1lis kik\u00f6t\u0151.",
+        "D\u00e9li \u00f6sszek\u00f6ttet\u00e9s.",
+        "Logisztika."
+      ],
+      "ro": [
+        "Manipulare marf\u0103.",
+        "Port regional.",
+        "Conexiune c\u0103tre sud.",
+        "Logistic\u0103."
+      ],
+      "en": [
+        "Cargo handling.",
+        "Regional port.",
+        "Southern connection.",
+        "Logistics."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Independence, oft im Zusammenhang mit dem Big Creek Port genannt, ist ein lebenswichtiger maritimer Au\u00dfenposten im S\u00fcden von Belize. Er fungiert als entscheidender Umschlagplatz f\u00fcr die Region und ist spezialisiert auf den Export von Agrarprodukten und den Empfang von Frachtgut f\u00fcr die s\u00fcdlichen Distrikte. Die Anlage hat in den letzten Jahren eine massive Modernisierung erfahren und ist heute ein Symbol f\u00fcr das wirtschaftliche Erwachen des S\u00fcdens. Neben seiner industriellen Funktion ist der Hafen ein wichtiger Knotenpunkt f\u00fcr den Personentransport nach Placencia und zu den vorgelagerten Inseln. Die wirtschaftliche Aktivit\u00e4t am Hafen treibt die Entwicklung der Zwillingsgemeinden Independence und Mango Creek voran und schafft eine Vielzahl von Dienstleistungsberufen. Der Hafen ist nicht nur ein Ort des Handels, sondern auch ein Motor f\u00fcr die regionale Integration und den sozialen Fortschritt in einer der produktivsten Gegenden Belizes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtiger Seehafen f\u00fcr den wirtschaftlichen Aufschwung im S\u00fcden.",
+        "Spezialisiert auf den effizienten Export von Bananen und \u00d6l.",
+        "Zentraler Anlaufpunkt f\u00fcr die Versorgung des Stann Creek District.",
+        "Knotenpunkt f\u00fcr den regionalen F\u00e4hr- und Bootstransport.",
+        "Massive Investitionen in die Hafensicherheit und -kapazit\u00e4t.",
+        "Unterst\u00fctzt die nationale \u00d6lindustrie als Verladestation.",
+        "Lebenswichtige Infrastruktur f\u00fcr den Agrarsektor im S\u00fcden.",
+        "Gro\u00dfer Einfluss auf die lokale Stadtentwicklung von Independence."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-ladyville-ind-economic-v2",
+    "type": "industry",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.295,
+      17.585
+    ],
+    "name": {
+      "de": "Ladyville Industriezone",
+      "hu": "Ladyville ipari z\u00f3na",
+      "ro": "Zona industrial\u0103 Ladyville",
+      "en": "Ladyville Industrial Zone"
+    },
+    "description": {
+      "de": "Zentrum f\u00fcr Wartung und Luftfahrt-Logistik nahe dem Flughafen.",
+      "hu": "K\u00f6zpont karbantart\u00e1shoz \u00e9s rep\u00fcl\u00e9si logisztik\u00e1hoz a rep\u00fcl\u0151t\u00e9r k\u00f6zel\u00e9ben.",
+      "ro": "Centru pentru \u00eentre\u021binere \u0219i logistic\u0103 aerian\u0103 l\u00e2ng\u0103 aeroport.",
+      "en": "Hub for maintenance and aviation logistics near the airport."
+    },
+    "facts": {
+      "de": [
+        "Aviation Services.",
+        "Logistik.",
+        "Reparaturbetriebe.",
+        "Flughafenn\u00e4he."
+      ],
+      "hu": [
+        "Rep\u00fcl\u00e9si szolg\u00e1ltat\u00e1sok.",
+        "Logisztika.",
+        "Jav\u00edt\u00f3\u00fczemek.",
+        "Rep\u00fcl\u0151t\u00e9r k\u00f6zels\u00e9ge."
+      ],
+      "ro": [
+        "Servicii avia\u021bie.",
+        "Logistic\u0103.",
+        "Unit\u0103\u021bi de repara\u021bii.",
+        "Apropierea de aeroport."
+      ],
+      "en": [
+        "Aviation services.",
+        "Logistics.",
+        "Repair services.",
+        "Near airport."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Industriezone von Ladyville ist ein hochspezialisierter Wirtschaftsbereich in unmittelbarer N\u00e4he zum Philip Goldson International Airport. Sie hat sich als das nationale Zentrum f\u00fcr Luftfahrtlogistik, Flugzeugwartung und Kurierdienstleistungen etabliert. Aufgrund der N\u00e4he zum wichtigsten Flughafen des Landes ist Ladyville der bevorzugte Standort f\u00fcr Unternehmen, die auf schnellen internationalen Warenverkehr angewiesen sind. Die Zone beherbergt zudem Betriebe der Leichtindustrie, Lebensmittelverarbeitung und Pharma-Distribution. Die exzellente Infrastruktur und die Anbindung an den Northern Highway machen Ladyville zu einem strategischen Bindeglied zwischen der Hauptstadt, Belize City und dem Norden. Die kontinuierliche Erweiterung der Industriezone spiegelt das Wachstum des internationalen Handels in Belize wider und bietet hochqualifizierte Arbeitspl\u00e4tze in Technik und Management. Ladyville ist das Tor zur Welt f\u00fcr die belizische Industrie.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentrum f\u00fcr Luftfahrt- und Logistikdienstleistungen in Belize.",
+        "Unmittelbare N\u00e4he zum internationalen Flughafen Philip Goldson.",
+        "Basis f\u00fcr gro\u00dfe Kurierdienste und Luftfrachtspeditionen.",
+        "Standort f\u00fcr spezialisierte Flugzeugwartung und -reparatur.",
+        "Strategisch wichtig f\u00fcr den schnellen Import/Export von G\u00fctern.",
+        "Beherbergt Unternehmen der Pharma- und Lebensmittelindustrie.",
+        "Hervorragende Anbindung an das nationale Fernstra\u00dfennetz.",
+        "Motor f\u00fcr die wirtschaftliche Entwicklung des Belize District."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-dangriga-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.225,
+      16.965
+    ],
+    "name": {
+      "de": "Dangriga Hafen",
+      "hu": "Dangriga kik\u00f6t\u0151",
+      "ro": "Portul Dangriga",
+      "en": "Dangriga Port"
+    },
+    "description": {
+      "de": "Ein lokaler Hafen f\u00fcr Fischerei und Warenverkehr.",
+      "hu": "Helyi kik\u00f6t\u0151 hal\u00e1szat \u00e9s \u00e1ruforgalom sz\u00e1m\u00e1ra.",
+      "ro": "Un port local pentru pescuit \u0219i transport de m\u0103rfuri.",
+      "en": "A local port for fishing and cargo traffic."
+    },
+    "facts": {
+      "de": [
+        "Lokaler Hafen.",
+        "Handel.",
+        "Fischerei.",
+        "Versorgung."
+      ],
+      "hu": [
+        "Helyi kik\u00f6t\u0151.",
+        "Kereskedelem.",
+        "Hal\u00e1szat.",
+        "Ell\u00e1t\u00e1s."
+      ],
+      "ro": [
+        "Port local.",
+        "Comer\u021b.",
+        "Pescuit.",
+        "Aprovizionare."
+      ],
+      "en": [
+        "Local port.",
+        "Trade.",
+        "Fishing.",
+        "Supply."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Dangriga ist das maritime Herz der Garifuna-Kultur und ein wichtiger Umschlagplatz f\u00fcr den Handel an der Zentralk\u00fcste Belizes. W\u00e4hrend er historisch ein bedeutender Exporthafen f\u00fcr Zitrusfr\u00fcchte war, konzentriert er sich heute auf die regionale Versorgung und die Unterst\u00fctzung der florierenden Tourismusindustrie. Der Hafen dient als wichtigster Ausgangspunkt f\u00fcr Boote zu den Cayes des South Water Caye Marine Reserve und ist ein Zentrum f\u00fcr die lokale Fischerei. Die wirtschaftliche Aktivit\u00e4t am Hafen ist eng mit dem t\u00e4glichen Leben in Dangriga verkn\u00fcpft und sichert den Lebensunterhalt vieler Familien durch Handel und Transportdienstleistungen. Als 'Kulturhauptstadt' Belizes kombiniert Dangriga an seinem Hafen wirtschaftliche Notwendigkeit mit traditioneller Handwerkskunst im Bootsbau. Der Hafen bleibt ein unverzichtbarer Teil der Infrastruktur, der die K\u00fcstengemeinden mit den Reicht\u00fcmern des Meeres und den M\u00e4rkten des Binnenlandes verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Historisch bedeutender Hafen an der zentralen K\u00fcste Belizes.",
+        "Wichtiger Knotenpunkt f\u00fcr den Tourismus zu den Barriereriff-Inseln.",
+        "Zentrum der handwerklichen Fischerei und des Bootsbaus.",
+        "Unterst\u00fctzt die regionale Versorgung des Stann Creek District.",
+        "Traditioneller Umschlagplatz f\u00fcr landwirtschaftliche Produkte.",
+        "Basis f\u00fcr K\u00fcstenwache und maritime Sicherheit in der Region.",
+        "Bedeutend f\u00fcr die wirtschaftliche Identit\u00e4t von Dangriga.",
+        "Verbindungspunkt f\u00fcr den Warentransport zwischen den K\u00fcstenorten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-puntos-agri-economic-v2",
+    "type": "industry",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.855,
+      16.155
+    ],
+    "name": {
+      "de": "Puntos Agro-Betrieb",
+      "hu": "Puntos agr\u00e1r\u00fczem",
+      "ro": "Unitate agro Puntos",
+      "en": "Puntos Agro-Operation"
+    },
+    "description": {
+      "de": "Landwirtschaftlicher Betrieb in der Region Toledo.",
+      "hu": "Mez\u0151gazdas\u00e1gi \u00fczem Toledo r\u00e9gi\u00f3ban.",
+      "ro": "Unitate agricol\u0103 \u00een regiunea Toledo.",
+      "en": "Agricultural operation in the Toledo region."
+    },
+    "facts": {
+      "de": [
+        "Landwirtschaft.",
+        "Regional.",
+        "Export.",
+        "Besch\u00e4ftigung."
+      ],
+      "hu": [
+        "Mez\u0151gazdas\u00e1g.",
+        "Region\u00e1lis.",
+        "Export.",
+        "Foglalkoztat\u00e1s."
+      ],
+      "ro": [
+        "Agricultur\u0103.",
+        "Regional.",
+        "Export.",
+        "Ocupare."
+      ],
+      "en": [
+        "Agriculture.",
+        "Regional.",
+        "Export.",
+        "Employment."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Puntos Agro-Betriebe im Toledo District repr\u00e4sentieren die Speerspitze der modernen Landwirtschaft im tiefen S\u00fcden von Belize. In einer Region, die f\u00fcr ihre hohe Feuchtigkeit und fruchtbaren B\u00f6den bekannt ist, haben sich diese Betriebe auf den Anbau von hochwertigem Kakao und exotischen Gew\u00fcrzen spezialisiert. Durch die Kombination von traditionellem Wissen und modernen Anbautechniken leisten sie einen wesentlichen Beitrag zur Diversifizierung der belizischen Exportwirtschaft. Die Betriebe arbeiten eng mit den lokalen indigenen Gemeinschaften zusammen und f\u00f6rdern faire Arbeitsbedingungen sowie umweltschonende Praktiken. Puntos Agro ist nicht nur ein Produktionsstandort, sondern auch ein Zentrum f\u00fcr agrarische Innovation, das zeigt, wie nachhaltiger Anbau und wirtschaftlicher Erfolg im Einklang stehen k\u00f6nnen. Die hier produzierten G\u00fcter genie\u00dfen international einen exzellenten Ruf f\u00fcr ihre Reinheit und ihren einzigartigen Geschmack.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Spezialisiert auf den Anbau von Premium-Kakao und Gew\u00fcrzen.",
+        "Wichtiger Innovationstreiber f\u00fcr die Landwirtschaft im Toledo District.",
+        "F\u00f6rdert die Zusammenarbeit mit lokalen Maya-Gemeinschaften.",
+        "Nutzt nachhaltige und \u00f6kologische Anbaumethoden.",
+        "Zentraler Akteur f\u00fcr den Export von Nischenprodukten.",
+        "Bietet Schulungsprogramme f\u00fcr moderne Agrartechniken an.",
+        "Tr\u00e4gt zur wirtschaftlichen St\u00e4rkung des S\u00fcdens bei.",
+        "Bekannt f\u00fcr hohe Qualit\u00e4tsstandards und R\u00fcckverfolgbarkeit."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-san-antonio-quarry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-TOL",
+    "coords": [
+      -89.055,
+      16.255
+    ],
+    "name": {
+      "de": "San Antonio Gesteinsabbau",
+      "hu": "San Antonio k\u0151b\u00e1nya",
+      "ro": "Extrac\u021bie piatr\u0103 San Antonio",
+      "en": "San Antonio Rock Extraction"
+    },
+    "description": {
+      "de": "Anlage zur Gesteinsgewinnung f\u00fcr den lokalen Bedarf.",
+      "hu": "K\u0151b\u00e1nya helyi ig\u00e9nyekre.",
+      "ro": "Unitate pentru extrac\u021bia pietrei pentru necesit\u0103\u021bi locale.",
+      "en": "Rock extraction facility for local demand."
+    },
+    "facts": {
+      "de": [
+        "Gestein.",
+        "Lokal.",
+        "Bau.",
+        "Infrastruktur."
+      ],
+      "hu": [
+        "K\u0151zet.",
+        "Helyi.",
+        "\u00c9p\u00edt\u00e9s.",
+        "Infrastrukt\u00fara."
+      ],
+      "ro": [
+        "Piatr\u0103.",
+        "Local.",
+        "Construc\u021bii.",
+        "Infrastructur\u0103."
+      ],
+      "en": [
+        "Rock.",
+        "Local.",
+        "Construction.",
+        "Infrastructure."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Kalksteingewinnung von San Antonio ist eine fundamentale Ressource f\u00fcr die Bauindustrie im s\u00fcdlichen Belize. Gelegen in den Ausl\u00e4ufern der Maya Mountains, liefert dieser Steinbruch die notwendigen Rohstoffe f\u00fcr die Befestigung von Wegen, den Bau von Fundamenten und die Herstellung von Baumaterialien f\u00fcr den regionalen Bedarf. Die Anlage ist strategisch wichtig, um die Transportkosten f\u00fcr Infrastrukturprojekte im Toledo District gering zu halten. San Antonio zeichnet sich durch eine effiziente Gesteinsaufbereitung aus, die verschiedene K\u00f6rnungen f\u00fcr unterschiedliche bauliche Anforderungen liefert. Der Steinbruch ist ein verl\u00e4sslicher Partner f\u00fcr die lokale Verwaltung und private Bauunternehmer gleicherma\u00dfen. Durch die kontinuierliche Bereitstellung von Material unterst\u00fctzt San Antonio das Wachstum der Gemeinden und die Verbesserung der Lebensqualit\u00e4t in einer der entlegeneren Regionen des Landes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Prim\u00e4re Quelle f\u00fcr hochwertigen Kalkstein im s\u00fcdlichen Belize.",
+        "Versorgt regionale Infrastrukturprojekte mit Baumaterial.",
+        "Wichtiger Standort f\u00fcr die Gesteinszerkleinerung und -sortierung.",
+        "Reduziert die Abh\u00e4ngigkeit von Materialimporten aus dem Norden.",
+        "Bietet essentielle Ressourcen f\u00fcr den l\u00e4ndlichen Wegebau.",
+        "Sichert Arbeitspl\u00e4tze im technischen Bereich im Toledo District.",
+        "Arbeitet nach nationalen Umwelt- und Sicherheitsstandards.",
+        "Zentral gelegen f\u00fcr die Belieferung der umliegenden Maya-D\u00f6rfer."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-mango-creek-log-economic-v2",
+    "type": "industry",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.425,
+      16.515
+    ],
+    "name": {
+      "de": "Mango Creek Logistik",
+      "hu": "Mango Creek logisztika",
+      "ro": "Logistic\u0103 Mango Creek",
+      "en": "Mango Creek Logistics"
+    },
+    "description": {
+      "de": "Zentrum f\u00fcr Logistik und Transport im S\u00fcden.",
+      "hu": "Logisztikai \u00e9s k\u00f6zleked\u00e9si k\u00f6zpont d\u00e9len.",
+      "ro": "Centru de logistic\u0103 \u0219i transport \u00een sud.",
+      "en": "Logistics and transport center in the south."
+    },
+    "facts": {
+      "de": [
+        "Transport.",
+        "Logistik.",
+        "Verteiler.",
+        "S\u00fcd-Hub."
+      ],
+      "hu": [
+        "Sz\u00e1ll\u00edt\u00e1s.",
+        "Logisztika.",
+        "Eloszt\u00f3.",
+        "D\u00e9li csom\u00f3pont."
+      ],
+      "ro": [
+        "Transport.",
+        "Logistic\u0103.",
+        "Distribuitor.",
+        "Hub sud."
+      ],
+      "en": [
+        "Transport.",
+        "Logistics.",
+        "Distribution.",
+        "Southern hub."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Mango Creek Logistik ist das pulsierende Nervenzentrum des G\u00fcterverkehrs im S\u00fcden Belizes. Durch seine unmittelbare N\u00e4he zum Big Creek Port fungiert es als strategische Br\u00fccke zwischen dem Seehandel und der landgebundenen Distribution. Das Logistikzentrum koordiniert den Abtransport von Exportg\u00fctern wie Bananen und Zitrusfr\u00fcchten sowie die Verteilung von importierten Waren in die s\u00fcdlichen Distrikte. Mit modernsten Fuhrparks und effizienten Lagersystemen stellt Mango Creek sicher, dass die Lieferketten des Landes auch unter schwierigen Bedingungen reibungslos funktionieren. Die Logistikexperten vor Ort bieten ma\u00dfgeschneiderte L\u00f6sungen f\u00fcr den Schwertransport und die Terminfracht an. Mango Creek hat sich somit zu einem unverzichtbaren Partner f\u00fcr die belizische Wirtschaft entwickelt, der die Distanzen verk\u00fcrzt und die Effizienz des nationalen Handels ma\u00dfgeblich steigert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentrales Logistik-Hub in unmittelbarer N\u00e4he zum Tiefseehafen.",
+        "Spezialisiert auf die Distribution von Agrar- und Industrieg\u00fctern.",
+        "Wichtigster Dienstleister f\u00fcr den G\u00fcterfernverkehr im S\u00fcden.",
+        "Bietet umfangreiche Kapazit\u00e4ten f\u00fcr die Lagerung von Fracht.",
+        "Zentrum f\u00fcr Flottenmanagement und Fahrzeuglogistik.",
+        "Strategisches Bindeglied f\u00fcr den Handel mit Zentralamerika.",
+        "Essentiell f\u00fcr die termingerechte Abwicklung von Exportgesch\u00e4ften.",
+        "Gro\u00dfer Arbeitgeber im Bereich Transport und Logistikdienstleistungen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-benque-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CYO",
+    "coords": [
+      -89.145,
+      17.075
+    ],
+    "name": {
+      "de": "Benque Vieijo Industrie",
+      "hu": "Benque Viejo ipar",
+      "ro": "Industrie Benque Viejo",
+      "en": "Benque Viejo Industry"
+    },
+    "description": {
+      "de": "Kleiner Betrieb f\u00fcr lokale Fertigung in Benque.",
+      "hu": "Kis \u00fczem helyi gy\u00e1rt\u00e1sra Benque-ben.",
+      "ro": "Unitate mic\u0103 pentru produc\u021bie local\u0103 \u00een Benque.",
+      "en": "Small facility for local manufacturing in Benque."
+    },
+    "facts": {
+      "de": [
+        "Fertigung.",
+        "Lokal.",
+        "Besch\u00e4ftigung.",
+        "Regional."
+      ],
+      "hu": [
+        "Gy\u00e1rt\u00e1s.",
+        "Helyi.",
+        "Foglalkoztat\u00e1s.",
+        "Region\u00e1lis."
+      ],
+      "ro": [
+        "Produc\u021bie.",
+        "Local.",
+        "Ocupare.",
+        "Regional."
+      ],
+      "en": [
+        "Manufacturing.",
+        "Local.",
+        "Employment.",
+        "Regional."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Industrie von Benque Viejo del Carmen ist ein bedeutender Wirtschaftsfaktor an der westlichen Grenze Belizes zu Guatemala. Aufgrund ihrer strategischen Lage hat sich die Stadt zu einem Zentrum f\u00fcr die Herstellung von Konsumg\u00fctern, Baumaterialien und landwirtschaftlichen Bedarfsg\u00fctern entwickelt, die sowohl lokal genutzt als auch exportiert werden. Die Betriebe in Benque profitieren von der langen Tradition des Handels in der Region und bieten eine Plattform f\u00fcr grenz\u00fcberschreitende Gesch\u00e4ftskooperationen. Neben der Fertigung ist der Standort f\u00fcr seine holzverarbeitenden Betriebe bekannt, die hochwertige M\u00f6bel und Baumaterialien aus lokalem Mahagoni herstellen. Benque Viejo Industry ist ein Motor f\u00fcr die Diversifizierung der westlichen Wirtschaft und bietet der lokalen Bev\u00f6lkerung vielf\u00e4ltige Karrierem\u00f6glichkeiten in Produktion und Handwerk. Die Industriezone ist ein lebendiges Beispiel f\u00fcr die wirtschaftliche Dynamik im Cayo District.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtigster Industriestandort an der Westgrenze Belizes.",
+        "Zentrum f\u00fcr die Holzverarbeitung und M\u00f6belherstellung.",
+        "Produziert Konsumg\u00fcter f\u00fcr den nationalen und regionalen Markt.",
+        "Strategisches Drehkreuz f\u00fcr den Handel mit Guatemala.",
+        "Basis f\u00fcr zahlreiche mittelst\u00e4ndische Handwerksbetriebe.",
+        "F\u00f6rdert die berufliche Ausbildung in technischen Berufen.",
+        "Wichtiger Standort f\u00fcr die Weiterverarbeitung von Agrarprodukten.",
+        "Tr\u00e4gt ma\u00dfgeblich zur wirtschaftlichen Stabilit\u00e4t des Westens bei."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-punta-gorda-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.805,
+      16.105
+    ],
+    "name": {
+      "de": "Punta Gorda Hafen",
+      "hu": "Punta Gorda kik\u00f6t\u0151",
+      "ro": "Portul Punta Gorda",
+      "en": "Punta Gorda Port"
+    },
+    "description": {
+      "de": "Ein kleiner Hafen f\u00fcr den regionalen Handel im S\u00fcden.",
+      "hu": "Kis kik\u00f6t\u0151 region\u00e1lis kereskedelemhez d\u00e9len.",
+      "ro": "Un port mic pentru comer\u021bul regional \u00een sud.",
+      "en": "Small port for regional trade in the south."
+    },
+    "facts": {
+      "de": [
+        "Hafen.",
+        "Handel.",
+        "Fischerei.",
+        "S\u00fcd-Verkehr."
+      ],
+      "hu": [
+        "Kik\u00f6t\u0151.",
+        "Kereskedelem.",
+        "Hal\u00e1szat.",
+        "D\u00e9li forgalom."
+      ],
+      "ro": [
+        "Port.",
+        "Comer\u021b.",
+        "Pescuit.",
+        "Trafic sud."
+      ],
+      "en": [
+        "Port.",
+        "Trade.",
+        "Fishing.",
+        "Southern traffic."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Punta Gorda ist das maritime Tor zum tiefen S\u00fcden von Belize und ein zentraler Punkt f\u00fcr den kulturellen und wirtschaftlichen Austausch mit den Nachbarl\u00e4ndern Guatemala und Honduras. Als offizieller Einreisehafen spielt er eine entscheidende Rolle f\u00fcr den grenz\u00fcberschreitenden Personen- und Warenverkehr. Hier landen t\u00e4glich Boote mit frischen Erzeugnissen, Fisch und Handelswaren aus der gesamten Amatique-Bucht. Der Hafen ist zudem der wichtigste Ausgangspunkt f\u00fcr \u00d6kotouristen, die die unber\u00fchrten Riffe und Fl\u00fcsse des Toledo District erkunden m\u00f6chten. Mit seinem gesch\u00e4ftigen Marktplatz direkt am Wasser ist der Hafen von Punta Gorda ein lebendiger Treffpunkt, an dem die Vielfalt Belizes \u2013 von den Maya bis zu den Garifuna \u2013 sichtbar wird. Er ist das wirtschaftliche Lebenselixier der Stadt und sichert die Versorgung der entlegenen K\u00fcstengemeinden im S\u00fcden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Offizieller Grenz\u00fcbergang und Einreisehafen im S\u00fcden Belizes.",
+        "Wichtigster Knotenpunkt f\u00fcr den Handel in der Amatique-Bucht.",
+        "Zentrum f\u00fcr den regionalen F\u00e4hrverkehr nach Guatemala.",
+        "Basis f\u00fcr die lokale K\u00fcstenfischerei und Meeresfr\u00fcchtehandel.",
+        "Strategischer Ausgangspunkt f\u00fcr den \u00d6kotourismus im S\u00fcden.",
+        "Lebendiger Marktplatz f\u00fcr lokale landwirtschaftliche Erzeugnisse.",
+        "Wichtiger Standort f\u00fcr die nationale Zoll- und Einreisebeh\u00f6rde.",
+        "Sichert die maritime Anbindung der s\u00fcdlichen K\u00fcstend\u00f6rfer."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-santa-elena-industry-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CYO",
+    "coords": [
+      -89.075,
+      17.155
+    ],
+    "name": {
+      "de": "Santa Elena Gewerbe",
+      "hu": "Santa Elena ipar",
+      "ro": "Comer\u021b Santa Elena",
+      "en": "Santa Elena Industry"
+    },
+    "description": {
+      "de": "Zentrum f\u00fcr lokales Gewerbe in Santa Elena.",
+      "hu": "K\u00f6zpont a helyi ipar sz\u00e1m\u00e1ra Santa Elen\u00e1ban.",
+      "ro": "Centru pentru industria local\u0103 \u00een Santa Elena.",
+      "en": "Hub for local industry in Santa Elena."
+    },
+    "facts": {
+      "de": [
+        "Gewerbe.",
+        "Dienstleistung.",
+        "Handel.",
+        "Regional."
+      ],
+      "hu": [
+        "Ipar.",
+        "Szolg\u00e1ltat\u00e1s.",
+        "Kereskedelem.",
+        "Region\u00e1lis."
+      ],
+      "ro": [
+        "Comer\u021b.",
+        "Servicii.",
+        "Schimb.",
+        "Regional."
+      ],
+      "en": [
+        "Commercial.",
+        "Service.",
+        "Trade.",
+        "Regional."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Gewerbe- und Industriezone von Santa Elena bildet zusammen mit San Ignacio das wirtschaftliche Zentrum des Cayo District. Santa Elena hat sich auf Dienstleistungen, Bauwesen und die Verarbeitung von regionalen Rohstoffen spezialisiert. Hier finden sich zahlreiche Betriebe, die hochwertige Baumaterialien herstellen, sowie Werkst\u00e4tten f\u00fcr die Instandhaltung von landwirtschaftlichen Maschinen. Die Zone profitiert von ihrer Lage am George Price Highway, der wichtigsten Verkehrsader zwischen der Hauptstadt und der Grenze zu Guatemala. Santa Elena ist ein Hotspot f\u00fcr Unternehmer und Handwerker, die die wachsende Bev\u00f6lkerung im Westen Belizes versorgen. Durch die kontinuierliche Ansiedlung neuer Betriebe wird das Gebiet zu einem immer wichtigeren Motor f\u00fcr die Schaffung von Arbeitspl\u00e4tzen und die F\u00f6rderung lokaler Innovationen in der Agrar- und Bautechnik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wirtschaftlicher Motor des Cayo District im Westen Belizes.",
+        "Schwerpunkt auf Bauindustrie und landwirtschaftliche Dienstleistungen.",
+        "Strategische Lage am George Price Highway f\u00fcr optimale Logistik.",
+        "Zentrum f\u00fcr Metallverarbeitung und mechanische Werkst\u00e4tten.",
+        "Unterst\u00fctzt die wachsende Infrastruktur in West-Belize.",
+        "Heimat zahlreicher erfolgreicher mittelst\u00e4ndischer Betriebe.",
+        "Wichtiger Standort f\u00fcr den Handel mit Baustoffen und Hardware.",
+        "F\u00f6rdert die wirtschaftliche Integration der Zwillingsst\u00e4dte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-medina-bank-agri-economic-v2",
+    "type": "industry",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.955,
+      16.355
+    ],
+    "name": {
+      "de": "Medina Bank Farmbetrieb",
+      "hu": "Medina Bank mez\u0151gazdas\u00e1gi \u00fczem",
+      "ro": "Ferm\u0103 Medina Bank",
+      "en": "Medina Bank Farm"
+    },
+    "description": {
+      "de": "Gro\u00dfer landwirtschaftlicher Betrieb im S\u00fcden.",
+      "hu": "Nagy mez\u0151gazdas\u00e1gi \u00fczem d\u00e9len.",
+      "ro": "Ferm\u0103 agricol\u0103 mare \u00een sud.",
+      "en": "Large agricultural farm in the south."
+    },
+    "facts": {
+      "de": [
+        "Landwirtschaft.",
+        "Gro\u00dfbetrieb.",
+        "Export.",
+        "Produktion."
+      ],
+      "hu": [
+        "Mez\u0151gazdas\u00e1g.",
+        "Nagy\u00fczem.",
+        "Export.",
+        "Termel\u00e9s."
+      ],
+      "ro": [
+        "Agricultur\u0103.",
+        "Ferm\u0103 mare.",
+        "Export.",
+        "Produc\u021bie."
+      ],
+      "en": [
+        "Agriculture.",
+        "Large-scale.",
+        "Export.",
+        "Production."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Farmbetrieb in Medina Bank ist ein herausragendes Beispiel f\u00fcr die erfolgreiche Integration von moderner Agrarwirtschaft und nachhaltigem Ressourcenmanagement im Toledo District. Inmitten einer Region, die reich an Biodiversit\u00e4t ist, hat sich dieser Betrieb auf die gro\u00dffl\u00e4chige Produktion von Grundnahrungsmitteln wie Mais und Bohnen sowie auf den Anbau von Exportfr\u00fcchten spezialisiert. Medina Bank nutzt fortschrittliche Bew\u00e4sserungstechniken und bodenschonende Anbaumethoden, um die Produktivit\u00e4t zu steigern, ohne die Umwelt zu belasten. Die Farm bietet nicht nur Arbeitspl\u00e4tze f\u00fcr die lokale Q'eqchi'-Maya-Bev\u00f6lkerung, sondern fungiert auch als Modell f\u00fcr andere Gemeinden in Belize. Durch die Partnerschaft mit nationalen Agrarorganisationen tr\u00e4gt Medina Bank wesentlich zur Ern\u00e4hrungssicherheit des Landes und zur St\u00e4rkung der l\u00e4ndlichen Wirtschaft im S\u00fcden bei. Es ist ein Ort, an dem Tradition und Fortschritt auf den Feldern zusammenkommen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "F\u00fchrender Agrarbetrieb f\u00fcr Grundnahrungsmittel im S\u00fcden Belizes.",
+        "Modell f\u00fcr nachhaltige Landwirtschaft und moderne Technik.",
+        "Wichtiger Arbeitgeber f\u00fcr die lokale Maya-Bev\u00f6lkerung.",
+        "Spezialisiert auf den gro\u00dffl\u00e4chigen Anbau von Mais und Bohnen.",
+        "Nutzt innovative Methoden zur Steigerung der Bodenfruchtbarkeit.",
+        "Zentraler Akteur f\u00fcr die regionale Lebensmittelversorgung.",
+        "Eng verbunden mit gemeinschaftsbasierten Entwicklungsprojekten.",
+        "F\u00f6rdert den Wissenstransfer in der modernen Agrartechnik."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-independence-logistics-economic-v2",
+    "type": "industry",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.425,
+      16.505
+    ],
+    "name": {
+      "de": "Independence Logistik-Center",
+      "hu": "Independence logisztikai k\u00f6zpont",
+      "ro": "Centru logistic Independence",
+      "en": "Independence Logistics Center"
+    },
+    "description": {
+      "de": "Wichtiger Knotenpunkt f\u00fcr Logistik im S\u00fcden.",
+      "hu": "Fontos csom\u00f3pont a logisztika sz\u00e1m\u00e1ra d\u00e9len.",
+      "ro": "Nod important pentru logistic\u0103 \u00een sud.",
+      "en": "Important node for logistics in the south."
+    },
+    "facts": {
+      "de": [
+        "Logistik.",
+        "Verteiler.",
+        "Transport.",
+        "Hub."
+      ],
+      "hu": [
+        "Logisztika.",
+        "Eloszt\u00f3.",
+        "Sz\u00e1ll\u00edt\u00e1s.",
+        "Csom\u00f3pont."
+      ],
+      "ro": [
+        "Logistic\u0103.",
+        "Distribuitor.",
+        "Transport.",
+        "Hub."
+      ],
+      "en": [
+        "Logistics.",
+        "Distribution.",
+        "Transport.",
+        "Hub."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Independence Logistik-Center ist das administrative und operative R\u00fcckgrat der Warenstr\u00f6me im s\u00fcdlichen Belize. Gelegen am strategischen Schnittpunkt zwischen dem Southern Highway und dem Big Creek Port, koordiniert dieses Zentrum den komplexen Austausch von Export- und Importg\u00fctern. Es bietet umfassende Dienstleistungen in den Bereichen Zollabwicklung, Frachtkonsolidierung und Langzeitlagerung an. Das Center ist mit modernster IT-Infrastruktur ausgestattet, um die Bewegungen von Containern und Sch\u00fcttgut in Echtzeit zu \u00fcberwachen. Als zentraler Knotenpunkt f\u00fcr die Agrarindustrie sorgt es daf\u00fcr, dass Bananen und Zitrusfr\u00fcchte effizient zu den Schiffen gelangen, w\u00e4hrend lebensnotwendige Importg\u00fcter schnell die l\u00e4ndlichen Gebiete erreichen. Das Independence Logistik-Center ist somit ein unverzichtbarer Baustein f\u00fcr die Wettbewerbsf\u00e4higkeit Belizes auf dem Weltmarkt und ein Garant f\u00fcr funktionierende Lieferketten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Modernstes Logistikzentrum im S\u00fcden Belizes.",
+        "Strategisches Bindeglied zwischen Fernverkehr und Seehafen.",
+        "Experte f\u00fcr Zollabwicklungen und internationale Frachtregeln.",
+        "Bietet spezialisierte K\u00fchllagerung f\u00fcr verderbliche Agrarg\u00fcter.",
+        "Zentrum f\u00fcr die Koordination des nationalen Bananenexports.",
+        "Wichtiger Standort f\u00fcr Transportunternehmen und Speditionen.",
+        "Nutzt fortschrittliche Managementsysteme f\u00fcr effiziente Abl\u00e4ufe.",
+        "Sichert die Versorgungskette f\u00fcr den gesamten S\u00fcden des Landes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-belize-free-zone-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CZL",
+    "coords": [
+      -88.455,
+      18.455
+    ],
+    "name": {
+      "de": "Belize Freihandelszone",
+      "hu": "Belize Szabadkereskedelmi Z\u00f3na",
+      "ro": "Zona Liber\u0103 Belize",
+      "en": "Belize Free Trade Zone"
+    },
+    "description": {
+      "de": "Eine spezielle Handelszone an der Grenze zu Mexiko.",
+      "hu": "Speci\u00e1lis kereskedelmi \u00f6vezet a mexik\u00f3i hat\u00e1ron.",
+      "ro": "O zon\u0103 comercial\u0103 special\u0103 la grani\u021ba cu Mexicul.",
+      "en": "A special trade zone located at the border with Mexico."
+    },
+    "facts": {
+      "de": [
+        "Handel.",
+        "Import/Export.",
+        "Zollfrei.",
+        "Wirtschaftszone."
+      ],
+      "hu": [
+        "Kereskedelem.",
+        "Import/Export.",
+        "V\u00e1mmentes.",
+        "Gazdas\u00e1gi \u00f6vezet."
+      ],
+      "ro": [
+        "Comer\u021b.",
+        "Import/Export.",
+        "Scutit de taxe.",
+        "Zon\u0103 economic\u0103."
+      ],
+      "en": [
+        "Trade.",
+        "Import/Export.",
+        "Duty-free.",
+        "Economic zone."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Corozal Free Zone (Belize Free Trade Zone) an der Grenze zu Mexiko ist ein pulsierendes Handelszentrum und einer der wichtigsten Wirtschaftsmotoren Nord-Belizes. Als steuerbeg\u00fcnstigte Zone konzipiert, zieht sie j\u00e4hrlich zehntausende Besucher an, die von den zollfreien Einkaufsm\u00f6glichkeiten profitieren. Die Zone beherbergt hunderte von Unternehmen, die in den Bereichen Einzelhandel, Gro\u00dfhandel und Re-Export t\u00e4tig sind. Sie dient als wichtiges Tor f\u00fcr Waren aus Asien und Nordamerika, die \u00fcber Belize in den mexikanischen und zentralamerikanischen Markt gelangen. Neben dem Handel bietet die Freizone zahlreiche Dienstleistungen im Bereich Hotelgewerbe und Gastronomie an. F\u00fcr die Bewohner des Corozal District ist sie der bedeutendste Arbeitgeber und ein Symbol f\u00fcr die erfolgreiche Nutzung der geografischen Lage Belizes als Br\u00fccke zwischen den Wirtschaftsbl\u00f6cken. Die Zone ist ein lebendiger Ort des internationalen Business direkt an der Grenze.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gr\u00f6\u00dfte Freihandelszone in Belize an der Grenze zu Mexiko.",
+        "Zentrum f\u00fcr zollfreies Einkaufen und internationalen Gro\u00dfhandel.",
+        "Beherbergt \u00fcber 300 Unternehmen aus verschiedenen Branchen.",
+        "Wichtigster Arbeitgeber im Corozal District mit tausenden Stellen.",
+        "Zentrales Drehkreuz f\u00fcr den Re-Export in den mexikanischen Markt.",
+        "Umfangreiches Angebot an Hotels, Casinos und Dienstleistungen.",
+        "Tr\u00e4gt erheblich zu den Deviseneinnahmen des Landes bei.",
+        "Strategisch gelegen am meistfrequentierten Grenz\u00fcbergang Belizes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-orange-walk-logistics-economic-v2",
+    "type": "industry",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.585,
+      18.095
+    ],
+    "name": {
+      "de": "Orange Walk Transport Hub",
+      "hu": "Orange Walk sz\u00e1ll\u00edtm\u00e1nyoz\u00e1si csom\u00f3pont",
+      "ro": "Nod de transport Orange Walk",
+      "en": "Orange Walk Transport Hub"
+    },
+    "description": {
+      "de": "Ein Logistikzentrum f\u00fcr die n\u00f6rdliche Region.",
+      "hu": "Logisztikai k\u00f6zpont az \u00e9szaki r\u00e9gi\u00f3 sz\u00e1m\u00e1ra.",
+      "ro": "Un centru logistic pentru regiunea de nord.",
+      "en": "A logistics hub for the northern region."
+    },
+    "facts": {
+      "de": [
+        "Transport.",
+        "Verteiler.",
+        "Logistik.",
+        "Regional."
+      ],
+      "hu": [
+        "Sz\u00e1ll\u00edt\u00e1s.",
+        "Eloszt\u00f3.",
+        "Logisztika.",
+        "Region\u00e1lis."
+      ],
+      "ro": [
+        "Transport.",
+        "Distribuitor.",
+        "Logistic\u0103.",
+        "Regional."
+      ],
+      "en": [
+        "Transport.",
+        "Distribution.",
+        "Logistics.",
+        "Regional."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Orange Walk Transport Hub ist der zentrale logistische Knotenpunkt f\u00fcr den Norden Belizes und koordiniert den Warenfluss in einer der produktivsten Agrarregionen des Landes. Gelegen an der Hauptverkehrsader zwischen Belize City und der mexikanischen Grenze, bietet dieser Hub essentielle Dienstleistungen f\u00fcr die Zucker- und Zitrusindustrie. Hier werden die Transporte von den Feldern zu den Verarbeitungsanlagen und weiter zu den H\u00e4fen organisiert. Das Zentrum beherbergt moderne Werkst\u00e4tten f\u00fcr die Instandhaltung von Lastkraftwagen und landwirtschaftlichen Maschinen sowie umfangreiche Lagerkapazit\u00e4ten. Der Hub spielt eine entscheidende Rolle bei der Optimierung der Transportkosten f\u00fcr lokale Farmer und sorgt durch eine effiziente Logistik f\u00fcr die Wettbewerbsf\u00e4higkeit belizischer Produkte. Durch die B\u00fcndelung von Transportkapazit\u00e4ten wird der Orange Walk Transport Hub zu einem unverzichtbaren Partner f\u00fcr die nationale Wirtschaft und die regionale Entwicklung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Logistisches Zentrum f\u00fcr die Agrarindustrie in Nord-Belize.",
+        "Hauptknotenpunkt f\u00fcr den Transport von Zuckerrohr und Getreide.",
+        "Strategische Lage am Northern Highway f\u00fcr schnellen Warenfluss.",
+        "Bietet Wartungsdienste f\u00fcr gro\u00dfe Transportflotten an.",
+        "Zentrum f\u00fcr die Koordination der Erntelogistik im Distrikt.",
+        "Wichtiger Standort f\u00fcr regionale Speditionen.",
+        "Sichert die Verbindung zwischen Agrarproduktion und Hafenlogistik.",
+        "F\u00f6rdert die Effizienz im grenz\u00fcberschreitenden G\u00fcterverkehr."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-hannah-mine-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CYO",
+    "coords": [
+      -88.885,
+      17.185
+    ],
+    "name": {
+      "de": "Hannah Kalksteinbruch",
+      "hu": "Hannah k\u0151b\u00e1nya",
+      "ro": "Carier\u0103 Hannah",
+      "en": "Hannah Limestone Quarry"
+    },
+    "description": {
+      "de": "Anlage zur Gewinnung von Kalkstein f\u00fcr Bauzwecke.",
+      "hu": "\u00dczem m\u00e9szk\u0151 kitermel\u00e9s\u00e9re \u00e9p\u00edtkez\u00e9si c\u00e9lokb\u00f3l.",
+      "ro": "Unitate pentru extrac\u021bia calcarului pentru construc\u021bii.",
+      "en": "Facility for limestone extraction for construction."
+    },
+    "facts": {
+      "de": [
+        "Kalkstein.",
+        "Bau.",
+        "Lokal.",
+        "Material."
+      ],
+      "hu": [
+        "M\u00e9szk\u0151.",
+        "\u00c9p\u00edt\u00e9s.",
+        "Helyi.",
+        "Anyag."
+      ],
+      "ro": [
+        "Calcar.",
+        "Construc\u021bii.",
+        "Local.",
+        "Material."
+      ],
+      "en": [
+        "Limestone.",
+        "Construction.",
+        "Local.",
+        "Material."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hannah Kalksteinbruch im Cayo District ist eine der bedeutendsten Anlagen zur Gewinnung von mineralischen Rohstoffen im Westen Belizes. Er liefert hochwertigen Kalkstein, der in verschiedenen Industriezweigen Anwendung findet \u2013 von der Bauwirtschaft bis hin zur Landwirtschaft, wo er zur Bodenverbesserung eingesetzt wird. Der Steinbruch nutzt moderne Abbautechniken, um eine konstante Qualit\u00e4t und Versorgungssicherheit zu gew\u00e4hrleisten. Durch die lokale Produktion in Cayo werden Bauprojekte im Landesinneren und in der Hauptstadt Belmopan kosteneffizient mit notwendigen Materialien versorgt. Hannah Mine ist zudem ein wichtiger Arbeitgeber in der Region und setzt Standards in Bezug auf Arbeitssicherheit und Umweltschutz im Bergbausektor. Die Verf\u00fcgbarkeit dieser Ressourcen vor Ort ist ein entscheidender Faktor f\u00fcr die kontinuierliche Entwicklung der Infrastruktur und des privaten Sektors im zentralen und westlichen Belize.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "F\u00fchrender Lieferant f\u00fcr Kalksteinprodukte im Westen Belizes.",
+        "Wichtige Ressource f\u00fcr die Bauindustrie in Cayo und Belmopan.",
+        "Produziert Agrarkalk zur Verbesserung der Bodenqualit\u00e4t.",
+        "Moderner Steinbruch mit effizienten Aufbereitungsanlagen.",
+        "Sichert die lokale Versorgung mit mineralischen Baustoffen.",
+        "Wichtiger Arbeitgeber f\u00fcr technische Fachkr\u00e4fte in der Region.",
+        "Unterst\u00fctzt die Instandhaltung des nationalen Stra\u00dfennetzes.",
+        "Tr\u00e4gt zur Senkung der Baukosten im Landesinneren bei."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-san-pedro-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-BZ",
+    "coords": [
+      -87.965,
+      17.925
+    ],
+    "name": {
+      "de": "San Pedro Hafen",
+      "hu": "San Pedro kik\u00f6t\u0151",
+      "ro": "Portul San Pedro",
+      "en": "San Pedro Port"
+    },
+    "description": {
+      "de": "Ein wichtiger Hafen f\u00fcr Tourismus und G\u00fcter auf Ambergris Caye.",
+      "hu": "Fontos kik\u00f6t\u0151 turizmus \u00e9s \u00e1ruk sz\u00e1m\u00e1ra Ambergris Caye-en.",
+      "ro": "Un port important pentru turism \u0219i m\u0103rfuri pe Ambergris Caye.",
+      "en": "An important port for tourism and goods on Ambergris Caye."
+    },
+    "facts": {
+      "de": [
+        "Tourismus.",
+        "G\u00fcter.",
+        "Versorgung.",
+        "Insel-Hub."
+      ],
+      "hu": [
+        "Turizmus.",
+        "\u00c1ruk.",
+        "Ell\u00e1t\u00e1s.",
+        "Szigeti csom\u00f3pont."
+      ],
+      "ro": [
+        "Turism.",
+        "M\u0103rfuri.",
+        "Aprovizionare.",
+        "Hub insular."
+      ],
+      "en": [
+        "Tourism.",
+        "Goods.",
+        "Supply.",
+        "Island hub."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen von San Pedro auf Ambergris Caye ist der gesch\u00e4ftigste Inselhafen Belizes und das logistische Lebenselixier des f\u00fchrenden Tourismusziels des Landes. Er dient als prim\u00e4rer Ankunftspunkt f\u00fcr tausende Besucher t\u00e4glich, die mit Wassertaxis vom Festland anreisen, und koordiniert gleichzeitig die Versorgung der Insel mit lebensnotwendigen G\u00fctern. Der Hafen ist ein Meisterwerk der Logistik auf engem Raum, wo Passagierstr\u00f6me und Frachtumschlag effizient nebeneinander ablaufen. Hier landen Baumaterialien, Lebensmittel und Treibstoffe, die f\u00fcr den Betrieb der zahlreichen Resorts und die wachsende lokale Bev\u00f6lkerung unverzichtbar sind. Dar\u00fcber hinaus ist der Hafen von San Pedro ein Zentrum f\u00fcr maritime Ausfl\u00fcge zum Barriereriff. Die wirtschaftliche Bedeutung dieses Hafens kann nicht hoch genug eingesch\u00e4tzt werden, da er das R\u00fcckgrat der gesamten Tourismus\u00f6konomie auf Ambergris Caye bildet und die Insel mit dem Rest der Welt verbindet.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtigster Passagier- und Frachthafen auf Ambergris Caye.",
+        "Zentrales Drehkreuz f\u00fcr Warentransporte vom Festland zur Insel.",
+        "Ankunftsort f\u00fcr internationale und nationale Wassertaxi-Linien.",
+        "Logistisches Zentrum f\u00fcr die Versorgung der Tourismusindustrie.",
+        "Ausgangspunkt f\u00fcr zahlreiche Tauch- und Schnorchelexpeditionen.",
+        "Bedeutendster Wirtschaftsfaktor der Stadt San Pedro.",
+        "Umschlagplatz f\u00fcr Baumaterialien f\u00fcr die Inselentwicklung.",
+        "Modernisierte Pieranlagen f\u00fcr effiziente Abwicklung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-caye-caulker-port-economic-v2",
+    "type": "port",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.025,
+      17.765
+    ],
+    "name": {
+      "de": "Caye Caulker Anlegestelle",
+      "hu": "Caye Caulker kik\u00f6t\u0151",
+      "ro": "Debarcader Caye Caulker",
+      "en": "Caye Caulker Pier"
+    },
+    "description": {
+      "de": "Ein zentraler Ankerplatz f\u00fcr Touristenboote.",
+      "hu": "K\u00f6zponti kik\u00f6t\u0151hely turista-haj\u00f3k sz\u00e1m\u00e1ra.",
+      "ro": "Un punct central de acostare pentru b\u0103rci turistice.",
+      "en": "A central docking point for tourist boats."
+    },
+    "facts": {
+      "de": [
+        "Tourismus.",
+        "Anlegestelle.",
+        "F\u00e4hren.",
+        "Lokal."
+      ],
+      "hu": [
+        "Turizmus.",
+        "Kik\u00f6t\u0151hely.",
+        "Kompok.",
+        "Helyi."
+      ],
+      "ro": [
+        "Turism.",
+        "Debarcader.",
+        "Feriboturi.",
+        "Local."
+      ],
+      "en": [
+        "Tourism.",
+        "Dock.",
+        "Ferries.",
+        "Local."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Hafen (Pier) von Caye Caulker ist der pulsierende Mittelpunkt dieser charmanten Koralleninsel und das Tor f\u00fcr alle Besucher und Waren, die das Eiland erreichen. In einer Gemeinschaft, in der Autos nicht erlaubt sind, spielt der Hafen eine noch zentralere Rolle f\u00fcr die Logistik und den Alltag. Er ist der Anlaufpunkt f\u00fcr die gro\u00dfen Wassertaxis, die die Insel mit Belize City und San Pedro verbinden. Hier werden alle G\u00fcter des t\u00e4glichen Bedarfs \u2013 von frischen Lebensmitteln bis hin zu Baumaterialien \u2013 entladen und mit Golfkarren weiterverteilt. Der Hafen ist zudem ein lebendiger Treffpunkt, an dem Touristen ihre Abenteuer zum Riff starten und Einheimische ihre Waren anbieten. Die Effizienz und Zuverl\u00e4ssigkeit dieses Hafens sind entscheidend f\u00fcr den Erhalt des entspannten Lebensstils auf Caye Caulker bei gleichzeitigem Wachstum des Tourismus. Er ist das unverzichtbare Bindeglied zur Au\u00dfenwelt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Prim\u00e4rer Zugangspunkt f\u00fcr Touristen und Bewohner von Caye Caulker.",
+        "Zentrales Hub f\u00fcr die Versorgung der Insel mit G\u00fctern.",
+        "Wichtiger Anleger f\u00fcr regelm\u00e4\u00dfige Wassertaxi-Verbindungen.",
+        "Ausgangspunkt f\u00fcr Bootstouren zum Belize Barrier Reef.",
+        "Zentrum der lokalen Logistik ohne motorisierten Individualverkehr.",
+        "Lebendiger Ort des Handels und der touristischen Information.",
+        "Essentiell f\u00fcr die wirtschaftliche Stabilit\u00e4t der Insel.",
+        "Knotenpunkt f\u00fcr den Austausch mit den Nachbarinseln."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-belmopan-dist-economic-v2",
+    "type": "industry",
+    "parent": "BZ-CYO",
+    "coords": [
+      -88.755,
+      17.265
+    ],
+    "name": {
+      "de": "Belmopan Vertrieb",
+      "hu": "Belmopan eloszt\u00f3",
+      "ro": "Distribu\u021bie Belmopan",
+      "en": "Belmopan Distribution"
+    },
+    "description": {
+      "de": "Ein lokales Zentrum f\u00fcr Warenverteilung.",
+      "hu": "Helyi k\u00f6zpont \u00e1ruk eloszt\u00e1s\u00e1ra.",
+      "ro": "Un centru local pentru distribu\u021bia m\u0103rfurilor.",
+      "en": "A local hub for goods distribution."
+    },
+    "facts": {
+      "de": [
+        "Vertrieb.",
+        "Handel.",
+        "Lager.",
+        "Lokal."
+      ],
+      "hu": [
+        "Eloszt\u00e1s.",
+        "Kereskedelem.",
+        "Rakt\u00e1r.",
+        "Helyi."
+      ],
+      "ro": [
+        "Distribu\u021bie.",
+        "Comer\u021b.",
+        "Depozit.",
+        "Local."
+      ],
+      "en": [
+        "Distribution.",
+        "Trade.",
+        "Warehouse.",
+        "Local."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Belmopan Distribution ist das zentrale Warenverteilzentrum in der Hauptstadt von Belize und fungiert als logistisches Gelenk zwischen der K\u00fcste und dem Binnenland. Aufgrund seiner Lage im geografischen Zentrum des Landes bietet es ideale Bedingungen f\u00fcr die Lagerung und den Weitertransport von Konsumg\u00fctern, Baustoffen und medizinischen Vorr\u00e4ten. Das Zentrum beherbergt moderne Lagerhallen namhafter nationaler Distributoren und internationaler Marken. Es spielt eine Schl\u00fcsselrolle bei der Versorgung der westlichen und s\u00fcdlichen Distrikte, indem es die Transportwege optimiert und die Lieferzeiten verk\u00fcrzt. In Belmopan Distribution konzentrieren sich Unternehmen, die auf Effizienz und zentrale Steuerung setzen. Das Wachstum dieses Standorts spiegelt die zunehmende Bedeutung Belmopans nicht nur als administratives, sondern auch als wirtschaftliches Zentrum wider, das die Versorgungssicherheit im ganzen Land ma\u00dfgeblich unterst\u00fctzt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Strategisches Verteilzentrum im geografischen Herzen Belizes.",
+        "Optimiert die Lieferketten zwischen der K\u00fcste und dem Westen.",
+        "Beherbergt gro\u00dfe Lagerkapazit\u00e4ten f\u00fcr nationale Distributoren.",
+        "Zentraler Standort f\u00fcr die Versorgung der Hauptstadtregion.",
+        "Wichtiger Knotenpunkt f\u00fcr den Handel mit dem Cayo District.",
+        "F\u00f6rdert die Effizienz im nationalen G\u00fcterfernverkehr.",
+        "Standort moderner Logistik- und Verwaltungsb\u00fcros.",
+        "Tr\u00e4gt zur wirtschaftlichen St\u00e4rkung der Hauptstadt Belmopan bei."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+]

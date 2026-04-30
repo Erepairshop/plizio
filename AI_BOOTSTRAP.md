@@ -56,6 +56,17 @@ CB-n: `~/.claude-backup-from-win/memory/` és `~/.claude-backup-from-win/session
 - `~/plizio-repo/GEMINI.md` — Gemini Pro/Flash munkaszabályok
 - `~/plizio-repo/CLAUDE.md` — plizio specifikus
 
+## Aktív session resume tipp
+
+Ha új gépen / új terminálban kell folytatni: használd a **session UUID-t** közvetlenül (a `claude --resume` lista szűri cwd alapján és csak lezárt sessionöket mutat):
+
+```bash
+# Példa parancs — UUID a sessions/ mappában lévő .jsonl fájlnévből
+claude --resume <session-uuid>
+```
+
+Aktuális (legnagyobb, élő) Win-session UUID-ja a `~/.claude-backup-from-win/sessions/` mappában az **utolsó módosítású .jsonl** fájlnak.
+
 ## Ha új Claude/AI session indul
 
 1. Olvasd el ezt a fájlt

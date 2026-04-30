@@ -337,46 +337,6 @@ export const maltaPoi: POI[] = [
       en: ["Built by the Knights of St. John", "Now a protected bird sanctuary", "Located near Kennedy Grove"]
     }
   },
-
-  // MT-007 San Pawl il-Bahar
-  {
-    id: "poi-mt-bugibba",
-    name: { de: "Buġibba", hu: "Buġibba", ro: "Buġibba", en: "Buġibba" },
-    type: "city",
-    coords: [14.4114, 35.9525],
-    parent: "MT-007",
-    description: {
-      de: "Ein beliebtes Touristenziel an der St. Paul's Bay.",
-      hu: "Népszerű turisztikai célpont a Szent Pál-öböl közelében.",
-      ro: "O destinație turistică populară situată în Golful Sf. Paul.",
-      en: "A popular tourist destination located within St. Paul's Bay."
-    },
-    facts: {
-      de: ["Viele Hotels und Bars", "Künstlicher Sandstrand", "Zentrum für Bootstouren"],
-      hu: ["Számos hotel és bár", "Mesterséges homokos strand", "Hajókirándulások központja"],
-      ro: ["Multe hoteluri și baruri", "Plajă de nisip artificială", "Centru pentru tururi cu barca"],
-      en: ["High concentration of hotels", "Features a man-made sandy beach", "Hub for boat trips to Comino"]
-    }
-  },
-  {
-    id: "poi-mt-aquarium",
-    name: { de: "Malta National Aquarium", hu: "Máltai Nemzeti Akvárium", ro: "Acvariul Național Malta", en: "Malta National Aquarium" },
-    type: "landmark",
-    coords: [14.4217, 35.9558],
-    parent: "MT-007",
-    description: {
-      de: "Ein großes Aquarium in Qawra, das das Meeresleben zeigt.",
-      hu: "Nagy akvárium Qawrában, amely a tengeri élővilágot mutatja be.",
-      ro: "Un mare acvariu în Qawra, care prezintă viața marină.",
-      en: "A large public aquarium in Qawra displaying marine life."
-    },
-    facts: {
-      de: ["Seestern-Form des Gebäudes", "Tunnel mit Haien", "Pädagogische Programme"],
-      hu: ["Tengeri csillag alakú épület", "Cápaalagút", "Oktatóprogramok"],
-      ro: ["Clădire în formă de stea de mare", "Tunel cu rechini", "Programe educaționale"],
-      en: ["Starfish-shaped building", "Walk-through shark tunnel", "Focus on local marine conservation"]
-    }
-  },
   {
     id: "poi-mt-wignacourt-tower",
     name: { de: "Wignacourt Tower", hu: "Wignacourt-torony", ro: "Turnul Wignacourt", en: "Wignacourt Tower" },
@@ -554,27 +514,6 @@ export const maltaPoi: POI[] = [
       en: ["Dates back to 1st century BC", "Contains well-preserved floor mosaics", "Small on-site museum"]
     }
   },
-
-  // MT-011 Dingli
-  {
-    id: "poi-mt-dingli-cliffs",
-    name: { de: "Dingli-Klippen", hu: "Dingli-sziklák", ro: "Stâncile Dingli", en: "Dingli Cliffs" },
-    type: "landmark",
-    coords: [14.3789, 35.8525],
-    parent: "MT-011",
-    description: {
-      de: "Die höchsten Klippen Maltas.",
-      hu: "Málta legmagasabb sziklái.",
-      ro: "Cele mai înalte stânci din Malta.",
-      en: "The highest cliffs in Malta."
-    },
-    facts: {
-      de: ["253 Meter über dem Meeresspiegel", "Panoramablick auf Filfla", "Wanderwege"],
-      hu: ["253 méterrel a tengerszint felett", "Panorámás kilátás Filfla szigetére", "Túraútvonalak"],
-      ro: ["253 metri deasupra mării", "Vedere panoramică spre Filfla", "Trasee de drumeție"],
-      en: ["253 meters above sea level", "Panoramic view of Filfla islet", "Scenic walking paths"]
-    }
-  },
   {
     id: "poi-mt-st-mary-magdalene",
     name: { de: "St. Mary Magdalene Chapel", hu: "Szent Mária Magdolna-kápolna", ro: "Capela Sf. Maria Magdalena", en: "St. Mary Magdalene Chapel" },
@@ -653,25 +592,6 @@ export const maltaPoi: POI[] = [
       hu: ["Több mint 5000 éves", "Hatalmas kőtömbök", "UNESCO Világörökség"],
       ro: ["Peste 5000 de ani vechime", "Blocuri masive de piatră", "Patrimoniu UNESCO"],
       en: ["Over 5000 years old", "Massive stone monoliths", "UNESCO World Heritage site"]
-    }
-  },
-  {
-    id: "poi-mt-bluegrotto",
-    name: { de: "Blaue Grotte", hu: "Kék Barlang", ro: "Grota Albastră", en: "Blue Grotto" },
-    type: "landmark",
-    coords: [14.4564, 35.8197],
-    parent: "MT-013",
-    description: {
-      de: "Berühmte Meereshöhlen.",
-      hu: "Híres tengeri barlangok.",
-      ro: "Peșteri marine faimoase.",
-      en: "Famous sea caves."
-    },
-    facts: {
-      de: ["Erreichbar mit Booten", "Leuchtendes Wasser am Vormittag", "Beliebter Tauchplatz"],
-      hu: ["Csónakkal érhető el", "Délelőtt ragyogó kék víz", "Népszerű búvárhely"],
-      ro: ["Accesibil cu barca", "Apă luminoasă dimineața", "Loc popular de scufundări"],
-      en: ["Accessible by boat", "Luminous water in the morning", "Popular diving location nearby"]
     }
   },
 
@@ -773,46 +693,6 @@ export const maltaPoi: POI[] = [
       hu: ["A sziget legnagyobb halpiaca", "Helyi kézműves termékek árusítása", "A tengerparti sétány mentén"],
       ro: ["Cea mai mare piață de pește", "Vânzare de produse artizanale locale", "De-a lungul falezei"],
       en: ["Largest fish market in Malta", "Sells local crafts and lace too", "Stretches along the waterfront"]
-    }
-  },
-  {
-    id: "poi-mt-st-peters-pool",
-    name: { de: "St. Peter's Pool", hu: "Szent Péter Medencéje", ro: "St. Peter's Pool", en: "St. Peter's Pool" },
-    type: "landmark",
-    coords: [14.5606, 35.8306],
-    parent: "MT-016",
-    description: {
-      de: "Ein natürliches Felsbecken.",
-      hu: "Természetes sziklamedence.",
-      ro: "Piscina naturală St. Peter.",
-      en: "Natural rock pool."
-    },
-    facts: {
-      de: ["Beliebt für Klippensprünge", "Kristallklares Wasser", "Abgelegen"],
-      hu: ["Népszerű sziklaugró hely", "Kristálytiszta víz", "Félreeső helyszín"],
-      ro: ["Popular pentru sărituri în apă", "Apă foarte clară", "Locație retrasă"],
-      en: ["Famous for cliff jumping", "Very clear deep water", "Located on the Delimara peninsula"]
-    }
-  },
-
-  // MT-017 Marsaskala
-  {
-    id: "poi-mt-st-thomas-bay",
-    name: { de: "St. Thomas Bay", hu: "Szent Tamás-öböl", ro: "Golful Sf. Thomas", en: "St. Thomas Bay" },
-    type: "landmark",
-    parent: "MT-017",
-    coords: [14.5617, 35.855],
-    description: {
-      de: "Eine weitläufige Bucht mit Sand- und Felsabschnitten.",
-      hu: "Tágas öböl homokos és sziklás részekkel.",
-      ro: "Un golf larg cu porțiuni de nisip și stâncă.",
-      en: "A large bay with both sandy patches and flat rocks."
-    },
-    facts: {
-      de: ["Beliebt bei Einheimischen", "Gute Windsurf-Bedingungen", "In der Nähe von Munxar Path"],
-      hu: ["Népszerű a helyiek körében", "Jó szörfözési lehetőségek", "A Munxar-ösvény közelében"],
-      ro: ["Popular printre localnici", "Condiții bune pentru windsurf", "Lângă traseul Munxar"],
-      en: ["Popular with locals", "Good for windsurfing", "Near the Munxar path cliffs"]
     }
   },
   {
@@ -1234,27 +1114,6 @@ export const maltaPoi: POI[] = [
       en: ["Roman ruins buried under the sand", "Calypso Cave overlooks the bay", "Known as Ramla l-Ħamra"]
     }
   },
-
-  // MT-028 Żebbuġ (Gozo)
-  {
-    id: "poi-mt-marsalforn",
-    name: { de: "Marsalforn", hu: "Marsalforn", ro: "Marsalforn", en: "Marsalforn" },
-    type: "city",
-    parent: "MT-028",
-    coords: [14.2589, 36.0717],
-    description: {
-      de: "Der beliebteste Badeort auf Gozo.",
-      hu: "Gozo legnépszerűbb üdülőhelye.",
-      ro: "Cea mai populară stațiune din Gozo.",
-      en: "Gozo's most popular seaside resort."
-    },
-    facts: {
-      de: ["Viele Restaurants an der Uferpromenade", "Kleiner Sandstrand", "Zentrum für Tauchschulen"],
-      hu: ["Sok étterem a tengerparton", "Kis homokos strand", "Búváriskolák központja"],
-      ro: ["Multe restaurante pe faleză", "Plajă mică de nisip", "Centru pentru școli de scufundări"],
-      en: ["Waterfront lined with restaurants", "Small sandy beach in the bay", "Hub for diving schools"]
-    }
-  },
   {
     id: "poi-mt-marsalforn-salt-pans",
     name: { de: "Salzpfannen von Marsalforn", hu: "Marsalforni sólepárlók", ro: "Salinele din Marsalforn", en: "Marsalforn Salt Pans" },
@@ -1453,25 +1312,6 @@ export const maltaPoi: POI[] = [
       hu: ["Gozo legmagasabb épülete", "A kupola 45 000 tonnát nyom", "Lift visz fel a kilátóba"],
       ro: ["Cea mai înaltă clădire din Gozo", "Cupola cântărește 45.000 tone", "Lift până la platforma de observație"],
       en: ["Gozo's tallest building", "Dome is 75 meters high", "Offers 360-degree views from the roof"]
-    }
-  },
-  {
-    id: "poi-mt-xewkija-windmill",
-    name: { de: "Ta' Gordan Windmühle", hu: "Xewkijai szélmalom", ro: "Moara de vânt din Xewkija", en: "Xewkija Windmill" },
-    type: "historical",
-    parent: "MT-033",
-    coords: [14.2583, 36.035],
-    description: {
-      de: "Eine historische Windmühle am Dorfrand.",
-      hu: "Történelmi szélmalom a falu szélén.",
-      ro: "O moară de vânt istorică la marginea satului.",
-      en: "An octagonal windmill dating back to the 18th century."
-    },
-    facts: {
-      de: ["Einzige achteckige Windmühle Gozos", "Kürzlich restauriert", "Erbaut 1710"],
-      hu: ["Gozo egyetlen nyolcszögletű szélmalma", "Nemrég restaurálták", "1710-ben épült"],
-      ro: ["Singura moară octogonală din Gozo", "Restaurată recent", "Construită în 1710"],
-      en: ["Only octagonal windmill in Gozo", "Recently restored to its former glory", "Built during the reign of Grand Master Perellos"]
     }
   },
 
@@ -2651,27 +2491,6 @@ export const maltaPoi: POI[] = [
       hu: ["Híres a tavaszi ünnepségéről", "A II. világháborúban súlyosan megsérült", "Málta első püspökének emlékműve"],
       ro: ["Faimoasă pentru sărbătoarea de primăvară", "Grav avariată în Al Doilea Război Mondial", "Monument pentru primul episcop al Maltei"],
       en: ["Dominates the huge Floriana Granaries square", "Beautiful interior decorated with silver and gold", "Final point of many national events"]
-    }
-  },
-
-  // MT-063 Ta' Xbiex
-  {
-    id: "poi-mt-ta-xbiex-marina",
-    name: { de: "Ta' Xbiex Marina", hu: "Ta' Xbiex jachtkikötő", ro: "Marina Ta' Xbiex", en: "Ta' Xbiex Marina" },
-    type: "landmark",
-    parent: "MT-063",
-    coords: [14.495, 35.8994],
-    description: {
-      de: "Ein exklusiver Yachthafen mit Blick auf Valletta.",
-      hu: "Exkluzív jachtkikötő kilátással Vallettára.",
-      ro: "O marină exclusivistă cu vedere spre Valletta.",
-      en: "A premier yacht marina located in the Marsamxett Harbour."
-    },
-    facts: {
-      de: ["Beherbergt viele Luxusyachten", "Beliebte Uferpromenade", "Sitz mehrerer Yachtclubs"],
-      hu: ["Számos luxusjachtnak ad otthont", "Népszerű tengerparti sétány", "Több jachtklub székhelye"],
-      ro: ["Găzduiește multe iahturi de lux", "Faleză populară", "Sediul mai multor cluburi nautice"],
-      en: ["One of the most sheltered marinas in Malta", "Lined with beautiful waterfront restaurants", "Base for international sailing events"]
     }
   },
   {

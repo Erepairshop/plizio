@@ -1,5 +1,6 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraGuatemalaLifeV2 } from "./poiExtraGuatemalaLifeV2";
 
 export const guatemalaCountry: POI[] = [];
 export const guatemalaRegions: POI[] = [];
@@ -784,4 +785,4 @@ export const guatemalaLandmarks: POI[] = [
   },
 ];
 
-export const guatemalaAllPoi: POI[] = [...guatemalaCountry, ...guatemalaRegions, ...guatemalaCities, ...guatemalaLandmarks];
+export const guatemalaAllPoi: POI[] = [...guatemalaCountry, ...guatemalaRegions, ...guatemalaCities, ...guatemalaLandmarks, ...poiExtraGuatemalaLifeV2];

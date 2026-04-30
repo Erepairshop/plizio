@@ -58,53 +58,7 @@ export const poiExtraFranceCities: POI[] = [
       ]
     }
   },
-  {
-    id: "city-strasbourg-extra",
-    type: "city",
-    parent: "FR-GES",
-    coords: [7.7521, 48.5734],
-    name: { de: "Straßburg", hu: "Strasbourg", ro: "Strasbourg", en: "Strasbourg" },
-    description: {
-      de: "Straßburg ist der offizielle Sitz des Europäischen Parlaments und ein Symbol der deutsch-französischen Aussöhnung. Die Altstadt Grande Île ist UNESCO-Weltkulturerbe.",
-      hu: "Strasbourg az Európai Parlament hivatalos székhelye és a francia-német megbékélés szimbóluma. A Grande Île történelmi központja az UNESCO Világörökség része.",
-      ro: "Strasbourg este sediul oficial al Parlamentului European și un simbol al reconcilierii franco-germane. Centrul său istoric, Grande Île, este un sit al Patrimoniului Mondial UNESCO.",
-      en: "Strasbourg is the official seat of the European Parliament and a symbol of Franco-German reconciliation. Its historic center, the Grande Île, is a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Sitz des Europäischen Parlaments.", "Historisches Viertel 'Petite France'.", "Berühmter Weihnachtsmarkt."],
-      hu: ["Az Európai Parlament székhelye.", "A 'Petite France' történelmi negyed.", "Híres karácsonyi vásár."],
-      ro: ["Sediul Parlamentului European.", "Cartierul istoric 'Petite France'.", "Târg de Crăciun renumit."],
-      en: ["Seat of the European Parliament.", "Historic 'Petite France' quarter.", "Famous Christmas market."]
-    },
-    descriptionAdvanced: {
-      de: "Als Hauptstadt des Elsass verbindet Straßburg auf einzigartige Weise französische und deutsche Kultur. Das Herz der Stadt, die Grande Île, wird vom Fluss Ill umschlossen und ist geprägt von mittelalterlichen Fachwerkhäusern und engen Gassen. Das Viertel 'Petite France' ist besonders malerisch mit seinen Kanälen und alten Gerberhäusern. Neben dem Europäischen Parlament beherbergt die Stadt auch den Europarat und den Europäischen Gerichtshof für Menschenrechte, was ihre Bedeutung als europäische Hauptstadt unterstreicht. Das Straßburger Münster (Cathédrale Notre-Dame) ist ein Meisterwerk der Gotik; seine astronomische Uhr und die Aussichtsplattform ziehen Besucher magisch an. Die lokale Gastronomie, eine Mischung aus französischer Finesse und deutscher Deftigkeit, ist ein weiteres Highlight.",
-      hu: "",
-      ro: "Strasbourg, capitala regiunii Alsacia, este un oraș cu o dublă moștenire culturală, franceză și germană, reflectată în arhitectura și gastronomia sa. Inima orașului, Grande Île, inclusă în patrimoniul UNESCO, este o insulă înconjurată de râul Ill, unde casele medievale cu grinzi de lemn și străduțele înguste creează o atmosferă de basm. Cartierul pitoresc 'Petite France', cu canalele sale romantice și casele vechilor tăbăcari, este o atracție de neratat. Catedrala Notre-Dame, o capodoperă a artei gotice, domină orizontul cu turnul său impunător și ceasul astronomic. Pe lângă frumusețea sa istorică, Strasbourg este un centru vital al Europei, găzduind Parlamentul European.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die Grande Île war 1988 das erste gesamte Stadtzentrum, das von der UNESCO zum Weltkulturerbe erklärt wurde.",
-        "Der Weihnachtsmarkt ('Christkindelsmärik') ist einer der ältesten und größten in Europa und geht auf das Jahr 1570 zurück.",
-        "Die Johannes-Gutenberg-Universität hat einen ihrer Sitze in Straßburg, wo Gutenberg den Buchdruck mit beweglichen Lettern entwickelte.",
-        "Das Vauban-Wehr (Barrage Vauban) ist ein befestigtes Wehr und eine Brücke aus dem 17. Jahrhundert.",
-        "Die National- und Universitätsbibliothek ist die zweitgrößte Bibliothek Frankreichs.",
-        "Straßburg hat das größte Straßenbahnnetz Frankreichs.",
-        "Die 'Marseillaise', die französische Nationalhymne, wurde 1792 in Straßburg komponiert."
-      ],
-      hu: [],
-      ro: [
-        "Grande Île a fost primul centru urban integral declarat Patrimoniu Mondial UNESCO, în 1988.",
-        "Târgul de Crăciun ('Christkindelsmärik') datează din 1570, fiind unul dintre cele mai vechi din Europa.",
-        "Imnul național al Franței, 'La Marseillaise', a fost compus la Strasbourg în 1792 de Rouget de Lisle.",
-        "Johannes Gutenberg a dezvoltat tiparul cu litere mobile în Strasbourg în secolul al XV-lea.",
-        "Barajul Vauban, o construcție defensivă din secolul al XVII-lea, oferă o priveliște panoramică asupra cartierului Petite France.",
-        "Strasbourg deține cea mai mare rețea de tramvaie din Franța, cu o lungime de peste 70 de kilometri.",
-        "Biblioteca Națională și Universitară este a doua ca mărime din Franța, deținând peste 3 milioane de volume."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "industry-airbus-toulouse-extra",
     type: "industry",
@@ -246,47 +200,7 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "historical-arena-of-nimes-extra",
-    type: "historical",
-    parent: "FR-OCC",
-    coords: [4.3599, 43.8344],
-    name: { de: "Arena von Nîmes", hu: "Nîmes-i Aréna", ro: "Arena din Nîmes", en: "Arena of Nîmes" },
-    description: {
-      de: "Die Arena von Nîmes ist eines der am besten erhaltenen römischen Amphitheater der Welt. Sie wurde um 70 n. Chr. erbaut und wird heute für Konzerte und Veranstaltungen genutzt.",
-      hu: "A Nîmes-i Aréna a világ egyik legjobb állapotban fennmaradt római amfiteátruma. Kb. i.sz. 70-ben épült, ma koncerteknek és rendezvényeknek ad otthont.",
-      ro: "Arena din Nîmes este unul dintre cele mai bine conservate amfiteatre romane din lume. Construită în jurul anului 70 d.Hr., astăzi este folosită pentru concerte și evenimente.",
-      en: "The Arena of Nîmes is one of the best-preserved Roman amphitheaters in the world. Built around 70 AD, it is now used for concerts and events."
-    },
-    descriptionAdvanced: {
-      de: "Die Arena von Nîmes ist ein beeindruckendes Zeugnis der römischen Ingenieurskunst und Architektur in Gallien. Erbaut Ende des 1. Jahrhunderts n. Chr., kurz nach dem Kolosseum in Rom, ist ihre Fassade 21 Meter hoch und besteht aus zwei Ebenen von 60 Arkaden. Ursprünglich für Gladiatorenkämpfe und Tierhetzen konzipiert, wurde sie im Mittelalter zu einer Festung umgebaut, die ein kleines Dorf mit zwei Kirchen beherbergte. Heute, nach umfangreichen Restaurierungen, dient die Arena als Veranstaltungsort für Konzerte, historische Nachstellungen und die berühmten 'Ferias' von Nîmes mit Stierkämpfen. Zusammen mit dem Maison Carrée und dem Tour Magne gehört die Arena zum außergewöhnlichen römischen Erbe der Stadt, die oft als das 'französische Rom' bezeichnet wird.",
-      hu: "",
-      ro: "Arena din Nîmes este o mărturie impresionantă a ingineriei romane. Construită la sfârșitul secolului I d.Hr., la scurt timp după Colosseumul din Roma, fațada sa de 21 de metri înălțime are două niveluri de 60 de arcade. Concepută inițial pentru lupte de gladiatori, a fost transformată în fortăreață în Evul Mediu, adăpostind un mic sat. Astăzi, după restaurări ample, arena găzduiește concerte, reconstituiri istorice și faimoasele 'Ferias' din Nîmes. Împreună cu Maison Carrée și Turnul Magne, arena face parte din moștenirea romană excepțională a orașului, supranumit adesea 'Roma franceză', atrăgând vizitatori din întreaga lume.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die elliptische Form misst 133 mal 101 Meter.",
-        "Die Arena ist perfekt symmetrisch und wurde für eine schnelle Evakuierung der Zuschauer konzipiert.",
-        "Im Mittelalter lebten bis zu 700 Menschen innerhalb der Mauern der Arena.",
-        "Die 'Grands Jeux Romains' im Frühjahr sind die größte römische Reenactment-Veranstaltung in Europa.",
-        "Die Arena ist eines der wenigen römischen Amphitheater, das noch heute ein Dachsystem für Veranstaltungen aufnehmen kann.",
-        "Nîmes war ein wichtiger Knotenpunkt an der Via Domitia, der ersten Römerstraße in Gallien.",
-        "Das Musée de la Romanité, gegenüber der Arena, beherbergt Tausende von archäologischen Funden aus der Region."
-      ],
-      hu: [],
-      ro: [
-        "Forma sa eliptică măsoară 133 pe 101 metri.",
-        "Arena este perfect simetrică, proiectată pentru o evacuare rapidă a celor 24.000 de spectatori.",
-        "În Evul Mediu, până la 700 de persoane locuiau în interiorul zidurilor arenei.",
-        "'Grands Jeux Romains' este cel mai mare eveniment de reconstituire romană din Europa.",
-        "Arena poate fi acoperită cu o structură mobilă pentru evenimente, o caracteristică rară pentru un amfiteatru antic.",
-        "Nîmes era un nod important pe Via Domitia, primul drum roman din Galia.",
-        "Muzeul Romanității (Musée de la Romanité), situat vizavi, expune mii de artefacte arheologice."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "landmark-viaduc-de-millau-extra",
     type: "landmark",
@@ -328,88 +242,8 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "nature-gorges-du-verdon-extra",
-    type: "river",
-    parent: "FR-PAC",
-    coords: [6.368, 43.749],
-    name: { de: "Verdonschlucht", hu: "Verdon-szurdok", ro: "Cheile Verdonului", en: "Verdon Gorge" },
-    description: {
-      de: "Die Verdonschlucht ist einer der tiefsten und schönsten Canyons Europas. Der türkisfarbene Fluss Verdon hat sich hier tief in die Kalksteinfelsen gegraben.",
-      hu: "A Verdon-szurdok Európa egyik legmélyebb és legszebb kanyonja. A türkizkék Verdon folyó mélyen bevágta magát a mészkősziklákba.",
-      ro: "Cheile Verdonului sunt unul dintre cele mai adânci și mai frumoase canioane din Europa. Râul Verdon, de culoare turcoaz, a săpat adânc în stâncile de calcar.",
-      en: "The Verdon Gorge is one of the deepest and most beautiful canyons in Europe. The turquoise Verdon River has carved deep into the limestone cliffs."
-    },
-    descriptionAdvanced: {
-      de: "Die Verdonschlucht, oft als der 'Grand Canyon Europas' bezeichnet, ist ein spektakuläres Naturwunder in der Provence. Über Millionen von Jahren hat der Fluss Verdon eine etwa 25 Kilometer lange und bis zu 700 Meter tiefe Schlucht in die Kalksteinplateaus gegraben. Die charakteristische türkise Farbe des Wassers stammt von Gletschermineralien. Die Schlucht ist ein Paradies für Outdoor-Enthusiasten. Aktivitäten wie Kajakfahren, Tretbootfahren und Wildwasser-Rafting sind sehr beliebt. Entlang der Ränder der Schlucht verlaufen Panoramastraßen wie die Route des Crêtes, die atemberaubende Ausblicke bieten. Wanderwege wie der 'Sentier Martel' führen tief in den Canyon hinab. Die Region ist auch ein wichtiger Lebensraum für Wildtiere, darunter Gänsegeier, die hier erfolgreich wiederangesiedelt wurden.",
-      hu: "",
-      ro: "Adesea numit 'Marele Canion al Europei', Cheile Verdonului reprezintă un miracol natural spectaculos din Provence. De-a lungul a milioane de ani, râul Verdon a sculptat un canion de 25 de kilometri lungime și până la 700 de metri adâncime în platourile de calcar. Culoarea turcoaz a apei provine de la minerale glaciare. Este un paradis pentru entuziaștii de activități în aer liber, precum caiac, rafting și drumeții. Drumuri panoramice, ca Route des Crêtes, oferă vederi uluitoare, iar trasee precum 'Sentier Martel' coboară în inima canionului. Regiunea este, de asemenea, un habitat vital pentru vulturi, reintroduși cu succes aici.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die Schlucht endet im Stausee Lac de Sainte-Croix.",
-        "Der Name 'Verdon' leitet sich vom französischen Wort für Grün ('vert') ab.",
-        "Die Klippen sind ein bekanntes Ziel für Felskletterer aus der ganzen Welt.",
-        "Die Straße 'Corniche Sublime' am Südufer bietet einige der dramatischsten Aussichtspunkte.",
-        "Das Dorf Moustiers-Sainte-Marie am Eingang der Schlucht ist für seine Töpferkunst berühmt.",
-        "Die erste vollständige Durchquerung der Schlucht gelang Édouard-Alfred Martel im Jahr 1905.",
-        "Der Regionale Naturpark Verdon wurde 1997 gegründet, um die einzigartige Landschaft zu schützen."
-      ],
-      hu: [],
-      ro: [
-        "Canionul se varsă în lacul artificial Sainte-Croix.",
-        "Numele 'Verdon' provine de la cuvântul francez pentru verde ('vert').",
-        "Stâncile sunt o destinație de top pentru alpiniști din întreaga lume.",
-        "Drumul 'Corniche Sublime' de pe malul sudic oferă unele dintre cele mai dramatice priveliști.",
-        "Satul Moustiers-Sainte-Marie, la intrarea în chei, este faimos pentru ceramica sa.",
-        "Prima traversare completă a canionului a fost realizată de Édouard-Alfred Martel în 1905.",
-        "Parcul Natural Regional Verdon a fost înființat în 1997 pentru a proteja peisajul unic."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "castle-chateau-de-chambord-extra",
-    type: "castle",
-    parent: "FR-CVL",
-    coords: [1.5173, 47.6162],
-    name: { de: "Schloss Chambord", hu: "Chambord-i kastély", ro: "Castelul Chambord", en: "Château de Chambord" },
-    description: {
-      de: "Schloss Chambord ist das größte Schloss der Loire und ein Meisterwerk der französischen Renaissance-Architektur, das möglicherweise von Leonardo da Vinci beeinflusst wurde.",
-      hu: "A Chambord-i kastély a Loire-völgy legnagyobb kastélya, a francia reneszánsz építészet mesterműve, melyet valószínűleg Leonardo da Vinci is befolyásolt.",
-      ro: "Castelul Chambord este cel mai mare castel de pe Valea Loarei și o capodoperă a arhitecturii renascentiste franceze, posibil influențată de Leonardo da Vinci.",
-      en: "Château de Chambord is the largest château in the Loire Valley and a masterpiece of French Renaissance architecture, possibly influenced by Leonardo da Vinci."
-    },
-    descriptionAdvanced: {
-      de: "Schloss Chambord ist der Inbegriff der französischen Renaissance und ein Ausdruck königlicher Macht. Erbaut von König Franz I. als Jagdschloss, wurde es nie dauerhaft bewohnt. Die Architektur ist eine Mischung aus traditionellen französischen mittelalterlichen Formen und klassischen italienischen Strukturen. Das berühmteste Merkmal ist die doppelläufige Wendeltreppe im Zentrum des Gebäudes, deren Design Leonardo da Vinci zugeschrieben wird. Sie ermöglicht es zwei Personen, die Treppe gleichzeitig zu benutzen, ohne sich zu begegnen. Das Dach ist eine extravagante Landschaft aus Türmen, Schornsteinen und Laternen, die an die Skyline von Konstantinopel erinnern soll. Das Schloss ist von der Domaine National de Chambord umgeben, einem 5.440 Hektar großen, ummauerten Waldpark, der so groß ist wie das innere Paris.",
-      hu: "",
-      ro: "Castelul Chambord este chintesența Renașterii franceze și o expresie a puterii regale. Construit de regele Francisc I ca reședință de vânătoare, nu a fost niciodată locuit permanent. Arhitectura sa îmbină formele medievale franceze cu structurile clasice italiene. Elementul său cel mai faimos este scara dublă elicoidală, atribuită lui Leonardo da Vinci, care permite ca două persoane să urce simultan fără a se întâlni. Acoperișul este un peisaj extravagant de turnuri și coșuri de fum, menit să semene cu orizontul Constantinopolului. Castelul este înconjurat de un parc forestier de 5.440 de hectare, la fel de mare ca centrul Parisului, creând un domeniu impresionant.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Das Schloss hat 426 Zimmer, 282 Kamine und 77 Treppen.",
-        "Die Bauarbeiten begannen 1519 und wurden nie vollständig abgeschlossen.",
-        "Während des Zweiten Weltkriegs wurden Kunstwerke aus dem Louvre, darunter die Mona Lisa, in Chambord versteckt.",
-        "Das Wahrzeichen des Schlosses ist der Salamander, das Emblem von Franz I.",
-        "Der Park ist das größte geschlossene Waldgebiet in Europa.",
-        "Die genaue Funktion des Schlosses bleibt ein Rätsel; es war unpraktisch zum Wohnen und schwer zu verteidigen.",
-        "Das Schloss gehört dem französischen Staat und ist seit 1981 UNESCO-Weltkulturerbe."
-      ],
-      hu: [],
-      ro: [
-        "Castelul are 426 de camere, 282 de șeminee și 77 de scări.",
-        "Construcția a început în 1519 și nu a fost niciodată complet finalizată.",
-        "În timpul celui de-al Doilea Război Mondial, opere de artă de la Luvru, inclusiv Mona Lisa, au fost ascunse la Chambord.",
-        "Simbolul castelului este salamandra, emblema regelui Francisc I.",
-        "Parcul este cel mai mare domeniu forestier închis din Europa.",
-        "Aparține statului francez și este sit al Patrimoniului Mondial UNESCO din 1981.",
-        "Funcția exactă a castelului rămâne un mister, fiind nepractic pentru locuit și greu de apărat."
-      ],
-      en: []
-    }
-  },
+
+
   {
     id: "kid-landmark-parc-asterix-extra",
     type: "kid-landmark",
@@ -451,47 +285,7 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "city-rouen-extra",
-    type: "city",
-    parent: "FR-NOR",
-    coords: [1.0993, 49.4432],
-    name: { de: "Rouen", hu: "Rouen", ro: "Rouen", en: "Rouen" },
-    description: {
-      de: "Rouen ist die historische Hauptstadt der Normandie, bekannt für ihre beeindruckende Kathedrale, die von Claude Monet gemalt wurde, und als der Ort, an dem Jeanne d'Arc verbrannt wurde.",
-      hu: "Rouen Normandia történelmi fővárosa, híres lenyűgöző katedrálisáról, melyet Claude Monet is megfestett, és arról a helyről, ahol Jeanne d'Arc-ot megégették.",
-      ro: "Rouen este capitala istorică a Normandiei, cunoscută pentru catedrala sa impresionantă pictată de Claude Monet și ca locul unde a fost arsă pe rug Ioana d'Arc.",
-      en: "Rouen is the historic capital of Normandy, known for its impressive cathedral painted by Claude Monet and as the place where Joan of Arc was burned at the stake."
-    },
-    descriptionAdvanced: {
-      de: "Rouen, die 'Stadt der hundert Kirchtürme', wie Victor Hugo sie nannte, ist ein lebendiges Museum mittelalterlicher Architektur. Die Altstadt ist reich an kopfsteingepflasterten Gassen und über 2.000 Fachwerkhäusern. Die Kathedrale Notre-Dame ist berühmt für ihre Fassade, die Claude Monet in einer Serie von über 30 Gemälden verewigte. Der Gros-Horloge, eine Renaissance-Uhr in einem Torbogen, ist ein weiteres Wahrzeichen. Rouen ist untrennbar mit der Geschichte von Jeanne d'Arc verbunden; auf dem Place du Vieux-Marché wurde sie 1431 auf dem Scheiterhaufen verbrannt. Heute erinnert eine moderne Kirche an dieser Stelle an sie. Als historische Hauptstadt der Normandie war Rouen auch der Sitz der Herzöge der Normandie und ein wichtiges Handelszentrum an der Seine.",
-      hu: "",
-      ro: "Rouen, 'orașul celor o sută de clopotnițe' al lui Victor Hugo, este un muzeu viu de arhitectură medievală. Centrul vechi abundă în străzi pietruite și peste 2.000 de case cu grinzi de lemn. Catedrala Notre-Dame este faimoasă pentru fațada sa, imortalizată de Claude Monet în peste 30 de tablouri. Gros-Horloge, un ceas astronomic renascentist, este un alt simbol al orașului. Istoria sa este legată de Ioana d'Arc, arsă pe rug în Place du Vieux-Marché în 1431, unde o biserică modernă îi comemorează sacrificiul. Capitală a Normandiei, Rouen a fost un important centru comercial pe Sena și reședința ducilor normanzi.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Der Turm der Kathedrale von Rouen war von 1876 bis 1880 das höchste Bauwerk der Welt.",
-        "Das Historial Jeanne d'Arc ist ein modernes Museum, das ihre Geschichte und ihren Prozess nachzeichnet.",
-        "Der Justizpalast von Rouen ist ein herausragendes Beispiel für die Flamboyant-Gotik.",
-        "Der Schriftsteller Gustave Flaubert wurde in Rouen geboren; sein Geburtshaus ist heute ein Museum.",
-        "Der Hafen von Rouen ist der größte Getreideexporthafen Westeuropas.",
-        "Die Stadt war im Hundertjährigen Krieg eine strategisch wichtige Festung.",
-        "Das 'Aître Saint-Maclou' ist ein seltener erhaltener mittelalterlicher Pestfriedhof."
-      ],
-      hu: [],
-      ro: [
-        "Turnul catedralei din Rouen a fost cea mai înaltă structură din lume între 1876 și 1880.",
-        "Historial Jeanne d'Arc este un muzeu modern care prezintă viața și procesul eroinei.",
-        "Palatul de Justiție din Rouen este un exemplu remarcabil de arhitectură gotică flamboaiantă.",
-        "Scriitorul Gustave Flaubert s-a născut la Rouen; casa sa natală este acum muzeu.",
-        "Portul Rouen este cel mai mare port de export de cereale din Europa de Vest.",
-        "'Aître Saint-Maclou' este un cimitir medieval rar, din timpul ciumei, care s-a păstrat.",
-        "Gros-Horloge, ceasul astronomic, datează din secolul al XIV-lea și încă funcționează."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "mountain-aiguille-du-midi-extra",
     type: "mountain",
@@ -533,217 +327,11 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "city-montpellier-extra",
-    type: "city",
-    parent: "FR-OCC",
-    coords: [3.8767, 43.6108],
-    name: { de: "Montpellier", hu: "Montpellier", ro: "Montpellier", en: "Montpellier" },
-    description: {
-      de: "Montpellier ist eine dynamische Stadt im Süden Frankreichs, bekannt für ihre mittelalterlichen Gassen, ihre Universität und den sonnigen Place de la Comédie.",
-      hu: "Montpellier egy dinamikus város Dél-Franciaországban, ismert középkori utcáiról, egyeteméről és a napsütötte Place de la Comédie-ról.",
-      ro: "Montpellier este un oraș dinamic din sudul Franței, cunoscut pentru străzile sale medievale, universitatea sa și însorita Place de la Comédie.",
-      en: "Montpellier is a dynamic city in the south of France, known for its medieval streets, its university, and the sunny Place de la Comédie."
-    },
-    descriptionAdvanced: {
-      de: "Montpellier ist eine der lebendigsten Städte Südfrankreichs, geprägt von einer jungen Bevölkerung und einer mediterranen Atmosphäre. Das Herz der Stadt ist der Place de la Comédie mit der Opéra Comédie und dem Drei-Grazien-Brunnen. Von hier aus erstreckt sich das Écusson, die mittelalterliche Altstadt, mit einem Labyrinth aus engen Gassen, kleinen Plätzen und eleganten Hôtels Particuliers. Die medizinische Fakultät der Universität Montpellier, gegründet im 12. Jahrhundert, ist die älteste noch aktive der Welt. Die Stadt verbindet ihr historisches Erbe gekonnt mit moderner Architektur, wie im Antigone-Viertel, das vom katalanischen Architekten Ricardo Bofill entworfen wurde. Mit über 300 Sonnentagen im Jahr und der Nähe zum Mittelmeer ist Montpellier ein äußerst lebenswerter Ort.",
-      hu: "",
-      ro: "Montpellier este unul dintre cele mai vibrante orașe din sudul Franței, cu o populație tânără și o atmosferă mediteraneană. Inima sa este Place de la Comédie, cu opera și fântâna celor Trei Grații. De aici se întinde Écusson, centrul vechi medieval, un labirint de străzi înguste și piețe elegante. Facultatea de Medicină, fondată în secolul al XII-lea, este cea mai veche din lume încă în funcțiune. Orașul îmbină istoria cu arhitectura modernă, precum în cartierul Antigone, proiectat de Ricardo Bofill. Cu peste 300 de zile însorite pe an și apropierea de Marea Mediterană, Montpellier oferă o calitate a vieții excepțională.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Fast ein Drittel der Bevölkerung sind Studenten.",
-        "Der Jardin des Plantes de Montpellier ist der älteste botanische Garten Frankreichs, gegründet 1593.",
-        "Der Arc de Triomphe (Porte du Peyrou) ist dem Sonnenkönig Ludwig XIV. gewidmet.",
-        "Die Stadt hat kein römisches Erbe, da sie erst im Mittelalter gegründet wurde.",
-        "Das Musée Fabre ist eines der bedeutendsten Kunstmuseen Frankreichs.",
-        "Montpellier hat ein ausgedehntes Straßenbahnnetz mit farbenfrohen, von Designern entworfenen Bahnen.",
-        "Der Mikwe, ein jüdisches Ritualbad aus dem 12. Jahrhundert, ist eines der ältesten in Europa."
-      ],
-      hu: [],
-      ro: [
-        "Aproape o treime din populația orașului este formată din studenți.",
-        "Jardin des Plantes de Montpellier este cea mai veche grădină botanică din Franța, fondată în 1593.",
-        "Arcul de Triumf (Porte du Peyrou) este dedicat Regelui Soare, Ludovic al XIV-lea.",
-        "Orașul nu are o moștenire romană, fiind fondat în Evul Mediu.",
-        "Musée Fabre este unul dintre cele mai importante muzee de artă din Franța.",
-        "Montpellier are o rețea extinsă de tramvaie cu design colorat, creat de designeri renumiți.",
-        "Mikvah, o baie rituală evreiască din secolul al XII-lea, este una dintre cele mai vechi din Europa."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "animal-habitat-camargue-extra",
-    type: "animal-habitat",
-    parent: "FR-PAC",
-    coords: [4.4286, 43.5539],
-    name: { de: "Camargue", hu: "Camargue", ro: "Camargue", en: "Camargue" },
-    description: {
-      de: "Die Camargue ist ein riesiges Feuchtgebiet im Rhone-Delta, bekannt für ihre weißen Pferde, schwarzen Stiere und rosa Flamingos.",
-      hu: "A Camargue egy hatalmas vizes élőhely a Rhône-deltában, híres fehér lovairól, fekete bikáiról és rózsaszín flamingóiról.",
-      ro: "Camargue este o zonă umedă vastă în delta Ronului, cunoscută pentru caii săi albi, taurii negri și flamingo roz.",
-      en: "The Camargue is a vast wetland in the Rhône delta, famous for its white horses, black bulls, and pink flamingos."
-    },
-    descriptionAdvanced: {
-      de: "Die Camargue, eine wilde und einzigartige Landschaft im Delta der Rhône, ist eines der wichtigsten Feuchtgebiete Westeuropas. Sie ist geprägt von einem Mosaik aus Salzwiesen, Schilf, Lagunen (étangs) und Sanddünen. Diese raue Umgebung ist die Heimat einer besonderen Tierwelt. Die halbwilden, robusten weißen Camargue-Pferde sind ein Symbol der Region, ebenso wie die schwarzen Stiere, die für die 'Courses Camarguaises' (eine Art unblutiger Stierkampf) gezüchtet werden. Die Camargue ist vor allem ein Vogelparadies und der einzige Ort in Frankreich, an dem Rosaflamingos brüten. Die traditionelle Lebensweise der 'Gardians' (die Cowboys der Camargue) auf ihren Ranches ('Manades') prägt die Kultur der Region. Neben der Viehzucht sind auch der Reisanbau und die Salzgewinnung von wirtschaftlicher Bedeutung.",
-      hu: "",
-      ro: "Camargue, un peisaj sălbatic și unic în delta Ronului, este una dintre cele mai importante zone umede din Europa de Vest. Este un mozaic de mlaștini sărate, stuf, lagune și dune de nisip. Acest mediu aspru găzduiește o faună specială: caii albi semi-sălbatici, un simbol al regiunii, și taurii negri crescuți pentru 'courses camarguaises'. Camargue este un paradis pentru păsări și singurul loc din Franța unde cuibăresc flamingo roz. Stilul de viață tradițional al 'gardienilor' (cowboy-ii din Camargue) la fermele lor numite 'manades' definește cultura locală, alături de cultivarea orezului și extracția sării.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Der Regionale Naturpark Camargue erstreckt sich über 85.000 Hektar.",
-        "In der Camargue wird roter Reis angebaut, eine lokale Spezialität.",
-        "Die befestigte Stadt Aigues-Mortes am Rande der Camargue war ein wichtiger Kreuzfahrerhafen.",
-        "Die Salzgärten von Salin-de-Giraud erzeugen riesige Mengen an Meersalz und färben das Wasser rosa.",
-        "Die Camargue ist ein wichtiger Rastplatz für Hunderttausende von Zugvögeln.",
-        "Das Camargue-Pferd ist eine der ältesten Pferderassen der Welt.",
-        "Die traditionellen strohgedeckten Hütten der Gardians werden 'cabanes' genannt."
-      ],
-      hu: [],
-      ro: [
-        "Parcul Natural Regional Camargue acoperă peste 85.000 de hectare.",
-        "În Camargue se cultivă orez roșu, o specialitate locală.",
-        "Orașul fortificat Aigues-Mortes, de la marginea regiunii, a fost un important port al cruciaților.",
-        "Salinele de la Salin-de-Giraud produc cantități uriașe de sare de mare și colorează apa în roz.",
-        "Camargue este un important loc de popas pentru sute de mii de păsări migratoare.",
-        "Calul de Camargue este una dintre cele mai vechi rase de cai din lume.",
-        "Colibele tradiționale cu acoperiș de paie ale gardienilor se numesc 'cabanes'."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "landmark-pont-du-gard-extra",
-    type: "landmark",
-    parent: "FR-OCC",
-    coords: [4.6492, 43.9475],
-    name: { de: "Pont du Gard", hu: "Pont du Gard", ro: "Pont du Gard", en: "Pont du Gard" },
-    description: {
-      de: "Der Pont du Gard ist ein antikes römisches Aquädukt, das den Fluss Gardon überquert. Er ist ein Zeugnis der römischen Ingenieurskunst und UNESCO-Weltkulturerbe.",
-      hu: "A Pont du Gard egy ókori római vízvezeték, amely a Gardon folyót keresztezi. A római mérnöki tudás tanúbizonysága és az UNESCO Világörökség része.",
-      ro: "Pont du Gard este un apeduct roman antic care traversează râul Gardon. Este o mărturie a ingineriei romane și un sit al Patrimoniului Mondial UNESCO.",
-      en: "The Pont du Gard is an ancient Roman aqueduct that crosses the Gardon River. It is a testament to Roman engineering and a UNESCO World Heritage site."
-    },
-    descriptionAdvanced: {
-      de: "Der Pont du Gard ist der spektakulärste Teil eines fast 50 Kilometer langen Aquädukts, das die römische Stadt Nîmes (damals Nemausus) mit Wasser versorgte. Dieses Meisterwerk der antiken Baukunst wurde im 1. Jahrhundert n. Chr. in nur etwa fünf Jahren errichtet. Die Brücke besteht aus drei Ebenen von Arkaden, die sich auf eine Höhe von fast 49 Metern erheben. Sie wurde aus präzise geschnittenen Steinblöcken ohne Mörtel gebaut; einige der Blöcke wiegen bis zu sechs Tonnen. Das Gefälle des gesamten Aquädukts beträgt nur 12,6 Meter auf 50 Kilometern, was die unglaubliche Präzision der römischen Ingenieure beweist. Nach dem Ende des Römischen Reiches wurde die Brücke jahrhundertelang als mautpflichtige Straßenbrücke genutzt, was zu ihrem Erhalt beitrug. Heute ist sie ein UNESCO-Weltkulturerbe.",
-      hu: "",
-      ro: "Pont du Gard este cea mai spectaculoasă secțiune a unui apeduct de aproape 50 km care alimenta cu apă orașul roman Nîmes. O capodoperă a ingineriei antice, a fost construit în secolul I d.Hr. în aproximativ cinci ani. Podul are trei niveluri de arcade, atingând aproape 49 de metri înălțime. A fost construit din blocuri de piatră tăiate cu precizie, fără mortar, unele cântărind până la șase tone. Panta întregului apeduct este de doar 12,6 metri pe 50 km, o dovadă a preciziei inginerilor romani. A supraviețuit ca pod rutier cu taxă după căderea Imperiului Roman, ceea ce a contribuit la conservarea sa.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Das Aquädukt transportierte täglich etwa 40.000 Kubikmeter Wasser nach Nîmes.",
-        "Die Brücke wurde aus lokalem, gelblichem Kalkstein gebaut.",
-        "An den Pfeilern sind noch Markierungen und Inschriften der Erbauer zu sehen.",
-        "Die oberen Bögen sind schmaler als die unteren, um die Stabilität zu gewährleisten.",
-        "Der Pont du Gard ist eines der meistbesuchten antiken Monumente Frankreichs.",
-        "Im 18. Jahrhundert wurde eine Straßenbrücke direkt neben der unteren Bogenreihe angebaut.",
-        "Der Fluss Gardon kann nach starken Regenfällen zu einem reißenden Strom anschwellen, aber die Brücke hat allen Hochwassern standgehalten."
-      ],
-      hu: [],
-      ro: [
-        "Apeductul transporta zilnic aproximativ 40.000 de metri cubi de apă către Nîmes.",
-        "Podul a fost construit din calcar local de culoare gălbuie.",
-        "Pe piloni se pot vedea încă semne și inscripții lăsate de constructori.",
-        "Arcurile superioare sunt mai înguste decât cele inferioare pentru a asigura stabilitatea.",
-        "Pont du Gard este unul dintre cele mai vizitate monumente antice din Franța.",
-        "În secolul al XVIII-lea, un pod rutier a fost adăugat lângă primul nivel de arcuri.",
-        "Râul Gardon poate avea viituri puternice, dar podul a rezistat tuturor inundațiilor de-a lungul secolelor."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "historical-carnac-stones-extra",
-    type: "historical",
-    parent: "FR-BRE",
-    coords: [-3.0583, 47.5847],
-    name: { de: "Steinreihen von Carnac", hu: "Carnaci kősorok", ro: "Aliniamentele de la Carnac", en: "Carnac Stones" },
-    description: {
-      de: "Die Steinreihen von Carnac in der Bretagne sind die größte Ansammlung megalithischer Steine der Welt, deren Zweck bis heute ein Rätsel ist.",
-      hu: "A bretagne-i Carnaci kősorok a világ legnagyobb megalitikus kőegyüttese, melynek célja máig rejtély.",
-      ro: "Aliniamentele de la Carnac din Bretania reprezintă cea mai mare colecție de pietre megalitice din lume, al căror scop rămâne un mister.",
-      en: "The Carnac stones in Brittany are the largest collection of megalithic stones in the world, whose purpose remains a mystery to this day."
-    },
-    descriptionAdvanced: {
-      de: "Die Steinreihen von Carnac stellen eine der außergewöhnlichsten prähistorischen Stätten der Welt dar. Über mehrere Kilometer erstrecken sich Tausende von Menhiren (aufrecht stehende Steine), die in langen Reihen angeordnet sind. Die größten Anlagen sind Le Ménec, Kermario und Kerlescan. Die Steine wurden während des Neolithikums über einen langen Zeitraum errichtet, beginnend um 4500 v. Chr. Ihr genauer Zweck ist unbekannt, aber Theorien reichen von religiösen oder zeremoniellen Funktionen bis hin zu einem komplexen astronomischen Kalender. Neben den Reihen gibt es auch Dolmen (Steingräber) und einzelne, riesige Menhire wie den 'Géant du Manio'. Die schiere Größe und das Alter der Anlage zeugen von einer hoch organisierten prähistorischen Gesellschaft. Die Legende besagt, dass die Steine eine versteinerte römische Legion sind, die vom Zauberer Merlin verwandelt wurde.",
-      hu: "",
-      ro: "Aliniamentele de la Carnac sunt unul dintre cele mai extraordinare situri preistorice din lume. Pe câțiva kilometri se întind mii de menhire (pietre verticale) aranjate în rânduri lungi, cele mai mari ansambluri fiind Le Ménec, Kermario și Kerlescan. Pietrele au fost ridicate în perioada neolitică, începând cu aproximativ 4500 î.Hr. Scopul lor exact este necunoscut, teoriile variind de la funcții religioase la un calendar astronomic complex. Pe lângă aliniamente, există și dolmene (morminte megalitice) și menhire gigantice. Dimensiunea și vechimea sitului atestă o societate preistorică foarte organizată. Legenda locală spune că pietrele sunt o legiune romană transformată în piatră de vrăjitorul Merlin.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die Kermario-Reihen enthalten die größten Steine, einige sind über 6 Meter hoch.",
-        "Die Reihen sind im Allgemeinen von West nach Ost ausgerichtet und nach Größe sortiert.",
-        "Die Anlage von Carnac ist älter als Stonehenge oder die ägyptischen Pyramiden.",
-        "Das 'Maison des Mégalithes' am Eingang bietet Informationen und einen Überblick über die Stätte.",
-        "Viele Steine wurden im Laufe der Jahrhunderte entfernt und für den Bau von Häusern verwendet.",
-        "Während der Hauptsaison sind einige Bereiche nur mit Führung zugänglich, um die Stätte zu schützen.",
-        "Die Steinreihen sind Teil eines größeren megalithischen Komplexes, der sich über die gesamte Region erstreckt."
-      ],
-      hu: [],
-      ro: [
-        "Aliniamentul Kermario conține cele mai mari pietre, unele având peste 6 metri înălțime.",
-        "Rândurile sunt în general orientate de la vest la est și sortate după mărime.",
-        "Situl de la Carnac este mai vechi decât Stonehenge sau piramidele egiptene.",
-        "'Maison des Mégalithes' de la intrare oferă informații despre sit.",
-        "Multe pietre au fost luate de-a lungul secolelor pentru a fi folosite la construcții.",
-        "În sezonul de vârf, unele zone sunt accesibile doar cu ghid pentru a proteja situl.",
-        "Aliniamentele fac parte dintr-un complex megalitic mai mare, care se întinde în întreaga regiune."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "city-avignon-extra",
-    type: "city",
-    parent: "FR-PAC",
-    coords: [4.8056, 43.9493],
-    name: { de: "Avignon", hu: "Avignon", ro: "Avignon", en: "Avignon" },
-    description: {
-      de: "Avignon ist berühmt für den Papstpalast, in dem die Päpste im 14. Jahrhundert residierten. Die Brücke von Avignon, Pont Saint-Bénézet, ist ebenfalls weltberühmt.",
-      hu: "Avignon a Pápai palotáról híres, ahol a 14. században a pápák székeltek. Az avignoni híd, a Pont Saint-Bénézet, szintén világhírű.",
-      ro: "Avignon este renumit pentru Palatul Papilor, unde au locuit papii în secolul al XIV-lea. Podul din Avignon, Pont Saint-Bénézet, este de asemenea faimos în întreaga lume.",
-      en: "Avignon is famous for the Palais des Papes (Palace of the Popes), where the Popes resided in the 14th century. The Pont d'Avignon (Pont Saint-Bénézet) is also world-famous."
-    },
-    facts: {
-      de: ["Historisches Zentrum ist UNESCO-Weltkulturerbe.", "Jährliches Theaterfestival im Juli.", "Berühmtes Lied 'Sur le Pont d'Avignon'."],
-      hu: ["Történelmi központja az UNESCO Világörökség része.", "Évenkénti színházi fesztivál júliusban.", "Híres dal: 'Sur le Pont d'Avignon'."],
-      ro: ["Centrul istoric este un sit al Patrimoniului Mondial UNESCO.", "Festival anual de teatru în iulie.", "Cântecul faimos 'Sur le Pont d'Avignon'."],
-      en: ["Historic center is a UNESCO World Heritage site.", "Annual theatre festival in July.", "Famous song 'Sur le Pont d'Avignon'."]
-    },
-    descriptionAdvanced: {
-      de: "Avignon, die Stadt der Päpste, war im 14. Jahrhundert das Zentrum der Christenheit. Der Papstpalast (Palais des Papes), der größte gotische Palast Europas, dominiert die Stadt und zeugt von dieser Blütezeit. Er ist eine Festung und ein Palast zugleich. Das historische Zentrum, umgeben von einer beeindruckenden mittelalterlichen Stadtmauer, ist zusammen mit dem Palast und der berühmten Brücke Pont Saint-Bénézet UNESCO-Weltkulturerbe. Die Brücke, die durch ein Kinderlied weltberühmt wurde, ist nur noch eine Ruine mit vier verbliebenen Bögen. Jedes Jahr im Juli verwandelt sich Avignon in eine riesige Theaterbühne, wenn das Festival d'Avignon, eines der größten Theaterfestivals der Welt, stattfindet. Die Stadt verbindet ihre monumentale Geschichte mit der lebendigen Kultur der Provence.",
-      hu: "",
-      ro: "Avignon, orașul papilor, a fost centrul creștinătății în secolul al XIV-lea. Palatul Papilor, cel mai mare palat gotic din Europa, domină orașul și este o mărturie a acestei perioade de glorie, fiind atât fortăreață, cât și palat. Centrul istoric, înconjurat de un zid medieval impresionant, este inclus în patrimoniul UNESCO, alături de palat și de faimosul pod Saint-Bénézet. Podul, o ruină cu doar patru arcade, a devenit celebru datorită unui cântec pentru copii. În fiecare iulie, Avignon devine o scenă imensă de teatru, găzduind Festivalul de la Avignon, unul dintre cele mai mari din lume, îmbinând astfel istoria monumentală cu cultura vibrantă a Provenței.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Neun Päpste residierten im 14. Jahrhundert in Avignon.",
-        "Die Stadtmauern sind 4,3 Kilometer lang und haben sieben Haupttore.",
-        "Der Rocher des Doms, ein Park oberhalb des Papstpalastes, bietet eine fantastische Aussicht.",
-        "Das Festival d'Avignon wurde 1947 von Jean Vilar gegründet.",
-        "Das Lied 'Sur le Pont d'Avignon' bezieht sich eigentlich darauf, dass 'unter' (sous) der Brücke getanzt wurde, nicht 'auf' (sur) ihr.",
-        "Das Musée du Petit Palais beherbergt eine bedeutende Sammlung mittelalterlicher und Renaissance-Malerei.",
-        "Avignon ist ein Zentrum des Weinanbaugebiets Côtes du Rhône."
-      ],
-      hu: [],
-      ro: [
-        "Nouă papi au locuit la Avignon în secolul al XIV-lea.",
-        "Zidurile orașului au o lungime de 4,3 kilometri și șapte porți principale.",
-        "Parcul Rocher des Doms, deasupra Palatului Papilor, oferă o priveliște fantastică.",
-        "Festivalul de la Avignon a fost fondat în 1947 de Jean Vilar.",
-        "Cântecul 'Sur le Pont d'Avignon' se referă de fapt la dansurile care aveau loc 'sub' (sous) pod, nu 'pe' (sur) el.",
-        "Musée du Petit Palais găzduiește o importantă colecție de pictură medievală și renascentistă.",
-        "Avignon este un centru al regiunii viticole Côtes du Rhône."
-      ],
-      en: []
-    }
-  },
+
+
+
+
+
   {
     id: "lake-lake-geneva-extra",
     type: "lake",
@@ -867,47 +455,7 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "city-dijon-extra",
-    type: "city",
-    parent: "FR-BFC",
-    coords: [5.0415, 47.3220],
-    name: { de: "Dijon", hu: "Dijon", ro: "Dijon", en: "Dijon" },
-    description: {
-      de: "Dijon, die Hauptstadt von Burgund, ist berühmt für ihren Senf, den Kir-Cocktail und ihre reiche Geschichte als Sitz der Herzöge von Burgund.",
-      hu: "Dijon, Burgundia fővárosa, híres a mustárjáról, a Kir koktélról és gazdag történelméről, mint a burgundi hercegek székhelye.",
-      ro: "Dijon, capitala Burgundiei, este renumit pentru muștarul său, cocktailul Kir și istoria sa bogată ca sediu al ducilor de Burgundia.",
-      en: "Dijon, the capital of Burgundy, is famous for its mustard, the Kir cocktail, and its rich history as the seat of the Dukes of Burgundy."
-    },
-    descriptionAdvanced: {
-      de: "Dijon, die historische Hauptstadt des Herzogtums Burgund, ist eine Stadt von außergewöhnlichem Reichtum an Kunst und Geschichte. Das gut erhaltene historische Zentrum mit seinen prächtigen Fachwerkhäusern und Stadtpalästen zeugt von der Macht der burgundischen Herzöge im Spätmittelalter. Der Palast der Herzöge und der Stände von Burgund ist das Herz der Stadt und beherbergt heute das Rathaus und das Musée des Beaux-Arts, eines der ältesten und wichtigsten Kunstmuseen Frankreichs. Ein Wahrzeichen Dijons ist die kleine Eule (Chouette), eine steinerne Skulptur an der Kirche Notre-Dame, die Glück bringen soll, wenn man sie mit der linken Hand berührt. Kulinarisch ist Dijon weltweit für seinen scharfen Senf bekannt, aber auch für Lebkuchen (Pain d'épices) und den Aperitif 'Kir', der hier erfunden wurde.",
-      hu: "",
-      ro: "Dijon, capitala istorică a Ducatului de Burgundia, este un oraș cu o bogăție artistică și istorică excepțională. Centrul său istoric bine conservat, cu case cu grinzi de lemn și palate urbane, atestă puterea ducilor de Burgundia. Palatul Ducilor este inima orașului, găzduind primăria și Muzeul de Arte Frumoase, unul dintre cele mai importante din Franța. Un simbol al orașului este mica bufniță (Chouette) de pe Biserica Notre-Dame, despre care se spune că aduce noroc dacă este atinsă cu mâna stângă. Pe plan culinar, Dijon este renumit mondial pentru muștarul său, dar și pentru turta dulce (pain d'épices) și aperitivul 'Kir', inventat aici.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Das historische Zentrum von Dijon wurde 2015 zum UNESCO-Weltkulturerbe erklärt.",
-        "Der 'Parcours de la Chouette' (Eulen-Weg) führt Besucher zu den 22 wichtigsten Sehenswürdigkeiten.",
-        "Der Philipp-der-Gute-Turm (Tour Philippe le Bon) im Herzogspalast bietet einen Panoramablick über die Stadt.",
-        "Die Gräber der Herzöge Philipp des Kühnen und Johann Ohnefurcht im Museum sind Meisterwerke der burgundischen Bildhauerei.",
-        "Gustave Eiffel, der Erbauer des Eiffelturms, wurde in Dijon geboren.",
-        "Die Cité Internationale de la Gastronomie et du Vin feiert die französische Ess- und Weinkultur.",
-        "Dijon liegt am Anfang der berühmten Weinstraße 'Route des Grands Crus'."
-      ],
-      hu: [],
-      ro: [
-        "Centrul istoric al orașului Dijon a fost inclus în Patrimoniul Mondial UNESCO în 2015.",
-        "'Parcursul Bufniței' (Parcours de la Chouette) ghidează vizitatorii către 22 de atracții principale.",
-        "Turnul Philippe le Bon din Palatul Ducal oferă o vedere panoramică asupra orașului.",
-        "Mormintele ducilor Filip cel Îndrăzneț și Ioan fără Frică sunt capodopere ale sculpturii burgunde.",
-        "Gustave Eiffel, constructorul Turnului Eiffel, s-a născut la Dijon.",
-        "Cité Internationale de la Gastronomie et du Vin celebrează cultura culinară franceză.",
-        "Dijon este punctul de plecare pentru faimosul 'Drum al Marilor Vinuri' (Route des Grands Crus)."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "castle-chateau-haut-koenigsbourg-extra",
     type: "castle",
@@ -1031,47 +579,7 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "historical-omaha-beach-extra",
-    type: "historical",
-    parent: "FR-NOR",
-    coords: [-0.8803, 49.3711],
-    name: { de: "Omaha Beach", hu: "Omaha part", ro: "Plaja Omaha", en: "Omaha Beach" },
-    description: {
-      de: "Omaha Beach war einer der fünf Landungsabschnitte der Alliierten in der Normandie am D-Day, dem 6. Juni 1944. Es war der Ort der intensivsten Kämpfe.",
-      hu: "Az Omaha part egyike volt az öt szövetséges partraszállási zónának Normandiában a D-napon, 1944. június 6-án. Itt zajlottak a leghevesebb harcok.",
-      ro: "Plaja Omaha a fost una dintre cele cinci sectoare de debarcare ale Aliaților în Normandia în Ziua Z, 6 iunie 1944. A fost locul celor mai intense lupte.",
-      en: "Omaha Beach was one of the five Allied landing sectors in Normandy on D-Day, June 6, 1944. It was the site of the most intense fighting."
-    },
-    descriptionAdvanced: {
-      de: "Omaha Beach ist ein Ort von tiefgreifender historischer Bedeutung. An diesem 8 Kilometer langen Strandabschnitt erlitten die amerikanischen Streitkräfte am D-Day, dem 6. Juni 1944, die schwersten Verluste. Aufgrund der starken deutschen Verteidigungsanlagen, des schwierigen Geländes und unvorhergesehener Probleme wurde die Landung zu einem blutigen Kampf, der dem Strand den Spitznamen 'Bloody Omaha' einbrachte. Trotz der immensen Schwierigkeiten gelang es den Soldaten, bis zum Ende des Tages einen kleinen Brückenkopf zu errichten. Oberhalb des Strandes befindet sich der Normandy American Cemetery and Memorial in Colleville-sur-Mer, wo fast 9.400 weiße Marmorkreuze und Davidsterne an die gefallenen Soldaten erinnern. Der Besuch von Omaha Beach ist eine bewegende Erfahrung, die an den Preis der Freiheit erinnert.",
-      hu: "",
-      ro: "Plaja Omaha are o semnificație istorică profundă. Pe această fâșie de 8 km, forțele americane au suferit cele mai grele pierderi în Ziua Z, 6 iunie 1944. Din cauza apărării germane puternice și a terenului dificil, debarcarea s-a transformat într-o luptă sângeroasă, aducându-i plajei porecla 'Bloody Omaha'. Cu toate dificultățile, soldații au reușit să stabilească un mic cap de pod până la sfârșitul zilei. Deasupra plajei se află Cimitirul și Memorialul American din Normandia la Colleville-sur-Mer, unde aproape 9.400 de cruci albe de marmură amintesc de soldații căzuți. O vizită aici este o experiență emoționantă, un memento al prețului libertății.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die US-Truppen erlitten am D-Day allein an Omaha Beach etwa 2.400 Verluste.",
-        "Die deutschen Verteidiger waren erfahrene Truppen der 352. Infanteriedivision.",
-        "Viele Panzer gingen verloren, als sie von den Landungsbooten direkt in tiefes Wasser fuhren.",
-        "Das Denkmal 'Les Braves' am Strand ehrt die Soldaten, die hier gelandet sind.",
-        "Pointe du Hoc, westlich von Omaha, war der Schauplatz eines wagemutigen Ranger-Angriffs zur Zerstörung deutscher Geschütze.",
-        "Der Strand war Teil des Atlantikwalls, Hitlers Verteidigungssystem entlang der Küste.",
-        "Der Film 'Der Soldat James Ryan' beginnt mit einer erschütternd realistischen Darstellung der Landung an Omaha Beach."
-      ],
-      hu: [],
-      ro: [
-        "Trupele americane au suferit aproximativ 2.400 de victime doar pe plaja Omaha în Ziua Z.",
-        "Apărătorii germani erau trupe experimentate din Divizia 352 Infanterie.",
-        "Multe tancuri au fost pierdute când au ieșit din ambarcațiunile de debarcare direct în apă adâncă.",
-        "Monumentul 'Les Braves' de pe plajă onorează soldații care au debarcat aici.",
-        "Pointe du Hoc, la vest de Omaha, a fost scena unui atac îndrăzneț al Rangerilor pentru a distruge tunurile germane.",
-        "Plaja făcea parte din Zidul Atlanticului, sistemul de apărare al lui Hitler de-a lungul coastei.",
-        "Filmul 'Salvați soldatul Ryan' începe cu o prezentare extrem de realistă a debarcării de pe Omaha."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "animal-habitat-zoo-de-beauval-extra",
     type: "animal-habitat",
@@ -1236,47 +744,7 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "castle-chateau-de-chenonceau-extra",
-    type: "castle",
-    parent: "FR-CVL",
-    coords: [1.0665, 47.3249],
-    name: { de: "Schloss Chenonceau", hu: "Chenonceau-i kastély", ro: "Castelul Chenonceau", en: "Château de Chenonceau" },
-    description: {
-      de: "Das Schloss Chenonceau, auch bekannt als das 'Damenschloss', ist berühmt für seine elegante Bogenbrücke über den Fluss Cher.",
-      hu: "A Chenonceau-i kastély, más néven a 'Hölgyek kastélya', híres a Cher folyó felett átívelő elegáns hídjáról.",
-      ro: "Castelul Chenonceau, cunoscut și sub numele de 'Castelul Doamnelor', este renumit pentru podul său elegant cu arcade peste râul Cher.",
-      en: "Château de Chenonceau, also known as the 'Ladies' Château', is famous for its elegant arched bridge spanning the River Cher."
-    },
-    descriptionAdvanced: {
-      de: "Das Schloss Chenonceau ist eines der elegantesten und einzigartigsten Schlösser des Loiretals. Seine Geschichte ist untrennbar mit den einflussreichen Frauen verbunden, die es besaßen und gestalteten, was ihm den Spitznamen 'Château des Dames' (Schloss der Damen) einbrachte. Diane de Poitiers, die Mätresse von König Heinrich II., ließ die berühmte Bogenbrücke über den Fluss Cher errichten. Nach dem Tod des Königs zwang seine Witwe, Katharina von Medici, Diane zum Tausch gegen ein anderes Schloss und ließ auf der Brücke eine zweistöckige Galerie erbauen. Diese Galerie, die den Fluss überspannt, ist das markanteste Merkmal des Schlosses. Umgeben von prächtigen Gärten, die jeweils den Stil von Diane de Poitiers und Katharina von Medici widerspiegeln, bietet das Schloss eine harmonische Verbindung von Architektur und Natur.",
-      hu: "",
-      ro: "Castelul Chenonceau este unul dintre cele mai elegante și unice castele de pe Valea Loarei. Istoria sa este legată de femeile influente care l-au deținut și modelat, primind porecla 'Castelul Doamnelor'. Diane de Poitiers, amanta regelui Henric al II-lea, a construit faimosul pod peste râul Cher. Văduva regelui, Caterina de' Medici, a adăugat ulterior o galerie cu două etaje pe pod, creând o imagine emblematică. Galeria care se întinde peste râu este cea mai distinctivă trăsătură a castelului. Înconjurat de grădini magnifice care reflectă stilurile lui Diane de Poitiers și Caterinei de' Medici, castelul oferă o combinație armonioasă de arhitectură și natură.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Während des Ersten Weltkriegs diente die Galerie als Lazarett.",
-        "Im Zweiten Weltkrieg markierte der Fluss Cher die Demarkationslinie; die Galerie ermöglichte vielen Menschen die Flucht in die freie Zone.",
-        "Das Schloss ist bis heute in Privatbesitz (Familie Menier, bekannt durch Schokolade).",
-        "Die Küchen im Untergeschoss der Brückenpfeiler sind außergewöhnlich gut erhalten.",
-        "Chenonceau besitzt eine bemerkenswerte Sammlung von Gemälden Alter Meister.",
-        "Ein Blumenatelier versorgt das Schloss das ganze Jahr über mit frischen, aufwendigen Blumenarrangements.",
-        "Ein Irrgarten im Stil der Renaissance wurde auf dem Gelände nachgebildet."
-      ],
-      hu: [],
-      ro: [
-        "În timpul Primului Război Mondial, galeria a servit drept spital militar.",
-        "În Al Doilea Război Mondial, râul Cher era linia de demarcație; galeria a permis multora să evadeze în zona liberă.",
-        "Castelul este încă proprietate privată (familia Menier, cunoscută pentru ciocolată).",
-        "Bucătăriile din subsolul pilonilor podului sunt excepțional de bine conservate.",
-        "Chenonceau deține o colecție remarcabilă de picturi ale maeștrilor vechi.",
-        "Un atelier floral asigură aranjamente proaspete și elaborate în tot castelul, pe tot parcursul anului.",
-        "Un labirint în stil renascentist a fost recreat pe domeniu."
-      ],
-      en: []
-    }
-  },
+
   {
     id: "sea-etretat-cliffs-extra",
     type: "sea",
@@ -1359,88 +827,8 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "mountain-pyrenees-np-extra",
-    type: "mountain",
-    parent: "FR-OCC",
-    coords: [-0.0833, 42.8333],
-    name: { de: "Nationalpark Pyrenäen", hu: "Pireneusok Nemzeti Park", ro: "Parcul Național Pirinei", en: "Pyrenees National Park" },
-    description: {
-      de: "Der Nationalpark Pyrenäen erstreckt sich entlang der Grenze zu Spanien und bietet spektakuläre Berglandschaften, Seen und Wasserfälle.",
-      hu: "A Pireneusok Nemzeti Park a spanyol határ mentén húzódik, és látványos hegyi tájakat, tavakat és vízeséseket kínál.",
-      ro: "Parcul Național Pirinei se întinde de-a lungul graniței cu Spania și oferă peisaje montane spectaculoase, lacuri și cascade.",
-      en: "The Pyrenees National Park stretches along the border with Spain, offering spectacular mountain landscapes, lakes, and waterfalls."
-    },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Pyrenäen, gegründet 1967, schützt eine der wildesten und unberührtesten Bergregionen Frankreichs. Er erstreckt sich über 100 Kilometer entlang der französisch-spanischen Grenze. Sein Herzstück ist der Cirque de Gavarnie, ein gewaltiger, von Gletschern geformter Felskessel, der von Victor Hugo als 'Kolosseum der Natur' beschrieben wurde. Von seinen Wänden stürzt die Grande Cascade, der höchste Wasserfall auf dem französischen Festland. Der Park beherbergt eine reiche Artenvielfalt, darunter endemische Arten wie die Pyrenäen-Gämse (Isard) und den Pyrenäen-Gebirgsmolch. Erfolgreiche Wiederansiedlungsprogramme haben dazu geführt, dass Bartgeier und Steinböcke wieder in den Bergen heimisch sind. Der Park bietet unzählige Möglichkeiten für Wanderer, von einfachen Spaziergängen bis hin zu anspruchsvollen Hochgebirgstouren auf dem Fernwanderweg GR 10.",
-      hu: "",
-      ro: "Parcul Național Pirinei, fondat în 1967, protejează una dintre cele mai sălbatice regiuni montane din Franța, de-a lungul a 100 km la granița cu Spania. Piesa sa centrală este Cirque de Gavarnie, un circ glaciar imens, descris de Victor Hugo ca 'Colosseumul naturii', de pe ale cărui pereți cade Grande Cascade, cea mai înaltă cascadă din Franța continentală. Parcul are o biodiversitate bogată, incluzând specii endemice precum capra neagră pireneană (isard). Programe de reintroducere au adus înapoi zăganul și ibexul. Parcul oferă nenumărate opțiuni pentru drumeții, de la plimbări ușoare la trasee alpine pe ruta GR 10.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Der Vignemale ist mit 3.298 Metern der höchste Gipfel in den französischen Pyrenäen.",
-        "Der Park bildet zusammen mit dem spanischen Nationalpark Ordesa y Monte Perdido ein UNESCO-Weltkulturerbe.",
-        "Der Pont d'Espagne mit seinen Wasserfällen ist einer der meistbesuchten Orte im Park.",
-        "Im Park gibt es über 200 Bergseen (Lacs).",
-        "Der Braunbär wurde in den Pyrenäen ebenfalls wieder angesiedelt.",
-        "Die Parkregeln sind streng, um die Natur zu schützen; Hunde sind in der Kernzone nicht erlaubt.",
-        "Die 'Brèche de Roland' ist eine markante, 40 Meter breite Lücke im Gebirgskamm an der Grenze zu Spanien."
-      ],
-      hu: [],
-      ro: [
-        "Vignemale, cu 3.298 de metri, este cel mai înalt vârf din Pirineii francezi.",
-        "Parcul, împreună cu parcul spaniol Ordesa y Monte Perdido, formează un sit al Patrimoniului Mondial UNESCO.",
-        "Pont d'Espagne, cu cascadele sale, este unul dintre cele mai vizitate locuri din parc.",
-        "În parc există peste 200 de lacuri montane (lacs).",
-        "Ursul brun a fost, de asemenea, reintrodus cu succes în Pirinei.",
-        "Regulile parcului sunt stricte pentru a proteja natura; câinii sunt interziși în zona centrală.",
-        "Brèche de Roland este o breșă proeminentă, de 40 de metri lățime, în creasta montană de la granița cu Spania."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "city-aix-en-provence-extra",
-    type: "city",
-    parent: "FR-PAC",
-    coords: [5.4474, 43.5297],
-    name: { de: "Aix-en-Provence", hu: "Aix-en-Provence", ro: "Aix-en-Provence", en: "Aix-en-Provence" },
-    description: {
-      de: "Aix-en-Provence ist eine elegante Stadt, die für ihre von Platanen gesäumte Allee Cours Mirabeau, ihre Brunnen und als Geburtsort des Malers Paul Cézanne bekannt ist.",
-      hu: "Aix-en-Provence egy elegáns város, amely a platánfákkal szegélyezett Cours Mirabeau sétányáról, szökőkútjairól és a festő, Paul Cézanne szülőhelyeként ismert.",
-      ro: "Aix-en-Provence este un oraș elegant, cunoscut pentru bulevardul său mărginit de platani, Cours Mirabeau, fântânile sale și ca loc de naștere al pictorului Paul Cézanne.",
-      en: "Aix-en-Provence is an elegant city known for its plane tree-lined boulevard, Cours Mirabeau, its fountains, and as the birthplace of the painter Paul Cézanne."
-    },
-    descriptionAdvanced: {
-      de: "Aix-en-Provence, oft einfach als 'Aix' bezeichnet, ist die historische Hauptstadt der Provence und strahlt eine kultivierte, bürgerliche Eleganz aus. Die Stadt ist bekannt für ihre von Platanen beschattete Prachtstraße, den Cours Mirabeau, gesäumt von Cafés und eleganten Stadthäusern. Aix wird oft als 'Stadt der tausend Brunnen' bezeichnet, die an fast jeder Ecke plätschern. Die Stadt ist untrennbar mit dem Maler Paul Cézanne verbunden, der hier geboren wurde und dessen Motive, wie der Berg Sainte-Victoire, sein Werk prägten. Besucher können auf den Spuren Cézannes wandeln und sein Atelier besichtigen. Die Altstadt (Vieil Aix) ist ein Labyrinth aus charmanten Gassen, die zu belebten Märkten und eleganten Plätzen führen. Aix ist auch eine renommierte Universitätsstadt und Gastgeber eines international bekannten Opernfestivals.",
-      hu: "",
-      ro: "Aix-en-Provence, adesea numit 'Aix', este capitala istorică a Provenței și emană o eleganță burgheză. Orașul este cunoscut pentru bulevardul său umbrit de platani, Cours Mirabeau, mărginit de cafenele și conace elegante. Aix este numit și 'orașul celor o mie de fântâni', care se găsesc la aproape fiecare colț. Orașul este inseparabil legat de pictorul Paul Cézanne, născut aici; motivele sale, precum Muntele Sainte-Victoire, i-au marcat opera. Vizitatorii pot merge pe urmele lui Cézanne și pot vizita atelierul său. Centrul vechi (Vieil Aix) este un labirint de străzi fermecătoare. Aix este, de asemenea, un renumit oraș universitar și gazda unui festival internațional de operă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Gegründet wurde die Stadt 122 v. Chr. vom römischen Konsul Sextius Calvinus als 'Aquae Sextiae' (Die Wasser des Sextius).",
-        "Die Kathedrale Saint-Sauveur vereint Baustile vom 5. bis zum 18. Jahrhundert.",
-        "Das Musée Granet beherbergt eine bedeutende Kunstsammlung, darunter mehrere Werke von Cézanne.",
-        "Die Calissons d'Aix, eine rautenförmige Süßigkeit aus Mandeln und kandierten Melonen, sind eine lokale Spezialität.",
-        "Der Cours Mirabeau trennt die Altstadt vom neueren Mazarin-Viertel.",
-        "Das 'Hôtel de Caumont' ist ein prächtiges Stadtpalais aus dem 18. Jahrhundert, das heute als Kunstzentrum dient.",
-        "Das Festival d'Aix-en-Provence ist eines der führenden internationalen Festivals für Oper und klassische Musik."
-      ],
-      hu: [],
-      ro: [
-        "Orașul a fost fondat în 122 î.Hr. de consulul roman Sextius Calvinus ca 'Aquae Sextiae' (Apele lui Sextius).",
-        "Catedrala Saint-Sauveur combină stiluri arhitecturale din secolele V-XVIII.",
-        "Musée Granet găzduiește o colecție importantă de artă, inclusiv mai multe lucrări de Cézanne.",
-        "Calissons d'Aix, un dulce în formă de romb din migdale și pepene confiat, este o specialitate locală.",
-        "Cours Mirabeau separă orașul vechi de cartierul mai nou Mazarin.",
-        "'Hôtel de Caumont' este un palat urban din secolul al XVIII-lea, acum un centru de artă.",
-        "Festivalul de la Aix-en-Provence este unul dintre cele mai importante festivaluri internaționale de operă."
-      ],
-      en: []
-    }
-  },
+
+
   {
     id: "historical-lascaux-iv-extra",
     type: "historical",
@@ -1523,86 +911,6 @@ export const poiExtraFranceCities: POI[] = [
       en: []
     }
   },
-  {
-    id: "agriculture-provence-lavender-extra",
-    type: "agriculture",
-    parent: "FR-PAC",
-    coords: [5.923, 43.933],
-    name: { de: "Lavendelfelder der Provence", hu: "Provence-i levendulamezők", ro: "Câmpurile de lavandă din Provence", en: "Lavender Fields of Provence" },
-    description: {
-      de: "Die Lavendelfelder der Provence bieten im Sommer einen atemberaubenden Anblick und Duft. Das Plateau de Valensole ist einer der berühmtesten Orte dafür.",
-      hu: "A provence-i levendulamezők nyáron lélegzetelállító látványt és illatot nyújtanak. A Valensole-fennsík az egyik leghíresebb helyszín.",
-      ro: "Câmpurile de lavandă din Provence oferă o priveliște și un parfum uimitoare în timpul verii. Platoul Valensole este unul dintre cele mai faimoase locuri.",
-      en: "The lavender fields of Provence offer a breathtaking sight and scent in the summer. The Valensole Plateau is one of the most famous spots."
-    },
-    descriptionAdvanced: {
-      de: "Die blühenden Lavendelfelder sind das ikonische Bild der Provence im Sommer. Von Mitte Juni bis Anfang August verwandeln sich weite Teile der Landschaft, insbesondere auf dem Plateau de Valensole und in der Region um Sault, in ein duftendes, violettes Meer. Der Anbau von Lavendel hat hier eine lange Tradition und ist ein wichtiger Wirtschaftszweig. Es werden hauptsächlich zwei Arten angebaut: der 'echte' Lavendel (lavande fine), der in höheren Lagen wächst und für hochwertiges ätherisches Öl verwendet wird, und der ertragreichere Lavandin, eine Hybride, für industrielle Zwecke. Die 'Routes de la Lavande' sind ausgewiesene touristische Straßen, die durch die schönsten Anbaugebiete führen, vorbei an malerischen Dörfern und Destillerien, in denen man den Prozess der Ölgewinnung beobachten kann. Der Anblick der endlosen violetten Reihen unter der provenzalischen Sonne ist ein unvergessliches Erlebnis.",
-      hu: "",
-      ro: "Câmpurile înflorite de lavandă sunt imaginea iconică a Provenței vara. De la mijlocul lunii iunie până la începutul lunii august, zone întinse, în special pe Platoul Valensole și în regiunea Sault, se transformă într-o mare violetă și parfumată. Cultivarea lavandei are o tradiție îndelungată, fiind o ramură economică importantă. Se cultivă în principal două tipuri: lavanda adevărată (lavande fine), pentru uleiuri esențiale de înaltă calitate, și lavandinul, un hibrid mai productiv. 'Rutele Lavandei' sunt drumuri turistice care traversează cele mai frumoase zone de cultivare, pe lângă sate pitorești și distilerii. Priveliștea rândurilor violete sub soarele provensal este de neuitat.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Das Plateau de Valensole ist eines der größten Lavendelanbaugebiete Frankreichs.",
-        "Die Abtei von Sénanque, umgeben von Lavendelfeldern, ist eines der berühmtesten Fotomotive.",
-        "Die Lavendelernte findet traditionell Ende Juli oder Anfang August statt.",
-        "Lavendel wird in der Aromatherapie wegen seiner beruhigenden Wirkung geschätzt.",
-        "Viele Bauernhöfe bieten Führungen und den direkten Verkauf von Lavendelprodukten an.",
-        "Das Lavendelmuseum in Coustellet widmet sich der Geschichte und dem Anbau der Pflanze.",
-        "Lavendelhonig ist eine begehrte lokale Spezialität."
-      ],
-      hu: [],
-      ro: [
-        "Platoul Valensole este una dintre cele mai mari zone de cultivare a lavandei din Franța.",
-        "Abația Sénanque, înconjurată de câmpuri de lavandă, este unul dintre cele mai faimoase subiecte fotografice.",
-        "Recoltarea lavandei are loc în mod tradițional la sfârșitul lunii iulie sau începutul lunii august.",
-        "Lavanda este apreciată în aromaterapie pentru efectul său calmant.",
-        "Multe ferme oferă tururi ghidate și vânzarea directă a produselor din lavandă.",
-        "Muzeul Lavandei din Coustellet este dedicat istoriei și cultivării plantei.",
-        "Mierea de lavandă este o specialitate locală foarte căutată."
-      ],
-      en: []
-    }
-  },
-  {
-    id: "lake-annecy-extra",
-    type: "lake",
-    parent: "FR-ARA",
-    coords: [6.15, 45.85],
-    name: { de: "See von Annecy", hu: "Annecy-tó", ro: "Lacul Annecy", en: "Lake Annecy" },
-    description: {
-      de: "Der See von Annecy gilt als einer der saubersten Seen Europas. Umgeben von Bergen bietet er eine idyllische Kulisse für Wassersport und Erholung.",
-      hu: "Az Annecy-tavat Európa egyik legtisztább tavának tartják. Hegyekkel körülvéve idilli környezetet biztosít a vízi sportokhoz és a pihenéshez.",
-      ro: "Lacul Annecy este considerat unul dintre cele mai curate lacuri din Europa. Înconjurat de munți, oferă un cadru idilic pentru sporturi nautice și recreere.",
-      en: "Lake Annecy is considered one of the cleanest lakes in Europe. Surrounded by mountains, it offers an idyllic setting for water sports and recreation."
-    },
-    descriptionAdvanced: {
-      de: "Der Lac d'Annecy, eingerahmt von den Voralpen, ist berühmt für sein außergewöhnlich sauberes und klares Wasser. Dies ist das Ergebnis strenger Umweltschutzmaßnahmen seit den 1950er Jahren. Das türkisfarbene Wasser erreicht im Sommer Temperaturen von bis zu 24°C und lädt zum Baden an den zahlreichen Stränden ein. Der See ist ein Paradies für Wassersportler, von Segeln und Wasserski bis hin zu Stand-Up-Paddling. Ein 42 Kilometer langer Radweg ('Voie Verte') führt fast vollständig um den See und bietet spektakuläre Ausblicke. Die Stadt Annecy, oft als 'Venedig der Alpen' bezeichnet, bezaubert mit ihren Kanälen, der malerischen Altstadt und dem Palais de l'Isle, einer ehemaligen Gefängnisinsel. Am Horizont thront der Berg La Tournette, der das Panorama des Sees dominiert.",
-      hu: "",
-      ro: "Lacul Annecy, înconjurat de Prealpi, este renumit pentru apa sa excepțional de curată, rezultat al unor măsuri stricte de protecție a mediului din anii 1950. Apa turcoaz atinge vara temperaturi de până la 24°C, perfecte pentru înot. Lacul este un paradis pentru sporturi nautice, de la navigație la stand-up paddling. O pistă de biciclete de 42 km ('Voie Verte') înconjoară aproape complet lacul, oferind priveliști spectaculoase. Orașul Annecy, 'Veneția Alpilor', încântă cu canalele sale, centrul vechi pitoresc și Palais de l'Isle. La orizont, muntele La Tournette domină panorama lacului, creând un peisaj de neuitat.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Der See entstand vor etwa 18.000 Jahren durch das Abschmelzen großer Alpengletscher.",
-        "Der See ist der drittgrößte See Frankreichs, wenn man den französischen Teil des Genfersees nicht mitzählt.",
-        "Das 'Fête du Lac' im August ist eines der größten pyrotechnischen Spektakel in Europa.",
-        "Das Schloss von Annecy (Château d'Annecy), die ehemalige Residenz der Grafen von Genf, überblickt die Stadt.",
-        "Der Pont des Amours (Brücke der Liebenden) am Rande des Sees ist ein beliebter romantischer Ort.",
-        "Gleitschirmflieger starten von den umliegenden Bergen wie dem Col de la Forclaz für Flüge über den See.",
-        "Das Wasser im See erneuert sich vollständig nur alle vier Jahre."
-      ],
-      hu: [],
-      ro: [
-        "Lacul s-a format acum aproximativ 18.000 de ani prin topirea marilor ghețari alpini.",
-        "Este al treilea cel mai mare lac din Franța (fără a include porțiunea franceză a Lacului Geneva).",
-        "'Fête du Lac' din august este unul dintre cele mai mari spectacole pirotehnice din Europa.",
-        "Castelul Annecy, fosta reședință a conților de Geneva, domină orașul.",
-        "Pont des Amours (Podul Iubirii) de la marginea lacului este un loc romantic popular.",
-        "Parapantiștii se lansează de pe munții din jur, precum Col de la Forclaz, pentru a zbura deasupra lacului.",
-        "Apa din lac se reînnoiește complet doar o dată la patru ani."
-      ],
-      en: []
-    }
-  }
+
+
 ];

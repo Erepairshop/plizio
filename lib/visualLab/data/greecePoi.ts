@@ -1131,28 +1131,7 @@ export const greeceNature: POI[] = [
       en: ["UNESCO World Heritage site.", "Located above Sparta.", "An important late-Byzantine center in the 14th and 15th centuries.", "Contains palace and monastery ruins.", "A popular viewpoint in the Taygetus area."]
     },
     image: "/geo-images/greece/historical-mystras.webp",
-  },
-  {
-    id: "historical-olympia",
-    type: "historical",
-    parent: "GR",
-    coords: [21.6330, 37.6380],
-    name: { de: "Olympia", hu: "Olimpia", ro: "Olimpia", en: "Olympia" },
-    description: {
-      de: "Olympia ist der legendäre Geburtsort der antiken Olympischen Spiele. Das Heiligtum am Alpheios-Fluss verbindet Tempelruinen, Sportstätten und ein starkes mythologisches Erbe. Besucher erleben hier einen der wichtigsten Orte der griechischen und europäischen Geschichte. Olympia ist bis heute ein unverwechselbarer Name für Sport, Frieden und kulturelles Gedächtnis.",
-      hu: "Olimpia az ókori olimpiai játékok legendás szülőhelye. Az Alfeiosz folyó melletti szentély templomromokat, sportlétesítMényeket és erős mitikus örökséget kapcsol össze. A látogatók a görög és az európai történelem egyik legfontosabb helyszínét járhatják be. Olimpia ma is a sport, a béke és a kulturális emlékezet jelképe.",
-      ro: "Olimpia este locul legendar al nașterii Jocurilor Olimpice antice. Sanctuarul de pe râul Alfeios îmbină ruine de temple, spații sportive și o moștenire mitologică puternică. Vizitatorii descoperă aici unul dintre cele mai importante locuri din istoria greacă și europeană. Olimpia rămâne un nume definitoriu pentru sport, pace și memorie culturală.",
-      en: "Olympia is the legendary birthplace of the ancient Olympic Games. The sanctuary by the Alfeios River combines temple ruins, athletic grounds, and a powerful mythic legacy. Visitors experience one of the most important sites in Greek and European history. Olympia remains an enduring symbol of sport, peace, and cultural memory."
-    },
-    facts: {
-      de: ["Ort der ersten Olympischen Spiele von 776 v. Chr.", "UNESCO-Welterbe.", "Das Olympische Feuer beginnt hier symbolisch.", "Enthält den Zeustempel und das Stadion.", "Jährliche Fackelzeremonien verbinden Vergangenheit und Gegenwart."],
-      hu: ["Az első olimpiai játékok helyszíne i. e. 776-ban.", "UNESCO-világörökség.", "Itt gyújtják meg szimbolikusan az olimpiai lángot.", "A Zeusz-templom és a stadion is itt található.", "Az éves lángátadó a múltat összeköti a jelennel."],
-      ro: ["Locul primelor Jocuri Olimpice din 776 î.Hr.", "Patrimoniu Mondial UNESCO.", "Aici se aprinde simbolic Focul Olimpic.", "Include templul lui Zeus și stadionul antic.", "Ceremoniile anuale leagă trecutul de prezent."],
-      en: ["Site of the first Olympic Games in 776 BC.", "UNESCO World Heritage site.", "The Olympic flame is symbolically lit here.", "Includes the Temple of Zeus and the ancient stadium.", "Annual torch ceremonies connect past and present."]
-    },
-    image: "/geo-images/greece/historical-olympia.webp",
-  },
-  {
+  },  {
     id: "historical-vergina",
     type: "historical",
     parent: "GR",
@@ -1171,28 +1150,7 @@ export const greeceNature: POI[] = [
       en: ["Ancient capital of Macedonia.", "UNESCO World Heritage site.", "Famous for the royal tombs.", "Artifacts are displayed in the underground museum.", "Strongly linked with Philip II and Alexander the Great."]
     },
     image: "/geo-images/greece/historical-vergina.webp",
-  },
-  {
-    id: "historical-mycenae",
-    type: "historical",
-    parent: "GR",
-    coords: [22.7530, 37.7300],
-    name: { de: "Mykene", hu: "Mikéné", ro: "Micene", en: "Mycenae" },
-    description: {
-      de: "Mykene ist eine der ikonischsten bronzezeitlichen Stätten Griechenlands. Die Festung war das Machtzentrum der mykenischen Zivilisation und ist mit Agamemnon und dem Trojanischen Krieg verbunden. Das Löwentor, die Kuppelgräber und die Zitadelle gehören zu den meistfotografierten Orten des Landes. Mykene ist ein kraftvolles SEO-Thema für antike Herrschaft, Mythos und Archäologie.",
-      hu: "Mikéné Görögország egyik legikonikusabb bronzkori lelőhelye. Az erődítés a mikénei civilizáció hatalmi központja volt, és Agamemnónhoz, valamint a trójai háborúhoz kötik. Az Oroszlán-kapu, a kupolasírok és a fellegvár az ország legfotózottabb pontjai közé tartoznak. Mikéné erős SEO-téma az ókori uralom, a mitosz és az archeológia kapcsán.",
-      ro: "Micene este unul dintre cele mai emblematice situri din epoca bronzului din Grecia. Cetatea a fost centrul de putere al civilizației miceniene și este asociată cu Agamemnon și Războiul Troian. Poarta Leilor, mormintele cu cupolă și citadela se numără printre cele mai fotografiate locuri din țară. Micene este un subiect SEO puternic pentru dominație antică, mit și arheologie.",
-      en: "Mycenae is one of the most iconic Bronze Age sites in Greece. The citadel was the power center of Mycenaean civilization and is linked to Agamemnon and the Trojan War. The Lion Gate, tholos tombs, and citadel are among the country's most photographed places. Mycenae is a strong SEO topic for ancient rule, myth, and archaeology."
-    },
-    facts: {
-      de: ["UNESCO-Welterbe.", "Mit der mykenischen Zivilisation verbunden.", "Berühmt für das Löwentor.", "Agamemnon wird traditionell mit dem Ort assoziiert.", "Lage nahe Argos und Nafplio."],
-      hu: ["UNESCO-világörökség.", "A mikénei civilizációhoz köthető.", "Az Oroszlán-kapu miatt hírís.", "Hagyományosan Agamemnónhoz kapcsolják.", "Argosz és Nafplio közelében van."],
-      ro: ["Patrimoniu Mondial UNESCO.", "Legat de civilizația miceniană.", "Celebru pentru Poarta Leilor.", "Asociat tradițional cu Agamemnon.", "Situat aproape de Argos și Nafplio."],
-      en: ["UNESCO World Heritage site.", "Linked to Mycenaean civilization.", "Famous for the Lion Gate.", "Traditionally associated with Agamemnon.", "Located near Argos and Nafplio."]
-    },
-    image: "/geo-images/greece/historical-mycenae.webp",
-  },
-  {
+  },  {
     id: "historical-marathon",
     type: "historical",
     parent: "GR",

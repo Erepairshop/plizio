@@ -516,26 +516,6 @@ export const polandCities: POI[] = [
     image: "/geo-images/poland/lodz.webp",
   },
   {
-    id: "lublin-city",
-    type: "city",
-    parent: "PL-LU",
-    coords: [22.5684, 51.2465],
-    name: { de: "Lublin", hu: "Lublin", ro: "Lublin", en: "Lublin" },
-    description: {
-      de: "Lublin ist die neuntgrößte Stadt in Polen und die zweitgrößte Stadt des historischen Kleinpolens. Sie ist die Hauptstadt der Woiwodschaft Lublin mit einer Bevölkerung von etwa 338.000 Einwohnern. Im Südosten Polens gelegen, spielte sie eine wichtige Rolle in der Geschichte des Landes. Die Union von Lublin, die die polnisch-litauische Adelsrepublik gründete, wurde hier 1569 unterzeichnet. Heute ist die malerische Altstadt ein wichtiges Touristenziel.",
-      hu: "Lublin Lengyelország kilencedik legnagyobb városa és a történelmi Kis-Lengyelország második legnagyobb városa. A Lublini vajdaság fővárosa és központja, lakossága körülbelül 338 000 fő. Délkelet-Lengyelországban fekszik, és a kereskedelem és diplomácia központjaként jelentős szerepet játszott az ország történelmében. Itt írták alá 1569-ben a lublini uniót. Ma festői óvárosa és gazdag történelme miatt jelentős turisztikai célpont.",
-      ro: "Lublin este al nouălea oraș ca mărime din Polonia și al doilea oraș ca mărime din istorica Polonie Mică. Este capitala și centrul Voievodatului Lublin, cu o populație de aproximativ 338.000 de locuitori. Situat în sud-estul Poloniei, a jucat un rol major în istoria țării. Uniunea de la Lublin, care a stabilit Uniunea Polono-Lituaniană, a fost semnată aici în 1569. Astăzi, Orașul său Vechi pitoresc îl face o destinație turistică proeminentă.",
-      en: "Lublin is the ninth-largest city in Poland and the second-largest city of historical Lesser Poland. It is the capital and the center of Lublin Voivodeship with a population of about 338,000. Located in southeastern Poland, it has played a major role in the country's history as a center of commerce and diplomacy. The Union of Lublin, establishing the Polish-Lithuanian Commonwealth, was signed here in 1569. Today, its picturesque Old Town and rich history make it a prominent tourist destination.",
-    },
-    facts: {
-      de: ["Neuntgrößte Stadt in Polen.", "Größte Stadt im Osten Polens.", "Hauptstadt der Woiwodschaft Lublin.", "Die Union von Lublin wurde 1569 hier unterzeichnet.", "Verfügt über eine gut erhaltene Altstadt.", "Das Lubliner Schloss ist ein wichtiges Wahrzeichen.", "Wichtiges akademisches Zentrum mit mehreren Universitäten.", "Historisch als 'Jüdisches Oxford' bekannt.", "Heimat des Staatlichen Museums Majdanek.", "Bedeutendes kulturelles und wirtschaftliches Zentrum der Region."],
-      hu: ["Lengyelország kilencedik legnagyobb városa.", "Kelet-Lengyelország legnagyobb városa.", "A Lublini vajdaság fővárosa.", "1569-ben itt írták alá a lublini uniót.", "Jól megőrzött óvárossal rendelkezik.", "A lublini vár fontos történelmi műemlék.", "Jelentős akadémiai központ több egyetemmel.", "Történelmileg „zsidó Oxfordként” is ismerték.", "A Majdaneki Állami Múzeum otthona.", "Jelentős kulturális és gazdasági központ a régióban."],
-      ro: ["Al nouălea cel mai mare oraș din Polonia.", "Cel mai mare oraș din estul Poloniei.", "Capitala Voievodatului Lublin.", "Uniunea de la Lublin a fost semnată aici în 1569.", "Are un Centru Vechi bine conservat.", "Castelul Lublin este un reper istoric major.", "Centru academic important, cu mai multe universități.", "Cunoscut istoric sub numele de 'Oxfordul evreiesc'.", "Găzduiește Muzeul de Stat Majdanek.", "Centru cultural și economic semnificativ în regiune."],
-      en: ["Ninth-largest city in Poland.", "Largest city in eastern Poland.", "Capital of Lublin Voivodeship.", "The Union of Lublin was signed here in 1569.", "Features a well-preserved Old Town.", "Lublin Castle is a major historical landmark.", "Important academic center with multiple universities.", "Historically known as the 'Jewish Oxford'.", "Home to the Majdanek State Museum.", "Significant cultural and economic hub in the region."],
-    },
-    image: "/geo-images/poland/lublin.webp",
-  },
-  {
     id: "katowice",
     type: "city",
     parent: "PL-SL",
@@ -896,26 +876,6 @@ export const polandCities: POI[] = [
     image: "/geo-images/poland/stare-miasto-torun.webp",
     },
     {
-    id: "zamosc-city",
-    type: "city",
-    parent: "PL-LU",
-    coords: [23.2525, 50.7171],
-    name: { de: "Zamość", hu: "Zamość", ro: "Zamość", en: "Zamość" },
-    description: {
-      de: "Zamość ist eine historische Stadt im Südosten Polens, die für ihre einzigartige Renaissance-Architektur bekannt ist. Sie wurde im 16. Jahrhundert von einem italienischen Architekten nach den Idealen der Renaissance als \"perfekte Stadt\" entworfen. Die Stadt diente als wichtiger Handelsknotenpunkt und kulturelles Zentrum zwischen West- und Osteuropa. Heute ist Zamość eine lebendige Stadt, die ihr reiches multikulturelles Erbe und ihre historische Bedeutung zelebriert.",
-      hu: "Zamość egy történelmi város Délkelet-Lengyelországban, amely egyedülálló reneszánsz építészetéről ismert. Egy olasz építész tervezte a 16. században, és a reneszánsz eszméknek megfelelő \"tökéletes városként\" fogant. A város Nyugat- és Kelet-Európát összekötő fontos kereskedelmi és kulturális központként működött. Ma Zamość egy nyüzsgő város, amely gazdag multikulturális örökségét és történelmi jelentőségét ünnepli.",
-      ro: "Zamość este un oraș istoric din sud-estul Poloniei, cunoscut pentru arhitectura sa renascentistă unică. Proiectat de un arhitect italian în secolul al XVI-lea, a fost conceput ca un \"oraș perfect\", urmând idealurile Renașterii. Orașul a servit drept centru comercial și cultural major, conectând Europa de Vest cu cea de Est. Astăzi, Zamość este un oraș vibrant care își celebrează moștenirea multiculturală bogată și importanța istorică.",
-      en: "Zamość is a historical city in southeastern Poland known for its unique Renaissance architecture. Designed by an Italian architect in the 16th century, it was conceived as a \"perfect city\" following Renaissance ideals. The city served as a major trading hub and cultural center connecting Western and Eastern Europe. Today, Zamość is a vibrant town that celebrates its rich multicultural heritage and historical significance.",
-    },
-    facts: {
-      de: ["1580 vom polnischen Adligen Jan Zamoyski gegründet.", "Entworfen vom italienischen Architekten Bernardo Morando.", "Oft als \"Padua des Nordens\" oder \"Perle der Renaissance\" bezeichnet.", "Diente als Festungsstadt, die zahlreichen Belagerungen erfolgreich standhielt.", "Wurde zu einem wichtigen Zentrum für Handel, Bildung und Kultur.", "Hatte bis zum Zweiten Weltkrieg eine bedeutende jüdische Gemeinde.", "Veranstaltet ein jährliches Theaterfestival und zahlreiche kulturelle Events.", "Ein wichtiges akademisches Zentrum in der Region während des 16. und 17. Jahrhunderts."],
-      hu: ["1580-ban alapította Jan Zamoyski lengyel nemes.", "Bernardo Morando olasz építész tervezte.", "Gyakran nevezik \"Észak Padovájának\" vagy \"a reneszánsz gyöngyszemének\".", "Erődvárosként szolgált, amely több ostromnak is sikeresen ellenállt.", "A kereskedelem, az oktatás és a kultúra fontos központjává vált.", "A második világháborúig jelentős zsidó közösséggel rendelkezett.", "Évente színházi fesztiválnak és számos kulturális eseménynek ad otthont.", "A régió fontos akadémiai központja volt a 16. és 17. században."],
-      ro: ["Fondat în 1580 de nobilul polonez Jan Zamoyski.", "Proiectat de arhitectul italian Bernardo Morando.", "Adesea numit \"Padova Nordului\" sau \"Perla Renașterii\".", "A servit ca oraș fortăreață care a rezistat cu succes mai multor asedii.", "A devenit un important centru pentru comerț, educație și cultură.", "A avut o comunitate evreiască semnificativă până la al Doilea Război Mondial.", "Găzduiește un festival anual de teatru și numeroase evenimente culturale.", "Un important centru academic din regiune în secolele XVI și XVII."],
-      en: ["Founded in 1580 by the Polish nobleman Jan Zamoyski.", "Designed by the Italian architect Bernardo Morando.", "Often referred to as the \"Padua of the North\" or the \"Pearl of the Renaissance\".", "Served as a fortress city that successfully resisted multiple sieges.", "Became an important center for trade, education, and culture.", "Had a significant Jewish community until World War II.", "Hosts an annual theater festival and numerous cultural events.", "An important academic center in the region during the 16th and 17th centuries."],
-    },
-    image: "/geo-images/poland/zamosc-city.webp",
-    },
-    {
     id: "stare-miasto-zamosc",
     type: "landmark",
     parent: "zamosc-city",
@@ -1074,46 +1034,6 @@ export const polandCities: POI[] = [
       en: ["Established in 1959 in the Sudetes mountain range.", "Shares a border with a similar national park in the Czech Republic.", "Protects unique alpine landscapes and peat bogs.", "Śnieżka is the highest peak in the park at 1603 meters.", "Contains dramatic glacial cirques like Śnieżne Kotły.", "Home to rare plant species surviving from the Ice Age.", "Features beautiful waterfalls such as Kamieńczyk and Szklarka.", "Recognized as a UNESCO biosphere reserve since 1992."],
     },
     image: "/geo-images/poland/karkonosze-np.webp",
-    },
-    {
-    id: "bieszczady-np",
-    type: "landmark",
-    parent: "PL-PK",
-    coords: [22.65, 49.15],
-    name: { de: "Nationalpark Bieszczady", hu: "Bieszczady Nemzeti Park", ro: "Parcul Național Bieszczady", en: "Bieszczady NP" },
-    description: {
-      de: "Der Bieszczady-Nationalpark liegt im äußersten Südosten Polens und grenzt an die Slowakei und die Ukraine. Er ist der drittgrößte Nationalpark des Landes und wurde 1973 gegründet. Der Park ist berühmt für seine einzigartigen „Połoniny“, hochgelegene Bergwiesen, die einen Panoramablick bieten. Er schützt weite Gebiete urtümlicher Buchenwälder und eine vielfältige Tierwelt, darunter Bären, Wölfe und Luchse. Er ist Teil des Biosphärenreservats Ostkarpaten.",
-      hu: "A Bieszczady Nemzeti Park Lengyelország legdélkeletibb részén fekszik, Szlovákiával és Ukrajnával határos. Ez az ország harmadik legnagyobb nemzeti parkja, amelyet 1973-ban alapítottak. A park híres egyedülálló „połoniny”-jairól, amelyek panorámás kilátást nyújtó magashegyi rétek. Hatalmas kiterjedésű ősbükkösöket és változatos vadvilágot véd, beleértve a medvéket, farkasokat és hiúzokat. A Keleti-Kárpátok Bioszféra-rezervátum részét képezi.",
-      ro: "Parcul Național Bieszczady este situat în extremitatea de sud-est a Poloniei, la granița cu Slovacia și Ucraina. Este al treilea parc național ca mărime din țară, înființat în 1973. Parcul este renumit pentru „połoniny”-urile sale unice, care sunt pajiști de înaltă altitudine ce oferă vederi panoramice. Protejează suprafețe întinse de păduri virgine de fag și o faună diversă, inclusiv urși, lupi și râși. Face parte din Rezervația Biosferei Carpații Orientali.",
-      en: "Bieszczady National Park is located in the extreme southeast of Poland, bordering Slovakia and Ukraine. It is the third largest national park in the country, established in 1973. The park is famous for its unique \"połoniny\", which are high mountain meadows providing panoramic views. It protects large areas of primeval beech forests and a diverse range of wildlife, including bears, wolves, and lynxes. It forms part of the East Carpathian Biosphere Reserve.",
-    },
-    facts: {
-      de: ["Liegt im südöstlichen Zipfel Polens.", "1973 gegründet und seither mehrfach erweitert.", "Bekannt für seine charakteristischen „Połoniny“ oder alpinen Wiesen.", "Schützt riesige Gebiete natürlicher Buchenurwälder.", "Heimat großer Raubtiere wie Braunbären, Wölfe und Eurasische Luchse.", "Teil des UNESCO-Biosphärenreservats Ostkarpaten.", "Der höchste Gipfel innerhalb des Parks ist die Tarnica mit 1346 Metern.", "Bietet einige der am dünnsten besiedelten und wildesten Landschaften Europas."],
-      hu: ["Lengyelország délkeleti sarkában található.", "1973-ban alapították, és azóta többször bővítették.", "Jellegzetes „połoniny” nevű alpesi rétjeiről ismert.", "Hatalmas, természetes ősbükkösöket véd.", "Olyan nagytestű ragadozóknak ad otthont, mint a barnamedve, a farkas és az eurázsiai hiúz.", "Az UNESCO Keleti-Kárpátok Bioszféra-rezervátumának része.", "A park legmagasabb csúcsa a Tarnica, 1346 méteres magassággal.", "Európa legritkábban lakott és legvadabb tájait kínálja."],
-      ro: ["Situat în colțul de sud-est al Poloniei.", "Înființat în 1973 și extins de mai multe ori de atunci.", "Cunoscut pentru caracteristicile „połoniny” sau pajiștile alpine.", "Protejează suprafețe vaste de păduri naturale virgine de fag.", "Găzduiește prădători mari, precum urșii bruni, lupii și râșii eurasiatici.", "Face parte din Rezervația Biosferei UNESCO Carpații Orientali.", "Cel mai înalt vârf din interiorul parcului este Tarnica, la 1346 de metri.", "Oferă unele dintre cele mai puțin populate și mai sălbatice peisaje din Europa."],
-      en: ["Located in the southeastern corner of Poland.", "Established in 1973 and expanded several times since.", "Known for its characteristic \"połoniny\" or alpine meadows.", "Protects vast areas of natural primeval beech forests.", "Home to large predators like brown bears, wolves, and Eurasian lynxes.", "Part of the UNESCO East Carpathian Biosphere Reserve.", "The highest peak within the park is Tarnica at 1346 meters.", "It offers some of the least populated and wildest landscapes in Europe."],
-    },
-    image: "/geo-images/poland/bieszczady-np.webp",
-    },
-    {
-    id: "morskie-oko",
-    type: "landmark",
-    parent: "PL-MA",
-    coords: [20.08, 49.2],
-    name: { de: "Meerauge", hu: "Morskie Oko", ro: "Morskie Oko", en: "Morskie Oko" },
-    description: {
-      de: "Morskie Oko, was „Meerauge“ bedeutet, ist der größte und vierttiefste See der Tatra und liegt im Süden Polens. Er befindet sich in der Hohen Tatra auf einer Höhe von 1395 Metern über dem Meeresspiegel innerhalb des Tatra-Nationalparks. Umgeben von majestätischen Gipfeln, darunter der Rysy, Polens höchster Berg, ist es eines der beliebtesten Touristenziele des Landes. Der See hat einen natürlichen Forellenbestand und verfügt über kristallklares Wasser. An seinem Moränenufer steht eine historische Berghütte, die Wanderern Schutz bietet.",
-      hu: "A Morskie Oko, azaz a „Tengerszem”, a Tátra legnagyobb és negyedik legmélyebb tava, amely Dél-Lengyelországban található. A Magas-Tátrában, 1395 méteres tengerszint feletti magasságban, a Tátrai Nemzeti Park területén fekszik. Fenséges csúcsok, köztük a Rysy, Lengyelország legmagasabb hegye veszi körül, így az ország egyik legnépszerűbb turisztikai célpontja. A tó kristálytiszta vizű, és természetes pisztrángpopulációval rendelkezik. Morénapartján egy történelmi menedékház áll.",
-      ro: "Morskie Oko, adică „Ochiul Mării”, este cel mai mare și al patrulea cel mai adânc lac din Munții Tatra, situat în sudul Poloniei. Se află în Tatra Înaltă, la o altitudine de 1395 de metri deasupra nivelului mării, în Parcul Național Tatra. Înconjurat de vârfuri maiestuoase, inclusiv Rysy, cel mai înalt munte din Polonia, este una dintre cele mai populare destinații turistice din țară. Lacul este populat natural cu păstrăvi și are ape cristaline.",
-      en: "Morskie Oko, meaning \"Eye of the Sea\", is the largest and fourth deepest lake in the Tatra Mountains, located in southern Poland. It lies in the High Tatras at an elevation of 1395 meters above sea level within the Tatra National Park. Surrounded by majestic peaks, including Rysy, Poland's highest mountain, it is one of the most popular tourist destinations in the country. The lake is naturally stocked with trout and features crystal-clear waters. A historic mountain hut stands on its moraine shore, offering shelter to hikers.",
-    },
-    facts: {
-      de: ["Größter See der Tatra, im Süden Polens gelegen.", "Befindet sich auf einer Höhe von 1395 Metern über dem Meeresspiegel.", "Der Name übersetzt sich als „Meerauge“.", "Umgeben von Gipfeln, die sich über 1000 Meter über die Seeoberfläche erheben.", "Rysy, Polens höchster Gipfel, ist vom See aus sichtbar.", "Ist natürlich mit Forellen besiedelt, was für Tatraseen selten ist.", "Erreichbar über einen beliebten, 9 Kilometer langen, asphaltierten Wanderweg.", "Verfügt über ein historisches Berghaus aus dem Jahr 1908 an seinem Ufer."],
-      hu: ["A Tátra legnagyobb tava, Dél-Lengyelországban található.", "1395 méteres tengerszint feletti magasságban fekszik.", "A neve magyarul „Tengerszemet” jelent.", "Olyan csúcsok veszik körül, amelyek több mint 1000 méterrel emelkednek a tó felszíne fölé.", "Lengyelország legmagasabb csúcsa, a Rysy (Tengerszem-csúcs) is látható a tótól.", "Természetes pisztrángpopuláció él benne, ami ritka a tátrai tavaknál.", "Egy népszerű, 9 kilométeres aszfaltozott túraútvonalon közelíthető meg.", "A partján egy 1908-ban épült történelmi menedékház áll."],
-      ro: ["Cel mai mare lac din Munții Tatra, situat în sudul Poloniei.", "Situat la o altitudine de 1395 de metri deasupra nivelului mării.", "Se traduce prin „Ochiul Mării” în română.", "Înconjurat de vârfuri care se înalță la peste 1000 de metri deasupra suprafeței lacului.", "Rysy, cel mai înalt vârf din Polonia, este vizibil de la lac.", "Populat natural cu păstrăvi, ceea ce este rar pentru lacurile din Tatra.", "Poate fi atins pe un traseu de drumeție asfaltat popular de 9 kilometri.", "Dispune de o cabană montană istorică construită în 1908 pe țărmul său."],
-      en: ["Largest lake in the Tatra Mountains, situated in southern Poland.", "Located at an elevation of 1395 meters above sea level.", "Translates to \"Eye of the Sea\" in English.", "Surrounded by peaks that rise over 1000 meters above the lake's surface.", "Rysy, Poland's highest peak, is visible from the lake.", "Naturally populated with trout, which is rare for Tatra lakes.", "Can be reached by a popular 9-kilometer paved hiking trail.", "Features a historic mountain chalet built in 1908 on its shore."],
-    },
-    image: "/geo-images/poland/morskie-oko.webp",
     },
     {
     id: "slowinski-np",
@@ -1396,46 +1316,6 @@ export const polandCities: POI[] = [
     image: "/geo-images/poland/lublin.webp"
   },
   {
-    id: "pl-katowice",
-    type: "city",
-    parent: "PL-SL",
-    coords: [19.0216, 50.2649],
-    name: { de: "Kattowitz", hu: "Katowice", ro: "Katowice", en: "Katowice" },
-    description: {
-      de: "Kattowitz ist das Herz der industriellen Region Schlesien. Die Stadt hat sich in den letzten Jahren zu einem Zentrum für moderne Architektur und Kultur gewandelt. Die Spodek-Arena ist ein Wahrzeichen der Stadt und Austragungsort für Großveranstaltungen. Kattowitz verbindet sein industrielles Erbe mit moderner Innovation.",
-      hu: "Katowice a sziléziai ipari régió szíve. A város az elmúlt években a modern építészet és kultúra központjává vált. A Spodek aréna a város jelképe és nagy rendezvények helyszíne. Katowice ötvözi ipari örökségét a modern innovációval.",
-      ro: "Katowice este inima regiunii industriale Silezia. Orașul s-a transformat în ultimii ani într-un centru pentru arhitectura și cultura modernă. Arena Spodek este un punct de reper al orașului și locul de desfășurare a unor evenimente majore. Katowice îmbină moștenirea sa industrială cu inovația modernă.",
-      en: "Katowice is the heart of the Silesian industrial region. The city has transformed in recent years into a center for modern architecture and culture. The Spodek Arena is a landmark of the city and host to major events. Katowice blends its industrial heritage with modern innovation."
-    },
-    facts: {
-      de: ["Zentrum der Metropolregion Schlesien.", "Bekannt für die Spodek-Arena.", "Hat ein reiches industrielles Erbe.", "Ausgezeichnet als UNESCO-Musikstadt.", "Standort des Schlesischen Museums.", "Wichtiger Verkehrsknotenpunkt."],
-      hu: ["A sziléziai metropolisz központja.", "Híres a Spodek arénáról.", "Gazdag ipari örökséggel rendelkezik.", "UNESCO zenei városa díjazott.", "A Sziléziai Múzeum helyszíne.", "Fontos közlekedési csomópont."],
-      ro: ["Centrul zonei metropolitane Silezia.", "Cunoscută pentru Arena Spodek.", "Are o bogată moștenire industrială.", "Premiată ca Oraș al Muzicii UNESCO.", "Sediul Muzeului Sileziei.", "Important nod de transport."],
-      en: ["Center of the Silesian metropolis.", "Known for the Spodek Arena.", "Has a rich industrial heritage.", "Awarded UNESCO City of Music.", "Location of the Silesian Museum.", "Important transportation hub."]
-    },
-    image: "/geo-images/poland/katowice.webp"
-  },
-  {
-    id: "pl-czestochowa",
-    type: "city",
-    parent: "PL-SL",
-    coords: [19.1204, 50.8118],
-    name: { de: "Tschenstochau", hu: "Częstochowa", ro: "Częstochowa", en: "Częstochowa" },
-    description: {
-      de: "Tschenstochau ist vor allem als spirituelles Herz Polens bekannt. Das Kloster Jasna Góra zieht jährlich Millionen von Pilgern an, die die Ikone der Schwarzen Madonna verehren. Die Stadt hat auch eine lebhafte industrielle und kulturelle Szene. Tschenstochau ist ein Ort der Geschichte und tiefer religiöser Bedeutung.",
-      hu: "Częstochowa leginkább Lengyelország spirituális központjaként ismert. A Jasna Góra-i kolostor zarándokok millióit vonzza évente, akik a Fekete Madonna ikont tisztelik. A város élénk ipari és kulturális élettel is rendelkezik. Częstochowa a történelem és a mély vallási jelentőség helye.",
-      ro: "Częstochowa este cunoscută în primul rând ca inima spirituală a Poloniei. Mănăstirea Jasna Góra atrage milioane de pelerini anual care venerează icoana Madonei Negre. Orașul are, de asemenea, o scenă industrială și culturală vibrantă. Częstochowa este un loc de istorie și profundă semnificație religioasă.",
-      en: "Częstochowa is best known as the spiritual heart of Poland. The Jasna Góra Monastery attracts millions of pilgrims annually who venerate the icon of the Black Madonna. The city also has a vibrant industrial and cultural scene. Częstochowa is a place of history and deep religious significance."
-    },
-    facts: {
-      de: ["Heimat des Klosters Jasna Góra.", "Wichtigster Pilgerort Polens.", "Besitzt das Gemälde der Schwarzen Madonna.", "Hat starke industrielle Wurzeln.", "Besitzt eine lange Allee in der Innenstadt.", "Zieht jährlich Millionen Besucher an."],
-      hu: ["A Jasna Góra kolostor otthona.", "Lengyelország legfontosabb zarándokhelye.", "A Fekete Madonna festményének őrzője.", "Erős ipari gyökerekkel rendelkezik.", "Hosszú sétálóutcája van a belvárosban.", "Évente látogatók millióit vonzza."],
-      ro: ["Găzduiește mănăstirea Jasna Góra.", "Cel mai important loc de pelerinaj din Polonia.", "Deține pictura Madonei Negre.", "Are rădăcini industriale puternice.", "Deține un bulevard lung în centrul orașului.", "Atrage milioane de vizitatori anual."],
-      en: ["Home to the Jasna Góra Monastery.", "Most important pilgrimage site in Poland.", "Houses the painting of the Black Madonna.", "Has strong industrial roots.", "Features a long avenue in the city center.", "Attracts millions of visitors annually."]
-    },
-    image: "/geo-images/poland/czestochowa.webp"
-  },
-  {
     id: "pl-radom",
     type: "city",
     parent: "PL-MZ",
@@ -1454,26 +1334,6 @@ export const polandCities: POI[] = [
       en: ["Features a rich royal history.", "Known for the Radom Air Show.", "Second-largest city in Masovia.", "Home to many Gothic and Baroque churches.", "Historical center of weapons production.", "Has a well-preserved Old Town."]
     },
     image: "/geo-images/poland/radom.webp"
-  },
-  {
-    id: "pl-sopot",
-    type: "city",
-    parent: "PL-PM",
-    coords: [18.5603, 54.4416],
-    name: { de: "Sopot", hu: "Sopot", ro: "Sopot", en: "Sopot" },
-    description: {
-      de: "Sopot ist ein eleganter Küstenort an der Ostsee, der zur sogenannten Dreistadt gehört. Die Stadt ist berühmt für ihre historische Holzseebrücke, die längste Europas. Besucher genießen die feinen Sandstrände, das lebhafte Nachtleben und die einzigartige Bäderarchitektur. Das Krumme Haus ist eine der kuriosesten Sehenswürdigkeiten der Stadt.",
-      hu: "Sopot elegáns tengerparti üdülőváros a Balti-tengernél, amely az úgynevezett Hármasváros része. A város híres történelmi fa mólójáról, amely Európa leghosszabbika. A látogatók élvezhetik a finom homokos strandokat, az élénk éjszakai életet és a különleges fürdőépítészetet. A Görbe Ház a város egyik legfurcsább látványossága.",
-      ro: "Sopot este o stațiune elegantă de pe coasta Mării Baltice, care face parte din așa-numitul Tricity. Orașul este renumit pentru debarcaderul său istoric din lemn, cel mai lung din Europa. Vizitatorii se bucură de plajele cu nisip fin, de viața de noapte vibrantă și de arhitectura balneară unică. Casa Strâmbă este una dintre cele mai curioase atracții ale orașului.",
-      en: "Sopot is an elegant seaside resort on the Baltic Sea, part of the so-called Tricity. The city is famous for its historical wooden pier, the longest in Europe. Visitors enjoy the fine sandy beaches, vibrant nightlife, and unique spa architecture. The Crooked House is one of the city's most curious attractions."
-    },
-    facts: {
-      de: ["Teil der Dreistadt-Metropole.", "Besitzt die längste Holzseebrücke in Europa.", "Berühmt für das Sopot Festival.", "Hat das berühmte 'Krumme Haus'.", "Bietet beliebte Ostseestrände.", "Eleganter Kurort mit langer Tradition."],
-      hu: ["A Hármasváros metropolisz része.", "Itt van Európa leghosszabb fa mólója.", "Híres a Sopoti Fesztiválról.", "Itt található a híres 'Görbe Ház'.", "Népszerű balti-tengeri strandokat kínál.", "Elegáns gyógyüdülőhely nagy hagyományokkal."],
-      ro: ["Parte a metropolei Tricity.", "Deține cel mai lung debarcader de lemn din Europa.", "Renumit pentru Festivalul Sopot.", "Are faimoasa 'Casă Strâmbă'.", "Oferă plaje populare la Marea Baltică.", "Stațiune elegantă cu o lungă tradiție."],
-      en: ["Part of the Tricity metropolis.", "Features the longest wooden pier in Europe.", "Famous for the Sopot Festival.", "Has the famous 'Crooked House'.", "Offers popular Baltic Sea beaches.", "Elegant spa resort with a long tradition."]
-    },
-    image: "/geo-images/poland/sopot.webp"
   },
   {
     id: "pl-kielce",
@@ -1536,66 +1396,6 @@ export const polandCities: POI[] = [
     image: "/geo-images/poland/rzeszow.webp"
   },
   {
-    id: "pl-gdynia",
-    type: "city",
-    parent: "PL-PM",
-    coords: [18.5311, 54.5189],
-    name: { de: "Gdingen", hu: "Gdynia", ro: "Gdynia", en: "Gdynia" },
-    description: {
-      de: "Gdynia ist eine dynamische Hafenstadt, die nach dem Ersten Weltkrieg aus einem kleinen Fischerdorf entstand. Sie ist berühmt für ihre durchgängige modernistische Architektur. Als Teil der Dreistadt bietet sie breite Strände, Museen am Wasser und einen großen Fährhafen. Die Stadt ist ein Symbol des maritimen Aufbruchs Polens.",
-      hu: "Gdynia egy dinamikus kikötőváros, amely az első világháború után nőtt ki egy kis halászfaluból. Híres egységes modernista építészetéről. A Hármasváros részeként széles strandokat, vízparti múzeumokat és nagy kompkikötőt kínál. A város Lengyelország tengeri felemelkedésének szimbóluma.",
-      ro: "Gdynia este un oraș port dinamic care a crescut dintr-un mic sat de pescari după Primul Război Mondial. Este renumit pentru arhitectura sa modernistă consecventă. Ca parte a Tricity, oferă plaje largi, muzee pe malul apei și un mare terminal de feriboturi. Orașul este un simbol al ascensiunii maritime a Poloniei.",
-      en: "Gdynia is a dynamic port city that grew from a small fishing village after World War I. It is famous for its consistent modernist architecture. As part of the Tricity, it offers wide beaches, waterfront museums, and a large ferry terminal. The city is a symbol of Poland's maritime rise."
-    },
-    facts: {
-      de: ["Gegründet in den 1920er Jahren.", "Bedeutendstes Zentrum polnischer Meereswirtschaft.", "Berühmt für modernistische Architektur.", "Heimat historischer Museumsschiffe.", "Gastgeber des Polnischen Filmfestivals.", "Teil der Metropolregion Dreistadt."],
-      hu: ["Az 1920-as években alapították.", "A lengyel tengergazdaság legjelentősebb központja.", "Híres modernista építészetéről.", "Történelmi múzeumhajók otthona.", "A Lengyel Filmfesztivál házigazdája.", "A Hármasváros metropolisz része."],
-      ro: ["Fondat în anii 1920.", "Cel mai important centru al economiei maritime poloneze.", "Renumit pentru arhitectura modernistă.", "Găzduiește nave-muzeu istorice.", "Gazda Festivalului de Film Polonez.", "Parte a zonei metropolitane Tricity."],
-      en: ["Founded in the 1920s.", "Most important center of the Polish maritime economy.", "Famous for modernist architecture.", "Home to historical museum ships.", "Host of the Polish Film Festival.", "Part of the Tricity metropolitan area."]
-    },
-    image: "/geo-images/poland/gdynia.webp"
-  },
-  {
-    id: "pl-malbork-castle",
-    type: "historical",
-    parent: "PL-PM",
-    coords: [19.0291, 54.0399],
-    name: { de: "Marienburg", hu: "Malbork vára", ro: "Castelul Malbork", en: "Malbork Castle" },
-    description: {
-      de: "Die Marienburg ist die mächtigste mittelalterliche Festung Europas und die größte Backsteinburg der Welt. Sie wurde vom Deutschen Orden im 13. Jahrhundert erbaut und diente lange als Hauptsitz der Kreuzritter. Die majestätische Anlage liegt malerisch am Ufer der Nogat. Heute zieht das UNESCO-Welterbe unzählige Geschichtsinteressierte an.",
-      hu: "A malborki vár Európa leghatalmasabb középkori erődítménye és a világ legnagyobb téglaépítésű vára. A Német Lovagrend építette a 13. században, és sokáig a keresztesek székhelyeként szolgált. A fenséges komplexum festői környezetben fekszik a Nogat folyó partján. Az UNESCO világörökség ma számtalan történelemrajongót vonz.",
-      ro: "Castelul Malbork este cea mai puternică fortăreață medievală din Europa și cel mai mare castel de cărămidă din lume. A fost construit de Ordinul Teutonic în secolul al XIII-lea și a servit mult timp ca sediu al cruciaților. Complexul maiestuos este situat pitoresc pe malul râului Nogat. Astăzi, situl Patrimoniului Mondial UNESCO atrage nenumărați pasionați de istorie.",
-      en: "Malbork Castle is the most powerful medieval fortress in Europe and the largest brick castle in the world. It was built by the Teutonic Order in the 13th century and long served as the headquarters of the crusaders. The majestic complex is picturesquely situated on the banks of the Nogat River. Today, the UNESCO World Heritage Site attracts countless history buffs."
-    },
-    facts: {
-      de: ["Größte Backsteinburg der Welt.", "Ehemaliger Sitz des Deutschen Ordens.", "UNESCO-Weltkulturerbe seit 1997.", "Klassisches Beispiel mittelalterlicher Wehranlagen.", "Besteht aus drei separaten Burgen.", "Eines der bedeutendsten Denkmäler Polens."],
-      hu: ["A világ legnagyobb téglavára.", "A Német Lovagrend egykori székhelye.", "1997 óta UNESCO világörökség.", "Középkori védművek klasszikus példája.", "Három különálló várból áll.", "Lengyelország egyik legjelentősebb műemléke."],
-      ro: ["Cel mai mare castel de cărămidă din lume.", "Fostul sediu al Ordinului Teutonic.", "Patrimoniu Mondial UNESCO din 1997.", "Exemplu clasic de fortificații medievale.", "Constă din trei castele separate.", "Unul dintre cele mai importante monumente din Polonia."],
-      en: ["Largest brick castle in the world.", "Former seat of the Teutonic Order.", "UNESCO World Heritage Site since 1997.", "Classic example of medieval fortifications.", "Consists of three separate castles.", "One of the most important monuments in Poland."]
-    },
-    image: "/geo-images/poland/malbork.webp"
-  },
-  {
-    id: "pl-wawel-castle",
-    type: "historical",
-    parent: "PL-MA",
-    coords: [19.9354, 50.0540],
-    name: { de: "Wawel", hu: "Wawel", ro: "Castelul Wawel", en: "Wawel Castle" },
-    description: {
-      de: "Das Wawel-Schloss thront majestätisch auf einem Hügel über der Weichsel in Krakau. Es war jahrhundertelang die Residenz der polnischen Könige und das Zentrum der staatlichen Macht. Die Anlage vereint verschiedene Baustile, von Romanik bis zur Renaissance. Neben dem Schloss befindet sich die berühmte Wawel-Kathedrale mit den Königsgräbern.",
-      hu: "A Wawel királyi vár fenségesen magasodik a Visztula fölé Krakkóban. Évszázadokon át a lengyel királyok rezidenciája és az állami hatalom központja volt. A komplexum különböző építészeti stílusokat ötvöz, a romántól a reneszánszig. A várkastély mellett található a híres Wawel-székesegyház a királyi sírokkal.",
-      ro: "Castelul Wawel se înalță maiestuos pe un deal deasupra râului Vistula din Cracovia. A fost reședința regilor polonezi și centrul puterii de stat timp de secole. Complexul combină diferite stiluri arhitecturale, de la romanic la renascentist. Lângă castel se află faimoasa Catedrală Wawel cu mormintele regale.",
-      en: "Wawel Castle sits majestically on a hill overlooking the Vistula River in Krakow. It was the residence of Polish kings and the center of state power for centuries. The complex combines various architectural styles, from Romanesque to Renaissance. Next to the castle is the famous Wawel Cathedral with the royal tombs."
-    },
-    facts: {
-      de: ["Historischer Sitz der polnischen Könige.", "Symbol der nationalen Identität Polens.", "Beherbergt den prächtigen Renaissance-Hof.", "UNESCO-Welterbe im Herzen Krakaus.", "Wawel-Drachenhöhle liegt unter dem Hügel.", "Die Kathedrale enthält viele Königsgräber."],
-      hu: ["A lengyel királyok történelmi székhelye.", "A lengyel nemzeti identitás szimbóluma.", "Lenyűgöző reneszánsz udvarral büszkélkedhet.", "UNESCO világörökség Krakkó szívében.", "A Wawel sárkányának barlangja a domb alatt található.", "A katedrális sok királyi sírt őriz."],
-      ro: ["Sediul istoric al regilor polonezi.", "Simbol al identității naționale poloneze.", "Găzduiește magnifica curte renascentistă.", "Patrimoniu UNESCO în inima Cracoviei.", "Peștera Dragonului Wawel se află sub deal.", "Catedrala conține multe morminte regale."],
-      en: ["Historical seat of the Polish kings.", "Symbol of Poland's national identity.", "Features a magnificent Renaissance courtyard.", "UNESCO World Heritage site in the heart of Krakow.", "Wawel Dragon's Den is beneath the hill.", "The cathedral holds many royal tombs."]
-    },
-    image: "/geo-images/poland/wawel-castle.webp"
-  },
-  {
     id: "pl-kazimierz-dolny",
     type: "historical",
     parent: "PL-LU",
@@ -1614,26 +1414,6 @@ export const polandCities: POI[] = [
       en: ["Famous for Renaissance architecture.", "Meeting place for artists and painters.", "Historical inland port on the Vistula.", "Has a medieval castle ruin.", "Famous for yeast dough roosters.", "Features old and atmospheric granaries."]
     },
     image: "/geo-images/poland/kazimierz-dolny.webp"
-  },
-  {
-    id: "pl-torun-old-town",
-    type: "historical",
-    parent: "PL-KP",
-    coords: [18.6041, 53.0103],
-    name: { de: "Toruńer Altstadt", hu: "Toruńi óváros", ro: "Orașul Vechi Toruń", en: "Toruń Old Town" },
-    description: {
-      de: "Die Altstadt von Toruń ist eine der am besten erhaltenen mittelalterlichen Stätten Europas und UNESCO-Welterbe. Sie begeistert mit gotischen Backsteinkirchen, dem prächtigen Rathaus und den originalen Stadtmauern. Die Stadt ist weltbekannt als Geburtsort von Nikolaus Kopernikus. Ein Spaziergang durch die engen Gassen fühlt sich an wie eine Zeitreise.",
-      hu: "Toruń óvárosa Európa egyik legjobb állapotban fennmaradt középkori helyszíne és UNESCO világörökség. Gótikus téglatemplomaival, díszes városházájával és eredeti városfalaival nyűgöz le mindenkit. A város Nikolausz Kopernikusz szülőhelyeként világhírű. Egy séta a szűk utcákon olyan, mint egy időutazás.",
-      ro: "Orașul Vechi din Toruń este unul dintre cele mai bine conservate situri medievale din Europa și face parte din Patrimoniul Mondial UNESCO. Încântă prin bisericile gotice din cărămidă, primăria magnifică și zidurile originale ale orașului. Orașul este renumit în întreaga lume ca locul de naștere al lui Nicolaus Copernic. O plimbare pe străzile înguste se simte ca o călătorie în timp.",
-      en: "The Old Town of Toruń is one of the best-preserved medieval sites in Europe and a UNESCO World Heritage Site. It delights with Gothic brick churches, the magnificent town hall, and the original city walls. The city is world-famous as the birthplace of Nicolaus Copernicus. A walk through the narrow streets feels like a journey through time."
-    },
-    facts: {
-      de: ["Zählt zum UNESCO-Weltkulturerbe.", "Geburtsort des Astronomen Nikolaus Kopernikus.", "Berühmt für die traditionellen Lebkuchen.", "Überragende Beispiele der Backsteingotik.", "Zerstörungen im Zweiten Weltkrieg entgangen.", "Besitzt einen Schiefen Turm."],
-      hu: ["Az UNESCO világörökség része.", "Nikolausz Kopernikusz csillagász szülőhelye.", "Híres a hagyományos mézeskalácsokról.", "A téglagótika kiemelkedő példái találhatók itt.", "Megmenekült a második világháborús pusztítástól.", "Ferde toronnyal is rendelkezik."],
-      ro: ["Face parte din Patrimoniul Mondial UNESCO.", "Locul de naștere al astronomului Nicolaus Copernic.", "Renumit pentru turta dulce tradițională.", "Exemple remarcabile de arhitectură gotică din cărămidă.", "A scăpat de distrugerile din al Doilea Război Mondial.", "Are un Turn Înclinat."],
-      en: ["Part of the UNESCO World Heritage Site.", "Birthplace of astronomer Nicolaus Copernicus.", "Famous for traditional gingerbread.", "Outstanding examples of brick Gothic architecture.", "Spared from destruction in World War II.", "Features a Leaning Tower."]
-    },
-    image: "/geo-images/poland/torun-old-town.webp"
   },
   {
     id: "pl-ogrodzieniec",
@@ -1674,46 +1454,6 @@ export const polandCities: POI[] = [
       en: ["Known as the 'Ideal City'.", "Built entirely in the Renaissance style.", "The Old Town is a UNESCO World Heritage Site.", "Built by Jan Zamoyski in the 16th century.", "Features beautiful colorful Armenian houses.", "Former powerful fortress city."]
     },
     image: "/geo-images/poland/zamosc.webp"
-  },
-  {
-    id: "pl-warsaw-old-town",
-    type: "historical",
-    parent: "PL-MZ",
-    coords: [21.0087, 52.2490],
-    name: { de: "Warschauer Altstadt", hu: "Varsói óváros", ro: "Orașul Vechi Varșovia", en: "Warsaw Old Town" },
-    description: {
-      de: "Die Warschauer Altstadt ist ein beispielloses Zeugnis für den Willen zum Wiederaufbau. Nach der völligen Zerstörung im Zweiten Weltkrieg wurde sie detailgetreu rekonstruiert. Heute bezaubern die gepflasterten Gassen, der Königsschlossplatz und die farbenfrohen Häuserfassaden Besucher aus aller Welt. Sie steht als einzigartiges Beispiel historischer Rekonstruktion auf der UNESCO-Welterbeliste.",
-      hu: "A varsói óváros az újjáépítési akarat példátlan bizonyítéka. A második világháború során elszenvedett teljes pusztulás után részletekbe menően újjáépítették. Ma macskaköves utcái, a Királyi Vár tere és a színes házhomlokzatok a világ minden tájáról lenyűgözik a látogatókat. A történelmi rekonstrukció egyedülálló példájaként szerepel az UNESCO világörökségi listáján.",
-      ro: "Orașul Vechi din Varșovia este o dovadă fără precedent a dorinței de reconstrucție. După distrugerea sa totală în al Doilea Război Mondial, a fost reconstruit în detaliu. Astăzi, străzile pietruite, Piața Castelului Regal și fațadele colorate ale caselor farmecă vizitatorii din întreaga lume. Este un exemplu unic de reconstrucție istorică pe lista Patrimoniului Mondial UNESCO.",
-      en: "Warsaw's Old Town is an unparalleled testament to the will to rebuild. After its total destruction in World War II, it was meticulously reconstructed. Today, its cobbled streets, Royal Castle Square, and colorful facades charm visitors from all over the world. It stands as a unique example of historical reconstruction on the UNESCO World Heritage list."
-    },
-    facts: {
-      de: ["Nach 1945 fast vollständig rekonstruiert.", "Einzigartiges UNESCO-Welterbe der Rekonstruktion.", "Das Königsschloss dominiert den Hauptplatz.", "Besitzt die berühmte Seejungfrau-Statue (Syrenka).", "Zentrum der Geschichte und Kultur Warschaus.", "Erstrahlt heute in alter Pracht."],
-      hu: ["1945 után szinte teljesen újjáépítették.", "A rekonstrukció egyedülálló UNESCO világöröksége.", "A főteret a Királyi Vár uralja.", "Itt található a híres sellőszobor (Syrenka).", "Varsó történelmének és kultúrájának központja.", "Ma régi pompájában ragyog."],
-      ro: ["Reconstruit aproape în întregime după 1945.", "Sit unic al Patrimoniului Mondial UNESCO pentru reconstrucție.", "Castelul Regal domină piața principală.", "Deține faimoasa statuie a sirenei (Syrenka).", "Centrul istoriei și culturii din Varșovia.", "Astăzi strălucește în vechea sa glorie."],
-      en: ["Almost entirely reconstructed after 1945.", "Unique UNESCO World Heritage site of reconstruction.", "The Royal Castle dominates the main square.", "Features the famous Mermaid statue (Syrenka).", "Center of Warsaw's history and culture.", "Shines today in its former glory."]
-    },
-    image: "/geo-images/poland/warsaw.webp"
-  },
-  {
-    id: "pl-jasna-gora",
-    type: "historical",
-    parent: "PL-SL",
-    coords: [19.0930, 50.8124],
-    name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery" },
-    description: {
-      de: "Jasna Góra in Tschenstochau ist das bedeutendste Marienheiligtum Polens. Im Herzen des Klosters befindet sich die verehrte Ikone der Schwarzen Madonna. Das Kloster gleicht einer Festung und hat historisch vielen Belagerungen standgehalten. Für die Polen ist es nicht nur ein religiöses Zentrum, sondern auch ein Symbol nationalen Widerstands.",
-      hu: "A częstochowai Jasna Góra Lengyelország legjelentősebb Mária-kegyhelye. A kolostor szívében található a Fekete Madonna tisztelt ikonja. A kolostor egy erődítményre hasonlít, és a történelem során számos ostromnak ellenállt. A lengyelek számára nemcsak vallási központ, hanem a nemzeti ellenállás szimbóluma is.",
-      ro: "Jasna Góra din Częstochowa este cel mai important sanctuar marian din Polonia. În inima mănăstirii se află venerata icoană a Madonei Negre. Mănăstirea seamănă cu o fortăreață și a rezistat istoric la multe asedii. Pentru polonezi, nu este doar un centru religios, ci și un simbol al rezistenței naționale.",
-      en: "Jasna Góra in Częstochowa is the most important Marian sanctuary in Poland. In the heart of the monastery lies the venerated icon of the Black Madonna. The monastery resembles a fortress and has historically withstood many sieges. For Poles, it is not only a religious center but also a symbol of national resistance."
-    },
-    facts: {
-      de: ["Das wichtigste spirituelle Zentrum Polens.", "Bewahrt das Gemälde der Schwarzen Madonna auf.", "War Schauplatz der historischen Verteidigung gegen die Schweden.", "Wird jährlich von Millionen Pilgern besucht.", "Gegründet im 14. Jahrhundert.", "Ein mächtiger barocker Klosterkomplex."],
-      hu: ["Lengyelország legfontosabb spirituális központja.", "A Fekete Madonna festményét őrzi.", "A svédek elleni történelmi védekezés helyszíne volt.", "Évente zarándokok milliói látogatják.", "A 14. században alapították.", "Hatalmas barokk kolostorkomplexum."],
-      ro: ["Cel mai important centru spiritual din Polonia.", "Păstrează pictura Madonei Negre.", "A fost locul apărării istorice împotriva suedezilor.", "Este vizitat de milioane de pelerini anual.", "Fondat în secolul al XIV-lea.", "Un puternic complex monahal baroc."],
-      en: ["The most important spiritual center of Poland.", "Preserves the painting of the Black Madonna.", "Was the site of the historical defense against the Swedes.", "Is visited by millions of pilgrims annually.", "Founded in the 14th century.", "A massive Baroque monastery complex."]
-    },
-    image: "/geo-images/poland/jasna-gora.webp"
   },
   {
     id: "pl-gniezno-cathedral",
@@ -1836,26 +1576,6 @@ export const polandCities: POI[] = [
     image: "/geo-images/poland/masurian-lakes.webp"
   },
   {
-    id: "pl-slowinski-np",
-    type: "landmark",
-    parent: "PL-PM",
-    coords: [17.5500, 54.7500],
-    name: { de: "Slowinzischer NP", hu: "Słowiński Nemzeti Park", ro: "Parcul Național Słowiński", en: "Słowiński NP" },
-    description: {
-      de: "Der Slowinzische Nationalpark an der Ostseeküste ist weltbekannt für seine riesigen Wanderdünen, die eine wüstenähnliche Landschaft bilden. Diese 'polnische Sahara' bewegt sich jedes Jahr um einige Meter landeinwärts und begräbt Wälder unter sich. Der Park umfasst auch große Küstenseen und Kiefernwälder. Er wurde als UNESCO-Biosphärenreservat anerkannt.",
-      hu: "A balti-tengeri partvidéken található Słowiński Nemzeti Park világhírű a sivatagszerű tájat alkotó hatalmas vándorló dűnéiről. Ez a 'lengyel Szahara' minden évben néhány métert halad a szárazföld belseje felé, és erdőket temet maga alá. A park nagy part menti tavakat és fenyőerdőket is magában foglal. UNESCO bioszféra-rezervátumként ismerték el.",
-      ro: "Parcul Național Słowiński de pe coasta Mării Baltice este renumit în întreaga lume pentru imensele sale dune mișcătoare, care formează un peisaj asemănător deșertului. Acest 'Sahara polonez' se mișcă spre interiorul țării cu câțiva metri în fiecare an, îngropând păduri sub el. Parcul include, de asemenea, lacuri mari de coastă și păduri de pini. A fost recunoscut ca rezervație a biosferei UNESCO.",
-      en: "Słowiński National Park on the Baltic coast is world-famous for its massive shifting dunes, which form a desert-like landscape. This 'Polish Sahara' moves inland by a few meters each year, burying forests beneath it. The park also includes large coastal lakes and pine forests. It has been recognized as a UNESCO Biosphere Reserve."
-    },
-    facts: {
-      de: ["Berühmt für Europas größte Wanderdünen.", "Dünen erreichen Höhen von über 40 Metern.", "Landschaft wird oft als 'polnische Sahara' bezeichnet.", "UNESCO-Biosphärenreservat.", "Umfasst die großen Küstenseen Łebsko und Gardno.", "Einzigartige Kombination aus Meer, Sand und Wald."],
-      hu: ["Európa legnagyobb vándorló dűnéiről híres.", "A dűnék magassága meghaladja a 40 métert.", "A tájat gyakran 'lengyel Szaharának' nevezik.", "UNESCO bioszféra-rezervátum.", "Magában foglalja a Łebsko és Gardno nagy partmenti tavakat.", "A tenger, a homok és az erdő egyedülálló kombinációja."],
-      ro: ["Renumit pentru cele mai mari dune mișcătoare din Europa.", "Dunele ating înălțimi de peste 40 de metri.", "Peisajul este adesea numit 'Sahara poloneză'.", "Rezervație a biosferei UNESCO.", "Include marile lacuri de coastă Łebsko și Gardno.", "Combinație unică de mare, nisip și pădure."],
-      en: ["Famous for Europe's largest shifting dunes.", "Dunes reach heights of over 40 meters.", "The landscape is often called the 'Polish Sahara'.", "UNESCO Biosphere Reserve.", "Includes the large coastal lakes Łebsko and Gardno.", "Unique combination of sea, sand, and forest."]
-    },
-    image: "/geo-images/poland/slowinski-np.webp"
-  },
-  {
     id: "pl-morskie-oko",
     type: "lake",
     parent: "PL-MA",
@@ -1914,26 +1634,6 @@ export const polandCities: POI[] = [
       en: ["The 'green lung' of the capital city, Warsaw.", "Known for the alternation of sand dunes and swamps.", "The heraldic animal of the park is the elk.", "Features an excellent network of cycling and hiking trails.", "UNESCO Biosphere Reserve 'Puszcza Kampinoska'.", "Hides many historical war graves."]
     },
     image: "/geo-images/poland/kampinos-np.webp"
-  },
-  {
-    id: "pl-pieniny-np",
-    type: "mountain",
-    parent: "PL-MA",
-    coords: [20.4000, 49.4000],
-    name: { de: "Pieninen-NP", hu: "Pieniny Nemzeti Park", ro: "Parcul Național Pieniny", en: "Pieniny NP" },
-    description: {
-      de: "Der Pieninen-Nationalpark schützt ein kleines, aber extrem pittoreskes Gebirgsmassiv. Die spektakulärste Attraktion ist der Durchbruchstals des Flusses Dunajec, der sich hier in engen Schleifen durch die steilen Kalksteinfelsen windet. Eine traditionelle Floßfahrt auf dem Dunajec ist ein unvergessliches Erlebnis. Der berühmteste Gipfel ist der majestätische Trzy Korony (Drei Kronen).",
-      hu: "A Pieniny Nemzeti Park egy kicsi, de rendkívül festői hegyvonulatot véd. A leglátványosabb attrakció a Dunajec-folyó áttörése, amely szűk kanyarulatokban kígyózik a meredek mészkősziklák között. A hagyományos tutajozás a Dunajecen felejthetetlen élmény. A leghíresebb csúcs a fenséges Trzy Korony (Három Korona).",
-      ro: "Parcul Național Pieniny protejează un masiv muntos mic, dar extrem de pitoresc. Cea mai spectaculoasă atracție este defileul râului Dunajec, care șerpuiește în bucle strânse prin stâncile abrupte de calcar. O plimbare cu pluta tradițională pe Dunajec este o experiență de neuitat. Cel mai faimos vârf este maiestuosul Trzy Korony (Trei Coroane).",
-      en: "Pieniny National Park protects a small but extremely picturesque mountain massif. The most spectacular attraction is the Dunajec River Gorge, which winds its way in tight loops through the steep limestone cliffs. A traditional raft trip on the Dunajec is an unforgettable experience. The most famous peak is the majestic Trzy Korony (Three Crowns)."
-    },
-    facts: {
-      de: ["Bekannt für die spektakuläre Dunajec-Schlucht.", "Die Floßfahrt mit Goralen ist eine Hauptattraktion.", "Höchster markanter Punkt sind die 'Drei Kronen'.", "Lebensraum für den seltenen Apollofalter.", "Einer der ältesten grenzüberschreitenden Parks in Europa.", "Wunderschöne Wälder mit reicher Herbstfärbung."],
-      hu: ["A látványos Dunajec-szurdokról ismert.", "A gorálok vezette tutajozás a fő attrakció.", "Legkiemelkedőbb pontja a 'Három Korona'.", "A ritka apolló-lepke élőhelye.", "Európa egyik legrégebbi határon átnyúló parkja.", "Gyönyörű erdők gazdag őszi színekkel."],
-      ro: ["Cunoscut pentru spectaculosul Defileu al Dunajecului.", "Plimbarea cu pluta cu goralii este o atracție principală.", "Cel mai înalt punct proeminent sunt 'Trei Coroane'.", "Habitat pentru fluturele rar Apollo.", "Unul dintre cele mai vechi parcuri transfrontaliere din Europa.", "Păduri frumoase cu o bogată coloratură de toamnă."],
-      en: ["Known for the spectacular Dunajec River Gorge.", "The raft trip with Gorals is a main attraction.", "The highest prominent point is the 'Three Crowns'.", "Habitat for the rare Apollo butterfly.", "One of the oldest cross-border parks in Europe.", "Beautiful forests with rich autumn colors."]
-    },
-    image: "/geo-images/poland/pieniny-np.webp"
   },
   {
     id: "pl-wolin-np",
@@ -2014,26 +1714,6 @@ export const polandCities: POI[] = [
       en: ["One of the most important Gothic churches in Poland.", "It was part of a large Cistercian monastery complex.", "Known for its tall brick architecture.", "Preserves valuable altars and sacred art.", "Shapes the historic center of Pelplin.", "An important monument of church and regional history."]
     },
     image: "/geo-images/poland/pelplin-cathedral.webp"
-  },
-  {
-    id: "pl-ksiaz-castle",
-    type: "historical",
-    parent: "PL-DS",
-    coords: [16.6566, 50.8433],
-    name: { de: "Schloss Książ", hu: "Książ kastély", ro: "Castelul Książ", en: "Książ Castle" },
-    description: {
-      de: "Schloss Książ erhebt sich eindrucksvoll über einem bewaldeten Tal und gehört zu den bekanntesten Schlössern Polens. Seine Geschichte reicht vom Mittelalter bis in die Gegenwart und verbindet Adelsresidenz, Kriegszeit und Restaurierung. Die mächtigen Fassaden und Terrassen machen den Komplex besonders fotogen. Unter dem Schloss verbirgt sich zudem ein Teil der rätselhaften Untertageanlagen aus der Zeit des Zweiten Weltkriegs.",
-      hu: "A Książ kastély látványosan emelkedik egy erdős völgy fölé, és Lengyelország egyik legismertebb kastélya. Története a középkortól napjainkig ível, és nemesi rezidenciát, háborús időszakot, majd helyreállítást kapcsol össze. A hatalmas homlokzatok és teraszok különösen fotogénné teszik az együttest. A kastély alatt a második világháború idejéből származó föld alatti létesítmények egy része is rejtőzik.",
-      ro: "Castelul Książ se ridică impresionant deasupra unei văi împădurite și este unul dintre cele mai cunoscute castele din Polonia. Istoria sa se întinde din Evul Mediu până în prezent și combină reședința nobilă, perioada de război și restaurarea. Fațadele puternice și terasele îl fac deosebit de fotogenic. Sub castel se ascunde și o parte din instalațiile subterane misterioase din timpul celui de-al Doilea Război Mondial.",
-      en: "Książ Castle rises dramatically above a wooded valley and is one of the best-known castles in Poland. Its history stretches from the Middle Ages to the present and combines aristocratic residence, wartime history, and restoration. The massive facades and terraces make the complex especially photogenic. Beneath the castle, part of the mysterious underground works from World War II is also hidden."
-    },
-    facts: {
-      de: ["Eines der größten Schlösser in Polen.", "Liegt oberhalb einer tiefen, bewaldeten Schlucht.", "Verbindet mittelalterliche Ursprünge mit barocken Umbauten.", "Bekannt für seine großen Terrassen und Gärten.", "Spielt eine Rolle in den Geschichten rund um den Zweiten Weltkrieg.", "Ein Besuchsziel mit starker touristischer Anziehungskraft."],
-      hu: ["Lengyelország egyik legnagyobb kastélya.", "Egy mély, erdős szurdok fölött áll.", "Középkori eredetet és barokk átépítést is őriz.", "Híres nagy teraszairól és kertjeiről.", "A második világháború történetéhez is kapcsolódik.", "Népszerű és erős turisztikai vonzerővel bíró hely."],
-      ro: ["Unul dintre cele mai mari castele din Polonia.", "Se află deasupra unei chei adânci și împădurite.", "Îmbină origini medievale cu remodelări baroce.", "Cunoscut pentru terasele și grădinile sale mari.", "Este legat de istoriile celui de-al Doilea Război Mondial.", "O destinație turistică foarte atractivă."],
-      en: ["One of the largest castles in Poland.", "Sits above a deep, wooded gorge.", "Combines medieval origins with Baroque remodeling.", "Known for its large terraces and gardens.", "Connected to World War II history and underground works.", "A highly attractive tourist destination."]
-    },
-    image: "/geo-images/poland/ksiaz-castle.webp"
   },
   {
     id: "pl-pszczyna-palace",

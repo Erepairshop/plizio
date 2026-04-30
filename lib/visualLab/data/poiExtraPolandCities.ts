@@ -78,25 +78,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-olsztyn-extra",
-    type: "state-capital",
-    parent: "PL-WN",
-    coords: [20.4942, 53.7799],
-    name: { de: "Allenstein", hu: "Olsztyn", ro: "Olsztyn", en: "Olsztyn" },
-    description: {
-      de: "Die Hauptstadt der Woiwodschaft Ermland-Masuren, bekannt für ihre Lage inmitten von Seen und Wäldern. Nikolaus Kopernikus lebte hier und verwaltete die Region.",
-      hu: "A Warmia-mazúriai vajdaság fővárosa, amely tavakkal és erdőkkel körülvett fekvéséről ismert. Kopernikusz itt élt és igazgatta a régiót.",
-      ro: "Capitala Voievodatului Varmia și Mazuria, cunoscută pentru amplasarea sa în mijlocul lacurilor și pădurilor. Nicolaus Copernicus a locuit aici și a administrat regiunea.",
-      en: "The capital of the Warmian-Masurian Voivodeship, known for its location amidst lakes and forests. Nicolaus Copernicus lived here and administered the region."
-    },
-    facts: {
-      de: ["Hauptstadt von Ermland-Masuren.", "Über 15 Seen innerhalb der Stadtgrenzen.", "Kopernikus war hier Administrator."],
-      hu: ["Warmia-Mazúria fővárosa.", "Több mint 15 tó a város határain belül.", "Kopernikusz itt volt adminisztrátor."],
-      ro: ["Capitala Voievodatului Varmia și Mazuria.", "Peste 15 lacuri în interiorul limitelor orașului.", "Copernicus a fost administrator aici."],
-      en: ["Capital of Warmian-Masurian Voivodeship.", "Over 15 lakes within the city limits.", "Copernicus was an administrator here."]
-    }
-  },
-  {
     id: "city-elblag-extra",
     type: "city",
     parent: "PL-WN",
@@ -154,25 +135,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-rzeszow-extra",
-    type: "state-capital",
-    parent: "PL-PK",
-    coords: [22.0047, 50.0413],
-    name: { de: "Rzeszów", hu: "Rzeszów", ro: "Rzeszów", en: "Rzeszów" },
-    description: {
-      de: "Die Hauptstadt der Woiwodschaft Karpatenvorland und ein wachsendes Zentrum für die IT- und Luftfahrtindustrie. Die Stadt hat einen charmanten Marktplatz.",
-      hu: "A Kárpátaljai vajdaság fővárosa, az IT- és a repülőgépipar növekvő központja. A városnak bájos főtere van.",
-      ro: "Capitala Voievodatului Subcarpatia și un centru în creștere pentru industria IT și aviatică. Orașul are o piață centrală fermecătoare.",
-      en: "The capital of the Subcarpathian Voivodeship and a growing center for the IT and aviation industries. The city has a charming market square."
-    },
-    facts: {
-      de: ["Hauptstadt des Karpatenvorlandes.", "Wichtiger Standort der Luftfahrtindustrie ('Aviation Valley').", "Unterirdische Touristenroute."],
-      hu: ["Kárpátaljai vajdaság fővárosa.", "Fontos repülőgépipari központ ('Repülési Völgy').", "Földalatti turisztikai útvonal."],
-      ro: ["Capitala Voievodatului Subcarpatia.", "Centru important al industriei aviatice ('Valea Aviației').", "Traseu turistic subteran."],
-      en: ["Capital of Subcarpathian Voivodeship.", "Major aviation industry hub ('Aviation Valley').", "Underground tourist route."]
-    }
-  },
-  {
     id: "city-przemysl-extra",
     type: "city",
     parent: "PL-PK",
@@ -192,25 +154,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "castle-lancut-extra",
-    type: "castle",
-    parent: "PL-PK",
-    coords: [22.2325, 50.0686],
-    name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle" },
-    description: {
-      de: "Eine prächtige aristokratische Residenz, berühmt für ihr exquisites Interieur und eine große Sammlung historischer Kutschen.",
-      hu: "Pompás arisztokrata rezidencia, amely híres a gyönyörű belső tereiről és a történelmi hintók nagy gyűjteményéről.",
-      ro: "O magnifică reședință aristocratică, renumită pentru interioarele sale rafinate și o mare colecție de trăsuri istorice.",
-      en: "A magnificent aristocratic residence, famous for its exquisite interiors and a large collection of historical carriages."
-    },
-    facts: {
-      de: ["Ehemals im Besitz der Familien Potocki und Lubomirski.", "Eine der größten Kutschensammlungen Europas.", "Umgeben von einem englischen Landschaftspark."],
-      hu: ["Egykor a Potocki és Lubomirski családok tulajdona volt.", "Európa egyik legnagyobb hintógyűjteménye.", "Angol tájképi park veszi körül."],
-      ro: ["Fostă proprietate a familiilor Potocki și Lubomirski.", "Una dintre cele mai mari colecții de trăsuri din Europa.", "Înconjurat de un parc peisagistic englezesc."],
-      en: ["Formerly owned by the Potocki and Lubomirski families.", "One of Europe's largest carriage collections.", "Surrounded by an English landscape park."]
-    }
-  },
-  {
     id: "nature-bieszczady-mountains-extra",
     type: "mountain",
     parent: "PL-PK",
@@ -227,25 +170,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Keleti-Kárpátok része.", "Medvék, farkasok és bölények otthona.", "A hegyi réteket 'Poloniny'-nek hívják."],
       ro: ["Parte a Carpaților Orientali.", "Adăpostește urși, lupi și bizoni.", "Pajiștile montane sunt numite 'Poloniny'."],
       en: ["Part of the Eastern Carpathians.", "Home to bears, wolves, and bison.", "The mountain meadows are called 'Poloniny'."]
-    }
-  },
-  {
-    id: "city-kielce-extra",
-    type: "state-capital",
-    parent: "PL-SK",
-    coords: [20.6285, 50.8703],
-    name: { de: "Kielce", hu: "Kielce", ro: "Kielce", en: "Kielce" },
-    description: {
-      de: "Die Hauptstadt der Woiwodschaft Heiligkreuz, umgeben vom Heiligkreuzgebirge. Die Stadt ist ein Zentrum für Geologie und Handel.",
-      hu: "A Szentkereszt vajdaság fővárosa, a Szentkereszt-hegység által körülvéve. A város a geológia és a kereskedelem központja.",
-      ro: "Capitala Voievodatului Sfintei Cruci, înconjurată de Munții Sfintei Cruci. Orașul este un centru pentru geologie și comerț.",
-      en: "The capital of the Świętokrzyskie Voivodeship, surrounded by the Świętokrzyskie Mountains. The city is a center for geology and trade."
-    },
-    facts: {
-      de: ["Hauptstadt der Woiwodschaft Heiligkreuz.", "Geologisches Zentrum Polens.", "Bischofspalast aus dem 17. Jahrhundert."],
-      hu: ["A Szentkereszt vajdaság fővárosa.", "Lengyelország geológiai központja.", "17. századi püspöki palota."],
-      ro: ["Capitala Voievodatului Sfintei Cruci.", "Centrul geologic al Poloniei.", "Palatul Episcopilor din secolul al XVII-lea."],
-      en: ["Capital of Świętokrzyskie Voivodeship.", "Geological center of Poland.", "17th-century Bishops' Palace."]
     }
   },
   {
@@ -306,25 +230,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-opole-extra",
-    type: "state-capital",
-    parent: "PL-OP",
-    coords: [17.925, 50.672],
-    name: { de: "Oppeln", hu: "Opole", ro: "Opole", en: "Opole" },
-    description: {
-      de: "Die Hauptstadt der Woiwodschaft Oppeln und das historische Zentrum Oberschlesiens. Die Stadt ist bekannt für das Nationale Festival des Polnischen Liedes.",
-      hu: "Az Opolei vajdaság fővárosa és Felső-Szilézia történelmi központja. A város a Lengyel Dal Országos Fesztiváljáról ismert.",
-      ro: "Capitala Voievodatului Opole și centrul istoric al Sileziei Superioare. Orașul este cunoscut pentru Festivalul Național al Cântecului Polonez.",
-      en: "The capital of the Opole Voivodeship and the historical center of Upper Silesia. The city is known for the National Festival of Polish Song."
-    },
-    facts: {
-      de: ["Historische Hauptstadt von Oberschlesien.", "Jährliches nationales Liederfestival.", "Zentrum der deutschen Minderheit in Polen."],
-      hu: ["Felső-Szilézia történelmi fővárosa.", "Évenkénti országos dalfesztivál.", "A lengyelországi német kisebbség központja."],
-      ro: ["Capitala istorică a Sileziei Superioare.", "Festival național anual de cântece.", "Centrul minorității germane din Polonia."],
-      en: ["Historical capital of Upper Silesia.", "Annual national song festival.", "Center of the German minority in Poland."]
-    }
-  },
-  {
     id: "mountain-gora-swietej-anny-extra",
     type: "mountain",
     parent: "PL-OP",
@@ -360,25 +265,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Híres a 99 tornyáról.", "Barokk, neogótikus és neoreneszánsz stílusok keveréke.", "A von Tiele-Winckler család egykori rezidenciája."],
       ro: ["Renumit pentru cele 99 de turnuri ale sale.", "Amestec de stiluri baroc, neogotic și neorenascentist.", "Fosta reședință a familiei von Tiele-Winckler."],
       en: ["Famous for its 99 towers.", "Mix of Baroque, Neo-Gothic, and Neo-Renaissance styles.", "Former residence of the von Tiele-Winckler family."]
-    }
-  },
-  {
-    id: "city-bydgoszcz-extra",
-    type: "city",
-    parent: "PL-KP",
-    coords: [18.0084, 53.1235],
-    name: { de: "Bromberg", hu: "Bydgoszcz", ro: "Bydgoszcz", en: "Bydgoszcz" },
-    description: {
-      de: "Eine der Hauptstädte der Woiwodschaft Kujawien-Pommern, bekannt für ihre malerische Lage an den Flüssen Brda und Weichsel sowie den Bydgoszcz-Kanal.",
-      hu: "A Kujávia-pomerániai vajdaság egyik fővárosa, amely a Brda és a Visztula folyók menti festői fekvéséről, valamint a Bydgoszczi-csatornáról ismert.",
-      ro: "Una dintre capitalele Voievodatului Cuiavia și Pomerania, cunoscută pentru locația sa pitorească pe râurile Brda și Vistula și pentru Canalul Bydgoszcz.",
-      en: "One of the capitals of the Kuyavian-Pomeranian Voivodeship, known for its scenic location on the Brda and Vistula rivers and the Bydgoszcz Canal."
-    },
-    facts: {
-      de: ["Geteilte Hauptstadtfunktion mit Toruń.", "Wichtiger Knotenpunkt für Binnenwasserstraßen.", "'Exploseum' Museum auf einem ehemaligen Fabrikgelände."],
-      hu: ["Megosztott fővárosi szerep Toruńnal.", "Fontos belvízi útvonal-csomópont.", "'Exploseum' múzeum egykori gyárterületen."],
-      ro: ["Funcție de capitală împărțită cu Toruń.", "Nod important al căilor navigabile interioare.", "Muzeul 'Exploseum' pe un fost sit industrial."],
-      en: ["Shared capital function with Toruń.", "Major inland waterway hub.", "'Exploseum' museum on a former factory site."]
     }
   },
   {
@@ -436,25 +322,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Szinte érintetlen középkori városfal.", "Szent Bálint ereklyéje.", "A chełmnói jog példája."],
       ro: ["Ziduri medievale aproape intacte.", "Relicva Sfântului Valentin.", "Exemplu al legii de la Chełmno."],
       en: ["Almost intact medieval city walls.", "Relic of St. Valentine.", "Example of Chełmno law."]
-    }
-  },
-  {
-    id: "city-bialystok-extra",
-    type: "state-capital",
-    parent: "PL-PD",
-    coords: [23.163, 53.132],
-    name: { de: "Białystok", hu: "Białystok", ro: "Białystok", en: "Białystok" },
-    description: {
-      de: "Die größte Stadt im Nordosten Polens und Hauptstadt der Woiwodschaft Podlachien. Ein Schmelztiegel der Kulturen nahe der Grenzen zu Weißrussland und Litauen.",
-      hu: "Északkelet-Lengyelország legnagyobb városa és a Podlasiei vajdaság fővárosa. Kultúrák olvasztótégelye a fehérorosz és litván határ közelében.",
-      ro: "Cel mai mare oraș din nord-estul Poloniei și capitala Voievodatului Podlasia. Un creuzet de culturi aproape de granițele cu Belarus și Lituania.",
-      en: "The largest city in northeastern Poland and the capital of the Podlaskie Voivodeship. A melting pot of cultures near the borders of Belarus and Lithuania."
-    },
-    facts: {
-      de: ["Hauptstadt von Podlachien.", "Branicki-Palast, bekannt als 'polnisches Versailles'.", "Geburtsort von L. L. Zamenhof, dem Schöpfer des Esperanto."],
-      hu: ["Podlasie fővárosa.", "Branicki-palota, a 'lengyel Versailles'-ként ismert.", "L. L. Zamenhof, az eszperantó megalkotójának szülőhelye."],
-      ro: ["Capitala Voievodatului Podlasia.", "Palatul Branicki, cunoscut ca 'Versailles-ul polonez'.", "Locul nașterii lui L. L. Zamenhof, creatorul Esperanto."],
-      en: ["Capital of Podlaskie Voivodeship.", "Branicki Palace, known as the 'Polish Versailles'.", "Birthplace of L. L. Zamenhof, creator of Esperanto."]
     }
   },
   {
@@ -534,25 +401,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-szczecin-extra",
-    type: "state-capital",
-    parent: "PL-ZP",
-    coords: [14.552, 53.428],
-    name: { de: "Stettin", hu: "Szczecin", ro: "Szczecin", en: "Szczecin" },
-    description: {
-      de: "Die Hauptstadt Westpommerns und einer der größten Seehäfen Polens an der Ostsee, obwohl sie 65 km landeinwärts liegt. Bekannt für ihre sternförmigen Plätze.",
-      hu: "Nyugat-Pomeránia fővárosa és Lengyelország egyik legnagyobb tengeri kikötője a Balti-tengeren, bár 65 km-re a szárazföld belsejében fekszik. Csillag alakú tereiről ismert.",
-      ro: "Capitala Pomeraniei de Vest și unul dintre cele mai mari porturi maritime ale Poloniei la Marea Baltică, deși este situat la 65 km în interior. Cunoscut pentru piețele sale în formă de stea.",
-      en: "The capital of West Pomerania and one of Poland's largest seaports on the Baltic Sea, despite being 65 km inland. Known for its star-shaped squares."
-    },
-    facts: {
-      de: ["Siebtgrößte Stadt Polens.", "Wichtiger Seehafen an der Oder.", "Hakenterrasse als Wahrzeichen."],
-      hu: ["Lengyelország hetedik legnagyobb városa.", "Fontos tengeri kikötő az Odera mentén.", "A Wały Chrobrego sétány a város jelképe."],
-      ro: ["Al șaptelea cel mai mare oraș din Polonia.", "Port maritim important pe râul Oder.", "Promenada Wały Chrobrego este un punct de atracție."],
-      en: ["Seventh-largest city in Poland.", "Major seaport on the Oder river.", "Wały Chrobrego promenade is a landmark."]
-    }
-  },
-  {
     id: "sea-swinoujscie-extra",
     type: "port",
     parent: "PL-ZP",
@@ -588,25 +436,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország első tengeri nemzeti parkja.", "Híres magas sziklaszirtjeiről.", "A rétisasok védett területe."],
       ro: ["Primul parc național maritim din Polonia.", "Renumit pentru falezele sale înalte.", "Arie protejată pentru vulturul codalb."],
       en: ["First maritime national park in Poland.", "Famous for its high cliffs.", "Sanctuary for white-tailed eagles."]
-    }
-  },
-  {
-    id: "historical-crooked-forest-extra",
-    type: "forest",
-    parent: "PL-ZP",
-    coords: [14.375, 53.213],
-    name: { de: "Krummer Wald", hu: "Görbe erdő", ro: "Pădurea Strâmbă", en: "Crooked Forest" },
-    description: {
-      de: "Ein mysteriöser Hain von Kiefern mit J-förmig gekrümmten Stämmen. Der Grund für die Deformation ist bis heute ungeklärt und Gegenstand von Spekulationen.",
-      hu: "Rejtélyes fenyőliget J-alakban görbült törzsű fákkal. A deformáció oka máig tisztázatlan és spekulációk tárgya.",
-      ro: "O dumbravă misterioasă de pini cu trunchiuri curbate în formă de J. Cauza deformării este neclară și face obiectul speculațiilor.",
-      en: "A mysterious grove of pine trees with J-shaped curved trunks. The cause of the deformation is unclear and a subject of speculation."
-    },
-    facts: {
-      de: ["Etwa 400 deformierte Kiefern.", "Gepflanzt um 1930.", "Die Ursache der Krümmung ist ein Rätsel."],
-      hu: ["Körülbelül 400 deformálódott fenyőfa.", "Körülbelül 1930-ban ültették.", "A görbület oka rejtély."],
-      ro: ["Aproximativ 400 de pini deformați.", "Plantați în jurul anului 1930.", "Cauza curburii este un mister."],
-      en: ["About 400 deformed pine trees.", "Planted around 1930.", "The cause of the curvature is a mystery."]
     }
   },
   {
@@ -743,25 +572,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "animal-habitat-hel-peninsula-extra",
-    type: "animal-habitat",
-    parent: "PL-PM",
-    coords: [18.6, 54.7],
-    name: { de: "Halbinsel Hel", hu: "Hel-félsziget", ro: "Peninsula Hel", en: "Hel Peninsula" },
-    description: {
-      de: "Eine 35 km lange Sandbank, die für ihre Strände, Kiefernwälder und eine Robbenaufzuchtstation bekannt ist. Ein Paradies für Wind- und Kitesurfer.",
-      hu: "Egy 35 km hosszú homokpad, amely strandjairól, fenyőerdőiről és egy fókatenyésztő állomásról ismert. A szörfösök és kitesurf-ösök paradicsoma.",
-      ro: "O limbă de nisip lungă de 35 km, cunoscută pentru plajele sale, pădurile de pini și o stațiune de reabilitare a focilor. Un paradis pentru windsurfing și kitesurfing.",
-      en: "A 35 km long sand bar known for its beaches, pine forests, and a seal sanctuary. A paradise for wind and kite surfers."
-    },
-    facts: {
-      de: ["35 km lange Sandnehrung.", "Wichtige Robbenaufzuchtstation.", "Beliebt bei Wind- und Kitesurfern."],
-      hu: ["35 km hosszú homokpad.", "Fontos fókanevelő állomás.", "Népszerű a szörfösök és sárkányszörfösök körében."],
-      ro: ["Limbă de nisip de 35 km.", "Stațiune importantă de reabilitare a focilor.", "Populară printre practicanții de windsurfing și kitesurfing."],
-      en: ["35-km long sand spit.", "Important seal sanctuary.", "Popular with windsurfers and kitesurfers."]
-    }
-  },
-  {
     id: "animal-habitat-gdansk-zoo-extra",
     type: "animal-habitat",
     parent: "PL-PM",
@@ -816,25 +626,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Frédéric Chopin szülőhelye.", "Múzeum az egykori kúriában.", "Nyári zongorakoncertek a parkban."],
       ro: ["Locul de naștere al lui Frédéric Chopin.", "Muzeu în fostul conac.", "Concerte de pian vara în parc."],
       en: ["Birthplace of Frédéric Chopin.", "Museum in the former manor house.", "Summer piano recitals in the park."]
-    }
-  },
-  {
-    id: "kid-landmark-warsaw-zoo-extra",
-    type: "animal-habitat",
-    parent: "PL-MA",
-    coords: [21.02, 52.25],
-    name: { de: "Warschauer Zoo", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo" },
-    description: {
-      de: "Ein städtischer Zoo, der während des Zweiten Weltkriegs berühmt wurde, als seine Direktoren, Jan und Antonina Żabiński, Hunderte von Juden vor dem Holocaust retteten.",
-      hu: "Városi állatkert, amely a második világháború alatt vált híressé, amikor igazgatói, Jan és Antonina Żabiński több száz zsidót mentettek meg a holokauszt elől.",
-      ro: "O grădină zoologică urbană care a devenit faimoasă în timpul celui de-al Doilea Război Mondial, când directorii săi, Jan și Antonina Żabiński, au salvat sute de evrei de la Holocaust.",
-      en: "A city zoo that became famous during World War II when its directors, Jan and Antonina Żabiński, saved hundreds of Jews from the Holocaust."
-    },
-    facts: {
-      de: ["Bekannt durch die Geschichte der Familie Żabiński.", "Liegt im Stadtteil Praga.", "Moderne Anlagen für Elefanten und Flusspferde."],
-      hu: ["Híres a Żabiński család történetéről.", "A Praga negyedben található.", "Modern létesítmények elefántok és vízilovak számára."],
-      ro: ["Cunoscut pentru povestea familiei Żabiński.", "Situată în cartierul Praga.", "Facilități moderne pentru elefanți și hipopotami."],
-      en: ["Known for the story of the Żabiński family.", "Located in the Praga district.", "Modern enclosures for elephants and hippos."]
     }
   },
   {
@@ -895,25 +686,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "historical-piotrkowska-street-extra",
-    type: "historical",
-    parent: "PL-LD",
-    coords: [19.46, 51.76],
-    name: { de: "Piotrkowska-Straße", hu: "Piotrkowska utca", ro: "Strada Piotrkowska", en: "Piotrkowska Street" },
-    description: {
-      de: "Eine der längsten Geschäftsstraßen Europas und das Herz von Łódź. Gesäumt von wunderschönen Gebäuden aus dem 19. und 20. Jahrhundert.",
-      hu: "Európa egyik leghosszabb bevásárlóutcája és Łódź szíve. Gyönyörű 19. és 20. századi épületek szegélyezik.",
-      ro: "Una dintre cele mai lungi străzi comerciale din Europa și inima orașului Łódź. Mărginită de clădiri frumoase din secolele al XIX-lea și al XX-lea.",
-      en: "One of the longest commercial streets in Europe and the heart of Łódź. Lined with beautiful 19th and 20th-century buildings."
-    },
-    facts: {
-      de: ["Über 4 km lang.", "Zahlreiche Restaurants, Clubs und Geschäfte.", "Denkmäler berühmter Łódźer Bürger auf der Straße."],
-      hu: ["Több mint 4 km hosszú.", "Számos étterem, klub és üzlet található itt.", "Híres łódźi polgárok emlékművei az utcán."],
-      ro: ["Peste 4 km lungime.", "Numeroase restaurante, cluburi și magazine.", "Monumente ale unor cetățeni faimoși din Łódź pe stradă."],
-      en: ["Over 4 km long.", "Numerous restaurants, clubs, and shops.", "Monuments of famous Łódź citizens along the street."]
-    }
-  },
-  {
     id: "industry-zaklady-azotowe-pulawy-extra",
     type: "industry",
     parent: "PL-LU",
@@ -933,25 +705,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "historical-kazimierz-dolny-extra",
-    type: "historical",
-    parent: "PL-LU",
-    coords: [21.94, 51.32],
-    name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny" },
-    description: {
-      de: "Eine malerische historische Stadt an der Weichsel, die bei Künstlern und Touristen sehr beliebt ist. Bekannt für ihren Marktplatz und die Ruinen einer Burg.",
-      hu: "Festői történelmi város a Visztula partján, amely művészek és turisták körében népszerű. Főteréről és a várromokról ismert.",
-      ro: "Un oraș istoric pitoresc pe Vistula, popular printre artiști și turiști. Cunoscut pentru piața sa centrală și ruinele unui castel.",
-      en: "A picturesque historical town on the Vistula, popular with artists and tourists. Known for its market square and the ruins of a castle."
-    },
-    facts: {
-      de: ["Künstlerkolonie seit dem 19. Jahrhundert.", "Renaissance-Architektur.", "Jährliches Film- und Kunstfestival 'Zwei Ufer'."],
-      hu: ["Művésztelep a 19. század óta.", "Reneszánsz építészet.", "Évenkénti 'Két Part' film- és művészeti fesztivál."],
-      ro: ["Colonie de artiști din secolul al XIX-lea.", "Arhitectură renascentistă.", "Festivalul anual de film și artă 'Două Maluri'."],
-      en: ["Artists' colony since the 19th century.", "Renaissance architecture.", "Annual 'Two Banksides' film and art festival."]
-    }
-  },
-  {
     id: "nature-roztocze-national-park-extra",
     type: "nature",
     parent: "PL-LU",
@@ -968,25 +721,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Tenyésztési program a lengyel konik ló számára.", "Jellegzetes jegenyefenyő- és bükkerdők.", "Népszerű kerékpáros és túrázási célpont."],
       ro: ["Program de creștere pentru calul polonez Konik.", "Păduri caracteristice de brad și fag.", "Popular pentru ciclism și drumeții."],
       en: ["Breeding program for the Polish Konik horse.", "Characteristic fir and beech forests.", "Popular for cycling and hiking tours."]
-    }
-  },
-  {
-    id: "landmark-zamosc-old-town-extra",
-    type: "landmark",
-    parent: "PL-LU",
-    coords: [23.25, 50.71],
-    name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Centrul Vechi Zamość", en: "Zamość Old Town" },
-    description: {
-      de: "Ein UNESCO-Weltkulturerbe, das als 'ideale Stadt' der Renaissance entworfen wurde. Perfekt erhaltene Architektur und Befestigungsanlagen.",
-      hu: "Az UNESCO Világörökség része, amelyet a reneszánsz 'ideális városának' terveztek. Tökéletesen megőrzött építészet és erődítmények.",
-      ro: "Un sit al Patrimoniului Mondial UNESCO, proiectat ca un 'oraș ideal' renascentist. Arhitectură și fortificații perfect conservate.",
-      en: "A UNESCO World Heritage site, designed as a Renaissance 'ideal town'. Perfectly preserved architecture and fortifications."
-    },
-    facts: {
-      de: ["Gegründet von Kanzler Jan Zamoyski.", "Entworfen vom italienischen Architekten Bernardo Morando.", "Wird 'Padua des Nordens' genannt."],
-      hu: ["Jan Zamoyski kancellár alapította.", "Bernardo Morando olasz építész tervezte.", "Az 'Észak Páduájának' is nevezik."],
-      ro: ["Fondat de cancelarul Jan Zamoyski.", "Proiectat de arhitectul italian Bernardo Morando.", "Numit 'Padova Nordului'."],
-      en: ["Founded by Chancellor Jan Zamoyski.", "Designed by Italian architect Bernardo Morando.", "Called the 'Padua of the North'."]
     }
   },
   {
@@ -1028,25 +762,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-radom-extra",
-    type: "city",
-    parent: "PL-MA",
-    coords: [21.14, 51.40],
-    name: { de: "Radom", hu: "Radom", ro: "Radom", en: "Radom" },
-    description: {
-      de: "Eine historisch bedeutsame Stadt in Masowien, bekannt für die Radomer Verfassung 'Nihil novi' von 1505 und die Arbeiterproteste von 1976.",
-      hu: "Történelmileg jelentős város Mazóviában, amely az 1505-ös 'Nihil novi' radomi alkotmányról és az 1976-os munkástüntetésekről ismert.",
-      ro: "Un oraș important din punct de vedere istoric în Mazovia, cunoscut pentru Constituția 'Nihil novi' de la Radom din 1505 și pentru protestele muncitorești din 1976.",
-      en: "A historically important city in Masovia, known for the 1505 Radom Constitution 'Nihil novi' and the 1976 worker protests."
-    },
-    facts: {
-      de: ["Ort der Unterzeichnung der Konstitution 'Nihil novi'.", "Wichtige Proteste im Juni 1976.", "Jährliche internationale Flugschau."],
-      hu: ["A 'Nihil novi' alkotmány aláírásának helyszíne.", "Jelentős tüntetések 1976 júniusában.", "Évenkénti nemzetközi légibemutató."],
-      ro: ["Locul semnării Constituției 'Nihil novi'.", "Proteste importante în iunie 1976.", "Show aerian internațional anual."],
-      en: ["Site of the signing of the 'Nihil novi' constitution.", "Major protests in June 1976.", "Annual international air show."]
-    }
-  },
-  {
     id: "city-plock-extra",
     type: "city",
     parent: "PL-MA",
@@ -1063,25 +778,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egykori fővárosa a 11-12. században.", "A PKN Orlen fontos telephelye.", "Román stílusú katedrális lengyel uralkodók sírjaival."],
       ro: ["Fostă capitală a Poloniei în sec. XI-XII.", "Amplasament important pentru PKN Orlen.", "Catedrală romanică cu morminte ale monarhilor polonezi."],
       en: ["Former capital of Poland in the 11th-12th c.", "Major site for PKN Orlen.", "Romanesque cathedral with tombs of Polish monarchs."]
-    }
-  },
-  {
-    id: "city-czestochowa-extra",
-    type: "city",
-    parent: "PL-SL",
-    coords: [19.12, 50.81],
-    name: { de: "Tschenstochau", hu: "Częstochowa", ro: "Częstochowa", en: "Częstochowa" },
-    description: {
-      de: "Polens geistliches Herz, berühmt für das Kloster Jasna Góra, in dem die Ikone der Schwarzen Madonna, das am meisten verehrte Heiligtum des Landes, aufbewahrt wird.",
-      hu: "Lengyelország spirituális szíve, amely a Jasna Góra-i kolostorról híres, ahol a Fekete Madonna ikont, az ország legtiszteltebb kegyhelyét őrzik.",
-      ro: "Inima spirituală a Poloniei, renumită pentru Mănăstirea Jasna Góra, care găzduiește icoana Madonei Negre, cel mai venerat sanctuar al țării.",
-      en: "Poland's spiritual heart, famous for the Jasna Góra Monastery, which houses the Black Madonna icon, the country's most venerated relic."
-    },
-    facts: {
-      de: ["Heimat des Jasna Góra Klosters.", "Wichtigster Wallfahrtsort in Polen.", "Die Ikone der Schwarzen Madonna wird hier aufbewahrt."],
-      hu: ["A Jasna Góra-i kolostor otthona.", "Lengyelország legfontosabb zarándokhelye.", "Itt őrzik a Fekete Madonna ikont."],
-      ro: ["Găzduiește Mănăstirea Jasna Góra.", "Cel mai important loc de pelerinaj din Polonia.", "Icoana Madonei Negre este păstrată aici."],
-      en: ["Home to the Jasna Góra Monastery.", "Most important pilgrimage site in Poland.", "The Black Madonna icon is kept here."]
     }
   },
   {
@@ -1120,25 +816,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["25 középkori vár és rom.", "Összeköti Krakkót Częstochowával.", "Látványos mészkősziklák."],
       ro: ["25 de castele și ruine medievale.", "Leagă Cracovia de Częstochowa.", "Stânci spectaculoase de calcar."],
       en: ["25 medieval castles and ruins.", "Connects Krakow with Częstochowa.", "Spectacular limestone cliffs."]
-    }
-  },
-  {
-    id: "castle-ogrodzieniec-extra",
-    type: "castle",
-    parent: "PL-SL",
-    coords: [19.55, 50.45],
-    name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle" },
-    description: {
-      de: "Die größte und berühmteste Burgruine auf der Adlerhorst-Route. Ihre malerische Lage hat sie zu einem beliebten Drehort für Filme und Serien gemacht.",
-      hu: "A Saskastélyok útvonalának legnagyobb és leghíresebb várromja. Festői fekvése miatt népszerű film- és sorozatforgatási helyszín.",
-      ro: "Cea mai mare și mai faimoasă ruină de castel de pe Traseul Cuiburilor de Vulturi. Locația sa pitorească a făcut-o un loc popular de filmare.",
-      en: "The largest and most famous castle ruin on the Trail of the Eagles' Nests. Its picturesque location has made it a popular filming location."
-    },
-    facts: {
-      de: ["Teil der Adlerhorst-Route.", "Erbaut im 14.-15. Jahrhundert.", "Drehort für die Netflix-Serie 'The Witcher'."],
-      hu: ["A Saskastélyok útvonalának része.", "A 14-15. században épült.", "A 'The Witcher' Netflix sorozat forgatási helyszíne."],
-      ro: ["Parte a Traseului Cuiburilor de Vulturi.", "Construit în secolele XIV-XV.", "Loc de filmare pentru serialul Netflix 'The Witcher'."],
-      en: ["Part of the Trail of the Eagles' Nests.", "Built in the 14th-15th centuries.", "Filming location for Netflix's 'The Witcher'."]
     }
   },
   {
@@ -1218,25 +895,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "lake-morskie-oko-extra",
-    type: "lake",
-    parent: "PL-MA",
-    coords: [20.07, 49.20],
-    name: { de: "Meerauge", hu: "Halas-tó", ro: "Morskie Oko", en: "Morskie Oko" },
-    description: {
-      de: "Der größte und berühmteste See im Tatra-Gebirge, umgeben von hohen Gipfeln. Ein beliebtes Ausflugsziel, das über eine asphaltierte Straße erreichbar ist.",
-      hu: "A Tátra legnagyobb és leghíresebb tava, magas csúcsokkal körülvéve. Népszerű kirándulóhely, amely aszfaltozott úton érhető el.",
-      ro: "Cel mai mare și mai faimos lac din Munții Tatra, înconjurat de vârfuri înalte. O destinație populară, accesibilă printr-un drum asfaltat.",
-      en: "The largest and most famous lake in the Tatra Mountains, surrounded by high peaks. A popular destination accessible by a paved road."
-    },
-    facts: {
-      de: ["Größter See in der Tatra.", "Wird wegen seiner Schönheit oft als 'Meerauge' bezeichnet.", "Von Zirbelkiefern umgeben."],
-      hu: ["A Tátra legnagyobb tava.", "Szépsége miatt gyakran 'Tenger-szem'-nek nevezik.", "Cirbolyafenyők veszik körül."],
-      ro: ["Cel mai mare lac din Munții Tatra.", "Adesea numit 'Ochiul Mării' pentru frumusețea sa.", "Înconjurat de pini cembra."],
-      en: ["Largest lake in the Tatras.", "Often called the 'Eye of the Sea' for its beauty.", "Surrounded by stone pines."]
-    }
-  },
-  {
     id: "landmark-kasprowy-wierch-cable-car-extra",
     type: "landmark",
     parent: "PL-MA",
@@ -1253,25 +911,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az 1930-as években épült.", "Eléri az 1987 méteres magasságot.", "Népszerű kiindulópont síelők és túrázók számára."],
       ro: ["Construită în anii 1930.", "Atinge o altitudine de 1.987 m.", "Punct de plecare popular pentru schiori și drumeți."],
       en: ["Built in the 1930s.", "Reaches an altitude of 1,987 m.", "Popular starting point for skiers and hikers."]
-    }
-  },
-  {
-    id: "river-dunajec-gorge-extra",
-    type: "river",
-    parent: "PL-MA",
-    coords: [20.42, 49.40],
-    name: { de: "Dunajec-Durchbruch", hu: "Dunajec-áttörés", ro: "Defileul Dunajec", en: "Dunajec River Gorge" },
-    description: {
-      de: "Eine beeindruckende Schlucht an der Grenze zwischen Polen und der Slowakei. Berühmt für traditionelle Floßfahrten durch die Pieninen.",
-      hu: "Lenyűgöző szurdokvölgy a lengyel-szlovák határon. Híres a hagyományos tutajozásról a Pieninek hegységen keresztül.",
-      ro: "Un defileu impresionant la granița dintre Polonia și Slovacia. Faimos pentru plimbările tradiționale cu pluta prin Munții Pieniny.",
-      en: "An impressive gorge on the border between Poland and Slovakia. Famous for traditional rafting trips through the Pieniny Mountains."
-    },
-    facts: {
-      de: ["Grenze zwischen Polen und der Slowakei.", "Traditionelle Floßfahrten seit dem 19. Jahrhundert.", "Teil des Pieninen-Nationalparks."],
-      hu: ["Határ Lengyelország és Szlovákia között.", "Hagyományos tutajozás a 19. század óta.", "A Pieniny Nemzeti Park része."],
-      ro: ["Granița dintre Polonia și Slovacia.", "Plimbări tradiționale cu pluta din secolul al XIX-lea.", "Parte a Parcului Național Pieniny."],
-      en: ["Border between Poland and Slovakia.", "Traditional rafting since the 19th century.", "Part of the Pieniny National Park."]
     }
   },
   {
@@ -1310,25 +949,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legmagasabb épülete.", "A szovjet uralom ellentmondásos szimbóluma.", "Kilátóterasz a 30. emeleten."],
       ro: ["Cea mai înaltă clădire din Polonia.", "Un simbol controversat al dominației sovietice.", "Punte de observație la etajul 30."],
       en: ["Tallest building in Poland.", "A controversial symbol of Soviet domination.", "Observation deck on the 30th floor."]
-    }
-  },
-  {
-    id: "landmark-warsaw-uprising-museum-extra",
-    type: "landmark",
-    parent: "PL-MA",
-    coords: [20.98, 52.23],
-    name: { de: "Museum des Warschauer Aufstands", hu: "Varsói Felkelés Múzeuma", ro: "Muzeul Insurecției din Varșovia", en: "Warsaw Uprising Museum" },
-    description: {
-      de: "Ein modernes und interaktives Museum, das dem Warschauer Aufstand von 1944 gewidmet ist. Es ehrt den Kampf der polnischen Heimatarmee gegen die deutsche Besatzung.",
-      hu: "Modern és interaktív múzeum, amelyet az 1944-es varsói felkelésnek szenteltek. A lengyel Honi Hadsereg német megszállás elleni harcának állít emléket.",
-      ro: "Un muzeu modern și interactiv dedicat Insurecției din Varșovia din 1944. Onorează lupta Armatei Teritoriale poloneze împotriva ocupației germane.",
-      en: "A modern and interactive museum dedicated to the 1944 Warsaw Uprising. It honors the fight of the Polish Home Army against the German occupation."
-    },
-    facts: {
-      de: ["Eröffnet am 60. Jahrestag des Aufstands.", "Interaktive Ausstellungen und eine Replik eines Liberator-Bombers.", "Ein mächtiges Zeugnis der polnischen Geschichte."],
-      hu: ["A felkelés 60. évfordulóján nyílt meg.", "Interaktív kiállítások és egy Liberator bombázó másolata.", "A lengyel történelem erőteljes tanúságtétele."],
-      ro: ["Deschis la a 60-a aniversare a Insurecției.", "Expoziții interactive și o replică a unui bombardier Liberator.", "O mărturie puternică a istoriei poloneze."],
-      en: ["Opened on the 60th anniversary of the Uprising.", "Interactive exhibits and a replica Liberator bomber.", "A powerful testament to Polish history."]
     }
   },
   {
@@ -1427,25 +1047,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "forest-bialowieza-forest-extra",
-    type: "forest",
-    parent: "PL-PD",
-    coords: [23.8, 52.7],
-    name: { de: "Białowieża-Urwald", hu: "Białowieża-erdő", ro: "Pădurea Białowieża", en: "Białowieża Forest" },
-    description: {
-      de: "Einer der letzten und größten verbliebenen Teile des riesigen Urwaldes, der einst die europäische Tiefebene bedeckte. UNESCO-Weltkulturerbe und Heimat der größten Population europäischer Bisons.",
-      hu: "Az egykor az európai síkságot borító hatalmas őserdő egyik utolsó és legnagyobb megmaradt része. UNESCO Világörökség, és az európai bölények legnagyobb populációjának otthona.",
-      ro: "Una dintre ultimele și cele mai mari părți rămase din vasta pădure primordială care acoperea odinioară Câmpia Europeană. Sit al Patrimoniului Mondial UNESCO și casă a celei mai mari populații de zimbri europeni.",
-      en: "One of the last and largest remaining parts of the immense primeval forest that once stretched across the European Plain. A UNESCO World Heritage site and home to the world's largest population of European bison."
-    },
-    facts: {
-      de: ["Letzter Urwald in Europa.", "Heimat von über 800 Wisenten.", "Geteilt zwischen Polen und Weißrussland."],
-      hu: ["Európa utolsó őserdeje.", "Több mint 800 bölény otthona.", "Megoszlik Lengyelország és Fehéroroszország között."],
-      ro: ["Ultima pădure primordială din Europa.", "Adăpostește peste 800 de zimbri.", "Împărțită între Polonia și Belarus."],
-      en: ["Last primeval forest in Europe.", "Home to over 800 European bison.", "Shared between Poland and Belarus."]
-    }
-  },
-  {
     id: "mountain-table-mountains-extra",
     type: "mountain",
     parent: "PL-DS",
@@ -1462,25 +1063,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egyetlen táblahegysége.", "Stołowe-hegység Nemzeti Park.", "A 'Narnia krónikái' forgatási helyszíne."],
       ro: ["Singurul lanț montan de tip masă din Polonia.", "Parcul Național Munții Stołowe.", "Loc de filmare pentru 'Cronicile din Narnia'."],
       en: ["Only table mountains in Poland.", "Stołowe Mountains National Park.", "Filming location for 'The Chronicles of Narnia'."]
-    }
-  },
-  {
-    id: "kid-landmark-energylandia-extra",
-    type: "kid-landmark",
-    parent: "PL-MP",
-    coords: [19.40, 49.99],
-    name: { de: "Energylandia", hu: "Energylandia", ro: "Energylandia", en: "Energylandia" },
-    description: {
-      de: "Der größte Vergnügungspark in Polen mit zahlreichen Achterbahnen und Attraktionen für alle Altersgruppen.",
-      hu: "Lengyelország legnagyobb vidámparkja, számos hullámvasúttal és attrakcióval minden korosztály számára.",
-      ro: "Cel mai mare parc de distracții din Polonia, cu numeroase rollercoastere și atracții pentru toate vârstele.",
-      en: "The largest amusement park in Poland, with numerous roller coasters and attractions for all ages."
-    },
-    facts: {
-      de: ["Größter Vergnügungspark in Polen.", "Über 100 Attraktionen.", "Hat einige der schnellsten Achterbahnen Europas."],
-      hu: ["Lengyelország legnagyobb vidámparkja.", "Több mint 100 attrakció.", "Itt található Európa néhány leggyorsabb hullámvasútja."],
-      ro: ["Cel mai mare parc de distracții din Polonia.", "Peste 100 de atracții.", "Are unele dintre cele mai rapide rollercoastere din Europa."],
-      en: ["Largest amusement park in Poland.", "Over 100 attractions.", "Has some of the fastest roller coasters in Europe."]
     }
   },
   {
@@ -1519,25 +1101,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A víznek szentelt múzeum.", "Multimédiás és interaktív kiállítások.", "Egy történelmi víztározóban."],
       ro: ["Muzeu dedicat apei.", "Expoziții multimedia și interactive.", "Într-un rezervor istoric de apă."],
       en: ["Museum dedicated to water.", "Multimedia and interactive exhibits.", "In a historic water reservoir."]
-    }
-  },
-  {
-    id: "historical-ksiaz-castle-extra",
-    type: "castle",
-    parent: "PL-DS",
-    coords: [16.29, 50.84],
-    name: { de: "Schloss Fürstenstein", hu: "Książ kastély", ro: "Castelul Książ", en: "Książ Castle" },
-    description: {
-      de: "Das drittgrößte Schloss Polens, malerisch auf einer Klippe gelegen. Berühmt für seine Verbindungen zum Projekt Riese, einem geheimen Nazi-Bauprojekt.",
-      hu: "Lengyelország harmadik legnagyobb kastélya, festői helyen, egy sziklán. Híres a Projekt Riese-hez fűződő kapcsolatairól, egy titkos náci építési projektről.",
-      ro: "Al treilea cel mai mare castel din Polonia, situat pitoresc pe o stâncă. Faimos pentru legăturile sale cu Proiectul Riese, un proiect secret de construcții naziste.",
-      en: "The third-largest castle in Poland, picturesquely situated on a cliff. Famous for its connections to Project Riese, a secret Nazi construction project."
-    },
-    facts: {
-      de: ["Drittgrößtes Schloss in Polen.", "Teil des geheimen 'Projekt Riese' im Zweiten Weltkrieg.", "Umgeben von terrassierten Gärten."],
-      hu: ["Lengyelország harmadik legnagyobb kastélya.", "A titkos 'Projekt Riese' része a második világháborúban.", "Teraszos kertek veszik körül."],
-      ro: ["Al treilea cel mai mare castel din Polonia.", "Parte a proiectului secret 'Riese' din Al Doilea Război Mondial.", "Înconjurat de grădini terasate."],
-      en: ["Third-largest castle in Poland.", "Part of the secret 'Project Riese' in WWII.", "Surrounded by terraced gardens."]
     }
   },
   {
@@ -1883,25 +1446,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "city-gniezno-extra",
-    type: "city",
-    parent: "PL-WP",
-    coords: [17.59, 52.53],
-    name: { de: "Gnesen", hu: "Gniezno", ro: "Gniezno", en: "Gniezno" },
-    description: {
-      de: "Die erste historische Hauptstadt Polens und ein wichtiger Ort für die polnische Staatlichkeit und das Christentum. Die Kathedrale von Gniezno ist ein bedeutendes Denkmal.",
-      hu: "Lengyelország első történelmi fővárosa, a lengyel államiság és a kereszténység fontos helyszíne. A gnieznói katedrális jelentős műemlék.",
-      ro: "Prima capitală istorică a Poloniei și un loc important pentru statalitatea și creștinismul polonez. Catedrala din Gniezno este un monument important.",
-      en: "The first historical capital of Poland and a key site for Polish statehood and Christianity. The Gniezno Cathedral is a major monument."
-    },
-    facts: {
-      de: ["Erste Hauptstadt Polens.", "Ort der Krönung der ersten polnischen Könige.", "Die berühmten Gnesener Bronzetüren in der Kathedrale."],
-      hu: ["Lengyelország első fővárosa.", "Az első lengyel királyok koronázási helyszíne.", "A híres gnieznói bronzkapu a katedrálisban."],
-      ro: ["Prima capitală a Poloniei.", "Locul încoronării primilor regi polonezi.", "Celebrele Uși de bronz de la Gniezno în catedrală."],
-      en: ["First capital of Poland.", "Coronation site of the first Polish kings.", "The famous Gniezno Doors in the cathedral."]
-    }
-  },
-  {
     id: "nature-wielkopolski-national-park-extra",
     type: "nature",
     parent: "PL-WP",
@@ -2016,25 +1560,6 @@ export const poiExtraPolandCities: POI[] = [
     }
   },
   {
-    id: "nature-ojcow-national-park-extra",
-    type: "nature",
-    parent: "PL-MP",
-    coords: [19.83, 50.21],
-    name: { de: "Nationalpark Ojców", hu: "Ojcowi Nemzeti Park", ro: "Parcul Național Ojców", en: "Ojców National Park" },
-    description: {
-      de: "Der kleinste Nationalpark Polens, berühmt für seine malerische Landschaft mit Kalksteinfelsen, Höhlen und zwei Burgen auf der Adlerhorst-Route.",
-      hu: "Lengyelország legkisebb nemzeti parkja, amely festői tájáról ismert, mészkősziklákkal, barlangokkal és a Saskastélyok útvonalán található két várral.",
-      ro: "Cel mai mic parc național din Polonia, renumit pentru peisajul său pitoresc cu stânci de calcar, peșteri și două castele pe Traseul Cuiburilor de Vulturi.",
-      en: "The smallest national park in Poland, famous for its picturesque landscape of limestone cliffs, caves, and two castles on the Trail of the Eagles' Nests."
-    },
-    facts: {
-      de: ["Kleinster Nationalpark in Polen.", "Über 400 Höhlen, darunter die Łokietek-Höhle.", "Pieskowa Skała Schloss und Ojców Burgruine."],
-      hu: ["Lengyelország legkisebb nemzeti parkja.", "Több mint 400 barlang, köztük a Łokietek-barlang.", "Pieskowa Skała kastély és az Ojcowi várrom."],
-      ro: ["Cel mai mic parc național din Polonia.", "Peste 400 de peșteri, inclusiv Peștera lui Łokietek.", "Castelul Pieskowa Skała și ruinele Castelului Ojców."],
-      en: ["Smallest national park in Poland.", "Over 400 caves, including Łokietek's Cave.", "Pieskowa Skała Castle and Ojców Castle ruins."]
-    }
-  },
-  {
     id: "historical-wooden-churches-southern-lesser-poland-extra",
     type: "historical",
     parent: "PL-MP",
@@ -2051,25 +1576,6 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO Világörökség része.", "Hat templom tartozik az együtteshez.", "Példák: Binarowa, Dębno, Lipnica Murowana."],
       ro: ["Patrimoniu Mondial UNESCO.", "Șase biserici fac parte din ansamblu.", "Exemplele includ Binarowa, Dębno, Lipnica Murowana."],
       en: ["UNESCO World Heritage site.", "Six churches form the group.", "Examples include Binarowa, Dębno, Lipnica Murowana."]
-    }
-  },
-  {
-    id: "kid-landmark-wieliczka-salt-mine-extra",
-    type: "kid-landmark",
-    parent: "PL-MP",
-    coords: [20.05, 49.98],
-    name: { de: "Salzbergwerk Wieliczka", hu: "Wieliczkai sóbánya", ro: "Salina Wieliczka", en: "Wieliczka Salt Mine" },
-    description: {
-      de: "Eine der ältesten Salzminen der Welt und ein UNESCO-Weltkulturerbe. Berühmt für ihre unterirdischen Kapellen, Seen und in Salz gehauenen Skulpturen.",
-      hu: "A világ egyik legrégebbi sóbányája, az UNESCO Világörökség része. Híres a föld alatti kápolnáiról, tavairól és a sóból faragott szobrairól.",
-      ro: "Una dintre cele mai vechi mine de sare din lume și un sit al Patrimoniului Mondial UNESCO. Faimoasă pentru capelele sale subterane, lacurile și sculpturile sculptate în sare.",
-      en: "One of the world's oldest salt mines and a UNESCO World Heritage site. Famous for its underground chapels, lakes, and sculptures carved out of salt."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe seit 1978.", "Über 287 km an Gängen.", "Die Kapelle der Heiligen Kinga ist komplett aus Salz."],
-      hu: ["Az UNESCO Világörökség része 1978 óta.", "Több mint 287 km hosszú járat.", "A Szent Kinga-kápolna teljes egészében sóból készült."],
-      ro: ["Patrimoniu Mondial UNESCO din 1978.", "Peste 287 km de galerii.", "Capela Sfânta Kinga este în întregime din sare."],
-      en: ["UNESCO World Heritage site since 1978.", "Over 287 km of passages.", "The Chapel of St. Kinga is entirely made of salt."]
     }
   },
   {

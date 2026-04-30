@@ -1,4 +1,3 @@
-// AUTO-GENERATED
 import type { POI } from "./poi";
 
 export const canadaCountry: POI[] = [];
@@ -10,22 +9,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Canada", hu: "Capital of Canada", ro: "Capital of Canada", en: "Capital of Canada" },
     descriptionAdvanced: {
       de: "Ottawa ist die majestätische Hauptstadt Kanadas, gelegen am Zusammenfluss dreier Flüsse. Die Stadt ist bekannt für ihre prächtige neugotische Architektur auf dem Parliament Hill und den Rideau-Kanal, der sich im Winter in die längste Eislaufbahn der Welt verwandelt.",
-      hu: "Ottawa Kanada fenséges fővárosa, amely három folyó találkozásánál fekszik. A város híres a Parlament-dombon található pompás neogótikus építészetéről és a Rideau-csatornáról, amely télen a világ leghosszabb korcsolyapályájává alakul.",
-      ro: "Ottawa este capitala maiestuoasă a Canadei, situată la confluența a trei râuri. Orașul este cunoscut pentru arhitectura sa neogotică magnifică de pe Dealul Parlamentului și Canalul Rideau, care iarna se transformă în cel mai lung patinoar din lume.",
-      en: "Ottawa is the majestic capital of Canada, situated at the confluence of three rivers. The city is famous for its grand Gothic Revival architecture on Parliament Hill and the Rideau Canal, which transforms into the world's longest skating rink in winter."
-    },
-    facts: {
-      de: ["Bundeshauptstadt", "Sitz des Parlaments", "Rideau-Kanal (UNESCO)", "Zweisprachige Stadt (EN/FR)", "Zentrum für Technologie"],
-      hu: ["Szövetségi főváros", "A parlament székhelye", "Rideau-csatorna (UNESCO)", "Kétnyelvű város (angol/francia)", "Technológiai központ"],
-      ro: ["Capitala federală", "Sediul Parlamentului", "Canalul Rideau (UNESCO)", "Oraș bilingv (EN/FR)", "Centru tehnologic"],
-      en: ["Federal capital", "Seat of Parliament", "Rideau Canal (UNESCO)", "Bilingual city (EN/FR)", "High-tech hub"]
+      hu: "Ottawa Kanada fenséges fővárosa, amely három folyó találkozásánál fekszik. A város híres a Parlament-dombon található pompás neogótikus építészetéről és a Rideau-csatornáról, amely télen a világ leghosszabb korcsolyapályájává alakul. Földrajz K7 – hegységek és folyók.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet als Bytown im Jahr 1826", "Wurde 1857 von Königin Victoria zur Hauptstadt gewählt", "Beherbergt das Kanadische Geschichtsmuseum"],
-      hu: ["1826-ban alapították Bytown néven", "Viktória királynő választotta fővárosnak 1857-ben", "Itt található a Kanadai Történeti Múzeum"],
-      ro: ["Fondat ca Bytown în 1826", "Ales capitală de regina Victoria în 1857", "Găzduiește Muzeul Canadian de Istorie"],
-      en: ["Founded as Bytown in 1826", "Chosen as capital by Queen Victoria in 1857", "Houses the Canadian Museum of History"]
+      de: [],
+      hu: ["A város a 19. század közepén vált Kanada állandó fővárosává.", "Az Ottawa-folyó választja el Ontariótól és Quebec tartománytól.", "Itt található a Kanadai Történeti Múzeum, amely az ország egyik leglátogatottabb kulturális intézménye.", "A Rideau-csatorna 202 km hosszú, és a 19. századi mérnöki munka remekműve.", "A városban található a Nemzeti Művészeti Galéria.", "A Tulipánfesztivál alatt a város több millió virágban pompázik."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Bundeshauptstadt", "Sitz des Parlaments", "Rideau-Kanal (UNESCO)", "Zweisprachige Stadt (EN/FR)", "Zentrum für Technologie"], hu: ["Szövetségi főváros", "A parlament székhelye", "Rideau-csatorna (UNESCO)", "Kétnyelvű város (angol/francia)", "Technológiai központ"], ro: ["Capitala federală", "Sediul Parlamentului", "Canalul Rideau (UNESCO)", "Oraș bilingv (EN/FR)", "Centru tehnologic"], en: ["Federal capital", "Seat of Parliament", "Rideau Canal (UNESCO)", "Bilingual city (EN/FR)", "High-tech hub"] },
     elevation: 70, historyYear: 1826, historyPeriod: "Victorian Era",
     coords: [-75.6972, 45.4215], type: 'landmark', parent: 'CA'
   },
@@ -34,22 +28,17 @@ export const canadaCities: POI[] = [
     description: { de: "Largest city in Canada", hu: "Largest city in Canada", ro: "Largest city in Canada", en: "Largest city in Canada" },
     descriptionAdvanced: {
       de: "Toronto ist das pulsierende wirtschaftliche Herz Kanadas und eine der multikulturellsten Städte der Welt. Die Metropole am Ufer des Ontariosees besticht durch ihre beeindruckende Skyline, die vom berühmten CN Tower dominiert wird, und ihre vielfältigen Kulturviertel.",
-      hu: "Toronto Kanada lüktető gazdasági szíve és a világ egyik legmultikulturálisabb városa. Az Ontario-tó partján fekvő metropoliszt lenyűgöző látkép jellemzi, amelyet a híres CN Tower ural, kiegészülve változatos kulturális negyedekkel.",
-      ro: "Toronto este inima economică vibrantă a Canadei și unul dintre cele mai multiculturale orașe din lume. Metropola de pe malul lacului Ontario impresionează prin linia orizontului dominată de celebrul CN Tower și cartierele sale culturale diverse.",
-      en: "Toronto is the vibrant economic heart of Canada and one of the most multicultural cities in the world. The metropolis on the shores of Lake Ontario features an impressive skyline dominated by the famous CN Tower and diverse cultural districts."
-    },
-    facts: {
-      de: ["Größte Stadt Kanadas", "Finanzzentrum", "CN Tower Wahrzeichen", "Multikulturelle Bevölkerung", "Hafen am Ontariosee"],
-      hu: ["Kanada legnagyobb városa", "Pénzügyi központ", "A CN Tower a jelképe", "Multikulturális lakosság", "Kikötő az Ontario-tavon"],
-      ro: ["Cel mai mare oraș din Canada", "Centru financiar", "Simbolul CN Tower", "Populație multiculturală", "Port la lacul Ontario"],
-      en: ["Canada's largest city", "Financial center", "CN Tower landmark", "Multicultural population", "Port on Lake Ontario"]
+      hu: "Toronto Kanada lüktető gazdasági szíve és a világ egyik legmultikulturálisabb városa. Az Ontario-tó partján fekvő metropoliszt lenyűgöző látkép jellemzi, amelyet a híres CN Tower ural, kiegészülve változatos kulturális negyedekkel. Földrajz K8 – nagyvárosok és urbanizáció.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet als York im Jahr 1793", "Beherbergt die University of Toronto", "Wichtiger Standort der Filmindustrie"],
-      hu: ["1793-ban alapították York néven", "Itt található a Torontói Egyetem", "A filmipar egyik fontos központja"],
-      ro: ["Fondat ca York în 1793", "Găzduiește Universitatea din Toronto", "Centru important al industriei cinematografice"],
-      en: ["Founded as York in 1793", "Home to the University of Toronto", "Major hub for the film industry"]
+      de: [],
+      hu: ["Kanada legnagyobb metropolisza és Ontario tartomány székhelye.", "A CN Tower 553 méteres magasságával sokáig a világ legmagasabb szabadon álló építménye volt.", "Toronto lakosságának több mint fele külföldön született.", "A várost a 'világ leghíresebb multikulturális olvasztótégelyeként' tartják számon.", "Az Ontario-tó kikötőjéből kompok indulnak a közeli Toronto-szigetekre.", "Híres a híres TIFF filmfesztiválról."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Stadt Kanadas", "Finanzzentrum", "CN Tower Wahrzeichen", "Multikulturelle Bevölkerung", "Hafen am Ontariosee"], hu: ["Kanada legnagyobb városa", "Pénzügyi központ", "A CN Tower a jelképe", "Multikulturális lakosság", "Kikötő az Ontario-tavon"], ro: ["Cel mai mare oraș din Canada", "Centru financiar", "Simbolul CN Tower", "Populație multiculturală", "Port la lacul Ontario"], en: ["Canada's largest city", "Financial center", "CN Tower landmark", "Multicultural population", "Port on Lake Ontario"] },
     elevation: 76, historyYear: 1793, historyPeriod: "Colonial/Modern",
     coords: [-79.3832, 43.6532], type: 'landmark', parent: 'CA'
   },
@@ -58,22 +47,17 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Quebec", hu: "Major city in Quebec", ro: "Major city in Quebec", en: "Major city in Quebec" },
     descriptionAdvanced: {
       de: "Montreal ist eine charmante Mischung aus europäischem Flair und nordamerikanischer Energie. Als zweitgrößte französischsprachige Stadt der Welt ist sie bekannt für ihre erstklassige Gastronomie, ihre lebendige Kunstszene und die historische Altstadt Vieux-Montréal.",
-      hu: "Montreal az európai báj és az észak-amerikai energia bájos keveréke. A világ második legnagyobb francia nyelvű városaként ismert kiváló gasztronómiájáról, élénk művészeti életéről és Vieux-Montréal történelmi óvárosáról.",
-      ro: "Montreal este un amestec fermecător de fler european și energie nord-americană. Fiind al doilea cel mai mare oraș francofon din lume, este cunoscut pentru gastronomia sa de top, scena artistică vibrantă și centrul istoric Vieux-Montréal.",
-      en: "Montreal is a charming blend of European flair and North American energy. As the world's second-largest French-speaking city, it is renowned for its world-class gastronomy, vibrant arts scene, and the historic Old Montreal district."
-    },
-    facts: {
-      de: ["Zweitgrößte Stadt Kanadas", "Französischsprachige Metropole", "Historisches Vieux-Montréal", "Kultur- und Festivalzentrum", "Großer Binnenhafen"],
-      hu: ["Kanada második legnagyobb városa", "Francia nyelvű metropolisz", "Történelmi Vieux-Montréal", "Kulturális és fesztiválközpont", "Nagy folyami kikötő"],
-      ro: ["Al doilea oraș ca mărime din Canada", "Metropolă francofonă", "Vieux-Montréal istoric", "Centru cultural și de festivaluri", "Mare port interior"],
-      en: ["Canada's second largest city", "French-speaking metropolis", "Historic Old Montreal", "Cultural and festival hub", "Major inland port"]
+      hu: "Montreal az európai báj és az észak-amerikai energia bájos keveréke. A világ második legnagyobb francia nyelvű városaként ismert kiváló gasztronómiájáról, élénk művészeti életéről és Vieux-Montréal történelmi óvárosáról. Földrajz K6 – városok szerkezete.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1642 als Ville-Marie", "Liegt auf einer Insel im Sankt-Lorenz-Strom", "Gastgeber der Weltausstellung Expo 67"],
-      hu: ["1642-ben alapították Ville-Marie néven", "A Szent Lőrinc-folyó egyik szigetén fekszik", "Az Expo 67 világkiállítás házigazdája"],
-      ro: ["Fondat în 1642 sub numele de Ville-Marie", "Situat pe o insulă în fluviul Sfântul Laurențiu", "Gazda expoziției universale Expo 67"],
-      en: ["Founded in 1642 as Ville-Marie", "Located on an island in the St. Lawrence River", "Host of the Expo 67 World's Fair"]
+      de: [],
+      hu: ["Montreal egy szigetváros a Szent Lőrinc-folyón.", "A városnak van egy kiterjedt 'földalatti városa' (RÉSO), amely főleg a téli hónapokban népszerű.", "A Mont-Royal hegyről csodálatos kilátás nyílik a metropoliszra.", "A Vieux-Montréal a legrégebbi negyed, macskaköves utcákkal.", "Itt zajlik az éves Montreal Jazz Fesztivál.", "A városi gasztronómia különlegessége a poutine."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Zweitgrößte Stadt Kanadas", "Französischsprachige Metropole", "Historisches Vieux-Montréal", "Kultur- und Festivalzentrum", "Großer Binnenhafen"], hu: ["Kanada második legnagyobb városa", "Francia nyelvű metropolisz", "Történelmi Vieux-Montréal", "Kulturális és fesztiválközpont", "Nagy folyami kikötő"], ro: ["Al doilea oraș ca mărime din Canada", "Metropolă francofonă", "Vieux-Montréal istoric", "Centru cultural și de festivaluri", "Mare port interior"], en: ["Canada's second largest city", "French-speaking metropolis", "Historic Old Montreal", "Cultural and festival hub", "Major inland port"] },
     elevation: 37, historyYear: 1642, historyPeriod: "French Colonial",
     coords: [-73.5673, 45.5017], type: 'landmark', parent: 'CA'
   },
@@ -82,22 +66,17 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in British Columbia", hu: "Major city in British Columbia", ro: "Major city in British Columbia", en: "Major city in British Columbia" },
     descriptionAdvanced: {
       de: "Vancouver ist eine atemberaubende Küstenstadt, in der das Meer auf die Berge trifft. Sie ist berühmt für ihre spektakuläre natürliche Umgebung, den weitläufigen Stanley Park und ihre Rolle als bedeutender Pazifikhafen und Zentrum der Filmindustrie.",
-      hu: "Vancouver egy lélegzetelállító tengerparti város, ahol az óceán találkozik a hegyekkel. Híres látványos természeti környezetéről, a hatalmas Stanley Parkról, valamint jelentős csendes-óceáni kikötőként és a filmipar központjaként betöltött szerepéről.",
-      ro: "Vancouver este un oraș de coastă uluitor, unde marea întâlnește munții. Este faimos pentru cadrul său natural spectaculos, vastul Stanley Park și rolul său de port major la Pacific și centru al industriei cinematografice.",
-      en: "Vancouver is a breathtaking coastal city where the ocean meets the mountains. It is famous for its spectacular natural setting, the expansive Stanley Park, and its role as a major Pacific port and film industry hub."
-    },
-    facts: {
-      de: ["Tor zum Pazifik", "Mildes Klima", "Stanley Park", "Wichtiges Filmzentrum", "Multikulturelle Hafenstadt"],
-      hu: ["Kapu a Csendes-óceánhoz", "Enyhe éghajlat", "Stanley Park", "Fontos filmgyártási központ", "Multikulturális kikötőváros"],
-      ro: ["Poarta către Pacific", "Climă blândă", "Stanley Park", "Centru cinematografic important", "Oraș port multicultural"],
-      en: ["Gateway to the Pacific", "Mild climate", "Stanley Park", "Major film production hub", "Multicultural port city"]
+      hu: "Vancouver egy lélegzetelállító tengerparti város, ahol az óceán találkozik a hegyekkel. Híres látványos természeti környezetéről, a hatalmas Stanley Parkról, valamint jelentős csendes-óceáni kikötőként és a filmipar központjaként betöltött szerepéről. Sachkunde K4 – óceánparti élővilág.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1886", "Benannt nach dem Entdecker George Vancouver", "Gastgeber der Olympischen Winterspiele 2010"],
-      hu: ["1886-ban alapították", "George Vancouver felfedezőről nevezték el", "A 2010-es téli olimpia házigazdája"],
-      ro: ["Fondat în anul 1886", "Numit după exploratorul George Vancouver", "Gazda Jocurilor Olimpice de Iarnă din 2010"],
-      en: ["Founded in 1886", "Named after explorer George Vancouver", "Host of the 2010 Winter Olympics"]
+      de: [],
+      hu: ["A város a hegyek és a tenger találkozásánál fekszik.", "A Stanley Park az egyik legnagyobb városi park Észak-Amerikában.", "Vancouver a filmgyártás egyik világközpontja, gyakran 'Északi Hollywood'.", "A város éghajlata Kanada egyik legenyhébbje.", "Itt található a híres Capilano függőhíd.", "A város 2010-ben téli olimpiát rendezett."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Tor zum Pazifik", "Mildes Klima", "Stanley Park", "Wichtiges Filmzentrum", "Multikulturelle Hafenstadt"], hu: ["Kapu a Csendes-óceánhoz", "Enyhe éghajlat", "Stanley Park", "Fontos filmgyártási központ", "Multikulturális kikötőváros"], ro: ["Poarta către Pacific", "Climă blândă", "Stanley Park", "Centru cinematografic important", "Oraș port multicultural"], en: ["Gateway to the Pacific", "Mild climate", "Stanley Park", "Major film production hub", "Multicultural port city"] },
     elevation: 2, historyYear: 1886, historyPeriod: "Modern",
     coords: [-123.1207, 49.2827], type: 'landmark', parent: 'CA'
   },
@@ -106,22 +85,17 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Alberta", hu: "Major city in Alberta", ro: "Major city in Alberta", en: "Major city in Alberta" },
     descriptionAdvanced: {
       de: "Calgary ist eine dynamische Stadt in den Ausläufern der Rocky Mountains, bekannt für ihre starke Verbindung zur Ölindustrie und ihre Wildwest-Traditionen. Jedes Jahr zieht die weltberühmte 'Calgary Stampede' Besucher aus aller Welt in die Stadt.",
-      hu: "Calgary egy dinamikus város a Sziklás-hegység lábánál, amely erős olajipari kötődéseiről és vadnyugati hagyományairól ismert. Minden évben a világhírű 'Calgary Stampede' látogatókat vonz a világ minden tájáról.",
-      ro: "Calgary este un oraș dinamic situat la poalele Munților Stâncoși, cunoscut pentru legătura sa puternică cu industria petrolieră și tradițiile sale de tip Wild West. În fiecare an, faimosul „Calgary Stampede” atrage vizitatori din întreaga lume.",
-      en: "Calgary is a dynamic city in the foothills of the Rocky Mountains, known for its strong connection to the oil industry and its Wild West traditions. Every year, the world-famous 'Calgary Stampede' attracts visitors from all over the world."
-    },
-    facts: {
-      de: ["Zentrum der Ölindustrie", "Tor zu den Rockies", "Calgary Stampede", "Sonnenreichste Stadt Kanadas", "Wirtschaftshub"],
-      hu: ["Az olajipar központja", "Kapu a Sziklás-hegységhez", "Calgary Stampede", "Kanada legnaposabb városa", "Gazdasági csomópont"],
-      ro: ["Centrul industriei petroliere", "Poarta către Munții Stâncoși", "Calgary Stampede", "Cel mai însorit oraș din Canada", "Hub economic"],
-      en: ["Center of the oil industry", "Gateway to the Rockies", "Calgary Stampede", "Sunniest city in Canada", "Economic hub"]
+      hu: "Calgary egy dinamikus város a Sziklás-hegység lábánál, amely erős olajipari kötődéseiről és vadnyugati hagyományairól ismert. Minden évben a világhírű 'Calgary Stampede' látogatókat vonz a világ minden tájáról. Földrajz K5 – hegységelőtéri települések.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1875", "Erste kanadische Stadt, die Olympische Winterspiele ausrichtete (1988)", "Liegt am Zusammenfluss von Bow und Elbow River"],
-      hu: ["1875-ben alapították", "Az első kanadai város, amely téli olimpiát rendezett (1988)", "A Bow és az Elbow folyók találkozásánál fekszik"],
-      ro: ["Fondat în anul 1875", "Primul oraș canadian care a găzduit Jocurile Olimpice de Iarnă (1988)", "Situat la confluența râurilor Bow și Elbow"],
-      en: ["Founded in 1875", "First Canadian city to host the Winter Olympics (1988)", "Located at the confluence of the Bow and Elbow Rivers"]
+      de: [],
+      hu: ["Calgary az olajipar kanadai központja.", "A Calgary Stampede a világ egyik legnagyobb rodeója.", "A város a Bow és az Elbow folyók torkolatánál fekszik.", "A városban található a Calgary Tower.", "A közelében található a Banff Nemzeti Park.", "Kanada egyik legnaposabb városa."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Zentrum der Ölindustrie", "Tor zu den Rockies", "Calgary Stampede", "Sonnenreichste Stadt Kanadas", "Wirtschaftshub"], hu: ["Az olajipar központja", "Kapu a Sziklás-hegységhez", "Calgary Stampede", "Kanada legnaposabb városa", "Gazdasági csomópont"], ro: ["Centrul industriei petroliere", "Poarta către Munții Stâncoși", "Calgary Stampede", "Cel mai însorit oraș din Canada", "Hub economic"], en: ["Center of the oil industry", "Gateway to the Rockies", "Calgary Stampede", "Sunniest city in Canada", "Economic hub"] },
     elevation: 1045, historyYear: 1875, historyPeriod: "Victorian/Modern",
     coords: [-114.0719, 51.0447], type: 'landmark', parent: 'CA'
   },
@@ -130,22 +104,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Alberta", hu: "Capital of Alberta", ro: "Capital of Alberta", en: "Capital of Alberta" },
     descriptionAdvanced: {
       de: "Edmonton ist die nördlichste Millionenstadt Nordamerikas und ein wichtiges Tor zur Arktis. Die Stadt ist bekannt für ihr pulsierendes Kulturleben, das ausgedehnte Flusstal des North Saskatchewan River und die gewaltige West Edmonton Mall.",
-      hu: "Edmonton Észak-Amerika legészakibb, több mint egymillió lakosú városa, és fontos kapu az Arktisz felé. A város híres pezsgő kulturális életéről, az Észak-Saskatchewan folyó kiterjedt völgyéről és a hatalmas West Edmonton Mallról.",
-      ro: "Edmonton este cel mai nordic oraș cu peste un milion de locuitori din America de Nord și o poartă importantă către Arctica. Orașul este cunoscut pentru viața sa culturală vibrantă, valea extinsă a râului North Saskatchewan și uriașul West Edmonton Mall.",
-      en: "Edmonton is the northernmost city in North America with a population over one million and serves as a major gateway to the Arctic. The city is known for its vibrant cultural scene, the extensive North Saskatchewan River Valley, and the massive West Edmonton Mall."
-    },
-    facts: {
-      de: ["Hauptstadt von Alberta", "Tor zum Norden", "Festivalstadt", "Größtes städtisches Parksystem", "West Edmonton Mall"],
-      hu: ["Alberta fővárosa", "Kapu északra", "A fesztiválok városa", "Legnagyobb városi parkrendszer", "West Edmonton Mall"],
-      ro: ["Capitala Albertei", "Poartă către Nord", "Orașul festivalurilor", "Cel mai mare sistem de parcuri urbane", "West Edmonton Mall"],
-      en: ["Capital of Alberta", "Gateway to the North", "Festival City", "Largest urban park system", "West Edmonton Mall"]
+      hu: "Edmonton Észak-Amerika legészakibb, több mint egymillió lakosú városa, és fontos kapu az Arktisz felé. A város híres pezsgő kulturális életéről, az Észak-Saskatchewan folyó kiterjedt völgyéről és a hatalmas West Edmonton Mallról. Földrajz K6 – északi városok.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet als Pelzhandelsposten im Jahr 1795", "Sitz der University of Alberta", "Wichtiger Forschungsstandort für Nanotechnologie"],
-      hu: ["1795-ben alapították szőrmekereskedelmi állomásként", "Itt található az Albertai Egyetem", "A nanotechnológiai kutatások fontos központja"],
-      ro: ["Fondat ca post de comerț cu blănuri în 1795", "Sediul Universității din Alberta", "Centru important de cercetare în nanotehnologie"],
-      en: ["Founded as a fur trading post in 1795", "Home to the University of Alberta", "Major hub for nanotechnology research"]
+      de: [],
+      hu: ["Edmonton Alberta tartomány fővárosa.", "A West Edmonton Mall Észak-Amerika egyik legnagyobb bevásárlóközpontja.", "Az Észak-Saskatchewan folyó völgye hatalmas parkrendszerrel rendelkezik.", "Észak-Amerika legészakibb nagyvárosa.", "Fontos bázis az északi olajkutatásokhoz.", "A városban található a híres Fringe Fesztivál."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Alberta", "Tor zum Norden", "Festivalstadt", "Größtes städtisches Parksystem", "West Edmonton Mall"], hu: ["Alberta fővárosa", "Kapu északra", "A fesztiválok városa", "Legnagyobb városi parkrendszer", "West Edmonton Mall"], ro: ["Capitala Albertei", "Poartă către Nord", "Orașul festivalurilor", "Cel mai mare sistem de parcuri urbane", "West Edmonton Mall"], en: ["Capital of Alberta", "Gateway to the North", "Festival City", "Largest urban park system", "West Edmonton Mall"] },
     elevation: 645, historyYear: 1795, historyPeriod: "Colonial/Modern",
     coords: [-113.4909, 53.5444], type: 'landmark', parent: 'CA'
   },
@@ -154,22 +123,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Quebec", hu: "Capital of Quebec", ro: "Capital of Quebec", en: "Capital of Quebec" },
     descriptionAdvanced: {
       de: "Québec ist eine der ältesten europäischen Siedlungen in Nordamerika und die einzige befestigte Stadt nördlich von Mexiko. Die historische Altstadt (Vieux-Québec) mit ihren kopfsteingepflasterten Gassen und dem majestätischen Château Frontenac ist ein UNESCO-Weltkulturerbe.",
-      hu: "Québec Észak-Amerika egyik legrégebbi európai települése és az egyetlen erődített város Mexikótól északra. A történelmi óváros (Vieux-Québec) macskaköves utcáival és a fenséges Château Frontenac-kal az UNESCO Világörökség része.",
-      ro: "Québec este una dintre cele mai vechi așezări europene din America de Nord și singurul oraș fortificat de la nord de Mexic. Centrul istoric (Vieux-Québec), cu străzile sale pietruite și maiestuosul Château Frontenac, este un sit al Patrimoniului Mondial UNESCO.",
-      en: "Quebec City is one of the oldest European settlements in North America and the only fortified city north of Mexico. Its historic district (Old Quebec), featuring cobblestone streets and the majestic Château Frontenac, is a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Hauptstadt von Québec", "UNESCO Weltkulturerbe", "Befestigte Altstadt", "Château Frontenac", "Überwiegend Französischsprachig"],
-      hu: ["Québec tartomány fővárosa", "UNESCO Világörökség", "Erődített óváros", "Château Frontenac", "Túlnyomórészt francia nyelvű"],
-      ro: ["Capitala provinciei Québec", "Patrimoniu Mondial UNESCO", "Oraș vechi fortificat", "Château Frontenac", "Predominant francofon"],
-      en: ["Capital of Quebec", "UNESCO World Heritage Site", "Fortified Old Town", "Château Frontenac", "Predominantly French-speaking"]
+      hu: "Québec Észak-Amerika egyik legrégebbi európai települése és az egyetlen erődített város Mexikótól északra. A történelmi óváros (Vieux-Québec) macskaköves utcáival és a fenséges Château Frontenac-kal az UNESCO Világörökség része. Történelem K7 – koloniális korszak.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet von Samuel de Champlain im Jahr 1608", "Schauplatz der Schlacht auf der Abraham-Ebene", "Bekannt für den Winterkarneval"],
-      hu: ["Samuel de Champlain alapította 1608-ban", "Az Ábrahám-síksági csata helyszíne", "Híres a téli karneváljáról"],
-      ro: ["Fondat de Samuel de Champlain în 1608", "Locul bătăliei de pe Câmpiile lui Avraam", "Cunoscut pentru Carnavalul de Iarnă"],
-      en: ["Founded by Samuel de Champlain in 1608", "Site of the Battle of the Plains of Abraham", "Famous for its Winter Carnival"]
+      de: [],
+      hu: ["Québec az egyetlen erődített város Mexikótól északra.", "A Château Frontenac a világ legtöbbet fényképezett hotelje.", "A Vieux-Québec UNESCO világörökségi helyszín.", "A városban található a híres Citadella.", "A Szent Lőrinc-folyó partján fekszik.", "A város téli karneválja világhírű."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Québec", "UNESCO Weltkulturerbe", "Befestigte Altstadt", "Château Frontenac", "Überwiegend Französischsprachig"], hu: ["Québec tartomány fővárosa", "UNESCO Világörökség", "Erődített óváros", "Château Frontenac", "Túlnyomórészt francia nyelvű"], ro: ["Capitala provinciei Québec", "Patrimoniu Mondial UNESCO", "Oraș vechi fortificat", "Château Frontenac", "Predominant francofon"], en: ["Capital of Quebec", "UNESCO World Heritage Site", "Fortified Old Town", "Château Frontenac", "Predominantly French-speaking"] },
     elevation: 98, historyYear: 1608, historyPeriod: "French Colonial",
     coords: [-71.208, 46.8139], type: 'landmark', parent: 'CA'
   },
@@ -178,22 +142,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Manitoba", hu: "Capital of Manitoba", ro: "Capital of Manitoba", en: "Capital of Manitoba" },
     descriptionAdvanced: {
       de: "Winnipeg ist das geografische Zentrum Kanadas und ein wichtiger Verkehrsknotenpunkt in der Prärie. Die Stadt ist bekannt für ihr reiches kulturelles Erbe, das moderne Kanadische Museum für Menschenrechte und den historischen Versammlungsort 'The Forks'.",
-      hu: "Winnipeg Kanada földrajzi középpontja és a préri vidék fontos közlekedési csomópontja. A város híres gazdag kulturális örökségéről, a modern Kanadai Emberi Jogi Múzeumról és a történelmi 'The Forks' találkozóhelyről.",
-      ro: "Winnipeg este centrul geografic al Canadei și un nod de transport vital în prerie. Orașul este cunoscut pentru moștenirea sa culturală bogată, modernul Muzeu Canadian pentru Drepturile Omului și locul istoric de întâlnire „The Forks”.",
-      en: "Winnipeg is the geographic center of Canada and a vital transportation hub in the prairies. The city is known for its rich cultural heritage, the modern Canadian Museum for Human Rights, and the historic meeting place 'The Forks'."
-    },
-    facts: {
-      de: ["Hauptstadt von Manitoba", "Geografisches Zentrum Kanadas", "Kanadisches Museum für Menschenrechte", "The Forks Treffpunkt", "Kaltes Winterklima"],
-      hu: ["Manitoba fővárosa", "Kanada földrajzi középpontja", "Kanadai Emberi Jogi Múzeum", "The Forks találkozóhely", "Hideg téli éghajlat"],
-      ro: ["Capitala provinciei Manitoba", "Centrul geografic al Canadei", "Muzeul Canadian pentru Drepturile Omului", "Locul de întâlnire The Forks", "Climă de iarnă geroasă"],
-      en: ["Capital of Manitoba", "Geographic center of Canada", "Canadian Museum for Human Rights", "The Forks meeting place", "Cold winter climate"]
+      hu: "Winnipeg Kanada földrajzi középpontja és a préri vidék fontos közlekedési csomópontja. A város híres gazdag kulturális örökségéről, a modern Kanadai Emberi Jogi Múzeumról és a történelmi 'The Forks' találkozóhelyről. Földrajz K5 – préri.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1873", "Liegt am Zusammenfluss von Red und Assiniboine River", "Wichtigstes Zentrum der Métis-Kultur"],
-      hu: ["1873-ban alapították", "A Red és az Assiniboine folyók találkozásánál fekszik", "A métis kultúra legfontosabb központja"],
-      ro: ["Fondat în anul 1873", "Situat la confluența râurilor Red și Assiniboine", "Cel mai important centru al culturii Métis"],
-      en: ["Founded in 1873", "Located at the confluence of the Red and Assiniboine Rivers", "Major center for Métis culture"]
+      de: [],
+      hu: ["Winnipeg Manitoba fővárosa.", "A 'The Forks' a két folyó találkozásánál fekvő történelmi helyszín.", "A Kanadai Emberi Jogi Múzeum építészeti remekmű.", "Kanada földrajzi középpontjának tekintik.", "A városnak gazdag a métis öröksége.", "A téli hőmérséklet rendkívül alacsony lehet."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Manitoba", "Geografisches Zentrum Kanadas", "Kanadisches Museum für Menschenrechte", "The Forks Treffpunkt", "Kaltes Winterklima"], hu: ["Manitoba fővárosa", "Kanada földrajzi középpontja", "Kanadai Emberi Jogi Múzeum", "The Forks találkozóhely", "Hideg téli éghajlat"], ro: ["Capitala provinciei Manitoba", "Centrul geografic al Canadei", "Muzeul Canadian pentru Drepturile Omului", "Locul de întâlnire The Forks", "Climă de iarnă geroasă"], en: ["Capital of Manitoba", "Geographic center of Canada", "Canadian Museum for Human Rights", "The Forks meeting place", "Cold winter climate"] },
     elevation: 239, historyYear: 1873, historyPeriod: "Victorian/Modern",
     coords: [-97.1384, 49.8951], type: 'landmark', parent: 'CA'
   },
@@ -202,22 +161,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Nova Scotia", hu: "Capital of Nova Scotia", ro: "Capital of Nova Scotia", en: "Capital of Nova Scotia" },
     descriptionAdvanced: {
       de: "Halifax ist eine historische Hafenstadt am Atlantik mit einer tiefen maritimen Tradition. Die Stadt ist bekannt für ihre beeindruckende Zitadelle, ihre lebendige Uferpromenade und ihre bedeutende Rolle in der Geschichte der kanadischen Einwanderung und der Marine.",
-      hu: "Halifax egy történelmi atlanti-óceáni kikötőváros, mély tengerészeti hagyományokkal. A város híres lenyűgöző citadellájáról, élénk vízparti sétányáról, valamint a kanadai bevándorlás és haditengerészet történetében betöltött jelentős szerepéről.",
-      ro: "Halifax este un oraș port istoric la Atlantic, cu o profundă tradiție maritimă. Orașul este cunoscut pentru citadela sa impresionantă, faleza vibrantă și rolul său semnificativ în istoria imigrației și a marinei canadiene.",
-      en: "Halifax is a historic Atlantic port city with deep maritime traditions. The city is known for its impressive Citadel, vibrant waterfront boardwalk, and its significant role in Canadian immigration and naval history."
-    },
-    facts: {
-      de: ["Hauptstadt von Neuschottland", "Strategischer Atlantikhafen", "Halifax Zitadelle", "Pier 21 Einwanderungsmuseum", "Zentrum für Meeresforschung"],
-      hu: ["Új-Skócia fővárosa", "Stratégiai atlanti kikötő", "Halifaxi Citadella", "Pier 21 Bevándorlási Múzeum", "Tengerkutatási központ"],
-      ro: ["Capitala Noii Scoții", "Port strategic la Atlantic", "Citadela Halifax", "Muzeul Imigrației Pier 21", "Centru de cercetare marină"],
-      en: ["Capital of Nova Scotia", "Strategic Atlantic port", "Halifax Citadel", "Pier 21 Immigration Museum", "Marine research hub"]
+      hu: "Halifax egy történelmi atlanti-óceáni kikötőváros, mély tengerészeti hagyományokkal. A város híres lenyűgöző citadellájáról, élénk vízparti sétányáról, valamint a kanadai bevándorlás és haditengerészet történetében betöltött jelentős szerepéről. Történelem K8 – tengerészet.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1749", "Einer der weltgrößten natürlichen eisfreien Häfen", "Wichtiges Rettungszentrum nach dem Untergang der Titanic"],
-      hu: ["1749-ben alapították", "A világ egyik legnagyobb természetes, jégmentes kikötője", "Fontos mentési központ a Titanic katasztrófája után"],
-      ro: ["Fondat în anul 1749", "Unul dintre cele mai mari porturi naturale fără gheață din lume", "Centru important de salvare după scufundarea Titanicului"],
-      en: ["Founded in 1749", "One of the world's largest natural ice-free harbors", "Major recovery center following the Titanic disaster"]
+      de: [],
+      hu: ["Halifax Új-Skócia tartomány székhelye.", "A város stratégiai jelentőségű kikötő az Atlanti-óceánon.", "A Halifaxi Citadella egy csillag alakú erőd.", "A Pier 21 volt az első kikötője a bevándorlóknak.", "A városnak fontos haditengerészeti szerepe van.", "A tengerparti sétány a város egyik legnépszerűbb turistacélpontja."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Neuschottland", "Strategischer Atlantikhafen", "Halifax Zitadelle", "Pier 21 Einwanderungsmuseum", "Zentrum für Meeresforschung"], hu: ["Új-Skócia fővárosa", "Stratégiai atlanti kikötő", "Halifaxi Citadella", "Pier 21 Bevándorlási Múzeum", "Tengerkutatási központ"], ro: ["Capitala Noii Scoții", "Port strategic la Atlantic", "Citadela Halifax", "Muzeul Imigrației Pier 21", "Centru de cercetare marină"], en: ["Capital of Nova Scotia", "Strategic Atlantic port", "Halifax Citadel", "Pier 21 Immigration Museum", "Marine research hub"] },
     elevation: 25, historyYear: 1749, historyPeriod: "Colonial",
     coords: [-63.5728, 44.6488], type: 'landmark', parent: 'CA'
   },
@@ -226,22 +180,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of British Columbia", hu: "Capital of British Columbia", ro: "Capital of British Columbia", en: "Capital of British Columbia" },
     descriptionAdvanced: {
       de: "Victoria, an der Südspitze von Vancouver Island gelegen, besticht durch ihr britisches Erbe und ihr mildes Klima. Die 'Gartenstadt' ist berühmt für ihre prächtigen Parlamentsgebäude, das historische Empress Hotel und ihre malerische Lage am Inner Harbour.",
-      hu: "A Vancouver-sziget déli csücskén fekvő Victoria brit örökségével és enyhe éghajlatával bűvöl el. A 'Kertváros' híres pompás parlamenti épületeiről, a történelmi Empress Hotelről és a Belső Kikötő festői környezetéről.",
-      ro: "Victoria, situată în vârful sudic al insulei Vancouver, impresionează prin moștenirea sa britanică și clima blândă. „Orașul Grădină” este faimos pentru clădirile sale parlamentare magnifice, istoricul Hotel Empress și locația sa pitorească în Inner Harbour.",
-      en: "Victoria, located on the southern tip of Vancouver Island, charms visitors with its British heritage and mild climate. Known as the 'Garden City,' it is famous for its grand legislative buildings, the historic Empress Hotel, and its picturesque Inner Harbour setting."
-    },
-    facts: {
-      de: ["Hauptstadt von British Columbia", "Auf Vancouver Island", "Gartenstadt", "Britisches Flair", "Mildestes Klima Kanadas"],
-      hu: ["Brit Kolumbia fővárosa", "A Vancouver-szigeten található", "Kertváros", "Brit hangulat", "Kanada legenyhébb éghajlata"],
-      ro: ["Capitala Columbiei Britanice", "Pe insula Vancouver", "Orașul Grădină", "Atmosferă britanică", "Cea mai blândă climă din Canada"],
-      en: ["Capital of British Columbia", "On Vancouver Island", "Garden City", "British flair", "Mildest climate in Canada"]
+      hu: "A Vancouver-sziget déli csücskén fekvő Victoria brit örökségével és enyhe éghajlatával bűvöl el. A 'Kertváros' híres pompás parlamenti épületeiről, a történelmi Empress Hotelről és a Belső Kikötő festői környezetéről. Földrajz K6 – szigeti városok.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet als Fort Victoria im Jahr 1843", "Zentrum für Meeresbiologie und Ozeanographie", "Heimat der Butchart Gardens"],
-      hu: ["1843-ban alapították Fort Victoria néven", "A tengerbiológia és az oceanográfia központja", "Itt találhatók a Butchart-kertek"],
-      ro: ["Fondat ca Fort Victoria în 1843", "Centru pentru biologie marină și oceanografie", "Casa Grădinilor Butchart"],
-      en: ["Founded as Fort Victoria in 1843", "Center for marine biology and oceanography", "Home to the Butchart Gardens"]
+      de: [],
+      hu: ["Victoria Brit Kolumbia tartomány fővárosa.", "A város híres az enyhe mediterrán jellegű éghajlatáról.", "Az Empress Hotel egy történelmi luxusszálloda.", "A városkép erősen emlékeztet Angliára.", "Híres a Butchart-kertekről.", "A Belső Kikötő a város központi találkozóhelye."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von British Columbia", "Auf Vancouver Island", "Gartenstadt", "Britisches Flair", "Mildestes Klima Kanadas"], hu: ["Brit Kolumbia fővárosa", "A Vancouver-szigeten található", "Kertváros", "Brit hangulat", "Kanada legenyhébb éghajlata"], ro: ["Capitala Columbiei Britanice", "Pe insula Vancouver", "Orașul Grădină", "Atmosferă britanică", "Cea mai blândă climă din Canada"], en: ["Capital of British Columbia", "On Vancouver Island", "Garden City", "British flair", "Mildest climate in Canada"] },
     elevation: 23, historyYear: 1843, historyPeriod: "Victorian Era",
     coords: [-123.3656, 48.4284], type: 'landmark', parent: 'CA'
   },
@@ -250,22 +199,17 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Saskatchewan", hu: "Major city in Saskatchewan", ro: "Major city in Saskatchewan", en: "Major city in Saskatchewan" },
     descriptionAdvanced: {
       de: "Saskatoon ist die größte Stadt in Saskatchewan und wird wegen ihrer zahlreichen Brücken über den South Saskatchewan River oft als 'Paris der Prärie' bezeichnet. Die Stadt ist ein blühendes Zentrum für Landwirtschaft und Biotechnologie.",
-      hu: "Saskatoon Saskatchewan legnagyobb városa, amelyet a Dél-Saskatchewan folyón átívelő számos hídja miatt gyakran a 'Préri Párizsaként' emlegetnek. A város a mezőgazdaság és a biotechnológia virágzó központja.",
-      ro: "Saskatoon este cel mai mare oraș din Saskatchewan și este adesea numit „Parisul Preriei” datorită numeroaselor sale poduri peste râul South Saskatchewan. Orașul este un centru înfloritor pentru agricultură și biotehnologie.",
-      en: "Saskatoon is the largest city in Saskatchewan and is often called the 'Paris of the Prairies' because of its many bridges across the South Saskatchewan River. The city is a thriving hub for agriculture and biotechnology."
-    },
-    facts: {
-      de: ["Größte Stadt in Saskatchewan", "Paris der Prärie", "Sieben Brücken", "Zentrum der Biotechnologie", "Wichtiger Eisenbahnknoten"],
-      hu: ["Saskatchewan legnagyobb városa", "A préri Párizsa", "Hét híd városa", "Biotechnológiai központ", "Fontos vasúti csomópont"],
-      ro: ["Cel mai mare oraș din Saskatchewan", "Parisul Preriei", "Orașul celor șapte poduri", "Centru de biotehnologie", "Nod feroviar important"],
-      en: ["Largest city in Saskatchewan", "Paris of the Prairies", "City of Seven Bridges", "Biotechnology hub", "Major railway junction"]
+      hu: "Saskatoon Saskatchewan legnagyobb városa, amelyet a Dél-Saskatchewan folyón átívelő számos hídja miatt gyakran a 'Préri Párizsaként' emlegetnek. A város a mezőgazdaság és a biotechnológia virágzó központja. Földrajz K7 – folyók és városok.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1882", "Benannt nach der Saskatoon-Beere", "Beherbergt den Canadian Light Source Synchrotron"],
-      hu: ["1882-ben alapították", "A saskatoon-bogyóról nevezték el", "Itt található a Kanadai Fényforrás Szinkrotron"],
-      ro: ["Fondat în anul 1882", "Numit după fructele de pădure Saskatoon", "Găzduiește Canadian Light Source Synchrotron"],
-      en: ["Founded in 1882", "Named after the Saskatoon berry", "Home to the Canadian Light Source synchrotron"]
+      de: [],
+      hu: ["Saskatoon a préri egyik meghatározó városa.", "Hét híd szeli át a várost.", "A biotechnológiai kutatások fontos központja.", "A város neve a saskatoon-bogyóból származik.", "A South Saskatchewan folyó fontos része a városképnek.", "Fontos vasúti csomópont."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Stadt in Saskatchewan", "Paris der Prärie", "Sieben Brücken", "Zentrum der Biotechnologie", "Wichtiger Eisenbahnknoten"], hu: ["Saskatchewan legnagyobb városa", "A préri Párizsa", "Hét híd városa", "Biotechnológiai központ", "Fontos vasúti csomópont"], ro: ["Cel mai mare oraș din Saskatchewan", "Parisul Preriei", "Orașul celor șapte poduri", "Centru de biotehnologie", "Nod feroviar important"], en: ["Largest city in Saskatchewan", "Paris of the Prairies", "City of Seven Bridges", "Biotechnology hub", "Major railway junction"] },
     elevation: 482, historyYear: 1882, historyPeriod: "Victorian/Modern",
     coords: [-106.67, 52.1332], type: 'landmark', parent: 'CA'
   },
@@ -274,22 +218,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Saskatchewan", hu: "Capital of Saskatchewan", ro: "Capital of Saskatchewan", en: "Capital of Saskatchewan" },
     descriptionAdvanced: {
       de: "Regina ist die stolze Hauptstadt von Saskatchewan und ein kulturelles Zentrum in der weiten Prärie. Die Stadt ist berühmt als Ausbildungsstätte der Royal Canadian Mounted Police und für den künstlich angelegten Wascana Lake im Herzen der Stadt.",
-      hu: "Regina Saskatchewan büszke fővárosa és a hatalmas préri kulturális központja. A város híres a Kanadai Királyi Lovasrendőrség kiképzőközpontjáról és a város szívében található, mesterséges Wascana-tóról.",
-      ro: "Regina este capitala mândră a provinciei Saskatchewan și un centru cultural în vasta prerie. Orașul este renumit ca loc de instruire al Poliției Regale Canadiene Călare și pentru lacul artificial Wascana din inima orașului.",
-      en: "Regina is the proud capital of Saskatchewan and a cultural center in the vast prairies. The city is famous as the training site for the Royal Canadian Mounted Police and for the man-made Wascana Lake at its heart."
-    },
-    facts: {
-      de: ["Hauptstadt von Saskatchewan", "Heimat der RCMP", "Wascana Centre", "Künstlicher See", "Wirtschaftszentrum der Prärie"],
-      hu: ["Saskatchewan fővárosa", "A Lovasrendőrség (RCMP) otthona", "Wascana Centre", "Mesterséges tó", "A préri gazdasági központja"],
-      ro: ["Capitala provinciei Saskatchewan", "Casa RCMP (Poliția Călare)", "Wascana Centre", "Lac artificial", "Centru economic în prerie"],
-      en: ["Capital of Saskatchewan", "Home of the RCMP", "Wascana Centre", "Man-made lake", "Economic hub of the prairies"]
+      hu: "Regina Saskatchewan büszke fővárosa és a hatalmas préri kulturális központja. A város híres a Kanadai Királyi Lovasrendőrség kiképzőközpontjáról és a város szívében található, mesterséges Wascana-tóról. Sachkunde K5 – bűnüldözés története.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1882", "Benannt nach Königin Victoria (Regina)", "Beherbergt das Royal Saskatchewan Museum"],
-      hu: ["1882-ben alapították", "Viktória királynőről nevezték el (Regina)", "Itt található a Királyi Saskatchewan Múzeum"],
-      ro: ["Fondat în anul 1882", "Numit după Regina Victoria (Regina)", "Găzduiește Muzeul Regal Saskatchewan"],
-      en: ["Founded in 1882", "Named after Queen Victoria (Regina)", "Home to the Royal Saskatchewan Museum"]
+      de: [],
+      hu: ["Regina Saskatchewan fővárosa.", "Az RCMP (Királyi Lovasrendőrség) itt képezi az újoncokat.", "A Wascana-tó egy hatalmas, mesterséges városi park központja.", "A városnak fontos szerepe van a mezőgazdasági terménykereskedelemben.", "A Royal Saskatchewan Múzeum az őslakos kultúrát mutatja be.", "Regina a préri közepén fekszik."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Saskatchewan", "Heimat der RCMP", "Wascana Centre", "Künstlicher See", "Wirtschaftszentrum der Prärie"], hu: ["Saskatchewan fővárosa", "A Lovasrendőrség (RCMP) otthona", "Wascana Centre", "Mesterséges tó", "A préri gazdasági központja"], ro: ["Capitala provinciei Saskatchewan", "Casa RCMP (Poliția Călare)", "Wascana Centre", "Lac artificial", "Centru economic în prerie"], en: ["Capital of Saskatchewan", "Home of the RCMP", "Wascana Centre", "Man-made lake", "Economic hub of the prairies"] },
     elevation: 577, historyYear: 1882, historyPeriod: "Victorian/Modern",
     coords: [-104.6158, 50.4492], type: 'landmark', parent: 'CA'
   },
@@ -298,22 +237,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Newfoundland and Labrador", hu: "Capital of Newfoundland and Labrador", ro: "Capital of Newfoundland and Labrador", en: "Capital of Newfoundland and Labrador" },
     descriptionAdvanced: {
       de: "St. John's ist eine der ältesten und am weitesten östlich gelegenen Städte Nordamerikas, bekannt für ihre bunt bemalten Häuser ('Jellybean Row') und den steilen Signal Hill. Die Stadt blickt auf eine reiche Fischereitradition zurück und ist heute ein wichtiger Stützpunkt für die Offshore-Ölindustrie.",
-      hu: "St. John's Észak-Amerika egyik legrégebbi és legkeletibb városa, amely híres színes házairól ('Jellybean Row') és a meredek Signal Hillről. A város gazdag halászati múlttal rendelkezik, ma pedig az offshore olajipar fontos bázisa.",
-      ro: "St. John's este unul dintre cele mai vechi și mai estice orașe din America de Nord, cunoscut pentru casele sale colorate („Jellybean Row”) și abruptul Signal Hill. Orașul are o bogată tradiție în pescuit și este astăzi o bază importantă pentru industria petrolieră offshore.",
-      en: "St. John's is one of the oldest and most easterly cities in North America, famous for its brightly colored houses ('Jellybean Row') and the steep Signal Hill. The city has a rich fishing heritage and is now a major hub for the offshore oil industry."
-    },
-    facts: {
-      de: ["Hauptstadt von Neufundland", "Östlichste Stadt Nordamerikas", "Jellybean Row Häuser", "Historischer Signal Hill", "Hafenstadt am Atlantik"],
-      hu: ["Új-Fundland fővárosa", "Észak-Amerika legkeletibb városa", "Jellybean Row színes házak", "Történelmi Signal Hill", "Atlanti kikötőváros"],
-      ro: ["Capitala Newfoundland", "Cel mai estic oraș din America de Nord", "Casele colorate Jellybean Row", "Signal Hill istoric", "Oraș port la Atlantic"],
-      en: ["Capital of Newfoundland", "Most easterly city in NA", "Jellybean Row houses", "Historic Signal Hill", "Atlantic port city"]
+      hu: "St. John's Észak-Amerika egyik legrégebbi és legkeletibb városa, amely híres színes házairól ('Jellybean Row') és a meredek Signal Hillről. A város gazdag halászati múlttal rendelkezik, ma pedig az offshore olajipar fontos bázisa. Földrajz K5 – óceánparti városok.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1497 (traditionell)", "Ort des ersten transatlantischen Funksignals (1901)", "Einer der nebligsten und windigsten Orte Kanadas"],
-      hu: ["1497-ben alapították (hagyomány szerint)", "Az első transzatlanti rádiójel helyszíne (1901)", "Kanada egyik legködösebb és legszelesebb helye"],
-      ro: ["Fondat în 1497 (conform tradiției)", "Locul primului semnal radio transatlantic (1901)", "Unul dintre cele mai cețoase și vântoase locuri din Canada"],
-      en: ["Founded in 1497 (traditionally)", "Site of the first transatlantic wireless signal (1901)", "One of the foggiest and windiest places in Canada"]
+      de: [],
+      hu: ["St. John's Új-Fundland és Labrador fővárosa.", "Ez a legkeletibb észak-amerikai város.", "A színes 'Jellybean Row' házak a város jelképei.", "A Signal Hillről történelmi jelentőségű rádiójelet vettek.", "A város halászati központként indult.", "Ma az offshore olajipar bázisa."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Neufundland", "Östlichste Stadt Nordamerikas", "Jellybean Row Häuser", "Historischer Signal Hill", "Hafenstadt am Atlantik"], hu: ["Új-Fundland fővárosa", "Észak-Amerika legkeletibb városa", "Jellybean Row színes házak", "Történelmi Signal Hill", "Atlanti kikötőváros"], ro: ["Capitala Newfoundland", "Cel mai estic oraș din America de Nord", "Casele colorate Jellybean Row", "Signal Hill istoric", "Oraș port la Atlantic"], en: ["Capital of Newfoundland", "Most easterly city in NA", "Jellybean Row houses", "Historic Signal Hill", "Atlantic port city"] },
     elevation: 0, historyYear: 1497, historyPeriod: "Discovery Era",
     coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA'
   },
@@ -322,22 +256,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of PEI", hu: "Capital of PEI", ro: "Capital of PEI", en: "Capital of PEI" },
     descriptionAdvanced: {
       de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als 'Geburtsort der Konföderation' Kanadas. Die Stadt besticht durch ihre gut erhaltene viktorianische Architektur, ihre Bedeutung als Kulturzentrum und ihre Nähe zu wunderschönen roten Sandstränden.",
-      hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá.",
-      ro: "Charlottetown este capitala fermecătoare a Insulei Prince Edward și este considerat „locul de naștere al Confederației” canadiene. Orașul impresionează prin arhitectura sa victoriană bine conservată, importanța ca centru cultural și proximitatea față de plajele superbe cu nisip roșu.",
-      en: "Charlottetown is the charming capital of Prince Edward Island and is known as the 'Birthplace of Confederation.' The city stands out for its well-preserved Victorian architecture, its significance as a cultural hub, and its proximity to beautiful red-sand beaches."
-    },
-    facts: {
-      de: ["Hauptstadt von PEI", "Geburtsort der Konföderation", "Viktorianische Architektur", "Heimat von Anne auf Green Gables", "Wichtiger Fischereihafen"],
-      hu: ["PEI fővárosa", "A konföderáció szülőhelye", "Viktoriánus építészet", "Anne a Zöld Oromból otthona", "Fontos halászkikötő"],
-      ro: ["Capitala PEI", "Locul de naștere al Confederației", "Arhitectură victoriană", "Casa personajului Anne of Green Gables", "Port de pescuit important"],
-      en: ["Capital of PEI", "Birthplace of Confederation", "Victorian architecture", "Home of Anne of Green Gables", "Important fishing port"]
+      hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá. Történelem K8 – Kanada születése.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1764", "Benannt nach Königin Charlotte", "Gastgeber der Charlottetown-Konferenz von 1864"],
-      hu: ["1764-ben alapították", "Sarolta királynéról nevezték el", "Az 1864-es Charlottetowni Konferencia helyszíne"],
-      ro: ["Fondat în anul 1764", "Numit după Regina Charlotte", "Gazda Conferinței de la Charlottetown din 1864"],
-      en: ["Founded in 1764", "Named after Queen Charlotte", "Host of the 1864 Charlottetown Conference"]
+      de: [],
+      hu: ["Charlottetown a Prince Edward-sziget fővárosa.", "Itt írták alá a Konföderáció létrehozásáról szóló megállapodás alapjait.", "A város tele van jól megőrzött viktoriánus épületekkel.", "A vörös homokos strandok a sziget jellemzői.", "A városnak gazdag a kulturális élete.", "Fontos kikötőhely a régióban."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von PEI", "Geburtsort der Konföderation", "Viktorianische Architektur", "Heimat von Anne auf Green Gables", "Wichtiger Fischereihafen"], hu: ["PEI fővárosa", "A konföderáció szülőhelye", "Viktoriánus építészet", "Anne a Zöld Oromból otthona", "Fontos halászkikötő"], ro: ["Capitala PEI", "Locul de naștere al Confederației", "Arhitectură victoriană", "Casa personajului Anne of Green Gables", "Port de pescuit important"], en: ["Capital of PEI", "Birthplace of Confederation", "Victorian architecture", "Home of Anne of Green Gables", "Important fishing port"] },
     elevation: 8, historyYear: 1764, historyPeriod: "Colonial/Victorian",
     coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA'
   },
@@ -346,22 +275,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of New Brunswick", hu: "Capital of New Brunswick", ro: "Capital of New Brunswick", en: "Capital of New Brunswick" },
     descriptionAdvanced: {
       de: "Fredericton, am Ufer des majestätischen Saint John River gelegen, ist die grüne Hauptstadt von New Brunswick. Die Stadt ist bekannt für ihre historische Bedeutung als Zentrum der Loyalisten, ihre renommierte Universität und ihre lebendige Kunstszene.",
-      hu: "Fredericton a fenséges Saint John-folyó partján fekvő, zöldellő fővárosa New Brunswicknek. A város híres a hűségesek (loyalisták) központjaként betöltött történelmi szerepéről, neves egyeteméről és élénk művészeti életéről.",
-      ro: "Fredericton, situat pe malurile maiestuosului râu Saint John, este capitala verde a provinciei New Brunswick. Orașul este cunoscut pentru importanța sa istorică ca centru al loialiștilor, universitatea sa renumită și scena artistică vibrantă.",
-      en: "Fredericton, situated on the banks of the majestic Saint John River, is the leafy capital of New Brunswick. The city is known for its historic significance as a Loyalist center, its renowned university, and its vibrant arts scene."
-    },
-    facts: {
-      de: ["Hauptstadt von New Brunswick", "Am Saint John River", "Historisches Offiziersviertel", "Bedeutendes Bildungszentrum", "Reich an Parks"],
-      hu: ["New Brunswick fővárosa", "A Saint John-folyó partján", "Történelmi tiszti negyed", "Jelentős oktatási központ", "Parkokban gazdag"],
-      ro: ["Capitala New Brunswick", "Pe râul Saint John", "Cartierul istoric al ofițerilor", "Centru educațional important", "Bogat în parcuri"],
-      en: ["Capital of New Brunswick", "On the Saint John River", "Historic Officers' Square", "Significant educational hub", "Wealth of parks"]
+      hu: "Fredericton a fenséges Saint John-folyó partján fekvő, zöldellő fővárosa New Brunswicknek. A város híres a hűségesek (loyalisták) központjaként betöltött történelmi szerepéről, neves egyeteméről és élénk művészeti életéről. Földrajz K5 – folyók.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1783 durch Loyalisten", "Heimat der University of New Brunswick", "Bekannt für das jährliche Harvest Jazz & Blues Festival"],
-      hu: ["1783-ban alapították a loyalisták", "A New Brunswick-i Egyetem otthona", "Híres az évente megrendezett Harvest Jazz & Blues Fesztiválról"],
-      ro: ["Fondat în 1783 de către loialiști", "Sediul Universității din New Brunswick", "Cunoscut pentru festivalul anual Harvest Jazz & Blues"],
-      en: ["Founded in 1783 by Loyalists", "Home to the University of New Brunswick", "Famous for the annual Harvest Jazz & Blues Festival"]
+      de: [],
+      hu: ["Fredericton New Brunswick fővárosa.", "A Saint John-folyó partján helyezkedik el.", "A loyalisták központja volt a függetlenségi háború után.", "A New Brunswick-i Egyetem az ország egyik legrégebbi egyeteme.", "A városnak gazdag a művészeti élete.", "Parkok sokasága jellemzi a városképet."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von New Brunswick", "Am Saint John River", "Historisches Offiziersviertel", "Bedeutendes Bildungszentrum", "Reich an Parks"], hu: ["New Brunswick fővárosa", "A Saint John-folyó partján", "Történelmi tiszti negyed", "Jelentős oktatási központ", "Parkokban gazdag"], ro: ["Capitala New Brunswick", "Pe râul Saint John", "Cartierul istoric al ofițerilor", "Centru educațional important", "Bogat în parcuri"], en: ["Capital of New Brunswick", "On the Saint John River", "Historic Officers' Square", "Significant educational hub", "Wealth of parks"] },
     elevation: 20, historyYear: 1783, historyPeriod: "Loyalist Era",
     coords: [-66.6431, 45.9636], type: 'landmark', parent: 'CA'
   },
@@ -370,22 +294,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Yukon", hu: "Capital of Yukon", ro: "Capital of Yukon", en: "Capital of Yukon" },
     descriptionAdvanced: {
       de: "Whitehorse ist die 'Wildnisstadt' im hohen Norden und die Hauptstadt des Yukon-Territoriums. Die Stadt liegt am Yukon River und war ein entscheidender Knotenpunkt während des Klondike-Goldrausches, heute dient sie als Zentrum für Outdoor-Abenteuer und Tourismus.",
-      hu: "Whitehorse a 'vadon városa' a távoli északon, Yukon terület fővárosa. A Yukon-folyó partján fekvő város meghatározó csomópont volt a klondike-i aranyláz idején, ma pedig a szabadtéri kalandok és a turizmus központja.",
-      ro: "Whitehorse este „orașul sălbăticiei” din nordul îndepărtat și capitala teritoriului Yukon. Orașul este situat pe râul Yukon și a fost un nod crucial în timpul febrei aurului din Klondike, servind astăzi ca centru pentru aventuri în aer liber și turism.",
-      en: "Whitehorse is the 'Wilderness City' in the far north and the capital of Yukon. Situated on the Yukon River, the city was a pivotal hub during the Klondike Gold Rush and today serves as a base for outdoor adventure and northern tourism."
-    },
-    facts: {
-      de: ["Hauptstadt von Yukon", "Am Yukon River gelegen", "Tor zur Arktis", "Bekannt für Polarlichter", "Historischer Raddampfer SS Klondike"],
-      hu: ["Yukon fővárosa", "A Yukon-folyó mentén fekszik", "Kapu az Arktiszhoz", "Sarki fényéről nevezetes", "Történelmi SS Klondike lapátkerekes hajó"],
-      ro: ["Capitala Yukon", "Situat pe râul Yukon", "Poartă către Arctica", "Cunoscut pentru aurora boreală", "Vasul istoric cu roate SS Klondike"],
-      en: ["Capital of Yukon", "Located on the Yukon River", "Gateway to the Arctic", "Famous for Northern Lights", "Historic SS Klondike sternwheeler"]
+      hu: "Whitehorse a 'vadon városa' a távoli északon, Yukon terület fővárosa. A Yukon-folyó partján fekvő város meghatározó csomópont volt a klondike-i aranyláz idején, ma pedig a szabadtéri kalandok és a turizmus központja. Történelem K6 – aranyláz.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet während des Goldrausches (um 1898)", "Name kommt von den Stromschnellen, die wie weiße Pferdemähnen aussahen", "Wichtigster Versorgungsknotenpunkt am Alaska Highway"],
-      hu: ["Az aranyláz idején alapították (1898 körül)", "Neve a zúgókról kapta, amelyek fehér ló sörényére emlékeztettek", "Az Alaska Highway legfontosabb ellátó központja"],
-      ro: ["Fondat în timpul febrei aurului (aprox. 1898)", "Numele provine de la vâltorile care semănau cu coama unui cal alb", "Cel mai important nod de aprovizionare pe Alaska Highway"],
-      en: ["Founded during the Gold Rush (circa 1898)", "Named after rapids that resembled manes of white horses", "Major supply hub on the Alaska Highway"]
+      de: [],
+      hu: ["Whitehorse Yukon fővárosa.", "Az aranyláz idején élte fénykorát.", "A Yukon-folyó a város életének központja.", "A szabadtéri kalandok központja.", "A környék híres a sarki fényről.", "A városnak történelmi jelentőségű lapátkerekes hajója is van."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Yukon", "Am Yukon River gelegen", "Tor zur Arktis", "Bekannt für Polarlichter", "Historischer Raddampfer SS Klondike"], hu: ["Yukon fővárosa", "A Yukon-folyó mentén fekszik", "Kapu az Arktiszhoz", "Sarki fényéről nevezetes", "Történelmi SS Klondike lapátkerekes hajó"], ro: ["Capitala Yukon", "Situat pe râul Yukon", "Poartă către Arctica", "Cunoscut pentru aurora boreală", "Vasul istoric cu roate SS Klondike"], en: ["Capital of Yukon", "Located on the Yukon River", "Gateway to the Arctic", "Famous for Northern Lights", "Historic SS Klondike sternwheeler"] },
     elevation: 640, historyYear: 1898, historyPeriod: "Gold Rush Era",
     coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA'
   },
@@ -394,22 +313,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of NWT", hu: "Capital of NWT", ro: "Capital of NWT", en: "Capital of NWT" },
     descriptionAdvanced: {
       de: "Yellowknife, am Ufer des Großen Sklavensees gelegen, ist die Diamantenhauptstadt Kanadas. Die Stadt hat sich von einer Bergbausiedlung zu einem modernen Verwaltungszentrum entwickelt und ist weltweit als einer der besten Orte zur Beobachtung von Polarlichtern bekannt.",
-      hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik.",
-      ro: "Yellowknife, situat pe malul lacului Marele Sclav, este capitala diamantelor din Canada. Orașul a evoluat de la o așezare minieră la un centru administrativ modern și este cunoscut la nivel mondial ca unul dintre cele mai bune locuri pentru observarea aurorei boreale.",
-      en: "Yellowknife, located on the shores of Great Slave Lake, is the diamond capital of Canada. The city has transformed from a mining outpost into a modern administrative hub and is globally renowned as one of the best locations for viewing the Aurora Borealis."
-    },
-    facts: {
-      de: ["Hauptstadt der NWT", "Diamantenzentrum", "Am Großen Sklavensee", "Beste Polarlichter", "Nördliches Wirtschaftszentrum"],
-      hu: ["Az Északnyugati területek fővárosa", "Gyémántközpont", "A Nagy-Rabszolga-tónál fekszik", "Legszebb sarki fény", "Északi gazdasági központ"],
-      ro: ["Capitala Teritoriilor de Nord-Vest", "Centrul diamantelor", "Pe malul lacului Marele Sclav", "Cea mai bună auroră boreală", "Centru economic nordic"],
-      en: ["Capital of NWT", "Diamond capital", "On Great Slave Lake", "Best Northern Lights", "Northern economic hub"]
+      hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik. Földrajz K8 – geológia.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1934 nach Goldfunden", "Beherbergt den Prince of Wales Northern Heritage Centre", "Zentrum für arktische Luftfahrt"],
-      hu: ["1934-ben alapították aranyleletek után", "Itt található a Prince of Wales Northern Heritage Centre", "Az arktiszi repülés központja"],
-      ro: ["Fondat în anul 1934 după descoperirea aurului", "Găzduiește Prince of Wales Northern Heritage Centre", "Centru pentru aviația arctică"],
-      en: ["Founded in 1934 following gold discoveries", "Home to the Prince of Wales Northern Heritage Centre", "Hub for Arctic aviation"]
+      de: [],
+      hu: ["Yellowknife az Északnyugati területek fővárosa.", "Kanada gyémántbányászatának központja.", "A Nagy-Rabszolga-tó partján helyezkedik el.", "A sarki fény megfigyelésének egyik legjobb helye.", "Bányásztelepülésből fejlődött modern központtá.", "Az arktiszi légiközlekedés központja."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt der NWT", "Diamantenzentrum", "Am Großen Sklavensee", "Beste Polarlichter", "Nördliches Wirtschaftszentrum"], hu: ["Az Északnyugati területek fővárosa", "Gyémántközpont", "A Nagy-Rabszolga-tónál fekszik", "Legszebb sarki fény", "Északi gazdasági központ"], ro: ["Capitala Teritoriilor de Nord-Vest", "Centrul diamantelor", "Pe malul lacului Marele Sclav", "Cea mai bună auroră boreală", "Centru economic nordic"], en: ["Capital of NWT", "Diamond capital", "On Great Slave Lake", "Best Northern Lights", "Northern economic hub"] },
     elevation: 206, historyYear: 1934, historyPeriod: "Modern/Mining Era",
     coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA'
   },
@@ -418,22 +332,17 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Nunavut", hu: "Capital of Nunavut", ro: "Capital of Nunavut", en: "Capital of Nunavut" },
     descriptionAdvanced: {
       de: "Iqaluit ist die entlegene Hauptstadt von Nunavut auf der Baffininsel und das kulturelle Herz der Inuit in Kanada. Die Stadt am Frobisher Bay ist geprägt von arktischer Tundra, traditionellem Kunsthandwerk und einer modernen Infrastruktur in einer extremen Umgebung.",
-      hu: "Iqaluit Nunavut távoli fővárosa a Baffin-szigeten, a kanadai inuitok kulturális szíve. A Frobisher-öböl partján fekvő várost arktiszi tundra, hagyományos kézművesség és szélsőséges környezetben kiépült modern infrastruktúra jellemzi.",
-      ro: "Iqaluit este capitala îndepărtată a Nunavutului, situată pe Insula Baffin, și inima culturală a inuiților din Canada. Orașul de pe malul golfului Frobisher este marcat de tundra arctică, meșteșugurile tradiționale și o infrastructură modernă într-un mediu extrem.",
-      en: "Iqaluit is the remote capital of Nunavut on Baffin Island and the cultural heart of the Inuit in Canada. Located on Frobisher Bay, the city is characterized by arctic tundra, traditional arts and crafts, and modern infrastructure in an extreme environment."
-    },
-    facts: {
-      de: ["Hauptstadt von Nunavut", "Auf der Baffininsel", "Inuit-Kulturzentrum", "Arktisches Klima", "Nur per Flugzeug oder Schiff erreichbar"],
-      hu: ["Nunavut fővárosa", "A Baffin-szigeten található", "Inuit kulturális központ", "Arktiszi éghajlat", "Csak repülővel vagy hajóval elérhető"],
-      ro: ["Capitala Nunavut", "Pe Insula Baffin", "Centru cultural inuit", "Climă arctică", "Accesibil doar cu avionul sau vaporul"],
-      en: ["Capital of Nunavut", "On Baffin Island", "Inuit cultural center", "Arctic climate", "Accessible only by air or sea"]
+      hu: "Iqaluit Nunavut távoli fővárosa a Baffin-szigeten, a kanadai inuitok kulturális szíve. A Frobisher-öböl partján fekvő várost arktiszi tundra, hagyományos kézművesség és szélsőséges környezetben kiépült modern infrastruktúra jellemzi. Sachkunde K3 – inuitok kultúrája.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet als Luftwaffenstützpunkt im Jahr 1942", "Hieß bis 1987 Frobisher Bay", "Wichtigster Stützpunkt für die arktische Forschung"],
-      hu: ["Légibázisként alapították 1942-ben", "1987-ig Frobisher Bay volt a neve", "Az arktiszi kutatások legfontosabb bázisa"],
-      ro: ["Fondat ca bază aeriană în 1942", "Numit Frobisher Bay până în 1987", "Cea mai importantă bază pentru cercetarea arctică"],
-      en: ["Founded as an air base in 1942", "Named Frobisher Bay until 1987", "Primary hub for Arctic research"]
+      de: [],
+      hu: ["Iqaluit Nunavut fővárosa.", "A Baffin-szigeten helyezkedik el.", "Az inuit kultúra központja.", "A Frobisher-öböl partján fekszik.", "Csak repülővel vagy hajóval közelíthető meg.", "Az infrastruktúra a szélsőséges éghajlathoz igazodik."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Hauptstadt von Nunavut", "Auf der Baffininsel", "Inuit-Kulturzentrum", "Arktisches Klima", "Nur per Flugzeug oder Schiff erreichbar"], hu: ["Nunavut fővárosa", "A Baffin-szigeten található", "Inuit kulturális központ", "Arktiszi éghajlat", "Csak repülővel vagy hajóval elérhető"], ro: ["Capitala Nunavut", "Pe Insula Baffin", "Centru cultural inuit", "Climă arctică", "Accesibil doar cu avionul sau vaporul"], en: ["Capital of Nunavut", "On Baffin Island", "Inuit cultural center", "Arctic climate", "Accessible only by air or sea"] },
     elevation: 5, historyYear: 1942, historyPeriod: "Modern/Arctic Era",
     coords: [-68.5145, 63.7467], type: 'landmark', parent: 'CA'
   },
@@ -446,22 +355,17 @@ export const canadaCities: POI[] = [
     description: { de: "Höchster Gipfel in den kanadischen Rocky Mountains.", hu: "A Kanadai-Sziklás-hegység legmagasabb csúcsa.", ro: "Cel mai înalt vârf din Munții Stâncoși Canadieni.", en: "Highest peak in the Canadian Rockies." },
     descriptionAdvanced: {
       de: "Mount Robson ist mit 3.954 Metern der höchste Punkt der kanadischen Rocky Mountains und bildet das Herzstück des gleichnamigen Provinzparks. Seine markante Nordwand ragt fast 2.500 Meter über den Berg Lake empor und ist eine der größten Steilwände Nordamerikas.",
-      hu: "A 3954 méter magas Mount Robson a Kanadai-Sziklás-hegység legmagasabb pontja, és az azonos nevű tartományi park központi eleme. Jellegzetes északi fala csaknem 2500 méterrel magasodik a Berg-tó fölé, ami Észak-Amerika egyik legnagyobb függőleges sziklafala.",
-      ro: "Mount Robson, având 3.954 de metri, este cel mai înalt punct din Munții Stâncoși Canadieni și piesa centrală a parcului provincial omonim. Peretele său nordic proeminent se ridică la aproape 2.500 de metri deasupra lacului Berg, fiind una dintre cele mai mari fețe muntoase din America de Nord.",
-      en: "Mount Robson is the highest point in the Canadian Rockies at 3,954 meters and the centerpiece of the provincial park that bears its name. Its prominent north face rises nearly 2,500 meters above Berg Lake, making it one of the largest vertical faces in North America."
-    },
-    facts: {
-      de: ["Höchster Gipfel der kanadischen Rockies", "UNESCO Weltnaturerbe", "Spektakuläre Nordwand", "Ursprung des Fraser River", "Schwierig zu besteigen"],
-      hu: ["A Kanadai-Sziklás-hegység legmagasabb csúcsa", "UNESCO Világörökség", "Látványos északi fal", "A Fraser-folyó forrásvidéke", "Nehezen megmászható"],
-      ro: ["Cel mai înalt vârf din Stâncoșii Canadieni", "Patrimoniu Mondial UNESCO", "Perete nordic spectaculos", "Originea râului Fraser", "Dificil de escaladat"],
-      en: ["Highest peak in the Canadian Rockies", "UNESCO World Heritage Site", "Spectacular North Face", "Source region of the Fraser River", "Highly challenging climb"]
+      hu: "A 3954 méter magas Mount Robson a Kanadai-Sziklás-hegység legmagasabb pontja, és az azonos nevű tartományi park központi eleme. Jellegzetes északi fala csaknem 2500 méterrel magasodik a Berg-tó fölé, ami Észak-Amerika egyik legnagyobb függőleges sziklafala. Földrajz K7 – magashegységek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Erstbesteigung im Jahr 1913", "Erzeugt sein eigenes Mikroklima", "Beherbergt den Mist-Gletscher"],
-      hu: ["Első megmászása 1913-ban történt", "Saját mikroklímát hoz létre", "Itt található a Mist-gleccser"],
-      ro: ["Prima ascensiune în anul 1913", "Își creează propriul microclimat", "Găzduiește ghețarul Mist"],
-      en: ["First successful ascent in 1913", "Creates its own local microclimate", "Home to the Mist Glacier"]
+      de: [],
+      hu: ["A Kanadai-Sziklás-hegység legmagasabb csúcsa.", "UNESCO Világörökség része.", "Az északi fal 2500 méteres.", "A Fraser-folyó forrásvidéke.", "Alpinisták egyik célpontja.", "Mikroklímát teremt a hegy körül."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Höchster Gipfel der kanadischen Rockies", "UNESCO Weltnaturerbe", "Spektakuläre Nordwand", "Ursprung des Fraser River", "Schwierig zu besteigen"], hu: ["A Kanadai-Sziklás-hegység legmagasabb csúcsa", "UNESCO Világörökség", "Látványos északi fal", "A Fraser-folyó forrásvidéke", "Nehezen megmászható"], ro: ["Cel mai înalt vârf din Stâncoșii Canadieni", "Patrimoniu Mondial UNESCO", "Perete nordic spectaculos", "Originea râului Fraser", "Dificil de escaladat"], en: ["Highest peak in the Canadian Rockies", "UNESCO World Heritage Site", "Spectacular North Face", "Source region of the Fraser River", "Highly challenging climb"] },
     elevation: 3954, historyYear: 1913, historyPeriod: "Modern Alpine Era"
   },
   {
@@ -473,22 +377,17 @@ export const canadaCities: POI[] = [
     description: { de: "Der längste Fluss in British Columbia.", hu: "Brit Kolumbia leghosszabb folyója.", ro: "Cel mai lung râu din Columbia Britanică.", en: "The longest river within British Columbia." },
     descriptionAdvanced: {
       de: "Der Fraser River entspringt in den Rocky Mountains und fließt über 1.300 Kilometer bis zu seiner Mündung südlich von Vancouver. Er ist weltberühmt für seine gewaltigen Lachswanderungen und spielte eine zentrale Rolle während des Cariboo-Goldrausches.",
-      hu: "A Fraser-folyó a Sziklás-hegységben ered, és több mint 1300 kilométert tesz meg a Vancouvertől délre található torkolatáig. Világhírű a hatalmas lazacvonulásairól, és központi szerepet játszott a Cariboo-aranyláz idején.",
-      ro: "Fluviul Fraser izvorăște din Munții Stâncoși și curge pe o distanță de peste 1.300 de kilometri până la vărsarea sa la sud de Vancouver. Este renumit în întreaga lume pentru migrațiile masive de somon și a jucat un rol central în timpul febrei aurului din Cariboo.",
-      en: "The Fraser River originates in the Rocky Mountains and flows for over 1,300 kilometers to its mouth south of Vancouver. It is world-renowned for its massive salmon runs and played a central role during the Cariboo Gold Rush."
-    },
-    facts: {
-      de: ["Längster Fluss in British Columbia", "Bedeutendster Lachsfluss", "Keine Staudämme am Hauptlauf", "Wichtiger Transportweg", "Starker Sedimenttransport"],
-      hu: ["Brit Kolumbia leghosszabb folyója", "A legjelentősebb lazacívó folyó", "Nincsenek gátak a főágán", "Fontos szállítási útvonal", "Jelentős hordalékszállítás"],
-      ro: ["Cel mai lung râu din Columbia Britanică", "Cel mai important râu pentru somon", "Niciun baraj pe cursul principal", "Cale de transport importantă", "Transport masiv de sedimente"],
-      en: ["Longest river in British Columbia", "World's most productive salmon river", "No dams on the main stem", "Major transportation corridor", "High sediment load"]
+      hu: "A Fraser-folyó a Sziklás-hegységben ered, és több mint 1300 kilométert tesz meg a Vancouvertől délre található torkolatáig. Világhírű a hatalmas lazacvonulásairól, és központi szerepet játszott a Cariboo-aranyláz idején. Földrajz K6 – folyórendszerek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Entwässert ein Gebiet von 220.000 km²", "Benannt nach dem Entdecker Simon Fraser", "Bildet den spektakulären Fraser Canyon"],
-      hu: ["Vízgyűjtő területe 220 000 km²", "Simon Fraser felfedezőről nevezték el", "Itt található a látványos Fraser-kanyon"],
-      ro: ["Drenează o suprafață de 220.000 km²", "Numit după exploratorul Simon Fraser", "Formează spectaculosul Canion Fraser"],
-      en: ["Drains an area of 220,000 km²", "Named after explorer Simon Fraser", "Carves through the spectacular Fraser Canyon"]
+      de: [],
+      hu: ["Brit Kolumbia leghosszabb folyója.", "Hatalmas lazacvonulásairól ismert.", "Központi szerepe volt az aranyláz idején.", "A vízgyűjtő területe óriási.", "Nem gátolták le főágát.", "Fontos ökológiai folyosó."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Längster Fluss in British Columbia", "Bedeutendster Lachsfluss", "Keine Staudämme am Hauptlauf", "Wichtiger Transportweg", "Starker Sedimenttransport"], hu: ["Brit Kolumbia leghosszabb folyója", "A legjelentősebb lazacívó folyó", "Nincsenek gátak a főágán", "Fontos szállítási útvonal", "Jelentős hordalékszállítás"], ro: ["Cel mai lung râu din Columbia Britanică", "Cel mai important râu pentru somon", "Niciun baraj pe cursul principal", "Cale de transport importantă", "Transport masiv de sedimente"], en: ["Longest river in British Columbia", "World's most productive salmon river", "No dams on the main stem", "Major transportation corridor", "High sediment load"] },
     length: 1375
   },
   {
@@ -500,22 +399,17 @@ export const canadaCities: POI[] = [
     description: { de: "Der größte See, der vollständig in Kanada liegt.", hu: "A legnagyobb tó, amely teljesen Kanadában fekszik.", ro: "Cel mai mare lac situat în întregime în Canada.", en: "The largest lake entirely within Canada." },
     descriptionAdvanced: {
       de: "Der Große Bärensee in den Nordwest-Territorien ist der viertgrößte See Nordamerikas und liegt direkt am Polarkreis. Sein Wasser ist außergewöhnlich klar und kalt, und der See ist für den Großteil des Jahres von Eis bedeckt.",
-      hu: "Az Északnyugati területeken található Nagy-Medve-tó Észak-Amerika negyedik legnagyobb tava, és közvetlenül az északi sarkkörön fekszik. Vize rendkívül tiszta és hideg, az év nagy részében jég borítja.",
-      ro: "Lacul Marele Urs din Teritoriile de Nord-Vest este al patrulea cel mai mare lac din America de Nord și este situat direct pe Cercul Polar. Apa sa este excepțional de limpede și rece, lacul fiind acoperit de gheață în cea mai mare parte a anului.",
-      en: "Great Bear Lake in the Northwest Territories is the fourth largest lake in North America and sits directly on the Arctic Circle. Its waters are exceptionally clear and cold, with the lake remaining ice-covered for most of the year."
-    },
-    facts: {
-      de: ["Größter rein kanadischer See", "Am Polarkreis gelegen", "Extrem klares Wasser", "Heimat von Seesaiblingen", "Sehr dünn besiedelt"],
-      hu: ["A legnagyobb teljesen kanadai tó", "Az északi sarkkörön fekszik", "Rendkívül tiszta víz", "Tavi pisztrángok élőhelye", "Nagyon ritkán lakott környék"],
-      ro: ["Cel mai mare lac integral canadian", "Situat pe Cercul Polar", "Apă extrem de limpede", "Habitat pentru păstrăvul de lac", "Zonă foarte puțin populată"],
-      en: ["Largest lake entirely in Canada", "Located on the Arctic Circle", "Extremely clear water", "Home to world-record lake trout", "Very sparsely populated area"]
+      hu: "Az Északnyugati területeken található Nagy-Medve-tó Észak-Amerika negyedik legnagyobb tava, és közvetlenül az északi sarkkörön fekszik. Vize rendkívül tiszta és hideg, az év nagy részében jég borítja. Sachkunde K5 – sarkvidéki tavak.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Fläche von 31.153 km²", "Maximale Tiefe von 446 Metern", "Einst Standort für Uranabbau"],
-      hu: ["Területe 31 153 km²", "Maximális mélysége 446 méter", "Egykor uránbányászat folyt a környékén"],
-      ro: ["Suprafață de 31.153 km²", "Adâncime maximă de 446 metri", "Fost loc de extracție a uraniului"],
-      en: ["Surface area of 31,153 km²", "Maximum depth of 446 meters", "Site of former uranium mining operations"]
+      de: [],
+      hu: ["Kanada legnagyobb belső tava.", "Az északi sarkkörön található.", "A víz hőmérséklete nagyon hideg.", "Az év nagy részében jég borítja.", "A tó területe hatalmas.", "Nagyon ritkán lakott környék."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größter rein kanadischer See", "Am Polarkreis gelegen", "Extrem klares Wasser", "Heimat von Seesaiblingen", "Sehr dünn besiedelt"], hu: ["A legnagyobb teljesen kanadai tó", "Az északi sarkkörön fekszik", "Rendkívül tiszta víz", "Tavi pisztrángok élőhelye", "Nagyon ritkán lakott környék"], ro: ["Cel mai mare lac integral canadian", "Situat pe Cercul Polar", "Apă extrem de limpede", "Habitat pentru păstrăvul de lac", "Zonă foarte puțin populată"], en: ["Largest lake entirely in Canada", "Located on the Arctic Circle", "Extremely clear water", "Home to world-record lake trout", "Very sparsely populated area"] },
     area: 31153, elevation: 156
   },
   {
@@ -527,22 +421,17 @@ export const canadaCities: POI[] = [
     description: { de: "Ältester Provinzpark in Ontario mit dichten Wäldern.", hu: "Ontario legrégebbi tartományi parkja sűrű erdőkkel.", ro: "Cel mai vechi parc provincial din Ontario, cu păduri dese.", en: "Ontario's oldest provincial park, featuring dense forests." },
     descriptionAdvanced: {
       de: "Algonquin Park ist eine riesige Wildnis aus Ahornwäldern, Felsrücken und tausenden von Seen in Zentral-Ontario. Er ist ein Paradies für Kanufahrer und Wanderer und inspirierte zahlreiche kanadische Künstler, insbesondere die berühmte Group of Seven.",
-      hu: "Az Algonquin Park egy hatalmas vadon juharerdőkkel, sziklás gerincekkel és több ezer tóval Közép-Ontarióban. A kenusok és túrázók paradicsoma, amely számos kanadai művészt, különösen a híres Group of Seven csoportot ihlette meg.",
-      ro: "Parcul Algonquin este o vastă zonă sălbatică formată din păduri de arțar, creste stâncoase și mii de lacuri în centrul provinciei Ontario. Este un paradis pentru canoiști și drumeți, inspirând numeroși artiști canadieni, în special celebra Group of Seven.",
-      en: "Algonquin Park is a vast wilderness of maple-covered hills, rocky ridges, and thousands of lakes in central Ontario. It is a premier destination for canoeing and hiking and served as a major inspiration for Canadian artists, notably the Group of Seven."
-    },
-    facts: {
-      de: ["Ältester Provinzpark Kanadas", "Über 2.400 Seen", "Weltklasse Kanu-Revier", "Heimat von Elchen und Wölfen", "Inspiration für Künstler"],
-      hu: ["Kanada legrégebbi tartományi parkja", "Több mint 2400 tó", "Világszínvonalú kenuútvonalak", "Jávorszarvasok és farkasok otthona", "Művészek ihletője"],
-      ro: ["Cel mai vechi parc provincial din Canada", "Peste 2.400 de lacuri", "Zonă de canotaj de clasă mondială", "Casa elanilor și a lupilor", "Sursă de inspirație pentru artiști"],
-      en: ["Canada's oldest provincial park", "Over 2,400 lakes", "World-class canoeing destination", "Home to moose and wolves", "Inspiration for many artists"]
+      hu: "Az Algonquin Park egy hatalmas vadon juharerdőkkel, sziklás gerincekkel és több ezer tóval Közép-Ontarióban. A kenusok és túrázók paradicsoma, amely számos kanadai művészt, különösen a híres Group of Seven csoportot ihlette meg. Földrajz K6 – erdőségek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1893", "Fläche von ca. 7.653 km²", "Wichtiges Zentrum für forstwirtschaftliche Forschung"],
-      hu: ["1893-ban alapították", "Területe kb. 7653 km²", "Az erdészeti kutatások fontos központja"],
-      ro: ["Fondat în anul 1893", "Suprafață de aproximativ 7.653 km²", "Centru important pentru cercetare forestieră"],
-      en: ["Established in 1893", "Area of approx. 7,653 km²", "Significant hub for forestry research"]
+      de: [],
+      hu: ["Kanada legrégebbi tartományi parkja.", "Több mint 2400 tó található benne.", "A kenusok paradicsoma.", "A Group of Seven művészek ihletője.", "Jávorszarvasok és farkasok otthona.", "Az őszi lombszínváltozás látványos."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Ältester Provinzpark Kanadas", "Über 2.400 Seen", "Weltklasse Kanu-Revier", "Heimat von Elchen und Wölfen", "Inspiration für Künstler"], hu: ["Kanada legrégebbi tartományi parkja", "Több mint 2400 tó", "Világszínvonalú kenuútvonalak", "Jávorszarvasok és farkasok otthona", "Művészek ihletője"], ro: ["Cel mai vechi parc provincial din Canada", "Peste 2.400 de lacuri", "Zonă de canotaj de clasă mondială", "Casa elanilor și a lupilor", "Sursă de inspirație pentru artiști"], en: ["Canada's oldest provincial park", "Over 2,400 lakes", "World-class canoeing destination", "Home to moose and wolves", "Inspiration for many artists"] },
     area: 7653, historyYear: 1893, historyPeriod: "Victorian Era"
   },
   {
@@ -554,22 +443,17 @@ export const canadaCities: POI[] = [
     description: { de: "Ein markanter Berg im Jasper Nationalpark.", hu: "Jellegzetes hegy a Jasper Nemzeti Parkban.", ro: "Un munte proeminent în Parcul Național Jasper.", en: "A prominent mountain in Jasper National Park." },
     descriptionAdvanced: {
       de: "Mount Edith Cavell ist einer der beeindruckendsten Berge im Jasper Nationalpark, bekannt für seine vertikalen Quarzitwände. Zu seinen Füßen liegt der Cavell-Gletscher und der engelsflügelartig geformte Angel-Gletscher, der spektakulär über die Felsen hängt.",
-      hu: "A Mount Edith Cavell a Jasper Nemzeti Park egyik leglenyűgözőbb hegye, amely függőleges kvarcitfalairól ismert. Lábánál található a Cavell-gleccser és az angyalszárny formájú Angel-gleccser, amely látványosan csüng a sziklák felett.",
-      ro: "Muntele Edith Cavell este unul dintre cei mai impresionanți munți din Parcul Național Jasper, cunoscut pentru pereții săi verticali de cuarțit. La picioarele sale se află ghețarul Cavell și ghețarul Angel, în formă de aripi de înger, care atârnă spectaculos deasupra stâncilor.",
-      en: "Mount Edith Cavell is one of the most striking peaks in Jasper National Park, renowned for its sheer quartzite cliffs. At its base lie the Cavell Pond and the angel-wing-shaped Angel Glacier, which hangs spectacularly over the rock face."
-    },
-    facts: {
-      de: ["Ikonischer Gipfel in Jasper", "Hängender Angel-Gletscher", "Benannt nach einer heroischen Krankenschwester", "Beliebtes Wanderziel", "Bunte Wildblumenwiesen"],
-      hu: ["A Jasper park ikonikus csúcsa", "Függő Angel-gleccser", "Egy hős ápolónőről nevezték el", "Népszerű túracélpont", "Színes vadvirágos rétek"],
-      ro: ["Vârf iconic în Jasper", "Ghețarul Angel suspendat", "Numit după o infirmieră eroină", "Destinație populară de drumeție", "Pajiști cu flori sălbatice colorate"],
-      en: ["Iconic Jasper peak", "Hanging Angel Glacier", "Named after a heroic nurse", "Popular hiking destination", "Vibrant alpine wildflower meadows"]
+      hu: "A Mount Edith Cavell a Jasper Nemzeti Park egyik leglenyűgözőbb hegye, amely függőleges kvarcitfalairól ismert. Lábánál található a Cavell-gleccser és az angyalszárny formájú Angel-gleccser, amely látványosan csüng a sziklák felett. Sachkunde K4 – gleccserek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Höhe von 3.363 Metern", "Früherer Name: 'La Montagne de la Grande Traverse'", "Gehört zur Main Range der Rocky Mountains"],
-      hu: ["Magassága 3363 méter", "Korábbi neve: 'La Montagne de la Grande Traverse'", "A Sziklás-hegység központi vonulatához tartozik"],
-      ro: ["Altitudine de 3.363 metri", "Nume anterior: „La Montagne de la Grande Traverse”", "Parte a lanțului principal din Munții Stâncoși"],
-      en: ["Elevation of 3,363 meters", "Formerly known as 'La Montagne de la Grande Traverse'", "Part of the Main Range of the Rocky Mountains"]
+      de: [],
+      hu: ["A Jasper Nemzeti Park egyik látványossága.", "Függőleges kvarcitfalak jellemzik.", "Az angyalszárny alakú Angel-gleccser.", "Egy hős ápolónőről nevezték el.", "Népszerű túraútvonalak.", "A gleccser látványa lenyűgöző."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Ikonischer Gipfel in Jasper", "Hängender Angel-Gletscher", "Benannt nach einer heroischen Krankenschwester", "Beliebtes Wanderziel", "Bunte Wildblumenwiesen"], hu: ["A Jasper park ikonikus csúcsa", "Függő Angel-gleccser", "Egy hős ápolónőről nevezték el", "Népszerű túracélpont", "Színes vadvirágos rétek"], ro: ["Vârf iconic în Jasper", "Ghețarul Angel suspendat", "Numit după o infirmieră eroină", "Destinație populară de drumeție", "Pajiști cu flori sălbatice colorate"], en: ["Iconic Jasper peak", "Hanging Angel Glacier", "Named after a heroic nurse", "Popular hiking destination", "Vibrant alpine wildflower meadows"] },
     elevation: 3363
   },
   {
@@ -581,22 +465,17 @@ export const canadaCities: POI[] = [
     description: { de: "Französische Festung aus dem 18. Jahrhundert auf der Kap-Breton-Insel.", hu: "18. századi francia erőd a Cape Breton-szigeten.", ro: "Fortăreață franceză din secolul al XVIII-lea pe insula Cape Breton.", en: "18th-century French fortress on Cape Breton Island." },
     descriptionAdvanced: {
       de: "Die Festung Louisbourg ist eine teilweise rekonstruierte französische Kolonialfestung aus dem 18. Jahrhundert. Sie war einst einer der geschäftigsten Häfen Nordamerikas und ein wichtiges Zentrum für den Kabeljaufang sowie ein strategischer Militärstützpunkt im Kampf um den Kontinent.",
-      hu: "A Louisbourgi erőd egy 18. századi francia gyarmati erődítmény részben rekonstruált változata. Egykor Észak-Amerika egyik legforgalmasabb kikötője és a tőkehalhalászat fontos központja volt, valamint stratégiai katonai bázis a kontinensért folytatott küzdelemben.",
-      ro: "Fortăreața Louisbourg este o fortificație colonială franceză din secolul al XVIII-lea, parțial reconstruită. A fost odată unul dintre cele mai aglomerate porturi din America de Nord și un centru important pentru pescuitul de cod, precum și o bază militară strategică.",
-      en: "The Fortress of Louisbourg is a partially reconstructed 18th-century French colonial town and fortress. It was once one of the busiest ports in North America and a vital center for the cod fishery, serving as a strategic military base during the struggle for the continent."
-    },
-    facts: {
-      de: ["Größte Rekonstruktion in NA", "Wichtiger französischer Außenposten", "Zentrum des Fischhandels", "Zweimal von Briten belagert"],
-      hu: ["Észak-Amerika legnagyobb rekonstrukciója", "Fontos francia külbázis", "Halkereskedelmi központ", "A britek kétszer is ostromolták"],
-      ro: ["Cea mai mare reconstrucție din NA", "Apostol francez important", "Centru al comerțului cu pește", "Asediat de două ori de britanici"],
-      en: ["Largest reconstruction in NA", "Key French colonial outpost", "Hub for the cod fishery", "Twice besieged by the British"]
+      hu: "A Louisbourgi erőd egy 18. századi francia gyarmati erődítmény részben rekonstruált változata. Egykor Észak-Amerika egyik legforgalmasabb kikötője és a tőkehalhalászat fontos központja volt, valamint stratégiai katonai bázis a kontinensért folytatott küzdelemben. Történelem K8 – gyarmati háborúk.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1713", "Kosten für den Bau waren astronomisch", "Hafen blieb das ganze Jahr eisfrei"],
-      hu: ["1713-ban alapították", "Az építési költségek csillagászatiak voltak", "Kikötője egész évben jégmentes maradt"],
-      ro: ["Fondată în anul 1713", "Costurile de construcție au fost astronomice", "Portul a rămas fără gheață tot anul"],
-      en: ["Founded in 1713 after Treaty of Utrecht", "Construction costs were notoriously high", "Port remained ice-free year-round"]
+      de: [],
+      hu: ["A legnagyobb francia gyarmati rekonstrukció.", "A tőkehalhalászat fontos központja volt.", "Stratégiai katonai támaszpont.", "A britek ostromolták.", "Ma szabadtéri múzeumként működik.", "A 18. századi életet mutatja be."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Rekonstruktion in NA", "Wichtiger französischer Außenposten", "Zentrum des Fischhandels", "Zweimal von Briten belagert"], hu: ["Észak-Amerika legnagyobb rekonstrukciója", "Fontos francia külbázis", "Halkereskedelmi központ", "A britek kétszer is ostromolták"], ro: ["Cea mai mare reconstrucție din NA", "Apostol francez important", "Centru al comerțului cu pește", "Asediat de două ori de britanici"], en: ["Largest reconstruction in NA", "Key French colonial outpost", "Hub for the cod fishery", "Twice besieged by the British"] },
     area: 60, historyYear: 1713, historyPeriod: "French Colonial"
   },
   {
@@ -608,22 +487,17 @@ export const canadaCities: POI[] = [
     description: { de: "Archäologische Stätte einer Wikingersiedlung in Neufundland.", hu: "Viking település régészeti lelőhelye Új-Fundlandon.", ro: "Sit arheologic al unei așezări vikinge în Newfoundland.", en: "Archaeological site of a Viking settlement in Newfoundland." },
     descriptionAdvanced: {
       de: "L'Anse aux Meadows ist die einzige authentifizierte Wikingersiedlung in Nordamerika außerhalb Grönlands. Diese UNESCO-Welterbestätte beweist, dass skandinavische Seefahrer Amerika bereits 500 Jahre vor Kolumbus erreichten und dort Gebäude aus Soden errichteten.",
-      hu: "L'Anse aux Meadows az egyetlen hitelesített viking település Észak-Amerikában Grönlandon kívül. Ez az UNESCO Világörökségi helyszín bizonyítja, hogy a skandináv hajósok már 500 évvel Kolumbusz előtt elérték Amerikát, és gyeptéglából emelt épületeket hagytak hátra.",
-      ro: "L'Anse aux Meadows este singura așezare vikingă autentificată din America de Nord în afara Groenlandei. Acest sit al Patrimoniului Mondial UNESCO dovedește că navigatorii scandinavi au ajuns în America cu 500 de ani înainte de Columb.",
-      en: "L'Anse aux Meadows is the only authenticated Viking settlement in North America outside of Greenland. This UNESCO World Heritage site provides definitive proof that Norse seafarers reached the Americas 500 years before Columbus, establishing sod buildings on the coast."
-    },
-    facts: {
-      de: ["Einzige Wikingersiedlung in NA", "UNESCO Weltkulturerbe", "500 Jahre vor Kolumbus", "Bauten aus Grassoden"],
-      hu: ["Az egyetlen viking település Észak-Amerikában", "UNESCO Világörökség", "500 évvel Kolumbusz előtt", "Gyeptéglából épült házak"],
-      ro: ["Singura așezare vikingă din NA", "Patrimoniu Mondial UNESCO", "Cu 500 de ani înainte de Columb", "Clădiri din brazde de iarbă"],
-      en: ["Only authenticated Norse site in NA", "UNESCO World Heritage Site", "Dated to circa 1000 AD", "Features sod-walled buildings"]
+      hu: "L'Anse aux Meadows az egyetlen hitelesített viking település Észak-Amerikában Grönlandon kívül. Ez az UNESCO Világörökségi helyszín bizonyítja, hogy a skandináv hajósok már 500 évvel Kolumbusz előtt elérték Amerikát, és gyeptéglából emelt épületeket hagytak hátra. Történelem K6 – vikingek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Wurde 1960 von Helge Ingstad entdeckt", "Diente wahrscheinlich als Reparaturstützpunkt", "Beweise für Eisenverhüttung gefunden"],
-      hu: ["1960-ban fedezte fel Helge Ingstad", "Valószínűleg hajójavító bázisként szolgált", "Vasművességre utaló bizonyítékokat találtak"],
-      ro: ["Descoperit în 1960 de Helge Ingstad", "A servit probabil ca bază de reparații", "Dovezi de prelucrare a fierului găsite"],
-      en: ["Discovered in 1960 by Helge Ingstad", "Likely served as a ship repair base", "Evidence of iron production found"]
+      de: [],
+      hu: ["Az egyetlen viking település Észak-Amerikában.", "Az UNESCO Világörökség része.", "500 évvel Kolumbusz előtti lelet.", "Gyeptéglából épült házak maradványai.", "Helge Ingstad fedezte fel 1960-ban.", "Vasművességre utaló nyomokat találtak."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Einzige Wikingersiedlung in NA", "UNESCO Weltkulturerbe", "500 Jahre vor Kolumbus", "Bauten aus Grassoden"], hu: ["Az egyetlen viking település Észak-Amerikában", "UNESCO Világörökség", "500 évvel Kolumbusz előtt", "Gyeptéglából épült házak"], ro: ["Singura așezare vikingă din NA", "Patrimoniu Mondial UNESCO", "Cu 500 de ani înainte de Columb", "Clădiri din brazde de iarbă"], en: ["Only authenticated Norse site in NA", "UNESCO World Heritage Site", "Dated to circa 1000 AD", "Features sod-walled buildings"] },
     historyYear: 1000, historyPeriod: "Viking Age"
   },
   ];
@@ -635,21 +509,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Banff-Nationalpark ist der älteste Nationalpark Kanadas und ein Flaggschiff des kanadischen Naturschutzes. Er ist weltberühmt für seine smaragdgrünen Seen, die majestätischen Gipfel der Rocky Mountains und die charmante Gebirgsstadt Banff.",
       hu: "A Banff Nemzeti Park Kanada legrégebbi nemzeti parkja és a kanadai természetvédelem jelképe. Világhírű smaragdzöld tavairól, a Sziklás-hegység fenséges csúcsairól és Banff bájos hegyi városáról.",
-      ro: "Parcul Național Banff este cel mai vechi parc național din Canada și un simbol al conservării naturii. Este renumit în întreaga lume pentru lacurile sale de smarald, vârfurile maiestuoase ale Munților Stâncoși și orașul montan fermecător Banff.",
-      en: "Banff National Park is Canada's oldest national park and a flagship of the country's conservation efforts. It is world-renowned for its emerald lakes, majestic Rocky Mountain peaks, and the charming mountain town of Banff."
-    },
-    facts: {
-      de: ["Ältester Nationalpark Kanadas", "UNESCO Weltnaturerbe", "Spektakuläre Berglandschaft", "Heimat von Grizzlys und Elchen", "Berühmte Thermalquellen"],
-      hu: ["Kanada legrégebbi nemzeti parkja", "UNESCO Világörökség", "Látványos hegyi tájak", "Grizzlyk és jávorszarvasok otthona", "Híres termálforrások"],
-      ro: ["Cel mai vechi parc național din Canada", "Patrimoniu Mondial UNESCO", "Peisaje montane spectaculoase", "Casa urșilor grizzly și a elanilor", "Izvoare termale faimoase"],
-      en: ["Canada's oldest national park", "UNESCO World Heritage Site", "Spectacular mountain scenery", "Home to grizzly bears and moose", "Famous thermal hot springs"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1885", "Fläche von 6.641 km²", "Beinhaltet den Icefields Parkway"],
+      de: [],
       hu: ["1885-ben alapították", "Területe 6641 km²", "Itt halad át az Icefields Parkway panorámaút"],
-      ro: ["Fondat în anul 1885", "Suprafață de 6.641 km²", "Include șoseaua panoramică Icefields Parkway"],
-      en: ["Established in 1885", "Area of 6,641 km²", "Includes the scenic Icefields Parkway"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Ältester Nationalpark Kanadas", "UNESCO Weltnaturerbe", "Spektakuläre Berglandschaft", "Heimat von Grizzlys und Elchen", "Berühmte Thermalquellen"], hu: ["Kanada legrégebbi nemzeti parkja", "UNESCO Világörökség", "Látványos hegyi tájak", "Grizzlyk és jávorszarvasok otthona", "Híres termálforrások"], ro: ["Cel mai vechi parc național din Canada", "Patrimoniu Mondial UNESCO", "Peisaje montane spectaculoase", "Casa urșilor grizzly și a elanilor", "Izvoare termale faimoase"], en: ["Canada's oldest national park", "UNESCO World Heritage Site", "Spectacular mountain scenery", "Home to grizzly bears and moose", "Famous thermal hot springs"] },
     area: 6641, historyYear: 1885, historyPeriod: "Victorian Era",
     coords: [-115.5683, 51.1784], type: 'landmark', parent: 'CA'
   },
@@ -659,21 +528,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Niagarafälle bestehen aus drei gewaltigen Wasserfällen an der Grenze zwischen Kanada und den USA. Die kanadischen Horseshoe Falls sind die beeindruckendsten und stürzen mit unglaublicher Kraft in die Tiefe, was sie zu einer der meistbesuchten Naturattraktionen der Welt macht.",
       hu: "A Niagara-vízesés három hatalmas vízesésből áll Kanada és az USA határán. A kanadai oldalon található Patkó-vízesés a leglátványosabb, amely elképesztő erővel zúdul a mélybe, a világ egyik leglátogatottabb természeti látványosságává téve a helyet.",
-      ro: "Cascada Niagara este formată din trei cascade masive situate la granița dintre Canada și SUA. Cascada Horseshoe de pe partea canadiană este cea mai impresionantă, prăbușindu-se cu o forță incredibilă, fiind una dintre cele mai vizitate atracții naturale din lume.",
-      en: "Niagara Falls consists of three massive waterfalls on the border between Canada and the USA. The Canadian Horseshoe Falls is the most powerful and spectacular, making it one of the world's most visited natural attractions."
-    },
-    facts: {
-      de: ["Drei große Wasserfälle", "Grenze Kanada/USA", "Gewaltige Wassermassen", "Wichtige Wasserkraftquelle", "Ikonisches Touristenziel"],
-      hu: ["Három nagy vízesés", "Kanada és az USA határa", "Hatalmas víztömeg", "Fontos vízenergia-forrás", "Ikonikus turisztikai célpont"],
-      ro: ["Trei cascade majore", "Granița Canada/SUA", "Volum uriaș de apă", "Sursă importantă de energie hidroelectrică", "Destinație turistică iconică"],
-      en: ["Three major waterfalls", "Canada/USA border", "Vast water volume", "Major source of hydroelectric power", "Iconic tourist destination"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Höhe von bis zu 57 Metern", "Über 168.000 m³ Wasser pro Minute", "Geformt durch die Wisconsingletscherung"],
+      de: [],
       hu: ["Magassága eléri az 57 métert", "Percenként több mint 168 000 m³ víz", "A wisconsini eljegesedés során alakult ki"],
-      ro: ["Înălțime de până la 57 de metri", "Peste 168.000 m³ de apă pe minut", "Format în timpul glaciațiunii Wisconsin"],
-      en: ["Height of up to 57 meters", "Over 168,000 m³ of water per minute", "Formed during the Wisconsin glaciation"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Drei große Wasserfälle", "Grenze Kanada/USA", "Gewaltige Wassermassen", "Wichtige Wasserkraftquelle", "Ikonisches Touristenziel"], hu: ["Három nagy vízesés", "Kanada és az USA határa", "Hatalmas víztömeg", "Fontos vízenergia-forrás", "Ikonikus turisztikai célpont"], ro: ["Trei cascade majore", "Granița Canada/SUA", "Volum uriaș de apă", "Sursă importantă de energie hidroelectrică", "Destinație turistică iconică"], en: ["Three major waterfalls", "Canada/USA border", "Vast water volume", "Major source of hydroelectric power", "Iconic tourist destination"] },
     elevation: 51, length: 1203,
     coords: [-79.0849, 43.0896], type: 'landmark', parent: 'CA'
   },
@@ -688,21 +552,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Jasper ist der größte Nationalpark in den kanadischen Rocky Mountains und bekannt für seine unberührte Wildnis. Er beherbergt das Columbia-Eisfeld, tiefe Schluchten und bietet einige der besten Möglichkeiten zur Sternenbeobachtung in einem Lichtschutzgebiet.",
       hu: "A Jasper a Kanadai-Sziklás-hegység legnagyobb nemzeti parkja, amely érintetlen vadonjáról ismert. Itt található a Columbia-jégmező, mély szurdokok, és a világ egyik legjobb csillagászati megfigyelőhelye (sötét égbolt rezervátum).",
-      ro: "Jasper este cel mai mare parc național din Munții Stâncoși Canadieni, cunoscut pentru sălbăticia sa nealterată. Găzduiește câmpul de gheață Columbia, canioane adânci și oferă unele dintre cele mai bune oportunități de observare a stelelor într-o rezervație de cer întunecat.",
-      en: "Jasper is the largest national park in the Canadian Rockies, renowned for its vast and untamed wilderness. It features the Columbia Icefield, deep canyons, and is one of the world's largest dark sky preserves for stargazing."
-    },
-    facts: {
-      de: ["Größter Park in den Rockies", "Columbia-Eisfeld", "UNESCO Weltnaturerbe", "Lichtschutzgebiet", "Vielfältige Tierwelt"],
-      hu: ["A Sziklás-hegység legnagyobb parkja", "Columbia-jégmező", "UNESCO Világörökség", "Sötét égbolt rezervátum", "Változatos állatvilág"],
-      ro: ["Cel mai mare parc din Stâncoși", "Câmpul de gheață Columbia", "Patrimoniu Mondial UNESCO", "Rezervație de cer întunecat", "Faună diversă"],
-      en: ["Largest park in the Rockies", "Columbia Icefield", "UNESCO World Heritage Site", "Dark Sky Preserve", "Diverse wildlife"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1907", "Fläche von 10.878 km²", "Heimat des Mount Edith Cavell"],
+      de: [],
       hu: ["1907-ben alapították", "Területe 10 878 km²", "Itt található a Mount Edith Cavell"],
-      ro: ["Fondat în anul 1907", "Suprafață de 10.878 km²", "Casa muntelui Edith Cavell"],
-      en: ["Established in 1907", "Area of 10,878 km²", "Home to Mount Edith Cavell"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größter Park in den Rockies", "Columbia-Eisfeld", "UNESCO Weltnaturerbe", "Lichtschutzgebiet", "Vielfältige Tierwelt"], hu: ["A Sziklás-hegység legnagyobb parkja", "Columbia-jégmező", "UNESCO Világörökség", "Sötét égbolt rezervátum", "Változatos állatvilág"], ro: ["Cel mai mare parc din Stâncoși", "Câmpul de gheață Columbia", "Patrimoniu Mondial UNESCO", "Rezervație de cer întunecat", "Faună diversă"], en: ["Largest park in the Rockies", "Columbia Icefield", "UNESCO World Heritage Site", "Dark Sky Preserve", "Diverse wildlife"] },
     area: 10878, historyYear: 1907, historyPeriod: "Modern Era",
     coords: [-117.7615, 52.8737], type: 'landmark', parent: 'CA'
   },
@@ -717,21 +576,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Bay of Fundy ist weltberühmt für den höchsten Tidenhub der Erde, der bis zu 16 Meter erreichen kann. Zweimal täglich fließen gewaltige Wassermassen in die Bucht und wieder hinaus, was spektakuläre Küstenlandschaften wie die Hopewell Rocks formt.",
       hu: "A Fundy-öböl világhírű a földkerekség legmagasabb árapály-szintkülönbségéről, amely elérheti a 16 métert is. Naponta kétszer hatalmas víztömegek áramlanak be és ki az öbölből, látványos tengerparti alakzatokat hozva létre, mint például a Hopewell Rocks.",
-      ro: "Golful Fundy este renumit în întreaga lume pentru cea mai mare diferență de nivel a mareei de pe Pământ, care poate atinge 16 metri. De două ori pe zi, volume uriașe de apă intră și ies din golf, modelând peisaje de coastă spectaculoase, cum ar fi Stâncile Hopewell.",
-      en: "The Bay of Fundy is world-famous for having the highest tidal range on Earth, reaching up to 16 meters. Twice daily, massive amounts of water flow in and out of the bay, shaping spectacular coastal landscapes like the Hopewell Rocks."
-    },
-    facts: {
-      de: ["Höchster Tidenhub weltweit", "Über 160 Mrd. Tonnen Wasserfluss", "UNESCO Biosphärenreservat", "Reich an Walen", "Spektakuläre Klippen"],
-      hu: ["A világ legnagyobb árapálya", "Több mint 160 milliárd tonna vízmozgás", "UNESCO bioszféra-rezervátum", "Bálnákban gazdag", "Látványos sziklafalak"],
-      ro: ["Cea mai mare maree din lume", "Flux de peste 160 miliarde tone de apă", "Rezervație a Biosferei UNESCO", "Bogat în balene", "Faleze spectaculoase"],
-      en: ["Highest tides in the world", "Over 160 billion tons of water flow", "UNESCO Biosphere Reserve", "Rich in whale species", "Spectacular sea cliffs"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Tidenhub bis zu 16 Meter", "Heimat seltener Fossilien (Joggins)", "Wichtiges Nahrungsgebiet für Zugvögel"],
+      de: [],
       hu: ["Az árapály különbség akár 16 méter", "Ritka fosszíliák lelőhelye (Joggins)", "Költöző madarak fontos táplálkozóhelye"],
-      ro: ["Amplitudinea mareei de până la 16 metri", "Adăpostește fosile rare (Joggins)", "Zonă importantă de hrănire pentru păsările migratoare"],
-      en: ["Tidal range up to 16 meters", "Home to rare fossils at Joggins", "Critical feeding ground for migratory birds"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Höchster Tidenhub weltweit", "Über 160 Mrd. Tonnen Wasserfluss", "UNESCO Biosphärenreservat", "Reich an Walen", "Spektakuläre Klippen"], hu: ["A világ legnagyobb árapálya", "Több mint 160 milliárd tonna vízmozgás", "UNESCO bioszféra-rezervátum", "Bálnákban gazdag", "Látványos sziklafalak"], ro: ["Cea mai mare maree din lume", "Flux de peste 160 miliarde tone de apă", "Rezervație a Biosferei UNESCO", "Bogat în balene", "Faleze spectaculoase"], en: ["Highest tides in the world", "Over 160 billion tons of water flow", "UNESCO Biosphere Reserve", "Rich in whale species", "Spectacular sea cliffs"] },
     length: 270,
     coords: [-65.0481, 45.0], type: 'landmark', parent: 'CA'
   },
@@ -741,21 +595,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Lake Louise ist ein Juwel der Rocky Mountains, bekannt für sein kristallklares, türkisfarbenes Wasser, das durch Gletschermehl gefärbt wird. Umgeben von hohen Berggipfeln und dem majestätischen Victoria-Gletscher bietet er eine der meistfotografierten Kulissen Kanadas.",
       hu: "A Louise-tó a Sziklás-hegység gyöngyszeme, amely kristálytiszta, türkizkék vizéről ismert, színét a gleccserliszt adja. Magas hegycsúcsok és a fenséges Victoria-gleccser veszi körül, Kanada egyik legtöbbet fényképezett helyszíne.",
-      ro: "Lacul Louise este o bijuterie a Munților Stâncoși, cunoscut pentru apa sa turcoaz cristalină, colorată de suspensiile glaciare fine. Înconjurat de vârfuri muntoase înalte și de maiestuosul ghețar Victoria, oferă unul dintre cele mai fotografiate peisaje din Canada.",
-      en: "Lake Louise is a jewel of the Rockies, famous for its turquoise, glacier-fed water. Surrounded by towering peaks and the majestic Victoria Glacier, it provides one of the most iconic and photographed landscapes in Canada."
-    },
-    facts: {
-      de: ["Türkisfarbenes Wasser", "Gletschergespeist", "Ikonisches Fairmont Hotel", "Ganzjähriges Outdoor-Ziel", "Teil des Banff-Nationalparks"],
-      hu: ["Türkizkék víz", "Gleccser táplálja", "Ikonikus Fairmont Hotel", "Egész évben látogatható", "A Banff Nemzeti Park része"],
-      ro: ["Apă turcoaz", "Alimentat de ghețar", "Hotelul iconic Fairmont", "Destinație outdoor tot anul", "Parte a Parcului Național Banff"],
-      en: ["Turquoise water", "Glacier-fed", "Iconic Fairmont hotel", "Year-round outdoor destination", "Part of Banff National Park"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Liegt auf 1.731 m Höhe", "Benannt nach Prinzessin Louise Caroline Alberta", "Farbe stammt von Gletschermehl-Sedimenten"],
+      de: [],
       hu: ["1731 m magasságban fekszik", "Louise Caroline Alberta hercegnőről nevezték el", "Színét a gleccserhordalék (kőzetliszt) adja"],
-      ro: ["Situat la o altitudine de 1.731 m", "Numit după Prințesa Louise Caroline Alberta", "Culoarea provine de la sedimentele de făină glaciară"],
-      en: ["Elevation of 1,731 m", "Named after Princess Louise Caroline Alberta", "Color comes from light-reflecting rock flour"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Türkisfarbenes Wasser", "Gletschergespeist", "Ikonisches Fairmont Hotel", "Ganzjähriges Outdoor-Ziel", "Teil des Banff-Nationalparks"], hu: ["Türkizkék víz", "Gleccser táplálja", "Ikonikus Fairmont Hotel", "Egész évben látogatható", "A Banff Nemzeti Park része"], ro: ["Apă turcoaz", "Alimentat de ghețar", "Hotelul iconic Fairmont", "Destinație outdoor tot anul", "Parte a Parcului Național Banff"], en: ["Turquoise water", "Glacier-fed", "Iconic Fairmont hotel", "Year-round outdoor destination", "Part of Banff National Park"] },
     elevation: 1731, area: 1,
     coords: [-116.1773, 51.4254], type: 'landmark', parent: 'CA'
   },
@@ -765,21 +614,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Mackenzie River ist der längste Fluss Kanadas und entwässert ein riesiges, dünn besiedeltes Gebiet der Arktis und Subarktis. Als Teil eines der größten Flusssysteme der Welt ist er eine lebenswichtige Wasserstraße für den Norden und fließt durch unberührte boreale Wälder und Tundra.",
       hu: "A Mackenzie-folyó Kanada leghosszabb folyója, amely az Arktisz és a szubarktisz hatalmas, ritkán lakott területeit csapolja le. A világ egyik legnagyobb folyórendszerének részeként létfontosságú vízi út az északi területek számára, érintetlen tajgákon és tundrákon kanyarog keresztül.",
-      ro: "Fluviul Mackenzie este cel mai lung râu din Canada și drenează o zonă vastă și puțin populată din regiunile arctică și subarctică. Ca parte a unuia dintre cele mai mari sisteme fluviale din lume, este o cale navigabilă vitală pentru Nord, traversând păduri boreale și tundră neatinse.",
-      en: "The Mackenzie River is the longest river in Canada, draining a vast, sparsely populated area of the Arctic and subarctic. As part of one of the world's largest river systems, it is a vital waterway for the North, flowing through pristine boreal forests and tundra."
-    },
-    facts: {
-      de: ["Längster Fluss Kanadas", "Mündet in die Beaufortsee", "Wichtige Transportroute im Norden", "Großes Delta", "Teilweise 8 Monate gefroren"],
-      hu: ["Kanada leghosszabb folyója", "A Beaufort-tengerbe torkollik", "Fontos északi szállítási útvonal", "Hatalmas deltavidék", "Évente kb. 8 hónapig befagy"],
-      ro: ["Cel mai lung râu din Canada", "Se varsă în Marea Beaufort", "Rută de transport vitală în Nord", "Deltă uriașă", "Înghețat aproximativ 8 luni pe an"],
-      en: ["Longest river in Canada", "Empties into the Beaufort Sea", "Major northern transportation route", "Vast river delta", "Frozen for about 8 months a year"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gesamtlänge von 4.241 km (System)", "Entwässert 1,8 Millionen km²", "Benannt nach Alexander Mackenzie"],
+      de: [],
       hu: ["Teljes hossza 4241 km (rendszer)", "Vízgyűjtő területe 1,8 millió km²", "Alexander Mackenzie felfedezőről nevezték el"],
-      ro: ["Lungime totală de 4.241 km (sistemul)", "Drenează 1,8 milioane km²", "Numit după exploratorul Alexander Mackenzie"],
-      en: ["Total length of 4,241 km (system)", "Drains 1.8 million km²", "Named after explorer Alexander Mackenzie"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Längster Fluss Kanadas", "Mündet in die Beaufortsee", "Wichtige Transportroute im Norden", "Großes Delta", "Teilweise 8 Monate gefroren"], hu: ["Kanada leghosszabb folyója", "A Beaufort-tengerbe torkollik", "Fontos északi szállítási útvonal", "Hatalmas deltavidék", "Évente kb. 8 hónapig befagy"], ro: ["Cel mai lung râu din Canada", "Se varsă în Marea Beaufort", "Rută de transport vitală în Nord", "Deltă uriașă", "Înghețat aproximativ 8 luni pe an"], en: ["Longest river in Canada", "Empties into the Beaufort Sea", "Major northern transportation route", "Vast river delta", "Frozen for about 8 months a year"] },
     length: 4241,
     coords: [-134.1953, 69.2683], type: 'landmark', parent: 'CA'
   },
@@ -789,21 +633,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Sankt-Lorenz-Strom ist eine der wichtigsten Wasserstraßen Nordamerikas und bildet den Abfluss der Großen Seen in den Atlantik. Er war der historische Hauptweg für Entdecker und Siedler und ist heute eine entscheidende Verkehrsader für den internationalen Handel.",
       hu: "A Szent Lőrinc-folyó Észak-Amerika egyik legfontosabb vízi útja, amely a Nagy-tavak vizét vezeti az Atlanti-óceánba. Történelmileg a felfedezők és telepesek fő útvonala volt, ma pedig a nemzetközi kereskedelem meghatározó ütőere.",
-      ro: "Fluviul Sfântul Laurențiu este una dintre cele mai importante căi navigabile din America de Nord, formând emisarul Marilor Lacuri către Atlantic. A fost principala rută istorică pentru exploratori și coloniști, fiind astăzi o arteră vitală pentru comerțul internațional.",
-      en: "The St. Lawrence River is one of North America's most important waterways, serving as the primary outflow for the Great Lakes into the Atlantic Ocean. It was the historic gateway for explorers and settlers and remains a critical artery for international trade."
-    },
-    facts: {
-      de: ["Verbindung zum Atlantik", "Wichtiger Seeweg", "Heimat von Belugawalen", "Tausend Inseln (Thousand Islands)", "Grenze zwischen Kanada und USA"],
-      hu: ["Összeköttetés az Atlanti-óceánnal", "Fontos tengeri út", "Belugák élőhelye", "Ezer-sziget vidék", "Határfolyó Kanada és az USA között"],
-      ro: ["Legătură cu Atlanticul", "Cale maritimă importantă", "Habitat pentru balenele beluga", "Regiunea celor O Mie de Insule", "Graniță între Canada și SUA"],
-      en: ["Link to the Atlantic Ocean", "Vital seaway", "Home to beluga whales", "Thousand Islands region", "International border (partial)"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Länge von ca. 1.197 km", "Bildet das größte Ästuar der Welt", "Entdeckt von Jacques Cartier im Jahr 1535"],
+      de: [],
       hu: ["Hossza kb. 1197 km", "A világ legnagyobb tölcsértorkolatát alkotja", "Jacques Cartier fedezte fel 1535-ben"],
-      ro: ["Lungime de aproximativ 1.197 km", "Formează cel mai mare estuar din lume", "Descoperit de Jacques Cartier în 1535"],
-      en: ["Length of approx. 1,197 km", "Forms the world's largest estuary", "Explored by Jacques Cartier in 1535"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Verbindung zum Atlantik", "Wichtiger Seeweg", "Heimat von Belugawalen", "Tausend Inseln (Thousand Islands)", "Grenze zwischen Kanada und USA"], hu: ["Összeköttetés az Atlanti-óceánnal", "Fontos tengeri út", "Belugák élőhelye", "Ezer-sziget vidék", "Határfolyó Kanada és az USA között"], ro: ["Legătură cu Atlanticul", "Cale maritimă importantă", "Habitat pentru balenele beluga", "Regiunea celor O Mie de Insule", "Graniță între Canada și SUA"], en: ["Link to the Atlantic Ocean", "Vital seaway", "Home to beluga whales", "Thousand Islands region", "International border (partial)"] },
     length: 1197, historyYear: 1535,
     coords: [-69.6455, 48.0652], type: 'landmark', parent: 'CA'
   },
@@ -813,21 +652,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die kanadischen Rocky Mountains sind bekannt für ihre schroffen, schneebedeckten Gipfel, weite Eisfelder und leuchtend türkisfarbene Seen. Sie beherbergen mehrere Nationalparks, die zusammen ein UNESCO-Weltnaturerbe bilden und zu den spektakulärsten Landschaften der Erde gehören.",
       hu: "A Kanadai-Sziklás-hegység meredek, hófödte csúcsairól, kiterjedt jégmezőiről és ragyogó türkizkék tavairól híres. Számos nemzeti parknak ad otthont, amelyek együttesen az UNESCO Világörökség részét képezik, és a Föld leglátványosabb tájai közé tartoznak.",
-      ro: "Munții Stâncoși Canadieni sunt renumiți pentru vârfurile lor abrupte și înzăpezite, câmpurile vaste de gheață și lacurile turcoaz strălucitoare. Aceștia găzduiesc mai multe parcuri naționale care formează împreună un sit al Patrimoniului Mondial UNESCO.",
-      en: "The Canadian Rockies are world-famous for their jagged, snow-capped peaks, vast icefields, and brilliant turquoise lakes. They encompass several national parks that together form a UNESCO World Heritage site and some of the planet's most spectacular scenery."
-    },
-    facts: {
-      de: ["UNESCO Weltnaturerbe", "Schroffe Gipfel", "Zahlreiche Nationalparks", "Beliebtes Skigebiet", "Reiche Tierwelt (Bären, Elche)"],
-      hu: ["UNESCO Világörökség", "Meredek hegycsúcsok", "Számos nemzeti park", "Népszerű síparadicsom", "Gazdag állatvilág (medvék, jávorszarvasok)"],
-      ro: ["Patrimoniu Mondial UNESCO", "Vârfuri abrupte", "Numeroase parcuri naționale", "Zonă de schi populară", "Faună bogată (urși, elani)"],
-      en: ["UNESCO World Heritage Site", "Jagged mountain peaks", "Multiple national parks", "Premier skiing destination", "Abundant wildlife (bears, moose)"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Höchster Punkt: Mount Robson (3.954 m)", "Hauptsächlich aus Sedimentgestein bestehend", "Bilden die kontinentale Wasserscheide"],
+      de: [],
       hu: ["Legmagasabb pontja a Mount Robson (3954 m)", "Főként üledékes kőzetekből áll", "A kontinens vízválasztóját alkotják"],
-      ro: ["Cel mai înalt punct: Muntele Robson (3.954 m)", "Formați preponderent din roci sedimentare", "Reprezintă cumpăna apelor continentale"],
-      en: ["Highest point: Mount Robson (3,954 m)", "Primarily composed of sedimentary rock", "Forms part of the Continental Divide"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["UNESCO Weltnaturerbe", "Schroffe Gipfel", "Zahlreiche Nationalparks", "Beliebtes Skigebiet", "Reiche Tierwelt (Bären, Elche)"], hu: ["UNESCO Világörökség", "Meredek hegycsúcsok", "Számos nemzeti park", "Népszerű síparadicsom", "Gazdag állatvilág (medvék, jávorszarvasok)"], ro: ["Patrimoniu Mondial UNESCO", "Vârfuri abrupte", "Numeroase parcuri naționale", "Zonă de schi populară", "Faună bogată (urși, elani)"], en: ["UNESCO World Heritage Site", "Jagged mountain peaks", "Multiple national parks", "Premier skiing destination", "Abundant wildlife (bears, moose)"] },
     elevation: 3954, length: 1450,
     coords: [-118.0, 53.0], type: 'landmark', parent: 'CA'
   },
@@ -837,21 +671,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Gros-Morne-Nationalpark an der Westküste von Neufundland bietet eine außergewöhnliche geologische Vielfalt, von tiefen Fjorden bis hin zu kahlen Hochebenen. Er ist berühmt für die 'Tablelands', wo das Gestein des Erdmantels an die Oberfläche tritt und die Theorie der Plattentektonik veranschaulicht.",
       hu: "Az Új-Fundland nyugati partján található Gros Morne Nemzeti Park rendkívüli geológiai változatosságot kínál, a mély fjordoktól a kopár fennsíkokig. Híres a 'Tablelands' vidékről, ahol a földköpeny kőzetei a felszínre bukkannak, bizonyítva a lemeztektonika elméletét.",
-      ro: "Parcul Național Gros Morne de pe coasta de vest a insulei Newfoundland oferă o diversitate geologică excepțională, de la fiorduri adânci la platouri golașe. Este faimos pentru „Tablelands”, unde roca din mantaua Pământului iese la suprafață, ilustrând teoria tectonicii plăcilor.",
-      en: "Gros Morne National Park on the west coast of Newfoundland offers extraordinary geological diversity, from deep fjords to barren plateaus. It is famous for the Tablelands, where the Earth's mantle rock is exposed, providing rare evidence of plate tectonics."
-    },
-    facts: {
-      de: ["UNESCO Weltnaturerbe", "Spektakuläre Fjorde", "Geologisches Wunder (Tablelands)", "Wanderparadies", "Küstenschönheit"],
-      hu: ["UNESCO Világörökség", "Látványos fjordok", "Geológiai csoda (Tablelands)", "Túrázók paradicsoma", "Partmenti szépség"],
-      ro: ["Patrimoniu Mondial UNESCO", "Fiorduri spectaculoase", "Minune geologică (Tablelands)", "Paradisul drumeților", "Frumusețe costieră"],
-      en: ["UNESCO World Heritage Site", "Spectacular fjords", "Geological wonder (Tablelands)", "Hiking paradise", "Coastal beauty"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1973", "Fläche von 1.805 km²", "Zweitgrößter Nationalpark in Atlantik-Kanada"],
+      de: [],
       hu: ["1973-ban alapították", "Területe 1805 km²", "Atlanti-Kanada második legnagyobb nemzeti parkja"],
-      ro: ["Fondat în anul 1973", "Suprafață de 1.805 km²", "Al doilea cel mai mare parc național din Canada Atlantică"],
-      en: ["Established in 1973", "Area of 1,805 km²", "Second largest national park in Atlantic Canada"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["UNESCO Weltnaturerbe", "Spektakuläre Fjorde", "Geologisches Wunder (Tablelands)", "Wanderparadies", "Küstenschönheit"], hu: ["UNESCO Világörökség", "Látványos fjordok", "Geológiai csoda (Tablelands)", "Túrázók paradicsoma", "Partmenti szépség"], ro: ["Patrimoniu Mondial UNESCO", "Fiorduri spectaculoase", "Minune geologică (Tablelands)", "Paradisul drumeților", "Frumusețe costieră"], en: ["UNESCO World Heritage Site", "Spectacular fjords", "Geological wonder (Tablelands)", "Hiking paradise", "Coastal beauty"] },
     area: 1805, historyYear: 1973,
     coords: [-57.755, 49.6105], type: 'landmark', parent: 'CA'
   },
@@ -861,21 +690,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Mount Logan im Kluane-Nationalpark im Yukon ist mit 5.959 Metern der höchste Berg Kanadas und der zweithöchste Nordamerikas. Er besitzt das massivste Basismassiv aller nicht-vulkanischen Berge der Erde und ist von gewaltigen Gletschern umgeben.",
       hu: "A yukoni Kluane Nemzeti Parkban található Mount Logan 5959 méteres magasságával Kanada legmagasabb és Észak-Amerika második legmagasabb hegye. Alapmasszívuma a legnagyobb a Föld nem vulkanikus hegyei közül, és hatalmas gleccserek veszik körül.",
-      ro: "Muntele Logan din Parcul Național Kluane, Yukon, este cel mai înalt munte din Canada și al doilea ca înălțime din America de Nord, având 5.959 de metri. Are cel mai masiv fundament dintre toți munții ne-vulcanici de pe Pământ și este înconjurat de ghețari uriași.",
-      en: "Mount Logan in Yukon's Kluane National Park is the highest mountain in Canada and the second highest in North America at 5,959 meters. It has the largest base circumference of any non-volcanic mountain on Earth and is surrounded by massive glaciers."
-    },
-    facts: {
-      de: ["Höchster Berg Kanadas", "Im Kluane-Nationalpark", "Gewaltiges Eisfeld", "Extrem kaltes Klima", "Zweithöchster in Nordamerika"],
-      hu: ["Kanada legmagasabb hegye", "A Kluane Nemzeti Parkban található", "Hatalmas jégmező", "Szélsőségesen hideg éghajlat", "Észak-Amerika 2. legmagasabb csúcsa"],
-      ro: ["Cel mai înalt munte din Canada", "În Parcul Național Kluane", "Câmp de gheață masiv", "Climă extrem de rece", "Al doilea ca înălțime din America de Nord"],
-      en: ["Highest peak in Canada", "Located in Kluane National Park", "Massive icefield", "Extremely cold climate", "Second highest in North America"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Höhe von 5.959 m", "Benannt nach Sir William Edmond Logan", "Wächst aufgrund tektonischer Hebung weiter"],
+      de: [],
       hu: ["Magassága 5959 m", "Sir William Edmond Loganról nevezték el", "A tektonikus emelkedés miatt ma is növekszik"],
-      ro: ["Altitudine de 5.959 m", "Numit după Sir William Edmond Logan", "Continuă să crească datorită ridicării tectonice"],
-      en: ["Elevation of 5,959 m", "Named after Sir William Edmond Logan", "Still rising due to tectonic uplift"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Höchster Berg Kanadas", "Im Kluane-Nationalpark", "Gewaltiges Eisfeld", "Extrem kaltes Klima", "Zweithöchster in Nordamerika"], hu: ["Kanada legmagasabb hegye", "A Kluane Nemzeti Parkban található", "Hatalmas jégmező", "Szélsőségesen hideg éghajlat", "Észak-Amerika 2. legmagasabb csúcsa"], ro: ["Cel mai înalt munte din Canada", "În Parcul Național Kluane", "Câmp de gheață masiv", "Climă extrem de rece", "Al doilea ca înălțime din America de Nord"], en: ["Highest peak in Canada", "Located in Kluane National Park", "Massive icefield", "Extremely cold climate", "Second highest in North America"] },
     elevation: 5959,
     coords: [-140.4055, 60.5671], type: 'landmark', parent: 'CA'
   },
@@ -889,21 +713,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Rideau-Kanal ist das älteste kontinuierlich betriebene Kanalsystem Nordamerikas und ein UNESCO-Weltkulturerbe. Er wurde ursprünglich aus militärischen Gründen erbaut, um eine sichere Versorgungsroute zwischen Montreal und Kingston zu gewährleisten, und ist heute berühmt für seine winterliche Eislaufbahn.",
       hu: "A Rideau-csatorna Észak-Amerika legrégebbi, folyamatosan működő csatornarendszere és az UNESCO Világörökség része. Eredetileg katonai célokból épült, hogy biztonságos ellátási útvonalat biztosítson Montreal és Kingston között, ma pedig téli korcsolyapályájáról híres.",
-      ro: "Canalul Rideau este cel mai vechi sistem de canale operat continuu din America de Nord și un sit al Patrimoniului Mondial UNESCO. A fost construit inițial din motive militare pentru a asigura o rută de aprovizionare sigură între Montreal și Kingston, fiind astăzi faimos pentru patinoarul său de iarnă.",
-      en: "The Rideau Canal is the oldest continuously operated canal system in North America and a UNESCO World Heritage site. Originally built for military purposes to provide a secure supply route between Montreal and Kingston, it is now world-famous for its winter skating rink."
-    },
-    facts: {
-      de: ["UNESCO Weltkulturerbe", "Längste Eislaufbahn der Welt", "Ältester Kanal in NA", "Verbindet Ottawa und Kingston"],
-      hu: ["UNESCO Világörökség", "A világ leghosszabb korcsolyapályája", "Észak-Amerika legrégebbi csatornája", "Ottawát és Kingstont köti össze"],
-      ro: ["Patrimoniu Mondial UNESCO", "Cel mai lung patinoar din lume", "Cel mai vechi canal din NA", "Leagă Ottawa de Kingston"],
-      en: ["UNESCO World Heritage Site", "World's longest skating rink", "Oldest operated canal in NA", "Connects Ottawa to Kingston"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Erbaut zwischen 1826 und 1832", "Länge von 202 Kilometern", "Besitzt 45 handbetriebene Schleusen"],
+      de: [],
       hu: ["1826 és 1832 között épült", "Hossza 202 kilométer", "45 kézi működtetésű zsilipje van"],
-      ro: ["Construit între 1826 și 1832", "Lungime de 202 kilometri", "Are 45 de ecluze operate manual"],
-      en: ["Built between 1826 and 1832", "Total length of 202 kilometers", "Features 45 manually operated locks"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["UNESCO Weltkulturerbe", "Längste Eislaufbahn der Welt", "Ältester Kanal in NA", "Verbindet Ottawa und Kingston"], hu: ["UNESCO Világörökség", "A világ leghosszabb korcsolyapályája", "Észak-Amerika legrégebbi csatornája", "Ottawát és Kingstont köti össze"], ro: ["Patrimoniu Mondial UNESCO", "Cel mai lung patinoar din lume", "Cel mai vechi canal din NA", "Leagă Ottawa de Kingston"], en: ["UNESCO World Heritage Site", "World's longest skating rink", "Oldest operated canal in NA", "Connects Ottawa to Kingston"] },
     length: 202, historyYear: 1826, historyPeriod: "Victorian Era"
   },
   {
@@ -916,21 +735,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Head-Smashed-In Buffalo Jump ist eine der ältesten, am besten erhaltenen und größten Büffelsprung-Stätten Nordamerikas. Über 6.000 Jahre lang nutzten die indigenen Völker der Ebenen diese Klippen, um Bisons in den Abgrund zu treiben, was ein tiefes Verständnis der Topographie und des Tierverhaltens erforderte.",
       hu: "A Head-Smashed-In bölényugrató Észak-Amerika egyik legrégebbi, legjobb állapotban fennmaradt és legnagyobb ilyen jellegű vadászhelye. Több mint 6000 éven át a síksági indiánok ezeket a sziklákat használták a bölények szakadékba terelésére, ami a domborzat és az állati viselkedés mély ismeretét igényelte.",
-      ro: "Head-Smashed-In Buffalo Jump este unul dintre cele mai vechi, mai bine conservate și mai mari situri de acest fel din America de Nord. Timp de peste 6.000 de ani, popoarele indigene au folosit aceste stânci pentru a mâna bizonii în abis, demonstrând o înțelegere profundă a topografiei.",
-      en: "Head-Smashed-In Buffalo Jump is one of the oldest, largest, and best-preserved buffalo jumps in North America. For over 6,000 years, Indigenous peoples used this cliff to hunt bison by driving them over the edge, demonstrating a sophisticated understanding of animal behavior."
-    },
-    facts: {
-      de: ["UNESCO Weltkulturerbe", "Über 6.000 Jahre genutzt", "Indigene Jagdtechnik", "Großes Informationszentrum"],
-      hu: ["UNESCO Világörökség", "Több mint 6000 évig használták", "Őslakos vadászati technika", "Nagy látogatóközpont"],
-      ro: ["Patrimoniu Mondial UNESCO", "Utilizat de peste 6.000 de ani", "Tehnică de vânătoare indigenă", "Centru de interpretare vast"],
-      en: ["UNESCO World Heritage Site", "Used for over 6,000 years", "Ancient hunting technique", "Award-winning interpretive center"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Klippenhöhe von ca. 11 Metern", "Beherbergt riesige Mengen an Bisonknochen", "Zeigt die Kultur der Blackfoot-Konföderation"],
+      de: [],
       hu: ["A szikla magassága kb. 11 méter", "Hatalmas mennyiségű bölénycsontot tartalmaz", "A Blackfoot-konföderáció kultúráját mutatja be"],
-      ro: ["Înălțimea stâncii de aprox. 11 metri", "Adăpostește cantități uriașe de oase de bizon", "Prezintă cultura confederației Blackfoot"],
-      en: ["Cliff height of approx. 11 meters", "Site contains massive deposits of bison bones", "Showcases Blackfoot Confederacy culture"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["UNESCO Weltkulturerbe", "Über 6.000 Jahre genutzt", "Indigene Jagdtechnik", "Großes Informationszentrum"], hu: ["UNESCO Világörökség", "Több mint 6000 évig használták", "Őslakos vadászati technika", "Nagy látogatóközpont"], ro: ["Patrimoniu Mondial UNESCO", "Utilizat de peste 6.000 de ani", "Tehnică de vânătoare indigenă", "Centru de interpretare vast"], en: ["UNESCO World Heritage Site", "Used for over 6,000 years", "Ancient hunting technique", "Award-winning interpretive center"] },
     elevation: 1050, historyYear: -4000, historyPeriod: "Pre-Contact"
   },
   {
@@ -943,21 +757,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Abraham-Ebene war 1759 der Schauplatz der entscheidenden Schlacht zwischen dem britischen Empire und Frankreich. Der Sieg der Briten führte zur Kapitulation von Québec und markierte den Wendepunkt, der letztlich zur britischen Herrschaft über Kanada führte.",
       hu: "Az Ábrahám-síkság 1759-ben a Brit Birodalom és Franciaország közötti döntő csata helyszíne volt. A britek győzelme Québec megadásához vezetett, és azt a fordulópontot jelentette, amely végül Kanada brit fennhatósága alá kerülését eredményezte.",
-      ro: "Câmpia lui Avraam a fost în 1759 locul bătăliei decisive dintre Imperiul Britanic și Franța. Victoria britanicilor a dus la capitularea orașului Québec și a marcat punctul de cotitură care a dus în cele din urmă la dominația britanică asupra Canadei.",
-      en: "The Plains of Abraham was the site of the pivotal 1759 battle between the British and French empires. The British victory led to the surrender of Quebec City and marked the turning point that ultimately resulted in British control over Canada."
-    },
-    facts: {
-      de: ["Historisches Schlachtfeld", "Schlacht von 1759", "Beide Generäle fielen hier", "Heute ein großer Stadtpark"],
-      hu: ["Történelmi csatatér", "Az 1759-es csata helyszíne", "Mindkét hadvezér itt esett el", "Ma nagy városi park"],
-      ro: ["Câmp de bătălie istoric", "Bătălia din 1759", "Ambii generali au murit aici", "Astăzi un mare parc urban"],
-      en: ["Historic battlefield", "Site of the 1759 battle", "Both generals died in the conflict", "Now a major urban park"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Benannt nach dem Fischer Abraham Martin", "Teil des Battlefields Park", "Bietet Blick auf den Sankt-Lorenz-Strom"],
+      de: [],
       hu: ["Abraham Martin halászról nevezték el", "A Battlefields Park része", "Kilátást nyújt a Szent Lőrinc-folyóra"],
-      ro: ["Numit după pescarul Abraham Martin", "Parte a parcului Battlefields", "Oferă vedere spre fluviul Sfântul Laurențiu"],
-      en: ["Named after fisherman Abraham Martin", "Part of the Battlefields Park", "Overlooks the St. Lawrence River"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Historisches Schlachtfeld", "Schlacht von 1759", "Beide Generäle fielen hier", "Heute ein großer Stadtpark"], hu: ["Történelmi csatatér", "Az 1759-es csata helyszíne", "Mindkét hadvezér itt esett el", "Ma nagy városi park"], ro: ["Câmp de bătălie istoric", "Bătălia din 1759", "Ambii generali au murit aici", "Astăzi un mare parc urban"], en: ["Historic battlefield", "Site of the 1759 battle", "Both generals died in the conflict", "Now a major urban park"] },
     historyYear: 1759, historyPeriod: "Seven Years' War"
   },
   {
@@ -970,21 +779,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Leuchtturm von Peggy's Cove, auch bekannt als Peggy's Point Lighthouse, ist einer der meistfotografierten Leuchttürme der Welt. Er thront auf gewaltigen, vom Meer glatt geschliffenen Granitfelsen an der rauen Atlantikküste von Neuschottland.",
       hu: "A Peggy's Cove világítótorony, más néven Peggy's Point Lighthouse, a világ egyik legtöbbet fényképezett világítótornya. Hatalmas, a tenger által simára csiszolt gránitsziklákon trónol Új-Skócia vadregényes atlanti-óceáni partvidékén.",
-      ro: "Farul Peggy's Cove, cunoscut și sub numele de Peggy's Point Lighthouse, este unul dintre cele mai fotografiate faruri din lume. Se află pe stânci masive de granit șlefuite de mare, pe coasta atlantică aspră a Noii Scoții.",
-      en: "Peggy's Cove Lighthouse, also known as Peggy's Point Lighthouse, is one of the most photographed lighthouses in the world. It is perched on massive granite rocks worn smooth by the ocean on the rugged Atlantic coast of Nova Scotia."
-    },
-    facts: {
-      de: ["Meistfotografierter Leuchtturm", "Auf Granitfelsen erbaut", "Aktives Navigationslicht", "Charmantes Fischerdorf"],
-      hu: ["A legtöbbet fényképezett világítótorony", "Gránitsziklákra épült", "Aktív navigációs fény", "Bájos halászfalu"],
-      ro: ["Cel mai fotografiat far", "Construit pe stânci de granit", "Lumină de navigație activă", "Sat de pescari fermecător"],
-      en: ["Most photographed lighthouse", "Built on granite bedrock", "Active navigation aid", "Iconic fishing village setting"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Heutiger Turm erbaut 1915", "Besitzt eine Poststation im Inneren", "Warnung vor gefährlichen Wellen wichtig"],
+      de: [],
       hu: ["A jelenlegi torony 1915-ben épült", "Postahivatal működik a belsejében", "Fontos a figyelmeztetés a veszélyes hullámokra"],
-      ro: ["Farul actual construit în 1915", "Găzduiește un oficiu poștal în interior", "Avertizările privind valurile periculoase sunt vitale"],
-      en: ["Current tower built in 1915", "Houses a small post office inside", "Known for dangerous 'black rocks' waves"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Meistfotografierter Leuchtturm", "Auf Granitfelsen erbaut", "Aktives Navigationslicht", "Charmantes Fischerdorf"], hu: ["A legtöbbet fényképezett világítótorony", "Gránitsziklákra épült", "Aktív navigációs fény", "Bájos halászfalu"], ro: ["Cel mai fotografiat far", "Construit pe stânci de granit", "Lumină de navigație activă", "Sat de pescari fermecător"], en: ["Most photographed lighthouse", "Built on granite bedrock", "Active navigation aid", "Iconic fishing village setting"] },
     elevation: 15, historyYear: 1915, historyPeriod: "Modern"
   },
   {
@@ -997,21 +801,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Parliament Hill ist das politische und kulturelle Herz Kanadas, gelegen auf einer Klippe über dem Ottawa River. Die Gebäude im neugotischen Stil, dominiert vom imposanten Peace Tower, beherbergen das Unterhaus und den Senat und sind Schauplatz bedeutender nationaler Zeremonien.",
       hu: "A Parlament-domb Kanada politikai és kulturális szíve, amely az Ottawa-folyó feletti sziklán magasodik. A neogótikus stílusú épületek, melyeket az impozáns Béke-torony ural, az Alsóháznak és a Szenátusnak adnak otthont, és jelentős nemzeti ceremóniák helyszínei.",
-      ro: "Dealul Parlamentului este inima politică și culturală a Canadei, situat pe o stâncă deasupra râului Ottawa. Clădirile în stil neogotic, dominate de impunătorul Turn al Păcii, găzduiesc Camera Comunelor și Senatul, fiind locul celor mai importante ceremonii naționale.",
-      en: "Parliament Hill is the political and cultural heart of Canada, perched on a dramatic cliff overlooking the Ottawa River. Its grand Gothic Revival buildings, dominated by the majestic Peace Tower, house the House of Commons and the Senate, serving as the primary stage for national celebrations."
-    },
-    facts: {
-      de: ["Sitz der Bundesregierung", "Neugotische Architektur", "Peace Tower (Béke-torony)", "Changing of the Guard Zeremonie"],
-      hu: ["A szövetségi kormány székhelye", "Neogótikus építészet", "Itt található a Béke-torony", "Őrségváltási ceremónia helyszíne"],
-      ro: ["Sediul guvernului federal", "Arhitectură neogotică", "Turnul Păcii (Peace Tower)", "Ceremonia de schimbare a gărzii"],
-      en: ["Seat of the federal government", "Gothic Revival architecture", "Home to the Peace Tower", "Changing of the Guard ceremony site"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Der Peace Tower ist 92,2 Meter hoch", "Beherbergt die wunderschöne Parlamentsbibliothek", "Einst Standort einer Militärbaracke"],
+      de: [],
       hu: ["A Béke-torony 92,2 méter magas", "Itt található a gyönyörű Parlamenti Könyvtár", "Eredetileg katonai barakkok álltak itt"],
-      ro: ["Turnul Păcii are 92,2 metri înălțime", "Găzduiește splendida Bibliotecă a Parlamentului", "Fost amplasament al unei barăci militare"],
-      en: ["The Peace Tower stands 92.2 meters tall", "Houses the spectacular Library of Parliament", "Site of the Centennial Flame (burning since 1967)"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Sitz der Bundesregierung", "Neugotische Architektur", "Peace Tower (Béke-torony)", "Changing of the Guard Zeremonie"], hu: ["A szövetségi kormány székhelye", "Neogótikus építészet", "Itt található a Béke-torony", "Őrségváltási ceremónia helyszíne"], ro: ["Sediul guvernului federal", "Arhitectură neogotică", "Turnul Păcii (Peace Tower)", "Ceremonia de schimbare a gărzii"], en: ["Seat of the federal government", "Gothic Revival architecture", "Home to the Peace Tower", "Changing of the Guard ceremony site"] },
     elevation: 85, historyYear: 1859, historyPeriod: "Victorian Era"
   },
   {
@@ -1024,21 +823,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Hopewell Rocks, auch 'Flowerpot Rocks' genannt, sind markante Felsformationen in der Bay of Fundy. Zweimal täglich werden sie durch den extremen Tidenhub der Bucht umspült, sodass Besucher bei Ebbe auf dem Meeresboden zwischen ihnen wandern und bei Flut mit dem Kajak um die Felsspitzen paddeln können.",
       hu: "A Hopewell Rocks, más néven 'Virágcserép-sziklák', jellegzetes alakzatok a Fundy-öbölben. Naponta kétszer a rendkívüli árapály-mozgás hatására víz alá kerülnek vagy szabaddá válnak, így a látogatók apálykor a tengerfenéken sétálhatnak közöttük, dagálykor pedig kajakkal kerülgethetik a sziklacsúcsokat.",
-      ro: "Stâncile Hopewell, numite și „Stâncile Ghiveci de Flori”, sunt formațiuni proeminente în Golful Fundy. De două ori pe zi, mareele extreme inundă zona, permițând vizitatorilor să mergă pe fundul mării la reflux și să facă caiac în jurul vârfurilor la flux.",
-      en: "The Hopewell Rocks, nicknamed 'Flowerpot Rocks,' are iconic formations in the Bay of Fundy. Twice daily, the world's highest tides submerge their bases, allowing visitors to walk on the ocean floor at low tide and kayak around the forested summits at high tide."
-    },
-    facts: {
-      de: ["Form einer Blumenvase", "Höchster Tidenhub der Welt", "Gehen auf dem Meeresboden", "Erosionsphänomen"],
-      hu: ["Virágcserép alakú sziklák", "A világ legnagyobb árapálya", "Séta a tengerfenéken", "Eróziós jelenség"],
-      ro: ["Formă de ghiveci de flori", "Cea mai mare maree din lume", "Plimbare pe fundul mării", "Fenomen de eroziune"],
-      en: ["Flowerpot-shaped rocks", "World's highest tidal range", "Walk on the ocean floor", "Erosional masterpiece"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Bestehen aus Konglomeratgestein", "Gezeitendifferenz bis zu 14 Meter", "Millionen Jahre alte Sedimente"],
+      de: [],
       hu: ["Konglomerátum kőzetből állnak", "Az árapály különbség akár 14 méter", "Millió éves üledékes kőzetek"],
-      ro: ["Compuse din roci de conglomerat", "Diferența de maree de până la 14 metri", "Sedimente vechi de milioane de ani"],
-      en: ["Composed of ancient conglomerate rock", "Tides can rise as much as 14 meters", "Formed over 600 million years ago"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Form einer Blumenvase", "Höchster Tidenhub der Welt", "Gehen auf dem Meeresboden", "Erosionsphänomen"], hu: ["Virágcserép alakú sziklák", "A világ legnagyobb árapálya", "Séta a tengerfenéken", "Eróziós jelenség"], ro: ["Formă de ghiveci de flori", "Cea mai mare maree din lume", "Plimbare pe fundul mării", "Fenomen de eroziune"], en: ["Flowerpot-shaped rocks", "World's highest tidal range", "Walk on the ocean floor", "Erosional masterpiece"] },
     elevation: 0
   },
   {
@@ -1051,21 +845,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Butchart Gardens auf Vancouver Island sind ein Meisterwerk der Gartenkunst, das aus einem ehemaligen Kalksteinbruch entstanden ist. Heute umfasst die Anlage verschiedene Themenbereiche wie den Sunken Garden, den Rosengarten und den Japanischen Garten, die zu jeder Jahreszeit in prächtigen Farben erblühen.",
       hu: "A Vancouver-szigeten található Butchart-kertek a kertművészet remekművei, amelyek egy egykori mészkőbánya helyén jöttek létre. A birtok ma különböző tematikus részekből áll, mint például a Süllyesztett kert, a Rózsakert és a Japánkert, amelyek minden évszakban pompás színekben tündökölnek.",
-      ro: "Grădinile Butchart de pe insula Vancouver sunt o capodoperă a peisagisticii, create pe locul unei foste cariere de calcar. Complexul include diverse grădini tematice, precum Grădina Scufundată, Grădina de Trandafiri și Grădina Japoneză, superbe în orice anotimp.",
-      en: "The Butchart Gardens on Vancouver Island are a world-renowned floral masterpiece transformed from a former limestone quarry. The estate features diverse themed areas, including the Sunken Garden, Rose Garden, and Japanese Garden, blooming vibrantly year-round."
-    },
-    facts: {
-      de: ["Ehemaliger Kalksteinbruch", "Nationale historische Stätte", "Über 900 Pflanzenarten", "Ganzjährig geöffnet"],
-      hu: ["Egykori mészkőbánya", "Nemzeti történelmi emlékhely", "Több mint 900 növényfaj", "Egész évben látogatható"],
-      ro: ["Fostă carieră de calcar", "Sit istoric național", "Peste 900 de specii de plante", "Deschise tot anul"],
-      en: ["Former limestone quarry", "National Historic Site of Canada", "Over 900 plant varieties", "Open in all four seasons"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Gegründet von Jennie Butchart 1904", "Fläche von 22 Hektar", "Berühmt für Feuerwerke im Sommer"],
+      de: [],
       hu: ["Jennie Butchart alapította 1904-ben", "Területe 22 hektár", "Híres a nyári tűzijátékairól"],
-      ro: ["Fondate de Jennie Butchart în 1904", "Suprafață de 22 de hectare", "Faimoase pentru focurile de artificii de vară"],
-      en: ["Started by Jennie Butchart in 1904", "Covers 55 acres of land", "Features spectacular summer fireworks displays"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Ehemaliger Kalksteinbruch", "Nationale historische Stätte", "Über 900 Pflanzenarten", "Ganzjährig geöffnet"], hu: ["Egykori mészkőbánya", "Nemzeti történelmi emlékhely", "Több mint 900 növényfaj", "Egész évben látogatható"], ro: ["Fostă carieră de calcar", "Sit istoric național", "Peste 900 de specii de plante", "Deschise tot anul"], en: ["Former limestone quarry", "National Historic Site of Canada", "Over 900 plant varieties", "Open in all four seasons"] },
     area: 0.22, historyYear: 1904, historyPeriod: "Modern"
   },
   {
@@ -1078,21 +867,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Signal Hill thront über St. John's und dem Atlantik und ist ein Ort von welthistorischer Bedeutung. Hier empfing Guglielmo Marconi 1901 das erste transatlantische Funksignal der Geschichte, was den Beginn des modernen Kommunikationszeitalters markierte.",
       hu: "A St. John's és az Atlanti-óceán felett magasodó Signal Hill világtörténelmi jelentőségű helyszín. Guglielmo Marconi itt fogta 1901-ben a történelem első transzatlanti rádiójelét, ami a modern kommunikáció korszakának kezdetét jelentette.",
-      ro: "Dealul Semnalului (Signal Hill) domină orașul St. John's și Atlanticul, fiind un loc de importanță istorică mondială. Aici, Guglielmo Marconi a recepționat în 1901 primul semnal radio transatlantic, marcând începutul erei comunicațiilor moderne.",
-      en: "Signal Hill overlooks St. John's and the Atlantic, standing as a site of global historical importance. It was here in 1901 that Guglielmo Marconi received the first transatlantic wireless signal, marking the dawn of the modern communications age."
-    },
-    facts: {
-      de: ["Erstes Funksignal 1901", "Cabot Tower Wahrzeichen", "Strategische Militärlage", "Blick auf St. John's Hafen"],
-      hu: ["Első rádiójel 1901-ben", "A Cabot-torony a jelképe", "Stratégiai katonai helyszín", "Kilátás St. John's kikötőjére"],
-      ro: ["Primul semnal radio în 1901", "Turnul Cabot ca punct de reper", "Locație militară strategică", "Vedere spre portul St. John's"],
-      en: ["First wireless signal in 1901", "Home to the Cabot Tower", "Strategic military defense site", "Panoramic views of the harbor"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Ort der letzten Schlacht in Nordamerika (Siebenjähriger Krieg)", "Cabot Tower erbaut 1897", "Einst wichtiger Signalmast-Standort"],
+      de: [],
       hu: ["Az észak-amerikai hétéves háború utolsó csatájának helyszíne", "A Cabot-torony 1897-ben épült", "Egykor fontos jelzőárboc-állomás volt"],
-      ro: ["Locul ultimei bătălii din NA (Războiul de Șapte Ani)", "Turnul Cabot construit în 1897", "Fost amplasament important pentru catarge de semnalizare"],
-      en: ["Site of the last battle of the Seven Years' War in NA", "Cabot Tower was completed in 1897", "Used for visual signaling since the 1700s"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Erstes Funksignal 1901", "Cabot Tower Wahrzeichen", "Strategische Militärlage", "Blick auf St. John's Hafen"], hu: ["Első rádiójel 1901-ben", "A Cabot-torony a jelképe", "Stratégiai katonai helyszín", "Kilátás St. John's kikötőjére"], ro: ["Primul semnal radio în 1901", "Turnul Cabot ca punct de reper", "Locație militară strategică", "Vedere spre portul St. John's"], en: ["First wireless signal in 1901", "Home to the Cabot Tower", "Strategic military defense site", "Panoramic views of the harbor"] },
     elevation: 167, historyYear: 1901, historyPeriod: "Modern"
   },
   {
@@ -1105,21 +889,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Banff-Nationalpark bietet einen der besten Lebensräume für Grizzlybären in Nordamerika. Diese majestätischen Raubtiere sind ein Symbol für die unberührte Wildnis der Rocky Mountains, und ihr Schutz ist eine der wichtigsten Aufgaben des Parks, um das ökologische Gleichgewicht zu bewahren.",
       hu: "A Banff Nemzeti Park az egyik legjobb élőhelyet kínálja a grizzlymedvék számára Észak-Amerikában. Ezek a fenséges ragadozók a Sziklás-hegység érintetlen vadonjának szimbólumai, védelmük pedig a park egyik legfontosabb feladata az ökológiai egyensúly fenntartása érdekében.",
-      ro: "Parcul Național Banff oferă unul dintre cele mai bune habitate pentru urșii grizzly din America de Nord. Acești prădători maiestuoși sunt un simbol al sălbăticiei neatinse a Munților Stâncoși, iar protejarea lor este una dintre cele mai importante sarcini ale parcului.",
-      en: "Banff National Park provides one of the most critical habitats for grizzly bears in North America. These majestic apex predators are symbols of the mountain wilderness, and their conservation is a primary focus for park authorities to maintain a healthy ecosystem."
-    },
-    facts: {
-      de: ["Majestätische Raubtiere", "Symbol der Wildnis", "Strenge Schutzmaßnahmen", "Beste Sichtungschancen im Frühjahr"],
-      hu: ["Fenséges ragadozók", "A vadon szimbólumai", "Szigorú védelmi intézkedések", "Tavasszal a legnagyobb az esély a megfigyelésükre"],
-      ro: ["Prădători maiestuoși", "Simbolul sălbăticiei", "Măsuri stricte de protecție", "Cele mai bune șanse de observare primăvara"],
-      en: ["Majestic apex predators", "Symbols of the wilderness", "Strict conservation protocols", "Spring is the best time for sightings"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Grizzlys brauchen riesige Streifgebiete", "Es gibt spezielle Wildtierüberführungen im Park", "Winterschlaf dauert ca. 5 bis 7 Monate"],
+      de: [],
       hu: ["A grizzlyknek hatalmas területre van szükségük", "Speciális vadátjárók segítik a közlekedésüket", "Téli álmuk kb. 5-7 hónapig tart"],
-      ro: ["Urșii grizzly au nevoie de teritorii vaste", "Există pasaje speciale pentru animale în parc", "Hibernarea durează aprox. 5-7 luni"],
-      en: ["Require vast territories for survival", "The park features famous wildlife overpasses", "Hibernation lasts approximately 5 to 7 months"]
-    }
+      ro: [],
+      en: []
+    },
+    facts: { de: ["Majestätische Raubtiere", "Symbol der Wildnis", "Strenge Schutzmaßnahmen", "Beste Sichtungschancen im Frühjahr"], hu: ["Fenséges ragadozók", "A vadon szimbólumai", "Szigorú védelmi intézkedések", "Tavasszal a legnagyobb az esély a megfigyelésükre"], ro: ["Prădători maiestuoși", "Simbolul sălbăticiei", "Măsuri stricte de protecție", "Cele mai bune șanse de observare primăvara"], en: ["Majestic apex predators", "Symbols of the wilderness", "Strict conservation protocols", "Spring is the best time for sightings"] }
   },
   {
     id: "ca-churchill-polar-bear",
@@ -1131,21 +910,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Churchill in Manitoba gilt als die Welthauptstadt der Eisbären, da sich hier im Herbst hunderte von Bären versammeln, um auf das Gefrieren der Hudson Bay zu warten. Dies bietet die seltene Gelegenheit, das größte an Land lebende Raubtier der Erde in freier Wildbahn zu beobachten.",
       hu: "A manitobai Churchill a világ jegesmedve-fővárosa, mivel ősszel több száz medve gyűlik itt össze, várva a Hudson-öböl befagyását. Ez ritka lehetőséget kínál a Föld legnagyobb szárazföldi ragadozójának megfigyelésére természetes élőhelyén.",
-      ro: "Churchill din Manitoba este considerat capitala mondială a urșilor polari, deoarece sute de urși se adună aici toamna pentru a aștepta înghețarea Golfului Hudson. Aceasta oferă ocazia rară de a vedea cel mai mare prădător terestru în libertate.",
-      en: "Churchill, Manitoba, is globally recognized as the 'Polar Bear Capital of the World.' Each autumn, hundreds of polar bears congregate along the shores of Hudson Bay, waiting for the ice to form so they can begin their winter seal hunt."
-    },
-    facts: {
-      de: ["Welthauptstadt der Eisbären", "An der Hudson Bay", "Beste Zeit: Oktober/November", "Beobachtung per Tundra-Buggy"],
-      hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján", "Legjobb időszak: október/november", "Megfigyelés tundra-buggykkal"],
-      ro: ["Capitala mondială a urșilor polari", "La Golful Hudson", "Perioada optimă: oct./nov.", "Observare cu vehicule Tundra Buggy"],
-      en: ["Polar Bear Capital of the World", "Located on Hudson Bay", "Peak season: October and November", "Viewed from custom Tundra Buggies"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Größte fleischfressende Landsäugetiere", "Warten auf das Meereis zur Robbenjagd", "Churchill hat ein 'Eisbären-Gefängnis' für verirrte Tiere"],
+      de: [],
       hu: ["A legnagyobb szárazföldi ragadozó emlősök", "A tengeri jégre várnak a fókavadászathoz", "Churchillben „medvebörtön” is van az eltévedt állatoknak"],
-      ro: ["Cele mai mari mamifere terestre carnivore", "Așteaptă gheața marină pentru vânătoarea de foci", "Churchill are o „închisoare pentru urși” pentru siguranță"],
-      en: ["World's largest land carnivores", "Congregate to hunt ringed seals on sea ice", "Churchill operates a unique 'Polar Bear Jail' for strays"]
-    }
+      ro: [],
+      en: []
+    },
+    facts: { de: ["Welthauptstadt der Eisbären", "An der Hudson Bay", "Beste Zeit: Oktober/November", "Beobachtung per Tundra-Buggy"], hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján", "Legjobb időszak: október/november", "Megfigyelés tundra-buggykkal"], ro: ["Capitala mondială a urșilor polari", "La Golful Hudson", "Perioada optimă: oct./nov.", "Observare cu vehicule Tundra Buggy"], en: ["Polar Bear Capital of the World", "Located on Hudson Bay", "Peak season: October and November", "Viewed from custom Tundra Buggies"] }
   },
   {
     id: "ca-wood-buffalo-bison",
@@ -1157,21 +931,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Wood-Buffalo-Nationalpark beherbergt die weltweit größte freilebende Herde von Waldbisons. Der Park wurde ursprünglich 1922 zum Schutz dieser gefährdeten Unterart gegründet und ist heute der größte Nationalpark Kanadas und ein UNESCO-Weltnaturerbe.",
       hu: "A Wood Buffalo Nemzeti Park ad otthont a világ legnagyobb szabadon élő erdei bölénycsordájának. A parkot eredetileg 1922-ben alapították e veszélyeztetett alfaj védelmére, ma pedig Kanada legnagyobb nemzeti parkja és az UNESCO Világörökség része.",
-      ro: "Parcul Național Wood Buffalo adăpostește cea mai mare cireadă de bizoni de pădure în libertate din lume. Parcul a fost fondat în 1922 pentru protejarea acestei subspecii și este astăzi cel mai mare parc național din Canada.",
-      en: "Wood Buffalo National Park is home to the largest free-roaming herd of wood bison in the world. Established in 1922 to protect this threatened subspecies, the park is Canada's largest and a designated UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Größte Waldbison-Herde", "Größter Park Kanadas", "UNESCO Weltnaturerbe", "Abgelegene Wildnis"],
-      hu: ["A legnagyobb erdei bölénycsorda", "Kanada legnagyobb parkja", "UNESCO Világörökség", "Távoli vadon"],
-      ro: ["Cea mai mare cireadă de bizoni", "Cel mai mare parc din Canada", "Patrimoniu Mondial UNESCO", "Sălbăticie izolată"],
-      en: ["Largest wood bison herd", "Canada's largest national park", "UNESCO World Heritage Site", "Remote and vast wilderness"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Waldbisons sind größer als Präriebisons", "Beherbergt das weltweit einzige Nistgebiet der Schreikraniche", "Fläche ist größer als die Schweiz"],
+      de: [],
       hu: ["Az erdei bölények nagyobbak, mint a síkságiak", "A lármás daru egyetlen fészkelőhelye a világon", "Területe nagyobb, mint Svájcé"],
-      ro: ["Bizonii de pădure sunt mai mari decât cei de prerie", "Singurul loc de cuibărit din lume pentru cocorul tipător", "Suprafață mai mare decât a Elveției"],
-      en: ["Wood bison are larger than plains bison", "World's only natural nesting site for Whooping Cranes", "The park covers an area larger than Switzerland"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Waldbison-Herde", "Größter Park Kanadas", "UNESCO Weltnaturerbe", "Abgelegene Wildnis"], hu: ["A legnagyobb erdei bölénycsorda", "Kanada legnagyobb parkja", "UNESCO Világörökség", "Távoli vadon"], ro: ["Cea mai mare cireadă de bizoni", "Cel mai mare parc din Canada", "Patrimoniu Mondial UNESCO", "Sălbăticie izolată"], en: ["Largest wood bison herd", "Canada's largest national park", "UNESCO World Heritage Site", "Remote and vast wilderness"] },
     area: 44807, historyYear: 1922
   },
   {
@@ -1184,21 +953,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Provinz Québec ist das weltweite Zentrum der Ahornsirupproduktion und liefert über 70 % des weltweiten Bedarfs. Die Tradition der 'Cabanes à Sucre' (Zuckerhütten) ist tief in der Kultur verwurzelt, wenn im Frühjahr der Saft der Zuckerahornbäume geerntet und eingekocht wird.",
       hu: "Québec tartomány a juharszirup-termelés világközpontja, a globális szükséglet több mint 70%-át biztosítja. A „Cabanes à Sucre” (cukorházak) hagyománya mélyen gyökerezik a kultúrában, amikor tavasszal a cukorjuharok nedvét csapolják és besűrítik.",
-      ro: "Provincia Québec este centrul mondial al producției de sirop de arțar, furnizând peste 70% din necesarul global. Tradiția „Cabanes à Sucre” este profund înrădăcinată în cultură, primăvara fiind momentul recoltării sevei de arțar.",
-      en: "Quebec is the global powerhouse of maple syrup production, accounting for over 70% of the world's supply. The cultural tradition of the 'Sugar Shack' (cabane à sucre) comes alive every spring as the sap of the sugar maple is harvested and boiled down."
-    },
-    facts: {
-      de: ["Produziert 70% weltweit", "Zuckerahorn-Bäume", "Frühjahrs-Erntezeit", "Ahornblatt Nationalsymbol"],
-      hu: ["A világtermelés 70%-át adja", "Cukorjuhar fákból készül", "Tavaszi betakarítás", "A juharlevél nemzeti jelkép"],
-      ro: ["Produce 70% din totalul mondial", "Arbori de arțar de zahăr", "Recoltare în primăvară", "Frunza de arțar, simbol național"],
-      en: ["Produces 70% of world supply", "Derived from sugar maple trees", "Spring tapping season", "Maple leaf is a national icon"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Benötigt ca. 40 Liter Saft für 1 Liter Sirup", "Wurde von indigenen Völkern entdeckt", "Besitzt eine strategische Reserve an Ahornsirup"],
+      de: [],
       hu: ["Kb. 40 liter nedvből lesz 1 liter szirup", "Az őslakos népek fedezték fel az eljárást", "Rendelkeznek stratégiai juharszirup-tartalékkal"],
-      ro: ["Sunt necesari 40 litri de sevă pentru 1 litru de sirop", "Descoperit inițial de popoarele indigene", "Există o rezervă strategică de sirop de arțar"],
-      en: ["Takes 40 liters of sap to make 1 liter of syrup", "First developed by Indigenous peoples", "Quebec maintains a Global Strategic Maple Syrup Reserve"]
+      ro: [],
+      en: []
     },
+    facts: { de: ["Produziert 70% weltweit", "Zuckerahorn-Bäume", "Frühjahrs-Erntezeit", "Ahornblatt Nationalsymbol"], hu: ["A világtermelés 70%-át adja", "Cukorjuhar fákból készül", "Tavaszi betakarítás", "A juharlevél nemzeti jelkép"], ro: ["Produce 70% din totalul mondial", "Arbori de arțar de zahăr", "Recoltare în primăvară", "Frunza de arțar, simbol național"], en: ["Produces 70% of world supply", "Derived from sugar maple trees", "Spring tapping season", "Maple leaf is a national icon"] },
     historyYear: 1534, historyPeriod: "Traditional/Modern"
   },
   {
@@ -1211,21 +975,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Saskatchewan ist bekannt als die 'Brotkammer Kanadas' und verfügt über fast die Hälfte des gesamten Ackerlandes des Landes. Die riesigen Weizenfelder, die sich bis zum Horizont erstrecken, sind ein prägendes Bild der kanadischen Prärie und ein Eckpfeiler der nationalen Wirtschaft.",
       hu: "Saskatchewan Kanada „magtáraként” ismert, itt található az ország összes szántóföldjének csaknem fele. A láthatárig nyúló hatalmas búzatáblák a kanadai préri meghatározó képét adják, és a nemzetgazdaság egyik sarokkövét jelentik.",
-      ro: "Saskatchewan este cunoscut ca „grânarul Canadei”, având aproape jumătate din suprafața arabilă a țării. Câmpurile vaste de grâu care se întind până la orizont sunt o imagine definitorie a preriei canadiene.",
-      en: "Saskatchewan is renowned as the 'Breadbasket of Canada,' containing nearly half of the nation's total arable land. Its vast wheat fields, stretching across the flat prairie horizon, are a fundamental pillar of the Canadian agricultural economy."
-    },
-    facts: {
-      de: ["Brotkammer Kanadas", "Riesige Prärie-Flächen", "Wichtigster Exporteur", "Goldener Horizont"],
-      hu: ["Kanada magtára", "Hatalmas préri területek", "Meghatározó exportcikk", "Aranyló láthatár"],
-      ro: ["Grânarul Canadei", "Suprafețe vaste de prerie", "Exportator major", "Orizont auriu"],
-      en: ["Breadbasket of Canada", "Vast prairie landscapes", "Leading global wheat exporter", "Iconic golden horizons"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Größter Produzent von Hartweizen", "Wichtiger Hub für landwirtschaftliche Forschung", "Prägt die Geschichte der Besiedlung"],
+      de: [],
       hu: ["A durumbúza legnagyobb termelője", "Az agrárkutatások fontos központja", "Meghatározta a betelepülés történetét"],
-      ro: ["Cel mai mare producător de grâu dur", "Centru major pentru cercetare agricolă", "A modelat istoria colonizării"],
-      en: ["World's leading producer of durum wheat", "Global hub for agricultural crop research", "Shaped by the history of rail expansion and homesteading"]
-    }
+      ro: [],
+      en: []
+    },
+    facts: { de: ["Brotkammer Kanadas", "Riesige Prärie-Flächen", "Wichtigster Exporteur", "Goldener Horizont"], hu: ["Kanada magtára", "Hatalmas préri területek", "Meghatározó exportcikk", "Aranyló láthatár"], ro: ["Grânarul Canadei", "Suprafețe vaste de prerie", "Exportator major", "Orizont auriu"], en: ["Breadbasket of Canada", "Vast prairie landscapes", "Leading global wheat exporter", "Iconic golden horizons"] }
   },
   {
     id: "ca-okanagan-wine",
@@ -1237,21 +996,16 @@ export const canadaCities: POI[] = [
     descriptionAdvanced: {
       de: "Das Okanagan Valley in British Columbia ist Kanadas zweitgrößtes Weinanbaugebiet und bekannt für sein einzigartiges Mikroklima. Neben erstklassigen Weinen ist die Region berühmt für ihre fruchtbaren Obstgärten, die Kirschen, Pfirsiche und Äpfel in Hülle und Fülle hervorbringen.",
       hu: "A Brit Kolumbiában található Okanagan-völgy Kanada második legnagyobb borvidéke, amely egyedülálló mikroklímájáról ismert. A kiváló borok mellett a régió híres termékeny gyümölcsöskertjeiről, amelyek bőségesen teremnek cseresznyét, őszibarackot és almát.",
-      ro: "Valea Okanagan din Columbia Britanică este a doua regiune viticolă ca mărime din Canada, renumită pentru microclimatul său unic. Pe lângă vinurile de top, regiunea este faimoasă pentru livezile fertile de cireși, piersici și meri.",
-      en: "The Okanagan Valley in British Columbia is Canada's premier fruit-growing region and its second-largest wine producer. Its semi-arid climate creates ideal conditions for lush orchards of cherries and peaches, as well as world-class vineyards."
-    },
-    facts: {
-      de: ["Zweitgrößte Weinregion", "Kanadas Obstgarten", "Trockenes Mikroklima", "Wunderschöne Seelage"],
-      hu: ["Második legnagyobb borvidék", "Kanada gyümölcsöskertje", "Száraz mikroklíma", "Gyönyörű tóparti fekvés"],
-      ro: ["A doua regiune viticolă", "Livada Canadei", "Microclimat arid", "Cadru pitoresc lângă lac"],
-      en: ["Second largest wine region", "Canada's fruit orchard hub", "Unique semi-arid microclimate", "Scenic lakeside setting"]
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Bekannt für hochwertige Eisweine", "Nördlichste Wüste Kanadas in der Nähe", "Über 180 lizenzierte Weingüter"],
+      de: [],
       hu: ["Híres a kiváló jégborairól", "Közelében található Kanada legészakibb sivataga", "Több mint 180 bejegyzett borászat"],
-      ro: ["Renumită pentru vinuri de gheață", "Aproape de cel mai nordic deșert al Canadei", "Peste 180 de crame licențiate"],
-      en: ["Famous for award-winning Icewines", "Home to over 180 licensed wineries", "Borders Canada's only true desert area near Osoyoos"]
-    }
+      ro: [],
+      en: []
+    },
+    facts: { de: ["Zweitgrößte Weinregion", "Kanadas Obstgarten", "Trockenes Mikroklima", "Wunderschöne Seelage"], hu: ["Második legnagyobb borvidék", "Kanada gyümölcsöskertje", "Száraz mikroklíma", "Gyönyörű tóparti fekvés"], ro: ["A doua regiune viticolă", "Livada Canadei", "Microclimat arid", "Cadru pitoresc lângă lac"], en: ["Second largest wine region", "Canada's fruit orchard hub", "Unique semi-arid microclimate", "Scenic lakeside setting"] }
   },
   {
     id: "ca-canadas-wonderland",
@@ -1259,7 +1013,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-79.5, 43.8],
     name: { de: "Canada's Wonderland", hu: "Canada's Wonderland", ro: "Canada's Wonderland", en: "Canada's Wonderland" },
-    description: { de: "Größter Freizeitpark Kanadas in Vaughan, Ontario.", hu: "Kanada legnagyobb vidámparkja az ontariói Vaughanban.", ro: "Cel mai mare parc de distracții din Canada în Vaughan, Ontario.", en: "Canada's premier amusement park in Vaughan, Ontario." }
+    description: { de: "Größter Freizeitpark Kanadas in Vaughan, Ontario.", hu: "Kanada legnagyobb vidámparkja az ontariói Vaughanban.", ro: "Cel mai mare parc de distracții din Canada în Vaughan, Ontario.", en: "Canada's premier amusement park in Vaughan, Ontario." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Kanada legnagyobb vidámparkja, amely több mint 200 attrakcióval várja a látogatókat, köztük számos hullámvasúttal. A park központi látványossága a 'Wonder Mountain' hegy, amely már messziről látható. Sachkunde K5 – erők és mozgások.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Több mint 200 attrakció található benne.", "A 'Wonder Mountain' a park központi hegye.", "A park több mint 130 hektáron terül el.", "Itt található az ország leggyorsabb hullámvasútja.", "A park nyáron tart nyitva.", "Külön részleggel rendelkezik gyerekek számára."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-west-edmonton-mall",
@@ -1267,7 +1033,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-113.6, 53.5],
     name: { de: "West Edmonton Mall", hu: "West Edmonton Mall", ro: "West Edmonton Mall", en: "West Edmonton Mall" },
-    description: { de: "Eines der größten Einkaufs- und Unterhaltungszentren der Welt.", hu: "A világ egyik legnagyobb bevásárló- és szórakoztatóközpontja.", ro: "Unul dintre cele mai mari centre comerciale și de divertisment din lume.", en: "One of the world's largest shopping and entertainment complexes." }
+    description: { de: "Eines der größten Einkaufs- und Unterhaltungszentren der Welt.", hu: "A világ egyik legnagyobb bevásárló- és szórakoztatóközpontja.", ro: "Unul dintre cele mai mari centre comerciale și de divertisment din lume.", en: "One of the world's largest shopping and entertainment complexes." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A világ egyik legnagyobb bevásárlóközpontja, amely nemcsak üzleteknek, hanem egy óriási fedett vízi parknak és vidámparknak is otthont ad. A komplexum akkora, hogy több nap is kevés a teljes felfedezéséhez. Sachkunde K6 – rekreáció.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Több mint 800 üzlet található benne.", "Fedett vízi parkkal rendelkezik.", "Beltéri vidámparkja van.", "Több mint 350 000 m²-es alapterület.", "Szálloda is található benne.", "A világ egyik leglátogatottabb helyszíne."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-alberta-oil-sands",
@@ -1275,7 +1053,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-111.4, 57.0],
     name: { de: "Alberta Ölsande", hu: "Albertai olajhomok", ro: "Nisipurile bituminoase din Alberta", en: "Alberta Oil Sands" },
-    description: { de: "Großes Zentrum der Energiegewinnung im Norden Alberttas.", hu: "Hatalmas energiatermelő központ Alberta északi részén.", ro: "Centru major de producție de energie în nordul Albertei.", en: "Major energy production center in northern Alberta." }
+    description: { de: "Großes Zentrum der Energiegewinnung im Norden Alberttas.", hu: "Hatalmas energiatermelő központ Alberta északi részén.", ro: "Centru major de producție de energie în nordul Albertei.", en: "Major energy production center in northern Alberta." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az albertai olajhomok-lelőhelyek a világ egyik legnagyobb olajtartalékát rejtik, jelentősen hozzájárulva a globális energiaellátáshoz. A kitermelés bonyolult technológiát igényel, és gazdasági szempontból Kanada egyik legfontosabb ipari ágazata. Földrajz K8 – ipari erőforrások.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A világ egyik legnagyobb ismert olajtartaléka.", "Kitermelése bonyolult technológiát igényel.", "Jelentős hatással van Kanada gazdaságára.", "A technológia folyamatosan fejlődik a fenntarthatóság érdekében.", "Fort McMurray a régió központja.", "Hatalmas ipari terület."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-vancouver-film",
@@ -1283,7 +1073,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-123.1, 49.3],
     name: { de: "Vancouver Filmindustrie", hu: "Vancouveri filmipar", ro: "Industria cinematografică din Vancouver", en: "Vancouver Film Industry" },
-    description: { de: "Häufig als 'Hollywood North' bezeichnet.", hu: "Gyakran 'Északi Hollywoodként' emlegetik.", ro: "Adesea supranumit „Hollywood-ul Nordului”.", en: "Often referred to as 'Hollywood North'." }
+    description: { de: "Häufig als 'Hollywood North' bezeichnet.", hu: "Gyakran 'Északi Hollywoodként' emlegetik.", ro: "Adesea supranumit „Hollywood-ul Nordului”.", en: "Often referred to as 'Hollywood North'." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Vancouver Észak-Amerika egyik legfontosabb filmgyártási központja, ahol rengeteg népszerű filmet és sorozatot forgatnak. A város a kedvező forgatási körülményeknek és a tehetséges szakembereknek köszönhetően vált világhírűvé. Művészet K7 – média és kultúra.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Gyakran használják forgatási helyszínként.", "Sok nemzetközi produkciót itt készítenek.", "Szakképzett stábok és modern stúdiók vannak.", "Kedvező adózási környezet.", "A városi környezet könnyen átalakítható más helyszínné.", "Több mint 100 éve zajlik filmforgatás a régióban."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-toronto-finance",
@@ -1291,7 +1093,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-79.4, 43.6],
     name: { de: "Toronto Finanzviertel", hu: "Torontói pénzügyi negyed", ro: "Districtul financiar din Toronto", en: "Toronto Financial District" },
-    description: { de: "Das wirtschaftliche Herz Kanadas.", hu: "Kanada gazdasági szíve.", ro: "Inima economică a Canadei.", en: "The economic heart of Canada." }
+    description: { de: "Das wirtschaftliche Herz Kanadas.", hu: "Kanada gazdasági szíve.", ro: "Inima economică a Canadei.", en: "The economic heart of Canada." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Toronto a kanadai pénzügyi világ központja, ahol a legnagyobb bankok és tőzsdei társaságok székelnek. A pénzügyi negyed felhőkarcolói a város gazdasági erejét jelképezik. Gazdaságtan K8 – pénzügyi világ.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt találhatók a legfontosabb kanadai bankok.", "A Torontói Értéktőzsde a világ egyik legnagyobbja.", "A pénzügyi negyed az ország gazdasági erejét tükrözi.", "Számos multinacionális vállalat központja.", "Modern felhőkarcolók jellemzik a negyedet.", "Folyamatosan növekvő üzleti központ."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-port-vancouver",
@@ -1299,7 +1113,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-123.1, 49.3],
     name: { de: "Hafen von Vancouver", hu: "Vancouveri kikötő", ro: "Portul din Vancouver", en: "Port of Vancouver" },
-    description: { de: "Kanadas größter und wichtigster Hafen am Pazifik.", hu: "Kanada legnagyobb és legfontosabb kikötője a Csendes-óceánon.", ro: "Cel mai mare și mai important port al Canadei la Pacific.", en: "Canada's largest and most important port on the Pacific." }
+    description: { de: "Kanadas größter und wichtigster Hafen am Pazifik.", hu: "Kanada legnagyobb és legfontosabb kikötője a Csendes-óceánon.", ro: "Cel mai mare și mai important port al Canadei la Pacific.", en: "Canada's largest and most important port on the Pacific." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A vancouveri kikötő Kanada legnagyobb és legforgalmasabb kikötője, amely kulcsfontosságú kapu az ázsiai kereskedelem számára. Hatalmas mennyiségű áru érkezik és távozik itt nap mint nap. Földrajz K7 – kereskedelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Kulcsfontosságú kapu az ázsiai kereskedelemhez.", "Kanada legnagyobb kikötője.", "Jelentős mennyiségű áruforgalom.", "Modern technológiával felszerelt.", "Környezetvédelmi törekvések az üzemeltetésben.", "A hajózási útvonalak központja."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-port-halifax",
@@ -1307,7 +1133,19 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-63.6, 44.6],
     name: { de: "Hafen von Halifax", hu: "Halifaxi kikötő", ro: "Portul din Halifax", en: "Port of Halifax" },
-    description: { de: "Strategisch wichtiger Tiefwasserhafen am Atlantik.", hu: "Stratégiailag fontos mélyvízi kikötő az Atlanti-óceánon.", ro: "Port strategic de apă adâncă la Atlantic.", en: "Strategically important deep-water port on the Atlantic." }
+    description: { de: "Strategisch wichtiger Tiefwasserhafen am Atlantik.", hu: "Stratégiailag fontos mélyvízi kikötő az Atlanti-óceánon.", ro: "Port strategic de apă adâncă la Atlantic.", en: "Strategically important deep-water port on the Atlantic." },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A halifaxi kikötő stratégiai fontosságú mélyvízi kikötő az Atlanti-óceán partján, amely az európai és amerikai kereskedelem egyik fontos állomása. Földrajzi helyzete miatt a transzatlanti szállítások központja. Történelem K8 – kereskedelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Stratégiai mélyvízi kikötő az Atlanti-óceánon.", "Fontos állomás az európai kereskedelemben.", "Történelmi jelentőségű kereskedelmi központ.", "Képes nagy befogadóképességű hajókat fogadni.", "Folytonos fejlesztések jellemzik.", "Kanada atlanti kapuja."],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "ca-baffin-island",
@@ -1318,22 +1156,17 @@ export const canadaCities: POI[] = [
     description: { de: "Größte Insel Kanadas in der Arktis.", hu: "Kanada legnagyobb szigete az Északi-sarkvidéken.", ro: "Cea mai mare insulă din Canada, situată în zona arctică.", en: "Canada's largest island, located in the Arctic." },
     descriptionAdvanced: {
       de: "Die Baffininsel ist die größte Insel Kanadas und die fünftgrößte der Welt, geprägt von einer spektakulären arktischen Landschaft mit tiefen Fjorden und gewaltigen Gletschern. Sie ist ein Zentrum der Inuit-Kultur und beherbergt den Auyuittuq-Nationalpark mit seinen markanten Granitgipfeln.",
-      hu: "A Baffin-sziget Kanada legnagyobb és a világ ötödik legnagyobb szigete, amelyet látványos arktiszi tájak, mély fjordok és hatalmas gleccserek jellemeznek. Az inuit kultúra egyik központja, itt található az Auyuittuq Nemzeti Park a jellegzetes gránitcsúcsaival.",
-      ro: "Insula Baffin este cea mai mare insulă din Canada și a cincea ca mărime din lume, caracterizată printr-un peisaj arctic spectaculos cu fiorduri adânci și ghețari masivi. Este un centru al culturii inuite și găzduiește Parcul Național Auyuittuq, cu vârfurile sale de granit proeminente.",
-      en: "Baffin Island is the largest island in Canada and the fifth largest in the world, featuring a spectacular arctic landscape of deep fjords and massive glaciers. It is a hub for Inuit culture and home to Auyuittuq National Park with its striking granite peaks."
-    },
-    facts: {
-      de: ["Größte Insel Kanadas", "Fünftgrößte Insel der Welt", "Zentrum der Inuit-Kultur", "Auyuittuq-Nationalpark", "Heimat von Eisbären und Narwalen"],
-      hu: ["Kanada legnagyobb szigete", "A világ 5. legnagyobb szigete", "Az inuit kultúra központja", "Auyuittuq Nemzeti Park", "Jegesmedvék és narválok élőhelye"],
-      ro: ["Cea mai mare insulă din Canada", "A cincea insulă ca mărime din lume", "Centru al culturii inuite", "Parcul Național Auyuittuq", "Habitat pentru urși polari și narvali"],
-      en: ["Canada's largest island", "Fifth largest island in the world", "Center of Inuit culture", "Home to Auyuittuq National Park", "Habitat for polar bears and narwhals"]
+      hu: "A Baffin-sziget Kanada legnagyobb és a világ ötödik legnagyobb szigete, amelyet látványos arktiszi tájak, mély fjordok és hatalmas gleccserek jellemeznek. Az inuit kultúra egyik központja, itt található az Auyuittuq Nemzeti Park a jellegzetes gránitcsúcsaival. Földrajz K6 – sarkvidéki tájak.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Fläche von 507.451 km²", "Höchster Berg: Mount Odin (2.147 m)", "Entdeckt von Martin Frobisher im Jahr 1576"],
-      hu: ["Területe 507 451 km²", "Legmagasabb pontja a Mount Odin (2147 m)", "Martin Frobisher fedezte fel 1576-ben"],
-      ro: ["Suprafață de 507.451 km²", "Cel mai înalt vârf: Muntele Odin (2.147 m)", "Descoperită de Martin Frobisher în 1576"],
-      en: ["Area of 507,451 km²", "Highest peak: Mount Odin (2,147 m)", "Explored by Martin Frobisher in 1576"]
+      de: [],
+      hu: ["Kanada legnagyobb szigete.", "A világ 5. legnagyobb szigete.", "Az inuit kultúra központja.", "Auyuittuq Nemzeti Park.", "Jegesmedvék és narválok élőhelye."],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Insel Kanadas", "Fünftgrößte Insel der Welt", "Zentrum der Inuit-Kultur", "Auyuittuq-Nationalpark", "Heimat von Eisbären und Narwalen"], hu: ["Kanada legnagyobb szigete", "A világ 5. legnagyobb szigete", "Az inuit kultúra központja", "Auyuittuq Nemzeti Park", "Jegesmedvék és narválok élőhelye"], ro: ["Cea mai mare insulă din Canada", "A cincea insulă ca mărime din lume", "Centru al culturii inuite", "Parcul Național Auyuittuq", "Habitat pentru urși polari și narvali"], en: ["Canada's largest island", "Fifth largest island in the world", "Center of Inuit culture", "Home to Auyuittuq National Park", "Habitat for polar bears and narwhals"] },
     area: 507451, elevation: 2147
   },
   {
@@ -1345,22 +1178,17 @@ export const canadaCities: POI[] = [
     description: { de: "Große Insel an der Pazifikküste von British Columbia.", hu: "Nagy sziget Brit Kolumbia csendes-óceáni partjainál.", ro: "Insulă mare pe coasta Pacificului din Columbia Britanică.", en: "Large island off the Pacific coast of British Columbia." },
     descriptionAdvanced: {
       de: "Vancouver Island bietet eine unglaubliche Vielfalt an Ökosystemen, von gemäßigten Regenwäldern bis hin zu schneebedeckten Bergen. Die Insel ist bekannt für ihre reiche Tierwelt, insbesondere Wale und Bären, sowie für die Provinzhauptstadt Victoria an ihrer Südspitze.",
-      hu: "A Vancouver-sziget az ökoszisztémák hihetetlen változatosságát kínálja, a mérsékelt övi esőerdőktől a hófödte hegyekig. A sziget híres gazdag állatvilágáról, különösen a bálnákról és medvékről, valamint a déli csücskén fekvő tartományi fővárosról, Victoriáról.",
-      ro: "Insula Vancouver oferă o diversitate incredibilă de ecosisteme, de la păduri tropicale temperate la munți înzăpeziți. Insula este renumită pentru fauna sa bogată, în special balene și urși, precum și pentru capitala provinciei, Victoria, situată în vârful său sudic.",
-      en: "Vancouver Island offers an incredible diversity of ecosystems, from temperate rainforests to snow-capped mountains. The island is famous for its abundant wildlife, particularly whales and bears, and for the provincial capital, Victoria, at its southern tip."
-    },
-    facts: {
-      de: ["Größte Insel an der Pazifikküste", "Gemäßigter Regenwald", "Weltklasse Walbeobachtung", "Heimat von Victoria", "Surferparadies Tofino"],
-      hu: ["A csendes-óceáni partvidék legnagyobb szigete", "Mérsékelt övi esőerdők", "Világszínvonalú bálnamegfigyelés", "Itt található Victoria", "Tofino, a szörfösök paradicsoma"],
-      ro: ["Cea mai mare insulă de pe coasta Pacificului", "Păduri tropicale temperate", "Observarea balenelor de clasă mondială", "Găzduiește orașul Victoria", "Tofino, paradisul surferilor"],
-      en: ["Largest island on the Pacific coast", "Temperate rainforests", "World-class whale watching", "Home to Victoria", "Surfing mecca of Tofino"]
+      hu: "A Vancouver-sziget az ökoszisztémák hihetetlen változatosságát kínálja, a mérsékelt övi esőerdőktől a hófödte hegyekig. A sziget híres gazdag állatvilágáról, különösen a bálnákról és medvékről, valamint a déli csücskén fekvő tartományi fővárosról, Victoriáról. Földrajz K5 – óceánparti élőhelyek.",
+      ro: "",
+      en: ""
     },
     factsAdvanced: {
-      de: ["Länge von 460 km", "Fläche von 31.285 km²", "Höchster Berg: Golden Hinde (2.195 m)"],
-      hu: ["Hossza 460 km", "Területe 31 285 km²", "Legmagasabb pontja a Golden Hinde (2195 m)"],
-      ro: ["Lungime de 460 km", "Suprafață de 31.285 km²", "Cel mai înalt vârf: Golden Hinde (2.195 m)"],
-      en: ["Length of 460 km", "Area of 31,285 km²", "Highest peak: Golden Hinde (2,195 m)"]
+      de: [],
+      hu: ["A csendes-óceáni partvidék legnagyobb szigete", "Mérsékelt övi esőerdők", "Világszínvonalú bálnamegfigyelés", "Itt található Victoria", "Tofino, a szörfösök paradicsoma"],
+      ro: [],
+      en: []
     },
+    facts: { de: ["Größte Insel an der Pazifikküste", "Gemäßigter Regenwald", "Weltklasse Walbeobachtung", "Heimat von Victoria", "Surferparadies Tofino"], hu: ["A csendes-óceáni partvidék legnagyobb szigete", "Mérsékelt övi esőerdők", "Világszínvonalú bálnamegfigyelés", "Itt található Victoria", "Tofino, a szörfösök paradicsoma"], ro: ["Cea mai mare insulă de pe coasta Pacificului", "Păduri tropicale temperate", "Observarea balenelor de clasă mondială", "Găzduiește orașul Victoria", "Tofino, paradisul surferilor"], en: ["Largest island on the Pacific coast", "Temperate rainforests", "World-class whale watching", "Home to Victoria", "Surfing mecca of Tofino"] },
     area: 31285, length: 460, elevation: 2195
   },
 ];

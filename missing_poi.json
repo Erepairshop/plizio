@@ -1,0 +1,886 @@
+[
+  {
+    "id": "poland",
+    "nameDe": "Polen"
+  },
+  {
+    "id": "PL-MZ",
+    "nameDe": "Masowien"
+  },
+  {
+    "id": "PL-MA",
+    "nameDe": "Kleinpolen"
+  },
+  {
+    "id": "PL-PM",
+    "nameDe": "Pommern"
+  },
+  {
+    "id": "PL-DS",
+    "nameDe": "Niederschlesien"
+  },
+  {
+    "id": "PL-WP",
+    "nameDe": "Großpolen"
+  },
+  {
+    "id": "PL-SL",
+    "nameDe": "Schlesien"
+  },
+  {
+    "id": "PL-LD",
+    "nameDe": "Lodz"
+  },
+  {
+    "id": "PL-LU",
+    "nameDe": "Lublin"
+  },
+  {
+    "id": "PL-WN",
+    "nameDe": "Ermland-Masuren"
+  },
+  {
+    "id": "PL-ZP",
+    "nameDe": "Westpommern"
+  },
+  {
+    "id": "PL-PD",
+    "nameDe": "Podlachien"
+  },
+  {
+    "id": "PL-PK",
+    "nameDe": "Karpatenvorland"
+  },
+  {
+    "id": "PL-KP",
+    "nameDe": "Kujawien-Pommern"
+  },
+  {
+    "id": "PL-SK",
+    "nameDe": "Heiligkreuz"
+  },
+  {
+    "id": "PL-LB",
+    "nameDe": "Lebus"
+  },
+  {
+    "id": "PL-OP",
+    "nameDe": "Oppeln"
+  },
+  {
+    "id": "warsaw",
+    "nameDe": "Warschau"
+  },
+  {
+    "id": "krakow",
+    "nameDe": "Krakau"
+  },
+  {
+    "id": "wroclaw",
+    "nameDe": "Breslau"
+  },
+  {
+    "id": "gdansk",
+    "nameDe": "Danzig"
+  },
+  {
+    "id": "poznan",
+    "nameDe": "Posen"
+  },
+  {
+    "id": "szczecin",
+    "nameDe": "Stettin"
+  },
+  {
+    "id": "lodz-city",
+    "nameDe": "Lodz"
+  },
+  {
+    "id": "lublin-city",
+    "nameDe": "Lublin"
+  },
+  {
+    "id": "katowice",
+    "nameDe": "Kattowitz"
+  },
+  {
+    "id": "bialystok",
+    "nameDe": "Białystok"
+  },
+  {
+    "id": "torun",
+    "nameDe": "Thorn"
+  },
+  {
+    "id": "czestochowa",
+    "nameDe": "Tschenstochau"
+  },
+  {
+    "id": "gdynia",
+    "nameDe": "Gdingen"
+  },
+  {
+    "id": "sopot",
+    "nameDe": "Sopot"
+  },
+  {
+    "id": "wawel",
+    "nameDe": "Wawel-Schloss"
+  },
+  {
+    "id": "rynek-glowny",
+    "nameDe": "Hauptmarkt"
+  },
+  {
+    "id": "biebrza",
+    "nameDe": "Biebrza-Nationalpark"
+  },
+  {
+    "id": "ojcow",
+    "nameDe": "Ojców-Nationalpark"
+  },
+  {
+    "id": "wieliczka",
+    "nameDe": "Salzbergwerk Wieliczka"
+  },
+  {
+    "id": "auschwitz",
+    "nameDe": "Auschwitz-Birkenau"
+  },
+  {
+    "id": "tatra",
+    "nameDe": "Tatra-Gebirge"
+  },
+  {
+    "id": "malbork",
+    "nameDe": "Marienburg"
+  },
+  {
+    "id": "bialowieza",
+    "nameDe": "Białowieża-Urwald"
+  },
+  {
+    "id": "mazury",
+    "nameDe": "Masurische Seenplatte"
+  },
+  {
+    "id": "stare-miasto-warszawa",
+    "nameDe": "Warschauer Altstadt"
+  },
+  {
+    "id": "stare-miasto-torun",
+    "nameDe": "Thorner Altstadt"
+  },
+  {
+    "id": "zamosc-city",
+    "nameDe": "Zamość"
+  },
+  {
+    "id": "stare-miasto-zamosc",
+    "nameDe": "Altstadt von Zamość"
+  },
+  {
+    "id": "kazimierz-krakow",
+    "nameDe": "Stadtteil Kazimierz"
+  },
+  {
+    "id": "jasna-gora",
+    "nameDe": "Kloster Jasna Góra"
+  },
+  {
+    "id": "stare-miasto-gdansk",
+    "nameDe": "Danziger Rechtstadt"
+  },
+  {
+    "id": "gniezno",
+    "nameDe": "Gnesen"
+  },
+  {
+    "id": "zamek-ksiaz",
+    "nameDe": "Schloss Fürstenstein"
+  },
+  {
+    "id": "zamek-lancut",
+    "nameDe": "Schloss Łańcut"
+  },
+  {
+    "id": "karkonosze-np",
+    "nameDe": "Nationalpark Riesengebirge"
+  },
+  {
+    "id": "bieszczady-np",
+    "nameDe": "Nationalpark Bieszczady"
+  },
+  {
+    "id": "morskie-oko",
+    "nameDe": "Meerauge"
+  },
+  {
+    "id": "slowinski-np",
+    "nameDe": "Slowinzischer Nationalpark"
+  },
+  {
+    "id": "pieniny-np",
+    "nameDe": "Nationalpark Pieninen"
+  },
+  {
+    "id": "dunajec-gorge",
+    "nameDe": "Dunajec-Durchbruch"
+  },
+  {
+    "id": "hel-peninsula",
+    "nameDe": "Halbinsel Hel"
+  },
+  {
+    "id": "bialka-tatrzanska",
+    "nameDe": "Białka Tatrzańska"
+  },
+  {
+    "id": "muzeum-powstania-warszawskiego",
+    "nameDe": "Museum des Warschauer Aufstands"
+  },
+  {
+    "id": "centrum-nauki-kopernik",
+    "nameDe": "Kopernikus-Wissenschaftszentrum"
+  },
+  {
+    "id": "warsaw-zoo",
+    "nameDe": "Warschauer Zoo"
+  },
+  {
+    "id": "rynek-wroclaw",
+    "nameDe": "Breslauer Ring"
+  },
+  {
+    "id": "ulica-piotrkowska",
+    "nameDe": "Piotrkowska-Straße"
+  },
+  {
+    "id": "stary-rynek-poznan",
+    "nameDe": "Alter Markt in Posen"
+  },
+  {
+    "id": "energylandia",
+    "nameDe": "Energylandia"
+  },
+  {
+    "id": "pl-bydgoszcz",
+    "nameDe": "Bydgoszcz"
+  },
+  {
+    "id": "pl-lublin",
+    "nameDe": "Lublin"
+  },
+  {
+    "id": "pl-katowice",
+    "nameDe": "Kattowitz"
+  },
+  {
+    "id": "pl-czestochowa",
+    "nameDe": "Tschenstochau"
+  },
+  {
+    "id": "pl-radom",
+    "nameDe": "Radom"
+  },
+  {
+    "id": "pl-sopot",
+    "nameDe": "Sopot"
+  },
+  {
+    "id": "pl-kielce",
+    "nameDe": "Kielce"
+  },
+  {
+    "id": "pl-olsztyn",
+    "nameDe": "Allenstein"
+  },
+  {
+    "id": "pl-rzeszow",
+    "nameDe": "Rzeszów"
+  },
+  {
+    "id": "pl-gdynia",
+    "nameDe": "Gdingen"
+  },
+  {
+    "id": "pl-malbork-castle",
+    "nameDe": "Marienburg"
+  },
+  {
+    "id": "pl-wawel-castle",
+    "nameDe": "Wawel"
+  },
+  {
+    "id": "pl-kazimierz-dolny",
+    "nameDe": "Kazimierz Dolny"
+  },
+  {
+    "id": "pl-torun-old-town",
+    "nameDe": "Toruńer Altstadt"
+  },
+  {
+    "id": "pl-ogrodzieniec",
+    "nameDe": "Burg Ogrodzieniec"
+  },
+  {
+    "id": "pl-zamosc",
+    "nameDe": "Zamość"
+  },
+  {
+    "id": "pl-warsaw-old-town",
+    "nameDe": "Warschauer Altstadt"
+  },
+  {
+    "id": "pl-jasna-gora",
+    "nameDe": "Kloster Jasna Góra"
+  },
+  {
+    "id": "pl-gniezno-cathedral",
+    "nameDe": "Kathedrale von Gnesen"
+  },
+  {
+    "id": "pl-krzyztopor",
+    "nameDe": "Schloss Krzyżtopór"
+  },
+  {
+    "id": "pl-bialowieza-np",
+    "nameDe": "Białowieża-NP"
+  },
+  {
+    "id": "pl-tatra-np",
+    "nameDe": "Tatra-Nationalpark"
+  },
+  {
+    "id": "pl-bieszczady-np",
+    "nameDe": "Bieszczady-NP"
+  },
+  {
+    "id": "pl-masurian-lakes",
+    "nameDe": "Masurische Seen"
+  },
+  {
+    "id": "pl-slowinski-np",
+    "nameDe": "Slowinzischer NP"
+  },
+  {
+    "id": "pl-morskie-oko",
+    "nameDe": "Meerauge"
+  },
+  {
+    "id": "pl-ojcow-np",
+    "nameDe": "Ojców-NP"
+  },
+  {
+    "id": "pl-kampinos-np",
+    "nameDe": "Kampinos-NP"
+  },
+  {
+    "id": "pl-pieniny-np",
+    "nameDe": "Pieninen-NP"
+  },
+  {
+    "id": "pl-wolin-np",
+    "nameDe": "Wollin-NP"
+  },
+  {
+    "id": "pl-lublin-old-town",
+    "nameDe": "Altstadt von Lublin"
+  },
+  {
+    "id": "pl-zamosc-rynek",
+    "nameDe": "Marktplatz von Zamość"
+  },
+  {
+    "id": "pl-pelplin-cathedral",
+    "nameDe": "Dom zu Pelplin"
+  },
+  {
+    "id": "pl-ksiaz-castle",
+    "nameDe": "Schloss Książ"
+  },
+  {
+    "id": "pl-pszczyna-palace",
+    "nameDe": "Palast von Pszczyna"
+  },
+  {
+    "id": "pl-bieszczady",
+    "nameDe": "Bieszczady"
+  },
+  {
+    "id": "pl-gdansk-beach",
+    "nameDe": "Strand von Danzig"
+  },
+  {
+    "id": "pl-masuria-lakes-area",
+    "nameDe": "Masurische Seenplatte"
+  },
+  {
+    "id": "pl-slowinski-dunes",
+    "nameDe": "Słowiński-Dünen"
+  },
+  {
+    "id": "pl-warsaw-science-center",
+    "nameDe": "Warschauer Wissenschaftszentrum"
+  },
+  {
+    "id": "pl-katowice-spodek",
+    "nameDe": "Spodek"
+  },
+  {
+    "id": "pl-wroclaw-dwarfs",
+    "nameDe": "Breslauer Zwerge"
+  },
+  {
+    "id": "pl-crooked-forest",
+    "nameDe": "Krummer Wald"
+  },
+  {
+    "id": "pl-lodz-film-museum",
+    "nameDe": "Filmuseum Łódź"
+  },
+  {
+    "id": "city-gorzow-wielkopolski-extra",
+    "nameDe": "Landsberg an der Warthe"
+  },
+  {
+    "id": "city-olsztyn-extra",
+    "nameDe": "Allenstein"
+  },
+  {
+    "id": "city-elblag-extra",
+    "nameDe": "Elbing"
+  },
+  {
+    "id": "city-rzeszow-extra",
+    "nameDe": "Rzeszów"
+  },
+  {
+    "id": "city-przemysl-extra",
+    "nameDe": "Przemyśl"
+  },
+  {
+    "id": "city-kielce-extra",
+    "nameDe": "Kielce"
+  },
+  {
+    "id": "city-opole-extra",
+    "nameDe": "Oppeln"
+  },
+  {
+    "id": "city-bydgoszcz-extra",
+    "nameDe": "Bromberg"
+  },
+  {
+    "id": "city-bialystok-extra",
+    "nameDe": "Białystok"
+  },
+  {
+    "id": "city-suwalki-extra",
+    "nameDe": "Suwałki"
+  },
+  {
+    "id": "city-szczecin-extra",
+    "nameDe": "Stettin"
+  },
+  {
+    "id": "sea-swinoujscie-extra",
+    "nameDe": "Swinemünde"
+  },
+  {
+    "id": "port-gdynia-extra",
+    "nameDe": "Hafen Gdynia"
+  },
+  {
+    "id": "city-radom-extra",
+    "nameDe": "Radom"
+  },
+  {
+    "id": "city-plock-extra",
+    "nameDe": "Płock"
+  },
+  {
+    "id": "city-czestochowa-extra",
+    "nameDe": "Tschenstochau"
+  },
+  {
+    "id": "city-zakopane-extra",
+    "nameDe": "Zakopane"
+  },
+  {
+    "id": "city-sandomierz-extra",
+    "nameDe": "Sandomir"
+  },
+  {
+    "id": "city-legnica-extra",
+    "nameDe": "Liegnitz"
+  },
+  {
+    "id": "city-jelenia-gora-extra",
+    "nameDe": "Hirschberg im Riesengebirge"
+  },
+  {
+    "id": "city-gliwice-extra",
+    "nameDe": "Gleiwitz"
+  },
+  {
+    "id": "city-zabrze-extra",
+    "nameDe": "Zabrze"
+  },
+  {
+    "id": "city-bytom-extra",
+    "nameDe": "Beuthen"
+  },
+  {
+    "id": "city-sosnowiec-extra",
+    "nameDe": "Sosnowitz"
+  },
+  {
+    "id": "city-glogow-extra",
+    "nameDe": "Glogau"
+  },
+  {
+    "id": "city-walbrzych-extra",
+    "nameDe": "Waldenburg"
+  },
+  {
+    "id": "city-swidnica-extra",
+    "nameDe": "Schweidnitz"
+  },
+  {
+    "id": "city-kalisz-extra",
+    "nameDe": "Kalisz"
+  },
+  {
+    "id": "city-pila-extra",
+    "nameDe": "Schneidemühl"
+  },
+  {
+    "id": "city-gniezno-extra",
+    "nameDe": "Gnesen"
+  },
+  {
+    "id": "city-ostrow-wielkopolski-extra",
+    "nameDe": "Ostrów Wielkopolski"
+  },
+  {
+    "id": "city-tarnow-extra",
+    "nameDe": "Tarnów"
+  },
+  {
+    "id": "city-nowy-sacz-extra",
+    "nameDe": "Neu-Sandez"
+  },
+  {
+    "id": "port-police-chemical-port-extra",
+    "nameDe": "Chemiehafen Police"
+  },
+  {
+    "id": "historical-fortress-krosno-odrzanskie-extra",
+    "nameDe": "Festung Crossen an der Oder"
+  },
+  {
+    "id": "historical-wolfsschanze-extra",
+    "nameDe": "Wolfsschanze"
+  },
+  {
+    "id": "castle-lancut-extra",
+    "nameDe": "Schloss Łańcut"
+  },
+  {
+    "id": "landmark-krzyztopor-castle-extra",
+    "nameDe": "Schloss Krzyżtopór"
+  },
+  {
+    "id": "historical-moszna-castle-extra",
+    "nameDe": "Schloss Moschen"
+  },
+  {
+    "id": "landmark-biskupin-extra",
+    "nameDe": "Biskupin"
+  },
+  {
+    "id": "historical-chelmno-extra",
+    "nameDe": "Kulm"
+  },
+  {
+    "id": "historical-tykocin-extra",
+    "nameDe": "Tykocin"
+  },
+  {
+    "id": "historical-zelazowa-wola-extra",
+    "nameDe": "Żelazowa Wola"
+  },
+  {
+    "id": "historical-piotrkowska-street-extra",
+    "nameDe": "Piotrkowska-Straße"
+  },
+  {
+    "id": "historical-kazimierz-dolny-extra",
+    "nameDe": "Kazimierz Dolny"
+  },
+  {
+    "id": "historical-majdanek-extra",
+    "nameDe": "KZ Majdanek"
+  },
+  {
+    "id": "castle-ogrodzieniec-extra",
+    "nameDe": "Burg Ogrodzieniec"
+  },
+  {
+    "id": "historical-guido-mine-extra",
+    "nameDe": "Schaubergwerk Guido"
+  },
+  {
+    "id": "historical-polin-museum-extra",
+    "nameDe": "POLIN Museum"
+  },
+  {
+    "id": "historical-wilanow-palace-extra",
+    "nameDe": "Schloss Wilanów"
+  },
+  {
+    "id": "historical-ksiaz-castle-extra",
+    "nameDe": "Schloss Fürstenstein"
+  },
+  {
+    "id": "historical-project-riese-extra",
+    "nameDe": "Projekt Riese"
+  },
+  {
+    "id": "castle-kornik-castle-extra",
+    "nameDe": "Schloss Kórnik"
+  },
+  {
+    "id": "historical-lednica-extra",
+    "nameDe": "Lednica"
+  },
+  {
+    "id": "historical-wooden-churches-southern-lesser-poland-extra",
+    "nameDe": "Holzkirchen im südlichen Kleinpolen"
+  },
+  {
+    "id": "nature-muskauer-park-extra",
+    "nameDe": "Muskauer Park"
+  },
+  {
+    "id": "lake-sniardwy-extra",
+    "nameDe": "Spirdingsee"
+  },
+  {
+    "id": "nature-bieszczady-mountains-extra",
+    "nameDe": "Bieszczady-Gebirge"
+  },
+  {
+    "id": "monastery-holy-cross-extra",
+    "nameDe": "Kloster Heiligkreuz"
+  },
+  {
+    "id": "kid-landmark-jurapark-baltow-extra",
+    "nameDe": "JuraPark Bałtów"
+  },
+  {
+    "id": "mountain-gora-swietej-anny-extra",
+    "nameDe": "St. Annaberg"
+  },
+  {
+    "id": "agriculture-ciechocinek-extra",
+    "nameDe": "Ciechocinek Gradierwerke"
+  },
+  {
+    "id": "river-biebrza-extra",
+    "nameDe": "Biebrza"
+  },
+  {
+    "id": "forest-knyszyn-forest-extra",
+    "nameDe": "Knyszyn-Urwald"
+  },
+  {
+    "id": "nature-wolin-national-park-extra",
+    "nameDe": "Nationalpark Wollin"
+  },
+  {
+    "id": "historical-crooked-forest-extra",
+    "nameDe": "Krummer Wald"
+  },
+  {
+    "id": "industry-pge-turow-extra",
+    "nameDe": "Kraftwerk Turów"
+  },
+  {
+    "id": "industry-kghm-copper-extra",
+    "nameDe": "KGHM Kupferbergbau"
+  },
+  {
+    "id": "agriculture-lower-silesian-forests-extra",
+    "nameDe": "Niederschlesische Heide"
+  },
+  {
+    "id": "industry-gdansk-shipyard-extra",
+    "nameDe": "Danziger Werft"
+  },
+  {
+    "id": "kid-landmark-sopot-pier-extra",
+    "nameDe": "Seebrücke von Sopot"
+  },
+  {
+    "id": "animal-habitat-hel-peninsula-extra",
+    "nameDe": "Halbinsel Hel"
+  },
+  {
+    "id": "animal-habitat-gdansk-zoo-extra",
+    "nameDe": "Zoo Danzig"
+  },
+  {
+    "id": "industry-pkn-orlen-plock-extra",
+    "nameDe": "PKN Orlen Raffinerie Płock"
+  },
+  {
+    "id": "kid-landmark-warsaw-zoo-extra",
+    "nameDe": "Warschauer Zoo"
+  },
+  {
+    "id": "forest-kampinos-national-park-extra",
+    "nameDe": "Nationalpark Kampinos"
+  },
+  {
+    "id": "industry-bełchatow-power-station-extra",
+    "nameDe": "Kraftwerk Bełchatów"
+  },
+  {
+    "id": "kid-landmark-manufaktura-lodz-extra",
+    "nameDe": "Manufaktura Łódź"
+  },
+  {
+    "id": "industry-zaklady-azotowe-pulawy-extra",
+    "nameDe": "Stickstoffwerke Puławy"
+  },
+  {
+    "id": "nature-roztocze-national-park-extra",
+    "nameDe": "Nationalpark Roztocze"
+  },
+  {
+    "id": "landmark-zamosc-old-town-extra",
+    "nameDe": "Altstadt von Zamość"
+  },
+  {
+    "id": "animal-habitat-polesie-national-park-extra",
+    "nameDe": "Nationalpark Polesie"
+  },
+  {
+    "id": "industry-silesian-voivodeship-industry-extra",
+    "nameDe": "Industrieregion Schlesien"
+  },
+  {
+    "id": "landmark-trail-of-eagles-nests-extra",
+    "nameDe": "Adlerhorst-Route"
+  },
+  {
+    "id": "animal-habitat-silesian-zoo-extra",
+    "nameDe": "Schlesischer Zoologischer Garten"
+  },
+  {
+    "id": "mountain-rysy-extra",
+    "nameDe": "Rysy"
+  },
+  {
+    "id": "lake-morskie-oko-extra",
+    "nameDe": "Meerauge"
+  },
+  {
+    "id": "landmark-kasprowy-wierch-cable-car-extra",
+    "nameDe": "Kasprowy-Wierch-Seilbahn"
+  },
+  {
+    "id": "river-dunajec-gorge-extra",
+    "nameDe": "Dunajec-Durchbruch"
+  },
+  {
+    "id": "landmark-palace-of-culture-and-science-extra",
+    "nameDe": "Kultur- und Wissenschaftspalast"
+  },
+  {
+    "id": "landmark-warsaw-uprising-museum-extra",
+    "nameDe": "Museum des Warschauer Aufstands"
+  },
+  {
+    "id": "kid-landmark-copernicus-science-centre-extra",
+    "nameDe": "Kopernikus-Wissenschaftszentrum"
+  },
+  {
+    "id": "nature-vistula-river-extra",
+    "nameDe": "Weichsel"
+  },
+  {
+    "id": "river-oder-river-extra",
+    "nameDe": "Oder"
+  },
+  {
+    "id": "forest-bialowieza-forest-extra",
+    "nameDe": "Białowieża-Urwald"
+  },
+  {
+    "id": "mountain-table-mountains-extra",
+    "nameDe": "Heuscheuergebirge"
+  },
+  {
+    "id": "kid-landmark-energylandia-extra",
+    "nameDe": "Energylandia"
+  },
+  {
+    "id": "animal-habitat-wroclaw-zoo-extra",
+    "nameDe": "Zoo Breslau"
+  },
+  {
+    "id": "landmark-hydropolis-wroclaw-extra",
+    "nameDe": "Hydropolis Breslau"
+  },
+  {
+    "id": "nature-karkonosze-national-park-extra",
+    "nameDe": "Nationalpark Riesengebirge"
+  },
+  {
+    "id": "landmark-church-of-peace-swidnica-extra",
+    "nameDe": "Friedenskirche Świdnica"
+  },
+  {
+    "id": "landmark-church-of-peace-jawor-extra",
+    "nameDe": "Friedenskirche Jawor"
+  },
+  {
+    "id": "industry-fiat-auto-poland-tychy-extra",
+    "nameDe": "Fiat Auto Poland Tychy"
+  },
+  {
+    "id": "agriculture-zywiec-brewery-extra",
+    "nameDe": "Brauerei Żywiec"
+  },
+  {
+    "id": "landmark-beskid-mountains-extra",
+    "nameDe": "Beskiden"
+  },
+  {
+    "id": "nature-wielkopolski-national-park-extra",
+    "nameDe": "Nationalpark Großpolen"
+  },
+  {
+    "id": "nature-ojcow-national-park-extra",
+    "nameDe": "Nationalpark Ojców"
+  },
+  {
+    "id": "kid-landmark-wieliczka-salt-mine-extra",
+    "nameDe": "Salzbergwerk Wieliczka"
+  },
+  {
+    "id": "kid-landmark-bochnia-salt-mine-extra",
+    "nameDe": "Salzbergwerk Bochnia"
+  },
+  {
+    "id": "agriculture-bieszczady-forested-area-extra",
+    "nameDe": "Forstwirtschaft Bieszczady"
+  },
+  {
+    "id": "agriculture-podlaskie-stork-villages-extra",
+    "nameDe": "Storchendörfer in Podlachien"
+  }
+]

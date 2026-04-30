@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "maya-mountains-relief-v2",
+    "type": "mountain",
+    "parent": "BZ-CY",
+    "coords": [
+      -88.6667,
+      16.6667
+    ],
+    "name": {
+      "de": "Maya-Gebirge",
+      "hu": "Maya-hegys\u00e9g",
+      "ro": "Mun\u021bii Maya",
+      "en": "Maya Mountains"
+    },
+    "description": {
+      "de": "Das Maya-Gebirge ist ein Bergzug im S\u00fcden von Belize und im Osten Guatemalas.",
+      "hu": "A Maya-hegys\u00e9g egy hegyl\u00e1nc Belize d\u00e9li \u00e9s Guatemala keleti r\u00e9sz\u00e9n.",
+      "ro": "Mun\u021bii Maya sunt un lan\u021b muntos \u00een sudul statului Belize \u0219i estul Guatemalei.",
+      "en": "The Maya Mountains are a mountain range in southern Belize and eastern Guatemala."
+    },
+    "facts": {
+      "de": [
+        "H\u00f6chste Erhebung ist Doyle's Delight",
+        "Besteht haupts\u00e4chlich aus Granit",
+        "Deckt weite Teile S\u00fcd-Belizes ab",
+        "Teilweise als Schutzgebiet ausgewiesen"
+      ],
+      "hu": [
+        "Legmagasabb pontja a Doyle's Delight",
+        "F\u0151leg gr\u00e1nitb\u00f3l \u00e9p\u00fcl fel",
+        "Belize d\u00e9li r\u00e9sz\u00e9nek nagy r\u00e9sz\u00e9t lefedi",
+        "R\u00e9szben v\u00e9dett ter\u00fclet"
+      ],
+      "ro": [
+        "Cea mai \u00eenalt\u0103 culme este Doyle's Delight",
+        "Este format\u0103 \u00een principal din granit",
+        "Acoper\u0103 mari por\u021biuni din sudul statului Belize",
+        "Este par\u021bial zon\u0103 protejat\u0103"
+      ],
+      "en": [
+        "Highest peak is Doyle's Delight",
+        "Composed mainly of granite",
+        "Covers large parts of southern Belize",
+        "Partially designated as a protected area"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Maya-Gebirge ist das geologische R\u00fcckgrat von Belize und erstreckt sich \u00fcber den s\u00fcdlichen und westlichen Teil des Landes bis nach Guatemala. Diese majest\u00e4tische Bergkette besteht \u00fcberwiegend aus altem Granit und Sedimentgestein und beherbergt einige der unber\u00fchrtesten Regenw\u00e4lder Mittelamerikas. Die Berge sind ein kritisches Einzugsgebiet f\u00fcr zahlreiche Fl\u00fcsse, die das Land mit lebensnotwendigem S\u00fc\u00dfwasser versorgen. Mit zerkl\u00fcfteten Gipfeln, tiefen Schluchten und spektakul\u00e4ren Wasserf\u00e4llen bietet das Maya-Gebirge einen unvergleichlichen Lebensraum f\u00fcr seltene Tierarten wie den Jaguar und den Harpyie-Adler. Historisch gesehen war die Region ein wichtiges Zentrum der Maya-Zivilisation, deren Spuren in Form von antiken St\u00e4dten und heiligen H\u00f6hlen noch heute tief im Dschungel zu finden sind. Das Gebirge ist nicht nur eine beeindruckende physische Barriere, sondern auch ein Symbol f\u00fcr die unbez\u00e4hmbare nat\u00fcrliche Sch\u00f6nheit Belizes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "H\u00f6chster Punkt ist Doyle's Delight mit 1.124 Metern.",
+        "Besteht aus einigen der \u00e4ltesten Gesteinsformationen Zentralamerikas.",
+        "Hauptquelle f\u00fcr fast alle gro\u00dfen Flusssysteme in Belize.",
+        "Umfasst zahlreiche Schutzgebiete wie den Chiquibul Nationalpark.",
+        "Wichtiges Refugium f\u00fcr bedrohte mittelamerikanische Wildtiere.",
+        "Beherbergt monumentale Maya-St\u00e4tten wie Caracol und Lubaantun.",
+        "Charakterisiert durch dichten, feuchten tropischen Prim\u00e4rregenwald.",
+        "Geologische Formation entstand vor \u00fcber 200 Millionen Jahren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cockscomb-range-relief-v2",
+    "type": "mountain",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.5833,
+      16.7833
+    ],
+    "name": {
+      "de": "Cockscomb-Gebirge",
+      "hu": "Cockscomb-hegys\u00e9g",
+      "ro": "Mun\u021bii Cockscomb",
+      "en": "Cockscomb Mountains"
+    },
+    "description": {
+      "de": "Eine Untereinheit des Maya-Gebirges in Belize.",
+      "hu": "A Maya-hegys\u00e9g egy alegys\u00e9ge Belize-ben.",
+      "ro": "O subdiviziune a Mun\u021bilor Maya din Belize.",
+      "en": "A sub-range of the Maya Mountains in Belize."
+    },
+    "facts": {
+      "de": [
+        "Bekannt f\u00fcr die Cockscomb Basin Wildlife Sanctuary",
+        "Hohe Artenvielfalt",
+        "Tropischer Regenwald",
+        "Schwer zug\u00e4ngliches Gel\u00e4nde"
+      ],
+      "hu": [
+        "Ismert a Cockscomb Basin Wildlife Sanctuary-r\u00f3l",
+        "Magas biol\u00f3giai sokf\u00e9les\u00e9g",
+        "Tr\u00f3pusi es\u0151erd\u0151",
+        "Nehezen megk\u00f6zel\u00edthet\u0151 terep"
+      ],
+      "ro": [
+        "Cunoscut\u0103 pentru Cockscomb Basin Wildlife Sanctuary",
+        "Diversitate biologic\u0103 ridicat\u0103",
+        "P\u0103dure tropical\u0103",
+        "Teren greu accesibil"
+      ],
+      "en": [
+        "Known for the Cockscomb Basin Wildlife Sanctuary",
+        "High biodiversity",
+        "Tropical rainforest",
+        "Difficult terrain"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Cockscomb Range ist ein markanter Gebirgszug innerhalb der Maya Mountains und weltber\u00fchmt f\u00fcr das Cockscomb Basin Wildlife Sanctuary \u2013 das erste Jaguar-Schutzgebiet der Welt. Die Berge verdanken ihren Namen ihrem gezackten Profil, das an den Kamm eines Hahns erinnert. Diese zerkl\u00fcftete Landschaft aus Granit und Schiefer ist von dichtem Dschungel bedeckt und erh\u00e4lt eine der h\u00f6chsten Niederschlagsraten des Landes, was zu einer \u00fcppigen Vegetation und zahlreichen kaskadierenden Wasserf\u00e4llen f\u00fchrt. Die Cockscomb Range bietet spektakul\u00e4re Aussichtspunkte wie den Victoria Peak, der f\u00fcr Bergsteiger eine der gr\u00f6\u00dften Herausforderungen in der Region darstellt. Als \u00f6kologisches Juwel sch\u00fctzt die Gebirgskette nicht nur die majest\u00e4tischen Gro\u00dfkatzen, sondern auch eine immense Vielfalt an V\u00f6geln, Orchideen und anderen tropischen Lebensformen. Es ist ein Ort der Wildnis, der die rohe Kraft der Natur Belizes verk\u00f6rpert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Beherbergt das weltweit erste dedizierte Jaguar-Schutzgebiet.",
+        "Victoria Peak ist der markanteste Gipfel der Kette.",
+        "Zentrum f\u00fcr den Schutz aller f\u00fcnf belizischen Raubkatzenarten.",
+        "Gepr\u00e4gt durch steile Granith\u00e4nge und tiefe Flusst\u00e4ler.",
+        "Erh\u00e4lt j\u00e4hrlich \u00fcber 3.000 Millimeter Niederschlag.",
+        "Wichtigstes Habitat f\u00fcr den bedrohten Mittelamerikanischen Tapir.",
+        "Bietet ein weitreichendes Netz an anspruchsvollen Wanderwegen.",
+        "Wichtige Wasserscheide f\u00fcr die Fl\u00fcsse des Stann Creek District."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bladen-branch-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -88.75,
+      16.45
+    ],
+    "name": {
+      "de": "Bladen Branch Tal",
+      "hu": "Bladen Branch-v\u00f6lgy",
+      "ro": "Valea Bladen Branch",
+      "en": "Bladen Branch Valley"
+    },
+    "description": {
+      "de": "Ein abgelegenes Tal im Bladen Nature Reserve.",
+      "hu": "Egy eldugott v\u00f6lgy a Bladen Nature Reserve-ben.",
+      "ro": "O vale izolat\u0103 \u00een rezerva\u021bia natural\u0103 Bladen.",
+      "en": "A remote valley in the Bladen Nature Reserve."
+    },
+    "facts": {
+      "de": [
+        "Teil des Maya-Gebirges",
+        "Sehr unber\u00fchrte Natur",
+        "Reich an Wildtieren",
+        "Schwieriges Gel\u00e4nde"
+      ],
+      "hu": [
+        "A Maya-hegys\u00e9g r\u00e9sze",
+        "Nagyon \u00e9rintetlen term\u00e9szet",
+        "Gazdag vadvil\u00e1g",
+        "Neh\u00e9z terep"
+      ],
+      "ro": [
+        "Parte a Mun\u021bilor Maya",
+        "Natur\u0103 foarte neatins\u0103",
+        "Bogat\u0103 \u00een faun\u0103",
+        "Teren dificil"
+      ],
+      "en": [
+        "Part of the Maya Mountains",
+        "Very pristine nature",
+        "Rich in wildlife",
+        "Difficult terrain"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Bladen Branch Tal ist eines der am besten geh\u00fcteten Naturgeheimnisse Belizes und liegt im Herzen des streng gesch\u00fctzten Bladen Nature Reserve. Dieses abgelegene Tal wird oft als das 'Kronjuwel' der belizischen Naturschutzgebiete bezeichnet, da es eine fast vollkommen unber\u00fchrte Wildnis repr\u00e4sentiert. Umgeben von steilen Kalksteinw\u00e4nden und den Granitausl\u00e4ufern der Maya Mountains, bietet das Tal einen Lebensraum f\u00fcr Arten, die anderswo l\u00e4ngst verdr\u00e4ngt wurden. Der Bladen Branch Fluss schl\u00e4ngelt sich durch das Tal und bildet kristallklare Pools und Stromschnellen, die von gigantischen Mahagonib\u00e4umen ges\u00e4umt sind. Aufgrund des eingeschr\u00e4nkten Zugangs bleibt das Tal ein wichtiges Refugium f\u00fcr die Forschung und den Erhalt der biologischen Vielfalt. Es ist ein Ort, an dem die Zeit stillzustehen scheint und die Natur in ihrer urspr\u00fcnglichen, unverf\u00e4lschten Pracht herrscht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Teil des am strengsten gesch\u00fctzten Naturreservats in Belize.",
+        "Nahezu unber\u00fchrter Prim\u00e4rregenwald ohne menschliche Siedlungen.",
+        "Kritisches Habitat f\u00fcr den seltenen Scharlachara.",
+        "Enth\u00e4lt spektakul\u00e4re geologische Karstformationen.",
+        "Einziger Ort in Belize mit einer derart hohen Dichte an Jaguaren.",
+        "Wichtiger Standort f\u00fcr botanische und zoologische Forschung.",
+        "Sch\u00fctzt die Oberl\u00e4ufe des Monkey River Systems.",
+        "Zugang ist nur f\u00fcr wissenschaftliche Zwecke und mit Sondergenehmigung m\u00f6glich."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "mountain-pine-ridge-highland-relief-v2",
+    "type": "relief",
+    "parent": "BZ-CY",
+    "coords": [
+      -88.85,
+      16.95
+    ],
+    "name": {
+      "de": "Mountain Pine Ridge Hochland",
+      "hu": "Mountain Pine Ridge-fenns\u00edk",
+      "ro": "Podi\u0219ul Mountain Pine Ridge",
+      "en": "Mountain Pine Ridge Highland"
+    },
+    "description": {
+      "de": "Ein Hochlandgebiet in Belize mit Kiefernw\u00e4ldern.",
+      "hu": "Egy feny\u0151erd\u0151s fenns\u00edk Belize-ben.",
+      "ro": "O regiune de podi\u0219 din Belize cu p\u0103duri de pini.",
+      "en": "A highland area in Belize with pine forests."
+    },
+    "facts": {
+      "de": [
+        "Bekanntes Erholungsgebiet",
+        "Kiefernwald auf Granituntergrund",
+        "Zahlreiche Wasserf\u00e4lle",
+        "Deutlich k\u00fchleres Klima"
+      ],
+      "hu": [
+        "Ismert \u00fcd\u00fcl\u0151ter\u00fclet",
+        "Feny\u0151erd\u0151 gr\u00e1nit alapk\u0151zeten",
+        "Sz\u00e1mos v\u00edzes\u00e9s",
+        "Jelent\u0151sen h\u0171v\u00f6sebb kl\u00edma"
+      ],
+      "ro": [
+        "Zon\u0103 de recreere cunoscut\u0103",
+        "P\u0103dure de pini pe sol granitic",
+        "Numeroase cascade",
+        "Clim\u0103 semnificativ mai r\u0103coroas\u0103"
+      ],
+      "en": [
+        "Well-known recreation area",
+        "Pine forest on granite bedrock",
+        "Numerous waterfalls",
+        "Significantly cooler climate"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Mountain Pine Ridge Hochland ist ein einzigartiges geologisches Ph\u00e4nomen in Belize und bildet einen starken Kontrast zum tropischen Regenwald des restlichen Landes. Auf einem uralten Granitplateau gelegen, ist diese Region von ausgedehnten Kiefernw\u00e4ldern (Pinus caribaea) gepr\u00e4gt, die eher an nordische Landschaften erinnern. Die k\u00fchleren Temperaturen und die klare, harzige Luft machen das Hochland zu einem beliebten R\u00fcckzugsort. Geologisch ist Mountain Pine Ridge eines der \u00e4ltesten Gebiete Mittelamerikas. Die Landschaft ist durchzogen von spektakul\u00e4ren Schluchten, tiefen H\u00f6hlen und einigen der h\u00f6chsten Wasserf\u00e4lle Mittelamerikas, wie den Thousand Foot Falls. Die sandigen B\u00f6den und die offene Vegetation bieten einen Lebensraum f\u00fcr spezialisierte Tierarten und seltene Orchideen. Es ist eine Region von rauer Sch\u00f6nheit, die Abenteurer mit ihren kristallklaren Fl\u00fcssen und dramatischen Aussichten anzieht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "\u00c4ltestes geologisches Gebiet in ganz Mittelamerika.",
+        "Einzigartige Kiefernwald-\u00d6kologie auf einem Granitsockel.",
+        "Beherbergt die Thousand Foot Falls, die h\u00f6chsten Wasserf\u00e4lle der Region.",
+        "Deutlich k\u00fchleres Mikroklima als im belizischen Tiefland.",
+        "Bekannt f\u00fcr spektakul\u00e4re Kalksteinh\u00f6hlen wie Rio Frio Cave.",
+        "Wichtiges Habitat f\u00fcr den seltenen Orangebrustfalken.",
+        "Beliebtes Ziel f\u00fcr Trekking, Mountainbiking und Naturbaden.",
+        "Boden besteht \u00fcberwiegend aus n\u00e4hrstoffarmem, sandigem Granitgrus."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "chiquibul-basin-relief-v2",
+    "type": "forest",
+    "parent": "BZ-CY",
+    "coords": [
+      -89.0,
+      16.7
+    ],
+    "name": {
+      "de": "Chiquibul-Becken",
+      "hu": "Chiquibul-medence",
+      "ro": "Bazinul Chiquibul",
+      "en": "Chiquibul Basin"
+    },
+    "description": {
+      "de": "Ein gro\u00dfes, bewaldetes Becken im S\u00fcdwesten von Belize.",
+      "hu": "Egy nagy, erd\u0151s medence Belize d\u00e9lnyugati r\u00e9sz\u00e9n.",
+      "ro": "Un bazin mare \u0219i \u00eemp\u0103durit \u00een sud-vestul statului Belize.",
+      "en": "A large, forested basin in southwestern Belize."
+    },
+    "facts": {
+      "de": [
+        "Umfasst den Chiquibul Nationalpark",
+        "Gr\u00f6\u00dftes Schutzgebiet in Belize",
+        "Karstlandschaft",
+        "Sehr d\u00fcnn besiedelt"
+      ],
+      "hu": [
+        "Mag\u00e1ban foglalja a Chiquibul Nemzeti Parkot",
+        "Belize legnagyobb v\u00e9dett ter\u00fclete",
+        "Karsztos t\u00e1j",
+        "Nagyon ritk\u00e1n lakott"
+      ],
+      "ro": [
+        "Include Parcul Na\u021bional Chiquibul",
+        "Cea mai mare zon\u0103 protejat\u0103 din Belize",
+        "Peisaj carstic",
+        "Foarte slab populat"
+      ],
+      "en": [
+        "Encompasses Chiquibul National Park",
+        "Largest protected area in Belize",
+        "Karst landscape",
+        "Very sparsely populated"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Chiquibul-Becken ist das gr\u00f6\u00dfte gesch\u00fctzte Waldgebiet Belizes und eine Region von mystischer Sch\u00f6nheit und enormer \u00f6kologischer Bedeutung. Im S\u00fcdwesten des Landes gelegen, umfasst es ein riesiges Karstplateau, das von unz\u00e4hligen H\u00f6hlen, Sinkl\u00f6chern und unterirdischen Fl\u00fcssen durchzogen ist. Unter dem dichten Bl\u00e4tterdach des Chiquibul-Waldes verbirgt sich das gr\u00f6\u00dfte H\u00f6hlensystem Mittelamerikas sowie die monumentale Maya-Stadt Caracol, die einst m\u00e4chtiger war als Tikal. Das Becken ist ein Refugium f\u00fcr die gr\u00f6\u00dften Raubtiere des Kontinents und dient als entscheidender Wasserspeicher f\u00fcr das gesamte Land. Aufgrund seiner Abgeschiedenheit an der Grenze zu Guatemala bleibt das Chiquibul-Becken eine wilde Grenze, die sowohl arch\u00e4ologische Sch\u00e4tze als auch eine un\u00fcbertroffene Artenvielfalt beherbergt. Es ist das gr\u00fcne Herz von Belize, ein Ort, an dem Natur und Geschichte untrennbar miteinander verwoben sind.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gr\u00f6\u00dftes zusammenh\u00e4ngendes Waldschutzgebiet in Belize.",
+        "Beherbergt das Chiquibul Cave System, das gr\u00f6\u00dfte in Mittelamerika.",
+        "Standort von Caracol, der historisch bedeutendsten Maya-Stadt Belizes.",
+        "Wichtigstes Brutgebiet f\u00fcr den gef\u00e4hrdeten Scharlachara.",
+        "Gepr\u00e4gt durch eine komplexe Karstlandschaft mit vielen Sinkl\u00f6chern.",
+        "Enth\u00e4lt Doyle's Delight, den h\u00f6chsten Punkt des Landes.",
+        "Kritische Wasserscheide f\u00fcr die Flusssysteme von Belize und Guatemala.",
+        "Teil des trinationalen Maya-Wald-Korridors."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "dolores-highlands-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -89.05,
+      16.35
+    ],
+    "name": {
+      "de": "Dolores-Hochland",
+      "hu": "Dolores-fenns\u00edk",
+      "ro": "Podi\u0219ul Dolores",
+      "en": "Dolores Highlands"
+    },
+    "description": {
+      "de": "Ein h\u00fcgeliges Gebiet im Toledo District.",
+      "hu": "Egy dombos ter\u00fclet Toledo k\u00f6rzet\u00e9ben.",
+      "ro": "O zon\u0103 deluroas\u0103 \u00een districtul Toledo.",
+      "en": "A hilly area in the Toledo District."
+    },
+    "facts": {
+      "de": [
+        "Teil der Vorgebirge des Maya-Gebirges",
+        "Tropischer Wald",
+        "Wenig besiedelt",
+        "Karstformationen"
+      ],
+      "hu": [
+        "A Maya-hegys\u00e9g el\u0151hegyeinek r\u00e9sze",
+        "Tr\u00f3pusi erd\u0151",
+        "Ritk\u00e1n lakott",
+        "Karsztk\u00e9pz\u0151dm\u00e9nyek"
+      ],
+      "ro": [
+        "Parte a poalelor Mun\u021bilor Maya",
+        "P\u0103dure tropical\u0103",
+        "Pu\u021bin populat\u0103",
+        "Forma\u021biuni carstice"
+      ],
+      "en": [
+        "Part of the foothills of the Maya Mountains",
+        "Tropical forest",
+        "Sparsely populated",
+        "Karst formations"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Dolores-Hochland ist eine abgelegene und h\u00fcgelige Region im \u00e4u\u00dfersten Westen des Toledo District, nahe der Grenze zu Guatemala. Diese Landschaft bildet den \u00dcbergang von den flacheren K\u00fcstenebenen des S\u00fcdens zu den zerkl\u00fcfteten Gipfeln der Maya Mountains. Das Hochland ist von dichtem, feuchtem Laubwald bedeckt und durchzogen von zahlreichen kleinen B\u00e4chen, die in den Rio Grande m\u00fcnden. Geologisch ist die Region durch Kalksteinformationen und Karstmerkmale gepr\u00e4gt, was zu einem reliefreichen Gel\u00e4nde mit vielen kleinen T\u00e4lern f\u00fchrt. Das Dolores-Hochland ist sehr d\u00fcnn besiedelt und dient als wichtiger biologischer Korridor f\u00fcr wandernde Tierarten zwischen den verschiedenen H\u00f6henlagen Belizes. F\u00fcr Besucher, die die Einsamkeit suchen, bietet die Region eine authentische Erfahrung der unber\u00fchrten Wildnis des S\u00fcdens, gepr\u00e4gt von einem feuchten, tropischen Klima und einer beeindruckenden Artenvielfalt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Abgelegene \u00dcbergangszone im Westen des Toledo District.",
+        "Gepr\u00e4gt durch h\u00fcgeliges Gel\u00e4nde und dichten tropischen Laubwald.",
+        "Wichtiger biologischer Korridor f\u00fcr Gro\u00dfkatzen und Tapire.",
+        "Kalksteinuntergrund mit typischen Karsterscheinungen.",
+        "Sehr geringe menschliche Siedlungsdichte.",
+        "Hohe Niederschlagsraten f\u00f6rdern eine \u00fcppige Vegetation.",
+        "Bietet Lebensraum f\u00fcr zahlreiche endemische Pflanzenarten.",
+        "Wichtige Pufferzone f\u00fcr die zentralen Schutzgebiete der Maya Mountains."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sierra-de-agua-relief-v2",
+    "type": "mountain",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.8,
+      17.7
+    ],
+    "name": {
+      "de": "Sierra de Agua",
+      "hu": "Sierra de Agua-hegys\u00e9g",
+      "ro": "Mun\u021bii Sierra de Agua",
+      "en": "Sierra de Agua"
+    },
+    "description": {
+      "de": "Eine h\u00fcgelige Formation im Norden von Belize.",
+      "hu": "Egy dombos k\u00e9pz\u0151dm\u00e9ny Belize \u00e9szaki r\u00e9sz\u00e9n.",
+      "ro": "O forma\u021biune deluroas\u0103 \u00een nordul statului Belize.",
+      "en": "A hilly formation in the north of Belize."
+    },
+    "facts": {
+      "de": [
+        "Kalksteinformationen",
+        "Tropische Vegetation",
+        "Niedriger als das Maya-Gebirge",
+        "Wichtiges Wassereinzugsgebiet"
+      ],
+      "hu": [
+        "M\u00e9szk\u0151k\u00e9pz\u0151dm\u00e9nyek",
+        "Tr\u00f3pusi n\u00f6v\u00e9nyzet",
+        "Alacsonyabb",
+        "mint a Maya-hegys\u00e9g",
+        "Fontos v\u00edzgy\u0171jt\u0151 ter\u00fclet"
+      ],
+      "ro": [
+        "Forma\u021biuni calcaroase",
+        "Vegeta\u021bie tropical\u0103",
+        "Mai scund\u0103 dec\u00e2t Mun\u021bii Maya",
+        "Zon\u0103 important\u0103 de captare a apei"
+      ],
+      "en": [
+        "Limestone formations",
+        "Tropical vegetation",
+        "Lower than the Maya Mountains",
+        "Important water catchment area"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Sierra de Agua ist ein markanter H\u00f6henzug im Norden von Belize, der sich deutlich von den umliegenden Tiefebenen des Orange Walk District abhebt. Obwohl die Gipfel nicht die H\u00f6hen des Maya-Gebirges erreichen, spielt dieser Gebirgszug eine entscheidende Rolle f\u00fcr das regionale \u00d6kosystem und den Wasserhaushalt. Die H\u00fcgel bestehen \u00fcberwiegend aus Kalkstein und sind von dichtem, halb-laubwerfendem Wald bedeckt, der eine Vielzahl von Wildtieren beherbergt, darunter Pumas und zahlreiche Greifv\u00f6gel. Die Sierra de Agua fungiert als wichtige Wasserscheide, die zahlreiche B\u00e4che speist, die schlie\u00dflich in den New River oder den Rio Bravo flie\u00dfen. Arch\u00e4ologisch ist die Region von gro\u00dfem Interesse, da sich in den Ausl\u00e4ufern viele kleinere, noch unerschlossene Maya-St\u00e4tten befinden. F\u00fcr die Region ist die Sierra de Agua ein Symbol f\u00fcr die nat\u00fcrliche Vielfalt des Nordens und ein unverzichtbarer Speicher f\u00fcr wertvolles S\u00fc\u00dfwasser.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtigster H\u00f6henzug im ansonsten flachen Norden Belizes.",
+        "Besteht prim\u00e4r aus terti\u00e4rem Kalkstein.",
+        "Fungiert als zentrale Wasserscheide f\u00fcr den Orange Walk District.",
+        "Beherbergt wichtige Habitate f\u00fcr Pumas und tropische V\u00f6gel.",
+        "Standort zahlreicher unentdeckter arch\u00e4ologischer Maya-Fundpl\u00e4tze.",
+        "Gepr\u00e4gt durch dichten, saisonal trockenen Tropenwald.",
+        "Wichtiger Korridor f\u00fcr den Wildtier-Austausch im Norden.",
+        "Bietet spektakul\u00e4re Aussichten \u00fcber die weiten Ebenen bis nach Mexiko."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "caracol-plateau-relief-v2",
+    "type": "relief",
+    "parent": "BZ-CY",
+    "coords": [
+      -88.98,
+      16.76
+    ],
+    "name": {
+      "de": "Caracol-Plateau",
+      "hu": "Caracol-fenns\u00edk",
+      "ro": "Podi\u0219ul Caracol",
+      "en": "Caracol Plateau"
+    },
+    "description": {
+      "de": "Ein Hochplateau in der N\u00e4he der antiken Maya-Stadt Caracol.",
+      "hu": "Egy fenns\u00edk Caracol \u0151si maja v\u00e1ros k\u00f6zel\u00e9ben.",
+      "ro": "Un podi\u0219 \u00een apropierea ora\u0219ului antic maia\u0219 Caracol.",
+      "en": "A high plateau near the ancient Maya city of Caracol."
+    },
+    "facts": {
+      "de": [
+        "Umgeben von dichtem Dschungel",
+        "Kalkstein-Untergrund",
+        "Historisch bedeutsam",
+        "Hohe Luftfeuchtigkeit"
+      ],
+      "hu": [
+        "S\u0171r\u0171 dzsungel veszi k\u00f6r\u00fcl",
+        "M\u00e9szk\u0151 alapk\u0151zet",
+        "T\u00f6rt\u00e9nelmileg jelent\u0151s",
+        "Magas p\u00e1ratartalom"
+      ],
+      "ro": [
+        "\u00cenconjurat de jungl\u0103 dens\u0103",
+        "Substrat de calcar",
+        "Semnifica\u021bie istoric\u0103",
+        "Umiditate ridicat\u0103"
+      ],
+      "en": [
+        "Surrounded by dense jungle",
+        "Limestone bedrock",
+        "Historically significant",
+        "High humidity"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Caracol-Plateau ist eine beeindruckende geologische Formation im Cayo District und dient als majest\u00e4tische B\u00fchne f\u00fcr die gr\u00f6\u00dfte Maya-Stadt Belizes. Dieses Kalksteinplateau liegt in den n\u00f6rdlichen Ausl\u00e4ufern der Maya Mountains und ist von einem Labyrinth aus T\u00e4lern, Sinkl\u00f6chern und H\u00f6hlen umgeben. Die Maya nutzten die nat\u00fcrliche Beschaffenheit des Plateaus meisterhaft aus, um eine Stadt von gigantischen Ausma\u00dfen zu errichten, wobei sie umfangreiche Terrassierungen f\u00fcr die Landwirtschaft anlegten, die noch heute sichtbar sind. Das Plateau ist von dichtem Prim\u00e4rregenwald bedeckt, der eine reiche Fauna beherbergt, darunter Br\u00fcllaffen und bunte Tukane. Die strategische H\u00f6he des Plateaus bot den antiken Bewohnern nicht nur Schutz, sondern auch eine beeindruckende Aussicht \u00fcber das Chiquibul-Becken. Heute ist das Caracol-Plateau ein Ort, an dem die monumentale Architektur der Vergangenheit und die unber\u00fchrte Natur Belizes eine faszinierende Einheit bilden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Standort der antiken Maya-Metropole Caracol.",
+        "Gelegen auf einem erh\u00f6hten Kalksteinplateau im Cayo District.",
+        "Bekannt f\u00fcr seine umfangreichen antiken landwirtschaftlichen Terrassen.",
+        "Gepr\u00e4gt durch eine wasserlose Oberfl\u00e4che mit tiefen unterirdischen Speichern.",
+        "Umgeben vom dichten Regenwald des Chiquibul Nationalparks.",
+        "Bietet strategische Panoramablicke \u00fcber das westliche Belize.",
+        "Wichtiger Standort f\u00fcr arch\u00e4ologische und \u00f6kologische Forschung.",
+        "Zentrum eines der gr\u00f6\u00dften zusammenh\u00e4ngenden Waldgebiete Belizes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "monkey-river-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.55,
+      16.55
+    ],
+    "name": {
+      "de": "Monkey River H\u00fcgel",
+      "hu": "Monkey River-dombs\u00e1g",
+      "ro": "Dealurile Monkey River",
+      "en": "Monkey River Hills"
+    },
+    "description": {
+      "de": "H\u00fcgeliges Gel\u00e4nde im Stann Creek District.",
+      "hu": "Dombos terep Stann Creek k\u00f6rzet\u00e9ben.",
+      "ro": "Teren deluros \u00een districtul Stann Creek.",
+      "en": "Hilly terrain in the Stann Creek District."
+    },
+    "facts": {
+      "de": [
+        "Geringe H\u00f6he",
+        "Tropischer Regenwald",
+        "Nahe der K\u00fcste",
+        "Viele Wasserl\u00e4ufe"
+      ],
+      "hu": [
+        "Alacsony magass\u00e1g",
+        "Tr\u00f3pusi es\u0151erd\u0151",
+        "K\u00f6zel a parthoz",
+        "Sok v\u00edzfoly\u00e1s"
+      ],
+      "ro": [
+        "Altitudine redus\u0103",
+        "P\u0103dure tropical\u0103",
+        "Aproape de coast\u0103",
+        "Multe cursuri de ap\u0103"
+      ],
+      "en": [
+        "Low elevation",
+        "Tropical rainforest",
+        "Near the coast",
+        "Many streams"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Monkey River H\u00fcgel sind eine sanfte, aber landschaftlich reizvolle Erhebung im Stann Creek District, unweit der K\u00fcste des Karibischen Meeres. Diese H\u00fcgelkette bildet einen sanften \u00dcbergang zwischen der K\u00fcstenebene und den steileren H\u00e4ngen der Maya Mountains im Hinterland. Von dichtem tropischem Regenwald und Sekund\u00e4rvegetation bedeckt, sind die H\u00fcgel ein Refugium f\u00fcr eine Vielzahl von Tieren, insbesondere f\u00fcr die namensgebenden Br\u00fcllaffen, deren Rufe in der gesamten Region zu h\u00f6ren sind. Zahlreiche B\u00e4che entspringen in diesen H\u00fcgeln und flie\u00dfen durch verwunschene T\u00e4ler zum Monkey River. Die Region ist bekannt f\u00fcr ihre fruchtbaren B\u00f6den und das feuchte Klima, das ein schnelles Pflanzenwachstum beg\u00fcnstigt. F\u00fcr Besucher bieten die Monkey River H\u00fcgel eine zug\u00e4ngliche Wildnis, in der man die Vielfalt der belizischen Flora und Fauna in einer sanft gewellten Landschaft erleben kann.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Sanfte H\u00fcgelformation im \u00dcbergang zur K\u00fcstenebene.",
+        "Wichtiges R\u00fcckzugsgebiet f\u00fcr gro\u00dfe Populationen von Br\u00fcllaffen.",
+        "Gepr\u00e4gt durch ein feuchtes Mikroklima und dichte Vegetation.",
+        "Zahlreiche kleine Flie\u00dfgew\u00e4sser speisen den Monkey River.",
+        "Beliebtes Ziel f\u00fcr Wanderungen und Naturbeobachtungen.",
+        "Fruchtbare B\u00f6den unterst\u00fctzen eine reiche Vielfalt an Tropenfr\u00fcchten.",
+        "Bietet Schutz vor K\u00fcstenerosion durch stabiles Wald\u00f6kosystem.",
+        "Strategisch g\u00fcnstig gelegen zwischen den Maya Mountains und der K\u00fcste."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "golden-stream-valley-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -88.78,
+      16.35
+    ],
+    "name": {
+      "de": "Golden Stream Tal",
+      "hu": "Golden Stream-v\u00f6lgy",
+      "ro": "Valea Golden Stream",
+      "en": "Golden Stream Valley"
+    },
+    "description": {
+      "de": "Ein Tal im Toledo District, bekannt f\u00fcr seine Artenvielfalt.",
+      "hu": "Egy v\u00f6lgy Toledo k\u00f6rzet\u00e9ben, ismert biol\u00f3giai sokf\u00e9les\u00e9g\u00e9r\u0151l.",
+      "ro": "O vale \u00een districtul Toledo, cunoscut\u0103 pentru biodiversitatea sa.",
+      "en": "A valley in the Toledo District known for its biodiversity."
+    },
+    "facts": {
+      "de": [
+        "Wichtiger Wildtierkorridor",
+        "Feuchtes Klima",
+        "Tropischer Wald",
+        "In der N\u00e4he der K\u00fcstenebene"
+      ],
+      "hu": [
+        "Fontos vadvil\u00e1g-folyos\u00f3",
+        "Nedves \u00e9ghajlat",
+        "Tr\u00f3pusi erd\u0151",
+        "K\u00f6zel a partmenti s\u00edks\u00e1ghoz"
+      ],
+      "ro": [
+        "Coridor important pentru animalele s\u0103lbatice",
+        "Clim\u0103 umed\u0103",
+        "P\u0103dure tropical\u0103",
+        "Aproape de c\u00e2mpia de coast\u0103"
+      ],
+      "en": [
+        "Important wildlife corridor",
+        "Humid climate",
+        "Tropical forest",
+        "Near the coastal plain"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Golden Stream Tal im Toledo District ist eine \u00f6kologische Lebensader, die die Berge mit dem Meer verbindet. Dieses weite Tal ist nach dem gleichnamigen Fluss benannt, der f\u00fcr sein klares, oft golden schimmerndes Wasser bekannt ist. Es bildet einen entscheidenden biologischen Korridor, der es Tieren wie Jaguaren und Tapiren erm\u00f6glicht, sicher zwischen den Maya Mountains und den K\u00fcstenmangroven zu wandern. Das Tal ist von einer beeindruckenden Vielfalt an Waldtypen bedeckt, von feuchten Regenw\u00e4ldern bis hin zu periodisch \u00fcberschwemmten Feuchtgebieten. Durch die Bem\u00fchungen lokaler Naturschutzorganisationen wurde das Goldene Stream Tal vor der Abholzung bewahrt und ist heute ein Vorzeigemodell f\u00fcr nachhaltigen Landmanagement. F\u00fcr Reisende bietet das Tal eine faszinierende Landschaft, in der man die Dynamik tropischer \u00d6kosysteme hautnah erleben kann, w\u00e4hrend man dem Lauf des Flusses durch das dichte Gr\u00fcn folgt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Einer der wichtigsten biologischen Korridore in ganz Belize.",
+        "Verbindet die Maya Mountains direkt mit der Port Honduras Marine Reserve.",
+        "Namensgebender Fluss ist ber\u00fchmt f\u00fcr seine hohe Wasserqualit\u00e4t.",
+        "Sch\u00fctzt weite Fl\u00e4chen von bedrohtem tropischem Tieflandregenwald.",
+        "Heimat von Jaguaren, Tapiren und \u00fcber 270 Vogelarten.",
+        "Fokus f\u00fcr innovative gemeinschaftsbasierte Naturschutzprojekte.",
+        "Umfasst vielf\u00e4ltige \u00d6kosysteme von Pinien-Savannen bis zu Sumpfw\u00e4ldern.",
+        "Strategisch wichtig f\u00fcr den Erhalt der genetischen Vielfalt im S\u00fcden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "rio-grande-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -88.85,
+      16.25
+    ],
+    "name": {
+      "de": "Rio Grande H\u00fcgel",
+      "hu": "Rio Grande-dombs\u00e1g",
+      "ro": "Dealurile Rio Grande",
+      "en": "Rio Grande Hills"
+    },
+    "description": {
+      "de": "Eine h\u00fcgelige Landschaft im S\u00fcden von Belize.",
+      "hu": "Dombos t\u00e1j Belize d\u00e9li r\u00e9sz\u00e9n.",
+      "ro": "Un peisaj deluros \u00een sudul statului Belize.",
+      "en": "A hilly landscape in southern Belize."
+    },
+    "facts": {
+      "de": [
+        "Nahe am Rio Grande Fluss",
+        "Dichte Vegetation",
+        "Tropisches Klima",
+        "Karstmerkmale"
+      ],
+      "hu": [
+        "K\u00f6zel a Rio Grande foly\u00f3hoz",
+        "S\u0171r\u0171 n\u00f6v\u00e9nyzet",
+        "Tr\u00f3pusi \u00e9ghajlat",
+        "Karsztos von\u00e1sok"
+      ],
+      "ro": [
+        "Aproape de r\u00e2ul Rio Grande",
+        "Vegeta\u021bie dens\u0103",
+        "Clim\u0103 tropical\u0103",
+        "Caracteristici carstice"
+      ],
+      "en": [
+        "Near Rio Grande river",
+        "Dense vegetation",
+        "Tropical climate",
+        "Karst features"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Rio Grande H\u00fcgel sind eine malerische Kette von Erhebungen im s\u00fcdlichen Belize, die das Einzugsgebiet des Rio Grande Flusses s\u00e4umen. Diese H\u00fcgel bestehen \u00fcberwiegend aus Kalkstein und sind gepr\u00e4gt durch ihre charakteristischen Kegelformen, die typisch f\u00fcr die Karstlandschaft des S\u00fcdens sind. Von dichtem Dschungel bewachsen, bilden sie einen schroffen Kontrast zu den flachen Schwemmebenen des Flusstals. In den H\u00fcgeln verbergen sich zahlreiche H\u00f6hlensysteme, die oft arch\u00e4ologische Artefakte der Maya enthalten, die diese Orte als heilige St\u00e4tten verehrten. Das Relief sorgt f\u00fcr eine dynamische Entw\u00e4sserung der Region, wobei viele kleine Wasserf\u00e4lle in der Regenzeit entstehen. Die Rio Grande H\u00fcgel bieten nicht nur einen atemberaubenden Anblick f\u00fcr Reisende auf dem Southern Highway, sondern sind auch ein essentielles Habitat f\u00fcr seltene V\u00f6gel und Raubkatzen, die die Abgeschiedenheit dieser unwegsamen H\u00f6hen sch\u00e4tzen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Markante Karst-H\u00fcgelformationen im Toledo District.",
+        "S\u00e4umen das fruchtbare Tal des Rio Grande Flusses.",
+        "Beherbergen zahlreiche unerschlossene Kalksteinh\u00f6hlen.",
+        "Wichtiges Refugium f\u00fcr den Jaguar und das Ozelot.",
+        "Gepr\u00e4gt durch steile H\u00e4nge und dichte, unber\u00fchrte Vegetation.",
+        "Erm\u00f6glichen spektakul\u00e4re Ausblicke \u00fcber den s\u00fcdlichen Regenwald.",
+        "Wichtiger Teil der Wasserscheide f\u00fcr die s\u00fcdliche Karibikk\u00fcste.",
+        "Standort vieler kleiner, historisch bedeutender Maya-Schreine."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "deep-river-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -88.65,
+      16.3
+    ],
+    "name": {
+      "de": "Deep River H\u00fcgel",
+      "hu": "Deep River-dombs\u00e1g",
+      "ro": "Dealurile Deep River",
+      "en": "Deep River Hills"
+    },
+    "description": {
+      "de": "H\u00fcgelige Formationen nahe der M\u00fcndung des Deep River.",
+      "hu": "Dombos k\u00e9pz\u0151dm\u00e9nyek a Deep River torkolat\u00e1nak k\u00f6zel\u00e9ben.",
+      "ro": "Forma\u021biuni deluroase \u00een apropierea gurii de v\u0103rsare a r\u00e2ului Deep River.",
+      "en": "Hilly formations near the mouth of the Deep River."
+    },
+    "facts": {
+      "de": [
+        "Niedrige Erhebungen",
+        "Mangroven nahe der K\u00fcste",
+        "Tropischer Wald im Inland",
+        "Flache H\u00e4nge"
+      ],
+      "hu": [
+        "Alacsony magaslatok",
+        "Mangrov\u00e9k a part k\u00f6zel\u00e9ben",
+        "Tr\u00f3pusi erd\u0151 beljebb",
+        "Lapos lejt\u0151k"
+      ],
+      "ro": [
+        "Altitudini sc\u0103zute",
+        "Mangrove \u00een apropierea coastei",
+        "P\u0103dure tropical\u0103 spre interior",
+        "Pante line"
+      ],
+      "en": [
+        "Low elevations",
+        "Mangroves near the coast",
+        "Tropical forest inland",
+        "Gentle slopes"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Deep River H\u00fcgel im Toledo District sind eine Serie von sanften Erhebungen, die das tief liegende Becken des Deep River \u00fcberragen. Diese H\u00fcgel sind geologisch interessant, da sie eine Mischung aus Kalkstein und sediment\u00e4ren Ablagerungen aufweisen. Die Vegetation wechselt hier oft dramatisch zwischen dichten Regenwaldinseln auf den H\u00fcgelkuppen und offenen Kiefernsavannen in den Senken. Diese Vielfalt an Relief und Bodenbeschaffenheit schafft ein einzigartiges Mosaik an Lebensr\u00e4umen, das besonders f\u00fcr V\u00f6gel und Reptilien attraktiv ist. Die Deep River H\u00fcgel bieten Schutz vor saisonalen \u00dcberschwemmungen und dienen vielen Tierarten als R\u00fcckzugsort w\u00e4hrend der Regenzeit. Trotz ihrer geringen absoluten H\u00f6he bieten sie Orientierungspunkte in der weiten, oft unwegsamen Landschaft des s\u00fcd\u00f6stlichen Belize. Die Region ist weitgehend unber\u00fchrt und bietet eine friedliche Stille, die nur durch das Rauschen des Windes in den B\u00e4umen unterbrochen wird.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Erhebungen im Einzugsgebiet des Deep River Forest Reserve.",
+        "Einzigartiges Mosaik aus Regenwald und Kiefernsavanne.",
+        "Wichtiger R\u00fcckzugsort f\u00fcr Wildtiere w\u00e4hrend der Regenzeit.",
+        "Geringe menschliche Einfl\u00fcsse garantieren hohe biologische Integrit\u00e4t.",
+        "Bieten wichtige Nistpl\u00e4tze f\u00fcr Greifv\u00f6gel.",
+        "Geologisch vielf\u00e4ltig durch Mischung von Kalkstein und Sedimenten.",
+        "Strategisch gelegen im biologischen Korridor des S\u00fcdens.",
+        "Bieten Orientierung in der flachen K\u00fcstenebene von Toledo."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sittee-river-foothills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.5,
+      16.8
+    ],
+    "name": {
+      "de": "Sittee River Vorgebirge",
+      "hu": "Sittee River-el\u0151hegyek",
+      "ro": "Poalele Mun\u021bilor Sittee River",
+      "en": "Sittee River Foothills"
+    },
+    "description": {
+      "de": "Das Vorgebirge \u00f6stlich der Cockscomb Range.",
+      "hu": "A Cockscomb-hegys\u00e9gt\u0151l keletre es\u0151 el\u0151hegyek.",
+      "ro": "Poalele muntoase la est de Mun\u021bii Cockscomb.",
+      "en": "The foothills east of the Cockscomb Range."
+    },
+    "facts": {
+      "de": [
+        "Beginn des Anstiegs zum Maya-Gebirge",
+        "Viele Wasserl\u00e4ufe",
+        "\u00dcppige Vegetation",
+        "Lehmige B\u00f6den"
+      ],
+      "hu": [
+        "A Maya-hegys\u00e9gre val\u00f3 emelked\u00e9s kezdete",
+        "Sok v\u00edzfoly\u00e1s",
+        "D\u00fas n\u00f6v\u00e9nyzet",
+        "Agyagos talaj"
+      ],
+      "ro": [
+        "\u00cenceputul urcu\u0219ului spre Mun\u021bii Maya",
+        "Multe cursuri de ap\u0103",
+        "Vegeta\u021bie luxuriant\u0103",
+        "Soluri argiloase"
+      ],
+      "en": [
+        "Beginning of the rise to the Maya Mountains",
+        "Many streams",
+        "Lush vegetation",
+        "Clayey soils"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Sittee River Vorgebirge markieren den dramatischen \u00dcbergang von den flachen K\u00fcstenebenen des Stann Creek District zu den imposanten Maya Mountains. Diese H\u00fcgelkette ist durch tief eingeschnittene T\u00e4ler und steile H\u00e4nge gepr\u00e4gt, durch die der Sittee River mit gro\u00dfer Kraft zum Meer flie\u00dft. Die Region ist bekannt f\u00fcr ihre \u00fcppige Vegetation, die durch die hohen Niederschl\u00e4ge der nahen Berge beg\u00fcnstigt wird. Riesige Farne, Orchideen und gewaltige Mahagonib\u00e4ume dominieren das Landschaftsbild. Das Relief der Vorgebirge sorgt f\u00fcr zahlreiche Stromschnellen und kleine Wasserf\u00e4lle entlang des Flusslaufs, was die Gegend zu einem Paradies f\u00fcr Kajakfahrer und Naturliebhaber macht. Die Sittee River Vorgebirge sind zudem ein wichtiger Standort f\u00fcr den Anbau von Zitrusfr\u00fcchten und Kakao in den fruchtbaren Talsohlen. Hier erlebt man die kraftvolle Dynamik der belizischen Geografie, wo Berge und Fl\u00fcsse aufeinandertreffen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Dramatische \u00dcbergangszone am \u00f6stlichen Rand der Maya Mountains.",
+        "Gepr\u00e4gt durch tief eingeschnittene Flusst\u00e4ler und steile H\u00e4nge.",
+        "Wichtiger Standort f\u00fcr die Landwirtschaft in fruchtbaren Schwemmb\u00f6den.",
+        "Hohe Artenvielfalt durch das Zusammentreffen verschiedener H\u00f6henzonen.",
+        "Beliebtes Ziel f\u00fcr Fluss-Abenteuer und Dschungel-Trekking.",
+        "Beherbergt einige der \u00e4ltesten Regenwaldgebiete des Landes.",
+        "Zentral f\u00fcr die Entw\u00e4sserung des Cockscomb Basin.",
+        "Bietet ideale Bedingungen f\u00fcr das Wachstum exotischer Epiphyten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "stann-creek-valley-relief-v2",
+    "type": "relief",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.45,
+      16.85
+    ],
+    "name": {
+      "de": "Stann Creek Tal",
+      "hu": "Stann Creek-v\u00f6lgy",
+      "ro": "Valea Stann Creek",
+      "en": "Stann Creek Valley"
+    },
+    "description": {
+      "de": "Ein bedeutendes Tal im Stann Creek District.",
+      "hu": "Jelent\u0151s v\u00f6lgy a Stann Creek k\u00f6rzet\u00e9ben.",
+      "ro": "O vale semnificativ\u0103 \u00een districtul Stann Creek.",
+      "en": "A significant valley in the Stann Creek District."
+    },
+    "facts": {
+      "de": [
+        "Landwirtschaftlich genutzt",
+        "Zwischen den Maya Mountains und dem Meer",
+        "Tropisches Klima",
+        "Fruchtbare B\u00f6den"
+      ],
+      "hu": [
+        "Mez\u0151gazdas\u00e1gi m\u0171vel\u00e9s alatt",
+        "A Maya-hegys\u00e9g \u00e9s a tenger k\u00f6z\u00f6tt",
+        "Tr\u00f3pusi \u00e9ghajlat",
+        "Term\u00e9keny talaj"
+      ],
+      "ro": [
+        "Utilizat\u0103 \u00een agricultur\u0103",
+        "\u00centre Mun\u021bii Maya \u0219i mare",
+        "Clim\u0103 tropical\u0103",
+        "Soluri fertile"
+      ],
+      "en": [
+        "Used for agriculture",
+        "Between the Maya Mountains and the sea",
+        "Tropical climate",
+        "Fertile soils"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Stann Creek Tal ist eine der fruchtbarsten und wirtschaftlich wichtigsten Landschaften in Belize. Eingebettet zwischen den sch\u00fctzenden H\u00e4ngen der Maya Mountains und der Karibikk\u00fcste, bietet dieses weite Tal ideale Bedingungen f\u00fcr die Landwirtschaft. Es ist das Zentrum der belizischen Zitrusindustrie, wobei endlose Orangen- und Grapefruitplantagen das Bild bestimmen. Der North Stann Creek River schl\u00e4ngelt sich durch das Tal und sorgt f\u00fcr eine konstante Bew\u00e4sserung der n\u00e4hrstoffreichen B\u00f6den. Geografisch fungiert das Tal als nat\u00fcrlicher Korridor, durch den der Hummingbird Highway f\u00fchrt, eine der malerischsten Stra\u00dfen Zentralamerikas. Das Relief ist gepr\u00e4gt von einer sanften Wellenbewegung mit gelegentlichen H\u00fcgeln, die spektakul\u00e4re Ausblicke auf die umliegende Bergwelt bieten. Das Stann Creek Tal ist ein Paradebeispiel f\u00fcr die gelungene Symbiose aus produktiver Nutzung und nat\u00fcrlicher Pracht in Belize.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentrum der nationalen Zitrusproduktion Belizes.",
+        "Weites, fruchtbares Tal zwischen Gebirge und Meer.",
+        "Durchquert vom landschaftlich reizvollen Hummingbird Highway.",
+        "Wichtigster Wirtschaftsmotor des Stann Creek District.",
+        "Gepr\u00e4gt durch reiche Schwemmb\u00f6den und konstante Wasserf\u00fchrung.",
+        "Bietet Panoramablicke auf die Cockscomb Range.",
+        "Historisch bedeutende Region f\u00fcr die Entwicklung der Eisenbahn in Belize.",
+        "Zentraler Siedlungsraum f\u00fcr die Garifuna und Mestizo Gemeinschaften."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "northern-lowlands-relief-v2",
+    "type": "relief",
+    "parent": "BZ-CZ",
+    "coords": [
+      -88.4,
+      18.2
+    ],
+    "name": {
+      "de": "N\u00f6rdliche Tiefebene",
+      "hu": "\u00c9szaki alf\u00f6ld",
+      "ro": "C\u00e2mpia de Nord",
+      "en": "Northern Lowlands"
+    },
+    "description": {
+      "de": "Die weite Tiefebene im Norden von Belize.",
+      "hu": "A t\u00e1gas alf\u00f6ld Belize \u00e9szaki r\u00e9sz\u00e9n.",
+      "ro": "C\u00e2mpia \u00eentins\u0103 din nordul statului Belize.",
+      "en": "The vast lowlands in the north of Belize."
+    },
+    "facts": {
+      "de": [
+        "Flaches Gel\u00e4nde",
+        "Viele Lagunen",
+        "Kalkstein-Untergrund",
+        "\u00dcberwiegend Landwirtschaft"
+      ],
+      "hu": [
+        "Lapos terep",
+        "Sok lag\u00fana",
+        "M\u00e9szk\u0151 alapk\u0151zet",
+        "T\u00falnyom\u00f3r\u00e9szt mez\u0151gazdas\u00e1g"
+      ],
+      "ro": [
+        "Teren plat",
+        "Multe lagune",
+        "Substrat de calcar",
+        "Predominant agricultur\u0103"
+      ],
+      "en": [
+        "Flat terrain",
+        "Many lagoons",
+        "Limestone bedrock",
+        "Predominantly agriculture"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die N\u00f6rdliche Tiefebene ist eine weite, flache Landschaft, die den Gro\u00dfteil der Distrikte Corozal und Orange Walk einnimmt. Im Gegensatz zum bergigen S\u00fcden ist dieses Relief durch sanfte Wellen und ausgedehnte Ebenen gepr\u00e4gt, die auf einem m\u00e4chtigen Kalksteinfundament ruhen. Diese Region ist das Zentrum des Zuckerrohranbaus in Belize, wobei die offenen Fl\u00e4chen eine effiziente gro\u00dffl\u00e4chige Bewirtschaftung erm\u00f6glichen. Die Tiefebene ist durchsetzt mit zahlreichen S\u00fc\u00dfwasserlagunen und langsam flie\u00dfenden Fl\u00fcssen wie dem New River und dem Rio Hondo. Diese Wasserwege waren \u00fcber Jahrhunderte die Hauptadern f\u00fcr den Handel und den Transport von Mahagoni. Das trockene Klima im Vergleich zum S\u00fcden f\u00f6rdert einen speziellen Typ von saisonalem Tropenwald. Die N\u00f6rdliche Tiefebene ist eine kulturell vielf\u00e4ltige und wirtschaftlich vitale Region, die durch ihre weiten Horizonte und ihre landwirtschaftliche Produktivit\u00e4t besticht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gr\u00f6\u00dfte Flachlandregion Belizes, gepr\u00e4gt durch Kalkstein-Untergrund.",
+        "Hauptanbaugebiet f\u00fcr Zuckerrohr und landwirtschaftliche Exportg\u00fcter.",
+        "Beherbergt gro\u00dfe Lagunensysteme wie die New River Lagoon.",
+        "Geringste Niederschlagsraten des gesamten Landes.",
+        "Wichtiger Transitraum f\u00fcr den Handel mit Mexiko.",
+        "Gepr\u00e4gt durch fruchtbare, aber flachgr\u00fcndige Kalksteinb\u00f6den.",
+        "Historisches Zentrum der Holzgewinnung und des Chicle-Abbaus.",
+        "Bietet weite offene Landschaften und savannenartige Abschnitte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "belize-river-valley-relief-v2",
+    "type": "relief",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.5,
+      17.5
+    ],
+    "name": {
+      "de": "Belize River Tal",
+      "hu": "Belize-foly\u00f3 v\u00f6lgye",
+      "ro": "Valea r\u00e2ului Belize",
+      "en": "Belize River Valley"
+    },
+    "description": {
+      "de": "Das Flusstal des Belize River.",
+      "hu": "A Belize-foly\u00f3 v\u00f6lgye.",
+      "ro": "Valea r\u00e2ului Belize.",
+      "en": "The river valley of the Belize River."
+    },
+    "facts": {
+      "de": [
+        "Wichtige historische Handelsroute",
+        "Fruchtbares Ackerland",
+        "W\u00e4lder entlang der Ufer",
+        "Saisonale \u00dcberschwemmungen"
+      ],
+      "hu": [
+        "Fontos t\u00f6rt\u00e9nelmi kereskedelmi \u00fatvonal",
+        "Term\u00e9keny sz\u00e1nt\u00f3f\u00f6ldek",
+        "Erd\u0151k a part ment\u00e9n",
+        "Szezon\u00e1lis \u00e1rad\u00e1sok"
+      ],
+      "ro": [
+        "Important\u0103 rut\u0103 comercial\u0103 istoric\u0103",
+        "P\u0103m\u00e2nt arabil fertil",
+        "P\u0103duri de-a lungul malurilor",
+        "Inunda\u021bii sezoniere"
+      ],
+      "en": [
+        "Important historical trade route",
+        "Fertile farmland",
+        "Forests along the banks",
+        "Seasonal flooding"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Belize River Tal ist das historische und geografische Herzst\u00fcck des Landes und erstreckt sich von der Grenze zu Guatemala bis zur Karibikk\u00fcste. Dieses weite Flusstal wurde \u00fcber Jahrtausende durch die Sedimentablagerungen des Belize River geformt, was zu einer der fruchtbarsten Regionen des Landes f\u00fchrte. Das Relief ist \u00fcberwiegend flach bis sanft gewellt, mit Galeriew\u00e4ldern entlang der Ufer und weiten Savannen in den angrenzenden Gebieten. Das Tal war die Wiege der modernen Besiedlung Belizes, da der Fluss lange Zeit der einzige Transportweg ins Landesinnere war. Zahlreiche historische D\u00f6rfer und bedeutende Maya-St\u00e4tten s\u00e4umen den Flusslauf. Heute ist das Belize River Tal ein wichtiges Gebiet f\u00fcr Viehzucht und Landwirtschaft und bildet den zentralen Korridor, der die gr\u00f6\u00dften Bev\u00f6lkerungszentren des Landes miteinander verbindet. Es ist eine Landschaft, die tief mit der Identit\u00e4t und Geschichte Belizes verwurzelt ist.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "L\u00e4ngstes und historisch bedeutendstes Flusstal Belizes.",
+        "Fruchtbarer Korridor f\u00fcr Landwirtschaft und Viehzucht.",
+        "Einstige 'Autobahn' f\u00fcr den Mahagoni-Transport im 18. und 19. Jahrhundert.",
+        "Beherbergt eine Vielzahl von Maya-Ruinen und historischen Siedlungen.",
+        "Gepr\u00e4gt durch reiche Schwemmlandb\u00f6den und saisonale \u00dcberflutungen.",
+        "Zentrales Habitat f\u00fcr die gef\u00e4hrdete Mittelamerikanische Flussschildkr\u00f6te.",
+        "Verbindet die Distrikte Cayo und Belize auf einer L\u00e4nge von \u00fcber 200 km.",
+        "Wichtiger Korridor f\u00fcr den nationalen Reise- und Warenverkehr."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "mullins-river-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.35,
+      17.15
+    ],
+    "name": {
+      "de": "Mullins River H\u00fcgel",
+      "hu": "Mullins River-dombs\u00e1g",
+      "ro": "Dealurile Mullins River",
+      "en": "Mullins River Hills"
+    },
+    "description": {
+      "de": "H\u00fcgeliges Gel\u00e4nde nahe der M\u00fcndung des Mullins River.",
+      "hu": "Dombos terep a Mullins River torkolat\u00e1nak k\u00f6zel\u00e9ben.",
+      "ro": "Teren deluros \u00een apropierea gurii de v\u0103rsare a r\u00e2ului Mullins River.",
+      "en": "Hilly terrain near the mouth of the Mullins River."
+    },
+    "facts": {
+      "de": [
+        "Sanfte H\u00fcgel",
+        "Tropische Vegetation",
+        "Nahe der K\u00fcste",
+        "Feuchtes Klima"
+      ],
+      "hu": [
+        "Lank\u00e1s dombok",
+        "Tr\u00f3pusi n\u00f6v\u00e9nyzet",
+        "K\u00f6zel a parthoz",
+        "Nedves \u00e9ghajlat"
+      ],
+      "ro": [
+        "Dealuri line",
+        "Vegeta\u021bie tropical\u0103",
+        "Aproape de coast\u0103",
+        "Clim\u0103 umed\u0103"
+      ],
+      "en": [
+        "Gentle hills",
+        "Tropical vegetation",
+        "Near the coast",
+        "Humid climate"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Mullins River H\u00fcgel sind eine charmante Gruppe von Erhebungen an der K\u00fcste des Belize District, n\u00f6rdlich von Dangriga. Diese H\u00fcgel sind geologisch interessant, da sie fast bis an das Meer heranreichen und somit eine markante Abwechslung zur sonst flachen K\u00fcstenlinie bieten. Von dichtem Laubwald und Palmen bewachsen, bieten sie einen nat\u00fcrlichen Schutzwall gegen die salzhaltigen Winde der Karibik. Das Relief sorgt f\u00fcr ein dynamisches Entw\u00e4sserungssystem, wobei der Mullins River sich durch die H\u00fcgel schneidet und malerische Ausblicke bietet. Historisch war die Region ein Zentrum f\u00fcr den Anbau von Kakao und Bananen in den kleinen, gesch\u00fctzten T\u00e4lern zwischen den H\u00fcgeln. Heute sind die Mullins River H\u00fcgel ein ruhiger R\u00fcckzugsort, der f\u00fcr seine reiche Vogelwelt und seine unber\u00fchrte Natur bekannt ist. Sie repr\u00e4sentieren den wilden Charme der belizischen Zentralk\u00fcste, wo das Gr\u00fcn der H\u00fcgel direkt auf das Blau des Meeres trifft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Seltene K\u00fcstenh\u00fcgel-Formation im zentralen Belize.",
+        "Bieten nat\u00fcrlichen Schutz vor atlantischen St\u00fcrmen.",
+        "Historisch bedeutend f\u00fcr den fr\u00fchen Bananenanbau der Kolonialzeit.",
+        "Gepr\u00e4gt durch eine Mischung aus Regenwald und k\u00fcstennaher Flora.",
+        "Wichtiges Habitat f\u00fcr Tukane und Papageien.",
+        "Erm\u00f6glichen Panoramablicke \u00fcber das Belize Barrier Reef.",
+        "Zahlreiche kleine Flie\u00dfgew\u00e4sser mit hoher Wasserqualit\u00e4t.",
+        "Relativ d\u00fcnn besiedeltes Gebiet mit hohem Erholungswert."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sibun-river-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.4,
+      17.3
+    ],
+    "name": {
+      "de": "Sibun River H\u00fcgel",
+      "hu": "Sibun River-dombs\u00e1g",
+      "ro": "Dealurile Sibun River",
+      "en": "Sibun River Hills"
+    },
+    "description": {
+      "de": "Das h\u00fcgelige Vorgebirge im Tal des Sibun River.",
+      "hu": "A Sibun River v\u00f6lgy\u00e9nek dombos el\u0151hegyei.",
+      "ro": "Poalele deluroase \u00een valea r\u00e2ului Sibun.",
+      "en": "The hilly foothills in the Sibun River valley."
+    },
+    "facts": {
+      "de": [
+        "Kalksteinh\u00fcgel",
+        "Karstformationen",
+        "Dichter Wald",
+        "Zahlreiche H\u00f6hlen"
+      ],
+      "hu": [
+        "M\u00e9szk\u0151dombok",
+        "Karsztk\u00e9pz\u0151dm\u00e9nyek",
+        "S\u0171r\u0171 erd\u0151",
+        "Sz\u00e1mos barlang"
+      ],
+      "ro": [
+        "Dealuri calcaroase",
+        "Forma\u021biuni carstice",
+        "P\u0103dure dens\u0103",
+        "Numeroase pe\u0219teri"
+      ],
+      "en": [
+        "Limestone hills",
+        "Karst formations",
+        "Dense forest",
+        "Numerous caves"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Sibun River H\u00fcgel im Cayo District sind ein spektakul\u00e4res Beispiel f\u00fcr die Karstgeografie Belizes. Diese H\u00fcgelkette ist bekannt f\u00fcr ihre markanten Kalksteinformationen, die steil aus dem Flusstal emporragen. Unter der Oberfl\u00e4che sind die H\u00fcgel von einem der komplexesten H\u00f6hlensysteme des Landes durchzogen, darunter die ber\u00fchmten 'Caves Branch'-H\u00f6hlen. Das Relief ist extrem zerkl\u00fcftet und von dichtem Dschungel bedeckt, was es zu einem Paradies f\u00fcr Abenteurer und Arch\u00e4ologen macht. Die Maya nutzten diese H\u00fcgel und ihre H\u00f6hlen \u00fcber Jahrhunderte f\u00fcr heilige Rituale. Entlang der H\u00e4nge gedeihen seltene Farne und Moose, die in der feuchten, schattigen Umgebung ideale Bedingungen finden. Die Sibun River H\u00fcgel bieten nicht nur eine dramatische Kulisse f\u00fcr Kanutouren auf dem Fluss, sondern sind auch ein wichtiges \u00f6kologisches Refugium, das die Geheimnisse der Erdgeschichte und der antiken Kultur bewahrt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Weltbekannt f\u00fcr ihre umfangreichen Kalkstein-H\u00f6hlensysteme.",
+        "Gepr\u00e4gt durch steile, dschungelbedeckte Karstkegel.",
+        "Zentrum f\u00fcr 'Cave Tubing' und arch\u00e4ologische H\u00f6hlenforschung.",
+        "Beherbergt heilige rituelle St\u00e4tten der antiken Maya.",
+        "Wichtige \u00dcbergangszone zwischen Maya Mountains und Tiefland.",
+        "Hohe Biodiversit\u00e4t durch spezialisierte Karst-\u00d6kosysteme.",
+        "Sch\u00fctzt das Einzugsgebiet des \u00f6kologisch wertvollen Sibun River.",
+        "Dramatische Landschaftsform entlang des Hummingbird Highway."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "gallon-jug-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.95,
+      17.65
+    ],
+    "name": {
+      "de": "Gallon Jug H\u00fcgel",
+      "hu": "Gallon Jug-dombs\u00e1g",
+      "ro": "Dealurile Gallon Jug",
+      "en": "Gallon Jug Hills"
+    },
+    "description": {
+      "de": "H\u00fcgeliges Gel\u00e4nde im Orange Walk District.",
+      "hu": "Dombos ter\u00fclet Orange Walk k\u00f6rzet\u00e9ben.",
+      "ro": "Teren deluros \u00een districtul Orange Walk.",
+      "en": "Hilly terrain in the Orange Walk District."
+    },
+    "facts": {
+      "de": [
+        "Gelegen in einer gro\u00dfen Ranch",
+        "Tropischer Wald",
+        "Wenig besiedelt",
+        "Karstlandschaft"
+      ],
+      "hu": [
+        "Egy nagy farmon bel\u00fcl",
+        "Tr\u00f3pusi erd\u0151",
+        "Ritk\u00e1n lakott",
+        "Karsztos t\u00e1j"
+      ],
+      "ro": [
+        "Situat \u00eentr-o ferm\u0103 mare",
+        "P\u0103dure tropical\u0103",
+        "Pu\u021bin populat",
+        "Peisaj carstic"
+      ],
+      "en": [
+        "Located within a large ranch",
+        "Tropical forest",
+        "Sparsely populated",
+        "Karst landscape"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Gallon Jug H\u00fcgel liegen in einem riesigen privaten Naturschutzgebiet im Nordwesten Belizes und bilden ein reliefreiches Refugium inmitten ausgedehnter Waldfl\u00e4chen. Diese sanften H\u00fcgelketten sind geologisch Teil des Maya-Mountain-Vorlandes und bestehen \u00fcberwiegend aus altem Kalkstein. Sie sind von einem der am besten erhaltenen tropischen Laubw\u00e4lder Mittelamerikas bedeckt, der eine unglaubliche Dichte an Wildtieren beherbergt. Gallon Jug ist ber\u00fchmt f\u00fcr seine stabilen Populationen von Jaguaren, Tapiren und dem seltenen Ozelot. Das Relief der H\u00fcgel sorgt f\u00fcr eine abwechslungsreiche Landschaft mit versteckten T\u00e4lern und kleinen Wasserl\u00e4ufen, die in der Trockenzeit als lebenswichtige Wasserstellen dienen. Die Region wird nachhaltig bewirtschaftet, wobei Naturschutz und verantwortungsvolle Landwirtschaft Hand in Hand gehen. Die Gallon Jug H\u00fcgel sind ein Symbol f\u00fcr erfolgreichen privaten Naturschutz und bieten eine Stille und Wildnis, die in der heutigen Welt selten geworden ist.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Gelegen im Herzen eines 130.000 Hektar gro\u00dfen privaten Reservats.",
+        "Eines der besten Gebiete in Belize f\u00fcr die Beobachtung von Jaguaren.",
+        "Gepr\u00e4gt durch sanfte Kalksteinh\u00fcgel und Prim\u00e4rregenwald.",
+        "Wichtiger Standort f\u00fcr nachhaltige Forstwirtschaft und Kaffeeanbau.",
+        "Beherbergt eine enorme Vielfalt an tropischen Singv\u00f6geln.",
+        "Modellregion f\u00fcr den Schutz des mittelamerikanischen Maya-Waldes.",
+        "Relief beg\u00fcnstigt ein reiches Mikroklima f\u00fcr seltene Orchideen.",
+        "Zentrum f\u00fcr \u00f6kologische Forschung und High-End \u00d6kotourismus."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "blue-creek-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -89.0,
+      16.2
+    ],
+    "name": {
+      "de": "Blue Creek H\u00fcgel",
+      "hu": "Blue Creek-dombs\u00e1g",
+      "ro": "Dealurile Blue Creek",
+      "en": "Blue Creek Hills"
+    },
+    "description": {
+      "de": "H\u00fcgelige Formationen nahe der Grenze zu Guatemala.",
+      "hu": "Dombos k\u00e9pz\u0151dm\u00e9nyek a guatemalai hat\u00e1r k\u00f6zel\u00e9ben.",
+      "ro": "Forma\u021biuni deluroase \u00een apropierea grani\u021bei cu Guatemala.",
+      "en": "Hilly formations near the border with Guatemala."
+    },
+    "facts": {
+      "de": [
+        "Kalksteinh\u00fcgel",
+        "Tropische Vegetation",
+        "Wichtig f\u00fcr Wasserkreislauf",
+        "Karsth\u00f6hlen"
+      ],
+      "hu": [
+        "M\u00e9szk\u0151dombok",
+        "Tr\u00f3pusi n\u00f6v\u00e9nyzet",
+        "Fontos a v\u00edzk\u00f6rforg\u00e1s szempontj\u00e1b\u00f3l",
+        "Karsztbarlangok"
+      ],
+      "ro": [
+        "Dealuri calcaroase",
+        "Vegeta\u021bie tropical\u0103",
+        "Important pentru ciclul apei",
+        "Pe\u0219teri carstice"
+      ],
+      "en": [
+        "Limestone hills",
+        "Tropical vegetation",
+        "Important for water cycle",
+        "Karst caves"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Blue Creek H\u00fcgel im \u00e4u\u00dfersten S\u00fcden des Toledo District sind eine geologisch faszinierende Region, in der der gleichnamige Fluss aus einem riesigen unterirdischen H\u00f6hlensystem an die Oberfl\u00e4che tritt. Diese H\u00fcgel bestehen aus schroffen Kalksteinfelsen und sind von einem besonders feuchten und artenreichen Regenwald bedeckt. Das Relief ist gepr\u00e4gt durch steile Schluchten und tiefe Sinkl\u00f6cher, die typisch f\u00fcr den 'Cockpit-Karst' der Region sind. Blue Creek ist bekannt f\u00fcr seine atemberaubende Sch\u00f6nheit, wobei das kristallblaue Wasser des Flusses einen starken Kontrast zum satten Gr\u00fcn des Dschungels bildet. F\u00fcr die lokale Maya-Bev\u00f6lkerung sind diese H\u00fcgel und die darin verborgenen H\u00f6hlen spirituelle Orte von gro\u00dfer Bedeutung. Wanderer und Abenteurer sch\u00e4tzen die Region f\u00fcr ihre herausfordernden Pfade und die M\u00f6glichkeit, in den k\u00fchlen Pools der Flussquelle zu baden. Die Blue Creek H\u00fcgel sind ein ungez\u00e4hmtes Paradies am Rande von Belize.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bekannt f\u00fcr den spektakul\u00e4ren Austritt des Flusses aus der Hokeb Ha H\u00f6hle.",
+        "Gepr\u00e4gt durch schroffen Kalksteinkarst und tiefe Schluchten.",
+        "Einer der feuchtesten Orte in Belize mit \u00fcppigster Vegetation.",
+        "Heimat seltener Amphibien und exotischer Schmetterlingsarten.",
+        "Heiliger Ort f\u00fcr die lokalen Gemeinschaften der Mopan-Maya.",
+        "Beliebtes Ziel f\u00fcr H\u00f6hlenforschung und Dschungel-Abenteuer.",
+        "Wichtiger biologischer Au\u00dfenposten an der Grenze zu Guatemala.",
+        "Bietet ideale Bedingungen f\u00fcr das Studium tropischer Regenwald-\u00d6kologie."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "mountain-pine-ridge-escarpment-relief-v2",
+    "type": "relief",
+    "parent": "BZ-CY",
+    "coords": [
+      -88.8,
+      16.9
+    ],
+    "name": {
+      "de": "Mountain Pine Ridge Steilhang",
+      "hu": "Mountain Pine Ridge-lejt\u0151",
+      "ro": "Versantul Mountain Pine Ridge",
+      "en": "Mountain Pine Ridge Escarpment"
+    },
+    "description": {
+      "de": "Die markante Abbruchkante des Mountain Pine Ridge Hochlands.",
+      "hu": "A Mountain Pine Ridge-fenns\u00edk mark\u00e1ns let\u00f6r\u00e9se.",
+      "ro": "Versantul abrupt al podi\u0219ului Mountain Pine Ridge.",
+      "en": "The prominent escarpment of the Mountain Pine Ridge highlands."
+    },
+    "facts": {
+      "de": [
+        "Starker H\u00f6henunterschied",
+        "Beeindruckende Aussicht",
+        "Granitfelsw\u00e4nde",
+        "Wichtige Erosionskante"
+      ],
+      "hu": [
+        "Jelent\u0151s szintk\u00fcl\u00f6nbs\u00e9g",
+        "Leny\u0171g\u00f6z\u0151 kil\u00e1t\u00e1s",
+        "Gr\u00e1nitsziklafalak",
+        "Fontos er\u00f3zi\u00f3s let\u00f6r\u00e9s"
+      ],
+      "ro": [
+        "Diferen\u021b\u0103 mare de altitudine",
+        "Vedere impresionant\u0103",
+        "Pere\u021bi de granit",
+        "Versant de eroziune important"
+      ],
+      "en": [
+        "Significant height difference",
+        "Impressive view",
+        "Granite rock walls",
+        "Important erosion escarpment"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Mountain Pine Ridge Steilhang ist eine der dramatischsten geografischen Grenzen in Belize. Diese imposante Abbruchkante markiert den pl\u00f6tzlichen \u00dcbergang vom uralten Granitplateau des Hochlandes zu den tiefer liegenden Kalksteinebenen des Cayo District. Der H\u00f6henunterschied betr\u00e4gt oft mehrere hundert Meter, was zu spektakul\u00e4ren Wasserf\u00e4llen f\u00fchrt, die \u00fcber die Granitklippen in die Tiefe st\u00fcrzen. Von zahlreichen Aussichtspunkten am Rand des Steilhangs bietet sich ein atemberaubender Panoramablick \u00fcber den unendlichen Dschungel Zentralbelizes bis hin zum Karibischen Meer. Die thermischen Aufwinde entlang der Klippen werden oft von majest\u00e4tischen Greifv\u00f6geln wie dem K\u00f6niggeier genutzt. Geologisch ist dieser Steilhang eine bedeutende Erosionskante, die die verschiedenen Zeitalter der Erdgeschichte Belizes sichtbar macht. Es ist ein Ort von \u00fcberw\u00e4ltigender Gr\u00f6\u00dfe, der die Weite und Wildheit des Landes eindrucksvoll unterstreicht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Markiert den dramatischen Rand des 300 Millionen Jahre alten Granitplateaus.",
+        "Bietet die spektakul\u00e4rsten Aussichtspunkte in ganz Belize.",
+        "Standort zahlreicher hoher Wasserf\u00e4lle und tiefer Felsschluchten.",
+        "Wichtiges Jagdrevier f\u00fcr seltene Greifv\u00f6gel wie den Prachtadler.",
+        "Stellt eine bedeutende klimatische und \u00f6kologische Grenze dar.",
+        "Geologisch markanter \u00dcbergang von Granit zu Kalkstein.",
+        "Beliebter Ort f\u00fcr Fotografie und Naturbeobachtung bei Sonnenuntergang.",
+        "Erosionskante, die durch Jahrmillionen von Regenf\u00e4llen geformt wurde."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "maya-mountains-foothills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-CY",
+    "coords": [
+      -88.7,
+      16.9
+    ],
+    "name": {
+      "de": "Maya-Gebirge Vorgebirge",
+      "hu": "Maya-hegys\u00e9g el\u0151hegyei",
+      "ro": "Poalele Mun\u021bilor Maya",
+      "en": "Maya Mountains Foothills"
+    },
+    "description": {
+      "de": "Die sanft ansteigenden H\u00fcgel vor dem eigentlichen Maya-Gebirge.",
+      "hu": "A Maya-hegys\u00e9g el\u0151tt elter\u00fcl\u0151, lank\u00e1san emelked\u0151 dombok.",
+      "ro": "Dealurile care cresc lin \u00een fa\u021ba propriu-zisului Mun\u021bi Maya.",
+      "en": "The gently rising hills before the main Maya Mountains."
+    },
+    "facts": {
+      "de": [
+        "\u00dcbergangszone",
+        "Dschungelvegetation",
+        "Zahlreiche B\u00e4che",
+        "Vielf\u00e4ltiges \u00d6kosystem"
+      ],
+      "hu": [
+        "\u00c1tmeneti z\u00f3na",
+        "Dzsungeln\u00f6v\u00e9nyzet",
+        "Sz\u00e1mos patak",
+        "V\u00e1ltozatos \u00f6kosziszt\u00e9ma"
+      ],
+      "ro": [
+        "Zon\u0103 de tranzi\u021bie",
+        "Vegeta\u021bie de jungl\u0103",
+        "Numeroase p\u00e2raie",
+        "Ecosistem divers"
+      ],
+      "en": [
+        "Transition zone",
+        "Jungle vegetation",
+        "Numerous creeks",
+        "Diverse ecosystem"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Vorgebirge der Maya Mountains bilden einen weiten G\u00fcrtel aus sanft ansteigenden H\u00fcgeln, die das zentrale Gebirge umschlie\u00dfen. Diese Region ist eine dynamische \u00dcbergangszone, in der sich die Flora und Fauna der Tiefebenen mit den spezialisierten Arten der Hochlagen vermischen. Das Relief ist gepr\u00e4gt von einer Vielzahl kleiner Flusst\u00e4ler und fruchtbarer H\u00e4nge, die eine Br\u00fccke zwischen den verschiedenen \u00d6kosystemen schlagen. Die Vorgebirge sind oft von einer Mischung aus Sekund\u00e4rwald, Savannen und landwirtschaftlichen Fl\u00e4chen bedeckt, was sie zu einem besonders artenreichen Gebiet macht. F\u00fcr wandernde Wildtiere sind diese H\u00fcgel essentielle Korridore, um zwischen den Schutzgebieten zu wechseln. Geologisch bestehen sie \u00fcberwiegend aus Sedimentgestein und Kalkstein, die im Laufe der Jahrmillionen durch die Hebung des Granitkerns der Maya Mountains verformt wurden. Die Vorgebirge sind das sanfte Gesicht der belizischen Wildnis, das den Reisenden auf dem Weg in die Berge empf\u00e4ngt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Wichtige \u00f6kologische Pufferzone rund um das Maya-Gebirge.",
+        "Gepr\u00e4gt durch eine sanft gewellte H\u00fcgellandschaft.",
+        "Hohe Biodiversit\u00e4t durch Vermischung verschiedener Vegetationszonen.",
+        "Zentrales Gebiet f\u00fcr den Anbau von Zitrusfr\u00fcchten und Kakao.",
+        "Essentieller Wanderkorridor f\u00fcr Jaguare und andere Gro\u00dfs\u00e4uger.",
+        "Reich an kleinen B\u00e4chen und ganzj\u00e4hrigen Wasserquellen.",
+        "Erm\u00f6glicht einen einfachen Zugang zur Erkundung des Regenwaldes.",
+        "Geologische \u00dcbergangszone mit vielf\u00e4ltiger Bodenbeschaffenheit."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "toledo-coastal-hills-relief-v2",
+    "type": "relief",
+    "parent": "BZ-TO",
+    "coords": [
+      -88.7,
+      16.1
+    ],
+    "name": {
+      "de": "Toledo K\u00fcstenh\u00fcgel",
+      "hu": "Toledo-partmenti dombs\u00e1g",
+      "ro": "Dealurile de coast\u0103 din Toledo",
+      "en": "Toledo Coastal Hills"
+    },
+    "description": {
+      "de": "Die h\u00fcgeligen Bereiche nahe der K\u00fcste im Toledo District.",
+      "hu": "A Toledo k\u00f6rzet partk\u00f6zeli, dombos r\u00e9szei.",
+      "ro": "Zonele deluroase de l\u00e2ng\u0103 coast\u0103 \u00een districtul Toledo.",
+      "en": "The hilly areas near the coast in the Toledo District."
+    },
+    "facts": {
+      "de": [
+        "Geringe H\u00f6he",
+        "Tropischer Regenwald",
+        "Nahe am Meer",
+        "Feuchtes Klima"
+      ],
+      "hu": [
+        "Alacsony magass\u00e1g",
+        "Tr\u00f3pusi es\u0151erd\u0151",
+        "K\u00f6zel a tengerhez",
+        "Nedves \u00e9ghajlat"
+      ],
+      "ro": [
+        "Altitudine redus\u0103",
+        "P\u0103dure tropical\u0103",
+        "Aproape de mare",
+        "Clim\u0103 umed\u0103"
+      ],
+      "en": [
+        "Low elevation",
+        "Tropical rainforest",
+        "Near the sea",
+        "Humid climate"
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Toledo K\u00fcstenh\u00fcgel sind eine einzigartige Landschaftsform im \u00e4u\u00dfersten S\u00fcden Belizes, wo die Ausl\u00e4ufer der Maya Mountains fast bis an das Karibische Meer reichen. Diese H\u00fcgel bestehen aus altem Kalkstein und Sandstein und sind von einem besonders \u00fcppigen, feuchten Regenwald bedeckt, der von den hohen Niederschl\u00e4gen des S\u00fcdens profitiert. Das Relief ist durch sanfte Erhebungen gepr\u00e4gt, die zwischen den ausgedehnten Mangrovens\u00fcmpfen der K\u00fcste aufragen. Diese H\u00fcgel bieten einen stabilen Untergrund in einer ansonsten oft wasserges\u00e4ttigten Region und waren daher bevorzugte Siedlungspl\u00e4tze f\u00fcr die antiken Maya und die heutigen Gemeinschaften. Die Kombination aus K\u00fcstenn\u00e4he und tropischem Wald schafft ein einzigartiges Habitat f\u00fcr Meeresschildkr\u00f6ten, Seek\u00fche in den Lagunen und Br\u00fcllaffen in den Baumkronen. Die Toledo K\u00fcstenh\u00fcgel repr\u00e4sentieren den unber\u00fchrten, tropischen Charakter des S\u00fcdens, wo Land und Meer in einer gr\u00fcnen Wellenbewegung ineinander \u00fcbergehen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "S\u00fcdlichste H\u00fcgelformation Belizes mit direktem K\u00fcstenbezug.",
+        "Gepr\u00e4gt durch ein extrem feuchtes und warmes Tropenklima.",
+        "Wichtiges Habitat f\u00fcr k\u00fcstennahe Wildtierpopulationen.",
+        "Standort vieler kleiner, traditioneller Maya- und Garifuna-D\u00f6rfer.",
+        "Bietet Schutz vor \u00dcberflutungen in der regenreichsten Region des Landes.",
+        "Reich an exotischen Harth\u00f6lzern und Palmenarten.",
+        "Ideales Gebiet f\u00fcr die Beobachtung von Seev\u00f6geln und K\u00fcstenbewohnern.",
+        "Bietet eine malerische Kulisse f\u00fcr die s\u00fcdliche K\u00fcstenstra\u00dfe."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+]

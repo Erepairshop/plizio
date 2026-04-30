@@ -425,27 +425,7 @@ export const irelandNature: POI[] = [
     },
     image: "/geo-images/ireland/giants-causeway.webp",
   },
-  {
-    id: "nat-cliffs-moher",
-    type: "landmark",
-    parent: "ireland",
-    coords: [-9.4309, 52.9711],
-    name: { de: "Cliffs of Moher", hu: "Cliffs of Moher", ro: "Cliffs of Moher", en: "Cliffs of Moher" },
-    description: {
-      en: "The Cliffs of Moher are a spectacular Atlantic coastline in County Clare, rising steeply above the sea.",
-      de: "Die Cliffs of Moher sind eine spektakuläre Atlantikküste in County Clare, die steil über dem Meer aufragt.",
-      hu: "A Cliffs of Moher Clare megyében található látványos atlanti partszakasz, amely meredeken emelkedik a tenger fölé.",
-      ro: "Cliffs of Moher sunt o coastă atlantică spectaculoasă din comitatul Clare, ridicându-se abrupt deasupra mării."
-    },
-    facts: {
-      en: ["They rise to 214 meters above sea level.", "They stretch for about 8 kilometers.", "They are a UNESCO Global Geopark site.", "They are home to many seabirds."],
-      de: ["Sie ragen bis zu 214 Meter über den Meeresspiegel auf.", "Sie erstrecken sich über etwa 8 Kilometer.", "Sie sind ein UNESCO-Global-Geopark.", "Sie sind die Heimat vieler Seevögel."],
-      hu: ["Akár 214 méterre magasodnak a tengerszint fölé.", "Körülbelül 8 kilométer hosszan húzódnak.", "UNESCO Global Geopark helyszín.", "Sok tengeri madár él itt."],
-      ro: ["Se ridică până la 214 metri deasupra nivelului mării.", "Se întind pe aproximativ 8 kilometri.", "Sunt un sit UNESCO Global Geopark.", "Adăpostesc multe păsări marine."]
-    },
-    image: "/geo-images/ireland/cliffs-moher.webp",
-  },
-  {
+    {
     id: "nat-ring-kerry",
     type: "landmark",
     parent: "ireland",
@@ -709,67 +689,7 @@ export const irelandCulture: POI[] = [
     },
     image: "/geo-images/ireland/trinity-college.webp",
   },
-  {
-    id: "cult-rock-cashel",
-    type: "landmark",
-    parent: "city-cork",
-    coords: [-7.8906, 52.5199],
-    name: { de: "Rock of Cashel", hu: "Rock of Cashel", ro: "Rock of Cashel", en: "Rock of Cashel" },
-    description: {
-      en: "The Rock of Cashel is a dramatic medieval site on a limestone hill in Tipperary.",
-      de: "Der Rock of Cashel ist eine dramatische mittelalterliche Stätte auf einem Kalksteinhügel in Tipperary.",
-      hu: "A Rock of Cashel egy drámai középkori helyszín Tipperary mészkődombján.",
-      ro: "Rock of Cashel este un sit medieval dramatic pe un deal de calcar din Tipperary."
-    },
-    facts: {
-      en: ["It was the seat of the kings of Munster.", "It includes a round tower and cathedral.", "It is one of Ireland's iconic ruins.", "It overlooks the surrounding plains."],
-      de: ["Es war der Sitz der Könige von Munster.", "Es umfasst einen Rundturm und eine Kathedrale.", "Es ist eine der ikonischen Ruinen Irlands.", "Es überblickt die umliegenden Ebenen."],
-      hu: ["Munster királyainak székhelye volt.", "Kerek tornyot és katedrálist is magában foglal.", "Írország egyik ikonikus romja.", "A környező síkságra néz."],
-      ro: ["A fost sediul regilor din Munster.", "Include un turn rotund și o catedrală.", "Este una dintre ruinele emblematice ale Irlandei.", "Oferă vedere asupra câmpiilor din jur."]
-    },
-    image: "/geo-images/ireland/rock-of-cashel.webp",
-  },
-  {
-    id: "cult-newgrange",
-    type: "landmark",
-    parent: "ireland",
-    coords: [-6.4756, 53.6947],
-    name: { de: "Newgrange", hu: "Newgrange", ro: "Newgrange", en: "Newgrange" },
-    description: {
-      en: "Newgrange is a prehistoric passage tomb older than Stonehenge and the Egyptian pyramids.",
-      de: "Newgrange ist ein prähistorisches Ganggrab, älter als Stonehenge und die ägyptischen Pyramiden.",
-      hu: "A Newgrange egy őskori átjárósír, amely idősebb Stonehenge-nél és az egyiptomi piramisoknál.",
-      ro: "Newgrange este un mormânt preistoric de tip pasaj, mai vechi decât Stonehenge și piramidele egiptene."
-    },
-    facts: {
-      en: ["Built around 3200 BC.", "It aligns with the winter solstice sunrise.", "It is a UNESCO World Heritage Site.", "It is one of Europe's oldest monuments."],
-      de: ["Um 3200 v. Chr. erbaut.", "Es ist auf den Sonnenaufgang der Wintersonnenwende ausgerichtet.", "Es ist UNESCO-Weltkulturerbe.", "Es ist eines der ältesten Monumente Europas."],
-      hu: ["Kr. e. 3200 körül épült.", "A téli napforduló napkeltéjére igazodik.", "UNESCO Világörökségi helyszín.", "Európa egyik legrégebbi emlékműve."],
-      ro: ["Construit în jurul anului 3200 î.Hr.", "Este aliniat cu răsăritul de la solstițiul de iarnă.", "Este sit UNESCO.", "Este unul dintre cele mai vechi monumente din Europa."]
-    },
-    image: "/geo-images/ireland/newgrange.webp",
-  },
-  {
-    id: "cult-blarney",
-    type: "landmark",
-    parent: "city-cork",
-    coords: [-8.5706, 51.9297],
-    name: { de: "Blarney Castle", hu: "Blarney Castle", ro: "Blarney Castle", en: "Blarney Castle" },
-    description: {
-      en: "Blarney Castle is a medieval fortress near Cork, famous for the Blarney Stone and its gardens.",
-      de: "Blarney Castle ist eine mittelalterliche Festung nahe Cork, berühmt für den Blarney Stone und seine Gärten.",
-      hu: "A Blarney Castle egy középkori erőd Cork közelében, híres a Blarney-kőről és kertjeiről.",
-      ro: "Blarney Castle este o fortăreață medievală lângă Cork, faimoasă pentru Piatra Blarney și grădinile sale."
-    },
-    facts: {
-      en: ["The Blarney Stone is said to grant eloquence.", "The current castle dates from the 15th century.", "Visitors kiss the stone by leaning backward.", "The gardens are a major attraction."],
-      de: ["Dem Blarney Stone wird Beredsamkeit nachgesagt.", "Die heutige Burg stammt aus dem 15. Jahrhundert.", "Besucher küssen den Stein, indem sie sich zurücklehnen.", "Die Gärten sind eine Hauptattraktion."],
-      hu: ["A Blarney-kőnek ékesszólást tulajdonítanak.", "A jelenlegi vár a 15. századból származik.", "A követ hátradőlve csókolják meg.", "A kertek fő látványosságok."],
-      ro: ["Piatra Blarney este considerată aducătoare de elocvență.", "Castelul actual datează din secolul al XV-lea.", "Vizitatorii sărută piatra aplecându-se pe spate.", "Grădinile sunt o atracție majoră."]
-    },
-    image: "/geo-images/ireland/blarney.webp",
-  },
-  {
+        {
     id: "cult-kilkenny",
     type: "landmark",
     parent: "ireland",

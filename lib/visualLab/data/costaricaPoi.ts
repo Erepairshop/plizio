@@ -1,5 +1,6 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraCostaricaLifeV2 } from "./poiExtraCostaricaLifeV2";
 
 export const costaricaCountry: POI[] = [];
 export const costaricaRegions: POI[] = [];
@@ -755,4 +756,4 @@ export const costaricaLandmarks: POI[] = [
   }
 ];
 
-export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks];
+export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks, ...poiExtraCostaricaLifeV2];

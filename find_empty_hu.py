@@ -1,27 +1,32 @@
 import re
+import os
 
-file_path = 'lib/visualLab/data/poiExtraRo2.ts'
-with open(file_path, 'r', encoding='utf-8') as f:
-    content = f.read()
+files = [
+    "lib/visualLab/data/belizePoi.ts",
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBelizeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBelizeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBelizeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBelizeLifeV2.ts",
+    "lib/visualLab/data/poiExtraBelizeNatureV2.ts",
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+]
 
-poi_blocks = re.split(r'\{\s*id:', content)[1:]
-empty_ids = []
-
-for block in poi_blocks:
-    id_match = re.search(r'^\s*"([^"]+)"', block)
-    if not id_match:
+for file_path in files:
+    if not os.path.exists(file_path):
+        print(f"File not found: {file_path}")
         continue
-    poi_id = id_match.group(1)
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    if 'descriptionAdvanced' not in block:
-        empty_ids.append(poi_id)
-        continue
+    # Simple regex to find empty hu in descriptionAdvanced
+    # We look for descriptionAdvanced: { ... hu: "" ... } or descriptionAdvanced: { ... hu: '' ... }
+    # Also for factsAdvanced: { ... hu: [] ... }
     
-    da_match = re.search(r'descriptionAdvanced:\s*\{([^}]+)\}', block, re.DOTALL)
-    if da_match:
-        da_content = da_match.group(1)
-        if 'hu:' not in da_content:
-            empty_ids.append(poi_id)
+    # Find POI blocks
+    # A bit hard with regex, but let's try to count occurences of hu: "" or hu: [] in the whole file
+    empty_desc = len(re.findall(r'descriptionAdvanced:\s*{[^}]*hu:\s*["\']["\']', content))
+    empty_facts = len(re.findall(r'factsAdvanced:\s*{[^}]*hu:\s*\[\s*\]', content))
+    
+    print(f"{file_path}: {empty_desc} empty desc, {empty_facts} empty facts")
 
-for eid in empty_ids:
-    print(eid)

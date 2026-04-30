@@ -623,31 +623,6 @@ export const luxembourgCulture = [
     image: "/geo-images/luxembourg/cult-bock.webp"
   },
   {
-    id: "cult-vianden",
-    type: "historical",
-    parent: "lu-country",
-    coords: [6.2069, 49.9347],
-    name: {
-      de: "Burg Vianden",
-      hu: "Vianden vára",
-      ro: "Castelul Vianden",
-      en: "Vianden Castle"
-    },
-    description: {
-      de: "Mittelalterliche Höhenburg über dem Ourtal und eines der bekanntesten Wahrzeichen des Landes.",
-      hu: "Középkori hegyi vár az Our völgye fölött, az ország egyik legismertebb jelképe.",
-      ro: "Castel medieval de munte deasupra văii Our și unul dintre cele mai cunoscute simboluri ale țării.",
-      en: "A medieval hill castle above the Our valley and one of the country's best-known landmarks."
-    },
-    facts: {
-      de: ["Mittelalterliche Burg", "Über dem Ourtal", "Bekanntes Nationaldenkmal"],
-      hu: ["Középkori vár", "Az Our völgye fölött", "Ismert nemzeti látványosság"],
-      ro: ["Castel medieval", "Deasupra văii Our", "Monument național cunoscut"],
-      en: ["Medieval castle", "Above the Our valley", "Well-known national landmark"]
-    },
-    image: "/geo-images/luxembourg/cult-vianden.webp"
-  },
-  {
     id: "cult-echternach",
     type: "historical",
     parent: "lu-country",
@@ -700,31 +675,6 @@ export const luxembourgCulture = [
 ];
 
 export const luxembourgNature = [
-  {
-    id: "nat-mullerthal",
-    type: "landmark",
-    parent: "lu-country",
-    coords: [6.3, 49.8],
-    name: {
-      de: "Mullerthal",
-      hu: "Mullerthal",
-      ro: "Mullerthal",
-      en: "Mullerthal"
-    },
-    description: {
-      de: "Sandsteinschluchten und Wälder in der Region Little Switzerland, bekannt für den Schiessentümpel.",
-      hu: "Homokkő-szurdokok és erdők a Little Switzerland térségben, a Schiessentümpel-vízeséssel.",
-      ro: "Chei de gresie și păduri în regiunea Little Switzerland, cunoscută pentru cascada Schiessentümpel.",
-      en: "Sandstone gorges and forests in the Little Switzerland region, known for Schiessentümpel."
-    },
-    facts: {
-      de: ["Little Switzerland", "Schiessentümpel", "Beliebtes Wandergebiet"],
-      hu: ["Little Switzerland", "Schiessentümpel", "Népszerű túraterület"],
-      ro: ["Little Switzerland", "Schiessentümpel", "Zonă populară de drumeții"],
-      en: ["Little Switzerland", "Schiessentümpel", "Popular hiking area"]
-    },
-    image: "/geo-images/luxembourg/nat-mullerthal.webp"
-  },
   {
     id: "nat-ardennek-lu",
     type: "landmark",

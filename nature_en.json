@@ -1,0 +1,152 @@
+[
+  {
+    "id": "rio-grande-de-san-miguel-nature-v2",
+    "desc_en": "The Río Grande de San Miguel is the most important waterway in El Salvador's eastern region, giving life to the surrounding landscape. The river winds majestically at the foot of volcanoes, irrigating fertile valleys that are considered the country's breadbasket. Its banks are lined with lush gallery forests where numerous waterbirds and exotic animals find refuge. Near its mouth, adjacent to Jiquilisco Bay, the river forms a unique mangrove ecosystem. For local communities, the river is not only a water source but the cornerstone of daily life and agriculture. Geography K7",
+    "facts_en": ["The river is approximately 124 kilometers long.", "Its basin covers a significant portion of El Salvador's territory.", "The mangroves at its mouth are part of an UNESCO Biosphere Reserve.", "The water level rises significantly during the tropical rainy season."]
+  },
+  {
+    "id": "lago-de-guija-nature-v2",
+    "desc_en": "Lake Güija is a stunning natural reservoir on the border of El Salvador and Guatemala, created by ancient volcanic activity. The lake is embraced by picturesque volcanoes and densely overgrown hills, creating an isolated and peaceful sanctuary for nature lovers. Due to its rich birdlife, the lake is a paradise for birdwatchers, where egrets, pelicans, and many migratory species rest on the water. Small islands are scattered on the surface, some of which have important archaeological significance due to Pre-Columbian remains. Local fishers using traditional methods are part of the landscape's character. Geography K7",
+    "facts_en": ["The lake covers an area of approximately 45 square kilometers.", "It was formed when a basaltic lava flow blocked the river bed.", "Archaeological remains from Maya and Pipil cultures were found on its islands.", "It is recognized as a wetland of international importance (Ramsar site)."]
+  },
+  {
+    "id": "bahia-de-jiquilisco-nature-v2",
+    "desc_en": "Jiquilisco Bay is El Salvador's largest and most important coastal mangrove ecosystem, bearing the prestigious title of an UNESCO Biosphere Reserve. This aquatic labyrinth is home to countless islands, channels, and dense mangrove forests where the untouched wildness of nature prevails. The bay is a crucial breeding ground for endangered sea turtles, especially the Hawksbill turtle, which finds safe nesting sites here. The birdlife is extremely rich, with dozens of exotic parrots, wading birds, and birds of prey observed above the dense vegetation. Visitors can explore the hidden corners of the bay on boat tours. Geography K8",
+    "facts_en": ["The area covers more than 600 square kilometers.", "Four different species of mangroves coexist here in balance.", "It is one of El Salvador's most important artisanal fishing areas.", "It is one of the last major nesting sites for Hawksbill turtles in the Eastern Pacific."]
+  },
+  {
+    "id": "volcan-conchagua-nature-v2",
+    "desc_en": "Conchagua Volcano rises majestically at El Salvador's easternmost point, acting as a guardian of the country on the shores of the Gulf of Fonseca. Its two distinct peaks, Cerro del Ocote and Cerro de la Bandera, create a dramatic silhouette against the sky. The panorama from the top of the volcano is simply unbeatable, as the coastlines of El Salvador, Honduras, and Nicaragua are all visible on clear days. The slopes of the volcano are covered with dense cloud forests that provide a cooler refuge from the coastal heat. For hikers, the ascent is a significant challenge, but the view is worth every effort. Geography K8",
+    "facts_en": ["The highest point, Cerro del Ocote, rises 1,225 meters above sea level.", "Extensive pine forests are found on its slopes, which is rare at this latitude.", "The viewpoints overlooking the gulf are considered among the world's most beautiful.", "Modern 'Bitcoin City' is planned to be built near the volcano."]
+  },
+  {
+    "id": "bosque-de-cinquera-nature-v2",
+    "desc_en": "Cinquera Forest is one of the most moving symbols of El Salvador's history and environmental rebirth. During the civil war, this area was the scene of heavy fighting, but with the arrival of peace, the local community united to restore natural order. Today, lush tropical vegetation and returning wildlife dominate the reforested areas, with moss and ferns covering former trenches. Visitors can walk the trails with guides who are often war veterans themselves, combining nature walking with historical memory. Crystal-clear streams and cooling waterfalls are found within the forest, ideal for a refreshing dip. Geography K8",
+    "facts_en": ["The forest area was protected by the local community through their own efforts.", "Numerous rare medicinal plants and tree species are found in the area.", "Bird diversity has more than tripled since the end of the civil war.", "Remains of former guerrilla campsites are still visible along the trails."]
+  },
+  {
+    "id": "isla-meanguera-nature-v2",
+    "desc_en": "Meanguera Island is El Salvador's most isolated and idyllic tropical retreat in the heart of the Gulf of Fonseca. This island of volcanic origin welcomes adventurous travelers with dramatic cliffs, hidden coves, and crystal-clear water. The friendly hospitality of the local fishing community and the slow pace of island life help visitors forget the noise of the modern world. Numerous small beaches are found along the coast where the water is quiet and inviting, ideal for diving and water sports. The highest point of the island offers impressive views of neighboring countries' coasts and the volcanic island chain. Geography K7",
+    "facts_en": ["The island covers an area of approximately 16 square kilometers.", "It is the only Salvadoran municipality located entirely on an island.", "Natural springs and rainwater harvesters provide the island's water supply.", "Dolphins and sea turtles are frequently seen in the coastal waters."]
+  },
+  {
+    "id": "rio-paz-nature-v2",
+    "desc_en": "The Río Paz, meaning 'River of Peace', is not only an important waterway but also the natural border between El Salvador and Guatemala for a long stretch. The river originates in the Guatemalan highlands and winds rapidly toward the tropical plains before flowing into the Pacific Ocean. Its banks alternate between dense vegetation and agricultural lands where local residents use the river water for irrigation. The lower section of the river is particularly rich in birdlife and wetlands, which are important for regional biodiversity. The estuary area of the Río Paz is a wild landscape where the meeting of river and sea water creates a unique ecosystem. Geography K7",
+    "facts_en": ["The total length of the river exceeds 130 kilometers.", "Significant coffee and sugarcane plantations are located in its basin.", "The Barra de Santiago nature reserve lies near the river's mouth.", "During the rainy season, the river carries significant sediment into the ocean."]
+  },
+  {
+    "id": "caldera-de-coatepeque-nature-v2",
+    "desc_en": "The Coatepeque Caldera is one of El Salvador's most impressive geological formations, a massive collapsed volcanic crater that now houses the famous Lake Coatepeque. The caldera walls rise steeply above the water, covered with dense tropical forest and elegant villas. This unique landscape is the result of cataclysmic eruptions tens of thousands of years ago, which has now become an island of peace and luxury. Viewed from the rim of the caldera, the lake water often appears turquoise, providing a unique visual experience. The area is popular for water sports but is also an inexhaustible research area for geologists. Geography K8",
+    "facts_en": ["The caldera has a diameter of approximately 6.5 kilometers.", "The last major explosive eruption occurred more than 50,000 years ago.", "The lake water sometimes spectacularly changes color to turquoise due to volcanic activity.", "Viewpoints on the caldera rim offer a view of the entire region."]
+  },
+  {
+    "id": "laguna-de-alegria-nature-v2",
+    "desc_en": "Laguna de Alegría is one of El Salvador's most prized treasures, an emerald-green shimmering crater lake deep within the Tecapa Volcano. The lake was named 'the emerald of America' by poet Gabriela Mistral, and the sight truly deserves this name. Due to its sulfur content, the water has a special color and medicinal properties enjoyed by locals and visitors alike. Lush tropical vegetation and blooming gardens cover the inner walls of the crater, creating a mystical, almost fairytale atmosphere. Walking along the path around the lake, one can smell the sulfur from volcanic activity, reminding us of the mountain's living power. Geography K7",
+    "facts_en": ["The lake water often changes shade due to sulfur and mineral content.", "The Tecapa Volcano, where the lake is situated, has an altitude of 1,593 meters.", "The caldera rim offers an impressive view of Jiquilisco Bay.", "The area is famous for its cool climate, which is rare in El Salvador."]
+  },
+  {
+    "id": "chorros-de-la-calera-nature-v2",
+    "desc_en": "Chorros de la Calera is a breathtaking natural wonder near the picturesque town of Juayúa, along the famous Route of Flowers. These waterfalls do not emerge from a river but directly from the pores of cliff walls, creating a crystal-clear veil over the dark rock. The water plunges down several levels, creating natural pools where visitors can soak in the refreshing, cool water. The lush tropical vegetation covering the rocks gives the place a garden-of-eden atmosphere. A short but spectacular hike leads through the forest to reach the waterfalls, accompanied by the sounds of nature. Geography K7",
+    "facts_en": ["The waterfalls can be reached through a man-made tunnel, providing an adventurous experience.", "The water temperature is constant, providing a refreshing contrast to tropical heat.", "The area is an important water source for hydroelectric plants in the region.", "Numerous rare fern species live around the waterfalls."]
+  },
+  {
+    "id": "isla-conejo-nature-v2",
+    "desc_en": "Conejo Island (Rabbit Island) is a tiny but significant piece of land in the strategically important Gulf of Fonseca. This uninhabited, rocky island has been the subject of a diplomatic and sovereignty dispute between El Salvador and Honduras for decades, giving it a special air of mystery. Despite its negligible size, its location plays a key role in determining the maritime boundaries of the gulf. The island is covered with rare scrub forest, and its shores alternate between sharp rocks and small sandy strips. Birdlife is undisturbed here, making it an important resting place for migratory birds. History K8",
+    "facts_en": ["The island covers an area of only 0.5 square kilometers.", "Control is currently exercised by Honduras, but El Salvador maintains its claim.", "Local fishers catch significant amounts of shrimp and fish in the surrounding waters.", "Geologically, the island is part of the Central American volcanic arc."]
+  },
+  {
+    "id": "cerro-guazapa-nature-v2",
+    "desc_en": "Guazapa Volcano is one of the most important silent witnesses of El Salvador's history, rising north of San Salvador. This eroded, ancient volcano was one of the most important guerrilla bases and the scene of heavy fighting during the civil war. Today, the mountain is a symbol of reconciliation and ecological rebirth, where dense forests gradually overgrow former war positions. For hikers, Guazapa offers a special experience: remains of former guerrilla camps and trenches are visible along the trails as nature reclaims the area. The summit offers impressive views of the Lempa River valley and Lake Suchitlán. History K8",
+    "facts_en": ["The volcano has a height of 1,438 meters above sea level.", "It was known as the 'red bastion of Guazapa' during the civil war.", "Several plant species live here that only survive on volcanic soil.", "It is now a popular location for horseback tours and historical memorial hikes."]
+  },
+  {
+    "id": "salto-de-malacatiupan-nature-v2",
+    "desc_en": "Salto de Malacatiupán is a unique natural phenomenon in El Salvador: a massive waterfall whose water is naturally warm due to volcanic activity. As the warm water plunges down the rocks, it enshrouds the area in a cloud of steam, creating a mystical and inviting atmosphere. Natural pools at the foot of the waterfall allow visitors to enjoy the healing and relaxing effects of geothermal water. The turquoise color of the water and the reddish shade of the coastal rocks create a stunning visual contrast. This site is still less known to mass tourism, thus preserving its integrity and peace. Geography K7",
+    "facts_en": ["The water temperature constantly ranges between 35 and 40 degrees Celsius.", "The waterfall has a height of approximately 12 meters.", "The water is rich in minerals, which have a beneficial effect on the skin.", "The waterfall was created along a volcanic fissure where hot springs emerge."]
+  },
+  {
+    "id": "estero-de-jaltepeque-nature-v2",
+    "desc_en": "Jaltepeque Estuary is one of El Salvador's most beautiful and important wetlands on the Pacific coast. This massive estuary system consists of countless winding channels, dense mangrove forests, and long sandbars that provide protection against the ocean's power. The estuary's waters are rich in fish and diverse marine life, forming the basis of livelihoods for nearby fishing communities. The birdlife is amazing, with pelicans, egrets, and kingfishers observed over the water's surface. Visitors can explore hidden corners on boat tours or enjoy water sports in the quieter bays. Geography K7",
+    "facts_en": ["The estuary stretches for approximately 28 kilometers along the coastline.", "It is one of the country's most important areas for shrimp and mollusk production.", "The estuary is fed by sediment from the Lempa and Jiboa rivers.", "It has been the location for numerous film shoots due to its unique landscape."]
+  },
+  {
+    "id": "cerro-chinameca-nature-v2",
+    "desc_en": "Chinameca Volcano, better known as Pacayal, is a prominent mountain peak in the eastern part of El Salvador in the San Miguel department. This volcanic complex features several craters and cone-shaped peaks that testify to intense past geological activity. The mountain slopes are covered with extensive coffee plantations that produce some of the country's highest quality coffee due to volcanic soil and a cool climate. Cloud forests and pine groves are found near the summit, where rare orchids and tropical birds live. For hikers, Chinameca offers varied terrain from deep craters to panoramic viewpoints. Geography K8",
+    "facts_en": ["The highest point of the volcano is 1,300 meters above sea level.", "Significant geothermal reservoirs are located inside the mountain.", "Nearby towns like Chinameca are famous for their traditional gastronomy.", "Several smaller, now filled craters can be observed within the volcanic cones."]
+  },
+  {
+    "id": "rio-torola-nature-v2",
+    "desc_en": "The Torola River is the pulsing artery of the Morazán department, carrying not only water but also history in its bed. The river cuts through deep canyons and rocky valleys, creating breathtaking landscapes in Eastern El Salvador. During the civil war, the river represented a strategic dividing line, and many decisive events took place along its banks that live on in the memory of local communities. Today, Torola is a site for peace and ecotourism where clear water and wild surroundings attract visitors. Hanging bridges and viewpoints along the river allow for admiration of the landscape's wildness. History K8",
+    "facts_en": ["One of the river's most famous points is the 'Puente de Hierro', a key transport hub.", "Its basin is among the most untouched natural areas in Morazán.", "The river flow depends significantly on rainfall in the highlands.", "Pre-Columbian rock paintings are found in several places along its banks."]
+  },
+  {
+    "id": "bosque-nancuchiname-nature-v2",
+    "desc_en": "Nancuchiname Forest is one of El Salvador's last and most valuable tropical dry forest remains, situated near the lower section of the Lempa River. This protected area provides a vital refuge for many endangered plant and animal species that have been displaced elsewhere by agriculture. A unique feature of the forest is its seasonal change, turning from a deciduous forest in the dry season to a burgeoning green jungle during the rains. Nancuchiname plays an important role in soil protection and preserving water resources in the region. Designated paths allow visitors to see a world that once covered all of Central America. Geography K8",
+    "facts_en": ["The forest is part of one of El Salvador's most important biological corridors.", "Several rare reptile and amphibian species are found only here in the country.", "The area is protected under the Ramsar Convention as a wetland of international importance.", "The local population actively participates in guarding and maintaining the forest."]
+  },
+  {
+    "id": "isla-zacatillo-nature-v2",
+    "desc_en": "Zacatillo Island is one of the most characteristic and friendly inhabited islands in the Gulf of Fonseca, where the sea and humans live in close unity. The island is famous for its hardworking fishing communities that have passed down the secrets of fishing for generations. Numerous quiet coves and white sand beaches are found along the coast, perfect for relaxation and enjoying fresh seafood. From Zacatillo's hilly surface, there is an impressive view of other islands in the gulf and distant volcanoes. The island's slow pace of life and absence of motor vehicles radiate a special peace. Geography K7",
+    "facts_en": ["The island covers an area of approximately 4 square kilometers.", "The name Zacatillo comes from the word 'zacate' (grass), referring to the hillside vegetation.", "The island was an important transit point for colonial-era trade routes.", "The surrounding waters contain some of the country's tastiest shrimp populations."]
+  },
+  {
+    "id": "playa-el-cuco-nature-v2",
+    "desc_en": "El Cuco is the most popular and spacious beach on El Salvador's eastern coast, impressing visitors with its seemingly endless dark, volcanic sand. The shoreline here is particularly wide, making it ideal for long walks, beach soccer, or simply sunbathing in the tropical sun. The sea water at El Cuco is generally calmer than in western surf paradises, making it excellent for swimming and family recreation. Palm-thatched restaurants (ranchos) along the beach offer the freshest seafood dishes while listening to the sound of the waves. The beach's friendly, authentic atmosphere attracts those seeking rest from far and wide. Geography K7",
+    "facts_en": ["The beach stretches for several kilometers without interruption.", "At low tide, the sandy surface widens significantly, offering a unique sight.", "The area is famous for its hatcheries dedicated to sea turtle protection.", "El Cuco is a strategic starting point for the Las Flores surf paradise."]
+  },
+  {
+    "id": "playa-las-flores-nature-v2",
+    "desc_en": "Las Flores is a true surfer's paradise at the eastern tip of El Salvador, where nature and adrenaline meet. This beach is world-famous for its perfect, long right-hand waves that break along volcanic rocks, providing long and enjoyable rides. The beach is surrounded by high cliffs and lush vegetation, giving it an exclusive and isolated feel. Although it is a primary destination for surfers, the beach's beauty and crystal-clear water also fascinate those seeking relaxation. Boutique hotels and eco-lodges here live in harmony with the environment, offering sustainable tourism. Geography K7",
+    "facts_en": ["Waves can be ridden for 200 to 300 meters under ideal conditions.", "The seafloor along the coast is sandy, which makes surfing safer.", "It regularly hosts international surfing championships.", "The beach is fully accessible from neighboring bays only during low tide."]
+  },
+  {
+    "id": "volcan-de-san-diego-nature-v2",
+    "desc_en": "San Diego Volcano is a majestic, now extinct volcano in northern El Salvador, adjacent to Lake Güija. The mountain is a unique geological formation whose slopes are covered by ancient lava flows and now dense vegetation. The area around the volcano is an important ecological site where dry tropical forest and wetlands meet, providing a diverse habitat for wildlife. For hikers, San Diego is a less known but rewarding destination, as the summit offers a magnificent view of the lake and the Guatemalan mountains. Small villages at the foot of the mountain still practice traditional forms of agriculture. Geography K8",
+    "facts_en": ["The volcano is one of the oldest members of the Metapán volcanic field.", "Its last activity dates back several thousand years.", "Its lava flows contributed significantly to the formation of Lake Güija's bed.", "The area around the mountain is rich in minerals and volcanic rocks."]
+  },
+  {
+    "id": "rio-jiboa-nature-v2",
+    "desc_en": "The Jiboa River is one of the most important waterways in central El Salvador, originating at the foot of the majestic San Vicente Volcano. The river cuts rapidly through the hilly countryside, creating deep valleys and fertile alluvial plains along its way. Its banks are lined with lush vegetation, and the river water is crucial for local agriculture, especially for sugarcane and fruit cultivation. The Jiboa Valley is not only economically significant but also offers stunning natural views where mountains and water meet. The river eventually flows into the Pacific Ocean, where its estuary provides important habitat for coastal birds. Geography K7",
+    "facts_en": ["The river is approximately 60 kilometers long.", "Its flow can rise suddenly and significantly during tropical storms.", "The Jiboa Valley is known for having some of the country's best quality construction sand.", "The famous Costa del Sol resort area is located near its mouth."]
+  },
+  {
+    "id": "barra-de-santiago-nature-v2",
+    "desc_en": "Barra de Santiago is one of El Salvador's most beautiful and important nature reserves on the country's northwestern coast. This unique ecosystem consists of a long sandbar and an extensive mangrove swamp behind it, where ocean and fresh water meet. The area is a wetland of international importance, home to crocodiles, sea turtles, and hundreds of bird species. Visitors can explore dense mangrove corridors on boat tours, where the silence is broken only by the sounds of nature. On the beach side, Pacific Ocean waves are ideal for swimming and relaxation. Geography K8",
+    "facts_en": ["Listed as a Ramsar site of international importance since 2014.", "Home to one of El Salvador's largest populations of American crocodiles.", "The coastline is a nesting site for four different species of sea turtles.", "The channel system at the estuary is navigable for over 10 kilometers."]
+  },
+  {
+    "id": "cerro-el-mono-nature-v2",
+    "desc_en": "Cerro El Mono (Monkey Hill) is a characteristic elevation on the Salvadoran coast in Usulután department, offering majestic views of Jiquilisco Bay and the Pacific Ocean. It was named after the howler monkeys that once lived here in large numbers and are still found in the dense tropical dry forests covering the hill. During the hike up the hill, visitors can learn about the region's diverse plant life and exotic bird species. The panorama from the summit is stunning, with the mangrove tangle, blue water, and silhouettes of distant volcanoes providing an unforgettable visual experience. Geography K7",
+    "facts_en": ["The hill is an important landmark for those sailing along the coast.", "Biological observations are regularly conducted in the forest reserve.", "The difficulty of the hiking trails is moderate, making them suitable for families.", "The sunrise from the summit is a special experience as light appears over the ocean."]
+  },
+  {
+    "id": "rio-sensunapan-nature-v2",
+    "desc_en": "The Sensunapán River is the life-giving source of Sonsonate department, originating in the western mountains and crossing the city of the same name. The river's history is closely intertwined with the region's development, as it has provided energy and water to mills and plantations since colonial times. Its banks are lined with lush gallery forests in some places and agricultural lands in others, creating a varied landscape. Numerous waterfalls and natural swimming spots are found along the river, popular among locals for weekend rest. Its water is also crucial for nearby irrigation systems. Geography K7",
+    "facts_en": ["The river is approximately 45 kilometers long.", "Its name comes from the indigenous Nahuatl language, meaning 'great water'.", "The 'Salto del Hippie' is one of the most famous waterfalls along the river.", "It plays an important role in regulating the region's microclimate."]
+  },
+  {
+    "id": "golfo-de-fonseca-nature-v2",
+    "desc_en": "The Gulf of Fonseca is one of Central America's most impressive and strategically important marine areas, shared by three countries: El Salvador, Honduras, and Nicaragua. This massive, protected body of water hides dozens of volcanic islands, each with its own story and unique wildlife. The gulf waters are generally calm and warm, providing an ideal environment for fishing and maritime transport. The coastline is segmented by mangrove forests and rocky capes, creating a highly diverse coastal ecosystem. Throughout history, the gulf served as a hiding place for pirates and the scene of naval battles. Geography K8",
+    "facts_en": ["The gulf covers an area of approximately 3,200 square kilometers.", "Most islands in the gulf are the peaks of extinct volcanoes.", "It is one of the best natural ports in the Eastern Pacific.", "Migrating whales and pods of dolphins are regularly seen here."]
+  },
+  {
+    "id": "isla-la-pirraya-nature-v2",
+    "desc_en": "La Pirraya Island is a tiny but proud community in the heart of Jiquilisco Bay, gaining world fame for its extraordinary sporting achievements. This island is the birthplace of El Salvador's national beach soccer team, where young people growing up on sandy shores learned the sport barefoot. The island's tropical environment, dense mangroves, and proximity to the sea define the daily lives of its residents, who mainly support themselves through fishing. Houses stand on stilts to protect them from the tide, creating a unique visual world. It is a symbol of perseverance and talent in El Salvador. Geography K7",
+    "facts_en": ["The island is an integral part of the Jiquilisco Bay Biosphere Reserve.", "Most members of the famous national beach soccer team come from this island.", "Transport to the mainland is exclusively by motorboat (lancha).", "Islanders use traditional, environmentally friendly fishing methods."]
+  },
+  {
+    "id": "cerro-nanahuatzin-nature-v2",
+    "desc_en": "Cerro Nanahuatzin is one of the most beautiful and mysterious mountain peaks in El Salvador's western highlands, forming part of the Apaneca-Ilamatepec range. It was named after a figure in Maya mythology, indicating the area's ancient spiritual significance. The mountain slopes are covered with dense cloud forests and extensive coffee plantations, which are important elements of the Route of Flowers. During the hike to the summit, the air becomes cooler and fresher, and the view becomes more magnificent with every turn. Rare birds like the quetzal or toucan may appear among the foliage. Geography K8",
+    "facts_en": ["The mountain's height exceeds 1,600 meters above sea level.", "The area is among the most important coffee-growing regions in the country.", "Fog is common at the summit, creating a unique microclimate.", "Numerous local legends are linked to the mountain's spirit and ancient power."]
+  },
+  {
+    "id": "playa-el-majahual-nature-v2",
+    "desc_en": "El Majahual is El Salvador's 'people's beach', the most popular and busiest coastal destination near San Salvador. This dark, volcanic sand beach comes to life every weekend and holiday as families and friends gather here to enjoy the sea and sun. Numerous ranchos and restaurants along the shore offer traditional Salvadoran food, from pupusas to fresh cocktails. The atmosphere is vibrant with music, children playing in the sand, and vendors offering exotic fruits. The waves here are moderate, ideal for swimming and for beginner surfers. It offers an authentic insight into Salvadoran popular culture. Geography K7",
+    "facts_en": ["The beach is the most famous point of the so-called 'Balsam Coast'.", "The sand color is due to the erosion of basaltic rocks.", "Most of the coastal ranchos have been family businesses for generations.", "During peak season, the beach section receives thousands of visitors daily."]
+  },
+  {
+    "id": "playa-san-diego-nature-v2",
+    "desc_en": "San Diego beach is one of the most elegant and peaceful coastal sections in the La Libertad department. Unlike neighboring rocky surf beaches, San Diego is famous for its long, wide, and relatively lighter sandy shore that stretches for kilometers. This location is perfect for those seeking undisturbed rest, long beach walks, and the quiet murmur of waves. Numerous private villas and comfortable resorts are found along the shore, offering discreet relaxation. The estuary area (bocana) at the end of the beach hides rich wildlife where river water meets the sea. Geography K7",
+    "facts_en": ["The beach length exceeds 7 kilometers, one of the longest on the western coast.", "The sand color here is less black than at Majahual, appearing more golden.", "Loud music is prohibited along the beach to preserve the site's tranquility.", "The area is a favorite nesting site for Olive Ridley sea turtles."]
+  }
+]

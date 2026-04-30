@@ -1,395 +1,577 @@
-
 import json
 
 data = {
-  "lang": "hu",
-  "files": [
-    "lib/visualLab/data/poiExtraRo2.ts"
-  ],
-  "items": [
-    {
-      "id": "agriculture-ferma-dacilor-extra",
-      "descriptionAdvanced": "A Prahova megyei Gura Vitioarei-ban található Ferma Dacilor egy agroturisztikai komplexum, amely a hagyományos román és dák örökség újjáélesztésére összpontosít. A komplexum nem csupán szálláshely, hanem egy élő gazdaság is, ahol őshonos állatfajtákat tenyésztenek és helyi, organikus alapanyagokból készült ételeket kínálnak. A vendégek megismerkedhetnek a vidéki élettel, részt vehetnek a gazdaság körüli teendőkben, és élvezhetik a természet közelségét. Az épületek tervezésekor a dák erődítmények stílusát idézték meg, modern komforttal ötvözve. A Ferma Dacilor célja, hogy bemutassa a fenntartható gazdálkodás és a kulturális hagyományok harmonikus egységét, egyedülálló élményt nyújtva a látogatóknak.",
-      "factsAdvanced": [
-        "A komplexum egy tragikus tűzeset után újjáépült, a közösségi összefogás jelképeként.",
-        "Az étterem kizárólag a farmon termesztett vagy helyi termelőktől származó alapanyagokat használ.",
-        "A területen több mint 70 állatfaj található, köztük lovak, szarvasmarhák és juhok.",
-        "A farmon lovaglási és íjászati lehetőségek is várják a vendégeket.",
-        "A szálláshelyek között dák kunyhókat idéző házak is találhatók.",
-        "A projekt célja a román vidéki turizmus és a helyi gazdaság fellendítése."
-      ]
+    "toronto-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Torontói Állatkert nem csupán Kanada legnagyobb ilyen jellegű intézménye, hanem globális szinten is kiemelkedő természetvédelmi központ. A több mint 287 hektáron elterülő park hét földrajzi régióra oszlik, ahol az állatok természetes élőhelyükhöz hasonló környezetben élnek. A látogatók bejárhatják az afrikai szavannát, az indo-maláj esőerdőt és a sarkvidéki Tundra Trek útvonalat is. Az állatkert különös hangsúlyt fektet a veszélyeztetett fajok, például a nyugati síkvidéki gorillák és a feketelábú görények védelmére és visszatelepítésére. A modern kifutók és az interaktív oktatási központok révén a családok testközelből ismerhetik meg a vadvilág titkait és a biodiverzitás fontosságát. Ez a helyszín szorosan kapcsolódik a K5-K8-as tanterv biológia és környezetismeret moduljaihoz, különösen az ökoszisztémák és az állati adaptációk vizsgálata során.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Területe meghaladja a 287 hektárt, amivel Kanada legnagyobb állatkertje.",
+                "Több mint 5000 állatnak ad otthont, amelyek 450 különböző fajt képviselnek.",
+                "Évente átlagosan 1,3 millió látogatót fogad a világ minden tájáról.",
+                "Hét különböző földrajzi zónára tagolódik a terület.",
+                "1974-ben nyitotta meg kapuit a látogatók előtt.",
+                "A Tundra Trek részleg egy 10 hektáros sarkvidéki bemutatóhely.",
+                "Több mint 10 kilométernyi sétaútvonal hálózza be a parkot.",
+                "A világ egyik legnagyobb beltéri gorilla-kifutójával rendelkezik."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-baneasa-zoo-extra",
-      "descriptionAdvanced": "A Bukarest északi részén, a Băneasa erdőben elterülő Bukaresti Állatkert (Grădina Zoologică București) Románia egyik legrégebbi és legnagyobb állatkertje. Több mint 5,8 hektáron terül el, és több mint 100 állatfajnak ad otthont a világ minden tájáról. Az állatkert fontos szerepet játszik a veszélyeztetett fajok védelmében és a környezeti nevelésben. A látogatók egzotikus állatokat, például tigriseket, oroszlánokat, elefántokat és különféle majomfajokat láthatnak, de a helyi fauna képviselői, mint a barna medve és a kárpáti hiúz is megtalálhatók. Az intézmény folyamatosan modernizálja a kifutókat és az élettereket, hogy az állatok számára a lehető legjobb körülményeket biztosítsa. A Băneasa Állatkert népszerű családi kirándulóhely, amely lehetőséget nyújt a természet megismerésére és a kikapcsolódásra.",
-      "factsAdvanced": [
-        "Az állatkertet 1955-ben alapították.",
-        "Több mint 800 egyednek ad otthont.",
-        "Az intézmény részt vesz az Európai Veszélyeztetett Fajok Programjában (EEP).",
-        "Az állatkertben egy kis planetárium is található.",
-        "A hópárduc és a szibériai tigris a legnépszerűbb lakók közé tartozik.",
-        "A park területe egy természetes erdő része, ami különleges hangulatot kölcsönöz neki."
-      ]
+    "calgary-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Calgary Állatkert Nyugat-Kanada egyik leglátogatottabb turisztikai célpontja, amely a Bow folyó szigetén, a város szívében fekszik. Az intézmény híres a 'Wilder Canada' részlegéről, ahol a kanadai vadvilág legikonikusabb képviselői, köztük grizzly medvék és bölények láthatóak. A látogatók egyik kedvence a Penguin Plunge, ahol négy különböző pingvinfaj éli mindennapjait. Az állatkert nemzetközileg elismert kutatómunkát végez a fajmegőrzés területén, különös tekintettel az észak-amerikai fajokra. A Prehistoric Park pedig élethű dinoszaurusz-modelljeivel repíti vissza a látogatókat az időben, bemutatva Alberta gazdag paleontológiai múltját. Az oktatási programok segítik a fenntarthatóság és a természetvédelem mélyebb megértését. A helyszín kiválóan alkalmas a K5-K8-as tanterv földrajzi és biológiai ismereteinek elmélyítésére, fókuszban az evolúcióval és az élőhelyek védelvével.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Kanada leglátogatottabb állatkertje, évente több mint 1,2 millió látogatóval.",
+                "Közel 1000 egyedet gondoznak, amelyek mintegy 119 fajhoz tartoznak.",
+                "1929-ben alapították, így az egyik legrégebbi ilyen intézmény az országban.",
+                "A park 30 hektáros területen, nagyrészt a St. George's-szigeten terül el.",
+                "A Penguin Plunge otthont ad királypingvineknek és szamárpingvineknek is.",
+                "A Prehistoric Parkban több mint 20 élethű dinoszaurusz-szobor látható.",
+                "Az állatkert több mint 35 millió dollárt fordít évente természetvédelmi célokra.",
+                "A botanikus kertjükben több mint 8000 növényfaj található."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-bm-zoo-extra",
-      "descriptionAdvanced": "A Nagybányai Állat- és Növénykert (Grădina Zoologică Baia Mare) egy kisebb, de hangulatos állatkert Máramaros megyében. Fő profilja a hazai fauna bemutatása, különös tekintettel a Kárpátok élővilágára. A látogatók találkozhatnak barna medvékkel, farkasokkal, hiúzokkal és vaddisznókkal, de számos madárfaj és hüllő is megtekinthető. Az állatkert fontos szerepet játszik a helyi oktatásban, rendszeresen szervez programokat iskolás csoportoknak. Bár mérete elmarad a nagyvárosi állatkertektől, családias légköre és a helyi fajokra való fókuszálása egyedivé teszi. A park folyamatosan fejlődik, célja, hogy modern, természetközeli élőhelyeket alakítson ki az állatok számára, miközben a régió természeti értékeire hívja fel a figyelmet.",
-      "factsAdvanced": [
-        "Az állatkert a városi park közelében, könnyen megközelíthető helyen található.",
-        "A gyűjteményben több mint 30 állatfaj képviselteti magát.",
-        "A park kiemelt figyelmet fordít a sérült vagy árva vadállatok mentésére és rehabilitációjára.",
-        "A belépőjegyek ára rendkívül kedvező, a helyi közösséget célozva.",
-        "Az állatkert szorosan együttműködik a Máramaros Megyei Múzeummal.",
-        "A park területe mindössze 1 hektár, így könnyen bejárható."
-      ]
+    "granby-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Granby Állatkert Québec tartomány legfontosabb állatkertje, amely egyedülálló módon ötvözi a vadvilági élményeket egy aquaparkkal és egy vidámparkkal. A park négy fő kontinens – Afrika, Dél-Amerika, Ázsia és Óceánia – élővilágát mutatja be lenyűgöző részletességgel. A látogatók láthatnak itt afrikai elefántokat, hópárducokat és különleges hüllőket is. Az intézmény büszke arra, hogy tagja az Állatkertek és Akváriumok Világszövetségének (WAZA), és aktívan részt vesz nemzetközi tenyészprogramokban. A nyári hónapokban az Amazoo vízipark nyújt felfrissülést, míg a téli szezonban a havas táj ad különleges keretet az állatok megfigyelésének. Az oktatási fókusz a globális biodiverzitás fenntartásán van. Ez a POI szervesen kapcsolódik a K5-K8-as tanterv természettudományos moduljaihoz, bemutatva a különböző éghajlati övek és az ott élő fajok kapcsolatát.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 225 állatfaj képviselteti magát a gyűjteményben.",
+                "Évente több mint 500 000 látogató keresi fel a komplexumot.",
+                "A park területe meghaladja a 24 hektárt.",
+                "1953-ben alapították, eredetileg magángyűjteményként.",
+                "Az Amazoo vízipark Kanada egyik legnagyobb tematikus aquaparkja.",
+                "Az állatkertben több mint 1500 egyed él.",
+                "A kutatási alapjuk több mint 15 különböző országban támogat projekteket.",
+                "A parkban 15 különböző hullámvasút és vidámparki játék található."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-ceala-extra",
-      "descriptionAdvanced": "Az Arad melletti Csála-erdő (Pădurea Ceala) egy fontos természeti terület, amely a Maros folyó árterén helyezkedik el. A Maros-ártér Natúrpark részeként szigorú védelem alatt áll. Az erdő gazdag és változatos élővilágnak ad otthont, különösen a madárpopulációja jelentős. Számos ritka és védett madárfaj, például fekete gólyák, rétisasok és jégmadarak fészkelnek itt. Az erdőben tanösvények segítik a látogatókat a helyi flóra és fauna megismerésében. A Csála-erdő nem egy hagyományos állatkert, hanem egy természetes élőhely, ahol az állatok szabadon élnek. Ezért a látogatóknak csendben és tisztelettel kell közlekedniük, hogy ne zavarják az élővilágot. A terület kiválóan alkalmas madármegfigyelésre, túrázásra és a természet csendjének élvezetére.",
-      "factsAdvanced": [
-        "A Maros-ártér Natúrpark területe több mint 17 000 hektár.",
-        "Az erdőben több mint 200 madárfajt figyeltek meg.",
-        "A terület a Natura 2000 európai ökológiai hálózat része.",
-        "A Csála-tó (Lacul Ceala) fontos pihenőhely a vonuló madarak számára.",
-        "Az erdőben őshonos fafajok, mint a tölgy és a kőris dominálnak.",
-        "A park igazgatósága rendszeresen szervez vezetett túrákat és oktatási programokat."
-      ]
+    "vancouver-aquarium-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Vancouveri Akvárium a festői Stanley Park szívében található, és Kanada legnagyobb ilyen jellegű intézménye. Ez nem csupán egy bemutatóhely, hanem globális vezető a tengerbiológiai kutatásokban és a tengeri emlősök mentésében. Az akvárium több mint 65 000 tengeri élőlénynek ad otthont, a színes trópusi halaktól a hatalmas csendes-óceáni polipokig. Különösen népszerű a tengeri vidrák mentőközpontja és az Amazonasi esőerdő-galéria. Az Ocean Wise kezdeményezés elindítójaként az intézmény kiemelt szerepet játszik a fenntartható tengeri élelmiszerek népszerűsítésében és az óceánok védelmében. Az interaktív medencék lehetővé teszik a látogatók számára, hogy közvetlen kapcsolatba kerüljenek a helyi vizek lakóival. A helyszín tökéletesen illeszkedik a K5-K8-as tanterv biológiai moduljaihoz, szemléltetve az óceáni ökoszisztémák működését és a környezetvédelmi felelősségvállalást.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 65 000 állat él a létesítményben.",
+                "Kanada első nyilvános akváriuma, amely 1956-ban nyílt meg.",
+                "A tengeri emlősmentő központ évente több mint 150 állaton segít.",
+                "A kiállítótér alapterülete meghaladja a 9 000 négyzetmétert.",
+                "Évente közel 1 millió látogatót vonz Vancouverbe.",
+                "A tengeri vidrák medencéje 2,5 millió liter vizet tartalmaz.",
+                "Az intézmény több mint 30 éve végez bálnakutatásokat a parton.",
+                "Az akvárium 120 különböző fajnak nyújt otthont a helyi vizekből."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-craiova-zoo-extra",
-      "descriptionAdvanced": "A Craiovai Állatkert a Nicolae Romanescu Parkban, Románia egyik legszebb közparkjában található. Ez az ország egyik legrégebbi állatkertje, amely egyedülálló módon egy történelmi parkba van integrálva. Az állatkert főként a hazai és európai fajokra összpontosít, de néhány egzotikus állat is helyet kapott, mint például a jaguár vagy a strucc. A látogatók barna medvéket, farkasokat, szarvasokat és különféle madarakat láthatnak természeteshez közeli környezetben. Az állatkert különlegessége a park romantikus tájépítészeti stílusával való harmonikus egysége. A hidakkal, tavakkal és régi épületekkel tarkított környezet egyedülálló élményt nyújt. Az intézmény célja a fajvédelem mellett a történelmi park értékeinek megőrzése is.",
-      "factsAdvanced": [
-        "Az állatkertet 1906-ban alapították, a Romanescu Parkkal együtt.",
-        "A Nicolae Romanescu Park aranyérmet nyert az 1900-as párizsi világkiállításon.",
-        "Az állatkertben egy kis természetrajzi múzeum is működik.",
-        "A parkban található egy függőhíd, amelyet Gustave Eiffel irodája tervezett.",
-        "Az állatkert területe körülbelül 2 hektár.",
-        "A jaguár az állatkert egyik legnépszerűbb és legértékesebb lakója."
-      ]
+    "ripleys-aquarium-canada-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Ripley's Akvárium Toronto belvárosában, a CN Tower szomszédságában található, és az egyik legmodernebb tengeri bemutatóhely Észak-Amerikában. A látogatók legemlékezetesebb élménye a 'Dangerous Lagoon', ahol egy 96 méter hosszú mozgó járdán haladva figyelhetik meg a fejük felett úszkáló cápákat és rájákat. Az akvárium kilenc különböző galériája a világ minden tájáról származó vízi élővilágot mutatja be, a Nagy-tavak halaitól a 'Planet Jellies' színpompás medúzáiig. Az oktatási programok nagy hangsúlyt fektetnek az állati viselkedésre és az akváriumi technológiák működésére. A színes fények és az interaktív kijelzők minden korosztály számára izgalmassá teszik a tanulást. A POI kiválóan kapcsolódik a K5-K8-as tanterv fizika és biológia óráihoz, különösen az optika, a vízi élőhelyek és a ragadozó-préda kapcsolatok témájában.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Összesen 5,7 millió liter víz található a medencékben.",
+                "Több mint 20 000 állatnak ad otthont a létesítmény.",
+                "A Dangerous Lagoon alagútja 96 méter hosszú.",
+                "450 különböző faj képviselteti magát az akváriumban.",
+                "A galéria alapterülete 13 500 négyzetméter.",
+                "2013 októberében nyitotta meg kapuit a nagyközönség előtt.",
+                "A Planet Jellies galéria a világ egyik legnagyobb medúza-kiállítása.",
+                "Naponta több mint 10 búvár bemutatót tartanak a látogatóknak."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-dolphinarium-ct-extra",
-      "descriptionAdvanced": "A Konstancai Delfinárium a Fekete-tenger partján, a Természettudományi Múzeumkomplexum részeként működik. Ez Románia egyetlen delfináriuma, amely évtizedek óta népszerű látványosság. A delfinárium fő attrakciói a palackorrú delfinek, amelyek látványos bemutatókon szórakoztatják a közönséget. A bemutatók nemcsak szórakoztatóak, hanem ismeretterjesztő jellegűek is, felhívva a figyelmet a tengeri élővilág védelmének fontosságára. A delfinek mellett fókabemutatókat is tartanak. A komplexumhoz tartozik egy planetárium és egy egzotikus madárkiállítás is, így egész napos programot kínál a családoknak. A delfinárium fontos szerepet játszik a Fekete-tenger ökológiai kutatásában és a tengeri emlősök védelmében.",
-      "factsAdvanced": [
-        "A delfináriumot 1972-ben nyitották meg, az első ilyen intézményként Délkelet-Európában.",
-        "Jelenleg három palackorrú delfin él az intézményben, Ukrajnából érkeztek.",
-        "A medence 1,5 millió liter tengervízzel van feltöltve.",
-        "A komplexum évente több százezer látogatót vonz.",
-        "A bemutatók során a delfinek intelligenciáját és ügyességét demonstálják.",
-        "A delfinárium részt vesz a sérült tengeri állatok mentésében."
-      ]
+    "african-lion-safari-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Az ontariói African Lion Safari egyedülálló szafari-élményt kínál, ahol a látogatók saját autójukkal vagy a park szafari-buszával hajthatnak át a hatalmas kifutókon. Itt az állatok – köztük oroszlánok, zsiráfok, zebrák és orrszarvúak – szabadon kószálnak a látogatók között, fordított állatkerti élményt nyújtva. A park kiemelkedő sikereket ért el a veszélyeztetett fajok, különösen az ázsiai elefántok és a fehér orrszarvúak tenyésztésében. A szafari mellett madárbemutatók, hajókirándulás és vonatozás is várja a családokat, így egész napos kikapcsolódást nyújt. Az oktatás során nagy hangsúlyt fektetnek az afrikai vadvilág megőrzésére és az ember-állat konfliktusok kezelésére. Ez a helyszín jól kapcsolódik a K5-K8-as tanterv biológia és etika moduljaihoz, bemutatva a nagytestű emlősök társas viselkedését és a globális természetvédelmi erőfeszítéseket.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A park területén több mint 1000 állat él szabadon.",
+                "Hét különböző szafari-zónán haladhatnak át a látogatók.",
+                "Az intézmény több mint 20 ázsiai elefántborjú születését segítette elő.",
+                "A park összterülete több mint 300 hektár.",
+                "Az 'African Queen' hajó egy 15 perces tavon tett körutat tesz.",
+                "A ragadozómadár-bemutatón több mint 25 különböző faj látható.",
+                "1969 óta üzemel családi vállalkozásként.",
+                "Évente több mint 500 000 látogató keresi fel a szafarit."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-drobeta-zoo-extra",
-      "descriptionAdvanced": "A Szörényvári Állatkert (Grădina Zoologică din Drobeta-Turnu Severin) egy kisebb állatkert a Duna partján. Bár gyűjteménye nem vetekszik a nagyvárosok állatkertjeivel, fontos helyi közösségi és oktatási szerepet tölt be. Az állatkertben elsősorban romániai fajok láthatók, mint a barna medve, a farkas és a vaddisznó, de néhány egzotikus faj, például oroszlánok és majmok is megtalálhatók. Az intézmény a Crihala erdő közelében fekszik, ami kellemes, zöld környezetet biztosít. Az elmúlt években több felújításon is átesett, hogy az állatok számára jobb körülményeket teremtsenek. A szörényvári állatkert ideális célpont egy családi délutánra, ahol a gyerekek megismerkedhetnek az állatvilággal.",
-      "factsAdvanced": [
-        "Az állatkertet az 1960-as években hozták létre.",
-        "A gyűjteményben körülbelül 40 faj több mint 200 egyede látható.",
-        "Az állatkert különösen büszke az oroszláncsaládjára.",
-        "A park területe nagyjából 2 hektár.",
-        "Az intézmény szorosan együttműködik a helyi iskolákkal.",
-        "A Duna közelsége egyedi lehetőségeket rejt a vízi élővilág bemutatására."
-      ]
+    "parc-omega-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Québecben található Omega Park (Parc Oméga) egy lenyűgöző vadaspark, amely Kanada északi féltekéjének élővilágát mutatja be hatalmas, természetes területen. A látogatók egy 12 kilométeres úton haladhatnak végig saját járművükkel, miközben szarvasokat, jávorszarvasokat és bölényeket láthatnak, sőt, sárgarépával közvetlenül az ablakból is etethetik őket. A parkban külön részleg foglalkozik a farkasokkal és feketemedvékkel, ahol biztonságos megfigyelőpontokról tanulmányozható a viselkedésük. Az Omega Park nemcsak az állatokról szól, hanem a kanadai történelemről és az őslakos kultúráról is, több tematikus sétaútvonalon keresztül. A téli időszakban a havas táj még varázslatosabbá teszi a látogatást. Ez a POI kiválóan illeszkedik a K5-K8-as tanterv történelem és biológia moduljaihoz, bemutatva Kanada őshonos fajait és az ember-természet kapcsolatát.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A szafari-út hossza 12 kilométer a parkon belül.",
+                "Területe több mint 890 hektárt foglal magában.",
+                "Több mint 20 különböző kanadai vadfaj él itt.",
+                "Évente mintegy 250 000 látogató érkezik a parkba.",
+                "A farkasfalka megfigyelőhelye 24 órás betekintést enged.",
+                "A parkban több mint 15 kilométernyi túraútvonal található.",
+                "Egész évben, minden nap nyitva tart, az időjárástól függetlenül.",
+                "A sárgarépa-fogyasztás csúcsidőben eléri a napi 500 kilogrammot."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-iasi-zoo-extra",
-      "descriptionAdvanced": "A Jászvásári Állatkert (Grădina Zoologică Iași) egy viszonylag új alapítású intézmény, amely a város repülőtere közelében található. Az állatkert modern koncepció alapján épült, tágas kifutókkal és természeteshez közeli élőhelyekkel. A gyűjtemény folyamatosan bővül, jelenleg több mint 30 faj, köztük szibériai tigrisek, medvék, zebrák és lámák láthatók itt. Az állatkert nagy hangsúlyt fektet az oktatásra és a fajvédelemre, rendszeresen szervez tematikus napokat és programokat. Különlegessége a nagy, nyitott területek, amelyek lehetővé teszik az állatok számára a szabadabb mozgást. A jászvásári állatkert a moldvai régió egyik legdinamikusabban fejlődő turisztikai látványossága, amely a modern állatkert-tervezés elveit követi.",
-      "factsAdvanced": [
-        "Az állatkertet 2005-ben nyitották meg a nagyközönség számára.",
-        "A park területe több mint 12 hektár.",
-        "A gyűjteményben megtalálható a ritka fehér teve is.",
-        "Az állatkert egy lovasközponttal is rendelkezik, ahol lovaglásra van lehetőség.",
-        "A parkban egy nagy játszótér és piknikező hely is várja a családokat.",
-        "A fejlesztési tervek között szerepel egy afrikai szavanna kifutó létrehozása."
-      ]
+    "saskatoon-forestry-farm-park-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Saskatoon-i Erdészeti Farm Park és Állatkert Saskatchewan tartomány egyik legfontosabb közösségi és oktatási központja. A helyszín eredetileg faiskolaként indult a 20. század elején, amely több millió fát biztosított a préri fásításához. Ma az állatkert az északi préri és a kanadai boreális erdők őshonos állataira összpontosít, bemutatva olyan fajokat, mint a grizzly medve, a szürke farkas és a havasi bagoly. A gyönyörűen gondozott kertek és a történelmi épületek pihentető környezetet nyújtanak a tanuláshoz. Az intézmény aktívan részt vesz a feketelábú görények visszatelepítési programjában. A POI szorosan kapcsolódik a K5-K8-as tanterv mezőgazdasági és ökológiai ismereteihez, különös tekintettel a fásítás jelentőségére és a préri élővilágának megőrzésére.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A park 1913-ban kezdte meg működését faiskolaként.",
+                "1966-ban nyilvánították Nemzeti Történelmi Emlékhellyé.",
+                "Több mint 80 különböző állatfaj él az állatkertben.",
+                "A területén több mint 147 hektárnyi parkerdő található.",
+                "Működése alatt több mint 147 millió facsemetét osztott szét.",
+                "Évente átlagosan 150 000 látogatót fogad.",
+                "A parkban egy 1,5 hektáros halastó is található.",
+                "Ingyenes a belépés a téli szezon nagy részében."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-libearty-zarnesti-extra",
-      "descriptionAdvanced": "A zernyesti Libearty Medve Menedékhely (Sanctuarul de Urși Libearty) a világ legnagyobb barna medvék számára létrehozott menedékhelye. A több mint 69 hektáros tölgyerdőben közel 100 medve él, akiket fogságból mentettek ki. Ezek az állatok korábban cirkuszokban, éttermek melletti ketrecekben vagy magánszemélyeknél sínylődtek méltatlan körülmények között. A menedékhelyen lehetőségük van újra felfedezni természetes ösztöneiket: fáramászhatnak, fürödhetnek a tavakban és társaikkal játszhatnak. A látogatók vezetett túrákon vehetnek részt, ahol megismerhetik a medvék történetét és a menedékhely munkáját. A Libearty nem állatkert, hanem egy valódi menedék, ahol a bántalmazott állatok békére lelhetnek. A projekt az állatvédelem és a felelős állattartás fontosságára hívja fel a figyelmet.",
-      "factsAdvanced": [
-        "A menedékhelyet Cristina Lapis alapította a Millions of Friends Association (AMP) keretében.",
-        "Az első medvét, Maiát 2005-ben mentették meg.",
-        "A menedékhely a World Society for the Protection of Animals (WSPA) támogatásával jött létre.",
-        "A területen egy farkasoknak szánt menedékhely is található.",
-        "A látogatás csak előre meghatározott időpontokban, csoportosan lehetséges.",
-        "A projektet számos nemzetközi híresség, köztük Brigitte Bardot is támogatta."
-      ]
+    "assiniboine-park-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A winnipegi Assiniboine Park Állatkert nemzetközi hírnevét a díjnyertes 'Journey to Churchill' kiállításának köszönheti. Ez a világ egyik legátfogóbb sarkvidéki bemutatója, ahol a látogatók egy víz alatti alagútban állva figyelhetik meg a fejük felett úszkáló jegesmedvéket és fókákat. Az állatkert küldetése a klímaváltozás hatásainak bemutatása és az északi fajok védelme. A parkban külön részleg foglalkozik az ázsiai és dél-amerikai fajokkal is, de a hangsúly a kanadai vadvilágon van. Az oktatási központ interaktív módon mutatja be a sarkvidéki kutatásokat és a fenntartható életmód fontosságát. Ez a helyszín kulcsfontosságú a K5-K8-as tanterv környezetvédelmi és földrajzi tanulmányaihoz, fókuszban az arktikus ökoszisztémák sérülékenységével és a globális felmelegedéssel.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A Journey to Churchill kiállítás 4 hektáros területen fekszik.",
+                "Több mint 180 állatfaj él az állatkert területén.",
+                "Az állatkert területe összesen 32 hektár.",
+                "Évente több mint 400 000 látogató keresi fel.",
+                "Itt található Kanada egyetlen jegesmedve-mentő központja.",
+                "Az akvárium alagútja 10 méter hosszú víz alatti kilátást nyújt.",
+                "Több mint 50 állandó alkalmazott foglalkozik az állatokkal.",
+                "Az intézményt 1904-ben alapították, Winnipeg legrégebbi parkjaként."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-ms-zoo-extra",
-      "descriptionAdvanced": "A Marosvásárhelyi Állatkert (Grădina Zoologică Târgu Mureș) Románia legnagyobb és legmodernebb állatkertje. A Somostetőn, egy 40 hektáros erdős területen fekszik, ami lehetővé teszi a tágas, természetes kifutók kialakítását. Az állatkert több mint 120 faj mintegy 800 egyedének ad otthont. Különösen büszkék a nagymacska-, medve- és majomgyűjteményükre. Az elmúlt években jelentős európai uniós forrásokból újult meg, modern pavilonok épültek, mint például az elefántház és a zsiráfház. Az intézmény nagy hangsúlyt fektet a látogatói élményre: a parkban kisvasút, játszóterek és egy 3D-s mozi is található. A marosvásárhelyi állatkert nemzetközi szinten is elismert, és fontos szerepet játszik a régió turizmusában és a környezeti nevelésben.",
-      "factsAdvanced": [
-        "Az állatkertet 1964-ben alapították.",
-        "Ez az egyetlen állatkert Romániában, ahol elefántok és zsiráfok is élnek.",
-        "A felújítások során több mint 10 millió eurót fektettek be.",
-        "A parkban egy külön rész mutatja be a Kárpátok élővilágát.",
-        "Az állatkert a European Association of Zoos and Aquaria (EAZA) tagja.",
-        "A kisvasút pályája 2,5 km hosszú és a park legfontosabb részeit érinti."
-      ]
+    "edmonton-valley-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Az Edmonton Valley Zoo egy barátságos és családias állatkert az Észak-Saskatchewan folyó völgyében, amely az állatok jóllétére és az interaktív tanulásra összpontosít. A park különlegessége az 'Urban Farm', ahol a gyerekek közvetlen kapcsolatba kerülhetnek a háztáji állatokkal, és tanulhatnak a felelős állattartásról. Az állatkert olyan különleges fajoknak ad otthont, mint a vörös panda, a hópárduc és Lucy, az ázsiai elefánt. A létesítmény folyamatosan modernizálódik, új, természetközeli kifutókat építve a sarkvidéki mormotáknak és más őshonos fajoknak. Az oktatási programok célja a természet iránti szeretet és tisztelet kialakítása már fiatal korban. Ez a POI jól kapcsolódik a K5-K8-as tanterv biológia és etika óráihoz, hangsúlyozva az állatkertek szerepét a fajmegőrzésben és az oktatásban.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 350 állat él az állatkertben.",
+                "Évente átlagosan 300 000 látogatót fogad az intézmény.",
+                "A park területe mintegy 19 hektár.",
+                "1959-ben nyitotta meg kapuit eredetileg 'Storyland Valley Zoo' néven.",
+                "Több mint 100 különböző faj képviselteti magát.",
+                "A téli időszakban a 'Zoominesence' fényfesztiválnak ad otthont.",
+                "Az oktatási programokban évente 20 000 diák vesz részt.",
+                "Az állatkertben 4 fő földrajzi zónát alakítottak ki."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-oradea-zoo-extra",
-      "descriptionAdvanced": "A Nagyváradi Állatkert (Grădina Zoologică Oradea) egyike Románia legrégebbi állatkertjeinek, amely az elmúlt években teljes megújuláson esett át. A modernizációnak köszönhetően az állatok tágasabb, természetesebb környezetbe kerültek, és a látogatói élmény is jelentősen javult. A park több mint 100 fajnak ad otthont, köztük szibériai tigriseknek, hópárducoknak, oroszlánoknak és különféle majomfajoknak. Az állatkert különös figyelmet fordít a veszélyeztetett fajok tenyésztésére és a környezeti nevelésre. A felújított pavilonok, a tágas kifutók és a gondozott zöld területek vonzó célponttá teszik a családok számára. A nagyváradi állatkert a város dinamikus fejlődésének egyik szimbóluma, amely a történelmi hagyományokat a modern állatkertészeti elvekkel ötvözi.",
-      "factsAdvanced": [
-        "Az állatkertet 1962-ben alapították.",
-        "A felújítási projekt értéke meghaladta a 4 millió eurót.",
-        "A park területe 7 hektárra bővült.",
-        "Az állatkert büszkesége a ritka hópárduc tenyészpár.",
-        "A modernizálás során új oktatási központ és karantén épület is létesült.",
-        "Az állatkert a város központi részén, a Salca park közelében található."
-      ]
+    "magnetic-hill-zoo-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A monctoni Magnetic Hill Állatkert Atlanti-Kanada legnagyobb állatkertje, amely nevét a közeli, optikai csalódásáról híres Magnetic Hill-ről kapta. A park több mint 600 állatnak ad otthont, köztük olyan egzotikus ragadozóknak, mint az amuri tigris és az oroszlán. Az állatkert különös figyelmet fordít az oktatásra és a fajmegőrzésre, tagja a nemzetközi fajmegőrzési hálózatnak. A látogatók bejárhatják az afrikai, ázsiai és amerikai kontinensek élővilágát bemutató részlegeket, és részt vehetnek az állatetetéseken is. A 'Discovery Centre' interaktív kiállításai segítik a gyerekeket a biológiai ismeretek elmélyítésében. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv természettudományos moduljaihoz, bemutatva az állatvilág sokszínűségét és a globális ökoszisztémák összefüggéseit.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 600 állat él a 16 hektáros területen.",
+                "Atlanti-Kanada leglátogatottabb állatkertje, 200 000 látogatóval évente.",
+                "1953-ban alapították egy kis vadasparkként.",
+                "Több mint 75 különböző állatfaj található meg itt.",
+                "Az amuri tigriseknek egy speciális, modern kifutót építettek.",
+                "A parkban egy népszerű állatsimogató is működik.",
+                "Évente több mint 10 000 iskolás vesz részt a kihelyezett órákon.",
+                "Az állatkert 5 díjat nyert el az állatjóléti programjaiért."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-pitesti-zoo-extra",
-      "descriptionAdvanced": "A Pitești-i Állatkert (Grădina Zoologică Pitești) a Trivale erdőben, egy festői természeti környezetben található. Az állatkert főként a romániai fauna bemutatására szakosodott, de számos egzotikus faj is megtalálható itt. A látogatók megcsodálhatják a Kárpátok jellegzetes ragadozóit, mint a medvét, a farkast és a hiúzt, de láthatnak majmokat, medvebarát fókákat és különféle madarakat is. Az állatkert az elmúlt években több fejlesztésen is átesett, hogy az állatok tartási körülményei javuljanak. A Trivale erdő közelsége miatt a park egy nagyobb rekreációs övezet része, ahol a családok a természetben tölthetik szabadidejüket. A pitești-i állatkert fontos szerepet játszik a helyi közösség életében, népszerű kirándulóhely és a környezeti nevelés központja.",
-      "factsAdvanced": [
-        "Az állatkertet 1950-ben hozták létre.",
-        "A park egy 3 hektáros területen fekszik a Trivale erdőben.",
-        "A gyűjteményben több mint 50 faj képviselteti magát.",
-        "Az állatkertben egy kis természetrajzi múzeum is berendezésre került.",
-        "A parkban rendszeresen szerveznek oktatási programokat a helyi iskoláknak.",
-        "Az állatkert könnyen megközelíthető a városközpontból."
-      ]
+    "pei-potato-farming-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Prince Edward-sziget (PEI) nemzetközileg híres burgonyatermesztéséről, amelyet a sziget jellegzetes, magas vastartalmú vörös talaja tesz lehetővé. Ez a mezőgazdasági ágazat a tartomány gazdaságának gerince, hiszen PEI biztosítja Kanada teljes burgonyatermelésének mintegy egynegyedét. A termesztés során modern technológiákat alkalmaznak a talaj védelme és a fenntarthatóság érdekében. A látogatók a Kanadai Burgonya Múzeumban ismerhetik meg a növény történetét és a gazdálkodás fejlődését. Az aratás idején a sziget tájképe lenyűgöző látványt nyújt a végtelen mezőkkel és a munkagépekkel. Ez a helyszín szorosan kapcsolódik a K5-K8-as tanterv földrajzi és gazdasági ismereteihez, bemutatva a talajtan, az éghajlat és az élelmiszeripar közötti szoros összefüggéseket.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A sziget Kanada teljes burgonyatermelésének 25%-át adja.",
+                "Évente több mint 80 000 hektáron termesztenek burgonyát PEI-n.",
+                "Több mint 330 burgonyafarm működik a tartományban.",
+                "A burgonyatermesztés több mint 1 milliárd dollárt ad a helyi gazdasághoz.",
+                "A sziget jellegzetes vörös talaja rendkívül gazdag vasban.",
+                "Évente több mint 2,5 milliárd kilogramm burgonyát takarítanak be.",
+                "Több mint 30 különböző burgonyafajtát termesztenek kereskedelmi céllal.",
+                "A sziget burgonyaexportja több mint 30 országba jut el."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-sibiu-zoo-extra",
-      "descriptionAdvanced": "A Nagyszebeni Állatkert (Grădina Zoologică Sibiu) Románia legrégebbi állatkertje, amely a Dumbrava erdőben, a Szabadtéri Néprajzi Múzeum (ASTRA) közelében található. Az állatkert 1929-es alapítása óta folyamatosan fejlődik, és ma már az ország egyik legszebb állatkertjeként tartják számon. A több mint 20 hektáros területen az állatok tágas, erdős kifutókban élnek. A gyűjteményben a hazai fajok mellett olyan egzotikus állatok is megtalálhatók, mint a fehér oroszlán, a jaguár, a zebrák és a lámák. Az állatkert különlegessége a három tó, amelyek a parkon keresztül kanyarognak, és számos vízimadárnak adnak otthont. A nagyszebeni állatkert nemcsak egy turisztikai látványosság, hanem egy fontos fajvédelmi és oktatási központ is, amely a természet szeretetére nevel.",
-      "factsAdvanced": [
-        "Az állatkertet 1929-ben alapította az "Uzina Electrică Sibiu" egy mérnöke.",
-        "Ez volt az első állatkert Romániában.",
-        "A fehér oroszlánok érkezése országos szenzációnak számított.",
-        "Az állatkertben csónakázásra is van lehetőség a tavakon.",
-        "A parkban egy különleges, ritka fehér szarvas is él.",
-        "Az állatkert évente több mint 200 000 látogatót fogad."
-      ]
+    "niagara-icewine-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Niagara-régió a világ jégbor-fővárosa, ahol a különleges mikroklíma lehetővé teszi ennek az édes desszertbornak a készítését. A jégbor különlegessége, hogy a szőlőszemeket akkor szüretelik, amikor a hőmérséklet -8°C alá süllyed, így a bogyókban lévő víz megfagy, és csak a sűrű, cukorban gazdag lé kinyerhető. Ez az eljárás nagy kockázattal jár, és kevés nedűt eredményez, ami a jégbort igazi luxustermékké teszi. Ontario tartomány szigorú szabályozással (VQA) garantálja a minőséget. A borászatok látogatása és az éves Jégbor Fesztivál a kanadai tél egyik legnépszerűbb eseménye. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv kémiai és földrajzi moduljaihoz, bemutatva a halmazállapot-változásokat és a helyi éghajlat gazdasági hatásait.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Kanada a világ legnagyobb jégbortermelője.",
+                "A szüretet törvényileg legalább -8°C-os hőmérsékleten kell végezni.",
+                "Egy üveg jégborhoz tízszer annyi szőlő kell, mint a hagyományos borhoz.",
+                "A Niagara-félszigeten több mint 50 borászat készít jégbort.",
+                "A cukortartalom eléri a 35-45 brix fokot a préseléskor.",
+                "Az éves Jégbor Fesztivál januárban három hétig tart.",
+                "A kanadai jégbor exportjának 80%-a Ázsiába irányul.",
+                "A leggyakrabban használt fajták a Vidal Blanc és a Rajnai Rizling."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-sm-zoo-extra",
-      "descriptionAdvanced": "A Szatmárnémeti Állatkert (Grădina Zoologică Satu Mare) a város egyik kedvelt zöldövezetében, a Szamos folyó közelében található. Bár mérete kisebb, fontos szerepet tölt be a helyi közösség életében. Az állatkert gyűjteménye változatos, a hazai vadállatoktól kezdve az egzotikus fajokig. A látogatók láthatnak medvéket, farkasokat, majmokat és számos madárfajt. Az intézmény az elmúlt években komoly erőfeszítéseket tett a modernizálásra, új kifutókat építettek és az állatok tartási körülményeit javították. Az állatkert rendszeresen ad otthont rendezvényeknek és oktatási programoknak, amelyek célja a környezettudatosság növelése. A szatmárnémeti állatkert egy kellemes hely a családi kikapcsolódásra és az állatvilág megismerésére.",
-      "factsAdvanced": [
-        "Az állatkertet az 1970-es években hozták létre.",
-        "A park területe körülbelül 2,5 hektár.",
-        "A gyűjteményben közel 40 faj több száz egyede található.",
-        "Az állatkertben egy kis állatsimogató is működik a gyerekek számára.",
-        "A fejlesztések során a hangsúly a tágasabb, természetesebb kifutókra került.",
-        "Az intézmény szorosan együttműködik a helyi iskolákkal és civil szervezetekkel."
-      ]
+    "prairie-canola-fields-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A kanadai préri, különösen Saskatchewan és Alberta tartományok, nyáron ragyogó sárga színbe öltöznek a virágzó repceföldeknek köszönhetően. A repce Kanada egyik legfontosabb mezőgazdasági exportcikke, amelyet étkezési olaj, állati takarmány és biodízel készítésére használnak. Érdekesség, hogy a 'canola' elnevezés a 'Canadian oil, low acid' szavakból ered, mivel ezt a speciális változatot kanadai tudósok nemesítették ki az 1970-es években. A repceföldek nemcsak gazdasági jelentőségűek, hanem lenyűgöző vizuális élményt is nyújtanak a végtelen horizonton. A modern mezőgazdasági technológia révén Kanada a világ vezető repceexportőre lett. Ez a helyszín jól kapcsolódik a K5-K8-as tanterv biológiai és gazdasági ismereteihez, bemutatva a növénynemesítést és a globális kereskedelmi láncokat.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Kanada a világ legnagyobb repceolaj-exportőre.",
+                "Évente mintegy 20 millió tonna repcét termelnek az országban.",
+                "A repceágazat több mint 250 000 munkahelyet tart fenn Kanadában.",
+                "A canola nevet 1978-ban jegyezték be védjegyként.",
+                "Egyetlen repcemag mintegy 44% olajat tartalmaz.",
+                "A kanadai repceföldek összterülete meghaladja a 20 millió holdat.",
+                "A repcetermelés évente 26 milliárd dollárral járul hozzá a gazdasághoz.",
+                "A repcevirágzás júliustól augusztus elejéig tart."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-targoviste-zoo-extra",
-      "descriptionAdvanced": "A Târgoviștei Állatkert a Chindia Park komplexum része, a híres Chindia torony közelében. Ez az egyik legrégebbi állatkert az országban, amely egyedülálló történelmi környezetben helyezkedik el. Az állatkert gyűjteménye változatos, a Kárpátok vadvilágától kezdve a világ más részeiről származó egzotikus állatokig. A látogatók találkozhatnak barna medvékkel, szibériai tigrisekkel, oroszlánokkal és számos majomfajjal. Az állatkert az elmúlt években jelentős felújításon esett át, modernizálták a kifutókat és javították az állatok életkörülményeit. A történelmi környezet, a Chindia Park zöld területei és az állatkert együttesen komplex turisztikai élményt nyújtanak, összekapcsolva a történelmet, a kultúrát és a természetet.",
-      "factsAdvanced": [
-        "Az állatkert a fejedelmi udvar egykori állatseregletének helyén jött létre.",
-        "A parkban egy természetrajzi múzeum is működik.",
-        "Az állatkertet hivatalosan 1970-ben nyitották meg.",
-        "A gyűjteményben több mint 80 faj képviselteti magát.",
-        "A felújítások során egy új medve- és egy tigriskifutó is épült.",
-        "Az állatkert a város egyik leglátogatottabb turisztikai célpontja."
-      ]
+    "fraser-valley-blueberries-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A brit-kolumbiai Fraser-völgy a világ egyik legjelentősebb áfonyatermelő vidéke, ahol az enyhe éghajlat és a savas talaj ideális feltételeket biztosít a fürtös áfonya számára. A völgyben több száz családi gazdaság működik, amelyek friss és fagyasztott áfonyával látják el a világpiacot. A nyári hónapokban a látogatók 'Szedd magad!' farmokon gyűjthetik be a vitamindús bogyókat, ami népszerű családi program. Az áfonya nemcsak finom, hanem rendkívül egészséges is, magas antioxidáns-tartalma miatt. A helyi gazdák fenntartható vízgazdálkodással és integrált növényvédelemmel védik a környezetet. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv egészségtan és földrajz moduljaihoz, bemutatva az egészséges táplálkozást és a specializált mezőgazdasági régiók kialakulását.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A Fraser-völgyben évente több mint 70 millió kilogramm áfonyát termelnek.",
+                "Brit Kolumbia adja Kanada teljes áfonyatermésének több mint 90%-át.",
+                "Több mint 600 áfonyatermelő család él a régióban.",
+                "Az áfonyatermesztés területe meghaladja a 11 000 hektárt a völgyben.",
+                "A szezon júliustól szeptember végéig tart.",
+                "Kanada a világ harmadik legnagyobb áfonyatermelője.",
+                "Az áfonyaexport értéke meghaladja az évi 200 millió dollárt.",
+                "Egyetlen áfonyabokor akár 30-40 évig is teremhet."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-tm-zoo-extra",
-      "descriptionAdvanced": "A Temesvári Állatkert (Grădina Zoologică Timișoara) a város északi részén, a Zöld Erdőben (Pădurea Verde) található. Az állatkert egyike a legújabb és legmodernebb ilyen intézményeknek Romániában. A parkot azzal a céllal tervezték, hogy az állatoknak tágas, természetes élőhelyeket biztosítsanak. A gyűjtemény folyamatosan bővül, és a világ minden tájáról származó fajokat mutat be, beleértve a nagymacskákat, majmokat, medvéket és számos madárfajt. Az állatkert nagy hangsúlyt fektet a látogatók oktatására, interaktív táblák és programok segítségével. A Zöld Erdőben való elhelyezkedése miatt a park egy nagyobb rekreációs zóna része, ahol a látogatók a természetben pihenhetnek. A temesvári állatkert a modern állatkertészet példája, ahol az állatok jóléte és a fajvédelem áll a középpontban.",
-      "factsAdvanced": [
-        "Az új állatkertet 2007-ben nyitották meg.",
-        "A park több mint 6 hektáron terül el.",
-        "Az állatkertben egy különleges éjszakai állatok háza is található.",
-        "A fejlesztések során egy afrikai szavannát imitáló kifutót is létrehoztak.",
-        "Az intézmény aktívan részt vesz nemzetközi tenyészprogramokban.",
-        "A parkban egy lovaglópálya és egy állatsimogató is várja a gyerekeket."
-      ]
+    "annapolis-valley-apples-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Az új-skóciai Annapolis-völgy évszázadok óta az atlanti-kanadai almatermesztés központja. A völgyet a tenger közelsége védi a szélsőséges fagyoktól, a termékeny talaj pedig kiváló minőségű almát terem. Több tucat fajtát termesztenek itt, a klasszikus McIntosh-tól a modern Honeycrisp-ig. Az almatermesztés mélyen gyökerezik a helyi kultúrában, amit az évente megrendezett Almavirág Fesztivál is ünnepel. A látogatók ősszel közvetlenül a termelőktől vásárolhatnak, vagy részt vehetnek az almaszüreteken. Az ágazat ma már nemcsak friss gyümölcsöt, hanem kiváló minőségű cider készítését is magában foglalja. Ez a POI szervesen kapcsolódik a K5-K8-as tanterv történelem és biológia óráihoz, bemutatva a telepesek mezőgazdasági örökségét és a növények életciklusát.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A völgyben évente több mint 40 millió kilogramm almát takarítanak be.",
+                "Több mint 40 különböző almafajtát termesztenek a régióban.",
+                "Az első almafákat még az 1600-as években ültették az akádiai telepesek.",
+                "Az Almavirág Fesztivál 1933 óta létezik.",
+                "A tartományban több mint 80 kereskedelmi almafarm működik.",
+                "Az almaágazat több mint 1000 embert foglalkoztat a szezonban.",
+                "Az Annapolis-völgy biztosítja Új-Skócia almatermésének 90%-át.",
+                "A Honeycrisp fajta a régió legjövedelmezőbb exportcikke lett."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "animal-habitat-vivarium-bc-extra",
-      "descriptionAdvanced": "A Bákói Vivárium a helyi Természettudományi Múzeum részeként működik, és egyedülálló élményt kínál a látogatóknak. Nem egy hagyományos állatkert, hanem egy speciális gyűjtemény, amely főként hüllőkre, kétéltűekre, halakra és kisemlősökre összpontosít. A viváriumban a világ minden tájáról származó egzotikus fajok, például kígyók, gyíkok, teknősök, valamint trópusi halak láthatók. Az intézmény fontos oktatási szerepet tölt be, segítve a diákokat és a nagyközönséget, hogy megismerjék ezeket a gyakran félreértett állatokat. A terráriumok és akváriumok szakszerűen vannak berendezve, utánozva az állatok természetes élőhelyét. A bákói vivárium egy kis ékszerdoboz, amely bepillantást enged a hüllők és a vízi élőlények lenyűgöző világába.",
-      "factsAdvanced": [
-        "A vivárium a Vasile Alecsandri Természettudományi Múzeumkomplexum része.",
-        "A gyűjteményben több mint 60 faj található.",
-        "Itt látható Románia egyik legnagyobb egzotikus hüllőgyűjteménye.",
-        "Az intézmény rendszeresen szervez kiállításokat és tematikus előadásokat.",
-        "A vivárium fontos szerepet játszik a veszélyeztetett helyi hüllőfajok védelmében is.",
-        "A belépőjegy kombinálható a múzeum többi kiállításának megtekintésével."
-      ]
+    "pacific-salmon-run-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A csendes-óceáni lazacvonulás a természet egyik legdrámaibb eseménye Brit Kolumbiában. Minden év őszén lazacok milliói térnek vissza az óceánból szülőfolyóikba, hogy ott lerakják ikráikat, majd életüket áldozzák az új generációért. Ez a hatalmas vándorlás nemcsak a biológiai túlélésről szól, hanem az egész ökoszisztéma motorja, hiszen táplálékot biztosít a medvéknek, sasoknak és a talajnak is. Az Adams-folyó az egyik legjobb helyszín a vörös lazacok megfigyelésére, ahol a víz vörösre színeződik a halak tömegétől. A lazacvonulás az őslakos kultúrák számára is szent esemény. Ez a helyszín tökéletesen illeszkedik a K5-K8-as tanterv biológia és ökológia moduljaihoz, szemléltetve az élethálózatok összefüggéseit és az állati vándorlás ösztöneit.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A lazacok akár 1000 kilométert is úszhatnak az árral szemben.",
+                "Öt fő csendes-óceáni lazacfaj létezik: király, kutyalazac, ezüst, vörös és rózsaszín.",
+                "Négyévente fordul elő a 'domináns' év, amikor a legtöbb hal tér vissza.",
+                "Az Adams-folyóban csúcsévben több mint 10 millió lazac is ívhat.",
+                "A lazacok szaglásuk alapján találják meg pontosan azt a patakot, ahol születtek.",
+                "A medvék a kifogott lazacoknak csak a leggazdagabb részeit eszik meg.",
+                "Az ívás után a lazacok 100%-a elpusztul, táplálva az erdő talaját.",
+                "A lazacvonulás több mint 130 különböző állatfaj számára nyújt táplálékot."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "forest-letea-extra",
-      "descriptionAdvanced": "A Letea-erdő a Duna-delta északi részén, a Chilia-ág és a Sulina-ág között elterülő homokdűnéken található, és Európa legdélibb szubtrópusi jellegű erdeje. Ez a különleges ökoszisztéma szigorúan védett természeti rezervátum, a Duna-delta Bioszféra Rezervátum része. Az erdőt a homokdűnék között kanyargó, fűzfákkal és nyárfákkal szegélyezett ágak teszik egyedivé. A fákra liánok és vadszőlő tekeredik, ami dzsungelszerű hangulatot kölcsönöz a tájnak. Az erdő ad otthont a híres vadlovaknak, amelyek évszázadok óta élnek itt szabadon. A területen számos ritka növény- és állatfaj is megtalálható. A Letea-erdő csak szervezett túrák keretében, vezetővel látogatható, hogy megóvják ezt a törékeny és egyedülálló ökoszisztémát.",
-      "factsAdvanced": [
-        "A Letea-erdő 1938 óta védett terület.",
-        "Ez a legrégebbi természeti rezervátum Romániában.",
-        "Az itt élő vadlovak pontos eredete vitatott, valószínűleg a helyi lakosok által elengedett lovak leszármazottai.",
-        "Az erdőben több mint 500 növényfajt és 3000 állatfajt azonosítottak.",
-        "A homokdűnék magassága elérheti a 12 métert is.",
-        "Az erdő az UNESCO Világörökség része a Duna-deltával együtt."
-      ]
+    "gwaii-haanas-marine-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Gwaii Haanas Nemzeti Park Rezervátum a brit-kolumbiai Haida Gwaii-szigetek déli részén fekszik, és a világ egyik leggazdagabb tengeri ökoszisztémája. A területet gyakran az 'északi Galápagosként' emlegetik különleges biodiverzitása miatt. Itt a látogatók hosszúszárnyú bálnákat, kardszárnyú delfineket és Steller-oroszlánfókákat láthatnak természetes környezetükben. A tengeri madarak, például az üstökös lunda és a vándorsólyom számára is kiemelt fontosságú fészkelőhely. A Haida őslakosok szoros kapcsolatban élnek az óceánnal, és részt vesznek a terület közös kezelésében. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv földrajzi és biológiai moduljaihoz, bemutatva a tengeri védett területek jelentőségét és a biodiverzitás megőrzésének kihívásait.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A park területének több mint 15%-a tengeri védett övezet.",
+                "Több mint 20 bálna- és delfinfaj fordul meg a vizekben.",
+                "Itt fészkel Kanada tengeri madárpopulációjának mintegy 25%-a.",
+                "A Steller-oroszlánfókák kolóniái több ezer egyedet számlálnak.",
+                "A víz alatti erdőkben a hínár akár 60 méter magasra is megnőhet.",
+                "A park csak hajóval vagy hidroplánnal közelíthető meg.",
+                "Több mint 3500 tengeri állatfajt azonosítottak a régióban.",
+                "A Haida Watchmen program biztosítja a kulturális és természeti felügyeletet."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-aerostar-bacau-extra",
-      "descriptionAdvanced": "Az Aerostar Bacău a romániai repülőgépipar és védelmi ipar zászlóshajója, egy világszerte elismert partner a repülőgép-karbantartás és alkatrészgyártás területén. A több mint 70 éves múltra visszatekintő vállalat egy állami gyárból fejlődött modern, csúcstechnológiai központtá. Az Aerostar az MRO (karbantartás, javítás, nagyjavítás) üzletágra specializálódott, mind polgári utasszállítók, mint az Airbus A320 család és a Boeing 737, mind a román katonai légiflotta, különösen az F-16-os vadászgépek esetében. A nagy pontosságú gyártórészleg komplex alkatrészeket állít elő olyan globális óriások számára, mint az Airbus és a Gulfstream. A legmodernebb hangárokba és nemzetközi repülési szabványok szerinti tanúsítványokba történő folyamatos beruházások révén az Aerostar Bacău biztosítja az ország technológiai szuverenitását, és Romániát a globális repülőgépipari ellátási lánc kompetens szereplőjeként pozicionálja.",
-      "factsAdvanced": [
-        "Az Aerostar egy hivatalos karbantartó központ az F-16-os vadászrepülőgépek számára.",
-        "A vállalat Kelet-Románia egyik legnagyobb munkaadója.",
-        "Hidraulikus alkatrészeket és futóműveket gyárt utasszállító repülőgépekhez.",
-        "Az Aerostar a legmodernebb hangárokkal rendelkezik nagy utasszállító repülőgépek karbantartásához.",
-        "A vállalatot a Bukaresti Értéktőzsdén jegyzik.",
-        "Számos nemzetközi légitársaság végezteti flottájának karbantartását Bákóban.",
-        "A vállalat saját képzési központot működtet repülőgép-technikusok számára.",
-        "Az Aerostar kulcsszerepet játszik a NATO védelmi programjaiban."
-      ]
+    "churchill-beluga-whales-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A manitobai Churchill városa nyáron a beluga bálnák paradicsomává válik. Amikor a Hudson-öböl jege felenged, több ezer beluga úszik be a Churchill-folyó torkolatába, hogy ott világra hozzák borjaikat és táplálkozzanak. Ezeket a barátságos és kíváncsi emlősöket 'a tenger kanárijainak' is nevezik változatos énekük és csiripelő hangjuk miatt. A látogatók kajakkal vagy csónakkal kerülhetnek közel hozzájuk, sőt, hidrofonok segítségével hallgathatják is a kommunikációjukat. A belugák védelme kulcsfontosságú az arktikus ökoszisztéma számára. Ez a POI szorosan kapcsolódik a K5-K8-as tanterv biológia és fizika moduljaihoz, bemutatva a tengeri emlősök szociális viselkedését és az ultrahangos tájékozódást.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Évente több mint 3000-4000 beluga gyűlik össze a folyó torkolatában.",
+                "A belugák akár 50 különböző hangot is képesek kiadni a kommunikációhoz.",
+                "A borják sötétszürkén születnek, és csak 5-10 éves korukra válnak fehérré.",
+                "Egy felnőtt beluga súlya elérheti az 1500 kilogrammot.",
+                "A belugák nyaka mozgatható, ami ritkaság a bálnák körében.",
+                "Akár 20-30 percig is képesek a víz alatt maradni egyetlen levegővel.",
+                "A Hudson-öbölben él a világ beluga-populációjának mintegy 60%-a.",
+                "A turisztikai szezon júliustól augusztus végéig tart."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-alro-ot-extra",
-      "descriptionAdvanced": "Az Alro Slatina Közép- és Kelet-Európa legnagyobb alumíniumgyártója és a román gazdaság egyik ipari nehézsúlyú szereplője. A slatinai komplexum egy elektrolízis üzemet foglal magában a primer alumínium előállítására, valamint kiterjedt öntödei és hengerlési kapacitásokat a feldolgozott termékek, például lemezek, táblák és profilok gyártására. Az Alro olyan igényes ágazatokat lát el, mint a repülőgépipar és az autóipar, és az ország egyik legnagyobb exportőre. Az alumínium-elektrolízis hatalmas villamosenergia-igénye miatt az Alro stratégiai partner a román energiaszektorban. A vállalat hatalmas beruházásokat hajt végre az energiahatékonyság és az újrahasznosított alumínium arányának növelése érdekében, hogy versenyképes maradjon és csökkentse ökológiai lábnyomát. Az Alro Olt megye legfontosabb munkaadója és Románia kohászati ipari erejének szimbóluma.",
-      "factsAdvanced": [
-        "Az Alro Slatina az egyetlen vállalat Romániában, amely primer alumíniumot állít elő.",
-        "Az üzem Európa egyik legnagyobb vertikálisan integrált alumíniumgyártója.",
-        "Az Alro a nemzetközi repülőgépipar tanúsított beszállítója.",
-        "A gyár a romániai hálózat legnagyobb villamosenergia-fogyasztója.",
-        "A vállalat termékeit a világ több mint 50 országába exportálja.",
-        "Az Alro saját fotovoltaikus erőműbe fektet be önellátás céljából.",
-        "A slatinai telephely több ezer képzett munkahelyet biztosít.",
-        "Az Alro saját kutatási és fejlesztési részleggel rendelkezik az ötvözetek terén."
-      ]
+    "elk-island-bison-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Az albertai Elk Island Nemzeti Park döntő szerepet játszott az észak-amerikai bölények megmentésében a kipusztulástól. A park teljesen bekerített, így biztonságos menedéket nyújt mind a síksági, mind a ritkább erdei bölények számára. A látogatók gyakran láthatják ezeket a hatalmas állatokat az utak mentén vagy a kijelölt túraútvonalakon. Az innen származó bölényeket a világ számos pontjára, köztük Oroszországba és az USA-ba is visszatelepítették. A park nemcsak az állatokról, hanem a csillagos égboltról is híres, mivel kijelölt sötét égbolt rezervátum. Ez a helyszín jól kapcsolódik a K5-K8-as tanterv biológia és történelem moduljaihoz, szemléltetve a természetvédelmi sikereket és az őshonos fajok visszatelepítésének folyamatát.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A parkban jelenleg mintegy 400-500 síksági és 300 erdei bölény él.",
+                "Az 1900-as évek elején kevesebb mint 50 bölényből indult a mentőprogram.",
+                "A park területe 194 négyzetkilométer és teljesen körbe van kerítve.",
+                "Ez Kanada legkisebb nemzeti parkja, de a legnagyobb sűrűségű patásállománnyal bír.",
+                "Eddig több mint 3000 bölényt szállítottak innen más védett területekre.",
+                "A síksági bölény bika súlya elérheti a 900 kilogrammot.",
+                "A parkban több mint 250 madárfajt figyeltek már meg.",
+                "A Beaver Hills Sötét Égbolt Rezervátum része, minimális fényszennyezéssel."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-aramis-mm-extra",
-      "descriptionAdvanced": "A nagybányai székhelyű Aramis Group Románia legnagyobb bútorexportőre és Európa egyik vezető kárpitozott bútorgyártója. A teljesen román tőkéjű vállalat egy kis műhelyből nőtte ki magát egy nemzetközi szinten is elismert ipari óriássá, amely több ezer embernek ad munkát Máramaros megyében. Az Aramis fő profilja a kanapék, fotelek és matracok gyártása, termékeik a világ legnagyobb bútorkereskedelmi láncainak, köztük az IKEA-nak a kínálatában is megtalálhatók. A vállalat a sikerét a folyamatos innovációnak, a modern gyártástechnológiákba való beruházásoknak és a magas minőségi követelményeknek köszönheti. Az Aramis nemcsak gazdasági, hanem társadalmi szempontból is kulcsszereplő a régióban, jelentősen hozzájárulva a helyi közösség fejlődéséhez.",
-      "factsAdvanced": [
-        "Az Aramis Invest 1995-ben alakult, 100%-ban romániai magántőkéből.",
-        "A vállalat Románia legnagyobb bútorexportőre.",
-        "Az IKEA egyik legfontosabb globális beszállítója a kárpitozott bútorok kategóriájában.",
-        "Az Aramis Group több mint 5000 alkalmazottat foglalkoztat Nagybányán és környékén.",
-        "A gyártás több, összesen 140 000 négyzetméteres csarnokban folyik.",
-        "A cég saját habszivacsgyártó üzemmel is rendelkezik a vertikális integráció érdekében."
-      ]
+    "point-pelee-bird-migration-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Point Pelee Nemzeti Park az ontariói Erie-tó partján Kanada legdélibb szárazföldi pontja, és világszerte az egyik legfontosabb megfigyelőhely a madárvonulások idején. Tavasszal és ősszel vándormadarak százezrei, köztük több mint 370 faj, használják a félszigetet pihenőhelyként, mielőtt átkelnének a Nagy-tavakon. A madarászok számára a május az 'aranyhónap', amikor a színes lombjárók és énekesmadarak tömegei lepik el a fákat. A park emellett a pompás királylepkék vonulásáról is híres, amelyek ősszel hatalmas csapatokban indulnak innen Mexikóba. A változatos élőhelyek, mint a mocsarak és erdők, rendkívüli biodiverzitást biztosítanak. Ez a helyszín szorosan kapcsolódik a K5-K8-as tanterv biológia és földrajz óráihoz, bemutatva a globális vándorlási útvonalakat és az ökoszisztémák védelmét.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Kanada szárazföldi részének legdélibb pontja, egy szélességi körön Rómával.",
+                "Több mint 370 madárfajt jegyeztek fel a park területén.",
+                "Évente több mint 300 000 látogató keresi fel, főleg a vonulási szezonban.",
+                "A tavaszi Madárfesztivál három hétig tart májusban.",
+                "A pompás királylepkék akár 4000 kilométert is vándorolnak innen délre.",
+                "A park 70%-át édesvízi mocsár alkotja, amit 2 km hosszú pallóúton járhatunk be.",
+                "Területe mindössze 15 négyzetkilométer, de ökológiailag rendkívül gazdag.",
+                "A parkban 42 veszélyeztetett növény- és állatfaj él."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-arctic-gaesti-extra",
-      "descriptionAdvanced": "Az Arctic Găești egy igazi óriás az európai háztartásigép-iparban, és a kontinens legnagyobb hűtőgépgyára. A török Arçelik Csoport általi felvásárlása óta az Arctic globális exportbajnokká fejlődött, termékei (az Arctic és Beko márkák alatt) világszerte több millió háztartásban megtalálhatók. A găești-i gyár lenyűgöző skálázhatósággal és rendkívül hatékony gyártósorokkal rendelkezik. Kiegészítve az ulmi-i telephelyet, ahol a legmodernebb mosógépeket gyártják, Găești egy ipari klaszter szívét alkotja Dâmbovița megyében. Az Arctic annak a román képességnek a szimbóluma, hogy versenyképes maradjon a tartós fogyasztási cikkek globális tömeggyártásában, miközben egyre nagyobb hangsúlyt fektet a zöld logisztikára és az energiahatékony terméktechnológiákra.",
-      "factsAdvanced": [
-        "Az Arctic Găești a legnagyobb hűtőgépgyár a kontinentális Európában.",
-        "A Găești-ben gyártott készülékek több mint 80%-át világszerte exportálják.",
-        "A vállalat a globálisan működő Arçelik Csoporthoz tartozik.",
-        "Az Arctic Románia egyik legrégebbi és legmegbízhatóbb márkája.",
-        "Găești-ben évente több millió hűtőkészüléket gyártanak.",
-        "A gyár az Ipar 4.0 alkalmazások egyik úttörője Romániában.",
-        "Az Arctic jelentős mértékben hozzájárul Dâmbovița megye GDP-jéhez.",
-        "A vállalat a körforgásos gazdaság elvein alapuló gyártásra és újrahasznosításra törekszik."
-      ]
+    "la-mauricie-black-bears-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Québec szívében fekvő La Mauricie Nemzeti Park az egyik legjobb helyszín a feketemedvék megfigyelésére Kelet-Kanadában. A park hatalmas, érintetlen erdőségei és tiszta tavai ideális élőhelyet biztosítanak ezeknek a félénk, de intelligens ragadozóknak. A szakértők által vezetett medveleső túrák során a látogatók biztonságos távolságból tanulmányozhatják az állatok természetes viselkedését, például az élelemkeresést vagy a bocsok nevelését. A park célja a medvepopuláció hosszú távú fenntartása és az ember-medve találkozások biztonságossá tétele oktatáson keresztül. A feketemedvék fontos szerepet játszanak a magvak terjesztésében és az erdő egyensúlyának fenntartásában. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv biológia és környezetismeret moduljaihoz, hangsúlyozva a ragadozók szerepét az ökoszisztémákban.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A parkban becslések szerint 100-125 feketemedve él.",
+                "A feketemedvék táplálékának 80%-a növényi eredetű (bogyók, mogyoró).",
+                "A téli álom alatt akár 5-6 hónapig nem esznek.",
+                "A park területe 536 négyzetkilométer, sűrű vegyes erdővel.",
+                "Egy felnőtt hím medve súlya 150-250 kilogramm között mozog.",
+                "A bocsok általában januárban születnek a barlangban, mialatt az anyjuk alszik.",
+                "A vezetett túrák sikerességi rátája a medvelátásra meghaladja a 90%-ot.",
+                "A feketemedvék kiváló úszók és fára mászók már kölyökkoruktól."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-astra-vagoane-arad-extra",
-      "descriptionAdvanced": "Az aradi Astra Vagoane Călători egy nagy múltú, tradicionális vállalat és a vezető romániai vasúti járműgyártó. A 19. századig visszanyúló történelemmel rendelkező cég mára a modern személyszállító kocsik és villamosok építésére specializálódott. Különösen ismert az Imperio villamos, amelyet számos romániai városban használnak, és a kényelem és hatékonyság legmodernebb európai normái szerint fejlesztettek ki. Az aradi üzemek lenyűgöző gyártási mélységgel rendelkeznek, az acélszerkezet-gyártástól a magas minőségű belsőépítészetig. Az Astra Vagoane a romániai vasúti közlekedés reneszánszának szimbóluma, és sikeresen exportálja vagonjait különböző piacokra világszerte. A bevált mérnöki tudás és a modern technológia ötvözésével az Astra a jövő sínen történő mobilitását biztosítja.",
-      "factsAdvanced": [
-        "Az Astra Vagoane Aradot már 1891-ben megalapították.",
-        "A vállalat Románia legfontosabb villamosgyártója.",
-        "Az 'Imperio' villamos a jelenlegi termelés zászlóshajója.",
-        "Az Astra luxus személyszállító kocsikat is gyárt nemzetközi piacokra.",
-        "Az aradi telephely a vasúti technológia egyik jelentős központja.",
-        "A vállalat szilárdan román kézben van, és támogatja a helyi szaktudást.",
-        "Az Astra vagonok tartósságukról és robusztusságukról ismertek.",
-        "A gyártás megfelel minden európai interoperabilitási szabványnak (TSI)."
-      ]
+    "calaway-park-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Calgary mellett található Calaway Park Nyugat-Kanada legnagyobb szabadtéri vidámparkja, amely a Sziklás-hegység lábánál kínál szórakozást minden korosztálynak. A park több mint 32 játékot, köztük izgalmas hullámvasutakat és klasszikus családi attrakciókat kínál, mindezt egy lenyűgöző hegyi panorámával a háttérben. Az élményt élő show-műsorok, 3D mozivetítések és egy közeli kemping teszi teljessé. A park nagy hangsúlyt fektet a biztonságra és a családi értékekre. A látogatók nemcsak szórakozhatnak, hanem a fizika törvényeit is akció közben láthatják a különböző centrifugális erők és gravitációs gyorsulások révén. Ez a helyszín kiválóan kapcsolódik a K5-K8-as tanterv fizika moduljaihoz, bemutatva a mechanika, a mozgási energia és a súrlódás elveit a gyakorlatban.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Összesen 32 játék és attrakció található a parkban.",
+                "1982-ben nyitotta meg kapuit a nagyközönség előtt.",
+                "A park területe mintegy 65 hektár.",
+                "A 'The Vortex' hullámvasút két teljes fordulatot tartalmaz.",
+                "Évente több mint 500 000 látogató keresi fel a vidámparkot.",
+                "A szezon májustól október elejéig tart.",
+                "A park saját 4D színházzal rendelkezik.",
+                "Több mint 650 szezonális alkalmazottat foglalkoztatnak."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-autoliv-brasov-extra",
-      "descriptionAdvanced": "Az Autoliv Brașov (Brassó) az autóipari biztonsági rendszerek globális vezető telephelye és a svéd Autoliv konszern globális hálózatának központi csomópontja. A régió gyáraiban életmentő alkatrészeket, például légzsákokat, biztonsági öveket és kormánykerekeket gyártanak szinte minden neves autógyártó számára. A telephelyet rendkívül magas minőségi előírások és nulla hibatűrés jellemzi, mivel a termékek vészhelyzetben életről és halálról dönthetnek. A tiszta gyártás mellett Brassó jelentős mérnöki központoknak ad otthont, ahol új biztonsági technológiákat fejlesztenek és tesztelnek. A hatékony termelés és a műszaki innováció kombinációjával az Autoliv Erdély legnagyobb munkaadójává vált. A vállalat intenzíven támogatja a helyi szakképzést, és mércét állít a munkabiztonság és ergonómia terén, ami a telephelyet a modern ipari munkahelyek mintaképévé teszi Romániában.",
-      "factsAdvanced": [
-        "Az Autoliv Brașov a világ legnagyobb biztonságiöv-gyártója.",
-        "A vállalat több gyárat is üzemeltet Brassóban és környékén.",
-        "A tesztlaboratóriumokban komplex baleseti szimulációkat végeznek.",
-        "Az Autoliv olyan prémium márkákat lát el, mint a BMW, az Audi és a Mercedes-Benz.",
-        "A telephely mágnesként vonzza a mérnököket egész Romániából.",
-        "Másodpercenként több száz biztonsági termék hagyja el a szerelősorokat.",
-        "Az Autoliv erősen elkötelezett a régió szociális projektjeiben.",
-        "A termelés nagymértékben automatizált és digitálisan hálózatba kötött."
-      ]
+    "la-ronde-montreal-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A montréali La Ronde a Szent Ilona-szigeten található, és Kelet-Kanada legnagyobb vidámparkja, amely ma a Six Flags hálózat tagja. Az eredetileg az 1967-es világkiállításra épült park mára modern szórakoztató központtá vált, több mint 40 játékkal és tíz izgalmas hullámvasúttal. Itt található a világ egyik legmagasabb fa hullámvasútja, a 'Le Monstre'. A park ad otthont a rangos Nemzetközi Tűzijátékversenynek is, amely nyaranta látványos fényparádéval vonzza a tömegeket. A La Ronde nemcsak a sebességről szól, hanem Montréal modern történelmének is fontos része. Ez a POI szervesen kapcsolódik a K5-K8-as tanterv fizika és technológia moduljaihoz, szemléltetve a mérnöki tervezést és a kinetikus energia alkalmazását.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 40 játék és 10 hullámvasút várja a látogatókat.",
+                "A 'Le Monstre' fa hullámvasút 40 méter magas.",
+                "Évente mintegy 1,2 millió látogatót vonz a park.",
+                "Az Expo 67 világkiállítás alkalmából nyílt meg 1967-ben.",
+                "A park területe 59 hektárt foglal el a szigeten.",
+                "Itt rendezik meg a világ egyik legnagyobb tűzijátékversenyét.",
+                "A 'Goliath' hullámvasút 53 méteres magasságával az egyik leggyorsabb Kanadában.",
+                "A park a Six Flags tulajdonában van 2001 óta."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-azomures-ms-extra",
-      "descriptionAdvanced": "Az Azomureș Marosvásárhelyen Románia legjelentősebb műtrágyagyártója és a nemzeti mezőgazdaság nélkülözhetetlen partnere. A hatalmas vegyipari komplexum termékek széles skáláját állítja elő, mint például ammónium-nitrátot, karbamidot és összetett műtrágyákat, amelyek döntő fontosságúak a romániai gazdálkodók termésbiztonsága szempontjából. Az Azomureș szorosan integrálódik a régió ipari infrastruktúrájába, és több évtizedes hagyományra tekint vissza a kémiai szintézis terén. Az elmúlt években jelentős beruházásokat hajtottak végre a környezetvédelem és az üzemek modernizálása terén, hogy csökkentsék a kibocsátásokat és növeljék az energiahatékonyságot. A globális energiapiacok volatilitása ellenére az Azomureș stratégiai garanciája marad az ország élelmiszer-biztonságának és Erdély szívének gazdasági nehézsúlyú szereplője.",
-      "factsAdvanced": [
-        "Az Azomureș a legnagyobb műtrágyagyártó Romániában.",
-        "A vállalat a belföldi agrárkémiai igények nagy részét fedezi.",
-        "A marosvásárhelyi telephely hatalmas ipari létesítményekkel rendelkezik az ammóniaszintézishez.",
-        "Az Azomureș a romániai földgáz egyik fontos felvásárlója.",
-        "A vállalat hatalmas összegeket fektet be a kibocsátáscsökkentő technológiákba.",
-        "A termékeket szigorú minőségellenőrzés mellett gyártják a világpiacra.",
-        "Az Azomureș Maros megye egyik legnagyobb munkaadója.",
-        "A komplexum kulcsszerepet játszik a helyi ipari értékláncban."
-      ]
+    "science-world-vancouver-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A vancouveri Science World egy ikonikus geodéziai kupolában található, amely az 1986-os világkiállításra épült a False Creek partján. Ez az interaktív tudományos központ a 'játszva tanulás' filozófiáját követi, ahol a gyerekek és felnőttek kísérleteken keresztül fedezhetik fel a fizika, a biológia és a technológia világát. A kupolában található OMNIMAX mozi a világ egyik legnagyobb ilyen jellegű vetítővásznával rendelkezik, lélegzetelállító természetfilmeket mutatva be. A kiállítások érintik a fenntarthatóságot, az emberi test működését és az űrkutatást is. A Science World célja a jövő tudósainak inspirálása. Ez a helyszín tökéletesen illeszkedik a K5-K8-as tanterv minden természettudományos moduljához, különösen az energia, a fénytan és az ökológia témakörében.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A geodéziai kupola 766 háromszög alakú acélpanelből áll.",
+                "Az OMNIMAX mozi vászna 5 emelet magas.",
+                "Évente több mint 800 000 látogató keresi fel a központot.",
+                "Eredetileg az Expo 86 központi pavilonja volt.",
+                "Több mint 2000 négyzetméteren találhatók interaktív kiállítások.",
+                "A kupola átmérője 47 méter.",
+                "A Science World több mint 50 000 iskolást fogad oktatási programokra évente.",
+                "2012-ben egy jelentős, 35 millió dolláros felújításon esett át."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-bosch-cluj-extra",
-      "descriptionAdvanced": "A Bosch gyár Jucu-ban, Kolozsvár közelében, egy csúcstechnológiájú telephely az elektronikus autóalkatrészek számára és a Bosch romániai jelenlétének egyik központi eleme. A gyárban specializált vezérlőegységeket gyártanak vezetéstámogató rendszerekhez, e-mobilitáshoz és hálózatba kapcsolt járműfunkciókhoz. Jucu-t rendkívül magas automatizálási szint és a legmodernebb gyártási technológiák alkalmazása jellemzi. Szoros kapcsolatban állva a kolozsvári Bosch Mérnöki Központtal, a gyár egy integrált innovációs ökoszisztémát alkot. A Bosch hatalmas beruházásokat hajtott végre a jucu-i telephelyen, hogy azt a globális elektronikai gyártás kompetenciaközpontjává fejlessze. A fenntartható gyártási módszerek és a szakképzés erőteljes támogatása révén a Bosch mércét állít Erdély ipari fejlődése számára, és megerősíti Kolozsvár hírnevét, mint Románia ''Szilícium-völgye''.",
-      "factsAdvanced": [
-        "A jucu-i gyár elektronikus vezérlőegységekre (ECU) szakosodott.",
-        "A Bosch itt modern járműbiztonsági rendszerekhez gyárt alkatrészeket.",
-        "A telephely a stratégiailag fontos Tetarom III ipari parkban található.",
-        "A Bosch Kolozsváron egy nagy szoftverfejlesztő központot is működtet.",
-        "Jucu-ban évente több millió elektronikai modult gyártanak.",
-        "A gyár az Ipar 4.0 megoldások egyik úttörője a Bosch-csoporton belül.",
-        "Számos képzési programot kínálnak gyakornokok és diákok számára.",
-        "A Bosch a legvonzóbb munkaadók egyike a technikusok számára a kolozsvári régióban."
-      ]
+    "ontario-science-centre-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A torontói Ontario Science Centre a világ egyik első interaktív tudományos múzeuma, amely 1969-es megnyitása óta úttörő szerepet játszik a tudományos ismeretterjesztésben. Az épület különleges, brutalista stílusú építészete a Don-völgy természetes domborzatához igazodik. A központban több száz interaktív állomás található, ahol a látogatók kipróbálhatják a statikus elektromosságot, beléphetnek egy esőerdő-szimulációba, vagy tanulmányozhatják a csillagokat a planetáriumban. Az intézmény nagy hangsúlyt fektet a kritikai gondolkodás fejlesztésére és a technológiai innovációkra. Az IMAX Dome színház pedig különleges vizuális élményt nyújt. Ez a POI kiválóan kapcsolódik a K5-K8-as tanterv fizika, biológia és űrkutatás moduljaihoz, bemutatva a tudományos módszer alkalmazását a mindennapokban.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 500 interaktív kiállítási tárgy található a központban.",
+                "1969. szeptember 26-án nyílt meg a nagyközönség előtt.",
+                "Évente mintegy 1 millió látogatót fogad az intézmény.",
+                "Itt található Ontario egyetlen nyilvános planetáriuma.",
+                "Az épületet a híres építész, Raymond Moriyama tervezte.",
+                "Több mint 1,2 kilométernyi sétaútvonal köti össze a pavilonokat.",
+                "Az IMAX Dome színház 24 méter átmérőjű vászonnal rendelkezik.",
+                "A központban egy teljes méretű esőerdő-ökoszisztéma is látható."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-brazi-power-extra",
-      "descriptionAdvanced": "A Brazi erőmű, amelyet az OMV Petrom üzemeltet, Románia legmodernebb és leghatékonyabb gázerőműve. A csúcstechnológiás kombinált ciklusú gáz- és gőzturbinás technológiájával az erőmű olyan hatásfokot ér el, amely messze meghaladja a régi szénerőművekét. A Petrobrazi finomító közelében található erőmű földgázt használ villamos energia előállítására, amely a nemzeti fogyasztás jelentős részét fedezi. A Brazi kulcsszerepet játszik a romániai energetikai átállásban, mivel biztosítja a szükséges rugalmasságot a megújuló energiaforrások, mint a szél és a nap ingadozásainak kiegyenlítésére. Alacsony fajlagos CO2-kibocsátása révén az erőmű fontos építőköve a román villamosenergia-mix dekarbonizációjának és az ország ellátásbiztonságának garantálója.",
-      "factsAdvanced": [
-        "A Brazi erőmű a legnagyobb magántulajdonban lévő gázerőmű Romániában.",
-        "Egy rendkívül hatékony kombinált ciklusú gáz- és gőzturbinát használ.",
-        "A 860 MW beépített teljesítmény a romániai villamosenergia-szükséglet akár 10%-át is fedezi.",
-        "A Brazi az egyik legrugalmasabb erőmű a hálózat stabilizálására.",
-        "Az erőműnek jelentősen alacsonyabb a CO2-kibocsátása, mint a hagyományos erőműveknek.",
-        "Az erőmű építése az egyik legnagyobb magánberuházás volt a román energiaszektorban.",
-        "Az erőmű stratégiailag kedvező helyen, Prahova ipari szívében található.",
-        "A rendszeres karbantartási ciklusok biztosítják a blokkok maximális rendelkezésre állását."
-      ]
+    "saskatchewan-cranberry-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Bár Saskatchewan leginkább a búzaföldjeiről ismert, az északi területeken egy egyre bővülő tőzegáfonya-ágazat is működik. A tőzegáfonya termesztése speciális, mesterségesen kialakított lápvidékeken történik, amelyek eláraszthatóak a betakarítás idején. A 'nedves betakarítás' folyamata során a mezőket vízzel töltik fel, a bogyók pedig a bennük lévő légkamrák miatt felúsznak a felszínre, ahol könnyen begyűjthetőek. Ez a technológia lenyűgöző látványt nyújt: a vízfelszínen úszó millió piros bogyó vörös tengerként ragyog. A tartomány hűvös éghajlata kiválóan alkalmas a bogyók savtartalmának és színének kialakulásához. Ez a POI jól kapcsolódik a K5-K8-as tanterv mezőgazdasági és fizikai moduljaihoz, bemutatva a technológia és a természet találkozását.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Saskatchewan északi részén több mint 100 hektáron termesztenek tőzegáfonyát.",
+                "A tőzegáfonya 90%-át nedves betakarítási módszerrel gyűjtik be.",
+                "A bogyók belsejében négy apró légkamra található, ezért úsznak a vízen.",
+                "Évente több mint 1 millió kilogramm tőzegáfonyát termelnek a tartományban.",
+                "A tőzegáfonyásokat télen jégréteggel védik a fagy ellen.",
+                "A növények akár 100 évig is élhetnek és teremhetnek.",
+                "A betakarítás általában szeptember végén és októberben történik.",
+                "Saskatchewan tőzegáfonyája híres különösen mélyvörös színéről."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-chimcomplex-bc-extra",
-      "descriptionAdvanced": "A Chimcomplex Borzești a moldvai régió legfontosabb vegyipari komplexuma és a román gazdaság stratégiai szereplője. Az Oltchim eszközeinek átvétele után a Chimcomplex az ország legnagyobb vegyipari vállalatává vált. A borzești-i telephely a klór-alkáli kémiára, a poliolok és különböző szervetlen vegyi anyagok gyártására specializálódott, amelyeket számtalan iparágban alkalmaznak. A vállalat ambiciózus növekedési stratégiát követ, amely a modernizációra, az energiahatékonyságra és a zöld vegyipari termékek fejlesztésére összpontosít. Jelentős exportőrként a Chimcomplex nagyban hozzájárul Románia kereskedelmi mérlegéhez és biztosítja az ipari bázist a bákói régióban. A komplexum a hazai vegyipar konszolidációjának és román vezetés alatti újjáéledésének szimbóluma.",
-      "factsAdvanced": [
-        "A Chimcomplex ma Románia legnagyobb vegyipari vállalata.",
-        "A borzești-i telephely több évtizedes ipari múltra tekint vissza.",
-        "A vállalat Európa egyik vezető poliolgyártója.",
-        "A Chimcomplex hatalmas beruházásokat hajt végre a kapcsolt hő- és villamosenergia-termelésbe az energiamegtakarítás érdekében.",
-        "A termékeket a gyógyszeriparban, az építőiparban és a vízkezelésben használják.",
-        "A Chimcomplex a moldvai régió egyik legnagyobb exportőre.",
-        "A vállalatot a Bukaresti Értéktőzsdén jegyzik.",
-        "A vállalat víziója magában foglalja a hidrogéntechnológiák fejlesztését is."
-      ]
+    "gaspereau-valley-wines-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Az új-skóciai Gaspereau-völgy egy festői borvidék, amely a Fundy-öböl árapály-jelenségének köszönhetően egyedi mikroklímával rendelkezik. A völgy meredek lejtői védettek az erős szelektől, ami lehetővé teszi a hűvös éghajlati fajták, például a L'Acadie Blanc és a Riesling termesztését. A régió borászatai világszerte ismertek ropogós fehérboraikról és elegáns pezsgőikről. A 'Tidal Bay' elnevezés az első olyan eredetvédett bor Nova Scotiában, amely a helyi tengerparti életérzést tükrözi. A látogatók kerékpárral vagy lovaskocsival is bejárhatják a szőlőskerteket, élvezve a vidéki nyugalmat. Ez a POI szorosabban kapcsolódik a K5-K8-as tanterv földrajzi és gazdasági ismereteihez, bemutatva az árapály hatását a mezőgazdaságra és a minőségi élelmiszertermelés jelentőségét.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "A Gaspereau-völgyben több mint 150 hektáron folyik szőlőtermesztés.",
+                "A L'Acadie Blanc fajtát gyakran 'Nova Scotia Chardonnay-jeként' emlegetik.",
+                "A völgyben 8 nagyobb kereskedelmi borászat működik.",
+                "A Tidal Bay boroknak 100%-ban helyi szőlőből kell készülniük.",
+                "A régió éves bortermelése meghaladja a 600 000 palackot.",
+                "A völgy klímája 2-3 fokkal melegebb, mint a környező fennsíkoké.",
+                "Az új-skóciai borágazat évente 150 millió dollárral járul hozzá a gazdasághoz.",
+                "A borászatok többsége fenntartható vagy bio gazdálkodást folytat."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-combinat-slobozia-extra",
-      "descriptionAdvanced": "A sloboziai vegyipari kombinát (Chemgas) a nitrogénműtrágyák jelentős gyártója és a Bărăgan-alföld, Románia legfontosabb gabonatermő vidékének agrárgazdaságának központi szereplője. Az üzem ammóniát, karbamidot és ammónium-nitrátot állít elő, amelyek elengedhetetlenek a régió mezőgazdasági terméshozamainak növeléséhez. A telephely előnyös helyzetben van a nagy termőterületek közelsége miatt, ami csökkenti a helyi gazdálkodók logisztikai költségeit. Az ingadozó energiaárak okozta kihívások ellenére a sloboziai gyár a regionális ipari fejlődés stratégiai pillére marad. A kombinát integrációja a helyi gazdaságba számos munkahelyet biztosít és támogatja a kapcsolódó szolgáltató iparágakat Ialomița megyében. A technológiai adaptációra irányuló folyamatos erőfeszítések célja a termelés hatékonyabbá és versenyképesebbé tétele.",
-      "factsAdvanced": [
-        "A sloboziai kombinát a nitrogénműtrágyák egyik kulcsfontosabb gyártója.",
-        "Az üzem stratégiailag kedvező helyen, a Bărăgan gabonatermő régiójának szívében található.",
-        "Fő termékei az ammónia, a karbamid és a különböző nitrátok.",
-        "A gyár az energiaszektor egyik fontos felvásárlója.",
-        "Slobozia erős ipari hagyományokkal rendelkezik a vegyipar területén.",
-        "A vállalat biztosítja Délkelet-Románia műtrágyaellátását.",
-        "Folyamatosan vizsgálják az energiahatékonyság javítására irányuló intézkedéseket.",
-        "A kombinát Slobozia város egyik legjelentősebb munkaadója."
-      ]
+    "southern-alberta-sugar-beets-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "Dél-Alberta, különösen Lethbridge és Taber környéke, az egyetlen hely Kanadában, ahol jelentős mennyiségű cukorrépát termesztenek kristálycukor előállítására. A terület száraz éghajlata és a kiterjedt öntözőrendszerek ideálisak a répa magas cukortartalmának eléréséhez. A taberi Rogers Sugar gyár a régió egyik legfontosabb ipari létesítménye, ahol a betakarított répából finomított cukrot készítenek. Az őszi betakarítás idején hatalmas répa-hegyek láthatóak a gyár mellett, várva a feldolgozást. Ez a mezőgazdasági ágazat több generáció óta meghatározza a helyi közösség életét. A POI kiválóan kapcsolódik a K5-K8-as tanterv technológia és földrajz moduljaihoz, bemutatva az élelmiszer-feldolgozás folyamatát és az öntözéses gazdálkodás jelentőségét a száraz területeken.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Dél-Albertában évente mintegy 11 000 - 13 000 hektáron termelnek cukorrépát.",
+                "A taberi gyár naponta több mint 6000 tonna cukorrépát képes feldolgozni.",
+                "Egy tonna cukorrépából körülbelül 150 kilogramm kristálycukor nyerhető ki.",
+                "Ez az ágazat biztosítja a Kanadában előállított cukor mintegy 10%-át.",
+                "A cukorrépa-termesztés több mint 200 farmnak ad megélhetést a régióban.",
+                "A betakarítás szeptemberben kezdődik és általában novemberig tart.",
+                "A cukorrépa melléktermékeit állati takarmányként hasznosítják.",
+                "A Rogers Sugar gyár Taberben 1950 óta működik."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     },
-    {
-      "id": "industry-continental-sibiu-extra",
-      "descriptionAdvanced": "A Continental telephelye Nagyszebenben (Sibiu) sokkal több, mint egy gyár – ez az autóipari elektronika egyik legjelentősebb kutatási és fejlesztési központja Délkelet-Európában. Szebenben innovatív rendszereket fejlesztenek az autonóm vezetéshez, fejlett fékvezérlőket és intelligens szenzorokat, amelyeket közvetlenül a helyszínen, csúcstechnológiájú sorokon gyártanak. A gyár a mérnöki tudás és a gyártás összekapcsolásának mintapéldája. Több ezer mérnök dolgozik itt a jövő járműveinek szoftverén és hardverén. A Lucian Blaga Egyetemmel való szoros együttműködés révén Szeben egy akadémiai és ipari hotspot lett, amely tehetségeket vonz az egész országból. A Continental Sibiu döntő hajtóereje Románia technológiai felemelkedésének egy csúcstechnológiai helyszínné, és mércét állít az autóipar digitális hálózatba kapcsolásában.",
-      "factsAdvanced": [
-        "A Continental Sibiu egy hatalmas kutatási és fejlesztési központnak ad otthont.",
-        "Itt fejlesztik a vezetéstámogató rendszerek (ADAS) alapvető komponenseit.",
-        "A gyár komplex elektronikus vezérlőegységeket gyárt globális autómárkák számára.",
-        "Szebenben több mint 4000 alkalmazott dolgozik, nagy részük a mérnöki területen.",
-        "A telephely úttörő az autonóm vezetés és a hálólatba kapcsolt mobilitás terén.",
-        "A Continental a helyi IT és technológiai szcéna legfontosabb motorja.",
-        "A gyár a helyszínen csúcstechnológiás tesztpályákkal és laboratóriumokkal rendelkezik.",
-        "Szeben a Continental globális elektronikai stratégiájának egyik kulcsfontosságú helyszíne."
-      ]
+    "montreal-insectarium-life-v2": {
+        "descriptionAdvanced": {
+            "hu": "A Montréali Rovartani Múzeum Észak-Amerika legnagyobb rovartani központja, amely a 'Space for Life' komplexum része a botanikus kert mellett. A múzeum célja, hogy megváltoztassa az emberek rovarokhoz való hozzáállását, bemutatva azok szépségét és ökológiai fontosságát. A nemrégiben teljesen felújított épületben a látogatók úgy érezhetik magukat, mintha ők is rovarok lennének: föld alatti folyosókon haladhatnak át, és óriási méretű bemutatókon láthatják az állatokat. A pillangóházban több száz szabadon repkedő trópusi lepke között sétálhatnak. Az oktatási fókusz a rovarok beporzó szerepén és a biodiverzitás fenntartásán van. Ez a POI szervesen kapcsolódik a K5-K8-as tanterv biológia és ökológia moduljaihoz, bemutatva az ízeltlábúak anatómiáját és életciklusait.",
+            "en": "", "de": "", "ro": ""
+        },
+        "factsAdvanced": {
+            "hu": [
+                "Több mint 250 000 példányból álló gyűjteménnyel rendelkezik.",
+                "Évente több mint 400 000 látogató keresi fel az Insectariumot.",
+                "A felújított épület 2022-ben nyílt meg újra, futurisztikus dizájnnal.",
+                "A pillangóházban több száz különböző lepkefaj él.",
+                "Itt látható a világ egyik legnagyobb hangyafarmja.",
+                "A múzeum több mint 80%-a a föld alatt vagy félig süllyesztve található.",
+                "A rovarok táplálkozását bemutató részlegben ehető rovarokat is megismerhetünk.",
+                "A látogatók több mint 3000 élő rovart láthatnak a kiállításokon."
+            ],
+            "en": [], "de": [], "ro": []
+        }
     }
-  ]
 }
 
-print(json.dumps(data, indent=2, ensure_ascii=False))
+with open('/mnt/c/Users/User/plizio-repo/other_batch_3.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

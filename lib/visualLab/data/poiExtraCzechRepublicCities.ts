@@ -1,140 +1,6 @@
 import type { POI } from "./poi";
 
-export const poiExtraCzechRepublicCities: POI[] = [
-  {
-    id: "city-kutna-hora-extra",
-    type: "city",
-    parent: "CZ-ST",
-    coords: [15.2683, 49.9488],
-    name: { de: "Kuttenberg", hu: "Kutná Hora", ro: "Kutná Hora", en: "Kutná Hora" },
-    description: {
-      de: "Eine historische Stadt, die für ihr Knochenhaus Sedlec und die St.-Barbara-Kirche, ein UNESCO-Weltkulturerbe, bekannt ist.",
-      hu: "Történelmi város, amely a sedleci csontházról és a Szent Borbála-templomról ismert, ami az UNESCO Világörökség része.",
-      ro: "Un oraș istoric renumit pentru Osuarul Sedlec și Biserica Sfânta Barbara, un sit al Patrimoniului Mondial UNESCO.",
-      en: "A historical town famous for the Sedlec Ossuary and St. Barbara's Church, a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Einst eine der reichsten Städte Böhmens.", "Das Zentrum des Silberbergbaus im Mittelalter.", "Heimat des Italienischen Hofs, der ehemaligen königlichen Münzstätte."],
-      hu: ["Egykor Csehország egyik leggazdagabb városa.", "A középkori ezüstbányászat központja.", "Az olasz udvar otthona, az egykori királyi pénzverde."],
-      ro: ["Odată unul dintre cele mai bogate orașe din Boemia.", "Centrul mineritului de argint în Evul Mediu.", "Găzduiește Curtea Italiană, fosta monetărie regală."],
-      en: ["Once one of the richest towns in Bohemia.", "The center of silver mining in the Middle Ages.", "Home to the Italian Court, the former royal mint."]
-    }
-  },
-  {
-    id: "city-olomouc-extra",
-    type: "city",
-    parent: "CZ-OL",
-    coords: [17.2509, 49.5938],
-    name: { de: "Olmütz", hu: "Olomouc", ro: "Olomouc", en: "Olomouc" },
-    description: {
-      de: "Eine lebendige Universitätsstadt mit einem reichen Erbe, bekannt für ihre sechs barocken Brunnen und die Säule der Heiligen Dreifaltigkeit.",
-      hu: "Élénk egyetemi város gazdag örökséggel, híres hat barokk kútjáról és a Szentháromság-oszlopról.",
-      ro: "Un oraș universitar vibrant, cu o moștenire bogată, cunoscut pentru cele șase fântâni baroce și Coloana Sfintei Treimi.",
-      en: "A vibrant university city with a rich heritage, known for its six Baroque fountains and the Holy Trinity Column."
-    },
-    facts: {
-      de: ["Historische Hauptstadt von Mähren.", "Die Dreifaltigkeitssäule ist ein UNESCO-Denkmal.", "Besitzt eine der größten historischen Stadtkerne des Landes."],
-      hu: ["Morvaország történelmi fővárosa.", "A Szentháromság-oszlop UNESCO-emlékhely.", "Az ország egyik legnagyobb történelmi városközpontjával rendelkezik."],
-      ro: ["Capitala istorică a Moraviei.", "Coloana Sfintei Treimi este un monument UNESCO.", "Posedă una dintre cele mai mari centre istorice din țară."],
-      en: ["Historical capital of Moravia.", "The Holy Trinity Column is a UNESCO monument.", "Possesses one of the largest historical city centers in the country."]
-    }
-  },
-  {
-    id: "city-pilsen-extra",
-    type: "city",
-    parent: "CZ-PL",
-    coords: [13.3776, 49.7475],
-    name: { de: "Pilsen", hu: "Plzeň", ro: "Plzeň", en: "Plzeň" },
-    description: {
-      de: "Weltweit bekannt als Geburtsort des Pilsner Biers. Die Stadt hat ein lebendiges kulturelles Leben und eine bedeutende industrielle Tradition.",
-      hu: "Világszerte a pilseni sör szülőhelyeként ismert. A város élénk kulturális élettel és jelentős ipari hagyományokkal rendelkezik.",
-      ro: "Renumit la nivel mondial ca locul de naștere al berii Pilsner. Orașul are o viață culturală vibrantă și o tradiție industrială semnificativă.",
-      en: "Known worldwide as the birthplace of Pilsner beer. The city has a vibrant cultural life and a significant industrial tradition."
-    },
-    facts: {
-      de: ["Heimat der Brauerei Pilsner Urquell seit 1842.", "Kulturhauptstadt Europas 2015.", "Wichtiger Standort für Maschinenbau und Fahrzeugproduktion."],
-      hu: ["A Pilsner Urquell sörgyár otthona 1842 óta.", "Európa Kulturális Fővárosa 2015-ben.", "Fontos gépészeti és járműgyártási központ."],
-      ro: ["Sediul fabricii de bere Pilsner Urquell din 1842.", "Capitală Europeană a Culturii în 2015.", "Centru major pentru inginerie mecanică și producția de vehicule."],
-      en: ["Home of the Pilsner Urquell brewery since 1842.", "European Capital of Culture in 2015.", "Major center for mechanical engineering and vehicle production."]
-    }
-  },
-  {
-    id: "city-liberec-extra",
-    type: "city",
-    parent: "CZ-LI",
-    coords: [15.0597, 50.7675],
-    name: { de: "Reichenberg", hu: "Liberec", ro: "Liberec", en: "Liberec" },
-    description: {
-      de: "Eingebettet im Isergebirge, ist Liberec ein Zentrum für Wintersport und Outdoor-Aktivitäten, überragt vom markanten Ještěd-Turm.",
-      hu: "A Jizera-hegységben fekvő Liberec a téli sportok és a szabadtéri tevékenységek központja, melyet a jellegzetes Ještěd-torony ural.",
-      ro: "Amplasat în Munții Jizera, Liberec este un centru pentru sporturi de iarnă și activități în aer liber, dominat de emblematicul Turn Ještěd.",
-      en: "Nestled in the Jizera Mountains, Liberec is a hub for winter sports and outdoor activities, dominated by the iconic Ještěd Tower."
-    },
-    facts: {
-      de: ["Fünftgrößte Stadt der Tschechischen Republik.", "Besitzt einen zoologischen und einen botanischen Garten.", "Das Rathaus ist eine Nachbildung des Wiener Rathauses."],
-      hu: ["Csehország ötödik legnagyobb városa.", "Állatkerttel és botanikus kerttel rendelkezik.", "A városháza a bécsi városháza másolata."],
-      ro: ["Al cincilea cel mai mare oraș din Republica Cehă.", "Găzduiește o grădină zoologică și o grădină botanică.", "Primăria este o replică a primăriei din Viena."],
-      en: ["The fifth-largest city in the Czech Republic.", "Features a zoological and a botanical garden.", "The town hall is a replica of the Vienna City Hall."]
-    }
-  },
-  {
-    id: "city-hradec-kralove-extra",
-    type: "city",
-    parent: "CZ-HK",
-    coords: [15.8325, 50.2094],
-    name: { de: "Königgrätz", hu: "Hradec Králové", ro: "Hradec Králové", en: "Hradec Králové" },
-    description: {
-      de: "Bekannt als 'Salon der Republik' wegen seiner modernen Architektur aus dem frühen 20. Jahrhundert, entworfen von Josef Gočár.",
-      hu: "A 'Köztársaság Szalonja'-ként ismert a 20. század eleji modern építészete miatt, melyet Josef Gočár tervezett.",
-      ro: "Cunoscut ca 'Salonul Republicii' pentru arhitectura sa modernă de la începutul secolului XX, proiectată de Josef Gočár.",
-      en: "Known as the 'Salon of the Republic' for its modern early 20th-century architecture designed by Josef Gočár."
-    },
-    facts: {
-      de: ["Historische Mitgiftstadt der böhmischen Königinnen.", "Zusammenfluss von Elbe und Adler.", "Wichtiger Universitäts- und Wissenschaftsstandort."],
-      hu: ["A cseh királynők történelmi hozományvárosa.", "Az Elba és az Orlice folyók összefolyásánál fekszik.", "Fontos egyetemi és tudományos központ."],
-      ro: ["Oraș de zestre istoric al reginelor boeme.", "Confluența râurilor Elba și Orlice.", "Centru universitar și științific important."],
-      en: ["Historic dowry town of Bohemian queens.", "Confluence of the Elbe and Orlice rivers.", "Important university and science hub."]
-    }
-  },
-  {
-    id: "city-pardubice-extra",
-    type: "city",
-    parent: "CZ-PA",
-    coords: [15.779, 50.0385],
-    name: { de: "Pardubitz", hu: "Pardubice", ro: "Pardubice", en: "Pardubice" },
-    description: {
-      de: "Berühmt für sein Lebkuchen, das Große Pardubitzer Steeplechase-Pferderennen und eine starke Tradition in der chemischen Industrie.",
-      hu: "Híres a mézeskalácsáról, a Velká pardubická steeplechase lóversenyről és az erős vegyipari hagyományairól.",
-      ro: "Faimos pentru turta sa dulce, cursa de cai Velká pardubická și o puternică tradiție în industria chimică.",
-      en: "Famous for its gingerbread, the Velká pardubická steeplechase horse race, and a strong tradition in the chemical industry."
-    },
-    facts: {
-      de: ["Das Pardubitzer Schloss dominiert das Stadtzentrum.", "Ein wichtiger Eisenbahnknotenpunkt.", "Heimat des Sprengstoffs Semtex."],
-      hu: ["A pardubicei kastély uralja a városközpontot.", "Fontos vasúti csomópont.", "A Semtex robbanóanyag szülőhelye."],
-      ro: ["Castelul Pardubice domină centrul orașului.", "Un nod feroviar important.", "Locul de origine al explozibilului Semtex."],
-      en: ["Pardubice Castle dominates the city center.", "A major railway hub.", "Home of the Semtex explosive."]
-    }
-  },
-  {
-    id: "city-zlin-extra",
-    type: "city",
-    parent: "CZ-ZL",
-    coords: [17.6669, 49.2258],
-    name: { de: "Zlin", hu: "Zlín", ro: "Zlín", en: "Zlín" },
-    description: {
-      de: "Eine Stadt, die untrennbar mit der Schuhfirma Bata verbunden ist. Bekannt für ihre einzigartige funktionalistische Architektur und Stadtplanung.",
-      hu: "A város elválaszthatatlanul kapcsolódik a Bata cipőgyárhoz. Híres egyedi funkcionalista építészetéről és várostervezéséről.",
-      ro: "Un oraș inseparabil legat de compania de încălțăminte Bata. Cunoscut pentru arhitectura sa funcționalistă unică și planificarea urbană.",
-      en: "A city inseparably linked with the Bata shoe company. Known for its unique functionalist architecture and urban planning."
-    },
-    facts: {
-      de: ["Sitz der Tomas-Bata-Universität.", "Das Gebäude Nr. 21 war einer der ersten Wolkenkratzer Europas.", "Ein Zentrum für Filmproduktion für Kinder und Jugendliche."],
-      hu: ["A Tomáš Baťa Egyetem székhelye.", "A 21-es épület Európa egyik első felhőkarcolója volt.", "A gyermek- és ifjúsági filmgyártás központja."],
-      ro: ["Sediul Universității Tomas Bata.", "Clădirea 21 a fost unul dintre primii zgârie-nori din Europa.", "Un centru pentru producția de filme pentru copii și tineret."],
-      en: ["Seat of the Tomas Bata University.", "Building 21 was one of the first skyscrapers in Europe.", "A center for film production for children and youth."]
-    }
-  },
-  {
+export const poiExtraCzechRepublicCities: POI[] = [{
     id: "city-most-extra",
     type: "city",
     parent: "CZ-US",
@@ -171,27 +37,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Fosta capitală a Sileziei Austriece.", "Centru cultural și educațional important.", "Orașul a fost grav avariat în Al Doilea Război Mondial."],
       en: ["Former capital of Austrian Silesia.", "Important cultural and educational center.", "The city was heavily damaged in World War II."]
     }
-  },
-  {
-    id: "city-frydek-mistek-extra",
-    type: "city",
-    parent: "CZ-MO",
-    coords: [18.3508, 49.6806],
-    name: { de: "Friedeck-Mistek", hu: "Frýdek-Místek", ro: "Frýdek-Místek", en: "Frýdek-Místek" },
-    description: {
-      de: "Eine Doppelstadt an den Ufern des Flusses Ostravice, am Tor zu den Beskiden, mit einem schönen Schloss und einer reichen Folkloretradition.",
-      hu: "Ikerközség az Ostravice folyó partján, a Beszkidek kapujában, gyönyörű kastéllyal és gazdag folklór hagyományokkal.",
-      ro: "Un oraș dublu pe malurile râului Ostravice, la poarta Munților Beskizi, cu un castel frumos și o bogată tradiție folclorică.",
-      en: "A twin-town on the banks of the Ostravice River, at the gateway to the Beskydy Mountains, with a beautiful chateau and rich folklore tradition."
-    },
-    facts: {
-      de: ["Besteht aus den ehemals getrennten Städten Frýdek und Místek.", "Die Basilika Mariä Heimsuchung ist ein wichtiger Wallfahrtsort.", "Starke industrielle Präsenz, insbesondere in der Metallurgie."],
-      hu: ["Az egykor különálló Frýdek és Místek városokból áll.", "A Sarlós Boldogasszony-bazilika fontos zarándokhely.", "Erős ipari jelenlét, különösen a kohászatban."],
-      ro: ["Format din orașele separate anterior Frýdek și Místek.", "Bazilica Vizita Fecioarei Maria este un important loc de pelerinaj.", "Prezență industrială puternică, în special în metalurgie."],
-      en: ["Formed from the formerly separate towns of Frýdek and Místek.", "The Basilica of the Visitation of the Virgin Mary is a major pilgrimage site.", "Strong industrial presence, particularly in metallurgy."]
-    }
-  },
-  {
+  },{
     id: "city-karvina-extra",
     type: "city",
     parent: "CZ-MO",
@@ -209,27 +55,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Castelul Fryštát este o clădire istorică remarcabilă.", "Multe părți ale orașului sunt afectate de subsidența minieră.", "Găzduiește o minoritate poloneză semnificativă."],
       en: ["The Fryštát Castle is a notable historical building.", "Many parts of the city are affected by mining subsidence.", "Home to a significant Polish minority."]
     }
-  },
-  {
-    id: "city-jihlava-extra",
-    type: "city",
-    parent: "CZ-VY",
-    coords: [15.591, 49.3999],
-    name: { de: "Iglau", hu: "Jihlava", ro: "Jihlava", en: "Jihlava" },
-    description: {
-      de: "Die älteste Bergbaustadt in den böhmischen Ländern, gelegen an der historischen Grenze zwischen Böhmen und Mähren. Heute ist sie das Verwaltungszentrum der Region Vysočina.",
-      hu: "A cseh korona országainak legrégebbi bányavárosa, Csehország és Morvaország történelmi határán. Ma a Vysočina régió közigazgatási központja.",
-      ro: "Cel mai vechi oraș minier din ținuturile cehe, situat la granița istorică dintre Boemia și Moravia. Astăzi este centrul administrativ al regiunii Vysočina.",
-      en: "The oldest mining town in the Czech lands, situated on the historical border between Bohemia and Moravia. Today it is the administrative center of the Vysočina Region."
-    },
-    facts: {
-      de: ["Berühmt für sein mittelalterliches Untergrund-Labyrinth.", "Veranstaltungsort des Internationalen Dokumentarfilmfestivals Jihlava.", "Ein wichtiger Handels- und Produktionsstandort in der Region."],
-      hu: ["Híres középkori földalatti labirintusáról.", "A Jihlavai Nemzetközi Dokumentumfilm Fesztivál helyszíne.", "Fontos kereskedelmi és termelési központ a régióban."],
-      ro: ["Renumit pentru labirintul său subteran medieval.", "Gazda Festivalului Internațional de Film Documentar de la Jihlava.", "Un centru comercial și de producție important în regiune."],
-      en: ["Famous for its medieval underground labyrinth.", "Host of the Jihlava International Documentary Film Festival.", "An important commercial and manufacturing hub in the region."]
-    }
-  },
-  {
+  },{
     id: "city-teplice-extra",
     type: "city",
     parent: "CZ-US",
@@ -247,27 +73,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Beethoven a fost un oaspete celebru.", "Un centru al industriei sticlei și ceramicii.", "Dispune de o grădină botanică și un observator."],
       en: ["Beethoven was a famous guest.", "A center of the glass and ceramics industry.", "Features a botanical garden and an observatory."]
     }
-  },
-  {
-    id: "city-decin-extra",
-    type: "city",
-    parent: "CZ-US",
-    coords: [14.214, 50.7766],
-    name: { de: "Tetschen-Bodenbach", hu: "Děčín", ro: "Děčín", en: "Děčín" },
-    description: {
-      de: "Eine Stadt am Zusammenfluss von Elbe und Ploučnice, dominiert von einem Schloss auf einem Felsen. Es ist ein Tor zum Nationalpark Böhmische Schweiz.",
-      hu: "Város az Elba és a Ploučnice folyók összefolyásánál, amelyet egy sziklán álló kastély ural. A Cseh-Svájc Nemzeti Park kapuja.",
-      ro: "Un oraș la confluența râurilor Elba și Ploučnice, dominat de un castel pe o stâncă. Este o poartă de acces la Parcul Național Elveția Boemă.",
-      en: "A city at the confluence of the Elbe and Ploučnice rivers, dominated by a castle on a rock. It is a gateway to the Bohemian Switzerland National Park."
-    },
-    facts: {
-      de: ["Der niedrigstgelegene Punkt der Tschechischen Republik.", "Ein wichtiger Flusshafen und Eisenbahnknotenpunkt.", "Das Schloss hat einen berühmten Rosengarten."],
-      hu: ["Csehország legalacsonyabb pontja.", "Fontos folyami kikötő és vasúti csomópont.", "A kastély híres rózsakerttel rendelkezik."],
-      ro: ["Cel mai jos punct din Republica Cehă.", "Un port fluvial și nod feroviar important.", "Castelul are o faimoasă grădină de trandafiri."],
-      en: ["The lowest elevated point in the Czech Republic.", "An important river port and railway junction.", "The castle has a famous rose garden."]
-    }
-  },
-  {
+  },{
     id: "city-chomutov-extra",
     type: "city",
     parent: "CZ-US",
@@ -399,46 +205,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Cel mai mare oraș din regiunea Boemia Centrală.", "Moștenirea minieră este încă vizibilă în peisaj.", "Legătură puternică cu hocheiul pe gheață, cu o echipă locală faimoasă."],
       en: ["Largest city in the Central Bohemian Region.", "The legacy of mining is still visible in the landscape.", "Strong connection to ice hockey, with a famous local team."]
     }
-  },
-  {
-    id: "city-usti-nad-labem-extra",
-    type: "city",
-    parent: "CZ-US",
-    coords: [14.04, 50.66],
-    name: { de: "Aussig an der Elbe", hu: "Ústí nad Labem", ro: "Ústí nad Labem", en: "Ústí nad Labem" },
-    description: {
-      de: "Eine große Industriestadt und ein Flusshafen an der Elbe. Die Stadt ist von der malerischen Landschaft des Böhmischen Mittelgebirges umgeben.",
-      hu: "Nagy ipari város és folyami kikötő az Elba partján. A várost a Cseh-középhegység festői tája veszi körül.",
-      ro: "Un oraș industrial major și port fluvial pe râul Elba. Orașul este înconjurat de peisajul pitoresc al Munților Centrali Boemi.",
-      en: "A major industrial city and river port on the Elbe. The city is surrounded by the picturesque scenery of the Bohemian Central Uplands."
-    },
-    facts: {
-      de: ["Sitz der Jan-Evangelista-Purkyně-Universität.", "Die Burg Střekov thront über dem Fluss.", "Wichtiger Knotenpunkt für den Schienen- und Straßenverkehr nach Deutschland."],
-      hu: ["A Jan Evangelista Purkyně Egyetem székhelye.", "A Střekov-vár a folyó fölé magasodik.", "Fontos vasúti és közúti csomópont Németország felé."],
-      ro: ["Sediul Universității Jan Evangelista Purkyně.", "Castelul Střekov domină râul.", "Nod important pentru transportul feroviar și rutier către Germania."],
-      en: ["Seat of the Jan Evangelista Purkyně University.", "Střekov Castle towers above the river.", "Important rail and road hub to Germany."]
-    }
-  },
-  {
-    id: "city-tabor-extra",
-    type: "city",
-    parent: "CZ-JC",
-    coords: [14.6577, 49.4143],
-    name: { de: "Tabor", hu: "Tábor", ro: "Tábor", en: "Tábor" },
-    description: {
-      de: "Eine Stadt mit einer reichen Geschichte, die 1420 von den radikalen Hussiten gegründet wurde. Ihr historisches Zentrum bewahrt ein mittelalterliches Flair.",
-      hu: "Gazdag történelmű város, amelyet 1420-ban a radikális husziták alapítottak. Történelmi központja megőrizte középkori hangulatát.",
-      ro: "Un oraș cu o istorie bogată, fondat în 1420 de husiții radicali. Centrul său istoric păstrează o atmosferă medievală.",
-      en: "A town with a rich history, founded in 1420 by the radical Hussites. Its historical center preserves a medieval feel."
-    },
-    facts: {
-      de: ["Das Hussitenmuseum dokumentiert die revolutionäre Bewegung.", "Die Stadt wurde als militärische Festung und egalitäre Gemeinschaft konzipiert.", "Der zentrale Platz ist nach dem hussitischen Anführer Jan Žižka benannt."],
-      hu: ["A Huszita Múzeum a forradalmi mozgalmat dokumentálja.", "A várost katonai erődítménynek és egalitárius közösségnek tervezték.", "A központi tér Jan Žižka huszita vezérről kapta a nevét."],
-      ro: ["Muzeul Husit documentează mișcarea revoluționară.", "Orașul a fost conceput ca o fortăreață militară și o comunitate egalitară.", "Piața centrală este numită după liderul husit Jan Žižka."],
-      en: ["The Hussite Museum documents the revolutionary movement.", "The town was designed as a military fortress and egalitarian community.", "The central square is named after the Hussite leader Jan Žižka."]
-    }
-  },
-  {
+  },{
     id: "city-havlickuv-brod-extra",
     type: "city",
     parent: "CZ-VY",
@@ -494,27 +261,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Biserica Sf. Bartolomeu a fost proiectată de Peter Parler.", "Un centru important al industriei chimice.", "Gazda festivalului anual Gasparade."],
       en: ["St. Bartholomew's Church was designed by Peter Parler.", "An important center for the chemical industry.", "Host of the annual Gasparade festival."]
     }
-  },
-  {
-    id: "city-trutnov-extra",
-    type: "city",
-    parent: "CZ-HK",
-    coords: [15.9126, 50.5611],
-    name: { de: "Trautenau", hu: "Trutnov", ro: "Trutnov", en: "Trutnov" },
-    description: {
-      de: "Das 'Tor zum Riesengebirge', eine Stadt mit einer Legende von einem Drachen. Bekannt für das Trutnoff Open Air Music Festival.",
-      hu: "Az 'Óriás-hegység kapuja', egy sárkány legendájával rendelkező város. Híres a Trutnoff Open Air Zenei Fesztiválról.",
-      ro: "Poarta de acces către Munții Karkonosze, un oraș cu o legendă despre un dragon. Cunoscut pentru Festivalul de Muzică în Aer Liber Trutnoff.",
-      en: "The 'Gateway to the Giant Mountains', a town with a legend of a dragon. Known for the Trutnoff Open Air Music Festival."
-    },
-    facts: {
-      de: ["Schauplatz einer bedeutenden Schlacht im Deutschen Krieg von 1866.", "Das Stadtzentrum verfügt über einen großen Hauptplatz und Arkaden.", "Ein Zentrum für Textil- und Maschinenbauindustrie."],
-      hu: ["Az 1866-os porosz-osztrák háború egyik fontos csatájának helyszíne.", "A városközpont nagy főtérrel és árkádokkal rendelkezik.", "A textil- és gépipar központja."],
-      ro: ["Locul unei bătălii importante în Războiul Austro-Prusac din 1866.", "Centrul orașului are o piață principală mare și arcade.", "Un centru pentru industria textilă și de inginerie."],
-      en: ["Site of a major battle in the Austro-Prussian War of 1866.", "The town center features a large main square and arcades.", "A center for textile and engineering industries."]
-    }
-  },
-  {
+  },{
     id: "city-sumperk-extra",
     type: "city",
     parent: "CZ-OL",
@@ -532,27 +279,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Un centru important pentru producția de textile și in în trecut.", "Casa Geschner este un muzeu dedicat proceselor de vrăjitorie.", "Centrul orașului este protejat ca rezervație monumentală urbană."],
       en: ["An important center for textile and linen production in the past.", "The Geschner House is a museum dedicated to the witch trials.", "The town center is protected as an urban monument reservation."]
     }
-  },
-  {
-    id: "city-kromeriz-extra",
-    type: "city",
-    parent: "CZ-ZL",
-    coords: [17.3931, 49.2981],
-    name: { de: "Kremsier", hu: "Kroměříž", ro: "Kroměříž", en: "Kroměříž" },
-    description: {
-      de: "Bekannt als das 'Athen von Haná', sind sein Erzbischöfliches Schloss und seine Gärten ein UNESCO-Weltkulturerbe. Ein Juwel der Barockarchitektur.",
-      hu: "A 'Haná Athénjaként' ismert, érseki palotája és kertjei az UNESCO Világörökség részét képezik. A barokk építészet gyöngyszeme.",
-      ro: "Cunoscut ca 'Atena din Haná', Palatul și Grădinile sale Arhiepiscopale sunt un sit al Patrimoniului Mondial UNESCO. O bijuterie a arhitecturii baroce.",
-      en: "Known as the 'Athens of Haná', its Archbishop's Palace and Gardens are a UNESCO World Heritage site. A jewel of Baroque architecture."
-    },
-    facts: {
-      de: ["Die Gärten wurden als Drehort für den Film 'Amadeus' genutzt.", "Sommerresidenz der Bischöfe und Erzbischöfe von Olmütz.", "Der Reichstag des Österreichischen Kaiserreichs tagte hier 1848."],
-      hu: ["A kerteket az 'Amadeus' című film forgatási helyszíneként használták.", "Az olmützi püspökök és érsekek nyári rezidenciája.", "Az Osztrák Császárság birodalmi gyűlése itt ülésezett 1848-ban."],
-      ro: ["Grădinile au fost folosite ca locație de filmare pentru filmul 'Amadeus'.", "Reședința de vară a episcopilor și arhiepiscopilor de Olomouc.", "Dieta Imperiului Austriac s-a întrunit aici în 1848."],
-      en: ["The gardens were used as a filming location for the movie 'Amadeus'.", "Summer residence of the bishops and archbishops of Olomouc.", "The Imperial Diet of the Austrian Empire met here in 1848."]
-    }
-  },
-  {
+  },{
     id: "city-vsetin-extra",
     type: "city",
     parent: "CZ-ZL",
@@ -570,46 +297,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Castelul Vsetín găzduiește muzeul regional.", "Tradiții puternice în ingineria electrică.", "Un centru pentru activități în aer liber, cum ar fi drumețiile și schiul."],
       en: ["Vsetín Castle houses the regional museum.", "Strong traditions in electrical engineering.", "A hub for outdoor activities like hiking and skiing."]
     }
-  },
-  {
-    id: "city-cheb-extra",
-    type: "city",
-    parent: "CZ-KA",
-    coords: [12.3736, 50.0792],
-    name: { de: "Eger", hu: "Cheb", ro: "Cheb", en: "Cheb" },
-    description: {
-      de: "Eine historische Stadt nahe der deutschen Grenze mit einem einzigartigen Komplex mittelalterlicher Kaufmannshäuser namens Špalíček und einer Kaiserpfalz.",
-      hu: "Történelmi város a német határ közelében, egyedülálló középkori kereskedőház-komplexummal, a Špalíčekkel és egy császári palotával.",
-      ro: "Un oraș istoric aproape de granița cu Germania, cu un complex unic de case medievale de negustori numit Špalíček și un palat imperial.",
-      en: "A historic city near the German border, with a unique complex of medieval merchant houses called Špalíček and an imperial castle."
-    },
-    facts: {
-      de: ["Hier wurde 1634 der kaiserliche Generalissimus Wallenstein ermordet.", "Die St.-Nikolaus-Kirche hat zwei markante, ungleiche Türme.", "Ein wichtiges Zentrum während des Heiligen Römischen Reiches."],
-      hu: ["Itt gyilkolták meg 1634-ben Wallenstein császári generalisszimuszt.", "A Szent Miklós-templomnak két jellegzetes, egyenlőtlen tornya van.", "Fontos központ volt a Német-római Birodalom idején."],
-      ro: ["Generalul imperial Wallenstein a fost asasinat aici în 1634.", "Biserica Sf. Nicolae are două turnuri distincte, inegale.", "Un centru important în timpul Sfântului Imperiu Roman."],
-      en: ["The imperial generalissimo Wallenstein was assassinated here in 1634.", "St. Nicholas Church has two distinctive, unequal towers.", "An important center during the Holy Roman Empire."]
-    }
-  },
-  {
-    id: "castle-karlstejn-extra",
-    type: "castle",
-    parent: "CZ-ST",
-    coords: [14.24, 49.9392],
-    name: { de: "Burg Karlštejn", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle" },
-    description: {
-      de: "Eine prächtige gotische Burg, die von Kaiser Karl IV. gegründet wurde, um die kaiserlichen Kronjuwelen aufzubewahren.",
-      hu: "Nagy gótikus vár, amelyet IV. Károly császár alapított a császári koronaékszerek őrzésére.",
-      ro: "Un magnific castel gotic fondat de împăratul Carol al IV-lea pentru a păstra bijuteriile coroanei imperiale.",
-      en: "A magnificent Gothic castle founded by Emperor Charles IV to house the imperial crown jewels."
-    },
-    facts: {
-      de: ["Die Kapelle des Heiligen Kreuzes ist mit Edelsteinen und Gemälden geschmückt.", "Eine der meistbesuchten Burgen in der Tschechischen Republik.", "Die Burg wurde nie militärisch erobert."],
-      hu: ["A Szent Kereszt-kápolnát drágakövek és festmények díszítik.", "Csehország egyik leglátogatottabb vára.", "A várat soha nem hódították meg katonai erővel."],
-      ro: ["Capela Sfintei Cruci este decorată cu pietre prețioase și picturi.", "Unul dintre cele mai vizitate castele din Republica Cehă.", "Castelul nu a fost niciodată cucerit militar."],
-      en: ["The Chapel of the Holy Cross is decorated with precious stones and paintings.", "One of the most visited castles in the Czech Republic.", "The castle was never militarily conquered."]
-    }
-  },
-  {
+  },{
     id: "castle-cesky-krumlov-extra",
     type: "castle",
     parent: "CZ-JC",
@@ -779,27 +467,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["A servit ca reședință regală și închisoare de temut.", "Biblioteca castelului conține peste 52.000 de volume.", "Capela gotică este o bijuterie a arhitecturii castelului."],
       en: ["Served as a royal residence and a feared prison.", "The castle library contains over 52,000 volumes.", "The Gothic chapel is a jewel of castle architecture."]
     }
-  },
-  {
-    id: "castle-trosky-extra",
-    type: "castle",
-    parent: "CZ-LI",
-    coords: [15.2306, 50.5164],
-    name: { de: "Burg Trosky", hu: "Trosky vára", ro: "Castelul Trosky", en: "Trosky Castle" },
-    description: {
-      de: "Die Ruine einer gotischen Burg auf zwei Basaltfelsen. Ihre Silhouette ist eines der Symbole des Böhmischen Paradieses.",
-      hu: "Egy gótikus vár romja két bazaltsziklán. Sziluettje a Cseh Paradicsom egyik jelképe.",
-      ro: "Ruinele unui castel gotic pe două stânci de bazalt. Silueta sa este unul dintre simbolurile Paradisului Boem.",
-      en: "The ruin of a Gothic castle on two basalt volcanic plugs. Its silhouette is one of the symbols of the Bohemian Paradise."
-    },
-    facts: {
-      de: ["Die beiden Türme heißen 'Baba' (Alte Frau) und 'Panna' (Jungfrau).", "Die Burg wurde im Dreißigjährigen Krieg schwer beschädigt.", "Bietet einen weiten Blick über die Landschaft."],
-      hu: ["A két tornyot 'Baba' (Öregasszony) és 'Panna' (Szűz) néven ismerik.", "A várat a harmincéves háborúban súlyosan megrongálták.", "Széles kilátást nyújt a tájra."],
-      ro: ["Cele două turnuri sunt numite 'Baba' (Baba) și 'Panna' (Fecioara).", "Castelul a fost grav avariat în timpul Războiului de Treizeci de Ani.", "Oferă vederi extinse asupra peisajului rural."],
-      en: ["The two towers are named 'Baba' (Old Woman) and 'Panna' (Maiden).", "The castle was heavily damaged during the Thirty Years' War.", "Offers expansive views of the countryside."]
-    }
-  },
-  {
+  },{
     id: "monastery-kladruby-extra",
     type: "monastery",
     parent: "CZ-PL",
@@ -893,27 +561,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Fondată în 1895 ca Laurin & Klement.", "Fabrica include un muzeu care prezintă istoria mărcii.", "Produce câteva sute de mii de vehicule pe an."],
       en: ["Founded in 1895 as Laurin & Klement.", "The plant includes a museum showcasing the brand's history.", "Produces several hundred thousand vehicles annually."]
       }
-      },
-      {
-      id: "industry-pilsner-urquell-brewery-extra",
-      type: "industry",
-      parent: "CZ-PL",
-      coords: [13.388, 49.747],
-      name: { de: "Pilsner Urquell Brauerei", hu: "Pilsner Urquell Sörgyár", ro: "Fabrica de bere Pilsner Urquell", en: "Pilsner Urquell Brewery" },
-      description: {
-      de: "Die ursprüngliche Brauerei, in der 1842 das erste Pilsner Lagerbier der Welt gebraut wurde. Ein Wahrzeichen der Biergeschichte.",
-      hu: "Az eredeti sörgyár, ahol 1842-ben a világ első pilseni típusú láger sörét főzték. A sörtörténelem egyik mérföldköve.",
-      ro: "Fabrica de bere originală unde a fost produsă prima bere blondă Pilsner din lume în 1842. Un punct de reper în istoria berii.",
-      en: "The original brewery where the world's first Pilsner lager was brewed in 1842. A landmark in beer history."
-      },
-      facts: {
-      de: ["Bietet Führungen an, die historische Keller und moderne Abfüllanlagen umfassen.", "Das Brauereitor ist ein berühmtes Wahrzeichen.", "Produziert immer noch Bier nach dem Originalrezept."],
-      hu: ["Túrákat kínál, amelyek magukban foglalják a történelmi pincéket és a modern palackozóüzemeket.", "A sörgyár kapuja híres jelkép.", "Még mindig az eredeti recept szerint gyárt sört."],
-      ro: ["Oferă tururi care includ pivnițe istorice și linii moderne de îmbuteliere.", "Poarta fabricii de bere este un reper faimos.", "Încă produce bere după rețeta originală."],
-      en: ["Offers tours that include historic cellars and modern bottling lines.", "The brewery gate is a famous landmark.", "Still produces beer according to the original recipe."]
-      }
-      },
-      {
+      },{
       id: "industry-budweiser-budvar-brewery-extra",
       type: "industry",
       parent: "CZ-JC",
@@ -1159,27 +807,7 @@ export const poiExtraCzechRepublicCities: POI[] = [
       ro: ["Sněžka este cel mai înalt munte, cu 1603 m.", "Izvorul râului Elba este situat aici.", "Zona este bogată în tundră arctică-alpină unică."],
       en: ["Sněžka is the highest mountain at 1603 m.", "The source of the Elbe River is located here.", "The area is rich in unique arctic-alpine tundra."]
       }
-      },
-      {
-      id: "nature-moravian-karst-extra",
-      type: "nature",
-      parent: "CZ-JM",
-      coords: [16.73, 49.37],
-      name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst" },
-      description: {
-      de: "Eines der wichtigsten Karstgebiete in Mitteleuropa, mit über 1100 Höhlen und Schluchten, einschließlich der berühmten Macocha-Schlucht.",
-      hu: "Közép-Európa egyik legfontosabb karsztvidéke, több mint 1100 barlanggal és szurdokkal, köztük a híres Macocha-szakadékkal.",
-      ro: "Una dintre cele mai importante zone carstice din Europa Centrală, cu peste 1100 de peșteri și prăpăstii, inclusiv faimoasa prăpastie Macocha.",
-      en: "One of the most important karst areas in Central Europe, with over 1100 caves and gorges, including the famous Macocha Abyss."
-      },
-      facts: {
-      de: ["Die Punkva-Höhlen bieten eine unterirdische Bootsfahrt.", "Die Macocha-Schlucht ist über 138 Meter tief.", "Ein wichtiges Gebiet für die archäologische Forschung."],
-      hu: ["A Punkva-barlangok földalatti hajókázást kínálnak.", "A Macocha-szakadék több mint 138 méter mély.", "Fontos régészeti kutatási terület."],
-      ro: ["Peșterile Punkva oferă o plimbare cu barca subterană.", "Abisul Macocha are o adâncime de peste 138 de metri.", "O zonă importantă pentru cercetarea arheologică."],
-      en: ["The Punkva Caves offer an underground boat ride.", "The Macocha Abyss is over 138 meters deep.", "An important area for archaeological research."]
-      }
-      },
-      {
+      },{
       id: "lake-lipno-dam-extra",
       type: "lake",
       parent: "CZ-JC",

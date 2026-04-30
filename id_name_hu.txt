@@ -1,0 +1,242 @@
+mississauga-cities-v2	Mississauga
+brampton-cities-v2	Brampton
+hamilton-cities-v2	Hamilton
+london-cities-v2	London
+markham-cities-v2	Markham
+vaughan-cities-v2	Vaughan
+kitchener-cities-v2	Kitchener
+windsor-cities-v2	Windsor
+surrey-cities-v2	Surrey
+burnaby-cities-v2	Burnaby
+richmond-cities-v2	Richmond
+coquitlam-cities-v2	Coquitlam
+kelowna-cities-v2	Kelowna
+laval-cities-v2	Laval
+gatineau-cities-v2	Gatineau
+longueuil-cities-v2	Longueuil
+sherbrooke-cities-v2	Sherbrooke
+saguenay-cities-v2	Saguenay
+levis-cities-v2	Lévis
+trois-rivieres-cities-v2	Trois-Rivières
+lethbridge-cities-v2	Lethbridge
+red-deer-cities-v2	Red Deer
+st-albert-cities-v2	St. Albert
+medicine-hat-cities-v2	Medicine Hat
+grande-prairie-cities-v2	Grande Prairie
+moncton-cities-v2	Moncton
+saint-john-cities-v2	Saint John
+cape-breton-cities-v2	Sydney (Új-Skócia)
+barrie-cities-v2	Barrie
+oshawa-cities-v2	Oshawa
+guelph-cities-v2	Guelph
+kingston-cities-v2	Kingston
+kamloops-cities-v2	Kamloops
+nanaimo-cities-v2	Nanaimo
+prince-george-cities-v2	Prince George
+chilliwack-cities-v2	Chilliwack
+abbotsford-cities-v2	Abbotsford
+thunder-bay-cities-v2	Thunder Bay
+sudbury-cities-v2	Greater Sudbury
+brantford-cities-v2	Brantford
+peterborough-cities-v2	Peterborough
+sarnia-cities-v2	Sarnia
+niagara-falls-city-cities-v2	Niagara Falls (város)
+st-catharines-cities-v2	St. Catharines
+chatham-kent-cities-v2	Chatham-Kent
+new-westminster-cities-v2	New Westminster
+port-coquitlam-cities-v2	Port Coquitlam
+langley-cities-v2	Langley (város)
+white-rock-cities-v2	White Rock
+terrebonne-cities-v2	Terrebonne
+saint-jean-sur-richelieu-cities-v2	Saint-Jean-sur-Richelieu
+blainville-cities-v2	Blainville
+drummondville-cities-v2	Drummondville
+saint-hyacinthe-cities-v2	Saint-Hyacinthe
+mirabel-cities-v2	Mirabel
+granby-cities-v2	Granby
+moose-jaw-cities-v2	Moose Jaw
+prince-albert-cities-v2	Prince Albert
+brandon-cities-v2	Brandon
+north-bay-cities-v2	North Bay
+belleville-cities-v2	Belleville
+sault-ste-marie-cities-v2	Sault Ste. Marie
+kawartha-lakes-cities-v2	Kawartha Lakes
+airdrie-cities-v2	Airdrie
+wood-buffalo-fort-mcmurray-cities-v2	Fort McMurray
+st-johns-county-cities-v2	St. John's (agglomeráció)
+clarington-cities-v2	Clarington
+pickering-cities-v2	Pickering
+ajax-cities-v2	Ajax
+richmond-hill-cities-v2	Richmond Hill
+oakville-cities-v2	Oakville
+burlington-cities-v2	Burlington
+cambridge-cities-v2	Cambridge
+waterloo-cities-v2	Waterloo
+halton-hills-cities-v2	Halton Hills
+milton-cities-v2	Milton
+newmarket-cities-v2	Newmarket
+caledon-cities-v2	Caledon
+maple-ridge-cities-v2	Maple Ridge
+north-vancouver-cities-v2	North Vancouver (város)
+delta-cities-v2	Delta
+victoriaville-cities-v2	Victoriaville
+salaberry-de-valleyfield-cities-v2	Salaberry-de-Valleyfield
+saint-jerome-cities-v2	Saint-Jérôme
+shawinigan-cities-v2	Shawinigan
+rimouski-cities-v2	Rimouski
+swift-current-cities-v2	Swift Current
+yorkton-cities-v2	Yorkton
+north-battleford-cities-v2	North Battleford
+lloydminster-cities-v2	Lloydminster
+corner-brook-cities-v2	Corner Brook
+mount-pearl-cities-v2	Mount Pearl
+conception-bay-south-cities-v2	Conception Bay South
+truro-cities-v2	Truro
+new-glasgow-cities-v2	New Glasgow
+summerside-cities-v2	Summerside
+syncrude-oilsands-economic-v2	Syncrude olajhomok
+suncor-fort-mcmurray-economic-v2	Suncor Fort McMurray
+sudbury-nickel-mines-economic-v2	Sudbury nikkelbányák
+potash-corp-saskatchewan-economic-v2	Saskatchewani káliműtrágya-bányászat
+gander-international-port-economic-v2	Gander logisztikai központ
+quebec-aluminum-smelter-economic-v2	Québeci alumíniumkohó
+saint-john-port-economic-v2	Saint John-i kikötő
+thunder-bay-port-economic-v2	Thunder Bay-i kikötő
+delta-port-economic-v2	Deltaport konténerterminál
+sept-iles-port-economic-v2	Sept-Îles-i kikötő
+kitimat-lng-economic-v2	Kitimat LNG üzem
+windsor-assembly-plant-economic-v2	Windsori autógyár
+saskatoon-uranium-mining-economic-v2	Saskatchewani uránbányászat
+winnipeg-logistics-hub-economic-v2	Winnipegi logisztikai csomópont
+burnaby-oil-refinery-economic-v2	Burnaby olajfinomító
+nanticoke-steel-plant-economic-v2	Nanticoke acélmű
+columbia-river-hydro-economic-v2	Columbia-folyó vízerőmű
+hamilton-port-economic-v2	Hamiltoni kikötő
+sarnia-petrochemical-economic-v2	Sarnia vegyipari park
+vancouver-grain-terminals-economic-v2	Vancouveri gabonaterminálok
+charlottetown-port-economic-v2	Charlottetowni kikötő
+oilsands-pipe-infrastructure-economic-v2	Olajhomok csővezeték-hálózat
+st-johns-port-economic-v2	St. John's-i kikötő
+guelph-manufacturing-hub-economic-v2	Guelphi ipari központ
+baffin-mining-project-economic-v2	Baffin-szigeti bányászati projekt
+fraser-valley-agriculture-logistics-economic-v2	Fraser-völgyi agrár-logisztika
+fort-york-toronto-history-v2	
+battle-of-batoche-history-v2	
+grosse-ile-irish-memorial-history-v2	
+fort-henry-kingston-history-v2	
+klondike-gold-rush-history-v2	
+writing-on-stone-park-history-v2	
+red-bay-basque-whaling-history-v2	
+pier-21-halifax-history-v2	
+fort-garry-winnipeg-history-v2	
+dundurn-castle-hamilton-history-v2	
+fort-langley-history-v2	
+old-montreal-history-v2	
+distillery-district-toronto-history-v2	
+sgang-gwaay-history-v2	
+battlefields-park-quebec-history-v2	
+casa-loma-toronto-history-v2	
+craigdarroch-castle-victoria-history-v2	
+royal-bc-museum-history-v2	
+glenbow-museum-calgary-history-v2	
+chateau-ramsay-montreal-history-v2	
+fort-malden-amherstburg-history-v2	
+martello-towers-kingston-history-v2	
+galt-historic-railway-park-history-v2	
+britannia-mine-museum-history-v2	
+bar-u-ranch-history-v2	
+fisgard-lighthouse-history-v2	
+gulf-of-georgia-cannery-history-v2	
+green-gables-pei-history-v2	
+province-house-charlottetown-history-v2	
+esterhazy-flour-mill-history-v2	
+notre-dame-basilica-montreal-landmarks-v2	Notre-Dame bazilika (Montréal)
+saint-josephs-oratory-landmarks-v2	Szent József-oratórium
+confederation-bridge-landmarks-v2	Konföderáció-híd
+calgary-tower-landmarks-v2	Calgary Tower
+rogers-centre-landmarks-v2	Rogers Centre
+scotiabank-saddledome-landmarks-v2	Scotiabank Saddledome
+olympic-stadium-montreal-landmarks-v2	Olimpiai Stadion (Montréal)
+bc-place-stadium-landmarks-v2	BC Place Stadion
+habitat-67-landmarks-v2	Habitat 67
+national-gallery-of-canada-landmarks-v2	Kanadai Nemzeti Galéria
+royal-ontario-museum-landmarks-v2	Királyi Ontario Múzeum
+canadian-museum-for-human-rights-landmarks-v2	Kanadai Emberi Jogi Múzeum
+fairmont-le-chateau-frontenac-landmarks-v2	Fairmont Le Château Frontenac
+casa-loma-landmarks-v2	Casa Loma
+toronto-city-hall-landmarks-v2	Torontói városháza
+lions-gate-bridge-landmarks-v2	Lions Gate híd
+peace-tower-ottawa-landmarks-v2	Béke-torony (Ottawa)
+ontario-place-cinesphere-landmarks-v2	Ontario Place Cinesphere
+brockville-railway-tunnel-landmarks-v2	Brockville-i vasúti alagút
+toronto-sign-landmarks-v2	Toronto felirat
+calgary-peace-bridge-landmarks-v2	Béke-híd (Calgary)
+gooderham-building-landmarks-v2	Gooderham-épület
+hartland-covered-bridge-landmarks-v2	Hartlandi fedett híd
+macdonald-bridge-halifax-landmarks-v2	Angus L. Macdonald híd
+winnipeg-legislative-building-landmarks-v2	Manitoba Törvényhozási Épület
+saskatchewan-legislative-building-landmarks-v2	Saskatchewan Törvényhozási Épület
+edmonton-funicular-landmarks-v2	Edmontoni sikló
+prince-edward-viaduct-toronto-landmarks-v2	Prince Edward viadukt
+the-forks-winnipeg-landmarks-v2	The Forks (Winnipeg)
+toronto-zoo-life-v2	Torontói Állatkert
+calgary-zoo-life-v2	Calgary Állatkert
+granby-zoo-life-v2	Granby Állatkert
+vancouver-aquarium-life-v2	Vancouveri Akvárium
+ripleys-aquarium-canada-life-v2	Ripley's Akvárium, Kanada
+african-lion-safari-life-v2	Afrikai Oroszlán Szafari
+parc-omega-life-v2	Omega Park
+saskatoon-forestry-farm-park-zoo-life-v2	Saskatoon Erdészeti Farm Park és Állatkert
+assiniboine-park-zoo-life-v2	Assiniboine Park Állatkert
+edmonton-valley-zoo-life-v2	Edmonton Valley Állatkert
+magnetic-hill-zoo-life-v2	Magnetic Hill Állatkert
+pei-potato-farming-life-v2	PEI burgonyatermesztés
+niagara-icewine-life-v2	Niagara jégbor készítés
+prairie-canola-fields-life-v2	Préri repceföldek
+fraser-valley-blueberries-life-v2	Fraser-völgyi áfonya
+annapolis-valley-apples-life-v2	Annapolis-völgyi alma
+pacific-salmon-run-life-v2	Csendes-óceáni lazacvonulás
+gwaii-haanas-marine-life-v2	Gwaii Haanas tengeri élővilág
+churchill-beluga-whales-life-v2	Churchill-i belugák
+elk-island-bison-life-v2	Elk-szigeti Nemzeti Park bölényei
+point-pelee-bird-migration-life-v2	Point Pelee madárvonulás
+la-mauricie-black-bears-life-v2	La Mauricie feketemedvék
+calaway-park-life-v2	Calaway Park
+la-ronde-montreal-life-v2	La Ronde
+science-world-vancouver-life-v2	Tudományos Világ (Vancouver)
+ontario-science-centre-life-v2	Ontario Tudományos Központ
+saskatchewan-cranberry-life-v2	Saskatchewani tőzegáfonya-farmok
+gaspereau-valley-wines-life-v2	Gaspereau-völgyi borok
+southern-alberta-sugar-beets-life-v2	Dél-Albertai cukorrépa
+montreal-insectarium-life-v2	Montréali Rovartani Múzeum
+mount-assiniboine-nature-v2	Mount Assiniboine
+south-nahanni-river-nature-v2	South Nahanni-folyó
+great-slave-lake-nature-v2	Nagy-Rabszolga-tó
+haida-gwaii-islands-nature-v2	Haida Gwaii
+pacific-rim-national-park-forest-nature-v2	Pacific Rim Nemzeti Park erdő
+beaufort-sea-nature-v2	Beaufort-tenger
+mount-temple-nature-v2	Mount Temple
+athabasca-river-nature-v2	Athabasca-folyó
+lake-superior-nature-v2	Felső-tó
+magdalen-islands-nature-v2	Magdalen-szigetek
+boreal-forest-nature-v2	Kanadai boreális erdő
+hudson-bay-nature-v2	Hudson-öböl
+mount-waddington-nature-v2	Mount Waddington
+churchill-river-saskatchewan-nature-v2	Churchill-folyó (Saskatchewan)
+lake-winnipeg-nature-v2	Winnipeg-tó
+prince-edward-island-nature-v2	Prince Edward-sziget
+carmanah-walbran-provincial-park-forest-nature-v2	Carmanah Walbran Tartományi Park erdő
+mount-assiniboine-park-forest-nature-v2	Mount Assiniboine Park erdő
+gwaii-haanas-national-park-reserve-forest-nature-v2	Gwaii Haanas Nemzeti Park erdő
+mount-columbia-nature-v2	Mount Columbia
+peace-river-nature-v2	Peace-folyó
+lake-athabasca-nature-v2	Athabasca-tó
+cape-breton-island-nature-v2	Cape Breton-sziget
+manitoulin-island-nature-v2	Manitoulin-sziget
+yukon-river-nature-v2	Yukon-folyó
+mount-foraker-nature-v2	Mount St. Elias
+saint-john-river-nature-v2	Saint John-folyó
+malgne-lake-nature-v2	Maligne-tó
+bow-river-nature-v2	Bow-folyó
+thousand-islands-refill	Thousand Islands
+montreal-botanical-garden-refill	Montréali Botanikus Kert

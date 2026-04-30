@@ -13,7 +13,7 @@ export default function PoiGalleryCard({
   const href = buildPoiPath(lang, poi);
   const copy = SEO_COPY[lang];
   const title = poi.name[lang] || poi.name.de;
-  const description = poi.description[lang] || poi.description.de;
+  const description = poi.description?.[lang] || poi.description?.de || "";
 
   return (
     <a

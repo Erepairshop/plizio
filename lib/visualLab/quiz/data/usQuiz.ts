@@ -15,7 +15,7 @@ export const usQuizTasks: QuizTask[] = [
       ro: "Apasă pe New York City pe hartă!",
       en: "Click on New York City on the map!",
     },
-    targetPoiId: "usa_nyc",
+    targetPoiId: "new-york-city-cities-v2",
   },
   {
     id: "us-cp-2",
@@ -26,7 +26,7 @@ export const usQuizTasks: QuizTask[] = [
       ro: "Arată Los Angeles pe hartă!",
       en: "Show Los Angeles on the map!",
     },
-    targetPoiId: "usa_la",
+    targetPoiId: "los-angeles-cities-v2",
   },
   {
     id: "us-cp-3",
@@ -37,7 +37,7 @@ export const usQuizTasks: QuizTask[] = [
       ro: "Apasă pe Chicago pe hartă!",
       en: "Click on Chicago on the map!",
     },
-    targetPoiId: "usa_chi",
+    targetPoiId: "chicago-cities-v2",
   },
 
   // --- 2 × click_county ---
@@ -75,8 +75,8 @@ export const usQuizTasks: QuizTask[] = [
       en: "How far is New York City from Los Angeles? Click on both cities!",
     },
     // NYC (-74.01°, 40.71°) ↔ LA (-118.24°, 34.05°) = 3936 km haversine
-    targetPoiId: "usa_nyc",
-    targetPoiId2: "usa_la",
+    targetPoiId: "new-york-city-cities-v2",
+    targetPoiId2: "los-angeles-cities-v2",
     expectedKm: 3936,
   },
   {
@@ -89,8 +89,8 @@ export const usQuizTasks: QuizTask[] = [
       en: "How far is Chicago from Miami? Click on both cities!",
     },
     // Chicago (-87.63°, 41.88°) ↔ Miami (-80.19°, 25.76°) = 1917 km haversine
-    targetPoiId: "usa_chi",
-    targetPoiId2: "usa_mia",
+    targetPoiId: "chicago-cities-v2",
+    targetPoiId2: "miami-cities-v2",
     expectedKm: 1917,
   },
 
@@ -106,8 +106,8 @@ export const usQuizTasks: QuizTask[] = [
     },
     // NYC (-74°), Philadelphia (-75°), Boston (-71°), Miami (-80°) are on the East Coast;
     // Los Angeles (-118°) is on the West Coast
-    optionPoiIds: ["usa_nyc", "usa_phi", "usa_bos", "usa_mia", "usa_la"],
-    wrongPoiId: "usa_la",
+    optionPoiIds: ["new-york-city-cities-v2", "philadelphia-cities-v2", "boston-cities-v2", "miami-cities-v2", "los-angeles-cities-v2"],
+    wrongPoiId: "los-angeles-cities-v2",
   },
   {
     id: "us-se-2",
@@ -120,8 +120,8 @@ export const usQuizTasks: QuizTask[] = [
     },
     // Chicago (-87°/IL), Columbus (-83°/OH), Detroit (-83°/MI), Indianapolis (-86°/IN) are Midwest;
     // Dallas (-97°/TX) is in the South
-    optionPoiIds: ["usa_chi", "usa_col", "usa_dal", "usa_den", "usa_sea"],
-    wrongPoiId: "usa_sea",
+    optionPoiIds: ["chicago-cities-v2", "columbus-cities-v2", "dallas-cities-v2", "denver-cities-v2", "seattle-cities-v2"],
+    wrongPoiId: "seattle-cities-v2",
   },
 
   // --- 1 × order_by ---
@@ -129,13 +129,13 @@ export const usQuizTasks: QuizTask[] = [
     id: "us-ob-1",
     type: "order_by",
     question: {
-      de: "Klicke die Städte von West nach Ost: San Francisco → Chicago → New York City!",
-      hu: "Kattints a városokra nyugatról keletre: San Francisco → Chicago → New York City!",
-      ro: "Apasă orașele de la vest la est: San Francisco → Chicago → New York City!",
-      en: "Click the cities from west to east: San Francisco → Chicago → New York City!",
+      de: "Klicke die Städte von West nach Ost: Seattle → Chicago → New York City!",
+      hu: "Kattints a városokra nyugatról keletre: Seattle → Chicago → New York City!",
+      ro: "Apasă orașele de la vest la est: Seattle → Chicago → New York City!",
+      en: "Click the cities from west to east: Seattle → Chicago → New York City!",
     },
-    // San Francisco (-122.42°), Chicago (-87.63°), NYC (-74.01°) — west to east
-    orderedPoiIds: ["usa_sf", "usa_chi", "usa_nyc"],
+    // Seattle (-122.33°), Chicago (-87.63°), NYC (-74.01°) — west to east
+    orderedPoiIds: ["seattle-cities-v2", "chicago-cities-v2", "new-york-city-cities-v2"],
     orderBy: "west_to_east",
   },
 ];

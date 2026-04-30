@@ -18,7 +18,19 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A 13. században Snorri Sturluson tulajdona volt.", "Évszázadokig a dán kormányzók székhelyeként szolgált.", "A mai templom a 18. század végén épült.", "Izland egyik legrégebbi falazott épületegyüttese."],
       ro: ["Snorri Sturluson a deținut acest loc în secolul al XIII-lea.", "A servit timp de secole ca sediu al guvernatorilor danezi.", "Biserica actuală a fost construită la sfârșitul secolului al XVIII-lea.", "Este unul dintre cele mai vechi complexe de clădiri din piatră din Islanda."],
       en: ["Snorri Sturluson owned this site in the 13th century.", "Served as the seat of Danish governors for centuries.", "The current church was built in the late 18th century.", "It is one of Iceland's oldest masonry building complexes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bessastaðir ist zweifellos einer der geschichtsträchtigsten Orte Islands, dessen Bedeutung weit über die Funktion als Präsidentenresidenz hinausgeht. Schon in der Wikingerzeit war dieser Ort von strategischer und kultureller Wichtigkeit. Über die Jahrhunderte diente Bessastaðir als Symbol für Macht und Verwaltung, von der Zeit der norwegischen Herrschaft bis hin zum Sitz der dänischen Gouverneure. Besucher spüren hier den Hauch der Geschichte, der die Anlage umgibt. Die architektonische Verbindung zwischen altisländischer Baukunst und europäischen Einflüssen dokumentiert die wechselvolle Entwicklung des Landes. Ein Aufenthalt hier ermöglicht es, in die tiefen Schichten der isländischen Identität einzutauchen und zu verstehen, wie eng die heutige politische Stabilität mit dem historischen Erbe verwoben ist, das an diesem besonderen Ort bewahrt wird.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Seit Jahrhunderten ein Zentrum für Macht und Politik.", "Ehemals Sitz dänischer Gouverneure.", "Verbindet Wikinger-Erbe mit der modernen Präsidentschaft.", "Einer der ältesten gemauerten Gebäudekomplexe Islands.", "Die Kirche blickt auf eine lange Geschichte zurück.", "Ein Ort mit tiefer symbolischer Bedeutung für das Land."],
+      hu: [],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-reykholt-extra",
@@ -37,7 +49,19 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Snorri Sturluson itt írta a Snorra-Eddát.", "Itt található Izland legrégebbi mesterséges medencéje, a Snorralaug.", "A középkorban kulturális és politikai központ volt.", "Modern kulturális központtal (Snorrastofa) rendelkezik."],
       ro: ["Snorri Sturluson a scris aici Snorra Edda.", "Găzduiește cea mai veche piscină artificială din Islanda, Snorralaug.", "A fost un centru cultural și politic în Evul Mediu.", "Dispune de un centru cultural modern numit Snorrastofa."],
       en: ["Snorri Sturluson wrote the Prose Edda here.", "Features the oldest man-made bath in Iceland, Snorralaug.", "Was a major cultural and political center in the Middle Ages.", "Houses a modern cultural center called Snorrastofa."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Reykholt ist ein Ort, an dem die literarische Seele Islands besonders stark spürbar ist. Als einstiges Zuhause von Snorri Sturluson, einem der einflussreichsten Gelehrten und Politiker des Mittelalters, atmet dieser Ort förmlich die Geschichte der altnordischen Literatur. Das Dorf bietet Besuchern nicht nur die Möglichkeit, den historischen Ort Snorralaug zu besichtigen – eines der ältesten erhaltenen Bäder des Landes –, sondern auch tief in die Welt der Sagas einzutauchen. Die Kombination aus archäologischen Schätzen und moderner Aufarbeitung der Geschichte in der Snorrastofa macht Reykholt zu einem unverzichtbaren Ziel. Die Atmosphäre im Tal, umgeben von sanften Hügeln und geothermalen Quellen, unterstreicht die zeitlose Bedeutung dieses Ortes, der maßgeblich dazu beigetragen hat, die nordische Mythologie für nachfolgende Generationen zu bewahren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Heimat des bedeutenden Gelehrten Snorri Sturluson.", "Enthält das historische Snorralaug-Bad.", "Ein Zentrum für altnordische Literatur und Sagas.", "Bietet moderne Einblicke in der Snorrastofa.", "Geothermisch geprägte Region in Westisland.", "Ein Symbol für die bewahrte nordische Identität."],
+      hu: [],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-eiriksstadir-extra",
@@ -56,7 +80,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Rekonstruált viking hosszúház látható itt.", "Nyugat-Izlandon, a Haukadalur-völgyben található.", "A 10. századi telepesek mindennapjait mutatja be.", "Vörös Erik innen indult Grönland felfedezésére."],
       ro: ["O casă lungă vikingă reconstruită poate fi vizitată aici.", "Situat în valea Haukadalur din vestul Islandei.", "Prezintă viața de zi cu zi a coloniștilor din secolul al X-lea.", "Erik cel Roșu a plecat de aici în călătoria sa spre Groenlanda."],
       en: ["Features a reconstructed Viking-era longhouse.", "Located in the Haukadalur valley in West Iceland.", "Demonstrates the daily life of 10th-century settlers.", "Erik the Red set off from here to settle Greenland."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-holar-extra",
@@ -75,7 +101,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Egyházmegyeként alapították 1106-ban.", "Itt található Izland legrégebbi kőtemploma.", "A 16. században a könyvnyomtatás központja volt.", "Ma egy neves mezőgazdasági egyetem székhelye."],
       ro: ["Fondată ca dieceză în anul 1106.", "Găzduiește cea mai veche biserică de piatră din Islanda.", "A fost un centru de tipărire a cărților în secolul al XVI-lea.", "Astăzi găzduiește o universitate agricolă de renume."],
       en: ["Established as a diocese in 1106.", "Home to the oldest stone church in Iceland.", "Was a center for printing in the 16th century.", "Now home to a well-known agricultural university."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-keldur-extra",
@@ -94,7 +122,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Említik a híres Njál-szagában.", "Rendelkezik egy titkos földalatti alagúttal.", "A legrégebbi részei a 12. vagy 13. századból származnak.", "A hagyományos izlandi építészet csodálatos példája."],
       ro: ["Menționată în celebra Saga lui Njál.", "Are un tunel subteran secret.", "Cele mai vechi părți datează din secolul al XII-lea sau al XIII-lea.", "Un exemplu minunat de arhitectură tradițională islandeză."],
       en: ["Mentioned in the famous Njál's Saga.", "Contains a secret underground tunnel.", "The oldest parts date back to the 12th or 13th century.", "A magnificent example of traditional Icelandic architecture."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-laufas-extra",
@@ -113,7 +143,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Több egymáshoz kapcsolódó gyepházból áll.", "Érdekes helytörténeti múzeumnak ad otthont.", "Először Izland benépesülésének idején említik.", "A helyi templom 1865-ben épült."],
       ro: ["Formată din mai multe case de turbă interconectate.", "Găzduiește un muzeu etnografic interesant.", "Menționată prima dată în perioada colonizării Islandei.", "Biserica de pe sit a fost construită în 1865."],
       en: ["Consists of several interconnected turf houses.", "Houses an interesting local history museum.", "First mentioned during the Settlement of Iceland.", "The current church was built in 1865."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-munkathvera-extra",
@@ -132,7 +164,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["1155-ben szentelték kolostorrá.", "A középkorban az oktatás és az írásművészet központja volt.", "A mai templom 1844-ből származik.", "Emlékmű őrzi Bergur Gunnsteinsson apát emlékét."],
       ro: ["A fost sfințită ca mănăstire în anul 1155.", "A fost un centru de educație și manuscrise în Evul Mediu.", "Biserica actuală datează din anul 1844.", "Un monument îl comemorează pe starețul Bergur Gunnsteinsson."],
       en: ["Consecrated as a monastery in 1155.", "Was a major center for education and literature in the Middle Ages.", "The current church dates back to 1844.", "A monument commemorates Abbot Bergur Gunnsteinsson."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-skriduklaustur-extra",
@@ -151,7 +185,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A kolostort 1493-ban alapították.", "Régészeti ásatások tárták fel a kolostor romjait.", "A jellegzetes udvarház 1939-ben épült.", "Ma kulturális és oktatási központként szolgál."],
       ro: ["Mănăstirea a fost fondată în anul 1493.", "Săpăturile arheologice au scos la iveală ruinele mănăstirii.", "Conacul distinctiv a fost construit în 1939.", "Astăzi servește ca centru cultural și educațional."],
       en: ["The monastery was established in 1493.", "Archaeological excavations revealed the monastery ruins.", "The distinctive manor house was built in 1939.", "Now serves as a cultural and educational center."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-modrudalur-extra",
@@ -170,7 +206,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["469 méterrel a tengerszint felett fekszik.", "Már a honfoglalás korában is említik.", "Saját kis temploma van, amit egy gazda épített.", "Fontos megálló a felföldön átvezető úton."],
       ro: ["Situată la 469 de metri deasupra nivelului mării.", "Menționată încă din perioada colonizării.", "Are o mică biserică construită de un fermier local.", "Un punct de oprire important pe rutele montane."],
       en: ["Located 469 meters above sea level.", "Mentioned in records dating back to the Settlement period.", "Features a small church built by a local farmer.", "A significant stop on routes through the highlands."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-thingeyrar-extra",
@@ -189,7 +227,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A bencés kolostort 1133-ban alapították.", "Számos izlandi szagát itt jegyeztek le.", "Lenyűgöző, 1877-ben épült kőtemplommal rendelkezik.", "Híres a templomban található értékes műtárgyakról."],
       ro: ["Mănăstirea benedictină a fost fondată în 1133.", "Multe saga islandeze au fost scrise aici.", "Găzduiește o biserică impunătoare de piatră din 1877.", "Cunoscută pentru operele de artă valoroase din interiorul bisericii."],
       en: ["The Benedictine monastery was founded in 1133.", "Many Icelandic Sagas were written down here.", "Features an impressive stone church built in 1877.", "Known for valuable artworks inside the church."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-helgafell-extra",
@@ -208,7 +248,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A Laxdæla-szagában szent helyként említik.", "Itt nyugszik Guðrún Ósvífursdóttir.", "Korábban ágostonos kolostor állt itt.", "Aki némán mássza meg, annak három kívánsága teljesül."],
       ro: ["Menționat ca loc sfânt în Saga Laxdæla.", "Guðrún Ósvífursdóttir este înmormântată aici.", "O mănăstire augustiniană a existat aici în trecut.", "Cine urcă muntele în tăcere primește trei dorințe."],
       en: ["Mentioned as a sacred place in the Laxdæla Saga.", "Guðrún Ósvífursdóttir is buried here.", "An Augustinian monastery was once located here.", "Climbing the hill in silence is said to grant three wishes."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-gasir-extra",
@@ -227,7 +269,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Észak-Izland legfontosabb kereskedelmi központja volt.", "Már a 12. századi forrásokban is említik.", "A leletek egész Európával való kereskedelemre utalnak.", "Minden évben középkori napokat tartanak itt."],
       ro: ["A fost cel mai important port comercial din nordul Islandei.", "Menționat în surse scrise încă din secolul al XII-lea.", "Descoperirile arheologice atestă comerțul cu restul Europei.", "Anual se organizează aici un festival medieval."],
       en: ["Was the main trading hub in North Iceland during the Middle Ages.", "Mentioned in written sources as early as the 12th century.", "Archaeological finds show trade with all of Europe.", "A medieval festival is held here every year."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-herjolfsbaer-extra",
@@ -246,7 +290,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A Herjólfsdalurban végzett ásatásokon alapul.", "A szigetek első telepeseinek építkezési stílusát mutatja be.", "Herjólfur Bárðarsont tartják az első telepesnek.", "Élő múzeum Izland korai történelméről."],
       ro: ["Bazată pe descoperirile arheologice din Herjólfsdalur.", "Prezintă stilul de construcție al primilor coloniști.", "Herjólfur Bárðarson este considerat primul colonist al insulelor.", "Un muzeu viu dedicat istoriei timpurii a Islandei."],
       en: ["Based on archaeological excavations in Herjólfsdalur.", "Displays the building style of the islands' first settlers.", "Herjólfur Bárðarson is considered the islands' first settler.", "A living history museum focused on early Icelandic history."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-stong-extra",
@@ -265,7 +311,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: [ "1939-ben fedezték fel régészek.", "Értékes betekintést nyújt a viking kori életbe.", "Hű másolata megtekinthető a Þjóðveldisbærinn skanzenben.", "A festői Þjórsárdalur-völgyben található."],
       ro: ["Descoperită de arheologi în anul 1939.", "Oferă informații prețioase despre viața din epoca vikingă.", "O replică fidelă poate fi vizitată la Þjóðveldisbærinn.", "Situată în valea pitorească Þjórsárdalur."],
       en: ["Discovered by archaeologists in 1939.", "Provides unique insights into Viking-era life.", "A faithful reconstruction is located at Þjóðveldisbærinn.", "Situated in the scenic Þjórsárdalur valley."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-hrafnseyri-extra",
@@ -284,7 +332,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Múzeum mutatja be Jón Sigurðsson életét.", "Festői helyen, az Arnarfjörður partján fekszik.", "Hagyományos tőzegkápolnával rendelkezik.", "Fontos helyszín az izlandi nemzeti öntudat számára."],
       ro: ["Găzduiește un muzeu dedicat vieții lui Jón Sigurðsson.", "Situat pitoresc pe malul fiordului Arnarfjörður.", "Are o capelă tradițională din turbă.", "Un loc de mare importanță pentru identitatea națională islandeză."],
       en: ["Home to a museum dedicated to Jón Sigurðsson's life.", "Beautifully located by Arnarfjörður in the Westfjords.", "Features a traditional turf-roofed chapel.", "A key site for Icelandic national identity."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-saurbaer-extra",
@@ -303,7 +353,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Hallgrímur Pétursson itt írta a Passió-himnuszokat.", "A mai Hallgrímskirkját 1957-ben szentelték fel.", "Fontos lelkészlak volt Nyugat-Izlandon.", "Gyönyörű kilátást nyújt a fjordra."],
       ro: ["Hallgrímur Pétursson a scris aici Imnurile Patimilor.", "Actuala biserică Hallgrímskirkja a fost sfințită în 1957.", "A fost o reședință parohială importantă în vestul Islandei.", "Oferă o vedere superbă asupra fiordului."],
       en: ["Hallgrímur Pétursson wrote his Passion Hymns here.", "The current Hallgrímskirkja church was consecrated in 1957.", "Was a significant parsonage in West Iceland.", "Offers stunning views over the fjord."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-modruvellir-extra",
@@ -322,7 +374,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Az ágostonos kolostort 1296-ban alapították.", "A 19. században fontos iskola működött itt.", "Szép, 1867-ből származó fatemplommal rendelkezik.", "Itt született Hannes Hafstein, Izland első minisztere."],
       ro: ["Mănăstirea augustiniană a fost fondată în 1296.", "A găzduit o școală importantă în secolul al XIX-lea.", "Are o biserică frumoasă din lemn construită în 1867.", "Hannes Hafstein, primul ministru al Islandei, s-a născut aici."],
       en: ["The Augustinian monastery was founded in 1296.", "Was the location of a prominent school in the 19th century.", "Features a beautiful wooden church from 1867.", "Birthplace of Hannes Hafstein, Iceland's first minister."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-grotta-extra",
@@ -341,7 +395,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A mai világítótorony 1947-ből származik.", "Dagálykor a hely szigetté válik.", "Népszerű hely a sarki fény megfigyelésére.", "Számos madárfaj fontos fészkelőhelye."],
       ro: ["Farul actual datează din anul 1947.", "Locul devine o insulă în timpul fluxului.", "Un loc popular pentru observarea aurorei boreale.", "Zonă importantă de cuibărit pentru numeroase păsări."],
       en: ["The current lighthouse was built in 1947.", "The site becomes an island during high tide.", "A popular spot for observing the Northern Lights.", "An important nesting ground for various bird species."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-hopsnes-extra",
@@ -360,7 +416,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Számos hajóroncs található a part mentén.", "Információs táblák mesélik el a tragédiák történetét.", "Jellegzetes narancssárga világítótornya van.", "Egy 2800 évvel ezelőtti lávafolyam hozta létre."],
       ro: ["Numeroase epave pot fi văzute de-a lungul coastei.", "Panouri informative spun poveștile naufragiilor.", "Are un far portocaliu distinctiv.", "Formată de o scurgere de lavă acum aproximativ 2800 de ani."],
       en: ["Numerous shipwrecks line the coast.", "Information signs tell the stories of the maritime accidents.", "Features a striking orange lighthouse.", "Formed by a lava flow approximately 2800 years ago."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-breidabolsstadur-extra",
@@ -379,7 +437,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Hafliði Másson itt jegyeztette le a törvényeket a 12. században.", "A korai izlandi irodalom fontos helyszíne volt.", "Több izlandi szagában is szerepel.", "A mai templom 1912-ben épült."],
       ro: ["Hafliði Másson a dispus scrierea legilor aici în secolul al XII-lea.", "A fost un loc important pentru literatura islandeză timpurie.", "Menționat în mai multe saga islandeze.", "Biserica actuală a fost construită în anul 1912."],
       en: ["Hafliði Másson had laws recorded here in the 12th century.", "Was a significant location for early Icelandic literature.", "Mentioned in several Icelandic Sagas.", "The current church was built in 1912."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-oddi-extra",
@@ -398,7 +458,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A hatalmas Oddaverjar-nemzetség otthona.", "Snorri Sturlusont itt nevelték.", "A bölcs Sæmundur itt volt pap.", "Dél-Izland politikai és kulturális központja volt."],
       ro: ["Casa puternicului clan Oddaverjar.", "Snorri Sturluson a fost educat aici.", "Sæmundur cel Înțelept a fost preot aici.", "A fost un centru politic și cultural în sudul Islandei."],
       en: ["Home to the powerful Oddaverjar clan.", "Snorri Sturluson was fostered and educated here.", "Sæmundur the Wise served as a priest here.", "Was a major political and cultural hub in South Iceland."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-bergthorshvoll-extra",
@@ -417,7 +479,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A Njál-szaga drámai gyújtogatásának helyszíne.", "Régészeti ásatások egy ősi tűzvész nyomait találták meg.", "Landeyjar kerület tágas síkságain található.", "Fontos helyszín az izlandi irodalom kedvelői számára."],
       ro: ["Locul incendiierii dramatice din Saga lui Njál.", "Săpăturile arheologice au găsit urmele unui incendiu vechi.", "Situat în câmpiile largi ale districtului Landeyjar.", "Un loc esențial pentru iubitorii literaturii islandeze."],
       en: ["Setting of the dramatic burning in Njál's Saga.", "Archaeological digs found evidence of an ancient fire.", "Located in the broad plains of the Landeyjar district.", "A significant site for fans of Icelandic literature."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-hlidarendi-extra",
@@ -436,7 +500,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Híres arról, hogy Gunnar megtagadta a száműzetést.", "Pompás kilátást nyújt az Eyjafjallajökullra.", "Emlékmű őrzi Gunnar, a szagahős emlékét.", "A festői Fljótshlíð-dombok lábánál található."],
       ro: ["Cunoscut pentru refuzul lui Gunnar de a pleca în exil.", "Oferă o priveliște superbă asupra Eyjafjallajökull.", "Un monument îl comemorează pe eroul Gunnar.", "Situat la poalele dealurilor pitorești Fljótshlíð."],
       en: ["Famous for Gunnar's refusal to leave for exile.", "Offers a magnificent view of Eyjafjallajökull.", "A memorial honors the saga hero Gunnar.", "Located at the foot of the scenic Fljótshlíð hills."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-knorr-extra",
@@ -455,7 +521,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Történelmileg fontos a régió hajózása számára.", "Az Akranes-félsziget partján található.", "Tágas kilátást nyújt a Faxaflói-öbölre.", "Nyugat-Izland korai településtörténetének része."],
       ro: ["Important din punct de vedere istoric pentru navigația în regiune.", "Situat pe coasta peninsulei Akranes.", "Oferă priveliști largi asupra golfului Faxaflói.", "Parte a istoriei timpurii a colonizării vestului Islandei."],
       en: ["Historically significant for navigation in the region.", "Located on the coast of the Akranes peninsula.", "Offers wide views over the Faxaflói bay.", "Part of the early settlement history of West Iceland."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-hvammur-extra",
@@ -474,7 +542,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Snorri Sturluson szülőhelyének tartják.", "Auður egyike volt a kevés női honfoglaló vezérnek.", "A történelmi jelentőségű Dalir kerületben található.", "Helyszín, ahol a kereszténység és a pogányság találkozott."],
       ro: ["Considerat locul de naștere al lui Snorri Sturluson.", "Auður a fost unul dintre puținii lideri de colonizare de gen feminin.", "Situat în districtul istoric Dalir.", "Un loc unde s-au întâlnit creștinismul și păgânismul."],
       en: ["Regarded as the birthplace of Snorri Sturluson.", "Auður was one of the few female settlement leaders.", "Located in the historically rich Dalir district.", "A site where early Christianity and Paganism intersected."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-gudrunarlaug-extra",
@@ -493,7 +563,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Egy 2009-es földcsuszamlás után rekonstruálták.", "Sælingsdalurban, a Hotel Laugar mellett található.", "A Laxdæla-szaga drámai eseményeit idézi fel.", "Hagyományos tőzegfalú öltözőház tartozik hozzá."],
       ro: ["Reconstruită după o alunecare de teren în 2009.", "Situată lângă Hotel Laugar în Sælingsdalur.", "Amintește de evenimentele dramatice din Saga Laxdæla.", "Dispune de o cabină de schimb tradițională din turbă."],
       en: ["Reconstructed after a landslide in 2009.", "Located at Hotel Laugar in Sælingsdalur.", "Recalls the dramatic events of the Laxdæla Saga.", "Features a traditional turf-roofed changing hut."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-borg-a-myrum-extra",
@@ -512,7 +584,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A hatalmas Mýramenn-nemzetség ősi székhelye.", "A 'Sonatorrek' nevű emlékmű tisztelgés Egill költészete előtt.", "Az Egil-szaga fontos helyszíne.", "Templomának szokatlan észak-déli tájolása van."],
       ro: ["Sediul ancestral al puternicului clan Mýramenn.", "Monumentul 'Sonatorrek' onorează poezia lui Egill.", "Loc de desfășurare important în Saga lui Egil.", "Are o biserică cu o orientare neobișnită."],
       en: ["Ancestral seat of the powerful Mýramenn clan.", "A sculpture named 'Sonatorrek' commemorates Egill's poetry.", "Major setting for Egil's Saga.", "Features a church with an unusual orientation."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-eldgja-extra",
@@ -531,7 +605,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A Katla vulkánrendszer része.", "A 934-es kitörés az egyik legnagyobb volt a történelemben.", "Itt található a gyönyörű Ófærufoss vízesés.", "A kitörést a Völuspá (A jósnő szava) című verssel hozzák összefüggésbe."],
       ro: ["Parte a sistemului vulcanic Katla.", "Erupția din anul 934 a fost una dintre cele mai mari din istorie.", "Găzduiește frumoasa cascadă Ófærufoss.", "Erupția este legată simbolic de poemul Völuspá."],
       en: ["Part of the Katla volcanic system.", "The eruption in 934 AD was one of the largest in history.", "Home to the stunning Ófærufoss waterfall.", "The eruption is often linked to the poem Völuspá."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-dritvik-extra",
@@ -550,7 +626,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A 16-19. században akár 600 halásznak is otthont adott.", "Híres az 'erőpróba-köveiről' (Steinatök).", "A halászoknak fel kellett emelniük a köveket, hogy hajóra szállhassanak.", "Régi halászkunyhók maradványai ma is láthatóak."],
       ro: ["A găzduit până la 600 de pescari între secolele XVI și XIX.", "Faimoasă pentru pietrele de încercare a forței (Steinatök).", "Pescarii trebuiau să ridice pietrele pentru a fi acceptați pe nave.", "Resturi ale colibelor vechi de pescari sunt încă vizibile."],
       en: ["Hosted up to 600 fishermen between the 16th and 19th centuries.", "Famous for the 'lifting stones' (Steinatök).", "Fishermen had to lift the stones to qualify for work on boats.", "Remains of old fishing huts are still visible today."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-flatey-extra",
@@ -569,7 +647,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A középkorban a kultúra és a kereskedelem központja volt.", "Itt őrizték a Flateyjarbók-ot, egy fontos középkori kéziratot.", "A mai templom egyedi falfestményekkel rendelkezik.", "Télen csak nagyon kevés ember él a szigeten."],
       ro: ["A fost un centru de cultură și comerț în Evul Mediu.", "Flateyjarbók, un manuscris medieval important, a fost păstrat aici.", "Biserica actuală are picturi murale unice.", "Iarna, doar foarte puțini oameni locuiesc pe insulă."],
       en: ["Was a center for culture and trade in the Middle Ages.", "Flateyjarbók, a major medieval manuscript, was kept here.", "The current church features unique murals.", "Only a few people live on the island year-round."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-djupalonssandur-extra",
@@ -588,7 +668,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Az Epine vonóhálós hajó (1948) roncsai ma is a parton hevernek.", "Itt is megtalálható a négy híres erőpróba-kő.", "A név jelentése: 'mély tavi homok'.", "Jellegzetes sziklaformációk szegélyezik a partra vezető utat."],
       ro: ["Resturile traulerului Epine (1948) se află și acum pe plajă.", "Găzduiește, de asemenea, patru pietre celebre de încercare a forței.", "Numele se traduce prin „Nisipul de la iazul adânc”.", "Formațiuni stâncoase distincte mărginesc drumul spre țărm."],
       en: ["The wreckage of the trawler Epine (1948) still lies on the beach.", "Home to four famous 'lifting stones' used by fishermen.", "The name translates to 'Deep Lagoon's Sand'.", "Striking rock formations line the path to the shore."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-vidimyrarkirkja-extra",
@@ -607,7 +689,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A mai templom 1834-ben épült.", "Fából, tőzegből és gyeptéglákból áll.", "Az izlandi kézművesség remekművének tartják.", "A Nemzeti Múzeum történelmi épületgyűjteményének része."],
       ro: ["Biserica actuală a fost construită în anul 1834.", "Construită din lemn, turbă și iarbă.", "Considerată o capodoperă a meșteșugului islandez.", "Parte a colecției de clădiri istorice a Muzeului Național."],
       en: ["The current church was built in 1834.", "Constructed using wood, turf, and sod.", "Regarded as a masterpiece of Icelandic craftsmanship.", "Part of the National Museum's historic building collection."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-miklabaer-extra",
@@ -626,7 +710,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A Miklabæjar-Sólveig szellemtörténetéről híres.", "Már a 11. században említik a források.", "Mély vallástörténeti jelentőségű hely.", "A mai templom a 19. század végén épült."],
       ro: ["Faimos pentru povestea cu fantome a lui Miklabæjar-Sólveig.", "Menționat în surse încă din secolul al XI-lea.", "Un loc cu o istorie religioasă profundă.", "Biserica actuală a fost construită la sfârșitul secolului al XIX-lea."],
       en: ["Famous for the ghost story of Miklabæjar-Sólveig.", "Mentioned in records as early as the 11th century.", "A site with deep religious significance.", "The current church was built in the late 19th century."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-reynistadur-extra",
@@ -645,7 +731,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A bencés apácakolostort 1295-ben alapították.", "A 16. századi reformációig működött.", "Fontos kulturális helyszín volt a nők számára a középkorban.", "Ma egy szép kis templom található itt."],
       ro: ["Mănăstirea benedictină de călugărițe a fost fondată în 1295.", "A funcționat până la Reformă, în secolul al XVI-lea.", "Un loc cultural important pentru femei în Evul Mediu.", "Astăzi găzduiește o biserică mică și frumoasă."],
       en: ["The Benedictine nunnery was established in 1295.", "Operated until the Reformation in the 16th century.", "An important cultural site for women in the Middle Ages.", "Features a beautiful small church today."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-grund-extra",
@@ -664,7 +752,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A grundi templomot 1905-ben építette egy gazda.", "Izland egyik legpompásabb fatemplomának tartják.", "Több középkori szagában is említik a helyet.", "Néhány izlandi farm egykori gazdagságát tükrözi."],
       ro: ["Biserica din Grund a fost construită în 1905 de un fermier.", "Considerată una dintre cele mai magnifice biserici de lemn din Islanda.", "Locul este menționat în mai multe saga medievale.", "Reflectă prosperitatea unor ferme islandeze din trecut."],
       en: ["The Grund church was built in 1905 by a local farmer.", "Regarded as one of Iceland's most magnificent wooden churches.", "The site is mentioned in several medieval sagas.", "Demonstrates the former prosperity of certain Icelandic farms."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-grenjadarstadur-extra",
@@ -683,7 +773,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Izland egyik legnagyobb fennmaradt gyeptetős farmja.", "Évszázadokon át fontos kulturális központ volt.", "A gyepházak jelenlegi formájukban a 19. századból valók.", "Már a Landnámabókban (A honfoglalás könyve) is szerepel."],
       ro: ["Una dintre cele mai mari ferme de turbă conservate din Islanda.", "A fost un centru cultural important timp de secole.", "Casele de turbă datează în forma actuală din secolul al XIX-lea.", "Menționată încă din Landnámabók (Cartea Colonizării)."],
       en: ["One of Iceland's largest surviving turf farms.", "Served as a major cultural center for centuries.", "The turf houses in their current form date from the 19th century.", "Mentioned in the Landnámabók (Book of Settlements)."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-svalbard-extra",
@@ -702,7 +794,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Fontos helyszín Északkelet-Izland honfoglalástörténetében.", "A mai templom 1848-ban épült.", "Elszigeteltségéről és zord szépségéről ismert.", "Szerepet játszik a helyi népi elbeszélésekben."],
       ro: ["Loc important în istoria colonizării nord-estului Islandei.", "Biserica actuală a fost construită în anul 1848.", "Cunoscut pentru izolarea sa și frumusețea aspră.", "Joacă un rol în legendele populare locale."],
       en: ["Significant site in the settlement history of Northeast Iceland.", "The current church was built in 1848.", "Known for its remoteness and rugged beauty.", "Featured in local folk tales and legends."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-bustarfell-extra",
@@ -721,7 +815,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Az épületek többsége a 18. és 19. századból származik.", "1966-ig lakóházként használták.", "Az izlandi tőzegépítészet egyik legjobb állapotú példája.", "Ma nagyon szemléletes múzeumnak ad otthont."],
       ro: ["Clădirile datează în mare parte din secolele XVIII și XIX.", "A fost folosită ca locuință până în anul 1966.", "Unul dintre cele mai bine conservate exemple de construcție din turbă.", "Astăzi găzduiește un muzeu foarte sugestiv."],
       en: ["The buildings mostly date from the 18th and 19th centuries.", "Was used as a residence until 1966.", "One of the best-preserved examples of Icelandic turf architecture.", "Now houses a very descriptive folk museum."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-saenautasel-extra",
@@ -740,7 +836,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["1875-ben egy vulkánkitörés után hagyták el.", "Mintául szolgált a 'Független emberek' című regény farmjához.", "1992-ben építették újjá az eredeti stílusban.", "Betekintést nyújt a kemény felföldi életbe."],
       ro: ["Abandonată în 1875 după o erupție vulcanică.", "A servit drept model pentru ferma din romanul „Oameni independenți”.", "Reconstruită fidel în anul 1992.", "Oferă o imagine asupra vieții aspre din zonele montane."],
       en: ["Abandoned in 1875 following a volcanic eruption.", "Served as the inspiration for the farm in the novel 'Independent People'.", "Faithfully reconstructed in 1992.", "Provides insight into the harsh life in the Icelandic highlands."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-papey-extra",
@@ -759,28 +857,10 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A név a 'Papar' (szerzetesek) szóból ered.", "Itt található Izland legrégebbi és legkisebb fatemploma.", "1966-ig állandóan lakott volt.", "A lundák és más tengeri madarak paradicsoma."],
       ro: ["Numele derivă de la „Papar” (călugări).", "Găzduiește cea mai veche și mai mică biserică de lemn din Islanda.", "A fost locuită permanent până în anul 1966.", "Un paradis pentru pufini și alte păsări marine."],
       en: ["The name is derived from 'Papar' (monks).", "Home to the oldest and smallest wooden church in Iceland.", "Was permanently inhabited until 1966.", "A haven for puffins and other seabirds."]
-    }
-  },
-  {
-    id: "historical-kirkjubaejarklaustur-extra",
-    type: "monastery",
-    parent: "IS-002",
-    coords: [-18.0539, 63.7839],
-    name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur" },
-    description: {
-      de: "Ein geschichtsträchtiger Ort, an dem sich einst ein bedeutendes Nonnenkloster befand.",
-      hu: "Történelmi hely, ahol egykor jelentős apácakolostor működött.",
-      ro: "Un loc încărcat de istorie, unde s-a aflat odinioară o mănăstire de călugărițe importantă.",
-      en: "A historic location that was once the site of a major nunnery."
     },
-    facts: {
-      de: ["Das Benediktinerinnenkloster wurde 1186 gegründet.", "Bekannt für die 'Feuerpredigt' während des Laki-Ausbruchs 1783.", "Beherbergt das Naturdenkmal Kirkjugólf (Kirchenboden).", "Wichtiger Schauplatz lokaler religiöser Legenden."],
-      hu: ["A bencés apácakolostort 1186-ban alapították.", "Híres a 'tűzprédikációról' az 1783-as Laki-kitörés idején.", "Itt található a Kirkjugólf (Templompadló) természeti képződmény.", "Helyi vallási legendák fontos helyszíne."],
-      ro: ["Mănăstirea benedictină de călugărițe a fost fondată în 1186.", "Faimos pentru „Predica de foc” din timpul erupției Laki din 1783.", "Găzduiește monumentul natural Kirkjugólf (Podeaua Bisericii).", "Loc important pentru legendele religioase locale."],
-      en: ["The Benedictine nunnery was established in 1186.", "Famous for the 'Fire Sermon' during the 1783 Laki eruption.", "Home to the Kirkjugólf (Church Floor) natural basalt formation.", "A significant site for local religious legends."]
-    }
-  },
-  {
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
+  },{
     id: "historical-seljavallalaug-extra",
     type: "landmark",
     parent: "IS-002",
@@ -797,7 +877,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["1923-ban épült.", "Azért hozták létre, hogy megtanítsák az izlandiakat úszni.", "Természetes forró víz táplálja.", "Népszerű úti cél túrázók és fotósok számára."],
       ro: ["Construită în anul 1923.", "Creată pentru a-i învăța pe islandezi să înoate.", "Alimentată de apă termală naturală.", "O destinație populară pentru drumeți și fotografi."],
       en: ["Built in 1923.", "Created to teach Icelanders how to swim.", "Fed by natural hot water from the hillside.", "A popular destination for hikers and photographers."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-strandarkirkja-extra",
@@ -816,7 +898,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A legenda szerint tengerészek életét mentette meg a viharban.", "Az adományoknak köszönhetően Izland egyik leggazdagabb temploma.", "Nyugodt légkört áraszt közvetlenül az óceán partján.", "Sok fogadalom és hálaadás helyszíne."],
       ro: ["Se spune că a salvat viețile marinarilor aflați în pericol.", "Considerată una dintre cele mai bogate biserici datorită donațiilor.", "Oferă o atmosferă liniștită direct pe malul oceanului.", "Un loc de pelerinaj și mulțumire pentru mulți credincioși."],
       en: ["Legend says it saved the lives of sailors in distress.", "Considered one of Iceland's wealthiest churches due to donations.", "Offers a peaceful atmosphere right by the ocean.", "A site of many vows and thanksgivings."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-krysuvik-extra",
@@ -835,7 +919,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Korábban jelentős tőzegtemplom állt itt.", "Színes kénes forrásairól ismert.", "Egykor lakott település volt, mára nagyrészt elnéptelenedett.", "Drámai kilátást nyújt a déli partra."],
       ro: ["O biserică importantă de turbă a existat aici în trecut.", "Cunoscută pentru izvoarele sale sulfuroase colorate.", "A fost odinioară o așezare locuită, acum în mare parte abandonată.", "Oferă priveliști dramatice asupra coastei de sud."],
       en: ["Formerly the site of a significant turf church.", "Known for its colorful sulfur springs.", "Was once an inhabited settlement, now mostly deserted.", "Offers dramatic views of the south coast."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-selardalur-extra",
@@ -854,7 +940,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["Samúel Jónsson naiv szobrokat és épületeket alkotott itt.", "Gyakran nevezik a 'naiv művészet völgyének'.", "A hely korábban jelentős lelkészlak volt.", "Ma lenyűgöző szabadtéri múzeum mutatja be alkotásait."],
       ro: ["Samúel Jónsson a creat aici sculpturi și clădiri naive.", "Deseori numită „Valea artei naive”.", "Locul a fost în trecut o reședință parohială importantă.", "Astăzi este un muzeu în aer liber fascinant cu lucrările sale."],
       en: ["Samúel Jónsson created naive sculptures and buildings here.", "Often called the 'Valley of Naive Art'.", "The site was formerly a significant parsonage.", "Now a fascinating open-air museum of his work."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-flateyri-extra",
@@ -873,7 +961,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A 19. században a bálnavadászat központja volt.", "Itt található Izland legrégebbi, ma is működő boltja.", "Híres a lavinák elleni védőgátjáról.", "Erős közösségi szellemmel és hagyományokkal rendelkező hely."],
       ro: ["A fost un centru al vânătorii de balene în secolul al XIX-lea.", "Găzduiește cel mai vechi magazin încă în funcțiune din Islanda.", "Cunoscut pentru barajul său de protecție împotriva avalanșelor.", "Un loc cu un puternic spirit comunitar și tradiție."],
       en: ["Was a major whaling station in the 19th century.", "Home to the oldest store in Iceland still in operation.", "Known for its large avalanche protection dam.", "A place with a strong sense of community and tradition."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-nedstikaupstadur-extra",
@@ -892,7 +982,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A legöregebb házak a 18. századból származnak.", "A dán monopolkereskedelem fontos központja volt.", "Ma a Westfjords Helytörténeti Múzeumnak ad otthont.", "Szemléletesen mutatja be a régió tengerészeti múltját."],
       ro: ["Cele mai vechi case datează din secolul al XVIII-lea.", "A fost un centru important pentru monopolul comercial danez.", "Găzduiește astăzi Muzeul Patrimoniului din Westfjords.", "Prezintă foarte clar istoria maritimă a regiunii."],
       en: ["The oldest houses date back to the 18th century.", "Was a key center for the Danish trade monopoly.", "Now home to the Westfjords Heritage Museum.", "Vividly displays the maritime history of the region."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-raudasandur-extra",
@@ -911,7 +1003,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A homok különleges színéről híres.", "Itt történtek a hírhedt 19. századi sjöundái gyilkosságok.", "A nyugalomra vágyó túrázók paradicsoma.", "Egy kicsi, bájos fatemplom található itt."],
       ro: ["Cunoscută pentru culoarea spectaculoasă a nisipului său.", "Locul infamelor crime de la Sjöundá din secolul al XIX-lea.", "Un paradis pentru drumeții care caută liniște.", "Găzduiește o biserică de lemn mică și fermecătoare."],
       en: ["Known for the spectacular color of its sand.", "Site of the infamous Sjöundá murders in the 19th century.", "A haven for hikers seeking solitude.", "Features a small, charming wooden church."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-osvor-extra",
@@ -930,7 +1024,9 @@ export const poiExtraIcelandHistory: POI[] = [
       hu: ["A régi idők halászainak kemény életkörülményeit mutatja be.", "Tőzegházakból, szárítóállványokból és egy csónakból áll.", "A múzeumi vezetők gyakran viselnek népviseletet.", "Nagyszerű kilátást nyújt a nyílt tengerre."],
       ro: ["Prezintă condițiile aspre de viață ale pescarilor din trecut.", "Formată din colibe de turbă, un suport de uscare și o barcă.", "Ghidurile muzeului poartă adesea haine tradiționale.", "Oferă o vedere panoramică asupra mării deschise."],
       en: ["Displays the harsh living conditions of fishermen in the past.", "Consists of turf huts, a drying rack, and a traditional boat.", "Museum guides often wear traditional fishing gear.", "Offers a great view of the open sea."]
-    }
+    },
+     descriptionAdvanced: "Historisch bedeutende Stätte mit faszinierender Vergangenheit. Ein Muss für alle, die in die lokale Kultur eintauchen möchten.",
+     factsAdvanced: ["Zeugnis jahrhundertealter Traditionen und Lebensweisen.", "Wichtiger Ort für die Erhaltung der regionalen Geschichte.", "Bietet tiefe Einblicke in vergangene Epochen."],
   },
   {
     id: "historical-holmsviti-extra",

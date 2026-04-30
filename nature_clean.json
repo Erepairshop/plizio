@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "bz-rio-hondo-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.39,
+      18.49
+    ],
+    "name": {
+      "de": "R\u00edo Hondo",
+      "hu": "R\u00edo Hondo",
+      "ro": "R\u00e2ul Hondo",
+      "en": "Hondo River"
+    },
+    "description": {
+      "de": "Ein Fluss, der die nat\u00fcrliche Grenze zwischen Belize und Mexiko bildet.",
+      "hu": "Foly\u00f3, amely term\u00e9szetes hat\u00e1rt k\u00e9pez Belize \u00e9s Mexik\u00f3 k\u00f6z\u00f6tt.",
+      "ro": "Un r\u00e2u care formeaz\u0103 grani\u021ba natural\u0103 dintre Belize \u0219i Mexic.",
+      "en": "A river that forms the natural border between Belize and Mexico."
+    },
+    "facts": {
+      "de": [
+        "Grenzfluss zu Mexiko.",
+        "M\u00fcndet in die Chetumal-Bucht.",
+        "Wichtig f\u00fcr die lokale Landwirtschaft.",
+        "Bedeutende Maya-Siedlungen am Ufer."
+      ],
+      "hu": [
+        "Hat\u00e1rfoly\u00f3 Mexik\u00f3val.",
+        "A Chetumal-\u00f6b\u00f6lbe torkollik.",
+        "Fontos a helyi mez\u0151gazdas\u00e1g sz\u00e1m\u00e1ra.",
+        "Partj\u00e1n jelent\u0151s maja telep\u00fcl\u00e9sek voltak."
+      ],
+      "ro": [
+        "R\u00e2u de grani\u021b\u0103 cu Mexicul.",
+        "Se vars\u0103 \u00een Golful Chetumal.",
+        "Important pentru agricultura local\u0103.",
+        "A\u0219ez\u0103ri maya\u0219e importante pe maluri."
+      ],
+      "en": [
+        "Forms the border with Mexico.",
+        "Empties into Chetumal Bay.",
+        "Vital for local agriculture.",
+        "Significant Maya settlements along its banks."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der R\u00edo Hondo ist ein lebenswichtiger Wasserweg im Norden von Belize, der die nat\u00fcrliche Grenze zwischen Belize und Mexiko bildet. Dieser geschichtstr\u00e4chtige Fluss war \u00fcber Jahrhunderte eine der wichtigsten Transportadern f\u00fcr den Export von Mahagoni und chicle aus dem dichten Dschungel zur K\u00fcste. Heute ist der R\u00edo Hondo eine ruhige Wasserstra\u00dfe, die von \u00fcppiger Vegetation, kleinen Grenzd\u00f6rfern und einer reichen Tierwelt ges\u00e4umt ist. Er dient als wichtiges \u00d6kosystem f\u00fcr zahlreiche Fischarten, Wasserv\u00f6gel und sogar seltene Manatis. Eine Bootsfahrt auf dem R\u00edo Hondo bietet nicht nur atemberaubende Naturerlebnisse, sondern auch einen Einblick in die friedliche Koexistenz der beiden Nachbarl\u00e4nder. Der Fluss ist ein Symbol f\u00fcr die Verbindung der Kulturen und die reiche Geschichte des Handels im n\u00f6rdlichen Mittelamerika.",
+      "hu": "",
+      "ro": "",
+      "en": "The Rio Hondo is a vital waterway that forms much of the northern border between Belize and Mexico. Flowing into Chetumal Bay, the river has been a crucial artery for trade, transport, and communication since the time of the ancient Maya. Its name, which means 'Deep River' in Spanish, reflects its importance as a navigable route for timber and agricultural products. The river's lush banks are home to diverse tropical flora and fauna, and it remains a key ecological corridor. For visitors, the Rio Hondo offers scenic beauty and a glimpse into the historic cross-border interactions that have shaped the culture and economy of northern Belize."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der R\u00edo Hondo ist etwa 210 Kilometer lang.",
+        "Er m\u00fcndet in die Bucht von Chetumal in der Karibik.",
+        "Der Fluss bildet die gesamte Nordgrenze von Belize zu Mexiko.",
+        "Der Name 'R\u00edo Hondo' bedeutet auf Spanisch 'tiefer Fluss'.",
+        "Er ist schiffbar f\u00fcr kleinere Boote \u00fcber weite Strecken seines Verlaufs.",
+        "Die Ufer sind Heimat f\u00fcr Leguane",
+        "Krokodile und hunderte Vogelarten.",
+        "Historisch war er der wichtigste Weg f\u00fcr den Holztransport im 18. und 19. Jahrhundert.",
+        "Der Fluss entspringt aus dem Zusammenfluss von Blue Creek und Rio Bravo."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Rio Hondo is approximately 150 kilometers (93 miles) long.",
+        "It serves as a natural boundary between Belize and the Mexican state of Quintana Roo.",
+        "The river was a major route for the colonial mahogany trade.",
+        "It flows through fertile agricultural lands producing sugar and citrus.",
+        "The river supports diverse aquatic life",
+        "including several species of snook and tarpon.",
+        "It empties into the Caribbean Sea via the Chetumal Bay.",
+        "The ancient Maya city of Santa Rita was located near its mouth."
+      ]
+    }
+  },
+  {
+    "id": "bz-sittee-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.25,
+      16.82
+    ],
+    "name": {
+      "de": "Sittee River",
+      "hu": "Sittee-foly\u00f3",
+      "ro": "R\u00e2ul Sittee",
+      "en": "Sittee River"
+    },
+    "description": {
+      "de": "Ein Fluss im Stann Creek District, bekannt f\u00fcr seine reiche Tierwelt.",
+      "hu": "Foly\u00f3 a Stann Creek k\u00f6rzetben, gazdag \u00e9l\u0151vil\u00e1g\u00e1r\u00f3l ismert.",
+      "ro": "Un r\u00e2u \u00een districtul Stann Creek, cunoscut pentru fauna sa bogat\u0103.",
+      "en": "A river in the Stann Creek District known for its rich wildlife."
+    },
+    "facts": {
+      "de": [
+        "Heimat von Krokodilen und Manatis.",
+        "Flie\u00dft durch das Sittee River Forest Reserve.",
+        "M\u00fcndet nahe dem Dorf Sittee River.",
+        "Beliebt f\u00fcr Bootsfahrten."
+      ],
+      "hu": [
+        "Krokodilok \u00e9s man\u00e1tuszok otthona.",
+        "A Sittee River erd\u0151rezerv\u00e1tumon folyik kereszt\u00fcl.",
+        "Sittee River falu k\u00f6zel\u00e9ben torkollik a tengerbe.",
+        "N\u00e9pszer\u0171 a cs\u00f3nakkir\u00e1ndul\u00e1sokhoz."
+      ],
+      "ro": [
+        "Habitat pentru crocodili \u0219i lamantini.",
+        "Curge prin Rezerva\u021bia Forestier\u0103 Sittee River.",
+        "Se vars\u0103 l\u00e2ng\u0103 satul Sittee River.",
+        "Popular pentru plimb\u0103ri cu barca."
+      ],
+      "en": [
+        "Home to crocodiles and manatees.",
+        "Flows through the Sittee River Forest Reserve.",
+        "Empties near Sittee River Village.",
+        "Popular for wildlife boat tours."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Sittee River ist einer der tiefsten und malerischsten Fl\u00fcsse Belizes und entspringt in den unber\u00fchrten Maya Mountains des Stann Creek Distrikts. Sein klarer Oberlauf und der majest\u00e4tische Unterlauf, der von riesigen Mahagonib\u00e4umen und dichten Mangroven ges\u00e4umt ist, machen ihn zu einem Paradies f\u00fcr Naturliebhaber. Der Fluss ist bekannt f\u00fcr seine unglaubliche Artenvielfalt, von verspielten Flussottern und Manatis bis hin zu Krokodilen, die sich am Ufer sonnen. F\u00fcr Reisende bietet der Sittee River ideale Bedingungen zum Kajakfahren, Angeln und zur Beobachtung exotischer V\u00f6gel. Die Ruhe und die unber\u00fchrte Sch\u00f6nheit des Flusses vermitteln ein Gef\u00fchl von urspr\u00fcnglicher Wildnis, w\u00e4hrend die N\u00e4he zur K\u00fcste einen einfachen Zugang zu den Abenteuern des Barriereriffs erm\u00f6glicht. Der Sittee River ist ein echtes Naturjuwel im Herzen des s\u00fcdlichen Belize.",
+      "hu": "",
+      "ro": "",
+      "en": "The Sittee River is a beautiful and biodiverse waterway in the Stann Creek District, known for its lush riverine forest and its spectacular mangrove system near the coast. The river originates in the Maya Mountains and flows through a series of scenic valleys and agricultural lands before entering the Caribbean Sea. The Sittee River is famous for its large populations of howler monkeys and its rich avian life, making it a favorite for nature lovers and birdwatchers. The village of Sittee River offers a quiet and authentic base for exploring the river's upper reaches and the nearby barrier reef. With its clear waters and its untamed tropical setting, the Sittee River provides a tranquil and immersive eco-experience."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Sittee River entspringt in der Cockscomb Range der Maya Mountains.",
+        "Er gilt als einer der tiefsten Fl\u00fcsse des Landes in Relation zu seiner Breite.",
+        "An seinen Ufern befinden sich einige der \u00e4ltesten Mahagonib\u00e4ume Belizes.",
+        "Der Fluss m\u00fcndet s\u00fcdlich von Hopkins in das Karibische Meer.",
+        "In der M\u00fcndung werden regelm\u00e4\u00dfig Westindische Seek\u00fche (Manatis) gesichtet.",
+        "Der Sittee River ist ein erstklassiges Ziel f\u00fcr das Fliegenfischen.",
+        "Die Vegetation umfasst prim\u00e4ren Regenwald und ausgedehnte Mangrovensysteme.",
+        "Nach Einbruch der Dunkelheit k\u00f6nnen bei Bootstouren Krokodile beobachtet werden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Sittee River is approximately 60 kilometers (37 miles) long.",
+        "It features some of the tallest mangrove trees in Belize near its mouth.",
+        "The river is a major center for small-scale citrus and cacao farming.",
+        "It is home to the Sittee River Wildlife Sanctuary.",
+        "The village of Sittee River is one of the oldest settlements in the district.",
+        "The river is a popular spot for kayaking and fly-fishing.",
+        "It originates in the rugged eastern slopes of the Maya Mountains."
+      ]
+    }
+  },
+  {
+    "id": "bz-monkey-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.48,
+      16.36
+    ],
+    "name": {
+      "de": "Monkey River",
+      "hu": "Monkey River (Majom-foly\u00f3)",
+      "ro": "R\u00e2ul Monkey",
+      "en": "Monkey River"
+    },
+    "description": {
+      "de": "Ein Fluss im S\u00fcden von Belize, benannt nach den Br\u00fcllaffen an seinen Ufern.",
+      "hu": "Foly\u00f3 D\u00e9l-Belize-ben, a partjain \u00e9l\u0151 b\u0151g\u0151majmokr\u00f3l nevezt\u00e9k el.",
+      "ro": "Un r\u00e2u din sudul Belize, numit dup\u0103 maimu\u021bele url\u0103toare de pe malurile sale.",
+      "en": "A river in southern Belize, named for the howler monkeys along its banks."
+    },
+    "facts": {
+      "de": [
+        "Benannt nach Br\u00fcllaffen.",
+        "Wichtiges \u00d6kosystem.",
+        "M\u00fcndet in die Karibische See.",
+        "Beliebtes Touristenziel."
+      ],
+      "hu": [
+        "B\u0151g\u0151majmokr\u00f3l nevezt\u00e9k el.",
+        "Fontos \u00f6kosziszt\u00e9ma.",
+        "A Karib-tengerbe \u00f6mlik.",
+        "N\u00e9pszer\u0171 turisztikai c\u00e9lpont."
+      ],
+      "ro": [
+        "Numit dup\u0103 maimu\u021bele url\u0103toare.",
+        "Ecosistem important.",
+        "Se vars\u0103 \u00een Marea Caraibilor.",
+        "Destina\u021bie turistic\u0103 popular\u0103."
+      ],
+      "en": [
+        "Named for its black howler monkeys.",
+        "Important riverine ecosystem.",
+        "Flows into the Caribbean Sea.",
+        "Popular destination for eco-tours."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Monkey River ist eine der ber\u00fchmtesten Wasserstra\u00dfen im S\u00fcden Belizes und bietet eine der authentischsten Dschungel-Safari-Erfahrungen des Landes. Seinen Namen verdankt der Fluss den lautstarken Br\u00fcllaffen, deren markante Rufe Kilometerweit durch das dichte Bl\u00e4tterdach hallen. Eine Bootsfahrt flussaufw\u00e4rts f\u00fchrt vorbei an \u00fcppigen Mangrovenw\u00e4ldern, in denen man Leguane, Krokodile und eine Vielzahl tropischer V\u00f6gel wie Tukane und Reiher entdecken kann. Der Fluss entspringt in den Maya Mountains und m\u00fcndet bei dem gleichnamigen, charmanten Fischerdorf in die Karibik. Monkey River ist nicht nur ein Refugium f\u00fcr Wildtiere, sondern auch ein Zeugnis f\u00fcr die \u00f6kologische Vielfalt des Toledo-Distrikts. Die Kombination aus ruhigem Wasser, wildem Dschungel und der herzlichen Kultur der lokalen Guides macht jede Tour zu einem unvergesslichen Naturabenteuer.",
+      "hu": "",
+      "ro": "",
+      "en": "Monkey River is a legendary waterway in southern Belize, celebrated for its raw natural beauty and its eponymous population of howler monkeys. Flowing through the dense jungles of the Toledo District, the river offers one of the country's most authentic wildlife experiences. Visitors can take boat tours upstream from the coastal village of Monkey River, spotting crocodiles, iguanas, and a vast array of tropical birds along the lush banks. The river's mouth is a critical habitat for the endangered West Indian manatee. With its untamed tropical setting and its rich ecological diversity, Monkey River is a premier destination for eco-tourists seeking a true wilderness adventure in the heart of the southern rainforest."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Monkey River ist ein beliebtes Ziel f\u00fcr organisierte Touren von Placencia aus.",
+        "Der Fluss beheimatet die gr\u00f6\u00dfte Population von Br\u00fcllaffen im s\u00fcdlichen Belize.",
+        "Hier leben sowohl das Spitzkrokodil als auch das Beulenkrokodil.",
+        "Das gleichnamige Dorf am Flussdelta hat etwa 200 Einwohner.",
+        "Der Fluss ist ein wichtiger Nistplatz f\u00fcr seltene Wasservogelarten.",
+        "Monkey River ist bekannt f\u00fcr seinen Reichtum an Tarpons und Snooks (Fischen).",
+        "Der Schutz des Flusses ist entscheidend f\u00fcr den Erhalt der lokalen Biodiversit\u00e4t.",
+        "Die Touren beinhalten oft eine Wanderung durch den Dschungel zur Affenbeobachtung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The river is approximately 64 kilometers (40 miles) long.",
+        "It is named after the loud and abundant Black Howler Monkeys.",
+        "The coastal village at its mouth is a historic Creole fishing community.",
+        "Monkey River is a key site for viewing West Indian Manatees.",
+        "The river's upper reaches are part of the Bladen Nature Reserve system.",
+        "It is famous for its 'jungle walks' where visitors can see monkeys up close.",
+        "The river supports a diverse sport-fishing industry",
+        "including tarpon and snook."
+      ]
+    }
+  },
+  {
+    "id": "bz-victoria-peak-nature-v2",
+    "type": "mountain",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.62,
+      16.78
+    ],
+    "name": {
+      "de": "Victoria Peak",
+      "hu": "Victoria-cs\u00facs",
+      "ro": "V\u00e2rful Victoria",
+      "en": "Victoria Peak"
+    },
+    "description": {
+      "de": "Der zweith\u00f6chste Berg in Belize, Teil der Maya Mountains.",
+      "hu": "Belize m\u00e1sodik legmagasabb hegye, a Maja-hegys\u00e9g r\u00e9sze.",
+      "ro": "Al doilea cel mai \u00eenalt munte din Belize, parte a Mun\u021bilor Maya.",
+      "en": "The second-highest mountain in Belize, part of the Maya Mountains."
+    },
+    "facts": {
+      "de": [
+        "H\u00f6he: 1.120 Meter.",
+        "Zweith\u00f6chster Gipfel in Belize.",
+        "Liegt im Cockscomb Basin Wildlife Sanctuary.",
+        "Schwierige Besteigung."
+      ],
+      "hu": [
+        "Magass\u00e1ga: 1120 m\u00e9ter.",
+        "Belize m\u00e1sodik legmagasabb cs\u00facsa.",
+        "A Cockscomb Basin vadv\u00e9delmi ter\u00fcleten tal\u00e1lhat\u00f3.",
+        "Neh\u00e9z megm\u00e1szni."
+      ],
+      "ro": [
+        "\u00cen\u0103l\u021bime: 1.120 metri.",
+        "Al doilea cel mai \u00eenalt v\u00e2rf din Belize.",
+        "Situat \u00een Sanctuarul Cockscomb Basin.",
+        "Ascensiune dificil\u0103."
+      ],
+      "en": [
+        "Elevation: 1",
+        "120 meters.",
+        "Second-highest peak in Belize.",
+        "Located in the Cockscomb Basin Wildlife Sanctuary.",
+        "Challenging to climb."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Victoria Peak ist mit einer H\u00f6he von 1.120 Metern der zweith\u00f6chste Berg in Belize und das markanteste Wahrzeichen der Cockscomb Range in den Maya Mountains. F\u00fcr ambitionierte Wanderer und Bergsteiger gilt die Besteigung des Victoria Peak als die ultimative Herausforderung in Belize. Der Pfad f\u00fchrt durch dichten, unber\u00fchrten Prim\u00e4rregenwald und \u00fcber steile Grate, wobei man eine unglaubliche Vielfalt an Flora und Fauna passiert, die nur in diesen H\u00f6henlagen vorkommt. Der Gipfel bietet an klaren Tagen einen atemberaubenden Panoramablick \u00fcber das Cockscomb Basin bis hin zum Karibischen Meer. Als Teil eines streng gesch\u00fctzten Naturreservats ist der Berg ein Refugium f\u00fcr seltene V\u00f6gel und Raubkatzen. Die raue Sch\u00f6nheit und die k\u00f6rperliche Herausforderung machen den Victoria Peak zu einem Symbol f\u00fcr die unbez\u00e4hmbare Wildnis des belizischen Binnenlandes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Victoria Peak hat eine offizielle H\u00f6he von 1.120 Metern.",
+        "Der Berg ist Teil des Cockscomb Basin Wildlife Sanctuary.",
+        "Der Aufstieg dauert in der Regel 3 bis 4 Tage f\u00fcr die Hin- und R\u00fcckreise.",
+        "Wanderungen sind aufgrund der Wetterbedingungen meist nur von Februar bis Mai erlaubt.",
+        "Der Berg besteht haupts\u00e4chlich aus metamorphem Gestein und Granit.",
+        "Er wurde erst im sp\u00e4ten 19. Jahrhundert offiziell vermessen.",
+        "Die Vegetation wechselt von tropischem Regenwald zu Elfenwald am Gipfel.",
+        "Der Victoria Peak ist das markanteste Profil in der Skyline der Maya Mountains."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-cockscomb-range-nature-v2",
+    "type": "mountain",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.65,
+      16.75
+    ],
+    "name": {
+      "de": "Cockscomb Range",
+      "hu": "Cockscomb-hegys\u00e9g",
+      "ro": "Lan\u021bul Cockscomb",
+      "en": "Cockscomb Range"
+    },
+    "description": {
+      "de": "Ein Gebirgszug innerhalb der Maya Mountains, bekannt f\u00fcr sein Jaguar-Schutzgebiet.",
+      "hu": "Hegyl\u00e1nc a Maja-hegys\u00e9gen bel\u00fcl, a jagu\u00e1rv\u00e9delmi ter\u00fclet\u00e9r\u0151l ismert.",
+      "ro": "Un lan\u021b montan \u00een cadrul Mun\u021bilor Maya, cunoscut pentru sanctuarul s\u0103u de jaguari.",
+      "en": "A mountain range within the Maya Mountains, known for its jaguar preserve."
+    },
+    "facts": {
+      "de": [
+        "Teil der Maya Mountains.",
+        "Beherbergt das Cockscomb Basin Wildlife Sanctuary.",
+        "Wichtiges Jaguar-Habitat.",
+        "Zerkl\u00fcftetes Gel\u00e4nde."
+      ],
+      "hu": [
+        "A Maja-hegys\u00e9g r\u00e9sze.",
+        "Itt tal\u00e1lhat\u00f3 a Cockscomb Basin vadv\u00e9delmi ter\u00fclet.",
+        "Fontos jagu\u00e1r-\u00e9l\u0151hely.",
+        "Szakad\u00e9kos terep."
+      ],
+      "ro": [
+        "Parte a Mun\u021bilor Maya.",
+        "G\u0103zduie\u0219te Sanctuarul Cockscomb Basin.",
+        "Habitat important pentru jaguari.",
+        "Teren accidentat."
+      ],
+      "en": [
+        "Part of the Maya Mountains.",
+        "Contains the Cockscomb Basin Wildlife Sanctuary.",
+        "Key jaguar habitat.",
+        "Characterized by rugged terrain."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Cockscomb Range ist ein spektakul\u00e4rer Gebirgszug innerhalb der Maya Mountains, der seinen Namen der \u00c4hnlichkeit seines Profils mit einem Hahnenkamm verdankt. Diese zerkl\u00fcftete Bergkette bildet das R\u00fcckgrat des weltber\u00fchmten Cockscomb Basin Wildlife Sanctuary, dem ersten Schutzgebiet der Welt, das speziell f\u00fcr den Erhalt des Jaguars geschaffen wurde. Die Berge sind von dichtem, feuchtem Tropenwald bedeckt und beherbergen die Quellen zahlreicher wichtiger Fl\u00fcsse Belizes. F\u00fcr Naturliebhaber bietet die Cockscomb Range ein unvergleichliches \u00d6kosystem, in dem man seltene Orchideen, bunte Tukane und mit viel Gl\u00fcck die Spuren der scheuen Gro\u00dfkatzen entdecken kann. Die dramatischen Wasserf\u00e4lle und kristallklaren B\u00e4che, die aus den Granith\u00e4ngen entspringen, machen die Gegend zu einem Paradies f\u00fcr Wanderer und Fotografen. Es ist ein Ort, an dem die unber\u00fchrte Natur Belizes in ihrer ganzen Pracht gefeiert wird.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Cockscomb Range beherbergt das weltweit erste Jaguar-Schutzgebiet (gegr\u00fcndet 1986).",
+        "Die Berge ragen bis zu 1.120 Meter in den Himmel (Victoria Peak).",
+        "Das Schutzgebiet umfasst eine Fl\u00e4che von rund 150 Quadratkilometern.",
+        "\u00dcber 300 Vogelarten wurden in diesem Gebirgszug dokumentiert.",
+        "Die Region erh\u00e4lt j\u00e4hrlich \u00fcber 3.000 Millimeter Niederschlag.",
+        "Alle f\u00fcnf belizischen Raubkatzenarten (Jaguar",
+        "Puma",
+        "Ozelot",
+        "Margay",
+        "Jaguarundi) leben hier.",
+        "Die Berge bestehen aus einigen der \u00e4ltesten Gesteinsformationen Zentralamerikas.",
+        "Zahlreiche Wanderwege f\u00fchren zu spektakul\u00e4ren Aussichtspunkten wie dem Ben's Bluff."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-new-river-lagoon-nature-v2",
+    "type": "lake",
+    "parent": "BZ-OW",
+    "coords": [
+      -88.6,
+      17.8
+    ],
+    "name": {
+      "de": "New River Lagune",
+      "hu": "New River-lag\u00fana",
+      "ro": "Laguna New River",
+      "en": "New River Lagoon"
+    },
+    "description": {
+      "de": "Die gr\u00f6\u00dfte S\u00fc\u00dfwasserlagune in Belize, an der die Maya-St\u00e4tte Lamanai liegt.",
+      "hu": "Belize legnagyobb \u00e9desv\u00edzi lag\u00fan\u00e1ja, a partj\u00e1n fekszik Lamanai maja romv\u00e1ros.",
+      "ro": "Cea mai mare lagun\u0103 de ap\u0103 dulce din Belize, unde se afl\u0103 situl maya\u0219 Lamanai.",
+      "en": "The largest freshwater lagoon in Belize, site of the Lamanai Maya ruins."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dfter See in Belize.",
+        "S\u00fc\u00dfwasser.",
+        "Lamanai liegt am Ufer.",
+        "Reich an V\u00f6geln und Krokodilen."
+      ],
+      "hu": [
+        "Belize legnagyobb tava.",
+        "\u00c9desv\u00edz.",
+        "Partj\u00e1n fekszik Lamanai.",
+        "Gazdag mad\u00e1r- \u00e9s krokodilvil\u00e1g."
+      ],
+      "ro": [
+        "Cel mai mare lac din Belize.",
+        "Ap\u0103 dulce.",
+        "Lamanai este situat pe mal.",
+        "Bogat \u00een p\u0103s\u0103ri \u0219i crocodili."
+      ],
+      "en": [
+        "Largest lake in Belize.",
+        "Freshwater body.",
+        "Lamanai is on its shore.",
+        "Rich in birdlife and crocodiles."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die New River Lagune ist die gr\u00f6\u00dfte S\u00fc\u00dfwasserlagune in Belize und ein \u00f6kologisches Juwel im Orange Walk Distrikt. Mit ihrer beeindruckenden L\u00e4nge und den verwunschenen Nebenarmen dient sie als lebenswichtiges Habitat f\u00fcr eine Vielzahl von Wildtieren, darunter Krokodile, Flussschildkr\u00f6ten und hunderte von Vogelarten. Die Lagune ist untrennbar mit der Geschichte der Maya verbunden, da die monumentale Stadt Lamanai direkt an ihren Ufern errichtet wurde. Eine Bootsfahrt \u00fcber das ruhige, dunkle Wasser bietet spektakul\u00e4re Ausblicke auf den dichten Dschungel und die antiken Tempel, die \u00fcber das Bl\u00e4tterdach ragen. Die New River Lagune ist nicht nur eine wichtige Wasserquelle, sondern auch ein Ort von mystischer Sch\u00f6nheit, an dem Natur und Arch\u00e4ologie auf einzigartige Weise verschmelzen. Besucher erleben hier die Stille und die lebendige Geschichte des n\u00f6rdlichen Belize in ihrer reinsten Form.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die New River Lagune ist \u00fcber 28 Kilometer lang.",
+        "Sie ist die Hauptquelle des New River",
+        "der in die Karibik flie\u00dft.",
+        "Die Maya-St\u00e4tte Lamanai liegt am westlichen Ufer der Lagune.",
+        "In der Lagune lebt eine der gr\u00f6\u00dften Populationen des Beulenkrokodils in Belize.",
+        "Das Wasser ist aufgrund organischer Stoffe oft tiefschwarz gef\u00e4rbt.",
+        "Die Lagune ist ein Paradies f\u00fcr Sportfischer",
+        "bekannt f\u00fcr Tarpons und Snooks.",
+        "Zahlreiche Mangroveninseln bieten Nistpl\u00e4tze f\u00fcr Wasserv\u00f6gel.",
+        "Die Tiefe der Lagune variiert je nach Jahreszeit erheblich."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-southern-long-caye-nature-v2",
+    "type": "island",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.1,
+      17.2
+    ],
+    "name": {
+      "de": "Southern Long Caye",
+      "hu": "Southern Long Caye",
+      "ro": "Caye Southern Long",
+      "en": "Southern Long Caye"
+    },
+    "description": {
+      "de": "Eine langgestreckte Mangroveninsel innerhalb des Belize Barrier Reefs.",
+      "hu": "Hossz\u00fak\u00e1s mangrove-sziget a Belize-korallz\u00e1tonyon bel\u00fcl.",
+      "ro": "O insul\u0103 alungit\u0103 de mangrove \u00een cadrul Barierei de Corali din Belize.",
+      "en": "An elongated mangrove island located within the Belize Barrier Reef."
+    },
+    "facts": {
+      "de": [
+        "Mangroven-\u00d6kosystem.",
+        "Wichtiger Brutplatz f\u00fcr V\u00f6gel.",
+        "Teil des Barrier Reef Systems.",
+        "Unbewohnt."
+      ],
+      "hu": [
+        "Mangrove-\u00f6kosziszt\u00e9ma.",
+        "Fontos mad\u00e1rf\u00e9szkel\u0151 hely.",
+        "A korallz\u00e1tony-rendszer r\u00e9sze.",
+        "Lakatlan."
+      ],
+      "ro": [
+        "Ecosistem de mangrove.",
+        "Loc important de cuib\u0103rit pentru p\u0103s\u0103ri.",
+        "Parte a sistemului de barier\u0103 de corali.",
+        "Nelocuit\u0103."
+      ],
+      "en": [
+        "Mangrove ecosystem.",
+        "Important bird rookery.",
+        "Part of the Barrier Reef system.",
+        "Largely uninhabited."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Southern Long Caye ist eine versteckte Perle innerhalb des Belize Barrier Reefs und bietet ein unvergleichliches Erlebnis von Abgeschiedenheit und nat\u00fcrlicher Sch\u00f6nheit. Diese langgestreckte Koralleninsel ist von kristallklarem, t\u00fcrkisfarbenem Wasser umgeben, das einige der unber\u00fchrtesten Koralleng\u00e4rten der Region beherbergt. Southern Long Caye ist ein idealer Ausgangspunkt f\u00fcr Taucher und Schnorchler, die die Pracht des Riffs ohne die Massen anderer Touristenorte erleben m\u00f6chten. Die Insel ist von Kokospalmen und Mangroven bewachsen und dient als wichtiger Nistplatz f\u00fcr Meeresschildkr\u00f6ten und zahlreiche Seev\u00f6gel. Das Leben hier folgt dem langsamen Rhythmus der Gezeiten, was Southern Long Caye zum perfekten R\u00fcckzugsort f\u00fcr alle macht, die die rohe Sch\u00f6nheit der Karibik und die Stille des Ozeans suchen. Es ist ein Ort, an dem man die Verbundenheit mit dem marinen \u00d6kosystem hautnah sp\u00fcren kann.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Southern Long Caye liegt etwa 25 Kilometer vor der K\u00fcste von Dangriga.",
+        "Die Insel befindet sich innerhalb des South Water Caye Marine Reserve.",
+        "Das Barriereriff liegt nur wenige hundert Meter von der Ostk\u00fcste der Insel entfernt.",
+        "Die Gew\u00e4sser um die Insel sind ber\u00fchmt f\u00fcr Sichtungen von Adlerrochen und Ammenhaien.",
+        "Die Caye dient als wichtiger Nistplatz f\u00fcr die bedrohte Echte Karettschildkr\u00f6te.",
+        "Es gibt nur eine begrenzte Anzahl an umweltfreundlichen Unterk\u00fcnften auf der Insel.",
+        "Die Sichtweite unter Wasser betr\u00e4gt hier oft mehr als 30 Meter.",
+        "Die Insel ist ein hervorragendes Ziel f\u00fcr das 'Flats Fishing' auf Gr\u00e4tenfische."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-chiquibul-forest-nature-v2",
+    "type": "forest",
+    "parent": "BZ-CYO",
+    "coords": [
+      -89.05,
+      16.7
+    ],
+    "name": {
+      "de": "Chiquibul-Nationalpark",
+      "hu": "Chiquibul Nemzeti Park",
+      "ro": "Parcul Na\u021bional Chiquibul",
+      "en": "Chiquibul National Park"
+    },
+    "description": {
+      "de": "Der gr\u00f6\u00dfte Nationalpark von Belize, der riesige tropische W\u00e4lder sch\u00fctzt.",
+      "hu": "Belize legnagyobb nemzeti parkja, hatalmas tr\u00f3pusi erd\u0151ket v\u00e9d.",
+      "ro": "Cel mai mare parc na\u021bional din Belize, protej\u00e2nd vaste p\u0103duri tropicale.",
+      "en": "The largest national park in Belize, protecting vast tropical forests."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dfter Nationalpark in Belize.",
+        "Enth\u00e4lt die Maya-St\u00e4tte Caracol.",
+        "Lebensraum f\u00fcr seltene Tierarten.",
+        "Wichtiger Teil des Maya-Waldes."
+      ],
+      "hu": [
+        "Belize legnagyobb nemzeti parkja.",
+        "Mag\u00e1ban foglalja Caracol maja romv\u00e1rost.",
+        "Ritka \u00e1llatfajok \u00e9l\u0151helye.",
+        "A Maja-erd\u0151 fontos r\u00e9sze."
+      ],
+      "ro": [
+        "Cel mai mare parc na\u021bional din Belize.",
+        "Con\u021bine situl maya\u0219 Caracol.",
+        "Habitat pentru specii rare de animale.",
+        "Parte important\u0103 a P\u0103durii Maya."
+      ],
+      "en": [
+        "Largest national park in Belize.",
+        "Contains the ancient Maya city of Caracol.",
+        "Habitat for rare species.",
+        "Key part of the Mesoamerican Biological Corridor."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Chiquibul-Wald ist das gr\u00f6\u00dfte und vielleicht geheimnisvollste gesch\u00fctzte Waldgebiet in Belize, das sich \u00fcber weite Teile der Maya Mountains erstreckt. Dieser riesige tropische Regenwald ist ein Refugium von globaler Bedeutung f\u00fcr die Artenvielfalt und beherbergt die gr\u00f6\u00dften Populationen von Jaguaren, Scharlacharas und Tapiren des Landes. Unter dem dichten Bl\u00e4tterdach verbirgt sich das gr\u00f6\u00dfte H\u00f6hlensystem Mittelamerikas sowie die monumentale Maya-Stadt Caracol. Der Chiquibul-Wald spielt eine entscheidende Rolle f\u00fcr das Klima und die Wasserversorgung von Belize. Aufgrund seiner Abgeschiedenheit und seiner Gr\u00f6\u00dfe bleibt er eine wilde Grenze, die von Rangern streng gesch\u00fctzt wird. F\u00fcr Forscher und Abenteurer ist der Chiquibul ein Ort der Entdeckung, an dem immer noch neue Tierarten und arch\u00e4ologische Sch\u00e4tze gefunden werden. Es ist das gr\u00fcne Herz von Belize, ungez\u00e4hmt und voller Leben.",
+      "hu": "",
+      "ro": "",
+      "en": "The Chiquibul Forest is the largest and most ecologically significant tropical rainforest in Belize, covering nearly 8% of the country's land area. Located in the heart of the Maya Mountains, this vast wilderness is part of the Chiquibul National Park and the Chiquibul Forest Reserve. It is a world-class center for biodiversity, home to the largest populations of jaguars, harpy eagles, and tapirs in the region. The forest is also famous for its spectacular karst features, including the Chiquibul Cave System\u2014the longest in Central America. Historically, the Chiquibul was the heartland of the ancient Maya city of Caracol. Today, it remains a critical frontier for conservation, research, and the protection of Belize's natural and cultural heritage."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Chiquibul Nationalpark umfasst eine Fl\u00e4che von \u00fcber 1.000 Quadratkilometern.",
+        "Er beherbergt den Chiquibul Cave System",
+        "den gr\u00f6\u00dften H\u00f6hlenkomplex Zentralamerikas.",
+        "Hier befindet sich der h\u00f6chste Berg Belizes",
+        "der Doyle's Delight.",
+        "Der Wald ist ein kritischer Lebensraum f\u00fcr den bedrohten Scharlachara.",
+        "Caracol",
+        "die gr\u00f6\u00dfte Maya-St\u00e4tte Belizes",
+        "liegt im Zentrum dieses Waldes.",
+        "Das Gebiet grenzt direkt an das Biosph\u00e4renreservat Maya in Guatemala.",
+        "Die Niederschl\u00e4ge im Chiquibul speisen die wichtigsten Flusssysteme des Landes.",
+        "Der Wald ist bekannt f\u00fcr seine Vorkommen an wertvollem Mahagoni- und Zedernholz."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Chiquibul Forest encompasses over 400",
+        "000 acres of land.",
+        "It contains the Chiquibul Cave System",
+        "with over 540 kilometers of explored passages.",
+        "The forest is home to Belize's highest peak",
+        "Doyle's Delight.",
+        "It is a critical habitat for the endangered Scarlet Macaw.",
+        "The ancient Maya city of Caracol is located deep within the forest.",
+        "The area is a major site for international archaeological and biological research.",
+        "It serves as a vital watershed for the entire southern half of Belize."
+      ]
+    }
+  },
+  {
+    "id": "bz-sarstoon-temash-forest-nature-v2",
+    "type": "forest",
+    "parent": "BZ-TOL",
+    "coords": [
+      -89.0,
+      16.0
+    ],
+    "name": {
+      "de": "Sarstoon-Temash-Nationalpark",
+      "hu": "Sarstoon-Temash Nemzeti Park",
+      "ro": "Parcul Na\u021bional Sarstoon-Temash",
+      "en": "Sarstoon-Temash National Park"
+    },
+    "description": {
+      "de": "Ein abgelegener Nationalpark im S\u00fcden mit einzigartigen Mangrovenw\u00e4ldern.",
+      "hu": "T\u00e1voli nemzeti park d\u00e9len, egyed\u00fcl\u00e1ll\u00f3 mangroveerd\u0151kkel.",
+      "ro": "Un parc na\u021bional izolat \u00een sud, cu p\u0103duri unice de mangrove.",
+      "en": "A remote national park in the south with unique mangrove forests."
+    },
+    "facts": {
+      "de": [
+        "Zweitgr\u00f6\u00dfter Nationalpark.",
+        "Einziger Roter Mangrovenwald Belizes.",
+        "Hohe Biodiversit\u00e4t.",
+        "An der Grenze zu Guatemala gelegen."
+      ],
+      "hu": [
+        "M\u00e1sodik legnagyobb nemzeti park.",
+        "Belize egyetlen v\u00f6r\u00f6s mangrove erdeje.",
+        "Nagy biol\u00f3giai sokf\u00e9les\u00e9g.",
+        "A guatemalai hat\u00e1r ment\u00e9n fekszik."
+      ],
+      "ro": [
+        "Al doilea cel mai mare parc na\u021bional.",
+        "Singura p\u0103dure de mangrove ro\u0219ii din Belize.",
+        "Biodiversitate ridicat\u0103.",
+        "Situat la grani\u021ba cu Guatemala."
+      ],
+      "en": [
+        "Second largest national park.",
+        "Contains Belize's only comfray palm forest.",
+        "High biodiversity.",
+        "Located on the border with Guatemala."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Sarstoon-Temash Nationalpark ist ein abgelegenes Naturparadies im \u00e4u\u00dfersten S\u00fcden von Belize, das durch seine einzigartige Kombination aus unber\u00fchrten Mangrovenw\u00e4ldern, Feuchtgebieten und tropischem Regenwald besticht. An der Grenze zu Guatemala gelegen, sch\u00fctzt der Park die Einzugsgebiete der Fl\u00fcsse Sarstoon und Temash. Dieses Gebiet ist bekannt f\u00fcr seine au\u00dfergew\u00f6hnliche biologische Vielfalt, darunter seltene Vogelarten und die einzige bekannte Population von Sphagnum-Mooren in Mittelamerika. Der Park ist zudem die Heimat der indigenen Q'eqchi' und Garifuna Gemeinschaften, die eng mit dem Schutz dieses \u00d6kosystems verbunden sind. Ein Besuch im Sarstoon-Temash bietet ein echtes Wildniserlebnis, bei dem man die Stille des Dschungels nur durch die Rufe der Br\u00fcllaffen oder das Pl\u00e4tschern des Wassers unterbrochen h\u00f6rt. Es ist ein Ort von wilder, unber\u00fchrter Sch\u00f6nheit am Rande des Landes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Park umfasst eine Fl\u00e4che von etwa 160 Quadratkilometern.",
+        "Er beherbergt die h\u00f6chsten Mangrovenw\u00e4lder von ganz Belize.",
+        "Das Gebiet wurde 1994 zum Nationalpark erkl\u00e4rt.",
+        "Sarstoon-Temash ist ein international anerkanntes RAMSAR-Feuchtgebiet.",
+        "Hier leben \u00fcber 200 Vogelarten",
+        "darunter der seltene Harpyie-Adler.",
+        "Der Park ist nur per Boot von Punta Gorda oder Barranco aus erreichbar.",
+        "Die Region hat die h\u00f6chsten Niederschlagsraten in Belize.",
+        "Indigene Gemeinschaften verwalten den Park gemeinsam mit der Regierung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-caribbean-sea-nature-v2",
+    "type": "sea",
+    "parent": "BZ",
+    "coords": [
+      -87.8,
+      17.5
+    ],
+    "name": {
+      "de": "Karibisches Meer (Belize)",
+      "hu": "Karib-tenger (Belize)",
+      "ro": "Marea Caraibilor (Belize)",
+      "en": "Caribbean Sea (Belize)"
+    },
+    "description": {
+      "de": "Die K\u00fcstengew\u00e4sser von Belize, Heimat des zweitgr\u00f6\u00dften Barriereriffs der Welt.",
+      "hu": "Belize part menti vizei, a vil\u00e1g m\u00e1sodik legnagyobb korallz\u00e1tony\u00e1nak otthona.",
+      "ro": "Apele de coast\u0103 ale statului Belize, care g\u0103zduiesc a doua cea mai mare barier\u0103 de corali din lume.",
+      "en": "The coastal waters of Belize, home to the world's second-largest barrier reef."
+    },
+    "facts": {
+      "de": [
+        "Beherbergt das Belize Barrier Reef.",
+        "Warmes",
+        "klares Wasser.",
+        "Wichtig f\u00fcr Tourismus und Fischerei.",
+        "\u00dcber 450 Inseln (Cayes)."
+      ],
+      "hu": [
+        "Itt tal\u00e1lhat\u00f3 a Belize-i korallz\u00e1tony.",
+        "Meleg",
+        "tiszta v\u00edz.",
+        "Fontos a turizmus \u00e9s a hal\u00e1szat szempontj\u00e1b\u00f3l.",
+        "T\u00f6bb mint 450 sziget (caye)."
+      ],
+      "ro": [
+        "G\u0103zduie\u0219te Bariera de Corali din Belize.",
+        "Ap\u0103 cald\u0103 \u0219i limpede.",
+        "Important\u0103 pentru turism \u0219i pescuit.",
+        "Peste 450 de insule (caye)."
+      ],
+      "en": [
+        "Contains the Belize Barrier Reef.",
+        "Warm",
+        "clear tropical waters.",
+        "Vital for tourism and fishing.",
+        "Features over 450 islands (cayes)."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Karibische Meer vor Belize ist ein marines Wunderwerk von weltweiter Bedeutung und beherbergt das Belize Barrier Reef, das zweitgr\u00f6\u00dfte Korallenriffsystem der Erde. Mit seinem kristallklaren Wasser in allen Schattierungen von T\u00fcrkis bis Tiefblau bietet es einen unvergleichlichen Lebensraum f\u00fcr eine immense Vielfalt an Meereslebewesen, darunter hunderte Fischarten, Meeresschildkr\u00f6ten, Rochen und Wale. Das Meer ist das Lebenselixier der belizischen K\u00fcstenorte und ein Paradies f\u00fcr Taucher, Schnorchler und Segler. Von den flachen, fischreichen K\u00fcstengew\u00e4ssern bis hin zu den tiefen Gr\u00e4ben jenseits der Atolle bietet die belizische Karibik endlose M\u00f6glichkeiten f\u00fcr Entdeckungen. Der Schutz dieses fragilen \u00d6kosystems, das von der UNESCO zum Welterbe erkl\u00e4rt wurde, ist f\u00fcr Belize von h\u00f6chster Priorit\u00e4t, um die nat\u00fcrliche Pracht f\u00fcr kommende Generationen zu bewahren.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Belize Barrier Reef erstreckt sich \u00fcber eine L\u00e4nge von etwa 300 Kilometern.",
+        "In der Karibik vor Belize gibt es \u00fcber 450 Inseln (Cayes).",
+        "Drei der vier Korallenatolle der westlichen Hemisph\u00e4re liegen in belizischen Gew\u00e4ssern.",
+        "Das Meer beherbergt das ber\u00fchmte Great Blue Hole",
+        "ein 124 Meter tiefes Sinkloch.",
+        "\u00dcber 500 Fischarten und 65 Steinkorallenarten wurden hier dokumentiert.",
+        "Das Barriereriff-System geh\u00f6rt seit 1996 zum UNESCO-Weltnaturerbe.",
+        "Die Wassertemperaturen liegen ganzj\u00e4hrig zwischen 25 und 29 Grad Celsius.",
+        "Belize war das erste Land weltweit",
+        "das das 'Bottom Trawling' (Schleppnetzfischerei) verbot."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-rio-bravo-forest-nature-v2",
+    "type": "forest",
+    "parent": "BZ-OW",
+    "coords": [
+      -89.05,
+      17.75
+    ],
+    "name": {
+      "de": "Rio Bravo Schutzgebiet",
+      "hu": "Rio Bravo V\u00e9dett Ter\u00fclet",
+      "ro": "Rezerva\u021bia Rio Bravo",
+      "en": "Rio Bravo Conservation Area"
+    },
+    "description": {
+      "de": "Ein riesiges privates Naturschutzgebiet, das einen Gro\u00dfteil des nordwestlichen Belize bedeckt.",
+      "hu": "Hatalmas mag\u00e1n term\u00e9szetv\u00e9delmi ter\u00fclet, amely Belize \u00e9szaknyugati r\u00e9sz\u00e9nek nagy r\u00e9sz\u00e9t lefedi.",
+      "ro": "O rezerva\u021bie natural\u0103 privat\u0103 uria\u0219\u0103 care acoper\u0103 o mare parte din nord-vestul Belize.",
+      "en": "A massive private nature reserve covering a large portion of northwestern Belize."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dftes privates Schutzgebiet in Belize.",
+        "Modell f\u00fcr nachhaltige Forstwirtschaft.",
+        "Wichtiger Forschungstandort.",
+        "Hohe Artenvielfalt."
+      ],
+      "hu": [
+        "Belize legnagyobb mag\u00e1n term\u00e9szetv\u00e9delmi ter\u00fclete.",
+        "A fenntarthat\u00f3 erd\u0151gazd\u00e1lkod\u00e1s modellje.",
+        "Fontos kutat\u00e1si helysz\u00edn.",
+        "Nagy fajgazdags\u00e1g."
+      ],
+      "ro": [
+        "Cea mai mare rezerva\u021bie privat\u0103 din Belize.",
+        "Model pentru silvicultur\u0103 durabil\u0103.",
+        "Loca\u021bie important\u0103 de cercetare.",
+        "Biodiversitate ridicat\u0103."
+      ],
+      "en": [
+        "Largest private reserve in Belize.",
+        "Model for sustainable forestry.",
+        "Important research site.",
+        "High biodiversity."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Rio Bravo Conservation and Management Area ist das gr\u00f6\u00dfte private Naturschutzgebiet in Belize und ein leuchtendes Beispiel f\u00fcr erfolgreichen Waldschutz in Mittelamerika. Im Nordwesten des Landes gelegen, bedeckt es fast vier Prozent der gesamten Landfl\u00e4che von Belize und sch\u00fctzt ein riesiges Mosaik aus tropischen W\u00e4ldern, Feuchtgebieten und Savannen. Das Gebiet wird von der Umweltorganisation Programme for Belize verwaltet und ist ein Refugium f\u00fcr gef\u00e4hrdete Tierarten wie den Jaguar, den Tapir und den Klammeraffen. Rio Bravo beherbergt zudem \u00fcber 60 Maya-St\u00e4tten, darunter das beeindruckende La Milpa. F\u00fcr \u00d6kotouristen bietet Rio Bravo eine seltene Gelegenheit, in die unber\u00fchrte Wildnis einzutauchen, wobei nachhaltige Forschung und Naturschutz im Vordergrund stehen. Es ist ein Ort, an dem der Wald nicht nur gesch\u00fctzt, sondern aktiv erforscht und bewahrt wird.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Rio Bravo umfasst eine Fl\u00e4che von rund 1.000 Quadratkilometern (250.000 Hektar).",
+        "Das Gebiet beherbergt sch\u00e4tzungsweise \u00fcber 200 verschiedene Baumarten.",
+        "Es ist Heimat f\u00fcr alle f\u00fcnf Raubkatzenarten von Belize.",
+        "\u00dcber 400 Vogelarten wurden im Schutzgebiet registriert.",
+        "Die Region umfasst eine der h\u00f6chsten Dichten an Maya-Ruinen in Zentralamerika.",
+        "Rio Bravo wird durch nachhaltigen Holzeinschlag und \u00d6kotourismus finanziert.",
+        "Es dient als wichtiger Kohlenstoffspeicher zur Bek\u00e4mpfung des Klimawandels.",
+        "Zwei Forschungsstationen (Hill Bank und La Milpa) bieten Unterk\u00fcnfte f\u00fcr Besucher."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-bladen-nature-reserve-nature-v2",
+    "type": "forest",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.85,
+      16.55
+    ],
+    "name": {
+      "de": "Bladen Naturreservat",
+      "hu": "Bladen Term\u00e9szetv\u00e9delmi Ter\u00fclet",
+      "ro": "Rezerva\u021bia Natural\u0103 Bladen",
+      "en": "Bladen Nature Reserve"
+    },
+    "description": {
+      "de": "Ein streng gesch\u00fctztes Gebiet, das als Kronjuwel der Schutzgebiete Belizes gilt.",
+      "hu": "Szigor\u00faan v\u00e9dett ter\u00fclet, amelyet Belize v\u00e9dett ter\u00fcleteinek korona\u00e9kszerek\u00e9nt tartanak sz\u00e1mon.",
+      "ro": "O zon\u0103 strict protejat\u0103 considerat\u0103 bijuteria coroanei ariilor protejate din Belize.",
+      "en": "A strictly protected area considered the crown jewel of Belize's protected areas."
+    },
+    "facts": {
+      "de": [
+        "H\u00f6chster Schutzstatus in Belize.",
+        "Extrem hohe Biodiversit\u00e4t.",
+        "Nahezu unber\u00fchrter Regenwald.",
+        "Wichtige Wasserscheide."
+      ],
+      "hu": [
+        "A legmagasabb szint\u0171 v\u00e9delem Belize-ben.",
+        "Rendk\u00edv\u00fcl magas biodiverzit\u00e1s.",
+        "Szinte \u00e9rintetlen es\u0151erd\u0151.",
+        "Fontos v\u00edzgy\u0171jt\u0151 ter\u00fclet."
+      ],
+      "ro": [
+        "Cel mai \u00eenalt statut de protec\u021bie din Belize.",
+        "Biodiversitate extrem de ridicat\u0103.",
+        "P\u0103dure tropical\u0103 aproape neatins\u0103.",
+        "Bazin hidrografic important."
+      ],
+      "en": [
+        "Highest level of protection in Belize.",
+        "Extremely high biodiversity.",
+        "Pristine",
+        "untouched rainforest.",
+        "Crucial watershed area."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Bladen Nature Reserve gilt als das 'Kronjuwel' der Schutzgebiete Belizes und ist eines der unber\u00fchrtesten Gebiete Mittelamerikas. Aufgrund seines Status als striktes Naturreservat ist der Zugang stark eingeschr\u00e4nkt, was den Schutz einer fast unber\u00fchrten Wildnis in den Maya Mountains erm\u00f6glicht. Das Reservat umfasst zerkl\u00fcftete Kalksteinberge, tiefe Schluchten und glasklare Fl\u00fcsse, die eine unglaubliche Vielfalt an endemischen Pflanzen und Tieren beherbergen. Bladen dient als kritischer Korridor f\u00fcr wandernde Wildtiere und sch\u00fctzt einige der letzten Prim\u00e4rw\u00e4lder der Region. F\u00fcr die Wissenschaft ist Bladen ein unersetzliches Labor f\u00fcr die Erforschung nat\u00fcrlicher \u00d6kosysteme ohne menschlichen Einfluss. Die majest\u00e4tische Stille und die rohe, wilde Kraft dieser Landschaft machen das Bladen Nature Reserve zu einem Ort von mystischer Bedeutung und h\u00f6chstem \u00f6kologischem Wert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bladen ist ein Naturreservat der Kategorie I (strengster Schutzstatus).",
+        "Es umfasst eine Fl\u00e4che von etwa 400 Quadratkilometern.",
+        "Das Gebiet beheimatet den seltenen Harpyie-Adler und den Mittelamerikanischen Tapir.",
+        "Das Reservat sch\u00fctzt die Oberl\u00e4ufe des Monkey River.",
+        "Es enth\u00e4lt spektakul\u00e4re geologische Formationen wie riesige H\u00f6hlen und Sinkl\u00f6cher.",
+        "Wissenschaftliche Expeditionen entdecken hier regelm\u00e4\u00dfig neue Pflanzenarten.",
+        "Bladen grenzt an andere wichtige Schutzgebiete wie den Chiquibul Nationalpark.",
+        "In den entlegenen T\u00e4lern befinden sich noch unentdeckte Maya-Ruinen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-south-water-caye-nature-v2",
+    "type": "island",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.08,
+      16.81
+    ],
+    "name": {
+      "de": "South Water Caye",
+      "hu": "South Water Caye",
+      "ro": "Insula South Water",
+      "en": "South Water Caye"
+    },
+    "description": {
+      "de": "Eine malerische Insel direkt auf dem Barriereriff, Teil eines Meeresschutzgebiets.",
+      "hu": "Fest\u0151i sziget k\u00f6zvetlen\u00fcl a korallz\u00e1tonyon, egy tengeri rezerv\u00e1tum r\u00e9sze.",
+      "ro": "O insul\u0103 pitoreasc\u0103 direct pe bariera de corali, parte a unei rezerva\u021bii marine.",
+      "en": "A picturesque island located directly on the barrier reef, part of a marine reserve."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dftes Meeresschutzgebiet in Belize.",
+        "Sitzt auf dem Barriereriff.",
+        "Korallenformationen direkt am Strand.",
+        "Ideal zum Schnorcheln vom Ufer aus."
+      ],
+      "hu": [
+        "Belize legnagyobb tengeri rezerv\u00e1tuma.",
+        "A korallz\u00e1tonyon helyezkedik el.",
+        "Korallk\u00e9pz\u0151dm\u00e9nyek k\u00f6zvetlen\u00fcl a parton.",
+        "Ide\u00e1lis a partr\u00f3l t\u00f6rt\u00e9n\u0151 b\u00fav\u00e1rkod\u00e1shoz."
+      ],
+      "ro": [
+        "Cea mai mare rezerva\u021bie marin\u0103 din Belize.",
+        "Situat\u0103 pe bariera de corali.",
+        "Forma\u021biuni de corali direct pe plaj\u0103.",
+        "Ideal pentru snorkeling de pe mal."
+      ],
+      "en": [
+        "Largest marine reserve in Belize.",
+        "Sits atop the barrier reef.",
+        "Coral formations right off the beach.",
+        "Ideal for shore snorkeling."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "South Water Caye ist der Inbegriff eines tropischen Paradieses und liegt direkt auf dem Kamm des Belize Barrier Reefs. Diese malerische Koralleninsel ist ber\u00fchmt f\u00fcr ihren wei\u00dfen Sand, ihre wiegenden Palmen und die Tatsache, dass man buchst\u00e4blich vom Strand aus zu einigen der besten Schnorchelpl\u00e4tze des Landes schwimmen kann. Die Insel ist Teil eines gro\u00dfen Meeresschutzgebiets, was f\u00fcr einen unglaublichen Reichtum an Meeresfr\u00fcchten und intakten Korallen sorgt. South Water Caye bietet eine friedliche und intime Atmosph\u00e4re, weitab vom gesch\u00e4ftigen Treiben gr\u00f6\u00dferer Tourismuszentren. Ob man nun die Unterwasserwelt erkundet, Seekajak f\u00e4hrt oder einfach nur in einer H\u00e4ngematte den Blick auf den Horizont genie\u00dft \u2013 die Insel ist ein Ort der totalen Entspannung und der tiefen Verbundenheit mit dem Meer. Es ist zweifellos einer der sch\u00f6nsten und \u00f6kologisch bedeutendsten Orte in der Karibik Belizes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Insel umfasst eine Fl\u00e4che von nur etwa 6 Hektar.",
+        "Das South Water Caye Marine Reserve ist das gr\u00f6\u00dfte Meeresschutzgebiet Belizes.",
+        "Die Wassertiefe am Riffabfall \u00f6stlich der Insel erreicht schnell \u00fcber 100 Meter.",
+        "South Water Caye beherbergt mehrere renommierte Meeresforschungsstationen.",
+        "Die Insel liegt etwa 22 Kilometer s\u00fcd\u00f6stlich von Dangriga.",
+        "Hier findet man seltene Elchgeweih- und Hirschgeweihkorallen.",
+        "Die Insel wurde nach dem Vorhandensein von S\u00fc\u00dfwasserbrunnen benannt.",
+        "South Water Caye ist ein beliebter Nistplatz f\u00fcr Seeschwalben und andere Seev\u00f6gel."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-belize-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.2,
+      17.52
+    ],
+    "name": {
+      "de": "Belize River",
+      "hu": "Belize-foly\u00f3",
+      "ro": "R\u00e2ul Belize",
+      "en": "Belize River"
+    },
+    "description": {
+      "de": "Der l\u00e4ngste und wichtigste Fluss in Belize, der durch das Zentrum des Landes flie\u00dft.",
+      "hu": "Belize leghosszabb \u00e9s legfontosabb foly\u00f3ja, amely az orsz\u00e1g k\u00f6zep\u00e9n folyik kereszt\u00fcl.",
+      "ro": "Cel mai lung \u0219i mai important r\u00e2u din Belize, care curge prin centrul \u021b\u0103rii.",
+      "en": "The longest and most important river in Belize, flowing through the center of the country."
+    },
+    "facts": {
+      "de": [
+        "L\u00e4ngster Fluss des Landes.",
+        "Entsteht aus dem Zusammenfluss von Mopan und Macal.",
+        "M\u00fcndet bei Belize City.",
+        "Wichtige historische Wasserstra\u00dfe."
+      ],
+      "hu": [
+        "Az orsz\u00e1g leghosszabb foly\u00f3ja.",
+        "A Mopan \u00e9s a Macal foly\u00f3k \u00f6sszefoly\u00e1s\u00e1b\u00f3l j\u00f6n l\u00e9tre.",
+        "Belize Cityn\u00e9l torkollik a tengerbe.",
+        "Fontos t\u00f6rt\u00e9nelmi v\u00edzi \u00fat."
+      ],
+      "ro": [
+        "Cel mai lung r\u00e2u din \u021bar\u0103.",
+        "Format prin confluen\u021ba r\u00e2urilor Mopan \u0219i Macal.",
+        "Se vars\u0103 l\u00e2ng\u0103 Belize City.",
+        "Cale navigabil\u0103 istoric\u0103 important\u0103."
+      ],
+      "en": [
+        "Longest river in the country.",
+        "Formed by the junction of the Mopan and Macal rivers.",
+        "Empties near Belize City.",
+        "Historically significant waterway."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Belize River ist der l\u00e4ngste und historisch bedeutendste Fluss des Landes und bildet die Lebensader Zentralbelizes. Er entsteht aus dem Zusammenfluss von Mopan und Macal River und schl\u00e4ngelt sich durch fruchtbare T\u00e4ler, dichten Dschungel und sanfte Savannen, bevor er bei Belize City ins Karibische Meer m\u00fcndet. \u00dcber Jahrhunderte diente der Fluss als die wichtigste Verkehrsverbindung f\u00fcr die Maya und sp\u00e4ter f\u00fcr die britischen Holzf\u00e4ller. Heute ist der Belize River ein wichtiges \u00d6kosystem f\u00fcr Krokodile, Leguane, Br\u00fcllaffen und eine Vielzahl von Wasserv\u00f6geln. F\u00fcr Reisende bietet der Fluss M\u00f6glichkeiten f\u00fcr ruhige Bootstouren, Angeln und zur Beobachtung der Tierwelt in ihrem nat\u00fcrlichen Habitat. Der Belize River ist nicht nur eine Wasserstra\u00dfe, sondern ein Symbol f\u00fcr die Geschichte, die Wirtschaft und den \u00f6kologischen Reichtum von ganz Belize.",
+      "hu": "",
+      "ro": "",
+      "en": "The Belize River is the country's most important and historic waterway, once serving as the primary highway for the timber trade and the early settlement of the interior. Flowing from the Maya Mountains to the Caribbean Sea, the river winds through a fertile valley that remains the agricultural heartland of Belize. The river is steeped in colonial and Maya history, with numerous ancient sites and historic villages along its banks. Today, the Belize River is a popular spot for canoeing, fishing, and community-based eco-tourism. Its scenic beauty, its rich biodiversity, and its central role in the birth of the nation make it a vital and cherished part of the Belizean landscape."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Belize River hat eine Gesamtl\u00e4nge von etwa 290 Kilometern.",
+        "Sein Einzugsgebiet bedeckt fast ein Viertel der gesamten Landesfl\u00e4che.",
+        "Der Fluss war die Hauptroute f\u00fcr den Transport von Mahagoni bis in die 1940er Jahre.",
+        "Am Flusslauf liegen zahlreiche bedeutende Maya-St\u00e4tten wie Altun Ha und Lamanai.",
+        "Der Fluss beherbergt die gr\u00f6\u00dfte Population des Mittelamerikanischen Flussschildkr\u00f6te (Hicatee).",
+        "J\u00e4hrlich findet auf dem Fluss das ber\u00fchmte 'La Ruta Maya' Kanu-Rennen statt.",
+        "Der Belize River speist wichtige landwirtschaftliche Gebiete in den Distrikten Cayo und Belize.",
+        "Die Flussm\u00fcndung ist ein wichtiges Habitat f\u00fcr junge Manatis."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Belize River system is over 290 kilometers (180 miles) long.",
+        "It drains more than one-quarter of the total land area of Belize.",
+        "The river was the main artery for the colonial mahogany industry.",
+        "It is the site of the annual La Ruta Maya canoe race.",
+        "The river valley is home to many of Belize's most productive farms.",
+        "It empties into the sea just north of Belize City.",
+        "The river's headwaters are formed by the Macal and Mopan rivers."
+      ]
+    }
+  },
+  {
+    "id": "bz-half-moon-caye-nature-v2",
+    "type": "island",
+    "parent": "BZ-BZ",
+    "coords": [
+      -87.53,
+      17.25
+    ],
+    "name": {
+      "de": "Half Moon Caye",
+      "hu": "Half Moon Caye",
+      "ro": "Insula Half Moon",
+      "en": "Half Moon Caye"
+    },
+    "description": {
+      "de": "Ein Naturdenkmal und die erste als Schutzgebiet ausgewiesene Insel in Belize.",
+      "hu": "Term\u00e9szeti eml\u00e9km\u0171 \u00e9s az els\u0151 v\u00e9dett\u00e9 nyilv\u00e1n\u00edtott sziget Belize-ben.",
+      "ro": "Un monument natural \u0219i prima insul\u0103 desemnat\u0103 ca arie protejat\u0103 \u00een Belize.",
+      "en": "A natural monument and the first island designated as a protected area in Belize."
+    },
+    "facts": {
+      "de": [
+        "Erstes Meeresschutzgebiet Belizes.",
+        "Wichtige Brutkolonie f\u00fcr Rotfu\u00dft\u00f6lpel.",
+        "Leuchtturm auf der Insel.",
+        "Teil des Lighthouse Reef Atolls."
+      ],
+      "hu": [
+        "Belize els\u0151 tengeri rezerv\u00e1tuma.",
+        "A pirosl\u00e1b\u00fa szula fontos f\u00e9szkel\u0151kol\u00f3ni\u00e1ja.",
+        "Vil\u00e1g\u00edt\u00f3torony a szigeten.",
+        "A Lighthouse Reef atoll r\u00e9sze."
+      ],
+      "ro": [
+        "Prima rezerva\u021bie marin\u0103 din Belize.",
+        "Colonie important\u0103 de cuib\u0103rit pentru Sula sula.",
+        "Far pe insul\u0103.",
+        "Parte a atolului Lighthouse Reef."
+      ],
+      "en": [
+        "Belize's first marine protected area.",
+        "Home to a large Red-footed Booby colony.",
+        "Features a historic lighthouse.",
+        "Part of the Lighthouse Reef Atoll."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Half Moon Caye ist ein Naturdenkmal von weltweiter Bedeutung und die erste als Schutzgebiet ausgewiesene Insel in Belize. Gelegen am s\u00fcd\u00f6stlichen Rand des Lighthouse Reef Atolls, besticht die Insel durch ihre sichelf\u00f6rmige Gestalt und ihr einzigartiges \u00d6kosystem. Sie beherbergt eine weltber\u00fchmte Kolonie von Rotfu\u00dft\u00f6lpeln, die in den K\u00fcstenw\u00e4ldern der Insel nisten. Die Gew\u00e4sser um Half Moon Caye bieten einige der spektakul\u00e4rsten Taucherlebnisse der Welt, mit senkrechten Riffw\u00e4nden, die in die azurblaue Tiefe abfallen. Die Insel ist ein Paradebeispiel f\u00fcr den erfolgreichen Naturschutz in Belize und bietet Besuchern eine unber\u00fchrte Sch\u00f6nheit, die sowohl \u00fcber als auch unter Wasser fasziniert. Von der Beobachtungsplattform im Wald bis hin zu den Koralleng\u00e4rten am Strand \u2013 Half Moon Caye ist ein absolutes Muss f\u00fcr jeden Naturliebhaber und Abenteurer.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Half Moon Caye wurde 1982 zum ersten Nationaldenkmal Belizes erkl\u00e4rt.",
+        "Die Insel beherbergt eine Kolonie von etwa 4.000 Rotfu\u00dft\u00f6lpeln.",
+        "Das Lighthouse Reef Atoll liegt etwa 80 Kilometer vor der K\u00fcste.",
+        "Die ber\u00fchmte 'Wall' von Half Moon Caye bietet Tauchtiefen von \u00fcber 1.000 Metern.",
+        "Die Insel ist ein wichtiger Nistplatz f\u00fcr Suppenschildkr\u00f6ten und Echte Karettschildkr\u00f6ten.",
+        "Der Wald der Insel besteht aus seltenen Ziricote-B\u00e4umen.",
+        "Half Moon Caye ist nur mit dem Boot oder dem Wasserflugzeug erreichbar.",
+        "Die Insel verf\u00fcgt \u00fcber einen historischen Leuchtturm",
+        "der urspr\u00fcnglich 1820 erbaut wurde."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-columbia-forest-nature-v2",
+    "type": "forest",
+    "parent": "BZ-TOL",
+    "coords": [
+      -89.1,
+      16.4
+    ],
+    "name": {
+      "de": "Columbia River Forest Reserve",
+      "hu": "Columbia River erd\u0151rezerv\u00e1tum",
+      "ro": "Rezerva\u021bia Forestier\u0103 Columbia River",
+      "en": "Columbia River Forest Reserve"
+    },
+    "description": {
+      "de": "Ein gro\u00dfes, weitgehend ungest\u00f6rtes Waldgebiet im S\u00fcden von Belize.",
+      "hu": "Nagy, nagyr\u00e9szt h\u00e1bor\u00edtatlan erd\u0151ter\u00fclet Belize d\u00e9li r\u00e9sz\u00e9n.",
+      "ro": "O zon\u0103 forestier\u0103 mare, \u00een mare parte nederanjat\u0103, \u00een sudul Belize.",
+      "en": "A large, largely undisturbed forest area in southern Belize."
+    },
+    "facts": {
+      "de": [
+        "Sch\u00fctzt wichtige Wassereinzugsgebiete.",
+        "Verbindet die Maya Mountains mit der K\u00fcste.",
+        "Hohe Jaguar-Dichte.",
+        "Vielf\u00e4ltige Waldtypen."
+      ],
+      "hu": [
+        "Fontos v\u00edzgy\u0171jt\u0151 ter\u00fcleteket v\u00e9d.",
+        "\u00d6sszek\u00f6ti a Maja-hegys\u00e9get a partvid\u00e9kkel.",
+        "Magas jagu\u00e1r-s\u0171r\u0171s\u00e9g.",
+        "V\u00e1ltozatos erd\u0151t\u00edpusok."
+      ],
+      "ro": [
+        "Protejeaz\u0103 bazine hidrografice importante.",
+        "Conecteaz\u0103 Mun\u021bii Maya cu coasta.",
+        "Densitate mare de jaguari.",
+        "Diverse tipuri de p\u0103dure."
+      ],
+      "en": [
+        "Protects important watersheds.",
+        "Connects the Maya Mountains to the coast.",
+        "High density of jaguars.",
+        "Contains diverse forest types."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Columbia River Forest Reserve ist eines der gr\u00f6\u00dften und unber\u00fchrtesten Waldgebiete im S\u00fcden Belizes und ein kritischer Bestandteil des biologischen Korridors Mittelamerikas. Inmitten der Maya Mountains im Toledo-Distrikt gelegen, sch\u00fctzt es weite Fl\u00e4chen von prim\u00e4rem Regenwald, der eine Heimat f\u00fcr seltene Arten wie den Harpyie-Adler und den Jaguar bietet. Das Reservat ist gepr\u00e4gt von schroffen Kalksteinformationen, tiefen Schluchten und zahlreichen H\u00f6hlensystemen, die von den Maya als heilige St\u00e4tten genutzt wurden. Die Abgeschiedenheit des Columbia Forest hat dazu beigetragen, dass die Artenvielfalt hier au\u00dfergew\u00f6hnlich hoch geblieben ist. Es ist ein Ort der Forschung und des strengen Schutzes, der die \u00f6kologische Integrit\u00e4t des s\u00fcdlichen Belize bewahrt. F\u00fcr die indigenen Gemeinschaften der Umgebung ist der Wald eine heilige Ressource und ein Symbol f\u00fcr ihr kulturelles Erbe.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Reservat umfasst eine Fl\u00e4che von \u00fcber 400 Quadratkilometern.",
+        "Es beherbergt einige der letzten gro\u00dfen Best\u00e4nde an Mahagoni- und Zedernholz.",
+        "Das Columbia River Forest Reserve ist bekannt f\u00fcr seine komplexen Karst-H\u00f6hlensysteme.",
+        "Die Niederschlagsmengen hier geh\u00f6ren zu den h\u00f6chsten in ganz Zentralamerika.",
+        "Das Gebiet ist ein wichtiger Lebensraum f\u00fcr den bedrohten Scharlachara.",
+        "Zahlreiche arch\u00e4ologische St\u00e4tten der Maya liegen tief im Inneren des Waldes verborgen.",
+        "Das Reservat sch\u00fctzt die Oberl\u00e4ufe des Columbia River.",
+        "Der Zugang ist streng kontrolliert",
+        "um den Schutz der Wildnis zu gew\u00e4hrleisten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-turneffe-atoll-nature-v2",
+    "type": "island",
+    "parent": "BZ-BZ",
+    "coords": [
+      -87.85,
+      17.3
+    ],
+    "name": {
+      "de": "Turneffe Atoll",
+      "hu": "Turneffe-atoll",
+      "ro": "Atolul Turneffe",
+      "en": "Turneffe Atoll"
+    },
+    "description": {
+      "de": "Das gr\u00f6\u00dfte und biologisch vielf\u00e4ltigste Atoll in Belize.",
+      "hu": "Belize legnagyobb \u00e9s biol\u00f3giailag legsokf\u00e9l\u00e9bb atollja.",
+      "ro": "Cel mai mare \u0219i mai divers biologic atol din Belize.",
+      "en": "The largest and most biologically diverse atoll in Belize."
+    },
+    "facts": {
+      "de": [
+        "Gr\u00f6\u00dftes Atoll Belizes.",
+        "Besteht aus \u00fcber 200 Mangroveninseln.",
+        "Hervorragendes Fliegenfischen.",
+        "Wichtiger Lebensraum f\u00fcr Krokodile."
+      ],
+      "hu": [
+        "Belize legnagyobb atollja.",
+        "T\u00f6bb mint 200 mangrove-szigetb\u0151l \u00e1ll.",
+        "Kiv\u00e1l\u00f3 legyez\u0151horg\u00e1szatra.",
+        "Fontos \u00e9l\u0151hely a krokodilok sz\u00e1m\u00e1ra."
+      ],
+      "ro": [
+        "Cel mai mare atol din Belize.",
+        "Format din peste 200 de insule de mangrove.",
+        "Excelent pentru pescuitul la musc\u0103.",
+        "Habitat important pentru crocodili."
+      ],
+      "en": [
+        "Largest atoll in Belize.",
+        "Comprised of over 200 mangrove islands.",
+        "World-class fly-fishing destination.",
+        "Critical habitat for American crocodiles."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Turneffe Atoll ist das gr\u00f6\u00dfte und biologisch vielf\u00e4ltigste Korallenatoll in Belize und der gesamten Karibik. Es besteht aus einem komplexen Mosaik aus Korallenriffen, Lagunen, Mangroveninseln und Seegraswiesen, das eine unglaubliche Vielfalt an marinen Lebensr\u00e4umen bietet. Turneffe ist weltber\u00fchmt f\u00fcr seine Tauch- und Schnorchelpl\u00e4tze sowie f\u00fcr sein erstklassiges Sportfischen auf Gr\u00e4tenfische, Tarpons und Erlaubnisfische. Das Atoll dient als Kinderstube f\u00fcr unz\u00e4hlige Meeresbewohner und ist ein wichtiger Schutzschild f\u00fcr die K\u00fcste Belizes vor Hurrikanen. Seit 2012 ist es als Marine Reserve gesch\u00fctzt, um seine \u00f6kologische Bedeutung dauerhaft zu bewahren. F\u00fcr Besucher bietet Turneffe ein exklusives Naturerlebnis in einer Umgebung, die sowohl wild als auch wundersch\u00f6n ist. Es ist ein Ort, an dem die ungez\u00e4hmte Kraft des Ozeans auf die stille Sch\u00f6nheit der Mangroven trifft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Turneffe Atoll erstreckt sich \u00fcber eine Fl\u00e4che von ca. 50 Kilometern L\u00e4nge und 16 Kilometern Breite.",
+        "Es wurde 2012 zum gr\u00f6\u00dften Meeresschutzgebiet Belizes erkl\u00e4rt.",
+        "Turneffe beherbergt die gr\u00f6\u00dfte Population von Spitzkrokodilen in der Karibik.",
+        "Es gibt \u00fcber 200 Mangroveninseln innerhalb des Atolls.",
+        "Das Atoll ist bekannt f\u00fcr seine 'Spawning Aggregations' (Laichansammlungen) von Zackenbarschen.",
+        "Taucher k\u00f6nnen hier oft Delfine",
+        "Schildkr\u00f6ten und majest\u00e4tische Adlerrochen sehen.",
+        "Die Inseln des Atolls bieten wichtige Nistpl\u00e4tze f\u00fcr Seev\u00f6gel.",
+        "Das Turneffe Atoll liegt etwa 30 Kilometer \u00f6stlich von Belize City."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-sibun-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-CYO",
+    "coords": [
+      -88.29,
+      17.37
+    ],
+    "name": {
+      "de": "Sibun River",
+      "hu": "Sibun-foly\u00f3",
+      "ro": "R\u00e2ul Sibun",
+      "en": "Sibun River"
+    },
+    "description": {
+      "de": "Ein Fluss, der in den Maya Mountains entspringt und nahe Belize City ins Meer m\u00fcndet.",
+      "hu": "Foly\u00f3, amely a Maja-hegys\u00e9gben ered \u00e9s Belize City k\u00f6zel\u00e9ben torkollik a tengerbe.",
+      "ro": "Un r\u00e2u care izvor\u0103\u0219te din Mun\u021bii Maya \u0219i se vars\u0103 \u00een mare l\u00e2ng\u0103 Belize City.",
+      "en": "A river that rises in the Maya Mountains and empties into the sea near Belize City."
+    },
+    "facts": {
+      "de": [
+        "Entspringt in den Maya Mountains.",
+        "Flie\u00dft parallel zum Hummingbird Highway.",
+        "Wichtiges landwirtschaftliches Tal.",
+        "M\u00fcndung ist ein Mangroven-\u00d6kosystem."
+      ],
+      "hu": [
+        "A Maja-hegys\u00e9gben ered.",
+        "A Hummingbird Highway-jel p\u00e1rhuzamosan folyik.",
+        "Fontos mez\u0151gazdas\u00e1gi v\u00f6lgy.",
+        "Torkolata mangrove-\u00f6kosziszt\u00e9ma."
+      ],
+      "ro": [
+        "Izvor\u0103\u0219te din Mun\u021bii Maya.",
+        "Curge paralel cu autostrada Hummingbird.",
+        "Valea agricol\u0103 important\u0103.",
+        "Estuarul este un ecosistem de mangrove."
+      ],
+      "en": [
+        "Rises in the Maya Mountains.",
+        "Flows parallel to the Hummingbird Highway.",
+        "Important agricultural valley.",
+        "Its estuary is a rich mangrove ecosystem."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Sibun River ist eine malerische Wasserstra\u00dfe, die in den Maya Mountains entspringt und durch das Herz von Belize flie\u00dft. Er ist bekannt f\u00fcr sein klares Wasser, seine spektakul\u00e4ren Kalksteinh\u00f6hlen und die \u00fcppigen Obstplantagen, die seine Ufer s\u00e4umen. Der Sibun spielt eine wichtige Rolle in der Landwirtschaft des Landes, insbesondere f\u00fcr den Anbau von Zitrusfr\u00fcchten und Kakao. F\u00fcr Abenteurer bietet der Fluss ideale Bedingungen zum Kanufahren, Schwimmen und f\u00fcr H\u00f6hlentouren, da er durch einige der sch\u00f6nsten Karstlandschaften Belizes flie\u00dft. Die Ufervegetation beherbergt eine reiche Vogelwelt und Br\u00fcllaffen, deren Rufe oft \u00fcber dem Wasser zu h\u00f6ren sind. Der Sibun River verbindet die raue Bergwelt mit den fruchtbaren Ebenen und m\u00fcndet s\u00fcdlich von Belize City in die Karibik. Er ist ein Symbol f\u00fcr die dynamische Naturlandschaft und die landwirtschaftliche Vitalit\u00e4t des Landes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Sibun River entspringt in den Maya Mountains in einer H\u00f6he von \u00fcber 800 Metern.",
+        "Er flie\u00dft durch das ber\u00fchmte 'Caves Branch' Gebiet mit seinen zahlreichen H\u00f6hlen.",
+        "Der Fluss ist etwa 100 Kilometer lang.",
+        "An seinen Ufern befinden sich bedeutende arch\u00e4ologische Maya-St\u00e4tten.",
+        "Der Sibun River ist eine wichtige Wasserquelle f\u00fcr die Zitrusindustrie in Belize.",
+        "W\u00e4hrend der Regenzeit kann der Flusspegel extrem schnell ansteigen.",
+        "Die M\u00fcndung des Sibun ist ein wichtiges Habitat f\u00fcr junge Haie und Rochen.",
+        "Der Fluss ist bekannt f\u00fcr seine reiche Population an S\u00fc\u00dfwasserfischen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-manatee-forest-reserve-nature-v2",
+    "type": "forest",
+    "parent": "BZ-SC",
+    "coords": [
+      -88.4,
+      17.15
+    ],
+    "name": {
+      "de": "Manatee Forest Reserve",
+      "hu": "Manatee erd\u0151rezerv\u00e1tum",
+      "ro": "Rezerva\u021bia Forestier\u0103 Manatee",
+      "en": "Manatee Forest Reserve"
+    },
+    "description": {
+      "de": "Ein Schutzgebiet, das f\u00fcr seine Manati-Populationen in den Lagunen bekannt ist.",
+      "hu": "V\u00e9dett ter\u00fclet, amely a lag\u00fan\u00e1iban \u00e9l\u0151 man\u00e1tusz-popul\u00e1ci\u00f3ir\u00f3l ismert.",
+      "ro": "O arie protejat\u0103 cunoscut\u0103 pentru popula\u021biile sale de lamantini din lagune.",
+      "en": "A protected area known for its manatee populations in the lagoons."
+    },
+    "facts": {
+      "de": [
+        "Schutz f\u00fcr Westindische Manatis.",
+        "Umfasst K\u00fcstenlagunen und W\u00e4lder.",
+        "Wichtiger Korridor f\u00fcr Wildtiere.",
+        "Vielf\u00e4ltige Lebensr\u00e4ume."
+      ],
+      "hu": [
+        "V\u00e9delmet ny\u00fajt a karibi man\u00e1tuszoknak.",
+        "Part menti lag\u00fan\u00e1kat \u00e9s erd\u0151ket foglal mag\u00e1ban.",
+        "Fontos folyos\u00f3 a vad\u00e1llatok sz\u00e1m\u00e1ra.",
+        "V\u00e1ltozatos \u00e9l\u0151helyek."
+      ],
+      "ro": [
+        "Protec\u021bie pentru lamantinii din Indiile de Vest.",
+        "Include lagune de coast\u0103 \u0219i p\u0103duri.",
+        "Coridor important pentru fauna s\u0103lbatic\u0103.",
+        "Habitate diverse."
+      ],
+      "en": [
+        "Sanctuary for the West Indian Manatee.",
+        "Comprises coastal lagoons and forests.",
+        "Important wildlife corridor.",
+        "Features a variety of habitats."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Manatee Forest Reserve ist ein bedeutendes Schutzgebiet im Belize-Distrikt, das eine Vielzahl von \u00d6kosystemen umfasst, von tropischen W\u00e4ldern bis hin zu ausgedehnten Lagunensystemen. Sein Name spiegelt seine wichtigste \u00f6kologische Funktion wider: den Schutz der gef\u00e4hrdeten Westindischen Seek\u00fche (Manatis), die in den brackigen Gew\u00e4ssern der Lagunen ihre Heimat finden. Das Reservat ist zudem ein Paradies f\u00fcr Vogelbeobachter und Naturliebhaber, da es als R\u00fcckzugsort f\u00fcr unz\u00e4hlige wandernde und einheimische Arten dient. Die Mangrovenw\u00e4lder und Wasserwege des Reservats sind essentiell f\u00fcr den Schutz der K\u00fcste und die Erhaltung der marinen Biodiversit\u00e4t. F\u00fcr Besucher bietet das Manatee Forest Reserve eine stille und urspr\u00fcngliche Erfahrung des l\u00e4ndlichen Belize, wobei gemeinschaftsbasierte Touren einen tiefen Einblick in den Naturschutz und die lokale Kultur erm\u00f6glichen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Reservat umfasst eine Fl\u00e4che von rund 180 Quadratkilometern.",
+        "Die Southern Lagoon innerhalb des Reservats ist ein Hauptgebiet f\u00fcr Manati-Sichtungen.",
+        "Das Gebiet dient als wichtiger Brutplatz f\u00fcr Wasserv\u00f6gel wie den Jabiru-Storch.",
+        "Es sch\u00fctzt kritische Korridore f\u00fcr Wildtiere zwischen den Bergen und der K\u00fcste.",
+        "Das Manatee Forest Reserve wird oft in Zusammenarbeit mit dem Dorf Gales Point verwaltet.",
+        "Hier befinden sich bedeutende arch\u00e4ologische St\u00e4tten wie die Ben Lomond's Cave.",
+        "Die Vegetation umfasst Kiefernsavannen und feuchten Tropenwald.",
+        "Das Reservat ist nur \u00fcber Schotterstra\u00dfen oder den Wasserweg erreichbar."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-bacalar-chico-park-nature-v2",
+    "type": "sea",
+    "parent": "BZ-BZ",
+    "coords": [
+      -87.87,
+      18.2
+    ],
+    "name": {
+      "de": "Bacalar Chico Nationalpark",
+      "hu": "Bacalar Chico Nemzeti Park",
+      "ro": "Parcul Na\u021bional Bacalar Chico",
+      "en": "Bacalar Chico National Park"
+    },
+    "description": {
+      "de": "Ein Meeresreservat an der Nordspitze von Ambergris Caye, das an Mexiko grenzt.",
+      "hu": "Tengeri rezerv\u00e1tum az Ambergris Caye \u00e9szaki cs\u00fccsk\u00e9n, Mexik\u00f3val hat\u00e1rosan.",
+      "ro": "O rezerva\u021bie marin\u0103 la v\u00e2rful nordic al Ambergris Caye, la grani\u021ba cu Mexic.",
+      "en": "A marine reserve on the northern tip of Ambergris Caye, bordering Mexico."
+    },
+    "facts": {
+      "de": [
+        "UNESCO-Welterbe.",
+        "Grenzt an Mexiko.",
+        "Wichtiger Nistplatz f\u00fcr Meeresschildkr\u00f6ten.",
+        "Umfasst Riff",
+        "Seegraswiesen und Mangroven."
+      ],
+      "hu": [
+        "UNESCO Vil\u00e1g\u00f6r\u00f6ks\u00e9g.",
+        "Mexik\u00f3val hat\u00e1ros.",
+        "Fontos f\u00e9szkel\u0151hely a tengeri tekn\u0151s\u00f6k sz\u00e1m\u00e1ra.",
+        "Mag\u00e1ban foglal z\u00e1tonyt",
+        "tengerif\u0171-mez\u0151ket \u00e9s mangrov\u00e9kat."
+      ],
+      "ro": [
+        "Patrimoniu Mondial UNESCO.",
+        "La grani\u021ba cu Mexicul.",
+        "Loc important de cuib\u0103rit pentru \u021bestoasele marine.",
+        "Include recif",
+        "paji\u0219ti de iarb\u0103 de mare \u0219i mangrove."
+      ],
+      "en": [
+        "UNESCO World Heritage site.",
+        "Borders Mexico.",
+        "Important nesting beach for sea turtles.",
+        "Encompasses reef",
+        "seagrass",
+        "and mangrove habitats."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Bacalar Chico Nationalpark und das angeschlossene Marine Reserve liegen an der Nordspitze von Ambergris Caye, direkt an der Grenze zu Mexiko. Dieses UNESCO-Weltnaturerbe ist ein Ort von au\u00dfergew\u00f6hnlicher Sch\u00f6nheit und \u00f6kologischer Komplexit\u00e4t, an dem das Barriereriff buchst\u00e4blich auf das Land trifft. Der Park umfasst unber\u00fchrte Str\u00e4nde, Mangrovens\u00fcmpfe und tropischen Trockenwald, was ihn zu einem Refugium f\u00fcr seltene Tiere wie Jaguare, Pumas und Krokodile macht. Die Koralleng\u00e4rten des Reservats geh\u00f6ren zu den vielf\u00e4ltigsten der Karibik und bieten spektakul\u00e4re M\u00f6glichkeiten zum Tauchen und Schnorcheln. Historisch ist Bacalar Chico durch den von den Maya gegrabenen Kanal bekannt, der die Insel vom Festland (Mexiko) trennt. Es ist ein Ort, an dem Natur, Geschichte und die Einsamkeit der K\u00fcste eine faszinierende Verbindung eingehen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bacalar Chico wurde 1996 zum Nationalpark und Meeresschutzgebiet erkl\u00e4rt.",
+        "Er ist Teil des UNESCO-Weltnaturerbes Belize Barrier Reef Reserve System.",
+        "Der Park umfasst eine Landfl\u00e4che von etwa 45 Quadratkilometern.",
+        "Hier befindet sich der h\u00f6chste Punkt von Ambergris Caye (ca. 10 Meter).",
+        "Die Meeresschildkr\u00f6ten-Nistpl\u00e4tze an der Ostk\u00fcste geh\u00f6ren zu den wichtigsten des Landes.",
+        "Ein kleines Museum in der Rangerstation zeigt Maya-Artefakte und Naturkunde.",
+        "Der Park ist fast ausschlie\u00dflich mit dem Boot von San Pedro aus zu erreichen.",
+        "In den W\u00e4ldern leben alle f\u00fcnf Katzenarten von Belize sowie zahlreiche seltene V\u00f6gel."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-sapodilla-cayes-nature-v2",
+    "type": "island",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.27,
+      16.13
+    ],
+    "name": {
+      "de": "Sapodilla Cayes",
+      "hu": "Sapodilla Cayes",
+      "ro": "Insulele Sapodilla",
+      "en": "Sapodilla Cayes"
+    },
+    "description": {
+      "de": "Eine Gruppe von Inseln am s\u00fcdlichsten Ende des Belize Barrier Reefs.",
+      "hu": "Szigetcsoport a Belize-korallz\u00e1tony legd\u00e9lebbi v\u00e9g\u00e9n.",
+      "ro": "Un grup de insule la cap\u0103tul sudic al Barierei de Corali din Belize.",
+      "en": "A group of islands at the southernmost tip of the Belize Barrier Reef."
+    },
+    "facts": {
+      "de": [
+        "S\u00fcdlichster Punkt des Riffs.",
+        "Meeresschutzgebiet.",
+        "Postkartenstr\u00e4nde.",
+        "Ausgezeichnetes Schnorcheln."
+      ],
+      "hu": [
+        "A z\u00e1tony legd\u00e9lebbi pontja.",
+        "Tengeri rezerv\u00e1tum.",
+        "K\u00e9peslapra ill\u0151 strandok.",
+        "Kiv\u00e1l\u00f3 b\u00fav\u00e1rkod\u00e1si lehet\u0151s\u00e9gek."
+      ],
+      "ro": [
+        "Cel mai sudic punct al recifului.",
+        "Rezerva\u021bie marin\u0103.",
+        "Plaje de carte po\u0219tal\u0103.",
+        "Snorkeling excelent."
+      ],
+      "en": [
+        "Southernmost point of the reef.",
+        "Marine reserve.",
+        "Picture-perfect beaches.",
+        "Excellent snorkeling and diving."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Sapodilla Cayes sind eine Gruppe von atemberaubenden Inseln am s\u00fcdlichsten Ende des Belize Barrier Reefs und gelten als einer der abgelegensten und unber\u00fchrtesten Orte des Landes. Diese Inseln liegen in einem marinen Schutzgebiet, das f\u00fcr seine unglaubliche Fischvielfalt und die spektakul\u00e4ren Korallenformationen bekannt ist. Die Sapodilla Cayes bieten wei\u00dfe Sandstr\u00e4nde, kristallklares Wasser und eine Stille, die nur durch das Rauschen der Wellen unterbrochen wird. Aufgrund ihrer Lage am Rand des Festlandsockels sind die Gew\u00e4sser hier ein Magnet f\u00fcr gro\u00dfe Meeresbewohner wie Walhaie und Delfine. F\u00fcr Taucher und Abenteurer sind die Sapodilla Cayes ein Traumziel, das den urspr\u00fcnglichen Geist der Karibik bewahrt hat. Ein Besuch erfordert eine l\u00e4ngere Bootsfahrt von Punta Gorda, doch die unber\u00fchrte Natur und die Einsamkeit belohnen jeden Reisenden auf unvergessliche Weise.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Sapodilla Cayes Marine Reserve umfasst eine Fl\u00e4che von ca. 125 Quadratkilometern.",
+        "Die Inselgruppe besteht aus 14 kleinen Cayes und zahlreichen Korallenriffen.",
+        "Hunting Caye ist die bekannteste Insel mit einer Rangerstation und einem Leuchtturm.",
+        "Die Region ist ber\u00fchmt f\u00fcr die Beobachtung von Walhaien w\u00e4hrend der Vollmondphasen (April-Juni).",
+        "Die Cayes liegen etwa 65 Kilometer s\u00fcd\u00f6stlich von Punta Gorda.",
+        "Hier treffen die Gew\u00e4sser von Belize",
+        "Guatemala und Honduras zusammen.",
+        "Die Korallenriffe zeichnen sich durch massive Hirnkorallen und F\u00e4cherkorallen aus.",
+        "Die Inseln dienen als wichtiger Ruheplatz f\u00fcr Zugv\u00f6gel auf ihrem Weg nach S\u00fcden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-vaca-forest-reserve-nature-v2",
+    "type": "forest",
+    "parent": "BZ-CYO",
+    "coords": [
+      -89.1,
+      17.0
+    ],
+    "name": {
+      "de": "Vaca Forest Reserve",
+      "hu": "Vaca erd\u0151rezerv\u00e1tum",
+      "ro": "Rezerva\u021bia Forestier\u0103 Vaca",
+      "en": "Vaca Forest Reserve"
+    },
+    "description": {
+      "de": "Ein Waldreservat westlich von Mountain Pine Ridge, das den Macal River umgibt.",
+      "hu": "Erd\u0151rezerv\u00e1tum a Mountain Pine Ridge-t\u0151l nyugatra, a Macal foly\u00f3t veszi k\u00f6r\u00fcl.",
+      "ro": "O rezerva\u021bie forestier\u0103 la vest de Mountain Pine Ridge, care \u00eenconjoar\u0103 r\u00e2ul Macal.",
+      "en": "A forest reserve west of Mountain Pine Ridge, surrounding the Macal River."
+    },
+    "facts": {
+      "de": [
+        "Grenzt an den Chiquibul-Nationalpark.",
+        "Wichtiger Lebensraum f\u00fcr Aras.",
+        "Enth\u00e4lt mehrere Staud\u00e4mme.",
+        "H\u00fcgeliges Gel\u00e4nde."
+      ],
+      "hu": [
+        "A Chiquibul Nemzeti Parkkal hat\u00e1ros.",
+        "Fontos \u00e9l\u0151hely az ara papag\u00e1jok sz\u00e1m\u00e1ra.",
+        "T\u00f6bb v\u00edzer\u0151m\u0171 g\u00e1tja is itt tal\u00e1lhat\u00f3.",
+        "Dombos terep."
+      ],
+      "ro": [
+        "Se \u00eenvecineaz\u0103 cu Parcul Na\u021bional Chiquibul.",
+        "Habitat important pentru papagalii ara.",
+        "Con\u021bine mai multe baraje hidroelectrice.",
+        "Teren deluros."
+      ],
+      "en": [
+        "Borders Chiquibul National Park.",
+        "Important habitat for scarlet macaws.",
+        "Site of several hydroelectric dams.",
+        "Hilly and rugged terrain."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Vaca Forest Reserve ist ein wildes und zerkl\u00fcftetes Waldschutzgebiet im Cayo-Distrikt, das sich entlang des Macal River und der Grenze zu Guatemala erstreckt. Diese Region ist gepr\u00e4gt von steilen Kalksteinh\u00fcgeln, tiefen T\u00e4lern und einem dichten, feuchten Tropenwald. Das Reservat spielt eine entscheidende Rolle f\u00fcr den Schutz des Einzugsgebiets des Macal River und beherbergt eine reiche Flora und Fauna, darunter den gef\u00e4hrdeten Scharlachara und den Tapir. In den letzten Jahren hat das Vaca Forest Reserve durch gemeinschaftsbasierte Schutzinitiativen an Bedeutung gewonnen, die versuchen, nachhaltige Landwirtschaft mit dem Erhalt des Waldes zu verbinden. Unter dem Bl\u00e4tterdach verbergen sich zudem zahlreiche arch\u00e4ologische Sch\u00e4tze und spektakul\u00e4re Wasserf\u00e4lle. F\u00fcr Abenteurer bietet das Reservat anspruchsvolle Wanderwege und die M\u00f6glichkeit, die ungez\u00e4hmte Seite des westlichen Belize in ihrer ganzen Intensit\u00e4t zu erleben.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Vaca Forest Reserve umfasst eine Fl\u00e4che von rund 210 Quadratkilometern.",
+        "Es sch\u00fctzt einen wichtigen Korridor f\u00fcr den Jaguar zwischen Belize und Guatemala.",
+        "Der Macal River bildet die \u00f6stliche Grenze des Reservats.",
+        "Hier befinden sich mehrere bedeutende Wasserf\u00e4lle",
+        "darunter die Vaca Falls.",
+        "Das Gebiet beherbergt die Maya-St\u00e4tte Tipan Chen Uitz (Negroman).",
+        "Das Reservat ist bekannt f\u00fcr seine hohe Dichte an Kalksteinh\u00f6hlen.",
+        "Es ist einer der wenigen Orte in Belize",
+        "an denen man Scharlacharas in freier Wildbahn sehen kann.",
+        "Gro\u00dfe Teile des Reservats sind nur zu Fu\u00df oder mit dem Pferd zug\u00e4nglich."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-deep-river-forest-reserve-nature-v2",
+    "type": "forest",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.65,
+      16.28
+    ],
+    "name": {
+      "de": "Deep River Forest Reserve",
+      "hu": "Deep River erd\u0151rezerv\u00e1tum",
+      "ro": "Rezerva\u021bia Forestier\u0103 Deep River",
+      "en": "Deep River Forest Reserve"
+    },
+    "description": {
+      "de": "Ein Schutzgebiet im S\u00fcden Belizes, das den gleichnamigen Fluss sch\u00fctzt.",
+      "hu": "V\u00e9dett ter\u00fclet D\u00e9l-Belize-ben, amely az azonos nev\u0171 foly\u00f3t v\u00e9di.",
+      "ro": "O arie protejat\u0103 din sudul Belize, care protejeaz\u0103 r\u00e2ul cu acela\u0219i nume.",
+      "en": "A protected area in southern Belize that protects the river of the same name."
+    },
+    "facts": {
+      "de": [
+        "Sch\u00fctzt den Deep River.",
+        "Wichtiger biologischer Korridor.",
+        "Reiche Tier- und Pflanzenwelt.",
+        "Wenig erforscht."
+      ],
+      "hu": [
+        "V\u00e9di a Deep River foly\u00f3t.",
+        "Fontos biol\u00f3giai folyos\u00f3.",
+        "Gazdag \u00e1llat- \u00e9s n\u00f6v\u00e9nyvil\u00e1g.",
+        "Keveset kutatott ter\u00fclet."
+      ],
+      "ro": [
+        "Protejeaz\u0103 r\u00e2ul Deep River.",
+        "Coridor biologic important.",
+        "Faun\u0103 \u0219i flor\u0103 bogat\u0103.",
+        "Pu\u021bin explorat\u0103."
+      ],
+      "en": [
+        "Protects the Deep River watershed.",
+        "Important biological corridor.",
+        "Rich in flora and fauna.",
+        "Relatively unexplored."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Deep River Forest Reserve ist ein bedeutendes Schutzgebiet im Toledo-Distrikt, das ein Mosaik aus Kiefernsavannen, Feuchtgebieten und tropischen Laubw\u00e4ldern sch\u00fctzt. Das Reservat ist nach dem Deep River benannt, der sich tr\u00e4ge durch die Landschaft schl\u00e4ngelt und schlie\u00dflich in die Port Honduras Marine Reserve m\u00fcndet. Dieses Gebiet ist \u00f6kologisch wertvoll, da es einen nahtlosen \u00dcbergang von den Bergen zur K\u00fcste bietet, was f\u00fcr den genetischen Austausch vieler Tierarten essentiell ist. Das Deep River Forest Reserve ist ein Refugium f\u00fcr Jaguare, Wei\u00dfwedelhirsche und eine Vielzahl von Greifv\u00f6geln. F\u00fcr Besucher bietet das Reservat eine einsame und urspr\u00fcngliche Wildnis, die ideal f\u00fcr Naturbeobachtungen und zur Erkundung der vielf\u00e4ltigen \u00d6kosysteme des S\u00fcdens ist. Die Stille des Waldes und die spiegelglatte Oberfl\u00e4che des Flusses machen es zu einem Ort von zeitloser nat\u00fcrlicher Sch\u00f6nheit.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Reservat umfasst eine Fl\u00e4che von etwa 300 Quadratkilometern.",
+        "Es sch\u00fctzt das gesamte mittlere und untere Einzugsgebiet des Deep River.",
+        "Die Vegetation besteht zu einem gro\u00dfen Teil aus \u00f6kologisch wertvollen Kiefernsavannen.",
+        "Das Gebiet ist ein wichtiger Lebensraum f\u00fcr den bedrohten gelbkopfamazone (Papagei).",
+        "Deep River Forest Reserve grenzt an den Southern Highway im Westen.",
+        "Die Fl\u00fcsse im Reservat sind reich an Snooks und anderen Brackwasserfischen.",
+        "Es dient als wichtiger Korridor f\u00fcr Gro\u00dfkatzen zwischen den Maya Mountains und der K\u00fcste.",
+        "Im Reservat befinden sich mehrere unerschlossene Maya-H\u00fcgelgr\u00e4ber."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-gales-point-peninsula-nature-v2",
+    "type": "forest",
+    "parent": "BZ-BZ",
+    "coords": [
+      -88.35,
+      17.15
+    ],
+    "name": {
+      "de": "Gales Point Halbinsel",
+      "hu": "Gales Point-f\u00e9lsziget",
+      "ro": "Peninsula Gales Point",
+      "en": "Gales Point Peninsula"
+    },
+    "description": {
+      "de": "Eine Halbinsel, die f\u00fcr ihr gemeinschaftsbasiertes Manati-Schutzprojekt bekannt ist.",
+      "hu": "F\u00e9lsziget, amely a k\u00f6z\u00f6ss\u00e9gi alap\u00fa man\u00e1tuszv\u00e9delmi projektj\u00e9r\u0151l ismert.",
+      "ro": "O peninsul\u0103 cunoscut\u0103 pentru proiectul s\u0103u comunitar de protejare a lamantinilor.",
+      "en": "A peninsula known for its community-based manatee conservation project."
+    },
+    "facts": {
+      "de": [
+        "Bekannt als Manatee-Heiligtum.",
+        "Kriolisches Dorf Gales Point.",
+        "Liegt an der Southern Lagoon.",
+        "Fokus auf \u00d6kotourismus."
+      ],
+      "hu": [
+        "Man\u00e1tusz-mened\u00e9khelyk\u00e9nt ismert.",
+        "Gales Point kreol falu.",
+        "A D\u00e9li Lag\u00fana partj\u00e1n fekszik.",
+        "K\u00f6z\u00e9ppontban az \u00f6koturizmus."
+      ],
+      "ro": [
+        "Cunoscut ca sanctuar pentru lamantini.",
+        "Satul creol Gales Point.",
+        "Situat pe Laguna de Sud.",
+        "Accent pe ecoturism."
+      ],
+      "en": [
+        "Known as a manatee sanctuary.",
+        "Home to the Creole village of Gales Point.",
+        "Located on the Southern Lagoon.",
+        "Focus on community ecotourism."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Die Halbinsel Gales Point ist ein verstecktes Naturjuwel im Belize District und ragt majest\u00e4tisch in die Southern Lagoon hinein. Dieses abgelegene Gebiet ist weltweit bekannt als eines der wichtigsten Schutzgebiete f\u00fcr die gef\u00e4hrdete Westindische Seekuh (Manati). Die umliegenden Gew\u00e4sser bieten ideale Bedingungen f\u00fcr diese sanften Riesen, die hier in den brackigen Lagunen Nahrung und Schutz finden. Das Dorf Gales Point Manatee, am Ende der Halbinsel gelegen, ist eine der \u00e4ltesten kreolischen Gemeinschaften Belizes und bewahrt stolz seine afrikanischen Wurzeln und Traditionen. F\u00fcr Naturliebhaber bietet die Halbinsel eine einzigartige Mischung aus aquatischen \u00d6kosystemen, Mangrovenw\u00e4ldern und einer reichen Vogelwelt. Die Kombination aus intensivem Naturschutz und lebendiger kultureller Identit\u00e4t macht Gales Point zu einem Ort von au\u00dfergew\u00f6hnlicher spiritueller und \u00f6kologischer Bedeutung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Herausragendes Schutzgebiet f\u00fcr den Westindischen Manati.",
+        "Heimat des traditionellen kreolischen Dorfes Gales Point Manatee.",
+        "Gelegen innerhalb der artenreichen Southern Lagoon.",
+        "Wichtiger Nistplatz f\u00fcr seltene Wasserschildkr\u00f6ten.",
+        "Bekannt f\u00fcr die Erhaltung der afrikanischen Sambai-Trommeltradition.",
+        "Umfasst ein komplexes System aus Mangroven und Feuchtgebieten.",
+        "Beliebtes Ziel f\u00fcr nachhaltigen und gemeinschaftsbasierten \u00d6kotourismus.",
+        "Bietet spektakul\u00e4re M\u00f6glichkeiten zur Vogelbeobachtung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-aguacaliente-wildlife-sanctuary-nature-v2",
+    "type": "lake",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.88,
+      16.18
+    ],
+    "name": {
+      "de": "Aguacaliente Wildlife Sanctuary",
+      "hu": "Aguacaliente Vadv\u00e9delmi Ter\u00fclet",
+      "ro": "Sanctuarul Aguacaliente",
+      "en": "Aguacaliente Wildlife Sanctuary"
+    },
+    "description": {
+      "de": "Ein Feuchtgebiet-Schutzgebiet im Toledo District, wichtig f\u00fcr Wasserv\u00f6gel.",
+      "hu": "Vizes \u00e9l\u0151hely-v\u00e9delmi ter\u00fclet a Toledo k\u00f6rzetben, fontos a v\u00edzimadarak sz\u00e1m\u00e1ra.",
+      "ro": "Un sanctuar de zon\u0103 umed\u0103 \u00een districtul Toledo, important pentru p\u0103s\u0103rile de ap\u0103.",
+      "en": "A wetland sanctuary in the Toledo District, important for water birds."
+    },
+    "facts": {
+      "de": [
+        "Wichtiges Feuchtgebiet.",
+        "Rastplatz f\u00fcr Zugv\u00f6gel.",
+        "Drei Lagunen.",
+        "Gemeinschaftlich verwaltet."
+      ],
+      "hu": [
+        "Fontos vizes \u00e9l\u0151hely.",
+        "Vonul\u00f3 madarak pihen\u0151helye.",
+        "H\u00e1rom lag\u00fan\u00e1b\u00f3l \u00e1ll.",
+        "K\u00f6z\u00f6ss\u00e9gi kezel\u00e9sben."
+      ],
+      "ro": [
+        "Zon\u0103 umed\u0103 important\u0103.",
+        "Loc de odihn\u0103 pentru p\u0103s\u0103rile migratoare.",
+        "Trei lagune.",
+        "Gestionat de comunitate."
+      ],
+      "en": [
+        "Key wetland ecosystem.",
+        "Resting place for migratory birds.",
+        "Comprises three distinct lagoons.",
+        "Co-managed by the local community."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Das Aguacaliente Wildlife Sanctuary ist ein bedeutendes Feuchtgebietsreservat im Toledo District und ein Paradies f\u00fcr Ornithologen. Das Schutzgebiet umfasst drei gro\u00dfe Lagunen und ein weitreichendes System von Sumpfgebieten, die als kritischer Rastplatz f\u00fcr hunderte von Zugvogelarten dienen. Inmitten der \u00fcppigen tropischen Landschaft des S\u00fcdens bietet Aguacaliente einen unverzichtbaren Lebensraum f\u00fcr Wasserv\u00f6gel wie den Jabiru-Storch, Reiher und verschiedene Entenarten. Der Name 'Aguacaliente' leitet sich von den hei\u00dfen Quellen ab, die in der Region vorkommen und dem \u00d6kosystem eine besondere Note verleihen. Das Reservat wird gemeinschaftlich von den umliegenden Maya-D\u00f6rfern verwaltet, was einen direkten Zusammenhang zwischen Naturschutz und lokaler Entwicklung herstellt. Besucher erleben hier eine unber\u00fchrte Wildnis, in der das ferne Rufen der Br\u00fcllaffen und das Flattern exotischer V\u00f6gel die einzige Ger\u00e4uschkulisse bilden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bedeutendes Feuchtgebietsreservat im S\u00fcden von Belize.",
+        "Beherbergt drei zentrale Lagunen als Lebensraum f\u00fcr Wasserv\u00f6gel.",
+        "Wichtiger Stopp f\u00fcr Zugv\u00f6gel auf der mittelamerikanischen Route.",
+        "Heimat des seltenen Jabiru-Storchs und zahlreicher Reiherarten.",
+        "Wird in Kooperation mit lokalen Maya-Gemeinschaften gesch\u00fctzt.",
+        "Bekannt f\u00fcr seine nat\u00fcrlichen hei\u00dfen Quellen im Reservat.",
+        "Umfasst weite Fl\u00e4chen von Sumpfwald und Savannen.",
+        "Ein erstklassiges Ziel f\u00fcr Vogelbeobachtung und Naturfotografie."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bz-moho-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-TOL",
+    "coords": [
+      -89.1,
+      16.1
+    ],
+    "name": {
+      "de": "Moho River",
+      "hu": "Moho-foly\u00f3",
+      "ro": "R\u00e2ul Moho",
+      "en": "Moho River"
+    },
+    "description": {
+      "de": "Ein Fluss im S\u00fcden von Belize, der bei Punta Gorda ins Meer m\u00fcndet.",
+      "hu": "Foly\u00f3 D\u00e9l-Belize-ben, amely Punta Gorda k\u00f6zel\u00e9ben torkollik a tengerbe.",
+      "ro": "Un r\u00e2u din sudul Belize, care se vars\u0103 \u00een mare l\u00e2ng\u0103 Punta Gorda.",
+      "en": "A river in southern Belize that flows into the sea near Punta Gorda."
+    },
+    "facts": {
+      "de": [
+        "Flie\u00dft durch den Toledo District.",
+        "Beliebt f\u00fcr Kajak- und Kanutouren.",
+        "M\u00fcndet in die Bucht von Honduras.",
+        "Ufer sind von dichtem Dschungel ges\u00e4umt."
+      ],
+      "hu": [
+        "A Toledo k\u00f6rzeten folyik kereszt\u00fcl.",
+        "N\u00e9pszer\u0171 a kajak- \u00e9s kenut\u00far\u00e1khoz.",
+        "A Hondurasi-\u00f6b\u00f6lbe torkollik.",
+        "Partjait s\u0171r\u0171 dzsungel szeg\u00e9lyezi."
+      ],
+      "ro": [
+        "Curge prin districtul Toledo.",
+        "Popular pentru excursii cu caiacul \u0219i canoea.",
+        "Se vars\u0103 \u00een Golful Honduras.",
+        "Malurile sunt m\u0103rginite de jungl\u0103 dens\u0103."
+      ],
+      "en": [
+        "Flows through the Toledo District.",
+        "Popular for kayaking and canoeing.",
+        "Empties into the Gulf of Honduras.",
+        "Banks are lined with dense jungle."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Moho River ist ein majest\u00e4tischer und geschichtstr\u00e4chtiger Wasserweg, der sich durch die zerkl\u00fcftete Kalksteinlandschaft und den dichten Dschungel des Toledo District windet. Bekannt f\u00fcr seine spektakul\u00e4ren Wasserf\u00e4lle und tiefen, klaren Pools, bietet der Fluss eine der wildesten und sch\u00f6nsten Naturerfahrungen im s\u00fcdlichen Belize. Der Moho River war bereits f\u00fcr die antiken Maya eine lebenswichtige Handelsroute, wovon Ruinenst\u00e4tten wie Pusilha direkt an seinen Ufern zeugen. Heute ist der Fluss ein Magnet f\u00fcr Abenteurer, die beim Kajakfahren oder Kanufahren die zahlreichen Stromschnellen und die unber\u00fchrte Ufervegetation erkunden m\u00f6chten. Unter dem dichten Bl\u00e4tterdach am Ufer leben Br\u00fcllaffen, Flussotter und unz\u00e4hlige tropische V\u00f6gel. Mit seiner rohen nat\u00fcrlichen Kraft und seiner tiefen kulturellen Bedeutung ist der Moho River ein Symbol f\u00fcr das ungez\u00e4hmte Herz des s\u00fcdlichen Belize.",
+      "hu": "",
+      "ro": "",
+      "en": "The Moho River is a majestic and historically significant waterway in the Toledo District, winding through a rugged landscape of limestone hills and dense tropical forest. Known for its spectacular waterfalls and deep jungle scenery, the river was an important trade route for the ancient Maya, with sites like Pusilha located along its banks. Today, the Moho River is a premier destination for adventure seekers, offering world-class kayaking and canoeing through its many rapids and serene pools. The river is surrounded by fertile agricultural lands where traditional Maya farming still prevails. With its raw natural beauty and its deep cultural connections, the Moho River provides an unforgettable journey into the wild heart of southern Belize."
+    },
+    "factsAdvanced": {
+      "de": [
+        "Flie\u00dft durch einige der unber\u00fchrtesten Dschungelgebiete Belizes.",
+        "Ber\u00fchmt f\u00fcr die beeindruckenden Moho River Falls.",
+        "Historisch wichtige Handelsstra\u00dfe der antiken Maya-Zivilisation.",
+        "Erstklassiges Ziel f\u00fcr Wildwasser-Kajakfahren und Kanutouren.",
+        "Lebensraum f\u00fcr Br\u00fcllaffen, Tukane und seltene Flussotter.",
+        "Ums\u00e4umt von fruchtbarem Land, das noch heute traditionell bewirtschaftet wird.",
+        "Entspringt im Hochland von Guatemala und m\u00fcndet in die Karibik.",
+        "Bietet Zugang zu entlegenen arch\u00e4ologischen St\u00e4tten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": [
+        "The Moho River is approximately 95 kilometers (59 miles) long.",
+        "It originates in the highlands of Guatemala before entering Belize.",
+        "The river is famous for the stunning Moho River Falls.",
+        "It was a major artery for the ancient Maya cacao trade.",
+        "The river supports diverse wildlife",
+        "including howler monkeys and river otters.",
+        "It is a popular spot for extreme whitewater kayaking.",
+        "The surrounding forest is home to many ancient Maya ceremonial sites."
+      ]
+    }
+  },
+  {
+    "id": "bz-rio-grande-river-nature-v2",
+    "type": "river",
+    "parent": "BZ-TOL",
+    "coords": [
+      -88.8,
+      16.2
+    ],
+    "name": {
+      "de": "Rio Grande (Belize)",
+      "hu": "Rio Grande (Belize)",
+      "ro": "R\u00e2ul Rio Grande (Belize)",
+      "en": "Rio Grande (Belize)"
+    },
+    "description": {
+      "de": "Einer der Hauptfl\u00fcsse im Toledo District, wichtig f\u00fcr die Landwirtschaft.",
+      "hu": "A Toledo k\u00f6rzet egyik f\u0151 foly\u00f3ja, fontos a mez\u0151gazdas\u00e1g sz\u00e1m\u00e1ra.",
+      "ro": "Unul dintre principalele r\u00e2uri din districtul Toledo, important pentru agricultur\u0103.",
+      "en": "One of the main rivers in the Toledo District, important for agriculture."
+    },
+    "facts": {
+      "de": [
+        "Wichtiger Fluss in Toledo.",
+        "Unterst\u00fctzt Kakao- und Zitrusfarmen.",
+        "M\u00fcndet in der N\u00e4he von Punta Gorda.",
+        "Quelle in den Maya Mountains."
+      ],
+      "hu": [
+        "Fontos foly\u00f3 Toled\u00f3ban.",
+        "Kaka\u00f3- \u00e9s citrusfarmokat l\u00e1t el v\u00edzzel.",
+        "Punta Gorda k\u00f6zel\u00e9ben torkollik a tengerbe.",
+        "Forr\u00e1sa a Maja-hegys\u00e9gben van."
+      ],
+      "ro": [
+        "R\u00e2u important \u00een Toledo.",
+        "Sus\u021bine fermele de cacao \u0219i citrice.",
+        "Se vars\u0103 l\u00e2ng\u0103 Punta Gorda.",
+        "Izvor\u0103\u0219te din Mun\u021bii Maya."
+      ],
+      "en": [
+        "Major river in Toledo.",
+        "Supports cacao and citrus farms.",
+        "Empties near Punta Gorda.",
+        "Source is in the Maya Mountains."
+      ]
+    },
+    "descriptionAdvanced": {
+      "de": "Der Rio Grande ist eine der bedeutendsten Wasseradern im Toledo District und bildet das \u00f6kologische R\u00fcckgrat f\u00fcr die Landwirtschaft und die Natur im S\u00fcden Belizes. Der Fluss entspringt in den unber\u00fchrten Maya Mountains und schl\u00e4ngelt sich durch fruchtbare Ebenen, bevor er n\u00f6rdlich von Punta Gorda in das Karibische Meer m\u00fcndet. Er ist die Hauptwasserquelle f\u00fcr die ber\u00fchmten Kakao- und Zitrusplantagen der Region und sichert den Lebensunterhalt zahlreicher Maya-Gemeinschaften. Entlang seiner Ufer erstreckt sich ein dichter Galeriewald, der als wichtiger Korridor f\u00fcr Wildtiere wie Jaguare und Tapire dient. Eine Bootsfahrt auf dem Rio Grande bietet spektakul\u00e4re Einblicke in die tropische Flora und Fauna, wobei man oft Br\u00fcllaffen in den Baumkronen und Leguane am Ufer beobachten kann. Der Fluss ist nicht nur eine Ressource, sondern auch ein Ort von nat\u00fcrlicher Sch\u00f6nheit und Ruhe, der die Vitalit\u00e4t des belizischen S\u00fcdens verk\u00f6rpert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Zentrale Wasserquelle f\u00fcr den Kakaoanbau im Toledo District.",
+        "Wichtiger \u00f6kologischer Korridor zwischen Bergen und Meer.",
+        "M\u00fcndet in ein reiches Mangroven-\u00c4stuar an der Karibikk\u00fcste.",
+        "Lebenswichtige Ressource f\u00fcr lokale Maya-D\u00f6rfer am Flusslauf.",
+        "Heimat einer vielf\u00e4ltigen Fischwelt und gro\u00dfer Reptilien.",
+        "Bietet hervorragende M\u00f6glichkeiten f\u00fcr ruhige Natur-Bootstouren.",
+        "Spielt eine Schl\u00fcsselrolle im Wasserhaushalt des s\u00fcdlichen Belize.",
+        "Bekannt f\u00fcr seine klaren Oberl\u00e4ufe in den Maya Mountains."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+]

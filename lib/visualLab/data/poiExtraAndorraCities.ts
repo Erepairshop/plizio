@@ -1,28 +1,8 @@
-
+﻿
 import type { POI } from "./poi";
 
 export const poiExtraAndorraCities: POI[] = [
-  // Canillo (AD-02)
-  {
-    id: "city-soldeu-extra",
-    type: "city",
-    parent: "AD-02",
-    coords: [1.6661, 42.5768],
-    name: { de: "Soldeu", hu: "Soldeu", ro: "Soldeu", en: "Soldeu" },
-    description: {
-      de: "Ein beliebtes Skigebiet im Winter und ein Zentrum für Outdoor-Aktivitäten im Sommer, Teil von Grandvalira.",
-      hu: "Népszerű síparadicsom télen és a szabadtéri tevékenységek központja nyáron, a Grandvalira része.",
-      ro: "O stațiune de schi populară iarna și un centru pentru activități în aer liber vara, parte a Grandvalira.",
-      en: "A popular ski resort in winter and a hub for outdoor activities in summer, part of Grandvalira."
-    },
-    facts: {
-      de: ["Weltcup-Pisten", "Luxushotels"],
-      hu: ["Világkupa-pályák", "Luxusszállodák"],
-      ro: ["Pârtii de Cupa Mondială", "Hoteluri de lux"],
-      en: ["World Cup slopes", "Luxury hotels"]
-    }
-  },
-  {
+  // Canillo (AD-02){
     id: "city-el-tarter-extra",
     type: "city",
     parent: "AD-02",
@@ -173,27 +153,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Versanți însoriti", "Dezvoltare modernă"],
       en: ["Sunny slopes", "Modern development"]
     }
-  },
-  {
-    id: "city-sant-joan-caselles-extra",
-    type: "city",
-    parent: "AD-02",
-    coords: [1.602, 42.575],
-    name: { de: "Sant Joan de Caselles", hu: "Sant Joan de Caselles", ro: "Sant Joan de Caselles", en: "Sant Joan de Caselles" },
-    description: {
-        de: "Ein Ort, der für seine prächtige romanische Kirche bekannt ist, die als eine der schönsten in Andorra gilt.",
-        hu: "Egy hely, amely a csodálatos román stílusú templomáról ismert, amelyet Andorra egyik legszebb templomának tartanak.",
-        ro: "O localitate renumită pentru splendida sa biserică romanică, considerată una dintre cele mai frumoase din Andorra.",
-        en: "A locality famous for its splendid Romanesque church, considered one of the most beautiful in Andorra."
-    },
-    facts: {
-        de: ["Romanische Architektur", "Kulturerbe"],
-        hu: ["Román építészet", "Kulturális örökség"],
-        ro: ["Arhitectură romanică", "Patrimoniu cultural"],
-        en: ["Romanesque architecture", "Cultural heritage"]
-    }
-  },
-  {
+  },{
     id: "city-armiana-extra",
     type: "city",
     parent: "AD-02",
@@ -289,27 +249,7 @@ export const poiExtraAndorraCities: POI[] = [
     }
   },
 
-  // Encamp (AD-03)
-  {
-    id: "city-pas-de-la-casa-extra",
-    type: "city",
-    parent: "AD-03",
-    coords: [1.733, 42.542],
-    name: { de: "Pas de la Casa", hu: "Pas de la Casa", ro: "Pas de la Casa", en: "Pas de la Casa" },
-    description: {
-      de: "Ein hohes Skigebiet an der Grenze zu Frankreich, bekannt für sein pulsierendes Nachtleben und zollfreies Einkaufen.",
-      hu: "Magasan fekvő síterep a francia határon, amely élénk éjszakai életéről és vámmentes vásárlási lehetőségeiről ismert.",
-      ro: "O stațiune de schi la mare altitudine, la granița cu Franța, cunoscută pentru viața de noapte vibrantă și cumpărături duty-free.",
-      en: "A high-altitude ski resort on the border with France, known for its vibrant nightlife and duty-free shopping."
-    },
-    facts: {
-      de: ["Höchstgelegener Ort Andorras", "Direkter Zugang zu Grandvalira"],
-      hu: ["Andorra legmagasabban fekvő települése", "Közvetlen hozzáférés a Grandvalirához"],
-      ro: ["Cea mai înaltă localitate din Andorra", "Acces direct la Grandvalira"],
-      en: ["Highest town in Andorra", "Direct access to Grandvalira"]
-    }
-  },
-  {
+  // Encamp (AD-03){
     id: "city-grau-roig-extra",
     type: "city",
     parent: "AD-03",
@@ -538,27 +478,7 @@ export const poiExtraAndorraCities: POI[] = [
     }
   },
 
-  // La Massana (AD-04)
-  {
-    id: "city-arinsal-extra",
-    type: "city",
-    parent: "AD-04",
-    coords: [1.483, 42.572],
-    name: { de: "Arinsal", hu: "Arinsal", ro: "Arinsal", en: "Arinsal" },
-    description: {
-      de: "Ein Dorf, das im Winter für sein Skigebiet (Teil von Vallnord) und im Sommer als Tor zum Coma Pedrosa Naturpark bekannt ist.",
-      hu: "Egy falu, amely télen a síterepéről (a Vallnord része), nyáron pedig a Coma Pedrosa Natúrpark kapujaként ismert.",
-      ro: "Un sat cunoscut pentru stațiunea sa de schi (parte a Vallnord) iarna și ca poartă de acces către Parcul Natural Coma Pedrosa vara.",
-      en: "A village known for its ski resort (part of Vallnord) in winter and as a gateway to the Coma Pedrosa Natural Park in summer."
-    },
-    facts: {
-      de: ["Höchster Gipfel Andorras", "Lebhaftes Après-Ski"],
-      hu: ["Andorra legmagasabb csúcsa", "Élénk après-ski"],
-      ro: ["Cel mai înalt vârf din Andorra", "Après-ski animat"],
-      en: ["Highest peak in Andorra", "Lively après-ski"]
-    }
-  },
-  {
+  // La Massana (AD-04){
     id: "city-pal-extra",
     type: "city",
     parent: "AD-04",
@@ -1475,27 +1395,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Locație centrală", "Viață urbană"],
       en: ["Central location", "Urban life"]
     }
-  },
-  {
-    id: "city-el-serrat-andorra-extra",
-    type: "city",
-    parent: "AD-07",
-    coords: [1.54, 42.515],
-    name: { de: "El Serrat", hu: "El Serrat", ro: "El Serrat", en: "El Serrat" },
-    description: {
-      de: "Eine ruhige Wohngegend am Hang mit Blick auf die Stadt.",
-      hu: "Csendes, hegyoldali lakóövezet, kilátással a városra.",
-      ro: "O zonă rezidențială liniștită pe versant, cu vedere la oraș.",
-      en: "A quiet residential area on the hillside overlooking the city."
-    },
-    facts: {
-      de: ["Sonnige Lage", "Moderne Apartments"],
-      hu: ["Napos fekvés", "Modern apartmanok"],
-      ro: ["Locație însorită", "Apartamente moderne"],
-      en: ["Sunny location", "Modern apartments"]
-    }
-  },
-  {
+  },{
     id: "city-comella-extra",
     type: "city",
     parent: "AD-07",

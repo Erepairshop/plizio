@@ -1,0 +1,970 @@
+[
+  {
+    "id": "mississauga-cities-v2",
+    "name_hu": "Mississauga"
+  },
+  {
+    "id": "brampton-cities-v2",
+    "name_hu": "Brampton"
+  },
+  {
+    "id": "hamilton-cities-v2",
+    "name_hu": "Hamilton"
+  },
+  {
+    "id": "london-cities-v2",
+    "name_hu": "London"
+  },
+  {
+    "id": "markham-cities-v2",
+    "name_hu": "Markham"
+  },
+  {
+    "id": "vaughan-cities-v2",
+    "name_hu": "Vaughan"
+  },
+  {
+    "id": "kitchener-cities-v2",
+    "name_hu": "Kitchener"
+  },
+  {
+    "id": "windsor-cities-v2",
+    "name_hu": "Windsor"
+  },
+  {
+    "id": "surrey-cities-v2",
+    "name_hu": "Surrey"
+  },
+  {
+    "id": "burnaby-cities-v2",
+    "name_hu": "Burnaby"
+  },
+  {
+    "id": "richmond-cities-v2",
+    "name_hu": "Richmond"
+  },
+  {
+    "id": "coquitlam-cities-v2",
+    "name_hu": "Coquitlam"
+  },
+  {
+    "id": "kelowna-cities-v2",
+    "name_hu": "Kelowna"
+  },
+  {
+    "id": "laval-cities-v2",
+    "name_hu": "Laval"
+  },
+  {
+    "id": "gatineau-cities-v2",
+    "name_hu": "Gatineau"
+  },
+  {
+    "id": "longueuil-cities-v2",
+    "name_hu": "Longueuil"
+  },
+  {
+    "id": "sherbrooke-cities-v2",
+    "name_hu": "Sherbrooke"
+  },
+  {
+    "id": "saguenay-cities-v2",
+    "name_hu": "Saguenay"
+  },
+  {
+    "id": "levis-cities-v2",
+    "name_hu": "Lévis"
+  },
+  {
+    "id": "trois-rivieres-cities-v2",
+    "name_hu": "Trois-Rivières"
+  },
+  {
+    "id": "lethbridge-cities-v2",
+    "name_hu": "Lethbridge"
+  },
+  {
+    "id": "red-deer-cities-v2",
+    "name_hu": "Red Deer"
+  },
+  {
+    "id": "st-albert-cities-v2",
+    "name_hu": "St. Albert"
+  },
+  {
+    "id": "medicine-hat-cities-v2",
+    "name_hu": "Medicine Hat"
+  },
+  {
+    "id": "grande-prairie-cities-v2",
+    "name_hu": "Grande Prairie"
+  },
+  {
+    "id": "moncton-cities-v2",
+    "name_hu": "Moncton"
+  },
+  {
+    "id": "saint-john-cities-v2",
+    "name_hu": "Saint John"
+  },
+  {
+    "id": "cape-breton-cities-v2",
+    "name_hu": "Sydney (Új-Skócia)"
+  },
+  {
+    "id": "barrie-cities-v2",
+    "name_hu": "Barrie"
+  },
+  {
+    "id": "oshawa-cities-v2",
+    "name_hu": "Oshawa"
+  },
+  {
+    "id": "guelph-cities-v2",
+    "name_hu": "Guelph"
+  },
+  {
+    "id": "kingston-cities-v2",
+    "name_hu": "Kingston"
+  },
+  {
+    "id": "kamloops-cities-v2",
+    "name_hu": "Kamloops"
+  },
+  {
+    "id": "nanaimo-cities-v2",
+    "name_hu": "Nanaimo"
+  },
+  {
+    "id": "prince-george-cities-v2",
+    "name_hu": "Prince George"
+  },
+  {
+    "id": "chilliwack-cities-v2",
+    "name_hu": "Chilliwack"
+  },
+  {
+    "id": "abbotsford-cities-v2",
+    "name_hu": "Abbotsford"
+  },
+  {
+    "id": "thunder-bay-cities-v2",
+    "name_hu": "Thunder Bay"
+  },
+  {
+    "id": "sudbury-cities-v2",
+    "name_hu": "Greater Sudbury"
+  },
+  {
+    "id": "brantford-cities-v2",
+    "name_hu": "Brantford"
+  },
+  {
+    "id": "peterborough-cities-v2",
+    "name_hu": "Peterborough"
+  },
+  {
+    "id": "sarnia-cities-v2",
+    "name_hu": "Sarnia"
+  },
+  {
+    "id": "niagara-falls-city-cities-v2",
+    "name_hu": "Niagara Falls (város)"
+  },
+  {
+    "id": "st-catharines-cities-v2",
+    "name_hu": "St. Catharines"
+  },
+  {
+    "id": "chatham-kent-cities-v2",
+    "name_hu": "Chatham-Kent"
+  },
+  {
+    "id": "new-westminster-cities-v2",
+    "name_hu": "New Westminster"
+  },
+  {
+    "id": "port-coquitlam-cities-v2",
+    "name_hu": "Port Coquitlam"
+  },
+  {
+    "id": "langley-cities-v2",
+    "name_hu": "Langley (város)"
+  },
+  {
+    "id": "white-rock-cities-v2",
+    "name_hu": "White Rock"
+  },
+  {
+    "id": "terrebonne-cities-v2",
+    "name_hu": "Terrebonne"
+  },
+  {
+    "id": "saint-jean-sur-richelieu-cities-v2",
+    "name_hu": "Saint-Jean-sur-Richelieu"
+  },
+  {
+    "id": "blainville-cities-v2",
+    "name_hu": "Blainville"
+  },
+  {
+    "id": "drummondville-cities-v2",
+    "name_hu": "Drummondville"
+  },
+  {
+    "id": "saint-hyacinthe-cities-v2",
+    "name_hu": "Saint-Hyacinthe"
+  },
+  {
+    "id": "mirabel-cities-v2",
+    "name_hu": "Mirabel"
+  },
+  {
+    "id": "granby-cities-v2",
+    "name_hu": "Granby"
+  },
+  {
+    "id": "moose-jaw-cities-v2",
+    "name_hu": "Moose Jaw"
+  },
+  {
+    "id": "prince-albert-cities-v2",
+    "name_hu": "Prince Albert"
+  },
+  {
+    "id": "brandon-cities-v2",
+    "name_hu": "Brandon"
+  },
+  {
+    "id": "north-bay-cities-v2",
+    "name_hu": "North Bay"
+  },
+  {
+    "id": "belleville-cities-v2",
+    "name_hu": "Belleville"
+  },
+  {
+    "id": "sault-ste-marie-cities-v2",
+    "name_hu": "Sault Ste. Marie"
+  },
+  {
+    "id": "kawartha-lakes-cities-v2",
+    "name_hu": "Kawartha Lakes"
+  },
+  {
+    "id": "airdrie-cities-v2",
+    "name_hu": "Airdrie"
+  },
+  {
+    "id": "wood-buffalo-fort-mcmurray-cities-v2",
+    "name_hu": "Fort McMurray"
+  },
+  {
+    "id": "st-johns-county-cities-v2",
+    "name_hu": "St. John's (agglomeráció)"
+  },
+  {
+    "id": "clarington-cities-v2",
+    "name_hu": "Clarington"
+  },
+  {
+    "id": "pickering-cities-v2",
+    "name_hu": "Pickering"
+  },
+  {
+    "id": "ajax-cities-v2",
+    "name_hu": "Ajax"
+  },
+  {
+    "id": "richmond-hill-cities-v2",
+    "name_hu": "Richmond Hill"
+  },
+  {
+    "id": "oakville-cities-v2",
+    "name_hu": "Oakville"
+  },
+  {
+    "id": "burlington-cities-v2",
+    "name_hu": "Burlington"
+  },
+  {
+    "id": "cambridge-cities-v2",
+    "name_hu": "Cambridge"
+  },
+  {
+    "id": "waterloo-cities-v2",
+    "name_hu": "Waterloo"
+  },
+  {
+    "id": "halton-hills-cities-v2",
+    "name_hu": "Halton Hills"
+  },
+  {
+    "id": "milton-cities-v2",
+    "name_hu": "Milton"
+  },
+  {
+    "id": "newmarket-cities-v2",
+    "name_hu": "Newmarket"
+  },
+  {
+    "id": "caledon-cities-v2",
+    "name_hu": "Caledon"
+  },
+  {
+    "id": "maple-ridge-cities-v2",
+    "name_hu": "Maple Ridge"
+  },
+  {
+    "id": "north-vancouver-cities-v2",
+    "name_hu": "North Vancouver (város)"
+  },
+  {
+    "id": "delta-cities-v2",
+    "name_hu": "Delta"
+  },
+  {
+    "id": "victoriaville-cities-v2",
+    "name_hu": "Victoriaville"
+  },
+  {
+    "id": "salaberry-de-valleyfield-cities-v2",
+    "name_hu": "Salaberry-de-Valleyfield"
+  },
+  {
+    "id": "saint-jerome-cities-v2",
+    "name_hu": "Saint-Jérôme"
+  },
+  {
+    "id": "shawinigan-cities-v2",
+    "name_hu": "Shawinigan"
+  },
+  {
+    "id": "rimouski-cities-v2",
+    "name_hu": "Rimouski"
+  },
+  {
+    "id": "swift-current-cities-v2",
+    "name_hu": "Swift Current"
+  },
+  {
+    "id": "yorkton-cities-v2",
+    "name_hu": "Yorkton"
+  },
+  {
+    "id": "north-battleford-cities-v2",
+    "name_hu": "North Battleford"
+  },
+  {
+    "id": "lloydminster-cities-v2",
+    "name_hu": "Lloydminster"
+  },
+  {
+    "id": "corner-brook-cities-v2",
+    "name_hu": "Corner Brook"
+  },
+  {
+    "id": "mount-pearl-cities-v2",
+    "name_hu": "Mount Pearl"
+  },
+  {
+    "id": "conception-bay-south-cities-v2",
+    "name_hu": "Conception Bay South"
+  },
+  {
+    "id": "truro-cities-v2",
+    "name_hu": "Truro"
+  },
+  {
+    "id": "new-glasgow-cities-v2",
+    "name_hu": "New Glasgow"
+  },
+  {
+    "id": "summerside-cities-v2",
+    "name_hu": "Summerside"
+  },
+  {
+    "id": "fort-york-toronto-history-v2",
+    "name_hu": "York erőd"
+  },
+  {
+    "id": "battle-of-batoche-history-v2",
+    "name_hu": "Batoche-i csata"
+  },
+  {
+    "id": "grosse-ile-irish-memorial-history-v2",
+    "name_hu": "Grosse Île és az Ír Emlékmű"
+  },
+  {
+    "id": "fort-henry-kingston-history-v2",
+    "name_hu": "Henry erőd (Kingston)"
+  },
+  {
+    "id": "klondike-gold-rush-history-v2",
+    "name_hu": "Klondike-i aranyláz"
+  },
+  {
+    "id": "writing-on-stone-park-history-v2",
+    "name_hu": "Writing-on-Stone tartományi park"
+  },
+  {
+    "id": "red-bay-basque-whaling-history-v2",
+    "name_hu": "Red Bay-i baszk bálnavadász-állomás"
+  },
+  {
+    "id": "pier-21-halifax-history-v2",
+    "name_hu": "Pier 21 (Halifax)"
+  },
+  {
+    "id": "fort-garry-winnipeg-history-v2",
+    "name_hu": "Garry erőd"
+  },
+  {
+    "id": "dundurn-castle-hamilton-history-v2",
+    "name_hu": "Dundurn-kastély"
+  },
+  {
+    "id": "fort-langley-history-v2",
+    "name_hu": "Langley erőd"
+  },
+  {
+    "id": "old-montreal-history-v2",
+    "name_hu": "Régi Montreal"
+  },
+  {
+    "id": "distillery-district-toronto-history-v2",
+    "name_hu": "Szeszfőzde negyed, Toronto"
+  },
+  {
+    "id": "sgang-gwaay-history-v2",
+    "name_hu": "SGang Gwaay"
+  },
+  {
+    "id": "battlefields-park-quebec-history-v2",
+    "name_hu": "Csataterek parkja"
+  },
+  {
+    "id": "casa-loma-toronto-history-v2",
+    "name_hu": "Casa Loma (történelem)"
+  },
+  {
+    "id": "craigdarroch-castle-victoria-history-v2",
+    "name_hu": "Craigdarroch-kastély"
+  },
+  {
+    "id": "royal-bc-museum-history-v2",
+    "name_hu": "Royal BC Múzeum"
+  },
+  {
+    "id": "glenbow-museum-calgary-history-v2",
+    "name_hu": "Glenbow Múzeum"
+  },
+  {
+    "id": "chateau-ramsay-montreal-history-v2",
+    "name_hu": "Ramezay-kastély"
+  },
+  {
+    "id": "fort-malden-amherstburg-history-v2",
+    "name_hu": "Malden erőd"
+  },
+  {
+    "id": "martello-towers-kingston-history-v2",
+    "name_hu": "Kingstoni Martello-tornyok"
+  },
+  {
+    "id": "galt-historic-railway-park-history-v2",
+    "name_hu": "Galt Történelmi Vasúti Park"
+  },
+  {
+    "id": "britannia-mine-museum-history-v2",
+    "name_hu": "Britannia Bányamúzeum"
+  },
+  {
+    "id": "bar-u-ranch-history-v2",
+    "name_hu": "Bar U Farm"
+  },
+  {
+    "id": "fisgard-lighthouse-history-v2",
+    "name_hu": "Fisgard világítótorony"
+  },
+  {
+    "id": "gulf-of-georgia-cannery-history-v2",
+    "name_hu": "Georgia-öböl Konzervgyár"
+  },
+  {
+    "id": "green-gables-pei-history-v2",
+    "name_hu": "Zöld Orom"
+  },
+  {
+    "id": "province-house-charlottetown-history-v2",
+    "name_hu": "Province House (Charlottetown)"
+  },
+  {
+    "id": "esterhazy-flour-mill-history-v2",
+    "name_hu": "Esterhazy lisztmalom"
+  },
+  {
+    "id": "syncrude-oilsands-economic-v2",
+    "name_hu": "Syncrude olajhomok"
+  },
+  {
+    "id": "suncor-fort-mcmurray-economic-v2",
+    "name_hu": "Suncor Fort McMurray"
+  },
+  {
+    "id": "sudbury-nickel-mines-economic-v2",
+    "name_hu": "Sudbury nikkelbányák"
+  },
+  {
+    "id": "potash-corp-saskatchewan-economic-v2",
+    "name_hu": "Saskatchewani káliműtrágya-bányászat"
+  },
+  {
+    "id": "gander-international-port-economic-v2",
+    "name_hu": "Gander logisztikai központ"
+  },
+  {
+    "id": "quebec-aluminum-smelter-economic-v2",
+    "name_hu": "Québeci alumíniumkohó"
+  },
+  {
+    "id": "saint-john-port-economic-v2",
+    "name_hu": "Saint John-i kikötő"
+  },
+  {
+    "id": "thunder-bay-port-economic-v2",
+    "name_hu": "Thunder Bay-i kikötő"
+  },
+  {
+    "id": "delta-port-economic-v2",
+    "name_hu": "Deltaport konténerterminál"
+  },
+  {
+    "id": "sept-iles-port-economic-v2",
+    "name_hu": "Sept-Îles-i kikötő"
+  },
+  {
+    "id": "kitimat-lng-economic-v2",
+    "name_hu": "Kitimat LNG üzem"
+  },
+  {
+    "id": "windsor-assembly-plant-economic-v2",
+    "name_hu": "Windsori autógyár"
+  },
+  {
+    "id": "saskatoon-uranium-mining-economic-v2",
+    "name_hu": "Saskatchewani uránbányászat"
+  },
+  {
+    "id": "winnipeg-logistics-hub-economic-v2",
+    "name_hu": "Winnipegi logisztikai csomópont"
+  },
+  {
+    "id": "burnaby-oil-refinery-economic-v2",
+    "name_hu": "Burnaby olajfinomító"
+  },
+  {
+    "id": "nanticoke-steel-plant-economic-v2",
+    "name_hu": "Nanticoke acélmű"
+  },
+  {
+    "id": "columbia-river-hydro-economic-v2",
+    "name_hu": "Columbia-folyó vízerőmű"
+  },
+  {
+    "id": "hamilton-port-economic-v2",
+    "name_hu": "Hamiltoni kikötő"
+  },
+  {
+    "id": "sarnia-petrochemical-economic-v2",
+    "name_hu": "Sarnia vegyipari park"
+  },
+  {
+    "id": "vancouver-grain-terminals-economic-v2",
+    "name_hu": "Vancouveri gabonaterminálok"
+  },
+  {
+    "id": "charlottetown-port-economic-v2",
+    "name_hu": "Charlottetowni kikötő"
+  },
+  {
+    "id": "oilsands-pipe-infrastructure-economic-v2",
+    "name_hu": "Olajhomok csővezeték-hálózat"
+  },
+  {
+    "id": "st-johns-port-economic-v2",
+    "name_hu": "St. John's-i kikötő"
+  },
+  {
+    "id": "guelph-manufacturing-hub-economic-v2",
+    "name_hu": "Guelphi ipari központ"
+  },
+  {
+    "id": "baffin-mining-project-economic-v2",
+    "name_hu": "Baffin-szigeti bányászati projekt"
+  },
+  {
+    "id": "fraser-valley-agriculture-logistics-economic-v2",
+    "name_hu": "Fraser-völgyi agrár-logisztika"
+  },
+  {
+    "id": "notre-dame-basilica-montreal-landmarks-v2",
+    "name_hu": "Notre-Dame bazilika (Montréal)"
+  },
+  {
+    "id": "saint-josephs-oratory-landmarks-v2",
+    "name_hu": "Szent József-oratórium"
+  },
+  {
+    "id": "confederation-bridge-landmarks-v2",
+    "name_hu": "Konföderáció-híd"
+  },
+  {
+    "id": "calgary-tower-landmarks-v2",
+    "name_hu": "Calgary Tower"
+  },
+  {
+    "id": "rogers-centre-landmarks-v2",
+    "name_hu": "Rogers Centre"
+  },
+  {
+    "id": "scotiabank-saddledome-landmarks-v2",
+    "name_hu": "Scotiabank Saddledome"
+  },
+  {
+    "id": "olympic-stadium-montreal-landmarks-v2",
+    "name_hu": "Olimpiai Stadion (Montréal)"
+  },
+  {
+    "id": "bc-place-stadium-landmarks-v2",
+    "name_hu": "BC Place Stadion"
+  },
+  {
+    "id": "habitat-67-landmarks-v2",
+    "name_hu": "Habitat 67"
+  },
+  {
+    "id": "national-gallery-of-canada-landmarks-v2",
+    "name_hu": "Kanadai Nemzeti Galéria"
+  },
+  {
+    "id": "royal-ontario-museum-landmarks-v2",
+    "name_hu": "Királyi Ontario Múzeum"
+  },
+  {
+    "id": "canadian-museum-for-human-rights-landmarks-v2",
+    "name_hu": "Kanadai Emberi Jogi Múzeum"
+  },
+  {
+    "id": "fairmont-le-chateau-frontenac-landmarks-v2",
+    "name_hu": "Fairmont Le Château Frontenac"
+  },
+  {
+    "id": "casa-loma-landmarks-v2",
+    "name_hu": "Casa Loma"
+  },
+  {
+    "id": "toronto-city-hall-landmarks-v2",
+    "name_hu": "Torontói városháza"
+  },
+  {
+    "id": "lions-gate-bridge-landmarks-v2",
+    "name_hu": "Lions Gate híd"
+  },
+  {
+    "id": "peace-tower-ottawa-landmarks-v2",
+    "name_hu": "Béke-torony (Ottawa)"
+  },
+  {
+    "id": "ontario-place-cinesphere-landmarks-v2",
+    "name_hu": "Ontario Place Cinesphere"
+  },
+  {
+    "id": "brockville-railway-tunnel-landmarks-v2",
+    "name_hu": "Brockville-i vasúti alagút"
+  },
+  {
+    "id": "toronto-sign-landmarks-v2",
+    "name_hu": "Toronto felirat"
+  },
+  {
+    "id": "calgary-peace-bridge-landmarks-v2",
+    "name_hu": "Béke-híd (Calgary)"
+  },
+  {
+    "id": "gooderham-building-landmarks-v2",
+    "name_hu": "Gooderham-épület"
+  },
+  {
+    "id": "hartland-covered-bridge-landmarks-v2",
+    "name_hu": "Hartlandi fedett híd"
+  },
+  {
+    "id": "macdonald-bridge-halifax-landmarks-v2",
+    "name_hu": "Angus L. Macdonald híd"
+  },
+  {
+    "id": "winnipeg-legislative-building-landmarks-v2",
+    "name_hu": "Manitoba Törvényhozási Épület"
+  },
+  {
+    "id": "saskatchewan-legislative-building-landmarks-v2",
+    "name_hu": "Saskatchewan Törvényhozási Épület"
+  },
+  {
+    "id": "edmonton-funicular-landmarks-v2",
+    "name_hu": "Edmontoni sikló"
+  },
+  {
+    "id": "prince-edward-viaduct-toronto-landmarks-v2",
+    "name_hu": "Prince Edward viadukt"
+  },
+  {
+    "id": "the-forks-winnipeg-landmarks-v2",
+    "name_hu": "The Forks (Winnipeg)"
+  },
+  {
+    "id": "toronto-zoo-life-v2",
+    "name_hu": "Torontói Állatkert"
+  },
+  {
+    "id": "calgary-zoo-life-v2",
+    "name_hu": "Calgary Állatkert"
+  },
+  {
+    "id": "granby-zoo-life-v2",
+    "name_hu": "Granby Állatkert"
+  },
+  {
+    "id": "vancouver-aquarium-life-v2",
+    "name_hu": "Vancouveri Akvárium"
+  },
+  {
+    "id": "ripleys-aquarium-canada-life-v2",
+    "name_hu": "Ripley's Akvárium, Kanada"
+  },
+  {
+    "id": "african-lion-safari-life-v2",
+    "name_hu": "Afrikai Oroszlán Szafari"
+  },
+  {
+    "id": "parc-omega-life-v2",
+    "name_hu": "Omega Park"
+  },
+  {
+    "id": "saskatoon-forestry-farm-park-zoo-life-v2",
+    "name_hu": "Saskatoon Erdészeti Farm Park és Állatkert"
+  },
+  {
+    "id": "assiniboine-park-zoo-life-v2",
+    "name_hu": "Assiniboine Park Állatkert"
+  },
+  {
+    "id": "edmonton-valley-zoo-life-v2",
+    "name_hu": "Edmonton Valley Állatkert"
+  },
+  {
+    "id": "magnetic-hill-zoo-life-v2",
+    "name_hu": "Magnetic Hill Állatkert"
+  },
+  {
+    "id": "pei-potato-farming-life-v2",
+    "name_hu": "PEI burgonyatermesztés"
+  },
+  {
+    "id": "niagara-icewine-life-v2",
+    "name_hu": "Niagara jégbor készítés"
+  },
+  {
+    "id": "prairie-canola-fields-life-v2",
+    "name_hu": "Préri repceföldek"
+  },
+  {
+    "id": "fraser-valley-blueberries-life-v2",
+    "name_hu": "Fraser-völgyi áfonya"
+  },
+  {
+    "id": "annapolis-valley-apples-life-v2",
+    "name_hu": "Annapolis-völgyi alma"
+  },
+  {
+    "id": "pacific-salmon-run-life-v2",
+    "name_hu": "Csendes-óceáni lazacvonulás"
+  },
+  {
+    "id": "gwaii-haanas-marine-life-v2",
+    "name_hu": "Gwaii Haanas tengeri élővilág"
+  },
+  {
+    "id": "churchill-beluga-whales-life-v2",
+    "name_hu": "Churchill-i belugák"
+  },
+  {
+    "id": "elk-island-bison-life-v2",
+    "name_hu": "Elk-szigeti Nemzeti Park bölényei"
+  },
+  {
+    "id": "point-pelee-bird-migration-life-v2",
+    "name_hu": "Point Pelee madárvonulás"
+  },
+  {
+    "id": "la-mauricie-black-bears-life-v2",
+    "name_hu": "La Mauricie feketemedvék"
+  },
+  {
+    "id": "calaway-park-life-v2",
+    "name_hu": "Calaway Park"
+  },
+  {
+    "id": "la-ronde-montreal-life-v2",
+    "name_hu": "La Ronde"
+  },
+  {
+    "id": "science-world-vancouver-life-v2",
+    "name_hu": "Tudományos Világ (Vancouver)"
+  },
+  {
+    "id": "ontario-science-centre-life-v2",
+    "name_hu": "Ontario Tudományos Központ"
+  },
+  {
+    "id": "saskatchewan-cranberry-life-v2",
+    "name_hu": "Saskatchewani tőzegáfonya-farmok"
+  },
+  {
+    "id": "gaspereau-valley-wines-life-v2",
+    "name_hu": "Gaspereau-völgyi borok"
+  },
+  {
+    "id": "southern-alberta-sugar-beets-life-v2",
+    "name_hu": "Dél-Albertai cukorrépa"
+  },
+  {
+    "id": "montreal-insectarium-life-v2",
+    "name_hu": "Montréali Rovartani Múzeum"
+  },
+  {
+    "id": "mount-assiniboine-nature-v2",
+    "name_hu": "Mount Assiniboine"
+  },
+  {
+    "id": "south-nahanni-river-nature-v2",
+    "name_hu": "South Nahanni-folyó"
+  },
+  {
+    "id": "great-slave-lake-nature-v2",
+    "name_hu": "Nagy-Rabszolga-tó"
+  },
+  {
+    "id": "haida-gwaii-islands-nature-v2",
+    "name_hu": "Haida Gwaii"
+  },
+  {
+    "id": "pacific-rim-national-park-forest-nature-v2",
+    "name_hu": "Pacific Rim Nemzeti Park erdő"
+  },
+  {
+    "id": "beaufort-sea-nature-v2",
+    "name_hu": "Beaufort-tenger"
+  },
+  {
+    "id": "mount-temple-nature-v2",
+    "name_hu": "Mount Temple"
+  },
+  {
+    "id": "athabasca-river-nature-v2",
+    "name_hu": "Athabasca-folyó"
+  },
+  {
+    "id": "lake-superior-nature-v2",
+    "name_hu": "Felső-tó"
+  },
+  {
+    "id": "magdalen-islands-nature-v2",
+    "name_hu": "Magdalen-szigetek"
+  },
+  {
+    "id": "boreal-forest-nature-v2",
+    "name_hu": "Kanadai boreális erdő"
+  },
+  {
+    "id": "hudson-bay-nature-v2",
+    "name_hu": "Hudson-öböl"
+  },
+  {
+    "id": "mount-waddington-nature-v2",
+    "name_hu": "Mount Waddington"
+  },
+  {
+    "id": "churchill-river-saskatchewan-nature-v2",
+    "name_hu": "Churchill-folyó (Saskatchewan)"
+  },
+  {
+    "id": "lake-winnipeg-nature-v2",
+    "name_hu": "Winnipeg-tó"
+  },
+  {
+    "id": "prince-edward-island-nature-v2",
+    "name_hu": "Prince Edward-sziget"
+  },
+  {
+    "id": "carmanah-walbran-provincial-park-forest-nature-v2",
+    "name_hu": "Carmanah Walbran Tartományi Park erdő"
+  },
+  {
+    "id": "mount-assiniboine-park-forest-nature-v2",
+    "name_hu": "Mount Assiniboine Park erdő"
+  },
+  {
+    "id": "gwaii-haanas-national-park-reserve-forest-nature-v2",
+    "name_hu": "Gwaii Haanas Nemzeti Park erdő"
+  },
+  {
+    "id": "mount-columbia-nature-v2",
+    "name_hu": "Mount Columbia"
+  },
+  {
+    "id": "peace-river-nature-v2",
+    "name_hu": "Peace-folyó"
+  },
+  {
+    "id": "lake-athabasca-nature-v2",
+    "name_hu": "Athabasca-tó"
+  },
+  {
+    "id": "cape-breton-island-nature-v2",
+    "name_hu": "Cape Breton-sziget"
+  },
+  {
+    "id": "manitoulin-island-nature-v2",
+    "name_hu": "Manitoulin-sziget"
+  },
+  {
+    "id": "yukon-river-nature-v2",
+    "name_hu": "Yukon-folyó"
+  },
+  {
+    "id": "mount-foraker-nature-v2",
+    "name_hu": "Mount St. Elias"
+  },
+  {
+    "id": "saint-john-river-nature-v2",
+    "name_hu": "Saint John-folyó"
+  },
+  {
+    "id": "malgne-lake-nature-v2",
+    "name_hu": "Maligne-tó"
+  },
+  {
+    "id": "bow-river-nature-v2",
+    "name_hu": "Bow-folyó"
+  },
+  {
+    "id": "thousand-islands-refill",
+    "name_hu": "Thousand Islands"
+  },
+  {
+    "id": "montreal-botanical-garden-refill",
+    "name_hu": "Montréali Botanikus Kert"
+  }
+]

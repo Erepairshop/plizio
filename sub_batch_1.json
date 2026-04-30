@@ -1,0 +1,42 @@
+[
+  {
+    "id": "poland",
+    "nameDe": "Polen"
+  },
+  {
+    "id": "PL-MZ",
+    "nameDe": "Masowien"
+  },
+  {
+    "id": "PL-MA",
+    "nameDe": "Kleinpolen"
+  },
+  {
+    "id": "PL-PM",
+    "nameDe": "Pommern"
+  },
+  {
+    "id": "PL-DS",
+    "nameDe": "Niederschlesien"
+  },
+  {
+    "id": "PL-WP",
+    "nameDe": "Großpolen"
+  },
+  {
+    "id": "PL-SL",
+    "nameDe": "Schlesien"
+  },
+  {
+    "id": "PL-LD",
+    "nameDe": "Lodz"
+  },
+  {
+    "id": "PL-LU",
+    "nameDe": "Lublin"
+  },
+  {
+    "id": "PL-WN",
+    "nameDe": "Ermland-Masuren"
+  }
+]

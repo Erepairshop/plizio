@@ -1,142 +1,62 @@
 [
   {
-    "id": "lake-kolon-to-extra",
-    "description_ro": "Lacul Kolon, situat lângă localitatea Izsák, este una dintre cele mai prețioase bijuterii ale Parcului Național Kiskunság. Deși poartă numele de lac, acesta este în realitate o zonă imensă și compactă de mlaștini și stufărișuri, formată în vechea albie a Dunării prin procese naturale de colmatare. Ca rezervație a biosferei UNESCO și sit Ramsar de importanță internațională, zona beneficiază de o protecție strictă. Este unul dintre cele mai mari stufărișuri continue din Europa, oferind adăpost rarului buhai de baltă, lopătarului și numeroaselor specii de egrete. La marginea mlaștinii se întind păduri de arini și pajiști umede unde înfloresc rarități botanice precum orhideea pânza-păianjenului. Vizitatorii pot explora această lume misterioasă prin turnurile de observare și traseul didactic Bikatorok, care dezvăluie frumusețea sălbatică a Câmpiei Ungare.",
-    "facts_ro": [
-      "Suprafața zonei protejate depășește 3000 de hectare, majoritatea fiind stufărișuri inaccesibile.",
-      "Aici se află una dintre cele mai importante colonii de stârci din Europa Centrală, cu sute de perechi cuibăritoare.",
-      "Pădurile de arini din albia lacului sunt martori vii ai perioadei de după ultima eră glaciară.",
-      "Observatorul de păsări din Izsák este un centru de inelare de renume internațional, activ de decenii.",
-      "În zonă au fost identificate 9 specii diferite de orhidee sălbatice, o valoare botanică excepțională.",
-      "Nivelul apei este reglat prin sisteme de canale pentru a menține caracterul de mlaștină al zonei.",
-      "De pe duna de nisip Bikatorok se deschide o panoramă uluitoare asupra întregului bazin lacustru.",
-      "În mlaștini trăiește țiparul de mlaștină, o specie de pește indigenă și protejată în Ungaria."
-    ]
+    "id": "PL-LB",
+    "nameDe": "Lebus"
   },
   {
-    "id": "forest-bugaci-puszta-extra",
-    "description_ro": "Bugac este unul dintre cele mai cunoscute simboluri ale pustei maghiare, fiind cea mai mare și spectaculoasă zonă a Parcului Național Kiskunság. Acest peisaj este un muzeu viu al vieții pastorale străvechi, unde dunele de nisip nesfârșite, pădurile de ienupăr și plop și pajiștile alcaline creează o atmosferă unică. Bugac își datorează faima în special creșterii tradiționale a animalelor și spectacolelor ecvestre impresionante; măiestria „csikós”-ilor (vătafi de cai) și imaginea hergheliilor în galop fac parte din identitatea națională maghiară. Pe pășuni pot fi văzute vitele sure maghiare cu coarne imense, oile racka cu coarne răsucite și porcii mangalița. Muzeul Păstoritului conservă amintirile arhitecturii de pustă, prezentând uneltele și viața de zi cu zi a păstorilor care dormeau sub cerul liber.",
-    "facts_ro": [
-      "Bugac se întinde pe mai mult de 11 mii de hectare și face parte din parcul național din 1975.",
-      "Pădurea de ienupăr din Bugac este una dintre cele mai frumoase și vechi asociații forestiere naturale din Câmpia Ungară.",
-      "Aici trăiește una dintre cele mai mari cirezi de vite sure maghiare, o comoară genetică a țării.",
-      "Muzeul Păstoritului este o clădire circulară specială care evocă colibele de păstori acoperite cu stuf.",
-      "În zonă se află situl arheologic al Mănăstirii de Aur, care ascunde ruinele unui oraș mănăstiresc medieval.",
-      "La întâlnirea tribală Kurultáj sosesc periodic reprezentanți din peste 20 de țări pentru a celebra rădăcinile nomade.",
-      "O bijuterie a florei de pustă este stânjenelul de nisip, care decorează dunele în perioada primăverii.",
-      "Traseele didactice amenajate, precum „Árvalányhaj”, prezintă mișcarea dunelor de nisip și vegetația specifică."
-    ]
+    "id": "PL-OP",
+    "nameDe": "Oppeln"
   },
   {
-    "id": "river-csatorna-duna-tisza-extra",
-    "description_ro": "Canalul Dunăre-Tisa reprezintă una dintre cele mai ambițioase, dar până în prezent neterminate întreprinderi din istoria hidrologiei maghiare. Scopul proiectului a fost conectarea navigabilă a celor mai mari două fluvii ale țării, idee care i-a preocupat pe ingineri și politicieni încă din secolul al XVIII-lea. Deși întreaga secțiune nu a fost niciodată finalizată, porțiunile de canal construite joacă astăzi un rol vital în managementul apei din Câmpia Ungară. Acestea furnizează apă pentru irigații în zona aridă dintre fluvii și ajută la drenarea excesului de apă, influențând direct producția agricolă. Malurile canalului s-au integrat în peisaj, oferind habitate bogate pentru pești și păsări acvatice. Este o locație extrem de populară printre pescari datorită mediului liniștit și stocurilor abundente de pește.",
-    "facts_ro": [
-      "Primul plan serios pentru canal a fost realizat în 1715, cu scopul de a scurta rutele comerciale.",
-      "O parte din albia actuală a fost construită în anii 1940, dar lucrările s-au oprit din cauza războiului.",
-      "Canalul se ramifică din Dunăre la Dunaharaszti și ar trebui să continue în direcția râului Tisa.",
-      "În prezent funcționează în principal ca rezervor de apă și canal de irigații în regiunea dintre Dunăre și Tisa.",
-      "Calitatea apei este excelentă, astfel că se găsesc aici numeroase specii de pești protejați, inclusiv țiparul de mlaștină.",
-      "Pădurile de galerie formate de-a lungul malurilor constituie un coridor ecologic important pentru animalele sălbatice.",
-      "Ecluzele și stațiile de pompare de-a lungul canalului sunt capodopere ale ingineriei hidrotehnice maghiare.",
-      "În prezent, finalizarea canalului este din nou pe agenda publică pentru protejarea regiunii împotriva secetei."
-    ]
+    "id": "warsaw",
+    "nameDe": "Warschau"
   },
   {
-    "id": "river-sebes-koros-extra",
-    "description_ro": "Crișul Repede (Sebes-Körös) este cel mai rapid curs de apă din Câmpia Ungară, numele său provenind de la panta semnificativă și curentul puternic în raport cu condițiile de câmpie. Râul vine din Transilvania, din Munții Bihorului, și aduce ape curate și oxigenate în peisajul maghiar. Această caracteristică permite supraviețuirea în albia sa a unor specii de pești de munte, precum cleanul sau mreana, care sunt rare în râurile mai lente de câmpie. Secțiunea maghiară traversează județul Békés, atingând orașe precum Körösladány și Gyomaendrőd. Pe malurile râului se găsesc numeroase bancuri de nisip și pietriș, care sunt locuri populare de scăldat în căldura verii. Valea Crișului Repede este o zonă naturală protejată, parte a Parcului Național Criș-Mureș, fiind o destinație preferată pentru canotiști și pescari.",
-    "facts_ro": [
-      "Lungimea totală a râului este de 209 kilometri, din care secțiunea maghiară reprezintă 58,6 kilometri.",
-      "Albia Crișului Repede este pietroasă, un fenomen unic printre râurile mâloase din Câmpia Ungară.",
-      "Căderea râului este de 15–20 centimetri pe kilometru, de câteva ori mai mare decât cea a Tisei sau a Dunării.",
-      "Apa este atât de curată încât în unele locuri pot fi găsiți chiar și raci de râu, foarte sensibili la poluare.",
-      "În zona localităților Szarvas și Gyomaendrőd, apele râului alimentează mai multe canale de irigații.",
-      "În sălciile de pe mal cuibăresc păsări rare precum pescărușul albastru și prigorile.",
-      "Pe secțiunile superioare ale râului, în trecut, căutătorii de aur au încercat să spele aur din aluviuni.",
-      "La Körösladány a fost construit unul dintre cele mai moderne baraje din țară pe acest râu."
-    ]
+    "id": "krakow",
+    "nameDe": "Krakau"
   },
   {
-    "id": "lake-biharugrai-tavak-extra",
-    "description_ro": "Iazurile de la Biharugra constituie al doilea cel mai mare sistem de iazuri piscicole artificiale din Ungaria, situat de-a lungul graniței cu România. Suprafața de apă de peste 1900 de hectare a fost creată inițial pentru piscicultură la începutul secolului al XX-lea, însă astăzi a devenit o zonă de protecție a păsărilor de importanță internațională. Iazurile fac parte din Parcul Național Criș-Mureș și reprezintă o etapă crucială pe ruta europeană de migrație a păsărilor: toamna și primăvara, zeci de mii de cocori, gâște sălbatice și egrete se odihnesc aici. Liniștea stufărișurilor și a zonelor umede este accesibilă iubitorilor de natură prin observatoare și trasee didactice, permițând observarea vieții sălbatice fără a deranja animalele. Numele localității Biharugra este strâns legat de conservarea naturii și de piscicultura tradițională.",
-    "facts_ro": [
-      "Sistemul este format din 19 iazuri de dimensiuni diferite, cu o suprafață totală de 1900 de hectare.",
-      "Zona este o zonă umedă protejată prin Convenția Ramsar datorită importanței sale ecologice.",
-      "Aici cuibărește cea mai mare populație de egretă mare și lopătar din Ungaria.",
-      "Albia iazurilor a fost amenajată după desecarea vechilor mlaștini din regiunea Kis-Sárrét.",
-      "În perioadele de migrație, pe suprafața iazurilor pot fi prezente simultan până la 40.000 de gâște sălbatice.",
-      "În cadrul pisciculturii se crește în principal faimosul crap de Biharugra.",
-      "Din turnurile de observare și punctele de pândă se poate urmări neperturbat viața animalelor.",
-      "În satul Biharugra poate fi vizitată casa memorială a scriitorului Szabó Pál, care a descris frumusețea locului."
-    ]
+    "id": "wroclaw",
+    "nameDe": "Breslau"
   },
   {
-    "id": "forest-malyvadi-erdo-extra",
-    "description_ro": "Pădurea Mályvád este a doua cea mai mare zonă forestieră compactă din Câmpia Ungară, situată lângă localitățile Gyula și Sarkad, de-a lungul graniței cu România. Această pădure de aproximativ 3000 de hectare este ultima rămășiță a pădurilor de stejar de luncă ce înconjurau odinioară uriașul sistem de mlaștini Sárrét. Este compusă în principal din stejari pedunculati și frasini maghiari, printre care se ascund uriași monumentali de sute de ani. Pădurea este renumită pentru vânatul său bogat, în special pentru populația de cerbi lopătari de renume mondial. Zona face parte din Parcul Național Criș-Mureș, iar în zonele sale centrale strict protejate înfloresc plante rare, precum scila transilvăneană. Pădurea Mályvád este un regat al liniștii unde aerul rămâne răcoros chiar și în cea mai mare arșiță a verii.",
-    "facts_ro": [
-      "Suprafața totală a pădurii depășește 3000 de hectare, fiind cea mai semnificativă pădure de câmpie după cele din Baranya.",
-      "Aici trăiește una dintre cele mai puternice și sănătoase populații de cerbi lopătari din Ungaria.",
-      "Cea mai mare parte a pădurii este strict protejată, fiind administrată de Parcul Național Criș-Mureș.",
-      "Printre speciile de arbori dominante se numără stejarul pedunculat, frasinul maghiar și ulmul de câmp.",
-      "Primăvara, solul pădurii este acoperit de un covor albastru de scila transilvăneană.",
-      "Așa-numitul „Lac Negru” din interiorul pădurii este restul unei albii străvechi de râu, astăzi colmatată.",
-      "Istoric, pădurea a fost un loc important de refugiu pentru haiduci și în timpul luptelor pentru libertate.",
-      "În zonă este interzis traficul auto, astfel că poate fi explorată doar pe jos sau cu bicicleta."
-    ]
+    "id": "gdansk",
+    "nameDe": "Danzig"
   },
   {
-    "id": "river-kettos-koros-extra",
-    "description_ro": "Crișul Dublu (Kettős-Körös) este râul definitoriu al județului Békés, format la Szanazug prin confluența Crișului Alb și a Crișului Negru. Numele său provine tocmai de la această dualitate și șerpuiește pe o distanță de aproximativ 37 de kilometri înainte de a se întâlni cu Crișul Repede la Gyomaendrőd pentru a forma Crișul Triplu. Valea râului este însoțită de diguri înalte de protecție, pe vârful cărora se află o pistă de biciclete de calitate excelentă. Malurile sunt mărginite de păduri de luncă bogate, unde sălciile și plopii se apleacă deasupra apei. Este un centru al turismului nautic, cursul lent al râului făcându-l ideal pentru kaiac, canoe și bărci dragon. Orașul Békés, situat de-a lungul râului, dispune de un port modern pentru ambarcațiuni mici.",
-    "facts_ro": [
-      "Crișul Dublu începe la Szanazug, unde temperatura și culoarea celor două brațe diferă adesea vizibil.",
-      "Lungimea totală a râului este de doar 37,3 kilometri, dar debitul său este semnificativ.",
-      "Lângă orașul Békés se află unul dintre cele mai importante baraje pentru controlul apei pe acest râu.",
-      "Albia râului are o lățime medie de 40-50 de metri și o adâncime cuprinsă între 2 și 4 metri.",
-      "Zonele de agrement precum Szanazug sau Dánfok sunt locuri de vacanță estivale foarte populare.",
-      "Apa râului alimentează sistemul extins de canale și instalațiile de irigații din împrejurimi.",
-      "Digul Crișului Dublu face parte din rețeaua internațională de piste de biciclete EuroVelo.",
-      "În albie au fost descoperite în mai multe locuri rămășițe ale unor nave medievale scufundate."
-    ]
+    "id": "poznan",
+    "nameDe": "Posen"
   },
   {
-    "id": "river-sajo-extra",
-    "description_ro": "Râul Șieu (Sajó) este unul dintre cele mai importante cursuri de apă din nordul Ungariei, izvorând în Munții Tatra Mică din Slovacia și vărsându-se în Tisa după aproximativ 230 de kilometri, lângă Tiszaújváros. Istoric, valea râului a fost determinantă pentru dezvoltarea industrială a orașului Miskolc, deoarece forța apei a atras instalarea topitoriilor de fier. De-a lungul albiei râului pot fi admirate peisaje variate: secțiunea nordică are un caracter montan, în timp ce spre sud șerpuiește prin pajiști largi de luncă. Deși în trecut a fost supus unei sarcini industriale semnificative, odată cu îmbunătățirea calității apei au revenit și peștii sensibili, precum mreana. Valea râului Șieu este de asemenea o axă importantă de transport și comunicații.",
-    "facts_ro": [
-      "Din lungimea totală a râului Sajó, 125 de kilometri se află pe teritoriul Ungariei.",
-      "Cel mai mare afluent al său este râul Hernád, cu care se unește la sud de Miskolc.",
-      "Prin valea râului trece ruta importantă de transport care leagă Miskolc de orașul Košice.",
-      "De-a lungul râului se extrag în mai multe locuri pietriș și nisip pentru industria construcțiilor.",
-      "În perioadele de inundații, nivelul râului poate crește cu 4-5 metri într-un interval scurt de timp.",
-      "Înainte de regularizare, confluența râurilor Sajó și Hernád forma o zonă mlăștinoasă vastă.",
-      "În apele sale trăiesc populații de specii protejate precum fusarul maghiar și fusarul german.",
-      "În orașul Miskolc, pe malurile râului pot fi văzute numeroase monumente de istorie industrială și mori."
-    ]
+    "id": "szczecin",
+    "nameDe": "Stettin"
   },
   {
-    "id": "river-hernad-extra",
-    "description_ro": "Râul Hernád este unul dintre cele mai sălbatice și pitorești cursuri de apă din Ungaria, atrăgând iubitorii de natură prin pereții săi abrupți de loess, care ating pe alocuri înălțimi de 15 metri. Acești pereți oferă locuri ideale de cuibărit pentru păsări rare, precum pescărușul albastru sau prigoria. Albia râului este plină de praguri, bancuri de nisip și meandre, ceea ce îl face o destinație preferată pentru canotiștii experimentați. Valea râului este bogată și în amintiri istorice: aici se află locul de origine al faimoasei Biblii de la Vizsoly. Hernád nu este doar un curs de apă, ci un coridor viu care conectează peisajul montan cu zona de câmpie, oferind o biodiversitate remarcabilă de-a lungul întregului său parcurs maghiar.",
-    "facts_ro": [
-      "Lungimea totală a râului Hernád este de 286 km, dintre care 118 km parcurg teritoriul Ungariei.",
-      "În pereții de loess de-a lungul râului cuibărește una dintre cele mai mari colonii de prigorii din țară.",
-      "La Gibárt a fost construită în 1903 una dintre primele hidrocentrale industriale monument din țară.",
-      "Datorită apei sale curate și rapide, este o destinație populară pentru pescari, în special pentru clean.",
-      "Albia se schimbă constant, fiecare inundație construind și distrugând noi bancuri de pietriș.",
-      "În Vizsoly, aproape de râu, a fost tipărită prima Biblie completă în limba maghiară în anul 1590.",
-      "În pădurile de luncă înfloresc specii rare de orhidee și laleaua pestriță de mlaștină.",
-      "Valea Hernád este un coridor ecologic vital pentru animalele sălbatice care coboară din Carpați."
-    ]
+    "id": "lodz-city",
+    "nameDe": "Lodz"
   },
   {
-    "id": "lake-lazberci-viztarozo-extra",
-    "description_ro": "Rezervorul Lázbérc este unul dintre cele mai frumoase lacuri artificiale din Ungaria, situat la întâlnirea Munților Bükk cu Munții Uppony. Creat în anii 1960 pentru a asigura alimentarea cu apă potabilă a regiunii, lacul și împrejurimile sale beneficiază de o protecție specială: scăldatul și sporturile nautice sunt interzise. Această restricție garantează puritatea apei și liniștea neperturbată a zonei. Versanții muntoși împăduriți care înconjoară lacul și pereții stâncoși ai defileului Uppony oferă un peisaj uluitor. Drumul care șerpuiește pe malul rezervorului este extrem de popular printre bicicliști, oferind o evadare în natură unde calitatea aerului și frumusețea peisajului sunt la standarde înalte.",
-    "facts_ro": [
-      "Suprafața rezervorului este de 77 de hectare și are o capacitate de stocare de 6 milioane de metri cubi de apă.",
-      "Barajul care închide lacul este o structură de beton de 20 de metri înălțime și 250 de metri lungime.",
-      "Apa lacului asigură o parte semnificativă din necesarul de apă potabilă pentru orașele Kazincbarcika și Ózd.",
-      "Stâncile defileului Uppony sunt formate din cele mai vechi roci din Ungaria, datând din perioada devoniană.",
-      "Zona este declarată arie peisagistică protejată din 1975, având o floră și faună extrem de bogată.",
-      "Pescuitul este permis în lac, dar numai sub reguli de protecție a mediului foarte stricte.",
-      "Aleile de pe mal sunt ideale pentru relaxare silențioasă și contemplarea naturii.",
-      "Iarna, imaginea lacului înghețat înconjurat de vârfurile montane înzăpezite oferă o experiență specială."
-    ]
+    "id": "lublin-city",
+    "nameDe": "Lublin"
+  },
+  {
+    "id": "katowice",
+    "nameDe": "Kattowitz"
+  },
+  {
+    "id": "bialystok",
+    "nameDe": "Białystok"
+  },
+  {
+    "id": "torun",
+    "nameDe": "Thorn"
+  },
+  {
+    "id": "czestochowa",
+    "nameDe": "Tschenstochau"
+  },
+  {
+    "id": "gdynia",
+    "nameDe": "Gdingen"
   }
 ]

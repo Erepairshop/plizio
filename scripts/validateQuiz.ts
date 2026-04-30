@@ -48,7 +48,7 @@ function collectAllPoiFiles() {
   return files.map((f) => join(dataDir, f));
 }
 
-function parsePois(filePath) {
+function parsePois(filePath: string) {
   const src = readFileSync(filePath, "utf8");
   const pois = [];
   // Match each POI entry: { id: "...", type: "...", parent: "...", coords: [lon, lat], ... }
@@ -75,9 +75,9 @@ function parsePois(filePath) {
 
 // ── Helpers ────────────────────────────────────────────────────────
 
-function haversineKm(a, b) {
+function haversineKm(a: [number, number], b: [number, number]) {
   const R = 6371;
-  const toRad = (d) => (d * Math.PI) / 180;
+  const toRad = (d: number) => (d * Math.PI) / 180;
   const [lon1, lat1] = a;
   const [lon2, lat2] = b;
   const dLat = toRad(lat2 - lat1);
@@ -86,7 +86,7 @@ function haversineKm(a, b) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
-function isOrdered(values, dir) {
+function isOrdered(values: number[], dir: "asc" | "desc") {
   for (let i = 1; i < values.length; i++) {
     if (dir === "asc" && values[i] < values[i - 1]) return false;
     if (dir === "desc" && values[i] > values[i - 1]) return false;
@@ -98,13 +98,13 @@ function isOrdered(values, dir) {
 
 async function loadQuizTasks() {
   const dataDir = join(repoRoot, "lib/visualLab/quiz/data");
-  const topFiles = readdirSync(dataDir).filter((f) => f.endsWith("Quiz.ts")).map((f) => join(dataDir, f));
+  const topFiles = readdirSync(dataDir).filter((f: string) => f.endsWith("Quiz.ts")).map((f: string) => join(dataDir, f));
   // Includes country-subdirs (e.g. data/de/byQuiz.ts) for Bundesland-szintu kvizek
   const subdirs = readdirSync(dataDir, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
   const subFiles: string[] = [];
   for (const sd of subdirs) {
     const subDir = join(dataDir, sd);
-    for (const f of readdirSync(subDir).filter((f) => f.endsWith("Quiz.ts"))) {
+    for (const f of readdirSync(subDir).filter((f: string) => f.endsWith("Quiz.ts"))) {
       subFiles.push(join(subDir, f));
     }
   }
@@ -122,7 +122,8 @@ async function loadQuizTasks() {
         }
       }
     } catch (e) {
-      console.error(`[validateQuiz] Could not import ${f}: ${e.message}`);
+      const msg = e instanceof Error ? e.message : String(e);
+      console.error(`[validateQuiz] Could not import ${f}: ${msg}`);
     }
   }
   return results;
@@ -160,7 +161,7 @@ async function main() {
 
     // 2) Type-specific logic
     const t = parsed.data;
-    const resolvePoi = (id) => allPois.get(id);
+      const resolvePoi = (id: string) => allPois.get(id);
 
     if (t.type === "click_poi") {
       if (!t.targetPoiId) errors.push(`[${loc}] click_poi: missing targetPoiId`);

@@ -1,5 +1,6 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraHaitiLandmarksV2 } from "./poiExtraHaitiLandmarksV2";
 
 export const haitiCountry: POI[] = [];
 export const haitiRegions: POI[] = [];
@@ -969,7 +970,8 @@ export const haitiLandmarks: POI[] = [
       ro: ["Aici se află faimoasa statuie 'Le Marron Inconnu' (Sclavul necunoscut)", "Piața a servit drept tabără uriașă de corturi pentru persoanele rămase fără adăpost după cutremurul din 2010", "Este epicentrul Carnavalului Național anual"],
       en: ["The plaza is home to 'Le Marron Inconnu,' the definitive statue representing Haitian freedom", "Following the 2010 quake, it briefly became the world's most famous internally displaced persons camp", "The square's name, meaning 'Field of Mars,' reflects its history as a military parade ground"]
     }
-  }
+  },
+  ...poiExtraHaitiLandmarksV2
 ];
 
 export const haitiAllPoi: POI[] = [...haitiCountry, ...haitiRegions, ...haitiCities, ...haitiLandmarks];

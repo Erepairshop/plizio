@@ -3971,16 +3971,6 @@ export const hungaryCities: POI[] = [
     facts: {"de": ["Wird aufgrund der vielen Sonnenstunden 'See der Sonne' genannt.", "Beliebt bei Seglern und Surfern."], "hu": ["A magas napsütéses órák száma miatt a 'Napfény tavának' is hívják.", "Népszerű a vitorlázók és szörfözők körében."], "ro": ["Numit 'Lacul Soarelui' datorită numărului mare de ore de soare.", "Popular printre navigatori și surferi."], "en": ["Called the 'Lake of Sunshine' due to the high number of sunny hours.", "Popular among sailors and surfers."]}
   },
   {
-    id: "szalajka-volgy",
-    type: "landmark",
-    parent: "HU-HE",
-    coords: [20.39, 48.10],
-    name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
-    image: "/geo-images/hungary/szalajka-volgy.webp",
-    description: {"de": "Ein malerisches Tal im Bükk-Gebirge, berühmt für seinen Wasserfall.", "hu": "Festői völgy a Bükkben, híres a Fátyol-vízesésről.", "ro": "O vale pitorească în Munții Bükk, faimoasă pentru cascada sa.", "en": "A picturesque valley in the Bükk Mountains, famous for its waterfall."},
-    facts: {"de": ["Besitzt eine historische Waldbahn.", "Bekannt für den Fátyol-Wasserfall."], "hu": ["Történelmi erdei kisvasúttal rendelkezik.", "Híres a Fátyol-vízesésről."], "ro": ["Are o cale ferată forestieră istorică.", "Cunoscut pentru cascada Fátyol."], "en": ["Has a historic forest railway.", "Known for the Fátyol Waterfall."]}
-  },
-  {
     id: "borzsony",
     type: "mountain",
     parent: "HU-PE",

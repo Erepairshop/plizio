@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[lang]\u002F[country]","\u002F[lang]\u002F[country]\u002F[state]","\u002F[lang]\u002F[country]\u002F[state]\u002F[poi]","\u002Fastro-ai\u002F[grade]","\u002Ffeed\u002F[lang]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

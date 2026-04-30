@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/0-q3r9x27pl~8.css","style"]
-:HL["/_next/static/chunks/0pqtds4r_7hz-.css","style"]
+:HL["/_next/static/chunks/0bgp7pmz.txh7.css","style"]
 :HL["/_next/static/media/a85fe84266768609-s.p.05b418i5bs~lg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/apple-touch-icon.png","image"]
 :HL["/favicon-32x32.png","image"]
 :HL["/favicon-16x16.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"hu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"country","param":{"type":"d","key":"finnorszag","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"state","param":{"type":"d","key":"fi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"poi","param":{"type":"d","key":"oulujoki","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"gOq8sUUFg8ujwcuVvXnQh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"hu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"country","param":{"type":"d","key":"finnorszag","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"state","param":{"type":"d","key":"fi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"poi","param":{"type":"d","key":"oulujoki","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"ybNuX3lpb0bGSyZhDkuAy"}

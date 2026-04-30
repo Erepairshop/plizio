@@ -14,6 +14,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Struga este un oraș pe malul lacului Ohrid, cunoscut pentru râul Drinul Negru.",
       en: "Struga is a city on the shores of Lake Ohrid, known for the Black Drin river."
     },
+    descriptionAdvanced: {
+      de: "Struga liegt idyllisch am Abfluss des Ohridsees in den Fluss Schwarzer Drim. Die Stadt ist bekannt für ihre kulturelle Bedeutung und die alljährliche Dichterlesung, die internationale Schriftsteller anzieht. Die entspannte Atmosphäre wird durch die zahlreichen Cafés am Flussufer geprägt. Sachkunde K5 — Wasserwege und Städte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Dichterabende von Struga wurden 1961 ins Leben gerufen.",
+        "Der Schwarze Drim ist einer der wenigen Flüsse, die direkt aus einem See entspringen.",
+        "Struga wird oft die 'Stadt der Poesie' genannt.",
+        "Die Stadt liegt etwa 700 Meter über dem Meeresspiegel.",
+        "In der Nähe befinden sich bedeutende archäologische Stätten.",
+        "Die Architektur zeigt Einflüsse aus der osmanischen Zeit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Berühmt für die 'Abende der Poesie von Struga'.", "Der Fluss Schwarzer Drim entspringt hier dem Ohridsee.", "Wurde in der Antike 'Enchalon' genannt."],
       hu: ["Híres a 'Sztrugai Költészeti Estek' eseményről.", "Itt folyik ki a Fekete-Drim az Ohridi-tóból.", "Az ókorban 'Enchalon' néven ismerték."],
@@ -383,6 +402,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Észak-Macedónia legmagasabb vízesése, 39,5 méteres magassággal.",
       ro: "Cea mai înaltă cascadă din Macedonia de Nord, cu o cădere de 39,5 metri.",
       en: "The highest waterfall in North Macedonia, with a fall of 39.5 meters."
+    },
+    descriptionAdvanced: {
+      de: "Der Smolare-Wasserfall ist eine der spektakulärsten Naturschönheiten des Landes. Er verbirgt sich tief in den Wäldern des Belasica-Gebirges und ist über eine aufwendige Treppenanlage zugänglich, die Besucher direkt an die Basis führt. Er beeindruckt durch seine Kraft und Höhe. Erdkunde K5 — Naturdenkmäler.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Anlage ist als touristisches Ziel sehr gut erschlossen.",
+        "Der Weg bietet großartige Ausblicke auf die Umgebung.",
+        "Das Wasser ist von hoher Reinheit.",
+        "Der Wasserfall ist ein Symbol des Naturerbes in der Region.",
+        "Es ist ein wichtiges Ziel für umweltbewussten Tourismus.",
+        "Die Umgebung ist reich an seltenen Pflanzen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Liegt tief im Belasica-Gebirge.", "Erreichbar über eine hölzerne Treppenanlage.", "Ganzjährig wasserführend."],

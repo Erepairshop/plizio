@@ -2,7 +2,7 @@
 // AstroMagyar — Hungarian language curriculum
 // 1. osztály (Grade 1): Betűk, szótagok, hangok, szavak, ellentétek, mondatok, szókincs
 
-import type { CurriculumQuestion, CurriculumTyping } from "./curriculumTypes";
+import type { CurriculumQuestion } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
 import { G2_Generators_Hungarian } from "./hungarianGenerators2";
 import { G3_Generators_Hungarian } from "./hungarianGenerators3";
@@ -80,7 +80,7 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
   }
 
   // Select generator pool by grade
-  let generatorPool: Record<string, () => MagyarMCQ[] | CurriculumTyping[]>;
+  let generatorPool: Record<string, () => CurriculumQuestion[]>;
   switch (osztaly) {
     case 2:
       generatorPool = G2_Generators_Hungarian;
@@ -107,7 +107,7 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
       generatorPool = G1_Generators_Hungarian;
   }
 
-  const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[] | CurriculumTyping[]>)[subtopicId];
+  const generatorFn = generatorPool[subtopicId];
 
   if (!generatorFn) {
     console.warn(`[MagyarCurriculum] No generator found for subtopic: ${subtopicId} (grade ${osztaly})`);
