@@ -1,6 +1,6 @@
 import { POI } from "./poi";
 
-const spainCitiesExtra: POI[] = [
+export const spainCitiesExtra: POI[] = [
   {
     id: "ES-MAD",
     type: "city",

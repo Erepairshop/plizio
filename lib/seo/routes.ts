@@ -218,11 +218,12 @@ export function poiDescription(poi: POI, lang: Lang) {
 export function stateDescription(stateId: string, lang: Lang) {
   const state = regions.find((entry) => entry.id === stateId);
   const countryId = getCountryId(stateId);
-  return truncateDescription(localizedValue(state?.description, lang) || COUNTRY_COPY[countryId][lang].description);
+  const countryCopy = COUNTRY_COPY[countryId]?.[lang];
+  return truncateDescription(localizedValue(state?.description, lang) || countryCopy?.description || "");
 }
 
 export function countryMetadata(lang: Lang, countryId: string = "germany"): Metadata {
-  const copy = COUNTRY_COPY[countryId][lang];
+  const copy = COUNTRY_COPY[countryId]?.[lang] || COUNTRY_COPY.germany[lang];
   let imageUrl = "/geo-images/germany-full.jpg";
   if (countryId === "romania") imageUrl = "/geo-images/romania/RO.webp";
   else if (countryId === "hungary") imageUrl = "/geo-images/hungary/HU.webp";
