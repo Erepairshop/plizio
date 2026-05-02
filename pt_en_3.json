@@ -1,0 +1,182 @@
+[
+  {
+    "id": "land-university-coimbra",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The University of Coimbra is the oldest university in Portugal and one of the oldest in continuous operation in the world. Founded in 1290, it moved permanently to Coimbra in 1537, where it occupied a former royal palace. The university's historic campus is a UNESCO World Heritage site, famous for its magnificent Joanina Library, an opulent Baroque masterpiece that houses thousands of ancient books. The university is deeply intertwined with the city's identity, from the traditional black capes worn by students to the soulful Coimbra Fado sung in its medieval streets.",
+    "en_facts": ["The Joanina Library houses a colony of bats that protect the ancient books by eating insects at night.", "The university's traditional student capes inspired J.K. Rowling's Hogwarts uniforms.", "The iconic clock tower is affectionately nicknamed 'A Cabra' (The Goat) by students.", "It originally started in Lisbon before moving permanently to Coimbra."]
+  },
+  {
+    "id": "land-sao-bento-station",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "São Bento Railway Station in Porto is renowned globally for its stunning interior, entirely adorned with intricate blue and white azulejo tiles. Built in the early 20th century on the site of a former Benedictine monastery, the station's French Beaux-Arts architecture is visually striking. The main hall features over 20,000 tiles painted by Jorge Colaço, depicting key moments from Portuguese history and traditional rural scenes. It remains a fully operational transit hub, seamlessly blending everyday functionality with breathtaking historical art.",
+    "en_facts": ["The 20,000 azulejo tiles took Jorge Colaço more than a decade to paint.", "The station is built precisely on the ruins of the Convent of São Bento da Avé-Maria.", "The tile panels illustrate significant battles like the Conquest of Ceuta in 1415.", "It is a central node for local trains traveling into the scenic Douro Valley."]
+  },
+  {
+    "id": "port-sines",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Port of Sines is Portugal's largest and deepest artificial seaport, serving as a critical hub for international logistics and energy imports. Situated along the dramatic Alentejo coastline, its deep waters allow ultra-large container ships and oil tankers to dock easily. The port was established in the 1970s and has since expanded to include massive petrochemical and liquid natural gas (LNG) terminals. Despite its heavy industrial nature, the surrounding region of Sines retains immense historical value as the birthplace of legendary explorer Vasco da Gama.",
+    "en_facts": ["It handles more than half of Portugal's total maritime cargo traffic.", "Sines is the most important European gateway for liquid natural gas from the Americas.", "The port's waters reach a natural depth of up to 28 meters.", "The nearby city of Sines hosts a famous annual world music festival."]
+  },
+  {
+    "id": "port-leixoes",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Port of Leixões, located in Matosinhos near Porto, is the largest artificial port in northern Portugal. Constructed in the late 19th century to bypass the treacherous sandbars of the Douro River, it plays a vital role in exporting the region's industrial goods, textiles, and famous Port wine. In recent years, Leixões has also become a major destination for luxury cruise ships, bolstered by its award-winning, spiraling modern cruise terminal. The bustling port area is closely linked with the local seafood industry, supplying the renowned fish restaurants of Matosinhos.",
+    "en_facts": ["The modern cruise terminal resembles a coiled ribbon and has won several architectural awards.", "It is the second busiest seaport in Portugal after Sines.", "The port's construction required massive granite breakwaters extending far into the Atlantic.", "It directly supports the vibrant fishing community and famous seafood eateries of Matosinhos."]
+  },
+  {
+    "id": "port-setubal",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Port of Setúbal is a versatile maritime hub located on the sheltered Sado River estuary, just south of Lisbon. Benefiting from deep, calm waters protected by the Tróia Peninsula, it handles a diverse range of cargo including vehicles, cement, and agricultural products. Historically, the port was essential for exporting the region's salt, canned sardines, and Moscatel wine. Today, the bustling waterfront perfectly balances its industrial operations with tourism, offering boat tours to observe the estuary's resident population of bottlenose dolphins.",
+    "en_facts": ["It is one of Portugal's leading ports for 'Ro-Ro' (Roll-on/Roll-off) vehicle transport.", "The Sado estuary is home to a famous resident pod of bottlenose dolphins.", "The port area was historically central to Portugal's massive sardine canning industry.", "Its natural harbor is naturally sheltered from Atlantic storms by the Tróia Peninsula."]
+  },
+  {
+    "id": "agri-douro-vineyards",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Douro Vineyards are the visual hallmark of the world's oldest demarcated wine region, renowned for producing sweet, fortified Port wine. Over centuries, generations of farmers carved the steep schist slopes of the Douro Valley into spectacular, stepped terraces held up by dry stone walls. The harsh microclimate, characterized by scorching summers and freezing winters, stresses the vines to produce incredibly concentrated and flavorful grapes. This monumental agricultural effort has transformed the wild landscape into a UNESCO World Heritage site of unparalleled cultural and visual beauty.",
+    "en_facts": ["The Douro Valley was officially demarcated as a protected wine region in 1756 by the Marquis of Pombal.", "Traditional 'rabelo' boats were once used to transport the wine barrels down the treacherous river to Porto.", "The region relies almost exclusively on ancient, indigenous grape varieties like Touriga Nacional.", "The steep terraces, known as 'socalcos', are entirely supported by mortarless stone walls."]
+  },
+  {
+    "id": "agri-coruche-cork-oaks",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Coruche region in the Ribatejo province is often hailed as the cork capital of the world. It is characterized by vast 'montados', which are ancient, semi-wild agricultural landscapes dominated by cork oak trees. Portugal is the global leader in cork production, a deeply sustainable industry because the trees are never cut down; instead, their bark is carefully peeled off by skilled artisans every nine years. The montado ecosystem is a model of sustainable farming that provides a crucial habitat for endangered species, including the Iberian lynx and the Imperial eagle.",
+    "en_facts": ["A single cork oak tree can be harvested over a dozen times during its 200-year lifespan.", "The number painted on a harvested tree indicates the year its bark was last removed.", "Cork harvesting is one of the highest-paid agricultural jobs in the world due to the intense skill required.", "The cork forests are vital carbon sinks, absorbing millions of tons of CO2 annually."]
+  },
+  {
+    "id": "industry-autoeuropa-palmela",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Autoeuropa factory in Palmela is one of Portugal's most significant industrial complexes and a cornerstone of the national economy. Originally established in 1991 as a joint venture between Ford and Volkswagen, it is now fully owned by the Volkswagen Group. The sprawling, high-tech manufacturing plant produces several popular car models primarily for the European market and accounts for a significant percentage of Portugal's total exports. The facility is a showcase of modern automotive engineering, utilizing advanced robotics and supporting a massive ecosystem of local suppliers.",
+    "en_facts": ["Autoeuropa is one of the largest single foreign direct investments in Portuguese history.", "The factory single-handedly represents over 1% of Portugal's entire Gross Domestic Product (GDP).", "It has a dedicated railway line connecting directly to the Port of Setúbal for exporting vehicles.", "The plant frequently pioneers advanced sustainable manufacturing practices within the VW group."]
+  },
+  {
+    "id": "hist-convent-christ-tomar",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Convent of Christ in Tomar is a sprawling fortress and monastery complex that stands as a monumental legacy of the Knights Templar. Founded in the 12th century, it was the headquarters of the Templars and later the Order of Christ, which played a pivotal role in funding the Portuguese Age of Discovery. The architecture is a breathtaking timeline of Portuguese history, featuring an extraordinary mix of Romanesque, Gothic, Manueline, and Renaissance styles. The site's defining feature is the ornate Manueline window in the chapter house, covered in intricate nautical and esoteric carvings.",
+    "en_facts": ["The circular 'Charola' church allowed Templar knights to attend mass while remaining on horseback.", "Prince Henry the Navigator served as the Grand Master of the Order of Christ and lived in the convent.", "The iconic Manueline window is considered the ultimate masterpiece of Portuguese late Gothic art.", "The complex includes an impressive Renaissance aqueduct that is over 6 kilometers long."]
+  },
+  {
+    "id": "hist-peniche-fortress",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Fortress of Peniche is a star-shaped coastal citadel built in the 16th century to defend Portugal against persistent pirate attacks. Positioned strategically on a rugged peninsula, the fort is a robust example of early modern military architecture. During the 20th century, the fortress gained a dark reputation as a high-security political prison under the authoritarian Estado Novo regime led by António de Oliveira Salazar. The dramatic 1960 escape of communist leader Álvaro Cunhal from its walls remains a legendary event. Today, it serves as a powerful museum dedicated to resistance, freedom, and local maritime history.",
+    "en_facts": ["The fortress was originally built on an island, which eventually connected to the mainland via sand accumulation.", "During the dictatorship, it was widely considered Portugal's most inescapable prison.", "The 1960 escape involved climbing down the sea-facing outer walls using knotted ropes.", "The museum also showcases the region's long tradition of making delicate bobbin lace."]
+  },
+  {
+    "id": "hist-national-tile-museum",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The National Tile Museum (Museu Nacional do Azulejo) in Lisbon is dedicated to the uniquely Portuguese art of decorative ceramic tiles, or azulejos. Housed in the grand, 16th-century Convent of Madre de Deus, the museum displays an astonishing collection ranging from early Moorish geometric designs to vibrant contemporary pieces. The exhibits chronicle the evolution of tile-making techniques and their profound cultural significance in Portuguese architecture. The crown jewel of the collection is an immense, 23-meter-long panoramic tile mural depicting the entire cityscape of Lisbon as it looked just before the devastating 1755 earthquake.",
+    "en_facts": ["The word 'azulejo' comes from the Arabic 'al-zillij', meaning 'polished stone'.", "The museum's building features a spectacularly gilded baroque chapel covered in historic tiles.", "The grand panorama of Lisbon contains over 1,300 individual hand-painted tiles.", "Portuguese azulejos are completely unique as they are used extensively on the exteriors of buildings, not just interiors."]
+  },
+  {
+    "id": "land-sao-jorge-castle",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "São Jorge Castle is a majestic Moorish fortress crowning the highest hill in Lisbon's historic center. With origins tracing back to Roman and Visigoth times, the castle was heavily fortified by the Moors before being conquered by Portugal's first king, Afonso Henriques, in 1147 during the Second Crusade. For centuries, it served as the royal palace and the ultimate seat of power in Portugal. Though partially ruined by the 1755 earthquake, extensive 20th-century restorations returned it to its former glory. Today, its ancient pine-shaded courtyards and walkable ramparts offer the most spectacular panoramic views over the Tagus River and the sprawling capital.",
+    "en_facts": ["The legendary Portuguese knight Martim Moniz is said to have sacrificed himself by wedging his body in the castle doors to let his comrades enter.", "The castle grounds are home to a vibrant population of free-roaming peacocks.", "Vasco da Gama was celebrated within these walls by King Manuel I after his return from India in 1499.", "The castle's camera obscura provides a unique 360-degree optical projection of Lisbon in real-time."]
+  },
+  {
+    "id": "nat-douro-valley",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Douro Valley is an awe-inspiring natural and cultural landscape in northern Portugal, recognized as the world's oldest legally demarcated wine region. The valley is defined by the winding Douro River, which cuts deeply through steep mountains covered in meticulously constructed, terraced vineyards. These schist terraces reflect over two millennia of winemaking tradition and human perseverance against a challenging environment. Famous globally as the exclusive birthplace of Port wine, the valley's dramatic beauty changes with the seasons, from lush summer greens to blazing autumn reds and golds.",
+    "en_facts": ["The region was officially demarcated for wine production in 1756 to protect the quality of Port wine.", "The steep terrain means that almost all grape harvesting is still done entirely by hand.", "In 2001, the Alto Douro Wine Region was designated a UNESCO World Heritage site.", "The scenic Linha do Douro railway runs tightly along the river, offering one of Europe's most picturesque train rides."]
+  },
+  {
+    "id": "nat-douro",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Douro region is an extraordinary geographical marvel in northern Portugal, blending rugged natural beauty with ancient agricultural practices. The area is dominated by the majestic Douro River, which flows westward from the Spanish border down to the Atlantic Ocean at Porto. The landscape is a harsh yet stunning environment of steep schist hillsides and rocky outcrops, which have been painstakingly sculpted into terraced vineyards over centuries. This unique terroir, with its extreme variations in temperature, provides the perfect growing conditions for the indigenous grape varieties used to produce world-class fortified and table wines.",
+    "en_facts": ["The name 'Douro' is often said to mean 'River of Gold' due to the golden color of the river in the sunlight.", "The river was highly dangerous to navigate until a series of locks and dams were built in the 20th century.", "Summers in the Douro can reach 40°C (104°F), while winters can drop below freezing.", "The region is home to over 100 indigenous grape varieties that thrive in the schist soil."]
+  },
+  {
+    "id": "nat-serra-estrela",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Serra da Estrela is the highest mountain range in mainland Portugal and a nature reserve of immense ecological importance. Reaching an elevation of 1,993 meters at its Torre peak, it is the only place in the country where skiing and winter sports are possible. The rugged, glacier-carved landscape is defined by deep valleys, crystal-clear alpine lakes, and massive granite boulder formations. The mountains are deeply rooted in pastoral traditions, most notably the breeding of the large Estrela Mountain Dog and the production of the region's famous creamy, artisanal sheep's cheese.",
+    "en_facts": ["The true peak, Torre, is artificially raised by a 7-meter stone tower to reach exactly 2,000 meters above sea level.", "The region produces Queijo Serra da Estrela, Portugal's most famous and pungent artisanal cheese.", "It is home to the source of the Mondego River, the longest river located entirely within Portugal.", "The area features dramatic glacial valleys, such as the breathtaking Zêzere Glacier Valley."]
+  },
+  {
+    "id": "nat-ria-formosa",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Ria Formosa Nature Park is a stunning coastal lagoon system in the Algarve, consisting of a labyrinth of barrier islands, marshes, and tidal flats. Stretching for 60 kilometers along the southern coast, it acts as a crucial natural barrier protecting the mainland from the Atlantic Ocean. This ever-changing estuarine environment is an ecological treasure, serving as a vital wintering ground for thousands of migratory birds traveling between Europe and Africa. The shallow, sun-warmed waters are also essential for the local economy, heavily supporting traditional sea salt extraction and highly productive clam and oyster farming.",
+    "en_facts": ["The lagoon is one of the most important areas for aquatic birds in Portugal, hosting over 20,000 birds during winter.", "It is home to the largest global population of the rare seahorse species Hippocampus guttulatus.", "The barrier islands, such as Ilha do Farol, can only be reached by boat and have no cars.", "The shape of the sand islands constantly shifts and changes due to continuous wind and tidal action."]
+  },
+  {
+    "id": "nat-benagil",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Benagil Sea Cave, known locally as the 'Algar de Benagil', is one of the most spectacular natural wonders on the Algarve coast. This massive, dome-shaped limestone cavern was created over millennia by the relentless pounding of the Atlantic waves. Its most famous feature is the large circular 'eye' or opening in the roof, which allows a single beam of sunlight to illuminate the hidden, golden sandy beach inside. Accessible only from the water via boat, kayak, or paddleboard, the cave has become a world-famous symbol of Portugal's dramatic coastal geology and a magnet for photographers.",
+    "en_facts": ["The cave's ceiling opening was formed by the collapse of a weak section of the limestone cliff.", "Swimming to the cave is strongly discouraged due to strong, unpredictable ocean currents.", "The interior of the cave has excellent acoustics, magnifying the sound of the crashing waves.", "The golden limestone walls of the cave display visible strata layers mapping millions of years of geological history."]
+  },
+  {
+    "id": "nat-sintra-cascais",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Sintra-Cascais Natural Park is an incredibly diverse protected area that sweeps from the lush, fairy-tale mountains of Sintra down to the rugged Atlantic coastline. The park's dramatic landscape includes dense forests, steep coastal cliffs, and sweeping sand dunes. A major highlight of the park is Cabo da Roca, the westernmost point of continental Europe, where sheer cliffs plunge vertically into the churning ocean. The park's unique microclimate fosters a remarkable array of endemic flora and provides a haven for diverse wildlife, while its crashing waves attract surfers to beaches like the famous Praia do Guincho.",
+    "en_facts": ["Cabo da Roca was described by poet Luís de Camões as the place 'where the land ends and the sea begins'.", "The park is home to a very rare species of orchid (Epipactis tremolsii) found almost nowhere else.", "The high winds at Praia do Guincho make it one of Europe's premier destinations for windsurfing and kitesurfing.", "The park's mountains are filled with ancient, moss-covered boulders and hidden romantic hermitages."]
+  },
+  {
+    "id": "nat-peneda-geres",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Peneda-Gerês National Park is Portugal's only officially designated national park, located in the extreme northwest bordering Spain. This vast, mountainous wilderness is characterized by rugged granite peaks, deep ravines, and ancient oak forests. The park is a vital sanctuary for biodiversity, sheltering rare Iberian wolves, wild Garrano ponies, and golden eagles. Scattered throughout the dramatic landscape are remote, traditional stone villages where time seems to have stood still, and agricultural practices have remained unchanged for centuries. The area also boasts a wealth of archaeological heritage, including perfectly preserved Roman roads and milestones.",
+    "en_facts": ["The park contains the Geira, a Roman road featuring the highest concentration of ancient milestones in the world.", "It is the last refuge in Portugal for the endangered Iberian wolf.", "The traditional granite grain stores on stilts, called 'espigueiros', are iconic to the region.", "In some areas, wild Garrano horses roam completely free across the mountainous terrain."]
+  },
+  {
+    "id": "nat-serra-da-estrela",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Serra da Estrela Natural Park protects the highest mountain range in continental Portugal, a landscape of raw granite beauty and sweeping alpine meadows. During winter, the peaks are often blanketed in snow, transforming the region into the country's sole winter sports destination. The park is a geological wonder, deeply scarred by ancient glaciers that carved out the magnificent Zêzere Valley. Beyond its natural splendor, the park preserves a rich pastoral culture; the steep hillsides are still grazed by flocks of sheep guarded by the indigenous, fiercely loyal Estrela Mountain Dog.",
+    "en_facts": ["The region's unique microclimate allows for the traditional curing of the renowned Serra da Estrela cheese.", "It is home to the highest town in Portugal, Guarda, which sits at over 1,000 meters altitude.", "The massive glacial valley of Zêzere is one of the largest in Europe, stretching for 13 kilometers.", "The Estrela Mountain Dog is one of the oldest dog breeds in the Iberian Peninsula."]
+  },
+  {
+    "id": "nat-pico-mountain",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Mount Pico is a majestic stratovolcano that completely dominates the island of Pico in the Azores archipelago. Standing at 2,351 meters above sea level, it is the highest peak in all of Portugal. The volcano's perfect, symmetrical cone often pierces the clouds, creating an awe-inspiring silhouette visible from neighboring islands. A demanding but highly rewarding hike to the summit reveals a secondary, smaller volcanic cone at the top, affectionately called 'Piquinho'. The lower slopes of the mountain are covered in unique, UNESCO-protected vineyards that grow from black volcanic basalt rock.",
+    "en_facts": ["The last major eruption of Mount Pico occurred relatively recently in 1720.", "Because it rises straight out of the deep ocean, its total base-to-peak height makes it a massive underwater mountain.", "Steam can still be seen escaping from fumaroles near the absolute summit.", "Climbers must register before ascending, and the hike involves navigating loose volcanic scree."]
+  },
+  {
+    "id": "nat-sete-cidades-lake",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Lagoa das Sete Cidades is an iconic, twin-lake crater located in the dormant caldera of the Sete Cidades massif on the Azorean island of São Miguel. It is famously known for its striking visual anomaly: one half of the lake reflects a vivid emerald green, while the other appears deep sapphire blue. According to local legend, the lakes were formed by the tears of a green-eyed princess and a blue-eyed shepherd who shared a forbidden love. The immense volcanic crater, spanning five kilometers in diameter, is surrounded by steep walls covered in lush, subtropical vegetation and blooming hydrangeas.",
+    "en_facts": ["The two lakes are technically a single body of water, separated only by a narrow land bridge.", "The color difference is an optical illusion caused by varying depths and algae reflection.", "Sete Cidades translates to 'Seven Cities', a reference to mythical lost islands of the Atlantic.", "The viewpoint at Vista do Rei offers the most famous and breathtaking panorama of the lakes."]
+  },
+  {
+    "id": "nat-lagoa-do-fogo",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Lagoa do Fogo, meaning 'Lake of Fire', is a pristine and remote crater lake situated in the central mountains of São Miguel in the Azores. Positioned within the caldera of the Água de Pau massif, it is the highest lake on the island. The lake is entirely surrounded by steep, wild slopes cloaked in dense endemic vegetation, keeping it completely free from human development. Often shrouded in a mystical, shifting fog, the landscape reveals itself in dramatic bursts of clarity. The lake's crystalline blue waters and raw volcanic environment make it one of the most beautiful and unspoiled nature reserves in Portugal.",
+    "en_facts": ["The volcanic eruption that formed the current caldera occurred in 1563.", "It is a strictly protected nature reserve, meaning motorized boats and swimming are generally forbidden.", "The lake sits at an altitude of almost 600 meters above sea level.", "Seagulls use the isolated sandy shores of the lake as a major nesting ground."]
+  },
+  {
+    "id": "nat-douro-river",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Douro River is one of the major waterways of the Iberian Peninsula, originating in Spain and flowing vigorously across northern Portugal to empty into the Atlantic Ocean at Porto. The river's path has carved deep, dramatic gorges through solid rock, creating the spectacular valleys that define the region. Historically, the river was treacherous, filled with rapids that claimed many lives during the transport of Port wine. Today, a series of impressive hydroelectric dams have tamed the waters, transforming the river into a calm, navigable waterway that serves as the lifeblood of the surrounding UNESCO-recognized wine region.",
+    "en_facts": ["The Douro River is approximately 897 kilometers long, making it one of the longest in the Iberian Peninsula.", "The Carrapatelo Dam on the Douro features one of the highest navigation locks in Europe, with a 35-meter drop.", "Before the dams were built, flat-bottomed 'rabelo' boats were the only vessels capable of navigating the rapids.", "The river's microclimate traps heat in the valley, creating perfect conditions for sweet grapes."]
+  },
+  {
+    "id": "nat-tejo-river",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Tagus River, known as the Tejo in Portuguese, is the longest river in the Iberian Peninsula and the geographical heart of Portugal. It flows westward from Spain, dividing Portugal into the greener, hillier north and the flatter, drier Alentejo plains to the south. As it approaches Lisbon, the river widens into a massive, magnificent estuary—one of the largest in Europe—before finally meeting the Atlantic Ocean. The Tejo has been the historical gateway to Portugal, facilitating the nation's maritime expansion and continuing to support a vibrant ecosystem of wetlands, bird sanctuaries, and major port operations.",
+    "en_facts": ["The massive Tagus estuary is so wide near Lisbon that it is locally referred to as the 'Straw Sea'.", "The river is spanned by the Vasco da Gama Bridge, which at 12 kilometers is one of the longest in Europe.", "The Tagus Estuary Nature Reserve is a critical stopover for over 120,000 migratory waterfowl.", "Lisbon's historic wealth was built entirely on the deep-water access provided by the Tagus."]
+  },
+  {
+    "id": "nat-berlengas-island",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Berlengas Archipelago is a rugged, pristine group of tiny granite islands located about 10 kilometers off the coast of Peniche. The main island, Berlenga Grande, is a harsh but stunning environment of sheer pinkish cliffs, deep sea caves, and crystal-clear waters. Due to its isolated and unspoiled nature, the archipelago is a highly protected UNESCO Biosphere Reserve, teeming with seabirds and diverse marine life. Human presence is strictly limited to a small number of daily visitors, a lighthouse keeper, and the spectacular 17th-century Fort of São João Baptista, which sits dramatically on a rocky islet connected by a narrow stone bridge.",
+    "en_facts": ["The islands are a critical nesting ground for thousands of seagulls and the rare Cory's shearwater.", "The dramatic Fort of São João Baptista successfully fended off an attack by a massive Spanish fleet in 1666.", "There are absolutely no vehicles on the island, and solar energy is heavily relied upon.", "The incredibly clear waters make it one of Portugal's premier spots for scuba diving and snorkeling."]
+  },
+  {
+    "id": "nat-madeira-laurisilva",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Laurisilva of Madeira is an outstanding relic of a previously widespread laurel forest type that covered much of Southern Europe millions of years ago. Found in the misty, mountainous interior of Madeira island, this ancient, evergreen ecosystem is the largest surviving laurel forest in the world and a UNESCO World Heritage site. The damp, mystical forest is characterized by giant, moss-draped trees, cascading waterfalls, and an incredibly dense canopy that filters the sunlight. This unique botanical sanctuary plays a crucial role in capturing moisture from the clouds to supply the island's ingenious 'levada' irrigation network.",
+    "en_facts": ["The forest is estimated to be over 15 million years old, surviving the last Ice Age.", "It covers approximately 20% of Madeira island, mostly on the steep, inaccessible northern slopes.", "The forest is home to the Madeira long-toed pigeon, a bird species found nowhere else on Earth.", "The network of 'levadas' (water channels) winding through the forest covers over 2,000 kilometers."]
+  },
+  {
+    "id": "mount-serra-do-caramulo",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Serra do Caramulo is a tranquil, granite and schist mountain range located in the central Dão-Lafões region of Portugal. Known for its exceptionally pure air and crystal-clear spring waters, the mountain was famously used in the mid-20th century as a premier health resort for tuberculosis patients. The landscape features rolling hills covered in pine and eucalyptus forests, terraced green valleys, and spectacular viewpoints like the Caramulinho, which offers panoramas stretching to the distant coast. Today, the pristine environment attracts hikers, while the village of Caramulo is surprisingly home to a world-class classic car and art museum.",
+    "en_facts": ["The air quality is so high that the entire town of Caramulo was originally built as a sprawling sanatorium.", "The Caramulo Museum houses an unexpected, priceless collection of vintage Bugattis, Ferraris, and Picassos.", "The highest peak, Caramulinho, reaches 1,075 meters and offers views of the Serra da Estrela on clear days.", "The region is famous for producing high-quality honey and traditional, dark mountain bread."]
+  },
+  {
+    "id": "mount-serra-de-montejunto",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Serra de Montejunto is a striking limestone mountain ridge located just an hour north of Lisbon. Often described as the 'Balcony of Estremadura', its highest peak provides sweeping, 360-degree views from the Atlantic coast to the Tagus Valley. The mountain features a rugged, karst landscape riddled with hidden caves and deep sinkholes. Historically, its high elevation was utilized by the Dominican order, who built a monastery and Portugal's first ice factory here in the 18th century, harvesting winter snow to supply ice to the royal court in Lisbon.",
+    "en_facts": ["The ruins of the Real Fábrica do Gelo (Royal Ice Factory) are a unique monument to 18th-century industrial engineering.", "The mountain is a critical sanctuary for the rare Bonelli's eagle and several bat species.", "Its slopes are covered in vineyards that produce some of the finest wines of the Lisbon wine region.", "A series of old windmills dot the lower ridges, utilizing the strong Atlantic breezes."]
+  },
+  {
+    "id": "lake-lagoa-do-furnas",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Lagoa das Furnas is a mystical volcanic crater lake situated in the lush, geothermal wonderland of the Furnas Valley on São Miguel Island in the Azores. The lake is famously flanked by bubbling, sulfurous mud pots, steaming fumaroles, and natural hot springs that testify to the active volcanic forces lying just beneath the surface. The shores of the lake are dominated by dense, subtropical vegetation and the haunting, neo-Gothic ruins of the Chapel of Nossa Senhora das Vitórias. Local chefs famously use the intense geothermal heat of the lake's shores to slow-cook 'Cozido das Furnas', a traditional meat and vegetable stew buried underground.",
+    "en_facts": ["The 'Cozido' stew is cooked inside metal pots buried in the volcanic soil for over six hours.", "The lake is surrounded by lush forests containing trees imported from completely different global climates.", "The striking Chapel of Nossa Senhora das Vitórias was built by a wealthy local in the 19th century out of grief for his sick wife.", "Despite its beauty, the lake suffers from eutrophication, and massive environmental efforts are underway to restore its water quality."]
+  }
+]

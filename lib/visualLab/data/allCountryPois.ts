@@ -111,6 +111,10 @@ import { poiExtraSanmarinoOther } from "./poiExtraSanmarinoOther";
 import { poiExtraCongoNatureV2 } from "./poiExtraCongoNatureV2";
 import { poiExtraCongoHistoryV2 } from "./poiExtraCongoHistoryV2";
 import { poiExtraDemocraticrepublicofcongoNatureV2 } from "./poiExtraDemocraticrepublicofcongoNatureV2";
+import { poiExtraSouthsudanCitiesV2 } from "./poiExtraSouthsudanCitiesV2";
+import { poiExtraSouthsudanHistoryV2 } from "./poiExtraSouthsudanHistoryV2";
+import { poiExtraSouthsudanLandmarksV2 } from "./poiExtraSouthsudanLandmarksV2";
+import { poiExtraSouthsudanNatureV2 } from "./poiExtraSouthsudanNatureV2";
 
 import { serbiaAllPoi } from "./serbiaPoi";
 import { slovakiaAllPoi } from "./slovakiaPoi";
@@ -247,6 +251,10 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraCongoNatureV2,
   ...poiExtraCongoHistoryV2,
   ...poiExtraDemocraticrepublicofcongoNatureV2,
+  ...poiExtraSouthsudanCitiesV2,
+  ...poiExtraSouthsudanHistoryV2,
+  ...poiExtraSouthsudanLandmarksV2,
+  ...poiExtraSouthsudanNatureV2,
   ...serbiaAllPoi,
   ...slovakiaAllPoi,
   ...poiExtraSlovakiaCities,

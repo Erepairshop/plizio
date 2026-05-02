@@ -1,0 +1,182 @@
+[
+  {
+    "id": "city-ponta-delgada",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Ponta Delgada is the largest municipality and the economic capital of the Autonomous Region of the Azores, located on the island of São Miguel. It evolved from a humble fishing village in the 15th century into a crucial port of call for galleons traversing between Europe and the Americas. The city's striking architecture is characterized by white-washed buildings trimmed with dark, volcanic basalt stone, best exemplified by the iconic Portas da Cidade (City Gates). Today, its vibrant marina and historic center, filled with lush botanical gardens and cobbled squares, make it the perfect base for exploring the island's natural wonders.",
+    "en_facts": ["The iconic three-arched Portas da Cidade were built in the 18th century and moved to their current location in 1952.", "The city's historic Forte de São Brás is a star-shaped Renaissance fortress protecting the harbor.", "The Carlos Machado Museum is the oldest museum in the Azores, established in 1876.", "Pineapples, introduced in the 19th century, are famously cultivated in unique glass greenhouses just outside the city."]
+  },
+  {
+    "id": "city-funchal",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Funchal is the vibrant capital city of the Madeira archipelago, famously situated in a natural amphitheater facing the Atlantic Ocean. Founded in the 15th century, the city grew immensely wealthy during the 'white gold' era of sugar cane production and later from its world-renowned Madeira wine. Its name derives from the abundance of wild fennel ('funcho') found by early Portuguese settlers. The city is a botanical paradise, boasting spectacular tropical gardens, historic cobbled streets like the Rua de Santa Maria, and an exhilarating toboggan ride down from the mountainous suburb of Monte.",
+    "en_facts": ["Funchal hosts one of the largest and most spectacular New Year's Eve fireworks displays in the world.", "The city is the birthplace of global football superstar Cristiano Ronaldo.", "The traditional Monte toboggans are wicker sleds guided by two men (Carreiros) wearing distinctive straw hats.", "Its colorful Mercado dos Lavradores (Farmers' Market) is famous for exotic fruits and fresh black scabbard fish."]
+  },
+  {
+    "id": "city-mafra",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Mafra is a historically significant town located just northwest of Lisbon, best known for the colossal National Palace of Mafra. This monumental baroque complex was commissioned by King João V in the 18th century and largely financed by Brazilian gold, fundamentally changing the town's destiny. Beyond the imposing palace, Mafra retains a charming, traditional Portuguese atmosphere with quiet squares and excellent local bakeries. The town is also closely tied to the Tapada Nacional de Mafra, a vast former royal hunting ground that is now a lush sanctuary for deer, wild boars, and diverse flora.",
+    "en_facts": ["The construction of the Mafra Palace was so massive it essentially created the town as it exists today.", "The town is famous for its 'Pão de Mafra', a traditional, highly regarded rustic bread.", "Nobel Prize-winning author José Saramago immortalized the town in his famous novel 'Baltasar and Blimunda'.", "The royal hunting grounds (Tapada de Mafra) were established in 1747 to provide leisure for the Portuguese monarch."]
+  },
+  {
+    "id": "city-obidos",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Óbidos is a spectacularly preserved medieval walled town located in central Portugal. Captured from the Moors by the first King of Portugal, Afonso Henriques, the entire town was historically presented as a wedding gift to Portuguese queens, earning it the title 'Town of Queens'. Encircled by high, crenellated walls that visitors can walk along, the town features a maze of narrow cobblestone streets, whitewashed houses adorned with vibrant blue and yellow borders, and a majestic hilltop castle. Óbidos is a living museum, renowned for its literary festivals, medieval fairs, and the local sour cherry liqueur known as Ginjinha.",
+    "en_facts": ["Óbidos has been officially designated as a UNESCO City of Literature since 2015.", "The traditional Ginjinha liqueur is typically served in small, edible cups made of dark chocolate.", "The town's main gate, Porta da Vila, features a beautiful 18th-century chapel decorated with azulejo tiles.", "Every winter, Óbidos transforms into a massive Christmas village (Vila Natal), attracting thousands of families."]
+  },
+  {
+    "id": "city-tomar",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Tomar, known as the 'City of the Templars', is an enchanting historic town in central Portugal that grew around the magnificent Convent of Christ. Founded in the 12th century by Gualdim Pais, the Grand Master of the Knights Templar, the town's layout was uniquely designed in the shape of a cross, oriented perfectly to the cardinal points. Tomar's incredibly rich heritage spans the medieval era, the Portuguese Discoveries, and the Renaissance. Visitors are captivated by its tranquil riverside park, the historic Synagogue of Tomar—one of the oldest in the country—and the fascinating blend of ancient spiritual history.",
+    "en_facts": ["Every four years, Tomar hosts the spectacular 'Festa dos Tabuleiros', an ancient harvest festival.", "The Tomar Synagogue is the only fully preserved pre-Renaissance Jewish temple in Portugal.", "The town is bisected by the scenic Nabão River, complete with charming old water wheels.", "Tomar's historical center features a unique checkerboard street plan, unusual for medieval Portuguese towns."]
+  },
+  {
+    "id": "city-viana-do-castelo",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Viana do Castelo is one of the most beautiful and architecturally rich cities in northern Portugal, gracefully situated at the estuary of the Lima River. Historically a major port for Portuguese explorers and later the cod fishing fleet, its wealth is reflected in the splendid Renaissance, Manueline, and Baroque mansions of the historic center. The city is crowned by the magnificent neo-Byzantine Sanctuary of Santa Luzia, offering panoramic views over the ocean and the green Minho region. Viana do Castelo is deeply rooted in local traditions, most notably its intricate gold filigree jewelry and the vibrant Romaria de Nossa Senhora da Agonia festival.",
+    "en_facts": ["The Gil Eannes, a former hospital ship for the cod fishing fleet, is now moored in the city as a fascinating museum.", "The Sanctuary of Santa Luzia is clearly inspired by the Sacré-Cœur basilica in Paris.", "During the city's main festival, women wear traditional, heavily embroidered 'trajes à vianesa' and kilos of gold filigree.", "Gustave Eiffel designed the city's impressive two-tiered iron bridge spanning the Lima River."]
+  },
+  {
+    "id": "city-tavira",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Tavira is widely considered the most charming and architecturally authentic town in the eastern Algarve. Straddling the slow-flowing Gilão River, it is famous for its romantic 'Roman' bridge, numerous historic churches, and distinctive 'tesouro' (treasure) roofs—a unique pyramidal roof style hinting at its affluent past. Unlike the highly developed western Algarve, Tavira has preserved its tranquil, Moorish-influenced character with labyrinthine cobbled streets and whitewashed houses. The town serves as the primary gateway to the pristine barrier islands and pristine beaches of the Ria Formosa Nature Park.",
+    "en_facts": ["The town is famously said to have exactly 37 churches, though some are no longer in religious use.", "The iconic seven-arched bridge in the center is called the 'Roman Bridge' but actually dates to the Moorish period.", "Tavira's economy was historically dominated by tuna fishing and the evaporation of sea salt.", "An ancient Moorish castle in the town center now houses a small, beautifully maintained botanical garden."]
+  },
+  {
+    "id": "city-loule",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Loulé is a vibrant and culturally rich market town located inland from the Algarve coast. It is best known for its striking, Neo-Arab style municipal market hall, which serves as the beating heart of the town, bustling with vendors selling fresh local produce, fish, and regional crafts. Loulé has a deep Moorish heritage, evident in its restored 13th-century castle and the historic Islamic baths discovered underneath the city streets. Beyond its history, Loulé is famous throughout Portugal for hosting the country's most spectacular and colorful annual Carnival parade, drawing visitors from far and wide.",
+    "en_facts": ["The Neo-Arab Municipal Market was inaugurated in 1908 and features distinctive red onion domes.", "Loulé is home to a unique underground salt mine that reaches a depth of 230 meters.", "The local artisans are famous for their intricate copper work and traditional palm-leaf weaving.", "During the MED Festival in summer, the entire historic center transforms into a massive world music celebration."]
+  },
+  {
+    "id": "city-silves",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Silves is a historically profound city in the Algarve, famously serving as the region's capital during the era of Moorish rule. Situated along the banks of the Arade River, it was once a major cultural and trading hub known as 'Xelb', rivaling Lisbon and Córdoba in importance. The city's skyline is utterly dominated by the massive, red sandstone walls of the Castelo de Silves, the best-preserved Moorish fortification in southern Portugal. Walking through its steep, cobbled streets reveals a blend of Islamic heritage and traditional Portuguese architecture, surrounded by fragrant orange and lemon groves.",
+    "en_facts": ["During the Moorish period, boats could navigate the Arade River all the way from the ocean directly to Silves.", "The Sé Cathedral of Silves was built on the exact site of the former Grand Mosque.", "Every August, the city hosts a massive Medieval Fair, completely transforming the historic center.", "Silves is recognized as the citrus capital of Portugal, producing the country's finest oranges."]
+  },
+  {
+    "id": "city-santarem",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Santarém is the historical capital of the Ribatejo province, situated dramatically on a high plateau overlooking the vast, fertile plains of the Tagus River. Known as the 'Capital of Portuguese Gothic', its historic center is a treasure trove of medieval churches, intricate cloisters, and ancient monuments. The city's strategic vantage point, particularly from the Portas do Sol park, has made it a crucial military stronghold since Roman and Moorish times. Santarém is also deeply rooted in the equestrian and agricultural traditions of the Ribatejo, closely associated with the breeding of the famous Lusitano horses.",
+    "en_facts": ["The Jardim das Portas do Sol offers an unparalleled, panoramic view over the Tagus River valley.", "The Church of the Miracle of the Holy Sacrament houses a famously venerated Catholic relic from the 13th century.", "Santarém hosts the National Agricultural Fair, celebrating the region's cowboy ('campino') culture.", "The city was conquered from the Moors in 1147 in a daring nighttime raid led by King Afonso Henriques."]
+  },
+  {
+    "id": "city-guarda",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Guarda is the highest city in continental Portugal, proudly perched at an altitude of 1,056 meters in the foothills of the Serra da Estrela mountains. Its lofty position and formidable granite architecture earned it the moniker 'The City of the Five Fs': Fria, Farta, Forte, Fiel, Formosa (Cold, Plentiful, Strong, Loyal, Beautiful). Established as a border fortress to defend against Spanish invasions, its historic center is defined by narrow, winding streets and the imposing, fortress-like Cathedral of Guarda, which seamlessly blends Gothic and Manueline styles. The crisp mountain air and rugged surroundings give the city a distinctly alpine character.",
+    "en_facts": ["The construction of the towering, granite Cathedral of Guarda took nearly 150 years to complete.", "Guarda was traditionally considered one of the most impregnable strongholds in the entire kingdom.", "The historic Jewish quarter (Judiaria) retains many original houses marked with ancient Hebrew symbols.", "Due to its high altitude, Guarda is one of the few Portuguese cities that frequently experiences winter snow."]
+  },
+  {
+    "id": "city-chaves",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Chaves is an ancient and vital border city located in the extreme north of Portugal, along the banks of the Tâmega River. Originally founded by the Romans as 'Aquae Flaviae', the city has been famous for millennia for its therapeutic thermal springs, which emerge naturally at a scalding 73°C (163°F). Its strategic location near the Spanish border made it a heavily fortified bastion throughout Portuguese history, evidenced by the impressive medieval castle keep that still dominates the skyline. Visitors to Chaves enjoy the stunning Roman bridge, the relaxing thermal spas, and the rich local gastronomy, particularly the famous smoked meats.",
+    "en_facts": ["The Roman Bridge of Trajan in Chaves has withstood the Tâmega River's floods for nearly two thousand years.", "The local thermal waters are among the hottest naturally occurring mineral springs in all of Europe.", "Chaves is the northern starting point of the iconic N2 road, which runs the entire length of Portugal.", "The local culinary specialty is 'Pastel de Chaves', a crescent-shaped pastry filled with minced veal."]
+  },
+  {
+    "id": "city-elvas",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Elvas is a fiercely guarded border city in the Alentejo region, possessing the largest and most complex system of bulwarked fortifications in the world. Due to its extreme proximity to Spain, the city was heavily fortified from the 17th to the 19th centuries, culminating in a sprawling, star-shaped defensive masterpiece that is now a UNESCO World Heritage site. Beyond its formidable walls, Elvas features a pristine historic center with elegant plazas, whitewashed houses, and the monumental Amoreira Aqueduct, an engineering marvel with multi-tiered arches. The city stands as an ultimate symbol of Portuguese sovereignty and military ingenuity.",
+    "en_facts": ["The massive Amoreira Aqueduct took over a century to build and is over 7 kilometers long.", "The Forte da Graça, located on a nearby hill, is considered a global masterpiece of 18th-century military architecture.", "The star-shaped fortifications were designed by a Dutch Jesuit priest and military engineer.", "Despite numerous sieges by Spanish forces, the modern fortifications of Elvas were never successfully breached."]
+  },
+  {
+    "id": "city-portalegre",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Portalegre is a serene, elegant city situated in the northern Alentejo, nestled against the lush slopes of the Serra de São Mamede. In the 16th and 17th centuries, the city amassed immense wealth from the silk and textile industries, which funded the construction of its beautifully preserved Baroque and Renaissance mansions. Unlike the sun-baked plains typical of the Alentejo, Portalegre enjoys a cooler, greener microclimate that fosters beautiful public gardens and dense cork oak forests. The city remains deeply tied to its artisanal roots, particularly through the famous Guy Fino Tapestry Manufacture, which continues to produce exquisite handwoven artworks.",
+    "en_facts": ["The Portalegre Tapestry Manufacture is renowned globally and has collaborated with famous artists like Almada Negreiros.", "The city's historic center contains an unusually high concentration of aristocratic coats of arms on its mansions.", "José Régio, one of Portugal's most famous 20th-century poets, lived in Portalegre and his house is now a museum.", "The nearby Serra de São Mamede Natural Park offers excellent hiking and birdwatching opportunities."]
+  },
+  {
+    "id": "city-castelo-branco",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Castelo Branco is a prominent city in the Beira Baixa region of central Portugal, characterized by its elegant avenues, historic squares, and deep cultural heritage. The city's crown jewel is the Jardim do Paço Episcopal, an extraordinary 18th-century Baroque garden renowned for its meticulously manicured hedges and a complex array of statues representing Portuguese kings, apostles, and the zodiac. Historically, the city grew around a Templar castle, though much of its modern layout reflects later centuries of prosperous bishopric rule. Castelo Branco is also the absolute center for the production of the region's famous, intricately embroidered silk bedspreads (Bordados de Castelo Branco).",
+    "en_facts": ["The statues of the Spanish Kings who ruled Portugal are deliberately carved smaller than the Portuguese kings in the Bishop's Garden.", "The famous 'Bordados de Castelo Branco' feature complex symbolic motifs, such as the Tree of Life and the Tree of Good and Evil.", "A museum dedicated entirely to the regional silk embroidery is located in the city center.", "The ancient Templar castle ruins provide sweeping panoramic views over the surrounding plains to the Spanish border."]
+  },
+  {
+    "id": "city-vila-real",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Vila Real is an aristocratic city in northern Portugal, dramatically situated on a rocky promontory above the confluence of the Corgo and Cabril rivers. Often referred to as the 'Court of Trás-os-Montes', the city historically attracted numerous noble families whose stately mansions and granite coats of arms still adorn the historic center. Vila Real serves as the primary gateway to the spectacular Alto Douro Wine Region and the untamed landscapes of the Alvão Natural Park. The city is universally associated with the Mateus Palace, a breathtaking Baroque masterpiece just outside the city limits, famous for gracing the label of the globally recognized Mateus Rosé wine.",
+    "en_facts": ["The Mateus Palace was designed by Nicolau Nasoni, the most influential Baroque architect in northern Portugal.", "Vila Real is famous for 'Bila' pottery, distinctive black clay ceramics crafted using ancient techniques.", "The historic center features the Diogo Cão house, alleged birthplace of the explorer who discovered the Congo River.", "A thrilling, high-speed urban car race, the Circuito Internacional de Vila Real, takes place on its streets annually."]
+  },
+  {
+    "id": "city-covilha",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Covilhã is a robust mountain city clinging to the steep eastern slopes of the Serra da Estrela, Portugal's highest mountain range. Historically known as the 'Manchester of Portugal', it was the epicenter of the nation's powerful wool and textile industry, utilizing the abundant mountain streams to power its massive mills. Today, the city successfully blends its gritty industrial heritage with a vibrant, youthful energy brought by the local university. The steep, winding streets have been revitalized by an impressive array of world-class urban street art, making Covilhã a unique open-air gallery amidst a dramatic alpine setting.",
+    "en_facts": ["The city's urban art festival, WOOL, has transformed dozens of historic industrial walls into massive contemporary murals.", "Covilhã was the hometown of several key navigators and cosmographers during the Portuguese Age of Discovery.", "A scenic funicular and several public elevators help residents and tourists navigate the extremely steep city terrain.", "It serves as the primary base camp for skiers and winter sports enthusiasts heading up to the Torre peak."]
+  },
+  {
+    "id": "land-sao-francisco-church-porto",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Church of São Francisco in Porto is an awe-inspiring religious monument, hiding one of Europe's most lavishly decorated interiors behind its austere Gothic facade. Originally built by Franciscan friars in the 14th century, the church underwent a spectacular transformation in the 18th century when almost every inch of its interior was covered in complex, gilded woodwork (Talha Dourada). The dizzying array of golden cherubs, animals, and intricate floral motifs required an estimated 300 to 400 kilograms of gold leaf. The absolute masterpiece inside is the 'Tree of Jesse', a stunning wooden carving tracing the genealogy of Jesus Christ.",
+    "en_facts": ["The church is so overwhelmingly covered in gold that locals once refused to worship there, deeming it too ostentatious for the poor.", "Beneath the church lie extensive catacombs containing thousands of human bones, including an eerie glass floor over a mass grave.", "The church was briefly used as a stable for horses by French troops during the Napoleonic Invasions.", "It is the most prominent Gothic monument in Porto, despite its overwhelmingly Baroque interior."]
+  },
+  {
+    "id": "land-santa-luzia-sanctuary",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Sanctuary of the Sacred Heart of Jesus, universally known as Santa Luzia, is a monumental basilica crowning the Mount of Santa Luzia above the city of Viana do Castelo. Completed in the mid-20th century, its striking neo-Byzantine and neo-Gothic architecture was directly inspired by the Sacré-Cœur in Paris. The sanctuary's massive, imposing dome and intricate rose windows are a beacon visible from miles around. The absolute highlight of a visit is ascending to the very top of the dome, which rewards visitors with what National Geographic once described as one of the most beautiful panoramas in the world, spanning the ocean, river, and mountains.",
+    "en_facts": ["The sanctuary can be reached from the city center via the Santa Luzia Funicular, the longest funicular in Portugal.", "Construction of the basilica began in 1904 but wasn't officially completed until 1959.", "Its enormous rose windows are the largest in the Iberian Peninsula.", "The panoramic view from the top encompasses the entire Lima River estuary and the distant Spanish coastline."]
+  },
+  {
+    "id": "hist-milreu-ruins",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Roman Ruins of Milreu, located near Faro in the Algarve, offer a fascinating glimpse into the opulent lifestyle of ancient Roman elites. Originally constructed in the 1st century AD, this sprawling complex was a luxurious rural villa (villa rustica) that featured extensive residential quarters, an agricultural processing area, and a magnificent bathhouse. The site's most remarkable feature is a large, incredibly well-preserved water sanctuary (nymphaeum) decorated with intricate, colorful mosaics of fish and marine life. In the 16th century, a rustic Portuguese farmhouse was built directly over part of the ruins, creating a unique layering of historical eras.",
+    "en_facts": ["The maritime mosaics in the bathhouse are considered some of the finest Roman artwork surviving in Portugal.", "The central temple of the complex was later converted into a Christian basilica during the Visigothic period.", "The villa remained continuously inhabited and operational for over 500 years.", "Excavations have revealed an advanced Roman underfloor heating system (hypocaust) in the bathhouse."]
+  },
+  {
+    "id": "hist-elvas-fortifications",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Fortifications of Elvas constitute the largest and most pristine system of bulwarked, star-shaped defenses anywhere in the world. Located practically on the Spanish border in the Alentejo, this colossal military complex was massively expanded during the Portuguese Restoration War in the 17th century to protect the nation's hard-won independence. The UNESCO World Heritage site encompasses the entire historic city walls, the monumental Amoreira Aqueduct, and the spectacular, independent hilltop forts of Santa Luzia and Nossa Senhora da Graça. This defensive masterpiece represents the absolute pinnacle of European military engineering and strategic landscape modification.",
+    "en_facts": ["The Forte da Graça is a perfect, multi-layered star fort that is considered impenetrable by 18th-century standards.", "The defensive system proved entirely successful; Elvas never fell to a Spanish siege.", "The fortifications successfully integrate the massive, 7-kilometer Amoreira Aqueduct to ensure a secure water supply.", "The complex includes deep, bomb-proof underground cisterns capable of sustaining the city for months."]
+  },
+  {
+    "id": "agri-vinho-verde-minho",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Vinho Verde wine region in the verdant Minho province of northern Portugal is globally renowned for its completely unique, slightly effervescent, and crisp wines. The name 'Vinho Verde' (Green Wine) refers not to the color, but to the fact that the wine is meant to be consumed young and fresh. The lush, damp climate influenced by the Atlantic Ocean creates a highly fertile, intensely green landscape dotted with small, family-owned vineyards. Traditionally, vines here were grown on high trellises or trained up trees to maximize the use of land below for other crops, creating a distinctly beautiful agricultural scenery.",
+    "en_facts": ["Vinho Verde is Portugal's largest demarcated wine region, representing around 15% of the country's total vineyard area.", "The Alvarinho grape, highly prized for producing exceptional white Vinho Verde, originates in this region.", "Vinho Verde can actually be white, red, or rosé, though the white is by far the most internationally famous.", "The high-trellis growing system, called 'enforcado', helps protect the grapes from the damp soil's moisture."]
+  },
+  {
+    "id": "agri-dao-vineyards",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Dão Vineyards are nestled in the mountainous heart of central Portugal, an area often celebrated as the 'Burgundy of Portugal'. Completely surrounded and sheltered by high mountain ranges, including the Serra da Estrela, the region enjoys a unique microclimate shielded from extreme Atlantic rains and harsh continental winds. The vineyards are typically planted on rocky, granite slopes surrounded by dense pine forests. This exceptional terroir produces incredibly elegant, structured, and long-living wines, heavily utilizing the noble Touriga Nacional grape, which is believed to have originated in a small village within the Dão.",
+    "en_facts": ["The Dão was officially demarcated as a wine region in 1908, making it one of the oldest in Portugal.", "The region is almost exclusively dedicated to indigenous Portuguese grape varieties.", "Dão wines are historically known for their exceptional aging potential due to their high natural acidity.", "The vineyards are often divided into very small, irregular plots separated by rocky outcrops and forests."]
+  },
+  {
+    "id": "agri-alentejo-olive-groves",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Alentejo Olive Groves dominate the sun-baked, undulating plains of southern Portugal, forming an endless, silvery-green ocean of ancient trees. The Alentejo is the absolute heart of Portuguese olive oil production, yielding some of the highest-quality extra virgin olive oils in the world. The region's hot, dry climate and fertile soils provide perfect conditions for robust olive varieties like Galega and Cobrançosa. Many of the traditional, gnarled olive trees in the region are several centuries old, standing as silent witnesses to the generations of agricultural heritage that define the serene Alentejo landscape.",
+    "en_facts": ["Portugal is the world's fourth-largest exporter of olive oil, with the vast majority coming from the Alentejo.", "Some monumental olive trees in the region have been carbon-dated to be over 2,000 years old.", "The olive harvest in the Alentejo typically begins in late October and continues into the winter months.", "Olive oil tourism (oleotourism) is rapidly growing, with many historic estates (herdades) offering tastings."]
+  },
+  {
+    "id": "industry-sines-petrochemical-complex",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Sines Petrochemical Complex is the most important industrial and energy hub in Portugal, located on the Alentejo coast adjacent to the deep-water Port of Sines. Developed in the 1970s, it completely transformed a quiet fishing village into the powerhouse of the national economy. The massive complex includes the country's largest oil refinery, a major petrochemical plant producing vital industrial polymers, and a critical terminal for liquefied natural gas (LNG). Despite its imposing, highly technical skyline of cooling towers and pipelines, the complex operates with advanced environmental controls, sitting surprisingly close to pristine coastal nature reserves.",
+    "en_facts": ["The refinery in Sines processes millions of tons of crude oil annually to supply the domestic market.", "The complex represents a significant percentage of Portugal's entire industrial Gross Domestic Product (GDP).", "A major transition is underway in Sines to shift from fossil fuels to the production of green hydrogen.", "The port and industrial zone are connected by a vast network of highly secure, specialized pipelines."]
+  },
+  {
+    "id": "industry-barcelos-ceramics",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Barcelos is a historic city in northern Portugal that serves as the undisputed heart of traditional Portuguese ceramics and pottery. The region's rich, workable clay and centuries of generational craftsmanship have given rise to a vibrant and highly distinctive style of folk art. The absolute symbol of this industry is the 'Galo de Barcelos' (Rooster of Barcelos), a brightly painted clay rooster that has become the ubiquitous national icon of Portugal. The city's thriving weekly market, one of the largest in Europe, is a vibrant showcase of this immense ceramic heritage, featuring thousands of handmade pots, figurines, and household items.",
+    "en_facts": ["The legend of the Barcelos Rooster involves a dead, roasted rooster miraculously coming to life to save an innocent man from the gallows.", "Barcelos was recognized by UNESCO as a Creative City of Crafts and Folk Art in 2017.", "Traditional Barcelos pottery is famous for its bright, almost fluorescent colors and whimsical, dotted patterns.", "In addition to roosters, local artisans are famous for creating satirical clay figurines of politicians and local characters."]
+  },
+  {
+    "id": "kid-oceanario-lisbon",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Lisbon Oceanarium is widely celebrated as one of the best and largest indoor aquariums in the world, making it a premier destination for families. Located in the modern Parque das Nações, the building is architecturally stunning, seemingly floating on the Tagus River. The conceptual design brilliantly connects four separate marine habitats—representing the Atlantic, Pacific, Indian, and Antarctic oceans—around one colossal, multi-story central tank. Children and adults alike are mesmerized by the seamless, immersive experience, offering close encounters with sharks, playful sea otters, majestic rays, and an incredible diversity of marine ecosystems.",
+    "en_facts": ["The central tank is so large it holds 5 million liters of saltwater and is equivalent to four Olympic swimming pools.", "It is one of the few aquariums globally that successfully houses the massive, bizarrely shaped Ocean Sunfish.", "The Oceanarium was the centerpiece of the 1998 Lisbon World Exposition, which focused on ocean conservation.", "The sea otter habitat features rescued otters that charm visitors with their playful grooming and swimming routines."]
+  },
+  {
+    "id": "kid-zoomarine-algarve",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Zoomarine, located in Guia in the central Algarve, is Portugal's most popular family theme park, brilliantly combining marine life education with exhilarating entertainment. The park offers an extensive array of attractions, from a massive wave pool and water slides to thrilling amusement rides and a spectacular artificial beach. However, Zoomarine's true heart lies in its zoological presentations, featuring highly trained dolphins, sea lions, and tropical birds. The park is deeply committed to marine conservation, operating a highly respected rehabilitation center for injured and stranded marine animals found along the Portuguese coast.",
+    "en_facts": ["Zoomarine's Porto Pim rehabilitation center has successfully rescued and released hundreds of sea turtles and marine mammals.", "The park features a highly sought-after program allowing visitors to interact closely with bottlenose dolphins.", "It has been repeatedly voted the best theme park in Portugal by major travel review platforms.", "Beyond marine life, the park includes a large walk-through butterfly garden and a 4D cinema experience."]
+  },
+  {
+    "id": "kid-zoo-santo-inacio",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "Zoo Santo Inácio, located just minutes from Porto, is the largest and most prominent zoological park in northern Portugal. Designed with a strong emphasis on spacious, naturalistic enclosures, the zoo focuses on the well-being and conservation of endangered species. Families can explore beautifully landscaped habitats housing everything from majestic Asian lions and Siberian tigers to playful Humboldt penguins and massive rhinoceroses. One of the absolute highlights for visitors is the spectacular, 40-meter-long glass tunnel that cuts directly through the lion enclosure, offering heart-pounding, face-to-face encounters with the majestic predators.",
+    "en_facts": ["The zoo participates in numerous European Endangered Species Programmes (EEP) for successful breeding.", "The zoo's Asian Lion glass tunnel is the first of its kind in Portugal.", "It features a massive, immersive tropical greenhouse filled with free-flying exotic birds and reptiles.", "Daily feeding demonstrations allow visitors to learn directly from the keepers about the animals' natural behaviors."]
+  },
+  {
+    "id": "kid-badoca-safari-park",
+    "file": "lib/visualLab/data/portugalPoi.ts",
+    "en_desc": "The Badoca Safari Park is a highly unique wildlife park located in the Alentejo region, offering families an authentic African safari experience right in the heart of Portugal. Spread across 90 hectares of rolling hills and cork oak forests, the park's main attraction is a thrilling tractor-drawn trailer ride through vast, open enclosures where zebras, giraffes, ostriches, and wildebeests roam freely. Beyond the safari, the park features a primate island, a petting zoo for younger children, and an exhilarating river rafting ride. It perfectly combines adventure, outdoor recreation, and environmental education.",
+    "en_facts": ["The 45-minute safari ride allows visitors to see over 70 different animal species living in a semi-wild state.", "The park includes a specially designed island dedicated entirely to interactive experiences with playful lemurs.", "The African-themed river rafting ride provides a refreshing, splash-filled adventure during the hot Alentejo summers.", "Badoca places a strong emphasis on animal conservation and operates successful breeding programs for endangered species."]
+  }
+]
