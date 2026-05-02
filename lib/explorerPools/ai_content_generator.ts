@@ -7,17 +7,17 @@ import { k8_data } from "./ai_content_db2";
 const DB: any = { 5: k5_data, 6: k6_data, 7: k7_data, 8: k8_data };
 
 const distractors = {
-  hu: ["Fa", "VÃ­z", "KÅ‘", "Sajt", "FelhÅ‘", "MadÃ¡r", "Asztal", "CipÅ‘", "Nap", "FÅ±", "Kavics", "LevÃ©l", "Homok", "TÃ³", "Hegy"],
+  hu: ["Fa", "Víz", "Kő", "Sajt", "Felhő", "Madár", "Asztal", "Cipő", "Nap", "Fű", "Kavics", "Levél", "Homok", "Tó", "Hegy"],
   en: ["Tree", "Water", "Stone", "Cheese", "Cloud", "Bird", "Table", "Shoe", "Sun", "Grass", "Pebble", "Leaf", "Sand", "Lake", "Mountain"],
-  de: ["Baum", "Wasser", "Stein", "KÃ¤se", "Wolke", "Vogel", "Tisch", "Schuh", "Sonne", "Gras", "Kiesel", "Blatt", "Sand", "See", "Berg"],
-  ro: ["Copac", "ApÄƒ", "PiatrÄƒ", "BrÃ¢nzÄƒ", "Nor", "PasÄƒre", "MasÄƒ", "Pantof", "Soare", "IarbÄƒ", "PietricicÄƒ", "FrunzÄƒ", "Nisip", "Lac", "Munte"]
+  de: ["Baum", "Wasser", "Stein", "Käse", "Wolke", "Vogel", "Tisch", "Schuh", "Sonne", "Gras", "Kiesel", "Blatt", "Sand", "See", "Berg"],
+  ro: ["Copac", "ApĂƒ", "PiatrĂƒ", "BrânzĂƒ", "Nor", "PasĂƒre", "MasĂƒ", "Pantof", "Soare", "IarbĂƒ", "PietricicĂƒ", "FrunzĂƒ", "Nisip", "Lac", "Munte"]
 };
 
 const ui = {
-  hu: { inst: "PÃ¡rosÃ­tsd be:", h1: "Gondolj a tÃ©mÃ¡ra!", h2: "Keresd a pÃ¡rokat!", q: "Mi jellemzÅ‘ erre:", l1: "RÃ©sz", l2: "TÃ­pus", l3: "PÃ©lda", r1: "Adat", r2: "GÃ©p", r3: "Program" },
+  hu: { inst: "Párosítsd be:", h1: "Gondolj a témára!", h2: "Keresd a párokat!", q: "Mi jellemző erre:", l1: "Rész", l2: "Típus", l3: "Példa", r1: "Adat", r2: "Gép", r3: "Program" },
   en: { inst: "Match the pairs:", h1: "Think about it!", h2: "Find the pairs!", q: "What describes this:", l1: "Part", l2: "Type", l3: "Example", r1: "Data", r2: "Machine", r3: "Program" },
   de: { inst: "Ordne die Paare zu:", h1: "Denk nach!", h2: "Finde die Paare!", q: "Was beschreibt das:", l1: "Teil", l2: "Art", l3: "Beispiel", r1: "Daten", r2: "Maschine", r3: "Programm" },
-  ro: { inst: "AsociazÄƒ perechile:", h1: "GÃ¢ndeÈ™te-te!", h2: "GÄƒseÈ™te perechile!", q: "Ce descrie asta:", l1: "Parte", l2: "Tip", l3: "Exemplu", r1: "Date", r2: "MaÈ™inÄƒ", r3: "Program" }
+  ro: { inst: "AsociazĂƒ perechile:", h1: "Gândește-te!", h2: "GĂƒsește perechile!", q: "Ce descrie asta:", l1: "Parte", l2: "Tip", l3: "Exemplu", r1: "Date", r2: "MașinĂƒ", r3: "Program" }
 };
 
 export function generateAiPool(level: number, island: number) {
