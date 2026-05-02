@@ -57,7 +57,6 @@ import { netherlandsAllPoi } from "../data/netherlandsPoi";
 import { poiExtraNetherlandsCities } from "../data/poiExtraNetherlandsCities";
 import { austriaMap, austriaViewBox, projectCoordsAT } from "./austria.svg";
 import { austriaAllPoi } from "../data/austriaPoi";
-import { poiExtraAustriaCities } from "../data/poiExtraAustriaCities";
 import { poiExtraAustriaHistorical } from "../data/poiExtraAustriaHistorical";
 import { poiExtraAustriaIndustry } from "../data/poiExtraAustriaIndustry";
 import { poiExtraAustriaLife } from "../data/poiExtraAustriaLife";
@@ -116,13 +115,11 @@ import { estoniaAllPoi } from "../data/estoniaPoi";
 import { icelandMap, icelandViewBox, projectCoordsIS } from "./iceland.svg";
 import { icelandPois } from "../data/icelandPoi";
 import { poiExtraIcelandCities } from "../data/poiExtraIcelandCities";
-import { poiExtraIcelandHistory } from "../data/poiExtraIcelandHistory";
 import { maltaMap, maltaViewBox, projectCoordsMT } from "./malta.svg";
 import { maltaPoi as maltaAllPoi } from "../data/maltaPoi";
 import { poiExtraMaltaCities } from "../data/poiExtraMaltaCities";
 import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
 import { cyprusAllPoi } from "../data/cyprusPoi";
-import { poiExtraCyprusCities } from "../data/poiExtraCyprusCities";
 import { albaniaMap, albaniaViewBox, projectCoordsAL } from "./albania.svg";
 import { albaniaAllPoi } from "../data/albaniaPoi";
 import { serbiaMap, serbiaViewBox, projectCoordsRS } from "./serbia.svg";
@@ -137,8 +134,6 @@ import { kosovoMap, kosovoViewBox, projectCoordsXK } from "./kosovo.svg";
 import { kosovoAllPoi } from "../data/kosovoPoi";
 import { moldovaMap, moldovaViewBox, projectCoordsMD } from "./moldova.svg";
 import { moldovaAllPoi } from "../data/moldovaPoi";
-import { poiExtraMoldovaCities } from "../data/poiExtraMoldovaCities";
-import { poiExtraMoldovaHistory } from "../data/poiExtraMoldovaHistory";
 import { ukraineMap, ukraineViewBox, projectCoordsUA } from "./ukraine.svg";
 import { belarusMap, belarusViewBox, projectCoordsBY } from "./belarus.svg";
 import { ukrainePois } from "../data/ukrainePoi";
@@ -146,7 +141,6 @@ import { belarusAllPoi } from "../data/belarusPoi";
 import { andorraMap, andorraViewBox, projectCoordsAD } from "./andorra.svg";
 import { andorraAllPoi } from "../data/andorraPoi";
 import { poiExtraAndorraCities } from "../data/poiExtraAndorraCities";
-import { poiExtraAndorraHistory } from "../data/poiExtraAndorraHistory";
 import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
 import { poiExtraMonacoCities } from "../data/poiExtraMonacoCities";
@@ -239,7 +233,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: moldovaMap as unknown as BundeslandPath[],
         viewBox: moldovaViewBox,
         projectCoords: projectCoordsMD,
-        pois: [...moldovaAllPoi, ...poiExtraMoldovaCities, ...poiExtraMoldovaHistory],
+        pois: [...moldovaAllPoi],
         subregions: {},
       };
     case "xk":
@@ -375,7 +369,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: austriaMap as unknown as BundeslandPath[],
         viewBox: austriaViewBox,
         projectCoords: projectCoordsAT,
-        pois: [...austriaAllPoi, ...poiExtraAustriaCities, ...poiExtraAustriaHistorical, ...poiExtraAustriaIndustry, ...poiExtraAustriaLife, ...poiExtraAustriaNature],
+        pois: [...austriaAllPoi, ...poiExtraAustriaHistorical, ...poiExtraAustriaIndustry, ...poiExtraAustriaLife, ...poiExtraAustriaNature],
         subregions: austriaSubregions,
       };
     case "be":
@@ -572,7 +566,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: icelandMap as unknown as BundeslandPath[],
         viewBox: icelandViewBox,
         projectCoords: projectCoordsIS,
-        pois: [...icelandPois, ...poiExtraIcelandCities, ...poiExtraIcelandHistory],
+        pois: [...icelandPois, ...poiExtraIcelandCities],
         subregions: {},
       };
     case "mt":
@@ -590,7 +584,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: cyprusMap as unknown as BundeslandPath[],
         viewBox: cyprusViewBox,
         projectCoords: projectCoordsCY,
-        pois: [...cyprusAllPoi, ...poiExtraCyprusCities],
+        pois: [...cyprusAllPoi],
         subregions: {},
       };
     case "ad":
@@ -599,7 +593,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: andorraMap as unknown as BundeslandPath[],
         viewBox: andorraViewBox,
         projectCoords: projectCoordsAD,
-        pois: [...andorraAllPoi, ...poiExtraAndorraCities, ...poiExtraAndorraHistory],
+        pois: [...andorraAllPoi, ...poiExtraAndorraCities],
         subregions: {},
       };
     case "mc":
