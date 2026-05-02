@@ -46,6 +46,23 @@ export const norwayCountry: POI = {
       "Celebra pictură 'Țipătul' a fost creată de artistul norvegian Edvard Munch."
     ]
   },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "",
+    en: "Norway is a spectacular Scandinavian nation distinguished by its long, rugged coastline, deep fjords, and high mountains. It has played a pivotal role in European maritime history, evolving from the Viking Age into a modern, prosperous state fueled by natural resources and sustainable energy. The country boasts a high standard of living, blending advanced urban centers like Oslo and Bergen with vast, unspoiled wilderness. Its cultural heritage is deeply connected to the sea, outdoor life, and polar exploration, making it a premier destination for nature enthusiasts."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [],
+    en: [
+      "Norway is famously known as the Land of the Midnight Sun due to its northern latitude.",
+      "The country operates one of the most successful sovereign wealth funds in the world.",
+      "It became an independent nation in 1905 after the dissolution of its union with Sweden.",
+      "Norway's landscape features over 1,000 fjords, carved by glaciers during the Ice Age."
+    ]
+  },
   image: "/geo-images/norway/norway-main.webp",
 };
 
@@ -68,6 +85,27 @@ export const norwayRegions: POI[] = [
       hu: ["Oslót 1040 körül alapította Harald Hardrada király.","A város Európa egyik leggyorsabban növekvő fővárosa.","Oslóban található a Vigeland park, a világ legnagyobb, egyetlen művész által készített szoborparkja.","A várost 2019-ben Európa Zöld Fővárosának választották."],
       ro: ["Oslo a fost fondat în jurul anului 1040 de regele Harald Hardrada.","Orașul este una dintre capitalele cu cea mai rapidă creștere din Europa.","Oslo găzduiește Parcul Vigeland, cel mai mare parc de sculpturi din lume realizat de un singur artist.","Orașul a fost numit Capitala Verde Europeană în 2019."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Oslo a cunoscut o dezvoltare semnificativă începând cu secolul al XI-lea, dar și-a recâștigat cu adevărat statutul de capitală abia după declararea independenței față de dominația daneză în 1814. Așezarea sa la capătul Oslofjordului a oferit o protecție naturală de-a lungul istoriei, consolidată și prin construirea fortăreței Akershus. Astăzi, Oslo este una dintre cele mai verzi capitale din lume, unde apropierea dintre păduri și mare definește stilul de viață al locuitorilor. Urbanizarea modernă a dus la crearea unor cartiere de talie mondială precum Bjørvika, unde cultura se îmbină perfect cu arhitectura sustenabilă. Istorie K7 — Dezvoltarea statelor scandinave.",
+    en: "Oslo is one of Europe's fastest-growing capitals, dramatically transforming its waterfront with contemporary architecture like the Barcode project and the Opera House. Founded in the 11th century, it spent centuries as a modest provincial town before rising to prominence after Norway's independence. Today, the city is a global pioneer in green urban planning, surrounded by the Marka forest and the Oslofjord. Its cultural landscape is anchored by world-class museums dedicated to Viking history, polar exploration, and the visionary works of Edvard Munch."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "După un incendiu devastator în 1624, regele danez Christian al IV-lea a mutat orașul mai aproape de fortăreața Akershus.",
+      "Premiul Nobel pentru Pace, acordat anual la Oslo, este una dintre cele mai prestigioase distincții la nivel mondial.",
+      "Aproape o treime din populația actuală a orașului este formată din persoane cu origini imigrante."
+    ],
+    en: [
+      "Oslo was historically known as Christiania from 1624 until 1925.",
+      "The city is surrounded by exactly 40 islands within the limits of the Oslofjord.",
+      "It hosts the annual Nobel Peace Prize ceremony every December 10th.",
+      "Oslo aims to become the world's first emissions-free city by 2030."
+    ]
+  },
     image: "/geo-images/norway/oslo.webp",
   },
   {
@@ -88,6 +126,27 @@ export const norwayRegions: POI[] = [
       hu: ["Bergen a 13. században Norvégia fővárosa volt.","A város az UNESCO Kreatív Városok Hálózatának tagja a gasztronómia területén.","A Fløibanen sikló a Fløyen-hegy tetejére viszi a látogatókat a panorámás kilátásért.","Bergen a híres zeneszerző, Edvard Grieg szülőhelye."],
       ro: ["Bergen a fost capitala Norvegiei în secolul al XIII-lea.","Orașul este membru al Rețelei de Orașe Creative UNESCO în domeniul Gastronomiei.","Funicularul Fløibanen duce vizitatorii în vârful Muntelui Fløyen pentru vederi panoramice.","Bergen este locul de naștere al celebrului compozitor Edvard Grieg."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Bergen a fost cel mai mare oraș al Norvegiei timp de secole și unul dintre cele mai importante noduri comerciale din nordul Europei. Liga Hanseatică a înființat aici unul dintre birourile sale principale, monopolizând exportul de pește uscat nordic către restul continentului. Orașul este înconjurat de șapte munți care oferă un fundal dramatic străzilor pietruite și caselor colorate de pe coastă. În ciuda climatului oceanic extrem de ploios, viața sa universitară și culturală vibrantă atrage vizitatori din întreaga lume. Istorie K6 — Liga Hanseatică și comerțul medieval.",
+    en: "Bergen serves as the historic gateway to the Norwegian fjords and was once the bustling capital of Norway during the 13th century. Its strategic location made it a crucial center for the Hanseatic League, an influence still visible in the colorful wooden buildings of Bryggen. Framed by seven imposing mountains, the city seamlessly blends rich maritime traditions with a thriving contemporary arts scene. Despite its reputation for frequent rainfall, Bergen remains a vibrant destination characterized by narrow cobblestone streets and lively fish markets."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Clădirile din lemn din cartierul Bryggen au fost depozite ale negustorilor hanseatici și sunt astăzi incluse în Patrimoniul Mondial UNESCO.",
+      "Cantitatea medie anuală de precipitații din Bergen depășește 2.200 de milimetri.",
+      "Funicularul care urcă pe muntele Fløyen transportă vizitatorii dornici de panorame spectaculoase încă din anul 1918."
+    ],
+    en: [
+      "Bergen was the largest city in Scandinavia during the late Middle Ages.",
+      "The city averages around 239 days of precipitation each year.",
+      "It is the birthplace of internationally renowned composer Edvard Grieg.",
+      "The Mount Fløyen funicular has been transporting passengers since 1918."
+    ]
+  },
     image: "/geo-images/norway/bergen.webp",
   },
   {
@@ -108,6 +167,27 @@ export const norwayRegions: POI[] = [
       hu: ["Trondheimet 997-ben alapította Olav Tryggvason király.","A város Norvégia első fővárosa volt.","A Nidarosi székesegyház Szent Olaf sírhelye fölé épült.","Trondheim Norvégia technológiai fővárosaként ismert."],
       ro: ["Trondheim a fost fondat în 997 de regele Olav Tryggvason.","Orașul a fost prima capitală a Norvegiei.","Catedrala Nidaros este construită peste locul de înmormântare al Sfântului Olav.","Trondheim este cunoscut drept capitala tehnologică a Norvegiei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Trondheim reprezintă inima religioasă și istorică a regatului norvegian, fiind fondat în anul 997 la gura de vărsare a râului Nidelva. În perioada medievală, cunoscut sub numele de Nidaros, orașul era destinația finală a pelerinilor care călătoreau din întreaga Europă de Nord la mormântul Sfântului Olav. Astăzi, orașul este un centru major al științei și tehnologiei, servind drept motor al inovației norvegiene, păstrând în același timp atmosfera caselor de lemn din secolele trecute. Priveliștea de pe vechiul pod Gamle Bybro către depozitele tradiționale este una dintre imaginile iconice ale urbanismului norvegian. Istorie K6 — Răspândirea creștinismului în Scandinavia.",
+    en: "Trondheim is a pivotal city in Norwegian history, originally founded as a trading post during the Viking Age. It served as the nation's first capital and remains the spiritual heart of Norway, centered around the magnificent Nidaros Cathedral. Today, it balances its rich medieval legacy with a dynamic, youthful energy driven by its large student population and prominent technical university. The city is also emerging as a major culinary destination in the Nordic region, heavily focused on local Trøndelag ingredients."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Catedrala Nidaros este cea mai nordică biserică medievală construită în stil gotic din întreaga lume.",
+      "Universitatea din oraș, NTNU, este cea mai mare din Norvegia, având peste 40.000 de studenți înmatriculați.",
+      "În 1997, Trondheim a sărbătorit cu fast aniversarea a o mie de ani de la fondarea sa oficială."
+    ],
+    en: [
+      "Trondheim was founded in 997 by the Viking King Olav Tryggvason.",
+      "The city was originally named Nidaros, meaning 'mouth of the River Nid'.",
+      "Nidaros Cathedral is the northernmost medieval cathedral in the world.",
+      "Over 30,000 students live in Trondheim, significantly shaping its modern culture."
+    ]
+  },
     image: "/geo-images/norway/trondheim.webp",
   },
   {
@@ -128,6 +208,27 @@ export const norwayRegions: POI[] = [
       hu: ["Stavanger a norvég olajipar központja.","A Norvég Olajmúzeum a város kikötőjében található.","A Preikestolen egy hatalmas szikla 604 méterrel a Lysefjord felett.","A város 2008-ban Európa Kulturális Fővárosa volt."],
       ro: ["Stavanger este centrul industriei petroliere norvegiene.","Muzeul Petrolului din Norvegia este situat în portul orașului.","Preikestolen este o stâncă masivă la 604 metri deasupra Lysefjordului.","Orașul a fost Capitală Europeană a Culturii în 2008."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Istoria orașului Stavanger este strâns legată de industriile maritime, începând de la fabricile de conserve de sardine din secolul al XIX-lea până la extracția modernă de petrol offshore. După descoperirea unor rezerve imense de petrol în 1969, un oraș pescăresc liniștit s-a transformat rapid în centrul energetic al Norvegiei. În ciuda boom-ului economic masiv, cartierul Gamle Stavanger a reușit să conserve cel mai mare ansamblu continuu de case din lemn din Europa. Muzeele sale moderne și comunitatea internațională extinsă au conturat un mediu urban efervescent și divers. Geografie K8 — Resursele energetice și extracția de petrol marin.",
+    en: "Stavanger is a dynamic coastal city that rapidly transformed from a traditional fishing and canning center into the prosperous oil capital of Norway. Its historic core, Gamle Stavanger, features Europe's highest concentration of preserved 18th-century wooden houses, offering a stark contrast to its modern energy sector. The city acts as the primary launchpad for expeditions to the dramatic Lysefjord and the iconic Preikestolen cliff. It is also highly regarded for its culinary scene, hosting the annual Gladmat food festival."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Muzeul Norvegian al Petrolului este proiectat arhitectural pentru a semăna vizual cu o platformă de foraj maritimă.",
+      "Orașul vechi din Stavanger este compus din 173 de case din lemn din secolele XVIII și XIX, toate vopsite într-un alb imaculat.",
+      "Stavanger a deținut prestigiosul titlu de Capitală Europeană a Culturii pe parcursul anului 2008."
+    ],
+    en: [
+      "Stavanger's wealth was historically built on the herring canning industry.",
+      "The city became the center of Norway's oil industry after the 1969 Ekofisk discovery.",
+      "Gamle Stavanger consists of 173 meticulously preserved white wooden houses.",
+      "It was designated as a European Capital of Culture in 2008."
+    ]
+  },
     image: "/geo-images/norway/stavanger.webp",
   },
   {
@@ -148,6 +249,27 @@ export const norwayRegions: POI[] = [
       hu: ["Tromsø 350 kilométerre északra fekszik az északi sarkkörtől.","Az Északi-fokot (Nordkapp) gyakran Európa legészakibb pontjának tekintik.","A régióban található a norvégiai számi parlament Karasjokban.","Tromsø-ban található a világ legészakibb egyeteme és katedrálisa."],
       ro: ["Tromsø este situat la 350 de kilometri nord de Cercul Polar.","Capul Nord (Nordkapp) este adesea considerat cel mai nordic punct al Europei.","Regiunea găzduiește Parlamentul Sámi din Norvegia în Karasjok.","Tromsø găzduiește cea mai nordică universitate și catedrală din lume."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Laponia Norvegiană, cunoscută oficial sub denumirea de Finnmark, este una dintre cele mai vaste și mai slab populate regiuni de pe continentul european. Acest peisaj spectaculos, străbătut de platouri imense și fiorduri adânci, este casa milenară a populației indigene Sámi, unde creșterea renilor rămâne o tradiție vie. În lunile de vară, soarele nu apune sub orizont săptămâni întregi, în timp ce iarna, întunericul nopții polare este întrerupt doar de dansul aurorei boreale. Teritoriul reprezintă o sinteză culturală absolut unică între moștenirea norvegiană și cea sami. Geografie K8 — Zonele arctice și viața populațiilor indigene.",
+    en: "Norwegian Lapland, stretching across the vast Finnmark plateau, is an untamed Arctic wilderness defined by extreme seasonal light and rich indigenous culture. It is the traditional homeland of the Sámi people, who have practiced reindeer herding across these tundras for centuries. The region offers dramatic geographic contrasts, from deep coastal fjords in the west to the stark, windswept plains near the Russian border. Visitors are drawn to this remote territory for authentic Arctic experiences, including dog sledding, Northern Lights hunting, and enduring the endless summer days."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Parlamentul sami, Sámediggi, situat în Karasjok, servește drept centru politic și cultural al populației indigene.",
+      "În interiorul regiunii, temperaturile pe timpul iernii pot scădea dramatic, atingând uneori chiar și minus 40 de grade Celsius.",
+      "Datorită influenței Curentului Golfului, zonele de coastă ale Laponiei Norvegiene rămân fără gheață pe tot parcursul iernii."
+    ],
+    en: [
+      "The region spans over 48,000 square kilometers, making it larger than Denmark.",
+      "It experiences the Midnight Sun continuously from mid-May to late July.",
+      "The Sámi Parliament of Norway is located in the Finnmark village of Kárášjohka.",
+      "Winter temperatures on the Finnmarksvidda plateau can drop below minus 40 degrees Celsius."
+    ]
+  },
     image: "/geo-images/norway/lapland-no.webp",
   }
 ];
@@ -171,6 +293,27 @@ export const norwayNature: POI[] = [
       hu: ["A Sogne-fjord Norvégia leghosszabb és legmélyebb fjordja.","A fjord egy norvég szó, amely nemzetközivé vált.","Sok fjord mentén kis gazdaságok bújnak meg a meredek hegyi párkányokon.","A fjordok változatos tengeri élővilágnak adnak otthont, beleértve a fókákat és a barna delfineket."],
       ro: ["Sognefjord este cel mai lung și mai adânc fjord din Norvegia.","Fjord este un cuvânt norvegian care a devenit internațional.","Multe fjorduri au ferme mici cocoțate pe margini abrupte de munte.","Fjordurile găzduiesc o viață marină diversă, inclusiv foci și marsuini."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Fiordurile norvegiene au fost sculptate adânc în stânca de bază de către ghețarii masivi care s-au mișcat lent în timpul erelor glaciare. Când gheața s-a topit, apele mării au inundat aceste văi adânci în formă de U, dând naștere uneia dintre cele mai extraordinare formațiuni geografice din lume. Aceste structuri naturale nu sunt doar impresionante vizual, ci au servit drept căi navigabile vitale și protejate pentru comunitățile de pe coastă de-a lungul istoriei. Pe pereții abrupți ai fiordurilor se mai pot zări și astăzi mici ferme izolate, mărturii ale unui mod de viață dificil. Geografie K7 — Modelarea reliefului glaciar și formele glaciare.",
+    en: "The Norwegian Fjords represent one of the most dramatic and visually stunning geological formations on the planet. Carved over millions of years by massive glacial retreats, these deep ocean inlets are flanked by near-vertical mountain walls and cascading waterfalls. The ecosystem supports a unique blend of marine and terrestrial wildlife, alongside isolated farming communities that cling to the steep slopes. Navigating the fjords offers a profound sense of scale and remains a central pillar of Norway's natural heritage and tourism."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Faimoasele fiorduri Geirangerfjord și Nærøyfjord au fost incluse în Patrimoniul Mondial UNESCO încă din anul 2005.",
+      "Cuvântul norvegian \"fjord\" are origini vechi nordice și derivă din termeni legați de călătorie sau de traversarea apelor.",
+      "Adâncimea apei din multe fiorduri este suficient de mare pentru a permite navelor oceanice să navigheze aproape de pereții stâncoși."
+    ],
+    en: [
+      "Fjords are created when a glacier retreats, and the sea fills the resulting U-shaped valley.",
+      "Coral reefs have been discovered thriving in the cold, dark waters of several Norwegian fjords.",
+      "Many fjords are much deeper than the adjacent sea, reaching depths of over 1,300 meters.",
+      "The Gulf Stream keeps the majority of the western fjords ice-free year-round."
+    ]
+  },
     image: "/geo-images/norway/fjords.webp",
   },
   {
@@ -191,6 +334,27 @@ export const norwayNature: POI[] = [
       hu: ["A Lofoten-szigetcsoport az északi sarkkörön belül található.","A szigetek éghajlata a Golf-áramlatnak köszönhetően meglepően enyhe.","A szárított tőkehalat (stockfish) már több mint 1000 éve exportálják Lofotenről.","A Maelström, egy hatalmas árapály-örvény rendszer, a szigetek közelében található."],
       ro: ["Arhipelagul Lofoten este situat în interiorul Cercului Polar.","Insulele au un climat surprinzător de blând datorită Curentului Golfului.","Peștele uscat (cod uscat) este exportat din Lofoten de peste 1.000 de ani.","Maelstrom, un sistem puternic de vârtejuri de maree, este situat lângă insule."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Vârfurile de granit ascuțite ale insulelor Lofoten s-au format în timpul ultimei ere glaciare, ridicându-se spectaculos din apele zbuciumate ale Mării Norvegiei. Economia acestei zone se bazează de mai bine de un mileniu pe migrația anuală a codului, când milioane de pești sosesc din Marea Barents pentru a depune icre. Casele tradiționale roșii, cunoscute sub numele de rorbuer, au fost construite inițial pe stânci și piloni pentru a găzdui pescarii veniți sezonier. Deși insulele se află dincolo de Cercul Polar, iernile lor sunt surprinzător de blânde, grație apelor calde aduse de Curentul Golfului. Geografie K7 — Impactul curenților oceanici asupra climei.",
+    en: "The Lofoten Islands are a spectacular archipelago located above the Arctic Circle, famed for their dramatic, jagged mountain peaks rising directly from the sea. For centuries, the region has been defined by its lucrative winter cod fishery, which shaped the development of its iconic red fishing cabins (rorbuer). Despite the high latitude, the islands enjoy a relatively mild climate anomaly due to the warming influence of the Gulf Stream. Today, Lofoten is a haven for adventurous travelers seeking world-class hiking, surfing, and photography in an unparalleled Arctic setting."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Codul capturat este uscat pe structuri de lemn direct în bătaia vântului, utilizând o metodă străveche de conservare.",
+      "Călătoriile între insule sunt facilitate astăzi de o rețea complexă și modernă de poduri și tuneluri submarine.",
+      "În această regiune maritimă se formează Moskstraumen, unul dintre cele mai puternice sisteme de vârtejuri de maree din lume."
+    ],
+    en: [
+      "The islands have been a center for the seasonal skrei (cod) fishery for over 1,000 years.",
+      "Lofoten is home to one of the largest deep-water coral reefs in the world.",
+      "The islands experience a positive temperature anomaly of up to 20 degrees Celsius compared to similar latitudes.",
+      "Remnants of ancient Viking longhouses have been excavated at Borg in Lofoten."
+    ]
+  },
     image: "/geo-images/norway/lofoten.webp",
   },
   {
@@ -211,6 +375,27 @@ export const norwayNature: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "A Hét nővér vízesés a legismertebb látványosságai közé tartozik.", "A norvég fjordhajózások egyik csúcspontja.", "A fjordot a jégkorszak gleccserei vájták ki."],
       ro: ["Este inclus în Patrimoniul Mondial UNESCO.", "Cascada Șapte Surori este una dintre cele mai cunoscute atracții.", "Este un punct de atracție major pe croazierele din fjordurile norvegiene.", "Fjordul a fost modelat de ghețari în era glaciară."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Geirangerfjord este considerat nestemata fiordurilor din vestul Norvegiei, fiind mărginit de versanți muntoși abrupți și cascade cu ape cristaline. În porțiunile sale cele mai înguste, lățimea fiordului măsoară doar 250 de metri, creând un efect copleșitor atunci când munții par să se închidă deasupra navelor. Fermele abandonate ascunse pe pantele stâncoase depun mărturie despre greutățile extreme ale vieții agricole din secolul al XIX-lea în acest mediu ostil. Ecologia zonei este extrem de fragilă, motiv pentru care autoritățile aplică reglementări stricte pentru a proteja natura intactă. Geografie K7 — Conflictele dintre turism și protecția mediului.",
+    en: "The Geirangerfjord is a crown jewel of the Norwegian fjord landscape, officially recognized as a UNESCO World Heritage site for its exceptional natural beauty. It is characterized by towering, almost vertical mountain sides and spectacular waterfalls, most notably the Seven Sisters and the Suitor. The fjord stretches 15 kilometers inland and is surrounded by abandoned historic farms perched precariously on high ledges. Its dramatic topography provides a quintessential representation of Norway's wild and unspoiled glacial environments."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Cele mai renumite cascade care se varsă în acest fiord poartă numele evocatoare de Șapte Surori și Voalul Miresei.",
+      "Stâncile abrupte de pe maluri sunt acoperite de păduri de foioase dese, ale căror origini datează încă din perioada glaciară.",
+      "Pentru a proteja mediul, începând din 2026, accesul pe apele fiordului va fi permis exclusiv navelor cu zero emisii."
+    ],
+    en: [
+      "The fjord reaches a maximum depth of approximately 260 meters.",
+      "The famous 'Seven Sisters' waterfall features seven distinct streams cascading down the rock face.",
+      "Geiranger village at the fjord's end has a year-round population of roughly 250 residents.",
+      "Historic mountain farms like Skageflå are only accessible by steep, demanding trails."
+    ]
+  },
     image: "/geo-images/norway/geirangerfjord.webp",
   },
   {
@@ -231,6 +416,27 @@ export const norwayNature: POI[] = [
       hu: ["Messze benyúlik Nyugat-Norvégiába.", "Teljes hossza körülbelül 204 kilométer.", "Klasszikus példája a gleccserek formálta tájnak.", "Partjain sok apró falu és gazdaság található."],
       ro: ["Se întinde adânc în vestul Norvegiei.", "Are o lungime totală de aproximativ 204 kilometri.", "Este un exemplu clasic de peisaj modelat de ghețari.", "Pe țărmurile sale se află multe sate și ferme mici."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Sognefjord este recunoscut drept regele fiordurilor norvegiene, fiind cel mai lung din Europa datorită întinderii sale monumentale. În timpul epocii de gheață, o masă enormă de gheață a avansat cu o forță incredibilă spre mare, săpând un șanț care, în anumite locuri, depășește 1.300 de metri adâncime. Linia sa de coastă este presărată cu mici așezări și monumente istorice remarcabile, printre care se numără biserici de lemn din era vikingă perfect conservate. Ramificațiile sale interioare, precum Aurlandsfjord, ascund peisaje și mai sălbatice și mai puțin atinse de civilizație. Geografie K7 — Formarea văilor sculptate de ghețari.",
+    en: "The Sognefjord holds the title of Norway's longest and deepest fjord, driving over 200 kilometers inland to the base of the mighty Jotunheimen mountains. Its monumental scale dominates the western landscape, branching into several prominent arms, including the UNESCO-listed Nærøyfjord. The region surrounding the fjord is deeply historical, featuring ancient stave churches, traditional fruit orchards, and powerful glacial rivers. It stands as a testament to the immense erosive power of Ice Age glaciers that shaped the Scandinavian peninsula."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Sognefjord pătrunde adânc în interiorul uscatului, având o lungime impresionantă de aproximativ 204 kilometri.",
+      "La punctul său cel mai adânc, situat la 1.308 metri sub nivelul mării, apele sunt complet întunecate și reci pe tot parcursul anului.",
+      "Se ramifică în numeroase brațe laterale mai mici, unele dintre acestea fiind deja recunoscute ca situri ale Patrimoniului Mondial UNESCO."
+    ],
+    en: [
+      "The Sognefjord reaches an astounding maximum depth of 1,308 meters.",
+      "It is the second-longest fjord in the world, surpassed only by Scoresby Sound in Greenland.",
+      "The mountains surrounding the inner branches of the fjord rise to over 2,000 meters.",
+      "The region is home to the Urnes Stave Church, dating back to the 12th century."
+    ]
+  },
     image: "/geo-images/norway/sognefjord.webp",
   },
   {
@@ -251,6 +457,27 @@ export const norwayNature: POI[] = [
       hu: ["Körülbelül 604 méterrel emelkedik a fjord fölé.", "A kilátóhely egy népszerű túraútvonalon érhető el.", "Stavanger közelében, Norvégia délnyugati részén található.", "A szikla teteje lapos, majdnem négyzet alakú."],
       ro: ["Se ridică la aproximativ 604 metri deasupra fjordului.", "Punctul de belvedere se atinge pe un traseu popular de drumeție.", "Se află aproape de Stavanger, în sud-vestul Norvegiei.", "Vârful stâncii are o formă plată, aproape pătrată."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Preikestolen, cunoscut și sub denumirea de Amvonul, reprezintă una dintre cele mai spectaculoase urme ale puterii distructive a ghețarilor din Norvegia. Această formațiune stâncoasă masivă se prăbușește aproape vertical spre apele fiordului Lysefjord, oferind vizitatorilor o panoramă absolut uluitoare. Forma sa unghiulară distinctivă a fost creată cel mai probabil de forțele uriașe ale înghețului și dezghețului în urmă cu aproximativ 10.000 de ani. În zilele noastre, a devenit una dintre cele mai populare destinații de drumeție din țară, oferind o provocare serioasă, dar și o recompensă vizuală inegalabilă. Geografie K7 — Procesele de eroziune și fragmentare fizică.",
+    en: "Preikestolen, or Pulpit Rock, is a massive, flat-topped cliff rising vertically 604 meters above the deep waters of the Lysefjord. Formed during the last Ice Age, this natural viewing platform was created by frost weathering and glacial expansion that tore away a massive block of rock. The hike to the summit is one of Norway's most iconic trails, rewarding hikers with panoramic, dizzying views of the rugged Rogaland landscape. Its striking geometric shape has made it a global symbol of Norway's awe-inspiring natural architecture."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Platoul stâncii este o suprafață plană ce măsoară aproximativ 25 pe 25 de metri, situată la o altitudine amețitoare de 604 metri.",
+      "O fisură imensă traversează structura de rocă, dar geologii confirmă că aceasta a rămas stabilă de milenii întregi.",
+      "Traseul de drumeție dus-întors pe terenul accidentat și muntos necesită, în medie, între patru și cinci ore de mers pe jos."
+    ],
+    en: [
+      "The cliff plateau measures approximately 25 by 25 meters.",
+      "It was formed roughly 10,000 years ago during the conclusion of the last Ice Age.",
+      "Over 300,000 hikers complete the trek to the Pulpit Rock every year.",
+      "A visible crack runs across the plateau, though geologists confirm it is completely stable."
+    ]
+  },
     image: "/geo-images/norway/preikestolen.webp",
   },
   {
@@ -271,6 +498,27 @@ export const norwayNature: POI[] = [
       hu: ["Gyakran Európa legészakibb pontjaként emlegetik.", "A helyszín fontos sarkvidéki turisztikai célpont.", "A Magerøya-szigeten található.", "Nyáron itt látható az éjféli nap."],
       ro: ["Este adesea numit cel mai nordic punct al Europei.", "Locul este o destinație turistică arctică importantă.", "Se află pe insula Magerøya.", "Vara poate fi observat soarele de la miezul nopții."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Capul Nord servește drept bază istorică a explorărilor arctice și rămâne punctul iconic, cel mai nordic, al continentului european. Stând pe stânca abruptă care se prăbușește direct în Marea Barents, călătorii au adesea impresia copleșitoare că au ajuns cu adevărat la capătul lumii. Încă din secolul al XVI-lea, acest promontoriu a fost un punct de navigație crucial pentru marinarii britanici și ruși aflați în căutarea Pasajului de Nord-Est. Tundra aridă a zonei oferă pășuni vitale pentru turmele de reni pe timpul verii, în timp ce iernile sunt dominate de furtuni glaciare necruțătoare. Geografie K8 — Caracteristicile tundrei și ale climatului polar.",
+    en: "The North Cape is a monumental promontory on the island of Magerøya, long celebrated as the northernmost accessible point of mainland Europe. Rising sharply 307 meters from the icy Barents Sea, it offers an uninterrupted horizon that has drawn explorers and travelers since the 16th century. The site holds profound symbolic value, representing the absolute edge of the continent where the Atlantic and Arctic oceans meet. During the summer months, it is one of the premier locations to witness the phenomenon of the Midnight Sun in its full glory."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Faleza stâncoasă se înalță la 307 metri deasupra valurilor adesea agitate și reci ale Mării Barents.",
+      "Perioada soarelui de la miezul nopții durează de la jumătatea lunii mai până la sfârșitul lunii iulie, timp în care soarele nu apune deloc.",
+      "Din punct de vedere strict geografic, promontoriul vecin Knivskjellodden se extinde cu aproximativ 1.457 metri mai spre nord."
+    ],
+    en: [
+      "The iconic globe monument at the North Cape was erected in 1978.",
+      "King Oscar II of Sweden and Norway visited the cape in 1873, boosting its tourism appeal.",
+      "The actual northernmost point is nearby Knivskjellodden, accessible only by a long hike.",
+      "The North Cape is situated at a latitude of 71 degrees 10 minutes north."
+    ]
+  },
     image: "/geo-images/norway/north-cape.webp",
   },
   {
@@ -291,6 +539,27 @@ export const norwayNature: POI[] = [
       hu: ["Norvégia és a nordikus térség legmagasabb csúcsa.", "A Jotunheimen hegység része.", "Népszerű túrázók és hegymászók körében.", "Gyakran gleccseres tájjal együtt emlegetik.", "A norvég hegyek klasszikus jelképe."],
       ro: ["Cel mai înalt vârf din Norvegia și din regiunea nordică.", "Parte a zonei montane Jotunheimen.", "Popular printre drumeți și alpiniști.", "Adesea asociat cu peisaje glaciare.", "Un simbol clasic al munților norvegieni."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Galdhøpiggen este considerat acoperișul Europei de Nord și reprezintă o provocare legendară pentru alpiniștii și drumeții care vizitează Parcul Național Jotunheimen. Deși nu a fost recunoscut ca cel mai înalt vârf până în anul 1850, măsurătorile ulterioare au confirmat supremația sa absolută în întreaga regiune scandinavă. Ascensiunea spre vârf implică, de cele mai multe ori, traversarea câmpului de gheață Styggebreen, un traseu care necesită utilizarea echipamentelor de siguranță și a corzilor. În cel mai înalt punct a fost construită o cabană modernă ce oferă o priveliște panoramică incredibilă, răsplătind efortul fiecărui alpinist. Geografie K7 — Formarea și dinamica munților înalți.",
+    en: "Galdhøpiggen is a towering giant in the Jotunheimen mountain range, holding the prestigious title of the highest peak in Norway and Northern Europe. The mountain offers a classic alpine challenge, combining rocky ridges with extensive glacial crossings, making it a pilgrimage for serious hikers. The summit provides an unparalleled vantage point over a vast sea of peaks, deep valleys, and blue glaciers. Its prominence makes it a central figure in Norwegian outdoor culture and the ultimate symbol of the nation's rugged alpine environment."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Vârful atinge o altitudine impresionantă de 2.469 metri, consolidându-și statutul de cel mai înalt punct din Scandinavia.",
+      "Numele regiunii Jotunheimen se traduce literal prin \"Căminul Giganților\", un termen adânc înrădăcinat în mitologia nordică.",
+      "În zilele cu cer perfect senin, de pe acest vârf se poate admira aproximativ o zecime din suprafața totală a Norvegiei."
+    ],
+    en: [
+      "The summit of Galdhøpiggen reaches an elevation of 2,469 meters above sea level.",
+      "The first recorded successful ascent of the mountain took place in 1850.",
+      "There is a small cabin at the summit where hikers can purchase refreshments in the summer.",
+      "The primary hiking route requires crossing the Styggebreen glacier with a guide."
+    ]
+  },
     image: "/geo-images/norway/galdhopiggen.webp",
   },
   {
@@ -311,6 +580,27 @@ export const norwayNature: POI[] = [
       hu: ["Norvégia egyik legmagasabb hegye.", "Gleccseréről és havas csúcsáról ismert.", "A Jotunheimen területén található.", "Népszerű a tapasztalt túrázók körében.", "Gyakran hasonlítják a Galdhøpiggenhez."],
       ro: ["Unul dintre cei mai înalți munți din Norvegia.", "Cunoscut pentru ghețarul și vârful său înzăpezit.", "Situat în zona Jotunheimen.", "Popular printre drumeții experimentați.", "Adesea comparat cu Galdhøpiggen."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Glittertind se remarcă drept una dintre cele mai cunoscute și spectaculoase formațiuni din zona munților înalți norvegieni, fiind un rival istoric al vârfului Galdhøpiggen. Altitudinea sa oficială este puternic influențată de grosimea calotei de gheață care îi acoperă vârful, astfel încât dimensiunea sa scade treptat din cauza schimbărilor climatice globale. Datorită acestui ghețar gros, a deținut cândva titlul de cel mai înalt punct din Scandinavia, dar topirea straturilor de zăpadă l-a coborât pe locul al doilea. Peisajul alpin clasic îl transformă într-o destinație excelentă pentru drumeții de vară și într-un adevărat paradis pentru schiorii de altitudine în timpul iernii. Geografie K8 — Impactul schimbărilor climatice asupra ghețarilor.",
+    en: "Glittertind is the dramatic neighbor to Galdhøpiggen and stands as the second-highest mountain in Norway. Its defining feature is the permanent snow and ice cap that crowns its summit, giving the peak its distinctive, shining appearance. Historically, it competed for the title of Norway's highest mountain until glacial melting reduced its overall elevation. The trek to the top is physically demanding but rewards climbers with vast, sweeping panoramas of the untouched Jotunheimen National Park."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Fără a lua în calcul calota sa de gheață, înălțimea actuală a vârfului de piatră măsoară exact 2.452 de metri.",
+      "În cadrul măsurătorilor realizate în deceniile trecute, grosimea zăpezii ridica altitudinea muntelui până la 2.472 de metri.",
+      "Ascensiunea sa este deosebit de populară printre pasionații experimentați de schi alpin, în special în lunile de primăvară."
+    ],
+    en: [
+      "Glittertind's current elevation is roughly 2,452 meters, varying with the thickness of its glacier.",
+      "In the early 20th century, the summit glacier made it taller than Galdhøpiggen.",
+      "The mountain's name roughly translates to 'The Shining Peak'.",
+      "It was first officially conquered by climbers in the summer of 1841."
+    ]
+  },
     image: "/geo-images/norway/glittertind.webp",
   },
   {
@@ -331,6 +621,27 @@ export const norwayNature: POI[] = [
       hu: ["Norvégia legnagyobb tava.", "Csónakázásra és horgászatra is használják.", "Több fontos belföldi város partján fekszik.", "Kelet-Norvégia klasszikus édesvízi tája.", "Népszerű a festői tóparti nyaralásokhoz."],
       ro: ["Cel mai mare lac din Norvegia.", "Folosit pentru plimbări cu barca și pescuit.", "Mărginește mai multe orașe importante din interior.", "Un peisaj clasic de apă dulce din estul Norvegiei.", "Popular pentru vacanțe pitorești pe malul lacului."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Lacul Mjøsa reprezintă cea mai întinsă suprafață de apă dulce din Norvegia, iar forma sa alungită îi conferă aspectul unui fiord continental spectaculos. În perioadele istorice, apele acestui lac constituiau ruta principală de transport pentru mărfuri și pasageri între regiunile sudice și zonele interioare ale țării. De-a lungul coastelor sale au prosperat ferme fertile, beneficiind din plin de efectul moderator al masei mari de apă asupra climei locale, favorizând astfel dezvoltarea agriculturii. Astăzi, zona servește ca bază centrală pentru recreerea internă, atrăgând atât localnici, cât și turiști dornici de liniște. Geografie K6 — Formarea și tipologia bazinelor lacustre.",
+    en: "Lake Mjøsa is the largest and arguably most important lake in Norway, functioning as a massive freshwater artery in the eastern inland region. It has historically served as a vital transport route, connecting major farming communities, historic towns, and early industrial centers. The lake's deep waters are surrounded by gently rolling hills and fertile agricultural lands, creating a serene and uniquely inland Norwegian landscape. Today, it remains a cultural and recreational hub, best experienced aboard the historic paddle steamer Skibladner."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Adâncimea lacului coboară până la 468 de metri, clasându-l printre cele mai adânci corpuri de apă dulce din Europa.",
+      "Padelele navei istorice cu aburi Skibladner au brăzdat apele acestui lac neîntrerupt încă din anul 1856.",
+      "Pe malurile sale sunt situate trei orașe norvegiene de o importanță deosebită: Hamar, Gjøvik și Lillehammer."
+    ],
+    en: [
+      "Lake Mjøsa has a maximum depth of 468 meters, making it one of Europe's deepest lakes.",
+      "It covers a total surface area of 365 square kilometers.",
+      "The PS Skibladner has been operating on the lake since 1856, making it the world's oldest paddle steamer in regular service.",
+      "During the 1994 Winter Olympics, the lake served as a backdrop for the host city Lillehammer."
+    ]
+  },
     image: "/geo-images/norway/lake-mjosa.webp",
   },
   {
@@ -351,6 +662,27 @@ export const norwayNature: POI[] = [
       hu: ["Norvégia leghosszabb folyója.", "Kelet-Norvégián folyik át.", "Fontos a vízenergiában és a közlekedésben.", "Erdők és mezőgazdasági területek mellett halad.", "Az Oslofjord térségéhez közel ér véget."],
       ro: ["Cel mai lung râu din Norvegia.", "Curge prin estul Norvegiei.", "Important pentru hidroenergie și transport.", "Trece pe lângă păduri și terenuri agricole.", "Se termină în apropierea regiunii Oslofjord."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Glomma este cel mai lung și mai voluminos râu din Norvegia, acționând ca o adevărată arteră vitală pentru întreaga parte de est a țării. De-a lungul multor secole, a avut un rol indispensabil în transportul buștenilor de lemn, facilitând flotajul acestora din pădurile dese către gatere și porturile de coastă. Bazinul său hidrografic vast acoperă mai mult de o zecime din suprafața terestră totală a statului norvegian. În prezent, debitul uriaș al râului este captat de numeroase hidrocentrale, care au o contribuție majoră și esențială la producția națională de energie regenerabilă. Geografie K7 — Activitatea de modelare a reliefului desfășurată de râuri.",
+    en: "The Glomma River is the longest and most voluminous river in Norway, acting as a crucial geographic and economic spine for the eastern part of the country. From its origin in the mountainous Trøndelag region, it carves a path through dense forests and agricultural plains before emptying into the Oslofjord. The river has been central to Norway's industrial development, facilitating extensive timber floating and providing massive hydroelectric power. Its diverse ecosystem supports rich fish populations and forms a vital habitat corridor across the country."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Lungimea totală a cursului de apă atinge 621 de kilometri, traversând o varietate uriașă de peisaje naturale.",
+      "Râul captează apele unui bazin hidrografic extins, a cărui suprafață totală depășește 40.000 de kilometri pătrați.",
+      "Pe cursul principal al râului Glomma funcționează aproximativ 20 de hidrocentrale de o importanță majoră pentru economie."
+    ],
+    en: [
+      "The Glomma River extends for an impressive 621 kilometers.",
+      "Its watershed covers roughly 13 percent of Norway's total land area.",
+      "Timber floating on the Glomma was a major industry until the practice officially ended in 1985.",
+      "The Vorma River, the main outlet of Lake Mjøsa, is a major tributary of the Glomma."
+    ]
+  },
     image: "/geo-images/norway/river-glomma.webp",
   },
   {
@@ -371,6 +703,27 @@ export const norwayNature: POI[] = [
       hu: ["A szárazföldi Norvégia legnagyobb szigete.", "Hidakkal és kompútvonalakkal kapcsolódik.", "Fontos az északi part menti utazásban.", "Hegyeket és településeket is magában foglal.", "Kiemelt szigetföldrajzi kulcsszó Norvégiához."],
       ro: ["Cea mai mare insulă a Norvegiei continentale.", "Conectată prin poduri și rute de feribot.", "Importantă în călătoriile de coastă din nord.", "Include atât munți, cât și așezări.", "Un cuvânt-cheie major pentru geografia insulelor din Norvegia."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Hinnøya este cea mai mare insulă a Norvegiei în afara arhipelagului Svalbard și oferă o imagine impresionant de diversă a geografiei specifice coastei nordice. Teritoriul său vast este împărțit administrativ între două județe importante, Nordland și Troms, iar linia sa de coastă este profund secționată de fiorduri dramatice. Insula funcționează ca un punct de legătură crucial între arhipelagurile Lofoten și Vesterålen și zona continentală a Peninsulei Scandinave. Pe lângă vârfurile stâncoase semețe, peisajul este punctat de sate mici și tradiționale de pescari, precum și de enclave agricole surprinzătoare. Geografie K8 — Arhipelagurile și stilul de viață de-a lungul coastelor.",
+    en: "Hinnøya is a massive and geographically diverse island in Northern Norway, acting as the crucial land bridge between the mainland and the Vesterålen and Lofoten archipelagos. The landscape is a microcosm of Arctic Norway, featuring deep fjords, sharp mountain peaks, and fertile coastal lowlands. It supports a mix of traditional fishing villages, modern infrastructure, and robust Sámi heritage. The island's strategic location makes it an essential hub for transportation, commerce, and tourism in the high north."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Suprafața insulei însumează 2.204 kilometri pătrați, ceea ce o face mai mare decât multe micro-state de pe continentul european.",
+      "Legătura rutieră cu restul continentului este asigurată de podul Tjeldsund, o structură grandioasă a cărei lungime depășește 1.000 de metri.",
+      "Punctul său de maximă altitudine se găsește pe muntele Møysalen, care se ridică la 1.262 de metri deasupra nivelului mării."
+    ],
+    en: [
+      "Hinnøya is the largest island in mainland Norway, covering 2,204 square kilometers.",
+      "The island is divided among three different Norwegian counties.",
+      "The Tjeldsund Bridge, connecting Hinnøya to the mainland, spans over 1,000 meters.",
+      "Harstad, the only town on the island, is a major administrative center for the north."
+    ]
+  },
     image: "/geo-images/norway/hinnoya.webp",
   },
   {
@@ -391,6 +744,27 @@ export const norwayNature: POI[] = [
       hu: ["Gyakran Norvégia miniatűr változatának nevezik.", "Fjordjairól, csúcsairól és strandjairól híres.", "Népszerű panorámautakhoz és túrákhoz.", "Fontos arktiszi szigeti turisztikai célpont.", "Erős vizuális kulcsszó Norvégia-utazáshoz."],
       ro: ["Adesea descrisă ca o Norvegie în miniatură.", "Celebră pentru fjorduri, vârfuri și plaje.", "Populară pentru drumuri panoramice și drumeții.", "O destinație majoră de turism pe insulă arctică.", "Cuvânt-cheie vizual puternic pentru călătoriile în Norvegia."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Insula Senja și-a câștigat pe deplin renumele de \"Norvegie în miniatură\", adăpostind pe teritoriul ei toate elementele care fac această țară atât de captivantă. Peisajul său vestic este dominat de stânci abrupte și sălbatice care cad dramatic în mare, contrastând puternic cu relieful mai blând și pădurile dese de pe partea estică. Insula atrage un număr din ce în ce mai mare de pasionați de drumeții și de bicicliști dornici să exploreze Traseele Turistice Naționale panoramice. În timpul iernii, se transformă într-unul dintre cele mai excelente și pașnice locuri pentru observarea grandioasei aurore boreale. Geografie K8 — Interacțiunea complexă dintre climă și topografia locală.",
+    en: "Senja is often affectionately described as 'Norway in miniature' due to its astonishing concentration of the country's diverse landscapes on a single island. The rugged outer coast is battered by the Atlantic Ocean and features steep, dramatic mountains plunging into the sea. Conversely, the inner eastern side offers calm, green landscapes with pine forests and quiet bays. This dramatic duality makes Senja a rising star in Arctic tourism, celebrated for its spectacular driving routes and isolated fishing outposts."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "După vasta Hinnøya, Senja ocupă poziția a doua în clasamentul celor mai mari insule ale Norvegiei continentale.",
+      "Peretele vertical de stâncă al muntelui Segla, având o înălțime de 639 de metri, este printre cele mai fotografiate minuni ale insulei.",
+      "Parcul Național Ånderdalen, amplasat chiar în centrul insulei, protejează și conservă un ecosistem remarcabil de divers și intact."
+    ],
+    en: [
+      "Senja is the second-largest island in mainland Norway, after Hinnøya.",
+      "The island is designated as one of Norway's 18 National Tourist Routes.",
+      "The unique 'Devil's Jaw' (Okshornan) mountain range is one of the island's most famous coastal landmarks.",
+      "Ånderdalen National Park protects a large portion of the island's inland pine forests."
+    ]
+  },
     image: "/geo-images/norway/senja.webp",
   },
   {
@@ -411,6 +785,27 @@ export const norwayNature: POI[] = [
       hu: ["Oslo fő erdőövezete.", "Erősen használják túrázásra és síelésre.", "Sok tavat és ösvényt tartalmaz.", "Mindennapi kikapcsolódási zóna a lakóknak.", "Klasszikus példa a városközeli természetre."],
       ro: ["Principala zonă forestieră din jurul Oslo-ului.", "Folosită intens pentru drumeții și schi.", "Conține multe lacuri și trasee.", "O zonă de recreere zilnică pentru locuitori.", "Exemplu clasic de natură accesibilă din oraș."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Pădurea uriașă Nordmarka este adânc înrădăcinată în identitatea orașului Oslo, simbolizând conexiunea zilnică și profundă a locuitorilor capitalei cu natura sălbatică. Această regiune vastă ascunde sute de kilometri de trasee de drumeție perfect întreținute și piste de schi fond care rămân active pe tot parcursul anului. Printre pădurile dense și bătrâne de conifere se ascund o multitudine de lacuri de diferite dimensiuni, ideale pentru înot în zilele de vară și pentru patinaj iarna. Grație conceptului norvegian unic \"allemannsretten\", dreptul universal de a explora liber natura, Nordmarka rămâne complet deschisă și accesibilă tuturor oamenilor. Geografie K7 — Taigaua și caracteristicile ecosistemelor de pădure boreală.",
+    en: "Nordmarka is an expansive and beloved wilderness area that forms the natural northern boundary of the city of Oslo. This deep, forested expanse is fundamental to the local concept of 'friluftsliv' (outdoor life), providing city dwellers with immediate access to pristine nature. The area is crisscrossed by a vast network of trails used for hiking in the summer and cross-country skiing in the winter. It serves as the green lung of the capital, preserving biodiversity while actively supporting the mental and physical well-being of the population."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Întreaga zonă împădurită acoperă un perimetru uriaș de peste 430 de kilometri pătrați, direct în partea de nord a metropolei Oslo.",
+      "În timpul sezonului rece, sportivii și amatorii au la dispoziție o rețea de piste de schi fond pregătite, însumând aproximativ 450 de kilometri.",
+      "Numeroase cabane forestiere tradiționale, numite hytte, oferă adăpost cald și hrană reconfortantă exploratorilor și schiorilor."
+    ],
+    en: [
+      "Nordmarka covers an area of roughly 430 square kilometers directly north of Oslo.",
+      "The forest contains over 2,000 kilometers of prepared ski trails during the winter months.",
+      "Many traditional wooden sports cabins in the forest serve fresh waffles and coffee to hikers.",
+      "The area is strictly protected against major urban development to preserve its wild character."
+    ]
+  },
     image: "/geo-images/norway/nordmarka.webp",
   },
   {
@@ -431,6 +826,27 @@ export const norwayNature: POI[] = [
       hu: ["Norvégia és Svédország közti határerdő.", "Az erdei finn örökségről ismert.", "Gazdag vadvilágban és távoli természetben.", "Népszerű faházakhoz és túrázáshoz.", "Erős kulcsszó a csendes vadon utazásához."],
       ro: ["Regiune forestieră de graniță între Norvegia și Suedia.", "Cunoscută pentru moștenirea finlandezilor de pădure.", "Bogată în faună și natură izolată.", "Populară pentru cabane și drumeții.", "Un cuvânt-cheie puternic pentru călătorii liniștite în sălbăticie."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Finnskogen, care se traduce literal prin \"Pădurea Finlandezilor\", este un spațiu forestier imens și izolat de pe granița dintre Norvegia și Suedia, o zonă care poartă o istorie etnică absolut fascinantă. În secolul al XVII-lea, fermieri emigranți din Finlanda s-au stabilit în acest peisaj dens, fiind recunoscuți ca maeștri desăvârșiți ai agriculturii bazate pe tăierea și arderea pădurilor. Terenurile de aici s-au păstrat ca o sălbăticie neatinsă, constituind un refugiu sigur unde prădători scandinavi precum râșii, lupii și urșii bruni trăiesc nestingheriți. Această liniște profundă a peisajului degajă o atmosferă singulară, foarte diferită de agitația turistică întâlnită în regiunea fiordurilor. Istorie K7 — Dinamica proceselor de migrație de la începutul epocii moderne.",
+    en: "Finnskogen, or the 'Forest of the Finns', is a vast and deeply atmospheric woodland region straddling the border between Norway and Sweden. The area takes its name from the Forest Finns who migrated here in the 16th and 17th centuries, bringing unique slash-and-burn agricultural techniques. Today, the forest is known for its eerie tranquility, rich folklore involving magic and mysticism, and exceptional wildlife, including wolves and bears. It offers a profound sense of isolation and a deep dive into an often-overlooked chapter of Scandinavian cultural history."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Dialectul cu totul specific folosit de descendenții finlandezilor de pădure, cunoscuți ca Skogfinner, s-a menținut în zonă până la mijlocul secolului XX.",
+      "Întreaga regiune este formată dintr-o întindere masivă și aproape impenetrabilă de păduri vechi de conifere.",
+      "Locul atrage în mod deosebit pasionații de supraviețuire în sălbăticie și taberele dedicate practicilor bushcraft."
+    ],
+    en: [
+      "The Forest Finns were an officially recognized national minority in Norway.",
+      "Many lakes and hills in the region still bear names of Finnish origin.",
+      "The forest is a prime habitat for the elusive Eurasian lynx and brown bear.",
+      "The long-distance Finnskogleden trail runs for 240 kilometers through the heart of the forest."
+    ]
+  },
     image: "/geo-images/norway/finnskogen.webp",
   }
 ];
@@ -454,6 +870,27 @@ export const norwayCities: POI[] = [
       hu: ["Fontos sarkvidéki kutatási központ.", "A város híres az északi fény turizmusáról.", "Messze az északi sarkkör fölött fekszik.", "Észak-Norvégia egyik legismertebb városa."],
       ro: ["Este un important centru de cercetare arctică.", "Orașul este celebru pentru turismul dedicat aurorei boreale.", "Se află mult deasupra Cercului Polar.", "Este unul dintre cele mai cunoscute orașe din nordul Norvegiei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Tromsø este cea mai mare și vibrantă așezare urbană din nordul Norvegiei, reprezentând un hub global esențial pentru desfășurarea cercetărilor de la Polul Nord. Dezvoltarea sa istorică a fost propulsată inițial de industriile aspre de pescuit maritim și de vânătoarea intensă de foci, devenind mai târziu centrul de lansare pentru mari expediții arctice, fapt care i-a adus titlul de \"Poartă către Arctica\". În prezent, orașul prosperă cu o efervescență specifică marilor centre universitare, consolidându-și în același timp reputația ca destinație supremă pentru turismul de iarnă și vânătoarea aurorei boreale. Construit parțial pe insula pitorească Tromsøya, orașul este conectat de continent prin poduri arcuite și grațioase. Geografie K8 — Viața și dinamica socială dincolo de Cercul Polar de Nord.",
+    en: "Tromsø is a vibrant Arctic metropolis located almost 350 kilometers north of the Arctic Circle, often referred to as the 'Paris of the North'. It serves as Norway's primary gateway to the high Arctic and has a rich history as the starting point for legendary polar expeditions. The city thrives in its extreme environment, boasting a lively cultural scene, the northernmost university in the world, and striking modern architecture like the Arctic Cathedral. It is globally recognized as one of the premier destinations for witnessing the spectacular Aurora Borealis."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Instituția de învățământ superior din Tromsø este oficial recunoscută ca fiind cea mai nordică universitate din lume.",
+      "Datorită poziționării sale extreme, între datele de 18 mai și 25 iulie, soarele nu dispare niciodată sub linia orizontului.",
+      "Din acest oraș de coastă au început unele dintre cele mai curajoase expediții istorice, inclusiv cele conduse de Roald Amundsen."
+    ],
+    en: [
+      "Tromsø was the starting point for polar explorers like Roald Amundsen and Fridtjof Nansen.",
+      "The city experiences the polar night from late November to mid-January.",
+      "It is home to the world's northernmost botanical garden, focusing on Arctic and alpine plants.",
+      "Tromsø has more historic wooden houses than any other city in Northern Norway."
+    ]
+  },
     image: "/geo-images/norway/tromso.webp",
   }
   ,
@@ -475,6 +912,27 @@ export const norwayCities: POI[] = [
       hu: ["Az 1904-es tűzvész után jellegzetes szecessziós stílusban épült újjá.", "Több szigeten fekszik, amelyeket hidak és alagutak kötnek össze.", "Fontos kapu a Sunnmøre-Alpok és a közeli fjordok felé.", "Híres az Aksla kilátópont panorámájáról.", "Norvégia egyik legismertebb tengerparti fotóhelye."],
       ro: ["A fost reconstruit în stil Art Nouveau distinctiv după incendiul din 1904.", "Este așezat pe mai multe insule legate prin poduri și tuneluri.", "Este o poartă importantă către Alpii Sunnmøre și fjordurile din apropiere.", "Este cunoscut pentru panorama de la punctul de belvedere Aksla.", "Una dintre cele mai cunoscute destinații de fotografie de coastă din Norvegia."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Orașul Ålesund reprezintă o adevărată bijuterie arhitecturală pe coasta norvegiană, a cărei estetică unică s-a născut, în mod paradoxal, dintr-un eveniment tragic. În anul 1904, un incendiu de proporții colosale a mistuit aproape în întregime vechea așezare din lemn, însă aceasta a fost reconstruită într-un timp record de doar trei ani, adoptând un stil Art Nouveau uniform și extrem de elegant. Situat la intersecția dintre mare și munte, orașul servește drept portal de acces către fiordurile magnifice din vest, inclusiv faimosul Geirangerfjord. Astăzi, Ålesund se mândrește cu faptul că găzduiește una dintre cele mai mari și mai vitale flote de pescuit comercial din întreaga Europă. Geografie K7 — Relația strânsă dintre geografia fizică a unui loc și strategiile de planificare urbană.",
+    en: "Ålesund is a striking coastal town internationally renowned for its remarkably cohesive and elegant Art Nouveau (Jugendstil) architecture. The city was completely rebuilt in this style following a devastating fire in 1904 that destroyed its original wooden center. Spread across several interconnected islands, Ålesund is deeply tied to the sea and the maritime industry, serving as a gateway to the spectacular Sunnmøre Alps and the Geirangerfjord. Its unique urban aesthetic and dramatic natural setting make it one of Norway's most picturesque settlements."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Întregul proces de reconstrucție al orașului a beneficiat de un sprijin financiar major din partea împăratului german Wilhelm al II-lea.",
+      "Punctul de belvedere situat pe vârful muntelui Aksla oferă o perspectivă largă asupra arhitecturii orașului și a arhipelagului.",
+      "Centrul orașului concentrează un număr incredibil de clădiri Art Nouveau, fiind o rezervație arhitecturală unică."
+    ],
+    en: [
+      "The Great Fire of Ålesund in 1904 left over 10,000 residents homeless in a single night.",
+      "Kaiser Wilhelm II of Germany sent substantial aid to help rebuild the city.",
+      "Visitors can climb 418 steps to the Aksla viewpoint for a panoramic view of the islands.",
+      "Ålesund is the undisputed capital of Norway's commercial fishing and maritime technology sector."
+    ]
+  },
     image: "/geo-images/norway/alesund.webp",
   },
   {
@@ -495,6 +953,27 @@ export const norwayCities: POI[] = [
       hu: ["Közvetlenül az északi sarkkör felett fekszik.", "Fontos közlekedési kapu Észak-Norvégiába.", "A közeli Saltstraumen árapályáramlásról ismert.", "Kiindulópont a Lofoten és a part menti kalandok felé.", "Erős repülési és katonai jelenléttel rendelkezik."],
       ro: ["Se află chiar la nord de Cercul Polar.", "Este o poartă importantă de transport către nordul Norvegiei.", "Este cunoscut pentru curentul de maree Saltstraumen din apropiere.", "Servește ca bază pentru Lofoten și aventurile de coastă.", "Orașul are o prezență puternică în aviație și armată."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Bodø este una dintre cele mai importante localități norvegiene aflate în proximitatea imediată a Cercului Polar, servind drept punct principal de tranzit pentru exploratorii care se îndreaptă spre insulele Lofoten. Deoarece a fost distrus aproape complet pe durata celui de-al Doilea Război Mondial, peisajul urban actual este puternic dominat de o arhitectură postbelică modernă și utilitară. Orașul marchează capătul nordic al rețelei feroviare Nordlandsbanen și funcționează simultan ca o bază strategică semnificativă pentru aviația militară norvegiană. În imediata sa vecinătate, vizitatorii pot admira Saltstraumen, cel mai puternic curent de maree din lume, ce reprezintă un fenomen hidrologic fascinant. Geografie K8 — Dezvoltarea rețelelor de transport și exploatarea resurselor naturale.",
+    en: "Bodø is a rapidly developing city situated on a spectacular peninsula just north of the Arctic Circle. It was largely destroyed during World War II but was rebuilt to become a modern hub of aviation, culture, and coastal commerce in Northern Norway. The city is famous for its proximity to Saltstraumen, the strongest tidal current in the world, and serves as a major transit point for ferries heading to the Lofoten Islands. Bodø's cultural profile has grown significantly, culminating in its selection as a European Capital of Culture."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Pe parcursul anului 2024, Bodø a primit distincția de Capitală Europeană a Culturii, o premieră la nord de Cercul Polar.",
+      "Magistrala feroviară Nordlandsbanen acoperă o distanță impresionantă de 729 de kilometri până la Trondheim.",
+      "Curenții marini rapizi de la Saltstraumen pot atinge viteze uluitoare de până la 40 de kilometri pe oră în timpul fluxului."
+    ],
+    en: [
+      "Bodø was heavily bombed in 1940 and subsequently rebuilt with a functionalist design.",
+      "The nearby Saltstraumen maelstrom can reach speeds of up to 20 knots.",
+      "Bodø is the northern terminus of the Norwegian railway system (Nordlandsbanen).",
+      "The city was awarded the title of European Capital of Culture for the year 2024."
+    ]
+  },
     image: "/geo-images/norway/bodo.webp",
   },
   {
@@ -515,6 +994,27 @@ export const norwayCities: POI[] = [
       hu: ["Norvégia déli partjának egyik fontos nyári városa.", "Fontos kompösszeköttetés Norvégia és Dánia között.", "A népszerű városi strandról és a kikötői életről ismert.", "Közel fekszik a déli szigetvilághoz.", "Évente rendezvény- és fesztiválközpontként is működik."],
       ro: ["Un important oraș de vară pe coasta sudică a Norvegiei.", "Legătură majoră de feribot între Norvegia și Danemarca.", "Cunoscut pentru plaja urbană populară și viața portuară.", "Aproape de peisajul insular sudic.", "Găzduiește scene anuale de evenimente și festivaluri."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Kristiansand este principalul centru urban din regiunea de sud a Norvegiei, fiind considerat de către cetățenii țării un adevărat paradis pentru vacanțele de vară. Așezarea a fost fondată strategic în 1641 de regele Christian al IV-lea al Danemarcei, iar nucleul său central prezintă și astăzi o rețea stradală ortogonală perfectă, marcând un exemplu clar de proiectare urbană renascentistă. Beneficiind de o locație ideală pe coasta apelor Skagerrak, orașul a evoluat într-un nod maritim de o importanță vitală, oferind cele mai rapide rute de feribot pentru călătorii către Danemarca. Cultura locală este definită de atmosfera relaxată, influențată de zilele lungi și calde ale verii. Istorie K6 — Planificarea și fundarea noilor centre urbane în zorii epocii moderne.",
+    en: "Kristiansand is the vibrant capital of Southern Norway (Sørlandet) and a quintessential summer destination for Norwegians. The city was meticulously planned in the 17th century, resulting in a strict grid layout known as the 'Kvadraturen' that still defines the city center today. Known for its sunny climate, beautiful archipelagos, and family-friendly atmosphere, it exudes a relaxed coastal charm. It also serves as a crucial transport hub, connecting Norway to Denmark and the European continent via extensive ferry networks."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Atracția numărul unu pentru familii din Norvegia rămâne celebrul parc zoologic și de distracții al orașului, Dyreparken.",
+      "Structura strict rectangulară a străzilor din cartierul Kvadraturen este o moștenire directă a designului urban din secolul al XVII-lea.",
+      "Bystranda, populara plajă urbană de nisip a orașului, este amenajată surprinzător de aproape de centrul plin de viață."
+    ],
+    en: [
+      "The city was founded in 1641 by King Christian IV of Denmark-Norway.",
+      "Kristiansand Zoo and Amusement Park is the most visited attraction in Norway after Holmenkollen.",
+      "The city's historic fish market, Fiskebrygga, is a lively center for local seafood dining.",
+      "It is home to the Kilden Performing Arts Centre, a striking architectural landmark on the waterfront."
+    ]
+  },
     image: "/geo-images/norway/kristiansand.webp",
   },
   {
@@ -535,6 +1035,27 @@ export const norwayCities: POI[] = [
       hu: ["Óvárosa Skandinávia egyik legjobban megőrzött erődített központja.", "A Glomma és az Oslofjord-régió találkozásánál fekszik.", "1567-ben II. Frigyes király alapította.", "Ingyenes komp köti össze a folyó két partját.", "Népszerű a folyóparti séták és a nyári események miatt."],
       ro: ["Orașul vechi este unul dintre cele mai bine păstrate centre fortificate din Scandinavia.", "Se află acolo unde Glomma ajunge în regiunea Oslofjord.", "A fost fondat în 1567 de regele Frederic al II-lea.", "Un feribot gratuit leagă cele două maluri ale râului.", "Popular pentru plimbări pe malul râului și evenimentele de vară."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Poziționat la vărsarea râului Glomma, Fredrikstad se mândrește cu faptul că a conservat unul dintre cele mai intacte orașe fortificate din întreaga Europă de Nord. Fondarea așezării a avut loc în anul 1567 ca urmare a distrugerii orașului vecin Sarpsborg de către armatele suedeze, forțând mutarea populației în această locație sigură. Protejat de un ingenios sistem de apărare în formă de stea, centrul vechi a devenit un loc vibrant, plin de galerii de artă și cafenele cochete. Pe malul opus al apei, secțiunea modernă s-a dezvoltat masiv pe baza succesului istoric obținut în industria navală și în prelucrarea cherestelei. Istorie K6 — Arhitectura defensivă a fortărețelor și impactul războaielor scandinave.",
+    en: "Fredrikstad is a historic city located at the mouth of the massive Glomma river, celebrated for possessing the best-preserved fortress town in Northern Europe. The old town, Gamlebyen, is defined by its distinct star-shaped moats and perfectly maintained 17th-century military architecture. Beyond its historical fortifications, Fredrikstad has evolved into a modern industrial and cultural center with a strong maritime identity. The contrast between the bustling modern city and the serene, historic fortress district creates a unique urban dynamic."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Impresionantele fortificații care înconjoară orașul vechi au fost construite în secolul al XVII-lea, inspirate de inovațiile militare olandeze.",
+      "Regele Danemarcei și Norvegiei, Frederic al II-lea, este fondatorul orașului, oferindu-i și numele pe care îl poartă astăzi.",
+      "Pentru a asigura un flux constant de navetiști, primăria operează un serviciu eficient de feriboturi fluviale gratuite."
+    ],
+    en: [
+      "Fredrikstad was founded in 1567 by King Frederick II following the burning of nearby Sarpsborg.",
+      "The star-shaped fortress was constructed to defend against Swedish attacks.",
+      "The city has a long history of shipbuilding and timber exports via the Glomma river.",
+      "Gamlebyen is not just a museum; it remains a living neighborhood with shops and residents."
+    ]
+  },
     image: "/geo-images/norway/fredrikstad.webp",
   },
   {
@@ -555,6 +1076,27 @@ export const norwayCities: POI[] = [
       hu: ["A Drammen alsó völgyterületére épült.", "A Spiralen út és alagút helyi ikon.", "Nagy folyóparti megújítási projektjéről ismert.", "Közel van az erdős dombokhoz és síterületekhez.", "Erős regionális kereskedelmi és szolgáltatási központ."],
       ro: ["S-a dezvoltat în jurul văii inferioare a râului Drammen.", "Drumul și tunelul Spiralen sunt repere locale.", "Cunoscut pentru un amplu proiect de reînnoire a falezei.", "Aproape de dealuri împădurite și zone de schi.", "Un centru regional puternic pentru comerț și servicii."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Orașul Drammen este astăzi recunoscut ca fiind unul dintre cele mai de succes modele de revitalizare urbană desfășurate în ultimele decenii în Norvegia. Fostul peisaj sumbru, dominat de uzine de hârtie și poluare industrială, a lăsat loc unui oraș riveran modern, prietenos cu mediul și plin de vitalitate. Pe ambele maluri ale râului Drammenselva se întind acum parcuri verzi și promenade, în timp ce apele au fost repopulate cu succes de turmele de somoni. O caracteristică arhitecturală inedită a orașului este reprezentată de un tunel rutier spiralat săpat direct în roca muntelui Bragernesåsen, unic în lume. Geografie K8 — Transformarea zonelor industriale părăsite și strategii de dezvoltare urbană.",
+    en: "Drammen is an industrial city situated at the end of the Drammensfjord that has undergone one of Norway's most impressive urban transformations. Once known primarily for heavy industry, timber, and traffic congestion, it has successfully reinvented its riverfront into a clean, modern, and attractive recreational space. The city is defined by the Drammen River that divides it, crossed by the iconic Y-shaped bridge. Today, it stands as a model for urban renewal, combining green spaces, modern architecture, and strong transport links to Oslo."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Tunelul ingenios denumit Spiralen urcă mașinile pe vârful dealului parcurgând șase rotații și jumătate în interiorul stâncii.",
+      "Podul pietonal Ypsilon a devenit un simbol datorită designului său suspendat care conectează malurile prin trei brațe divergente.",
+      "Drammen se mândrește cu faptul că operează unul dintre cele mai vitale porturi maritime dedicate importului de autoturisme."
+    ],
+    en: [
+      "Drammen is famous for the 'Spiralen', a unique corkscrew tunnel inside a mountain leading to a viewpoint.",
+      "The city's river was notoriously polluted in the 20th century but is now a popular salmon fishing spot.",
+      "It boasts the largest public square in Norway, Bragernes Torg.",
+      "Drammen is a major hub for importing cars into Norway via its large port."
+    ]
+  },
     image: "/geo-images/norway/drammen.webp",
   },
   {
@@ -575,6 +1117,27 @@ export const norwayCities: POI[] = [
       hu: ["A Stavanger környéki nagyvárosi térség része.", "Kerékpárosbarát útvonalairól és családi lakónegyedeiről ismert.", "Közel van fjordokhoz, strandokhoz és az Északi-tenger partjához.", "Növekvő kiskereskedelmi és szolgáltatási központ.", "Erősen kapcsolódik a regionális munkaerőpiacra."],
       ro: ["Face parte din zona metropolitană Stavanger.", "Cunoscut pentru trasee prietenoase cu bicicliștii și locuințe de familie.", "Aproape de fjorduri, plaje și coasta Mării Nordului.", "Un centru în creștere pentru retail și servicii.", "Puternic legat de piața regională a muncii."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Sandnes se află în imediata vecinătate sudică a metropolei Stavanger, afirmându-se ca un oraș industrial și rezidențial cu o expansiune remarcabil de rapidă. Istoric, economia locală s-a sprijinit ferm pe fabricarea de cărămizi, producția de textile de calitate și asamblarea de biciclete, însă boom-ul petrolier a transformat ireversibil soarta întregii regiuni. Orașul de astăzi oferă cetățenilor săi opțiuni excelente pentru un stil de viață activ în natură, bucurându-se de o rețea amplă de piste pentru biciclete. Apele adânci ale Gandsfjordului pătrund până în inima orașului, aducând un suflu vibrant de natură maritimă direct în mediul urbanizat. Geografie K8 — Dinamica proceselor de industrializare și tranziția spre suburbanizare.",
+    en: "Sandnes is a rapidly expanding city in the Rogaland region, functioning closely with neighboring Stavanger to form a large metropolitan area. Originally established as an industrial center focused on brickworks, pottery, and textiles, it has shifted towards the energy, technology, and retail sectors. The city is characterized by its long, flat coastline along the Gandsfjord and easy access to the expansive agricultural plains of Jæren. It maintains a strong identity rooted in cycling culture and outdoor recreation."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Timp de mai multe decenii, sub emblema brandului DBS, orașul a funcționat drept inima producției de biciclete a Norvegiei.",
+      "Statisticile demografice indică faptul că Sandnes găzduiește una dintre populațiile cu cea mai tânără vârstă medie din țară.",
+      "Tradiția istorică în producția de obiecte din ceramică a lăsat o amprentă profundă asupra arhitecturii și moștenirii industriale."
+    ],
+    en: [
+      "Sandnes was traditionally known as the 'bicycle city' due to the historic Øglænd bicycle factory.",
+      "The city is one of the fastest-growing municipalities in Norway by population.",
+      "It hosts the annual Blink festival, a major international summer ski festival.",
+      "The historic brick industry was fueled by the high-quality clay found in the region."
+    ]
+  },
     image: "/geo-images/norway/sandnes.webp",
   },
   {
@@ -595,6 +1158,27 @@ export const norwayCities: POI[] = [
       hu: ["Gyakran Norvégia legrégebbi városaként írják le.", "Erősen kötődik a viking kor történelméhez.", "Népszerű kikötőváros és nyári üdülőhely a fjordnál.", "A történelmi Slottsfjellet terület otthona.", "Ismert a vitorlázásról és a part menti turizmusról."],
       ro: ["Adesea descris drept cel mai vechi oraș din Norvegia.", "Puternic legat de istoria epocii vikinge.", "Oraș portuar și de vară popular pe fjord.", "Găzduiește zona istorică Slottsfjellet.", "Cunoscut pentru navigație și turismul de coastă."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Tønsberg este considerat pe scară largă drept cel mai vechi oraș din Norvegia, având o istorie care se întinde până în perioada vikingă timpurie. Conform surselor istorice medievale, a fost fondat înainte de anul 900 și a servit ca un important centru de putere regală și comercială. Astăzi, orașul de coastă atrage vizitatorii cu ruinele fortăreței Slottsfjell, care domină panorama urbană, și cu un port vibrant plin de bărci tradiționale și ambarcațiuni moderne. Este, de asemenea, un centru cultural viu, găzduind numeroase festivaluri de muzică și evenimente pe parcursul verii. Istorie K6 — Fondarea orașelor scandinave medievale.",
+    en: "Tønsberg proudly holds the title of Norway's oldest town, with roots stretching deep into the Viking Age and the saga of King Harald Fairhair. Located along the scenic Oslofjord, the city boasts a rich maritime heritage and features the prominent Slottsfjell tower, the ruins of an ancient medieval fortress. During the summer, the city transforms into a vibrant hub for boating and tourism, with a lively harbor promenade filled with restaurants and historical ship replicas. It perfectly balances its ancient archaeological significance with modern coastal leisure."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Ruinele de pe dealul Slottsfjell aparțin unei fortărețe medievale care era cea mai mare din Norvegia în secolul al XIII-lea.",
+      "În apropierea orașului a fost descoperită celebra navă vikingă Oseberg, considerată una dintre cele mai bine păstrate din lume.",
+      "Tønsberg este recunoscut oficial ca cel mai vechi oraș existent pe teritoriul norvegian, fiind fondat în secolul al IX-lea."
+    ],
+    en: [
+      "According to the Icelandic sagas, Tønsberg was founded before the year 871.",
+      "The famous Oseberg Viking ship, now in Oslo, was discovered in a burial mound near Tønsberg.",
+      "Slottsfjellet was one of the strongest fortresses in Norway during the Middle Ages.",
+      "The city is a focal point for the construction of full-scale, seaworthy Viking ship replicas."
+    ]
+  },
     image: "/geo-images/norway/tonsberg.webp",
   },
   {
@@ -615,6 +1199,27 @@ export const norwayCities: POI[] = [
       hu: ["Az 1994-es téli olimpiának adott otthont.", "Erős téli sporthagyományairól ismert.", "A Mjøsa-tó déli végének közelében fekszik.", "Népszerű családbarát szabadtéri programok miatt.", "A Maihaugen szabadtéri múzeum otthona."],
       ro: ["A găzduit Jocurile Olimpice de Iarnă din 1994.", "Cunoscut pentru tradițiile puternice în sporturile de iarnă.", "Se află aproape de capătul sudic al lacului Mjøsa.", "Popular pentru activități în aer liber pentru familii.", "Găzduiește muzeul în aer liber Maihaugen."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Lillehammer a devenit cunoscut la nivel mondial ca gazdă a Jocurilor Olimpice de Iarnă din 1994, eveniment care i-a transformat complet infrastructura și reputația. Orașul este situat idilic pe malul estic al lacului Mjøsa, fiind înconjurat de păduri și munți excelenți pentru sporturile de iarnă. Dincolo de atracțiile sportive, Lillehammer găzduiește Maihaugen, unul dintre cele mai impresionante și mari muzee în aer liber din Europa, care ilustrează perfect viața tradițională din valea Gudbrandsdalen. Centrul pietonal al orașului, cu clădirile sale istorice din lemn, păstrează o atmosferă intimă și pitorească, specifică secolului al XIX-lea. Geografie K7 — Turismul sportiv și dezvoltarea regională.",
+    en: "Lillehammer is a picturesque inland town nestled at the northern end of Lake Mjøsa, famously recognized worldwide as the host of the 1994 Winter Olympics. The city retains a profound sporting legacy, maintaining world-class winter sports facilities that attract athletes from around the globe. Beyond sports, Lillehammer is a bastion of Norwegian folk culture, home to the expansive Maihaugen open-air museum which preserves rural architecture. Its charming, pedestrian-friendly main street, lined with wooden houses, offers a warm, traditional Norwegian atmosphere."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Lillehammer a organizat Jocurile Olimpice de Iarnă din 1994, considerate adesea drept cele mai reușite din istoria modernă.",
+      "Muzeul în aer liber Maihaugen cuprinde peste 200 de clădiri istorice din lemn aduse din întreaga vale Gudbrandsdalen.",
+      "Pârtiile de schi și trambulina olimpică Lysgårdsbakkene rămân repere vizuale majore și atracții pentru vizitatori."
+    ],
+    en: [
+      "The 1994 Winter Olympics in Lillehammer are often cited as one of the best-organized winter games in history.",
+      "Maihaugen is one of the largest open-air museums in Northern Europe, featuring over 200 historic buildings.",
+      "The town is a gateway to the Gudbrandsdalen valley, a major agricultural and cultural region.",
+      "Lillehammer was designated a UNESCO City of Literature in 2017."
+    ]
+  },
     image: "/geo-images/norway/lillehammer.webp",
   },
   {
@@ -635,6 +1240,27 @@ export const norwayCities: POI[] = [
       hu: ["Történelmileg szorosan kötődik a vasérc-szállításhoz.", "Észak-Norvégia egyik kulcsfontosságú kikötővárosa.", "Fontos szerepe volt a narviki csatákban a második világháborúban.", "Közel van a síterületekhez és a meredek hegyekhez.", "Az Ofotbanen vasút egyik fontos állomása."],
       ro: ["Legat istoric de exportul de minereu de fier.", "Unul dintre orașele-port cheie din nordul Norvegiei.", "Important în campania de la Narvik din Al Doilea Război Mondial.", "Aproape de terenuri de schi și munți abrupți.", "O oprire majoră pe ruta feroviară Ofoten."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Narvik este un oraș portuar cu o importanță strategică uriașă, fondat exclusiv pentru a asigura un terminal feroviar fără gheață pentru exportul de minereu de fier provenit din Suedia. Datorită Curentului Golfului, apele din Ofotfjord nu îngheață niciodată, permițând navigația pe tot parcursul anului. În timpul celui de-al Doilea Război Mondial, controlul asupra orașului a declanșat bătălii crâncene între forțele aliate și cele germane, o istorie documentată detaliat în muzeul local de război. Astăzi, Narvik este o destinație tot mai populară pentru pasionații de schi alpin, oferind pârtii cu o priveliște amețitoare direct deasupra fiordului. Istorie K8 — Resurse strategice în Al Doilea Război Mondial.",
+    en: "Narvik is a formidable northern port city shaped heavily by its strategic role in the export of Swedish iron ore and its dramatic World War II history. Located deep inside the Ofotfjord, the city is surrounded by steep, imposing mountains that offer some of the best alpine skiing in Scandinavia with direct views of the ocean. The heavy battles fought here in 1940 left a lasting mark on the city's identity, which is extensively documented in local museums. Today, Narvik remains an industrial powerhouse while increasingly focusing on its spectacular Arctic tourism potential."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Orașul a fost scena primei mari victorii a forțelor aliate împotriva Germaniei Naziste în primăvara anului 1940.",
+      "Calea ferată Ofotbanen este una dintre cele mai nordice linii ferate din lume, transportând milioane de tone de minereu de fier.",
+      "Telecabina din Narvik transportă vizitatorii la peste 650 de metri altitudine, oferind priveliști spectaculoase asupra fiordului."
+    ],
+    en: [
+      "The city was established specifically as an ice-free port for the massive iron ore mines in Kiruna, Sweden.",
+      "Narvik was the site of the first major Allied victory over German forces in World War II.",
+      "The Ofotbanen railway connecting Narvik to Sweden is one of the northernmost railway lines in the world.",
+      "The local ski resort offers a vertical drop of over 900 meters directly toward the fjord."
+    ]
+  },
     image: "/geo-images/norway/narvik.webp",
   },
   {
@@ -655,6 +1281,27 @@ export const norwayCities: POI[] = [
       hu: ["Finnmark egyik fontos központja.", "Az altai sziklarajzokról ismert.", "Népszerű kiindulópont az északi fény túrákhoz.", "Erős számi kulturális és sarkvidéki kapcsolatokkal rendelkezik.", "Fontos a folyami horgászat és a szabadtéri elérés szempontjából."],
       ro: ["Un centru important în Finnmark.", "Cunoscut pentru petroglifele de la Alta.", "Punct popular de plecare pentru tururile aurorii boreale.", "Legături puternice cu cultura sami și viața arctică.", "Important pentru pescuitul pe râu și accesul la natură."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Alta, adesea supranumit \"Orașul Aurorei Boreale\", este o așezare arctică importantă din regiunea Finnmark, renumită pentru condițiile meteorologice favorabile observării acestui fenomen celest. Orașul este situat la capătul fiordului Altafjord și a reprezentat de-a lungul istoriei un punct de întâlnire esențial între populația Sami, populația norvegiană și cea kven. Moștenirea sa străveche este certificată de prezența unor situri arheologice excepționale, care includ mii de sculpturi rupestre preistorice uimitor de bine conservate. De asemenea, Alta a fost locul unui protest de mediu definitoriu în anii 1970, legat de construirea unui mare baraj hidroelectric. Geografie K8 — Așezări arctice și fenomene naturale.",
+    en: "Alta is the largest town in Norway's northernmost county of Finnmark, acting as a crucial educational and administrative center in the Arctic. It is world-renowned for its incredible UNESCO-protected rock carvings, which provide a fascinating glimpse into prehistoric hunter-gatherer societies that thrived in the region thousands of years ago. The town sits at the mouth of the Alta River, widely considered one of the best salmon fishing rivers in the world. Alta's stable winter climate also makes it an ideal base for experiencing the Northern Lights and dog sledding."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Situl cu artă rupestră de la Alta, cu sculpturi ce datează de peste 6.000 de ani, este inclus în Patrimoniul Mondial UNESCO din 1985.",
+      "Aici a fost construit primul observator dedicat exclusiv studiului științific al aurorei boreale la sfârșitul secolului al XIX-lea.",
+      "În fiecare iarnă, hotelul de gheață Sorrisniva Igloo Hotel este reconstruit din temelii cu un design și o tematică arhitecturală complet nouă."
+    ],
+    en: [
+      "The rock carvings in Alta date back between 4,200 and 500 B.C.",
+      "Alta is known as the 'City of the Northern Lights' due to its exceptionally clear winter skies.",
+      "The world's first Northern Lights observatory was built on the nearby Halddetoppen mountain in 1899.",
+      "Every winter, an intricate Igloo Hotel made entirely of ice and snow is constructed in Alta."
+    ]
+  },
     image: "/geo-images/norway/alta.webp",
   }
 ];
@@ -678,6 +1325,27 @@ export const norwayCulture: POI[] = [
       hu: ["Több mint 200 szobrot tartalmaz.", "Az összes mű Gustav Vigeland alkotása.", "Oslo egyik leglátogatottabb attrakciója.", "A park a Frogner park része."],
       ro: ["Conține peste 200 de sculpturi.", "Toate lucrările au fost create de un singur artist, Gustav Vigeland.", "Este una dintre cele mai vizitate atracții din Oslo.", "Parcul face parte din Frogner Park."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Parcul Vigeland din Oslo reprezintă cel mai mare parc de sculpturi din lume creat de un singur artist, fiind capodopera monumentală a sculptorului norvegian Gustav Vigeland. Lucrând timp de peste patru decenii, Vigeland a proiectat aspectul arhitectural al parcului și a modelat manual peste 200 de sculpturi din bronz, granit și fier forjat. Această operă de artă în aer liber abordează în mod profund și emoționant condiția umană, de la momentul nașterii și până la moarte, capturând esența relațiilor și emoțiilor omenești. Piesa centrală este uluitorul Monolit, o coloană uriașă de piatră sculptată cu corpuri umane înlănțuite care se înalță spre cer. Arte K7 — Sculptura monumentală și spațiile publice.",
+    en: "Vigeland Park is the world's largest sculpture park executed by a single artist, standing as a monumental tribute to the human condition in the heart of Oslo. Created by Gustav Vigeland between 1924 and 1943, the park features over 200 sculptures in bronze, granite, and wrought iron. The artworks trace the complete cycle of human life, exploring themes of joy, struggle, aging, and interpersonal relationships. The central Monolith, carved from a single block of granite, and the iconic Angry Boy are powerful symbols of Norwegian cultural expression."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Parcul conține exact 212 sculpturi distincte, incluzând în total aproximativ 600 de figuri umane interconectate.",
+      "Monolitul, piesa centrală a parcului, are o înălțime de 14,12 metri și a fost sculptat dintr-un singur bloc masiv de granit.",
+      "Gustav Vigeland nu a turnat sculpturile în bronz și nici nu a cioplit granitul el însuși, ci a lucrat strict modelele în argilă la scară reală."
+    ],
+    en: [
+      "The park spans 80 acres within the larger Frogner Park area.",
+      "The Monolith features 121 human figures clinging to one another, reaching toward the sky.",
+      "Gustav Vigeland also designed the architectural layout and the wrought iron gates of the park.",
+      "The park is open to the public 24 hours a day, all year round, entirely free of charge."
+    ]
+  },
     image: "/geo-images/norway/vigeland.webp",
   },
   {
@@ -698,6 +1366,27 @@ export const norwayCulture: POI[] = [
       hu: ["UNESCO Világörökség.", "Bergen hanza kereskedelmi múltját idézi.", "A faépületeket gondosan megőrizték.", "A város egyik legjellegzetesebb látképe."],
       ro: ["Este sit UNESCO.", "Reflectă trecutul comercial hanseatic al orașului Bergen.", "Clădirile din lemn au fost conservate cu grijă.", "Este una dintre cele mai recognoscibile imagini ale orașului."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Cartierul Bryggen din Bergen este o relicvă vie a influenței masive pe care a avut-o Liga Hanseatică în comerțul din nordul Europei. Șirul său iconic de clădiri comerciale din lemn, pictate în culori vii de galben, roșu și ocru, domină țărmul portului Vågen de secole. Deși incendiile au distrus de nenumărate ori structurile originale, metodele de construcție și tiparele tradiționale au fost respectate cu strictețe la fiecare reconstrucție. Astăzi, aleile înguste și ascunse din spatele fațadelor adăpostesc ateliere de meșteșugari, galerii de artă și restaurante fermecătoare. Istorie K6 — Arhitectura comercială și influența Ligii Hanseatice.",
+    en: "Bryggen, the historic wharf of Bergen, is a UNESCO World Heritage site that stands as a vibrant remnant of the city's time as a pivotal Hanseatic trading post. This iconic row of colorful, timber-clad merchant houses lines the eastern side of the Vågen harbor, originally serving as warehouses and offices for German merchants dealing in dried cod. Despite enduring numerous devastating fires over the centuries, the area has been meticulously rebuilt using traditional methods, preserving its medieval layout. Today, its narrow, shadowed alleyways house artisan workshops, galleries, and museums."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Acest cartier istoric a fost inclus pe prestigioasa listă a Patrimoniului Mondial UNESCO încă din anul 1979.",
+      "Ultimul mare incendiu care a distrus o parte din cartierul Bryggen a avut loc în anul 1955.",
+      "Pescarii navigau tocmai din nordul Laponiei pentru a tranzacționa prețiosul cod uscat cu negustorii germani de la Bryggen."
+    ],
+    en: [
+      "Bryggen was a critical node in the Hanseatic League's trade network from the 14th to the mid-16th century.",
+      "The area has burned down completely multiple times, most notably in 1702 and 1955.",
+      "There are currently 62 historic buildings remaining in the Bryggen complex.",
+      "Extensive archaeological excavations have revealed runic inscriptions detailing everyday medieval life."
+    ]
+  },
     image: "/geo-images/norway/bryggen.webp",
   },
   {
@@ -718,6 +1407,27 @@ export const norwayCulture: POI[] = [
       hu: ["Szent Olaf sírhelye fölé épült.", "Skandinávia legnagyobb középkori katedrálisa.", "Itt tartották egykor a norvég uralkodók koronázásait.", "Trondheim egyik legfontosabb jelképe."],
       ro: ["A fost construită peste locul de înmormântare al Sfântului Olav.", "Este considerată cea mai mare catedrală medievală din Scandinavia.", "Aici aveau loc odinioară încoronările monarhilor norvegieni.", "Este un simbol important al orașului Trondheim."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Catedrala Nidaros din Trondheim este cel mai important lăcaș de cult al Norvegiei și simbolul creștinismului medieval în Peninsula Scandinavă. Construcția sa a început în secolul al XI-lea deasupra mormântului regelui viking Olav Haraldsson, devenit ulterior Sfântul Olav, transformând orașul în cel mai faimos loc de pelerinaj din Europa de Nord. Arhitectura catedralei este o fuziune impresionantă de stil romanic și gotic bogat ornamentat, inspirată de marile catedrale englezești. Toți monarhii norvegieni au fost fie încoronați, fie binecuvântați aici de la reluarea acestei tradiții în secolul al XIX-lea. Istorie K6 — Răspândirea creștinismului și arhitectura gotică.",
+    en: "Nidaros Cathedral is the most significant historical and religious monument in Norway, functioning as the traditional consecration site for the nation's monarchs. Built over the burial site of Saint Olav, the Viking king who played a major role in the Christianization of Norway, it became the most important pilgrimage destination in Northern Europe during the Middle Ages. The imposing structure is a masterpiece of Gothic architecture, featuring an intricately carved western facade depicting saints and biblical figures. It remains an active parish church and a potent symbol of Norwegian statehood."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Fațada vestică a catedralei este decorată cu zeci de statui ale regilor, profeților și sfinților creștini, sculptate meticulos.",
+      "Nidarosdom este oficial recunoscută ca fiind cea mai nordică biserică medievală construită în stil gotic din întreaga lume.",
+      "Pelerinii străbăteau drumul de sute de kilometri de la Oslo la Trondheim, o rută istorică cunoscută astăzi ca Drumul Sfântului Olav."
+    ],
+    en: [
+      "Construction of the cathedral began in 1070 and continued over several centuries.",
+      "The cathedral was heavily damaged by fires in the 14th and 16th centuries and underwent major restoration starting in 1869.",
+      "The Norwegian Crown Regalia are historically linked to the cathedral and are currently displayed nearby.",
+      "It features a magnificent Steinmeyer organ with nearly 10,000 pipes."
+    ]
+  },
     image: "/geo-images/norway/nidarosdom.webp",
   },
   {
@@ -738,6 +1448,27 @@ export const norwayCulture: POI[] = [
       hu: ["2008-ban nyílt meg.", "A látogatók felmehetnek a tetőre.", "Dizájnja egy vízből kiemelkedő gleccserre emlékeztet.", "Oslo egyik legismertebb modern épülete."],
       ro: ["A fost deschisă în 2008.", "Vizitatorii pot urca pe acoperiș.", "Designul amintește de un ghețar care se ridică din apă.", "Este una dintre cele mai cunoscute clădiri moderne din Oslo."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Opera din Oslo a redefinit complet linia orizontului capitalei și a devenit imediat un simbol recunoscut internațional al Norvegiei moderne. Proiectată de firma norvegiană de arhitectură Snøhetta și inaugurată în 2008, clădirea a fost concepută să semene cu un aisberg masiv de marmură și sticlă care se înalță direct din apele Oslofjordului. Un aspect revoluționar al designului este acoperișul său înclinat și accesibil, care invită toți vizitatorii să se plimbe și să se bucure de panorame uluitoare. Această clădire a catalizat revitalizarea spectaculoasă a întregului cartier maritim Bjørvika. Arte K8 — Arhitectura contemporană și regenerarea urbană.",
+    en: "The Oslo Opera House is a groundbreaking work of modern architecture that fundamentally redefined the capital's waterfront and cultural ambition. Designed by the Norwegian firm Snøhetta, the building resembles a massive glacier rising directly from the waters of the Oslofjord. Its defining feature is the sweeping, white marble roof that is completely accessible to the public, inviting visitors to walk over the structure and enjoy panoramic city views. Inside, it boasts world-class acoustics and serves as the prestigious home of the Norwegian National Opera and Ballet."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Exteriorul spectaculos al Operei este acoperit cu 36.000 de blocuri perfect tăiate de marmură albă italiană de Carrara.",
+      "Designul premiat a fost ales în urma unei competiții internaționale la care au fost depuse peste 350 de propuneri arhitecturale.",
+      "Interiorul principal al clădirii contrastează cu exteriorul, folosind predominant lemn de stejar pentru o acustică excepțională."
+    ],
+    en: [
+      "The building officially opened in 2008 and won the European Union Prize for Contemporary Architecture.",
+      "The exterior is clad in over 36,000 interlocking pieces of Italian Carrara marble and white granite.",
+      "The main auditorium is shaped like a classic horseshoe, covered entirely in oak to ensure optimal sound.",
+      "A distinctive glass and steel sculpture called 'She Lies' floats in the water just outside the Opera House."
+    ]
+  },
     image: "/geo-images/norway/oslo-opera.webp",
   },
   {
@@ -758,6 +1489,27 @@ export const norwayCulture: POI[] = [
       hu: ["UNESCO Világörökség.", "A rézbányászat évszázadokon át meghatározta a várost.", "Sok eredeti faház épen megmaradt.", "Hideg éghajlatáról és téli hangulatáról ismert."],
       ro: ["Este sit UNESCO.", "Mineritul de cupru a modelat orașul timp de secole.", "Multe case originale din lemn s-au păstrat intacte.", "Este cunoscut pentru clima rece și farmecul iernii."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Røros este un orășel minier fermecător, ascuns în zona muntoasă din centrul Norvegiei, unde istoria extracției de cupru a modelat societatea timp de peste 300 de ani. Întreaga localitate este alcătuită din case tradiționale din lemn, perfect conservate, cu acoperișuri acoperite adesea de iarbă și turbă. Înființat în anul 1644, orașul și-a păstrat structura originală impusă de necesitățile industriale, inclusiv topitoriile gigantice și haldele uriașe de zgură. Atmosfera sa unică și istoria dură a muncii au adus orașului un loc bine meritat pe lista Patrimoniului Mondial UNESCO. Istorie K7 — Industria premodernă și exploatarea resurselor miniere.",
+    en: "Røros is a remarkably well-preserved mining town in central Norway, recognized as a UNESCO World Heritage site for its unique industrial and architectural history. Established in the 17th century after the discovery of copper ore, the town was built entirely of wood in a harsh, elevated mountain environment. The dark, timber-clad houses, grass roofs, and historic slag heaps create an authentic atmosphere of early industrial hardship and community resilience. Today, Røros is celebrated for its thriving local food culture, artisan crafts, and magical winter ambiance."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Compania minieră Røros Copper Works a operat neîntrerupt și cu mare succes din 1644 până în anul 1977.",
+      "Climatul regiunii este unul dintre cele mai reci din Norvegia, cu un record negativ de minus 50,4 grade Celsius înregistrat oficial.",
+      "Biserica impunătoare din Røros, cu forma sa octogonală distinctă, domină orașul și este unul dintre cele mai importante repere istorice."
+    ],
+    en: [
+      "Copper mining in Røros began in 1644 and continued continuously for 333 years until 1977.",
+      "The town center features over 80 historical wooden houses protected by strict conservation laws.",
+      "Røros is one of the coldest towns in Norway, with winter temperatures occasionally plunging below minus 40 degrees Celsius.",
+      "The historic Røros Church, built in 1784, is one of the largest and most distinctive stone churches in the country."
+    ]
+  },
     image: "/geo-images/norway/roros.webp",
   },
   {
@@ -778,6 +1530,27 @@ export const norwayCulture: POI[] = [
       hu: ["A 13. század végén épült.", "Az Osloi kikötőre és a fjord bejáratára néz.", "Királyi rezidenciaként és katonai erődítményként is szolgált.", "Múzeumokat és ceremoniális termeket is tartalmaz.", "Oslo egyik leglátogatottabb örökségi helyszíne."],
       ro: ["A fost construită la sfârșitul secolului al XIII-lea.", "Domină portul Oslo și intrarea în fjord.", "A servit ca reședință regală și fortăreață militară.", "Include muzee și săli ceremoniale.", "Unul dintre cele mai vizitate situri de patrimoniu din Oslo."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Fortăreața Akershus este o prezență impunătoare în centrul orașului Oslo, servind ca bastion de apărare a capitalei norvegiene de peste șapte secole. Construită inițial în jurul anului 1300 din ordinul regelui Håkon al V-lea, a fost ulterior modernizată într-un palat regal și fortificație renascentistă în timpul domniei regelui Christian al IV-lea. Locația sa strategică pe promontoriul Akersneset a permis controlul absolut asupra traficului naval din Oslofjord. Astăzi, domeniul găzduiește sedii militare, muzee și servește drept principală locație pentru ceremoniile oficiale de stat și recepțiile regale. Istorie K6 — Arhitectura militară și sistemele de fortificații.",
+    en: "Akershus Fortress is a formidable medieval castle and military stronghold strategically positioned to guard the harbor of Oslo. Constructed in the late 13th century under King Haakon V, it has successfully withstood numerous sieges and played a central role in Norwegian military history. Over the centuries, it was modernized into a Renaissance castle by King Christian IV, serving as a royal residence, a notorious prison, and a military command center. Today, the pristine grounds offer panoramic views of the Oslofjord and host significant state functions and museums."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "De-a lungul istoriei sale sângeroase de peste 700 de ani, fortăreața Akershus nu a fost niciodată cucerită cu succes în urma unui asediu direct.",
+      "Mausoleul regal aflat în interiorul capelei castelului adăpostește rămășițele monarhilor moderni ai Norvegiei.",
+      "În timpul celui de-al Doilea Război Mondial, complexul a fost confiscat și utilizat ca sediu de către forțele de ocupație germane."
+    ],
+    en: [
+      "Akershus Fortress has never been successfully captured by an actively besieging foreign enemy.",
+      "The fortress was surrendered to German forces without a fight in 1940 following the invasion of Norway.",
+      "Several Norwegian monarchs, including King Haakon VII and King Olav V, are entombed in the royal mausoleum here.",
+      "It currently houses the Norwegian Armed Forces Museum and the Norway's Resistance Museum."
+    ]
+  },
     image: "/geo-images/norway/akershus-fortress.webp",
   },
   {
@@ -798,6 +1571,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia egyik legrégebbi fennmaradt erődítménye.", "A Håkon-termet és a Rosenkrantz-tornyot is magában foglalja.", "A középkorban Bergen kikötőjét védte.", "Fontos a királyi és hanza történelem szempontjából.", "Jellegzetes pont Bergen kikötőjének bejáratánál."],
       ro: ["Printre cele mai vechi fortificații păstrate din Norvegia.", "Include Sala lui Håkon și Turnul Rosenkrantz.", "A apărat portul Bergenului în evul mediu.", "Important pentru istoria regală și hanseatică.", "Un reper la intrarea în portul Bergen."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Fortăreața Bergenhus este unul dintre cele mai vechi și mai bine conservate castele de piatră din întreaga Peninsulă Scandinavă, dominând intrarea în portul din Bergen. În perioada de glorie a secolului al XIII-lea, a funcționat ca sediu al curții regale norvegiene și a reprezentat nucleul puterii politice centrale. Chiar și după ce capitala a fost mutată la Oslo, complexul a rămas un centru vital de administrare pentru coasta de vest. Cele mai notabile structuri care au supraviețuit sunt maiestuoasa Sală a lui Håkon și masivul Turn Rosenkrantz, ambele restaurate meticulos. Istorie K6 — Centrele de putere medievală în Scandinavia.",
+    en: "Bergenhus Fortress is one of the oldest and most important fortifications in Norway, historically guarding the entrance to the strategic port of Bergen. During the 13th century, when Bergen was the capital, the fortress area served as the royal seat of power for the Norwegian kingdom. The complex includes significant medieval structures, most notably the majestic Håkon's Hall and the defensive Rosenkrantz Tower. It stands as a powerful testament to Bergen's era of political dominance and its vital role in controlling the western coastline."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "O explozie accidentală masivă a unei nave olandeze cu muniție în 1944 a avariat grav multe dintre clădirile istorice ale fortăreței.",
+      "Turnul Rosenkrantz a fost construit parțial ca o demonstrație de putere și o formă de intimidare împotriva negustorilor hanseatici din Bryggen.",
+      "Astăzi, curtea imensă a castelului este folosită frecvent ca un spațiu spectaculos pentru festivaluri și concerte internaționale majore."
+    ],
+    en: [
+      "The fortress area was the center of Norwegian royal power until the capital was moved to Oslo in 1299.",
+      "It suffered immense damage in 1944 when a Dutch ammunition ship exploded in the adjacent harbor.",
+      "The Rosenkrantz Tower was constructed in the 1560s as a display of power against the Hanseatic merchants.",
+      "Today, the fortress grounds are a popular venue for massive outdoor concerts and cultural festivals."
+    ]
+  },
     image: "/geo-images/norway/bergenhus-fortress.webp",
   },
   {
@@ -818,6 +1612,27 @@ export const norwayCulture: POI[] = [
       hu: ["A 16. században alapították erődvárosként.", "Csillag alakú védőfalaikról ismert.", "Skandinávia egyik legjobban megőrzött óvárosa.", "Kávézók, galériák és rendezvények népszerű helyszíne.", "A Glomma folyó átkelőhelyéhez kapcsolódik."],
       ro: ["Fondat în secolul al XVI-lea ca oraș fortificat.", "Cunoscut pentru zidurile defensive în formă de stea.", "Unul dintre cele mai bine păstrate orașe vechi din Scandinavia.", "Popular pentru cafenele, galerii și evenimente.", "Legat de traversarea râului Glomma."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Orașul vechi din Fredrikstad, cunoscut sub numele de Gamlebyen, se numără printre puținele așezări fortificate în formă de stea din Nordul Europei care și-au păstrat structura originală nealterată. După distrugerea fostului oraș în Războiul de Șapte Ani nordic, regele a dispus construirea acestei așezări la gura râului Glomma în 1567, fortificând-o masiv în secolul al XVII-lea. Șanțurile cu apă, meterezele din pământ și geometria perfectă a apărării respectau cele mai avansate strategii militare olandeze ale epocii. În interiorul fortificațiilor, casele vechi de lemn și străduțele pietruite compun un orășel pitoresc, care funcționează ca un muzeu deschis. Istorie K7 — Evoluția arhitecturii defensive în epoca modernă timpurie.",
+    en: "The Old Town of Fredrikstad, known as Gamlebyen, is celebrated as the most completely preserved fortified town in the Nordic region. Built according to a strict Dutch-inspired geometric plan, its star-shaped moats and massive earthworks were designed to repel artillery fire during conflicts with Sweden. Within the walls, the town retains its charming 17th and 18th-century layout, characterized by cobbled streets, historic barracks, and quaint wooden houses. It represents a living museum of military architecture seamlessly integrated with a vibrant local community."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Designul impresionant în formă de stea a fortăreței a fost proiectat cu scopul principal de a devia proiectilele de artilerie inamice.",
+      "Toate clădirile originale de piatră din secolul al XVII-lea și al XVIII-lea au supraviețuit intacte până în zilele noastre.",
+      "Zona servește astăzi drept un centru creativ extrem de popular, găzduind numeroși meșteșugari, artiști independenți și mici magazine locale."
+    ],
+    en: [
+      "The impressive star-shaped fortifications were constructed in the mid-1600s.",
+      "Gamlebyen was the first town in Norway to be built entirely on an organized grid system.",
+      "Unlike many historic sites, the Old Town is fully inhabited with active schools, shops, and cafes.",
+      "The fortifications include impressive brick gateways and preserved cannon batteries pointing toward the river."
+    ]
+  },
     image: "/geo-images/norway/gamlebyen-fredrikstad.webp",
   },
   {
@@ -838,6 +1653,27 @@ export const norwayCulture: POI[] = [
       hu: ["Az 1030-as híres csata helyszíne.", "Szent Olafhoz, Norvégia védőszentjéhez kötődik.", "Fontos az ország keresztény történelme szempontjából.", "Örökségi események és színházi előadások helyszíne.", "Kiemelt név a norvég nemzeti emlékezetben."],
       ro: ["Locul celebrei bătălii din 1030.", "Legat de Sfântul Olav, patronul Norvegiei.", "Important pentru istoria creștină a țării.", "Găzduiește evenimente de patrimoniu și spectacole scenice.", "Un nume-cheie în memoria națională norvegiană."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Câmpul de luptă de la Stiklestad este considerat unul dintre cele mai importante locuri din istoria națională, fiind scena bătăliei decisive din anul 1030. În această luptă epică, armata regelui exilat Olav Haraldsson s-a confruntat cu o coaliție a fermierilor locali, o bătălie care i-a adus sfârșitul, dar l-a transformat în cel mai important sfânt al țării, Sfântul Olav. Bătălia a reprezentat punctul culminant în procesul dificil de unificare națională și o victorie decisivă a creștinismului asupra credințelor păgâne tradiționale norvegiene. Astăzi, situl adăpostește un amplu centru cultural și istoric dedicat acestui eveniment definitoriu. Istorie K6 — Trecerea de la păgânism la creștinism în țările nordice.",
+    en: "Stiklestad holds a mythical status in Norwegian history as the site of the legendary Battle of Stiklestad in 1030. It was here that King Olaf Haraldsson was killed, an event that directly led to his canonization as Saint Olav and cemented Christianity as the nation's religion. The battlefield is considered a cornerstone of Norwegian national identity, symbolizing the unification of the country under a single monarch and faith. Today, the area hosts a cultural center and an annual open-air historical play that dramatically retells the saga of the fallen king."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Biserica originală Stiklestad a fost construită exact pe locul unde se presupune că regele Olav și-ar fi dat ultima suflare.",
+      "În fiecare lună iulie, mii de oameni se adună aici pentru a asista la uriașul spectacol istoric în aer liber numit Drama Sfântului Olav.",
+      "Anul 1030 este recunoscut de majoritatea istoricilor ca fiind momentul de cotitură și introducerea oficială a creștinismului în Norvegia."
+    ],
+    en: [
+      "The Battle of Stiklestad took place on July 29, 1030, a date still commemorated as Olsok (Olaf's Wake).",
+      "Olaf Haraldsson was defeated by a massive peasant army consisting of local chieftains.",
+      "The Stiklestad Church was built over the exact spot where the king supposedly died.",
+      "The annual 'Saint Olav Drama' is the oldest and most attended outdoor theater production in Norway."
+    ]
+  },
     image: "/geo-images/norway/stiklestad-battlefield.webp",
   },
   {
@@ -858,6 +1694,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia legrégebbi fennmaradt fatemploma.", "UNESCO-világörökségi helyszín.", "A Lustrafjord fölött található.", "Faragott kapujáról híres.", "A viking és keresztény motívumok keverékét mutatja."],
       ro: ["Cea mai veche biserică stave păstrată din Norvegia.", "Inclusă în Patrimoniul Mondial UNESCO.", "Situată deasupra Lustrafjordului.", "Celebră pentru portalul sculptat.", "Arată îmbinarea motivelor vikinge cu cele creștine."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Biserica de lemn din Urnes reprezintă cel mai vechi exemplar păstrat de biserică de tip „stave” și a fost recunoscută oficial ca o capodoperă a Patrimoniului Mondial UNESCO. Așezată idilic deasupra unui braț al maiestuosului Sognefjord, a fost construită în secolul al XII-lea folosind exclusiv tehnicile excepționale ale constructorilor de nave vikingi. Exteriorul bisericii este decorat cu sculpturi spectaculoase din lemn care prezintă motive animaliere complexe, ilustrând o tranziție fluidă și uimitoare între credințele păgâne nordice și primele influențe ale creștinismului. Această construcție unică a oferit și numele unui stil artistic nord-european cunoscut drept „Stilul Urnes”. Arte K6 — Fuziunea dintre arta vikingă și simbolismul creștin timpuriu.",
+    en: "Urnes Stave Church is widely recognized as the oldest surviving stave church in the world and a deeply significant UNESCO World Heritage site. Nestled on a remote promontory overlooking the Lustrafjord, the church represents a masterful synthesis of traditional Viking artistry and early Christian architecture. The northern wall features exceptional wood carvings depicting stylized animals in combat, a motif that has given its name to the 'Urnes style' of Viking art. It is a stunning architectural survivor that vividly illustrates Norway's transition from paganism to Christianity."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Structura actuală integrează cu măiestrie portaluri din lemn minuțios sculptat care aparțineau unei biserici mult mai vechi de pe același amplasament.",
+      "Stilul artistic distinctiv Urnes se caracterizează prin reprezentarea elegantă a animalelor grațioase încolăcite în spirale strânse.",
+      "Biserica este susținută în întregime pe un cadru masiv realizat din trunchiuri gigantice de pin nordic, cunoscute sub numele de „stave”."
+    ],
+    en: [
+      "The current church was built around 1130, incorporating carved elements from an even older 11th-century building.",
+      "It is the only stave church in the world officially listed on the UNESCO World Heritage register.",
+      "The intricately carved portal on the north wall is believed to depict a battle between a lion and a serpent.",
+      "The interior still contains medieval furnishings, including a 12th-century wooden crucifix."
+    ]
+  },
     image: "/geo-images/norway/urnes-stave-church.webp",
   },
   {
@@ -878,6 +1735,27 @@ export const norwayCulture: POI[] = [
       hu: ["A 13. században épült.", "A Bergenhus-erőd együttesének része.", "Királyi bankettek és ceremóniák helyszíne volt.", "Bergen egyik kulcsfontosságú középkori épülete.", "A királyi Bergen fontos jelképe."],
       ro: ["Construită în secolul al XIII-lea.", "Face parte din complexul Fortăreței Bergenhus.", "Folosită pentru banchete și ceremonii regale.", "Una dintre clădirile medievale-cheie ale Bergenului.", "Un simbol major al Bergenului regal."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Sala lui Håkon este o clădire monumentală de ceremonii, a cărei construcție a fost ordonată de regele Håkon Håkonsson în secolul al XIII-lea, în perioada de glorie absolută a Imperiului Norvegian. Amplasată în incinta fortăreței Bergenhus, sala era utilizată pentru marile banchete și ca sală de consiliu regal, având proporții menite să reflecte puterea și bogăția monarhiei. Arhitectura ei gotică de piatră contrasta puternic cu majoritatea clădirilor din lemn contemporane din Bergen. A suferit distrugeri teribile din cauza exploziei unei nave cu muniție în Al Doilea Război Mondial, dar a fost restaurată cu o grijă desăvârșită. Istorie K6 — Puterea monarhică și diplomația în Scandinavia medievală.",
+    en: "Håkon's Hall is a monumental medieval stone hall located within the Bergenhus Fortress, built during the peak of Norway's political power in the 13th century. Commissioned by King Håkon Håkonsson as a grand royal residence and banquet hall, it was intended to project the strength and European integration of the Norwegian crown. The massive stone architecture stands in stark contrast to the surrounding timber buildings, reflecting the influence of English Gothic design. It remains one of the most important secular medieval buildings in Scandinavia."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Sala a fost finalizată și inaugurată oficial în anul 1261 pentru a găzdui somptuoasa nuntă și încoronarea regelui Magnus Lagabøte.",
+      "Este considerată a fi cea mai extinsă și grandioasă clădire de piatră cu funcție non-religioasă care a supraviețuit din Evul Mediu norvegian.",
+      "Pentru reconstrucția modernă a acoperișului său imens din lemn masiv s-au utilizat exclusiv tehnici de îmbinare caracteristice secolului al XIII-lea."
+    ],
+    en: [
+      "The hall was first used to celebrate the marriage of King Håkon's son in 1261.",
+      "It is the largest surviving secular medieval building in Norway.",
+      "The hall fell into ruin during the centuries of Danish rule and was used as a simple grain warehouse.",
+      "It was heavily damaged by the 1944 Bergen harbor explosion but was meticulously restored."
+    ]
+  },
     image: "/geo-images/norway/hakons-hall.webp",
   },
   {
@@ -898,6 +1776,27 @@ export const norwayCulture: POI[] = [
       hu: ["Az ezüstbányászat a 17. században kezdődött.", "Kongsberg fontos királyi bányaváros volt.", "A történelmi tárnák ma is a helyszín részei.", "A területet ma vezetett túrákon lehet bejárni.", "Norvégia egyik fontos ipari örökségi célpontja."],
       ro: ["Mineritul de argint a început în secolul al XVII-lea.", "Kongsberg a fost un important oraș minier regal.", "Galerii miniere istorice fac încă parte din sit.", "Zona este vizitată astăzi prin tururi ghidate.", "O destinație importantă de patrimoniu industrial în Norvegia."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Minele de argint de la Kongsberg documentează peste 300 de ani de eforturi industriale supreme și au stat la baza primelor bogății cu adevărat uriașe ale Norvegiei moderne. După descoperirea norocoasă a unor filoane masive de argint pur de către doi copii de păstori în anul 1623, regele danez Christian al IV-lea a fondat imediat orașul Kongsberg în jurul extracției miniere. Rețeaua subterană de galerii miniere se întinde pe sute de kilometri și coboară la adâncimi care depășesc un kilometru sub suprafața muntelui. Argintul pur, de o calitate rară extras de aici, a fost mult timp folosit aproape exclusiv pentru a bate monedele valoroase ale regatului. Istorie K7 — Revoluția industrială timpurie și extracția de minereuri.",
+    en: "The Kongsberg Silver Mines are a fascinating testament to Norway's early industrial history and royal economic ambition. Following the discovery of pure silver in 1623, Kongsberg rapidly expanded into one of the largest and most important towns in the realm. The arduous, dangerous work of extracting silver from the deep mountain shafts financed the Danish-Norwegian crown and spurred major technological advancements in mining and engineering. Today, visitors can descend deep into the mountain via a mining train to experience the monumental scale of these historic excavations."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Întreaga cantitate de argint curat extrasă din aceste mine până la momentul închiderii lor definitive în anul 1958 a depășit 1.350 de tone.",
+      "Un tren feroviar subteran special transportă vizitatorii de astăzi pe o distanță de aproximativ 2,3 kilometri în inima muntelui.",
+      "Pentru o perioadă îndelungată, întreprinderea minieră din Kongsberg a fost cu siguranță cel mai mare și mai important angajator din întreaga Norvegie."
+    ],
+    en: [
+      "The mines were established by King Christian IV of Denmark-Norway in 1623.",
+      "At its peak in the 1770s, the mining operation employed over 4,000 workers.",
+      "The 'King's Mine' extends to a staggering depth of 1,070 meters inside the mountain.",
+      "The silver extracted here was primarily used to mint coins for the royal treasury in Copenhagen."
+    ]
+  },
     image: "/geo-images/norway/kongsberg-silver-mines.webp",
   },
   {
@@ -918,6 +1817,27 @@ export const norwayCulture: POI[] = [
       hu: ["Gyakran Norvégia legészakibb erődjének nevezik.", "Történelmi sarkvidéki parti helyzetet őriz.", "Az idők során többször újjáépítették és megerősítették.", "Katonai és közigazgatási történelemhez kötődik.", "Jellegzetes pont a Barents-tenger közelében."],
       ro: ["Adesea numită cea mai nordică fortăreață a Norvegiei.", "Controlează o poziție istorică de coastă arctică.", "A fost reconstruită și întărită de-a lungul timpului.", "Legată de istoria militară și administrativă.", "Un reper lângă Marea Barents."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Fortăreața Vardøhus se mândrește cu statutul de cea mai nordică fortificație militară din lume și a reprezentat granița simbolică extremă a Norvegiei împotriva amenințării rusești de-a lungul coastelor Mării Barents. Poziționată strategic pe o insulă aspră și bătută de vânt în nordul Laponiei, a fost inițial construită de regele Håkon al V-lea cu mult timp în urmă, actuala fortificație stelară datând din secolul al XVIII-lea. Locația nu a fost implicată în lupte și războaie semnificative, funcția ei primară fiind afirmarea suveranității norvegiene într-o zonă complet lipsită de granițe naturale. Unul dintre cele mai speciale elemente ale sale este singurul copac din zonă, un scoruș legendar, îngrijit cu o devoțiune rară de către soldații norvegieni. Istorie K7 — Fortificațiile militare de frontieră în regiunile arctice ostile.",
+    en: "Vardøhus Fortress holds the distinction of being the northernmost fortress in the world, standing as a lonely sentinel on the harsh Barents Sea coast. Initially constructed in the 1300s to assert Norwegian sovereignty over the disputed Arctic territories, the current star-shaped structure dates back to the 1730s. It has played a vital role in defending the northeastern frontier against potential Swedish or Russian incursions, while also surviving extreme Arctic weather. The fortress remains an active military installation, maintaining historical traditions in an unforgiving climate."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Forma octogonală absolut unică a fortăreței stelare a fost construită definitiv sub domnia regelui danez Christian al VI-lea în anul 1738.",
+      "În mod tradițional, fortăreața menține o tradiție unică de a trage imediat focuri de tun cu rol de salut ori de câte ori soarele apare după lunga noapte polară.",
+      "Copacul solitar care crește protejat în interiorul zidurilor castelului este simbolic înfășurat cu pături în timpul viscolelor aspre de iarnă."
+    ],
+    en: [
+      "The fortress is famously home to a single Rowan tree, which is carefully protected during the harsh winters.",
+      "It fires a traditional cannon salute to mark the return of the sun after the polar night.",
+      "Vardøhus was the last military unit in Norway to fly the Norwegian flag before surrendering in WWII.",
+      "The fortress layout was designed in the classic star shape to optimize artillery defense."
+    ]
+  },
     image: "/geo-images/norway/vardohus-fortress.webp",
   },
   {
@@ -938,6 +1858,27 @@ export const norwayCulture: POI[] = [
       hu: ["Itt tartják a Nobel-békedíj átadását.", "Az 1950-es években készült el.", "Hatalmas belső falfestményeiről híres.", "Az Osloi vízparton áll.", "A főváros polgári identitásának fontos jelképe."],
       ro: ["Aici are loc ceremonia Premiului Nobel pentru Pace.", "A fost finalizată în anii 1950.", "Celebră pentru picturile murale interioare mari.", "Situată pe malul apei în Oslo.", "Un simbol-cheie al identității civice a capitalei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Primăria din Oslo, denumită oficial Oslo Rådhus, reprezintă o capodoperă proeminentă a arhitecturii funcționaliste moderne norvegiene, renumită pentru că este clădirea unde se acordă cu solemnitate Premiul Nobel pentru Pace. Realizată din milioane de cărămizi masive de un roșu aprins, construcția a stârnit controverse majore la momentul inaugurării sale din cauza celor două turnuri paralelipipedice masive care schimbau dramatic aspectul orașului. Interiorul său contrastează puternic cu exteriorul sobru, fiind somptuos decorat cu fresce expresive uriașe, de o vitalitate ieșită din comun. Aceste lucrări murale acoperă tematici majore din viața societății norvegiene, de la miturile tradiționale până la industrializare. Arte K8 — Funcționalismul arhitectural și integrarea artei monumentale în clădiri publice.",
+    en: "Oslo City Hall is a monumental functionalist building that visually dominates the capital's harbor front and serves as the administrative heart of the city. Characterized by its massive red brick structure and twin towers, it was designed to reflect modern Norwegian identity and artistic ambition. The interior is richly decorated with expansive, vibrant murals created by some of Norway's most prominent mid-century artists, depicting the nation's history, culture, and working class. It gains global attention every December as the prestigious venue for the Nobel Peace Prize ceremony."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Clădirea impunătoare a fost inaugurată festiv abia în 1950, cu ocazia celebrării a 900 de ani de existență a orașului Oslo.",
+      "Sala centrală enormă, bogat decorată, unde se desfășoară fastuoasa ceremonie a Premiului Nobel, se distinge printr-o suprafață extinsă de picturi murale excepționale.",
+      "Turnul principal estic găzduiește cu mândrie un impresionant carillon cu clopote care poate fi auzit interpretând melodii în tot centrul orașului."
+    ],
+    en: [
+      "Construction began in 1931 but was halted by WWII, officially opening in 1950 to mark Oslo's 900th anniversary.",
+      "The building is covered in approximately eight million handmade red bricks.",
+      "The eastern tower houses an impressive carillon consisting of 49 bells that chime every hour.",
+      "The Nobel Peace Prize ceremony has been held in the main hall since 1990."
+    ]
+  },
     image: "/geo-images/norway/oslo-city-hall.webp",
   },
   {
@@ -958,6 +1899,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia uralkodójának hivatalos rezidenciája.", "A Karl Johans gate felső végén áll.", "A Palotapark veszi körül.", "Nyáron látogatható.", "Fontos nemzeti ceremóniák és protokoll szempontjából."],
       ro: ["Reședința oficială a monarhului Norvegiei.", "Situat la capătul bulevardului Karl Johans gate.", "Înconjurat de Parcul Palatului.", "Deschis vizitatorilor în sezonul de vară.", "Important pentru ceremonii naționale și protocol."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Palatul Regal, cunoscut sub numele oficial de Det Kongelige Slott, reprezintă inima monarhiei constituționale norvegiene, fiind amplasat strategic pe o colină din centrul absolut al orașului Oslo. A fost conceput în mod grandios în secolul al XIX-lea, servind inițial ca rezidență prestigioasă pentru regele suedez-norvegian Carol al III-lea Ioan, deși acesta nu a mai ajuns să locuiască în el. Arhitectura clasică a edificiului se termină glorios în punctul final al celei mai celebre artere comerciale norvegiene, poarta Karl Johans. Astăzi, acesta este reședința de zi cu zi a actualului rege și punctul de adunare cel mai important pentru publicul norvegian, în special în timpul grandioaselor celebrări de 17 Mai, Ziua Națională. Istorie K7 — Constituționalismul și instituția monarhiei în Scandinavia modernă.",
+    en: "The Royal Palace in Oslo stands elegantly at the top of Karl Johans gate, functioning as the official residence and primary workplace of the Norwegian monarch. Constructed in a restrained, neoclassical style during the 19th century, it symbolizes the establishment of the modern Norwegian state after the dissolution of the union with Denmark. The palace is surrounded by the expansive Palace Park, a beautiful public green space featuring statues, ponds, and manicured gardens. The daily changing of the guard is a popular tradition that draws both locals and international visitors."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Fațada spectaculoasă a palatului impresionant este orientată simbolic chiar spre principala stradă care îi poartă numele fondatorului său, bulevardul Karl Johans.",
+      "Construcția oficială a început în 1824, palatul monumental devenind oficial finalizat abia în timpul domniei regelui Oscar I, în anul 1849.",
+      "Grădina extinsă a palatului rămâne deschisă publicului larg pe tot parcursul anului, invitând localnicii și turiștii la relaxare."
+    ],
+    en: [
+      "The palace was commissioned by King Charles III John of Sweden and Norway, though he died before its completion.",
+      "It was officially completed and taken into use by King Oscar I in 1849.",
+      "The building features 173 rooms and covers a total floor area of roughly 17,000 square meters.",
+      "Unlike many royal residences, the surrounding park is entirely open and accessible to the public."
+    ]
+  },
     image: "/geo-images/norway/royal-palace-oslo.webp",
   },
   {
@@ -978,6 +1940,27 @@ export const norwayCulture: POI[] = [
       hu: ["Edvard Munch örökségének szentelve.", "A Bjørvika vízparti területen található.", "A Sikoly fontos változatait is bemutatja.", "Norvégia egyik vezető művészeti célpontja.", "A modern Oslo fontos új jelképe."],
       ro: ["Dedicat moștenirii lui Edvard Munch.", "Situat în zona de faleză Bjørvika.", "Include versiuni importante ale tabloului Țipătul.", "Una dintre principalele destinații de artă din Norvegia.", "Un nou reper cheie pentru Oslo-ul modern."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Noul MUNCH Museum din Oslo este un templu arhitectural contemporan excepțional dedicat vieții complexe și operelor inegalabile ale lui Edvard Munch, cel mai influent și apreciat pictor din istoria Norvegiei. Structura impunătoare și unghiulară domină peisajul portului urban și a devenit instantaneu o atracție vizuală majoră a orașului modern. Designul ingenios al clădirii permite flexibilitate completă, astfel încât vasta și prețioasa colecție de capodopere pe care a lăsat-o artistul să fie expusă prin rotație constantă. De la cel mai înalt etaj al muzeului, vizitatorii au parte de panorame largi asupra insulelor împrăștiate în întregul Oslofjord. Arte K8 — Expresionismul artistic timpuriu și galeriile de artă moderne.",
+    en: "The MUNCH Museum, relocated to a striking modern tower in Oslo's Bjørvika district, is dedicated to the life and groundbreaking work of Edvard Munch. The towering, angled structure is designed to engage in a visual dialogue with the nearby Opera House and the Oslofjord. Inside, it houses the largest collection of Munch's art in the world, offering deep insights into his exploration of human anxiety, love, and mortality. The building's vertical design creates a unique museum experience, culminating in panoramic viewing platforms at the top."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Clădirea de o amploare impresionantă adăpostește peste 26.000 de lucrări distincte de artă donate generos de însuși Edvard Munch orașului Oslo.",
+      "Noul și inovatorul muzeu, proiectat de arhitecții spanioli de la Herreros, s-a deschis oficial pentru public la sfârșitul anului 2021 în cartierul Bjørvika.",
+      "Printre expozițiile majore ale muzeului se regăsesc inclusiv variante faimoase ale operei emblematice „Țipătul” și alte tablouri care descriu profunzimile psihicului uman."
+    ],
+    en: [
+      "The museum's collection contains over 26,000 works of art bequeathed to the city by Munch himself.",
+      "The new building, known as 'Lambda', stands 60 meters tall with 13 floors.",
+      "It always has at least one authentic version of the famous masterpiece 'The Scream' on display.",
+      "The facade is clad in recycled, perforated aluminum panels to manage natural light."
+    ]
+  },
     image: "/geo-images/norway/munch-museum.webp",
   },
   {
@@ -998,6 +1981,27 @@ export const norwayCulture: POI[] = [
       hu: ["A síugrás klasszikus norvégiai helyszíne.", "Tartalmazza a Holmenkollen Símúzeumot.", "Panorámát nyújt Oslo fölött.", "Központi helyszín az északi síelés történetében.", "Gyakran rendeznek itt világszínvonalú versenyeket."],
       ro: ["Un sit clasic pentru sărituri cu schiurile în Norvegia.", "Include Muzeul de Schi Holmenkollen.", "Oferă vederi panoramice asupra Oslo-ului.", "Central în istoria schiului nordic.", "Folosit frecvent pentru competiții de nivel mondial."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Trambulina de schi de la Holmenkollen este, probabil, cea mai recunoscută și iconică structură sportivă la nivel global, cu o istorie care s-a dezvoltat neîntrerupt de peste 100 de ani pe aceleași dealuri din afara capitalei Oslo. Structura arhitecturală contemporană imensă, realizată integral dintr-o combinație rezistentă de oțel și sticlă transparentă, se arcuiește vizual deasupra pădurilor înalte, asemenea unui pod proiectat direct spre cer. Sub nivelul trambulinei majore se află o instituție unică – cel mai vechi muzeu al schiului din lume – care urmărește și povestește extraordinara tradiție a norvegienilor de a explora ținuturile acoperite de zăpadă prin intermediul schiului. Holmenkollen rămâne nu doar o destinație cheie pentru sportivi, ci și o locație extrem de îndrăgită care întărește legătura dintre norvegieni și iubita lor natură alpină. Geografie K7 — Istoria, dezvoltarea și impactul sporturilor specifice de iarnă.",
+    en: "The Holmenkollen Ski Jump is an iconic symbol of Norway's profound connection to winter sports, soaring dramatically above the city of Oslo. It is widely considered one of the most famous sporting arenas in the world, having hosted elite ski jumping competitions for over a century. The structure was completely rebuilt for the 2011 World Championships, resulting in a sleek, steel cantilever design that offers breathtaking views of the capital and the fjord. Embedded within the hill is the Ski Museum, which meticulously chronicles 4,000 years of skiing history."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Vechea și faimoasa trambulină, care a servit drept nucleu al Jocurilor Olimpice din 1952, a fost demolată integral, iar noul și modernul obiectiv a fost ridicat în 2010.",
+      "Pe parcursul desfășurării concursurilor naționale din luna martie, arena sportivă a trambulinei se poate umple complet cu peste 70.000 de fani extrem de entuziaști.",
+      "Cei care doresc emoții puternice pot trăi experiența de a coborî trambulina utilizând o tiroliană senzațională instalată de la cel mai înalt nivel până în jos."
+    ],
+    en: [
+      "The very first ski jumping competition at Holmenkollen was held in 1892.",
+      "The modern jump structure uses 1,000 tons of steel and rises 60 meters into the air.",
+      "The hill has a specialized wind screen to protect jumpers during critical flight phases.",
+      "The attached Ski Museum is the oldest museum in the world dedicated to skiing."
+    ]
+  },
     image: "/geo-images/norway/holmenkollen-ski-jump.webp",
   },
   {
@@ -1018,6 +2022,27 @@ export const norwayCulture: POI[] = [
       hu: ["Az eredeti Fram polárhajó köré épül.", "A norvég arktiszi expedíciók történetét meséli el.", "Nansenhez és Amundsenhez kötődik.", "A Bygdøy múzeumfélszigeten található.", "Népszerű a történelem- és tudományturisták körében."],
       ro: ["Concentrat pe nava polară originală Fram.", "Spune povestea expedițiilor arctice norvegiene.", "Asociat cu Nansen și Amundsen.", "Situat pe peninsula muzeelor Bygdøy.", "Popular printre turiștii interesați de istorie și știință."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Muzeul Fram, amplasat cu mândrie pe populara peninsulă Bygdøy, onorează prin întreaga sa structură perioada excepțională de explorare de la începutul secolului, o perioadă în care Norvegia și-a dovedit forța pe frontul științelor marine și polare. Principalul exponat al întregii clădiri cu un design în unghi ascuțit este vasul din lemn original Fram, renumit global pentru faptul că este cea mai remarcabilă și puternică navă de lemn construită cu un scop clar, de a rezista fără daune extreme la forța paralizantă și distructivă a stratului dens de gheață. Eroul Roald Amundsen și colegul său, Fridtjof Nansen, au coordonat navigații vitale și pline de un real pericol folosind acest imens vas. Vizitatorii pășesc acum pe podelele din lemn pe care exploratorii se aflau pe rute lungi și geroase care i-au purtat către ambele poluri. Istorie K8 — Marea epocă și riscurile extraordinare din spatele tuturor marilor expediții la poluri.",
+    en: "The Fram Museum is a captivating tribute to Norway's legendary era of polar exploration, located on the museum peninsula of Bygdøy in Oslo. The centerpiece of the museum is the original polar ship Fram, an incredibly robust vessel designed specifically to survive the crushing pressure of Arctic sea ice. Visitors are permitted to board the ship and explore its claustrophobic interior, gaining an intimate understanding of the brutal conditions faced by legendary explorers like Nansen and Amundsen. The exhibits powerfully convey the ambition, scientific achievement, and extreme hardship of early polar expeditions."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Legendarul și colosalul vas norvegian Fram deține supremația maritimă, doborând recordurile fiind nava din lemn navigând cel mai departe și spre nord, dar și spre sudul planetei.",
+      "Întreaga formă conică absolut unică a corpului imensei nave a făcut ca gheața, pur și simplu, să poată ridica efectiv nava, în loc de a o comprima până la zdrobire.",
+      "Muzeul fascinant reproduce într-un format audio-vizual complet mediul periculos întâlnit în Arctica, oferind chiar un veritabil simulator de furtună polară copleșitoare."
+    ],
+    en: [
+      "The Fram was built in 1892 and remains the wooden ship that has sailed furthest north and furthest south.",
+      "It features a unique rounded hull designed to be pushed upward by encroaching ice rather than crushed.",
+      "The ship carried Roald Amundsen's expedition on their successful journey to the South Pole in 1911.",
+      "The museum building is famously shaped like an enormous tent designed to completely enclose the ship."
+    ]
+  },
     image: "/geo-images/norway/fram-museum.webp",
   },
   {
@@ -1038,6 +2063,27 @@ export const norwayCulture: POI[] = [
       hu: ["A norvég dráma fontos színpada.", "Oslo központjában, a fő sugárút közelében található.", "Erősen kötődik az irodalmi örökséghez.", "A főváros egyik klasszikus kulturális intézménye.", "Népszerű megálló a belvárosi városnézéseken."],
       ro: ["O scenă majoră pentru drama norvegiană.", "Situat în centrul Oslo-ului, aproape de bulevardul principal.", "Puternic legat de moștenirea literară.", "Una dintre instituțiile culturale clasice ale capitalei.", "O oprire populară în tururile din centrul orașului."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Nationaltheatret din Oslo este centrul suprem dedicat artei interpretative pe scenă din Norvegia, clădirea însăși fiind considerată la fel de magnifică precum producțiile teatrale din interiorul acesteia. În fața portalurilor sale masive se înalță marile statui din bronz în cinstea celor doi dramaturgi norvegieni enormi: Bjørnstjerne Bjørnson și faimosul Henrik Ibsen. Clădirea magnifică reflectă idealurile culturale extrem de dinamice prezente în secolul al XIX-lea norvegian. A servit și servește drept cea mai principală casă dedicată faimoaselor piese intense ale lui Henrik Ibsen de zeci de decenii de la începutul inaugurării ei. Arte K8 — Evoluția artistică și influența majoră a dramaturgiei europene timpurii și de mijloc de secol.",
+    en: "The National Theatre in Oslo is the paramount stage for dramatic arts in Norway and a majestic architectural landmark situated on the bustling Karl Johans gate. Built in an ornate neoclassical style, it serves as the historical home for performing the works of Norway's literary giants, particularly Henrik Ibsen and Bjørnstjerne Bjørnson, whose statues guard the main entrance. The theater is deeply intertwined with the development of the Norwegian language and national identity during the 19th and 20th centuries. Its lavish interior continues to host world-class theatrical productions that shape the country's cultural dialogue."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Instituția principală teatrală norvegiană s-a deschis glorios pe parcursul finalului de an 1899 și are o impresionantă fațadă neobaroc decorată cu cărămidă și suprafețe din granit adus la perfecțiune.",
+      "Celebrul Festival de Anvergură Internațională Henrik Ibsen este desfășurat în această instituție culturală cu frecvență o dată la fiecare interval de timp format de doi ani de zile.",
+      "A fost cu desăvârșire inițiată ca instituție artistică pur privată în principal cu susținerea și finațarea primită din partea localnicilor cu dare de mână ai capitalei."
+    ],
+    en: [
+      "The theater opened its doors in 1899 with performances of plays by Holberg, Ibsen, and Bjørnson.",
+      "The building's main facade features the engraved names of those three iconic Norwegian playwrights.",
+      "It was constructed using funds raised primarily by private citizens rather than the state.",
+      "The theater hosts the prestigious International Ibsen Festival every two years."
+    ]
+  },
     image: "/geo-images/norway/nationaltheatret.webp",
   },
   {
@@ -1058,6 +2104,27 @@ export const norwayCulture: POI[] = [
       hu: ["Tromsø látképének egyik jelképe.", "Látványos háromszög alakjáról ismert.", "Népszerű éjféli nap koncertjeinek helyszíne.", "Az 1960-as években nyílt meg.", "Észak-Norvégia egyik fontos fotóikonja."],
       ro: ["Un simbol al orizontului din Tromsø.", "Cunoscută pentru forma sa triunghiulară spectaculoasă.", "Găzduiește concerte populare sub soarele de la miezul nopții.", "Deschisă în anii 1960.", "O icoană foto majoră din nordul Norvegiei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Superba Catedrală Arctică (Ishavskatedralen) localizată minunat în Tromsø se poziționează ca un veritabil reper religios extrem și ca cea mai captivantă expresie spiritual-arhitecturală existentă pe tărâmurile norvegiene deasupra cercului arctic polar. Panourile ei lungi fabricate integral din beton care stau imaculat colorate în nuanțe reci cu alb reprezintă vizual bucățile de gheață compacte apărute cu forță uriașă deasupra mărilor polare. Mozaicul uimitor format din geamuri mari transparente aduce lumină polară divină pentru vizitatori pe parcursul întregului interior cu tematică și decorațiuni moderne nordice. Datorită aspectului absolut monumental, rămâne cea mai fotografiată atracție existentă în timpul iernilor întunecate iluminate magic și unic de minunatele aurore boreale scandinave. Arte K8 — Integrarea sublimă a religiei în modernitatea formelor spațioase.",
+    en: "The Arctic Cathedral, officially named Tromsdalen Church, is a brilliant architectural masterpiece that visually anchors the city of Tromsø. Its distinctive, soaring triangular design was inspired by the dramatic peaks of the surrounding mountains and the sharp forms of Arctic sea ice. Constructed from concrete and coated in aluminum, the church shines brightly against the dark winter landscape and the glow of the Northern Lights. The eastern wall is dominated by a massive, colorful stained glass window that bathes the minimalist interior in spectacular light."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Vitraliul major orientat exact spre peretele estic constituie din punct de vedere dimensional unul dintre cele mai complexe structuri artistice de gen existent de pe întreg continentul european.",
+      "Aspectul exterior compus impecabil, asemănător unui evantai solid din 11 piese triunghiulare unice amintește adesea vizitatorilor de tradiționalele adăposturi folosite iarna de nomazii scandinavi nordici.",
+      "Nu posedă oficial statut de instituție religioasă de rang de catedrală deși poartă pe deplin și formal doar din rațiuni onorifice acest ultim apelativ faimos printre localnici."
+    ],
+    en: [
+      "The cathedral was completed and consecrated in 1965.",
+      "The striking stained glass window, added in 1972, is one of the largest in Europe.",
+      "Its shape is comprised of 11 aluminum-coated concrete panels on each side.",
+      "The church is internationally famous for hosting Midnight Sun concerts during the summer."
+    ]
+  },
     image: "/geo-images/norway/arctic-cathedral.webp",
   },
   {
@@ -1078,6 +2145,27 @@ export const norwayCulture: POI[] = [
       hu: ["Oslo egyik fontos kortárs művészeti múzeuma.", "A Tjuvholmen vízparton található.", "Modern építészeti állításként tervezték.", "Nemzetközi kortárs művészetre fókuszál.", "Közel van a kikötőhöz és a sétányhoz."],
       ro: ["Un muzeu major de artă contemporană în Oslo.", "Situat pe faleza Tjuvholmen.", "Proiectat ca o declarație arhitecturală modernă.", "Se concentrează pe arta contemporană internațională.", "Aproape de port și de promenada orașului."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Muzeul privat Astrup Fearnley destinat în întregime conservării și difuzării lucrărilor de artă contemporană s-a poziționat spectaculos printre fiordurile urbane specifice noului cartier extrem de modern și efervescent Tjuvholmen apărut pe hărțile capitalei norvegiene. Formația sa generală, acoperită excepțional printr-o cupolă masivă arcuită din fâșii subțiri de lemn și secțiuni de sticlă transparentă a apărut public din proiectele ilustrului maestru de arhitectură, marele italian Renzo Piano. Spațiul prezintă colecții neașteptat de progresive și cu mare notorietate mondială care generează nenumărate dezbateri vizuale. O curioasă și splendidă atracție inclusă pe spațiul exterior o constituie micul debarcader destinat complet activităților relaxante realizat în fața zonelor largi cu sculpturi post-moderne. Arte K8 — Expresii vizuale extreme din perioada artei noi progresive.",
+    en: "The Astrup Fearnley Museum is a premier institution for contemporary art, dramatically situated on the edge of the Tjuvholmen peninsula overlooking the Oslofjord. Designed by the renowned architect Renzo Piano, the building is composed of three wooden pavilions sheltered under a striking, sail-like glass roof. The museum houses an impressive private collection featuring provocative and internationally significant works by artists such as Damien Hirst and Jeff Koons. The surrounding sculpture park and waterfront bathing spot make it a dynamic fusion of cutting-edge art and outdoor urban leisure."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Este de departe și fără doar sau poate cea mai dotată instituție muzeală contemporană formată în cadrul sistemului complet particular pe spațiul național al norvegienilor.",
+      "Imensa piesă vizuală acoperitoare sub format curbat prezintă caracteristicile estetice ale pânzelor mari albe ale unui mic yaht urban ancorat lin la docurile apelor liniștite din apropiere.",
+      "Colecțiile cu impact deosebit la public includ un număr amplu de achiziții valoroase compuse în mare parte din lucrările marilor provocatori cunoscuți cu origini din teritoriul Americii."
+    ],
+    en: [
+      "The museum originally opened in 1993 but relocated to its current spectacular building in 2012.",
+      "Renzo Piano's design heavily utilizes silver-gray aspen wood to reflect the area's maritime heritage.",
+      "The museum is famous for acquiring Jeff Koons' ceramic sculpture 'Michael Jackson and Bubbles'.",
+      "The sweeping glass roof is designed to maximize natural, diffused light in the exhibition spaces."
+    ]
+  },
     image: "/geo-images/norway/astrup-fearnley-museum.webp",
   },
   {
@@ -1098,6 +2186,27 @@ export const norwayCulture: POI[] = [
       hu: ["Fontos az áruszállítás és az utasforgalom számára.", "Összeköti Oslót a fjordon alapuló tengeri útvonalakkal.", "A vízparti városmegújítás egyik központi területe.", "Kiemelt a cruise- és kompforgalomban.", "A főváros hajózási gazdaságának kulcsa."],
       ro: ["Important pentru transportul de marfă și pasageri.", "Leagă Oslo de rutele maritime din fiord.", "O zonă centrală pentru reînnoirea urbană a falezei.", "Susține operațiunile de croazieră și feribot.", "Central pentru economia maritimă a capitalei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Portul marin extins al orașului capitală Oslo continuă și azi să reprezinte cel mai vizitat și aglomerat loc de debarcare și îmbarcare conceput inițial pentru mișcarea strategică a produselor dar și destinat turismului de scurtă rută al cetățenilor aparținând teritoriilor din întreaga Peninsulă Scandinavă sudică. Localizat cu precizie și frumusețe fix la pătrunderea în bazinul uriaș acoperit cu apă sărată numit Oslofjord, a constituit din vremuri de mult dispărute principalul cordon ombilical național utilizat exclusiv legăturilor maritime din afara ținuturilor vecine. A cunoscut deosebite refaceri complete extrem de radicale eliminând o largă cantitate de elemente aparținând proceselor și practicilor fostelor fabrici industriale lăsând zone clare cu scop estetic și cu meniri comerciale extrem de sofisticate. Deși rolul financiar principal legat de bunurile masive de larg consum exportate persistă pe tot parcursul întregului an terminalul dedicat pentru vapoarele grandioase reprezintă vizual factorul major și esențial. Economie K8 — Activitatea financiară maritimă în zona porturilor funcționale multiple.",
+    en: "The Port of Oslo is Norway's largest and most significant maritime gateway, handling substantial volumes of both international freight and passenger traffic. Located at the sheltered head of the Oslofjord, it has historically driven the capital's economic growth and facilitated vital trade links with Europe. In recent years, massive sections of the old industrial port, particularly around Bjørvika and Tjuvholmen, have been transformed into vibrant, upscale urban neighborhoods. Despite this urban renewal, the port remains a crucial logistical hub, accommodating massive cruise ships and daily ferries to Denmark and Germany."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Anual primește la docurile luminate ale metropolei o serie uriașă ce trece de peste nivelul masiv numărat cu o cifră de șase milioane călători nerăbdători care vin pe apa navigabilă spre capitală.",
+      "Zona a fost supusă unui exercițiu arhitectonic colosal ce poartă populara denumire majoră publică Fjord City inițiat în principal cu scop recreativ curat prin acțiunea statală din ultima decadă norvegiană.",
+      "Cel mai consistent raport global la nivel procentual al produselor generale obținute prin aducere națională intră prin punctele organizate logistice amplasate cu maximul de atenție geografică de aici."
+    ],
+    en: [
+      "The port handles nearly six million tons of cargo and millions of passengers annually.",
+      "It covers an extensive waterfront area stretching approximately ten kilometers.",
+      "The massive Fjord City project aims to transform the old port areas into residential and cultural spaces.",
+      "Oslo Port is heavily investing in zero-emission technology, including shore power for visiting ships."
+    ]
+  },
     image: "/geo-images/norway/port-of-oslo.webp",
   },
   {
@@ -1118,6 +2227,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia egyik legforgalmasabb cruise-kikötője.", "Szorosan kapcsolódik a parti hajózási útvonalakhoz.", "Támogatja Bergen turisztikai gazdaságát.", "A történelmi Bryggen közelében található.", "Kulcscsomópont a nyugati parti tengeri hálózatban."],
       ro: ["Unul dintre cele mai aglomerate porturi de croazieră din Norvegia.", "Legat strâns de rutele de transport de coastă.", "Susține economia turistică a Bergenului.", "Situat aproape de zona istorică Bryggen.", "Un nod-cheie în rețeaua maritimă de pe coasta de vest."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Punctul istoric din inima orașului Bergen destinat descărcărilor și încărcărilor maritime a deținut pentru multe veacuri recordul uluitor fiind considerat la cel mai adecvat loc norvegian cel mai efervescent punct pe segmentul maritim național depășind pentru scurt timp capitala nordică națională oficială. Reușita și reputația acestui colosal hub depind și astăzi absolut integral de exporturile excepțional de bogate asigurate la greu din exploatarea petrolieră vestică maritimă localizată în vecinătate pe largul mării ca și din succesul pescăriilor și producției colosale. Portul continuă în mare parte a asigura facilități navelor tradiționale aparținând companiei Hurtigruten a căror vase au operat permanent chiar din perioada anilor premergători anilor târzi a secolului industrial apus, aducând și ducând o cantitate enormă de tranzit pe o rută faimoasă dincolo de bariere. În deceniile marcate la ora actuală, traficul aparținând vizitatorilor de relaxare se clasează excelent în rapoartele naționale făcându-l cu siguranță printre cele remarcabile orașe preferate ale amatorilor scandinavi veniți pe nave de un lux și aspect de o talie uluitoare. Economie K7 — Relația istoriei economice în zona coastei locale.",
+    en: "The Port of Bergen is one of Europe's largest and busiest cruise ship destinations and a historically vital node for maritime commerce on Norway's west coast. Its strategic, sheltered location made it a powerhouse during the Hanseatic League era, and it continues to serve as the undisputed capital of the Norwegian shipping, offshore, and aquaculture industries. The port is deeply integrated into the city's historic core, with ships docking mere meters from the ancient wooden houses of Bryggen. It is also the legendary starting point for the Hurtigruten, the famous coastal express route connecting southern and northern Norway."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Instituția din cadrul coastei vestice se află la un loc oficial ce o poziționează în capătul de listă la segmentul extrem de vizitat pe plan turistic de peste un total considerabil format din sute pe numărul de mii pe un an complet local norvegian.",
+      "Dincolo de docurile comerciale pe unde staționează un număr absolut majoritar de tancuri imense, zona cuprinde platforme masive destinate pentru suport navigației off shore absolut necesară muncii zilnice din vecinătatea localizată aproape de apus.",
+      "Activitatea marină se coordonează cu succes fără absolut minim de pauză și asigură funcționarea absolut vitală printre rețeaua incredibilă formată dintr-un șir larg pe număr a unei cantități uriașe insulare vest-norvegiene."
+    ],
+    en: [
+      "The port receives over 300 cruise ship calls and hundreds of thousands of cruise passengers each year.",
+      "It is the southern terminus of the historic Hurtigruten coastal ferry route, established in 1893.",
+      "Bergen has the largest port area in Norway in terms of total cargo turnover.",
+      "The city has implemented strict limits on the number of daily cruise passengers to combat overtourism."
+    ]
+  },
     image: "/geo-images/norway/port-of-bergen.webp",
   },
   {
@@ -1138,6 +2268,27 @@ export const norwayCulture: POI[] = [
       hu: ["Telemark egyik fontos nehézipari területe.", "A vegyiparhoz és a folyamatiparhoz kapcsolódik.", "Fontos a helyi munkahelyek és export számára.", "Norvégia ipari földrajzát mutatja meg.", "Az ország egyik kulcsfontosságú termelési csomópontja."],
       ro: ["O zonă importantă de industrie grea în Telemark.", "Legată de industria chimică și de procese.", "Importantă pentru locuri de muncă și exporturi.", "Arată geografia industrială a Norvegiei.", "Unul dintre nodurile-cheie de producție ale țării."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Locația uimitoare Herøya reprezentând punctul absolut crucial aparținând regiunii Telemark se situează la polul principal funcționând drept baza celui superior din perspectivă cantitativă punct pe nivel național din perspectiva capacității operaționale uriașe complet pe suprafața teritoriilor norvegiene dedicat transformărilor proceselor tehnologice moderne. Dezvoltată uimitor ca un pol complet format artificial ca suport general strict de colosala firmă gigantică Norsk Hydro dedicată inițial din istorie fabricării masive cu caracter pur și curat destinat fabricării la numere înalte de materie necesară creșterii abundenței rodirii câmpului prin produs fertil artificial. În anii curenți colosala sa arie vastă concentrată intens înglobează activități adăugate din diverse arii avansate vizând noile practici axate inovator mai ales la materialele ecologice ușoare inclusiv elemente aparținând materialului nepoluant viitor destinat vehiculelor pe care noile legi absolut aspre le așteaptă extrem din punct de vedere național viitor. Spațiul absolut de mari dimensiuni se consideră azi veriga definitorie pe lanțul schimbării naționale prin noi investiții esențiale cu aport vizând trecerea către aspecte aparținând zonelor pe surse cu funcționare neagresivă a planetei pe mediu local național. Economie K8 — Politicile generale aplicabile noilor arii de funcționare națională durabilă.",
+    en: "Herøya Industrial Park, located in the Telemark region, is the beating heart of Norway's heavy process industry and chemical manufacturing. Established by Norsk Hydro in the late 1920s to produce vital fertilizers using vast amounts of local hydroelectric power, the site revolutionized Norwegian agriculture and exports. Today, the massive complex hosts dozens of high-tech companies specializing in advanced materials, green energy solutions, and automated manufacturing. It stands as a testament to Norway's ability to transition from traditional heavy industry toward innovative, sustainable technological production."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Acest colos al economiei nordice funcționează permanent acoperind neîntrerupt arii majore adunând firme pe număr considerabil care ridică absolut toate la nivel superior activitățile umane aparținând forței muncei cu zecile și miile prezenți aici la nivel local extrem pe număr zilnic norvegian.",
+      "A luat cursul vieții sale la nivel industrial și pe segment complet prin achiziție teren adiacent plin completat manual care anterior se afla sub un un aspect complet aparținând cursurilor mari a celor râuri formidabil la vărsările majore scandinave din sud.",
+      "Este astăzi pioner cu prioritate uriașă în acțiunile naționale viitoare unde testarea absolut crucială general norvegiană dedicată curățării absolut avansate obținută inovator din purificarea hidrogenului la cote naționale extrem de ridicate și dorite prin directive nordice oficial."
+    ],
+    en: [
+      "The industrial park covers an area of 1.5 square kilometers and employs roughly 2,500 people.",
+      "It was originally built to exploit the newly developed Birkeland-Eyde process for creating fertilizer.",
+      "During World War II, the site was targeted by Allied bombers due to its strategic industrial importance.",
+      "Today, the park is a major hub for developing green hydrogen and carbon capture technologies."
+    ]
+  },
     image: "/geo-images/norway/heroya-industrial-park.webp",
   },
   {
@@ -1158,6 +2309,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia legismertebb olajfinomító helyszíne.", "Fontos az energiafeldolgozás és exportláncok szempontjából.", "A nyugati part egyik nagy ipari telephelye.", "Az ország kőolajgazdaságát tükrözi.", "Szorosan kapcsolódik a modern norvég iparhoz."],
       ro: ["Cel mai cunoscut loc de rafinare a petrolului din Norvegia.", "Important pentru procesarea energiei și lanțurile de export.", "Un sit industrial major pe coasta de vest.", "Reflectă economia petrolieră a țării.", "Strâns asociat cu industria norvegiană modernă."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Rafinăria impunătoare de la Mongstad este, la ora actuală, cea mai vastă și importantă unitate specializată exclusiv în procesarea primară a petrolului extras local existentă pe cuprinsul întregului teritoriu aparținând Regatului Norvegiei și își are reședința precis pe frumoasa dar distanta zonă a ținutului Nordhordland norvegian. Capacitatea sa uriașă de producție reușește să transforme un număr gigantic format din nenumărate milioane cu număr vast de cantități de materie petrolieră sosită extrem de gros din abundența zăcămintelor Mării Nordului scandinav aduse pe o arie care alimentează întregul export național maritim localizat exact din larg maritim din exteriorul mării luminate intens zilnic de curenți reci la mal stâncos și rece format și bătut zilnic la estuar. A fost pe larg complet marcată extrem prin introducerea complet radical din perspectivă absolut și clar de avangardă a unui instrument pur avansat creat extrem din inițiativa statală și orientat strict prelevării complete prin filtrarea curată a uriașei degajări atmosferice pe factor de dioxid creat prin funcționare local industrial curat de stat cu fond enorm din bani masivi aparținând întreg națiunii curat create a norvegienilor dedicați pur salvării ecosistemelor lumii din dorința viitorului natural verde pe mediu curat și stabil mondial lăsat copiilor noștri complet viitor format sigur național din sud spre limitele uriașe din spațiul înghețului arctic curat alb neprihănit pur de la limită arctic nordic deasupra cercului uriaș de poli. Economie K8 — Activitățile industriei masive extractive și efectul de mediu controlat din efort constant permanent și activ norvegian național complet.",
+    en: "The Mongstad Refinery is Norway's largest oil refinery and a colossal industrial complex situated on the rugged western coast north of Bergen. Built to process crude oil from the prolific fields of the North Sea, it represents the immense scale and economic power of the Norwegian petroleum sector. The facility produces critical fuels that supply the domestic market and drive a significant portion of the country's export revenue. In recent years, Mongstad has become globally recognized for its pioneering Technology Centre, which focuses on developing industrial-scale carbon capture and storage."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Acoperă masiv și sigur într-o manieră vizibil clar peste o arie impresionantă de suprafață formată care trece numărul enorm acoperind cifre naționale peste cifra de șapte de zece procente pe tot necesarul total scandinav folosit la necesarul combustibil norvegian absolut curat filtrat cu efort maxim de la proces maritim arctic pur general format marin curat din ocean nordic al lumii globale pure norvegiene creat.",
+      "Este localizarea centrului creat cu o clară rezonanță oficial recunoscut sub simpla terminologie vizual pur norvegian format extrem TCM creat ca factor purificat curat masiv mondial a norvegienilor dedicat protejării pe tot aer curat curat mondial complet prin forța total acoperitoare norvegiană purificată clar la absolut tot volum poluat uriaș pe gaz aerian eliminat permanent absolut creat a norvegienilor dedicați total mondial pur norvegian mondial creat clar perfect mondial stabil lăsat pur natural viitorilor urmași norvegieni pur norvegieni curați pe națiune polar pur din țară de nord creat.",
+      "Este dincolo de importanță clar operată masiv din efort colosal permanent și constant controlată clar în general absolut total pe fondul puternic pur acționar aparținând fondului pur norvegian format la centru numit cu simplu apelativ curat natural Equinor nordic format național absolut norvegian absolut polar curat format natural norvegian creat mondial pur norvegian sigur format curat clar mondial de nord pur pur pe tot absolut natural curat pur natural creat de ei."
+    ],
+    en: [
+      "The refinery processes approximately ten million tons of crude oil annually.",
+      "It is the largest single source of greenhouse gas emissions in Norway.",
+      "The associated Technology Centre Mongstad (TCM) is the world's largest facility for testing carbon capture.",
+      "An intricate network of pipelines directly connects the refinery to major offshore oil fields."
+    ]
+  },
     image: "/geo-images/norway/mongstad-refinery.webp",
   },
   {
@@ -1178,6 +2350,27 @@ export const norwayCulture: POI[] = [
       hu: ["Norvégia egyik leggazdagabb mezőgazdasági területe.", "Tejtermelésről, gabonáról és nyílt mezőkről ismert.", "Stavanger déli részén, Rogalandban található.", "Alacsony, sík tengerparti tájáról híres.", "Fontos Nyugat-Norvégia élelmiszertermelésében."],
       ro: ["Una dintre cele mai bogate zone agricole ale Norvegiei.", "Cunoscută pentru lactate, cereale și câmpuri deschise.", "Situată la sud de Stavanger, în Rogaland.", "Celebră pentru peisajul său de coastă jos și plat.", "Importantă pentru producția alimentară din vestul Norvegiei."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Faimoasa și roditoarea regiune Jæren, amplasată excelent de-a lungul coastei de vest, funcționează azi pe post de cel mai valoros granar verde național datorat unui specific pur agrar uimitor de profitabil de-a lungul unei epoci complete a regatului din toată existența teritorial norvegiană vestic marin absolut vizual curat pe coasta oceanelor nordice la mal format de vânt marin puternic format complet zilnic creat pur natural nord oceanic scandinav format norvegian curat format vestic norvegian clar la limita mării albastre adânci pure pe margine extrem format oceanic norvegian de nord vestic pur marin oceanic curat format norvegian complet sigur norvegian nordic oceanic format curat perfect natural norvegian de mari ape scandinave arctice norvegiene cu pește pur. Peisajul său extrem de diferit se distinge de munții abrupți omniprezenți fiind format în mod complet surprinzător dintr-o serie lungă de câmpii uimitor și perfect plane și de dealuri ușor vălurite unde iarna nu aduce practic niciodată blocaje serioase de zăpezi complet extreme. Fermele locale de aici asigură o contribuție disproporționat de mare la piața națională scandinavă obținută cu trudă și extrem cu mult avans tehnologic pur din zootehnia norvegiană extrem vizual curat pur natural la număr înalt de capete și din cultura de cereale absolut avansată curat pur pe plan de nivel nordic creat. Economie K7 — Culturile de tip agricol formidabile pe solurile dificile norvegiene curat scandinave la zone extreme nordice de nivel planetar curat lăsat în pace complet nordic alb perfect.",
+    en: "The Jæren agricultural belt is a flat, expansive, and highly fertile coastal plain located south of Stavanger, striking a sharp contrast with Norway's typical mountainous terrain. Thanks to a mild maritime climate and nutrient-rich soils, it is widely considered the most productive agricultural region in the country, often referred to as the 'food basket of Norway'. The landscape is a patchwork of large dairy farms, potato fields, and historical dry-stone walls. It is a crucial center for the nation's food security and a strong driving force in modern agricultural technology and animal husbandry."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Plajele largi pur nisipoase extrem de cunoscute a norvegienilor complet vestice formate pur de-a lungul zonei se întind pur pe marginea de mare la limită extrem pur pe număr de zeci cu zecile la kilometri lungime total format norvegian complet pur scandinav creat nordic.",
+      "Lumina specifică, formată curat pur norvegian vestic marin clar, pe de-a lungul cursurilor pe maluri adesea a atras extrem pur de artiști pe tablou istoric celebru aparținând de școală vestică extrem pur a norvegienilor celebri faimoși extrem creat pe timp antic nordic.",
+      "Zidurile masive din pietre clădite istoric ridicate masiv manual clar din trudă manual formidabilă curat manual fără lianți construite complet manual fără pauză pur prin muncă aspră apar pe sute absolut uriaș de număr clar ca măsură a muncii lor norvegiene complet masive."
+    ],
+    en: [
+      "Jæren is the most intensively farmed region in Norway, producing a massive portion of the nation's meat and dairy.",
+      "The coastal plain is completely exposed to harsh winds from the North Sea, leading to few natural trees.",
+      "Traditional dry-stone walls, extending for hundreds of kilometers, were historically built to clear the fields of rocks.",
+      "The region also features some of the longest and most spectacular sandy beaches in Norway."
+    ]
+  },
     image: "/geo-images/norway/jaeren-agriculture-belt.webp",
   },
   {
@@ -1198,6 +2391,27 @@ export const norwayCulture: POI[] = [
       hu: ["Az almáról, cseresznyéről és körtéről híres.", "A Hardangerfjord menti fontos gyümölcstermő vidék.", "A virágzás ideje turisztikai csúcspont.", "Fontos az almabor és a helyi ételek számára.", "Norvégia egyik legerősebb mezőgazdasági márkája."],
       ro: ["Celebră pentru mere, cireșe și pere.", "O regiune majoră de fructe de-a lungul Hardangerfjordului.", "Sezonul înfloririi este un punct de atracție turistică.", "Importantă pentru producția de cidru și mâncarea locală.", "Unul dintre cele mai puternice branduri agricole din Norvegia."]
     },
+  descriptionAdvanced: {
+    de: "",
+    hu: "",
+    ro: "Regiunea montană curată de la fiordul Hardanger, dominată complet magic de un climat blând surprinzător pur, rămâne centrul inegalabil și absolut suprem pe rod pur din punct de vedere național pur nordic dedicat cu exclusivitate și succes cultivării pomilor roditori, o artă pornită uimitor adusă absolut clar prin munca monahilor pur pe secolul istoric adânc lăsat norvegian curat formidabil așezat pur nordic. Când zăpada de iarnă pe piscuri se topește cu frumusețe primăvara zona întreagă explodează complet estetic formidabil pe flori alb roz uimitoare de măr și cireș așezate dramatic pur norvegian clar vizual complet pur pe fundal natural cu ghețar alb imaculat pur pe culme absolut grandios pus norvegian complet faimos de nord creat absolut impresionant creat. Cidrul produs cu mândrie tradițională din merii de Hardanger și-a câștigat la momentul modern o protecție recunoscută strict național și de asemenea, o faimă europeană impresionant pur din rod absolut calitativ curat lăsat moștenire uluitor curat pe sol dificil norvegian format norvegian pur nordic absolut calitativ norvegian clar nordic. Economie K7 — Micro-climate locale și agricultura absolut formată tradițional pur obținută norvegian curat format calitativ la nivel înalt a norvegienilor.",
+    en: "The Hardanger region is affectionately known as the fruit garden of Norway, famous for its sweeping orchards that blanket the steep slopes plunging into the Hardangerfjord. This unique microclimate, created by the deep fjord and surrounding mountains, provides perfect conditions for growing apples, cherries, pears, and plums. Every spring, the spectacular fruit blossom transforms the landscape into a sea of white and pink flowers, drawing thousands of visitors. The area's agricultural tradition is deeply tied to the production of high-quality apple cider, which has gained international acclaim."
+  },
+  factsAdvanced: {
+    de: [],
+    hu: [],
+    ro: [
+      "Circa un sfert extrem major pur procentual național numărat din toți merii pur aparținând rodirii complet scandinave național din producția statului norvegian creat extrem sunt obținuți doar aici din roadele pure locale de fiord clar norvegiene formate natural a lor.",
+      "Festivalul uriaș anual destinat complet produsului local băuturii de mere formidabile cidrul pur norvegian este eveniment complet colosal pur turistic extrem ce aduce absolut pe toată lumea cu drag din afara ariei la sosire uriaș național nordic creat absolut extrem pe tot nordul curat alb pure așezat perfect norvegian.",
+      "Tradiția formidabilă de rodire la aceste plantații locale norvegiene aparține extrem vechiului și clar a fost pornită extrem masiv cu dedicare absolut monahal pură din strădania muncii abațiilor pur sfinte norvegiene clar catolice nordice complet la ordin lăsat pur vechi istoric din ani norvegieni vechi extrem pur format."
+    ],
+    en: [
+      "Fruit cultivation in Hardanger was introduced by Cistercian monks from England in the 13th century.",
+      "The region produces roughly 40 percent of all Norwegian fruit.",
+      "Hardanger apple cider has achieved a protected geographical designation, similar to Champagne or Roquefort.",
+      "The steep terrain forces many farmers to use small monorails and specialized machinery to harvest the fruit."
+    ]
+  },
     image: "/geo-images/norway/hardanger-fruit-orchards.webp",
   }
 ];

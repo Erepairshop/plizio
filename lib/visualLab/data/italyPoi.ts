@@ -1,3 +1,7 @@
+import { poiExtraItalyCitiesC1 } from "./poiExtraItalyCitiesC1";
+import { poiExtraItalyNatureGeschichteC2 } from "./poiExtraItalyNatureGeschichteC2";
+import { poiExtraItalyWirtschaftLebenC3 } from "./poiExtraItalyWirtschaftLebenC3";
+
 ﻿import type { POI } from "./poi";
 
 export const italyCountry: POI = {
@@ -2489,8 +2493,6 @@ export const italyCities: POI[] = [
   }
 ];
 
-export const italyAllPoi: POI[] = [
-  italyCountry,
+export const italyAllPoi: POI[] = [italyCountry,
   ...italyRegions,
-  ...italyCities,
-];
+  ...italyCities,, ...poiExtraItalyCitiesC1, ...poiExtraItalyNatureGeschichteC2, ...poiExtraItalyWirtschaftLebenC3];

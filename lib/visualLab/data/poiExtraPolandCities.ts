@@ -18,6 +18,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Lubusi vajdaság legnagyobb városa.", "Évenkénti borfesztivál 1852 óta.", "Pálmaház egzotikus növényekkel."],
       ro: ["Cel mai mare oraș din Voievodatul Lubusz.", "Festival anual al vinului din 1852.", "Sera de palmieri cu plante exotice."],
       en: ["Largest city in the Lubusz Voivodeship.", "Annual wine festival since 1852.", "Palm House with exotic plants."]
+    },
+    descriptionAdvanced: {
+      hu: "Zielona Góra a lengyel borászat egyik legfontosabb történelmi fellegvára, amelynek gyökerei a 12. századig nyúlnak vissza. A Lubusi vajdaság kulturális szíveként a város nemcsak a híres Winobranie fesztiválnak ad otthont, hanem jelentős oktatási intézményekkel is büszkélkedhet. Földrajzi elhelyezkedése kedvező mikroklímát biztosít, ami ideális a szőlőtermesztéshez ezen az északi szélességen. Építészetében a középkori és a modern elemek harmonikus egységet alkotnak. (Földrajz K6 — Mezőgazdaság és mikroklíma)"
+    },
+    factsAdvanced: {
+      hu: ["A borkészítés hagyománya több mint 800 éves a térségben.", "A helyi Pálmaház egy egykori borospince fölé épült.", "A Winobranie fesztivál idején a város kulcsait szimbolikusan Bacchusnak adják át."]
     }
   },
   {
@@ -37,6 +43,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Megosztott fővárosi szerep Zielona Górával.", "Fontos folyami kikötő.", "13. századi katedrális."],
       ro: ["Funcție de capitală împărțită cu Zielona Góra.", "Port fluvial important.", "Catedrală din secolul al XIII-lea."],
       en: ["Shared capital function with Zielona Góra.", "Important river port.", "13th-century cathedral."]
+    },
+    descriptionAdvanced: {
+      hu: "Gorzów Wielkopolski a Warta folyó festői völgyében épült, jelentős történelmi múltra visszatekintő kereskedelmi csomópont. A középkori Landsberg an der Warthe néven alapított település gyorsan fejlődött a folyami hajózásnak köszönhetően. A városképet a 13. századi vöröstéglás Mária Mennybemenetele katedrális uralja, amely a régió legfontosabb gótikus műemléke. A II. világháború után a lengyel újraépítés egyik kulcsfontosságú ipari és adminisztratív központjává vált. (Történelem K7 — Középkori városfejlődés)"
+    },
+    factsAdvanced: {
+      hu: ["A város legrégebbi épülete a 13. században emelt gótikus katedrális.", "Fontos vasúti és folyami csomópontként működött a 19. században.", "A II. világháború során a város történelmi központjának jelentős része elpusztult."]
     }
   },
   {
@@ -56,6 +68,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Stratégiai fekvés az Odera mentén.", "Eredete a 10. századra nyúlik vissza.", "A sziléziai védelmi vonal része volt."],
       ro: ["Poziție strategică pe râul Oder.", "Origini în secolul al X-lea.", "Parte a liniei de apărare sileziene."],
       en: ["Strategic location on the Oder river.", "Origins in the 10th century.", "Part of the Silesian defense line."]
+    },
+    descriptionAdvanced: {
+      hu: "A Krosno Odrzańskie erőd évszázadokon át kulcsfontosságú védelmi pont volt az Odera folyó mentén, védve a nyugati határokat. A Piast-dinasztia által emelt vár nemcsak katonai, hanem jelentős adminisztratív funkciót is betöltött Szilézia történelmében. A 15. században a térség politikai központjaként funkcionált, és falai között fontos diplomáciai találkozók zajlottak. Mára a romok értékes régészeti lelőhelyet és turisztikai látványosságot jelentenek. (Történelem K6 — Középkori várrendszerek és védelem)"
+    },
+    factsAdvanced: {
+      hu: ["I (Szakállas) Henrik lengyel fejedelem itt hunyt el 1238-ban.", "Az erőd az 1476-os krosnói csata központi helyszíne volt.", "A svéd és porosz csapatok is elfoglalták a harmincéves háború során."]
     }
   },
   {
@@ -75,6 +93,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO Világörökség része 2004 óta.", "Tervezte Hermann von Pückler-Muskau.", "A Neisse folyó osztja ketté."],
       ro: ["Patrimoniu Mondial UNESCO din 2004.", "Proiectat de Hermann von Pückler-Muskau.", "Împărțit de râul Neisse."],
       en: ["UNESCO World Heritage site since 2004.", "Designed by Hermann von Pückler-Muskau.", "Divided by the Neisse river."]
+    },
+    descriptionAdvanced: {
+      hu: "A Muskaui park a 19. századi európai tájépítészet egyik legkiemelkedőbb alkotása, amelyet Hermann von Pückler-Muskau herceg álmodott meg. A Neisse folyó által kettészelt birtok határon átnyúló fekvése miatt egyedülálló szimbóluma a német-lengyel kulturális örökségnek. A több mint 830 hektáros terület aprólékosan tervezett kilátópontokat, mesterséges tavakat és ritka növényfajokat rejt. 2004-es UNESCO világörökségi listára kerülése mérföldkő volt a két ország közös műemlékvédelmi munkájában. (Művészettörténet K8 — 19. századi tájépítészet)"
+    },
+    factsAdvanced: {
+      hu: ["A park teljes területe eléri a 830 hektárt.", "Pückler-Muskau herceg majdnem csődbe ment a hatalmas tájkert megépítése miatt.", "A II. világháború után a park keleti része lengyel, nyugati része német területre került."]
     }
   },
   {
@@ -94,6 +118,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Fontos kikötő a Visztula-öbölben.", "A Német Lovagrend alapította.", "Az óvárost a háború után újjáépítették."],
       ro: ["Port important la Laguna Vistulei.", "Fondat de Cavalerii Teutoni.", "Centrul Vechi a fost reconstruit după război."],
       en: ["Important port on the Vistula Lagoon.", "Founded by the Teutonic Knights.", "The Old Town was rebuilt after the war."]
+    },
+    descriptionAdvanced: {
+      hu: "Elbląg a középkori Hanza-szövetség egyik legjelentősebb kelet-európai kikötővárosa volt, stratégiai fekvéssel a Visztula-öböl partján. A Német Lovagrend által 1237-ben alapított település a borostyán- és faterkedelem révén hihetetlen gazdagságra tett szert. Az óváros a II. világháború pusztításai után egy egyedülálló, retroverziós eljárással épült újjá, amely ötvözi a történelmi alaprajzot a modern építészeti megoldásokkal. A város ma is kulcsszerepet játszik a balti-tengeri hajózásban a nemrég megépült Visztula-turzás csatornának köszönhetően. (Történelem K7 — A Hanza-szövetség kereskedelme)"
+    },
+    factsAdvanced: {
+      hu: ["A 14. században Gdansk mellett a régió legforgalmasabb kikötője volt.", "Az óvárost a világ egyik legnagyobb retroverziós projektje keretében építik újjá.", "Az Elbląg-csatorna a világ egyik ritka, vízi rámpákkal működő műszaki emléke."]
     }
   },
   {
@@ -113,6 +143,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Hitler főhadiszállása 1941-1944.", "A Stauffenberg-merénylet helyszíne.", "Hatalmas bunkerrendszer az erdőben elrejtve."],
       ro: ["Cartierul general al lui Hitler 1941-1944.", "Locul atentatului lui Stauffenberg.", "Buncăre masive ascunse în pădure."],
       en: ["Hitler's headquarters 1941-1944.", "Site of the Stauffenberg assassination attempt.", "Massive bunkers hidden in the forest."]
+    },
+    descriptionAdvanced: {
+      hu: "A Farkasverem (Wolfsschanze) a náci Németország keleti frontjának legfőbb katonai irányítóközpontjaként működött 1941 és 1944 között. A masúriai erdők mélyén, több mint 200 hektáron elterülő szigorúan titkos komplexum hatalmas vasbeton bunkereket és kiterjedt logisztikai infrastruktúrát foglalt magába. Claus von Stauffenberg gróf itt kísérelt meg merényletet Adolf Hitler ellen 1944. július 20-án, amelynek kudarca tragikus következményekkel járt a német ellenállásra nézve. A visszavonuló német csapatok a létesítmény nagy részét felrobbantották, ám a hatalmas betonmonstrumok ma is mementóként állnak. (Történelem K8 — A második világháború eseményei)"
+    },
+    factsAdvanced: {
+      hu: ["A bunkerek falainak vastagsága helyenként elérte a 8 métert.", "Több mint 2000 ember szolgált a komplexumban annak fénykorában.", "A Vörös Hadsereg közeledtekor, 1945 januárjában a németek felrobbantották a támaszpontot."]
     }
   },
   {
@@ -132,6 +168,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb tava (113,8 km²).", "Maximális mélysége 23 méter.", "A Nagy-Mazuri-tavak része."],
       ro: ["Cel mai mare lac din Polonia (113,8 km²).", "Adâncime maximă de 23 de metri.", "Parte a Marilor Lacuri Mazuriene."],
       en: ["Largest lake in Poland (113.8 km²).", "Maximum depth of 23 meters.", "Part of the Great Masurian Lakes."]
+    },
+    descriptionAdvanced: {
+      hu: "A Śniardwy-tó, Lengyelország legnagyobb állóvize, a Mazuri-tóhátság páratlan természeti gyöngyszeme. Több mint 113 négyzetkilométeres kiterjedése miatt gyakran nevezik masúriai tengernek is, partvonalát jégkorszaki morénák és sűrű fenyőerdők tagolják. A tó egy kiterjedt, hajózható csatornarendszer központja, amely összeköti a környező kisebb tavakat, így a vízi turizmus fellegvára. Gazdag halállománya és a part menti nádasokban fészkelő ritka madárfajok miatt kiemelt ökológiai jelentőséggel bír. (Földrajz K6 — Glaciális tórendszerek)"
+    },
+    factsAdvanced: {
+      hu: ["Nyolc sziget is található a tó vizén, köztük a legnagyobb a Pajęcza.", "Erős szeleiről ismert, amelyek akár 2 méteres hullámokat is korbácsolhatnak.", "A tó jégkorszaki eredetű, mintegy 12 000 évvel ezelőtt alakult ki a visszahúzódó jégtakaró nyomán."]
     }
   },
   {
@@ -151,6 +193,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Több mint ezeréves történelem.", "Fontos erőd az első világháborúban.", "Az ukrán határ közelében fekszik."],
       ro: ["Istorie de peste o mie de ani.", "Fortăreață importantă în Primul Război Mondial.", "Situat lângă granița cu Ucraina."],
       en: ["Over a thousand years of history.", "Important fortress in World War I.", "Located near the Ukrainian border."]
+    },
+    descriptionAdvanced: {
+      hu: "Przemyśl a lengyel-ukrán határvidék egyik legrégebbi és legfontosabb történelmi csomópontja, amely a San folyó partján épült. A 19. század végén az Osztrák-Magyar Monarchia harmadik legnagyobb erődválosává fejlesztették, amely az első világháború során kulcsfontosságú, hónapokig tartó ostromok helyszíne volt. A város gazdag építészeti öröksége hűen tükrözi a régió multikulturális múltját, ahol katolikus, ortodox és zsidó közösségek éltek együtt évszázadokon át. A meredek utcák és a reneszánsz piactér egyedülálló hangulatot kölcsönöznek a galíciai településnek. (Történelem K8 — Az első világháború erődrendszerei)"
+    },
+    factsAdvanced: {
+      hu: ["A Przemyśl-erőd külső védelmi vonala 45 kilométer hosszú volt.", "Az orosz csapatok az első világháborúban 133 napig ostromolták az erődrendszert.", "A városban található Európa egyik legmeredekebb macskaköves piactere."]
     }
   },
   {
@@ -170,6 +218,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Keleti-Kárpátok része.", "Medvék, farkasok és bölények otthona.", "A hegyi réteket 'Poloniny'-nek hívják."],
       ro: ["Parte a Carpaților Orientali.", "Adăpostește urși, lupi și bizoni.", "Pajiștile montane sunt numite 'Poloniny'."],
       en: ["Part of the Eastern Carpathians.", "Home to bears, wolves, and bison.", "The mountain meadows are called 'Poloniny'."]
+    },
+    descriptionAdvanced: {
+      hu: "A Bieszczady-hegység Lengyelország legelzártabb és legvadabb hegyvidéke, amely a Keleti-Kárpátok nyugati bástyáját képezi. A terület védjegyei a fahatár felett elterülő, alpesi jellegű füves rétek, a poloninák, amelyek páratlan panorámát kínálnak. A második világháború utáni kitelepítések következtében a régió szinte teljesen elnéptelenedett, ami lehetővé tette az ősi erdőségek és a gazdag vadvilág, köztük a barnamedvék, farkasok és bölények háborítatlan visszatérését. Mára az ökoturizmus és a fenntartható túrázás egyik legnépszerűbb európai célpontjává vált. (Földrajz K7 — A Kárpátok természeti földrajza)"
+    },
+    factsAdvanced: {
+      hu: ["A hegység legmagasabb lengyelországi csúcsa a Tarnica, 1346 méteres tengerszint feletti magassággal.", "A terület az Európai Bölény egyik legfontosabb természetes élőhelye Közép-Európában.", "A Bieszczady Nemzeti Park 1992 óta az UNESCO Keleti-Kárpátok Bioszféra Rezervátumának része."]
     }
   },
   {
@@ -189,6 +243,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Łysa Góra hegyen található.", "A 11. században alapították.", "A Szent Kereszt ereklyéjének őrzési helye."],
       ro: ["Situată pe muntele Łysa Góra.", "Fondată în secolul al XI-lea.", "Loc de păstrare a unei relicve a Sfintei Cruci."],
       en: ["Located on Łysa Góra mountain.", "Founded in the 11th century.", "Housed a relic of the Holy Cross."]
+    },
+    descriptionAdvanced: {
+      hu: "A Szent Kereszt-kolostor a Świętokrzyskie (Szentkereszt) hegység névadójaként Lengyelország egyik legrégebbi egyházi központja. A 11. században alapított bencés apátság évszázadokon át a lengyel királyok egyik legfontosabb zarándokhelye volt, köszönhetően az itt őrzött Szent Kereszt-ereklyének. Az épületegyüttes a Łysa Góra (Kopasz-hegy) csúcsán magasodik, amely a kereszténység felvétele előtt egy ősi pogány kultikus központ helyszíne volt. A kolostor falai egykor az ország legnagyobb könyvtárát rejtették, amelynek értékes kódexei ma is a lengyel kulturális örökség részét képezik. (Történelem K6 — Középkori kolostori kultúra)"
+    },
+    factsAdvanced: {
+      hu: ["A legenda szerint a Szent Kereszt ereklyét Szent Imre magyar herceg adományozta a kolostornak.", "A hegy csúcsán ma is láthatók egy kora középkori kősánc maradványai.", "A II. világháború alatt a kolostor épülete szovjet hadifoglyok táboraként szolgált."]
     }
   },
   {
@@ -208,6 +268,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Szimbolikája a naptáron alapul.", "A 17. században épült, gyorsan elpusztult.", "Egy 'palazzo in fortezza' szerkezet."],
       ro: ["Simbolism bazat pe calendar.", "Construit în secolul al XVII-lea, distrus rapid.", "O structură 'palazzo in fortezza'."],
       en: ["Symbolism based on the calendar.", "Built in the 17th century, quickly destroyed.", "A 'palazzo in fortezza' structure."]
+    },
+    descriptionAdvanced: {
+      hu: "A Krzyżtopór kastély a 17. századi lengyel manierista építészet egyik legelképesztőbb, bár tragikus sorsú alkotása. Krzysztof Ossoliński vajda elképzelései alapján egy gigantikus naptárként tervezték: 365 ablaka, 52 szobája, 12 terme és 4 tornya az év napjait, heteit, hónapjait és az évszakokat szimbolizálta. Bár korának egyik legpompásabb palotája volt hatalmas üvegtetős akváriummal, az 1650-es évek svéd inváziója során teljesen kifosztották és romba döntötték. Monumentális, csillag alakú alaprajza és megmaradt falai ma is ámulatba ejtik a látogatókat. (Művészettörténet K8 — Manierista és barokk építészet)"
+    },
+    factsAdvanced: {
+      hu: ["Az építkezés 13 évig tartott, de a tulajdonos mindössze egy évig élvezhette az elkészült palotát.", "A pletykák szerint a lovak jászolait is carrarai márványból faragták.", "A versailles-i kastély felépítéséig ez volt Európa legnagyobb kastélykomplexuma."]
     }
   },
   {
@@ -227,6 +293,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az első dinoszauruszpark Lengyelországban.", "Állatkert és vidámpark is tartozik hozzá.", "Valódi dinoszaurusz-lábnyomokat találtak a közelben."],
       ro: ["Primul parc de dinozauri din Polonia.", "Include și o grădină zoologică și un parc de distracții.", "Urme reale de dinozaur găsite în apropiere."],
       en: ["First dinosaur park in Poland.", "Also features a zoo and an amusement park.", "Real dinosaur tracks found nearby."]
+    },
+    descriptionAdvanced: {
+      hu: "A JuraPark Bałtów Lengyelország első és egyik legnagyobb őslénytani élményparkja, amely a Kamienna folyó mészkővölgyében kapott helyet. A park ötlete azt követően született, hogy helyi geológusok valódi dinoszaurusz lábnyomokat fedeztek fel a környező sziklákban. Több mint száz életnagyságú, tudományos precizitással megalkotott dinoszauruszmodell mutatja be a mezozoikum élővilágát az ide látogatóknak. Az oktatási ösvények és a múzeumi részleg kiválóan szemléltetik a Föld történetének evolúciós folyamatait. (Biológia K5 — A dinoszauruszok kora és ősmaradványok)"
+    },
+    factsAdvanced: {
+      hu: ["A parkot 2004-ben nyitották meg a nagyközönség számára.", "Egy igazi alloszaurusz lábnyom szolgált a park megépítésének tudományos alapjául.", "A komplexumhoz egy szafaripark és egy ősállatokat bemutató ócenárium is tartozik."]
     }
   },
   {
@@ -246,6 +318,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Fontos katolikus zarándokhely.", "Az 1921-es Annabergi csata helyszíne.", "Vulkáni eredetű geopark."],
       ro: ["Important loc de pelerinaj catolic.", "Scena bătăliei de la Annaberg din 1921.", "Geoparc de origine vulcanică."],
       en: ["Important Catholic pilgrimage site.", "Scene of the 1921 Battle of Annaberg.", "Geopark of volcanic origin."]
+    },
+    descriptionAdvanced: {
+      hu: "A Szent Anna-hegy egy egykori kialudt vulkán kúpja, amely Szilézia történelmi, geológiai és kulturális csomópontjává vált az évszázadok során. A hegy tetején magasló 15. századi ferences kolostor és a több mint harminc kápolnából álló kálvária Lengyelország egyik legjelentősebb zarándokhelye. A terület geológiai jelentősége is kiemelkedő, amit a helyi geopark kőzetrétegei és egykori lávafolyásai bizonyítanak. 1921-ben a harmadik sziléziai felkelés sorsdöntő csatájának színhelye volt, melynek emlékét ma egy monumentális gránit emlékmű őrzi. (Földrajz K8 — Vulkáni formák és geológiai emlékezet)"
+    },
+    factsAdvanced: {
+      hu: ["A hegycsúcs mindössze 408 méter magas, de uralja a környező síkvidéket.", "A vulkáni tevékenység mintegy 27 millió évvel ezelőtt zajlott ezen a területen.", "Az 1930-as években a hegy oldalában egy hatalmas kőamfiteátrumot építettek, amely 80 ezer ember befogadására alkalmas."]
     }
   },
   {
@@ -265,6 +343,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Híres a 99 tornyáról.", "Barokk, neogótikus és neoreneszánsz stílusok keveréke.", "A von Tiele-Winckler család egykori rezidenciája."],
       ro: ["Renumit pentru cele 99 de turnuri ale sale.", "Amestec de stiluri baroc, neogotic și neorenascentist.", "Fosta reședință a familiei von Tiele-Winckler."],
       en: ["Famous for its 99 towers.", "Mix of Baroque, Neo-Gothic, and Neo-Renaissance styles.", "Former residence of the von Tiele-Winckler family."]
+    },
+    descriptionAdvanced: {
+      hu: "A Mosznai kastély egy valóságos építészeti mesevirág, amely stílusok lenyűgöző és eklektikus keveredésével emelkedik ki a lengyel műemlékek közül. A Tiele-Winckler iparmágnás család egykori rezidenciája a barokk, a neogótika és a neoreneszánsz elemeit ötvözi egyetlen monumentális épületben. Az épület híres 99 tornyáról és 365 helyiségéről, amelyeket kiterjedt angolpark és évszázados tölgyfák vesznek körül. A második világháború után évtizedekig szanatóriumként funkcionált, ma pedig luxusszállodaként és kulturális központként várja a látogatókat. (Művészettörténet K7 — 19. századi historizáló építészet)"
+    },
+    factsAdvanced: {
+      hu: ["A kastély középső, barokk szárnya az 1896-os nagy tűzvész után épült újjá.", "A legenda szerint az építtető azért terveztetett pontosan 99 tornyot, hogy elkerülje a magasabb adókat.", "A parkban található azúrkék vizű medencék egykor a család lovainak fürdetésére szolgáltak."]
     }
   },
   {
@@ -284,6 +368,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Európa legnagyobb sólepárló tornyai.", "Gyógyüdülőhely a 19. század óta.", "A sós vizet sókitermelésre és inhalálásra használják."],
       ro: ["Cele mai mari turnuri de gradare din Europa.", "Stațiune balneară din secolul al XIX-lea.", "Saramura este folosită pentru extracția sării și pentru inhalații."],
       en: ["Largest graduation towers in Europe.", "Spa town since the 19th century.", "Brine is used for salt extraction and inhalations."]
+    },
+    descriptionAdvanced: {
+      hu: "Ciechocinek Lengyelország leghíresebb gyógyító alföldi fürdővárosa, amely egyedülálló, 19. századi fa sólepárlóiról vált ismertté világszerte. A több mint másfél kilométer hosszan elnyúló, sűrű kökénygallyakkal bélelt építmények tetejéről sós víz csorog le, páratlan jódban és brómban gazdag mikroklímát hozva létre. Ezek a szerkezetek eredetileg ipari sótermelési célokat szolgáltak, de hamar felismerték a sós levegő légúti betegségekre gyakorolt gyógyító hatását. A város lenyűgöző virágágyásai, elegáns sétányai és történelmi fürdőépületei a 19. századi európai elit kedvelt pihenőhelyévé tették. (Biológia K7 — Gyógyító mikroklíma és légzőszervek)"
+    },
+    factsAdvanced: {
+      hu: ["A város három sólepárlója a legnagyobb ilyen jellegű faszerkezet egész Európában.", "A sólepárlók építését 1824-ben kezdték meg Stanisław Staszic kezdeményezésére.", "Évente több mint egy kilométernyi kökénygallyat kell cserélni a szerkezetek karbantartása során."]
     }
   },
   {
@@ -303,6 +393,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Kr. e. 8. századi település.", "Egy tó félszigetére épült.", "Életnagyságú rekonstrukció."],
       ro: ["Așezare din secolul al VIII-lea î.Hr.", "Construită pe o peninsulă a unui lac.", "Reconstrucție în mărime naturală."],
       en: ["Settlement from the 8th century BC.", "Built on a peninsula in a lake.", "Life-size reconstruction."]
+    },
+    descriptionAdvanced: {
+      hu: "Biskupin az egyik legkiemelkedőbb közép-európai régészeti felfedezés, amely egy lausitzi kultúrához tartozó, koravaskori erődített települést tár fel. A tó félszigetére épült falut a Kr.e. 8. században alapították, és a vizes, tőzeges talaj hihetetlen épségben őrizte meg a tölgyfa szerkezeteket évezredeken át. Az 1930-as években kezdődött ásatások nyomán a teljes települést életnagyságban rekonstruálták, így a látogatók szó szerint beléphetnek a 2700 évvel ezelőtti mindennapokba. Az évente megrendezett Biskupini Régészeti Fesztivál Európa egyik legnagyobb történelem-népszerűsítő eseménye. (Történelem K5 — A vaskori Európa mindennapjai)"
+    },
+    factsAdvanced: {
+      hu: ["A feltárások során kiderült, hogy a települést egy precízen megtervezett rácsos utcarendszer jellemezte.", "A vizes talaj még a szövött anyagok és a faszerszámok maradványait is konzerválta.", "Biskupint gyakran emlegetik a 'lengyel Pompeji'-ként is."]
     }
   },
   {
@@ -322,6 +418,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Szinte érintetlen középkori városfal.", "Szent Bálint ereklyéje.", "A chełmnói jog példája."],
       ro: ["Ziduri medievale aproape intacte.", "Relicva Sfântului Valentin.", "Exemplu al legii de la Chełmno."],
       en: ["Almost intact medieval city walls.", "Relic of St. Valentine.", "Example of Chełmno law."]
+    },
+    descriptionAdvanced: {
+      hu: "Chełmno a Visztula folyó partján magasodó dombokon épült, a lengyel gótika egyik legépebben megőrzött építészeti kincse. A város történelmi jelentőségét mutatja, hogy 1233-ban itt fektették le a 'chełmnói jog' alapjait, amely évszázadokig szolgált mintaként több mint kétszáz lengyel és porosz település alapításához. Szinte tökéletes állapotban fennmaradt, 2,2 kilométer hosszú középkori városfala és hat lenyűgöző gótikus temploma páratlan időutazást kínál. Mivel a helyi plébániatemplom évszázadok óta őrzi Szent Bálint egy ereklyéjét, a város hivatalosan is felvette a 'Szerelmesek városa' címet. (Történelem K6 — Középkori városjogok és építészet)"
+    },
+    factsAdvanced: {
+      hu: ["A város főterén álló reneszánsz városháza a lengyel építészet egyik remekműve.", "A városfal eredetileg 23 bástyával és hat megerősített kapuval rendelkezett.", "A város utcahálózata szinte változatlan formában őrzi a 13. századi sakktábla alaprajzot."]
     }
   },
   {
@@ -341,6 +443,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Biebrza Nemzeti Parkon folyik keresztül.", "Közép-Európa legnagyobb természetes mocsárvidéke.", "Ritka madárfajok fészkelőhelye."],
       ro: ["Curge prin Parcul Național Biebrza.", "Cea mai mare zonă mlăștinoasă naturală din Europa Centrală.", "Zonă de cuibărit pentru specii rare de păsări."],
       en: ["Flows through Biebrza National Park.", "Largest natural marshland in Central Europe.", "Breeding ground for rare bird species."]
+    },
+    descriptionAdvanced: {
+      hu: "A Biebrza folyó Közép-Európa egyik legjelentősebb természetes vízrendszere, amely kanyargós útján hatalmas kiterjedésű, háborítatlan mocsárvidéket hozott létre. Szabályozatlan medre és a tavaszi áradások egyedülálló, állandóan változó vizes élőhelyeket tartanak fenn, amelyeket a Biebrza Nemzeti Park oltalmaz. Ez a mocsárvilág kontinensünk egyik legfontosabb madárvonulási útvonala mentén fekszik, így tavasszal több százezer költöző madár pihenőhelye. A folyó völgye egyúttal a jávorszarvasok lengyelországi populációjának legfontosabb menedéke. (Földrajz K7 — Ártéri és mocsári ökoszisztémák)"
+    },
+    factsAdvanced: {
+      hu: ["A Biebrza Nemzeti Park Lengyelország legnagyobb területű nemzeti parkja.", "Több mint 270 madárfajt figyeltek meg a folyó árterületén, köztük a ritka csíkosfejű nádiposzátát.", "A mocsárvidék tőzegrétege helyenként eléri a 6 méteres vastagságot is."]
     }
   },
   {
@@ -360,6 +468,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Egykori 'shtetl' (zsidó kisváros).", "17. századi Nagy Zsinagóga, ma múzeum.", "Rekonstruált királyi vár."],
       ro: ["Fost 'shtetl' (orășel evreiesc).", "Marea Sinagogă din secolul al XVII-lea, acum muzeu.", "Castel regal reconstruit."],
       en: ["Former 'shtetl' (Jewish townlet).", "17th-century Great Synagogue, now a museum.", "Reconstructed royal castle."]
+    },
+    descriptionAdvanced: {
+      hu: "Tykocin egy apró, de történelmileg annál jelentősebb ékszerdoboz Podlasie régiójában, amely mélyen őrzi a lengyel-zsidó együttélés évszázados emlékeit. A település a 16. századtól az ország egyik legfontosabb zsidó vallási és kulturális központja volt, amit a pompásan felújított, 1642-ben épült barokk Nagy Zsinagóga is bizonyít. A Narew folyó túlpartján emelkedik a közelmúltban aprólékosan újjáépített királyi kastély, amely egykor II. Zsigmond Ágost lengyel király kincstárát és arzenálját rejtette. Kanyargós utcái és hagyományos faépületei hűen idézik fel a letűnt 'shtetlek' (zsidó kisvárosok) varázsát. (Történelem K8 — A lengyel-zsidó kultúra öröksége)"
+    },
+    factsAdvanced: {
+      hu: ["A város főterén áll az ország második legrégebbi világi emlékműve, Stefan Czarniecki szobra.", "A Nagy Zsinagóga falait páratlanul gazdag héber kalligráfiák és állatmotívumos freskók díszítik.", "Tykocin várát a nagy északi háború (Özönvíz) során a svéd csapatok szinte a földdel tették egyenlővé."]
     }
   },
   {
@@ -379,6 +493,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Területe meghaladja az 1000 km²-t.", "Farkasok, hiúzok és bölények otthona.", "A 'Lengyelország Zöld Tüdeje' fontos része."],
       ro: ["Acoperă o suprafață de peste 1.000 km².", "Adăpostește lupi, râși și zimbri.", "Parte importantă a 'Plămânilor Verzi ai Poloniei'."],
       en: ["Covers an area of over 1,000 km².", "Home to wolves, lynx, and bison.", "Important part of the 'Green Lungs of Poland'."]
+    },
+    descriptionAdvanced: {
+      hu: "A Knyszyni-erdő egy hatalmas kiterjedésű, ősi jellegű rengeteg, amely a Białystoktól északra elterülő dombvidéket borítja be. Kivételes biológiai sokféleségét a nyugat-európai tölgyesek és az észak-európai fenyőerdők különleges találkozása adja, amely egyedi tajga jellegű mikroklímát teremt. A terület hatalmas mérete ellenére szinte teljesen érintetlen maradt az iparosodástól, így biztonságos menedéket nyújt Európa legnagyobb szárazföldi emlőseinek, a bölényeknek. Mélyén kristálytiszta patakok és eldugott, borostyánnal borított források bújnak meg. (Biológia K6 — Északi és mérsékelt övi erdőtípusok)"
+    },
+    factsAdvanced: {
+      hu: ["A Knyszyni-erdő az ország második legnagyobb összefüggő erdőkomplexuma a Białowieża-erdő után.", "Itt él a világ egyik legjelentősebb vadon élő európai bölénypopulációja.", "A területet sűrűn átszelik az évszázadokkal ezelőtti kereskedelmi utak és partizánösvények."]
     }
   },
   {
@@ -398,6 +518,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország leghidegebb városa.", "Kapuja a festői Suwałki-tóvidéknek.", "Stratégiai fekvés a Suwałki-folyosóban."],
       ro: ["Cel mai rece oraș din Polonia.", "Poarta către pitoreasca regiune a lacurilor Suwałki.", "Poziție strategică în Coridorul Suwałki."],
       en: ["Coldest city in Poland.", "Gateway to the picturesque Suwałki Lake District.", "Strategic location in the Suwałki Gap."]
+    },
+    descriptionAdvanced: {
+      hu: "Suwałki a lengyel távol-északkelet dinamikus központja, amely zord, kontinentális éghajlata miatt a 'lengyel hidegpólus' hírnevet szerezte meg. A 18. században kamalduli szerzetesek által alapított város klasszicista és eklektikus épületeivel őrzi 19. századi arculatát. Gazdasági és logisztikai jelentőségét az adja, hogy a sokat emlegetett Suwałki-folyosó, Lengyelország és a balti államok egyetlen szárazföldi kapcsolata mentén fekszik. Innen nyílik a kapu a lélegzetelállító Suwałki-tóvidékre, amely jégkorszaki szikláival és mély, tiszta tavaival vonzza a túrázókat. (Földrajz K8 — Geopolitikai folyosók és kontinentális éghajlat)"
+    },
+    factsAdvanced: {
+      hu: ["A városban a téli hőmérséklet nem ritkán süllyed mínusz 30 Celsius-fok alá.", "Itt született a híres lengyel költő és drámaíró, Maria Konopnicka.", "A közeli Hańcza-tó a lengyel síkvidék legmélyebb tava a maga 108 méteres mélységével."]
     }
   },
   {
@@ -417,6 +543,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Usedom és Wolin szigetén fekszik.", "Lengyelország legmagasabb világítótornya (68 m).", "Fontos LNG-terminál."],
       ro: ["Situat pe insulele Usedom și Wolin.", "Cel mai înalt far din Polonia (68 m).", "Terminal LNG important."],
       en: ["Located on Usedom and Wolin islands.", "Tallest lighthouse in Poland (68m).", "Major LNG terminal."]
+    },
+    descriptionAdvanced: {
+      hu: "Świnoujście Lengyelország legnyugatibb kikötővárosa, amely egyedülálló módon 44 különböző szigeten terül el a Balti-tenger partján. Stratégiai elhelyezkedése miatt évszázadokig fontos porosz katonai bázis volt, napjainkban pedig az ország egyik legforgalmasabb kompkikötője, amely Skandináviával köti össze Közép-Európát. Széles, finom homokos strandja és a 19. századi fürdőnegyed teszik a Balti-tenger egyik legkedveltebb üdülőhelyévé. A nemrégiben átadott, a Świna folyó alatt húzódó alagút történelmi mérföldkövet jelentett, végre állandó szárazföldi kapcsolatot teremtve a város szigetei között. (Földrajz K7 — Tengeri kereskedelem és tengerparti formakincs)"
+    },
+    factsAdvanced: {
+      hu: ["A lakott területek túlnyomó része két fő szigeten, Uznamon és Wolinon oszlik el.", "A kikötőben álló, 68 méter magas téglából épült világítótorony a legmagasabb a Balti-tenger térségében.", "Az új LNG-terminálja (cseppfolyósított földgáz) létfontosságú az ország energiabiztonsága szempontjából."]
     }
   },
   {
@@ -436,6 +568,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország első tengeri nemzeti parkja.", "Híres magas sziklaszirtjeiről.", "A rétisasok védett területe."],
       ro: ["Primul parc național maritim din Polonia.", "Renumit pentru falezele sale înalte.", "Arie protejată pentru vulturul codalb."],
       en: ["First maritime national park in Poland.", "Famous for its high cliffs.", "Sanctuary for white-tailed eagles."]
+    },
+    descriptionAdvanced: {
+      hu: "A Wolin Nemzeti Park a lengyel balti partvidék természeti sokszínűségének esszenciája, ahol a tenger kíméletlen ereje és az ősrégi erdők találkoznak. Leginkább a tenger fölé 90 méter magasan tornyosuló, drámai szépségű, aktívan omló parti sziklafalairól ismert, amelyek folyamatosan formálják a sziget arculatát. Sűrű bükk- és tölgyerdei biztonságos menedéket nyújtanak a betelepített európai bölényeknek és az ország egyik legnagyobb rétisas-populációjának. A park területén található tiszta vizű, türkizkék tavak jégkorszaki gleccserek lenyomataiként színesítik a tájat. (Biológia K6 — Tengerparti erózió és madárrezervátumok)"
+    },
+    factsAdvanced: {
+      hu: ["A park jelképe a rétisas, amely a meredek sziklafalak fáinak koronáján fészkel.", "A tengeri hullámzás évente akár egy méterrel is visszaszoríthatja a meredek parti sziklafalakat.", "A park bölényrezervátumában a látogatók természetes környezetükben figyelhetik meg az óriási emlősöket."]
     }
   },
   {
@@ -455,6 +593,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Nagy gyógyüdülőhely a Balti-tenger partján.", "Középkori katedrális.", "Hadimúzeum egy régi erődben."],
       ro: ["Stațiune balneară importantă la Marea Baltică.", "Catedrală medievală.", "Muzeu militar într-un fort vechi."],
       en: ["Major spa resort on the Baltic Sea.", "Medieval cathedral.", "Military museum in an old fort."]
+    },
+    descriptionAdvanced: {
+      hu: "Kołobrzeg a Balti-tenger partvidékének legnagyobb és legnagyobb presztízsű lengyel fürdővárosa, melynek történelme szorosan egybefonódik a sólepárlással és a tengeri kereskedelemmel. Noha a második világháború véres ostroma során épületeinek több mint 80 százaléka megsemmisült, lenyűgöző középkori gótikus bazilikáját és világítótornyát sikeresen újjáépítették. Gazdag sós vizű forrásai és gyógyiszapja miatt már a 19. században felkapott szanatóriumi központtá vált. Széles tengerparti sétánya és mólója egész évben mágnesként vonzza a gyógyulni és pihenni vágyókat. (Történelem K7 — Háborús pusztítás és újjáépítés)"
+    },
+    factsAdvanced: {
+      hu: ["A 17. századi világítótornyot egy egykori katonai erődítmény, a Münde-erőd alapjaira építették újjá.", "A város címere is őrzi a sóbányászat hagyományát, amely a középkorban alapozta meg Kołobrzeg gazdagságát.", "A Kołobrzegi csata a II. világháború egyik leghevesebb városi ütközete volt 1945 márciusában."]
     }
   },
   {
@@ -474,6 +618,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egyik legnagyobb erőműve.", "A turówi külszíni bányából származó lignittel tüzelik.", "Környezeti hatásai miatt ellentmondásos."],
       ro: ["Una dintre cele mai mari centrale electrice din Polonia.", "Alimentată cu lignit din mina Turów.", "Controversată din cauza impactului asupra mediului."],
       en: ["One of the largest power plants in Poland.", "Fired with lignite from the Turów mine.", "Controversial due to environmental impact."]
+    },
+    descriptionAdvanced: {
+      hu: "A Turówi erőmű és a hozzá kapcsolódó külszíni lignitbánya a lengyel energiaszektor egyik gigantikus, ugyanakkor rendkívül vitatott komplexuma. A Németország és Csehország határai által közrefogott Bogatynia mellett fekvő ipari óriás kritikus szerepet játszik az ország délnyugati részének áramellátásában. A folyamatosan mélyülő és terjeszkedő bánya drámaian átalakította a régió felszínét, és komoly nemzetközi diplomáciai feszültséget okozott a határ menti talajvízszint csökkenése miatt. Modernizációs fejlesztései ellenére a komplexum a fosszilis energiára épülő gazdaság és a környezetvédelem konfliktusának szimbólumává vált Európában. (Földrajz K8 — Energiatermelés és környezeti konfliktusok)"
+    },
+    factsAdvanced: {
+      hu: ["A külszíni bánya hatalmas tölcsére a világűrből is tisztán kivehető a műholdfelvételeken.", "A létesítmény az ország teljes villamosenergia-termelésének mintegy 5-7 százalékát biztosítja.", "2021-ben az Európai Bíróság példátlan napi bírságot szabott ki Lengyelországra a bánya működésének vitatott meghosszabbítása miatt."]
     }
   },
   {
@@ -493,6 +643,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A világ egyik legnagyobb réztermelője.", "Székhelye Lubinban, Alsó-Sziléziában található.", "Jelentős mennyiségű ezüstöt is termel."],
       ro: ["Unul dintre cei mai mari producători de cupru din lume.", "Sediu în Lubin, Silezia Inferioară.", "Produce și cantități mari de argint."],
       en: ["One of the world's largest copper producers.", "Headquartered in Lubin, Lower Silesia.", "Also produces large amounts of silver."]
+    },
+    descriptionAdvanced: {
+      hu: "A KGHM Polska Miedź alsó-sziléziai ipari létesítményei a globális réz- és ezüstbányászat élvonalába tartoznak. A hatalmas földalatti bányarendszerek és az olvasztók komplexuma Lubin és Głogów környékén húzódik, jelentősen átalakítva a régió gazdasági és demográfiai arculatát az 1950-es évekbeli rézérc-felfedezés óta. Az itt bányászott fémek kulcsfontosságúak az európai elektronikai ipar és a megújuló energiaforrások technológiái számára. Noha a bánya a legkorszerűbb technológiákat alkalmazza, működése komoly kihívásokat jelent a környezetvédelem és a bányászati biztonság terén. (Kémia K8 — Ércbányászat és nehézfém-feldolgozás)"
+    },
+    factsAdvanced: {
+      hu: ["A KGHM rendszeresen vezeti a globális ezüsttermelők ranglistáját.", "Egyes bányatárnák mélysége meghaladja az 1200 métert a felszín alatt.", "A bányászat kezdetén több apróbb települést is át kellett költöztetni a terjeszkedő ipari létesítmények miatt."]
     }
   },
   {
@@ -512,6 +668,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb erdőkomplexe.", "Fontos faanyagforrás.", "Hagyományos gomba- és bogyógyűjtő terület."],
       ro: ["Cel mai mare complex forestier din Polonia.", "Sursă importantă de lemn.", "Zonă tradițională pentru culegătorii de ciuperci și fructe de pădure."],
       en: ["Largest forest complex in Poland.", "Important source of timber.", "Traditional area for mushroom and berry picking."]
+    },
+    descriptionAdvanced: {
+      hu: "Az Alsó-sziléziai erdők Közép-Európa egyik leghatalmasabb összefüggő zöld területeként több százezer hektáron terülnek el a lengyel-német határvidéken. A sűrű, főként erdeifenyőkből álló rengeteg hosszú évszázadok óta a helyi fakitermelés, a méhészet és a hagyományos erdőgazdálkodás központja. Az őszi hónapokban a terület az egész országból vonzza a gombászokat, akik a gazdag aljnövényzet kincseit kutatják. Geológiai adottságainak köszönhetően az erdő mélyén különleges tőzeglápok és rejtett vizes élőhelyek is megbújnak, amelyek szigorú természetvédelmi oltalmat élveznek. (Biológia K6 — Erdőgazdálkodás és ökoszisztémák)"
+    },
+    factsAdvanced: {
+      hu: ["A területet a II. világháború után évtizedekig szovjet katonai lőterek és titkos bázisok tagolták.", "Nyár végén a régióban virágzó hatalmas csarabosok (hangafélék) lila szőnyeggé varázsolják a tisztásokat.", "Az erdőség egyes részein az utóbbi években ismét sikeresen megtelepedtek a szürke farkasok."]
     }
   },
   {
@@ -531,6 +693,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az első világháború után épült.", "A Hármasváros fontos része (Gdańskkal és Sopottal).", "Évente megrendezett Open'er zenei fesztivál a közelben."],
       ro: ["Construit după Primul Război Mondial.", "Parte importantă a Triciudadului (cu Gdańsk și Sopot).", "Festivalul anual de muzică Open'er în apropiere."],
       en: ["Built after World War I.", "Important part of the Tricity (with Gdańsk and Sopot).", "Annual Open'er Music Festival nearby."]
+    },
+    descriptionAdvanced: {
+      hu: "Gdynia kikötője a két világháború közötti Lengyelország legambiciózusabb és legsikeresebb mérnöki és gazdasági projektje volt. Miután Danzig (Gdańsk) szabad várossá vált, a lengyel állam egy apró halászfalut alakított át néhány év alatt a Balti-tenger egyik legkorszerűbb tengeri kapujává. Az 1920-as és 30-as évek modernista építészete a mai napig meghatározza a belváros arculatát, amelyet egyedülálló, tengerjáró hajókat idéző formák jellemeznek. Ma a kikötő nemcsak teherforgalmáról, hanem a haditengerészet bázisaként és népszerű tengerészeti múzeumairól is ismert. (Történelem K8 — A két világháború közötti iparosodás)"
+    },
+    factsAdvanced: {
+      hu: ["Gdynia lakossága az 1920-as évekbeli ezer főről alig húsz év alatt több mint 100 ezerre duzzadt.", "A kikötőépítés atyjának Kwiatkowski mérnököt tartják, akinek munkássága előtt számos emlékmű tiszteleg.", "A déli mólónál horgonyoz az 1909-es Dar Pomorza nevű történelmi vitorlás iskolahajó."]
     }
   },
   {
@@ -550,6 +718,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A 'Szolidaritás' mozgalom szülőhelye.", "Történelmileg Európa egyik legnagyobb hajógyára.", "Itt található az Európai Szolidaritás Központ."],
       ro: ["Locul de naștere al mișcării 'Solidaritatea'.", "Istoric, unul dintre cele mai mari șantiere navale din Europa.", "Centrul European de Solidaritate se află aici."],
       en: ["Birthplace of the 'Solidarity' movement.", "Historically one of Europe's largest shipyards.", "The European Solidarity Centre is located here."]
+    },
+    descriptionAdvanced: {
+      hu: "A Gdański Hajógyár hatalmas acéldarui nemcsak az ipari termelés, hanem a modern kori európai történelem lenyűgöző szimbólumai is. Az egykori Lenin Hajógyár területe volt a bölcsője az 1980-as nagy sztrájkhullámnak és a Szolidaritás (Solidarność) független szakszervezetnek, amelyet Lech Wałęsa vezetett. A munkások bátor kiállása lavinaként indította el azt a folyamatot, amely egy évtizeddel később a keleti blokk kommunista rendszereinek bukásához vezetett. Ma a rozsdásodó dokkok és modernizált üzemcsarnokok között magasodik az Európai Szolidaritás Központ díjnyertes, rozsdás acéllemezekkel borított épülete. (Történelem K8 — A Szolidaritás mozgalom és a rendszerváltás)"
+    },
+    factsAdvanced: {
+      hu: ["Az 1970-es decemberi sortűz áldozatainak emlékét a kikötő bejáratánál álló három, egyenként 42 méteres acélkereszt őrzi.", "Fénykorában, a 20. század második felében a hajógyár több mint 18 ezer munkást foglalkoztatott.", "Az 1980-as sztrájkok idején a munkások követeléseiket fatáblákra írva tűzték a gyárkapura, amelyek ma az UNESCO Világemlékezet részét képezik."]
     }
   },
   {
@@ -569,6 +743,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Európa leghosszabb fa mólója (több mint 500 m).", "Sopot fürdőváros része.", "Kikötővel és étteremmel rendelkezik."],
       ro: ["Cel mai lung debarcader din lemn din Europa (peste 500m).", "Parte a stațiunii Sopot.", "Oferă un port de agrement și un restaurant."],
       en: ["Longest wooden pier in Europe (over 500m).", "Part of the Sopot health resort.", "Features a marina and restaurant."]
+    },
+    descriptionAdvanced: {
+      hu: "A Sopoti móló a balti fürdőkultúra eleganciájának megtestesítője, amely mintegy 511 méter hosszan nyúlik be a Balti-tenger zöldes vizébe. Ez Európa leghosszabb faszerkezetű tengeri mólója, amelynek története a 19. század elejéig, Sopot első gyógyfürdőjének alapításáig nyúlik vissza. A móló nemcsak népszerű sétány, hanem terápiás célokat is szolgál, mivel a tenger felett a jód koncentrációja itt jelentősen magasabb, mint a szárazföldön. A hófehér padok, a nyüzsgő kikötő és a történelmi Grand Hotel panorámája teszi a Hármasváros legfelkapottabb találkozóhelyévé. (Földrajz K6 — Turizmus és balneológia a Balti-tengernél)"
+    },
+    factsAdvanced: {
+      hu: ["A móló végét sokszor le kell zárni a kemény téli balti viharok és a jégzajlás idején a sérülések elkerülése végett.", "A szerkezetet eredetileg azért építették, hogy a tengeri luxushajók csónakjai könnyebben kiköthessenek a sekély vízben.", "Nyári estéken a mólónál gyakran rendeznek szabadtéri filmvetítéseket és jazzkoncerteket."]
     }
   },
   {
@@ -588,6 +768,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Területét tekintve Lengyelország legnagyobb állatkertje.", "Egy erdős területen található Oliwában.", "Sikeresen tenyészt veszélyeztetett fajokat."],
       ro: ["Cea mai mare grădină zoologică din Polonia ca suprafață.", "Situată într-o zonă împădurită din Oliwa.", "Reproduce cu succes specii pe cale de dispariție."],
       en: ["Largest zoo in Poland by area.", "Located in a forested area in Oliwa.", "Successfully breeds endangered species."]
+    },
+    descriptionAdvanced: {
+      hu: "A Gdański Állatkert nem csupán méretében, de fekvésében is egyedülálló, hiszen a festői szépségű Hármasváros Tájvédelmi Park ősfái között terül el. A több mint 120 hektáros komplexum a régió egyik legfontosabb természetvédelmi és oktatási központja, amely számos ritka és veszélyeztetett faj megmentésében vállal oroszlánrészt. Fő attrakciói közé tartozik a hatalmas afrikai kifutó és a ritka törpevízilovak medencéje, amelyek a természetes élőhelyeket hűen utánozzák. A völgyekkel tagolt domborzat és a buja növényzet igazi expedíciós élménnyé varázsolja az itteni látogatást. (Biológia K6 — Állatkertek és fajmegőrzés)"
+    },
+    factsAdvanced: {
+      hu: ["Ez az egyetlen lengyel állatkert, ahol hiúzok és andoki kondorok is rendszeresen szaporodnak.", "A terület korábban vízimalmoknak és egy 19. századi vidéki kúriának adott otthont.", "Az állatkertet a helyi közösség adományaiból és társadalmi munkájával alapították az 1950-es években."]
     }
   },
   {
@@ -607,6 +793,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb olajfinomítója.", "A PKN Orlen székhelye.", "Fontos munkaadó a Mazóviai régióban."],
       ro: ["Cea mai mare rafinărie de petrol din Polonia.", "Sediul central al PKN Orlen.", "Angajator important în regiunea Mazovia."],
       en: ["Largest oil refinery in Poland.", "Headquarters of PKN Orlen.", "Major employer in the Masovian region."]
+    },
+    descriptionAdvanced: {
+      hu: "A Płocki finomító a lengyel nehézipar ékköve, egy valóságos város a városban, amely a PKN Orlen energiaipari óriás központjaként működik. A Mazóviai régió nyugati peremén elterülő hatalmas, kivilágított tornyok és ezüstösen csillogó csőrendszerek éjjel-nappal meghatározzák a tájat. Ez a komplexum kulcsszerepet játszik nemcsak Lengyelország, hanem az egész közép-európai térség üzemanyag-ellátásában és petrolkémiai termelésében. Fejlődése a folyamatos modernizációnak köszönhetően egyre inkább a fenntarthatóbb, csökkentett kibocsátású technológiák felé mutat. (Kémia K8 — Petrolkémia és kőolaj-finomítás)"
+    },
+    factsAdvanced: {
+      hu: ["A finomító éves feldolgozókapacitása meghaladja a 16 millió tonna kőolajat.", "A komplexumhoz Európa egyik legnagyobb és legkorszerűbb kutató-fejlesztő központja is tartozik.", "A finomító területén lévő csővezetékek teljes hossza több ezer kilométert tesz ki."]
     }
   },
   {
@@ -626,6 +818,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Frédéric Chopin szülőhelye.", "Múzeum az egykori kúriában.", "Nyári zongorakoncertek a parkban."],
       ro: ["Locul de naștere al lui Frédéric Chopin.", "Muzeu în fostul conac.", "Concerte de pian vara în parc."],
       en: ["Birthplace of Frédéric Chopin.", "Museum in the former manor house.", "Summer piano recitals in the park."]
+    },
+    descriptionAdvanced: {
+      hu: "Żelazowa Wola neve világszerte egybeforrt a zseniális zeneszerző, Frédéric Chopin emlékével, aki itt látta meg a napvilágot 1810-ben. Az egykori udvarház épülete, amely ma múzeumként funkcionál, a tipikus lengyel vidéki kúriák eleganciáját tükrözi a mazóviai fűzfák árnyékában. A házat övező hatalmas, egzotikus és őshonos növényekkel betelepített parkot a két világháború között alakították ki zenei szentélyként. A nyári hétvégéken a világ legkiválóbb zongoraművészei adnak itt ingyenes koncerteket, amelyek hangjai bejárják a kastélypark minden szegletét. (Zene K7 — A romantika zenei zsenijei)"
+    },
+    factsAdvanced: {
+      hu: ["Chopin mindössze élete első néhány hónapját töltötte itt, mielőtt a család Varsóba költözött.", "A park kialakítása során több mint tízezer cserjét és fát ültettek a világ minden tájáról.", "A II. világháború alatt az épület egy ideig katonai kórházként működött."]
     }
   },
   {
@@ -645,6 +843,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO bioszféra-rezervátum.", "Közvetlenül Varsóval határos.", "Jávorszarvasok, hiúzok és hódok otthona."],
       ro: ["Rezervație a biosferei UNESCO.", "Adiacentă direct Varșoviei.", "Adăpostește elani, râși și castori."],
       en: ["UNESCO Biosphere Reserve.", "Directly adjacent to Warsaw.", "Home to moose, lynx, and beavers."]
+    },
+    descriptionAdvanced: {
+      hu: "A Kampinos Nemzeti Park igazi természeti paradoxon: egy kiterjedt, ősi jellegű vadon, amely közvetlenül határos egy többmilliós metropolisz, Varsó betonrengetegével. A Visztula egykori ősmedrében kialakult terület legfőbb vonzereje a száraz, sárgásbarna belföldi homokdűnék és az azokat övező sötét, nedves égerlápok drámai kontrasztja. A park menedéket nyújt számos nagyemlősnek, sőt, a jávorszarvas és a hód sikeres lengyelországi visszatelepítésének is ez a terület volt a központja. A sűrű fenyvesek mélyén ráadásul a lengyel ellenállás számos történelmi emlékhelye, partizánsírja is megbújik. (Földrajz K6 — Kontinentális dűnék és lápok)"
+    },
+    factsAdvanced: {
+      hu: ["A nemzeti park több mint 38 ezer hektáron terül el, ami egyedülálló egy európai főváros tőszomszédságában.", "A területet 2000-ben az UNESCO bioszféra-rezervátummá nyilvánította.", "A park homokdűnéi a jégkorszakot követő erős szelek munkájának eredményeként alakultak ki."]
     }
   },
   {
@@ -664,6 +868,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az EU legnagyobb szén-dioxid-kibocsátója.", "Lengyelország villamosenergia-termelésének mintegy 20%-át adja.", "A közeli bełchatówi külszíni bánya látja el tüzelőanyaggal."],
       ro: ["Cel mai mare emițător de CO2 din UE.", "Produce aproximativ 20% din electricitatea Poloniei.", "Alimentată de mina de suprafață Bełchatów din apropiere."],
       en: ["Largest CO2 emitter in the EU.", "Produces about 20% of Poland's electricity.", "Fueled by the nearby Bełchatów open-cast mine."]
+    },
+    descriptionAdvanced: {
+      hu: "A Bełchatówi erőmű egy döbbenetes méretű, sötét felhőket okádó ipari monstrum, amely a modern kori Lengyelország energiaéhségének legfőbb csillapítója. A komplexum a világ legnagyobb lignittüzelésű erőműve, amely gigantikus hűtőtornyaival uralja Łódź vajdaság déli részének látképét. A vele szimbiózisban működő, több száz méter mély külszíni bánya naponta elképesztő mennyiségű szenet biztosít a kazánok számára. Méretei ellenére az erőmű folyamatosan az európai klímavédelmi viták kereszttüzében áll, hiszen egyedül felelős az ország szén-dioxid-kibocsátásának jelentős részéért. (Földrajz K8 — Fosszilis energiatermelés és klímaváltozás)"
+    },
+    factsAdvanced: {
+      hu: ["Az erőmű két kéménye 300 méteres magasságával Európa legmagasabb szabadon álló szerkezetei közé tartozik.", "A létesítmény évente több mint 30 millió tonna szén-dioxidot juttat a légkörbe.", "A kimerült bányagödrök egy részét a jövőben hatalmas mesterséges tavakká tervezik alakítani."]
     }
   },
   {
@@ -683,6 +893,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb bevásárlóközpontja.", "Múzeumokat, mozit és szállodát is magában foglal.", "Egy 19. századi textilgyár területén található."],
       ro: ["Cel mai mare centru comercial din Polonia.", "Include muzee, un cinematograf și un hotel.", "Pe locul unei foste fabrici de textile din secolul al XIX-lea."],
       en: ["Largest shopping center in Poland.", "Includes museums, a cinema, and a hotel.", "On the site of a former 19th-century textile factory."]
+    },
+    descriptionAdvanced: {
+      hu: "A Manufaktura Łódź az ipari örökség megmentésének és modern újrahasznosításának egyik legbriliánsabb európai példája. Az egykori Izrael Poznański-féle gigantikus pamutgyár vöröstéglás épületegyüttese mára egy lüktető, 27 hektáros városi központtá változott. A komplexum a bevásárlás mellett kulturális hubként is funkcionál, hiszen területén kortárs művészeti múzeum (MS2), színházak és egy grandiózus főtér is helyet kapott, amelyet szökőkutak és teraszok díszítenek. A Manufaktura sikere valóságos katalizátora volt Łódź városképi és kulturális újjászületésének a posztindusztriális korszakban. (Történelem K7 — Ipari forradalom és posztindusztriális revitalizáció)"
+    },
+    factsAdvanced: {
+      hu: ["A komplexum felújítása során több mint 45 ezer négyzetméternyi eredeti téglahomlokzatot restauráltak aprólékos munkával.", "Az egykori gyáralapító fényűző palotája közvetlenül a komplexum mellett áll, ma a Várostörténeti Múzeumnak ad otthont.", "A Manufaktura főterén telente Európa egyik legnagyobb szabadtéri jégpályája várja a látogatókat."]
     }
   },
   {
@@ -702,6 +918,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Jelentős melamingyártó.", "A Grupa Azoty része.", "Fontos munkaadó a régióban."],
       ro: ["Producător major de melamină.", "Parte a Grupului Azoty.", "Angajator important în regiune."],
       en: ["Major producer of melamine.", "Part of Grupa Azoty.", "Important employer in the region."]
+    },
+    descriptionAdvanced: {
+      hu: "A Puławy Nitrogénművek a lengyel vegyipar lüktető szíve, egy grandiózus indusztriális komplexum a festői Visztula folyó partján. Az 1960-as években alapított gyár óriási szerepet játszott az ország mezőgazdaságának modernizálásában azáltal, hogy biztosította a szükséges műtrágya-ellátást. A hatalmas, gőzölgő hűtőtornyok és a kilométereken át kanyargó csőrendszerek ma a legmodernebb ammónia- és melamingyártó technológiákat rejtik. A gyár gazdasági súlya miatt Puławy és az egész Lublini vajdaság egyik legfontosabb munkaadója és fejlődési motorja. (Kémia K8 — Műtrágyagyártás és ipari vegyészet)"
+    },
+    factsAdvanced: {
+      hu: ["A vállalat a világ három legnagyobb melamin-előállítója közé tartozik.", "A gyár saját, dedikált hőerőművel rendelkezik a hatalmas energiaigény fedezésére.", "A Visztula vize kulcsfontosságú a gyártási folyamatok hűtéséhez, bár a környezetvédelmi előírások ma már szigorúan szabályozzák a vízhasználatot."]
     }
   },
   {
@@ -721,6 +943,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Tenyésztési program a lengyel konik ló számára.", "Jellegzetes jegenyefenyő- és bükkerdők.", "Népszerű kerékpáros és túrázási célpont."],
       ro: ["Program de creștere pentru calul polonez Konik.", "Păduri caracteristice de brad și fag.", "Popular pentru ciclism și drumeții."],
       en: ["Breeding program for the Polish Konik horse.", "Characteristic fir and beech forests.", "Popular for cycling and hiking tours."]
+    },
+    descriptionAdvanced: {
+      hu: "A Roztocze Nemzeti Park a kelet-lengyelországi dombvidék érintetlen szigete, ahol sűrű, ősi jegenyefenyvesek és mély szurdokvölgyek váltják egymást. A terület sajátos mikroklímája a hegyvidéki és a síkvidéki növényzet lenyűgöző keveredését teszi lehetővé, ami egyedülálló biológiai sokféleséget eredményez. A park talán leghíresebb lakója a lengyel konik, egy kistermetű, vadlóra emlékeztető lófajta, amelyet itt félig vadon, hatalmas erdős kifutókban tenyésztenek. A parkot átszelő Wieprz és Tanew folyók festői, zuhatagos medreikkel a kajakosok és a természetfotósok kedvenc célpontjai. (Biológia K6 — Erdei ökoszisztémák és őshonos fajok megmentése)"
+    },
+    factsAdvanced: {
+      hu: ["A konik lovakat a már kihalt európai vadló, a tarpán közvetlen leszármazottainak tartják.", "A park erdeinek több mint 95 százaléka teljesen természetes, emberi beavatkozástól mentes.", "A Zwierzyniec településen található egykori Zamoyski-uradalom a park történelmi és adminisztratív központja."]
     }
   },
   {
@@ -740,6 +968,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az egyik legjobb állapotban fennmaradt tábor.", "Lublin mai városi határain belül található.", "Állami múzeum 1944 óta."],
       ro: ["Unul dintre cele mai bine conservate lagăre.", "Situat în interiorul limitelor actuale ale orașului Lublin.", "Muzeu de stat din 1944."],
       en: ["One of the best-preserved camps.", "Located within the modern city limits of Lublin.", "State museum since 1944."]
+    },
+    descriptionAdvanced: {
+      hu: "A Majdanek koncentrációs tábor a Holokauszt egyik leghírhedtebb és legkegyetlenebb helyszíne, amely megdöbbentő módon közvetlenül Lublin városának határában épült fel. A náci Németország 1941 és 1944 között működtette a tábort, ahol zsidók, lengyelek és szovjet hadifoglyok tízezreit végezték ki vagy dolgoztatták halálra borzalmas körülmények között. Mivel a tábort a Vörös Hadsereg hirtelen előrenyomulása miatt a náciknak nem volt idejük teljesen megsemmisíteni, a barakkok, a gázkamrák és a krematóriumok szinte érintetlenül maradtak fenn. A bejáratnál álló gigantikus, kőből faragott emlékmű és a hamvakat őrző mauzóleum letaglózó erejű mementói az emberi gonoszságnak. (Történelem K8 — A Holokauszt és a náci megsemmisítő táborok)"
+    },
+    factsAdvanced: {
+      hu: ["Majdanek volt az első náci koncentrációs tábor, amelyet a szövetséges erők felszabadítottak.", "A tábor területén működő állami múzeum már 1944 novemberében megnyitotta kapuit.", "A tábor megálmodója, Heinrich Himmler egy SS-város és ipari központ magjaként tervezte a komplexumot."]
     }
   },
   {
@@ -759,6 +993,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Szubarktikus tőzeglápokat véd.", "Mocsári teknősök és jávorszarvasok otthona.", "Nyugat-Polesie határon átnyúló bioszféra-rezervátum."],
       ro: ["Protejează turbăriile subarctice.", "Adăpostește broaște țestoase de baltă și elani.", "Rezervația transfrontalieră a biosferei Polesiei de Vest."],
       en: ["Protects sub-arctic peat bogs.", "Home to pond turtles and moose.", "West Polesie Transboundary Biosphere Reserve."]
+    },
+    descriptionAdvanced: {
+      hu: "A Polesie Nemzeti Park a kelet-európai síkságok egyik utolsó, érintetlen vadvízi oázisa, ahol a jégkorszakot idéző tajgaszerű tőzeglápok és sekély tavak uralják a tájat. A terület szinte teljesen sík, és olyan különleges húsevő növényeknek ad otthont, mint a harmatfű, valamint rendkívül ritka orchideafajoknak. Európa egyik legjelentősebb mocsári teknős populációja is itt talál menedéket a háborítatlan, napfényes iszapos partokon. A park az ukrán és belarusz határokon átnyúló nemzetközi Nyugat-Polesie Bioszféra Rezervátum része, ami kiemeli globális ökológiai fontosságát. (Földrajz K6 — Tőzeglápok és vizes élőhelyek védelme)"
+    },
+    factsAdvanced: {
+      hu: ["A park faunája több mint 200 madárfajt számlál, köztük a fokozottan védett darut és a fekete gólyát.", "A sekély tavak nyáron gyakran teljesen kiszáradnak, egyedi iszapos ökoszisztémát hagyva hátra.", "A látogatók a mocsarakat csak speciálisan megépített, fapallós tanösvényeken közelíthetik meg."]
     }
   },
   {
@@ -778,6 +1018,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egykori fővárosa a 11-12. században.", "A PKN Orlen fontos telephelye.", "Román stílusú katedrális lengyel uralkodók sírjaival."],
       ro: ["Fostă capitală a Poloniei în sec. XI-XII.", "Amplasament important pentru PKN Orlen.", "Catedrală romanică cu morminte ale monarhilor polonezi."],
       en: ["Former capital of Poland in the 11th-12th c.", "Major site for PKN Orlen.", "Romanesque cathedral with tombs of Polish monarchs."]
+    },
+    descriptionAdvanced: {
+      hu: "Płock a Visztula folyó meredek, festői partoldalán trónoló város, amely a 11. és 12. század fordulóján rövid ideig Lengyelország fővárosaként is tündökölt. A Dóm-hegyen emelkedő román stílusú katedrális nemcsak az ország egyik legősibb egyházi épülete, hanem két jelentős lengyel uralkodó, I. (Hős) Boleszláv és III. (Ferdeájú) Boleszláv végső nyughelye is. A gazdag középkori történelem azonban éles kontrasztban áll a város modern arcával, hiszen itt működik Kelet-Európa egyik legnagyobb olajfinomítója. Płock így egyedülálló módon ötvözi a királyi pompát az ipari monumentalitással. (Történelem K6 — A Piast-dinasztia kora és a lengyel államalapítás)"
+    },
+    factsAdvanced: {
+      hu: ["A katedrális híres bronzajtajának másolata az épület egyik fő látványossága; az eredeti jelenleg a novgorodi Szent Zsófia-székesegyházban található.", "A városban található Lengyelország legrégebbi, 1180-ban alapított középiskolája, a Małachowianka.", "A Visztula partfaláról (Tumskie-domb) lenyűgöző panoráma nyílik az ország leghosszabb folyójára."]
     }
   },
   {
@@ -797,6 +1043,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb városi területe.", "A szénbányászat történelmi központja.", "Ipari Műemlékek Útvonala (Szlak Zabytków Techniki)."],
       ro: ["Cea mai mare zonă urbană din Polonia.", "Centru istoric al mineritului de cărbune.", "Ruta Monumentelor Industriale (Szlak Zabytków Techniki)."],
       en: ["Largest urban area in Poland.", "Historical center of coal mining.", "Trail of the Industrial Monuments (Szlak Zabytków Techniki)."]
+    },
+    descriptionAdvanced: {
+      hu: "A Sziléziai iparvidék Felső-Szilézia füstös, de büszke szíve, ahol a szén, a vas és az acél évszázadokon át diktálta az élet ritmusát. Ez az európai viszonylatban is gigantikus, szorosan egybeépült városhalmaz egykor a kontinens egyik legzsúfoltabb és legszennyezettebb régiója volt. A 21. századba lépve azonban radikális átalakuláson ment keresztül: az egykori bányák, kohók és gyárkémények helyén ma gyakran kulturális központok, technológiai parkok és múzeumok állnak. Az Ipari Műemlékek Útvonala (Szlak Zabytków Techniki) egyedülálló módon fűzi fel ezt a gazdag technikatörténeti örökséget. (Földrajz K8 — A nehézipar hanyatlása és a régiók revitalizációja)"
+    },
+    factsAdvanced: {
+      hu: ["A régió agglomerációja több mint kétmillió lakost számlál, így Lengyelország legnépesebb városi területe.", "Az egykori szénbányák mélyén ma már földalatti éttermek, koncerttermek és kiállítások várják a látogatókat.", "A sziléziai iparosodás a 18. század végén indult virágzásnak a porosz uralom alatt."]
     }
   },
   {
@@ -816,6 +1068,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["25 középkori vár és rom.", "Összeköti Krakkót Częstochowával.", "Látványos mészkősziklák."],
       ro: ["25 de castele și ruine medievale.", "Leagă Cracovia de Częstochowa.", "Stânci spectaculoase de calcar."],
       en: ["25 medieval castles and ruins.", "Connects Krakow with Częstochowa.", "Spectacular limestone cliffs."]
+    },
+    descriptionAdvanced: {
+      hu: "A Saskastélyok útvonala egy varázslatos történelmi zarándoklat a Krakkó-Częstochowai-fennsík fehér mészkősziklái között. A 14. században, Nagy Kázmér király utasítására emelt erődítmény-hálózat eredeti célja a lengyel királyság déli határainak és a fontos kereskedelmi útvonalaknak a védelme volt. A sziklaszirtekkel szinte szervesen egybeépült, sasfészkekre emlékeztető várak és őrtornyok többsége a svéd háborúk során romba dőlt, de festői maradványaik ma is uralják a tájat. Az útvonal 163 kilométer hosszan kanyarog lenyűgöző szurdokokon és buja erdőkön keresztül. (Történelem K7 — Középkori védelmi rendszerek és várépítészet)"
+    },
+    factsAdvanced: {
+      hu: ["A legismertebb és legimpozánsabb rom a Pieskowa Skała-i kastély, amely teljesen felújítva ma múzeumként működik.", "A mészkősziklák népszerű célpontjai a sziklamászóknak, rengeteg kiépített útvonallal.", "A várak többségét a sziklákból kitermelt helyi kőzetekből építették, így azok szinte észrevehetetlenül olvadnak bele a hegyoldalba."]
     }
   },
   {
@@ -835,6 +1093,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A hatalmas Sziléziai Parkban található.", "Dinoszaurusz-völgy életnagyságú modellekkel.", "1954-ben alapították."],
       ro: ["Situată în imensul Parc Silezian.", "Valea Dinozaurilor cu modele în mărime naturală.", "Fondată în 1954."],
       en: ["Located in the vast Silesian Park.", "Dinosaur Valley with life-size models.", "Founded in 1954."]
+    },
+    descriptionAdvanced: {
+      hu: "A Sziléziai Állatkert a Chorzów és Katowice határán elterülő gigantikus Sziléziai Park (Park Śląski) egyik leglátogatottabb ékköve. Az 1950-es években egy posztindusztriális, bányászati meddőhányókkal tarkított területen hozták létre, ami igazi ökológiai csodának számít. A tágas kifutókban a világ minden tájáról származó, több mint 300 faj képviselői élnek, beleértve a ritka szibériai tigriseket és az indiai orrszarvúkat is. Az állatkert talán legemblematikusabb része a Dinoszaurusz-völgy, ahol életnagyságú, az 1970-es években készült beton őslényszobrok várják a gyerekeket. (Biológia K6 — Zootoológia és élőhely-rekonstrukció)"
+    },
+    factsAdvanced: {
+      hu: ["Az állatkert kapuját díszítő monumentális kőoroszlánt a 19. században Donnersmarck gróf kastélyából szállították ide.", "A Dinoszaurusz-völgy szobrai az 1960-as és 70-es évek lengyel-mongol góbi sivatagi expedícióinak felfedezésein alapulnak.", "Az állatkert területén egy gyönyörű, kötélpályás felvonó is működik, az úgynevezett 'Elka'."]
     }
   },
   {
@@ -854,6 +1118,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az Ipari Műemlékek Útvonalának része.", "Látogatói szintek 170 és 320 méter mélyen.", "Európa legmélyebben fekvő kocsmája."],
       ro: ["Parte a Rutei Monumentelor Industriale.", "Niveluri pentru vizitatori la 170m și 320m adâncime.", "Cel mai adânc pub din Europa."],
       en: ["Part of the Industrial Monuments Trail.", "Visitor levels at 170m and 320m depth.", "Europe's deepest pub."]
+    },
+    descriptionAdvanced: {
+      hu: "A Guido bánya Zabrze városában a sziléziai szénbányászat dicsőséges múltjának legautentikusabb emlékműve. Az 1855-ben Guido Henckel von Donnersmarck gróf által alapított vágatokban a látogatók szó szerint alámerülhetnek a Föld gyomrába, egészen 320 méteres mélységig. A túra során eredeti, működő bányagépek zajában és a sötét járatokban tapasztalhatják meg a vájárok egykori embert próbáló munkakörülményeit. A bánya mélyén nemcsak történelem, hanem szórakozás is várja az érdeklődőket: itt üzemel Európa legmélyebben fekvő kocsmája, sőt földalatti koncerteket is rendeznek. (Földrajz K8 — Bányászat és ipartörténet)"
+    },
+    factsAdvanced: {
+      hu: ["A látogatókat eredeti, a bányászok által is használt aknakasok (liftek) szállítják a mélybe.", "A 320 méteres szinten kipróbálható egy modern függővasút, amellyel a szenet és a munkásokat szállították a járatokban.", "A bánya egyes szakaszain olyan erős a huzat a szellőztetőrendszer miatt, hogy állandóan hűvös van lent, évszaktól függetlenül."]
     }
   },
   {
@@ -873,6 +1143,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legmagasabban fekvő városa.", "A gorál kultúra központja.", "Kapuja a Tátrai Nemzeti Parknak."],
       ro: ["Orașul situat la cea mai mare altitudine din Polonia.", "Centrul culturii Goral.", "Poarta de acces către Parcul Național Tatra."],
       en: ["Highest town in Poland.", "Center of the Goral highlander culture.", "Gateway to the Tatra National Park."]
+    },
+    descriptionAdvanced: {
+      hu: "Zakopane a Tátra fenséges bércei alatt megbújó üdülőváros, amelyet Lengyelország 'téli fővárosaként' is emlegetnek. A 19. század végéig apró pásztorfalu volt, amíg a friss hegyi levegő és a lenyűgöző panoráma fel nem fedezte magának a lengyel értelmiség és művészvilág. A város építészetét a Stanisław Witkiewicz által megalkotott 'zakopanei stílus' határozza meg, amely a helyi gorál fafaragó hagyományokat emelte nemzeti művészeti rangra. Ma a nyüzsgő Krupówki utca, a füstölt oscypek sajt illata és a környező sípályák évente milliókat vonzanak. (Földrajz K6 — Hegyvidéki turizmus és helyi kultúrák)"
+    },
+    factsAdvanced: {
+      hu: ["A város Lengyelország legmagasabban fekvő települése, központja mintegy 840 méter magasan van.", "A híres oscypek, a díszesen formázott füstölt juhsajt szigorúan védett európai eredetmegjelöléssel rendelkezik.", "A közeli Wielka Krokiew csúcsán található Európa egyik leghíresebb síugrósánca."]
     }
   },
   {
@@ -892,6 +1168,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legmagasabb pontja (2499 m).", "A szlovák határon fekszik.", "Népszerű, de kihívást jelentő túracélpont."],
       ro: ["Cel mai înalt punct din Polonia (2.499 m).", "Situat la granița cu Slovacia.", "Destinație populară, dar dificilă, pentru drumeții."],
       en: ["Highest point in Poland (2,499 m).", "Located on the border with Slovakia.", "Popular but challenging hiking destination."]
+    },
+    descriptionAdvanced: {
+      hu: "A Tengerszem-csúcs (Rysy) a Magas-Tátra és egyben Lengyelország legmagasabb pontja, amelynek három csúcsa közül az északnyugati (2499 m) jelöli a határt Szlovákiával. A gránitbércek közé szorult, meredek sziklafalakkal övezett hegy a kihívást kereső túrázók és hegymászók legáhítottabb lengyelországi trófeája. A csúcs meghódítása komoly fizikai felkészültséget és olykor láncos biztosítások használatát igényli a lengyel oldalról indulva. Fentről páratlan kilátás nyílik a festői Halastóra (Morskie Oko) és a környező több mint száz kárpáti csúcsra. (Földrajz K7 — Magashegységi formák és gleccsertavak)"
+    },
+    factsAdvanced: {
+      hu: ["A hegy neve a hegyoldalakat átszelő jellegzetes hasadékokra, 'karcokra' utal.", "A Rysy szlovákiai oldalán található csúcsa magasabb (2501 m), mint a lengyel határkőnél lévő pont.", "Nyári szezonban a csúcsra vezető láncos szakaszokon gyakran alakulnak ki 'túrázó dugók' a hatalmas érdeklődés miatt."]
     }
   },
   {
@@ -911,6 +1193,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az 1930-as években épült.", "Eléri az 1987 méteres magasságot.", "Népszerű kiindulópont síelők és túrázók számára."],
       ro: ["Construită în anii 1930.", "Atinge o altitudine de 1.987 m.", "Punct de plecare popular pentru schiori și drumeți."],
       en: ["Built in the 1930s.", "Reaches an altitude of 1,987 m.", "Popular starting point for skiers and hikers."]
+    },
+    descriptionAdvanced: {
+      hu: "A Kasprowy Wierch (Gáspár-csúcs) felvonó a lengyel mérnöki zsenialitás és a hegyvidéki turizmus ikonikus szimbóluma a Tátrában. Az 1930-as évek közepén mindössze 227 nap alatt építették fel, munkások ezrei cipelték kézzel vagy lovas szánokon a hatalmas acélelemeket a meredek hegyoldalakon. A kabinok Kuźnicéből indulva egy átszállással repítik a látogatókat közel 2000 méteres magasságba, drámai kilátást nyújtva a fenyvesekre és a kopár sziklákra. Télen a csúcs a lengyel sísport fellegvára, ahonnan az ország legmagasabban fekvő és leghosszabb sípályái indulnak. (Földrajz K6 — Turisztikai infrastruktúra magashegységekben)"
+    },
+    factsAdvanced: {
+      hu: ["A felvonó felső állomása 1959 méteres magasságban található, közvetlenül a meteorológiai obszervatórium mellett.", "Építése idején a technológia élvonalába tartozott, és a modernizációk ellenére megőrizte történelmi nyomvonalát.", "Erős, a Tátrára jellemző 'halny' főnszél esetén a felvonó biztonsági okokból szünetelteti a járatokat."]
     }
   },
   {
@@ -930,6 +1218,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Hét dombon fekszik.", "Gótikus katedrális és reneszánsz városháza.", "Egyedülálló földalatti turisztikai útvonal."],
       ro: ["Situat pe șapte coline.", "Catedrală gotică și primărie renascentistă.", "Traseu turistic subteran unic."],
       en: ["Located on seven hills.", "Gothic cathedral and Renaissance town hall.", "Unique underground tourist route."]
+    },
+    descriptionAdvanced: {
+      hu: "Sandomierz a Visztula folyó fölé magasodó hét dombon terül el, így gyakran 'Kis Rómának' is becézik. Lengyelország egyik legrégebbi települése, amely már a 11. században jelentős fejedelmi székhelyként és a folyami kereskedelem csomópontjaként virágzott. A város szerencsésen elkerülte a második világháború pusztításait, így macskaköves utcái, reneszánsz városházája és a gótikus Opatów-kapu ma is eredeti pompájukban csodálhatók meg. A várost átszelő titokzatos középkori pincerendszer, amelyet eredetileg bor- és sóraktárnak használtak, ma izgalmas turisztikai útvonalként szolgál. (Történelem K6 — Középkori kereskedővárosok virágzása)"
+    },
+    factsAdvanced: {
+      hu: ["A sandomierzi lösztalajnak köszönhetően a környéken ismét reneszánszát éli a helyi borászat.", "A városháza pártázatos reneszánsz attikája a lengyel építészet egyik legszebb alkotása.", "A város alatt húzódó alagutak hossza egyes becslések szerint a 15 kilométert is elérheti."]
     }
   },
   {
@@ -949,6 +1243,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legmagasabb épülete.", "A szovjet uralom ellentmondásos szimbóluma.", "Kilátóterasz a 30. emeleten."],
       ro: ["Cea mai înaltă clădire din Polonia.", "Un simbol controversat al dominației sovietice.", "Punte de observație la etajul 30."],
       en: ["Tallest building in Poland.", "A controversial symbol of Soviet domination.", "Observation deck on the 30th floor."]
+    },
+    descriptionAdvanced: {
+      hu: "A Kultúra és Tudomány Palotája (PKiN) Varsó legmagasabb és egyben legmegosztóbb épülete, a sztálini szocreál építészet monumentális szimbóluma. Az 1955-ben átadott felhőkarcolót Sztálin 'ajándékként' adományozta a lengyel népnek, felépítésén ezernél is több szovjet munkás dolgozott. Míg évtizedekig a szovjet elnyomás gyűlölt jelképe volt, mára a főváros arculatának elválaszthatatlan és sokak által kedvelt részévé vált. A 237 méter magas toronyban több színház, múzeum, egyetem és egy hatalmas kongresszusi terem is helyet kapott, 30. emeleti teraszáról pedig páratlan kilátás nyílik a modernizálódó Varsóra. (Történelem K8 — A hidegháború és a szocreál építészet)"
+    },
+    factsAdvanced: {
+      hu: ["Építése során az orosz mérnökök igyekeztek lengyel történelmi motívumokat, például reneszánsz attikákat is belecsempészni a homlokzatba.", "A toronyóra a világ második legnagyobb olyan órája, amely egy felhőkarcolón kapott helyet.", "Több mint 3000 szobát rejt magában az épület, valóságos labirintust alkotva."]
     }
   },
   {
@@ -968,6 +1268,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A gettó hőseinek emlékművével szemben található.", "Díjnyertes építészet.", "Az 1000 éves történelemről szóló központi kiállítás."],
       ro: ["Vizavi de Monumentul Eroilor Ghetoului.", "Arhitectură premiată.", "Expoziție de bază despre 1000 de ani de istorie."],
       en: ["Opposite the Monument to the Ghetto Heroes.", "Award-winning architecture.", "Core exhibition on 1000 years of history."]
+    },
+    descriptionAdvanced: {
+      hu: "A POLIN Múzeum a lengyelországi zsidóság ezeréves történetének megrendítő és interaktív krónikája, amely pontosan az egykori varsói gettó szívében épült fel. Az üveg- és rézborítású, díjnyertes modern épületet egy hatalmas, szimbolikus hasadék szeli ketté, amely a Vörös-tenger szétnyílását és a zsidó történelem töréseit is jelképezi. A múzeum nem csupán a Holokausztra fókuszál, hanem bemutatja azt a gazdag és vibráló kulturális együttélést, amely Lengyelországot évszázadokon át a zsidóság globális központjává tette. Az aprólékosan rekonstruált gwoździeci fatemplom mennyezete a kiállítás egyik leglélegzetelállítóbb pontja. (Történelem K8 — A lengyel-zsidó kultúra és a Holokauszt)"
+    },
+    factsAdvanced: {
+      hu: ["A 'Polin' héber szó, amelynek jelentése: 'Itt pihenhetsz meg'.", "A múzeum fő kiállításának elkészítésében több mint száz nemzetközi tudós és kurátor vett részt.", "Közvetlenül a múzeum bejárata előtt áll a Gettó Hőseinek híres emlékműve."]
     }
   },
   {
@@ -987,6 +1293,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Több mint 450 interaktív kiállítási tárgy.", "'Kopernikusz Ege' planetárium.", "A Visztula partján található."],
       ro: ["Peste 450 de exponate interactive.", "Planetariul 'Cerul lui Copernic'.", "Situat pe malul Vistulei."],
       en: ["Over 450 interactive exhibits.", "Planetarium 'Heavens of Copernicus'.", "Located on the bank of the Vistula river."]
+    },
+    descriptionAdvanced: {
+      hu: "A Kopernikusz Tudományos Központ (CNK) Közép-Kelet-Európa legnagyobb és legmodernebb interaktív tudományos múzeuma, a Visztula folyó modernizált varsói partján. Nevéhez méltóan, Nicolaus Copernicus szellemiségét követve az intézmény a kísérletezésre, a jelenségek saját kezű felfedezésére és a kritikus gondolkodásra épít. A látogatók robotokkal interakciózhatnak, megtapasztalhatják a földrengések erejét, vagy virtuális utazást tehetnek az emberi testben. Különleges, fémlemezekkel borított homlokzata és a mellette lévő hatalmas csillagászati planetárium Varsó innovatív arcát hangsúlyozza. (Fizika K6 — Természettudományos megismerés és fizikai kísérletek)"
+    },
+    factsAdvanced: {
+      hu: ["A központnak nincs rögzített útvonala, a látogatók maguk fedezhetik fel a több száz kísérleti állomást.", "A tetőkertből, amely egyfajta 'biológiai laboratórium', gyönyörű kilátás nyílik a folyóra és a Nemzeti Stadionra.", "Az intézmény 'Kopernikusz Ege' planetáriuma az egyik legfejlettebb Európában, lézeres és 3D-s vetítőkkel."]
     }
   },
   {
@@ -1006,6 +1318,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["III. Sobieski János király nyári rezidenciája.", "Túlélte Lengyelország felosztásait és háborúit.", "Művészeti és Történeti Múzeum."],
       ro: ["Reședința de vară a regelui Ioan al III-lea Sobieski.", "A supraviețuit împărțirilor și războaielor Poloniei.", "Muzeu de artă și istorie."],
       en: ["Summer residence of King John III Sobieski.", "Survived the partitions and wars of Poland.", "Museum of art and history."]
+    },
+    descriptionAdvanced: {
+      hu: "A Wilanów-palota a lengyel barokk építészet abszolút csúcspontja, amelyet a törökverő III. Sobieski János király építtetett nyári rezidenciaként a 17. század végén. A francia, olasz és hagyományos lengyel stílusjegyeket mesterien ötvöző épület csodával határos módon túlélte az ország felosztásait, sőt a két világháború pusztításait is, így belső terei jórészt eredeti pompájukban maradtak fenn. A kastélyt lenyűgöző kétszintes olasz teraszos kert és egy romantikus angol tájpark veszi körül, amely a tópartig fut le. Történelmi freskói, gazdag stukkói és pazar műkincsgyűjteménye a lengyel arisztokrácia fénykorát idézik. (Művészettörténet K7 — A barokk kor világi építészete)"
+    },
+    factsAdvanced: {
+      hu: ["A palota 1805-ben nyitotta meg kapuit a nagyközönség előtt, mint Lengyelország egyik legelső nyilvános múzeuma.", "A kastély sárga homlokzatát a felújítások során nyerte vissza, amely az eredeti 17. századi színe volt.", "Telente a palota kertjét a 'Királyi Fények Kertje' elnevezésű látványos fényinstalláció világítja meg."]
     }
   },
   {
@@ -1025,6 +1343,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország leghosszabb folyója (1047 km).", "Átfolyik Krakkón, Varsón és Gdańskon.", "A Gdański-öbölbe torkollik."],
       ro: ["Cel mai lung râu din Polonia (1.047 km).", "Curge prin Cracovia, Varșovia și Gdańsk.", "Se varsă în Golful Gdańsk."],
       en: ["Longest river in Poland (1,047 km).", "Flows through Krakow, Warsaw, and Gdańsk.", "Empties into the Gdańsk Bay."]
+    },
+    descriptionAdvanced: {
+      hu: "A Visztula (Wisła) Lengyelország ütőere és leghosszabb, több mint ezer kilométeren át kanyargó folyója. A sziléziai Beszkidek vadregényes forrásaitól indulva átszeli az egész országot, érintve a legfontosabb történelmi fővárosokat: Krakkót, Varsót és Gdańskot. A folyó különlegessége, hogy középső szakasza – ellentétben Európa más nagy folyóival – szinte teljesen szabályozatlan, így hatalmas homokszigeteivel és zátonyaival páratlan madárrezervátumként is funkcionál. Történelmileg a Visztula volt a lengyel gabonakereskedelem legfőbb útvonala, amelyen uszályok ezrei szállították a terményt a balti kikötőkbe. (Földrajz K6 — Folyórendszerek és ártéri természeti értékek)"
+    },
+    factsAdvanced: {
+      hu: ["A Visztula vízgyűjtő területe Lengyelország területének több mint felét (54%) fedi le.", "Varsónál a folyó egyes szakaszai annyira természetesek maradtak, hogy nyáron széles homokos strandok alakulnak ki a parton.", "A folyó a pomerániai deltavidéken, a Visztula-öbölben éri el a Balti-tengert."]
     }
   },
   {
@@ -1044,6 +1368,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Határt képez Németországgal.", "Lengyelország második leghosszabb folyója.", "A Szczecini-öbölbe torkollik."],
       ro: ["Formează granița cu Germania.", "Al doilea cel mai lung râu din Polonia.", "Se varsă în Laguna Szczecin."],
       en: ["Forms the border with Germany.", "Second longest river in Poland.", "Flows into the Szczecin Lagoon."]
+    },
+    descriptionAdvanced: {
+      hu: "Az Odera (Odra) Közép-Európa egyik legfontosabb, geopolitikailag is meghatározó vízi útja, amely a csehországi Odera-hegységből eredve szeli át Sziléziát. A második világháború után a folyó – a Neisse folyóval együtt – lett a híres Odera–Neisse-vonal, amely kijelölte Lengyelország és Németország új, nyugati államhatárát. Történelmileg hatalmas szerepet játszott az iparvidékek, különösen Wrocław (Breslau) és Szczecin fejlődésében, mivel olcsó szállítási útvonalat biztosított a szénnek és a nehézipari termékeknek. A folyó alsó szakasza, ahol a hatalmas Szczecini-öbölbe torkollik, lenyűgöző kiterjedésű, madarakban gazdag ártéri oázis. (Földrajz K7 — Folyami áruszállítás és országhatárok)"
+    },
+    factsAdvanced: {
+      hu: ["Az Odera hossza meghaladja a 850 kilométert, amivel a régió második legnagyobb folyója.", "Wrocławban az Oderának olyannyira sok ága és csatornája van, hogy a várost több mint 100 híd köti össze.", "1997-ben az Odera történetének egyik legpusztítóbb árvize (a 'Millenniumi árvíz') hatalmas károkat okozott a part menti városokban."]
     }
   },
   {
@@ -1063,6 +1393,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egyetlen táblahegysége.", "Stołowe-hegység Nemzeti Park.", "A 'Narnia krónikái' forgatási helyszíne."],
       ro: ["Singurul lanț montan de tip masă din Polonia.", "Parcul Național Munții Stołowe.", "Loc de filmare pentru 'Cronicile din Narnia'."],
       en: ["Only table mountains in Poland.", "Stołowe Mountains National Park.", "Filming location for 'The Chronicles of Narnia'."]
+    },
+    descriptionAdvanced: {
+      hu: "A Tábla-hegység (Góry Stołowe) a Szudéták legszürreálisabb és legegyedülállóbb formakincsű hegylánca. Ritka, vízszintes homokkő rétegekből épül fel, amelyeket a szél, a víz és a fagy évmilliók alatt drámai, asztalra emlékeztető fennsíkokká és bizarr sziklalabirintusokká koptatott. A leghíresebb formációk, mint a Błędne Skały (Elátkozott Sziklák) és a Szczeliniec Wielki (Nagy-hasadék) szűk, sötét folyosóikról és állatokat vagy emberi arcokat formázó sziklaalakzataikról ismertek. Ez az elvarázsolt kővilág megihlette a 'Narnia krónikái' című film alkotóit is, akik több jelenetet forgattak a sziklaszorosokban. (Földrajz K8 — Homokkőformációk és szélerózió)"
+    },
+    factsAdvanced: {
+      hu: ["A Szczeliniec Wielki a hegység legmagasabb pontja, egy lapos, 919 méter magas kőasztal.", "A hegység nevében szereplő 'stołowe' szó egyértelműen az asztal (stół) szóból ered.", "A sziklalabirintusokban nyáron is nagyon hűvös van, bizonyos repedésekben a hó sokáig megmarad."]
     }
   },
   {
@@ -1082,6 +1418,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legrégebbi állatkertje (alapítva 1865).", "Lengyelország legfajgazdagabb állatkertje.", "Egyedülálló Afrikárium komplexum."],
       ro: ["Cea mai veche grădină zoologică din Polonia (fondată în 1865).", "Grădina zoologică cu cea mai mare biodiversitate din Polonia.", "Complex unic Afrykarium."],
       en: ["Oldest zoo in Poland (est. 1865).", "Most species-rich zoo in Poland.", "Unique Afrykarium complex."]
+    },
+    descriptionAdvanced: {
+      hu: "A Wrocławi Állatkert nemcsak Lengyelország legrégebbi és legfajgazdagabb zoológiai kertje, de kontinensszinten is az egyik leglátogatottabb turisztikai célpont. A hatalmas áttörést a 2014-ben átadott, futurisztikus formájú Afrykarium hozta meg, amely a világ egyetlen, kizárólag Afrika vízi élettereit bemutató ócenáriuma. A látogatók a víz alatti üvegalagutakon sétálva közvetlen közelről csodálhatják meg a Vörös-tenger cápáit, a Kongó medencéjének krokodiljait vagy a pingvinek játékát. Az intézmény emellett komoly nemzetközi programokat tart fenn a veszélyeztetett afrikai és ázsiai fajok, például a szumátrai tigrisek megmentésére. (Biológia K6 — Ócenáriumok és egzotikus élőhelyek)"
+    },
+    factsAdvanced: {
+      hu: ["Az Afrykarium medencéihez több mint 15 millió liter vizet használnak fel.", "Az állatkertet 1865-ben, még a porosz uralom idején Breslau városában alapították.", "Területén több mint 10 000 állat él, mintegy 1100 különböző fajt képviselve."]
     }
   },
   {
@@ -1101,6 +1443,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A víznek szentelt múzeum.", "Multimédiás és interaktív kiállítások.", "Egy történelmi víztározóban."],
       ro: ["Muzeu dedicat apei.", "Expoziții multimedia și interactive.", "Într-un rezervor istoric de apă."],
       en: ["Museum dedicated to water.", "Multimedia and interactive exhibits.", "In a historic water reservoir."]
+    },
+    descriptionAdvanced: {
+      hu: "A Hydropolis Wrocław egyik leginnovatívabb oktatási és kiállítótere, amely a víz lenyűgöző világát mutatja be a legmodernebb vizuális és hangtechnikák segítségével. Különlegességét fokozza, hogy egy 19. századi, sötét és boltíves, földalatti tiszta vizű tározóban kapott helyet, amely egykor a város vízellátását biztosította. A kiállítás a víz kozmikus eredetétől kezdve a mélytengeri szörnyetegeken át az emberi test vízháztartásáig minden aspektust lefed. A bejáratnál egy speciális, vízcseppekből formálódó interaktív 'vízfüggöny' nyílik meg a látogatók előtt. (Fizika K5 — A víz halmazállapotai és fizikai tulajdonságai)"
+    },
+    factsAdvanced: {
+      hu: ["A kiállítótér közel 4000 négyzetmétert foglal el a történelmi, téglából rakott víztározóban.", "Egyik legnépszerűbb attrakciója a Mariana-árokba ereszkedő Trieste fürdőgömb életnagyságú, beléphető másolata.", "A létesítmény külön zónát szentel Wrocław város bonyolult vízgazdálkodási és hidrológiai történetének."]
     }
   },
   {
@@ -1120,6 +1468,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Magában foglalja a Szudéták legmagasabb csúcsát, a Sněžkát.", "UNESCO Bioszféra Rezervátum.", "Egyedülálló tundra-szerű növényzet."],
       ro: ["Include cel mai înalt vârf al Sudeților, Sněžka.", "Rezervație a biosferei UNESCO.", "Vegetație unică asemănătoare tundrei."],
       en: ["Includes the highest peak of the Sudetes, Sněžka.", "UNESCO Biosphere Reserve.", "Unique tundra-like vegetation."]
+    },
+    descriptionAdvanced: {
+      hu: "A Karkonosze (Óriás-hegység) Nemzeti Park a Szudéták legzordabb, ugyanakkor leglátványosabb alpesi jellegű régióját oltalmazza a lengyel-cseh határon. A gránitbércekkel, posztglaciális katlanokkal és hegyi tavakkal tagolt táj koronája a jellegzetes kúp alakú Śnieżka (Hókópé), amely 1603 méterével a hegység legmagasabb pontja. A zord, szeles mikroklíma miatt a fahatár rendkívül alacsonyan, már 1200 méter körül húzódik, amely felett ritka, tundra-szerű növényzet és törpefenyők uralják a gerinceket. A hegyoldalakon lezúduló vízesések, mint a Kamieńczyk-vízesés, drámai szépségű kanyonokat vájtak a sziklákba. (Földrajz K7 — Glaciális erózió és alpesi éghajlat)"
+    },
+    factsAdvanced: {
+      hu: ["A Śnieżka csúcsán található, repülő csészealjakra emlékeztető meteorológiai obszervatórium 1974-ben épült.", "A hegy gerincén halad végig a Lengyel–Cseh Barátság Útja nevű népszerű túraútvonal.", "Az ősi helyi legendák szerint a hegység mélyén él a titokzatos Szudéta-hegyi szellem, a 'Rübezahl' (lengyelül Liczyrzepa)."]
     }
   },
   {
@@ -1139,6 +1493,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO Világörökség része.", "Fából, agyagból és szalmából épült.", "7500 ember befogadására alkalmas."],
       ro: ["Patrimoniu Mondial UNESCO.", "Construită din lemn, lut și paie.", "Are o capacitate de 7.500 de persoane."],
       en: ["UNESCO World Heritage site.", "Built of wood, loam and straw.", "Has a capacity of 7,500 people."]
+    },
+    descriptionAdvanced: {
+      hu: "A świdnicai Béketemplom Európa legnagyobb favázas (fachwerk) vallási épülete, az 17. századi protestáns építészet lenyűgöző és megismételhetetlen mesterműve. A harmincéves háborút lezáró vesztfáliai béke után a katolikus Habsburg császár engedélyezte építését a sziléziai lutheránusoknak, de szigorú feltételekkel: csak fát, agyagot és szalmát használhattak, és a templomnak torony, illetve harang nélkül kellett felépülnie egy év alatt. A kívülről puritán, pajtaszerű szerkezet odabent egy elképesztően gazdag, többszintes barokk galériarendszert és pazarul díszített faoltárt rejt. Az épület kivételes mérnöki teljesítménye miatt az UNESCO Világörökség listájára is felkerült. (Művészettörténet K7 — Favázas építészet és a barokk kor)"
+    },
+    factsAdvanced: {
+      hu: ["A templom belső tere annyira hatalmas, hogy több mint 7500 ember befogadására alkalmas.", "A tetőszerkezetet eredetileg egyetlen vasszög felhasználása nélkül, fa csapolásokkal építették.", "A gazdagon festett fa mennyezet a Jelenések könyvéből vett bibliai jeleneteket ábrázol."]
     }
   },
   {
@@ -1158,6 +1518,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO Világörökség része.", "A három béketemplom egyike, melyből kettő maradt fenn.", "Mindössze egy év alatt épült fel."],
       ro: ["Patrimoniu Mondial UNESCO.", "Una dintre cele trei Biserici ale Păcii, dintre care două au supraviețuit.", "Construită în doar un an."],
       en: ["UNESCO World Heritage site.", "One of three Churches of Peace, two of which survived.", "Built in just one year."]
+    },
+    descriptionAdvanced: {
+      hu: "A jawori Béketemplom Świdnicával karöltve a sziléziai protestánsok küzdelmes történetének fából ácsolt, gigantikus emlékműve. Az Albrecht von Säbisch wrocławi építész által tervezett favázas csarnokot 1654 és 1655 között emelték, ragaszkodva az osztrák császár szigorú és megalázónak szánt korlátozásaihoz. Az épület belseje háromemeletes galériarendszerével a színházak szerkezetét idézi, amelynek mellvédjeit csodálatos, virágokat, címereket és bibliai idézeteket ábrázoló festmények borítják. A templom kiváló akusztikájának köszönhetően ma nemcsak istentiszteleteknek, hanem rangos nemzetközi békekoncerteknek is helyet ad. (Művészettörténet K7 — A vallásháborúk korának művészete)"
+    },
+    factsAdvanced: {
+      hu: ["A jawori templom valamivel kisebb, mint a świdnicai, mintegy 6000 férőhelyes.", "A belső díszítés kék és fehér színei az egykori helyi textilkészítők céhét dicsérik.", "Évente itt rendezik meg a nemzetközi Jawori Békekoncerteket, kihasználva a fatemplom orgonájának páratlan hangzását."]
     }
   },
   {
@@ -1177,6 +1543,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A legnicai csata helyszíne (1241).", "Piast-vár két toronnyal.", "Fontos a rézfeldolgozás szempontjából (KGHM)."],
       ro: ["Locul Bătăliei de la Legnica (1241).", "Castelul Piast cu două turnuri.", "Important pentru prelucrarea cuprului (KGHM)."],
       en: ["Site of the Battle of Legnica (1241).", "Piast Castle with two towers.", "Important for copper processing (KGHM)."]
+    },
+    descriptionAdvanced: {
+      hu: "Legnica, a Kaczawa folyó partján fekvő város, Alsó-Szilézia történelmének egyik legfontosabb csomópontja. Hírnevét elsősorban az 1241-es, mongolok elleni hősies, bár tragikus kimenetelű csatának köszönheti, ahol a lengyel és európai lovagság megállította az ázsiai inváziót, noha Jámbor Henrik herceg is elesett. A második világháború után a város újabb stratégiai szerepet kapott: évtizedekig itt volt a Vörös Hadsereg Északi Csoportjának főhadiszállása, amiért a „Kis Moszkva” gúnynevet kapta. Ma az ország egyik legfontosabb ipari bázisa, a KGHM rézbányászati tröszt finomítóinak otthona. (Történelem K6 — A tatárjárás Európában és a hidegháború)"
+    },
+    factsAdvanced: {
+      hu: ["A város hatalmas Piast-vára egyike a legrégebbi lengyel téglaerődöknek.", "Az 1241-es mongol invázió emléke a mai napig él a helyi legendákban és fesztiválokon.", "A szovjet csapatok csak 1993-ban hagyták el véglegesen a várost."]
     }
   },
   {
@@ -1196,6 +1568,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Kapu az Óriás-hegységhez.", "Számos vár és palota veszi körül.", "Cieplice gyógyfürdő negyed termálforrásokkal."],
       ro: ["Poarta de acces către Munții Karkonosze.", "Înconjurat de numeroase castele și palate.", "Stațiunea balneară Cieplice cu izvoare termale."],
       en: ["Gateway to the Karkonosze Mountains.", "Surrounded by numerous castles and palaces.", "Cieplice spa district with thermal springs."]
+    },
+    descriptionAdvanced: {
+      hu: "Jelenia Góra (Szarvas-hegy) a Sudéták legfontosabb turisztikai és kulturális bástyája, amely egy hegyekkel koszorúzott, festői völgyben fekszik. A város elegáns, pasztellszínű árkádsoros főtere a sziléziai kereskedővárosok gazdagságát idézi, míg a Cieplice nevű városrésze a 13. század óta működő neves gyógyfürdő központja, melyet egykor porosz királyok is látogattak. A település kapuként szolgál a Karkonosze Nemzeti Park lenyűgöző túraútvonalaihoz és a „Kastélyok Völgyéhez”, ahol tucatnyi 19. századi arisztokrata palota rejtőzik a fák között. Hangulata egyedülálló módon ötvözi a barokk polgárvárosi életérzést a hegyi kalandok ígéretével. (Földrajz K6 — Gyógyturizmus és hegyvidéki medencék)"
+    },
+    factsAdvanced: {
+      hu: ["A cieplicei termálvizek hőmérséklete eléri a 87 Celsius-fokot, így Közép-Európa legmelegebb forrásai közé tartoznak.", "A város címerében egy büszke szarvas áll, utalva a település nevére és a vadban gazdag hegyi környezetre.", "A környező Kastélyok Völgyét (Dolina Pałaców i Ogrodów) sokszor a franciaországi Loire-völgyhöz hasonlítják."]
     }
   },
   {
@@ -1215,6 +1593,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A náci Németország titkos építési projektje.", "Hét földalatti komplexum.", "Kényszermunkások építették."],
       ro: ["Proiect secret de construcție al Germaniei naziste.", "Șapte complexe subterane.", "Construit de muncitori forțați."],
       en: ["Secret construction project of Nazi Germany.", "Seven underground complexes.", "Built by forced labourers."]
+    },
+    descriptionAdvanced: {
+      hu: "A Riese (Óriás) projekt a Harmadik Birodalom egyik legrejtélyesebb és leginkább megdöbbentő, soha be nem fejezett gigantikus építkezése a Bagoly-hegység mélyén. 1943 és 1945 között koncentrációs táborok foglyainak tízezreivel vájattak hatalmas, összefüggő alagútrendszereket és csarnokokat a kemény gránitsziklákba. A hét ismert komplexum (köztük Osówka és Włodarz) pontos célja a mai napig ismeretlen: a történészek vitatkoznak, hogy vajon egy újabb, sebezhetetlen vezéri főhadiszállást, földalatti fegyvergyárakat, vagy titkos kutatólaboratóriumokat szántak-e ide. A nyirkos, részben vízzel elárasztott sötét alagutak bejárása ma fojtogató emlékezés a kényszermunkások szenvedésére. (Történelem K8 — A Harmadik Birodalom titkos projektjei)"
+    },
+    factsAdvanced: {
+      hu: ["Az eddig felfedezett járatok összhossza meghaladja a 8 kilométert, de sokak szerint további elfalazott alagutak várnak feltárásra.", "A betonozott termek mérete néhol eléri az 50 méteres hosszúságot és a 10 méteres magasságot.", "Az építkezés olyan hatalmas mennyiségű betont emésztett fel, amely a teljes akkori német cementtermelés jelentős részét tette ki."]
     }
   },
   {
@@ -1234,6 +1618,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az 1939-es 'gliwicei incidens' helyszíne.", "A fa adótorony a világ egyik legmagasabbja.", "Fontos folyami kikötő a Gliwice-csatornán."],
       ro: ["Locul 'Incidentului de la Gliwice' din 1939.", "Turnul radio din lemn este unul dintre cele mai înalte din lume.", "Port fluvial important pe Canalul Gliwice."],
       en: ["Site of the 1939 'Gliwice incident'.", "Wooden radio tower is one of the tallest in the world.", "Important river port on the Gliwice Canal."]
+    },
+    descriptionAdvanced: {
+      hu: "Gliwice a felső-sziléziai iparvidék egyik legszebb és legélhetőbb városa, amely sikeresen alakult át nehézipari központból a lengyel IT és mérnöki szektor fellegvárává. A település neve világszerte ismertté vált az 1939. augusztus 31-i „gliwicei incidens” miatt, amikor egy náci kommandó lengyel támadást színlelve elfoglalta a helyi rádióállomást, ürügyet szolgáltatva a második világháború kirobbantására. A rádióállomás eredeti, vörösfenyőből épült gigantikus adótornya ma is áll, Európa legmagasabb faszerkezeteként. A város büszkesége a csodálatos pálmaház és a Gliwice-csatorna, amely közvetlen folyami kapcsolatot biztosít az Odera felé. (Történelem K8 — A II. világháború kitörésének körülményei)"
+    },
+    factsAdvanced: {
+      hu: ["A gliwicei rádiótorony magassága 111 méter, és kizárólag sárgaréz csavarokat használtak az összeállításához.", "A városban működő Sziléziai Műszaki Egyetem az ország egyik legmagasabban rangsorolt mérnökképző intézménye.", "Óvárosa szinte tökéletesen megőrizte középkori, sugaras-gyűrűs utcaszerkezetét és a várfalak jelentős részét."]
     }
   },
   {
@@ -1253,6 +1643,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A felső-sziléziai iparvidék központja.", "Otthont ad a Guido és a Queen Luise bányáknak.", "A sikeres Górnik Zabrze futballklub otthona."],
       ro: ["Centru al zonei industriale a Sileziei Superioare.", "Găzduiește minele Guido și Queen Luise.", "Acasă la clubul de fotbal de succes Górnik Zabrze."],
       en: ["Center of the Upper Silesian Industrial Region.", "Home to the Guido and Queen Luise mines.", "Home of the successful football club Górnik Zabrze."]
+    },
+    descriptionAdvanced: {
+      hu: "Zabrze a sziléziai feketeszén bányászatának ikonikus, nyughatatlan városa, ahol az ipari forradalom emléke minden utcasarkon visszaköszön. Bár a szénkitermelés a 20. század vége óta rohamosan csökkent, a város páratlan sikerrel mentette meg bányászati örökségét a turizmus számára. A Guido bánya és a Luiza Királynő Bánya komplexumai olyan egyedülálló földalatti élményeket kínálnak, ahol a látogatók bányászvasúton utazhatnak és megcsodálhatják a működő szénfejtő gépeket a mélyben. A város emellett Lengyelország egyik legismertebb futballcsapatának, a Górnik Zabrzének (Zabrzei Bányász) az otthona, amely nemzeti szinten dominált a sportban. (Történelem K7 — A szénbányászat hatása az urbanizációra)"
+    },
+    factsAdvanced: {
+      hu: ["A Luiza Királynő Bánya a legrégebbi állami szénbánya volt Felső-Sziléziában, 1791-ben alapították.", "A városban található Európa leghosszabb, csónakkal bejárható földalatti bányajárata, a Fő Örökletes Táró.", "Zabrze az ország egyik legfontosabb kardiológiai központja is, ahol Zbigniew Religa professzor végrehajtotta az első sikeres lengyelországi szívátültetést."]
     }
   },
   {
@@ -1272,6 +1668,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Történelmileg fontos ólom- és ezüstérc-központ.", "Itt található a Sziléziai Opera.", "Sok épület szenved a bányakároktól."],
       ro: ["Centru istoric important pentru minereul de plumb și argint.", "Opera Sileziană își are sediul aici.", "Multe clădiri suferă din cauza daunelor miniere."],
       en: ["Historically important center for lead and silver ore.", "The Silesian Opera is based here.", "Many buildings suffer from mining damage."]
+    },
+    descriptionAdvanced: {
+      hu: "Bytom Felső-Szilézia egyik legősibb, már a 11. században fontos ezüst- és ólombányászati központként jegyzett városa. Noha a 19. és 20. században a szén- és cinkbányászat hatalmas gazdasági fellendülést hozott a gazdagon díszített szecessziós épületekkel tarkított településnek, a földalatti járatok omlásai miatt az épített örökség egy része süllyedni kezdett. Ma a város a megújulás és a kultúra útjára lépett: a Sziléziai Opera és a Sziléziai Múzeum a régió kiemelkedő szellemi központjai. Az egykori bányaterületek rehabilitációja során csodálatos természetes tavak és zöldövezetek alakultak ki a város peremén. (Földrajz K8 — Iparvidékek süllyedése és városi rehabilitáció)"
+    },
+    factsAdvanced: {
+      hu: ["A történelmi bányászat miatt a városközpont bizonyos részei az elmúlt évszázadban több métert süllyedtek.", "A bytom-i Felső-Sziléziai Múzeum lenyűgöző gyűjteménnyel rendelkezik a régió néprajzi és bányászati örökségéről.", "A 19. századi hatalmas, vöröstéglás börtön és bírósági épület ma is a város egyik legimpozánsabb építménye."]
     }
   },
   {
@@ -1291,6 +1693,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Dąbrowa-medence legnagyobb városa.", "Egykor a 'három császár sarkánál' feküdt.", "15. századi Sielecki-kastély."],
       ro: ["Cel mai mare oraș din Bazinul Cărbunelui Dąbrowa.", "Fost situat la 'Colțul celor Trei Împărați'.", "Castelul Sielecki din secolul al XV-lea."],
       en: ["Largest city in the Dąbrowa Basin.", "Formerly located at the 'Three Emperors' Corner'.", "15th-century Sielecki Castle."]
+    },
+    descriptionAdvanced: {
+      hu: "Sosnowiec a Dąbrowai-medence fiatal, robbanásszerűen fejlődő ipari csomópontja, amely a 19. század végén az orosz, a porosz és az osztrák-magyar birodalmak találkozásánál épült fel. A hírhedt „Három Császár Sarka” (Trójkąt Trzech Cesarzy) a város szélén ma is a térség viharos geopolitikai múltjára emlékeztet. A város gazdag iparmágnások által emelt neoreneszánsz és neogótikus kastélyokkal büszkélkedhet, mint amilyen a gyönyörű Sielecki-kastély vagy a Dietel-palota. Sosnowiec jelentős zsidó közösséggel rendelkezett a háború előtt, Władysław Szpilman (A zongorista) szülővárosaként is ismert. (Történelem K8 — Lengyelország felosztásának határvidékei)"
+    },
+    factsAdvanced: {
+      hu: ["Sosnowiec nevének eredete a 'sosna', azaz erdeifenyő szóból származik, amely a területet egykor borító erdőkre utal.", "A 'Három Császár Sarka' a 19. században népszerű turisztikai célpont volt, ahová sétahajókkal érkeztek a látogatók.", "A városban található Edward Gierek, a kommunista korszak egyik legismertebb lengyel politikusának emlékműve."]
     }
   },
   {
@@ -1310,6 +1718,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legnagyobb autógyára.", "Többek között a Fiat 500-at és a Lancia Ypsilont gyártja.", "Fontos munkaadó a régióban."],
       ro: ["Cea mai mare fabrică de automobile din Polonia.", "Produce Fiat 500, Lancia Ypsilon și altele.", "Angajator important în regiune."],
       en: ["Largest car factory in Poland.", "Produces the Fiat 500, Lancia Ypsilon, and others.", "Major employer in the region."]
+    },
+    descriptionAdvanced: {
+      hu: "A tychy-i Stellantis (korábban Fiat Auto Poland) gyár az európai autógyártás egyik legnagyobb és leghatékonyabb üzemegysége, amely a lengyel ipari precizitás szimbóluma. Az 1970-es évek elején, a kis Polskik (Fiat 126p) tömeggyártására létrehozott óriásüzem történelmi jelentőségű volt a lengyel társadalom motorizációjában a szocializmus alatt. Ma a hipermodern robotikával és szigorú minőségbiztosítással felszerelt gyár elsősorban a Fiat 500-as és a Lancia Ypsilon modelleket ontja magából az európai piacokra. A létesítmény jelenléte Tychyt egy gyorsan növekvő, modern és tiszta várossá formálta. (Földrajz K8 — A járműipar földrajzi elhelyezkedése Európában)"
+    },
+    factsAdvanced: {
+      hu: ["A gyárban több mint hárommillió legendás Fiat 126p (Kispolszki) gördült le a szalagsorról 2000-ig.", "Egy új autó átlagosan percenként hagyja el a szerelőszalagot a tychy-i üzemben.", "A gyárat a Fiat 2007-ben az egész vállalatcsoport leghatékonyabb termelőegységévé választotta."]
     }
   },
   {
@@ -1329,6 +1743,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Habsburg család alapította.", "A Heineken-csoport része.", "Interaktív sörfőzde-múzeum."],
       ro: ["Fondată de familia Habsburg.", "Parte a grupului Heineken.", "Muzeu interactiv al fabricii de bere."],
       en: ["Founded by the Habsburg family.", "Part of the Heineken Group.", "Interactive museum of the brewery."]
+    },
+    descriptionAdvanced: {
+      hu: "A Żywieci sörfőzde a lengyel sörfőző művészet legismertebb, történelmi bástyája, amely a festői Beszkidek lábánál épült fel 1856-ban. A Habsburg Albrecht Frigyes főherceg által alapított üzem a kristálytiszta hegyi forrásvizek és a legkiválóbb technológia ötvözésével már a 19. században a császári udvar hivatalos beszállítója lett. A történelmi erjesztőkádakat és pincéket felvonultató modern multimédiás múzeum az egyik legvonzóbb ipartörténeti látványosság Dél-Lengyelországban. A Żywiec sör ma nemcsak a belföldi piac vezető márkája, hanem az ország egyik legfontosabb exportcikke is a tengerentúlon. (Történelem K7 — A söripar és az osztrák-magyar gazdaság hatásai)"
+    },
+    factsAdvanced: {
+      hu: ["A sör címkéjén a kezdetek óta a hagyományos krakkói népviseletbe öltözött táncoló pár látható.", "A sörfőzde múzeumát az egykori sziklába vájt hatalmas jégpincékben alakították ki.", "A II. világháború alatt a gyárat a németek vették át, de a lengyel ellenállás megakadályozta az üzem felrobbantását a visszavonuláskor."]
     }
   },
   {
@@ -1348,6 +1768,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Külső-Nyugati-Kárpátok része.", "Népszerű síterepek, mint például Szczyrk.", "A Babia Góra Nemzeti Park az UNESCO bioszféra-rezervátuma."],
       ro: ["Parte a Carpaților Occidentali Exteriori.", "Stațiuni de schi populare precum Szczyrk.", "Parcul Național Babia Góra este o rezervație a biosferei UNESCO."],
       en: ["Part of the Outer Western Carpathians.", "Popular ski resorts like Szczyrk.", "Babia Góra National Park is a UNESCO Biosphere Reserve."]
+    },
+    descriptionAdvanced: {
+      hu: "A Beszkidek egy lágyan hullámzó, hatalmas kiterjedésű, erdős hegyvonulat, amely a Külső-Kárpátok ívét alkotja Dél-Lengyelországban. Ellentétben a szomszédos, sziklás Tátrával, a Beszkidek a végtelen, sűrű fenyő- és bükkerdők, a tágas hegyi legelők és a faházas, hagyományőrző gorál falvak vidéke. A régió nyáron a családbarát túrázás, a kerékpározás, télen pedig a síelés paradicsoma, Szczyrk és Wisła neves síközpontjaival. A Babia Góra (Boszorkány-hegy) meredek, 1725 méter magas csúcsa a hegység legvadabb, szinte misztikus koronája, amely az UNESCO oltalma alatt áll. (Földrajz K6 — A Kárpátok domborzata és erdei zónái)"
+    },
+    factsAdvanced: {
+      hu: ["A Babia Góra legendája szerint a csúcson boszorkányok tartották sabbatjaikat.", "A hegységben máig él a hagyományos, juhászkutyákkal történő juhászat és a hegyi sajtkészítés.", "A terület a lengyelországi farkasok és hiúzok egyik legstabilabb és legnagyobb természetes menedéke."]
     }
   },
   {
@@ -1367,6 +1793,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Híres az 1109-es védelemről.", "Fontos rézipari központ (KGHM).", "A głogówi hercegek újjáépített kastélya."],
       ro: ["Faimos pentru apărarea din 1109.", "Amplasament important al industriei cuprului (KGHM).", "Castel reconstruit al Ducilor de Głogów."],
       en: ["Famous for the defense of 1109.", "Important site for the copper industry (KGHM).", "Rebuilt Castle of the Dukes of Głogów."]
+    },
+    descriptionAdvanced: {
+      hu: "Głogów, az Odera partján trónoló erődváros a lengyel kitartás egyik legismertebb történelmi szimbóluma. Legdicsőbb pillanata 1109-ben érkezett el, amikor a városvédők hősiesen verték vissza V. Henrik német-római császár seregét, ami a lengyel államiság megszilárdításának kulcsfontosságú mozzanata lett. A város tragédiája a második világháború végnapjaiban teljesedett be, amikor a szovjet ostrom során az egykori pompás reneszánsz belváros 95 százaléka teljesen megsemmisült. Bár az újjáépítés sokáig váratott magára, ma a Głogówi hercegek újjáépített kastélya és a folyamatosan szépülő óváros ismét méltó az ősi település rangjához. (Történelem K6 — Középkori ostromok és a Piast-kor)"
+    },
+    factsAdvanced: {
+      hu: ["A legenda szerint az 1109-es ostromnál a németek túszul ejtett lengyel gyerekeket kötöztek az ostromgépekre pajzsként.", "A város hatalmas posztglaciális rézérc-készleteken fekszik, ami a mai gazdaságának alapja.", "A középkori városháza tornya 80 méteres magasságával a régió egyik legmagasabbja, lenyűgöző kilátást nyújtva az Odera völgyére."]
     }
   },
   {
@@ -1386,6 +1818,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A Wałbrzychi-hegység legnagyobb városa.", "Az egykori alsó-sziléziai szénmedence központja.", "Régi Bánya Tudományos és Művészeti Központ."],
       ro: ["Cel mai mare oraș din Munții Wałbrzych.", "Centrul fostului bazin carbonifer din Silezia Inferioară.", "Centrul de Știință și Artă 'Mina Veche'."],
       en: ["Largest city in the Wałbrzych Mountains.", "Center of the former Lower Silesian Coal Basin.", "Old Mine Science and Art Centre."]
+    },
+    descriptionAdvanced: {
+      hu: "Wałbrzych egy katlanban fekvő, meredek hegyoldalakkal ölelt város, amely az alsó-sziléziai „fekete arany”, a szén évszázados központja volt. A 20. század végén bekövetkezett bányabezárások súlyos gazdasági krízisbe taszították, ám a város mára az ipari örökség és a turizmus révén főnixmadárként tér vissza. A település északi peremén magasodik a mesébe illő, gigantikus Książ kastély, Lengyelország harmadik legnagyobb palotája, mely alatt a nácik titokzatos alagutakat vájtak. A régi szénbányából (Stara Kopalnia) kialakított Tudományos és Művészeti Központ ma Európa egyik legmodernebb indusztriális múzeuma. (Földrajz K8 — A szénbányászat válsága és az ipari revitalizáció)"
+    },
+    factsAdvanced: {
+      hu: ["2015-ben a város világhírű lett a feltételezett, arannyal teli náci 'aranyvonat' legendája miatt, amelyet a környező hegyekben kerestek.", "A Książ kastély alatt a II. világháborúban Adolf Hitler egyik lehetséges főhadiszállását építették ki kényszermunkásokkal.", "Wałbrzych környékén működik Lengyelország egyetlen olyan régiója, ahol egykor illegális „szegénybányászat” is folyt a felszíni kibúvásoknál."]
     }
   },
   {
@@ -1405,6 +1843,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Itt található a Béketemplom, amely az UNESCO Világörökség része.", "Jól megőrzött középkori városközpont.", "Szent Szaniszló és Szent Vencel katedrális."],
       ro: ["Găzduiește Biserica Păcii, un sit al Patrimoniului Mondial UNESCO.", "Centru medieval bine conservat.", "Catedrala Sfinților Stanislau și Venceslau."],
       en: ["Home to the Church of Peace, a UNESCO World Heritage site.", "Well-preserved medieval town center.", "Cathedral of St. Stanislaus and St. Wenceslaus."]
+    },
+    descriptionAdvanced: {
+      hu: "Świdnica Alsó-Szilézia egyik legfestőibb, sértetlen középkori bájjal rendelkező városa, egykor a lengyel, a cseh és a német befolyás olvasztótégelye. Gazdasági aranykorát a középkorban élte élénk sörfőzésének és posztókereskedelmének köszönhetően; a helyi 'schweidnitzi sört' még Európa távoli udvaraiba is exportálták. Macskaköves piacterét díszes, barokk és reneszánsz polgárházak, valamint a monumentális városháza szobrokkal ékített tornya uralja. Világhírét a páratlan mérnöki bravúrral, tisztán fából épített, UNESCO világörökségi Béketemplomnak (Kościół Pokoju) köszönheti. (Történelem K7 — A kora újkori céhes ipar és a sziléziai kereskedelem)"
+    },
+    factsAdvanced: {
+      hu: ["A város gótikus székesegyházának 103 méter magas tornya a legmagasabb a délnyugat-lengyelországi régióban.", "A középkorban a świdnicai kocsmákat még Krakkóban, Prágában és Budán is nagyra becsülték a híres helyi sör miatt.", "A város alatt kiterjedt alagút- és pincerendszer fut, melyeket egykor sör- és árutárolásra használtak."]
     }
   },
   {
@@ -1424,6 +1868,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország egyik legrégebbi városa.", "Zongoragyárairól ismert.", "Régészeti rezervátum Zawodzie-ban."],
       ro: ["Unul dintre cele mai vechi orașe din Polonia.", "Cunoscut pentru fabricile sale de piane.", "Rezervație arheologică în Zawodzie."],
       en: ["One of the oldest cities in Poland.", "Known for its piano factories.", "Archaeological reserve in Zawodzie."]
+    },
+    descriptionAdvanced: {
+      hu: "Kalisz joggal viseli a 'Lengyelország legrégebbi városa' büszke címet, hiszen Klaudiosz Ptolemaiosz már az i. sz. 2. században említést tett a Borostyánút mentén fekvő 'Calisia' településről. A Prosna folyó ágai által körbeölelt szigeteken fekvő város építészete a 19. és a kora 20. századi orosz birodalmi klasszicizmust tükrözi, miután az I. világháború nyitányaként szinte porig rombolták. Hosszú évtizedeken át Európa-szerte ismert volt zongora- és pianínógyártásáról, amely meghatározta a helyi ipar identitását. Zawodzie városrészében lenyűgöző szabadtéri régészeti rezervátum mutatja be a korai szláv faerődítmények világát. (Történelem K5 — A Borostyánút és a korai szláv települések)"
+    },
+    factsAdvanced: {
+      hu: ["A várost az I. világháború elején, 1914 augusztusában a német tüzérség ok nélkül szinte teljesen elpusztította.", "A híres Calisia zongoragyár több mint 120 éven át készített prémium hangszereket a városban.", "Kalisz a lengyel diaszpóra körében is fontos név, több amerikai települést is elneveztek a városról."]
     }
   },
   {
@@ -1443,6 +1893,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Nagy vasúti csomópont.", "A 'Puszcza Notecka' (Noteć-i erdő) veszi körül.", "Stanisław Staszic szülőhelye."],
       ro: ["Nod feroviar major.", "Înconjurat de 'Puszcza Notecka' (Pădurea Noteć).", "Locul nașterii lui Stanisław Staszic."],
       en: ["Major railway junction.", "Surrounded by 'Puszcza Notecka' (Noteć Forest).", "Birthplace of Stanisław Staszic."]
+    },
+    descriptionAdvanced: {
+      hu: "Piła (németül Schneidemühl) Nagy-Lengyelország északnyugati peremének zöld, vizekkel és hatalmas erdőségekkel körbevett ipari és vasúti központja. A Gwda folyó partján épült város neve lengyelül fűrészt jelent, ami hűen tükrözi évszázados fakitermelői és faipari hagyományait. A második világháborúban az utcai harcok során a történelmi belváros mintegy 90 százaléka elpusztult, így a települést egy modern, széles utakkal és zöldterületekkel operáló városterv alapján építették újjá. Piła büszkesége a lengyel felvilágosodás polihisztora, Stanisław Staszic, aki itt született, és akinek múzeuma a város kevés megmaradt 18. századi épületének egyikében található. (Földrajz K8 — A második világháború utáni várostervezés és fafeldolgozás)"
+    },
+    factsAdvanced: {
+      hu: ["Piła vasúti kerekháza (mozdonyfűtőháza) egyedülálló, 19. századi ipari műemlék a város központjában.", "A várost egy hatalmas, félkörív alakú fenyőerdő, a Puszcza Notecka (Noteć-i erdő) öleli körbe.", "Az 1920-as években a német repülőgépgyártás, az Albatros Flugzeugwerke egyik fontos bázisa működött itt."]
     }
   },
   {
@@ -1462,6 +1918,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["13 jégkorszak utáni tó.", "Változatos tájformák.", "Poznań kedvelt rekreációs területe."],
       ro: ["13 lacuri post-glaciare.", "Forme de relief diverse.", "Zonă populară de recreere pentru Poznań."],
       en: ["13 post-glacial lakes.", "Diverse landforms.", "Popular recreational area for Poznań."]
+    },
+    descriptionAdvanced: {
+      hu: "A Wielkopolski Nemzeti Park Poznań városának zöld tüdeje, egy szinte tankönyvbe illő jégkorszaki (posztglaciális) tájmodell. A mintegy hétezer hektáros területet az utolsó jégkorszak visszahúzódó gleccserei formálták, hátrahagyva mély, csík alakú szalagvölgyeket, morénadombokat és sziklákat (vándorköveket). A sűrű fenyő- és tölgyerdők 13 gleccsertavat rejtenek, melyek közül a legszebb a festői Góreckie-tó, közepén egy romantikus kastélyrommal büszkélkedő kis szigettel. A terület a gazdag növényvilágon túl a madárvédők paradicsoma, számtalan vízimadár fészkelőhelye. (Földrajz K6 — A jégkorszaki formakincs és a glaciális tavak)"
+    },
+    factsAdvanced: {
+      hu: ["A Góreckie-tó szigetén álló 19. századi kastélyt Tytus Działyński gróf építtette testvérének, Klaudynának.", "A park területén egyedülálló, teljesen rovarfogó növényekkel (pl. kereklevelű harmatfűvel) borított lápok is találhatók.", "Számos hatalmas gránit vándorkő (erratikus blokk) pihen az erdőben, amelyeket a skandináv jégtakaró szállított ide."]
     }
   },
   {
@@ -1481,6 +1943,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Az 'Ostrówi Köztársaság' központja (1918).", "Fontos vasúti csomópont.", "Neoreneszánsz városháza."],
       ro: ["Centrul 'Republicii de la Ostrów' (1918).", "Nod feroviar important.", "Primărie neorenascentistă."],
       en: ["Center of the 'Republic of Ostrów' (1918).", "Important railway junction.", "Neo-Renaissance town hall."]
+    },
+    descriptionAdvanced: {
+      hu: "Ostrów Wielkopolski Dél-Nagy-Lengyelország lüktető, dinamikus csomópontja, amely a 19. század során vált jelentős vasúti és ipari központtá. A település hírnevét a lengyel függetlenségi mozgalmakban betöltött szerepe alapozta meg: 1918 novemberében itt kiáltották ki a rövid életű, de szimbolikus 'Ostrówi Köztársaságot', amely a lengyel függetlenség egyik előfutára volt. A város szívét a gyönyörű, 19. századi neoreneszánsz városháza uralja a macskaköves piactéren. A vasút a mai napig meghatározza a város lüktetését, modern ipari parkjai pedig a régió egyik leggyorsabban fejlődő településévé teszik. (Történelem K8 — Az 1918-as függetlenségi törekvések Lengyelországban)"
+    },
+    factsAdvanced: {
+      hu: ["A város egyedülálló, szinte érintetlenül fennmaradt mór stílusú, 19. századi zsinagógával büszkélkedhet.", "A vasúti csomópont kiépítése az 1870-es években indította el a város ipari forradalmát.", "Az 'Ostrówi Köztársaság' vérontás nélkül, a lengyel többség összefogásával vette át a hatalmat a német közigazgatástól."]
     }
   },
   {
@@ -1500,6 +1968,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Neogótikus stílus.", "Hatalmas arborétum több mint 3000 növényfajjal.", "A 'Fehér Hölgy' legendája."],
       ro: ["Stil arhitectural neogotic.", "Arboret vast cu peste 3000 de specii de plante.", "Legenda 'Doamnei Albe'."],
       en: ["Neo-Gothic architectural style.", "Extensive arboretum with over 3000 plant species.", "Legend of the 'White Lady'."]
+    },
+    descriptionAdvanced: {
+      hu: "A Kórniki kastély a lengyel romantikus és neogótikus építészet egyik leglátványosabb remeke, amely szinte lebeg egy festői tó partján. A Działyński és a Zamoyski arisztokrata családok ősi fészke eredetileg egy középkori erődítmény volt, amelyet a 19. században építettek át az angol gótika divatja szerint, csipkézett pártázatokkal és tornyokkal. A kastély falai között őrzik Lengyelország egyik legértékesebb történelmi könyv- és kéziratgyűjteményét, valamint fegyvereket és műtárgyakat. A birtokot egy lenyűgöző, több mint háromezer ritka fafajt felsorakoztató arborétum öleli körbe, amely az ország legrégebbi ilyen jellegű botanikus kertje. (Művészettörténet K7 — A neogótika és a romantika kastélyépítészete)"
+    },
+    factsAdvanced: {
+      hu: ["A kastély híres szelleme a 'Fehér Hölgy' (Biała Dama), Teofila Działyńska, aki a helyi legenda szerint éjjelente lelép a falon lévő festményről.", "Az arborétumban láthatók Észak-Amerikából és Ázsiából származó óriás mocsárciprusok és ritka fenyőfélék is.", "A kastély csodálatos, fából intarziált padlózata (parkettája) az egyik legszebb egész Európában."]
     }
   },
   {
@@ -1519,6 +1993,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország 966-os megkeresztelkedésének valószínű helyszíne.", "Palota és kápolna romjai a szigeten.", "Éves katolikus ifjúsági találkozó, a Lednica 2000."],
       ro: ["Locul probabil al botezului Poloniei în 966.", "Ruinele unui palatinat și ale unei capele pe insulă.", "Întâlnirea anuală a tineretului catolic Lednica 2000."],
       en: ["Likely site of the Baptism of Poland in 966.", "Ruins of a palatium and chapel on the island.", "Annual Lednica 2000 Catholic youth meeting."]
+    },
+    descriptionAdvanced: {
+      hu: "A Lednica-tó szigete (Ostrów Lednicki) a lengyel államiság és kereszténység szakrális, ősi bölcsője, amely a korai Piast-dinasztia uralkodóinak központja volt. A kutatók túlnyomó többsége egyetért abban, hogy I. Mieszko lengyel fejedelem 966-ban ezen a helyen – vagy a közeli Poznańban – vette fel a kereszténységet, ezzel a nyugati civilizációhoz kötve az országot. A szigeten ma is megcsodálhatók a 10. századi kőpalota (palatium) és a keresztelőkápolna döbbenetes méretű romjai. A történelmi helyszín szellemisége miatt minden nyáron itt gyűlik össze a 'Lednica 2000' találkozón több tízezer katolikus fiatal egész Európából. (Történelem K6 — Lengyelország keresztény államalapítása)"
+    },
+    factsAdvanced: {
+      hu: ["A tó medréből a régészek több száz fegyvert, köztük csatabárdokat, kardokat és sisakokat emeltek ki az ősi hidak környékéről.", "A szigetet a szárazfölddel egykor két, egyenként több száz méter hosszú, masszív tölgyfahíd kötötte össze.", "A 966-os dátumot a hagyományos lengyel történelemoktatás az ország 'születésnapjának' tekinti."]
     }
   },
   {
@@ -1538,6 +2018,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Reneszánsz városháza és polgárházak.", "Megmaradt a régi zsinagóga bimája.", "Lengyelország legmelegebb helye."],
       ro: ["Primărie și case burgheze renascentiste.", "Bimah-ul vechii sinagogi este conservat.", "Cel mai cald loc din Polonia."],
       en: ["Renaissance town hall and tenement houses.", "Bimah of the old synagogue is preserved.", "Warmest place in Poland."]
+    },
+    descriptionAdvanced: {
+      hu: "Tarnów, Galícia északi peremének egyik legszebb ékszerdoboza, amelyet páratlanul egységes főtere miatt a 'lengyel reneszánsz gyöngyszemének' is neveznek. A középkori utcaszerkezetet őrző óvárost lenyűgöző árkádos polgárházak és a gótikus-reneszánsz városháza lenyűgöző, pártázatos tornya uralja. A város történelme során a lengyel, a zsidó és az osztrák-magyar kultúrák virágzó olvasztótégelye volt; a második világháború előtt lakosságának közel felét zsidók alkották. Bár a Holokauszt letörölte a zsidó közösséget, a régi zsinagóga megmaradt imapódiuma (bima) és az egykori zsidó negyed utcái máig őrzik a múltjuk emlékét. (Történelem K7 — A reneszánsz városi polgárság és a zsidó diaszpóra)"
+    },
+    factsAdvanced: {
+      hu: ["A meteorológiai mérések alapján Tarnów Lengyelország statisztikailag legmelegebb városa, nyáron hosszú hőhullámokkal.", "A tarnówi székesegyházban található a lengyel arisztokrácia egyik legpompásabb monumentális reneszánsz síremléke.", "A magyar származású Bem József (Bem apó), a lengyel és az 1848-49-es magyar szabadságharc hőse ebben a városban született."]
     }
   },
   {
@@ -1557,6 +2043,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A 13. században alapították.", "Nagy főtér (Rynek).", "Galíciai Kisváros (Miasteczko Galicyjskie) skanzen."],
       ro: ["Fondat în secolul al XIII-lea.", "Piață centrală mare (Rynek).", "Muzeu în aer liber 'Orășelul Galițian' (Miasteczko Galicyjskie)."],
       en: ["Founded in the 13th century.", "Large Market Square (Rynek).", "Galician Town (Miasteczko Galicyjskie) open-air museum."]
+    },
+    descriptionAdvanced: {
+      hu: "Nowy Sącz a festői Sądecki-medencében, a Dunajec és a Kamienica folyók összefolyásánál fekvő történelmi város, a déli határvidék egykori védelmezője. A 13. század végén alapított település gyorsan meggazdagodott a Magyarország felé irányuló réz-, só- és borkereskedelemből. Gigantikus méretű, fásított piacterének közepén áll az ország egyik leghíresebb 19. századi, eklektikus stílusú városházája. A város határában található a Galíciai Kisváros nevű csodálatos skanzen, amely egy 19. századi osztrák-magyar monarchiabeli tartományi kisváros minden részletét, a patikától a fogadóig, pontosan rekonstruálja. (Történelem K7 — A középkori lengyel-magyar kereskedelem útvonalai)"
+    },
+    factsAdvanced: {
+      hu: ["A város királyi várát a 14. században építették, de a második világháború végén a németek lőszerraktárként használták és felrobbantották.", "Nowy Sącz a lengyelországi ortodox és görögkatolikus lemkók (kárpátaljai hegyi népcsoport) egyik fontos kulturális központja.", "A helyi skanzen egy korabeli galíciai tűzoltóállomást is bemutat, eredeti lóvontatású fecskendőkkel."]
     }
   },
   {
@@ -1576,6 +2068,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["UNESCO Világörökség része.", "Hat templom tartozik az együtteshez.", "Példák: Binarowa, Dębno, Lipnica Murowana."],
       ro: ["Patrimoniu Mondial UNESCO.", "Șase biserici fac parte din ansamblu.", "Exemplele includ Binarowa, Dębno, Lipnica Murowana."],
       en: ["UNESCO World Heritage site.", "Six churches form the group.", "Examples include Binarowa, Dębno, Lipnica Murowana."]
+    },
+    descriptionAdvanced: {
+      hu: "A Dél-kis-lengyelországi fatemplomok a kárpáti régió ácsmesterségének legtökéletesebb, évszázadok óta álló remekművei, melyek megőrizték a gótikus fatemplom-építészet hagyományait. A hat UNESCO Világörökségként elismert, kizárólag vörösfenyőből és fenyőből épült templom (pl. Binarowa, Dębno, Lipnica Murowana) egyetlen vasszög felhasználása nélkül, fecskefarkú illesztésekkel készült a 15. és 16. században. Kívülről magas, meredek zsindelytetejük zord fenséget sugároz, míg odabent az egész mennyezetet és falakat beborító, élénk színű vallási festmények, a polychrómiák nyűgözik le a belépőt. Ezek az épületek a lengyel falusi katolicizmus és a nemesi alapítványi rendszer legautentikusabb emlékei. (Művészettörténet K6 — A középkori szakrális faépítészet)"
+    },
+    factsAdvanced: {
+      hu: ["A dębno-i Szent Mihály Arkangyal templom falfestményei a legősibb és legépebben fennmaradt fatemplom-polychrómiák egész Európában.", "A zsindelytetők nemcsak védtek a kárpáti havazásoktól, de a mélyre nyúló ereszek az esővizet is távol tartották a fa falaktól.", "A templomokat túlnyomórészt helyi falusi közösségek és kistulajdonos nemesek finanszírozták, nem az egyházi vezetés."]
     }
   },
   {
@@ -1595,6 +2093,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Lengyelország legrégebbi sóbányája (13. század).", "Földalatti csónakázás egy sós tavon.", "Az UNESCO Világörökség része."],
       ro: ["Cea mai veche mină de sare din Polonia (sec. XIII).", "Plimbare subterană cu barca pe un lac sărat.", "Parte a Patrimoniului Mondial UNESCO."],
       en: ["Oldest salt mine in Poland (13th c.).", "Underground boat trip on a brine lake.", "Part of the UNESCO World Heritage site."]
+    },
+    descriptionAdvanced: {
+      hu: "A Bochniai sóbánya Európa egyik legidősebb folyamatosan működő ipari létesítménye volt, amelyben a sókitermelés már az 1240-es évek közepén, a wieliczkai bányát megelőzve megindult. A Piast-királyok gazdagságát megalapozó kősó (a korabeli 'fehér arany') bányászata egészen a 20. század végéig tartott a hatalmas, több kilométer mély földalatti hálózatban. Ma a bányát az UNESCO Világörökség részeként csúcstechnológiás, multimédiás interaktív múzeummá alakították, ahol a látogatók holografikus lengyel királyokkal és szellemekkel találkozhatnak a sötét vágatokban. Egyik leghíresebb attrakciója egy igazi, sósvizű földalatti tavon történő csónakázás. (Történelem K6 — A középkori sóbányászat és királyi monopóliumok)"
+    },
+    factsAdvanced: {
+      hu: ["A bányában lévő sókápolnák közül a Szent Kinga-kápolnát egy valódi, földalatti kisvasút köti össze a többi járattal.", "Bochniában rendezték meg a világ első földalatti félmaratonját, a szűk sós folyosókon keresztül.", "A bánya mikroklímája annyira tiszta és antiallergén, hogy a vágatok egy részében asztmás gyerekek számára alakítottak ki szanatóriumot."]
     }
   },
   {
@@ -1614,6 +2118,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Fenntartható erdőgazdálkodás.", "Bükk- és jegenyefenyőerdők.", "Történelmi erdei vasút, ma turisztikai látványosság."],
       ro: ["Silvicultură durabilă.", "Păduri de fag și brad.", "Cale ferată forestieră istorică, acum atracție turistică."],
       en: ["Sustainable forestry.", "Beech and fir forests.", "Historic forest railway, now a tourist attraction."]
+    },
+    descriptionAdvanced: {
+      hu: "A Bieszczady erdőgazdálkodási területei Lengyelország legelzártabb, mégis gazdaságilag létfontosságú zöld régióját jelentik a Keleti-Kárpátokban. A második világháború után szinte teljesen elnéptelenedett vidéken a szocialista állam hatalmas fakitermelői bázisokat hozott létre a sűrű bükk- és jegenyefenyőerdőkben. A zord, hegyvidéki terepen a nehéz gépeket keskeny nyomtávú erdei vasutak helyettesítették, amelyek kígyóként kanyarogtak a völgyek mélyén. Bár a nagyipari fakitermelés mára lelassult és egyre inkább a fenntarthatóságra fókuszál, a felújított Bieszczady Erdei Vasút (Bieszczadzka Kolejka Leśna) gőzösei ma tízezreket visznek romantikus erdei utazásra. (Földrajz K8 — A nehéz terepű erdőgazdálkodás és az ipari vasutak)"
+    },
+    factsAdvanced: {
+      hu: ["A terület fakitermelői (drwal) és faszénégetői a lengyel kultúrában a vad, romantikus és kemény hegyi élet szimbólumaivá váltak.", "A Bieszczady erdei vasútvonalainak nagy részét az I. világháború előtt építették ki osztrák-magyar mérnökök.", "A faszénégetés füstölgő, fémkupola alakú kemencéi (retorty) még ma is megtalálhatók az erdők mélyén."]
     }
   },
   {
@@ -1633,6 +2143,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["A legnagyobb gólyasűrűség Lengyelországban.", "Pentowo egy 'Európai Gólyafalu'.", "A gólyák a vidéki táj szimbólumai."],
       ro: ["Cea mai mare densitate de berze din Polonia.", "Pentowo este un 'Sat European al Berzelor'.", "Berzele sunt un simbol al peisajului rural."],
       en: ["Highest density of storks in Poland.", "Pentowo is a 'European Stork Village'.", "Storks are a symbol of the rural landscape."]
+    },
+    descriptionAdvanced: {
+      hu: "Podlasie régiója Európa legfontosabb gólyamenedéke, egy olyan lenyűgöző agrártáj, ahol az ember és a természet tökéletes, évezredes harmóniában él együtt. A Narew és a Biebrza folyók ártéri legelői, a kiterjedt mocsarak és a hagyományos, kisparcellás mezőgazdaság páratlanul gazdag békákban és rovarokban, ami tökéletes táplálékforrást biztosít a fehér gólyáknak. A régió olyan falvai, mint Pentowo vagy Tykocin környéke, nyaranta a gólyák valóságos metropoliszaivá válnak: sokszor egyetlen tanyán, fákon, villanyoszlopokon és tetőkön tucatnyi fészek is található. Ez az érintetlen lengyel vidék a nyugat-európai intenzív mezőgazdaság elől visszaszoruló madárfajok egyik utolsó, hatalmas bástyája. (Biológia K6 — Agrár-ökoszisztémák és a költöző madarak védelme)"
+    },
+    factsAdvanced: {
+      hu: ["Pentowo birtoka 2001-ben kapta meg a nemzetközileg elismert 'Európai Gólyafalu' címet a fészkek extrém sűrűsége miatt.", "A lengyel hagyomány szerint a ház tetejére rakott gólyafészek megvédi az épületet a villámcsapástól és bőséges gyermekáldást hoz.", "Tavasszal Lengyelország ad otthont a világ fehérgólya-populációja mintegy egynegyedének."]
     }
   },
   {
@@ -1652,6 +2168,12 @@ export const poiExtraPolandCities: POI[] = [
       hu: ["Összeköttetésben áll a Grupa Azoty Police vegyi üzemekkel.", "Műtrágya-alapanyagok átrakodása.", "Tonnázs alapján a lengyel partvidék egyik legnagyobb kikötője."],
       ro: ["Conectat la uzinele chimice Grupa Azoty Police.", "Transbordarea materiilor prime pentru îngrășăminte.", "Unul dintre cele mai mari porturi de pe coasta poloneză după tonaj."],
       en: ["Connected to Grupa Azoty Police chemical plants.", "Transshipment of raw materials for fertilizers.", "One of the largest ports on the Polish coast by tonnage."]
+    },
+    descriptionAdvanced: {
+      hu: "A Police vegyi kikötő a lengyel vegyipar és nemzetközi logisztika egyik legfontosabb, speciális csomópontja az Odera folyó tölcsértorkolatánál, Szczecin közelében. Noha nem turisztikai látványosság, nemzetgazdasági jelentősége hatalmas, hiszen a közvetlenül a vízparton elterülő Grupa Azoty vegyikombinát óriási nyersanyagigényét (főként foszfátokat és ammóniát) szolgálja ki a világ minden tájáról. A kikötő hatalmas, futurisztikus kinézetű tároló-silói, a savakat szállító csővezetékek és a folyamatosan rakodó mélytengeri teherhajók az európai ipari logisztika lüktetését mutatják be. A létesítmény működése kulcsfontosságú a kontinens mezőgazdaságának műtrágya-ellátásában. (Földrajz K8 — Speciális ipari kikötők és nyersanyag-kereskedelem)"
+    },
+    factsAdvanced: {
+      hu: ["A kikötő képes fogadni a világ legnagyobb, vegyi anyagokra specializálódott tartályhajóit, amelyek egyenesen a Balti-tengerről hajóznak be ide.", "Police Lengyelország negyedik legforgalmasabb kikötője az átrakott áruk tonnatömege alapján.", "Az üzem egyedülálló, zárt csővezeték-hálózattal minimalizálja a mérgező anyagok környezetbe jutásának kockázatát a hajókról."]
     }
   }
 ];

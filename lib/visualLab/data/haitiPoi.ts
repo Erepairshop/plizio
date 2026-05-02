@@ -1,5 +1,11 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraHaitiCitiesV2 } from "./poiExtraHaitiCitiesV2";
+import { poiExtraHaitiEconomicV2 } from "./poiExtraHaitiEconomicV2";
+import { poiExtraHaitiHistoryV2 } from "./poiExtraHaitiHistoryV2";
+import { poiExtraHaitiLifeV2 } from "./poiExtraHaitiLifeV2";
+import { poiExtraHaitiNatureV2 } from "./poiExtraHaitiNatureV2";
+import { poiExtraHaitiReliefV2 } from "./poiExtraHaitiReliefV2";
 import { poiExtraHaitiLandmarksV2 } from "./poiExtraHaitiLandmarksV2";
 
 export const haitiCountry: POI[] = [];
@@ -974,4 +980,4 @@ export const haitiLandmarks: POI[] = [
   ...poiExtraHaitiLandmarksV2
 ];
 
-export const haitiAllPoi: POI[] = [...haitiCountry, ...haitiRegions, ...haitiCities, ...haitiLandmarks];
+export const haitiAllPoi: POI[] = [...haitiCountry, ...haitiRegions, ...haitiCities, ...haitiLandmarks, ...poiExtraHaitiCitiesV2, ...poiExtraHaitiEconomicV2, ...poiExtraHaitiHistoryV2, ...poiExtraHaitiLifeV2, ...poiExtraHaitiNatureV2, ...poiExtraHaitiReliefV2];

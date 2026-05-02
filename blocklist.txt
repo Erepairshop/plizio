@@ -1,135 +1,116 @@
-Santo Domingo
-Die Hauptstadt und eine der ältesten europäischen Siedlungen Amerikas.
-Santo Domingo ist das pulsierende Herz der Dominikanischen Republik und die älteste von Europäern gegründete Stadt in der Neuen Welt. Die historische Zona Colonial beherbergt die erste Kathedrale, das erste Krankenhaus und die erste Universität Amerikas.
-      de: ["Gegründet im Jahr 1496", "UNESCO-Weltkulturerbe", "Erste Stadt der Neuen Welt", "Über 3 Millionen Einwohner"],
-      de: ["Die Stadt wurde von Bartholomeus Kolumbus, dem Bruder von Christoph, gegründet", "Der Faro a Colón ist ein monumentales Leuchtturm-Gebäude zu Ehren Kolumbus'", "Der Malecón ist eine berühmte Uferpromenade entlang des Karibischen Meeres"],
-Santiago de los Caballeros
-Zweitgrößte Stadt, gelegen im fruchtbaren Cibao-Tal.
-Santiago de los Caballeros ist das wirtschaftliche Zentrum des Cibao-Tals und weltweit bekannt für seine erstklassige Zigarrenproduktion. Die Stadt wird vom monumentalen 'Monumento a los Héroes de la Restauración' überragt und gilt als kulturelles Zentrum des Nordens.
-      de: ["Gegründet 1495", "Zentrum der Tabakindustrie", "Heimat des Merengue-Tanzes", "Größte Stadt im Landesinneren"],
-      de: ["Santiago war zweimal kurzzeitig die Hauptstadt des Landes", "Die Stadt beherbergt einige der besten Rum-Destillerien der Welt", "Das Centro León ist eines der bedeutendsten Kulturmuseen der Karibik"],
-Punta Cana
-Berühmter Ferienort an der Ostspitze mit endlosen weißen Stränden.
-Punta Cana ist das führende Touristenziel der Karibik, bekannt für seine luxuriösen All-inclusive-Resorts und die 'Costa del Coco'. Hier treffen der Atlantik und das Karibische Meer aufeinander und schaffen eine spektakuläre Kulisse für Wassersportler.
-      de: ["Über 32 km Sandstrände", "Meistbesuchter Flughafen der Karibik", "Ganzjährig warmes Klima", "Zentrum des All-Inclusive-Tourismus"],
-      de: ["Der Name stammt von den 'Cana'-Palmen, die in der Region reichlich wachsen", "Das Gebiet war bis in die 1970er Jahre fast völlig unerschlossen", "In der Nähe befindet sich der Scape Park mit einer beeindruckenden blauen Cenote (Hoyo Azul)"],
-Puerto Plata
-Küstenstadt im Norden mit viktorianischer Architektur und Festung.
-Puerto Plata, offiziell San Felipe de Puerto Plata, besticht durch seine charmanten viktorianischen Häuser und den einzigen Seilbahnbetrieb der Karibik, der auf den Berg Isabel de Torres führt. Die Stadt war historisch ein wichtiger Verteidigungspunkt gegen Piraten.
-      de: ["Gegründet 1502", "Berühmt für Bernstein-Vorkommen", "Besitzt eine historische Festung", "Einzige Seilbahn der Karibik"],
-      de: ["Kolumbus nannte den Ort 'Silberhafen' wegen des silbrig schimmernden Meeresnebel", "Das Bernsteinmuseum beherbergt seltene Fossilien in prähistorischem Harz", "Der Berg Isabel de Torres wird von einer Christusstatue gekrönt"],
-La Romana
-Eines der größten touristischen Ziele und Golfzentren.
-La Romana ist weltberühmt für das exklusive Resort Casa de Campo und das Künstlerdorf Altos de Chavón. Ursprünglich ein Zentrum der Zuckerindustrie, hat sich die Stadt zu einem erstklassigen Ziel für Golfer und Kreuzfahrttouristen entwickelt.
-      de: ["Gegründet 1897", "Standort von Casa de Campo", "Zentrum der Zuckerproduktion", "Tor zur Insel Saona"],
-      de: ["Der Golfplatz 'Teeth of the Dog' gilt als der beste der Karibik", "Altos de Chavón ist eine detailgetreue Nachbildung eines mediterranen Dorfes", "Der Fluss Chavón diente als Kulisse für berühmte Filme wie Apocalypse Now"],
-Baní
-Bekannt als die 'Hauptstadt der Mangos' im Süden des Landes.
-Baní ist das Zentrum der landwirtschaftlichen Produktion im Süden und berühmt für seine süßen Mangos und das traditionelle Gebäck. Die Region zeichnet sich durch die beeindruckenden Sanddünen von Las Calderas aus, die einzigartig in der Karibik sind.
-      de: ["Gegründet 1764", "Zentrum der Mango-Ernte", "Heimat der Dünen von Baní", "Wichtiger Salzproduzent"],
-      de: ["Baní ist der Geburtsort von Máximo Gómez, einem Helden der kubanischen Unabhängigkeit", "Die Salinen von Puerto Hermoso produzieren seit Jahrhunderten Salz", "Das jährliche Mango-Festival zieht Tausende von Besuchern an"],
-Samaná
-Eine Hafenstadt im Nordosten, ideal für die Walbeobachtung.
-Samaná, offiziell Santa Bárbara de Samaná, liegt an einer malerischen Bucht und ist weltberühmt für die Tausenden von Buckelwalen, die jedes Jahr im Winter hierher kommen. Die Stadt zeichnet sich durch ihre farbenfrohen Holzhäuser und die entspannte karibische Atmosphäre aus.
-      de: ["Hauptort der Halbinsel Samaná", "Zentrum für Walbeobachtung", "Gegründet 1756", "Farbenfrohe Architektur"],
-      de: ["Jedes Jahr zwischen Januar und März besuchen über 2.000 Buckelwale die Bucht", "Die 'Brücke ins Nirgendwo' verbindet mehrere kleine Inseln in der Bucht", "Viele Einwohner stammen von befreiten US-Sklaven ab, die im 19. Jahrhundert einwanderten"],
-Yaque del Norte
-Der längste Fluss der Dominikanischen Republik.
-Der Yaque del Norte ist der bedeutendste Fluss des Landes und entspringt in der Nähe des Pico Duarte in der Cordillera Central. Er fließt durch das fruchtbare Cibao-Tal und ist eine lebenswichtige Wasserquelle für die Landwirtschaft, insbesondere für den Reisanbau.
-      de: ["Länge: 298 km", "Entspringt in den Bergen", "Mündet in den Atlantik", "Wichtig für Bewässerung"],
-      de: ["Der Fluss ist ein beliebtes Ziel für Wildwasser-Rafting in der Nähe von Jarabacoa", "Er versorgt zahlreiche Wasserkraftwerke mit Energie", "Das Einzugsgebiet umfasst etwa 7.000 Quadratkilometer"],
-Valle Nuevo Nationalpark
-Ein geschütztes Hochplateau mit einzigartiger alpiner Vegetation.
-Der Nationalpark Juan Bautista Pérez Rancier, besser bekannt als Valle Nuevo, ist ein Hochplateau in über 2.000 Metern Höhe. Er ist bekannt als 'die Mutter der Wasser' der Insel, da hier zahlreiche Flüsse entspringen, und bietet ein für die Karibik ungewöhnlich kühles Klima.
-      de: ["Höhe bis zu 2.500 m", "Kältester Ort der Karibik", "UNESCO-Biosphärenreservat", "Wichtige Wasserquelle"],
-      de: ["Im Winter können die Temperaturen unter den Gefrierpunkt fallen", "Das Gebiet beherbergt über 500 Pflanzenarten, viele davon endemisch", "Das Wahrzeichen des Parks ist eine monumentale Pyramide im Zentrum"],
-Río Ozama
-Ein historisch wichtiger Fluss, der durch Santo Domingo fließt.
-Der Río Ozama ist einer der wasserreichsten Flüsse der Insel und mündet in Santo Domingo in das Karibische Meer. Seine Mündung war der strategische Ort für die Gründung der ersten Stadt Amerikas und wird noch heute von der Fortaleza Ozama bewacht.
-      de: ["Länge: 148 km", "Fließt durch die Hauptstadt", "Standort der Ozama-Festung", "Historischer Hafenplatz"],
-      de: ["Der Fluss bildet die Grenze zwischen dem nationalen Distrikt und Santo Domingo Este", "Im 16. Jahrhundert war er der wichtigste Hafen für spanische Expeditionen", "Heutzutage kämpft der Fluss mit erheblicher Umweltverschmutzung durch städtische Abwässer"],
-Jaragua Nationalpark
-Das größte Schutzgebiet in der Karibik mit Stränden und lagunen.
-Der Jaragua-Nationalpark im Südwesten des Landes ist Teil eines UNESCO-Biosphärenreservats und umfasst eine riesige Fläche an Land und Meer. Er ist berühmt für die Bahía de las Águilas, einen der unberührtesten Strände der Welt, und die Laguna de Oviedo.
-      de: ["Fläche: 1.374 km²", "Größter Nationalpark der Karibik", "Heimat von Nashornleguanen", "Wichtiger Ort für Meeresschildkröten"],
-      de: ["Die Laguna de Oviedo ist bekannt für ihre große Flamingokolonie", "Der Park enthält wichtige archäologische Stätten der Taino-Kultur", "Das Klima ist semiarid mit Kakteenwäldern, die bis zum Meer reichen"],
-Denkmal der Helden der Restauration
-Ein ikonisches Monument in Santiago de los Caballeros.
-Dieses beeindruckende 67 Meter hohe Monument aus weißem Marmor thront auf einem Hügel über Santiago. Ursprünglich zu Ehren des Diktators Trujillo erbaut, wurde es nach seinem Tod den Helden gewidmet, die für die Wiederherstellung der Unabhängigkeit von Spanien kämpften.
-      de: ["Höhe: 67 Meter", "Erbaut aus Marmor", "Bietet Panoramablick auf die Stadt", "Nationales Symbol"],
-      de: ["Im Inneren befinden sich Wandgemälde des spanischen Künstlers Vela Zanetti", "Das Monument ist nachts spektakulär beleuchtet", "Es ist der beliebteste Treffpunkt der Stadtbewohner während des Karnevals"],
-Zona Colonial
-Die historische Altstadt von Santo Domingo, UNESCO-Welterbe.
-Die Zona Colonial ist das älteste Siedlungsgebiet der Europäer in der Neuen Welt und ein UNESCO-Weltkulturerbe. In ihren kopfsteingepflasterten Gassen befinden sich über 300 historische Gebäude, darunter die erste Kathedrale und die erste Festung Amerikas.
-      de: ["UNESCO-Weltkulturerbe seit 1990", "Älteste Stadt Amerikas", "Über 300 historische Gebäude", "Sitz der ersten Kathedrale"],
-      de: ["Die Calle Las Damas ist die älteste gepflasterte Straße Amerikas", "Die Festung Ozama ist das älteste militärische Bauwerk europäischer Herkunft", "Die Kathedrale Santa María la Menor wurde 1541 geweiht"],
-Alcázar de Colón
-Die Residenz von Diego Columbus, heute ein Museum.
-Der Alcázar de Colón war der ehemalige Palast von Diego Kolumbus, dem Sohn von Christoph Kolumbus. Dieses prächtige Bauwerk im gotisch-maurischen Stil diente als Sitz des spanischen Vizekönigreichs und beherbergt heute eine bedeutende Sammlung spätmittelalterlicher Kunst.
-      de: ["Erbaut zwischen 1510–1514", "Wohnsitz von Diego Kolumbus", "Gotisch-maurischer Baustil", "Beherbergt über 800 Exponate"],
-      de: ["Das Gebäude wurde ohne die Verwendung eines einzigen Nagels errichtet", "Sir Francis Drake plünderte den Palast während seines Überfalls 1586", "Es ist das am meisten besuchte Museum der Dominikanischen Republik"],
-Pico Duarte
-Mit über 3.000 Metern der höchste Berg der Karibik.
-Der Pico Duarte ist der höchste Gipfel der Antillen und liegt in der Cordillera Central. Benannt nach dem Gründervater Juan Pablo Duarte, ist der Berg ein beliebtes Ziel für Bergsteiger, die durch alpine Kiefernwälder zum Gipfel wandern.
-      de: ["Höhe: 3.087 Meter", "Höchster Berg der Karibik", "Liegt in der Cordillera Central", "Benannt nach Juan Pablo Duarte"],
-      de: ["Auf dem Gipfel steht eine Bronzebüste von Juan Pablo Duarte", "Die Erstbesteigung durch einen Europäer erfolgte erst 1851", "Im Winter können die Temperaturen auf dem Gipfel unter Null sinken"],
-Enriquillo-See
-Der größte See der Karibik, bekannt für Salzwasserkrokodile.
-Der Enriquillo-See ist ein beeindruckendes hypersalines Gewässer und der tiefste Punkt der Karibik, der unter dem Meeresspiegel liegt. Er ist ein wichtiges Refugium für das amerikanische Krokodil, rosa Flamingos und Nashornleguane.
-      de: ["Größter See der Karibik", "44 Meter unter Meeresspiegel", "Hypersalines Wasser", "Heimat von Krokodilen"],
-      de: ["In der Mitte des Sees liegt die Insel Isla Cabritos", "Der See hat keinen Abfluss und verliert Wasser nur durch Verdunstung", "Er ist einer der wenigen Orte weltweit, an denen Krokodile in einem Binnensee leben"],
-Los Haitises Nationalpark
-Ein Küstenpark mit Karstformationen, Mangroven und Höhlen.
-Los Haitises ist ein spektakuläres Naturschutzgebiet mit markanten Kalksteinhügeln (Mogotes), die aus dem Wasser ragen. Der Park beherbergt ausgedehnte Mangrovenwälder und zahlreiche Höhlen, die mit antiken Piktogrammen der Taino-Indianer geschmückt sind.
-      de: ["Karstlandschaft mit Mogotes", "Große Mangrovenwälder", "Höhlen mit Taino-Kunst", "Reich an Vogelarten"],
-      de: ["Der Name 'Haitises' bedeutet in der Taino-Sprache 'Hügelland'", "Viele Filmszenen, darunter für 'Jurassic Park', wurden hier gedreht", "Der Park schützt über 100 verschiedene Vogelarten"],
-Saona Island
-Ein tropisches Inselparadies, berühmt für Katamarantouren.
-Die Insel Saona ist ein geschütztes Naturparadies und Teil des Nationalparks Cotubanamá. Sie ist berühmt für ihre unberührten, palmengesäumten Strände, das kristallklare türkisfarbene Wasser und den 'Piscina Natural', ein riesiges Sandbankgebiet mitten im Meer.
-      de: ["Teil des Cotubanamá Nationalparks", "Größte Insel der Dom. Rep.", "Keine großen Hotels erlaubt", "Berühmt für Seesterne"],
-      de: ["Die Insel wurde 1494 von Kolumbus entdeckt und nach Savona benannt", "Mano Juan ist das einzige bewohnte Fischerdorf auf der Insel", "Sie ist ein wichtiger Nistplatz für Meeresschildkröten"],
-Bahía de las Águilas
-Ein abgelegener Strand im Südwesten, der für unberührte Natur bekannt ist.
-Die Bahía de las Águilas gilt als einer der unberührtesten und schönsten Strände der Welt. Im Jaragua-Nationalpark gelegen, bietet dieser 8 Kilometer lange Küstenstreifen weißen Korallensand und kristallklares Wasser ohne jegliche kommerzielle Bebauung.
-      de: ["Länge: ca. 8 km", "Teil des Jaragua Nationalparks", "Keine Hotels oder Restaurants", "Nur per Boot oder Allrad erreichbar"],
-      de: ["Der Sand besteht aus zerriebenen Korallen und wird nicht heiß", "Das Wasser ist so klar, dass man Seesterne in großer Tiefe sehen kann", "Das Gebiet ist Teil des UNESCO-Biosphärenreservats Jaragua-Bahoruco-Enriquillo"],
-Damajaqua Kaskaden
-Die 27 Wasserfälle von Rio Damajagua, ideal zum Klettern und Springen.
-Die 27 Charcos de Damajagua sind eine Reihe von natürlichen Wasserfällen und Kalksteinbecken im Norden des Landes. Besucher können durch den Dschungel wandern und sich dann durch Rutschen, Schwimmen und Springen durch die Kaskaden zurückarbeiten.
-      de: ["Insgesamt 27 Wasserfälle", "Natürliche Wasserrutschen", "Erfordert geführte Touren", "In der Nähe von Puerto Plata"],
-      de: ["Die meisten Touren führen nur bis zum 7. oder 12. Wasserfall", "Die Becken wurden über Jahrtausende vom Fluss Damajagua geformt", "Es ist eines der besten Abenteuer-Tourismus-Ziele der Karibik"],
-Altos de Chavón
-Eine Nachbildung eines mediterranen Dorfes aus dem 16. Jahrhundert.
-Altos de Chavón ist ein architektonisches Wunderwerk und ein kulturelles Zentrum, das einem italienischen Dorf des 16. Jahrhunderts nachempfunden ist. Es wurde vollständig aus lokalem Stein erbaut und thront spektakulär auf einem Plateau über dem Fluss Chavón.
-      de: ["Baujahr: 1976–1982", "Besitzt ein Amphitheater", "Erbaut aus Korallenstein", "Sitz einer Design-Schule"],
-      de: ["Frank Sinatra eröffnete das Amphitheater im Jahr 1982", "Die Kirche St. Stanislaus ist ein beliebter Ort für Hochzeiten", "Das Dorf wurde vom italienischen Designer Roberto Copa entworfen"],
-Basilika von Altagracia
-Wichtige katholische Kathedrale in Higüey mit moderner Architektur.
-Die Basílica Catedral Nuestra Señora de la Altagracia ist das wichtigste religiöse Monument der Dominikanischen Republik. Ihr markanter 80 Meter hoher Betonbogen ist ein Meisterwerk der modernen Architektur und zieht jährlich Hunderttausende Pilger an.
-      de: ["Eingeweiht 1971", "80 Meter hoher Betonbogen", "Wichtigster Wallfahrtsort", "Moderne Architektur"],
-      de: ["Die Basilika beherbergt ein wundertätiges Bild der Jungfrau Maria aus dem 16. Jahrhundert", "Sie wurde von den französischen Architekten Dunoyer de Segonzac und Dupré entworfen", "Am 21. Januar findet hier das größte religiöse Fest des Landes statt"],
-Fortaleza San Felipe
-Eine historische spanische Festung in Puerto Plata.
-Die Fortaleza San Felipe ist eine massive Steinburg aus dem 16. Jahrhundert, die erbaut wurde, um Puerto Plata vor Piratenüberfällen zu schützen. Sie ist das einzige erhaltene Bauwerk aus der Kolonialzeit in der Stadt und bietet einen weiten Blick über den Atlantik.
-      de: ["Baujahr: 1564–1577", "Schutz gegen Piraten", "Heute ein Museum", "Massive Steinmauern"],
-      de: ["Die Festung diente während der Trujillo-Diktatur als politisches Gefängnis", "Sie wurde im Auftrag von König Philipp II. von Spanien errichtet", "Der Turm der Festung beherbergt eine kleine Ausstellung über Militärgeschichte"],
-Constanza
-Die höchstgelegene Stadt der Karibik, bekannt für ihre Landwirtschaft.
-Constanza liegt in einem malerischen Tal in 1.250 Metern Höhe und wird oft als 'Dominikanische Alpen' bezeichnet. Die Stadt ist das Zentrum des Gemüse- und Blumenanbaus des Landes und bietet Temperaturen, die nachts bis zum Gefrierpunkt sinken können.
-      de: ["Höhe: 1.250 m", "Obst- und Gemüseanbau", "Sehr kühles Klima", "Beliebt für Ökotourismus"],
-      de: ["Constanza ist der wichtigste Lieferant von Erdbeeren für die gesamte Karibik", "Die Region wurde im 20. Jahrhundert von japanischen und spanischen Einwanderern geprägt", "In der Nähe befindet sich das Reservat Ébano Verde mit seltenen endemischen Baumarten"],
-El Limón Wasserfall
-Ein spektakulärer Wasserfall auf der Halbinsel Samaná.
-Der Wasserfall El Limón stürzt 40 Meter in ein natürliches smaragdgrünes Becken inmitten eines dichten Regenwaldes. Er ist eines der beliebtesten Ziele auf der Halbinsel Samaná und kann entweder zu Fuß oder bei einem traditionellen Ritt auf dem Pferderücken erreicht werden.
-      de: ["Höhe: 40 Meter", "Smaragdgrünes Becken", "Erreichbar per Pferd", "Inmitten des Regenwaldes"],
-      de: ["Das Wasser des Beckens ist erfrischend kühl und ideal zum Schwimmen", "Der Pfad zum Wasserfall führt durch Kaffee- und Kakaoplantagen", "Es gibt eigentlich drei Wasserfälle in diesem Gebiet, aber 'El Limón' ist der bekannteste"],
-Cueva de las Maravillas
-Eine Höhle mit antiken Felszeichnungen der Taino-Indianer.
-Die Cueva de las Maravillas ist ein beeindruckendes unterirdisches System, das für seine über 500 Piktogramme und Petroglyphen der Taino bekannt ist. Die Höhle wurde modern mit Licht und Wegen ausgestattet, um die antiken Kunstwerke sicher zu präsentieren.
-      de: ["Über 500 Taino-Zeichnungen", "25 Meter unter der Erde", "Gute Beleuchtung", "In der Nähe von La Romana"],
-      de: ["Etwa 95% der Zeichnungen stellen religiöse oder abstrakte Symbole dar", "Die Höhle wurde erst 1949 wiederentdeckt", "In der Höhle gibt es eine große Kolonie von Fledermäusen"],
-Insel Catalina
-Eine wunderschöne unbewohnte Insel, ideal zum Tauchen.
-Die Isla Catalina ist ein kleines Juwel vor der Küste von La Romana und Teil des Nationalparks Cotubanamá. Sie ist bekannt für ihre unberührten Korallenriffe, insbesondere 'The Wall', eine spektakuläre Steilwand, die Taucher aus aller Welt anzieht.
-      de: ["Fläche: ca. 9 km²", "Unbewohntes Paradies", "Berühmte Tauchwand 'The Wall'", "Kristallklares Wasser"],
-      de: ["Das Wrack des Schiffes 'Quedagh Merchant' von Captain Kidd liegt in der Nähe", "Die Insel wurde 1494 von Christoph Kolumbus entdeckt", "Es gibt dort eine geschützte Population von Papageien"],
+Tunis", hu: "Tunisz", ro: "Tunis
+Ariana", hu: "Ariana", ro: "Ariana
+Ben Arous", hu: "Ben Arous", ro: "Ben Arous
+Manouba", hu: "Manouba", ro: "Manouba
+Nabeul", hu: "Nabeul", ro: "Nabeul
+Zaghouan", hu: "Zaghouan", ro: "Zaghouan
+Bizerte", hu: "Bizerte", ro: "Bizerte
+Béja", hu: "Béja", ro: "Béja
+Jendouba", hu: "Jendouba", ro: "Jendouba
+El Kef", hu: "El Kef", ro: "El Kef
+Siliana", hu: "Siliana", ro: "Siliana
+Kairouan", hu: "Kairouan", ro: "Kairouan
+Kasserine", hu: "Kasserine", ro: "Kasserine
+Sidi Bouzid", hu: "Sidi Bouzid", ro: "Sidi Bouzid
+Sousse", hu: "Sousse", ro: "Sousse
+Monastir", hu: "Monastir", ro: "Monastir
+Mahdia", hu: "Mahdia", ro: "Mahdia
+Sfax", hu: "Sfax", ro: "Sfax
+Gafsa", hu: "Gafsa", ro: "Gafsa
+Tozeur", hu: "Tozeur", ro: "Tozeur
+Kebili", hu: "Kebili", ro: "Kebili
+Gabès", hu: "Gabès", ro: "Gabès
+Medenine", hu: "Medenine", ro: "Medenine
+Tataouine", hu: "Tataouine", ro: "Tataouine
+Houmt Souk", hu: "Houmt Souk", ro: "Houmt Souk
+Midoun", hu: "Midoun", ro: "Midoun
+Hammamet", hu: "Hammamet", ro: "Hammamet
+Zarzis", hu: "Zarzis", ro: "Zarzis
+Douz", hu: "Douz", ro: "Douz
+Sbeitla", hu: "Sbeitla", ro: "Sbeitla
+Karthago", hu: "Karthágó", ro: "Cartagina
+Sidi Bou Said", hu: "Sidi Bou Said", ro: "Sidi Bou Said
+Radès", hu: "Radès", ro: "Radès
+La Goulette", hu: "La Goulette", ro: "La Goulette
+Hammam-Lif", hu: "Hammam-Lif", ro: "Hammam-Lif
+Tabarka", hu: "Tabarka", ro: "Tabarka
+Kélibia", hu: "Kélibia", ro: "Kélibia
+El Djem", hu: "El Djem", ro: "El Djem
+Ksar Hellal", hu: "Ksar Hellal", ro: "Ksar Hellal
+Moknine", hu: "Moknine", ro: "Moknine
+Jemmal", hu: "Jemmal", ro: "Jemmal
+Menzel Bourguiba", hu: "Menzel Bourguiba", ro: "Menzel Bourguiba
+Menzel Temime", hu: "Menzel Temime", ro: "Menzel Temime
+Korba", hu: "Korba", ro: "Korba
+Tebourba", hu: "Tebourba", ro: "Tebourba
+Oued Ellil", hu: "Oued Ellil", ro: "Oued Ellil
+El Hamma", hu: "El Hamma", ro: "El Hamma
+Nefta", hu: "Nefta", ro: "Nefta
+Métlaoui", hu: "Métlaoui", ro: "Métlaoui
+Fériana", hu: "Fériana", ro: "Fériana
+Thala", hu: "Thala", ro: "Thala
+Makthar", hu: "Makthar", ro: "Makthar
+Medjez el-Bab", hu: "Medjez el-Bab", ro: "Medjez el-Bab
+Téboursouk", hu: "Téboursouk", ro: "Téboursouk
+Testour", hu: "Testour", ro: "Testour
+Enfidha", hu: "Enfidha", ro: "Enfidha
+Ksour Essef", hu: "Ksour Essef", ro: "Ksour Essef
+Dar Chaabane", hu: "Dar Chaabane", ro: "Dar Chaabane
+Bou Salem", hu: "Bou Salem", ro: "Bou Salem
+Oueslatia", hu: "Oueslatia", ro: "Oueslatia
+Atlasgebirge", hu: "Atlasz-hegység", ro: "Munții Atlas
+Ichkeul-See", hu: "Ichkeul-tó", ro: "Lacul Ichkeul
+Golf von Gabès", hu: "Gabèsi-öböl", ro: "Golful Gabes
+Djerba", hu: "Dzserba", ro: "Djerba
+Medjerda", hu: "Medjerda-folyó", ro: "Râul Medjerda
+Kerkenna-Inseln", hu: "Kerkenna-szigetek", ro: "Insulele Kerkenna
+Chott el Djerid", hu: "Chott el-Djerid", ro: "Chott el Djerid
+Cap Bon", hu: "Cap Bon", ro: "Cap Bon
+Djebel Chambi", hu: "Jebel Chambi", ro: "Djebel Chambi
+Golf von Tunis", hu: "Tuniszi-öböl", ro: "Golful Tunis
+Djebel Bou Hedma", hu: "Jebel Bou Hedma", ro: "Djebel Bou Hedma
+Chott el Gharsa", hu: "Chott el-Gharsa", ro: "Chott el Gharsa
+Golf von Hammamet", hu: "Hammamenti-öböl", ro: "Golful Hammamet
+Djebel Serj", hu: "Jebel Serj", ro: "Djebel Serj
+Djebel Zaghouan", hu: "Jebel Zaghouan", ro: "Djebel Zaghouan
+El Feija Wald", hu: "El Feija erdő", ro: "Pădurea El Feija
+Golf von Bizerte", hu: "Bizertai-öböl", ro: "Golful Bizerte
+Boukornine Berg", hu: "Boukornine hegy", ro: "Muntele Boukornine
+Djebel Orbata", hu: "Jebel Orbata", ro: "Djebel Orbata
+Kerkennah-Archipel", hu: "Kerkennah-szigetcsoport", ro: "Arhipelagul Kerkennah
+Östliches Chott el Djerid", hu: "Keleti Chott el-Djerid", ro: "Chott el Djerid de Est
+Nordtunesisches Bergland", hu: "Észak-tunéziai hegyvidék", ro: "Munții Tunisiei de Nord
+Zembra-Inseln", hu: "Zembra-szigetek", ro: "Insulele Zembra
+Majerdah-Oberlauf", hu: "Majerdah felső folyása", ro: "Cursul superior al râului Majerdah
+Jebel Abderrahmane", hu: "Jebel Abderrahmane", ro: "Jebel Abderrahmane
+Tunis-See", hu: "Tuniszi-tó", ro: "Lacul Tunis
+Küste von Mahdia", hu: "Mahdiai-partvidék", ro: "Coasta Mahdia
+Djebel Mghila", hu: "Jebel Mghila", ro: "Jebel Mghila
+El Djem Region", hu: "El Djem régió", ro: "Regiunea El Djem
+Küste von Gabès", hu: "Gabèsi-partvidék", ro: "Coasta Gabes
+Atlas-Gebirge", hu: "Atlasz-hegység", ro: "Munții Atlas
+Djebel Chambi", hu: "Djebel Chambi", ro: "Djebel Chambi
+Chott el Djerid", hu: "Chott el Djerid", ro: "Chott el Djerid
+Ebene von Tunis", hu: "Tuniszi-síkság", ro: "Câmpia Tunis
+Djebel Zaghouan", hu: "Djebel Zaghouan", ro: "Djebel Zaghouan
+Dahar-Plateau", hu: "Dahar-fennsík", ro: "Podișul Dahar
+Halbinsel Cap Bon", hu: "Cap Bon-félsziget", ro: "Peninsula Cap Bon
+Djebel Serj", hu: "Djebel Serj", ro: "Djebel Serj
+Golf von Gabès", hu: "Gabèsi-öböl", ro: "Golful Gabès
+Djebel Orbata", hu: "Djebel Orbata", ro: "Djebel Orbata
+Kroumirie-Gebirge", hu: "Kroumirie-hegység", ro: "Munții Kroumirie
+Djebel Bou Kornine", hu: "Djebel Bou Kornine", ro: "Djebel Bou Kornine
+Djebel Biada", hu: "Djebel Biada", ro: "Djebel Biada
+Djebel Mghila", hu: "Djebel Mghila", ro: "Djebel Mghila
+Djebel Selloum", hu: "Djebel Selloum", ro: "Djebel Selloum
+Djebel Fkirine", hu: "Djebel Fkirine", ro: "Djebel Fkirine
+Djebel Hamra", hu: "Djebel Hamra", ro: "Djebel Hamra
+Djebel es Sif", hu: "Djebel es Sif", ro: "Djebel es Sif
+Djebel el Gharrah", hu: "Djebel el Gharrah", ro: "Djebel el Gharrah
+Djebel Bel Khodra", hu: "Djebel Bel Khodra", ro: "Djebel Bel Khodra
+Chott el Gharsa", hu: "Chott el Gharsa", ro: "Chott el Gharsa
+Djebel Ben Youne", hu: "Djebel Ben Youne", ro: "Djebel Ben Youne
+Djebel Abderrahmane", hu: "Djebel Abderrahmane", ro: "Djebel Abderrahmane
+Djebel Om el Adame", hu: "Djebel Om el Adame", ro: "Djebel Om el Adame
+Djebel Bou Hedma", hu: "Djebel Bou Hedma", ro: "Djebel Bou Hedma
+Tunisia (country)

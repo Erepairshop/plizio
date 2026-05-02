@@ -1,4 +1,7 @@
 import type { POI } from "./poi";
+import { poiExtraLiechtensteinCities } from "./poiExtraLiechtensteinCities";
+import { poiExtraLiechtensteinHistory } from "./poiExtraLiechtensteinHistory";
+import { poiExtraLiechtensteinOther } from "./poiExtraLiechtensteinOther";
 
 export const liechtensteinCountry: POI = {
   id: "country-liechtenstein",
@@ -646,9 +649,7 @@ export const liechtensteinNature: POI[] = [
   }
 ];
 
-export const liechtensteinAllPoi: POI[] = [
-  ...liechtensteinRegions,
+export const liechtensteinAllPoi: POI[] = [...liechtensteinRegions,
   ...liechtensteinCities,
   ...liechtensteinCulture,
-  ...liechtensteinNature
-];
+  ...liechtensteinNature, ...poiExtraLiechtensteinCities, ...poiExtraLiechtensteinHistory, ...poiExtraLiechtensteinOther];

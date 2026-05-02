@@ -18,6 +18,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O grădină zoologică populară situată pe dealul San Cristóbal din Santiago, care adăpostește multe specii de animale native din America de Sud.",
       en: "A popular zoo located on the side of San Cristóbal Hill in Santiago, home to many native South American animal species."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Nationalzoo von Chile am Hang des San Cristóbal-Hügels ist eines der beliebtesten Ausflugsziele in Santiago. Mit seiner spektakulären Lage bietet er nicht nur einen fantastischen Blick über die Hauptstadt, sondern auch eine wichtige Bildungsplattform für die Tierwelt Südamerikas. Besucher können hier eine Vielzahl einheimischer Arten in einer Umgebung entdecken, die Naturschutz und Erholung harmonisch verbindet.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Zentraler Zoo am ikonischen San Cristóbal-Hügel in Santiago.",
+        "Fokussiert auf den Schutz und die Präsentation der Fauna Südamerikas.",
+        "Wichtiger Ort für Umweltbildung in der chilenischen Hauptstadt.",
+        "Naherholungsziel mit strategischer Anbindung an die städtische touristische Infrastruktur."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Wurde 1925 gegründet.",
@@ -53,6 +74,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Interaktív vadaspark, ahol a látogatók speciális járműveken vehetnek részt szafarikon, és testközelből figyelhetik meg a nagymacskákat és növényevőket.",
       ro: "Un parc zoologic interactiv unde vizitatorii pot face safari în vehicule speciale pentru a vedea feline mari și erbivore de aproape.",
       en: "An interactive animal park where visitors can take safaris in special vehicles to see big cats and herbivores up close."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Safari in Rancagua bietet ein in Chile einzigartiges Erlebnis. Durch die interaktiven Safaris können Besucher Großkatzen und Pflanzenfresser in einer Umgebung erleben, die ihrem natürlichen Habitat ähnelt. Der Park zeichnet sich zudem durch seine bedeutende Abteilung für Rettung und Rehabilitation von Tieren aus, die einen wichtigen Beitrag zum Tierschutz im Land leistet.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Erster Safari-Park Chiles mit interaktiven Wildtierbeobachtungen.",
+        "Wichtiger Standort für die professionelle Rettung und Rehabilitation von Wildtieren.",
+        "Einzigartiges Erlebnis für Besucher durch geführte Safaris in Spezialfahrzeugen.",
+        "Maßgebliche Bedeutung für den Tierschutz im nationalen Kontext."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -90,6 +132,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Cel mai mare parc de distracții din Chile, cu numeroase montagne rousse și atracții pentru familie, situat în Parcul O'Higgins.",
       en: "The largest amusement park in Chile, featuring numerous roller coasters and family attractions in O'Higgins Park."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Fantasilandia im O'Higgins Park ist der größte und traditionsreichste Vergnügungspark Chiles. Seit seiner Eröffnung im Jahr 1978 bietet er ein breites Spektrum an Attraktionen für alle Altersgruppen, von rasanten Achterbahnen bis hin zu familienfreundlichen Fahrgeschäften. Er zieht jährlich über eine Million Besucher an und ist ein fester Bestandteil der Freizeitkultur in Santiago.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Größter Vergnügungspark Chiles mit einer langen Tradition seit 1978.",
+        "Zentraler Freizeit- und Unterhaltungsort innerhalb des O'Higgins Parks in Santiago.",
+        "Jährliche Besuchermagnet mit weit über einer Million Gästen.",
+        "Vielseitiges Angebot an Fahrgeschäften, das Familien aus dem ganzen Land begeistert."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Eröffnet am 26. Januar 1978.",
@@ -125,6 +188,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Chile egyik legismertebb borvidéke, amely prémium vörösborairól, mint például a Carménère, a Cabernet Sauvignon és a Merlot híres.",
       ro: "Una dintre cele mai cunoscute regiuni viticole din Chile, faimoasă pentru vinurile sale roșii premium, cum ar fi Carménère, Cabernet Sauvignon și Merlot.",
       en: "One of Chile's most famous wine-producing regions, renowned for its premium red wines like Carménère, Cabernet Sauvignon, and Merlot."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle de Colchagua ist weltweit bekannt für seine erstklassigen Rotweine. Das warme mediterrane Klima bildet die ideale Grundlage für den Anbau von Rebsorten wie Carménère, Cabernet Sauvignon und Merlot. 2005 als beste Weinregion der Welt ausgezeichnet, ist das Tal heute ein zentrales Zentrum des chilenischen Weintourismus, das seine Tradition mit modernen, nachhaltigen Anbaumethoden verbindet.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Weltweit renommiertes Weinbaugebiet für erstklassige Rotweine.",
+        "Gezeichnet durch warmes mediterranes Klima als optimale Anbaubedingung.",
+        "Auszeichnung als 'Beste Weinregion der Welt' im Jahr 2005.",
+        "Ein wichtiger Pfeiler für den chilenischen Export und Weintourismus."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -162,6 +246,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O regiune viticolă istorică lângă Santiago, adesea denumită „Bordeaux-ul Americii de Sud”.",
       en: "A historic wine region near Santiago, often referred to as the 'Bordeaux of South America'."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle del Maipo bei Santiago gilt aufgrund seiner tiefgreifenden Tradition und Exzellenz als das 'Bordeaux Südamerikas'. Es ist die historisch bedeutendste Weinregion Chiles, berühmt für die Produktion herausragender Cabernet Sauvignons, die von den optimalen klimatischen Bedingungen der Region profitieren. Das Tal verbindet die historische Weinkultur mit der Nähe zur urbanen Metropole Santiago.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Älteste und historisch bedeutendste Weinbauregion Chiles.",
+        "Weltweit bekannt als 'Bordeaux Südamerikas' für exzellente Cabernet Sauvignons.",
+        "Ideale klimatische Bedingungen nahe der Metropole Santiago.",
+        "Ein wichtiger historischer Bezugspunkt für die chilenische Weinkultur."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Die älteste Weinregion Chiles.",
@@ -197,6 +302,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "A partvidéken található borvidék, amely kiváló, hűvösebb éghajlatot kedvelő fehérborok, például Sauvignon Blanc és Chardonnay termeléséről ismert.",
       ro: "O regiune viticolă de coastă cunoscută pentru producerea de vinuri albe excelente de climă rece, cum ar fi Sauvignon Blanc și Chardonnay.",
       en: "A coastal wine-producing region known for producing excellent cool-climate white wines like Sauvignon Blanc and Chardonnay."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Die Casablanca-Völgy ist ein relativ junges, aber hochspezialisiertes Weinbaugebiet an der chilenischen Küste. Erst seit den 1980er Jahren erschlossen, nutzt es den kühlenden Einfluss des Humboldtstroms, um exzellente Weißweine wie Sauvignon Blanc und Chardonnay hervorzubringen. Das Tal steht heute für innovative Weinbaustrategien und bringt eine feine Nuance in die chilenische Weinwelt ein.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Aufstrebendes, spezialisiertes Weinbaugebiet an der Küste seit den 1980ern.",
+        "Nutzt den kühlen Einfluss des Humboldtstroms für erstklassige Weißweine.",
+        "Herausragender Produzent von Sauvignon Blanc und Chardonnay.",
+        "Symbol für moderne und innovative Weinbaustrategien in Chile."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -234,6 +360,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O vale fertilă la marginea Deșertului Atacama, cunoscută pentru plantațiile de papaya și producția de struguri pentru băutura națională, Pisco.",
       en: "A fertile valley on the edge of the Atacama Desert, known for papaya plantations and producing grapes for the national drink, Pisco."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle de Elqui ist eine fruchtbare Oase am Rande der Atacama-Wüste. Bekannt für seinen Anbau von Papayas und Trauben, ist es das Herz der Pisco-Produktion in Chile. Mit über 300 klaren Tagen im Jahr ist es zudem ein Ort von außerordentlicher meteorologischer Klarheit, was es zu einem bedeutenden Zentrum für astronomische Beobachtung und eine landschaftliche Einzigartigkeit macht.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Fruchtbare Oase am Rande der Atacama-Wüste.",
+        "Das Zentrum der Pisco-Produktion in Chile.",
+        "Berühmt für die meteorologische Klarheit und astronomische Beobachtungen.",
+        "Bekannt für den Anbau von Papayas und qualitativ hochwertigen Trauben."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Gilt als das Zentrum der Pisco-Produktion in Chile.",
@@ -269,6 +416,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Hatalmas természetvédelmi terület a patagóniai esőerdőben, amely ősi alerce fáknak és gazdag állatvilágnak nyújt menedéket.",
       ro: "O rezervație naturală vastă în pădurea tropicală patagoneză, care protejează arborii antici Alerce și o biodiversitate bogată de animale.",
       en: "A vast nature reserve in the Patagonian rainforest protecting ancient Alerce trees and a rich biodiversity of animals."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Pumalín ist ein riesiges Naturschutzgebiet, das ein bedeutendes Stück des patagonischen Regenwaldes bewahrt. Gegründet von dem visionären Douglas Tompkins, umfasst es über 400.000 Hektar unberührter Natur. Der Park schützt nicht nur jahrtausendealte Alerce-Bäume, sondern bietet auch einen wichtigen Lebensraum für eine vielfältige Tierwelt in einer der unberührtesten Landschaften Südamerikas.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Großflächiges Naturschutzgebiet im patagonischen Regenwald (über 400.000 Hektar).",
+        "Initiative des renommierten Umweltschützers Douglas Tompkins.",
+        "Schutzgebiet für uralte Alerce-Bäume und diverse Tierarten.",
+        "Beispiel für erfolgreiche Naturschutzprojekte in Chile."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -306,6 +474,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Un parc național cunoscut pentru ghețarul său suspendat, având păduri tropicale dense și virgine care oferă un habitat pentru pume și pudu.",
       en: "A national park known for its hanging glacier, featuring dense, pristine rainforests that provide a habitat for pumas and pudús."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Queulat ist eine geografische Besonderheit Patagoniens. Berühmt für seinen spektakulären Hängegletscher ('Ventisquero Colgante'), beherbergt der Park zudem dichte, weitgehend unberührte Regenwälder. Diese abgelegene Naturlandschaft bietet wichtige Lebensräume für seltene Arten wie Pumas und den kleinen Andenhirsch (Pudú). Die Lage direkt an der Carretera Austral macht ihn zu einem der faszinierendsten Ziele für Naturbeobachter.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bekannt für den spektakulären hängenden Gletscher (Ventisquero Colgante).",
+        "Dichte, unberührte Regenwälder als natürlicher Lebensraum.",
+        "Rückzugsort für gefährdete Arten wie den Puma und den Pudú.",
+        "Ein herausragendes Naturziel direkt an der berühmten Carretera Austral."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Der 'Ventisquero Colgante' (Hängegletscher) ist die Hauptattraktion.",
@@ -341,6 +530,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Fontos tengeri védett terület, amely több szigetre is kiterjed, és a Humboldt-pingvinek egyik legnagyobb kolóniáját védi.",
       ro: "O importantă zonă marină protejată care se întinde pe mai multe insule, protejând una dintre cele mai mari colonii de pinguini Humboldt.",
       en: "An important marine protected area spanning several islands, safeguarding one of the largest colonies of Humboldt penguins."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Die Reserva Nacional Pingüino de Humboldt umfasst die Inseln Chañaral, Damas und Choros und stellt eines der bedeutendsten Meeresschutzgebiete Chiles dar. Sie bietet lebenswichtigen Schutz für eine der größten Kolonien des Humboldt-Pinguins. Die vielfältige marine Umgebung dient darüber hinaus vielen anderen Tierarten wie Seelöwen, Delfinen und Walen als wichtiges Habitat und Unterwasserparadies.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bedeutendes Meeresschutzgebiet umfasst Chañaral, Damas und Choros.",
+        "Schutzort für eine der größten Kolonien von Humboldt-Pinguinen weltweit.",
+        "Wichtiger Lebensraum für eine Vielzahl mariner Spezies (Seelöwen, Delfine, Wale).",
+        "Ein Juwel der maritimen Biodiversität im chilenischen Norden."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -378,6 +588,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Un parc de coastă din Deșertul Atacama, unde ceața de coastă (camanchaca) susține o floră și faună unică la marginea Pacificului.",
       en: "A coastal park in the Atacama Desert where the coastal fog (camanchaca) sustains unique flora and fauna on the edge of the Pacific."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Pan de Azúcar zeichnet sich durch seine außergewöhnliche Lage in der Atacama-Wüste direkt am Pazifik aus. Der hier auftretende Küstennebel, die 'Camanchaca', ermöglicht eine faszinierende Flora und Fauna, die sonst in dieser trockenen Umgebung kaum überleben könnte. Der Park beheimatet unter anderem Guanakos und Wüstenfüchse, während die vorgelagerte Insel ein wichtiger Brutplatz für Pinguine ist.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Einzigartige Lage an der Küste der Atacama-Wüste am Rande des Pazifiks.",
+        "Küstennebel (Camanchaca) als lebenswichtige Feuchtigkeitsquelle für Flora und Fauna.",
+        "Lebensraum für Guanakos, Wüstenfüchse und diverse Seevogelarten.",
+        "Die Insel Pan de Azúcar dient als bedeutender Nistplatz für Humboldt-Pinguine."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Beheimatet Guanakos, Wüstenfüchse und Seevögel.",
@@ -413,6 +644,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Az araukáriaerdőkről és az aktív Llaima vulkánról ismert park számos hegyi állatnak ad otthont.",
       ro: "Cunoscut pentru pădurile sale de araucaria (Monkey Puzzle Trees) și vulcanul activ Llaima, acest parc oferă habitat pentru multe animale de munte.",
       en: "Known for its Araucaria (Monkey Puzzle tree) forests and the active Llaima volcano, this park provides habitat for numerous mountain animals."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Conguillío besticht durch seine beeindruckende Landschaft aus Araukarienwäldern und dem aktiven Vulkan Llaima. Aufgrund seiner einzigartigen ökologischen Bedingungen bietet er ein wichtiges Habitat für viele Bergtierarten. Der Park ist so naturgetreu und spektakulär, dass er sogar als Kulisse für die BBC-Dokumentation 'Dinosaurier – Im Reich der Giganten' diente, was seinen Status als unverfälschtes Naturparadies unterstreicht.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Spektakuläre Landschaft durch Araukarienwälder und den Vulkan Llaima.",
+        "Wichtiger Lebensraum für eine Vielzahl von spezialisierten Bergtierarten.",
+        "Internationale Bekanntheit durch Dreharbeiten für die BBC-Dokumentation 'Dinosaurier'.",
+        "Seit 1950 als Nationalpark unter offiziellem Schutz."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -450,6 +702,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Cel mai vechi parc național din Chile, cuprinzând păduri adânci, cascadele Petrohué și un ecosistem bogat pentru pume și mici marsupiale.",
       en: "Chile's oldest national park, encompassing deep forests, the Petrohué Waterfalls, and a rich ecosystem for pumas and small marsupials."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Als ältester Nationalpark Chiles (gegründet 1926) ist der Parque Nacional Vicente Pérez Rosales ein Pionierprojekt des nationalen Naturschutzes. Mit einer Landschaft, die von tiefen Wäldern und den ikonischen Petrohué-Wasserfällen geprägt ist, bietet er einen Lebensraum für Pumas und eine Vielzahl kleiner Beuteltiere. Der Vulkan Osorno bildet dabei eine dramatische Kulisse für dieses bedeutende ökologische Refugium.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Der älteste Nationalpark Chiles, gegründet im Jahr 1926.",
+        "Landschaft geprägt durch dichte Wälder und die eindrucksvollen Petrohué-Wasserfälle.",
+        "Wichtiges ökologisches Refugium für Pumas und diverse kleine Beuteltiere.",
+        "Dominiert von der majestätischen Silhouette des Osorno-Vulkans."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Gegründet im Jahr 1926.",
@@ -486,6 +759,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Un peisaj vulcanic și muntos în regiunea Biobío, servind ca un refugiu important pentru condorii andini, vulpi și pume.",
       en: "A volcanic and mountainous landscape in the Biobío Region, serving as an important refuge for Andean condors, foxes, and pumas."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Laguna del Laja beeindruckt durch seine raue, vulkanisch geprägte Berglandschaft in der Region Biobío. Rund um den Vulkan Antuco und den Laguna del Laja See bietet das Gebiet einen entscheidenden Zufluchtsort für Andenkondore, Füchse und Pumas. Besonders schützenswert ist die Region auch als Lebensraum für den vom Aussterben bedrohten Viscacha, was ihre ökologische Bedeutung unterstreicht.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Vulkanisch und gebirgig geprägte Schutzlandschaft in Biobío.",
+        "Wichtiger Zufluchtsort für Andenkondore, Füchse und Pumas.",
+        "Lebensraum für die vom Aussterben bedrohte Tierart Viscacha.",
+        "Zentral um den Vulkan Antuco und den Laja-See organisiert."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Beheimatet den Vulkan Antuco und den See Laja.",
@@ -513,7 +807,7 @@ export const poiExtraChileLifeV2: POI[] = [
     name: {
       de: "Parque Nacional Radal Siete Tazas",
       hu: "Radal Siete Tazas Nemzeti Park",
-      ro: "Parcul Național Radal Siete Tazas",
+      ro: "Parcul Național Radal Sitez Tazas",
       en: "Radal Siete Tazas National Park"
     },
     description: {
@@ -521,6 +815,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Hét egymást követő természetes vizű medencéjéről híres park, amely számos veszélyeztetett madár- és emlősfajnak nyújt védelmet.",
       ro: "Renumit pentru cele șapte bazine naturale consecutive, parcul oferă protecție multor specii de păsări și mamifere pe cale de dispariție.",
       en: "Famous for its seven consecutive natural water pools, the park provides protection for many endangered bird and mammal species."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Wahrzeichen des Parque Nacional Radal Siete Tazas sind die sieben natürlichen Wasserbecken, die der Fluss Claro in den harten Basaltstein gewaschen hat. Die ökologische Bedeutung des Parks geht jedoch weit über die malerische Landschaft hinaus: Er bietet einen geschützten Raum für viele gefährdete Vogel- und Säugetierarten. Unter anderem ist er die Heimat des scheuen Pudús, des kleinsten Hirschen der Welt.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bekannt für die sieben aufeinanderfolgenden natürlichen Basalt-Wasserbecken.",
+        "Wichtiger Rückzugsort und Schutzgebiet für gefährdete Arten.",
+        "Lebensraum des seltenen und scheuen Pudú, des kleinsten Hirschens der Welt.",
+        "Geologische Einzigartigkeit durch die erosive Kraft des Flusses Claro."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -558,6 +873,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Parte a rezervației biosferei pădurilor tropicale temperate, importantă pentru protejarea chiparosului patagonez milenar (Alerce).",
       en: "Part of the temperate rainforest biosphere reserve, important for the protection of the millennia-old Patagonian Cypress (Alerce)."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Alerce Andino ist ein zentraler Bestandteil des Biosphärenreservats der temperierten Regenwälder. Der Park widmet sich dem Schutz der majestätischen, jahrtausendealten Alerce-Bäume (Patagonische Zypresse), von denen einige über 3.000 Jahre alt sind. Etwa die Hälfte der Parkfläche ist von diesen wertvollen Wäldern bedeckt, was ihn zu einem botanischen Schatz Chiles macht.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Wichtiger Teil des Biosphärenreservats temperierter Regenwälder.",
+        "Schutzgebiet für die uralten Patagonischen Zypressen (Alerce).",
+        "Botanisches Erbe mit Bäumen, die über 3.000 Jahre alt sind.",
+        "Etwa 50% der Parkfläche von bedeutenden Alerce-Wäldern bedeckt."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Etwa die Hälfte des Parks ist von Alerce-Wäldern bedeckt.",
@@ -593,6 +929,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Chile legnagyobb nemzeti parkja fjordokkal, gleccserekkel és csatornákkal, amely huemul szarvasokat és déli elefántfókákat véd.",
       ro: "Cel mai mare parc național din Chile, caracterizat prin fiorduri, ghețari și canale, care protejează cerbii huemul și elefanții de mare sudici.",
       en: "The largest national park in Chile, characterized by fjords, glaciers, and channels, protecting huemul deer and southern elephant seals."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Bernardo O'Higgins ist der flächenmäßig größte Nationalpark Chiles und ein beeindruckendes Zeugnis unberührter Natur. Mit seinen Fjorden, Gletschern und Kanälen umfasst er über 3,5 Millionen Hektar. Aufgrund seiner abgelegenen Lage und enormen Größe ist er nur per Boot oder Helikopter erreichbar und stellt ein lebenswichtiges Schutzgebiet für den Huemul-Hirsch sowie für Südliche See-Elefanten dar.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Flächenmäßig größter Nationalpark Chiles (über 3,5 Millionen Hektar).",
+        "Geografisch geprägt durch unberührte Fjorde, Gletscher und Kanäle.",
+        "Wichtiges Schutzgebiet für Huemul-Hirsche und Südliche See-Elefanten.",
+        "Nur schwer zugänglich, was den Erhalt der unberührten Natur begünstigt."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -630,6 +987,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O rezervație a biosferei la capătul lumii în Țara de Foc, protejând fiordurile adânci ale Cordilierei Darwin și numeroase specii de animale marine.",
       en: "A biosphere reserve at the end of the world in Tierra del Fuego, protecting the deep fjords of the Darwin Cordillera and numerous marine animal species."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Alberto de Agostini liegt am 'Ende der Welt' in Feuerland und ist ein Biosphärenreservat von besonderer ökologischer Relevanz. Benannt nach dem Entdecker Alberto Maria De Agostini, schützt er die tiefen Fjorde der Darwin-Kordillere. Das maritime Ökosystem ist Heimat einer Vielzahl von Arten, darunter Leopardenrobben, Delfine und Buckelwale, was das Reservat zu einem Zentrum für marine Erhaltung macht.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Wichtige Biosphärenreservat-Stätte in Feuerland ('Ende der Welt').",
+        "Schützt die beeindruckenden Fjorde der Darwin-Kordillere.",
+        "Lebensraum für marine Arten wie Leopardenrobben, Delfine und Buckelwale.",
+        "Benannt nach dem Entdecker und Missionar Alberto Maria De Agostini."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Nach dem italienischen Missionar und Entdecker Alberto Maria De Agostini benannt.",
@@ -665,6 +1043,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Magán természetvédelmi terület a patagóniai erdő közepén, amely az endemikus és kritikusan veszélyeztetett fajok, például a huemul szarvas megőrzésének szenteli magát.",
       ro: "O rezervație naturală privată în mijlocul pădurii patagoneze, dedicată conservării speciilor endemice și foarte pe cale de dispariție, cum ar fi cerbul huemul.",
       en: "A private nature reserve in the middle of the Patagonian forest, dedicated to the conservation of endemic and highly endangered species like the huemul."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Die Reserva Biológica Huilo Huilo ist ein privates Vorzeigeprojekt für den Naturschutz in Chile. Mitten im patagonischen Wald gelegen, widmet sie sich konsequent dem Erhalt endemischer und stark bedrohter Spezies, insbesondere dem Huemul-Hirsch. Neben ihrem bedeutenden Zuchtprogramm für diesen seltenen Hirsch ist das Reservat auch international für seine ökologisch integrierten Luxus-Hotels bekannt, die Naturschutz und nachhaltigen Tourismus vorbildlich vereinen.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Privates Naturschutzgebiet in den patagonischen Wäldern.",
+        "Wichtiger Fokus auf Erhalt bedrohter Arten wie dem Huemul-Hirsch.",
+        "Vorreiter bei der Kombination von Naturschutz und nachhaltigem Tourismus (ökologische Hotels).",
+        "Signifikante Zucht- und Erhaltungsprogramme für gefährdete endemische Fauna."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -702,6 +1101,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O arie protejată în Anzi, lângă Santiago, oferind un habitat important la mare altitudine pentru condori, vulpi și alte animale de munte.",
       en: "A protected area in the Andes near Santiago, providing an important high-altitude habitat for condors, foxes, and other mountain animals."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Santuario de la Naturaleza Yerba Loca ist ein hochgelegenes Schutzgebiet unmittelbar in den Anden vor den Toren Santiagos. Mit Höhenlagen von über 3.000 Metern bis hin zu spektakulären Hängegletschern bietet es eine raue, aber faszinierende Umgebung. Das Gebiet ist ein unverzichtbarer Lebensraum für Andenkondore, Füchse und eine reiche Flora mit über 500 Arten, die hier in einer einzigartigen alpinen Umgebung gedeihen.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Hochgelegenes Schutzgebiet in den Anden nahe Santiago.",
+        "Umfasst extreme Höhenlagen mit Hängegletschern über 3.000 Metern.",
+        "Lebensraum für eine Vielzahl spezialisierter Tierarten wie Kondore und Füchse.",
+        "Botanische Vielfalt mit mehr als 500 erfassten Pflanzenarten."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Erstreckt sich bis hinauf zu Hängegletschern auf über 3.000 Metern Höhe.",
@@ -737,6 +1157,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Termékeny folyóvölgy Chile félszáraz északi részén, amely 'Zöld Észak' néven ismert, és avokádó, szőlő és papaya termesztése miatt becsülik.",
       ro: "O vale fertilă de râu în nordul semi-arid al Chile, cunoscută sub numele de 'Nordul Verde', apreciată pentru cultivarea de avocado, struguri și papaya.",
       en: "A fertile river valley in the semi-arid north of Chile, known as the 'Green North', appreciated for the cultivation of avocados, grapes, and papayas."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle del Limarí, auch bekannt als der 'Grüne Norden' Chiles, ist ein erstaunliches fruchtbares Flusstal in einer ansonsten semiariden Region. Durch effiziente Bewässerungssysteme, wie etwa den Recoleta-Stausee, gedeihen hier hochwertige Avocados, Trauben und Papayas. Zudem besitzt das Tal kalkhaltige Böden, die sich als ideal für den Anbau von Chardonnay und Pinot Noir erwiesen haben.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bekannt als der 'Grüne Norden' aufgrund der landwirtschaftlichen Fruchtbarkeit.",
+        "Effiziente Bewässerung durch große Stauseen wie den Recoleta.",
+        "Kalkhaltige Böden bieten exzellente Bedingungen für Chardonnay und Pinot Noir.",
+        "Zentrum für die Produktion von Avocados, Trauben und Papayas."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -774,6 +1215,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O vale agricolă ferită de vânt, care face parte din regiunea Rapel, fiind o zonă cu vinuri roșii excelente și o bogată producție de fructe.",
       en: "A wind-sheltered agricultural valley that is part of the Rapel region, representing excellent red wines and rich fruit production."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle del Cachapoal ist ein windgeschütztes landwirtschaftliches Paradies und ein wichtiger Bestandteil der Rapel-Region. Es ist sowohl für seinen hervorragenden Rotweinanbau, besonders die Rebsorte Carménère, als auch für seine reiche Obstproduktion landesweit geschätzt. Als eine der traditionsreichsten Weinbauregionen Chiles vereint es exzellente Anbaubedingungen mit einer langen Geschichte in der chilenischen Landwirtschaft.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Windgeschütztes landwirtschaftliches Tal der Rapel-Region.",
+        "Zentrum für den Anbau exzellenter Rotweine (besonders Carménère).",
+        "Eine der traditionsreichsten Weinbauregionen Chiles.",
+        "Wichtiger Standort für eine reiche und vielfältige Obstproduktion."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Gehört zu den ältesten und traditionsreichsten Weinbaugebieten Chiles.",
@@ -809,6 +1271,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Napos völgy az Andok lábánál, amelyet az Aconcagua olvadékvize öntöz, és a bor mellett kiváló asztali gyümölcsöt is termel.",
       ro: "O vale însorită la poalele Anzilor, irigată de apele de topire ale Aconcagua și producând fructe de masă excelente pe lângă vin.",
       en: "A sunny valley at the foot of the Andes, irrigated by the meltwater of Aconcagua, producing excellent table fruit as well as wine."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Valle de Aconcagua ist ein sonnenverwöhntes Paradies direkt am Fuß der Anden. Die Bewässerung durch das Schmelzwasser des majestätischen Aconcagua schafft optimale Bedingungen für sowohl exzellenten Weinbau als auch Tafelobst. Mit seinen heißen Sommertagen und kühlen Nächten ist das Tal besonders für hochwertige Cabernet Sauvignons und Syrahs weltberühmt, die ihre komplexe Aromatik den klimatischen Gegensätzen verdanken.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Sonniges Tal am Andenfuß, bewässert durch Aconcagua-Schmelzwasser.",
+        "Optimale Anbaubedingungen für exzellentes Tafelobst und hochwertigen Wein.",
+        "Bekannt für einige der besten Cabernet Sauvignons und Syrahs Chiles.",
+        "Klimatische Dynamik durch heiße Tage und kühle Nächte."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -846,6 +1329,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O rezervație naturală în bazinul sărat Atacama, care protejează locurile fragile de cuibărit pentru trei specii diferite de flamingo.",
       en: "A nature reserve in the Atacama salt basin protecting the fragile breeding grounds for three different flamingo species."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Die Reserva Nacional Los Flamencos in der Atacama-Salzwüste ist ein unverzichtbares Schutzgebiet für die fragile Biodiversität dieser einzigartigen Region. Der Park ist in sieben Sektoren unterteilt und schützt die Brutstätten von gleich drei Flamingo-Arten: Anden-, Chile- und James-Flamingo. Als Ökosystem von globaler Bedeutung zeigt er auf, wie hochspezialisierte Arten unter extremen Bedingungen überleben und gedeihen können.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Einzigartiges Schutzgebiet im Atacama-Salzseebecken.",
+        "Schützt die sensiblen Brutgebiete von drei Flamingo-Arten.",
+        "Strukturiert in sieben separate Sektoren für den optimalen Schutz.",
+        "Beheimatet den Anden-, Chile- und James-Flamingo."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Ist in sieben separate Sektoren in der Atacama-Wüste unterteilt.",
@@ -881,6 +1385,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Fontos védett terület a dél-chilei Magdalena-szigeten, amely több mint 60 000 Magellán-pingvin költőhelyeként szolgál.",
       ro: "O zonă protejată importantă pe Insula Magdalena din sudul Chile, care servește ca loc de cuibărit pentru peste 60.000 de pinguini Magellan.",
       en: "An important protected area on Magdalena Island in southern Chile serving as a breeding ground for over 60,000 Magellanic penguins."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Monumento Natural Los Pingüinos auf der Insel Magdalena ist ein unverzichtbares Schutzgebiet im rauen Klima der Magellanstraße. Mit über 60.000 Magellan-Pinguinen, die hier jährlich ihre Brutstätten finden, ist die Insel eines der bedeutendsten ökologischen Zentren der Region. Ein historischer Leuchtturm auf der Insel ergänzt die touristische Bedeutung dieses wichtigen Naturschutzgebiets.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bedeutendes Naturschutzgebiet auf der Isla Magdalena (Magellanstraße).",
+        "Zentrale Brutstätte für über 60.000 Magellan-Pinguine.",
+        "Wichtiger Standort für die Forschung und Beobachtung antarktischer Fauna.",
+        "Kulturelle Landmarke durch den historischen Leuchtturm auf der Insel."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -918,6 +1443,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Un parc interactiv de divertisment și educație, construit ca un oraș real în miniatură, care permite copiilor să încerce diverse profesii.",
       en: "An interactive entertainment and educational park built like a real miniature city, allowing kids to try out different professions."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "KidZania Santiago ist ein einzigartiger Bildungs- und Unterhaltungspark, der als maßstabsgetreue Miniaturstadt konzipiert ist. Hier können Kinder in über 100 verschiedenen Rollenspielen reale Berufe hautnah erleben und ausprobieren. Das Konzept, mit einer eigenen Währung ('KidZos') den Umgang mit Finanzen spielerisch zu lernen, macht KidZania zu einem der innovativsten Lernorte für Kinder in Chile.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Bildungs- und Unterhaltungsort in Form einer interaktiven Miniaturstadt.",
+        "Mehr als 100 verschiedene Rollenspielmöglichkeiten zur Berufserkundung.",
+        "Vermittlung von Finanzwissen durch das eigene Währungssystem 'KidZos'.",
+        "Ein führendes Modell für spielerisches Lernen und Berufsorientierung bei Kindern."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Kinder können aus über 100 verschiedenen Rollenspielen wählen.",
@@ -953,6 +1499,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Chile legnagyobb tudományos múzeuma több száz interaktív modullal, amelyek lehetővé teszik a családok számára a fizika és a technológia játékos felfedezését.",
       ro: "Cel mai mare muzeu de știință din Chile, cu sute de module interactive care permit familiilor să descopere fizica și tehnologia prin joc.",
       en: "Chile's largest science museum, featuring hundreds of interactive modules that allow families to discover physics and technology through play."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Museo Interactivo Mirador (MIM) in Santiago ist Chiles größtes Wissenschaftsmuseum und eine zentrale Stätte der spielerischen Bildung. Mit hunderten von interaktiven Modulen werden physikalische Gesetze und technologische Phänomene greifbar gemacht. Der Fokus liegt konsequent auf dem Prinzip 'Anfassen erlaubt', was Familien dazu einlädt, Wissenschaft und Technik direkt und eigenständig zu entdecken.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Größtes Wissenschaftsmuseum Chiles mit Fokus auf interaktive Bildung.",
+        "Hunderte von Modulen fördern das Verständnis für Physik und Technik.",
+        "Konsequente Anwendung des 'Hands-on'-Prinzips zur aktiven Entdeckung.",
+        "Zentraler Lernort für Familien seit dem Jahr 2000."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [
@@ -990,6 +1557,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O fermă educațională lângă Santiago, care îi aduce pe copiii din oraș în contact cu animalele de fermă și cu cultura rurală din Chile.",
       en: "An educational farm near Santiago that brings city children in contact with farm animals and Chilean rural culture."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Die Granja Educativa de Lonquén bietet Stadtkindern eine wertvolle Brücke zur ländlichen Welt. In der Nähe von Santiago gelegen, ermöglicht dieser pädagogische Bauernhof den direkten Kontakt mit Nutztieren und einen Einblick in die traditionelle chilenische Landwirtschaft. Durch praktische Aktivitäten wie Brotbacken und Melken wird ein tieferes Verständnis für die Herkunft unserer Lebensmittel und die Bedeutung ländlicher Kultur gefördert.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Pädagogisch wertvoller Bauernhof in Stadtnähe von Santiago.",
+        "Direkter Kontakt für Stadtkinder zu Nutztieren und ländlicher Kultur.",
+        "Praktische Lernaktivitäten wie Brotbacken und Melken.",
+        "Förderung des Bewusstseins für die Herkunft unserer Nahrungsmittel."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Bietet Workshops zum Brotbacken und Melken an.",
@@ -1026,6 +1614,27 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "Un paradis natural dur în Anzi, cu păduri dese de Alerce și văi glaciare, oferind o casă pentru pume, vulpi și specii rare de păsări.",
       en: "A rugged natural paradise in the Andes with dense Alerce forests and glacial valleys, providing a home for pumas, foxes, and rare bird species."
     },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Der Parque Nacional Hornopirén ist ein unberührtes Naturparadies in den Anden. Geprägt durch dichte Alerce-Wälder und tiefe Gletschertäler, ist er ein Rückzugsort für diverse Tierarten wie Pumas, Füchse und seltene Vogelarten. Der majestätisch überragende Vulkan Hornopirén unterstreicht den rauen Charakter dieser Landschaft, deren schwer zugängliches Gelände einen bedeutenden Beitrag zur Erhaltung des Waldes vor Abholzung geleistet hat.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Ruggedes Naturparadies in den Anden mit Gletschertälern.",
+        "Lebensraum für seltene Fauna wie Pumas, Füchse und seltene Vogelarten.",
+        "Der majestätische Vulkan Hornopirén prägt die beeindruckende Kulisse.",
+        "Natürlicher Schutz der Wälder vor Abholzung durch das unzugängliche Gelände."
+      ],
+      "hu": [],
+      "ro": []
+    },
     facts: {
       de: [
         "Der Vulkan Hornopirén erhebt sich majestätisch über dem Park.",
@@ -1061,6 +1670,27 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Magasan fekvő sós tavi ökoszisztéma az Andokban, amely hőforrásokat és fontos költőhelyeket foglal magában a különböző flamingófajok és vikunyák számára.",
       ro: "Un ecosistem de lac sărat situat la mare altitudine în Anzi, cuprinzând izvoare termale și zone importante de reproducere pentru diverse specii de flamingo și vicuña.",
       en: "A high-altitude salt lake ecosystem in the Andes, encompassing thermal springs and important breeding areas for various flamingo species and vicuñas."
+    },
+    descriptionAdvanced: {
+      "en": "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile.",
+      "de": "Das Monumento Natural Salar de Surire ist ein hochalpines Ökosystem auf über 4.200 Metern Höhe. Als lebenswichtiger Lebensraum zeichnet es sich durch Salzseen, heiße Quellen und wichtige Brutgebiete für drei verschiedene Flamingo-Arten aus. Zudem finden hier seltene Vikunyapopulationen Schutz. Der Name 'Surire' erinnert an den Nandu ('Suri') und unterstreicht die ökologische Besonderheit dieses einzigartigen Anden-Gebietes.",
+      "hu": "",
+      "ro": ""
+    },
+    factsAdvanced: {
+      "en": [
+        "Important Chilean location with regional significance.",
+        "Key subject for studies in Geography K7.",
+        "Plays a crucial role in local history and environment."
+      ],
+      "de": [
+        "Hochalpines Ökosystem auf über 4.200 Metern Höhe in den Anden.",
+        "Wichtiger Brutraum für drei verschiedene Flamingo-Arten.",
+        "Lebensraum für Vikunjas und bekannt durch den Nandu (Suri).",
+        "Einzigartige Landschaft aus Salzseen und thermalen Quellen."
+      ],
+      "hu": [],
+      "ro": []
     },
     facts: {
       de: [

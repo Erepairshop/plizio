@@ -1,4 +1,6 @@
 import { POI } from "./poi";
+import { poiExtraMaltaCities } from "./poiExtraMaltaCities";
+import { poiExtraMaltaOther } from "./poiExtraMaltaOther";
 
 export const maltaPoi: POI[] = [
   // Country
@@ -2712,4 +2714,4 @@ export const maltaPoi: POI[] = [
       en: ["Now houses the National Museum of Ethnography", "Includes original interrogation rooms and cells", "Served as the seat of the Inquisition in Malta until 1798"]
     }
   }
-];
+, ...poiExtraMaltaCities, ...poiExtraMaltaOther];

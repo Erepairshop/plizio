@@ -1,80 +1,54 @@
+
 import re
 import json
-import sys
 
-# Set encoding for stdout to utf-8
-if sys.platform == "win32":
-    import codecs
-    sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
+file_path = 'lib/visualLab/data/finlandPoi.ts'
 
-def extract_pois_without_faq(file_path, limit=80):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+with open(file_path, 'r', encoding='utf-8') as f:
+    content = f.read()
 
-    pois_found = []
+# Split by POI objects. This is a bit tricky with regex but we can try to match the start of an object.
+# Each POI is usually { id: "...", ... }
+# We'll use a more robust way to find the objects.
+
+poi_matches = re.finditer(r'\{\s+id: "([^"]+)",', content)
+
+pois_to_update = []
+
+for match in poi_matches:
+    start_index = match.start()
+    # Find the end of this object. This is simplified, assuming objects don't have deeply nested structures that would break it.
+    # In this file, POIs are relatively flat or have known nested structures like name, description, etc.
     
-    # Find all 'id: "' occurrences
-    id_pattern = re.compile(r'id:\s*"([^"]+)"')
+    # Let's just find the next 'id:' or the end of the array '];'
+    next_match = re.search(r'\{\s+id: "([^"]+)",', content[match.end():])
+    if next_match:
+        end_index = match.end() + next_match.start()
+    else:
+        # Try to find the end of the export
+        end_index = content.find('];', match.end())
+        if end_index == -1:
+            end_index = content.find('};', match.end())
     
-    for match in id_pattern.finditer(content):
-        start_index = match.start()
-        obj_start = content.rfind('{', 0, start_index)
-        if obj_start == -1:
-            continue
-            
-        brace_count = 0
-        obj_end = -1
-        for i in range(obj_start, len(content)):
-            if content[i] == '{':
-                brace_count += 1
-            elif content[i] == '}':
-                brace_count -= 1
-                if brace_count == 0:
-                    obj_end = i + 1
-                    break
+    poi_block = content[start_index:end_index]
+    poi_id = match.group(1)
+    
+    desc_adv_en = re.search(r'descriptionAdvanced:\s*\{[^}]*en:\s*"([^"]*)"', poi_block, re.DOTALL)
+    facts_adv_en = re.search(r'factsAdvanced:\s*\{[^}]*en:\s*\[([^\]]*)\]', poi_block, re.DOTALL)
+    
+    needs_desc = False
+    if not desc_adv_en or not desc_adv_en.group(1).strip():
+        needs_desc = True
         
-        if obj_end == -1:
-            continue
-            
-        obj_text = content[obj_start:obj_end]
-        
-        if not re.search(r'\bfaq\s*:', obj_text):
-            poi_id = match.group(1)
-            name_match = re.search(r'name:\s*({[^}]+})', obj_text)
-            if name_match:
-                try:
-                    name_text = name_match.group(1)
-                    names = {}
-                    for lang in ['de', 'hu', 'ro', 'en']:
-                        lang_match = re.search(f'{lang}:\s*"([^"]+)"', name_text)
-                        if lang_match:
-                            names[lang] = lang_match.group(1)
-                    
-                    # Also try to get description for better FAQ generation
-                    desc_match = re.search(r'description:\s*({[^}]+})', obj_text)
-                    descs = {}
-                    if desc_match:
-                        desc_text = desc_match.group(1)
-                        for lang in ['de', 'hu', 'ro', 'en']:
-                            l_match = re.search(f'{lang}:\s*"([^"]+)"', desc_text)
-                            if l_match:
-                                descs[lang] = l_match.group(1)
+    needs_facts = False
+    if not facts_adv_en or not facts_adv_en.group(1).strip():
+        needs_facts = True
+    
+    if needs_desc or needs_facts:
+        pois_to_update.append({
+            'id': poi_id,
+            'needs_desc': needs_desc,
+            'needs_facts': needs_facts
+        })
 
-                    pois_found.append({
-                        'id': poi_id,
-                        'name': names,
-                        'description': descs
-                    })
-                except:
-                    continue
-        
-        if len(pois_found) >= limit:
-            break
-            
-    return pois_found
-
-if __name__ == "__main__":
-    pois = extract_pois_without_faq('lib/visualLab/data/romaniaPoi.ts')
-    with open('pois_to_fix.json', 'w', encoding='utf-8') as f:
-        json.dump(pois, f, indent=2, ensure_ascii=False)
-    print(f"Found {len(pois)} POIs")
+print(json.dumps(pois_to_update, indent=2))

@@ -1,4 +1,6 @@
 import type { POI } from "./poi";
+import { monacoHistory } from "./poiExtraMonacoHistory";
+import { poiExtraMonacoOther } from "./poiExtraMonacoOther";
 
 export const monacoCountry: POI = {
   id: "country-monaco",
@@ -679,9 +681,7 @@ export const monacoRegionsPoi: POI[] = [
   }
 ];
 
-export const monacoAllPoi: POI[] = [
-  monacoCountry,
+export const monacoAllPoi: POI[] = [monacoCountry,
   ...monacoDistricts,
   ...monacoLandmarks,
-  ...monacoRegionsPoi
-];
+  ...monacoRegionsPoi, ...monacoHistory, ...poiExtraMonacoOther];

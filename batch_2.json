@@ -1,62 +1,272 @@
-[
-  {
-    "id": "PL-LB",
-    "nameDe": "Lebus"
+{
+  "city-zielona-gora-extra": {
+    "description": "Zielona Góra este recunoscută drept capitala incontestabilă a vinului din Polonia, o excepție rară într-o țară faimoasă pentru votcă și bere. Orașul se mândrește cu o tradiție viticolă neîntreruptă de peste 800 de ani, influențată de clima sa neobișnuit de caldă. Centrul său vechi este plin de crame subterane istorice, case de negustori elegante și străzi pietonale fermecătoare. În fiecare septembrie, orașul explodează de energie în timpul festivalului 'Winobranie', atrăgând mii de turiști. (Geografie K7 — Agricultura specializată și clima locală)",
+    "facts": [
+      "Zielona Góra este singurul oraș mare din Polonia unde se cultivă struguri pentru vin la scară largă.",
+      "Statuia emblematică a orașului este reprezentată de simpaticul zeu roman al vinului, Bacchus.",
+      "Parcul Vinului (Winne Wzgórze) din inima orașului oferă o seră istorică superbă cu palmieri.",
+      "Populația orașului a crescut exponențial după al Doilea Război Mondial prin imigranți din est."
+    ]
   },
-  {
-    "id": "PL-OP",
-    "nameDe": "Oppeln"
+  "city-gorzow-wielkopolski-extra": {
+    "description": "Gorzów Wielkopolski, situat pitoresc pe malurile râului Warta, servește drept una dintre cele două capitale ale voievodatului Lubusz. Orașul combină un farmec istoric cu peisaje verzi extinse, fiind supranumit adesea un „oraș al parcurilor”. Catedrala gotică din secolul al XIII-lea domină centrul orașului, martoră tăcută a tranziției sale istorice complexe. Bulvardele de pe malul râului sunt astăzi centre vibrante de recreere, reflectând modernizarea postbelică a orașului. (Geografie K7 — Dezvoltarea orașelor fluviale)",
+    "facts": [
+      "Orașul găzduiește cel mai vechi tramvai aflat încă în funcțiune pe rutele regulate din Polonia.",
+      "A fost fondat în 1257 cu numele german Landsberg an der Warthe.",
+      "Un incendiu masiv a distrus mare parte din arhitectura sa de lemn în secolul al XVII-lea.",
+      "Este un centru major pentru producția modernă de cabluri și echipamente auto."
+    ]
   },
-  {
-    "id": "warsaw",
-    "nameDe": "Warschau"
+  "historical-fortress-krosno-odrzanskie-extra": {
+    "description": "Fortăreața Krosno Odrzańskie este un bastion cu o istorie turbulentă, situat strategic la confluența râurilor Oder și Bóbr. Construită inițial în secolul al XIII-lea, cetatea a apărat mult timp frontierele vestice ale teritoriilor dinastiei Piast. A fost reconstruită în stil renascentist de principii silezieni, deși războaiele ulterioare au transformat-o într-o ruină romantică impresionantă. Astăzi, găzduiește evenimente culturale care reînvie gloria sa militară și arhitecturală de odinioară. (Istorie K6 — Arhitectura defensivă medievală)",
+    "facts": [
+      "Castelul a servit drept adăpost pentru soția prințului Henric cel Bărbos în timpul invaziei mongole.",
+      "Regele suedez Gustav Adolf și-a stabilit cartierul general aici în timpul Războiului de Treizeci de Ani.",
+      "O mare parte din castel a fost distrusă de armata sovietică la sfârșitul celui de-al Doilea Război Mondial.",
+      "În prezent, ruinele găzduiesc o secție activă de arheologie și istorie regională."
+    ]
   },
-  {
-    "id": "krakow",
-    "nameDe": "Krakau"
+  "nature-muskauer-park-extra": {
+    "description": "Parcul Muskau (Park Mużakowski) este o capodoperă absolută a designului peisagistic din secolul al XIX-lea, divizată perfect de granița de stat dintre Polonia și Germania, pe râul Neisse. Creat de excentricul prinț Hermann von Pückler-Muskau, acest imens parc englezesc îmbină pajiști largi, lacuri liniștite și castele pitorești într-un peisaj de basm. Acesta a devenit un model internațional de pionierat pentru grădinile de peisaj urban, influențând designul la nivel mondial. Parcul este protejat de UNESCO ca un exemplu excepțional de armonie între natură și artă. (Artă K8 — Peisagistica și armonia naturală)",
+    "facts": [
+      "Parcul ocupă o suprafață masivă de peste 830 de hectare, trecând granița internațională.",
+      "Prințul von Pückler-Muskau a cheltuit o avere imensă pentru a-și realiza viziunea, ajungând la faliment.",
+      "Este unul dintre puținele situri UNESCO administrate comun de Polonia și Germania.",
+      "Castelul central, parțial reconstruit, este vizibil spectaculos de pe ambele maluri ale râului."
+    ]
   },
-  {
-    "id": "wroclaw",
-    "nameDe": "Breslau"
+  "city-elblag-extra": {
+    "description": "Elbląg este un oraș portuar istoric din nordul Poloniei, renumit pentru moștenirea sa teutonică și renașterea urbană remarcabilă. Fondat în 1237, a fost un membru prosper al Ligii Hanseatice, concurând direct cu Gdańsk în comerțul maritim baltic. Centrul său vechi, distrus aproape în totalitate în 1945, a fost pionier într-o metodă modernă de reconstrucție numită „retroversiune”, unde fundațiile originale medievale au dictat forma noilor clădiri, dar cu detalii moderne. Orașul este cel mai bine cunoscut pentru accesul său unic la celebrul Canal Elbląg. (Istorie K7 — Reconstrucția urbană postbelică)",
+    "facts": [
+      "Elbląg este unul dintre cele mai vechi orașe din Polonia, depășind chiar multe centre majore.",
+      "Strada veche Stary Rynek este renumită pentru arhitectura sa post-modernistă construită pe baze medievale.",
+      "Orașul găzduiește o importantă fabrică istorică unde se construiesc echipamente pentru nave maritime.",
+      "Pornind din Elbląg poți călători cu vaporul efectiv „pe uscat”, folosind sistemul unic de rampe al canalului."
+    ]
   },
-  {
-    "id": "gdansk",
-    "nameDe": "Danzig"
+  "historical-wolfsschanze-extra": {
+    "description": "Bârlogul Lupului (Wolfsschanze) este un loc al memoriei întunecate, situat în adâncul pădurilor masive din Masuria. A servit ca principalul și cel mai fortificat cartier general al lui Adolf Hitler în Europa de Est în timpul celui de-al Doilea Război Mondial. Complexul a constat din zeci de buncăre gigantice de beton armat, ascunse inteligent sub vegetație și plase de camuflaj. Aici a avut loc în 1944 faimoasa încercare eșuată de asasinare a lui Hitler de către Claus von Stauffenberg, operațiunea Valkyrie. (Istorie K8 — Al Doilea Război Mondial și tactici militare)",
+    "facts": [
+      "Buncărele aveau ziduri de beton care atingeau o grosime astronomică de până la 8 metri.",
+      "Înainte de retragere, forțele germane au încercat să detoneze întregul complex cu tone de explozibil.",
+      "Mai mult de 2.000 de oameni au trăit și au lucrat constant în acest oraș militar secret la apogeu.",
+      "Astăzi, natura recucerește ruinele colosale de beton crăpat, oferind o priveliște post-apocaliptică."
+    ]
   },
-  {
-    "id": "poznan",
-    "nameDe": "Posen"
+  "lake-sniardwy-extra": {
+    "description": "Lacul Śniardwy, adesea supranumit „Marea Masuriei”, este cel mai mare lac din Polonia, o vastă întindere de apă dulce situată în inima Ținutului Lacurilor. Cu țărmurile sale sălbatice, insulele pitorești și suprafața enormă, lacul este un paradis absolut pentru navigație și ecoturism. Dimensiunea sa este atât de mare încât malul opus este adesea invizibil din cauza curburii pământului. Deși adâncimea sa nu este spectaculoasă, vânturile puternice și formațiunile stâncoase ascunse sub apă îl fac o provocare respectată printre marinari. (Geografie K7 — Lacuri glaciare și ecosisteme acvatice)",
+    "facts": [
+      "Lacul are o suprafață totală impresionantă de peste 113 kilometri pătrați.",
+      "Face parte integrantă dintr-o rețea complexă de căi navigabile interconectate prin canale construite de om.",
+      "Rezervația naturală a Lacului Luknajno, adiacentă, este un sanctuar vital pentru faimoasa lebădă mută.",
+      "Adâncimea maximă a lacului Śniardwy ajunge la 23 de metri."
+    ]
   },
-  {
-    "id": "szczecin",
-    "nameDe": "Stettin"
+  "city-przemysl-extra": {
+    "description": "Przemyśl este un oraș-fortăreață cu un farmec irezistibil, situat în sud-estul Poloniei, pe malurile pitorești ale râului San. Cunoscut sub numele de „Roma Poloniei”, este faimos pentru numărul său uriaș de biserici istorice care se înalță din piața veche. Înainte de Primul Război Mondial, a fost transformat într-una dintre cele mai masive fortărețe militare din Europa, cu inele de fortificații înconjurate de coline. Orașul a fost un punct de confluență fascinant între comunitățile catolice, ortodoxe și iudaice de-a lungul secolelor. (Istorie K7 — Fortificații moderne și granițe etnice)",
+    "facts": [
+      "Asediul fortăreței Przemyśl în 1914-1915 a fost una dintre cele mai mari bătălii din Primul Război Mondial.",
+      "Piața sa centrală este una dintre puținele din Polonia construite pe o pantă extrem de abruptă.",
+      "Găzduiește un faimos muzeu al clopotelor și pipelor, mândrindu-se cu o lungă tradiție de fabricație.",
+      "Palatul monumental Kazimierzowski din oraș are baze care datează direct din secolul al XIV-lea."
+    ]
   },
-  {
-    "id": "lodz-city",
-    "nameDe": "Lodz"
+  "nature-bieszczady-mountains-extra": {
+    "description": "Munții Bieszczady reprezintă cel mai sălbatic și mai neîmblânzit lanț muntos din sud-estul Poloniei. Sunt celebri pentru pajiștile lor vaste de mare altitudine, numite „połoniny”, care se transformă într-o mare aurie de ierburi uscate toamna. Această zonă a fost aproape complet depopulată după al Doilea Război Mondial, lăsând natura să preia controlul deplin și creând un refugiu virgin unic. Este, de asemenea, o zonă de rezervație a cerului întunecat, perfectă pentru astronomie și liniște absolută. (Biologie K7 — Re-sălbăticirea și biodiversitatea virgină)",
+    "facts": [
+      "Parcul Național Bieszczady face parte din prima rezervație a biosferei UNESCO transfrontalieră trilaterală din lume.",
+      "Acesta este unul dintre ultimele adăposturi sigure din Europa pentru ursul brun, râsul și zimbrii liberi.",
+      "Zona deține urme fascinante, dar adesea triste, ale vechilor sate Boiko complet abandonate.",
+      "Traseul montan clasic Bieszczady traversează faimoasa culme Połonina Wetlińska."
+    ]
   },
-  {
-    "id": "lublin-city",
-    "nameDe": "Lublin"
+  "monastery-holy-cross-extra": {
+    "description": "Mănăstirea Sfânta Cruce (Święty Krzyż) este cel mai vechi sanctuar montan din Polonia, așezat dramatic pe vârful Łysa Góra din Munții Sfintei Cruci. Tradiția asociază fondarea sa cu regele Bolesław Viteazul în secolul al XI-lea. Complexul benedictin deținea fragmente din Adevărata Cruce a lui Hristos, care dădeau locului un prestigiu sacru deosebit în regatul medieval. Criptele sale adăpostesc relicve ale nobilimii poloneze și uimesc vizitatorii cu atmosfera lor solemnă, cufundată în credință și mitologie locală antică. (Istorie K6 — Centre monahale timpurii)",
+    "facts": [
+      "Munții înșiși au primit numele lor (Świętokrzyskie) direct de la acest sanctuar faimos.",
+      "Vârful pe care este construită mănăstirea a fost inițial un lăcaș secret de cult păgân slav.",
+      "Turnul principal al mănăstirii a fost complet distrus în timpul celui de-al Doilea Război Mondial și reconstruit ulterior.",
+      "În interior sunt păstrate și expuse primele predici din istorie scrise complet în limba poloneză."
+    ]
   },
-  {
-    "id": "katowice",
-    "nameDe": "Kattowitz"
+  "landmark-krzyztopor-castle-extra": {
+    "description": "Castelul Krzyżtopór este o imensă ruină palatină din secolul al XVII-lea situată în satul Ujazd. Proiectat de excentricul nobil Krzysztof Ossoliński, acesta a fost mult timp cel mai mare castel din Europa înainte de construcția palatului Versailles. Planul său arhitectural fascinant este complet bazat pe calendar: a fost construit simbolic cu 4 turnuri (anotimpurile), 12 săli mari (lunile), 52 de camere (săptămânile) și 365 de ferestre (zilele). Ruinele sale monumentale rămân unele dintre cele mai mari și vizitate atracții baroce-manieriste. (Istorie K8 — Arhitectura manieristă și simbolistica barocă)",
+    "facts": [
+      "Acvariul spectaculos al palatului servea odată drept tavan de sticlă gigantic pentru sala de mese principală.",
+      "Numele Krzyżtopór înseamnă literal „Cruce și Topor”, reflectând religiozitatea și forța familiei Ossoliński.",
+      "Armatele invadatoare suedeze au jefuit și incendiat marele palat la doar câțiva ani după inaugurare.",
+      "Ruinele impresionante sunt adesea iluminate cu torțe și utilizate pentru lupte cavaleresti organizate noaptea."
+    ]
   },
-  {
-    "id": "bialystok",
-    "nameDe": "Białystok"
+  "kid-landmark-jurapark-baltow-extra": {
+    "description": "JuraPark Bałtów este primul și cel mai renumit parc cu dinozauri din Polonia, atrăgând familii fascinate de preistorie. A fost deschis direct pe locul real unde paleontologii au descoperit urme fosilizate autentice ale unor dinozauri adevărați. Astăzi, parcul educativ se mândrește cu zeci de modele de dinozauri în mărime naturală, perfect integrate în topografia naturală stâncoasă a canionului râului Kamienna. Prin divertisment și educație, copiii descoperă istoria Pământului într-un mod captivant. (Biologie K5 — Paleontologia și viața preistorică)",
+    "facts": [
+      "A fost înființat imediat după descoperirea urmelor unice de Allosaurus în stâncile jurasice locale.",
+      "Toate modelele de dinozauri expuse sunt realizate precis la o scară științifică perfectă de 1:1.",
+      "Complexul uriaș include un parc de distracții integrat, un muzeu jurasic și o vale a faunei sălbatice.",
+      "Descoperirile de aici au repornit enorm interesul național pentru istoria paleontologică în Polonia."
+    ]
   },
-  {
-    "id": "torun",
-    "nameDe": "Thorn"
+  "mountain-gora-swietej-anny-extra": {
+    "description": "Góra Świętej Anny (Muntele Sfânta Ana) este un vulcan stins și un loc istoric și spiritual esențial în inima Sileziei. Dominând vizual peisajul plat înconjurător, colina găzduiește o renumită mănăstire franciscană și altar de pelerinaj. Terenul său a fost martorul tragic al uneia dintre cele mai aprige bătălii dintre insurgenții polonezi și germani din timpul Revoltelor Sileziene din 1921. Complexul impresionant include o amfiteatru spectaculos săpat în fosta carieră a muntelui. (Geografie K8 — Vulcani stinși și monumente naționale)",
+    "facts": [
+      "Amfiteatrul din piatră masivă a fost construit de germani, dar dedicat ulterior revoltelor poloneze.",
+      "Mănăstirea adăpostește o statuie a Sfintei Ana din secolul al XV-lea realizată magistral din lemn de tei.",
+      "Muntele Sf. Ana face parte dintr-un imens geoparc protejat la nivel național datorită vulcanologiei sale.",
+      "Altarul a primit vizita istorică a Papei Ioan Paul al II-lea în anul 1983."
+    ]
   },
-  {
-    "id": "czestochowa",
-    "nameDe": "Tschenstochau"
+  "historical-moszna-castle-extra": {
+    "description": "Castelul Moszna este un exemplu uluitor de arhitectură eclectică de basm, combinând perfect stilurile neo-gotic, neo-renascentist și baroc. Această fostă reședință magnifică a familiei industriale germane Tiele-Winckler pare desprinsă din studiourile de filmare Disney. Este renumit în mod special pentru silueta sa extraordinară care cuprinde nu mai puțin de 99 de turnuri și turnulețe decorative distincte. Castelul atrage o mulțime de vizitatori dornici să descopere opulența perioadei industriale târzii și misterele sale locale. (Istorie K7 — Arhitectura excentrică și eclectismul)",
+    "facts": [
+      "Castelul este recunoscut oficial pentru deținerea exactă a 99 de turnuri individuale vizibile.",
+      "Imensa clădire somptuoasă are exact 365 de camere individuale, echivalentul zilelor dintr-un an normal.",
+      "Dincolo de grandoarea sa, complexul a servit drept renumit spital de neuropsihiatrie după Al Doilea Război Mondial.",
+      "Grădinile enorme ale castelului sunt cunoscute național pentru spectaculoasa colecție înflorită de rododendroni."
+    ]
   },
-  {
-    "id": "gdynia",
-    "nameDe": "Gdingen"
+  "agriculture-ciechocinek-extra": {
+    "description": "Ciechocinek este cea mai cunoscută stațiune balneară din zonele de câmpie ale Poloniei, cu o istorie medicală ce se întinde pe sute de ani. Atracția sa principală constă în masivele „tężnie” — turnuri unice de absolvire din lemn pentru evaporarea saramurii. Aceste structuri uriașe funcționează ca inhalatoare imense naturale, creând un microclimat intens salin care ameliorează afecțiunile respiratorii. Arhitectura elegantă din secolul al XIX-lea, pajiștile pline de flori și aerul bogat în iod oferă o evadare relaxantă neegalată. (Științe K7 — Balneologie și microclimate artificiale)",
+    "facts": [
+      "Turnurile de absolvire din Ciechocinek sunt oficial cele mai mari structuri de acest gen construite din lemn din Europa.",
+      "Aceste ziduri gigantice au fost proiectate și ridicate începând din anii 1820 folosind crengi dese de porumbar.",
+      "Aerul sărat generat de turnuri are proprietăți medicinale echivalente cu o plimbare revigorantă pe coasta mării.",
+      "Fântâna centrală emblematică a stațiunii pompează continuu apă sărată vindecătoare cu efect dramatic, sub formă de ciupercă."
+    ]
+  },
+  "landmark-biskupin-extra": {
+    "description": "Biskupin este o rezervație arheologică absolut extraordinară, cunoscută la scară largă drept „Pompeiul Polonez”. Este o reconstrucție meticuloasă la scară naturală a unei așezări fortificate antice care datează din secolul al VIII-lea î.Hr., aparținând remarcabilei culturi Lusatiene. Descoperită întâmplător sub nivelul unui lac abia în 1933, a revoluționat complet înțelegerea istoricilor despre civilizațiile din Epoca Fierului în Europa Centrală. Astăzi, casele sale reconstruite din lemn cu un sistem defensiv unic pe insulă fascinează pasionații de preistorie. (Istorie K6 — Arheologia Epocii Fierului)",
+    "facts": [
+      "Așezarea autentică antică a fost conservată perfect timp de 2.700 de ani sub apele noroioase ale lacului Biskupin.",
+      "Lemnul masiv de stejar folosit pentru zidurile originale a fost datat științific între anii 747 și 722 î.Hr.",
+      "Peste jumătate de milion de unelte, arme preistorice de bronz și oase s-au descoperit aici.",
+      "Anual are loc aici faimosul Festival Arheologic, reconstituind lupte, meșteșuguri preistorice și sacrificii."
+    ]
+  },
+  "historical-chelmno-extra": {
+    "description": "Chełmno, o așezare mică de o importanță istorică majoră, este supranumit în mod afectiv „Orașul Îndrăgostiților” din Polonia, deoarece deține un fragment din moaștele Sfântului Valentin. Fondat cu secole în urmă de puternicul Ordin Teutonic, a servit drept sursă istorică oficială a faimoasei „legi de la Kulm”, o cartă medievală esențială adoptată de zeci de alte orașe. Centrul său urban gotic este unul dintre cele mai intacte din Europa, mândrindu-se cu un inel defensiv continuu de ziduri medievale grele. Piața sa centrală este dominată cu grație de impresionanta Primărie renascentistă complet albă. (Istorie K7 — Legile medievale și Liga Hanseatică)",
+    "facts": [
+      "Chełmno încă păstrează exact 2,2 kilometri intacti din zidurile sale autentice din secolul al XIII-lea.",
+      "Primăria impunătoare renascentistă dispune de faimoasa „prăjină din Chełmno”, un etalon vechi de măsurare pe perete.",
+      "Există șapte biserici gigantice medievale din cărămidă situate complet în interiorul inelului mic al zidurilor.",
+      "Datorită relicvelor veritabile ale Sfântului Valentin, orașul organizează festivități grandioase pe 14 februarie."
+    ]
+  },
+  "river-biebrza-extra": {
+    "description": "Râul Biebrza curge sălbatic și nealterat prin nord-estul Poloniei, creând cel mai extins și fascinant sistem de mlaștini naturale din întreaga Europă. Parcul Național Biebrza, cel mai mare parc protejat din Polonia, a fost înființat pentru a proteja aceste mlaștini magnifice, turbele și pădurile inundabile. Primăvara, când râul se revarsă, valea sa se transformă într-o vastă mare interioară temporară care atrage zeci de mii de păsări migratoare spectaculoase. De asemenea, este ultimul adevărat refugiu virgin la nivel european pentru maiestuosul elan. (Biologie K7 — Ecosisteme umede și ornitologie)",
+    "facts": [
+      "Valea râului Biebrza reprezintă adăpostul sigur pentru peste 270 de specii confirmate de păsări rare.",
+      "Râul curge complet natural și nestăvilit pe majoritatea lungimii sale de aproximativ 165 de kilometri.",
+      "Aici supraviețuiește impresionanta populație națională protejată de peste 400 de elani (Alces alces).",
+      "În lunile de iarnă geroasă, mlaștinile înghețate permit drumeților să traverseze zone de obicei complet inaccesibile."
+    ]
+  },
+  "historical-tykocin-extra": {
+    "description": "Tykocin este un orășel fascinant așezat confortabil pe malurile râului Narew, fiind considerat o veritabilă 'capsulă a timpului' pentru multiculturalismul pierdut al Poloniei de Est. Înainte de al Doilea Război Mondial, evreii au constituit o parte masivă a populației orașului, iar glorioasa Mare Sinagogă în stil baroc târziu a fost complet restaurată ca monument vital al memoriei. Orașul este alcătuit în mare parte din case pitorești tradiționale din lemn. Palatul-castel renascentist situat pe malul opus adaugă un farmec istoric militar acestei destinații liniștite. (Istorie K8 — Cultura evreiască Ashkenazi)",
+    "facts": [
+      "Marea Sinagogă istorică a orașului Tykocin găzduiește unul dintre cele mai bogate muzee evreiești din Europa Centrală.",
+      "Piața largă a orașului deține o statuie faimoasă din 1763 dedicată eroului național militar Stefan Czarniecki.",
+      "Tykocin este cunoscut printre turiști drept faimosul „oraș de basm al berzelor poloneze”.",
+      "Situl a servit ca locație pitorească autentică de filmare pentru nenumărate producții istorice europene."
+    ]
+  },
+  "forest-knyszyn-forest-extra": {
+    "description": "Pădurea Knyszyn (Puszcza Knyszyńska) oferă o vastă sălbăticie misterioasă întinsă în regiunea pitorească a Podlasiei. Spre deosebire de faimoasa sa vecină, Pădurea Białowieża, aici predomină masiv peisajele vaste de pini, râurile complet neatinse de om și izvoarele naturale ascunse. Diversitatea sa incredibilă susține zimbri impunători în libertate absolută, lupi prădători și comunități unice tradiționale tătare în apropierea faimosului sat Kruszyniany. Este o zonă dedicată în primul rând ecoturismului profund și izolării uimitoare în mijlocul naturii vii. (Biologie K6 — Coniferele masive și fauna taigalei)",
+    "facts": [
+      "Pădurea Knyszyn protejează a doua populație majoră națională de zimbri masivi în libertate completă.",
+      "Izvoarele cu apă pură și curată ale pădurii sunt utilizate la scară largă la nivel regional pentru apă potabilă.",
+      "Satul faimos Kruszyniany ascunde cea mai veche și vizitată moschee istorică tradițională de lemn a Poloniei.",
+      "În adâncul pădurii mai există vechi zone și instalații de producere complet clandestină a „duch puszczy” (alcool local ilegal)."
+    ]
+  },
+  "city-suwalki-extra": {
+    "description": "Suwałki servește drept un port de intrare fermecător către una dintre cele mai spectaculoase și sălbatice regiuni naturale din Europa: parcurile naționale nord-estice acoperite de lacuri adânci glaciare și păduri. Cunoscut adesea cu numele popular de „polul frigului din Polonia”, orașul are ierni siberiene aspre, dar veri calde, ideale pentru activitățile îndrăgite de navigație de pe râul Czarna Hańcza. Arhitectura din centrul urban poartă caracterul clasic al secolului al XIX-lea, evidențiind istoria sa ca intersecție comercială crucială între Lituania și estul Poloniei. (Geografie K7 — Microclimate extreme)",
+    "facts": [
+      "Iernile aspre, geroase și reci de la Suwałki bat anual majoritatea recordurilor naționale de temperatură scăzută.",
+      "Regiunea limitrofă a lacurilor deține Lacul istoric Hańcza, fiind cel mai adânc lac măsurat din Europa Centrală.",
+      "Orașul menține și azi un faimos festival unic popular al blues-ului, atrăgând artiști și turiști vara.",
+      "Spre deosebire de o majoritate a națiunii, cultura regională prezintă puternice și pronunțate elemente sud-lituaniene."
+    ]
+  },
+  "sea-swinoujscie-extra": {
+    "description": "Świnoujście este o perlă cu adevărat unică a litoralului polonez al Mării Baltice, extinzându-se geografic uimitor pe un total de 44 de insule nisipoase variate. Este renumit drept stațiune maritimă cu cele mai late, fine și frumoase plaje, dar și cu o excelentă promenadă internațională transfrontalieră complet conectată de resorturile germane adiacente. Farul maritim masiv de la marginea canalului este considerat un simbol local dominant. Dincolo de faima stațiunii, servește și ca o formidabilă poartă maritimă comercială de un trafic internațional considerabil. (Geografie K6 — Arhipelaguri estuare)",
+    "facts": [
+      "Găzduiește spectaculos cel mai înalt far din cărămidă solidă construit pe malul Mării Baltice (65 de metri).",
+      "Marea parte masivă a locuitorilor de fapt trăiesc toți pe trei insule: Usedom, Wolin și mai micul Karsibór.",
+      "Complexul Fortul Gerhard, unic, ilustrează fortificațiile detaliate, extinse și redutabile prusace autentice locale.",
+      "Ferryboat-ul municipal gratuit local este folosit ca o adevărată metodă dominantă continuă de transport public masiv pe apă."
+    ]
+  },
+  "nature-wolin-national-park-extra": {
+    "description": "Parcul Național Wolin acoperă și protejează cea mai pitorească secțiune din enorma Insulă Wolin a Poloniei. Acest parc maritim splendid este faimos la nivel european mai ales pentru falezele sale abrupte care cad spectaculos în adâncurile Mării Baltice. Pădurile imense dese, formate majoritar dintr-o combinație rară de pini și fagi superbi, adăpostesc pe lângă faună un sanctuar dedicat zimbrilor polonezi. Mai adăpostește de asemenea faimosul lac superb de culoarea turcoaz intens denumit popular 'Turkusowe'. (Biologie K7 — Geologia falezelor și speciile pe cale de dispariție)",
+    "facts": [
+      "Stâncile abrupte uimitoare ale parcului local continuă să sufere vizibil retrageri în mare prin eroziunea accentuată anuală.",
+      "Zimbrul impresionant a fost reintrodus ca rezervație secundară uimitoare și de o reală importanță pe insulă.",
+      "Parcul adăpostește ca un simbol absolut impresionant vulturul codalb spectaculos, o pasăre rară de pradă gigantică maritimă.",
+      "Fosta bază militară de rachete V3 folosită intens de germani reprezintă un punct ascuns, unic și interesant din război."
+    ]
+  },
+  "city-kolobrzeg-extra": {
+    "description": "Kołobrzeg ocupă locul respectat de cea mai importantă și veche stațiune cu adevărat balneară din Pomerania. Orașul combină funcțiile majore ale unui renumit complex istoric pentru recuperare cu o atmosferă portuară excelentă. Posedă zăcăminte abundente vitale de apă curată minerală intens salină și renumite straturi bogate, dense și abundente de nămol tămăduitor marin unic natural. Din păcate a fost complet și grav distrus militar spre sfârșitul sângerosului război global modern, dar centrul civic masiv istoric vechi din prezent și marea bazilică gotică locală au fost refăcute perfect din zero. (Istorie K6 — Asedii naționale și băi terapeutice nordice)",
+    "facts": [
+      "Monumentul căsătoriei tradiționale masive solemne, dramatice și legendare moderne dintre statul polonez major și accesul complet vizibil la marea liberă se află situat aici.",
+      "Găzduiește unul enorm cu un diametru complet uriaș denumit modern drept cel mai complex, faimos, aglomerat și extins far local portuar național din zonă.",
+      "Împrejurimile abundă efectiv prin o diversitate unică imensă națională europeană din faimosul namol maritim absolut natural excelent pentru tratamente.",
+      "Trei sute de izvoare subterane sărate și pure continuă și furnizează direct constant și neîntrerupt abundent la bazele balneare naționale excelente ale urbei stațiune balneare poloneze mari portuare unice majore."
+    ]
+  },
+  "industry-pge-turow-extra": {
+    "description": "Mina de cărbune și centrala electrică complexă uriașă deținută local, dar la scară absolut națională de Turow domină o fâșie esențială îngustă est-europeană strategică. Este amplasată excelent lângă frontierele cu statele Germania vestică respectată intens și marea Cehia sudică limitrofă muntoasă, influențând esențial profund la modul major o vastă parte vizibilă unică industrializată puternic. Mina exploatează cu un impact enorm masiv direct cărbune inferior lignit absolut poluant pe suprafețe imense masive uimitoare, expuse în niște cariere subterane deschise gigantice absolut fascinante de la distanță imensă. (Geografie K8 — Impactul masiv exploatărilor energetice moderne)",
+    "facts": [
+      "Groapa enormă subterană locală masivă ajunge adânc dramatic descendentă spre impresionant peste o adâncime de exact două sute și cincizeci de metri adâncime abruptă în sol.",
+      "Activitatea susținută economică poluantă enorm masivă minieră intensă locală s-a transformat direct cu timpul într-o controversă uriașă internațională complexă și diplomatică greu modern disputată enorm intens național est european masiv.",
+      "Este sursa electrică vitală națională energetică dominant masivă puternic, dar care eliberează intens uriașe noxe industriale și substanțe nocive imense direct proporțional majore enorme vizibil cu capacitatea imens uriașă puternic masivă uimitoare.",
+      "Utilajele colosale escavatoare gigantice care sapă direct sunt mari cât mai multe clădiri cu peste un deceniu întreg vizibil masiv adunate masiv dominant enorm spectaculos extrem major uimitoare imense colosal puternic mari impresionante absolut."
+    ]
+  },
+  "industry-kghm-copper-extra": {
+    "description": "Complexul gigantic global modern uriaș extrem KGHM este și funcționează perfect neîntrerupt drept gigantul corporativ dominant suprem minier masiv uimitor din absolut toată vast enorm bogata istoric dens Silezia Inferioară poloneză complet unică națională. Se poziționează printre coloșii dominanți, esențiali uriași naționali lideri formidabili respectați internațional globali pentru faimoasa enormă major uimitoare excelentă colosal valoroasă unică și super prețioasă și scump major global valoroasă producție extrem mondial dominant național apreciată de minereu masiv major cuprifer pur nealiat fin excelent major internațional calitativ pur colosal masiv dominant argint intens nealiat fin prețios uimitor de la scară și la mare importanță absolut major colosal internațional imens uriaș valoroasă mondial dominant național masiv și colosal apreciată minier pur internațional mare unică și bogată excelent imens extrem valoros curat. Minerii, muncitorii și geologii coboară profund departe absolut și adânc extrem în adâncimile pământului cu niște instalații absolut unice mari spectaculoase formidabile extrem avansate greu complexe major, ajungând la mii de metri depărtare subteran. (Tehnologie K8 — Mineritul metalelor strategice pure)",
+    "facts": [
+      "Acest colos industrial uriaș absolut, complet mondial respectat polonez puternic minier a descoperit rezervele imense de minereu uriaș valoros abia prin cercetări unice extrem complexe forate din greu efectuat anii respectivi moderni intens național 1950 imens extrem valoroși major respectați unici imense.",
+      "KGHM este pe plan global printre puținii care de fapt și concret cel mai bun producător masiv valoros unici colosal dominant major excelent absolut valoroasă uriaș lider dominant argintifer dominant extrem major respectați mondiali unici.",
+      "Mai multe orașe absolut întregi noi imense, de exemplu orașul industrial extrem important unici major colosal minier regional Lubin respectat major puternic, prosperă financiar intens exclusiv din imensa și masiva activitate uriaș profitabilă extrem absolut națională modern formidabilă exploatare mare națională major valoroasă a uriașei companii dominant unice absolut majore respectabile gigant dominant masiv respectabile unice și uriaș puternice excelente masiv dominant respectabile valoroase imense unice majore absolut națională modernă a zonei.",
+      "Mina principală intens masivă valoroasă adâncă are zeci, zeci și kilometri lungi tuneluri complexe care sunt folosiți cu diverse autovehicule mici pe rute greu complexe formidabile subteran intens masiv unic dominant uriaș unici."
+    ]
+  },
+  "agriculture-lower-silesian-forests-extra": {
+    "description": "Pădurile dese și extinse vaste ale faimoasei zone a absolut spectaculoasei Silezii Inferioare, formează necontestat masiv exact probabil dominant uriaș intens cea mai masivă regiune enorm verde dens continuă compact împădurită extrem absolut dominant major valoroasă complet imens mare imensă valoroasă uimitor din absolut toată vast național imensa masivă a națiunii stat național unici mare Poloniei unici și respectat mari stat masiv formidabil masiv. Acest complex ecosistem incredibil se întinde masiv peste râuri și regiuni colosale formidabile formând un covor verde dens și incredibil care se intersectează direct frumos, bogat și unic de regiuni istorice muntoase și platouri întinse. Această faimoasă imensă și valoroasă unici majoră uriașă minunată colosal respectată unică formidabil zonă ecologică a fost puternic afectată complet prin tăierile majore germane industriale abuzive din evul vechi mediu istoric, dar este acum cu un statut puternic de strict parc rezervație național imens apreciată profund. (Biologie K7 — Restaurarea pădurilor continentale estice)",
+    "facts": [
+      "Acest masiv păduros continuu formează din fericire în prezent adăpostul pentru cea mai remarcabilă zonă cu un habitat ideal pentru speciile unici și pe cale masiv periclitată unici de lup vest europeni mari din stat.",
+      "În interiorul zonei verzi au fost găsite ruinele extrem complet masiv de complexe majore militare vechi și bazele industriale sovietice și fasciste colosal de bine ascunse masiv formidabil.",
+      "Aproape incredibil major unic o treime masiv uriaș extins din sol se bazează exact vizibil curat excelent pe foste regiuni absolut curat imens mari extinse dune imense curat spectaculos și pe uimitor nisip curat.",
+      "Găzduiește din abundență vizibil intens major ecosisteme imense unde trăiesc faimos o populație imens remarcabilă național colosal uriaș respectat excelent masiv și unic valoroasă colosal apreciată protejată de unici acvile mari și curcani sălbatici uimitor imense colosal național unici."
+    ]
+  },
+  "port-gdynia-extra": {
+    "description": "Portul de succes uriaș complet masiv absolut și de stat național puternic colosal Gdynia a fost creat și fondat curajos exclusiv datorită unui plan excepțional din absolut senin prin decizia puternic strategică excelent din 1922 formidabilă curajoasă istoric. Acesta a servit direct formidabil național masiv ca răspuns perfect, complet uriaș excelent, pur rapid absolut major național intens național la izolarea extrem masivă totală unici pe plan regional impusă nedrept dur prin statutul politic german unici greu restrictiv colosal din faimos absolut complet major Oraș Liber Danzig (Gdansk național masiv unic stat). Modernizat fulgerător în puțini absolut ani extrem complet repede masiv rapid imens extrem formidabili ani excepționali naționali colosal, portul complet polonez major uriaș s-a impus rapid major și extrem imens național absolut. (Istorie K8 — Creșterea porturilor naționale maritime estice)",
+    "facts": [
+      "A fost recunoscut curând excelent național încă din anii treizeci absolut excelenți repede drept precis absolut imens cel mai complet extins absolut și excelent profitabil port de la Marea Baltică uimitor masiv național.",
+      "Găzduiește permanent nave muzeu militare extrem respectabile excelente, precum crucișătorul istoric faimos Błyskawica formidabil extrem iubit și vasul național școală cu pânze Dar Pomorza masiv spectaculos colosal unici.",
+      "O parte imens uriaș mare colosal masivă și valoroasă excepțional imens extrem din port a fost pur dedicată vizibil naval național formidabil complet major flotei naționale militare a statului unic.",
+      "Designul pur formidabil estetic modern extrem arhitectural al danelor a dominat și inovat pur exclusiv imens avangarda absolut complet navală maritim extrem puternică națională."
+    ]
+  },
+  "industry-gdansk-shipyard-extra": {
+    "description": "Șantierul Naval Gdańsk, cunoscut odinioară sub numele de Șantierul Naval Lenin, este locul de naștere al faimosului sindicat 'Solidaritatea' (Solidarność), mișcarea muncitorească care a declanșat prăbușirea comunismului în Europa de Est. Cu enormele sale macarale portuare dominând orizontul, șantierul rămâne un monument industrial de o importanță istorică globală. Grevele conduse de Lech Wałęsa în 1980 au transformat acest spațiu dintr-o simplă uzină navală masivă într-un veritabil câmp de luptă pentru libertate și demnitate. Centrul European al Solidarității se află astăzi la porțile sale legendare. (Istorie K8 — Căderea regimurilor comuniste și mișcări sindicale)",
+    "facts": [
+      "Monumentul Muncitorilor Căzuți de la Șantier, cu cele trei cruci masive, onorează victimele represiunilor din 1970.",
+      "În perioada sa de vârf, aici lucrau simultan peste 17.000 de muncitori pentru a construi nave masive sovietice.",
+      "Papa Ioan Paul al II-lea a vizitat acest loc istoric în 1987 pentru a susține moral mișcarea democratică.",
+      "Acordul de la Gdańsk a fost primul document semnat care a permis sindicate independente în blocul estic."
+    ]
+  },
+  "kid-landmark-sopot-pier-extra": {
+    "description": "Digul Sopot (Molo) este un simbol iconic și cea mai romantică atracție a Mării Baltice, fiind cel mai lung dig din lemn din Europa. Pășind pe promenada sa de jumătate de kilometru deasupra apei, vizitatorii se bucură de o perspectivă spectaculoasă asupra plajelor albe din Sopot și a luxosului Grand Hotel. Construit inițial în anii 1820 de un doctor pentru proprietățile aerului bogat în iod marin, digul a evoluat într-un punct central al vieții mondene interbelice și contemporane. Seara, luminile care se reflectă în valurile mării creează o atmosferă de neuitat. (Turism K6 — Arhitectura balneară istorică a Europei)",
+    "facts": [
+      "Digul principal măsoară oficial o lungime impresionantă de exact 511,5 metri, pătrunzând adânc în Marea Baltică.",
+      "La extremitatea sa, concentrația de iod din aer este de două ori mai mare decât pe plaja însăși.",
+      "Pe parcursul anilor de iarnă extrem de grei, bucăți masive ale digului au fost distruse repetat de furtuni înghețate.",
+      "Micul port de la capătul digului găzduiește azi iachturi exclusiviste și competiții naționale de navigație cu vele."
+    ]
   }
-]
+}

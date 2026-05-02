@@ -1,5 +1,4 @@
 import type { POI } from "./poi";
-
 export const vaticanCountry: POI = {
   id: "country-vatican",
   type: "country",

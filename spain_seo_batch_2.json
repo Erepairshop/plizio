@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ES-VA",
+    "descriptionAdvanced": "Valladolid is a prominent province located in the heart of the Castile and León region in northwestern Spain. Historically, its capital city of the same name served briefly as the capital of the Spanish Empire under King Philip III. The province is characterized by its expansive plains and is divided by the Pisuerga and Douro rivers. It is highly celebrated for its rich agricultural heritage, particularly its world-renowned wine regions such as Ribera del Duero, Rueda, and Toro. Visitors can explore a wealth of Renaissance architecture, majestic castles, and centuries-old cultural traditions throughout the area.",
+    "factsAdvanced": [
+      "Served as the capital of the Spanish Empire from 1601 to 1606.",
+      "Home to the University of Valladolid, one of the oldest universities in Europe, established in 1241.",
+      "Features five distinct Denominaciones de Origen (DO) for wine, including Ribera del Duero and Rueda.",
+      "The famous explorer Christopher Columbus died in the city of Valladolid on May 20, 1506."
+    ]
+  },
+  {
+    "id": "ES-ZA",
+    "descriptionAdvanced": "Zamora is a tranquil province located in western Spain near the border with Portugal, part of the autonomous community of Castile and León. The landscape is defined by the sweeping Castilian plateau and the majestic Douro River, which cuts through its historic capital. Zamora is renowned for its exceptional concentration of Romanesque architecture, earning its capital the title Museum of Romanesque Art. The region also boasts a deep cultural heritage, epitomized by its solemn and historic Holy Week (Semana Santa) celebrations. Surrounding the urban centers, the countryside features stunning natural parks and traditional agricultural communities.",
+    "factsAdvanced": [
+      "The capital city boasts 24 Romanesque churches from the 12th and 13th centuries, the most in any European city.",
+      "The province covers an area of approximately 10,561 square kilometers.",
+      "The Battle of Golpejera took place in the province in 1072.",
+      "Sanabria Lake, located in northwestern Zamora, is the largest glacial lake in the Iberian Peninsula."
+    ]
+  },
+  {
+    "id": "ES-B",
+    "descriptionAdvanced": "The province of Barcelona is nestled in the central coastal area of Catalonia, offering a dynamic blend of Mediterranean coastline and mountainous hinterlands. Its diverse geography ranges from the sandy beaches of the Costa Barcelona to the jagged peaks of the Montserrat mountain range. As the economic and cultural engine of Catalonia, the province boasts a deep history dating back to Roman settlements and flourishing through the industrial revolution. Beyond the bustling capital, it features charming medieval villages, robust wine-producing regions like Penedès, and a vibrant artistic legacy heavily influenced by Modernisme. The province provides an unparalleled mix of urban sophistication and natural beauty.",
+    "factsAdvanced": [
+      "Encompasses an area of 7,728 square kilometers in the Catalonia region.",
+      "Contains the Montserrat mountain range, home to the Santa Maria de Montserrat abbey founded in the 11th century.",
+      "The Penedès region within the province is the primary production area for Cava, Spanish sparkling wine.",
+      "The province's population exceeds 5.7 million people, making it one of the most populous in Spain."
+    ]
+  },
+  {
+    "id": "ES-GI",
+    "descriptionAdvanced": "Girona is the northeasternmost province of Catalonia, stretching from the Pyrenees mountains down to the rugged Mediterranean coastline known as the Costa Brava. Its geography is highly varied, featuring volcanic landscapes in La Garrotxa and pristine coastal coves that have inspired countless artists. The region's history is remarkably well-preserved, with its capital city boasting one of Europe's most intact medieval Jewish quarters. Girona seamlessly blends its ancient Roman and medieval heritage with a modern reputation for world-class gastronomy and cycling culture. It is a captivating destination that offers deep cultural immersion alongside breathtaking natural scenery.",
+    "factsAdvanced": [
+      "The Costa Brava stretches for over 200 kilometers along the province's Mediterranean coast.",
+      "Salvador Dalí was born in the province's town of Figueres in 1904, which now hosts the Dalí Theatre-Museum.",
+      "The Call (Jewish Quarter) in Girona's capital flourished from the 12th to the 15th centuries.",
+      "La Garrotxa Volcanic Zone Natural Park contains over 40 inactive volcanoes."
+    ]
+  },
+  {
+    "id": "ES-L",
+    "descriptionAdvanced": "Lleida is the only landlocked province in the autonomous community of Catalonia, serving as a gateway between the Mediterranean coast and the towering peaks of the Pyrenees. Its varied topography includes the fertile plains of the Segrià region and the dramatic, high-altitude landscapes of the Val d'Aran. Historically, Lleida has been a vital agricultural hub and a strategic crossroads, bearing the marks of Iberian, Roman, and Moorish influences. The province is highly celebrated for its spectacular Romanesque architecture, particularly the churches of the Boí Valley. Today, it remains a premier destination for winter sports, adventure tourism, and agricultural exports.",
+    "factsAdvanced": [
+      "Features Aigüestortes i Estany de Sant Maurici, the only National Park in Catalonia, established in 1955.",
+      "The Catalan Romanesque Churches of the Vall de Boí were designated a UNESCO World Heritage site in 2000.",
+      "Baqueira-Beret, located in the province, is one of Spain's largest and most visited ski resorts.",
+      "The province covers a vast area of 12,172 square kilometers."
+    ]
+  },
+  {
+    "id": "ES-T",
+    "descriptionAdvanced": "Located in the southern part of Catalonia, the province of Tarragona offers a captivating mix of golden Mediterranean beaches and richly historical landscapes. Its expansive coastline, famously known as the Costa Dorada, draws visitors with its mild climate and fine sandy shores. The province's inland areas are characterized by fertile vineyards and rugged mountains, supporting a strong agricultural tradition. Tarragona's history is deeply intertwined with the Roman Empire, as its capital was once one of the most important Roman cities in the Iberian Peninsula. Today, it seamlessly merges its ancient ruins, vibrant wine culture, and thriving modern tourism industry.",
+    "factsAdvanced": [
+      "The ancient Roman ruins of Tarraco were designated a UNESCO World Heritage site in 2000.",
+      "Priorat, a comarca within the province, is one of only two wine regions in Spain to hold the prestigious DOCa qualification.",
+      "PortAventura World, opened in 1995, is the most visited theme park in Spain and is located in the province.",
+      "The Roman amphitheater in the capital was built in the 2nd century AD and could hold up to 15,000 spectators."
+    ]
+  },
+  {
+    "id": "ES-BA",
+    "descriptionAdvanced": "Badajoz is the largest province in Spain, situated in the western part of the autonomous community of Extremadura and sharing a long border with Portugal. Its sweeping geography is dominated by vast plains, gentle rolling hills, and the significant Guadiana River basin. Historically, it has been a crucial frontier and military stronghold, marked by numerous castles, fortresses, and ancient Roman outposts scattered across the landscape. The region has a deeply rooted agricultural economy, famous for its Iberian pigs which roam the extensive oak forests (dehesas). With its blend of historic border towns and rich culinary traditions, Badajoz offers an authentic and unspoiled Spanish experience.",
+    "factsAdvanced": [
+      "With an area of 21,766 square kilometers, it is the largest province in Spain by landmass.",
+      "The city of Mérida, located in the province, features a Roman theatre built in 16 to 15 BC.",
+      "Mérida's Archaeological Ensemble was declared a UNESCO World Heritage Site in 1993.",
+      "The province is a premier producer of Jamón Ibérico, utilizing its extensive oak dehesas for free-ranging pigs."
+    ]
+  },
+  {
+    "id": "ES-CC",
+    "descriptionAdvanced": "Cáceres is a historic and expansive province in the northern half of Extremadura, characterized by a diverse landscape of mountains, deep river valleys, and verdant forests. The region is heavily influenced by the Tagus River, which cuts through its territory and supports a rich variety of flora and fauna. Historically, Cáceres was a land of conquerors, and its medieval towns are remarkably well-preserved, showcasing a blend of Roman, Moorish, Gothic, and Renaissance architecture. The province is also known for its pristine natural reserves, such as Monfragüe National Park, which protects vital Mediterranean ecosystems. It remains a deeply traditional region, celebrated for its unique gastronomy and breathtaking historical centers.",
+    "factsAdvanced": [
+      "The Old Town of Cáceres was designated a UNESCO World Heritage site in 1986 due to its blend of architectural styles.",
+      "Monfragüe National Park, established in 2007, is a premier site for observing Iberian birds of prey.",
+      "The province covers an area of 19,868 square kilometers, making it the second-largest in Spain.",
+      "The Royal Monastery of Santa María de Guadalupe in Cáceres was founded in the 14th century and is a UNESCO site."
+    ]
+  },
+  {
+    "id": "ES-C",
+    "descriptionAdvanced": "A Coruña is a dynamic coastal province located in the extreme northwest of Spain within the autonomous community of Galicia. Its dramatic geography is defined by a jagged Atlantic coastline featuring deep estuaries known as rías, rugged cliffs, and lush green inland valleys. The province has a rich maritime history, heavily influenced by Celtic traditions and centuries of seafaring and fishing. It holds profound spiritual and cultural significance as the ultimate destination of the Camino de Santiago, drawing pilgrims from around the world to its historic capital, Santiago de Compostela. The region blends its deep-rooted myths, legendary seafood gastronomy, and ancient stone architecture into a uniquely Galician experience.",
+    "factsAdvanced": [
+      "The Tower of Hercules, a UNESCO World Heritage site, is the world's oldest extant lighthouse, built in the 1st century AD.",
+      "Santiago de Compostela's Old Town has been a UNESCO World Heritage site since 1985.",
+      "Cape Finisterre in the province was believed by the Romans to be the end of the known world.",
+      "The province has over 950 kilometers of coastline along the Atlantic Ocean."
+    ]
+  },
+  {
+    "id": "ES-LU",
+    "descriptionAdvanced": "Lugo is a province in northeastern Galicia, offering a stunning contrast between its northern Atlantic coastline and its mountainous, heavily forested interior. The region is celebrated for its lush, green landscapes and significant nature reserves, including the Ancares and Courel mountain ranges. Historically, it holds deep Roman and Celtic roots, most famously exemplified by the remarkably intact Roman walls encircling its capital city. Lugo maintains a strong agricultural and pastoral tradition, heavily tied to the production of high-quality dairy and meats. Visitors are captivated by its quiet, mystical atmosphere, ancient castros (Celtic settlements), and profound natural beauty.",
+    "factsAdvanced": [
+      "The Roman Walls of Lugo were built in the 3rd century and span over 2 kilometers, becoming a UNESCO site in 2000.",
+      "Playa de las Catedrales (Beach of the Cathedrals) features spectacular natural rock arches up to 30 meters high.",
+      "The province covers 9,856 square kilometers and is the largest province in Galicia by area.",
+      "The Miño River, the longest river in Galicia, has its source in the province of Lugo."
+    ]
+  },
+  {
+    "id": "ES-OR",
+    "descriptionAdvanced": "Ourense is the only landlocked province in the Galicia region of northwestern Spain, renowned for its dramatic river canyons and abundant thermal springs. The landscape is carved by the powerful Miño and Sil rivers, creating the spectacular Ribeira Sacra region, characterized by steep terraced vineyards and ancient monasteries. Historically, the province has been a significant center since Roman times, largely due to its natural hot springs which are still enjoyed today. Ourense's economy and culture are deeply tied to its unique microclimates, producing some of Spain's most distinctive inland wines. It is a tranquil and deeply historic region, steeped in Galician folklore and medieval heritage.",
+    "factsAdvanced": [
+      "The capital city, Ourense, is famous for its As Burgas thermal springs, which can reach temperatures of 67°C (153°F).",
+      "The Ribeira Sacra region is home to one of the largest concentrations of Romanesque monasteries in Europe.",
+      "The province borders Portugal to the south and covers an area of 7,273 square kilometers.",
+      "Wine production in the region dates back to the Roman era, over 2,000 years ago."
+    ]
+  },
+  {
+    "id": "ES-PO",
+    "descriptionAdvanced": "Pontevedra is a vibrant coastal province in southwestern Galicia, celebrated for its stunning Rías Baixas, a series of deep, estuarine inlets along the Atlantic Ocean. This deeply indented coastline creates a unique maritime environment that supports some of the richest fishing and aquaculture in the world, particularly for mussels and seafood. The region's history is steeped in seafaring traditions, ancient Celtic settlements, and trade, with historic stone towns dotting the lush, green landscape. Pontevedra is also famous for its production of Albariño white wine, benefiting from the mild, damp maritime climate. It offers a perfect synthesis of pristine beaches, rich gastronomy, and well-preserved Galician culture.",
+    "factsAdvanced": [
+      "The Rías Baixas region is world-renowned for its Albariño wine production, a distinctively crisp white wine.",
+      "The Atlantic Islands of Galicia National Park, located off the coast, was established in 2002.",
+      "The capital city, Pontevedra, has won multiple international awards for its pedestrian-friendly urban planning since 1999.",
+      "The province is a major global producer of mussels, cultivated on thousands of platforms called bateas in the rías."
+    ]
+  },
+  {
+    "id": "ES-BI",
+    "descriptionAdvanced": "Biscay is a dynamic province in the Basque Country of northern Spain, characterized by its rugged coastline along the Bay of Biscay and heavily forested, mountainous interior. The province underwent massive industrialization in the 19th and 20th centuries, deeply shaping its modern landscape, economy, and urban centers. Today, it successfully blends this industrial heritage with cutting-edge modern architecture, most notably in its rejuvenated capital, Bilbao. The region maintains a fierce pride in its unique Basque culture, language (Euskara), and world-class culinary traditions, including the famous pintxos. Biscay offers a striking contrast between dramatic natural scenery and progressive, vibrant urban life.",
+    "factsAdvanced": [
+      "The Guggenheim Museum Bilbao, designed by Frank Gehry, opened in 1997 and transformed the region's economy.",
+      "The Vizcaya Bridge, completed in 1893, is the world's oldest transporter bridge and a UNESCO World Heritage site.",
+      "The province covers an area of 2,217 square kilometers.",
+      "The historic Oak of Guernica, located in the province, is a traditional symbol of Basque freedoms and rights."
+    ]
+  },
+  {
+    "id": "ES-SS",
+    "descriptionAdvanced": "Gipuzkoa is the smallest province in Spain, nestled in the Basque Country between the Bay of Biscay and the Pyrenees mountains on the French border. Despite its small size, it boasts a diverse geography of dramatic coastal cliffs, sheltered bays, and intensely green, mountainous valleys. The region is a powerhouse of Basque culture and gastronomy, home to an extraordinary concentration of Michelin-starred restaurants and private culinary societies (txokos). Historically, Gipuzkoa has been a region of maritime explorers, shipbuilders, and industrialists, retaining a strong, wealthy, and highly traditional society. Its capital, San Sebastián, is world-renowned for its elegant Belle Époque architecture and spectacular urban beaches.",
+    "factsAdvanced": [
+      "With an area of just 1,980 square kilometers, it is the smallest province in Spain by landmass.",
+      "San Sebastián's La Concha beach is frequently ranked as one of the best urban beaches in Europe.",
+      "The Basque Culinary Center, a pioneering academic institution in gastronomy, is located in the province.",
+      "The explorer Juan Sebastián Elcano, who completed the first circumnavigation of the Earth in 1522, was born in Getaria, Gipuzkoa."
+    ]
+  },
+  {
+    "id": "ES-VI",
+    "descriptionAdvanced": "Álava is the southernmost and largest province of the Basque Country, contrasting sharply with its coastal northern neighbors due to its inland, transitionary climate and geography. The terrain ranges from the forested mountains of the north to the broad, sweeping plains and vineyards of the Ebro River valley in the south. It holds a rich historical legacy, with well-preserved medieval towns, ancient dolmens, and a capital, Vitoria-Gasteiz, that boasts a remarkable concentric medieval layout. The southern region of the province, Rioja Alavesa, is globally celebrated for producing some of the finest wines in Spain. Álava is deeply committed to environmental sustainability and seamlessly merges its rich agricultural traditions with modern industry.",
+    "factsAdvanced": [
+      "Vitoria-Gasteiz, the capital, was named the European Green Capital in 2012 for its extensive parks and sustainability efforts.",
+      "The province covers 3,037 square kilometers, making it the largest in the Basque Country.",
+      "The Rioja Alavesa sub-region has over 13,000 hectares dedicated to high-quality wine production.",
+      "The Salt Valley of Añana features one of the oldest salt production complexes in the world, dating back over 6,500 years."
+    ]
+  },
+  {
+    "id": "ES-A",
+    "descriptionAdvanced": "Alicante is a vibrant coastal province in the southern part of the Valencian Community, renowned globally for the spectacular beaches of the Costa Blanca. Its geography is characterized by a stark contrast between the sun-drenched Mediterranean coastline and a rugged, mountainous interior dotted with historic Moorish castles. The region's history reflects a deep Islamic influence, visible in its agriculture, architecture, and lively local festivals. Economically, Alicante thrives on international tourism, footwear manufacturing, and the cultivation of citrus, almonds, and traditional nougat (turrón). It offers an inviting climate, rich cultural tapestry, and breathtaking coastal landscapes that attract millions of visitors annually.",
+    "factsAdvanced": [
+      "The Costa Blanca stretches for over 200 kilometers along the Mediterranean Sea.",
+      "The Palmeral of Elche, a massive date palm orchard with over 200,000 trees, was declared a UNESCO site in 2000.",
+      "The Castillo de Santa Bárbara in the capital sits on Mount Benacantil at 166 meters above sea level.",
+      "Alicante is the fourth most populous province in Spain, with over 1.9 million residents."
+    ]
+  },
+  {
+    "id": "ES-CS",
+    "descriptionAdvanced": "Castellón is the northernmost province of the Valencian Community, offering a dramatic blend of expansive Mediterranean beaches and the second most mountainous interior of any Spanish province. The coastline, known as the Costa del Azahar (Orange Blossom Coast), features bustling resort towns and historic seaports. Inland, the rugged Maestrazgo mountains hide beautifully preserved medieval villages, ancient Templar castles, and deep pine forests. The region boasts a rich history shaped by Iberian, Roman, and Moorish cultures, heavily relying on agriculture, particularly citrus, and a booming ceramic tile industry. Castellón provides a quieter, more authentic Mediterranean experience balancing coastal relaxation with rugged mountain exploration.",
+    "factsAdvanced": [
+      "The province is one of the world's leading producers of ceramic tiles, centered around the town of Vila-real.",
+      "Peñíscola Castle, built by the Knights Templar between 1294 and 1307, was later a papal residence for Antipope Benedict XIII.",
+      "The Costa del Azahar extends for approximately 112 kilometers along the Mediterranean.",
+      "The Columbretes Islands, a volcanic archipelago off the coast, were declared a Nature Reserve in 1988."
+    ]
+  },
+  {
+    "id": "ES-V",
+    "descriptionAdvanced": "Valencia is a dynamic province situated in the center of the Valencian Community, featuring a broad, fertile coastal plain that transitions into a rugged mountainous hinterland. The province is defined by the extensive Huerta de Valencia, a historic irrigated agricultural area famously producing the rice for authentic Valencian paella. Its deep history spans Roman foundation, a golden age of Islamic culture, and a powerful medieval Kingdom of Valencia, all of which heavily influence its architecture and traditions. Today, it balances its rich historical legacy, exemplified by the Fallas festival, with cutting-edge modern attractions like the City of Arts and Sciences. Valencia is a vibrant economic and cultural hub of the Mediterranean coast.",
+    "factsAdvanced": [
+      "The Silk Exchange (La Lonja de la Seda), a masterpiece of late Gothic architecture, became a UNESCO site in 1996.",
+      "The Albufera freshwater lagoon, located just south of the capital, is the birthplace of the traditional dish Paella.",
+      "The annual Fallas festival in March was added to UNESCO's intangible cultural heritage list in 2016.",
+      "The province has a population of over 2.6 million people, centered around Spain's third-largest city."
+    ]
+  },
+  {
+    "id": "ES-MAD",
+    "descriptionAdvanced": "Madrid is the sprawling, dynamic capital city of Spain, situated in the geographic center of the Iberian Peninsula. Located on the Manzanares River, the city was elevated to capital status in the 16th century by King Philip II, sparking centuries of monumental architectural and cultural growth. It is a city of elegant boulevards, expansive manicured parks like El Retiro, and grand historic plazas that reflect its imperial past. Madrid is an unparalleled cultural epicenter, hosting world-renowned art institutions that form the prestigious Golden Triangle of Art. The city is celebrated for its legendary nightlife, vibrant neighborhoods, and deep-rooted traditions, making it the energetic heart of modern Spain.",
+    "factsAdvanced": [
+      "Madrid is the highest capital city in the European Union, situated at an elevation of 660 meters (2,165 feet).",
+      "The Prado Museum, opened in 1819, houses one of the world's finest collections of European art.",
+      "The Royal Palace of Madrid is the largest functioning royal palace in Western Europe, featuring over 3,400 rooms.",
+      "The city was officially established as the capital of Spain in 1561."
+    ]
+  },
+  {
+    "id": "ES-BCN",
+    "descriptionAdvanced": "Barcelona is the cosmopolitan capital city of the Catalonia region, beautifully situated between the Mediterranean Sea and the Collserola mountain range. The city's geography is defined by its sweeping coastline, the iconic Montjuïc hill, and a meticulously planned grid-like district known as the Eixample. It boasts a deep history dating back to Roman Barcino, progressing through a powerful maritime era, and exploding into the modern age with the distinctive architectural works of Antoni Gaudí. Barcelona is a global hub for art, fashion, gastronomy, and tech, characterized by its fierce Catalan identity and vibrant street life. It remains one of the most culturally influential and heavily visited cities in Europe.",
+    "factsAdvanced": [
+      "The Sagrada Família, designed by Antoni Gaudí, has been under construction since 1882.",
+      "The city hosted the highly successful 1992 Summer Olympics, which dramatically transformed its waterfront and infrastructure.",
+      "The Eixample district was designed by Ildefons Cerdà in 1859 and is famous for its octagonal city blocks.",
+      "The city has a population of roughly 1.6 million within its administrative limits, making it Spain's second-largest city."
+    ]
+  },
+  {
+    "id": "ES-ALH",
+    "descriptionAdvanced": "The Alhambra is a breathtaking palace and fortress complex strategically located on the al-Sabika hill overlooking the city of Granada in Andalusia. Originally constructed as a small fortress in the 9th century, it was transformed into a magnificent royal palace in the 13th century by the Nasrid dynasty, the last Muslim rulers in Spain. The complex is a masterpiece of Moorish architecture, featuring intricate stucco work, stunning tile mosaics, and harmoniously proportioned courtyards. It is completely integrated with its natural surroundings, utilizing the water from the nearby Sierra Nevada mountains to feed its lush gardens and iconic reflecting pools. The Alhambra stands as a poignant symbol of Al-Andalus and remains one of the most profound architectural treasures in the world.",
+    "factsAdvanced": [
+      "The site was designated a UNESCO World Heritage site in 1984, alongside the Generalife and the Albaicín.",
+      "The Court of the Lions features an iconic alabaster basin supported by 12 marble lions, built in the 14th century.",
+      "After the Christian Reconquista in 1492, it became the Royal Court of Ferdinand and Isabella.",
+      "The complex spans approximately 35 acres (142,000 square meters) and is surrounded by 2,000 meters of protective walls."
+    ]
+  },
+  {
+    "id": "ES-TEI",
+    "descriptionAdvanced": "Mount Teide is a magnificent active volcano located in the center of Tenerife in the Canary Islands. Rising dramatically from the floor of a massive ancient caldera, its surrounding landscape features surreal volcanic rock formations, rivers of petrified lava, and unique high-altitude flora. Teide holds deep mythological significance for the indigenous Guanche people, who believed it was the home of a powerful deity. The volcano and its surrounding national park create a spectacular and otherworldly environment that frequently serves as a location for scientific research and astrotourism. It is a defining natural monument of Spain, offering breathtaking views that stretch across the Atlantic archipelago on clear days.",
+    "factsAdvanced": [
+      "At 3,715 meters (12,188 feet) above sea level, it is the highest peak in Spain and the highest point above sea level in the islands of the Atlantic.",
+      "Measured from its base on the ocean floor, it is the third-highest volcano on Earth at 7,500 meters.",
+      "Teide National Park was declared a UNESCO World Heritage Site in 2007.",
+      "The volcano is currently dormant, with its last historic eruption occurring in 1909 from the El Chinyero vent."
+    ]
+  }
+]

@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraNicaraguaCitiesV2 } from "./poiExtraNicaraguaCitiesV2";
+import { poiExtraNicaraguaEconomicV2 } from "./poiExtraNicaraguaEconomicV2";
+import { poiExtraNicaraguaHistoryV2 } from "./poiExtraNicaraguaHistoryV2";
+import { poiExtraNicaraguaLandmarksV2 } from "./poiExtraNicaraguaLandmarksV2";
+import { poiExtraNicaraguaLifeV2 } from "./poiExtraNicaraguaLifeV2";
+import { poiExtraNicaraguaNatureV2 } from "./poiExtraNicaraguaNatureV2";
+import { poiExtraNicaraguaReliefV2 } from "./poiExtraNicaraguaReliefV2";
 
 export const nicaraguaCountry: POI[] = [];
 export const nicaraguaRegions: POI[] = [];
@@ -806,4 +813,4 @@ export const nicaraguaLandmarks: POI[] = [
   }
 ];
 
-export const nicaraguaAllPoi: POI[] = [...nicaraguaCountry, ...nicaraguaRegions, ...nicaraguaCities, ...nicaraguaLandmarks];
+export const nicaraguaAllPoi: POI[] = [...nicaraguaCountry, ...nicaraguaRegions, ...nicaraguaCities, ...nicaraguaLandmarks, ...poiExtraNicaraguaCitiesV2, ...poiExtraNicaraguaEconomicV2, ...poiExtraNicaraguaHistoryV2, ...poiExtraNicaraguaLandmarksV2, ...poiExtraNicaraguaLifeV2, ...poiExtraNicaraguaNatureV2, ...poiExtraNicaraguaReliefV2];

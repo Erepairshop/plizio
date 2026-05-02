@@ -1,5 +1,4 @@
 import { POI } from "./poi";
-
 export const moldovaAllPoi: POI[] = [
   // --- Főváros és Városok ---
   {

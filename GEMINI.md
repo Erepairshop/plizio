@@ -202,3 +202,19 @@ Ezek a hibák ismétlődtek és AUTO-REJECT-et okoznak — ha bármelyiket láto
 - De: umlaut (ä ö ü ß). NE "Muenchen" / NE "Kreuzberg" → München / Kreuzberg.
 - Ro: diakritika (ă â î ș ț). NE "Bucuresti" → București.
 - En: tiszta ASCII OK, de őrizd meg az idegen neveket ha releváns (München maradhat EN-szövegben ha a POI-nak az a hivatalos angol neve).
+
+### TILOS SYNTAX-KORRUPCIÓ A FÁJLBAN
+Nemrég 49 POI fájlban a Flash gemini ezeket a hibákat termelte (ne ismételd):
+- **Literál `\n` karakterek** a fájlban (escape-elt newline-ok, nem valódi sortörés). ROSSZ: `import type { POI } from "./poi";\n\nexport const ...` egy sorban. JÓ: rendes többsoros file valódi `\n`-ekkel.
+- **Sztennyező szöveg a fájlban**: `file_path: "..."`, `ergonomic_write_file=true` és hasonló tool-marker szövegek BENNRAGADTAK a TS-fájlban. SOHA ne írj olyat amit a tool számára szánsz a fájlba.
+- **Hiányzó vessző két objektum között**, tipikus: `}\n  {\n    id: ...` (helyes: `},\n  {\n    id: ...`).
+- **Lezáratlan string literál**: pl. `description: { de: "ez `, sortörés közepén lezárás nélkül.
+- **Felesleges `]` vagy `}`** a fájl végén a `];` után.
+
+### KÖTELEZŐ FÁJL-VÉGI SYNTAX CHECK
+Mielőtt write_file: gondold át mentálisan az **első és utolsó 5 sort**:
+1. Első sor: `import type { POI } from "./poi";` (valódi újsorral)
+2. Második sor: üres
+3. Harmadik sor: `export const poiExtra<Country><Layer>V2: POI[] = [`
+4. Utolsó sor: `];` (semmi extra utána)
+Ha ez nem stimmel → ne mentsd, írd újra.

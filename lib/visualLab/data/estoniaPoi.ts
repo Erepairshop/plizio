@@ -73,6 +73,30 @@ const estoniaAllPoiBase: POI[] = [
         "Language: Estonian is closely related to Finnish and distantly to Hungarian."
       ]
     },
+    factsAdvanced: {
+      de: [
+        "Estland hat das weltweit höchste Pro-Kopf-Aufkommen an E-Government-Diensten.",
+        "Über 2.000 Inseln gehören zum Staatsgebiet Estlands in der Ostsee.",
+        "Das Land belegt regelmäßig Spitzenplätze bei PISA-Studien in Europa.",
+        "Fast 50% der estnischen Landesfläche sind von Wald bedeckt.",
+        "Estland war 1991 das erste Land, das Online-Wahlen auf nationaler Ebene abhielt."
+      ],
+      hu: [
+        "Észtország a világ egyik legfejlettebb digitális állama, ahol szinte minden ügyintézés online zajlik.",
+        "Az ország területének több mint felét sűrű erdők borítják, így Európa egyik legzöldebb nemzete.",
+        "Több mint 2000 sziget tartozik az országhoz, amelyek közül Saaremaa és Hiiumaa a legnagyobbak.",
+        "Az észt diákok rendszeresen a legjobb eredményeket érik el az európai PISA-méréseken.",
+        "Észtország volt az első ország a világon, ahol országos szinten bevezették az online szavazást."
+      ],
+      ro: [],
+      en: [
+        "Estonia is the first country in the world to implement nationwide online voting in 2005.",
+        "About 50% of the country's territory is covered by forests, making it one of the greenest nations in Europe.",
+        "The country has over 2,200 islands and islets scattered along its coastline in the Baltic Sea.",
+        "Estonia is home to two UNESCO World Heritage sites: the Historic Centre of Tallinn and the Struve Geodetic Arc.",
+        "The Estonian language is part of the Finno-Ugric group, making it closely related to Finnish but distinct from Baltic or Slavic languages."
+      ]
+    },
     image: "/images/visualLab/estonia/country.jpg"
   },
   {
@@ -115,7 +139,13 @@ const estoniaAllPoiBase: POI[] = [
         "Rund 45% der Einwohner Tallinns sind nicht-estnischer Herkunft, hauptsächlich russisch.",
         "Tallinn ist der Geburtsort von Technologie-Giganten wie Skype und Wise (früher TransferWise)."
       ],
-      hu: [],
+      hu: [
+        "Az óvárost körülvevő eredeti városfal hossza megközelíti a 2 kilométert.",
+        "Tallinn 2011-ben Európa Kulturális Fővárosa volt.",
+        "A regisztrált lakosok számára 2013 óta ingyenes a tömegközlekedés.",
+        "A Szent Olaf-templom a 16. században valószínűleg a világ legmagasabb épülete volt.",
+        "A 314 méter magas Tallinni tévétorony Észtország legmagasabb építménye."
+      ],
       ro: [
         "Zidul orașului vechi are o lungime de aproape 2 km și este aproape complet intact.",
         "Tallinn a fost Capitală Europeană a Culturii în 2011.",
@@ -126,7 +156,13 @@ const estoniaAllPoiBase: POI[] = [
         "Aproximativ 45% dintre locuitorii Tallinnului nu sunt de origine estonă, majoritatea fiind ruși.",
         "Tallinn este locul de naștere al unor giganți tehnologici precum Skype și Wise."
       ],
-      en: []
+      en: [
+        "Tallinn's Old Town was added to the UNESCO World Heritage list in 1997 for its exceptionally intact 13th-century city structure.",
+        "The city's defensive system includes nearly 2 kilometers of original limestone walls and 20 remaining towers.",
+        "Tallinn was once the location of the world's tallest building, St. Olaf's Church, during the 16th century.",
+        "The city is often referred to as the 'Silicon Valley of Europe' due to its high number of successful startups per capita.",
+        "Raekoja plats (Town Hall Square) has been the heart of the city's social and commercial life for over 800 years."
+      ]
     },
     image: "/images/visualLab/estonia/tallinn.jpg"
   },
@@ -149,7 +185,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Tartu, die zweitgrößte Stadt Estlands, gilt als das Herz und die Seele des estnischen Geisteslebens. Dominiert von der prestigeträchtigen Universität Tartu, die 1632 gegründet wurde, versprüht die Stadt eine jugendliche und intellektuelle Atmosphäre. Der Emajõgi-Fluss (Embach) fließt gemächlich durch das Zentrum und teilt die Stadt in zwei Hälften. Das historische Zentrum besticht durch klassizistische Architektur, insbesondere am Rathausplatz, wo sich das berühmte 'Küssende Studenten'-Brunnen-Denkmal befindet. Über der Stadt thronen die Ruinen der gotischen Domkirche auf dem Domberg, die heute das Universitätsmuseum beherbergen. Tartu ist eine Stadt der Museen, Theater und kreativen Viertel wie dem 'Suppenviertel' (Supilinn). Als Kulturhauptstadt Europas 2024 unterstreicht Tartu seine Bedeutung als dynamisches Zentrum für Kunst und Wissenschaft. Die Stadt ist eine Brutstätte für neue Ideen und bietet eine entspannte Alternative zum geschäftigen Tallinn, voller Charme und intellektueller Neugier.",
-      hu: "",
+      hu: "Tartu, Észtország második legnagyobb városa, az ország szellemi és kulturális szívének számít. A várost az 1632-ben alapított tekintélyes Tartui Egyetem uralja, amely fiatalos és intellektuális légkört áraszt a történelmi falak között. Az Emajõgi folyó komótosan szeli át a központot, festői partjaival és hídjaival különleges bájt kölcsönözve a településnek. A Városháza tér a klasszicista építészetével és a híres „Csókolózó diákok” szökőkútjával a közösségi élet központja. A Toomemägi dombon álló gótikus katedrális romjai és a régi csillagvizsgáló az ország tudományos múltjába engednek betekintést. Tartu 2024-ben Európa Kulturális Fővárosaként bizonyítja, hogy a művészet és a tudomány dinamikus találkozóhelye.",
       ro: "Tartu, al doilea oraș ca mărime din Estonia, este considerat inima intelectuală și culturală a țării. Dominat de prestigioasa Universitate din Tartu, fondată în 1632, orașul emană o atmosferă vibrantă și tânără. Râul Emajõgi, care traversează centrul, adaugă un farmec pitoresc, cu podurile și promenadele sale. Piața Primăriei, cu clădirea sa neoclasică și fântâna cu statuia studenților care se sărută, este un punct de atracție major. Dealul Toomemägi, cu ruinele catedralei gotice și vechiul observator, oferă o incursiune în istoria orașului. Tartu a fost desemnat Capitală Europeană a Culturii în 2024, subliniind rolul său de centru dinamic pentru artă, știință și inovație. Cartierul creativ Aparaaditehas și numeroasele muzee, precum Muzeul Național Estonian, completează oferta culturală bogată a acestui oraș plin de farmec.",
       en: "Tartu, Estonia's second-largest city, is widely regarded as the country's intellectual and cultural heart. Dominated by the prestigious University of Tartu, founded in 1632, the city exudes a vibrant and youthful atmosphere. The Emajõgi River flows through its center, adding to its picturesque charm with its bridges and promenades. The Town Hall Square, with its neoclassical town hall and the iconic 'Kissing Students' fountain, is a major focal point. Toomemägi (Cathedral Hill), with the ruins of a Gothic cathedral and the Old Observatory, offers a journey into the city's past. Tartu has been designated the European Capital of Culture for 2024, highlighting its role as a dynamic center for art, science, and innovation. The Aparaaditehas creative city and numerous museums, such as the Estonian National Museum, complete the rich cultural offering of this charming city."
     },
@@ -170,7 +206,13 @@ const estoniaAllPoiBase: POI[] = [
         "Im Frühling findet ein studentisches Festival statt, das die ganze Stadt belebt.",
         "Der botanische Garten der Universität Tartu ist der älteste in den baltischen Staaten (gegr. 1803)."
       ],
-      hu: [],
+      hu: [
+        "A Tartui Egyetem Észak-Európa egyik legrégebbi felsőoktatási intézménye.",
+        "A várost gyakran emlegetik a „jó gondolatok városaként”.",
+        "A Tartui ferde ház dőlésszöge nagyobb, mint a pisai ferde toronyé.",
+        "It található az AHHAA Tudományos Központ, a Baltikum legnagyobb ilyen intézménye.",
+        "Az Észt Nemzeti Múzeum lenyűgöző modern épülete a város szélén kapott helyet."
+      ],
       ro: [
         "Universitatea din Tartu este una dintre cele mai vechi din Europa de Nord, fondată în 1632 de regele Gustav II Adolf al Suediei.",
         "Tartu poartă titlul de 'Orașul Gândurilor Bune'.",
@@ -213,7 +255,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Pärnu, liebevoll als 'Sommerhauptstadt' Estlands bezeichnet, ist der führende Bade- und Kurort des Landes. Gelegen an der Mündung des Flusses Pärnu in die Rigaer Bucht, lockt die Stadt mit ihrem langen, weißen Sandstrand und der flachen, warmen Bucht jedes Jahr Tausende von Besuchern an. Die Stadt hat eine lange Tradition als Kurort, die bis ins 19. Jahrhundert zurückreicht, was sich in den eleganten Holzvillen und dem historischen Schlammbad widerspiegelt. Die von Bäumen gesäumte Rüütli-Straße ist das Herz der Innenstadt mit charmanten Cafés und Geschäften. Neben dem Strandleben bietet Pärnu auch eine lebendige Kulturszene mit Festivals, Konzerten und Kunstgalerien. Die malerische Promenade und die Seebrücke sind perfekte Orte für abendliche Spaziergänge. Pärnu verkörpert die entspannte estnische Sommeratmosphäre und ist ein ideales Ziel für Familien und Erholungssuchende.",
-      hu: "",
+      hu: "Pärnu, amelyet szeretettel Észtország „nyári fővárosának” is neveznek, az ország első számú tengerparti üdülőhelye. A Riga-öböl partján fekvő város hosszú, fehér homokos strandjaival és sekély, gyorsan felmelegedő vizével vonzza a pihenni vágyókat. A város fürdőkultúrája a 19. századig nyúlik vissza, amit az elegáns faluillák és a történelmi iszapfürdő épülete is hűen tükröz. A fákkal szegélyezett Rüütli utca a belváros szíve, ahol hangulatos kávézók és üzletek várják a látogatókat. A parkokkal és szökőkutakkal díszített tengerparti sétány tökéletes helyszín az esti korzózáshoz. Pärnu a fesztiválok és koncertek városa is, ahol a nyári hónapokban pezseg az élet.",
       ro: "Pärnu, cunoscut cu afecțiune drept 'capitala de vară' a Estoniei, este principala stațiune balneară a țării. Situat la gura de vărsare a râului Pärnu în Golful Riga, orașul atrage mii de vizitatori anual cu plaja sa lungă de nisip alb și golful său puțin adânc și cald. Orașul are o lungă tradiție ca stațiune balneară, datând din secolul al XIX-lea, reflectată în vilele elegante din lemn și în clădirea istorică a băilor de nămol. Strada Rüütli, mărginită de copaci, este inima centrului orașului, cu cafenele și magazine fermecătoare. Pe lângă viața de plajă, Pärnu oferă și o scenă culturală vibrantă, cu festivaluri, concerte și galerii de artă. Promenada pitorească și digul sunt locuri perfecte pentru plimbări de seară.",
       en: "Pärnu, affectionately known as Estonia's 'summer capital,' is the country's premier seaside resort. Located at the mouth of the Pärnu River on the Gulf of Riga, the city attracts thousands of visitors annually with its long, white sandy beach and shallow, warm bay. The city has a long tradition as a spa town, dating back to the 19th century, which is reflected in its elegant wooden villas and the historic mud baths building. The tree-lined Rüütli Street is the heart of the city center with charming cafes and shops. In addition to beach life, Pärnu also offers a vibrant cultural scene with festivals, concerts, and art galleries. The picturesque promenade and pier are perfect places for evening strolls. Pärnu embodies the relaxed Estonian summer atmosphere and is an ideal destination for families and those seeking relaxation."
     },
@@ -234,7 +276,13 @@ const estoniaAllPoiBase: POI[] = [
         "Die Stadt hat ein gut ausgebautes Netz von Fahrradwegen.",
         "Der Dichterin Lydia Koidula ist ein Museum in Pärnu gewidmet."
       ],
-      hu: [],
+      hu: [
+        "Az első iszapfürdő 1838-ban nyitotta meg kapuit a városban.",
+        "Pärnu strandja rendszeresen elnyeri a kiváló vízminőséget jelző Kék Zászló minősítést.",
+        "A középkorban a város a Hanza-szövetség fontos tagja volt.",
+        "A Szent Erzsébet-templom az egyik legszebb barokk stílusú egyházi épület az országban.",
+        "A Pärnu-folyó torkolata kedvelt helyszín a horgászok és a vízi sportok kedvelői számára."
+      ],
       ro: [
         "Prima baie de nămol a fost deschisă în 1838.",
         "Plaja din Pärnu a primit 'Steagul Albastru' pentru curățenie și siguranță.",
@@ -277,7 +325,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Saaremaa, die größte Insel Estlands, ist ein Ort von mythischer Schönheit und einzigartigem Charakter. Die Insel, die in der Ostsee liegt, ist bekannt für ihre unberührte Natur, ihre traditionellen Windmühlen und ihre reiche Geschichte. Ein geologisches Highlight ist das Kaali-Meteoritenkraterfeld, das vor Tausenden von Jahren entstand. Die Inselhauptstadt Kuressaare wird von der imposanten Bischofsburg dominiert, einer der am besten erhaltenen mittelalterlichen Festungen im Baltikum. Die Küste von Saaremaa ist geprägt von schroffen Klippen wie der Panga-Klippe, einsamen Stränden und Wacholderfeldern. Die Insel hat eine eigene Kultur und einen eigenen Dialekt bewahrt. Traditionelle Steinfriedhöfe und strohgedeckte Häuser zeugen von der langen Besiedlungsgeschichte. Saaremaa ist ein Paradies für Naturliebhaber, Wanderer und alle, die Ruhe und Authentizität suchen.",
-      hu: "",
+      hu: "Saaremaa, Észtország legnagyobb szigete, a mitikus szépség és az egyedülálló hagyományok földje a Balti-tengeren. A sziget híres érintetlen természetéről, szélmalmairól és gazdag történelmi örökségéről, amely minden lépésnél visszaköszön. Egyik legkülönlegesebb látnivalója a Kaali-meteoritkráter, amely évezredekkel ezelőtt keletkezett és ma is lenyűgöző a látogatókat. A sziget központja, Kuressaare, büszkélkedhet a Baltikum egyik legjobb állapotban fennmaradt középkori püspöki várával. A tengerpartot meredek sziklafalak, mint a Panga-fok, és borókás mezők teszik változatossá. Saaremaa sajátos kultúrája, helyi sörfőzdéi és vendégszeretete felejthetetlen élményt nyújtanak az utazóknak.",
       ro: "Saaremaa, cea mai mare insulă a Estoniei, este un loc de o frumusețe mitică și un caracter unic. Insula din Marea Baltică este cunoscută pentru natura sa neatinsă, morile de vânt tradiționale și istoria bogată. Un punct de atracție geologic este câmpul de cratere meteoritice de la Kaali, format acum mii de ani. Capitala insulei, Kuressaare, este dominată de impunătorul Castel Episcopal, una dintre cele mai bine conservate fortărețe medievale din Baltica. Coasta Saaremaa este marcată de stânci abrupte precum faleza Panga, plaje izolate și câmpuri de ienupăr. Insula și-a păstrat propria cultură și dialect. Cimitirele tradiționale din piatră și casele cu acoperiș de paie mărturisesc lunga istorie a așezării. Saaremaa este un paradis pentru iubitorii de natură și drumeții.",
       en: "Saaremaa, Estonia's largest island, is a place of mythical beauty and unique character. The island, located in the Baltic Sea, is known for its untouched nature, traditional windmills, and rich history. A geological highlight is the Kaali meteorite crater field, formed thousands of years ago. The island's capital, Kuressaare, is dominated by the imposing Episcopal Castle, one of the best-preserved medieval fortresses in the Baltics. The coast of Saaremaa is characterized by rugged cliffs like the Panga Cliff, secluded beaches, and juniper fields. The island has preserved its own culture and dialect. Traditional stone fences and thatched-roof houses testify to its long history of settlement. Saaremaa is a paradise for nature lovers, hikers, and anyone seeking peace and authenticity."
     },
@@ -298,7 +346,13 @@ const estoniaAllPoiBase: POI[] = [
         "Die Bischofsburg in Kuressaare wurde nie von feindlichen Truppen erobert.",
         "Brot und Bier aus heimischer Produktion sind lokale Spezialitäten."
       ],
-      hu: [],
+      hu: [
+        "Saaremaa neve észtül szó szerint „szigetországot” jelent.",
+        "Ez a Balti-tenger negyedik legnagyobb szigete.",
+        "A Kaali-kráter Európa legnagyobb, könnyen hozzáférhető meteoritbecsapódási helyszíne.",
+        "Itt a legmagasabb az egy főre jutó wellness-központok száma Észtországban.",
+        "Az Angla szélmalmok a sziget ikonikus jelképei és a népi építészet remekei."
+      ],
       ro: [
         "Saaremaa înseamnă 'țara insulei' în estonă.",
         "Insula este a patra ca mărime din Marea Baltică.",
@@ -341,7 +395,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Lahemaa-Nationalpark, gegründet 1971, ist das älteste und größte Schutzgebiet Estlands und ein Mosaik aus unberührter Natur und reichem Kulturerbe. Sein Name bedeutet 'Land der Buchten', was die stark gegliederte Küstenlinie mit ihren sandigen Stränden, felsigen Abschnitten und malerischen Fischerdörfern treffend beschreibt. Im Landesinneren erstrecken sich weite Wälder, die Heimat von Elchen, Bären und Luchsen sind. Eine Besonderheit sind die riesigen Moore wie das Viru-Moor, die auf Holzstegen durchwandert werden können und eine fast surreale Stille ausstrahlen. Historische Gutshöfe wie Palmse, Sagadi und Vihula zeugen vom prunkvollen Leben des deutschbaltischen Adels und dienen heute als Museen, Hotels und Kulturzentren. Lahemaa bietet eine einzigartige Kombination aus Erholung an der Küste, tiefen Einblicken in die estnische Natur und einer Reise in die aristokratische Vergangenheit des Landes.",
-      hu: "",
+      hu: "Az 1971-ben alapított Lahemaa Nemzeti Park Észtország legrégebbi és legnagyobb védett területe, ahol az érintetlen természet és a gazdag kulturális örökség különleges egyveleget alkot. Nevének jelentése „az öblök földje”, ami találóan leírja a tagolt tengerpartot homokos strandjaival és hangulatos halászfalvaival. A park belsejében hatalmas erdők terülnek el, amelyek jávorszarvasoknak, medvéknek és hiúzoknak adnak otthont. Különleges élményt nyújtanak a mocsári tanösvények, mint például a Viru-mocsár, ahol fapallókon járva élvezhetjük a természet csendjét. A területen található történelmi uradalmak, mint Palmse vagy Sagadi, a balti német nemesség egykori pompáját idézik fel. Lahemaa a túrázók és a természetfotósok paradicsoma, ahol minden évszak tartogat valamilyen csodát.",
       ro: "Parcul Național Lahemaa, înființat în 1971, este cea mai veche și mai mare arie protejată din Estonia, un mozaic de natură virgină și patrimoniu cultural bogat. Numele său înseamnă 'Țara Golfurilor', descriind perfect coasta sa accidentată cu plaje de nisip, porțiuni stâncoase și sate pescărești pitorești. În interior, se întind păduri vaste, adăpost pentru elani, urși și lincși. O caracteristică specială o reprezintă mlaștinile uriașe precum Mlaștina Viru, care pot fi traversate pe podețe de lemn și emană o liniște aproape suprarealistă. Conace istorice precum Palmse, Sagadi și Vihula mărturisesc viața opulentă a nobilimii germano-baltice și servesc astăzi drept muzee, hoteluri și centre culturale.",
       en: "Lahemaa National Park, established in 1971, is Estonia's oldest and largest protected area, a mosaic of untouched nature and rich cultural heritage. Its name means 'Land of Bays,' which aptly describes its rugged coastline with sandy beaches, rocky sections, and picturesque fishing villages. Inland, vast forests stretch out, home to moose, bears, and lynx. A special feature are the huge bogs like the Viru Bog, which can be traversed on wooden walkways and radiate an almost surreal silence. Historic manors such as Palmse, Sagadi, and Vihula bear witness to the lavish life of the Baltic German nobility and today serve as museums, hotels, and cultural centers. Lahemaa offers a unique combination of coastal recreation, deep insights into Estonian nature, and a journey into the country's aristocratic past."
     },
@@ -362,7 +416,13 @@ const estoniaAllPoiBase: POI[] = [
         "Findlinge aus der Eiszeit sind in der Landschaft verstreut, der größte ist der 'Estonian Giant'.",
         "Die Flüsse im Park sind wichtige Laichgebiete für Lachse und Meerforellen."
       ],
-      hu: [],
+      hu: [
+        "Lahemaa volt az első nemzeti park, amelyet a Szovjetunió területén létrehoztak.",
+        "A park négy nagy félszigetet és számos festői öblöt foglal magában.",
+        "Käsmu, a „kapitányok faluja” őrzi a térség gazdag tengerészeti múltját.",
+        "A park területén több mint 700 növényfaj és számos ritka állatfaj él.",
+        "A jégkorszakból visszamaradt hatalmas vándorkövek tarkítják a tájat."
+      ],
       ro: [
         "Lahemaa a fost primul parc național înființat în Uniunea Sovietică.",
         "Parcul cuprinde patru peninsule mari și numeroase golfuri.",
@@ -405,7 +465,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Narva, die drittgrößte Stadt Estlands, ist ein Ort von immenser historischer und strategischer Bedeutung. Unmittelbar an der Grenze zu Russland gelegen und nur durch den gleichnamigen Fluss von der russischen Stadt Iwangorod getrennt, bildet sie eine einzigartige Doppelstadt-Kulisse. Das Stadtbild wird von der mächtigen Hermannsfeste dominiert, die direkt gegenüber der Festung Iwangorod liegt – ein beeindruckendes Symbol jahrhundertelanger Konfrontation und Koexistenz. Narva ist die Stadt mit dem höchsten Anteil an russischsprachiger Bevölkerung in der EU, was ihr einen besonderen kulturellen Charakter verleiht. Obwohl im Zweiten Weltkrieg stark zerstört, bewahrt die Stadt wichtige historische Zeugnisse wie die Kreenholm-Manufaktur, einst eine der größten Textilfabriken Europas. Narva ist ein faszinierender Ort, um die komplexe Geschichte des Baltikums und die Dynamik einer Grenzstadt hautnah zu erleben.",
-      hu: "",
+      hu: "Narva, Észtország harmadik legnagyobb városa, hatalmas történelmi és stratégiai jelentőséggel bír az orosz határon. Közvetlenül a Narva-folyó partján fekszik, szemben az oroszországi Ivangorod erődjével, egyedülálló „ikervár” panorámát alkotva. A városkép meghatározó eleme a monumentális Hermann-vár, amely évszázadokon át a nyugati és keleti kultúra találkozási pontja és védvonal volt. Narva az Európai Unió legoroszabb városa, ami különleges kulturális és nyelvi arculatot kölcsönöz a településnek. Bár a második világháborúban súlyos pusztítást szenvedett, olyan ipartörténeti emlékeket őriz, mint a Kreenholm-manufaktúra, amely egykor Európa legnagyobb textilgyára volt. A folyóparti sétány és a történelmi emlékhelyek izgalmas betekintést nyújtanak a Baltikum összetett múltjába.",
       ro: "Narva, al treilea oraș ca mărime din Estonia, este un loc de o imensă importanță istorică și strategică. Situat direct la granița cu Rusia și separat de orașul rus Ivangorod doar de râul omonim, formează un peisaj unic de oraș-dublu. Peisajul urban este dominat de puternica Cetate Hermann, aflată vizavi de cetatea Ivangorod – un simbol impresionant al secolelor de confruntare și coexistență. Narva este orașul cu cea mai mare proporție de populație vorbitoare de limbă rusă din UE, ceea ce îi conferă un caracter cultural deosebit. Deși a fost grav distrus în Al Doilea Război Mondial, orașul păstrează mărturii istorice importante, precum Manufactura Kreenholm, odinioară una dintre cele mai mari fabrici de textile din Europa.",
       en: "Narva, Estonia's third-largest city, is a place of immense historical and strategic importance. Situated directly on the border with Russia, separated only by the Narva River from the Russian town of Ivangorod, it creates a unique twin-city landscape. The cityscape is dominated by the powerful Hermann Castle, which stands directly opposite the Ivangorod Fortress—an impressive symbol of centuries of confrontation and coexistence. Narva has the highest proportion of Russian-speaking inhabitants in the EU, giving it a distinctive cultural character. Although heavily destroyed in World War II, the city preserves important historical testimonies such as the Kreenholm Manufacturing Company, once one of the largest textile factories in Europe. Narva is a fascinating place to experience the complex history of the Baltics and the dynamics of a border city up close."
     },
@@ -426,7 +486,13 @@ const estoniaAllPoiBase: POI[] = [
         "Jährlich findet das Festival 'Station Narva' statt, das Musik und Kunst verbindet.",
         "Die Alexander-Newski-Kathedrale ist ein weiteres wichtiges orthodoxes Wahrzeichen."
       ],
-      hu: [],
+      hu: [
+        "A lakosság több mint 95%-a orosz anyanyelvű.",
+        "A Hermann-vár és az ivangorodi erőd csupán egy kőhajításnyira van egymástól.",
+        "A Kreenholm-manufaktúra a 19. században nagyobb volt, mint a legtöbb angol textilgyár.",
+        "Narva volt a helyszíne az 1700-as nagy északi háború egyik döntő csatájának.",
+        "A város modern könyvtára és egyetemi kollégiuma a kortárs észt építészet remekei."
+      ],
       ro: [
         "Peste 95% din populație este vorbitoare de limbă rusă.",
         "Cetatea Hermann și cetatea Ivangorod sunt la o aruncătură de băț una de cealaltă.",
@@ -469,7 +535,7 @@ const estoniaAllPoiBase: POI[] = [
     },
     descriptionAdvanced: {
       de: "Haapsalu, oft als das 'Venedig des Nordens' bezeichnet, ist eine charmante Kurstadt an der Westküste Estlands. Berühmt wurde sie im 19. Jahrhundert durch ihren heilsamen Meeresschlamm, der den russischen Adel und sogar die Zarenfamilie anlockte. Das architektonische Erbe dieser Zeit prägt die Stadt bis heute mit eleganten Holzvillen und der malerischen Promenade. Das Herzstück der Stadt ist die mittelalterliche Bischofsburg, in deren Domkirche die Legende der 'Weißen Dame' lebendig ist, die in Vollmondnächten im Fenster erscheinen soll. Der hölzerne Kursaal und der alte Bahnhof, dessen Bahnsteig einst komplett überdacht war, sind weitere einzigartige Sehenswürdigkeiten. Haapsalu verströmt eine ruhige, fast nostalgische Atmosphäre und ist ein ideales Ziel für alle, die Entspannung, Kultur und die sanfte Schönheit der estnischen Küste suchen.",
-      hu: "",
+      hu: "Haapsalu, amelyet gyakran az „Észak Velencéjeként” emlegetnek, egy bájos és romantikus fürdőváros Észtország nyugati partján. A 19. században vált híressé gyógyhatású iszapjáról, amely az orosz nemességet és magát a cári családot is ide vonzotta. A város építészeti örökségét elegáns faluillák és a fa szerkezetű tengerparti sétány határozzák meg, ahol Csajkovszkij is szívesen pihent. A település szíve a középkori püspöki vár, melynek katedrálisában a legenda szerint augusztusi teliholdkor megjelenik a „Fehér Hölgy”. A különleges, csipkeszerű haapsalui sálak készítése ma is élő népművészeti hagyomány a városban. Haapsalu nyugodt légköre és kulturális fesztiváljai tökéletes kikapcsolódást nyújtanak a nosztalgiára vágyóknak.",
       ro: "Haapsalu, adesea numit 'Veneția Nordului', este un fermecător oraș balnear pe coasta de vest a Estoniei. A devenit faimos în secolul al XIX-lea pentru nămolul său marin vindecător, care atrăgea nobilimea rusă și chiar familia țarului. Moștenirea arhitecturală din acea perioadă, cu vile elegante din lemn și o promenadă pitorească, definește orașul și astăzi. Inima orașului este Castelul Episcopal medieval, în a cărui catedrală trăiește legenda 'Doamnei Albe', care se spune că apare la fereastră în nopțile cu lună plină. Kursaal-ul din lemn și vechea gară, cu peronul său odinioară complet acoperit, sunt alte atracții unice. Haapsalu emană o atmosferă liniștită, aproape nostalgică.",
       en: "Haapsalu, often called the 'Venice of the North,' is a charming spa town on Estonia's west coast. It became famous in the 19th century for its curative sea mud, which attracted Russian nobility and even the Tsar's family. The architectural heritage of that era, with elegant wooden villas and a picturesque promenade, defines the town to this day. The heart of the town is the medieval Episcopal Castle, in whose cathedral the legend of the 'White Lady' lives on, said to appear in the window on full-moon nights. The wooden Kuursaal and the old railway station, with its once fully covered platform, are other unique sights. Haapsalu exudes a quiet, almost nostalgic atmosphere."
     },
@@ -490,7 +556,13 @@ const estoniaAllPoiBase: POI[] = [
         "Jährlich findet hier das 'American Beauty Car Show', ein großes US-Car-Treffen, statt.",
         "Die Stadt ist von einem Netz aus kleinen Inseln und Schilfgürteln umgeben."
       ],
-      hu: [],
+      hu: [
+        "A haapsalui vasútállomás rendelkezik Európa egyik leghosszabb fedett peronjával (216 méter).",
+        "A „Fehér Hölgy” legendája Észtország legismertebb szellemtörténete.",
+        "Pjotr Iljics Csajkovszkij zeneszerző emlékét egy különleges emléktábla és pad őrzi a sétányon.",
+        "A város a haapsalui sálról, egy rendkívül finom kötött csipkéről világszerte ismert.",
+        "A Haapsalu-öböl sekély vize nyáron az egyik leggyorsabban felmelegedő strand az országban."
+      ],
       ro: [
         "Gara din Haapsalu are cel mai lung peron acoperit din Europa (216 metri).",
         "Legenda 'Doamnei Albe' este cea mai cunoscută poveste cu fantome din Estonia.",
@@ -534,7 +606,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Tapa ist ein strategischer Eisenbahnknotenpunkt in Nordestland, dessen Entwicklung eng mit dem Ausbau des Schienennetzes im 19. Jahrhundert verbunden ist. Die Stadt dient als wichtiger Verteiler für Verbindungen nach Tallinn, Tartu und Narva. Neben seiner Bedeutung für den Verkehr beherbergt Tapa auch einen wichtigen Stützpunkt der estnischen Streitkräfte und der NATO. Die Atmosphäre ist von einer Mischung aus Kleinstadtleben und der Präsenz von Militär und Eisenbahn geprägt. Für Reisende bietet sich Tapa als praktischer Ausgangspunkt zur Erkundung des Lahemaa-Nationalparks und der historischen Stadt Rakvere an.",
-      hu: "",
+      hu: "Tapa városa Észak-Észtország egyik legfontosabb stratégiai vasúti csomópontja, melynek fejlődése szorosan összefüggött a 19. századi sínhálózat kiépítésével. A település központi elhelyezkedése miatt kulcsfontosságú összeköttetést biztosít Tallinn, Tartu és Narva irányába. A vasúti múlt mellett Tapa ma az észt fegyveres erők és a NATO egyik jelentős támaszpontjának ad otthont, ami sajátos arculatot kölcsönöz a városnak. A kisvárosi hangulat és a katonai jelenlét érdekes keveréke jellemzi az utcákat. Az utazók számára Tapa ideális kiindulópont a közeli Lahemaa Nemzeti Park vagy a történelmi Rakvere felfedezéséhez.",
       ro: "Tapa este un nod feroviar strategic în nordul Estoniei, a cărui dezvoltare este strâns legată de extinderea rețelei de căi ferate în secolul al XIX-lea. Orașul servește ca un important centru de distribuție pentru legăturile către Tallinn, Tartu și Narva. Pe lângă importanța sa pentru transport, Tapa găzduiește și o importantă bază a forțelor armate estoniene și a NATO. Atmosfera este caracterizată de un amestec de viață de oraș mic și prezența militară și feroviară. Pentru călători, Tapa este un punct de plecare practic pentru a explora Parcul Național Lahemaa și orașul istoric Rakvere.",
       en: "Tapa is a strategic railway hub in northern Estonia, its development closely linked to the expansion of the rail network in the 19th century. The town serves as an important distribution point for connections to Tallinn, Tartu, and Narva. Besides its importance for transport, Tapa also hosts a major base for the Estonian Defence Forces and NATO. The atmosphere is a mix of small-town life and the presence of the military and railway. For travelers, Tapa is a practical starting point for exploring Lahemaa National Park and the historic city of Rakvere."
     },
@@ -555,7 +627,13 @@ export const estoniaCities: POI[] = [
         "Tapa ist ein wichtiger Umsteigebahnhof für den Personen- und Güterverkehr.",
         "Das Stadtmuseum dokumentiert die Geschichte der Eisenbahn und des Militärs."
       ],
-      hu: [],
+      hu: [
+        "A város nevét először 1482-ben említették írásos dokumentumok.",
+        "A település városi rangot 1926-ban kapott, a vasútvonal megnyitása után.",
+        "Tapa az észt védelmi erők 1. gyalogos dandárjának bázisa.",
+        "A városban évente megrendezik a Kolbászfesztivált, amely helyi hagyománnyá vált.",
+        "A vasútállomás épülete fontos építészeti emlék a 19. század végéről."
+      ],
       ro: [
         "Numele 'Tapa' a fost menționat pentru prima dată în documente în 1482.",
         "Dezvoltarea ca oraș a început în 1870 cu construcția liniei de cale ferată.",
@@ -593,7 +671,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Viljandi, das kulturelle Herz Südestlands, ist bekannt für sein jährliches Volksmusikfestival, das Künstler und Besucher aus aller Welt anzieht. Die Stadt thront malerisch über einem See und wird von den Ruinen einer mächtigen Ordensburg dominiert. Die charmante Altstadt mit ihren Holzhäusern und engen Gassen verleiht Viljandi eine einzigartige, fast zeitlose Atmosphäre. Neben der Musik ist die Stadt auch ein Zentrum für traditionelles Handwerk und alternative Kultur, was sich in zahlreichen kleinen Galerien und Werkstätten zeigt.",
-      hu: "",
+      hu: "Viljandi, Dél-Észtország kulturális szíve, leginkább az évente megrendezett népzenei fesztiváljáról ismert, amely a világ minden tájáról vonzza a művészeket. A város festői helyen, egy tó felett terül el, látképét pedig a hatalmas középkori lovagrendi vár romjai uralják. A hangulatos óváros macskaköves utcái és a régi faházak időtlen, békés hangulatot árasztanak. A zene mellett a város a hagyományos kézművesség és az alternatív művészetek központja is, számos galériával és műhellyel. A Viljandi-tó partja nyáron népszerű strandolóhely, míg a várpark függőhídja a város egyik legfotózottabb pontja.",
       ro: "Viljandi, inima culturală a sudului Estoniei, este cunoscut pentru festivalul său anual de muzică populară, care atrage artiști și vizitatori din întreaga lume. Orașul este situat pitoresc deasupra unui lac și este dominat de ruinele unui puternic castel teuton. Centrul vechi fermecător, cu casele sale din lemn și străduțele înguste, conferă Viljandi o atmosferă unică, aproape atemporală. Pe lângă muzică, orașul este și un centru pentru meșteșugurile tradiționale și cultura alternativă, reflectate în numeroase galerii mici și ateliere.",
       en: "Viljandi, the cultural heart of southern Estonia, is known for its annual folk music festival, which attracts artists and visitors from all over the world. The city is picturesquely situated above a lake and is dominated by the ruins of a mighty Teutonic Order castle. The charming old town with its wooden houses and narrow streets gives Viljandi a unique, almost timeless atmosphere. In addition to music, the city is also a center for traditional crafts and alternative culture, which is reflected in numerous small galleries and workshops."
     },
@@ -614,7 +692,13 @@ export const estoniaCities: POI[] = [
         "Das Kondas-Zentrum ist ein Museum für naive Kunst.",
         "Die Stadt hat eine aktive Gemeinschaft von Handwerkern und Künstlern."
       ],
-      hu: [],
+      hu: [
+        "A viljandi várromok a 13. századból származnak, és egykor a Livóniai Rend egyik legerősebb erődítménye volt.",
+        "A Viljandi Népzenei Fesztivál Európa egyik legnagyobb ilyen jellegű rendezvénye.",
+        "Itt található a Tartui Egyetem Viljandi Kulturális Akadémiája.",
+        "A város jelképe a várpark felett átívelő, 50 méter hosszú függőhíd.",
+        "Viljandi a „naiv művészet” észtországi központja, melyet a Kondas Központ mutat be."
+      ],
       ro: [
         "Festivalul de Muzică Populară din Viljandi este unul dintre cele mai mari de acest gen din Europa.",
         "Ruinele Castelului Ordinului din Viljandi datează din secolul al XIII-lea.",
@@ -652,7 +736,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Paide, das geografische Herz Estlands, ist die Hauptstadt des Landkreises Järva. Die Stadt ist geprägt von einer ruhigen Atmosphäre, dem zentralen Vallimägi-Hügel mit den Ruinen der Ordensburg und dem markanten Wasserturm. Als wichtiger Verkehrsknotenpunkt in Zentralestland ist Paide ein praktischer Ausgangspunkt für die Erkundung der umliegenden ländlichen Region. Das alljährliche Meinungsfestival 'Arvamusfestival' verwandelt die Stadt in ein lebhaftes Zentrum des öffentlichen Diskurses.",
-      hu: "",
+      hu: "Paide Észtország földrajzi szívében fekszik, és Järva megye közigazgatási központjaként fontos szerepet tölt be a régió életében. A várost a csendes, nyugodt légkör és a központi Vallimägi-domb jellemzi, ahol a 13. századi lovagrendi vár romjai és a jellegzetes mészkőtorony áll. Központi elhelyezkedése miatt Paide kiváló bázis a környező vidéki tájak és történelmi udvarházak felfedezéséhez. Minden nyáron itt rendezik meg a Véleményfesztivált (Arvamusfestival), amely az ország legfontosabb közéleti és társadalmi fórumává alakítja a várost. A település neve az észt mészkő szóból ered, ami utal a környék gazdag kőbányáira is.",
       ro: "Paide, inima geografică a Estoniei, este capitala județului Järva. Orașul este caracterizat de o atmosferă liniștită, dealul central Vallimägi cu ruinele castelului teuton și turnul de apă distinctiv. Ca un important nod de transport în Estonia centrală, Paide este un punct de plecare practic pentru a explora regiunea rurală înconjurătoare. Festivalul anual de opinie 'Arvamusfestival' transformă orașul într-un centru vibrant al discursului public.",
       en: "Paide, the capital of Järva County, is geographically situated in the very heart of Estonia, earning it the nickname 'the heart of Estonia.' This quiet town is characterized by its tranquil atmosphere and the central Vallimägi hill, which features the ruins of a 13th-century Livonian Order castle and a distinctive limestone tower, Vallitorn. As a key transportation hub in central Estonia, Paide offers a practical starting point for exploring the surrounding rural region. The town buzzes with intellectual energy each summer when it hosts the Arvamusfestival (Opinion Festival), a lively event that transforms Paide into a vibrant center for public discourse and debate, attracting speakers and visitors from all over the country."
     },
@@ -673,7 +757,13 @@ export const estoniaCities: POI[] = [
         "Im Stadtzentrum befindet sich eine Skulptur, die den geografischen Mittelpunkt Estlands markiert.",
         "Das Järvamaa-Museum gibt Einblicke in die Geschichte des Landkreises."
       ],
-      hu: [],
+      hu: [
+        "Paide neve az észt „paas” (mészkő) szóból származik.",
+        "A várat a Livóniai Rend építette 1265-ben stratégiai védelmi pontként.",
+        "Paide egyike annak a négy észt városnak, amely hivatalosan is viselheti a „királyi város” címet.",
+        "A Vallitorn toronyban ma interaktív időutazás és kiállítás várja a látogatókat.",
+        "A város főterén egy szobor jelöli Észtország szárazföldi középpontját."
+      ],
       ro: [
         "Numele 'Paide' derivă din cuvântul estonian pentru calcar.",
         "Castelul Ordinului din Paide a fost construit în secolul al XIII-lea de Ordinul Livonian.",
@@ -711,7 +801,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Võru, das Zentrum des gleichnamigen Landkreises, ist eine charmante Stadt im hügeligen Südosten Estlands. Sie liegt am Ufer des Tamula-Sees und ist eng mit der einzigartigen Kultur und dem Dialekt der Võro-Region verbunden. Die Stadt dient als Tor zum Haanja-Hochland, der 'estnischen Schweiz', mit dem höchsten Berg des Baltikums, dem Suur Munamägi. Die entspannte Atmosphäre, die Nähe zur Natur und die starke lokale Identität machen Võru zu einem authentischen Reiseziel abseits der Haupttouristenpfade.",
-      hu: "",
+      hu: "Võru, az azonos nevű megye központja, a dombos Délkelet-Észtország egyik legbarátságosabb városa, amely a Tamula-tó partján fekszik. A település szorosan kötődik az egyedülálló võro kultúrához és nyelvjáráshoz, amelyet a helyiek büszkén ápolnak. Võru kapuként szolgál a Haanja-dombsághoz, ahol a Baltikum legmagasabb pontja, a Suur Munamägi is található. A tóparti sétány és a parkok ideális helyszínt nyújtanak a pihenéshez és a természet közelségének élvezetéhez. A város autentikus hangulata és a UNESCO által is elismert füstös szauna hagyományok igazi észt élményt kínálnak a látogatóknak.",
       ro: "Võru, centrul județului omonim, este un oraș fermecător în sud-estul deluros al Estoniei. Este situat pe malul lacului Tamula și este strâns legat de cultura și dialectul unic al regiunii Võro. Orașul servește ca poartă de acces către ținutul înalt Haanja, 'Elveția estoniană', cu cel mai înalt munte din Baltica, Suur Munamägi. Atmosfera relaxată, apropierea de natură și identitatea locală puternică fac din Võru o destinație autentică, departe de principalele trasee turistice.",
       en: "Võru, the capital of Võru County, is a charming town nestled in the hilly landscape of southeastern Estonia. It lies on the shores of Lake Tamula and is deeply connected to the unique culture and dialect of the Võro people. The town serves as a gateway to the Haanja Upland, often called 'Estonian Switzerland,' which includes Suur Munamägi, the highest peak in the Baltic states. With its relaxed atmosphere, beautiful lakeside promenade, and strong local identity, Võru offers an authentic travel experience away from the main tourist paths. It's an ideal destination for nature lovers, offering easy access to hiking trails, serene lakes, and the ancient traditions of the region, including the UNESCO-recognized smoke sauna tradition."
     },
@@ -732,7 +822,13 @@ export const estoniaCities: POI[] = [
         "Die Region ist bekannt für ihre Rauchsaunen, die zum UNESCO-Kulturerbe gehören.",
         "Die hügelige Landschaft bietet im Winter hervorragende Langlaufmöglichkeiten."
       ],
-      hu: [],
+      hu: [
+        "Võrut 1784-ben alapították II. Katalin orosz cárnő parancsára.",
+        "Itt található a Fr. R. Kreutzwald Emlékmúzeum, amely az észt nemzeti eposz írójának állít emléket.",
+        "A Tamula-tó felett átívelő függőhíd a város egyik legnépszerűbb sétálóhelye.",
+        "A régió füstös szaunázási kultúrája a UNESCO szellemi világörökségének része.",
+        "Évente nemzetközi folklórfesztivált rendeznek a városban, bemutatva a helyi táncokat és zenét."
+      ],
       ro: [
         "Capitala județului Võru.",
         "Institutul Võro pentru conservarea limbii și culturii regionale își are sediul aici.",
@@ -770,7 +866,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Rapla, als Zentrum des gleichnamigen Landkreises, ist ein wichtiger Versorgungs- und Verwaltungspunkt in West-Zentralestland. Die Stadt liegt verkehrsgünstig an der Hauptverbindung zwischen Tallinn und Pärnu, was sie zu einem praktischen Knotenpunkt macht. Ihr Stadtbild ist geprägt von einer Mischung aus sowjetischer Architektur und modernen Zweckbauten. Für die Erkundung des ländlichen Herzens von Estland abseits der großen Touristenmagnete bietet Rapla eine authentische Basis.",
-      hu: "",
+      hu: "Rapla Nyugat-Közép-Észtország fontos közigazgatási és kereskedelmi csomópontja, amely Tallinn és Pärnu között helyezkedik el. A várost nyugodt, vidéki hangulat jellemzi, ahol a szovjet éra építészete és a modern funkcionális épületek keverednek. Egyik legfontosabb nevezetessége a különleges, kéttornyú templom, amely ritkaságnak számít az észt vidéki települések körében. Rapla környéke gazdag erdőkben és mocsarakban, így a természetjárók számára is vonzó célpont. Bár nem tartozik a legnépszerűbb turistacélpontok közé, a város hiteles betekintést nyújtanak az észt vidéki élet mindennapjaiba.",
       ro: "Rapla, ca centru al județului omonim, este un important punct de aprovizionare și administrativ în vestul-central al Estoniei. Orașul este situat convenabil pe legătura principală dintre Tallinn și Pärnu, ceea ce îl face un nod practic. Peisajul său urban este caracterizat de un amestec de arhitectură sovietică și clădiri funcționale moderne. Pentru explorarea inimii rurale a Estoniei, departe de principalele atracții turistice, Rapla oferă o bază autentică.",
       en: "Rapla, the administrative center of Rapla County, serves as an essential service and transport hub in west-central Estonia. Conveniently located on the main transport corridor between Tallinn and Pärnu, it functions as a practical crossroads for travelers. The town’s architecture is a blend of Soviet-era buildings and modern functional structures, reflecting its development over the decades. While not a primary tourist destination, Rapla provides an authentic glimpse into Estonian provincial life. It's an excellent base for exploring the rural heart of the country, with its vast forests, extensive boglands like the Mukri bog, and tranquil countryside, far from the bustling crowds of the larger cities."
     },
@@ -791,7 +887,13 @@ export const estoniaCities: POI[] = [
         "Rapla dient als wichtiges Handelszentrum für die umliegenden ländlichen Gemeinden.",
         "Die Stadt hat eine starke Basketball-Tradition."
       ],
-      hu: [],
+      hu: [
+        "A raplai Mária Magdolna-templom Észtország egyetlen kéttornyú vidéki temploma.",
+        "A Vigala-folyó szeli át a várost, kellemes zöldfelületeket biztosítva a partján.",
+        "Rapla híres erős kosárlabda-hagyományairól és sikeres helyi csapatáról.",
+        "Évente megrendezik a Rapla Egyházzenei Fesztivált, amely neves művészeket vonz.",
+        "A közeli Mukri-mocsár az egyik legősibb és legszebb mocsárvidék a régióban."
+      ],
       ro: [
         "Capitala județului Rapla.",
         "Cunoscut pentru biserica sa cu două turnuri, o raritate în Estonia.",
@@ -829,7 +931,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Kuressaare, die Hauptstadt der Insel Saaremaa, ist ein renommierter Kurort, der für seine beeindruckende Bischofsburg und die entspannte Atmosphäre bekannt ist. Die Stadt verbindet historischen Charme mit modernen Spa-Einrichtungen und ist im Sommer ein beliebtes Ziel für Strand- und Kultururlauber. Der kleine Hafen und die charmante Altstadt laden zum Verweilen ein.",
-      hu: "",
+      hu: "Kuressaare, Saaremaa szigetének fővárosa, Észtország egyik legpatinásabb fürdővárosa, amely híres középkori püspöki váráról és gyógyfürdőiről. A város a történelmi bájt modern wellness-szolgáltatásokkal ötvözi, így a nyári hónapokban pezsgő turisztikai központtá válik. Az óváros kompakt és barátságos, tele hangulatos kávézókkal, galériákkal és jellegzetes mészkőből épült házakkal. A püspöki várpark és a mellette fekvő tengerparti strand ideális helyszín a kikapcsolódásra. Kuressaare kapuként szolgál a sziget különleges természeti kincseihez és szélmalmaihoz, miközben maga is őrzi a balti-tengeri szigetek egyedi hangulatát.",
       ro: "Kuressaare, capitala insulei Saaremaa, este o stațiune balneară renumită, cunoscută pentru impresionantul său Castel Episcopal și atmosfera relaxată. Orașul combină farmecul istoric cu facilități spa moderne și este o destinație populară de vară pentru iubitorii de plajă și cultură. Portul mic și centrul vechi fermecător invită la relaxare.",
       en: "Kuressaare, the capital of Saaremaa island, is a renowned spa town celebrated for its impressive medieval Episcopal Castle and relaxed seaside atmosphere. The town seamlessly blends its rich history with modern spa and wellness facilities, making it a popular summer destination for both beach lovers and culture enthusiasts. Its compact and charming old town, filled with wooden houses, cozy cafes, and small galleries, invites leisurely strolls. The picturesque small boat harbor and the town park surrounding the castle add to its idyllic charm. Kuressaare serves as the perfect gateway to exploring the unique nature, windmills, and traditions of Saaremaa island."
     },
@@ -850,7 +952,13 @@ export const estoniaCities: POI[] = [
         "Kuressaare ist die einzige Stadt auf der Insel Saaremaa.",
         "Die Insel ist bekannt für ihr hausgemachtes Bier und Brot."
       ],
-      hu: [],
+      hu: [
+        "A Kuressaare-vár a Baltikum egyik legjobban megőrzött középkori erődítménye.",
+        "A város 1840 óta hivatalosan elismert fürdőhely, híres a gyógyhatású iszapjáról.",
+        "Itt rendezik meg évente a Saaremaa Operanapokat a vár udvarán.",
+        "A Szent Lőrinc-templom a város központjának meghatározó klasszicista épülete.",
+        "Kuressaare volt az első észt város, amely megkapta az „Egészséges Város” címet."
+      ],
       ro: [
         "Castelul Episcopal este una dintre cele mai bine conservate fortărețe medievale din Baltica.",
         "Kuressaare are o lungă tradiție ca stațiune balneară, datând din secolul al XIX-lea.",
@@ -888,7 +996,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Kärdla, die einzige Stadt auf der Insel Hiiumaa, ist ein ruhiger und grüner Ort, der als das Herz der Insel gilt. Mit seinem kleinen Hafen, den traditionellen Holzhäusern und der entspannten Atmosphäre ist Kärdla der perfekte Ausgangspunkt, um die unberührte Natur, die historischen Leuchttürme und die einsamen Strände von Hiiumaa zu entdecken. Die Stadt selbst bietet eine gute Infrastruktur für Inselbesucher.",
-      hu: "",
+      hu: "Kärdla Hiiumaa szigetének egyetlen városa és az ország legkisebb megyeszékhelye, amely zöldellő kertjeiről és nyugodt légköréről ismert. A várost eredetileg svéd telepesek lakták, majd a 19. században egy textilgyár köré épült fel, ami meghatározta mai arculatát. Kis kikötője, hagyományos faházai és a tenger közelsége miatt a látogatók számára a béke szigete. Kärdla ideális kiindulópont Hiiumaa érintetlen partvidékének, történelmi világítótornyainak és mocsári ösvényeinek felfedezéséhez. A város egyik különlegessége a főtéren található artézi kút, amely évtizedek óta friss vízzel látja el a helyieket és az utazókat.",
       ro: "Kärdla, singurul oraș de pe insula Hiiumaa, este un loc liniștit și verde, considerat inima insulei. Cu portul său mic, casele tradiționale din lemn și atmosfera relaxată, Kärdla este punctul de plecare perfect pentru a descoperi natura neatinsă, farurile istorice și plajele izolate din Hiiumaa. Orașul însuși oferă o infrastructură bună pentru vizitatorii insulei.",
       en: "Kärdla, the only town on Hiiumaa island, is a peaceful and verdant place that serves as the island's heart. Characterized by its small harbor, traditional wooden houses, and a relaxed atmosphere, Kärdla is the ideal starting point for discovering Hiiumaa's untouched nature, historic lighthouses, and secluded beaches. Originally a Swedish settlement, the town grew around a cloth factory in the 19th century. Today, it provides a well-equipped base for island visitors, offering all necessary services while maintaining its tranquil, small-town charm. The town is also known for a large artesian well in the central square, providing fresh water to residents and visitors alike."
     },
@@ -909,7 +1017,13 @@ export const estoniaCities: POI[] = [
         "Im Sommer findet ein beliebtes Kinderfestival statt.",
         "Kärdla ist von zahlreichen Rad- und Wanderwegen umgeben."
       ],
-      hu: [],
+      hu: [
+        "Kärdla egy 455 millió évvel ezelőtti meteoritbecsapódás által létrehozott kráter szélén fekszik.",
+        "A várost gyakran „kertvárosnak” is nevezik a rengeteg zöldfelület és virág miatt.",
+        "A Kärdlai-kikötő a vitorlázók és a kis hajók kedvelt kikötőhelye a Balti-tengeren.",
+        "A Hiiumaa Múzeum (Pikk Maja) a sziget gazdag tengerészeti és ipari múltját mutatja be.",
+        "Itt található Észtország egyik leghangulatosabb repülőtere, közvetlen járattal Tallinnba."
+      ],
       ro: [
         "Capitala insulei și a județului Hiiumaa.",
         "Kärdla este cel mai mic oraș reședință de județ din Estonia.",
@@ -947,7 +1061,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Jõhvi, das Verwaltungszentrum des Landkreises Ida-Viru, ist ein wichtiger Knotenpunkt im Nordosten Estlands. Die Stadt ist geprägt von ihrer industriellen Umgebung, hat aber auch ein modernes Kulturzentrum mit Theater und Konzerthalle. Ihre strategische Lage zwischen Tallinn, Narva und Tartu macht sie zu einem wichtigen Ort für Handel und Verkehr. Jõhvi bietet einen Einblick in das Leben abseits der touristischen Zentren und ist ein guter Ausgangspunkt, um die Industriegeschichte und die Naturkontraste der Region zu erkunden.",
-      hu: "",
+      hu: "Jõhvi Ida-Viru megye közigazgatási és kulturális szíve, amely Északkelet-Észtország fontos közlekedési csomópontjaként szolgál. A város az ipari örökség és a modern kulturális törekvések metszéspontjában fekszik, amit a színvonalas hangversenyterme és színháza is jól mutat. Stratégiai helyzete Tallinn és az orosz határ között a kereskedelem és az üzleti élet központjává tette. Bár a környéket az olajpala-bányászat határozza meg, Jõhvi belvárosa folyamatosan fejlődik és modernizálódik. A város kiváló bázis a régió természeti látnivalóinak, például az ontikai mészkőpart felfedezéséhez.",
       ro: "Jõhvi, centrul administrativ al județului Ida-Viru, este un nod important în nord-estul Estoniei. Orașul este marcat de mediul său industrial, dar are și un centru cultural modern cu teatru și sală de concerte. Poziția sa strategică între Tallinn, Narva și Tartu îl face un loc important pentru comerț și transport. Jõhvi oferă o perspectivă asupra vieții dincolo de centrele turistice și este un bun punct de plecare pentru a explora istoria industrială și contrastele naturale ale regiunii.",
       en: "Jõhvi, the administrative heart of Ida-Viru County, stands as a vital hub in northeastern Estonia. While deeply rooted in its industrial surroundings, particularly the oil shale industry, the city has evolved into a modern cultural center. It boasts a contemporary concert hall and theater that host a variety of performances, enriching the region's cultural landscape. Its strategic location on the main transport routes connecting Tallinn, Narva, and Tartu solidifies its importance for commerce and transit. Jõhvi offers visitors a unique perspective on Estonian life beyond the typical tourist trails, serving as an excellent starting point to explore the area's industrial heritage and the striking natural contrasts of the region, including the nearby Ontika limestone cliff, part of the Baltic Klint."
     },
@@ -968,7 +1082,13 @@ export const estoniaCities: POI[] = [
         "Das Stadtfest 'Jõhvi Päevad' findet jährlich im Sommer statt.",
         "Das Bergbaumuseum Kohtla-Nõmme ist von hier aus leicht zu erreichen."
       ],
-      hu: [],
+      hu: [
+        "Jõhvi központi koncertterme az egyik legmodernebb kulturális intézmény az országban.",
+        "A Szent Mihály-templom a város legrégebbi és legfontosabb történelmi épülete.",
+        "A város közelében található az Ontika-sziklafal, amely a balti klint legmagasabb pontja.",
+        "Jõhvit először 1241-ben említették a Dán Földkönyvben.",
+        "A település híres a minden nyáron megrendezett Jõhvi Balettfesztiválról."
+      ],
       ro: [
         "Capitala județului Ida-Viru.",
         "Sala de concerte Jõhvi este un centru cultural modern.",
@@ -1006,7 +1126,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Põlva, das Zentrum des gleichnamigen Landkreises, liegt im malerischen Südosten Estlands. Die Stadt ist ein idealer Ausgangspunkt, um die hügelige Landschaft, die klaren Seen und die tiefen Wälder der Region zu erkunden. Põlva ist bekannt für seine ruhige Atmosphäre und seine enge Verbindung zur Natur. Das alljährliche Mundharmonika-Festival zieht Musikliebhaber an, während der nahegelegene Intsikurmu-Wald als Veranstaltungsort für Konzerte und Festivals dient.",
-      hu: "",
+      hu: "Põlva, az azonos nevű megye központja, a festői Délkelet-Észtország egyik legbájosabb települése, amely dombok és tavak ölelésében fekszik. A város híres a természetközeli életmódjáról és a gazdag népzenei hagyományairól, amit az évente megrendezett szájharmonika-fesztivál is hűen tükröz. A település központjában található Põlva-tó és a környékbeli fenyőerdők számos kikapcsolódási lehetőséget kínálnak a túrázóknak és a kerékpárosoknak. A közeli Intsikurmu-erdőben rendezett fesztiválok és koncertek különleges hangulatot árasztanak a természet lágy ölén. Põlva ideális helyszín azoknak, akik szeretnék felfedezni a Setomaa régió egyedülálló kultúráját és a dél-észt táj békéjét.",
       ro: "Põlva, centrul județului omonim, este situat în pitorescul sud-est al Estoniei. Orașul este un punct de plecare ideal pentru a explora peisajul deluros, lacurile limpezi și pădurile adânci ale regiunii. Põlva este cunoscut pentru atmosfera sa liniștită și legătura strânsă cu natura. Festivalul anual de muzicuță atrage iubitorii de muzică, în timp ce pădurea Intsikurmu din apropiere servește ca loc de desfășurare pentru concerte și festivaluri.",
       en: "Põlva, the administrative center of Põlva County, is nestled in the picturesque landscape of southeastern Estonia. This tranquil town is an ideal base for exploring the region's rolling hills, clear lakes, and deep forests, making it a haven for nature lovers. Põlva is celebrated for its quiet atmosphere and strong connection to the natural environment. The town comes alive with the sound of music during its annual Harmonica Festival, which attracts enthusiasts from near and far. Additionally, the nearby Intsikurmu Forest serves as a magical venue for a variety of concerts and festivals, embedding culture deep within its natural surroundings. Its excellent infrastructure for hikers and cyclists makes it a prime destination for outdoor activities and for exploring the unique Setomaa region."
     },
@@ -1027,7 +1147,13 @@ export const estoniaCities: POI[] = [
         "Die Landschaft ist von sanften Hügeln und Tälern geprägt.",
         "Põlva bietet eine gute Infrastruktur für Wanderer und Radfahrer."
       ],
-      hu: [],
+      hu: [
+        "A várost átszelő Ora-folyó a mesterségesen kialakított Põlva-tóba torkollik.",
+        "A põlvai Mária-templom a régió egyik legrégebbi és legszebb szakrális építménye.",
+        "Itt rendezik meg Észtország egyetlen rendszeres nemzetközi szájharmonika-fesztiválját.",
+        "Az Intsikurmu szabadtéri színpad az észt dalfesztivál-hagyományok egyik fontos helyszíne.",
+        "A város közelében található a Taevaskoja homokkőfal, az ország egyik legszebb természeti látnivalója."
+      ],
       ro: [
         "Capitala județului Põlva.",
         "Râul Ora se varsă în lacul Põlva.",
@@ -1065,7 +1191,7 @@ export const estoniaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "Valga, an der südlichen Grenze Estlands gelegen, bildet zusammen mit der lettischen Stadt Valka eine einzigartige Doppelstadt. Diese Grenzlage prägt den Charakter und die Geschichte der Stadt. Valga ist ein wichtiger Verkehrsknotenpunkt und Handelsort in Südestland. Das Stadtbild zeugt von der Bedeutung als Eisenbahnstadt im 19. und 20. Jahrhundert. Ein Spaziergang durch Valga-Valka ermöglicht es, buchstäblich mit einem Fuß in zwei Ländern zu stehen.",
-      hu: "",
+      hu: "Valga Észtország déli határán fekszik, és a lettországi Valkával együtt egy egyedülálló, határokon átívelő ikervárost alkot. A település történelmét és mindennapjait meghatározza ez a különleges földrajzi helyzet, ahol a két ország kultúrája és nyelve összefonódik. Valga fontos vasúti és közlekedési csomópont, amely évszázadok óta összeköti Rigát és Tallinnt. A város építészete a 19. századi vasúti fellendülés nyomait őrzi, de modern terek és közös észt-lett projektek is jellemzik. A Pedeli-folyó partján kialakított pihenőövezet mindkét város lakói számára kedvelt találkozóhely, jelképezve a határok nélküli együttműködést.",
       ro: "Valga, situat la granița de sud a Estoniei, formează un oraș-dublu unic împreună cu orașul leton Valka. Această poziție de frontieră definește caracterul și istoria orașului. Valga este un important nod de transport și un centru comercial în sudul Estoniei. Peisajul urban reflectă importanța sa ca oraș feroviar în secolele XIX și XX. O plimbare prin Valga-Valka permite, la propriu, să stai cu un picior în fiecare țară.",
       en: "Valga, situated on Estonia's southern border, forms a unique twin city with Valka in Latvia, embodying the slogan 'One City, Two Countries.' This special geographical and political situation shapes its character, history, and daily life. As a significant transport hub and commercial center in southern Estonia, Valga's cityscape reflects its historical importance as a railway town in the 19th and 20th centuries. A walk through Valga-Valka offers the rare experience of crossing an international border seamlessly within a single urban area, allowing you to literally stand with one foot in each country. The Pedeli River, with its recreational areas, meanders through both sides of the city, further unifying this fascinating cross-border community."
     },
@@ -1086,7 +1212,13 @@ export const estoniaCities: POI[] = [
         "Valga und Valka teilen einige grenzüberschreitende Dienstleistungen.",
         "Die St.-Johannes-Kirche ist ein architektonisches Wahrzeichen der Stadt."
       ],
-      hu: [],
+      hu: [
+        "Valga és Valka mottója: „Egy város, két ország”, ami a határok nélküli átjárhatóságra utal.",
+        "A város vasútállomása monumentális épület, amely a 20. század eleji közlekedési fontosságot jelzi.",
+        "A Valga Hadtörténeti Múzeum Észtország egyik legátfogóbb katonai kiállításának ad otthont.",
+        "A Szent János-templom különleges, ovális alaprajzú épülete a város egyik fő látnivalója.",
+        "Évente közös észt-lett ikerváros-fesztivált és vásárokat rendeznek a településen."
+      ],
       ro: [
         "Formează un oraș dublu cu Valka din Letonia.",
         "Nod important feroviar și rutier în sudul Estoniei.",
@@ -1132,7 +1264,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Altstadt von Tallinn, ein UNESCO-Weltkulturerbe, ist eine der am besten erhaltenen mittelalterlichen Städte Europas. Ein Labyrinth aus Kopfsteinpflastergassen, gotischen Kirchen und historischen Kaufmannshäusern, umgeben von einer fast vollständig intakten Stadtmauer. Sie ist das pulsierende Herz der estnischen Hauptstadt und ein Magnet für Besucher aus aller Welt.",
-      hu: "",
+      hu: "Tallinn óvárosa, amely az UNESCO Világörökség része, Európa egyik legjobb állapotban fennmaradt középkori városa, ahol a történelem minden utcakövön visszaköszön. A macskaköves utcák labirintusa, a gótikus templomtornyok és a kereskedők egykori lakóházai egy varázslatos időutazásra hívják a látogatókat. Az egészet egy szinte sértetlen, 13. századi városfal veszi körül, amely egykor a Hanza-szövetség gazdagságát és hatalmát védte. Az óváros két részre oszlik: az alsóvárosra, a kereskedők egykori központjára, és a Toompea-dombra, ahol a nemesség és a hatalom székhelye volt. Ma az óváros Tallinn lüktető szíve, tele hangulatos kávézókkal, kézműves műhelyekkel és titkos belső udvarokkal.",
       ro: "Centrul Vechi din Tallinn, un sit al Patrimoniului Mondial UNESCO, este unul dintre cele mai bine conservate orașe medievale din Europa. Un labirint de străzi pavate, biserici gotice și case istorice ale negustorilor, înconjurat de un zid de apărare aproape complet intact. Este inima vibrantă a capitalei estoniene și un magnet pentru vizitatori din întreaga lume.",
       en: "Tallinn's Old Town, a UNESCO World Heritage site, is one of the best-preserved medieval cities in Europe, offering a captivating journey back in time. This enchanting district is a labyrinth of cobblestone streets, hidden courtyards, Gothic spires, and historic merchants' houses, all enclosed within a nearly intact 13th-century city wall. It is the vibrant heart of the Estonian capital, buzzing with life while retaining its ancient charm. Divided into the lower town (All-linn) and the upper Toompea Hill, it serves as both a bustling center for locals and a magnet for visitors from around the globe, who come to soak in its unique atmosphere, explore its historic landmarks, and enjoy its cozy cafes and artisan shops."
     },
@@ -1153,7 +1285,13 @@ export const estoniaCulture: POI[] = [
         "Im Winter findet hier ein berühmter Weihnachtsmarkt statt.",
         "Die Architektur ist eine Mischung aus Gotik und Barock."
       ],
-      hu: [],
+      hu: [
+        "1997 óta az UNESCO Világörökség része.",
+        "A városfal eredeti hossza 4 km volt, amelyből máig 2 km és 26 torony maradt fenn.",
+        "A Városháza tér (Raekoja plats) már a 11. század óta a város társadalmi központja.",
+        "Itt található a Raeapteek, Európa egyik legrégebbi, ma is működő gyógyszertára.",
+        "Az óváros építészete a gótika, a reneszánsz és a barokk stílusok lenyűgöző keveréke."
+      ],
       ro: [
         "Inclus în Patrimoniul Mondial UNESCO din 1997.",
         "Zidul orașului are o lungime de aproape 2 km și peste 20 de turnuri conservate.",
@@ -1196,7 +1334,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Universität Tartu, gegründet 1632, ist die älteste und renommierteste Universität Estlands. Sie ist das intellektuelle Herz des Landes und prägt die Atmosphäre der Stadt Tartu entscheidend. Das historische Hauptgebäude ist ein Meisterwerk des Klassizismus. Die Universität ist nicht nur ein Bildungszentrum, sondern auch ein wichtiger Motor für Forschung und Innovation im Baltikum.",
-      hu: "",
+      hu: "Az 1632-ben alapított Tartui Egyetem Észtország legrégebbi és legtekintélyesebb felsőoktatási intézménye, az ország szellemi életének bölcsője. Az egyetem főépülete a klasszicista építészet mesterműve, amelynek monumentális oszlopcsarnoka Tartu egyik legfontosabb jelképe. Az intézmény nemcsak az oktatás központja, hanem a kutatás és innováció motorja is a Baltikumban, vonzva a hallgatókat a világ minden tájáról. Története során olyan neves tudósok tanítottak és kutattak itt, akik meghatározták az európai tudomány fejlődését. Az egyetem könyvtára és múzeumai felbecsülhetetlen értékű történelmi kincseket és kéziratokat őriznek. A város és az egyetem élete elválaszthatatlanul összefonódik, fiatalos és vibráló energiával töltve meg az ősi falakat.",
       ro: "Universitatea din Tartu, fondată în 1632, este cea mai veche și mai renumită universitate din Estonia. Este inima intelectuală a țării și definește în mod crucial atmosfera orașului Tartu. Clădirea principală istorică este o capodoperă a clasicismului. Universitatea nu este doar un centru educațional, ci și un motor important pentru cercetare și inovație în regiunea baltică.",
       en: "The University of Tartu, founded in 1632 by the Swedish King Gustav II Adolph, is Estonia's oldest, largest, and most prestigious university. It stands as the nation's intellectual heart, fundamentally shaping the lively and scholarly atmosphere of Tartu. The university's main building, a masterpiece of Classicist architecture, is an iconic symbol of the city. More than just an educational institution, the university is a powerful engine for research and innovation in the Baltic region, attracting students and scholars from all over the world. Its rich history and commitment to academic excellence have produced many of Estonia's most significant cultural and political figures, solidifying its role as the cradle of Estonian national consciousness."
     },
@@ -1217,7 +1355,13 @@ export const estoniaCulture: POI[] = [
         "Das Kunstmuseum der Universität ist das älteste Museum Estlands.",
         "Die Universität ist Mitglied der Coimbra-Gruppe und des Utrecht-Netzwerks."
       ],
-      hu: [],
+      hu: [
+        "Az egyetemet II. Gusztáv Adolf svéd király alapította.",
+        "Észak-Európa egyik legrégebbi és legfontosabb egyeteme.",
+        "A főépületet Johann Wilhelm Krause építész tervezte a 19. század elején.",
+        "Az egyetemi könyvtár Észtország legnagyobb és legrégibb tudományos gyűjteménye.",
+        "Az egyetemhez tartozó botanikus kert a legrégebbi a balti államokban (1803)."
+      ],
       ro: [
         "Fondată de regele Gustav II Adolf al Suediei.",
         "Una dintre cele mai vechi universități din Europa de Nord.",
@@ -1260,7 +1404,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Kadriorg-Palast, ein barockes Meisterwerk, wurde im 18. Jahrhundert von Peter dem Großen für seine Frau Katharina I. in Auftrag gegeben. Umgeben von einem wunderschön angelegten Park, beherbergt der Palast heute das Kadriorg-Kunstmuseum, das ausländische Kunst vom 16. bis zum 20. Jahrhundert ausstellt. Das Ensemble aus Palast, Park und Kunst ist ein Juwel in Tallinn.",
-      hu: "",
+      hu: "A Kadriorg-palota a barokk építészet lenyűgöző remekműve Tallinnban, melyet Nagy Péter orosz cár építtetett felesége, I. Katalin tiszteletére 1718-ban. Az olasz Nicola Michetti által tervezett palota és a hozzá tartozó park a cári pompa egyik legszebb példája Észak-Európában. A palota neve észtül „Katalin-völgyet” jelent, és eredetileg nyári rezidenciaként szolgált az uralkodói család számára. Ma az épület a Kadriorg Művészeti Múzeumnak ad otthont, ahol a 16-20. század közötti európai és orosz mesterműveket csodálhatják meg a látogatók. A gondosan gondozott francia kert szökőkútjaival és virágágyásaival Tallinn egyik legkedveltebb pihenőhelye. A palota környéke a diplomáciai negyed része, ahol az elnöki rezidencia is található.",
       ro: "Palatul Kadriorg, o capodoperă barocă, a fost comandat în secolul al XVIII-lea de Petru cel Mare pentru soția sa, Ecaterina I. Înconjurat de un parc frumos amenajat, palatul găzduiește astăzi Muzeul de Artă Kadriorg, care expune artă străină din secolele XVI-XX. Ansamblul format din palat, parc și artă este o bijuterie în Tallinn.",
       en: "Kadriorg Palace, a magnificent baroque masterpiece located in Tallinn, was commissioned by Tsar Peter the Great in 1718 for his wife, Catherine I. Designed by Italian architect Nicola Michetti, the palace and its surrounding formal gardens are a stunning example of Petrine Baroque architecture. The name 'Kadriorg' translates to 'Catherine's Valley' in Estonian. Originally a summer residence for the Russian imperial family, the palace now houses the Kadriorg Art Museum, which displays a rich collection of foreign art from the 16th to the 20th centuries. The meticulously landscaped park, with its Swan Pond, flowerbeds, and fountains, is a beloved recreational area for both locals and tourists, offering a serene escape and a glimpse into Estonia's imperial past."
     },
@@ -1281,7 +1425,13 @@ export const estoniaCulture: POI[] = [
         "Der Park umfasst auch einen japanischen Garten.",
         "Im Sommer finden im Park zahlreiche Konzerte und Veranstaltungen statt."
       ],
-      hu: [],
+      hu: [
+        "A palota bálterme a barokk belsőépítészet egyik legszebb példája a Baltikumban.",
+        "A kertben található Hattyú-tó és a japánkert a látogatók kedvenc fotóhelyszíne.",
+        "A palota építésénél több száz külföldi és helyi kézműves dolgozott.",
+        "Ma itt található az ország legjelentősebb külföldi képzőművészeti gyűjteménye.",
+        "A park területén kapott helyet a modern KUMU Művészeti Múzeum is."
+      ],
       ro: [
         "Numele 'Kadriorg' înseamnă 'Valea Ecaterinei' în germană.",
         "Proiectat de arhitectul italian Nicola Michetti.",
@@ -1324,7 +1474,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Bischofsburg Haapsalu ist das Herzstück der gleichnamigen Kurstadt. Die gut erhaltene Anlage aus dem 13. Jahrhundert umfasst eine Domkirche, in der die Legende der 'Weißen Dame' beheimatet ist. Die Burgmauern und der Innenhof sind ein beliebter Ort für Veranstaltungen und Festivals. Die Burg ist ein Muss für jeden Besucher von Haapsalu und ein wichtiges Zeugnis der Geschichte Westestlands.",
-      hu: "",
+      hu: "A Haapsalu püspöki vár a bájos tengerparti üdülőváros történelmi szíve és legfontosabb látnivalója. Ez a 13. században épült monumentális erődítmény évszázadokon át az Ösel-Wiek püspökség székhelye volt. A vár monumentális kőfalai, a gótikus székesegyház és a kolostorépület ma is tiszteletet parancsoló látványt nyújtanak. A vár leginkább a „Fehér Hölgy” legendájáról híres, aki a legenda szerint minden augusztusi teliholdkor megjelenik a templom ablakában. A várudvar ma koncerteknek, lovagi tornáknak és középkori fesztiváloknak ad otthont, életre keltve a múltat. A látogatók felkapaszkodhatnak az őrtoronyba, ahonnan pazar kilátás nyílik a városra és a tengerre.",
       ro: "Castelul Episcopal din Haapsalu este piesa centrală a orașului balnear omonim. Complexul bine conservat din secolul al XIII-lea include o catedrală unde își are originea legenda 'Doamnei Albe'. Zidurile castelului și curtea interioară sunt un loc popular pentru evenimente și festivaluri. Castelul este o atracție obligatorie pentru orice vizitator al Haapsalu și o mărturie importantă a istoriei vestului Estoniei.",
       en: "Haapsalu Bishop's Castle is the historic heart of the charming seaside resort town of Haapsalu. This well-preserved 13th-century complex features massive stone walls, a majestic cathedral, and a convent building. The castle was the center of the Bishopric of Ösel-Wiek for centuries. Today, it's a major tourist attraction and a beloved venue for concerts and festivals. The castle's cathedral is particularly famous for the legend of the White Lady, a ghostly maiden said to appear in a chapel window during the full moon in August. Visitors can explore the castle grounds, climb the watchtower for panoramic views of the town, and delve into the region's medieval history at the castle museum. The romantic ruins and the enduring legend make it a captivating destination."
     },
@@ -1345,7 +1495,13 @@ export const estoniaCulture: POI[] = [
         "Pjotr Tschaikowski besuchte Haapsalu und die Burg im Jahr 1867.",
         "Die Mauern sind ein beliebtes Motiv für Fotografen."
       ],
-      hu: [],
+      hu: [
+        "A vártemplom a Baltikum legnagyobb egyhajós gótikus temploma.",
+        "A várfalak vastagsága helyenként eléri a 3 métert.",
+        "A „Fehér Hölgy” napok a város legfontosabb kulturális eseménye minden nyáron.",
+        "A vár területén múzeum mutatja be a középkori fegyvereket és az egyházi életet.",
+        "Az őrtoronyban működik a város harangjátéka, amely óránként szólal meg."
+      ],
       ro: [
         "Castelul a fost fondat în secolul al XIII-lea ca centru al Episcopiei de Ösel-Wiek.",
         "Catedrala este cea mai mare biserică cu o singură navă din Baltica.",
@@ -1388,7 +1544,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Alte Sternwarte Tartu ist ein historisches Wissenschaftszentrum von Weltrang. Sie ist ein wichtiger Teil des UNESCO-Weltkulturerbes 'Struve-Bogen', einem Netz von geodätischen Vermessungspunkten. Das klassizistische Gebäude und seine Instrumente zeugen von der bedeutenden Rolle Tartus in der Geschichte der Astronomie und Geodäsie.",
-      hu: "",
+      hu: "A Tartui Régi Csillagvizsgáló világrangú tudományos emlékmű, és a UNESCO Világörökség részét képező Struve-geodéziai ív egyik kulcsfontosságú állomása. A 19. század elején a Toomemägi-dombon alapított intézet gyorsan a csillagászat egyik vezető központjává vált Európában. Friedrich Georg Wilhelm von Struve vezetése alatt itt végeztek először sikeres méréseket a csillagok parallaxisának meghatározására. A klasszicista épület egykor a világ legfejlettebb távcsöveit, köztük a híres Fraunhofer-refraktort rejtette. Ma az obszervatórium múzeumként működik, bemutatva a csillagászat és a geodézia történetét, valamint Tartu hozzájárulását a világképünk alakulásához. A csillagvizsgáló nemcsak tudományos helyszín, hanem a technikai innováció szimbóluma is Észtországban.",
       ro: "Vechiul Observator din Tartu este un centru științific istoric de talie mondială. Este o parte importantă a Patrimoniului Mondial UNESCO 'Arcul Geodezic Struve', o rețea de puncte de măsurare geodezică. Clădirea clasicistă și instrumentele sale mărturisesc rolul semnificativ al Tartu în istoria astronomiei și geodeziei.",
       en: "The historic Tartu Old Observatory is a world-class scientific monument and a key site of the UNESCO World Heritage listed Struve Geodetic Arc. Established in the early 19th century on Toome Hill, it quickly became a leading center for astronomy. Under the direction of the renowned astronomer Friedrich Georg Wilhelm von Struve, the observatory conducted groundbreaking research, including some of the first measurements of a star's parallax. The classicist building housed one of the most advanced telescopes of its time, the Fraunhofer refractor. Today, the observatory functions as a museum, showcasing its rich history and significant contributions to astronomy, geodesy, and our understanding of the Earth's shape and size."
     },
@@ -1409,7 +1565,13 @@ export const estoniaCulture: POI[] = [
         "Von hier aus wurden wichtige Messungen zur Form und Größe der Erde durchgeführt.",
         "Die Sternwarte liegt auf dem Domberg (Toomemägi) in Tartu."
       ],
-      hu: [],
+      hu: [
+        "A csillagvizsgáló a UNESCO Struve-geodéziai ív egyik fontos mérőpontja.",
+        "1824-ben itt helyezték üzembe a világ akkori legnagyobb és legpontosabb lencsés távcsövét.",
+        "Struve itt mérte meg a Vega csillag távolságát az elsők között a világon.",
+        "Az épület kupolája 360 fokban körbeforgatható a megfigyelésekhez.",
+        "Ma interaktív kiállítások mutatják be az űrrakétákat és a távcsövek működését."
+      ],
       ro: [
         "Parte a Patrimoniului Mondial UNESCO Arcul Geodezic Struve.",
         "Fondat la începutul secolului al XIX-lea.",
@@ -1452,7 +1614,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Alexander-Newski-Kathedrale auf dem Tallinner Domberg ist die prächtigste orthodoxe Kirche der Stadt. Erbaut um 1900, symbolisiert sie die Zeit des Russischen Reiches in Estland. Ihre Zwiebeltürme und das reiche Mosaikdekor machen sie zu einem unübersehbaren Wahrzeichen und einem wichtigen spirituellen Zentrum für die orthodoxe Gemeinschaft.",
-      hu: "",
+      hu: "A Tallinni Toompea-domb tetején trónoló Alekszandr Nyevszkij-székesegyház a város legpompásabb és legnagyobb ortodox temploma. Az 1900 körül épült katedrális az Orosz Birodalom hatalmát szimbolizálta Észtországban a 19. század végén. Jellegzetes hagymakupolái, gazdag mozaikdíszítése és monumentális megjelenése miatt Tallinn egyik leglátványosabb jelképe. Az épület orosz neobizánci stílusban készült, belső tere pedig tele van aranyozott ikonokkal és vallási műalkotásokkal. Bár építésekor sok észt számára a ruszifikáció nemkívánatos jelképe volt, ma már fontos építészeti emlék és aktív hitéleti központ. A templom harangjátéka különösen híres, Tallinn legnagyobb harangja is itt található.",
       ro: "Catedrala Alexander Nevsky de pe Dealul Toompea din Tallinn este cea mai magnifică biserică ortodoxă din oraș. Construită în jurul anului 1900, simbolizează perioada Imperiului Rus în Estonia. Turlele sale în formă de ceapă și decorul bogat în mozaicuri o fac un punct de reper de neignorat și un important centru spiritual pentru comunitatea ortodoxă.",
       en: "The Alexander Nevsky Cathedral, perched atop Toompea Hill in Tallinn, is the city's most magnificent Orthodox church. Built around 1900, it symbolizes the period of the Russian Empire in Estonia. Its distinctive onion domes and rich mosaic decorations make it an unmissable landmark and a vital spiritual center for the Orthodox community. This opulent cathedral was designed in a mixed historicist style, but the dominant influence is the Russian Revival style. It was a controversial symbol of Russification for many Estonians, and its demolition was even considered in the 1920s, but the plan was never executed. Today, it stands as a significant architectural monument and an active place of worship."
     },
@@ -1473,7 +1635,13 @@ export const estoniaCulture: POI[] = [
         "Die Innenräume sind reich mit Ikonen und Mosaiken geschmückt.",
         "Sie ist die Hauptkathedrale der Estnisch-Orthodoxen Kirche des Moskauer Patriarchats."
       ],
-      hu: [],
+      hu: [
+        "A katedrális tizenegy harangja közül a legnagyobb 15 tonnát nyom.",
+        "Nevét Alekszandr Nyevszkij orosz nemzeti hősről és szentről kapta.",
+        "A templomot szinte teljes egészében mozaikok és ikonok díszítik belülről.",
+        "Az 1920-as években az észt kormány mérlegelte a lebontását, de végül megmaradt.",
+        "Ez a Tallinni Észt Ortodox Egyház (Moszkvai Patriarchátus) főtemploma."
+      ],
       ro: [
         "Construită între 1894 și 1900.",
         "Un exemplu remarcabil al stilului ruso-bizantin.",
@@ -1516,7 +1684,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Insel Kihnu ist ein einzigartiges Matriarchat in der Ostsee und Teil des immateriellen UNESCO-Weltkulturerbes. Die Frauen von Kihnu sind die Hüterinnen der Traditionen, des Gesangs, der Tänze und des Handwerks. Die farbenfrohen Trachten und die besondere Lebensweise machen die Insel zu einem faszinierenden Reiseziel für Kulturliebhaber.",
-      hu: "",
+      hu: "Kihnu szigete egy egyedülálló matriarchális közösség a Balti-tengeren, amely a UNESCO szellemi világörökségének része. A szigeten a nők a hagyományok, az énekek, a táncok és a kézművesség elsődleges őrzői, miközben a férfiak gyakran hónapokig távol vannak a tengeren. A lakók ma is büszkén viselik színes, kézzel szőtt népviseletüket, különösen a jellegzetes csíkos szoknyát, a „kört”-öt. Kihnu életmódja a természettel való szoros összhangon és az ősi szokások megőrzésén alapul. A látogatók számára a sziget egy élő múzeum, ahol az idő mintha megállt volna, és a közösség ereje mindenhol érezhető. A szigeten a motorkerékpár az elsődleges közlekedési eszköz, ami még egyedibbé teszi a hangulatot.",
       ro: "Insula Kihnu este un matriarhat unic în Marea Baltică și face parte din patrimoniul cultural imaterial UNESCO. Femeile din Kihnu sunt păstrătoarele tradițiilor, cântecelor, dansurilor și meșteșugurilor. Costumele populare colorate și modul de viață special fac din insulă o destinație fascinantă pentru iubitorii de cultură.",
       en: "Kihnu Island is a unique matriarchal society in the Baltic Sea, recognized as a UNESCO Masterpiece of the Oral and Intangible Heritage of Humanity. The women of Kihnu are the primary guardians of the island's cultural traditions, including songs, dances, and intricate handicrafts. While men are often away at sea, the women manage daily life and preserve their ancient customs. The vibrant, colorful traditional clothing, particularly the striped skirts known as 'kört', and the distinctive way of life make the island a fascinating destination for cultural enthusiasts. The community's resilience and dedication to its heritage offer a rare glimpse into a living culture where traditions are woven into the fabric of everyday existence."
     },
@@ -1537,7 +1705,13 @@ export const estoniaCulture: POI[] = [
         "Die Johanneskirche auf Kihnu ist die einzige orthodoxe Kirche mit Zwiebelturm auf einer estnischen Kleininsel.",
         "Das Kihnu-Meeresfest ist das wichtigste Ereignis des Jahres."
       ],
-      hu: [],
+      hu: [
+        "Kihnu kulturális tere 2003-ban került fel a UNESCO listájára.",
+        "A nők szoknyájának színe és mintája jelzi viselőjük családi állapotát és korát.",
+        "A szigeten szinte mindenki oldalkocsis motorkerékpárral közlekedik.",
+        "A helyi nyelvjárás olyannyira eltér az irodalmi észttől, hogy külön nyelvnek is tekinthető.",
+        "A kihnu-i tengeri fesztivál a sziget legfontosabb éves eseménye, amely bemutatja a helyi gasztronómiát."
+      ],
       ro: [
         "Cultura Kihnu a fost inclusă în 2003 pe lista UNESCO a patrimoniului cultural imaterial.",
         "Femeile poartă în mod tradițional fuste în dungi ('kört').",
@@ -1579,8 +1753,8 @@ export const estoniaCulture: POI[] = [
       en: "Summer capital with a beachfront promenade."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Der Strand von Pärnu ist das Herzstück der estnischen Sommerhauptstadt und bekannt für seinen feinen, weißen Sand und das flache, warme Wasser. Die weitläufige Bucht von Pärnu erwärmt sich im Sommer schneller als andere Ostseeküsten, was den Strand besonders bei Familien beliebt macht. Eine moderne Promenade mit Brunnen, Spielplätzen und Cafés säumt den Küstenabschnitt und lädt zum Flanieren ein. Pärnu blickt auf eine lange Tradition als Kurort zurück, die bis in das Jahr 1838 reicht. Heute verbindet der Strand klassische Bäderarchitektur mit einem lebendigen, modernen Urlaubsgefühl.",
+      hu: "A Pärnu strand Észtország nyári fővárosának lüktető szíve és legfőbb vonzereje. Finom, fehér homokjával és a sekély, gyorsan felmelegedő vizével a családok és a napozni vágyók igazi paradicsoma. A modern tengerparti sétányt szökőkutak, parkok és hangulatos teraszos kávézók szegélyezik, melyek tökéletes helyszínt nyújtanak a pihenéshez. A strand nemcsak az úszásról és napozásról szól; nyaranta számos esemény, strandröplabda-torna és zenei fesztivál tölti meg energiával a partot. A környék elegáns fürdőépületei és wellness-szállodái a város gazdag gyógyfürdő-hagyományait idézik. Esténként a sétány a korzózók és a naplementében gyönyörködők kedvelt találkozóhelyévé válik.",
       ro: "Plaja din Pärnu este sufletul capitalei de vară a Estoniei. Cu nisipul său fin și auriu și apele puțin adânci, este un magnet pentru familii și turiști. Promenada sa vibrantă, mărginită de fântâni, parcuri și cafenele, oferă un loc perfect pentru plimbări relaxante. Plaja nu este doar un loc pentru plajă și înot, ci și un centru pentru evenimente, sporturi de plajă și festivaluri de muzică pe tot parcursul verii, creând o atmosferă plină de viață și energie.",
       en: "Pärnu Beach is the heart and soul of Estonia's summer capital. With its fine, golden sand and shallow, quickly warming waters, it is a magnet for families and sun-seekers. Its vibrant promenade, lined with fountains, parks, and cafes, offers a perfect setting for leisurely strolls and relaxation. The beach is more than just a place for sunbathing and swimming; it's a bustling hub for events, beach sports like volleyball and kitesurfing, and music festivals throughout the summer. This energetic atmosphere, combined with the classic resort architecture of the nearby spa buildings, creates an idyllic and lively seaside experience that defines the character of Pärnu."
     },
@@ -1591,8 +1765,20 @@ export const estoniaCulture: POI[] = [
       en: ["Summer capital", "Beach promenade"]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: [
+        "Der Strand erstreckt sich über eine Länge von etwa zwei Kilometern.",
+        "Pärnu trägt seit 1996 offiziell den Titel 'Sommerhauptstadt Estlands'.",
+        "Das historische Schlammbad von Pärnu liegt in unmittelbarer Nähe zum Strand.",
+        "Die Wassertemperaturen in der flachen Bucht können im Sommer über 25 Grad erreichen.",
+        "Der Strand wurde mehrfach mit der Blauen Flagge für Wasserqualität ausgezeichnet."
+      ],
+      hu: [
+        "A Pärnu strand homokja híresen finom és tiszta, rendszeresen kap Kék Zászló minősítést.",
+        "A vízmélység olyan sekély, hogy több tíz métert kell besétálni az úszáshoz.",
+        "A strand sétánya a 2000-es években kapta meg mai, modern és díjnyertes arculatát.",
+        "Pärnu strandján található Észtország egyik legnagyobb és legmodernebb játszótere.",
+        "A szörfözők és kitesurfosok körében is népszerű hely az állandó kedvező széljárás miatt."
+      ],
       ro: [
         "Plaja se întinde pe aproape 2 kilometri de-a lungul Golfului Pärnu.",
         "Apele sale sunt printre cele mai calde din Estonia în timpul verii.",
@@ -1635,7 +1821,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Toompea-vár, amely Tallinn mészkődombján magasodik, Észtország hatalmi központjának ősi és töretlen jelképe. A mai épületegyüttes a Riigikogu-nak, az észt parlamentnek ad otthont egy különleges rózsaszín barokk palotában, melyet a 18. században emeltek. Ez a modern kormányzati funkció szervesen illeszkedik a középkori erődítmény fennmaradt részeihez, köztük a 45 méter magas Hosszú Hermann-toronyhoz. A vár több mint 800 éves története során dán, lovagrendi, svéd és orosz uralkodók székhelye volt, és mindegyikük otthagyta építészeti nyomát. A Toompea nemcsak politikai központ, hanem a nemzeti függetlenség és ellenállás szimbolikus helyszíne is. A vár udvara és a környező kilátók Tallinn leglátogatottabb turisztikai pontjai közé tartoznak.",
       ro: "Castelul Toompea, situat pe dealul omonim, este simbolul puterii în Estonia. Complexul actual găzduiește Riigikogu, parlamentul estonian, într-o clădire roz, barocă, construită în secolul al XVIII-lea. Aceasta este integrată cu rămășițele cetății medievale, inclusiv turnul Pikk Hermann, un simbol național. Istoria sa se întinde pe parcursul a peste 800 de ani, servind drept fortăreață pentru danezi, teutoni, suedezi și ruși, fiecare lăsându-și amprenta arhitecturală. Astăzi, este un centru politic vital și o atracție turistică majoră.",
       en: "Toompea Castle, perched on the limestone hill of the same name, is the enduring symbol of power in Estonia. Today's complex houses the Riigikogu, the Estonian Parliament, within a distinct pink Baroque palace built in the 18th century on the site of the castle's demolished eastern wing. This modern governmental function is seamlessly integrated with the remnants of the ancient medieval fortress, most notably the Pikk Hermann (Tall Hermann) tower, a cherished national symbol. With a history stretching back over 800 years, the castle has served as a stronghold for Danish, Teutonic, Swedish, and Russian rulers, each leaving their architectural mark. It remains a vital political center and a major tourist attraction, embodying the nation's history of resilience and governance."
     },
@@ -1647,7 +1833,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A vár bástyáján mindennap felvonják az észt nemzeti lobogót napkeltekor.",
+        "A parlamenti ülésterem az egyetlen expresszionista stílusú parlamenti épület a világon.",
+        "A monda szerint a Toompea-dombot Linda emelte férje, a hős Kalev sírja fölé.",
+        "A vár északi faláról nyílik az egyik legszebb kilátás Tallinn óvárosára.",
+        "A rózsaszín homlokzatot II. Katalin orosz cárnő idején alakították ki."
+      ],
       ro: [
         "Găzduiește Parlamentul Estoniei (Riigikogu).",
         "Turnul Pikk Hermann, înalt de 45.6 metri, este un simbol național.",
@@ -1690,7 +1882,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "Tallinn városfala Európa egyik leglátványosabb és legépebben maradt középkori védelmi rendszere, amely meghatározza az óváros arculatát. Az építkezés a 13. században kezdődött, és több mint 300 éven át tartott a falak folyamatos bővítése és megerősítése. Ma közel két kilométernyi falszakasz és 26 védőtorony áll még, hűen tükrözve az egykori Hanza-város, Reval gazdagságát és erejét. A látogatók egyes szakaszokon fel is sétálhatnak a gyilokjárókra, és felfedezhetik az olyan híres tornyokat, mint a Kiek in de Kök vagy a Kövér Margaréta. A vörös tetős tornyok és a szürke mészkőfalak látványa Tallinn UNESCO világörökségi helyszínének elengedhetetlen része. A falak nemcsak védelmi célokat szolgáltak, hanem a város büszkeségét is hirdették a külvilág felé.",
       ro: "Zidurile orașului Tallinn sunt printre cele mai impresionante și complete sisteme de fortificații medievale din Europa. Construite începând cu secolul al XIII-lea, au fost extinse și întărite constant timp de peste 300 de ani. Astăzi, aproape 2 kilometri de zid și 26 de turnuri de apărare încă stau în picioare, oferind o imagine vie a puterii și bogăției orașului hanseatic Reval. Vizitatorii pot urca pe porțiuni ale zidului, explorând turnuri precum Kiek in de Kök sau Hellemann, și pot admira priveliștile panoramice asupra acoperișurilor roșii din Orașul Vechi și a portului modern.",
       en: "The Tallinn city walls are among the most impressive and well-preserved medieval fortification systems in Europe. Construction began in the 13th century, and the walls were continuously expanded and strengthened for over 300 years. Today, nearly two kilometers of the original wall and 26 defensive towers still stand, offering a vivid picture of the power and wealth of the Hanseatic city of Reval. Visitors can walk along sections of the wall, explore towers like Kiek in de Kök and Hellemann, and admire panoramic views over the red-roofed Old Town and the modern harbor. The walls are a defining feature of Tallinn's UNESCO World Heritage site and a testament to its medieval past."
     },
@@ -1702,7 +1894,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A falak vastagsága néhol eléri a 3 métert, magasságuk pedig a 15 métert.",
+        "A Kiek in de Kök torony neve alnémetül azt jelenti: „nézz be a konyhába”.",
+        "A Viru-kapu két ikertornya az óváros egyik legikonikusabb bejárata és fotótémája.",
+        "A Kövér Margaréta-torony ma az Észt Tengerészeti Múzeumnak ad otthont.",
+        "A bástyák alatti titkos alagutak ma is látogathatók a történelemkedvelők számára."
+      ],
       ro: [
         "Construcția a început în 1265, dar majoritatea structurii actuale datează din secolul al XIV-lea.",
         "La apogeu, zidul avea 46 de turnuri și o lungime de 4 kilometri.",
@@ -1745,7 +1943,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Kuressaare-vár, más néven püspöki vár, a Baltikum egyik legimpozánsabb és legjobb állapotban megőrzött középkori erődítménye. A 14. század végén épült gótikus vár kastélyszerű, zárt formájával és monumentális egyszerűségével tűnik ki. Az erődöt széles vizesárok veszi körül, ami még hangsúlyosabbá teszi védelmi jellegét és festői megjelenését. Évszázadokon át az Ösel-Wiek püspökök rezidenciájaként szolgált, ma pedig a Saaremaa Múzeumnak ad otthont, bemutatva a sziget gazdag történelmét és természetvilágát. A látogatók bejárhatják a hatalmas lovagtermeket, a püspöki lakosztályokat és a védőtornyokat, ahonnan remek kilátás nyílik a tengerre. A várudvar gyakran ad otthont operafesztiváloknak és középkori bemutatóknak.",
       ro: "Castelul Kuressaare este una dintre cele mai bine conservate fortificații medievale din statele baltice. Construit în secolul al XIV-lea ca reședință episcopală, castelul gotic târziu este remarcabil prin simplitatea și monumentalitatea sa. Este înconjurat de un șanț larg de apă, adăugând la caracterul său defensiv. Astăzi, interiorul castelului găzduiește Muzeul Saaremaa, care prezintă istoria și natura insulei. Vizitatorii pot explora sălile vaste, turnurile de apărare și pot admira priveliștea asupra orașului și a mării. Curtea castelului este adesea gazda unor evenimente culturale, concerte și festivaluri medievale.",
       en: "Kuressaare Castle, also known as Kuressaare Episcopal Castle, stands as one of the most impressive and well-preserved medieval fortifications in the Baltic states. Constructed in the late 14th century, this magnificent Gothic fortress is remarkable for its simple yet monumental form. It is surrounded by a wide moat, which enhances its defensive character and picturesque appeal. For centuries, it served as a residence for the bishops of Ösel–Wiek. Today, the castle's interior houses the Saaremaa Museum, which showcases the rich history and unique nature of the island. Visitors can explore its grand halls, climb the defensive towers for panoramic views of the town and sea, and immerse themselves in the medieval atmosphere. The castle courtyard frequently hosts cultural events, concerts, and the famous Saaremaa Opera Days."
     },
@@ -1757,7 +1955,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "Ez az egyetlen középkori vár a Baltikumban, amely jelentősebb átépítés nélkül maradt fenn.",
+        "A vár belső udvarán minden nyáron megrendezik a Saaremaa Operanapokat.",
+        "A monda szerint az egyik pincében egy befalazott lovag csontvázát találták meg.",
+        "A vár körüli hatalmas bástyákat és sáncokat a 17. században a svédek építették.",
+        "A múzeumban Észtország egyik leggazdagabb kitömött állatgyűjteménye látható."
+      ],
       ro: [
         "Este considerat cel mai bine conservat castel episcopal din regiunea baltică.",
         "Construcția sa a început în jurul anului 1380.",
@@ -1800,7 +2004,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A narvai Hermann-vár egy monumentális kőerőd, amely Észtország összetett történelmének és keleti védőbástyájának hatalmas szimbóluma. Közvetlenül szembenéz az oroszországi Ivangorod erődjével a Narva-folyó túloldalán, olyan egyedülálló építészeti párbeszédet alkotva, amely sehol máshol nem található Európában. Ezt a stratégiai pontot már a 13. században megerősítették a dánok, majd később a Livóniai Rend bővítette tovább. A vár legmeghatározóbb eleme az 51 méter magas Hosszú Hermann-torony, amely uralja a határ menti tájat. Bár a második világháborúban súlyosan megsérült, a várat gondosan helyreállították, és ma a Narva Múzeumnak ad otthont, amely megeleveníti a határváros nyolc évszázados múltját. Az északi udvarban nyaranta kézművesek mutatják be a régi mesterségeket a látogatóknak.",
       ro: "Cetatea Hermann din Narva este un monument istoric de o importanță strategică excepțională, situat pe malul vestic al râului Narva, care formează granița cu Rusia. Construită inițial de danezi în secolul al XIII-lea, a fost extinsă de Ordinul Livonian. Turnul său principal, Pikk Hermann (Hermann cel Lung), domină peisajul. Cetatea formează un ansamblu arhitectural unic cu fortăreața Ivangorod de pe malul opus, rusesc, un memento vizual al istoriei conflictuale a regiunii. Astăzi, cetatea este un muzeu care explorează istoria orașului Narva și a relațiilor estono-ruse.",
       en: "Narva Hermann Castle is a mighty stone fortress and a powerful symbol of Estonia's complex history, standing guard on the eastern frontier. Directly facing its Russian counterpart, the Ivangorod Fortress, across the Narva River, it creates a unique and imposing architectural dialogue found nowhere else in Europe. This strategic location has been fortified since the 13th century, first by the Danes and later expanded by the Livonian Order. The castle's most dominant feature is the 51-meter-tall Tall Hermann tower, which offers commanding views over the border. Though heavily damaged in WWII, the castle has been extensively restored and now houses the Narva Museum, vividly bringing to life the centuries of military, political, and cultural history that have shaped this border city."
     },
@@ -1812,7 +2016,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A vár 51 méter magas tornyából belátni az oroszországi Ivangorod belső udvarába is.",
+        "Itt vívták 1700-ban a narvai csatát, ahol a svédek legyőzték az orosz seregeket.",
+        "A vár északi udvara (Põhjaõu) egy 17. századi városnegyed hangulatát idézi.",
+        "A Narva-folyó menti sétányról nyílik a legjobb kilátás az „ikervár” együttesre.",
+        "A múzeumban interaktív módon ismerhetjük meg a régió hadi és kereskedelmi múltját."
+      ],
       ro: [
         "Fondată în 1256 de danezi, extinsă ulterior de Ordinul Livonian.",
         "Ansamblul vizual cu fortăreața Ivangorod de peste râu este unic în Europa.",
@@ -1850,7 +2060,7 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Rakvere-vár egyedülálló módon repíti vissza a látogatókat a 16. század izgalmas világába interaktív és élményszerű programjaival. A város feletti dombon magasodó Livóniai Lovagrend egykori erődjének romjai ma minden, csak nem unalmasak. A vár középkori kalandparkként működik, ahol a történelem valóban életre kel: a látogatók páncélt ölthetnek, íjászkodhatnak, vagy próbára tehetik bátorságukat a kínzókamrában és az alkimista laborban. Korhű ruhába öltözött animátorok és kézművesek népesítik be az udvart, bemutatva a régi mesterségeket és mesélve a múlt legendáit. Ideális célpont családoknak, akik nemcsak nézni, hanem átélni is szeretnék a középkori élet mindennapjait. A vár tövében álló monumentális őstulokszobor, a Tarvas, pedig a város modern jelképe.",
       ro: "Cetatea Rakvere este o fortăreață medievală transformată într-un parc tematic interactiv, oferind o incursiune plină de viață în secolul al XVI-lea. Situată pe un deal care domină orașul Rakvere, cetatea permite vizitatorilor să participe la activități medievale, cum ar fi tirul cu arcul, ateliere de meșteșuguri și chiar să viziteze o cameră de tortură sau un laborator de alchimie. Atmosfera este animată de actori în costume de epocă. Este o destinație educativă și distractivă, perfectă pentru familii, care aduce la viață istoria Ordinului Livonian și a conflictelor din regiune.",
       en: "Rakvere Castle transports visitors back to the 16th century with its engaging and interactive approach to history. Perched atop a hill, these atmospheric ruins of a Livonian Order fortress are anything but sleepy. The castle operates as a medieval theme park where history comes alive. Visitors can immerse themselves in the past by trying on armor, learning archery, or testing their courage in the torture chamber and alchemy lab. Costumed actors and artisans populate the grounds, demonstrating crafts and sharing tales of a bygone era. It is an ideal destination for families and anyone looking for a dynamic, hands-on experience of medieval life, offering a fun and educational alternative to a traditional museum visit."
     },
@@ -1862,7 +2072,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A vár lábánál található Tarvas-szobor a Baltikum legnagyobb bronzszobra.",
+        "A látogatók saját maguk önthetnek érmét vagy készíthetnek puskaport a laborban.",
+        "A várban működik egy autentikus középkori kocsma, ahol régi receptek alapján főznek.",
+        "A kínzókamra és a „pokol” kiállítás a vár legborzongatóbb, de legnépszerűbb része.",
+        "A várudvaron rendszeresen rendeznek lovagi tornákat és ágyútűz-bemutatókat."
+      ],
       ro: [
         "Originile cetății datează din secolul al XIII-lea.",
         "A fost distrusă în timpul Războiului Polono-Suedez din 1600-1605.",
@@ -1873,7 +2089,13 @@ export const estoniaCulture: POI[] = [
         "Oferă programe educaționale speciale pentru școli.",
         "Cramele și taverna din incintă oferă mâncăruri și băuturi inspirate din Evul Mediu."
       ],
-      en: []
+      en: [
+        "The castle hill has been inhabited since the 5th-6th centuries, with the first stone fortifications built in the 13th century.",
+        "The Tarvas statue at the foot of the hill is the largest animal statue in the Baltic states, standing 5 meters tall.",
+        "During the Livonian War in the 16th century, the castle was a highly contested stronghold between Swedish, Russian, and Polish forces.",
+        "The castle ruins were transformed into a vibrant theme park in the early 21st century to promote interactive historical education.",
+        "Visitors can explore a reconstructed barber-surgeon's office and learn about medieval medicine through hands-on exhibits."
+      ]
     },
     image: "/geo-images/estonia/rakvere-castle.webp"
   },
@@ -1891,9 +2113,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Padise kolostor a ciszterci szerzetesek által a 14. században alapított lenyűgöző gótikus romegyüttes, amely Észtország egyik leghangulatosabb történelmi helyszíne. Az épület egyszerre szolgált vallási központként és erődítményként, fontos szerepet játszva a régió védelmében és hitéletében. A háborúk és pusztítások után megmaradt falak ma is hűen tükrözik a középkori kolostori építészet puritán monumentalitását. A látogatók bejárhatják a templomhajót, felkapaszkodhatnak a toronyba, és felfedezhetik a titokzatos pincéket és belső udvarokat. A kolostor romjai között járva szinte érezni a régi szerzetesi élet csendjét és nyugalmát. Padise környéke a slow travel kedvelőinek paradicsoma, ahol a történelem és a természet békésen fonódik össze.",
       ro: "Mănăstirea Padise, fondată de călugări cistercieni în secolul al XIV-lea, este un complex de ruine gotice impresionante. A servit atât ca centru religios, cât și ca fortăreață, jucând un rol important în istoria regiunii. După ce a fost abandonată în urma războaielor, structura sa a rămas o mărturie a arhitecturii medievale. Vizitatorii pot explora biserica principală, turnul, cramele și curtea interioară, simțind istoria care a modelat acest loc. Este o destinație perfectă pentru pasionații de istorie și fotografie, oferind un cadru dramatic și liniștit.",
-      en: ""
+      en: "Padise Abbey is a masterpiece of late Gothic architecture, founded by Cistercian monks in the 14th century after they moved from their previous site in Daugavgrīva. The complex served both as a spiritual sanctuary and a strategic fortress, featuring thick walls and a defensive tower to protect against raids. Its history is marked by the St. George's Night Uprising, which significantly delayed its construction for decades. Today, the ruins stand as a silent testament to the ascetic lifestyle of the Cistercian order, with the main chapel still boasting remarkable acoustics. Visitors can explore the vaulted cellars, climb the tower for views of the surrounding wilderness, and experience the tranquil atmosphere of the cloister. The site is a favorite for those seeking a deeper connection with Estonia’s medieval religious past."
     },
     facts: {
       de: ["Ehemaliges Zisterzienserkloster", "Wichtiger mittelalterlicher Klosterort", "Ruhige Lage im Westen Estlands", "Beliebt bei Kultur- und Slow-Travel-Gästen", "Starkes Motiv für Klostertourismus"],
@@ -1903,7 +2125,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A kolostor építése több mint 200 éven át tartott a középkor folyamán.",
+        "Ez volt az északi régió egyetlen megerősített ciszterci kolostora.",
+        "A romok akusztikája kiváló, ezért nyaranta népszerű koncerthelyszín.",
+        "A közeli Padise-kastélyt később a kolostorból származó kövekből építették fel.",
+        "A felújított látogatóközpontban modern kiállítás mutatja be a szerzetesek mindennapjait."
+      ],
       ro: [
         "Construcția a început în secolul al XIV-lea și a durat aproape 200 de ani.",
         "A fost cea mai importantă mănăstire fortificată din nordul Estoniei.",
@@ -1914,7 +2142,13 @@ export const estoniaCulture: POI[] = [
         "Acustica ruinelor o face un loc popular pentru concerte de vară.",
         "Este un exemplu important de arhitectură gotică cisterciană în regiunea baltică."
       ],
-      en: []
+      en: [
+        "Construction of the stone abbey took over 200 years to complete due to various regional conflicts and uprisings.",
+        "It was the only fortified Cistercian monastery in the northern Baltic region, reflecting the unstable border politics of the era.",
+        "After the dissolution of the monastery in 1559, the building was used as a fortress during the Livonian War.",
+        "The adjacent Padise Manor was later built using stones reclaimed from the abbey ruins in the 18th century.",
+        "The abbey is now a popular venue for summer concerts due to the exceptional natural sound amplification within its stone walls."
+      ]
     },
     image: "/geo-images/estonia/padise-abbey.webp"
   },
@@ -1932,9 +2166,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Koluvere-vár, más néven Lohde vára, egy idilli környezetben, egy mesterséges szigeten fekvő középkori püspöki erődítmény Nyugat-Észtországban. A 13. századból származó épület tanúja volt számos véres konfliktusnak, és az évszázadok során többször gazdát cserélt a püspökök és a német-balti nemesi családok között. A vár híres romantikus és egyben tragikus legendájáról, amely Augusta orosz hercegnőről szól, akit II. Katalin cárnő száműzött ide. A festői tornyok, a massvív kőfalak és a vizesárok különleges atmoszférát kölcsönöznek a helyszínnek. Ma a vár elegáns szállodaként és rendezvényközpontként működik, megőrizve történelmi karakterét. A környékbeli park és a Liivi-folyó látványa felejthetetlen élményt nyújt a látogatóknak.",
       ro: "Castelul Koluvere, cunoscut și sub numele de Lohde, este un castel episcopal medieval situat idilic pe o insulă artificială. Cu o istorie care datează din secolul al XIII-lea, a fost martorul a numeroase conflicte și a schimbat proprietarii de mai multe ori, de la episcopi la familii nobiliare germano-baltice. Castelul este renumit pentru legenda sa romantică despre prințesa rusă Augusta, care a fost exilată aici de către Ecaterina cea Mare. Astăzi, cu turnurile sale pitorești și zidurile de piatră, funcționează ca un hotel și loc de evenimente, oferind o atmosferă istorică autentică.",
-      en: ""
+      en: "Koluvere Castle, historically known as Lohde, is a striking example of a medieval episcopal fortress located in Western Estonia. Built on an artificial island in the 13th century by the Bishop of Saare-Lääne, it features a unique layout surrounded by a moat and the Liivi River. The castle was at the center of several power struggles between local bishops and the Livonian Order before becoming a private residence for noble families. One of its most intriguing stories involves Princess Augusta of Brunswick-Wolfenbüttel, who was exiled here by Catherine the Great and met a tragic end. The architecture reflects centuries of changes, from its rugged medieval beginnings to later Baroque refinements. Today, the beautifully restored castle serves as a boutique hotel and event venue, offering a romantic glimpse into the life of the Baltic-German nobility."
     },
     facts: {
       de: ["Historische Festung in Westestland", "Von Wasser und Landschaft geprägt", "Ehemaliger Adelssitz", "Starkes Motiv für Schlossrouten", "Malerisches Umfeld für Fototourismus"],
@@ -1944,7 +2178,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A vár egykor az Ösel-Wiek püspökség egyik legfontosabb uradalma volt.",
+        "A legenda szerint Augusta hercegnő szelleme mindmáig kísért a várfalak között.",
+        "A 17. században a várat barokk stílusú nemesi rezidenciává alakították át.",
+        "A vár körül elterülő parkban számos ritka fafajta található.",
+        "Az épületegyüttes ma az egyik legexkluzívabb esküvői helyszín az országban."
+      ],
       ro: [
         "A fost construit inițial în secolul al XIII-lea ca reședință fortificată a episcopului de Saare-Lääne.",
         "Este unul dintre cele mai mari și mai bine conservate castele-conac din Estonia.",
@@ -1955,7 +2195,13 @@ export const estoniaCulture: POI[] = [
         "Astăzi este o locație populară pentru nunți și evenimente corporative.",
         "Râul Liivi curge prin domeniul castelului."
       ],
-      en: []
+      en: [
+        "The castle was one of the largest manorial estates in the Bishopric of Ösel-Wiek, overseeing vast territories.",
+        "Legend says the ghost of the 'White Lady' or Princess Augusta still haunts the corridors of the castle tower.",
+        "In the late 18th century, the fortress was redesigned into a luxury manor house, losing many of its original military features.",
+        "The castle grounds include an arboretum with rare tree species planted by former noble owners.",
+        "Koluvere was heavily damaged by fire during the 1905 revolution but was meticulously restored in the following years."
+      ]
     },
     image: "/geo-images/estonia/koluvere-castle.webp"
   },
@@ -1973,9 +2219,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Sinimäed-dombok (Kék-hegyek) a második világháború keleti frontjának egyik legvéresebb hadszínterét rejtik Észtország keleti részén. 1944-ben itt zajlott a Tannenberg-vonalért folytatott küzdelem, ahol a német seregek – köztük észt önkéntesek – próbálták megállítani a Vörös Hadsereg előretörését. A terület ma fontos emlékhely, ahol emlékművek és egy hadtörténeti múzeum idézi fel a tragikus eseményeket. A táj ma is őrzi a háború nyomait: a lövészárkok és bombatölcsérek maradványai a természetben is láthatók. Ez egy méltóságteljes és csendes hely, amely elmélkedésre hív Észtország 20. századi összetett és fájdalmas történelméről. A dombokról nyíló kilátás ma már békés, de a múlt emlékezete örökké a részévé vált.",
       ro: "Dealurile Sinimäed (Dealurile Albastre) au fost scena unora dintre cele mai sângeroase bătălii de pe Frontul de Est în Al Doilea Război Mondial, în 1944. Cunoscute ca Bătălia de la Tannenberg Line, luptele au implicat trupe germane, inclusiv voluntari estonieni, împotriva Armatei Roșii. Astăzi, zona este un loc de comemorare, cu un monument și un muzeu dedicat acestor evenimente. Peisajul încă poartă cicatricile războiului, cu tranșee și cratere vizibile. Este un loc solemn care invită la reflecție asupra istoriei complexe și tragice a Estoniei în secolul XX.",
-      en: ""
+      en: "The Sinimäed Hills, or Blue Hills, in Eastern Estonia were the site of the most intense and bloody fighting on the Eastern Front during World War II. In the summer of 1944, the Battle of the Tannenberg Line took place here, where German forces, including many Estonian volunteers, defended against a massive Soviet offensive. The strategic importance of these three hills—Tower Hill, Hell's Hole Hill, and Orphanage Hill—lay in their control over the narrow corridor between the sea and the bogs. Today, the area is a solemn memorial site, featuring a museum and monuments dedicated to all who perished in the conflict. The landscape still bears the scars of war, with visible trench lines and bomb craters overgrown with forest. It is a place of deep reflection on Estonia's complex wartime history and the resilience of its people."
     },
     facts: {
       de: ["Bekannter Zweiter-Weltkrieg-Schauplatz", "Teil der Sinimäed-Höhen", "Wichtig für Erinnerungs- und Gedenktourismus", "Geografisch markante Hügellandschaft", "Eng verbunden mit Ostestland-Geschichte"],
@@ -1985,7 +2231,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A sinimäedi csata volt az egyik legnagyobb emberáldozatot követelő ütközet észt földön.",
+        "A dombvidék három fő gerincből áll: Tornimägi, Põrguaugumägi és Pargimägi.",
+        "A helyi múzeum egy régi uradalmi magtár épületében kapott helyet.",
+        "Minden évben veteránok és hozzátartozók gyűlnek össze itt a megemlékezésre.",
+        "A dombok stratégiai fontosságát már az északi háború idején is felismerték."
+      ],
       ro: [
         "Bătălia de la Sinimäed a durat din iulie până în august 1944.",
         "A fost una dintre cele mai costisitoare bătălii în termeni de vieți omenești de pe teritoriul estonian.",
@@ -1996,7 +2248,13 @@ export const estoniaCulture: POI[] = [
         "Peisajul este presărat cu rămășițe de buncăre și linii de apărare.",
         "Bătălia a încetinit ofensiva sovietică, permițând multor estonieni să fugă spre vest."
       ],
-      en: []
+      en: [
+        "The Battle of Sinimäed is considered the most casualty-heavy engagement ever fought on Estonian soil.",
+        "The hills are actually part of a terminal moraine, a geological formation left behind by receding glaciers.",
+        "The Vaivara Blue Hills Museum is located in the renovated granary of a former manor, documenting the 1944 defensive battles.",
+        "Remains of bunkers and military equipment are still occasionally discovered by researchers in the surrounding woods.",
+        "A large steel cross monument serves as a central focal point for annual memorial services held every July."
+      ]
     },
     image: "/geo-images/estonia/sinimaed-battlefield.webp"
   },
@@ -2019,9 +2277,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A tallinni Kadriorg park szélén található Kumu Művészeti Múzeum Észtország legjelentősebb művészeti intézménye és a Baltikum egyik legnagyobb kiállítóhelye. A finn Pekka Vapaavuori által tervezett modern, mészkőbe és üvegbe álmodott épület önmagában is építészeti remekmű. A Kumu egyszerre tölti be a nemzeti galéria szerepét, bemutatva az észt művészetet a 18. századtól kezdve, és szolgál kortárs művészeti központként nemzetközi tárlatokkal. A múzeum célja, hogy párbeszédet teremtsen a múlt és a jelen, valamint a helyi és a globális kultúra között. Az állandó kiállítások mellett audiovizuális termek, könyvtár és oktatási központ is várja az érdeklődőket. 2008-ban a Kumu elnyerte az Év Európai Múzeuma díjat, ami nemzetközi rangját is megerősült.",
       ro: "Muzeul de Artă Kumu, situat în parcul Kadriorg din Tallinn, este clădirea principală a Muzeului de Artă din Estonia și cel mai mare muzeu de artă din regiunea baltică. Arhitectura sa modernă, proiectată de Pekka Vapaavuori, este o operă de artă în sine. Kumu servește atât ca galerie națională, prezentând arta estoniană din secolul al XVIII-lea până în prezent, cât și ca un centru de artă contemporană, cu un program vibrant de expoziții internaționale. Include un auditoriu, o bibliotecă și un centru educațional, fiind un spațiu cultural complex și dinamic.",
-      en: ""
+      en: "The Kumu Art Museum, situated on the edge of Kadriorg Park in Tallinn, is the main building of the Art Museum of Estonia and a landmark of modern architecture. Designed by Finnish architect Pekka Vapaavuori and opened in 2006, the building is partially cut into a limestone cliff, blending seamlessly with the surrounding landscape. Kumu serves a dual purpose: it is both a national gallery showcasing Estonian art from the 18th century and a contemporary art center hosting international exhibitions. Its permanent displays guide visitors through the evolution of Estonian identity, from the romantic era through the Soviet period's social realism to the experimental art of the present. In 2008, it was named European Museum of the Year, solidifying its status as a world-class cultural institution. The museum is not just a gallery but a hub for education, film screenings, and musical performances."
     },
     facts: {
       de: ["Größtes Kunstmuseum Estlands", "Wichtiger Teil des Tallinn-Kulturtourismus", "Moderne Architektur am Kadriorg-Rand", "Stark für Kunst- und Design-SEO", "Zentrale Sammlung estnischer Kunst"],
@@ -2031,7 +2289,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A múzeum neve az észt „Kunstimuuseum” (Művészeti Múzeum) szó rövidítése.",
+        "Az épület egy korábbi mészkőbánya területén, a sziklába süllyesztve épült fel.",
+        "Több mint 20 000 négyzetméteren kínál művészeti élményeket a látogatóknak.",
+        "A belső udvar nyaranta koncerteknek és szabadtéri mozielőadásoknak ad otthont.",
+        "A Kumu az észt „szocialista realizmus” és az emigráns művészet legfontosabb gyűjtőhelye."
+      ],
       ro: [
         "A fost deschis în 2006 și a câștigat premiul Muzeul European al Anului în 2008.",
         "Numele 'Kumu' este o abreviere de la 'Kunstimuuseum' (Muzeu de Artă).",
@@ -2042,7 +2306,13 @@ export const estoniaCulture: POI[] = [
         "Programul său include proiecții de filme, concerte și spectacole.",
         "Curtea sa interioară este un loc popular pentru evenimente în aer liber."
       ],
-      en: []
+      en: [
+        "The museum's name 'Kumu' is an abbreviation of 'Kunstimuuseum,' which simply means Art Museum in Estonian.",
+        "The construction used massive amounts of local limestone and copper to create its distinctive curved exterior.",
+        "Kumu features over 20,000 square meters of floor space, making it one of the largest art museums in Northern Europe.",
+        "The museum's internal courtyard is a popular open-air venue for concerts and film nights during the white nights of summer.",
+        "Its permanent exhibition 'Difficult Choices' explores the complexities of Estonian art during the Soviet occupation from 1940 to 1991."
+      ]
     },
     image: "/geo-images/estonia/kumu-art-museum.webp"
   },
@@ -2065,9 +2335,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Tartuban található Észt Nemzeti Múzeum (ERM) az ország legmodernebb és legfontosabb kulturális intézménye, amely az észt identitás és hétköznapi élet történetét mutatja be. A 2016-ban megnyitott monumentális épület egy korábbi szovjet katonai repülőtér kifutópályájának folytatásaként épült, szimbolizálva a felemelkedést és a jövőbe vetett hitet. Interaktív kiállításai révén a látogatók 11 000 év történetét ismerhetik meg a jégkorszaktól a digitális korszakig. A múzeum kiemelt figyelmet fordít a finnugor népek rokonságára és kulturális örökségére is. Ez nem csupán egy múzeum, hanem egy közösségi tér is, ahol étterem, konferenciatermek és könyvtár is található. Az épület hossza és futurisztikus megjelenése miatt Tartu egyik legfontosabb kortárs jelképévé vált.",
       ro: "Muzeul Național Estonian (ERM) din Tartu este o instituție culturală fundamentală, dedicată păstrării istoriei, culturii populare și tradițiilor popoarelor fino-ugrice. Clădirea sa modernă, inaugurată în 2016, este o minune arhitecturală, proiectată să semene cu o pistă de decolare, simbolizând o rampă de lansare spre viitor. Expozițiile interactive explorează viața de zi cu zi a estonienilor de-a lungul secolelor, de la obiecte de uz casnic la evoluția limbii și a identității naționale. Este o experiență captivantă care oferă o înțelegere profundă a spiritului estonian.",
-      en: ""
+      en: "The Estonian National Museum (ERM) in Tartu is a monumental institution dedicated to the history, culture, and folklore of the Estonian people and other Finno-Ugric nations. Opened in 2016, the museum is housed in a futuristic 356-meter-long glass building that literally extends from a former Soviet military runway. This architectural choice symbolizes the nation's journey from a difficult past toward an innovative future. Inside, the permanent exhibition 'Encounters' uses cutting-edge technology to present 11,000 years of daily life, allowing visitors to engage with the stories of ordinary Estonians through various eras. Another major section, 'Echo of the Urals,' provides a deep dive into the traditional cultures of Russia's Finno-Ugric minorities. The museum is a vibrant community space, offering workshops, a world-class restaurant, and extensive archives that serve as a cornerstone of Estonian national heritage."
     },
     facts: {
       de: ["Wichtigstes Museum für Estlands Identität", "Modernes Wahrzeichen in Tartu", "Auf ehemaligem Militärgelände gebaut", "Starkes Ziel für Kulturreisen", "Zentral für Tartu-SEO"],
@@ -2077,7 +2347,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "Az épület hossza 356 méter, és részben a régi repülőtéri aszfaltra épült.",
+        "A „Találkozások” című állandó kiállítás az észt nép mindennapjait mutatja be korszakokon át.",
+        "Itt látható az ország legnagyobb észt népviseleti gyűjteménye.",
+        "A múzeum épületét egy párizsi építészcsoport (DGT Architects) tervezte.",
+        "A „Finnugor visszhangok” kiállítás a rokon népek különleges világába kalauzol."
+      ],
       ro: [
         "Fondat în 1909 pentru a păstra moștenirea lingvistului și folcloristului Jakob Hurt.",
         "Clădirea actuală are o lungime de 356 de metri.",
@@ -2088,7 +2364,13 @@ export const estoniaCulture: POI[] = [
         "Include un cinematograf, un restaurant și un magazin de suveniruri.",
         "Designul clădirii a fost realizat de un trio de arhitecți din Paris: DGT Architects."
       ],
-      en: []
+      en: [
+        "The museum building was designed by the Paris-based firm DGT Architects after winning a prestigious international competition.",
+        "The museum's digital ticketing system allows visitors to choose their preferred language, which then automatically updates the interactive displays.",
+        "It houses the original first Estonian national flag, which was consecrated in Otepää in 1884.",
+        "The collection includes over 140,000 objects and an extensive archive of traditional folk songs and stories.",
+        "The building's roof slants upwards at the end of the runway, creating a dramatic visual metaphor for a plane taking flight."
+      ]
     },
     image: "/geo-images/estonia/estonian-national-museum.webp"
   },
@@ -2111,9 +2393,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A tallinni Vízirepülőgép-kikötő (Lennusadam) az Észt Tengerészeti Múzeum egyik legizgalmasabb egysége, amely egyedülálló történelmi hangárokban kapott helyet. Ezek a betonhéj-szerkezetű épületek 1916-ban épültek, és a maguk idejében technikai csodának számítottak. A múzeum lenyűgöző és interaktív módon mutatja be a tengerészet, a haditechnika és a repülés történetét. Legfőbb látványossága az 1930-as évekből származó Lembit tengeralattjáró, amelynek belsejébe a látogatók is bemászhatnak. A kiállítás részét képezik jégtörő hajók, ágyúk, repülőgépek és számos szimulátor is. A kikötőben horgonyzó Suur Tõll jégtörő pedig a világ egyik legnagyobb épségben maradt gőzüzemű hajója. Családok és technika-rajongók számára felejthetetlen élményt nyújt ez a modern és látványos tárlat.",
       ro: "Portul Hidroavioanelor (Lennusadam) este o ramură a Muzeului Maritim Estonian, găzduită în hangare istorice unice pentru hidroavioane. Aceste structuri din beton armat, construite în 1916-1917, au fost primele de acest fel din lume. Muzeul oferă o experiență interactivă, permițând vizitatorilor să exploreze interiorul submarinului Lembit din anii 1930, să admire epava unei nave vechi și să se joace cu simulatoare. Afară, în port, sunt ancorate nave istorice, inclusiv spărgătorul de gheață Suur Tõll. Este o atracție captivantă pentru toate vârstele, combinând istoria maritimă cu tehnologia modernă.",
-      en: ""
+      en: "The Seaplane Harbour (Lennusadam) is a maritime museum in Tallinn that offers one of the most immersive and interactive experiences in Northern Europe. It is housed in unique seaplane hangars built in 1916-1917 as part of Peter the Great's Naval Fortress. These hangars were the first large-scale reinforced concrete shell structures in the world, an engineering marvel that lacks internal support pillars. The museum's centerpieces include the authentic 1930s submarine Lembit, which visitors can actually go inside, and a full-scale replica of a Short Type 184 seaplane. Beyond the indoor exhibits, the harbor outside features a fleet of historic ships, including the massive 1914 steam-powered icebreaker Suur Tõll. With flight simulators, yellow submarines for kids, and a massive aquarium, the museum perfectly balances technical history with engaging entertainment for all ages."
     },
     facts: {
       de: ["Maritimes Spitzenmuseum in Tallinn", "Historische Hangars am Wasser", "Stark für Familien und Technikfans", "Wichtiger Fotostandort", "Beliebtes Tallinn-Landmark"],
@@ -2123,7 +2405,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A hangárok voltak a világ első ilyen méretű vasbeton héjszerkezetei.",
+        "A Lembit tengeralattjáró Nagy-Britanniában készült, és az észt flotta büszkesége volt.",
+        "A múzeum 2012-es megnyitása óta számos nemzetközi turisztikai és design díjat nyert.",
+        "A látogatók repülőgép-szimulátorokban próbálhatják ki tudásukat Tallinn felett.",
+        "A gyűjteményben egy 16. századi hajóroncs is látható, melyet a közeli vizekben találtak."
+      ],
       ro: [
         "Găzduiește submarinul autentic Lembit, construit în Marea Britanie în 1936.",
         "Hangarele au fost proiectate de o firmă daneză și au fost o minune a ingineriei la vremea lor.",
@@ -2134,7 +2422,13 @@ export const estoniaCulture: POI[] = [
         "Este situat în cartierul creativ și maritim Kalamaja.",
         "Muzeul a fost redeschis în forma sa actuală în 2012."
       ],
-      en: []
+      en: [
+        "The Lembit submarine remained in service for 75 years, making it one of the longest-serving submarines in history.",
+        "The hangar's dome structure is only 8 to 12 centimeters thick, demonstrating the incredible efficiency of its concrete shell design.",
+        "The museum has received several prestigious awards, including the European Museum of the Year Award's Special Commendation.",
+        "Visitors can try on historical naval uniforms and take photos in a professional studio setting within the museum.",
+        "The Suur Tõll icebreaker is the world's largest preserved steam-powered icebreaker and is still in seaworthy condition."
+      ]
     },
     image: "/geo-images/estonia/seaplane-harbour.webp"
   },
@@ -2157,9 +2451,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A 314 méter magas Tallinni tévétorony Észtország legmagasabb építménye és a főváros egyik legmeghatározóbb tájékozódási pontja. Az 1980-as moszkvai olimpia vitorlásversenyeire épült, de 1991-ben az észt függetlenség védelmének szimbolikus helyszínévé vált. A 170 méter magasan található kilátóteraszról lélegzetelállító panoráma nyílik Tallinnra, a Finn-öbölre, és tiszta időben akár a finn partokig is el lehet látni. A torony nemcsak kilátóhely, hanem modern interaktív múzeum is, ahol a látogatók megismerhetik az észt sikereket és technológiai újdonságokat. A bátrabbak kipróbálhatják az „Edge Walk” nevű sétát a torony külső peremén, biztosítókötéllel. A torony étterme kiváló gasztronómiai élményt kínál a felhők felett.",
       ro: "Turnul TV din Tallinn, cu o înălțime de 314 metri, este cea mai înaltă clădire din Estonia și un important simbol al independenței restaurate a țării. Construit pentru Jocurile Olimpice de la Moscova din 1980, a jucat un rol crucial în evenimentele din 1991, când apărătorii estonieni au protejat semnalul de radiodifuziune împotriva trupelor sovietice. Astăzi, oferă o platformă de observare la 170 de metri, cu vederi spectaculoase, o expoziție interactivă despre istoria sa și atracții pentru amatorii de adrenalină, cum ar fi plimbarea pe marginea exterioară a turnului.",
-      en: ""
+      en: "Rising 314 meters into the sky, the Tallinn TV Tower is the tallest building in Estonia and a symbol of the nation's technological progress and political independence. It was built for the sailing regattas of the 1980 Moscow Olympics but gained historical significance in 1991 when Estonian volunteers defended the tower against Soviet tanks to maintain free communication. Following a major renovation in 2012, it was transformed into a modern visitor center with a 360-degree observation deck at 170 meters. The deck features glass floor panels that give a thrilling view of the ground far below and interactive kiosks that showcase Estonian innovations. On a clear day, the views extend across the Gulf of Finland all the way to the Finnish coast. For those seeking even more excitement, the tower offers a tethered walk along its outer rim, high above the forest canopy."
     },
     facts: {
       de: ["Hoher Aussichtsturm in Tallinn", "Blick über Stadt und Meer", "Symbol moderner estnischer Technik", "Beliebt bei Touristen und Familien", "Starkes Skyline-Motiv"],
@@ -2169,7 +2463,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A torony kilátója 170 méteres magasságban található, ahol üvegpadlós részek is vannak.",
+        "1991 augusztusában észt önkéntesek itt állták útját a szovjet tankoknak a függetlenségért.",
+        "A toronyban található interaktív képernyők az ország legjelentősebb vívmányait mutatják be.",
+        "A Tallinni tévétorony a Nagy Tornyok Világszövetségének (WFGT) büszke tagja.",
+        "A torony tövében minden évben bázisugró fesztivált rendeznek a legmerészebbeknek."
+      ],
       ro: [
         "A fost deschis publicului în 1980.",
         "Este membru al Federației Mondiale a Marilor Turnuri.",
@@ -2180,7 +2480,13 @@ export const estoniaCulture: POI[] = [
         "Este un loc popular pentru evenimente, inclusiv sărituri cu parașuta.",
         "Designul său a fost inspirat de turnul TV din Stuttgart."
       ],
-      en: []
+      en: [
+        "The tower is a member of the World Federation of Great Towers, alongside the Eiffel Tower and the Burj Khalifa.",
+        "The renovation in 2012 introduced a highly interactive exhibition featuring 'digital mushrooms' that display Estonian world records.",
+        "The 1991 defense of the tower is commemorated by a monument and a special exhibition on the ground floor.",
+        "The tower's high-speed elevator takes visitors to the observation deck in just 49 seconds.",
+        "The restaurant at the top is the highest dining establishment in Northern Europe, offering gourmet cuisine with a panoramic view."
+      ]
     },
     image: "/geo-images/estonia/tallinn-tv-tower.webp"
   },
@@ -2203,9 +2509,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Kadriorg Művészeti Múzeum az egyetlen olyan múzeum Észtországban, amely kifejezetten a régi európai és orosz művészetnek szenteli gyűjteményét. A múzeum otthona a pompás barokk Kadriorg-palota, melynek díszes belső terei és mitológiai mennyezetfreskói tökéletes keretet adnak a kiállított tárgyaknak. Az állandó tárlat 16-20. századi festményeket, szobrokat és iparművészeti remekműveket tartalmaz neves holland, német és orosz mesterektől. A látogatás során nemcsak a művészetben gyönyörködhetünk, hanem bepillantást nyerhetünk a cári idők fényűző életmódjába is. A palotát övező park és a gondosan ápolt francia kertek még felejthetetlenebbé teszik az élményt. A múzeum rendszeresen ad otthont komolyzenei koncerteknek és diplomáciai eseményeknek is, megőrizve az épület eredeti méltóságát.",
       ro: "Muzeul de Artă Kadriorg, situat în splendidul palat baroc construit de Petru cel Mare, este singurul muzeu din Estonia dedicat artei vechi europene și ruse. Palatul în sine, cu interioarele sale bogat decorate și tavanul pictat magnific din sala principală, este o atracție majoră. Colecția permanentă include picturi, sculpturi și artă aplicată din secolele XVI-XX. Vizitarea muzeului oferă o dublă experiență: o imersiune în arta maeștrilor europeni și o călătorie înapoi în timp, în opulența epocii țariste. Grădinile formale ale palatului completează perfect vizita.",
-      en: ""
+      en: "The Kadriorg Art Museum is located in the magnificent Baroque palace commissioned by Peter the Great for his wife, Catherine I. Designed by Italian architect Niccolò Michetti in 1718, the palace is surrounded by a vast park and formal French-style gardens that create a miniature Versailles in Tallinn. This is the only museum in Estonia dedicated to early European and Russian art, with a collection that spans from the 16th to the 20th century. The interior is as breathtaking as the art, featuring a Grand Hall with ornate stucco decorations and a painted ceiling depicting mythological scenes. Visitors can wander through the former imperial apartments and admire masterpieces by Dutch, German, and Italian masters. The palace's refined atmosphere makes it a popular venue for classical music concerts and official diplomatic receptions, continuing its tradition as a center of elegance and culture."
     },
     facts: {
       de: ["Barockes Museumsumfeld", "Teil des Kadriorg-Parks", "Europäische Kunst in historischem Rahmen", "Wichtig für Kunsttourismus in Tallinn", "Starkes Kultur-Keyword"],
@@ -2215,7 +2521,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A palota főtermének mennyezeti festménye Diana és Actaeon mitológiai történetét ábrázolja.",
+        "A gyűjtemény részét képezi Jacob Jordaens és Ilya Repin több jelentős alkotása.",
+        "Az épületet az 1930-as években az észt államfő rezidenciájaként is használták.",
+        "A múzeum építészetileg a dán királyi kastélyok stílusát ötvözi az orosz barokkal.",
+        "A palota melletti President's Garden nyaranta nyitva áll a nagyközönség előtt is."
+      ],
       ro: [
         "Palatul a fost proiectat de arhitectul italian Niccolò Michetti.",
         "A fost conceput ca o reședință de vară pentru împărăteasa Ecaterina I a Rusiei.",
@@ -2226,7 +2538,13 @@ export const estoniaCulture: POI[] = [
         "După restaurări ample, a fost redeschis în anul 2000.",
         "Găzduiește concerte de muzică clasică și recepții oficiale."
       ],
-      en: []
+      en: [
+        "The name 'Kadriorg' translates to 'Catherine's Valley,' named in honor of Empress Catherine I.",
+        "Peter the Great personally participated in the laying of the palace's first stones, but he did not live to see it fully completed.",
+        "The Grand Hall is considered one of the finest examples of Baroque interior architecture in Northern Europe.",
+        "The museum collection includes over 9,000 works of art, including significant paintings by Jacob Jordaens and Bernardo Strozzi.",
+        "The palace served as the residence of the President of Estonia during the 1930s before a new administrative building was built nearby."
+      ]
     },
     image: "/geo-images/estonia/kadriorg-art-museum.webp"
   },
@@ -2249,9 +2567,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Szent Olaf-templom Tallinn óvárosának egyik legmeghatározóbb szakrális építménye, melynek kecses tornya már messziről jelzi a város fekvését. A 12. században alapított templom a nevét II. Olaf norvég királyról kapta, és évszázadokon át a skandináv kereskedők legfontosabb központja volt Tallinnban. A 16. században a templom tornya 159 méter magas volt, amivel akkoriban valószínűleg a világ legmagasabb épületének számított. A torony fontos tájékozódási pontként szolgált a tengeren érkező hajóknak, de magassága miatt többször is villámcsapás áldozatává vált és leégett. A templom gótikus belső tere lenyűgöző magasságával és egyszerűségével hűen tükrözi a középkor szellemét. Ma a torony kilátója nyaranta látogatható, ahonnan az óváros egyik legszebb, madártávlati panorámája tárul elénk.",
       ro: "Biserica Sf. Olaf, cu turla sa impunătoare, este un punct de reper dominant în Orașul Vechi din Tallinn. Datând din secolul al XII-lea, se crede că a fost, la un moment dat, cea mai înaltă clădire din lume. Turnul său a servit ca un important punct de navigație pentru navele de pe Marea Baltică. Interiorul gotic este impresionant prin bolțile sale înalte și simplitatea sa. Astăzi, vizitatorii pot urca în turn pentru a se bucura de vederi panoramice excepționale asupra Orașului Vechi și a portului. Biserica este, de asemenea, un centru activ pentru comunitatea baptistă locală.",
-      en: ""
+      en: "St. Olaf’s Church (Oleviste kirik) is one of the most iconic landmarks of Tallinn’s Old Town, known for its soaring spire that has dominated the skyline for centuries. Named after the Norwegian King Olaf II, the church was first mentioned in 1267 and became the spiritual center for Scandinavian merchants in the city. In the 16th century, the church reached its peak height of 159 meters, which likely made it the tallest building in the world at the time. This height served as a vital landmark for ships approaching Tallinn, but it also attracted lightning, leading to several devastating fires over the years. The interior is a fine example of Late Gothic architecture, characterized by its impressive height and minimalist stone vaults. Today, the church's observation platform remains one of the most popular spots for visitors, offering a breathtaking bird's-eye view of the medieval rooftops and the Baltic Sea."
     },
     facts: {
       de: ["Berühmte Kirche der Tallinner Altstadt", "Markanter hoher Turm", "Starkes Motiv für Skyline-Bilder", "Historisch mit Handelsstadt Tallinn verbunden", "Wichtiges Landmark für Stadtführungen"],
@@ -2261,7 +2579,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A templom tornya jelenleg 124 méter magas, miután többször újjáépítették.",
+        "A monda szerint a templom építője, Olaf, a torony keresztjének felhelyezésekor lezuhant és szörnyethalt.",
+        "A szovjet időkben a KGB megfigyelőpontként és rádiójel-zavaró állomásként használta a tornyot.",
+        "A templomhoz tartozó Mária-kápolna boltozata az észt gótika egyik legszebb példája.",
+        "A toronyba vezető szűk csigalépcsőn 232 fokot kell megmászni a kilátóig."
+      ],
       ro: [
         "A fost probabil cea mai înaltă clădire din lume între 1549 și 1625.",
         "Turnul actual are 123.7 metri înălțime.",
@@ -2272,7 +2596,13 @@ export const estoniaCulture: POI[] = [
         "Capela Fecioarei Maria, adiacentă bisericii, are bolți stelate remarcabile.",
         "A fost menționată pentru prima dată în documente în 1267."
       ],
-      en: []
+      en: [
+        "The church's tower has been struck by lightning at least ten times, with three major fires occurring in 1625, 1820, and 1931.",
+        "To reach the observation platform, visitors must climb 232 steps up a narrow and winding medieval stone staircase.",
+        "During the Soviet period, the KGB used the church tower as a surveillance point and a radio jamming station due to its height.",
+        "According to local legend, the church's builder, Olaf, fell to his death from the spire just as he was completing the project.",
+        "The church currently serves an active Baptist congregation and is a key venue for choral concerts in the city."
+      ]
     },
     image: "/geo-images/estonia/st-olafs-church.webp"
   },
@@ -2295,9 +2625,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A tartui városháza a város főterének, a Raekoja plats-nak legfontosabb építészeti dísze és az önkormányzat székhelye. A jelenlegi épület, amely már a harmadik ezen a helyen, 1789-ben készült el, ötvözve a barokk és a korai klasszicizmus elegáns stílusjegyeit. A rózsaszín homlokzatú épület tornyában egy 34 harangból álló carillon működik, amely naponta többször is észt dallamokkal örvendezteti meg a járókelőket. A városháza előtti téren található a „Csókolózó diákok” szökőkútja, amely Tartu, mint diákváros egyik legkedveltebb jelképe. A tér és a városháza környéke a város társadalmi életének epicentruma, ahol nyaranta teraszos kávézók, télen pedig korcsolyapálya várja a látogatókat. Az épület pincéjében turisztikai információs központ is működik, segítve az utazókat a város felfedezésében.",
       ro: "Primăria din Tartu, situată în piața centrală a orașului, este un exemplu remarcabil de arhitectură neoclasică cu elemente baroce. Clădirea actuală, a treia de pe acest loc, a fost finalizată în 1789. Turnul său găzduiește un carilon care cântă melodii estoniene la intervale regulate. Piața din fața primăriei, cu faimoasa sa fântână a 'Studenților care se sărută', este inima socială a orașului, un loc de întâlnire popular pentru localnici și turiști, înconjurat de cafenele și clădiri istorice. Este un simbol al administrației și al vieții civice din Tartu.",
-      en: ""
+      en: "Tartu Town Hall is the elegant centerpiece of the city’s main square, Raekoja plats, and a symbol of its civic pride. The current building, completed in 1789, was designed by German architect Johann Heinrich Bartholomäus Walter after a massive fire destroyed much of the city. Its architecture is a beautiful blend of Baroque and early Neoclassical styles, characterized by its pink facade and slender clock tower. The tower features a carillon of 34 bells that play Estonian melodies several times a day, adding a musical charm to the downtown area. In front of the building stands the famous 'Kissing Students' fountain, reflecting Tartu’s identity as a youthful and vibrant university town. The Town Hall continues to serve as the seat of local government, while also housing a visitor center and hosting formal ceremonies. The square surrounding it is a bustling hub of cafes, markets, and cultural events throughout the year."
     },
     facts: {
       de: ["Zentrum des Tartu-Rathauses", "Prägt den Rathausplatz", "Wichtiges Fotomotiv der Universitätsstadt", "Stark für Gastronomie- und Kultur-SEO", "Symbol des bürgerlichen Tartu"],
@@ -2307,7 +2637,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A városháza carillonja naponta kétszer, 9:00-kor és 21:00-kor játszik különleges dallamokat.",
+        "Az épületet a német Johann Heinrich Bartholomäus Walter tervezte az 1775-ös nagy tűzvész után.",
+        "A városháza ülésterme ma is az önkormányzati munka helyszíne.",
+        "A homlokzaton található óra több mint kétszáz éve mutatja pontosan az időt a helyieknek.",
+        "A Városháza tér észt neve „Raekoja plats”, amely már a középkorban is piactér volt."
+      ],
       ro: [
         "A fost proiectată de arhitectul german Johann Heinrich Bartholomäus Walter.",
         "Clădirea găzduiește atât consiliul local, cât și un centru de informații turistice.",
@@ -2318,7 +2654,13 @@ export const estoniaCulture: POI[] = [
         "În timpul iernii, piața găzduiește un patinoar și un târg de Crăciun.",
         "Clădirea este un exemplu al perioadei de reconstrucție după Marele Incendiu din Tartu din 1775."
       ],
-      en: []
+      en: [
+        "The town hall's carillon bells were cast in a foundry in the Netherlands and installed to mark the building's 200th anniversary.",
+        "The building's ground floor was originally used as a weighing house and a jail, while the upper floors were for the city council.",
+        "The 'Kissing Students' fountain has become the most photographed landmark in Tartu since its installation in 1998.",
+        "The Town Hall Square was originally the main marketplace of the city, connecting the riverside port to the castle hill.",
+        "Every winter, the square in front of the Town Hall is transformed into an 'Ice City' with an outdoor skating rink and Christmas market."
+      ]
     },
     image: "/geo-images/estonia/tartu-town-hall.webp"
   },
@@ -2341,9 +2683,9 @@ export const estoniaCulture: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "Az Észt Szabadtéri Múzeum (Eesti Vabaõhumuuseum) egy varázslatos időutazást kínál az észt vidéki élet múltjába egy hatalmas erdős területen, közvetlenül a tengerparton. A 72 hektáros parkban több mint 80 eredeti épületet láthatunk, melyeket az ország különböző tájegységeiről szállítottak ide, hogy megőrizzék az utókornak. A látogatók bejárhatják a nádtetős parasztházakat, a régi iskolát, a szélmalmokat, sőt egy fatemplomot és egy korabeli fogadót is felfedezhetnek. A múzeum munkatársai korhű ruhákban mutatják be a hagyományos mesterségeket és a gazdálkodás mindennapjait. Különösen népszerűek a népszokásokhoz kötődő rendezvények, mint a Szent Iván-éji ünnepség vagy a téri vásárok. Ez a helyszín tökéletes kikapcsolódást nyújt családoknak, ahol a természet és a történelem békés harmóniában találkozik.",
       ro: "Muzeul Estonian în Aer Liber, situat într-o zonă împădurită la marginea Tallinnului, este o reconstituire a unui sat rural estonian din secolele XVIII-XX. Pe o suprafață de 72 de hectare, muzeul prezintă peste 80 de clădiri autentice, inclusiv ferme, o biserică, o școală, un han și mori de vânt, toate aduse din diferite părți ale Estoniei. Vizitatorii pot vedea cum se desfășura viața la țară, pot participa la ateliere de meșteșuguri și pot asista la demonstrații. Evenimentele sezoniere, cum ar fi solstițiul de vară și târgurile de Crăciun, aduc la viață tradițiile estoniene.",
-      en: ""
+      en: "The Estonian Open Air Museum (Eesti Vabaõhumuuseum) is a living history museum located in the scenic coastal district of Rocca al Mare. Spread across 72 hectares of forested land, it features a collection of over 80 original buildings brought from different corners of Estonia to preserve the country's rural heritage. Visitors can explore various farmsteads that represent four distinct ethnographic regions, each with its own unique building styles and tools. Highlights include a wooden church from 1699, a village school, several types of windmills, and a working 19th-century inn where guests can sample traditional Estonian cuisine. Costumed guides demonstrate historical crafts like spinning, weaving, and woodcarving, bringing the past to life. It is a peaceful retreat from the city, offering a deep insight into how Estonians lived, worked, and celebrated for centuries before the industrial era."
     },
     facts: {
       de: ["Freilichtmuseum bei Tallinn", "Zeigt ländliche estnische Architektur", "Beliebt bei Familien und Schulen", "Stark für Kultur- und Bildungs-SEO", "Großes Gelände mit historischen Bauten"],
@@ -2353,7 +2695,13 @@ export const estoniaCulture: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A múzeumot 1957-ben alapították a Tallinn szélén fekvő Rocca al Mare negyedben.",
+        "A területen található Kolu fogadóban ma is megkóstolhatjuk a hagyományos észt ételeket.",
+        "A sutlepai fatemplom az egyik legrégebbi ilyen típusú építmény az országban.",
+        "A múzeum négy fő néprajzi régióra (Észak, Dél, Nyugat és a Szigetek) bontva mutatja be az épületeket.",
+        "Nyaranta lovas kocsival, télen pedig szánnal is bejárható a hatalmas parkerdő."
+      ],
       ro: [
         "Fondat în 1957, a fost deschis publicului în 1964.",
         "Reprezintă patru regiuni etnografice ale Estoniei: de vest, de nord, de sud și insulele.",
@@ -2364,7 +2712,13 @@ export const estoniaCulture: POI[] = [
         "Muzeul este situat în zona de coastă Rocca al Mare.",
         "Găzduiește un program bogat de evenimente pe tot parcursul anului."
       ],
-      en: []
+      en: [
+        "The museum was founded in 1957 and opened to the public in 1964, making it one of the largest and oldest of its kind in the Baltics.",
+        "The name of the location, 'Rocca al Mare' (Rock by the Sea), was given by a French merchant in the 19th century.",
+        "The Sutlepa Chapel is one of the oldest wooden buildings in Estonia and is still used for weddings and services today.",
+        "The museum hosts major national festivals, including Midsummer Day and the annual Bread Day, where traditional baking is showcased.",
+        "Visitors can travel through the museum grounds in a horse-drawn carriage or rent bicycles to cover the large distances between exhibits."
+      ]
     },
     image: "/geo-images/estonia/open-air-museum.webp"
   }
@@ -2390,7 +2744,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "Saaremaa, Észtország legnagyobb szigete, az érintetlen természet, a nyugalom és az ősi balti hagyományok különleges világa. A szigetet fenyőerdők, borókás mezők és mészkősziklák teszik változatossá, ahol a tenger közelsége mindenhol érezhető. Egyik legfontosabb természeti látnivalója a Panga-fok, ahol a meredek sziklafalakról pazar kilátás nyílik a Balti-tengerre. A sziget gazdag növényvilággal büszkélkedhet, több mint 35 orchideafaj őshonos itt, ami a természetjárók számára igazi kincs. Saaremaa partvonalán számos eldugott homokos strandot és védett öblöt találunk, melyek a csendes pihenés zálogai. A sziget ökológiai tisztasága és a fenntartható életmód iránti elkötelezettsége miatt a UNESCO Bioszféra-rezervátum része.",
       ro: "Saaremaa, cea mai mare insulă a Estoniei, este un tărâm al liniștii, al naturii unice și al tradițiilor bine păstrate. Caracterizată de mori de vânt, case cu acoperiș de stuf și garduri de piatră, insula oferă o atmosferă rustică autentică. Atracțiile sale principale includ Castelul Episcopal din Kuressaare, craterul de meteorit de la Kaali și faleza Panga. Coasta sa variată, cu plaje izolate și stânci, alături de pădurile de ienupăr și orhideele sălbatice, fac din Saaremaa o destinație ideală pentru iubitorii de natură și pentru cei care caută o evadare din agitația urbană.",
       en: ""
     },
@@ -2402,7 +2756,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "Ez a Balti-tenger negyedik legnagyobb szigete, területe közel 2700 négyzetkilométer.",
+        "A Panga-fok legmagasabb pontja 21 méterrel magasodik a tenger fölé.",
+        "A sziget nyugati részén fekvő Vilsandi Nemzeti Park Észtország legrégebbi védett területe.",
+        "Saaremaa híres a sötét rozskenyeréről és az erős, házi készítésű söréről.",
+        "A szigeten több mint 2000 madárfaj és számos ritka fókaféle figyelhető meg."
+      ],
       ro: [
         "Este a patra cea mai mare insulă din Marea Baltică.",
         "Capitala sa, Kuressaare, este singurul oraș de pe insulă.",
@@ -2436,7 +2796,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "Hiiumaa, Észtország második legnagyobb szigete, a béke és a vadvilág érintetlen paradicsoma, amely távol esik a tömegturizmustól. A sziget területének több mint 60%-át sűrű erdők borítják, ami különlegesen tiszta levegőt és gazdag élővilágot biztosít. Legismertebb jelképe a Kõpu világítótorony, amely 1531 óta mutatja az utat a tengerészeknek, és a világ egyik legrégebbi működő világítótornya. Hiiumaa partjai rendkívül változatosak: homokos dűnék, kavicsos öblök és sziklás földnyelvek váltják egymást. A sziget lakói híresek sajátos humorukról és vendégszeretetükről, ami még barátságosabbá teszi a látogatást. Ez a helyszín tökéletes választás a túrázók, a kerékpárosok és a csillagászati megfigyelések kedvelői számára, köszönhetően a minimális fényszennyezésnek.",
       ro: "Hiiumaa, a doua cea mai mare insulă a Estoniei, este un paradis al liniștii și al naturii sălbatice. Este mai puțin populată și mai împădurită decât vecina sa, Saaremaa, oferind o senzație de izolare și pace. Insula este renumită pentru farurile sale istorice, în special Farul Kõpu, unul dintre cele mai vechi faruri funcționale din lume. Peisajul este divers, cu plaje lungi de nisip, dealuri și păduri de pini. Hiiumaa este un loc perfect pentru drumeții, ciclism și pentru a te bucura de umorul local distinctiv și de un ritm de viață relaxat.",
       en: ""
     },
@@ -2448,7 +2808,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A Kõpu világítótorony a Baltikum legmagasabb pontján, a Tornimägi-dombon áll.",
+        "Hiiumaa egy 455 millió évvel ezelőtti meteoritbecsapódás helyszínén alakult ki.",
+        "A szigeten található Ristimägi (Keresztek dombja) egy különleges történelmi emlékhely.",
+        "Hiiumaa-t télen gyakran Európa leghosszabb jégútja köti össze a szárazfölddel.",
+        "A Tahkuna-félsziget fehér homokos strandjai az ország legszebbjei közé tartoznak."
+      ],
       ro: [
         "Farul Kõpu, construit în 1531, este al treilea cel mai vechi far funcțional din lume.",
         "Peste 60% din insulă este acoperită de păduri.",
@@ -2482,7 +2848,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Soomaa Nemzeti Park, melynek neve találóan „mocsárvidéket” jelent, Észtország egyik legvadabb és legkülönlegesebb természeti területe. A park leghíresebb jelensége az úgynevezett „ötödik évszak”, a tavaszi árvíz idején bekövetkező hatalmas vízszintemelkedés, amikor az erdőket és utakat csak kenuval lehet járni. A terület hatalmas tőzegmohalápokból, ártéri erdőkből és kanyargós folyókból áll, melyek gazdag élővilágnak adnak otthont. A látogatók fapallókon kialakított tanösvényeken járhatják be a mocsarakat, biztonságos közelségből figyelve meg a ritka növényeket és állatokat. Soomaa a hódok és az európai vidrák egyik legfontosabb menedékhelye az országban. A terület a UNESCO világörökségi várományos listáján is szerepel egyedülálló ökológiai értékei miatt.",
       ro: "Parcul Național Soomaa, al cărui nume înseamnă 'Țara Mlaștinilor', este renumit pentru fenomenul său unic cunoscut sub numele de 'al cincilea anotimp'. În fiecare primăvară, topirea zăpezilor provoacă inundații masive, transformând pădurile și drumurile în căi navigabile, cel mai bine explorate cu canoe. Parcul este format din mlaștini întinse, păduri aluvionare și pajiști inundabile. Este un loc excepțional pentru a experimenta natura sălbatică, oferind trasee pe podețe de lemn peste mlaștini și oportunități de a observa fauna, inclusiv castori și păsări rare.",
       en: ""
     },
@@ -2494,7 +2860,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "Az „ötödik évszak” során a vízszint akár 5 méterrel is megemelkedhet a normál álláshoz képest.",
+        "A parkban még ma is készítenek hagyományos egy fatörzsből vájt kenukat (haabjas).",
+        "A Riisa tanösvény babakocsival és kerekesszékkel is bejárható, bemutatva a lápok világát.",
+        "Soomaa fontos fészkelőhelye az olyan ritka madaraknak, mint a szirti sas vagy a fekete gólya.",
+        "Télen a befagyott mocsarakon speciális mocsárjáró talpakkal (lápicipővel) lehet túrázni."
+      ],
       ro: [
         "A fost înființat în 1993 pentru a proteja mlaștinile, pajiștile și pădurile inundabile.",
         "Face parte din rețeaua de zone umede de importanță internațională Ramsar.",
@@ -2528,7 +2900,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Peipus-tó Észtország és Oroszország határán fekszik, és 3555 négyzetkilométeres területével Európa ötödik legnagyobb tava. Az észt partvidék híres a „staroverek” (óhitűek) falvairól, akik évszázadok óta őrzik különleges vallási hagyományaikat és életmódjukat. A régió mezőgazdaságáról is ismert, különösen a Peipus menti édes hagyma és az uborka termesztése zajlik itt nagyüzemben. A tópart mentén kilométereken át húzódó homokos strandok, mint például a kauksi-i part, nyaranta népszerű üdülőhelyek. A tó gazdag halállománya, különösen a süllő és a törpemuréna miatt a horgászok paradicsoma minden évszakban. Történelmileg is jelentős helyszín, hiszen 1242-ben itt zajlott a híres „Jégcsata” a német lovagok és az orosz seregek között.",
       ro: "Lacul Peipus, situat la granița dintre Estonia și Rusia, este al cincilea cel mai mare lac din Europa. Este format din trei părți: lacul principal (Peipus), lacul Pskov și un lac de legătură mai îngust, Lämmijärv. Malul estonian este renumit pentru satele sale de credincioși de rit vechi (staroveri), o comunitate cu tradiții unice. Regiunea este faimoasă pentru cultivarea cepei și pescuit. Plajele lungi de nisip, cum ar fi cea de la Kauksi, sunt destinații populare de vară. Lacul este, de asemenea, un loc istoric, fiind scena Bătăliei de pe Gheață din 1242.",
       en: ""
     },
@@ -2540,7 +2912,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A tó észt partján húzódó „Hagyma útja” egy népszerű turisztikai és gasztronómiai útvonal.",
+        "A tó átlagos mélysége mindössze 7-8 méter, így vize nyáron gyorsan felmelegszik.",
+        "Télen a jég vastagsága elérheti a fél métert is, ilyenkor terepjárókkal is közlekednek rajta.",
+        "A kauksi-i strand dűnéi „énekelnek”, ha a szél megfelelő irányból fújja a homokot.",
+        "A tó három részből áll: a Nagy-Peipus, a Pszkovi-tó és az azokat összekötő Lämmi-tó."
+      ],
       ro: [
         "Are o suprafață de 3.555 de kilometri pătrați.",
         "Adâncimea sa maximă este de 15.3 metri.",
@@ -2574,7 +2952,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "Az Emajõgi, melynek jelentése észtül „Anya-folyó”, az ország egyik legfontosabb és egyetlen teljesen hajózható folyója. A folyó Észtország két legnagyobb tavát, a Võrtsjärvet és a Peipust köti össze, keresztülfolyva a szellemi központon, Tartun. Az Emajõgi évszázadok óta meghatározó szerepet játszik a kereskedelemben és a közlekedésben, mára pedig a szabadidő és a vízi turizmus kedvelt helyszíne. Partjait festői ártéri rétek és mocsaras területek szegélyezik, melyek gazdag madárvilágnak és ritka növényeknek adnak otthont. Tartuban a folyóparti sétányok, teraszok és hajókikötők a városi élet szerves részét képezik. A folyó lassú folyása és békés hangulata miatt ideális helyszín kenu- és csónaktúrákhoz.",
       ro: "Emajõgi, care înseamnă 'Râul Mamă', este unul dintre cele mai importante râuri din Estonia. Acesta leagă cele mai mari două lacuri ale țării, Võrtsjärv și Peipus. Râul traversează orașul Tartu, fiind o parte integrală a identității și peisajului acestuia. Malurile sale sunt locuri populare pentru plimbări și recreere. Emajõgi este navigabil pe aproape toată lungimea sa, permițând croaziere și transport. Bazinul său hidrografic este bogat în biodiversitate, cu pajiști inundabile și păduri care adăpostesc numeroase specii de plante și animale.",
       en: ""
     },
@@ -2586,7 +2964,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "A folyó teljes hossza pontosan 100 kilométer a két tó között.",
+        "Tartuban minden évben megrendezik az Emajõgi folyó fesztivált hajós felvonulással.",
+        "A folyó deltája a Peipus-tónál védett természetvédelmi terület.",
+        "A középkorban a Hanza-hajók is ezen a folyón szállították az árut az orosz piacok felé.",
+        "Itt közlekedik a „Jõmmu”, egy autentikus, fából készült középkori áruszállító bárka másolata."
+      ],
       ro: [
         "Are o lungime de 100 de kilometri.",
         "Este singurul râu complet navigabil din Estonia.",
@@ -2620,7 +3004,7 @@ export const estoniaNature: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "",
+      hu: "A Vilsandi Nemzeti Park Észtország és egyben a balti államok legrégebbi természetvédelmi területe, melyet eredetileg madárrezervátumként alapítottak 1910-ben. A Saaremaa nyugati partján fekvő park magában foglalja Vilsandi szigetét és mintegy 150 kisebb szigetét és zátonyát. A terület a madármegfigyelők igazi paradicsoma, hiszen több mint 240 madárfaj fordul meg itt, köztük a ritka pehelyréce jelentős állománya. A park nemcsak a madarakról, hanem a fókákról is híres; itt található az ország egyik legnagyobb szürkefóka-kolóniája. A tiszta tengervíz, a mészkősziklák és a különleges orchideafajok a természetbarátok számára felejthetetlen látványt nyújtanak. Vilsandi világítótornya, mely 1809-ben épült, a sziget egyik legfontosabb jelképe és tájékozódási pontja.",
       ro: "Parcul Național Vilsandi, situat pe coasta de vest a insulei Saaremaa, este cea mai veche arie protejată din statele baltice. Acesta cuprinde insula Vilsandi și aproximativ 150 de insulițe stâncoase, fiind un paradis pentru observatorii de păsări și un sanctuar pentru foci. Parcul este renumit pentru coloniile sale de păsări de mare, în special eiderul comun, și pentru flora sa bogată, inclusiv numeroase specii de orhidee. Peisajul marin, cu insulele sale mici și apele limpezi, oferă oportunități excelente pentru plimbări cu barca și explorare. Este un loc de o frumusețe naturală excepțională și de o importanță ecologică majoră.",
       en: ""
     },
@@ -2632,7 +3016,13 @@ export const estoniaNature: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: [],
+      hu: [
+        "Apály idején a bátor látogatók gyalog, a tengeren gázolva is átmehetnek Saaremaáról Vilsandira.",
+        "Ez volt az Orosz Birodalom első tengeri madárvédelmi területe.",
+        "A park területén több mint 30 különféle orchideafaj virágzik a nyári hónapokban.",
+        "A Vilsandi-szigeten található észt mérőállomás méri az ország legtisztább levegőjét.",
+        "A szigeten mindössze egy maroknyi állandó lakos él, megőrizve a hely háborítatlanságát."
+      ],
       ro: [
         "A fost înființat ca rezervație ornitologică în 1910.",
         "Găzduiește cea mai mare colonie de foci gri din Estonia.",

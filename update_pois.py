@@ -1,37 +1,26 @@
-import re
-import os
 import json
+import re
 
-def process_file(file_path, updates):
+def update_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    for poi_id, data in updates.items():
-        desc_adv = data['descriptionAdvanced'].replace('"', '\\"')
-        facts_adv = json.dumps(data['factsAdvanced'], ensure_ascii=False)
-        
-        # Construct the strings to insert
-        desc_str = f'descriptionAdvanced: {{ de: "{desc_adv}", hu: "", ro: "", en: "" }}'
-        facts_str = f'factsAdvanced: {{ de: {facts_adv}, hu: [], ro: [], en: [] }}'
-        
-        # Find the POI block and insert the new fields after the existing 'facts' field
-        # We look for the closing brace of the 'facts' object
-        pattern = re.compile(r'(id:\s*"' + re.escape(poi_id) + r'".*?facts:\s*\{.*?\n\s*\})', re.DOTALL)
-        
-        def replace_func(match):
-            return match.group(1) + ',\n    ' + desc_str + ',\n    ' + facts_str
-        
-        if pattern.search(content):
-            content = pattern.sub(replace_func, content)
-        else:
-            print(f"Warning: Could not find POI with id {poi_id} in {file_path}")
+    # Pattern to match each POI object
+    # This regex is simplified and assumes standard formatting
+    pattern = re.compile(r'\{.*?id: "(.*?)".*?\},', re.DOTALL)
+    
+    # We will split the array content manually as simple regex might fail
+    # A better approach: find the array definition and modify it.
+    # Let's try a safer way by reading the file content.
+    
+    # For now, manually process the content as provided in the files
+    # Actually, the files follow a strict structure.
+    
+    # Since I cannot use a robust parser, I will do line-by-line or 
+    # structured replacements if I can identify the objects.
+    
+    # Let's read the file and split by object start.
+    pass
 
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(content)
-
-if __name__ == "__main__":
-    import sys
-    file_path = sys.argv[1]
-    updates_json = sys.argv[2]
-    updates = json.loads(updates_json)
-    process_file(file_path, updates)
+# Due to complexity, I'll use simple string replacement logic on each file, 
+# ensuring I don't touch existing 'hu' if it exists and is filled.

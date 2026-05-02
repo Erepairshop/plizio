@@ -20,13 +20,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["In Chapultepec Park", "Popular with families", "Many native species"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Chapultepec Zoo liegt im Herzen des gleichnamigen Parks in Mexiko-Stadt und ist eine der meistbesuchten Tieranlagen der Welt. Er spielt eine wichtige Rolle im Artenschutz und ist berühmt für seine Zuchtprogramme, insbesondere für Riesenpandas. Besucher können hier durch verschiedene nachgebildete Biome wandern und eine beeindruckende Vielfalt an heimischen und exotischen Tierarten bestaunen. Der Zoo verbindet erfolgreich Erholung mit Umweltbildung für die Bevölkerung.",
       hu: "",
       ro: "",
       en: "The Chapultepec Zoo, nestled within the sprawling Bosque de Chapultepec in Mexico City, is one of the most visited and beloved zoological institutions in Latin America. Founded in 1923 by biologist Alfonso L. Herrera, it was designed to showcase native Mexican species alongside exotic animals from around the globe. The zoo is famously known for its successful giant panda breeding program, being the first institution outside of China to achieve this feat. Beyond being a popular family destination, it serves as a critical center for scientific research and the conservation of endangered species like the Mexican wolf and the volcano rabbit. Visitors can explore various biomes, from tropical forests to arid deserts, all within the heart of the metropolis. This institution plays a vital role in environmental education, connecting urban residents with the wonders of the natural world."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Einer der wenigen Zoos weltweit, in dem Riesenpandas geboren wurden.", "Beherbergt über 1.200 Tiere aus mehr als 200 Arten.", "Der Eintritt zum Zoo ist für die Öffentlichkeit kostenlos."],
       hu: [],
       ro: [],
       en: [
@@ -57,13 +57,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Near Lake San Juan de Aragon", "Strong environmental education", "Lots of space for animals"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der San Juan de Aragón Zoo ist der zweitgrößte Zoo in Mexiko-Stadt und bietet weitläufige Gehege für seine tierischen Bewohner. Die Anlage wurde in den letzten Jahren umfassend modernisiert und orientiert sich an modernen Naturschutzkonzepten. Besonders bemerkenswert sind die großen Lebensräume für afrikanische Savannentiere und heimische mexikanische Arten. Der Zoo ist eine wichtige grüne Oase im Norden der Metropole.",
       hu: "",
       ro: "",
       en: "The San Juan de Aragón Zoo, located in the northeastern part of Mexico City, is the city's second-largest zoo and a vital green lung for the surrounding neighborhoods. Opened in 1964, it was designed with a focus on providing spacious, open-air enclosures that mimic the natural habitats of the animals more closely than traditional zoos. The park underwent a major renovation in the early 2000s to modernize its facilities and enhance its role as an educational center for environmental conservation. It is particularly noted for its work with species native to the Valley of Mexico and its impressive collection of birds and large mammals. The zoo's layout encourages long walks through shaded paths, making it a peaceful alternative to the more crowded Chapultepec Zoo. It remains a key site for community engagement, offering workshops and guided tours that emphasize the importance of biodiversity."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wurde 1964 eröffnet und in den 2000er Jahren stark renoviert.", "Fokus liegt auf der Erhaltung bedrohter mexikanischer Tierarten.", "Die Gehege sind großzügig gestaltet und ahmen natürliche Habitate nach."],
       hu: [],
       ro: [],
       en: [
@@ -94,13 +94,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Large animal zones", "Sky wheel and aquarium", "Important learning site"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Zoologico Guadalajara gilt als einer der modernsten und schönsten Zoos in ganz Lateinamerika. Er erstreckt sich am Rande der beeindruckenden Barranca de Huentitán, was ihm eine spektakuläre landschaftliche Kulisse verleiht. Zu den Highlights zählen das Aquarium, das Safari-Gehege und die Seilbahn, die fantastische Ausblicke über den Park bietet. Der Zoo engagiert sich stark in Forschung und Arterhaltungsprojekten.",
       hu: "",
       ro: "",
       en: "The Guadalajara Zoo is widely considered one of the finest and most innovative zoological parks in Mexico, offering a diverse range of experiences that go beyond simple animal viewing. Situated on the edge of the breathtaking Huentitán Canyon, the zoo uses its dramatic topography to create unique exhibits like the 'Monkeyland' and a cable car system that provides stunning aerial views of the animals and the gorge. It features a world-class aquarium, a specialized safari area where visitors can see African wildlife from a secure vehicle, and an Antarctic exhibit with penguins. The zoo is a leader in animal welfare and conservation education in western Mexico, attracting millions of visitors annually. Its commitment to creating immersive environments allows guests to feel as though they have traveled to different continents without leaving the city. The integration of technology and nature makes it a standout destination for both locals and international tourists."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1988 und kontinuierlich erweitert.", "Verfügt über eine Seilbahn (SkyZoo) mit Blick über die Tiergehege.", "Direkt an der beeindruckenden Huentitán-Schlucht gelegen."],
       hu: [],
       ro: [],
       en: [
@@ -131,13 +131,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Popular with kids", "Underwater exhibits", "Central location"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Acuario Inbursa in Mexiko-Stadt ist das größte und modernste Aquarium des Landes. Bemerkenswert ist, dass sich die Becken über mehrere unterirdische Etagen erstrecken, was den Besuchern das Gefühl gibt, tief ins Meer hinabzutauchen. In spektakulären Pinguin- und Hai-Lebensräumen können Besucher die faszinierende Unterwasserwelt aus nächster Nähe erleben. Es legt großen Wert auf ozeanische Bildung und marine Erhaltungsprogramme.",
       hu: "",
       ro: "",
       en: "Acuario Inbursa is a modern subterranean marvel located in the upscale Polanco district of Mexico City, right across from the Soumaya Museum. Designed by architect Gerardo García, the aquarium spans four underground levels, taking visitors on a journey from the ocean floor to the coastal mangroves. It is the largest aquarium in Mexico, housing thousands of marine creatures from over 300 different species, including sharks, rays, and exotic jellyfish. The facility is not just a tourist attraction but also a center for marine conservation and education, supported by the Blau Life Foundation. Its state-of-the-art life support systems and immersive exhibits, such as the sunken shipwreck and the penguinarium, provide a captivating look into the mysteries of the deep. This urban oasis serves as a crucial platform for raising awareness about the threats facing our oceans and the importance of marine protection."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Befindet sich zu einem großen Teil unter der Erde (bis zu 4 Stockwerke).", "Beherbergt über 14.000 Meeresbewohner aus mehr als 350 Arten.", "Finanziert vom mexikanischen Geschäftsmann Carlos Slim."],
       hu: [],
       ro: [],
       en: [
@@ -168,13 +168,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Underground rivers", "Marine shows", "Strong ecological focus"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Xcaret Park an der Riviera Maya ist ein ökologischer Freizeitpark, der die Natur und Kultur Mexikos auf einzigartige Weise zelebriert. Besucher können hier durch unterirdische Flüsse schwimmen, Mayaruinen erkunden und eine enorme Vielfalt an tropischen Tieren beobachten. Die abendliche Show 'Xcaret México Espectacular' ist weltberühmt und entführt das Publikum durch die gesamte Geschichte des Landes. Es ist eine perfekte Mischung aus Naturerlebnis und kultureller Unterhaltung.",
       hu: "",
       ro: "",
       en: "Xcaret Park is a world-renowned eco-archaeological destination located on the Riviera Maya, blending natural beauty, Mexican culture, and history into a single immersive experience. Built on the site of a former Maya trading port, the park features authentic archaeological ruins alongside underground rivers, lagoons, and a pristine coastline. Visitors can swim through crystal-clear freshwater caves, visit a massive coral reef aquarium, and walk through one of the world's largest butterfly pavilions. The park's highlight is the spectacular 'Xcaret México Espectacular' evening show, which tells the history of Mexico through music, dance, and ancient ball games. Xcaret is also a major player in conservation, notably for its sea turtle nesting program and the reproduction of scarlet macaws. It is a place where the vibrant traditions of Mexico are celebrated daily, making it a must-visit for anyone seeking to understand the country's diverse heritage."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Integriert archäologische Ruinen der Maya in den Park.", "Bietet Zugang zu einem Netzwerk aus natürlichen unterirdischen Flüssen.", "Heimat zahlreicher Schutzprogramme, z.B. für Meeresschildkröten und Aras."],
       hu: [],
       ro: [],
       en: [
@@ -205,13 +205,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Safari cu masina", "Many African species", "Popular day-trip destination"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Africam Safari in Puebla ist einer der bekanntesten Safariparks in Lateinamerika und bietet ein immersives Tiererlebnis. Anders als in klassischen Zoos durchqueren die Besucher das weitläufige Gelände im eigenen Auto oder in Parkbussen, während Giraffen, Elefanten und Nashörner frei herumlaufen. Der Park widmet sich intensiv der Zucht bedrohter Arten und dem Schutz natürlicher Lebensräume. Es ist ein wildes Abenteuer für die ganze Familie.",
       hu: "",
       ro: "",
       en: "Africam Safari, located just outside the city of Puebla, offers a unique opportunity to witness wild animals in expansive, open-range habitats that closely resemble their native environments. Unlike a traditional zoo, visitors drive through various 'continents' in their own vehicles or on park buses, allowing for close but safe encounters with giraffes, rhinos, lions, and elephants. Founded in 1972 by Captain Carlos Camacho Espíritu, the park was a pioneer in the 'safari' concept in Mexico and remains a leader in wildlife conservation. The park is famous for its successful breeding programs for endangered species, including the northern white rhino and the Mexican gray wolf. In addition to the drive-through safari, the park features a walking area with bird aviaries, insectariums, and nocturnal animal exhibits. Africam Safari provides a thrilling and educational experience that emphasizes the majesty of nature and the urgent need to protect it."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Die Tiere bewegen sich frei in großen, savannenartigen Bereichen.", "Gegründet im Jahr 1972 von Carlos Camacho Espíritu.", "Bietet auch Nachtsafaris an, um nachtaktive Tiere zu beobachten."],
       hu: [],
       ro: [],
       en: [
@@ -242,13 +242,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Safaris and shows", "Family-friendly", "Nature-based design"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Bioparque Estrella ist ein beliebter Natur- und Safaripark, der sich perfekt für Familienausflüge eignet. Die Anlage bietet eine Mischung aus Tierbegegnungen, Abenteuerparcours und interaktiven Ausstellungen. Neben der klassischen Autosafari gibt es Dinosaurier-Nachbildungen, einen Streichelzoo und kleine Bootstouren. Der Park sensibilisiert spielerisch für den respektvollen Umgang mit der Natur und Umwelt.",
       hu: "",
       ro: "",
       en: "Bioparque Estrella, situated in the State of Mexico near Jilotepec, is a massive theme park and wildlife preserve that combines safari adventures with interactive attractions. It is best known for the 'Serengeti Safari,' where guests board specialized trucks to feed giraffes, zebras, and antelopes in a vast open field. The park also features the 'Subterranium,' an underground mining tour, and various water-based activities like 'Rio Loco.' With a strong focus on family fun and outdoor education, Bioparque Estrella provides a full day of entertainment while fostering a respect for animals and the environment. Its Jurassic-themed area, featuring life-sized animatronic dinosaurs, is a major draw for younger children. The park's wide-open spaces and diverse collection of animals make it one of the most popular weekend getaways for residents of the Mexico City metropolitan area."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gilt als der größte Safaripark in Mexiko.", "Verfügt über ein eigenes Reservat, in dem viele Tiere halbfrei leben.", "Bietet neben Tieren auch Attraktionen wie Dinosaurierparks."],
       hu: [],
       ro: [],
       en: [
@@ -279,13 +279,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["UNESCO World Heritage site", "Winter colonies only", "Major conservation site"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biosphärenreservat der Monarchfalter in Michoacán ist Schauplatz eines der beeindruckendsten Naturschauspiele der Welt. Millionen von Monarchfaltern überwintern hier in den dichten Tannenwäldern, nachdem sie Tausende von Kilometern aus Kanada und den USA gereist sind. Die Bäume färben sich buchstäblich orange unter der Last der Insekten. Es ist ein magischer Ort, der die Zerbrechlichkeit und Wunder der Natur eindrucksvoll vor Augen führt.",
       hu: "",
       ro: "",
       en: "The Monarch Butterfly Biosphere Reserve is a breathtaking natural sanctuary located in the rugged mountains of Michoacán and the State of Mexico. Every year, millions of monarch butterflies travel over 4,000 kilometers from Canada and the United States to spend the winter in these high-altitude oyamel fir forests. The sight of thousands of butterflies clustering on tree branches, often bending them with their collective weight, is one of nature's most spectacular phenomena. Designated as a UNESCO World Heritage site, the reserve is critical for the survival of the monarch's unique migratory cycle. Visitors can hike or ride horses up the steep mountain trails to reach the colonies, where the air hums with the sound of millions of wings. The reserve also plays a vital role in protecting the regional watershed and providing a habitat for numerous other mountain species. Conservation efforts here are a collaboration between local communities, international organizations, and the Mexican government."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ernannt zum UNESCO-Weltnaturerbe im Jahr 2008.", "Die Schmetterlinge legen bis zu 4.500 Kilometer zurück, um hier zu überwintern.", "Die beste Zeit zur Beobachtung ist von November bis März."],
       hu: [],
       ro: [],
       en: [
@@ -316,13 +316,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["UNESCO World Heritage site", "Rich wildlife", "Important karst landscape"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Sian Ka'an ist ein gigantisches Biosphärenreservat an der Karibikküste und bedeutet in der Sprache der Maya 'Ort, wo der Himmel geboren wurde'. Es schützt eine außergewöhnliche Vielfalt an Ökosystemen, von tropischen Wäldern über Mangroven bis hin zu Korallenriffen. Besucher können hier auf ruhigen Bootstouren Delfine, Seekühe und unzählige Vogelarten in ihrer natürlichen Umgebung beobachten. Es ist ein unberührtes Naturparadies abseits der großen Touristenströme.",
       hu: "",
       ro: "",
       en: "Sian Ka'an, which means 'Gate of Heaven' or 'Where the Sky is Born' in the Maya language, is a massive biosphere reserve on the Caribbean coast of Quintana Roo. This UNESCO World Heritage site encompasses tropical forests, mangroves, marshes, and a large section of the Mesoamerican Barrier Reef. It is one of the most ecologically diverse places in Mexico, providing a home to hundreds of species of birds, monkeys, jaguars, and sea turtles. The reserve is also rich in cultural history, containing over 20 archaeological sites, including the ancient Maya trading center of Muyil. Visitors can explore the reserve through eco-tours that involve floating down crystal-clear freshwater canals built by the Maya or kayaking through the labyrinthine mangroves. Sian Ka'an serves as a global model for sustainable development, where conservation and the needs of local communities are carefully balanced. Its pristine beauty remains largely untouched by the massive tourism developments found further north."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Das Reservat ist seit 1987 UNESCO-Weltnaturerbe.", "Umspannt eine Fläche von über 5.200 Quadratkilometern.", "Beherbergt Tausende von Tier- und Pflanzenarten, darunter viele bedrohte."],
       hu: [],
       ro: [],
       en: [
@@ -353,13 +353,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Tropical forest", "Jaguar habitat", "Near an ancient city"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biosphärenreservat Calakmul liegt tief im Dschungel der Halbinsel Yucatán und umschließt eine der bedeutendsten Ruinenstädte der Maya. Die dichten tropischen Wälder sind ein wichtiges Refugium für den Jaguar, Pumas, Tapire und Brüllaffen. Das Reservat bietet eine mystische Atmosphäre, in der alte Tempelpyramiden lautlos aus dem dichten Grün aufragen. Es ist ein idealer Ort für Abenteurer, die Natur und Geschichte ungestört erleben möchten.",
       hu: "",
       ro: "",
       en: "The Calakmul Biosphere Reserve is a vast expanse of tropical forest in the heart of the Yucatán Peninsula, standing as one of the largest protected areas in Mexico. It is famous for housing the ancient Maya city of Calakmul, once a powerful rival to Tikal, whose massive pyramids rise high above the jungle canopy. The reserve is a critical corridor for large felines, including the jaguar and puma, and is home to two species of monkeys and over 350 species of birds. The dense vegetation hides countless undiscovered ruins and provides a glimpse into the wild landscape that once dominated the Maya world. Conservation in Calakmul is vital for maintaining the region's biodiversity and protecting the endemic flora and fauna of the southern Yucatán. Due to its remote location, it remains one of the most tranquil and authentic destinations for eco-tourism in Mexico. The integration of high-density archaeological remains within a primary forest makes it a unique 'mixed' UNESCO World Heritage site."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gilt als das größte tropische Waldreservat Mexikos.", "Die archäologische Stätte Calakmul ist tief im Dschungel versteckt.", "Ein wichtiger Lebensraum für die größte Jaguar-Population des Landes."],
       hu: [],
       ro: [],
       en: [
@@ -390,13 +390,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["High biodiversity", "Rainforest area", "Maya cultural region"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der lakandonische Regenwald in Chiapas ist eines der letzten großen und unberührten Dschungelgebiete in Nordamerika. Er ist die Heimat der indigenen Lacandonen-Maya, die seit Jahrhunderten in Harmonie mit der üppigen Natur leben. Zwischen dichten Baumkronen, versteckten Wasserfällen und unentdeckten Ruinen pulsiert eine unglaubliche Biodiversität. Der Dschungel ist von zentraler Bedeutung für das Klima und den Artenschutz in der Region.",
       hu: "",
       ro: "",
       en: "The Lacandon Jungle, or Selva Lacandona, is a dense and mysterious rainforest located in the eastern part of Chiapas, along the border with Guatemala. It is the ancestral home of the Lacandon Maya, a group that maintained their traditional way of life deep within the forest for centuries. This incredibly biodiverse region is characterized by soaring mahogany and cedar trees, hidden waterfalls, and the ruins of ancient cities like Bonampak and Yaxchilán. The jungle is a haven for rare wildlife, including the harpy eagle, the scarlet macaw, and the elusive jaguar. Exploring the Lacandon Jungle often involves guided treks led by local community members, who share their deep knowledge of medicinal plants and forest lore. Despite its beauty, the region faces significant threats from deforestation and agricultural expansion, making sustainable tourism and conservation efforts more critical than ever. It remains one of the last true wilderness areas in North America."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Beherbergt rund ein Viertel aller bekannten Tierarten Mexikos.", "Heimat der indigenen Lacandonen, die traditionelle Lebensweisen bewahren.", "Stark bedroht durch illegale Abholzung und Landwirtschaft."],
       hu: [],
       ro: [],
       en: [
@@ -427,13 +427,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Important whale migration area", "UNESCO World Heritage site", "Also desert habitat"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biosphärenreservat El Vizcaíno auf der Halbinsel Baja California ist vor allem als Geburtsstätte der kalifornischen Grauwale berühmt. Jeden Winter wandern diese sanften Riesen in die geschützten Lagunen, um ihre Kälber zur Welt zu bringen. Neben den Walen bietet die raue Wüstenlandschaft mit ihren bizarren Kakteen und Salinen eine dramatische Kulisse. Das Reservat ist ein essenzielles Schutzgebiet für Meeres- und Wüstenlebewesen gleichermaßen.",
       hu: "",
       ro: "",
       en: "The El Vizcaíno Biosphere Reserve is a vast and varied protected area located in the central part of the Baja California Peninsula. Spanning from the Pacific Ocean to the Sea of Cortez, it encompasses sandy deserts, rugged mountains, and pristine coastal lagoons. The reserve is most famous for the Ojo de Liebre and San Ignacio lagoons, which serve as the primary calving grounds for the eastern North Pacific gray whale. Every winter, these gentle giants migrate thousands of miles to these shallow, protected waters to give birth and nurse their young. Beyond its marine significance, the reserve is home to the endangered Peninsular pronghorn and features remarkable ancient rock paintings in the Sierra de San Francisco. The stark, arid beauty of the landscape and its unique endemic flora, such as the giant cardon cactus, make it a place of profound scientific and aesthetic value. It is one of the largest and most ecologically significant reserves in all of Latin America."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ist das größte Biosphärenreservat in Mexiko.", "Die Ojo de Liebre-Lagune ist der wichtigste Paarungsort für Grauwale.", "Teile des Reservats sind als UNESCO-Weltnaturerbe gelistet."],
       hu: [],
       ro: [],
       en: [
@@ -464,13 +464,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Large flamingo population", "Boat tours", "Mangrove forests"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biosphärenreservat Celestún in Yucatán ist weltbekannt für seine riesigen Schwärme karibischer Flamingos. Das flache, nährstoffreiche Wasser der Ría bietet ideale Bedingungen für die Vögel, deren rosa Gefieder das Wasser in ein Farbenmeer verwandelt. Bootstouren durch die dichten Mangrovenwälder offenbaren eine reiche Tierwelt, darunter Pelikane und Krokodile. Es ist ein malerischer Rückzugsort für Naturliebhaber und Fotografen.",
       hu: "",
       ro: "",
       en: "The Ría Celestún Biosphere Reserve, located on the western coast of the Yucatán Peninsula, is a stunning wetland ecosystem famous for its vibrant pink inhabitants. The mix of freshwater from underground springs and saltwater from the Gulf of Mexico creates an ideal habitat for the American flamingo, which gathers here in the thousands. Visitors typically explore the reserve by small boat, navigating through narrow mangrove tunnels to reach the open lagoons where the flamingos feed. The reserve is also a paradise for birdwatchers, with over 300 species recorded, including pelicans, egrets, and kingfishers. The surrounding town of Celestún offers a glimpse into traditional coastal life, known for its fresh seafood and tranquil beaches. The protection of these wetlands is essential for maintaining the regional water quality and providing a nursery for many marine species. The ethereal beauty of the pink flamingos against the emerald green of the mangroves is one of Yucatán's most iconic sights."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt für die intensive rosa Färbung seiner Flamingos.", "Das Reservat schützt wichtige Mangroven-Ökosysteme.", "Flamingos können hier fast das ganze Jahr über beobachtet werden."],
       hu: [],
       ro: [],
       en: [
@@ -501,13 +501,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Turtle nesting", "Crocodile lagoon", "Community-based protection"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "La Ventanilla ist ein kleines Küstendorf in Oaxaca, das sich dem Schutz der Natur und der Meeresschildkröten verschrieben hat. Die lokale Gemeinschaft organisiert Bootstouren durch die beeindruckenden Mangrovenlagunen, in denen Krokodile, Leguane und unzählige Vögel leben. Ein wichtiges Projekt ist die Aufzuchtstation für Schildkröten, die hilft, die bedrohten Bestände zu sichern. Das Projekt ist ein herausragendes Beispiel für erfolgreichen, gemeindebasierten Ökotourismus.",
       hu: "",
       ro: "",
       en: "La Ventanilla is a unique community-led ecotourism project and nature reserve located on the Pacific coast of Oaxaca, near Puerto Escondido. Named after a natural rock arch that looks like a small window, the area features a lush mangrove lagoon that was restored by local families after being devastated by hurricanes. Today, the lagoon is a thriving habitat for crocodiles, iguanas, and a vast array of bird species. The community operates a turtle sanctuary on the beach, where they protect the nests of olive ridley and leatherback turtles from poachers and predators. Visitors can take guided canoe tours through the mangroves, learning about the complex ecosystem and the community's reforestation efforts. This project is a shining example of how local empowerment and conservation can go hand-in-hand to protect natural resources and provide a sustainable livelihood. The lack of large-scale development ensures that La Ventanilla remains a peaceful and authentic natural escape."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wird vollständig von der lokalen indigenen Gemeinschaft verwaltet.", "Ein wichtiges Nistgebiet für verschiedene Arten von Meeresschildkröten.", "Bietet geführte Bootstouren zur Beobachtung von Krokodilen an."],
       hu: [],
       ro: [],
       en: [
@@ -538,13 +538,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Humid rainforest", "Volcanic terrain", "Important research area"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biosphärenreservat Los Tuxtlas in Veracruz ist eine bemerkenswerte vulkanische Dschungelregion an der Küste des Golfs von Mexiko. Diese isolierte Gebirgskette beherbergt einen feuchten Tropenwald mit einer enormen Dichte an Flora und Fauna. Die landschaftliche Schönheit umfasst versteckte Wasserfälle, Kraterseen und dichten Regenwald, der direkt an Strände grenzt. Es ist ein mystischer Ort, der auch für seine tief verwurzelten indigenen Traditionen bekannt ist.",
       hu: "",
       ro: "",
       en: "The Los Tuxtlas Biosphere Reserve in southern Veracruz is a remarkable 'ecological island' where the northernmost tropical rainforest in the Americas meets ancient volcanic peaks. This unique landscape, characterized by dramatic elevation changes, ranges from the shores of the Gulf of Mexico to the summits of the San Martín and Santa Martha volcanoes. The reserve is a hotspot for biodiversity, housing over 500 species of birds and more than 100 species of mammals, including the mantled howler monkey. It is also famous for its connection to the Olmec civilization, with numerous archaeological finds having been discovered in its fertile soils. The region's heavy rainfall feeds countless rivers and spectacular waterfalls, such as Eyipantla Falls. Despite historical pressure from cattle ranching, Los Tuxtlas remains a critical area for biological research and a bastion of wild nature in the state of Veracruz. Its cloud forests and lowland jungles offer a glimpse into the incredible natural wealth of Mexico's humid tropics."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Die Region ist vulkanischen Ursprungs und liegt direkt an der Küste.", "Beherbergt den wunderschönen Kratersee Laguna de Catemaco.", "Bekannt als nördlichster Tropenwald des amerikanischen Kontinents."],
       hu: [],
       ro: [],
       en: [
@@ -575,13 +575,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["UNESCO biosphere", "Very diverse climates", "Strong nature tourism"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Sierra Gorda in Querétaro ist eines der ökologisch vielfältigsten Schutzgebiete in Mexiko. Die Landschaft reicht von kargen Halbwüsten über üppige Nebelwälder bis hin zu spektakulären Schluchten und Flüssen. Die Region ist auch berühmt für ihre historischen Franziskanermissionen, die harmonisch in die Natur eingebettet sind. Dieses Biosphärenreservat ist ein Paradies für Wanderer und ein Musterbeispiel für nachhaltige Entwicklung.",
       hu: "",
       ro: "",
       en: "The Sierra Gorda Biosphere Reserve, located in the northern part of Querétaro, is one of Mexico's most diverse and spectacular protected areas. Often described as a 'green jewel' in the heart of the country, it encompasses a stunning range of ecosystems, from semi-arid deserts to lush cloud forests and rugged mountain peaks. The reserve is a haven for hikers and nature lovers, featuring deep canyons, hidden caves, and the spectacular Sotano del Barro, one of the world's deepest natural pits. Beyond its natural wonders, the Sierra Gorda is famous for the five 18th-century Franciscan missions, a UNESCO World Heritage site, which showcase a unique blend of European and indigenous artistic styles. The reserve is managed with a strong focus on community participation and sustainable agriculture, aiming to protect the landscape while improving local livelihoods. Its complex topography creates numerous microclimates, making it home to rare species like the jaguar and the military macaw. It is a place of profound beauty and cultural richness, representing the best of Mexico's natural diversity."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umfasst zahlreiche verschiedene Mikroklimata auf engstem Raum.", "Fünf Franziskanermissionen in der Region sind UNESCO-Weltkulturerbe.", "Ein Großteil des Reservats wird von lokalen Initiativen geschützt."],
       hu: [],
       ro: [],
       en: [
@@ -612,13 +612,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Part of a protected area", "No car traffic", "Popular for wildlife watching"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Isla Holbox ist eine idyllische, autofreie Insel im Norden der Halbinsel Yucatán, berühmt für ihre weißen Sandstrände und das flache, kristallklare Wasser. Die entspannte Atmosphäre und die bunten Straßenkunstwerke machen sie zu einem charmanten Rückzugsort. In den Sommermonaten versammeln sich hier Walhaie, die Besucher beim Schnorcheln aus nächster Nähe beobachten können. Die Insel legt großen Wert auf Nachhaltigkeit und Naturschutz.",
       hu: "",
       ro: "",
       en: "Isla Holbox is a serene, car-free paradise located just off the northern coast of the Yucatán Peninsula, where the Gulf of Mexico meets the Caribbean Sea. Part of the Yum Balam Biosphere Reserve, the island is famous for its shallow, turquoise waters, vibrant street art, and powdery white sand beaches. Holbox remains a sanctuary for wildlife, particularly the thousands of flamingos that feed in its lagoons and the whale sharks that visit its waters every summer. The town itself has a relaxed, bohemian vibe, with sandy streets and colorful wooden houses that emphasize the island's connection to nature. Visitors can explore the island by golf cart, bicycle, or on foot, discovering hidden sandbars and watching spectacular sunsets over the sea. The island's culinary scene is also a draw, particularly the famous lobster pizza. Holbox offers a tranquil alternative to the bustling tourist hubs of the Riviera Maya, inviting travelers to slow down and enjoy the simple pleasures of island life."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Auf der Insel gibt es keine asphaltierten Straßen oder Autos.", "In den Gewässern um Holbox sammeln sich von Mai bis September Walhaie.", "Gehört zum Yum Balam Biosphärenreservat."],
       hu: [],
       ro: [],
       en: [
@@ -649,13 +649,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Popular for snorkeling", "Near Cancun", "Rich coral life"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Isla Mujeres, nur eine kurze Fährfahrt von Cancún entfernt, besticht durch karibisches Flair und historische Bedeutung. Der beliebte Strand Playa Norte gilt als einer der schönsten der Welt, mit Puderzuckersand und türkisfarbenem, seichtem Wasser. Vor der Küste locken bunte Korallenriffe und ein Unterwasserkunstmuseum Taucher und Schnorchler an. Die kleine Insel lässt sich am besten mit dem Golfcart erkunden.",
       hu: "",
       ro: "",
       en: "Isla Mujeres, or the 'Island of Women,' is a charming Caribbean gem located just a short ferry ride from the bustling shores of Cancún. Despite its proximity to the mainland, the island maintains a distinctly laid-back and authentic atmosphere. It is world-renowned for Playa Norte, often cited as one of the most beautiful beaches in the world, with its calm, waist-deep crystal waters and swaying palms. At the island's southern tip, Punta Sur, visitors can find the ruins of a temple dedicated to the Maya goddess Ixchel and a spectacular sculpture park overlooking the sea. The surrounding coral reefs, including the Manchones Reef, are a paradise for snorkelers and divers, featuring a portion of the famous MUSA (Underwater Museum of Art). Whether you're cruising around in a golf cart, exploring the colorful town center, or simply relaxing by the sea, Isla Mujeres offers a perfect blend of natural beauty and Mexican charm."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Der Name bedeutet übersetzt 'Insel der Frauen', benannt nach Maya-Göttinnen.", "Beherbergt Teile des MUSA (Museo Subacuático de Arte), eines Unterwassermuseums.", "Der Playa Norte wird regelmäßig zu den Top-Stränden weltweit gewählt."],
       hu: [],
       ro: [],
       en: [
@@ -686,13 +686,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Famous fishing traditions", "Lake views", "Important cultural site"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Insel Janitzio im Pátzcuaro-See in Michoacán ist berühmt für ihre reiche indigene Purépecha-Kultur. Auf der Spitze der steilen Insel thront eine monumentale Statue des Nationalhelden José María Morelos. Besonders magisch ist der Ort während der Feierlichkeiten zum Tag der Toten, wenn der See von Hunderten Fischerbooten mit Fackeln erleuchtet wird. Die traditionellen Fischer mit ihren auffälligen Schmetterlingsnetzen sind ein ikonisches Fotomotiv.",
       hu: "",
       ro: "",
       en: "Janitzio is the most iconic of the five islands in Lake Pátzcuaro, in the state of Michoacán, and is a central symbol of Purépecha culture. The island is famous for its unique butterfly net fishermen, who perform a traditional dance with their large, wing-like nets that have become a national symbol of Mexico. Rising high above the island's red-tiled roofs is a massive 40-meter statue of José María Morelos, a hero of Mexican Independence; visitors can climb inside the statue to see murals depicting his life and enjoy panoramic views of the lake. Janitzio is especially vibrant during the Day of the Dead (Noche de Muertos), when thousands of candles illuminate the cemetery and the lake, reflecting a deep spiritual connection to the ancestors. The island's steep, narrow streets are lined with shops selling local crafts and delicious regional food, such as 'charales' (dried fish). A visit to Janitzio is an immersion into the living traditions and resilient spirit of the Purépecha people."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Die Spitze der Insel wird von einer 40 Meter hohen Morelos-Statue gekrönt.", "Ist weltberühmt für die authentischen Feierlichkeiten zum Tag der Toten.", "Die einheimischen Fischer nutzen traditionelle 'Schmetterlingsnetze'."],
       hu: [],
       ro: [],
       en: [
@@ -723,13 +723,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["UNESCO region", "Popular for kayaking", "Sea lion colonies"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Isla Espíritu Santo vor der Küste von La Paz ist ein unberührtes Naturparadies im Golf von Kalifornien. Die karge, felsige Wüstenlandschaft der Insel kontrastiert dramatisch mit dem tiefblauen, kristallklaren Wasser des Meeres. Besucher können hier mit verspielten Seelöwen schnorcheln, Kajak fahren oder einsame Buchten erkunden. Die Insel ist streng geschützt und bietet Zuflucht für eine reiche, endemische Artenvielfalt.",
       hu: "",
       ro: "",
       en: "Isla Espíritu Santo is a breathtaking, uninhabited island located in the Sea of Cortez, just off the coast of La Paz in Baja California Sur. Often called the 'Galápagos of Mexico,' it is a place of stark, desert beauty, with red volcanic cliffs, turquoise bays, and white sand beaches. The island and its surrounding waters are a UNESCO-protected biosphere reserve, housing an incredible diversity of marine life, including dolphins, whales, and rays. The highlight for many visitors is the sea lion colony at Los Islotes, where it is possible to snorkel and swim with playful young pups in their natural habitat. The island's numerous coves, such as Ensenada Grande, offer perfect conditions for kayaking, paddleboarding, and camping under the stars. With no permanent human residents, the island remains a pristine wilderness where the silence is only broken by the sound of the waves and the calls of seabirds. It is a must-visit destination for those seeking an authentic encounter with the wild beauty of the Gulf of California."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ist ein geschütztes Biosphärenreservat und unbewohnt.", "Berühmt für die Kolonie von Seelöwen, mit denen man schnorcheln kann.", "Oft als 'Galapagos von Nordamerika' bezeichnet."],
       hu: [],
       ro: [],
       en: [
@@ -760,13 +760,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Home of the Seri people", "Important desert habitat", "Strongly protected"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Isla Tiburón ist die größte Insel Mexikos und liegt im Golf von Kalifornien, umgeben von nährstoffreichen Gewässern. Sie ist das heilige Land der indigenen Seri-Nation, die hier eine lange, tief verwurzelte Geschichte hat. Die raue Wüsteninsel ist ein wichtiges Schutzgebiet für Dickhornschafe und verschiedene Wüstenreptilien. Der Zugang zur Insel ist stark reglementiert und erfordert die Erlaubnis der Seri-Gemeinschaft.",
       hu: "",
       ro: "",
       en: "Isla Tiburón, or 'Shark Island,' is the largest island in Mexico and is located in the Gulf of California, separated from the state of Sonora by a narrow channel. This rugged and arid island is the ancestral territory of the Seri (Comca'ac) people, who consider it a sacred place and still manage it today as a communal ecological reserve. The island's landscape is dominated by two mountain ranges and features unique desert flora, including the giant cardon cactus and numerous endemic plant species. It is a critical habitat for desert bighorn sheep and mule deer, which were reintroduced to the island to ensure their survival. Access to Isla Tiburón is strictly controlled by the Seri people, and visitors must obtain permission and often hire a local guide to explore its pristine shores and interior. The island remains one of the most untouched and culturally significant wilderness areas in Mexico, reflecting the deep connection between the Seri people and their natural environment."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Mit 1.200 Quadratkilometern die flächenmäßig größte Insel Mexikos.", "Das Territorium steht unter der Verwaltung des indigenen Seri-Volkes.", "Ein wichtiges Refugium für gefährdete Dickhornschafe."],
       hu: [],
       ro: [],
       en: [
@@ -797,13 +797,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Known for Hidden Beach", "National protected area", "Rich birdlife"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Islas Marietas sind eine Gruppe unbewohnter Inseln vor der Pazifikküste von Nayarit, die für ihre außergewöhnlichen Naturformationen bekannt sind. Das absolute Highlight ist der 'Hidden Beach' (Playa del Amor), ein Kraterstrand, der nur durch einen Wassertunnel schwimmend erreicht werden kann. Das Schutzgebiet ist zudem ein Paradies für Vogelliebhaber, insbesondere um die Blaufußtölpel zu beobachten. Die marinen Ökosysteme um die Inseln sind extrem artenreich.",
       hu: "",
       ro: "",
       en: "The Marietas Islands are a group of small, uninhabited volcanic islands located a few miles off the coast of Punta de Mita in Nayarit. They are famous worldwide for the 'Playa del Amor,' also known as the Hidden Beach, which is a stunning sandy cavern with a massive open-air roof created by volcanic activity and erosion. The islands are a protected national park and a UNESCO Biosphere Reserve, serving as an important nesting site for over 90 species of birds, including the rare blue-footed booby. The surrounding waters are part of a thriving marine reserve, offering exceptional snorkeling and diving opportunities where visitors can see giant mantas, sea turtles, and a variety of colorful tropical fish. During the winter months, the area around the islands is a prime spot for whale watching, as humpback whales congregate in the Bay of Banderas to mate and give birth. To protect the delicate ecosystem, the number of visitors is strictly limited, and access to the Hidden Beach requires swimming through a short tunnel at low tide."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Der berühmte 'Hidden Beach' entstand durch historische militärische Sprengungen.", "Ein wichtiges Brutgebiet für den ikonischen Blaufußtölpel.", "Wurde dank der Initiative des Ozeanographen Jacques Cousteau unter Schutz gestellt."],
       hu: [],
       ro: [],
       en: [
@@ -834,13 +834,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Strictly protected area", "Limited boat access", "Bird nesting site"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Isla Contoy ist ein streng geschütztes Nationalparkgebiet im Karibischen Meer und ein Paradies für unberührte Natur. Die kleine Insel ist einer der wichtigsten Nistplätze für Seevögel in der gesamten mexikanischen Karibik. Es gibt keine menschlichen Siedlungen, und der tägliche Besucherstrom ist streng limitiert, um das sensible Ökosystem zu schützen. In den umliegenden Gewässern tummeln sich zudem Meeresschildkröten und Mantarochen.",
       hu: "",
       ro: "",
       en: "Isla Contoy is a tiny, pristine island located north of Isla Mujeres, where the Caribbean Sea meets the Gulf of Mexico. Known as the 'Island of Birds,' it was declared a national park in 1998 and is the most important nesting site for seabirds in the Mexican Caribbean. The island is strictly protected, with only a limited number of visitors allowed each day, and no permanent residents other than a few scientists and park rangers. Its shallow, crystal-clear bays are perfect for spotting rays and sea turtles, while the inland lagoons are filled with thousands of frigates, pelicans, and cormorants. The island also features a small museum and an observation tower that provides panoramic views of the surrounding turquoise waters and the Ixcaché reef, which marks the beginning of the Great Mesoamerican Reef. Isla Contoy remains one of the last true virgin paradises in the region, offering a glimpse into what the Caribbean looked like before the era of mass tourism."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nur 200 Besucher dürfen die Insel pro Tag betreten.", "Ein wichtiges Nistplatz für mehr als 150 verschiedene Vogelarten.", "Wurde im Jahr 1998 offiziell zum Nationalpark erklärt."],
       hu: [],
       ro: [],
       en: [
@@ -871,13 +871,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["UNESCO cultural landscape", "Distinctive red soil", "Strong tradition"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Agavenlandschaft von Tequila in Jalisco ist ein weites, in blau-grün getauchtes Tal, das die Heimat des berühmtesten mexikanischen Getränks ist. Die endlos scheinenden Felder aus blauen Agaven prägen das Gesicht der gesamten Region. Alte Haciendas und historische Destillerien erzählen die Jahrhunderte alte Geschichte der Tequila-Produktion. Die Landschaft ist so einzigartig und kulturell bedeutsam, dass sie von der UNESCO geschützt wird.",
       hu: "",
       ro: "",
       en: "The Agave Landscape of Tequila, located in the state of Jalisco, is a stunning UNESCO World Heritage site that celebrates the cultural and agricultural heritage of Mexico's most famous spirit. The region is characterized by vast, undulating fields of blue agave (Agave tequilana), whose distinctive blue-green leaves create a striking contrast against the red volcanic soil. These fields have been cultivated for centuries, and the traditional methods of harvesting, performed by skilled laborers known as 'jimadores,' remain largely unchanged. The landscape also includes the town of Tequila itself, with its historic distilleries and haciendas that date back to the 18th century. Visitors can tour the fields to learn about the long growth cycle of the agave plant, which takes 7 to 10 years to reach maturity. The entire region is a testament to the fusion of indigenous traditions and European distillation techniques, which together created a drink that is now a global symbol of Mexican identity."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Seit 2006 als UNESCO-Weltkulturerbe gelistet.", "Nur die 'Blaue Agave' darf für die Herstellung von echtem Tequila verwendet werden.", "Der Reifeprozess der Agavenpflanze dauert oft sieben bis zehn Jahre."],
       hu: [],
       ro: [],
       en: [
@@ -908,13 +908,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Wine tastings", "Dry sunny climate", "Gourmet tourism"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Valle de Guadalupe in Baja California ist die wichtigste Weinregion Mexikos und produziert erstklassige Spitzenweine. Die trockene Landschaft, umrahmt von felsigen Bergen, erinnert an das Mittelmeer und bietet ideale klimatische Bedingungen für den Weinbau. Zahlreiche moderne und architektonisch anspruchsvolle Weingüter laden zu Verkostungen und erstklassiger Gastronomie ein. Die Region hat sich zu einem absoluten Hotspot für Weinliebhaber und Gourmets entwickelt.",
       hu: "",
       ro: "",
       en: "Valle de Guadalupe, located in the northern part of Baja California near Ensenada, is the premier wine-producing region of Mexico, often referred to as the 'Napa Valley of Mexico.' This Mediterranean-style valley produces nearly 90% of the country's wine, benefitting from a unique microclimate of warm days and cool, misty nights from the Pacific Ocean. The region is home to over 150 wineries, ranging from large, established producers to small, experimental boutique vineyards. Beyond the wine, Valle de Guadalupe has become a major culinary destination, famous for its 'Baja-Med' cuisine that emphasizes fresh, locally sourced ingredients. The landscape is dotted with stylish tasting rooms, eco-lofts, and outdoor restaurants that offer stunning views of the vine-covered hills. The annual 'Fiestas de la Vendimia' in August celebrate the harvest with concerts, tastings, and gala dinners, attracting wine enthusiasts from around the world. It is a place where modern sophistication and rustic charm blend seamlessly in a spectacular natural setting."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Produziert rund 90% des gesamten Weines in Mexiko.", "Oft als das 'Napa Valley Mexikos' bezeichnet.", "Verfügt über mehr als 100 etablierte Weingüter (Bodegas)."],
       hu: [],
       ro: [],
       en: [
@@ -945,13 +945,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Arabica cultivation", "Shade-grown plantations", "Traditional harvest"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kaffeefarmen in Veracruz, besonders rund um Coatepec, sind das historische Herz der mexikanischen Kaffeeproduktion. Das feuchte, neblige Klima der Berghänge bietet perfekte Bedingungen für den Anbau hochwertiger Arabica-Bohnen. Die Fincas sind oft historische Gebäude, eingebettet in eine üppige, tropische Vegetation. Ein Besuch ermöglicht tiefe Einblicke in den gesamten Prozess, von der Bohne bis zur fertigen Tasse.",
       hu: "",
       ro: "",
       en: "The coffee-growing regions of Veracruz, particularly around towns like Coatepec and Xalapa, are famous for producing some of the smoothest and most aromatic beans in Mexico. The high altitude, volcanic soil, and frequent cloud cover of the Sierra Madre Oriental provide the perfect conditions for 'coffee under shade,' a traditional method that preserves the local biodiversity. Veracruz was the first place in Mexico where coffee was planted in the late 18th century, and the region has maintained a deep-rooted coffee culture ever since. Visitors can explore historic 'fincas' (estates) to see the entire process from flowering and cherry picking to roasting and tasting. The architecture of the region, with its colonial houses and lush gardens, reflects the wealth and history brought by the coffee trade. A cup of Veracruz coffee is typically characterized by a balanced body with notes of chocolate and fruit, making it a favorite both domestically and abroad. The commitment of local farmers to quality and tradition ensures that Veracruz remains at the heart of Mexico's coffee identity."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Veracruz war der erste Bundesstaat Mexikos, in dem Kaffee angebaut wurde.", "Coatepec trägt stolz den Titel 'Kaffeehauptstadt Mexikos'.", "Die Höhenlage begünstigt den Anbau von hochwertigem Schattenkaffee."],
       hu: [],
       ro: [],
       en: [
@@ -982,13 +982,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Small farms", "Fertile highlands", "Coffee-growing culture"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kaffeefincas in Chiapas liegen tief im üppigen Dschungel und an den Hängen der Sierra Madre. Die Region ist heute bekannt für ihren hervorragenden, fair gehandelten Bio-Kaffee, der oft von kleinen indigenen Kooperativen angebaut wird. Besucher der alten Fincas können in die koloniale Geschichte eintauchen und die enge Verbindung der Bauern zur Natur erleben. Die Kaffeeroute in Chiapas kombiniert Genuss mit spektakulären Wasserfällen und Dschungelabenteuern.",
       hu: "",
       ro: "",
       en: "Chiapas is the powerhouse of Mexican coffee production, with its rugged southern highlands providing an ideal environment for high-quality Arabica beans. The region is famous for its 'Strictly High Grown' (SHG) coffee, which matures slowly at elevations above 1,200 meters, resulting in a complex flavor profile with bright acidity and floral notes. Much of the coffee in Chiapas is produced by smallholder farmers and indigenous cooperatives, many of which have become global leaders in organic and fair-trade certification. The historic fincas of the Soconusco region, near the Guatemalan border, offer a glimpse into the late 19th-century coffee boom, with some estates still operating as both farms and boutique hotels. The humid tropical climate and volcanic soil of the Sierra Madre de Chiapas contribute to the region's exceptional biodiversity, where coffee is often grown under a canopy of native trees. Drinking Chiapas coffee is not just a sensory experience but also a way to support the sustainable livelihoods of thousands of mountain communities."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Chiapas ist der größte Kaffeeproduzent in ganz Mexiko.", "Weltweit führend in der Produktion von organischem (Bio-) Kaffee.", "Viele der Kaffeefarmen wurden im 19. Jahrhundert von deutschen Einwanderern gegründet."],
       hu: [],
       ro: [],
       en: [
@@ -1019,13 +1019,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Traditional Oaxacan region", "Agave on rocky soils", "Artisanal production"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "In den trockenen Tälern von Oaxaca wird traditionell Mezcal, das komplexe und rauchige Destillat Mexikos, hergestellt. Die Felder sind übersät mit verschiedenen Agavenarten, die diesem Getränk seine geschmackliche Vielfalt verleihen. Die Produktion in den kleinen 'Palenques' erfolgt meist noch in handwerklicher Familientradition mit Erdlöchern zum Rösten der Herzen. Eine Tour durch die Region ist eine Reise in die Seele der mexikanischen Handwerkskunst.",
       hu: "",
       ro: "",
       en: "Oaxaca is the undisputed heart of mezcal production, a spirit that has become a powerful symbol of the state's cultural and biological diversity. Unlike tequila, which is made only from blue agave, mezcal can be produced from dozens of different agave species, many of which grow wild in the rugged Oaxacan landscape. The landscape is dotted with small, family-run distilleries known as 'palenques,' where traditional methods like pit-roasting the agave hearts and crushing them with a horse-drawn stone wheel (tahona) are still practiced. The valley of Tlacolula and the town of Santiago Matatlán are particularly famous for their dense concentration of mezcal producers. The process is deeply artisanal and reflects the unique 'terroir' of each village, with flavors ranging from smoky and earthy to floral and sweet. Mezcal is more than just a drink in Oaxaca; it is a vital part of social life, used in celebrations, rituals, and as a gesture of hospitality. The recent global surge in mezcal's popularity has brought new attention and economic opportunities to these rural agave-growing communities."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Im Gegensatz zu Tequila kann Mezcal aus über 30 verschiedenen Agavenarten gewonnen werden.", "Der charakteristische rauchige Geschmack entsteht durch das Rösten in Erdgruben.", "Oaxaca ist das Hauptproduktionsgebiet und die kulturelle Heimat des Mezcals."],
       hu: [],
       ro: [],
       en: [
@@ -1056,13 +1056,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Highland everyday life", "Major export", "Strong fruit economy"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Avocado-Plantagen in Michoacán erstrecken sich über weite Teile der hügeligen Landschaft und bringen dem Staat den Titel 'Avocado-Hauptstadt der Welt' ein. Die fruchtbaren vulkanischen Böden und das gemäßigte Klima sind ideal für den Anbau dieser grünen Früchte. Für die lokale Wirtschaft ist das 'grüne Gold' von immenser Bedeutung und prägt das Leben der landwirtschaftlichen Gemeinden. Die Ernte erfolgt das ganze Jahr über in unglaublichen Mengen.",
       hu: "",
       ro: "",
       en: "Michoacán is the 'avocado capital of the world,' a fertile region where the rich volcanic soil and temperate climate of the highlands create the perfect conditions for the 'green gold' to thrive. The state accounts for the vast majority of Mexico's avocado production, with hundreds of thousands of hectares of orchards stretching across its undulating landscape. The avocado industry is a massive economic driver for the state, supporting the livelihoods of thousands of farmers, harvesters, and exporters. The Hass variety, known for its creamy texture and rich flavor, is the dominant crop and is exported in massive quantities, particularly to the United States. Driving through the 'Meseta Purépecha,' visitors can see endless rows of dark green trees climbing the hillsides, often interspersed with pine forests. Despite the economic success, the industry faces challenges related to water use and forest conservation, prompting a move toward more sustainable farming practices. The avocado remains a source of immense pride and a staple of the local culinary tradition, essential for everything from daily meals to world-famous guacamole."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Michoacán produziert mehr als die Hälfte der weltweiten Avocado-Ernte.", "Die Sorte Hass ist die am häufigsten angebaute Avocado-Variante.", "Avocados werden in der Region auch als 'Oro Verde' (grünes Gold) bezeichnet."],
       hu: [],
       ro: [],
       en: [
@@ -1093,13 +1093,13 @@ export const poiExtraMexicoLifeV2: POI[] = [
       en: ["Rich fruit production", "Seasonal harvest", "Important domestic market"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Sinaloa ist einer der wichtigsten landwirtschaftlichen Produzenten in Mexiko, besonders bekannt für seine endlosen Mango-Plantagen. In den heißen, sonnigen Küstenebenen gedeihen verschiedene Sorten wie Ataulfo, Tommy Atkins und Kent prächtig. Die Mangoernte bringt Farbe und Betriebsamkeit in die Region, da Millionen der süßen Früchte exportiert werden. Die Plantagen sind ein Beweis für den landwirtschaftlichen Reichtum Nordmexikos.",
       hu: "",
       ro: "",
       en: "The coastal plains of Sinaloa are one of Mexico's most productive agricultural regions, particularly famous for their vast and sun-drenched mango orchards. The state's warm, tropical climate and extensive irrigation systems make it a leading producer and exporter of several mango varieties, including the popular Kent, Keitt, and the sweet, buttery Ataulfo. During the harvest season, which peaks in the summer months, the region is a hive of activity as thousands of tons of fruit are carefully picked, packed, and shipped to markets across North America. The orchards form a verdant canopy over the landscape, particularly around the southern part of the state near towns like Rosario and Escuinapa. Beyond their economic value, mangoes are a beloved part of the local culture, celebrated in festivals and enjoyed in countless fresh and spicy preparations. The Sinaloa mango industry is known for its high safety and quality standards, ensuring that its delicious fruit reaches international consumers at the peak of ripeness. It remains a vital pillar of the state's robust agricultural economy."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Der Bundesstaat Sinaloa ist führend im Export von Mangos in die USA.", "Die Sorte Ataulfo stammt ursprünglich aus Mexiko und ist besonders beliebt.", "Die Erntezeit ist vor allem in den heißen Sommermonaten im vollen Gange."],
       hu: [],
       ro: [],
       en: [

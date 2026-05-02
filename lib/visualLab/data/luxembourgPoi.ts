@@ -1,3 +1,7 @@
+import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
+import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
+import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
+
 export const luxembourgAllPoi = [
   {
     id: "lu-country",
@@ -408,7 +412,7 @@ export const luxembourgAllPoi = [
     },
     image: "/images/visualLab/luxembourg/schengen.jpg"
   }
-];
+, ...luxembourgExtraCities, ...luxembourgExtraHistory, ...luxembourgExtraOther];
 
 export const luxembourgCities = [
   {

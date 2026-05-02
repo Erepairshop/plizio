@@ -1,4 +1,5 @@
 import type { POI } from "./poi";
+import { cyprusOtherPoi } from "./poiExtraCyprusOther";
 
 export const cyprusCountry: POI = {
   id: "country-cyprus",
@@ -1755,7 +1756,5 @@ export const cyprusRegions: POI[] = [
   }
 ];
 
-export const cyprusAllPoi: POI[] = [
-  cyprusCountry,
-  ...cyprusRegions
-];
+export const cyprusAllPoi: POI[] = [cyprusCountry,
+  ...cyprusRegions, ...cyprusOtherPoi];

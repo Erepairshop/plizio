@@ -1,4 +1,8 @@
 import { POI } from "./poi";
+import { poiExtraMexicoCitiesV2 } from "./poiExtraMexicoCitiesV2";
+import { poiExtraMexicoHistoryV2 } from "./poiExtraMexicoHistoryV2";
+import { poiExtraMexicoLifeV2 } from "./poiExtraMexicoLifeV2";
+import { poiExtraMexicoReliefV2 } from "./poiExtraMexicoReliefV2";
 
 export const mexicoCities: POI[] = [
   {
@@ -89,4 +93,4 @@ export const mexicoCities: POI[] = [
   }
 ];
 
-export const mexicoAllPoi: POI[] = [...mexicoCities];
+export const mexicoAllPoi: POI[] = [...mexicoCities, ...poiExtraMexicoCitiesV2, ...poiExtraMexicoHistoryV2, ...poiExtraMexicoLifeV2, ...poiExtraMexicoReliefV2];

@@ -1,28 +1,27 @@
-
 import re
+import json
 
-def analyze_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
+def analyze():
+    with open('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/hungaryPoi.ts', 'r', encoding='utf-8') as f:
         content = f.read()
+
+    # Match POI objects. This is a bit tricky with regex for nested objects, 
+    # but since the structure is consistent, we can try to find id and the fields.
     
-    # Find all POI objects
-    # We'll just look for IDs and then the following content until the next ID or end of file
-    poi_matches = list(re.finditer(r'id:\s*"([^"]+)"', content))
+    # Let's find all POI blocks. They start with { and end with }, (with some indentation)
+    # Actually, it's easier to find the IDs and check their hu fields.
+    
+    poi_matches = re.finditer(r'\{[^{]*?id:\s*"([^"]+)"[^{]*?descriptionAdvanced:\s*\{[^{]*?hu:\s*(?P<desc_hu>""|\[\]|"[^"]*")[^}]*?\}[^{]*?factsAdvanced:\s*\{[^{]*?hu:\s*(?P<fact_hu>""|\[\]|"[^"]*")[^}]*?\}', content, re.DOTALL)
+    
+    # Wait, factsAdvanced.hu is often [], not ""
+    # Let's refine the regex.
     
     results = []
-    for i in range(len(poi_matches)):
-        start = poi_matches[i].start()
-        end = poi_matches[i+1].start() if i+1 < len(poi_matches) else len(content)
-        poi_id = poi_matches[i].group(1)
-        poi_content = content[start:end]
-        
-        # Check for empty de in descriptionAdvanced
-        # Note: there might be multiple descriptionAdvanced blocks if the file is broken
-        desc_matches = re.findall(r'descriptionAdvanced:\s*\{[^{}]*?de:\s*""', poi_content, re.DOTALL)
-        if desc_matches:
-            results.append((poi_id, len(desc_matches)))
-            
-    return results
+    # Simplified approach: find all occurrences of "id: ..." and then look ahead for descriptionAdvanced and factsAdvanced
+    ids = re.findall(r'id:\s*"([^"]+)"', content)
+    
+    # To be more precise, I'll use a state machine or more careful regex.
+    # But for now, let's just grep for the empty ones.
+    pass
 
-print("Nature Analysis:", analyze_file('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraBelizeNatureV2.ts'))
-print("Economic Analysis:", analyze_file('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraBelizeEconomicV2.ts'))
+# Let's just use grep to see how many empty ones there are.

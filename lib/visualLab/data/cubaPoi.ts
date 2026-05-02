@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraCubaCitiesV2 } from "./poiExtraCubaCitiesV2";
+import { poiExtraCubaEconomicV2 } from "./poiExtraCubaEconomicV2";
+import { poiExtraCubaHistoryV2 } from "./poiExtraCubaHistoryV2";
+import { poiExtraCubaLandmarksV2 } from "./poiExtraCubaLandmarksV2";
+import { poiExtraCubaLifeV2 } from "./poiExtraCubaLifeV2";
+import { poiExtraCubaNatureV2 } from "./poiExtraCubaNatureV2";
+import { poiExtraCubaReliefV2 } from "./poiExtraCubaReliefV2";
 
 export const cubaCountry: POI[] = [];
 export const cubaRegions: POI[] = [];
@@ -882,4 +889,4 @@ export const cubaLandmarks: POI[] = [
   }
 ];
 
-export const cubaAllPoi: POI[] = [...cubaCountry, ...cubaRegions, ...cubaCities, ...cubaLandmarks];
+export const cubaAllPoi: POI[] = [...cubaCountry, ...cubaRegions, ...cubaCities, ...cubaLandmarks, ...poiExtraCubaCitiesV2, ...poiExtraCubaEconomicV2, ...poiExtraCubaHistoryV2, ...poiExtraCubaLandmarksV2, ...poiExtraCubaLifeV2, ...poiExtraCubaNatureV2, ...poiExtraCubaReliefV2];

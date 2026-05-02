@@ -942,9 +942,10 @@ export default function Home() {
     setSpecialCount(getSpecialCardCount());
     setLastCategory(getLastPlayedCategory());
 
-    // Daily login reward
+    // Daily login reward — csak akkor mutatjuk a modalt, ha a user már játszott
+    // legalább 1 játékot (első látogatáskor ne nyaggassuk popuppal).
     const reward = claimDailyReward();
-    if (reward && !reward.alreadyClaimed) {
+    if (reward && !reward.alreadyClaimed && getStats().totalGames > 0) {
       setSpecialCount(getSpecialCardCount());
       setDailyReward(reward);
     }
@@ -1127,7 +1128,14 @@ export default function Home() {
       )}
 
       {/* Daily reward popup */}
-      {dailyReward && !dailyReward.alreadyClaimed && (
+      {dailyReward && !dailyReward.alreadyClaimed && (() => {
+        const t = {
+          de: { back: "Willkommen zurück!", daily: "Tägliche Belohnung!", streak: "Tage-Serie", reward: "Tägliche Belohnung", bonus: "Tage Serien-Bonus!", total: "Gesamt", claim: "Spiele, um deine Belohnung zu erhalten!", play: "Los geht's!" },
+          hu: { back: "Üdv újra!", daily: "Napi jutalom!", streak: "napos sorozat", reward: "Napi jutalom", bonus: " napos sorozat bónusz!", total: "Összesen", claim: "Játssz, hogy megkapd a jutalmadat!", play: "Játsszunk!" },
+          ro: { back: "Bine ai revenit!", daily: "Recompensă zilnică!", streak: "zile la rând", reward: "Recompensă zilnică", bonus: " zile bonus!", total: "Total", claim: "Joacă pentru a primi recompensa!", play: "Hai să jucăm!" },
+          en: { back: "Welcome back!", daily: "Daily Reward!", streak: "day streak", reward: "Daily reward", bonus: "d streak bonus!", total: "Total", claim: "Play a game to claim your reward!", play: "Let's Play!" },
+        }[lang] || { back: "Welcome back!", daily: "Daily Reward!", streak: "day streak", reward: "Daily reward", bonus: "d streak bonus!", total: "Total", claim: "Play a game to claim your reward!", play: "Let's Play!" };
+        return (
         <div
           className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-fade-in"
           onClick={() => setDailyReward(null)}
@@ -1142,43 +1150,44 @@ export default function Home() {
               {dailyReward.streakCount >= 30 ? "🏆" : dailyReward.streakCount >= 14 ? "💎" : dailyReward.streakCount >= 7 ? "🔥" : "⭐"}
             </div>
             <h2 className="text-white font-bold text-xl mb-1">
-              {dailyReward.streakBroken ? "Welcome back!" : "Daily Reward!"}
+              {dailyReward.streakBroken ? t.back : t.daily}
             </h2>
             <p className="text-white/50 text-sm mb-4">
-              {dailyReward.streakCount} day streak 🔥
+              {dailyReward.streakCount} {t.streak} 🔥
             </p>
 
             {/* Reward breakdown */}
             <div className="bg-white/5 rounded-xl p-3 mb-3 space-y-1">
               <div className="flex justify-between text-sm">
-                <span className="text-white/70">Daily reward</span>
+                <span className="text-white/70">{t.reward}</span>
                 <span className="text-yellow-400 font-bold">+1 ⭐</span>
               </div>
               {dailyReward.streakBonus > 0 && (
                 <div className="flex justify-between text-sm">
                   <span className="text-orange-400">
-                    {dailyReward.streakCount}d streak bonus!
+                    {dailyReward.streakCount}{t.bonus}
                   </span>
                   <span className="text-orange-400 font-bold">+{dailyReward.streakBonus} ⭐</span>
                 </div>
               )}
               <div className="border-t border-white/10 pt-1 flex justify-between text-sm font-bold">
-                <span className="text-white">Total</span>
+                <span className="text-white">{t.total}</span>
                 <span className="text-yellow-400">+{1 + dailyReward.streakBonus} ⭐</span>
               </div>
             </div>
 
-            <p className="text-white/40 text-xs mb-3">Play a game to claim your reward!</p>
+            <p className="text-white/40 text-xs mb-3">{t.claim}</p>
 
             <button
               onClick={() => setDailyReward(null)}
               className="w-full py-2.5 bg-neon-blue/20 hover:bg-neon-blue/30 border border-neon-blue/40 text-neon-blue rounded-xl font-bold transition-colors"
             >
-              Let&apos;s Play!
+              {t.play}
             </button>
           </div>
         </div>
-      )}
+        );
+      })()}
       </main>
 
       {/* SEO content below — visible when user scrolls down. Google reads the full HTML regardless. */}

@@ -1,4 +1,7 @@
 import type { POI } from "../data/poi";
+import { poiExtraSanmarinoCities } from "./poiExtraSanmarinoCities";
+import { sanmarinoExtraHistory } from "./poiExtraSanmarinoHistory";
+import { sanmarinoLandscapes } from "./poiExtraSanmarinoOther";
 
 export const sanmarinoCountry: POI = {
   id: "country-sanmarino",
@@ -1308,10 +1311,8 @@ export const sanmarinoNature: POI[] = [
   }
 ];
 
-export const sanmarinoAllPoi: POI[] = [
-  sanmarinoCountry,
+export const sanmarinoAllPoi: POI[] = [sanmarinoCountry,
   ...sanmarinoRegions,
   ...sanmarinoCities,
   ...sanmarinoCulture,
-  ...sanmarinoNature
-];
+  ...sanmarinoNature, ...poiExtraSanmarinoCities, ...sanmarinoExtraHistory, ...sanmarinoLandscapes];

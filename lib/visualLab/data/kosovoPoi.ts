@@ -18,10 +18,10 @@ export const kosovoCountry: POI = {
     en: "A young state in the Balkans, known for its cultural diversity."
   },
   descriptionAdvanced: {
-    de: "Kosovo ist ein Binnenstaat auf dem Westbalkan, der 2008 seine Unabhängigkeit erklärte. Seine Landschaft ist geprägt von hohen Bergen wie den Šar-Bergen und den Albanischen Alpen, ideal für Wanderer und Naturliebhaber. Die Hauptstadt Pristina ist ein lebhaftes Zentrum mit moderner Architektur, wie der eindrucksvollen Nationalbibliothek, und einer jungen, dynamischen Bevölkerung. Kulturell ist Prizren das Herz des Landes, mit seiner gut erhaltenen osmanischen Altstadt, der Steinbrücke und der Sinan-Pascha-Moschee. Das Land beherbergt zudem wichtige serbisch-orthodoxe Klöster, darunter das UNESCO-Weltkulturerbe Visoki Dečani. Die kosovarische Küche ist eine köstliche Mischung aus albanischen, serbischen und osmanischen Einflüssen.",
+    de: "Kosovo ist ein Binnenstaat auf dem Westbalkan, der 2008 seine Unabhängigkeit erklärte. Seine Landschaft ist geprägt von hohen Bergen wie den Šar-Bergen und den Albanischen Alpen, ideal für Wanderer und Naturliebhaber. Die Hauptstadt Pristina ist ein lebhaftes Zentrum mit moderner Architektur, wie der eindrucksvollen Nationalbibliothek, und einer jungen, dynamischen Bevölkerung. Kulturell ist Prizren das Herz des Landes, mit seiner gut erhaltenen osmanischen Altstadt, der Steinbrücke und der Sinan-Pascha-Moschee. Das Land beherbergt zudem wichtige serbisch-orthodoxe Klöster, darunter das UNESCO-Weltkulturerbe Visoki Dečani. Die kosovarische Küche ist eine köstliche Mischung aus albanischen, serbischen und osmanischen Einflüssen. Erdkunde K7 – Bergwelt und Regionen.",
     hu: "Koszovó, Európa legfiatalabb állama, a Balkán-félsziget szívében helyezkedik el. Bár tengerparttal nem rendelkezik, hegyekkel és dombokkal tarkított tájai, valamint gazdag történelmi és kulturális öröksége miatt egyre kedveltebb célpont. A 2008-ban kikiáltott függetlensége óta az ország dinamikusan fejlődik, miközben igyekszik megőrizni sokszínű identitását, melyet az albán, szerb, és más kisebbségek együttélése formált. Gazdasága a szolgáltatásokra, a mezőgazdaságra és a fejlődő iparra épül, jelentős szerepet játszik a diaszpórából érkező tőke is. A főváros, Pristina, egy modern, lüktető város, tele kávézókkal és fiatalokkal, míg a vidéki területek, mint Prizren vagy Peja, az oszmán és bizánci korok építészeti emlékeit őrzik. A természeti szépségek, mint a Rugova-szurdok vagy a Šar-hegység, kiváló túrázási és síelési lehetőségeket kínálnak, feltárva az ország rejtett kincseit.",
-    ro: "Kosovo este un stat fără ieșire la mare din Balcanii de Vest, care și-a declarat independența în 2008. Inima sa culturală, Prizren, prezintă o arhitectură otomană bine conservată, în timp ce capitala, Pristina, este un centru vibrant și modern. Munții spectaculoși, precum Alpii Albanezi (Prokletije) și Munții Šar, oferă oportunități excelente pentru drumeții și explorarea naturii. Deși este o națiune tânără, Kosovo are o istorie bogată, cu numeroase mănăstiri ortodoxe sârbe medievale, inclusiv situri din Patrimoniul Mondial UNESCO, și moschei din perioada otomană. Diversitatea sa etnică, cu o majoritate albaneză și comunități semnificative de sârbi, turci, gorani și romi, contribuie la un peisaj cultural dinamic și complex, reflectat în bucătăria, muzica și tradițiile sale.",
-    en: "Kosovo is a landlocked country in the Western Balkans that declared independence in 2008."
+    ro: "Kosovo este un stat fără ieșire la mare din Balcanii de Vest, care și-a declarat independența în 2008. Inima sa culturală, Prizren, prezintă o arhitectură otomană bine conservată, timp ce capitala, Pristina, este un centru vibrant și modern. Munții spectaculoși, precum Alpii Albanezi (Prokletije) și Munții Šar, oferă oportunități excelente pentru drumeții și explorarea naturii. Deși este o națiune tânără, Kosovo are o istorie bogată, cu numeroase mănăstiri ortodoxe sârbe medievale, inclusiv situri din Patrimoniul Mondial UNESCO, și moschei din perioada otomană. Diversitatea sa etnică, cu o majoritate albaneză și comunități semnificative de sârbi, turci, gorani și romi, contribuie la un peisaj cultural dinamic și complex, reflectat în bucătăria, muzica și tradițiile sale.",
+    en: "Kosovo is a vibrant, young nation nestled in the heart of the Balkans, defined by its resilient spirit and rich cultural mosaic. Characterized by a blend of Albanian, Serbian, and Ottoman influences, the country offers a unique tapestry of historical monuments and breathtaking mountain landscapes. From the bustling, youthful energy of its capital, Pristina, to the timeless Ottoman charm of Prizren, Kosovo invites exploration of its profound historical depth and natural beauty. The majestic Šar Mountains and the rugged Prokletije range provide a dramatic backdrop to centuries-old monasteries and ornate mosques, making it a hidden gem for travelers seeking authenticity. Geography K7 – Mountainous regions and cultural identity."
   },
   facts: {
     de: ["Pristina ist die Hauptstadt."],
@@ -60,7 +60,13 @@ export const kosovoCountry: POI = {
       "Bucătăria locală este un amestec de influențe balcanice și otomane, cu preparate precum flija și tave kosi.",
       "Festivalul internațional de film documentar Dokufest, organizat în Prizren, este cel mai mare eveniment de acest gen din Balcani."
     ],
-    en: []
+    en: [
+      "Kosovo is Europe's youngest country, with over half the population under 25.",
+      "The Euro is the official currency despite the country not being an EU member.",
+      "The annual Dokufest in Prizren is a major international documentary film event.",
+      "The Nerodime River exhibits a rare bifurcation, flowing into both the Aegean and Black Seas.",
+      "The National Library in Pristina features a striking architectural design with 99 distinctive domes."
+    ]
   }
 };
 
@@ -77,21 +83,18 @@ export const kosovoPois: POI[] = [
       en: ["Founded in the 14th century.", "Features the largest medieval church in the Balkans.", "Famous for its over 1,000 frescoes.", "UNESCO World Heritage site since 2004."]
     },
     descriptionAdvanced: {
-      de: "Das Kloster Visoki Dečani, eingebettet in die malerische Landschaft der Dečani-Schlucht, ist ein Juwel der serbisch-orthodoxen Kunst und Spiritualität. Gegründet im 14. Jahrhundert von König Stefan Dečanski, stellt es eine harmonische Synthese aus romanischer und frühgotischer Architektur dar. Die Klosterkirche, Christus dem Pantokrator geweiht, ist die größte mittelalterliche Kirche auf dem Balkan. Ihr Inneres ist fast vollständig mit über 1000 bemerkenswert gut erhaltenen Fresken aus dem 14. Jahrhundert bedeckt, die als Meisterwerke der byzantinischen Malerei gelten. Aufgrund seiner universellen kulturellen und historischen Bedeutung wurde das Kloster 2004 zum UNESCO-Weltkulturerbe erklärt und steht aufgrund seiner prekären Lage auf der Liste des gefährdeten Welterbes.",
-      hu: "A Visoki Dečani kolostor a szerb ortodox egyház egyik legfontosabb kincse és Koszovó egyik leglátogatottabb műemléke. A 14. században, III. István Uroš szerb király uralkodása alatt épült, és a középkori szerb építészet és művészet csúcspontját képviseli. Az épület a román és a gótikus stílusjegyeket ötvözi, ami egyedülállóvá teszi a régióban. A kolostor temploma, a Pantokrátor Krisztusnak szentelve, a Balkán legnagyobb fennmaradt középkori temploma. Belső tereit több mint 1000, lenyűgöző állapotban megőrzött freskó díszíti, amelyek a bizánci festészet késői korszakának remekművei. A kolostor 2004 óta az UNESCO Világörökség része, és a 'Veszélyeztetett Világörökségi Helyszínek' listáján is szerepel, ami kiemeli megóvásának fontosságát.",
-      ro: "Mănăstirea Visoki Dečani, situată într-un defileu pitoresc la poalele munților Prokletije, este una dintre cele mai prețioase bijuterii ale patrimoniului cultural și spiritual din Kosovo. Construită în secolul al XIV-lea de către regele sârb Ștefan Dečanski, mănăstirea reprezintă o sinteză arhitecturală unică între stilurile romanic occidental și bizantin timpuriu. Biserica sa, dedicată lui Hristos Pantocrator, este cea mai mare structură medievală din Balcani și adăpostește peste 1.000 de fresce excepțional de bine conservate, considerate capodopere ale artei sârbe medievale. Complexul monahal, înconjurat de ziduri fortificate, a fost inclus în Patrimoniul Mondial UNESCO în 2004 și, ulterior, pe lista Patrimoniului Mondial în Pericol, subliniind importanța conservării sale pentru generațiile viitoare.",
-      en: ""
+      de: "Das Kloster Visoki Dečani ist eine architektonische Meisterleistung, die im 14. Jahrhundert durch König Stefan Dečanski in Auftrag gegeben wurde. Es vereint romanische und gotische Stilelemente und gilt als eines der bedeutendsten spirituellen Zentren des Balkans. Mit über 1000 hervorragend erhaltenen Fresken bietet es einen tiefen Einblick in die byzantinische Malerei des Mittelalters. Das Kloster, seit 2004 UNESCO-Weltkulturerbe, beherbergt zudem die sterblichen Überreste seines Gründers. Als aktives Kloster spielt es auch heute eine zentrale Rolle in der orthodoxen Gemeinschaft der Region. Geschichte K8 – Mittelalterliche Architektur.",
+      hu: "A Visoki Dečani kolostor a szerb ortodox egyház egyik legfontosabb kincse és Koszovó egyik leglátogatottabb műemléke. A 14. században, III. István Uroš szerb király uralkodása alatt épült, és a középkori szerb építészet és művészet csúcspontját képviseli. Az épület a román és a gótikus stílusjegyeket ötvözi, ami egyedülállóvá teszi a régióban. A kolostor temploma, a Pantokrátor Krisztusnak szentelve, a Balkán legnagyobb fennmaradt középkori temploma. Belső tereit több mint 1000, lenyűgöző állapotban megőrzött freskó díszíti, amelyek a bizánci festészet késői korszakának remekművei. A kolostor 2004 óta az UNESCO Világörökség része, és a 'Veszélyeztetett Világörökségi Helyszínek' listáján is szerepel, ami kiemeli megóvásának fontosságát. Történelem K8 – középkori építészet.",
+      ro: "Mănăstirea Visoki Dečani este o capodoperă arhitecturală fondată în secolul al XIV-lea de regele Ștefan Dečanski, reprezentând punctul culminant al artei și arhitecturii sârbe medievale. Combinând elemente stilistice romanice și gotice, mănăstirea este unul dintre cele mai importante centre spirituale din Balcani. Biserica sa, dedicată lui Hristos Pantocrator, este cea mai mare biserică medievală păstrată în regiune, adăpostind peste 1000 de fresce remarcabile care reflectă apogeul picturii bizantine târzii. Din 2004, situl este înscris în Patrimoniul Mondial UNESCO, fiind totodată un centru monahal activ care joacă un rol vital în viața comunității ortodoxe. Istorie K8 – Arhitectură medievală.",
+      en: "Visoki Dečani stands as a monumental masterpiece of medieval architecture, commissioned by King Stefan Dečanski in the 14th century. This Serbian Orthodox monastery harmoniously blends Romanesque and Gothic influences, creating a unique aesthetic that has survived through centuries of regional change. Its interiors are adorned with over 1,000 remarkably preserved frescoes, which provide an unparalleled look into late Byzantine art. Recognized as a UNESCO World Heritage site since 2004, the monastery remains a vital spiritual beacon and an active center for the Orthodox community in Kosovo. History K8 – Medieval architecture and spiritual heritage."
     },
     factsAdvanced: {
       de: [
-        "Der Bau des Klosters dauerte von 1327 bis 1335.",
-        "Der Hauptarchitekt war Fra Vita, ein Franziskanermönch aus Kotor.",
-        "Die Fresken umfassen über 20 Zyklen und stellen das umfangreichste erhaltene Beispiel serbischer mittelalterlicher Kunst dar.",
-        "Die Schatzkammer des Klosters bewahrt wertvolle Ikonen und Manuskripte aus dem 14. bis 19. Jahrhundert.",
-        "Die Fassade der Kirche ist mit abwechselnden Platten aus weißem und rotem Marmor verkleidet.",
-        "König Stefan Dečanski, der Gründer, ist in der Kirche beigesetzt.",
-        "Das Kloster ist seit seiner Gründung ununterbrochen von einer Mönchsgemeinschaft bewohnt.",
-        "Es ist eines von vier serbisch-orthodoxen Monumenten im Kosovo, die zum UNESCO-Weltkulturerbe gehören."
+        "Die Bauzeit der Kirche erstreckte sich von 1327 bis 1335.",
+        "Der Baumeister war der franziskanische Mönch Fra Vita aus der Küstenstadt Kotor.",
+        "Die Fassade besteht aus präzise gearbeiteten Platten aus weißem und rotem Marmor.",
+        "Das Kloster bewahrt seltene Manuskripte und Ikonen aus vielen Jahrhunderten.",
+        "Die Mönchsgemeinschaft betreibt seit Jahrhunderten eine eigene Landwirtschaft auf dem Gelände."
       ],
       hu: [
         "Az építkezést 1327-ben kezdték és 1335-ben fejezték be.",
@@ -99,21 +102,24 @@ export const kosovoPois: POI[] = [
         "A freskók a Biblia történeteit, szenteket és a Nemanjić-dinasztia tagjait ábrázolják.",
         "A kolostor kincstára értékes ikonokat, kéziratokat és liturgikus tárgyakat őriz.",
         "A templom külső falait fehér és vörös márvány borítja.",
-        "A kolostor aktív, ma is szerzetesek közössége él és imádkozik benne.",
+        "A kolostor ma is működik, szerzetesek közössége él és imádkozik benne.",
         "A komplexumot vastag kőfal veszi körül, amely a középkori erődítményekre emlékeztet.",
-        "Az alapító király, III. István Uroš ereklyéit a kolostorban őrzik."
+        "Az alapító király, III. István Uroš ereklyéit a kolostorban őrizik."
       ],
       ro: [
-        "Construcția a început în 1327 și a fost finalizată în 1335.",
-        "Arhitectul principal a fost călugărul franciscan Fra Vito din Kotor, Muntenegru.",
-        "Frescele acoperă o suprafață de peste 3.600 de metri pătrați și ilustrează scene din Vechiul și Noul Testament.",
-        "Tezaurul mănăstirii păstrează o colecție valoroasă de icoane, manuscrise și obiecte liturgice din secolele XIV-XIX.",
-        "Fațada bisericii este realizată din blocuri alternate de marmură roșie-purpurie și galben-deschis.",
-        "Este o mănăstire activă, cu o obște de călugări care continuă tradiția liturgică ortodoxă.",
-        "Regele fondator, Ștefan Dečanski, este înmormântat în interiorul bisericii, iar moaștele sale sunt considerate făcătoare de minuni.",
-        "În ciuda istoriei zbuciumate a regiunii, mănăstirea nu a fost niciodată abandonată de la fondarea sa."
+        "Construcția bisericii a durat între 1327 și 1335.",
+        "Maestrul constructor a fost călugărul franciscan Fra Vita din orașul de coastă Kotor.",
+        "Fațada este realizată din plăci prelucrate cu precizie de marmură albă și roșie.",
+        "Mănăstirea păstrează manuscrise și icoane rare din mai multe secole.",
+        "Comunitatea monastică a menținut timp de secole propria agricultură pe domeniu."
       ],
-      en: []
+      en: [
+        "The church's construction spanned from 1327 to 1335.",
+        "The master builder was Fra Vita, a Franciscan friar from the coastal city of Kotor.",
+        "The exterior is famously crafted with alternating panels of white and red marble.",
+        "The monastery houses a precious treasury of icons and manuscripts spanning centuries.",
+        "It remains a continuously active monastic site with a history of sustainable agriculture."
+      ]
     }
   },
   {
@@ -127,43 +133,43 @@ export const kosovoPois: POI[] = [
       en: ["Popular destination for hikers.", "Home to rare animal species.", "Offers spectacular views of the valleys."]
     },
     descriptionAdvanced: {
-      de: "Die Dečani-Berge sind ein atemberaubender Teil des Prokletije-Gebirges, auch bekannt als die Albanischen Alpen, im Westen des Kosovo. Dieses wilde und raue Gebirge ist ein Paradies für Outdoor-Enthusiasten und bietet dramatische Kalkstein-Gipfel, tiefe Schluchten und unberührte Wälder. Die Region ist bekannt für ihre hohe Biodiversität und beheimatet seltene Tierarten wie den Balkanluchs und den Braunbären. Die Dečani-Berge sind Teil des Fernwanderwegs 'Peaks of the Balkans', der durch Albanien, Kosovo und Montenegro führt. Wanderer können hier kristallklare Bergseen, traditionelle Hirtensiedlungen (Stan) entdecken und spektakuläre Ausblicke genießen, die bis zum Kloster Visoki Dečani reichen.",
-      hu: "A Dečani-hegyek a hatalmas Prokletije-hegység, más néven az Albán-Alpok részét képezik, Koszovó nyugati peremén. Ez a vad és érintetlen vidék a természetszeretők és kalandvágyók paradicsoma. A hegyvonulat drámai, sziklás csúcsokból, mély völgyekből és kristálytiszta hegyi patakokból áll. A terület gazdag biodiverzitással rendelkezik, számos ritka és védett növény- és állatfajnak ad otthont, beleértve a barna medvét, a hiúzt és a zergét. A Dečani-hegyek kiváló lehetőséget nyújtanak túrázásra, hegymászásra és a nomád pásztorélet megismerésére. A kijelölt túraútvonalak sűrű erdőkön, alpesi réteken és eldugott gleccsertavakon vezetnek keresztül, felejthetetlen panorámát kínálva a környező tájra, beleértve a híres Visoki Dečani kolostorra nyíló kilátást is.",
-      ro: "Munții Dečani fac parte din magnificul lanț montan Prokletije, cunoscut și sub numele de Alpii Albanezi, la granița de vest a statului Kosovo. Această zonă sălbatică și neatinsă este un paradis pentru iubitorii de natură și aventură, caracterizată prin vârfuri stâncoase dramatice, văi adânci și râuri de munte cristaline. Regiunea se mândrește cu o biodiversitate bogată, fiind habitatul a numeroase specii de plante și animale rare și protejate, inclusiv ursul brun, râsul și capra neagră. Munții Dečani oferă oportunități excelente pentru drumeții, alpinism și explorarea vieții pastorale tradiționale. Traseele marcate duc prin păduri dese, pășuni alpine și pe lângă lacuri glaciare ascunse, oferind panorame de neuitat asupra peisajului înconjurător, inclusiv priveliști spre renumita Mănăstire Visoki Dečani.",
-      en: ""
+      de: "Die Dečani-Berge erheben sich im Westen des Kosovo als raue und beeindruckende Gebirgslandschaft. Sie gehören zum Prokletije-Massiv, das für seine zerklüfteten Kalksteinspitzen und tiefen Täler bekannt ist. Die Region bietet Wanderern Pfade durch urwüchsige Wälder und zu alpinen Seen, die nur wenigen bekannt sind. Naturliebhaber schätzen das Gebiet als Lebensraum für Braunbären und den seltenen Balkanluchs. Hier lässt sich die ursprüngliche Natur des Balkans in ihrer ganzen Wildheit erleben. Erdkunde K7 – Gebirgsformen.",
+      hu: "A Dečani-hegyek a hatalmas Prokletije-hegység, más néven az Albán-Alpok részét képezik, Koszovó nyugati peremén. Ez a vad és érintetlen vidék a természetszeretők és kalandvágyók paradicsoma. A hegyvonulat drámai, sziklás csúcsokból, mély völgyekből és kristálytiszta hegyi patakokból áll. A terület gazdag biodiverzitással rendelkezik, számos ritka és védett növény- és állatfajnak ad otthont, beleértve a barna medvét, a hiúzt és a zergét. A Dečani-hegyek kiváló lehetőséget nyújtanak túrázásra, hegymászásra és a nomád pásztorélet megismerésére. A kijelölt túraútvonalak sűrű erdőkön, alpesi réteken és eldugott gleccsertavakon vezetnek keresztül, felejthetetlen panorámát kínálva a környező tájra. Földrajz K7 – hegyvidékek.",
+      ro: "Munții Dečani fac parte din masivul Prokletije, cunoscut sub numele de Alpii Albanezi, ridicându-se în vestul Kosovo ca un peisaj montan impunător. Această zonă sălbatică și neatinsă este un paradis pentru iubitorii de natură și aventură, oferind vârfuri calcaroase abrupte, văi adânci și pâraie cristaline. Regiunea posedă o biodiversitate bogată, fiind habitatul unor specii rare de plante și animale, inclusiv ursul brun, râsul balcanic și capra neagră. Munții Dečani oferă oportunități excelente pentru drumeții și alpinism, cu trasee marcate care șerpuiesc prin păduri dese, pajiști alpine și lacuri glaciare ascunse, oferind panorame uluitoare. Geografie K7 – Relief montan.",
+      en: "The Dečani Mountains, forming a rugged part of the Prokletije massif—often referred to as the Albanian Alps—rise dramatically in the west of Kosovo. This wild and untouched landscape is a sanctuary for those who seek adventure and pristine nature, characterized by sharp limestone peaks, deep glacial valleys, and crystal-clear mountain streams. The region boasts rich biodiversity, serving as a vital habitat for species such as the brown bear, the Balkan lynx, and the chamois. With its intricate network of marked trails winding through ancient forests and alpine meadows, the area offers unparalleled opportunities for hiking, mountaineering, and discovering hidden glacial lakes. Geography K7 – Mountain landscapes."
     },
     factsAdvanced: {
       de: [
-        "Die höchsten Gipfel in diesem Teil des Prokletije erreichen über 2.500 Meter.",
-        "Die Gegend ist reich an Gletscherseen, die oft als 'Augen der Berge' bezeichnet werden.",
-        "Hier wachsen zahlreiche endemische Pflanzenarten der Balkanhalbinsel.",
-        "Der Fluss Dečanska Bistrica hat eine tiefe Schlucht in das Gebirge gegraben.",
-        "Die traditionelle Almwirtschaft mit Schafherden ist hier noch lebendig.",
-        "Das Gebiet bietet hervorragende Bedingungen für Skitouren im Winter.",
-        "Die Felswände sind bei Kletterern sehr beliebt.",
-        "Die Berge sind ein wichtiger Wasserspeicher für die gesamte Region."
+        "Mehrere Gipfel erreichen Höhen von über 2.500 Metern.",
+        "Die Region ist reich an kalten, klaren Gletscherseen.",
+        "Viele endemische Pflanzenarten sind hier in den Hochgebirgslagen zu finden.",
+        "Der Fernwanderweg 'Peaks of the Balkans' durchquert diese beeindruckende Region.",
+        "Die traditionelle Almwirtschaft ist in den Sommermonaten noch sehr aktiv."
       ],
       hu: [
-        "A hegység a 'Peaks of the Balkans' (Balkán csúcsai) nemzetközi túraútvonal része.",
+        "A hegység a 'Peaks of the Balkans' nemzetközi túraútvonal része.",
         "A legmagasabb csúcsok meghaladják a 2500 méteres magasságot.",
         "A területen számos gleccsertó található, melyeket 'hegyi szemeknek' is neveznek.",
         "A flóra több mint 1000 fajt számlál, köztük több balkáni endémikus növényt.",
         "A Dečani-Bistrica folyó vájt mély szurdokot a hegység szívében.",
-        "A hagyományos pásztorkunyhók, a 'stan'-ok, betekintést nyújtanak a helyi életmódba.",
+        "A hagyományos pásztorkunyhók, a 'stan'-ok betekintést nyújtanak a helyi életmódba.",
         "A régió kiválóan alkalmas sziklamászásra és via ferrata útvonalak teljesítésére.",
         "Télen a területet vastag hótakaró borítja, ami a sítúrázóknak kedvez."
       ],
       ro: [
-        "Lanțul montan face parte din traseul internațional de drumeții 'Vârfurile Balcanilor' (Peaks of the Balkans).",
-        "Cele mai înalte vârfuri din această zonă depășesc 2.500 de metri altitudine.",
-        "Zona este presărată cu numeroase lacuri glaciare, cunoscute local ca 'ochi de munte'.",
-        "Flora include peste 1.000 de specii, multe dintre ele fiind endemice pentru Balcani.",
-        "Râul Bistrica Dečani a sculptat un canion adânc în inima munților.",
-        "Colibele tradiționale ale ciobanilor, numite 'stan', oferă o imagine a stilului de viață pastoral.",
-        "Regiunea este excelentă pentru alpinism și trasee de via ferrata.",
-        "Iarna, zona este acoperită de un strat gros de zăpadă, atrăgând iubitorii de schi de tură."
+        "Mai multe vârfuri ating înălțimi de peste 2.500 de metri.",
+        "Regiunea este bogată în lacuri glaciare reci și limpezi.",
+        "Multe specii de plante endemice se găsesc aici, la altitudini înalte.",
+        "Traseul montan de lungă distanță 'Peaks of the Balkans' traversează această regiune impresionantă.",
+        "Agricultura montană tradițională este încă foarte activă în lunile de vară."
       ],
-      en: []
+      en: [
+        "Several peaks reach heights of over 2,500 meters.",
+        "The region is dotted with cold, clear glacial lakes.",
+        "Numerous endemic plant species flourish at these high alpine altitudes.",
+        "The 'Peaks of the Balkans' long-distance trail traverses this stunning terrain.",
+        "Traditional alpine shepherding practices remain active during the summer months."
+      ]
     }
   },
   // XK-002: Đakovica
@@ -178,21 +184,18 @@ export const kosovoPois: POI[] = [
       en: ["Houses the longest bazaar in Kosovo.", "Important cultural center.", "Heavily damaged in the 1999 war and rebuilt."]
     },
     descriptionAdvanced: {
-      de: "Gjakova, im Südwesten des Kosovo gelegen, ist bekannt für sein reiches kulturelles Erbe und seine lebendige Atmosphäre. Das Herz der Stadt ist der Große Basar (Çarshia e Madhe), der längste auf dem Balkan, dessen Ursprünge bis ins 16. Jahrhundert zurückreichen. Nach schweren Zerstörungen im Kosovokrieg wurde er liebevoll restauriert und ist heute wieder ein pulsierendes Zentrum mit unzähligen Handwerksläden, Cafés und Restaurants. Die Architektur der Stadt ist eine faszinierende Mischung aus osmanischen und lokalen Stilen, die in Gebäuden wie der Hadum-Moschee aus dem 16. Jahrhundert zum Ausdruck kommt. Gjakova gilt auch als Stadt der Musik und Kunst und hat eine lange Tradition von Dichtern und Sängern. Die malerische Lage am Fluss Krena trägt zum einzigartigen Charme der Stadt bei.",
-      hu: "Gjakova (albánul Gjakovë) Koszovó délnyugati részén fekszik, és az ország egyik legélénkebb kulturális és történelmi központja. A város büszkesége a Çarshia e Madhe, vagyis a Nagy Bazár, amely a Balkán-félsziget leghosszabb és egyik legrégebbi ilyen jellegű kereskedőnegyede. A macskaköves utcácskákon sétálva a látogatók kézműves műhelyek, hagyományos éttermek és kávézók sokaságát fedezhetik fel. A város építészete az oszmán kor és a helyi tradíciók keverékét tükrözi. Gjakova a zene és a költészet városaként is ismert. A koszovói háború súlyos károkat okozott a történelmi épületekben, de a helyiek és a nemzetközi közösség összefogásának köszönhetően a bazár nagy részét és a fontosabb műemlékeket, mint a Hadum-mecsetet, sikerült helyreállítani, megőrizve a város egyedi hangulatát.",
-      ro: "Gjakova (în albaneză Gjakovë), situat în sud-vestul Kosovo, este unul dintre cele mai vibrante centre culturale și istorice ale țării. Mândria orașului este Çarshia e Madhe, sau Marele Bazar, cel mai lung și unul dintre cele mai vechi cartiere comerciale de acest fel din Peninsula Balcanică. Plimbându-se pe străduțele pietruite, vizitatorii pot descoperi o multitudine de ateliere meșteșugărești, restaurante tradiționale și cafenele. Arhitectura orașului reflectă un amestec de stil otoman și tradiții locale. Gjakova este, de asemenea, cunoscut ca un oraș al muzicii și poeziei. Războiul din Kosovo a provocat daune grave clădirilor istorice, dar datorită eforturilor comune ale localnicilor și ale comunității internaționale, o mare parte a bazarului și monumente importante precum Moscheea Hadum au fost restaurate, păstrând atmosfera unică a orașului.",
-      en: ""
+      de: "Gjakova liegt im Südwesten des Landes und ist berühmt für seinen 'Çarshia e Madhe', den Großen Basar. Nach den schweren Zerstörungen des Kosovokrieges wurde dieses historische Zentrum in beispielhafter Weise restauriert. Heute ist der Basar ein lebendiges Zentrum für traditionelles Handwerk und Kunst. Die Stadt besticht durch ihre osmanische Architektur und ein kulturelles Leben, das von Musik und Poesie geprägt ist. Ein Bummel durch die schmalen Gassen ist eine Entdeckungsreise in die reiche Vergangenheit der Region. Geschichte K8 – Stadtenwicklung.",
+      hu: "Gjakova (albánul Gjakovë) Koszovó délnyugati részén fekszik, és az ország egyik legélénkebb kulturális és történelmi központja. A város büszkesége a Çarshia e Madhe, vagyis a Nagy Bazár, amely a Balkán-félsziget leghosszabb és egyik legrégebbi ilyen jellegű kereskedőnegyede. A macskaköves utcácskákon sétálva a látogatók kézműves műhelyek, hagyományos éttermek és kávézók sokaságát fedezhetik fel. A város építészete az oszmán kor és a helyi tradíciók keverékét tükrözi. Gjakova a zene és a költészet városaként is ismert. A koszovói háború súlyos károkat okozott, de a helyiek összefogásának köszönhetően sikerült helyreállítani a város egyedi hangulatát. Történelem K8 – városfejlődés.",
+      ro: "Situat în sud-vestul țării, Gjakova este faimos pentru 'Çarshia e Madhe', Marele Bazar, care reprezintă inima istorică și culturală a orașului. După distrugerile severe suferite în timpul războiului din Kosovo, acest centru a fost restaurat în mod exemplar, devenind astăzi un hub vibrant pentru meșteșugurile tradiționale și artă. Orașul impresionează prin arhitectura sa otomană și o viață culturală profund marcată de muzică și poezie. O plimbare pe străzile înguste este o călătorie în trecutul bogat al regiunii, unde tradițiile locale s-au păstrat cu sfințenie peste secole. Istorie K8 – Dezvoltare urbană.",
+      en: "Located in the southwest of Kosovo, Gjakova is celebrated for its 'Çarshia e Madhe' (Grand Bazaar), which serves as the historic and cultural heart of the city. Originally established in the 16th century, the bazaar has been masterfully restored after the severe damage sustained during the Kosovo War, re-emerging as a vibrant center for traditional crafts, local arts, and commerce. The city is renowned for its well-preserved Ottoman-influenced architecture, a lively café culture, and a deep-rooted love for music and poetry. Walking through its narrow, cobblestoned lanes offers a journey into the rich tapestry of the region's heritage, where artisanal traditions have been kept alive for generations. History K8 – Urban development and cultural heritage."
     },
     factsAdvanced: {
       de: [
-        "Der Große Basar erstreckt sich über eine Länge von mehr als einem Kilometer.",
-        "Vor dem Krieg gab es auf dem Basar über 500 Handwerksbetriebe.",
-        "Die Hadum-Moschee, erbaut 1594, ist das spirituelle Zentrum des Basars.",
-        "Die Terzi-Brücke, eine osmanische Steinbrücke aus dem 15. Jahrhundert, befindet sich in der Nähe der Stadt.",
-        "Gjakova ist bekannt für seine traditionelle Volksmusik, gespielt auf dem 'Saze'-Instrument.",
-        "Die Stadt hat eine reiche Tradition im Silberschmiedehandwerk.",
-        "Viele historische Wohngebäude (Kullas) wurden nach dem Krieg wieder aufgebaut.",
-        "Jährlich findet das Gjakova Sommerfestival mit zahlreichen kulturellen Veranstaltungen statt."
+        "Der Große Basar erstreckt sich über mehr als einen Kilometer.",
+        "Zahlreiche Handwerksbetriebe pflegen hier alte Techniken wie Filigran und Holzschnitzerei.",
+        "Die Hadum-Moschee bildet den historischen Kern des Basars.",
+        "Gjakova ist für seine Musiktradition, insbesondere das Saze-Spiel, bekannt.",
+        "Nach 1999 wurde die Stadt weitgehend unter Beibehaltung der alten Struktur wiederaufgebaut."
       ],
       hu: [
         "A Nagy Bazár eredetileg a 16. században alakult ki.",
@@ -205,16 +208,19 @@ export const kosovoPois: POI[] = [
         "A városban minden évben megrendezik a Gjakovai Nyári Fesztivált."
       ],
       ro: [
-        "Marele Bazar a fost înființat inițial în secolul al XVI-lea.",
-        "Lungimea bazarului depășește un kilometru.",
-        "Orașul este așezat pe malurile râului Krena.",
-        "Gjakova este renumit pentru muzica sa tradițională interpretată la un instrument numit 'saze'.",
-        "Moscheea Hadum din secolul al XVI-lea este unul dintre cele mai importante monumente islamice ale orașului.",
-        "Podul Terzi este o altă structură semnificativă din perioada otomană, situată în apropierea orașului.",
-        "Înainte de război, în bazar funcționau peste 500 de ateliere meșteșugărești.",
-        "Orașul găzduiește anual Festivalul de Vară din Gjakova."
+        "Marele Bazar se întinde pe mai mult de un kilometru lungime.",
+        "Numeroase ateliere artizanale păstrează aici tehnici străvechi, precum filigranul și sculptura în lemn.",
+        "Moscheea Hadum constituie inima istorică a bazarului.",
+        "Gjakova este renumită pentru tradiția sa muzicală, în special pentru cântatul la 'saze'.",
+        "După 1999, orașul a fost reconstruit în mare parte, păstrând structura veche a bazarului."
       ],
-      en: []
+      en: [
+        "The Grand Bazaar spans over one kilometer, making it one of the longest in the Balkans.",
+        "Numerous artisanal workshops continue to practice ancient techniques like silver filigree and woodcarving.",
+        "The Hadum Mosque forms the historic nucleus of the bazaar district.",
+        "Gjakova is widely renowned for its unique musical tradition, particularly the performance of 'saze'.",
+        "Much of the city was reconstructed after 1999, carefully preserving the original urban structure."
+      ]
     }
   },
   {
@@ -228,21 +234,18 @@ export const kosovoPois: POI[] = [
       en: ["Built in 1594.", "Masterpiece of classical Ottoman architecture.", "Was damaged during the Kosovo war."]
     },
     descriptionAdvanced: {
-      de: "Die Hadum-Moschee, erbaut Ende des 16. Jahrhunderts, ist das Herzstück des Großen Basars von Gjakova und ein herausragendes Beispiel der osmanischen Sakralarchitektur im Kosovo. Sie wurde von Hadum Sylejman Aga gestiftet und bildete den Kern, um den sich die Stadt entwickelte. Der Komplex umfasste ursprünglich auch eine Religionsschule (Madrasa), eine Bibliothek und ein türkisches Bad (Hamam). Die Moschee selbst besticht durch ihre harmonischen Proportionen mit einem quadratischen Gebetssaal und einer einzelnen, imposanten Kuppel. Ihr Inneres ist reich mit floralen Malereien und Arabesken im Stil des türkischen Barocks verziert. Obwohl der Komplex im Kosovokrieg 1999 schwer beschädigt wurde, insbesondere die wertvolle Bibliothek, wurde die Moschee aufwendig restauriert und dient heute wieder als aktives Gebetshaus und Symbol des städtischen Erbes.",
-      hu: "A Hadum-mecset Gjakova történelmi központjának, a Nagy Bazárnak a szívében áll, és a város egyik legfontosabb szimbóluma. A mecsetet 1594-ben alapította Hadum Sylejman Aga, a régió egyik befolyásos földesura, és a klasszikus oszmán építészet jellegzetes példája Koszovóban. A komplexumhoz eredetileg egy könyvtár, egy medresze (vallási iskola) és egy hamam (törökfürdő) is tartozott, amelyek a város kulturális és vallási életének központjává tették. A mecset belső terét gazdag növényi motívumokkal és geometriai mintákkal díszített festmények borítják, amelyek a török barokk stílus hatását mutatják. A koszovói háború során a mecset és a környező épületek súlyos károkat szenvedtek, de a nemzetközi segítséggel történő újjáépítésnek köszönhetően ma ismét eredeti pompájában csodálható meg.",
-      ro: "Moscheea Hadum se află în inima centrului istoric al orașului Gjakova, Marele Bazar, fiind unul dintre cele mai importante simboluri ale orașului. Moscheea a fost fondată în 1594 de Hadum Sylejman Aga, un moșier influent din regiune, și este un exemplu caracteristic al arhitecturii otomane clasice din Kosovo. Inițial, complexul includea o bibliotecă, o medresă (școală religioasă) și un hamam (baie turcească), transformându-l într-un centru al vieții culturale și religioase a orașului. Interiorul moscheii este acoperit cu picturi bogate, cu motive vegetale și modele geometrice, care arată influența stilului baroc turcesc. În timpul războiului din Kosovo, moscheea și clădirile învecinate au suferit daune grave, dar datorită reconstrucției cu ajutor internațional, astăzi poate fi admirată din nou în splendoarea sa originală.",
-      en: ""
+      de: "Die Hadum-Moschee ist ein herausragendes Beispiel osmanischer Architektur aus dem Jahr 1594. Sie wurde als Teil eines größeren sozialen Komplexes gestiftet, der auch Schulen und eine Bibliothek umfasste. Ihr Inneres beeindruckt durch kunstvolle florale Malereien, die in den türkischen Barockstilen gehalten sind. Trotz schwerer Beschädigungen im Kosovokrieg wurde sie kunstvoll restauriert und dient heute wieder als religiöser Mittelpunkt der Altstadt. Geschichte K8 – Osmanisches Erbe.",
+      hu: "A Hadum-mecset Gjakova történelmi központjának, a Nagy Bazárnak a szívében áll, és a város egyik legfontosabb szimbóluma. A mecsetet 1594-ben alapította Hadum Sylejman Aga, a régió egyik befolyásos földesura, és a klasszikus oszmán építészet jellegzetes példája Koszovóban. A komplexumhoz eredetileg egy könyvtár, egy medresze (vallási iskola) és egy hamam (törökfürdő) is tartozott, amelyek a város kulturális és vallási életének központjává tették. A mecset belső terét gazdag növényi motívumokkal és geometriai mintákkal díszített festmények borítják, amelyek a török barokk stílus hatását mutatják. A koszovói háború során a mecset és a környező épületek súlyos károkat szenvedtek, de a nemzetközi segítséggel történő újjáépítésnek köszönhetően ma ismét eredeti pompájában csodálható meg. Történelem K8 – oszmán örökség.",
+      ro: "Moscheea Hadum este un exemplu remarcabil de arhitectură otomană din anul 1594, situată în inima orașului Gjakova. Aceasta a fost fondată ca parte a unui complex social mai amplu, care includea școli și o bibliotecă, servind drept centru vital pentru viața religioasă și culturală a comunității. Interiorul impresionează prin picturile florale artistice, realizate în stil baroc turcesc, care au supraviețuit timpului. În ciuda avariilor grave suferite în timpul războiului din Kosovo, moscheea a fost restaurată cu măiestrie, servind din nou ca centru religios al orașului vechi. Istorie K8 – Moștenire otomană.",
+      en: "The Hadum Mosque is a preeminent example of classical Ottoman architecture, commissioned in 1594 by Hadum Sylejman Aga. It was originally established as the center of a large social complex that included an Islamic school (madrasa) and a library, fostering the religious and educational life of Gjakova for centuries. The interior is particularly notable for its intricate floral paintings, executed in a style reminiscent of Turkish Baroque. Despite the extensive damage sustained during the 1999 conflict, the mosque has been painstakingly restored to its original splendor, serving once again as the spiritual anchor of the historic old bazaar. History K8 – Ottoman heritage and architecture."
     },
     factsAdvanced: {
       de: [
-        "Der Stifter, Hadum Sylejman Aga, war ein Schüler des berühmten osmanischen Architekten Mimar Sinan.",
-        "Das Minarett der Moschee ist 31 Meter hoch.",
-        "Die dekorativen Malereien im Inneren stammen aus dem 19. Jahrhundert.",
-        "Der ursprüngliche Hamam des Komplexes wurde im Krieg zerstört.",
-        "Auf dem Friedhof der Moschee befinden sich die Gräber bedeutender Persönlichkeiten der Stadt.",
-        "Die Restaurierung wurde maßgeblich durch internationale Hilfsorganisationen unterstützt.",
-        "Die Architektur zeigt Einflüsse der klassischen osmanischen Schule von Istanbul.",
-        "Der Name 'Hadum' bedeutet 'Eunuch' auf Türkisch, was auf die Position des Stifters am Sultanshof hinweist."
+        "Sie wurde von Hadum Sylejman Aga gestiftet.",
+        "Das Minarett erreicht eine Höhe von 31 Metern.",
+        "Die Innendekoration stammt aus dem 19. Jahrhundert.",
+        "Sie diente als Ausgangspunkt für die Stadtentwicklung Gjakovas.",
+        "Die zerstörte Bibliothek des Komplexes galt als kultureller Schatz."
       ],
       hu: [
         "A mecset alapítója, Hadum Aga, a híres Mimar Sinan tanítványa volt.",
@@ -255,16 +258,19 @@ export const kosovoPois: POI[] = [
         "A díszítőfestések a 19. században készültek."
       ],
       ro: [
-        "Fondatorul moscheii, Hadum Aga, a fost un discipol al celebrului arhitect Mimar Sinan.",
-        "Sala de rugăciune are un plan pătrat, acoperit de o singură cupolă mare.",
-        "Minaretul are o înălțime de 31 de metri.",
-        "În curtea moscheii se găsesc pietre funerare vechi, comemorând personalități notabile ale orașului.",
-        "În timpul războiului din 1999, biblioteca complexului și manuscrisele rare pe care le adăpostea au fost distruse.",
-        "Lucrările de restaurare au fost sprijinite de fundații din Turcia și Arabia Saudită.",
-        "Moscheea funcționează și astăzi ca lăcaș de cult activ.",
-        "Picturile decorative interioare datează din secolul al XIX-lea."
+        "A fost ctitorită de Hadum Sylejman Aga.",
+        "Minaretul atinge o înălțime de 31 de metri.",
+        "Decorul interior datează din secolul al XIX-lea.",
+        "A servit drept punct de plecare pentru dezvoltarea urbană a orașului Gjakova.",
+        "Biblioteca complexului, acum distrusă, era considerată o comoară culturală."
       ],
-      en: []
+      en: [
+        "Founded by Hadum Sylejman Aga, an influential landowner and local benefactor.",
+        "The minaret rises to an impressive height of 31 meters.",
+        "Much of the current interior ornamentation dates back to the 19th century.",
+        "The mosque served as the foundational pillar for Gjakova's urban growth.",
+        "The complex once featured a library that held a collection of rare and irreplaceable cultural manuscripts."
+      ]
     }
   },
   // XK-003: Dragaš
@@ -279,21 +285,18 @@ export const kosovoPois: POI[] = [
       en: ["Center of the Gorani minority.", "Famous for its sheep cheese.", "Surrounded by the peaks of the Šar Mountains."]
     },
     descriptionAdvanced: {
-      de: "Dragash, auch Sharri genannt, ist die südlichste Gemeinde des Kosovo und liegt eingebettet in die majestätische Landschaft der Šar-Berge. Diese abgelegene Region ist das kulturelle Zentrum der Gorani, einer muslimisch-slawischen Volksgruppe mit eigener Sprache und reichen Traditionen. Die Wirtschaft der Gemeinde basiert hauptsächlich auf der Viehzucht, insbesondere der Schafhaltung, und der Herstellung des berühmten Šar-Käses (Šarski Sir), einer lokalen Delikatesse. Die unberührte Natur mit ihren hohen Gipfeln, weiten Almen und dichten Wäldern macht Dragash zu einem attraktiven Ziel für Wanderer und Naturliebhaber. Die Region bietet einen authentischen Einblick in ein traditionelles Leben, das eng mit der Natur verbunden ist, und ist Ausgangspunkt für Touren in den Šar-Planina-Nationalpark.",
-      hu: "Dragash (albánul Dragash vagy Sharri) Koszovó legdélebbi községe és városa, a Šar-hegység lélegzetelállító tájain, Albánia és Észak-Macedónia határán. A régió egyedülálló etnikai és kulturális sokszínűségéről ismert, itt él a goráni népcsoport, egy délszláv muszlim közösség, care megőrizte sajátos nyelvét és hagyományait. A város és a környező falvak gazdasága elsősorban az állattenyésztésre, különösen a juhtartásra épül. A helyi 'Šarski sir' (Šar-hegyi sajt) messze földön híres csemege. A terület érintetlen természeti szépsége, a magas hegycsúcsok, zöldellő legelők és tiszta vizű patakok vonzzák a természetjárókat. Dragash a kiindulópontja számos túraútvonalnak, amelyek a Šar-hegység Nemzeti Park lenyűgöző vidékeire vezetnek, lehetőséget nyújtva a helyi, vendégszerető kultúra megismerésére is.",
-      ro: "Dragash (în albaneză Dragash sau Sharri) este cea mai sudică municipalitate și oraș din Kosovo, situat în peisajul uluitor al Munților Šar, la granița cu Albania și Macedonia de Nord. Regiunea este cunoscută pentru diversitatea sa etnică și culturală unică, fiind locuită de comunitatea Gorani, un grup slav de sud musulman care și-a păstrat limba și tradițiile specifice. Economia orașului și a satelor înconjurătoare se bazează în principal pe creșterea animalelor, în special a oilor. Brânza locală 'Šarski sir' (brânza de Šar) este o delicatesă renumită. Frumusețea naturală neatinsă a zonei, cu vârfuri montane înalte, pășuni verzi și pâraie limpezi, atrage iubitorii de natură. Dragash este punctul de plecare pentru numeroase trasee de drumeții care duc spre peisajele impresionante ale Parcului Național Munții Šar, oferind și oportunitatea de a cunoaște cultura locală ospitalieră.",
-      en: ""
+      de: "Dragash, auch Sharri genannt, ist die südlichste Gemeinde des Kosovo. Die Region ist das kulturelle Zentrum der Gorani, einer muslimisch-slawischen Volksgruppe mit eigenständiger Kultur und Sprache. Die Wirtschaft ist stark durch die Viehzucht geprägt, deren wohl bekanntestes Produkt der aromatische Šar-Käse ist. Gelegen inmitten der imposanten Šar-Berge, bietet Dragash unberührte Natur, die Wanderer und Naturliebhaber anzieht. Hier findet man ein authentisches Leben abseits der städtischen Hektik. Sachkunde K4 – Lebensraum Gebirge.",
+      hu: "Dragash (albánul Dragash vagy Sharri) Koszovó legdélebbi községe és városa, a Šar-hegység lélegzetelállító tájain, Albánia és Észak-Macedónia határán. A régió egyedülálló etnikai és kulturális sokszínűségéről ismert, itt él a goráni népcsoport, egy délszláv muszlim közösség, amely megőrizte sajátos nyelvét és hagyományait. A város és a környező falvak gazdasága elsősorban az állattenyésztésre, különösen a juhtartásra épül. A helyi 'Šarski sir' (Šar-hegyi sajt) messze földön híres csemege. A terület érintetlen természeti szépsége, a magas hegycsúcsok és tiszta vizű patakok vonzzák a természetjárókat. Dragash a kiindulópontja számos túraútvonalnak, amelyek a Šar-hegység Nemzeti Park lenyűgöző vidékeire vezetnek. Ismeretek K4 – hegyvidéki életmód.",
+      ro: "Dragash, cunoscut și sub numele de Sharri, este cea mai sudică localitate din Kosovo, situată în peisajul spectaculos al Munților Šar, la granița cu Albania și Macedonia de Nord. Regiunea este renumită pentru diversitatea sa etnică și culturală unică, fiind centrul goranilor, o comunitate musulmană vorbitoare de limbă slavă care și-a păstrat tradițiile și limba proprie. Economia orașului și a satelor înconjurătoare se bazează în principal pe creșterea animalelor, în special a oilor, produsul local faimos fiind brânza de munte Šar. Frumusețea naturală intactă, cu vârfuri muntoase înalte și pâraie cristaline, atrage numeroși pasionați de drumeții. Dragash este punctul de plecare pentru multe trasee montane fascinante. Cunoștințe K4 – Habitat montan.",
+      en: "Dragash, also known as Sharri, is the southernmost municipality in Kosovo, nestled within the breathtaking landscapes of the Šar Mountains near the borders of Albania and North Macedonia. The region is distinctively known for its unique cultural diversity, serving as the heartland of the Gorani people—a Slavic-speaking Muslim community that has preserved its own distinct language and traditions. The local economy is deeply rooted in traditional livestock farming, particularly sheep rearing, which produces the famous and highly aromatic 'Šar' cheese. With its pristine natural beauty, high alpine peaks, and crystal-clear streams, Dragash is a magnet for those seeking adventure in untouched nature, offering a gateway to the spectacular trails within the Šar Mountains National Park. Knowledge K4 – Mountainous habitats and traditional lifestyles."
     },
     factsAdvanced: {
       de: [
-        "Die Gemeinde ist offiziell zweisprachig (Albanisch und Serbisch), aber die Gorani-Sprache ist weit verbreitet.",
-        "Die Gorani sind bekannt für ihre farbenprächtigen, mehrtägigen Hochzeitszeremonien.",
-        "Die Region ist die Heimat des Šarplaninac, einer robusten und loyalen Hirtenhunderasse.",
-        "Über 20 Gipfel in der Umgebung von Dragash sind höher als 2.500 Meter.",
-        "Die traditionelle Architektur zeichnet sich durch Steinhäuser mit Schindeldächern aus.",
-        "Die lokale Küche ist reich an Lammfleisch, Milchprodukten und Wildkräutern.",
-        "Das Dorf Restelica ist eine der höchstgelegenen und traditionellsten Siedlungen der Gemeinde.",
-        "Die Handwerkskunst, insbesondere Holzschnitzerei und Weberei, wird hier noch gepflegt."
+        "Die Gemeinde ist ein Zentrum der Gorani-Kultur.",
+        "Viehzucht und der Šar-Käse sind die wichtigsten lokalen Wirtschaftszweige.",
+        "Die Šar-Berge bieten ein spektakuläres Panorama mit über 20 Gipfeln über 2.500 Meter.",
+        "Das Gebiet ist bekannt für seine Artenvielfalt und unberührten Wanderpfade.",
+        "Die Region ist kulturell einzigartig durch ihre traditionellen Hochzeitszeremonien."
       ],
       hu: [
         "A község hivatalosan kétnyelvű: albán és szerb, de a goráni nyelvet is széles körben beszélik.",
@@ -306,16 +309,19 @@ export const kosovoPois: POI[] = [
         "A térségben a kézművesség, különösen a fafaragás és a szövés, még élő hagyomány."
       ],
       ro: [
-        "Municipalitatea este oficial bilingvă: albaneză și sârbă, dar limba gorani este, de asemenea, vorbită pe scară largă.",
-        "Cermoniile tradiționale de nuntă ale goranilor durează mai multe zile și sunt extrem de spectaculoase.",
-        "Regiunea este locul de origine al rasei de câini Šarplaninac (Ciobănesc de Šar), un excelent câine de pază.",
-        "Bucătăria locală se bazează pe carne de miel, produse lactate și legume cultivate local.",
-        "În munții din jurul Dragash există peste 20 de vârfuri cu o înălțime de peste 2.500 de metri.",
-        "Zona este un habitat important pentru urși, lupi și alte animale sălbatice.",
-        "Satul Restelica este una dintre cele mai înalte și mai tradiționale așezări din municipalitate.",
-        "Meșteșugurile, în special sculptura în lemn și țesutul, sunt încă tradiții vii în zonă."
+        "Comuna este un centru important al culturii Gorani.",
+        "Creșterea animalelor și producția de brânză Šar sunt principalele activități economice locale.",
+        "Munții Šar oferă o panoramă spectaculoasă, cu peste 20 de vârfuri care depășesc 2.500 de metri.",
+        "Zona este cunoscută pentru biodiversitatea sa și traseele montane virgine.",
+        "Regiunea este unică din punct de vedere cultural datorită ceremoniilor tradiționale de nuntă."
       ],
-      en: []
+      en: [
+        "The municipality is a primary cultural hub for the Gorani people.",
+        "Livestock farming and the production of the distinct 'Šar' cheese drive the local economy.",
+        "The Šar Mountains range features a spectacular panorama with over 20 peaks exceeding 2,500 meters.",
+        "The region is highly recognized for its extensive biodiversity and wild, unpaved hiking trails.",
+        "The area is culturally defined by its unique, multi-day traditional wedding ceremonies."
+      ]
     }
   },
   {
@@ -329,21 +335,18 @@ export const kosovoPois: POI[] = [
       en: ["Known for traditional architecture.", "Very snowy winters.", "Part of the village in the Gora region."]
     },
     descriptionAdvanced: {
-      de: "Restelica ist ein malerisches Dorf in der Gemeinde Dragash, hoch oben in den Šar-Bergen gelegen und eine der höchstgelegenen Siedlungen im Kosovo. Als eine der letzten Bastionen der Gorani-Kultur bewahren die Einwohner stolz ihre alten Traditionen, ihre Sprache und ihre Lebensweise. Die Landschaft wird von steilen Berghängen, üppigen Weiden und traditionellen, aus Stein und Holz gebauten Häusern geprägt. Die Winter sind hier extrem hart und schneereich, was das Dorf oft monatelang von der Außenwelt abschneidet. Die Haupteinnahmequelle der Einheimischen ist die Viehzucht. Ein Besuch in Restelica ist wie eine Zeitreise: fernab vom Lärm der modernen Welt erhalten Besucher einen Einblick in das Leben einer authentischen, gastfreundlichen Gemeinschaft, umgeben von der dramatischen Schönheit der Berge.",
-      hu: "Restelica a Dragash községben, a Šar-hegység magaslatain megbúvó festői falu, amely Koszovó egyik legmagasabban fekvő és legelszigeteltebb települése. A falu a goráni kultúra egyik utolsó bástyája, ahol a lakosok büszkén őrzik ősi hagyományaikat, nyelvüket és életmódjukat. A tájra a meredek hegyoldalak, a zöldellő legelők és a hagyományos, kőből és fából épült házak jellemzőek. A telek itt rendkívül zordak és hóban gazdagok, gyakran előfordul, hogy a falu hónapokra el van vágva a külvilágtól. A helyiek fő megélhetési forrása az állattenyésztés. Restelica meglátogatása olyan, mint egy időutazás: a modern világ zajától távol a látogatók egy autentikus, vendégszerető közösség életébe nyerhetnek bepillantást, miközben a környező hegyek drámai szépségében gyönyörködhetnek.",
-      ro: "Restelica este un sat pitoresc ascuns în înălțimile Munților Šar, în municipalitatea Dragash, fiind una dintre cele mai înalte și mai izolate așezări din Kosovo. Satul este un ultim bastion al culturii Gorani, unde locuitorii își păstrează cu mândrie tradițiile, limba și modul de viață ancestral. Peisajul este caracterizat de versanți abrupți, pășuni verzi și case tradiționale construite din piatră și lemn. Iernile aici sunt extrem de aspre și bogate în zăpadă, satul fiind adesea izolat de restul lumii pentru luni de zile. Principala sursă de venit pentru localnici este creșterea animalelor. O vizită în Restelica este ca o călătorie în timp: departe de zgomotul lumii moderne, vizitatorii pot arunca o privire în viața unei comunități autentice și ospitaliere, în timp ce se bucură de frumusețea dramatică a munților din jur.",
-      en: ""
+      de: "Restelica ist ein isoliertes und ursprüngliches Bergdorf in der Gemeinde Dragash. Auf etwa 1.400 Metern Höhe gelegen, bewahren die Bewohner hier ihre goranischen Wurzeln und Bräuche wie kaum anderswo. Die Architektur mit ihren massiven Steinhäusern ist perfekt an die extremen Winter angepasst, in denen der Schnee oft mehrere Meter hoch liegt. Das Dorf bietet Reisenden einen tiefen Einblick in eine abgeschiedene Welt, in der Gastfreundschaft und Tradition den Alltag bestimmen. Ein echter Geheimtipp für Wanderer. Erdkunde K6 – Siedlungsgeographie.",
+      hu: "Restelica a Dragash községben, a Šar-hegység magaslatain megbúvó festői falu, amely Koszovó egyik legmagasabban fekvő és legelszigeteltebb települése. A falu a goráni kultúra egyik utolsó bástyája, ahol a lakosok büszkén őrzik ősi hagyományaikat, nyelvüket és életmódjukat. A tájra a meredek hegyoldalak, a zöldellő legelők és a hagyományos, kőből és fából épült házak jellemzőek. A telek itt rendkívül zordak és hóban gazdagok, gyakran előfordul, hogy a falu hónapokra el van vágva a külvilágtól. A helyiek fő megélhetési forrása az állattenyésztés. Restelica meglátogatása olyan, mint egy időutazás: a modern világ zajától távol a látogatók egy autentikus, vendégszerető közösség életébe nyerhetnek bepillantást. Földrajz K6 – településföldrajz.",
+      ro: "Restelica este un sat montan izolat și pitoresc în comuna Dragash, fiind una dintre cele mai înalte și izolate așezări din Kosovo. Situat la aproximativ 1.400 de metri altitudine, satul este un bastion al culturii gorane, unde locuitorii își păstrează cu mândrie tradițiile ancestrale, limba și stilul de viață. Peisajul este definit de versanți abrupți, pășuni verzi și case tradiționale construite din piatră și lemn, perfect adaptate iernilor aspre în care stratul de zăpadă atinge adesea câțiva metri. Vizitarea satului este ca o călătorie în timp, oferind călătorilor o perspectivă autentică asupra unei comunități ospitaliere, departe de agitația lumii moderne. Geografie K6 – Geografia așezărilor.",
+      en: "Restelica is an isolated, pristine mountain village located in the Dragash municipality, standing as one of the highest and most remote settlements in Kosovo. Situated at approximately 1,400 meters above sea level, the village remains a stronghold of Gorani culture, where residents proudly preserve their ancestral roots, language, and customs. The landscape is defined by steep mountainsides, lush summer pastures, and traditional architecture featuring massive stone houses built to withstand harsh, snow-heavy winters where drifts can reach several meters. Visiting Restelica is akin to a journey through time, offering travelers an authentic window into a secluded world where hospitality and deep-seated traditions define daily life. Geography K6 – Settlement geography and remote mountain living."
     },
     factsAdvanced: {
       de: [
-        "Das Dorf liegt auf einer Höhe von etwa 1.400 Metern über dem Meeresspiegel.",
-        "Die traditionellen Gorani-Häuser (Kule) sind hohe, turmartige Gebäude mit dicken Steinmauern.",
-        "Die lokale Hochzeitstracht ist äußerst prunkvoll; das Gesicht der Braut wird mit komplexen Mustern bemalt.",
-        "Der Name 'Gora' ist slawischen Ursprungs und bedeutet 'Berg' oder 'Wald'.",
-        "Die Umgebung ist reich an Heil- und Gewürzkräutern, die von den Einheimischen gesammelt werden.",
-        "Wanderwege vom Dorf führen zu nahegelegenen Bergseen und Gipfeln.",
-        "Die Gemeinschaft ist für ihre außergewöhnliche Gastfreundschaft bekannt.",
-        "Im Winter kann die Schneedecke mehrere Meter hoch sein."
+        "Liegt auf ca. 1.400 Metern über dem Meeresspiegel.",
+        "Traditionelle Hochzeiten in Restelica sind berühmt für ihre prunkvollen Trachten und Gesichtsbemalungen.",
+        "Der Name 'Gora' weist auf die bergige Lage hin.",
+        "Das Dorf ist ein idealer Ausgangspunkt für Touren in die Šar-Berge.",
+        "Die Gemeinschaft pflegt eine außergewöhnliche Gastfreundschaft."
       ],
       hu: [
         "A falu körülbelül 1400 méteres tengerszint feletti magasságban fekszik.",
@@ -356,16 +359,19 @@ export const kosovoPois: POI[] = [
         "A helyi közösség híres a vendégszeretetéről."
       ],
       ro: [
-        "Satul se află la o altitudine de aproximativ 1.400 de metri deasupra nivelului mării.",
-        "Casele tradiționale gorani (kule) sunt structuri înalte, asemănătoare unor turnuri, cu ziduri groase de piatră.",
-        "Costumul de nuntă local este extrem de ornamentat, fața miresei fiind pictată cu modele complexe.",
-        "Populația satului este predominant gorani, dar există și albanezi.",
-        "Zona este bogată în plante medicinale și aromatice, pe care localnicii le culeg și le folosesc.",
-        "Numele 'Gora' este de origine slavă și înseamnă 'munte' sau 'pădure'.",
-        "Traseele de drumeție care pornesc din sat duc la lacuri și vârfuri montane din apropiere.",
-        "Comunitatea locală este renumită pentru ospitalitatea sa."
+        "Satul se află la aproximativ 1.400 de metri deasupra nivelului mării.",
+        "Nunțile tradiționale gorane sunt celebre pentru costumele lor fastuoase și pictura facială a miresei.",
+        "Numele 'Gora' provine din limba slavă și semnifică 'munte' sau 'pădure'.",
+        "Satul este un punct de plecare ideal pentru drumeții în Munții Šar.",
+        "Comunitatea locală este renumită pentru ospitalitatea sa excepțională."
       ],
-      en: []
+      en: [
+        "Located at approximately 1,400 meters above sea level.",
+        "Traditional weddings in Restelica are celebrated for their opulent costumes and intricate face-painting traditions.",
+        "The name 'Gora' is of Slavic origin, meaning 'mountain' or 'forest'.",
+        "The village serves as an excellent gateway for excursions into the higher reaches of the Šar Mountains.",
+        "The community is deeply committed to maintaining a warm and generous culture of hospitality."
+      ]
     }
   },
   // XK-004: Prizren
@@ -380,21 +386,18 @@ export const kosovoPois: POI[] = [
       en: ["Host of the Dokufest film festival.", "Known for its Ottoman stone bridge.", "Seat of the League of Prizren."]
     },
     descriptionAdvanced: {
-      de: "Prizren gilt weithin als die kulturelle Hauptstadt des Kosovo und besticht durch seine unvergleichliche Atmosphäre und historische Schönheit. Am Fuße der Šar-Berge und am Ufer des Flusses Lumbardhi gelegen, ist die Stadt ein Mosaik aus osmanischen Moscheen, orthodoxen Kirchen und eleganten alten Bürgerhäusern. Das Wahrzeichen der Stadt ist die osmanische Steinbrücke (Ura e Gurit), die sich malerisch über den Fluss spannt. Über der Stadt thront die mittelalterliche Festung Kalaja, die einen atemberaubenden Panoramablick bietet. Prizren ist nicht nur reich an Geschichte, sondern auch ein Zentrum für zeitgenössische Kultur. Jedes Jahr im August beherbergt es das Dokufest, eines der bedeutendsten Dokumentar- und Kurzfilmfestivals der Region, das die Gassen und Plätze in ein riesiges Freiluftkino verwandelt. Die Stadt ist auch berühmt für ihr feines Filigran-Silberhandwerk.",
-      hu: "Prizren vitathatatlanul Koszovó legszebb és leghangulatosabb városa, igazi kulturális olvasztótégely. A Šar-hegység lábánál, a Lumbardhi (Bistrica) folyó partján fekvő város tele van oszmán kori mecsetekkel, ortodox templomokkal és elegáns, régi házakkal. A város szimbóluma a Kőhíd (Ura e Gurit), amely a folyó két partját köti össze a nyüzsgő óvárosban. A város fölé magasodó középkori erőd, a Kalaja, lenyűgöző panorámát kínál a vörös cserepes háztetőkre és a környező hegyekre. Prizren nemcsak történelmi emlékekben, hanem kulturális eseményekben is gazdag; itt rendezik meg minden évben a Dokufestet, a régió egyik legjelentősebb nemzetközi dokumentumfilm- és rövidfilm-fesztiválját. A város macskaköves utcáin sétálva, a kávézók teraszán üldögélve vagy a helyi filigrán ékszereket csodálva a látogató a Balkán egyedi, multikulturális atmoszférájába merülhet el.",
-      ro: "Prizren este, fără îndoială, cel mai frumos și mai atmosferic oraș din Kosovo, un adevărat creuzet cultural. Situat la poalele Munților Šar, pe malurile râului Lumbardhi (Bistrica), orașul este plin de moschei din perioada otomană, biserici ortodoxe și case vechi elegante. Simbolul orașului este Podul de Piatră (Ura e Gurit), care leagă cele două maluri ale râului în centrul vechi plin de viață. Fortăreața medievală, Kalaja, care se înalță deasupra orașului, oferă o panoramă impresionantă asupra acoperișurilor de țiglă roșie și a munților din jur. Prizren este bogat nu numai în monumente istorice, ci și în evenimente culturale; aici are loc anual Dokufest, unul dintre cele mai importante festivaluri internaționale de film documentar și de scurtmetraj din regiune. Plimbându-vă pe străzile pietruite, stând la terasele cafenelelor sau admirând bijuteriile locale din filigran, vizitatorul se poate cufunda în atmosfera unică și multiculturală a Balcanilor.",
-      en: ""
+      de: "Prizren, am Fuße der Šar-Berge gelegen, ist das kulturelle Juwel des Kosovo. Mit seinen osmanischen Moscheen, orthodoxen Kirchen und der beeindruckenden Steinbrücke bietet die Stadt eine reiche historische Kulisse. Jedes Jahr im Sommer wird die Stadt zum Treffpunkt der Filmwelt, wenn das internationale Dokufest stattfindet. Über Prizren thront die mittelalterliche Festung, die ein Panorama über die gesamte Region ermöglicht. Prizren ist zudem ein Zentrum für traditionelle Handwerkskunst, insbesondere die Filigranarbeit. Geschichte K8 – Kultur und Gesellschaft.",
+      hu: "Prizren vitathatatlanul Koszovó legszebb és leghangulatosabb városa, igazi kulturális olvasztótégely. A Šar-hegység lábánál, a Lumbardhi folyó partján fekvő város tele van oszmán kori mecsetekkel, ortodox templomokkal és elegáns, régi házakkal. A város szimbóluma a Kőhíd (Ura e Gurit), amely a folyó két partját köti össze a nyüzsgő óvárosban. A város fölé magasodó középkori erőd, a Kalaja, lenyűgöző panorámát kínál a vörös cserepes háztetőkre. Prizren nemcsak történelmi emlékekben, hanem kulturális eseményekben is gazdag; itt rendezik meg minden évben a Dokufestet, a régió egyik legjelentősebb dokumentumfilm-fesztiválját. A város macskaköves utcáin sétálva a látogató a Balkán egyedi atmoszférájába merülhet el. Kultúra K8 – művészetek.",
+      ro: "Situat la poalele Munților Šar, Prizren este bijuteria culturală a Kosovo, un oraș vibrant ce combină moscheile otomane, bisericile ortodoxe și podul de piatră impresionant. În fiecare vară, orașul devine punctul de întâlnire al lumii filmului, găzduind celebrul festival internațional Dokufest. Cetatea medievală veghează orașul de sus, oferind o panoramă unică asupra întregii regiuni. Prizren este, de asemenea, un centru renumit pentru meșteșugurile tradiționale, în special arta filigranului, o îndeletnicire păstrată cu grijă de generații. Prizren oferă o perspectivă profundă asupra mozaicului istoric și cultural al Balcanilor. Cultură K8 – Arte.",
+      en: "Nestled at the foot of the Šar Mountains, Prizren is widely regarded as the cultural jewel of Kosovo. Characterized by a mesmerizing blend of Ottoman mosques, historic Orthodox churches, and an iconic stone bridge spanning the Lumbardhi river, the city offers a rich and evocative historical backdrop. Each summer, Prizren transforms into a global meeting point for the cinematic world during the internationally acclaimed Dokufest film festival. High above the city looms the medieval Prizren Fortress, which provides an unparalleled panoramic view of the entire region. Beyond its history, Prizren remains a thriving hub for traditional crafts, with a particular legacy in the intricate art of silver filigree. Culture K8 – Arts and history."
     },
     factsAdvanced: {
       de: [
-        "Prizren war zeitweise die Hauptstadt des mittelalterlichen serbischen Reiches.",
-        "Die Sinan-Pascha-Moschee aus dem 17. Jahrhundert dominiert die Silhouette der Stadt.",
-        "Die Kirche der Muttergottes von Ljeviš aus dem 14. Jahrhundert ist ein UNESCO-Weltkulturerbe.",
-        "1878 wurde hier die Liga von Prizren gegründet, eine entscheidende Bewegung für die albanische Nationalbewegung.",
-        "Prizren hat eine bedeutende türkische Minderheit, und Türkisch ist eine offizielle Sprache der Gemeinde.",
-        "Während des Dokufests werden Filme an einzigartigen Orten wie in der Festung und auf einer Plattform im Fluss gezeigt.",
-        "Die Stadt war ein wichtiger Knotenpunkt an alten Handelsrouten, die die Adria mit dem Landesinneren verbanden.",
-        "Die lokale Gastronomie ist berühmt für gegrilltes Fleisch (Qebapa) und süße Nachspeisen."
+        "Prizren diente zeitweise als Hauptstadt des mittelalterlichen serbischen Reiches.",
+        "Die Sinan-Pascha-Moschee und die Ljeviš-Kirche (UNESCO) sind zentrale Sehenswürdigkeiten.",
+        "Die Liga von Prizren von 1878 war ein Meilenstein für die nationale Bewegung.",
+        "Die Stadt ist international für ihr Filigranhandwerk in Silber bekannt.",
+        "Während des Dokufest-Festivals verwandeln sich Orte wie die Festung in Freiluftkinos."
       ],
       hu: [
         "Prizren a középkori Szerb Királyság idején egy ideig fővárosként is funkcionált.",
@@ -402,21 +405,24 @@ export const kosovoPois: POI[] = [
         "A Ljeviši Miasszonyunk-templom a 14. századból származik és az UNESCO Világörökség része.",
         "1878-ban itt alakult meg a Prizreni Liga, az albán nemzeti mozgalom egyik fontos szervezete.",
         "Prizren a filigrán ezüstművesség központja, a mesterséget generációk adják tovább.",
-        "A városban jelentős török kisebbség él, a török nyelv hivatalos használatban van a községben.",
-        "A Dokufest idején a város szabadtéri mozivá alakul, a filmeket a folyóparton és a várban is vetítik.",
-        "A helyi gasztronómia híres a grillezett húsokról (qebapa) és az édességekről."
+        "A városban jelentős török kisebbség él, a török nyelv hivatalos használatban van.",
+        "A Dokufest idején a város szabadtéri mozivá alakul, a filmeket a várban is vetítik.",
+        "A helyi gasztronómia híres a grillezett húsokról és az édességekről."
       ],
       ro: [
-        "În timpul Regatului Sârb medieval, Prizren a servit pentru o perioadă drept capitală.",
-        "Moscheea Sinan Pașa a fost construită în secolul al XVII-lea și este una dintre cele mai impunătoare clădiri islamice din oraș.",
-        "Biserica Maicii Domnului din Ljeviš datează din secolul al XIV-lea și este un sit al Patrimoniului Mondial UNESCO.",
-        "În 1878, aici a fost formată Liga de la Prizren, o organizație importantă a mișcării naționale albaneze.",
-        "Prizren este un centru al meșteșugului de filigran în argint, o artă transmisă de-a lungul generațiilor.",
-        "Orașul are o minoritate turcă semnificativă, iar limba turcă este în uz oficial în municipalitate.",
-        "În timpul Dokufest, orașul se transformă într-un cinematograf în aer liber, cu proiecții pe malul râului și la fortăreață.",
-        "Gastronomia locală este renumită pentru carnea la grătar (qebapa) și deserturi."
+        "Prizren a servit în trecut drept capitală a Regatului Sârb medieval.",
+        "Moscheea Sinan Pașa și Biserica Maicii Domnului din Ljeviš (UNESCO) sunt atracții centrale.",
+        "Liga de la Prizren din 1878 a reprezentat o piatră de hotar pentru mișcarea națională.",
+        "Orașul este renumit la nivel internațional pentru arta filigranului în argint.",
+        "În timpul festivalului Dokufest, locații precum cetatea se transformă în cinematografe în aer liber."
       ],
-      en: []
+      en: [
+        "Prizren served as the capital of the medieval Serbian Empire during certain periods.",
+        "The Sinan Pasha Mosque and the UNESCO-listed Church of Our Lady of Ljeviš are central architectural landmarks.",
+        "The 1878 League of Prizren was a pivotal milestone for Albanian national identity.",
+        "The city is globally celebrated for its meticulous traditional silver filigree craftsmanship.",
+        "During Dokufest, historic venues like the fortress become stunning open-air cinemas."
+      ]
     }
   },
   {
@@ -430,43 +436,43 @@ export const kosovoPois: POI[] = [
       en: ["Offers the best panoramic view of the city.", "Originally Byzantine, later expanded by the Ottomans.", "National monument of Kosovo."]
     },
     descriptionAdvanced: {
-      de: "Die Festung von Prizren, Kalaja genannt, thront auf einem Hügel über der Altstadt und ist das markanteste Wahrzeichen der Stadt. Ihre Ursprünge reichen bis in die Antike zurück, mit Spuren von illyrischen und römischen Siedlungen. Die heutige Struktur ist das Ergebnis von Erweiterungen und Umbauten durch Byzantiner, Serben und Osmanen, die die Festung über die Jahrhunderte hinweg als strategischen Verteidigungspunkt nutzten. Ein Spaziergang durch die Ruinen der Oberen und Unteren Burg offenbart die komplexe Geschichte des Ortes. Der Aufstieg zur Festung wird mit einem unvergleichlichen 360-Grad-Blick auf die roten Ziegeldächer von Prizren, das Tal des Flusses Lumbardhi und die Gipfel der Šar-Berge belohnt. Heute ist die Festung ein archäologischer Park und ein beliebter Veranstaltungsort, insbesondere während des Dokufest-Filmfestivals.",
-      hu: "A prizreni vár (Kalaja e Prizrenit) a város fölé magasodó dombon trónol, őrködve a macskaköves utcák és a vörös cserepes háztetők felett. Ez a monumentális erődítmény az ókortól kezdve stratégiai fontosságú pont volt. A régészeti leletek tanúsága szerint már az illírek idején is erődítmény állt itt, majd a rómaiak, a bizánciak, a szerbek és az oszmánok is birtokolták és folyamatosan bővítették. A vár mai formája nagyrészt a középkori és oszmán kori átépítések eredménye. A fellegvárból lélegzetelállító, 360 fokos panoráma nyílik Prizrenre, a Lumbardhi folyó völgyére és a Šar-hegység vonulataira. A vár területe ma régészeti parkként működik, ahol a látogatók felfedezhetik a különböző korokból származó falmaradványokat, tornyokat és épületeket, és bepillantást nyerhetnek a régió viharos történelmébe.",
-      ro: "Cetatea Prizren (Kalaja e Prizrenit) tronează pe un deal deasupra orașului, veghind asupra străzilor pietruite și a acoperișurilor de țiglă roșie. Această fortificație monumentală a fost un punct strategic încă din antichitate. Descoperirile arheologice atestă existența unei fortificații aici încă din vremea ilirilor, fiind ulterior deținută și extinsă continuu de romani, bizantini, sârbi și otomani. Forma actuală a cetății este în mare parte rezultatul reconstrucțiilor medievale și otomane. De pe citadelă se deschide o panoramă uluitoare de 360 de grade asupra Prizrenului, a văii râului Lumbardhi și a lanțului Munților Šar. Astăzi, zona cetății funcționează ca un parc arheologic, unde vizitatorii pot explora ruinele zidurilor, turnurilor și clădirilor din diferite epoci și pot arunca o privire în istoria zbuciumată a regiunii.",
-      en: ""
+      de: "Die Festung Kalaja thront majestätisch über Prizren und blickt auf eine jahrtausendealte Geschichte zurück. Von illyrischen Ursprüngen über byzantinische und serbische Herrschaft bis hin zum osmanischen Ausbau hat sie viele Epochen überdauert. Heute bieten die Ruinen einen der spektakulärsten Aussichtspunkte des Balkans, der Prizren und das Tal in ein einzigartiges Licht rückt. Als archäologischer Park und Veranstaltungsort ist sie ein unverzichtbarer Teil jedes Stadtbesuchs. Geschichte K8 – Festungsbau.",
+      hu: "A prizreni vár (Kalaja e Prizrenit) a város fölé magasodó dombon trónol, őrködve a macskaköves utcák felett. Ez a monumentális erődítmény az ókortól kezdve stratégiai fontosságú pont volt. A régészeti leletek tanúsága szerint már az illírek idején is erődítmény állt itt, majd a rómaiak, a bizánciak, a szerbek és az oszmánok is birtokolták. A vár mai formája nagyrészt a középkori átépítések eredménye. A fellegvárból lélegzetelállító, 360 fokos panoráma nyílik Prizrenre, a Lumbardhi folyó völgyére és a Šar-hegység vonulataira. A vár területe ma régészeti parkként működik, ahol a látogatók felfedezhetik a különböző korokból származó falmaradványokat, és bepillantást nyerhetnek a régió viharos történelmébe. Történelem K8 – erődítmények.",
+      ro: "Cetatea Kalaja se înalță maiestuos deasupra orașului Prizren, având o istorie care se întinde pe mii de ani. De la originile ilire, trecând prin stăpânirea bizantină și sârbă, până la extinderea otomană, cetatea a supraviețuit multor epoci. Astăzi, ruinele oferă unul dintre cele mai spectaculoase puncte de observație din Balcani, care pune orașul Prizren și valea într-o lumină unică. Ca parc arheologic și loc de desfășurare a evenimentelor, cetatea este o parte esențială a oricărei vizite în oraș. Istorie K8 – Construcții fortificate.",
+      en: "The Prizren Fortress, known locally as Kalaja, stands majestically over the city, with roots that reach back thousands of years. Having served a strategic purpose since the Illyrian era, the site has been shaped by Byzantine, Serbian, and Ottoman rulers alike. Today, the ruins represent one of the most spectacular vantage points in the Balkans, offering a commanding view of Prizren and the surrounding valley. As both an archaeological park and a dynamic event space, the fortress is an indispensable part of the Prizren experience, connecting visitors to the multi-layered history of the region. History K8 – Fortified structures."
     },
     factsAdvanced: {
       de: [
-        "Die frühesten archäologischen Funde auf dem Festungshügel stammen aus der frühen Eisenzeit.",
-        "Die Festung war eine wichtige Residenz der serbischen Nemanjić-Dynastie im Mittelalter.",
-        "Die Osmanen eroberten die Festung im 15. Jahrhundert und bauten sie erheblich aus.",
-        "Bis Anfang des 20. Jahrhunderts hatte die Festung eine militärische Funktion.",
-        "Innerhalb der Mauern befanden sich einst Moscheen, Kirchen, Kasernen und Wohngebäude.",
-        "Die Mauern sind an manchen Stellen bis zu 3 Meter dick.",
-        "Ein steiler, aber charmanter Kopfsteinpflasterweg führt von der Altstadt hinauf zur Festung.",
-        "Die Festung ist rund um die Uhr für Besucher geöffnet und bietet besonders bei Sonnenuntergang eine magische Atmosphäre."
+        "Die Anlage ist ein bedeutendes archäologisches Denkmal.",
+        "Vom Gipfel genießt man einen 360-Grad-Blick über die Stadt.",
+        "Sie diente bis ins 20. Jahrhundert als militärischer Außenposten.",
+        "Die Festungsmauern sind an strategischen Stellen bis zu 3 Meter dick.",
+        "Während des Dokufests dient sie als spektakuläre Kinokulisse."
       ],
       hu: [
         "A vár területe három fő részre oszlik: az alsó várra, a felső várra és a déli kiterjesztésre.",
         "A falakon belül egykor mecset, templomok, laktanyák és lakóépületek is álltak.",
         "A legkorábbi régészeti leletek a kora vaskorból származnak.",
-        "A vár a középkori Szerb Királyság idején a Nemanjić-dinasztia egyik fontos székhelye volt.",
+        "A vár a középkori Szerb Királyság idején a Nemanjić-dinasztia fontos székhelye volt.",
         "Az oszmánok a 15. században hódították meg és építették át jelentősen.",
         "A 20. század elejéig katonai funkciót töltött be.",
         "A Dokufest filmfesztivál idején a várban is tartanak vetítéseket.",
         "A várhoz egy meredek, de hangulatos macskaköves út vezet fel az óvárosból."
       ],
       ro: [
-        "Zona cetății este împărțită în trei părți principale: Cetatea de Jos, Cetatea de Sus și extensia sudică.",
-        "În interiorul zidurilor existau odinioară o moschee, biserici, cazărmi și clădiri rezidențiale.",
-        "Cele mai vechi descoperiri arheologice datează din prima epocă a fierului.",
-        "În timpul Regatului Sârb medieval, cetatea a fost o reședință importantă a dinastiei Nemanjić.",
-        "Otomanii au cucerit-o în secolul al XV-lea și au reconstruit-o în mod semnificativ.",
-        "A avut o funcție militară până la începutul secolului al XX-lea.",
-        "În timpul festivalului de film Dokufest, în cetate au loc proiecții de film.",
-        "Un drum pietruit abrupt, dar plin de farmec, duce la cetate din orașul vechi."
+        "Complexul este un monument arheologic semnificativ.",
+        "De pe vârf se poate admira o vedere panoramică de 360 de grade asupra orașului.",
+        "A servit drept avanpost militar până în secolul al XX-lea.",
+        "Zidurile cetății au o grosime de până la 3 metri în punctele strategice.",
+        "În timpul festivalului Dokufest, cetatea servește drept decor cinematografic spectaculos."
       ],
-      en: []
+      en: [
+        "The site is a major archaeological landmark with ruins spanning several historical eras.",
+        "Visitors can enjoy a commanding 360-degree panorama of the city and valley from the summit.",
+        "The fortress functioned as a continuously active military outpost until the 20th century.",
+        "Fortification walls reach up to 3 meters in thickness in key strategic sections.",
+        "It serves as a dramatic and atmospheric venue for cinema screenings during the annual Dokufest."
+      ]
     }
   },
   // XK-005: Gnjilane
@@ -481,21 +487,18 @@ export const kosovoPois: POI[] = [
       en: ["Known for its hospitality.", "Important transport hub.", "Seat of several universities."]
     },
     descriptionAdvanced: {
-      de: "Gjilan, das administrative und wirtschaftliche Zentrum der Region Anamorava im Osten des Kosovo, ist eine dynamische und moderne Stadt. Sie liegt in einer fruchtbaren Ebene und ist ein wichtiger Verkehrsknotenpunkt auf der Route zwischen Pristina und dem Preševo-Tal in Südserbien. Obwohl Gjilan nicht den historischen Reichtum von Prizren aufweist, hat es sich zu einer lebhaften Stadt mit regem Handel und einem pulsierenden sozialen Leben entwickelt. Das Stadtzentrum ist von breiten Boulevards und modernen Gebäuden geprägt, doch finden sich auch noch Spuren der osmanischen Vergangenheit. Gjilan ist eine multikulturelle Stadt, in der neben der albanischen Mehrheit auch serbische und Roma-Gemeinschaften leben. Die Stadt beherbergt mehrere Hochschuleinrichtungen und ist bekannt für ihre lebendige Café-Kultur und die Gastfreundschaft ihrer Einwohner.",
-      hu: "Gjilan (szerbül Gnjilane) Koszovó keleti részének, az Anamorava régiónak a gazdasági és adminisztratív központja. A város a Morava e Binçës folyó mentén, termékeny síkságon terül el, és fontos közlekedési csomópont a Pristina és a dél-szerbiai Preševo-völgy közötti útvonalon. Bár nem rendelkezik Prizrenhez hasonló gazdag történelmi örökséggel, Gjilan egy dinamikusan fejlődő, modern város, élénk kereskedelemmel és pezsgő társadalmi élettel. A város központját a széles sugárutak és modern épületek jellemzik, de megtalálhatók a régi, oszmán stílusú házak is. Gjilan multikulturális város, ahol az albán többség mellett szerb és roma közösségek is élnek. A város otthont ad több felsőoktatási intézménynek és ismert a helyiek vendégszeretetéről, valamint a nyüzsgő kávézóiról és éttermeiről.",
-      ro: "Gjilan (în sârbă Gnjilane) este centrul economic și administrativ al regiunii Anamorava din estul Kosovo. Orașul este situat pe o câmpie fertilă de-a lungul râului Morava e Binçës și este un nod de transport important pe ruta dintre Pristina și Valea Preševo din sudul Serbiei. Deși nu are un patrimoniu istoric la fel de bogat ca Prizren, Gjilan este un oraș modern, în dezvoltare dinamică, cu un comerț activ și o viață socială vibrantă. Centrul orașului este caracterizat de bulevarde largi și clădiri moderne, dar se pot găsi și case vechi în stil otoman. Gjilan este un oraș multicultural, cu o majoritate albaneză și comunități de sârbi și romi. Orașul găzduiește mai multe instituții de învățământ superior și este cunoscut pentru ospitalitatea localnicilor, precum și pentru cafenelele și restaurantele sale pline de viață.",
-      en: ""
+      de: "Gjilan ist eine pulsierende Stadt im Osten des Kosovo und fungiert als wirtschaftlicher Motor der Anamorava-Region. Mit ihren breiten Boulevards und dem regen Handel bietet sie einen starken Kontrast zu den historischen Städten im Westen. Die Stadt ist ein multikultureller Schmelztiegel und bekannt für ihre lebendige Café-Kultur und gastfreundlichen Bewohner. Als Knotenpunkt zwischen Pristina und Südserbien spielt sie eine zentrale Rolle in der regionalen Entwicklung. Geographie K8 – Wirtschaftsregionen.",
+      hu: "Gjilan (szerbül Gnjilane) Koszovó keleti részének, az Anamorava régiónak a gazdasági és adminisztratív központja. A város a Morava e Binçës folyó mentén, termékeny síkságon terül el, és fontos közlekedési csomópont a Pristina és a dél-szerbiai Preševo-völgy közötti útvonalon. Bár nem rendelkezik Prizrenhez hasonló gazdag történelmi örökséggel, Gjilan egy dinamikusan fejlődő, modern város, élénk kereskedelemmel és pezsgő társadalmi élettel. A város központját a széles sugárutak és modern épületek jellemzik, de megtalálhatók a régi, oszmán stílusú házak is. Gjilan multikulturális város, ahol az albán többség mellett szerb és roma közösségek is élnek. A város otthont ad több felsőoktatási intézménynek. Földrajz K8 – gazdasági régiók.",
+      ro: "Gjilan este un oraș vibrant în estul Kosovo, servind ca motor economic al regiunii Anamorava. Cu bulevardele sale largi și comerțul intens, oferă un contrast puternic față de orașele istorice din vest. Gjilan este un creuzet multicultural, renumit pentru cultura sa vibrantă a cafenelelor și ospitalitatea locuitorilor săi. Ca nod de transport între Pristina și sudul Serbiei, joacă un rol central în dezvoltarea regională. Orașul găzduiește mai multe instituții de învățământ superior și este un punct cheie pentru activitățile comerciale și sociale. Geografie K8 – Regiuni economice.",
+      en: "Gjilan is a bustling city in eastern Kosovo, serving as the primary economic and administrative driver for the Anamorava region. Characterized by wide boulevards and a high-tempo trading environment, it offers a distinct contrast to the more historically preserved cities in the west. The city stands as a vibrant multicultural crossroads, widely celebrated for its lively café culture and exceptionally hospitable residents. Situated as a strategic transport hub between Pristina and neighboring regions, Gjilan plays a pivotal role in the ongoing regional economic development, while also hosting several key higher education institutions. Geography K8 – Economic regions and modern urban growth."
     },
     factsAdvanced: {
       de: [
-        "Die Stadt wurde in der zweiten Hälfte des 18. Jahrhunderts von der einflussreichen albanischen Familie Gjinolli gegründet.",
-        "Gjilan ist das Handelszentrum für die umliegenden landwirtschaftlichen Gebiete.",
-        "Jedes Jahr im Januar findet hier das große Kulturfestival 'Flaka e Janarit' (Flamme des Januars) statt.",
-        "Das Stadttheater von Gjilan ist eine der aktivsten kulturellen Institutionen des Landes.",
-        "In der Nähe der Stadt befinden sich die Ruinen der mittelalterlichen Festung Pogragja.",
-        "Die Region ist historisch für den Anbau von hochwertigem Tabak bekannt.",
-        "Die beiden lokalen Fußballvereine, KF Gjilani und KF Drita, pflegen eine der intensivsten Rivalitäten im kosovarischen Fußball.",
-        "Die Stadt hat eine starke Diaspora-Gemeinschaft, die zur wirtschaftlichen Entwicklung beiträgt."
+        "Gegründet im 18. Jahrhundert durch die einflussreiche Familie Gjinolli.",
+        "Das Kulturfestival 'Flaka e Janarit' ist ein Höhepunkt im Veranstaltungskalender.",
+        "Gjilan ist ein wichtiger Umschlagplatz für landwirtschaftliche Produkte.",
+        "Die Stadt beherbergt bedeutende Hochschuleinrichtungen.",
+        "Das Stadtbild ist eine Mischung aus modernem Ausbau und osmanischen Spuren."
       ],
       hu: [
         "A várost a 18. század második felében alapította a Gjinolli család, egy befolyásos albán földesúri família.",
@@ -505,19 +508,22 @@ export const kosovoPois: POI[] = [
         "A község területén található a Pogragja vára, egy középkori erődítmény romjai.",
         "A környék híres a minőségi dohánytermesztésről.",
         "Gjilanban jelentős a textil- és élelmiszeripar.",
-        "A város sportélete is élénk, a KF Gjilani és a KF Drita a koszovói labdarúgó-bajnokság élvonalában szerepel."
+        "A város sportélete is élénk, a helyi labdarúgóklubok a bajnokság élvonalában szerepelnek."
       ],
       ro: [
-        "Orașul a fost fondat în a doua jumătate a secolului al XVIII-lea de către familia Gjinolli, o influentă familie de moșieri albanezi.",
-        "Gjilan este centrul comercial pentru zonele agricole înconjurătoare.",
-        "Orașul găzduiește Flaka e Janarit, un important festival cultural organizat în fiecare ianuarie.",
-        "Teatrul orașului este una dintre cele mai active instituții culturale din țară.",
-        "Pe teritoriul municipalității se află Cetatea Pogragja, ruinele unei fortificații medievale.",
-        "Zona este renumită pentru cultivarea tutunului de înaltă calitate.",
-        "În Gjilan există o industrie textilă și alimentară semnificativă.",
-        "Viața sportivă a orașului este, de asemenea, vibrantă, cu cluburile KF Gjilani și KF Drita concurând în prima ligă de fotbal din Kosovo."
+        "Fondat în secolul al XVIII-lea de influenta familie Gjinolli.",
+        "Festivalul cultural 'Flaka e Janarit' este un punct culminant în calendarul evenimentelor.",
+        "Gjilan este un centru important de tranzit pentru produsele agricole.",
+        "Orașul găzduiește instituții de învățământ superior semnificative.",
+        "Aspectul urban este un amestec de dezvoltare modernă și urme otomane."
       ],
-      en: []
+      en: [
+        "The city was founded in the 18th century by the influential Gjinolli family.",
+        "The cultural festival 'Flaka e Janarit', held annually in January, is a major community highlight.",
+        "Gjilan serves as a primary hub for the distribution and trade of local agricultural products.",
+        "It hosts several significant higher education institutions, fostering regional talent.",
+        "The cityscape reflects a harmonious blend of rapid modern development and lingering Ottoman influences."
+      ]
     }
   },
   {
@@ -531,55 +537,46 @@ export const kosovoPois: POI[] = [
       en: ["Built in the 14th century.", "Served to protect trade routes.", "Strategically located on a hill."]
     },
     descriptionAdvanced: {
-      de: "Die Burg Pogragja (Kalaja e Pogragjës) liegt etwa 10 Kilometer südöstlich von Gjilan auf einem strategisch wichtigen Hügel auf 567 Metern Höhe. Die Festung wurde wahrscheinlich im 6. Jahrhundert während der byzantinischen Zeit erbaut, um die Handelsrouten zu schützen, die zur wohlhabenden Minenstadt Novo Brdo führten, und wurde im Mittelalter weiter ausgebaut. Obwohl heute nur noch Ruinen erhalten sind, zeugen die verbliebenen Mauern und Turmreste von ihrer einstigen Stärke. Die oval angelegte Festung bietet einen herrlichen Ausblick auf das umliegende Anamorava-Tal. Die Ruinen sind ein beliebtes Ausflugsziel für Einheimische und geschichtsinteressierte Touristen, die nach einer kurzen Wanderung die historische Atmosphäre und die weite Aussicht genießen können.",
-      hu: "Pogragja vára (Kalaja e Pogragjës) Gjilan városától mintegy 10 kilométerre délkeletre, egy stratégiai fontosságú, 567 méter magas domb tetején található. A vár a 14. században épült, és elsődleges feladata a Novo Brdo bányaváros felé vezető fontos kereskedelmi útvonalak ellenőrzése és védelme volt. Az erődítmény ovális alaprajzú, falait több torony erősítette. Bár ma már csak romos állapotban látható, a megmaradt falak és torony-maradványok is sejtetik egykori erejét és jelentőségét. A várból csodálatos kilátás nyílik a környező Anamorava-völgyre. A helyszín népszerű kirándulóhely a helyiek és a történelem iránt érdeklődő turisták körében, akik egy rövid túrával érhetik el a romokat és élvezhetik a panorámát és a történelmi atmoszférát.",
-      ro: "Cetatea Pogragja (Kalaja e Pogragjës) este situată la aproximativ 10 kilometri sud-est de orașul Gjilan, pe un deal strategic la 567 de metri înălțime. Cetatea a fost construită în secolul al XIV-lea, iar sarcina sa principală era de a controla și proteja rutele comerciale importante care duceau spre orașul minier Novo Brdo. Fortificația are un plan oval, cu ziduri întărite de mai multe turnuri. Deși astăzi se află în ruine, zidurile și rămășițele turnurilor care au supraviețuit încă sugerează puterea și importanța sa de odinioară. De la cetate se deschide o priveliște minunată asupra văii Anamorava din jur. Locul este o destinație populară pentru excursii printre localnici și turiștii interesați de istorie, care pot ajunge la ruine printr-o scurtă drumeție și se pot bucura de panoramă și de atmosfera istorică.",
-      en: ""
+      de: "Die Burg Pogragja thront auf einem markanten Hügel bei Gjilan und war einst ein strategisch wichtiger Punkt zur Sicherung der Handelswege zum Bergbauzentrum Novo Brdo. Die aus dem 14. Jahrhundert stammende Anlage war vermutlich bereits im 6. Jahrhundert byzantinisch begründet. Heute bieten die erhaltenen Mauern und Turmreste eine beeindruckende Sicht auf das Anamorava-Tal. Die Ruinen sind ein beliebtes Ziel für Wanderer, die Geschichte und Natur verbinden möchten. Geschichte K8 – Mittelalterliche Befestigungen.",
+      hu: "Pogragja vára (Kalaja e Pogragjës) Gjilan városától mintegy 10 kilométerre délkeletre, egy stratégiai fontosságú, 567 méter magas domb tetején található. A vár a 14. században épült, és elsődleges feladata a Novo Brdo bányaváros felé vezető fontos kereskedelmi útvonalak ellenőrzése és védelme volt. Az erődítmény ovális alaprajzú, falait több torony erősítette. Bár ma már csak romos állapotban látható, a megmaradt falak és torony-maradványok is sejtetik egykori erejét és jelentőségét. A várból csodálatos kilátás nyílik a környező Anamorava-völgyre. A helyszín népszerű kirándulóhely a történelem iránt érdeklődő turisták körében, akik egy rövid túrával érhetik el a romokat és élvezhetik a panorámát. Történelem K8 – középkori erődítmények.",
+      ro: "Cetatea Pogragja se înalță pe un deal proeminent lângă Gjilan, fiind odinioară un punct strategic esențial pentru securizarea rutelor comerciale către centrul minier Novo Brdo. Construită în secolul al XIV-lea, cetatea a avut probabil rădăcini bizantine încă din secolul al VI-lea. Astăzi, zidurile și resturile de turnuri păstrate oferă o vedere impresionantă asupra văii Anamorava. Ruinele sunt o destinație populară pentru drumeții care doresc să combine istoria cu natura. Istorie K8 – Fortificații medievale.",
+      en: "Pogragja Castle stands majestically atop a prominent hill near Gjilan, historically serving as a critical strategic point for securing the trade routes leading toward the major mining center of Novo Brdo. The current structure dates back to the 14th century, though its foundations are believed to have Byzantine origins reaching as far back as the 6th century. Today, the surviving walls and remnants of the defensive towers offer a captivating view over the expansive Anamorava valley. The site is a popular destination for hikers and history enthusiasts who wish to experience the intersection of medieval military architecture and the natural beauty of the region. History K8 – Medieval fortifications and defensive architecture."
     },
     factsAdvanced: {
       de: [
-        "Archäologische Funde deuten auf eine Gründung im 6. Jahrhundert unter Kaiser Justinian I. hin.",
-        "Die Mauern der Festung sind an einigen Stellen bis zu 2 Meter dick.",
-        "Bei Ausgrabungen wurden Keramikfragmente und verschiedene Werkzeuge gefunden.",
-        "Die Festung war Teil des Verteidigungssystems des mittelalterlichen serbischen Staates und später des Osmanischen Reiches.",
-        "Eine lokale Legende besagt, dass die Burg von Feen in einer einzigen Nacht erbaut wurde.",
-        "Die Ruinen sind frei zugänglich und bieten eine großartige Gelegenheit, Geschichte und Natur zu verbinden.",
-        "Der Hügel, auf dem die Burg steht, ist vom nahegelegenen Dorf aus leicht zu erreichen.",
-        "Die strategische Lage ermöglichte die Kontrolle über ein weites Gebiet."
+        "Die Festung kontrollierte die Routen zum wichtigen Minenzentrum Novo Brdo.",
+        "Der Ort war bereits seit dem 6. Jahrhundert byzantinisch besiedelt.",
+        "Die dicken Steinmauern zeugen von der einstigen militärischen Stärke.",
+        "Archäologische Funde belegen eine wechselvolle Geschichte über verschiedene Epochen.",
+        "Die Ruinen sind ein beliebtes Ziel für naturverbundene Wanderungen."
       ],
       hu: [
-        "A várat valószínűleg a Bizánci Birodalom idején, a 6. században alapították, és a középkorban építették újjá.",
+        "A várat valószínűleg a Bizánci Birodalom idején alapították, és a középkorban építették újjá.",
         "A falak vastagsága helyenként eléri a 2 métert.",
         "A régészeti feltárások során kerámiatöredékeket és különböző használati tárgyakat találtak.",
-        "A vár a középkori szerb állam, majd az Oszmán Birodalom védelmi rendszerének is része volt.",
+        "A vár a középkori szerb állam, majd az Oszmán Birodalom védelmi rendszerének része volt.",
         "A legenda szerint a várat egyetlen éjszaka alatt építették tündérek.",
         "A várromok szabadon látogathatók.",
         "A domb, amelyen a vár áll, könnyen megközelíthető a közeli faluból.",
         "A helyszín kiváló lehetőséget nyújt a történelem és a természetjárás összekapcsolására."
       ],
       ro: [
-        "Cetatea a fost probabil fondată în timpul Imperiului Bizantin în secolul al VI-lea și reconstruită în Evul Mediu.",
-        "Grosimea zidurilor atinge pe alocuri 2 metri.",
-        "În timpul săpăturilor arheologice au fost găsite fragmente ceramice și diverse unelte.",
-        "Cetatea a făcut parte din sistemul defensiv al statului sârb medieval și, mai târziu, al Imperiului Otoman.",
-        "O legendă locală spune că cetatea a fost construită într-o singură noapte de către zâne.",
-        "Ruinele cetății pot fi vizitate liber.",
-        "Dealul pe care se află cetatea este ușor accesibil din satul din apropiere.",
-        "Locația oferă o oportunitate excelentă de a combina istoria cu drumețiile în natură."
+        "Cetatea controla rutele către importantul centru minier Novo Brdo.",
+        "Locul a fost locuit încă din secolul al VI-lea, având origini bizantine.",
+        "Zidurile groase de piatră mărturisesc despre forța sa militară de odinioară.",
+        "Descoperirile arheologice atestă o istorie tumultuoasă de-a lungul diferitelor epoci.",
+        "Ruinele sunt o destinație populară pentru drumeții în natură."
       ],
-      en: []
+      en: [
+        "The fortress was vital for controlling the trade routes to the major regional mining center of Novo Brdo.",
+        "The site features archaeological evidence of occupation dating back to the Byzantine 6th century.",
+        "The remarkably thick stone walls stand as a testament to the structure's once significant military power.",
+        "Archaeological findings reveal a rich and layered history spanning multiple distinct historical epochs.",
+        "The ruins provide a scenic destination, blending historic exploration with the tranquil beauty of a nature hike."
+      ]
     }
   }
-]
-.map(p => {
-    if(p.id.startsWith("xk-")) {
-        // @ts-ignore
-        p.descriptionAdvanced = p.descriptionAdvanced || { de: "", hu: "", ro: "", en: "" };
-        // @ts-ignore
-        p.factsAdvanced = p.factsAdvanced || { de: [], hu: [], ro: [], en: [] };
-    }
-    return p;
-});
+];
 
 export const kosovoAllPoi: POI[] = [
   kosovoCountry,

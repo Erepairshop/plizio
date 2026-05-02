@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ES",
+    "descriptionAdvanced": "Spain is a captivating country situated on the Iberian Peninsula in southwestern Europe, known for its diverse landscapes that range from sun-drenched beaches to snow-capped mountains. Its profound historical heritage is reflected in an array of architectural marvels left behind by Romans, Moors, and monarchs. The country boasts a vibrant culture celebrated through fiery flamenco dancing, energetic festivals, and world-renowned culinary traditions like tapas and paella. As a modern European nation, Spain beautifully balances its deeply rooted regional identities with contemporary artistic and economic developments.",
+    "factsAdvanced": [
+      "Spain is the second-largest country in the European Union by area, covering approximately 505,990 square kilometers.",
+      "The country is home to 50 UNESCO World Heritage Sites, ranking among the highest globally.",
+      "Spanish is the official language, though regional languages like Catalan, Galician, and Basque hold co-official status."
+    ]
+  },
+  {
+    "id": "ES-GA",
+    "descriptionAdvanced": "Galicia is an autonomous community in the northwest corner of Spain, distinctly characterized by its lush green landscapes, rugged coastline, and deep rías (coastal inlets). Unlike the typical sunny image of Spain, Galicia shares a stronger Celtic heritage, which resonates in its traditional music featuring the gaita (bagpipes) and local folklore. The region is famously the ultimate destination of the Camino de Santiago pilgrimage, drawing millions of walkers to its historic capital. Galician cuisine is highly celebrated, particularly for its exceptional seafood sourced from the Atlantic Ocean.",
+    "factsAdvanced": [
+      "Galicia's capital is Santiago de Compostela, renowned worldwide for its majestic cathedral.",
+      "The region boasts over 1,498 kilometers of coastline along the Atlantic Ocean and the Cantabrian Sea.",
+      "Galician (Galego) is spoken by the majority of the population and shares close linguistic ties with Portuguese."
+    ]
+  },
+  {
+    "id": "ES-AS",
+    "descriptionAdvanced": "Asturias, officially a principality on Spain's northern coast, is a breathtaking region defined by its dramatic Picos de Europa mountain range and scenic Cantabrian Sea coastline. Historically significant as a Christian stronghold during the Moorish conquest, it is often considered the cradle of the Spanish Reconquista. The region has preserved its strong rural traditions and is renowned for its distinct natural cider (sidra) pouring rituals and hearty cuisine. With vast protected natural spaces, Asturias is a haven for nature lovers and outdoor enthusiasts seeking pristine landscapes.",
+    "factsAdvanced": [
+      "The Battle of Covadonga in 722 AD, which took place in Asturias, marked the beginning of the Spanish Reconquista.",
+      "About one-third of Asturias's territory is environmentally protected, earning it the nickname 'Natural Paradise'.",
+      "Traditional Asturian cider is uniquely poured from a height to aerate the liquid before drinking."
+    ]
+  },
+  {
+    "id": "ES-CB",
+    "descriptionAdvanced": "Cantabria is a lush coastal region in northern Spain that perfectly combines towering mountain peaks with spectacular sandy beaches along the Bay of Biscay. The region is internationally acclaimed for its wealth of prehistoric heritage, most notably the remarkably preserved cave paintings. Inland, the landscape is dotted with charming medieval villages, rolling green valleys, and a portion of the majestic Picos de Europa National Park. Cantabria offers a tranquil atmosphere that strongly appeals to those interested in nature, history, and excellent regional gastronomy.",
+    "factsAdvanced": [
+      "The Altamira Cave in Cantabria features paleolithic paintings that are over 14,000 years old.",
+      "Cantabria's capital, Santander, is a historic port city that became a favored summer retreat for Spanish royalty in the 19th century.",
+      "The region is home to El Soplao, a cave system famous for its extraordinary formations of eccentric helictites."
+    ]
+  },
+  {
+    "id": "ES-PV",
+    "descriptionAdvanced": "The Basque Country is a fiercely independent-minded autonomous community in northern Spain, distinguished by its unique culture and ancient, isolated language. The region boasts a stunning geographical contrast between lush green mountains and a rugged, surfing-friendly coastline on the Bay of Biscay. It has evolved into a global culinary powerhouse, famous for its pintxos bars and high concentration of Michelin-starred restaurants. Alongside its strong traditions, the Basque Country is an industrial and artistic hub, beautifully showcased by modern architectural landmarks.",
+    "factsAdvanced": [
+      "The Basque language, Euskara, is a language isolate with no known linguistic relatives in the world.",
+      "San Sebastián, a major Basque city, has one of the highest numbers of Michelin stars per capita globally.",
+      "The Guggenheim Museum in Bilbao, designed by Frank Gehry and opened in 1997, revolutionized the region's cultural landscape."
+    ]
+  },
+  {
+    "id": "ES-NC",
+    "descriptionAdvanced": "Navarre is a historically rich region in northern Spain that transitions dramatically from the towering Pyrenees mountains in the north to the fertile Ebro river valley in the south. For centuries, it existed as an independent kingdom, and this storied past is visible in its numerous castles, medieval towns, and important waypoints along the Camino de Santiago. The region is internationally famous for its lively festivals, deeply rooted in tradition and folklore. Navarrese cuisine is highly regarded, especially for its high-quality vegetables like asparagus and piquillo peppers.",
+    "factsAdvanced": [
+      "Pamplona, the capital of Navarre, hosts the world-famous San Fermín festival every July, known for the Running of the Bulls.",
+      "The Kingdom of Navarre remained an independent entity until it was absorbed into the Spanish Crown in 1512.",
+      "The Bardenas Reales is a striking semi-desert natural park in southeastern Navarre, featuring unique badlands formations."
+    ]
+  },
+  {
+    "id": "ES-RI",
+    "descriptionAdvanced": "La Rioja is a small but globally recognized autonomous community in northern Spain, intrinsically linked to the production of some of the country's finest wines. Nestled in the Ebro River Valley, the region is characterized by endless rolling vineyards and historic, sun-baked winery estates known as bodegas. Beyond its viticulture, La Rioja is steeped in history, featuring ancient monasteries that played a crucial role in the development of the written Spanish language. The area offers a slow-paced, deeply traditional lifestyle focused on agriculture, gastronomy, and hospitality.",
+    "factsAdvanced": [
+      "La Rioja is Spain's most famous wine region, with over 500 wineries producing predominantly red wines from Tempranillo grapes.",
+      "The monasteries of San Millán de la Cogolla are UNESCO World Heritage sites where the earliest known written words in Spanish were discovered.",
+      "Despite its fame, La Rioja is the second smallest autonomous community in Spain by area, after the Balearic Islands."
+    ]
+  },
+  {
+    "id": "ES-AR",
+    "descriptionAdvanced": "Aragon is an expansive, landlocked region in northeastern Spain that stretches from the high peaks of the central Pyrenees down to the arid plains of the Ebro basin. Once a powerful medieval kingdom that controlled large swathes of the Mediterranean, its history is etched into imposing castles and splendid Mudéjar architecture. The region offers dramatic natural contrasts, providing excellent opportunities for skiing in the north and exploring striking, desolate landscapes in the south. Aragon maintains a distinct cultural identity, celebrated through its traditional jota music and dance.",
+    "factsAdvanced": [
+      "The Crown of Aragon was a formidable maritime power in the 14th and 15th centuries, ruling territories as far as Southern Italy and Greece.",
+      "Zaragoza's Basilica of Our Lady of the Pillar is a masterpiece of Baroque architecture and a major Catholic pilgrimage site.",
+      "Aragon's Mudéjar architecture, a unique blend of Islamic and Christian artistic styles, is recognized as a UNESCO World Heritage site."
+    ]
+  },
+  {
+    "id": "ES-CT",
+    "descriptionAdvanced": "Catalonia is a vibrant and fiercely proud autonomous community in northeastern Spain, bordered by France and the Mediterranean Sea. It possesses a distinct identity rooted in the Catalan language, unique cultural traditions, and a dynamic history of commerce and industry. The region is a treasure trove of art and architecture, most notably the whimsical modernist creations of Antoni Gaudí and the surrealist legacy of Salvador Dalí. From the stunning beaches of the Costa Brava to the soaring Pyrenees, Catalonia offers unparalleled geographical and cultural diversity.",
+    "factsAdvanced": [
+      "Catalan is co-official with Spanish and is the primary language used in the region's schools and local government.",
+      "The region boasts one of the strongest economies in Spain, driven by industry, tourism, and a thriving tech sector.",
+      "Human towers, known as 'castells', are a traditional Catalan cultural practice recognized by UNESCO as Intangible Cultural Heritage."
+    ]
+  },
+  {
+    "id": "ES-CL",
+    "descriptionAdvanced": "Castile and León is the largest autonomous community in Spain, encompassing a vast, elevated plateau surrounded by formidable mountain ranges in the country's northwest. It is considered the historic heartland of Spain, where the Spanish language originated and where the union of the crowns shaped the modern nation. The landscape is dotted with magnificent Gothic cathedrals, formidable medieval castles, and exquisitely preserved historic cities. This profoundly traditional region is also known for its hearty cuisine, featuring excellent roasted meats and fine regional wines.",
+    "factsAdvanced": [
+      "Castile and León covers over 94,000 square kilometers, making it the largest region in Spain and one of the largest in the European Union.",
+      "The region contains more than 300 medieval castles, a testament to its historical role as a borderland during the Reconquista.",
+      "The University of Salamanca, founded in 1218, is the oldest university in Spain and one of the oldest continuous universities in Europe."
+    ]
+  },
+  {
+    "id": "ES-MD",
+    "descriptionAdvanced": "The Community of Madrid is a dynamic, centrally located autonomous region that encompasses Spain's bustling capital city and its surrounding metropolitan and rural areas. It serves as the political, economic, and cultural epicenter of the country, drawing people from all over Spain and the world. Beyond the metropolitan sprawl, the region features beautiful mountainous landscapes in the Sierra de Guadarrama and significant historical royal estates. Madrid seamlessly blends an intense, modern urban lifestyle with centuries-old traditions and world-class artistic heritage.",
+    "factsAdvanced": [
+      "The Community of Madrid is the most densely populated region in Spain, home to nearly 7 million residents.",
+      "The region hosts the 'Golden Triangle of Art', which includes the Prado, Reina Sofía, and Thyssen-Bornemisza museums.",
+      "San Lorenzo de El Escorial, a historical residence of the King of Spain located in the region, is a massive 16th-century architectural complex."
+    ]
+  },
+  {
+    "id": "ES-CM",
+    "descriptionAdvanced": "Castilla-La Mancha is a vast, sparsely populated plateau in central Spain, eternally immortalized by Miguel de Cervantes in his masterpiece, Don Quixote. The region's iconic landscape features endless plains, rolling hills, and the historic windmills that inspired the famous literary tale. It is a land of deep historical significance, having served as a cultural crossroads for Christians, Muslims, and Jews over the centuries. Today, it remains deeply agricultural, producing exceptional Manchego cheese, high-quality olive oil, and vast quantities of wine.",
+    "factsAdvanced": [
+      "Castilla-La Mancha is the largest wine-producing region in the world by continuous vineyard area.",
+      "The historic city of Toledo, the region's capital, is renowned for its history of religious tolerance and sword-making.",
+      "The traditional Manchego cheese must be made exclusively from the milk of the Manchega breed of sheep raised in this region."
+    ]
+  },
+  {
+    "id": "ES-EX",
+    "descriptionAdvanced": "Extremadura is a rugged, relatively undiscovered region in western Spain, bordering Portugal, characterized by its vast dehesas (oak forests) and profound historical legacy. It is famous as the birthplace of many Spanish conquistadors who set sail for the Americas in the 15th and 16th centuries. The region boasts exceptionally preserved Roman ruins, stunning medieval towns, and a rich biodiversity that makes it a premier destination for bird watching. Extremadura offers an authentic, untamed Spanish experience, deeply rooted in agriculture and traditional rural life.",
+    "factsAdvanced": [
+      "The city of Mérida contains some of the most impressive and extensive Roman ruins in all of Spain, including a well-preserved theater.",
+      "Extremadura is the primary source of Spain's legendary Jamón Ibérico de Bellota, made from acorn-fed Iberian pigs.",
+      "Famous explorers such as Francisco Pizarro and Hernán Cortés were born in Extremadura's historic towns."
+    ]
+  },
+  {
+    "id": "ES-VC",
+    "descriptionAdvanced": "The Valencian Community, stretching along the central-eastern coast of the Mediterranean Sea, is a sun-drenched region famous for its fertile agricultural plains and vibrant coastal resorts. It is internationally celebrated as the true birthplace of paella, Spain's most iconic culinary dish. The region offers a fascinating blend of historical architecture, particularly ancient silk exchanges, and cutting-edge modern science and arts complexes. Valencians are known for their passionate, outgoing nature, best exemplified in their spectacular, fire-filled traditional festivals.",
+    "factsAdvanced": [
+      "The traditional Paella Valenciana originates from the Albufera region and originally included ingredients like rabbit, chicken, and snails.",
+      "The Fallas festival in March involves the construction and subsequent burning of hundreds of massive, intricate satirical sculptures.",
+      "The region is a major exporter of citrus fruits, particularly oranges, which thrive in its mild Mediterranean climate."
+    ]
+  },
+  {
+    "id": "ES-AN",
+    "descriptionAdvanced": "Andalusia is Spain's southernmost mainland region, a sun-baked land that epitomizes many of the quintessential images associated with Spanish culture, from flamenco to bullfighting. Its profound Moorish heritage is interwoven into the fabric of its cities, leaving behind spectacular palaces and mosques that display breathtaking Islamic architecture. The landscape is incredibly diverse, encompassing long stretches of sunny coastline, fertile olive groves, and the soaring peaks of the Sierra Nevada. Andalusia possesses a fiery, passionate soul, reflected in its vibrant ferias, soulful music, and relaxed outdoor lifestyle.",
+    "factsAdvanced": [
+      "Andalusia was under Moorish rule longer than any other part of Spain, from 711 until the fall of Granada in 1492.",
+      "The region produces approximately 80% of Spain's olive oil, making it the world's largest producer of the 'liquid gold'.",
+      "The Sierra Nevada mountain range in Andalusia contains the highest point in continental Spain, the Mulhacén peak."
+    ]
+  },
+  {
+    "id": "ES-MU",
+    "descriptionAdvanced": "The Region of Murcia is a compact, sun-kissed autonomous community in southeastern Spain, nestled between Andalusia and the Valencian Community. Known as the 'Orchard of Europe', its fertile plains are heavily cultivated, producing a vast array of fruits and vegetables exported across the continent. The region boasts a beautiful, rugged coastline called the Costa Cálida, featuring the Mar Menor, one of Europe's largest saltwater lagoons. Murcia offers a relaxed pace of life, rich historical vestiges from Carthaginian times, and a distinct, flavorful local gastronomy.",
+    "factsAdvanced": [
+      "The Mar Menor is a coastal saltwater lagoon separated from the Mediterranean Sea by a 22-kilometer-long sandbar known as La Manga.",
+      "Cartagena, a major city in Murcia, was founded by the Carthaginian general Hasdrubal the Fair in 227 BC.",
+      "Murcia's highly productive agriculture relies on a complex system of irrigation dating back to the Moorish occupation."
+    ]
+  },
+  {
+    "id": "ES-IB",
+    "descriptionAdvanced": "The Balearic Islands are an alluring archipelago situated in the western Mediterranean Sea, renowned worldwide for their stunning coves, crystal-clear waters, and idyllic climate. While famous for hosting some of the globe's most vibrant nightlife and luxury tourism, the islands also harbor a tranquil, deeply traditional side with charming rural villages and historic stone architecture. Each island possesses its own unique character, from bustling international hubs to serene, protected natural biospheres. The region is a top Mediterranean destination, offering a perfect blend of lively entertainment and pristine natural beauty.",
+    "factsAdvanced": [
+      "The four major islands making up the archipelago are Mallorca, Menorca, Ibiza, and Formentera.",
+      "The local language is Catalan, spoken in distinct regional dialects such as Mallorquí and Eivissenc.",
+      "The Tramuntana mountain range in Mallorca was awarded World Heritage Status by UNESCO for its physical and cultural significance."
+    ]
+  },
+  {
+    "id": "ES-CN",
+    "descriptionAdvanced": "The Canary Islands are a spectacular Spanish archipelago located in the Atlantic Ocean off the northwestern coast of Africa. Forged by ancient volcanic activity, the islands feature an astonishing diversity of landscapes, ranging from lunar-like volcanic deserts and lush subtropical forests to towering peaks and black sand beaches. Known for their 'eternal spring', the islands offer a mild, pleasant climate year-round, making them a haven for nature lovers and sun-seekers alike. The Canarian culture is a unique blend of Spanish, African, and Latin American influences, shaped by their historical role as a maritime crossroads.",
+    "factsAdvanced": [
+      "Mount Teide on the island of Tenerife is the highest mountain in Spain, rising 3,715 meters above sea level.",
+      "The archipelago consists of eight main inhabited islands: Tenerife, Fuerteventura, Gran Canaria, Lanzarote, La Palma, La Gomera, El Hierro, and La Graciosa.",
+      "The native inhabitants of the islands, the Guanches, lived there before the Castilian conquest in the 15th century."
+    ]
+  },
+  {
+    "id": "es-madrid",
+    "descriptionAdvanced": "Madrid, the vibrant capital of Spain, is a majestic city known for its elegant boulevards, expansive, manicured parks, and an unparalleled wealth of European art. Situated geographically in the center of the Iberian Peninsula, it serves as the political, economic, and cultural heart of the nation. The city seamlessly combines centuries of history, evident in its grandiose royal palaces and historic plazas, with a modern, dynamic atmosphere. Madrid is world-famous for its late-night culture, where bustling tapas bars and lively streets remain spirited well into the early hours of the morning.",
+    "factsAdvanced": [
+      "Madrid's Royal Palace is the largest functioning royal palace in Western Europe, containing over 3,400 rooms.",
+      "The city's metro network is one of the most extensive in Europe, with over 300 stations across the capital.",
+      "El Retiro Park, formerly a retreat for Spanish royalty, is a UNESCO World Heritage site and the green lung of the city center."
+    ]
+  },
+  {
+    "id": "es-barcelona",
+    "descriptionAdvanced": "Barcelona, the cosmopolitan capital of Catalonia, is a dazzling coastal city celebrated for its unique blend of Roman history, medieval quarters, and groundbreaking modernist architecture. Nestled between the Mediterranean Sea and the Collserola mountain range, the city offers an exceptional quality of life with its vibrant beaches and dynamic urban spaces. It is universally identified with the visionary architect Antoni Gaudí, whose whimsical, organic designs dot the city skyline. Barcelona is a major cultural and economic powerhouse in the Mediterranean, renowned for its design, gastronomy, and avant-garde lifestyle.",
+    "factsAdvanced": [
+      "Barcelona was the host city for the highly successful 1992 Summer Olympic Games, which fundamentally transformed its urban waterfront.",
+      "The city's historic Gothic Quarter (Barri Gòtic) contains structural remains dating back to the ancient Roman city of Barcino.",
+      "Camp Nou, located in Barcelona, is the largest football stadium in Europe, with a seating capacity of nearly 100,000 spectators."
+    ]
+  },
+  {
+    "id": "es-valencia",
+    "descriptionAdvanced": "Valencia is Spain's vibrant third-largest city, brilliantly situated on the Mediterranean coast where the Turia River meets the sea. It perfectly encapsulates a striking contrast between a deeply historical core, featuring Gothic silk exchanges and vibrant central markets, and an ultra-modern, futuristic architectural spirit. The city is globally recognized as the undisputed home of authentic Spanish paella, reflecting its rich agricultural surroundings and maritime heritage. Valencia offers a relaxed yet dynamic atmosphere, boasting expansive urban parks created in a rerouted riverbed and a strong devotion to local arts and sciences.",
+    "factsAdvanced": [
+      "The City of Arts and Sciences in Valencia is a massive, futuristic entertainment-based architectural complex designed by Santiago Calatrava.",
+      "Valencia's La Lonja de la Seda is a masterpiece of late Gothic architecture and a designated UNESCO World Heritage site.",
+      "The Turia Gardens, a sprawling 9-kilometer park running through the city, was created after a devastating flood diverted the river in 1957."
+    ]
+  },
+  {
+    "id": "es-sevilla",
+    "descriptionAdvanced": "Seville, the enchanting capital of Andalusia, is a city draped in romance, profound history, and quintessential Spanish traditions. Set along the banks of the Guadalquivir River, its stunning architecture reflects a glorious past shaped by Moorish rulers and the vast wealth of the Spanish Empire. The city is the undisputed heartland of flamenco, where passionate dance and music echo through its narrow, winding alleyways. Seville vibrates with life, particularly during its fragrant, orange-blossom spring, and is famed for hosting some of Spain's most spectacular and traditional festivals.",
+    "factsAdvanced": [
+      "The Alcázar of Seville is the oldest royal palace still in use in Europe and showcases exquisite Mudéjar architecture.",
+      "Seville Cathedral is the largest Gothic cathedral in the world and houses the monumental tomb of Christopher Columbus.",
+      "During the 16th century, Seville held a monopoly on trade with the Americas, making it one of the richest cities in Europe."
+    ]
+  },
+  {
+    "id": "es-zaragoza",
+    "descriptionAdvanced": "Zaragoza, the proud capital of the Aragon region, is a culturally rich city strategically located on the banks of the mighty Ebro River. Its history spans over two millennia, boasting an incredible architectural legacy that includes Roman ruins, Moorish palaces, and stunning Baroque basilicas. The city served as a vital crossroads of civilizations, and this diverse heritage is beautifully preserved in its historic center. Zaragoza is known for its welcoming atmosphere, robust local gastronomy, and significant religious devotion, drawing millions of pilgrims and visitors annually.",
+    "factsAdvanced": [
+      "The Basilica of Our Lady of the Pillar is said to be the first church in history dedicated to Mary, making it a major pilgrimage site.",
+      "The Aljafería Palace is an 11th-century fortified Islamic palace and a prime example of Hispano-Muslim architecture outside Andalusia.",
+      "Zaragoza hosted the international Expo 2008, an event that led to significant modernization and revitalization of its riverfront."
+    ]
+  },
+  {
+    "id": "es-malaga",
+    "descriptionAdvanced": "Málaga is a sun-drenched, vibrant port city on southern Spain's Costa del Sol, boasting a remarkably rich history that dates back nearly 3,000 years. As one of the oldest continuously inhabited cities in the world, it offers a fascinating layered heritage of Phoenician, Roman, and Moorish ruins seamlessly integrated into a modern urban landscape. In recent years, Málaga has undergone a cultural renaissance, establishing itself as a premier art destination with dozens of world-class museums. It perfectly balances profound historic charm with a relaxed, beachside lifestyle and excellent Andalusian cuisine.",
+    "factsAdvanced": [
+      "Málaga is famously the birthplace of the legendary artist Pablo Picasso, whose life and work are celebrated at the dedicated Museo Picasso Málaga.",
+      "The Alcazaba of Málaga is a stunningly preserved 11th-century Moorish palatial fortification overlooking the city and the sea.",
+      "The city enjoys an average of 300 days of sunshine a year, making it a cornerstone of the Costa del Sol tourism industry."
+    ]
+  },
+  {
+    "id": "es-bilbao",
+    "descriptionAdvanced": "Bilbao is a dynamic, modern metropolis in the Basque Country, celebrated globally as a triumph of urban regeneration. Once a grimy, industrial shipbuilding center situated along the Nervión River, it has spectacularly transformed itself into a hub for cutting-edge art, architecture, and design. The city flawlessly merges its gritty, proud working-class history with sleek, futuristic infrastructure and a thriving cultural scene. Bilbao is also a culinary capital, renowned for its bustling pintxos bars and a strong commitment to innovative Basque gastronomy.",
+    "factsAdvanced": [
+      "The opening of the titanium-clad Guggenheim Museum in 1997 famously catalyzed Bilbao's transformation from an industrial city to a cultural icon.",
+      "The Zubizuri, a striking tied-arch footbridge crossing the river, was designed by renowned architect Santiago Calatrava.",
+      "Bilbao's historic center, the Casco Viejo, is famous for its 'Seven Streets' (Zazpi Kaleak) which date back to the 1400s."
+    ]
+  },
+  {
+    "id": "es-granada",
+    "descriptionAdvanced": "Granada is an achingly beautiful city in Andalusia, nestled at the foot of the snow-capped Sierra Nevada mountains. It is deeply defined by its history as the last stronghold of the Moorish empire in Spain, a legacy that imbues the city with an exotic, enchanting atmosphere. The city’s winding, steep streets lead to spectacular viewpoints and historic neighborhoods that have preserved their medieval Islamic layout. Granada is famous for its vibrant student population, bohemian vibe, and a deeply cherished tradition of serving free, generous tapas with every drink.",
+    "factsAdvanced": [
+      "Granada was the final city of Al-Andalus to fall to the Catholic Monarchs in 1492, ending over 700 years of Moorish rule.",
+      "The city's historic Albaicín neighborhood is a UNESCO World Heritage site known for its narrow streets and traditional carmenes (houses with walled gardens).",
+      "Granada is one of the few places in Spain where the tradition of providing a free, substantial tapa with every alcoholic beverage is strictly maintained."
+    ]
+  },
+  {
+    "id": "es-cordoba",
+    "descriptionAdvanced": "Córdoba is a captivating Andalusian city that once shone as the intellectual and cultural capital of the Islamic world during the Middle Ages. Its incredibly rich history is woven into a labyrinth of narrow, whitewashed streets, vibrant, flower-filled patios, and stunning architectural masterpieces. The city beautifully illustrates the historical coexistence of Christian, Islamic, and Jewish cultures on the Iberian Peninsula. Today, Córdoba retains a quiet, dignified charm, highly protective of its profound heritage and renowned for its intricate silverwork and traditional gastronomy.",
+    "factsAdvanced": [
+      "In the 10th century, Córdoba was estimated to be the most populous city in the world and a major center for education and learning.",
+      "The historic center of Córdoba is a UNESCO World Heritage site, one of the largest protected urban areas in the world.",
+      "The city is famous for its annual Fiesta de los Patios in May, where residents open their beautifully decorated, flower-filled courtyards to the public."
+    ]
+  },
+  {
+    "id": "es-salamanca",
+    "descriptionAdvanced": "Salamanca is a resplendent, historically profound city in western Spain, renowned globally for its prestigious and ancient university. The city is an architectural marvel, constructed largely of local Villamayor sandstone, which gives the elegant buildings a distinctive, warm golden glow, especially at sunset. It boasts a remarkably preserved historic center that acts as a living museum of Renaissance and Plateresque architecture. Despite its profound historical gravity, Salamanca pulses with a youthful, energetic atmosphere driven by its massive international student population.",
+    "factsAdvanced": [
+      "The University of Salamanca, founded in 1218, is the oldest university in Spain and the third oldest continuous university in the world.",
+      "The Plaza Mayor of Salamanca, built in the 18th century, is widely considered one of the most beautiful and elegant squares in Spain.",
+      "Salamanca's historic city center was declared a UNESCO World Heritage site in 1988 for its exceptional architectural beauty and historical significance."
+    ]
+  },
+  {
+    "id": "es-toledo",
+    "descriptionAdvanced": "Toledo is a visually stunning, ancient city perched dramatically on a rocky gorge overlooking the Tagus River in central Spain. Historically known as the 'City of Three Cultures', it represents a unique era where Christian, Jewish, and Muslim communities lived together and profoundly influenced each other's art and architecture. The city's labyrinthine medieval streets are packed with historic mosques, synagogues, and churches, protected by formidable city walls. Toledo is also celebrated for its traditional crafts, particularly its legendary history of forging high-quality steel swords and intricate damascene metalwork.",
+    "factsAdvanced": [
+      "Toledo served as the capital of the Visigothic Kingdom and later as the capital of the Spanish Empire until the court moved to Madrid in 1561.",
+      "The artist El Greco lived in Toledo for much of his life, and his dramatic, unique paintings are displayed throughout the city's institutions.",
+      "Toledo steel was historically renowned for its exceptional durability and was highly sought after for weaponry by armies across Europe."
+    ]
+  },
+  {
+    "id": "es-santiago",
+    "descriptionAdvanced": "Santiago de Compostela is the mystical, rain-swept capital of Galicia, revered worldwide as the final destination of the Camino de Santiago pilgrimage route. Its historic center is a masterpiece of Romanesque, Gothic, and Baroque architecture, radiating outward from its awe-inspiring, monumental cathedral. The city possesses a profoundly spiritual and emotional atmosphere, constantly filled with weary but triumphant pilgrims arriving from across Europe. Beyond its religious significance, Santiago is a vibrant university town, boasting arcaded granite streets and a thriving, seafood-rich culinary scene.",
+    "factsAdvanced": [
+      "The city's magnificent cathedral is the reputed burial place of Saint James the Great, one of the apostles of Jesus Christ.",
+      "The historic center of Santiago de Compostela has been designated as a UNESCO World Heritage site since 1985.",
+      "The University of Santiago de Compostela, founded in 1495, is one of the oldest universities in the world, bringing a lively student culture to the city."
+    ]
+  },
+  {
+    "id": "es-alhambra",
+    "descriptionAdvanced": "The Alhambra is a breathtaking palace and fortress complex situated in Granada, representing the absolute pinnacle of Moorish art and architecture in Europe. Perched majestically on a highly fortified hill, it was built by the Nasrid dynasty as a luxurious royal residence and a powerful military citadel. The complex is a masterpiece of intricate Islamic design, featuring stunning stuccowork, mesmerizing tile mosaics, and tranquil, mathematically perfect courtyards. Surrounded by the beautifully landscaped Generalife gardens, the Alhambra stands as a poetic and enduring testament to a bygone era of Islamic rule in Spain.",
+    "factsAdvanced": [
+      "The name 'Alhambra' translates from Arabic as 'The Red One', likely referring to the color of the clay used in its surrounding walls.",
+      "The Court of the Lions is one of the complex's most famous features, showcasing a highly complex hydraulic system and exquisite marble columns.",
+      "The Alhambra was designated a UNESCO World Heritage site in 1984 and remains one of the most visited historical monuments in Spain."
+    ]
+  },
+  {
+    "id": "es-sagrada-familia",
+    "descriptionAdvanced": "The Basílica de la Sagrada Família is an awe-inspiring, monumental Roman Catholic minor basilica in Barcelona, famously recognized as the unfinished masterpiece of architect Antoni Gaudí. This visionary structure completely breaks from traditional cathedral design, utilizing complex organic forms, vibrant stained glass, and highly symbolic, nature-inspired facades. Construction began in the late 19th century and has continued for over a century, relying entirely on private donations and ticket sales. The basilica is an iconic symbol of Barcelona and a globally unparalleled architectural marvel that continues to evolve to this day.",
+    "factsAdvanced": [
+      "Construction of the Sagrada Familia began in 1882, and Gaudí dedicated the last 40 years of his life exclusively to the project.",
+      "When the central spire of Jesus Christ is completed, the basilica will reach 172.5 meters, making it the tallest church building in the world.",
+      "Despite being incomplete, the Sagrada Familia was consecrated by Pope Benedict XVI in 2010 and proclaimed a minor basilica."
+    ]
+  },
+  {
+    "id": "es-park-guell",
+    "descriptionAdvanced": "Park Güell is a spectacular, vibrant public park system located on Carmel Hill in Barcelona, beautifully showcasing the creative genius of Antoni Gaudí. Originally conceived as a highly exclusive, luxurious housing estate, the project was ultimately unsuccessful and was later converted into a municipal park. The space is renowned for its whimsical architectural elements, colorful mosaic tiling known as trencadís, and structures that organically blend with the natural terrain. Offering stunning panoramic views of the city and the sea, Park Güell is a dreamlike environment that perfectly encapsulates Catalan Modernism.",
+    "factsAdvanced": [
+      "The park features a famous, highly photographed multi-colored mosaic salamander, often referred to as 'el drac' (the dragon).",
+      "Gaudí lived in a house within the park for 20 years; this building is now the Gaudí House Museum, though he did not design it himself.",
+      "Park Güell was officially opened as a public park in 1926 and was declared a UNESCO World Heritage site in 1984."
+    ]
+  },
+  {
+    "id": "es-prado",
+    "descriptionAdvanced": "The Museo del Prado, located in central Madrid, is globally recognized as one of the most important and comprehensive national art museums in the world. It houses an exceptionally rich and unparalleled collection of European art spanning from the 12th to the early 20th centuries, based primarily on the former Spanish Royal Collection. The museum is the premier destination to study the works of Spanish masters like Diego Velázquez and Francisco Goya, as well as holding massive collections of Italian and Flemish artists. The Prado is a monumental institution of cultural heritage, essential to understanding the history of Western art.",
+    "factsAdvanced": [
+      "The museum officially opened to the public in 1819, originally created to house the immense art collection of the Spanish monarchs.",
+      "The Prado is home to Velázquez's masterpiece 'Las Meninas', widely considered one of the most important paintings in Western art history.",
+      "The museum's collection comprises over 8,200 drawings, 7,600 paintings, and 1,000 sculptures, though only a fraction is displayed at one time."
+    ]
+  },
+  {
+    "id": "es-santiago-bernabeu",
+    "descriptionAdvanced": "The Santiago Bernabéu Stadium, situated in the heart of Madrid, is one of the most famous and historic football venues in the world. As the fortress and home ground of Real Madrid, it has witnessed countless legendary matches and is steeped in the glorious history of one of football's most successful clubs. The stadium is an imposing, electrifying arena that can hold tens of thousands of passionate fans, creating an incredibly intimidating atmosphere for visiting teams. Following extensive modern renovations, the Bernabéu is a state-of-the-art facility that continues to be a temple for football enthusiasts globally.",
+    "factsAdvanced": [
+      "The stadium opened in 1947 and was later named after Santiago Bernabéu, the iconic former player and club president.",
+      "It is one of the few stadiums globally to have hosted both a UEFA Champions League final and a FIFA World Cup final.",
+      "The stadium has a seating capacity of over 81,000, making it the second-largest football stadium in Spain after Camp Nou."
+    ]
+  }
+]

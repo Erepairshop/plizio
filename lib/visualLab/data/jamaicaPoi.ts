@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraJamaicaCitiesV2 } from "./poiExtraJamaicaCitiesV2";
+import { poiExtraJamaicaEconomicV2 } from "./poiExtraJamaicaEconomicV2";
+import { poiExtraJamaicaHistoryV2 } from "./poiExtraJamaicaHistoryV2";
+import { poiExtraJamaicaLandmarksV2 } from "./poiExtraJamaicaLandmarksV2";
+import { poiExtraJamaicaLifeV2 } from "./poiExtraJamaicaLifeV2";
+import { poiExtraJamaicaNatureV2 } from "./poiExtraJamaicaNatureV2";
+import { poiExtraJamaicaReliefV2 } from "./poiExtraJamaicaReliefV2";
 
 export const jamaicaCountry: POI[] = [];
 export const jamaicaRegions: POI[] = [];
@@ -967,4 +974,4 @@ export const jamaicaLandmarks: POI[] = [
   }
 ];
 
-export const jamaicaAllPoi: POI[] = [...jamaicaCountry, ...jamaicaRegions, ...jamaicaCities, ...jamaicaLandmarks];
+export const jamaicaAllPoi: POI[] = [...jamaicaCountry, ...jamaicaRegions, ...jamaicaCities, ...jamaicaLandmarks, ...poiExtraJamaicaCitiesV2, ...poiExtraJamaicaEconomicV2, ...poiExtraJamaicaHistoryV2, ...poiExtraJamaicaLandmarksV2, ...poiExtraJamaicaLifeV2, ...poiExtraJamaicaNatureV2, ...poiExtraJamaicaReliefV2];

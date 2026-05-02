@@ -1,5 +1,11 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraTrinidadCitiesV2 } from "./poiExtraTrinidadCitiesV2";
+import { poiExtraTrinidadEconomicV2 } from "./poiExtraTrinidadEconomicV2";
+import { poiExtraTrinidadHistoryV2 } from "./poiExtraTrinidadHistoryV2";
+import { poiExtraTrinidadLandmarksV2 } from "./poiExtraTrinidadLandmarksV2";
+import { poiExtraTrinidadNatureV2 } from "./poiExtraTrinidadNatureV2";
+import { poiExtraTrinidadReliefV2 } from "./poiExtraTrinidadReliefV2";
 import { poiExtraTrinidadLifeV2 } from "./poiExtraTrinidadLifeV2";
 
 export const trinidadCountry: POI[] = [];
@@ -110,4 +116,4 @@ export const trinidadLandmarks: POI[] = [
     description: { de: "Das älteste Benediktinerkloster in der Karibik.", hu: "A Karib-térség legrégebbi bencés kolostora.", ro: "Cea mai veche mănăstire benedictină din Caraibe.", en: "The oldest Benedictine monastery in the Caribbean." }, descriptionAdvanced: {"en": "Mount Saint Benedict Abbey, known as the 'Abbey in the Mount', is the oldest Benedictine monastery in the Caribbean. It is a place of peace, reflection, and famous for its locally made yogurt.", "de": "Die Mount Saint Benedict Abbey, bekannt als die 'Abtei im Berg', ist das älteste Benediktinerkloster in der Karibik. Sie ist berühmt für ihren Joghurt.", "hu": "A Mount Saint Benedict apátság, más néven az 'Apátság a hegyen', a Karib-térség legrégebbi bencés kolostora, az Északi-hegységben. A béke helye, és híres a helyben készült joghurtjáról.", "ro": "Abatia Mount Saint Benedict, cunoscută ca 'Abatia din Munte', este cea mai veche mănăstire benedictină din Caraibe. Este celebră pentru iaurtul său local."}, facts: {"en": ["Oldest Caribbean monastery", "Perched on Northern Range", "Founded in 1912", "Famous for abbey yogurt"], "de": ["Ältestes karibisches Kloster", "In der Northern Range gelegen", "Gegründet im Jahr 1912", "Berühmt für Abtei-Joghurt"], "hu": ["A legrégebbi karibi monostor", "Az Északi-hegységben található", "1912-ben alapították", "Híres az apátsági joghurtról"], "ro": ["Cea mai veche mănăstire din Caraibe", "Cocoțată în Northern Range", "Fondată în 1912", "Faimoasă pentru iaurtul mănăstiresc"]}, factsAdvanced: {"en": ["Benedictine religious order", "Overlooks the Caroni Plains", "Guest house for retreats", "Center for spiritual life"], "de": ["Benediktiner-Orden", "Blickt auf die Caroni Plains", "Gästehaus für Exerzitien", "Zentrum des spirituellen Lebens"], "hu": ["Bencés rendi monostor", "Kilátás a Caroni-síkságra", "Vendégház lelkigyakorlatokhoz", "A spirituális élet központja"], "ro": ["Ordin religios benedictin", "Vedere spre Câmpiile Caroni", "Casă de oaspeți pentru reculegere", "Centru pentru viața spirituală"]}, historyYear: 1912 }
 ];
 
-export const trinidadAllPoi: POI[] = [...trinidadCountry, ...trinidadRegions, ...trinidadCities, ...trinidadLandmarks, ...poiExtraTrinidadLifeV2];
+export const trinidadAllPoi: POI[] = [...trinidadCountry, ...trinidadRegions, ...trinidadCities, ...trinidadLandmarks, ...poiExtraTrinidadLifeV2, ...poiExtraTrinidadCitiesV2, ...poiExtraTrinidadEconomicV2, ...poiExtraTrinidadHistoryV2, ...poiExtraTrinidadLandmarksV2, ...poiExtraTrinidadNatureV2, ...poiExtraTrinidadReliefV2];

@@ -1,4 +1,10 @@
 import type { POI } from "./poi";
+import { poiExtraPortugalCities } from "./poiExtraPortugalCities";
+import { poiExtraPortugalFinal } from "./poiExtraPortugalFinal";
+import { poiExtraPortugalHistorical } from "./poiExtraPortugalHistorical";
+import { poiExtraPortugalIndustry } from "./poiExtraPortugalIndustry";
+import { poiExtraPortugalMixed } from "./poiExtraPortugalMixed";
+import { poiExtraPortugalNature } from "./poiExtraPortugalNature";
 
 export const portugalCountry: POI = {
   id: "portugal",
@@ -2435,5 +2441,5 @@ export const portugalCities: POI[] = [
   }
 ];
 
-export const portugalAllPoi: POI[] = [portugalCountry, ...portugalRegions, ...portugalCities, ...portugalCulture, ...portugalNature];
+export const portugalAllPoi: POI[] = [portugalCountry, ...portugalRegions, ...portugalCities, ...portugalCulture, ...portugalNature, ...poiExtraPortugalCities, ...poiExtraPortugalFinal, ...poiExtraPortugalHistorical, ...poiExtraPortugalIndustry, ...poiExtraPortugalMixed, ...poiExtraPortugalNature];
 

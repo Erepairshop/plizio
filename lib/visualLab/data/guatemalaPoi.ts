@@ -1,5 +1,11 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraGuatemalaCitiesV2 } from "./poiExtraGuatemalaCitiesV2";
+import { poiExtraGuatemalaEconomicV2 } from "./poiExtraGuatemalaEconomicV2";
+import { poiExtraGuatemalaHistoryV2 } from "./poiExtraGuatemalaHistoryV2";
+import { poiExtraGuatemalaLandmarksV2 } from "./poiExtraGuatemalaLandmarksV2";
+import { poiExtraGuatemalaNatureV2 } from "./poiExtraGuatemalaNatureV2";
+import { poiExtraGuatemalaReliefV2 } from "./poiExtraGuatemalaReliefV2";
 import { poiExtraGuatemalaLifeV2 } from "./poiExtraGuatemalaLifeV2";
 
 export const guatemalaCountry: POI[] = [];
@@ -785,4 +791,4 @@ export const guatemalaLandmarks: POI[] = [
   },
 ];
 
-export const guatemalaAllPoi: POI[] = [...guatemalaCountry, ...guatemalaRegions, ...guatemalaCities, ...guatemalaLandmarks, ...poiExtraGuatemalaLifeV2];
+export const guatemalaAllPoi: POI[] = [...guatemalaCountry, ...guatemalaRegions, ...guatemalaCities, ...guatemalaLandmarks, ...poiExtraGuatemalaLifeV2, ...poiExtraGuatemalaCitiesV2, ...poiExtraGuatemalaEconomicV2, ...poiExtraGuatemalaHistoryV2, ...poiExtraGuatemalaLandmarksV2, ...poiExtraGuatemalaNatureV2, ...poiExtraGuatemalaReliefV2];

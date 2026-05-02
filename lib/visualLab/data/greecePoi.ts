@@ -1,4 +1,5 @@
 import type { POI } from "./poi";
+import { poiExtraGreeceCities } from "./poiExtraGreeceCities";
 
 export const greeceCountry: POI = {
   id: "greece",
@@ -1131,7 +1132,8 @@ export const greeceNature: POI[] = [
       en: ["UNESCO World Heritage site.", "Located above Sparta.", "An important late-Byzantine center in the 14th and 15th centuries.", "Contains palace and monastery ruins.", "A popular viewpoint in the Taygetus area."]
     },
     image: "/geo-images/greece/historical-mystras.webp",
-  },  {
+  },
+  {
     id: "historical-vergina",
     type: "historical",
     parent: "GR",
@@ -1150,7 +1152,8 @@ export const greeceNature: POI[] = [
       en: ["Ancient capital of Macedonia.", "UNESCO World Heritage site.", "Famous for the royal tombs.", "Artifacts are displayed in the underground museum.", "Strongly linked with Philip II and Alexander the Great."]
     },
     image: "/geo-images/greece/historical-vergina.webp",
-  },  {
+  },
+  {
     id: "historical-marathon",
     type: "historical",
     parent: "GR",
@@ -2452,4 +2455,4 @@ export const greeceNature: POI[] = [
   },
 ];
 
-export const greeceAllPoi: POI[] = [greeceCountry, ...greeceRegions, ...greeceCities, ...greeceCulture, ...greeceNature];
+export const greeceAllPoi: POI[] = [greeceCountry, ...greeceRegions, ...greeceCities, ...greeceCulture, ...greeceNature, ...poiExtraGreeceCities];

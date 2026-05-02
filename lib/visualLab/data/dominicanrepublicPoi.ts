@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraDominicanrepublicCitiesV2 } from "./poiExtraDominicanrepublicCitiesV2";
+import { poiExtraDominicanrepublicEconomicV2 } from "./poiExtraDominicanrepublicEconomicV2";
+import { poiExtraDominicanrepublicHistoryV2 } from "./poiExtraDominicanrepublicHistoryV2";
+import { poiExtraDominicanrepublicLandmarksV2 } from "./poiExtraDominicanrepublicLandmarksV2";
+import { poiExtraDominicanrepublicLifeV2 } from "./poiExtraDominicanrepublicLifeV2";
+import { poiExtraDominicanrepublicNatureV2 } from "./poiExtraDominicanrepublicNatureV2";
+import { poiExtraDominicanrepublicReliefV2 } from "./poiExtraDominicanrepublicReliefV2";
 
 export const dominicanrepublicCountry: POI[] = [];
 export const dominicanrepublicRegions: POI[] = [];
@@ -884,4 +891,4 @@ export const dominicanrepublicLandmarks: POI[] = [
   }
 ];
 
-export const dominicanrepublicAllPoi: POI[] = [...dominicanrepublicCountry, ...dominicanrepublicRegions, ...dominicanrepublicCities, ...dominicanrepublicLandmarks];
+export const dominicanrepublicAllPoi: POI[] = [...dominicanrepublicCountry, ...dominicanrepublicRegions, ...dominicanrepublicCities, ...dominicanrepublicLandmarks, ...poiExtraDominicanrepublicCitiesV2, ...poiExtraDominicanrepublicEconomicV2, ...poiExtraDominicanrepublicHistoryV2, ...poiExtraDominicanrepublicLandmarksV2, ...poiExtraDominicanrepublicLifeV2, ...poiExtraDominicanrepublicNatureV2, ...poiExtraDominicanrepublicReliefV2];

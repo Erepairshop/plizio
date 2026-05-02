@@ -1,5 +1,11 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraCostaricaCitiesV2 } from "./poiExtraCostaricaCitiesV2";
+import { poiExtraCostaricaEconomicV2 } from "./poiExtraCostaricaEconomicV2";
+import { poiExtraCostaricaHistoryV2 } from "./poiExtraCostaricaHistoryV2";
+import { poiExtraCostaricaLandmarksV2 } from "./poiExtraCostaricaLandmarksV2";
+import { poiExtraCostaricaNatureV2 } from "./poiExtraCostaricaNatureV2";
+import { poiExtraCostaricaReliefV2 } from "./poiExtraCostaricaReliefV2";
 import { poiExtraCostaricaLifeV2 } from "./poiExtraCostaricaLifeV2";
 
 export const costaricaCountry: POI[] = [];
@@ -756,4 +762,4 @@ export const costaricaLandmarks: POI[] = [
   }
 ];
 
-export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks, ...poiExtraCostaricaLifeV2];
+export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks, ...poiExtraCostaricaLifeV2, ...poiExtraCostaricaCitiesV2, ...poiExtraCostaricaEconomicV2, ...poiExtraCostaricaHistoryV2, ...poiExtraCostaricaLandmarksV2, ...poiExtraCostaricaNatureV2, ...poiExtraCostaricaReliefV2];

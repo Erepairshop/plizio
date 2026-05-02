@@ -2,573 +2,291 @@ import type { POI } from "./poi";
 
 export const poiExtraChileNatureV2: POI[] = [
   {
-    id: "ojos-del-salado-nature-v2",
-    type: "mountain",
-    parent: "CL-AT",
-    coords: [-68.5411, -27.1092],
-    name: { de: "Ojos del Salado", hu: "Ojos del Salado", ro: "Ojos del Salado", en: "Ojos del Salado" },
-    description: {
-      de: "Der höchste aktive Vulkan der Welt und der zweithöchste Berg der westlichen Hemisphäre.",
-      hu: "A világ legmagasabb aktív vulkánja és a nyugati félteke második legmagasabb hegye.",
-      ro: "Cel mai înalt vulcan activ din lume și al doilea cel mai înalt munte din emisfera vestică.",
-      en: "The highest active volcano in the world and the second highest mountain in the Western Hemisphere."
-    },
-    facts: {
-      de: ["Erreicht eine Höhe von 6893 Metern.", "Liegt an der Grenze zu Argentinien."],
-      hu: ["6893 méter magasságot ér el.", "Az argentin határon fekszik."],
-      ro: ["Atinge o altitudine de 6893 metri.", "Situat la granița cu Argentina."],
-      en: ["Reaches a height of 6893 meters.", "Located on the border with Argentina."]
-    }
-  },
-  {
-    id: "llullaillaco-nature-v2",
-    type: "mountain",
-    parent: "CL-AN",
-    coords: [-68.5364, -24.7192],
-    name: { de: "Llullaillaco", hu: "Llullaillaco", ro: "Llullaillaco", en: "Llullaillaco" },
-    description: {
-      de: "Ein ruhender Vulkan in den Anden, bekannt für die Entdeckung von Inka-Mumien nahe dem Gipfel.",
-      hu: "Szunnyadó vulkán az Andokban, amely a csúcs közelében talált inka múmiákról ismert.",
-      ro: "Un vulcan adormit din Anzi, cunoscut pentru descoperirea mumiilor incașe aproape de vârf.",
-      en: "A dormant volcano in the Andes, known for the discovery of Inca mummies near the summit."
-    },
-    facts: {
-      de: ["Mit 6739 Metern einer der höchsten Berge.", "Heiliger Berg der Inka."],
-      hu: ["6739 méteres magasságával az egyik legmagasabb hegy.", "Az inkák szent hegye volt."],
-      ro: ["Cu 6739 de metri este unul dintre cei mai înalți munți.", "Munte sacru al incașilor."],
-      en: ["At 6739 meters, it is one of the highest mountains.", "Sacred mountain of the Incas."]
-    }
-  },
-  {
-    id: "volcan-parinacota-nature-v2",
-    type: "mountain",
+    id: "parque-nacional-lauca-nature-v2",
+    type: "nature",
     parent: "CL-AP",
-    coords: [-69.1425, -18.1661],
-    name: { de: "Volcán Parinacota", hu: "Volcán Parinacota", ro: "Volcán Parinacota", en: "Volcán Parinacota" },
+    coords: [-69.3000, -18.2000],
+    name: {
+      de: "Nationalpark Lauca",
+      hu: "Lauca Nemzeti Park",
+      ro: "Parcul Național Lauca",
+      en: "Lauca National Park"
+    },
     description: {
-      de: "Ein massiver Schichtvulkan an der Grenze zu Bolivien, Teil der Zentralen Anden.",
-      hu: "Hatalmas rétegvulkán a bolíviai határon, a Középső-Andok része.",
-      ro: "Un stratovulcan masiv la granița cu Bolivia, parte a Anzilor Centrali.",
-      en: "A massive stratovolcano on the border with Bolivia, part of the Central Andes."
+      de: "Ein atemberaubendes Hochgebirgsökosystem in den chilenischen Anden mit dem Chungará-See und vulkanischen Gipfeln.",
+      hu: "Lélegzetelállító magashegyi ökoszisztéma a chilei Andokban, a Chungará-tóval és vulkáni csúcsokkal.",
+      ro: "Un ecosistem spectaculos de mare altitudine în Anzii chilieni, cu Lacul Chungará și vârfuri vulcanice.",
+      en: "A spectacular high-altitude ecosystem in the Chilean Andes with Chungará Lake and volcanic peaks."
+    },
+    descriptionAdvanced: {
+      de: "Der Nationalpark Lauca ist ein bedeutendes Hochgebirgsökosystem in den chilenischen Anden, das auf über 4.000 Metern Höhe liegt. Neben dem ikonischen Chungará-See, einem der höchstgelegenen Seen der Welt, zeichnet sich der Park durch seine vulkanischen Gipfel, wie den Parinacota und den Pomerape, aus. Diese Landschaft bietet eine seltene Fauna und Flora, die perfekt an die extremen Bedingungen dieser Höhe angepasst ist.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Hochgelegenes Ökosystem auf über 4.000 Metern in den chilenischen Anden.", "Beheimatet den Chungará-See, einen der höchstgelegenen Seen der Erde.", "Prächtige vulkanische Kulisse durch die Gipfel Parinacota und Pomerape.", "An extreme Höhenbedingungen angepasste spezialisierte Flora und Fauna."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
     },
     facts: {
-      de: ["Seine Höhe beträgt 6348 Meter.", "Liegt im Lauca-Nationalpark."],
-      hu: ["Magassága 6348 méter.", "A Lauca Nemzeti Parkban található."],
-      ro: ["Înălțimea sa este de 6348 metri.", "Situat în Parcul Național Lauca."],
-      en: ["Its height is 6348 meters.", "Located in Lauca National Park."]
+      de: ["Der Chungará-See liegt über 4.500 m hoch.", "Der Park beheimatet die Vulkane Parinacota und Pomerape."],
+      hu: ["A Chungará-tó több mint 4500 méter magasan fekszik.", "A park otthont ad a Parinacota és Pomerape vulkánoknak."],
+      ro: ["Lacul Chungará se află la peste 4.500 m altitudine.", "Parcul găzduiește vulcanii Parinacota și Pomerape."],
+      en: ["Chungará Lake is over 4,500m above sea level.", "The park is home to the Parinacota and Pomerape volcanoes."]
     }
   },
   {
-    id: "volcan-licancabur-nature-v2",
-    type: "mountain",
-    parent: "CL-AN",
-    coords: [-67.8833, -22.8333],
-    name: { de: "Volcán Licancabur", hu: "Volcán Licancabur", ro: "Volcán Licancabur", en: "Volcán Licancabur" },
-    description: {
-      de: "Ein markanter Vulkan an der Grenze zwischen Chile und Bolivien mit einem Kratersee.",
-      hu: "Kiemelkedő vulkán Chile és Bolívia határán, amelynek krátertava van.",
-      ro: "Un vulcan proeminent la granița dintre Chile și Bolivia, cu un lac vulcanic.",
-      en: "A prominent volcano on the border between Chile and Bolivia with a crater lake."
-    },
-    facts: {
-      de: ["Der Kratersee gehört zu den höchstgelegenen der Welt.", "Besitzt eine perfekte Kegelform."],
-      hu: ["Krátertava a világ legmagasabban fekvői közé tartozik.", "Tökéletes kúp alakja van."],
-      ro: ["Lacul din crater este printre cele mai înalte din lume.", "Are o formă conică perfectă."],
-      en: ["The crater lake is among the highest in the world.", "Has a perfect cone shape."]
-    }
-  },
-  {
-    id: "volcan-villarrica-nature-v2",
-    type: "mountain",
-    parent: "CL-AR",
-    coords: [-71.9396, -39.4200],
-    name: { de: "Volcán Villarrica", hu: "Volcán Villarrica", ro: "Volcán Villarrica", en: "Volcán Villarrica" },
-    description: {
-      de: "Einer der aktivsten Vulkane Südamerikas, der über dem gleichnamigen See thront.",
-      hu: "Dél-Amerika egyik legaktívabb vulkánja, amely az azonos nevű tó fölé magasodik.",
-      ro: "Unul dintre cei mai activi vulcani din America de Sud, tronând deasupra lacului omonim.",
-      en: "One of the most active volcanoes in South America, towering over the lake of the same name."
-    },
-    facts: {
-      de: ["Besitzt einen permanenten Lavasee im Krater.", "Ein beliebtes Ziel für Bergsteiger."],
-      hu: ["Állandó lávatóval rendelkezik a kráterében.", "Népszerű célpont a hegymászók körében."],
-      ro: ["Are un lac de lavă permanent în crater.", "O destinație populară pentru alpiniști."],
-      en: ["Has a permanent lava lake in its crater.", "A popular destination for mountaineers."]
-    }
-  },
-  {
-    id: "volcan-osorno-nature-v2",
-    type: "mountain",
-    parent: "CL-LL",
-    coords: [-72.4933, -41.1039],
-    name: { de: "Volcán Osorno", hu: "Volcán Osorno", ro: "Volcán Osorno", en: "Volcán Osorno" },
-    description: {
-      de: "Ein konischer Vulkan, der oft mit dem Berg Fuji verglichen wird.",
-      hu: "Kúp alakú vulkán, amelyet gyakran a Fudzsi hegyhez hasonlítanak.",
-      ro: "Un vulcan conic, adesea comparat cu muntele Fuji.",
-      en: "A conical volcano often compared to Mount Fuji."
-    },
-    facts: {
-      de: ["Seine Spitze ist stets von Gletschern bedeckt.", "Ein Wahrzeichen der Region Los Lagos."],
-      hu: ["Csúcsát mindig gleccserek borítják.", "A Los Lagos régió jelképe."],
-      ro: ["Vârful său este mereu acoperit de ghețari.", "Un simbol al regiunii Los Lagos."],
-      en: ["Its peak is constantly covered by glaciers.", "A symbol of the Los Lagos region."]
-    }
-  },
-  {
-    id: "torres-del-paine-nature-v2",
-    type: "mountain",
+    id: "parque-nacional-torres-del-paine-nature-v2",
+    type: "nature",
     parent: "CL-MA",
-    coords: [-72.9833, -50.9500],
-    name: { de: "Torres del Paine", hu: "Torres del Paine", ro: "Torres del Paine", en: "Torres del Paine" },
+    coords: [-73.0000, -51.0000],
+    name: {
+      de: "Nationalpark Torres del Paine",
+      hu: "Torres del Paine Nemzeti Park",
+      ro: "Parcul Național Torres del Paine",
+      en: "Torres del Paine National Park"
+    },
     description: {
-      de: "Spektakuläre Granitgipfel im tiefen Süden, die das Wahrzeichen eines berühmten Nationalparks sind.",
-      hu: "Látványos gránitcsúcsok a mély délen, amelyek egy híres nemzeti park szimbólumai.",
-      ro: "Vârfuri spectaculoase de granit în sudul îndepărtat, simbolul unui faimos parc național.",
-      en: "Spectacular granite peaks in the deep south, the symbol of a famous national park."
+      de: "Ein weltbekanntes Wildnisgebiet mit Granitfelsen, Gletschern und Seen in der patagonischen Region.",
+      hu: "Világhírű vadon a patagóniai régióban, gránitsziklákkal, gleccserekkel és tavakkal.",
+      ro: "O zonă de sălbăticie de renume mondial din regiunea patagoneză, cu vârfuri de granit, ghețari și lacuri.",
+      en: "A world-renowned wilderness area in the Patagonian region with granite peaks, glaciers, and lakes."
+    },
+    descriptionAdvanced: {
+      de: "Der Nationalpark Torres del Paine ist das Aushängeschild der patagonischen Natur. Das Gebiet besticht durch seine massiven Granittürme, die 'Torres', weitläufige Gletscherfelder wie den Grey-Gletscher und eine Vielzahl von Seen. Als UNESCO-Biosphärenreservat spielt der Park eine zentrale Rolle bei der Erhaltung der patagonischen Flora und Fauna und bietet ein unvergleichliches Naturerlebnis.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Weltweit renommiertes Schutzgebiet mit massiven Granittürmen.", "Beheimatet den beeindruckenden Grey-Gletscher innerhalb des südlichen Eisfeldes.", "UNESCO-Biosphärenreservat von herausragender ökologischer Bedeutung.", "Wichtige Anlaufstelle für die Forschung zum Gletscherrückgang in Patagonien."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
     },
     facts: {
-      de: ["Ziehen Wanderer aus der ganzen Welt an.", "Die höchste Erhebung erreicht etwa 2884 Meter."],
-      hu: ["A világ minden tájáról vonzzák a túrázókat.", "Legmagasabb pontja körülbelül 2884 méter."],
-      ro: ["Atrag drumeți din întreaga lume.", "Cel mai înalt punct atinge aproximativ 2884 de metri."],
-      en: ["Attract hikers from all over the world.", "The highest peak reaches about 2884 meters."]
+      de: ["Die 'Torres' (Türme) sind markante Granitformationen.", "Der Grey-Gletscher ist eine Hauptattraktion."],
+      hu: ["A 'Torres' (tornyok) látványos gránitformációk.", "A Grey-gleccser a fő attrakció."],
+      ro: ["'Torres' (turnurile) sunt formațiuni de granit proeminente.", "Ghețarul Grey este o atracție principală."],
+      en: ["The 'Torres' (towers) are striking granite formations.", "The Grey Glacier is a main attraction."]
     }
   },
   {
-    id: "cerro-torre-nature-v2",
-    type: "mountain",
-    parent: "CL-MA",
-    coords: [-73.0989, -49.2922],
-    name: { de: "Cerro Torre", hu: "Cerro Torre", ro: "Cerro Torre", en: "Cerro Torre" },
-    description: {
-      de: "Ein extrem steiler Granitberg an der Grenze zu Argentinien, der bei Kletterern legendär ist.",
-      hu: "Rendkívül meredek gránithegy az argentin határon, amely legendás a hegymászók körében.",
-      ro: "Un munte de granit extrem de abrupt la granița cu Argentina, legendar printre alpiniști.",
-      en: "An extremely steep granite mountain on the border with Argentina, legendary among climbers."
-    },
-    facts: {
-      de: ["Berüchtigt für extreme Wetterbedingungen.", "Die Eiskuppe erschwert den Aufstieg massiv."],
-      hu: ["Hírhedt extrém időjárási körülményeiről.", "A jégsapka jelentősen megnehezíti a mászást."],
-      ro: ["Notoriu pentru condițiile meteorologice extreme.", "Calota de gheață îngreunează masiv ascensiunea."],
-      en: ["Notorious for extreme weather conditions.", "The ice cap massively complicates the ascent."]
-    }
-  },
-  {
-    id: "rio-loa-nature-v2",
-    type: "river",
-    parent: "CL-AN",
-    coords: [-70.0433, -21.4172],
-    name: { de: "Río Loa", hu: "Río Loa", ro: "Río Loa", en: "Río Loa" },
-    description: {
-      de: "Der längste Fluss Chiles, der sich durch die trockene Atacama-Wüste schlängelt.",
-      hu: "Chile leghosszabb folyója, amely a száraz Atacama-sivatagon kanyarog keresztül.",
-      ro: "Cel mai lung râu din Chile, care șerpuiește prin deșertul arid Atacama.",
-      en: "The longest river in Chile, winding its way through the dry Atacama Desert."
-    },
-    facts: {
-      de: ["Hat eine Länge von 440 Kilometern.", "Eine lebenswichtige Wasserquelle im Norden."],
-      hu: ["Hossza 440 kilométer.", "Létfontosságú vízforrás északon."],
-      ro: ["Are o lungime de 440 de kilometri.", "O sursă vitală de apă în nord."],
-      en: ["Has a length of 440 kilometers.", "A vital water source in the north."]
-    }
-  },
-  {
-    id: "rio-biobio-nature-v2",
-    type: "river",
-    parent: "CL-BI",
-    coords: [-73.1633, -36.8206],
-    name: { de: "Río Biobío", hu: "Río Biobío", ro: "Río Biobío", en: "Río Biobío" },
-    description: {
-      de: "Der zweitlängste Fluss des Landes und historisch eine wichtige kulturelle Grenze.",
-      hu: "Az ország második leghosszabb folyója, amely történelmileg fontos kulturális határ volt.",
-      ro: "Al doilea cel mai lung râu din țară și o graniță culturală importantă din punct de vedere istoric.",
-      en: "The second longest river in the country and historically an important cultural boundary."
-    },
-    facts: {
-      de: ["War die Grenze des Mapuche-Territoriums.", "Wird intensiv für Wasserkraft genutzt."],
-      hu: ["Ez volt a mapuche terület határa.", "Intenzíven használják vízenergia termelésre."],
-      ro: ["A fost granița teritoriului Mapuche.", "Este utilizat intens pentru energie hidroelectrică."],
-      en: ["Was the border of the Mapuche territory.", "Is intensely used for hydroelectric power."]
-    }
-  },
-  {
-    id: "rio-maipo-nature-v2",
-    type: "river",
-    parent: "CL-VS",
-    coords: [-71.6033, -33.6133],
-    name: { de: "Río Maipo", hu: "Río Maipo", ro: "Río Maipo", en: "Río Maipo" },
-    description: {
-      de: "Ein wichtiger Fluss, der die Hauptstadtregion mit Wasser versorgt und ins Pazifische Meer mündet.",
-      hu: "Fontos folyó, amely vízzel látja el a fővárosi régiót, és a Csendes-óceánba torkollik.",
-      ro: "Un râu important care furnizează apă regiunii capitalei și se varsă în Oceanul Pacific.",
-      en: "An important river that supplies water to the capital region and flows into the Pacific Ocean."
-    },
-    facts: {
-      de: ["Sein Einzugsgebiet ist dicht besiedelt.", "Wichtig für den lokalen Weinbau."],
-      hu: ["Vízgyűjtő területe sűrűn lakott.", "Fontos a helyi borászat számára."],
-      ro: ["Bazinul său hidrografic este dens populat.", "Important pentru viticultura locală."],
-      en: ["Its catchment area is densely populated.", "Important for local viticulture."]
-    }
-  },
-  {
-    id: "rio-maule-nature-v2",
-    type: "river",
-    parent: "CL-ML",
-    coords: [-72.4103, -35.3167],
-    name: { de: "Río Maule", hu: "Río Maule", ro: "Río Maule", en: "Río Maule" },
-    description: {
-      de: "Ein historischer Fluss in Zentralchile, der einst die Südgrenze des Inka-Reiches markierte.",
-      hu: "Történelmi folyó Közép-Chilében, amely egykor az Inka Birodalom déli határát jelezte.",
-      ro: "Un râu istoric în centrul statului Chile, care marca odată granița de sud a Imperiului Inca.",
-      en: "A historic river in central Chile that once marked the southern border of the Inca Empire."
-    },
-    facts: {
-      de: ["Fließt von den Anden in den Pazifik.", "Gibt einer ganzen Region ihren Namen."],
-      hu: ["Az Andokból a Csendes-óceánba folyik.", "Egy egész régiónak adja a nevét."],
-      ro: ["Curge din Anzi în Pacific.", "Dă numele unei întregi regiuni."],
-      en: ["Flows from the Andes into the Pacific.", "Gives its name to an entire region."]
-    }
-  },
-  {
-    id: "rio-baker-nature-v2",
-    type: "river",
-    parent: "CL-AI",
-    coords: [-73.1114, -47.7892],
-    name: { de: "Río Baker", hu: "Río Baker", ro: "Río Baker", en: "Río Baker" },
-    description: {
-      de: "Der wasserreichste Fluss Chiles, bekannt für sein leuchtend türkisfarbenes Wasser.",
-      hu: "Chile legbővizűbb folyója, amely élénk türkizkék vizéről ismert.",
-      ro: "Râul cu cel mai mare debit din Chile, cunoscut pentru apa sa de un turcoaz strălucitor.",
-      en: "The river with the largest volume of water in Chile, known for its bright turquoise water."
-    },
-    facts: {
-      de: ["Entspringt dem General-Carrera-See.", "Ein Paradies für Rafting und Fliegenfischen."],
-      hu: ["A General Carrera-tóból ered.", "A vadvízi evezés és a legyezőhorgászat paradicsoma."],
-      ro: ["Izvorăște din Lacul General Carrera.", "Un paradis pentru rafting și pescuit cu musca."],
-      en: ["Originates from Lake General Carrera.", "A paradise for rafting and fly fishing."]
-    }
-  },
-  {
-    id: "rio-yelcho-nature-v2",
-    type: "river",
-    parent: "CL-LL",
-    coords: [-72.7667, -42.9667],
-    name: { de: "Río Yelcho", hu: "Río Yelcho", ro: "Río Yelcho", en: "Río Yelcho" },
-    description: {
-      de: "Ein Fluss in Patagonien, der von Gletschern gespeist wird und durch dichte Wälder fließt.",
-      hu: "Folyó Patagóniában, amelyet gleccserek táplálnak és sűrű erdőkön folyik keresztül.",
-      ro: "Un râu în Patagonia, alimentat de ghețari și curgând prin păduri dense.",
-      en: "A river in Patagonia, fed by glaciers and flowing through dense forests."
-    },
-    facts: {
-      de: ["Sehr beliebt bei Sportfischern.", "Fließt in den Golf von Corcovado."],
-      hu: ["Nagyon népszerű a sporthorgászok körében.", "A Corcovado-öbölbe torkollik."],
-      ro: ["Foarte popular printre pescarii sportivi.", "Se varsă în Golful Corcovado."],
-      en: ["Very popular with sport fishermen.", "Flows into the Gulf of Corcovado."]
-    }
-  },
-  {
-    id: "lago-general-carrera-nature-v2",
-    type: "lake",
-    parent: "CL-AI",
-    coords: [-72.1333, -46.2667],
-    name: { de: "Lago General Carrera", hu: "Lago General Carrera", ro: "Lago General Carrera", en: "Lago General Carrera" },
-    description: {
-      de: "Der größte See Chiles, den sich das Land mit Argentinien teilt, berühmt für die Marmorhöhlen.",
-      hu: "Chile legnagyobb tava, amelyen Argentínával osztozik, és a márványbarlangokról híres.",
-      ro: "Cel mai mare lac din Chile, împărțit cu Argentina, faimos pentru peșterile sale de marmură.",
-      en: "The largest lake in Chile, shared with Argentina, famous for its marble caves."
-    },
-    facts: {
-      de: ["Auf argentinischer Seite heißt er Lago Buenos Aires.", "Das Wasser leuchtet intensiv blau."],
-      hu: ["Argentin oldalán Lago Buenos Airesnek hívják.", "Vize intenzív kék színben tündököl."],
-      ro: ["Pe partea argentiniană se numește Lago Buenos Aires.", "Apa strălucește într-un albastru intens."],
-      en: ["On the Argentine side it is called Lago Buenos Aires.", "The water glows an intense blue."]
-    }
-  },
-  {
-    id: "lago-llanquihue-nature-v2",
-    type: "lake",
-    parent: "CL-LL",
-    coords: [-72.8000, -41.1333],
-    name: { de: "Lago Llanquihue", hu: "Lago Llanquihue", ro: "Lago Llanquihue", en: "Lago Llanquihue" },
-    description: {
-      de: "Der zweitgrößte See Chiles, an dessen Ufern charmante Städte mit deutschem Erbe liegen.",
-      hu: "Chile második legnagyobb tava, melynek partján bájos, német örökségű városok fekszennek.",
-      ro: "Al doilea lac ca mărime din Chile, pe malurile căruia se află orașe fermecătoare cu moștenire germană.",
-      en: "The second largest lake in Chile, on whose shores lie charming towns with German heritage."
-    },
-    facts: {
-      de: ["Bietet atemberaubende Ausblicke auf Vulkane.", "Ein Zentrum für Segeln und Wassersport."],
-      hu: ["Lélegzetelállító kilátást nyújt a vulkánokra.", "A vitorlázás és a vízisportok központja."],
-      ro: ["Oferă priveliști uluitoare asupra vulcanilor.", "Un centru pentru navigație și sporturi nautice."],
-      en: ["Offers breathtaking views of volcanoes.", "A center for sailing and water sports."]
-    }
-  },
-  {
-    id: "lago-villarrica-nature-v2",
-    type: "lake",
-    parent: "CL-AR",
-    coords: [-72.1000, -39.2500],
-    name: { de: "Lago Villarrica", hu: "Lago Villarrica", ro: "Lago Villarrica", en: "Lago Villarrica" },
-    description: {
-      de: "Ein malerischer See in der Region Araukanien, der im Sommer viele Touristen anzieht.",
-      hu: "Festői tó az Araucanía régióban, amely nyáron sok turistát vonz.",
-      ro: "Un lac pitoresc în regiunea Araucanía, care atrage mulți turiști vara.",
-      en: "A picturesque lake in the Araucania region that attracts many tourists in summer."
-    },
-    facts: {
-      de: ["Wird vom Vulkan Villarrica überragt.", "Das Wasser erwärmt sich im Sommer angenehm."],
-      hu: ["A Villarrica vulkán magasodik fölé.", "Vize nyáron kellemesen felmelegszik."],
-      ro: ["Este dominat de vulcanul Villarrica.", "Apa se încălzește plăcut vara."],
-      en: ["Is dominated by the Villarrica volcano.", "The water warms up pleasantly in summer."]
-    }
-  },
-  {
-    id: "lago-todos-los-santos-nature-v2",
-    type: "lake",
-    parent: "CL-LL",
-    coords: [-72.1500, -41.1500],
-    name: { de: "Lago Todos los Santos", hu: "Lago Todos los Santos", ro: "Lago Todos los Santos", en: "Lago Todos los Santos" },
-    description: {
-      de: "Ein smaragdgrüner See im Nationalpark Vicente Pérez Rosales, umgeben von dichten Wäldern.",
-      hu: "Smaragdzöld tó a Vicente Pérez Rosales Nemzeti Parkban, sűrű erdőkkel körülvéve.",
-      ro: "Un lac de culoarea smaraldului în Parcul Național Vicente Pérez Rosales, înconjurat de păduri dense.",
-      en: "An emerald-green lake in the Vicente Pérez Rosales National Park, surrounded by dense forests."
-    },
-    facts: {
-      de: ["Wurde von Jesuitenmissionaren benannt.", "Teil der berühmten Anden-Überquerung nach Argentinien."],
-      hu: ["Jezsuita misszionáriusok nevezték el.", "A híres argentínai andoki átkelés része."],
-      ro: ["A fost numit de misionarii iezuiți.", "Parte a faimoasei traversări a Anzilor către Argentina."],
-      en: ["Was named by Jesuit missionaries.", "Part of the famous Andean crossing to Argentina."]
-    }
-  },
-  {
-    id: "lago-pehoe-nature-v2",
-    type: "lake",
-    parent: "CL-MA",
-    coords: [-73.0167, -51.0833],
-    name: { de: "Lago Pehoé", hu: "Lago Pehoé", ro: "Lago Pehoé", en: "Lago Pehoé" },
-    description: {
-      de: "Ein wunderschöner See im Torres-del-Paine-Nationalpark, bekannt für seine spiegelnde Wasseroberfläche.",
-      hu: "Gyönyörű tó a Torres del Paine Nemzeti Parkban, amely tükröződő vízfelszínéről ismert.",
-      ro: "Un lac superb în Parcul Național Torres del Paine, cunoscut pentru suprafața sa ca o oglindă.",
-      en: "A beautiful lake in the Torres del Paine National Park, known for its reflective water surface."
-    },
-    facts: {
-      de: ["Wird von den Cuernos del Paine überragt.", "Das Wasser ist eiskalt und kristallklar."],
-      hu: ["A Cuernos del Paine magasodik fölé.", "Vize jéghideg és kristálytiszta."],
-      ro: ["Este dominat de Cuernos del Paine.", "Apa este rece ca gheața și cristalină."],
-      en: ["Is dominated by the Cuernos del Paine.", "The water is freezing cold and crystal clear."]
-    }
-  },
-  {
-    id: "lago-ranco-nature-v2",
-    type: "lake",
-    parent: "CL-LR",
-    coords: [-72.3333, -40.2500],
-    name: { de: "Lago Ranco", hu: "Lago Ranco", ro: "Lago Ranco", en: "Lago Ranco" },
-    description: {
-      de: "Ein großer See in der Region Los Ríos, in dessen Mitte sich mehrere bewohnte Inseln befinden.",
-      hu: "Nagy tó a Los Ríos régióban, melynek közepén több lakott sziget található.",
-      ro: "Un lac mare în regiunea Los Ríos, în mijlocul căruia se află mai multe insule locuite.",
-      en: "A large lake in the Los Ríos region, in the middle of which are several inhabited islands."
-    },
-    facts: {
-      de: ["Die Insel Huapi ist die größte im See.", "Umgeben von einheimischen Mapuche-Gemeinden."],
-      hu: ["A Huapi-sziget a legnagyobb a tóban.", "Helyi mapuche közösségek veszik körül."],
-      ro: ["Insula Huapi este cea mai mare din lac.", "Înconjurat de comunități indigene Mapuche."],
-      en: ["Huapi Island is the largest in the lake.", "Surrounded by indigenous Mapuche communities."]
-    }
-  },
-  {
-    id: "isla-de-chiloe-nature-v2",
-    type: "island",
-    parent: "CL-LL",
-    coords: [-73.8000, -42.6667],
-    name: { de: "Isla de Chiloé", hu: "Isla de Chiloé", ro: "Isla de Chiloé", en: "Isla de Chiloé" },
-    description: {
-      de: "Die größte Insel des Chiloé-Archipels, bekannt für ihre mystische Folklore und Holzkirchen.",
-      hu: "A Chiloé-szigetcsoport legnagyobb szigete, amely misztikus folklórjáról és fatemplomairól ismert.",
-      ro: "Cea mai mare insulă din arhipelagul Chiloé, cunoscută pentru folclorul ei mistic și bisericile din lemn.",
-      en: "The largest island of the Chiloé Archipelago, known for its mystical folklore and wooden churches."
-    },
-    facts: {
-      de: ["Heimat einzigartiger Mythen und Legenden.", "Viele Kirchen sind UNESCO-Weltkulturerbe."],
-      hu: ["Egyedi mítoszok és legendák otthona.", "Sok temploma UNESCO Világörökség része."],
-      ro: ["Găzduiește mituri și legende unice.", "Multe biserici sunt în Patrimoniul Mondial UNESCO."],
-      en: ["Home to unique myths and legends.", "Many churches are UNESCO World Heritage sites."]
-    }
-  },
-  {
-    id: "rapa-nui-nature-v2",
-    type: "island",
-    parent: "CL-VS",
-    coords: [-109.3667, -27.1167],
-    name: { de: "Rapa Nui", hu: "Rapa Nui", ro: "Rapa Nui", en: "Rapa Nui" },
-    description: {
-      de: "Eine entlegene Pazifikinsel, weltberühmt für ihre riesigen steinernen Moai-Statuen.",
-      hu: "Félreeső csendes-óceáni sziget, amely világhírű az óriási kő Moai-szobrairól.",
-      ro: "O insulă izolată din Pacific, faimoasă în întreaga lume pentru statuile sale uriașe de piatră Moai.",
-      en: "A remote Pacific island, world-famous for its giant stone Moai statues."
-    },
-    facts: {
-      de: ["Liegt über 3500 Kilometer vom Festland entfernt.", "Eines der isoliertesten bewohnten Gebiete der Erde."],
-      hu: ["Több mint 3500 kilométerre fekszik a szárazföldtől.", "A Föld egyik legelszigeteltebb lakott területe."],
-      ro: ["Se află la peste 3500 de kilometri de continent.", "Una dintre cele mai izolate zone locuite de pe Pământ."],
-      en: ["Located over 3500 kilometers from the mainland.", "One of the most isolated inhabited areas on Earth."]
-    }
-  },
-  {
-    id: "isla-robinson-crusoe-nature-v2",
-    type: "island",
-    parent: "CL-VS",
-    coords: [-78.8333, -33.6333],
-    name: { de: "Isla Robinson Crusoe", hu: "Isla Robinson Crusoe", ro: "Isla Robinson Crusoe", en: "Isla Robinson Crusoe" },
-    description: {
-      de: "Die Hauptinsel des Juan-Fernández-Archipels, die den berühmten Roman von Daniel Defoe inspirierte.",
-      hu: "A Juan Fernández-szigetek főszigete, amely Daniel Defoe híres regényét ihlette.",
-      ro: "Insula principală a arhipelagului Juan Fernández, care a inspirat faimosul roman al lui Daniel Defoe.",
-      en: "The main island of the Juan Fernández Archipelago, which inspired Daniel Defoe's famous novel."
-    },
-    facts: {
-      de: ["Der Seemann Alexander Selkirk strandete hier.", "Besitzt eine hohe Rate an endemischen Pflanzen."],
-      hu: ["Alexander Selkirk tengerész itt szenvedett hajótörést.", "Magas az endemikus növények aránya."],
-      ro: ["Marinarul Alexander Selkirk a naufragiat aici.", "Are o rată ridicată de plante endemice."],
-      en: ["The sailor Alexander Selkirk was stranded here.", "Has a high rate of endemic plants."]
-    }
-  },
-  {
-    id: "tierra-del-fuego-nature-v2",
-    type: "island",
-    parent: "CL-MA",
-    coords: [-69.3333, -54.0000],
-    name: { de: "Tierra del Fuego", hu: "Tierra del Fuego", ro: "Tierra del Fuego", en: "Tierra del Fuego" },
-    description: {
-      de: "Eine kühle und windige Inselgruppe an der Südspitze Südamerikas, geteilt mit Argentinien.",
-      hu: "Hűvös és szeles szigetcsoport Dél-Amerika déli csücskén, amelyen Argentínával osztozik.",
-      ro: "Un arhipelag rece și vântos la vârful sudic al Americii de Sud, împărțit cu Argentina.",
-      en: "A cool and windy archipelago at the southern tip of South America, shared with Argentina."
-    },
-    facts: {
-      de: ["Magellan benannte sie nach den Feuern der Ureinwohner.", "Geprägt von rauen Landschaften und Gletschern."],
-      hu: ["Magellán az őslakosok tüzeiről nevezte el.", "Zord tájak és gleccserek jellemzik."],
-      ro: ["Magellan a numit-o după focurile indigenilor.", "Caracterizată de peisaje aspre și ghețari."],
-      en: ["Magellan named it after the fires of the indigenous people.", "Characterized by harsh landscapes and glaciers."]
-    }
-  },
-  {
-    id: "isla-navarino-nature-v2",
-    type: "island",
-    parent: "CL-MA",
-    coords: [-67.6667, -55.0833],
-    name: { de: "Isla Navarino", hu: "Isla Navarino", ro: "Isla Navarino", en: "Isla Navarino" },
-    description: {
-      de: "Eine chilenische Insel nahe dem Kap Hoorn, die als Tor zur Antarktis dient.",
-      hu: "Chilei sziget a Horn-fok közelében, amely az Antarktisz kapujaként szolgál.",
-      ro: "O insulă chiliană lângă Capul Horn, care servește drept poartă către Antarctica.",
-      en: "A Chilean island near Cape Horn, which serves as a gateway to Antarctica."
-    },
-    facts: {
-      de: ["Hier liegt Puerto Williams, die südlichste Siedlung.", "Beliebt für extreme Trekkingtouren."],
-      hu: ["Itt fekszik Puerto Williams, a legdélebbi település.", "Népszerű az extrém túrázásokhoz."],
-      ro: ["Aici se află Puerto Williams, cea mai sudică așezare.", "Populară pentru drumeții extreme."],
-      en: ["Here lies Puerto Williams, the southernmost settlement.", "Popular for extreme trekking tours."]
-    }
-  },
-  {
-    id: "isla-wellington-nature-v2",
-    type: "island",
-    parent: "CL-MA",
-    coords: [-74.8833, -49.3833],
-    name: { de: "Isla Wellington", hu: "Isla Wellington", ro: "Isla Wellington", en: "Isla Wellington" },
-    description: {
-      de: "Eine der größten Inseln in den chilenischen Fjorden, fast vollständig aus wilder Natur bestehend.",
-      hu: "A chilei fjordok egyik legnagyobb szigete, amely szinte teljesen vad természetből áll.",
-      ro: "Una dintre cele mai mari insule din fiordurile chiliene, constând aproape în întregime din natură sălbatică.",
-      en: "One of the largest islands in the Chilean fjords, consisting almost entirely of wild nature."
-    },
-    facts: {
-      de: ["Die einzige Siedlung ist das kleine Puerto Edén.", "Heimat des indigenen Kawésqar-Volkes."],
-      hu: ["Az egyetlen település a kis Puerto Edén.", "A bennszülött kawésqar nép otthona."],
-      ro: ["Singura așezare este mica Puerto Edén.", "Căminul poporului indigen Kawésqar."],
-      en: ["The only settlement is the small Puerto Edén.", "Home of the indigenous Kawésqar people."]
-    }
-  },
-  {
-    id: "selva-valdiviana-nature-v2",
-    type: "forest",
-    parent: "CL-LR",
-    coords: [-73.0000, -39.8333],
-    name: { de: "Selva Valdiviana", hu: "Selva Valdiviana", ro: "Selva Valdiviana", en: "Selva Valdiviana" },
-    description: {
-      de: "Ein temperierter Regenwald, der sich durch eine immense Biodiversität und feuchtes Klima auszeichnet.",
-      hu: "Mérsékelt övi esőerdő, amelyet hatalmas biodiverzitás és nedves éghajlat jellemez.",
-      ro: "O pădure tropicală temperată, caracterizată printr-o imensă biodiversitate și un climat umed.",
-      en: "A temperate rainforest characterized by immense biodiversity and a humid climate."
-    },
-    facts: {
-      de: ["Einer der wenigen gemäßigten Regenwälder der Erde.", "Heimat des winzigen Pudu-Hirsches."],
-      hu: ["A Föld kevés mérsékelt övi esőerdejének egyike.", "Az apró pudu szarvas otthona."],
-      ro: ["Una dintre puținele păduri tropicale temperate de pe Pământ.", "Căminul micului cerb Pudu."],
-      en: ["One of the few temperate rainforests on Earth.", "Home of the tiny Pudu deer."]
-    }
-  },
-  {
-    id: "bosque-de-araucarias-nature-v2",
-    type: "forest",
+    id: "parque-nacional-conguillio-nature-v2",
+    type: "nature",
     parent: "CL-AR",
     coords: [-71.6500, -38.6500],
-    name: { de: "Bosque de Araucarias", hu: "Bosque de Araucarias", ro: "Bosque de Araucarias", en: "Bosque de Araucarias" },
+    name: {
+      de: "Nationalpark Conguillío",
+      hu: "Conguillío Nemzeti Park",
+      ro: "Parcul Național Conguillío",
+      en: "Conguillío National Park"
+    },
     description: {
-      de: "Uralte Wälder, die von den markanten Chilenischen Schmucktannen dominiert werden.",
-      hu: "Ősi erdők, amelyeket a jellegzetes chilei araukária fenyők uralnak.",
-      ro: "Păduri străvechi, dominate de pinii chilieni Araucaria distinctivi.",
-      en: "Ancient forests dominated by the distinctive Chilean Araucaria pines."
+      de: "Ein spektakulärer Park in den Araukarienwäldern, dominiert vom Vulkan Llaima.",
+      hu: "Lélegzetelállító park az araukáriaerdőkben, amelyet a Llaima vulkán ural.",
+      ro: "Un parc spectaculos în pădurile de araucaria, dominat de vulcanul Llaima.",
+      en: "A spectacular park in the araucaria forests, dominated by the Llaima volcano."
+    },
+    descriptionAdvanced: {
+      de: "Der Conguillío-Nationalpark ist für seine ausgedehnten Araukarienwälder berühmt, deren Ursprung bis weit zurück in die Erdgeschichte reicht. Die Landschaft ist maßgeblich vom aktiven Vulkan Llaima geformt worden, was zu einer beeindruckenden Vielfalt an geologischen Strukturen wie Lavaströmen und vulkanischen Seen führte. Es ist ein lebendiges Beispiel für die natürliche Entstehung und Veränderung einer vulkanischen Landschaft.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der uralten Araukarienwälder in Chile.", "Geologisch geformt durch den aktiven Vulkan Llaima.", "Beeindruckende vulkanische Seen und Lavaformationen.", "Wichtiger Forschungsort zur vulkanischen Dynamik und Waldentwicklung."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
     },
     facts: {
-      de: ["Die Bäume können über tausend Jahre alt werden.", "Ein heiliger Baum für das Volk der Mapuche."],
-      hu: ["A fák több mint ezer évig is élhetnek.", "Szent fa a mapuche nép számára."],
-      ro: ["Copacii pot trăi peste o mie de ani.", "Un arbore sacru pentru poporul Mapuche."],
-      en: ["The trees can live for over a thousand years.", "A sacred tree for the Mapuche people."]
+      de: ["Die Araukarien sind bis zu 2.000 Jahre alt.", "Der Vulkan Llaima ist einer der aktivsten Vulkane Chiles."],
+      hu: ["Az araukáriák akár 2000 évesek is lehetnek.", "A Llaima az egyik legaktívabb chilei vulkán."],
+      ro: ["Araucariile pot avea până la 2.000 de ani.", "Llaima este unul dintre cei mai activi vulcani din Chile."],
+      en: ["The araucarias can be up to 2,000 years old.", "Llaima is one of the most active volcanoes in Chile."]
     }
   },
   {
-    id: "mar-chileno-nature-v2",
-    type: "sea",
-    parent: "CL-VS",
-    coords: [-75.0000, -30.0000],
-    name: { de: "Mar Chileno", hu: "Mar Chileno", ro: "Mar Chileno", en: "Mar Chileno" },
+    id: "parque-nacional-queulat-nature-v2",
+    type: "nature",
+    parent: "CL-AI",
+    coords: [-72.5000, -44.5000],
+    name: {
+      de: "Nationalpark Queulat",
+      hu: "Queulat Nemzeti Park",
+      ro: "Parcul Național Queulat",
+      en: "Queulat National Park"
+    },
     description: {
-      de: "Das Gebiet des Pazifischen Ozeans vor der chilenischen Küste, reich an marinem Leben.",
-      hu: "A Csendes-óceán chilei partok előtti területe, amely gazdag tengeri élővilágban.",
-      ro: "Zona Oceanului Pacific de pe coasta chiliană, bogată în viață marină.",
-      en: "The area of the Pacific Ocean off the Chilean coast, rich in marine life."
+      de: "Bekannt für seinen berühmten Hängegletscher, eingebettet in einen dichten patagonischen Regenwald.",
+      hu: "Híres függőgleccseréről, amely sűrű patagóniai esőerdőben található.",
+      ro: "Faimos pentru ghețarul său suspendat, situat într-o pădure tropicală patagoneză densă.",
+      en: "Known for its famous hanging glacier set in a dense Patagonian rainforest."
+    },
+    descriptionAdvanced: {
+      de: "Der Nationalpark Queulat ist ein verborgenes Juwel in der Region Aysén. Die Hauptattraktion ist der 'Ventisquero Colgante', ein spektakulärer Hängegletscher, der das Eis über eine steile Felswand in einen kleinen See stürzen lässt. Dieser Gletscher ist umgeben von tiefen, unberührten Regenwäldern, die für die hohe Niederschlagsmenge Patagoniens charakteristisch sind und ein einzigartiges Mikroklima schaffen.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Markanter Hängegletscher 'Ventisquero Colgante' als Hauptattraktion.", "Eingebettet in einen der ursprünglichsten Regenwälder Patagoniens.", "Ökologisch bedeutsam aufgrund der extrem hohen Niederschlagsraten.", "Einzigartige Landschaftsstruktur durch Gletscher- und Waldkombination."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
     },
     facts: {
-      de: ["Der kalte Humboldtstrom prägt das Ökosystem.", "Wichtig für die chilenische Fischereiindustrie."],
-      hu: ["A hideg Humboldt-áramlat határozza meg az ökoszisztémát.", "Fontos a chilei halászati ipar számára."],
-      ro: ["Curentul rece Humboldt modelează ecosistemul.", "Important pentru industria pescuitului chilian."],
-      en: ["The cold Humboldt Current shapes the ecosystem.", "Important for the Chilean fishing industry."]
+      de: ["Der Hängegletscher ist eine der meistfotografierten Sehenswürdigkeiten Chiles.", "Der Park liegt an der Carretera Austral."],
+      hu: ["A függőgleccser Chile egyik leggyakrabban fotózott látnivalója.", "A park a Carretera Austral mentén található."],
+      ro: ["Ghețarul suspendat este una dintre cele mai fotografiate atracții din Chile.", "Parcul este situat pe Carretera Austral."],
+      en: ["The hanging glacier is one of the most photographed attractions in Chile.", "The park is located on the Carretera Austral."]
     }
   },
   {
-    id: "estrecho-de-magallanes-nature-v2",
-    type: "sea",
+    id: "parque-nacional-vicente-perez-rosales-nature-v2",
+    type: "nature",
+    parent: "CL-LL",
+    coords: [-71.8500, -41.1500],
+    name: {
+      de: "Nationalpark Vicente Pérez Rosales",
+      hu: "Vicente Pérez Rosales Nemzeti Park",
+      ro: "Parcul Național Vicente Pérez Rosales",
+      en: "Vicente Pérez Rosales National Park"
+    },
+    description: {
+      de: "Der älteste Nationalpark Chiles mit den beeindruckenden Petrohué-Wasserfällen und dem Osorno-Vulkan.",
+      hu: "Chile legrégebbi nemzeti parkja a lenyűgöző Petrohué-vízesésekkel és az Osorno vulkánnal.",
+      ro: "Cel mai vechi parc național din Chile, cu impresionantele cascade Petrohué și vulcanul Osorno.",
+      en: "Chile's oldest national park with the impressive Petrohué Waterfalls and Osorno Volcano."
+    },
+    descriptionAdvanced: {
+      de: "Der Vicente Pérez Rosales ist Chiles ältester Nationalpark und liegt malerisch zwischen hohen Bergen und tiefen Seen. Die Petrohué-Wasserfälle, die sich über Lavagestein ergießen, sind dabei ein absoluter Höhepunkt. Überragt wird das Panorama vom symmetrischen Osorno-Vulkan, dessen Silhouette eine der bekanntesten Bilder Chiles darstellt.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Ältester Nationalpark Chiles (gegründet 1926).", "Bekannt für die tosenden Petrohué-Wasserfälle über Lavagestein.", "Dominante Lage des Vulkans Osorno im Nationalparkgebiet.", "Bedeutendes Ziel für den ökologischen Tourismus in der Seenregion."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
+    },
+    facts: {
+      de: ["Der Park wurde 1926 als erster Nationalpark Chiles gegründet.", "Die Petrohué-Wasserfälle ergießen sich über Vulkangestein."],
+      hu: ["A parkot 1926-ban alapították Chile első nemzeti parkjaként.", "A Petrohué-vízesések vulkáni kőzeten keresztül ömlenek."],
+      ro: ["Parcul a fost fondat în 1926 ca primul parc național din Chile.", "Cascadele Petrohué curg peste rocă vulcanică."],
+      en: ["The park was founded in 1926 as Chile's first national park.", "The Petrohué Waterfalls cascade over volcanic rock."]
+    }
+  },
+  {
+    id: "desierto-de-atacama-nature-v2",
+    type: "nature",
+    parent: "CL-AN",
+    coords: [-69.2500, -23.9000],
+    name: {
+      de: "Atacama-Wüste",
+      hu: "Atacama-sivatag",
+      ro: "Deșertul Atacama",
+      en: "Atacama Desert"
+    },
+    description: {
+      de: "Die trockenste Wüste der Welt mit faszinierenden Salzseen, Geysiren und klarem Sternenhimmel.",
+      hu: "A világ legszárazabb sivataga, lenyűgöző sóstavakkal, gejzírekkel és tiszta csillagos égbolttal.",
+      ro: "Cel mai uscat deșert din lume, cu lacuri sărate fascinante, gheizere și un cer înstelat limpede.",
+      en: "The driest desert in the world with fascinating salt lakes, geysers, and clear starry skies."
+    },
+    descriptionAdvanced: {
+      de: "Die Atacama-Wüste ist ein Ort der Superlative: Sie gilt als die trockenste Wüste der Erde. Ihre Landschaft ist geprägt von riesigen Salzseen, heißen Quellen und einer geologischen Vielfalt, die an fremde Planeten erinnert. Aufgrund ihrer extremen Trockenheit und der geringen Lichtverschmutzung ist sie zudem einer der besten Orte weltweit für astronomische Beobachtungen.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Weltweit trockenster Wüstenort mit extremen Bedingungen.", "Berühmt für astronomische Observatorien wegen des klaren Himmels.", "Umfasst riesige Salzebenen und eine einzigartige geologische Vielfalt.", "Wissenschaftlich zentraler Ort für die astrobiologische Forschung."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
+    },
+    facts: {
+      de: ["Einige Regionen haben seit Jahrhunderten keinen Niederschlag verzeichnet.", "Sie ist ein Paradies für Astronomen."],
+      hu: ["Egyes részeken évszázadok óta nem esett eső.", "A csillagászok paradicsoma."],
+      ro: ["Unele regiuni nu au înregistrat precipitații de secole.", "Este un paradis pentru astronomi."],
+      en: ["Some regions have not seen precipitation for centuries.", "It is a paradise for astronomers."]
+    }
+  },
+  {
+    id: "parque-nacional-chiloé-nature-v2",
+    type: "nature",
+    parent: "CL-LL",
+    coords: [-74.0500, -42.6000],
+    name: {
+      de: "Nationalpark Chiloé",
+      hu: "Chiloé Nemzeti Park",
+      ro: "Parcul Național Chiloé",
+      en: "Chiloé National Park"
+    },
+    description: {
+      de: "Ein Park an der Westküste der Insel Chiloé, der für seine dichten Regenwälder, Dünen und die pazifische Küste bekannt ist.",
+      hu: "Park Chiloé szigetének nyugati partján, amely sűrű esőerdőiről, dűnéiről és csendes-óceáni partjáról ismert.",
+      ro: "Un parc pe coasta de vest a insulei Chiloé, cunoscut pentru pădurile sale tropicale dense, dune și coasta Pacificului.",
+      en: "A park on the west coast of Chiloé Island, known for its dense rainforests, dunes, and Pacific coast."
+    },
+    descriptionAdvanced: {
+      de: "Der Chiloé-Nationalpark an der wilden Westküste der Insel Chiloé besticht durch eine außergewöhnliche Mischung aus Ökosystemen. Er umfasst dichte, immergrüne Regenwälder, weite Dünenlandschaften und eine raue pazifische Küstenlinie. Die Vielfalt macht ihn zu einem bedeutenden Gebiet für die Erforschung lokaler Flora und bietet einen Lebensraum für seltene Tierarten, die in dieser isolierten Inselregion gedeihen.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Vielfältiges Ökosystem mit Regenwäldern, Dünen und Pazifikküste.", "Schutzgebiet für seltene, endemische Arten der Insel.", "Wichtiger Ort für die Erforschung der isolierten Inselökologie.", "Landschaftlich raue und unberührte Westküste von Chiloé."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
+    },
+    facts: {
+      de: ["Die Küste ist rau und geprägt von den Einflüssen des Pazifiks.", "Er beheimatet eine reiche Vielfalt an einheimischen Pflanzen."],
+      hu: ["A tengerpart zord, a Csendes-óceán hatásai érvényesülnek.", "Gazdag őshonos növényvilágnak ad otthont."],
+      ro: ["Coasta este aspră și modelată de influențele Pacificului.", "Găzduiește o bogată varietate de plante native."],
+      en: ["The coast is rugged and shaped by the influences of the Pacific.", "It is home to a rich variety of native plants."]
+    }
+  },
+  {
+    id: "parque-nacional-tierra-del-fuego-nature-v2",
+    type: "nature",
     parent: "CL-MA",
-    coords: [-71.0000, -53.2500],
-    name: { de: "Estrecho de Magallanes", hu: "Estrecho de Magallanes", ro: "Estrecho de Magallanes", en: "Estrecho de Magallanes" },
+    coords: [-68.5000, -54.8000],
+    name: {
+      de: "Nationalpark Tierra del Fuego",
+      hu: "Tűzföld Nemzeti Park",
+      ro: "Parcul Național Țara de Foc",
+      en: "Tierra del Fuego National Park"
+    },
     description: {
-      de: "Eine der wichtigsten natürlichen Schiffspassagen der Welt, die den Atlantik mit dem Pazifik verbindet.",
-      hu: "A világ egyik legfontosabb természetes hajózási útvonala, amely az Atlanti-óceánt köti össze a Csendes-óceánnal.",
-      ro: "Unul dintre cele mai importante pasaje navale naturale din lume, care leagă Atlanticul de Pacific.",
-      en: "One of the most important natural shipping passages in the world, connecting the Atlantic with the Pacific."
+      de: "Ein südliches Naturparadies in Feuerland, bekannt für seine unberührten Wälder, Berge und die Nähe zum Ende der Welt.",
+      hu: "Déli természeti paradicsom Tűzföldön, amely érintetlen erdőiről, hegyeiről és a világ végéhez való közelségéről híres.",
+      ro: "Un paradis natural sudic în Țara de Foc, faimos pentru pădurile sale virgine, munți și apropierea de capătul lumii.",
+      en: "A southern natural paradise in Tierra del Fuego, famous for its pristine forests, mountains, and proximity to the end of the world."
+    },
+    descriptionAdvanced: {
+      de: "Der Nationalpark Tierra del Fuego bildet den südlichsten Teil Chiles in der rauen Region Feuerlands. Die Landschaft ist eine beeindruckende Mischung aus dichten, unberührten Wäldern, schroffen Bergen und einer Küstenlinie, die den 'Ende der Welt'-Charakter Patagoniens perfekt einfängt. Es ist ein Ort der extremen Natur, an dem die unberührten Ökosysteme Schutz finden.",
+      hu: "",
+      ro: "",
+      en: "Detailed overview of this Chilean location. Geography K7 — Explore the historical, cultural, and geographical significance of this site. This area is essential for understanding regional dynamics and environmental conditions. Researchers often highlight its role in local infrastructure and sustainable development. As a key reference point, it offers insights into Chile's diverse national profile."
+    },
+    factsAdvanced: {
+      de: ["Südlichstes Naturschutzgebiet Chiles in der Region Feuerland.", "Landschaft aus dichten Wäldern, Bergen und rauer Küstenlinie.", "Symbolträchtige Nähe zum südlichsten Ende des amerikanischen Kontinents.", "Erhalt von unberührten, extremen Ökosystemen im Süden."],
+      hu: [],
+      ro: [],
+      en: ["Important Chilean location with regional significance.", "Key subject for studies in Geography K7.", "Plays a crucial role in local history and environment."]
     },
     facts: {
-      de: ["Wurde 1520 von Ferdinand Magellan entdeckt.", "Berüchtigt für starke Winde und Strömungen."],
-      hu: ["Ferdinand Magellán fedezte fel 1520-ban.", "Hírhedt az erős szelekről és áramlatokról."],
-      ro: ["A fost descoperit de Ferdinand Magellan în 1520.", "Notoriu pentru vânturile și curenții puternici."],
-      en: ["Was discovered by Ferdinand Magellan in 1520.", "Notorious for strong winds and currents."]
+      de: ["Es ist einer der südlichsten Parks der Welt.", "Die Region ist bekannt als das 'Ende der Welt'."],
+      hu: ["A világ egyik legdélibb parkja.", "A régiót 'a világ végének' nevezik."],
+      ro: ["Este unul dintre cele mai sudice parcuri din lume.", "Regiunea este cunoscută drept 'capătul lumii'."],
+      en: ["It is one of the southernmost parks in the world.", "The region is known as the 'end of the world'."]
     }
   }
 ];

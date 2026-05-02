@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraBelizeCitiesV2 } from "./poiExtraBelizeCitiesV2";
+import { poiExtraBelizeEconomicV2 } from "./poiExtraBelizeEconomicV2";
+import { poiExtraBelizeHistoryV2 } from "./poiExtraBelizeHistoryV2";
+import { poiExtraBelizeLandmarksV2 } from "./poiExtraBelizeLandmarksV2";
+import { poiExtraBelizeLifeV2 } from "./poiExtraBelizeLifeV2";
+import { poiExtraBelizeNatureV2 } from "./poiExtraBelizeNatureV2";
+import { poiExtraBelizeReliefV2 } from "./poiExtraBelizeReliefV2";
 
 export const belizeCountry: POI[] = [];
 export const belizeRegions: POI[] = [];
@@ -720,4 +727,4 @@ export const belizeLandmarks: POI[] = [
   }
 ];
 
-export const belizeAllPoi: POI[] = [...belizeCountry, ...belizeRegions, ...belizeCities, ...belizeLandmarks];
+export const belizeAllPoi: POI[] = [...belizeCountry, ...belizeRegions, ...belizeCities, ...belizeLandmarks, ...poiExtraBelizeCitiesV2, ...poiExtraBelizeEconomicV2, ...poiExtraBelizeHistoryV2, ...poiExtraBelizeLandmarksV2, ...poiExtraBelizeLifeV2, ...poiExtraBelizeNatureV2, ...poiExtraBelizeReliefV2];

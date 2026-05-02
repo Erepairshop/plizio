@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ES-VA",
+    "name": "Valladolid",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-ZA",
+    "name": "Zamora",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-B",
+    "name": "Barcelona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GI",
+    "name": "Girona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-L",
+    "name": "Lleida",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-T",
+    "name": "Tarragona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-BA",
+    "name": "Badajoz",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CC",
+    "name": "C\u00c3\u00a1ceres",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-C",
+    "name": "A Coru\u00c3\u00b1a",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-LU",
+    "name": "Lugo",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-OR",
+    "name": "Ourense",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-PO",
+    "name": "Pontevedra",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-BI",
+    "name": "Biscay",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SS",
+    "name": "Gipuzkoa",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-VI",
+    "name": "\u00c3\u0081lava",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-A",
+    "name": "Alicante",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CS",
+    "name": "Castell\u00c3\u00b3n",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-V",
+    "name": "Valencia",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-MAD",
+    "name": "Madrid",
+    "file": "lib/visualLab/data/poiExtraSpainCities.ts"
+  },
+  {
+    "id": "ES-BCN",
+    "name": "Barcelona",
+    "file": "lib/visualLab/data/poiExtraSpainCities.ts"
+  },
+  {
+    "id": "ES-ALH",
+    "name": "Alhambra",
+    "file": "lib/visualLab/data/poiExtraSpainHistory.ts"
+  },
+  {
+    "id": "ES-TEI",
+    "name": "Teide",
+    "file": "lib/visualLab/data/poiExtraSpainOther.ts"
+  }
+]

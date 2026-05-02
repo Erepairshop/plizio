@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraPanamaCitiesV2 } from "./poiExtraPanamaCitiesV2";
+import { poiExtraPanamaEconomicV2 } from "./poiExtraPanamaEconomicV2";
+import { poiExtraPanamaHistoryV2 } from "./poiExtraPanamaHistoryV2";
+import { poiExtraPanamaLandmarksV2 } from "./poiExtraPanamaLandmarksV2";
+import { poiExtraPanamaLifeV2 } from "./poiExtraPanamaLifeV2";
+import { poiExtraPanamaNatureV2 } from "./poiExtraPanamaNatureV2";
+import { poiExtraPanamaReliefV2 } from "./poiExtraPanamaReliefV2";
 
 export const panamaCountry: POI[] = [];
 export const panamaRegions: POI[] = [];
@@ -779,4 +786,4 @@ export const panamaLandmarks: POI[] = [
   }
 ];
 
-export const panamaAllPoi: POI[] = [...panamaCountry, ...panamaRegions, ...panamaCities, ...panamaLandmarks];
+export const panamaAllPoi: POI[] = [...panamaCountry, ...panamaRegions, ...panamaCities, ...panamaLandmarks, ...poiExtraPanamaCitiesV2, ...poiExtraPanamaEconomicV2, ...poiExtraPanamaHistoryV2, ...poiExtraPanamaLandmarksV2, ...poiExtraPanamaLifeV2, ...poiExtraPanamaNatureV2, ...poiExtraPanamaReliefV2];

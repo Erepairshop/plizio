@@ -26,8 +26,14 @@ export const belarusCountry: POI = {
             "A fővárost, Minszket 1945 után szinte teljesen újjáépítették a monumentális szovjet klasszicizmus stílusában.",
             "Több mint 11 000 tavával az ország Kelet-Európa egyik vízben leggazdagabb régiója."
         ],
-        "ro": [],
-        "en": []
+        "ro": [
+        "Belarus este considerată „plămânul Europei”, deoarece aproape 40% din suprafața țării este acoperită de păduri dense.",
+        "Belovezhskaya Pushcha găzduiește cea mai mare populație liberă de zimbri europeni.",
+        "Țara deține patru situri din Patrimoniul Mondial UNESCO, inclusiv castelele Mir și Nesvizh.",
+        "Capitala Minsk a fost reconstruită aproape în întregime după 1945, în stilul clasicismului sovietic monumental.",
+        "Cu peste 11.000 de lacuri, țara este una dintre cele mai bogate regiuni în resurse de apă din Europa de Est."
+],
+        "en": ["Around 40% of the territory is covered by dense, ancient forests.", "It was one of the founding members of the United Nations in 1945.", "The highest point is Dzyarzhynskaya Hill, standing at only 345 meters above sea level.", "It possesses over 10,000 lakes, largely concentrated in the northern regions."]
     },
   description: {
     de: "Belarus ist ein Binnenstaat in Osteuropa, bekannt für seine weiten Wälder, Seen und seine reiche Geschichte an der Schnittstelle der Kulturen.",
@@ -109,8 +115,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Minsk, die Hauptstadt von Belarus, blickt auf eine über 950-jährige Geschichte zurück, wurde jedoch im Zweiten Weltkrieg fast vollständig zerstört. Der anschließende Wiederaufbau schuf ein einzigartiges Ensemble sowjetischer Monumentalarchitektur, insbesondere entlang der Prachtstraße Unabhängigkeitsboulevard. Heute präsentiert sich die Stadt als modernes Zentrum mit weitläufigen Parkanlagen wie dem Gorki-Park und dem Tscheljuskiniten-Park. Kulturell bietet Minsk mit dem Nationalen Opern- und Balletttheater erstklassige Darbietungen in einem prächtigen Bauwerk. Die Stadt am Fluss Swislatsch verbindet geschickt ihre historische Identität mit der Dynamik einer modernen Metropole.",
         "hu": "Minszk, Fehéroroszország fővárosa, több mint 950 éves múltra tekint vissza, bár a második világháború alatt szinte teljesen elpusztult. Az ezt követő újjáépítés a szovjet monumentális építészet egyedülálló együttesét hozta létre, különösen a Függetlenség sugárút mentén. Ma a város modern központként mutatkozik be, hatalmas parkokkal, mint például a Gorkij-park vagy a Cseljuszkiniták parkja. Kulturális szempontban Minszk elsőrangú előadásokat kínál a Nemzeti Opera- és Balettszínház pompás épületében. A Szviszlacs folyó partján fekvő város ügyesen ötvözi történelmi identitását egy modern metropolisz dinamizmusával.",
-        "ro": "",
-        "en": ""
+        "ro": "Minsk, capitala Belarusului, este o metropolă vibrantă care îmbină moștenirea sovietică cu un ritm de viață modern. Orașul a fost distrus aproape complet în timpul celui de-al Doilea Război Mondial, fiind ulterior reconstruit într-un stil arhitectural stalinist grandios. Bulevardul Independenței este o capodoperă a acestei perioade, străjuit de clădiri impozante și piețe vaste. Pe lângă arhitectura sa distinctivă, Minskul este renumit pentru parcurile sale îngrijite, cum ar fi Parcul Gorki și Parcul Chelyuskinites, care oferă o oază de verdeață în inima orașului. Suburbia Troițkoe adaugă un farmec istoric cu străzile sale pavate și casele pitorești de secol XIX. Istorie K8 — Reconstrucția postbelică.",
+        "en": "Minsk, the capital and largest city of Belarus, is situated along the Svislach and Nyamiha rivers. After being almost entirely destroyed during World War II, the city was rebuilt as a showcase of Soviet monumental architecture, characterized by wide avenues and grandiose squares. Today, it is a bustling metropolis featuring a mix of striking modern structures, such as the diamond-shaped National Library, and carefully restored historical areas like the Trinity Suburb. Minsk is the cultural and economic heart of the country, boasting numerous museums, theaters, and vibrant public parks. It stands as a testament to post-war reconstruction and modern urban development."
     },
     factsAdvanced: {
         "de": [
@@ -131,7 +137,7 @@ export const belarusRegions: POI[] = [
             "Găzduiește Grădina Botanică Centrală, una dintre cele mai mari din Europa ca suprafață și diversitate.",
             "Biblioteca Națională a Belarusului, situată aici, are o formă unică de rombicuboctaedru și este un simbol al orașului."
         ],
-        "en": []
+        "en": ["First mentioned in historical chronicles in the year 1067.", "Independence Avenue (Praspyekt Nyezalyezhnastsi) is one of the longest city thoroughfares in Europe at 15 kilometers.", "The city was awarded the title of 'Hero City' in 1974 for its resistance during WWII.", "Minsk hosts the headquarters of the Commonwealth of Independent States (CIS)."]
     },
     description: {
       de: "Die Hauptstadt von Belarus, bekannt für ihre monumentale sowjetische Architektur und weitläufige Parks.",
@@ -154,8 +160,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Gomel, die zweitgrößte Stadt von Belarus, liegt im Südosten des Landes am Ufer des Flusses Sosch. Die Stadt ist vor allem für ihren beeindruckenden Rumjancev-Paskevitsch-Palastkomplex bekannt, der inmitten eines weitläufigen Parks liegt. Historisch entwickelte sich Gomel ab dem 12. Jahrhundert und wurde später zu einem bedeutenden Industrie- und Bildungszentrum. Die Architektur der Innenstadt ist geprägt von klassizistischen Bauwerken und charmanten Straßenzügen aus dem 19. Jahrhundert. Trotz der Zerstörungen im Zweiten Weltkrieg konnte die Stadt ihren kulturellen Reichtum bewahren und ausbauen.",
         "hu": "Homel, Fehéroroszország második legnagyobb városa, az ország délkeleti részén, a Szozs folyó partján fekszik. A város leginkább a lenyűgöző Rumjancev-Paszkievics-palotáról és a hozzá tartozó hatalmas parkról ismert. Történelmileg Homel a 12. századtól fejlődött, majd később jelentős ipari és oktatási központtá vált. A belváros építészetét a 19. századi klasszicista épületek és bájos utcák jellemzik. A második világháborús pusztítások ellenére a városnak sikerült megőriznie és tovább fejlesztenie kulturális gazdagságát.",
-        "ro": "",
-        "en": ""
+        "ro": "Gomel este al doilea oraș ca mărime din Belarus, situat pitoresc pe malurile râului Soj. Centrul său istoric este dominat de magnificul complex al Palatului Rumianțev-Paskevici, o perlă a arhitecturii clasiciste înconjurat de un parc vast. Orașul a cunoscut o perioadă de înflorire industrială și culturală în secolele XVIII și XIX, devenind un important nod comercial. Gomel combină moștenirea arhitecturală cu un mediu universitar și industrial modern. Parcul palatului, cu specii rare de arbori și poduri grațioase, atrage anual mii de vizitatori. Istorie K7 — Clasicismul.",
+        "en": "Gomel is the second-largest city in Belarus, located in the southeast near the borders with Russia and Ukraine along the banks of the Sozh River. The city is renowned for the magnificent Rumyantsev-Paskevich Residence, a sprawling palace and park ensemble that serves as its cultural centerpiece. Despite the challenges following the 1986 Chernobyl disaster, Gomel has successfully revitalized itself into a thriving industrial and educational hub. Its tree-lined streets, historic architecture, and vibrant arts scene make it a significant destination in the Polesia region. Gomel effectively blends its aristocratic past with contemporary urban life."
     },
     factsAdvanced: {
         "de": [
@@ -176,7 +182,7 @@ export const belarusRegions: POI[] = [
             "Gomel este un nod feroviar strategic care leagă Europa de Est de regiunea baltică.",
             "Orașul găzduiește anual festivalul internațional de artă coregrafică „Slagărul de Aur”."
         ],
-        "en": []
+        "en": ["The city was first documented in 1142, making it one of the oldest settlements in Belarus.", "The Rumyantsev-Paskevich Park spans 34 hectares of meticulously landscaped gardens.", "It is a major center for machine building and agricultural equipment production.", "Gomel sits just 40 kilometers from the Ukrainian border."]
     },
     description: {
       de: "Die zweitgrößte Stadt des Landes, berühmt für den prächtigen Rumyantsev-Paskevich-Palastkomplex.",
@@ -199,8 +205,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Mogilev erstreckt sich malerisch an den Ufern des Dnepr im Osten von Belarus. Die Stadt hat eine bewegte Geschichte hinter sich und war zeitweise sogar als neue Hauptstadt der Belarussischen SSR im Gespräch. Das historische Zentrum besticht durch das prächtig rekonstruierte Rathaus, das ein Symbol für die städtische Selbstverwaltung ist. In den Gassen der Altstadt finden sich zudem sakrale Bauten wie die St.-Stanislaus-Kathedrale mit ihren wertvollen Fresken. Mogilev dient heute als wichtiges wirtschaftliches Zentrum mit einer starken industriellen Basis und lebendigen kulturellen Traditionen.",
         "hu": "Mahiljov festői környezetben, a Dnyeper folyó partján terül el Fehéroroszország keleti részén. A város eseménydús múltra tekint vissza, egy időben még a Belorusz SZSZK új fővárosaként is emlegették. A történelmi központ büszkesége a pompásan újjáépített városháza, amely a városi önkormányzatiság szimbóluma. Az óváros szűk utcáiban olyan szakrális építmények találhatók, mint a Szent Szaniszló-székesegyház értékes freskóival. Mahiljov ma fontos gazdasági központ, erős ipari bázissal és élő kulturális hagyományokkal.",
-        "ro": "",
-        "en": ""
+        "ro": "Moghilău, situat pe malurile abrupte ale râului Nipru, este unul dintre cele mai vechi orașe din estul Belarusului. În perioada medievală, orașul a funcționat ca un important centru comercial la intersecția rutelor comerciale dintre nord și sud. Centrul istoric este caracterizat de primăria sa emblematică, un simbol al autoguvernării, și de străzi pietonale vibrante precum strada Lenin. În timpul Primului Război Mondial, Moghilău a găzduit cartierul general al armatei ruse. Astăzi, orașul se mândrește cu numeroase biserici baroce, piețe largi și un ritm de viață care îmbină tradiția cu dezvoltarea industrială. Istorie K8 — Primul Război Mondial.",
+        "en": "Mogilev, perched on the banks of the Dnieper River in eastern Belarus, holds a rich history dating back to the 13th century. It was an important medieval trade center and briefly served as the military headquarters of the Russian Tsar Nicholas I during World War I. The city is distinguished by its well-preserved historic core, highlighted by the majestic St. Stanislaus Cathedral and the reconstructed City Hall with its impressive clock tower. Mogilev's pedestrian street, Leninskaya, showcases a seamless mix of centuries-old European architecture and Soviet-era urban planning. It remains a dynamic cultural center with a strong industrial base."
     },
     factsAdvanced: {
         "de": [
@@ -221,7 +227,7 @@ export const belarusRegions: POI[] = [
             "Orașul este renumit pentru festivalul internațional de teatru „M.art.kontakt”, organizat anual.",
             "Piața Stelelor din centrul orașului onorează personalitățile marcante ale istoriei locale prin plăci de bronz."
         ],
-        "en": []
+        "en": ["Founded in 1267 around a formidable medieval fortress.", "The city almost became the capital of the Byelorussian SSR in the 1930s before plans changed.", "The restored Town Hall tower reaches a height of 46 meters.", "It is home to the stunning 17th-century St. Nicholas Monastery complex."]
     },
     description: {
       de: "Eine historische Stadt am Fluss Dnepr mit einem charmanten Stadtzentrum und reichem kulturellem Erbe.",
@@ -244,8 +250,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Witebsk, im Nordosten von Belarus am Zusammenfluss von Dwina und Witba gelegen, gilt als die Kulturhauptstadt des Landes. Weltbekannt wurde die Stadt als Geburtsort des Malers Marc Chagall, dessen Erbe hier an vielen Orten spürbar ist. Die historische Altstadt mit ihren Kirchen und dem imposanten Rathaus vermittelt ein authentisches Bild der nordbelarussischen Architektur. Jährlich zieht das internationale Kunstfestival 'Slawischer Basar' tausende Besucher aus aller Welt an. Die Stadt ist zudem ein Zentrum der avantgardistischen Kunstbewegung des frühen 20. Jahrhunderts.",
         "hu": "Vicebszk, az ország északkeleti részén, a Dvina és a Vitba folyók összefolyásánál fekszik, és az ország kulturális fővárosaként tartják számon. A város Marc Chagall festő szülőhelyeként vált világhírűvé, akinek öröksége ma is lépten-nyomon érezhető. A történelmi óváros templomaival és az impozáns városházával hiteles képet nyújt az észak-belarusz építészetről. Évente ezreket vonz a 'Szláv Bazár' nemzetközi művészeti fesztivál. A város emellett a 20. század eleji avantgárd művészeti mozgalom egyik fontos központja volt.",
-        "ro": "",
-        "en": ""
+        "ro": "Vitebsk, un oraș plin de viață situat în nordul țării pe râul Dvina de Vest, este faimos ca un veritabil centru artistic și capitala culturală a Belarusului. Orașul este strâns legat de numele lui Marc Chagall, pictorul avangardist care s-a născut și a trăit aici. Cu arhitectura sa fermecătoare, bisericile ortodoxe pitorești și peisajul colinar, Vitebsk atrage artiști și vizitatori deopotrivă. Anual, orașul prinde viață prin Festivalul Internațional Slavianski Bazaar, care reunește muzicieni din întreaga Europă. Arte K7 — Avangarda și festivalurile culturale.",
+        "en": "Vitebsk is widely celebrated as the cultural capital of Belarus, beautifully situated at the confluence of the Western Dvina and Vitba rivers. It is most famous worldwide as the birthplace of the avant-garde artist Marc Chagall, whose vibrant works were deeply inspired by the city's charming streetscapes and Jewish heritage. The city features a picturesque historic center, characterized by elegant bridges, winding streets, and magnificent Orthodox and Catholic churches. Annually, Vitebsk hosts the renowned Slavianski Bazaar, an international arts festival that draws performers from across Eastern Europe. The city's creative spirit continues to thrive in its many galleries and art schools."
     },
     factsAdvanced: {
         "de": [
@@ -266,7 +272,7 @@ export const belarusRegions: POI[] = [
             "Marc Chagall a imortalizat silueta orașului său natal în numeroase picturi celebre la nivel mondial.",
             "Festivalul „Bazarul Slav” din Vitebsk este unul dintre cele mai mari evenimente culturale din Europa de Est."
         ],
-        "en": []
+        "en": ["Founded by Princess Olga of Kiev in the year 974.", "Marc Chagall established the Vitebsk Arts College here in 1918.", "The Slavianski Bazaar festival has been held annually since 1992.", "It is often referred to as the 'Paris of the East' due to its artistic legacy."]
     },
     description: {
       de: "Die Geburtsstadt von Marc Chagall und ein wichtiges kulturelles Zentrum im Norden von Belarus.",
@@ -289,8 +295,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Grodno, nahe der Grenze zu Polen und Litauen gelegen, ist eine der wenigen Städte in Belarus, die ihre historische Bausubstanz weitgehend bewahren konnten. Die Stadt war einst eine Residenz litauischer Großfürsten und polnischer Könige, was sich in den prächtigen Schlossanlagen widerspiegelt. Die Altstadt wird durch barocke Klöster, die monumentale Franz-Xaver-Kathedrale und charmante Pflasterstraßen geprägt. Grodno gilt als eine der grünsten Städte des Landes und liegt idyllisch am Ufer der Memel. Die kulturelle Vielfalt durch die Grenznähe verleiht der Stadt ein ganz besonderes, europäisches Flair.",
         "hu": "Hrodna, a lengyel és a litván határ közelében fekszik, egyike azon kevés fehérorosz városnak, amely nagyrészt meg tudta őrizni történelmi épületeit. A város egykor a litván nagyfejedelmek és a lengyel királyok rezidenciája volt, ami a pompás kastélyegyüttesekben is tükröződik. Az óvárost barokk kolostorok, a monumentális Szent Ferenc Xavér-székesegyház és bájos macskaköves utcák jellemzik. Hrodna az ország egyik legzöldebb városának számít, idilli fekvésével a Nyeman folyó partján. A határ közelségéből adódó kulturális sokszínűség különleges európai hangulatot kölcsönöz a városnak.",
-        "ro": "",
-        "en": ""
+        "ro": "Grodno, adesea considerat cel mai „european” oraș al Belarusului, este o comoară arhitecturală situată în apropierea granițelor cu Polonia și Lituania. Orașul a servit drept reședință regală în timpul Marelui Ducat al Lituaniei și al Uniunii Polono-Lituaniene, conservând un patrimoniu impresionant de palate și biserici. Grodno este unic prin faptul că și-a păstrat în mare parte centrul istoric, evitând distrugerile masive. Castelul Vechi și Castelul Nou se înalță pe malurile râului Neman, oferind o priveliște grandioasă. Biserica Kalozha, construită în secolul al XII-lea, rămâne unul dintre cele mai prețioase monumente. Istorie K7 — Renașterea.",
+        "en": "Grodno, located in the west of Belarus near the Polish and Lithuanian borders, is arguably the country's most well-preserved historical city. Unscathed by the massive destruction of World War II that leveled other Belarusian cities, it boasts a wealth of original architectural masterpieces. The cityscape is dominated by the dramatic Old and New Castles perched above the Neman River, and the soaring towers of the St. Francis Xavier Cathedral. With its narrow cobblestone streets, diverse religious monuments, and a distinctly Central European atmosphere, Grodno offers a unique glimpse into the region's royal and grand ducal past. It is a vibrant center for education and tourism."
     },
     factsAdvanced: {
         "de": [
@@ -311,7 +317,7 @@ export const belarusRegions: POI[] = [
             "În secolul al XVIII-lea, orașul a fost un centru al Iluminismului și a găzduit una dintre primele farmacii din Europa de Est.",
             "Festivalul Internațional al Culturilor Naționale are loc aici la fiecare doi ani, celebrând diversitatea etnică."
         ],
-        "en": []
+        "en": ["The Old Castle was a favorite residence of the Polish King Stephen Báthory in the 16th century.", "It features the 12th-century Kalozha Church, one of the oldest functioning churches in Eastern Europe.", "Grodno briefly served as the capital of the Belarusian Democratic Republic in 1919.", "The city's historic center remains the largest surviving old town in Belarus."]
     },
     description: {
       de: "Eine der ältesten Städte, bekannt für ihre königlichen Schlösser und gut erhaltene Altstadt.",
@@ -334,8 +340,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Brest liegt direkt an der Grenze zu Polen am Fluss Bug und ist ein bedeutendes Tor zum Westen. Die Stadt ist weltweit vor allem durch die monumentale Festung Brest bekannt, die im Zweiten Weltkrieg zum Symbol für heroischen Widerstand wurde. Abseits der Gedenkstätten bietet Brest eine moderne Fußgängerzone, die Sowjetskaja-Straße, in der noch heute Gaslaternen von Hand angezündet werden. Die Stadt hat eine reiche jüdische Geschichte und war einst ein wichtiges Zentrum des Handels zwischen Ost und West. Heute verbindet Brest seine historische Bedeutung mit einer dynamischen Stadtentwicklung und regem Grenzverkehr.",
         "hu": "Breszt közvetlenül a lengyel határon, a Bug folyó partján fekszik, és jelentős kapu Nyugat felé. A város világszerte leginkább a monumentális breszti erődről ismert, amely a második világháborúban a hősies ellenállás szimbólumává vált. Az emlékhelyeken túl Breszt modern sétálóutcát is kínál, a Szovjetszkaja utcát, ahol a gázlámpákat még ma is kézzel gyújtják meg. A város gazdag zsidó múltra tekint vissza, és egykor Kelet és Nyugat közötti kereskedelem fontos központja volt. Ma Breszt történelmi jelentőségét dinamikus városfejlesztéssel és élénk határforgalommal ötvözi.",
-        "ro": "",
-        "en": ""
+        "ro": "Brest este un oraș încărcat de istorie, situat la granița vestică a Belarusului, un punct de întâlnire între culturi și o poartă importantă spre Europa. Este cunoscut la nivel internațional pentru Cetatea Brest, o fortăreață monumentală din secolul al XIX-lea, devenită un simbol al curajului în urma apărării eroice din 1941. Înainte de al Doilea Război Mondial, Brest a fost un oraș multietnic prosper, reflectat în arhitectura diversă a străzilor sale. Strada pietonală Sovetskaya atrage vizitatorii cu clădiri istorice restaurate și cu un ritual zilnic fascinant de aprindere a lămpilor cu gaz. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "Brest is a historic border city in southwestern Belarus, positioned along the Bug River directly adjacent to Poland. It is universally recognized for the formidable Brest Fortress, a massive 19th-century star fort that became a symbol of extraordinary Soviet resistance during the opening days of the Nazi invasion in 1941. Beyond its military history, Brest features a charming pedestrianized core along Sovetskaya Street, where a traditional lamplighter illuminates real kerosene lamps every evening. The city has long served as a crucial transit point bridging the European Union and the Commonwealth of Independent States. Its diverse past is reflected in its unique blend of Russian, Polish, and Soviet architectural influences."
     },
     factsAdvanced: {
         "de": [
@@ -356,7 +362,7 @@ export const belarusRegions: POI[] = [
             "În fiecare seară, un felinarist în uniformă istorică aprinde manual lămpile de pe strada Sovetskaia.",
             "Orașul se află la doar câțiva kilometri de Parcul Național Belovezhskaya Pushcha, sit UNESCO."
         ],
-        "en": []
+        "en": ["The city celebrated its millennium in 2019, having been first mentioned in 1019.", "The historic Union of Brest was signed here in 1596, creating the Eastern Catholic Churches.", "It is located just minutes away from the pristine Belovezhskaya Pushcha National Park.", "Brest's railway station is an architectural masterpiece originally built in 1886."]
     },
     description: {
       de: "Ein wichtiges Tor zum Westen, berühmt für die heroische Verteidigung seiner Festung im Jahr 1941.",
@@ -379,8 +385,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Schloss Mir ist ein herausragendes Beispiel für die europäische Festungsarchitektur und gehört zum UNESCO-Welterbe. Der Bau begann im 16. Jahrhundert im Stil der polnischen Gotik und wurde später durch Renaissance- und Barockelemente erweitert. Die markanten fünf Türme und die massiven Mauern aus rotem Backstein und weißem Kalkstein verleihen dem Schloss sein charakteristisches Aussehen. Ursprünglich von der Familie Ilinich erbaut, gelangte es später in den Besitz der mächtigen Familie Radziwill. Heute beherbergt das Schloss ein Museum und ist einer der meistbesuchten Orte in ganz Belarus.",
         "hu": "A miri várkastély az európai erődépítészet kiemelkedő példája, és az UNESCO Világörökség része. Az építkezés a 16. században kezdődött lengyel gótikus stílusban, majd később reneszánsz és barokk elemekkel egészült ki. A jellegzetes öt torony, valamint a vörös téglából és fehér mészkőből készült masszív falak egyedi megjelenést kölcsönöznek a várnak. Eredetileg az Ilinics család építtette, később a hatalmas Radziwill család birtokába került. Ma a vár múzeumnak ad otthont, és Fehéroroszország egyik leglátogatottabb helyszíne.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Mir reprezintă o capodoperă excepțională a arhitecturii militare și rezidențiale, combinând armonios elemente de gotic târziu, renaștere și baroc. Construit inițial la începutul secolului al XVI-lea de către magnatul Ilinici, complexul fortificat a fost ulterior extins de faimoasa familie Radziwill, devenind un palat somptuos. Zidurile sale masive de cărămidă roșie, turnurile crenelate și detaliile decorative creează o imagine desprinsă din basmele medievale. Recunoscut de UNESCO ca sit al Patrimoniului Mondial, castelul a fost martorul unor evenimente istorice turbulente. Parcul din jur și lacul reflectă perfect frumusețea sa, atrăgând vizitatori din întreaga lume. Istorie K7 — Fortificațiile medievale.",
+        "en": "Mir Castle Complex is an exceptional monument of Belarusian architecture and a UNESCO World Heritage site, located in the Grodno region. Construction began at the end of the 15th century in the Gothic style, but subsequent centuries saw the addition of Renaissance and Baroque elements by the powerful Radziwiłł family. The formidable five-tower red brick structure is beautifully reflected in the adjacent artificial lake, creating a picturesque fairy-tale setting. It served not only as a defensive stronghold but also as a luxurious aristocratic residence. Today, it stands as a premier tourist attraction featuring extensive museum exhibits that detail its turbulent history."
     },
     factsAdvanced: {
         "de": [
@@ -401,7 +407,7 @@ export const belarusRegions: POI[] = [
             "Capela familiei Svyatopolk-Mirsky de lângă castel impresionează prin decorul său elaborat cu mozaicuri.",
             "Castelul Mir a servit drept locație pentru filmarea a numeroase producții cinematografice istorice."
         ],
-        "en": []
+        "en": ["Designated as a UNESCO World Heritage site in the year 2000.", "The castle's walls are up to 3 meters thick in some places.", "It features an Italian Renaissance garden established in the 16th century.", "The complex suffered severe damage during the Napoleonic Wars but was meticulously restored."]
     },
     description: {
       de: "Ein UNESCO-Welterbe und ein herausragendes Beispiel für die Festungsarchitektur des 16. Jahrhunderts.",
@@ -424,8 +430,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Das Schloss Nesvizh war über Jahrhunderte der Hauptsitz der Familie Radziwill, einer der einflussreichsten Adelsdynastien Osteuropas. Die Anlage gilt als das schönste Schlossensemble in Belarus und gehört ebenfalls zum UNESCO-Welterbe. Die Architektur vereint Einflüsse aus Renaissance, Barock und Rokoko und ist von einem weitläufigen Park- und Teichsystem umgeben. Besonders beeindruckend ist die Innenausstattung mit ihren prachtvollen Sälen, wertvollen Gobelins und einer umfangreichen Bibliothek. Die nahegelegene Fronleichnamskirche dient als Grablege für die Radziwills und ist die erste Barockkirche der Region.",
         "hu": "A nyeszvizsi kastély évszázadokon át a Radziwill család, Kelet-Európa egyik legbefolyásosabb nemesi dinasztiájának székhelye volt. Az együttes Fehéroroszország legszebb kastélyegyüttesének számít, és szintén az UNESCO Világörökség része. Építészete a reneszánsz, a barokk és a rokokó hatásait ötvözi, és hatalmas park- és tórendszer veszi körül. Különösen lenyűgöző a belső berendezés pompás termeivel, értékes faliszőnyegeivel és kiterjedt könyvtárával. A közeli Úrnapja-templom a Radziwillok temetkezési helyéül szolgál, és a régió első barokk temploma.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Nesvizh, sediul ancestral al puternicei dinastii Radziwill, este un exemplu strălucit de cultură nobiliară europeană în inima Belarusului. Acest complex palatin vast, dezvoltat de-a lungul mai multor secole, prezintă o fuziune elegantă a stilurilor renascentist, baroc și clasicist. Este înconjurat de un sistem ingenios de iazuri, șanțuri cu apă și o serie de parcuri peisagistice amenajate cu măiestrie. Fiecare încăpere din palat a fost concepută pentru a demonstra bogăția și influența familiei, în special prin decorul somptuos din Sala de Aur și Sala Tronului. Alături de biserica Corpus Christi adiacentă, complexul ilustrează importanța orașului Nesvizh. Arte K7 — Barocul.",
+        "en": "Nesvizh Castle was the magnificent residential stronghold of the Radziwiłł family, one of the most powerful aristocratic dynasties in the Grand Duchy of Lithuania. The sprawling complex features a harmonious blend of Renaissance, Baroque, and Neoclassical architecture, surrounded by an elaborate system of defensive moats and magnificent landscaped parks. Its opulent interior rooms, including the Golden Hall and the Library, once housed vast collections of art, armor, and rare manuscripts. The adjacent Corpus Christi Church is the first Baroque temple built in Eastern Europe and contains the family's extensive crypt. This UNESCO World Heritage site offers profound insights into the region's noble heritage."
     },
     factsAdvanced: {
         "de": [
@@ -446,7 +452,7 @@ export const belarusRegions: POI[] = [
             "Legenda spune că spiritul „Doamnei Negre”, Barbara Radziwill, bântuie și acum coridoarele castelului.",
             "Parcul castelului include diverse secțiuni tematice, precum grădini în stil englezesc și japonez."
         ],
-        "en": []
+        "en": ["Inscribed on the UNESCO World Heritage list in 2005.", "The Radziwiłł crypt beneath the church contains over 70 coffins, the third largest in Europe.", "The castle's sprawling landscape park covers nearly 90 hectares.", "It hosted numerous kings, tsars, and European nobility throughout its 400-year history."]
     },
     description: {
       de: "Die prachtvolle Residenz der Familie Radziwill, umgeben von wunderschönen Parkanlagen.",
@@ -469,8 +475,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Festung Brest ist eine der bedeutendsten Gedenkstätten Osteuropas und erinnert an die ersten Tage des deutschen Überfalls auf die Sowjetunion im Juni 1941. Die monumentale Anlage umfasst riesige Betonskulpturen, wie das 'Mut'-Denkmal, und den markanten Bajonett-Obelisken. Die Festung wurde ursprünglich im 19. Jahrhundert an der Stelle der alten Stadt Brest errichtet, die dafür komplett verlegt werden musste. Die Ruinen des Weißen Palastes und der Verteidigungskasematten zeugen noch heute von den heftigen Kämpfen. Für ihren außergewöhnlichen Widerstand erhielt die Anlage den Ehrentitel 'Heldenfestung'.",
         "hu": "A breszti erőd Kelet-Európa egyik legfontosabb emlékhelye, amely a Szovjetunió elleni 1941. júniusi német támadás első napjaira emlékeztet. A monumentális építmény hatalmas betonszobrokat foglal magában, mint például a 'Bátorság' emlékművet és a jellegzetes bajonett-obeliszket. Az erődöt eredetileg a 19. században építették a régi Breszt város helyén, amelyet emiatt teljesen át kellett költöztetni. A Fehér Palota romjai és a védelmi kazamaták ma is tanúskodnak a heves harcokról. Kivételes ellenállásáért az erőd elnyerte a 'Hős Erőd' kitüntető címet.",
-        "ro": "",
-        "en": ""
+        "ro": "Cetatea Brest este o fortificație masivă din secolul al XIX-lea, situată la confluența râurilor Bugul de Vest și Muhaveț, și un monument extrem de important al istoriei militare. A câștigat titlul de „Cetate-Erou” după o defensivă extraordinar de tenace din iunie 1941, când garnizoana sovietică izolată a rezistat săptămâni întregi asediului trupelor germane copleșitoare numeric. Astăzi, vasta întindere de ruine din cărămidă roșie, alături de sculpturi monumentale colosale precum monumentul „Curaj”, oferă un tribut emoționant sacrificiului uman. Monumentul atrage anual sute de mii de vizitatori care vin să omagieze rezistența. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "The Brest Fortress is a colossal 19th-century Russian defensive complex that holds a profound place in modern history due to its heroic defense in 1941. When Operation Barbarossa commenced, the fortress's small garrison held out against overwhelming Nazi forces for over a month, far longer than expected. Today, the site serves as the 'Hero Fortress' memorial complex, featuring immense, stark Soviet monuments like the 'Courage' sculpture and the soaring titanium obelisk. The sprawling grounds encompass ruins, preserved red-brick barracks, and solemn eternal flames commemorating the fallen. It remains a deeply emotional and significant site of remembrance for the entire region."
     },
     factsAdvanced: {
         "de": [
@@ -491,7 +497,7 @@ export const belarusRegions: POI[] = [
             "În incinta cetății se află Biserica Sfântul Nicolae, care a supraviețuit războiului în ciuda daunelor grave.",
             "În fiecare an, pe 22 iunie, are loc o ceremonie solemnă de comemorare a începerii războiului."
         ],
-        "en": []
+        "en": ["The central 'Courage' monument is a massive concrete sculpture measuring 33.5 meters high.", "Construction of the original fortress began in 1833 under the Russian Empire.", "It was awarded the title 'Hero Fortress' in 1965 for its WWII defense.", "The site covers over 4 square kilometers of massive defensive earthworks and structures."]
     },
     description: {
       de: "Ein monumentales Denkmal für den Mut und Widerstand während des Zweiten Weltkriegs.",
@@ -514,8 +520,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Der Nationalpark Belovezhskaya Pushcha ist einer der letzten und größten verbliebenen Teile des riesigen Urwaldes, der einst die gesamte europäische Tiefebene bedeckte. Das Gebiet erstreckt sich über die Grenze zwischen Belarus und Polen und gehört zum UNESCO-Welterbe. Hier finden sich uralte Eichen, die teilweise über 600 Jahre alt sind, und eine beeindruckende Artenvielfalt. Das Wahrzeichen des Parks ist der Europäische Bison, der hier in seiner natürlichen Umgebung bewundert werden kann. Neben der unberührten Natur beherbergt der Park auch die belarussische Residenz des Väterchen Frost.",
         "hu": "A Belovezsszkaja Puscsa Nemzeti Park az egykori hatalmas őserdő egyik utolsó és legnagyobb megmaradt darabja, amely egykor az egész európai síkságot borította. A terület a fehérorosz-lengyel határon húzódik, és az UNESCO Világörökség része. Itt ősi tölgyek találhatók, amelyek közül néhány több mint 600 éves, és lenyűgöző a biológiai sokszínűség. A park jelképe az európai bölény, amely itt természetes környezetében csodálható meg. Az érintetlen természet mellett a park ad otthont a belarusz Fagyapó (Gyer Moroz) rezidenciájának is.",
-        "ro": "",
-        "en": ""
+        "ro": "Pădurea Belovezhskaya Pushcha, situată pe granița dintre Belarus și Polonia, este una dintre ultimele relicve ale imensei păduri virgine care acoperea odinioară Câmpia Europeană. Acest parc național și sit al Patrimoniului Mondial UNESCO adăpostește ecosisteme străvechi care au evoluat fără intervenția umană majoră timp de mii de ani. Peisajul este marcat de stejari seculari, pini uriași și mlaștini extinse, creând un habitat ideal pentru o faună diversă. Bijuteria coroanei acestui ecosistem este zimbrul european, un gigant blând care a fost salvat de la extincție aici. Pădurea este un paradis pentru biologi, cercetători și iubitorii de natură. Geografie K7 — Ecosisteme și conservarea naturii.",
+        "en": "Belovezhskaya Pushcha is one of the last and largest remaining parts of the immense primeval forest that once covered the European Plain. Shared between Belarus and Poland, this incredibly biodiverse National Park and UNESCO World Heritage site is an ecological treasure. It is most famous for serving as the sanctuary where the European bison, the continent's heaviest land animal, was saved from the brink of extinction. The ancient woodland features towering oak trees, some over 600 years old, and supports wolves, lynx, and hundreds of bird species. It also holds historical significance as the location where the Soviet Union was officially dissolved in 1991."
     },
     factsAdvanced: {
         "de": [
@@ -536,7 +542,7 @@ export const belarusRegions: POI[] = [
             "Parcul este casa a peste 900 de specii de plante și a sutelor de specii de vertebrate.",
             "Este cea mai veche rezervație naturală din Europa, statutul său de protecție datând din secolul al XIV-lea."
         ],
-        "en": []
+        "en": ["Recognized as a UNESCO World Heritage site in 1979 (expanded in 1992).", "It is home to over 800 free-roaming European bison on the Belarusian side.", "The forest includes the Viskuli hunting estate, site of the 1991 Belavezha Accords.", "Some parts of the forest have remained completely undisturbed by humans for centuries."]
     },
     description: {
       de: "Einer der letzten und größten verbliebenen Teile des riesigen Urwaldes, der einst die europäische Ebene bedeckte.",
@@ -559,8 +565,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Der Nationalpark Braslawer Seen im Norden von Belarus ist eine einzigartige Gletscherlandschaft, die oft als 'Perle von Belarus' bezeichnet wird. Das Gebiet umfasst über 30 miteinander verbundene Seen, die durch sanfte Hügel und dichte Wälder voneinander getrennt sind. Die Region ist ein Paradies für Naturliebhaber, Angler und Wanderer, die die Ruhe und die klare Luft schätzen. Der größte See, der Snudy, beeindruckt durch seine zahlreichen Inseln und das kristallklare Wasser. Die historische Stadt Braslaw thront malerisch auf einer Landzunge zwischen den Seen und bietet weite Ausblicke über die Landschaft.",
         "hu": "A Fehéroroszország északi részén található Braszlavi-tavak Nemzeti Park egy egyedülálló gleccserformálta táj, amelyet gyakran 'Belarus kincseként' emlegetnek. A terület több mint 30, egymással összefüggő tavat foglal magában, amelyeket szelíd dombok és sűrű erdők választanak el egymástól. A régió a természetbarátok, horgászok és túrázók paradicsoma, akik értékelik a nyugalmat és a tiszta levegőt. A legnagyobb tó, a Sznudi, számos szigetével és kristálytiszta vizével nyűgözi le a látogatókat. Braszlav történelmi városa festői módon egy földnyelven trónol a tavak között.",
-        "ro": "",
-        "en": ""
+        "ro": "Parcul Național Lacurile Braslav se află în nordul Belarusului și este o zonă de o frumusețe naturală excepțională, formată în timpul ultimei ere glaciare. Peisajul este caracterizat de un labirint de peste 30 de lacuri interconectate prin canale și mlaștini, creând un ecosistem acvatic complex. Dealurile morenice din jur, acoperite de păduri de pini, oferă puncte de belvedere panoramice asupra ochiurilor de apă limpezi. Aceste lacuri sunt un refugiu vital pentru sute de specii de păsări de apă, dintre care multe sunt rare sau pe cale de dispariție. Zona Braslav este o destinație preferată pentru ecoturism, pescuit și plimbări cu barca. Geografie K7 — Relief glaciar și lacuri.",
+        "en": "Braslav Lakes National Park is a breathtaking natural expanse in northern Belarus, encompassing over 30 interconnected lakes formed by ancient retreating glaciers. The region is characterized by crystal-clear waters, winding rivers, and a complex shoreline of peninsulas and wooded islands. It is a premier destination for ecotourism, offering unparalleled opportunities for boating, fishing, and birdwatching amidst pristine natural surroundings. The diverse landscape supports a wide array of wildlife, including rare bird species and large mammals like elk and wild boar. The park effectively combines ecological preservation with sustainable outdoor recreation."
     },
     factsAdvanced: {
         "de": [
@@ -581,7 +587,7 @@ export const belarusRegions: POI[] = [
             "În parcul național cuibăresc specii rare de păsări, cum ar fi lebăda mută și vulturul pescar.",
             "Multe lacuri sunt legate prin canale înguste, fiind ideale pentru excursii de mai multe zile cu caiacul."
         ],
-        "en": []
+        "en": ["The national park covers an expansive area of over 71,500 hectares.", "Lake Drivyaty is the largest within the park and the fifth largest in Belarus.", "The region is colloquially known as the 'Blue Necklace' of Belarus.", "It features numerous ancient hillforts and archaeological sites on its islands."]
     },
     description: {
       de: "Ein Nationalpark im Norden, bekannt für seine malerischen Seen und die reiche Artenvielfalt.",
@@ -604,8 +610,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Der Narotsch-See ist der größte See in Belarus und bildet das Herzstück eines bedeutenden Nationalparks. Das Gewässer ist bekannt für seine außergewöhnliche Reinheit und die malerischen Uferzonen mit sandigen Stränden und Kiefernwäldern. Die Region um den Narotsch-See hat eine lange Tradition als Kur- und Erholungsgebiet und beherbergt zahlreiche Sanatorien und Wellnesshotels. Während des Ersten Weltkriegs war der See Schauplatz heftiger Stellungskämpfe, woran heute noch Denkmäler in der Umgebung erinnern. Heute ist er vor allem im Sommer ein beliebtes Ziel für Segler, Schwimmer und Erholungssuchende aus dem ganzen Land.",
         "hu": "A Narocs-tó Fehéroroszország legnagyobb tava, és egy jelentős nemzeti park szívét alkotja. A tó kivételes tisztaságáról, valamint homokos strandokkal és fenyőerdőkkel övezett festői partjairól ismert. A Narocs-tó környéke hosszú hagyományokkal rendelkezik üdülő- és pihenőhelyként, számos szanatóriumnak és wellness-szállodának ad otthont. Az első világháború alatt a tó heves állóháborúk helyszíne volt, amire ma is emlékművek emlékeztetnek a környéken. Ma főleg nyáron népszerű célpont a vitorlázók, úszók és a pihenni vágyók számára.",
-        "ro": "",
-        "en": ""
+        "ro": "Lacul Naroci este o bijuterie naturală a Belarusului și cel mai mare rezervor de apă dulce din țară. Datorită apei sale limpezi și a suprafeței vaste, de aproape 80 de kilometri pătrați, a fost adesea denumit 'Marea Belarusă'. Țărmurile sale, mărginite de păduri dese de pini, creează un microclimat extrem de favorabil și benefic pentru sănătate. Încă de la începutul secolului XX, Naroci a evoluat într-un important centru de tratament și recuperare balneară, adunând zeci de sanatorii moderne de-a lungul coastelor sale. Peisajul senin și bogăția de pești, inclusiv anghile, fac din acest lac o destinație ideală de relaxare. Geografie K7 — Resurse de apă.",
+        "en": "Lake Narach is the largest naturally occurring lake in Belarus, serving as the glittering centerpiece of the Narochansky National Park. With its extensive sandy beaches, pine forests, and clear waters, it is the country's most popular domestic resort and spa destination. The lake plays a crucial role in maintaining regional biodiversity, hosting numerous species of fish and serving as a vital stopover for migratory waterfowl. The surrounding area features numerous sanatoriums and health resorts that have been drawing visitors seeking wellness treatments since the mid-20th century. Its expansive horizons and serene atmosphere provide a perfect natural retreat."
     },
     factsAdvanced: {
         "de": [
@@ -626,7 +632,7 @@ export const belarusRegions: POI[] = [
             "În apropiere se află satul Nanasy, un centru etnografic ce prezintă viața rurală tradițională belarusă.",
             "Lacul este un habitat important pentru anghila europeană, specie foarte apreciată în gastronomia locală."
         ],
-        "en": []
+        "en": ["The lake spans a surface area of approximately 79.6 square kilometers.", "Despite its massive size, its average depth is only about 9 meters.", "It was the site of the significant Lake Naroch Offensive during World War I in 1916.", "The water is remarkably transparent, allowing visibility up to 7 meters deep in winter."]
     },
     description: {
       de: "Der größte See in Belarus, ein beliebtes Erholungsgebiet und Zentrum für Gesundheitstourismus.",
@@ -649,8 +655,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Bobruisk, am Fluss Beresina gelegen, ist eine der ältesten Industriestädte von Belarus mit einem ganz eigenen Charakter. Bekannt ist die Stadt vor allem für ihre monumentale Festung aus dem 19. Jahrhundert, die als Meisterwerk der Militärarchitektur gilt. Historisch war Bobruisk ein bedeutendes Zentrum des jüdischen Lebens, was die Architektur und Kultur der Stadt nachhaltig geprägt hat. In der Innenstadt finden sich viele charakteristische rote Backsteinbauten und Denkmäler, die auf die reiche Geschichte hinweisen. Ein amüsantes Wahrzeichen der Stadt ist das Denkmal für den Biber, der als Namensgeber der Stadt fungiert.",
         "hu": "Babrujszk, a Berezina folyó partján fekvő város, Fehéroroszország egyik legrégebbi ipari városa, sajátos karakterrel. A város leginkább monumentális, 19. századi erődjéről ismert, amely a katonai építészet remekművének számít. Történelmileg Babrujszk a zsidó élet jelentős központja volt, ami tartósan meghatározta a város építészetét és kultúráját. A belvárosban számos jellegzetes vörös téglás épület és emlékmű található, amelyek a gazdag múltra utalnak. A város egyik kedves jelképe a hód emlékműve, mivel a város neve a hód szóból ered.",
-        "ro": "",
-        "en": ""
+        "ro": "Bobruisk, situat la confluența râurilor Berezina și Bobruika, este un oraș industrial major cu o istorie comercială și militară semnificativă. Odinioară, orașul era renumit ca un centru vital al meșteșugurilor și al producției de prelucrare a lemnului în regiune. Piesa sa centrală istorică este faimoasa Cetate Bobruisk, construită în secolul al XIX-lea, care a jucat un rol esențial în timpul războaielor napoleoniene. Pe străzile sale, influența istorică este vizibilă prin clădirile vechi, piețele pitorești și prezența numeroaselor sculpturi dedicate castorului (bobr), simbolul de la care orașul își trage numele. Astăzi, Bobruisk găzduiește fabrici uriașe, dar își menține spiritul vibrant și tradițiile locale. Istorie K8 — Revoluția industrială.",
+        "en": "Bobruisk is one of the oldest cities in Belarus, situated strategically along the banks of the Berezina River. In the 19th century, it was transformed into a formidable military stronghold with the construction of the massive Bobruisk Fortress, which played a key role during the Napoleonic Wars. Historically, the city boasted a vibrant Jewish community that heavily influenced its culture, trade, and unique local architecture. Today, it is a bustling industrial center known for tire manufacturing and a distinctive charm characterized by pre-revolutionary brick buildings and quirky monuments, including a famous statue of a beaver, the city's namesake."
     },
     factsAdvanced: {
         "de": [
@@ -671,7 +677,7 @@ export const belarusRegions: POI[] = [
             "Bobruisk este menționat în celebrul roman „Vițelul de aur” de Ilf și Petrov ca fiind un oraș foarte cultivat.",
             "Statuia castorului din centru este un talisman local: se spune că atingerea lanțului ceasului său aduce prosperitate."
         ],
-        "en": []
+        "en": ["The city's name is derived from the Belarusian word 'babyor', meaning beaver.", "The Bobruisk Fortress successfully withstood a 4-month siege by Napoleon's army in 1812.", "Prior to World War II, over half of the city's population was Jewish.", "It is home to Belshina, one of the largest tire manufacturers in Europe."]
     },
     description: {
       de: "Eine geschichtsträchtige Industriestadt, bekannt für ihre Festung aus dem 19. Jahrhundert.",
@@ -694,8 +700,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Baranovichi ist eine vergleichsweise junge Stadt im Westen von Belarus, deren Aufstieg eng mit dem Ausbau des Eisenbahnnetzes im 19. Jahrhundert verknüpft ist. Als strategisch wichtiger Bahnknotenpunkt entwickelte sich die Stadt schnell zu einem bedeutenden Industriezentrum. Während des Ersten Weltkriegs war Baranovichi Schauplatz heftiger Kämpfe und diente zeitweise als Sitz des russischen Hauptquartiers. Heute ist die Stadt ein lebendiges Zentrum mit einer Mischung aus historischer Industriearchitektur und modernen Wohngebieten. Ein besonderes Highlight für Technikinteressierte ist das Eisenbahnmuseum mit seiner umfangreichen Sammlung historischer Lokomotiven.",
         "hu": "Baranavicsi egy viszonylag fiatal város Fehéroroszország nyugati részén, amelynek felemelkedése szoroson összefügg a vasúthálózat 19. századi kiépítésével. Stratégiailag fontos vasúti csomópontként a város gyorsan jelentős ipari központtá fejlődött. Az első világháború alatt Baranavicsi heves harcok helyszíne volt, és egy ideig az orosz főhadiszállásnak is otthont adott. Ma a város élénk központ, ahol a történelmi ipari építészet és a modern lakónegyedek keverednek. A technika iránt érdeklődők számára különleges látnivaló a vasúti múzeum, ahol történelmi mozdonyok gazdag gyűjteménye látható.",
-        "ro": "",
-        "en": ""
+        "ro": "Baranovichi este un oraș dinamic și un nod feroviar crucial situat în vestul Belarusului, apărut abia la sfârșitul secolului al XIX-lea datorită expansiunii căilor ferate. Deși este un oraș relativ tânăr, istoria sa reflectă ritmul rapid al dezvoltării industriale și schimbările dramatice ale secolului XX. Orașul găzduiește numeroase clădiri cu arhitectură eclectică și constructivistă, alături de monumente dedicate muncitorilor feroviari. Baranovichi este, de asemenea, un centru educațional și industrial în plină expansiune, cu o populație activă și diversă. Muzeul Căilor Ferate de aici este unul dintre cele mai interesante de acest gen din Europa de Est. Istorie K8 — Revoluția industrială și căile ferate.",
+        "en": "Baranovichi emerged in the late 19th century directly as a result of the expanding Russian Empire railway network, rapidly growing into a crucial transportation hub. Its strategic railway junction made it a highly contested prize during both World War I and World War II, leading to significant historical turbulence. The city features a diverse mix of architecture, reflecting its quick transition from a wooden settlement to a modern urban center. Visitors can explore unique attractions such as the sprawling Railway Museum, which houses an impressive collection of vintage locomotives and rolling stock. Baranovichi remains a vital logistical and industrial center for the Brest region."
     },
     factsAdvanced: {
         "de": [
@@ -716,7 +722,7 @@ export const belarusRegions: POI[] = [
             "În timpul Primului Război Mondial, la Baranovichi a fost înființată prima stație radio a armatei ruse.",
             "Catedrala ortodoxă din oraș este faimoasă pentru mozaicurile sale spectaculoase provenite de la Catedrala Alexander Nevsky din Varșovia."
         ],
-        "en": []
+        "en": ["The city was founded relatively recently in 1871 as a railway station settlement.", "During WWI, it briefly hosted the headquarters of the Russian Imperial Army.", "The local Railway Museum features over 400 exhibits, including steam locomotives.", "It features the striking wooden Holy Cross Church, built in 1924."]
     },
     description: {
       de: "Ein bedeutender Eisenbahnknotenpunkt und eine dynamische Stadt im Westen des Landes.",
@@ -739,8 +745,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Borisov liegt nordöstlich von Minsk am Fluss Beresina und ist untrennbar mit den Napoleonischen Kriegen verbunden. Im Jahr 1812 fand in der Nähe der Stadt die berühmte Schlacht an der Beresina statt, die Napoleons Rückzug aus Russland in ein Desaster verwandelte. Heute ist Borisov eine moderne Industriestadt, die vor allem durch ihre Maschinenbau- und Lebensmittelindustrie geprägt ist. Fußballfans ist die Stadt durch den Club BATE Borisov bekannt, der regelmäßig in internationalen Wettbewerben spielt. Trotz der industriellen Ausrichtung bietet die Umgebung der Stadt mit den weiten Flussauen der Beresina attraktive Naturräume für Erholung und Fischfang.",
         "hu": "Bariszav Minszktől északkeletre, a Berezina folyó partján fekszik, és elválaszthatatlanul kapcsolódik a napóleoni háborúkhoz. 1812-ben a város közelében zajlott a híres berezinai csata, amely Napóleon oroszországi visszavonulását katasztrófává változtatta. Ma Bariszav modern iparváros, amelyet elsősorban a gépipar és az élelmiszeripar határoz meg. A futballrajongók körében a város a BATE Bariszav klubról ismert, amely rendszeresen szerepel nemzetközi versenyeken. Az ipari jelleg ellenére a város környéke a Berezina ártereivel vonzó természeti helyszíneket kínál a pihenésre és horgászatra.",
-        "ro": "",
-        "en": ""
+        "ro": "Borisov este un oraș industrial semnificativ situat pe malurile pitorescului râu Berezina. Orașul ocupă un loc proeminent în istoria europeană ca fiind locul apropierii dramaticei treceri a Berezinei de către armata în retragere a lui Napoleon în 1812, eveniment care a marcat prăbușirea campaniei sale în Rusia. Centrul vechi al orașului conservă arhitectura tradițională evreiască din secolul al XIX-lea și începutul secolului XX, alături de magnifica Catedrală a Învierii. Pe lângă moștenirea sa istorică, Borisov este renumit astăzi pentru industria sa modernă și pentru impresionanta Borisov Arena, care atrage pasionați de fotbal din întreaga țară. Istorie K8 — Războaiele napoleoniene.",
+        "en": "Borisov, situated along the Berezina River, holds a dramatic place in European history due to the catastrophic crossing of Napoleon's retreating army in 1812. The city blends its profound military history with modern development, serving as a key industrial center in the Minsk region. The cityscape is marked by the contrasting elements of the historic Resurrection Cathedral and the ultra-modern Borisov Arena, a futuristic football stadium that draws international attention. Beyond its historical monuments, Borisov is surrounded by dense forests that offer numerous recreational opportunities. The city proudly preserves its heritage while actively embracing contemporary sports and industry."
     },
     factsAdvanced: {
         "de": [
@@ -761,7 +767,7 @@ export const belarusRegions: POI[] = [
             "Orașul a fost fondat încă din anul 1102 de către prințul Boris Vseslavich de Polotsk.",
             "Catedrala Învierii din Borisov a fost construită în stil pseudo-rus din cărămidă roșie la sfârșitul secolului al XIX-lea."
         ],
-        "en": []
+        "en": ["Founded in 1102 by the Prince of Polotsk, Boris Vseslavich.", "The nearby village of Studenka is the exact site of the infamous 1812 Berezina crossing.", "The striking Borisov Arena, opened in 2014, features a unique metallic dome design.", "It is a major center for the production of automotive components and electronics."]
     },
     description: {
       de: "Eine Industriestadt an der Beresina, geschichtlich verbunden mit den Napoleonischen Kriegen.",
@@ -784,8 +790,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Pinsk gilt als die inoffizielle Hauptstadt des Polesie-Gebiets im Süden von Belarus und besticht durch sein einzigartiges historisches Flair. Die Stadt liegt am Zusammenfluss von Pina und Pripjat und besitzt eine der am besten erhaltenen Altstädte des Landes. Prachtvolle Barockkirchen, wie das Jesuitenkollegium und das Franziskanerkloster, zeugen von der einstigen Bedeutung als religiöses und kulturelles Zentrum. Die Uferpromenade lädt zu Spaziergängen ein und bietet Ausblicke auf die weiten Sumpf- und Flusslandschaften, die Pinsk umgeben. Die Stadt ist zudem tief in der jüdischen Geschichte verwurzelt und war Heimat zahlreicher bedeutender Gelehrter und Persönlichkeiten.",
         "hu": "Pinszk a fehéroroszországi Poleszje vidék nem hivatalos fővárosa, és egyedülálló történelmi hangulattal rendelkezik. A város a Pina és a Pripjaty folyók összefolyásánál fekszik, és az ország egyik legjobban megőrzött óvárosával büszkélkedhet. Olyan pompás barokk templomok, mint a jezsuita kollégium és a ferences kolostor, tanúskodnak a város egykori vallási és kulturális jelentőségéről. A folyóparti sétány hívogatja a látogatókat, és kilátást nyújt a Pinszket körülvevő hatalmas mocsári és folyómenti tájakra. A város emellett mélyen gyökerezik a zsidó történelemben is.",
-        "ro": "",
-        "en": ""
+        "ro": "Pinsk, adesea numit „Capitala Polesiului”, este un oraș profund istoric situat la confluența râurilor Pripyat și Pina, într-o regiune faimoasă pentru mlaștinile sale întinse. Cu un centru istoric remarcabil de bine conservat, al doilea ca mărime din Belarus după Grodno, Pinsk este o veritabilă rezervație de arhitectură barocă. Colegiul Iezuit și fosta mănăstire franciscană domină orizontul orașului, reflectând importanța sa religioasă și educațională de-a lungul secolelor. Promenada lungă de pe malul râului oferă priveliști superbe și este locul preferat de relaxare al localnicilor. Pinsk combină farmecul unui oraș vechi cu vitalitatea unui centru cultural regional. Istorie K7 — Arhitectura religioasă și educația.",
+        "en": "Pinsk is widely regarded as the unofficial capital of the unique Polesia region, located at the confluence of the Pina and Pripyat rivers. It boasts the second-largest number of surviving historical monuments in Belarus after Grodno, offering a remarkably cohesive old town experience. The cityscape is dominated by the grand Baroque architecture of the Franciscan monastery complex and the beautifully restored Jesuit Collegium. Because of its extensive waterways and surrounding wetlands, it has historically been a critical center for trade and river navigation. The city’s relaxed atmosphere and rich multi-ethnic history make it a cultural gem of the south."
     },
     factsAdvanced: {
         "de": [
@@ -806,7 +812,7 @@ export const belarusRegions: POI[] = [
             "Chaim Weizmann, primul președinte al statului Israel, a urmat cursurile gimnaziului din Pinsk.",
             "Orașul este renumit pentru navigația tradițională pe râu, care era principala legătură în regiunea Polesie."
         ],
-        "en": []
+        "en": ["First chronicled in the year 1097 as a crucial river trade settlement.", "The historic Jesuit Collegium was built in the mid-17th century.", "It features a notable Museum of Belarusian Polesia detailing local ethnographic history.", "Pinsk is home to the stunning Cathedral of the Assumption of the Blessed Virgin Mary."]
     },
     description: {
       de: "Das Herz des Polesie-Gebiets, eine Stadt mit einer wunderschönen Uferpromenade und Barockarchitektur.",
@@ -829,8 +835,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Orsha liegt im Osten von Belarus am Oberlauf des Dnepr und ist ein bedeutender Verkehrsknotenpunkt zwischen Nord-Süd- und Ost-West-Verbindungen. Die Stadt blickt auf eine fast tausendjährige Geschichte zurück und war aufgrund ihrer Lage oft Schauplatz historischer Schlachten. Das architektonische Bild wird durch alte Klöster und Kirchen geprägt, darunter das Kutein-Kloster, das einst für seine Buchdruckerkunst berühmt war. Heute ist Orsha ein wichtiges Zentrum der Textilindustrie, insbesondere für die Verarbeitung von Leinen, das in Belarus eine lange Tradition hat. Die Stadt verbindet ihre Rolle als moderner Industriestandort mit die Pflege ihrer historischen Identität als Handelsstadt.",
         "hu": "Orsa Fehéroroszország keleti részén, a Dnyeper felső szakaszán fekszik, és jelentős közlekedési csomópont az észak-déli és kelet-nyugati útvonalak találkozásánál. A város közel ezer éves múltra tekint vissza, és fekvése miatt gyakran volt történelmi csaták helyszíne. Építészeti képét régi kolostorok és templomok határozzák meg, köztük a Kutyin-kolostor, amely egykor könyvnyomtatásáról volt híres. Ma Orsa a textilipar egyik fontos központja, különösen a len feldolgozása terén, amelynek Fehéroroszországban nagy hagyománya van. A város sikeresen ötvözi ipari szerepét történelmi identitásának megőrzésével.",
-        "ro": "",
-        "en": ""
+        "ro": "Orșa este un vechi oraș și un nod vital de transport situat pe râul Nipru, cunoscut pentru istoria sa comercială îndelungată. Datorită așezării sale strategice, orașul a fost frecvent teatrul unor confruntări majore, inclusiv faimoasa bătălie din 1514 dintre forțele lituaniene și ruse. Orșa păstrează resturi ale fortificațiilor medievale, biserici baroce grațioase și mănăstiri care atrag pelerini. Un alt capitol important al istoriei sale este legat de al Doilea Război Mondial, când aici au fost folosite pentru prima dată temutele lansatoare de rachete sovietice Katiusa. Orașul de astăzi este un amestec interesant de vestigii istorice, arhitectură industrială sovietică și parcuri liniștite pe malul apei. Istorie K7 — Războaiele medievale.",
+        "en": "Orsha is a historic city located on the Dnieper River in eastern Belarus, long serving as a strategic gateway between Eastern Europe and Russia. The city gained enduring historical fame from the 1514 Battle of Orsha, a monumental clash between the Grand Duchy of Lithuania and the Grand Duchy of Moscow. During World War II, Orsha became the site where the devastating Katyusha rocket launchers were first used in combat by the Soviet army. Today, it retains significant architectural heritage, including the massive Jesuit Collegium complex and several historic monasteries. Orsha continues to be a major railway junction and a vital hub for regional commerce."
     },
     factsAdvanced: {
         "de": [
@@ -851,7 +857,7 @@ export const belarusRegions: POI[] = [
             "Celebrul psiholog Lev Vîgotski s-a născut la Orsha, teoriile sale fiind predate și astăzi în întreaga lume.",
             "Orașul este cunoscut la nivel național pentru combinatul său de in, ale cărui produse sunt exportate în numeroase țări."
         ],
-        "en": []
+        "en": ["The city was first mentioned in historical chronicles in 1067, alongside Minsk.", "The Katyusha memorial complex features original rocket launcher vehicles.", "The Battle of Orsha is celebrated as a major historical military victory in Belarusian history.", "It hosts a significant linen manufacturing industry, utilizing local agricultural products."]
     },
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt am Dnepr mit einer langen Geschichte als Handelszentrum.",
@@ -874,8 +880,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Sophienkathedrale in Polozk ist eines der ältesten und bedeutendsten sakralen Bauwerke in Belarus. Ursprünglich im 11. Jahrhundert nach dem Vorbild der Sophienkirchen in Kiew und Konstantinopel errichtet, symbolisierte sie die Macht des Fürstentums Polozk. Nach einer schweren Zerstörung im 18. Jahrhundert wurde die Kathedrale im prachtvollen Stil des Wilnaer Barocks wiederaufgebaut, wobei Teile der ursprünglichen Mauern und Fundamente erhalten blieben. Heute dient das Bauwerk als Museum für Architekturgeschichte und als Konzertsaal, der für seine hervorragende Akustik und seine Orgelkonzerte berühmt ist. Die Lage auf einem Hügel über der Westlichen Dwina verleiht der Kathedrale eine majestätische Präsenz.",
         "hu": "A polocki Szófia-székesegyház Fehéroroszország egyik legrégebbi és legjelentősebb szakrális építménye. Eredetileg a 11. században épült a kijevi és konstantinápolyi Szófia-templomok mintájára, szimbolizálva a Polocki Fejedelemség erejét. Egy 18. századi súlyos pusztulás után a székesegyházat a vilniusi barokk pompás stílusában építették újjá, megőrizve az eredeti falak és alapok egy részét. Ma az épület építészettörténeti múzeumként és koncertteremként szolgál, amely kiváló akusztikájáról és orgonakoncertjeiről híres. A Nyugati-Dvina feletti dombon fekvő elhelyezkedése fenséges megjelenést kölcsönöz neki.",
-        "ro": "",
-        "en": ""
+        "ro": "Catedrala Sfânta Sofia din Polotsk este unul dintre cele mai vechi și mai emblematice edificii religioase din Belarus. Construcția sa originală datează din secolul al XI-lea, fiind ridicată de prințul Vseslav drept un simbol al puterii și independenței Principatului de Polotsk. Deși a fost distrusă în timpul Războiului Nordului, ea a fost reconstruită în secolul al XVIII-lea în stil baroc târziu, păstrând doar fragmente din zidurile originale bizantine. Astăzi, catedrala nu mai servește ca lăcaș de cult, ci găzduiește un muzeu impresionant și o sală de concerte renumită pentru acustica sa excepțională și orga sa magistrală. Istorie K7 — Arhitectura bizantină și barocă.",
+        "en": "The Saint Sophia Cathedral in Polotsk is the oldest monumental stone building in Belarus, representing the profound spiritual and architectural heritage of the nation. Originally constructed in the mid-11th century to rival the grand cathedrals of Kyiv and Novgorod, it symbolized Polotsk's status as a powerful independent principality. Although it was largely rebuilt in the striking Vilna Baroque style in the 18th century following a massive explosion, the original 11th-century foundations and apse remain preserved in the crypt. Today, the cathedral functions primarily as a museum and an acclaimed concert hall, famous for its magnificent acoustics and grand organ. It stands majestically on the banks of the Western Dvina River."
     },
     factsAdvanced: {
         "de": [
@@ -896,7 +902,7 @@ export const belarusRegions: POI[] = [
             "În fiecare an, catedrala găzduiește un festival internațional de muzică de orgă.",
             "Orașul Polotsk este considerat centrul geografic al Europei, fapt marcat printr-un monument local."
         ],
-        "en": []
+        "en": ["The original cathedral was completed between 1044 and 1066.", "It was deliberately blown up by the Russian army in 1710 during the Great Northern War.", "The current sweeping Baroque facade was designed by architect Johann Christoph Glaubitz.", "The museum houses rare surviving fragments of the original 11th-century frescoes."]
     },
     description: {
       de: "Eine der ältesten Kirchen der Region, ursprünglich im 11. Jahrhundert erbaut.",
@@ -919,8 +925,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Gedenkstätte Chatyn ist ein zutiefst bewegendes Monument für das Schicksal der belarussischen Bevölkerung während der deutschen Besatzung im Zweiten Weltkrieg. Sie wurde an der Stelle des Dorfes Chatyn errichtet, das 1943 mitsamt seiner Bewohner vernichtet wurde. Die Architektur der Anlage ist symbolisch und minimalistisch gehalten: Glocken auf Betonsäulen läuten alle 30 Sekunden an den Stellen, wo einst die Wohnhäuser standen. Das 'Friedhof der Dörfer' erinnert an hunderte weitere Ortschaften, die das gleiche Schicksal erlitten. Die Gedenkstätte ist kein Ort des Jubels, sondern eine mahnende Erinnerung an die Gräuel des Krieges und ein Symbol für das nationale Leid.",
         "hu": "A hatinyi emlékmű mélyen megrendítő mementója a fehérorosz lakosság sorsának a második világháborús német megszállás idején. Hatiny falu helyén épült, amelyet 1943-ban lakóival együtt elpusztítottak. Az együttes építészete szimbolikus és minimalista: a betonoszlopokon elhelyezett harangok 30 másodpercenként szólalnak meg ott, ahol egykor a lakóházak álltak. A 'Falvak temetője' több száz másik településre emlékeztet, amelyek hasonló sorsra jutottak. Az emlékhely a háború borzalmaira és a nemzeti szenvedésre figyelmeztet, szimbolizálva a béke fontosságát.",
-        "ro": "",
-        "en": ""
+        "ro": "Memorialul Khatyn este un loc profund emoționant dedicat amintirii satelor belaruse distruse și populației civile ucise în timpul celui de-al Doilea Război Mondial. Pe 22 martie 1943, trupele SS au ars din temelii satul Khatyn, ucigându-i aproape toți locuitorii. Memorialul, conceput cu o arhitectură peisagistică sobră și simbolică, marchează exact fundațiile caselor arse, având obeliscuri sub formă de coșuri de fum de unde bat clopote în mod regulat. 'Cimitirul Satelor' adună urne cu pământ din cele 186 de așezări care nu au mai fost niciodată reconstruite. Locul invită la o reflectare tăcută asupra ororilor războiului și este un pilon central al memoriei naționale a Belarusului. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "The Khatyn Memorial Complex is a hauntingly powerful site dedicated to the tragic loss of civilian life during the Nazi occupation of Belarus in World War II. It stands on the exact location of the former village of Khatyn, whose entire population was massacred and the village burned to the ground in March 1943. The memorial features an emotionally devastating central sculpture of an unbroken man holding his dead son, surrounded by symbolic chimneys marking where each burned house once stood. Every 30 seconds, bells attached to the chimneys toll in unison, creating a profound atmosphere of grief and remembrance. It serves as a tribute to all 628 Belarusian villages destroyed in a similar manner."
     },
     factsAdvanced: {
         "de": [
@@ -941,7 +947,7 @@ export const belarusRegions: POI[] = [
             "Flacăra eternă arde în fața a trei mesteacăni, un al patrulea loc rămânând gol pentru a simboliza că fiecare al patrulea belarus a murit în război.",
             "Memorialul a fost deschis în 1969 și este considerat un exemplu magistral de cultură a memoriei."
         ],
-        "en": []
+        "en": ["The memorial complex was officially opened in 1969.", "A total of 149 villagers, including 75 children, were killed in the Khatyn massacre.", "The 'Cemetery of Villages' contains earth from 185 other un-rebuilt destroyed villages.", "It features the symbolic 'Trees of Life', listing the villages that were rebuilt after the war."]
     },
     description: {
       de: "Ein bewegendes Denkmal für die hunderte belarussischen Dörfer, die im Zweiten Weltkrieg zerstört wurden.",
@@ -964,8 +970,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Stalin-Linie ist ein umfangreiches Freilichtmuseum für Militärtechnik und Befestigungsanlagen etwa 30 Kilometer nordwestlich von Minsk. Die Anlage basiert auf den historischen Verteidigungslinien, die in den 1930er Jahren zum Schutz der Westgrenze der Sowjetunion errichtet wurden. Besucher können hier originalgetreu restaurierte Bunker (DOTs), Schützengräben und Panzerhindernisse besichtigen. Zudem beherbergt das Museum eine beeindruckende Sammlung von Panzern, Flugzeugen und Geschützen aus verschiedenen Epochen. Regelmäßig finden hier aufwendige historische Reenactments statt, die Schlachten des Zweiten Weltkriegs und anderer Konflikte nachstellen.",
         "hu": "A Sztálin-vonal egy kiterjedt haditechnikai és erődrendszeri szabadtéri múzeum Minszktől mintegy 30 kilométerre északnyugatra. Az emlékhely azokon a történelmi védelmi vonalakon alapul, amelyeket az 1930-as években építettek a Szovjetunió nyugati határának védelmére. A látogatók eredeti állapotban helyreállított bunkereket, lövészárkokat és harckocsiakadályokat tekinthetnek meg. Emellett a múzeum lenyűgöző gyűjteménnyel rendelkezik különböző korszakok tankjaiból, repülőgépeiből és ágyúiból. Rendszeresen tartanak itt nagyszabású történelmi bemutatókat, amelyek a második világháború és más konfliktusok csatáit elevenítik fel.",
-        "ro": "",
-        "en": ""
+        "ro": "Complexul istoric „Linia Stalin” este unul dintre cele mai ample muzee militare în aer liber din Europa de Est, dedicat sistemului vast de apărare construit de Uniunea Sovietică în anii 1930. Situat în apropiere de Minsk, acest parc muzeal reproduce secțiuni autentice ale fortificațiilor, incluzând buncăre, tranșee și obstacole antitanc meticulos restaurate. Muzeul oferă vizitatorilor o experiență imersivă, permițându-le să exploreze interiorul buncărelor și să examineze o colecție impresionantă de echipamente militare sovietice, de la tancuri legendare până la avioane de vânătoare. Periodic, complexul organizează reconstituiri istorice la scară largă ale bătăliilor din al Doilea Război Mondial. Istorie K8 — Războiul Rece și ingineria militară.",
+        "en": "The Stalin Line is a massive open-air military museum located near Minsk, preserving parts of the vast defensive fortifications constructed by the Soviet Union in the 1930s. Spanning over 20 hectares, the complex features extensively restored concrete pillboxes, deep trenches, and anti-tank obstacles designed to protect the western border from invasion. The museum boasts an enormous collection of authentic military hardware, including WWII-era tanks, artillery, aircraft, and sophisticated anti-aircraft missile systems. Visitors can experience immersive historical reenactments, explore the claustrophobic bunkers, and even take rides in vintage armored vehicles. It offers a comprehensive and interactive look at 20th-century Soviet military engineering."
     },
     factsAdvanced: {
         "de": [
@@ -986,7 +992,7 @@ export const belarusRegions: POI[] = [
             "Linia Stalin se întindea inițial pe 1.200 de kilometri, de la Marea Baltică până la Marea Neagră.",
             "În colecție se află faimosul tanc T-34, considerat unul dintre cele mai bune tancuri ale celui de-al Doilea Război Mondial."
         ],
-        "en": []
+        "en": ["The museum complex was opened to the public in 2005.", "The original 'Stalin Line' stretched for over 1,000 kilometers from the Baltic Sea to the Black Sea.", "It features functional, historically accurate firing ranges for vintage weapons.", "The site frequently hosts massive, explosive battle reenactments with hundreds of participants."]
     },
     description: {
       de: "Ein Freilichtmuseum mit Befestigungsanlagen, die Teil des Verteidigungssystems der Sowjetunion waren.",
@@ -1009,8 +1015,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Nationalbibliothek von Belarus in Minsk ist ein architektonisches Wahrzeichen der Moderne und ein Symbol für den technologischen Fortschritt des Landes. Das 2006 eröffnete Gebäude hat die Form eines Rhombenkuboktaeders und ist komplett mit Glas verkleidet. Mit einer Höhe von 73 Metern und 23 Stockwerken bietet sie Platz für über 10 Millionen Medieneinheiten. Besonders spektakulär ist die nächtliche Beleuchtung, bei der die gesamte Fassade als riesiger LED-Bildschirm fungiert und wechselnde Muster zeigt. Im Inneren finden sich modernste Lesesäle, ein Museum für seltene Bücher und eine Aussichtsplattform mit Blick über die gesamte Stadt.",
         "hu": "A minszki Fehérorosz Nemzeti Könyvtár a modernitás építészeti mérföldköve és az ország technológiai fejlődésének szimbóluma. A 2006-ban megnyitott épület rombikuboktaéder alakú, és teljes egészében üveggel burkolt. 73 méteres magasságával és 23 emeletével több mint 10 millió dokumentumnak ad helyet. Különösen látványos az éjszakai kivilágítás, amikor a teljes homlokzat óriási LED-képernyőként működik, változó mintákat mutatva. Odabent modern olvasótermek, egy ritka könyveket bemutató múzeum és a városra néző kilátóterasz várja a látogatókat.",
-        "ro": "",
-        "en": ""
+        "ro": "Biblioteca Națională a Belarusului este mult mai mult decât un depozitar de cărți; este un centru arhitectural și cultural definitoriu pentru orașul Minsk. Clădirea masivă, inaugurată în 2006, atrage imediat atenția prin forma sa unică de rombicuboctaedru, simbolizând valoarea cunoașterii umane. În interior, vizitatorii descoperă o infrastructură tehnologică de ultimă generație, săli de lectură spațioase și galerii de artă impresionante. Platforma de observație de pe acoperiș oferă o panoramă spectaculoasă asupra capitalei, în timp ce pe timp de noapte, fațada de sticlă se transformă într-un uriaș ecran LED colorat. Construcția este un punct de mândrie națională și un simbol al inovației. Arte K7 — Arhitectura contemporană.",
+        "en": "The National Library of Belarus in Minsk is a striking masterpiece of modern architecture, instantly recognizable by its unique rhombicuboctahedron (diamond) shape. Standing at an impressive 73 meters tall, the building represents the immense value of knowledge and serves as the country's primary information and cultural center. At night, the entire glass facade transforms into a massive, dynamic LED display that illuminates the city skyline with colorful patterns and messages. Beyond housing millions of books and rare manuscripts, the complex features an open-air observation deck providing panoramic views of the capital. It is a bold symbol of modern Belarusian development and cultural investment."
     },
     factsAdvanced: {
         "de": [
@@ -1031,7 +1037,7 @@ export const belarusRegions: POI[] = [
             "Un sistem de transport automatizat livrează cărțile comandate direct în sălile de lectură în containere speciale.",
             "Biblioteca deține una dintre cele mai importante colecții de tipărituri ale umanistului belarus Francysk Skaryna."
         ],
-        "en": []
+        "en": ["The futuristic building was completed and opened to the public in 2006.", "The library's total weight is estimated to be over 115,000 tons, not including the books.", "It holds a collection of over 10 million items, including rare 16th-century texts.", "The building spans 22 stories and features state-of-the-art automated book retrieval systems."]
     },
     description: {
       de: "Ein ikonisches modernes Gebäude in Form eines Rhombenkuboktaeders.",
@@ -1054,8 +1060,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Der Nationalpark Pripjat im Süden von Belarus umfasst eine der faszinierendsten Sumpf- und Fluss landscapes Europas, die oft als 'belarussischer Amazonas' bezeichnet wird. Das Gebiet wird durch die weiten Auen des Flusses Pripjat geprägt, die regelmäßig großflächig überschwemmt werden und so ein einzigartiges Ökosystem schaffen. Dichte Eichenurwälder, Moore und unzählige Nebenarme des Flusses bieten seltenen Tierarten einen Rückzugsort. Der Park ist ein Paradies für Ornithologen, da er auf der Hauptzugroute vieler Wasservögel liegt. In den umliegenden Dörfern hat sich zudem eine ganz eigene, traditionelle Kultur des Polesie-Gebiets erhalten, die eng mit dem Leben am Wasser verbunden ist.",
         "hu": "A Fehéroroszország déli részén található Pripjatyi Nemzeti Park Európa egyik leglenyűgözőbb mocsári és folyómenti tája, amelyet gyakran 'fehérorosz Amazonasnak' is neveznek. A területet a Pripjaty folyó hatalmas árterei határozzák meg, amelyek rendszeresen nagy területen öntenek ki, egyedülálló ökoszisztémát hozva létre. Sűrű tölgyerdők, lápok és a folyó számtalan mellékága nyújt menedéket ritka állatfajoknak. A park az ornitológusok paradiseoma, mivel számos vízimadár fő vonulási útvonalán fekszik. A környező falvakban megmaradt a Poleszje vidék sajátos, vízi életmódhoz kötődő hagyományos kultúrája.",
-        "ro": "",
-        "en": ""
+        "ro": "Parcul Național Pripyatsky, supranumit și „Amazonul Belarusului”, protejează una dintre cele mai extinse și neatinse câmpii inundabile din Europa. Regiunea Polesiului, unde se află parcul, este celebră pentru mlaștinile sale impenetrabile, pădurile dese de stejar și peisajele fluviale sălbatice ale râului Pripyat. Acest ecosistem umed excepțional servește drept loc de popas și cuibărit pentru sute de mii de păsări migratoare în timpul primăverii. Teritoriul ascunde o biodiversitate remarcabilă, de la cerbi și mistreți până la o populație sănătoasă de lincși și castori. Turismul ecologic este încurajat prin excursii cu barca și trasee speciale de observare a faunei. Geografie K7 — Ecosisteme umede.",
+        "en": "Pripyatsky National Park is a vast protected area located in the heart of the Belarusian Polesia, often referred to as the 'Belarusian Amazon' due to its extensive, untamed river floodplains. The park preserves a unique landscape of sprawling marshes, ancient oak forests, and complex wetland ecosystems centered around the meandering Pripyat River. This pristine environment serves as a critical breeding ground for millions of migratory birds and supports a high concentration of rare European wildlife, including bison, elk, and wild boar. The park offers exceptional eco-tourism opportunities, including river safaris and specialized birdwatching tours. It is a vital stronghold for preserving Europe's vanishing wetland habitats."
     },
     factsAdvanced: {
         "de": [
@@ -1076,7 +1082,7 @@ export const belarusRegions: POI[] = [
             "În parc trăiesc peste 250 de specii de păsări, inclusiv acvila țipătoare mică și barza neagră.",
             "Localitatea Lyaskovichi servește drept centru administrativ și găzduiește un muzeu modern al naturii."
         ],
-        "en": []
+        "en": ["Established in 1996, the park covers over 85,000 hectares of pristine landscape.", "During the spring floods, the Pripyat River can expand up to 30 kilometers in width.", "The area is home to over 250 bird species, including the rare aquatic warbler.", "It features significant groves of floodplain oak trees that are over 200 years old."]
     },
     description: {
       de: "Bekannt als 'belarussischer Amazonas' wegen seiner weiten Auenlandschaften und Sumpfgebiete.",
@@ -1099,8 +1105,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Masyr liegt im Süden von Belarus und unterscheidet sich durch seine hügelige Topographie deutlich von den meist flachen Regionen des Landes. Die Stadt erstreckt sich malerisch auf den Anhöhen am rechten Ufer des Flusses Pripjat und bietet zahlreiche Aussichtspunkte. Historisch bedeutend ist der Schlossberg, auf dem eine mittelalterliche Holzfestung rekonstruiert wurde, die Einblicke in die Verteidigungsgeschichte der Region gibt. Masyr ist heute ein wichtiges Zentrum der petrochemischen Industrie, konnte aber dennoch viel von seinem natürlichen Charme bewahren. Die umliegenden 'Masyrer Schluchten' sind ein geschütztes Naturdenkmal und laden zu Wanderungen in einer für Belarus ungewöhnlichen Landschaft ein.",
         "hu": "Mazir Fehéroroszország déli részén fekszik, és dombos domborzatával jelentősen elüt az ország többségében sík vidékeitől. A város festői módon a Pripjaty folyó jobb partján emelkedő magaslatokon terül el, számos kilátópontot kínálva. Történelmileg jelentős a Várhegy, ahol egy középkori faerődöt rekonstruáltak, betekintést nyújtva a régió védelmi történetébe. Mazir ma a petrolkémiai ipar egyik fontos központja, de sikerült megőriznie természetes bájának nagy részét. A környező 'maziri szurdokok' védett természeti emlékek, és túrázásra hívnak a Fehéroroszországban szokatlan tájon.",
-        "ro": "",
-        "en": ""
+        "ro": "Mazyr, așezat dramatic pe dealurile abrupte care străjuiesc râul Pripyat, este un oraș cu o geografie complet atipică pentru relieful în general plat al Belarusului. Aceste coline împădurite, traversate de ravene adânci, conferă orașului un farmec pitoresc și au inspirat construcția unui castel istoric din lemn, astăzi un parc cultural vibrant. Dincolo de frumusețea sa naturală, Mazyr este inima industriei de rafinare a petrolului din Belarus, cu fabrici imense amplasate la periferie. Râul joacă un rol central în viața locuitorilor, facilitând transportul fluvial și oferind oportunități excelente de agrement pe malurile sale pitorești. Geografie K7 — Relief și industrie.",
+        "en": "Mazyr is a uniquely picturesque city in southeastern Belarus, dramatically characterized by its unusually hilly terrain, which sharply contrasts with the country's typically flat landscape. Located on the steep banks of the Pripyat River, the city features deep ravines and scenic viewpoints that offer expansive panoramas of the Polesian wetlands. Historically a major center for river trade, Mazyr is today dominated by its massive oil refining industry, which is a cornerstone of the national economy. The reconstructed wooden Mazyr Castle sits prominently on a hill, offering a glimpse into the region's medieval defensive past. The city effectively combines its industrial significance with surprising natural beauty."
     },
     factsAdvanced: {
         "de": [
@@ -1121,7 +1127,7 @@ export const belarusRegions: POI[] = [
             "Mazyr a fost istoric un centru religios important, găzduind numeroase mănăstiri ale diferitelor ordine călugărești.",
             "Tramvaiul din Mazyr trece prin zone împădurite pitorești, legând centrul orașului de zonele industriale periferice."
         ],
-        "en": []
+        "en": ["First mentioned in the historical chronicles in 1155.", "The Mazyr Oil Refinery is one of the largest and most advanced in Eastern Europe.", "The city features a popular ski resort, utilizing its unique hilly topography.", "It is home to the scenic 'Pripyat Valley' landscape reserve."]
     },
     description: {
       de: "Eine Stadt auf malerischen Hügeln am Fluss Pripjat, ein Zentrum der Ölindustrie.",
@@ -1144,8 +1150,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Salihorsk ist eine der jüngsten Städte in Belarus und entstand erst in den 1950er Jahren infolge der Entdeckung riesiger Kalisalzvorkommen. Die Stadt wurde als moderne Plansiedlung für die Bergleute und ihre Familien entworfen und zeichnet sich durch breite Alleen und viel Grünraum aus. Das wirtschaftliche Rückgrat bildet das Unternehmen Belaruskali, einer der weltweit größten Produzenten von Kalidüngemitteln. Eine Besonderheit der Stadt ist die Nutzung der ehemaligen Salzstollen für medizinische Zwecke, insbesondere zur Behandlung von Atemwegserkrankungen in einer speziellen Untertage-Klinik. Trotz ihres industriellen Ursprungs bietet Salihorsk durch seine Lage an einem künstlichen Stausee attraktive Freizeitmöglichkeiten.",
         "hu": "Szalihorszk Fehéroroszország egyik legfiatalabb városa, amely csak az 1950-es években jött létre hatalmas kálisó-lelőhelyek felfedezése következtében. A várost modern, tervezett településként hozták létre a bányászok és családjaik számára, széles sugárutak és sok zöldfelület jellemzi. Gazdasági gerincét a Belaruskali vállalat alkotja, amely a világ egyik legnagyobb káliműtrágya-gyártója. A város egyik különlegessége a korábbi sóvágatok orvosi célú hasznosítása, különösen légzőszervi megbetegedések kezelésére egy speciális földalatti klinikán. Ipari eredete ellenére a város vonzó szabadidős lehetőségeket kínál a mesterséges tározó partján.",
-        "ro": "",
-        "en": ""
+        "ro": "Salihorsk este unul dintre cele mai tinere orașe din Belarus, fondat abia în anul 1958, dar a devenit rapid inima minieră a țării. Dezvoltarea sa a fost propulsată exclusiv de descoperirea unuia dintre cele mai mari zăcăminte de sare de potasiu din lume. Astăzi, peisajul industrial al orașului este dominat de terilurile uriașe, niște munți artificiali masivi creați din sterilul excavat, care au devenit o atracție neobișnuită. Urbanismul orașului reflectă planificarea sovietică târzie, cu bulevarde largi și spații verzi generoase menite să amelioreze aerul industrial. Salihorsk a dezvoltat de asemenea clinici de speleoterapie inovatoare în galeriile saline abandonate. Geografie K8 — Resurse naturale.",
+        "en": "Salihorsk is one of the youngest cities in Belarus, founded entirely in 1958 following the monumental discovery of vast underground potash salt deposits. The city's landscape and economy are completely dominated by Belaruskali, one of the world's largest producers of potash fertilizers. The most distinctive features of the area are the massive artificial 'salt mountains' (terrikons) that rise dramatically on the city's outskirts, creating an otherworldly, almost lunar terrain. Despite its industrial origins, Salihorsk is a well-planned, prosperous modern city with expansive parks and a large artificial reservoir. It stands as a testament to intensive Soviet-era industrial development."
     },
     factsAdvanced: {
         "de": [
@@ -1166,7 +1172,7 @@ export const belarusRegions: POI[] = [
             "Salihorsk are unul dintre cele mai ridicate venituri pe cap de locuitor din țară datorită industriei miniere profitabile.",
             "Rezervorul de apă Salihorsk este o locație populară pentru navigație cu pânze și pescuit sportiv."
         ],
-        "en": []
+        "en": ["The city was officially founded in 1958, making it among the newest in the country.", "Belaruskali mines produce roughly 20% of the global supply of potash fertilizers.", "The mining tunnels extend for hundreds of kilometers deep beneath the surface.", "Some underground salt chambers are utilized for unique speleotherapy (respiratory treatment)."]
     },
     description: {
       de: "Eine junge Stadt, bekannt für ihre riesigen Kalisalzbergwerke.",
@@ -1189,8 +1195,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Lida, im Westen von Belarus gelegen, ist eine geschichtsträchtige Stadt, deren Wahrzeichen die mächtige mittelalterliche Burg aus dem 14. Jahrhundert ist. Die Festung wurde vom litauischen Großfürsten Gediminas als Teil einer Verteidigungslinie gegen die Kreuzritter errichtet und ist heute ein Zentrum für historische Festivals. Neben seiner militärischen Geschichte ist Lida landesweit für seine Brauereitradition bekannt; das hier gebraute Bier gilt als eines der besten des Landes. Die Stadt verbindet geschickt ihr mittelalterliches Erbe mit einer modernen industriellen Entwicklung. In der Innenstadt finden sich zudem interessante sakrale Bauten wie die barocke Josephskirche mit ihrer markanten Kuppel.",
         "hu": "A Fehéroroszország nyugati részén fekvő Lida történelmi város, amelynek jelképe a hatalmas, 14. századi középkori vár. Az erődöt Gediminas litván nagyfejedelem építtette a keresztes lovagok elleni védelmi vonal részeként, ma pedig történelmi fesztiválok központja. Katonai múltja mellett Lida országszerte híres sörfőzési hagyományairól; az itt főzött sört az ország egyik legjobbjának tartják. A város ügyesen ötvözi középkori örökségét a modern ipari fejlődéssel. A belvárosban olyan érdekes szakrális épületek is találhatók, mint a barokk Szent József-templom jellegzetes kupolájával.",
-        "ro": "",
-        "en": ""
+        "ro": "Lida este un oraș dinamic și o destinație istorică esențială situată în vestul Belarusului. Mândria sa principală este Castelul Lida, o fortăreață redutabilă din secolul al XIV-lea, construită de Marele Duce Gediminas pentru a proteja rutele comerciale de atacurile cavalerilor teutoni. Zidurile masive ale castelului sunt frecvent gazda turneelor medievale captivante și a expozițiilor de armură care atrag mii de turiști. Lida este, de asemenea, celebră la nivel național pentru tradiția sa în fabricarea berii, mândrindu-se cu cea mai veche și mai respectată fabrică de bere în funcțiune din țară. Arhitectura orașului împletește vestigiile medievale cu clădiri cochete din perioada interbelică. Istorie K7 — Fortificațiile medievale.",
+        "en": "Lida is a historic industrial city in western Belarus, renowned primarily for its impressive medieval fortress, Lida Castle. Built in the 14th century by Grand Duke Gediminas to defend against the Teutonic Knights, the massive stone castle features a unique trapezoidal shape and has been extensively restored to host vibrant jousting tournaments and historical festivals. Beyond its medieval heritage, Lida is highly famous nationwide for its historic brewery, which has been producing traditional Belarusian beer and kvass since 1876. The city possesses a relaxed, provincial charm with beautiful Catholic and Orthodox churches complementing its industrial prowess."
     },
     factsAdvanced: {
         "de": [
@@ -1211,7 +1217,7 @@ export const belarusRegions: POI[] = [
             "Lida este un centru major pentru producția de mașini agricole, în special pentru faimoasele combine de recoltat „Lida”.",
             "În fiecare an, festivalul „Lidbeer” are loc lângă castel, celebrând muzica și arta locală a fabricării berii."
         ],
-        "en": []
+        "en": ["Lida Castle was constructed beginning in the year 1323.", "The city's Lidskoe brewery is one of the oldest and most popular in Belarus.", "It features the striking 18th-century Baroque Church of the Exaltation of the Holy Cross.", "Lida hosts a major annual music and beer festival known as Lidbeer."]
     },
     description: {
       de: "Berühmt für seine mittelalterliche Burg und eine bedeutende Bierbrautradition.",
@@ -1234,8 +1240,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Das Beresinski-Biosphärenreservat ist ein einzigartiges Naturschutzgebiet im Norden von Belarus, das seit 1979 zum UNESCO-Netzwerk der Biosphärenreservate gehört. Es umfasst ein riesiges Mosaik aus unberührten Wäldern, ausgedehnten Mooren und zahlreichen Seen und Flüssen. Das Reservat ist der einzige Ort in Europa, an dem alle 'Big Five' der europäischen Fauna – Wisent, Bär, Wolf, Luchs und Elch – gleichzeitig vorkommen. Ein besonderes Merkmal ist der Beresina-Kanal, ein historisches Wasserwegsystem aus dem 18. Jahrhundert, das heute teilweise verfallen ist und der Landschaft einen romantischen Charakter verleiht. Das Reservat dient primär der Forschung und dem Schutz der Biodiversität, bietet aber auch Möglichkeiten für sanften Ökotourismus.",
         "hu": "A Berezinszkiji Bioszféra-rezervátum Fehéroroszország északi részén található egyedülálló természetvédelmi terület, amely 1979 óta az UNESCO bioszféra-rezervátumok hálózatának tagja. Érintetlen erdők, kiterjedt mocsarak és számos tó és folyó hatalmas mozaikját foglalja magában. A rezervátum az egyetlen hely Európában, ahol az európai fauna 'nagy ötöse' – a bölény, a medve, a farkas, a hiúz és a jávorszarvas – egyidejűleg megtalálható. Különlegessége a Berezina-csatorna, egy 18. századi történelmi víziút-rendszer, amely ma romantikus hangulatot kölcsönöz a tájnak. A terület elsősorban kutatási célokat szolgál, de lehetőséget kínál a szelíd ökoturizmusra is.",
-        "ro": "",
-        "en": ""
+        "ro": "Rezervația Biosferei Berezinsky este unul dintre cele mai prestigioase situri de conservare a naturii din Belarus, recunoscut internațional pentru habitatele sale intacte. Situată în zona cursului superior al râului Berezina, rezervația include o rețea uriașă de mlaștini, păduri dese boreale și lunci inundabile care au fost cruțate de asanarea agricolă masivă a secolului XX. Acest teritoriu strict protejat funcționează ca un sanctuar esențial pentru toți cei cinci mari prădători ai Europei: ursul brun, lupul, râsul, lupul și nurca. Vizitatorii pot explora această sălbăticie absolută pe trasee ecologice speciale, ghidați de biologi experți. Geografie K7 — Ecosisteme și conservarea naturii.",
+        "en": "The Berezinsky Biosphere Reserve is a pristine wilderness area in northern Belarus, established to protect vast tracts of untouched taiga forests, sprawling bogs, and complex glacial landscapes. Recognized as a UNESCO Biosphere Reserve, it operates as a strictly protected sanctuary where human interference is kept to an absolute minimum to support scientific research and conservation. The reserve is uniquely home to the 'Big Five' of European large mammals: the European bison, brown bear, elk, wolf, and Eurasian lynx. Visitors can explore the area through carefully guided eco-trails, observing untouched ecosystems and rare flora. It represents one of the most intact natural environments remaining in Europe."
     },
     factsAdvanced: {
         "de": [
@@ -1256,7 +1262,7 @@ export const belarusRegions: POI[] = [
             "Vizitatorii pot învăța despre flora și fauna locală la Muzeul Naturii din localitatea Domazheritsy.",
             "O potecă educațională specială traversează zonele de mlaștină, oferind perspective asupra acestui ecosistem fragil."
         ],
-        "en": []
+        "en": ["The reserve was established very early in the conservation movement, in 1925.", "It spans an area of over 85,000 hectares of diverse natural habitats.", "It is part of the European network of biogenetic reserves.", "The reserve contains vast peat bogs that are crucial for carbon sequestration."]
     },
     description: {
       de: "Ein unberührtes Naturgebiet, das zum UNESCO-Netzwerk der Biosphärenreservate gehört.",
@@ -1279,8 +1285,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Kalozha-Kirche, offiziell die Kirche der Heiligen Boris und Gleb, ist ein einzigartiges architektonisches Juwel in Grodno und eines der ältesten erhaltenen Bauwerke in Belarus. Sie wurde im 12. Jahrhundert am hohen Ufer der Memel errichtet und vertritt die spezifische Grodnoer Architekturschule. Das Besondere an der Kirche ist ihr Mauerwerk, das mit polierten farbigen Steinen und Keramikfliesen in Kreuzform verziert ist, was ihr ein unverwechselbares Aussehen verleiht. Im 19. Jahrhundert stürzte ein Teil der Kirche aufgrund eines Erdrutschs in den Fluss und wurde später durch eine Holzwand ersetzt, was heute den ungewöhnlichen hybriden Charakter des Gebäudes ausmacht. Die Kirche ist bis heute ein aktives Gotteshaus und ein Kandidat für das UNESCO-Welterbe.",
         "hu": "A Kalozsa-templom, hivatalos nevén a Szent Borisz és Gleb-templom, Hrodna egyedülálló építészeti gyöngyszeme és Fehéroroszország egyik legrégebbi fennmaradt épülete. A 12. században épült a Nyeman folyó magas partján, a speciális hrodnai építészeti iskola képviselőjeként. Különlegessége a falazata, amelyet polírozott színes kövekkel és kereszt alakú kerámialapokkal díszítettek, ami összetéveszthetetlen megjelenést kölcsönöz neki. A 19. században a templom egy része egy földcsuszamlás miatt a folyóba omlott, amit később fafallal pótoltak, létrehozva az épület mai, szokatlan hibrid karakterét. A templom ma is aktív imaház.",
-        "ro": "",
-        "en": ""
+        "ro": "Biserica Sfinților Boris și Gleb, cunoscută popular sub numele de Kalozha, este o capodoperă a arhitecturii ortodoxe timpurii și un simbol sacru al orașului Grodno. Ridicată în secolul al XII-lea pe o faleză deasupra râului Neman, biserica reprezintă unicul monument supraviețuitor al școlii arhitecturale unice din Grodno. Exteriorul clădirii fascinează prin inserțiile decorative sub formă de cruci, realizate din plăci de majolică smălțuită multicoloră încastrate în zidăria roșie. În secolul al XIX-lea, un dezastru a dus la prăbușirea unei părți a bisericii în râu, fiind ulterior consolidată cu un zid de lemn. Interiorul este celebru pentru ulcioarele acustice încorporate în pereți. Istorie K7 — Arhitectura religioasă.",
+        "en": "The Kalozha Church of Sts. Boris and Gleb in Grodno is an architectural marvel and one of the oldest surviving structures in Belarus, dating back to the 12th century. Perched precariously on the high banks of the Neman River, it is a rare remaining example of the distinct Black Ruthenian architectural style. The exterior walls are famously decorated with intricate patterns of inset colored stones and majolica tiles, while the interior features built-in ceramic acoustic jugs that enhance sound resonance. In the 19th century, a landslide caused a significant portion of the church to collapse into the river, leading to a unique half-stone, half-wood reconstruction. It remains an active place of worship and a treasured historical monument."
     },
     factsAdvanced: {
         "de": [
@@ -1301,7 +1307,7 @@ export const belarusRegions: POI[] = [
             "Biserica este singurul monument supraviețuitor al tradiției romano-bizantine din vestul Belarusului.",
             "În interior se păstrează fragmente de fresce medievale care oferă indicii despre pictura sacră timpurie din regiune."
         ],
-        "en": []
+        "en": ["Constructed before the year 1183, marking it as a medieval masterpiece.", "The southern and western walls collapsed into the Neman River in 1853.", "The walls contain hollow clay vessels ('golosniki') that significantly improve acoustics.", "It was submitted to the UNESCO World Heritage Tentative List in 2004."]
     },
     description: {
       de: "Eine einzigartige orthodoxe Kirche aus dem 12. Jahrhundert in Grodno.",
@@ -1324,8 +1330,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Molodechno liegt nordwestlich von Minsk und ist ein bedeutendes kulturelles und industrielles Zentrum des Landes. Die Stadt hat sich in den letzten Jahrzehnten zu einem wichtigen Standort für die Elektronik- und Lebensmittelindustrie entwickelt. Besonders bekannt ist Molodechno jedoch für sein reges Kulturleben; es beherbergt zahlreiche Theater, Musikschulen und ist regelmäßiger Austragungsort nationaler Kunstfestivals. Die Architektur der Stadt ist geprägt durch den Wiederaufbau nach dem Zweiten Weltkrieg, bietet aber auch moderne Akzente wie die großzügig gestaltete Fußgängerzone. Die Umgebung von Molodechno ist landschaftlich reizvoll und durch sanfte Hügel und Wälder geprägt, was die Stadt zu einem attraktiven Wohn- und Ausflugsziel macht.",
         "hu": "Maladzecsna Minszktől északnyugatra fekszik, és az ország jelentős kulturális és ipari központja. A város az elmúlt évtizedekben az elektronikai és élelmiszeripar fontos helyszínévé vált. Maladzecsna azonban különösen élénk kulturális életéről ismert; számos színháznak, zeneiskolának ad otthont, és rendszeresen rendeznek itt nemzeti művészeti fesztiválokat. A város építészetét a második világháború utáni újjáépítés határozza meg, de modern elemeket is kínál, mint például a tágas sétálóutca. Maladzecsna környéke festői, szelíd dombokkal és erdőkkel tarkított, ami vonzó kirándulóhellyé teszi.",
-        "ro": "",
-        "en": ""
+        "ro": "Molodechno, situat la nord-vest de capitala Minsk, s-a afirmat ca un pol cultural efervescent și un oraș industrial de succes. Istoria sa se citește pe bulevardele largi, unde arhitectura sovietică timpurie, caracterizată prin eleganța clasicismului, se îmbină cu facilitățile moderne, cum ar fi amfiteatrul vast inaugurat în anii recenți. Orașul este renumit în întreaga țară pentru teatrul său dramatic de înaltă clasă și festivalul național al cântecului și poeziei din Belarus, care consolidează tradițiile folclorice locale. Străzile pietonale din Molodechno sunt animate de fântâni artistice, cafenele primitoare și parcuri largi care îi încântă pe rezidenți. Arte K8 — Festivalurile naționale.",
+        "en": "Molodechno is a dynamic city located just northwest of Minsk, recognized widely for its profound dedication to the arts and culture. The city experienced significant reconstruction following its destruction in WWII, resulting in a cohesive urban layout featuring wide boulevards and spacious parks. It is affectionately known as the 'Cultural Capital' of the Minsk region due to its numerous music schools, active theaters, and the host of the prestigious National Festival of Belarusian Song and Poetry. The striking pedestrian street, 'Brodvey', and the sprawling Victory Park make the city a highly livable and pleasant urban center. Molodechno serves as an important industrial and educational satellite to the capital."
     },
     factsAdvanced: {
         "de": [
@@ -1346,7 +1352,7 @@ export const belarusRegions: POI[] = [
             "Teatrul Regional de Dramă din Molodechno are o reputație excelentă la nivel național pentru producțiile sale inovatoare.",
             "În apropierea orașului se găsesc vestigiile castelului Lebedevo, care atestă importanța medievală a zonei."
         ],
-        "en": []
+        "en": ["First mentioned in a historic document in the year 1387.", "The city features an impressive monumental amphitheater used for national music festivals.", "It was designated as the Cultural Capital of Belarus in 2011.", "A large memorial complex in the city honors victims of a WWII Nazi transit camp (Stalag 342)."]
     },
     description: {
       de: "Ein wichtiges Kultur- und Industriezentrum unweit der Hauptstadt.",
@@ -1369,8 +1375,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Der Augustów-Kanal ist ein technisches Meisterwerk des 19. Jahrhunderts, das die Flusssysteme der Weichsel und der Memel miteinander verbindet. Der belarussische Teil des Kanals wurde aufwendig restauriert und dient heute als bedeutendes Zentrum für den Wassertourismus und die Naherholung. Die Anlage umfasst zahlreiche historische Schleusen und bewegliche Brücken, die noch immer manuell bedient werden. Der Kanal führt durch malerische Waldgebiete und unberührte Natur, was ihn ideal für Kajaktouren und Radwanderungen macht. Als grenzüberschreitendes Projekt zwischen Polen und Belarus symbolisiert der Kanal die historische Verbundenheit und die gemeinsame Ingenieurskunst beider Länder.",
         "hu": "Az Augustówi-csatorna a 19. század mérnöki remekműve, amely összeköti a Visztula és a Nyeman folyórendszereit. A csatorna fehéroroszországi szakaszát alaposan felújították, és ma a vízi turizmus és a pihenés jelentős központjaként szolgál. Az együttes számos történelmi zsilipet és mozgatható hidat foglal magában, amelyeket még mindig kézzel működtetnek. A csatorna festői erdős területeken és érintetlen természeten halad keresztül, így ideális kajaktúráknak és kerékpáros kirándulásoknak. Lengyelország és Fehéroroszország közötti határokon átnyúló projektként a csatorna a két ország történelmi kapcsolatát szimbolizálja.",
-        "ro": "",
-        "en": ""
+        "ro": "Canalul Augustów, o lucrare inginerească de o complexitate uimitoare din secolul al XIX-lea, leagă bazinul râului Vistula de cel al râului Neman, traversând granița dintre Belarus și Polonia. Acest ecosistem hidrologic artificial, construit inițial din rațiuni pur economice pentru ocolirea taxelor vamale, a devenit astăzi un paradis pentru iubitorii de natură. Sistemul de ecluze manuale din lemn și piatră, conservat remarcabil, se integrează perfect în peisajele idilice ale pădurii Augustów. Partea belarusă a canalului este înconjurată de ecosisteme nealterate, oferind rute perfecte pentru canotaj, ciclism și turism ecologic sustenabil. Geografie K8 — Ingineria hidrotehnică.",
+        "en": "The Augustów Canal is a remarkable feat of 19th-century hydraulic engineering, seamlessly connecting the Vistula and Neman river basins across the border of modern-day Poland and Belarus. Originally constructed for strategic trade purposes to bypass Prussian customs duties, it features a complex system of beautifully preserved locks, sluices, and drawbridges. Today, the canal has been transformed into a premier recreational destination, enveloped by the dense, pristine forests of the Augustów Primeval Forest. It is highly popular among kayakers, cyclists, and tourists taking scenic boat cruises through the historic locks. The canal represents a harmonious blend of industrial heritage and spectacular natural beauty."
     },
     factsAdvanced: {
         "de": [
@@ -1391,7 +1397,7 @@ export const belarusRegions: POI[] = [
             "Din 2004, există o zonă fără vize pentru turiști de-a lungul canalului, facilitând vizitele internaționale.",
             "De-a lungul cursului său pot fi văzute și astăzi borne de frontieră istorice din perioada Imperiului Rus."
         ],
-        "en": []
+        "en": ["Construction of the canal took place between 1823 and 1839.", "The waterway stretches for 101 kilometers, with 22 kilometers located in Belarus.", "It features 18 historic locks, 4 of which are located on Belarusian territory.", "The canal was nominated as a cross-border UNESCO World Heritage site."]
     },
     description: {
       de: "Ein technisches Wunderwerk aus dem 19. Jahrhundert, das die Flüsse Weichsel und Njemen verbindet.",
@@ -1414,8 +1420,8 @@ export const belarusRegions: POI[] = [
     descriptionAdvanced: {
         "de": "Die Dreifaltigkeits-Vorstadt (Troizkoje Predmestje) ist das charmanteste historische Viertel in Minsk und liegt direkt am Ufer der Swislatsch. Obwohl das Viertel in den 1980er Jahren umfassend rekonstruiert wurde, vermittelt es mit seinen Kopfsteinpflastergassen und den farbenfrohen Häusern im Stil des 19. Jahrhunderts eine authentische Atmosphäre des alten Minsk. Hier finden sich zahlreiche kleine Museen, Antiquitätenläden, Cafés und Kunstgalerien. Das Viertel ist ein beliebter Treffpunkt für Künstler und Touristen gleichermaßen und bietet einen starken Kontrast zur monumentalen sowjetischen Architektur der umliegenden Stadtteile. Direkt gegenüber liegt die 'Insel der Tränen', ein Denkmal für die in Afghanistan gefallenen belarussischen Soldaten.",
         "hu": "A Szentháromság-negyed (Troickoje Predmesztyje) Minszk legbájosabb történelmi negyede, amely közvetlenül a Szviszlacs folyó partján fekszik. Bár a negyedet az 1980-as években átfogóan rekonstruálták, macskaköves utcáival és a 19. századi stílusú színes házaival a régi Minszk hiteles hangulatát árasztja. Itt számos kis múzeum, antikvárium, kávézó és művészeti galéria található. A negyed a művészek és a turisták kedvelt találkozóhelye, és erős kontrasztot alkot a környező városrészek monumentális szovjet építészetével. Közvetlenül vele szemben található a 'Könnyek szigete' emlékmű.",
-        "ro": "",
-        "en": ""
+        "ro": "Suburbia Troițkoe, cuibarită pe malurile domoale ale râului Svislach, este singurul cartier din Minsk care mai păstrează farmecul arhitectural de odinioară. După devastările masive din al Doilea Război Mondial, această mică zonă a fost minuțios reconstruită în anii '80 pentru a reflecta înfățișarea sa din secolul al XIX-lea. Străduțele pietruite, străjuite de case viu colorate cu acoperișuri roșii de țiglă, adăpostesc acum muzee cochete, ateliere de artizanat autentic, librării de antichități și cafenele romantice. Acest mic sanctuar istoric contrastează puternic cu blocurile sovietice masive din restul orașului, servind ca punct central pentru artiști și vizitatori. Arte K7 — Restaurarea urbană.",
+        "en": "The Trinity Suburb (Trojeckaje Pradmiescie) is a meticulously restored historic district located on the banks of the Svislach River in the very heart of Minsk. As the oldest surviving neighborhood in the city, it offers a stark contrast to the massive Soviet-era architecture that dominates the rest of the capital. Characterized by colorful 19th-century facades, quaint red-tiled roofs, and winding cobblestone streets, the suburb provides a glimpse into what Minsk looked like before the devastation of World War II. Today, the area is a vibrant cultural hub, packed with cozy cafes, artisan craft shops, and small museums. It remains one of the most photographed and beloved spots in the city."
     },
     factsAdvanced: {
         "de": [
@@ -1436,7 +1442,7 @@ export const belarusRegions: POI[] = [
             "Reconstrucția s-a bazat pe planuri istorice riguroase pentru a reda imaginea orașului de dinaintea distrugerii din 1944.",
             "Noaptea, cartierul este iluminat festiv, creând un peisaj de basm reflectat în apele râului Svisloci."
         ],
-        "en": []
+        "en": ["The neighborhood's name derives from the historic Catholic Holy Trinity Church that once stood there.", "Major restoration of the district was carried out in the 1980s to preserve its heritage.", "It is located adjacent to the 'Island of Tears', a solemn memorial to Soviet soldiers.", "The suburb features the literary museum of famous Belarusian poet Maksim Bahdanovich."]
     },
     description: {
       de: "Ein rekonstruiertes historisches Viertel in Minsk mit malerischen Gassen.",
@@ -1462,8 +1468,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Der Rumjancev-Paskevitsch-Palast in Gomel ist eines der bedeutendsten Denkmäler des Klassizismus in Osteuropa. Das Ende des 18. Jahrhunderts begonnene Bauwerk war die Residenz bedeutender russischer Staatsmänner und Feldherren. Der Palast besticht durch seine harmonischen Proportionen, den markanten Portikus und die prachtvolle Innenausstattung, die heute ein Museum beherbergt. Umgeben ist der Palast von einem der ältesten und schönsten Landschaftsparks des Landes, der sich am hohen Ufer des Flusses Sosch erstreckt. Die Anlage bildet das kulturelle Herz von Gomel und ist ein Symbol für die glanzvolle Geschichte der Region während des Russischen Reiches.",
         "hu": "A homeli Rumjancev-Paszkievics-palota Kelet-Európa egyik legjelentősebb klasszicista műemléke. A 18. század végén elkezdett épület jelentős orosz államférfiak és hadvezérek rezidenciája volt. A palota harmonikus arányaival, jellegzetes portikuszával és pompás belső berendezésével nyűgözi le a látogatókat, ma múzeumnak ad otthont. A palotát az ország egyik legrégebbi és legszebb tájképi parkja veszi körül, amely a Szozs folyó magas partján terül el. Az együttes Homel kulturális szívét alkotja, és a régió orosz birodalmi korszakának dicső történelmét szimbolizálja.",
-        "ro": "",
-        "en": ""
+        "ro": "Palatul Rumianțev-Paskevici din Gomel este o comoară arhitecturală de o importanță excepțională pentru Belarus, fiind un ansamblu clasicist care rivalizează cu cele mai frumoase palate din Europa de Est. Construit inițial la sfârșitul secolului al XVIII-lea, pe o stâncă înaltă deasupra râului Soj, palatul a reprezentat un centru de opulență culturală, atrăgând aristocrați și artiști. Clădirea uimește prin porticele sale monumentale, domurile sferice și interioarele fin decorate cu artă de epocă și mobilier de epocă. Ansamblul este completat de un parc imens, cu plante exotice rare aduse de contele Paskevici, precum și de o capelă funerară elegantă a familiei. Istorie K7 — Clasicismul.",
+        "en": "The Gomel Palace, officially the Rumyantsev-Paskevich Residence, is one of the most magnificent architectural ensembles in Belarus, situated gracefully on the steep banks of the Sozh River. The neoclassical masterpiece was built in the late 18th century and served as the luxurious estate for prominent Russian noble families who amassed immense collections of art and rare antiquities. The complex includes the grand main palace, an ornate Peter and Paul Cathedral, and a breathtaking winter garden, all surrounded by an expansive English-style landscape park. Today, the fully restored palace operates as a premium museum, showcasing original imperial interiors and regional historical artifacts. It is the undeniable crown jewel of the Gomel region."
     },
     factsAdvanced: {
         "de": [
@@ -1484,7 +1490,7 @@ export const belarusLocalPois: POI[] = [
             "Capela și cripta familiei Paskevich, aflată în parc, este o structură arhitecturală deosebită în stil pseudo-rus.",
             "În timpul iernii, parcul palatului devine un decor de basm, fiind decorat cu mii de lumini artistice."
         ],
-        "en": []
+        "en": ["Construction began in 1777 under Field Marshal Pyotr Rumyantsev.", "The surrounding park covers 34 hectares and features over 5,000 exotic trees.", "The palace was visited by numerous Russian Tsars, including Nicholas I and Alexander II.", "Its museum collection contains over 220,000 items, including rare numismatics."]
     },
     description: {
       de: "Ein prächtiger Palastkomplex am Ufer des Flusses Sosch, ein Meisterwerk des Klassizismus.",
@@ -1529,8 +1535,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Burg von Masyr ist eine beeindruckende Rekonstruktion einer mittelalterlichen Holzfestung, die auf dem historischen Schlossberg über dem Fluss Pripjat thront. Die Anlage vermittelt ein lebendiges Bild der Wehrarchitektur aus der Zeit des Großfürstentums Litauen. Besucher können die hölzernen Türme, Wehrgänge und Wohngebäude erkunden, in denen heute Ausstellungen zum mittelalterlichen Handwerk und zum Alltag der Burgbesatzung untergebracht sind. Die strategische Lage auf dem Hügel ermöglichte einst die Kontrolle über den wichtigen Handelsweg auf dem Pripjat. Heute ist die Burg ein beliebtes Ziel für Touristen und dient als Kulisse für historische Feste und Handwerkermärkte.",
         "hu": "A maziri vár egy középkori faerőd lenyűgöző rekonstrukciója, amely a Pripjaty folyó feletti történelmi Várhegyen trónol. Az együttes élénk képet ad a Litván Nagyfejedelemség korának védelmi építészetéről. A látogatók felfedezhetik a fatornyokat, gyilokjárókat és lakóépületeket, amelyekben ma a középkori mesterségekkel és a várvédők mindennapjaival foglalkozó kiállítások találhatók. A dombon lévő stratégiai elhelyezkedés egykor lehetővé tette a Pripjaty fontos kereskedelmi útvonalának ellenőrzését. Ma a vár a turisták kedvelt célpontja, és történelmi fesztiválok és kézműves vásárok díszleteként szolgál.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Mazyr, așezat dramatic pe dealurile abrupte care străjuiesc râul Pripyat, este o reconstrucție fidelă a fortificației antice din lemn. Aceste coline împădurite, traversate de ravene adânci, conferă orașului un farmec pitoresc și au inspirat construcția unui castel istoric din lemn, astăzi un parc cultural vibrant. Dincolo de frumusețea sa naturală, Mazyr este inima industriei de rafinare a petrolului din Belarus. Râul joacă un rol central în viața locuitorilor, facilitând transportul fluvial și oferind oportunități excelente de agrement pe malurile sale pitorești. Geografie K7 — Relief.",
+        "en": "Mozyr Castle is an evocative, reconstructed wooden fortress sitting prominently atop a steep hill overlooking the meandering Pripyat River. Originally a critical defensive stronghold for the Grand Duchy of Lithuania against Tatar raids, the original structure was destroyed and rebuilt multiple times throughout history. The current complex is a highly authentic modern timber reconstruction, featuring sturdy defensive towers, palisades, and a historic courtyard. It functions as an interactive open-air museum, offering visitors immersive experiences into medieval craftsmanship, weaponry, and regional history. The castle hill also provides arguably the most spectacular panoramic views in the entire Polesia region."
     },
     factsAdvanced: {
         "de": [
@@ -1551,7 +1557,7 @@ export const belarusLocalPois: POI[] = [
             "În interiorul complexului se află o mică capelă din lemn dedicată Sfintei Barbara, ocrotitoarea minerilor.",
             "Castelul găzduiește anual festivalul „Comoara Polesiei”, care celebrează tradițiile populare din sudul țării."
         ],
-        "en": []
+        "en": ["The original wooden castle was completely burned down during an invasion in 1649.", "The modern historical reconstruction was completed and opened in 2005.", "It hosts numerous medieval reenactment festivals and archery tournaments.", "The castle complex sits precisely on the historic Castle Hill, a protected archaeological site."]
     },
     description: {
       de: "Eine rekonstruierte Holzfestung auf einem Hügel mit Blick auf den Fluss Pripjat.",
@@ -1596,8 +1602,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Festung Brest, ein Symbol für unnachgiebigen Widerstand, ist eine der meistbesuchten Sehenswürdigkeiten von Belarus. Die im 19. Jahrhundert errichtete Bastionsfestung wurde im Juni 1941 Schauplatz einer heroischen Verteidigung gegen die anrückende Wehrmacht. Das heutige Memorialensemble vereint die Ruinen der ursprünglichen Gebäude mit monumentalen Skulpturen des sozialistischen Realismus. Besonders beeindruckend ist die Hauptfigur 'Mut', ein riesiger Steinkopf eines Soldaten, der aus einem Felsblock hervorzubrechen scheint. Die Stille auf dem Gelände, unterbrochen nur durch das Ticken eines Metronoms und feierliche Musik, schafft eine Atmosphäre des tiefen Respekts und Gedenkens.",
         "hu": "A breszti erőd, a megingathatatlan ellenállás szimbóluma, Fehéroroszország egyik leglátogatottabb látványossága. A 19. században épült bástyás erőd 1941 júniusában a hősies védekezés színhelyévé vált az előrenyomuló Wehrmacht ellen. A mai emlékegyüttes az eredeti épületek romjait ötvözi a szocialista realizmus monumentális szobraival. Különösen lenyűgöző a 'Bátorság' nevű főalak, egy katona hatalmas kőfeje, amely egy sziklatömbből tör elő. A területen uralkodó csendet csak egy metronóm ketyegése és ünnepélyes zene szakítja meg, a mély tisztelet légkörét teremtve meg.",
-        "ro": "",
-        "en": ""
+        "ro": "Cetatea Brest este o fortificație masivă din secolul al XIX-lea, situată la confluența râurilor Bugul de Vest și Muhaveț, și un monument extrem de important al istoriei militare. A câștigat titlul de „Cetate-Erou” după o defensivă extraordinar de tenace din iunie 1941, când garnizoana sovietică izolată a rezistat săptămâni întregi asediului trupelor germane copleșitoare numeric. Astăzi, vasta întindere de ruine din cărămidă roșie, alături de sculpturi monumentale colosale precum monumentul „Curaj”, oferă un tribut emoționant sacrificiului uman. Monumentul atrage anual sute de mii de vizitatori care vin să omagieze rezistența. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "The Brest Fortress is a colossal 19th-century Russian defensive complex that holds a profound place in modern history due to its heroic defense in 1941. When Operation Barbarossa commenced, the fortress's small garrison held out against overwhelming Nazi forces for over a month, far longer than expected. Today, the site serves as the 'Hero Fortress' memorial complex, featuring immense, stark Soviet monuments like the 'Courage' sculpture and the soaring titanium obelisk. The sprawling grounds encompass ruins, preserved red-brick barracks, and solemn eternal flames commemorating the fallen. It remains a deeply emotional and significant site of remembrance for the entire region."
     },
     factsAdvanced: {
         "de": [
@@ -1618,7 +1624,7 @@ export const belarusLocalPois: POI[] = [
             "Obeliscul „Baioneta” are o înălțime de peste 100 de metri și este vizibil din aproape orice punct al orașului.",
             "Muzeul Apărării din cadrul complexului prezintă mii de exponate, inclusiv obiecte personale ale soldaților și familiilor lor."
         ],
-        "en": []
+        "en": ["The central 'Courage' monument is a massive concrete sculpture measuring 33.5 meters high.", "Construction of the original fortress began in 1833 under the Russian Empire.", "It was awarded the title 'Hero Fortress' in 1965 for its WWII defense.", "The site covers over 4 square kilometers of massive defensive earthworks and structures."]
     },
     description: {
       de: "Eine Heldenfestung, bekannt für ihre heldenhafte Verteidigung im Jahr 1941.",
@@ -1663,8 +1669,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Der Kamenez-Turm, oft fälschlicherweise als 'Weißer Turm' bezeichnet, ist das einzige erhaltene Beispiel eines mittelalterlichen Donjons in Belarus. Der imposante Backsteinbau wurde im 13. Jahrhundert auf Befehl des Fürsten Wladimir Wassilkowitsch zum Schutz gegen äußere Feinde errichtet. Mit seinen dicken Mauern und der strategischen Lage auf einem Hügel war der Turm über Jahrhunderte ein unbezwingbares Bollwerk. Die Architektur ist schlicht und zweckmäßig, zeigt aber bereits frühe gotische Elemente in den Fensterbögen. Heute beherbergt der Turm ein Museum zur Geschichte der Stadt Kamenez und der Verteidigungsanlagen der Region. Von der oberen Plattform bietet sich ein weiter Blick über die Ausläufer der Belovezhskaya Pushcha.",
         "hu": "A kamanyeci torony, amelyet gyakran tévesen 'Fehér toronynak' neveznek, a középkori donjon típusú vártornyok egyetlen épségben maradt példája Fehéroroszországban. Az impozáns téglaépületet a 13. században építették Vlagyimir Vaszilkovics fejedelem parancsára a külső ellenségek elleni védelemül. Vastag falaival és egy dombon lévő stratégiai helyzetével a torony évszázadokon át bevehetetlen bástya volt. Építészete egyszerű és célszerű, de az ablakíveken már korai gótikus elemek is megjelennek. Ma a torony Kamanyec városának és a régió erődítményeinek történetét bemutató múzeumnak ad otthont.",
-        "ro": "",
-        "en": ""
+        "ro": "Turnul din Kameneț, cunoscut frecvent sub numele de „Turnul Alb” (Belaya Vezha), este un supraviețuitor excepțional al arhitecturii defensive medievale din estul Europei. Construit la sfârșitul secolului al XIII-lea la ordinul principelui Vladimir al Volâniei, acest bastion din cărămidă solidă a avut scopul de a consolida granița vestică a principatului. De-a lungul istoriei sale tumultoase, a rezistat atacurilor cruciaților, cavalerilor teutoni și ale hoardelor tătare, stând ca un gardian neclintit. Turnul cilindric uimește prin durabilitatea sa și prin stilul arhitectural auster, fiind în prezent un muzeu valoros care detaliază istoria regiunii și viața cavalerilor. Istorie K7 — Arhitectura defensivă.",
+        "en": "The Kamenets Tower, often erroneously referred to as the 'White Tower', is a remarkable 13th-century brick donjon and a rare surviving example of Galician-Volhynian defensive architecture. Standing nearly 30 meters tall, this massive cylindrical fortification was built to protect the northern borders of the Volhynian principality from crusaders and regional rivals. Remarkably, the tower survived centuries of warfare, sieges, and natural decay entirely intact, making it one of the most authentic medieval structures in Belarus. Today, it houses a museum detailing its rich history and offers visitors a chance to climb to the top for sweeping views of the surrounding ancient landscape. It remains a powerful symbol of early medieval fortitude."
     },
     factsAdvanced: {
         "de": [
@@ -1685,7 +1691,7 @@ export const belarusLocalPois: POI[] = [
             "Denumirea de „Turnul Alb” provine probabil dintr-o eroare istorică, deoarece turnul nu a fost niciodată văruit în alb.",
             "Interiorul păstrează structurile originale din grinzi de lemn și mecanisme ingenioase de apărare medievală."
         ],
-        "en": []
+        "en": ["Constructed between 1276 and 1288 by the prominent architect Oleksa.", "The tower's brick walls are incredibly thick, reaching up to 2.5 meters in width.", "Despite its nickname 'Belaya Vezha' (White Tower), it was built using red bricks.", "It is located just a few kilometers from the famous Belovezhskaya Pushcha forest."]
     },
     description: {
       de: "Ein Backsteinturm aus dem 13. Jahrhundert, ein seltenes Beispiel mittelalterlicher Verteidigungsarchitektur.",
@@ -1730,8 +1736,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Sophienkathedrale in Polozk steht als stolzes Symbol für die Wiege der belarussischen Staatlichkeit und Spiritualität. Das Bauwerk, das im 11. Jahrhundert auf den Grundmauern einer noch älteren Kirche errichtet wurde, spiegelt die wechselvolle Geschichte der Region zwischen orthodoxem und katholischem Einfluss wider. Während die ursprüngliche Struktur byzantinisch geprägt war, verleiht ihr der Wiederaufbau im 18. Jahrhundert das elegante Erscheinungsbild des Barocks. Die Lage auf dem Burgwall über der Dwina macht sie zu einem weithin sichtbaren Orientierungspunkt. Heute ist die Kathedrale ein bedeutendes Kulturzentrum, in dem Geschichte durch Ausstellungen und erstklassige Musikveranstaltungen lebendig bleibt.",
         "hu": "A polocki Szófia-székesegyház büszkén áll a fehérorosz államiság és spiritualitás bölcsőjének szimbólumaként. Az épület, amely a 11. században épült egy még régebbi templom alapjaira, tükrözi a régió ortodox és katolikus befolyás közötti hányatott történelmét. Míg az eredeti szerkezet bizánci jellegű volt, a 18. századi újjáépítés a barokk elegáns megjelenését kölcsönözte neki. A Dvina feletti várfalon lévő elhelyezkedése messziről látható tájékozódási ponttá teszi. Ma a székesegyház jelentős kulturális központ, ahol a történelem kiállítások és elsőrangú zenei események révén kel életre.",
-        "ro": "",
-        "en": ""
+        "ro": "Catedrala Sfânta Sofia din Polotsk este unul dintre cele mai vechi și mai emblematice edificii religioase din Belarus. Construcția sa originală datează din secolul al XI-lea, fiind ridicată de prințul Vseslav drept un simbol al puterii și independenței Principatului de Polotsk. Deși a fost distrusă în timpul Războiului Nordului, ea a fost reconstruită în secolul al XVIII-lea în stil baroc târziu, păstrând doar fragmente din zidurile originale bizantine. Astăzi, catedrala nu mai servește ca lăcaș de cult, ci găzduiește un muzeu impresionant și o sală de concerte renumită pentru acustica sa excepțională și orga sa magistrală. Istorie K7 — Arhitectura bizantină și barocă.",
+        "en": "The Saint Sophia Cathedral in Polotsk is the oldest monumental stone building in Belarus, representing the profound spiritual and architectural heritage of the nation. Originally constructed in the mid-11th century to rival the grand cathedrals of Kyiv and Novgorod, it symbolized Polotsk's status as a powerful independent principality. Although it was largely rebuilt in the striking Vilna Baroque style in the 18th century following a massive explosion, the original 11th-century foundations and apse remain preserved in the crypt. Today, the cathedral functions primarily as a museum and an acclaimed concert hall, famous for its magnificent acoustics and grand organ. It stands majestically on the banks of the Western Dvina River."
     },
     factsAdvanced: {
         "de": [
@@ -1752,7 +1758,7 @@ export const belarusLocalPois: POI[] = [
             "Orga catedralei a fost construită special de meșteri cehi și are peste 3.000 de tuburi, fiind celebră pentru sunetul său.",
             "Polotsk a fost primul centru de educație și tipărire a cărților din întregul areal al Rusiei Kievene."
         ],
-        "en": []
+        "en": ["The original cathedral was completed between 1044 and 1066.", "It was deliberately blown up by the Russian army in 1710 during the Great Northern War.", "The current sweeping Baroque facade was designed by architect Johann Christoph Glaubitz.", "The museum houses rare surviving fragments of the original 11th-century frescoes."]
     },
     description: {
       de: "Eine der ältesten Kirchen Osteuropas, ursprünglich im 11. Jahrhundert erbaut.",
@@ -1797,8 +1803,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Das Gebiet der Braslawer Seen im äußersten Norden des Landes ist eine der malerischsten Landschaften Osteuropas. Durch die letzte Eiszeit geprägt, entstand hier ein Mosaik aus hunderten von Seen, Inseln und sanften Hügelketten. Der Nationalpark schützt diese wertvolle Natur und bietet gleichzeitig Raum für Erholung abseits des Massentourismus. Besonders reizvoll sind die klaren Gewässer, die zum Baden, Tauchen und Angeln einladen. Die Flora und Fauna ist außergewöhnlich artenreich; viele hier vorkommende Pflanzen stehen auf der Roten Liste. Die Region ist zudem bekannt für ihre gemütlichen Agrotourismus-Höfe, die Besuchern das traditionelle Landleben näherbringen.",
         "hu": "A Braszlavi-tavak vidéke az ország legészakibb részén Kelet-Európa egyik legfestőibb tája. Az utolsó jégkorszak által formált terület tavak, szigetek és szelíd dombvonulatok százaiból álló mozaik. A nemzeti park védi ezt az értékes természetet, miközben teret biztosít a tömegturizmustól távoli pihenésnek. Különösen vonzóak a tiszta vizek, amelyek fürdésre, búvárkodásra és horgászatra csábítanak. A növény- és állatvilág rendkívül fajgazdag; sok itt található növény szerepel a Vörös Könyvben. A régió híres hangulatos falusi vendégházairól is, amelyek a hagyományos vidéki életet mutatják be.",
-        "ro": "",
-        "en": ""
+        "ro": "Parcul Național Lacurile Braslav se află în nordul Belarusului și este o zonă de o frumusețe naturală excepțională, formată în timpul ultimei ere glaciare. Peisajul este caracterizat de un labirint de peste 30 de lacuri interconectate prin canale și mlaștini, creând un ecosistem acvatic complex. Dealurile morenice din jur, acoperite de păduri de pini, oferă puncte de belvedere panoramice asupra ochiurilor de apă limpezi. Aceste lacuri sunt un refugiu vital pentru sute de specii de păsări de apă, dintre care multe sunt rare sau pe cale de dispariție. Zona Braslav este o destinație preferată pentru ecoturism, pescuit și plimbări cu barca. Geografie K7 — Relief glaciar și lacuri.",
+        "en": "Braslav Lakes National Park is a breathtaking natural expanse in northern Belarus, encompassing over 30 interconnected lakes formed by ancient retreating glaciers. The region is characterized by crystal-clear waters, winding rivers, and a complex shoreline of peninsulas and wooded islands. It is a premier destination for ecotourism, offering unparalleled opportunities for boating, fishing, and birdwatching amidst pristine natural surroundings. The diverse landscape supports a wide array of wildlife, including rare bird species and large mammals like elk and wild boar. The park effectively combines ecological preservation with sustainable outdoor recreation."
     },
     factsAdvanced: {
         "de": [
@@ -1819,7 +1825,7 @@ export const belarusLocalPois: POI[] = [
             "Regiunea Braslav este certificată ca fiind una dintre cele mai curate zone din punct de vedere ecologic din Europa.",
             "În fiecare vară, pe malul lacului are loc festivalul „Viva Braslav”, cel mai mare eveniment de muzică și sport din regiune."
         ],
-        "en": []
+        "en": ["The national park covers an expansive area of over 71,500 hectares.", "Lake Drivyaty is the largest within the park and the fifth largest in Belarus.", "The region is colloquially known as the 'Blue Necklace' of Belarus.", "It features numerous ancient hillforts and archaeological sites on its islands."]
     },
     description: {
       de: "Ein malerisches Seengebiet im Norden von Belarus mit einzigartiger Flora und Fauna.",
@@ -1864,8 +1870,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Schloss Mir ist weit mehr als nur eine Festung; es ist ein steinernes Zeugnis der glanzvollen Epoche des Großfürstentums Litauen. Die markante Architektur mit ihren rot-weißen Mauern und den kunstvoll verzierten Türmen macht es zu einem der ikonischsten Motive von Belarus. Über die Jahrhunderte diente es als Wohnsitz, Wehrbau und sogar als Gefängnis, bevor es nach aufwendigen Restaurierungen in neuem Glanz erstrahlte. Das Innere des Schlosses beeindruckt durch detailgetreu rekonstruierte Säle, die den Reichtum der ehemaligen Besitzer widerspiegeln. Der angrenzende Schlossweiher und der englische Park laden zu erholsamen Spaziergängen in einer historisch aufgeladenen Umgebung ein.",
         "hu": "A miri várkastély sokkal több, mint egy erőd; a Litván Nagyfejedelemség dicső korszakának kőbe vésett tanúsága. Jellegzetes építészete vörös-fehér falaival és művészien díszített tornyaival Fehéroroszország egyik legikonikusabb motívumává teszi. Az évszázadok során lakóhelyként, védműként, sőt börtönként is szolgált, mielőtt az alapos restaurálás után új fényben ragyogna. A vár belseje részletgazdag, rekonstruált termekkel nyűgözi le a látogatókat, amelyek a korábbi tulajdonosok gazdagságát tükrözik. A szomszédos vártó és az angolpark pihentető sétákra hív a történelmi környezetben.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Mir reprezintă o capodoperă excepțională a arhitecturii militare și rezidențiale, combinând armonios elemente de gotic târziu, renaștere și baroc. Construit inițial la începutul secolului al XVI-lea de către magnatul Ilinici, complexul fortificat a fost ulterior extins de faimoasa familie Radziwill, devenind un palat somptuos. Zidurile sale masive de cărămidă roșie, turnurile crenelate și detaliile decorative creează o imagine desprinsă din basmele medievale. Recunoscut de UNESCO ca sit al Patrimoniului Mondial, castelul a fost martorul unor evenimente istorice turbulente. Parcul din jur și lacul reflectă perfect frumusețea sa, atrăgând vizitatori din întreaga lume. Istorie K7 — Fortificațiile medievale.",
+        "en": "Mir Castle Complex is an exceptional monument of Belarusian architecture and a UNESCO World Heritage site, located in the Grodno region. Construction began at the end of the 15th century in the Gothic style, but subsequent centuries saw the addition of Renaissance and Baroque elements by the powerful Radziwiłł family. The formidable five-tower red brick structure is beautifully reflected in the adjacent artificial lake, creating a picturesque fairy-tale setting. It served not only as a defensive stronghold but also as a luxurious aristocratic residence. Today, it stands as a premier tourist attraction featuring extensive museum exhibits that detail its turbulent history."
     },
     factsAdvanced: {
         "de": [
@@ -1886,7 +1892,7 @@ export const belarusLocalPois: POI[] = [
             "Tavanul „Sălii Portretelor” este o reconstrucție artistică a unui tavan casetat aurit din perioada Renașterii.",
             "Castelul Mir a fost inclus în lista Patrimoniului Mondial UNESCO în anul 2000 pentru valoarea sa arhitecturală universală."
         ],
-        "en": []
+        "en": ["Designated as a UNESCO World Heritage site in the year 2000.", "The castle's walls are up to 3 meters thick in some places.", "It features an Italian Renaissance garden established in the 16th century.", "The complex suffered severe damage during the Napoleonic Wars but was meticulously restored."]
     },
     description: {
       de: "Ein UNESCO-Welterbe und eines der beeindruckendsten Schlösser Osteuropas.",
@@ -1931,8 +1937,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Burg von Lida wurde im 14. Jahrhundert als Bollwerk gegen die Expansionsbestrebungen des Deutschen Ordens errichtet. Das von Großfürst Gediminas in Auftrag gegebene Bauwerk zeichnet sich durch seine massiven Mauern und die markante Lage am Zusammenfluss zweier Wasserläufe aus. Über die Jahrhunderte war die Burg Schauplatz zahlreicher kriegerischer Auseinandersetzungen zwischen Litauen, Polen und Russland. Nach einer Zeit des Verfalls wurde die Burg umfassend restauriert und dient heute als lebendiges Museum für mittelalterliche Geschichte. Besonders sehenswert sind die Ausstellungen von historischen Waffen und Rüstungen sowie die regelmäßig stattfindenden Ritterturniere, die die Atmosphäre des Mittelalters wieder auferstehen lassen.",
         "hu": "A lidai várat a 14. században emelték bástyaként a Német Lovagrend terjeszkedési törekvései ellen. A Gediminas nagyfejedelem által megrendelt építményt masszív falai és két vízfolyás összefolyásánál lévő jellegzetes fekvése jellemzi. Az évszázadok során a vár számos véres összecsapás színhelye volt Litvánia, Lengyelország és Oroszország között. A hanyatlás időszaka után a várat átfogóan felújították, és ma a középkori történelem élő múzeumaként szolgál. Különösen érdemes megtekinteni a történelmi fegyver- és páncélkiállításokat, valamint a rendszeres lovagi tornákat.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Lida este o fortăreață redutabilă din secolul al XIV-lea, construită de Marele Duce Gediminas pentru a proteja rutele comerciale de atacurile cavalerilor teutoni. Zidurile masive ale castelului sunt frecvent gazda turneelor medievale captivante și a expozițiilor de armură care atrag mii de turiști. Fortăreața a suferit nenumărate asedii de-a lungul istoriei sale, fiind succesiv avariată și reconstruită. Reabilitarea recentă a readus la viață arhitectura de apărare gotică, făcându-l o atracție majoră a orașului. Vizitatorii pot asista adesea la festivaluri ce reconstituie atmosfera medievală a cavalerilor. Istorie K7 — Fortificațiile medievale.",
+        "en": "Lida Castle is a formidable stone fortress built in 1323 by Grand Duke Gediminas to protect the lands of the Grand Duchy of Lithuania from the relentless raids of the Teutonic Knights. Constructed in a unique trapezoidal shape with two massive corner towers, the fortress represents a significant defensive innovation for its time. Over the centuries, it faced numerous devastating sieges by crusaders, Crimean Tatars, and Russian forces. Recently undergoing extensive restoration, the castle is now a major historical and cultural venue, hosting vibrant medieval reenactments, theatrical performances, and jousting tournaments. It remains a powerful symbol of early Belarusian resilience."
     },
     factsAdvanced: {
         "de": [
@@ -1953,7 +1959,7 @@ export const belarusLocalPois: POI[] = [
             "Castelul Lida făcea parte dintr-un lanț defensiv care mai includea cetățile de la Krevo și Medininkai.",
             "Vizitatorii pot participa activ la jocuri medievale și ateliere de meșteșuguri organizate frecvent în curtea castelului."
         ],
-        "en": []
+        "en": ["The castle was constructed primarily from large boulders and locally sourced red brick.", "It withstood a major siege by English and French crusaders in 1394.", "The fortress spans an area of approximately 0.6 hectares.", "Today, it is a centerpiece of the annual 'Sword of Lida Castle' historical festival."]
     },
     description: {
       de: "Eine mittelalterliche Festung, die im 14. Jahrhundert zum Schutz gegen Kreuzritter errichtet wurde.",
@@ -1998,8 +2004,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Das Rathaus von Mogilev ist das stolze Wahrzeichen der Stadt und ein Symbol für ihre lange Tradition der Selbstverwaltung unter dem Magdeburger Recht. Das ursprüngliche Bauwerk aus dem 17. Jahrhundert wurde im Zweiten Weltkrieg schwer beschädigt und später abgerissen, bevor es im Jahr 2008 originalgetreu an seinem historischen Standort wiedererrichtet wurde. Der elegante Turm mit der Aussichtsplattform dominiert den zentralen Platz und bietet einen herrlichen Blick über den Dnepr. Heute beherbergt das Rathaus das Stadtmuseum von Mogilev, das die wechselvolle Geschichte der Region von der Frühzeit bis in die Moderne dokumentiert. Es dient zudem als repräsentativer Ort für feierliche Empfänge und Trauungen.",
         "hu": "A mahiljovi városháza a város büszke jelképe és a magdeburgi jog szerinti önkormányzatiság hosszú hagyományának szimbóluma. Az eredeti 17. századi épület a második világháborúban súlyosan megsérült, majd lebontották, mielőtt 2008-ban hűen újjáépítették történelmi helyén. Az elegáns, kilátóval ellátott torony uralja a központi teret, és pompás kilátást nyújt a Dnyeperre. Ma a városháza a Mahiljovi Várostörténeti Múzeumnak ad otthont, amely dokumentálja a régió változatos történetét a kezdetektől a modern korig. Emellett reprezentatív helyszínként szolgál ünnepi fogadásokhoz és esküvőkhöz.",
-        "ro": "",
-        "en": ""
+        "ro": "Primăria din Moghilău este un monument istoric remarcabil care reflectă cu mândrie bogata tradiție a autoguvernării urbane în conformitate cu Drepturile de la Magdeburg. Deși structura originară din secolul al XVII-lea a fost ruinată în urma confruntărilor din al Doilea Război Mondial, clădirea a renăscut printr-un proces de reconstrucție extrem de riguros, redeschizându-și porțile în anul 2008. Turnul său grațios, având o punte de observație uluitoare, oferă priveliști extinse asupra râului Nipru, în timp ce interiorul somptuos servește drept muzeu al orașului, evidențiind moștenirea civică și comercială. Astăzi, primăria este, de asemenea, o destinație populară pentru ceremoniile de căsătorie, adăugând o notă romantică importanței sale civice. Istorie K7 — Autoguvernarea.",
+        "en": "The Mogilev Town Hall is a magnificent symbol of the city's historical self-governance and economic prosperity, originally built after Mogilev received Magdeburg rights in 1577. The building's defining feature is its soaring, multi-tiered octagonal tower, which historically served as a watchtower and the focal point of civic life. Tragically destroyed during the devastating battles of World War II, the Town Hall was meticulously reconstructed from historical blueprints in 2008. Today, it houses a fascinating museum dedicated to the city's history and features a unique mechanical clock mechanism created by a local master. Visitors can climb to the observation deck for panoramic views of the Dnieper River valley."
     },
     factsAdvanced: {
         "de": [
@@ -2020,7 +2026,7 @@ export const belarusLocalPois: POI[] = [
             "În interior poate fi văzută o copie a privilegiului acordat orașului Mogilev de către regele polonez în 1577.",
             "Clădirea este considerată una dintre cele mai reușite reconstrucții de arhitectură istorică realizate recent în Belarus."
         ],
-        "en": []
+        "en": ["The original stone structure was completed in 1698 after the wooden version burned down.", "The tower reaches an impressive height of 46 meters.", "It features a functioning mechanical tower clock designed by a local clockmaker.", "A daily trumpet melody is played from the tower by a live musician."]
     },
     description: {
       de: "Ein rekonstruiertes Wahrzeichen der Stadt, das die Geschichte der Selbstverwaltung widerspiegelt.",
@@ -2065,8 +2071,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Festung Bobruisk war zu Beginn des 19. Jahrhunderts eine der modernsten und stärksten Verteidigungsanlagen des Russischen Reiches. Sie wurde strategisch günstig am Ufer der Beresina errichtet, um die westlichen Zugangswege zum Landesinneren zu sichern. Das Besondere an der Festung war ihre Fähigkeit, autark über lange Zeiträume zu operieren, was sie 1812 während des Feldzugs von Napoleon unter Beweis stellte. Heute sind weite Teile der massiven Backsteingebäude, unterirdischen Gänge und Bastionen erhalten und können besichtigt werden. Obwohl viele Gebäude heute leer stehen oder anders genutzt werden, vermittelt die schiere Größe der Anlage noch immer einen imposanten Eindruck militärischer Macht.",
         "hu": "A babrujszki erőd a 19. század elején az Orosz Birodalom egyik legmodernebb és legerősebb védelmi létesítménye volt. Stratégiailag a Berezina partján épült fel, hogy biztosítsa a belső területek felé vezető nyugati útvonalakat. Az erőd különlegessége az volt, hogy képes volt hosszú ideig önellátóan működni, amit 1812-ben Napóleon hadjárata során be is bizonyított. Ma a masszív téglaépületek, földalatti folyosók és bástyák nagy része épségben van és látogatható. Bár sok épület ma üresen áll, az együttes puszta mérete még mindig lenyűgöző képet fest az egykori katonai hatalomról.",
-        "ro": "",
-        "en": ""
+        "ro": "Cetatea Bobruisk, ridicată strategic pe malul râului Berezina la începutul secolului al XIX-lea, reprezintă una dintre cele mai moderne structuri defensive ale Imperiului Rus de la acea vreme. Fortificația, concepută pentru a asigura rutele vestice spre interiorul imperiului, a putut funcționa autosuficient pentru perioade îndelungate, calitate probată eroic în timpul campaniei lui Napoleon din 1812. În prezent, vizitatorii pot explora clădirile masive din cărămidă roșie, meterezele și tunelele subterane conservate. Scara sa impunătoare continuă să evoce o imagine clară a puterii militare a epocii, chiar dacă o parte a terenului este azi destinată facilităților civile și sportive. Istorie K8 — Războaiele napoleoniene.",
+        "en": "The Bobruisk Fortress is a massive 19th-century star fort that played a crucial, legendary role in the defense of the Russian Empire against Napoleon's invasion in 1812. Covering a vast area along the Berezina River, it was considered one of the most impenetrable military installations in Europe at the time of its completion. Its small garrison successfully withstood a prolonged four-month siege by French forces, altering the strategic course of the war. Although largely in ruins today, the imposing red-brick barracks, deep moats, and massive earthworks remain a testament to incredible military engineering. The site has become a poignant historical landmark attracting history enthusiasts."
     },
     factsAdvanced: {
         "de": [
@@ -2087,7 +2093,7 @@ export const belarusLocalPois: POI[] = [
             "Cărămizile roșii folosite la construcție au fost produse în fabrici locale înființate special pentru acest proiect masiv.",
             "De-a lungul istoriei sale, cetatea a servit și ca închisoare de maximă siguranță pentru deținuții politici importanți."
         ],
-        "en": []
+        "en": ["Construction of the colossal fortress began in 1810 by order of Tsar Alexander I.", "During the 1812 siege, a garrison of just 4,000 men held off 12,000 French troops.", "It was later used as a notorious political prison in the 19th and early 20th centuries.", "The fortress ruins now cover several square kilometers of the modern city."]
     },
     description: {
       de: "Eine riesige Festungsanlage aus dem 19. Jahrhundert, die Napoleon widerstand.",
@@ -2132,8 +2138,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Schloss Nesvizh, der einstige Sitz der Radziwill-Dynastie, gilt als das prachtvollste Beispiel für die Verbindung von Adelskultur und europäischer Architekturtradition in Belarus. Die weitläufige Anlage, die über Jahrhunderte gewachsen ist, vereint auf harmonische Weise verschiedene Baustile und ist in ein ausgeklügeltes System von Kanälen und Parkanlagen eingebettet. Jedes Zimmer und jeder Saal erzählt Geschichten von Macht, Reichtum und kulturellem Mäzenatentum. Besonders hervorzuheben sind der Goldene Saal und der Thronsaal mit ihren kunstvollen Stuckarbeiten. Als UNESCO-Welterbestätte zieht das Schloss Besucher aus aller Welt an und dient heute als bedeutendes Museum, das das kulturelle Erbe der Region bewahrt.",
         "hu": "A nyeszvizsi kastély, a Radziwill-dinasztia egykori székhelye, a nemesi kultúra és az európai építészeti hagyomány ötvözésének legpompásabb példája Fehéroroszországban. Az évszázadok alatt épült kiterjedt együttes harmonikusan ötvözi a különböző stílusokat, és csatornák, valamint parkok kifinomult rendszerébe ágyazódik. Minden szoba és terem a hatalomról, a gazdagságról és a kulturális mecénáskodásról mesél. Külön kiemelendő az Aranyterem és a Trónterem művészi stukkómunkáikkal. UNESCO Világörökségi helyszínként a kastély a világ minden tájáról vonzza a látogatókat.",
-        "ro": "",
-        "en": ""
+        "ro": "Castelul Nesvizh, sediul ancestral al puternicei dinastii Radziwill, este un exemplu strălucit de cultură nobiliară europeană în inima Belarusului. Acest complex palatin vast, dezvoltat de-a lungul mai multor secole, prezintă o fuziune elegantă a stilurilor renascentist, baroc și clasicist. Este înconjurat de un sistem ingenios de iazuri, șanțuri cu apă și o serie de parcuri peisagistice amenajate cu măiestrie. Fiecare încăpere din palat a fost concepută pentru a demonstra bogăția și influența familiei, în special prin decorul somptuos din Sala de Aur și Sala Tronului. Alături de biserica Corpus Christi adiacentă, complexul ilustrează importanța orașului Nesvizh. Arte K7 — Barocul.",
+        "en": "Nesvizh Castle was the magnificent residential stronghold of the Radziwiłł family, one of the most powerful aristocratic dynasties in the Grand Duchy of Lithuania. The sprawling complex features a harmonious blend of Renaissance, Baroque, and Neoclassical architecture, surrounded by an elaborate system of defensive moats and magnificent landscaped parks. Its opulent interior rooms, including the Golden Hall and the Library, once housed vast collections of art, armor, and rare manuscripts. The adjacent Corpus Christi Church is the first Baroque temple built in Eastern Europe and contains the family's extensive crypt. This UNESCO World Heritage site offers profound insights into the region's noble heritage."
     },
     factsAdvanced: {
         "de": [
@@ -2154,7 +2160,7 @@ export const belarusLocalPois: POI[] = [
             "Puterea familiei Radziwill era atât de mare încât membrii săi erau supranumiți „regii neîncoronați ai Belarusului”.",
             "Complexul include și primul teatru iezuit din regiune, subliniind rolul de centru educațional pe care l-a avut Nesvizh."
         ],
-        "en": []
+        "en": ["Inscribed on the UNESCO World Heritage list in 2005.", "The Radziwiłł crypt beneath the church contains over 70 coffins, the third largest in Europe.", "The castle's sprawling landscape park covers nearly 90 hectares.", "It hosted numerous kings, tsars, and European nobility throughout its 400-year history."]
     },
     description: {
       de: "Die prachtvolle Residenz der Familie Radziwill, umgeben von weitläufigen Gärten.",
@@ -2199,8 +2205,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Gedenkstätte Chatyn ist ein Ort des Innehaltens und des tiefen Gedenkens an die Opfer des Zweiten Weltkriegs. An der Stelle, wo am 22. März 1943 das Dorf Chatyn von SS-Einheiten zerstört wurde, entstand eine monumentale Gedenkstätte, die durch ihre Stille und Symbolik besticht. Die Grundrisse der verbrannten Häuser sind durch niedrige Betonmauern markiert, was die Leere und den Verlust schmerzhaft spürbar macht. Inmitten der Anlage befindet sich das 'Dorf der Dörfer', ein symbolischer Friedhof für 186 belarussische Ortschaften, die zusammen mit ihren Einwohnern vernichtet und nie wieder aufgebaut wurden. Die Anlage ist ein wichtiges Ziel für Bildungsreisen und ein nationales Symbol für den belarussischen Geist des Überlebens.",
         "hu": "A hatinyi emlékmű a csendes elmélyülés és a második világháború áldozataira való megemlékezés helyszíne. Ott, ahol 1943. március 22-én Hatiny falut az SS-egységek elpusztították, egy monumentális emlékhely jött létre, amely szimbolikájával nyűgözi le a látogatót. Az elégetett házak alaprajzát alacsony betonfalak jelzik, fájdalmasan érezhetővé téve az űrt és a veszteséget. Az együttes közepén található a 'Falvak faluja', egy szimbolikus temető 186 fehérorosz településnek, amelyeket lakóikkal együtt pusztítottak el. Az emlékhely a fehérorosz túlélési ösztön nemzeti szimbóluma.",
-        "ro": "",
-        "en": ""
+        "ro": "Memorialul Khatyn este un loc profund emoționant dedicat amintirii satelor belaruse distruse și populației civile ucise în timpul celui de-al Doilea Război Mondial. Pe 22 martie 1943, trupele SS au ars din temelii satul Khatyn, ucigându-i aproape toți locuitorii. Memorialul, conceput cu o arhitectură peisagistică sobră și simbolică, marchează exact fundațiile caselor arse, având obeliscuri sub formă de coșuri de fum de unde bat clopote în mod regulat. 'Cimitirul Satelor' adună urne cu pământ din cele 186 de așezări care nu au mai fost niciodată reconstruite. Locul invită la o reflectare tăcută asupra ororilor războiului și este un pilon central al memoriei naționale a Belarusului. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "The Khatyn Memorial Complex is a hauntingly powerful site dedicated to the tragic loss of civilian life during the Nazi occupation of Belarus in World War II. It stands on the exact location of the former village of Khatyn, whose entire population was massacred and the village burned to the ground in March 1943. The memorial features an emotionally devastating central sculpture of an unbroken man holding his dead son, surrounded by symbolic chimneys marking where each burned house once stood. Every 30 seconds, bells attached to the chimneys toll in unison, creating a profound atmosphere of grief and remembrance. It serves as a tribute to all 628 Belarusian villages destroyed in a similar manner."
     },
     factsAdvanced: {
         "de": [
@@ -2221,7 +2227,7 @@ export const belarusLocalPois: POI[] = [
             "Pe „Zidul Memoriei” sunt trecute numele a peste 260 de lagăre de concentrare și locuri de exterminare din Belarus.",
             "În fiecare an, la aniversarea tragediei, au loc ceremonii de stat la care participă mii de oameni pentru a aduce omagii."
         ],
-        "en": []
+        "en": ["The memorial complex was officially opened in 1969.", "A total of 149 villagers, including 75 children, were killed in the Khatyn massacre.", "The 'Cemetery of Villages' contains earth from 185 other un-rebuilt destroyed villages.", "It features the symbolic 'Trees of Life', listing the villages that were rebuilt after the war."]
     },
     description: {
       de: "Ein ergreifendes Denkmal für die während des Zweiten Weltkriegs zerstörten belarussischen Dörfer.",
@@ -2266,8 +2272,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Die Nationalbibliothek von Belarus ist weit mehr als nur ein Aufbewahrungsort für Bücher; sie ist ein multifunktionales Zentrum für Information, Kultur und Diplomatie. Das markante Gebäude im Norden von Minsk zieht durch seine außergewöhnliche Architektur und die gläserne Fassade alle Blicke auf sich. Im Inneren bietet die Bibliothek modernste technologische Infrastruktur für Forschung und Studium, einschließlich digitaler Archive und internationaler Datenbanken. Neben den Lesesälen beherbergt die Bibliothek Galerien für zeitgenössische Kunst und Räumlichkeiten für internationale Gipfeltreffen. Die Aussichtsplattform auf dem Dach hat sich zu einem der beliebtesten touristischen Ziele in Minsk entwickelt, da sie einen unverstellten Blick über die expandierende Metropole bietet.",
         "hu": "A Fehérorosz Nemzeti Könyvtár sokkal több, mint könyvek tárolóhelye; az információ, a kultúra és a diplomácia multifunkcionális központja. A minszki épület rendkívüli építészetével és üveghomlokzatával minden tekintetet magára vonz. Odabent a könyvtár a legmodernebb technológiai infrastruktúrát kínálja a kutatáshoz és tanuláshoz, beleértve a digitális archívumokat és nemzetközi adatbázisokat. Az olvasótermek mellett kortárs művészeti galériáknak és nemzetközi csúcstalálkozók helyszíneinek is otthont ad. A tetőn lévő kilátóterasz Minszk egyik legnépszerűbb turisztikai célpontjává vált.",
-        "ro": "",
-        "en": ""
+        "ro": "Biblioteca Națională a Belarusului este mult mai mult decât un depozitar de cărți; este un centru arhitectural și cultural definitoriu pentru orașul Minsk. Clădirea masivă, inaugurată în 2006, atrage imediat atenția prin forma sa unică de rombicuboctaedru, simbolizând valoarea cunoașterii umane. În interior, vizitatorii descoperă o infrastructură tehnologică de ultimă generație, săli de lectură spațioase și galerii de artă impresionante. Platforma de observație de pe acoperiș oferă o panoramă spectaculoasă asupra capitalei, în timp ce pe timp de noapte, fațada de sticlă se transformă într-un uriaș ecran LED colorat. Construcția este un punct de mândrie națională și un simbol al inovației. Arte K7 — Arhitectura contemporană.",
+        "en": "The National Library of Belarus in Minsk is a striking masterpiece of modern architecture, instantly recognizable by its unique rhombicuboctahedron (diamond) shape. Standing at an impressive 73 meters tall, the building represents the immense value of knowledge and serves as the country's primary information and cultural center. At night, the entire glass facade transforms into a massive, dynamic LED display that illuminates the city skyline with colorful patterns and messages. Beyond housing millions of books and rare manuscripts, the complex features an open-air observation deck providing panoramic views of the capital. It is a bold symbol of modern Belarusian development and cultural investment."
     },
     factsAdvanced: {
         "de": [
@@ -2288,7 +2294,7 @@ export const belarusLocalPois: POI[] = [
             "Biblioteca funcționează ca nod central de coordonare pentru întregul sistem de biblioteci publice din Belarus.",
             "Clădirea este adesea poreclită „Al treilea ochi” al orașului Minsk datorită prezenței sale dominante la orizont."
         ],
-        "en": []
+        "en": ["The futuristic building was completed and opened to the public in 2006.", "The library's total weight is estimated to be over 115,000 tons, not including the books.", "It holds a collection of over 10 million items, including rare 16th-century texts.", "The building spans 22 stories and features state-of-the-art automated book retrieval systems."]
     },
     description: {
       de: "Ein futuristisches Gebäude in Minsk, bekannt für seine einzigartige geometrische Form.",
@@ -2333,8 +2339,8 @@ export const belarusLocalPois: POI[] = [
     descriptionAdvanced: {
         "de": "Der Siegesplatz in Minsk ist einer der bedeutendsten und feierlichsten Orte der belarussischen Hauptstadt. Im Zentrum des Platzes ragt ein 38 Meter hoher Obelisk empor, der zum Gedenken an den Sieg im Großen Vaterländischen Krieg errichtet wurde. Der Platz ist ein zentraler Bestandteil des stalinistischen Ensembles des Unabhängigkeitsboulevards und beeindruckt durch seine symmetrische Gestaltung und die monumentale Architektur der umgebenden Gebäude. Am Fuße des Obelisken brennt die Ewige Flamme, die von Ehrenwachen bewacht wird. Unter dem Platz befindet sich eine runde Gedenkhalle, die die Namen der Helden ehrt, die für die Befreiung von Belarus gefallen sind. Der Platz ist Schauplatz der wichtigsten nationalen Feiertage und Paraden.",
         "hu": "A minszki Győzelem tere a fehérorosz főváros egyik legjelentősebb és legünnepélyesebb helyszíne. A tér közepén egy 38 méter magas obeliszk emelkedik, amelyet a Nagy Honvédő Háborúban aratott győzelem emlékére állítottak. A tér a Függetlenség sugárút sztálini építészeti együttesének központi eleme, és szimmetrikus kialakításával, valamint a környező épületek monumentális jellegével nyűgözi le a látogatókat. Az obeliszk lábánál örökláng ég, amelyet díszőrség véd. A tér alatt egy kör alakú emlékcsarnok található, amely a Fehéroroszország felszabadításáért elesett hősök nevét őrzi.",
-        "ro": "",
-        "en": ""
+        "ro": "Piața Victoriei din Minsk este epicentrul simbolic al memoriei naționale și o realizare grandioasă a planificării urbane din epoca stalinistă. În mijlocul pieței se înalță un obelisc colosal din granit, care aduce un omagiu jertfei imense și victoriei finale a poporului sovietic și belarus în Marele Război pentru Apărarea Patriei. Flacăra Eternă de la baza monumentului arde neîntrerupt, protejată frecvent de un corp de gardă de onoare impresionant. Sub nivelul străzii se află un coridor memorial subteran ce conține numele celor căzuți pentru eliberare, luminat de o cupolă de sticlă fascinantă. Clădirile semilunare impunătoare ce definesc perimetrul pieței contribuie la sentimentul solemnității, făcând din acest loc teatrul principal al celor mai importante ceremonii naționale. Istorie K8 — Al Doilea Război Mondial.",
+        "en": "Victory Square is a grand, monumental plaza located in the center of Minsk on Independence Avenue, serving as the nation's principal memorial to the heroes and victims of World War II. The square is dominated by a soaring 38-meter granite obelisk topped with the Soviet Order of Victory, with an eternal flame burning solemnly at its base. The surrounding classic Soviet-era apartment buildings are adorned with enormous neon signs reading 'The Feat of the People is Immortal'. Beneath the square lies a circular memorial hall honoring the millions of Belarusians who perished during the conflict. The plaza serves as the focal point for massive national celebrations and remembrance ceremonies."
     },
     factsAdvanced: {
         "de": [
@@ -2355,7 +2361,7 @@ export const belarusLocalPois: POI[] = [
             "Flacăra Eternă din Piața Victoriei a fost aprinsă în anul 1961 și arde neîncetat de atunci.",
             "Clădirile care înconjoară piața au fost proiectate special pentru a amplifica efectul monumental al monumentului central."
         ],
-        "en": []
+        "en": ["The central obelisk was unveiled in 1954 to commemorate the 10th anniversary of Minsk's liberation.", "The eternal flame was lit on July 3, 1961, by a Hero of the Soviet Union.", "Four bronze reliefs at the base of the monument depict the struggle and victory of the people.", "The memorial hall beneath the square was added during a reconstruction in 1984."]
     },
     description: {
       de: "Ein zentraler Platz in Minsk mit einem monumentalen Obelisken zum Gedenken an den Sieg im Zweiten Weltkrieg.",

@@ -1,5 +1,5 @@
 import type { POI } from "./poi";
-
+import { poiExtraIcelandCities } from "./poiExtraIcelandCities";
 export const icelandCountry: POI = {
   id: "country-iceland",
   type: "country",
@@ -2226,4 +2226,4 @@ export const icelandPois: POI[] = [
   ...icelandNature,
   ...icelandHistorical,
   ...icelandCulture
-];
+, ...poiExtraIcelandCities];

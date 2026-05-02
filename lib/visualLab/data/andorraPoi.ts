@@ -1,4 +1,6 @@
 import type { POI } from "./poi";
+import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
+import { poiExtraAndorraOther } from "./poiExtraAndorraOther";
 
 export const andorraCountry: POI = {
   id: "country-andorra",
@@ -2398,11 +2400,9 @@ export const andorraRegionPois: POI[] = [
   }
 ];
 
-export const andorraAllPoi: POI[] = [
-  andorraCountry,
+export const andorraAllPoi: POI[] = [andorraCountry,
   ...andorraRegions,
   ...andorraCities,
   ...andorraLandmarks,
   ...andorraNature,
-  ...andorraRegionPois
-];
+  ...andorraRegionPois, ...poiExtraAndorraCities, ...poiExtraAndorraOther];

@@ -7,10 +7,8 @@ import type { POI } from "./poi";
 import { albaniaAllPoi } from "./albaniaPoi";
 import { andorraAllPoi } from "./andorraPoi";
 import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
-import { poiExtraAndorraHistory } from "./poiExtraAndorraHistory";
 import { poiExtraAndorraOther } from "./poiExtraAndorraOther";
 import { austriaAllPoi } from "./austriaPoi";
-import { poiExtraAustriaCities } from "./poiExtraAustriaCities";
 import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
 import { poiExtraAustriaIndustry } from "./poiExtraAustriaIndustry";
 import { poiExtraAustriaLife } from "./poiExtraAustriaLife";
@@ -22,14 +20,27 @@ import { belizeAllPoi } from "./belizePoi";
 import { poiExtraBelizeLifeV2 } from "./poiExtraBelizeLifeV2";
 import { bosniaAllPoi } from "./bosniaPoi";
 import { bulgariaAllPoi } from "./bulgariaPoi";
+import { poiExtraBurundiHistoryV2 } from "./poiExtraBurundiHistoryV2";
+import { poiExtraBurundiLandmarksV2 } from "./poiExtraBurundiLandmarksV2";
+import { poiExtraBurundiNatureV2 } from "./poiExtraBurundiNatureV2";
 import { canadaAllPoi } from "./canadaPoi";
+import { poiExtraCentralafricanrepublicCitiesV2 } from "./poiExtraCentralafricanrepublicCitiesV2";
+import { poiExtraCentralafricanrepublicNatureV2 } from "./poiExtraCentralafricanrepublicNatureV2";
+import { poiExtraChadNatureV2 } from "./poiExtraChadNatureV2";
+import { poiExtraChadReliefV2 } from "./poiExtraChadReliefV2";
+import { poiExtraCapeverdeCitiesV2 } from "./poiExtraCapeverdeCitiesV2";
+import { poiExtraCapeverdeEconomicV2 } from "./poiExtraCapeverdeEconomicV2";
+import { poiExtraCapeverdeHistoryV2 } from "./poiExtraCapeverdeHistoryV2";
+import { poiExtraCapeverdeLandmarksV2 } from "./poiExtraCapeverdeLandmarksV2";
+import { poiExtraCapeverdeLifeV2 } from "./poiExtraCapeverdeLifeV2";
+import { poiExtraCapeverdeNatureV2 } from "./poiExtraCapeverdeNatureV2";
+import { poiExtraCapeverdeReliefV2 } from "./poiExtraCapeverdeReliefV2";
+import { poiExtraCongoCitiesV2 } from "./poiExtraCongoCitiesV2";
 import { costaricaAllPoi } from "./costaricaPoi";
 import { croatiaAllPoi } from "./croatiaPoi";
 import { cubaAllPoi } from "./cubaPoi";
 import { poiExtraCubaReliefV2 } from "./poiExtraCubaReliefV2";
 import { cyprusAllPoi } from "./cyprusPoi";
-import { poiExtraCyprusCities } from "./poiExtraCyprusCities";
-import { cyprusHistoryPoi } from "./poiExtraCyprusHistory";
 import { cyprusOtherPoi } from "./poiExtraCyprusOther";
 import { czechRepublicAllPoi } from "./czechRepublicPoi";
 import { poiExtraCzechRepublicCities } from "./poiExtraCzechRepublicCities";
@@ -48,11 +59,8 @@ import { hondurasAllPoi } from "./hondurasPoi";
 import { hungaryAllPoi } from "./hungaryPoi";
 import { icelandPois } from "./icelandPoi";
 import { poiExtraIcelandCities } from "./poiExtraIcelandCities";
-import { poiExtraIcelandHistory } from "./poiExtraIcelandHistory";
-import { icelandOtherPois } from "./poiExtraIcelandOther";
 import { irelandAllPoi } from "./irelandPoi";
 import { poiExtraIrelandCities } from "./poiExtraIrelandCities";
-import { poiExtraIrelandHistory } from "./poiExtraIrelandHistory";
 import { poiExtraIrelandOther } from "./poiExtraIrelandOther";
 import { italyAllPoi } from "./italyPoi";
 import { poiExtraItalyCitiesC1 } from "./poiExtraItalyCitiesC1";
@@ -71,14 +79,10 @@ import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
 import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
 import { maltaPoi as maltaAllPoi } from "./maltaPoi";
 import { poiExtraMaltaCities } from "./poiExtraMaltaCities";
-import { maltaExtraHistory } from "./poiExtraMaltaHistory";
 import { poiExtraMaltaOther } from "./poiExtraMaltaOther";
 import { mexicoAllPoi } from "./mexicoPoi";
 import { moldovaAllPoi } from "./moldovaPoi";
-import { poiExtraMoldovaCities } from "./poiExtraMoldovaCities";
-import { poiExtraMoldovaHistory } from "./poiExtraMoldovaHistory";
 import { monacoAllPoi } from "./monacoPoi";
-import { poiExtraMonacoCities } from "./poiExtraMonacoCities";
 import { poiExtraMonacoOther } from "./poiExtraMonacoOther";
 import { montenegroAllPoi } from "./montenegroPoi";
 import { montenegroCitiesExtra } from "./poiExtraMontenegroCities";
@@ -97,6 +101,9 @@ import { sanmarinoAllPoi } from "./sanmarinoPoi";
 import { poiExtraSanmarinoCities } from "./poiExtraSanmarinoCities";
 import { sanmarinoExtraHistory as poiExtraSanmarinoHistory } from "./poiExtraSanmarinoHistory";
 import { poiExtraSanmarinoOther } from "./poiExtraSanmarinoOther";
+import { poiExtraCongoNatureV2 } from "./poiExtraCongoNatureV2";
+import { poiExtraCongoHistoryV2 } from "./poiExtraCongoHistoryV2";
+import { poiExtraDemocraticrepublicofcongoNatureV2 } from "./poiExtraDemocraticrepublicofcongoNatureV2";
 
 import { serbiaAllPoi } from "./serbiaPoi";
 import { slovakiaAllPoi } from "./slovakiaPoi";
@@ -114,7 +121,6 @@ import { trinidadAllPoi } from "./trinidadPoi";
 import { unitedkingdomAllPoi } from "./unitedkingdomPoi";
 import { usaAllPoi } from "./usaPoi";
 import { vaticanAll } from "./vaticanPoi";
-import { poiExtraVaticanOther } from "./poiExtraVaticanOther";
 import { poiExtraHu1 } from "./poiExtraHu1";
 import { poiExtraHu2 } from "./poiExtraHu2";
 import { poiExtraHu3 } from "./poiExtraHu3";
@@ -125,10 +131,8 @@ export const ALL_COUNTRY_POIS = ([
   ...albaniaAllPoi,
   ...andorraAllPoi,
   ...poiExtraAndorraCities,
-  ...poiExtraAndorraHistory,
   ...poiExtraAndorraOther,
   ...austriaAllPoi,
-  ...poiExtraAustriaCities,
   ...poiExtraAustriaHistorical,
   ...poiExtraAustriaIndustry,
   ...poiExtraAustriaLife,
@@ -140,14 +144,26 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraBelizeLifeV2,
   ...bosniaAllPoi,
   ...bulgariaAllPoi,
+  ...poiExtraBurundiHistoryV2,
+  ...poiExtraBurundiLandmarksV2,
+  ...poiExtraBurundiNatureV2,
   ...canadaAllPoi,
+  ...poiExtraCentralafricanrepublicCitiesV2,
+  ...poiExtraCentralafricanrepublicNatureV2,
+  ...poiExtraChadNatureV2,
+  ...poiExtraChadReliefV2,
+  ...poiExtraCapeverdeCitiesV2,
+  ...poiExtraCapeverdeEconomicV2,
+  ...poiExtraCapeverdeHistoryV2,
+  ...poiExtraCapeverdeLandmarksV2,
+  ...poiExtraCapeverdeLifeV2,
+  ...poiExtraCapeverdeNatureV2,
+  ...poiExtraCapeverdeReliefV2,
   ...costaricaAllPoi,
   ...croatiaAllPoi,
   ...cubaAllPoi,
   ...poiExtraCubaReliefV2,
   ...cyprusAllPoi,
-  ...poiExtraCyprusCities,
-  ...cyprusHistoryPoi,
   ...cyprusOtherPoi,
   ...czechRepublicAllPoi,
   ...poiExtraCzechRepublicCities,
@@ -169,11 +185,8 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraHu3,
   ...icelandPois,
   ...poiExtraIcelandCities,
-  ...poiExtraIcelandHistory,
-  ...icelandOtherPois,
   ...irelandAllPoi,
   ...poiExtraIrelandCities,
-  ...poiExtraIrelandHistory,
   ...poiExtraIrelandOther,
   ...italyAllPoi,
   ...poiExtraItalyCitiesC1,
@@ -192,14 +205,10 @@ export const ALL_COUNTRY_POIS = ([
   ...luxembourgExtraOther,
   ...maltaAllPoi,
   ...poiExtraMaltaCities,
-  ...maltaExtraHistory,
   ...poiExtraMaltaOther,
   ...mexicoAllPoi,
   ...moldovaAllPoi,
-  ...poiExtraMoldovaCities,
-  ...poiExtraMoldovaHistory,
   ...monacoAllPoi,
-  ...poiExtraMonacoCities,
   ...poiExtraMonacoOther,
   ...montenegroAllPoi,
   ...montenegroCitiesExtra,
@@ -220,6 +229,10 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraSanmarinoCities,
   ...poiExtraSanmarinoHistory,
   ...poiExtraSanmarinoOther,
+  ...poiExtraCongoCitiesV2,
+  ...poiExtraCongoNatureV2,
+  ...poiExtraCongoHistoryV2,
+  ...poiExtraDemocraticrepublicofcongoNatureV2,
   ...serbiaAllPoi,
   ...slovakiaAllPoi,
   ...poiExtraSlovakiaCities,
@@ -236,7 +249,6 @@ export const ALL_COUNTRY_POIS = ([
   ...unitedkingdomAllPoi,
   ...usaAllPoi,
   ...vaticanAll,
-  ...poiExtraVaticanOther,
 ] as POI[]);
 
 // DE POI extensions (batches 1-4b). Separate from main DE pois but need to be in sitemap.

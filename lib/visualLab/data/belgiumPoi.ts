@@ -429,7 +429,7 @@ export const belgiumCities: POI[] = [
       de: "",
       hu: "Liège, Vallónia kulturális és történelmi központja, a Meuse folyó partján fekvő dinamikus város, amely gazdag ipari múltját modern művészettel ötvözi. A város sziluettjét a monumentális Saint-Paul katedrális és a felette magasodó citadella határozza meg, ahonnan lenyűgöző kilátás nyílik a völgyre. A látogatók számára a híres Montagne de Bueren lépcsősor jelent kihívást, amely 374 fokával köti össze a belvárost a várnegyeddel. Liège híres vendégszeretetéről és vibráló éjszakai életéről, különösen a Carré negyed szűk utcáiban, ahol számtalan bár és étterem található. Kulináris élvezetként nem szabad kihagyni a híres liège-i gofrit, amely karamellizált cukordarabkáival vált világszerte ismertté. A város modern arcát a futurisztikus Liège-Guillemins pályaudvar képviseli, amelyet a neves építész, Santiago Calatrava tervezett.",
       ro: "Liège, centrul cultural și istoric al Valoniei, este un oraș dinamic situat pe malurile fluviului Meuse, care îmbină trecutul său industrial bogat cu arta modernă. Silueta orașului este marcată de catedrala monumentală Saint-Paul și de citadela care domină valea, oferind panorame impresionante asupra întregii regiuni. O provocare celebră pentru vizitatori este scara Montagne de Bueren, care cu cele 374 de trepte ale sale face legătura între centrul orașului și cartierul cetății. Liège este renumit pentru ospitalitatea sa și viața de noapte vibrantă, în special în cartierul Le Carré, unde se află numeroase baruri și restaurante. Din punct de vedere culinar, nu trebuie ratate faimoasele vafe de Liège, care au devenit cunoscute în întreaga lume datorită zahărului perlat caramelizat. Chipul modern al orașului este reprezentat de gara futuristă Liège-Guillemins, proiectată de renumitul arhitect Santiago Calatrava.",
-      en: ""
+      en: "Li\u00e8ge, often referred to as the 'Fiery City', is a historic metropolis situated along the Meuse River in the Walloon region. Known for its rich industrial past, it has transformed into a vibrant cultural hub with a prominent student population. The cityscape is defined by a mix of medieval architecture, such as the Prince-Bishops' Palace, and modern developments like the striking Li\u00e8ge-Guillemins railway station designed by Santiago Calatrava. Historically, it was an independent principality for over eight centuries, which deeply influenced its unique cultural identity. Today, visitors are drawn to its lively street markets, renowned local waffles, and impressive museums. It remains one of the most significant economic and cultural centers in Francophone Belgium."
     },
     facts: {
       de: ["Liegt an der Maas.", "Bekannt für Lütticher Waffeln.", "Hat eine reiche Industriegeschichte.", "Der Bahnhof Guillemins ist architektonisch bedeutend."],
@@ -453,7 +453,7 @@ export const belgiumCities: POI[] = [
         "Liège a fost timp de secole sediul unui principat-episcopat independent, având o autonomie rară în cadrul Sfântului Imperiu Roman.",
         "Vafa de Liège se distinge prin bucățile de zahăr perlat din interiorul aluatului, care se caramelizează în timpul coacerii."
       ],
-      en: []
+      en: ["The stunning Li\u00e8ge-Guillemins railway station, completed in 2009, features a massive vaulted canopy made of glass and steel.", "La Batte is the oldest and largest weekly street market in Belgium, running along the Meuse River every Sunday.", "The city was the capital of the Prince-Bishopric of Li\u00e8ge, an independent state within the Holy Roman Empire from 980 to 1795.", "The Montagne de Bueren is a famous 374-step staircase offering panoramic views of the entire city.", "Li\u00e8ge is famous for its distinct waffle, the 'Gaufre de Li\u00e8ge', which is rich, dense, and studded with pearl sugar."]
     },
     image: "/geo-images/belgium/city-liege.webp"
   },
@@ -473,7 +473,7 @@ export const belgiumCities: POI[] = [
       de: "",
       hu: "Leuven a tudás és a sör városa, ahol az 1425-ben alapított egyetem patinás épületei határozzák meg az utcák hangulatát. A városközpont ékköve a gótikus Városháza, amelynek homlokzatát több mint 200 szobor díszíti, mesélve a város gazdag történelméről. Az egyetemi könyvtár lenyűgöző épülete nemcsak a tudomány szimbóluma, hanem a világháborús pusztítás és az újjáépítés mementója is. Leuven híres sörkultúrájáról is, hiszen itt található a világ legnagyobb sörfőzdéjének székhelye, a Stella Artois otthona. Az Oude Markt tér a 'világ leghosszabb bárpultjaként' ismert, mivel itt sorakozik a legtöbb kávézó és söröző egy helyen. A város csendesebb zugaiban megbújó Nagy Beginaudvar az UNESCO Világörökség része, és ma is az egyetemi közösség lakhelyeként szolgál.",
       ro: "Leuven este orașul cunoașterii și al berii, unde clădirile istorice ale universității fondate în 1425 definesc atmosfera academică a străzilor. Bijuteria centrului orașului este Primăria gotică, a cărei fațadă este decorată cu peste 200 de statui care povestesc istoria bogată a regiunii. Clădirea impresionantă a bibliotecii universitare nu este doar un simbol al științei, ci și un monument al distrugerii și reconstrucției din timpul războaielor mondiale. Leuven este, de asemenea, faimos pentru cultura sa a berii, fiind sediul central al celui mai mare producător de bere din lume, Stella Artois. Piața Oude Markt este cunoscută sub numele de 'cel mai lung bar din lume' datorită numărului mare de cafenele și pub-uri grupate într-un singur loc. În colțurile mai liniștite ale orașului se află Marele Beguinaj, inclus în patrimoniul UNESCO, care servește și astăzi ca reședință pentru comunitatea universitară.",
-      en: ""
+      en: "Leuven is a dynamic university city in the Flemish Brabant province, blending centuries of academic tradition with a youthful atmosphere. It is home to the Katholieke Universiteit Leuven (KU Leuven), founded in 1425, which is the oldest and one of the most prestigious universities in the Low Countries. The city's architectural crown jewel is the 15th-century Town Hall, adorned with hundreds of statues detailing local history and biblical figures. Beyond its scholarly roots, Leuven has a deep brewing heritage and serves as the global headquarters for AB InBev, the world's largest brewing company. The bustling Oude Markt square is famously dubbed 'the longest bar in the world' due to its continuous row of pubs and cafes. The city seamlessly merges its medieval charm with cutting-edge research and innovation."
     },
     facts: {
       de: ["Die KU Leuven wurde 1425 gegründet.", "Bekannt als Bierhauptstadt Belgiens.", "Heimat der Stella Artois Brauerei.", "Das Rathaus ist ein gotisches Meisterwerk."],
@@ -497,7 +497,7 @@ export const belgiumCities: POI[] = [
         "Leuven este locul de origine al berii Stella Artois, tradiția berăritului în acest oraș datând încă din anul 1366.",
         "Marele Beguinaj (Groot Begijnhof) este un cartier istoric extrem de bine păstrat, oferind o oază de liniște în centrul orașului."
       ],
-      en: []
+      en: ["KU Leuven, established in 1425, is the oldest Catholic university in the world still in operation.", "The ornate Gothic Town Hall features exactly 236 statues added to its facade during the 19th century.", "The Oude Markt is renowned for hosting more than 40 bars and cafes in a single picturesque square.", "Leuven's Stella Artois brewery traces its brewing roots back to the Den Hoorn brewery founded in 1366.", "The city's historical center is predominantly car-free, promoting an extensive and vibrant cycling culture."]
     },
     image: "/geo-images/belgium/city-leuven.webp"
   },
@@ -517,7 +517,7 @@ export const belgiumCities: POI[] = [
       de: "",
       hu: "Oostende a belga tengerpart 'városok királynője', amely egykor a királyi család kedvelt nyári rezidenciája volt, ma pedig vibráló kikötőváros. A végtelen homokos strandok és a hosszú tengerparti sétány ideális helyszínt biztosítanak a pihenésre és a frissítő sétákra az északi szélben. A város büszkesége a Mercator háromárbocos vitorláshajó, amely ma múzeumként horgonyoz a kikötőben, bemutatva a belga tengerhajózás történetét. A művészet kedvelői számára James Ensor, a híres festőművész szülőháza kínál betekintést a szürrealizmus előfutárának különös világába. Oostende kikötője nemcsak fontos kereskedelmi kapu, hanem a halászati hagyományok őrzője is, ahol a látogatók közvetlenül a hajókról vásárolhatnak friss tengeri finomságokat. A modern kulturális élet központja a Kursaal kaszinó és koncertterem, amely a tengerpart sziluettjének egyik meghatározó eleme.",
       ro: "Oostende, supranumit 'Regina stațiunilor balneare' de pe litoralul belgian, este un oraș portuar vibrant care îmbină farmecul istoric cu relaxarea modernă la malul mării. Orașul a fost o destinație preferată a monarhiei belgiene, în special a regelui Leopold al II-lea, care a lăsat în urmă numeroase clădiri monumentale și promenade elegante. Plajele sale largi de nisip fin și digul impunător sunt locuri ideale pentru plimbări revigorante și activități în aer liber pe tot parcursul anului. Un simbol al orașului este nava-muzeu Mercator, o fostă navă-școală a marinei belgiene, care oferă o privire fascinantă asupra istoriei maritime a țării. De asemenea, Oostende este un centru cultural important, fiind locul de naștere al celebrului pictor James Ensor, a cărui casă memorială poate fi vizitată și astăzi. Gastronomia locală este dominată de fructe de mare proaspete, faimoasele crochete de creveți fiind o delicatesă obligatorie pentru orice vizitator.",
-      en: ""
+      en: "Ostend, proudly known as the 'Queen of the Belgian sea-side resorts', is the largest coastal city in Flanders. Originally a small fishing village, it gained prominence in the 19th century when King Leopold I and King Leopold II chose it as their summer residence, transforming it into a glamorous resort destination. The city boasts a long, sandy beach lined with a wide promenade, perfect for walking and cycling. Culturally, it is closely associated with the renowned expressionist painter James Ensor, whose former home is now a museum. The bustling harbor and daily fish markets reflect its enduring maritime heritage. Today, Ostend combines its royal seaside history with modern art installations and lively cultural festivals."
     },
     facts: {
       de: ["Liegt an der Nordsee.", "Bekannt für seine langen Sandstrände.", "Verfügt über einen wichtigen Seehafen.", "War einst ein Sommerresidenz der belgischen Könige."],
@@ -541,7 +541,7 @@ export const belgiumCities: POI[] = [
         "Orașul găzduiește anual festivalul de sculptură în nisip, unul dintre cele mai mari și mai impresionante evenimente de acest gen din lume.",
         "Oostende este punctul de plecare pentru Kusttram, cel mai lung tramvai de coastă din lume, care parcurge întregul litoral belgian."
       ],
-      en: []
+      en: ["The Royal Galleries of Ostend were built between 1902 and 1906 to protect the bourgeoisie from rain while strolling along the coast.", "Renowned Belgian painter James Ensor lived in Ostend for most of his life, heavily drawing inspiration from its vibrant carnival culture.", "Ostend was the site of the historic 1601\u20131604 Siege of Ostend, one of the longest and bloodiest sieges in history.", "The Mercator, a well-preserved three-masted training ship built in 1932, is now moored in the marina as a floating museum.", "The city hosts the triennial Beaufort art festival, which places monumental contemporary sculptures along the coastline."]
     },
     image: "/geo-images/belgium/city-oostende.webp"
   }
@@ -564,7 +564,7 @@ export const belgiumCultureExtra: POI[] = [
       de: "",
       hu: "A Manneken Pis, a kis pisilő fiú szobra Brüsszel egyik legkedveltebb és legismertebb szimbóluma, amely a város humorát és lázadó szellemét jelképezi. Az eredeti bronzszobrot 1619-ben készítette Jérôme Duquesnoy, és bár mérete csupán 61 centiméter, jelentősége messze túlszárnyalja fizikai adottságait. Számtalan legenda fűződik hozzá, az egyik szerint egy kisfiú így oltotta el a városfalat fenyegető gyújtózsinórt, megmentve ezzel Brüsszelt a pusztulástól. A szobrot különleges alkalmakkor különböző jelmezekbe öltöztetik, ami mára egy bonyolult protokoll szerint zajló, látványos ceremóniává vált. A több mint 1000 darabból álló ruhatárát a közeli városi múzeumban őrzik, ahol a látogatók megcsodálhatják a világ minden tájáról érkezett adományokat. A kis szobor ma is az egyik legnépszerűbb találkozási pont a város ódon utcáinak találkozásánál.",
       ro: "Manneken Pis, mica statuie de bronz ce reprezintă un băiețel care urinează, este cel mai îndrăgit și cunoscut simbol al Bruxelles-ului, reflectând umorul și spiritul rebel al orașului. Statuia originală a fost realizată în 1619 de Jérôme Duquesnoy și, deși are o înălțime de doar 61 de centimetri, importanța sa depășește cu mult dimensiunile fizice. Numeroase legende sunt legate de ea, una dintre cele mai populare povestind cum un băiețel a salvat orașul stingând fitilul unei bombe în acest mod inedit. Cu ocazia unor evenimente speciale, statuia este îmbrăcată în diverse costume, o tradiție care a devenit o ceremonie spectaculoasă guvernată de un protocol complex. Garderoba sa de peste 1.000 de piese este păstrată în muzeul orașului din apropiere, unde vizitatorii pot admira donațiile primite din întreaga lume. Micuța statuie rămâne unul dintre cele mai populare puncte de întâlnire la intersecția străzilor vechi ale capitalei.",
-      en: ""
+      en: "Manneken Pis is a small but iconic bronze sculpture located in the historic center of Brussels, depicting a naked little boy urinating into a fountain's basin. Designed by Hi\u00ebronymus Duquesnoy the Elder and installed in 1619, it has survived centuries of turbulent history, including multiple thefts and the bombardment of Brussels. The statue embodies the rebellious and self-deprecating humor typical of the city's inhabitants, locally known as 'zwanze'. It is a deeply cherished symbol of Brussels and is frequently dressed in various costumes to celebrate national holidays, international events, and visiting dignitaries. The extensive wardrobe, comprising over a thousand outfits, is carefully preserved and displayed in a dedicated nearby museum. Despite its modest size of just 61 centimeters, it remains one of Belgium's most photographed landmarks."
     },
     facts: {
       de: ["Ein berühmtes Wahrzeichen von Brüssel.", "Wird oft in verschiedene Kostüme gekleidet.", "Symbolisiert den Brüsseler Humor.", "Hat eine große Garderobe im Museum."],
@@ -588,7 +588,7 @@ export const belgiumCultureExtra: POI[] = [
         "Statuia a fost furată de mai multe ori de-a lungul istoriei, piesa care poate fi văzută astăzi fiind o replică din 1965.",
         "În zilele de sărbătoare specială, statuia nu urinează apă, ci bere sau lapte, spre marea bucurie a vizitatorilor."
       ],
-      en: []
+      en: ["The current statue on display is actually a replica placed in 1965, while the 17th-century original is kept in the Brussels City Museum.", "Manneken Pis is dressed in custom-made costumes several times a week, following a strict schedule managed by a dedicated non-profit organization.", "The statue has a wardrobe of over 1,000 unique outfits, ranging from a samurai suit to a traditional Scottish kilt.", "Legend claims the boy represents a young duke who urinated on enemy troops, boosting the morale of his soldiers during a battle.", "The city has two other similar statues: Jeanneke Pis (a girl) and Zinneke Pis (a dog), completing a quirky fountain family."]
     },
     image: "/geo-images/belgium/cult-manneken-pis.webp"
   },
@@ -608,7 +608,7 @@ export const belgiumCultureExtra: POI[] = [
       de: "",
       hu: "A Brugge főterén magasodó Belfry harangtorony a város középkori erejének és függetlenségének legfontosabb szimbóluma, amely már messziről uralja a városképet. A 13. században épült torony eredetileg a kincstárnak és a városi levéltárnak adott otthont, és tűztoronyként is szolgált a sűrűn lakott város védelmében. A 83 méter magas építménybe 366 lépcsőfok vezet fel, ahonnan tiszta időben az egész vidék, sőt még a tengerpart is látható. A torony híres harangjátékáról, amely 47 bronzharangból áll, és évszázadok óta meghatározza Brugge ódon utcáinak zenei aláfestését. A torony enyhe dőlése is megfigyelhető, ami a középkori alapozás sajátosságaiból fakad, de ez csak még különlegesebbé teszi a látványvonzerejét. Az UNESCO Világörökség részét képező torony meglátogatása minden Brugge-be érkező utazó számára kötelező program.",
       ro: "Turnul Belfort din Bruges, situat în piața centrală Grote Markt, este un monument medieval impunător și unul dintre cele mai recunoscute simboluri ale Belgiei. Cu o înălțime de 83 de metri, acest turn-clopotniță a reprezentat timp de secole mândria și independența orașului Bruges, servind atât ca turn de veghe, cât și ca arhivă pentru documentele importante. Vizitatorii curajoși pot urca cele 366 de trepte înguste până în vârf pentru a fi răsplătiți cu o panoramă spectaculoasă asupra întregului oraș și a împrejurimilor sale. Turnul adăpostește un carillon impresionant cu 47 de clopote care încântă localnicii și turiștii cu melodii armonioase la intervale regulate. Inclus în patrimoniul mondial UNESCO, Belfortul impresionează prin arhitectura sa gotică și prin istoria sa marcată de incendii și reconstrucții. O curiozitate vizibilă este înclinația ușoară a turnului către est, datorată fundației sale vechi, ceea ce îi adaugă un farmec suplimentar în fotografiile de vacanță.",
-      en: ""
+      en: "The Belfry of Bruges is a magnificent medieval bell tower towering over the historic Market Square of Bruges. Constructed in the 13th century, it historically served as an observation post to spot fires and other dangers, while its secure lower levels housed the city's treasury and municipal archives. The tower has survived several devastating fires throughout its history, with its iconic octagonal upper section added in the late 15th century. Visitors can climb the 366 narrow, winding steps to reach the top, offering breathtaking panoramic views of the meticulously preserved medieval city. The belfry's impressive carillon, consisting of 47 bells, regularly fills the streets with enchanting melodies. It stands as a powerful symbol of the city's former wealth and civic pride during the Middle Ages."
     },
     facts: {
       de: ["Steht auf dem Marktplatz von Brügge.", "Beherbergt ein Carillon mit 47 Glocken.", "Man muss 366 Stufen erklimmen.", "Wichtige Rolle im Film 'Brügge sehen... und sterben?'."],
@@ -632,7 +632,7 @@ export const belgiumCultureExtra: POI[] = [
         "Turnul are o înălțime de 83 de metri și prezintă o înclinare de aproximativ un metru spre sud-est.",
         "Turnul Belfort a jucat un rol central în filmul cult 'În Bruges' (In Bruges), devenind și mai celebru la nivel internațional."
       ],
-      en: []
+      en: ["Standing at 83 meters tall, the tower prominently leans slightly to the east, a subtle deviation measuring about a meter.", "The massive carillon features 47 bells weighing a combined total of 27.5 tons, played regularly by a city carillonneur.", "In 1280, a severe fire destroyed the original wooden spire and the city archives, leading to a permanent stone reconstruction.", "The Belfry was famously featured as a central location in the 2008 dark comedy film 'In Bruges'.", "It is recognized as a UNESCO World Heritage site, listed among the Belfries of Belgium and France."]
     },
     image: "/geo-images/belgium/cult-bruges-belfry.webp"
   },
@@ -658,7 +658,7 @@ export const belgiumCultureExtra: POI[] = [
       de: "",
       hu: "A waterlooi Oroszlán-domb egy monumentális emlékhely, amelyet az 1815-ös sorsdöntő csata helyszínén emeltek, ahol Napóleon végső vereséget szenvedett. A 40 méter magas mesterséges dombot 1826-ban fejezték be, és tetején egy hatalmas öntöttvas oroszlán őrzi a békét, mancsát egy földgömbön nyugtatva. A domb megmászása után a látogatók elé tárul a csatatér panorámája, amely segít megérteni a hadműveletek menetét és a táj jelentőségét. Az emlékhely lábánál található a látogatóközpont, ahol egy lenyűgöző panorámafestmény és multimédiás bemutatók hozzák közelebb a történelmet. A domb földanyagát a csatatér különböző pontjairól hordták össze, így maga az építmény is a küzdelem mementója. Waterloo ma is a világ egyik legfontosabb történelmi zarándokhelye, amely a napóleoni háborúk végét szimbolizálja.",
       ro: "Colina Leului (Butte du Lion) din Waterloo este un monument impresionant ridicat pe locul unde, în 1815, armatele aliate au pus capăt dominației lui Napoleon Bonaparte într-una dintre cele mai faimoase bătălii din istorie. Acest deal artificial masiv, înalt de 40 de metri, a fost construit între 1823 și 1826 la ordinul regelui Willem I al Țărilor de Jos, marcând locul unde fiul său, Prințul de Orania, a fost rănit. În vârful colinei tronează un leu monumental de fontă, simbol al victoriei și al păcii, care privește simbolic către Franța. Pentru a ajunge la baza leului, vizitatorii trebuie să urce 226 de trepte, efortul fiind răsplătit cu o vedere panoramică asupra câmpului de luptă, neschimbat în mare parte față de secolul al XIX-lea. La baza dealului se află centrul de vizitatori și Panorama, o pictură circulară gigantică ce ilustrează momentele cheie ale luptei. Waterloo rămâne un punct esențial pe harta turismului istoric european, atrăgând anual mii de vizitatori dornici să înțeleagă prăbușirea imperiului napoleonian.",
-      en: ""
+      en: "Waterloo is a municipality located just south of Brussels, globally famous as the site of the definitive Battle of Waterloo in 1815. It was on these fields that Napoleon Bonaparte's French army was finally defeated by a coalition of British, Dutch, and Prussian forces led by the Duke of Wellington and Field Marshal von Bl\u00fccher. The battle's outcome reshaped the political map of Europe and brought an end to the Napoleonic Wars. Today, the landscape is preserved as a solemn historical site, dominated by the Lion's Mound, a large artificial hill topped with a cast-iron lion monument. Surrounding the mound are immersive museums, restored farmhouses like Hougoumont, and expansive panoramas that vividly recount the brutal clashes. Waterloo remains a crucial pilgrimage site for historians and military enthusiasts worldwide."
     },
     factsAdvanced: {
       de: [],
@@ -676,7 +676,7 @@ export const belgiumCultureExtra: POI[] = [
         "Se spune că leul a fost turnat din fierul tunurilor abandonate de armata franceză pe câmpul de luptă.",
         "La baza colinei se află o pictură panoramică de 110 metri lungime, realizată în 1912, care redă atmosfera bătăliei la scară reală."
       ],
-      en: []
+      en: ["The iconic Lion's Mound was constructed by King William I of the Netherlands on the spot where his son, the Prince of Orange, was wounded.", "It took 300,000 cubic meters of earth to build the 40-meter-high Lion's Mound, forever altering the original battlefield landscape.", "The Battle of Waterloo involved over 190,000 soldiers and resulted in approximately 50,000 casualties in a single day.", "Wellington's headquarters in the town center is now the Wellington Museum, preserving his original camp bed and maps.", "The massive Panorama of the Battle of Waterloo is a 110-meter-long, 360-degree painting completed in 1912 to mark the battle's centenary."]
     },
     image: "/geo-images/belgium/cult-waterloo.webp"
   }
@@ -707,7 +707,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Hohes Venn Belgium északkeleti részén elterülő hatalmas, érintetlen lápvidék, amely az ország legősibb és legnagyobb természetvédelmi területének szíve. A vidék különleges mikroklímája miatt a növényvilág rendkívül gazdag és ritka fajoknak, például a tőzegmohának és különböző húsevő növényeknek ad otthont. A tájat végtelen hangaföldek, mocsarak és sűrű fenyvesek váltakozása teszi misztikussá, amit gyakran köd borít be a reggeli órákban. A látogatók kényelmét és a mocsár védelmét hosszú fapallós útvonalak biztosítják, amelyek lehetővé teszik a biztonságos túrázást az érzékeny területen. Télen a Hohes Venn az ország egyik legbiztosabb hóforrása, ahol a sífutás szerelmesei találnak ideális terepet a sportoláshoz. A csend és a végtelen horizonszint élménye miatt ez a terület a természetfotósok és a magányos túrázók egyik legkedveltebb úticélja.",
       ro: "Hautes Fagnes (sau Hohes Venn) este cea mai veche și mai întinsă rezervație naturală din Belgia, reprezentând un platou vast de mlaștini înalte situat în estul țării. Peisajul său unic este dominat de mușchi de turbă, iarbă neagră și mesteceni solitari, oferind o atmosferă mistică și izolată, adesea învăluită în ceață. Pentru a proteja ecosistemul fragil și a permite vizitarea în siguranță, au fost amenajate poteci lungi din bârne de lemn care traversează mlaștinile și zonele umede. Această regiune este cunoscută pentru microclimatul său special, fiind adesea prima zonă din Belgia unde ninge iarna, devenind un paradis pentru schiul de fond. Flora include specii rare adaptate mediului acid și umed, precum plantele carnivore și bumbăcarița. Este destinația ideală pentru drumeții care caută liniște absolută și un contact direct cu natura neîmblânzită, oferind orizonturi largi și peisaje spectaculoase în orice anotimp.",
-      en: ""
+      en: "The High Fens, or Hohes Venn, is a unique and expansive upland area forming the largest nature reserve in Belgium. Situated in the eastern part of the country near the German border, this high plateau is characterized by its distinct raised bogs, heathlands, and ancient forests. The harsh, cold climate and high precipitation have created a landscape more akin to northern Europe or subarctic regions, fostering specialized flora and fauna. Historically, the area was notoriously treacherous due to deep peat bogs and sudden fogs, heavily shrouded in local folklore. Today, extensive wooden boardwalks allow visitors to safely explore the fragile ecosystems without damaging the peat. It is a vital conservation area that offers a dramatic contrast to the rolling hills of the surrounding Ardennes."
     },
 
     factsAdvanced: {
@@ -726,7 +726,7 @@ export const belgiumNatureExtra: POI[] = [
         "Accesul în zonele cele mai sensibile ale rezervației este permis doar pe potecile de lemn amenajate pentru a nu distruge vegetația.",
         "Iarna, Hautes Fagnes se transformă într-unul dintre principalele centre de schi fond din regiune datorită stratului consistent de zăpadă."
       ],
-      en: []
+      en: ["The High Fens form the highest region in Belgium, encompassing the country's peak, the Signal de Botrange at 694 meters.", "The peat layers in the bogs can reach depths of up to seven meters, having accumulated over the past 10,000 years.", "It is home to rare species such as the black grouse, wildcat, and the carnivorous sundew plant.", "Extensive wooden boardwalks have been constructed across the reserve to protect the delicate bog vegetation from human impact.", "The region experiences the harshest climate in Belgium, with an average temperature of just 6 degrees Celsius and frequent winter snowfall."]
     }
   },
   {
@@ -745,7 +745,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Dinant városa fölé magasodó citadella a Meuse-völgy egyik legimpozánsabb katonai építménye, amely évszázadokon át stratégiai kulcsszerepet játszott a vidék védelmében. A meredek sziklafal tetejére épült erődítményből lenyűgöző panoráma nyílik a folyóra és a város ikonikus hagymakupolás templomára. A látogatók egy meredek felvonóval vagy a 408 lépcsőfok megmászásával juthatnak fel az erődbe, ahol ma hadtörténeti múzeum működik. Az épület falai között sétálva megelevenedik a történelem, a középkori ostromoktól kezdve egészen az első világháború véres összecsapásaiig. A citadella belsejében egy különleges, döntött folyosó is található, amely az 1914-es bombázások hatására süllyedt meg, egyedülálló térélményt nyújtva. Dinant citadellája nemcsak történelmi emlékhely, hanem a vallon táj elválaszthatatlan és látványos része.",
       ro: "Citadela din Dinant, cocoțată pe o stâncă verticală care domină valea fluviului Meuse, este una dintre cele mai spectaculoase fortificații din Belgia. Această fortăreață impunătoare a fost martora multor secole de conflicte militare, fiind reconstruită în forma sa actuală de către olandezi în secolul al XIX-lea. Vizitatorii pot ajunge la citadelă fie urcând cele 408 trepte tăiate direct în piatră în secolul al XVI-lea, fie folosind telecabina modernă, ambele variante oferind o perspectivă uluitoare asupra orașului Dinant și a bisericii sale cu cupolă în formă de bulb. În interiorul cetății, muzeul de istorie militară prezintă viața soldaților de-a lungul timpului, cu un accent deosebit pe bătăliile crâncene din Primul Război Mondial. O atracție unică este 'culoarul înclinat', o cazemată care s-a scufundat în urma bombardamentelor, creând o iluzie optică fascinantă pentru cei care o traversează. Citadela reprezintă inima istorică a Valoniei, îmbinând arhitectura defensivă masivă cu unul dintre cele mai frumoase peisaje fluviale din Europa.",
-      en: ""
+      en: "The Citadel of Dinant is a striking fortress perched dramatically on a sheer rock face, towering 100 meters above the Meuse River and the town below. First constructed in the 11th century to control the strategically important river valley, it was repeatedly destroyed and rebuilt throughout European conflicts. The current imposing structure was primarily built by the Dutch in 1815. Visitors can reach the citadel either by climbing a grueling 408-step staircase carved into the cliff or by taking a modern cable car. Inside, the fortress houses extensive historical exhibits, including evocative dioramas of trench warfare from World War I. The ramparts provide one of the most breathtaking panoramic views of the Meuse valley and the distinctive onion-domed Collegiate Church of Notre Dame."
     },
     facts: {
       de: ["Hoch über der Stadt Dinant gelegen.", "Bietet einen atemberaubenden Blick auf die Maas.", "Mit einer Seilbahn erreichbar.", "Reiche militärische Geschichte."],
@@ -769,7 +769,7 @@ export const belgiumNatureExtra: POI[] = [
         "În august 1914, citadela a fost scena unor lupte violente între trupele franceze și cele germane, lăsând urme vizibile și astăzi.",
         "Interiorul cetății adăpostește o cazemată înclinată la un unghi de 45 de grade, unde vizitatorii pot experimenta o senzație ciudată de dezechilibru."
       ],
-      en: []
+      en: ["The steep staircase leading up to the Citadel was originally carved out of the solid rock face in the year 1577.", "During World War I in August 1914, the Citadel was the site of a fierce battle where a young Charles de Gaulle was wounded.", "The current fortified structure was heavily redesigned by Dutch engineers between 1818 and 1821.", "The fortress includes a unique 'slanted room' that simulates the disorientation caused by an underground explosion during wartime.", "A scenic cable car installed in 1956 provides a more accessible alternative to the punishing 408-step climb."]
     },
     image: "/geo-images/belgium/nat-dinant-citadel.webp"
   },
@@ -789,7 +789,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A genti Gravensteen, azaz a 'Grófok vára' Európa egyik leglátványosabb és legjobban megőrzött középkori vizi vára, amely a város szívében magasodik. A 12. században építtette I. Fülöp flamand gróf a keresztes hadjáratok során látott szíriai erődök mintájára, hogy kifejezze hatalmát a genti polgárokkal szemben. A vaskos kőfalak, a bástyák és a vizesárok ma is azt az erőt sugározzák, amely egykor a flamand grófok tekintélyét biztosította. A vár története során szolgált börtönként, bíróságként és még textilgyárként is, mielőtt a 19. század végén restaurálták volna. A belső udvarokban és a lovagtermekben ma fegyvergyűjtemény és egy hátborzongató kínzóeszköz-múzeum látható, amely a középkori igazságszolgáltatás sötét oldalát mutatja be. A vár fokairól nyíló kilátás Gent háztetőire és templomtornyaira pedig felejthetetlen élményt nyújt a látogatóknak.",
       ro: "Castelul Gravensteen din Gent, cunoscut și sub numele de 'Castelul Conților', este una dintre cele mai impresionante fortărețe medievale cu șanțuri de apă din Europa, situată chiar în inima orașului. Construit în 1180 de contele Filip de Alsacia, castelul a fost inspirat de cetățile cruciaților pe care acesta le-a văzut în Țara Sfântă, servind ca simbol al puterii și al autorității. Structura sa masivă de piatră, cu turnuri de apărare și ziduri crenelate, s-a păstrat remarcabil de bine, oferind vizitatorilor o incursiune autentică în atmosfera Evului Mediu. De-a lungul secolelor, Gravensteen a avut diverse utilizări, de la reședință nobiliară și tribunal, până la închisoare și chiar fabrică de bumbac în secolul al XIX-lea. Astăzi, interiorul găzduiește o colecție fascinantă de arme vechi și un muzeu al instrumentelor de tortură, care reflectă asprimea justiției medievale. Urcarea pe donjon oferă o panoramă superbă asupra acoperișurilor și turnurilor celebre din Gent, făcând din acest castel o destinație obligatorie pentru orice călător în Flandra.",
-      en: ""
+      en: "The Gravensteen, or 'Castle of the Counts', is a formidable medieval castle located right in the heart of Ghent. Built in 1180 by Count Philip of Alsace, its design was inspired by the massive crusader castles he encountered during his expeditions to the Holy Land. The fortress served as the seat of the Counts of Flanders until the 14th century, symbolizing their power and keeping the rebellious local populace in check. Over the centuries, it functioned variously as a courthouse, a prison, and even a cotton mill during the industrial revolution. Restored to its romanticized medieval glory in the late 19th century, the castle now features a moat, thick stone walls, and a fascinating, albeit grim, collection of historical torture devices."
     },
     facts: {
       de: ["Die Burg stammt aus dem 12. Jahrhundert.", "Sie liegt direkt im Zentrum von Gent.", "Der Name bedeutet Burg der Grafen.", "Die Anlage wurde mehrfach neu genutzt und restauriert.", "Heute ist sie eines der meistbesuchten historischen Ziele der Stadt."],
@@ -813,7 +813,7 @@ export const belgiumNatureExtra: POI[] = [
         "Fiecare cameră a castelului este legată de povești și legende locale, oferind o experiență imersivă prin ghiduri audio amuzante.",
         "Din vârful turnului principal se pot vedea cele 'trei turnuri din Gent': Turnul Sfântului Bavo, Turnul Sfântului Nicolae și Clopotnița (Belfort)."
       ],
-      en: []
+      en: ["Philip of Alsace modeled the imposing stone keep on the castles he saw while participating in the Second Crusade.", "By the late 19th century, the castle had fallen into such disrepair that the city of Ghent considered demolishing it entirely.", "In 1949, local students famously occupied the castle in a peaceful protest against rising beer prices, an event known as the 'Battle of the Gravensteen'.", "The castle's defensive walls feature 24 projecting watchtowers and a fully intact water-filled moat.", "It currently houses an extensive museum dedicated to medieval justice, complete with authentic historic torture instruments."]
     },
     image: "/geo-images/belgium/hist-gravensteen.webp"
   },
@@ -833,7 +833,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Beersel vár egy klasszikus, késő középkori vízi vár Brüsszel déli agglomerációjában, amely szinte érintetlenül maradt fenn az utókor számára. A 14. század elején épült erődítmény vörös téglás falaival, magasodó tornyaival és mély vizesárkával a korabeli védelmi építészet tökéletes példája. A vár különlegessége a három hatalmas, félköríves torony, amelyek egykor a környék védelmét biztosították a támadásokkal szemben. Belső tereiben ma vármúzeum működik, ahol a látogatók megismerhetik a középkori életmódot és a vár viharos történetét. A várkert és a vizesárok környéke népszerű pihenőhely, ahol a látogatók élvezhetik a csendet és a történelmi atmoszférát. Beersel vára nemcsak történelmi emlékhely, hanem a flamand régió egyik legfotogénebb és legkedveltebb kirándulóhelye is.",
       ro: "Castelul Beersel este una dintre cele mai autentice fortărețe medievale din Belgia, situată la sud de Bruxelles, fiind un exemplu rar de arhitectură defensivă brabantină construită din cărămidă. Ridicat la începutul secolului al XIV-lea, castelul impresionează prin cele trei turnuri semicirculare masive și șanțul larg de apă care îi conferă un aspect pitoresc de cetate imbatabilă. Spre deosebire de alte castele, acesta și-a păstrat caracterul militar sever, nefiind niciodată transformat într-o reședință nobiliară confortabilă. Vizitatorii pot explora meterezele, turnurile de observație și curtea interioară, simțind direct atmosfera austeră a vieții de garnizoană din Evul Mediu. Castelul a dobândit o faimă suplimentară prin apariția sa într-un celebru album de benzi desenate Suske și Wiske, devenind o destinație populară pentru familii și pasionații de istorie. Este locul ideal pentru a descoperi cum arăta o fortăreață strategică ce proteja odinioară rutele comerciale și granițele regiunii Brabant.",
-      en: ""
+      en: "Beersel Castle is one of the few completely intact examples of medieval military architecture remaining in Belgium. Located just south of Brussels, this striking red-brick fortress was constructed between 1300 and 1310 as a defensive bulwark to protect the southern approaches to the city. Surrounded by a wide moat, the castle is characterized by its three massive cylindrical towers and lack of later residential modifications. During the conflict against Emperor Maximilian of Austria in 1489, it was besieged and severely damaged, though it was faithfully restored shortly after. Today, the austere interiors and steep spiral staircases offer an authentic, unvarnished glimpse into the harsh realities of 14th-century garrison life. It stands as a proud testament to the turbulent feudal history of the Duchy of Brabant."
     },
     facts: {
       de: ["Beersel gehoert zu den bekanntesten Wasserburgen Belgiens.", "Die Anlage liegt suedoestlich von Brussel.", "Sie wurde als Verteidigungsbau gegen Angriffe errichtet.", "Heute ist sie ein Museum und Besucherziel.", "Die Burg ist besonders fotogen bei Spiegelungen im Wassergraben."],
@@ -857,7 +857,7 @@ export const belgiumNatureExtra: POI[] = [
         "Castelul a supraviețuit mai multor asedii, cel mai distructiv fiind cel din 1489, urmat de o restaurare fidelă în 1491.",
         "Popularitatea sa modernă a crescut după ce a servit drept decor pentru aventurile personajelor de benzi desenate Suske și Wiske în 'Tezaurul de la Beersel'."
       ],
-      en: []
+      en: ["Unlike many European castles, Beersel was never converted into a comfortable noble residence, retaining its pure military design.", "The striking red brick used in its construction was an expensive and prestigious building material in the 14th century.", "The castle was famously featured in 'The Treasure of Beersel', a classic album of the popular Belgian comic series Spike and Suzy (Suske en Wiske).", "Its defenses include a drawbridge, thick defensive walls, and strategically placed arrow slits for archers.", "A major restoration in the mid-20th century preserved the castle's authentic medieval appearance and structural integrity."]
     },
     image: "/geo-images/belgium/hist-beersel-castle.webp"
   },
@@ -873,11 +873,23 @@ export const belgiumNatureExtra: POI[] = [
       ro: "Castelul Bouillon se inalta deasupra raului Semois si este una dintre cele mai cunoscute fortarete din Ardeni. Numele sau este strans legat de cruciati si de Evul Mediu. Pozitia il face atractiv atat istoric, cat si peisagistic. De aceea Bouillon este un subiect puternic pentru trasee de castele si Ardeni.",
       en: "Bouillon Castle rises above the Semois and is one of the best known fortresses in the Ardennes. Its name is closely linked to crusaders and the medieval period. The location makes it highly attractive both historically and scenically. That is why Bouillon is a strong topic for castle and Ardennes routes."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bouillon Castle is an immense medieval fortress perched on a narrow rocky ridge, deeply overlooking a sharp bend in the Semois River. Its origins date back to the 8th century, but it is most famously associated with Godfrey of Bouillon, who sold the castle to the Prince-Bishopric of Li\u00e8ge in 1096 to finance his participation in the First Crusade. The fortress's strategic position made it a heavily contested military stronghold for centuries, eventually being modernized by the renowned French military engineer Vauban in the 17th century. The complex layout features a labyrinth of underground passages, deep dungeons, and imposing ramparts. Today, it is celebrated for its sweeping views over the Ardennes and its captivating daily falconry displays, bringing the medieval atmosphere vividly to life."
+    },
     facts: {
       de: ["Die Burg liegt auf einem Felsmassiv ueber der Stadt.", "Sie ist eng mit Gottfried von Bouillon verbunden.", "Der Blick ueber die Semois ist spektakulaer.", "Die Festung gehoert zu den wichtigsten der Ardennen.", "Die Altstadt darunter ist ein beliebtes Ausflugsziel."],
       hu: ["A var sziklamasszivumon all a varos felett.", "Szorosan kotodik Bouillon-i Gottfriedhez.", "A Semois folyorol nyilo kilatas lenyugozo.", "Az erosseg az Ardennek egyik legfontosabbja.", "Az alatta fekvo regi varosresz kedvelt kirandulohely."],
       ro: ["Castelul este ridicat pe un masiv stancos deasupra orasului.", "Este strans legat de Godfrey de Bouillon.", "Vederea asupra raului Semois este spectaculoasa.", "Fortareata este printre cele mai importante din Ardeni.", "Centrul istoric de dedesubt este o destinatie populara."],
       en: ["The castle stands on a rocky outcrop above the town.", "It is closely linked to Godfrey of Bouillon.", "The views over the Semois are spectacular.", "The fortress is among the most important in the Ardennes.", "The old town below is a popular excursion stop."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Godfrey of Bouillon sold the castle to the Prince-Bishopric of Li\u00e8ge to fund his army for the First Crusade in 1096.", "The fortress is famously built on three distinct rocky promontories connected by impressive stone bridges.", "In the 1670s, legendary French military architect Vauban heavily modified the defenses to withstand modern artillery fire.", "A 65-meter deep well was carved directly into the solid rock to ensure a secure water supply during long sieges.", "The castle courtyard regularly hosts spectacular falconry shows, showcasing the ancient medieval hunting tradition."]
     },
     image: "/geo-images/belgium/hist-bouillon-castle.webp"
   },
@@ -905,7 +917,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Bouillon vár az Ardennek egyik leghatalmasabb és legikonikusabb erődítménye, amely a Semois folyó feletti sziklaszirten trónolva uralja a tájat. A vár neve elválaszthatatlanul összefonódott Bouillon-i Gottfried alakjával, aki az első keresztes hadjárat egyik vezére volt, és aki zálogba adta a várat a hadjárat finanszírozásához. Az erődítmény bonyolult folyosórendszere, hatalmas bástyái és mély kútjai a középkori hadmérnöki művészet remekművei. A látogatók végigsétálhatnak a várfalakon, ahonnan lélegzetelállító kilátás nyílik a folyó kanyarulatára és Bouillon városára. Naponta többször tartanak itt látványos solymászbemutatókat, ahol a ragadozó madarak a vár belső udvarán repkednek a nézők felett. Az esti órákban a kivilágított vár misztikus látványt nyújt, emlékeztetve a lovagkor dicső és véres pillanataira.",
       ro: "",
-      en: ""
+      en: "The Stoclet Palace is an architectural masterpiece located in Brussels, designed by the pioneering Austrian architect Josef Hoffmann between 1905 and 1911. Commissioned by the wealthy banker Adolphe Stoclet, the mansion is widely considered the defining work of the Vienna Secession movement. It represents a 'Gesamtkunstwerk' (a total work of art), where the architecture, interior design, furniture, and gardens were meticulously conceived as an integrated whole. The opulent interiors feature exquisite materials, including marble, bronze, and stunning mosaic murals created by the famous artist Gustav Klimt. Remarkably, the palace remains a private residence for the Stoclet family and is preserved exactly as it was over a century ago. It was inscribed as a UNESCO World Heritage site in 2009 for its outstanding impact on modern architecture."
     },
 
     factsAdvanced: {
@@ -918,7 +930,7 @@ export const belgiumNatureExtra: POI[] = [
         "A vár legmagasabb pontja az úgynevezett 'Tour d'Autriche' (Osztrák-torony), ahonnan 360 fokos panoráma nyílik."
       ],
       ro: [],
-      en: []
+      en: ["The interior dining room features three massive, intricate mosaic friezes designed by the renowned Austrian symbolist painter Gustav Klimt.", "It is widely recognized as one of the most perfect examples of a 'Gesamtkunstwerk', integrating architecture and all interior arts.", "The Stoclet family gave architect Josef Hoffmann an unlimited budget and total creative freedom for the project.", "Despite its fame and UNESCO World Heritage status, the palace remains strictly closed to the general public.", "The building's stark, geometric facade was highly influential, marking a crucial transition from Art Nouveau to Art Deco."]
     }
   },
   {
@@ -937,7 +949,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Tyne Cot temető a világ legnagyobb Commonwealth katonai temetője, amely a flandriai mezőkön, Ypres közelében állít méltó emléket az első világháború áldozatainak. A csendes, végtelennek tűnő fehér sírkövek sorai között több mint 11 000 katona nyugszik, akik a Passchendaele-i csatában vesztették életüket. A temető központjában álló 'Cross of Sacrifice' (Az áldozat keresztje) egy korábbi német betonbunker fölé épült, szimbolizálva a béke győzelmét a háború felett. A hátsó falakon, a Tyne Cot Memorialon további 35 000 olyan katona neve olvasható, akiknek a holttestét soha nem találták meg vagy nem tudták azonosítani. A látogatóközpontban személyes tárgyak és naplórészletek segítenek megérteni a katonák mindennapjait és a háború tragédiáját. A hely atmoszférája mélyen megrendítő, a csendet csak a szél és a látogatók halk léptei törik meg ezen a szent emlékezési helyen.",
       ro: "",
-      en: ""
+      en: "Tyne Cot Cemetery is the largest Commonwealth War Graves Commission cemetery in the world, located near Passchendaele (Passendale) in West Flanders. It serves as the final resting place for nearly 12,000 Commonwealth soldiers who perished during the grueling First World War, particularly during the bloody Battle of Passchendaele in 1917. The cemetery's layout incorporates several captured German concrete pillboxes, with the prominent Cross of Sacrifice built directly atop the largest one. The curved Memorial to the Missing at the back of the cemetery bears the names of almost 35,000 soldiers whose graves are unknown. The meticulously maintained rows of pristine white headstones create a profoundly moving atmosphere. It stands as a solemn and powerful reminder of the massive human cost of the Great War."
     },
     facts: {
       de: ["Tyne Cot liegt auf dem Gebiet der Flanders Fields.", "Es ist der groesste Commonwealth-Friedhof der Welt.", "Viele Gräber stammen aus dem Ersten Weltkrieg.", "Der Ort liegt in der Naehe von Ypern.", "Das Memorial ist ein wichtiger Pilgerort der Erinnerung."],
@@ -955,7 +967,7 @@ export const belgiumNatureExtra: POI[] = [
         "A temető területén ma is látható három eredeti német betonbunker, amelyek a véres harcok tanúi."
       ],
       ro: [],
-      en: []
+      en: ["Tyne Cot contains exactly 11,961 graves, making it the largest Commonwealth war cemetery globally in terms of burials.", "Of the soldiers buried here, over 8,300 remain officially unidentified, their headstones marked 'Known unto God'.", "The name 'Tyne Cot' was supposedly coined by the Northumberland Fusiliers, who thought the German pillboxes resembled Tyneside cottages.", "King George V personally visited the cemetery in 1922, suggesting the Cross of Sacrifice be placed on the central bunker.", "The rear boundary wall features a massive memorial listing the names of 34,927 soldiers who have no known grave."]
     },
     image: "/geo-images/belgium/hist-tyne-cot-cemetery.webp"
   },
@@ -975,7 +987,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Signal de Botrange Belgium legmagasabb pontja, amely 694 méteres tengerszint feletti magasságával emelkedik ki a Hohes Venn misztikus lápvidékéből. A csúcson található egy hat méter magas lépcsős kőépítmény, az úgynevezett Baltia-lépcső, amelyet azért emeltek, hogy a magasság elérje a bűvös 700 métert. A területet gyakran borítja köd vagy hó, ami különleges, szinte északi hangulatot kölcsönöz a tájnak. A kilátótoronyból tiszta időben messzire el lehet látni a környező fenyvesekre és a végtelennek tűnő mocsárvidékre. Számos túraútvonal indul innen, amelyek a természetvédelmi terület legszebb részeit érintik, védve az érzékeny tőzegmoha-takarót. Télen a Signal de Botrange a sífutók központjává válik, hiszen itt marad meg legtovább a hó az egész országban. Ez a pont nemcsak földrajzi rekord, hanem a csend és a természet közelségének szimbóluma is Belgiumban.",
       ro: "",
-      en: ""
+      en: "The Signal de Botrange is the highest geographical point in Belgium, situated in the High Fens nature reserve at an elevation of 694 meters above sea level. Located in the province of Li\u00e8ge, this plateau offers sweeping, uninterrupted views of the unique moorland landscape. In 1923, a 6-meter stone staircase, known as the Baltia tower, was constructed at the summit to artificially allow visitors to reach an altitude of exactly 700 meters. Later, a stone tower was built alongside it for communication purposes. Despite its modest height compared to other European peaks, the surrounding environment experiences harsh, snow-heavy winters, making it a popular destination for cross-country skiing. The site perfectly encapsulates the rugged and wild beauty of the eastern Belgian highlands."
     },
     facts: {
       de: ["Die Hoehe liegt bei 694 Metern.", "Der Punkt befindet sich im Naturpark Hohes Venn-Eifel.", "Im Winter kann hier Schnee lange liegen bleiben.", "Holzstege schuetzen das empfindliche Moor.", "Es ist ein beliebter Startpunkt fuer Wanderungen."],
@@ -993,7 +1005,7 @@ export const belgiumNatureExtra: POI[] = [
         "A Signal de Botrange közelében található a 'Baraque Michel', amely történelmileg fontos pihenőhely volt a mocsáron átvezető úton."
       ],
       ro: [],
-      en: []
+      en: ["The natural elevation of the Signal de Botrange is exactly 694 meters, making it the highest peak in the country.", "Lieutenant-General Herman Baltia built a small stone mound in 1923 to raise the peak artificially to 700 meters.", "During the winter, the area receives the heaviest snowfall in Belgium, transforming it into a hub for cross-country skiing.", "A 24-meter stone communications tower was added to the site in 1934, further enhancing the location's prominence.", "The peak is situated on the High Fens plateau, an area known for its unique and fragile raised bog ecosystems."]
     },
     image: "/geo-images/belgium/nat-signal-de-botrange.webp"
   },
@@ -1013,7 +1025,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Baraque Michel egy történelmi fogadó és magaslati pont a Hohes Venn mocsárvidékén, amely évszázadokon át menedékként szolgált az utazók számára a zord időjárásban. A 674 méteres magasságban fekvő hely eredetileg 1812-ben épült egy kőműves, Michel Schmitz által, aki a mocsárban eltévedt vándorok megmentésére szentelte életét. A fogadó falai között ma is érezhető a múlt hangulata, a látogatókat pedig hagyományos helyi ételek és sörök várják a túra után. A környék híres a sűrű ködről és a hirtelen változó időjárásról, ami miatt régebben harangszóval segítették az eltévedtek tájékozódását. Számos tanösvény indul innen, amelyek a lápvidék különleges flóráját és faunáját mutatják be a fapallós utak mentén. Télen a terület a síelők kedvelt központja, ahol a havas fenyvesek között kanyarognak a sífutó pályák.",
       ro: "",
-      en: ""
+      en: "Baraque Michel is historically one of the most famous locations in the High Fens and serves as the third highest point in Belgium at 674 meters. It was originally founded in 1812 by a local tailor named Michel Schmitz as a refuge inn for weary travelers crossing the treacherous, fog-bound moors. The inn features a prominent bell that was historically rung during severe snowstorms and heavy fogs to guide lost wanderers safely to shelter. The surrounding landscape consists of sweeping heather, dense peat bogs, and scattered pine forests, offering numerous hiking and cross-country skiing trails. Today, Baraque Michel remains a highly popular starting point for nature enthusiasts exploring the untamed beauty of the High Fens nature reserve. It retains an atmosphere deeply steeped in local frontier history and folklore."
     },
     facts: {
       de: ["Der Punkt liegt auf der Hoehe der Ardennen.", "Er ist ein klassischer Ausgangspunkt fuer Wanderungen.", "Die Umgebung ist fuer Klima und Moorlandschaft bekannt.", "Im Winter wirkt die Gegend oft fast alpiner.", "Der Ort gehoert zu den bekanntesten Hochlagen Belgiens."],
@@ -1031,7 +1043,7 @@ export const belgiumNatureExtra: POI[] = [
         "Történelmileg ez a pont fontos határvidék volt a Porosz Királyság és a Holland Királyság között."
       ],
       ro: [],
-      en: []
+      en: ["Baraque Michel reaches an elevation of 674 meters, making it the third-highest peak in the entire country.", "The original inn was established in 1812 specifically to rescue travelers lost in the notoriously disorienting fogs of the moors.", "A historic bell attached to the building was regularly rung during severe storms to guide stranded hikers to safety.", "It serves as a primary gateway to the High Fens nature reserve, offering extensive networks of wooden boardwalk trails.", "The site also features the nearby 'Chapel of the Fischbach', built in 1831 by an aristocrat who was rescued near the inn."]
     },
     image: "/geo-images/belgium/nat-baraque-michel.webp"
   },
@@ -1051,7 +1063,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Robertville-tó egy gyönyörű mesterséges víztározó az Ardennek keleti részén, amely a Warche folyó felduzzasztásával jött létre az 1920-as években. A tiszta kék vizet meredek, sűrű erdőkkel borított domboldalak veszik körül, ami festői keretet ad a tájnak. A tó nemcsak vízellátási és energiatermelési célokat szolgál, hanem a környék egyik legnépszerűbb szabadidős központja is. Nyáron strandolók, kajakosok és vitorlázók töltik meg a vizet, míg a part menti sétányokon kirándulók élvezhetik a nyugalmat. A tó felett magasodik a Reinhardstein-vár, amely egy rövid erdei sétával elérhető, és még romantikusabbá teszi a környezetet. A gát 55 méteres magassága lenyűgöző látvány, és technikai szempontból is érdekességnek számít a régióban. Robertville tökéletes helyszín egy hétvégi pihenéshez, ahol a természet és az aktív kikapcsolódás kéz a kézben jár.",
       ro: "",
-      en: ""
+      en: "Lake Robertville is a picturesque artificial lake situated in the eastern cantons of Belgium, nestled within the lush landscapes of the Ardennes and the High Fens. It was created in 1928 following the construction of a 55-meter-high dam across the Warche River, primarily to supply drinking water and generate hydroelectric power for the region. The lake spans roughly 62 hectares and is heavily surrounded by dense, verdant forests, giving it a tranquil, natural appearance despite its man-made origins. During the summer, it transforms into a bustling hub for water sports, including swimming, kayaking, and sailing, with a dedicated sandy beach area. A popular hiking trail wraps around the lake's perimeter, offering stunning reflections of the woodland canopy in its exceptionally clear waters. The imposing Reinhardstein Castle, situated just downstream from the dam, adds a distinct historical charm to the area."
     },
     facts: {
       de: ["Der See liegt nahe der Waeserkuppen-Region.", "Er ist ein Stausee in den Ardennen.", "Rundwege und Uferblicke sind sehr beliebt.", "Die Umgebung ist besonders ruhig und grueneindrucksvoll.", "Der See ist ein guter Stopp fuer Wochenendtouren."],
@@ -1069,7 +1081,7 @@ export const belgiumNatureExtra: POI[] = [
         "A tó körüli túraútvonal hossza körülbelül 5 kilométer, érintve a gátat és a legszebb kilátópontokat."
       ],
       ro: [],
-      en: []
+      en: ["The impressive dam creating Lake Robertville stands 55 meters high and was completed in 1928 for hydroelectricity and water supply.", "The lake contains approximately 8 million cubic meters of exceptionally clean water sourced from the Warche River.", "It features a designated 'Robertville-les-Bains' area, which includes an outdoor swimming pool equipped with diving boards and a sandy beach.", "The area is closely linked with the dramatic, 14th-century Reinhardstein Castle, located in the steep gorge just below the dam.", "Motorized boats are strictly prohibited on the lake to preserve the peaceful environment and protect the water quality."]
     },
     image: "/geo-images/belgium/nat-lake-robertville.webp"
   },
@@ -1089,7 +1101,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Semois folyó az Ardennek legromantikusabb és legkanyargósabb folyója, amely mélyen bevágódott völgyekben kígyózik Belgium déli részén. A folyó mentén található látványos kanyarulatok, mint például a 'Frahan-patkó', a természetfotósok és a túrázók kedvenc témái. A völgy meredek oldalait sűrű erdők borítják, amelyek ősszel ezer színben pompáznak, felejthetetlen látványt nyújtva. A Semois völgye történelmileg híres volt a dohánytermesztésről, aminek emlékeit ma is őrzik a régi szárítócsűrök a folyóparti falvakban. A víz lassú folyása kiválóan alkalmas kajakozásra és kenu-túrákra, amelyek során a folyó felől fedezhetjük fel a rejtett sziklákat és várakat. Olyan hangulatos városok és falvak fekszenek a partján, mint Bouillon vagy Chassepierre, ahol megállt az idő. A Semois völgye az a hely, ahol az utazó valóban eggyé válhat a természettel és élvezheti a vidéki Belgium nyugalmát.",
       ro: "",
-      en: ""
+      en: "The Semois River is widely celebrated as one of the most beautiful and winding rivers in the Belgian Ardennes. Rising in Arlon, it flows westward in a series of dramatic, deep meanders, cutting through heavily forested hills before eventually joining the Meuse River in France. The river valley is renowned for its lush, pristine nature and has carved out a unique microclimate that historically supported a thriving tobacco cultivation industry. Along its banks lie charming, historic towns and villages, most notably Bouillon, which is dominated by its massive medieval castle overlooking a tight river bend. The Semois is a highly popular destination for outdoor enthusiasts, offering exceptional opportunities for kayaking, fly fishing, and hiking along breathtaking panoramic ridges."
     },
     facts: {
       de: ["Die Semois ist ein Nebenfluss der Maas.", "Das Tal ist fuer seine Aussichten beruehmt.", "Rund um den Fluss gibt es viele Wanderwege.", "Der Fluss ist eng mit den Ardennen verbunden.", "Bouillon und andere Orte liegen direkt am Lauf."],
@@ -1107,7 +1119,7 @@ export const belgiumNatureExtra: POI[] = [
         "A folyó mentén kanyargó GR-16-os túraútvonalat Európa egyik legszebb hosszútávú vándorútjának tartják."
       ],
       ro: [],
-      en: []
+      en: ["The Semois is famous for its extreme meanders, significantly extending its total length to 210 kilometers despite a short linear distance.", "The river valley's unique microclimate made it a major center for Belgian tobacco production during the 19th and 20th centuries.", "The 'Tombeau du G\u00e9ant' (Giant's Tomb) is a perfectly preserved river bend offering one of the most photographed vistas in the Ardennes.", "It flows past the formidable Bouillon Castle, which was strategically built on a narrow ridge formed by the river's tight curves.", "The river acts as a natural habitat for diverse wildlife, including European beavers and a wide variety of freshwater fish."]
     },
     image: "/geo-images/belgium/nat-semois-river.webp"
   },
@@ -1127,7 +1139,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Lesse folyó egy vadregényes hegyi patak az Ardennek szívében, amely barlangokon és meredek mészkősziklákon keresztül vág utat magának a Meuse felé. A folyó leghíresebb szakasza Han-sur-Lesse és Houyet között található, ahol a víz eltűnik a föld alatt, hogy kialakítsa a világhírű Han-barlangrendszert. A Lesse völgye a kalandvágyók paradicsoma: a folyón való kajakozás az egyik legnépszerűbb nyári program Belgiumban, különösen a dinanti szakaszokon. A part mentén monumentális kastélyok, mint például a Walzin-vár, magasodnak a sziklákon, mesebeli látványt nyújtva a vízen evezőknek. A környék sűrű erdői és sziklás ösvényei kiváló túrázási lehetőségeket kínálnak, érintve számos barlangot és kilátópontot. A Lesse völgye a természet erejének és a geológiai folyamatok látványos bemutatóhelye, ahol a víz és a szikla örök küzdelme határozza meg a tájat.",
       ro: "",
-      en: ""
+      en: "The Lesse River is a dynamic and enchanting waterway that winds its way through the picturesque Famenne and Ardennes regions of Wallonia. It is most famous for its extraordinary underground section, where the river plunges into a limestone massif and carves out the spectacular Caves of Han-sur-Lesse. The valley above ground is equally breathtaking, flanked by dramatic limestone cliffs, dense woodlands, and historic castles, such as the fairytale-like Walzin Castle perched directly on a cliff edge. During the summer months, the lower section of the Lesse is a premier destination for recreational kayaking, drawing thousands of visitors eager to navigate its gentle rapids and scenic bends. The river eventually merges with the Meuse at the town of Dinant, completing its journey through one of Belgium's most geologically fascinating landscapes."
     },
     facts: {
       de: ["Die Lesse ist ein Nebenfluss der Maas.", "Sie ist fuer Kajakfahrten sehr beliebt.", "Die Gegend bei Han-sur-Lesse ist besonders bekannt.", "Der Fluss praegt Kalkfelsen und Talformen.", "Er gehoert zu den klassischen Outdoor-Fluessen Belgiens."],
@@ -1145,7 +1157,7 @@ export const belgiumNatureExtra: POI[] = [
         "A folyó völgye része a Furfooz Természetvédelmi Parknak, ahol római kori romok és őskori barlangok is találhatók."
       ],
       ro: [],
-      en: []
+      en: ["The Lesse famously flows entirely underground for over a kilometer, creating the vast, internationally renowned Caves of Han.", "The striking Walzin Castle is built sheer onto a high limestone cliff that drops vertically directly into the river.", "The traditional 21-kilometer kayak descent from Houyet to Anseremme is one of the most popular summer activities in Wallonia.", "It is a classic example of a karst river system, featuring numerous sinkholes, caves, and dramatic limestone gorges.", "The river provided essential power for numerous ancient watermills that historically supported the region's agricultural economy."]
     },
     image: "/geo-images/belgium/nat-lesse-river.webp"
   },
@@ -1165,7 +1177,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Monsin-sziget egy mesterségesen kialakított terület a Meuse folyón, Liège városának tőszomszédságában, amely az ipari örökség és a modern vízgazdálkodás találkozópontja. A sziget a 19. századi csatornaépítések során jött létre, és fontos szerepet játszik a hajózás és az árvízvédelem szabályozásában. Itt található a monumentális Albert-csatorna kezdőpontja, amely Liège-t köti össze az antwerpeni kikötővel. A szigeten elhelyezkedő zsiliprendszer és a hatalmas kőműves gát technikai érdekesség, miközben a part menti sétányok népszerűek a horgászok és a vízi élet kedvelői körében. A sziget csúcsán egy impozáns I. Albert király emlékmű áll, amely a belga nemzet tiszteletét fejezi ki az uralkodó előtt. Bár a terület arculatát az ipar határozza meg, a folyó közelsége és a nyílt vízfelület különleges, nagyvárosi atmoszférát kölcsönöz a helynek.",
       ro: "",
-      en: ""
+      en: "Monsin Island is an artificial island situated in the Meuse River just north of the city center of Li\u00e8ge. It was formed during the late 1920s and early 1930s when the Albert Canal was constructed, effectively severing a piece of land between the canal and the natural course of the Meuse. The island is heavily industrialized, serving as a crucial node for the Autonomous Port of Li\u00e8ge, and is dotted with loading docks, warehouses, and industrial infrastructure. Despite its industrial nature, the southern tip of the island features a striking monument dedicated to King Albert I, an imposing 42-meter-high statue that proudly watches over the waterways. Monsin Island powerfully represents the historical integration of large-scale engineering, navigation, and heavy industry that has shaped the modern economy of the Li\u00e8ge region."
     },
     facts: {
       de: ["Die Insel liegt in der Maas bei Lüttich.", "Sie ist mit dem Stadt- und Hafenraum verbunden.", "Monsin ist ein markantes Beispiel fuer Flussinseln.", "Die Gegend wurde stark durch Industrie und Verkehr gepraegt.", "Heute eignet sie sich gut fuer Stadtrundgaenge am Wasser."],
@@ -1183,7 +1195,7 @@ export const belgiumNatureExtra: POI[] = [
         "A sziget területe jelentős logisztikai központ, közvetlen kapcsolattal a vasúti és vízi közlekedési hálózatokhoz."
       ],
       ro: [],
-      en: []
+      en: ["The island was artificially created by the excavation of the Albert Canal, which connects Li\u00e8ge to the port of Antwerp.", "The southern tip features a massive, 42-meter-tall memorial statue dedicated to King Albert I, inaugurated in 1939.", "It forms a vital operational part of the Autonomous Port of Li\u00e8ge, which is the third-largest inland port in Europe.", "The Monsin barrage (dam), designed by the modernist architect Joseph Moutschen, regulates the water levels of the Meuse River.", "The island physically marks the exact point where the busy Albert Canal officially separates from the Meuse River."]
     },
     image: "/geo-images/belgium/nat-monsin-island.webp"
   },
@@ -1203,7 +1215,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "Az Atomium Brüsszel és egész Belgium legikonikusabb futurisztikus építménye, amelyet az 1958-as világkiállításra terveztek a tudomány és a haladás szimbólumaként. A monumentális szerkezet egy vas kristályrácsot ábrázol, 165 milliárdszoros nagyításban, kilenc hatalmas rozsdamentes acélgömbbel, amelyeket csövek kötnek össze. Eredetileg csak hat hónapig állt volna, de népszerűsége miatt a város végleges jelképévé vált, és a 2000-es évek közepén teljesen felújították. A gömbökben interaktív kiállítások mutatják be az 50-es évek világát és az atomkor optimizmusát, míg a legfelső gömbben egy elegáns étterem és kilátó működik. Az építmény éjszakai kivilágítása lenyűgöző látványt nyújt, ahogy a gömbök felszínén futó fények a kristály szerkezetét szimbolizálják. Az Atomium nemcsak építészeti kuriózum, hanem Brüsszel modern identitásának elválaszthatatlan része, amely minden látogatót ámulatba ejt.",
       ro: "",
-      en: ""
+      en: "The Atomium is an unmistakable symbol of Brussels and a marvel of mid-20th-century architecture and engineering. Built for the 1958 Brussels World's Fair (Expo 58), it was designed by engineer Andr\u00e9 Waterkeyn to represent an iron crystal magnified 165 billion times. The structure consists of nine massive stainless-steel spheres connected by giant tubes, soaring to a height of 102 meters. Originally intended to last only six months, its immense popularity ensured its survival, and it has since become the capital's most popular tourist attraction. The interior of the spheres houses surreal escalators, exhibition spaces dedicated to design and history, and a panoramic restaurant in the highest sphere. The Atomium embodies the post-war optimism and the era's deep fascination with scientific progress and the peaceful use of atomic energy."
     },
     facts: {
       de: ["Es wurde fuer die Expo 58 gebaut.", "Es stellt ein Eisenkristall um das 165-Milliarden-fache vergroessert dar.", "Das Wahrzeichen steht in Bruessel.", "Die Kugeln sind durch Roehren verbunden.", "Von oben gibt es einen weiten Blick auf die Stadt."],
@@ -1221,7 +1233,7 @@ export const belgiumNatureExtra: POI[] = [
         "A legfelső gömbből tiszta időben egészen Antwerpenig el lehet látni a panorámaablakokon keresztül."
       ],
       ro: [],
-      en: []
+      en: ["The structure is exactly 102 meters tall and is designed to represent an iron unit cell magnified 165 billion times.", "Originally clad in shiny aluminum, the spheres were fully restored and recovered in durable stainless steel between 2004 and 2006.", "The central tube houses what was once the fastest elevator in Europe, capable of reaching the top sphere in just 22 seconds.", "Five of the nine enormous spheres are currently open to the public, featuring various art exhibitions and a panoramic viewing deck.", "Although planned as a temporary installation for Expo 58, overwhelming public affection saved it from being dismantled."]
     },
     image: "/geo-images/belgium/land-atomium.webp"
   },
@@ -1241,7 +1253,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A brüsszeli Grand Place a világ egyik legszebb és legegységesebb főtere, ahol a barokk, a gótikus és a XIV. Lajos-stílusú építészet káprázatos egyvelege fogadja a látogatókat. A tér központjában a fenséges Városháza magasodik gótikus tornyával, vele szemben pedig a Királyháza (Maison du Roi) áll, amely ma a városi múzeumnak ad otthont. A teret körbeölelő gazdagon díszített céhházak aranyozott homlokzatai a város egykori kereskedelmi hatalmát és gazdagságát hirdetik. A Grand Place története során volt piac, kivégzések helyszíne és ünnepségek központja, ma pedig az UNESCO Világörökség büszke része. Kétévente augusztusban a teret hatalmas, színes virágszőnyeg borítja be, ami a világ minden tájáról vonzza a turistákat. Esténként a tér épületei díszkivilágításban tündökölnek, megteremtve azt a varázslatos hangulatot, ami Brüsszelt Európa egyik legromantikusabb fővárosává teszi.",
       ro: "",
-      en: ""
+      en: "The Grand Place, or Grote Markt, is the central square of Brussels and is widely celebrated as one of the most beautiful town squares in the world. It is surrounded by opulent guildhalls, the spectacular Gothic Town Hall, and the striking Breadhouse (Maison du Roi) building. In 1695, during the Nine Years' War, French troops bombarded the square, destroying nearly everything except the Town Hall's sturdy tower. The guilds rapidly rebuilt the square in a remarkably unified Baroque and Flemish Renaissance style, a testament to the city's incredible resilience and wealth. Today, it is recognized as a UNESCO World Heritage site and serves as the vibrant heart of Brussels' cultural and civic life. Every two years in August, the center of the square is covered with a massive, vibrant 'Flower Carpet' made of over half a million begonias."
     },
     facts: {
       de: ["Der Platz gehoert zum UNESCO-Welterbe.", "Er liegt im historischen Zentrum von Brussel.", "Das Rathaus ist sein dominierendes Gebaeude.", "Die Grand Place ist fuer Veranstaltungen und Blumenmotive bekannt.", "Sie ist einer der meistbesuchten Orte Belgiens."],
@@ -1259,7 +1271,7 @@ export const belgiumNatureExtra: POI[] = [
         "Victor Hugo, a híres francia író a brüsszeli Grand Place-t a világ legszebb főterének nevezte."
       ],
       ro: [],
-      en: []
+      en: ["The spectacular Gothic spire of the Brussels Town Hall reaches a height of 96 meters and is topped by a statue of Saint Michael.", "Almost the entire square was meticulously rebuilt within a span of just four years following the devastating French bombardment in 1695.", "Every alternating August, the square is covered by a stunning 'Flower Carpet' utilizing over 500,000 fresh begonia flowers.", "The square was formally inscribed as a UNESCO World Heritage site in 1998 for its outstanding architectural homogeneity.", "The Maison du Roi (King's House) originally served as a bread market and now houses the extensive Brussels City Museum."]
     },
     image: "/geo-images/belgium/land-grand-place-brussels.webp"
   },
@@ -1279,7 +1291,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "Az antwerpeni központi pályaudvar, amelyet gyakran 'vasúti katedrálisnak' neveznek, a világ egyik leglátványosabb és legszebb állomásépülete. Az 1905-ben átadott építmény a neobarokk stílus jegyeit ötvözi a modern acél- és üvegszerkezettel, lenyűgöző térélményt nyújtva az érkező utasoknak. A hatalmas, 75 méter magas kupolacsarnok és a gazdagon díszített belső terek márványburkolataival inkább emlékeztetnek egy palotára, mintsem egy közlekedési csomópontra. A pályaudvar felújítása során a vágányokat több szinten helyezték el, így a modern nagysebességű vonatok közvetlenül a történelmi falak alá érkeznek. Az állomás közvetlenül a gyémántnegyed és az állatkert mellett található, így a város igazi kapujaként szolgál. Aki vonattal érkezik Antwerpenbe, annak ez az első és egyben legmaradandóbb élménye a városról.",
       ro: "",
-      en: ""
+      en: "Antwerp Central Station is an architectural triumph, frequently ranked among the most beautiful railway stations in the world. Constructed between 1895 and 1905 at the behest of King Leopold II, it was designed by architect Louis Delacenserie in a lavish eclectic style. The station is famously characterized by its monumental stone terminal building, featuring a massive dome, and a spectacular 43-meter-high glass and iron train shed designed by engineer Clement Van Bogaert. Its incredibly ornate interior, adorned with over 20 different types of marble and intricate detailing, earned it the local nickname 'The Railway Cathedral'. A major modernization project completed in 2007 cleverly expanded the station to multiple underground levels, allowing high-speed trains to pass through without compromising the historic upper structure."
     },
     facts: {
       de: ["Der Bahnhof wurde im fruehen 20. Jahrhundert neu gestaltet.", "Er gilt als einer der schoensten Bahnhöfe der Welt.", "Die grosse Kuppelhalle ist sein markantester Raum.", "Er liegt im Zentrum von Antwerpen.", "Der Bahnhof ist ein beliebtes Fotomotiv."],
@@ -1297,7 +1309,7 @@ export const belgiumNatureExtra: POI[] = [
         "A főcsarnok kupolája 75 méter magasra emelkedik, és több mint 20 féle márványt használtak a díszítéséhez."
       ],
       ro: [],
-      en: []
+      en: ["The impressive iron and glass train shed was remarkably built to be 43 meters high to safely dissipate the smoke from steam locomotives.", "The monumental stone station building is commonly referred to by locals as the 'Railway Cathedral' due to its grand dome.", "A massive engineering project in 2007 added two subterranean levels, converting it from a terminal to a modern through-station.", "The opulent interior decoration heavily utilized over 20 different varieties of marble sourced from across the globe.", "In 2014, it was prominently ranked as the most beautiful railway station in the world by the influential Mashable news website."]
     },
     image: "/geo-images/belgium/land-antwerp-central-station.webp"
   },
@@ -1317,7 +1329,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A Brugge főterén magasodó Belfry harangtorony a város középkori erejének és függetlenségének legfontosabb szimbóluma, amely már messziről uralja a városképet. A 13. században épült torony eredetileg a kincstárnak és a városi levéltárnak adott otthont, és tűztoronyként is szolgált a sűrűn lakott város védelmében. A 83 méter magas építménybe 366 lépcsőfok vezet fel, ahonnan tiszta időben az egész vidék, sőt még a tengerpart is látható. A torony híres harangjátékáról, amely 47 bronzharangból áll, és évszázadok óta meghatározza Brugge ódon utcáinak zenei aláfestését. A torony enyhe dőlése is megfigyelhető, ami a középkori alapozás sajátosságaiból fakad, de ez csak még különlegesebbé teszi a látványt. Az UNESCO Világörökség részét képező torony meglátogatása minden Brugge-be érkező utazó számára kötelező program.",
       ro: "",
-      en: ""
+      en: "The Belfry of Bruges is a prominent medieval bell tower situated in the historical center of the city. Rising to a height of 83 meters, it stands as a dominant symbol of the city's civic power and wealthy past. The construction of the tower began in 1240, and it originally housed the municipal treasury, city archives, and an observation post for spotting fires or approaching enemies. Over the centuries, it survived several major fires, with the distinctive octagonal lantern added to the top in the late 15th century. Visitors who endure the steep climb of 366 steps are rewarded with sweeping panoramic views of the entire medieval cityscape. The belfry is particularly famous for its impressive carillon of 47 bells, which continue to regularly ring out complex melodies across the Market Square."
     },
     facts: {
       de: ["Der Turm gehoert zum UNESCO-Welterbe.", "Er steht auf dem Marktplatz von Bruegge.", "Die Spitze bietet eine bekannte Aussicht auf die Stadt.", "Der Belfried war einst ein Zeichen fuer stadtische Freiheit.", "Er gehoert zu den am haeufigsten fotografierten Orten der Stadt."],
@@ -1335,7 +1347,7 @@ export const belgiumNatureExtra: POI[] = [
         "A Belfry harangtorony központi szerepet játszott az 'In Bruges' (Erőszakik) című kultuszfilmben."
       ],
       ro: [],
-      en: []
+      en: ["The tower prominently leans about 87 centimeters to the east, an architectural quirk comparable to the Leaning Tower of Pisa.", "The impressive carillon consists of 47 distinct bells, weighing a combined total of nearly 27.5 tons.", "In 1280, a devastating fire destroyed the original wooden spire, resulting in the tragic loss of the early city archives.", "The octagonal upper section of the tower was proudly added in the late 15th century to enhance its towering presence.", "It gained substantial international fame after being featured prominently in the acclaimed 2008 movie 'In Bruges'."]
     },
     image: "/geo-images/belgium/land-belfry-bruges.webp"
   },
@@ -1355,7 +1367,7 @@ export const belgiumNatureExtra: POI[] = [
       de: "",
       hu: "A waterlooi csatatér a történelem egyik sorsfordító helyszíne, ahol 1815. június 18-án Napóleon császár végleg elveszítette hatalmát a Wellington herceg és Blücher vezette szövetséges erőkkel szemben. A táj ma is őrzi az egykori küzdelem nyomait, bár a földművelés és az emlékművek emelése jelentősen átalakította a terepet. A csatatér központjában az Oroszlán-domb magasodik, amelyről belátható az egész terület, beleértve a stratégiailag fontos Hougoumont-tanyát is. A látogatók interaktív múzeumi tárlatokon keresztül ismerhetik meg a katonák sorsát, a fegyverzetet és a csata menetét meghatározó taktikai döntéseket. Évente tartanak nagyszabású hagyományőrző bemutatókat, ahol több ezer statiszta és lovas jeleníti meg a drámai összecsapást eredeti egyenruhákban. Waterloo nemcsak egy földrajzi pont, hanem az európai béke és a nagyhatalmi egyensúly kialakulásának szimbolikus bölcsője.",
       ro: "",
-      en: ""
+      en: "The Waterloo Battlefield is the historic expanse south of Brussels where Napoleon Bonaparte's final defeat occurred on June 18, 1815. This sprawling agricultural landscape saw the intense clash of French, British, Dutch, and Prussian forces, marking the decisive end to decades of European conflict. The site has been carefully preserved from urban development, retaining the rolling hills and sunken lanes that defined the battle's tactical movements. Key historic farmsteads, such as Hougoumont and La Haye Sainte, which saw some of the fiercest fighting, have been meticulously restored and now serve as evocative micro-museums. An immersive underground memorial center provides visitors with profound insights into the strategies, the grim realities of 19th-century warfare, and the lasting geopolitical impact of the battle."
     },
     facts: {
       de: ["Die Schlacht von Waterloo fand 1815 statt.", "Der Lion's Mound markiert das Gelaende.", "Napoleon verlor hier seine letzte grosse Schlacht.", "Das Areal liegt suedlich von Brussel.", "Besucher koennen das historische Terrain ueberblicken."],
@@ -1373,7 +1385,7 @@ export const belgiumNatureExtra: POI[] = [
         "A csatatéren számos nemzet (poroszok, britek, hollandok, franciák) külön emlékművei is megtalálhatók."
       ],
       ro: [],
-      en: []
+      en: ["The intense battle involved approximately 190,000 soldiers and resulted in an estimated 50,000 casualties in a single afternoon.", "The fortified farmhouse of Hougoumont was desperately defended by British Guards against relentless French assaults throughout the entire day.", "A strict 1914 preservation law permanently forbids any new construction on the battlefield, preserving its 1815 appearance.", "The underground Memorial 1815 features a massive 4D cinematic experience that intensely recreates the chaos of the cavalry charges.", "The Duke of Wellington famously described the battle's incredibly close outcome as 'the nearest run thing you ever saw in your life'."]
     },
     image: "/geo-images/belgium/hist-waterloo-battlefield.webp"
   },
@@ -1388,6 +1400,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Fort Eben-Emael Belgium egyik legismertebb 20. szazadi eroditmenye. A komplexum modern technikaval keszult, es 1940-ben kozponti szerepet jatszott. Ma eros celpont katonai tortenelmi es eroditmeny-turakhoz. SEO szempontbol jol kotia ossze a technikat, a haborutortenelmet es az utazas temat.",
       ro: "Fortul Eben-Emael este una dintre cele mai cunoscute fortărețe belgiene ale secolului XX. Ansamblul a fost proiectat cu tehnologie de vârf și a avut un rol central în 1940. Astăzi este o destinație puternică pentru istoria militară și traseele de fortificații. În SEO, leagă foarte bine tehnologia, istoria războiului și turismul.",
       en: "Fort Eben-Emael is one of Belgium's best known 20th-century fortresses. The complex was designed with advanced technology and played a central role in 1940. Today it is a strong destination for military history and fortification routes. In SEO terms, it connects technology, war history, and travel very well."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Fort Eben-Emael is an immense underground military fortress located near the Dutch border, built by Belgium in the 1930s to defend against a potential German invasion. Considered impregnable at the time, the fort featured extensive artillery cupolas, heavily reinforced concrete walls, and a labyrinth of over 5 kilometers of subterranean tunnels accommodating 1,200 soldiers. However, during the outbreak of World War II in May 1940, it was famously neutralized in just 15 minutes by a highly coordinated, surprise airborne assault by German paratroopers using newly developed gliders and shaped-charge explosives. This devastating attack revolutionized modern military tactics and shattered the illusion of fixed fortifications. Today, the expansive fortress has been fully preserved as an incredibly detailed and atmospheric museum."
     },
     facts: {
       de: ["Das Fort liegt nahe der niederlaendischen Grenze.", "Es galt einst als uneinnehmbar.", "Der Angriff 1940 ist beruehmt in der Militärgeschichte.", "Heute kann man Teile der Anlage besichtigen.", "Die Festung liegt strategisch ueber dem Maas-Tal."],
@@ -1405,7 +1423,7 @@ export const belgiumNatureExtra: POI[] = [
       "Ma az erőd múzeumként működik, ahol a hatalmas tüzérségi bunkerek és a belső terek is látogathatók."
     ],
     ro: [],
-    en: []
+    en: ["The fortress was widely considered to be the strongest and largest military fortification in Europe prior to World War II.", "The fort was captured by just 85 German paratroopers who astonishingly landed directly on its roof using silent DFS 230 gliders.", "The attack saw the very first combat use of highly destructive 'shaped charge' explosives to blow through the steel armor.", "The underground complex includes over 5 kilometers of expansive tunnels, complete with barracks, a hospital, and a power plant.", "The quick fall of Eben-Emael deeply shocked the Allied forces and rapidly paved the way for the invasion of Belgium."]
   },
   },
   {
@@ -1419,6 +1437,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A laekeni kiralyi uveghazak Brusszel egyik legelegansabb epitmenyei koze tartoznak. Az uveg, a fem es az idoszakos viragzas nagyon eros kepet ad az epiteszeti es kerteszeti turizmushoz. A helyet gyakran kotik a luxushoz, a kiralyi csaladhoz es a tavaszi latogatasokhoz. Belgium-tartalmakban ez egy minosegi, vizualis landmark.",
       ro: "Serele regale din Laeken se numără printre cele mai elegante construcții din Bruxelles. Sticla, metalul și florile de sezon creează o imagine foarte puternică pentru turismul de arhitectură și grădini. Locul este adesea asociat cu luxul, familia regală și vizitele de primăvară. Pentru conținutul despre Belgia, este un landmark vizual de calitate.",
       en: "The Royal Greenhouses of Laeken are among Brussels' most elegant structures. Glass, metal, and seasonal blooms create a very strong image for architecture and garden tourism. The site is often linked with luxury, the royal family, and spring visits. For Belgium content, it is a high-end visual landmark."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Royal Greenhouses of Laeken constitute a monumental complex of historic, heated glasshouses situated within the private park of the Royal Castle of Laeken in Brussels. Commissioned by King Leopold II and designed by the prominent architect Alphonse Balat in 1873, the complex is a masterpiece of 19th-century glass and iron architecture. The magnificent Winter Garden, topped with an immense glass crown, serves as the centerpiece of this 'City of Glass'. The greenhouses protect a vast and incredibly rare collection of exotic plants and flowers, including some original camellias from the King's personal plantings. Following a strict royal tradition, the breathtaking pavilions and their blooming flora are opened to the general public for only three short weeks each spring."
     },
     facts: {
       de: ["Die Gewaechshaeuser sind eng mit der belgischen Monarchie verbunden.", "Sie werden nur in einer begrenzten Saison geoeffnet.", "Die Glasarchitektur ist besonders fotogen.", "Laeken liegt im Norden von Brussel.", "Der Besuch ist stark von der Bluetezeit abhaengig."],
@@ -1436,7 +1460,7 @@ export const belgiumNatureExtra: POI[] = [
       "A hatalmas kupolák és üvegfolyosók összesen több mint egy hektárnyi területet fednek le."
     ],
     ro: [],
-    en: []
+    en: ["The complex was constructed using incredibly modern 19th-century techniques, incorporating massive amounts of iron and glass.", "The sprawling layout covers an impressive area of 1.5 hectares entirely enclosed under the interconnected glass pavilions.", "It houses an incredibly rare collection of camellias, which holds the prestigious title of the oldest and largest collection in a greenhouse globally.", "By royal tradition spanning a century, the public is only granted access to the greenhouses for about three weeks every spring.", "The spectacular main dome of the Winter Garden is precisely modeled to mathematically resemble the structural shape of a royal crown."]
   },
   },
   {
@@ -1450,6 +1474,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A brusszeli Igazsagugyi palota Europa egyik legmonumentalisabb epulete. A hatalmas kupola es a varosra nező dominans helyzete igazi landmarkka teszi. Az epulet az erő, az epiteszettortenet es a varoskep alakitasanak szimbóluma. Utazasi tartalmakban a klasszikus, nagy Brusszel jelkepekent mukodik.",
       ro: "Palatul de Justiție din Bruxelles este una dintre cele mai monumentale clădiri din Europa. Cupola uriașă și poziția dominantă deasupra orașului îl fac un landmark autentic. Clădirea simbolizează puterea, istoria arhitecturii și silueta urbană. În conținutul de călătorie, funcționează ca simbol al Bruxelles-ului clasic și grandios.",
       en: "The Palace of Justice in Brussels is one of Europe's most monumental buildings. Its huge dome and dominant position over the city make it a true landmark. The building symbolizes power, architectural history, and the city's skyline. In travel content, it works as a symbol of classic, grand Brussels."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Palace of Justice in Brussels is an architectural colossus and one of the largest constructed buildings of the 19th century. Designed by architect Joseph Poelaert in a grand, eclectic neoclassical style, it dominates the city's skyline from its vantage point on the Galgenberg hill. Completed in 1883, its construction was highly controversial as it required the demolition of a large working-class neighborhood, fostering enduring local resentment. The sheer scale of the building is staggering, with a total floor area of 26,000 square meters and a majestic central dome rising to 104 meters. The vast, cavernous interior is a labyrinth of monumental staircases, massive statues, and endless corridors that evoke the imposing authority of the law. Despite undergoing continuous renovation for decades, it remains fully operational as the country's most important court building."
     },
     facts: {
       de: ["Der Bau ist eines der groessten Gerichtsgebaeude der Welt.", "Die Kuppel ist aus vielen Teilen der Stadt sichtbar.", "Das Gebaeude liegt auf einem Huegel in Brussel.", "Es ist ein starkes Symbol der Hauptstadtarchitektur.", "Der Blick auf das Gebaeude ist besonders eindrucksvoll von unten."],
@@ -1467,7 +1497,7 @@ export const belgiumNatureExtra: POI[] = [
       "A kupola 104 méter magasra emelkedik, és Brüsszel szinte minden pontjáról jól látható."
     ],
     ro: [],
-    en: []
+    en: ["The Palace of Justice is larger in total surface area than St. Peter's Basilica in Rome.", "The massive central dome stands exactly 104 meters high and weighs an incredible 24,000 tons.", "Architect Joseph Poelaert reportedly went mad from the stress of the project and died four years before its completion.", "The building has been covered in scaffolding for so many decades that the scaffolding itself had to be renovated.", "At the end of World War II, retreating German forces set the central dome on fire, causing it to spectacularly collapse."]
   },
   },
   {
@@ -1481,6 +1511,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A MAS Antwerpen egyik legmodernebb jelkepe, es erosen meghatarozza a kikotoi zónat. A muzeum a varostortenetet, a vilagkereskedelmet es a modern epiteszetet egy eros tortenetbe kapcsolja. A latogatók leginkabb a tetoteraszt es a kikotore nyilo kilatast kedvelik. Antwerp-SEO-ban a MAS nagyon eros, mai landmark.",
       ro: "MAS este unul dintre cele mai moderne repere ale Anversului și definește clar zona portuară. Muzeul combină istoria orașului, comerțul global și arhitectura modernă într-o poveste puternică. Vizitatorii apreciază în special terasa de pe acoperiș și vederea spre port. Pentru SEO despre Anvers, MAS este un landmark foarte puternic și actual.",
       en: "MAS is one of Antwerp's most modern landmarks and strongly defines the port area. The museum combines city history, global trade, and modern architecture into a powerful story. Visitors especially value the rooftop terrace and the view over the port. For Antwerp SEO, MAS is a very strong contemporary landmark."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Museum aan de Stroom (MAS) is a spectacular modern landmark located in the historic Eilandje district of Antwerp. Designed by the renowned Dutch architectural firm Neutelings Riedijk Architects and opened in 2011, the building visually resembles a towering stack of giant red sandstone boxes intersected by undulating glass panels. Standing 60 meters tall, it dramatically revitalized the old docklands area. The museum's extensive collections explore the rich history of Antwerp as a global port city and its deep connections to the rest of the world. A unique architectural feature is the spiraling 'boulevard' of escalators encased in corrugated glass, which leads visitors to a breathtaking, panoramic rooftop terrace offering 360-degree views of the city, the Scheldt River, and the sprawling harbor."
     },
     facts: {
       de: ["MAS steht fuer Museum aan de Stroom.", "Das Gebaeude liegt im Eilandje-Viertel.", "Die Aussichtsplattform ist sehr beliebt.", "Das Museum thematisiert Handel und Stadtgeschichte.", "Die Architektur ist ein modernes Symbol Antwerpens."],
@@ -1498,7 +1534,7 @@ export const belgiumNatureExtra: POI[] = [
       "A múzeum homlokzatán 3185 darab kis fém kéz található, ami Antwerpen legendás szimbólumára utal."
     ],
     ro: [],
-    en: []
+    en: ["The distinctive red sandstone used for the facade was specifically imported all the way from India.", "The building's exterior is playfully studded with 3,185 small, silver-colored cast aluminum hands, a traditional symbol of Antwerp.", "The stunning corrugated glass panels dividing the stone boxes are up to 5.5 meters high and lack any visible metal frames.", "The free-access rooftop terrace provides uninterrupted, 360-degree panoramic views over the entire city and port area.", "It houses an immense collection of over 470,000 maritime, ethnographic, and historical objects."]
   },
   },
   {
@@ -1512,6 +1548,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Az Antwerpen-Brugge kikoto Belgium vilagkereskedelmi kapuja. Hatalmas kontenerterminalokat, logisztikat, energiat es ipart egyesit egyetlen tengeri rendszerben. A kikotoregio gazdasag, ellatasi lancok es foldrajzi tartalmak szempontjabol rendkivul fontos. SEO-temakent a varost, folyot es a globalis aruforgalmat kapcsolja ossze.",
       ro: "Portul Antwerp-Bruges este o poartă centrală pentru comerțul mondial în Belgia. El reunește terminale uriașe de containere, logistică, energie și industrie într-un singur sistem maritim. Regiunea portuară este extrem de relevantă pentru economie, lanțuri de aprovizionare și conținut geografic. Ca subiect SEO, leagă orașul, râul și fluxurile globale de mărfuri.",
       en: "The Port of Antwerp-Bruges is a central gateway for world trade in Belgium. It brings together huge container terminals, logistics, energy, and industry in one maritime system. The port region is extremely relevant for economics, supply chains, and geo content. As an SEO topic, it links the city, the river, and global goods flows."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Port of Antwerp-Bruges is a colossal economic powerhouse and Europe's second-largest seaport. It was formed in 2022 through the strategic merger of the Port of Antwerp and the Port of Zeebrugge, creating a unified maritime giant. Located on the Scheldt River estuary with deep connections to the North Sea, it handles an immense volume of international freight, including millions of containers, breakbulk, and liquid chemicals. The port complex spans an incredible area, functioning as a vital logistics and industrial hub that connects European markets to global trade routes. It boasts the continent's largest integrated chemical cluster, making it indispensable to the modern European economy. The scale of the port operations is awe-inspiring, defined by endless rows of massive cranes, colossal cargo ships, and an extensive network of locks and canals."
     },
     facts: {
       de: ["Der Hafen gehoert zu den groessten Europas.", "Er liegt an Schelde und Nordseezugang.", "Die Region ist ein wichtiger Logistikknoten.", "Container-, Chemie- und Energiesektoren sind stark vertreten.", "Der Name verbindet Antwerpen und Bruegge."],
@@ -1529,7 +1571,7 @@ export const belgiumNatureExtra: POI[] = [
       "A kikötő a vegyipar egyik legfontosabb európai központja is, számos globális vállalat bázisa."
     ],
     ro: [],
-    en: []
+    en: ["The merged port handles a staggering total of roughly 289 million tons of international maritime freight annually.", "It officially ranks as the second-largest port in Europe and features the largest integrated chemical cluster on the continent.", "The port complex encompasses a massive total surface area of over 14,000 hectares.", "The Deurganck Dock lock in Antwerp is the largest tidal lock in the world in terms of sheer volume.", "It provides direct employment to over 160,000 people, driving a massive segment of the Belgian economy."]
   },
   },
   {
@@ -1543,6 +1585,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Zeebrugge Belgium Eszaki-tengerre nyilo ablaka es fontos tengeri kikoto. A hely kompakt kikototerben kapcsolja ossze a kompforgalmat, a kontener, az auto- es az energiaforgalmat. Brugge kozelsege miatt turisztikai utakhoz is erdekes. SEO-szovegekben Zeebrugge a tenger, logisztika es nemzetkozi kapcsolatok szinonimaja.",
       ro: "Zeebrugge este fereastra Belgiei către Marea Nordului și un port maritim important. Locația combină feriboturi, containere, mașini și energie într-un spațiu portuar compact. Apropierea de Bruges îl face interesant și pentru rute turistice. În textele SEO, Zeebrugge înseamnă mare, logistică și conexiuni internaționale.",
       en: "Zeebrugge is Belgium's window on the North Sea and an important seaport. The location combines ferries, containers, cars, and energy in a compact port area. Its proximity to Bruges also makes it interesting for tourist routes. In SEO copy, Zeebrugge stands for sea, logistics, and international links."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Port of Zeebrugge, now a vital component of the unified Port of Antwerp-Bruges, is Belgium's most important coastal port situated directly on the North Sea. Originally constructed in the early 20th century to connect the inland city of Bruges to the sea, it rapidly evolved into a major international logistics hub. Unlike the inland port of Antwerp, Zeebrugge boasts naturally deep waters, allowing the world's largest ultra-large container vessels and massive roll-on/roll-off car carriers to dock without tidal restrictions. It is globally recognized as the largest port in the world for handling new automobiles, serving as the main European gateway for the automotive industry. Additionally, it plays a critical role in Europe's energy security, featuring a massive terminal for importing liquefied natural gas (LNG)."
     },
     facts: {
       de: ["Der Hafen liegt an der Nordseekueste.", "Er ist ein wichtiger Faehr- und RoRo-Standort.", "Zeebruegge ist eng mit Bruegge verbunden.", "Der Hafen bedient auch den Automobilverkehr.", "Seine Lage ist fuer Nordseehandel strategisch."],
@@ -1560,7 +1608,7 @@ export const belgiumNatureExtra: POI[] = [
       "Fontos csomópont a kompforgalom számára az Egyesült Királyság és Skandinávia irányába."
     ],
     ro: [],
-    en: []
+    en: ["Zeebrugge handles roughly 3 million new passenger vehicles annually, making it the absolute largest car port in the world.", "The port's massive LNG terminal supplies approximately 15 percent of the total natural gas consumed in northwestern Europe.", "During World War I, it served as a crucial German U-boat base, famously targeted by the British in the dramatic Zeebrugge Raid of 1918.", "The deep-water harbor allows modern mega-ships with drafts of up to 16 meters to berth easily at any time.", "It acts as the primary maritime gateway connecting the British Isles with the European mainland for both freight and passenger ferries."]
   },
   },
   {
@@ -1574,6 +1622,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Gent kikoto jelentos belso kikoto, amely kozvetlen kapcsolatban all az Eszaki-tengerrel. Erosen kapcsolodik az iparhoz, a hajozashoz es az energiához, es meghatarozza a regio gazdasagi kepet. A csatornaparti fekves miatt logisztikai es utvonaltervezesi szempontbol is erdekes. POI-kent jo tartalmat ad a kikoto, kereskedelem es varosfejlodes temakhoz.",
       ro: "Portul Ghent este un port interior important, cu legătură directă la Marea Nordului. Este puternic implicat în industrie, navigație și energie și modelează peisajul economic al regiunii. Poziția de-a lungul canalului îl face interesant pentru logistică și planificarea rutelor. Ca POI, oferă conținut bun despre port, comerț și dezvoltare urbană.",
       en: "The Port of Ghent is a major inland port with a direct connection to the North Sea. It is strongly tied to industry, shipping, and energy, shaping the region's economy. Its position along the canal makes it interesting for logistics and route planning. As a POI, it offers good content for port, trade, and urban development topics."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Port of Ghent, officially part of the cross-border North Sea Port since its merger with Zeeland Seaports in 2018, is a highly significant inland port located in East Flanders. It is connected to the North Sea via the deep and wide Ghent-Terneuzen Canal, which allows large seagoing vessels to sail directly into the heart of the city's industrial zone. The port has a rich history dating back to the Middle Ages when Ghent was a wealthy textile hub, but modern development surged with the canal's expansion in the 19th and 20th centuries. Today, it specializes deeply in bulk cargo handling, including agricultural products, solid fuels, and building materials. The port area also hosts major international industrial plants, including one of Europe's largest automotive manufacturing facilities, deeply intertwining the port with regional industry."
     },
     facts: {
       de: ["Der Hafen ist einer der groessten Binnenhaefen Europas.", "Er liegt am Kanaal Gent-Terneuzen.", "Industrie und Schifffahrt sind hier eng verbunden.", "Der Hafen ist wichtig fuer Energie und Rohstoffe.", "Die Lage staerkt Gent als Wirtschaftsstandort."],
@@ -1591,7 +1645,7 @@ export const belgiumNatureExtra: POI[] = [
       "A zsiliprendszer lehetővé teszi a legnagyobb óceánjáró teherhajók behajózását is a város szívébe."
     ],
     ro: [],
-    en: []
+    en: ["The crucial Ghent-Terneuzen Canal, completed in 1827, allows deep-sea vessels to travel 32 kilometers inland.", "The port operates one of the largest and most significant automotive assembly plants in Europe, directly exporting vehicles globally.", "In 2018, the Port of Ghent merged with the Dutch Zeeland Seaports to strategically form the massive cross-border North Sea Port.", "It is a major European hub for bulk agricultural products, specifically handling huge volumes of grain and fruit juices.", "The port area is entirely lock-free once vessels pass the Terneuzen locks in the Netherlands, ensuring rapid internal transit."]
   },
   },
   {
@@ -1605,6 +1659,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Liège kikoto a Meuse menti belso kikoto es fontos gazdasagi helyszin. A folyami kozlekedest iparral, disztribucioval es regionalis logisztikaval kapcsolja ossze. A kikotoinfrastruktura szorosan illeszkedik a Meuse-völgybe, es hosszu hagyomanya van. Belgium gazdasagi SEO-jaban Liège kulonosen relevans kikotoi tema.",
       ro: "Portul Liège este un port interior central pe Meuse și un pol economic puternic. El combină transportul fluvial cu industria, distribuția și logistica regională. Infrastructura portuară este integrată strâns în valea Meuse și are o tradiție lungă. Pentru SEO-ul economic despre Belgia, Liège este un subiect portuar foarte relevant.",
       en: "The Port of Liège is a central inland port on the Meuse and a strong economic site. It connects river transport with industry, distribution, and regional logistics. The port infrastructure is tightly integrated into the Meuse valley and has a long tradition. For Belgium economic SEO, Liège is a highly relevant port topic."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Autonomous Port of Li\u00e8ge is the largest inland port in Belgium and firmly ranks as the third-largest river port in all of Europe. Strategically located at the crossroads of the Meuse River and the Albert Canal, it serves as a critical logistics node connecting the industrial heartland of Wallonia to the mighty seaport of Antwerp and the German Rhine basin. Established in 1937, the port complex stretches for over 26 kilometers along the riverbanks, encompassing multiple distinct harbor zones and industrial estates. It has historically driven the region's heavy industries, particularly steelmaking, coal, and construction materials. Today, it is rapidly modernizing into a multimodal logistics hub, smoothly integrating extensive waterway, rail, and road networks to facilitate massive international freight distribution."
     },
     facts: {
       de: ["Der Hafen liegt direkt an der Maas.", "Er gehoert zu den wichtigsten Binnenhaefen Belgiens.", "Der Standort ist eng mit Industrie verbunden.", "Schiffstransport und Lagerlogistik sind zentral.", "Die Lage staerkt die Stadt als Wirtschaftsraum."],
@@ -1622,7 +1682,7 @@ export const belgiumNatureExtra: POI[] = [
       "A kikötő területe 32 különböző zónára oszlik a Meuse folyó mentén."
     ],
     ro: [],
-    en: []
+    en: ["The port complex handles over 21 million tons of diverse waterborne cargo annually.", "It spans 33 distinct port zones spread over a massive 382 hectares of dedicated industrial land.", "The crucial Albert Canal connects the inland port directly to Antwerp, accommodating massive 9,000-ton push-tow convoys.", "It is Europe's third-largest inland port, trailing only behind the massive German river hubs of Duisburg and Paris.", "The Trilogiport terminal is an advanced 120-hectare multimodal platform designed to seamlessly transfer cargo between ships, trains, and trucks."]
   },
   },
   {
@@ -1636,6 +1696,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Haspengouw Belgium legismertebb gyumolcstaja, kulonosen alma- es korte­termeszteserol ismert. A lankas mezoek, kis falvak es a tavaszi viragzas nagyon fotogenne teszik a videket. Ersen kotodik a falusi turizmushoz, a helyi termekekhez es a szezonalis utazasokhoz. SEO-ban a Haspengouw eros kifejezes a mezogazdasag es az elvezet temajaban.",
       ro: "Haspengouw este cea mai cunoscută zonă pomicolă a Belgiei și este renumită mai ales pentru mere și pere. Câmpurile line, satele mici și înflorirea de primăvară fac regiunea foarte fotogenică. Este strâns legată de turismul rural, produsele locale și călătoriile sezoniere. În SEO, Haspengouw este un termen puternic pentru agricultură și gastronomie.",
       en: "Haspengouw is Belgium's best known fruit-growing region, especially for apples and pears. Rolling fields, small villages, and spring blossom make the area highly photogenic. It is strongly tied to rural tourism, local products, and seasonal travel. In SEO, Haspengouw is a strong term for agriculture and food experiences."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Haspengouw, located primarily in the province of Limburg, is the premier fruit-growing region of Belgium and one of the largest in Western Europe. Characterized by its gently rolling hills, fertile loamy soils, and mild microclimate, the landscape is densely carpeted with extensive orchards of apples, pears, cherries, and plums. Every spring, particularly in April, the entire region transforms into a spectacular sea of white and pink blossoms, drawing thousands of tourists and cyclists who navigate the picturesque rural network. The area's rich agricultural heritage is punctuated by grand historic farmsteads, ancient abbeys, and charming rural villages. In late summer and autumn, the bustling harvest season brings a flurry of activity, culminating in numerous local fruit festivals and the production of renowned regional fruit syrups and artisanal ciders."
     },
     facts: {
       de: ["Die Region ist fuer Obstplantagen bekannt.", "Im Fruehling ziehen Bluetenfelder viele Besucher an.", "Der Raum liegt in Suedlimburg.", "Viele lokale Produkte stammen aus den Obstgaerten.", "Die Landschaft eignet sich gut fuer Radtouren."],
@@ -1653,7 +1719,7 @@ export const belgiumNatureExtra: POI[] = [
       "A helyi szirup és gyümölcslé készítésének évszázados hagyományai vannak a térségben."
     ],
     ro: [],
-    en: []
+    en: ["The Haspengouw is widely recognized as the second-largest contiguous fruit-growing region in all of Europe.", "In spring, millions of blossoming apple and pear trees turn the entire landscape into a vibrant sea of white and pink.", "The region is particularly famous for producing the sweet 'Conference' pear, a major agricultural export for Belgium.", "The historic city of Sint-Truiden functions as the bustling commercial capital and primary market hub for the region's fruit.", "Many local farmers still produce 'Limburgse stroop', a thick, traditional, dark fruit syrup made from slow-cooked pears and apples."]
   },
   },
   {
@@ -1667,6 +1733,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A genki C-mine eros peldaja az atalakult banyaszati teruleteknek es a kreativ gazdasagnak. A helyszin ipari tortenelmet, kulturtereket es modern varosfejlodest kapcsol ossze. A latogatók itt tisztan latjak az utat a szenrol a designig es az esemenyekig. SEO-ban a C-mine tokeletes tema az ipari orokseg es az ujrahasznositas kapcsan.",
       ro: "C-mine din Genk este un exemplu puternic de transformare de la minerit la economia creativă. Zona combină istoria industrială, spațiile culturale și dezvoltarea urbană modernă. Vizitatorii văd aici o tranziție clară de la cărbune la design și evenimente. Pentru SEO, C-mine este un subiect perfect despre patrimoniul industrial și reconversie.",
       en: "C-mine in Genk is a strong example of transformation from mining to the creative economy. The site combines industrial history, cultural venues, and modern urban development. Visitors clearly see the shift from coal to design and events. For SEO, C-mine is a perfect topic for industrial heritage and adaptive reuse."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "C-mine in Genk is a stunning example of successful industrial heritage repurposing, built on the vast grounds of the former Winterslag coal mine. Operational from 1914 until its closure in 1988, the mine was a crucial engine of the Limburg economy. Rather than demolishing the imposing infrastructure, the city of Genk ingeniously transformed the site into a dynamic hub for creativity, culture, and design. The towering, iconic twin steel headgears still dominate the skyline, while the massive brick energy buildings now house modern theaters, design studios, and a unique cinema complex. Visitors can explore the 'C-mine Expedition', an immersive underground tour descending into the old ventilation tunnels to experience the grueling daily life of a 20th-century coal miner. It stands as a powerful tribute to the region's industrial past while looking firmly toward the future."
     },
     facts: {
       de: ["Das Areal basiert auf einem ehemaligen Bergwerksstandort.", "Heute gibt es dort Kultur- und Eventnutzungen.", "Die Industriegeschichte bleibt im Ort deutlich sichtbar.", "Genk war stark vom Kohlebergbau gepraegt.", "C-mine ist ein Symbol fuer Strukturwandel."],
@@ -1684,7 +1756,7 @@ export const belgiumNatureExtra: POI[] = [
       "A hatalmas gépcsarnok ma koncerteknek, kiállításoknak és dizájnstúdióknak ad otthont."
     ],
     ro: [],
-    en: []
+    en: ["The towering twin steel headgears of the former Winterslag mine remain standing and are recognized as protected national monuments.", "The immersive 'C-mine expedition' allows visitors to descend six meters underground to vividly experience the historic mining tunnels.", "The beautifully restored central energy building now houses a state-of-the-art cultural center and a multi-screen cinema.", "At its peak in the mid-20th century, the massive Winterslag mine employed over 6,000 local and immigrant workers.", "A prominent outdoor feature is an intricate, challenging steel labyrinth designed by the renowned artistic duo Gijs Van Vaerenbergh."]
   },
   },
   {
@@ -1698,6 +1770,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Brusszeli varoshaza a Grand Place szive es Belgium egyik legszebb gotikus epulete. Magas tornya évszazadok ota meghatarozza a belvaros latvanyat. Az epulet a varostortenetet, a politikat es az UNESCO hangulatot kepviseli. Brusszel SEO-jaban ez kihagyhatatlan landmark.",
       ro: "Primăria din Bruxelles este inima pieței Grand Place și una dintre cele mai frumoase clădiri gotice din Belgia. Turnul său înalt definește silueta centrului de secole. Clădirea simbolizează istoria urbană, politica și atmosfera UNESCO. Pentru SEO despre Bruxelles, este un landmark esențial.",
       en: "Brussels Town Hall is the heart of the Grand Place and one of Belgium's most beautiful Gothic buildings. Its tall tower has defined the city center skyline for centuries. The building represents urban history, politics, and UNESCO atmosphere. For Brussels SEO, it is an essential landmark."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Brussels Town Hall is an absolute masterpiece of flamboyant Brabantine Gothic architecture, spectacularly dominating the city's Grand Place. Constructed in distinct phases during the 15th century, it is the only remaining medieval building on the square, having miraculously survived the devastating French bombardment of 1695. The building's most striking feature is its incredibly elegant, soaring spire, topped with a golden statue of Saint Michael slaying a demon. The facade is intricately adorned with hundreds of detailed statues representing local nobles, saints, and allegorical figures. Inside, the opulent halls are richly decorated with majestic tapestries, elaborate wooden carvings, and magnificent historical paintings. It remains a fully functional civic building and the prestigious seat of the Mayor of the City of Brussels."
     },
     facts: {
       de: ["Das Rathaus gehoert zum UNESCO-Welterbe.", "Es steht direkt an der Grand Place.", "Der Turm ist eines der markantesten Elemente Bruessels.", "Die Fassade ist reich mit Figuren und Details geschmueckt.", "Das Gebaeude ist ein Kernsymbol der Hauptstadt."],
@@ -1715,7 +1793,7 @@ export const belgiumNatureExtra: POI[] = [
       "A belső termeket pompás fali kárpitok és történelmi festmények díszítik."
     ],
     ro: [],
-    en: []
+    en: ["The incredibly elegant main spire soars to a height of 96 meters and leans slightly off-center from the main entrance.", "The glittering copper statue of Saint Michael at the very top stands 5 meters tall and acts as a functional weathervane.", "It is the sole medieval structure on the Grand Place to survive the massive French artillery bombardment in 1695.", "The detailed facade features exactly 137 stone statues, although most are 19th-century reproductions of the weathered originals.", "Legend claims the original architect leaped from the tower after realizing he had designed the building completely asymmetrical."]
   },
   },
   {
@@ -1729,6 +1807,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Durbuy egy kicsi ardenneki város, szűk történelmi központtal és erős kirándulóhangulattal. A település az Ourthe folyó kanyarulatában fekszik, ezért különösen festői. A látogatók az óvárosi utcák, a kilátópontok és a szabadtéri programok miatt érkeznek. A vallon kisvárosokra kereső tartalmakban Durbuy nagyon erős célpont.",
       ro: "Durbuy este un oraș mic din Ardeni, cu un centru istoric compact și un puternic caracter de excursie. Orașul se află într-o buclă a râului Ourthe, ceea ce îi dă un aspect foarte pitoresc. Vizitatorii vin pentru străduțe, puncte panoramice și activități în aer liber. Pentru căutări despre orașe mici din Valonia, Durbuy este foarte atractiv.",
       en: "Durbuy is a small Ardennes town with a compact historic core and a strong day-trip feel. The town sits in a bend of the Ourthe River, which makes it especially scenic. Visitors come for the old lanes, viewpoints, and outdoor activities. For searches about small Walloon towns, Durbuy is highly attractive."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Durbuy affectionately claims the title of 'the smallest city in the world', a status it proudly dates back to a town charter granted in the year 1331. Nestled deep within a tight bend of the Ourthe River in the Ardennes, this enchanting settlement perfectly preserves its medieval charm. The historic center consists of a tight labyrinth of winding, narrow cobblestone streets flanked by beautifully preserved 17th-century stone houses and a romantic, albeit private, castle overlooking the river. The town is flanked by impressive natural limestone rock formations, including the famous Anticline of Durbuy, a massive folded rock face over 300 million years old. Today, Durbuy is a highly popular tourist destination, renowned for its excellent gastronomy, local artisanal products, and exceptionally picturesque atmosphere."
     },
     facts: {
       de: ["Liegt im Tal der Ourthe.", "Wird oft als sehr kleine Stadt vermarktet.", "Das Zentrum ist kompakt und gut zu Fuß erlebbar.", "Die Umgebung ist beliebt für Kajak und Wandern.", "Starkes Keyword für Ardennen-Reisen."],
@@ -1746,7 +1830,7 @@ export const belgiumNatureExtra: POI[] = [
       "A közeli Ourthe folyó népszerű helyszín a kajakozáshoz és a horgászathoz."
     ],
     ro: [],
-    en: []
+    en: ["Durbuy received its official city charter in 1331, proudly maintaining its self-proclaimed title as 'the smallest city in the world'.", "The impressive 'Anticline of Durbuy' is a massive, exposed geological fold of limestone rock dating back over 300 million years.", "The historic center has a permanent population of roughly 400 residents, but welcomes over a million tourists annually.", "The Durbuy Castle sits dramatically on a rock overlooking the town, though it remains a privately owned aristocratic residence.", "The town features a unique Topiary Park containing over 250 precisely sculpted boxwood bushes, some over a century old."]
   },
   },
   {
@@ -1760,6 +1844,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Bouillon egy ardenneki város, amely szorosan a folyókanyar és a vár köré épült. A Semois partján fekvő helyszín egyszerre vonzó a természet- és a történelmi turizmus számára. A látogatók a panoráma, a víz és a középkori hangulat keverékét kedvelik. A regionális utazási tartalmakban Bouillon nagyon erős célpont.",
       ro: "Bouillon este un oraș din Ardeni dezvoltat strâns în jurul unei bucle de râu și a cetății sale. Poziția pe Semois îl face interesant atât pentru turismul de natură, cât și pentru cel istoric. Vizitatorii apreciază amestecul dintre panoramă, apă și atmosferă medievală. Pentru conținutul de călătorie regional, Bouillon este o țintă foarte bună.",
       en: "Bouillon is an Ardennes town built tightly around its river bend and castle. Its position on the Semois makes it interesting for both nature and history travel. Visitors value the mix of views, water, and medieval atmosphere. For regional travel content, Bouillon is a strong target."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bouillon is a highly picturesque town located in the deep south of the Belgian Ardennes, dramatically situated in a tight, meandering loop of the Semois River. The town is absolutely dominated by the massive Bouillon Castle, a sprawling 8th-century fortress perched high on a rocky ridge that heavily influenced the region's medieval history. It is most famously associated with Godfrey of Bouillon, the legendary Crusader knight who sold his estate to finance his journey to Jerusalem. Today, the town deeply embraces its medieval heritage, hosting vibrant historical festivals, lively summer markets, and spectacular daily falconry displays within the castle walls. Surrounded by dense, rolling forests, Bouillon also serves as a premier base for outdoor activities, offering miles of scenic hiking trails and popular kayak routes along the winding river."
     },
     facts: {
       de: ["Bekannt für die Burg von Bouillon.", "Liegt direkt an der Semois.", "Die Stadt ist ein klassisches Ardennenziel.", "Beliebt für Spaziergänge und Aussichtspunkte.", "Gut für Historie- und Natur-Suchbegriffe."],
@@ -1777,7 +1867,7 @@ export const belgiumNatureExtra: POI[] = [
       "Minden évben megrendezik a középkori fesztivált, ahol lovagi tornák szórakoztatják a népet."
     ],
     ro: [],
-    en: []
+    en: ["The town is inextricably linked to Godfrey of Bouillon, a key leader of the First Crusade in 1096.", "The massive Bouillon Castle features a sprawling network of dark, underground passages carved directly into the bedrock.", "The Semois River makes such an extreme meander around the town that it nearly completes a full 360-degree loop.", "The town is famous for producing high-quality artisanal Ardennes ham and traditional local tobacco.", "A dramatic, illuminated night tour of the castle allows visitors to explore the medieval ruins entirely by torchlight."]
   },
   },
   {
@@ -1791,6 +1881,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Dinant egy jellegzetes meuse-i város meredek sziklafalakkal és kompakt belvárossal. A folyó és a citadella közti fekvés azonnal felismerhetővé teszi a helyet. Sok látogató a panorámát, a vízi programokat és a zenei örökséget köti Dinanthoz. Vallónia-utazásoknál Dinant különösen erős keresési név.",
       ro: "Dinant este un oraș distinctiv de pe Meuse, cu pereți stâncoși abrupți și un centru foarte compact. Poziția între râu și cetate îl face ușor de recunoscut. Mulți vizitatori asociază Dinant cu panorama, activitățile pe apă și istoria muzicală. Pentru excursiile în Valonia, Dinant este un nume foarte căutat.",
       en: "Dinant is a distinctive Meuse town with steep cliffs and a very compact center. Its position between the river and the citadel makes it instantly recognizable. Many visitors connect Dinant with views, water activities, and musical heritage. For Wallonia travel, Dinant is a highly searched name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Dinant is a breathtakingly scenic town in Wallonia, dramatically squeezed along the banks of the Meuse River directly beneath towering, sheer limestone cliffs. The town is instantly recognizable by the distinctive, bulbous onion dome of the Collegiate Church of Notre Dame and the imposing Citadel that looms 100 meters above on the rock face. Dinant holds a special place in global musical history as the birthplace of Adolphe Sax, the ingenious inventor of the saxophone, a legacy celebrated with numerous brass statues scattered across the town's main bridge. The town suffered heavily during both World Wars, yet it has beautifully rebuilt itself into a vibrant tourist hub. Visitors flock here to enjoy relaxing river cruises, explore the nearby spectacular caves, and taste the infamous 'Couque de Dinant', an incredibly hard local honey biscuit."
     },
     facts: {
       de: ["Liegt direkt an der Maas.", "Die Zitadelle prägt die Silhouette.", "Dinant ist mit Adolphe Sax verbunden.", "Beliebt für Bootstouren und Fotospots.", "Starker Bezug zu Maas-Tourismus."],
@@ -1808,7 +1904,7 @@ export const belgiumNatureExtra: POI[] = [
       "A városról kapta nevét a híres Leffe sör, amelyet eredetileg a közeli apátságban főztek."
     ],
     ro: [],
-    en: []
+    en: ["Dinant is globally famous as the 1814 birthplace of Adolphe Sax, the brilliant inventor of the saxophone.", "The massive Citadel towering above the town can be reached by climbing a punishing staircase consisting of exactly 408 steps.", "The imposing Collegiate Church of Notre Dame features a highly unusual, striking pear-shaped 16th-century bell tower.", "The town produces the 'Couque de Dinant', a traditional honey biscuit baked so hard it must be broken and sucked, not bitten.", "In August 1914, the town was the site of a brutal World War I massacre where 674 civilians were executed by German forces."]
   },
   },
   {
@@ -1822,6 +1918,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Huy egy kompakt meuse-i város, erős történelmi folyóparti hangulattal. A település meredek utcáiról, citadellájáról és a folyó menti kirándulóútvonalak közelségéről ismert. Sokkal kisebb és nyugodtabb, mint a nagy vallon központok. Helyi SEO-tartalmakhoz Huy nagyon jó választás.",
       ro: "Huy este un oraș compact de pe Meuse, cu o puternică atmosferă istorică pe malul apei. Este cunoscut pentru străzile abrupte, cetate și apropierea de traseele de pe râu. Pare mai mic și mai liniștit decât centrele mari din Valonia. Pentru conținut SEO local, Huy este o alegere bună.",
       en: "Huy is a compact Meuse town with a strong historic riverside feel. It is known for steep streets, a citadel, and easy access to river routes. It feels smaller and quieter than the major Walloon centers. For local SEO content, Huy is a clean fit."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Huy is an ancient, historically significant town beautifully located at the confluence of the Meuse and Hoyoux rivers in the province of Li\u00e8ge. It is one of the oldest settlements in Belgium, boasting a rich heritage that stretches back to the Roman era. The town's skyline is spectacularly defined by two major landmarks: the massive 'Fort de Huy', a formidable 19th-century military citadel built by the Dutch on a high rocky outcrop, and the magnificent Collegiate Church of Notre Dame, renowned for its spectacular Gothic rose window known as 'Li Rondia'. Historically, Huy was a prosperous center for metallurgy and winemaking, traditions that are slowly being revived on the sunny river slopes today. The historic center features charming cobblestone squares adorned with intricate bronze fountains dating back to the 15th century."
     },
     facts: {
       de: ["Am Ufer der Maas gelegen.", "Die Zitadelle ist ein wichtiger Aussichtspunkt.", "Die Stadt ist als Etappenort bekannt.", "Die Uferlage macht sie sehr fotogen.", "Gut für Suchanfragen zu kleineren Maasstädten."],
@@ -1839,7 +1941,7 @@ export const belgiumNatureExtra: POI[] = [
       "A város híres a rézművességéről, amelynek hagyományai a középkorig nyúlnak vissza."
     ],
     ro: [],
-    en: []
+    en: ["The Collegiate Church of Notre Dame features 'Li Rondia', one of the largest and most spectacular Gothic rose windows in Belgium.", "The massive Fort de Huy was primarily constructed by Dutch forces between 1818 and 1823 to defend against French attacks.", "During World War II, the imposing fort was heavily utilized by the German army as a brutal political prison and transit camp.", "Huy is famous for 'Le Mur de Huy' (The Wall of Huy), an incredibly steep hill climb featured in the Fl\u00e8che Wallonne cycling race.", "The town square is proudly adorned with 'Li Bassinia', an intricate bronze fountain originally cast in the year 1406."]
   },
   },
   {
@@ -1853,6 +1955,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Rochefort az Ardennek peremén fekszik, és városi környezetet sok természettel kapcsol össze. A település jó kiindulópont barlangokhoz, erdőkhöz és nyugodt túrákhoz. Helyi sörkészítéséről és regionális termékeiről is ismert. Rochefort ezért jó kulcsszó természet- és gasztroturizmushoz.",
       ro: "Rochefort se află la marginea Ardenilor și combină mediul urban cu multă natură. Orașul este un punct bun de plecare pentru peșteri, păduri și drumeții liniștite. Este cunoscut și pentru tradiția locală a berii și produsele regionale. Asta îl face un termen bun pentru turismul de natură și gastronomie.",
       en: "Rochefort sits on the edge of the Ardennes and combines an urban setting with plenty of nature. The town is a good base for caves, forests, and calm hikes. It is also known for local brewing tradition and regional products. That makes Rochefort a good keyword for nature and food travel."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Rochefort is a picturesque town nestled in the lush Famenne region, widely celebrated for its profound brewing heritage and stunning subterranean landscapes. It is most famous globally for the Trappist Abbey of Notre-Dame de Saint-R\u00e9my, where dedicated monks have been brewing exceptional, strong dark ales since the 16th century. While the secretive abbey is closed to the public to preserve its spiritual tranquility, the town deeply embraces this legacy with lively cafes serving the revered beer. Beyond gastronomy, Rochefort is situated in a fascinating karst geological zone, directly above the spectacular Cave of Lorette, known for its sheer vertical drops and dramatic stalactite formations. The town also features the romantic ruins of a medieval castle that once commanded the surrounding valley, making it a perfect blend of history, nature, and Trappist culture."
     },
     facts: {
       de: ["Am Rand der Ardennen gelegen.", "Bekannt für Bier und regionale Produkte.", "Gut als Basis für Naturausflüge.", "Die Umgebung ist von Wäldern geprägt.", "Starker Bezug zu Höhlen und Wanderwegen."],
@@ -1870,7 +1978,7 @@ export const belgiumNatureExtra: POI[] = [
       "Minden évben itt rendezik meg a Nemzetközi Nevetés Fesztivált, amely Belgium egyik legnépszerűbb humorrendezvénye."
     ],
     ro: [],
-    en: []
+    en: ["Rochefort produces one of only eleven authentic, officially recognized Trappist beers in the entire world.", "The highly secretive Trappist Abbey of Notre-Dame de Saint-R\u00e9my is strictly closed to the general public to protect monastic life.", "The dramatic Cave of Lorette plunges to a staggering depth of 60 meters and features an impressive, echoing subterranean hall.", "The ruins of the imposing 11th-century Castle of the Counts of Rochefort offer sweeping panoramic views over the Famenne valley.", "The town annually hosts a major, incredibly popular international comedy festival during the spring season."]
   },
   },
   {
@@ -1884,6 +1992,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Damme egy kicsi flamand város Brugge és a tengerpart között. A település nyugodt hangulatáról, sík tájáról és történelmi látképéről ismert. A kerékpárosok és egynapos kirándulók gyakran megállnak itt. Kis nyugat-flandriai úti célként Damme jól látható a regionális keresésekben.",
       ro: "Damme este un mic oraș flamand plin de farmec, între Bruges și coastă. Este cunoscut pentru atmosfera liniștită, peisajul plat și silueta istorică. Cicliștii și vizitatorii de o zi îl folosesc adesea ca oprire. Ca destinație mică în Flandra de Vest, Damme are vizibilitate bună regional.",
       en: "Damme is a small Flemish town full of charm between Bruges and the coast. It is known for its calm atmosphere, flat landscape, and historic skyline. Cyclists and day-trippers often use Damme as a stopover. As a small West Flanders destination, Damme has good regional visibility."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Damme is a remarkably preserved historic town located just a few kilometers northeast of Bruges, deeply intertwined with the medieval history of Flanders. Founded in the 12th century, it originally flourished as the bustling primary outport for Bruges, connected by a deep canal that allowed large merchant ships to dock. However, the inevitable silting of the Zwin channel eventually destroyed its maritime economy, freezing the town's architectural development in time. Today, Damme boasts a beautifully quiet, picturesque center featuring an impressive Gothic town hall, the imposing ruins of the Church of Our Lady, and traditional Dutch-style windmills. It has also cultivated a modern reputation as a charming 'book village', featuring numerous antiquarian bookshops and regular literary markets that draw collectors from across Europe."
     },
     facts: {
       de: ["Liegt nahe Brügge.", "Beliebt bei Radfahrern.", "Die Landschaft ist typisch flämisch und flach.", "Gut für kurze Tagesausflüge.", "Starker Bezug zu Westflandern."],
@@ -1901,7 +2015,7 @@ export const belgiumNatureExtra: POI[] = [
       "A gótikus városháza és a Szent Vér-templom a város aranykorának emlékei."
     ],
     ro: [],
-    en: []
+    en: ["Damme originally functioned as the crucial, bustling deep-water outport for the wealthy merchant city of Bruges in the 12th century.", "The town's economic decline due to severe silting perfectly preserved its stunning medieval architectural character.", "It is widely known today as a prominent 'book town', hosting numerous specialized antiquarian bookshops and monthly literary fairs.", "The local folklore is heavily centered on Tijl Uilenspiegel, a legendary prankster who has a dedicated museum in the town.", "The exceptionally straight Damse Vaart canal connects the town directly to Bruges, lined with spectacular, towering poplar trees."]
   },
   },
   {
@@ -1915,6 +2029,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Aalst egy élénk város Kelet-Flandriában, erős helyi karakterrel. A település karneváljáról, kereskedelméről és a Dender folyó menti kompakt központjáról ismert. Jó téma a valódi flamand mindennapi kultúráról szóló tartalmakhoz. A látogatók városi életet és regionális identitást egyszerre találnak itt.",
       ro: "Aalst este un oraș animat din Flandra de Est, cu un caracter local puternic. Este cunoscut pentru carnaval, comerț și un centru compact de-a lungul râului Dender. Se potrivește bine pentru conținut despre cultura flamandă autentică de zi cu zi. Vizitatorii găsesc aici un amestec de viață urbană și identitate regională.",
       en: "Aalst is a lively city in East Flanders with a strong local character. It is known for carnival, trade, and a compact center on the Dender River. The city works well for content about authentic everyday Flemish culture. Visitors find a mix of urban life and regional identity here."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Aalst is a vibrant, historically significant city located on the Dender River in East Flanders. It was once a powerful and prosperous medieval center, which is still evident in its beautiful central square featuring the oldest surviving town hall in the Low Countries, dating back to the 13th century. The city is also famously associated with Dirk Martens, the pioneering printer who set up the first printing press in the region in 1473. However, Aalst is most celebrated today for its incredibly raucous and deeply traditional Carnival. Recognizing its unique cultural value, the Aalst Carnival is a spectacular three-day event filled with elaborate, satirical floats, cross-dressing parades, and a fiercely independent local spirit. It seamlessly blends its proud historical roots with an infectious, rebellious modern energy."
     },
     facts: {
       de: ["Liegt an der Dender.", "Bekannt für seinen Karneval.", "Ein wichtiges Zentrum in Ostflandern.", "Das Zentrum ist kompakt und begehbar.", "Gut für lokale Stadt- und Festtagsuche."],
@@ -1932,7 +2052,7 @@ export const belgiumNatureExtra: POI[] = [
       "Szent Márton-temploma Peter Paul Rubens egyik híres festményének ad otthont."
     ],
     ro: [],
-    en: []
+    en: ["The majestic belfry of Aalst, attached to the ancient alderman's house, proudly houses a remarkable 52-bell carillon.", "Dirk Martens, a native of Aalst, established the very first printing press in the Southern Netherlands here in 1473.", "The city's massive, satirical, and highly traditional three-day Carnival is one of the largest and most famous in all of Belgium.", "The imposing St. Martin's Church remains famously unfinished, yet houses a spectacular painting by the master Peter Paul Rubens.", "Historically, Aalst was a heavily contested frontier town situated exactly on the border between the Duchy of Brabant and the County of Flanders."]
   },
   },
   {
@@ -1946,6 +2066,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Oudenaarde a Schelde partján fekvő nyugodt város, és jó belépő a flamand dombvidékhez. A település szorosan kötődik a kerékpársporthoz, a piacokhoz és a regionális építészethez. Fekvése miatt Flandria és az Ardennek között nagyon sokoldalú hatást kelt. Regionális utazási témákban Oudenaarde alulértékelt név.",
       ro: "Oudenaarde este un oraș liniștit pe Schelde și o bună poartă către dealurile flamande. Localitatea este strâns legată de ciclism, piețe și arhitectură regională. Datorită poziției sale între Flandra și Ardeni, pare foarte versatilă. Pentru temele de călătorie regională, Oudenaarde este un nume subevaluat.",
       en: "Oudenaarde is a quiet city on the Scheldt and a good entry point to the Flemish hills. The town is closely tied to cycling, markets, and regional architecture. Because of its position between Flanders and the Ardennes, it feels very versatile. For regional travel topics, Oudenaarde is an underrated name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Oudenaarde, gracefully situated on the banks of the Scheldt River, is widely recognized as the historical jewel of the Flemish Ardennes. During the 15th and 16th centuries, the city amassed immense wealth through the production of exquisite tapestries, which were highly sought after by European royalty and the high nobility. This profound historic prosperity is perfectly crystallized in the magnificent Town Hall, a flawless masterpiece of flamboyant Brabantine Gothic architecture that dominates the central market square. Today, Oudenaarde is arguably just as famous for its deep connections to professional cycling. It serves as the grueling finish line for the legendary Tour of Flanders (Ronde van Vlaanderen) classic race, housing an expansive, interactive museum dedicated entirely to the sport's rich local history."
     },
     facts: {
       de: ["Liegt an der Schelde.", "Bekannt für Radsport und Klassiker.", "Die Stadt hat ein kompaktes historisches Zentrum.", "Gut als Basis für Ausflüge in Ostflandern.", "Starker regionaler Markenname."],
@@ -1963,7 +2089,7 @@ export const belgiumNatureExtra: POI[] = [
       "A város határában zajlott 1708-ban a híres oudenaarde-i csata a spanyol örökösödési háborúban."
     ],
     ro: [],
-    en: []
+    en: ["The highly ornate Gothic Town Hall features a stunning collection of original, meticulously preserved 16th-century tapestries.", "Oudenaarde was historically world-renowned for its 'Verdures', a specific, highly detailed type of tapestry heavily featuring lush green foliage.", "The city serves as the permanent, iconic finish line for the world-famous 'Tour of Flanders' one-day professional cycling race.", "The massive Centrum Ronde van Vlaanderen museum offers an incredibly detailed, interactive history of Flemish cycling.", "The local Liefmans brewery has been continuously producing highly distinctive, dark sour cherry beers since the year 1679."]
   },
   },
   {
@@ -1977,6 +2103,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Roeselare egy nyugat-flandriai város erős kereskedelmi és hétköznapi karakterrel. A település bevásárlóéletet, helyi ipart és rövid távolságot kínál a régió kisebb helyeihez. Az utazók számára praktikus bázis Brugge és a szárazföld között. Roeselare jól működik a kevésbé zsúfolt Belgium-listákban.",
       ro: "Roeselare este un oraș din Flandra de Vest cu un caracter comercial și cotidian puternic. Localitatea combină viața de cumpărături, industria locală și accesul rapid la orașe mici din regiune. Pentru călători este o bază practică între Bruges și interiorul țării. Roeselare merge bine în listele despre Belgia mai puțin aglomerată.",
       en: "Roeselare is a West Flemish city with a strong commercial and everyday character. The town combines shopping life, local industry, and short access to smaller places in the region. For travelers, it is a practical base between Bruges and the inland area. Roeselare works well in less crowded Belgium lists."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Roeselare is a bustling, industrially significant city located in the heart of the West Flanders province. Historically, the city's wealth was built on the flourishing linen and textile industries, which utilized the waters of the Mandel River. Today, it has evolved into a major commercial and agricultural hub, deeply embedded in a region often referred to as the 'vegetable garden of Europe' due to its extensive high-tech farming and food processing industries. Roeselare is also a city of deep cultural passions, home to the massive KOERS museum, which celebrates Belgium's absolute obsession with bicycle racing. The city perfectly balances its strong industrial, working-class roots with vibrant modern shopping districts and a thriving local culinary scene."
     },
     facts: {
       de: ["In Westflandern gelegen.", "Bekannt als Handelsstadt.", "Praktischer Knotenpunkt zwischen Küste und Inland.", "Die Innenstadt ist gut erreichbar.", "Guter Suchbegriff für Alltagsstadt-Content."],
@@ -1994,7 +2126,7 @@ export const belgiumNatureExtra: POI[] = [
       "A közeli Sterrebos park és a Rumbeke kastély népszerű pihenőhely a város szélén."
     ],
     ro: [],
-    en: []
+    en: ["Roeselare proudly houses the KOERS Museum of Cycle Racing, the most comprehensive cycling museum in the entire country.", "The city is the global headquarters of the Rodenbach brewery, world-famous for its complex, oak-aged Flemish red-brown ales.", "It serves as a massive, central agricultural hub for West Flanders, heavily specializing in modern vegetable processing and distribution.", "The historic city center was nearly completely destroyed by severe artillery fire during the devastating First World War.", "The grand local Town Hall features an ornate, 18th-century Rococo wing that starkly contrasts with its older, austere structures."]
   },
   },
   {
@@ -2008,6 +2140,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Turnhout egy kompakt város Antwerpen tartomány északi részén, erős regionális identitással. A település nyomdai és kártyakészítési hagyományairól, valamint kellemes központjáról ismert. A holland határ közelében fekszik, így határ menti szempontból is érdekes. A regionális városlistákban Turnhout értékes kiegészítés.",
       ro: "Turnhout este un oraș compact din nordul provinciei Antwerpen, cu o identitate regională clară. Localitatea este cunoscută pentru tradiția tipografică și de cărți de joc, precum și pentru centrul plăcut. Se află aproape de granița olandeză, deci are și interes de frontieră. Pentru listele regionale de orașe, Turnhout este un plus valoros.",
       en: "Turnhout is a compact city in the north of Antwerp province with a clear regional identity. The town is known for printing and playing-card traditions, plus a pleasant center. It sits close to the Dutch border, which adds cross-border interest. For regional city lists, Turnhout is a valuable addition."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Turnhout is a vibrant city located in the northern province of Antwerp, historically known as the primary capital of the scenic Campine (Kempen) region. The city's identity is inextricably linked to the global paper and printing industry, most notably serving as the world's undisputed capital of playing card manufacturing. The massive Carta Mundi factory located here produces billions of playing cards and board games exported worldwide, a unique heritage beautifully documented in the city's dedicated National Playing Card Museum. Architecturally, Turnhout is renowned for its perfectly preserved Beguinage, a tranquil, walled medieval community recognized as a UNESCO World Heritage site, and the imposing Castle of the Dukes of Brabant, which now impressively functions as a modern courthouse."
     },
     facts: {
       de: ["Liegt nahe der niederländischen Grenze.", "Bekannt für Karten- und Drucktradition.", "Die Stadt hat einen kompakten Kern.", "Guter Ausgangspunkt für Kempen-Ausflüge.", "Starkes Thema für Nordflandern."],
@@ -2025,7 +2163,7 @@ export const belgiumNatureExtra: POI[] = [
       "A város beginaudvara az UNESCO Világörökség része, és rendkívül jó állapotban maradt fenn."
     ],
     ro: [],
-    en: []
+    en: ["Turnhout is globally recognized as the 'City of Playing Cards', home to Cartamundi, the world's largest manufacturer of cards and board games.", "The magnificent local Beguinage, founded in the 13th century, is a highly protected UNESCO World Heritage site.", "The striking Castle of the Dukes of Brabant, complete with a massive moat, currently operates as the city's main courthouse.", "The specialized National Playing Card Museum features massive, fully operational antique steam-powered printing presses.", "Historically, the city's wealth was built on a massive, highly successful ticking (a tough linen fabric) and lace industry."]
   },
   },
   {
@@ -2039,6 +2177,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Hasselt Limburg tartomány fővárosa, és barátságos belépő Kelet-Flandria felé. A város divatról, gasztronómiáról és kellemes belvárosról ismert. Fekvése miatt jó bázis természetjáráshoz és kisebb települések felfedezéséhez. Hasselt ezért sokoldalú találat a regionális tartalmakhoz.",
       ro: "Hasselt este capitala provinciei Limburg și o intrare prietenoasă în estul Flandrei. Orașul este cunoscut pentru modă, gastronomie și un centru plăcut. Datorită poziției sale, este o bază bună pentru natură și pentru localități mai mici. Hasselt este deci o potrivire versatilă pentru conținut regional.",
       en: "Hasselt is the capital of Limburg province and a friendly entry point to eastern Flanders. The city is known for fashion, food, and a pleasant city center. Its location makes it a good base for nature trips and nearby small towns. Hasselt is therefore a versatile match for regional content."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Hasselt is the dynamic and stylish capital of the Limburg province, widely renowned for its elegant boutiques, high-end gastronomy, and exceptional local hospitality. Often referring to itself as the 'Capital of Taste', the city boasts an outsized number of excellent restaurants and fashion houses. Hasselt's historical wealth was significantly built on the widespread production of jenever (a traditional juniper-flavored spirit), a deep cultural heritage thoroughly explored in the expansive National Jenever Museum. A major local highlight is the stunning Japanese Garden, the largest of its kind in Europe, offering a serene landscape of cherry blossoms, koi ponds, and traditional tea houses. The city effortlessly combines its rich historical traditions with a highly modern, cosmopolitan lifestyle."
     },
     facts: {
       de: ["Hauptstadt der Provinz Limburg.", "Bekannt für Mode und Genuss.", "Gut angebunden für Tagesausflüge.", "Die Innenstadt ist kompakt und lebendig.", "Starker Bezug zu Ostflandern und Limburg."],
@@ -2056,7 +2200,7 @@ export const belgiumNatureExtra: POI[] = [
       "Hasselt főtere, a Grote Markt, mindig élettel teli a számos kávézó és terasz miatt."
     ],
     ro: [],
-    en: []
+    en: ["Hasselt is home to the largest authentic Japanese Garden in Europe, covering an impressive 2.5 hectares of meticulously designed landscape.", "The city is deeply famous for its traditional Jenever production, fiercely celebrated with a massive, city-wide festival every October.", "In a pioneering move, Hasselt became globally famous in 1997 for introducing entirely free public bus transportation for all residents.", "The expansive National Jenever Museum is appropriately housed in a fully restored, fully operational 19th-century distillery.", "The towering, spectacular St. Quentin's Cathedral features an impressive 63-bell carillon that frequently plays modern pop songs."]
   },
   },
   {
@@ -2070,6 +2214,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Tongeren Belgium legrégebbi városaként ismert, és a római múltat kellemes városképpel kapcsolja össze. A település áttekinthető, és az antikvitásokról, a piacokról és az archeológiai nyomokról ismert. Ezért Tongeren nagyon jó történelmi utazási témákhoz. A város jól kiegészíti a kelet-belgiumi Limburg-fedést.",
       ro: "Tongeren este considerat cel mai vechi oraș din Belgia și combină istoria romană cu un aspect urban plăcut. Localitatea este ușor de parcurs și este cunoscută pentru antichități, piețe și urme arheologice. De aceea Tongeren este foarte bun pentru temele de călătorie istorică. Orașul completează bine acoperirea Limburgului din estul Belgiei.",
       en: "Tongeren is considered Belgium's oldest city and combines Roman history with a pleasant cityscape. The town is manageable in size and is known for antiques, markets, and archaeological traces. That makes Tongeren very suitable for historical travel themes. The city also strengthens Limburg coverage in eastern Belgium."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Tongeren proudly holds the title of the oldest town in Belgium, with a rich and visible history dating back to the height of the Roman Empire. Originally established in 15 BC as 'Atuatuca Tungrorum', it served as a crucial Roman administrative and military hub. The town is most famous for the legendary Ambiorix, the fierce leader of the local Eburones tribe who devastatingly rebelled against Julius Caesar's legions. Today, an imposing bronze statue of Ambiorix dominates the vibrant central market square. Visitors can explore extensive remnants of massive Roman walls and the highly acclaimed Gallo-Roman Museum, which houses an extraordinary collection of ancient artifacts. Every Sunday morning, the town transforms into the largest and most vibrant antique market in the Benelux region, drawing serious collectors from across Europe."
     },
     facts: {
       de: ["Gilt als älteste Stadt Belgiens.", "Stark mit römischer Geschichte verbunden.", "Bekannt für Antiquitätenmarkt und Zentrum.", "Gut für Geschichts-SEO und Limburg-Reisen.", "Das Stadtbild ist kompakt und klar."],
@@ -2087,7 +2237,7 @@ export const belgiumNatureExtra: POI[] = [
       "Ambiorix, az eburók királyának szobra a főtéren a rómaiak elleni ellenállás emléke."
     ],
     ro: [],
-    en: []
+    en: ["Tongeren is officially recognized as the absolute oldest town in Belgium, founded by the Romans in 15 BC.", "The massive local Gallo-Roman Museum was proudly named the European Museum of the Year in 2011.", "A gigantic, fierce bronze statue of Ambiorix, the local chieftain who famously ambushed Julius Caesar's troops, stands in the main square.", "Every Sunday, the town hosts an immense antique market featuring over 350 stalls, making it the largest in the Benelux.", "Significant, towering portions of the original, massive 2nd-century Roman defensive walls are still clearly visible surrounding the town."]
   },
   },
   {
@@ -2101,6 +2251,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Lier egy bájos város Antwerpen tartományban, kompakt központtal és sok vízi elemmel a városképben. Rövid látogatásokra ideális, mert minden közel van egymáshoz. A hely történelmi, de nem zsúfolt, ezért kellemes. A kisebb flamand városok között Lier nagyon erős célpont.",
       ro: "Lier este un oraș fermecător din provincia Antwerpen, cu un centru compact și multă apă în peisajul urban. Este ideal pentru vizite scurte, deoarece totul se află aproape. Localitatea este istorică, dar nu foarte aglomerată, ceea ce o face plăcută. Dintre orașele flamande mici, Lier este o destinație foarte bună.",
       en: "Lier is a charming city in Antwerp province with a compact center and plenty of water in the cityscape. It works well for short visits because everything is close together. The town is historic but not overcrowded, which makes it pleasant. Among smaller Flemish cities, Lier is a very solid choice."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Lier is a tremendously charming historic town situated on the banks of the Nete River in the province of Antwerp, affectionately known as the 'Pallieter city' after a famous local literary character. The town is famous for its exceptionally well-preserved medieval center, which heavily features a beautiful UNESCO-listed Beguinage connected by quaint cobblestone streets and tiny stone bridges. A striking feature of Lier is the Zimmer Tower, a remarkable astronomical clock built in 1930 that displays highly complex celestial movements across multiple intricate dials. Lier also has a deep culinary tradition, most notably its 'Lierse Vlaaike', a small, highly spiced pastry. The town's incredibly relaxed, welcoming atmosphere makes it a perfect example of a traditional, historic Flemish community."
     },
     facts: {
       de: ["Liegt in der Provinz Antwerpen.", "Das Zentrum ist kompakt und gut begehbar.", "Bekannt für Wasserläufe und Altstadtflair.", "Gute Ergänzung für kleinere Flämisch-Suchen.", "Beliebt für kurze Kulturstopps."],
@@ -2118,7 +2274,7 @@ export const belgiumNatureExtra: POI[] = [
       "A Nete folyó menti sétányok és a városi park ideálisak a kikapcsolódáshoz."
     ],
     ro: [],
-    en: []
+    en: ["The remarkable Zimmer Tower features a highly complex astronomical clock with exactly 13 distinct dials showing various times and cosmic phases.", "The massive, imposing St. Gummarus Church is heavily renowned for its spectacular, original 16th-century stained glass windows.", "Lier's beautiful, incredibly tranquil 13th-century Beguinage is a highly protected UNESCO World Heritage site.", "The town is deeply famous for a small, heavily spiced local cake known as the 'Lierse Vlaaike', made from a secret 300-year-old recipe.", "The town's incredibly picturesque riverside architecture has earned it the popular local nickname 'the little Bruges'."]
   },
   },
   {
@@ -2132,6 +2288,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Geel egy nyugodt város a Kempen régióban, nyitott és helyi hangulattal. Jó név a kisebb antwerpeni tartománybeli települések kereséseihez. A város a belvárost, zöldterületeket és erős közösségi életet kapcsol össze. A regionális Belgium-listákban Geel hasznos plusz pont.",
       ro: "Geel este un oraș liniștit în regiunea Kempen și are un caracter local deschis. Este un nume bun pentru căutările despre localități mici din provincia Antwerpen. Orașul combină centru urban, spații verzi și o viață comunitară puternică. Pentru listele regionale despre Belgia, Geel este un plus util.",
       en: "Geel is a quiet city in the Kempen region with an open, local feel. It is a good name for searches about smaller places in Antwerp province. The town combines an urban center, green spaces, and a strong community life. For regional Belgium lists, Geel is a useful extra point."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Geel is a unique city in the Campine region of Antwerp province, globally renowned for its extraordinary, centuries-old tradition of psychiatric care. Since the Middle Ages, the city has operated a revolutionary system of family-based foster care for individuals with mental illness, a practice originally inspired by the cult of Saint Dymphna, the patron saint of the mentally ill. Patients, referred to locally as 'boarders', live integrated lives within regular local families rather than being institutionalized in locked wards. This deeply humane, compassionate approach has drawn intense interest from international medical professionals and sociologists for decades. Beyond this incredible social legacy, Geel features a vibrant market square, a beautiful Gothic church dedicated to Saint Dymphna, and a highly active local community."
     },
     facts: {
       de: ["In der Kempen-Region gelegen.", "Ein guter Name für Kleinstadt-Content.", "Die Stadt hat viel lokales Gemeinschaftsleben.", "Geeignet für ruhige regionale Reisen.", "Stark verbunden mit Antwerpen-Provinz."],
@@ -2149,7 +2311,7 @@ export const belgiumNatureExtra: POI[] = [
       "Geel fontos oktatási és technológiai központ a tartomány északi részén."
     ],
     ro: [],
-    en: []
+    en: ["Geel is globally famous for its 700-year-old tradition of integrating mentally ill individuals deeply into local foster families.", "The practice originally stems from the medieval cult of Saint Dymphna, an Irish princess who is the patron saint of the mentally ill.", "The imposing Church of Saint Dymphna contains an incredibly elaborate, late-Gothic wooden altarpiece depicting the saint's tragic life.", "At its absolute peak in the late 1930s, over 3,700 psychiatric patients were living freely with host families in the city.", "This unique community-based care model is officially recognized by UNESCO on the Register of Good Safeguarding Practices."]
   },
   },
   {
@@ -2163,6 +2325,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Sint-Truiden Haspengouw szívében fekszik, és gyümölcsösökről, enyhe tájairól ismert. A város történelmi központot, mezőgazdaságot és évszakos színeket kapcsol össze. Nagyon jól illik Limburg és a flamand gyümölcsös régió témáihoz. Helyi utazásokhoz Sint-Truiden erős és barátságos név.",
       ro: "Sint-Truiden se află în inima regiunii Haspengouw și este cunoscut pentru livezi și peisaje blânde. Orașul combină un centru istoric cu agricultura și culori sezoniere. Se potrivește foarte bine cu conținutul despre Limburg și regiunea fructelor flamande. Pentru călătorii locale, Sint-Truiden este un nume puternic și prietenos.",
       en: "Sint-Truiden sits in the heart of Haspengouw and is known for orchards and gentle landscapes. The city combines a historic center with agriculture and seasonal colors. It fits very well with content about Limburg and the Flemish fruit region. For local travel, Sint-Truiden is a strong and friendly name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Sint-Truiden is a historically rich and culturally vibrant city situated squarely in the heart of the fertile Haspengouw fruit-growing region. The city originated in the 7th century around an influential abbey founded by Saint Trudo, the ruins of which still dominate the expansive central market square. The square itself is one of the largest in Belgium, flanked by an impressive belfry recognized as a UNESCO World Heritage site and an elegant 18th-century town hall. Sint-Truiden functions as the bustling commercial epicenter for the region's massive fruit industry, particularly during the stunning spring blossom season and the busy autumn harvests. Its deep religious history is also reflected in the spectacular local Beguinage, famous for its extraordinarily well-preserved medieval wall paintings."
     },
     facts: {
       de: ["Im Obstland Haspengouw gelegen.", "Bekannt für Obstblüte und Ernte.", "Historisches Zentrum mit regionalem Flair.", "Guter Ausgangspunkt für Limburg-Touren.", "Starker Suchbegriff für Agrarreisen."],
@@ -2180,7 +2348,7 @@ export const belgiumNatureExtra: POI[] = [
       "A környékbeli kastélyok és gyümölcsösök között számos kerékpárút vezet."
     ],
     ro: [],
-    en: []
+    en: ["Sint-Truiden features one of the absolute largest central market squares in the entirety of Belgium.", "The stunning 13th-century Beguinage church contains an incredibly rare collection of 38 perfectly preserved medieval frescoes.", "The city serves as the primary commercial and agricultural capital of the massive Haspengouw fruit-producing region.", "The historic Abbey tower, standing at a massive 35 meters, offers spectacular panoramic views over the surrounding fruit orchards.", "The imposing Town Hall's belfry is highly protected as part of the UNESCO World Heritage 'Belfries of Belgium and France'."]
   },
   },
   {
@@ -2194,6 +2362,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A tournai-i székesegyház Belgium egyik legfontosabb egyházi épülete. Masszív tornyai, valamint a román és gótikus elemek keveréke azonnal felismerhetővé teszi. Az épület ma is meghatározza a város történelmi identitását. Építészetre és templomokra kereső tartalmaknál nagyon erős célpont.",
       ro: "Catedrala din Tournai este una dintre cele mai importante clădiri sacre din Belgia. Turnurile sale masive și amestecul de romanic și gotic o fac imediat recognoscibilă. Monumentul definește și astăzi identitatea istorică a orașului. Pentru căutările despre arhitectură și biserici, este o destinație foarte puternică.",
       en: "Tournai Cathedral is one of Belgium's most important sacred buildings. Its massive towers and blend of Romanesque and Gothic make it instantly recognizable. The building still defines the city's historic identity today. For architecture and church searches, it is a very strong target."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Cathedral of Our Lady in Tournai is one of the most spectacular and architecturally significant religious buildings in Northern Europe. Constructed primarily in the 12th and 13th centuries, the massive building showcases a fascinating and completely seamless transition from heavy Romanesque architecture in its incredibly vast nave to the soaring, light-filled Gothic style of its massive choir. The cathedral's most defining exterior feature is its spectacular cluster of five massive bell towers, which deeply dominate the ancient city's skyline. Inside, it houses an immensely wealthy treasury, featuring the masterpiece Shrine of Our Lady crafted by the renowned silversmith Nicholas of Verdun. A UNESCO World Heritage site, the cathedral has recently undergone a decades-long, meticulous structural restoration to stabilize its ancient foundations."
     },
     facts: {
       de: ["UNESCO-geschütztes Bauwerk.", "Berühmt für fünf Glockentürme.", "Zeigt romanische und gotische Elemente.", "Prägt das Stadtbild von Tournai.", "Sehr stark für Kulturerbe-Suchen."],
@@ -2211,7 +2385,7 @@ export const belgiumNatureExtra: POI[] = [
       "A székesegyház méretei lenyűgözőek: 134 méter hosszú, és a legmagasabb tornya 83 méteres."
     ],
     ro: [],
-    en: []
+    en: ["The Cathedral is highly famous for its completely unique cluster of five massive, imposing Romanesque bell towers.", "It represents an incredibly perfect architectural transition, featuring a vast Romanesque nave directly attached to a massive Gothic choir.", "The church's treasury houses the Shrine of Our Lady, a breathtaking masterpiece of 13th-century metalwork by Nicholas of Verdun.", "The massive structure is recognized as an exceptionally prestigious UNESCO World Heritage site.", "Following a severe tornado in 1999 that dangerously weakened the structure, the cathedral underwent a massive, 20-year stabilization project."]
   },
   },
   {
@@ -2225,6 +2399,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A mons-i harangtorony a város egyik legfontosabb jelképe. A történelmi központ fölött áll, és erős sziluettet ad Monsnak. Az épület szorosan kapcsolódik a várostörténethez és a regionális büszkeséghez. A történelmi városképet kereső látogatóknak biztos találat.",
       ro: "Clopotnița din Mons este unul dintre cele mai importante simboluri ale orașului. Se ridică deasupra centrului istoric și oferă Monsului o siluetă distinctă. Clădirea este strâns legată de istoria orașului și de mândria regională. Pentru vizitatorii care caută peisaje urbane istorice, este o alegere sigură.",
       en: "The Mons Belfry is one of the city's key landmarks. It stands above the historic center and gives Mons a distinct silhouette. The building is closely tied to local history and regional pride. For visitors looking for historic cityscapes, it is a clear hit."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Belfry of Mons is an absolute architectural masterpiece and holds the unique distinction of being the only purely Baroque-style belfry in Belgium. Constructed entirely in the 17th century between 1661 and 1669, it was designed by architect Louis Ledoux to replace an older, ruined tower. Standing majestically at 87 meters atop the highest hill in the city, the tower features a highly distinctive, ornate onion-dome roof, earning it the affectionate local nickname 'El Catiau'. Historically, it served the crucial civic functions of housing the city alarm bell, functioning as a fire lookout, and storing important municipal archives. Today, visitors can ascend the tower via a modern panoramic elevator to enjoy sweeping, unparalleled views of the historic city and the expansive surrounding Walloon landscape."
     },
     facts: {
       de: ["UNESCO-Teil der Belfried-Gruppe.", "Überragt das historische Zentrum.", "Ein Symbol von Mons und Hennegau.", "Beliebt für Aussicht und Fotos.", "Starker Begriff für Stadterbe."],
@@ -2242,7 +2422,7 @@ export const belgiumNatureExtra: POI[] = [
       "A tetejéről pazar kilátás nyílik a városra és a környező bányavidékre, egészen a francia határig."
     ],
     ro: [],
-    en: []
+    en: ["Standing at 87 meters, it is the absolute only belfry in Belgium constructed entirely in the ornate Baroque architectural style.", "The tower houses an incredibly impressive, massive carillon consisting of exactly 49 intricate bronze bells.", "Famed French author Victor Hugo notably described the tower's unique appearance as resembling 'an enormous coffeepot flanked by four smaller teapots'.", "It is prominently built on the highest point in Mons, directly atop the ruins of an ancient 11th-century castle.", "The belfry is officially recognized and highly protected as a UNESCO World Heritage site."]
   },
   },
   {
@@ -2256,6 +2436,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A lieri beginaudvar csendes történelmi együttes szűk utcákkal és tiszta flamand hangulattal. A házak és udvarok egy különleges vallási és társadalmi életformáról mesélnek. A hely nyugodt, ugyanakkor rendkívül fotogén. Kis flamand történelmi célpontként Lier nagyon jó példa.",
       ro: "Begijnhof Lier este un ansamblu istoric liniștit, cu străduțe înguste și atmosferă flamandă clară. Casele și curțile povestesc despre un model religios și social special. Locul este calm, dar foarte fotogenic. Pentru obiective istorice mici din Flandra, Lier este un exemplu foarte bun.",
       en: "The Lier Beguinage is a quiet historic ensemble with narrow lanes and a clear Flemish atmosphere. The houses and courtyards tell the story of a special religious and social way of life. The place feels calm and very photogenic at the same time. For small historic targets in Flanders, Lier is a very good example."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Beguinage of Lier is an incredibly serene, enclosed architectural complex dating back to the 13th century, built to house a semi-monastic community of unmarried or widowed women known as beguines. Situated in the heart of the historic town, the sprawling complex consists of exactly 162 small, whitewashed houses connected by a labyrinth of incredibly picturesque cobblestone alleys, 11 distinct streets, and quaint stone bridges. The focal point of the walled community is the impressive, early Baroque Saint Margaret Church, dedicated to the beguines' patron saint. A prominent monumental gateway proudly marks the entrance, effectively separating this tranquil sanctuary from the bustling city outside. The entire complex has been meticulously preserved and continues to serve as a highly unique residential neighborhood, fully recognized as a prestigious UNESCO World Heritage site."
     },
     facts: {
       de: ["Historisches Beginenhof-Ensemble.", "Typisch für flämische Stadtgeschichte.", "Die Gassen sind ruhig und kompakt.", "Gut für Kultur- und Architektur-Content.", "Passt perfekt zu Lier und Antwerpen."],
@@ -2273,7 +2459,7 @@ export const belgiumNatureExtra: POI[] = [
       "A házak között szűk, macskaköves utcák és kis belső kertek bújnak meg."
     ],
     ro: [],
-    en: []
+    en: ["The expansive complex features exactly 162 individual houses interconnected by 11 remarkably narrow, winding cobblestone streets.", "It is globally recognized as one of the 13 protected Flemish Beguinages listed by UNESCO as a World Heritage site.", "The deeply traditional women who lived here took vows of obedience and chastity but, unlike nuns, could freely leave the community.", "The imposing main entrance gateway features a striking, intricate Baroque sculpture depicting Saint Begga.", "Today, the historical houses are entirely rented out to private citizens, maintaining the complex as a living, breathing neighborhood."]
   },
   },
   {
@@ -2287,6 +2473,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Breendonk erőd súlyos emlékhely és történelmi emlékmű Flandriában. A 20. században a náci megszállással és annak bűneivel kapcsolódott össze. Ma fontos emlékezeti és oktatási helyszín. A történelem iránt érdeklődő látogatóknak Breendonk központi név.",
       ro: "Fortul Breendonk este un loc de memorie și un monument istoric important în Flandra. În secolul XX, cetatea a fost asociată cu ocupația nazistă și crimele sale. Astăzi este un loc esențial pentru comemorare și educație. Pentru vizitatorii interesați de istorie, Breendonk este un nume central.",
       en: "Fort Breendonk is a serious memorial and historic monument in Flanders. In the 20th century, the fortress became linked to Nazi occupation and its crimes. Today it is an important site for remembrance and education. For history-minded visitors, Breendonk is a key name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Fort Breendonk is an immensely grim, exceptionally well-preserved military fortress originally constructed in 1906 to proudly defend the vital port city of Antwerp. However, it gained its dark, international notoriety during the brutal Second World War, when the occupying German forces horrifyingly repurposed the massive concrete structure into a Gestapo transit and prison camp. Between 1940 and 1944, nearly 3,600 political prisoners, resistance fighters, and Jewish citizens were systematically incarcerated, tortured, or executed within its damp, claustrophobic walls before being deported to larger concentration camps in Eastern Europe. Today, the fortress operates as an incredibly powerful, deeply sobering national memorial. Visitors can walk through the original gloomy cell blocks, interrogation rooms, and execution grounds, offering a stark, unforgettable testament to the absolute horrors of fascism and war."
     },
     facts: {
       de: ["Wichtiger Gedenkort des Zweiten Weltkriegs.", "Ehemalige Festung bei Mechelen.", "Heute als Museum und Mahnmal genutzt.", "Starke emotionale und historische Wirkung.", "Sehr relevant für Gedenkstätten-Suchen."],
@@ -2304,7 +2496,7 @@ export const belgiumNatureExtra: POI[] = [
       "A látogatás során megtekinthetők a cellák, a kínzókamra és a kivégzőhely is."
     ],
     ro: [],
-    en: []
+    en: ["Originally a traditional military fort, the site was violently transformed into a dreaded Gestapo prison camp in September 1940.", "Of the approximately 3,600 desperate prisoners held at Breendonk, roughly half tragically did not survive the war.", "The camp was officially designated as a heavily guarded 'Auffanglager' (transit camp) for prisoners awaiting terrifying deportation to Germany.", "The massive, incredibly thick concrete walls created a damp, bitterly cold environment that severely exacerbated the prisoners' intense suffering.", "The site is preserved entirely in its original, terrifying WWII condition and functions today as a crucial national educational memorial."]
   },
   },
   {
@@ -2318,6 +2510,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Gravensteen Gent híres vára és Belgium egyik legjellegzetesebb középkori épülete. Az erőd a város közepén áll, így a történelem azonnal láthatóvá válik. Masszív megjelenése tökéletes városmarketinghez és utazási fotókhoz. Flandriai tartalmakhoz a Gravensteen valódi horgonypont.",
       ro: "Gravensteen este faimosul castel din Ghent și una dintre cele mai marcante construcții medievale din Belgia. Cetatea se află chiar în oraș, făcând istoria imediat vizibilă. Aspectul său puternic se potrivește perfect pentru marketing urban și fotografii de călătorie. Pentru conținutul despre Flandra, Gravensteen este un reper real.",
       en: "Gravensteen is Ghent's famous castle and one of Belgium's most striking medieval buildings. The fortress sits in the middle of the city, making history instantly visible. Its strong appearance works perfectly for city branding and travel photos. For Flemish content, Gravensteen is a real anchor point."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Gravensteen, also known as the 'Castle of the Counts', is a magnificent medieval fortress situated directly in the bustling center of Ghent. Built in 1180 by Count Philip of Alsace, its imposing architectural design was heavily inspired by the massive crusader castles he encountered during his expeditions to the Holy Land. The formidable structure served as the primary seat of the powerful Counts of Flanders, clearly symbolizing their absolute authority and violently deterring any rebellious uprisings by the local populace. Over the subsequent centuries, the castle functioned as a harsh courthouse, an overcrowded prison, and even briefly as a noisy cotton mill during the Industrial Revolution. Restored to its highly romanticized medieval glory, the castle now features thick stone battlements, a deep moat, and an extensive collection of historical torture devices."
     },
     facts: {
       de: ["Mittelalterliche Burg im Stadtzentrum.", "Eines der Top-Symbole von Gent.", "Sehr beliebt bei Touristen und Fotografen.", "Eignet sich für schnelle Stadtbesuche.", "Starker Begriff für Belgien-Stadtcontent."],
@@ -2335,7 +2533,7 @@ export const belgiumNatureExtra: POI[] = [
       "Számos filmforgatás helyszíne volt már, köszönhetően autentikus középkori megjelenésének."
     ],
     ro: [],
-    en: []
+    en: ["Count Philip of Alsace deliberately modeled the imposing stone fortress on the massive castles he observed during the Second Crusade.", "By the late 19th century, the heavily deteriorated castle was almost completely demolished by the city for modern redevelopment.", "In 1949, local university students famously occupied the castle in a completely peaceful protest against rising beer prices.", "The castle's incredibly thick defensive walls feature exactly 24 projecting watchtowers and a fully intact water-filled moat.", "It currently houses an extensive, highly fascinating museum dedicated to medieval justice and historical torture instruments."]
   },
   },
   {
@@ -2349,6 +2547,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Halle-i bazilika Belgium középső részének fontos vallási és építészeti célpontja. Az épület erősen kötődik a zarándoklathoz, a helyi hagyományhoz és a városi identitáshoz. Fekvése miatt Brüsszelből is gyorsan elérhető. Egyházi és regionális keresésekhez nagyon értékes.",
       ro: "Bazilica din Halle este o destinație religioasă și arhitecturală importantă în centrul Belgiei. Clădirea este puternic legată de pelerinaj, tradiția locală și identitatea orașului. Poziția ei o face ușor de ajuns și din Bruxelles. Pentru căutări religioase și regionale, este foarte valoroasă.",
       en: "The Basilica of Halle is an important religious and architectural destination in central Belgium. The building is strongly tied to pilgrimage, local tradition, and city identity. Its location also makes it quick to reach from Brussels. For church and regional searches, it is very valuable."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Basilica of Saint Martin in Halle is an incredibly striking masterpiece of High Gothic architecture located just south of Brussels. Construction of the massive church began in 1341 and continued for nearly a century, resulting in a highly unified, spectacular religious edifice. The basilica is globally renowned as an extremely important pilgrimage site, housing the deeply venerated 'Black Madonna of Halle', a remarkable 13th-century wooden statue of the Virgin Mary that survived heavy cannon fire during a violent siege in 1489. Legend claims the remarkably unblemished statue actively caught the deadly cannonballs in her robes, saving the terrified town. The church's interior is spectacularly ornate, featuring incredibly detailed Renaissance brasswork and numerous historic offerings left by generations of grateful pilgrims."
     },
     facts: {
       de: ["Wichtiger Wallfahrtsort.", "Im Raum Halle bei Brüssel gelegen.", "Stark mit lokaler Tradition verbunden.", "Gut erreichbar für Tagesgäste.", "Passt zu religiösen Reisethemen."],
@@ -2366,7 +2570,7 @@ export const belgiumNatureExtra: POI[] = [
       "A bazilikában található Belgium egyik legértékesebb középkori kincstára."
     ],
     ro: [],
-    en: []
+    en: ["The basilica is deeply famous for housing the 'Black Madonna', an incredibly venerated 13th-century wooden statue believed to possess miraculous protective powers.", "During a brutal, massive 1489 siege, local legend insists the Black Madonna miraculously caught deadly enemy cannonballs in her robes.", "The incredibly ornate, intricate brass baptismal font inside the basilica was expertly crafted in the nearby city of Tournai in 1446.", "The towering, unfinished Gothic belfry prominently dominates the skyline but was abandoned due to severe structural and financial issues.", "It has functioned as a massive, highly significant European pilgrimage destination continuously since the early 14th century."]
   },
   },
   {
@@ -2380,6 +2584,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Szent Vér-bazilika Brugge egyik legismertebb spirituális helyszíne. Csendes kápolnahangulatot erős történelmi szimbolikával kapcsol össze. Sok látogató a klasszikus óvárosi séták részeként keresi fel. Kultúra- és vallási témákban nagyon erős név.",
       ro: "Bazilica Sângelui Sfânt este unul dintre cele mai cunoscute locuri spirituale din Bruges. Combină o atmosferă liniștită de capelă cu o simbolistică istorică puternică. Mulți vizitatori o includ în traseul clasic din centrul vechi. Pentru teme de cultură și religie, este un nume foarte căutat.",
       en: "The Basilica of the Holy Blood is one of Bruges' best known spiritual sites. It combines a calm chapel setting with strong historic symbolism. Many visitors include it on the classic old-town walk. For culture and religion topics, it is a highly searched name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Basilica of the Holy Blood is a spectacularly beautiful, highly unique double church seamlessly tucked into the corner of the historic Burg square in Bruges. The incredibly complex structure consists of two entirely distinct chapels stacked directly on top of each other. The lower chapel is a stark, incredibly austere 12th-century Romanesque crypt dedicated to Saint Basil the Great, completely devoid of any grand decoration. In massive contrast, the upper chapel is a breathtakingly vibrant, heavily ornate Neo-Gothic space bursting with colorful murals and spectacular stained glass. The basilica is globally famous for housing a deeply venerated glass phial supposedly containing a cloth soaked in the actual blood of Jesus Christ, purportedly brought back to the city by the Count of Flanders following the devastating Second Crusade."
     },
     facts: {
       de: ["Einer der spirituellen Höhepunkte von Brügge.", "Starker Bezug zu Reliquie und Tradition.", "Lässt sich gut in Altstadtrouten einbauen.", "Beliebt bei Kultur- und Pilgerbesuchern.", "Sehr stark für Brügge-Reiseinhalte."],
@@ -2397,7 +2607,7 @@ export const belgiumNatureExtra: POI[] = [
       "Az ereklyét minden pénteken kihelyezik a hívők és látogatók számára tiszteletadásra."
     ],
     ro: [],
-    en: []
+    en: ["The building is architecturally unique, featuring a dark Romanesque lower chapel directly beneath an incredibly vibrant Neo-Gothic upper chapel.", "It houses the deeply venerated Relic of the Holy Blood, claimed to have been brought from the Holy Land by Thierry of Alsace in 1150.", "Every single year since 1291, the sacred relic is carried through the city streets in the massive, highly spectacular Procession of the Holy Blood.", "The incredibly austere lower chapel of Saint Basil is the absolutely only fully preserved Romanesque church in West Flanders.", "The spectacular, intricate Renaissance-style staircase leading to the upper chapel was masterfully added to the structure in the 16th century."]
   },
   },
   {
@@ -2412,11 +2622,23 @@ export const belgiumNatureExtra: POI[] = [
       ro: "Abația Villers este o ruină de mănăstire impresionantă în Valonia, cu o atmosferă puternică. Zidurile și arcadele ample povestesc despre un centru religios important. Astăzi, ansamblul este un loc popular pentru plimbări culturale și vizite liniștite. Pentru conținutul istoric despre Valonia, Villers este o piesă foarte bună.",
       en: "Villers Abbey is an impressive monastic ruin in Wallonia with a strong atmosphere. The expansive walls and arches tell the story of an important religious center. Today the site is popular for cultural walks and quiet visits. For historic Wallonia content, Villers is a very good building block."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Abbey of Villers-la-Ville is an absolutely massive, breathtaking complex of ancient Cistercian ruins nestled deep within a lush, densely forested valley in Walloon Brabant. Founded in the year 1146 by a group of highly devout monks under the direction of Saint Bernard of Clairvaux, the abbey grew over the centuries into an incredibly powerful and immensely wealthy spiritual center. The sprawling site features spectacular, towering Gothic arches, massive vaulted cellars, and perfectly preserved Romanesque refectories that powerfully echo the monks' silent, highly structured daily lives. Following the violent disruptions of the French Revolution in 1796, the massive abbey was abruptly abandoned and subsequently fell into dramatic ruin. Today, the heavily romanticized, spectacularly overgrown ruins serve as a highly atmospheric venue for open-air concerts and historical exhibitions."
+    },
     facts: {
       de: ["Großes Klosterensemble in Ruinenform.", "Ein Schlüsselort der wallonischen Geschichte.", "Beliebt für Spaziergänge und Fotos.", "Passt zu Kultur- und Heritage-Suchen.", "Liegt im Brabant-Wallon."],
       hu: ["Nagy kolostoregyüttes rom formájában.", "A vallon történelem egyik kulcshelye.", "Népszerű sétákhoz és fotózáshoz.", "Jól illik kulturális és örökségi keresésekhez.", "A wallon Brabant területén található."],
       ro: ["Ansamblu mare de mănăstire în ruine.", "Loc cheie în istoria valonă.", "Popular pentru plimbări și fotografii.", "Se potrivește cu căutările culturale și de patrimoniu.", "Se află în Brabantul valon."],
       en: ["A large monastic ensemble in ruin form.", "A key site in Walloon history.", "Popular for walks and photos.", "Fits culture and heritage searches.", "Located in Walloon Brabant."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The abbey was originally founded in the year 1146 and rapidly became one of the absolute most powerful Cistercian monasteries in Europe.", "The incredibly expansive site covers over 30 hectares and features numerous massive, soaring Gothic arches completely open to the sky.", "Following the destructive French Revolution, the monks were violently expelled in 1796, and the massive abbey was abruptly left to decay.", "The incredibly atmospheric ruins frequently host massive open-air theatrical performances and spectacular summer music festivals.", "The site features a highly complex, brilliantly engineered ancient hydraulic system created by the monks to power massive watermills."]
     },
     image: "/geo-images/belgium/hist-abbey-villers-la-ville.webp",
   },
@@ -2431,6 +2653,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Hallerbos Belgium egyik legismertebb erdeje, különösen tavasszal vonz sok látogatót. Ilyenkor a kék virágok szőnyege nagyon fotogén tájjá változtatja az erdőt. A hely könnyen kapcsolható Brüsszelhez és Brabant térségéhez, ezért kedvelt egynapos célpont. Természeti keresésekhez a Hallerbos rendkívül erős.",
       ro: "Hallerbos este una dintre cele mai cunoscute păduri din Belgia și atrage mulți vizitatori mai ales primăvara. Atunci, covoarele de flori albastre transformă pădurea într-un peisaj foarte fotogenic. Locul este ușor de legat de Bruxelles și Brabant, deci este o destinație populară de o zi. Pentru căutări despre natură, Hallerbos este extrem de puternic.",
       en: "Hallerbos is one of Belgium's best known forests and draws many visitors especially in spring. Then, carpets of blue flowers turn the forest into a very photogenic landscape. The place is easy to connect with Brussels and Brabant, so it is a popular day-trip target. For nature searches, Hallerbos is extremely strong."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Hallerbos, globally celebrated as the 'Blue Forest', is a deeply enchanting, extensive woodland located just south of Brussels. Spanning roughly 550 hectares, the forest is most famous for a highly spectacular natural phenomenon that occurs for just a few brief weeks every single spring. Between mid-April and early May, millions of delicate wild bluebells simultaneously bloom, completely carpeting the entire forest floor in an absolutely breathtaking, vibrant purple-blue sea. This incredibly stunning display, powerfully contrasted against the bright green of the newly budding beech trees, draws thousands of highly enthusiastic photographers and nature lovers from across the globe. Despite its immense, growing popularity, strict walking paths are heavily enforced to ensure the extreme fragility of the ancient woodland soil is permanently preserved."
     },
     facts: {
       de: ["Berühmt für die Blausternblüte.", "Beliebtes Frühjahrsziel nahe Brüssel.", "Sehr fotogen und saisonal stark.", "Gut für Natur-SEO und Tagestouren.", "Typischer Wald aus Brabant."],
@@ -2447,7 +2675,7 @@ export const belgiumNatureExtra: POI[] = [
       "A romok között ma gyógynövénykert és egy sörfőzde is működik, fenntartva a szerzetesi hagyományokat."
     ],
     ro: [],
-    en: []
+    en: ["The forest is globally renowned for its spectacular, massive bloom of wild bluebells that briefly carpet the entire woodland every spring.", "During the devastating First World War, the ancient forest was almost entirely stripped of its trees by the occupying German army.", "The current, towering beech and oak trees were primarily replanted during a massive, intensive reforestation effort in the 1930s.", "The incredibly vibrant bluebell carpet heavily relies on the unique, highly ancient woodland soil that has remained undisturbed for centuries.", "Strictly enforced marked trails are mandated for all visitors to prevent the incredibly fragile flowers from being fatally crushed."]
   }
   },
     image: "/geo-images/belgium/forest-hallerbos.webp",
@@ -2463,6 +2691,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Zoniënwald egy hatalmas erdőterület közvetlenül Brüsszeltől délre. Az öreg bükkösök és a hosszú utak miatt ideális sétákhoz és kerékpározáshoz. Nagyon közvetlen módon kapcsolja össze a várost és a természetet. Brüsszellel kapcsolatos tartalmaknál az erdő természetes kiegészítő elem.",
       ro: "Pădurea Soniană este o zonă forestieră uriașă, chiar la sud de Bruxelles. Fagul bătrân și traseele lungi o fac ideală pentru plimbări și ciclism. Leagă orașul și natura într-un mod foarte direct. Pentru conținutul despre Bruxelles, pădurea este un complement natural.",
       en: "The Sonian Forest is a huge forest area just south of Brussels. The old beech trees and long paths make it ideal for walks and cycling. It connects city and nature in a very direct way. For Brussels-related content, the forest is a natural add-on."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Sonian Forest (For\u00eat de Soignes) is an absolutely immense, ancient beech forest that remarkably stretches directly into the southern suburbs of the bustling city of Brussels. Covering over 4,000 massive hectares, it represents the heavily protected remnants of the Silva Carbonaria, an incredibly vast, primeval woodland that once covered a huge portion of Western Europe. The forest is characterized by its towering, majestic 'cathedral' beech trees, many of which are over 200 years old, creating a deeply profound, heavily shaded canopy. It serves as an absolutely vital green lung for the capital region, offering an incredibly tranquil escape with miles of ancient riding paths and deep walking trails. Significant, highly protected portions of the deepest forest are officially recognized as a prestigious UNESCO World Heritage site for their undisturbed ecological purity."
     },
     facts: {
       de: ["Großes Waldgebiet südlich von Brüssel.", "Berühmt für alte Buchenbestände.", "Gut für Wandern und Radfahren.", "Wichtige grüne Lunge der Hauptstadtregion.", "Stark für Stadt-Natur-Content."],
@@ -2480,7 +2714,7 @@ export const belgiumNatureExtra: POI[] = [
       "Az erdőben található a Tervuren-park és a Királyi Közép-Afrika Múzeum is."
     ],
     ro: [],
-    en: []
+    en: ["The immense Sonian Forest covers over 4,000 hectares, serving as the absolute largest heavily wooded area bordering any European capital.", "It is globally famous for its spectacular 'cathedral beeches', massive, incredibly tall trees that create a deeply profound, shaded canopy.", "Historically, the massive forest was the exclusive, highly protected private hunting ground for the powerful Dukes of Brabant.", "Significant, highly protected sections of the ancient, undisturbed beech forest were officially designated as a UNESCO World Heritage site in 2017.", "The forest provides an incredibly crucial natural habitat for diverse wildlife, including wild boar, roe deer, and the rare European badger."]
   },
   },
   {
@@ -2495,11 +2729,23 @@ export const belgiumNatureExtra: POI[] = [
       ro: "Lacurile Eau d'Heure formează cea mai mare zonă de acumulare din Belgia. Apa, malurile și facilitățile de agrement fac din loc o destinație foarte versatilă. Aici se întâlnesc sporturile nautice, natura și relaxarea. Pentru Valonia, este un punct foarte puternic de natură și recreere.",
       en: "The Lakes of Eau d'Heure form Belgium's largest reservoir area. Water, shorelines, and leisure facilities make the place a very versatile day-trip target. Water sports, nature, and relaxation all meet here. For Wallonia, this is a very strong nature and leisure point."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Lacs de l'Eau d'Heure form the absolute largest contiguous artificial lake complex in all of Belgium, dramatically situated on the heavily forested border between the provinces of Hainaut and Namur. Originally created in the 1970s by aggressively damming the Eau d'Heure river, the massive complex consists of five distinct, interconnected lakes specifically designed to regulate local river flows and generate crucial hydroelectric power. The system is anchored by the imposing Plate Taille dam, an incredibly massive concrete structure that ranks as the largest dam in the country. Today, the expansive lakes have powerfully transformed into a premier, highly popular recreational destination, offering extensive facilities for sailing, windsurfing, and deep-water scuba diving, all set against the breathtaking backdrop of the heavily wooded Ardennes."
+    },
     facts: {
       de: ["Größtes Stauseegebiet Belgiens.", "Beliebt für Wassersport und Camping.", "Die Ufer sind stark freizeitorientiert.", "Gute Mischung aus Natur und Urlaub.", "Stark für Sommer-Reisecontent."],
       hu: ["Belgium legnagyobb tározórendszere.", "Népszerű vízisporthoz és kempinghez.", "A partok erősen szabadidős jellegűek.", "Jó keveréke a természetnek és a pihenésnek.", "Erős nyári utazási tartalomhoz."],
       ro: ["Cea mai mare zonă de lac de acumulare din Belgia.", "Populară pentru sporturi nautice și camping.", "Malurile sunt puternic orientate spre agrement.", "Un amestec bun de natură și vacanță.", "Puternic pentru conținut de călătorie de vară."],
       en: ["Belgium's largest reservoir area.", "Popular for water sports and camping.", "The shores are heavily leisure oriented.", "A good mix of nature and vacation.", "Strong for summer travel content."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The massive complex is the absolute largest artificial lake system in Belgium, covering an impressive 617 hectares of water surface.", "The incredibly imposing Plate Taille dam is the highest dam in the country, featuring a spectacular 107-meter high panoramic tower.", "The lakes were originally created in the 1970s primarily to heavily regulate the volatile flow of the Sambre river and generate electricity.", "The site features a massive, highly unique 'Skywalk' offering breathtaking glass-bottom views directly from the top of the towering dam.", "The remarkably clean, deep waters are a major national hub for technical scuba diving, featuring submerged vehicles and a dedicated underwater park."]
     },
     image: "/geo-images/belgium/lake-lac-de-l-eau-d-heure.webp",
   },
@@ -2514,6 +2760,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Leie fontos folyó Nyugat- és Kelet-Flandriában. Városokat, folyóparti sétányokat és történelmi tájakat köt össze kellemes módon. Gent környékén különösen meghatározza a víz és a kultúra arculatát. Flamand természet- és városi tartalmakhoz a Leie nagyon hasznos.",
       ro: "Leie este un râu important în Flandra de Vest și de Est. Leagă orașe, promenade de-a lungul apei și peisaje istorice într-un mod plăcut. În special în zona Ghentului, definește imaginea dintre apă și cultură. Pentru conținutul flamand despre natură și orașe, Leie este foarte util.",
       en: "The Leie is an important river in West and East Flanders. It links cities, riverside walks, and historic landscapes in a pleasant way. Around Ghent especially, it shapes the image of water and culture. For Flemish nature and city content, the Leie is very useful."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Leie River (Lys), frequently and affectionately referred to as the 'Golden River', is a highly picturesque waterway that gently winds its way through the beautiful Flanders region before merging with the Scheldt in Ghent. Historically, the river earned its famous golden moniker because its incredibly pure waters were absolutely essential for the intensive retting (soaking) of locally grown flax, a crucial process that heavily drove the immensely wealthy Flemish linen industry. This process often gave the river a striking, distinctively yellowish hue. In the late 19th and early 20th centuries, the river's exceptionally tranquil, beautifully meandering landscapes and profound, shifting light became a major source of inspiration for the renowned Latem School of expressionist painters. Today, it is highly favored for deeply relaxing recreational boating and scenic cycling."
     },
     facts: {
       de: ["Wichtiger Fluss in Flandern.", "Prägt das Bild von Gent.", "Verbindet Stadt und Uferkultur.", "Beliebt für Spaziergänge am Wasser.", "Starker Begriff für flämische Reisen."],
@@ -2530,7 +2782,7 @@ export const belgiumNatureExtra: POI[] = [
       "A környéken több mint 600 kilométernyi túra- és kerékpárút várja az aktív pihenésre vágyókat."
     ],
     ro: [],
-    en: []
+    en: ["The Leie is famously known as the 'Golden River' due to its deep historical use in the intensive processing of golden-colored flax.", "The river's exceptionally pure, calcium-poor water was considered absolutely ideal for producing the world's highest quality linen.", "The exceptionally beautiful, meandering riverbanks heavily inspired the famous Latem School, a major movement of Belgian expressionist painters.", "It peacefully merges directly with the massive Scheldt river directly in the historic center of the city of Ghent.", "Today, the heavily modernized river is a highly popular destination for luxury pleasure boating and incredibly scenic rural cycling."]
   }
   },
     image: "/geo-images/belgium/river-leie.webp",
@@ -2546,6 +2798,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Dijle egy nyugodt folyó, amely Brabant régión és Leuven környékén halad át. Zöld partokat, városi sétányokat és kis hidakat köt össze. Nem hatalmas folyó, mégis nagyon fontos a városképek szempontjából. Leuven környéki természet- és városi tartalmakhoz ideális.",
       ro: "Dyle este un râu liniștit care traversează regiunea Brabant și zona Leuven. Leagă maluri verzi, trasee urbane de plimbare și poduri mici. Nu este un râu mare, dar contează mult pentru peisajele urbane. Pentru conținutul despre natură și oraș în zona Leuven, Dyle este ideal.",
       en: "The Dyle is a calm river flowing through Brabant and the Leuven area. It links green banks, urban walks, and small bridges. It is not a huge river, but it matters a lot in city scenery. For nature and city content around Leuven, the Dyle is ideal."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Dyle River (Dijle) is a highly significant, beautiful waterway that cuts directly through the heart of the deeply historic provinces of Walloon Brabant and Flemish Brabant. The river is most inextricably linked to the vibrant university city of Leuven and the deeply charming town of Mechelen, both of which historically relied heavily on the river's steady flow to power massive mills and facilitate lucrative inland trade. In Leuven, the river gracefully flows directly past the ancient, towering walls of the grand university buildings and the heavily preserved medieval Beguinage. The deeply meandering river valley also features the spectacular Doode Bemde nature reserve, an incredibly lush, heavily protected wetland area that regularly floods, creating a deeply rich habitat for diverse local birdlife and flora."
     },
     facts: {
       de: ["Fließt durch Brabant und Leuven.", "Eher klein, aber landschaftsprägend.", "Gut für ruhige Ufer-Content-Ideen.", "Wichtig für das Stadtbild von Leuven.", "Passt zu Natur und Stadtrouten."],
@@ -2563,7 +2821,7 @@ export const belgiumNatureExtra: POI[] = [
       "A völgyében több természetvédelmi terület és mocsárvidék található, gazdag madárvilággal."
     ],
     ro: [],
-    en: []
+    en: ["The river was historically an absolutely vital commercial artery that drove the immense wealth of the medieval cities of Leuven and Mechelen.", "It gracefully meanders directly through the spectacular, highly protected UNESCO World Heritage Great Beguinage in the city of Leuven.", "The Dyle heavily nourishes the massive Doode Bemde, a crucial, highly protected local wetland reserve known for its intense biodiversity.", "In the heavily industrialized 19th century, the river was heavily utilized to aggressively power massive local brewing and textile operations.", "Today, highly popular, deeply scenic canoe and kayak routes allow visitors to explore the historic river directly through the heart of Leuven."]
   },
   },
   {
@@ -2577,6 +2835,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Az Île d'Yvoir egy kis sziget a Meuse folyóban és szokatlan szabadidős célpont. A hely a vizet, a nyugalmat és a nyári programokat egy kompakt keretben kapcsolja össze. Ezért nagyon jó családi kirándulási ötletekhez. Belgiumi szigetpontként figyelemfelkeltő bejegyzés.",
       ro: "Île d'Yvoir este o mică insulă pe Meuse și o destinație de agrement neobișnuită. Locul combină apa, liniștea și activitățile de vară într-un cadru compact. De aceea este foarte bun pentru idei de excursii în familie. Ca punct de tip insulă în Belgia, este o intrare foarte vizibilă.",
       en: "Île d'Yvoir is a small island on the Meuse and an unusual leisure destination. The place combines water, calm, and summer activities in a compact setting. That makes it very good for family day-trip ideas. As an island point in Belgium, it is a striking entry."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The \u00cele d'Yvoir is a highly picturesque, wonderfully tranquil river island perfectly situated in the middle of the massive Meuse River, directly between the dramatic towns of Dinant and Namur. The heavily wooded island serves as a heavily protected natural sanctuary and a highly popular local recreational retreat during the hot summer months. It is completely inaccessible to motorized vehicles, reachable only by a charming, traditional small ferry that consistently operates from the riverbank. The island features an incredibly lush, highly shaded environment with expansive walking trails, deep swimming areas, and a deeply nostalgic atmosphere. It serves as a perfect, idyllic example of the intensely peaceful, deeply verdant river landscapes that beautifully characterize the Walloon region."
     },
     facts: {
       de: ["Kleine Insel in der Maas.", "Beliebt für Sommerausflüge.", "Eignet sich gut für Familien.", "Ungewöhnlicher Naturpunkt in Belgien.", "Starker Freizeit- und Flussbezug."],
@@ -2594,7 +2858,7 @@ export const belgiumNatureExtra: POI[] = [
       "A szigeten büfék, játszóterek és napozóhelyek várják a nyári látogatókat."
     ],
     ro: [],
-    en: []
+    en: ["The incredibly tranquil river island is entirely car-free and can only be accessed via a small, traditional passenger ferry.", "It serves as a highly popular, deeply peaceful local summer retreat featuring dedicated swimming areas and extensive shaded walking trails.", "The island is perfectly situated in a deeply scenic, highly dramatic section of the massive Meuse river valley.", "It hosts a highly popular, charming traditional tavern that has served countless generations of relaxed local river tourists.", "The heavily wooded environment provides a crucial, highly protected nesting sanctuary for numerous local river bird species."]
   },
   },
   {
@@ -2608,6 +2872,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Haspengouw Belgium egyik legismertebb gyümölcsös vidéke, az alma- és körte-termesztés központja. Tavasszal és ősszel a táj különösen vonzó utazáshoz és fotózáshoz. A régió egyértelműen köti össze a mezőgazdaságot, az évszakos színeket és a regionális termékeket. Agrár- és gasztrotartalmakhoz Haspengouw nagyon erős téma.",
       ro: "Haspengouw este una dintre cele mai cunoscute regiuni pomicole din Belgia și reprezintă centrul pentru mere și pere. Primăvara și toamna peisajul devine foarte atractiv pentru călătorii și fotografii. Regiunea leagă clar agricultura, culorile sezoniere și produsele locale. Pentru conținutul agro și gastronomic, Haspengouw este un subiect foarte puternic.",
       en: "Haspengouw is one of Belgium's best known fruit regions and stands for apple and pear growing. In spring and autumn the landscape becomes especially attractive for travel and photos. The region clearly combines agriculture, seasonal colors, and local products. For agritourism and food content, Haspengouw is a very strong theme."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Haspengouw Fruit Belt is an incredibly vast, remarkably fertile agricultural region located heavily in the province of Limburg, globally recognized as the undisputed fruit capital of Belgium. Characterized by its gently undulating, heavily loamy hills, the entire landscape is intensely dominated by millions of meticulously maintained apple, pear, and cherry orchards. In the middle of spring, the massive region undergoes a completely breathtaking visual transformation as the orchards simultaneously erupt into a spectacular, endless sea of white and pink blossoms. This massive, intensely vibrant floral display heavily draws thousands of enthusiastic tourists and cyclists. Beyond its immense, undeniable visual beauty, the region represents a massive, highly advanced agricultural industry that significantly exports premium Belgian fruit, particularly the famous 'Conference' pear, to markets entirely across the globe."
     },
     facts: {
       de: ["Bekannt für Obstplantagen.", "Starker Frühjahrs- und Herbstcharakter.", "Wichtige Agrarlandschaft in Limburg.", "Gut für Food- und Reisethemen.", "Häufige Kulisse für Blütenfahrten."],
@@ -2625,7 +2895,7 @@ export const belgiumNatureExtra: POI[] = [
       "A hullámzó dombok és a szabályos gyümölcsfa-sorok egyedi tájképet alkotnak."
     ],
     ro: [],
-    en: []
+    en: ["The massive region is widely recognized as the second-largest contiguous fruit-growing region in all of Western Europe.", "Every single April, the region explodes into a spectacular, intensely vibrant sea of millions of pink and white fruit blossoms.", "It is globally famous for massively producing the highly coveted, incredibly sweet 'Conference' pear, a major international export.", "The historic, deeply charming city of Sint-Truiden functions as the bustling, central commercial hub for the region's massive fruit trade.", "Many local, traditional farmers still produce 'Limburgse stroop', a highly dense, deliciously sweet dark syrup made from slow-cooked fruit."]
   },
   },
   {
@@ -2639,6 +2909,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "Hageland egy kicsi, de fejlődő bor- és agrártérség Flamand-Brabantban. A lágy dombok jól illenek szőlőhöz, gasztroútvonalakhoz és vidéki kirándulásokhoz. A régió jó példa a modern belga bortermelésre. Regionális gasztro- és boros keresésekhez Hageland nagyon illik.",
       ro: "Hageland este o zonă mică, dar în creștere, de vin și agricultură în Brabantul flamand. Dealurile line sunt potrivite pentru viță de vie, trasee gastronomice și excursii rurale. Regiunea este un exemplu bun de producție modernă de vin belgian. Pentru căutările regionale despre food și vin, Hageland se potrivește foarte bine.",
       en: "Hageland is a small but growing wine and agriculture area in Flemish Brabant. The gentle hills work well for vineyards, food routes, and rural outings. The region is a nice example of modern Belgian wine production. For regional food and wine searches, Hageland fits very well."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Hageland is a remarkably distinct, heavily undulating historical region located east of Leuven in Flemish Brabant, deeply famous for its increasingly prestigious, highly specialized wine production. Characterized by incredibly steep, heavily iron-rich sandstone hills, the region features a highly unique microclimate that is absolutely ideal for aggressive viticulture. Despite Belgium's typically cool, challenging northern climate, the Hageland has successfully produced highly acclaimed wines for centuries, a tradition that has seen a massive, incredibly successful modern revival. The intensely steep, southern-facing slopes efficiently capture maximum sunlight, allowing highly specialized grape varieties such as Chardonnay and Pinot Noir to perfectly ripen. The intensely scenic landscape is deeply dotted with numerous passionate, independent wineries that proudly offer highly popular, intimate tasting tours."
     },
     facts: {
       de: ["Weinregion in Flämisch-Brabant.", "Sanfte Hügel für Reben.", "Gut für Genuss- und Radwege.", "Wachsende belgische Weinproduktion.", "Starker Agrar- und Weinbegriff."],
@@ -2656,7 +2932,7 @@ export const belgiumNatureExtra: POI[] = [
       "A dombtetőkön álló szélmalmok és régi tanyák a táj elválaszthatatlan részei."
     ],
     ro: [],
-    en: []
+    en: ["The Hageland proudly became the absolute first officially recognized and highly protected wine-producing region in Belgium in 1997.", "The highly unique, deeply iron-rich sandstone hills incredibly absorb heat during the day, significantly aiding the ripening of the grapes.", "Despite the deeply challenging northern climate, the region successfully produces highly acclaimed, award-winning white and sparkling wines.", "The incredibly steep, heavily terraced vineyards require almost entirely manual, highly intensive labor during the harvest season.", "The region is deeply famous for its highly successful, modern revival of deeply traditional, centuries-old local viticulture."]
   },
   },
   {
@@ -2671,11 +2947,23 @@ export const belgiumNatureExtra: POI[] = [
       ro: "Pajottenland este cunoscut pentru băuturi regionale, tradiție de bere și apropierea de zona Bruxelles. Peisajul este potrivit pentru trasee gourmet cu sate, pajiști și producători locali. Aici se întâlnesc agricultura, cultura berii și apropierea de oraș. Pentru căutările despre food și bere artizanală, zona este foarte relevantă.",
       en: "Pajottenland is known for regional drinks, brewing tradition, and its proximity to Brussels. The landscape is good for food routes with villages, meadows, and local producers. Here agriculture, beer culture, and city proximity all meet. For food and craft beer searches, the area is highly relevant."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Pajottenland is a highly fertile, intensely picturesque agricultural region located just west of Brussels, globally revered as the exclusive, absolute heartland of traditional Lambic and Gueuze beer production. The region's gently rolling, heavily agricultural landscape is deeply characterized by centuries-old farmhouses and massively traditional, highly specialized breweries. The intensely unique, deeply traditional brewing process here relies entirely on 'spontaneous fermentation', an incredibly rare technique utilizing entirely wild, airborne yeast strains that are completely unique to the specific air of the Senne river valley. This incredibly complex, highly unpredictable method results in deeply sour, intensely complex, and perfectly earthy beers that are aged in massive oak barrels for years. The Pajottenland's deeply protected brewing heritage is considered a massive, highly significant cultural treasure of global gastronomy."
+    },
     facts: {
       de: ["Nahe Brüssel gelegen.", "Stark für Bier- und Genussrouten.", "Verbindet Land und Hauptstadtregion.", "Typisch flämische Kulturlandschaft.", "Guter Begriff für Craft-Content."],
       hu: ["Brüsszel közelében található.", "Erős sör- és gasztroútvonalakhoz.", "Összeköti a vidéket és a fővárosi régiót.", "Tipikus flamand kultúrtáj.", "Jó kifejezés kézműves tartalmakhoz."],
       ro: ["Aproape de Bruxelles.", "Puternic pentru trasee de bere și gastronomie.", "Leagă zona rurală de regiunea capitalei.", "Peisaj cultural tipic flamand.", "Termen bun pentru conținut craft."],
       en: ["Located near Brussels.", "Strong for beer and food routes.", "Links countryside and the capital region.", "A typical Flemish cultural landscape.", "A good term for craft content."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The Pajottenland is the absolute only region in the entire world where authentic, highly traditional Lambic beer can be properly produced.", "The highly complex brewing process strictly relies entirely on completely wild, unpredictable airborne yeast unique to the local river valley.", "Authentic Gueuze is incredibly complexly created by expertly blending very young and highly aged Lambic beers, then fermenting it heavily in the bottle.", "The incredibly scenic, heavily agricultural landscape heavily inspired the famous paintings of the renowned artist Pieter Bruegel the Elder.", "Many of the deeply traditional, fiercely independent local breweries operate exactly as they did well over a century ago."]
     },
     image: "/geo-images/belgium/agri-pajottenland-breweries.webp",
   },
@@ -2690,6 +2978,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Bobbejaanland Belgium egyik legismertebb vidámparkja és klasszikus családi célpont. A park játékokat, műsorokat és egy teljes napnyi szórakozást kínál. A Kempen régióban található, így Antwerpenből is jól elérhető. Gyerekbarát utazási tartalmakhoz nagyon erős név.",
       ro: "Bobbejaanland este unul dintre cele mai cunoscute parcuri de distracții din Belgia și o destinație clasică pentru familii. Parcul combină atracții, spectacole și o zi întreagă de divertisment. Se află în regiunea Kempen, deci este ușor de ajuns din Antwerp. Pentru conținutul de călătorie pentru copii, este un nume foarte puternic.",
       en: "Bobbejaanland is one of Belgium's best known amusement parks and a classic family destination. The park combines rides, shows, and a full day of entertainment. It sits in the Kempen region, so it is easy to reach from Antwerp. For kid-friendly travel content, it is a very strong name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bobbejaanland is a massive, highly popular family theme park located in the heavily wooded Campine region of the Antwerp province. Originally founded in 1961 by the incredibly famous Belgian country-western singer Bobbejaan Schoepen, the park initially started as an expansive entertainment venue centered around his massive, highly theatrical music shows and a deep, intensely themed Wild West village. Over the decades, it has massively evolved into a highly modern, fully-fledged amusement park featuring an incredibly wide array of high-speed roller coasters, massive water rides, and heavily themed indoor attractions. Despite its massive modern expansion, the park proudly retains deep, incredibly nostalgic elements of its original, highly quirky Western theme, making it an incredibly beloved, highly nostalgic destination for generations of Belgian families."
     },
     facts: {
       de: ["Bekannter Freizeitpark in Flandern.", "Beliebt für Familien und Kinder.", "Viele Fahrgeschäfte und Shows.", "Gut erreichbar aus Antwerpen.", "Starker Suchbegriff für Freizeitparks."],
@@ -2706,7 +3000,7 @@ export const belgiumNatureExtra: POI[] = [
       "Itt található Belgium egyik leggyorsabb hullámvasútja, amely adrenalin-dús élményt nyújt."
     ],
     ro: [],
-    en: []
+    en: ["The massive park was originally founded in 1961 by the highly famous, deeply beloved Belgian country singer Bobbejaan Schoepen.", "It heavily features a deeply nostalgic, fully realized 'Cowboy Town', serving as a massive nod to the founder's distinct musical heritage.", "The highly innovative 'Revolution' roller coaster was the absolute first massive indoor coaster of its specific kind when built in 1989.", "The park boasts over 40 highly diverse attractions, ranging from massive, high-speed thrill coasters to incredibly calm family water rides.", "In 2004, the massively popular family-owned park was officially sold to the massive international theme park operator Parques Reunidos."]
   }
   },
     image: "/geo-images/belgium/kid-bobbejaanland.webp",
@@ -2722,6 +3016,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Walibi Belgium egy nagy walloniai vidámpark, népszerű családi kirándulási célpont. A park hullámvasutakat, vizes attrakciókat és sok tematikus részt kínál. Wavre-ben található, ezért Brüsszelből is jól elérhető. Gyerekekre fókuszáló Belgium-utazásokhoz Walibi nagyon egyértelmű találat.",
       ro: "Walibi Belgium este un parc de distracții mare în Valonia și o destinație populară pentru excursii de familie. Parcul oferă montagne russe, atracții cu apă și multe zone tematice. Se află în Wavre, deci este ușor de ajuns din Bruxelles. Pentru călătoriile în Belgia orientate spre copii, Walibi este o alegere foarte clară.",
       en: "Walibi Belgium is a large amusement park in Wallonia and a popular family day-trip destination. The park offers roller coasters, water rides, and many themed areas. It sits in Wavre, so it is easy to reach from Brussels. For kid-focused Belgium travel, Walibi is a very clear hit."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Walibi Belgium is the absolute largest and most heavily visited theme park in the country, massively situated in Wavre just south of the capital city of Brussels. Since officially opening its massive gates in 1975, the park has continuously expanded to include an incredibly diverse array of high-intensity thrill rides, making it the premier, absolute top destination for dedicated roller coaster enthusiasts. The massive park is globally famous for spectacular, highly intense attractions like the massive 'Kondaa', the absolute tallest and fastest mega-coaster in the entire Benelux region. Beyond its massive collection of extreme thrills, Walibi also features highly expansive, beautifully themed family zones and a massive, fully integrated indoor tropical water park known as Aqualibi, ensuring a massively complete entertainment experience."
     },
     facts: {
       de: ["Großer Freizeitpark in Wavre.", "Sehr beliebt bei Familien.", "Viele Achterbahnen und Wasserfahrten.", "Gut von Brüssel aus erreichbar.", "Starker Begriff für Kinderreisen."],
@@ -2739,7 +3039,7 @@ export const belgiumNatureExtra: POI[] = [
       "Híres az extrém hullámvasútjairól, mint a 'Kondaa', ami az egyik legmagasabb és leggyorsabb a Benelux államokban."
     ],
     ro: [],
-    en: []
+    en: ["Walibi is widely recognized as the absolute largest, most heavily visited, and most famous amusement park in the entirety of Belgium.", "The massive 'Kondaa' mega-coaster reaches an incredible height of 50 meters and hits a massive top speed of 113 km/h.", "The famous name 'Walibi' was incredibly cleverly created by aggressively combining the first letters of three local towns: Wavre, Limal, and Bierges.", "The massive, intensely popular park features exactly nine highly distinct, massive roller coasters catering to all levels of intense thrill-seekers.", "It completely integrates the massive 'Aqualibi' indoor water park, featuring an incredibly huge, powerful tropical wave pool."]
   },
   },
   {
@@ -2753,6 +3053,12 @@ export const belgiumNatureExtra: POI[] = [
       hu: "A Pairi Daiza Belgium egyik legismertebb állatparkja, és jóval az ország határain túl is népszerű. Az intézmény állatvilágot, kertépítészeti tereket és élményzónákat kombinál. Ezért a látogatás különösen változatos családok és gyerekek számára. Állatkertekről és élményparkokról szóló tartalmakhoz top név.",
       ro: "Pairi Daiza este unul dintre cele mai cunoscute parcuri zoologice din Belgia și este popular mult peste granițe. Complexul combină lumi animale, peisaje de grădină și zone de experiență într-un mod foarte bun. De aceea vizita este foarte variată pentru familii și copii. Pentru conținutul despre zoo și parcuri de experiență, Pairi Daiza este un nume de top.",
       en: "Pairi Daiza is one of Belgium's best known animal parks and is popular far beyond the country's borders. The site combines animal worlds, garden landscapes, and experience zones very well. That makes the visit especially varied for families and kids. For zoo and experience-park content, Pairi Daiza is a top name."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Pairi Daiza is a completely breathtaking, massively award-winning zoological and botanical park located on the incredibly expansive grounds of a former, highly historic Cistercian abbey in the province of Hainaut. It is repeatedly voted the absolute best zoo in all of Europe. Far beyond a traditional animal park, Pairi Daiza is deeply designed as an incredibly immersive, global journey featuring highly authentic, massive architectural recreations of distinct world cultures, from a massive, ornate Chinese garden to a deeply detailed, highly authentic African village. The massive park houses over 7,000 highly diverse animals, including extremely rare giant pandas, majestic white tigers, and massive Asian elephants, all living in incredibly expansive, highly enriched, beautifully designed habitats. The intensely detailed park offers an absolutely magical, highly educational experience."
     },
     facts: {
       de: ["Einer der berühmtesten Zoos Belgiens.", "Sehr stark für Familienbesuche.", "Kombiniert Tiere und Gartenwelten.", "Beliebt weit über Belgien hinaus.", "Top-Suchbegriff für Erlebnisparks."],
@@ -2770,7 +3076,7 @@ export const belgiumNatureExtra: POI[] = [
       "A park területén egy egykori ciszterci apátság romjai is megtalálhatók, ami különleges hangulatot ad."
     ],
     ro: [],
-    en: []
+    en: ["Pairi Daiza has been consistently and proudly voted as the absolute 'Best Zoo in Europe' multiple times by leading international organizations.", "The massive park is incredibly famous for successfully breeding highly rare, deeply protected giant pandas, a massive conservation achievement.", "It features the absolute largest, incredibly authentic, heavily detailed traditional Chinese garden in the entire continent of Europe.", "The intensely immersive park is dramatically built directly onto the massive, highly historic ruins of the 12th-century Cambron Abbey.", "Visitors can incredibly book an overnight stay in massively luxurious, highly themed lodges featuring massive glass walls looking directly into animal habitats."]
   },
   },
   {
@@ -2785,11 +3091,23 @@ export const belgiumNatureExtra: POI[] = [
       ro: "Bellewaerde este un parc pentru familii lângă Ypres, care combină animale, atracții și distracție. Este potrivit mai ales pentru familii cu copii mici. Se află în Flandra de Vest, deci se poate combina bine cu vizite la coastă sau în orașe. Pentru călătoriile prietenoase cu copiii în Belgia, este o intrare foarte utilă.",
       en: "Bellewaerde is a family park near Ypres that combines animals, rides, and fun. It is especially good for families with younger kids. Its location in West Flanders also makes it easy to combine with coast or city visits. For kid-friendly travel in Belgium, it is a very useful entry."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bellewaerde is a highly unique, incredibly popular theme park deeply located near the historic city of Ypres in West Flanders. It highly uniquely, completely seamlessly blends a massive, intensely exciting amusement park with a deeply expansive, fully functioning zoological garden. Originally founded entirely as an ornithological park in 1954, it has massively expanded over the decades to include highly thrilling roller coasters, massive, intensely soaking water rides, and highly detailed, incredibly spacious animal enclosures. The massive park is heavily themed around deeply lush, highly natural environments, offering a perfectly balanced, deeply relaxing day of extreme thrills and intense wildlife observation. It is particularly famous for its massive, highly intense water attractions, which perfectly complement the incredibly expansive, beautifully shaded woodland setting."
+    },
     facts: {
       de: ["Familienpark in Westflandern.", "Geeignet für Kinder und jüngere Familien.", "Kombiniert Tiere und Fahrgeschäfte.", "Gut mit Ypern und Küste kombinierbar.", "Beliebter Freizeitbegriff."],
       hu: ["Családi park Nyugat-Flandriában.", "Gyerekeknek és fiatal családoknak jó.", "Állatokat és játékokat kombinál.", "Ypres-szel és a parttal jól összeköthető.", "Népszerű szabadidős kifejezés."],
       ro: ["Parc de familie în Flandra de Vest.", "Potrivit pentru copii și familii tinere.", "Combină animale și atracții.", "Bun de combinat cu Ypres și coasta.", "Termen popular de agrement."],
       en: ["A family park in West Flanders.", "Good for children and younger families.", "Combines animals and rides.", "Easy to combine with Ypres and the coast.", "A popular leisure term."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Bellewaerde is incredibly unique in Belgium for perfectly, seamlessly combining a massive thrill park directly with an expansive, fully functioning zoo.", "The massive park was originally opened in 1954 entirely as an expansive, highly specialized ornithological (bird) park.", "It features a massive, incredibly popular water attraction called the 'Jungle Mission', previously known as the highly iconic 'Tow Boat Ride'.", "The massive, intensely popular 'Boomerang' coaster was the absolute first massive coaster in Europe to feature a highly intense backward loop.", "The sprawling, deeply shaded park is highly famous for its incredibly lush, heavily wooded, perfectly maintained natural landscaping."]
     },
     image: "/geo-images/belgium/kid-bellewaerde.webp"
   }
@@ -2808,6 +3126,12 @@ export const belgiumRound2: POI[] = [
       ro: "Râul Meuse este unul dintre marile râuri ale Belgiei și modelează o mare parte din Valonia. Valea sa leagă orașe, fortărețe și peisaje liniștite de mal.",
       en: "The Meuse is one of Belgium's major rivers and shapes much of Wallonia. Its valley links cities, fortresses, and calm riverside landscapes."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Meuse River (Maas) is an absolutely majestic, incredibly powerful waterway that deeply cuts directly through the striking, highly rugged landscapes of the Walloon region. Entering Belgium from France, the massive river intensely carves a highly dramatic, incredibly deep valley flanked by spectacularly massive, towering limestone cliffs and incredibly dense, dark forests. This highly strategic, deeply navigable river has historically served as an absolutely crucial commercial and military artery for thousands of years, evidenced by the numerous massive, heavily fortified citadels, such as those in Dinant and Namur, that spectacularly dominate its high banks. Today, the deeply meandering river is a highly massive center for active tourism, offering incredibly popular, highly scenic cruises and featuring an absolutely extensive, beautifully paved cycling network along its banks."
+    },
     facts: {
       de: ["Die Maas ist der zweitlängste Fluss in Belgien.", "Sie fließt durch wichtige Städte wie Lüttich und Namur.", "Das Tal war lange ein Handels- und Verkehrsraum.", "Entlang des Flusses gibt es viele Festungen und Uferwege."],
       hu: ["A Meuse Belgium második leghosszabb folyója.", "Fontos városokon, például Liège-en és Namuron halad át.", "Völgye régóta kereskedelmi és közlekedési útvonal.", "Partjai mentén sok erőd és sétány található."],
@@ -2824,7 +3148,7 @@ export const belgiumRound2: POI[] = [
       "A park egy első világháborús harctér helyén épült, amire emlékművek is utalnak a környéken."
     ],
     ro: [],
-    en: []
+    en: ["The massive Meuse River aggressively carves one of the absolute most dramatic, deeply spectacular river valleys in all of Northern Europe.", "The heavily fortified, massive citadels of Dinant and Namur were strategically built perfectly on the towering cliffs overlooking the deep river.", "Historically, the massive, highly navigable river was an absolutely crucial, deeply contested medieval trade route connecting France to the deep North Sea.", "The exceptionally beautiful, highly dramatic riverbanks are heavily dotted with numerous ancient, perfectly preserved historic castles and abbeys.", "It features a massively popular, perfectly flat, highly extensive international cycling path that runs completely along the water's edge."]
   },
   },
   {
@@ -2839,12 +3163,24 @@ export const belgiumRound2: POI[] = [
       ro: "Valea Ourthe este una dintre cele mai frumoase zone riverane din Ardeni. Meandrele, pădurile și stâncile o fac ideală pentru excursii.",
       en: "The Ourthe Valley is one of the most beautiful river landscapes in the Ardennes. Its bends, forests, and rocky scenery make it a favorite for day trips."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Ourthe is an incredibly beautiful, highly dynamic river that serves as the absolute lifeblood of the spectacular Belgian Ardennes. Rising in the deep, highly remote high plateaus, the river aggressively winds its way through deeply forested, incredibly tight valleys before eventually merging with the Meuse River in Li\u00e8ge. The massive river valley is globally renowned for its incredibly rugged, heavily dramatic scenery, featuring towering, completely sheer rock formations and incredibly picturesque, deeply isolated medieval villages like the famous 'smallest city' of Durbuy. The Ourthe is highly celebrated as an absolute paradise for extreme outdoor enthusiasts, offering highly challenging, deeply exciting kayaking on its fast-moving upper stretches and incredibly demanding, massive hiking trails along its heavily wooded, steeply elevated ridges."
+    },
 
     facts: {
       de: ["Das Tal ist besonders bei Wanderern und Kajakfahrern beliebt.", "Die Ourthe mündet in Lüttich in die Maas.", "Viele kleine Orte liegen direkt an den Ufern.", "Die Gegend ist für ihre Aussichtspunkte bekannt."],
       hu: ["A völgy különösen népszerű a túrázók és kajakozók körében.", "Az Ourthe Liège-nél torkollik a Meuse-ba.", "Sok kis település közvetlenül a partján fekszik.", "A környék kilátópontjairól ismert."],
       ro: ["Valea este foarte populară printre drumeți și caiaciști.", "Ourthe se varsă în Meuse la Liège.", "Multe localități mici se află chiar pe maluri.", "Zona este cunoscută pentru punctele sale de belvedere."],
       en: ["The valley is especially popular with hikers and kayakers.", "The Ourthe joins the Meuse at Liège.", "Many small villages sit directly on its banks.", "The area is known for scenic viewpoints."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The highly dynamic Ourthe is an absolutely major, highly powerful tributary of the massive Meuse river system.", "The deeply scenic, highly dramatic river valley is extremely famous for its incredibly imposing, heavily folded limestone rock formations.", "It flows directly past Durbuy, widely and proudly known as the absolutely 'smallest city in the world'.", "The incredibly fast-moving, highly clear river is deeply popular for intense, highly active summer kayaking and extreme canoeing.", "The massive river valley features the incredibly expansive 'Nisramont Dam', which aggressively controls the massive water flow of its two primary branches."]
     },
     image: "/geo-images/belgium/nat-ourthe.webp",
   },
@@ -2877,13 +3213,13 @@ export const belgiumRound2: POI[] = [
       "A völgy mentén számos 'sziklaösvény' található, amelyek izgalmas túraélményt nyújtanak a meredek falakon."
     ],
     ro: [],
-    en: [],
+    en: ["The massive Semois river is incredibly famous for its highly extreme, incredibly tight meanders, deeply winding through the dense Ardennes forest.", "The highly dramatic 'Tombeau du G\u00e9ant' (Giant's Tomb) is an incredibly perfect, highly photographed river bend view in the valley.", "The deeply isolated valley historically supported a highly massive, intensely specialized, internationally renowned local tobacco industry.", "The incredibly imposing, massive Bouillon Castle is highly strategically built directly on a sharp, rocky ridge formed perfectly by the river.", "The highly rugged, incredibly steep valley walls offer some of the absolute most demanding, highly rewarding hiking trails in the country."],
   },
   descriptionAdvanced: {
     de: "",
     hu: "Az Ourthe folyó az Ardennek legfontosabb és legszebb folyója, amely két ágból, a Keleti- és Nyugati-Ourthe-ból egyesül Houffalize közelében. A folyó mélyen bevágódik az erdei tájba, számtalan kanyarulatot és festői völgyet hozva létre. Különösen népszerű a vízi sportok kedvelői körében, hiszen tavasztól őszig kajakosok és kenusok tömegei élvezik a tiszta vizet és a vadregényes partokat. A folyó mentén fekszik Durbuy, a 'világ legkisebb városa', és számos középkori várrom, mint például La Roche-en-Ardenne. Az Ourthe völgye igazi menedék a természet szerelmeseinek, ahol ritka madárfajokat és érintetlen erdőket fedezhetnek fel.",
     ro: "",
-    en: "",
+    en: "The Semois Valley is undeniably one of the absolute most spectacular, deeply enchanting natural regions in the entirety of Belgium. The massive, highly winding Semois river deeply carves its way through the dense, incredibly ancient forests of the southern Ardennes, creating an incredibly long, highly complex series of extreme, deeply tight meanders. This heavily isolated, incredibly tranquil valley is deeply steeped in massive local folklore and rich history, most notably serving as the ancient, deeply strategic stronghold for the legendary Crusader knight Godfrey of Bouillon, whose massive castle heavily dominates the valley. The incredibly unique, heavily protected microclimate of the deep valley also historically supported a highly massive, internationally famous tobacco cultivation industry, a deeply fascinating local heritage that is still proudly celebrated today.",
   },
   factsAdvanced: {
     de: [],
@@ -2914,7 +3250,7 @@ export const belgiumRound2: POI[] = [
     de: "",
     hu: "Ypres (vagy hollandul Ieper) városa az első világháború egyik legfontosabb és legtragikusabb helyszíne, ahol évekig tartó, véres állóháború zajlott. A várost a háború során szinte teljesen elpusztították, de a lakók hűen az eredeti tervekhez, mindent újjáépítettek a béke után. A központi posztócsarnok (Lakenhalle) Európa egyik legnagyobb és legszebb gótikus polgári épülete, amely ma a 'Flandria mezőin' múzeumnak ad otthont. A város kapuja, a Menin Gate, minden este megható szertartás helyszíne, ahol az elesett brit katonákra emlékeznek. Ypres ma a béke városa, ahol a történelem minden utcasarkon jelen van, emlékeztetve a látogatókat a múlt borzalmaira és az újrakezdés erejére.",
     ro: "",
-    en: "",
+    en: "Ypres (Ieper) is an incredibly historic, beautifully rebuilt city in West Flanders that holds a deeply profound, massively somber place in global history. During the devastating First World War, the city found itself directly in the path of the massive, intensely brutal Western Front, enduring years of absolutely relentless artillery bombardment that reduced its magnificent medieval center to complete, utter rubble. Following the devastating conflict, the fiercely proud city was meticulously, incredibly faithfully completely rebuilt, brick by brick, to its exact, original pre-war medieval glory, including the massive, spectacularly beautiful Cloth Hall. Today, Ypres is a globally recognized, deeply moving center for peace and remembrance. Every single evening, the profoundly moving Last Post ceremony is played under the massive Menin Gate, honoring the countless soldiers who fell in the surrounding, heavily scarred fields.",
     },
     facts: {
       de: ["Das Menenpoort-Denkmal erinnert an die gefallenen Soldaten des Ersten Weltkriegs.", "Die Stadt ist ein Zentrum der Erinnerung an die Flanders Fields.", "Ypern wurde nach dem Krieg weitgehend in historischer Form rekonstruiert.", "Die Last Post-Zeremonie findet hier seit Jahrzehnten statt."],
@@ -2931,7 +3267,7 @@ export const belgiumRound2: POI[] = [
       "Ypres környékén több mint 150 katonai temető található, köztük a hatalmas Tyne Cot."
     ],
     ro: [],
-    en: []
+    en: ["The incredibly magnificent, massive medieval Cloth Hall was completely destroyed in WWI but meticulously, perfectly rebuilt exactly to its original plans.", "The massive Menin Gate memorial contains the deeply inscribed names of exactly 54,395 Commonwealth soldiers who have no known grave.", "Every single night since 1928, the deeply moving 'Last Post' bugle call is fiercely sounded under the massive Menin Gate.", "The city was the terrifying site of the absolute first massive, highly lethal poison gas attacks in the history of warfare.", "The massive 'In Flanders Fields Museum', located directly in the Cloth Hall, offers an incredibly detailed, profoundly moving history of the conflict."]
   },
     image: "/geo-images/belgium/hist-ypres.webp",
   },
@@ -2947,12 +3283,24 @@ export const belgiumRound2: POI[] = [
       ro: "Bastogne este un simbol central al Bătăliei din Ardeni din iarna 1944/45. Orașul este strâns legat de rezistența Diviziei 101 Aeropurtate.",
       en: "Bastogne is a central symbol of the Battle of the Bulge in winter 1944-45. The town is closely tied to the resilience of the 101st Airborne Division."
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bastogne is a fiercely proud, highly historic town deeply located in the rugged Belgian Ardennes, globally forever synonymous with the incredibly brutal, deeply desperate Battle of the Bulge during the harsh winter of 1944. During a massive, highly surprising German offensive, a heavily outnumbered, completely surrounded garrison of American paratroopers intensely held the vital crossroads town against overwhelming, massive odds. The town's incredibly resolute defense, famously highlighted by General McAuliffe's defiant, single-word reply of 'Nuts!' to a massive German surrender demand, became completely legendary. Today, Bastogne is deeply dedicated to preserving this massive historical legacy. The town is surrounded by deeply moving, highly atmospheric memorials, perfectly preserved foxholes in the deep surrounding forests, and massive, highly immersive museums dedicated entirely to the massive battle."
+    },
 
     facts: {
       de: ["Die Stadt war während der Ardennenoffensive belagert.", "Das Mardasson Memorial erinnert an die amerikanischen Soldaten.", "Das Bastogne War Museum erzählt die Geschichte der Schlacht.", "Die Region ist bis heute ein wichtiger Erinnerungsort."],
       hu: ["A várost az ardenneki offenzíva idején ostrom alá vették.", "A Mardasson-emlékmű az amerikai katonákra emlékeztet.", "A Bastogne War Museum a csata történetét mutatja be.", "A térség ma is fontos emlékhely."],
       ro: ["Orașul a fost asediat în timpul ofensivei din Ardeni.", "Memorialul Mardasson comemorează soldații americani.", "Muzeul Războiului Bastogne povestește bătălia.", "Zona rămâne un loc important al memoriei istorice."],
       en: ["The town was besieged during the Ardennes Offensive.", "The Mardasson Memorial honors American soldiers.", "The Bastogne War Museum tells the story of the battle.", "The area remains an important memorial site."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Bastogne was completely surrounded and heavily besieged by massive German forces during the incredibly brutal 1944 Battle of the Bulge.", "American General McAuliffe famously, fiercely replied with the single word 'Nuts!' when massively demanded to completely surrender the town.", "The massive, incredibly imposing Mardasson Memorial deeply honors the 76,890 American soldiers heavily killed or wounded in the massive campaign.", "The massive 'Bastogne War Museum' offers an incredibly detailed, highly immersive, deeply emotional narrative experience of the brutal siege.", "Incredibly preserved, deeply harrowing original soldier foxholes are still perfectly visible in the dense 'Bois Jacques' forest entirely surrounding the town."]
     },
     image: "/geo-images/belgium/hist-bastogne.webp",
   },
@@ -2967,6 +3315,12 @@ export const belgiumRound2: POI[] = [
       hu: "A Galeries Royales Saint-Hubert elegáns fedett passzázs Brüsszel szívében. Klasszikus üvegteteje és luxus kirakatai miatt korai európai mintának számít.",
       ro: "Galeries Royales Saint-Hubert sunt o pasarelă acoperită elegantă în inima Bruxelles-ului. Acoperișul de sticlă și vitrinele luxoase au făcut-o un model timpuriu european.",
       en: "Galeries Royales Saint-Hubert is an elegant covered arcade in the heart of Brussels. Its classic glass roof and luxury storefronts made it an early European model."
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Galeries Royales Saint-Hubert in Brussels represent an absolute masterpiece of 19th-century urban design and are widely considered one of the very first, and most spectacularly beautiful, covered shopping arcades in all of Europe. Designed by the visionary architect Jean-Pierre Cluysenaar and officially opened in 1847, the massive, highly elegant complex consists of three distinct, spectacular galleries flooded with beautiful natural light from an incredibly massive, soaring arched glass roof. The arcades were originally built to provide a highly luxurious, completely weather-protected promenade for the city's wealthy elite, successfully replacing a maze of dark, heavily congested alleyways. Today, the incredibly opulent, perfectly preserved arcades are lined with high-end luxury boutiques, highly historic cafes, massive independent bookstores, and some of the absolute finest, most prestigious chocolatiers in the entire world."
     },
 
     facts: {
@@ -2984,7 +3338,7 @@ export const belgiumRound2: POI[] = [
       "A környékbeli erdőkben (Bois Jacques) ma is láthatók a 101-es ejtőernyős hadosztály eredeti állásai."
     ],
     ro: [],
-    en: []
+    en: ["Opened in 1847, the massive complex is widely considered one of the absolute oldest, most highly spectacular covered shopping arcades in Europe.", "The incredibly elegant, massive arcade is completely protected by an incredibly soaring, highly intricate vaulted glass and iron roof.", "The incredibly historic 'Taverne du Passage' located inside was a highly famous, heavily frequented meeting place for prominent 19th-century artists and writers.", "The massive galleries are heavily lined with the absolute finest, most globally prestigious luxury Belgian chocolate boutiques.", "The incredibly intricate, beautifully ornate Italian Renaissance-style facades were deliberately designed to exude massive, intense luxury and wealth."]
   }
   },
     image: "/geo-images/belgium/sight-galeries-stroom.webp",
@@ -3042,7 +3396,7 @@ export const belgiumRound2: POI[] = [
     de: "",
     hu: "A brugge-i csokoládémúzeum, a Choco-Story, az édesszájúak igazi szentélye, amely egy gyönyörű középkori épületben kapott helyet. A kiállítás bemutatja a kakaó történetét a maják és aztékok korától kezdve egészen a modern belga pralinékig. A látogatók megismerhetik a csokoládékészítés titkait, a különböző alapanyagokat és a hagyományos gépeket. A múzeum fénypontja a látványkonyha, ahol mestercukrászok mutatják be, hogyan készülnek a híres töltött bonbonok. Természetesen a látogatás végén kóstolásra is van lehetőség, ahol mindenki meggyőződhet a belga csokoládé világhírű minőségéről.",
     ro: "",
-    en: "",
+    en: "Choco-Story, deeply located in the historic center of Bruges, is a highly engaging, incredibly comprehensive museum dedicated entirely to the massive, globally renowned history of Belgian chocolate. Housed perfectly within 'De Croone', a beautifully preserved, highly historic 15th-century wine tavern, the museum offers an incredibly deep, deeply fascinating dive into the complete journey of cocoa. The extensive exhibits meticulously trace the massive, thousands-of-years-old history of the cocoa bean, beginning with the ancient, heavily ritualistic spicy drinks of the Maya and Aztecs, all the way to its massive, highly lucrative introduction to the royal courts of Europe. The deeply immersive museum strongly emphasizes the specific, highly refined techniques that elevated Belgian pralines to absolute global fame, culminating in highly popular, live masterclass demonstrations by expert chocolatiers.",
     },
     facts: {
       de: ["Das Museum widmet sich ganz der Schokoladengeschichte.", "Brügge passt gut zum Thema, weil Belgien für Schokolade berühmt ist.", "Es gibt Vorführungen zur Herstellung von Pralinen.", "Die Ausstellung verbindet Kulturgeschichte mit Genuss."],
@@ -3059,7 +3413,7 @@ export const belgiumRound2: POI[] = [
       "A múzeum épülete, a 'Huis de Croon', egykor borozóként és fogadóként szolgált a 15. században."
     ],
     ro: [],
-    en: []
+    en: ["The highly comprehensive museum deeply traces the complete, massive 4,000-year global history of cocoa and chocolate production.", "It is perfectly housed in a highly stunning, exceptionally well-preserved, historic 15th-century building in the heart of Bruges.", "The museum deeply emphasizes the specific, highly refined development of the famous Belgian praline, a massive chocolate filled with soft center.", "Highly skilled, master chocolatiers offer incredibly engaging, completely live, highly detailed daily demonstrations of traditional praline making.", "The museum incredibly features an absolutely massive, completely highly detailed chocolate sculpture depicting the deeply historic center of Bruges."]
   },
     image: "/geo-images/belgium/sight-chocolate-museum-bruges.webp",
   },
@@ -3079,7 +3433,7 @@ export const belgiumRound2: POI[] = [
     de: "",
     hu: "Antwerpen Flandria legnagyobb városa és a világ gyémántkereskedelmének központja, amely a Schelde folyó partján fekszik. A város aranykora a 16. században volt, aminek emlékeit a pompás főtér és a hatalmas katedrális máig őrzi. Antwerpen híres a divatjáról is, itt tanultak az 'antwerpeni hatok', akik forradalmasították a modern öltözködést. A kikötő közelsége és a multikulturális környezet vibráló, világpolgári hangulatot kölcsönöz a városnak. Rubens, a híres barokk festő itt élt és alkotott, egykori háza ma az egyik legnépszerűbb múzeum. A város gasztronómiája is lenyűgöző, a Michelin-csillagos éttermektől a hagyományos sült krumplizókig minden megtalálható.",
     ro: "",
-    en: "",
+    en: "Antwerp is a massively dynamic, incredibly vibrant global metropolis that perfectly balances deeply historic architectural grandeur with an intensely modern, highly avant-garde edge. As the second-largest city in Belgium, it is globally dominated by its massive, incredibly powerful port, which has heavily driven its immense wealth since the massive economic boom of the 16th century 'Golden Age'. This deep historical prosperity is spectacularly visible in the incredibly opulent guildhalls of the massive Grote Markt and the spectacular, soaring spire of the Cathedral of Our Lady. Antwerp is also globally famous as an absolute, undisputed world capital for the massive, highly secretive diamond trade. Furthermore, the city heavily boasts an incredibly profound artistic legacy, inextricably linked to the master painter Peter Paul Rubens, and is today globally recognized as a massive, highly influential powerhouse in modern international fashion.",
     },
     facts: {
       de: ["Antwerpen ist die zweitgroesste Stadt Belgiens.", "Der Hafen Antwerpen-Bruegge ist einer der groessten Europas.", "Die Stadt ist weltbekannt fuer den Diamantenhandel.", "Rubens lebte und arbeitete lange in Antwerpen.", "Der Hauptbahnhof gehoert zu den schoensten Europas."],
@@ -3096,7 +3450,7 @@ export const belgiumRound2: POI[] = [
       "Itt található a világ egyik legrégebbi és legszebb állatkertje, amely közvetlenül a vasútállomás mellett fekszik."
     ],
     ro: [],
-    en: []
+    en: ["Antwerp boasts the absolute second-largest, most heavily trafficked maritime port in the entire continent of Europe.", "The city is globally, heavily famous as the absolute undisputed world capital for the highly massive, extremely secretive diamond trade.", "The incredibly spectacular Cathedral of Our Lady features the absolute highest, most deeply impressive church spire in all of Belgium.", "The massive city is profoundly inextricably linked to the master Baroque painter Peter Paul Rubens, whose deeply preserved home is a major museum.", "The internationally famous 'Antwerp Six' massively established the city as a deeply powerful, highly influential global capital for avant-garde fashion."]
   },
     image: "/geo-images/belgium/city-antwerp.webp",
   },

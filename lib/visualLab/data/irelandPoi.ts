@@ -1,4 +1,7 @@
 import type { POI } from "./poi";
+import { poiExtraIrelandAnimal } from "./poiExtraIrelandAnimal";
+import { poiExtraIrelandCities } from "./poiExtraIrelandCities";
+import { poiExtraIrelandOther } from "./poiExtraIrelandOther";
 
 export const irelandCountry: POI = {
   id: "ireland",
@@ -1956,4 +1959,4 @@ export const irelandCulture: POI[] = [
   }
 ];
 
-export const irelandAllPoi: POI[] = [irelandCountry, ...irelandRegions, ...irelandCities, ...irelandCulture, ...irelandNature];
+export const irelandAllPoi: POI[] = [irelandCountry, ...irelandRegions, ...irelandCities, ...irelandCulture, ...irelandNature, ...poiExtraIrelandAnimal, ...poiExtraIrelandCities, ...poiExtraIrelandOther];

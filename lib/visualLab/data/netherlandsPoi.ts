@@ -1,4 +1,5 @@
 import type { POI } from "./poi";
+import { poiExtraNetherlandsCities } from "./poiExtraNetherlandsCities";
 
 export const netherlandsCountry: POI = {
   id: "NL",
@@ -790,7 +791,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Cunoscut pentru brânza Gouda și piața istorică de brânzeturi.", "Locul de naștere al vafelor cu sirop (Stroopwafels).", "Sint-Janskerk are vitralii impresionante.", "Primăria gotică datează din secolul al XV-lea.", "Lumânările Gouda sunt tradiționale și cunoscute.", "Se mândrește cu canale istorice pitorești."],
       en: ["Known for Gouda cheese and the historic cheese market.", "Home of the syrup waffles (Stroopwafels).", "The Sint-Janskerk has impressive stained glass windows.", "Its Gothic town hall dates from the 15th century.", "Gouda candles are traditional and well-known.", "Boasts picturesque historic canals."]
     }
-  },  {
+  },
+  {
     id: "nl-enschede", type: "city", parent: "NL-OV", coords: [6.8937, 52.2215],
     name: { de: "Enschede", hu: "Enschede", ro: "Enschede", en: "Enschede" },
     image: "/geo-images/netherlands/enschede.webp",
@@ -874,7 +876,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Catedrala Sf. Ioan (Sint-Jan) este puternic influențată de stilul gotic.", "Orașul natal al pictorului Hieronymus Bosch.", "Binnendieze este un sistem de canale parțial subteran istoric.", "Faimos pentru specialitatea dulce 'Bossche Bol'.", "Unul dintre cele mai vechi orașe din Țările de Jos.", "Găzduiește unul dintre cele mai mari carnavaluri din țară."],
       en: ["St. John's Cathedral (Sint-Jan) is strongly influenced by the Gothic style.", "Hometown of the painter Hieronymus Bosch.", "The historic Binnendieze is a partially underground canal system.", "Famous for the sweet specialty 'Bossche Bol'.", "One of the oldest cities in the Netherlands.", "Hosts one of the largest carnivals in the country."]
     }
-  },  {
+  },
+  {
     id: "nl-dordrecht", type: "city", parent: "NL-ZH", coords: [4.6683, 51.8133],
     name: { de: "Dordrecht", hu: "Dordrecht", ro: "Dordrecht", en: "Dordrecht" },
     image: "/geo-images/netherlands/dordrecht.webp",
@@ -907,7 +910,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Renumit în întreaga lume pentru piața tradițională de brânzeturi din Waagplein.", "Asediul de succes din Alkmaar din 1573 ca punct de cotitură în Războiul de Optzeci de Ani.", "Găzduiește Muzeul Național al Berii De Boom.", "Muzeul Brânzei se află în clădirea istorică Waag.", "Multe hofjes (curți) istorice conservate.", "Un important centru cultural la nord de Amsterdam."],
       en: ["World-famous for the traditional cheese market on the Waagplein.", "Successful siege of Alkmaar in 1573 as a turning point in the Eighty Years' War.", "Houses the National Beer Museum De Boom.", "The Cheese Museum is located in the historic Waag building.", "Many preserved historic hofjes (courtyards).", "An important cultural center north of Amsterdam."]
     }
-  },  {
+  },
+  {
     id: "nl-mauritshuis", type: "landmark", parent: "NL-ZH", coords: [4.3145, 52.0803],
     name: { de: "Mauritshuis", hu: "Mauritshuis", ro: "Mauritshuis", en: "Mauritshuis" },
     image: "/geo-images/netherlands/mauritshuis.webp",
@@ -940,7 +944,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Construit inițial ca Primărie a Amsterdamului (1648).", "Considerată cea mai mare clădire seculară din secolul al XVII-lea.", "Astăzi este folosit pentru recepții de stat și evenimente regale.", "Sala Cetățenilor prezintă hărți ale lumii impresionante pe podea.", "Se sprijină pe peste 13.000 de piloni de lemn.", "Louis Bonaparte l-a transformat în palat regal în 1808."],
       en: ["Originally built as the Amsterdam Town Hall (1648).", "Considered the largest secular building of the 17th century.", "Today it is used for state receptions and royal events.", "The Citizens' Hall features impressive world maps on the floor.", "Rests on over 13,000 wooden piles.", "Louis Bonaparte made it a royal palace in 1808."]
     }
-  },  {
+  },
+  {
     id: "nl-kinderdijk-wind", type: "landmark", parent: "NL-ZH", coords: [4.6389, 51.8833],
     name: { de: "Mühlen von Kinderdijk", hu: "Kinderdijk szélmalmai", ro: "Morile de vânt din Kinderdijk", en: "Windmills at Kinderdijk" },
     image: "/geo-images/netherlands/kinderdijk-wind.webp",
@@ -990,7 +995,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Sediul Curții Internaționale de Justiție a ONU.", "Găzduiește, de asemenea, Curtea Permanentă de Arbitraj și o mare bibliotecă.", "Deschis în 1913 chiar înainte de Primul Război Mondial.", "Finanțat de filantropul Andrew Carnegie.", "Țări din întreaga lume au donat materiale pentru construcție.", "Simbolizează statutul Hagăi de oraș al păcii."],
       en: ["Seat of the UN International Court of Justice.", "Also houses the Permanent Court of Arbitration and a large library.", "Opened in 1913 shortly before World War I.", "Funded by philanthropist Andrew Carnegie.", "Countries around the world donated materials for construction.", "Symbolizes The Hague's status as a city of peace."]
     }
-  },  {
+  },
+  {
     id: "nl-waddenzee", type: "landmark", parent: "NL-FR", coords: [5.4000, 53.4500],
     name: { de: "Wattenmeer", hu: "Watt-tenger", ro: "Marea Wadden", en: "Wadden Sea" },
     image: "/geo-images/netherlands/waddenzee.webp",
@@ -1006,7 +1012,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Patrimoniul natural mondial UNESCO din 2009.", "Cel mai mare sistem de maree din lume.", "Un habitat important pentru foci.", "Loc de odihnă pentru milioane de păsări migratoare în fiecare an.", "Mersul pe noroi (Wadlopen) este o activitate populară.", "Se întinde de-a lungul coastei olandeze și a insulelor Mării Nordului."],
       en: ["UNESCO World Natural Heritage Site since 2009.", "Largest tidal system in the world.", "An important habitat for seals.", "Resting place for millions of migratory birds annually.", "Mudflat walking (Wadlopen) is a popular activity.", "Stretches along the Dutch coast and the North Sea islands."]
     }
-  },  {
+  },
+  {
     id: "nl-biesbosch", type: "landmark", parent: "NL-NB", coords: [4.8000, 51.7500],
     name: { de: "De Biesbosch", hu: "De Biesbosch", ro: "De Biesbosch", en: "De Biesbosch" },
     image: "/geo-images/netherlands/biesbosch.webp",
@@ -1022,7 +1029,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Un sistem rar de maree cu apă dulce.", "Creat de inundația Sf. Elisabeta din 1421.", "Renumit pentru populația sa de castori europeni.", "Foarte popular pentru excursiile cu canoe și bărci cu șoapte.", "Loc important de reproducere pentru multe păsări de apă.", "Situat la granița dintre Olanda de Sud și Brabantul de Nord."],
       en: ["A rare freshwater tidal system.", "Created by the St. Elizabeth's flood in 1421.", "Famous for its population of European beavers.", "Very popular for canoe and whisper boat tours.", "Important breeding ground for many water birds.", "Located on the border of South Holland and North Brabant."]
     }
-  },  {
+  },
+  {
     id: "nl-dunes-kennemerland", type: "landmark", parent: "NL-NH", coords: [4.5500, 52.4500],
     name: { de: "Nationalpark Zuid-Kennemerland", hu: "Zuid-Kennemerland Nemzeti Park", ro: "Parcul Național Zuid-Kennemerland", en: "Zuid-Kennemerland National Park" },
     image: "/geo-images/netherlands/dunes-kennemerland.webp",
@@ -1055,7 +1063,8 @@ export const netherlandsCities: POI[] = [
       ro: ["Există încă 52 de morminte megalitice păstrate în Țările de Jos.", "Cele mai multe sunt situate în provincia Drenthe.", "Construite din bolovani care au venit din Scandinavia în timpul Epocii de Gheață.", "Mai vechi decât Stonehenge și piramidele.", "În Borger se află cel mai mare mormânt megalitic (D27) și Hunebedcentrum.", "Au servit drept locuri de înmormântare colective."],
       en: ["There are still 52 preserved dolmens in the Netherlands.", "Most are located in the province of Drenthe.", "Built from boulders that came from Scandinavia during the Ice Age.", "Older than Stonehenge and the pyramids.", "In Borger is the largest dolmen (D27) and the Hunebedcentrum.", "Served as collective burial places."]
     }
-  },  {
+  },
+  {
     id: "nl-vondelpark", type: "landmark", parent: "NL-NH", coords: [4.8686, 52.3580],
     name: { de: "Vondelpark", hu: "Vondelpark", ro: "Vondelpark", en: "Vondelpark" },
     image: "/geo-images/netherlands/vondelpark.webp",
@@ -1074,8 +1083,6 @@ export const netherlandsCities: POI[] = [
   }
 ];
 
-export const netherlandsAllPoi: POI[] = [
-  netherlandsCountry,
+export const netherlandsAllPoi: POI[] = [netherlandsCountry,
   ...netherlandsRegions,
-  ...netherlandsCities
-];
+  ...netherlandsCities, ...poiExtraNetherlandsCities];

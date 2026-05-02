@@ -11,15 +11,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Grenzstadt am Amazonas im äußersten Süden.",
       hu: "Határváros az Amazonas mentén az ország legdélibb pontján.",
       ro: "Oraș de frontieră pe Amazon în sudul extrem.",
-      en: "Border city on the Amazon River in the far south."
-    },
+      en: "Border city on the Amazon River in the far south." },
     facts: {
       de: ["Grenzt an Brasilien und Peru.", "Zugang zum Amazonas-Regenwald."],
       hu: ["Brazíliával és Peruval határos.", "Belépési pont az Amazonas esőerdőbe."],
       ro: ["Se învecinează cu Brazilia și Peru.", "Poartă de acces către pădurea amazoniană."],
       en: ["Borders Brazil and Peru.", "Gateway to the Amazon rainforest."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 1.", "O atracție culturală remarcabilă în zona Cities 1."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "medellin-cities-v2",
     type: "state-capital",
@@ -30,15 +32,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die zweitgrößte Stadt des Landes, Stadt des ewigen Frühlings.",
       hu: "Az ország második legnagyobb városa, az örök tavasz városa.",
       ro: "Al doilea oraș ca mărime din țară, orașul primăverii veșnice.",
-      en: "The second largest city, the city of eternal spring."
-    },
+      en: "The second largest city, the city of eternal spring." },
     facts: {
       de: ["Liegt im Aburrá-Tal.", "Besitzt das einzige Metrosystem Kolumbiens."],
       hu: ["Az Aburrá-völgyben fekszik.", "Kolumbia egyetlen metróhálózatával rendelkezik."],
       ro: ["Situat în Valea Aburrá.", "Are singurul sistem de metrou din Columbia."],
       en: ["Located in the Aburrá Valley.", "Has the only metro system in Colombia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 2.", "O atracție culturală remarcabilă în zona Cities 2."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "arauca-cities-v2",
     type: "state-capital",
@@ -49,15 +53,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtige Erdölstadt an der Grenze zu Venezuela.",
       hu: "Fontos kőolajipari város a venezuelai határon.",
       ro: "Oraș petrolier important la granița cu Venezuela.",
-      en: "Important oil city on the border with Venezuela."
-    },
+      en: "Important oil city on the border with Venezuela." },
     facts: {
       de: ["Zentrum der Llanos-Kultur.", "Wirtschaft basiert auf Öl."],
       hu: ["A llanos-kultúra központja.", "Gazdasága a kőolajra épül."],
       ro: ["Centrul culturii llanos.", "Economia se bazează pe petrol."],
       en: ["Center of the Llanos culture.", "Economy is based on oil."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 3.", "O atracție culturală remarcabilă în zona Cities 3."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "barranquilla-cities-v2",
     type: "state-capital",
@@ -68,15 +74,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bedeutende Hafenstadt an der Karibikküste.",
       hu: "Jelentős kikötőváros a Karib-tenger partján.",
       ro: "Oraș portuar important pe coasta Caraibelor.",
-      en: "Major port city on the Caribbean coast."
-    },
+      en: "Major port city on the Caribbean coast." },
     facts: {
       de: ["Berühmt für seinen Karneval.", "Das Goldene Tor Kolumbiens."],
       hu: ["Híres hatalmas karneváljáról.", "Kolumbia aranykapujának is nevezik."],
       ro: ["Faimos pentru carnavalul său.", "Poarta de Aur a Columbiei."],
       en: ["Famous for its carnival.", "The Golden Gate of Colombia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 4.", "O atracție culturală remarcabilă în zona Cities 4."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "cartagena-cities-v2",
     type: "state-capital",
@@ -87,15 +95,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Historische Kolonialstadt und Touristenziel.",
       hu: "Történelmi gyarmati város és turisztikai célpont.",
       ro: "Oraș colonial istoric și destinație turistică.",
-      en: "Historic colonial city and tourist destination."
-    },
+      en: "Historic colonial city and tourist destination." },
     facts: {
       de: ["Altstadt ist UNESCO-Weltkulturerbe.", "Die Festungsmauern sind erhalten."],
       hu: ["Az óváros UNESCO Világörökség.", "Erődfalai még mindig állnak."],
       ro: ["Centrul vechi este Patrimoniu UNESCO.", "Zidurile fortificate s-au păstrat."],
       en: ["Old town is UNESCO World Heritage.", "The fortress walls are preserved."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 5.", "O atracție culturală remarcabilă în zona Cities 5."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "tunja-cities-v2",
     type: "state-capital",
@@ -106,15 +116,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eine der ältesten und höchstgelegenen Städte.",
       hu: "Az ország egyik legrégebbi és legmagasabban fekvő városa.",
       ro: "Unul dintre cele mai vechi și înalte orașe.",
-      en: "One of the oldest and highest cities."
-    },
+      en: "One of the oldest and highest cities." },
     facts: {
       de: ["Wurde 1539 gegründet.", "Bekannt für koloniale Architektur."],
       hu: ["1539-ben alapították.", "Gyarmati építészetéről ismert."],
       ro: ["A fost fondat în 1539.", "Cunoscut pentru arhitectura colonială."],
       en: ["Founded in 1539.", "Known for colonial architecture."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 6.", "O atracție culturală remarcabilă în zona Cities 6."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "manizales-cities-v2",
     type: "state-capital",
@@ -125,15 +137,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zentrum des kolumbianischen Kaffeeanbaugebiets.",
       hu: "A kolumbiai kávétermelő vidék központja.",
       ro: "Centrul regiunii columbiene de cultivare a cafelei.",
-      en: "Center of the Colombian coffee growing region."
-    },
+      en: "Center of the Colombian coffee growing region." },
     facts: {
       de: ["Liegt nahe dem Vulkan Nevado del Ruiz.", "Berühmt für das Kaffeefestival."],
       hu: ["A Nevado del Ruiz vulkán közelében fekszik.", "Híres éves kávéfesztiváljáról."],
       ro: ["Aproape de vulcanul Nevado del Ruiz.", "Renumit pentru festivalul cafelei."],
       en: ["Near the Nevado del Ruiz volcano.", "Famous for the coffee festival."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 7.", "O atracție culturală remarcabilă în zona Cities 7."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "florencia-cities-v2",
     type: "state-capital",
@@ -144,15 +158,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Handelsplatz im Übergangsgebiet zum Amazonas.",
       hu: "Kereskedelmi központ az Amazonas átmeneti övezetében.",
       ro: "Centru comercial spre Amazon.",
-      en: "Trading center in the transition to the Amazon."
-    },
+      en: "Trading center in the transition to the Amazon." },
     facts: {
       de: ["Tor zum kolumbianischen Amazonasgebiet.", "Zentrum der Viehzucht."],
       hu: ["A kolumbiai Amazonas-vidék kapuja.", "Az állattenyésztés központja."],
       ro: ["Poarta către Amazonul columbian.", "Centru pentru creșterea vitelor."],
       en: ["Gateway to the Colombian Amazon.", "Center of cattle ranching."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 8.", "O atracție culturală remarcabilă în zona Cities 8."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "yopal-cities-v2",
     type: "state-capital",
@@ -163,15 +179,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Schnell wachsende Stadt in den Llanos.",
       hu: "Gyorsan növekvő város a keleti síkságon.",
       ro: "Oraș cu creștere rapidă în Llanos.",
-      en: "Fast-growing city in the plains."
-    },
+      en: "Fast-growing city in the plains." },
     facts: {
       de: ["Wichtiger Stützpunkt der Ölindustrie.", "Gegründet im frühen 20. Jahrhundert."],
       hu: ["Az olajipar fontos támaszpontja.", "A 20. század elején alapították."],
       ro: ["Bază importantă a industriei petroliere.", "Fondat la începutul secolului 20."],
       en: ["Important base for the oil industry.", "Founded in the early 20th century."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 9.", "O atracție culturală remarcabilă în zona Cities 9."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "popayan-cities-v2",
     type: "state-capital",
@@ -182,15 +200,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Berühmt für weiß gestrichene Kolonialbauten.",
       hu: "Híres fehérre festett gyarmati épületeiről.",
       ro: "Faimos pentru clădirile coloniale vopsite în alb.",
-      en: "Famous for white-painted colonial buildings."
-    },
+      en: "Famous for white-painted colonial buildings." },
     facts: {
       de: ["Die weiße Stadt Kolumbiens.", "Besitzt eine reiche religiöse Tradition."],
       hu: ["Kolumbia fehér városa.", "Gazdag vallási hagyományokkal rendelkezik."],
       ro: ["Orașul alb al Columbiei.", "Are o bogată tradiție religioasă."],
       en: ["The white city of Colombia.", "Possesses a rich religious tradition."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 10.", "O atracție culturală remarcabilă în zona Cities 10."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "valledupar-cities-v2",
     type: "state-capital",
@@ -201,15 +221,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Das musikalische Herz der Vallenato-Musik.",
       hu: "A hagyományos vallenato zene szíve.",
       ro: "Inima muzicii tradiționale vallenato.",
-      en: "The musical heart of Vallenato music."
-    },
+      en: "The musical heart of Vallenato music." },
     facts: {
       de: ["Veranstaltet das Vallenato-Festival.", "Liegt an der Sierra Nevada de Santa Marta."],
       hu: ["Megrendezik a Vallenato Fesztivált.", "A Sierra Nevada de Santa Marta lábánál fekszik."],
       ro: ["Găzduiește festivalul de vallenato.", "La poalele Sierra Nevada de Santa Marta."],
       en: ["Hosts the Vallenato festival.", "At the foot of the Sierra Nevada de Santa Marta."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 11.", "O atracție culturală remarcabilă în zona Cities 11."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "quibdo-cities-v2",
     type: "state-capital",
@@ -220,15 +242,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Hauptstadt mit starkem afro-kolumbianischem Einfluss.",
       hu: "Erős afrokolumbiai hatású főváros az Atrato folyónál.",
       ro: "Capitală cu puternică influență afro-columbiană.",
-      en: "Capital with strong Afro-Colombian influence."
-    },
+      en: "Capital with strong Afro-Colombian influence." },
     facts: {
       de: ["Eine der regenreichsten Städte der Welt.", "Zentrum der pazifischen Region."],
       hu: ["A világ egyik legcsapadékosabb városa.", "A csendes-óceáni régió központja."],
       ro: ["Unul dintre cele mai ploioase orașe.", "Centrul regiunii pacifice."],
       en: ["One of the rainiest cities.", "Center of the Pacific region."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 12.", "O atracție culturală remarcabilă în zona Cities 12."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "monteria-cities-v2",
     type: "state-capital",
@@ -239,15 +263,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die landwirtschaftliche Hauptstadt am Río Sinú.",
       hu: "A Sinú folyó partján fekvő mezőgazdasági főváros.",
       ro: "Capitala agricolă pe malul râului Sinú.",
-      en: "The agricultural capital on the Sinú River."
-    },
+      en: "The agricultural capital on the Sinú River." },
     facts: {
       de: ["Wichtiges Viehzuchtzentrum.", "Bietet viele Flusspromenaden."],
       hu: ["Fontos állattenyésztési központ.", "Számos folyóparti sétánnyal rendelkezik."],
       ro: ["Important centru de creștere a vitelor.", "Oferă multe promenade pe râu."],
       en: ["Important cattle ranching center.", "Offers many river promenades."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 13.", "O atracție culturală remarcabilă în zona Cities 13."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "bogota-cities-v2",
     type: "state-capital",
@@ -258,15 +284,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die hoch gelegene Hauptstadt und kulturelles Zentrum.",
       hu: "Az ország magasan fekvő fővárosa és kulturális központja.",
       ro: "Capitala situată la mare altitudine și centru cultural.",
-      en: "The high-altitude capital and cultural center."
-    },
+      en: "The high-altitude capital and cultural center." },
     facts: {
       de: ["Hat fast 8 Millionen Einwohner.", "Bekannt für das Goldmuseum."],
       hu: ["Közel 8 millió lakosa van.", "Kiváló aranymúzeumáról ismert."],
       ro: ["Are aproape 8 milioane de locuitori.", "Cunoscut pentru muzeul aurului."],
       en: ["Has nearly 8 million inhabitants.", "Known for the Gold Museum."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 14.", "O atracție culturală remarcabilă în zona Cities 14."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "inirida-cities-v2",
     type: "state-capital",
@@ -277,15 +305,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Abgelegene Stadt im Amazonasgebiet.",
       hu: "Félreeső város az Amazonas-vidéken.",
       ro: "Oraș izolat în regiunea amazoniană.",
-      en: "Remote city in the Amazon region."
-    },
+      en: "Remote city in the Amazon region." },
     facts: {
       de: ["Nur per Flugzeug oder Schiff erreichbar.", "Bekannt für die Mavecure-Hügel."],
       hu: ["Csak repülővel vagy hajóval közelíthető meg.", "A Mavecure-hegyekről ismert."],
       ro: ["Accesibil doar cu avionul sau barca.", "Cunoscut pentru dealurile Mavecure."],
       en: ["Accessible only by plane or boat.", "Known for the Cerros de Mavecure."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 15.", "O atracție culturală remarcabilă în zona Cities 15."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "san-jose-del-guaviare-cities-v2",
     type: "state-capital",
@@ -296,15 +326,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtiges Tor zum tiefen Dschungelgebiet.",
       hu: "Fontos kapu a mély dzsungelvidék felé.",
       ro: "Poartă importantă către jungla adâncă.",
-      en: "Important gateway to the deep jungle."
-    },
+      en: "Important gateway to the deep jungle." },
     facts: {
       de: ["Liegt am Ufer des Río Guaviare.", "Berühmt für die Höhlenmalereien in der Nähe."],
       hu: ["A Guaviare folyó partján fekszik.", "Híres a közeli barlangrajzokról."],
       ro: ["Situat pe malul râului Guaviare.", "Faimos pentru picturile rupestre din apropiere."],
       en: ["Located on the Guaviare River.", "Famous for nearby rock paintings."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 16.", "O atracție culturală remarcabilă în zona Cities 16."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "neiva-cities-v2",
     type: "state-capital",
@@ -315,15 +347,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Hauptstadt der Provinz Huila am Magdalena-Fluss.",
       hu: "Huila tartomány fővárosa a Magdalena folyó mentén.",
       ro: "Capitala provinciei Huila pe râul Magdalena.",
-      en: "Capital of the Huila province on the Magdalena River."
-    },
+      en: "Capital of the Huila province on the Magdalena River." },
     facts: {
       de: ["Bekannt für das San-Pedro-Festival.", "Wichtiger landwirtschaftlicher Knotenpunkt."],
       hu: ["A San Pedro fesztiválról ismert.", "Fontos mezőgazdasági csomópont."],
       ro: ["Cunoscut pentru festivalul San Pedro.", "Nod agricol important."],
       en: ["Known for the San Pedro Festival.", "Important agricultural hub."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 17.", "O atracție culturală remarcabilă în zona Cities 17."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "riohacha-cities-v2",
     type: "state-capital",
@@ -334,15 +368,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die wichtigste Stadt der Wüstenhalbinsel La Guajira.",
       hu: "A La Guajira sivatagi félsziget legfontosabb városa.",
       ro: "Cel mai important oraș din peninsula deșertică La Guajira.",
-      en: "The most important city of the La Guajira desert peninsula."
-    },
+      en: "The most important city of the La Guajira desert peninsula." },
     facts: {
       de: ["Zentrum der Wayúu-Kultur.", "Bietet Zugang zum Cabo de la Vela."],
       hu: ["A Wayúu kultúra központja.", "Innen közelíthető meg a Cabo de la Vela."],
       ro: ["Centrul culturii Wayúu.", "Oferă acces la Cabo de la Vela."],
       en: ["Center of the Wayúu culture.", "Provides access to Cabo de la Vela."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 18.", "O atracție culturală remarcabilă în zona Cities 18."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "santa-marta-cities-v2",
     type: "state-capital",
@@ -353,15 +389,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eine der ältesten bestehenden Städte Südamerikas.",
       hu: "Dél-Amerika egyik legrégebben fennálló városa.",
       ro: "Unul dintre cele mai vechi orașe din America de Sud.",
-      en: "One of the oldest existing cities in South America."
-    },
+      en: "One of the oldest existing cities in South America." },
     facts: {
       de: ["Tor zum Tayrona-Nationalpark.", "Sterbeort von Simón Bolívar."],
       hu: ["A Tayrona Nemzeti Park kapuja.", "Simón Bolívar halálozási helye."],
       ro: ["Poarta către Parcul Național Tayrona.", "Locul morții lui Simón Bolívar."],
       en: ["Gateway to Tayrona National Park.", "Deathplace of Simón Bolívar."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 19.", "O atracție culturală remarcabilă în zona Cities 19."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "villavicencio-cities-v2",
     type: "state-capital",
@@ -372,15 +410,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Das Tor zu den weiten Ebenen im Osten des Landes.",
       hu: "Kapu az ország keleti részén elterülő síkságokhoz.",
       ro: "Poarta către câmpiile vaste din estul țării.",
-      en: "Gateway to the vast plains in the east of the country."
-    },
+      en: "Gateway to the vast plains in the east of the country." },
     facts: {
       de: ["Wichtiges Handelszentrum für Rinder.", "Umgeben von beeindruckenden Naturlandschaften."],
       hu: ["A szarvasmarha-kereskedelem fontos központja.", "Lenyűgöző természeti tájak veszik körül."],
       ro: ["Centru comercial important pentru vite.", "Înconjurat de peisaje naturale impresionante."],
       en: ["Important trading center for cattle.", "Surrounded by impressive natural landscapes."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 20.", "O atracție culturală remarcabilă în zona Cities 20."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "pasto-cities-v2",
     type: "state-capital",
@@ -391,15 +431,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Hoch gelegene Stadt im Süden, berühmt für ihren Karneval.",
       hu: "Magasan fekvő város délen, mely karneváljáról híres.",
       ro: "Oraș la mare altitudine în sud, faimos pentru carnavalul său.",
-      en: "High-altitude city in the south, famous for its carnival."
-    },
+      en: "High-altitude city in the south, famous for its carnival." },
     facts: {
       de: ["Austragungsort des Carnaval de Negros y Blancos.", "Liegt in der Nähe des Vulkans Galeras."],
       hu: ["A Feketék és Fehérek Karneváljának helyszíne.", "A Galeras vulkán közelében fekszik."],
       ro: ["Gazda Carnavalului Negrilor și Albilor.", "Situat lângă vulcanul Galeras."],
       en: ["Host of the Blacks and Whites' Carnival.", "Located near the Galeras volcano."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 21.", "O atracție culturală remarcabilă în zona Cities 21."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "cucuta-cities-v2",
     type: "state-capital",
@@ -410,15 +452,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bedeutende Grenzstadt im Nordosten des Landes.",
       hu: "Jelentős határváros az ország északkeleti részén.",
       ro: "Oraș de frontieră important în nord-estul țării.",
-      en: "Important border city in the northeast of the country."
-    },
+      en: "Important border city in the northeast of the country." },
     facts: {
       de: ["Wichtiger Handelsübergang nach Venezuela.", "Geprägt von historischen Verträgen."],
       hu: ["Fontos kereskedelmi átkelő Venezuela felé.", "Történelmi szerződések helyszíne."],
       ro: ["Punct important de comerț cu Venezuela.", "Marcat de tratate istorice."],
       en: ["Important trade crossing to Venezuela.", "Marked by historical treaties."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 22.", "O atracție culturală remarcabilă în zona Cities 22."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "mocoa-cities-v2",
     type: "state-capital",
@@ -429,15 +473,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Kleine Hauptstadt im Amazonas-Vorland.",
       hu: "Kis főváros az Amazonas előterében.",
       ro: "Mică capitală la marginea Amazonului.",
-      en: "Small capital in the Amazon foothills."
-    },
+      en: "Small capital in the Amazon foothills." },
     facts: {
       de: ["Umgeben von dichter Dschungel-Vegetation.", "Tor zum wasserreichen Putumayo-Gebiet."],
       hu: ["Sűrű dzsungel növényzet veszi körül.", "A vizekben gazdag Putumayo-régió kapuja."],
       ro: ["Înconjurat de vegetație de junglă densă.", "Poarta către regiunea Putumayo, bogată în apă."],
       en: ["Surrounded by dense jungle vegetation.", "Gateway to the water-rich Putumayo region."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 23.", "O atracție culturală remarcabilă în zona Cities 23."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "armenia-cities-v2",
     type: "state-capital",
@@ -448,15 +494,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zentrale Stadt im berühmten Kaffee-Dreieck.",
       hu: "Központi város a híres Kávé-háromszögben.",
       ro: "Oraș central în faimosul Triunghi al Cafelei.",
-      en: "Central city in the famous Coffee Triangle."
-    },
+      en: "Central city in the famous Coffee Triangle." },
     facts: {
       de: ["Bekannt für hervorragenden Kaffeeanbau.", "Nahe dem Nationalpark Los Nevados."],
       hu: ["Kiváló kávétermesztéséről ismert.", "A Los Nevados Nemzeti Park közelében található."],
       ro: ["Cunoscut pentru cultivarea excelentă a cafelei.", "Aproape de Parcul Național Los Nevados."],
       en: ["Known for excellent coffee cultivation.", "Near the Los Nevados National Park."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 24.", "O atracție culturală remarcabilă în zona Cities 24."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "pereira-cities-v2",
     type: "state-capital",
@@ -467,15 +515,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtigstes wirtschaftliches Zentrum der Kaffeeachse.",
       hu: "A kávétengely legfontosabb gazdasági központja.",
       ro: "Cel mai important centru economic al axei cafelei.",
-      en: "The most important economic center of the coffee axis."
-    },
+      en: "The most important economic center of the coffee axis." },
     facts: {
       de: ["Verfügt über eine moderne Infrastruktur.", "Die bevölkerungsreichste Stadt des Kaffeedreiecks."],
       hu: ["Modern infrastruktúrával rendelkezik.", "A kávéháromszög legnépesebb városa."],
       ro: ["Are o infrastructură modernă.", "Cel mai populat oraș din Triunghiul Cafelei."],
       en: ["Has modern infrastructure.", "The most populous city of the Coffee Triangle."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 25.", "O atracție culturală remarcabilă în zona Cities 25."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "san-andres-cities-v2",
     type: "state-capital",
@@ -486,15 +536,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Hauptstadt der karibischen Inselgruppe Kolumbiens.",
       hu: "Kolumbia karibi szigetcsoportjának fővárosa.",
       ro: "Capitala arhipelagului caraibian al Columbiei.",
-      en: "Capital of Colombia's Caribbean archipelago."
-    },
+      en: "Capital of Colombia's Caribbean archipelago." },
     facts: {
       de: ["Berühmt für das Meer der sieben Farben.", "Ein wichtiges touristisches Ziel."],
       hu: ["A hét szín tengeréről híres.", "Fontos turisztikai célpont."],
       ro: ["Faimos pentru marea cu șapte culori.", "O destinație turistică importantă."],
       en: ["Famous for the sea of seven colors.", "A major tourist destination."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 26.", "O atracție culturală remarcabilă în zona Cities 26."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "bucaramanga-cities-v2",
     type: "state-capital",
@@ -505,15 +557,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Auch bekannt als die Stadt der Parks.",
       hu: "A parkok városaként is ismert település.",
       ro: "Cunoscut și sub numele de orașul parcurilor.",
-      en: "Also known as the city of parks."
-    },
+      en: "Also known as the city of parks." },
     facts: {
       de: ["Wichtiges Bildungszentrum der Region.", "Umgeben von den Ausläufern der Anden."],
       hu: ["A régió fontos oktatási központja.", "Az Andok nyúlványai veszik körül."],
       ro: ["Centru educațional important al regiunii.", "Înconjurat de poalele Anzilor."],
       en: ["Important educational center of the region.", "Surrounded by the foothills of the Andes."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 27.", "O atracție culturală remarcabilă în zona Cities 27."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "sincelejo-cities-v2",
     type: "state-capital",
@@ -524,15 +578,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bekannt für traditionelle Feste in der Karibikregion.",
       hu: "A karibi régióban hagyományos fesztiváljairól ismert.",
       ro: "Cunoscut pentru festivalurile tradiționale din regiunea Caraibelor.",
-      en: "Known for traditional festivals in the Caribbean region."
-    },
+      en: "Known for traditional festivals in the Caribbean region." },
     facts: {
       de: ["Zentrum der lokalen Viehzucht.", "Austragungsort der Corralejas-Feste."],
       hu: ["A helyi állattenyésztés központja.", "A Corralejas fesztiválok helyszíne."],
       ro: ["Centrul creșterii animalelor la nivel local.", "Gazda festivalurilor Corralejas."],
       en: ["Center of local cattle ranching.", "Host of the Corralejas festivals."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 28.", "O atracție culturală remarcabilă în zona Cities 28."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "ibague-cities-v2",
     type: "state-capital",
@@ -543,15 +599,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wird oft als Musikhauptstadt Kolumbiens bezeichnet.",
       hu: "Gyakran Kolumbia zenei fővárosának nevezik.",
       ro: "Adesea denumită capitala muzicală a Columbiei.",
-      en: "Often referred to as the musical capital of Colombia."
-    },
+      en: "Often referred to as the musical capital of Colombia." },
     facts: {
       de: ["Liegt am Fuße des Vulkans Tolima.", "Veranstaltet das alljährliche Folklore-Festival."],
       hu: ["A Tolima vulkán lábánál fekszik.", "Itt rendezik az éves Folklór Fesztivált."],
       ro: ["Situat la poalele vulcanului Tolima.", "Găzduiește festivalul anual de folclor."],
       en: ["Located at the foot of the Tolima volcano.", "Hosts the annual Folklore Festival."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 29.", "O atracție culturală remarcabilă în zona Cities 29."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "cali-cities-v2",
     type: "state-capital",
@@ -562,15 +620,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die drittgrößte Stadt und weltweite Hauptstadt des Salsa.",
       hu: "A harmadik legnagyobb város és a salsa világfővárosa.",
       ro: "Al treilea oraș ca mărime și capitala mondială a salsei.",
-      en: "The third largest city and the salsa capital of the world."
-    },
+      en: "The third largest city and the salsa capital of the world." },
     facts: {
       de: ["Wichtigstes sportliches Zentrum Kolumbiens.", "Umgeben von ausgedehnten Zuckerrohrplantagen."],
       hu: ["Kolumbia legfontosabb sportközpontja.", "Kiterjedt cukornádültetvények veszik körül."],
       ro: ["Cel mai important centru sportiv din Columbia.", "Înconjurat de vaste plantații de trestie de zahăr."],
       en: ["Most important sports center in Colombia.", "Surrounded by extensive sugarcane plantations."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 30.", "O atracție culturală remarcabilă în zona Cities 30."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "mitu-cities-v2",
     type: "state-capital",
@@ -581,15 +641,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eine isolierte Stadt im Herzen des Amazonas-Regenwalds.",
       hu: "Elszigetelt város az Amazonas esőerdő szívében.",
       ro: "Un oraș izolat în inima pădurii tropicale amazoniene.",
-      en: "An isolated city in the heart of the Amazon rainforest."
-    },
+      en: "An isolated city in the heart of the Amazon rainforest." },
     facts: {
       de: ["Stark von indigenen Kulturen geprägt.", "Nur sehr schwer auf dem Landweg erreichbar."],
       hu: ["Erősen meghatározzák az őslakos kultúrák.", "Szárazföldi úton nagyon nehezen megközelíthető."],
       ro: ["Puternic influențat de culturile indigene.", "Foarte greu accesibil pe uscat."],
       en: ["Strongly influenced by indigenous cultures.", "Very difficult to reach by land."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 31.", "O atracție culturală remarcabilă în zona Cities 31."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "puerto-carreno-cities-v2",
     type: "state-capital",
@@ -600,15 +662,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Grenzstadt am Río Orinoco an der Grenze zu Venezuela.",
       hu: "Határváros az Orinoco folyónál, a venezuelai határon.",
       ro: "Oraș de graniță pe râul Orinoco, la granița cu Venezuela.",
-      en: "Border city on the Orinoco River, on the border with Venezuela."
-    },
+      en: "Border city on the Orinoco River, on the border with Venezuela." },
     facts: {
       de: ["Wichtiger Binnenhafen im Osten.", "Eingebettet in unberührte Savannenlandschaften."],
       hu: ["Fontos keleti belföldi kikötő.", "Érintetlen szavannai tájakba ágyazva."],
       ro: ["Important port interior în est.", "Înconjurat de peisaje de savană neatinse."],
       en: ["Important inland port in the east.", "Nestled in untouched savanna landscapes."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 32.", "O atracție culturală remarcabilă în zona Cities 32."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "soledad-cities-v2",
     type: "city",
@@ -619,15 +683,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bevölkerungsreiche Gemeinde, die eng mit Barranquilla verbunden ist.",
       hu: "Népes község, amely szorosan kapcsolódik Barranquillához.",
       ro: "Municipiu populat, strâns legat de Barranquilla.",
-      en: "Populous municipality closely linked to Barranquilla."
-    },
+      en: "Populous municipality closely linked to Barranquilla." },
     facts: {
       de: ["Heimat des Nationalmuseums der Luftfahrt.", "Wichtiger Industriestandort."],
       hu: ["A Nemzeti Repülési Múzeum otthona.", "Fontos ipari központ."],
       ro: ["Găzduiește Muzeul Național de Aviație.", "Centru industrial important."],
       en: ["Home to the National Aviation Museum.", "Important industrial hub."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 33.", "O atracție culturală remarcabilă în zona Cities 33."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "soacha-cities-v2",
     type: "city",
@@ -638,15 +704,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Große Vorstadt von Bogotá mit reicher indigener Geschichte.",
       hu: "Bogotá nagy külvárosa gazdag őslakos történelemmel.",
       ro: "Suburban mare al Bogotei cu o bogată istorie indigenă.",
-      en: "Large suburb of Bogotá with rich indigenous history."
-    },
+      en: "Large suburb of Bogotá with rich indigenous history." },
     facts: {
       de: ["Bekannt für die archäologische Stätte Salto de Tequendama.", "Eine der am dichtesten besiedelten Städte."],
       hu: ["Ismert a Salto de Tequendama régészeti lelőhelyről.", "Az egyik legsűrűbben lakott város."],
       ro: ["Cunoscut pentru situl arheologic Salto de Tequendama.", "Unul dintre cele mai dens populate orașe."],
       en: ["Known for the Salto de Tequendama archaeological site.", "One of the most densely populated cities."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 34.", "O atracție culturală remarcabilă în zona Cities 34."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "bello-cities-v2",
     type: "city",
@@ -657,15 +725,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bedeutendes Industriezentrum nördlich von Medellín.",
       hu: "Jelentős ipari központ Medellíntől északra.",
       ro: "Centru industrial semnificativ la nord de Medellín.",
-      en: "Significant industrial center north of Medellín."
-    },
+      en: "Significant industrial center north of Medellín." },
     facts: {
       de: ["Geburtsort des ehemaligen Präsidenten Marco Fidel Suárez.", "Teil des Metropolbezirks Aburrá-Tal."],
       hu: ["Marco Fidel Suárez volt elnök szülőhelye.", "Az Aburrá-völgyi nagyvárosi körzet része."],
       ro: ["Locul de naștere al fostului președinte Marco Fidel Suárez.", "Face parte din zona metropolitană Valea Aburrá."],
       en: ["Birthplace of former president Marco Fidel Suárez.", "Part of the Aburrá Valley metropolitan area."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 35.", "O atracție culturală remarcabilă în zona Cities 35."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "palmira-cities-v2",
     type: "city",
@@ -676,15 +746,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wird wegen ihrer Landwirtschaft die Agrarhauptstadt Kolumbiens genannt.",
       hu: "Mezőgazdasága miatt Kolumbia agrárfővárosának nevezik.",
       ro: "Numită capitala agricolă a Columbiei datorită agriculturii sale.",
-      en: "Called the agricultural capital of Colombia due to its farming."
-    },
+      en: "Called the agricultural capital of Colombia due to its farming." },
     facts: {
       de: ["Heimat des CIAT-Forschungsinstituts.", "Produziert große Mengen Zuckerrohr."],
       hu: ["A CIAT kutatóintézet otthona.", "Nagy mennyiségű cukornádat termel."],
       ro: ["Găzduiește institutul de cercetare CIAT.", "Produce cantități mari de trestie de zahăr."],
       en: ["Home to the CIAT research institute.", "Produces large amounts of sugarcane."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 36.", "O atracție culturală remarcabilă în zona Cities 36."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "buenaventura-cities-v2",
     type: "city",
@@ -695,15 +767,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Der wichtigste Seehafen Kolumbiens am Pazifischen Ozean.",
       hu: "Kolumbia legfontosabb tengeri kikötője a Csendes-óceánon.",
       ro: "Cel mai important port maritim al Columbiei la Oceanul Pacific.",
-      en: "Colombia's most important seaport on the Pacific Ocean."
-    },
+      en: "Colombia's most important seaport on the Pacific Ocean." },
     facts: {
       de: ["Wickelt den Großteil des Außenhandels ab.", "Umgeben von beeindruckenden Mangrovenwäldern."],
       hu: ["A külkereskedelem nagy részét bonyolítja.", "Lenyűgöző mangroveerdők veszik körül."],
       ro: ["Gestionează cea mai mare parte a comerțului exterior.", "Înconjurat de păduri impresionante de mangrove."],
       en: ["Handles most of the foreign trade.", "Surrounded by impressive mangrove forests."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 37.", "O atracție culturală remarcabilă în zona Cities 37."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "tulua-cities-v2",
     type: "city",
@@ -714,15 +788,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zentral gelegene Stadt im Valle del Cauca, bekannt als das Herz des Tals.",
       hu: "Központi fekvésű város a Valle del Cauca-ban, a völgy szíveként ismert.",
       ro: "Oraș central în Valle del Cauca, cunoscut ca inima văii.",
-      en: "Centrally located city in Valle del Cauca, known as the heart of the valley."
-    },
+      en: "Centrally located city in Valle del Cauca, known as the heart of the valley." },
     facts: {
       de: ["Wichtiges Handelszentrum.", "Berühmt für seinen botanischen Garten."],
       hu: ["Fontos kereskedelmi központ.", "Híres botanikus kertjéről."],
       ro: ["Centru comercial important.", "Faimos pentru grădina sa botanică."],
       en: ["Important commercial center.", "Famous for its botanical garden."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 38.", "O atracție culturală remarcabilă în zona Cities 38."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "floridablanca-cities-v2",
     type: "city",
@@ -733,15 +809,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Südlicher Vorort von Bucaramanga, berühmt für seine Süßigkeiten.",
       hu: "Bucaramanga déli külvárosa, amely édességeiről híres.",
       ro: "Suburbie sudică a Bucaramanga, faimoasă pentru dulciurile sale.",
-      en: "Southern suburb of Bucaramanga, famous for its sweets."
-    },
+      en: "Southern suburb of Bucaramanga, famous for its sweets." },
     facts: {
       de: ["Bekannt für das Oblea-Dessert.", "Beherbergt den Ecopark Cerro del Santísimo."],
       hu: ["Az oblea desszertről ismert.", "Itt található a Cerro del Santísimo ökopark."],
       ro: ["Cunoscut pentru desertul oblea.", "Găzduiește ecoparcul Cerro del Santísimo."],
       en: ["Known for the oblea dessert.", "Home to the Cerro del Santísimo ecopark."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 39.", "O atracție culturală remarcabilă în zona Cities 39."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "barrancabermeja-cities-v2",
     type: "city",
@@ -752,15 +830,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die wichtigste Raffineriestadt Kolumbiens am Río Magdalena.",
       hu: "Kolumbia legfontosabb finomítóvárosa a Magdalena folyó mentén.",
       ro: "Cel mai important oraș cu rafinării din Columbia, pe râul Magdalena.",
-      en: "Colombia's most important refinery city on the Magdalena River."
-    },
+      en: "Colombia's most important refinery city on the Magdalena River." },
     facts: {
       de: ["Besitzt die größte Ölraffinerie des Landes.", "Ein wichtiger Binnenhafen."],
       hu: ["Az ország legnagyobb olajfinomítójával rendelkezik.", "Fontos belföldi kikötő."],
       ro: ["Are cea mai mare rafinărie de petrol din țară.", "Un port interior important."],
       en: ["Has the largest oil refinery in the country.", "An important inland port."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 40.", "O atracție culturală remarcabilă în zona Cities 40."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "envigado-cities-v2",
     type: "city",
@@ -771,15 +851,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Südlich an Medellín grenzende Gemeinde mit hoher Lebensqualität.",
       hu: "Medellínnel délről határos, magas életminőségű község.",
       ro: "Municipiu care se învecinează la sud cu Medellín, cu o calitate ridicată a vieții.",
-      en: "Municipality bordering Medellín to the south with a high quality of life."
-    },
+      en: "Municipality bordering Medellín to the south with a high quality of life." },
     facts: {
       de: ["Oft als das Monaco Kolumbiens bezeichnet.", "Wichtiger Industriestandort."],
       hu: ["Gyakran Kolumbia Monacójaként emlegetik.", "Fontos ipari település."],
       ro: ["Adesea numit Monaco al Columbiei.", "Locație industrială importantă."],
       en: ["Often referred to as the Monaco of Colombia.", "Important industrial location."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 41.", "O atracție culturală remarcabilă în zona Cities 41."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "itagui-cities-v2",
     type: "city",
@@ -790,15 +872,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eine der am stärksten industrialisierten Städte in Antioquia.",
       hu: "Antioquia egyik legiparosodottabb városa.",
       ro: "Unul dintre cele mai industrializate orașe din Antioquia.",
-      en: "One of the most industrialized cities in Antioquia."
-    },
+      en: "One of the most industrialized cities in Antioquia." },
     facts: {
       de: ["Zentrum der Textilindustrie.", "Bekannt für den Park des Arbeiters."],
       hu: ["A textilipar központja.", "A Munkás Parkjáról ismert."],
       ro: ["Centrul industriei textile.", "Cunoscut pentru Parcul Muncitorului."],
       en: ["Center of the textile industry.", "Known for the Worker's Park."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 42.", "O atracție culturală remarcabilă în zona Cities 42."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "dosquebradas-cities-v2",
     type: "city",
@@ -809,15 +893,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Industrielle Schwesterstadt von Pereira in der Kaffeeachse.",
       hu: "Pereira ipari testvérvárosa a kávétengelyen.",
       ro: "Oraș industrial înfrățit cu Pereira în axa cafelei.",
-      en: "Industrial sister city of Pereira in the coffee axis."
-    },
+      en: "Industrial sister city of Pereira in the coffee axis." },
     facts: {
       de: ["Ist durch das Viadukt César Gaviria Trujillo verbunden.", "Starkes Wachstum im verarbeitenden Gewerbe."],
       hu: ["A César Gaviria Trujillo viadukt köti össze.", "Erős növekedés a feldolgozóiparban."],
       ro: ["Este conectat prin viaductul César Gaviria Trujillo.", "Creștere puternică în industria prelucrătoare."],
       en: ["Connected by the César Gaviria Trujillo viaduct.", "Strong growth in manufacturing."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 43.", "O atracție culturală remarcabilă în zona Cities 43."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "rionegro-cities-v2",
     type: "city",
@@ -828,15 +914,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtige Stadt im Osten Antioquias mit dem internationalen Flughafen.",
       hu: "Fontos város Kelet-Antioquiában, itt található a nemzetközi repülőtér.",
       ro: "Oraș important din estul Antioquiei, cu aeroportul internațional.",
-      en: "Important city in eastern Antioquia with the international airport."
-    },
+      en: "Important city in eastern Antioquia with the international airport." },
     facts: {
       de: ["Beherbergt den Flughafen José María Córdova.", "Bedeutend in der Geschichte Kolumbiens."],
       hu: ["A José María Córdova repülőtér otthona.", "Jelentős szerepet játszik Kolumbia történelmében."],
       ro: ["Găzduiește aeroportul José María Córdova.", "Semnificativ în istoria Columbiei."],
       en: ["Home to the José María Córdova airport.", "Significant in the history of Colombia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 44.", "O atracție culturală remarcabilă în zona Cities 44."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "cartago-cities-v2",
     type: "city",
@@ -847,15 +935,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bekannt als die Sonnenstadt mit kolonialer Architektur.",
       hu: "Napvárosként ismert település gyarmati építészettel.",
       ro: "Cunoscut sub numele de orașul soarelui, cu arhitectură colonială.",
-      en: "Known as the city of the sun with colonial architecture."
-    },
+      en: "Known as the city of the sun with colonial architecture." },
     facts: {
       de: ["Berühmt für filigrane Stickereien.", "Liegt an der Grenze zum Kaffee-Dreieck."],
       hu: ["Filigrán hímzéseiről híres.", "A kávéháromszög határán fekszik."],
       ro: ["Faimos pentru broderiile filigranate.", "Situat la granița cu Triunghiul Cafelei."],
       en: ["Famous for filigree embroidery.", "Located on the border of the Coffee Triangle."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 45.", "O atracție culturală remarcabilă în zona Cities 45."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "giron-cities-v2",
     type: "city",
@@ -866,15 +956,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Nationale Denkmalstadt mit weiß getünchten kolonialen Häusern.",
       hu: "Fehérre meszelt gyarmati házakkal teli nemzeti műemlékváros.",
       ro: "Oraș monument național cu case coloniale văruite în alb.",
-      en: "National monument city with whitewashed colonial houses."
-    },
+      en: "National monument city with whitewashed colonial houses." },
     facts: {
       de: ["Bewahrt die Architektur des 17. Jahrhunderts.", "Beliebtes Touristenziel in Santander."],
       hu: ["Megőrizte a 17. századi építészetet.", "Népszerű turisztikai célpont Santanderben."],
       ro: ["Păstrează arhitectura secolului al XVII-lea.", "Destinație turistică populară în Santander."],
       en: ["Preserves 17th-century architecture.", "Popular tourist destination in Santander."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 46.", "O atracție culturală remarcabilă în zona Cities 46."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "facatativa-cities-v2",
     type: "city",
@@ -885,15 +977,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Agrar- und Industriestadt in der Nähe von Bogotá.",
       hu: "Agrár- és iparváros Bogotá közelében.",
       ro: "Oraș agricol și industrial lângă Bogotá.",
-      en: "Agricultural and industrial city near Bogotá."
-    },
+      en: "Agricultural and industrial city near Bogotá." },
     facts: {
       de: ["Beherbergt den archäologischen Park Las Piedras del Tunjo.", "Wichtiger Verkehrsknotenpunkt."],
       hu: ["Itt található a Las Piedras del Tunjo régészeti park.", "Fontos közlekedési csomópont."],
       ro: ["Găzduiește parcul arheologic Las Piedras del Tunjo.", "Nod de transport important."],
       en: ["Home to the Las Piedras del Tunjo archaeological park.", "Important transport hub."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 47.", "O atracție culturală remarcabilă în zona Cities 47."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "duitama-cities-v2",
     type: "city",
@@ -904,15 +998,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtiges Transport- und Handelszentrum in der Region Boyacá.",
       hu: "Fontos közlekedési és kereskedelmi központ Boyacá régióban.",
       ro: "Important centru de transport și comercial în regiunea Boyacá.",
-      en: "Important transport and commercial center in the Boyacá region."
-    },
+      en: "Important transport and commercial center in the Boyacá region." },
     facts: {
       de: ["Bekannt als die Perle von Boyacá.", "Hat eine starke Transportindustrie."],
       hu: ["Boyacá gyöngyszemeként ismert.", "Erős szállítmányozási iparral rendelkezik."],
       ro: ["Cunoscut ca perla Boyacá.", "Are o puternică industrie de transport."],
       en: ["Known as the pearl of Boyacá.", "Has a strong transport industry."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 48.", "O atracție culturală remarcabilă în zona Cities 48."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "magangue-cities-v2",
     type: "city",
@@ -923,15 +1019,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zweitgrößte Stadt im Departamento Bolívar am Río Magdalena.",
       hu: "A második legnagyobb város Bolívar megyében a Magdalena folyónál.",
       ro: "Al doilea oraș ca mărime din departamentul Bolívar, pe râul Magdalena.",
-      en: "Second largest city in the Bolívar department on the Magdalena River."
-    },
+      en: "Second largest city in the Bolívar department on the Magdalena River." },
     facts: {
       de: ["Wichtiger Flusshafen.", "Zentrum des Reisanbaus."],
       hu: ["Fontos folyami kikötő.", "A rizstermesztés központja."],
       ro: ["Port fluvial important.", "Centru al cultivării orezului."],
       en: ["Important river port.", "Center of rice cultivation."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 49.", "O atracție culturală remarcabilă în zona Cities 49."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "zipaquira-cities-v2",
     type: "city",
@@ -942,15 +1040,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Historische Stadt, die für ihre unterirdische Salzkathedrale weltberühmt ist.",
       hu: "Történelmi város, amely a föld alatti sókatedrálisáról világhírű.",
       ro: "Oraș istoric faimos în întreaga lume pentru catedrala sa de sare subterană.",
-      en: "Historic city world-famous for its underground salt cathedral."
-    },
+      en: "Historic city world-famous for its underground salt cathedral." },
     facts: {
       de: ["Die Salzkathedrale ist das erste kolumbianische Wunder.", "Ehemaliges Zentrum der Muisca-Kultur."],
       hu: ["A sókatedrális Kolumbia első csodája.", "A Muisca kultúra egykori központja."],
       ro: ["Catedrala de Sare este prima minune columbiană.", "Fost centru al culturii Muisca."],
       en: ["The Salt Cathedral is the first Colombian wonder.", "Former center of the Muisca culture."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 50.", "O atracție culturală remarcabilă în zona Cities 50."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "piedecuesta-cities-v2",
     type: "city",
@@ -961,15 +1061,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Bekannt für den Anbau von Brombeeren und Tabak.",
       hu: "A szeder és a dohány termesztéséről ismert.",
       ro: "Cunoscut pentru cultivarea murelor și a tutunului.",
-      en: "Known for the cultivation of blackberries and tobacco."
-    },
+      en: "Known for the cultivation of blackberries and tobacco." },
     facts: {
       de: ["Südlichste Stadt der Metropolregion Bucaramanga.", "Wichtiges landwirtschaftliches Gebiet."],
       hu: ["Bucaramanga nagyvárosi régiójának legdélibb városa.", "Fontos mezőgazdasági terület."],
       ro: ["Cel mai sudic oraș din zona metropolitană Bucaramanga.", "Zonă agricolă importantă."],
       en: ["Southernmost city of the Bucaramanga metropolitan area.", "Important agricultural area."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 51.", "O atracție culturală remarcabilă în zona Cities 51."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "malambo-cities-v2",
     type: "city",
@@ -980,15 +1082,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Gemeinde nahe Barranquilla mit indigenen historischen Wurzeln.",
       hu: "Barranquilla közeli község, őslakos történelmi gyökerekkel.",
       ro: "Municipiu din apropiere de Barranquilla cu rădăcini istorice indigene.",
-      en: "Municipality near Barranquilla with indigenous historical roots."
-    },
+      en: "Municipality near Barranquilla with indigenous historical roots." },
     facts: {
       de: ["Wichtiger Militärflughafen befindet sich hier.", "Stark industrialisiert."],
       hu: ["Itt található egy fontos katonai repülőtér.", "Erősen iparosodott."],
       ro: ["Aici se află un important aeroport militar.", "Puternic industrializat."],
       en: ["Important military airport is located here.", "Heavily industrialized."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 52.", "O atracție culturală remarcabilă în zona Cities 52."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "sogamoso-cities-v2",
     type: "city",
@@ -999,15 +1103,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Die Stadt der Sonne, ein historisches Zentrum der Muisca.",
       hu: "A nap városa, a muisca indiánok történelmi központja.",
       ro: "Orașul soarelui, un centru istoric al civilizației Muisca.",
-      en: "The city of the sun, a historical center of the Muisca."
-    },
+      en: "The city of the sun, a historical center of the Muisca." },
     facts: {
       de: ["Beherbergt das archäologische Museum der Sonne.", "Zentrum der Stahlindustrie."],
       hu: ["Itt található a Nap Régészeti Múzeuma.", "Az acélipar központja."],
       ro: ["Găzduiește muzeul arheologic al soarelui.", "Centru al industriei oțelului."],
       en: ["Home to the archaeological Museum of the Sun.", "Center of the steel industry."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 53.", "O atracție culturală remarcabilă în zona Cities 53."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "ocana-cities-v2",
     type: "city",
@@ -1018,15 +1124,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Stadt von historischer Bedeutung nahe der venezolanischen Grenze.",
       hu: "Történelmi jelentőségű város a venezuelai határ közelében.",
       ro: "Oraș de importanță istorică aproape de granița cu Venezuela.",
-      en: "City of historical importance near the Venezuelan border."
-    },
+      en: "City of historical importance near the Venezuelan border." },
     facts: {
       de: ["Austragungsort der Konvention von Ocaña 1828.", "Bekannt für das Naturreservat Los Estoraques."],
       hu: ["Az 1828-as Ocaña-i Egyezmény helyszíne.", "A Los Estoraques Természetvédelmi Területről ismert."],
       ro: ["Locul Convenției de la Ocaña din 1828.", "Cunoscut pentru rezervația naturală Los Estoraques."],
       en: ["Site of the Convention of Ocaña in 1828.", "Known for the Los Estoraques Natural Reserve."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 54.", "O atracție culturală remarcabilă în zona Cities 54."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "pitalito-cities-v2",
     type: "city",
@@ -1037,15 +1145,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Südliche Stadt in Huila, zweitgrößter Kaffeeproduzent des Landes.",
       hu: "Huila déli városa, az ország második legnagyobb kávétermelője.",
       ro: "Orașul sudic din Huila, al doilea mare producător de cafea din țară.",
-      en: "Southern city in Huila, the country's second largest coffee producer."
-    },
+      en: "Southern city in Huila, the country's second largest coffee producer." },
     facts: {
       de: ["Bekannt als das Tal der Laboyos.", "Produziert hochwertigen Spezialitätenkaffee."],
       hu: ["Laboyos völgyeként ismert.", "Kiváló minőségű különleges kávét termel."],
       ro: ["Cunoscut sub numele de valea Laboyos.", "Produce cafea de specialitate de înaltă calitate."],
       en: ["Known as the Valley of the Laboyos.", "Produces high-quality specialty coffee."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 55.", "O atracție culturală remarcabilă în zona Cities 55."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "buga-cities-v2",
     type: "city",
@@ -1056,15 +1166,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eines der wichtigsten religiösen Pilgerziele in Kolumbien.",
       hu: "Kolumbia egyik legfontosabb vallási zarándokhelye.",
       ro: "Una dintre cele mai importante destinații de pelerinaj religios din Columbia.",
-      en: "One of the most important religious pilgrimage destinations in Colombia."
-    },
+      en: "One of the most important religious pilgrimage destinations in Colombia." },
     facts: {
       de: ["Heimat der Basilika des Herrn der Wunder.", "Besitzt eine gut erhaltene koloniale Architektur."],
       hu: ["A Csodák Ura Bazilika otthona.", "Jól megőrzött gyarmati építészettel rendelkezik."],
       ro: ["Găzduiește Bazilica Domnului Miracolelor.", "Are o arhitectură colonială bine conservată."],
       en: ["Home to the Basilica of the Lord of Miracles.", "Has well-preserved colonial architecture."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 56.", "O atracție culturală remarcabilă în zona Cities 56."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "jamundi-cities-v2",
     type: "city",
@@ -1075,15 +1187,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Südlich von Cali gelegene Stadt mit starkem Wachstum.",
       hu: "Cali-tól délre fekvő, erősen növekvő város.",
       ro: "Oraș situat la sud de Cali, cu o creștere puternică.",
-      en: "City located south of Cali with strong growth."
-    },
+      en: "City located south of Cali with strong growth." },
     facts: {
       de: ["Bekannt für den Cholado, ein traditionelles Dessert.", "Zahlreiche Flüsse und Erholungsgebiete."],
       hu: ["A cholado nevű hagyományos desszertről ismert.", "Számos folyó és pihenőövezet található itt."],
       ro: ["Cunoscut pentru cholado, un desert tradițional.", "Numeroase râuri și zone de recreere."],
       en: ["Known for cholado, a traditional dessert.", "Numerous rivers and recreation areas."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 57.", "O atracție culturală remarcabilă în zona Cities 57."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "yumbo-cities-v2",
     type: "city",
@@ -1094,15 +1208,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Das industrielle Herz des Departamento Valle del Cauca.",
       hu: "Valle del Cauca megye ipari szíve.",
       ro: "Inima industrială a departamentului Valle del Cauca.",
-      en: "The industrial heart of the Valle del Cauca department."
-    },
+      en: "The industrial heart of the Valle del Cauca department." },
     facts: {
       de: ["Beherbergt über 500 Fabriken.", "Grenzt direkt an Cali an."],
       hu: ["Több mint 500 gyárnak ad otthont.", "Közvetlenül határos Cali-val."],
       ro: ["Găzduiește peste 500 de fabrici.", "Se învecinează direct cu Cali."],
       en: ["Home to over 500 factories.", "Directly borders Cali."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 58.", "O atracție culturală remarcabilă în zona Cities 58."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "villa-del-rosario-cities-v2",
     type: "city",
@@ -1113,15 +1229,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Historische Grenzstadt, in der die Verfassung von 1821 unterzeichnet wurde.",
       hu: "Történelmi határváros, ahol az 1821-es alkotmányt aláírták.",
       ro: "Oraș de graniță istoric unde a fost semnată constituția din 1821.",
-      en: "Historic border city where the constitution of 1821 was signed."
-    },
+      en: "Historic border city where the constitution of 1821 was signed." },
     facts: {
       de: ["Geburtsort von Francisco de Paula Santander.", "Der historische Komplex ist ein Nationaldenkmal."],
       hu: ["Francisco de Paula Santander szülőhelye.", "A történelmi komplexum nemzeti műemlék."],
       ro: ["Locul de naștere al lui Francisco de Paula Santander.", "Complexul istoric este monument național."],
       en: ["Birthplace of Francisco de Paula Santander.", "The historical complex is a national monument."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 59.", "O atracție culturală remarcabilă în zona Cities 59."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "sahagun-cities-v2",
     type: "city",
@@ -1132,15 +1250,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Kulturelle Hauptstadt von Córdoba, berühmt für Bildung.",
       hu: "Córdoba kulturális fővárosa, amely az oktatásról híres.",
       ro: "Capitala culturală a Córdobei, faimoasă pentru educație.",
-      en: "Cultural capital of Córdoba, famous for education."
-    },
+      en: "Cultural capital of Córdoba, famous for education." },
     facts: {
       de: ["Bekannt für die Förderung der Künste.", "Wichtiges landwirtschaftliches Zentrum."],
       hu: ["A művészetek támogatásáról ismert.", "Fontos mezőgazdasági központ."],
       ro: ["Cunoscut pentru promovarea artelor.", "Important centru agricol."],
       en: ["Known for promoting the arts.", "Important agricultural center."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 60.", "O atracție culturală remarcabilă în zona Cities 60."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "cerete-cities-v2",
     type: "city",
@@ -1151,15 +1271,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zentrum der Baumwollproduktion in der Region Córdoba.",
       hu: "A gyapottermelés központja Córdoba régióban.",
       ro: "Centrul producției de bumbac din regiunea Córdoba.",
-      en: "Center of cotton production in the Córdoba region."
-    },
+      en: "Center of cotton production in the Córdoba region." },
     facts: {
       de: ["Wird oft als weiße Hauptstadt bezeichnet.", "Liegt strategisch günstig in der Region."],
       hu: ["Gyakran fehér fővárosnak is nevezik.", "Stratégiailag kedvező fekvésű a régióban."],
       ro: ["Adesea numită capitala albă.", "Situat strategic în regiune."],
       en: ["Often referred to as the white capital.", "Strategically located in the region."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 61.", "O atracție culturală remarcabilă în zona Cities 61."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "chia-cities-v2",
     type: "city",
@@ -1170,15 +1292,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Nördlicher Vorort von Bogotá, bekannt als Stadt des Mondes.",
       hu: "Bogotá északi külvárosa, a Hold városaként ismert.",
       ro: "Suburbie nordică a Bogotei, cunoscută ca orașul lunii.",
-      en: "Northern suburb of Bogotá, known as the city of the moon."
-    },
+      en: "Northern suburb of Bogotá, known as the city of the moon." },
     facts: {
       de: ["Heimat der berühmten Universität de La Sabana.", "Ein historisches Zentrum der Muisca."],
       hu: ["A híres La Sabana Egyetem otthona.", "A Muisca indiánok egyik történelmi központja."],
       ro: ["Găzduiește faimoasa Universitate de La Sabana.", "Un centru istoric al civilizației Muisca."],
       en: ["Home to the famous University of La Sabana.", "A historical center of the Muisca."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 62.", "O atracție culturală remarcabilă în zona Cities 62."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "aguachica-cities-v2",
     type: "city",
@@ -1189,15 +1313,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Zweitgrößte Stadt in Cesar, ein wichtiger logistischer Knotenpunkt.",
       hu: "A második legnagyobb város Cesarban, fontos logisztikai csomópont.",
       ro: "Al doilea oraș ca mărime din Cesar, un important nod logistic.",
-      en: "Second largest city in Cesar, an important logistical hub."
-    },
+      en: "Second largest city in Cesar, an important logistical hub." },
     facts: {
       de: ["Verbindet die Küste mit dem Landesinneren.", "Hat eine wachsende Agrarindustrie."],
       hu: ["Összeköti a partvidéket a szárazfölddel.", "Növekvő agráriparral rendelkezik."],
       ro: ["Conectează coasta cu interiorul țării.", "Are o industrie agricolă în creștere."],
       en: ["Connects the coast with the interior.", "Has a growing agricultural industry."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 63.", "O atracție culturală remarcabilă în zona Cities 63."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "sabanalarga-cities-v2",
     type: "city",
@@ -1208,15 +1334,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Eine der größten und ältesten Gemeinden im Departamento Atlántico.",
       hu: "Az egyik legnagyobb és legrégebbi község Atlántico megyében.",
       ro: "Una dintre cele mai mari și mai vechi municipalități din departamentul Atlántico.",
-      en: "One of the largest and oldest municipalities in the Atlántico department."
-    },
+      en: "One of the largest and oldest municipalities in the Atlántico department." },
     facts: {
       de: ["Zentrum der regionalen Rinderzucht.", "Feiert wichtige kulturelle Feste."],
       hu: ["A regionális szarvasmarha-tenyésztés központja.", "Fontos kulturális fesztiválokat ünnepel."],
       ro: ["Centrul creșterii regionale a vitelor.", "Sărbătorește festivaluri culturale importante."],
       en: ["Center of regional cattle breeding.", "Celebrates important cultural festivals."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 64.", "O atracție culturală remarcabilă în zona Cities 64."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "caucasia-cities-v2",
     type: "city",
@@ -1227,15 +1355,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Wichtiges Wirtschaftszentrum am Río Cauca im Norden Antioquias.",
       hu: "Fontos gazdasági központ a Cauca folyó mentén, Észak-Antioquiában.",
       ro: "Important centru economic pe râul Cauca, în nordul Antioquiei.",
-      en: "Important economic center on the Cauca River in northern Antioquia."
-    },
+      en: "Important economic center on the Cauca River in northern Antioquia." },
     facts: {
       de: ["Tor zur Karibikregion.", "Stark in der Viehzucht und im Bergbau."],
       hu: ["Kapu a karibi régió felé.", "Erős az állattenyésztésben és a bányászatban."],
       ro: ["Poarta către regiunea Caraibelor.", "Puternic în creșterea vitelor și minerit."],
       en: ["Gateway to the Caribbean region.", "Strong in cattle breeding and mining."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 65.", "O atracție culturală remarcabilă în zona Cities 65."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "santa-cruz-de-lorica-cities-v2",
     type: "city",
@@ -1246,15 +1376,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Historische Stadt mit architektonischem Einfluss syro-libanesischer Einwanderer.",
       hu: "Történelmi város a szír-libanoni bevándorlók építészeti hatásával.",
       ro: "Oraș istoric cu influență arhitecturală de la imigranții siro-libanezi.",
-      en: "Historic city with architectural influence from Syro-Lebanese immigrants."
-    },
+      en: "Historic city with architectural influence from Syro-Lebanese immigrants." },
     facts: {
       de: ["Bekannt als die antike Stadt.", "Das historische Zentrum ist ein Nationaldenkmal."],
       hu: ["Az ókori városként ismert.", "A történelmi központ nemzeti műemlék."],
       ro: ["Cunoscut sub numele de orașul antic.", "Centrul istoric este monument național."],
       en: ["Known as the ancient city.", "The historical center is a national monument."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 66.", "O atracție culturală remarcabilă în zona Cities 66."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "tierralta-cities-v2",
     type: "city",
@@ -1265,15 +1397,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Größte Flächengemeinde in Córdoba, Standort des Urrá-Staudamms.",
       hu: "Córdoba legnagyobb területű községe, az Urrá-gát helyszíne.",
       ro: "Cea mai mare municipalitate ca suprafață din Córdoba, locația barajului Urrá.",
-      en: "Largest municipality by area in Córdoba, location of the Urrá dam."
-    },
+      en: "Largest municipality by area in Córdoba, location of the Urrá dam." },
     facts: {
       de: ["Beherbergt den Paramillo-Nationalpark.", "Wichtig für die Stromerzeugung."],
       hu: ["Itt található a Paramillo Nemzeti Park.", "Fontos az áramtermelés szempontjából."],
       ro: ["Găzduiește Parcul Național Paramillo.", "Important pentru generarea de energie electrică."],
       en: ["Home to the Paramillo National Park.", "Important for electricity generation."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 67.", "O atracție culturală remarcabilă în zona Cities 67."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "apartado-cities-v2",
     type: "city",
@@ -1284,15 +1418,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Das kommerzielle Herz der Bananenanbauregion Urabá.",
       hu: "Az Urabá banántermelő régió kereskedelmi szíve.",
       ro: "Inima comercială a regiunii cultivatoare de banane Urabá.",
-      en: "The commercial heart of the Urabá banana growing region."
-    },
+      en: "The commercial heart of the Urabá banana growing region." },
     facts: {
       de: ["Bedeutendes Zentrum für den Bananenexport.", "Die am schnellsten wachsende Stadt der Region."],
       hu: ["A banánexport jelentős központja.", "A régió leggyorsabban növekvő városa."],
       ro: ["Centru semnificativ pentru exportul de banane.", "Cel mai rapid oraș în creștere din regiune."],
       en: ["Significant center for banana export.", "The fastest growing city in the region."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 68.", "O atracție culturală remarcabilă în zona Cities 68."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "turbo-cities-v2",
     type: "city",
@@ -1303,15 +1439,17 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Hafenstadt am Golf von Urabá mit Zugang zur Karibik.",
       hu: "Kikötőváros az Urabá-öbölben, kijárattal a Karib-tengerre.",
       ro: "Oraș-port în Golful Urabá cu acces la Caraibe.",
-      en: "Port city on the Gulf of Urabá with access to the Caribbean."
-    },
+      en: "Port city on the Gulf of Urabá with access to the Caribbean." },
     facts: {
       de: ["Wichtiger Exporthafen für Bananen und andere Güter.", "Befindet sich in einer strategischen Grenzregion."],
       hu: ["Fontos exportkikötő a banán és egyéb áruk számára.", "Stratégiai határmenti régióban található."],
       ro: ["Port important de export pentru banane și alte bunuri.", "Situat într-o regiune de graniță strategică."],
       en: ["Important export port for bananas and other goods.", "Located in a strategic border region."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 69.", "O atracție culturală remarcabilă în zona Cities 69."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."] }
   },
+
   {
     id: "ipiales-cities-v2",
     type: "city",
@@ -1322,13 +1460,15 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       de: "Grenzstadt zu Ecuador, berühmt für die Wallfahrtskirche Las Lajas.",
       hu: "Ecuadori határváros, híres a Las Lajas zarándoktemplomról.",
       ro: "Oraș de graniță cu Ecuador, faimos pentru sanctuarul Las Lajas.",
-      en: "Border city with Ecuador, famous for the Las Lajas Sanctuary."
-    },
+      en: "Border city with Ecuador, famous for the Las Lajas Sanctuary." },
     facts: {
       de: ["Oft als die Stadt der drei Vulkane bezeichnet.", "Wichtiger Handelsknotenpunkt."],
       hu: ["Gyakran a három vulkán városának nevezik.", "Fontos kereskedelmi csomópont."],
       ro: ["Adesea numit orașul celor trei vulcani.", "Nod comercial important."],
       en: ["Often referred to as the city of the three volcanoes.", "Important commercial hub."]
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: "Discover the vibrant culture and history of this unique location. Each corner of this destination tells a story of tradition, resilience, and breathtaking beauty. From local architectural wonders to the warmth of the people, there is something here to enchant every traveler. Whether you are exploring historical sites or enjoying the local cuisine, you are sure to create unforgettable memories. This hidden gem invites you to experience its magic firsthand." },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Cities 71.", "O atracție culturală remarcabilă în zona Cities 71."], en: ["Established during the colonial period.", "Key cultural and economic hub for the region.", "Boasts a unique blend of historical and modern landmarks.", "A vital destination for experiencing authentic local life."]
     }
-  },
+  }
 ];

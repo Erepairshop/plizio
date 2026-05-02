@@ -12,6 +12,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Misiunea iezuită La Santísima Trinidad",
       en: "Jesuit Mission of La Santísima Trinidad"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "La Santísima Trinidad de Paraná este una dintre cele mai impresionante dovezi ale misiunilor iezuite din secolul al XVIII-lea, fiind inclusă în Patrimoniul Mondial UNESCO. Acest sit istoric reflectă sinteza culturală unică dintre tradițiile europene și cultura autohtonă Guarani, sub îndrumarea iezuiților. Arhitectura complexă, cu fragmente de sculpturi în piatră bine conservate și un plan urbanistic riguros, oferă o fereastră către viața din reducțiunile de odinioară. Vizitarea acestui loc permite o incursiune în istoria Paraguayului colonial, evidențiind atât splendoarea artistică a epocii, cât și tragismul disoluției acestor așezări după expulzarea ordinului. Importanța sa istorică este esențială pentru înțelegerea rădăcinilor sociale ale națiunii paraguayene moderne.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în anul 1706.", "Patrimoniu Mondial UNESCO din 1993.", "Exemplu remarcabil de arhitectură barocă iezuită.", "Centru de conservare a istoriei locale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Diese beeindruckende Ruine war einst eine der größten Jesuitenmissionen in Südamerika.",
       hu: "Ez a lenyűgöző rom egykor Dél-Amerika egyik legnagyobb jezsuita missziója volt.",
@@ -35,6 +47,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Jesús de Tavarangue jezsuita misszió",
       ro: "Misiunea iezuită Jesús de Tavarangue",
       en: "Jesuit Mission of Jesús de Tavarangue"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Misiunea Jesús de Tavarangue rămâne o mărturie excepțională a ambiției iezuiților de a crea așezări autarhice în inima Americii de Sud. Deși neterminată, biserica sa monumentală este un exemplu rar de arhitectură care a integrat elemente stilistice diverse, vizibile în arcadele și coloanele sale. Situl este o componentă esențială a traseului iezuit, oferind vizitatorilor o înțelegere a organizării sociale riguroase implementate în acea epocă. Conservarea sa reflectă importanța istorică a interacțiunilor culturale care au definit identitatea paraguayană de astăzi. Aceste ruine nu sunt doar vestigii ale trecutului, ci și un simbol al rezilienței și al patrimoniului spiritual al poporului Guarani și al influenței iezuiților.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în anul 1685.", "Patrimoniu Mondial UNESCO.", "Arhitectură unică, de inspirație maură.", "Simbol al rezilienței culturale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Eine unvollendete, aber architektonisch einzigartige Jesuitenmission in Paraguay.",
@@ -60,6 +84,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Panteonul Național al Eroilor",
       en: "National Pantheon of the Heroes"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Panteonul Național al Eroilor reprezintă cel mai solemn monument istoric al Paraguayului, servind drept loc de odihnă pentru personalitățile care au definit istoria națiunii. Această construcție neoclasică impunătoare, inspirată de Domul Invalizilor din Paris, este centrul vieții civice și politice din Asunción. Importanța sa nu rezidă doar în arhitectură, ci în semnificația sa profundă ca altar pentru eroii patriei, inclusiv soldații necunoscuți ai marilor conflicte regionale. Vizitarea panteonului oferă o perspectivă asupra valorilor de sacrificiu și patriotism ce stau la baza statului modern. Este locul unde memoria colectivă se întâlnește cu istoria militară, păstrând vii tradițiile și spiritul poporului paraguayan.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construcția a început în 1863.", "Locul de odihnă al marilor figuri istorice.", "Inspirat de Domul Invalizilor.", "Centru al memoriei naționale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Ein heiliger Ort in Asunción, an dem die großen historischen Persönlichkeiten Paraguays ruhen.",
       hu: "Szent hely Asunciónban, ahol Paraguay nagy történelmi személyiségei nyugszanak.",
@@ -83,6 +119,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "A Függetlenség Háza",
       ro: "Casa Independenței",
       en: "House of Independence"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Casa Independenței este locul unde a fost plănuită și obținută libertatea națională a Paraguayului, fiind un simbol suprem al suveranității. Clădirea, păstrată cu grijă pentru a reflecta viața colonială, găzduiește acum un muzeu care prezintă documente și obiecte din acea perioadă critică a revoluției din 1811. Importanța sa istorică derivă din rolul său de punct focal pentru conspirația patriotă împotriva puterii spaniole. Vizitarea acestei case oferă o incursiune în spiritul vizionar al fondatorilor statului și în complexitatea evenimentelor care au dus la nașterea Paraguayului independent. Este o destinație esențială pentru a înțelege fundamentul națiunii actuale.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construită în 1772.", "Locul revoluției din 1811.", "Muzeu național actual.", "Simbolul suveranității paraguayene."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Dieses koloniale Gebäude war der geheime Treffpunkt für die Planung der Unabhängigkeit Paraguays.",
@@ -108,6 +156,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Palatul López",
       en: "Palace of the López"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Palatul López este emblema puterii executive a Paraguayului, o construcție neoclasică ce domină malul râului Paraguay. Această clădire istorică a fost reședința președintelui Francisco Solano López și a supraviețuit conflictelor majore ale secolului al XIX-lea, devenind un martor tăcut al ascensiunii și declinului națiunii. Arhitectura sa distinsă, care îmbină eleganța europeană cu specificul local, reflectă ambiția și viziunea liderilor paraguayeni ai epocii. Vizitarea acestui palat oferă o înțelegere a rolului său central în istoria politică și administrativă a țării, fiind un punct de reper esențial în Asunción. Este un simbol incontestabil al autorității statului și al continuității istorice paraguayene.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construcție începută în 1857.", "Reședință prezidențială istorică.", "Simbolul puterii în Paraguay.", "Bombardat în Războiul Triplei Alianțe."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Der offizielle Sitz der Regierung und des Präsidenten der Republik Paraguay.",
       hu: "A paraguayi kormány és a köztársasági elnök hivatalos székhelye.",
@@ -131,6 +191,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Humaitá romjai",
       ro: "Ruinele Humaitá",
       en: "Ruins of Humaitá"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Ruinele Humaitá sunt un simbol puternic al rezistenței și al tragediei din Războiul Triplei Alianțe, un conflict definitoriu pentru istoria Paraguayului. Ceea ce a fost cândva cea mai puternică fortăreață de pe râul Paraguay, capabilă să blocheze inamicii prin artilerie grea, a rămas astăzi o ruină tăcută ce amintește de luptele sângeroase. Biserica San Carlos Borromeo, cu pereții săi prăbușiți, este punctul focal al acestui sit, oferind vizitatorilor o perspectivă asupra cicatricilor lăsate de război asupra populației și a teritoriului. Vizitarea ruinelor este o lecție dură despre istoria militară și sacrificiu, consolidând conștientizarea importanței păcii în dezvoltarea națiunii paraguayene contemporane.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Cetate strategică în secolul al XIX-lea.", "Martor al Războiului Triplei Alianțe.", "Ruina bisericii San Carlos Borromeo.", "Simbolul rezilienței paraguayene."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Überreste einer massiven Festung, die während des Tripel-Allianz-Krieges zerstört wurde.",
@@ -156,6 +228,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Fortín Boquerón",
       en: "Fort Boquerón"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Fortín Boquerón este locul unde a avut loc prima bătălie majoră a Războiului Chaco, un conflict vital pentru suveranitatea teritorială a Paraguayului. Această fortificație reprezintă simbolul sacrificiului soldaților paraguayeni care, în condiții geografice extreme, au reușit să-și apere teritoriul. Situl a fost conservat pentru a oferi vizitatorilor o experiență istorică autentică, incluzând tranșeele originale care au fost martorele luptelor sângeroase. Importanța istorică a locului este legată de definirea identității naționale prin rezistență și devotament. Vizitarea acestui muzeu în aer liber oferă lecții esențiale despre istoria militară a regiunii și prețul libertății naționale.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Bătălia de la Boquerón în 1932.", "Locul primului conflict major din Războiul Chaco.", "Muzeu istoric conservat.", "Simbolul rezistenței naționale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Schauplatz der ersten großen Schlacht des Chacokrieges zwischen Bolivien und Paraguay.",
       hu: "A bolíviai és paraguayi erők közötti Chaco-háború első nagy csatájának helyszíne.",
@@ -179,6 +263,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Asuncióni Cabildo",
       ro: "Cabildo din Asunción",
       en: "Cabildo of Asunción"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Cabildo din Asunción este unul dintre cele mai emblematice edificii coloniale, fiind centrul administrativ și politic în timpul epocii coloniale spaniole. Această clădire istorică a fost martorul multor decizii care au modelat destinul Paraguayului, găzduind acum un muzeu de artă și istorie care celebrează evoluția națiunii. Arhitectura sa robustă reflectă importanța sa istorică și durabilitatea instituțiilor care au guvernat regiunea. Vizitarea sa oferă o perspectivă asupra fundamentelor democratice timpurii și a luptei pentru autonomie. Cabildo-ul rămâne un reper cultural esențial în centrul capitalei, fiind o destinație indispensabilă pentru cei care doresc să înțeleagă rădăcinile administrative ale țării.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construit în 1537.", "Centru al puterii coloniale.", "Găzduiește un muzeu național.", "Simbol al autonomiei paraguayene."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Das ehemalige Regierungshaus dient heute als bedeutendes Kulturzentrum der Republik.",
@@ -204,6 +300,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Catedrala Metropolitană din Asunción",
       en: "Metropolitan Cathedral of Asunción"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Catedrala Metropolitană din Asunción este nucleul vieții religioase a națiunii, o structură neoclasică impresionantă care marchează centrul spiritual al capitalei. De-a lungul secolelor, catedrala a fost martorul evenimentelor fundamentale care au definit Paraguayul, oferind un refugiu spiritual și un simbol al continuității bisericești. Designul său arhitectural reflectă adaptarea stilurilor europene la realitățile și resursele locale, rezultând într-un monument ce combină eleganța neoclasică cu sobrietatea colonială. Vizitarea catedralei oferă o privire în inima religioasă a paraguayenilor, punând în valoare patrimoniul sacru, inclusiv altarul de argint unic, o capodoperă a măiestriei artizanale locale.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Finalizată în secolul al XIX-lea.", "Centrul spiritual al Asunciónului.", "Design neoclasic distinctiv.", "Altar de argint unic."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Die wichtigste katholische Kirche des Landes mit beeindruckendem neoklassizistischem Design.",
       hu: "Az ország legfontosabb katolikus temploma, lenyűgöző neoklasszikus dizájnnal.",
@@ -227,6 +335,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "San Buenaventura-templom",
       ro: "Biserica San Buenaventura",
       en: "San Buenaventura Church"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Biserica San Buenaventura din Yaguarón este considerată o bijuterie a artei franciscane din Paraguay, remarcându-se printr-un interior sculptat manual de o complexitate rar întâlnită. Această structură, construită în secolul al XVIII-lea, reflectă sinteza culturală dintre tehnicile europene și măiestria meșteșugarilor locali Guarani. Detaliile sale ornate din lemn și absența unui turn exterior îi conferă o siluetă distinctă în peisajul colonial paraguayan. Vizitarea acestei biserici oferă o experiență spirituală și artistică unică, fiind o mărturie vie a bogăției culturale care a definit comunitățile religioase din acea perioadă. Este un monument indispensabil pentru oricine dorește să exploreze istoria artelor decorative în Paraguay.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construită între 1755-1772.", "Arta decorativă din lemn remarcabilă.", "Simbolul influenței franciscane.", "Arhitectură colonială distinctă."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Eine der prachtvollsten Franziskanerkirchen in Südamerika, berühmt für ihre Holzschnitzereien.",
@@ -252,6 +372,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Tabăra Cerro León",
       en: "Cerro León Camp"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Tabăra Cerro León a fost centrul operațional și de antrenament al armatei paraguayene în timpul perioadei premergătoare și în timpul Războiului Triplei Alianțe. Acest sit istoric păstrează memoria efortului militar masiv depus de țară, fiind un punct de reper pentru înțelegerea mobilizării naționale sub conducerea lui Francisco Solano López. Arhitectura fostei tabere, cu structurile sale funcționale, oferă o perspectivă asupra vieții cotidiene a soldaților din secolul al XIX-lea. Astăzi, situl funcționează ca un muzeu care păstrează vie istoria militară a Paraguayului, onorând sacrificiile făcute în apărarea suveranității naționale. Este un monument esențial pentru înțelegerea forței și determinării poporului paraguayan în fața adversităților.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Înființată în 1864.", "Centrul de antrenament al lui Solano López.", "Muzeu militar conservat.", "Simbolul mobilizării naționale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Ehemaliges Militärlager, in dem Francisco Solano López Truppen für den Tripel-Allianz-Krieg ausbildete.",
       hu: "Egykori katonai tábor, ahol Francisco Solano López a Hármas Szövetség háborújára képezte ki csapatait.",
@@ -275,6 +407,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Fortín Toledo",
       ro: "Fortín Toledo",
       en: "Fort Toledo"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Fortín Toledo constituie un punct strategic din timpul Războiului Chaco, unde forțele paraguayene au demonstrat o rezistență remarcabilă în fața trupelor boliviene. Această fortificație păstrează urmele directe ale conflictului, cum ar fi rețeaua complexă de tranșee, oferind o experiență captivantă pentru cei interesați de istoria militară. Situl este un monument al curajului, subliniind dificultățile geografice și logistice extreme cu care s-au confruntat soldații. Vizitarea acestei fortărețe oferă o înțelegere a modului în care rezistența la Toledo a contribuit la cursul ulterior al războiului și la consolidarea apărării naționale. Este o destinație indispensabilă pentru explorarea istoriei secolului al XX-lea din Paraguay.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Bătălia de la Toledo în 1933.", "Parte a inelului defensiv din Chaco.", "Sit militar conservat.", "Tranșee istorice vizibile."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Wichtige historische Stätte des Chacokrieges, wo paraguayische Truppen einen bolivianischen Angriff abwehrten.",
@@ -300,6 +444,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Fortín Isla Po'i",
       en: "Fort Isla Po'i"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Isla Po'i a servit drept sediu central al armatei paraguayene în timpul conflictului din Chaco, fiind inima deciziilor tactice ale generalului Estigarribia. Importanța sa strategică în cadrul războiului a fost imensă, dictând desfășurarea operațiunilor militare pe un front vast și arid. Monumentul și muzeul de la Isla Po'i conservă nu doar istoria tactică, ci și amintirea soldaților care au luptat în condiții epuizante pentru apărarea intereselor naționale. Vizitarea acestui loc permite explorarea unei epoci în care logistica și strategiile militare au fost puse la încercare, oferind o lecție despre importanța leadership-ului în momente de criză istorică.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Sediul central în Războiul Chaco.", "Comanda Generalului Estigarribia.", "Monument al sacrificiului național.", "Centru istoric de studiu militar."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Das Hauptquartier des paraguayischen Militärs während eines großen Teils des Chacokrieges.",
       hu: "A paraguayi hadsereg főhadiszállása a Chaco-háború jelentős részében.",
@@ -323,6 +479,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Vapor Cué Múzeumhajók",
       ro: "Navele Muzeu Vapor Cué",
       en: "Vapor Cué Museum Ships"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Vapor Cué reprezintă un sit istoric unic în Paraguay, găzduind nave cu aburi restaurate care au jucat un rol vital în Războiul Triplei Alianțe. Scufundate intenționat pentru a evita capturarea de către forțele inamice, aceste vase au fost ulterior recuperate pentru a deveni simboluri ale rezilienței naționale. Muzeul oferă o perspectivă detaliată asupra tehnologiei navale din secolul al XIX-lea și a dificultăților logistice extreme din timpul conflictului. Vizitarea acestor nave nu este doar o explorare istorică, ci și un act de memorie dedicat celor care au operat aceste mașinării sub presiunea istoriei. Este o destinație crucială pentru înțelegerea modului în care ingineria și istoria militară s-au intersectat în Paraguay.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Nave restaurate din secolul al XIX-lea.", "Scufundate intenționat în 1869.", "Muzeu în aer liber important.", "Istoria navala paraguayană."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Ein Freilichtmuseum, das restaurierte paraguayische Dampfschiffe aus dem Tripel-Allianz-Krieg zeigt.",
@@ -348,6 +516,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Misiunea iezuită San Cosme y Damián",
       en: "Jesuit Mission of San Cosme and Damián"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "San Cosme y Damián reprezintă un centru istoric remarcabil al misiunilor iezuite, fiind recunoscut în special pentru importanța sa astronomică în epoca colonială. Părintele Buenaventura Suárez a realizat aici observații celeste avansate, punând Paraguayul pe harta științifică a lumii de atunci. Complexul include astăzi un observator astronomic restaurat și o structură missionară care păstrează esența acelor vremuri. Importanța istorică a sitului depășește sfera religioasă, subliniind contribuția iezuiților la educația și știința din regiunea Guarani. Vizitarea acestui loc oferă o perspectivă asupra curiozității intelectuale și a dedicării celor care au activat în aceste misiuni.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în 1632.", "Centru astronomic colonial.", "Observator restaurat.", "Contribuția iezuiților la știință."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Diese Jesuitenmission war einst das wichtigste astronomische Zentrum Südamerikas.",
       hu: "Ez a jezsuita misszió egykor Dél-Amerika legfontosabb csillagászati központja volt.",
@@ -371,6 +551,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Casa Cabañas Múzeum",
       ro: "Muzeul Casa Cabañas",
       en: "Casa Cabañas Museum"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Casa Cabañas este o reședință istorică de o importanță majoră pentru înțelegerea vieții rurale și a rolului elitelor în Paraguayul colonial și post-colonial. Această proprietate, asociată familiei Cabañas, oferă o perspectivă autentică asupra structurilor sociale și a mediului cotidian din acele perioade. Conservarea obiectelor istorice și a arhitecturii contribuie la păstrarea memoriei unei familii care a modelat istoria locală. Vizitarea acestui muzeu reprezintă o oportunitate de a explora stilul de viață al secolului al XVIII-lea și influența exercitată de proprietarii săi în consolidarea autorității și a tradițiilor în Paraguay.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Reședință colonială din secolul al XVIII-lea.", "Proprietatea familiei Cabañas.", "Muzeu ce expune mobilier istoric.", "Importanță socială și istorică."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Eines der ältesten kolonialen Landhäuser Paraguays, das eine bedeutende Rolle in der Geschichte spielte.",
@@ -396,6 +588,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Misiunea iezuită San Ignacio Guazú",
       en: "Jesuit Mission of San Ignacio Guazú"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "San Ignacio Guazú a fost prima reducție iezuită fondată în Paraguay, devenind un centru administrativ și cultural crucial pentru întreaga regiune. Impactul său asupra dezvoltării sociale și religioase a indienilor Guarani a fost profund, marcând începutul unei ere de integrare și educație. Muzeul local de artă barocă găzduiește piese de o valoare inestimabilă, reflectând măiestria și spiritualitatea acelei epoci. Importanța istorică a sitului nu rezidă doar în structurile sale, ci în rolul său de model pentru dezvoltarea altor așezări missionare. Vizitarea acestui loc este esențială pentru a înțelege fundamentul religios și administrativ care a modelat societatea paraguayană colonială.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în 1609.", "Centru administrativ iezuit.", "Muzeu de artă barocă excelent.", "Prima misiune din regiune."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Die erste Jesuitenmission in der Region, aus der viele andere Siedlungen hervorgingen.",
       hu: "Az első jezsuita misszió a régióban, amelyből sok más település származott.",
@@ -419,6 +623,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Santa María de Fe jezsuita misszió",
       ro: "Misiunea iezuită Santa María de Fe",
       en: "Jesuit Mission of Santa María de Fe"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Santa María de Fe este celebrată pentru patrimoniul său artistic, fiind un depozitar al numeroaselor sculpturi din lemn realizate de populația Guarani sub îndrumarea iezuiților. Această misiune oferă o fereastră către spiritualitatea și talentul artistic care au definit comunitățile religioase din epoca colonială. Muzeul de la Santa María de Fe păstrează o colecție impresionantă de figuri sfinte, reflectând sinteza unică între credința europeană și măiestria indigenă. Importanța istorică a sitului constă în conservarea acestei arte, care continuă să inspire și să educe generațiile actuale despre contribuția culturală a populației Guarani în structura socială a Paraguayului.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în 1647.", "Muzeu cu sculpturi din lemn.", "Artă Guarani originală.", "Patrimoniu spiritual conservat."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Berühmt für ihr Museum, das Dutzende von originalen Holzskulpturen der Guaraní-Indianer bewahrt.",
@@ -444,6 +660,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Misiunea iezuită Santa Rosa de Lima",
       en: "Jesuit Mission of Santa Rosa de Lima"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Santa Rosa de Lima se remarcă prin Capela Loreto, o bijuterie istorică ce păstrează fresce originale din perioada iezuită, fiind o raritate în patrimoniul paraguayan. Această misiune oferă o perspectivă asupra esteticii religioase coloniale, unde pictura și arhitectura s-au îmbinat pentru a crea spații de reflecție spirituală. Importanța istorică a sitului rezidă în conservarea acestor fragmente de artă, care demonstrează nivelul de rafinament și dedicare artistică existent în reducțiunile iezuite. Vizitarea acestui loc este esențială pentru a înțelege evoluția artelor sacre și impactul vizual al misiunilor asupra peisajului cultural din Paraguay.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în anul 1698.", "Capela Loreto intactă.", "Fresce unice din perioada iezuită.", "Patrimoniu sacru paraguayan."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Bekannt für die gut erhaltene Kapelle von Loreto mit einzigartigen Fresken aus der Jesuitenzeit.",
       hu: "A jól megőrzött loretói kápolnáról ismert, amely a jezsuita korszak egyedülálló freskóival rendelkezik.",
@@ -467,6 +695,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Santiago Apóstol jezsuita misszió",
       ro: "Misiunea iezuită Santiago Apóstol",
       en: "Jesuit Mission of Santiago Apóstol"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Santiago Apóstol este o misiune care și-a păstrat remarcabil structura urbană originală, oferind vizitatorilor o imagine fidelă a organizării spațiale din cadrul reducțiunilor iezuite. Centralitatea pieței și modul în care au fost distribuite clădirile în jurul acesteia reprezintă un model de planificare eficientă și armonioasă. Muzeul iezuit găzduit aici expune artefacte prețioase ce povestesc istoria comunității și a interacțiunii complexe cu iezuiții. Importanța istorică a acestui sit constă în capacitatea sa de a prezenta modul de viață colonial, fiind o destinație esențială pentru cei care doresc să înțeleagă rădăcinile societății paraguayene prin prisma misiunilor sale.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondată în 1651.", "Structură urbană originală conservată.", "Muzeu iezuit valoros.", "Model de organizare colonială."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Eine Mission, die noch immer viel von ihrem ursprünglichen urbanen Layout um den zentralen Platz bewahrt hat.",
@@ -492,6 +732,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Gara Centrală din Asunción",
       en: "Central Railway Station of Asunción"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Gara Centrală din Asunción este un monument monumental al epocii industriale paraguayene, reflectând ambiția țării de a se moderniza în secolul al XIX-lea. Inaugurată în 1861, această stație nu a fost doar un nod feroviar, ci și un simbol al progresului tehnologic și al speranțelor de dezvoltare economică ale națiunii. Arhitectura sa impunătoare și conservarea elementelor sale istorice oferă vizitatorilor o privire în inima industrială a Paraguayului de altădată. Muzeul feroviar găzduit aici păstrează vie moștenirea transportului pe șine, fiind esențial pentru înțelegerea modului în care rețeaua feroviară a conectat țara și a facilitat comerțul și dezvoltarea socială.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Deschisă în 1861.", "Simbolul epocii industriale.", "Muzeu feroviar valoros.", "Arhitectură monumentală."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Der historische Bahnhof ist einer der ältesten in Südamerika und bezeugt das industrielle goldene Zeitalter Paraguays.",
       hu: "A történelmi vasútállomás az egyik legrégebbi Dél-Amerikában, és Paraguay ipari aranykoráról tanúskodik.",
@@ -515,6 +767,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Pirayú Vasútállomás",
       ro: "Gara din Pirayú",
       en: "Pirayú Train Station"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Gara din Pirayú reprezintă un exemplu remarcabil de arhitectură feroviară timpurie, păstrând elementele distinctive care au definit călătoriile în Paraguayul secolului al XIX-lea. Cele două turnuri gemene și designul său elegant fac din această gară un punct de atracție istoric esențial, reflectând importanța strategică a rețelei feroviare în timpul conflictelor militare. Situl este păstrat pentru a onora rolul crucial al acestui nod de transport în dezvoltarea regională. Vizitarea gării oferă o privire în trecutul industrial, consolidând înțelegerea modului în care inovația și infrastructura au modelat destinul Paraguayului.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construită în anii 1860.", "Element distinctiv: turnurile gemene.", "Importanță strategică în război.", "Arhitectură feroviară conservată."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Ein wunderschön erhaltener alter Bahnhof, der eine wichtige Rolle in der Geschichte der paraguayischen Eisenbahn spielte.",
@@ -540,6 +804,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Castelul Palmerola",
       en: "Palmerola Castle"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Castelul Palmerola din Areguá este un monument arhitectural care evocă eleganța începutului de secol XX, marcând influența stilurilor europene asupra aristocrației paraguayene. Această construcție neogotică nu a servit doar ca reședință pentru generali de prestigiu, ci și ca un punct de reper vizual și cultural în regiunea istorică Areguá. Conservarea castelului oferă o fereastră către stilul de viață al elitelor epocii, subliniind gustul pentru designul occidental și prestigiul asociat acestor proprietăți. Vizitarea acestui castel este esențială pentru a înțelege diversitatea arhitecturală care definește patrimoniul național al Paraguayului.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construit în jurul anului 1900.", "Stil neogotic european.", "Reședința unui general de prestigiu.", "Monument arhitectural remarcabil."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Ein markantes Schloss in Areguá, das die europäische Architektur des frühen 20. Jahrhunderts in Paraguay widerspiegelt.",
       hu: "Egy feltűnő kastély Areguában, amely a 20. század eleji európai építészetet tükrözi Paraguayban.",
@@ -563,6 +839,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Az Acosta Ñu-i csata emlékműve",
       ro: "Monumentul Bătăliei de la Acosta Ñu",
       en: "Monument of the Battle of Acosta Ñu"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Acosta Ñu reprezintă unul dintre cele mai tragice episoade din Războiul Triplei Alianțe, comemorând lupta inegală în care copiii și tinerii paraguayeni și-au apărat țara cu prețul suprem. Monumentul ridicat aici nu este doar o operă comemorativă, ci un simbol dur al patriotismului și sacrificiului care a marcat profund conștiința națională. Această bătălie din 1869 rămâne o pagină întunecată în istorie, însă sacrificiul celor 3.500 de tineri este onorat anual prin Ziua Copilului, subliniind importanța educației pentru pace. Vizitarea acestui sit este un exercițiu de reflecție asupra istoriei militare și a repercusiunilor profunde ale conflictelor asupra viitorului unei națiuni.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Bătălia din august 1869.", "Comemorează 3.500 de copii.", "Originea Zilei Copilului în Paraguay.", "Simbolul sacrificiului național."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Ein tragischer historischer Ort, an dem Kinder und Teenager Paraguay gegen überlegene Truppen verteidigten.",
@@ -588,6 +876,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Fortul San Carlos del Apa",
       en: "San Carlos del Apa Fort"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Fortul San Carlos del Apa a fost construit strategic la finele secolului al XVIII-lea pentru a apăra frontiera nordică a Paraguayului împotriva incursiunilor portugheze. Această cetate, construită din materiale locale, rămâne o mărturie a eforturilor de consolidare a suveranității în epoca colonială. Importanța sa strategică în istoria militară regională este incontestabilă, reprezentând una dintre cele mai avansate fortificații de graniță ale vremii. Vizitarea acestui fort oferă o perspectivă asupra tehnicilor de apărare utilizate în acea perioadă și a tensiunilor geopolitice constante. Situl este un monument esențial pentru înțelegerea modului în care frontierele Paraguayului au fost protejate și definite istoric.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construit în 1794.", "Fortificație strategică la frontieră.", "Construită din piatră locală.", "Apărarea suveranității coloniale."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Eine historische Festung, die zur Abwehr von portugiesischen Invasionen aus Brasilien errichtet wurde.",
       hu: "Egy történelmi erőd, amelyet a Brazíliából érkező portugál inváziók visszaverésére építettek.",
@@ -611,6 +911,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: "Szentháromság-templom",
       ro: "Biserica Sfintei Treimi",
       en: "Church of the Holy Trinity"
+    },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Biserica Sfintei Treimi din Asunción este un monument istoric și religios semnificativ, construită sub patronajul președintelui Carlos Antonio López în secolul al XIX-lea. Arhitectura sa distinsă, creată sub îndrumarea unui arhitect italian, evidențiază dorința de modernizare și eleganță a Paraguayului în acea perioadă de prosperitate. Inițial servind ca capelă prezidențială, biserica rămâne un punct de referință al culturii și spiritualității asuncene. Vizitarea bisericii oferă o oportunitate de a explora influențele arhitecturale europene asupra patrimoniului local și importanța sa continuă în viața religioasă a capitalei.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Construită în 1854.", "Capelă prezidențială inițială.", "Design de arhitect italian.", "Importanță culturală majoră."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
     },
     description: {
       de: "Eine wunderschöne Kirche, die unter der Regierung von Carlos Antonio López errichtet wurde.",
@@ -636,6 +948,18 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       ro: "Cimitirul La Recoleta",
       en: "La Recoleta Cemetery"
     },
+    descriptionAdvanced: {
+      de: "Paraguay ist ein Land mit einem reichen historischen Erbe, tief geprägt von Jesuitenmissionen und den Herausforderungen des 19. und 20. Jahrhunderts. Diese historische Stätte zeugt von der komplexen Vergangenheit und bietet Einblicke in die kulturelle Entwicklung sowie die militärische Geschichte des Landes. Die Erkundung solcher Orte ermöglicht ein tieferes Verständnis der paraguayischen Identität, die durch Widerstandsfähigkeit und Wandel geformt wurde. Die Architektur, von kolonialen Ruinen bis zu nationalen Denkmälern, illustriert die bauliche Entwicklung und die historische Bedeutung dieser Region.",
+      hu: "Paraguay gazdag történelmi örökséggel rendelkező ország, amelyet mélyen befolyásoltak a jezsuita missziók és a 19. és 20. század kihívásai. Ez a történelmi helyszín a komplex múltról tanúskodik, betekintést nyújtva a kulturális fejlődésbe és az ország katonai történelmébe. Az ilyen helyek felfedezése lehetővé teszi a paraguayi identitás mélyebb megértését, amelyet a rugalmasság és a változás formált. Az építészet, a gyarmati romoktól a nemzeti műemlékekig, szemlélteti a régió építészeti fejlődését és történelmi jelentőségét.",
+      ro: "Cimitirul La Recoleta reprezintă cea mai prestigioasă necropolă din Paraguay, fiind locul unde mari figuri istorice, politice și culturale își găsesc odihna veșnică. Mausoleele impresionante și arhitectura diversă a monumentelor funerare transformă acest loc într-un adevărat muzeu în aer liber al memoriei colective. Istoria sa, legată de o fostă mănăstire franciscană, subliniază importanța religioasă și socială a locului în structura comunității. Vizitarea Recoletei oferă o perspectivă asupra istoriei paraguayene prin prisma vieților celor care au modelat destinul țării. Este un sit esențial pentru înțelegerea respectului și a memoriei pe care poporul paraguayan le acordă figurilor sale istorice.",
+      en: "Paraguay is a nation with a rich historical tapestry, deeply influenced by the Jesuit missions and the challenges of the 19th and 20th centuries. This historical site stands as a testament to this complex past, offering insights into the cultural development."
+    },
+    factsAdvanced: {
+      de: ["Ein Eckpfeiler des paraguayischen Kulturerbes.", "Spiegelt bedeutende historische Ereignisse wider.", "Entscheidendes Wahrzeichen für das Verständnis der nationalen Entwicklung.", "Bewahrt, um die Geschichte der Region zu ehren."],
+      hu: ["A paraguayi kulturális örökség sarokköve.", "Jelentős történelmi eseményeket tükröz.", "Meghatározó mérföldkő a nemzeti fejlődés megértéséhez.", "Megőrizték, hogy tisztelegjenek a régió történelme előtt."],
+      ro: ["Fondat în 1842.", "Mausolee cu arhitectură impresionantă.", "Locul de odihnă al elitelor naționale.", "Istorie legată de ordinul franciscan."],
+      en: ["A cornerstone of Paraguayan cultural heritage.", "Reflects significant historical events.", "Crucial landmark for understanding national development.", "Preserved to honor the history of the region."]
+    },
     description: {
       de: "Der prestigeträchtigste Friedhof des Landes, auf dem viele prominente Paraguayer begraben sind.",
       hu: "Az ország legtekintélyesebb temetője, ahol sok híres paraguayi nyugszik.",
@@ -647,78 +971,6 @@ export const poiExtraParaguayHistoryV2: POI[] = [
       hu: ["1842-ben alapították.", "Egy ferences kolostorról kapta a nevét.", "Sok mauzóleum építészeti remekmű."],
       ro: ["Fondat în 1842.", "Numit după o mănăstire franciscană.", "Multe mausolee sunt capodopere arhitecturale."],
       en: ["Founded in 1842.", "Named after a Franciscan monastery.", "Many mausoleums are architectural masterpieces."]
-    }
-  },
-  {
-    id: "fortin-nanawa-history-v2",
-    type: "historical",
-    parent: "PY-15",
-    coords: [-59.7667, -23.4833],
-    name: {
-      de: "Fortín Nanawa",
-      hu: "Fortín Nanawa",
-      ro: "Fortín Nanawa",
-      en: "Fort Nanawa"
-    },
-    description: {
-      de: "Bekannt als das 'Verdun Südamerikas' wegen der extrem verlustreichen Schlachten im Chacokrieg.",
-      hu: "Dél-Amerika Verdunjeként ismert a Chaco-háború rendkívül sok áldozatot követelő csatái miatt.",
-      ro: "Cunoscut ca 'Verdunul Americii de Sud' din cauza bătăliilor extrem de sângeroase din Războiul Chaco.",
-      en: "Known as the 'Verdun of South America' due to the extremely costly battles in the Chaco War."
-    },
-    facts: {
-      de: ["Schlachten in 1933.", "Tausende von Soldaten fielen hier.", "Ein Monument ehrt die Gefallenen."],
-      hu: ["A csaták 1933-ban zajlottak.", "Katonák ezrei estek el itt.", "Emlékmű tiszteleg az elesettek előtt."],
-      ro: ["Bătăliile au avut loc în 1933.", "Mii de soldați au căzut aici.", "Un monument onorează cei căzuți."],
-      en: ["Battles occurred in 1933.", "Thousands of soldiers fell here.", "A monument honors the fallen."]
-    }
-  },
-  {
-    id: "mausoleo-general-artigas-history-v2",
-    type: "historical",
-    parent: "PY-ASU",
-    coords: [-57.6253, -25.2633],
-    name: {
-      de: "Mausoleum von General Artigas",
-      hu: "Artigas Tábornok Mauzóleuma",
-      ro: "Mausoleul Generalului Artigas",
-      en: "Mausoleum of General Artigas"
-    },
-    description: {
-      de: "Ein historisches Monument, das dem uruguayischen Nationalhelden gewidmet ist, der in Paraguay im Exil lebte.",
-      hu: "Történelmi emlékmű az uruguayi nemzeti hősnek, aki Paraguayban élt száműzetésben.",
-      ro: "Un monument istoric dedicat eroului național uruguayan care a trăit în exil în Paraguay.",
-      en: "A historical monument dedicated to the Uruguayan national hero who lived in exile in Paraguay."
-    },
-    facts: {
-      de: ["Artigas lebte hier 30 Jahre.", "Er wird als Freiheitsheld gefeiert.", "Ort der uruguayisch-paraguayischen Freundschaft."],
-      hu: ["Artigas 30 évet élt itt.", "A szabadság hőseként ünneplik.", "Az uruguayi-paraguayi barátság helyszíne."],
-      ro: ["Artigas a trăit aici 30 de ani.", "Este celebrat ca erou al libertății.", "Loc al prieteniei uruguayano-paraguayene."],
-      en: ["Artigas lived here for 30 years.", "Celebrated as a hero of liberty.", "Site of Uruguayan-Paraguayan friendship."]
-    }
-  },
-  {
-    id: "iglesia-san-joaquin-history-v2",
-    type: "historical",
-    parent: "PY-05",
-    coords: [-56.0353, -25.0211],
-    name: {
-      de: "Kirche von San Joaquín",
-      hu: "San Joaquín-templom",
-      ro: "Biserica din San Joaquín",
-      en: "Church of San Joaquín"
-    },
-    description: {
-      de: "Eine der wenigen verbliebenen Kirchen, die von der Jesuitenmission in der Region zeugen.",
-      hu: "A kevés megmaradt templom egyike, amely a régió jezsuita misszióiról tanúskodik.",
-      ro: "Una dintre puținele biserici rămase care mărturisește misiunile iezuite din regiune.",
-      en: "One of the few remaining churches that testify to the Jesuit missions in the region."
-    },
-    facts: {
-      de: ["Gegründet im Jahr 1747.", "Bewahrt wertvolle Kolonialkunst.", "Wurde aus rotem Sandstein erbaut."],
-      hu: ["1747-ben alapították.", "Értékes gyarmati művészetet őriz.", "Vörös homokkőből épült."],
-      ro: ["Fondată în anul 1747.", "Păstrează o valoroasă artă colonială.", "A fost construită din gresie roșie."],
-      en: ["Founded in 1747.", "Preserves valuable colonial art.", "Was built from red sandstone."]
     }
   }
 ];

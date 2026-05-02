@@ -1,4 +1,14 @@
 import type { POI } from "./poi";
+import { poiExtraCanadaCities } from "./poiExtraCanadaCities";
+import { poiExtraCanadaCitiesV2 } from "./poiExtraCanadaCitiesV2";
+import { poiExtraCanadaEconomicV2 } from "./poiExtraCanadaEconomicV2";
+import { poiExtraCanadaHistory } from "./poiExtraCanadaHistory";
+import { poiExtraCanadaHistoryV2 } from "./poiExtraCanadaHistoryV2";
+import { poiExtraCanadaLandmarksV2 } from "./poiExtraCanadaLandmarksV2";
+import { poiExtraCanadaLifeV2 } from "./poiExtraCanadaLifeV2";
+import { poiExtraCanadaNatureV2 } from "./poiExtraCanadaNatureV2";
+import { poiExtraCanadaRefill } from "./poiExtraCanadaRefill";
+import { poiExtraCanadaReliefV2 } from "./poiExtraCanadaReliefV2";
 
 export const canadaCountry: POI[] = [];
 export const canadaRegions: POI[] = [];
@@ -1193,4 +1203,4 @@ export const canadaCities: POI[] = [
   },
 ];
 
-export const canadaAllPoi: POI[] = [...canadaCountry, ...canadaRegions, ...canadaCities, ...canadaLandmarks];
+export const canadaAllPoi: POI[] = [...canadaCountry, ...canadaRegions, ...canadaCities, ...canadaLandmarks, ...poiExtraCanadaCities, ...poiExtraCanadaCitiesV2, ...poiExtraCanadaEconomicV2, ...poiExtraCanadaHistory, ...poiExtraCanadaHistoryV2, ...poiExtraCanadaLandmarksV2, ...poiExtraCanadaLifeV2, ...poiExtraCanadaNatureV2, ...poiExtraCanadaRefill, ...poiExtraCanadaReliefV2];

@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraElsalvadorCitiesV2 } from "./poiExtraElsalvadorCitiesV2";
+import { poiExtraElsalvadorEconomicV2 } from "./poiExtraElsalvadorEconomicV2";
+import { poiExtraElsalvadorHistoryV2 } from "./poiExtraElsalvadorHistoryV2";
+import { poiExtraElsalvadorLandmarksV2 } from "./poiExtraElsalvadorLandmarksV2";
+import { poiExtraElsalvadorLifeV2 } from "./poiExtraElsalvadorLifeV2";
+import { poiExtraElsalvadorNatureV2 } from "./poiExtraElsalvadorNatureV2";
+import { poiExtraElsalvadorReliefV2 } from "./poiExtraElsalvadorReliefV2";
 
 export const elsalvadorCountry: POI[] = [];
 export const elsalvadorRegions: POI[] = [];
@@ -750,4 +757,4 @@ export const elsalvadorLandmarks: POI[] = [
   }
 ];
 
-export const elsalvadorAllPoi: POI[] = [...elsalvadorCountry, ...elsalvadorRegions, ...elsalvadorCities, ...elsalvadorLandmarks];
+export const elsalvadorAllPoi: POI[] = [...elsalvadorCountry, ...elsalvadorRegions, ...elsalvadorCities, ...elsalvadorLandmarks, ...poiExtraElsalvadorCitiesV2, ...poiExtraElsalvadorEconomicV2, ...poiExtraElsalvadorHistoryV2, ...poiExtraElsalvadorLandmarksV2, ...poiExtraElsalvadorLifeV2, ...poiExtraElsalvadorNatureV2, ...poiExtraElsalvadorReliefV2];

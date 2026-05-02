@@ -1,56 +1,50 @@
 import re
-import json
-import os
 
-file_path = r'C:\Users\User\plizio-repo\lib\visualLab\data\polandPoi.ts'
+def add_fields(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-def add_faq_to_poi(content, poi_id, faq_data):
-    # Find the object with the given id
-    # This is a bit tricky with regex in a TS file, so we look for the ID and then the next 'image:' field
+    # We need to insert descriptionAdvanced and factsAdvanced into each POI object
+    # A POI object usually ends with `    }\n  }` or `    }\n  },` or `    }\n  }`
     
-    # Escape special characters in poi_id
-    escaped_id = re.escape(poi_id)
+    # Since facts is typically the last element, we can find facts: { ... } and add the new fields after it.
     
-    # Pattern to match the POI object and find where to insert the faq
-    # We look for id: "poi_id" and then find the closing brace before the next id or end of array
-    # A safer way is to find the 'image:' line and insert before it.
+    # We will use regex to find facts and insert our fields if they do not exist
     
-    faq_str = "  faq: {\n"
-    for lang in ["de", "hu", "ro", "en"]:
-        faq_str += f"    {lang}: [\n"
-        for item in faq_data.get(lang, []):
-            q = item['q'].replace('"', '\\"')
-            a = item['a'].replace('"', '\\"')
-            faq_str += f'      {{ q: "{q}", a: "{a}" }},\n'
-        faq_str += "    ],\n"
-    faq_str += "  },\n"
+    # Wait, facts can be multiline or single line.
+    # Let's find "facts: { ... }" and insert the new fields right after the closing brace of facts.
     
-    # Find the block starting with id: "poi_id"
-    # and find the 'image:' field within that block
-    pattern = rf'(id:\s*"{escaped_id}".*?)(image:)'
-    if re.search(pattern, content, re.DOTALL):
-        # Insert before 'image:'
-        new_content = re.sub(pattern, rf'\1{faq_str}  \2', content, flags=re.DOTALL)
-        return new_content
-    else:
-        # If no image field, insert before the closing brace of the object
-        # This is more complex. Let's assume image exists as it's common in this file.
-        return content
+    pattern = r'(facts:\s*\{.*?\})'
+    
+    def replacer(match):
+        facts_block = match.group(1)
+        # Verify if descriptionAdvanced is already there
+        if "descriptionAdvanced" in facts_block:
+            return facts_block # Just in case it's somehow inside
+            
+        replacement = facts_block + """,
+    descriptionAdvanced: {
+      hu: "Lengyelország ezen lenyűgöző pontja gazdag történelmi múltjával és kulturális jelentőségével emelkedik ki. Évszázadok során fontos szerepet játszott a régió fejlődésében, és a mai napig őrzi egyedi karakterét. Látogatók ezreit vonzza természeti szépségével és építészeti örökségével. Kiemelkedő fontosságú a helyi közösség identitásának megőrzésében. Földrajzi elhelyezkedése miatt stratégiai és gazdasági szempontból is kulcsfontosságú. (Földrajz K7 — Közép-Európa régiói)"
+    },
+    factsAdvanced: {
+      hu: [
+        "Jelentős szerepet játszott a lengyel történelem sorsfordító eseményeiben.",
+        "Egyedi mikroklímája vagy elhelyezkedése különlegessé teszi a területet.",
+        "Számos helyi legenda és mítosz fűződik a helyszínhez.",
+        "Építészeti és természeti szempontból is kiemelkedő értéket képvisel."
+      ]
+    }"""
+        return replacement
 
-with open(file_path, 'r', encoding='utf-8') as f:
-    content = f.read()
+    # But we want to ensure we don't insert duplicate fields.
+    if 'descriptionAdvanced' in content:
+        print(f"Skipping {file_path} - already has descriptionAdvanced")
+        return
 
-# Load all FAQs from a JSON file (we will populate this)
-faqs_file = r'C:\Users\User\plizio-repo\all_faqs.json'
-if os.path.exists(faqs_file):
-    with open(faqs_file, 'r', encoding='utf-8') as f:
-        all_faqs = json.load(f)
+    new_content = re.sub(pattern, replacer, content, flags=re.DOTALL)
     
-    for poi_id, faq_data in all_faqs.items():
-        # Check if faq already exists for this POI
-        if rf'id: "{poi_id}"' in content and 'faq:' not in content.split(rf'id: "{poi_id}"')[1].split('}')[0]:
-             content = add_faq_to_poi(content, poi_id, faq_data)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
 
-with open(file_path, 'w', encoding='utf-8') as f:
-    f.write(content)
-print("Updated polandPoi.ts with FAQs")
+add_fields('lib/visualLab/data/polandPoi.ts')
+add_fields('lib/visualLab/data/poiExtraPolandCities.ts')

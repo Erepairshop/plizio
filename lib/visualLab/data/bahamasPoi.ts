@@ -1,5 +1,13 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraBahamasCitiesV2 } from "./poiExtraBahamasCitiesV2";
+import { poiExtraBahamasEconomicV2 } from "./poiExtraBahamasEconomicV2";
+import { poiExtraBahamasHistoryV2 } from "./poiExtraBahamasHistoryV2";
+import { poiExtraBahamasLandmarksV2 } from "./poiExtraBahamasLandmarksV2";
+import { poiExtraBahamasLifeV2 } from "./poiExtraBahamasLifeV2";
+import { poiExtraBahamasNatureV2 } from "./poiExtraBahamasNatureV2";
+import { poiExtraBahamasRefill } from "./poiExtraBahamasRefill";
+import { poiExtraBahamasReliefV2 } from "./poiExtraBahamasReliefV2";
 
 export const bahamasCountry: POI[] = [];
 export const bahamasRegions: POI[] = [];
@@ -109,4 +117,4 @@ export const bahamasLandmarks: POI[] = [
     description: { de: "Ein wunderschöner Ort zum Schnorcheln in Exuma.", hu: "Gyönyörű búvárkodási helyszín Exumán.", ro: "Un loc superb pentru snorkeling în Exuma.", en: "A beautiful snorkeling spot in Exuma." }, descriptionAdvanced: {"en": "Stairway to Heaven is a spectacular snorkeling and diving site in the Exuma Cays, known for its vibrant coral gardens and steep underwater drop-offs. It offers an incredible variety of marine life in a relatively shallow setting.", "de": "Stairway to Heaven ist ein spektakulärer Schnorchel- und Tauchplatz in den Exuma Cays, bekannt für seine lebendigen Korallengärten und steilen Unterwasserabfälle. Er bietet eine unglaubliche Vielfalt an Meereslebewesen.", "hu": "A 'Lépcső a mennyországba' (Stairway to Heaven) egy látványos búvárhely az Exumán, amely vibráló korallkertjeiről és meredek víz alatti lejtőiről ismert. Hihetetlenül gazdag tengeri élővilágot kínál viszonylag sekély környezetben.", "ro": "Scara către cer este un loc spectaculos de snorkeling și scufundări în Exuma Cays, cunoscut pentru grădinile sale de corali vibrante și prăpastiile subacvatice abrupte. Oferă o varietate incredibilă de viață marină."}, facts: {"en": ["Premier snorkeling site", "Located in the Exumas", "Vibrant coral gardens", "Shallow water entry"], "de": ["Erstklassiger Schnorchelplatz", "Befindet sich in den Exumas", "Lebendige Korallengärten", "Einstieg im flachen Wasser"], "hu": ["Kiváló búvárhelyszín", "Az Exumán található", "Vibráló korallkertek", "Sekély vízi bejárat"], "ro": ["Loc de snorkeling de top", "Situat în Exumas", "Grădini de corali vibrante", "Intrare în apă puțin adâncă"]}, factsAdvanced: {"en": ["Teems with reef sharks", "Clear turquoise visibility", "Part of marine reserve", "Ideal for photography"], "de": ["Wimmelt von Riffhaien", "Klare türkisfarbene Sicht", "Teil des Meeresreservats", "Ideal für Fotografie"], "hu": ["Hemzseg a szirti cápáktól", "Tiszta türkizkék látási viszonyok", "A tengeri rezervátum része", "Ideális fotózáshoz"], "ro": ["Plin de rechini de recif", "Vizibilitate turcoaz clară", "Parte a rezervației marine", "Ideal pentru fotografie"]} }
 ];
 
-export const bahamasAllPoi: POI[] = [...bahamasCountry, ...bahamasRegions, ...bahamasCities, ...bahamasLandmarks];
+export const bahamasAllPoi: POI[] = [...bahamasCountry, ...bahamasRegions, ...bahamasCities, ...bahamasLandmarks, ...poiExtraBahamasCitiesV2, ...poiExtraBahamasEconomicV2, ...poiExtraBahamasHistoryV2, ...poiExtraBahamasLandmarksV2, ...poiExtraBahamasLifeV2, ...poiExtraBahamasNatureV2, ...poiExtraBahamasRefill, ...poiExtraBahamasReliefV2];

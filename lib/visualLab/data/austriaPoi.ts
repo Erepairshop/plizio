@@ -1,4 +1,8 @@
 import type { POI } from "./poi";
+import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
+import { poiExtraAustriaIndustry } from "./poiExtraAustriaIndustry";
+import { poiExtraAustriaLife } from "./poiExtraAustriaLife";
+import { poiExtraAustriaNature } from "./poiExtraAustriaNature";
 
 export const austriaCountry: POI = {
   id: "AT",
@@ -3492,8 +3496,6 @@ export const austriaCities: POI[] = [
   }
 ];
 
-export const austriaAllPoi: POI[] = [
-  austriaCountry,
+export const austriaAllPoi: POI[] = [austriaCountry,
   ...austriaRegions,
-  ...austriaCities
-];
+  ...austriaCities, ...poiExtraAustriaHistorical, ...poiExtraAustriaIndustry, ...poiExtraAustriaLife, ...poiExtraAustriaNature];

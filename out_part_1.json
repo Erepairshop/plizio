@@ -1,0 +1,452 @@
+[
+  {
+    "id": "stare-miasto-gdansk",
+    "desc_de": "Die Danziger Rechtstadt bildet das pulsierende historische Zentrum von Danzig und besticht durch ihre prächtige Architektur aus der Zeit der Hanse. Hier spürt man die reiche, jahrhundertealte Handelsgeschichte der Stadt an jeder Straßenecke, insbesondere am malerischen Langen Markt. Das ikonische Krantor, das sich majestätisch über die Mottlau erhebt, zeugt von der maritimen Bedeutung der Region. Prächtige Patrizierhäuser mit kunstvoll verzierten Fassaden säumen die gepflasterten Wege und Gassen. Zahlreiche gemütliche Cafés und traditionsreiche Bernsteingeschäfte laden Besucher zu einer unvergesslichen Zeitreise ein.",
+    "facts_de": [
+      "Die Rechtstadt wurde nach den Zerstörungen des Zweiten Weltkriegs aufwendig und detailgetreu rekonstruiert.",
+      "Die monumentale Marienkirche ist eine der größten Backsteinkirchen der Welt.",
+      "Der berühmte Neptunbrunnen vor dem Artushof stammt aus dem 17. Jahrhundert.",
+      "Danzig galt lange als eine der wohlhabendsten Handelsstädte im Ostseeraum."
+    ]
+  },
+  {
+    "id": "gniezno",
+    "desc_de": "Gnesen ist eine der ältesten Städte Polens und gilt als die historische Wiege der polnischen Nation. Hier befand sich die erste Hauptstadt des Landes, was der Stadt eine herausragende kulturelle und historische Bedeutung verleiht. Die majestätische Gnesener Kathedrale, in der zahlreiche polnische Könige gekrönt wurden, überragt das Stadtbild. In den malerischen Gassen der Altstadt spiegelt sich die reiche Vergangenheit wider, während moderne Einflüsse einen spannenden Kontrast bilden. Die Stadt ist zudem eng mit dem Heiligen Adalbert verbunden, dessen Reliquien hier aufbewahrt werden.",
+    "facts_de": [
+      "Gnesen war die erste Hauptstadt des polnischen Staates im 10. Jahrhundert.",
+      "In der örtlichen Kathedrale fanden die ersten Königskrönungen Polens statt.",
+      "Die berühmte Gnesener Bronzetür aus dem 12. Jahrhundert zeigt Szenen aus dem Leben des Heiligen Adalbert.",
+      "Die Stadt liegt idyllisch inmitten mehrerer kleiner Seen."
+    ]
+  },
+  {
+    "id": "zamek-ksiaz",
+    "desc_de": "Schloss Fürstenstein, majestätisch auf einem Felsvorsprung in Niederschlesien gelegen, ist das drittgrößte Schloss Polens. Es verbindet auf faszinierende Weise verschiedene architektonische Stile, von Gotik bis Barock, was seine lange und wechselvolle Geschichte widerspiegelt. Die prachtvollen Innenräume und die weitläufigen, terrassenförmig angelegten Gärten ziehen jährlich unzählige Besucher an. Während des Zweiten Weltkriegs wurde das Schloss vom NS-Regime beschlagnahmt und umgebaut, was bis heute geheimnisvolle Legenden, etwa um versteckte Tunnel, nährt. Heute ist es ein bedeutendes Kulturzentrum und ein beliebtes Ausflugsziel.",
+    "facts_de": [
+      "Das Schloss wird oft als 'Perle Schlesiens' bezeichnet.",
+      "Unter dem Schloss befindet sich ein weitläufiges, teils unerforschtes Tunnelsystem aus dem Zweiten Weltkrieg.",
+      "Es war einst der Stammsitz der mächtigen Adelsfamilie von Hochberg.",
+      "Die Anlage umfasst über 400 Räume unterschiedlichster Epochen."
+    ]
+  },
+  {
+    "id": "zamek-lancut",
+    "desc_de": "Das Schloss Łańcut ist eine der beeindruckendsten aristokratischen Residenzen in ganz Polen und ein wahres Juwel der Architektur. Ursprünglich im 17. Jahrhundert als Festung erbaut, wurde es später in einen prunkvollen Palast umgewandelt. Die Innenräume sind für ihre exquisite Ausstattung, darunter prachtvolle Kronleuchter und historische Möbel, weltberühmt. Umgeben ist das Schloss von einem weitläufigen, malerischen Landschaftspark, der zu ausgedehnten Spaziergängen einlädt. Zudem beherbergt es eine der größten Kutschensammlungen Europas, die von der Mobilität vergangener Jahrhunderte erzählt.",
+    "facts_de": [
+      "Die Kutschensammlung in Łańcut gehört zu den bedeutendsten und umfangreichsten in Europa.",
+      "Das Schloss überstand den Zweiten Weltkrieg weitgehend unbeschadet, da der letzte Besitzer rechtzeitig floh.",
+      "Das beeindruckende Theater im Schloss ist eines der wenigen erhaltenen Hoftheater in Polen.",
+      "Die historische Bibliothek umfasst wertvolle alte Drucke und Handschriften."
+    ]
+  },
+  {
+    "id": "karkonosze-np",
+    "desc_de": "Der Nationalpark Riesengebirge schützt die einzigartige und raue Gebirgslandschaft an der Grenze zwischen Polen und Tschechien. Dominiert wird das Gebiet von der Schneekoppe, dem höchsten Gipfel des Gebirges, der einen atemberaubenden Panoramablick bietet. Tiefe Gletscherkessel, beeindruckende Wasserfälle und seltene alpine Pflanzenarten prägen das charakteristische Bild der Region. Der Park ist ein Paradies für Wanderer und Naturliebhaber, die auf gut ausgebauten Pfaden die unberührte Natur erkunden können. Im Winter verwandelt sich die Landschaft in ein beliebtes Ziel für Skifahrer und Schneeschuhwanderer.",
+    "facts_de": [
+      "Die Schneekoppe ist mit 1.603 Metern der höchste Berg des Riesengebirges.",
+      "Der Nationalpark ist von der UNESCO als Biosphärenreservat anerkannt.",
+      "Der sagenhafte Berggeist Rübezahl ist eng mit der Folklore dieser Region verbunden.",
+      "Im Park befinden sich beeindruckende Gletscherkessel aus der letzten Eiszeit."
+    ]
+  },
+  {
+    "id": "slowinski-np",
+    "desc_de": "Der Slowinzische Nationalpark an der Ostseeküste ist weltbekannt für seine beeindruckenden, imposanten Wanderdünen. Diese riesigen Sandmassen bewegen sich stetig durch den Wind und begraben dabei langsam den angrenzenden Kiefernwald unter sich. Neben der faszinierenden Dünenlandschaft umfasst der Park auch große Küstenseen, die als wichtige Lebensräume für zahlreiche Vogelarten dienen. Die raue Schönheit der Ostsee und die stille, wüstenähnliche Landschaft der Dünen bilden einen atemberaubenden Kontrast. Besucher können das Gebiet auf malerischen Wander- und Radwegen ausgiebig erkunden.",
+    "facts_de": [
+      "Die Wanderdünen im Park bewegen sich jährlich um bis zu 10 Meter.",
+      "Der Nationalpark wurde in die Liste der UNESCO-Biosphärenreservate aufgenommen.",
+      "Die größte Düne, die Lącka Góra, erreicht eine Höhe von über 40 Metern.",
+      "In der Region gibt es Überreste alter Wälder, die regelmäßig vom Sand freigelegt werden."
+    ]
+  },
+  {
+    "id": "pieniny-np",
+    "desc_de": "Der Nationalpark Pieninen in Südpolen besticht durch seine dramatischen Kalksteinformationen und tiefen Flusstäler. Das Herzstück des Parks ist der atemberaubende Durchbruch des Flusses Dunajec, der sich in malerischen Schleifen durch die Berge schlängelt. Die schroffen Felsgipfel der Trzy Korony (Drei Kronen) bieten spektakuläre Ausblicke über die gesamte Gebirgslandschaft. Seltene Tier- und Pflanzenarten, darunter der Apollofalter, haben in dieser geschützten Natur eine sichere Heimat gefunden. Traditionelle Holzflößerei auf dem Dunajec ist eine der beliebtesten Attraktionen für Besucher aus aller Welt.",
+    "facts_de": [
+      "Die Trzy Korony (Drei Kronen) sind das bekannteste Felsmassiv im Pieninen-Gebirge.",
+      "Der Dunajec-Durchbruch gilt als eine der schönsten Flussschluchten in Europa.",
+      "Der Park schützt eine einzigartige Reliktflora aus der Zeit vor den letzten Eiszeiten.",
+      "Holzflößerei wird hier seit dem frühen 19. Jahrhundert als Touristenattraktion angeboten."
+    ]
+  },
+  {
+    "id": "dunajec-gorge",
+    "desc_de": "Der Dunajec-Durchbruch ist ein beeindruckendes Naturwunder im Herzen des Pieninen-Gebirges. Der Fluss Dunajec hat sich im Laufe der Jahrtausende tief in das Kalksteingestein gegraben und dabei steile, bis zu 300 Meter hohe Felswände geschaffen. Diese gewundenen Schluchten bieten ein spektakuläres Panorama und gehören zu den schönsten Flusslandschaften Europas. Die traditionelle Fahrt auf einem Holzfloß bietet die beste Möglichkeit, diese dramatische Naturkulisse hautnah zu erleben. Umgeben von unberührter Natur, ist der Ort ein Paradies für Naturliebhaber und Fotografen.",
+    "facts_de": [
+      "Die Schlucht bildet auf weiten Strecken die natürliche Grenze zwischen Polen und der Slowakei.",
+      "Die traditionelle Floßfahrt auf dem Dunajec dauert in der Regel etwa zwei bis drei Stunden.",
+      "Die senkrechten Kalksteinfelsen erheben sich majestätisch direkt aus dem Wasser.",
+      "Die Route der Flößer ist seit über 150 Jahren nahezu unverändert geblieben."
+    ]
+  },
+  {
+    "id": "hel-peninsula",
+    "desc_de": "Die Halbinsel Hel ist eine schmale, sichelförmige Landzunge, die sich tief in die Danziger Bucht hinein erstreckt. Sie ist berühmt für ihre endlosen weißen Sandstrände und die frische, jodhaltige Meeresluft, die Erholungssuchende anzieht. Einst ein strategisch wichtiger Militärstützpunkt, ist die Region heute ein beliebtes Ziel für Kitesurfer, Segler und Badeurlauber. Entlang der Küste finden sich malerische Fischerdörfer, die ihren traditionellen Charme bewahrt haben und köstlichen frischen Fisch anbieten. Zudem beheimatet die Halbinsel ein bekanntes Seehund-Schutzzentrum, das sich um verletzte Meeressäuger kümmert.",
+    "facts_de": [
+      "Die Halbinsel ist an ihrer schmalsten Stelle nur etwa 150 Meter breit.",
+      "Hel war im Zweiten Weltkrieg einer der am längsten verteidigten polnischen Stützpunkte.",
+      "Das Fokarium in Hel widmet sich der Rettung und Erforschung von Ostseekegelrobben.",
+      "Aufgrund der günstigen Winde gilt die Region als eines der besten Kitesurf-Reviere Europas."
+    ]
+  },
+  {
+    "id": "bialka-tatrzanska",
+    "desc_de": "Białka Tatrzańska ist ein charmantes Bergdorf am Fuße der polnischen Tatra und ein äußerst beliebtes Ziel für Winter- und Sommerurlauber. In der kalten Jahreszeit verwandelt sich der Ort in ein pulsierendes Skigebiet mit modernen Liftanlagen und perfekt präparierten Pisten für alle Schwierigkeitsgrade. Nach einem aktiven Tag in der Natur bieten die bekannten Thermalbäder des Ortes wohltuende Entspannung im warmen, mineralreichen Wasser. Im Sommer locken die umliegenden Berge und der Gebirgsfluss Białka zu ausgedehnten Wanderungen und erfrischenden Abenteuern. Die traditionelle Goralenkultur ist hier in der Architektur und der regionalen Küche allgegenwärtig.",
+    "facts_de": [
+      "Das Skigebiet in Białka Tatrzańska ist eines der größten und modernsten in Polen.",
+      "Die Thermalquellen der Terma Bania nutzen natürlich erhitztes Wasser aus der Tiefe.",
+      "Der Fluss Białka ist bekannt für sein eiskaltes, kristallklares Wasser aus dem Hochgebirge.",
+      "Die regionale Küche ist stark von der Kultur der polnischen Bergbewohner, der Goralen, geprägt."
+    ]
+  },
+  {
+    "id": "muzeum-powstania-warszawskiego",
+    "desc_de": "Das Museum des Warschauer Aufstands ist eine zutiefst bewegende und interaktive Gedenkstätte im Herzen von Warschau. Es widmet sich ausführlich dem heroischen, aber tragischen Kampf der polnischen Heimatarmee gegen die deutschen Besatzer im Jahr 1944. Durch den geschickten Einsatz von Multimedia, originalen Artefakten und persönlichen Zeitzeugenberichten wird die Geschichte für Besucher greifbar gemacht. Der Rundgang führt durch eine nachgebildete Kanalisation, die von den Aufständischen als Fluchtweg genutzt wurde. Das Museum dient nicht nur der Erinnerung, sondern auch der Mahnung an die Schrecken des Krieges.",
+    "facts_de": [
+      "Das Museum wurde 2004, genau zum 60. Jahrestag des Aufstands, eröffnet.",
+      "Es befindet sich in einem ehemaligen Elektrizitätswerk für Straßenbahnen.",
+      "Der Warschauer Aufstand dauerte 63 Tage und führte zur fast völligen Zerstörung der Stadt.",
+      "Ein Highlight der Ausstellung ist eine originalgetreue Nachbildung eines B-24 Liberator-Bombers."
+    ]
+  },
+  {
+    "id": "centrum-nauki-kopernik",
+    "desc_de": "Das Kopernikus-Wissenschaftszentrum in Warschau ist eines der größten und modernsten interaktiven Museen in Europa. Hier steht das aktive Erforschen und Begreifen von naturwissenschaftlichen Phänomenen im absoluten Mittelpunkt. Hunderte von Experimentierstationen laden Besucher jeden Alters ein, physikalische, biologische und chemische Gesetzmäßigkeiten selbst auszuprobieren. Das angeschlossene Planetarium beeindruckt mit faszinierenden Vorführungen über den Kosmos und die Sternenbilder. Das Zentrum, benannt nach dem berühmten Astronomen Nikolaus Kopernikus, weckt auf spielerische Weise die Neugier und Begeisterung für die Wissenschaft.",
+    "facts_de": [
+      "Das Zentrum wurde 2010 am Ufer der Weichsel offiziell eröffnet.",
+      "Es beherbergt über 400 interaktive Exponate, die zum Mitmachen anregen.",
+      "Das Planetarium 'Heavens of Copernicus' zählt zu den modernsten der Welt.",
+      "Es werden regelmäßig wissenschaftliche Shows und Workshops für Kinder und Erwachsene veranstaltet."
+    ]
+  },
+  {
+    "id": "warsaw-zoo",
+    "desc_de": "Der Warschauer Zoo ist eine grüne Oase mitten in der pulsierenden Hauptstadt Polens und beheimatet Tausende von Tieren aus aller Welt. Neben seiner Rolle als Ort der Erholung und Bildung spielt der Zoo eine wichtige Rolle im internationalen Artenschutz. Große, naturnah gestaltete Gehege bieten den Tieren viel Platz und den Besuchern spannende Beobachtungsmöglichkeiten. Besonders die Elefantenanlage und das moderne Schimpansenhaus ziehen zahlreiche Familien an. Die bewegte Geschichte des Zoos während des Zweiten Weltkriegs, in der der damalige Direktor jüdische Mitbürger in den leeren Gehegen versteckte, macht ihn auch historisch bedeutsam.",
+    "facts_de": [
+      "Der Warschauer Zoo wurde im Jahr 1928 offiziell gegründet.",
+      "Während des Zweiten Weltkriegs retteten Zoodirektor Jan Żabiński und seine Frau Antonina Hunderte von Juden.",
+      "Der Zoo beherbergt heute über 12.000 Tiere aus rund 500 verschiedenen Arten.",
+      "Die Geschichte der Familie Żabiński wurde im Hollywood-Film 'Die Frau des Zoodirektors' verfilmt."
+    ]
+  },
+  {
+    "id": "rynek-wroclaw",
+    "desc_de": "Der Breslauer Ring ist das historische und gesellschaftliche Zentrum der Stadt Breslau und einer der größten Marktplätze Europas. Umrahmt von farbenfrohen, liebevoll restaurierten Bürgerhäusern, strahlt der Platz eine unvergleichliche Lebendigkeit aus. Im Zentrum thront das prächtige gotische Rathaus, ein Meisterwerk mittelalterlicher Architektur, das heute ein Museum beherbergt. Zahlreiche Restaurants, Kneipen und Cafés laden dazu ein, das geschäftige Treiben bei einem traditionellen polnischen Gericht zu genießen. Wer aufmerksam über den Platz spaziert, wird überall die kleinen, berühmten Breslauer Zwerge entdecken.",
+    "facts_de": [
+      "Der Marktplatz wurde im 13. Jahrhundert nach Magdeburger Recht angelegt.",
+      "Das Breslauer Rathaus gehört zu den bedeutendsten gotischen Bauwerken in Europa.",
+      "Im Ratskeller des Rathauses befindet sich eines der ältesten noch betriebenen Restaurants Europas.",
+      "Mehrere Hundert kleine Bronze-Zwerge, ein Symbol der Stadt, sind in ganz Breslau versteckt."
+    ]
+  },
+  {
+    "id": "ulica-piotrkowska",
+    "desc_de": "Die Piotrkowska-Straße in Łódź ist mit über vier Kilometern eine der längsten Einkaufsstraßen in Europa und die Hauptschlagader der Stadt. Einst war sie das Zentrum der blühenden Textilindustrie, wovon noch heute die prachtvollen Paläste und Fabrikantenvillen zeugen. Die Architektur ist eine faszinierende Mischung aus Eklektizismus und Jugendstil, die der Straße ein einzigartiges Flair verleiht. Abends verwandelt sich die Flaniermeile in ein lebhaftes Ausgehviertel mit unzähligen Bars, Clubs und gemütlichen Restaurants. Denkmäler und Sterne auf dem 'Walk of Fame' erinnern an berühmte Persönlichkeiten der Stadtgeschichte.",
+    "facts_de": [
+      "Die Piotrkowska ist die längste Handelsstraße Polens und eine der längsten Fußgängerzonen Europas.",
+      "Ein Abschnitt der Straße ist als 'Walk of Fame' nach dem Vorbild in Hollywood gestaltet.",
+      "Zahlreiche Bronzestatuen berühmter Bürger von Łódź, wie etwa Arthur Rubinstein, säumen den Weg.",
+      "Die prachtvollen Fassaden der Gebäude spiegeln den enormen Reichtum der einstigen Textilbarone wider."
+    ]
+  },
+  {
+    "id": "stary-rynek-poznan",
+    "desc_de": "Der Alte Markt in Posen ist ein architektonisches Juwel und der zentrale Treffpunkt der lebendigen Universitätsstadt. Das Highlight des Platzes ist das beeindruckende Renaissance-Rathaus, dessen berühmte mechanische Ziegenböcke jeden Mittag pünktlich um 12 Uhr die Hörner kreuzen. Umgeben ist der Markt von farbenfrohen, schmalen Krämerhäusern, die an die lange Handelstradition der Stadt erinnern. In den Sommermonaten füllen sich die zahlreichen Straßencafés und Restaurants mit Einheimischen und Touristen, die die fröhliche Atmosphäre genießen. Regelmäßig finden hier auch kulturelle Veranstaltungen und traditionelle Märkte statt.",
+    "facts_de": [
+      "Das Posener Rathaus gilt als eines der schönsten Renaissancegebäude nördlich der Alpen.",
+      "Die kämpfenden Ziegenböcke am Rathausturm sind das berühmteste Symbol der Stadt Posen.",
+      "Der Marktplatz wurde 1253 im Zuge der Stadtgründung nach Magdeburger Recht angelegt.",
+      "Die charakteristischen bunten Krämerhäuschen stammen ursprünglich aus dem 16. Jahrhundert."
+    ]
+  },
+  {
+    "id": "energylandia",
+    "desc_de": "Energylandia in Zator ist der größte und spektakulärste Freizeitpark in Polen und ein wahres Paradies für Adrenalinjunkies. Mit einer riesigen Auswahl an Achterbahnen, darunter einige der höchsten und schnellsten Europas, bietet der Park Nervenkitzel pur. Neben den extremen Fahrgeschäften gibt es auch zahlreiche familienfreundliche Attraktionen und Themenbereiche, die in verschiedene Welten entführen. Ein angeschlossener Wasserpark sorgt an heißen Sommertagen für die perfekte Abkühlung und noch mehr Spaß. Shows, Paraden und detailreich gestaltete Kulissen runden das unvergessliche Erlebnis für Besucher jeden Alters ab.",
+    "facts_de": [
+      "Energylandia beherbergt die Hyperion, eine der höchsten und schnellsten Achterbahnen in Europa.",
+      "Der Park bietet mit über 120 Attraktionen die größte Auswahl an Fahrgeschäften in Polen.",
+      "Zadra, eine Holz-Stahl-Hybridachterbahn im Park, gehört zu den besten ihrer Art weltweit.",
+      "Der Vergnügungspark erstreckt sich über eine Fläche von mehr als 70 Hektar."
+    ]
+  },
+  {
+    "id": "pl-bydgoszcz",
+    "desc_de": "Bydgoszcz, oft als das 'Venedig Polens' bezeichnet, besticht durch seine idyllische Lage an der Brahe und dem Bromberger Kanal. Die liebevoll restaurierte Mühleninsel im Herzen der Stadt ist ein beliebter Rückzugsort und ein Zentrum für Kunst und Kultur. Malerische Fachwerkspeicher entlang des Wassers zeugen von der historischen Bedeutung als wichtiges Handelszentrum. Eine Fahrt mit dem Wassertaxi bietet die beste Möglichkeit, die charmante Architektur und die Brücken aus einer neuen Perspektive zu entdecken. Die Stadt ist zudem für ihre lebendige Musikszene und die beeindruckende Nova Opera bekannt.",
+    "facts_de": [
+      "Die Mühleninsel in Bydgoszcz ist eine der einzigartigsten städtischen Oasen in ganz Polen.",
+      "Der Bromberger Kanal verbindet das Flusssystem der Weichsel mit dem der Oder.",
+      "Die markanten Fachwerkspeicher aus dem 18. und 19. Jahrhundert sind das Wahrzeichen der Stadt.",
+      "Bydgoszcz hat eine lange Tradition im Bootsbau und als Binnenhafen."
+    ]
+  },
+  {
+    "id": "pl-lublin",
+    "desc_de": "Lublin ist eine der geschichtsträchtigsten und charmantesten Städte im Osten Polens, deren Altstadt als eine der am besten erhaltenen des Landes gilt. Die kopfsteingepflasterten Gassen, alten Tore und Renaissance-Bürgerhäuser versetzen Besucher direkt in eine andere Epoche. Das mächtige Lubliner Schloss mit seiner einzigartigen Dreifaltigkeitskapelle überragt die historische Altstadt und vereint gotische Architektur mit byzantinischen Fresken. Die Stadt ist ein Schmelztiegel der Kulturen, in dem einst Polen, Juden und Ukrainer friedlich zusammenlebten. Heute ist Lublin eine lebendige Studentenstadt mit einer reichen Kunst- und Theaterszene.",
+    "facts_de": [
+      "Das Krakauer Tor ist das bekannteste Wahrzeichen und der Haupteingang zur Altstadt von Lublin.",
+      "Die Dreifaltigkeitskapelle im Schloss beherbergt seltene ruthenisch-byzantinische Wandmalereien.",
+      "Im Jahr 1569 wurde hier die Lubliner Union geschlossen, die Polen und Litauen vereinte.",
+      "Lublin war vor dem Zweiten Weltkrieg ein bedeutendes Zentrum des jüdischen Lebens."
+    ]
+  },
+  {
+    "id": "pl-radom",
+    "desc_de": "Radom ist eine historische Stadt in Zentralpolen, die mit einer charmanten Mischung aus mittelalterlichen Wurzeln und industrieller Vergangenheit aufwartet. Die Stadt spielte mehrfach eine wichtige Rolle in der polnischen Geschichte, unter anderem bei den Arbeiterprotesten im Jahr 1976. Besucher können durch die gemütliche Fußgängerzone der Żeromskiego-Straße spazieren, die von klassizistischen Gebäuden und Cafés gesäumt wird. Ein Highlight ist das Jacek-Malczewski-Museum, das eine beeindruckende Sammlung polnischer Kunst beherbergt. Zudem ist Radom für seine internationalen Flugshows bekannt, die regelmäßig Luftfahrtenthusiasten anziehen.",
+    "facts_de": [
+      "Radom war ein wichtiges königliches Verwaltungszentrum in der polnisch-litauischen Union.",
+      "Der historische Radomer Radom-Aufstand von 1976 war ein Meilenstein im Kampf gegen das kommunistische Regime.",
+      "Das Freilichtmuseum für das Dorf in der Region Radom zeigt traditionelle Holzarchitektur der Gegend.",
+      "Die Radom Air Show ist die größte Flugschau in Polen und eine der bedeutendsten in Osteuropa."
+    ]
+  },
+  {
+    "id": "pl-kielce",
+    "desc_de": "Kielce, malerisch eingebettet in das Heiligkreuzgebirge, ist eine Stadt voller landschaftlicher und architektonischer Reize. Das Wahrzeichen der Stadt ist der prächtige Palast der Krakauer Bischöfe, ein herausragendes Beispiel für die polnische Architektur des 17. Jahrhunderts. Umgeben ist Kielce von gleich mehreren geologischen Naturschutzgebieten, wie dem Kadzielnia-Reservat, wo spektakuläre Kalksteinfelsen und Höhlen mitten in der Stadt zu finden sind. Diese einzigartige Geografie macht die Stadt zu einem Paradies für Naturfreunde und Geologen. Auch als Messe- und Handelsstandort hat sich Kielce in den letzten Jahrzehnten einen Namen gemacht.",
+    "facts_de": [
+      "Der Palast der Krakauer Bischöfe ist eines der am besten erhaltenen Bauwerke aus der Vasa-Epoche in Polen.",
+      "Kielce liegt inmitten der ältesten Gebirgszüge Europas, dem Heiligkreuzgebirge.",
+      "Das Kadzielnia-Naturschutzgebiet im Stadtgebiet beherbergt ein beeindruckendes Amphitheater in einem alten Steinbruch.",
+      "Targi Kielce ist der zweitgrößte Messeveranstalter in Polen nach Posen."
+    ]
+  },
+  {
+    "id": "pl-olsztyn",
+    "desc_de": "Allenstein (Olsztyn) ist die malerische Hauptstadt der Woiwodschaft Ermland-Masuren und ein perfekter Ausgangspunkt für die Erkundung der Masurischen Seenplatte. Die Stadt wird von dichten Wäldern und zahlreichen glitzernden Seen umgeben, was ihr ein besonders naturnahes Flair verleiht. Im Zentrum erhebt sich die imposante Burg des Ermländischen Domkapitels, in der einst der berühmte Astronom Nikolaus Kopernikus lebte und arbeitete. Die gemütliche Altstadt mit dem Hohen Tor lädt mit ihren historischen Gassen zum Schlendern ein. Das moderne Planetarium in Allenstein ehrt das wissenschaftliche Erbe von Kopernikus bis heute.",
+    "facts_de": [
+      "In der Burg von Allenstein konstruierte Kopernikus eine astronomische Tafel zur Beobachtung der Tagundnachtgleiche.",
+      "Die Stadt liegt im Zentrum von gleich 15 Seen, die größtenteils durch Flüsse verbunden sind.",
+      "Das Hohe Tor ist das einzig erhaltene Stadttor der mittelalterlichen Befestigungsanlage.",
+      "Die Region um Allenstein ist bekannt für ihre unberührten Wälder und klare Luft."
+    ]
+  },
+  {
+    "id": "pl-rzeszow",
+    "desc_de": "Rzeszów ist die größte Stadt im Südosten Polens und beeindruckt durch ihre dynamische Entwicklung und ihr gepflegtes historisches Zentrum. Der Marktplatz mit seinem prachtvollen Rathaus ist das Herzstück der Stadt und der perfekte Ort, um das lebhafte Treiben zu beobachten. Unter den Straßen des Zentrums verbirgt sich eine faszinierende unterirdische Touristenroute, die durch alte Händlerkeller und Gänge aus dem Mittelalter führt. Die Residenz der Familie Lubomirski, ein imposantes Schloss, prägt zudem das Stadtbild. Rzeszów gilt heute als aufstrebendes Zentrum für Technologie und Luftfahrtindustrie.",
+    "facts_de": [
+      "Die unterirdische Touristenroute in Rzeszów ist fast 400 Meter lang und führt tief unter den Marktplatz.",
+      "Das Schloss der Familie Lubomirski wurde im Laufe der Geschichte mehrfach zerstört und wieder aufgebaut.",
+      "Rzeszów ist ein wichtiger Knotenpunkt für das polnische 'Aviation Valley' (Tal der Luftfahrt).",
+      "Das markante Denkmal der Revolutionären Tat ist ein umstrittenes, aber berühmtes Wahrzeichen der Stadt."
+    ]
+  },
+  {
+    "id": "pl-kazimierz-dolny",
+    "desc_de": "Kazimierz Dolny ist ein malerisches, historisches Städtchen an der Weichsel, das wegen seiner Romantik und künstlerischen Atmosphäre weithin bekannt ist. Die wunderschön verzierten Renaissance-Bürgerhäuser rund um den Marktplatz verleihen dem Ort einen unvergleichlichen Charme. Zahlreiche Galerien und Künstlerwerkstätten prägen das Stadtbild, da die Stadt seit langem Maler und Schriftsteller anzieht. Die Ruinen einer mittelalterlichen Burg und der markante Wachturm bieten einen atemberaubenden Blick über das Flusstal. Zudem laden die umliegenden, tiefen Lössschluchten zu faszinierenden Naturwanderungen ein.",
+    "facts_de": [
+      "Der Marktplatz wird von wunderschönen, reich verzierten Patrizierhäusern aus dem 17. Jahrhundert dominiert.",
+      "Ein aus Teig gebackener Hahn, der 'Kogut', ist das traditionelle und essbare Symbol der Stadt.",
+      "Die Burgruinen stammen aus der Zeit von König Kasimir dem Großen, nach dem die Stadt benannt ist.",
+      "Die tiefen Lössschluchten in der Umgebung von Kazimierz Dolny sind ein einzigartiges Naturphänomen."
+    ]
+  },
+  {
+    "id": "pl-ogrodzieniec",
+    "desc_de": "Die Burg Ogrodzieniec ist die beeindruckendste und größte Burgruine entlang der sogenannten Adlerhorst-Route im Krakau-Tschenstochauer Jura. Die majestätischen Überreste thronen auf dem höchsten Hügel der Region und sind direkt in die massiven weißen Kalksteinfelsen integriert. Obwohl sie im Laufe der Jahrhunderte durch Kriege und Feuer stark zerstört wurde, lässt die gewaltige Anlage noch immer ihre einstige Pracht erahnen. Die mystische Atmosphäre der Ruinen zieht nicht nur Touristen, sondern auch Filmemacher an. Die Umgebung ist ein beliebtes Ziel für Kletterer, die die steilen Felswände bezwingen möchten.",
+    "facts_de": [
+      "Die Burg diente als eindrucksvolle Kulisse für die erfolgreiche Netflix-Serie 'The Witcher'.",
+      "Sie wurde im 14. Jahrhundert erbaut, um die Grenze des Königreichs Polen zu schützen.",
+      "Der Legende nach wird die Burg in mondhellen Nächten von einem riesigen schwarzen Hund heimgesucht.",
+      "Die Burg gehört zur sogenannten 'Route der Adlerhorste', einer Kette mittelalterlicher Festungen."
+    ]
+  },
+  {
+    "id": "pl-zamosc",
+    "desc_de": "Zamość ist eine außergewöhnliche Renaissance-Stadt im Südosten Polens und wird oft stolz das 'Padua des Nordens' genannt. Sie wurde im 16. Jahrhundert nach italienischem Vorbild als perfekte Idealstadt entworfen und erbaut. Der weitläufige, quadratische Marktplatz wird von prächtigen Bürgerhäusern mit markanten Arkaden und reich verzierten Fassaden gesäumt. Das elegante Rathaus mit seinem hohen Turm und der geschwungenen Freitreppe dominiert das harmonische Stadtbild. Dank ihrer einzigartigen Architektur und dem gut erhaltenen Grundriss gehört die Altstadt zum UNESCO-Weltkulturerbe.",
+    "facts_de": [
+      "Die Stadt wurde von Jan Zamoyski gegründet und vom italienischen Architekten Bernardo Morando entworfen.",
+      "Die Altstadt von Zamość gehört seit 1992 zum UNESCO-Weltkulturerbe.",
+      "Die charakteristischen armenischen Bürgerhäuser am Markt bestechen durch ihre bunten und reich verzierten Attiken.",
+      "Die historische Festungsanlage, die die Stadt umgab, wurde im 19. Jahrhundert größtenteils abgetragen."
+    ]
+  },
+  {
+    "id": "pl-gniezno-cathedral",
+    "desc_de": "Die Kathedrale von Gnesen ist eines der bedeutendsten sakralen und historischen Bauwerke Polens und ein Ort von tiefer nationaler Bedeutung. Als gotisches Meisterwerk thront sie majestätisch über der Stadt, die einst die erste Hauptstadt Polens war. Hier ruhen in einem prächtigen Silbersarkophag die Reliquien des Heiligen Adalbert, des Schutzpatrons Polens. Zudem war die Kathedrale der Schauplatz der Krönungen der ersten polnischen Könige. Ein besonderer Schatz ist die Gnesener Bronzetür aus dem 12. Jahrhundert, die Szenen aus dem Leben und dem Martyrium des Heiligen Adalbert meisterhaft darstellt.",
+    "facts_de": [
+      "In der Kathedrale wurden fünf der frühen polnischen Könige gekrönt.",
+      "Die Gnesener Tür gilt als eines der wichtigsten Denkmäler der romanischen Kunst in Europa.",
+      "Der silberne Reliquienschrein des Heiligen Adalbert wurde im 17. Jahrhundert angefertigt.",
+      "Das Gebäude wurde mehrfach durch Brände zerstört und wieder aufgebaut, zuletzt im gotischen Stil."
+    ]
+  },
+  {
+    "id": "pl-krzyztopor",
+    "desc_de": "Das Schloss Krzyżtopór in Ujazd ist eine gigantische und faszinierende Schlossruine, die einst die größte Palastanlage Europas vor dem Bau von Versailles war. Der exzentrische Bauherr Krzysztof Ossoliński ließ den Palast im 17. Jahrhundert nach einem strengen kalendarischen Muster errichten: Er besaß so viele Fenster wie Tage, Räume wie Wochen und Türme wie Jahreszeiten im Jahr. Obwohl der Prunkbau nur kurze Zeit nach seiner Fertigstellung während der Schwedischen Sintflut zerstört wurde, lassen die gewaltigen Mauern seine einstige Pracht erahnen. Mystische Legenden und die immense Größe machen die Ruine zu einem unvergesslichen Ausflugsziel.",
+    "facts_de": [
+      "Der Palast wurde basierend auf einem Kalendersystem mit 365 Fenstern, 52 Räumen, 12 großen Sälen und 4 Türmen entworfen.",
+      "Angeblich befand sich im Speisesaal ein riesiges Aquarium an der Decke.",
+      "Das Schloss wurde nie vollständig wiederaufgebaut, nachdem es im 17. Jahrhundert zerstört wurde.",
+      "Der Name 'Krzyżtopór' ist eine Kombination aus den Wörtern Kreuz (Krzyż) und Axt (Topór), den Wappen des Gründers."
+    ]
+  },
+  {
+    "id": "pl-bialowieza-np",
+    "desc_de": "Der Białowieża-Nationalpark schützt den letzten verbliebenen großen Rest des riesigen Urwaldes, der einst weite Teile Europas bedeckte. Dieser faszinierende, unberührte Wald an der Grenze zu Belarus bietet ein Zuhause für eine enorme Vielfalt an Flora und Fauna. Die absolute Hauptattraktion des Parks ist der majestätische Wisent, das schwerste Landsäugetier Europas, das hier in freier Wildbahn lebt. Jahrhundertalte Eichen und dichte, mystische Waldgebiete vermitteln den Besuchern das Gefühl, in eine andere, längst vergangene Zeit einzutauchen. Der Park ist zu Recht als UNESCO-Weltnaturerbe anerkannt.",
+    "facts_de": [
+      "Der Białowieża-Urwald ist der älteste Nationalpark Polens und ein UNESCO-Weltnaturerbe.",
+      "Hier lebt die weltweit größte freilebende Population an Europäischen Wisenten.",
+      "Viele Teile des Reservats dürfen nur in Begleitung von lizenzierten Naturführern betreten werden.",
+      "Einige Eichen im Park, wie die berühmte Jagiełło-Eiche, werden auf über 400 Jahre geschätzt."
+    ]
+  },
+  {
+    "id": "pl-tatra-np",
+    "desc_de": "Der Tatra-Nationalpark im Süden Polens umfasst den höchsten und spektakulärsten Teil der Karpaten. Alpine Landschaften mit schroffen Granitgipfeln, tiefen Gletschertälern und glasklaren Bergseen prägen dieses beeindruckende Naturreservat. Hier befindet sich der Rysy, der mit fast 2.500 Metern höchste Berg Polens, der Bergsteigern anspruchsvolle Touren bietet. Die vielfältige alpine Flora und Fauna, darunter Braunbären, Gämsen und Murmeltiere, ist streng geschützt. Im Winter zieht das Gebiet rund um Zakopane Skifahrer an, während es im Sommer ein Paradies für Wanderer aus der ganzen Welt.",
+    "facts_de": [
+      "Der Nationalpark schützt die einzige Hochgebirgslandschaft in Polen.",
+      "Der höchste Berg innerhalb des Parks und ganz Polens ist der Rysy mit 2.499 Metern.",
+      "Das Gebiet ist auch Heimat seltener Raubtiere wie Wölfen und Luchsen.",
+      "Eines der beliebtesten Ausflugsziele ist der malerische Bergsee Morskie Oko (Meerauge)."
+    ]
+  },
+  {
+    "id": "pl-bieszczady-np",
+    "desc_de": "Der Bieszczady-Nationalpark im äußersten Südosten Polens ist berühmt für seine raue, wilde Natur und die dünne Besiedlung. Charakteristisch für diese Region sind die 'Połoniny', weite und windgepeitschte Hochweiden, die einen atemberaubenden, ungestörten Panoramablick über die weiche, hügelige Landschaft bieten. Abseits der großen Touristenströme bietet der Park endlose Wanderwege durch alte Buchenwälder, in denen eine außergewöhnlich reiche Tierwelt heimisch ist. Wölfe, Bären und europäische Bisons streifen durch dieses abgeschiedene Grenzgebiet zu Ukraine und Slowakei. Es ist der perfekte Ort für alle, die Einsamkeit und unberührte Natur suchen.",
+    "facts_de": [
+      "Der Bieszczady-Nationalpark ist der drittgrößte Nationalpark in Polen.",
+      "Die Region ist bekannt für ihren besonders dunklen Nachthimmel, der ideal für Sternenbeobachtungen ist.",
+      "Das Gebiet war einst dicht besiedelt, wurde aber nach dem Zweiten Weltkrieg in der 'Aktion Weichsel' fast völlig entvölkert.",
+      "Ein Teil der Buchenwälder im Park gehört zum UNESCO-Weltnaturerbe."
+    ]
+  },
+  {
+    "id": "pl-masurian-lakes",
+    "desc_de": "Die Masurischen Seen bilden eine ausgedehnte, atemberaubende Wasserlandschaft im Nordosten Polens, die aus tausenden miteinander verbundenen Seen besteht. Sie wird oft als das 'Land der Tausend Seen' bezeichnet und ist ein Paradies für Segler, Kanufahrer und Naturliebhaber. Umgeben von dichten Wäldern und malerischen kleinen Dörfern, bietet die Region ideale Bedingungen für einen erholsamen Urlaub fernab des Stresses. Der Śniardwy, der größte See Polens, bildet das Herzstück dieser einzigartigen eiszeitlichen Landschaft. Ob auf dem Wasser, mit dem Fahrrad oder zu Fuß – Masuren verzaubert jeden Besucher durch seine idyllische Ruhe.",
+    "facts_de": [
+      "Die Masurische Seenplatte umfasst tatsächlich mehr als 2.000 einzelne Seen.",
+      "Die Seen sind durch ein komplexes Netz aus natürlichen Flüssen und künstlichen Kanälen verbunden.",
+      "Der Śniardwy (Spirdingsee) ist mit einer Fläche von über 113 Quadratkilometern der größte See Polens.",
+      "Die unberührten Schilflandschaften sind ein wichtiges Brutgebiet für seltene Vogelarten wie Kormorane und Seeadler."
+    ]
+  },
+  {
+    "id": "pl-morskie-oko",
+    "desc_de": "Das Morskie Oko, zu Deutsch das 'Meerauge', ist der größte und wohl faszinierendste Gletschersee in der polnischen Tatra. Eingebettet in ein tiefes Tal und umgeben von schroffen, oft schneebedeckten Granitgipfeln, bietet er ein Postkartenmotiv par excellence. Das smaragdgrüne, kristallklare Wasser spiegelt die majestätischen Bergmassive der Umgebung wider und zieht unzählige Wanderer in seinen Bann. Eine malerische, gut ausgebaute Route führt durch dichte Wälder direkt an die Ufer des Sees, wo sich eine historische Berghütte befindet. Der Legende nach ist der See unterirdisch mit dem Adriatischen Meer verbunden.",
+    "facts_de": [
+      "Morskie Oko wurde vom Wall Street Journal einst zu einem der fünf schönsten Seen der Welt gekürt.",
+      "Der See liegt auf einer Höhe von 1.395 Metern über dem Meeresspiegel.",
+      "Er ist einer der wenigen Seen in der Tatra, in denen von Natur aus Fische, vor allem Forellen, leben.",
+      "Direkt neben dem Morskie Oko liegt der etwas höher gelegene, ebenfalls wunderschöne See Czarny Staw."
+    ]
+  },
+  {
+    "id": "pl-ojcow-np",
+    "desc_de": "Der Ojców-Nationalpark ist der kleinste, aber einer der reizvollsten Nationalparks in ganz Polen, gelegen unweit von Krakau. Das tief eingeschnittene Prądnik-Tal prägt diese verwunschene Landschaft, die durch bizarre Kalksteinfelsen, dunkle Höhlen und bewaldete Hänge besticht. Markante Felsformationen wie die bekannte 'Keule des Herkules' ragen wie natürliche Skulpturen in den Himmel. Zwischen den Naturwundern verstecken sich historische Schätze wie die Ruinen der Burg Ojców und das bestens erhaltene Schloss Pieskowa Skała. Die reiche Artenvielfalt und die zahlreichen Fledermausarten machen den Park auch biologisch hochinteressant.",
+    "facts_de": [
+      "Trotz seiner geringen Größe von nur rund 21 Quadratkilometern beherbergt der Park über 400 Höhlen.",
+      "Die Fledermaus ist das offizielle Wappentier des Ojców-Nationalparks.",
+      "Die imposante Felsformation 'Maczuga Herkulesa' (Keule des Herkules) ist über 25 Meter hoch.",
+      "Das wunderschöne Renaissance-Schloss Pieskowa Skała ist ein Highlight entlang der Adlerhorst-Route."
+    ]
+  },
+  {
+    "id": "pl-kampinos-np",
+    "desc_de": "Der Kampinos-Nationalpark bietet einen außergewöhnlichen Kontrast, da er sich als weite Naturlandschaft direkt an die nordwestlichen Vororte der Metropole Warschau anschließt. Er zeichnet sich durch seinen einzigartigen Wechsel aus trockenen, welligen Binnendünen und feuchten, oft schwer zugänglichen Sumpfwäldern aus. Die ausgedehnten Kiefernwälder und Wiesen bieten einen sicheren Rückzugsort für Elche, die als Wappentier des Parks gelten, sowie Biber und Luchse. Hunderte Kilometer an Wander- und Radwegen machen den Park zu einem äußerst beliebten Erholungsgebiet für Großstädter. Neben der Natur beherbergt das Gebiet auch Gedenkstätten für die Kämpfer des polnischen Widerstands im Zweiten Weltkrieg.",
+    "facts_de": [
+      "Der Nationalpark wurde von der UNESCO als Biosphärenreservat anerkannt.",
+      "Warschau ist die einzige europäische Hauptstadt, die direkt an einen Nationalpark angrenzt.",
+      "Der Elchbestand im Park erholte sich prächtig, nachdem die Tiere dort erfolgreich wiederangesiedelt wurden.",
+      "Im Kampinos-Wald befinden sich zahlreiche Gräber und Mahnmale für die Opfer des Zweiten Weltkriegs."
+    ]
+  },
+  {
+    "id": "pl-wolin-np",
+    "desc_de": "Der Wollin-Nationalpark liegt auf der größten polnischen Insel an der Ostseeküste und fasziniert durch seine vielfältigen Landschaften. Seine steilen, majestätischen Kliffe ragen dramatisch über das unruhige Meer und bieten atemberaubende Ausblicke. Das Landesinnere wird von dichten Buchenwäldern, unzähligen kleinen Binnenseen und malerischen Moorgebieten geprägt. Neben den Seeadlern, die über der Küste kreisen, zieht das Schaugehege für Wisente, in dem die europäischen Bisons geschützt leben, viele Besucher an. Der Park vereint die wilde Schönheit der Ostsee mit der idyllischen Natur des Hinterlandes.",
+    "facts_de": [
+      "Das höchste Kliff auf der Insel Wollin, der Berg Gosań, erhebt sich fast 95 Meter über die Ostsee.",
+      "Der Nationalpark wurde 1960 gegründet, um die einzigartige Küstenlandschaft zu schützen.",
+      "Der Seeadler ist das stolze Symbol und Wappentier des Nationalparks.",
+      "Das Wisent-Schaugehege dient dem Erhalt dieser seltenen und faszinierenden Tiere."
+    ]
+  },
+  {
+    "id": "pl-lublin-old-town",
+    "desc_de": "Die Altstadt von Lublin gehört zu den stimmungsvollsten und historisch besterhaltenen mittelalterlichen Stadtzentren in ganz Polen. Ein Spaziergang durch die verwinkelten, kopfsteingepflasterten Gassen fühlt sich an wie eine Reise in eine längst vergangene Zeit. Die alten, oft farbenfrohen und reich mit Renaissance-Details verzierten Bürgerhäuser vermitteln einen unvergleichlichen historischen Charme. Zwei beeindruckende Tore, das Krakauer und das Grodzka-Tor, begrenzen den historischen Stadtkern und gewähren Zugang zu diesem architektonischen Schatz. Unterhalb der Gassen verbirgt sich eine unterirdische Touristenroute, die tiefe Einblicke in die Geheimnisse und die Handelsgeschichte der Stadt bietet.",
+    "facts_de": [
+      "Die Lubliner Altstadt blieb während des Zweiten Weltkriegs fast vollständig von der Zerstörung verschont.",
+      "Rund 70 % der Gebäude in der Altstadt sind originale, historische Bauwerke.",
+      "Das Grodzka-Tor trennte früher die christliche von der jüdischen Stadt, was Lublins reiches Erbe unterstreicht.",
+      "Die Lubliner Untergrundroute verläuft durch alte Weinkeller und Kaufgewölbe."
+    ]
+  },
+  {
+    "id": "pl-zamosc-rynek",
+    "desc_de": "Der Marktplatz von Zamość ist das strahlende Herz der sogenannten Idealstadt und besticht durch seine perfekte Symmetrie. Die quadratische Anlage wird an allen Seiten von prächtigen Arkadengängen gesäumt, die zum Flanieren einladen. Herausragend ist das kunstvoll gestaltete Rathaus mit seiner elegant geschwungenen Freitreppe und dem über 50 Meter hohen Uhrenturm. Die bunt verzierten armenischen Bürgerhäuser zeugen von dem Reichtum und der kulturellen Vielfalt der einstigen Bewohner. Dieser Renaissance-Platz gilt als einer der schönsten städtebaulichen Komplexe in ganz Europa.",
+    "facts_de": [
+      "Der Marktplatz hat exakt quadratische Maße von 100 mal 100 Metern.",
+      "Die armenischen Häuser auf der rechten Seite des Rathauses sind die am reichsten verzierten des Platzes.",
+      "Zamość entging den Verwüstungen vieler Kriege, weshalb der Markt seine originale Renaissance-Form behielt.",
+      "Im Sommer wird der Marktplatz oft für historische Inszenierungen und Theateraufführungen genutzt."
+    ]
+  },
+  {
+    "id": "pl-pelplin-cathedral",
+    "desc_de": "Der Dom zu Pelplin, einst eine bedeutende Zisterzienserabtei, ist ein Meisterwerk der nordeuropäischen Backsteingotik. Die gigantische Basilika beeindruckt durch ihre gewaltigen Ausmaße, die atemberaubenden Sterngewölbe und die wunderschön gestalteten Fenster. Der reich verzierte, prunkvolle Hauptaltar aus der Renaissancezeit ist der größte Holzaltar in Polen und zieht jeden Besucher in seinen Bann. Das angrenzende Diözesanmuseum beherbergt unzählige Schätze kirchlicher Kunst, darunter wertvolle alte Handschriften. Ein absolutes Highlight der Sammlung ist das extrem seltene und wertvolle Original einer Gutenberg-Bibel.",
+    "facts_de": [
+      "Der Hauptaltar der Kathedrale ist unglaubliche 25 Meter hoch.",
+      "Die in Pelplin aufbewahrte Gutenberg-Bibel ist eines von nur noch knapp 50 erhaltenen Exemplaren weltweit.",
+      "Die Abtei wurde im 13. Jahrhundert von Zisterziensermönchen gegründet.",
+      "Das beeindruckende Sterngewölbe des Doms wurde erst im 16. Jahrhundert vollendet."
+    ]
+  },
+  {
+    "id": "pl-pszczyna-palace",
+    "desc_de": "Der Palast von Pszczyna, im tiefen Süden Polens gelegen, ist eine der wenigen Residenzen, die den Zweiten Weltkrieg fast unbeschadet überstanden haben. Er wird oft als das 'polnische Versailles' bezeichnet und beeindruckt durch sein prachtvolles neobarockes Erscheinungsbild. Die Innenräume strahlen mit original erhaltenem Mobiliar und kunstvollen Details den unverfälschten Luxus des 19. und frühen 20. Jahrhunderts aus. Umgeben ist der Palast von einem weitläufigen englischen Landschaftspark, der zu romantischen Spaziergängen einlädt. Der Palast war einst der Sitz der mächtigen Fürsten von Pleß und spielte auch während des Ersten Weltkriegs eine bedeutende politische Rolle.",
+    "facts_de": [
+      "Kaiser Wilhelm II. verlegte im Ersten Weltkrieg sein militärisches Hauptquartier in das Schloss Pszczyna.",
+      "Etwa 80 % der ursprünglichen Innenausstattung des Schlosses sind bis heute erhalten geblieben.",
+      "Im riesigen Schlosspark befindet sich heute auch ein Gehege für europäische Wisente.",
+      "Das berühmteste Familienmitglied der Fürsten von Pleß war die Gesellschaftsdame Daisy von Pless."
+    ]
+  },
+  {
+    "id": "pl-bieszczady",
+    "desc_de": "Die Bieszczady sind das wildeste und am dünnsten besiedelte Gebirge in Polen, gelegen im äußersten Südosten an der Grenze zur Ukraine. Charakteristisch für die Landschaft sind die weiten, baumlosen Bergkämme, die 'Połoniny', die spektakuläre Ausblicke in alle Richtungen gewähren. Jahrhundertalte Buchenwälder kleiden die steilen Täler und bieten einen Lebensraum für Raubtiere wie Bären, Wölfe und Luchse. Historische, hölzerne orthodoxe Kirchen, sogenannte Zerkwas, verstecken sich in den verlassenen Tälern und zeugen von der tragischen Geschichte der Region. Wer Einsamkeit, unberührte Natur und abenteuerliche Wanderwege sucht, wird diesen Ort lieben.",
+    "facts_de": [
+      "Die Bieszczady gehören zum länderübergreifenden UNESCO-Biosphärenreservat Ostkarpaten.",
+      "Die Bergwiesen der Połoniny nehmen im Herbst besonders malerische goldene und rote Farbtöne an.",
+      "Die Region war früher Heimat der Bojken, einer ostslawischen ethnischen Gruppe, die umgesiedelt wurde.",
+      "Die Schmalspurbahn der Bieszczady, einst für die Holzwirtschaft gebaut, ist heute eine Touristenattraktion."
+    ]
+  },
+  {
+    "id": "pl-gdansk-beach",
+    "desc_de": "Der Strand von Danzig bietet eine perfekte Kombination aus erholsamem Badeurlaub und städtischem Flair. Die breiten, feinsandigen Strände erstrecken sich kilometerweit entlang der Ostseeküste und ziehen im Sommer Tausende von Sonnenanbetern an. Besonders beliebt sind die Strandabschnitte in Stogi und Brzeźno, die mit exzellenter Infrastruktur und Rettungsschwimmern für einen unbeschwerten Aufenthalt sorgen. Ein Spaziergang über die historische Seebrücke im nahegelegenen Seebad Sopot ergänzt das maritime Erlebnis perfekt. Die frische, jodhaltige Meeresluft und das Rauschen der Wellen laden zum Entspannen ein.",
+    "facts_de": [
+      "Entlang der Strände von Danzig kann man oft Bernsteine finden, das 'Gold der Ostsee'.",
+      "Ein ausgedehntes Netz an Radwegen führt oft direkt hinter den Dünen entlang der Küste.",
+      "Das kühle, erfrischende Wasser der Danziger Bucht bietet im Hochsommer eine willkommene Abkühlung.",
+      "In der Umgebung gibt es zahlreiche Kureinrichtungen, die gesundheitsfördernde Meeresluft nutzen."
+    ]
+  },
+  {
+    "id": "pl-masuria-lakes-area",
+    "desc_de": "Die Masurische Seenplatte ist ein gewaltiges Naturparadies, das tausende Seen, malerische Flüsse und dichte Wälder miteinander verbindet. Es ist ein Paradies für Wassersportler, Segler und Liebhaber intakter, unberührter Natur. Die historischen Ruinen der Wolfsschanze, einst das Führerhauptquartier im Zweiten Weltkrieg, verleihen der Region neben ihrer landschaftlichen Schönheit auch historische Tiefe. Die kleinen, verschlafenen Hafenstädte wie Mikołajki oder Giżycko erwachen im Sommer zum Leben und versprühen maritimes Flair. Die weit verzweigten Wasserstraßen laden zu endlosen Bootstouren in einer der ruhigsten Ecken Europas ein.",
+    "facts_de": [
+      "Die Masurische Seenplatte stand auf der Shortlist für die 'Sieben Neuen Naturwunder' der Welt.",
+      "Giżycko gilt aufgrund seiner perfekten Lage zwischen den Seen als die Segelhauptstadt Polens.",
+      "Die Region bietet exzellente Bedingungen für Kajaktouren, besonders auf dem malerischen Fluss Krutynia.",
+      "In der Masurischen Seenplatte befinden sich viele naturbelassene Brutgebiete für Weißstörche."
+    ]
+  },
+  {
+    "id": "pl-slowinski-dunes",
+    "desc_de": "Die Słowiński-Dünen, auch als 'polnische Sahara' bekannt, bieten ein wahrhaft einzigartiges und faszinierendes Naturschauspiel. Durch den unaufhörlichen Ostseewind verschieben sich riesige Sandmassen kontinuierlich landeinwärts und begraben alte Wälder, was eine fast wüstenähnliche Landschaft hinterlässt. Wenn man den Gipfel einer dieser riesigen Dünen erklimmt, eröffnet sich ein unvergleichlicher Kontrast aus hellem Sand, dem dunkelblauen Meer und dem grünen Küstenwald. Es ist eine der seltensten Küstenformen in Europa und steht unter strengem Naturschutz. Besucher können das Gebiet auf malerischen Wegen durch die Kiefernwälder zu Fuß oder mit dem Fahrrad erkunden.",
+    "facts_de": [
+      "Die Wanderdünen bewegen sich mit einer Geschwindigkeit von bis zu 10 Metern pro Jahr nach Osten.",
+      "Aufgrund des feinen, hellen Sandes quietscht der Boden manchmal unter den Füßen der Wanderer.",
+      "Das Gebiet ist ein wichtiges Refugium für seltene Küstenvögel und Pflanzen.",
+      "In der Nähe liegt das Freilichtmuseum in Kluki, das das traditionelle Leben der Slowinzen zeigt."
+    ]
+  },
+  {
+    "id": "pl-warsaw-science-center",
+    "desc_de": "Das Kopernikus-Wissenschaftszentrum an den Ufern der Weichsel in Warschau hat das traditionelle Museumsverständnis revolutioniert. Es lädt seine Besucher ein, Naturgesetze und komplexe wissenschaftliche Prinzipien durch Anfassen, Ausprobieren und Staunen selbst zu entdecken. Die interaktiven Ausstellungen sind so konzipiert, dass sowohl Kinder als auch Erwachsene ihre Neugier stillen und experimentieren können. Das Highlight des Zentrums ist das hochmoderne Planetarium, das die Besucher auf atemberaubende Reisen durch das Universum mitnimmt. Das futuristische Gebäude fügt sich zudem harmonisch in die revitalisierte Flusspromenade der Hauptstadt ein.",
+    "facts_de": [
+      "Das Wissenschaftszentrum gehört zu den meistbesuchten Attraktionen in ganz Polen.",
+      "In den Roboter-Theatern des Zentrums führen mechanische Akteure echte Theaterstücke auf.",
+      "Ein großer Dachgarten auf dem Gebäude bietet einen fantastischen Blick auf die Weichsel und das Nationalstadion.",
+      "Das Zentrum fördert die Wissenschaftskommunikation aktiv und richtet große wissenschaftliche Picknicks aus."
+    ]
+  }
+]

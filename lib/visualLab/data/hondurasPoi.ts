@@ -1,5 +1,12 @@
 // AUTO-GENERATED
 import type { POI } from "./poi";
+import { poiExtraHondurasCitiesV2 } from "./poiExtraHondurasCitiesV2";
+import { poiExtraHondurasEconomicV2 } from "./poiExtraHondurasEconomicV2";
+import { poiExtraHondurasHistoryV2 } from "./poiExtraHondurasHistoryV2";
+import { poiExtraHondurasLandmarksV2 } from "./poiExtraHondurasLandmarksV2";
+import { poiExtraHondurasLifeV2 } from "./poiExtraHondurasLifeV2";
+import { poiExtraHondurasNatureV2 } from "./poiExtraHondurasNatureV2";
+import { poiExtraHondurasReliefV2 } from "./poiExtraHondurasReliefV2";
 
 export const hondurasCountry: POI[] = [];
 export const hondurasRegions: POI[] = [];
@@ -806,4 +813,4 @@ export const hondurasLandmarks: POI[] = [
   }
 ];
 
-export const hondurasAllPoi: POI[] = [...hondurasCountry, ...hondurasRegions, ...hondurasCities, ...hondurasLandmarks];
+export const hondurasAllPoi: POI[] = [...hondurasCountry, ...hondurasRegions, ...hondurasCities, ...hondurasLandmarks, ...poiExtraHondurasCitiesV2, ...poiExtraHondurasEconomicV2, ...poiExtraHondurasHistoryV2, ...poiExtraHondurasLandmarksV2, ...poiExtraHondurasLifeV2, ...poiExtraHondurasNatureV2, ...poiExtraHondurasReliefV2];

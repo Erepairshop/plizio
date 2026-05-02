@@ -13,8 +13,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Leticia közelében folyik át Kolumbián.", "A rózsaszín folyamidelfinek fontos élőhelye."],
       ro: ["Trece prin Columbia în apropiere de Leticia.", "Habitat important pentru delfinii de râu roz."],
       en: ["Flows through Colombia near Leticia.", "Important habitat for pink river dolphins."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 1.", "O atracție culturală remarcabilă în zona Nature 1."], en: [] }
   },
+
   {
     id: "orinoco-river-colombia-nature-v2",
     type: "river",
@@ -27,8 +31,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Hossza: kb. 2140 km.", "A piráják fontos ökoszisztémája."],
       ro: ["Lungime: aproximativ 2.140 km.", "Ecosistem important pentru piranha."],
       en: ["Length: about 2,140 km.", "Important ecosystem for piranhas."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 2.", "O atracție culturală remarcabilă în zona Nature 2."], en: [] }
   },
+
   {
     id: "magdalena-river-nature-v2",
     type: "river",
@@ -41,8 +49,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Hossza: 1528 km.", "A Karib-tengerbe torkollik."],
       ro: ["Lungime: 1.528 km.", "Se varsă în Marea Caraibelor."],
       en: ["Length: 1,528 km.", "Flows into the Caribbean Sea."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 3.", "O atracție culturală remarcabilă în zona Nature 3."], en: [] }
   },
+
   {
     id: "cauca-river-nature-v2",
     type: "river",
@@ -55,8 +67,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A Magdalena folyóba torkollik.", "Hossza: 1350 km."],
       ro: ["Se varsă în râul Magdalena.", "Lungime: 1.350 km."],
       en: ["Flows into the Magdalena River.", "Length: 1,350 km."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 4.", "O atracție culturală remarcabilă în zona Nature 4."], en: [] }
   },
+
   {
     id: "atrato-river-nature-v2",
     type: "river",
@@ -69,8 +85,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Az Urabá-öbölbe torkollik.", "A Föld egyik legcsapadékosabb területe."],
       ro: ["Se varsă în Golful Urabá.", "Una dintre cele mai umede zone de pe Pământ."],
       en: ["Flows into the Gulf of Urabá.", "One of the wettest areas on Earth."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 5.", "O atracție culturală remarcabilă în zona Nature 5."], en: [] }
   },
+
   {
     id: "guaviare-river-nature-v2",
     type: "river",
@@ -83,8 +103,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Hossza: 1497 km.", "Az Ariari és a Guayabero összefolyásával jön létre."],
       ro: ["Lungime: 1.497 km.", "Format prin confluența râurilor Ariari și Guayabero."],
       en: ["Length: 1,497 km.", "Formed by the confluence of the Ariari and Guayabero rivers."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 6.", "O atracție culturală remarcabilă în zona Nature 6."], en: [] }
   },
+
   {
     id: "meta-river-nature-v2",
     type: "river",
@@ -97,8 +121,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Fontos szállítási útvonal Kelet-Kolumbiában.", "Szakaszosan a venezuelai határt alkotja."],
       ro: ["Rută importantă de transport în estul Columbiei.", "Formează parțial granița cu Venezuela."],
       en: ["Important transport route in eastern Colombia.", "Forms part of the border with Venezuela."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 7.", "O atracție culturală remarcabilă în zona Nature 7."], en: [] }
   },
+
   {
     id: "putumayo-river-nature-v2",
     type: "river",
@@ -111,8 +139,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Elválasztja Kolumbiát Perutól és Ecuadortól.", "Az Amazonasba torkollik."],
       ro: ["Separă Columbia de Peru și Ecuador.", "Se varsă în fluviul Amazon."],
       en: ["Separates Colombia from Peru and Ecuador.", "Flows into the Amazon River."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 8.", "O atracție culturală remarcabilă în zona Nature 8."], en: [] }
   },
+
   {
     id: "caqueta-river-nature-v2",
     type: "river",
@@ -125,8 +157,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A kolumbiai Andokban ered.", "Sűrű trópusi esőerdőket szel át."],
       ro: ["Izvorăște din Anzii columbieni.", "Traversează păduri tropicale dense."],
       en: ["Rises in the Colombian Andes.", "Crosses dense tropical rainforests."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 9.", "O atracție culturală remarcabilă în zona Nature 9."], en: [] }
   },
+
   {
     id: "pico-cristobal-colon-nature-v2",
     type: "mountain",
@@ -139,8 +175,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: kb. 5700 méter.", "Kolumbusz Kristófról kapta a nevét."],
       ro: ["Înălțime: aproximativ 5.700 metri.", "Numit după Cristofor Columb."],
       en: ["Elevation: approx. 5,700 meters.", "Named after Christopher Columbus."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 10.", "O atracție culturală remarcabilă în zona Nature 10."], en: [] }
   },
+
   {
     id: "pico-simon-bolivar-nature-v2",
     type: "mountain",
@@ -153,8 +193,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága szinte azonos a Pico Cristóbal Colónnal.", "Simón Bolívar szabadságharcosról nevezték el."],
       ro: ["Înălțime: aproape identică cu Pico Cristóbal Colón.", "Numit după eliberatorul Simón Bolívar."],
       en: ["Elevation: almost identical to Pico Cristóbal Colón.", "Named after the liberator Simón Bolívar."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 11.", "O atracție culturală remarcabilă în zona Nature 11."], en: [] }
   },
+
   {
     id: "nevado-del-ruiz-nature-v2",
     type: "mountain",
@@ -167,8 +211,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 5321 méter.", "Az 1985-ös kitöréséről hírhedt (Armero-tragédia)."],
       ro: ["Înălțime: 5.321 metri.", "Cunoscut pentru erupția din 1985 (Tragedia din Armero)."],
       en: ["Elevation: 5,321 meters.", "Known for the 1985 eruption (Armero tragedy)."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 12.", "O atracție culturală remarcabilă în zona Nature 12."], en: [] }
   },
+
   {
     id: "nevado-del-huila-nature-v2",
     type: "mountain",
@@ -181,8 +229,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 5364 méter.", "Gleccserei a klímaváltozás miatt olvadnak."],
       ro: ["Înălțime: 5.364 metri.", "Ghețarii săi se topesc din cauza schimbărilor climatice."],
       en: ["Elevation: 5,364 meters.", "Its glaciers are retreating due to climate change."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 13.", "O atracție culturală remarcabilă în zona Nature 13."], en: [] }
   },
+
   {
     id: "nevado-del-tolima-nature-v2",
     type: "mountain",
@@ -195,8 +247,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 5233 méter.", "Krátere majdnem tökéletes, meredek kúp alakú."],
       ro: ["Înălțime: 5.233 metri.", "Are un crater în formă de con aproape perfect."],
       en: ["Elevation: 5,233 meters.", "Has a nearly perfect steep cone shape."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 14.", "O atracție culturală remarcabilă în zona Nature 14."], en: [] }
   },
+
   {
     id: "ritacuba-blanco-nature-v2",
     type: "mountain",
@@ -209,8 +265,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 5410 méter.", "A gleccserek visszahúzódása erősen érinti."],
       ro: ["Înălțime: 5.410 metri.", "Grav afectat de topirea ghețarilor."],
       en: ["Elevation: 5,410 meters.", "Severely affected by glacier retreat."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 15.", "O atracție culturală remarcabilă în zona Nature 15."], en: [] }
   },
+
   {
     id: "purace-volcano-nature-v2",
     type: "mountain",
@@ -223,8 +283,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 4646 méter.", "A Puracé Nemzeti Park központja."],
       ro: ["Înălțime: 4.646 metri.", "Centrul Parcului Național Puracé."],
       en: ["Elevation: 4,646 meters.", "Center of the Puracé National Park."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 16.", "O atracție culturală remarcabilă în zona Nature 16."], en: [] }
   },
+
   {
     id: "galeras-volcano-nature-v2",
     type: "mountain",
@@ -237,8 +301,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Magassága: 4276 méter.", "Folyamatos aktivitása miatt szigorúan megfigyelik."],
       ro: ["Înălțime: 4.276 metri.", "Monitorizat constant din cauza activității sale frecvente."],
       en: ["Elevation: 4,276 meters.", "Monitored closely due to its constant activity."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 17.", "O atracție culturală remarcabilă în zona Nature 17."], en: [] }
   },
+
   {
     id: "lake-tota-nature-v2",
     type: "lake",
@@ -251,8 +319,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Több mint 3000 méteres magasságban fekszik.", "A Playa Blanca fehér homokos partjáról ismert."],
       ro: ["Situat la peste 3.000 de metri altitudine.", "Cunoscut pentru plaja de nisip alb Playa Blanca."],
       en: ["Located at over 3,000 meters altitude.", "Known for its white sand beach, Playa Blanca."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 18.", "O atracție culturală remarcabilă în zona Nature 18."], en: [] }
   },
+
   {
     id: "lake-guatavita-nature-v2",
     type: "lake",
@@ -265,8 +337,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A muiszka őslakosok szent tava.", "Átmérője mintegy 700 méter."],
       ro: ["Sacru pentru poporul indigen Muisca.", "Diametru: aproximativ 700 de metri."],
       en: ["Sacred to the indigenous Muisca people.", "Diameter: about 700 meters."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 19.", "O atracție culturală remarcabilă în zona Nature 19."], en: [] }
   },
+
   {
     id: "lake-calima-nature-v2",
     type: "lake",
@@ -279,8 +355,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A szörfösök és kiteszörfösök kedvelt célpontja.", "Kolumbia legnagyobb mesterséges tava."],
       ro: ["Popular pentru windsurfing și kitesurfing.", "Cel mai mare lac artificial din Columbia."],
       en: ["Popular for windsurfing and kitesurfing.", "The largest artificial lake in Colombia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 20.", "O atracție culturală remarcabilă în zona Nature 20."], en: [] }
   },
+
   {
     id: "la-cocha-lagoon-nature-v2",
     type: "lake",
@@ -293,8 +373,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Nemzetközileg védett Ramsari vizenyős terület.", "Közepén található a La Corota nevű kis sziget."],
       ro: ["O zonă umedă Ramsar protejată internațional.", "În mijloc se află mica insulă La Corota."],
       en: ["An internationally protected Ramsar wetland.", "Features the small Corota Island in its center."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 21.", "O atracție culturală remarcabilă în zona Nature 21."], en: [] }
   },
+
   {
     id: "malpelo-island-nature-v2",
     type: "island",
@@ -307,8 +391,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["2006 óta az UNESCO Világörökség része.", "Hatalmas pörölycápa-rajok élnek itt."],
       ro: ["Patrimoniu Mondial UNESCO din 2006.", "Aici trăiesc școli uriașe de rechini ciocan."],
       en: ["UNESCO World Heritage site since 2006.", "Home to huge schools of hammerhead sharks."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 22.", "O atracție culturală remarcabilă în zona Nature 22."], en: [] }
   },
+
   {
     id: "gorgona-island-nature-v2",
     type: "island",
@@ -321,8 +409,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Hosszúszárnyú bálnák fontos szaporodóhelye.", "Sűrű esőerdő borítja."],
       ro: ["Loc important de reproducere pentru balenele cu cocoașă.", "Acoperită de o pădure tropicală deasă."],
       en: ["Important breeding ground for humpback whales.", "Covered by dense rainforest."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 23.", "O atracție culturală remarcabilă în zona Nature 23."], en: [] }
   },
+
   {
     id: "san-andres-island-nature-v2",
     type: "island",
@@ -335,8 +427,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Földrajzilag közelebb áll Közép-Amerikához.", "Korallzátonyok övezik az egész szigetet."],
       ro: ["Din punct de vedere geografic, e mai aproape de America Centrală.", "Insula este înconjurată de recife de corali."],
       en: ["Geographically closer to Central America.", "Coral reefs surround the entire island."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 24.", "O atracție culturală remarcabilă în zona Nature 24."], en: [] }
   },
+
   {
     id: "providencia-island-nature-v2",
     type: "island",
@@ -349,8 +445,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A Seaflower UNESCO bioszféra-rezervátum része.", "Amerika egyik leghosszabb korallzátonya veszi körül."],
       ro: ["Parte a rezervației biosferei UNESCO Seaflower.", "Are una dintre cele mai lungi bariere de corali din Americi."],
       en: ["Part of the Seaflower UNESCO Biosphere Reserve.", "Features one of the longest barrier reefs in the Americas."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 25.", "O atracție culturală remarcabilă în zona Nature 25."], en: [] }
   },
+
   {
     id: "amazon-rainforest-colombia-nature-v2",
     type: "forest",
@@ -363,8 +463,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Kolumbia területének nagyjából 35%-át teszi ki.", "Számos őslakos törzs otthona."],
       ro: ["Acoperă aproximativ 35% din suprafața Columbiei.", "Găzduiește numeroase triburi indigene."],
       en: ["Covers about 35% of Colombia's territory.", "Home to numerous indigenous tribes."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 26.", "O atracție culturală remarcabilă în zona Nature 26."], en: [] }
   },
+
   {
     id: "choco-darien-moist-forest-nature-v2",
     type: "forest",
@@ -377,8 +481,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["A biodiverzitás egyik globális forrópontja.", "Számos endemikus békafajáról ismert."],
       ro: ["Unul dintre hotspot-urile globale ale biodiversității.", "Faimoasă pentru numeroase specii de broaște endemice."],
       en: ["One of the global biodiversity hotspots.", "Famous for many endemic frog species."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 27.", "O atracție culturală remarcabilă în zona Nature 27."], en: [] }
   },
+
   {
     id: "tayrona-national-park-nature-v2",
     type: "forest",
@@ -391,8 +499,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Bőgőmajmok és jaguárok otthona.", "Jelentős prekolumbián romok (Pueblito) találhatók itt."],
       ro: ["Habitat pentru maimuța urlătoare și jaguar.", "Conține ruine precolumbiene semnificative (Pueblito)."],
       en: ["Home to the howler monkey and jaguar.", "Contains significant pre-Columbian ruins (Pueblito)."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 28.", "O atracție culturală remarcabilă în zona Nature 28."], en: [] }
   },
+
   {
     id: "caribbean-sea-colombia-nature-v2",
     type: "sea",
@@ -405,8 +517,12 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Hosszú homokos partok és gyarmati kikötővárosok övezik.", "Fontos a turizmus és a halászat szempontjából."],
       ro: ["Mărginită de plaje lungi de nisip și orașe portuare coloniale.", "Importantă pentru turism și pescuit."],
       en: ["Lined with long sandy beaches and colonial port cities.", "Important for tourism and fishing."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 29.", "O atracție culturală remarcabilă în zona Nature 29."], en: [] }
   },
+
   {
     id: "pacific-ocean-colombia-nature-v2",
     type: "sea",
@@ -419,6 +535,10 @@ export const poiExtraColombiaNatureV2: POI[] = [
       hu: ["Vadnebb és kevésbé fejlett, mint a karibi part.", "A bálnanéző szezon júliustól októberig tart."],
       ro: ["Mai sălbatică și mai puțin dezvoltată decât coasta Caraibelor.", "Sezonul de observare a balenelor este din iulie până în octombrie."],
       en: ["Wilder and less developed than the Caribbean coast.", "Whale watching season is from July to October."]
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Nature 31.", "O atracție culturală remarcabilă în zona Nature 31."], en: []
     }
   }
 ];

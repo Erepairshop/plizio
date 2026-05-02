@@ -1,4 +1,5 @@
 import type { POI } from "./poi";
+import { poiExtraCzechRepublicCities } from "./poiExtraCzechRepublicCities";
 
 export const czechRepublicCountry: POI = {
   id: "country-czech-republic",
@@ -3527,4 +3528,4 @@ export const czechRepublicNature: POI[] = [
   }
 ];
 
-export const czechRepublicAllPoi: POI[] = [czechRepublicCountry, ...czechRepublicRegions, ...czechRepublicCities, ...czechRepublicCulture, ...czechRepublicNature];
+export const czechRepublicAllPoi: POI[] = [czechRepublicCountry, ...czechRepublicRegions, ...czechRepublicCities, ...czechRepublicCulture, ...czechRepublicNature, ...poiExtraCzechRepublicCities];

@@ -1,0 +1,462 @@
+[
+  {
+    "id": "ES",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GA",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AS",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CB",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-PV",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-NC",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-RI",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AR",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CT",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CL",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-MD",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CM",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-EX",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-VC",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AN",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-MU",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-IB",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CN",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-madrid",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-barcelona",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-valencia",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-sevilla",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-zaragoza",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-malaga",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-bilbao",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-granada",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-cordoba",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-salamanca",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-toledo",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-santiago",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-alhambra",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-sagrada-familia",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-park-guell",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-prado",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-santiago-bernabeu",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-camp-nou",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-ibiza",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-mallorca",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-tenerife",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-gran-canaria",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-pyrenees",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-sierra-nevada",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-picos-europa",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-costa-brava",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "es-costa-del-sol",
+    "name": "",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AL",
+    "name": "Almer\u00c3\u00ada",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CA",
+    "name": "C\u00c3\u00a1diz",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CO",
+    "name": "C\u00c3\u00b3rdoba",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GR",
+    "name": "Granada",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-H",
+    "name": "Huelva",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-J",
+    "name": "Ja\u00c3\u00a9n",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-MA",
+    "name": "M\u00c3\u00a1laga",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SE",
+    "name": "Sevilla",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-HU",
+    "name": "Huesca",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-TE",
+    "name": "Teruel",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-Z",
+    "name": "Zaragoza",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GC",
+    "name": "Las Palmas",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-TF",
+    "name": "Santa Cruz de Tenerife",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AB",
+    "name": "Albacete",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CR",
+    "name": "Ciudad Real",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CU",
+    "name": "Cuenca",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GU",
+    "name": "Guadalajara",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-TO",
+    "name": "Toledo",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-AV",
+    "name": "\u00c3\u0081vila",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-BU",
+    "name": "Burgos",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-LE",
+    "name": "Le\u00c3\u00b3n",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-P",
+    "name": "Palencia",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SA",
+    "name": "Salamanca",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SG",
+    "name": "Segovia",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SO",
+    "name": "Soria",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-VA",
+    "name": "Valladolid",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-ZA",
+    "name": "Zamora",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-B",
+    "name": "Barcelona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-GI",
+    "name": "Girona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-L",
+    "name": "Lleida",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-T",
+    "name": "Tarragona",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-BA",
+    "name": "Badajoz",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CC",
+    "name": "C\u00c3\u00a1ceres",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-C",
+    "name": "A Coru\u00c3\u00b1a",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-LU",
+    "name": "Lugo",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-OR",
+    "name": "Ourense",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-PO",
+    "name": "Pontevedra",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-BI",
+    "name": "Biscay",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-SS",
+    "name": "Gipuzkoa",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-VI",
+    "name": "\u00c3\u0081lava",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-A",
+    "name": "Alicante",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-CS",
+    "name": "Castell\u00c3\u00b3n",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-V",
+    "name": "Valencia",
+    "file": "lib/visualLab/data/spainPoi.ts"
+  },
+  {
+    "id": "ES-MAD",
+    "name": "Madrid",
+    "file": "lib/visualLab/data/poiExtraSpainCities.ts"
+  },
+  {
+    "id": "ES-BCN",
+    "name": "Barcelona",
+    "file": "lib/visualLab/data/poiExtraSpainCities.ts"
+  },
+  {
+    "id": "ES-ALH",
+    "name": "Alhambra",
+    "file": "lib/visualLab/data/poiExtraSpainHistory.ts"
+  },
+  {
+    "id": "ES-TEI",
+    "name": "Teide",
+    "file": "lib/visualLab/data/poiExtraSpainOther.ts"
+  }
+]

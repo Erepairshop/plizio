@@ -13,42 +13,34 @@ export const spainHistoryExtra: POI[] = [
       ro: "Un complex monumental de palate din epoca maură în Granada.",
       en: "A monumental palace complex from the Moorish period in Granada."
     },
+    
     descriptionAdvanced: {
-      de: "Die Alhambra, deren Name 'Die Rote' bedeutet, ist ein architektonisches Juwel auf dem Sabika-Hügel in Granada. Sie war die letzte Residenz der Nasriden-Dynastie und ist heute eines der weltweit bedeutendsten Zeugnisse maurischer Kunst in Europa. Der Komplex umfasst neben den Palästen die Alcazaba-Festung, die Generalife-Gärten mit ihren prächtigen Wasserspielen und präzisen geometrischen Ornamenten. Die Alhambra verkörpert die höfische Kultur von Al-Andalus mit ihrer komplexen Symbolik, der kunstvollen Stuckarbeit und dem harmonischen Zusammenspiel von Architektur und Natur. Nach der Reconquista ließen die katholischen Könige den Palast Karls V. im Inneren errichten, wodurch ein einzigartiges architektonisches Spannungsfeld entstand. Geschichte K8 – das maurische Erbe in Spanien.",
-      hu: "Az Alhambra, amelynek neve 'a vörös'-t jelent, egy építészeti ékszer a granadai Sabika-dombon. A Naszrid-dinasztia utolsó rezidenciája volt, és ma a mór művészet egyik legfontosabb európai emléke. A komplexum a paloták mellett magában foglalja az Alcazaba erődöt és a Generalife kerteket, amelyek csodálatos vízijátékokkal és precíz geometriai díszítésekkel rendelkeznek. Az Alhambra az Al-Andalusz udvari kultúráját testesíti meg összetett szimbolikájával, művészi stukkóival, valamint az építészet és a természet harmonikus összjátékával. A reconquista után a katolikus uralkodók felépíttették V. Károly palotáját a komplexumon belül, ezzel egyedülálló építészeti kontrasztot teremtve. Történelem K8 – mór örökség Spanyolországban.",
-      ro: "Alhambra, al cărei nume înseamnă „Cea Roșie”, este o bijuterie arhitecturală situată pe dealul Sabika din Granada. Aceasta a reprezentat ultima reședință a dinastiei nasride și constituie astăzi una dintre cele mai importante mărturii ale artei maure din Europa. Complexul include, pe lângă palate, fortăreața Alcazaba și grădinile Generalife, renumite pentru jocurile lor de apă și ornamentele geometrice precise. Alhambra întruchipează cultura curții din Al-Andalus prin simbolistica sa complexă, stucaturile artizanale și interacțiunea armonioasă dintre arhitectură și natură. După Reconquista, monarhii catolici au dispus construcția palatului lui Carol al V-lea în interior, creând un contrast arhitectural unic. Istorie K8 – moștenirea maură în Spania.",
-      en: ""
+      de: "Die Alhambra von Granada ist ein absolut spektakulärer maurischer Palast- und Festungskomplex, der majestätisch auf dem Sabika-Hügel hoch über der Stadt thront. Dieses architektonische Meisterwerk ist das unbestrittene Kronjuwel der islamischen Baukunst in Europa und spiegelt die unglaubliche Pracht und Poesie der Nasriden-Dynastie wider. Die feinen, filigranen Stuckarbeiten, die eleganten Hufeisenbögen und die beruhigenden, kunstvollen Wasserspiele in den Innenhöfen schaffen eine fast mystische, paradiesische Atmosphäre. Direkt angrenzend befinden sich die wunderschönen Gärten des Generalife, die einst als kühle, grüne Sommerresidenz der maurischen Könige dienten. Die Alhambra ist nicht nur ein Gebäude, sondern ein komplexes Symbol für das reiche Erbe des Al-Andalus in Spanien.",
+      hu: "A granadai Alhambra egy lenyűgöző mór palota- és erődkomplexum, amely fenségesen magasodik a város fölé a Sabika-dombon. Ez az építészeti remekmű az iszlám építészet vitathatatlan európai koronaékszere, és a Naszrid-dinasztia hihetetlen pompáját és költészetét tükrözi. A finom, aprólékos stukkómunkák, az elegáns patkóívek és a belső udvarok megnyugtató, művészi szökőkútjai szinte misztikus, paradicsomi atmoszférát teremtenek. Közvetlenül mellette terülnek el a Generalife gyönyörű kertjei, amelyek egykor a mór királyok hűvös, zöldellő nyári rezidenciájaként szolgáltak. Az Alhambra nem csupán egy épület, hanem az Al-Andalus spanyolországi gazdag örökségének komplex szimbóluma.",
+      ro: "",
+      en: "The Alhambra is a breathtaking palace and fortress complex strategically located on the al-Sabika hill overlooking the city of Granada in Andalusia. Originally constructed as a small fortress in the 9th century, it was transformed into a magnificent royal palace in the 13th century by the Nasrid dynasty, the last Muslim rulers in Spain. The complex is a masterpiece of Moorish architecture, featuring intricate stucco work, stunning tile mosaics, and harmoniously proportioned courtyards. It is completely integrated with its natural surroundings, utilizing the water from the nearby Sierra Nevada mountains to feed its lush gardens and iconic reflecting pools. The Alhambra stands as a poignant symbol of Al-Andalus and remains one of the most profound architectural treasures in the world."
     },
     factsAdvanced: {
       de: [
-        "Die Alhambra gehört seit 1984 zum UNESCO-Welterbe.",
-        "Der Name leitet sich vom arabischen 'al-Qal'a al-Hamra' ab.",
-        "Die Generalife-Gärten waren der Sommerpalast der Nasriden-Sultane.",
-        "Der Komplex erstreckt sich über eine Fläche von rund 140.000 Quadratmetern.",
-        "In den Palästen finden sich über 10.000 kunstvoll geschnitzte Stuckelemente.",
-        "Die Alhambra wird jährlich von rund 2,7 Millionen Menschen besucht.",
-        "Die Anlage ist ein Meisterwerk des Mudéjar-Stils."
+        "Der Name 'Alhambra' stammt aus dem Arabischen und bedeutet 'Die Rote', was sich vermutlich auf die warme Farbe der äußeren Festungsmauern bezieht.",
+        "Die komplexen geometrischen Muster und kunstvollen arabischen Kalligrafien an den Wänden enthalten oft das wiederkehrende Motto: 'Es gibt keinen Sieger außer Gott'.",
+        "Die Alhambra war der allerletzte maurische Palast, der während der Reconquista im Jahr 1492 an die katholischen Könige Spaniens übergeben wurde.",
+        "Im Zentrum des nasridischen Komplexes ließ der spanische König Karl V. später einen massiven, auffälligen Renaissance-Palast errichten, der einen starken stilistischen Kontrast bildet."
       ],
       hu: [
-        "Az Alhambra 1984 óta az UNESCO világörökség része.",
-        "A név az arab 'al-Qal'a al-Hamra' kifejezésből ered.",
-        "A Generalife kertek a naszrid szultánok nyári palotái voltak.",
-        "A komplexum körülbelül 140 000 négyzetméteres területen fekszik.",
-        "A palotákban több mint 10 000 művészien faragott stukkóelem található.",
-        "Az Alhambrát évente körülbelül 2,7 millió ember látogatja.",
-        "Az épületegyüttes a mudéjar stílus remekműve."
+        "Az 'Alhambra' név az arab nyelvből származik, és azt jelenti 'A Vörös', ami valószínűleg a külső erődfalak meleg színére utal.",
+        "A falakon található bonyolult geometriai minták és az aprólékos arab kalligráfiák gyakran ismétlik a jelmondatot: 'Nincs más győztes, csak Isten'.",
+        "Az Alhambra volt a legutolsó mór palota, amelyet a Reconquista idején, 1492-ben átadtak a katolikus spanyol királyoknak.",
+        "A naszridi komplexum közepén V. Károly spanyol király később egy masszív, figyelemfelkeltő reneszánsz palotát építtetett, amely erős stílusbeli kontrasztot alkot."
       ],
-      ro: [
-        "Alhambra face parte din Patrimoniul Mondial UNESCO din 1984.",
-        "Numele provine din expresia arabă „al-Qal'a al-Hamra”.",
-        "Grădinile Generalife au fost palatul de vară al sultanilor nasrizi.",
-        "Complexul se întinde pe o suprafață de aproximativ 140.000 de metri pătrați.",
-        "În palate pot fi găsite peste 10.000 de elemente de stucatură sculptate artistic.",
-        "Alhambra este vizitată anual de aproximativ 2,7 milioane de persoane.",
-        "Ansamblul reprezintă o capodoperă a stilului mudéjar."
-      ],
-      en: []
-    }
+      ro: [],
+      en: [
+        "The site was designated a UNESCO World Heritage site in 1984, alongside the Generalife and the Albaicín.",
+        "The Court of the Lions features an iconic alabaster basin supported by 12 marble lions, built in the 14th century.",
+        "After the Christian Reconquista in 1492, it became the Royal Court of Ferdinand and Isabella.",
+        "The complex spans approximately 35 acres (142,000 square meters) and is surrounded by 2,000 meters of protective walls."
+      ]
+    },
   }
 ];
 export default spainHistoryExtra;

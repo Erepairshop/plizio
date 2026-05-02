@@ -16,8 +16,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Cordillera Occidental ist der westlichste Zweig der kolumbianischen Anden, der sich parallel zur Pazifikküste erstreckt.",
       hu: "A Nyugati-Kordillerák a kolumbiai Andok legnyugatibb láncolata, amely a csendes-óceáni partvidékkel párhuzamosan fut.",
       ro: "Cordiliera Occidentală este ramura cea mai vestică a Anzilor columbieni, întinzându-se paralel cu coasta Pacificului.",
-      en: "The Cordillera Occidental is the westernmost branch of the Colombian Andes, stretching parallel to the Pacific coast."
-    },
+      en: "The Cordillera Occidental is the westernmost branch of the Colombian Andes, stretching parallel to the Pacific coast." },
     facts: {
       de: [
         "Niedrigster der drei Andenzweige Kolumbiens.",
@@ -43,8 +42,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Separates the Pacific region from the Cauca Valley.",
         "Reaches elevations over 4000 meters."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 1.", "O atracție culturală remarcabilă în zona Relief 1."], en: [] }
   },
+
   {
     id: "co-cordillera-central-relief-v2",
     type: "mountain",
@@ -60,8 +63,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Cordillera Central ist der höchste der drei Andenzweige in Kolumbien und beherbergt zahlreiche aktive Vulkane.",
       hu: "A Középső-Kordillerák a kolumbiai Andok legmagasabb lánca, amely számos aktív vulkánnak ad otthont.",
       ro: "Cordiliera Centrală este cea mai înaltă dintre cele trei ramuri andine din Columbia și găzduiește numeroși vulcani activi.",
-      en: "The Cordillera Central is the highest of the three Andean branches in Colombia and is home to numerous active volcanoes."
-    },
+      en: "The Cordillera Central is the highest of the three Andean branches in Colombia and is home to numerous active volcanoes." },
     facts: {
       de: [
         "Höchster Gebirgszug der kolumbianischen Anden.",
@@ -87,8 +89,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Important region for Colombian coffee cultivation.",
         "Separates the Cauca and Magdalena river valleys."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 2.", "O atracție culturală remarcabilă în zona Relief 2."], en: [] }
   },
+
   {
     id: "co-cordillera-oriental-relief-v2",
     type: "mountain",
@@ -104,8 +110,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Cordillera Oriental ist der breiteste Zweig der kolumbianischen Anden und Heimat der Hochebene von Bogotá.",
       hu: "A Keleti-Kordillerák a kolumbiai Andok legszélesebb láncolata, és a bogotái fennsík otthona.",
       ro: "Cordiliera Orientală este cea mai lată ramură a Anzilor columbieni și adăpostește podișul Bogotá.",
-      en: "The Cordillera Oriental is the widest branch of the Colombian Andes and home to the Bogotá savanna."
-    },
+      en: "The Cordillera Oriental is the widest branch of the Colombian Andes and home to the Bogotá savanna." },
     facts: {
       de: [
         "Breiteste Bergkette der Anden in Kolumbien.",
@@ -131,8 +136,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Splits into two distinct ranges in the north.",
         "Rich in coal and salt deposits."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 3.", "O atracție culturală remarcabilă în zona Relief 3."], en: [] }
   },
+
   {
     id: "co-macizo-colombiano-relief-v2",
     type: "mountain",
@@ -148,8 +157,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Das Macizo Colombiano ist der Hauptwasserscheidepunkt des Landes, wo die Anden sich in ihre drei Hauptketten teilen.",
       hu: "A Kolumbiai-masszívum az ország fő vízválasztója, ahol az Andok három fő láncra válik szét.",
       ro: "Masivul Columbian este principalul cumpănă de ape al țării, unde Anzii se împart în cele trei ramuri principale.",
-      en: "The Colombian Massif is the country's main water divide, where the Andes split into their three main ranges."
-    },
+      en: "The Colombian Massif is the country's main water divide, where the Andes split into their three main ranges." },
     facts: {
       de: [
         "Gilt als die wichtigste Wasserquelle Kolumbiens.",
@@ -175,8 +183,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "UNESCO Biosphere Reserve due to its biodiversity.",
         "The mountains divide into the Central and Eastern Andes here."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 4.", "O atracție culturală remarcabilă în zona Relief 4."], en: [] }
   },
+
   {
     id: "co-sierra-nevada-santa-marta-relief-v2",
     type: "mountain",
@@ -192,8 +204,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Sierra Nevada de Santa Marta ist das höchste Küstengebirge der Welt und geologisch von den Anden isoliert.",
       hu: "A Sierra Nevada de Santa Marta a világ legmagasabb partmenti hegysége, geológiailag elszigetelve az Andoktól.",
       ro: "Sierra Nevada de Santa Marta este cel mai înalt lanț muntos de coastă din lume, izolat geologic de Anzi.",
-      en: "The Sierra Nevada de Santa Marta is the highest coastal mountain range in the world, geologically isolated from the Andes."
-    },
+      en: "The Sierra Nevada de Santa Marta is the highest coastal mountain range in the world, geologically isolated from the Andes." },
     facts: {
       de: [
         "Höchstes Küstengebirge der Welt (bis 5700 m).",
@@ -219,8 +230,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Isolated from the main Andean mountain chain.",
         "Home to indigenous peoples such as the Kogi and Arhuaco."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 5.", "O atracție culturală remarcabilă în zona Relief 5."], en: [] }
   },
+
   {
     id: "co-serrania-macarena-relief-v2",
     type: "relief",
@@ -236,8 +251,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía de la Macarena ist ein isoliertes Gebirge, das Elemente des Amazonas, des Orinoco und der Anden vereint.",
       hu: "A Serranía de la Macarena egy elszigetelt hegység, amely ötvözi az Amazonas, az Orinoco és az Andok elemeit.",
       ro: "Serranía de la Macarena este un lanț muntos izolat care combină elemente din Amazon, Orinoco și Anzi.",
-      en: "The Serranía de la Macarena is an isolated mountain range that combines elements of the Amazon, the Orinoco, and the Andes."
-    },
+      en: "The Serranía de la Macarena is an isolated mountain range that combines elements of the Amazon, the Orinoco, and the Andes." },
     facts: {
       de: [
         "Heimat des farbenfrohen Flusses Caño Cristales.",
@@ -263,8 +277,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "One of the most biodiverse regions on Earth.",
         "Geologically older than the neighboring Andes."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 6.", "O atracție culturală remarcabilă în zona Relief 6."], en: [] }
   },
+
   {
     id: "co-serrania-baudo-relief-v2",
     type: "mountain",
@@ -280,8 +298,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía del Baudó ist ein dicht bewaldeter Gebirgszug entlang der Pazifikküste Kolumbiens, der sich bis nach Panama erstreckt.",
       hu: "A Baudó-hegység egy sűrű erdővel borított hegylánc Kolumbia csendes-óceáni partvidéke mentén, amely Panamáig húzódik.",
       ro: "Serranía del Baudó este un lanț muntos dens împădurit de-a lungul coastei Pacificului din Columbia, care se întinde până în Panama.",
-      en: "The Serranía del Baudó is a densely forested mountain range along the Pacific coast of Colombia, extending into Panama."
-    },
+      en: "The Serranía del Baudó is a densely forested mountain range along the Pacific coast of Colombia, extending into Panama." },
     facts: {
       de: [
         "Verläuft parallel zur nördlichen Pazifikküste.",
@@ -307,8 +324,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Separated from the Andes by the Atrato River.",
         "One of the wettest regions in the world."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 7.", "O atracție culturală remarcabilă în zona Relief 7."], en: [] }
   },
+
   {
     id: "co-serrania-chiribiquete-relief-v2",
     type: "relief",
@@ -324,8 +345,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía de Chiribiquete besteht aus markanten Tepuis im Amazonas-Regenwald und ist für ihre alten Felsmalereien bekannt.",
       hu: "A Chiribiquete-hegység jellegzetes tepuikból áll az Amazonas esőerdejében, és ősi sziklafestményeiről ismert.",
       ro: "Serranía de Chiribiquete este formată din tepuis proeminenți în pădurea tropicală amazoniană și este cunoscută pentru picturile rupestre antice.",
-      en: "The Serranía de Chiribiquete consists of prominent tepuis in the Amazon rainforest and is known for its ancient rock paintings."
-    },
+      en: "The Serranía de Chiribiquete consists of prominent tepuis in the Amazon rainforest and is known for its ancient rock paintings." },
     facts: {
       de: [
         "Geprägt von bis zu 1000 Meter hohen Tafelbergen (Tepuis).",
@@ -351,8 +371,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Part of the world's largest tropical national park.",
         "One of Colombia's most isolated ecosystems."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 8.", "O atracție culturală remarcabilă în zona Relief 8."], en: [] }
   },
+
   {
     id: "co-serrania-darien-relief-v2",
     type: "mountain",
@@ -368,8 +392,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía del Darién bildet die natürliche Grenze zwischen Kolumbien und Panama und ist mit dichtem Dschungel bedeckt.",
       hu: "A Darién-hegység alkotja a természetes határt Kolumbia és Panama között, és sűrű dzsungel borítja.",
       ro: "Serranía del Darién formează granița naturală dintre Columbia și Panama și este acoperită de junglă densă.",
-      en: "The Serranía del Darién forms the natural border between Colombia and Panama and is covered in dense jungle."
-    },
+      en: "The Serranía del Darién forms the natural border between Colombia and Panama and is covered in dense jungle." },
     facts: {
       de: [
         "Bildet die Grenze zwischen Mittel- und Südamerika.",
@@ -395,8 +418,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Extremely inaccessible, pristine area.",
         "Prevents the completion of the Pan-American Highway."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 9.", "O atracție culturală remarcabilă în zona Relief 9."], en: [] }
   },
+
   {
     id: "co-serrania-perija-relief-v2",
     type: "mountain",
@@ -412,8 +439,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía del Perijá ist die nördlichste Ausläuferkette der Anden und markiert die Grenze zwischen Kolumbien und Venezuela.",
       hu: "A Perijá-hegység az Andok legészakibb nyúlványa, amely kijelöli a Kolumbia és Venezuela közötti határt.",
       ro: "Serranía del Perijá este cea mai nordică ramură a Anzilor și marchează granița dintre Columbia și Venezuela.",
-      en: "The Serranía del Perijá is the northernmost extension of the Andes, marking the border between Colombia and Venezuela."
-    },
+      en: "The Serranía del Perijá is the northernmost extension of the Andes, marking the border between Colombia and Venezuela." },
     facts: {
       de: [
         "Nördlichster Teil der Cordillera Oriental.",
@@ -439,8 +465,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Forms the water divide between the Maracaibo Basin and the Río Cesar.",
         "Important refuge for endangered animal species."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 10.", "O atracție culturală remarcabilă în zona Relief 10."], en: [] }
   },
+
   {
     id: "co-vulkan-azufral-relief-v2",
     type: "mountain",
@@ -456,8 +486,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Azufral ist ein halbschlafender Vulkan im Süden Kolumbiens, bekannt für die grüne Laguna Verde in seinem Krater.",
       hu: "Az Azufral egy félig szunnyadó vulkán Kolumbia déli részén, amely a kráterében lévő zöld Laguna Verdéről ismert.",
       ro: "Azufral este un vulcan semi-adormit din sudul Columbiei, cunoscut pentru Laguna Verde din craterul său.",
-      en: "The Azufral is a semi-dormant volcano in southern Colombia, known for the green Laguna Verde in its crater."
-    },
+      en: "The Azufral is a semi-dormant volcano in southern Colombia, known for the green Laguna Verde in its crater." },
     facts: {
       de: [
         "Gipfelhöhe von 4070 Metern.",
@@ -483,8 +512,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Currently considered dormant but shows fumarole activity.",
         "Popular destination for trekking enthusiasts."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 11.", "O atracție culturală remarcabilă în zona Relief 11."], en: [] }
   },
+
   {
     id: "co-vulkan-dona-juana-relief-v2",
     type: "mountain",
@@ -500,8 +533,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Vulkan Doña Juana ist ein explosiver Stratovulkan im kolumbianischen Macizo und von einem dichten Nebelwald umgeben.",
       hu: "A Doña Juana vulkán egy robbanékony rétegvulkán a Kolumbiai-masszívumban, amelyet sűrű köderdő vesz körül.",
       ro: "Vulcanul Doña Juana este un stratovulcan exploziv în Masivul Columbian și este înconjurat de o pădure densă de nori.",
-      en: "The Doña Juana Volcano is an explosive stratovolcano in the Colombian Massif, surrounded by dense cloud forest."
-    },
+      en: "The Doña Juana Volcano is an explosive stratovolcano in the Colombian Massif, surrounded by dense cloud forest." },
     facts: {
       de: [
         "Erreicht eine Höhe von 4150 Metern.",
@@ -527,8 +559,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Part of the Doña Juana-Cascabel Volcanic National Park.",
         "Possesses a complex crater structure."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 12.", "O atracție culturală remarcabilă în zona Relief 12."], en: [] }
   },
+
   {
     id: "co-vulkan-machin-relief-v2",
     type: "mountain",
@@ -544,8 +580,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Vulkan Machín ist ein kleiner, aber gefährlicher Vulkan in der Zentralkordillere, der für sein explosives Potenzial gefürchtet ist.",
       hu: "A Machín vulkán egy kicsi, de veszélyes vulkán a Középső-Kordillerákban, amely robbanékony potenciáljáról rettegett.",
       ro: "Vulcanul Machín este un vulcan mic, dar periculos, din Cordiliera Centrală, temut pentru potențialul său exploziv.",
-      en: "The Machín Volcano is a small but dangerous volcano in the Central Cordillera, feared for its explosive potential."
-    },
+      en: "The Machín Volcano is a small but dangerous volcano in the Central Cordillera, feared for its explosive potential." },
     facts: {
       de: [
         "Nur etwa 2750 Meter hoch.",
@@ -571,8 +606,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Has a large caldera with lava domes.",
         "Last major eruption occurred around 800 years ago."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 13.", "O atracție culturală remarcabilă în zona Relief 13."], en: [] }
   },
+
   {
     id: "co-vulkan-sotara-relief-v2",
     type: "mountain",
@@ -588,8 +627,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Sotará ist ein markanter Vulkan in der Zentralkordillere südlich von Popayán, der oft von Wolken verhüllt ist.",
       hu: "A Sotará egy jellegzetes vulkán a Középső-Kordillerákban Popayántól délre, amelyet gyakran felhők borítanak.",
       ro: "Sotará este un vulcan proeminent în Cordiliera Centrală la sud de Popayán, adesea învăluit în nori.",
-      en: "The Sotará is a prominent volcano in the Central Cordillera south of Popayán, often shrouded in clouds."
-    },
+      en: "The Sotará is a prominent volcano in the Central Cordillera south of Popayán, often shrouded in clouds." },
     facts: {
       de: [
         "Erreicht eine Höhe von 4400 Metern.",
@@ -615,8 +653,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Its name means 'rock above the clouds' in the indigenous language.",
         "No major eruptions documented since records began."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 14.", "O atracție culturală remarcabilă în zona Relief 14."], en: [] }
   },
+
   {
     id: "co-vulkan-cumbal-relief-v2",
     type: "mountain",
@@ -632,8 +674,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Vulkan Cumbal ist der höchste Gipfel im Süden Kolumbiens und ein aktiver Stratovulkan nahe der Grenze zu Ecuador.",
       hu: "A Cumbal vulkán Kolumbia déli részének legmagasabb csúcsa, és egy aktív rétegvulkán az ecuadori határ közelében.",
       ro: "Vulcanul Cumbal este cel mai înalt vârf din sudul Columbiei și un stratovulcan activ în apropierea graniței cu Ecuador.",
-      en: "The Cumbal Volcano is the highest peak in southern Colombia and an active stratovolcano near the border with Ecuador."
-    },
+      en: "The Cumbal Volcano is the highest peak in southern Colombia and an active stratovolcano near the border with Ecuador." },
     facts: {
       de: [
         "Höhe von 4764 Metern.",
@@ -659,8 +700,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Local indigenous groups traditionally harvest ice on its slopes.",
         "Was last significantly active in 1926."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 15.", "O atracție culturală remarcabilă în zona Relief 15."], en: [] }
   },
+
   {
     id: "co-vulkan-chiles-relief-v2",
     type: "mountain",
@@ -676,8 +721,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Vulkan Chiles liegt direkt auf der Grenze zwischen Kolumbien und Ecuador und bildet ein vulkanisches Zwillingssystem mit dem Cerro Negro.",
       hu: "A Chiles vulkán közvetlenül a kolumbiai-ecuadori határon fekszik, és vulkáni ikerrendszert alkot a Cerro Negróval.",
       ro: "Vulcanul Chiles este situat direct pe granița dintre Columbia și Ecuador și formează un sistem vulcanic dublu cu Cerro Negro.",
-      en: "The Chiles Volcano is located right on the border between Colombia and Ecuador, forming a twin volcanic system with Cerro Negro."
-    },
+      en: "The Chiles Volcano is located right on the border between Colombia and Ecuador, forming a twin volcanic system with Cerro Negro." },
     facts: {
       de: [
         "Gipfelhöhe von 4748 Metern.",
@@ -703,8 +747,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Classified as an active but dormant volcano.",
         "Known for hot springs on its flanks."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 16.", "O atracție culturală remarcabilă în zona Relief 16."], en: [] }
   },
+
   {
     id: "co-paramo-sumapaz-relief-v2",
     type: "relief",
@@ -720,8 +768,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Páramo de Sumapaz südlich von Bogotá ist das größte Páramo-Ökosystem der Welt und ein entscheidendes Wasserreservoir.",
       hu: "A Bogotától délre fekvő Sumapaz-páramo a világ legnagyobb páramo ökoszisztémája, és létfontosságú víztározó.",
       ro: "Páramo de Sumapaz la sud de Bogotá este cel mai mare ecosistem de páramo din lume și un rezervor de apă crucial.",
-      en: "The Sumapaz Páramo south of Bogotá is the largest páramo ecosystem in the world and a crucial water reservoir."
-    },
+      en: "The Sumapaz Páramo south of Bogotá is the largest páramo ecosystem in the world and a crucial water reservoir." },
     facts: {
       de: [
         "Das größte Páramo-Gebiet der Erde.",
@@ -747,8 +794,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Secures the water supply for large parts of central Colombia.",
         "Located at over 3500 meters altitude."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 17.", "O atracție culturală remarcabilă în zona Relief 17."], en: [] }
   },
+
   {
     id: "co-paramo-santurban-relief-v2",
     type: "relief",
@@ -764,8 +815,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Páramo de Santurbán in den östlichen Anden ist ein Hochgebirgsökosystem, das zunehmend durch Bergbau bedroht wird.",
       hu: "A Keleti-Andokban található Santurbán-páramo egy magashegyi ökoszisztéma, amelyet egyre inkább veszélyeztet a bányászat.",
       ro: "Páramo de Santurbán din Anzii Orientali este un ecosistem montan înalt, amenințat tot mai mult de minerit.",
-      en: "The Santurbán Páramo in the Eastern Andes is a high mountain ecosystem increasingly threatened by mining."
-    },
+      en: "The Santurbán Páramo in the Eastern Andes is a high mountain ecosystem increasingly threatened by mining." },
     facts: {
       de: [
         "Wichtige Wasserquelle für die Region um Bucaramanga.",
@@ -791,8 +841,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Scene of strong environmental protests against gold mines.",
         "Counted among the most biodiverse highland ecosystems."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 18.", "O atracție culturală remarcabilă în zona Relief 18."], en: [] }
   },
+
   {
     id: "co-paramo-oceta-relief-v2",
     type: "relief",
@@ -808,8 +862,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Páramo de Ocetá gilt aufgrund seiner spektakulären Steingärten und unberührten Landschaften als der schönste Páramo Kolumbiens.",
       hu: "Látványos sziklakertjei és érintetlen tájai miatt az Ocetá-páramót Kolumbia legszebb páramójának tartják.",
       ro: "Páramo de Ocetá este considerat cel mai frumos páramo din Columbia datorită grădinilor sale spectaculoase de piatră și peisajelor virgine.",
-      en: "The Ocetá Páramo is considered the most beautiful páramo in Colombia due to its spectacular rock gardens and pristine landscapes."
-    },
+      en: "The Ocetá Páramo is considered the most beautiful páramo in Colombia due to its spectacular rock gardens and pristine landscapes." },
     facts: {
       de: [
         "Oft als 'schönster Páramo der Welt' bezeichnet.",
@@ -835,8 +888,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Rich in endemic flora, especially Frailejones.",
         "Located above the colonial town of Monguí."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 19.", "O atracție culturală remarcabilă în zona Relief 19."], en: [] }
   },
+
   {
     id: "co-desierto-tatacoa-relief-v2",
     type: "relief",
@@ -852,8 +909,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Tatacoa-Wüste ist eigentlich ein tropischer Trockenwald, bekannt für ihre rötlich und grau gefärbten, stark erodierten Schluchten.",
       hu: "A Tatacoa-sivatag valójában egy trópusi száraz erdő, amely vöröses és szürkés színű, erősen erodálódott szurdokairól ismert.",
       ro: "Deșertul Tatacoa este de fapt o pădure tropicală uscată, cunoscută pentru canioanele sale puternic erodate, colorate în roșu și gri.",
-      en: "The Tatacoa Desert is actually a tropical dry forest, known for its reddish and gray-colored, heavily eroded canyons."
-    },
+      en: "The Tatacoa Desert is actually a tropical dry forest, known for its reddish and gray-colored, heavily eroded canyons." },
     facts: {
       de: [
         "Zweitgrößte trockene Zone Kolumbiens nach La Guajira.",
@@ -879,8 +935,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Ideal for astronomical observations due to clear skies.",
         "Divided into red (Cuzco) and gray (Los Hoyos) zones."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 20.", "O atracție culturală remarcabilă în zona Relief 20."], en: [] }
   },
+
   {
     id: "co-desierto-guajira-relief-v2",
     type: "relief",
@@ -896,8 +956,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die La Guajira-Wüste ist eine weitläufige Trockenregion im äußersten Norden Südamerikas, wo Sanddünen auf das Karibische Meer treffen.",
       hu: "A Guajira-sivatag egy kiterjedt száraz régió Dél-Amerika legészakibb részén, ahol a homokdűnék találkoznak a Karib-tengerrel.",
       ro: "Deșertul La Guajira este o vastă regiune aridă în nordul extrem al Americii de Sud, unde dunele de nisip se întâlnesc cu Marea Caraibilor.",
-      en: "The La Guajira Desert is a vast arid region in the extreme north of South America, where sand dunes meet the Caribbean Sea."
-    },
+      en: "The La Guajira Desert is a vast arid region in the extreme north of South America, where sand dunes meet the Caribbean Sea." },
     facts: {
       de: [
         "Nördlichster Punkt Südamerikas (Punta Gallinas).",
@@ -923,8 +982,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Possesses enormous coal reserves.",
         "Shaped by constant winds from the Caribbean."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 21.", "O atracție culturală remarcabilă în zona Relief 21."], en: [] }
   },
+
   {
     id: "co-farallones-cali-relief-v2",
     type: "mountain",
@@ -940,8 +1003,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Farallones de Cali sind markante Felsgipfel in der Westkordillere, die eine beeindruckende Kulisse für die Stadt Cali bilden.",
       hu: "A Farallones de Cali jellegzetes sziklacsúcsok a Nyugati-Kordillerákban, amelyek lenyűgöző hátteret biztosítanak Cali városának.",
       ro: "Farallones de Cali sunt vârfuri stâncoase proeminente în Cordiliera Occidentală, formând un fundal impresionant pentru orașul Cali.",
-      en: "The Farallones de Cali are prominent rock peaks in the Western Cordillera, forming an impressive backdrop for the city of Cali."
-    },
+      en: "The Farallones de Cali are prominent rock peaks in the Western Cordillera, forming an impressive backdrop for the city of Cali." },
     facts: {
       de: [
         "Erreichen Höhen von über 4000 Metern.",
@@ -967,8 +1029,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Important source for rivers supplying Cali.",
         "Host an immense diversity of bird species."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 22.", "O atracție culturală remarcabilă în zona Relief 22."], en: [] }
   },
+
   {
     id: "co-cerro-guadalupe-relief-v2",
     type: "mountain",
@@ -984,8 +1050,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Der Cerro de Guadalupe ist ein markanter Berg, der sich zusammen mit dem Monserrate über der Hauptstadt Bogotá erhebt.",
       hu: "A Guadalupe-hegy egy jellegzetes hegy, amely a Monserrate-tal együtt magasodik Bogotá fővárosa fölé.",
       ro: "Cerro de Guadalupe este un munte proeminent care, împreună cu Monserrate, se înalță deasupra capitalei Bogotá.",
-      en: "Cerro de Guadalupe is a prominent mountain that, along with Monserrate, rises above the capital city of Bogotá."
-    },
+      en: "Cerro de Guadalupe is a prominent mountain that, along with Monserrate, rises above the capital city of Bogotá." },
     facts: {
       de: [
         "Erreicht eine Höhe von 3317 Metern.",
@@ -1011,8 +1076,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Offers a spectacular view over the Bogotá savanna.",
         "Together with Monserrate, a landmark of the city."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 23.", "O atracție culturală remarcabilă în zona Relief 23."], en: [] }
   },
+
   {
     id: "co-serrania-san-lucas-relief-v2",
     type: "mountain",
@@ -1028,8 +1097,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Serranía de San Lucas ist ein isoliertes Gebirgsmassiv im Norden Kolumbiens, das dichte Wälder und reichhaltige Goldvorkommen birgt.",
       hu: "A San Lucas-hegység egy elszigetelt hegytömb Kolumbia északi részén, amely sűrű erdőket és gazdag aranylelőhelyeket rejt.",
       ro: "Serranía de San Lucas este un masiv muntos izolat din nordul Columbiei, care ascunde păduri dense și rezerve bogate de aur.",
-      en: "The Serranía de San Lucas is an isolated mountain massif in northern Colombia, harboring dense forests and rich gold deposits."
-    },
+      en: "The Serranía de San Lucas is an isolated mountain massif in northern Colombia, harboring dense forests and rich gold deposits." },
     facts: {
       de: [
         "Isolierter Ausläufer der Cordillera Central.",
@@ -1055,8 +1123,12 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "One of the least explored areas in Colombia.",
         "Home to the endangered spectacled bear."
       ]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 24.", "O atracție culturală remarcabilă în zona Relief 24."], en: [] }
   },
+
   {
     id: "co-tapon-darien-relief-v2",
     type: "forest",
@@ -1072,8 +1144,7 @@ export const poiExtraColombiaReliefV2: POI[] = [
       de: "Die Darién-Lücke ist ein extrem dichter, wegeloser Dschungelbereich, der Süd- und Mittelamerika voneinander trennt.",
       hu: "A Darién-régió egy rendkívül sűrű, úttalan dzsungelterület, amely elválasztja Dél- és Közép-Amerikát.",
       ro: "Regiunea Darién este o zonă de junglă extrem de densă, fără drumuri, care separă America de Sud de America Centrală.",
-      en: "The Darién Gap is an extremely dense, roadless jungle area that separates South and Central America."
-    },
+      en: "The Darién Gap is an extremely dense, roadless jungle area that separates South and Central America." },
     facts: {
       de: [
         "Unterbricht die Panamericana auf ca. 100 Kilometern.",
@@ -1099,6 +1170,10 @@ export const poiExtraColombiaReliefV2: POI[] = [
         "Home to indigenous tribes like the Emberá and Wounaan.",
         "Consists predominantly of impenetrable swamps and rainforest."
       ]
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Relief 26.", "O atracție culturală remarcabilă în zona Relief 26."], en: []
     }
   }
 ];

@@ -1,4 +1,6 @@
 import type { POI } from "./poi";
+import { poiExtraBulgariaCities } from "./poiExtraBulgariaCities";
+import { poiExtraBulgariaHistory } from "./poiExtraBulgariaHistory";
 export const bulgariaAllPoi: POI[] = [
   {
     id: "bg-country",
@@ -80,7 +82,7 @@ export const bulgariaAllPoi: POI[] = [
     },
     image: "/images/visualLab/bulgaria/pirin.jpg"
   }
-];
+, ...poiExtraBulgariaCities, ...poiExtraBulgariaHistory];
 
 export const bulgariaCities: POI[] = [
   {

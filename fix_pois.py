@@ -1,121 +1,107 @@
-import re
 import os
+import re
 
-file_path = "/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraBelizeHistoryV2.ts"
+files = [
+"lib/visualLab/data/poiExtraBotswanaNatureV2.ts",
+"lib/visualLab/data/poiExtraBotswanaReliefV2.ts",
+"lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+"lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+"lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+"lib/visualLab/data/poiExtraColombiaCitiesV2.ts",
+"lib/visualLab/data/poiExtraColombiaEconomicV2.ts",
+"lib/visualLab/data/poiExtraColombiaHistoryV2.ts",
+"lib/visualLab/data/poiExtraColombiaLandmarksV2.ts",
+"lib/visualLab/data/poiExtraColombiaLifeV2.ts",
+"lib/visualLab/data/poiExtraColombiaNatureV2.ts",
+"lib/visualLab/data/poiExtraColombiaReliefV2.ts",
+"lib/visualLab/data/poiExtraDrcongoReliefV2.ts",
+"lib/visualLab/data/poiExtraFrenchguianaHistoryV2.ts",
+"lib/visualLab/data/poiExtraFrenchguianaLandmarksV2.ts",
+"lib/visualLab/data/poiExtraFrenchguianaLifeV2.ts",
+"lib/visualLab/data/poiExtraFrenchguianaNatureV2.ts",
+"lib/visualLab/data/poiExtraFrenchguianaReliefV2.ts",
+"lib/visualLab/data/poiExtraGuyanaHistoryV2.ts",
+"lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts",
+"lib/visualLab/data/poiExtraGuyanaNatureV2.ts",
+"lib/visualLab/data/poiExtraIvorycoastNatureV2.ts",
+"lib/visualLab/data/poiExtraIvorycoastReliefV2.ts",
+"lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+"lib/visualLab/data/poiExtraLibyaReliefV2.ts",
+"lib/visualLab/data/poiExtraMoroccoCitiesV2.ts",
+"lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+"lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+"lib/visualLab/data/poiExtraNigeriaReliefV2.ts",
+"lib/visualLab/data/poiExtraParaguayEconomicV2.ts",
+"lib/visualLab/data/poiExtraParaguayLifeV2.ts",
+"lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+"lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+"lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
+"lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+"lib/visualLab/data/poiExtraSouthafricaReliefV2.ts",
+"lib/visualLab/data/poiExtraTanzaniaLifeV2.ts",
+"lib/visualLab/data/poiExtraTanzaniaNatureV2.ts",
+"lib/visualLab/data/poiExtraTanzaniaReliefV2.ts",
+"lib/visualLab/data/poiExtraUgandaNatureV2.ts",
+"lib/visualLab/data/poiExtraUruguayCitiesV2.ts",
+"lib/visualLab/data/poiExtraUruguayEconomicV2.ts",
+"lib/visualLab/data/poiExtraUruguayHistoryV2.ts",
+"lib/visualLab/data/poiExtraUruguayLandmarksV2.ts",
+"lib/visualLab/data/poiExtraUruguayLifeV2.ts",
+"lib/visualLab/data/poiExtraUruguayNatureV2.ts",
+"lib/visualLab/data/poiExtraUruguayReliefV2.ts",
+"lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+"lib/visualLab/data/poiExtraZimbabweLifeV2.ts"
+]
 
-with open(file_path, "r", encoding="utf-8") as f:
-    content = f.read()
+def fix_file(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-# Find the array content
-match = re.search(r"export const poiExtraBelizeHistoryV2: POI\[\] = \[(.*)\];", content, re.DOTALL)
-if not match:
-    print("Could not find the POI array")
-    exit(1)
-
-array_content = match.group(1)
-
-# Split by POI objects. 
-pois_raw = re.split(r"\n  \{", "\n" + array_content)
-pois_raw = [p.strip() for p in pois_raw if p.strip()]
-
-def clean_poi(poi_str):
-    id_match = re.search(r'id:\s*"([^"]+)"', poi_str)
-    poi_id = id_match.group(1) if id_match else "unknown"
+    # Fix escaped newlines (replace literal \n with actual newlines)
+    content = content.replace('\\n', '\n')
     
-    name_en_match = re.search(r'en:\s*"([^"]+)"', poi_str) # First en match is usually the name
-    poi_name = name_en_match.group(1) if name_en_match else poi_id
-    
-    lines = poi_str.split("\n")
-    new_lines = []
-    
-    all_en_desc = []
-    all_en_facts = []
-    
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        
-        if "descriptionAdvanced: {" in line:
-            block_content = ""
-            depth = 1
-            j = i
-            while depth > 0 and j < len(lines):
-                line_j = lines[j]
-                if j > i:
-                    if "{" in line_j: depth += line_j.count("{")
-                    if "}" in line_j: depth -= line_j.count("}")
-                block_content += line_j + "\n"
-                j += 1
-            en_match = re.search(r'en:\s*"(.*?)"', block_content, re.DOTALL)
-            if en_match and en_match.group(1).strip():
-                all_en_desc.append(en_match.group(1).strip())
-            i = j
-            continue
-            
-        if "factsAdvanced: {" in line:
-            block_content = ""
-            depth = 1
-            j = i
-            while depth > 0 and j < len(lines):
-                line_j = lines[j]
-                if j > i:
-                    if "{" in line_j: depth += line_j.count("{")
-                    if "}" in line_j: depth -= line_j.count("}")
-                block_content += line_j + "\n"
-                j += 1
-            en_facts_match = re.search(r'en:\s*\[(.*?)\]', block_content, re.DOTALL)
-            if en_facts_match:
-                facts_str = en_facts_match.group(1)
-                facts = re.findall(r'["\'](.*?)["\']', facts_str)
-                if facts:
-                    all_en_facts.append(facts)
-            i = j
-            continue
-        
-        if line.strip() and line.strip() != "}" and line.strip() != "},":
-             new_lines.append(line)
-        i += 1
+    # Remove tool markers
+    content = re.sub(r'file_path:\s*".*?",?', '', content)
+    content = re.sub(r'ergonomic_write_file=true,?', '', content)
 
-    best_desc = max(all_en_desc, key=len) if all_en_desc else ""
-    best_facts = all_en_facts[-1] if all_en_facts else []
+    # The most common bug: `coords: [x, y]\n    },\n    name:` -> `coords: [x, y],\n    name:`
+    # We replace any `},` that appears right before `name: {` or similar fields
+    content = re.sub(r'coords:\s*(\[.*?\])\s*\},', r'coords: \1,', content)
     
-    # Validation
-    desc_word_count = len(best_desc.split())
-    facts_count = len(best_facts)
+    # Sometimes it's just `}\n name: {`
+    content = re.sub(r'coords:\s*(\[.*?\])\s*\}\s*name:', r'coords: \1,\n    name:', content)
     
-    print(f"POI: {poi_id} | Name: {poi_name} | Words: {desc_word_count} | Facts: {facts_count}")
-    
-    # Build the cleaned object
-    cleaned_poi = "  {\n"
-    for line in new_lines:
-        if line.strip():
-            cleaned_poi += line + "\n"
-    
-    cleaned_poi += '    descriptionAdvanced: {\n'
-    cleaned_poi += '      de: "",\n'
-    cleaned_poi += '      hu: "",\n'
-    cleaned_poi += '      ro: "",\n'
-    cleaned_poi += f'      en: "{best_desc}",\n'
-    cleaned_poi += '    },\n'
-    
-    cleaned_poi += '    factsAdvanced: {\n'
-    cleaned_poi += '      de: [],\n'
-    cleaned_poi += '      hu: [],\n'
-    cleaned_poi += '      ro: [],\n'
-    facts_formatted = ",\n".join([f"        '{f}'" for f in best_facts])
-    cleaned_poi += f'      en: [\n{facts_formatted}\n      ],\n'
-    cleaned_poi += '    }\n'
-    cleaned_poi += '  }'
-    
-    return cleaned_poi
+    # Missing comma between POI objects: `}\n  {` -> `},\n  {`
+    content = re.sub(r'\}\s*\{\s*id:', r'},\n  {\n    id:', content)
 
-cleaned_pois = [clean_poi(p) for p in pois_raw]
+    # Missing commas in facts arrays or description objects
+    content = re.sub(r'"\s*de:', r'", de:', content)
+    content = re.sub(r'"\s*hu:', r'", hu:', content)
+    content = re.sub(r'"\s*ro:', r'", ro:', content)
+    content = re.sub(r'"\s*en:', r'", en:', content)
 
-new_content = "import type { POI } from \"./poi\";\n\nexport const poiExtraBelizeHistoryV2: POI[] = [\n"
-new_content += ",\n".join(cleaned_pois)
-new_content += "\n];\n"
+    # Replace bad ends
+    # We want exactly `];` at the end
+    # Let's truncate everything after the last `];`
+    last_idx = content.rfind('];')
+    if last_idx != -1:
+        content = content[:last_idx+2] + '\n'
 
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(new_content)
+    # And if the file doesn't end with `];` but has `]`, fix it
+    if '];' not in content:
+        # maybe it ends with }
+        content = content.strip()
+        if content.endswith('}'):
+            content += '\n];\n'
+        elif content.endswith(']'):
+            content += ';\n'
 
-print(f"Processed {len(cleaned_pois)} POIs")
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+for f in files:
+    try:
+        fix_file(f)
+    except Exception as e:
+        print(f"Error processing {f}: {e}")
+

@@ -1,4 +1,6 @@
 import type { POI } from "./poi";
+import { slovakiaHistory } from "./poiExtraSlovakiaHistory";
+import { slovakiaOther } from "./poiExtraSlovakiaOther";
 
 export const slovakiaCountry: POI = {
   id: "country-slovakia",
@@ -2270,10 +2272,8 @@ export const slovakiaNature: POI[] = [
   }
 ];
 
-export const slovakiaAllPoi: POI[] = [
-  slovakiaCountry,
+export const slovakiaAllPoi: POI[] = [slovakiaCountry,
   ...slovakiaRegions,
   ...slovakiaCities,
   ...slovakiaCulture,
-  ...slovakiaNature
-];
+  ...slovakiaNature, ...slovakiaHistory, ...slovakiaOther];

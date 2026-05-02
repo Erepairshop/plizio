@@ -13,8 +13,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb csendes-óceáni kikötője.", "Fontos a kávé- és cukorexport számára."],
       ro: ["Cel mai mare port la Pacific din țară.", "Important pentru exportul de cafea și zahăr."],
       en: ["The country's largest Pacific port.", "Important for coffee and sugar exports."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 1.", "O atracție culturală remarcabilă în zona Economic 1."], en: [] }
   },
+
   {
     id: "port-cartagena-economic-v2",
     type: "port",
@@ -27,8 +31,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Kolumbia vezető konténerkikötője.", "Erős fókusz a petrolkémián."],
       ro: ["Principalul port de containere din Columbia.", "Focus puternic pe petrochimie."],
       en: ["Leading container port in Colombia.", "Strong focus on petrochemicals."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 2.", "O atracție culturală remarcabilă în zona Economic 2."], en: [] }
   },
+
   {
     id: "port-barranquilla-economic-v2",
     type: "port",
@@ -41,8 +49,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["A Magdalena folyó partján fekszik.", "Fontos a multimodális közlekedésben."],
       ro: ["Situat pe râul Magdalena.", "Important pentru transportul multimodal."],
       en: ["Located on the Magdalena River.", "Important for multimodal transport."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 3.", "O atracție culturală remarcabilă în zona Economic 3."], en: [] }
   },
+
   {
     id: "port-santa-marta-economic-v2",
     type: "port",
@@ -55,8 +67,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Természetes mélyvízi kikötő.", "A banán fő exportkikötője."],
       ro: ["Port natural cu ape adânci.", "Principalul port de export pentru banane."],
       en: ["Natural deep-water port.", "Main export port for bananas."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 4.", "O atracție culturală remarcabilă în zona Economic 4."], en: [] }
   },
+
   {
     id: "reficar-cartagena-economic-v2",
     type: "industry",
@@ -69,8 +85,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az Ecopetrol állami olajtársaság tulajdona.", "Masszívan kibővítették a 2010-es években."],
       ro: ["Aparține companiei petroliere de stat Ecopetrol.", "Extinsă masiv în anii 2010."],
       en: ["Belongs to the state oil company Ecopetrol.", "Massively expanded in the 2010s."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 5.", "O atracție culturală remarcabilă în zona Economic 5."], en: [] }
   },
+
   {
     id: "refinery-barrancabermeja-economic-v2",
     type: "industry",
@@ -83,8 +103,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Kolumbia legnagyobb finomítója.", "A Llanos-medencéből származó kőolajat dolgoz fel."],
       ro: ["Cea mai mare rafinărie din Columbia.", "Procesează țiței din bazinele Llanos."],
       en: ["Colombia's largest refinery.", "Processes crude oil from the Llanos basins."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 6.", "O atracție culturală remarcabilă în zona Economic 6."], en: [] }
   },
+
   {
     id: "cerrejon-coal-mine-economic-v2",
     type: "industry",
@@ -97,8 +121,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Latin-Amerika legnagyobb külszíni szénbányája.", "Saját vasútvonallal rendelkezik."],
       ro: ["Cea mai mare mină de cărbune la suprafață din America Latină.", "Are propria linie de cale ferată."],
       en: ["Latin America's largest open-pit coal mine.", "Has its own railway line."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 7.", "O atracție culturală remarcabilă în zona Economic 7."], en: [] }
   },
+
   {
     id: "la-loma-drummond-mine-economic-v2",
     type: "industry",
@@ -111,8 +139,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az ország második legnagyobb széntermelője.", "Főként Európába és Ázsiába exportál."],
       ro: ["Al doilea cel mai mare producător de cărbune din țară.", "Exportă în principal în Europa și Asia."],
       en: ["The country's second largest coal producer.", "Exports mainly to Europe and Asia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 8.", "O atracție culturală remarcabilă în zona Economic 8."], en: [] }
   },
+
   {
     id: "port-tumaco-economic-v2",
     type: "port",
@@ -125,8 +157,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["A második legfontosabb csendes-óceáni kikötő.", "A transzandoki olajvezeték végpontja."],
       ro: ["Al doilea cel mai important port la Pacific.", "Punctul final al conductei de petrol transandine."],
       en: ["Second most important Pacific port.", "Terminus of the Trans-Andean oil pipeline."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 9.", "O atracție culturală remarcabilă în zona Economic 9."], en: [] }
   },
+
   {
     id: "free-zone-bogota-economic-v2",
     type: "industry",
@@ -139,8 +175,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az egyik legnagyobb belföldi ipari park.", "Fókuszban a BPO, a technológia és a logisztika."],
       ro: ["Unul dintre cele mai mari parcuri industriale interne.", "Focus pe BPO, tehnologie și logistică."],
       en: ["One of the largest inland industrial parks.", "Focus on BPO, technology, and logistics."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 10.", "O atracție culturală remarcabilă în zona Economic 10."], en: [] }
   },
+
   {
     id: "free-zone-pacifico-economic-v2",
     type: "industry",
@@ -153,8 +193,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Közel a cali nemzetközi repülőtérhez.", "Fontos az Ázsiába irányuló export szempontjából."],
       ro: ["Aproape de aeroportul internațional din Cali.", "Importantă pentru exporturile către Asia."],
       en: ["Close to Cali international airport.", "Important for exports towards Asia."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 11.", "O atracție culturală remarcabilă în zona Economic 11."], en: [] }
   },
+
   {
     id: "free-zone-tayrona-economic-v2",
     type: "industry",
@@ -167,8 +211,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Elősegíti a karibi partvidék iparosítását.", "Előnyök a tengeri kikötő közelsége miatt."],
       ro: ["Promovează industrializarea coastei caraibiene.", "Avantaje datorate apropierii de portul maritim."],
       en: ["Promotes industrialization of the Caribbean coast.", "Advantages due to proximity to the seaport."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 12.", "O atracție culturală remarcabilă în zona Economic 12."], en: [] }
   },
+
   {
     id: "free-zone-santander-economic-v2",
     type: "industry",
@@ -181,8 +229,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Fókuszban a szolgáltatásexport.", "Globálisan működő vállalatok telephelye."],
       ro: ["Focus pe exporturile de servicii.", "Găzduiește companii cu operațiuni globale."],
       en: ["Focus on service exports.", "Home to globally operating companies."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 13.", "O atracție culturală remarcabilă în zona Economic 13."], en: [] }
   },
+
   {
     id: "puerto-bolivar-economic-v2",
     type: "port",
@@ -195,8 +247,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Képes Cape méretű hajók kiszolgálására.", "Központi csomópont a globális szénkereskedelemben."],
       ro: ["Poate deservi nave din clasa Capesize.", "Nod central pentru comerțul global cu cărbune."],
       en: ["Can handle Capesize vessels.", "Central hub for the global coal trade."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 14.", "O atracție culturală remarcabilă în zona Economic 14."], en: [] }
   },
+
   {
     id: "puerto-nuevo-economic-v2",
     type: "port",
@@ -209,8 +265,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Modern közvetlen rakodási rendszer.", "Csökkenti a szénport a Karib-térségben."],
       ro: ["Sistem modern de încărcare directă.", "Reduce praful de cărbune în Caraibe."],
       en: ["Modern direct loading system.", "Reduces coal dust in the Caribbean."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 15.", "O atracție culturală remarcabilă în zona Economic 15."], en: [] }
   },
+
   {
     id: "hidroituango-dam-economic-v2",
     type: "industry",
@@ -223,8 +283,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb infrastrukturális projektje.", "A Cauca folyó vizét hasznosítja."],
       ro: ["Cel mai mare proiect de infrastructură din țară.", "Folosește apa râului Cauca."],
       en: ["The country's largest infrastructure project.", "Uses the waters of the Cauca River."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 16.", "O atracție culturală remarcabilă în zona Economic 16."], en: [] }
   },
+
   {
     id: "chivor-hydro-economic-v2",
     type: "industry",
@@ -237,8 +301,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Áramot termel Közép-Kolumbia hálózata számára.", "Lenyűgöző gát az Andokban."],
       ro: ["Generează energie pentru rețeaua centrală columbiană.", "Un baraj impresionant în Anzi."],
       en: ["Generates power for central Colombia's grid.", "An impressive dam in the Andes."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 17.", "O atracție culturală remarcabilă în zona Economic 17."], en: [] }
   },
+
   {
     id: "guavio-hydro-economic-v2",
     type: "industry",
@@ -251,8 +319,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Fontos hozzájárulás a nemzeti energiaellátáshoz.", "Az Emgesa vállalat üzemelteti."],
       ro: ["Contribuție importantă la aprovizionarea națională cu energie.", "Operată de compania Emgesa."],
       en: ["Important contribution to national energy supply.", "Operated by the Emgesa company."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 18.", "O atracție culturală remarcabilă în zona Economic 18."], en: [] }
   },
+
   {
     id: "cerro-matoso-mine-economic-v2",
     type: "industry",
@@ -265,8 +337,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Dél-Amerika legnagyobb nikkelbányája.", "Fontos exportcikk a rozsdamentes acélipar számára."],
       ro: ["Cea mai mare mină de nichel din America de Sud.", "Produs de export important pentru industria oțelului inoxidabil."],
       en: ["South America's largest nickel mine.", "Important export product for the stainless steel industry."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 19.", "O atracție culturală remarcabilă în zona Economic 19."], en: [] }
   },
+
   {
     id: "ingenio-manuelita-economic-v2",
     type: "industry",
@@ -279,8 +355,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["A 19. században alapították.", "Úttörő a bioetanol-gyártásban."],
       ro: ["Fondată în secolul al XIX-lea.", "Pionier în producția de bioetanol."],
       en: ["Founded in the 19th century.", "Pioneer in bioethanol production."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 20.", "O atracție culturală remarcabilă în zona Economic 20."], en: [] }
   },
+
   {
     id: "ingenio-providencia-economic-v2",
     type: "industry",
@@ -293,8 +373,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Fókuszban az ökológiai gazdálkodás.", "Zöld áramot termel a bagaszból."],
       ro: ["Focus pe cultivarea ecologică.", "Produce energie verde din bagas."],
       en: ["Focus on ecological farming.", "Produces green electricity from bagasse."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 21.", "O atracție culturală remarcabilă în zona Economic 21."], en: [] }
   },
+
   {
     id: "bavaria-brewery-tocancipa-economic-v2",
     type: "industry",
@@ -307,8 +391,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["A globális AB InBev konszernhez tartozik.", "Az ország legnagyobb termelési kapacitásával rendelkezik."],
       ro: ["Aparține grupului global AB InBev.", "Cea mai mare capacitate de producție din țară."],
       en: ["Belongs to the global AB InBev group.", "Highest production capacity in the country."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 22.", "O atracție culturală remarcabilă în zona Economic 22."], en: [] }
   },
+
   {
     id: "renault-sofasa-envigado-economic-v2",
     type: "industry",
@@ -321,8 +409,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Népszerű modelleket szerel össze az Andok térsége számára.", "Az egyik legfontosabb ipari munkáltató."],
       ro: ["Asamblează modele populare pentru regiunea andină.", "Unul dintre cei mai importanți angajatori industriali."],
       en: ["Assembles popular models for the Andean region.", "One of the most important industrial employers."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 23.", "O atracție culturală remarcabilă în zona Economic 23."], en: [] }
   },
+
   {
     id: "puerto-antioquia-turbo-economic-v2",
     type: "port",
@@ -335,8 +427,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Banán és avokádó exportját szolgálja.", "Lerövidíti a Medellín felőli logisztikai útvonalakat."],
       ro: ["Servește exportului de banane și avocado.", "Scurtează rutele logistice din Medellín."],
       en: ["Serves the export of bananas and avocados.", "Shortens logistics routes from Medellín."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 24.", "O atracție culturală remarcabilă în zona Economic 24."], en: [] }
   },
+
   {
     id: "buritica-gold-mine-economic-v2",
     type: "industry",
@@ -349,8 +445,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Jelentős projekt a hivatalos bányászat számára.", "Nemzetközi befektetők üzemeltetik."],
       ro: ["Proiect important pentru mineritul formal.", "Operată de investitori internaționali."],
       en: ["Important project for formal mining.", "Operated by international investors."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 25.", "O atracție culturală remarcabilă în zona Economic 25."], en: [] }
   },
+
   {
     id: "cementos-argos-yumbo-economic-v2",
     type: "industry",
@@ -363,8 +463,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Nagyszabású építési projekteket lát el a régióban.", "CO2-csökkentő technológiákat alkalmaz."],
       ro: ["Furnizează materiale pentru proiecte majore din regiune.", "Implementează tehnologii de reducere a CO2."],
       en: ["Supplies major construction projects in the region.", "Implements CO2-reducing technologies."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 26.", "O atracție culturală remarcabilă în zona Economic 26."], en: [] }
   },
+
   {
     id: "mamonal-industrial-complex-economic-v2",
     type: "industry",
@@ -377,8 +481,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Az ország legfontosabb petrolkémiai központja.", "Nagy szinergiahatás a gyárak között."],
       ro: ["Cel mai important centru petrochimic din țară.", "Efect de sinergie ridicat între fabrici."],
       en: ["The country's most important petrochemical center.", "High synergy effect between the factories."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 27.", "O atracție culturală remarcabilă în zona Economic 27."], en: [] }
   },
+
   {
     id: "postobon-bello-plant-economic-v2",
     type: "industry",
@@ -391,8 +499,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Antioquia teljes piacára termel.", "A legkorszerűbb palackozó üzemek."],
       ro: ["Produce pentru întreaga piață din Antioquia.", "Facilități de îmbuteliere de ultimă generație."],
       en: ["Produces for the entire market of Antioquia.", "State-of-the-art bottling facilities."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 28.", "O atracție culturală remarcabilă în zona Economic 28."], en: [] }
   },
+
   {
     id: "arroyohondo-industrial-zone-economic-v2",
     type: "industry",
@@ -405,8 +517,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Yumbót gyakran 'ipari fővárosnak' is nevezik.", "Gyárak százai működnek itt."],
       ro: ["Yumbo este adesea numită 'capitala industrială'.", "Găzduiește sute de fabrici."],
       en: ["Yumbo is often called the 'industrial capital'.", "Home to hundreds of factories."]
-    }
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 29.", "O atracție culturală remarcabilă în zona Economic 29."], en: [] }
   },
+
   {
     id: "tcbuen-terminal-economic-v2",
     type: "port",
@@ -419,6 +535,10 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       hu: ["Fokozott hatékonyság az automatizálás révén.", "Tehermentesíti a történelmi főkikötőt."],
       ro: ["Eficiență crescută prin automatizare.", "Degrevează portul principal istoric."],
       en: ["Increased efficiency through automation.", "Relieves the historic main port."]
+    },
+    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    },
+    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Economic 31.", "O atracție culturală remarcabilă în zona Economic 31."], en: []
     }
   }
 ];
