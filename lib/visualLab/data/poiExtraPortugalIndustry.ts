@@ -14,25 +14,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Odinioară unul dintre cele mai mari șantiere navale din lume, Lisnave este acum o companie de top în reparația și întreținerea navelor.",
       en: "Once one of the largest shipyards in the world, Lisnave is now a leading company in ship repair and maintenance."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Setúbal melletti Mitrena-félszigeten működő Lisnave hajógyár (Estaleiros Navais de Lisboa) Európa egyik legnagyobb és legfontosabb hajójavító központja. Eredetileg Lisszabonban alapították, majd a 2000-es évek elején tevékenységét teljesen a setúbali, mélyvizű létesítménybe helyezte át, hogy kiszolgálja a legnagyobb méretű tengerjáró hajókat is. A gigantikus szárazdokkokkal felszerelt komplexum olajszállító tankerek, teherhajók és tengerjáró óceánjárók karbantartására, javítására és átépítésére specializálódott. A Lisnave globális hírnévnek örvend a magas minőségű mérnöki munka és a gyors átfutási idők terén, így a világ minden tájáról vonzza a flottákat. A hatalmas daruk és hajótestek látványa uralja a setúbali ipari partvidéket.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Gegründet 1937.", "Spezialisiert auf die Reparatur von LNG-Tankern und anderen großen Schiffen.", "Wichtiger Arbeitgeber in der Region Setúbal."],
       hu: ["1937-ben alapították.", "LNG-tankerek és más nagy hajók javítására szakosodott.", "Fontos munkaadó a Setúbal régióban."],
       ro: ["Fondată în 1937.", "Specializată în repararea tancurilor LNG și a altor nave mari.", "Un angajator important în regiunea Setúbal."],
       en: ["Founded in 1937.", "Specializes in the repair of LNG carriers and other large vessels.", "An important employer in the Setúbal region."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A hajógyár legnagyobb szárazdokkja, a Dokk 21, hatalmas méretű hajók (VLCC - Very Large Crude Carriers) befogadására is képes.", "A Lisnave évente több mint 100 nagy tengerjáró hajó karbantartási és javítási munkálatait végzi el.", "A hajógyár fontos szerepet játszott az offshore (tengeri) olaj- és gázipari platformok javításában is."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Lisnave-Werften in Setúbal gehören zu den wichtigsten Zentren für Schiffsreparatur in Europa. Gelegen an der Flussmündung des Sado, profitiert die Anlage von einem tiefen natürlichen Hafen und einem milden Klima, das ganzjährige Arbeiten ermöglicht. Ursprünglich wurde Lisnave gegründet, um die wachsende Flotte großer Öltanker zu warten. Die industrielle Anlage erstreckt sich über ein gewaltiges Areal und ist ein Symbol für die portugiesische Ingenieurskunst im maritimen Sektor. Der Werftbetrieb ist seit Jahrzehnten ein wirtschaftlicher Anker für die Setúbal-Region.",
       "hu": "",
@@ -63,25 +50,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Un port maritim important în Portugalia, jucând un rol crucial în economia regiunii centrale, manipulând diverse tipuri de marfă.",
       en: "A major seaport in Portugal, playing a crucial role in the economy of the central region, handling various types of cargo."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Aveiroi kikötő (Porto de Aveiro) Portugália egyik legmodernebb és legdinamikusabban fejlődő kereskedelmi kikötője, az ország északi-középső régiójában. A Ria de Aveiro lagúnarendszer torkolatánál elhelyezkedő létesítmény kulcsfontosságú logisztikai kapu a régió ipari központjai számára. A kikötő többfunkciós terminálokkal rendelkezik, amelyek folyékony és szilárd ömlesztett árukat, roro (roll-on/roll-off) szállítmányokat és általános rakományokat is kezelnek. A mélyvízi hozzáférésnek és a kiváló vasúti, valamint közúti összeköttetéseknek köszönhetően hatékonyan szolgálja ki a nemzetközi kereskedelmet. Az Aveiroi kikötő jelentős szerepet játszik a helyi kerámia-, fém- és fafeldolgozó ipar exportjában.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Strategisch günstig in der Mitte der portugiesischen Küste gelegen.", "Wichtig für den Export von Keramik, Holz und Wein.", "Investiert in die Entwicklung von Infrastruktur für erneuerbare Energien."],
       hu: ["Stratégiailag a portugál part közepén helyezkedik el.", "Fontos a kerámia, a fa és a bor exportjában.", "Befektet a megújuló energiaforrások infrastruktúrájának fejlesztésébe."],
       ro: ["Situat strategic în centrul coastei portugheze.", "Important pentru exportul de ceramică, lemn și vin.", "Investește în dezvoltarea infrastructurii pentru energie regenerabilă."],
       en: ["Strategically located in the center of the Portuguese coast.", "Important for the export of ceramics, wood, and wine.", "Investing in infrastructure for renewable energy."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötő egy különleges offshore szélenergia terminállal is rendelkezik, amely támogatja a tengeri szélerőművek telepítését.", "Aveiro az egyetlen olyan portugál kikötő, amelynek nincs városi fizikai akadálya a bővítéshez, így jelentős területi tartalékokkal rendelkezik.", "A kikötő területén keresztül jelentős mennyiségű tőkehalat importálnak, amely a hagyományos portugál konyha alapanyaga."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Der Hafen von Aveiro ist ein multifunktionaler Hafen im Zentrum Portugals, geschützt in der einzigartigen Lagune Ria de Aveiro. Seine Entwicklung ist eng mit der industriellen Ausbreitung der Region, insbesondere in der Keramik- und Chemiebranche, verbunden. Geografisch bietet der Hafen eine sichere Verbindung zwischen dem rauen Atlantik und dem ausgedehnten Binnenwassersystem der Lagune. Dies ermöglichte früher den Transport von Gütern mit den traditionellen Moliceiro-Booten. Heute ist der moderne Hafen entscheidend für den Export von Holz, Papier und agroindustriellen Produkten.",
       "hu": "",
@@ -112,25 +86,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Alentejo este cea mai mare regiune producătoare de plută din lume, găzduind păduri extinse de stejari de plută (montados), un sistem agroforestier durabil.",
       en: "Alentejo is the world's largest cork-producing region, home to extensive cork oak forests (montados), a sustainable agro-forestry system."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Alentejo régió parafatölgy-erdői (Montados) világszinten is egyedülálló ökoszisztémát alkotnak, és a portugál kultúra, valamint gazdaság szerves részét képezik. Portugália a világ legnagyobb parafatermelője, amelynek zöme ezekből az alentejói ligetes erdőkből származik. A parafatölgy (Quercus suber) kérgét nagy szakértelemmel, kézi erővel hántják le 9-10 évente anélkül, hogy a fában kárt tennének, ami egy rendkívül fenntartható folyamat. Ezek az erdők a parafa mellett legeltetésre is alkalmasak, és gazdag biodiverzitásnak, köztük olyan ritka fajoknak adnak otthont, mint az ibériai hiúz és a parlagi sas. A lehántott fák vörösesbarna törzse lenyűgöző vizuális kontrasztot alkot a tájban.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Portugal produziert etwa 50% des weltweiten Korks.", "Die Rinde wird alle neun Jahre geerntet, ohne den Baum zu schädigen.", "Die Montados sind Hotspots der Biodiversität."],
       hu: ["Portugália termeli a világ parafatermelésének mintegy 50%-át.", "A kérget kilencévente takarítják be, a fa károsítása nélkül.", "A montadók a biológiai sokféleség gócpontjai."],
       ro: ["Portugalia produce aproximativ 50% din pluta mondială.", "Coaja este recoltată o dată la nouă ani fără a dăuna copacului.", "Montados sunt puncte fierbinți de biodiversitate."],
       en: ["Portugal produces around 50% of the world's cork.", "The bark is harvested every nine years without harming the tree.", "The montados are hotspots for biodiversity."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["Portugália állítja elő a világ parafatermelésének több mint 50%-át, nagyrészt az alentejói Montados erdőkből.", "Egy parafatölgy átlagosan 150-200 évig él, és élete során mintegy 15-20 alkalommal lehet róla lehántani a kérget.", "A portugál törvények szigorúan védik a parafatölgyeket; a fák kivágása engedélyköteles és szigorúan szabályozott."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Korkeichenwälder, bekannt als 'Montados', dominieren die hügelige Landschaft der Alentejo-Region in Südportugal. Dieses einzigartige Ökosystem ist das Ergebnis einer jahrhundertelangen nachhaltigen Bewirtschaftung durch den Menschen. Das heiße, trockene mediterrane Klima bietet ideale Bedingungen für das Wachstum der Korkeiche. Kulturell sind die Korkwälder tief in der Identität der lokalen Bevölkerung verwurzelt, die das Handwerk des Korkschälens von Generation zu Generation weitergibt. Portugal ist durch diese Wälder der unangefochtene Weltmarktführer in der Korkproduktion.",
       "hu": "",
@@ -161,25 +122,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "O fabrică mare de celuloză și hârtie lângă Aveiro, parte a The Navigator Company, un producător european de top de celuloză kraft de eucalipt albită (BEKP).",
       en: "A large pulp and paper mill near Aveiro, part of The Navigator Company, a leading European manufacturer of bleached eucalyptus kraft pulp (BEKP)."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A The Navigator Company caciai gyára Portugália egyik legjelentősebb papíripari létesítménye, amely az ország gazdaságának kulcsszereplője. Ez a hatalmas ipari komplexum az eukaliptuszfából készült, magas minőségű irodai papírok gyártására specializálódott. A gyár a legkorszerűbb fenntartható technológiákat alkalmazza, jelentősen csökkentve a környezeti lábnyomát és növelve az energiahatékonyságot. Cacia stratégiai elhelyezkedése lehetővé teszi a termékek gyors és hatékony globális exportját, így a portugál papíripart a világ élvonalába emeli. A vállalat működése mélyen beágyazódott a helyi közösség életébe, munkahelyek ezreit biztosítva a régióban.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Produziert Zellstoff, der zur Herstellung von Papier verwendet wird.", "Ein wichtiger Exporteur, der zur portugiesischen Handelsbilanz beiträgt.", "Konzentriert sich auf nachhaltige Waldbewirtschaftung."],
       hu: ["Papírgyártáshoz használt cellulózt gyárt.", "Fontos exportőr, hozzájárulva a portugál kereskedelmi mérleghez.", "A fenntartható erdőgazdálkodásra összpontosít."],
       ro: ["Produce celuloză utilizată pentru fabricarea hârtiei.", "Un exportator major, contribuind la balanța comercială a Portugaliei.", "Se concentrează pe managementul durabil al pădurilor."],
       en: ["Produces pulp used for papermaking.", "A major exporter, contributing to Portugal's trade balance.", "Focuses on sustainable forest management."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A caciai gyár Európa egyik legnagyobb integrált cellulóz- és papírgyára.", "A termeléshez főként az Ibériai-félszigeten őshonos eukaliptusz fafajtákat használnak.", "A gyár saját biomassza erőművel rendelkezik, amely megújuló energiát termel a működéséhez."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Das Werk Cacia der Navigator Company ist einer der größten europäischen Komplexe für Zellstoff- und Papierproduktion, gelegen in der Nähe von Aveiro. Die Anlage ist tief in die von Eukalyptus-Plantagen geprägte Geografie Zentralportugals integriert, die die Rohstoffe liefern. Die Geschichte der industriellen Papierherstellung in dieser Region revolutionierte die portugiesische Exportwirtschaft in den letzten Jahrzehnten. Moderne Nachhaltigkeitskonzepte haben dazu geführt, dass das Werk heute große Mengen an erneuerbarer Biomasse-Energie erzeugt. Die Anlage ist ein Musterbeispiel für die hochtechnisierte portugiesische Forstindustrie.",
       "hu": "",
@@ -210,25 +158,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Cea mai mare regiune viticolă DOC din Portugalia, cunoscută pentru producerea vinului distinctiv, ușor spumant, Vinho Verde (Vin Verde).",
       en: "The largest DOC wine region in Portugal, known for producing the characteristic, slightly sparkling Vinho Verde (Green Wine)."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Vinho Verde borvidék Portugália északnyugati részén, a Minho tartományban terül el, és az ország legnagyobb kiterjedésű bortermelő régiója. A terület hűvös, csapadékos klímája és gránitban gazdag talaja ideális feltételeket teremt a friss, gyümölcsös és enyhén pezsgő borok, a 'zöld borok' előállításához. A borvidék történelme a római korig nyúlik vissza, és a szőlőtermesztés a helyi kultúra elválaszthatatlan részévé vált. A hagyományos lugasos szőlőművelés mellett egyre inkább teret hódítanak a modern borászati eljárások. A Vinho Verde nem csupán egy bor, hanem a portugál életérzés, a 'joie de vivre' palackba zárt esszenciája.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Der Name bedeutet 'grüner Wein', bezieht sich aber auf seine Jugend, nicht auf seine Farbe.", "Die Region ist feucht und fruchtbar.", "Produziert Weiß-, Rot- und Roséweine."],
       hu: ["A neve 'zöld bort' jelent, de a fiatalságára utal, nem a színére.", "A régió nedves és termékeny.", "Fehér-, vörös- és rozéborokat is termelnek."],
       ro: ["Numele înseamnă 'vin verde', dar se referă la tinerețea sa, nu la culoare.", "Regiunea este umedă și fertilă.", "Produce vinuri albe, roșii și rosé."],
       en: ["The name means 'green wine' but refers to its youth, not its color.", "The region is humid and fertile.", "Produces white, red, and rosé wines."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A 'Vinho Verde' (zöld bor) név nem a bor színére, hanem fiatalságára és frissességére utal.", "A borvidéken elsősorban az Alvarinho, Loureiro és Trajadura szőlőfajtákat termesztik.", "A régió borait hagyományosan fiatalon, a szüretet követő egy éven belül érdemes elfogyasztani."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Weinregion Vinho Verde erstreckt sich über den üppig grünen, feuchten Nordwesten Portugals zwischen den Flüssen Douro und Minho. Das regenreiche, atlantische Klima und die fruchtbaren Granitböden verleihen dem Wein seinen charakteristischen, frischen Geschmack. Traditionell wurden die Weinreben hoch in die Bäume wachsen gelassen, um darunter Platz für den Anbau anderer Feldfrüchte zu schaffen. Der Name 'Vinho Verde' (Grüner Wein) bezieht sich nicht auf die Farbe, sondern auf den jungen Charakter und die schnelle Reifezeit der Weine. Die Region bewahrt stolz ihre rustikalen landwirtschaftlichen Traditionen und ihre einzigartige Weinkultur.",
       "hu": "",
@@ -259,25 +194,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Un port crucial pe insula Madeira, fiind o destinație populară pentru navele de croazieră și o poartă vitală pentru mărfuri.",
       en: "A crucial port on the island of Madeira, serving as a popular stop for cruise ships and a vital gateway for goods."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Funchal kikötője Madeira szigetének lüktető szíve és legfontosabb tengeri kapuja, amely lenyűgöző természeti amfiteátrumban helyezkedik el. Történelmileg az Újvilágba tartó felfedezők és kereskedelmi hajók elengedhetetlen állomása volt, stratégiai fekvése miatt az Atlanti-óceán közepén. Ma a kikötő Európa egyik legkedveltebb óceánjáró terminálja, évente több százezer turistát fogadva a világ minden tájáról. A hajók érkezése mindig látványos esemény, különösen szilveszterkor, amikor a világ egyik legnagyobb tűzijátékát rendezik a kikötő felett. A modern infrastruktúra tökéletesen illeszkedik a város történelmi bájához, varázslatos atmoszférát teremtve.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Empfängt jährlich Hunderttausende von Kreuzfahrtpassagieren.", "Bekannt für seine spektakulären Silvesterfeuerwerke.", "Spielt eine wichtige Rolle in der Tourismuswirtschaft Madeiras."],
       hu: ["Évente több százezer tengerjáró utast fogad.", "Híres a látványos szilveszteri tűzijátékáról.", "Fontos szerepet játszik Madeira turisztikai gazdaságában."],
       ro: ["Primește sute de mii de pasageri de croazieră anual.", "Renumit pentru focurile de artificii spectaculoase de Revelion.", "Joacă un rol vital în economia turistică a Madeirei."],
       en: ["Receives hundreds of thousands of cruise passengers annually.", "Famous for its spectacular New Year's Eve fireworks display.", "Plays a vital role in Madeira's tourism economy."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötő a 15. század óta fontos csomópontja az atlanti tengeri kereskedelemnek.", "Funchal kikötője rendszeresen nyer el díjakat, mint Európa vezető óceánjáró desztinációja.", "A híres funchali szilveszteri tűzijátékot a kikötőben horgonyzó hajókról és a partról is tízezrek csodálják."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Der Hafen von Funchal liegt an der geschützten Südküste der Insel Madeira und ist das wichtigste maritime Tor des Archipels. Er blickt auf eine lange Geschichte zurück, in der er als entscheidender Versorgungsposten für portugiesische Seefahrer auf dem Weg in die Neue Welt diente. Eingebettet in ein spektakuläres Amphitheater aus steilen Bergen, bietet der Hafen einen atemberaubenden Anblick vom Meer aus. Heute hat sich der Hafen von einem Handelszentrum zu einem der führenden europäischen Anlaufpunkte für Kreuzfahrtschiffe entwickelt. Seine geografische Lage macht ihn auch zu einer wichtigen Station für transatlantische Überquerungen.",
       "hu": "",
@@ -308,25 +230,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "O fabrică de porțelan de prestigiu fondată în 1824, renumită pentru vesela sa de înaltă calitate și piesele decorative.",
       en: "A prestigious porcelain factory founded in 1824, renowned for its high-quality tableware and decorative pieces."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Vista Alegre porcelángyár 1824-es alapítása óta a portugál kézművesség és luxusipar egyik legismertebb szimbóluma. Az Ílhavo városában található manufaktúra története során mindig is az innovációt ötvözte a hagyományos mesterségbeli tudással, egyedi és művészi porcelántárgyakat alkotva. A gyár körül egy egész kisváros, a 'Bairro Operário' (munkásnegyed) épült ki, amely a dolgozók és családjaik életének központjává vált. A Vista Alegre darabokat ma már a világ legexkluzívabb asztalain és neves múzeumokban egyaránt megtaláljuk. A helyszínen található múzeum lenyűgöző bepillantást enged a porcelángyártás két évszázados evolúciójába.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Offizieller Lieferant für viele Königshäuser und Staatsoberhäupter.", "Der Fabrikkomplex umfasst ein Museum und eine Kapelle.", "Kombiniert traditionelle Handwerkskunst mit modernem Design."],
       hu: ["Számos királyi ház és államfő hivatalos beszállítója.", "A gyárkomplexum egy múzeumot és egy kápolnát is magában foglal.", "Ötvözi a hagyományos kézművességet a modern dizájnnal."],
       ro: ["Furnizor oficial pentru multe case regale și șefi de stat.", "Complexul fabricii include un muzeu și o capelă.", "Combină meșteșugul tradițional cu designul modern."],
       en: ["Official supplier to many royal houses and heads of state.", "The factory complex includes a museum and a chapel.", "Combines traditional craftsmanship with modern design."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A gyárat José Ferreira Pinto Basto alapította, a portugál királyi udvar támogatásával.", "A Vista Alegre porcelánokat számos királyi család és államfő használja világszerte hivatalos fogadásokon.", "A gyár területén egy múzeum, egy kápolna és egy színház is található, amely az egykori munkásközösséget szolgálta."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Porzellanmanufaktur Vista Alegre, gelegen in der Nähe von Ílhavo, ist ein Wahrzeichen der portugiesischen Industriegeschichte und Kunsthandwerks. Sie wurde im frühen 19. Jahrhundert gegründet und wuchs zu einer ganzen Industriestadt heran, inklusive Arbeitersiedlungen, einer Kapelle und einem Theater. Geografisch profitierte der Standort von der Nähe zur Ria de Aveiro, was den Transport von Rohstoffen erleichterte. Die Manufaktur vereint tief verwurzelte handwerkliche Traditionen mit international anerkanntem Design und Belieferung europäischer Königshäuser. Die Fabrik ist noch heute in Betrieb und verkörpert die Exzellenz der portugiesischen Porzellankunst.",
       "hu": "",
@@ -357,25 +266,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Barajul Alqueva a creat cel mai mare lac artificial din Europa de Vest, revoluționând agricultura în regiunea aridă Alentejo printr-un sistem masiv de irigații.",
       en: "The Alqueva Dam created the largest artificial lake in Western Europe, revolutionizing agriculture in the arid Alentejo region through a massive irrigation system."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Alqueva-gát és a hozzá kapcsolódó öntözőrendszer Portugália történetének egyik legjelentősebb mezőgazdasági és mérnöki projektje. A Guadiana folyón épült gát hozta létre Nyugat-Európa legnagyobb mesterséges tavát, gyökeresen átalakítva Alentejo régió száraz és aszályos tájait. Az öntözőrendszer több mint százezer hektárnyi termőföld vízellátását biztosítja, lehetővé téve az intenzív mezőgazdaságot, például az olajbogyó, a szőlő és a mandula termesztését. Ez a hatalmas vízbázis nemcsak a mezőgazdaságot forradalmasította, hanem új turisztikai és rekreációs lehetőségeket is teremtett a térségben. Az Alqueva projekt a fenntartható vízgazdálkodás és a regionális fejlesztés kiváló példája.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Ermöglicht den Anbau von Oliven, Mandeln, Weinreben und anderen Kulturen.", "Ein strategisches Projekt zur Bekämpfung der Wüstenbildung.", "Erzeugt auch Wasserkraft."],
       hu: ["Lehetővé teszi az olajbogyó, mandula, szőlő és más növények termesztését.", "Stratégiai projekt az elsivatagosodás elleni küzdelemben.", "Vízenergiát is termel."],
       ro: ["Permite cultivarea măslinelor, migdalelor, viței de vie și a altor culturi.", "Un proiect strategic pentru combaterea deșertificării.", "De asemenea, generează energie hidroelectrică."],
       en: ["Allows for the cultivation of olives, almonds, vines, and other crops.", "A strategic project to combat desertification.", "Also generates hydroelectric power."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["Az Alqueva-tó felszíne mintegy 250 négyzetkilométer, partszakasza pedig több mint 1000 kilométer hosszú.", "A gát építése 2002-ben fejeződött be, a tó teljes feltöltődése pedig közel egy évtizedig tartott.", "A víztározó nemcsak öntözésre, hanem hidroelektromos energiatermelésre is szolgál, ellátva a régió áramszükségletét."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Das Bewässerungssystem des Alqueva-Staudamms im trockenen Alentejo ist eines der ehrgeizigsten landwirtschaftlichen Projekte in der Geschichte Portugals. Der Staudamm am Fluss Guadiana schuf den flächenmäßig größten künstlichen See Europas. Dieses Megaprojekt veränderte die aride Geografie der Region grundlegend und verwandelte ausgetrocknete Böden in hochproduktive landwirtschaftliche Nutzflächen. Der kulturelle und wirtschaftliche Einfluss war enorm, da das System den Anbau von Oliven, Mandeln und Wein in riesigem Maßstab ermöglichte. Es dient zudem der Stromerzeugung und als Reserve gegen lang anhaltende Dürren.",
       "hu": "",
@@ -406,25 +302,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Sediul central și principala unitate de producție a mărcii Renova, renumită pentru produsele sale inovatoare și colorate din hârtie tissue, cum ar fi hârtia igienică neagră.",
       en: "The headquarters and main production facility of the Renova brand, famous for its innovative and colorful tissue paper products, such as black toilet paper."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Renova papírgyár Torres Novasban nemcsak egy ipari létesítmény, hanem a dizájn és az innováció nemzetközi hírű központja. A vállalat az 1930-as években kezdte meg működését, és az idők folyamán a higiéniai papírtermékek piacának forradalmasítójává vált. Világhírnevet a 'Renova Black', a világ első fekete toalettpapírjának bevezetésével szerzett, amely a mindennapi használati tárgyakat luxuscikké emelte. A gyár a Zêzere folyó forrásvidékénél található, és nagy hangsúlyt fektet a környezetbarát gyártási folyamatokra. A Renova márka ma a merész színek, az egyedi formatervezés és a portugál kreativitás szinonimája világszerte.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Eine portugiesische Marke, die weltweit präsent ist.", "Investiert stark in Design und Marketing.", "Hat eine starke Verpflichtung zur ökologischen Nachhaltigkeit."],
       hu: ["Világszerte jelen lévő portugál márka.", "Nagy hangsúlyt fektet a tervezésre és a marketingre.", "Erős elkötelezettsége van a környezeti fenntarthatóság iránt."],
       ro: ["Un brand portughez cu prezență globală.", "Investește masiv în design și marketing.", "Are un angajament puternic față de sustenabilitatea mediului."],
       en: ["A Portuguese brand with a global presence.", "Invests heavily in design and marketing.", "Has a strong commitment to environmental sustainability."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A Renova 2005-ben dobta piacra a híres fekete toalettpapírját, amely azóta design ikonként is ismert.", "A vállalat termékeit több mint 60 országban értékesítik, a párizsi és londoni luxusáruházaktól kezdve.", "A gyár működése szigorú környezetvédelmi szabványok szerint zajlik, kiemelten kezelve a víz- és erdőgazdálkodást."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Renova Papierfabrik nahe Torres Novas ist ein herausragendes Beispiel für die Innovationskraft der portugiesischen Konsumgüterindustrie. Das Unternehmen nutzte geschickt das reichhaltige Wasservorkommen der Quelle des Flusses Almonda, um seine Produktion im 19. Jahrhundert aufzubauen. Renova revolutionierte den Markt für Hygienepapier durch kühne Marketingstrategien und das Design von farbigem Toilettenpapier, insbesondere in Schwarz. Kulturell hat das Unternehmen es geschafft, ein alltägliches Gebrauchsgut in ein Lifestyle-Produkt zu verwandeln. Die Anlage ist tief im Felsental von Almonda verankert und respektiert die komplexe Karstgeografie der Umgebung.",
       "hu": "",
@@ -455,25 +338,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Unul dintre cele mai importante porturi de pescuit din Portugalia, renumit în special pentru captura de sardine. Tradiția pescărească a orașului îi modelează cultura și gastronomia.",
       en: "One of Portugal's most important fishing ports, especially known for its sardine catch. The town's fishing tradition shapes its culture and gastronomy."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Peniche halászkikötője Portugália egyik legfontosabb és leghagyományosabb tengeri központja, amely mélyen gyökerezik a portugál halászati kultúrában. A kikötő élete évszázadok óta a tenger ritmusához igazodik, és ma is az ország egyik legnagyobb halászflottájának ad otthont. A kora reggeli halpiac nyüzsgése, ahol a friss fogást árverezik, igazi autentikus élményt nyújt az idelátogatóknak. A helyi gazdaság szorosan összefonódik a halfeldolgozással és a konzerviparral, amelyek a régió fő megélhetési forrásait jelentik. Peniche nemcsak a halászatról, hanem a kiváló tengeri gasztronómiáról is híres, a helyi éttermek a legfrissebb halételeket kínálják.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Der tägliche Fischmarkt ist ein Zentrum der Aktivität.", "Ein wichtiger Lieferant von frischem Fisch für das ganze Land.", "Die Spitzenklöppelei war eine traditionelle Beschäftigung der Fischerfrauen."],
       hu: ["A napi halpiac a tevékenység központja.", "Fontos frisshal-ellátó az egész ország számára.", "A csipkeverés a halászfeleségek hagyományos foglalkozása volt."],
       ro: ["Piața zilnică de pește este un centru de activitate.", "Un furnizor major de pește proaspăt pentru întreaga țară.", "Dantelăria era o ocupație tradițională a soțiilor de pescari."],
       en: ["The daily fish auction is a hub of activity.", "A major supplier of fresh fish for the whole country.", "Bobbin lace making was a traditional occupation for fishermen's wives."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["Peniche kikötője az egyik legnagyobb szardínia- és makrélalerakó hely Portugáliában.", "A kikötőből indulnak a hajók a Berlengas-szigetekre, amely egy szigorúan védett természetvédelmi terület.", "A városban található halászhálókészítő műhelyek generációk óta őrzik a hagyományos kézműves technikákat."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Der Fischereihafen von Peniche ist einer der aktivsten und traditionsreichsten Häfen an der westlichen Atlantikküste Portugals. Auf einer markanten Halbinsel gelegen, profitiert der Hafen von seiner unmittelbaren Nähe zu fischreichen Gewässern. Die Geschichte von Peniche ist so eng mit der Fischerei verwoben, dass die Gezeiten und der Rhythmus der Boote das tägliche Leben bestimmen. Der Hafen ist besonders bekannt für den Fang von Sardinen und den Thunfischfang, der die lokale Konservenindustrie speist. Die kulturelle Identität der Hafenarbeiter und Fischer wird durch zahlreiche maritime Feste und Traditionen bewahrt.",
       "hu": "",
@@ -504,25 +374,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Regiunea Trás-os-Montes este casa rasei de vite Mirandesa, o rasă autohtonă apreciată pentru carnea sa de înaltă calitate, cu Denumire de Origine Protejată (DOP).",
       en: "The Trás-os-Montes region is home to the Mirandesa cattle, an autochthonous breed prized for its high-quality meat with a Protected Designation of Origin (PDO)."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Mirandesa szarvasmarha tenyésztése Trás-os-Montes régió, különösen Miranda do Douro környékének évszázados mezőgazdasági hagyománya. Ez az őshonos, robusztus és rendkívül ellenálló fajta tökéletesen alkalmazkodott Északkelet-Portugália zord éghajlatához és hegyvidéki terepéhez. A múltban elsősorban igavonó állatként használták a mezőgazdasági munkákhoz, ma azonban elsősorban kiváló minőségű húsa miatt tenyésztik. A 'Posta Mirandesa', a hagyományos módon, parázson sült vastag marhaszelet, a portugál gasztronómia egyik legféltettebb kincse. A Mirandesa fajta megőrzése nemcsak gazdasági, hanem fontos kulturális és örökségvédelmi feladat is a régió számára.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Die Rinder werden traditionell in extensiver Weidewirtschaft gehalten.", "Das Fleisch ist bekannt für seine Zartheit und seinen Geschmack.", "Trägt zur Erhaltung der Landschaft und der ländlichen Wirtschaft bei."],
       hu: ["A szarvasmarhákat hagyományosan extenzív legeltetéssel tartják.", "A hús ismert a puhaságáról és ízéről.", "Hozzájárul a táj és a vidéki gazdaság megőrzéséhez."],
       ro: ["Vitele sunt crescute în mod tradițional în sisteme de pășunat extensiv.", "Carnea este cunoscută pentru frăgezimea și aroma sa.", "Contribuie la conservarea peisajului și a economiei rurale."],
       en: ["The cattle are traditionally raised in extensive grazing systems.", "The meat is known for its tenderness and flavour.", "Contributes to the preservation of the landscape and rural economy."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A Mirandesa szarvasmarha húsa OEM (Oltalom alatt álló eredetmegjelölés) minősítéssel rendelkezik.", "Az állatokat jórészt hagyományos módon, kiterjedt legelőkön, szabadtartásban nevelik.", "A fajta jellegzetessége a gesztenyebarna szőrzet és a nagy, kifelé hajló szarvak."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Zucht der Mirandesa-Rinder ist tief in der isolierten Landschaft von Trás-os-Montes im Nordosten Portugals verwurzelt. Diese robuste Rinderrasse hat sich über Jahrhunderte an das raue Klima und die kargen Weideflächen der Grenzregion angepasst. Historisch wurden die Tiere vor allem als Arbeitstiere für die Feldarbeit und zum Ziehen von Karren eingesetzt, was ihre kräftige Statur erklärt. Kulturell sind sie ein integraler Bestandteil des ländlichen Lebens und der Identität der Region Miranda do Douro. Heute ist das hochwertige Mirandesa-Rindfleisch durch eine geschützte Ursprungsbezeichnung (DOP) geschützt und ein Symbol der portugiesischen Gastronomie.",
       "hu": "",
@@ -553,25 +410,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Un centru de inginerie și dezvoltare de produse lângă Porto, specializat în industria auto și aeronautică, lucrând la proiecte de mobilitate durabilă.",
       en: "A center for engineering and product development near Porto, specializing in the automotive and aeronautics industries, working on sustainable mobility projects."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A CEiiA (Kiválósági Központ az Innovációért és Autóiparért) Matosinhosban található, és Portugália vezető mérnöki és termékfejlesztési központja. A központ a mobilitás, a repülőgépipar, az óceánkutatás és az autóipar területén végez élvonalbeli kutatásokat és fejlesztéseket. A CEiiA kulcsszerepet játszik az intelligens városok és a fenntartható közlekedési megoldások, például az elektromos járművek és a megosztott mobilitási rendszerek tervezésében. A létesítmény nemzetközi vállalatokkal és egyetemekkel együttműködve segíti a portugál mérnöki tudás globális exportját. Az itt zajló innovációs munka nagyban hozzájárul az ország technológiai versenyképességének növeléséhez a 21. században.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Beteiligt an der Entwicklung von Elektrofahrzeugen und Leichtbaukomponenten.", "Arbeitet mit großen internationalen Automobilherstellern zusammen.", "Ein wichtiger Akteur im portugiesischen Innovationsökosystem."],
       hu: ["Részt vesz elektromos járművek és könnyű alkatrészek fejlesztésében.", "Nagy nemzetközi autógyártókkal dolgozik együtt.", "Fontos szereplő a portugál innovációs ökoszisztémában."],
       ro: ["Implicat în dezvoltarea vehiculelor electrice și a componentelor ușoare.", "Colaborează cu mari producători auto internaționali.", "Un jucător cheie în ecosistemul de inovare din Portugalia."],
       en: ["Involved in the development of electric vehicles and lightweight components.", "Collaborates with major international car manufacturers.", "A key player in Portugal's innovation ecosystem."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A CEiiA fejlesztette ki a 'mobi.me' rendszert, egy fejlett platformot a városi mobilitás menedzselésére.", "A központ részt vett a KC-390-es katonai szállító repülőgép tervezésében és fejlesztésében is.", "A fenntarthatóság jegyében a CEiiA új generációs elektromos rollerek és kerékpárok tervezésén is dolgozik."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Das CEiiA (Zentrum für Exzellenz und Innovation in der Automobilindustrie) in Matosinhos ist die treibende Kraft der portugiesischen High-Tech-Forschung für Mobilität. Die hochmoderne Anlage symbolisiert den Wandel Portugals von einer traditionellen Fertigungswirtschaft zu einer wissensbasierten Industrie. Geografisch im industriellen Herzen des Nordens angesiedelt, kooperiert das Zentrum eng mit Universitäten und internationalen Technologieunternehmen. Die Forschung konzentriert sich auf nachhaltige urbane Mobilität, Elektrofahrzeuge und Luft- und Raumfahrttechnologien. CEiiA ist entscheidend dafür, portugiesisches Know-how auf dem globalen Markt für intelligente Verkehrssysteme zu positionieren.",
       "hu": "",
@@ -602,25 +446,12 @@ export const poiExtraPortugalIndustry: POI[] = [
       ro: "Regiunea de Vest a Portugaliei este inima cultivării Pera Rocha, o varietate autohtonă de pere cu statut IGP (Indicație Geografică Protejată).",
       en: "The western region of Portugal is the heartland for the cultivation of Pera Rocha, a native pear variety with PGI (Protected Geographical Indication) status."
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Pera Rocha do Oeste (Oeste régió Rocha körtéje) gyümölcsösei Portugália középső partvidékének festői és gazdaságilag is meghatározó elemei. Ez az egyedi, őshonos körtefajta több mint 180 évvel ezelőtt véletlenül bukkant fel Sintra környékén, és azóta a régió büszkeségévé vált. A helyi mikroklíma, az Atlanti-óceán közelsége és a sajátos talajviszonyok adják a körte jellegzetes ropogós textúráját és édes, lédús ízét. A Pera Rocha termesztése a helyi gazdák generációinak nyújt megélhetést, és a termés jelentős részét exportálják a világ minden tájára. A kora őszi szüret idején a régió megtelik élettel, és számos fesztivál ünnepli a betakarítást.",
-      ro: "",
-      en: ""
-    },
     facts: {
       de: ["Eine der meist exportierten Früchte Portugals.", "Bekannt für ihre Knackigkeit und Süße.", "Die Ernte findet im August statt."],
       hu: ["Portugália egyik leggyakrabban exportált gyümölcse.", "Ismert a ropogósságáról és édességéről.", "A szüret augusztusban zajlik."],
       ro: ["Unul dintre cele mai exportate fructe din Portugalia.", "Cunoscută pentru textura sa crocantă și dulceață.", "Recoltarea are loc în luna august."],
       en: ["One of Portugal's most exported fruits.", "Known for its crispness and sweetness.", "The harvest takes place in August."]
-    }
-    factsAdvanced: {
-      de: [],
-      hu: ["A Pera Rocha do Oeste 2003 óta európai OEM (Oltalom alatt álló eredetmegjelölés) státusszal rendelkezik.", "A körte egy véletlen mutáció eredménye, amelyet egy Pedro António Rocha nevű gazda fedezett fel a 19. században.", "Portugália évente több tízezer tonna Rocha körtét exportál, főként az Egyesült Királyságba, Brazíliába és Marokkóba."],
-      ro: [],
-      en: []
-    },
-
+    },
     "descriptionAdvanced": {
       "de": "Die Obstgärten der Pera Rocha do Oeste prägen die fruchtbaren Ebenen und sanften Hügel der Region westlich von Lissabon. Das besondere Mikroklima dieser Gegend, beeinflusst durch die feuchten atlantischen Winde, schafft ideale Bedingungen für den Anbau dieser speziellen Birnensorte. Die Geschichte der Pera Rocha begann angeblich im 19. Jahrhundert, als ein Bauer in Sintra einen ungewöhnlichen Birnbaum auf seinem Land (der 'Rocha' oder Fels) entdeckte. Kulturell hat sich der Birnenanbau zu einem Eckpfeiler der lokalen Wirtschaft entwickelt und ganze Gemeinden vereint. Heute ist die Rocha-Birne einer der wichtigsten landwirtschaftlichen Exportartikel Portugals.",
       "hu": "",

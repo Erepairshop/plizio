@@ -1179,7 +1179,7 @@ export const austriaCities: POI[] = [
     image: "/geo-images/austria/arlberg.webp",
     description: {"de":"Der Arlberg, die natürliche Gebirgsgrenze zwischen den Bundesländern Tirol und Vorarlberg, ist ein weltweiter Mythos im alpinen Wintersport und gilt als die 'Wiege des alpinen Skilaufs'. Berühmte, mondäne Skidörfer wie St. Anton, Lech, Zürs und St. Christoph bilden zusammen mit Ski Arlberg das größte zusammenhängende Skigebiet Österreichs und eines der fünf größten der Welt. Über 300 Pistenkilometer und beispiellose Tiefschneehänge locken High Society, Könige und passionierte Freerider gleichermaßen an. Neben seinem Ruf als Skiparadies mit exzellenter Gastronomie und legendärem Après-Ski ist der Arlberg-Pass seit Jahrhunderten auch eine historisch bedeutsame Verkehrsverbindung zwischen West- und Zentraleuropa.","hu":"Az Arlberg, a Tirol és Vorarlberg tartományok közötti természetes hegyi határ, az alpesi téli sportok világszerte ismert mítosza, és az 'alpesi síelés bölcsőjének' tartják. Olyan híres, elegáns sífalvak, mint St. Anton, Lech, Zürs és St. Christoph alkotják együtt a Ski Arlberget, Ausztria legnagyobb összefüggő síterepét, és a világ öt legnagyobb síterepének egyikét. Több mint 300 kilométernyi sípálya és páratlan mélyhósí-lejtők vonzzák a felső tízezert, a királyokat és a szenvedélyes freeridereket egyaránt. A kiváló gasztronómiával és legendás après-ski (sízés utáni szórakozás) lehetőségekkel rendelkező síparadicsom hírneve mellett az Arlberg-hágó évszázadok óta történelmileg jelentős közlekedési kapcsolat Nyugat- és Közép-Európa között.","ro":"Arlberg, granița montană naturală dintre landurile Tirol și Vorarlberg, este un mit global în sporturile de iarnă alpine și este considerat „leagănul schiului alpin”. Sate de schi faimoase și sofisticate precum St. Anton, Lech, Zürs și St. Christoph formează împreună Ski Arlberg, cea mai mare zonă de schi contiguă din Austria și una dintre cele mai mari cinci din lume. Peste 300 de kilometri de pârtii și pante de zăpadă adâncă de neegalat atrag înalta societate, regalitatea și freeriderii pasionați în egală măsură. Pe lângă reputația sa de paradis al schiului cu o gastronomie excelentă și un legendar après-ski, Pasul Arlberg a fost și o conexiune de transport importantă istoric între vestul și centrul Europei de secole.","en":"The Arlberg, the natural mountain border between the federal states of Tyrol and Vorarlberg, is a global myth in alpine winter sports and is considered the 'cradle of alpine skiing'. Famous, sophisticated ski villages like St. Anton, Lech, Zürs, and St. Christoph together form Ski Arlberg, the largest contiguous ski area in Austria and one of the five largest in the world. Over 300 kilometers of slopes and unparalleled deep snow slopes attract high society, royalty, and passionate freeriders alike. In addition to its reputation as a ski paradise with excellent gastronomy and legendary après-ski, the Arlberg Pass has also been a historically significant transport connection between Western and Central Europe for centuries."}, facts: {"de":["Gilt als 'Wiege des alpinen Skilaufs' (der erste Skiclub wurde hier 1901 gegründet).","Ski Arlberg ist mit 302 Pistenkilometern das größte Skigebiet in Österreich.","Der Arlberg-Straßentunnel (knapp 14 km) ist der längste Straßentunnel Österreichs.","Lech und Zürs sind traditionelle Urlaubsorte des internationalen Jetsets und des Adels.","Hannes Schneider aus St. Anton revolutionierte mit der 'Arlberg-Technik' das Skifahren.","Der 'Weiße Ring' in Lech ist ein legendäres Skirennen und eine beliebte Skirunde.","Die Valluga (2.811 m) ist der höchste Berg im Arlberg-Skigebiet.","St. Christoph am Arlberg war einst ein Hospiz zur Rettung von Reisenden aus dem Schnee.","Der Arlberg-Eisenbahntunnel wurde bereits 1884 eröffnet.","Das Skigebiet ist berühmt für seine gigantischen Off-Piste- und Heliskiing-Möglichkeiten."],"hu":["Az 'alpesi síelés bölcsőjének' tartják (az első síklubot itt alapították 1901-ben).","A Ski Arlberg 302 kilométernyi pályájával a legnagyobb síterep Ausztriában.","Az Arlberg-közúti alagút (közel 14 km) Ausztria leghosszabb közúti alagútja.","Lech és Zürs a nemzetközi jet-set és a nemesség hagyományos üdülőhelyei.","A St. Anton-i Hannes Schneider az 'Arlberg-technikával' forradalmasította a síelést.","A lechi 'Fehér Gyűrű' (Der Weiße Ring) egy legendás síverseny és kedvelt sítúra.","A Valluga (2811 m) az Arlberg-síterep legmagasabb hegye.","St. Christoph am Arlberg egykor menedékház volt a hóban rekedt utazók megmentésére.","Az Arlberg-vasúti alagutat már 1884-ben megnyitották.","A síterep híres hatalmas off-piste (pályán kívüli) és heliskiing lehetőségeiről."],"ro":["Considerat „leagănul schiului alpin” (primul club de schi a fost fondat aici în 1901).","Ski Arlberg este cea mai mare zonă de schi din Austria, cu 302 km de pârtii.","Tunelul rutier Arlberg (aproape 14 km) este cel mai lung tunel rutier din Austria.","Lech și Zürs sunt destinații tradiționale de vacanță pentru înalta societate internațională și nobilime.","Hannes Schneider din St. Anton a revoluționat schiatul cu „Tehnica Arlberg”.","„Inelul Alb” (Der Weiße Ring) din Lech este o cursă legendară de schi și un circuit popular de schi.","Valluga (2.811 m) este cel mai înalt munte din zona de schi Arlberg.","St. Christoph am Arlberg a fost cândva un ospiciu pentru a salva călătorii din zăpadă.","Tunelul feroviar Arlberg a fost deschis încă din 1884.","Zona de schi este renumită pentru oportunitățile sale gigantice de schi off-piste și heliski."],"en":["Considered the 'cradle of alpine skiing' (the first ski club was founded here in 1901).","Ski Arlberg is the largest ski area in Austria with 302 km of slopes.","The Arlberg Road Tunnel (almost 14 km) is the longest road tunnel in Austria.","Lech and Zürs are traditional holiday destinations for the international jet set and nobility.","Hannes Schneider from St. Anton revolutionized skiing with the 'Arlberg technique'.","The 'White Ring' (Der Weiße Ring) in Lech is a legendary ski race and popular ski circuit.","The Valluga (2,811 m) is the highest mountain in the Arlberg ski area.","St. Christoph am Arlberg was once a hospice to rescue travelers from the snow.","The Arlberg Railway Tunnel was opened as early as 1884.","The ski area is famous for its gigantic off-piste and heliskiing opportunities."]}
   }
-
+,
   {
     "id": "at-villach",
     "type": "city",
@@ -2860,7 +2860,7 @@ export const austriaCities: POI[] = [
       ]
     }
   }
-
+  ,
   {
     id: "at-historic-centre-vienna",
     type: "historical",
@@ -3021,7 +3021,7 @@ export const austriaCities: POI[] = [
       en: ["Located above Kapfenberg in the Mürz Valley.", "A striking historic point in Upper Styria.", "Popular for medieval events and views.", "Connects city history with castle romance.", "A strong excursion spot for cultural travelers."]
     }
   }
-
+  ,
   {
     id: "at-kahlenberg",
     type: "mountain",
@@ -3182,7 +3182,7 @@ export const austriaCities: POI[] = [
       en: ["An Alpine river in Carinthia.", "Runs through narrow mountain valleys.", "Important for nature and active tourism.", "Strongly linked to glacier and Alpine landscapes.", "Typical of water-rich Carinthia."]
     }
   }
-
+  ,
   {
     id: "at-secession-building",
     type: "landmark",
@@ -3343,7 +3343,7 @@ export const austriaCities: POI[] = [
       en: ["A famous artistic clock in Vienna.", "Known for its daily hour show.", "Located in the center of the old town.", "A popular meeting point for city walks.", "A strong motif for clock and Vienna searches."]
     }
   }
-
+  ,
   {
     id: "at-port-of-vienna",
     type: "port",
