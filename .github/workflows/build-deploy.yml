@@ -64,28 +64,29 @@ jobs:
             IdentityFile ~/.ssh/id_ed25519
             StrictHostKeyChecking no
             UserKnownHostsFile=/dev/null
+            ServerAliveInterval 30
+            ServerAliveCountMax 240
+            TCPKeepAlive yes
           EOF
           chmod 600 ~/.ssh/config
 
-      - name: Upload to staging
-        run: |
-          scp $ARCHIVE_NAME hostinger:$TARGET_DIR/
-          ssh hostinger "
-            cd $TARGET_DIR &&
-            rm -rf $REMOTE_STAGING &&
-            mkdir -p $REMOTE_STAGING &&
-            tar -xzf $ARCHIVE_NAME -C $REMOTE_STAGING &&
-            test -f $REMOTE_STAGING/index.html &&
-            test -d $REMOTE_STAGING/_next
-          "
+      - name: Upload archive
+        run: scp $ARCHIVE_NAME hostinger:$TARGET_DIR/
 
-      - name: Activate deploy
+      - name: Extract & activate (single SSH session, no slow cp)
         run: |
           ssh hostinger "
-            cd $TARGET_DIR &&
-            rm -rf _next next_static &&
-            cp -r $REMOTE_STAGING/* . &&
-            if [ -d _next ]; then mv _next next_static; fi &&
-            rm -rf $REMOTE_STAGING $ARCHIVE_NAME &&
+            set -e
+            cd $TARGET_DIR
+            rm -rf $REMOTE_STAGING && mkdir -p $REMOTE_STAGING
+            tar -xzf $ARCHIVE_NAME -C $REMOTE_STAGING
+            test -f $REMOTE_STAGING/index.html && test -d $REMOTE_STAGING/_next
+            rm -rf _next next_static
+            for f in \$(ls -A $REMOTE_STAGING); do
+              rm -rf \"\$f\"
+              mv \"$REMOTE_STAGING/\$f\" .
+            done
+            if [ -d _next ]; then mv _next next_static; fi
+            rm -rf $REMOTE_STAGING $ARCHIVE_NAME
             test -f index.html && test -d next_static
           "
