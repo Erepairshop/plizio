@@ -860,12 +860,14 @@ export const portugalCulture: POI[] = [
       ro: "Universitatea din Coimbra este unul dintre cele mai vechi și mai prestigioase simboluri educaționale ale Portugaliei. Clădirile, curțile și bibliotecile sale o fac un simbol central al tradiției academice. Campusul de pe colină definește silueta orașului și atrage vizitatori internaționali. Pentru SEO despre Coimbra, educație și cultură, universitatea este un termen-cheie central.",
       en: "The University of Coimbra is one of Portugal's oldest and most prestigious educational landmarks. Its buildings, courtyards, and libraries make it a central symbol of academic tradition. The hilltop campus shapes the city skyline and attracts international visitors. For Coimbra, education, and culture SEO, the university is a core keyword."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The University of Coimbra is the oldest university in Portugal and one of the oldest in continuous operation in the world. Founded in 1290, it moved permanently to Coimbra in 1537, where it occupied a former royal palace. The university's historic campus is a UNESCO World Heritage site, famous for its magnificent Joanina Library, an opulent Baroque masterpiece that houses thousands of ancient books. The university is deeply intertwined with the city's identity, from the traditional black capes worn by students to the soulful Coimbra Fado sung in its medieval streets." },
     facts: {
       de: ["Sie gehört zum UNESCO-Welterbe.", "Die Universität wurde im 13. Jahrhundert gegründet.", "Die Biblioteca Joanina ist berühmt.", "Der Campus liegt auf einem Hügel.", "Coimbra wird stark von Studenten geprägt."],
       hu: ["Az UNESCO világörökség része.", "Az egyetemet a 13. században alapították.", "A Biblioteca Joanina híres.", "A campus egy dombon található.", "Coimbrát erősen meghatározzák a diákok."],
       ro: ["Face parte din patrimoniul UNESCO.", "Universitatea a fost fondată în secolul al XIII-lea.", "Biblioteca Joanina este faimoasă.", "Campusul se află pe o colină.", "Coimbra este puternic influențată de studenți."],
       en: ["It is part of the UNESCO World Heritage.", "The university was founded in the 13th century.", "The Biblioteca Joanina is famous.", "The campus sits on a hill.", "Students strongly shape Coimbra's identity."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The Joanina Library houses a colony of bats that protect the ancient books by eating insects at night.", "The university's traditional student capes inspired J.K. Rowling's Hogwarts uniforms.", "The iconic clock tower is affectionately nicknamed 'A Cabra' (The Goat) by students.", "It originally started in Lisbon before moving permanently to Coimbra."] },
     image: "/geo-images/portugal/land-university-coimbra.webp"
   },
   {
@@ -880,12 +882,14 @@ export const portugalCulture: POI[] = [
       ro: "Gara São Bento din Porto este faimoasă pentru panourile sale uriașe de azulejos. Sala gării povestește scene importante din istoria Portugaliei prin imagini ceramice. Este atât un nod de transport, cât și un reper cultural. Pentru SEO despre Porto, azulejos și arhitectură, São Bento este foarte puternic.",
       en: "Sao Bento Station in Porto is famous for its huge azulejo panels. The station hall tells key scenes of Portuguese history through ceramic artwork. It is both a transport hub and a cultural landmark. For Porto, azulejos, and architecture SEO, Sao Bento is especially strong."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "São Bento Railway Station in Porto is renowned globally for its stunning interior, entirely adorned with intricate blue and white azulejo tiles. Built in the early 20th century on the site of a former Benedictine monastery, the station's French Beaux-Arts architecture is visually striking. The main hall features over 20,000 tiles painted by Jorge Colaço, depicting key moments from Portuguese history and traditional rural scenes. It remains a fully operational transit hub, seamlessly blending everyday functionality with breathtaking historical art." },
     facts: {
       de: ["Die Halle ist mit Azulejos bedeckt.", "Der Bahnhof liegt im Zentrum von Porto.", "Die Bilder zeigen portugiesische Geschichte.", "São Bento ist ein viel fotografierter Ort.", "Er verbindet Alltag und Kunst."],
       hu: ["A csarnok azulejókkal borított.", "Az állomás Porto központjában található.", "A képek portugál történelmet ábrázolnak.", "São Bento sokat fotózott hely.", "A mindennapi közlekedést és a művészetet kapcsolja össze."],
       ro: ["Sala este acoperită de azulejos.", "Gara se află în centrul orașului Porto.", "Imaginile prezintă istoria Portugaliei.", "São Bento este un loc foarte fotografiat.", "Leagă viața de zi cu zi de artă."],
       en: ["The hall is covered in azulejos.", "The station is in central Porto.", "The images depict Portuguese history.", "Sao Bento is a heavily photographed spot.", "It connects everyday travel with art."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The 20,000 azulejo tiles took Jorge Colaço more than a decade to paint.", "The station is built precisely on the ruins of the Convent of São Bento da Avé-Maria.", "The tile panels illustrate significant battles like the Conquest of Ceuta in 1415.", "It is a central node for local trains traveling into the scenic Douro Valley."] },
     image: "/geo-images/portugal/land-sao-bento-station.webp"
   },
   {
@@ -900,12 +904,14 @@ export const portugalCulture: POI[] = [
       ro: "Portul Sines este cel mai important port de adâncime al Portugaliei și un nod logistic central. Joacă un rol major în comerțul internațional, energie și transportul de containere. Locația sa pe coasta de vest îl face strategic foarte valoros. Pentru SEO despre Portugalia, porturi și industrie, Sines este un termen de top.",
       en: "The Port of Sines is Portugal's most important deep-water port and a central logistics hub. It plays a major role in international trade, energy, and container traffic. Its position on the west coast makes it strategically very valuable. For Portugal, ports, and industry SEO, Sines is a top keyword."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Port of Sines is Portugal's largest and deepest artificial seaport, serving as a critical hub for international logistics and energy imports. Situated along the dramatic Alentejo coastline, its deep waters allow ultra-large container ships and oil tankers to dock easily. The port was established in the 1970s and has since expanded to include massive petrochemical and liquid natural gas (LNG) terminals. Despite its heavy industrial nature, the surrounding region of Sines retains immense historical value as the birthplace of legendary explorer Vasco da Gama." },
     facts: {
       de: ["Sines ist ein Tiefwasserhafen.", "Der Hafen ist für Container wichtig.", "Er liegt an der Atlantikküste.", "Die Logistikfunktion ist national bedeutsam.", "Die Lage eignet sich für Großschiffe."],
       hu: ["Sines mélyvízi kikötő.", "A kikötő fontos a konténerszállításban.", "Az Atlanti-óceán partján fekszik.", "Logisztikai szerepe országos jelentőségű.", "A helyszín nagy hajók fogadására alkalmas."],
       ro: ["Sines este un port de adâncime.", "Portul este important pentru containere.", "Se află pe coasta Atlanticului.", "Rolul logistic este important la nivel național.", "Locația este potrivită pentru nave mari."],
       en: ["Sines is a deep-water port.", "The port is important for containers.", "It sits on the Atlantic coast.", "Its logistics role is nationally important.", "The location suits very large ships."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["It handles more than half of Portugal's total maritime cargo traffic.", "Sines is the most important European gateway for liquid natural gas from the Americas.", "The port's waters reach a natural depth of up to 28 meters.", "The nearby city of Sines hosts a famous annual world music festival."] },
     image: "/geo-images/portugal/port-sines.webp"
   },
   {
@@ -920,12 +926,14 @@ export const portugalCulture: POI[] = [
       ro: "Portul Leixões este cel mai important port maritim din zona Porto și un motor pentru comerț și industrie. Leagă nordul Portugaliei de rutele maritime internaționale. Facilitățile portuare sunt un bun exemplu de infrastructură maritimă modernă. Pentru SEO despre Porto și economie, Leixões este un termen portuar puternic.",
       en: "The Port of Leixoes is the most important seaport in the Porto area and a driver of trade and industry. It connects the northern region with international shipping routes. The port facilities are a good example of modern maritime infrastructure. For Porto and economy SEO, Leixoes is a strong port keyword."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Port of Leixões, located in Matosinhos near Porto, is the largest artificial port in northern Portugal. Constructed in the late 19th century to bypass the treacherous sandbars of the Douro River, it plays a vital role in exporting the region's industrial goods, textiles, and famous Port wine. In recent years, Leixões has also become a major destination for luxury cruise ships, bolstered by its award-winning, spiraling modern cruise terminal. The bustling port area is closely linked with the local seafood industry, supplying the renowned fish restaurants of Matosinhos." },
     facts: {
       de: ["Der Hafen liegt nördlich von Porto.", "Er unterstützt den Handel im Norden.", "Leixões ist ein großer Industriehafen.", "Die Anbindung an die Stadt ist sehr wichtig.", "Er ist ein zentraler Knotenpunkt für den Atlantikverkehr."],
       hu: ["A kikötő Porto északi részén található.", "Támogatja az északi kereskedelmet.", "Leixões nagy ipari kikötő.", "A városhoz való kapcsolata nagyon fontos.", "Az atlanti forgalom központi csomópontja."],
       ro: ["Portul se află la nord de Porto.", "Sprijină comerțul din nord.", "Leixões este un mare port industrial.", "Conectarea cu orașul este foarte importantă.", "Este un nod central pentru traficul atlantic."],
       en: ["The port lies north of Porto.", "It supports trade in the north.", "Leixoes is a major industrial port.", "Its connection to the city is very important.", "It is a central node for Atlantic traffic."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The modern cruise terminal resembles a coiled ribbon and has won several architectural awards.", "It is the second busiest seaport in Portugal after Sines.", "The port's construction required massive granite breakwaters extending far into the Atlantic.", "It directly supports the vibrant fishing community and famous seafood eateries of Matosinhos."] },
     image: "/geo-images/portugal/port-leixoes.webp"
   },
   {
@@ -940,12 +948,14 @@ export const portugalCulture: POI[] = [
       ro: "Portul Setubal este strâns legat de pescuit, comerț și industria din zona Sado. Completează identitatea turistică a orașului cu o adevărată dimensiune economică maritimă. Apropierea de Lisabona și de peninsula Tróia îl face deosebit de relevant. Pentru SEO despre porturi, economie litorală și Setubal, este o intrare foarte bună.",
       en: "The Port of Setubal is closely tied to fishing, trade, and industry in the Sado area. It adds a real maritime economy side to the city's tourism identity. Its proximity to Lisbon and the Troia peninsula makes the location especially relevant. For ports, coastal economy, and Setubal SEO, it is a very solid entry."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Port of Setúbal is a versatile maritime hub located on the sheltered Sado River estuary, just south of Lisbon. Benefiting from deep, calm waters protected by the Tróia Peninsula, it handles a diverse range of cargo including vehicles, cement, and agricultural products. Historically, the port was essential for exporting the region's salt, canned sardines, and Moscatel wine. Today, the bustling waterfront perfectly balances its industrial operations with tourism, offering boat tours to observe the estuary's resident population of bottlenose dolphins." },
     facts: {
       de: ["Der Hafen liegt am Sado.", "Fischerei bleibt ein wichtiger Sektor.", "Setúbal verbindet Stadt und Wirtschaft.", "Die Lage ist nah an Lissabon.", "Der Hafen unterstützt regionale Logistik."],
       hu: ["A kikötő a Sado mentén található.", "A halászat továbbra is fontos ágazat.", "Setúbal összeköti a várost és a gazdaságot.", "A helyszín közel van Lisszabonhoz.", "A kikötő támogatja a regionális logisztikát."],
       ro: ["Portul se află pe Sado.", "Pescuitul rămâne un sector important.", "Setubal leagă orașul de economie.", "Locația este aproape de Lisabona.", "Portul sprijină logistica regională."],
       en: ["The port sits on the Sado estuary.", "Fishing remains an important sector.", "Setubal links city life and the economy.", "The location is close to Lisbon.", "The port supports regional logistics."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["It is one of Portugal's leading ports for 'Ro-Ro' (Roll-on/Roll-off) vehicle transport.", "The Sado estuary is home to a famous resident pod of bottlenose dolphins.", "The port area was historically central to Portugal's massive sardine canning industry.", "Its natural harbor is naturally sheltered from Atlantic storms by the Tróia Peninsula."] },
     image: "/geo-images/portugal/port-setubal.webp"
   },
   {
@@ -960,12 +970,14 @@ export const portugalCulture: POI[] = [
       ro: "Podgoriile Douro sunt printre cele mai cunoscute peisaje agricole din Portugalia și definesc imaginea nordului. Terasele, quintas și versanții abrupți creează un cadru viticol unic. Regiunea este asociată cu vinul de Porto, turismul și agricultura veche de secole. Pentru SEO despre Douro, vin și Portugalia, este un termen extraordinar de puternic.",
       en: "The Douro vineyards are among Portugal's best-known agricultural landscapes and define the look of the north. Terraces, quintas, and steep slopes create a unique wine-growing setting. The region stands for Port wine, tourism, and centuries of agriculture. For Douro, wine, and Portugal SEO, it is an exceptionally strong keyword."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Douro Vineyards are the visual hallmark of the world's oldest demarcated wine region, renowned for producing sweet, fortified Port wine. Over centuries, generations of farmers carved the steep schist slopes of the Douro Valley into spectacular, stepped terraces held up by dry stone walls. The harsh microclimate, characterized by scorching summers and freezing winters, stresses the vines to produce incredibly concentrated and flavorful grapes. This monumental agricultural effort has transformed the wild landscape into a UNESCO World Heritage site of unparalleled cultural and visual beauty." },
     facts: {
       de: ["Das Gebiet ist UNESCO-anerkannt.", "Hier wird Portwein erzeugt.", "Die Hänge sind terrassiert.", "Quintas sind Teil der Kulturlandschaft.", "Die Landwirtschaft prägt die lokale Identität."],
       hu: ["A terület UNESCO által elismert.", "Itt készül a portói bor.", "A domboldalak teraszosak.", "A quinták a kultúrtáj részei.", "A mezőgazdaság meghatározza a helyi identitást."],
       ro: ["Zona este recunoscută de UNESCO.", "Aici se produce vin de Porto.", "Versanții sunt terasati.", "Quintas fac parte din peisajul cultural.", "Agricultura definește identitatea locală."],
       en: ["The area has UNESCO recognition.", "Port wine is produced here.", "The slopes are terraced.", "Quintas are part of the cultural landscape.", "Agriculture defines the local identity."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The Douro Valley was officially demarcated as a protected wine region in 1756 by the Marquis of Pombal.", "Traditional 'rabelo' boats were once used to transport the wine barrels down the treacherous river to Porto.", "The region relies almost exclusively on ancient, indigenous grape varieties like Touriga Nacional.", "The steep terraces, known as 'socalcos', are entirely supported by mortarless stone walls."] },
     image: "/geo-images/portugal/agri-douro-vineyards.webp"
   },
   {
@@ -980,12 +992,14 @@ export const portugalCulture: POI[] = [
       ro: "Coruche este un centru al industriei portugheze a plutei și al peisajului cu stejari de plută din Alentejo. Regiunea reprezintă agricultura durabilă, utilizarea tradițională și know-how-ul de export. Arborii de plută dau peisajului un aspect foarte specific. Pentru SEO despre Portugalia, plută și cultură agricolă, Coruche este foarte relevant.",
       en: "Coruche is a center of Portugal's cork industry and the cork oak landscape in Alentejo. The region represents sustainable agriculture, traditional use, and export know-how. Cork trees shape the area's distinctive warm landscape. For Portugal, cork, and agricultural culture SEO, Coruche is highly relevant."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Coruche region in the Ribatejo province is often hailed as the cork capital of the world. It is characterized by vast 'montados', which are ancient, semi-wild agricultural landscapes dominated by cork oak trees. Portugal is the global leader in cork production, a deeply sustainable industry because the trees are never cut down; instead, their bark is carefully peeled off by skilled artisans every nine years. The montado ecosystem is a model of sustainable farming that provides a crucial habitat for endangered species, including the Iberian lynx and the Imperial eagle." },
     facts: {
       de: ["Coruche ist ein Korkzentrum.", "Korkeichen prägen die Landschaft.", "Die Region liegt im Alentejo.", "Portugal ist Weltmarktführer bei Kork.", "Die Nutzung ist nachhaltig und traditionell."],
       hu: ["Coruche a parafa központja.", "A paratölgyek formálják a tájat.", "A régió az Alentejóban található.", "Portugália a parafa világszintű vezetője.", "A hasznosítás fenntartható és hagyományos."],
       ro: ["Coruche este un centru al plutei.", "Stejarii de plută definesc peisajul.", "Regiunea se află în Alentejo.", "Portugalia este lider mondial la plută.", "Utilizarea este durabilă și tradițională."],
       en: ["Coruche is a cork center.", "Cork oaks define the landscape.", "The region lies in Alentejo.", "Portugal is a world leader in cork.", "The use is sustainable and traditional."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["A single cork oak tree can be harvested over a dozen times during its 200-year lifespan.", "The number painted on a harvested tree indicates the year its bark was last removed.", "Cork harvesting is one of the highest-paid agricultural jobs in the world due to the intense skill required.", "The cork forests are vital carbon sinks, absorbing millions of tons of CO2 annually."] },
     image: "/geo-images/portugal/agri-coruche-cork-oaks.webp"
   },
   {
@@ -1000,12 +1014,14 @@ export const portugalCulture: POI[] = [
       ro: "Autoeuropa din Palmela este unul dintre cele mai cunoscute proiecte industriale din Portugalia și un simbol al producției moderne. Locația reprezintă producția auto, forța de export și competența tehnică. Apropierea de Setubal și Lisabona îl face deosebit de important economic. Pentru SEO despre industrie, Portugalia și investiții, Autoeuropa este un termen clar.",
       en: "Autoeuropa in Palmela is one of Portugal's best-known industrial projects and a symbol of modern manufacturing. The site represents car production, export power, and technical expertise. Its proximity to Setubal and Lisbon makes it economically especially important. For industry, Portugal, and investment SEO, Autoeuropa is a clear winner."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Autoeuropa factory in Palmela is one of Portugal's most significant industrial complexes and a cornerstone of the national economy. Originally established in 1991 as a joint venture between Ford and Volkswagen, it is now fully owned by the Volkswagen Group. The sprawling, high-tech manufacturing plant produces several popular car models primarily for the European market and accounts for a significant percentage of Portugal's total exports. The facility is a showcase of modern automotive engineering, utilizing advanced robotics and supporting a massive ecosystem of local suppliers." },
     facts: {
       de: ["Der Standort liegt in Palmela.", "Automobilproduktion ist der Schwerpunkt.", "Er ist eng mit Exporten verbunden.", "Die Region profitiert wirtschaftlich stark.", "Das Werk steht für moderne Industrie."],
       hu: ["A telephely Palmelában található.", "A fő tevékenység az autógyártás.", "Erősen kötődik az exporthoz.", "A régió gazdaságilag sokat profitál.", "Az üzem a modern ipart képviseli."],
       ro: ["Locația se află în Palmela.", "Producția auto este activitatea principală.", "Este strâns legată de exporturi.", "Regiunea beneficiază economic foarte mult.", "Uzina reprezintă industria modernă."],
       en: ["The site is in Palmela.", "Car production is the main focus.", "It is strongly tied to exports.", "The region benefits economically.", "The plant stands for modern industry."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Autoeuropa is one of the largest single foreign direct investments in Portuguese history.", "The factory single-handedly represents over 1% of Portugal's entire Gross Domestic Product (GDP).", "It has a dedicated railway line connecting directly to the Port of Setúbal for exporting vehicles.", "The plant frequently pioneers advanced sustainable manufacturing practices within the VW group."] },
     image: "/geo-images/portugal/industry-autoeuropa-palmela.webp"
   },
   {
@@ -1020,12 +1036,14 @@ export const portugalCulture: POI[] = [
       ro: "Convento de Cristo din Tomar este unul dintre cele mai importante monumente istorice ale Portugaliei. Complexul a fost legat mai întâi de Templieri și apoi de Ordinul lui Hristos. Romanicul, goticul, stilul manuelin și Renașterea se află aici foarte aproape unele de altele. Pentru istoria Portugaliei, mănăstiri și SEO UNESCO, acest loc este un termen-cheie.",
       en: "The Convent of Christ in Tomar is one of Portugal's most important historic monuments. The complex was first linked to the Knights Templar and later to the Order of Christ. Romanesque, Gothic, Manueline, and Renaissance styles sit close together here. For Portugal history, monasteries, and UNESCO SEO, this place is a key term."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Convent of Christ in Tomar is a sprawling fortress and monastery complex that stands as a monumental legacy of the Knights Templar. Founded in the 12th century, it was the headquarters of the Templars and later the Order of Christ, which played a pivotal role in funding the Portuguese Age of Discovery. The architecture is a breathtaking timeline of Portuguese history, featuring an extraordinary mix of Romanesque, Gothic, Manueline, and Renaissance styles. The site's defining feature is the ornate Manueline window in the chapter house, covered in intricate nautical and esoteric carvings." },
     facts: {
       de: ["Der Ort war ein Templerzentrum.", "Der Komplex gehört zum UNESCO-Welterbe.", "Die Runde Kirche ist besonders bekannt.", "Tomar und das Monument sind eng verbunden.", "Die Architektur zeigt mehrere Epochen."],
       hu: ["A hely templomos központ volt.", "A komplexum az UNESCO világerökség része.", "A körtemplom különösen híres.", "Tomar és az emlékhely szorosan összekapcsolódik.", "Az építészet több korszakot mutat."],
       ro: ["Locul a fost un centru al Templierilor.", "Complexul face parte din patrimoniul UNESCO.", "Biserica rotundă este deosebit de cunoscută.", "Tomar și monumentul sunt strâns legate.", "Arhitectura arată mai multe epoci."],
       en: ["The site was a Templar center.", "The complex is part of UNESCO World Heritage.", "The round church is especially famous.", "Tomar and the monument are closely linked.", "The architecture shows several eras."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The circular 'Charola' church allowed Templar knights to attend mass while remaining on horseback.", "Prince Henry the Navigator served as the Grand Master of the Order of Christ and lived in the convent.", "The iconic Manueline window is considered the ultimate masterpiece of Portuguese late Gothic art.", "The complex includes an impressive Renaissance aqueduct that is over 6 kilometers long."] },
     image: "/geo-images/portugal/hist-convent-christ-tomar.webp"
   },
   {
@@ -1040,12 +1058,14 @@ export const portugalCulture: POI[] = [
       ro: "Cetatea Peniche păzește peninsula stâncoasă de pe coasta vestică a Portugaliei. Locul a fost mult timp o bază militară și mai târziu un simbol al detenției politice. Astăzi combină priveliștile spre mare, istoria și memoria colectivă. Pentru călătoriile în Portugalia, Peniche este un nume puternic pentru forturi, coastă și istorie recentă.",
       en: "Peniche Fortress guards the rocky peninsula on Portugal's west coast. The site was long a military base and later a symbol of political imprisonment. Today it combines sea views, history, and memory culture. For Portugal travel, Peniche is a strong name for forts, coast, and modern history."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Fortress of Peniche is a star-shaped coastal citadel built in the 16th century to defend Portugal against persistent pirate attacks. Positioned strategically on a rugged peninsula, the fort is a robust example of early modern military architecture. During the 20th century, the fortress gained a dark reputation as a high-security political prison under the authoritarian Estado Novo regime led by António de Oliveira Salazar. The dramatic 1960 escape of communist leader Álvaro Cunhal from its walls remains a legendary event. Today, it serves as a powerful museum dedicated to resistance, freedom, and local maritime history." },
     facts: {
       de: ["Die Festung liegt am Atlantik.", "Sie war ein wichtiger Militärpunkt.", "Später diente sie als Gefängnis.", "Peniche ist mit Erinnerungskultur verbunden.", "Die Lage macht sie landschaftlich auffällig."],
       hu: ["Az erőd az Atlanti-óceán partján áll.", "Fontos katonai pont volt.", "Később börtönként is szolgált.", "Peniche az emlékezetkultúrához kapcsolódik.", "A fekvése miatt tájképi szempontból is látványos."],
       ro: ["Cetatea se află pe Atlantic.", "A fost un punct militar important.", "Mai târziu a servit ca închisoare.", "Peniche este legată de memoria colectivă.", "Poziția o face foarte vizibilă peisagistic."],
       en: ["The fortress sits on the Atlantic.", "It was an important military point.", "Later it served as a prison.", "Peniche is tied to memory culture.", "Its location makes it highly visible."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The fortress was originally built on an island, which eventually connected to the mainland via sand accumulation.", "During the dictatorship, it was widely considered Portugal's most inescapable prison.", "The 1960 escape involved climbing down the sea-facing outer walls using knotted ropes.", "The museum also showcases the region's long tradition of making delicate bobbin lace."] },
     image: "/geo-images/portugal/hist-peniche-fortress.webp"
   },
   {
@@ -1060,12 +1080,14 @@ export const portugalCulture: POI[] = [
       ro: "Muzeul Național al Azulejo din Lisabona este dedicat artei portugheze a faianței. Expoziția arată cum azulejos au modelat arhitectura, viața de zi cu zi și identitatea vizuală. Muzeul funcționează într-o fostă mănăstire și are, prin el însuși, valoare istorică. Pentru SEO despre Lisabona, ceramică și design portughez, este un loc foarte puternic.",
       en: "The National Tile Museum in Lisbon is dedicated to Portuguese tile art. It shows how azulejos shaped architecture, everyday life, and visual identity. The museum sits in a former convent and has its own historic value. For SEO about Lisbon, ceramics, and Portuguese design, it is a very strong place."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The National Tile Museum (Museu Nacional do Azulejo) in Lisbon is dedicated to the uniquely Portuguese art of decorative ceramic tiles, or azulejos. Housed in the grand, 16th-century Convent of Madre de Deus, the museum displays an astonishing collection ranging from early Moorish geometric designs to vibrant contemporary pieces. The exhibits chronicle the evolution of tile-making techniques and their profound cultural significance in Portuguese architecture. The crown jewel of the collection is an immense, 23-meter-long panoramic tile mural depicting the entire cityscape of Lisbon as it looked just before the devastating 1755 earthquake." },
     facts: {
       de: ["Azulejos sind ein zentrales Symbol Portugals.", "Das Museum befindet sich in einem Kloster.", "Es dokumentiert Jahrhunderte von Keramikkunst.", "Lissabon ist der beste Standort für dieses Thema.", "Die Sammlung ist für Designreisen wichtig."],
       hu: ["Azulejók Portugália egyik fő szimbólumai.", "A múzeum egy kolostorban működik.", "Évszázadok kerámiaművészetét mutatja be.", "Lisszabon a téma legjobb helyszíne.", "A gyűjtemény fontos a dizájnutazásokhoz."],
       ro: ["Azulejos sunt un simbol central al Portugaliei.", "Muzeul se află într-o fostă mănăstire.", "Documentează secole de artă ceramică.", "Lisabona este cel mai bun loc pentru acest subiect.", "Colecția este importantă pentru tururile de design."],
       en: ["Azulejos are a central symbol of Portugal.", "The museum is in a former convent.", "It documents centuries of ceramic art.", "Lisbon is the best location for this theme.", "The collection matters for design travel."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The word 'azulejo' comes from the Arabic 'al-zillij', meaning 'polished stone'.", "The museum's building features a spectacularly gilded baroque chapel covered in historic tiles.", "The grand panorama of Lisbon contains over 1,300 individual hand-painted tiles.", "Portuguese azulejos are completely unique as they are used extensively on the exteriors of buildings, not just interiors."] },
     image: "/geo-images/portugal/hist-national-tile-museum.webp"
   },
   {
@@ -1080,12 +1102,14 @@ export const portugalCulture: POI[] = [
       ro: "Castelul São Jorge domină centrul istoric al Lisabonei. Zidurile sale amintesc de straturile maure și medievale ale orașului. De sus se văd Tejo, orașul vechi și colinele capitalei. Pentru SEO despre Lisabona, castele și puncte de belvedere, este un termen puternic.",
       en: "São Jorge Castle overlooks Lisbon's historic center. Its walls recall the Moorish and medieval layers of the city. From the top you can see the Tagus, the old town, and the capital's hills. For SEO about Lisbon, castles, and viewpoints, it is a strong term."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "São Jorge Castle is a majestic Moorish fortress crowning the highest hill in Lisbon's historic center. With origins tracing back to Roman and Visigoth times, the castle was heavily fortified by the Moors before being conquered by Portugal's first king, Afonso Henriques, in 1147 during the Second Crusade. For centuries, it served as the royal palace and the ultimate seat of power in Portugal. Though partially ruined by the 1755 earthquake, extensive 20th-century restorations returned it to its former glory. Today, its ancient pine-shaded courtyards and walkable ramparts offer the most spectacular panoramic views over the Tagus River and the sprawling capital." },
     facts: {
       de: ["Die Burg ist ein Symbol Lissabons.", "Sie liegt auf einem der höchsten Hügel.", "Die Aussicht auf den Tejo ist berühmt.", "Der Ort verbindet maurische und portugiesische Geschichte.", "Die Mauern sind bis heute markant."],
       hu: ["A vár Lisszabon egyik jelképe.", "A város egyik legmagasabb dombján áll.", "A Tejóra nyíló kilátás híres.", "A hely mór és portugál történelmet kapcsol össze.", "A falak ma is meghatározóak."],
       ro: ["Castelul este un simbol al Lisabonei.", "Se află pe unul dintre cele mai înalte dealuri.", "Priveliștea spre Tejo este celebră.", "Locul combină istoria maură și portugheză.", "Zidurile sunt și astăzi foarte vizibile."],
       en: ["The castle is a symbol of Lisbon.", "It sits on one of the highest hills.", "The view over the Tagus is famous.", "The site combines Moorish and Portuguese history.", "The walls remain highly distinctive."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The legendary Portuguese knight Martim Moniz is said to have sacrificed himself by wedging his body in the castle doors to let his comrades enter.", "The castle grounds are home to a vibrant population of free-roaming peacocks.", "Vasco da Gama was celebrated within these walls by King Manuel I after his return from India in 1499.", "The castle's camera obscura provides a unique 360-degree optical projection of Lisbon in real-time."] },
     image: "/geo-images/portugal/land-sao-jorge-castle.webp"
   }
 ];
@@ -1103,12 +1127,14 @@ export const portugalNature: POI[] = [
       hu: "A Douro-völgy egy lenyűgöző régió Észak-Portugáliában, amely arról híres, hogy a világ legrégebbi kijelölt borvidéke. A Douro-folyó teraszos szőlőültetvényekkel borított meredek domboldalak között kanyarog, egyedülálló és gyönyörű tájat alkotva. Ez a portói bor szülőhelye, és lehetőséget kínál a látogatóknak történelmi borbirtokok (quinták) meglátogatására, folyami hajóutakra és a hagyományos portugál vendégszeretet megtapasztalására.",
       ro: "Valea Douro este o regiune uimitoare din nordul Portugaliei, faimoasă pentru că este cea mai veche regiune viticolă demarcată din lume. Râul Douro șerpuiește prin versanți abrupți acoperiți cu podgorii terasate, creând un peisaj unic și frumos. Este locul de naștere al vinului de Porto și oferă vizitatorilor șansa de a vizita proprietăți viticole istorice (quintas), de a se bucura de croaziere pe râu și de a experimenta ospitalitatea tradițională portugheză."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Douro Valley is an awe-inspiring natural and cultural landscape in northern Portugal, recognized as the world's oldest legally demarcated wine region. The valley is defined by the winding Douro River, which cuts deeply through steep mountains covered in meticulously constructed, terraced vineyards. These schist terraces reflect over two millennia of winemaking tradition and human perseverance against a challenging environment. Famous globally as the exclusive birthplace of Port wine, the valley's dramatic beauty changes with the seasons, from lush summer greens to blazing autumn reds and golds." },
     facts: {
       en: ["The Alto Douro Wine Region is a UNESCO World Heritage site.","The river flows from Spain to Porto.","The harvest season (vindima) is a major cultural event.","The region is also known for its olive oil and almonds."],
       de: ["Die Weinregion Alto Douro ist ein UNESCO-Weltkulturerbe.","Der Fluss fließt von Spanien nach Porto.","Die Erntezeit (Vindima) ist ein bedeutendes kulturelles Ereignis.","Die Region ist auch für ihr Olivenöl und ihre Mandeln bekannt."],
       hu: ["Az Alto Douro borvidék az UNESCO Világörökség része.","A folyó Spanyolországból folyik Porto felé.","A szüreti szezon (vindima) jelentős kulturális esemény.","A régió olívaolajáról és mandulájáról is ismert."],
       ro: ["Regiunea viticolă Alto Douro este un sit al Patrimoniului Mondial UNESCO.","Râul curge din Spania spre Porto.","Sezonul recoltei (vindima) este un eveniment cultural major.","Regiunea este cunoscută și pentru uleiul de măsline și migdale."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The region was officially demarcated for wine production in 1756 to protect the quality of Port wine.", "The steep terrain means that almost all grape harvesting is still done entirely by hand.", "In 2001, the Alto Douro Wine Region was designated a UNESCO World Heritage site.", "The scenic Linha do Douro railway runs tightly along the river, offering one of Europe's most picturesque train rides."] },
     image: "/geo-images/portugal/douro-valley.webp",
   },
   {
@@ -1123,12 +1149,14 @@ export const portugalNature: POI[] = [
       ro: "Regiunea Douro este cea mai veche regiune viticolă demarcată din lume și face parte din patrimoniul UNESCO. Versanții terasați de-a lungul râului oferă un decor uluitor pentru viticultură.",
       en: "The Douro Valley is the oldest demarcated wine region in the world and a UNESCO World Heritage site. The terraced hillsides along the river provide a breathtaking backdrop for viticulture."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Douro region is an extraordinary geographical marvel in northern Portugal, blending rugged natural beauty with ancient agricultural practices. The area is dominated by the majestic Douro River, which flows westward from the Spanish border down to the Atlantic Ocean at Porto. The landscape is a harsh yet stunning environment of steep schist hillsides and rocky outcrops, which have been painstakingly sculpted into terraced vineyards over centuries. This unique terroir, with its extreme variations in temperature, provides the perfect growing conditions for the indigenous grape varieties used to produce world-class fortified and table wines." },
     facts: {
       de: ["Wein wird hier seit über 2.000 Jahren angebaut.", "Es ist die Heimat des Portweins.", "Die Landschaft wurde über Jahrhunderte von Menschenhand geformt.", "Der Fluss entspringt in Spanien.", "Schifffahrten auf dem Douro sind sehr beliebt."],
       hu: ["Több mint 2000 éve termelnek itt bort.", "Ez a portói bor hazája.", "A tájat évszázadok alatt emberi kéz formálta.", "A folyó Spanyolországban ered.", "A Douro-folyón való hajózás nagyon népszerű."],
       ro: ["Vinul este produs aici de peste 2.000 de ani.", "Este patria vinului de Porto.", "Peisajul a fost modelat de mâna omului de-a lungul secolelor.", "Râul izvorăște din Spania.", "Croazierele pe Douro sunt foarte populare."],
       en: ["Wine has been produced here for over 2,000 years.", "It is the home of Port wine.", "The landscape has been shaped by human hands over centuries.", "The river rises in Spain.", "Boat trips on the Douro are very popular."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The name 'Douro' is often said to mean 'River of Gold' due to the golden color of the river in the sunlight.", "The river was highly dangerous to navigate until a series of locks and dams were built in the 20th century.", "Summers in the Douro can reach 40°C (104°F), while winters can drop below freezing.", "The region is home to over 100 indigenous grape varieties that thrive in the schist soil."] },
     image: "/geo-images/portugal/nat-douro.webp"
   },
   {
@@ -1143,12 +1171,14 @@ export const portugalNature: POI[] = [
       ro: "Serra da Estrela este cel mai înalt lanț muntos din Portugalia continentală. Este o rezervație naturală importantă și oferă singura posibilitate de schi din Portugalia în timpul iernii.",
       en: "Serra da Estrela is the highest mountain range in mainland Portugal. It is an important nature reserve and offers the only opportunity for skiing in Portugal during winter."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Serra da Estrela is the highest mountain range in mainland Portugal and a nature reserve of immense ecological importance. Reaching an elevation of 1,993 meters at its Torre peak, it is the only place in the country where skiing and winter sports are possible. The rugged, glacier-carved landscape is defined by deep valleys, crystal-clear alpine lakes, and massive granite boulder formations. The mountains are deeply rooted in pastoral traditions, most notably the breeding of the large Estrela Mountain Dog and the production of the region's famous creamy, artisanal sheep's cheese." },
     facts: {
       de: ["Der höchste Punkt ist der Torre mit 1.993 Metern.", "Die Region ist berühmt für ihren Schafskäse (Queijo Serra da Estrela).", "Es gibt hier eine eigene Hunderasse (Cão da Serra da Estrela).", "Das Gebirge ist Teil eines Geoparks.", "Es gibt zahlreiche Gletschertäler zu entdecken."],
       hu: ["Legmagasabb pontja a Torre, 1993 méter.", "A régió híres juhsajtjáról (Queijo Serra da Estrela).", "Saját kutyafajtája van (Cão da Serra da Estrela).", "A hegység egy geopark része.", "Számos gleccservölgy fedezhető fel itt."],
       ro: ["Cel mai înalt punct este Torre, cu 1.993 de metri.", "Regiunea este celebră pentru brânza de oaie (Queijo Serra da Estrela).", "Există o rasă proprie de câini (Cão da Serra da Estrela).", "Munții fac parte dintr-un geoparc.", "Există numeroase văi glaciare de descoperit."],
       en: ["The highest point is Torre, at 1,993 meters.", "The region is famous for its sheep cheese (Queijo Serra da Estrela).", "It has its own dog breed (Cão da Serra da Estrela).", "The mountain range is part of a geopark.", "There are numerous glacial valleys to discover."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The true peak, Torre, is artificially raised by a 7-meter stone tower to reach exactly 2,000 meters above sea level.", "The region produces Queijo Serra da Estrela, Portugal's most famous and pungent artisanal cheese.", "It is home to the source of the Mondego River, the longest river located entirely within Portugal.", "The area features dramatic glacial valleys, such as the breathtaking Zêzere Glacier Valley."] },
     image: "/geo-images/portugal/nat-serra-estrela.webp"
   },
   {
@@ -1163,12 +1193,14 @@ export const portugalNature: POI[] = [
       ro: "Ria Formosa din Algarve este un sistem vast de lagune și insule. Este una dintre cele mai importante zone umede pentru păsările migratoare și un ecosistem valoros.",
       en: "The Ria Formosa in the Algarve is a vast system of lagoons and islands. It is one of the most important wetlands for migratory birds and a valuable ecosystem."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Ria Formosa Nature Park is a stunning coastal lagoon system in the Algarve, consisting of a labyrinth of barrier islands, marshes, and tidal flats. Stretching for 60 kilometers along the southern coast, it acts as a crucial natural barrier protecting the mainland from the Atlantic Ocean. This ever-changing estuarine environment is an ecological treasure, serving as a vital wintering ground for thousands of migratory birds traveling between Europe and Africa. The shallow, sun-warmed waters are also essential for the local economy, heavily supporting traditional sea salt extraction and highly productive clam and oyster farming." },
     facts: {
       de: ["Es wurde zu einem der Sieben Naturwunder Portugals gewählt.", "Das Gebiet erstreckt sich über 60 Kilometer Küstenlinie.", "Es ist bekannt für seine Seepferdchen-Population.", "Traditionelle Salzgewinnung wird hier noch betrieben.", "Es ist ein Schutzgebiet für das Purpurhuhn."],
       hu: ["Portugália hét természeti csodájának egyikévé választották.", "A terület 60 kilométernyi partvonal mentén húzódik.", "Híres a csikóhal-populációjáról.", "Még ma is folyik itt hagyományos sólepárlás.", "A kék fú védett élőhelye."],
       ro: ["A fost aleasă una dintre Cele Șapte Minuni Naturale ale Portugaliei.", "Zona se întinde pe 60 de kilometri de coastă.", "Este cunoscută pentru populația sa de căluți de mare.", "Încă se practică extracția tradițională de sare.", "Este o arie protejată pentru găinușa albastră."],
       en: ["It was elected one of the Seven Natural Wonders of Portugal.", "The area extends along 60 kilometers of coastline.", "It is known for its seahorse population.", "Traditional salt production is still practiced here.", "It is a protected area for the purple swamphen."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The lagoon is one of the most important areas for aquatic birds in Portugal, hosting over 20,000 birds during winter.", "It is home to the largest global population of the rare seahorse species Hippocampus guttulatus.", "The barrier islands, such as Ilha do Farol, can only be reached by boat and have no cars.", "The shape of the sand islands constantly shifts and changes due to continuous wind and tidal action."] },
     image: "/geo-images/portugal/nat-ria-formosa.webp"
   },
   {
@@ -1183,12 +1215,14 @@ export const portugalNature: POI[] = [
       ro: "Peștera Benagil este o peșteră marină spectaculoasă de pe coasta Algarve, cunoscută pentru deschiderea sa circulară din tavan. Este accesibilă doar pe mare și este un punct culminant al oricărui tur de coastă.",
       en: "The Benagil Cave is a spectacular sea cave on the Algarve coast, famous for its circular ceiling opening. It is only accessible by sea and is a highlight of any coastal tour."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Benagil Sea Cave, known locally as the 'Algar de Benagil', is one of the most spectacular natural wonders on the Algarve coast. This massive, dome-shaped limestone cavern was created over millennia by the relentless pounding of the Atlantic waves. Its most famous feature is the large circular 'eye' or opening in the roof, which allows a single beam of sunlight to illuminate the hidden, golden sandy beach inside. Accessible only from the water via boat, kayak, or paddleboard, the cave has become a world-famous symbol of Portugal's dramatic coastal geology and a magnet for photographers." },
     facts: {
       de: ["Das Loch in der Decke wird 'Auge' genannt.", "Im Inneren der Höhle befindet sich ein kleiner Sandstrand.", "Sie wurde durch Meereserosion geformt.", "Der beste Weg dorthin ist mit dem Boot oder Kajak.", "Sie gehört zu den meistfotografierten Orten Portugals."],
       hu: ["A mennyezeten lévő nyílást 'szemnek' nevezik.", "A barlang belsejében egy kis homokos strand található.", "A tengeri erózió formálta.", "Legjobban hajóval vagy kajakkal közelíthető meg.", "Portugália egyik legtöbbet fotózott helyszíne."],
       ro: ["Deschiderea din tavan este numită 'ochi'.", "În interiorul peșterii se află o mică plajă cu nisip.", "A fost formată prin eroziune marină.", "Cea mai bună cale de a ajunge acolo este cu barca sau caiacul.", "Este unul dintre cele mai fotografiate locuri din Portugalia."],
       en: ["The hole in the ceiling is called the 'eye'.", "Inside the cave is a small sandy beach.", "It was formed by sea erosion.", "The best way to get there is by boat or kayak.", "It is one of the most photographed places in Portugal."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The cave's ceiling opening was formed by the collapse of a weak section of the limestone cliff.", "Swimming to the cave is strongly discouraged due to strong, unpredictable ocean currents.", "The interior of the cave has excellent acoustics, magnifying the sound of the crashing waves.", "The golden limestone walls of the cave display visible strata layers mapping millions of years of geological history."] },
     image: "/geo-images/portugal/nat-benagil.webp"
   },
   {
@@ -1203,12 +1237,14 @@ export const portugalNature: POI[] = [
       ro: "Parcul Natural Sintra-Cascais se întinde de la munții împăduriți din Sintra până la coasta accidentată a Atlanticului. Acesta include Cabo da Roca, cel mai vestic punct al Europei continentale.",
       en: "The Sintra-Cascais Natural Park extends from the forested mountains of Sintra to the rugged Atlantic coast. It includes Cabo da Roca, the westernmost point of mainland Europe."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Sintra-Cascais Natural Park is an incredibly diverse protected area that sweeps from the lush, fairy-tale mountains of Sintra down to the rugged Atlantic coastline. The park's dramatic landscape includes dense forests, steep coastal cliffs, and sweeping sand dunes. A major highlight of the park is Cabo da Roca, the westernmost point of continental Europe, where sheer cliffs plunge vertically into the churning ocean. The park's unique microclimate fosters a remarkable array of endemic flora and provides a haven for diverse wildlife, while its crashing waves attract surfers to beaches like the famous Praia do Guincho." },
     facts: {
       de: ["Cabo da Roca ist ein Teil des Parks.", "Die Region hat ein einzigartiges Mikroklima.", "Es gibt hier seltene Pflanzen- und Tierarten.", "Die Klippen bieten spektakuläre Ausblicke auf den Ozean.", "Der Park ist ein beliebtes Ziel für Wanderer."],
       hu: ["A Cabo da Roca a park része.", "A régiónak egyedülálló mikroklímája van.", "Ritka növény- és állatfajok élnek itt.", "A sziklák látványos kilátást nyújtanak az óceánra.", "A park a túrázók népszerű célpontja."],
       ro: ["Cabo da Roca face parte din parc.", "Regiunea are un microclimat unic.", "Există specii rare de plante și animale aici.", "Stâncile oferă vederi spectaculoase asupra oceanului.", "Parcul este o destinatie populară pentru drumeții."],
       en: ["Cabo da Roca is part of the park.", "The region has a unique microclimate.", "There are rare plant and animal species here.", "The cliffs offer spectacular views of the ocean.", "The park is a popular destination for hikers."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Cabo da Roca was described by poet Luís de Camões as the place 'where the land ends and the sea begins'.", "The park is home to a very rare species of orchid (Epipactis tremolsii) found almost nowhere else.", "The high winds at Praia do Guincho make it one of Europe's premier destinations for windsurfing and kitesurfing.", "The park's mountains are filled with ancient, moss-covered boulders and hidden romantic hermitages."] },
     image: "/geo-images/portugal/nat-sintra-cascais.webp"
   },
   {
@@ -1223,12 +1259,14 @@ export const portugalNature: POI[] = [
       ro: "Parcul Național Peneda-Gerês este singurul parc național al Portugaliei. Protejează peisaje montane sălbatice, sate vechi și specii rare, precum caii sălbatici.",
       en: "Peneda-Gerês National Park is Portugal's only national park. It protects wild mountain landscapes, old villages, and rare animals such as wild horses."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Peneda-Gerês National Park is Portugal's only officially designated national park, located in the extreme northwest bordering Spain. This vast, mountainous wilderness is characterized by rugged granite peaks, deep ravines, and ancient oak forests. The park is a vital sanctuary for biodiversity, sheltering rare Iberian wolves, wild Garrano ponies, and golden eagles. Scattered throughout the dramatic landscape are remote, traditional stone villages where time seems to have stood still, and agricultural practices have remained unchanged for centuries. The area also boasts a wealth of archaeological heritage, including perfectly preserved Roman roads and milestones." },
     facts: {
       de: ["Es ist der einzige Nationalpark Portugals.", "Der Park liegt im Norden des Landes.", "Er beherbergt wilde Pferde und andere seltene Arten.", "Traditionelle Bergdörfer sind Teil der Landschaft."],
       hu: ["Ez Portugália egyetlen nemzeti parkja.", "A park az ország északi részén található.", "Vadlovak és más ritka fajok élnek itt.", "Hagyományos hegyi falvak is a táj részét képezik."],
       ro: ["Este singurul parc național al Portugaliei.", "Parcul se află în nordul țării.", "Adăpostește cai sălbatici și alte specii rare.", "Satele montane tradiționale fac parte din peisaj."],
       en: ["It is Portugal's only national park.", "The park is in the north of the country.", "It is home to wild horses and other rare species.", "Traditional mountain villages are part of the landscape."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park contains the Geira, a Roman road featuring the highest concentration of ancient milestones in the world.", "It is the last refuge in Portugal for the endangered Iberian wolf.", "The traditional granite grain stores on stilts, called 'espigueiros', are iconic to the region.", "In some areas, wild Garrano horses roam completely free across the mountainous terrain."] },
     image: "/geo-images/portugal/nat-peneda-geres.webp"
   },
   
@@ -1244,12 +1282,14 @@ export const portugalNature: POI[] = [
       ro: "Serra da Estrela este cel mai înalt lanț muntos al Portugaliei continentale și o destinație naturală importantă în interior. Regiunea oferă peisaje alpine, forme glaciare, sate și turism de iarnă. Vara atrage prin trasee de drumeție și panorame, iar iarna apare adesea zăpada. Serra da Estrela este un cuvânt-cheie SEO puternic pentru munți, natură și Portugalia centrală.",
       en: "Serra da Estrela is the highest mountain range on mainland Portugal and an important inland nature destination. The region offers alpine scenery, glacial landforms, villages, and winter tourism. In summer it attracts hikers and panoramas, while in winter it often gets snow. Serra da Estrela is a strong SEO keyword for mountains, nature, and central Portugal."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Serra da Estrela Natural Park protects the highest mountain range in continental Portugal, a landscape of raw granite beauty and sweeping alpine meadows. During winter, the peaks are often blanketed in snow, transforming the region into the country's sole winter sports destination. The park is a geological wonder, deeply scarred by ancient glaciers that carved out the magnificent Zêzere Valley. Beyond its natural splendor, the park preserves a rich pastoral culture; the steep hillsides are still grazed by flocks of sheep guarded by the indigenous, fiercely loyal Estrela Mountain Dog." },
     facts: {
       de: ["Hier liegt der höchste Punkt des Festlands.", "Die Region ist im Winter oft schneereich.", "Sie ist berühmt für den Serra-Käse.", "Es gibt viele Wanderwege.", "Der Naturpark schützt die Landschaft."],
       hu: ["Itt található a szárazföld legmagasabb pontja.", "A régió télen gyakran havas.", "Híres a Serra sajtról.", "Sok túraútvonal található itt.", "A természetvédelmi park védi a tájat."],
       ro: ["Aici se află cel mai înalt punct al continentului.", "Regiunea are adesea zăpadă iarna.", "Este faimoasă pentru brânza Serra.", "Există multe trasee de drumeție.", "Parcul natural protejează peisajul."],
       en: ["It holds the mainland's highest point.", "The region often gets snow in winter.", "It is famous for Serra cheese.", "There are many hiking trails.", "The natural park protects the landscape."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The region's unique microclimate allows for the traditional curing of the renowned Serra da Estrela cheese.", "It is home to the highest town in Portugal, Guarda, which sits at over 1,000 meters altitude.", "The massive glacial valley of Zêzere is one of the largest in Europe, stretching for 13 kilometers.", "The Estrela Mountain Dog is one of the oldest dog breeds in the Iberian Peninsula."] },
     image: "/geo-images/portugal/nat-serra-da-estrela.webp"
   },
   {
@@ -1264,12 +1304,14 @@ export const portugalNature: POI[] = [
       ro: "Pico este cel mai înalt munte al Portugaliei și cel mai dramatic reper natural al Azorelor. Conul vulcanic se ridică mult deasupra Atlanticului și definește insula Pico. Peisajul este vulcanic, sălbatic și foarte fotogenic. Pico Mountain este un termen SEO de top pentru drumeții montane, Azore și natură insulară.",
       en: "Pico is Portugal's highest mountain and the Azores' most dramatic natural landmark. The volcanic cone rises far above the Atlantic and defines Pico Island. The landscape is volcanic, rugged, and highly photogenic. Pico Mountain is a top SEO term for mountain hiking, the Azores, and island nature."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Mount Pico is a majestic stratovolcano that completely dominates the island of Pico in the Azores archipelago. Standing at 2,351 meters above sea level, it is the highest peak in all of Portugal. The volcano's perfect, symmetrical cone often pierces the clouds, creating an awe-inspiring silhouette visible from neighboring islands. A demanding but highly rewarding hike to the summit reveals a secondary, smaller volcanic cone at the top, affectionately called 'Piquinho'. The lower slopes of the mountain are covered in unique, UNESCO-protected vineyards that grow from black volcanic basalt rock." },
     facts: {
       de: ["Pico ist Portugals höchster Berg.", "Er liegt auf den Azoren.", "Der Vulkan dominiert die Insel Pico.", "Die Landschaft ist lava- und vulkanisch geprägt.", "Wanderer nutzen ihn als Gipfelziel."],
       hu: ["A Pico Portugália legmagasabb hegye.", "Az Azori-szigeteken található.", "A vulkán uralja Pico szigetét.", "A tájat láva és vulkanikus formák jellemzik.", "A túrázók csúcscélpontként használják."],
       ro: ["Pico este cel mai înalt munte al Portugaliei.", "Se află în Azore.", "Vulcanul domină insula Pico.", "Peisajul este marcat de lavă și forme vulcanice.", "Drumeții îl folosesc drept obiectiv de vârf."],
       en: ["Pico is Portugal's highest mountain.", "It is in the Azores.", "The volcano dominates Pico Island.", "The landscape is shaped by lava and volcanic forms.", "Hikers use it as a summit goal."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The last major eruption of Mount Pico occurred relatively recently in 1720.", "Because it rises straight out of the deep ocean, its total base-to-peak height makes it a massive underwater mountain.", "Steam can still be seen escaping from fumaroles near the absolute summit.", "Climbers must register before ascending, and the hike involves navigating loose volcanic scree."] },
     image: "/geo-images/portugal/nat-pico-mountain.webp"
   },
   {
@@ -1284,12 +1326,14 @@ export const portugalNature: POI[] = [
       ro: "Lagoa das Sete Cidades este unul dintre cele mai faimoase lacuri de crater din Azore și un simbol al insulei São Miguel. Culorile diferite ale apei și caldera vulcanică îl fac celebru în lume. Punctele de belvedere, traseele și satele liniștite definesc zona. Sete Cidades este un termen SEO puternic pentru lacuri, Azore și călătorii în natură.",
       en: "Sete Cidades Lake is one of the Azores' most famous crater lakes and a symbol of São Miguel. The water's twin colors and the volcanic caldera make it world-famous. Viewpoints, hikes, and quiet villages define the area. Sete Cidades is a strong SEO keyword for lakes, the Azores, and nature travel."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Lagoa das Sete Cidades is an iconic, twin-lake crater located in the dormant caldera of the Sete Cidades massif on the Azorean island of São Miguel. It is famously known for its striking visual anomaly: one half of the lake reflects a vivid emerald green, while the other appears deep sapphire blue. According to local legend, the lakes were formed by the tears of a green-eyed princess and a blue-eyed shepherd who shared a forbidden love. The immense volcanic crater, spanning five kilometers in diameter, is surrounded by steep walls covered in lush, subtropical vegetation and blooming hydrangeas." },
     facts: {
       de: ["Der See liegt in einer Vulkancaldera.", "Er ist ein Wahrzeichen von São Miguel.", "Aussichtspunkte sind sehr beliebt.", "Die Landschaft ist oft wolkenreich und fotogen.", "Es gibt viele Wanderoptionen."],
       hu: ["A tó egy vulkáni kalderában fekszik.", "São Miguel jelképe.", "A kilátópontok nagyon népszerűek.", "A táj gyakran felhős és fotogén.", "Sok túralehetőség van."],
       ro: ["Lacul se află într-o calderă vulcanică.", "Este un simbol al insulei São Miguel.", "Punctele de belvedere sunt foarte populare.", "Peisajul este adesea înnorat și fotogenic.", "Există multe opțiuni de drumeție."],
       en: ["The lake sits in a volcanic caldera.", "It is a symbol of São Miguel.", "Viewpoints are very popular.", "The scenery is often cloudy and photogenic.", "There are many hiking options."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The two lakes are technically a single body of water, separated only by a narrow land bridge.", "The color difference is an optical illusion caused by varying depths and algae reflection.", "Sete Cidades translates to 'Seven Cities', a reference to mythical lost islands of the Atlantic.", "The viewpoint at Vista do Rei offers the most famous and breathtaking panorama of the lakes."] },
     image: "/geo-images/portugal/nat-sete-cidades-lake.webp"
   },
   {
@@ -1304,12 +1348,14 @@ export const portugalNature: POI[] = [
       ro: "Lagoa do Fogo este un lac de crater protejat în interiorul insulei São Miguel, în Azore. Zona pare sălbatică, verde și adesea învăluită în ceață. Este un paradis pentru drumeți, fotografi de natură și călătorii liniștite pe insule. Lagoa do Fogo este un nume SEO puternic pentru Azore, lacuri și peisaje vulcanice.",
       en: "Lagoa do Fogo is a protected crater lake in the interior of São Miguel in the Azores. The area feels wild, green, and often wrapped in mist. It is a paradise for hikers, nature photographers, and quiet island travel. Lagoa do Fogo is a strong SEO name for the Azores, lakes, and volcanic landscapes."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Lagoa do Fogo, meaning 'Lake of Fire', is a pristine and remote crater lake situated in the central mountains of São Miguel in the Azores. Positioned within the caldera of the Água de Pau massif, it is the highest lake on the island. The lake is entirely surrounded by steep, wild slopes cloaked in dense endemic vegetation, keeping it completely free from human development. Often shrouded in a mystical, shifting fog, the landscape reveals itself in dramatic bursts of clarity. The lake's crystalline blue waters and raw volcanic environment make it one of the most beautiful and unspoiled nature reserves in Portugal." },
     facts: {
       de: ["Der See ist ein Schutzgebiet.", "Er liegt auf São Miguel.", "Wanderwege führen in die Höhenzone.", "Die Landschaft ist vulkanisch geprägt.", "Der Ort ist für Fotos sehr beliebt."],
       hu: ["A tó védett terület.", "São Miguel szigetén található.", "Túraútvonalak vezetnek a magasabbi zónába.", "A táj vulkanikus eredetű.", "A hely nagyon népszerű fotózásra."],
       ro: ["Lacul este o zonă protejată.", "Se află pe São Miguel.", "Traseele duc în zona înaltă.", "Peisajul este de origine vulcanică.", "Locul este foarte popular pentru fotografii."],
       en: ["The lake is protected.", "It is on São Miguel.", "Trails lead into the high zone.", "The landscape is volcanic.", "The spot is very popular for photos."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The volcanic eruption that formed the current caldera occurred in 1563.", "It is a strictly protected nature reserve, meaning motorized boats and swimming are generally forbidden.", "The lake sits at an altitude of almost 600 meters above sea level.", "Seagulls use the isolated sandy shores of the lake as a major nesting ground."] },
     image: "/geo-images/portugal/nat-lagoa-do-fogo.webp"
   },
   {
@@ -1324,12 +1370,14 @@ export const portugalNature: POI[] = [
       ro: "Douro este unul dintre marile fluvii ale Peninsulei Iberice și un element definitoriu al nordului Portugaliei. Taie văi adânci prin peisaje viticole și ajunge până la Porto. Croazierele pe râu, podgoriile și orașele istorice îl fac foarte puternic turistic. Douro este un termen SEO important pentru râuri, vin și călătorii în Portugalia.",
       en: "The Douro is one of the great rivers of the Iberian Peninsula and a defining feature of northern Portugal. It cuts deep valleys through wine country and flows all the way to Porto. River cruises, vineyards, and historic towns make it especially strong for tourism. Douro is a key SEO term for rivers, wine, and Portugal travel."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Douro River is one of the major waterways of the Iberian Peninsula, originating in Spain and flowing vigorously across northern Portugal to empty into the Atlantic Ocean at Porto. The river's path has carved deep, dramatic gorges through solid rock, creating the spectacular valleys that define the region. Historically, the river was treacherous, filled with rapids that claimed many lives during the transport of Port wine. Today, a series of impressive hydroelectric dams have tamed the waters, transforming the river into a calm, navigable waterway that serves as the lifeblood of the surrounding UNESCO-recognized wine region." },
     facts: {
       de: ["Der Fluss mündet bei Porto in den Atlantik.", "Der Douro prägt das Weinland des Nordens.", "Am Fluss liegen viele historische Orte.", "River Cruises sind sehr beliebt.", "Die Landschaft gehört zu Portugals bekanntesten Bildern."],
       hu: ["A folyó Portónál ömlik az Atlanti-óceánba.", "A Douro meghatározza az északi borvidéket.", "A folyó mentén sok történelmi hely van.", "A folyami hajóutak nagyon népszerűek.", "A táj Portugália legismertebb képei közé tartozik."],
       ro: ["Fluviul se varsă în Atlantic la Porto.", "Douro definește regiunea viticolă din nord.", "De-a lungul lui se află multe locuri istorice.", "Croazierele pe râu sunt foarte populare.", "Peisajul este printre cele mai cunoscute imagini ale Portugaliei."],
       en: ["The river reaches the Atlantic at Porto.", "The Douro defines the northern wine region.", "Many historic places sit along the river.", "River cruises are very popular.", "The landscape is one of Portugal's best-known images."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The Douro River is approximately 897 kilometers long, making it one of the longest in the Iberian Peninsula.", "The Carrapatelo Dam on the Douro features one of the highest navigation locks in Europe, with a 35-meter drop.", "Before the dams were built, flat-bottomed 'rabelo' boats were the only vessels capable of navigating the rapids.", "The river's microclimate traps heat in the valley, creating perfect conditions for sweet grapes."] },
     image: "/geo-images/portugal/nat-douro-river.webp"
   },
   {
@@ -1344,12 +1392,14 @@ export const portugalNature: POI[] = [
       ro: "Tagus este cel mai lung fluviu al Peninsulei Iberice și definește viața din jurul Lisabonei. Estuarul său formează una dintre cele mai importante axe de apă ale Portugaliei. Fluviul leagă într-un mod impresionant istoria, economia portuară și cultura urbană. Tagus este un nume SEO puternic pentru râuri, Lisabona și peisaje de coastă portugheze.",
       en: "The Tagus is the longest river on the Iberian Peninsula and defines life around Lisbon. Its estuary forms one of Portugal's most important waterways. The river powerfully connects history, harbor economy, and city culture. Tagus is a strong SEO name for rivers, Lisbon, and Portuguese coastal scenery."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Tagus River, known as the Tejo in Portuguese, is the longest river in the Iberian Peninsula and the geographical heart of Portugal. It flows westward from Spain, dividing Portugal into the greener, hillier north and the flatter, drier Alentejo plains to the south. As it approaches Lisbon, the river widens into a massive, magnificent estuary—one of the largest in Europe—before finally meeting the Atlantic Ocean. The Tejo has been the historical gateway to Portugal, facilitating the nation's maritime expansion and continuing to support a vibrant ecosystem of wetlands, bird sanctuaries, and major port operations." },
     facts: {
       de: ["Lissabon liegt an der Tejo-Mündung.", "Der Fluss ist für Portugal historisch zentral.", "Er unterstützt Hafen- und Stadträume.", "Die Ufer sind touristisch wichtig.", "Der Tejo ist ein nationales Symbol."],
       hu: ["Lisszabon a Tejo torkolatánál fekszik.", "A folyó történelmileg központi Portugália számára.", "Kikötői és városi tereket támogat.", "A partjai turisztikailag fontosak.", "A Tejo nemzeti szimbólum."],
       ro: ["Lisabona se află la estuarul Tagusului.", "Fluviul este central în istoria Portugaliei.", "Sprijină zonele portuare și urbane.", "Malurile sale sunt importante turistic.", "Tagus este un simbol național."],
       en: ["Lisbon sits on the Tagus estuary.", "The river is historically central to Portugal.", "It supports harbor and urban spaces.", "Its banks matter greatly for tourism.", "The Tagus is a national symbol."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The massive Tagus estuary is so wide near Lisbon that it is locally referred to as the 'Straw Sea'.", "The river is spanned by the Vasco da Gama Bridge, which at 12 kilometers is one of the longest in Europe.", "The Tagus Estuary Nature Reserve is a critical stopover for over 120,000 migratory waterfowl.", "Lisbon's historic wealth was built entirely on the deep-water access provided by the Tagus."] },
     image: "/geo-images/portugal/nat-tejo-river.webp"
   },
   {
@@ -1364,12 +1414,14 @@ export const portugalNature: POI[] = [
       ro: "Berlengas este un mic arhipelag în largul coastei de vest a Portugaliei și un paradis natural protejat. Stâncile abrupte, apa limpede și peisajul sălbatic atlantic îl fac foarte atractiv. Insulele sunt populare pentru excursii cu barca, observarea păsărilor și experiențe liniștite în natură. Berlengas este un termen SEO puternic pentru insule, coastă și natură portugheză.",
       en: "The Berlengas are a small island group off Portugal's west coast and a protected natural paradise. Steep cliffs, clear water, and wild Atlantic scenery make them especially appealing. The islands are popular for boat trips, birdwatching, and quiet nature experiences. Berlengas is a strong SEO keyword for islands, coastline, and Portuguese nature."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Berlengas Archipelago is a rugged, pristine group of tiny granite islands located about 10 kilometers off the coast of Peniche. The main island, Berlenga Grande, is a harsh but stunning environment of sheer pinkish cliffs, deep sea caves, and crystal-clear waters. Due to its isolated and unspoiled nature, the archipelago is a highly protected UNESCO Biosphere Reserve, teeming with seabirds and diverse marine life. Human presence is strictly limited to a small number of daily visitors, a lighthouse keeper, and the spectacular 17th-century Fort of São João Baptista, which sits dramatically on a rocky islet connected by a narrow stone bridge." },
     facts: {
       de: ["Die Inseln liegen vor Peniche.", "Es gibt geschützte Meereslebensräume.", "Bootsausflüge sind die Hauptaktivität.", "Die Landschaft ist rau und atlantisch.", "Berlengas sind ein Naturschutzsymbol."],
       hu: ["A szigetek Peniche előtt fekszenek.", "Védett tengeri élőhelyek találhatók itt.", "A hajókirándulások a fő programok.", "A táj vad és atlanti jellegű.", "A Berlengas a természetvédelem jelképe."],
       ro: ["Insulele se află în largul Peniche.", "Există habitate marine protejate.", "Excursiile cu barca sunt activitatea principală.", "Peisajul este sălbatic și atlantic.", "Berlengas este un simbol al conservării naturii."],
       en: ["The islands lie off Peniche.", "There are protected marine habitats.", "Boat trips are the main activity.", "The scenery is rugged and Atlantic.", "Berlengas is a symbol of nature conservation."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The islands are a critical nesting ground for thousands of seagulls and the rare Cory's shearwater.", "The dramatic Fort of São João Baptista successfully fended off an attack by a massive Spanish fleet in 1666.", "There are absolutely no vehicles on the island, and solar energy is heavily relied upon.", "The incredibly clear waters make it one of Portugal's premier spots for scuba diving and snorkeling."] },
     image: "/geo-images/portugal/nat-berlengas-island.webp"
   },
   {
@@ -1384,12 +1436,14 @@ export const portugalNature: POI[] = [
       ro: "Laurisilva din Madeira este o pădure de lauri veșnic verde unică și un patrimoniu natural protejat de UNESCO. Pădurea arată o vegetație veche și umedă, cu un microclimat insular puternic. Traseele și pădurile de ceață o fac o destinație iconică pentru ecoturism. Laurisilva este un termen SEO puternic pentru pădure, Madeira și turismul în natură.",
       en: "Madeira Laurisilva is a unique evergreen laurel forest and a UNESCO-protected natural heritage site. The forest shows ancient, humid vegetation with a strong island microclimate. Trails and mist forests make it an iconic eco-travel destination. Laurisilva is a strong SEO keyword for forest, Madeira, and nature tourism."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Laurisilva of Madeira is an outstanding relic of a previously widespread laurel forest type that covered much of Southern Europe millions of years ago. Found in the misty, mountainous interior of Madeira island, this ancient, evergreen ecosystem is the largest surviving laurel forest in the world and a UNESCO World Heritage site. The damp, mystical forest is characterized by giant, moss-draped trees, cascading waterfalls, and an incredibly dense canopy that filters the sunlight. This unique botanical sanctuary plays a crucial role in capturing moisture from the clouds to supply the island's ingenious 'levada' irrigation network." },
     facts: {
       de: ["Der Wald ist UNESCO-geschützt.", "Er ist auf Madeira einzigartig.", "Die Vegetation ist uralt und feucht.", "Wandern ist hier sehr beliebt.", "Das Klima schafft dichte Nebelwälder."],
       hu: ["Az erdő UNESCO-védelem alatt áll.", "Madeirán egyedülálló.", "A növényzet ősi és nedves.", "A túrázás itt nagyon népszerű.", "Az éghajlat sűrű köderdőket hoz létre."],
       ro: ["Pădurea este protejată de UNESCO.", "Este unică în Madeira.", "Vegetația este veche și umedă.", "Drumețiile sunt foarte populare aici.", "Climatul creează păduri dese de ceață."],
       en: ["The forest is UNESCO protected.", "It is unique in Madeira.", "The vegetation is ancient and humid.", "Hiking is very popular here.", "The climate creates dense mist forests."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The forest is estimated to be over 15 million years old, surviving the last Ice Age.", "It covers approximately 20% of Madeira island, mostly on the steep, inaccessible northern slopes.", "The forest is home to the Madeira long-toed pigeon, a bird species found nowhere else on Earth.", "The network of 'levadas' (water channels) winding through the forest covers over 2,000 kilometers."] },
     image: "/geo-images/portugal/nat-madeira-laurisilva.webp"
   },
   {
@@ -1404,12 +1458,14 @@ export const portugalNature: POI[] = [
       ro: "Serra do Caramulo este un masiv montan important din centrul nordic al Portugaliei. Peisajul combină stânci, păduri și altitudini răcoroase. Este o destinație bună pentru panorame, drumeții și călătorii liniștite în interior. Pentru SEO despre munți, natură și regiunea Viseu, Caramulo este foarte potrivită.",
       en: "The Serra do Caramulo is a distinctive mountain range in central northern Portugal. The landscape combines rock, forest, and cool high ground. It is a good destination for panoramas, hiking, and quiet inland travel. For SEO about mountains, nature, and the Viseu region, Caramulo fits very well."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Serra do Caramulo is a tranquil, granite and schist mountain range located in the central Dão-Lafões region of Portugal. Known for its exceptionally pure air and crystal-clear spring waters, the mountain was famously used in the mid-20th century as a premier health resort for tuberculosis patients. The landscape features rolling hills covered in pine and eucalyptus forests, terraced green valleys, and spectacular viewpoints like the Caramulinho, which offers panoramas stretching to the distant coast. Today, the pristine environment attracts hikers, while the village of Caramulo is surprisingly home to a world-class classic car and art museum." },
     facts: {
       de: ["Das Gebirge liegt im Zentrum Nordportugals.", "Wanderungen sind hier beliebt.", "Die Höhenlage sorgt für kühleres Klima.", "Wald und Fels wechseln sich ab.", "Die Region ist landschaftlich sehr ruhig."],
       hu: ["A hegyvidék Észak-Portugália középső részén van.", "A túrázás itt népszerű.", "A magas fekvés hűvösebb klímát ad.", "Erdő és szikla váltakozik.", "A régió tájképileg nagyon nyugodt."],
       ro: ["Masivul se află în centrul nordic al Portugaliei.", "Drumețiile sunt populare aici.", "Altitudinea oferă un climat mai răcoros.", "Pădurea și stânca se alternează.", "Regiunea este foarte liniștită peisagistic."],
       en: ["The range sits in central northern Portugal.", "Hiking is popular here.", "The altitude creates a cooler climate.", "Forest and rock alternate.", "The region feels very calm."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The air quality is so high that the entire town of Caramulo was originally built as a sprawling sanatorium.", "The Caramulo Museum houses an unexpected, priceless collection of vintage Bugattis, Ferraris, and Picassos.", "The highest peak, Caramulinho, reaches 1,075 meters and offers views of the Serra da Estrela on clear days.", "The region is famous for producing high-quality honey and traditional, dark mountain bread."] },
     image: "/geo-images/portugal/mount-serra-do-caramulo.webp"
   },
   {
@@ -1424,12 +1480,14 @@ export const portugalNature: POI[] = [
       ro: "Serra de Montejunto este un lanț montan mic, dar distinct, la nord de Lisabona. Culmea oferă priveliști asupra câmpiei de coastă și a interiorului. Altitudinile sunt populare pentru plimbări și experiențe liniștite în natură. Pentru SEO despre munți lângă Lisabona și excursii în natură, Montejunto este foarte utilă.",
       en: "The Serra de Montejunto is a small but distinctive mountain range north of Lisbon. The ridge offers views over the coastal plain and inland areas. The high ground is popular for walks and quiet nature experiences. For SEO about mountains near Lisbon and nature outings, Montejunto is very useful."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Serra de Montejunto is a striking limestone mountain ridge located just an hour north of Lisbon. Often described as the 'Balcony of Estremadura', its highest peak provides sweeping, 360-degree views from the Atlantic coast to the Tagus Valley. The mountain features a rugged, karst landscape riddled with hidden caves and deep sinkholes. Historically, its high elevation was utilized by the Dominican order, who built a monastery and Portugal's first ice factory here in the 18th century, harvesting winter snow to supply ice to the royal court in Lisbon." },
     facts: {
       de: ["Die Serra liegt nördlich von Lissabon.", "Sie bietet weite Blicke auf Küste und Inland.", "Sie ist gut für kurze Naturausflüge.", "Die Gegend ist ruhig und wenig urbanisiert.", "Der Kamm ist leicht erkennbar."],
       hu: ["A hegyvonulat Lisszabontól északra van.", "Széles kilátást ad a partra és a belső vidékekre.", "Rövid természetjárásra kiváló.", "A térség nyugodt és kevéssé urbanizált.", "A gerinc könnyen felismerhető."],
       ro: ["Masivul se află la nord de Lisabona.", "Oferă priveliști largi asupra coastelor și interiorului.", "Este bun pentru excursii scurte în natură.", "Zona este liniștită și puțin urbanizată.", "Culmea este ușor de recunoscut."],
       en: ["The range lies north of Lisbon.", "It gives broad views over coast and inland.", "It is good for short nature outings.", "The area is calm and lightly urbanized.", "The ridge is easy to recognize."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The ruins of the Real Fábrica do Gelo (Royal Ice Factory) are a unique monument to 18th-century industrial engineering.", "The mountain is a critical sanctuary for the rare Bonelli's eagle and several bat species.", "Its slopes are covered in vineyards that produce some of the finest wines of the Lisbon wine region.", "A series of old windmills dot the lower ridges, utilizing the strong Atlantic breezes."] },
     image: "/geo-images/portugal/mount-serra-de-montejunto.webp"
   },
   {
@@ -1444,12 +1502,14 @@ export const portugalNature: POI[] = [
       ro: "Lagoa das Furnas este un faimos lac vulcanic pe São Miguel. Versanții împăduriți și zonele geotermale aburinde creează o atmosferă foarte specială. Lacul este unul dintre cele mai cunoscute motive naturale ale Azorelor. Pentru SEO despre lacuri, peisaje vulcanice și Azore, este excelentă.",
       en: "Lagoa das Furnas is a famous volcanic lake on São Miguel. The wooded slopes and steaming geothermal fields create a very special atmosphere. The lake is one of the best-known natural motifs in the Azores. For SEO about lakes, volcanic landscapes, and the Azores, it is excellent."
     },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Lagoa das Furnas is a mystical volcanic crater lake situated in the lush, geothermal wonderland of the Furnas Valley on São Miguel Island in the Azores. The lake is famously flanked by bubbling, sulfurous mud pots, steaming fumaroles, and natural hot springs that testify to the active volcanic forces lying just beneath the surface. The shores of the lake are dominated by dense, subtropical vegetation and the haunting, neo-Gothic ruins of the Chapel of Nossa Senhora das Vitórias. Local chefs famously use the intense geothermal heat of the lake's shores to slow-cook 'Cozido das Furnas', a traditional meat and vegetable stew buried underground." },
     facts: {
       de: ["Der See liegt auf São Miguel.", "Vulkanismus prägt die Umgebung.", "Die Ufer sind stark bewaldet.", "Geothermie ist hier sichtbar.", "Der Ort ist ein Azoren-Klassiker."],
       hu: ["A tó São Miguel szigetén van.", "A környezetet a vulkanizmus formálja.", "A partok erősen erdősek.", "A geotermikus jelenségek láthatók.", "Ez egy azori klasszikus."],
       ro: ["Lacul se află pe São Miguel.", "Vulcanismul modelează zona.", "Malurile sunt puternic împădurite.", "Geotermia este vizibilă aici.", "Locul este un clasic al Azorelor."],
       en: ["The lake sits on São Miguel.", "Volcanism shapes the area.", "The shores are heavily wooded.", "Geothermal activity is visible.", "The place is an Azores classic."]
     },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The 'Cozido' stew is cooked inside metal pots buried in the volcanic soil for over six hours.", "The lake is surrounded by lush forests containing trees imported from completely different global climates.", "The striking Chapel of Nossa Senhora das Vitórias was built by a wealthy local in the 19th century out of grief for his sick wife.", "Despite its beauty, the lake suffers from eutrophication, and massive environmental efforts are underway to restore its water quality."] },
     image: "/geo-images/portugal/lake-lagoa-do-furnas.webp"
   },
   {

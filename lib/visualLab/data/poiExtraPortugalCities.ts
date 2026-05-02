@@ -42,7 +42,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Hosts international sailing events.",
         "Home to the Santa Marta Lighthouse."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Cascais blickt auf eine reiche Geschichte zurück, die von einer bescheidenen Fischersiedlung zu einem königlichen Rückzugsort im 19. Jahrhundert führte. Die Stadt liegt an der malerischen Estoril-Küste und profitiert von einem milden Mikroklima. Kulturell verbindet Cascais traditionelle portugiesische Architektur mit eleganten Herrenhäusern und modernen Kunstgalerien. Die Nähe zum Sintra-Cascais-Naturpark macht es zu einem idealen Ausgangspunkt für Naturliebhaber. Heute ist die Küstenstadt ein Symbol für gehobene Lebensqualität und zieht Besucher aus aller Welt an.",
       "hu": "",
@@ -136,7 +137,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Known for its well-preserved medieval architecture.",
         "European Capital of Culture in 2012."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Guimarães wird oft als die Wiege der portugiesischen Nation bezeichnet, da hier im 12. Jahrhundert der erste König von Portugal, Afonso Henriques, geboren wurde. Die historische Altstadt ist außergewöhnlich gut erhalten und spiegelt die Entwicklung einer mittelalterlichen Siedlung zu einer modernen Stadt wider. Architektonisch dominieren gut erhaltene Gebäude vom 15. bis 19. Jahrhundert das Stadtbild. Die Stadt liegt in einer fruchtbaren Senke, umgeben von sanften Hügeln, die eine schützende Barriere bilden. Im Jahr 2012 war Guimarães Kulturhauptstadt Europas und feierte seine tief verwurzelte Geschichte.",
       "hu": "",
@@ -230,7 +232,8 @@ export const poiExtraPortugalCities: POI[] = [
         "A production center for Port wine and sparkling wine.",
         "The first Cortes (parliament) of Portugal was held here in 1143."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Lamego ist eine historische Bischofsstadt in der nordportugiesischen Region Douro, die für ihre terrassierten Weinberge berühmt ist. Die Stadt spielte eine Schlüsselrolle in der Geschichte des Landes, da hier 1143 die Cortes zusammenkamen, um Afonso Henriques als König anzuerkennen. Das Stadtbild wird geprägt von prächtigen Barockkirchen, eleganten Herrenhäusern und verwinkelten Gassen. Besonders markant ist die monumentale Barocktreppe, die zum Heiligtum Nossa Senhora dos Remédios führt. Die umliegende Landschaft ist geprägt von der jahrhundertealten Tradition des Weinbaus und der Herstellung von Portwein.",
       "hu": "",
@@ -324,7 +327,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Hosts the annual FMM Sines - World Music Festival.",
         "The castle overlooks the bay and the new port."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Sines ist eine bedeutende Hafen- und Industriestadt in der Region Alentejo, deren Ursprünge bis in die Römerzeit zurückreichen. Die Stadt ist weltweit als Geburtsort des berühmten Seefahrers Vasco da Gama bekannt, der den Seeweg nach Indien entdeckte. Geografisch zeichnet sich Sines durch eine raue, aber faszinierende Küstenlinie aus, die den tiefen Ozeanhafen beherbergt. Kulturell verbindet der Ort die Traditionen der Alentejo-Fischer mit der Dynamik eines modernen Energiezentrums. Das alljährliche FMM Sines Festival zieht internationale Musiker an und macht die Stadt zu einem kulturellen Hotspot.",
       "hu": "",
@@ -418,7 +422,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Offers stunning views of Porto's historic Ribeira district.",
         "Connected to Porto by several bridges, including the Dom Luís I Bridge."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Vila Nova de Gaia liegt am südlichen Ufer des Flusses Douro, direkt gegenüber der Stadt Porto. Bekannt ist die Stadt vor allem für die historischen Portweinkeller, in denen der berühmte Wein seit Jahrhunderten reift. Geografisch profitiert Gaia von ausgedehnten Sandstränden entlang der Atlantikküste und einer hügeligen Landschaft im Landesinneren. Die kulturelle Identität ist eng mit der Weinproduktion und den traditionellen Rabelo-Booten verknüpft, die früher die Fässer transportierten. Durch moderne Seilbahnen und renovierte Uferpromenaden hat sich die Stadt zu einem pulsierenden Touristenziel entwickelt.",
       "hu": "",
@@ -512,7 +517,8 @@ export const poiExtraPortugalCities: POI[] = [
         "A popular spot for surfing and other water sports.",
         "Home to the oldest casino in the Iberian Peninsula."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Figueira da Foz ist eine lebhafte Küstenstadt an der Mündung des Flusses Mondego, die sich zu einem der beliebtesten Badeorte Zentralportugals entwickelt hat. Im späten 19. und frühen 20. Jahrhundert erlebte die Stadt ihre Blütezeit als Treffpunkt der portugiesischen High Society. Die geografische Lage zwischen dem Fluss, dem Atlantik und den Hügeln der Serra da Boa Viagem bietet vielfältige Naturlandschaften. Kulturell ist die Stadt für ihr Casino im Belle-Époque-Stil und weite Sandstrände bekannt, die als 'Rainha das Praias' (Königin der Strände) bezeichnet werden. Auch heute lockt das reiche maritime Erbe zahlreiche Surfer und Sonnenanbeter an.",
       "hu": "",
@@ -606,7 +612,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Home to the famous Supertubos wave.",
         "The nearby Berlengas islands are a nature reserve."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Peniche liegt auf einer markanten Halbinsel an der portugiesischen Silberküste und war ursprünglich eine Insel, bevor sie durch Sandablagerungen mit dem Festland verbunden wurde. Die Stadt ist ein historisches Zentrum der portugiesischen Fischerei und spielte eine wichtige strategische Rolle bei der Verteidigung der Küste. Die raue geografische Formation mit steilen Klippen macht sie zu einem Mekka für Surfer aus aller Welt. Kulturell ist Peniche stark von den Traditionen der Seeleute und der Herstellung von Spitzenlöppelei geprägt. Die vorgelagerten Berlengas-Inseln unterstreichen die maritime Bedeutung der Region.",
       "hu": "",
@@ -700,7 +707,8 @@ export const poiExtraPortugalCities: POI[] = [
         "A popular spot for diving and dolphin watching.",
         "Swordfish is a local specialty."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Sesimbra ist ein traditionelles Fischerdorf am Fuß der Serra da Arrábida, das sich seinen authentischen maritimen Charakter bis heute bewahrt hat. Die Geschichte des Ortes ist tief mit dem Meer verbunden, was sich in den täglichen Fischauktionen und den lokalen gastronomischen Spezialitäten widerspiegelt. Die Bucht von Sesimbra ist durch die umliegenden Hügel vor starken Winden geschützt und bietet ideale Bedingungen für eine sichere Seefahrt. Über der Stadt thront eine maurische Burg, die von den wechselvollen Eroberungen in der Region zeugt. Die einzigartige Verbindung von Bergen und Ozean schafft ein ganz besonderes Mikroklima.",
       "hu": "",
@@ -794,7 +802,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The fisherwomen traditionally wear seven skirts.",
         "The Nazaré lighthouse is the best spot to watch the waves."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Nazaré ist weltbekannt für seine gigantischen Wellen und tief verwurzelten Fischereitraditionen. Die Stadt teilt sich in das moderne Zentrum am Strand und das historische Viertel Sítio auf den hohen Klippen. Der Nazaré Canyon, eine gewaltige Unterwasserschlucht vor der Küste, ist verantwortlich für die Entstehung der massiven Wellen, die Big-Wave-Surfer anlocken. Die Frauen von Nazaré tragen noch heute oft die traditionellen sieben Röcke, ein Symbol für die kulturelle Kontinuität des Ortes. Die Legende der Nossa Senhora da Nazaré prägt den Ort als eines der ältesten Pilgerziele Portugals.",
       "hu": "",
@@ -888,7 +897,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Home to the Estoril Circuit, a former host of Formula 1 races.",
         "A popular residence for exiled European royalty."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Estoril ist ein eleganter Küstenort westlich von Lissabon, der lange Zeit als Zufluchtsort für exilierte Monarchen und Aristokraten diente. Das milde Klima und die üppigen Gärten verleihen der Stadt ein mondänes Flair der Belle Époque. Geografisch profitiert der Ort von ruhigen Stränden, die durch die Mündung des Tejo geschützt sind. Estoril erlangte auch während des Zweiten Weltkriegs Berühmtheit, als sich hier Spione und Diplomaten aus aller Welt trafen. Heute ist die Stadt ein Synonym für Luxustourismus, geprägt durch das große Casino und prestigeträchtige Sportveranstaltungen.",
       "hu": "",
@@ -982,7 +992,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The monastery's kitchen is famous for its enormous size.",
         "A center for ceramics and fruit growing."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Alcobaça ist eine historisch bedeutsame Stadt in der Provinz Estremadura, eingebettet in die sanften Täler der Flüsse Alcoa und Baça. Die Stadt verdankt ihre Entwicklung der Ansiedlung von Zisterziensermönchen im 12. Jahrhundert, die Landwirtschaft und Kultur maßgeblich prägten. Das monumentale Kloster von Alcobaça ist das architektonische Meisterwerk der frühen portugiesischen Gotik und prägt das Stadtbild entscheidend. Kulturell ist der Ort untrennbar mit der tragischen Liebesgeschichte von König Pedro I. und Inês de Castro verbunden. Die umliegende Region zeichnet sich durch intensive Obstplantagen und eine reiche Tradition der Keramikkunst aus.",
       "hu": "",
@@ -1076,7 +1087,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The Unfinished Chapels (Capelas Imperfeitas) are a unique feature.",
         "A symbol of Portuguese independence."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Batalha ist ein kleiner, aber historisch monumentaler Ort in Zentralportugal, dessen Name wörtlich 'Schlacht' bedeutet. Die Stadt wurde zur Feier des portugiesischen Sieges über Kastilien in der Schlacht von Aljubarrota im Jahr 1385 gegründet. Das dominierende Bauwerk ist das Kloster von Batalha, eines der beeindruckendsten Beispiele für den manuelinischen und spätgotischen Baustil in Europa. Geografisch liegt Batalha in einer hügeligen Karstlandschaft, die für ihren Kalksteinabbau bekannt ist. Die Kultur des Ortes ist tief mit dem nationalen Stolz und dem Gedenken an die portugiesische Unabhängigkeit verwurzelt.",
       "hu": "",
@@ -1170,7 +1182,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The Sanctuary of Fátima includes a basilica and a large esplanade.",
         "The apparitions were witnessed by three shepherd children."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Fátima ist eines der weltweit bedeutendsten katholischen Wallfahrtszentren, gelegen in der kargen Landschaft des Maciço Calcário Estremenho. Der Ort verwandelte sich ab 1917 von einem unbekannten Hirtendorf in ein globales Pilgerziel, als drei Kinder von Marienerscheinungen berichteten. Geografisch ist die Region von Kalksteinhöhlen und trockenen Böden geprägt, die den ländlichen Ursprung unterstreichen. Die Architektur der Stadt wird vom monumentalen Heiligtum dominiert, das den großen Pilgermassen Platz bietet. Kulturell und wirtschaftlich ist Fátima heute fast vollständig auf den religiösen Tourismus ausgerichtet.",
       "hu": "",
@@ -1264,7 +1277,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Famous for its phallic-shaped cakes, 'doces fálicos'.",
         "Birthplace of the painter Amadeo de Souza-Cardoso."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Amarante ist eine malerische Stadt im Norden Portugals, eingebettet in die üppig grüne Landschaft des Tâmega-Tals und überragt von der Serra do Marão. Die Geschichte der Stadt ist eng mit São Gonçalo verbunden, einem Heiligen des 13. Jahrhunderts, der hier eine wichtige Brücke errichtet haben soll. Architektur und Natur verschmelzen hier harmonisch, wobei die Altstadt von barocken Kirchen und traditionellen Granithäusern geprägt ist. Die Region profitiert vom Weinbaugebiet des Vinho Verde, das die lokale Wirtschaft stärkt. Kulturell ist Amarante berühmt für seine süßen Backwaren, die oft als Symbole für Fruchtbarkeit gelten.",
       "hu": "",
@@ -1358,7 +1372,8 @@ export const poiExtraPortugalCities: POI[] = [
         "A replica 16th-century ship (Nau Quinhentista) is docked in the harbor.",
         "Hosts a major international short film festival."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Vila do Conde ist eine historische Stadt an der Mündung des Flusses Ave, die für ihre lange Tradition im Schiffbau und der Spitzenlöppelei bekannt ist. Die Küstenstadt profitierte im Zeitalter der Entdeckungen maßgeblich vom Bau der Karavellen, die die Weltmeere befuhren. Ein prächtiges Aquädukt und das Kloster Santa Clara dominieren die Skyline der Stadt und zeugen von ihrem einstigen Reichtum. Die sandigen Strände und die Mündungslandschaft machen den Ort geografisch besonders reizvoll. Heute verbindet Vila do Conde sein reiches maritimes Erbe mit einer modernen, entspannten Küstenatmosphäre.",
       "hu": "",
@@ -1452,7 +1467,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The Ceramics Museum (Museu de Cerâmica) showcases local crafts.",
         "Holds a daily open-air fruit and vegetable market (Praça da Fruta)."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Caldas da Rainha wurde im 15. Jahrhundert von Königin Leonor gegründet, die die heilende Wirkung der lokalen Thermalquellen erkannte. Die Stadt gilt als eines der ältesten Thermalbäder Europas und wuchs rund um das königliche Krankenhaus. Geografisch in der fruchtbaren Region Westportugals gelegen, wurde die Stadt auch zu einem bedeutenden Zentrum für Landwirtschaft und Kunsthandwerk. Im 19. Jahrhundert etablierte der Künstler Rafael Bordallo Pinheiro hier eine berühmte Keramikmanufaktur, die bis heute besteht. Die humorvolle und oft karikaturhafte Keramik ist ein zentraler Bestandteil der kulturellen Identität der Stadt.",
       "hu": "",
@@ -1546,7 +1562,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The Rooster of Barcelos symbolizes good luck and justice.",
         "An important center for artisan ceramics."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Barcelos ist eine lebendige Marktstadt in der nordportugiesischen Region Minho, tief verwurzelt in Tradition und Folklore. Die Stadt verdankt ihren Namen einer alten römischen Siedlung und florierte während des Mittelalters als wichtiger Handelsknotenpunkt. Die umliegende Landschaft ist geprägt von fruchtbaren Böden und traditioneller Landwirtschaft, was sich in dem riesigen wöchentlichen Markt widerspiegelt. Barcelos ist weithin berühmt als Ursprungsort der Legende des Hahns von Barcelos, der heute als inoffizielles Nationalsymbol Portugals gilt. Das historische Zentrum wird von den Ruinen des Palastes der Herzöge von Bragança dominiert.",
       "hu": "",
@@ -1640,7 +1657,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Famous for the traditional Pauliteiros dancers.",
         "The Miranda do Douro Cathedral was once the seat of the diocese."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Miranda do Douro liegt abgelegen im äußersten Nordosten Portugals, direkt an der Grenze zu Spanien, getrennt durch die tiefen Schluchten des Flusses Douro. Aufgrund seiner jahrhundertelangen Isolation hat die Region eine eigene Kultur und sogar eine eigene Sprache, das Mirandesische, bewahrt. Die Landschaft des Naturparks Douro Internacional zeichnet sich durch dramatische Klippen und seltene Vogelarten aus. Historisch fungierte die Stadt als wichtige Festung gegen spanische Invasionen. Die einzigartige Folklore, wie der traditionelle Stocktanz der 'Pauliteiros', unterstreicht die kulturelle Eigenständigkeit dieses Ortes.",
       "hu": "",
@@ -1734,7 +1752,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The Old Town retains its traditional charm.",
         "Offers a wide variety of beaches, from busy strips to secluded coves."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Albufeira war einst ein ruhiges maurisches Fischerdorf und hat sich zur bekanntesten Touristenhochburg der Algarve entwickelt. Der Name stammt vom arabischen 'Al-Buhera', was 'Burg des Meeres' bedeutet. Die Stadt liegt an einer von goldenen Klippen und Buchten geprägten Küste, die ihr eine markante Geografie verleiht. Nach dem verheerenden Erdbeben von 1755 musste Albufeira weitgehend neu aufgebaut werden, wobei der historische Kern mit seinen engen Gassen erhalten blieb. Heute kontrastiert das historische Zentrum stark mit dem modernen, lebhaften Nachtleben in der Umgebung der 'Oura-Straße'.",
       "hu": "",
@@ -1828,7 +1847,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Europe's first slave market was located here.",
         "A popular spot for boat trips to explore the grottoes."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Lagos ist eine historisch bedeutende Hafenstadt an der westlichen Algarve, die während des Zeitalters der Entdeckungen eine zentrale Rolle spielte. Hier rüstete Heinrich der Seefahrer im 15. Jahrhundert zahlreiche Expeditionen nach Afrika aus. Die Landschaft zeichnet sich durch dramatische Felsformationen wie die Ponta da Piedade aus, die von den Gewalten des Atlantiks geformt wurden. Lagos verbindet sein dunkles historisches Erbe, darunter Europas erster Sklavenmarkt, mit einer lebendigen, modernen Kunst- und Kulturszene. Die gut erhaltenen Stadtmauern aus dem 16. Jahrhundert rahmen die charmante Altstadt malerisch ein.",
       "hu": "",
@@ -1922,7 +1942,8 @@ export const poiExtraPortugalCities: POI[] = [
         "The marina is the largest in Portugal.",
         "Hosts international equestrian and golf competitions."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Vilamoura ist kein historisches Dorf, sondern eine in den 1970er Jahren künstlich angelegte Luxus-Feriensiedlung im Herzen der Algarve. Das Herzstück des Resorts ist der große Yachthafen, der zu den prestigeträchtigsten Europas zählt und von exklusiven Hotels und Boutiquen umgeben ist. Geografisch wurde das Gebiet so gestaltet, dass es weite Sandstrände mit gepflegten Golfplätzen und Naturschutzgebieten verbindet. Trotz des modernen Fokus beherbergt Vilamoura auch bedeutende römische Ruinen (Cerro da Vila), die die antike Geschichte des Ortes belegen. Die Siedlung repräsentiert das moderne, freizeitorientierte Gesicht des portugiesischen Tourismus.",
       "hu": "",
@@ -2016,7 +2037,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Serves as a residence for foreign heads of state visiting Portugal.",
         "The palace gardens are an important example of landscape design."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Queluz ist eine historische Stadt in der Metropolregion Lissabon, die in erster Linie für ihr prächtiges Nationalpalast-Ensemble berühmt ist. Der Palast von Queluz, oft als das 'portugiesische Versailles' bezeichnet, diente der königlichen Familie im 18. Jahrhundert als Sommerresidenz. Die Geografie des Ortes ist sanft hügelig und bot ideale Bedingungen für die weitläufigen, kunstvoll gestalteten königlichen Gärten. Kulturell spiegelt die Stadt den Übergang vom Barock zum Rokoko und Klassizismus wider, was sich in der opulenten Architektur zeigt. Heute bietet die Stadt einen ruhigen, majestätischen Kontrast zum hektischen Treiben des nahen Lissabon.",
       "hu": "",
@@ -2110,7 +2132,8 @@ export const poiExtraPortugalCities: POI[] = [
         "Known for the 'Monument to the Tragedy at Sea', honoring drowned fishermen.",
         "Its beaches are popular with surfers and beachgoers."
       ]
-    },,,
+    }
+,
     "descriptionAdvanced": {
       "de": "Matosinhos ist eine dynamische Küstenstadt nördlich von Porto, deren Geschichte untrennbar mit dem Meer und der Fischindustrie verbunden ist. Die Stadt beheimatet den künstlich angelegten Hafen von Leixões, einen der wichtigsten Seehäfen Portugals, der das wirtschaftliche Rückgrat der Region bildet. Die endlosen Sandstrände ziehen heute zahlreiche Surfer an, während die Uferpromenade für ihre hervorragenden Fischrestaurants bekannt ist. Architektonisch bietet Matosinhos eine faszinierende Mischung aus alter Fischerarchitektur und moderner Stadtplanung von Architekten wie Álvaro Siza Vieira. Der Kontrast zwischen industrieller Aktivität und Küstenfreizeit prägt den einzigartigen Charakter des Ortes.",
       "hu": "",
