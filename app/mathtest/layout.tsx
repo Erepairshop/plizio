@@ -103,6 +103,12 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <style>{`
+        /* Test paper inputs: force dark text on white bg (parent has text-white) */
+        input[type="text"], input[type="number"], textarea {
+          color: #1e293b;
+        }
+      `}</style>
       {children}
     </>
   );

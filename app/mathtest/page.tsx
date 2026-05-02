@@ -220,6 +220,37 @@ function MathTestPageInner() {
     setGameState("grade-select");
   };
 
+  // Prevent accidental exit during test (browser/Android back button + page unload)
+  useEffect(() => {
+    if (gameState !== "playing") return;
+    const cc = (country?.code || "US").toLowerCase();
+    const t = (cc === "de" ? "Bist du sicher, dass du den Test verlassen möchtest? Dein Fortschritt geht verloren."
+      : cc === "hu" ? "Biztosan elhagyod a tesztet? Minden eredmény elveszik."
+      : cc === "ro" ? "Sigur dorești să părăsești testul? Progresul tău se va pierde."
+      : "Are you sure you want to leave the test? Your progress will be lost.");
+    const beforeUnload = (e: BeforeUnloadEvent) => {
+      e.preventDefault();
+      e.returnValue = t;
+      return t;
+    };
+    const popstate = (e: PopStateEvent) => {
+      if (!confirm(t)) {
+        // Push current state back to undo back navigation
+        history.pushState(null, "", window.location.href);
+      } else {
+        router.push("/");
+      }
+    };
+    // Push a state so that first back press fires popstate (not actual back)
+    history.pushState(null, "", window.location.href);
+    window.addEventListener("beforeunload", beforeUnload);
+    window.addEventListener("popstate", popstate);
+    return () => {
+      window.removeEventListener("beforeunload", beforeUnload);
+      window.removeEventListener("popstate", popstate);
+    };
+  }, [gameState, country?.code, router]);
+
   // Ensure scroll to top when entering playing state
   useEffect(() => {
     if (gameState === "playing") {
