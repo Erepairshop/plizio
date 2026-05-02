@@ -206,7 +206,7 @@ function slugKey(lang: Lang, slug: string) {
 }
 
 function localizedPoiBaseSlug(poi: POI, lang: Lang) {
-  return slugify(poi.name[lang] || poi.name.de || poi.id);
+  return slugify(poi.name?.[lang] || poi.name?.de || poi.id);
 }
 
 function disambiguatedPoiSlug(poi: POI, lang: Lang) {
@@ -291,7 +291,7 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   }
   // HU legacy id (pl "fejer") -> ugyanaz
   if (HU_LEGACY_IDS.has(stateId)) return stateId;
-  return STATE_SLUGS[stateId]?.[lang] ?? slugify(REGION_BY_ID.get(stateId)?.name[lang] || REGION_BY_ID.get(stateId)?.name.de || stateId);
+  return STATE_SLUGS[stateId]?.[lang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[lang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }
 
 export function getStateForPoi(poi: POI) {
@@ -300,7 +300,7 @@ export function getStateForPoi(poi: POI) {
 
 export function localizedStateName(stateId: string, lang: Lang) {
   const state = REGION_BY_ID.get(stateId);
-  return state?.name[lang] || state?.name.de || stateId;
+  return state?.name?.[lang] || state?.name?.de || stateId;
 }
 
 export function buildCountryPath(lang: Lang, countryId: string = "germany") {
