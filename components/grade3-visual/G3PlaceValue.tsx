@@ -48,34 +48,34 @@ const G3PlaceValue: React.FC<Props> = ({
 
   return (
     <div className={`flex flex-col items-center gap-4 w-full ${embedded ? 'p-2' : 'p-6 bg-amber-50 rounded-2xl'}`}>
-      {/* Visual blocks */}
-      <div className="flex items-end gap-6 min-h-[120px] p-4 bg-white rounded-xl border border-amber-200">
+      {/* Visual blocks — wraps on narrow screens, smaller on mobile */}
+      <div className="flex flex-wrap items-end justify-center gap-2 sm:gap-4 min-h-[80px] sm:min-h-[120px] p-2 sm:p-4 bg-white rounded-xl border border-amber-200 max-w-full">
         {/* Hundreds — large squares */}
-        <div className="flex gap-1">
+        <div className="flex flex-wrap gap-1 max-w-full">
           {Array.from({ length: hundreds }).map((_, i) => (
-            <div key={`h-${i}`} className="w-10 h-10 border-2 border-blue-500 bg-blue-100 rounded flex items-center justify-center text-blue-700 text-xs font-bold">
+            <div key={`h-${i}`} className="w-7 h-7 sm:w-10 sm:h-10 border-2 border-blue-500 bg-blue-100 rounded flex items-center justify-center text-blue-700 text-[9px] sm:text-xs font-bold">
               100
             </div>
           ))}
-          {hundreds === 0 && <div className="w-10 h-10 opacity-20 border border-dashed border-blue-300 rounded" />}
+          {hundreds === 0 && <div className="w-7 h-7 sm:w-10 sm:h-10 opacity-20 border border-dashed border-blue-300 rounded" />}
         </div>
         {/* Tens — vertical bars */}
-        <div className="flex gap-1">
+        <div className="flex flex-wrap gap-1 max-w-full">
           {Array.from({ length: tens }).map((_, i) => (
-            <div key={`t-${i}`} className="w-4 h-10 border-2 border-green-500 bg-green-100 rounded flex flex-col justify-between py-0.5 overflow-hidden">
+            <div key={`t-${i}`} className="w-3 h-7 sm:w-4 sm:h-10 border-2 border-green-500 bg-green-100 rounded flex flex-col justify-between py-0.5 overflow-hidden">
               {Array.from({ length: 10 }).map((_, j) => (
                 <div key={j} className="w-full h-[8%] border-b border-green-300 last:border-0" />
               ))}
             </div>
           ))}
-          {tens === 0 && <div className="w-4 h-10 opacity-20 border border-dashed border-green-300 rounded" />}
+          {tens === 0 && <div className="w-3 h-7 sm:w-4 sm:h-10 opacity-20 border border-dashed border-green-300 rounded" />}
         </div>
         {/* Ones — small cubes */}
         <div className="grid grid-cols-3 gap-1 h-fit">
           {Array.from({ length: ones }).map((_, i) => (
-            <div key={`o-${i}`} className="w-4 h-4 border-2 border-orange-500 bg-orange-100 rounded" />
+            <div key={`o-${i}`} className="w-3 h-3 sm:w-4 sm:h-4 border-2 border-orange-500 bg-orange-100 rounded" />
           ))}
-          {ones === 0 && <div className="w-4 h-4 opacity-20 border border-dashed border-orange-300 rounded" />}
+          {ones === 0 && <div className="w-3 h-3 sm:w-4 sm:h-4 opacity-20 border border-dashed border-orange-300 rounded" />}
         </div>
       </div>
 
