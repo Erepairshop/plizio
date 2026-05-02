@@ -143,7 +143,6 @@ import { andorraAllPoi } from "../data/andorraPoi";
 import { poiExtraAndorraCities } from "../data/poiExtraAndorraCities";
 import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
-import { poiExtraMonacoCities } from "../data/poiExtraMonacoCities";
 import { vaticanMap, vaticanViewBox, projectCoordsVA } from "./vatican.svg";
 import { vaticanPois } from "../data/vaticanPoi";
 // ─── North America ────────────────────────────────────────────────────────
@@ -602,7 +601,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: monacoMap as unknown as BundeslandPath[],
         viewBox: monacoViewBox,
         projectCoords: projectCoordsMC,
-        pois: [...monacoAllPoi, ...poiExtraMonacoCities],
+        pois: [...monacoAllPoi],
         subregions: {},
       };
     // ─── North America ────────────────────────────────────────────────
