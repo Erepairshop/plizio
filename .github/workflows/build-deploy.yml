@@ -52,14 +52,25 @@ jobs:
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -p ${{ env.SSH_PORT }} -H ${{ env.SSH_HOST }} >> ~/.ssh/known_hosts
+          ssh-keyscan -p ${{ env.SSH_PORT }} -H ${{ env.SSH_HOST }} >> ~/.ssh/known_hosts 2>/dev/null || true
+          cat > ~/.ssh/config <<EOF
+          Host hostinger
+            HostName ${{ env.SSH_HOST }}
+            Port ${{ env.SSH_PORT }}
+            User ${{ env.SSH_USER }}
+            IdentityFile ~/.ssh/id_ed25519
+            StrictHostKeyChecking no
+            UserKnownHostsFile=/dev/null
+          EOF
+          chmod 600 ~/.ssh/config
 
       - name: Upload to staging
         run: |
-          scp -P $SSH_PORT $ARCHIVE_NAME $SSH_USER@$SSH_HOST:$TARGET_DIR/
-          ssh -p $SSH_PORT $SSH_USER@$SSH_HOST "
+          scp $ARCHIVE_NAME hostinger:$TARGET_DIR/
+          ssh hostinger "
             cd $TARGET_DIR &&
             rm -rf $REMOTE_STAGING &&
             mkdir -p $REMOTE_STAGING &&
@@ -70,7 +81,7 @@ jobs:
 
       - name: Activate deploy
         run: |
-          ssh -p $SSH_PORT $SSH_USER@$SSH_HOST "
+          ssh hostinger "
             cd $TARGET_DIR &&
             rm -rf _next next_static &&
             cp -r $REMOTE_STAGING/* . &&
