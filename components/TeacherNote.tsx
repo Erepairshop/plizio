@@ -139,11 +139,16 @@ const MESSAGES: Record<Lang, { excellent: ((n: string) => string)[]; good: ((n: 
   },
 };
 
+// Country-specific grading scales:
+// DE: 1=best, 6=worst (1-6, lower is better)
+// HU: 5=best, 1=worst (1-5, higher is better) — REVERSED!
+// RO: 10=best, 1=worst (1-10, higher is better)
+// EN: A/B/C/D/F (we map to displayed letter)
 const NOTE_LABELS: Record<Lang, Record<number, string>> = {
   DE: { 1: 'Sehr gut', 2: 'Gut', 3: 'Befriedigend', 4: 'Ausreichend', 5: 'Mangelhaft', 6: 'Ungenügend' },
-  EN: { 1: 'Excellent', 2: 'Good', 3: 'Satisfactory', 4: 'Adequate', 5: 'Poor', 6: 'Failing' },
-  HU: { 1: 'Jeles', 2: 'Jó', 3: 'Közepes', 4: 'Elégséges', 5: 'Elégtelen', 6: 'Elégtelen' },
-  RO: { 1: 'Excelent', 2: 'Bine', 3: 'Satisfăcător', 4: 'Suficient', 5: 'Insuficient', 6: 'Insuficient' },
+  EN: { 1: 'Excellent (A)', 2: 'Good (B)', 3: 'Satisfactory (C)', 4: 'Adequate (D)', 5: 'Poor (F)', 6: 'Failing (F)' },
+  HU: { 5: 'Jeles', 4: 'Jó', 3: 'Közepes', 2: 'Elégséges', 1: 'Elégtelen' },
+  RO: { 10: 'Excelent', 9: 'Foarte bine', 8: 'Bine', 7: 'Bine', 6: 'Suficient', 5: 'Suficient', 4: 'Insuficient', 3: 'Insuficient', 2: 'Insuficient', 1: 'Insuficient' },
 };
 
 const NOTE_WORD: Record<Lang, string> = { DE: 'Note', EN: 'Grade', HU: 'Jegy', RO: 'Nota' };
@@ -228,7 +233,29 @@ function getMessage(percentage: number, playerName: string, lang: Lang): string 
   return pool.improve[seed](playerName);
 }
 
-function getNoteValue(percentage: number): number {
+function getNoteValue(percentage: number, lang: Lang): number {
+  if (lang === 'HU') {
+    // HU 1-5, 5=best
+    if (percentage >= 90) return 5;
+    if (percentage >= 75) return 4;
+    if (percentage >= 60) return 3;
+    if (percentage >= 45) return 2;
+    return 1;
+  }
+  if (lang === 'RO') {
+    // RO 1-10, 10=best
+    if (percentage >= 95) return 10;
+    if (percentage >= 85) return 9;
+    if (percentage >= 75) return 8;
+    if (percentage >= 65) return 7;
+    if (percentage >= 55) return 6;
+    if (percentage >= 45) return 5;
+    if (percentage >= 35) return 4;
+    if (percentage >= 25) return 3;
+    if (percentage >= 15) return 2;
+    return 1;
+  }
+  // DE / EN: 1-6, 1=best (German style)
   if (percentage >= 90) return 1;
   if (percentage >= 80) return 2;
   if (percentage >= 65) return 3;
@@ -237,7 +264,17 @@ function getNoteValue(percentage: number): number {
   return 6;
 }
 
-function getNoteColor(note: number): string {
+function getNoteColor(note: number, lang: Lang): string {
+  // HU 5=best green, RO 10=best green
+  if (lang === 'HU') {
+    const colors: Record<number, string> = { 5: '#16a34a', 4: '#2563eb', 3: '#d97706', 2: '#ea580c', 1: '#dc2626' };
+    return colors[note] || '#374151';
+  }
+  if (lang === 'RO') {
+    const colors: Record<number, string> = { 10: '#16a34a', 9: '#16a34a', 8: '#2563eb', 7: '#2563eb', 6: '#d97706', 5: '#d97706', 4: '#ea580c', 3: '#dc2626', 2: '#dc2626', 1: '#7c3aed' };
+    return colors[note] || '#374151';
+  }
+  // DE/EN: 1=best green
   const colors: Record<number, string> = { 1: '#16a34a', 2: '#2563eb', 3: '#d97706', 4: '#ea580c', 5: '#dc2626', 6: '#7c3aed' };
   return colors[note] || '#374151';
 }
@@ -313,9 +350,9 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
-  const noteValue = getNoteValue(percentage);
+  const noteValue = getNoteValue(percentage, lang);
   const noteLabel = NOTE_LABELS[lang][noteValue];
-  const noteColor = getNoteColor(noteValue);
+  const noteColor = getNoteColor(noteValue, lang);
 
   const [phase, setPhase] = useState<'writing' | 'done'>('writing');
   useEffect(() => {
