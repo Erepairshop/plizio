@@ -19,7 +19,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Centrul administrativ al regiunii Elida.", "Aproape de situl antic Olympia.", "Nod de transport important."],
       en: ["Administrative center of the Elis region.", "Close to the ancient site of Olympia.", "Important transportation hub."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Pyrgos is the capital of the Elis regional unit in the western Peloponnese, serving as the commercial and administrative center of the area. The city experienced significant economic prosperity in the late 19th and early 20th centuries due to the lucrative export of Corinthian raisins, which funded the construction of impressive neoclassical buildings, including the majestic Municipal Market designed by renowned architect Ernst Ziller. Today, Pyrgos acts as a crucial transportation hub and a gateway for visitors traveling to the nearby archaeological site of Ancient Olympia, the birthplace of the Olympic Games. The city is surrounded by vast, fertile plains stretching to the Ionian Sea, known for their extensive agricultural production. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Pyrgos is the capital city of the Elis region in the Peloponnese.",
+      "The city grew rapidly in the 19th century due to the booming export trade of Corinthian raisins.",
+      "It features a notable Municipal Market designed by the famous architect Ernst Ziller.",
+      "Pyrgos serves as the primary gateway to the archaeological site of Ancient Olympia."
+    ]
+  }
+},
   {
     id: "city-corinth-extra",
     type: "city",
@@ -38,7 +51,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Succesorul orașului antic Corint.", "Nod comercial important.", "Poarta către peninsula Peloponez."],
       en: ["Successor to the ancient city of Corinth.", "Important commercial hub.", "Gateway to the Peloponnese peninsula."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Corinth is a historic and strategic city located on the narrow Isthmus that connects the Peloponnese peninsula to mainland Greece. Ancient Corinth was one of the largest, wealthiest, and most powerful city-states in ancient Greece, boasting two major ports and the formidable Acrocorinth fortress, which towers above the modern city. It is also highly significant in Christian history, as the Apostle Paul lived and preached here, establishing a major early church. Modern Corinth, rebuilt after a devastating earthquake in 1858, is a bustling urban center that relies heavily on agriculture, industry, and the maritime traffic passing through the nearby Corinth Canal. The city seamlessly connects its rich, visible ancient ruins with a dynamic modern lifestyle. History K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Ancient Corinth was one of the wealthiest and most influential city-states in Greece.",
+      "The Apostle Paul lived in Corinth and wrote two epistles (letters) to the Corinthians.",
+      "The city is guarded by Acrocorinth, a massive and historically significant hilltop fortress.",
+      "Modern Corinth was entirely rebuilt closer to the sea after a massive earthquake in 1858."
+    ]
+  }
+},
   {
     id: "city-aigio-extra",
     type: "city",
@@ -57,7 +83,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Unul dintre cele mai vechi orașe din Grecia.", "Exportator important de stafide și citrice.", "Vederi frumoase ale Golfului Corint."],
       en: ["One of the oldest cities in Greece.", "Major exporter of raisins and citrus fruits.", "Beautiful views of the Gulf of Corinth."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Aigio is a charming coastal city in the Achaea regional unit of the northern Peloponnese, overlooking the deep blue waters of the Corinthian Gulf. Built amphitheatrically on a hillside, the city is naturally divided into a bustling upper town and a picturesque lower coastal section, connected by a famous stone stairway. Aigio has a rich history dating back to antiquity when it was a prominent member of the Achaean League, and later played a significant role in the Greek War of Independence. The city is historically famous for the cultivation and export of the 'Vostizza' currant, a premium variety of Corinthian raisin that remains highly sought after worldwide. Today, visitors enjoy its beautiful waterfront, historic churches like Panagia Trypiti built into the rock, and relaxed atmosphere. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Aigio is amphitheatrically built and divided into an upper and a lower coastal town.",
+      "It is globally renowned for the production of 'Vostizza', a premium quality Corinthian currant.",
+      "The city played an important role during the Greek War of Independence.",
+      "The famous church of Panagia Trypiti is dramatically built directly into a cliff face."
+    ]
+  }
+},
   {
     id: "city-megara-extra",
     type: "city",
@@ -76,7 +115,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Oraș-stat important în Grecia antică.", "Casa Școlii Megariene de filozofie.", "Centru agricol în vremurile moderne."],
       en: ["Important city-state in ancient Greece.", "Home to the Megarian school of philosophy.", "Agricultural center in modern times."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Megara is an ancient and historic city located in the western part of the Attica region, situated on the coastal plain between the Saronic Gulf and the Gulf of Corinth. In antiquity, Megara was a powerful, seafaring city-state that established numerous significant colonies, most notably Byzantium, which later became Constantinople and modern-day Istanbul. The city was a fierce rival of nearby Athens, leading to the devastating Megarian Decree that helped spark the Peloponnesian War. Today, Megara is an agricultural center, particularly known for its extensive poultry farming and olive oil production. It is also famous for maintaining rich local folk traditions and hosting unique cultural events, such as the traditional 'Trata' dance performed every Easter. History K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Ancient Megara founded the colony of Byzantium, which later became Constantinople (Istanbul).",
+      "The city was a historic rival of Athens, playing a role in the outbreak of the Peloponnesian War.",
+      "Megara is famous for preserving its traditional Easter folk dance known as the 'Trata'.",
+      "It is a major agricultural producer in the Attica region, notably of poultry and olive oil."
+    ]
+  }
+},
   {
     id: "city-chalcis-extra",
     type: "city",
@@ -95,7 +147,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Evia.", "Locația Podului Euripus.", "Maree își schimbă direcția la fiecare șase ore."],
       en: ["Capital of Euboea.", "Site of the Euripus Bridge.", "The tides change direction every six hours."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Chalcis, or Chalkida, is the chief town and vibrant capital of the island of Euboea (Evia), uniquely situated at the narrowest point of the Euripus Strait. The city is famously connected to the Greek mainland by two bridges, including the impressive modern suspension bridge and the historic 'Old Bridge'. Chalcis is universally known for the 'Euripus phenomenon,' a bizarre and unique tidal occurrence where the strong water currents in the strait mysteriously change direction multiple times a day. Historically, it was a prosperous ancient maritime power that established wide-ranging colonies across the Mediterranean. Today, the city is a popular weekend getaway for Athenians, offering a beautiful, bustling waterfront promenade lined with cafes and famous seafood tavernas. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Chalcis is uniquely famous for the 'Euripus phenomenon', where tidal currents mysteriously reverse direction.",
+      "It is the capital city of Euboea, Greece's second-largest island.",
+      "The city is connected to the Greek mainland by both an old sliding bridge and a modern suspension bridge.",
+      "Ancient Chalcis was a major colonizing power, founding settlements in Italy and Sicily."
+    ]
+  }
+},
   {
     id: "city-thebes-extra",
     type: "city",
@@ -114,7 +179,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Scena multor mituri grecești, inclusiv mitul lui Oedip.", "Odinioară rival al Atenei și Spartei.", "Muzeu arheologic cu descoperiri importante."],
       en: ["The setting of many Greek myths, including the myth of Oedipus.", "Once a rival to Athens and Sparta.", "Archaeological museum with important finds."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Thebes, located in the Boeotia region of central Greece, is a city steeped in myth, legend, and ancient historical power. According to Greek mythology, it was founded by Cadmus and was the setting for the tragic stories of Oedipus, Dionysus, and Hercules. In antiquity, Thebes was the largest city in the region and reached the pinnacle of its power in the 4th century BC when, led by the brilliant general Epaminondas and the elite Sacred Band, it defeated Sparta to become the dominant force in Greece. The modern city sits directly atop the ancient citadel of the Cadmea, resulting in a dense layering of historical ruins beneath its streets. The newly renovated Archaeological Museum of Thebes is highly acclaimed, offering a spectacular journey through the region's complex, multi-layered history. History K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Thebes is the mythical birthplace of Hercules and the god Dionysus.",
+      "The city briefly ended Spartan dominance in Greece after the Battle of Leuctra in 371 BC.",
+      "It was famous for the 'Sacred Band', an elite military unit consisting of 150 pairs of lovers.",
+      "The modern city is built directly over the ancient citadel known as the Cadmea."
+    ]
+  }
+},
   {
     id: "city-livadeia-extra",
     type: "city",
@@ -133,7 +211,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala Beoției.", "Oracolul antic al lui Trophonius.", "Cunoscut pentru producția de lână."],
       en: ["Capital of Boeotia.", "Ancient Oracle of Trophonius.", "Known for its wool production."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Livadeia is the capital of the Boeotia regional unit, located in a picturesque setting in central Greece at the foot of Mount Helicon. The city's landscape is beautifully defined by the small river Erkyna, which flows directly through the city center, creating lush, tree-lined banks, stone bridges, and old watermills. In ancient times, Livadeia was famous throughout the Greek world for the Oracle of Trophonios, a deeply revered subterranean oracle that visitors consulted before heading to Delphi. Above the gorge of the Erkyna river sits an imposing medieval castle built by the Catalan Company in the 14th century. Today, Livadeia is widely celebrated across Greece for its traditional culinary specialty, 'souvlaki,' attracting food lovers from all over the country. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Livadeia is the capital of the Boeotia region.",
+      "The Erkyna river runs through the city, creating a picturesque, natural urban landscape.",
+      "It was the site of the ancient and highly respected Oracle of Trophonios.",
+      "The city is nationally famous for its traditional roasted meats, particularly souvlaki."
+    ]
+  }
+},
   {
     id: "city-lamia-extra",
     type: "city",
@@ -152,7 +243,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala prefecturii Ftiotida.", "O fortăreață medievală domină orașul.", "Nod de transport important în Grecia Centrală."],
       en: ["Capital of the Phthiotis prefecture.", "A medieval fortress overlooks the city.", "Important transport hub in Central Greece."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Lamia is a bustling commercial and administrative center serving as the capital of the Phthiotis regional unit and the broader Central Greece region. Built amphitheatrically on the slopes of Mount Othrys, the city overlooks the fertile valley of the Spercheios River extending towards the Malian Gulf. Lamia has a profound history dating back to antiquity, famously lending its name to the Lamian War in the 4th century BC. The city is crowned by a remarkably well-preserved medieval castle (the Kastro), which houses the local Archaeological Museum and offers sweeping views of the surrounding landscape, including the historic pass of Thermopylae in the distance. Today, Lamia is a lively transit hub connecting northern and southern Greece. History K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Lamia is the capital city of the Central Greece region.",
+      "The city is dominated by a well-preserved medieval castle known as the Kastro.",
+      "It lent its name to the ancient Lamian War, fought between Athens and Macedon.",
+      "Lamia overlooks the Spercheios River valley and is close to the historic site of Thermopylae."
+    ]
+  }
+},
   {
     id: "city-karditsa-extra",
     type: "city",
@@ -171,7 +275,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Oraș prietenos cu bicicletele.", "Centru agricol al Câmpiei Tesaliene.", "Situat lângă Lacul Plastiras."],
       en: ["Bicycle-friendly city.", "Agricultural center of the Thessalian Plain.", "Located near Lake Plastiras."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Karditsa is a highly dynamic and modern city located in the heart of the vast, fertile Thessalian plain in central Greece. Notably flat and well-planned, Karditsa is universally recognized in Greece as the 'city of bicycles,' boasting an extensive and heavily utilized network of cycle paths that characterize its relaxed urban lifestyle. The city developed significantly during the Ottoman period as a crucial agricultural and commercial hub. It features spacious, tree-lined squares, the expansive Pafsilipo Park, and a vibrant local market. Karditsa also serves as the ideal starting point for exploring the breathtaking, mountainous Agrafa region and the stunning artificial Lake Plastiras, making it a gateway to some of Greece's finest eco-tourism destinations. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Karditsa is known as the most bicycle-friendly city in Greece, with an extensive cycle network.",
+      "The city is located in the center of the completely flat, fertile Thessalian plain.",
+      "It serves as the main gateway to the mountainous Agrafa region and Lake Plastiras.",
+      "Karditsa was the first city in Europe to be liberated from Axis occupation during WWII in 1943."
+    ]
+  }
+},
   {
     id: "city-igoumenitsa-extra",
     type: "city",
@@ -190,7 +307,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Portul principal pentru vestul Greciei.", "Leagă Grecia de Italia.", "Poarta către regiunea Epirus."],
       en: ["Main port for western Greece.", "Connects Greece to Italy.", "Gateway to the Epirus region."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Igoumenitsa is a highly strategic coastal city in the Epirus region of northwestern Greece, functioning as the capital of the Thesprotia regional unit. It is primarily renowned as one of Greece's most vital passenger and commercial ports, serving as the main western gateway connecting the country with Italy and the broader Adriatic Sea. The city experienced rapid growth and modernization following the construction of the massive Egnatia Odos highway, which directly links the port to northern Greece and Turkey. Surrounded by dense, pine-covered mountains that dramatically meet the sea, Igoumenitsa features a long, scenic waterfront promenade. It is also an excellent base for exploring the stunning beaches of the Ionian coast and the traditional mountain villages of Epirus. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Igoumenitsa is Greece's second most important passenger port after Piraeus.",
+      "It serves as the primary maritime connection between mainland Greece and Italy.",
+      "The city is the western starting point of the massive Egnatia Odos highway.",
+      "It is surrounded by deep green mountains that slope directly down to the Ionian Sea."
+    ]
+  }
+},
   {
     id: "city-preveza-extra",
     type: "city",
@@ -209,7 +339,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Aproape de situl antic Nicopolis.", "Intrarea în Golful Ambracian.", "Tunel subacvatic îl leagă de Actium."],
       en: ["Near the ancient site of Nicopolis.", "Entrance to the Ambracian Gulf.", "Underwater tunnel connects it to Actium."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Preveza is a picturesque and historic coastal town located at the entrance of the Ambracian Gulf in the Epirus region of northwestern Greece. The city's geography is defined by its maritime setting, featuring a beautiful, bustling waterfront promenade, a charming historic center with narrow pedestrian streets, and elegant neoclassical architecture. Historically, Preveza was highly contested due to its strategic position, heavily fortified by the Venetians, Ottomans, and later Ali Pasha, leaving behind three impressive coastal castles. The city is closely associated with the monumental naval Battle of Actium in 31 BC, which took place nearby and resulted in the rise of the Roman Empire under Augustus. Today, it is connected to the region of Aetolia-Acarnania by an impressive underwater tunnel. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Preveza is located at the narrow entrance to the Ambracian Gulf.",
+      "The monumental ancient Battle of Actium occurred just offshore in 31 BC.",
+      "The city features three distinct coastal castles built during the Ottoman and Venetian eras.",
+      "It is connected to the southern mainland via the Aktio-Preveza undersea tunnel."
+    ]
+  }
+},
   {
     id: "city-lefkada-extra",
     type: "city",
@@ -228,7 +371,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Lefkada.", "Conectată la continent printr-un pod mobil.", "Aproape de plaje faimoase precum Porto Katsiki."],
       en: ["Capital of Lefkada island.", "Connected to the mainland by a floating bridge.", "Near famous beaches like Porto Katsiki."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Lefkada Town is the vibrant capital and main port of the island of Lefkada, uniquely connected to the Greek mainland by a small floating bridge, making it an island you can drive to. The town is highly distinctive for its remarkable, earthquake-resistant architecture; houses feature a stone ground floor and brightly painted wooden upper stories covered in corrugated iron, a design necessitated by the region's high seismic activity. The town is situated around a tranquil lagoon, bordered by a modern marina and a lively pedestrianized main street (Ioannou Mela) filled with cafes, shops, and striking historic churches. Guarding the entrance to the town is the imposing medieval Castle of Agia Mavra, originally constructed by the Franks in the 14th century. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Lefkada Town is uniquely connected to the Greek mainland by a continuous floating bridge.",
+      "The town features distinctive earthquake-resistant architecture using brightly painted wood and metal.",
+      "It is guarded by the 14th-century Castle of Agia Mavra.",
+      "The town is situated on the edge of an ecologically important saltwater lagoon."
+    ]
+  }
+},
   {
     id: "city-argostoli-extra",
     type: "city",
@@ -247,7 +403,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Kefalonia.", "Reconstruit după cutremurul din 1953.", "Podul De Bosset este o atracție principală."],
       en: ["Capital of Kefalonia island.", "Rebuilt after the 1953 earthquake.", "De Bosset Bridge is a main attraction."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Argostoli is the bustling capital and largest town of Kefalonia, the largest island in the Ionian Sea. The town is situated on a peninsula within a deep, natural harbor, providing a secure and highly picturesque setting. Rebuilt almost entirely after a devastating earthquake in 1953, modern Argostoli features wide, palm-lined avenues, a vibrant central square (Plateia Valianou), and a lengthy pedestrianized shopping street called Lithostroto. One of the town's most unique landmarks is the De Bosset Bridge, a 19th-century stone bridge spanning the lagoon, where visitors can often spot large Caretta-Caretta sea turtles swimming in the shallow waters. Argostoli successfully combines modern island life with a deep appreciation for its rich maritime and cultural heritage. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Argostoli was completely rebuilt after a catastrophic earthquake leveled the island in 1953.",
+      "It features the historic De Bosset Bridge, the longest stone bridge over the sea in the world.",
+      "Endangered Caretta-Caretta sea turtles are frequently seen swimming in the town's harbor.",
+      "It has been the capital of Kefalonia since the mid-18th century."
+    ]
+  }
+},
   {
     id: "city-zakynthos-extra",
     type: "city",
@@ -266,7 +435,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Zakynthos.", "Portul este poarta de acces către faimoasa plajă Navagio.", "Piața Solomos este piața centrală."],
       en: ["Capital of Zakynthos island.", "Harbor is the gateway to the famous Shipwreck Beach.", "Solomos Square is the main town square."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Zakynthos Town, affectionately known as Zante, is the vibrant capital and primary port of the Ionian island of Zakynthos. The town curves gracefully around a wide bay and is characterized by a strong Venetian architectural influence, a testament to the centuries of Venetian rule that dubbed the island the 'Flower of the East.' Although a massive earthquake and subsequent fire leveled the town in 1953, it was meticulously reconstructed to reflect its original, elegant neoclassical and Venetian style. Important landmarks include the expansive Solomos Square, dedicated to the national poet Dionysios Solomos, and the imposing Church of Agios Dionysios, the island's patron saint. Above the town, the historic Bochali hill offers panoramic views and the ruins of an old Venetian fortress. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Zakynthos Town was meticulously rebuilt in its original Venetian style after a 1953 earthquake.",
+      "The town features a large square dedicated to Dionysios Solomos, writer of the Greek national anthem.",
+      "It is home to the Church of Agios Dionysios, which houses the relics of the island's patron saint.",
+      "The Venetians called the island 'Fioro di Levante' (Flower of the East)."
+    ]
+  }
+},
   {
     id: "city-hermoupolis-extra",
     type: "city",
@@ -285,7 +467,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala Cicladelor.", "Odinioară principalul port al Greciei.", "Primărie impresionantă proiectată de Ernst Ziller."],
       en: ["Capital of the Cyclades.", "Once the main port of Greece.", "Impressive town hall designed by Ernst Ziller."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Ermoupoli is the grand, majestic capital of the island of Syros and the administrative center of the entire Cyclades island group. Founded during the Greek War of Independence by refugees from other islands, it experienced explosive growth in the 19th century, rapidly becoming the leading commercial and industrial port of Greece. The city is a dazzling open-air museum of neoclassical architecture, featuring spectacular marble mansions, sweeping staircases, and the breathtaking Miaouli Square, which is dominated by the monumental City Hall designed by Ernst Ziller. Ermoupoli also boasts the historic Apollo Theater, a miniature replica of La Scala in Milan. The city beautifully blends the Orthodox community on Vrodado hill with the Catholic community on the adjacent hill of Ano Syros. History K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Ermoupoli translates to 'City of Hermes', named after the ancient Greek god of commerce.",
+      "It features one of the highest concentrations of neoclassical architecture in Greece.",
+      "The city was the most important commercial port in Greece before the rise of Piraeus.",
+      "The historic Apollo Theater is widely considered a miniature version of Milan's La Scala."
+    ]
+  }
+},
   {
     id: "city-mytilene-extra",
     type: "city",
@@ -304,7 +499,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Lesbos.", "Sediul Universității din Marea Egee.", "Una dintre cele mai mari fortărețe din Mediterana."],
       en: ["Capital of Lesbos island.", "Home to the University of the Aegean.", "One of the largest fortresses in the Mediterranean."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Mytilene is the vibrant capital and main port of Lesbos, the third-largest Greek island, located in the northeastern Aegean Sea. Founded in the 11th century BC, the city has a profound and layered history, having been a major cultural and commercial center in antiquity, famously associated with the lyric poets Sappho and Alcaeus. The modern cityscape is an eclectic mix of grand 19th-century neoclassical mansions, traditional Ottoman-era buildings, and a bustling, deeply curved harbor. Dominating the city is the massive Byzantine-Genoese Castle of Mytilene, one of the largest fortresses in the Mediterranean, set on a pine-covered promontory. Mytilene is also a lively university town, characterized by its vibrant café culture, historic thermal baths, and world-renowned local ouzo. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Mytilene is the capital of Lesbos, the third-largest island in Greece.",
+      "In antiquity, the city was the home of the famous lyric poets Sappho and Alcaeus.",
+      "It features one of the largest fortresses in the Mediterranean, the Castle of Mytilene.",
+      "The surrounding region is considered the historic heartland of Greek 'ouzo' production."
+    ]
+  }
+},
   {
     id: "city-chios-extra",
     type: "city",
@@ -323,7 +531,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Chios.", "Centrul producției de mastic.", "Satul medieval 'Kastro' în interiorul zidurilor orașului."],
       en: ["Capital of Chios island.", "Center of mastic production.", "Medieval village 'Kastro' inside the city walls."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Chios Town, simply known as Chora, is the vibrant capital and main port of the eastern Aegean island of Chios. The city has been continuously inhabited since antiquity and serves as the island's primary commercial and administrative hub. Its skyline is dominated by the historic Chios Castle, originally built by the Byzantines and later expanded by the Genoese and Ottomans, which still encloses a living, inhabited neighborhood within its massive stone walls. The town features a lively waterfront lined with cafes and a bustling central market (Aplotaria) that reflects its long-standing mercantile traditions. Chios Town also serves as the gateway to the island's unique 'Mastic Villages' and is famous for its maritime heritage, having produced many of Greece's most prominent shipping magnates. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Chios Town has a continuously inhabited neighborhood located entirely within an ancient Genoese castle.",
+      "The city is a major center for Greece's powerful and historic merchant shipping industry.",
+      "It serves as the main export hub for the island's unique and highly valuable 'mastic' resin.",
+      "The Korais Library in Chios Town is one of the oldest and largest public libraries in Greece."
+    ]
+  }
+},
   {
     id: "city-samos-extra",
     type: "city",
@@ -342,7 +563,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Samos.", "Unul dintre cele mai vechi și mai adânci porturi naturale din Mediterana.", "Faimos pentru vinul Muscat."],
       en: ["Capital of Samos island.", "One of the oldest and deepest natural harbors in the Mediterranean.", "Famous for its Muscat wine."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Samos Town, also locally known as Vathy, is the charming capital and primary port of the island of Samos in the eastern Aegean Sea. The town is built amphitheatrically around a deep, naturally protected bay, offering a picturesque blend of neoclassical mansions with red-tiled roofs and traditional, narrow alleys. Vathy experienced significant prosperity in the 19th century through the tobacco and wine trade, which is reflected in its elegant architecture and grand public buildings. The city houses the highly acclaimed Archaeological Museum of Samos, which famously displays the colossal Kouros of Samos, standing at nearly five meters tall. Samos Town maintains a serene, authentic atmosphere, functioning as a vibrant center for the island's celebrated wine production and rich cultural life. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Samos Town is often referred to locally as Vathy.",
+      "It houses the Archaeological Museum which displays a massive, 4.8-meter tall ancient Kouros statue.",
+      "The city was a major center for the tobacco and wine trade in the 19th century.",
+      "It is built amphitheatrically around one of the most naturally protected bays in the Aegean."
+    ]
+  }
+},
   {
     id: "city-kos-extra",
     type: "city",
@@ -361,7 +595,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Kos.", "Casa lui Hipocrate, părintele medicinei.", "Castelul Neratzia păzește portul."],
       en: ["Capital of Kos island.", "Home of Hippocrates, the father of medicine.", "Neratzia Castle guards the harbor."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Kos Town is the vibrant capital and main port of the Dodecanese island of Kos, renowned for its extensive ancient ruins uniquely integrated into the modern urban landscape. The city features a lush, palm-lined waterfront and is guarded by the impressive Castle of the Knights of Saint John, a 15th-century fortress built to defend against Ottoman attacks. Kos was the birthplace of Hippocrates, the ancient 'Father of Medicine,' and visitors can still see the legendary Plane Tree of Hippocrates, under which he reputedly taught his students. The town is essentially an open-air museum, heavily featuring Roman baths, ancient gymnasiums, and a beautifully restored Roman amphitheater (Odeon). Rebuilt with wide, tree-lined avenues after a 1933 earthquake, Kos Town offers a highly cyclist-friendly and relaxed atmosphere. History K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Kos Town features the famous 'Plane Tree of Hippocrates', where the ancient physician supposedly taught.",
+      "The harbor is guarded by a massive 15th-century fortress built by the Knights of Saint John.",
+      "The city was extensively redesigned with wide avenues and parks after a devastating earthquake in 1933.",
+      "Extensive ancient Roman and Hellenistic ruins are integrated directly into the modern city center."
+    ]
+  }
+},
   {
     id: "city-polygyros-extra",
     type: "city",
@@ -380,7 +627,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala prefecturii Halkidiki.", "Construit în formă de amfiteatru.", "Muzeu arheologic cu descoperiri din întreaga regiune."],
       en: ["Capital of the Halkidiki prefecture.", "Built amphitheatrically.", "Archaeological Museum with finds from all over the region."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Polygyros is the administrative capital of the beautiful Chalkidiki regional unit, located in Central Macedonia. Unlike the bustling coastal resorts of the Chalkidiki peninsulas, Polygyros is situated inland, built amphitheatrically on the slopes of Mount Cholomontas at an altitude of around 560 meters. The city is characterized by its refreshing, cool climate, dense oak and chestnut forests, and traditional Macedonian architecture featuring stone houses and narrow, winding streets. Polygyros is famous for its vibrant cultural life, hosting a highly popular traditional carnival celebration every spring, and features an excellent Archaeological Museum showcasing artifacts from ancient Olynthus and other regional sites. It serves as a peaceful, authentic gateway connecting Thessaloniki with the spectacular beaches of Chalkidiki. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Polygyros is the inland capital city of the famous Chalkidiki region.",
+      "It is built on the slopes of Mount Cholomontas at an altitude of 560 meters.",
+      "The city is known for its highly popular and traditional pre-Lenten carnival.",
+      "Its Archaeological Museum houses significant finds from the ancient city of Olynthus."
+    ]
+  }
+},
   {
     id: "city-kilkis-extra",
     type: "city",
@@ -399,7 +659,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala unității regionale Kilkis.", "Bătălie importantă în al Doilea Război Balcanic.", "Peștera Sfântului Gheorghe este o atracție turistică."],
       en: ["Capital of the Kilkis regional unit.", "Site of a major battle in the Second Balkan War.", "Cave of Saint George is a tourist attraction."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Kilkis is a historic city and the capital of the regional unit of the same name in Central Macedonia, northern Greece. The city is built around the prominent St. George's Hill, which features a historic post-Byzantine church and a remarkable two-story cave adorned with stalactites and stalagmites. Kilkis holds immense historical significance due to the fierce Battle of Kilkis-Lachanas in 1913 during the Second Balkan War, a decisive Greek victory that secured Macedonia and is commemorated by an impressive war museum and monument on the hill. The modern city serves as an important agricultural and commercial center, with a landscape that transitions into rolling hills and fertile plains extending towards the borders of North Macedonia. History K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Kilkis was the site of the pivotal Battle of Kilkis-Lachanas during the Second Balkan War in 1913.",
+      "The city is built at the base of St. George's Hill, a prominent local landmark.",
+      "A significant, multi-level limestone cave featuring stalactites is located directly beneath the city's main hill.",
+      "Kilkis is a major agricultural center in the region of Central Macedonia."
+    ]
+  }
+},
   {
     id: "city-drama-extra",
     type: "city",
@@ -418,7 +691,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala unității regionale Drama.", "Cunoscut pentru izvoarele și parcurile sale.", "Festival anual de scurtmetraje."],
       en: ["Capital of the Drama regional unit.", "Known for its water springs and parks.", "Annual short film festival."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Drama is an enchanting, water-rich city in the East Macedonia and Thrace region of northeastern Greece, built at the foothills of Mount Falakro. The city is famous for the Agia Varvara springs, an astonishing natural park right in the city center featuring crystal-clear lakes, small waterfalls, and ancient plane trees. Historically, Drama experienced immense wealth in the late 19th and early 20th centuries as a major center for tobacco production, leaving a legacy of grand, preserved mansions and massive tobacco warehouses. Today, Drama is internationally recognized for hosting the prestigious Drama International Short Film Festival, a major cinematic event. It also serves as an excellent base for exploring the pristine surrounding nature, including the breathtaking Aggitis River Cave. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "The city center features the Agia Varvara springs, an expansive natural park with lakes and waterfalls.",
+      "Drama was a major, wealthy center for the international tobacco trade in the early 20th century.",
+      "The city hosts the internationally recognized Drama International Short Film Festival.",
+      "It is located near the Aggitis Cave, the largest river cave in the world."
+    ]
+  }
+},
   {
     id: "city-rhodes-city-extra",
     type: "city",
@@ -437,7 +723,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Palatul Marelui Maestru.", "Strada Cavalerilor este una dintre cele mai bine conservate străzi medievale."],
       en: ["UNESCO World Heritage site.", "Palace of the Grand Master.", "Street of the Knights is one of the best-preserved medieval streets."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Rhodes City is the principal town of the island of Rhodes and the capital of the Dodecanese archipelago, renowned globally for its unparalleled historical layering. The city is sharply divided into two distinct parts: the modern, cosmopolitan New Town, featuring elegant Italian-era architecture, luxury resorts, and the famous Mandraki harbor (where the Colossus of Rhodes once stood); and the incredibly well-preserved Medieval Old Town. The Old Town, a UNESCO World Heritage site, is a sprawling fortress city built by the Knights Hospitaller, containing masterpieces like the Palace of the Grand Master and the cobblestone Street of the Knights. The city's unique ambiance is a seamless blend of ancient Greek ruins, formidable medieval fortifications, Ottoman mosques, and vibrant modern tourism. History K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Rhodes City was the location of the Colossus of Rhodes, an ancient Wonder of the World.",
+      "Its Medieval Old Town is a UNESCO World Heritage site and one of the best-preserved in Europe.",
+      "The city was the headquarters of the Knights Hospitaller from 1309 to 1522.",
+      "The modern city features distinctive architectural influences from its Italian occupation in the early 20th century."
+    ]
+  }
+},
   {
     id: "city-agios-nikolaos-extra",
     type: "city",
@@ -456,7 +755,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala unității regionale Lasithi.", "Lacul Voulismeni este un punct de atracție local.", "Port și faleză pitorești."],
       en: ["Capital of the Lasithi regional unit.", "Lake Voulismeni is a local landmark.", "Picturesque harbor and waterfront."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Agios Nikolaos is a highly picturesque and cosmopolitan coastal town serving as the capital of the Lasithi regional unit in eastern Crete. The town is uniquely built around Lake Voulismeni, a deep, nearly circular body of water in the town center that connects to the sea via a narrow channel. Surrounded by steep, rocky cliffs on one side and lively cafes and restaurants on the other, the lake is the beating heart of the town. According to local myth, the goddesses Athena and Artemis bathed in its waters. Agios Nikolaos is a major, high-end tourist destination, offering a sophisticated atmosphere, excellent beaches, and a bustling marina. It also serves as the primary starting point for boat trips to the historic, fortified islet of Spinalonga (the former leper colony). Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "The town is famous for Lake Voulismeni, a deep lake situated directly in its center.",
+      "According to mythology, the goddesses Athena and Artemis bathed in this lake.",
+      "Agios Nikolaos is the capital of the Lasithi region of eastern Crete.",
+      "It is the main departure point for visiting the famous island fortress and former leper colony of Spinalonga."
+    ]
+  }
+},
   {
     id: "city-naxos-city-extra",
     type: "city",
@@ -475,7 +787,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Cel mai mare oraș de pe insula Naxos.", "Poarta Portara este simbolul insulei.", "Kastro (castelul) venețian domină orașul."],
       en: ["Largest town on Naxos island.", "Portara gate is the island's landmark.", "Venetian Kastro (castle) overlooks the town."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Naxos City, commonly known as Chora, is the vibrant capital and main port of Naxos, the largest and most fertile island in the Cyclades. Upon arriving by ferry, visitors are immediately greeted by the iconic 'Portara,' a massive, unfinished marble gateway to an ancient temple of Apollo standing on a small islet connected to the town. The city itself is a fascinating architectural puzzle, crowned by a remarkably well-preserved Venetian Castle (Kastro) built in the 13th century, which still houses the island's Catholic descendants and features narrow, labyrinthine alleys. Below the Kastro lies the bustling Bourgos neighborhood and a long, lively waterfront promenade. Naxos City beautifully merges its deep ancient Greek roots, significant Venetian heritage, and a dynamic modern agricultural and tourist economy. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "The city is famous for the 'Portara', a massive ancient marble gateway to an unfinished temple of Apollo.",
+      "It is dominated by a 13th-century Venetian Kastro (Castle) that is still inhabited today.",
+      "Naxos City is the capital of the largest and most fertile island in the Cyclades.",
+      "The town exhibits a unique blend of traditional Cycladic and imposing Venetian architecture."
+    ]
+  }
+},
   {
     id: "city-parikia-extra",
     type: "city",
@@ -494,7 +819,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Paros.", "Panagia Ekatontapiliani (Biserica celor 100 de Porți).", "Port important de feriboturi în Ciclade."],
       en: ["Capital of Paros island.", "Panagia Ekatontapiliani (Church of 100 Doors).", "Major ferry hub in the Cyclades."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Parikia is the bustling capital and primary port of the Cycladic island of Paros, known for its quintessential Aegean beauty and rich history. The town features classic Cycladic architecture with blindingly white cubic houses, blue-domed churches, and narrow, bougainvillea-draped alleyways that form an enchanting, wind-shielding labyrinth. Its most significant historical landmark is the awe-inspiring Panagia Ekatontapyliani (Church of 100 Doors), a colossal, exceptionally well-preserved early Byzantine church complex dating back to the 4th century. Above the town stands a 13th-century Frankish Castle constructed entirely from repurposed ancient marble columns and temple ruins. Parikia serves as a major transportation hub for the Cyclades, combining a lively, cosmopolitan waterfront with an atmospheric and historic old quarter. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Parikia features the 'Panagia Ekatontapyliani', one of the oldest and most important Byzantine churches in Greece.",
+      "The town's Frankish Castle is uniquely built using marble pieces from ancient Greek temples.",
+      "It serves as one of the busiest maritime transportation hubs in the Cyclades.",
+      "The town embodies classic Cycladic architecture with its whitewashed, cubic houses and narrow alleys."
+    ]
+  }
+},
   {
     id: "city-fira-extra",
     type: "city",
@@ -513,7 +851,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala insulei Santorini.", "Vedere spre caldeiră și vulcan.", "Muzeul Preistoric din Thera."],
       en: ["Capital of Santorini.", "Views of the caldera and volcano.", "Museum of Prehistoric Thera."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Fira is the stunning, gravity-defying capital of Santorini (Thira), spectacularly perched on the edge of a 400-meter-high sheer cliff overlooking the island's submerged volcanic caldera. The town is an architectural marvel of classic Cycladic style, featuring tightly clustered, whitewashed houses, blue-domed churches, and sun-drenched terraces cascading down the dramatic volcanic rock face. Fira offers some of the most breathtaking panoramic views in the world, particularly during its legendary sunsets. The town is accessible from its small old port via a steep, zigzagging path of 587 steps, which visitors navigate on foot, by donkey, or via a modern cable car. Beyond its visual splendor, Fira is the cultural and commercial hub of the island, hosting the Museum of Prehistoric Thira, which displays spectacular finds from the ancient Akrotiri settlement. Geography K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Fira is built on the edge of a 400-meter high caldera cliff overlooking an active underwater volcano.",
+      "The town can be accessed from the old port via a steep stairway of nearly 600 steps, or by a cable car.",
+      "It features classic Cycladic architecture with whitewashed, cave-like houses and blue-domed churches.",
+      "Fira houses the Museum of Prehistoric Thira, showcasing artifacts from the Minoan eruption."
+    ]
+  }
+},
   {
     id: "city-oia-extra",
     type: "city",
@@ -532,7 +883,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Faimos pentru apusurile sale.", "Sat artistic cu multe galerii de artă.", "Situat la vârful nordic al insulei Santorini."],
       en: ["Famous for its sunsets.", "Artistic village with many galleries.", "Located on the northern tip of Santorini."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Oia is a globally celebrated village situated on the northernmost tip of Santorini, universally famous for its unparalleled beauty and spectacular sunsets. Sculpted directly into the volcanic ash of the caldera rim, the village features a mesmerizing array of whitewashed, cave-style houses (yposkafa), colorful captain's mansions, and iconic blue-domed churches that have become the quintessential image of the Greek islands. Once a prosperous maritime center in the 19th century, Oia was heavily damaged by a 1956 earthquake but was meticulously restored to become one of the most exclusive and photographed luxury destinations in the world. The village exudes a more tranquil, romantic, and upscale atmosphere compared to the capital, Fira, and features a steep path leading down to the picturesque Ammoudi Bay. Geography K8."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Oia is world-renowned for offering some of the most spectacular and highly photographed sunsets globally.",
+      "The village features traditional 'yposkafa', cave-houses dug directly into the volcanic rock.",
+      "It is located at the extreme northern tip of the Santorini caldera.",
+      "Oia was once a major maritime center, evidenced by the grand two-story captains' houses."
+    ]
+  }
+},
   {
     id: "city-mykonos-town-extra",
     type: "city",
@@ -551,7 +915,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Mori de vânt iconice.", "Mica Veneție cu baruri pe malul apei.", "Cunoscut pentru viața de noapte animată."],
       en: ["Iconic windmills.", "Little Venice with waterfront bars.", "Known for its lively nightlife."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Mykonos Town, widely known as Chora, is the glamorous and iconic capital of Mykonos island, epitomizing the ultimate Cycladic aesthetic. The town is a captivating maze of narrow, winding, stone-paved alleys, originally designed to confuse invading pirates and block the fierce northern 'Meltemi' winds. It is characterized by pristine, whitewashed cubic houses with brightly painted wooden doors, cascading bougainvillea, and dozens of small chapels, notably the asymmetrical, whitewashed complex of Panagia Paraportiani. The town is internationally famous for 'Little Venice,' a romantic waterfront neighborhood where colorful 18th-century balconies hang directly over the sea, and the iconic row of historic windmills standing sentry on a nearby hill. Today, Mykonos Town is a high-end, cosmopolitan playground, blending deep traditions with world-class boutiques and legendary nightlife. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Mykonos Town's labyrinthine street layout was intentionally designed to confuse pirates and mitigate strong winds.",
+      "The town features 'Little Venice', where historic houses are built right on the sea's edge.",
+      "A famous row of 16th-century windmills overlooks the town, an iconic symbol of the island.",
+      "The complex Church of Panagia Paraportiani is one of the most photographed churches in the world."
+    ]
+  }
+},
   {
     id: "city-edipsos-extra",
     type: "city",
@@ -570,7 +947,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Faimos oraș balnear.", "Peste 80 de izvoare termale.", "Atrage vizitatori încă din perioada romană."],
       en: ["Famous spa town.", "Over 80 thermal springs.", "Has attracted visitors since Roman times."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Edipsos, located on the northwestern coast of the island of Euboea (Evia), is one of the most famous and historic spa towns in Greece. The town is renowned for its abundant, naturally occurring thermal springs, which emerge from the earth at high temperatures and cascade directly into the sea, allowing bathers to enjoy the unique experience of hot mineral water mixing with cool seawater. These therapeutic waters have been celebrated for their healing properties since antiquity, famously attracting illustrious figures such as the philosopher Aristotle, the Roman general Sulla, and the Emperor Hadrian. Today, Edipsos remains a premier wellness destination, featuring elegant, late 19th-century belle-époque spa hotels and modern hydrotherapy centers, continuing a tradition of health and relaxation that spans over two millennia. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Edipsos is one of the oldest and most famous thermal spa destinations in Greece.",
+      "Its hot mineral springs naturally emerge from the ground and flow directly into the sea.",
+      "The therapeutic waters were famously utilized by historical figures like Roman General Sulla and Emperor Hadrian.",
+      "The town features grand, Belle Époque-style spa hotels built in the late 19th and early 20th centuries."
+    ]
+  }
+},
   {
     id: "city-karpenisi-extra",
     type: "city",
@@ -589,7 +979,20 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala Evritaniei.", "Destinație populară de iarnă.", "Aproape de centrul de schi Velouchi."],
       en: ["Capital of Evrytania.", "Popular winter destination.", "Near the Velouchi Ski Center."]
     }
-  },
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Karpenisi is a charming, mountainous town serving as the capital of the Evrytania regional unit in central Greece, nestled deeply within the heavily forested slopes of Mount Tymfristos at an altitude of nearly 1,000 meters. Often referred to as the 'Switzerland of Greece,' the city and its surrounding region are famous for their pristine alpine environment, featuring dense fir and chestnut forests, rushing rivers, and spectacular gorges. Karpenisi has a rugged, authentic character and played a crucial role as a stronghold for Greek resistance fighters during World War II. Today, it is a premier destination for winter sports, home to a popular ski resort, and a major hub for outdoor adventure activities such as rafting, kayaking, and hiking in the majestic Evrytania wilderness. Geography K7."
+  }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Karpenisi is known as the 'Switzerland of Greece' due to its pristine, alpine environment.",
+      "It is located at an altitude of 960 meters on the slopes of Mount Tymfristos.",
+      "The town serves as a major hub for winter sports and extreme outdoor activities.",
+      "The surrounding Evrytania region is heavily forested and considered one of the cleanest environments globally."
+    ]
+  }
+},
   {
     id: "city-messolonghi-extra",
     type: "city",
@@ -608,5 +1011,18 @@ export const poiExtraGreeceCities: POI[] = [
       ro: ["Capitala Etoliei-Acarnania.", "Locul unui asediu eroic în timpul Războiului de Independență.", "Lord Byron a murit aici."],
       en: ["Capital of Aetolia-Acarnania.", "Site of a heroic siege during the War of Independence.", "Lord Byron died here."]
     }
+  ,
+  descriptionAdvanced: {
+    de: "", hu: "", ro: "", en: "Missolonghi is a historic and highly evocative coastal town in western Greece, serving as the capital of the Aetolia-Acarnania regional unit. The town is uniquely situated on the edge of a massive, shallow saltwater lagoon, creating a distinct landscape of traditional stilt houses (pelades) and distinctive fishing boats. Missolonghi holds a sacred place in Greek history as a symbol of ultimate heroism; during the Greek War of Independence in 1826, the starving and besieged population attempted a desperate, suicidal breakout (the Exodus) against Ottoman forces, an event that galvanized international support for the Greek cause. The English Romantic poet Lord Byron famously lived, fought, and died here, cementing the town's legendary status. Today, it is a serene town famous for its exceptional roe (avgotaracho), often called Greek caviar. History K8."
   }
+,
+  factsAdvanced: {
+    de: [], hu: [], ro: [], en: [
+      "Missolonghi is famous for the 'Exodus of 1826', a heroic and tragic event during the Greek War of Independence.",
+      "The English poet Lord Byron died in Missolonghi while actively supporting the Greek revolutionary cause.",
+      "The town is uniquely located on the edge of a massive, shallow saltwater lagoon.",
+      "It is renowned across Greece for producing high-quality 'avgotaracho' (bottarga or cured fish roe)."
+    ]
+  }
+}
 ]

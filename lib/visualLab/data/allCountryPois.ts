@@ -54,6 +54,13 @@ import { poiExtraFranceCities } from "./poiExtraFranceCities";
 import { greeceAllPoi } from "./greecePoi";
 import { poiExtraGreeceCities } from "./poiExtraGreeceCities";
 import { guatemalaAllPoi } from "./guatemalaPoi";
+import { poiExtraGuineaCitiesV2 } from "./poiExtraGuineaCitiesV2";
+import { poiExtraGuineaEconomicV2 } from "./poiExtraGuineaEconomicV2";
+import { poiExtraGuineaHistoryV2 } from "./poiExtraGuineaHistoryV2";
+import { poiExtraGuineaLandmarksV2 } from "./poiExtraGuineaLandmarksV2";
+import { poiExtraGuineaLifeV2 } from "./poiExtraGuineaLifeV2";
+import { poiExtraGuineaNatureV2 } from "./poiExtraGuineaNatureV2";
+import { poiExtraGuineabissauCitiesV2 } from "./poiExtraGuineabissauCitiesV2";
 import { haitiAllPoi } from "./haitiPoi";
 import { hondurasAllPoi } from "./hondurasPoi";
 import { hungaryAllPoi } from "./hungaryPoi";
@@ -177,6 +184,13 @@ export const ALL_COUNTRY_POIS = ([
   ...greeceAllPoi,
   ...poiExtraGreeceCities,
   ...guatemalaAllPoi,
+  ...poiExtraGuineaCitiesV2,
+  ...poiExtraGuineaEconomicV2,
+  ...poiExtraGuineaHistoryV2,
+  ...poiExtraGuineaLandmarksV2,
+  ...poiExtraGuineaLifeV2,
+  ...poiExtraGuineaNatureV2,
+  ...poiExtraGuineabissauCitiesV2,
   ...haitiAllPoi,
   ...hondurasAllPoi,
   ...hungaryAllPoi,

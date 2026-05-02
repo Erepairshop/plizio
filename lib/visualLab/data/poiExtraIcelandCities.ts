@@ -6,41 +6,41 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.3948, 65.2669],
-    name: { de: "EgilsstaÃ°ir", hu: "EgilsstaÃ°ir", ro: "EgilsstaÃ°ir", en: "EgilsstaÃ°ir" },
+    name: { de: "Egilsstaðir", hu: "Egilsstaðir", ro: "Egilsstaðir", en: "Egilsstaðir" },
     description: {
-      de: "Die grÃ¶ÃŸte Stadt im Osten Islands, ein wichtiges Verkehrs- und Dienstleistungszentrum.",
-      hu: "Kelet-Izland legnagyobb vÃ¡rosa, fontos kÃ¶zlekedÃ©si Ã©s szolgÃ¡ltatÃ³ kÃ¶zpont.",
-      ro: "Cel mai mare oraÈ™ din estul Islandei, un centru important de transport È™i servicii.",
+      de: "Die grö�?te Stadt im Osten Islands, ein wichtiges Verkehrs- und Dienstleistungszentrum.",
+      hu: "Kelet-Izland legnagyobb városa, fontos közlekedési és szolgáltató központ.",
+      ro: "Cel mai mare ora�? din estul Islandei, un centru important de transport �?i servicii.",
       en: "The largest town in East Iceland, serving as a major transport and service hub."
     },
     facts: {
-      de: ["Liegt am Ufer des Flusses LagarfljÃ³t.", "Hat einen regionalen Flughafen.", "Tor zum HallormsstaÃ°askÃ³gur Wald."],
-      hu: ["A LagarfljÃ³t-folyÃ³ partjÃ¡n fekszik.", "RegionÃ¡lis repÃ¼lÅ‘tÃ©rrel rendelkezik.", "A HallormsstaÃ°askÃ³gur erdÅ‘ kapuja."],
-      ro: ["Situat pe malul rÃ¢ului LagarfljÃ³t.", "Are un aeroport regional.", "Poarta cÄƒtre pÄƒdurea HallormsstaÃ°askÃ³gur."],
-      en: ["Located on the banks of the LagarfljÃ³t river.", "Features a regional airport.", "Gateway to the HallormsstaÃ°askÃ³gur forest."]
+      de: ["Liegt am Ufer des Flusses Lagarfljót.", "Hat einen regionalen Flughafen.", "Tor zum Hallormsstaðaskógur Wald."],
+      hu: ["A Lagarfljót-folyó partján fekszik.", "Regionális repül�?térrel rendelkezik.", "A Hallormsstaðaskógur erd�? kapuja."],
+      ro: ["Situat pe malul râului Lagarfljót.", "Are un aeroport regional.", "Poarta c�?tre p�?durea Hallormsstaðaskógur."],
+      en: ["Located on the banks of the Lagarfljót river.", "Features a regional airport.", "Gateway to the Hallormsstaðaskógur forest."]
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "EgilsstaÃ°ir este inima comercialÄƒ È™i administrativÄƒ a estului Islandei, fiind un nod vital de transport pentru cÄƒlÄƒtorii care exploreazÄƒ fiordurile dramatice. Amplasat pe malurile fertile ale rÃ¢ului LagarfljÃ³t, oraÈ™ul oferÄƒ un amestec perfect de facilitÄƒÈ›i urbane È™i acces facil la natura sÄƒlbaticÄƒ. Vizitatorii pot explora HallormsstaÃ°askÃ³gur, cea mai mare pÄƒdure naÈ›ionalÄƒ din Islanda, sau pot face o plimbare pitoreascÄƒ pÃ¢nÄƒ la impunÄƒtoarea cascadÄƒ Hengifoss. OraÈ™ul serveÈ™te È™i ca poartÄƒ cÄƒtre peisajele remarcabile din zonele Ã®nalte. Cu un aeroport regional propriu, este uÈ™or accesibil, reprezentÃ¢nd o bazÄƒ idealÄƒ pentru aventurile din regiune. Fie cÄƒ sunteÈ›i Ã®n cÄƒutarea culturii locale, a excursiilor Ã®n aer liber sau a unui loc confortabil pentru odihnÄƒ, EgilsstaÃ°ir oferÄƒ un cadru primitor plin de farmec autentic islandez.",
-      en: "EgilsstaÃ°ir is the commercial and administrative heart of East Iceland, acting as a crucial transport hub for travelers exploring the dramatic eastern fjords. Nestled along the fertile banks of the LagarfljÃ³t River, the town offers a perfect mix of urban convenience and access to untamed nature. Visitors can explore the nearby HallormsstaÃ°askÃ³gur, Iceland's largest national forest, or take a scenic drive to the towering Hengifoss waterfall. The town also serves as a gateway to the remote and stunning landscapes of the highlands. With its own regional airport, it is easily reachable, making it an ideal base for adventures in the east. Whether you are looking for local culture, outdoor excursions, or just a comfortable place to recharge before traversing the rugged coastlines, EgilsstaÃ°ir provides a welcoming environment filled with authentic Icelandic charm and endless exploration opportunities."
+      ro: "Egilsstaðir este inima comercial�? �?i administrativ�? a estului Islandei, fiind un nod vital de transport pentru c�?l�?torii care exploreaz�? fiordurile dramatice. Amplasat pe malurile fertile ale râului Lagarfljót, ora�?ul ofer�? un amestec perfect de facilit�?�?i urbane �?i acces facil la natura s�?lbatic�?. Vizitatorii pot explora Hallormsstaðaskógur, cea mai mare p�?dure na�?ional�? din Islanda, sau pot face o plimbare pitoreasc�? pân�? la impun�?toarea cascad�? Hengifoss. Ora�?ul serve�?te �?i ca poart�? c�?tre peisajele remarcabile din zonele înalte. Cu un aeroport regional propriu, este u�?or accesibil, reprezentând o baz�? ideal�? pentru aventurile din regiune. Fie c�? sunte�?i în c�?utarea culturii locale, a excursiilor în aer liber sau a unui loc confortabil pentru odihn�?, Egilsstaðir ofer�? un cadru primitor plin de farmec autentic islandez.",
+      en: "Egilsstaðir is the commercial and administrative heart of East Iceland, acting as a crucial transport hub for travelers exploring the dramatic eastern fjords. Nestled along the fertile banks of the Lagarfljót River, the town offers a perfect mix of urban convenience and access to untamed nature. Visitors can explore the nearby Hallormsstaðaskógur, Iceland's largest national forest, or take a scenic drive to the towering Hengifoss waterfall. The town also serves as a gateway to the remote and stunning landscapes of the highlands. With its own regional airport, it is easily reachable, making it an ideal base for adventures in the east. Whether you are looking for local culture, outdoor excursions, or just a comfortable place to recharge before traversing the rugged coastlines, Egilsstaðir provides a welcoming environment filled with authentic Icelandic charm and endless exploration opportunities."
     },
     factsAdvanced: {
       de: [],
       hu: [],
       ro: [
-        "Situat pe malurile rÃ¢ului mistic LagarfljÃ³t.",
-        "GÄƒzduieÈ™te cea mai mare pÄƒdure din Islanda, HallormsstaÃ°askÃ³gur.",
-        "ServeÈ™te ca principal hub logistic È™i de transport pentru estul Islandei.",
-        "Dispune de un aeroport regional pentru acces uÈ™or Ã®n zonÄƒ.",
-        "PoartÄƒ cÄƒtre cascada Hengifoss, una dintre cele mai Ã®nalte din Islanda.",
-        "Punct de plecare ideal pentru expediÈ›ii Ã®n zonele Ã®nalte.",
-        "GÄƒzduieÈ™te festivalul anual de ciclism Ormurinn.",
-        "ÃŽnconjurat de peisaje variate, de la vÄƒi fertile la platouri Ã®nalte."
+        "Situat pe malurile râului mistic Lagarfljót.",
+        "G�?zduie�?te cea mai mare p�?dure din Islanda, Hallormsstaðaskógur.",
+        "Serve�?te ca principal hub logistic �?i de transport pentru estul Islandei.",
+        "Dispune de un aeroport regional pentru acces u�?or în zon�?.",
+        "Poart�? c�?tre cascada Hengifoss, una dintre cele mai înalte din Islanda.",
+        "Punct de plecare ideal pentru expedi�?ii în zonele înalte.",
+        "G�?zduie�?te festivalul anual de ciclism Ormurinn.",
+        "�?nconjurat de peisaje variate, de la v�?i fertile la platouri înalte."
       ],
       en: [
-        "Situated on the banks of the mystical LagarfljÃ³t River.",
-        "Home to the largest forest in Iceland, HallormsstaÃ°askÃ³gur.",
+        "Situated on the banks of the mystical Lagarfljót River.",
+        "Home to the largest forest in Iceland, Hallormsstaðaskógur.",
         "Serves as the main transportation and logistics hub for East Iceland.",
         "Features a regional airport for easy access to the area.",
         "Gateway to the Hengifoss waterfall, one of the tallest in Iceland.",
@@ -55,18 +55,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.9142, 65.0722],
-    name: { de: "EskifjÃ¶rÃ°ur", hu: "EskifjÃ¶rÃ°ur", ro: "EskifjÃ¶rÃ°ur", en: "EskifjÃ¶rÃ°ur" },
+    name: { de: "Eskifjörður", hu: "Eskifjörður", ro: "Eskifjörður", en: "Eskifjörður" },
     description: {
       de: "Ein malerisches Fischerdorf am gleichnamigen Fjord in den Ostfjorden.",
-      hu: "FestÅ‘i halÃ¡szfalu az azonos nevÅ± fjord partjÃ¡n a Keleti-fjordokban.",
-      ro: "Un sat de pescari pitoresc pe fiordul cu acelaÈ™i nume din estul Islandei.",
+      hu: "Fest�?i halászfalu az azonos nevű fjord partján a Keleti-fjordokban.",
+      ro: "Un sat de pescari pitoresc pe fiordul cu acela�?i nume din estul Islandei.",
       en: "A picturesque fishing village on the fjord of the same name in the East Fjords."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine lange Fischereitradition.", "Heimat eines interessanten Schifffahrtsmuseums.", "Umgeben von markanten Bergen wie dem HÃ³lmatindur."],
-      hu: ["HosszÃº halÃ¡szati hagyomÃ¡nyairÃ³l ismert.", "Ã‰rdekes tengerÃ©szeti mÃºzeumnak ad otthont.", "Olyan jellegzetes hegyek veszik kÃ¶rÃ¼l, mint a HÃ³lmatindur."],
-      ro: ["Cunoscut pentru lunga sa tradiÈ›ie pescÄƒreascÄƒ.", "GÄƒzduieÈ™te un muzeu maritim interesant.", "ÃŽnconjurat de munÈ›i distinctivi precum HÃ³lmatindur."],
-      en: ["Known for its long fishing tradition.", "Home to an interesting maritime museum.", "Surrounded by striking mountains like HÃ³lmatindur."]
+      de: ["Bekannt für seine lange Fischereitradition.", "Heimat eines interessanten Schifffahrtsmuseums.", "Umgeben von markanten Bergen wie dem Hólmatindur."],
+      hu: ["Hosszú halászati hagyományairól ismert.", "�?rdekes tengerészeti múzeumnak ad otthont.", "Olyan jellegzetes hegyek veszik körül, mint a Hólmatindur."],
+      ro: ["Cunoscut pentru lunga sa tradi�?ie pesc�?reasc�?.", "G�?zduie�?te un muzeu maritim interesant.", "�?nconjurat de mun�?i distinctivi precum Hólmatindur."],
+      en: ["Known for its long fishing tradition.", "Home to an interesting maritime museum.", "Surrounded by striking mountains like Hólmatindur."]
     }
   },
   {
@@ -74,17 +74,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.6872, 65.1517],
-    name: { de: "NeskaupstaÃ°ur", hu: "NeskaupstaÃ°ur", ro: "NeskaupstaÃ°ur", en: "NeskaupstaÃ°ur" },
+    name: { de: "Neskaupstaður", hu: "Neskaupstaður", ro: "Neskaupstaður", en: "Neskaupstaður" },
     description: {
-      de: "Ein lebhaftes Fischerdorf am NordjÃ¶rÃ°ur, bekannt fÃ¼r seine Fischverarbeitung.",
-      hu: "Ã‰lÃ©nk halÃ¡szfalu a NordjÃ¶rÃ°ur partjÃ¡n, amely hal-feldolgozÃ¡sÃ¡rÃ³l ismert.",
-      ro: "Un sat de pescari plin de viaÈ›Äƒ pe NordjÃ¶rÃ°ur, cunoscut pentru procesarea peÈ™telui.",
-      en: "A vibrant fishing town on NordjÃ¶rÃ°ur, known for its significant fish processing industry."
+      de: "Ein lebhaftes Fischerdorf am Nordjörður, bekannt für seine Fischverarbeitung.",
+      hu: "�?lénk halászfalu a Nordjörður partján, amely hal-feldolgozásáról ismert.",
+      ro: "Un sat de pescari plin de via�?�? pe Nordjörður, cunoscut pentru procesarea pe�?telui.",
+      en: "A vibrant fishing town on Nordjörður, known for its significant fish processing industry."
     },
     facts: {
-      de: ["Gilt als eines der wichtigsten Fischereizentren des Landes.", "War frÃ¼her eine isolierte Gemeinde, heute durch einen Tunnel verbunden.", "Bekannt fÃ¼r das Eistnaflug Heavy Metal Festival."],
-      hu: ["Az orszÃ¡g egyik legfontosabb halÃ¡szati kÃ¶zpontjakÃ©nt tartjÃ¡k szÃ¡mon.", "KorÃ¡bban elszigetelt kÃ¶zÃ¶ssÃ©g volt, ma alagÃºt kÃ¶ti Ã¶ssze a kÃ¼lvilÃ¡ggal.", "Az Eistnaflug heavy metal fesztivÃ¡lrÃ³l is hÃ­res."],
-      ro: ["Considerat unul dintre cele mai importante centre pescÄƒreÈ™ti din È›arÄƒ.", "A fost o comunitate izolatÄƒ, acum conectatÄƒ printr-un tunel.", "Cunoscut pentru festivalul de heavy metal Eistnaflug."],
+      de: ["Gilt als eines der wichtigsten Fischereizentren des Landes.", "War früher eine isolierte Gemeinde, heute durch einen Tunnel verbunden.", "Bekannt für das Eistnaflug Heavy Metal Festival."],
+      hu: ["Az ország egyik legfontosabb halászati központjaként tartják számon.", "Korábban elszigetelt közösség volt, ma alagút köti össze a külvilággal.", "Az Eistnaflug heavy metal fesztiválról is híres."],
+      ro: ["Considerat unul dintre cele mai importante centre pesc�?re�?ti din �?ar�?.", "A fost o comunitate izolat�?, acum conectat�? printr-un tunel.", "Cunoscut pentru festivalul de heavy metal Eistnaflug."],
       en: ["Regarded as one of the most important fishing hubs in the country.", "Formerly an isolated community, now connected by a tunnel.", "Famous for the Eistnaflug heavy metal festival."]
     }
   },
@@ -93,17 +93,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.2169, 65.0342],
-    name: { de: "ReyÃ°arfjÃ¶rÃ°ur", hu: "ReyÃ°arfjÃ¶rÃ°ur", ro: "ReyÃ°arfjÃ¶rÃ°ur", en: "ReyÃ°arfjÃ¶rÃ°ur" },
+    name: { de: "Reyðarfjörður", hu: "Reyðarfjörður", ro: "Reyðarfjörður", en: "Reyðarfjörður" },
     description: {
-      de: "Ein Ort am lÃ¤ngsten und breitesten Fjord Ostislands mit industrieller Bedeutung.",
-      hu: "TelepÃ¼lÃ©s Kelet-Izland leghosszabb Ã©s legszÃ©lesebb fjordjÃ¡nak partjÃ¡n, ipari jelentÅ‘sÃ©ggel.",
-      ro: "O aÈ™ezare pe cel mai lung È™i mai lat fiord din estul Islandei, cu importanÈ›Äƒ industrialÄƒ.",
+      de: "Ein Ort am längsten und breitesten Fjord Ostislands mit industrieller Bedeutung.",
+      hu: "Település Kelet-Izland leghosszabb és legszélesebb fjordjának partján, ipari jelent�?séggel.",
+      ro: "O a�?ezare pe cel mai lung �?i mai lat fiord din estul Islandei, cu importan�?�? industrial�?.",
       en: "A settlement on the longest and widest fjord in East Iceland, known for its industrial significance."
     },
     facts: {
-      de: ["Beherbergt ein groÃŸes Aluminiumwerk.", "War wÃ¤hrend des Zweiten Weltkriegs ein wichtiger StÃ¼tzpunkt.", "Hat ein interessantes Kriegsmuseum."],
-      hu: ["Egy hatalmas alumÃ­niumkohÃ³nak ad otthont.", "A mÃ¡sodik vilÃ¡ghÃ¡borÃº alatt fontos katonai bÃ¡zis volt.", "Ã‰rdekes hÃ¡borÃºs mÃºzeuma van."],
-      ro: ["GÄƒzduieÈ™te o mare topitorie de aluminiu.", "A fost o bazÄƒ militarÄƒ importantÄƒ Ã®n timpul celui de-al Doilea RÄƒzboi Mondial.", "Are un muzeu al rÄƒzboiului interesant."],
+      de: ["Beherbergt ein gro�?es Aluminiumwerk.", "War während des Zweiten Weltkriegs ein wichtiger Stützpunkt.", "Hat ein interessantes Kriegsmuseum."],
+      hu: ["Egy hatalmas alumíniumkohónak ad otthont.", "A második világháború alatt fontos katonai bázis volt.", "�?rdekes háborús múzeuma van."],
+      ro: ["G�?zduie�?te o mare topitorie de aluminiu.", "A fost o baz�? militar�? important�? în timpul celui de-al Doilea R�?zboi Mondial.", "Are un muzeu al r�?zboiului interesant."],
       en: ["Home to a large aluminum smelter.", "Was a major military base during World War II.", "Features an interesting war museum."]
     }
   },
@@ -112,37 +112,37 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.0139, 64.9317],
-    name: { de: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", hu: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", ro: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", en: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur" },
+    name: { de: "Fáskrúðsfjörður", hu: "Fáskrúðsfjörður", ro: "Fáskrúðsfjörður", en: "Fáskrúðsfjörður" },
     description: {
-      de: "Ein Dorf mit starken historischen Verbindungen zu franzÃ¶sischen Fischern.",
-      hu: "Falu, amely erÅ‘s tÃ¶rtÃ©nelmi kapcsolatokkal rendelkezik a francia halÃ¡szokkal.",
-      ro: "Un sat cu puternice legÄƒturi istorice cu pescarii francezi.",
+      de: "Ein Dorf mit starken historischen Verbindungen zu französischen Fischern.",
+      hu: "Falu, amely er�?s történelmi kapcsolatokkal rendelkezik a francia halászokkal.",
+      ro: "Un sat cu puternice leg�?turi istorice cu pescarii francezi.",
       en: "A village with strong historical ties to French fishermen."
     },
     facts: {
-      de: ["StraÃŸenschilder sind sowohl auf IslÃ¤ndisch als auch auf FranzÃ¶sisch.", "Beherbergt ein franzÃ¶sisches Museum und ein Krankenhaus.", "Liegt in einem wunderschÃ¶nen Fjord."],
-      hu: ["Az utcatÃ¡blÃ¡k izlandiul Ã©s franciÃ¡ul is ki vannak Ã­rva.", "Francia mÃºzeumnak Ã©s kÃ³rhÃ¡znak ad otthont.", "Egy gyÃ¶nyÃ¶rÅ± fjord partjÃ¡n fekszik."],
-      ro: ["Semnele stradale sunt atÃ¢t Ã®n islandezÄƒ, cÃ¢t È™i Ã®n francezÄƒ.", "GÄƒzduieÈ™te un muzeu È™i un spital francez.", "Situat Ã®ntr-un fiord superb."],
+      de: ["Stra�?enschilder sind sowohl auf Isländisch als auch auf Französisch.", "Beherbergt ein französisches Museum und ein Krankenhaus.", "Liegt in einem wunderschönen Fjord."],
+      hu: ["Az utcatáblák izlandiul és franciául is ki vannak írva.", "Francia múzeumnak és kórháznak ad otthont.", "Egy gyönyörű fjord partján fekszik."],
+      ro: ["Semnele stradale sunt atât în islandez�?, cât �?i în francez�?.", "G�?zduie�?te un muzeu �?i un spital francez.", "Situat într-un fiord superb."],
       en: ["Street signs are in both Icelandic and French.", "Home to a French museum and hospital.", "Located in a beautiful fjord."]
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur este un sat pitoresc din estul Islandei, renumit pentru legÄƒturile sale istorice unice cu pescarii francezi care au operat Ã®n aceste ape Ã®n secolele trecute. AceastÄƒ moÈ™tenire este vizibilÄƒ chiar È™i astÄƒzi, prin semnele stradale bilingve Ã®n islandezÄƒ È™i francezÄƒ, care oferÄƒ localitÄƒÈ›ii un caracter cultural distinctiv Ã®n peisajul islandez. Satul gÄƒzduieÈ™te un centru cultural remarcabil, situat Ã®ntr-un fost spital francez restaurat, care spune povestea pescarilor care au navigat Ã®n condiÈ›ii aspre Ã®n Atlanticul de Nord. Amplasat Ã®ntr-un fiord spectaculos, FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur oferÄƒ panorame uimitoare asupra oceanului È™i a munÈ›ilor din jur, fiind o destinaÈ›ie idealÄƒ pentru pasionaÈ›ii de istorie È™i naturÄƒ care doresc sÄƒ descopere o laturÄƒ mai puÈ›in cunoscutÄƒ a Islandei.",
-      en: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur is a picturesque village in East Iceland, renowned for its unique historical connections to the French fishermen who operated in these waters in past centuries. This heritage is visible today through bilingual street signs in Icelandic and French, giving the town a distinct cultural character. The village hosts a remarkable cultural center located in a restored former French hospital, which tells the story of the fishermen who navigated the harsh North Atlantic. Nestled in a spectacular fjord, FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur offers stunning ocean and mountain panoramas, making it an ideal destination for history and nature enthusiasts eager to explore a lesser-known side of Iceland's rich maritime past."
+      ro: "Fáskrúðsfjörður este un sat pitoresc din estul Islandei, renumit pentru leg�?turile sale istorice unice cu pescarii francezi care au operat în aceste ape în secolele trecute. Aceast�? mo�?tenire este vizibil�? chiar �?i ast�?zi, prin semnele stradale bilingve în islandez�? �?i francez�?, care ofer�? localit�?�?ii un caracter cultural distinctiv în peisajul islandez. Satul g�?zduie�?te un centru cultural remarcabil, situat într-un fost spital francez restaurat, care spune povestea pescarilor care au navigat în condi�?ii aspre în Atlanticul de Nord. Amplasat într-un fiord spectaculos, Fáskrúðsfjörður ofer�? panorame uimitoare asupra oceanului �?i a mun�?ilor din jur, fiind o destina�?ie ideal�? pentru pasiona�?ii de istorie �?i natur�? care doresc s�? descopere o latur�? mai pu�?in cunoscut�? a Islandei.",
+      en: "Fáskrúðsfjörður is a picturesque village in East Iceland, renowned for its unique historical connections to the French fishermen who operated in these waters in past centuries. This heritage is visible today through bilingual street signs in Icelandic and French, giving the town a distinct cultural character. The village hosts a remarkable cultural center located in a restored former French hospital, which tells the story of the fishermen who navigated the harsh North Atlantic. Nestled in a spectacular fjord, Fáskrúðsfjörður offers stunning ocean and mountain panoramas, making it an ideal destination for history and nature enthusiasts eager to explore a lesser-known side of Iceland's rich maritime past."
     },
     factsAdvanced: {
       de: [],
       hu: [],
       ro: [
-        "Semnele stradale bilingve amintesc de legÄƒturile cu FranÈ›a.",
-        "GÄƒzduieÈ™te un centru cultural Ã®n clÄƒdirea unui fost spital francez.",
-        "Satul a fost un punct cheie pentru pescarii francezi Ã®n secolele XIX-XX.",
-        "Situat Ã®ntr-un fiord adÃ¢nc cu peisaje dramatice.",
-        "OferÄƒ o perspectivÄƒ unicÄƒ asupra istoriei pescÄƒreÈ™ti internaÈ›ionale a Islandei.",
-        "Un loc ideal pentru a observa fauna marinÄƒ localÄƒ.",
-        "Conectat de restul regiunii prin tuneluri moderne Ã®n fiorduri.",
-        "Cunoscut pentru atmosfera sa liniÈ™titÄƒ È™i autenticÄƒ."
+        "Semnele stradale bilingve amintesc de leg�?turile cu Fran�?a.",
+        "G�?zduie�?te un centru cultural în cl�?direa unui fost spital francez.",
+        "Satul a fost un punct cheie pentru pescarii francezi în secolele XIX-XX.",
+        "Situat într-un fiord adânc cu peisaje dramatice.",
+        "Ofer�? o perspectiv�? unic�? asupra istoriei pesc�?re�?ti interna�?ionale a Islandei.",
+        "Un loc ideal pentru a observa fauna marin�? local�?.",
+        "Conectat de restul regiunii prin tuneluri moderne în fiorduri.",
+        "Cunoscut pentru atmosfera sa lini�?tit�? �?i autentic�?."
       ],
       en: [
         "Bilingual street signs recall the historical links to France.",
@@ -161,18 +161,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.2881, 64.6564],
-    name: { de: "DjÃºpivogur", hu: "DjÃºpivogur", ro: "DjÃºpivogur", en: "DjÃºpivogur" },
+    name: { de: "Djúpivogur", hu: "Djúpivogur", ro: "Djúpivogur", en: "Djúpivogur" },
     description: {
-      de: "Ein charmanter Hafenort, bekannt fÃ¼r seine Natur und Kunstinstallationen.",
-      hu: "BÃ¡jos kikÃ¶tÅ‘vÃ¡ros, amely termÃ©szetÃ©rÅ‘l Ã©s mÅ±vÃ©szeti alkotÃ¡sairÃ³l ismert.",
-      ro: "Un oraÈ™ portuar fermecÄƒtor, cunoscut pentru naturÄƒ È™i instalaÈ›iile de artÄƒ.",
+      de: "Ein charmanter Hafenort, bekannt für seine Natur und Kunstinstallationen.",
+      hu: "Bájos kiköt�?város, amely természetér�?l és művészeti alkotásairól ismert.",
+      ro: "Un ora�? portuar fermec�?tor, cunoscut pentru natur�? �?i instala�?iile de art�?.",
       en: "A charming harbor town known for its natural beauty and unique art installations."
     },
     facts: {
-      de: ["Heimat der Kunstinstallation 'Die Eier von Merry Bay'.", "Ein zertifizierter 'Cittaslow' Ort.", "Blick auf den pyramidenfÃ¶rmigen Berg BÃºlandstindur."],
-      hu: ["Itt talÃ¡lhatÃ³ a 'Merry Bay tojÃ¡sai' nevÅ± mÅ±vÃ©szeti alkotÃ¡s.", "MinÅ‘sÃ­tett 'Cittaslow' (lassÃº vÃ¡ros) telepÃ¼lÃ©s.", "KilÃ¡tÃ¡s nyÃ­lik a piramis alakÃº BÃºlandstindur hegyre."],
-      ro: ["GÄƒzduieÈ™te instalaÈ›ia de artÄƒ â€žOuÄƒle din Merry Bayâ€.", "Un oraÈ™ certificat â€žCittaslowâ€.", "Vedere spre muntele piramidal BÃºlandstindur."],
-      en: ["Home to the 'Eggs of Merry Bay' art installation.", "A certified 'Cittaslow' town.", "Offers views of the pyramid-shaped BÃºlandstindur mountain."]
+      de: ["Heimat der Kunstinstallation 'Die Eier von Merry Bay'.", "Ein zertifizierter 'Cittaslow' Ort.", "Blick auf den pyramidenförmigen Berg Búlandstindur."],
+      hu: ["Itt található a 'Merry Bay tojásai' nevű művészeti alkotás.", "Min�?sített 'Cittaslow' (lassú város) település.", "Kilátás nyílik a piramis alakú Búlandstindur hegyre."],
+      ro: ["G�?zduie�?te instala�?ia de art�? �??Ou�?le din Merry Bay�?�.", "Un ora�? certificat �??Cittaslow�?�.", "Vedere spre muntele piramidal Búlandstindur."],
+      en: ["Home to the 'Eggs of Merry Bay' art installation.", "A certified 'Cittaslow' town.", "Offers views of the pyramid-shaped Búlandstindur mountain."]
     }
   },
   {
@@ -180,17 +180,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.8217, 65.7533],
-    name: { de: "VopnafjÃ¶rÃ°ur", hu: "VopnafjÃ¶rÃ°ur", ro: "VopnafjÃ¶rÃ°ur", en: "VopnafjÃ¶rÃ°ur" },
+    name: { de: "Vopnafjörður", hu: "Vopnafjörður", ro: "Vopnafjörður", en: "Vopnafjörður" },
     description: {
-      de: "Ein Dorf im Nordosten Islands, bekannt fÃ¼r seine LachsflÃ¼sse und weite TÃ¤ler.",
-      hu: "TelepÃ¼lÃ©s Ã‰szakkelet-Izlandon, amely lazacos folyÃ³irÃ³l Ã©s tÃ¡gas vÃ¶lgyeirÅ‘l ismert.",
-      ro: "Un sat din nord-estul Islandei, cunoscut pentru rÃ¢urile sale de somon È™i vÄƒile largi.",
+      de: "Ein Dorf im Nordosten Islands, bekannt für seine Lachsflüsse und weite Täler.",
+      hu: "Település �?szakkelet-Izlandon, amely lazacos folyóiról és tágas völgyeir�?l ismert.",
+      ro: "Un sat din nord-estul Islandei, cunoscut pentru râurile sale de somon �?i v�?ile largi.",
       en: "A village in Northeast Iceland known for its salmon rivers and vast valleys."
     },
     facts: {
-      de: ["Ein beliebtes Ziel fÃ¼r Sportfischer.", "Historisch ein wichtiger Handelsposten.", "Umgeben von majestÃ¤tischen Bergen."],
-      hu: ["A sporthorgÃ¡szok kedvelt cÃ©lpontja.", "TÃ¶rtÃ©nelmileg fontos kereskedelmi Ã¡llomÃ¡s volt.", "FensÃ©ges hegyek veszik kÃ¶rÃ¼l."],
-      ro: ["O destinaÈ›ie popularÄƒ pentru pescarii sportivi.", "Istoric, un punct comercial important.", "ÃŽnconjurat de munÈ›i maiestuoÈ™i."],
+      de: ["Ein beliebtes Ziel für Sportfischer.", "Historisch ein wichtiger Handelsposten.", "Umgeben von majestätischen Bergen."],
+      hu: ["A sporthorgászok kedvelt célpontja.", "Történelmileg fontos kereskedelmi állomás volt.", "Fenséges hegyek veszik körül."],
+      ro: ["O destina�?ie popular�? pentru pescarii sportivi.", "Istoric, un punct comercial important.", "�?nconjurat de mun�?i maiestuo�?i."],
       en: ["A popular destination for sport fishing.", "Historically an important trading post.", "Surrounded by majestic mountains."]
     }
   },
@@ -199,18 +199,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.4083, 65.275],
-    name: { de: "FellabÃ¦r", hu: "FellabÃ¦r", ro: "FellabÃ¦r", en: "FellabÃ¦r" },
+    name: { de: "Fellabær", hu: "Fellabær", ro: "Fellabær", en: "Fellabær" },
     description: {
-      de: "Ein Wohngebiet gegenÃ¼ber von EgilsstaÃ°ir am anderen Ufer des LagarfljÃ³t.",
-      hu: "LakÃ³Ã¶vezet EgilsstaÃ°irral szemben, a LagarfljÃ³t tÃºlpartjÃ¡n.",
-      ro: "O zonÄƒ rezidenÈ›ialÄƒ vizavi de EgilsstaÃ°ir, pe celÄƒlalt mal al rÃ¢ului LagarfljÃ³t.",
-      en: "A residential area across from EgilsstaÃ°ir on the other side of the LagarfljÃ³t river."
+      de: "Ein Wohngebiet gegenüber von Egilsstaðir am anderen Ufer des Lagarfljót.",
+      hu: "Lakóövezet Egilsstaðirral szemben, a Lagarfljót túlpartján.",
+      ro: "O zon�? reziden�?ial�? vizavi de Egilsstaðir, pe cel�?lalt mal al râului Lagarfljót.",
+      en: "A residential area across from Egilsstaðir on the other side of the Lagarfljót river."
     },
     facts: {
-      de: ["Durch eine BrÃ¼cke mit EgilsstaÃ°ir verbunden.", "Bietet einen schÃ¶nen Blick auf den Fluss.", "Teil der Gemeinde MÃºlaÃ¾ing."],
-      hu: ["HÃ­d kÃ¶ti Ã¶ssze EgilsstaÃ°irral.", "SzÃ©p kilÃ¡tÃ¡st nyÃºjt a folyÃ³ra.", "MÃºlaÃ¾ing kÃ¶zsÃ©g rÃ©sze."],
-      ro: ["Conectat prin pod de EgilsstaÃ°ir.", "OferÄƒ o vedere frumoasÄƒ spre rÃ¢u.", "Parte a municipalitÄƒÈ›ii MÃºlaÃ¾ing."],
-      en: ["Connected by bridge to EgilsstaÃ°ir.", "Offers a nice view of the river.", "Part of the MÃºlaÃ¾ing municipality."]
+      de: ["Durch eine Brücke mit Egilsstaðir verbunden.", "Bietet einen schönen Blick auf den Fluss.", "Teil der Gemeinde Múlaþing."],
+      hu: ["Híd köti össze Egilsstaðirral.", "Szép kilátást nyújt a folyóra.", "Múlaþing község része."],
+      ro: ["Conectat prin pod de Egilsstaðir.", "Ofer�? o vedere frumoas�? spre râu.", "Parte a municipalit�?�?ii Múlaþing."],
+      en: ["Connected by bridge to Egilsstaðir.", "Offers a nice view of the river.", "Part of the Múlaþing municipality."]
     }
   },
   {
@@ -218,17 +218,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-21.1878, 63.9972],
-    name: { de: "HveragerÃ°i", hu: "HveragerÃ°i", ro: "HveragerÃ°i", en: "HveragerÃ°i" },
+    name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði" },
     description: {
-      de: "Bekannt als das 'GewÃ¤chshaus-Dorf' aufgrund seiner intensiven geothermischen AktivitÃ¤t.",
-      hu: "A 'meleghÃ¡zak vÃ¡rosakÃ©nt' ismert az intenzÃ­v geotermikus aktivitÃ¡s miatt.",
-      ro: "Cunoscut sub numele de â€žsatul serelorâ€ datoritÄƒ activitÄƒÈ›ii sale geotermale intense.",
+      de: "Bekannt als das 'Gewächshaus-Dorf' aufgrund seiner intensiven geothermischen Aktivität.",
+      hu: "A 'melegházak városaként' ismert az intenzív geotermikus aktivitás miatt.",
+      ro: "Cunoscut sub numele de �??satul serelor�?� datorit�? activit�?�?ii sale geotermale intense.",
       en: "Known as the 'Greenhouse Village' due to its high level of geothermal activity."
     },
     facts: {
-      de: ["Nutzt ErdwÃ¤rme fÃ¼r den Anbau von GemÃ¼se und Blumen.", "Liegt an einem beliebten Wanderweg zum heiÃŸen Fluss Reykjadalur.", "Hat einen geothermischen Park im Stadtzentrum."],
-      hu: ["Geotermikus energiÃ¡t hasznÃ¡l zÃ¶ldsÃ©gek Ã©s virÃ¡gok termesztÃ©sÃ©hez.", "A Reykjadalur forrÃ³ folyÃ³hoz vezetÅ‘ tÃºraÃºtvonal mentÃ©n fekszik.", "A vÃ¡roskÃ¶zpontban geotermikus park talÃ¡lhatÃ³."],
-      ro: ["FoloseÈ™te energia geotermalÄƒ pentru a cultiva legume È™i flori.", "Situat pe un traseu popular cÄƒtre rÃ¢ul fierbinte Reykjadalur.", "Are un parc geotermal Ã®n centrul oraÈ™ului."],
+      de: ["Nutzt Erdwärme für den Anbau von Gemüse und Blumen.", "Liegt an einem beliebten Wanderweg zum hei�?en Fluss Reykjadalur.", "Hat einen geothermischen Park im Stadtzentrum."],
+      hu: ["Geotermikus energiát használ zöldségek és virágok termesztéséhez.", "A Reykjadalur forró folyóhoz vezet�? túraútvonal mentén fekszik.", "A városközpontban geotermikus park található."],
+      ro: ["Folose�?te energia geotermal�? pentru a cultiva legume �?i flori.", "Situat pe un traseu popular c�?tre râul fierbinte Reykjadalur.", "Are un parc geotermal în centrul ora�?ului."],
       en: ["Uses geothermal energy for growing vegetables and flowers.", "Located on a popular hiking trail to the Reykjadalur hot river.", "Features a geothermal park in the town center."]
     }
   },
@@ -237,17 +237,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-21.3833, 63.85],
-    name: { de: "ÃžorlÃ¡kshÃ¶fn", hu: "ÃžorlÃ¡kshÃ¶fn", ro: "ÃžorlÃ¡kshÃ¶fn", en: "ÃžorlÃ¡kshÃ¶fn" },
+    name: { de: "�?orlákshöfn", hu: "�?orlákshöfn", ro: "�?orlákshöfn", en: "�?orlákshöfn" },
     description: {
-      de: "Ein wichtiger Hafenort an der SÃ¼dkÃ¼ste Islands.",
-      hu: "Fontos kikÃ¶tÅ‘vÃ¡ros Izland dÃ©li partjÃ¡n.",
-      ro: "Un oraÈ™ portuar important de pe coasta de sud a Islandei.",
+      de: "Ein wichtiger Hafenort an der Südküste Islands.",
+      hu: "Fontos kiköt�?város Izland déli partján.",
+      ro: "Un ora�? portuar important de pe coasta de sud a Islandei.",
       en: "An important port town on the southern coast of Iceland."
     },
     facts: {
-      de: ["Ankunftsort fÃ¼r die FÃ¤hre von den WestmÃ¤nnerinseln.", "Bekannt fÃ¼r seine schwarzen SandstrÃ¤nde.", "Ein Zentrum fÃ¼r Fischerei und Handel."],
-      hu: ["A Vestmannaeyjar-szigetekrÅ‘l Ã©rkezÅ‘ komp kikÃ¶tÅ‘helye.", "Fekete homokos strandjairÃ³l ismert.", "HalÃ¡szati Ã©s kereskedelmi kÃ¶zpont."],
-      ro: ["Punctul de sosire pentru feribotul din Insulele Westman.", "Cunoscut pentru plajele sale cu nisip negru.", "Un centru pentru pescuit È™i comerÈ›."],
+      de: ["Ankunftsort für die Fähre von den Westmännerinseln.", "Bekannt für seine schwarzen Sandstrände.", "Ein Zentrum für Fischerei und Handel."],
+      hu: ["A Vestmannaeyjar-szigetekr�?l érkez�? komp kiköt�?helye.", "Fekete homokos strandjairól ismert.", "Halászati és kereskedelmi központ."],
+      ro: ["Punctul de sosire pentru feribotul din Insulele Westman.", "Cunoscut pentru plajele sale cu nisip negru.", "Un centru pentru pescuit �?i comer�?."],
       en: ["Arrival point for the ferry from the Westman Islands.", "Known for its black sand beaches.", "A hub for fishing and trade."]
     }
   },
@@ -258,16 +258,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.15, 63.8667],
     name: { de: "Eyrarbakki", hu: "Eyrarbakki", ro: "Eyrarbakki", en: "Eyrarbakki" },
     description: {
-      de: "Ein historisches Dorf, das einst der wichtigste Hafen in SÃ¼disland war.",
-      hu: "TÃ¶rtÃ©nelmi falu, amely egykor DÃ©l-Izland legfontosabb kikÃ¶tÅ‘je volt.",
-      ro: "Un sat istoric care a fost odinioarÄƒ cel mai important port din sudul Islandei.",
+      de: "Ein historisches Dorf, das einst der wichtigste Hafen in Südisland war.",
+      hu: "Történelmi falu, amely egykor Dél-Izland legfontosabb kiköt�?je volt.",
+      ro: "Un sat istoric care a fost odinioar�? cel mai important port din sudul Islandei.",
       en: "A historic village that was once the primary port in South Iceland."
     },
     facts: {
-      de: ["Beherbergt viele gut erhaltene alte HolzhÃ¤user.", "Heimat des Ã¤ltesten Hauses Islands, 'HÃºsiÃ°'.", "Ein friedlicher Ort mit reicher Geschichte."],
-      hu: ["Sok jÃ³l megÅ‘rzÃ¶tt rÃ©gi fahÃ¡znak ad otthont.", "Itt talÃ¡lhatÃ³ Izland legÃ¶regebb hÃ¡za, a 'HÃºsiÃ°'.", "BÃ©kÃ©s hely, gazdag tÃ¶rtÃ©nelemmel."],
-      ro: ["GÄƒzduieÈ™te multe case vechi din lemn bine conservate.", "Casa celei mai vechi clÄƒdiri din Islanda, â€žHÃºsiÃ°â€.", "Un loc liniÈ™tit cu o istorie bogatÄƒ."],
-      en: ["Home to many well-preserved old wooden houses.", "Features the oldest house in Iceland, 'HÃºsiÃ°'.", "A peaceful spot with a rich history."]
+      de: ["Beherbergt viele gut erhaltene alte Holzhäuser.", "Heimat des ältesten Hauses Islands, 'Húsið'.", "Ein friedlicher Ort mit reicher Geschichte."],
+      hu: ["Sok jól meg�?rzött régi faháznak ad otthont.", "Itt található Izland legöregebb háza, a 'Húsið'.", "Békés hely, gazdag történelemmel."],
+      ro: ["G�?zduie�?te multe case vechi din lemn bine conservate.", "Casa celei mai vechi cl�?diri din Islanda, �??Húsið�?�.", "Un loc lini�?tit cu o istorie bogat�?."],
+      en: ["Home to many well-preserved old wooden houses.", "Features the oldest house in Iceland, 'Húsið'.", "A peaceful spot with a rich history."]
     }
   },
   {
@@ -277,15 +277,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.0667, 63.8333],
     name: { de: "Stokkseyri", hu: "Stokkseyri", ro: "Stokkseyri", en: "Stokkseyri" },
     description: {
-      de: "Ein Fischerdorf bekannt fÃ¼r seine raue KÃ¼ste und seine Kulturszene.",
-      hu: "HalÃ¡szfalu, amely vad partvidÃ©kÃ©rÅ‘l Ã©s kulturÃ¡lis Ã©letÃ©rÅ‘l ismert.",
-      ro: "Un sat de pescari cunoscut pentru coasta sa asprÄƒ È™i scena culturalÄƒ.",
+      de: "Ein Fischerdorf bekannt für seine raue Küste und seine Kulturszene.",
+      hu: "Halászfalu, amely vad partvidékér�?l és kulturális életér�?l ismert.",
+      ro: "Un sat de pescari cunoscut pentru coasta sa aspr�? �?i scena cultural�?.",
       en: "A fishing village known for its rugged coastline and vibrant cultural scene."
     },
     facts: {
-      de: ["BerÃ¼hmt fÃ¼r sein Hummerrestaurant.", "Beherbergt das 'Geisterzentrum' und ein Elfenmuseum.", "Ein beliebtes Ziel fÃ¼r Kajakfahrer."],
-      hu: ["HÃ­res a homÃ¡r-Ã©ttermÃ©rÅ‘l.", "Itt talÃ¡lhatÃ³ a 'SzellemkÃ¶zpont' Ã©s egy elf-mÃºzeum.", "A kajakosok kedvelt cÃ©lpontja."],
-      ro: ["Faimos pentru restaurantul sÄƒu de homari.", "GÄƒzduieÈ™te â€žCentrul Ghostâ€ È™i un muzeu al elfilor.", "O destinaÈ›ie popularÄƒ pentru caiakiÈ™ti."],
+      de: ["Berühmt für sein Hummerrestaurant.", "Beherbergt das 'Geisterzentrum' und ein Elfenmuseum.", "Ein beliebtes Ziel für Kajakfahrer."],
+      hu: ["Híres a homár-éttermér�?l.", "Itt található a 'Szellemközpont' és egy elf-múzeum.", "A kajakosok kedvelt célpontja."],
+      ro: ["Faimos pentru restaurantul s�?u de homari.", "G�?zduie�?te �??Centrul Ghost�?� �?i un muzeu al elfilor.", "O destina�?ie popular�? pentru caiaki�?ti."],
       en: ["Famous for its lobster restaurant.", "Home to the 'Ghost Center' and an elf museum.", "A popular destination for kayakers."]
     }
   },
@@ -294,17 +294,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-19.0108, 63.4194],
-    name: { de: "VÃ­k Ã­ MÃ½rdal", hu: "VÃ­k Ã­ MÃ½rdal", ro: "VÃ­k Ã­ MÃ½rdal", en: "VÃ­k Ã­ MÃ½rdal" },
+    name: { de: "Vík í Mýrdal", hu: "Vík í Mýrdal", ro: "Vík í Mýrdal", en: "Vík í Mýrdal" },
     description: {
-      de: "Die sÃ¼dlichste Gemeinde auf dem islÃ¤ndischen Festland, am FuÃŸe des MÃ½rdalsjÃ¶kull.",
-      hu: "Az izlandi szÃ¡razfÃ¶ld legdÃ©lebbi telepÃ¼lÃ©se, a MÃ½rdalsjÃ¶kull lÃ¡bÃ¡nÃ¡l.",
-      ro: "Cea mai sudicÄƒ aÈ™ezare de pe continentul islandez, la poalele gheÈ›arului MÃ½rdalsjÃ¶kull.",
-      en: "The southernmost village on the Icelandic mainland, nestled at the foot of MÃ½rdalsjÃ¶kull."
+      de: "Die südlichste Gemeinde auf dem isländischen Festland, am Fu�?e des Mýrdalsjökull.",
+      hu: "Az izlandi szárazföld legdélebbi települése, a Mýrdalsjökull lábánál.",
+      ro: "Cea mai sudic�? a�?ezare de pe continentul islandez, la poalele ghe�?arului Mýrdalsjökull.",
+      en: "The southernmost village on the Icelandic mainland, nestled at the foot of Mýrdalsjökull."
     },
     facts: {
-      de: ["BerÃ¼hmt fÃ¼r den schwarzen Strand Reynisfjara.", "Bietet einen Blick auf die Felsnadeln Reynisdrangar.", "Hat eine ikonische weiÃŸe Kirche auf einem HÃ¼gel."],
-      hu: ["A Reynisfjara fekete strandjÃ¡rÃ³l hÃ­res.", "KilÃ¡tÃ¡s nyÃ­lik a Reynisdrangar sziklatÅ±kre.", "Ikonikus fehÃ©r temploma van egy dombon."],
-      ro: ["Faimos pentru plaja neagrÄƒ Reynisfjara.", "OferÄƒ vederi spre stÃ¢ncile Reynisdrangar.", "Are o bisericÄƒ albÄƒ emblematicÄƒ pe un deal."],
+      de: ["Berühmt für den schwarzen Strand Reynisfjara.", "Bietet einen Blick auf die Felsnadeln Reynisdrangar.", "Hat eine ikonische wei�?e Kirche auf einem Hügel."],
+      hu: ["A Reynisfjara fekete strandjáról híres.", "Kilátás nyílik a Reynisdrangar sziklatűkre.", "Ikonikus fehér temploma van egy dombon."],
+      ro: ["Faimos pentru plaja neagr�? Reynisfjara.", "Ofer�? vederi spre stâncile Reynisdrangar.", "Are o biseric�? alb�? emblematic�? pe un deal."],
       en: ["Famous for the Reynisfjara black sand beach.", "Offers views of the Reynisdrangar sea stacks.", "Features an iconic white church on a hill."]
     }
   },
@@ -313,18 +313,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-18.05, 63.7833],
-    name: { de: "KirkjubÃ¦jarklaustur", hu: "KirkjubÃ¦jarklaustur", ro: "KirkjubÃ¦jarklaustur", en: "KirkjubÃ¦jarklaustur" },
+    name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur" },
     description: {
-      de: "Ein historisches Dorf an der RingstraÃŸe, bekannt fÃ¼r sein ehemaliges Kloster.",
-      hu: "TÃ¶rtÃ©nelmi falu a gyÅ±rÅ±s Ãºt mentÃ©n, egykori kolostorÃ¡rÃ³l ismert.",
-      ro: "Un sat istoric pe È™oseaua de centurÄƒ, cunoscut pentru fosta sa mÄƒnÄƒstire.",
+      de: "Ein historisches Dorf an der Ringstra�?e, bekannt für sein ehemaliges Kloster.",
+      hu: "Történelmi falu a gyűrűs út mentén, egykori kolostoráról ismert.",
+      ro: "Un sat istoric pe �?oseaua de centur�?, cunoscut pentru fosta sa m�?n�?stire.",
       en: "A historic village on the Ring Road, known for its former convent."
     },
     facts: {
-      de: ["Wird oft einfach 'Klaustur' genannt.", "Heimat des 'Kirchenbodens' (KirkjugÃ³lf), einer natÃ¼rlichen Basaltformation.", "Ein wichtiger Zwischenstopp auf dem Weg zum VatnajÃ¶kull."],
-      hu: ["Gyakran csak 'Klaustur'-nak nevezik.", "Itt talÃ¡lhatÃ³ a 'templompadlÃ³' (KirkjugÃ³lf), egy termÃ©szetes bazaltformÃ¡ciÃ³.", "Fontos megÃ¡llÃ³ a VatnajÃ¶kull felÃ© vezetÅ‘ Ãºton."],
-      ro: ["Deseori numit pur È™i simplu â€žKlausturâ€.", "GÄƒzduieÈ™te â€žPodeaua Bisericiiâ€ (KirkjugÃ³lf), o formaÈ›iune naturalÄƒ de bazalt.", "O oprire importantÄƒ Ã®n drum spre VatnajÃ¶kull."],
-      en: ["Often simply called 'Klaustur'.", "Home to the 'Church Floor' (KirkjugÃ³lf), a natural basalt formation.", "An important stop on the way to VatnajÃ¶kull."]
+      de: ["Wird oft einfach 'Klaustur' genannt.", "Heimat des 'Kirchenbodens' (Kirkjugólf), einer natürlichen Basaltformation.", "Ein wichtiger Zwischenstopp auf dem Weg zum Vatnajökull."],
+      hu: ["Gyakran csak 'Klaustur'-nak nevezik.", "Itt található a 'templompadló' (Kirkjugólf), egy természetes bazaltformáció.", "Fontos megálló a Vatnajökull felé vezet�? úton."],
+      ro: ["Deseori numit pur �?i simplu �??Klaustur�?�.", "G�?zduie�?te �??Podeaua Bisericii�?� (Kirkjugólf), o forma�?iune natural�? de bazalt.", "O oprire important�? în drum spre Vatnajökull."],
+      en: ["Often simply called 'Klaustur'.", "Home to the 'Church Floor' (Kirkjugólf), a natural basalt formation.", "An important stop on the way to Vatnajökull."]
     }
   },
   {
@@ -332,17 +332,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-20.2225, 63.7489],
-    name: { de: "HvolsvÃ¶llur", hu: "HvolsvÃ¶llur", ro: "HvolsvÃ¶llur", en: "HvolsvÃ¶llur" },
+    name: { de: "Hvolsvöllur", hu: "Hvolsvöllur", ro: "Hvolsvöllur", en: "Hvolsvöllur" },
     description: {
-      de: "Ein Dorf im SÃ¼den, das idealer Ausgangspunkt fÃ¼r Touren ins Hochland ist.",
-      hu: "TelepÃ¼lÃ©s dÃ©len, amely ideÃ¡lis kiindulÃ³pont a felfÃ¶ldi tÃºrÃ¡khoz.",
-      ro: "Un sat din sud, care este un punct de plecare ideal pentru tururi Ã®n zonele muntoase.",
+      de: "Ein Dorf im Süden, das idealer Ausgangspunkt für Touren ins Hochland ist.",
+      hu: "Település délen, amely ideális kiindulópont a felföldi túrákhoz.",
+      ro: "Un sat din sud, care este un punct de plecare ideal pentru tururi în zonele muntoase.",
       en: "A village in the south, serving as an ideal starting point for Highland tours."
     },
     facts: {
-      de: ["Heimat des LAVA Centre, einer interaktiven Vulkan-Ausstellung.", "Liegt in einem geschichtstrÃ¤chtigen Gebiet der islÃ¤ndischen Sagas.", "Ein Zentrum fÃ¼r Landwirtschaft und Tourismus."],
-      hu: ["Itt talÃ¡lhatÃ³ a LAVA Centre, egy interaktÃ­v vulkÃ¡nkiÃ¡llÃ­tÃ¡s.", "Az izlandi szagÃ¡k tÃ¶rtÃ©nelmi vidÃ©kÃ©n fekszik.", "MezÅ‘gazdasÃ¡gi Ã©s turisztikai kÃ¶zpont."],
-      ro: ["GÄƒzduieÈ™te LAVA Centre, o expoziÈ›ie interactivÄƒ despre vulcani.", "Situat Ã®ntr-o zonÄƒ bogatÄƒ Ã®n istoria sagÄƒi islandeze.", "Un centru pentru agriculturÄƒ È™i turism."],
+      de: ["Heimat des LAVA Centre, einer interaktiven Vulkan-Ausstellung.", "Liegt in einem geschichtsträchtigen Gebiet der isländischen Sagas.", "Ein Zentrum für Landwirtschaft und Tourismus."],
+      hu: ["Itt található a LAVA Centre, egy interaktív vulkánkiállítás.", "Az izlandi szagák történelmi vidékén fekszik.", "Mez�?gazdasági és turisztikai központ."],
+      ro: ["G�?zduie�?te LAVA Centre, o expozi�?ie interactiv�? despre vulcani.", "Situat într-o zon�? bogat�? în istoria sag�?i islandeze.", "Un centru pentru agricultur�? �?i turism."],
       en: ["Home to the LAVA Centre, an interactive volcano exhibition.", "Located in a historical area of the Icelandic Sagas.", "A hub for agriculture and tourism."]
     }
   },
@@ -353,15 +353,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.4, 63.8333],
     name: { de: "Hella", hu: "Hella", ro: "Hella", en: "Hella" },
     description: {
-      de: "Ein kleiner Ort am Fluss Ytri-RangÃ¡, bekannt fÃ¼r seine Forellenangelei.",
-      hu: "Kisebb telepÃ¼lÃ©s az Ytri-RangÃ¡ folyÃ³ partjÃ¡n, pisztrÃ¡nghorgÃ¡szatÃ¡rÃ³l ismert.",
-      ro: "O micÄƒ aÈ™ezare pe rÃ¢ul Ytri-RangÃ¡, cunoscutÄƒ pentru pescuitul la pÄƒstrÄƒv.",
-      en: "A small town on the Ytri-RangÃ¡ river, famous for its trout fishing."
+      de: "Ein kleiner Ort am Fluss Ytri-Rangá, bekannt für seine Forellenangelei.",
+      hu: "Kisebb település az Ytri-Rangá folyó partján, pisztránghorgászatáról ismert.",
+      ro: "O mic�? a�?ezare pe râul Ytri-Rangá, cunoscut�? pentru pescuitul la p�?str�?v.",
+      en: "A small town on the Ytri-Rangá river, famous for its trout fishing."
     },
     facts: {
-      de: ["Ein beliebtes Zentrum fÃ¼r Pferdetouren.", "In der NÃ¤he befinden sich die kÃ¼nstlichen HÃ¶hlen von Hella.", "Ein wichtiger Versorgungspunkt an der RingstraÃŸe."],
-      hu: ["A lovastÃºrÃ¡k nÃ©pszerÅ± kÃ¶zpontja.", "A kÃ¶zelben talÃ¡lhatÃ³k a hellai mestersÃ©ges barlangok.", "Fontos ellÃ¡tÃ³hely a gyÅ±rÅ±s Ãºt mentÃ©n."],
-      ro: ["Un centru popular pentru tururi cÄƒlare.", "ÃŽn apropiere se aflÄƒ peÈ™terile artificiale din Hella.", "Un punct important de aprovizionare pe È™oseaua de centurÄƒ."],
+      de: ["Ein beliebtes Zentrum für Pferdetouren.", "In der Nähe befinden sich die künstlichen Höhlen von Hella.", "Ein wichtiger Versorgungspunkt an der Ringstra�?e."],
+      hu: ["A lovastúrák népszerű központja.", "A közelben találhatók a hellai mesterséges barlangok.", "Fontos ellátóhely a gyűrűs út mentén."],
+      ro: ["Un centru popular pentru tururi c�?lare.", "�?n apropiere se afl�? pe�?terile artificiale din Hella.", "Un punct important de aprovizionare pe �?oseaua de centur�?."],
       en: ["A popular center for horseback riding tours.", "Nearby are the man-made caves of Hella.", "An important supply point on the Ring Road."]
     }
   },
@@ -370,17 +370,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-20.3333, 64.1333],
-    name: { de: "FlÃºÃ°ir", hu: "FlÃºÃ°ir", ro: "FlÃºÃ°ir", en: "FlÃºÃ°ir" },
+    name: { de: "Flúðir", hu: "Flúðir", ro: "Flúðir", en: "Flúðir" },
     description: {
-      de: "Ein Dorf bekannt fÃ¼r seine GewÃ¤chshÃ¤user und die 'Secret Lagoon'.",
-      hu: "Falu, amely meleghÃ¡zairÃ³l Ã©s a 'Titkos LagÃºnÃ¡rÃ³l' ismert.",
-      ro: "Un sat cunoscut pentru serele sale È™i â€žSecret Lagoonâ€.",
+      de: "Ein Dorf bekannt für seine Gewächshäuser und die 'Secret Lagoon'.",
+      hu: "Falu, amely melegházairól és a 'Titkos Lagúnáról' ismert.",
+      ro: "Un sat cunoscut pentru serele sale �?i �??Secret Lagoon�?�.",
       en: "A village known for its greenhouses and the 'Secret Lagoon' geothermal spa."
     },
     facts: {
-      de: ["Heimat der Ã¤ltesten natÃ¼rlichen Thermalquelle Islands.", "Ein wichtiges Zentrum fÃ¼r den Anbau von GemÃ¼se.", "In der NÃ¤he des Golden Circle gelegen."],
-      hu: ["Itt talÃ¡lhatÃ³ Izland legrÃ©gebbi termÃ©szetes hÅ‘forrÃ¡sa.", "ZÃ¶ldsÃ©gtermesztÃ©s fontos kÃ¶zpontja.", "Az Arany kÃ¶rÃºt kÃ¶zelÃ©ben fekszik."],
-      ro: ["GÄƒzduieÈ™te cel mai vechi izvor termal natural din Islanda.", "Un centru important pentru cultivarea legumelor.", "Situat Ã®n apropierea Cercului de Aur."],
+      de: ["Heimat der ältesten natürlichen Thermalquelle Islands.", "Ein wichtiges Zentrum für den Anbau von Gemüse.", "In der Nähe des Golden Circle gelegen."],
+      hu: ["Itt található Izland legrégebbi természetes h�?forrása.", "Zöldségtermesztés fontos központja.", "Az Arany körút közelében fekszik."],
+      ro: ["G�?zduie�?te cel mai vechi izvor termal natural din Islanda.", "Un centru important pentru cultivarea legumelor.", "Situat în apropierea Cercului de Aur."],
       en: ["Home to the oldest natural geothermal pool in Iceland.", "A major hub for vegetable farming.", "Located near the Golden Circle."]
     }
   },
@@ -391,15 +391,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.7333, 64.2167],
     name: { de: "Laugarvatn", hu: "Laugarvatn", ro: "Laugarvatn", en: "Laugarvatn" },
     description: {
-      de: "Ein Ort an einem See mit geothermischen Quellen, beliebt fÃ¼r Wellness.",
-      hu: "TelepÃ¼lÃ©s egy tÃ³ partjÃ¡n, geotermikus forrÃ¡sokkal, kedvelt wellness-cÃ©lpont.",
-      ro: "O aÈ™ezare pe malul unui lac cu izvoare geotermale, popularÄƒ pentru wellness.",
+      de: "Ein Ort an einem See mit geothermischen Quellen, beliebt für Wellness.",
+      hu: "Település egy tó partján, geotermikus forrásokkal, kedvelt wellness-célpont.",
+      ro: "O a�?ezare pe malul unui lac cu izvoare geotermale, popular�? pentru wellness.",
       en: "A lakeside settlement with geothermal springs, popular for wellness and education."
     },
     facts: {
-      de: ["Bekannt fÃ¼r das 'Fontana' Geothermalbad.", "Hier wird Brot traditionell im heiÃŸen Boden gebacken.", "Ein Bildungszentrum mit mehreren Schulen."],
-      hu: ["A 'Fontana' geotermikus fÃ¼rdÅ‘rÅ‘l ismert.", "Itt a kenyeret hagyomÃ¡nyosan a forrÃ³ fÃ¶ldben sÃ¼tik.", "OktatÃ¡si kÃ¶zpont tÃ¶bb iskolÃ¡val."],
-      ro: ["Cunoscut pentru baia geotermalÄƒ â€žFontanaâ€.", "PÃ¢inea se coace tradiÈ›ional aici Ã®n pÄƒmÃ¢ntul fierbinte.", "Un centru educaÈ›ional cu mai multe È™coli."],
+      de: ["Bekannt für das 'Fontana' Geothermalbad.", "Hier wird Brot traditionell im hei�?en Boden gebacken.", "Ein Bildungszentrum mit mehreren Schulen."],
+      hu: ["A 'Fontana' geotermikus fürd�?r�?l ismert.", "Itt a kenyeret hagyományosan a forró földben sütik.", "Oktatási központ több iskolával."],
+      ro: ["Cunoscut pentru baia geotermal�? �??Fontana�?�.", "Pâinea se coace tradi�?ional aici în p�?mântul fierbinte.", "Un centru educa�?ional cu mai multe �?coli."],
       en: ["Known for the 'Fontana' geothermal baths.", "Bread is traditionally baked in the hot ground here.", "An educational center with several schools."]
     }
   },
@@ -408,17 +408,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-15.2081, 64.2539],
-    name: { de: "HÃ¶fn", hu: "HÃ¶fn", ro: "HÃ¶fn", en: "HÃ¶fn" },
+    name: { de: "Höfn", hu: "Höfn", ro: "Höfn", en: "Höfn" },
     description: {
-      de: "Ein Fischerort im SÃ¼dosten, das Tor zum VatnajÃ¶kull Nationalpark.",
-      hu: "HalÃ¡szvÃ¡ros dÃ©lkeleten, a VatnajÃ¶kull Nemzeti Park kapuja.",
-      ro: "Un oraÈ™ pescÄƒresc Ã®n sud-est, poarta cÄƒtre Parcul NaÈ›ional VatnajÃ¶kull.",
-      en: "A fishing town in the southeast, serving as the gateway to VatnajÃ¶kull National Park."
+      de: "Ein Fischerort im Südosten, das Tor zum Vatnajökull Nationalpark.",
+      hu: "Halászváros délkeleten, a Vatnajökull Nemzeti Park kapuja.",
+      ro: "Un ora�? pesc�?resc în sud-est, poarta c�?tre Parcul Na�?ional Vatnajökull.",
+      en: "A fishing town in the southeast, serving as the gateway to Vatnajökull National Park."
     },
     facts: {
-      de: ["BerÃ¼hmt fÃ¼r seinen Kaisergranat (islÃ¤ndischer Hummer).", "Bietet einen spektakulÃ¤ren Blick auf den Gletscher.", "Liegt auf einer Halbinsel."],
-      hu: ["HÃ­res a langusztÃ¡jÃ¡rÃ³l (izlandi homÃ¡r).", "LÃ©legzetelÃ¡llÃ­tÃ³ kilÃ¡tÃ¡st nyÃºjt a gleccserre.", "Egy fÃ©lszigeten fekszik."],
-      ro: ["Faimos pentru langustinele sale (homar islandez).", "OferÄƒ vederi spectaculoase spre gheÈ›ar.", "Situat pe o peninsulÄƒ."],
+      de: ["Berühmt für seinen Kaisergranat (isländischer Hummer).", "Bietet einen spektakulären Blick auf den Gletscher.", "Liegt auf einer Halbinsel."],
+      hu: ["Híres a langusztájáról (izlandi homár).", "Lélegzetelállító kilátást nyújt a gleccserre.", "Egy félszigeten fekszik."],
+      ro: ["Faimos pentru langustinele sale (homar islandez).", "Ofer�? vederi spectaculoase spre ghe�?ar.", "Situat pe o peninsul�?."],
       en: ["Famous for its langoustine (Icelandic lobster).", "Offers spectacular views of the glacier.", "Situated on a peninsula."]
     }
   },
@@ -429,15 +429,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.2725, 63.4394],
     name: { de: "Heimaey", hu: "Heimaey", ro: "Heimaey", en: "Heimaey" },
     description: {
-      de: "Die einzige bewohnte Insel der WestmÃ¤nnerinseln, bekannt fÃ¼r ihre Vulkangeschichte.",
-      hu: "A Vestmannaeyjar-szigetek egyetlen lakott szigete, vulkÃ¡ni tÃ¶rtÃ©nelmÃ©rÅ‘l ismert.",
-      ro: "Singura insulÄƒ locuitÄƒ din Insulele Westman, cunoscutÄƒ pentru istoria sa vulcanicÄƒ.",
+      de: "Die einzige bewohnte Insel der Westmännerinseln, bekannt für ihre Vulkangeschichte.",
+      hu: "A Vestmannaeyjar-szigetek egyetlen lakott szigete, vulkáni történelmér�?l ismert.",
+      ro: "Singura insul�? locuit�? din Insulele Westman, cunoscut�? pentru istoria sa vulcanic�?.",
       en: "The only inhabited island in the Westman Islands, famous for its volcanic history."
     },
     facts: {
-      de: ["Wurde 1973 durch einen Vulkanausbruch teilweise verschÃ¼ttet.", "Heimat einer der weltgrÃ¶ÃŸten Papageitaucher-Kolonien.", "Beherbergt das Eldheimar Vulkanmuseum."],
-      hu: ["1973-ban egy vulkÃ¡nkitÃ¶rÃ©s rÃ©szben eltemette a vÃ¡rost.", "A vilÃ¡g egyik legnagyobb lunda-kolÃ³niÃ¡jÃ¡nak otthona.", "Itt talÃ¡lhatÃ³ az Eldheimar vulkÃ¡ni mÃºzeum."],
-      ro: ["A fost parÈ›ial Ã®ngropat de o erupÈ›ie vulcanicÄƒ Ã®n 1973.", "GÄƒzduieÈ™te una dintre cele mai mari colonii de pufini din lume.", "Are muzeul vulcanului Eldheimar."],
+      de: ["Wurde 1973 durch einen Vulkanausbruch teilweise verschüttet.", "Heimat einer der weltgrö�?ten Papageitaucher-Kolonien.", "Beherbergt das Eldheimar Vulkanmuseum."],
+      hu: ["1973-ban egy vulkánkitörés részben eltemette a várost.", "A világ egyik legnagyobb lunda-kolóniájának otthona.", "Itt található az Eldheimar vulkáni múzeum."],
+      ro: ["A fost par�?ial îngropat de o erup�?ie vulcanic�? în 1973.", "G�?zduie�?te una dintre cele mai mari colonii de pufini din lume.", "Are muzeul vulcanului Eldheimar."],
       en: ["Was partially buried by a volcanic eruption in 1973.", "Home to one of the world's largest puffin colonies.", "Features the Eldheimar volcano museum."]
     }
   },
@@ -446,18 +446,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-003",
     coords: [-22.52, 63.98],
-    name: { de: "NjarÃ°vÃ­k", hu: "NjarÃ°vÃ­k", ro: "NjarÃ°vÃ­k", en: "NjarÃ°vÃ­k" },
+    name: { de: "Njarðvík", hu: "Njarðvík", ro: "Njarðvík", en: "Njarðvík" },
     description: {
-      de: "Ein Teil der Gemeinde ReykjanesbÃ¦r, direkt neben KeflavÃ­k gelegen.",
-      hu: "ReykjanesbÃ¦r kÃ¶zsÃ©g rÃ©sze, kÃ¶zvetlenÃ¼l KeflavÃ­k mellett.",
-      ro: "Parte a municipalitÄƒÈ›ii ReykjanesbÃ¦r, situatÄƒ chiar lÃ¢ngÄƒ KeflavÃ­k.",
-      en: "A part of the ReykjanesbÃ¦r municipality, located right next to KeflavÃ­k."
+      de: "Ein Teil der Gemeinde Reykjanesbær, direkt neben Keflavík gelegen.",
+      hu: "Reykjanesbær község része, közvetlenül Keflavík mellett.",
+      ro: "Parte a municipalit�?�?ii Reykjanesbær, situat�? chiar lâng�? Keflavík.",
+      en: "A part of the Reykjanesbær municipality, located right next to Keflavík."
     },
     facts: {
-      de: ["Besteht aus Innri- und Ytri-NjarÃ°vÃ­k.", "Beherbergt das Wikinger-Museum (Viking World).", "Hat eine lange Geschichte als Fischerhafen."],
-      hu: ["Innri- Ã©s Ytri-NjarÃ°vÃ­kbÃ³l Ã¡ll.", "Itt talÃ¡lhatÃ³ a Viking VilÃ¡g mÃºzeum.", "HosszÃº mÃºltra tekint vissza halÃ¡szkikÃ¶tÅ‘kÃ©nt."],
-      ro: ["Format din Innri È™i Ytri-NjarÃ°vÃ­k.", "GÄƒzduieÈ™te muzeul Lumea Vikingilor.", "Are o lungÄƒ istorie ca port pescÄƒresc."],
-      en: ["Consists of Innri and Ytri-NjarÃ°vÃ­k.", "Home to the Viking World museum.", "Has a long history as a fishing port."]
+      de: ["Besteht aus Innri- und Ytri-Njarðvík.", "Beherbergt das Wikinger-Museum (Viking World).", "Hat eine lange Geschichte als Fischerhafen."],
+      hu: ["Innri- és Ytri-Njarðvíkból áll.", "Itt található a Viking Világ múzeum.", "Hosszú múltra tekint vissza halászkiköt�?ként."],
+      ro: ["Format din Innri �?i Ytri-Njarðvík.", "G�?zduie�?te muzeul Lumea Vikingilor.", "Are o lung�? istorie ca port pesc�?resc."],
+      en: ["Consists of Innri and Ytri-Njarðvík.", "Home to the Viking World museum.", "Has a long history as a fishing port."]
     }
   },
   {
@@ -465,17 +465,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-003",
     coords: [-22.4333, 63.8333],
-    name: { de: "GrindavÃ­k", hu: "GrindavÃ­k", ro: "GrindavÃ­k", en: "GrindavÃ­k" },
+    name: { de: "Grindavík", hu: "Grindavík", ro: "Grindavík", en: "Grindavík" },
     description: {
-      de: "Ein Fischerort im SÃ¼dwesten, bekannt fÃ¼r seine NÃ¤he zur Blauen Lagune.",
-      hu: "HalÃ¡szvÃ¡ros dÃ©lnyugaton, amely a KÃ©k LagÃºna kÃ¶zelsÃ©gÃ©rÅ‘l ismert.",
-      ro: "Un oraÈ™ pescÄƒresc Ã®n sud-vest, cunoscut pentru proximitatea faÈ›Äƒ de Laguna AlbastrÄƒ.",
+      de: "Ein Fischerort im Südwesten, bekannt für seine Nähe zur Blauen Lagune.",
+      hu: "Halászváros délnyugaton, amely a Kék Lagúna közelségér�?l ismert.",
+      ro: "Un ora�? pesc�?resc în sud-vest, cunoscut pentru proximitatea fa�?�? de Laguna Albastr�?.",
       en: "A fishing town in the southwest, known for its proximity to the Blue Lagoon."
     },
     facts: {
-      de: ["Ein wichtiges Zentrum fÃ¼r die Kabeljau-Fischerei.", "Wurde 2023/24 durch vulkanische AktivitÃ¤ten evakuiert.", "Beherbergt ein interessantes Salzfischmuseum."],
-      hu: ["A tÅ‘kehalhalÃ¡szat fontos kÃ¶zpontja.", "2023/24-ben vulkÃ¡ni tevÃ©kenysÃ©g miatt evakuÃ¡ltÃ¡k.", "Ã‰rdekes sÃ³zott hal mÃºzeumnak ad otthont."],
-      ro: ["Un centru important pentru pescuitul de cod.", "Evacuat Ã®n 2023/24 din cauza activitÄƒÈ›ii vulcanice.", "GÄƒzduieÈ™te un muzeu interesant al peÈ™telui sÄƒrat."],
+      de: ["Ein wichtiges Zentrum für die Kabeljau-Fischerei.", "Wurde 2023/24 durch vulkanische Aktivitäten evakuiert.", "Beherbergt ein interessantes Salzfischmuseum."],
+      hu: ["A t�?kehalhalászat fontos központja.", "2023/24-ben vulkáni tevékenység miatt evakuálták.", "�?rdekes sózott hal múzeumnak ad otthont."],
+      ro: ["Un centru important pentru pescuitul de cod.", "Evacuat în 2023/24 din cauza activit�?�?ii vulcanice.", "G�?zduie�?te un muzeu interesant al pe�?telui s�?rat."],
       en: ["A major hub for cod fishing.", "Was evacuated in 2023/24 due to volcanic activity.", "Home to an interesting saltfish museum."]
     }
   },
@@ -484,17 +484,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-003",
     coords: [-22.7083, 64.0381],
-    name: { de: "SandgerÃ°i", hu: "SandgerÃ°i", ro: "SandgerÃ°i", en: "SandgerÃ°i" },
+    name: { de: "Sandgerði", hu: "Sandgerði", ro: "Sandgerði", en: "Sandgerði" },
     description: {
-      de: "Ein wachsender Fischerort an der WestkÃ¼ste der Halbinsel Reykjanes.",
-      hu: "NÃ¶vekvÅ‘ halÃ¡szvÃ¡ros a Reykjanes-fÃ©lsziget nyugati partjÃ¡n.",
-      ro: "Un oraÈ™ pescÄƒresc Ã®n creÈ™tere pe coasta de vest a peninsulei Reykjanes.",
+      de: "Ein wachsender Fischerort an der Westküste der Halbinsel Reykjanes.",
+      hu: "Növekv�? halászváros a Reykjanes-félsziget nyugati partján.",
+      ro: "Un ora�? pesc�?resc în cre�?tere pe coasta de vest a peninsulei Reykjanes.",
       en: "A growing fishing town on the western coast of the Reykjanes Peninsula."
     },
     facts: {
-      de: ["Einer der grÃ¶ÃŸten FischerhÃ¤fen des Landes.", "Beherbergt ein maritimes Forschungszentrum.", "In der NÃ¤he gibt es gute MÃ¶glichkeiten zur Vogelbeobachtung."],
-      hu: ["Az orszÃ¡g egyik legnagyobb halÃ¡szkikÃ¶tÅ‘je.", "TengerkutatÃ¡si kÃ¶zpontnak ad otthont.", "A kÃ¶zelben kivÃ¡lÃ³ madÃ¡rmegfigyelÅ‘ helyek vannak."],
-      ro: ["Unul dintre cele mai mari porturi de pescuit din È›arÄƒ.", "GÄƒzduieÈ™te un centru de cercetare marinÄƒ.", "OportunitÄƒÈ›i bune pentru observarea pÄƒsÄƒrilor Ã®n apropiere."],
+      de: ["Einer der grö�?ten Fischerhäfen des Landes.", "Beherbergt ein maritimes Forschungszentrum.", "In der Nähe gibt es gute Möglichkeiten zur Vogelbeobachtung."],
+      hu: ["Az ország egyik legnagyobb halászkiköt�?je.", "Tengerkutatási központnak ad otthont.", "A közelben kiváló madármegfigyel�? helyek vannak."],
+      ro: ["Unul dintre cele mai mari porturi de pescuit din �?ar�?.", "G�?zduie�?te un centru de cercetare marin�?.", "Oportunit�?�?i bune pentru observarea p�?s�?rilor în apropiere."],
       en: ["One of the country's largest fishing ports.", "Home to a marine research center.", "Offers good birdwatching opportunities nearby."]
     }
   },
@@ -503,17 +503,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-003",
     coords: [-22.6333, 64.0667],
-    name: { de: "GarÃ°ur", hu: "GarÃ°ur", ro: "GarÃ°ur", en: "GarÃ°ur" },
+    name: { de: "Garður", hu: "Garður", ro: "Garður", en: "Garður" },
     description: {
       de: "Ein kleiner Ort an der Nordspitze der Reykjanes-Halbinsel.",
-      hu: "Kis telepÃ¼lÃ©s a Reykjanes-fÃ©lsziget Ã©szaki csÃ¼cskÃ©n.",
-      ro: "O micÄƒ aÈ™ezare Ã®n vÃ¢rful nordic al peninsulei Reykjanes.",
+      hu: "Kis település a Reykjanes-félsziget északi csücskén.",
+      ro: "O mic�? a�?ezare în vârful nordic al peninsulei Reykjanes.",
       en: "A small town at the northern tip of the Reykjanes Peninsula."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine zwei markanten LeuchttÃ¼rme.", "Ein groÃŸartiger Ort zur Beobachtung der Nordlichter.", "Hat ein Heimatmuseum mit Schwerpunkt auf Fischerei."],
-      hu: ["KÃ©t jellegzetes vilÃ¡gÃ­tÃ³tornyÃ¡rÃ³l ismert.", "KivÃ¡lÃ³ hely a sarki fÃ©ny megfigyelÃ©sÃ©re.", "HelytÃ¶rtÃ©neti mÃºzeuma a halÃ¡szatra fÃ³kuszÃ¡l."],
-      ro: ["Cunoscut pentru cele douÄƒ faruri ale sale.", "Un loc minunat pentru a vedea aurora borealÄƒ.", "Are un muzeu de istorie localÄƒ axat pe pescuit."],
+      de: ["Bekannt für seine zwei markanten Leuchttürme.", "Ein gro�?artiger Ort zur Beobachtung der Nordlichter.", "Hat ein Heimatmuseum mit Schwerpunkt auf Fischerei."],
+      hu: ["Két jellegzetes világítótornyáról ismert.", "Kiváló hely a sarki fény megfigyelésére.", "Helytörténeti múzeuma a halászatra fókuszál."],
+      ro: ["Cunoscut pentru cele dou�? faruri ale sale.", "Un loc minunat pentru a vedea aurora boreal�?.", "Are un muzeu de istorie local�? axat pe pescuit."],
       en: ["Famous for its two distinctive lighthouses.", "A great spot for viewing the Northern Lights.", "Has a local museum focused on fishing history."]
     }
   },
@@ -524,16 +524,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-22.3833, 63.9833],
     name: { de: "Vogar", hu: "Vogar", ro: "Vogar", en: "Vogar" },
     description: {
-      de: "Ein ruhiges Dorf zwischen ReykjavÃ­k und KeflavÃ­k.",
-      hu: "Csendes falu ReykjavÃ­k Ã©s KeflavÃ­k kÃ¶zÃ¶tt.",
-      ro: "Un sat liniÈ™tit situat Ã®ntre ReykjavÃ­k È™i KeflavÃ­k.",
-      en: "A quiet village situated between ReykjavÃ­k and KeflavÃ­k."
+      de: "Ein ruhiges Dorf zwischen Reykjavík und Keflavík.",
+      hu: "Csendes falu Reykjavík és Keflavík között.",
+      ro: "Un sat lini�?tit situat între Reykjavík �?i Keflavík.",
+      en: "A quiet village situated between Reykjavík and Keflavík."
     },
     facts: {
-      de: ["Ein idealer Ort fÃ¼r Pendler.", "Heimat des Steinmetzes Einar JÃ³nsson.", "Bietet einen schÃ¶nen Blick auf den FaxaflÃ³i-Golf."],
-      hu: ["IdeÃ¡lis hely az ingÃ¡zÃ³k szÃ¡mÃ¡ra.", "Einar JÃ³nsson szobrÃ¡sz szÃ¼lÅ‘helye.", "SzÃ©p kilÃ¡tÃ¡st nyÃºjt a FaxaflÃ³i-Ã¶bÃ¶lre."],
-      ro: ["Un loc ideal pentru navetiÈ™ti.", "Locul de origine al sculptorului Einar JÃ³nsson.", "OferÄƒ o vedere frumoasÄƒ spre golful FaxaflÃ³i."],
-      en: ["An ideal location for commuters.", "Birthplace of sculptor Einar JÃ³nsson.", "Offers a nice view of FaxaflÃ³i Bay."]
+      de: ["Ein idealer Ort für Pendler.", "Heimat des Steinmetzes Einar Jónsson.", "Bietet einen schönen Blick auf den Faxaflói-Golf."],
+      hu: ["Ideális hely az ingázók számára.", "Einar Jónsson szobrász szül�?helye.", "Szép kilátást nyújt a Faxaflói-öbölre."],
+      ro: ["Un loc ideal pentru naveti�?ti.", "Locul de origine al sculptorului Einar Jónsson.", "Ofer�? o vedere frumoas�? spre golful Faxaflói."],
+      en: ["An ideal location for commuters.", "Birthplace of sculptor Einar Jónsson.", "Offers a nice view of Faxaflói Bay."]
     }
   },
   {
@@ -541,18 +541,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-005",
     coords: [-21.9125, 64.1111],
-    name: { de: "KÃ³pavogur", hu: "KÃ³pavogur", ro: "KÃ³pavogur", en: "KÃ³pavogur" },
+    name: { de: "Kópavogur", hu: "Kópavogur", ro: "Kópavogur", en: "Kópavogur" },
     description: {
-      de: "Die zweitgrÃ¶ÃŸte Stadt Islands, direkt sÃ¼dlich von ReykjavÃ­k gelegen.",
-      hu: "Izland mÃ¡sodik legnagyobb vÃ¡rosa, kÃ¶zvetlenÃ¼l ReykjavÃ­ktÃ³l dÃ©lre.",
-      ro: "Al doilea cel mai mare oraÈ™ din Islanda, situat imediat la sud de ReykjavÃ­k.",
-      en: "The second-largest municipality in Iceland, located just south of ReykjavÃ­k."
+      de: "Die zweitgrö�?te Stadt Islands, direkt südlich von Reykjavík gelegen.",
+      hu: "Izland második legnagyobb városa, közvetlenül Reykjavíktól délre.",
+      ro: "Al doilea cel mai mare ora�? din Islanda, situat imediat la sud de Reykjavík.",
+      en: "The second-largest municipality in Iceland, located just south of Reykjavík."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine markante Kirche KÃ³pavogskirkja.", "Beherbergt das grÃ¶ÃŸte Einkaufszentrum Islands, SmÃ¡ralind.", "Hat ein bedeutendes Kunstmuseum (GerÃ°arsafn)."],
-      hu: ["Jellegzetes templomÃ¡rÃ³l, a KÃ³pavogskirkjÃ¡rÃ³l ismert.", "Itt talÃ¡lhatÃ³ Izland legnagyobb bevÃ¡sÃ¡rlÃ³kÃ¶zpontja, a SmÃ¡ralind.", "JelentÅ‘s mÅ±vÃ©szeti mÃºzeuma van (GerÃ°arsafn)."],
-      ro: ["Cunoscut pentru biserica sa distinctivÄƒ KÃ³pavogskirkja.", "GÄƒzduieÈ™te cel mai mare mall din Islanda, SmÃ¡ralind.", "Are un important muzeu de artÄƒ (GerÃ°arsafn)."],
-      en: ["Known for its distinctive KÃ³pavogskirkja church.", "Home to Iceland's largest shopping mall, SmÃ¡ralind.", "Has a significant art museum (GerÃ°arsafn)."]
+      de: ["Bekannt für seine markante Kirche Kópavogskirkja.", "Beherbergt das grö�?te Einkaufszentrum Islands, Smáralind.", "Hat ein bedeutendes Kunstmuseum (Gerðarsafn)."],
+      hu: ["Jellegzetes templomáról, a Kópavogskirkjáról ismert.", "Itt található Izland legnagyobb bevásárlóközpontja, a Smáralind.", "Jelent�?s művészeti múzeuma van (Gerðarsafn)."],
+      ro: ["Cunoscut pentru biserica sa distinctiv�? Kópavogskirkja.", "G�?zduie�?te cel mai mare mall din Islanda, Smáralind.", "Are un important muzeu de art�? (Gerðarsafn)."],
+      en: ["Known for its distinctive Kópavogskirkja church.", "Home to Iceland's largest shopping mall, Smáralind.", "Has a significant art museum (Gerðarsafn)."]
     }
   },
   {
@@ -560,17 +560,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-005",
     coords: [-21.95, 64.0667],
-    name: { de: "HafnarfjÃ¶rÃ°ur", hu: "HafnarfjÃ¶rÃ°ur", ro: "HafnarfjÃ¶rÃ°ur", en: "HafnarfjÃ¶rÃ°ur" },
+    name: { de: "Hafnarfjörður", hu: "Hafnarfjörður", ro: "Hafnarfjörður", en: "Hafnarfjörður" },
     description: {
       de: "Eine Hafenstadt bekannt als die 'Stadt der Elfen' und Wikinger.",
-      hu: "KikÃ¶tÅ‘vÃ¡ros, amely az 'elfek vÃ¡rosakÃ©nt' Ã©s vikingjeirÅ‘l ismert.",
-      ro: "Un oraÈ™ portuar cunoscut drept â€žoraÈ™ul elfilorâ€ È™i al vikingilor.",
+      hu: "Kiköt�?város, amely az 'elfek városaként' és vikingjeir�?l ismert.",
+      ro: "Un ora�? portuar cunoscut drept �??ora�?ul elfilor�?� �?i al vikingilor.",
       en: "A port town famously known as the 'Town of Elves' and for its Viking heritage."
     },
     facts: {
-      de: ["Ist auf alten Lavafeldern erbaut.", "Veranstaltet jedes Jahr ein groÃŸes Wikingerfestival.", "Beherbergt den Hafen, in dem der Fischfang floriert."],
-      hu: ["Åsi lÃ¡vamezÅ‘kre Ã©pÃ¼lt.", "Minden Ã©vben hatalmas viking fesztivÃ¡lt rendeznek itt.", "Fontos halÃ¡szkikÃ¶tÅ‘vel rendelkezik."],
-      ro: ["Construit pe cÃ¢mpuri de lavÄƒ vechi.", "GÄƒzduieÈ™te un mare festival viking Ã®n fiecare an.", "Are un port unde industria pescuitului Ã®nfloreÈ™te."],
+      de: ["Ist auf alten Lavafeldern erbaut.", "Veranstaltet jedes Jahr ein gro�?es Wikingerfestival.", "Beherbergt den Hafen, in dem der Fischfang floriert."],
+      hu: ["Ősi lávamez�?kre épült.", "Minden évben hatalmas viking fesztivált rendeznek itt.", "Fontos halászkiköt�?vel rendelkezik."],
+      ro: ["Construit pe câmpuri de lav�? vechi.", "G�?zduie�?te un mare festival viking în fiecare an.", "Are un port unde industria pescuitului înflore�?te."],
       en: ["Built on ancient lava fields.", "Hosts a large Viking festival every year.", "Features a major commercial fishing harbor."]
     }
   },
@@ -579,18 +579,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-005",
     coords: [-21.9167, 64.0833],
-    name: { de: "GarÃ°abÃ¦r", hu: "GarÃ°abÃ¦r", ro: "GarÃ°abÃ¦r", en: "GarÃ°abÃ¦r" },
+    name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær" },
     description: {
       de: "Eine wohlhabende Gemeinde in der Hauptstadtregion mit reicher Geschichte.",
-      hu: "MÃ³dos telepÃ¼lÃ©s a fÅ‘vÃ¡rosi rÃ©giÃ³ban, gazdag tÃ¶rtÃ©nelemmel.",
-      ro: "O municipalitate prosperÄƒ din regiunea capitalei, cu o istorie bogatÄƒ.",
+      hu: "Módos település a f�?városi régióban, gazdag történelemmel.",
+      ro: "O municipalitate prosper�? din regiunea capitalei, cu o istorie bogat�?.",
       en: "An affluent municipality in the capital region with a rich history."
     },
     facts: {
-      de: ["Hier befindet sich der Sitz des islÃ¤ndischen PrÃ¤sidenten (BessastaÃ°ir).", "Hat viele schÃ¶ne Naturgebiete und Wanderwege.", "Eine der am schnellsten wachsenden StÃ¤dte Islands."],
-      hu: ["Itt talÃ¡lhatÃ³ az izlandi elnÃ¶k szÃ©khelye (BessastaÃ°ir).", "Sok szÃ©p termÃ©szeti terÃ¼lettel Ã©s tÃºraÃºtvonallal rendelkezik.", "Izland egyik leggyorsabban nÃ¶vekvÅ‘ vÃ¡rosa."],
-      ro: ["Aici se aflÄƒ reÈ™edinÈ›a preÈ™edintelui islandez (BessastaÃ°ir).", "Are multe zone naturale frumoase È™i trasee de drumeÈ›ie.", "Unul dintre oraÈ™ele cu cea mai rapidÄƒ creÈ™tere din Islanda."],
-      en: ["Home to the official residence of the President of Iceland (BessastaÃ°ir).", "Features many beautiful natural areas and hiking trails.", "One of the fastest-growing towns in Iceland."]
+      de: ["Hier befindet sich der Sitz des isländischen Präsidenten (Bessastaðir).", "Hat viele schöne Naturgebiete und Wanderwege.", "Eine der am schnellsten wachsenden Städte Islands."],
+      hu: ["Itt található az izlandi elnök székhelye (Bessastaðir).", "Sok szép természeti területtel és túraútvonallal rendelkezik.", "Izland egyik leggyorsabban növekv�? városa."],
+      ro: ["Aici se afl�? re�?edin�?a pre�?edintelui islandez (Bessastaðir).", "Are multe zone naturale frumoase �?i trasee de drume�?ie.", "Unul dintre ora�?ele cu cea mai rapid�? cre�?tere din Islanda."],
+      en: ["Home to the official residence of the President of Iceland (Bessastaðir).", "Features many beautiful natural areas and hiking trails.", "One of the fastest-growing towns in Iceland."]
     }
   },
   {
@@ -598,18 +598,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-005",
     coords: [-21.7, 64.1667],
-    name: { de: "MosfellsbÃ¦r", hu: "MosfellsbÃ¦r", ro: "MosfellsbÃ¦r", en: "MosfellsbÃ¦r" },
+    name: { de: "Mosfellsbær", hu: "Mosfellsbær", ro: "Mosfellsbær", en: "Mosfellsbær" },
     description: {
-      de: "Eine Stadt nordÃ¶stlich von ReykjavÃ­k, bekannt fÃ¼r ihre NaturschÃ¶nheit.",
-      hu: "VÃ¡ros ReykjavÃ­ktÃ³l Ã©szakkeletre, amely termÃ©szeti szÃ©psÃ©geirÅ‘l ismert.",
-      ro: "Un oraÈ™ la nord-est de ReykjavÃ­k, cunoscut pentru frumuseÈ›ea sa naturalÄƒ.",
-      en: "A town northeast of ReykjavÃ­k, known for its scenic natural surroundings."
+      de: "Eine Stadt nordöstlich von Reykjavík, bekannt für ihre Naturschönheit.",
+      hu: "Város Reykjavíktól északkeletre, amely természeti szépségeir�?l ismert.",
+      ro: "Un ora�? la nord-est de Reykjavík, cunoscut pentru frumuse�?ea sa natural�?.",
+      en: "A town northeast of Reykjavík, known for its scenic natural surroundings."
     },
     facts: {
-      de: ["Heimat des NobelpreistrÃ¤gers HalldÃ³r Laxness.", "Umgeben von Bergen wie dem Esja und Ãšlfarsfell.", "Wird oft als 'GrÃ¼ne Stadt' bezeichnet."],
-      hu: ["A Nobel-dÃ­jas HalldÃ³r Laxness otthona volt.", "Olyan hegyek veszik kÃ¶rÃ¼l, mint az Esja Ã©s az Ãšlfarsfell.", "Gyakran nevezik 'zÃ¶ld vÃ¡rosnak'."],
-      ro: ["Locul de origine al laureatului Nobel HalldÃ³r Laxness.", "ÃŽnconjurat de munÈ›i precum Esja È™i Ãšlfarsfell.", "Deseori numit â€žoraÈ™ul verdeâ€."],
-      en: ["Home to Nobel laureate writer HalldÃ³r Laxness.", "Surrounded by mountains like Esja and Ãšlfarsfell.", "Often referred to as the 'Green Town'."]
+      de: ["Heimat des Nobelpreisträgers Halldór Laxness.", "Umgeben von Bergen wie dem Esja und �?lfarsfell.", "Wird oft als 'Grüne Stadt' bezeichnet."],
+      hu: ["A Nobel-díjas Halldór Laxness otthona volt.", "Olyan hegyek veszik körül, mint az Esja és az �?lfarsfell.", "Gyakran nevezik 'zöld városnak'."],
+      ro: ["Locul de origine al laureatului Nobel Halldór Laxness.", "�?nconjurat de mun�?i precum Esja �?i �?lfarsfell.", "Deseori numit �??ora�?ul verde�?�."],
+      en: ["Home to Nobel laureate writer Halldór Laxness.", "Surrounded by mountains like Esja and �?lfarsfell.", "Often referred to as the 'Green Town'."]
     }
   },
   {
@@ -619,16 +619,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-22.0, 64.15],
     name: { de: "Seltjarnarnes", hu: "Seltjarnarnes", ro: "Seltjarnarnes", en: "Seltjarnarnes" },
     description: {
-      de: "Eine kleine Gemeinde auf einer Halbinsel westlich von ReykjavÃ­k.",
-      hu: "Kis telepÃ¼lÃ©s egy fÃ©lszigeten, ReykjavÃ­ktÃ³l nyugatra.",
-      ro: "O micÄƒ municipalitate pe o peninsulÄƒ la vest de ReykjavÃ­k.",
-      en: "A small municipality located on a peninsula just west of ReykjavÃ­k."
+      de: "Eine kleine Gemeinde auf einer Halbinsel westlich von Reykjavík.",
+      hu: "Kis település egy félszigeten, Reykjavíktól nyugatra.",
+      ro: "O mic�? municipalitate pe o peninsul�? la vest de Reykjavík.",
+      en: "A small municipality located on a peninsula just west of Reykjavík."
     },
     facts: {
-      de: ["Bekannt fÃ¼r den Leuchtturm GrÃ³tta.", "Ein beliebter Ort zur Vogelbeobachtung.", "Bietet einen fantastischen Blick auf den Ozean."],
-      hu: ["A GrÃ³tta vilÃ¡gÃ­tÃ³toronyrÃ³l ismert.", "NÃ©pszerÅ± madÃ¡rmegfigyelÅ‘ hely.", "Fantasztikus kilÃ¡tÃ¡st nyÃºjt az Ã³ceÃ¡nra."],
-      ro: ["Cunoscut pentru farul GrÃ³tta.", "Un loc popular pentru observarea pÄƒsÄƒrilor.", "OferÄƒ o vedere fantasticÄƒ spre ocean."],
-      en: ["Famous for the GrÃ³tta lighthouse.", "A popular spot for birdwatching.", "Offers fantastic ocean views."]
+      de: ["Bekannt für den Leuchtturm Grótta.", "Ein beliebter Ort zur Vogelbeobachtung.", "Bietet einen fantastischen Blick auf den Ozean."],
+      hu: ["A Grótta világítótoronyról ismert.", "Népszerű madármegfigyel�? hely.", "Fantasztikus kilátást nyújt az óceánra."],
+      ro: ["Cunoscut pentru farul Grótta.", "Un loc popular pentru observarea p�?s�?rilor.", "Ofer�? o vedere fantastic�? spre ocean."],
+      en: ["Famous for the Grótta lighthouse.", "A popular spot for birdwatching.", "Offers fantastic ocean views."]
     }
   },
   {
@@ -638,16 +638,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-22.0833, 64.3167],
     name: { de: "Akranes", hu: "Akranes", ro: "Akranes", en: "Akranes" },
     description: {
-      de: "Eine Hafenstadt am FuÃŸe des Berges Akrafjall.",
-      hu: "KikÃ¶tÅ‘vÃ¡ros az Akrafjall hegy lÃ¡bÃ¡nÃ¡l.",
-      ro: "Un oraÈ™ portuar la poalele muntelui Akrafjall.",
+      de: "Eine Hafenstadt am Fu�?e des Berges Akrafjall.",
+      hu: "Kiköt�?város az Akrafjall hegy lábánál.",
+      ro: "Un ora�? portuar la poalele muntelui Akrafjall.",
       en: "A port town situated at the base of Akrafjall mountain."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine zwei LeuchttÃ¼rme.", "Wird durch den HvalfjÃ¶rÃ°ur-Tunnel mit ReykjavÃ­k verbunden.", "Ein wichtiges Industrie- und Fischereizentrum."],
-      hu: ["KÃ©t vilÃ¡gÃ­tÃ³tornyÃ¡rÃ³l ismert.", "A HvalfjÃ¶rÃ°ur-alagÃºt kÃ¶ti Ã¶ssze ReykjavÃ­kkal.", "Fontos ipari Ã©s halÃ¡szati kÃ¶zpont."],
-      ro: ["Cunoscut pentru cele douÄƒ faruri ale sale.", "Conectat de ReykjavÃ­k prin tunelul HvalfjÃ¶rÃ°ur.", "Un important centru industrial È™i pescÄƒresc."],
-      en: ["Known for its two lighthouses.", "Connected to ReykjavÃ­k via the HvalfjÃ¶rÃ°ur tunnel.", "An important industrial and fishing hub."]
+      de: ["Bekannt für seine zwei Leuchttürme.", "Wird durch den Hvalfjörður-Tunnel mit Reykjavík verbunden.", "Ein wichtiges Industrie- und Fischereizentrum."],
+      hu: ["Két világítótornyáról ismert.", "A Hvalfjörður-alagút köti össze Reykjavíkkal.", "Fontos ipari és halászati központ."],
+      ro: ["Cunoscut pentru cele dou�? faruri ale sale.", "Conectat de Reykjavík prin tunelul Hvalfjörður.", "Un important centru industrial �?i pesc�?resc."],
+      en: ["Known for its two lighthouses.", "Connected to Reykjavík via the Hvalfjörður tunnel.", "An important industrial and fishing hub."]
     }
   },
   {
@@ -657,16 +657,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.9167, 64.5333],
     name: { de: "Borgarnes", hu: "Borgarnes", ro: "Borgarnes", en: "Borgarnes" },
     description: {
-      de: "Ein historischer Ort an der RingstraÃŸe, das Tor zum Westen Islands.",
-      hu: "TÃ¶rtÃ©nelmi telepÃ¼lÃ©s a gyÅ±rÅ±s Ãºt mentÃ©n, Nyugat-Izland kapuja.",
-      ro: "O aÈ™ezare istoricÄƒ pe È™oseaua de centurÄƒ, poarta cÄƒtre vestul Islandei.",
+      de: "Ein historischer Ort an der Ringstra�?e, das Tor zum Westen Islands.",
+      hu: "Történelmi település a gyűrűs út mentén, Nyugat-Izland kapuja.",
+      ro: "O a�?ezare istoric�? pe �?oseaua de centur�?, poarta c�?tre vestul Islandei.",
       en: "A historic town on the Ring Road, serving as the gateway to West Iceland."
     },
     facts: {
-      de: ["Heimat des Settlement Center (LandnÃ¡msssetur).", "Liegt auf einer malerischen Halbinsel im BorgarfjÃ¶rÃ°ur.", "Wichtiger Verkehrsknotenpunkt."],
-      hu: ["Itt talÃ¡lhatÃ³ a HonfoglalÃ¡s MÃºzeuma (LandnÃ¡msssetur).", "A BorgarfjÃ¶rÃ°ur egyik festÅ‘i fÃ©lszigetÃ©n fekszik.", "Fontos kÃ¶zlekedÃ©si csomÃ³pont."],
-      ro: ["GÄƒzduieÈ™te Centrul de Colonizare (LandnÃ¡msssetur).", "Situat pe o peninsulÄƒ pitoreascÄƒ Ã®n BorgarfjÃ¶rÃ°ur.", "Un nod de transport important."],
-      en: ["Home to the Settlement Center (LandnÃ¡msssetur).", "Located on a scenic peninsula in BorgarfjÃ¶rÃ°ur.", "An important transportation hub."]
+      de: ["Heimat des Settlement Center (Landnámsssetur).", "Liegt auf einer malerischen Halbinsel im Borgarfjörður.", "Wichtiger Verkehrsknotenpunkt."],
+      hu: ["Itt található a Honfoglalás Múzeuma (Landnámsssetur).", "A Borgarfjörður egyik fest�?i félszigetén fekszik.", "Fontos közlekedési csomópont."],
+      ro: ["G�?zduie�?te Centrul de Colonizare (Landnámsssetur).", "Situat pe o peninsul�? pitoreasc�? în Borgarfjörður.", "Un nod de transport important."],
+      en: ["Home to the Settlement Center (Landnámsssetur).", "Located on a scenic peninsula in Borgarfjörður.", "An important transportation hub."]
     }
   },
   {
@@ -674,17 +674,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-006",
     coords: [-22.7272, 65.075],
-    name: { de: "StykkishÃ³lmur", hu: "StykkishÃ³lmur", ro: "StykkishÃ³lmur", en: "StykkishÃ³lmur" },
+    name: { de: "Stykkishólmur", hu: "Stykkishólmur", ro: "Stykkishólmur", en: "Stykkishólmur" },
     description: {
-      de: "Ein wunderschÃ¶nes Fischerdorf auf der Halbinsel SnÃ¦fellsnes.",
-      hu: "GyÃ¶nyÃ¶rÅ± halÃ¡szfalu a SnÃ¦fellsnes-fÃ©lszigeten.",
-      ro: "Un sat de pescari superb pe peninsula SnÃ¦fellsnes.",
-      en: "A beautiful fishing village on the SnÃ¦fellsnes Peninsula."
+      de: "Ein wunderschönes Fischerdorf auf der Halbinsel Snæfellsnes.",
+      hu: "Gyönyörű halászfalu a Snæfellsnes-félszigeten.",
+      ro: "Un sat de pescari superb pe peninsula Snæfellsnes.",
+      en: "A beautiful fishing village on the Snæfellsnes Peninsula."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine gut erhaltenen alten HolzhÃ¤user.", "Ausgangspunkt fÃ¼r die FÃ¤hre zu den Westfjorden.", "Heimat der 'Bibliothek des Wassers'."],
-      hu: ["JÃ³l megÅ‘rzÃ¶tt rÃ©gi fahÃ¡zairÃ³l ismert.", "A Nyugati-fjordokba indulÃ³ komp kiindulÃ³pontja.", "Itt talÃ¡lhatÃ³ a 'VÃ­z KÃ¶nyvtÃ¡ra'."],
-      ro: ["Cunoscut pentru casele sale vechi din lemn bine conservate.", "Punct de plecare pentru feribotul cÄƒtre Westfjords.", "GÄƒzduieÈ™te â€žBiblioteca Apeiâ€."],
+      de: ["Bekannt für seine gut erhaltenen alten Holzhäuser.", "Ausgangspunkt für die Fähre zu den Westfjorden.", "Heimat der 'Bibliothek des Wassers'."],
+      hu: ["Jól meg�?rzött régi faházairól ismert.", "A Nyugati-fjordokba induló komp kiindulópontja.", "Itt található a 'Víz Könyvtára'."],
+      ro: ["Cunoscut pentru casele sale vechi din lemn bine conservate.", "Punct de plecare pentru feribotul c�?tre Westfjords.", "G�?zduie�?te �??Biblioteca Apei�?�."],
       en: ["Known for its well-preserved old wooden houses.", "Starting point for the ferry to the Westfjords.", "Home to the 'Library of Water'."]
     }
   },
@@ -693,17 +693,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-006",
     coords: [-23.2667, 64.9167],
-    name: { de: "GrundarfjÃ¶rÃ°ur", hu: "GrundarfjÃ¶rÃ°ur", ro: "GrundarfjÃ¶rÃ°ur", en: "GrundarfjÃ¶rÃ°ur" },
+    name: { de: "Grundarfjörður", hu: "Grundarfjörður", ro: "Grundarfjörður", en: "Grundarfjörður" },
     description: {
-      de: "Ein malerischer Ort am FuÃŸe des berÃ¼hmten Berges Kirkjufell.",
-      hu: "FestÅ‘i telepÃ¼lÃ©s a hÃ­res Kirkjufell hegy lÃ¡bÃ¡nÃ¡l.",
-      ro: "O aÈ™ezare pitoreascÄƒ la poalele faimosului munte Kirkjufell.",
+      de: "Ein malerischer Ort am Fu�?e des berühmten Berges Kirkjufell.",
+      hu: "Fest�?i település a híres Kirkjufell hegy lábánál.",
+      ro: "O a�?ezare pitoreasc�? la poalele faimosului munte Kirkjufell.",
       en: "A picturesque town situated at the foot of the famous Kirkjufell mountain."
     },
     facts: {
-      de: ["Einer der meistfotografierten Orte Islands.", "Ein wichtiger Hafen fÃ¼r Kreuzfahrtschiffe.", "Umgeben von einer dramatischen Gebirgslandschaft."],
-      hu: ["Izland egyik legtÃ¶bbet fÃ©nykÃ©pezett helyszÃ­ne.", "Fontos kikÃ¶tÅ‘ a skandinÃ¡v tengerjÃ¡rÃ³k szÃ¡mÃ¡ra.", "DrÃ¡mai hegyvidÃ©ki tÃ¡j veszi kÃ¶rÃ¼l."],
-      ro: ["Una dintre cele mai fotografiate locaÈ›ii din Islanda.", "Un port important pentru navele de croazierÄƒ.", "ÃŽnconjurat de un peisaj montan dramatic."],
+      de: ["Einer der meistfotografierten Orte Islands.", "Ein wichtiger Hafen für Kreuzfahrtschiffe.", "Umgeben von einer dramatischen Gebirgslandschaft."],
+      hu: ["Izland egyik legtöbbet fényképezett helyszíne.", "Fontos kiköt�? a skandináv tengerjárók számára.", "Drámai hegyvidéki táj veszi körül."],
+      ro: ["Una dintre cele mai fotografiate loca�?ii din Islanda.", "Un port important pentru navele de croazier�?.", "�?nconjurat de un peisaj montan dramatic."],
       en: ["One of the most photographed locations in Iceland.", "A major port for cruise ships.", "Surrounded by dramatic mountain scenery."]
     }
   },
@@ -712,18 +712,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-006",
     coords: [-23.7, 64.8833],
-    name: { de: "Ã“lafsvÃ­k", hu: "Ã“lafsvÃ­k", ro: "Ã“lafsvÃ­k", en: "Ã“lafsvÃ­k" },
+    name: { de: "�?lafsvík", hu: "�?lafsvík", ro: "�?lafsvík", en: "�?lafsvík" },
     description: {
-      de: "Ein geschÃ¤ftiges Fischerdorf an der Nordseite der SnÃ¦fellsnes-Halbinsel.",
-      hu: "NyÃ¼zsgÅ‘ halÃ¡szfalu a SnÃ¦fellsnes-fÃ©lsziget Ã©szaki oldalÃ¡n.",
-      ro: "Un sat de pescari plin de viaÈ›Äƒ pe partea de nord a peninsulei SnÃ¦fellsnes.",
-      en: "A busy fishing town on the northern side of the SnÃ¦fellsnes Peninsula."
+      de: "Ein geschäftiges Fischerdorf an der Nordseite der Snæfellsnes-Halbinsel.",
+      hu: "Nyüzsg�? halászfalu a Snæfellsnes-félsziget északi oldalán.",
+      ro: "Un sat de pescari plin de via�?�? pe partea de nord a peninsulei Snæfellsnes.",
+      en: "A busy fishing town on the northern side of the Snæfellsnes Peninsula."
     },
     facts: {
-      de: ["War einst ein bedeutender Handelshafen.", "Beherbergt eine markante, moderne Kirche.", "In der NÃ¤he des SnÃ¦fellsjÃ¶kull Nationalparks gelegen."],
-      hu: ["Egykor jelentÅ‘s kereskedelmi kikÃ¶tÅ‘ volt.", "Jellegzetes, modern templomnak ad otthont.", "A SnÃ¦fellsjÃ¶kull Nemzeti Park kÃ¶zelÃ©ben fekszik."],
-      ro: ["A fost odinioarÄƒ un port comercial major.", "GÄƒzduieÈ™te o bisericÄƒ modernÄƒ distinctivÄƒ.", "Situat lÃ¢ngÄƒ Parcul NaÈ›ional SnÃ¦fellsjÃ¶kull."],
-      en: ["Was once a significant trading port.", "Home to a distinctive, modern church.", "Located near SnÃ¦fellsjÃ¶kull National Park."]
+      de: ["War einst ein bedeutender Handelshafen.", "Beherbergt eine markante, moderne Kirche.", "In der Nähe des Snæfellsjökull Nationalparks gelegen."],
+      hu: ["Egykor jelent�?s kereskedelmi kiköt�? volt.", "Jellegzetes, modern templomnak ad otthont.", "A Snæfellsjökull Nemzeti Park közelében fekszik."],
+      ro: ["A fost odinioar�? un port comercial major.", "G�?zduie�?te o biseric�? modern�? distinctiv�?.", "Situat lâng�? Parcul Na�?ional Snæfellsjökull."],
+      en: ["Was once a significant trading port.", "Home to a distinctive, modern church.", "Located near Snæfellsjökull National Park."]
     }
   },
   {
@@ -731,18 +731,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-006",
     coords: [-21.7667, 65.1167],
-    name: { de: "BÃºÃ°ardalur", hu: "BÃºÃ°ardalur", ro: "BÃºÃ°ardalur", en: "BÃºÃ°ardalur" },
+    name: { de: "Búðardalur", hu: "Búðardalur", ro: "Búðardalur", en: "Búðardalur" },
     description: {
-      de: "Ein Dorf am HvammsfjÃ¶rÃ°ur, bekannt fÃ¼r seine Sagas und Geschichte.",
-      hu: "TelepÃ¼lÃ©s a HvammsfjÃ¶rÃ°ur partjÃ¡n, szagÃ¡irÃ³l Ã©s tÃ¶rtÃ©nelmÃ©rÅ‘l ismert.",
-      ro: "Un sat pe HvammsfjÃ¶rÃ°ur, cunoscut pentru saga È™i istoria sa.",
-      en: "A village on HvammsfjÃ¶rÃ°ur, famous for its association with Icelandic Sagas."
+      de: "Ein Dorf am Hvammsfjörður, bekannt für seine Sagas und Geschichte.",
+      hu: "Település a Hvammsfjörður partján, szagáiról és történelmér�?l ismert.",
+      ro: "Un sat pe Hvammsfjörður, cunoscut pentru saga �?i istoria sa.",
+      en: "A village on Hvammsfjörður, famous for its association with Icelandic Sagas."
     },
     facts: {
-      de: ["In der NÃ¤he befindet sich EirÃ­ksstaÃ°ir, das Haus von Erik dem Roten.", "Ein Zentrum fÃ¼r Handel und Dienstleistungen in Dalir.", "Bietet einen Einblick in das Wikingerleben."],
-      hu: ["A kÃ¶zelben talÃ¡lhatÃ³ EirÃ­ksstaÃ°ir, VÃ¶rÃ¶s Erik otthona.", "Dalir kereskedelmi Ã©s szolgÃ¡ltatÃ³ kÃ¶zpontja.", "BepillantÃ¡st enged a vikingek Ã©letÃ©be."],
-      ro: ["ÃŽn apropiere se aflÄƒ EirÃ­ksstaÃ°ir, casa lui Erik cel RoÈ™u.", "Un centru pentru comerÈ› È™i servicii Ã®n Dalir.", "OferÄƒ o privire asupra vieÈ›ii vikingilor."],
-      en: ["Nearby is EirÃ­ksstaÃ°ir, the homestead of Erik the Red.", "A hub for trade and services in the Dalir region.", "Provides insight into Viking Age life."]
+      de: ["In der Nähe befindet sich Eiríksstaðir, das Haus von Erik dem Roten.", "Ein Zentrum für Handel und Dienstleistungen in Dalir.", "Bietet einen Einblick in das Wikingerleben."],
+      hu: ["A közelben található Eiríksstaðir, Vörös Erik otthona.", "Dalir kereskedelmi és szolgáltató központja.", "Bepillantást enged a vikingek életébe."],
+      ro: ["�?n apropiere se afl�? Eiríksstaðir, casa lui Erik cel Ro�?u.", "Un centru pentru comer�? �?i servicii în Dalir.", "Ofer�? o privire asupra vie�?ii vikingilor."],
+      en: ["Nearby is Eiríksstaðir, the homestead of Erik the Red.", "A hub for trade and services in the Dalir region.", "Provides insight into Viking Age life."]
     }
   },
   {
@@ -750,18 +750,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.25, 66.15],
-    name: { de: "BolungarvÃ­k", hu: "BolungarvÃ­k", ro: "BolungarvÃ­k", en: "BolungarvÃ­k" },
+    name: { de: "Bolungarvík", hu: "Bolungarvík", ro: "Bolungarvík", en: "Bolungarvík" },
     description: {
-      de: "Die nÃ¶rdlichste Stadt der Westfjorde, ein traditionelles Fischerdorf.",
-      hu: "A Nyugati-fjordok legÃ©szakibb vÃ¡rosa, hagyomÃ¡nyos halÃ¡szfalu.",
-      ro: "Cel mai nordic oraÈ™ din Westfjords, un sat tradiÈ›ional de pescari.",
+      de: "Die nördlichste Stadt der Westfjorde, ein traditionelles Fischerdorf.",
+      hu: "A Nyugati-fjordok legészakibb városa, hagyományos halászfalu.",
+      ro: "Cel mai nordic ora�? din Westfjords, un sat tradi�?ional de pescari.",
       en: "The northernmost town in the Westfjords, a traditional fishing village."
     },
     facts: {
-      de: ["Beherbergt das maritime Freilichtmuseum Ã“svÃ¶r.", "Liegt am FuÃŸe des Berges Bolafjall.", "Hat eine beeindruckende Aussicht auf den Nordatlantik."],
-      hu: ["Itt talÃ¡lhatÃ³ az Ã“svÃ¶r szabadtÃ©ri tengerÃ©szeti mÃºzeum.", "A Bolafjall hegy lÃ¡bÃ¡nÃ¡l fekszik.", "LenyÅ±gÃ¶zÅ‘ kilÃ¡tÃ¡s nyÃ­lik az Atlanti-Ã³ceÃ¡n Ã©szaki rÃ©szÃ©re."],
-      ro: ["GÄƒzduieÈ™te muzeul maritim Ã®n aer liber Ã“svÃ¶r.", "Situat la poalele muntelui Bolafjall.", "Are o vedere impresionantÄƒ spre Atlanticul de Nord."],
-      en: ["Home to the Ã“svÃ¶r maritime open-air museum.", "Located at the foot of Bolafjall mountain.", "Offers impressive views of the North Atlantic."]
+      de: ["Beherbergt das maritime Freilichtmuseum �?svör.", "Liegt am Fu�?e des Berges Bolafjall.", "Hat eine beeindruckende Aussicht auf den Nordatlantik."],
+      hu: ["Itt található az �?svör szabadtéri tengerészeti múzeum.", "A Bolafjall hegy lábánál fekszik.", "Lenyűgöz�? kilátás nyílik az Atlanti-óceán északi részére."],
+      ro: ["G�?zduie�?te muzeul maritim în aer liber �?svör.", "Situat la poalele muntelui Bolafjall.", "Are o vedere impresionant�? spre Atlanticul de Nord."],
+      en: ["Home to the �?svör maritime open-air museum.", "Located at the foot of Bolafjall mountain.", "Offers impressive views of the North Atlantic."]
     }
   },
   {
@@ -769,17 +769,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-22.99, 66.03],
-    name: { de: "SÃºÃ°avÃ­k", hu: "SÃºÃ°avÃ­k", ro: "SÃºÃ°avÃ­k", en: "SÃºÃ°avÃ­k" },
+    name: { de: "Súðavík", hu: "Súðavík", ro: "Súðavík", en: "Súðavík" },
     description: {
-      de: "Ein Dorf am ÃlftafjÃ¶rÃ°ur, bekannt fÃ¼r sein Polarfuchszentrum.",
-      hu: "Falu az ÃlftafjÃ¶rÃ°ur partjÃ¡n, sarki rÃ³ka kÃ¶zpontjÃ¡rÃ³l ismert.",
-      ro: "Un sat pe ÃlftafjÃ¶rÃ°ur, cunoscut pentru Centrul Vulpii Polare.",
-      en: "A village on ÃlftafjÃ¶rÃ°ur, famous for its Arctic Fox Center."
+      de: "Ein Dorf am Álftafjörður, bekannt für sein Polarfuchszentrum.",
+      hu: "Falu az Álftafjörður partján, sarki róka központjáról ismert.",
+      ro: "Un sat pe Álftafjörður, cunoscut pentru Centrul Vulpii Polare.",
+      en: "A village on Álftafjörður, famous for its Arctic Fox Center."
     },
     facts: {
-      de: ["Heimat des einzigen Zentrums fÃ¼r Polarfuchsforschung in Island.", "Wurde nach einer Lawine im Jahr 1995 teilweise neu aufgebaut.", "Ein ruhiger Ort, umgeben von herrlicher Natur."],
-      hu: ["Izland egyetlen sarki rÃ³ka kutatÃ³kÃ¶zpontjÃ¡nak otthona.", "Egy 1995-Ã¶s lavina utÃ¡n rÃ©szben ÃºjjÃ¡Ã©pÃ­tettÃ©k.", "Csendes hely, csodÃ¡latos termÃ©szet veszi kÃ¶rÃ¼l."],
-      ro: ["GÄƒzduieÈ™te singurul centru de cercetare a vulpii polare din Islanda.", "Reconstruit parÈ›ial dupÄƒ o avalanÈ™Äƒ Ã®n 1995.", "Un loc liniÈ™tit, Ã®nconjurat de o naturÄƒ magnificÄƒ."],
+      de: ["Heimat des einzigen Zentrums für Polarfuchsforschung in Island.", "Wurde nach einer Lawine im Jahr 1995 teilweise neu aufgebaut.", "Ein ruhiger Ort, umgeben von herrlicher Natur."],
+      hu: ["Izland egyetlen sarki róka kutatóközpontjának otthona.", "Egy 1995-ös lavina után részben újjáépítették.", "Csendes hely, csodálatos természet veszi körül."],
+      ro: ["G�?zduie�?te singurul centru de cercetare a vulpii polare din Islanda.", "Reconstruit par�?ial dup�? o avalan�?�? în 1995.", "Un loc lini�?tit, înconjurat de o natur�? magnific�?."],
       en: ["Home to Iceland's only Arctic Fox research center.", "Partially rebuilt after a major avalanche in 1995.", "A peaceful spot surrounded by magnificent nature."]
     }
   },
@@ -790,15 +790,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-23.51, 66.05],
     name: { de: "Flateyri", hu: "Flateyri", ro: "Flateyri", en: "Flateyri" },
     description: {
-      de: "Ein malerisches Dorf am Ã–nundarfjÃ¶rÃ°ur in den Westfjorden.",
-      hu: "FestÅ‘i falu az Ã–nundarfjÃ¶rÃ°ur partjÃ¡n a Nyugati-fjordokban.",
-      ro: "Un sat pitoresc pe Ã–nundarfjÃ¶rÃ°ur Ã®n Westfjords.",
-      en: "A picturesque village on Ã–nundarfjÃ¶rÃ°ur in the Westfjords."
+      de: "Ein malerisches Dorf am �?nundarfjörður in den Westfjorden.",
+      hu: "Fest�?i falu az �?nundarfjörður partján a Nyugati-fjordokban.",
+      ro: "Un sat pitoresc pe �?nundarfjörður în Westfjords.",
+      en: "A picturesque village on �?nundarfjörður in the Westfjords."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seinen Schutzdamm gegen Lawinen.", "Heimat des Ã¤ltesten Buchladens Islands.", "Ein friedliches Dorf mit einer engen Gemeinschaft."],
-      hu: ["Lavina elleni vÃ©dÅ‘gÃ¡tjÃ¡rÃ³l ismert.", "Itt talÃ¡lhatÃ³ Izland legrÃ©gebbi kÃ¶nyvesboltja.", "BÃ©kÃ©s falu, szoros kÃ¶zÃ¶ssÃ©ggel."],
-      ro: ["Cunoscut pentru digul sÄƒu de protecÈ›ie Ã®mpotriva avalanÈ™elor.", "GÄƒzduieÈ™te cea mai veche librÄƒrie din Islanda.", "Un sat liniÈ™tit cu o comunitate unitÄƒ."],
+      de: ["Bekannt für seinen Schutzdamm gegen Lawinen.", "Heimat des ältesten Buchladens Islands.", "Ein friedliches Dorf mit einer engen Gemeinschaft."],
+      hu: ["Lavina elleni véd�?gátjáról ismert.", "Itt található Izland legrégebbi könyvesboltja.", "Békés falu, szoros közösséggel."],
+      ro: ["Cunoscut pentru digul s�?u de protec�?ie împotriva avalan�?elor.", "G�?zduie�?te cea mai veche libr�?rie din Islanda.", "Un sat lini�?tit cu o comunitate unit�?."],
       en: ["Known for its avalanche protection dam.", "Home to the oldest bookstore in Iceland.", "A peaceful village with a close-knit community."]
     }
   },
@@ -807,17 +807,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.5, 65.88],
-    name: { de: "Ãžingeyri", hu: "Ãžingeyri", ro: "Ãžingeyri", en: "Ãžingeyri" },
+    name: { de: "�?ingeyri", hu: "�?ingeyri", ro: "�?ingeyri", en: "�?ingeyri" },
     description: {
-      de: "Einer der Ã¤ltesten Siedlungsorte in den Westfjorden.",
-      hu: "Az egyik legrÃ©gebbi telepÃ¼lÃ©s a Nyugati-fjordokban.",
-      ro: "Una dintre cele mai vechi aÈ™ezÄƒri din Westfjords.",
-      en: "One of the oldest settlements in the Westfjords, located on DÃ½rafjÃ¶rÃ°ur."
+      de: "Einer der ältesten Siedlungsorte in den Westfjorden.",
+      hu: "Az egyik legrégebbi település a Nyugati-fjordokban.",
+      ro: "Una dintre cele mai vechi a�?ez�?ri din Westfjords.",
+      en: "One of the oldest settlements in the Westfjords, located on Dýrafjörður."
     },
     facts: {
-      de: ["Liegt am FuÃŸe der 'Alpen der Westfjorde'.", "Bekannt fÃ¼r seine Verbindung zur Wikingergeschichte.", "Ein beliebter Ort fÃ¼r Wanderungen und Reittouren."],
-      hu: ["A 'Nyugati-fjordok Alpok'-jÃ¡nak lÃ¡bÃ¡nÃ¡l fekszik.", "Viking tÃ¶rtÃ©nelmi kapcsolatairÃ³l ismert.", "NÃ©pszerÅ± tÃºrÃ¡zÃ¡si Ã©s lovaglÃ¡si cÃ©lpont."],
-      ro: ["Situat la poalele â€žAlpilor din Westfjordsâ€.", "Cunoscut pentru legÄƒtura sa cu istoria vikingilor.", "Un loc popular pentru drumeÈ›ii È™i cÄƒlÄƒrie."],
+      de: ["Liegt am Fu�?e der 'Alpen der Westfjorde'.", "Bekannt für seine Verbindung zur Wikingergeschichte.", "Ein beliebter Ort für Wanderungen und Reittouren."],
+      hu: ["A 'Nyugati-fjordok Alpok'-jának lábánál fekszik.", "Viking történelmi kapcsolatairól ismert.", "Népszerű túrázási és lovaglási célpont."],
+      ro: ["Situat la poalele �??Alpilor din Westfjords�?�.", "Cunoscut pentru leg�?tura sa cu istoria vikingilor.", "Un loc popular pentru drume�?ii �?i c�?l�?rie."],
       en: ["Located at the foot of the 'Westfjords Alps'.", "Known for its Viking heritage.", "A popular spot for hiking and horseback riding."]
     }
   },
@@ -826,18 +826,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.99, 65.59],
-    name: { de: "PatreksfjÃ¶rÃ°ur", hu: "PatreksfjÃ¶rÃ°ur", ro: "PatreksfjÃ¶rÃ°ur", en: "PatreksfjÃ¶rÃ°ur" },
+    name: { de: "Patreksfjörður", hu: "Patreksfjörður", ro: "Patreksfjörður", en: "Patreksfjörður" },
     description: {
-      de: "Ein wichtiger Fischerort in den sÃ¼dlichen Westfjorden.",
-      hu: "Fontos halÃ¡szvÃ¡ros a Nyugati-fjordok dÃ©li rÃ©szÃ©n.",
-      ro: "Un oraÈ™ pescÄƒresc important Ã®n sudul regiunii Westfjords.",
+      de: "Ein wichtiger Fischerort in den südlichen Westfjorden.",
+      hu: "Fontos halászváros a Nyugati-fjordok déli részén.",
+      ro: "Un ora�? pesc�?resc important în sudul regiunii Westfjords.",
       en: "A significant fishing town in the southern part of the Westfjords."
     },
     facts: {
-      de: ["Tor zum LÃ¡trabjarg und zum RauÃ°asandur Strand.", "Hat eine lange Geschichte als Handelszentrum.", "Beherbergt eine moderne Fischverarbeitungsanlage."],
-      hu: ["A LÃ¡trabjarg Ã©s a RauÃ°asandur strand kapuja.", "Kereskedelmi kÃ¶zpontkÃ©nt hosszÃº mÃºltra tekint vissza.", "Modern hal-feldolgozÃ³ Ã¼zemnek ad otthont."],
-      ro: ["Poarta cÄƒtre LÃ¡trabjarg È™i plaja RauÃ°asandur.", "Are o lungÄƒ istorie ca centru comercial.", "GÄƒzduieÈ™te o unitate modernÄƒ de procesare a peÈ™telui."],
-      en: ["Gateway to LÃ¡trabjarg and RauÃ°asandur beach.", "Has a long history as a trading hub.", "Home to a modern fish processing facility."]
+      de: ["Tor zum Látrabjarg und zum Rauðasandur Strand.", "Hat eine lange Geschichte als Handelszentrum.", "Beherbergt eine moderne Fischverarbeitungsanlage."],
+      hu: ["A Látrabjarg és a Rauðasandur strand kapuja.", "Kereskedelmi központként hosszú múltra tekint vissza.", "Modern hal-feldolgozó üzemnek ad otthont."],
+      ro: ["Poarta c�?tre Látrabjarg �?i plaja Rauðasandur.", "Are o lung�? istorie ca centru comercial.", "G�?zduie�?te o unitate modern�? de procesare a pe�?telui."],
+      en: ["Gateway to Látrabjarg and Rauðasandur beach.", "Has a long history as a trading hub.", "Home to a modern fish processing facility."]
     }
   },
   {
@@ -845,17 +845,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-21.68, 65.7],
-    name: { de: "HÃ³lmavÃ­k", hu: "HÃ³lmavÃ­k", ro: "HÃ³lmavÃ­k", en: "HÃ³lmavÃ­k" },
+    name: { de: "Hólmavík", hu: "Hólmavík", ro: "Hólmavík", en: "Hólmavík" },
     description: {
-      de: "Ein Dorf in der Region Strandir, bekannt fÃ¼r seine Magie-Geschichte.",
-      hu: "TelepÃ¼lÃ©s Strandir rÃ©giÃ³ban, amely mÃ¡giÃ¡val kapcsolatos tÃ¶rtÃ©nelmÃ©rÅ‘l ismert.",
-      ro: "Un sat din regiunea Strandir, cunoscut pentru istoria sa legatÄƒ de magie.",
+      de: "Ein Dorf in der Region Strandir, bekannt für seine Magie-Geschichte.",
+      hu: "Település Strandir régióban, amely mágiával kapcsolatos történelmér�?l ismert.",
+      ro: "Un sat din regiunea Strandir, cunoscut pentru istoria sa legat�? de magie.",
       en: "A village in the Strandir region, famous for its history of sorcery and witchcraft."
     },
     facts: {
-      de: ["Heimat des Museums fÃ¼r islÃ¤ndische Zauberei und Hexerei.", "Das grÃ¶ÃŸte Dorf in der Region Strandir.", "Ein Zentrum fÃ¼r Schafzucht und Fischerei."],
-      hu: ["Itt talÃ¡lhatÃ³ az Izlandi MÃ¡gia Ã©s BoszorkÃ¡nysÃ¡g MÃºzeuma.", "Strandir rÃ©giÃ³ legnagyobb telepÃ¼lÃ©se.", "JuhtenyÃ©sztÃ©si Ã©s halÃ¡szati kÃ¶zpont."],
-      ro: ["GÄƒzduieÈ™te Muzeul Islandez de Sorcellerie È™i VrÄƒjitorie.", "Cel mai mare sat din regiunea Strandir.", "Un centru pentru creÈ™terea oilor È™i pescuit."],
+      de: ["Heimat des Museums für isländische Zauberei und Hexerei.", "Das grö�?te Dorf in der Region Strandir.", "Ein Zentrum für Schafzucht und Fischerei."],
+      hu: ["Itt található az Izlandi Mágia és Boszorkányság Múzeuma.", "Strandir régió legnagyobb települése.", "Juhtenyésztési és halászati központ."],
+      ro: ["G�?zduie�?te Muzeul Islandez de Sorcellerie �?i Vr�?jitorie.", "Cel mai mare sat din regiunea Strandir.", "Un centru pentru cre�?terea oilor �?i pescuit."],
       en: ["Home to the Museum of Icelandic Sorcery and Witchcraft.", "The largest village in the Strandir region.", "A hub for sheep farming and fishing."]
     }
   },
@@ -864,17 +864,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.65, 65.75],
-    name: { de: "SauÃ°Ã¡rkrÃ³kur", hu: "SauÃ°Ã¡rkrÃ³kur", ro: "SauÃ°Ã¡rkrÃ³kur", en: "SauÃ°Ã¡rkrÃ³kur" },
+    name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur" },
     description: {
-      de: "Das Dienstleistungszentrum des SkagafjÃ¶rÃ°ur-Distrikts.",
-      hu: "A SkagafjÃ¶rÃ°ur jÃ¡rÃ¡s szolgÃ¡ltatÃ³ kÃ¶zpontja.",
-      ro: "Centrul de servicii al districtului SkagafjÃ¶rÃ°ur.",
-      en: "The primary service center for the SkagafjÃ¶rÃ°ur district."
+      de: "Das Dienstleistungszentrum des Skagafjörður-Distrikts.",
+      hu: "A Skagafjörður járás szolgáltató központja.",
+      ro: "Centrul de servicii al districtului Skagafjörður.",
+      en: "The primary service center for the Skagafjörður district."
     },
     facts: {
-      de: ["Ein wichtiger Hafen fÃ¼r Fischerei und Handel.", "Bekannt fÃ¼r seine NÃ¤he zur Insel Drangey.", "Heimat einer bedeutenden Woll- und Gerbereiindustrie."],
-      hu: ["Fontos halÃ¡szati Ã©s kereskedelmi kikÃ¶tÅ‘.", "A Drangey-sziget kÃ¶zelsÃ©gÃ©rÅ‘l ismert.", "JelentÅ‘s gyapjÃº- Ã©s cserzÅ‘iparral rendelkezik."],
-      ro: ["Un port important pentru pescuit È™i comerÈ›.", "Cunoscut pentru proximitatea faÈ›Äƒ de insula Drangey.", "GÄƒzduieÈ™te o importantÄƒ industrie a lÃ¢nii È™i tÄƒbÄƒcÄƒriei."],
+      de: ["Ein wichtiger Hafen für Fischerei und Handel.", "Bekannt für seine Nähe zur Insel Drangey.", "Heimat einer bedeutenden Woll- und Gerbereiindustrie."],
+      hu: ["Fontos halászati és kereskedelmi kiköt�?.", "A Drangey-sziget közelségér�?l ismert.", "Jelent�?s gyapjú- és cserz�?iparral rendelkezik."],
+      ro: ["Un port important pentru pescuit �?i comer�?.", "Cunoscut pentru proximitatea fa�?�? de insula Drangey.", "G�?zduie�?te o important�? industrie a lânii �?i t�?b�?c�?riei."],
       en: ["A major port for fishing and trade.", "Known for its proximity to the island of Drangey.", "Home to a significant wool and tanning industry."]
     }
   },
@@ -883,17 +883,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-20.3, 65.6667],
-    name: { de: "BlÃ¶nduÃ³s", hu: "BlÃ¶nduÃ³s", ro: "BlÃ¶nduÃ³s", en: "BlÃ¶nduÃ³s" },
+    name: { de: "Blönduós", hu: "Blönduós", ro: "Blönduós", en: "Blönduós" },
     description: {
-      de: "Ein Ort an der MÃ¼ndung des Flusses Blanda im Norden Islands.",
-      hu: "TelepÃ¼lÃ©s a Blanda-folyÃ³ torkolatÃ¡nÃ¡l, Izland Ã©szaki rÃ©szÃ©n.",
-      ro: "O aÈ™ezare la gura de vÄƒrsare a rÃ¢ului Blanda Ã®n nordul Islandei.",
+      de: "Ein Ort an der Mündung des Flusses Blanda im Norden Islands.",
+      hu: "Település a Blanda-folyó torkolatánál, Izland északi részén.",
+      ro: "O a�?ezare la gura de v�?rsare a râului Blanda în nordul Islandei.",
       en: "A town situated at the mouth of the Blanda river in North Iceland."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine moderne Kirche, die einem Vulkankrater nachempfunden ist.", "Heimat des islÃ¤ndischen Textilmuseums.", "Ein wichtiger Stopp an der RingstraÃŸe."],
-      hu: ["VulkÃ¡ni krÃ¡tert formÃ¡zÃ³ modern templomÃ¡rÃ³l ismert.", "Itt talÃ¡lhatÃ³ az Izlandi TextilmÃºzeum.", "Fontos megÃ¡llÃ³ a gyÅ±rÅ±s Ãºt mentÃ©n."],
-      ro: ["Cunoscut pentru biserica sa modernÄƒ Ã®n formÄƒ de crater vulcanic.", "GÄƒzduieÈ™te Muzeul Islandez al Textilelor.", "O oprire importantÄƒ pe È™oseaua de centurÄƒ."],
+      de: ["Bekannt für seine moderne Kirche, die einem Vulkankrater nachempfunden ist.", "Heimat des isländischen Textilmuseums.", "Ein wichtiger Stopp an der Ringstra�?e."],
+      hu: ["Vulkáni krátert formázó modern templomáról ismert.", "Itt található az Izlandi Textilmúzeum.", "Fontos megálló a gyűrűs út mentén."],
+      ro: ["Cunoscut pentru biserica sa modern�? în form�? de crater vulcanic.", "G�?zduie�?te Muzeul Islandez al Textilelor.", "O oprire important�? pe �?oseaua de centur�?."],
       en: ["Famous for its modern church inspired by a volcanic crater.", "Home to the Icelandic Textile Museum.", "A major stop on the Ring Road."]
     }
   },
@@ -904,15 +904,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.9333, 65.4],
     name: { de: "Hvammstangi", hu: "Hvammstangi", ro: "Hvammstangi", en: "Hvammstangi" },
     description: {
-      de: "Ein Dorf auf der Halbinsel Vatnsnes, bekannt fÃ¼r seine Fische und Robben.",
-      hu: "TelepÃ¼lÃ©s a Vatnsnes-fÃ©lszigeten, halairÃ³l Ã©s fÃ³kÃ¡irÃ³l ismert.",
-      ro: "Un sat de pe peninsula Vatnsnes, cunoscut pentru peÈ™te È™i foci.",
+      de: "Ein Dorf auf der Halbinsel Vatnsnes, bekannt für seine Fische und Robben.",
+      hu: "Település a Vatnsnes-félszigeten, halairól és fókáiról ismert.",
+      ro: "Un sat de pe peninsula Vatnsnes, cunoscut pentru pe�?te �?i foci.",
       en: "A village on the Vatnsnes Peninsula, known for its fishing and seal watching."
     },
     facts: {
-      de: ["Beherbergt das IslÃ¤ndische Robbenzentrum.", "Ein wichtiges Zentrum fÃ¼r Handel und Dienstleistungen.", "Tor zur Erkundung der Halbinsel Vatnsnes."],
-      hu: ["Itt talÃ¡lhatÃ³ az Izlandi FÃ³kakÃ¶zpont.", "Fontos kereskedelmi Ã©s szolgÃ¡ltatÃ³ kÃ¶zpont.", "A Vatnsnes-fÃ©lsziget felfedezÃ©sÃ©nek kapuja."],
-      ro: ["GÄƒzduieÈ™te Centrul Islandez al Focilor.", "Un centru important pentru comerÈ› È™i servicii.", "Poarta pentru explorarea peninsulei Vatnsnes."],
+      de: ["Beherbergt das Isländische Robbenzentrum.", "Ein wichtiges Zentrum für Handel und Dienstleistungen.", "Tor zur Erkundung der Halbinsel Vatnsnes."],
+      hu: ["Itt található az Izlandi Fókaközpont.", "Fontos kereskedelmi és szolgáltató központ.", "A Vatnsnes-félsziget felfedezésének kapuja."],
+      ro: ["G�?zduie�?te Centrul Islandez al Focilor.", "Un centru important pentru comer�? �?i servicii.", "Poarta pentru explorarea peninsulei Vatnsnes."],
       en: ["Home to the Icelandic Seal Center.", "A regional hub for trade and services.", "The gateway for exploring the Vatnsnes Peninsula."]
     }
   },
@@ -921,18 +921,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.5333, 65.9667],
-    name: { de: "DalvÃ­k", hu: "DalvÃ­k", ro: "DalvÃ­k", en: "DalvÃ­k" },
+    name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík" },
     description: {
-      de: "Ein malerisches Fischerdorf am EyjafjÃ¶rÃ°ur-Fjord.",
-      hu: "FestÅ‘i halÃ¡szfalu az EyjafjÃ¶rÃ°ur-fjord partjÃ¡n.",
-      ro: "Un sat de pescari pitoresc pe fiordul EyjafjÃ¶rÃ°ur.",
-      en: "A picturesque fishing village on the shores of EyjafjÃ¶rÃ°ur."
+      de: "Ein malerisches Fischerdorf am Eyjafjörður-Fjord.",
+      hu: "Fest�?i halászfalu az Eyjafjörður-fjord partján.",
+      ro: "Un sat de pescari pitoresc pe fiordul Eyjafjörður.",
+      en: "A picturesque fishing village on the shores of Eyjafjörður."
     },
     facts: {
-      de: ["Ausgangspunkt fÃ¼r die FÃ¤hre zur Insel GrÃ­msey.", "Veranstaltet jÃ¤hrlich das 'GroÃŸe Fischfest' (Fiskidagurinn mikli).", "Bekannt fÃ¼r seine hervorragenden SkimÃ¶glichkeiten."],
-      hu: ["A GrÃ­msey-szigetre indulÃ³ komp kiindulÃ³pontja.", "Minden Ã©vben megrendezik a 'Nagy HalÃ¼nnepet' (Fiskidagurinn mikli).", "KivÃ¡lÃ³ sÃ­elÃ©si lehetÅ‘sÃ©geirÅ‘l ismert."],
-      ro: ["Punct de plecare pentru feribotul cÄƒtre insula GrÃ­msey.", "GÄƒzduieÈ™te anual â€žMarea Zi a PeÈ™teluiâ€ (Fiskidagurinn mikli).", "Cunoscut pentru oportunitÄƒÈ›ile sale excelente de schi."],
-      en: ["Starting point for the ferry to GrÃ­msey Island.", "Hosts the annual 'Great Fish Day' (Fiskidagurinn mikli).", "Famous for its excellent skiing facilities."]
+      de: ["Ausgangspunkt für die Fähre zur Insel Grímsey.", "Veranstaltet jährlich das 'Gro�?e Fischfest' (Fiskidagurinn mikli).", "Bekannt für seine hervorragenden Skimöglichkeiten."],
+      hu: ["A Grímsey-szigetre induló komp kiindulópontja.", "Minden évben megrendezik a 'Nagy Halünnepet' (Fiskidagurinn mikli).", "Kiváló síelési lehet�?ségeir�?l ismert."],
+      ro: ["Punct de plecare pentru feribotul c�?tre insula Grímsey.", "G�?zduie�?te anual �??Marea Zi a Pe�?telui�?� (Fiskidagurinn mikli).", "Cunoscut pentru oportunit�?�?ile sale excelente de schi."],
+      en: ["Starting point for the ferry to Grímsey Island.", "Hosts the annual 'Great Fish Day' (Fiskidagurinn mikli).", "Famous for its excellent skiing facilities."]
     }
   },
   {
@@ -940,17 +940,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.9167, 66.15],
-    name: { de: "SiglufjÃ¶rÃ°ur", hu: "SiglufjÃ¶rÃ°ur", ro: "SiglufjÃ¶rÃ°ur", en: "SiglufjÃ¶rÃ°ur" },
+    name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður" },
     description: {
-      de: "Ein wunderschÃ¶ner Ort, der einst das Zentrum der Heringfischerei war.",
-      hu: "GyÃ¶nyÃ¶rÅ± telepÃ¼lÃ©s, amely egykor a heringhalÃ¡szat kÃ¶zpontja volt.",
-      ro: "O aÈ™ezare superbÄƒ care a fost odinioarÄƒ centrul pescuitului de hering.",
+      de: "Ein wunderschöner Ort, der einst das Zentrum der Heringfischerei war.",
+      hu: "Gyönyörű település, amely egykor a heringhalászat központja volt.",
+      ro: "O a�?ezare superb�? care a fost odinioar�? centrul pescuitului de hering.",
       en: "A beautiful town that was once the global center for herring fishing."
     },
     facts: {
-      de: ["Beherbergt das preisgekrÃ¶nte Heringsmuseum.", "Liegt in einem engen Fjord, umgeben von steilen Bergen.", "Wurde durch neue Tunnel besser erreichbar."],
-      hu: ["Itt talÃ¡lhatÃ³ a dÃ­jnyertes HeringmÃºzeum.", "MÃ©ly fjordban fekszik, meredek hegyekkel kÃ¶rÃ¼lvÃ©ve.", "Ãšj alagutak tettÃ©k kÃ¶nnyebben elÃ©rhetÅ‘vÃ©."],
-      ro: ["GÄƒzduieÈ™te Muzeul Heringului, premiat la nivel internaÈ›ional.", "Situat Ã®ntr-un fiord Ã®ngust, Ã®nconjurat de munÈ›i abrupÈ›i.", "Devenit mai accesibil prin noi tuneluri."],
+      de: ["Beherbergt das preisgekrönte Heringsmuseum.", "Liegt in einem engen Fjord, umgeben von steilen Bergen.", "Wurde durch neue Tunnel besser erreichbar."],
+      hu: ["Itt található a díjnyertes Heringmúzeum.", "Mély fjordban fekszik, meredek hegyekkel körülvéve.", "�?j alagutak tették könnyebben elérhet�?vé."],
+      ro: ["G�?zduie�?te Muzeul Heringului, premiat la nivel interna�?ional.", "Situat într-un fiord îngust, înconjurat de mun�?i abrup�?i.", "Devenit mai accesibil prin noi tuneluri."],
       en: ["Home to the award-winning Herring Era Museum.", "Nestled in a narrow fjord surrounded by steep mountains.", "Became more accessible recently through new tunnels."]
     }
   },
@@ -959,18 +959,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.65, 66.0667],
-    name: { de: "Ã“lafsfjÃ¶rÃ°ur", hu: "Ã“lafsfjÃ¶rÃ°ur", ro: "Ã“lafsfjÃ¶rÃ°ur", en: "Ã“lafsfjÃ¶rÃ°ur" },
+    name: { de: "�?lafsfjörður", hu: "�?lafsfjörður", ro: "�?lafsfjörður", en: "�?lafsfjörður" },
     description: {
-      de: "Ein Fischerdorf bekannt fÃ¼r seine natÃ¼rliche SchÃ¶nheit und Wintersport.",
-      hu: "HalÃ¡szfalu, amely termÃ©szeti szÃ©psÃ©gÃ©rÅ‘l Ã©s tÃ©li sportjairÃ³l ismert.",
-      ro: "Un sat de pescari cunoscut pentru frumuseÈ›ea sa naturalÄƒ È™i sporturile de iarnÄƒ.",
+      de: "Ein Fischerdorf bekannt für seine natürliche Schönheit und Wintersport.",
+      hu: "Halászfalu, amely természeti szépségér�?l és téli sportjairól ismert.",
+      ro: "Un sat de pescari cunoscut pentru frumuse�?ea sa natural�? �?i sporturile de iarn�?.",
       en: "A fishing town known for its natural beauty and winter sports opportunities."
     },
     facts: {
-      de: ["Teil der Gemeinde FjallabyggÃ°.", "Ein beliebtes Ziel fÃ¼r Skifahrer und Snowboarder.", "Bietet tolle Bedingungen zum Hochseeangeln."],
-      hu: ["FjallabyggÃ° kÃ¶zsÃ©g rÃ©sze.", "SÃ­elÅ‘k Ã©s snowboardosok kedvelt cÃ©lpontja.", "KivÃ¡lÃ³ feltÃ©teleket nyÃºjt a tengeri horgÃ¡szathoz."],
-      ro: ["Parte a municipalitÄƒÈ›ii FjallabyggÃ°.", "O destinaÈ›ie popularÄƒ pentru schiori È™i snowboarderi.", "OferÄƒ condiÈ›ii excelente pentru pescuitul oceanic."],
-      en: ["Part of the FjallabyggÃ° municipality.", "A popular destination for skiers and snowboarders.", "Offers great conditions for sea angling."]
+      de: ["Teil der Gemeinde Fjallabyggð.", "Ein beliebtes Ziel für Skifahrer und Snowboarder.", "Bietet tolle Bedingungen zum Hochseeangeln."],
+      hu: ["Fjallabyggð község része.", "Síel�?k és snowboardosok kedvelt célpontja.", "Kiváló feltételeket nyújt a tengeri horgászathoz."],
+      ro: ["Parte a municipalit�?�?ii Fjallabyggð.", "O destina�?ie popular�? pentru schiori �?i snowboarderi.", "Ofer�? condi�?ii excelente pentru pescuitul oceanic."],
+      en: ["Part of the Fjallabyggð municipality.", "A popular destination for skiers and snowboarders.", "Offers great conditions for sea angling."]
     }
   },
   {
@@ -978,17 +978,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.1, 65.95],
-    name: { de: "GrenivÃ­k", hu: "GrenivÃ­k", ro: "GrenivÃ­k", en: "GrenivÃ­k" },
+    name: { de: "Grenivík", hu: "Grenivík", ro: "Grenivík", en: "Grenivík" },
     description: {
-      de: "Ein friedliches Dorf am Ã¶stlichen Ufer des EyjafjÃ¶rÃ°ur.",
-      hu: "BÃ©kÃ©s falu az EyjafjÃ¶rÃ°ur keleti partjÃ¡n.",
-      ro: "Un sat liniÈ™tit pe malul estic al fiordului EyjafjÃ¶rÃ°ur.",
-      en: "A peaceful village on the eastern shore of EyjafjÃ¶rÃ°ur."
+      de: "Ein friedliches Dorf am östlichen Ufer des Eyjafjörður.",
+      hu: "Békés falu az Eyjafjörður keleti partján.",
+      ro: "Un sat lini�?tit pe malul estic al fiordului Eyjafjörður.",
+      en: "A peaceful village on the eastern shore of Eyjafjörður."
     },
     facts: {
-      de: ["Bietet einen herrlichen Blick auf den Fjord.", "In der NÃ¤he des Berges Kaldbakur gelegen.", "Ein idealer Ort fÃ¼r ruhige Wanderungen."],
-      hu: ["PompÃ¡s kilÃ¡tÃ¡st nyÃºjt a fjordra.", "A Kaldbakur hegy kÃ¶zelÃ©ben fekszik.", "IdeÃ¡lis hely a csendes tÃºrÃ¡zÃ¡shoz."],
-      ro: ["OferÄƒ o vedere superbÄƒ spre fiord.", "Situat lÃ¢ngÄƒ muntele Kaldbakur.", "Un loc ideal pentru drumeÈ›ii liniÈ™tite."],
+      de: ["Bietet einen herrlichen Blick auf den Fjord.", "In der Nähe des Berges Kaldbakur gelegen.", "Ein idealer Ort für ruhige Wanderungen."],
+      hu: ["Pompás kilátást nyújt a fjordra.", "A Kaldbakur hegy közelében fekszik.", "Ideális hely a csendes túrázáshoz."],
+      ro: ["Ofer�? o vedere superb�? spre fiord.", "Situat lâng�? muntele Kaldbakur.", "Un loc ideal pentru drume�?ii lini�?tite."],
       en: ["Offers a splendid view of the fjord.", "Located near the Kaldbakur mountain.", "An ideal spot for quiet hiking."]
     }
   },
@@ -997,17 +997,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-15.3333, 66.2],
-    name: { de: "ÃžÃ³rshÃ¶fn", hu: "ÃžÃ³rshÃ¶fn", ro: "ÃžÃ³rshÃ¶fn", en: "ÃžÃ³rshÃ¶fn" },
+    name: { de: "�?órshöfn", hu: "�?órshöfn", ro: "�?órshöfn", en: "�?órshöfn" },
     description: {
       de: "Ein Fischerdorf auf der Halbinsel Langanes im Nordosten.",
-      hu: "HalÃ¡szfalu az Ã©szakkeleti Langanes-fÃ©lszigeten.",
-      ro: "Un sat de pescari pe peninsula Langanes Ã®n nord-est.",
+      hu: "Halászfalu az északkeleti Langanes-félszigeten.",
+      ro: "Un sat de pescari pe peninsula Langanes în nord-est.",
       en: "A fishing village on the Langanes Peninsula in the northeast."
     },
     facts: {
-      de: ["Ein wichtiges Zentrum fÃ¼r Fischverarbeitung.", "Tor zur Vogelbeobachtung auf Langanes.", "Ein abgelegener und authentischer Ort."],
-      hu: ["Fontos hal-feldolgozÃ³ kÃ¶zpont.", "A Langanes-fÃ©lszigeti madÃ¡rmegfigyelÃ©s kapuja.", "Elszigetelt Ã©s autentikus hely."],
-      ro: ["Un centru important pentru procesarea peÈ™telui.", "Poarta cÄƒtre observarea pÄƒsÄƒrilor pe Langanes.", "Un loc izolat È™i autentic."],
+      de: ["Ein wichtiges Zentrum für Fischverarbeitung.", "Tor zur Vogelbeobachtung auf Langanes.", "Ein abgelegener und authentischer Ort."],
+      hu: ["Fontos hal-feldolgozó központ.", "A Langanes-félszigeti madármegfigyelés kapuja.", "Elszigetelt és autentikus hely."],
+      ro: ["Un centru important pentru procesarea pe�?telui.", "Poarta c�?tre observarea p�?s�?rilor pe Langanes.", "Un loc izolat �?i autentic."],
       en: ["A key hub for fish processing.", "Gateway for birdwatching on Langanes.", "A remote and authentic location."]
     }
   },
@@ -1016,18 +1016,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.4, 65.27],
-    name: { de: "FellabÃ¦r", hu: "FellabÃ¦r", ro: "FellabÃ¦r", en: "FellabÃ¦r" },
+    name: { de: "Fellabær", hu: "Fellabær", ro: "Fellabær", en: "Fellabær" },
     description: {
-      de: "Ein Vorort von EgilsstaÃ°ir, bekannt fÃ¼r seine ruhige AtmosphÃ¤re.",
-      hu: "EgilsstaÃ°ir elÅ‘vÃ¡rosa, nyugodt lÃ©gkÃ¶rÃ©rÅ‘l ismert.",
-      ro: "O suburbie a oraÈ™ului EgilsstaÃ°ir, cunoscutÄƒ pentru atmosfera sa liniÈ™titÄƒ.",
-      en: "A suburb of EgilsstaÃ°ir known for its quiet residential atmosphere."
+      de: "Ein Vorort von Egilsstaðir, bekannt für seine ruhige Atmosphäre.",
+      hu: "Egilsstaðir el�?városa, nyugodt légkörér�?l ismert.",
+      ro: "O suburbie a ora�?ului Egilsstaðir, cunoscut�? pentru atmosfera sa lini�?tit�?.",
+      en: "A suburb of Egilsstaðir known for its quiet residential atmosphere."
     },
     facts: {
-      de: ["Bietet moderne WohnmÃ¶glichkeiten.", "Nahe am Fluss LagarfljÃ³t.", "Gut an das Verkehrsnetz angebunden."],
-      hu: ["Modern lakhatÃ¡si lehetÅ‘sÃ©geket kÃ­nÃ¡l.", "KÃ¶zel van a LagarfljÃ³t-folyÃ³hoz.", "JÃ³l kapcsolÃ³dik az ÃºthÃ¡lÃ³zathoz."],
-      ro: ["OferÄƒ opÈ›iuni moderne de locuit.", "Aproape de rÃ¢ul LagarfljÃ³t.", "Bine conectat la reÈ›eaua rutierÄƒ."],
-      en: ["Offers modern residential options.", "Close to the LagarfljÃ³t river.", "Well-connected to the road network."]
+      de: ["Bietet moderne Wohnmöglichkeiten.", "Nahe am Fluss Lagarfljót.", "Gut an das Verkehrsnetz angebunden."],
+      hu: ["Modern lakhatási lehet�?ségeket kínál.", "Közel van a Lagarfljót-folyóhoz.", "Jól kapcsolódik az úthálózathoz."],
+      ro: ["Ofer�? op�?iuni moderne de locuit.", "Aproape de râul Lagarfljót.", "Bine conectat la re�?eaua rutier�?."],
+      en: ["Offers modern residential options.", "Close to the Lagarfljót river.", "Well-connected to the road network."]
     }
   },
   {
@@ -1035,18 +1035,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.73, 65.1],
-    name: { de: "HallormsstaÃ°ur", hu: "HallormsstaÃ°ur", ro: "HallormsstaÃ°ur", en: "HallormsstaÃ°ur" },
+    name: { de: "Hallormsstaður", hu: "Hallormsstaður", ro: "Hallormsstaður", en: "Hallormsstaður" },
     description: {
-      de: "Ein kleiner Ort inmitten des grÃ¶ÃŸten Waldes Islands.",
-      hu: "Kis telepÃ¼lÃ©s Izland legnagyobb erdejÃ©nek szÃ­vÃ©ben.",
-      ro: "O micÄƒ aÈ™ezare Ã®n inima celei mai mari pÄƒduri din Islanda.",
+      de: "Ein kleiner Ort inmitten des grö�?ten Waldes Islands.",
+      hu: "Kis település Izland legnagyobb erdejének szívében.",
+      ro: "O mic�? a�?ezare în inima celei mai mari p�?duri din Islanda.",
       en: "A small settlement located in the heart of Iceland's largest forest."
     },
     facts: {
-      de: ["Heimat des HallormsstaÃ°askÃ³gur Waldes.", "Beliebter Ort zum Campen und Wandern.", "Bietet ein fÃ¼r Island ungewÃ¶hnliches Waldklima."],
-      hu: ["A HallormsstaÃ°askÃ³gur erdÅ‘ otthona.", "NÃ©pszerÅ± kempingezÅ‘- Ã©s tÃºrahely.", "Izlandon szokatlan erdei klÃ­mÃ¡t kÃ­nÃ¡l."],
-      ro: ["Casa pÄƒdurii HallormsstaÃ°askÃ³gur.", "Loc popular pentru camping È™i drumeÈ›ii.", "OferÄƒ un climat forestier neobiÈ™nuit pentru Islanda."],
-      en: ["Home to the HallormsstaÃ°askÃ³gur forest.", "Popular spot for camping and hiking.", "Offers a forest climate unusual for Iceland."]
+      de: ["Heimat des Hallormsstaðaskógur Waldes.", "Beliebter Ort zum Campen und Wandern.", "Bietet ein für Island ungewöhnliches Waldklima."],
+      hu: ["A Hallormsstaðaskógur erd�? otthona.", "Népszerű kempingez�?- és túrahely.", "Izlandon szokatlan erdei klímát kínál."],
+      ro: ["Casa p�?durii Hallormsstaðaskógur.", "Loc popular pentru camping �?i drume�?ii.", "Ofer�? un climat forestier neobi�?nuit pentru Islanda."],
+      en: ["Home to the Hallormsstaðaskógur forest.", "Popular spot for camping and hiking.", "Offers a forest climate unusual for Iceland."]
     }
   },
   {
@@ -1054,17 +1054,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.8, 65.75],
-    name: { de: "VopnafjÃ¶rÃ°ur", hu: "VopnafjÃ¶rÃ°ur", ro: "VopnafjÃ¶rÃ°ur", en: "VopnafjÃ¶rÃ°ur" },
+    name: { de: "Vopnafjörður", hu: "Vopnafjörður", ro: "Vopnafjörður", en: "Vopnafjörður" },
     description: {
-      de: "Ein abgelegenes Dorf bekannt fÃ¼r seine landschaftliche SchÃ¶nheit.",
-      hu: "Elszigetelt falu, amely tÃ¡jainak szÃ©psÃ©gÃ©rÅ‘l ismert.",
-      ro: "Un sat izolat cunoscut pentru frumuseÈ›ea peisajelor sale.",
+      de: "Ein abgelegenes Dorf bekannt für seine landschaftliche Schönheit.",
+      hu: "Elszigetelt falu, amely tájainak szépségér�?l ismert.",
+      ro: "Un sat izolat cunoscut pentru frumuse�?ea peisajelor sale.",
       en: "A remote village known for its scenic beauty and traditional lifestyle."
     },
     facts: {
       de: ["Ein Zentrum der Lachsfischerei.", "Historisch bedeutender Auswanderungshafen.", "Umgeben von markanten Bergen."],
-      hu: ["A lazachalÃ¡szat kÃ¶zpontja.", "TÃ¶rtÃ©nelmileg jelentÅ‘s kivÃ¡ndorlÃ¡si kikÃ¶tÅ‘ volt.", "Jellegzetes hegyek veszik kÃ¶rÃ¼l."],
-      ro: ["Un centru al pescuitului de somon.", "Istoric, un port important de emigrare.", "ÃŽnconjurat de munÈ›i distinctivi."],
+      hu: ["A lazachalászat központja.", "Történelmileg jelent�?s kivándorlási kiköt�? volt.", "Jellegzetes hegyek veszik körül."],
+      ro: ["Un centru al pescuitului de somon.", "Istoric, un port important de emigrare.", "�?nconjurat de mun�?i distinctivi."],
       en: ["A hub for salmon fishing.", "Historically a significant emigration port.", "Surrounded by striking mountains."]
     }
   },
@@ -1073,17 +1073,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.33, 64.79],
-    name: { de: "BreiÃ°dalsvÃ­k", hu: "BreiÃ°dalsvÃ­k", ro: "BreiÃ°dalsvÃ­k", en: "BreiÃ°dalsvÃ­k" },
+    name: { de: "Breiðdalsvík", hu: "Breiðdalsvík", ro: "Breiðdalsvík", en: "Breiðdalsvík" },
     description: {
-      de: "Ein kleines Dorf am FuÃŸe beeindruckender Berge.",
-      hu: "Kis falu lenyÅ±gÃ¶zÅ‘ hegyek lÃ¡bÃ¡nÃ¡l.",
-      ro: "Un sat mic la poalele unor munÈ›i impresionanÈ›i.",
+      de: "Ein kleines Dorf am Fu�?e beeindruckender Berge.",
+      hu: "Kis falu lenyűgöz�? hegyek lábánál.",
+      ro: "Un sat mic la poalele unor mun�?i impresionan�?i.",
       en: "A small village nestled at the foot of impressive mountains."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine Brauerei.", "Ein ruhiger Stopp an der RingstraÃŸe.", "Bietet tolle MÃ¶glichkeiten zum Wandern."],
-      hu: ["SajÃ¡t sÃ¶rfÅ‘zdÃ©jÃ©rÅ‘l ismert.", "Csendes megÃ¡llÃ³ a gyÅ±rÅ±s Ãºt mentÃ©n.", "NagyszerÅ± tÃºrÃ¡zÃ¡si lehetÅ‘sÃ©geket kÃ­nÃ¡l."],
-      ro: ["Cunoscut pentru berÄƒria sa.", "O oprire liniÈ™titÄƒ pe È™oseaua de centurÄƒ.", "OferÄƒ oportunitÄƒÈ›i excelente de drumeÈ›ie."],
+      de: ["Bekannt für seine Brauerei.", "Ein ruhiger Stopp an der Ringstra�?e.", "Bietet tolle Möglichkeiten zum Wandern."],
+      hu: ["Saját sörf�?zdéjér�?l ismert.", "Csendes megálló a gyűrűs út mentén.", "Nagyszerű túrázási lehet�?ségeket kínál."],
+      ro: ["Cunoscut pentru ber�?ria sa.", "O oprire lini�?tit�? pe �?oseaua de centur�?.", "Ofer�? oportunit�?�?i excelente de drume�?ie."],
       en: ["Known for its local brewery.", "A peaceful stop on the Ring Road.", "Offers great hiking opportunities."]
     }
   },
@@ -1092,17 +1092,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.88, 64.83],
-    name: { de: "StÃ¶Ã°varfjÃ¶rÃ°ur", hu: "StÃ¶Ã°varfjÃ¶rÃ°ur", ro: "StÃ¶Ã°varfjÃ¶rÃ°ur", en: "StÃ¶Ã°varfjÃ¶rÃ°ur" },
+    name: { de: "Stöðvarfjörður", hu: "Stöðvarfjörður", ro: "Stöðvarfjörður", en: "Stöðvarfjörður" },
     description: {
-      de: "Ein kleines Fischerdorf bekannt fÃ¼r seine Steinsammlung.",
-      hu: "Kis halÃ¡szfalu, amely Ã¡svÃ¡nygyÅ±jtemÃ©nyÃ©rÅ‘l ismert.",
-      ro: "Un mic sat de pescari cunoscut pentru colecÈ›ia sa de pietre.",
+      de: "Ein kleines Fischerdorf bekannt für seine Steinsammlung.",
+      hu: "Kis halászfalu, amely ásványgyűjteményér�?l ismert.",
+      ro: "Un mic sat de pescari cunoscut pentru colec�?ia sa de pietre.",
       en: "A small fishing village famous for its extensive mineral collection."
     },
     facts: {
-      de: ["Heimat von Petra's Stone Collection.", "Ein beliebtes Ziel fÃ¼r Geologie-Begeisterte.", "In einem engen, malerischen Fjord gelegen."],
-      hu: ["Itt talÃ¡lhatÃ³ Petra Ã¡svÃ¡nygyÅ±jtemÃ©nye.", "A geolÃ³gia szerelmeseinek kedvelt cÃ©lpontja.", "MÃ©ly, festÅ‘i fjordban fekszik."],
-      ro: ["GÄƒzduieÈ™te colecÈ›ia de pietre a Petrei.", "O destinaÈ›ie popularÄƒ pentru pasionaÈ›ii de geologie.", "Situat Ã®ntr-un fiord Ã®ngust È™i pitoresc."],
+      de: ["Heimat von Petra's Stone Collection.", "Ein beliebtes Ziel für Geologie-Begeisterte.", "In einem engen, malerischen Fjord gelegen."],
+      hu: ["Itt található Petra ásványgyűjteménye.", "A geológia szerelmeseinek kedvelt célpontja.", "Mély, fest�?i fjordban fekszik."],
+      ro: ["G�?zduie�?te colec�?ia de pietre a Petrei.", "O destina�?ie popular�? pentru pasiona�?ii de geologie.", "Situat într-un fiord îngust �?i pitoresc."],
       en: ["Home to Petra's Stone Collection.", "A popular destination for geology enthusiasts.", "Located in a narrow, scenic fjord."]
     }
   },
@@ -1111,18 +1111,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.75, 65.52],
-    name: { de: "BorgarfjÃ¶rÃ°ur eystri", hu: "BorgarfjÃ¶rÃ°ur eystri", ro: "BorgarfjÃ¶rÃ°ur eystri", en: "BorgarfjÃ¶rÃ°ur eystri" },
+    name: { de: "Borgarfjörður eystri", hu: "Borgarfjörður eystri", ro: "Borgarfjörður eystri", en: "Borgarfjörður eystri" },
     description: {
-      de: "Ein entlegenes Dorf, bekannt fÃ¼r Elfen-Legenden und Papageitaucher.",
-      hu: "Elszigetelt falu, amely elf-legendÃ¡irÃ³l Ã©s lundÃ¡irÃ³l ismert.",
-      ro: "Un sat Ã®ndepÄƒrtat, cunoscut pentru legendele cu elfi È™i pufini.",
+      de: "Ein entlegenes Dorf, bekannt für Elfen-Legenden und Papageitaucher.",
+      hu: "Elszigetelt falu, amely elf-legendáiról és lundáiról ismert.",
+      ro: "Un sat îndep�?rtat, cunoscut pentru legendele cu elfi �?i pufini.",
       en: "A remote village famous for its elf legends and puffin colonies."
     },
     facts: {
-      de: ["Gilt als Hauptstadt der Elfen in Island.", "Einer der besten Orte, um Papageitaucher aus der NÃ¤he zu sehen.", "Bekannt fÃ¼r das BrÃ¦Ã°slan Musikfestival."],
-      hu: ["Izland elf-fÅ‘vÃ¡rosakÃ©nt emlegetik.", "Az egyik legjobb hely a lundÃ¡k kÃ¶zeli megfigyelÃ©sÃ©re.", "A BrÃ¦Ã°slan zenei fesztivÃ¡lrÃ³l ismert."],
-      ro: ["Considerat capitala elfilor din Islanda.", "Unul dintre cele mai bune locuri pentru a vedea pufini de aproape.", "Cunoscut pentru festivalul de muzicÄƒ BrÃ¦Ã°slan."],
-      en: ["Considered the elf capital of Iceland.", "One of the best places to see puffins up close.", "Famous for the BrÃ¦Ã°slan music festival."]
+      de: ["Gilt als Hauptstadt der Elfen in Island.", "Einer der besten Orte, um Papageitaucher aus der Nähe zu sehen.", "Bekannt für das Bræðslan Musikfestival."],
+      hu: ["Izland elf-f�?városaként emlegetik.", "Az egyik legjobb hely a lundák közeli megfigyelésére.", "A Bræðslan zenei fesztiválról ismert."],
+      ro: ["Considerat capitala elfilor din Islanda.", "Unul dintre cele mai bune locuri pentru a vedea pufini de aproape.", "Cunoscut pentru festivalul de muzic�? Bræðslan."],
+      en: ["Considered the elf capital of Iceland.", "One of the best places to see puffins up close.", "Famous for the Bræðslan music festival."]
     }
   },
   {
@@ -1130,17 +1130,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.8, 66.03],
-    name: { de: "BakkafjÃ¶rÃ°ur", hu: "BakkafjÃ¶rÃ°ur", ro: "BakkafjÃ¶rÃ°ur", en: "BakkafjÃ¶rÃ°ur" },
+    name: { de: "Bakkafjörður", hu: "Bakkafjörður", ro: "Bakkafjörður", en: "Bakkafjörður" },
     description: {
       de: "Ein sehr kleiner und abgelegener Fischerort im Nordosten.",
-      hu: "Nagyon kicsi Ã©s elszigetelt halÃ¡sztelepÃ¼lÃ©s Ã©szakkeleten.",
-      ro: "Un sat de pescari foarte mic È™i izolat Ã®n nord-est.",
+      hu: "Nagyon kicsi és elszigetelt halásztelepülés északkeleten.",
+      ro: "Un sat de pescari foarte mic �?i izolat în nord-est.",
       en: "A very small and remote fishing settlement in the northeast."
     },
     facts: {
-      de: ["Einer der ruhigsten Orte Islands.", "Bietet einen Einblick in das traditionelle KÃ¼stenleben.", "Umgeben von unberÃ¼hrter Natur."],
-      hu: ["Izland egyik legnyugodtabb helye.", "BepillantÃ¡st enged a hagyomÃ¡nyos tengerparti Ã©letbe.", "Ã‰rintetlen termÃ©szet veszi kÃ¶rÃ¼l."],
-      ro: ["Unul dintre cele mai liniÈ™tite locuri din Islanda.", "OferÄƒ o privire asupra vieÈ›ii tradiÈ›ionale de coastÄƒ.", "ÃŽnconjurat de o naturÄƒ neatinsÄƒ."],
+      de: ["Einer der ruhigsten Orte Islands.", "Bietet einen Einblick in das traditionelle Küstenleben.", "Umgeben von unberührter Natur."],
+      hu: ["Izland egyik legnyugodtabb helye.", "Bepillantást enged a hagyományos tengerparti életbe.", "�?rintetlen természet veszi körül."],
+      ro: ["Unul dintre cele mai lini�?tite locuri din Islanda.", "Ofer�? o privire asupra vie�?ii tradi�?ionale de coast�?.", "�?nconjurat de o natur�? neatins�?."],
       en: ["One of the quietest spots in Iceland.", "Offers a glimpse into traditional coastal life.", "Surrounded by untouched nature."]
     }
   },
@@ -1149,18 +1149,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-19.51, 63.52],
-    name: { de: "SkÃ³gar", hu: "SkÃ³gar", ro: "SkÃ³gar", en: "SkÃ³gar" },
+    name: { de: "Skógar", hu: "Skógar", ro: "Skógar", en: "Skógar" },
     description: {
-      de: "Ein kleiner Ort bekannt fÃ¼r seinen gewaltigen Wasserfall und sein Museum.",
-      hu: "Kis telepÃ¼lÃ©s, amely hatalmas vÃ­zesÃ©sÃ©rÅ‘l Ã©s mÃºzeumÃ¡rÃ³l ismert.",
-      ro: "O micÄƒ aÈ™ezare cunoscutÄƒ pentru cascada sa masivÄƒ È™i muzeul sÄƒu.",
+      de: "Ein kleiner Ort bekannt für seinen gewaltigen Wasserfall und sein Museum.",
+      hu: "Kis település, amely hatalmas vízesésér�?l és múzeumáról ismert.",
+      ro: "O mic�? a�?ezare cunoscut�? pentru cascada sa masiv�? �?i muzeul s�?u.",
       en: "A small settlement famous for its massive waterfall and folk museum."
     },
     facts: {
-      de: ["Standort des berÃ¼hmten SkÃ³gafoss Wasserfalls.", "Beherbergt ein exzellentes Freilichtmuseum.", "Ausgangspunkt fÃ¼r Wanderungen Ã¼ber den FimmvÃ¶rÃ°uhÃ¡ls."],
-      hu: ["Itt talÃ¡lhatÃ³ a hÃ­res SkÃ³gafoss vÃ­zesÃ©s.", "KivÃ¡lÃ³ skanzennel rendelkezik.", "A FimmvÃ¶rÃ°uhÃ¡ls tÃºraÃºtvonal kiindulÃ³pontja."],
-      ro: ["Locul faimoasei cascade SkÃ³gafoss.", "GÄƒzduieÈ™te un muzeu Ã®n aer liber excelent.", "Punct de plecare pentru drumeÈ›ia FimmvÃ¶rÃ°uhÃ¡ls."],
-      en: ["Home to the famous SkÃ³gafoss waterfall.", "Features an excellent open-air folk museum.", "Starting point for the FimmvÃ¶rÃ°uhÃ¡ls hike."]
+      de: ["Standort des berühmten Skógafoss Wasserfalls.", "Beherbergt ein exzellentes Freilichtmuseum.", "Ausgangspunkt für Wanderungen über den Fimmvörðuháls."],
+      hu: ["Itt található a híres Skógafoss vízesés.", "Kiváló skanzennel rendelkezik.", "A Fimmvörðuháls túraútvonal kiindulópontja."],
+      ro: ["Locul faimoasei cascade Skógafoss.", "G�?zduie�?te un muzeu în aer liber excelent.", "Punct de plecare pentru drume�?ia Fimmvörðuháls."],
+      en: ["Home to the famous Skógafoss waterfall.", "Features an excellent open-air folk museum.", "Starting point for the Fimmvörðuháls hike."]
     }
   },
   {
@@ -1170,15 +1170,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.5, 63.93],
     name: { de: "Brautarholt", hu: "Brautarholt", ro: "Brautarholt", en: "Brautarholt" },
     description: {
-      de: "Eine kleine lÃ¤ndliche Gemeinde im SÃ¼den Islands.",
-      hu: "Kis vidÃ©ki telepÃ¼lÃ©s Izland dÃ©li rÃ©szÃ©n.",
-      ro: "O micÄƒ comunitate ruralÄƒ din sudul Islandei.",
+      de: "Eine kleine ländliche Gemeinde im Süden Islands.",
+      hu: "Kis vidéki település Izland déli részén.",
+      ro: "O mic�? comunitate rural�? din sudul Islandei.",
       en: "A small rural community in southern Iceland."
     },
     facts: {
-      de: ["Ein Zentrum fÃ¼r lokale Landwirtschaft.", "Bietet eine ruhige lÃ¤ndliche AtmosphÃ¤re.", "Inmitten fruchtbarer Ebenen gelegen."],
-      hu: ["A helyi mezÅ‘gazdasÃ¡g kÃ¶zpontja.", "Nyugodt vidÃ©ki lÃ©gkÃ¶rt kÃ­nÃ¡l.", "TermÃ©keny sÃ­ksÃ¡gok szÃ­vÃ©ben fekszik."],
-      ro: ["Un centru pentru agricultura localÄƒ.", "OferÄƒ o atmosferÄƒ ruralÄƒ liniÈ™titÄƒ.", "Situat Ã®n inima unor cÃ¢mpii fertile."],
+      de: ["Ein Zentrum für lokale Landwirtschaft.", "Bietet eine ruhige ländliche Atmosphäre.", "Inmitten fruchtbarer Ebenen gelegen."],
+      hu: ["A helyi mez�?gazdaság központja.", "Nyugodt vidéki légkört kínál.", "Termékeny síkságok szívében fekszik."],
+      ro: ["Un centru pentru agricultura local�?.", "Ofer�? o atmosfer�? rural�? lini�?tit�?.", "Situat în inima unor câmpii fertile."],
       en: ["A hub for local agriculture.", "Offers a peaceful rural atmosphere.", "Situated in the heart of fertile plains."]
     }
   },
@@ -1187,18 +1187,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-19.8, 64.1],
-    name: { de: "ÃžjÃ³rsÃ¡rdalur", hu: "ÃžjÃ³rsÃ¡rdalur", ro: "ÃžjÃ³rsÃ¡rdalur", en: "ÃžjÃ³rsÃ¡rdalur" },
+    name: { de: "�?jórsárdalur", hu: "�?jórsárdalur", ro: "�?jórsárdalur", en: "�?jórsárdalur" },
     description: {
-      de: "Ein geschichtstrÃ¤chtiges Tal bekannt fÃ¼r seine WasserfÃ¤lle und Ruinen.",
-      hu: "TÃ¶rtÃ©nelmi vÃ¶lgy, amely vÃ­zesÃ©seirÅ‘l Ã©s romjairÃ³l ismert.",
-      ro: "O vale bogatÄƒ Ã®n istorie, cunoscutÄƒ pentru cascadele È™i ruinele sale.",
+      de: "Ein geschichtsträchtiges Tal bekannt für seine Wasserfälle und Ruinen.",
+      hu: "Történelmi völgy, amely vízeséseir�?l és romjairól ismert.",
+      ro: "O vale bogat�? în istorie, cunoscut�? pentru cascadele �?i ruinele sale.",
       en: "A valley rich in history, known for its waterfalls and archaeological ruins."
     },
     facts: {
-      de: ["Heimat der rekonstruierten Wikingerfarm StÃ¶ng.", "Beherbergt den wunderschÃ¶nen Wasserfall HjÃ¡lparfoss.", "Bietet eine dramatische Vulkanlandschaft."],
-      hu: ["Itt talÃ¡lhatÃ³ StÃ¶ng, a rekonstruÃ¡lt viking farm.", "Itt van a gyÃ¶nyÃ¶rÅ± HjÃ¡lparfoss vÃ­zesÃ©s.", "DrÃ¡mai vulkÃ¡ni tÃ¡jat kÃ­nÃ¡l."],
-      ro: ["GÄƒzduieÈ™te ferma vikingÄƒ reconstruitÄƒ StÃ¶ng.", "AdÄƒposteÈ™te frumoasa cascadÄƒ HjÃ¡lparfoss.", "OferÄƒ un peisaj vulcanic dramatic."],
-      en: ["Home to the reconstructed Viking farm StÃ¶ng.", "Features the beautiful HjÃ¡lparfoss waterfall.", "Offers a dramatic volcanic landscape."]
+      de: ["Heimat der rekonstruierten Wikingerfarm Stöng.", "Beherbergt den wunderschönen Wasserfall Hjálparfoss.", "Bietet eine dramatische Vulkanlandschaft."],
+      hu: ["Itt található Stöng, a rekonstruált viking farm.", "Itt van a gyönyörű Hjálparfoss vízesés.", "Drámai vulkáni tájat kínál."],
+      ro: ["G�?zduie�?te ferma viking�? reconstruit�? Stöng.", "Ad�?poste�?te frumoasa cascad�? Hjálparfoss.", "Ofer�? un peisaj vulcanic dramatic."],
+      en: ["Home to the reconstructed Viking farm Stöng.", "Features the beautiful Hjálparfoss waterfall.", "Offers a dramatic volcanic landscape."]
     }
   },
   {
@@ -1208,15 +1208,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.45, 64.18],
     name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt" },
     description: {
-      de: "Ein geothermisch aktiver Ort im SÃ¼den, nicht zu verwechseln mit dem Reykholt im Westen.",
-      hu: "Geotermikusan aktÃ­v telepÃ¼lÃ©s dÃ©len, nem Ã¶sszetÃ©vesztendÅ‘ a nyugati Reykholttal.",
-      ro: "O aÈ™ezare activÄƒ geotermal Ã®n sud, a nu se confunda cu Reykholt din vest.",
+      de: "Ein geothermisch aktiver Ort im Süden, nicht zu verwechseln mit dem Reykholt im Westen.",
+      hu: "Geotermikusan aktív település délen, nem összetévesztend�? a nyugati Reykholttal.",
+      ro: "O a�?ezare activ�? geotermal în sud, a nu se confunda cu Reykholt din vest.",
       en: "A geothermally active village in the south, not to be confused with Reykholt in the west."
     },
     facts: {
-      de: ["VerfÃ¼gt Ã¼ber viele GewÃ¤chshÃ¤user.", "Ein wichtiger lokaler Dienstleistungsort.", "Bietet geothermische BÃ¤der."],
-      hu: ["SzÃ¡mos meleghÃ¡zzal rendelkezik.", "Fontos helyi szolgÃ¡ltatÃ³ kÃ¶zpont.", "Geotermikus fÃ¼rdÅ‘ket kÃ­nÃ¡l."],
-      ro: ["Dispune de numeroase sere.", "Un punct important de servicii locale.", "OferÄƒ bÄƒi geotermale."],
+      de: ["Verfügt über viele Gewächshäuser.", "Ein wichtiger lokaler Dienstleistungsort.", "Bietet geothermische Bäder."],
+      hu: ["Számos melegházzal rendelkezik.", "Fontos helyi szolgáltató központ.", "Geotermikus fürd�?ket kínál."],
+      ro: ["Dispune de numeroase sere.", "Un punct important de servicii locale.", "Ofer�? b�?i geotermale."],
       en: ["Features numerous greenhouses.", "An important local service hub.", "Offers geothermal bathing options."]
     }
   },
@@ -1227,16 +1227,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-22.68, 63.93],
     name: { de: "Hafnir", hu: "Hafnir", ro: "Hafnir", en: "Hafnir" },
     description: {
-      de: "Ein historisches Fischerdorf an der WestkÃ¼ste von Reykjanes.",
-      hu: "TÃ¶rtÃ©nelmi halÃ¡szfalu a Reykjanes-fÃ©lsziget nyugati partjÃ¡n.",
+      de: "Ein historisches Fischerdorf an der Westküste von Reykjanes.",
+      hu: "Történelmi halászfalu a Reykjanes-félsziget nyugati partján.",
       ro: "Un sat istoric de pescari pe coasta de vest a peninsulei Reykjanes.",
       en: "A historic fishing village on the western coast of the Reykjanes Peninsula."
     },
     facts: {
-      de: ["Beherbergt die Ruinen einer der Ã¤ltesten HÃ¼tten Islands.", "Ein ruhiger Ort mit Blick auf den Ozean.", "Teil der Gemeinde ReykjanesbÃ¦r."],
-      hu: ["Itt talÃ¡lhatÃ³k Izland egyik legrÃ©gebbi kunyhÃ³jÃ¡nak romjai.", "Csendes hely, kilÃ¡tÃ¡ssal az Ã³ceÃ¡nra.", "ReykjanesbÃ¦r kÃ¶zsÃ©g rÃ©sze."],
-      ro: ["GÄƒzduieÈ™te ruinele uneia dintre cele mai vechi colibe din Islanda.", "Un loc liniÈ™tit cu vedere la ocean.", "Parte a municipalitÄƒÈ›ii ReykjanesbÃ¦r."],
-      en: ["Home to the ruins of one of Iceland's oldest huts.", "A peaceful spot with ocean views.", "Part of the ReykjanesbÃ¦r municipality."]
+      de: ["Beherbergt die Ruinen einer der ältesten Hütten Islands.", "Ein ruhiger Ort mit Blick auf den Ozean.", "Teil der Gemeinde Reykjanesbær."],
+      hu: ["Itt találhatók Izland egyik legrégebbi kunyhójának romjai.", "Csendes hely, kilátással az óceánra.", "Reykjanesbær község része."],
+      ro: ["G�?zduie�?te ruinele uneia dintre cele mai vechi colibe din Islanda.", "Un loc lini�?tit cu vedere la ocean.", "Parte a municipalit�?�?ii Reykjanesbær."],
+      en: ["Home to the ruins of one of Iceland's oldest huts.", "A peaceful spot with ocean views.", "Part of the Reykjanesbær municipality."]
     }
   },
   {
@@ -1244,17 +1244,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-003",
     coords: [-22.58, 63.95],
-    name: { de: "ÃsbrÃº", hu: "ÃsbrÃº", ro: "ÃsbrÃº", en: "ÃsbrÃº" },
+    name: { de: "Ásbrú", hu: "Ásbrú", ro: "Ásbrú", en: "Ásbrú" },
     description: {
-      de: "Ein ehemaliger MilitÃ¤rstÃ¼tzpunkt, der heute als Innovationszentrum dient.",
-      hu: "Egykori katonai bÃ¡zis, amely ma innovÃ¡ciÃ³s kÃ¶zpontkÃ©nt mÅ±kÃ¶dik.",
-      ro: "O fostÄƒ bazÄƒ militarÄƒ care acum serveÈ™te drept centru de inovare.",
+      de: "Ein ehemaliger Militärstützpunkt, der heute als Innovationszentrum dient.",
+      hu: "Egykori katonai bázis, amely ma innovációs központként működik.",
+      ro: "O fost�? baz�? militar�? care acum serve�?te drept centru de inovare.",
       en: "A former military base that now serves as a hub for innovation and education."
     },
     facts: {
-      de: ["FrÃ¼her Teil der Naval Air Station Keflavik.", "Beherbergt Wohnungen, Schulen und Unternehmen.", "Ein Symbol fÃ¼r den Wandel der Region."],
-      hu: ["KorÃ¡bban a keflavÃ­ki tengerÃ©szeti repÃ¼lÅ‘bÃ¡zis rÃ©sze volt.", "LakÃ¡soknak, iskolÃ¡knak Ã©s vÃ¡llalkozÃ¡soknak ad otthont.", "A rÃ©giÃ³ Ã¡talakulÃ¡sÃ¡nak szimbÃ³luma."],
-      ro: ["FostÄƒ parte a bazei aeriene navale Keflavik.", "GÄƒzduieÈ™te locuinÈ›e, È™coli È™i companii.", "Un simbol al transformÄƒrii regiunii."],
+      de: ["Früher Teil der Naval Air Station Keflavik.", "Beherbergt Wohnungen, Schulen und Unternehmen.", "Ein Symbol für den Wandel der Region."],
+      hu: ["Korábban a keflavíki tengerészeti repül�?bázis része volt.", "Lakásoknak, iskoláknak és vállalkozásoknak ad otthont.", "A régió átalakulásának szimbóluma."],
+      ro: ["Fost�? parte a bazei aeriene navale Keflavik.", "G�?zduie�?te locuin�?e, �?coli �?i companii.", "Un simbol al transform�?rii regiunii."],
       en: ["Formerly part of the Naval Air Station Keflavik.", "Home to housing, schools, and businesses.", "A symbol of the region's transformation."]
     }
   },
@@ -1263,18 +1263,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-005",
     coords: [-22.01, 64.1],
-    name: { de: "Ãlftanes", hu: "Ãlftanes", ro: "Ãlftanes", en: "Ãlftanes" },
+    name: { de: "Álftanes", hu: "Álftanes", ro: "Álftanes", en: "Álftanes" },
     description: {
-      de: "Ein Vorort von ReykjavÃ­k bekannt fÃ¼r den Sitz des PrÃ¤sidenten.",
-      hu: "ReykjavÃ­k elÅ‘vÃ¡rosa, amely az elnÃ¶ki szÃ©khelyrÅ‘l ismert.",
-      ro: "O suburbie a oraÈ™ului ReykjavÃ­k cunoscutÄƒ pentru reÈ™edinÈ›a preÈ™edintelui.",
-      en: "A suburb of ReykjavÃ­k famous for being the site of the presidential residence."
+      de: "Ein Vorort von Reykjavík bekannt für den Sitz des Präsidenten.",
+      hu: "Reykjavík el�?városa, amely az elnöki székhelyr�?l ismert.",
+      ro: "O suburbie a ora�?ului Reykjavík cunoscut�? pentru re�?edin�?a pre�?edintelui.",
+      en: "A suburb of Reykjavík famous for being the site of the presidential residence."
     },
     facts: {
-      de: ["Heimat von BessastaÃ°ir.", "Bietet schÃ¶ne KÃ¼stenwege.", "Ein ruhiges Wohngebiet."],
-      hu: ["Itt talÃ¡lhatÃ³ BessastaÃ°ir.", "SzÃ©p tengerparti sÃ©tÃ¡nyai vannak.", "Csendes lakÃ³Ã¶vezet."],
-      ro: ["GÄƒzduieÈ™te BessastaÃ°ir.", "OferÄƒ poteci de coastÄƒ frumoase.", "O zonÄƒ rezidenÈ›ialÄƒ liniÈ™titÄƒ."],
-      en: ["Home to BessastaÃ°ir.", "Features beautiful coastal paths.", "A quiet residential area."]
+      de: ["Heimat von Bessastaðir.", "Bietet schöne Küstenwege.", "Ein ruhiges Wohngebiet."],
+      hu: ["Itt található Bessastaðir.", "Szép tengerparti sétányai vannak.", "Csendes lakóövezet."],
+      ro: ["G�?zduie�?te Bessastaðir.", "Ofer�? poteci de coast�? frumoase.", "O zon�? reziden�?ial�? lini�?tit�?."],
+      en: ["Home to Bessastaðir.", "Features beautiful coastal paths.", "A quiet residential area."]
     }
   },
   {
@@ -1284,16 +1284,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.6, 64.18],
     name: { de: "Mosfellsdalur", hu: "Mosfellsdalur", ro: "Mosfellsdalur", en: "Mosfellsdalur" },
     description: {
-      de: "Ein malerisches Tal in der NÃ¤he von MosfellsbÃ¦r.",
-      hu: "FestÅ‘i vÃ¶lgy MosfellsbÃ¦r kÃ¶zelÃ©ben.",
-      ro: "O vale pitoreascÄƒ lÃ¢ngÄƒ MosfellsbÃ¦r.",
-      en: "A scenic valley located near MosfellsbÃ¦r."
+      de: "Ein malerisches Tal in der Nähe von Mosfellsbær.",
+      hu: "Fest�?i völgy Mosfellsbær közelében.",
+      ro: "O vale pitoreasc�? lâng�? Mosfellsbær.",
+      en: "A scenic valley located near Mosfellsbær."
     },
     facts: {
-      de: ["Ort der Inspiration fÃ¼r HalldÃ³r Laxness.", "Beliebt zum Wandern und Reiten.", "Bietet eine lÃ¤ndliche AtmosphÃ¤re nahe der Stadt."],
-      hu: ["InspirÃ¡ciÃ³s forrÃ¡s volt HalldÃ³r Laxness szÃ¡mÃ¡ra.", "NÃ©pszerÅ± tÃºrÃ¡zÃ³- Ã©s lovaglÃ³hely.", "VidÃ©ki hangulatot kÃ­nÃ¡l a vÃ¡ros kÃ¶zelÃ©ben."],
-      ro: ["SursÄƒ de inspiraÈ›ie pentru HalldÃ³r Laxness.", "Popular pentru drumeÈ›ii È™i cÄƒlÄƒrie.", "OferÄƒ o atmosferÄƒ ruralÄƒ aproape de oraÈ™."],
-      en: ["Source of inspiration for HalldÃ³r Laxness.", "Popular for hiking and horseback riding.", "Offers a rural feel close to the city."]
+      de: ["Ort der Inspiration für Halldór Laxness.", "Beliebt zum Wandern und Reiten.", "Bietet eine ländliche Atmosphäre nahe der Stadt."],
+      hu: ["Inspirációs forrás volt Halldór Laxness számára.", "Népszerű túrázó- és lovaglóhely.", "Vidéki hangulatot kínál a város közelében."],
+      ro: ["Surs�? de inspira�?ie pentru Halldór Laxness.", "Popular pentru drume�?ii �?i c�?l�?rie.", "Ofer�? o atmosfer�? rural�? aproape de ora�?."],
+      en: ["Source of inspiration for Halldór Laxness.", "Popular for hiking and horseback riding.", "Offers a rural feel close to the city."]
     }
   },
   {
@@ -1303,16 +1303,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.8, 64.22],
     name: { de: "Kjalarnes", hu: "Kjalarnes", ro: "Kjalarnes", en: "Kjalarnes" },
     description: {
-      de: "Der nÃ¶rdlichste Teil der Gemeinde ReykjavÃ­k am FuÃŸe des Esja.",
-      hu: "ReykjavÃ­k kÃ¶zsÃ©g legÃ©szakibb rÃ©sze az Esja-hegy lÃ¡bÃ¡nÃ¡l.",
-      ro: "Cea mai nordicÄƒ parte a municipalitÄƒÈ›ii ReykjavÃ­k, la poalele muntelui Esja.",
-      en: "The northernmost part of the ReykjavÃ­k municipality, located at the base of Mount Esja."
+      de: "Der nördlichste Teil der Gemeinde Reykjavík am Fu�?e des Esja.",
+      hu: "Reykjavík község legészakibb része az Esja-hegy lábánál.",
+      ro: "Cea mai nordic�? parte a municipalit�?�?ii Reykjavík, la poalele muntelui Esja.",
+      en: "The northernmost part of the Reykjavík municipality, located at the base of Mount Esja."
     },
     facts: {
-      de: ["Ein idealer Ausgangspunkt fÃ¼r die Besteigung des Esja.", "Bietet einen weiten Blick auf den FaxaflÃ³i.", "Eine lÃ¤ndlich geprÃ¤gte Gegend."],
-      hu: ["IdeÃ¡lis kiindulÃ³pont az Esja megmÃ¡szÃ¡sÃ¡hoz.", "SzÃ©les kilÃ¡tÃ¡st nyÃºjt a FaxaflÃ³i-Ã¶bÃ¶lre.", "VidÃ©ki jellegÅ± terÃ¼let."],
-      ro: ["Punct de plecare ideal pentru escaladarea muntelui Esja.", "OferÄƒ o vedere largÄƒ spre FaxaflÃ³i.", "O zonÄƒ cu caracter rural."],
-      en: ["Ideal starting point for climbing Mount Esja.", "Offers expansive views of FaxaflÃ³i Bay.", "A rural district within the capital region."]
+      de: ["Ein idealer Ausgangspunkt für die Besteigung des Esja.", "Bietet einen weiten Blick auf den Faxaflói.", "Eine ländlich geprägte Gegend."],
+      hu: ["Ideális kiindulópont az Esja megmászásához.", "Széles kilátást nyújt a Faxaflói-öbölre.", "Vidéki jellegű terület."],
+      ro: ["Punct de plecare ideal pentru escaladarea muntelui Esja.", "Ofer�? o vedere larg�? spre Faxaflói.", "O zon�? cu caracter rural."],
+      en: ["Ideal starting point for climbing Mount Esja.", "Offers expansive views of Faxaflói Bay.", "A rural district within the capital region."]
     }
   },
   {
@@ -1322,16 +1322,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-23.88, 64.91],
     name: { de: "Hellissandur", hu: "Hellissandur", ro: "Hellissandur", en: "Hellissandur" },
     description: {
-      de: "Ein historisches Fischerdorf an der Spitze der Halbinsel SnÃ¦fellsnes.",
-      hu: "TÃ¶rtÃ©nelmi halÃ¡szfalu a SnÃ¦fellsnes-fÃ©lsziget csÃºcsÃ¡n.",
-      ro: "Un sat istoric de pescari Ã®n vÃ¢rful peninsulei SnÃ¦fellsnes.",
-      en: "A historic fishing village at the tip of the SnÃ¦fellsnes Peninsula."
+      de: "Ein historisches Fischerdorf an der Spitze der Halbinsel Snæfellsnes.",
+      hu: "Történelmi halászfalu a Snæfellsnes-félsziget csúcsán.",
+      ro: "Un sat istoric de pescari în vârful peninsulei Snæfellsnes.",
+      en: "A historic fishing village at the tip of the Snæfellsnes Peninsula."
     },
     facts: {
-      de: ["Beherbergt ein Seefahrtsmuseum.", "In der NÃ¤he steht der hÃ¶chste Sendemast Westeuropas.", "Direkt am SnÃ¦fellsjÃ¶kull Nationalpark."],
-      hu: ["TengerÃ©szeti mÃºzeumnak ad otthont.", "A kÃ¶zelben talÃ¡lhatÃ³ Nyugat-EurÃ³pa legmagasabb adÃ³tornya.", "KÃ¶zvetlenÃ¼l a SnÃ¦fellsjÃ¶kull Nemzeti Park mellett fekszik."],
-      ro: ["GÄƒzduieÈ™te un muzeu maritim.", "ÃŽn apropiere se aflÄƒ cel mai Ã®nalt turn radio din Europa de Vest.", "Chiar lÃ¢ngÄƒ Parcul NaÈ›ional SnÃ¦fellsjÃ¶kull."],
-      en: ["Home to a maritime museum.", "Nearby stands the tallest radio mast in Western Europe.", "Located right by SnÃ¦fellsjÃ¶kull National Park."]
+      de: ["Beherbergt ein Seefahrtsmuseum.", "In der Nähe steht der höchste Sendemast Westeuropas.", "Direkt am Snæfellsjökull Nationalpark."],
+      hu: ["Tengerészeti múzeumnak ad otthont.", "A közelben található Nyugat-Európa legmagasabb adótornya.", "Közvetlenül a Snæfellsjökull Nemzeti Park mellett fekszik."],
+      ro: ["G�?zduie�?te un muzeu maritim.", "�?n apropiere se afl�? cel mai înalt turn radio din Europa de Vest.", "Chiar lâng�? Parcul Na�?ional Snæfellsjökull."],
+      en: ["Home to a maritime museum.", "Nearby stands the tallest radio mast in Western Europe.", "Located right by Snæfellsjökull National Park."]
     }
   },
   {
@@ -1341,15 +1341,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-23.82, 64.92],
     name: { de: "Rif", hu: "Rif", ro: "Rif", en: "Rif" },
     description: {
-      de: "Ein kleiner Fischerort zwischen Hellissandur und Ã“lafsvÃ­k.",
-      hu: "Kis halÃ¡sztelepÃ¼lÃ©s Hellissandur Ã©s Ã“lafsvÃ­k kÃ¶zÃ¶tt.",
-      ro: "Un mic sat de pescari Ã®ntre Hellissandur È™i Ã“lafsvÃ­k.",
-      en: "A small fishing settlement located between Hellissandur and Ã“lafsvÃ­k."
+      de: "Ein kleiner Fischerort zwischen Hellissandur und �?lafsvík.",
+      hu: "Kis halásztelepülés Hellissandur és �?lafsvík között.",
+      ro: "Un mic sat de pescari între Hellissandur �?i �?lafsvík.",
+      en: "A small fishing settlement located between Hellissandur and �?lafsvík."
     },
     facts: {
-      de: ["Einst einer der wichtigsten HÃ¤fen der Region.", "Bekannt fÃ¼r seine groÃŸen Seeschwalben-Kolonien.", "Ein ruhiger Ort mit maritimem Flair."],
-      hu: ["Egykor a rÃ©giÃ³ egyik legfontosabb kikÃ¶tÅ‘je volt.", "Hatalmas csÃ©r-kolÃ³niÃ¡irÃ³l ismert.", "Csendes hely tengerparti hangulattal."],
-      ro: ["A fost odinioarÄƒ unul dintre cele mai importante porturi din regiune.", "Cunoscut pentru marile sale colonii de rÃ¢ndunele de mare.", "Un loc liniÈ™tit cu atmosferÄƒ maritimÄƒ."],
+      de: ["Einst einer der wichtigsten Häfen der Region.", "Bekannt für seine gro�?en Seeschwalben-Kolonien.", "Ein ruhiger Ort mit maritimem Flair."],
+      hu: ["Egykor a régió egyik legfontosabb kiköt�?je volt.", "Hatalmas csér-kolóniáiról ismert.", "Csendes hely tengerparti hangulattal."],
+      ro: ["A fost odinioar�? unul dintre cele mai importante porturi din regiune.", "Cunoscut pentru marile sale colonii de rândunele de mare.", "Un loc lini�?tit cu atmosfer�? maritim�?."],
       en: ["Once one of the region's most important ports.", "Known for its large Arctic tern colonies.", "A peaceful spot with a maritime feel."]
     }
   },
@@ -1358,18 +1358,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-006",
     coords: [-21.55, 64.76],
-    name: { de: "BifrÃ¶st", hu: "BifrÃ¶st", ro: "BifrÃ¶st", en: "BifrÃ¶st" },
+    name: { de: "Bifröst", hu: "Bifröst", ro: "Bifröst", en: "Bifröst" },
     description: {
-      de: "Ein Campus-Dorf im Westen Islands, Sitz der UniversitÃ¤t BifrÃ¶st.",
-      hu: "Egyetemi telepÃ¼lÃ©s Nyugat-Izlandon, a BifrÃ¶st Egyetem szÃ©khelye.",
-      ro: "Un sat-campus Ã®n vestul Islandei, sediul UniversitÄƒÈ›ii BifrÃ¶st.",
-      en: "A university village in West Iceland, home to BifrÃ¶st University."
+      de: "Ein Campus-Dorf im Westen Islands, Sitz der Universität Bifröst.",
+      hu: "Egyetemi település Nyugat-Izlandon, a Bifröst Egyetem székhelye.",
+      ro: "Un sat-campus în vestul Islandei, sediul Universit�?�?ii Bifröst.",
+      en: "A university village in West Iceland, home to Bifröst University."
     },
     facts: {
-      de: ["Inmitten eines Lavafeldes gelegen.", "Bietet tolle Wanderwege wie zum Krater GrÃ¡brÃ³k.", "Ein modernes Bildungszentrum."],
-      hu: ["Egy lÃ¡vamezÅ‘ kÃ¶zepÃ©n fekszik.", "NagyszerÅ± tÃºraÃºtvonalakat kÃ­nÃ¡l, pÃ©ldÃ¡ul a GrÃ¡brÃ³k-krÃ¡terhez.", "Modern oktatÃ¡si kÃ¶zpont."],
-      ro: ["Situat Ã®n mijlocul unui cÃ¢mp de lavÄƒ.", "OferÄƒ trasee de drumeÈ›ie grozave, precum cel cÄƒtre craterul GrÃ¡brÃ³k.", "Un centru educaÈ›ional modern."],
-      en: ["Situated in the middle of a lava field.", "Offers great hiking trails like the one to GrÃ¡brÃ³k crater.", "A modern educational hub."]
+      de: ["Inmitten eines Lavafeldes gelegen.", "Bietet tolle Wanderwege wie zum Krater Grábrók.", "Ein modernes Bildungszentrum."],
+      hu: ["Egy lávamez�? közepén fekszik.", "Nagyszerű túraútvonalakat kínál, például a Grábrók-kráterhez.", "Modern oktatási központ."],
+      ro: ["Situat în mijlocul unui câmp de lav�?.", "Ofer�? trasee de drume�?ie grozave, precum cel c�?tre craterul Grábrók.", "Un centru educa�?ional modern."],
+      en: ["Situated in the middle of a lava field.", "Offers great hiking trails like the one to Grábrók crater.", "A modern educational hub."]
     }
   },
   {
@@ -1379,15 +1379,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.76, 64.56],
     name: { de: "Hvanneyri", hu: "Hvanneyri", ro: "Hvanneyri", en: "Hvanneyri" },
     description: {
-      de: "Ein historisches Bildungszentrum fÃ¼r Landwirtschaft.",
-      hu: "TÃ¶rtÃ©nelmi mezÅ‘gazdasÃ¡gi oktatÃ¡si kÃ¶zpont.",
-      ro: "Un centru istoric de educaÈ›ie agricolÄƒ.",
+      de: "Ein historisches Bildungszentrum für Landwirtschaft.",
+      hu: "Történelmi mez�?gazdasági oktatási központ.",
+      ro: "Un centru istoric de educa�?ie agricol�?.",
       en: "A historic center for agricultural education and research."
     },
     facts: {
-      de: ["Sitz der IslÃ¤ndischen Landwirtschaftlichen UniversitÃ¤t.", "Beherbergt ein interessantes Agrarmuseum.", "Ein wichtiger Ort fÃ¼r die Erhaltung der islÃ¤ndischen Schafzucht."],
-      hu: ["Az Izlandi MezÅ‘gazdasÃ¡gi Egyetem szÃ©khelye.", "Ã‰rdekes mezÅ‘gazdasÃ¡gi mÃºzeumnak ad otthont.", "Fontos hely az izlandi juhtenyÃ©sztÃ©s megÅ‘rzÃ©sÃ©ben."],
-      ro: ["Sediul UniversitÄƒÈ›ii Agricole din Islanda.", "GÄƒzduieÈ™te un muzeu agricol interesant.", "Un loc important pentru conservarea creÈ™terii oilor islandeze."],
+      de: ["Sitz der Isländischen Landwirtschaftlichen Universität.", "Beherbergt ein interessantes Agrarmuseum.", "Ein wichtiger Ort für die Erhaltung der isländischen Schafzucht."],
+      hu: ["Az Izlandi Mez�?gazdasági Egyetem székhelye.", "�?rdekes mez�?gazdasági múzeumnak ad otthont.", "Fontos hely az izlandi juhtenyésztés meg�?rzésében."],
+      ro: ["Sediul Universit�?�?ii Agricole din Islanda.", "G�?zduie�?te un muzeu agricol interesant.", "Un loc important pentru conservarea cre�?terii oilor islandeze."],
       en: ["Home to the Agricultural University of Iceland.", "Features an interesting agricultural museum.", "A significant site for the preservation of Icelandic sheep farming."]
     }
   },
@@ -1399,14 +1399,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt" },
     description: {
       de: "Einer der bedeutendsten historischen Orte Islands, Heimat von Snorri Sturluson.",
-      hu: "Izland egyik legjelentÅ‘sebb tÃ¶rtÃ©nelmi helyszÃ­ne, Snorri Sturluson otthona.",
+      hu: "Izland egyik legjelent�?sebb történelmi helyszíne, Snorri Sturluson otthona.",
       ro: "Unul dintre cele mai importante locuri istorice din Islanda, casa lui Snorri Sturluson.",
       en: "One of Iceland's most significant historical sites, former home of Snorri Sturluson."
     },
     facts: {
-      de: ["Heimat des Snorrastofa Forschungszentrums.", "Beherbergt das Ã¤lteste erhaltene Badebecken Islands, Snorralaug.", "Ein Muss fÃ¼r Geschichtsinteressierte."],
-      hu: ["Itt talÃ¡lhatÃ³ a Snorrastofa kutatÃ³kÃ¶zpont.", "Itt van Izland legrÃ©gebbi fennmaradt medencÃ©je, a Snorralaug.", "A tÃ¶rtÃ©nelem irÃ¡nt Ã©rdeklÅ‘dÅ‘knek kÃ¶telezÅ‘ lÃ¡tnivalÃ³."],
-      ro: ["GÄƒzduieÈ™te centrul de cercetare Snorrastofa.", "Are cea mai veche piscinÄƒ conservatÄƒ din Islanda, Snorralaug.", "O vizitÄƒ obligatorie pentru pasionaÈ›ii de istorie."],
+      de: ["Heimat des Snorrastofa Forschungszentrums.", "Beherbergt das älteste erhaltene Badebecken Islands, Snorralaug.", "Ein Muss für Geschichtsinteressierte."],
+      hu: ["Itt található a Snorrastofa kutatóközpont.", "Itt van Izland legrégebbi fennmaradt medencéje, a Snorralaug.", "A történelem iránt érdekl�?d�?knek kötelez�? látnivaló."],
+      ro: ["G�?zduie�?te centrul de cercetare Snorrastofa.", "Are cea mai veche piscin�? conservat�? din Islanda, Snorralaug.", "O vizit�? obligatorie pentru pasiona�?ii de istorie."],
       en: ["Home to the Snorrastofa research center.", "Features Iceland's oldest preserved hot pool, Snorralaug.", "A must-visit for history enthusiasts."]
     }
   },
@@ -1417,35 +1417,35 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-23.65, 64.75],
     name: { de: "Hellnar", hu: "Hellnar", ro: "Hellnar", en: "Hellnar" },
     description: {
-      de: "Ein ehemaliger Fischerort an der KÃ¼ste von SnÃ¦fellsnes.",
-      hu: "Egykori halÃ¡sztelepÃ¼lÃ©s a SnÃ¦fellsnes-fÃ©lsziget partjÃ¡n.",
-      ro: "O fostÄƒ aÈ™ezare de pescari pe coasta peninsulei SnÃ¦fellsnes.",
-      en: "A former fishing village situated on the coast of the SnÃ¦fellsnes Peninsula."
+      de: "Ein ehemaliger Fischerort an der Küste von Snæfellsnes.",
+      hu: "Egykori halásztelepülés a Snæfellsnes-félsziget partján.",
+      ro: "O fost�? a�?ezare de pescari pe coasta peninsulei Snæfellsnes.",
+      en: "A former fishing village situated on the coast of the Snæfellsnes Peninsula."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine dramatischen Felsformationen.", "Ein beliebter Ort fÃ¼r KÃ¼stenwanderungen.", "Hat ein gemÃ¼tliches CafÃ© am Meer."],
-      hu: ["DrÃ¡mai sziklaformÃ¡ciÃ³irÃ³l ismert.", "NÃ©pszerÅ± hely a tengerparti tÃºrÃ¡khoz.", "Hangulatos kÃ¡vÃ©zÃ³ja van a tengerparton."],
-      ro: ["Cunoscut pentru formaÈ›iunile sale stÃ¢ncoase dramatice.", "Un loc popular pentru drumeÈ›ii pe coastÄƒ.", "Are o cafenea primitoare pe malul mÄƒrii."],
+      de: ["Bekannt für seine dramatischen Felsformationen.", "Ein beliebter Ort für Küstenwanderungen.", "Hat ein gemütliches Café am Meer."],
+      hu: ["Drámai sziklaformációiról ismert.", "Népszerű hely a tengerparti túrákhoz.", "Hangulatos kávézója van a tengerparton."],
+      ro: ["Cunoscut pentru forma�?iunile sale stâncoase dramatice.", "Un loc popular pentru drume�?ii pe coast�?.", "Are o cafenea primitoare pe malul m�?rii."],
       en: ["Famous for its dramatic rock formations.", "A popular spot for coastal hikes.", "Features a cozy seaside cafe."]
     }
   },
   {
-    id: "city-hnÃ­fsdalur-extra",
+    id: "city-hnífsdalur-extra",
     type: "city",
     parent: "IS-007",
     coords: [-23.18, 66.11],
-    name: { de: "HnÃ­fsdalur", hu: "HnÃ­fsdalur", ro: "HnÃ­fsdalur", en: "HnÃ­fsdalur" },
+    name: { de: "Hnífsdalur", hu: "Hnífsdalur", ro: "Hnífsdalur", en: "Hnífsdalur" },
     description: {
-      de: "Ein kleines Dorf zwischen ÃsafjÃ¶rÃ°ur und BolungarvÃ­k.",
-      hu: "Kis falu ÃsafjÃ¶rÃ°ur Ã©s BolungarvÃ­k kÃ¶zÃ¶tt.",
-      ro: "Un sat mic situat Ã®ntre ÃsafjÃ¶rÃ°ur È™i BolungarvÃ­k.",
-      en: "A small village located between ÃsafjÃ¶rÃ°ur and BolungarvÃ­k."
+      de: "Ein kleines Dorf zwischen Ísafjörður und Bolungarvík.",
+      hu: "Kis falu Ísafjörður és Bolungarvík között.",
+      ro: "Un sat mic situat între Ísafjörður �?i Bolungarvík.",
+      en: "A small village located between Ísafjörður and Bolungarvík."
     },
     facts: {
-      de: ["Umgeben von steilen Bergen.", "Wird durch einen Tunnel mit BolungarvÃ­k verbunden.", "Ein traditioneller Fischerort."],
-      hu: ["Meredek hegyek veszik kÃ¶rÃ¼l.", "AlagÃºt kÃ¶ti Ã¶ssze BolungarvÃ­kkal.", "HagyomÃ¡nyos halÃ¡sztelepÃ¼lÃ©s."],
-      ro: ["ÃŽnconjurat de munÈ›i abrupÈ›i.", "Conectat de BolungarvÃ­k printr-un tunel.", "O aÈ™ezare tradiÈ›ionalÄƒ de pescari."],
-      en: ["Surrounded by steep mountains.", "Connected to BolungarvÃ­k via a tunnel.", "A traditional fishing community."]
+      de: ["Umgeben von steilen Bergen.", "Wird durch einen Tunnel mit Bolungarvík verbunden.", "Ein traditioneller Fischerort."],
+      hu: ["Meredek hegyek veszik körül.", "Alagút köti össze Bolungarvíkkal.", "Hagyományos halásztelepülés."],
+      ro: ["�?nconjurat de mun�?i abrup�?i.", "Conectat de Bolungarvík printr-un tunel.", "O a�?ezare tradi�?ional�? de pescari."],
+      en: ["Surrounded by steep mountains.", "Connected to Bolungarvík via a tunnel.", "A traditional fishing community."]
     }
   },
   {
@@ -1456,14 +1456,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Flateyri", hu: "Flateyri", ro: "Flateyri", en: "Flateyri" },
     description: {
       de: "Ein Dorf in den Westfjorden mit einer starken Fischereitradition.",
-      hu: "Falu a Nyugati-fjordokban, erÅ‘s halÃ¡szati hagyomÃ¡nyokkal.",
-      ro: "Un sat din Westfjords cu o puternicÄƒ tradiÈ›ie pescÄƒreascÄƒ.",
+      hu: "Falu a Nyugati-fjordokban, er�?s halászati hagyományokkal.",
+      ro: "Un sat din Westfjords cu o puternic�? tradi�?ie pesc�?reasc�?.",
       en: "A village in the Westfjords with a strong heritage in fishing."
     },
     facts: {
-      de: ["Hat ein interessantes Museum in einer alten Schmiede.", "Ein schÃ¶ner Ort zum Kajakfahren.", "Bietet eine ruhige Fjordlandschaft."],
-      hu: ["Ã‰rdekes mÃºzeumnak ad otthont egy rÃ©gi kovÃ¡csmÅ±helyben.", "SzÃ©p hely a kajakozÃ¡shoz.", "Nyugodt fjord-tÃ¡jat kÃ­nÃ¡l."],
-      ro: ["GÄƒzduieÈ™te un muzeu interesant Ã®ntr-o veche fierÄƒrie.", "Un loc frumos pentru caiac.", "OferÄƒ un peisaj de fiord liniÈ™tit."],
+      de: ["Hat ein interessantes Museum in einer alten Schmiede.", "Ein schöner Ort zum Kajakfahren.", "Bietet eine ruhige Fjordlandschaft."],
+      hu: ["�?rdekes múzeumnak ad otthont egy régi kovácsműhelyben.", "Szép hely a kajakozáshoz.", "Nyugodt fjord-tájat kínál."],
+      ro: ["G�?zduie�?te un muzeu interesant într-o veche fier�?rie.", "Un loc frumos pentru caiac.", "Ofer�? un peisaj de fiord lini�?tit."],
       en: ["Home to an interesting museum in an old smithy.", "A beautiful spot for kayaking.", "Offers peaceful fjord scenery."]
     }
   },
@@ -1472,17 +1472,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.6, 65.68],
-    name: { de: "BÃ­ldudalur", hu: "BÃ­ldudalur", ro: "BÃ­ldudalur", en: "BÃ­ldudalur" },
+    name: { de: "Bíldudalur", hu: "Bíldudalur", ro: "Bíldudalur", en: "Bíldudalur" },
     description: {
-      de: "Ein Dorf am ArnarfjÃ¶rÃ°ur, bekannt fÃ¼r seine Monster-Geschichten.",
-      hu: "TelepÃ¼lÃ©s az ArnarfjÃ¶rÃ°ur partjÃ¡n, szÃ¶rny-tÃ¶rtÃ©neteirÅ‘l ismert.",
-      ro: "Un sat pe ArnarfjÃ¶rÃ°ur, cunoscut pentru poveÈ™tile sale cu monÈ™tri.",
-      en: "A village on ArnarfjÃ¶rÃ°ur, famous for its sea monster legends."
+      de: "Ein Dorf am Arnarfjörður, bekannt für seine Monster-Geschichten.",
+      hu: "Település az Arnarfjörður partján, szörny-történeteir�?l ismert.",
+      ro: "Un sat pe Arnarfjörður, cunoscut pentru pove�?tile sale cu mon�?tri.",
+      en: "A village on Arnarfjörður, famous for its sea monster legends."
     },
     facts: {
-      de: ["Heimat des IslÃ¤ndischen Seemonster-Museums.", "In der NÃ¤he des Dynjandi Wasserfalls gelegen.", "Ein charmantes und friedliches Dorf."],
-      hu: ["Itt talÃ¡lhatÃ³ az Izlandi Tengeri SzÃ¶rny MÃºzeum.", "A Dynjandi vÃ­zesÃ©s kÃ¶zelÃ©ben fekszik.", "BÃ¡jos Ã©s bÃ©kÃ©s falu."],
-      ro: ["GÄƒzduieÈ™te Muzeul Islandez al MonÈ™trilor Marini.", "Situat lÃ¢ngÄƒ cascada Dynjandi.", "Un sat fermecÄƒtor È™i liniÈ™tit."],
+      de: ["Heimat des Isländischen Seemonster-Museums.", "In der Nähe des Dynjandi Wasserfalls gelegen.", "Ein charmantes und friedliches Dorf."],
+      hu: ["Itt található az Izlandi Tengeri Szörny Múzeum.", "A Dynjandi vízesés közelében fekszik.", "Bájos és békés falu."],
+      ro: ["G�?zduie�?te Muzeul Islandez al Mon�?trilor Marini.", "Situat lâng�? cascada Dynjandi.", "Un sat fermec�?tor �?i lini�?tit."],
       en: ["Home to the Icelandic Sea Monster Museum.", "Located near the Dynjandi waterfall.", "A charming and peaceful village."]
     }
   },
@@ -1491,17 +1491,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.83, 65.63],
-    name: { de: "TÃ¡lknafjÃ¶rÃ°ur", hu: "TÃ¡lknafjÃ¶rÃ°ur", ro: "TÃ¡lknafjÃ¶rÃ°ur", en: "TÃ¡lknafjÃ¶rÃ°ur" },
+    name: { de: "Tálknafjörður", hu: "Tálknafjörður", ro: "Tálknafjörður", en: "Tálknafjörður" },
     description: {
-      de: "Ein kleiner Fischerort in den sÃ¼dlichen Westfjorden.",
-      hu: "Kis halÃ¡sztelepÃ¼lÃ©s a Nyugati-fjordok dÃ©li rÃ©szÃ©n.",
-      ro: "O micÄƒ aÈ™ezare de pescari Ã®n sudul regiunii Westfjords.",
+      de: "Ein kleiner Fischerort in den südlichen Westfjorden.",
+      hu: "Kis halásztelepülés a Nyugati-fjordok déli részén.",
+      ro: "O mic�? a�?ezare de pescari în sudul regiunii Westfjords.",
       en: "A small fishing community in the southern Westfjords."
     },
     facts: {
-      de: ["Bekannt fÃ¼r sein geothermisches Schwimmbad 'Pollurinn'.", "Ein Zentrum fÃ¼r Fischzucht und Fischerei.", "Bietet tolle Ausblicke auf den Fjord."],
-      hu: ["A 'Pollurinn' geotermikus fÃ¼rdÅ‘jÃ©rÅ‘l ismert.", "HaltenyÃ©sztÃ©si Ã©s halÃ¡szati kÃ¶zpont.", "NagyszerÅ± kilÃ¡tÃ¡st nyÃºjt a fjordra."],
-      ro: ["Cunoscut pentru piscina sa geotermalÄƒ â€žPollurinnâ€.", "Un centru pentru acvaculturÄƒ È™i pescuit.", "OferÄƒ vederi grozave spre fiord."],
+      de: ["Bekannt für sein geothermisches Schwimmbad 'Pollurinn'.", "Ein Zentrum für Fischzucht und Fischerei.", "Bietet tolle Ausblicke auf den Fjord."],
+      hu: ["A 'Pollurinn' geotermikus fürd�?jér�?l ismert.", "Haltenyésztési és halászati központ.", "Nagyszerű kilátást nyújt a fjordra."],
+      ro: ["Cunoscut pentru piscina sa geotermal�? �??Pollurinn�?�.", "Un centru pentru acvacultur�? �?i pescuit.", "Ofer�? vederi grozave spre fiord."],
       en: ["Famous for its geothermal natural pool 'Pollurinn'.", "A hub for aquaculture and fishing.", "Offers great views across the fjord."]
     }
   },
@@ -1512,16 +1512,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.43, 65.69],
     name: { de: "Drangsnes", hu: "Drangsnes", ro: "Drangsnes", en: "Drangsnes" },
     description: {
-      de: "Ein kleines Dorf am SteingrÃ­msfjÃ¶rÃ°ur in der Region Strandir.",
-      hu: "Kis telepÃ¼lÃ©s a SteingrÃ­msfjÃ¶rÃ°ur partjÃ¡n, Strandir rÃ©giÃ³ban.",
-      ro: "Un sat mic pe SteingrÃ­msfjÃ¶rÃ°ur Ã®n regiunea Strandir.",
-      en: "A small village on SteingrÃ­msfjÃ¶rÃ°ur in the Strandir region."
+      de: "Ein kleines Dorf am Steingrímsfjörður in der Region Strandir.",
+      hu: "Kis település a Steingrímsfjörður partján, Strandir régióban.",
+      ro: "Un sat mic pe Steingrímsfjörður în regiunea Strandir.",
+      en: "A small village on Steingrímsfjörður in the Strandir region."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine Hot Tubs direkt am Meer.", "Ein guter Ausgangspunkt fÃ¼r Touren zur Insel GrÃ­msey (Strandir).", "Ein ruhiges Fischerdorf."],
-      hu: ["KÃ¶zvetlenÃ¼l a tengerparton talÃ¡lhatÃ³ forrÃ³ fÃ¼rdÅ‘irÅ‘l (hot tub) ismert.", "KiindulÃ³pont a Strandir-i GrÃ­msey-szigetre indulÃ³ tÃºrÃ¡khoz.", "Csendes halÃ¡szfalu."],
-      ro: ["Cunoscut pentru bazinele sale cu apÄƒ caldÄƒ chiar pe malul mÄƒrii.", "Un punct de plecare pentru tururi cÄƒtre insula GrÃ­msey (Strandir).", "Un sat de pescari liniÈ™tit."],
-      en: ["Famous for its geothermal hot tubs right on the sea shore.", "A starting point for boat trips to GrÃ­msey (Strandir).", "A peaceful fishing community."]
+      de: ["Bekannt für seine Hot Tubs direkt am Meer.", "Ein guter Ausgangspunkt für Touren zur Insel Grímsey (Strandir).", "Ein ruhiges Fischerdorf."],
+      hu: ["Közvetlenül a tengerparton található forró fürd�?ir�?l (hot tub) ismert.", "Kiindulópont a Strandir-i Grímsey-szigetre induló túrákhoz.", "Csendes halászfalu."],
+      ro: ["Cunoscut pentru bazinele sale cu ap�? cald�? chiar pe malul m�?rii.", "Un punct de plecare pentru tururi c�?tre insula Grímsey (Strandir).", "Un sat de pescari lini�?tit."],
+      en: ["Famous for its geothermal hot tubs right on the sea shore.", "A starting point for boat trips to Grímsey (Strandir).", "A peaceful fishing community."]
     }
   },
   {
@@ -1529,17 +1529,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-22.2, 65.45],
-    name: { de: "ReykhÃ³lar", hu: "ReykhÃ³lar", ro: "ReykhÃ³lar", en: "ReykhÃ³lar" },
+    name: { de: "Reykhólar", hu: "Reykhólar", ro: "Reykhólar", en: "Reykhólar" },
     description: {
-      de: "Ein Dorf am BreiÃ°afjÃ¶rÃ°ur, bekannt fÃ¼r seine Vogelwelt und Geothermie.",
-      hu: "TelepÃ¼lÃ©s a BreiÃ°afjÃ¶rÃ°ur partjÃ¡n, madÃ¡rvilÃ¡gÃ¡rÃ³l Ã©s geotermiÃ¡jÃ¡rÃ³l ismert.",
-      ro: "Un sat pe BreiÃ°afjÃ¶rÃ°ur, cunoscut pentru pÄƒsÄƒrile sale È™i geotermie.",
-      en: "A village on BreiÃ°afjÃ¶rÃ°ur known for its birdlife and geothermal activity."
+      de: "Ein Dorf am Breiðafjörður, bekannt für seine Vogelwelt und Geothermie.",
+      hu: "Település a Breiðafjörður partján, madárvilágáról és geotermiájáról ismert.",
+      ro: "Un sat pe Breiðafjörður, cunoscut pentru p�?s�?rile sale �?i geotermie.",
+      en: "A village on Breiðafjörður known for its birdlife and geothermal activity."
     },
     facts: {
-      de: ["Ein Paradies fÃ¼r Vogelbeobachter.", "Beherbergt eine Fabrik zur Verarbeitung von Algen.", "Ein ruhiger Ort mit schÃ¶ner Natur."],
-      hu: ["A madÃ¡rmegfigyelÅ‘k paradicsoma.", "Itt talÃ¡lhatÃ³ egy algafeldolgozÃ³ Ã¼zem.", "Csendes hely, gyÃ¶nyÃ¶rÅ± termÃ©szettel."],
-      ro: ["Un paradis pentru observarea pÄƒsÄƒrilor.", "GÄƒzduieÈ™te o fabricÄƒ de procesare a algelor.", "Un loc liniÈ™tit cu o naturÄƒ frumoasÄƒ."],
+      de: ["Ein Paradies für Vogelbeobachter.", "Beherbergt eine Fabrik zur Verarbeitung von Algen.", "Ein ruhiger Ort mit schöner Natur."],
+      hu: ["A madármegfigyel�?k paradicsoma.", "Itt található egy algafeldolgozó üzem.", "Csendes hely, gyönyörű természettel."],
+      ro: ["Un paradis pentru observarea p�?s�?rilor.", "G�?zduie�?te o fabric�? de procesare a algelor.", "Un loc lini�?tit cu o natur�? frumoas�?."],
       en: ["A paradise for birdwatchers.", "Home to a seaweed processing plant.", "A peaceful spot with beautiful natural surroundings."]
     }
   },
@@ -1548,17 +1548,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-007",
     coords: [-23.33, 66.13],
-    name: { de: "SuÃ°ureyri", hu: "SuÃ°ureyri", ro: "SuÃ°ureyri", en: "SuÃ°ureyri" },
+    name: { de: "Suðureyri", hu: "Suðureyri", ro: "Suðureyri", en: "Suðureyri" },
     description: {
-      de: "Ein charmantes Fischerdorf am SÃºgandafjÃ¶rÃ°ur.",
-      hu: "BÃ¡jos halÃ¡szfalu a SÃºgandafjÃ¶rÃ°ur partjÃ¡n.",
-      ro: "Un sat de pescari fermecÄƒtor pe SÃºgandafjÃ¶rÃ°ur.",
-      en: "A charming fishing village situated on SÃºgandafjÃ¶rÃ°ur."
+      de: "Ein charmantes Fischerdorf am Súgandafjörður.",
+      hu: "Bájos halászfalu a Súgandafjörður partján.",
+      ro: "Un sat de pescari fermec�?tor pe Súgandafjörður.",
+      en: "A charming fishing village situated on Súgandafjörður."
     },
     facts: {
-      de: ["Bietet Ã¶kofreundliche Angeltouren an.", "Bekannt fÃ¼r seine authentische AtmosphÃ¤re.", "Umgeben von steilen Bergen."],
-      hu: ["Ã–ko-barÃ¡t horgÃ¡sztÃºrÃ¡kat kÃ­nÃ¡l.", "Autentikus lÃ©gkÃ¶rÃ©rÅ‘l ismert.", "Meredek hegyek veszik kÃ¶rÃ¼l."],
-      ro: ["OferÄƒ tururi de pescuit ecologice.", "Cunoscut pentru atmosfera sa autenticÄƒ.", "ÃŽnconjurat de munÈ›i abrupÈ›i."],
+      de: ["Bietet ökofreundliche Angeltouren an.", "Bekannt für seine authentische Atmosphäre.", "Umgeben von steilen Bergen."],
+      hu: ["�?ko-barát horgásztúrákat kínál.", "Autentikus légkörér�?l ismert.", "Meredek hegyek veszik körül."],
+      ro: ["Ofer�? tururi de pescuit ecologice.", "Cunoscut pentru atmosfera sa autentic�?.", "�?nconjurat de mun�?i abrup�?i."],
       en: ["Offers eco-friendly sea angling tours.", "Known for its authentic atmosphere.", "Surrounded by steep mountains."]
     }
   },
@@ -1567,36 +1567,36 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.41, 65.9],
-    name: { de: "HofsÃ³s", hu: "HofsÃ³s", ro: "HofsÃ³s", en: "HofsÃ³s" },
+    name: { de: "Hofsós", hu: "Hofsós", ro: "Hofsós", en: "Hofsós" },
     description: {
-      de: "Einer der Ã¤ltesten HandelsplÃ¤tze Islands im Norden.",
-      hu: "Izland egyik legrÃ©gebbi kereskedelmi kÃ¶zpontja Ã©szakon.",
-      ro: "Unul dintre cele mai vechi puncte comerciale din Islanda, Ã®n nord.",
+      de: "Einer der ältesten Handelsplätze Islands im Norden.",
+      hu: "Izland egyik legrégebbi kereskedelmi központja északon.",
+      ro: "Unul dintre cele mai vechi puncte comerciale din Islanda, în nord.",
       en: "One of Iceland's oldest trading posts, located in the north."
     },
     facts: {
-      de: ["Heimat des IslÃ¤ndischen Auswanderungszentrums.", "Bekannt fÃ¼r sein spektakulÃ¤res Schwimmbad am Fjord.", "Ein friedliches Dorf mit reicher Geschichte."],
-      hu: ["Itt talÃ¡lhatÃ³ az Izlandi KivÃ¡ndorlÃ¡si KÃ¶zpont.", "LÃ¡tvÃ¡nyos, fjordparti fÃ¼rdÅ‘jÃ©rÅ‘l ismert.", "BÃ©kÃ©s falu, gazdag tÃ¶rtÃ©nelemmel."],
-      ro: ["GÄƒzduieÈ™te Centrul de Emigrare Islandez.", "Cunoscut pentru piscina sa spectaculoasÄƒ pe malul fiordului.", "Un sat liniÈ™tit cu o istorie bogatÄƒ."],
+      de: ["Heimat des Isländischen Auswanderungszentrums.", "Bekannt für sein spektakuläres Schwimmbad am Fjord.", "Ein friedliches Dorf mit reicher Geschichte."],
+      hu: ["Itt található az Izlandi Kivándorlási Központ.", "Látványos, fjordparti fürd�?jér�?l ismert.", "Békés falu, gazdag történelemmel."],
+      ro: ["G�?zduie�?te Centrul de Emigrare Islandez.", "Cunoscut pentru piscina sa spectaculoas�? pe malul fiordului.", "Un sat lini�?tit cu o istorie bogat�?."],
       en: ["Home to the Icelandic Emigration Center.", "Famous for its spectacular infinity-style swimming pool.", "A peaceful village with a rich history."]
     }
   },
   {
-    id: "city-skagastrÃ¶nd-extra",
+    id: "city-skagaströnd-extra",
     type: "city",
     parent: "IS-008",
     coords: [-20.3, 65.83],
-    name: { de: "SkagastrÃ¶nd", hu: "SkagastrÃ¶nd", ro: "SkagastrÃ¶nd", en: "SkagastrÃ¶nd" },
+    name: { de: "Skagaströnd", hu: "Skagaströnd", ro: "Skagaströnd", en: "Skagaströnd" },
     description: {
-      de: "Ein Fischerdorf am HÃºnaflÃ³i, bekannt fÃ¼r seine kÃ¼nstlerische Ader.",
-      hu: "HalÃ¡szfalu a HÃºnaflÃ³i partjÃ¡n, amely mÅ±vÃ©szi vÃ©nÃ¡jÃ¡rÃ³l ismert.",
-      ro: "Un sat de pescari pe HÃºnaflÃ³i, cunoscut pentru latura sa artisticÄƒ.",
-      en: "A fishing town on HÃºnaflÃ³i, known for its creative and artistic spirit."
+      de: "Ein Fischerdorf am Húnaflói, bekannt für seine künstlerische Ader.",
+      hu: "Halászfalu a Húnaflói partján, amely művészi vénájáról ismert.",
+      ro: "Un sat de pescari pe Húnaflói, cunoscut pentru latura sa artistic�?.",
+      en: "A fishing town on Húnaflói, known for its creative and artistic spirit."
     },
     facts: {
-      de: ["Beherbergt das NES Artist Residency.", "Ein wichtiges Fischereizentrum der Region.", "Umgeben von einer weiten KÃ¼stenlandschaft."],
-      hu: ["Itt talÃ¡lhatÃ³ a NES Artist Residency.", "A rÃ©giÃ³ fontos halÃ¡szati kÃ¶zpontja.", "TÃ¡gas tengerparti tÃ¡j veszi kÃ¶rÃ¼l."],
-      ro: ["GÄƒzduieÈ™te programul NES Artist Residency.", "Un centru important de pescuit Ã®n regiune.", "ÃŽnconjurat de un peisaj de coastÄƒ vast."],
+      de: ["Beherbergt das NES Artist Residency.", "Ein wichtiges Fischereizentrum der Region.", "Umgeben von einer weiten Küstenlandschaft."],
+      hu: ["Itt található a NES Artist Residency.", "A régió fontos halászati központja.", "Tágas tengerparti táj veszi körül."],
+      ro: ["G�?zduie�?te programul NES Artist Residency.", "Un centru important de pescuit în regiune.", "�?nconjurat de un peisaj de coast�? vast."],
       en: ["Home to the NES Artist Residency.", "A significant fishing hub for the region.", "Surrounded by a vast coastal landscape."]
     }
   },
@@ -1605,18 +1605,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.45, 65.45],
-    name: { de: "VarmahlÃ­Ã°", hu: "VarmahlÃ­Ã°", ro: "VarmahlÃ­Ã°", en: "VarmahlÃ­Ã°" },
+    name: { de: "Varmahlíð", hu: "Varmahlíð", ro: "Varmahlíð", en: "Varmahlíð" },
     description: {
-      de: "Ein kleiner Ort im SkagafjÃ¶rÃ°ur, bekannt fÃ¼r seine Pferdezucht.",
-      hu: "Kis telepÃ¼lÃ©s a SkagafjÃ¶rÃ°urban, lÃ³tenyÃ©sztÃ©sÃ©rÅ‘l ismert.",
-      ro: "O micÄƒ aÈ™ezare Ã®n SkagafjÃ¶rÃ°ur, cunoscutÄƒ pentru creÈ™terea cailor.",
-      en: "A small village in the SkagafjÃ¶rÃ°ur region, famous for its horse breeding."
+      de: "Ein kleiner Ort im Skagafjörður, bekannt für seine Pferdezucht.",
+      hu: "Kis település a Skagafjörðurban, lótenyésztésér�?l ismert.",
+      ro: "O mic�? a�?ezare în Skagafjörður, cunoscut�? pentru cre�?terea cailor.",
+      en: "A small village in the Skagafjörður region, famous for its horse breeding."
     },
     facts: {
-      de: ["Ein wichtiges Zentrum fÃ¼r Tourismus und Dienstleistungen.", "In der NÃ¤he der Torfkirche VÃ­Ã°imÃ½rarkirkja.", "Ein beliebter Stopp an der RingstraÃŸe."],
-      hu: ["Fontos turisztikai Ã©s szolgÃ¡ltatÃ³ kÃ¶zpont.", "A VÃ­Ã°imÃ½rarkirkja tÅ‘zegtemplom kÃ¶zelÃ©ben fekszik.", "NÃ©pszerÅ± megÃ¡llÃ³ a gyÅ±rÅ±s Ãºt mentÃ©n."],
-      ro: ["Un centru important pentru turism È™i servicii.", "Situat lÃ¢ngÄƒ biserica de turbÄƒ VÃ­Ã°imÃ½rarkirkja.", "O oprire popularÄƒ pe È™oseaua de centurÄƒ."],
-      en: ["A key hub for regional tourism and services.", "Located near the historic VÃ­Ã°imÃ½rarkirkja turf church.", "A popular rest stop on the Ring Road."]
+      de: ["Ein wichtiges Zentrum für Tourismus und Dienstleistungen.", "In der Nähe der Torfkirche Víðimýrarkirkja.", "Ein beliebter Stopp an der Ringstra�?e."],
+      hu: ["Fontos turisztikai és szolgáltató központ.", "A Víðimýrarkirkja t�?zegtemplom közelében fekszik.", "Népszerű megálló a gyűrűs út mentén."],
+      ro: ["Un centru important pentru turism �?i servicii.", "Situat lâng�? biserica de turb�? Víðimýrarkirkja.", "O oprire popular�? pe �?oseaua de centur�?."],
+      en: ["A key hub for regional tourism and services.", "Located near the historic Víðimýrarkirkja turf church.", "A popular rest stop on the Ring Road."]
     }
   },
   {
@@ -1624,17 +1624,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.11, 65.73],
-    name: { de: "HÃ³lar", hu: "HÃ³lar", ro: "HÃ³lar", en: "HÃ³lar" },
+    name: { de: "Hólar", hu: "Hólar", ro: "Hólar", en: "Hólar" },
     description: {
-      de: "Ein historisches religiÃ¶ses und kulturelles Zentrum im Norden.",
-      hu: "TÃ¶rtÃ©nelmi vallÃ¡si Ã©s kulturÃ¡lis kÃ¶zpont Ã©szakon.",
-      ro: "Un centru istoric religios È™i cultural din nord.",
+      de: "Ein historisches religiöses und kulturelles Zentrum im Norden.",
+      hu: "Történelmi vallási és kulturális központ északon.",
+      ro: "Un centru istoric religios �?i cultural din nord.",
       en: "A historic religious and cultural center in the north."
     },
     facts: {
-      de: ["Ehemaliger Bischofssitz Nordislands.", "Beherbergt eine UniversitÃ¤t mit Fokus auf Landwirtschaft und Pferde.", "Hat eine beeindruckende historische Kathedrale."],
-      hu: ["Ã‰szak-Izland egykori pÃ¼spÃ¶ki szÃ©khelye.", "MezÅ‘gazdasÃ¡gi Ã©s lovas fÃ³kuszÃº egyetemnek ad otthont.", "LenyÅ±gÃ¶zÅ‘ tÃ¶rtÃ©nelmi katedrÃ¡lisa van."],
-      ro: ["Fost sediu episcopal al Islandei de Nord.", "GÄƒzduieÈ™te o universitate cu accent pe agriculturÄƒ È™i cai.", "Are o catedralÄƒ istoricÄƒ impresionantÄƒ."],
+      de: ["Ehemaliger Bischofssitz Nordislands.", "Beherbergt eine Universität mit Fokus auf Landwirtschaft und Pferde.", "Hat eine beeindruckende historische Kathedrale."],
+      hu: ["�?szak-Izland egykori püspöki székhelye.", "Mez�?gazdasági és lovas fókuszú egyetemnek ad otthont.", "Lenyűgöz�? történelmi katedrálisa van."],
+      ro: ["Fost sediu episcopal al Islandei de Nord.", "G�?zduie�?te o universitate cu accent pe agricultur�? �?i cai.", "Are o catedral�? istoric�? impresionant�?."],
       en: ["Former episcopal seat of North Iceland.", "Home to a university focusing on agriculture and equine studies.", "Features an impressive historic cathedral."]
     }
   },
@@ -1645,16 +1645,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.88, 65.32],
     name: { de: "Laugarbakki", hu: "Laugarbakki", ro: "Laugarbakki", en: "Laugarbakki" },
     description: {
-      de: "Ein Dorf im Nordwesten, bekannt fÃ¼r seine geothermischen Quellen.",
-      hu: "Ã‰szaknyugati falu, amely geotermikus forrÃ¡sairÃ³l ismert.",
+      de: "Ein Dorf im Nordwesten, bekannt für seine geothermischen Quellen.",
+      hu: "�?szaknyugati falu, amely geotermikus forrásairól ismert.",
       ro: "Un sat din nord-vest, cunoscut pentru izvoarele sale geotermale.",
       en: "A village in the northwest known for its geothermal springs and crafts."
     },
     facts: {
-      de: ["Heimat eines bekannten Kunsthandwerksmarktes.", "Liegt am Ufer des Flusses MiÃ°fjarÃ°arÃ¡.", "Ein ruhiger Ort in lÃ¤ndlicher Umgebung."],
-      hu: ["HÃ­res kÃ©zmÅ±ves piaca van.", "A MiÃ°fjarÃ°arÃ¡-folyÃ³ partjÃ¡n fekszik.", "Csendes telepÃ¼lÃ©s vidÃ©ki kÃ¶rnyezetben."],
-      ro: ["GÄƒzduieÈ™te o piaÈ›Äƒ de meÈ™teÈ™uguri cunoscutÄƒ.", "Situat pe malul rÃ¢ului MiÃ°fjarÃ°arÃ¡.", "O aÈ™ezare liniÈ™titÄƒ Ã®n mediu rural."],
-      en: ["Home to a well-known arts and crafts market.", "Located on the banks of the MiÃ°fjarÃ°arÃ¡ river.", "A peaceful spot in a rural setting."]
+      de: ["Heimat eines bekannten Kunsthandwerksmarktes.", "Liegt am Ufer des Flusses Miðfjarðará.", "Ein ruhiger Ort in ländlicher Umgebung."],
+      hu: ["Híres kézműves piaca van.", "A Miðfjarðará-folyó partján fekszik.", "Csendes település vidéki környezetben."],
+      ro: ["G�?zduie�?te o pia�?�? de me�?te�?uguri cunoscut�?.", "Situat pe malul râului Miðfjarðará.", "O a�?ezare lini�?tit�? în mediu rural."],
+      en: ["Home to a well-known arts and crafts market.", "Located on the banks of the Miðfjarðará river.", "A peaceful spot in a rural setting."]
     }
   },
   {
@@ -1662,17 +1662,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-21.1, 65.21],
-    name: { de: "BorÃ°eyri", hu: "BorÃ°eyri", ro: "BorÃ°eyri", en: "BorÃ°eyri" },
+    name: { de: "Borðeyri", hu: "Borðeyri", ro: "Borðeyri", en: "Borðeyri" },
     description: {
-      de: "Einer der kleinsten Orte Islands am HrÃºtafjÃ¶rÃ°ur.",
-      hu: "Izland egyik legkisebb telepÃ¼lÃ©se a HrÃºtafjÃ¶rÃ°ur partjÃ¡n.",
-      ro: "Una dintre cele mai mici aÈ™ezÄƒri din Islanda, pe HrÃºtafjÃ¶rÃ°ur.",
-      en: "One of the smallest settlements in Iceland, located on HrÃºtafjÃ¶rÃ°ur."
+      de: "Einer der kleinsten Orte Islands am Hrútafjörður.",
+      hu: "Izland egyik legkisebb települése a Hrútafjörður partján.",
+      ro: "Una dintre cele mai mici a�?ez�?ri din Islanda, pe Hrútafjörður.",
+      en: "One of the smallest settlements in Iceland, located on Hrútafjörður."
     },
     facts: {
-      de: ["Historisch ein wichtiger Handelsposten.", "Bietet einen authentischen Einblick in das lÃ¤ndliche Leben.", "Ein sehr ruhiger und abgeschiedener Ort."],
-      hu: ["TÃ¶rtÃ©nelmileg fontos kereskedelmi Ã¡llomÃ¡s volt.", "Hiteles betekintÃ©st nyÃºjt a vidÃ©ki Ã©letbe.", "Nagyon csendes Ã©s elszigetelt hely."],
-      ro: ["Istoric, un punct comercial important.", "OferÄƒ o privire autenticÄƒ asupra vieÈ›ii rurale.", "Un loc foarte liniÈ™tit È™i izolat."],
+      de: ["Historisch ein wichtiger Handelsposten.", "Bietet einen authentischen Einblick in das ländliche Leben.", "Ein sehr ruhiger und abgeschiedener Ort."],
+      hu: ["Történelmileg fontos kereskedelmi állomás volt.", "Hiteles betekintést nyújt a vidéki életbe.", "Nagyon csendes és elszigetelt hely."],
+      ro: ["Istoric, un punct comercial important.", "Ofer�? o privire autentic�? asupra vie�?ii rurale.", "Un loc foarte lini�?tit �?i izolat."],
       en: ["Historically an important trading post.", "Provides an authentic glimpse into rural life.", "A very quiet and secluded spot."]
     }
   },
@@ -1681,17 +1681,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.91, 66.15],
-    name: { de: "SiglufjÃ¶rÃ°ur", hu: "SiglufjÃ¶rÃ°ur", ro: "SiglufjÃ¶rÃ°ur", en: "SiglufjÃ¶rÃ°ur" },
+    name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður" },
     description: {
       de: "Eine Stadt mit reicher Fischereigeschichte im Norden.",
-      hu: "Gazdag halÃ¡szati mÃºlttal rendelkezÅ‘ vÃ¡ros Ã©szakon.",
-      ro: "Un oraÈ™ cu o bogatÄƒ istorie pescÄƒreascÄƒ Ã®n nord.",
+      hu: "Gazdag halászati múlttal rendelkez�? város északon.",
+      ro: "Un ora�? cu o bogat�? istorie pesc�?reasc�? în nord.",
       en: "A town with a rich fishing heritage, once known as the herring capital."
     },
     facts: {
-      de: ["Bietet spektakulÃ¤re Bergkulissen.", "Beliebt fÃ¼r Wintersport.", "Hat ein charmantes Stadtzentrum."],
-      hu: ["LÃ¡tvÃ¡nyos hegyi dÃ­szleteket kÃ­nÃ¡l.", "NÃ©pszerÅ± a tÃ©li sportok kedvelÅ‘i kÃ¶rÃ©ben.", "BÃ¡jos vÃ¡roskÃ¶zpontja van."],
-      ro: ["OferÄƒ peisaje montane spectaculoase.", "Popular pentru sporturile de iarnÄƒ.", "Are un centru fermecÄƒtor."],
+      de: ["Bietet spektakuläre Bergkulissen.", "Beliebt für Wintersport.", "Hat ein charmantes Stadtzentrum."],
+      hu: ["Látványos hegyi díszleteket kínál.", "Népszerű a téli sportok kedvel�?i körében.", "Bájos városközpontja van."],
+      ro: ["Ofer�? peisaje montane spectaculoase.", "Popular pentru sporturile de iarn�?.", "Are un centru fermec�?tor."],
       en: ["Offers spectacular mountain backdrops.", "Popular for winter sports enthusiasts.", "Features a charming town center."]
     }
   },
@@ -1700,17 +1700,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-15.95, 66.45],
-    name: { de: "RaufarhÃ¶fn", hu: "RaufarhÃ¶fn", ro: "RaufarhÃ¶fn", en: "RaufarhÃ¶fn" },
+    name: { de: "Raufarhöfn", hu: "Raufarhöfn", ro: "Raufarhöfn", en: "Raufarhöfn" },
     description: {
-      de: "Das nÃ¶rdlichste Dorf auf dem islÃ¤ndischen Festland.",
-      hu: "Az izlandi szÃ¡razfÃ¶ld legÃ©szakibb telepÃ¼lÃ©se.",
+      de: "Das nördlichste Dorf auf dem isländischen Festland.",
+      hu: "Az izlandi szárazföld legészakibb települése.",
       ro: "Cel mai nordic sat de pe continentul islandez.",
       en: "The northernmost village on the Icelandic mainland."
     },
     facts: {
-      de: ["Heimat des monumentalen Arctic Henge.", "Einst ein geschÃ¤ftiger Heringshafen.", "Ein abgeschiedener Ort mit besonderer AtmosphÃ¤re."],
-      hu: ["Itt talÃ¡lhatÃ³ a monumentÃ¡lis Arctic Henge.", "Egykor nyÃ¼zsgÅ‘ heringkikÃ¶tÅ‘ volt.", "Elszigetelt hely, kÃ¼lÃ¶nleges hangulattal."],
-      ro: ["GÄƒzduieÈ™te monumentalul Arctic Henge.", "OdatÄƒ un port de hering plin de viaÈ›Äƒ.", "Un loc izolat cu o atmosferÄƒ specialÄƒ."],
+      de: ["Heimat des monumentalen Arctic Henge.", "Einst ein geschäftiger Heringshafen.", "Ein abgeschiedener Ort mit besonderer Atmosphäre."],
+      hu: ["Itt található a monumentális Arctic Henge.", "Egykor nyüzsg�? heringkiköt�? volt.", "Elszigetelt hely, különleges hangulattal."],
+      ro: ["G�?zduie�?te monumentalul Arctic Henge.", "Odat�? un port de hering plin de via�?�?.", "Un loc izolat cu o atmosfer�? special�?."],
       en: ["Home to the monumental Arctic Henge.", "Once a bustling herring port.", "A remote spot with a unique atmosphere."]
     }
   },
@@ -1719,18 +1719,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-16.45, 66.3],
-    name: { de: "KÃ³pasker", hu: "KÃ³pasker", ro: "KÃ³pasker", en: "KÃ³pasker" },
+    name: { de: "Kópasker", hu: "Kópasker", ro: "Kópasker", en: "Kópasker" },
     description: {
-      de: "Ein kleiner Fischerort am Ã–xarfjÃ¶rÃ°ur im Nordosten.",
-      hu: "Kis halÃ¡sztelepÃ¼lÃ©s az Ã–xarfjÃ¶rÃ°ur partjÃ¡n, Ã©szakkeleten.",
-      ro: "Un mic sat de pescari pe Ã–xarfjÃ¶rÃ°ur Ã®n nord-est.",
-      en: "A small fishing village on Ã–xarfjÃ¶rÃ°ur in the northeast."
+      de: "Ein kleiner Fischerort am �?xarfjörður im Nordosten.",
+      hu: "Kis halásztelepülés az �?xarfjörður partján, északkeleten.",
+      ro: "Un mic sat de pescari pe �?xarfjörður în nord-est.",
+      en: "A small fishing village on �?xarfjörður in the northeast."
     },
     facts: {
-      de: ["Ein Zentrum fÃ¼r Schafzucht und Fischerei.", "In der NÃ¤he des Ãsbyrgi-Canyons gelegen.", "Bekannt fÃ¼r seine reiche Vogelwelt."],
-      hu: ["JuhtenyÃ©sztÃ©si Ã©s halÃ¡szati kÃ¶zpont.", "Az Ãsbyrgi-kanyon kÃ¶zelÃ©ben fekszik.", "Gazdag madÃ¡rvilÃ¡gÃ¡rÃ³l ismert."],
-      ro: ["Un centru pentru creÈ™terea oilor È™i pescuit.", "Situat lÃ¢ngÄƒ canionul Ãsbyrgi.", "Cunoscut pentru avifauna sa bogatÄƒ."],
-      en: ["A hub for sheep farming and fishing.", "Located near the Ãsbyrgi canyon.", "Known for its diverse birdlife."]
+      de: ["Ein Zentrum für Schafzucht und Fischerei.", "In der Nähe des Ásbyrgi-Canyons gelegen.", "Bekannt für seine reiche Vogelwelt."],
+      hu: ["Juhtenyésztési és halászati központ.", "Az Ásbyrgi-kanyon közelében fekszik.", "Gazdag madárvilágáról ismert."],
+      ro: ["Un centru pentru cre�?terea oilor �?i pescuit.", "Situat lâng�? canionul Ásbyrgi.", "Cunoscut pentru avifauna sa bogat�?."],
+      en: ["A hub for sheep farming and fishing.", "Located near the Ásbyrgi canyon.", "Known for its diverse birdlife."]
     }
   },
   {
@@ -1738,17 +1738,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.08, 65.73],
-    name: { de: "SvalbarÃ°seyri", hu: "SvalbarÃ°seyri", ro: "SvalbarÃ°seyri", en: "SvalbarÃ°seyri" },
+    name: { de: "Svalbarðseyri", hu: "Svalbarðseyri", ro: "Svalbarðseyri", en: "Svalbarðseyri" },
     description: {
-      de: "Ein Dorf gegenÃ¼ber von Akureyri am EyjafjÃ¶rÃ°ur.",
-      hu: "TelepÃ¼lÃ©s Akureyrivel szemben, az EyjafjÃ¶rÃ°ur tÃºlpartjÃ¡n.",
-      ro: "Un sat vizavi de Akureyri pe EyjafjÃ¶rÃ°ur.",
-      en: "A village located across from Akureyri on the eastern side of EyjafjÃ¶rÃ°ur."
+      de: "Ein Dorf gegenüber von Akureyri am Eyjafjörður.",
+      hu: "Település Akureyrivel szemben, az Eyjafjörður túlpartján.",
+      ro: "Un sat vizavi de Akureyri pe Eyjafjörður.",
+      en: "A village located across from Akureyri on the eastern side of Eyjafjörður."
     },
     facts: {
-      de: ["Bietet einen tollen Blick auf Akureyri.", "Ein wachsendes Wohngebiet.", "Bekannt fÃ¼r seine lÃ¤ndliche Ruhe."],
-      hu: ["NagyszerÅ± kilÃ¡tÃ¡st nyÃºjt Akureyrire.", "NÃ¶vekvÅ‘ lakÃ³Ã¶vezet.", "VidÃ©ki nyugalmÃ¡rÃ³l ismert."],
-      ro: ["OferÄƒ o vedere minunatÄƒ spre Akureyri.", "O zonÄƒ rezidenÈ›ialÄƒ Ã®n creÈ™tere.", "Cunoscut pentru liniÈ™tea sa ruralÄƒ."],
+      de: ["Bietet einen tollen Blick auf Akureyri.", "Ein wachsendes Wohngebiet.", "Bekannt für seine ländliche Ruhe."],
+      hu: ["Nagyszerű kilátást nyújt Akureyrire.", "Növekv�? lakóövezet.", "Vidéki nyugalmáról ismert."],
+      ro: ["Ofer�? o vedere minunat�? spre Akureyri.", "O zon�? reziden�?ial�? în cre�?tere.", "Cunoscut pentru lini�?tea sa rural�?."],
       en: ["Offers great views of Akureyri.", "A growing residential area.", "Known for its rural tranquility."]
     }
   },
@@ -1759,16 +1759,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-18.2, 65.85],
     name: { de: "Hjalteyri", hu: "Hjalteyri", ro: "Hjalteyri", en: "Hjalteyri" },
     description: {
-      de: "Ein winziger Fischerort am EyjafjÃ¶rÃ°ur mit groÃŸer Geschichte.",
-      hu: "AprÃ³ halÃ¡sztelepÃ¼lÃ©s az EyjafjÃ¶rÃ°ur partjÃ¡n, nagy mÃºlttal.",
-      ro: "Un sat de pescari minuscul pe EyjafjÃ¶rÃ°ur cu o istorie mare.",
-      en: "A tiny fishing settlement on EyjafjÃ¶rÃ°ur with a significant history."
+      de: "Ein winziger Fischerort am Eyjafjörður mit gro�?er Geschichte.",
+      hu: "Apró halásztelepülés az Eyjafjörður partján, nagy múlttal.",
+      ro: "Un sat de pescari minuscul pe Eyjafjörður cu o istorie mare.",
+      en: "A tiny fishing settlement on Eyjafjörður with a significant history."
     },
     facts: {
-      de: ["Einst ein bedeutender Heringshafen.", "Bekannt fÃ¼r seine Tauchbasis (StrÃ½tan).", "Beherbergt Ausstellungen in einer alten Fischfabrik."],
-      hu: ["Egykor jelentÅ‘s heringkikÃ¶tÅ‘ volt.", "A StrÃ½tan bÃºvÃ¡rkÃ¶zpontjÃ¡rÃ³l ismert.", "KiÃ¡llÃ­tÃ¡soknak ad otthont egy rÃ©gi halgyÃ¡rban."],
-      ro: ["OdatÄƒ un port de hering important.", "Cunoscut pentru centrul de scufundÄƒri StrÃ½tan.", "GÄƒzduieÈ™te expoziÈ›ii Ã®ntr-o veche fabricÄƒ de peÈ™te."],
-      en: ["Once a major herring port.", "Famous for the StrÃ½tan diving center.", "Hosts art exhibitions in an old fish factory."]
+      de: ["Einst ein bedeutender Heringshafen.", "Bekannt für seine Tauchbasis (Strýtan).", "Beherbergt Ausstellungen in einer alten Fischfabrik."],
+      hu: ["Egykor jelent�?s heringkiköt�? volt.", "A Strýtan búvárközpontjáról ismert.", "Kiállításoknak ad otthont egy régi halgyárban."],
+      ro: ["Odat�? un port de hering important.", "Cunoscut pentru centrul de scufund�?ri Strýtan.", "G�?zduie�?te expozi�?ii într-o veche fabric�? de pe�?te."],
+      en: ["Once a major herring port.", "Famous for the Strýtan diving center.", "Hosts art exhibitions in an old fish factory."]
     }
   },
   {
@@ -1778,15 +1778,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-17.35, 65.72],
     name: { de: "Laugar", hu: "Laugar", ro: "Laugar", en: "Laugar" },
     description: {
-      de: "Ein kleiner Ort bekannt fÃ¼r seine geothermischen Quellen.",
-      hu: "Kis telepÃ¼lÃ©s, amely geotermikus forrÃ¡sairÃ³l ismert.",
-      ro: "O micÄƒ aÈ™ezare cunoscutÄƒ pentru izvoarele sale geotermale.",
+      de: "Ein kleiner Ort bekannt für seine geothermischen Quellen.",
+      hu: "Kis település, amely geotermikus forrásairól ismert.",
+      ro: "O mic�? a�?ezare cunoscut�? pentru izvoarele sale geotermale.",
       en: "A small settlement famous for its geothermal springs and regional school."
     },
     facts: {
-      de: ["Ein wichtiges Bildungszentrum im Norden.", "Hat ein beliebtes geothermisches Schwimmbad.", "Liegt verkehrsgÃ¼nstig an der RingstraÃŸe."],
-      hu: ["Fontos oktatÃ¡si kÃ¶zpont Ã©szakon.", "NÃ©pszerÅ± geotermikus ÃºszÃ³medencÃ©je van.", "KÃ©nyelmesen, a gyÅ±rÅ±s Ãºt mentÃ©n fekszik."],
-      ro: ["Un centru educaÈ›ional important Ã®n nord.", "Are o piscinÄƒ geotermalÄƒ popularÄƒ.", "Situat convenabil pe È™oseaua de centurÄƒ."],
+      de: ["Ein wichtiges Bildungszentrum im Norden.", "Hat ein beliebtes geothermisches Schwimmbad.", "Liegt verkehrsgünstig an der Ringstra�?e."],
+      hu: ["Fontos oktatási központ északon.", "Népszerű geotermikus úszómedencéje van.", "Kényelmesen, a gyűrűs út mentén fekszik."],
+      ro: ["Un centru educa�?ional important în nord.", "Are o piscin�? geotermal�? popular�?.", "Situat convenabil pe �?oseaua de centur�?."],
       en: ["An important educational center in the north.", "Features a popular geothermal swimming pool.", "Conveniently located on the Ring Road."]
     }
   },
@@ -1795,18 +1795,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-16.91, 65.64],
-    name: { de: "ReykjahlÃ­Ã°", hu: "ReykjahlÃ­Ã°", ro: "ReykjahlÃ­Ã°", en: "ReykjahlÃ­Ã°" },
+    name: { de: "Reykjahlíð", hu: "Reykjahlíð", ro: "Reykjahlíð", en: "Reykjahlíð" },
     description: {
-      de: "Das touristische Zentrum am Nordufer des MÃ½vatn-Sees.",
-      hu: "Turisztikai kÃ¶zpont a MÃ½vatn-tÃ³ Ã©szaki partjÃ¡n.",
-      ro: "Centrul turistic de pe malul nordic al lacului MÃ½vatn.",
-      en: "The primary tourist hub on the northern shore of Lake MÃ½vatn."
+      de: "Das touristische Zentrum am Nordufer des Mývatn-Sees.",
+      hu: "Turisztikai központ a Mývatn-tó északi partján.",
+      ro: "Centrul turistic de pe malul nordic al lacului Mývatn.",
+      en: "The primary tourist hub on the northern shore of Lake Mývatn."
     },
     facts: {
-      de: ["Tor zu den vulkanischen Wundern von MÃ½vatn.", "Ãœberlebte wie durch ein Wunder einen Lavastrom im Jahr 1729.", "Bietet alle wichtigen Dienstleistungen fÃ¼r Reisende."],
-      hu: ["A MÃ½vatn vulkÃ¡ni csodÃ¡inak kapuja.", "CsodÃ¡val hatÃ¡ros mÃ³don tÃºlÃ©lte az 1729-es lÃ¡vafolyamot.", "Minden fontos szolgÃ¡ltatÃ¡st megad az utazÃ³knak."],
-      ro: ["Poarta cÄƒtre minunile vulcanice de la MÃ½vatn.", "A supravieÈ›uit miraculos unui flux de lavÄƒ Ã®n 1729.", "OferÄƒ toate serviciile esenÈ›iale pentru cÄƒlÄƒtori."],
-      en: ["Gateway to the volcanic wonders of MÃ½vatn.", "Miraculously survived a lava flow in 1729.", "Provides essential services for travelers in the area."]
+      de: ["Tor zu den vulkanischen Wundern von Mývatn.", "�?berlebte wie durch ein Wunder einen Lavastrom im Jahr 1729.", "Bietet alle wichtigen Dienstleistungen für Reisende."],
+      hu: ["A Mývatn vulkáni csodáinak kapuja.", "Csodával határos módon túlélte az 1729-es lávafolyamot.", "Minden fontos szolgáltatást megad az utazóknak."],
+      ro: ["Poarta c�?tre minunile vulcanice de la Mývatn.", "A supravie�?uit miraculos unui flux de lav�? în 1729.", "Ofer�? toate serviciile esen�?iale pentru c�?l�?tori."],
+      en: ["Gateway to the volcanic wonders of Mývatn.", "Miraculously survived a lava flow in 1729.", "Provides essential services for travelers in the area."]
     }
   },
   {
@@ -1816,15 +1816,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-18.3, 65.93],
     name: { de: "Hauganes", hu: "Hauganes", ro: "Hauganes", en: "Hauganes" },
     description: {
-      de: "Ein idyllisches Fischerdorf am EyjafjÃ¶rÃ°ur.",
-      hu: "Idilli halÃ¡szfalu az EyjafjÃ¶rÃ°ur partjÃ¡n.",
-      ro: "Un sat de pescari idilic pe EyjafjÃ¶rÃ°ur.",
-      en: "An idyllic fishing village on the shores of EyjafjÃ¶rÃ°ur."
+      de: "Ein idyllisches Fischerdorf am Eyjafjörður.",
+      hu: "Idilli halászfalu az Eyjafjörður partján.",
+      ro: "Un sat de pescari idilic pe Eyjafjörður.",
+      en: "An idyllic fishing village on the shores of Eyjafjörður."
     },
     facts: {
-      de: ["Bekannt fÃ¼r seine Walbeobachtungstouren.", "Hat gemÃ¼tliche Hot Tubs am Strand.", "Einer der Ã¤ltesten FischerhÃ¤fen im Fjord."],
-      hu: ["BÃ¡lnalesÅ‘ tÃºrÃ¡irÃ³l ismert.", "Hangulatos forrÃ³ fÃ¼rdÅ‘k vannak a tengerpartjÃ¡n.", "A fjord egyik legrÃ©gebbi halÃ¡szkikÃ¶tÅ‘je."],
-      ro: ["Cunoscut pentru tururile de observare a balenelor.", "Are bazine cu apÄƒ caldÄƒ primitoare pe plajÄƒ.", "Unul dintre cele mai vechi porturi de pescuit din fiord."],
+      de: ["Bekannt für seine Walbeobachtungstouren.", "Hat gemütliche Hot Tubs am Strand.", "Einer der ältesten Fischerhäfen im Fjord."],
+      hu: ["Bálnales�? túráiról ismert.", "Hangulatos forró fürd�?k vannak a tengerpartján.", "A fjord egyik legrégebbi halászkiköt�?je."],
+      ro: ["Cunoscut pentru tururile de observare a balenelor.", "Are bazine cu ap�? cald�? primitoare pe plaj�?.", "Unul dintre cele mai vechi porturi de pescuit din fiord."],
       en: ["Famous for its whale watching tours.", "Features cozy hot tubs on the beach.", "One of the oldest fishing ports in the fjord."]
     }
   },
@@ -1833,37 +1833,37 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.35, 65.95],
-    name: { de: "ÃrskÃ³gssandur", hu: "ÃrskÃ³gssandur", ro: "ÃrskÃ³gssandur", en: "ÃrskÃ³gssandur" },
+    name: { de: "Árskógssandur", hu: "Árskógssandur", ro: "Árskógssandur", en: "Árskógssandur" },
     description: {
-      de: "Ein Dorf bekannt fÃ¼r seine Brauerei und das Bierbad.",
-      hu: "SÃ¶rfÅ‘zdÃ©jÃ©rÅ‘l Ã©s a sÃ¶rfÃ¼rdÅ‘jÃ©rÅ‘l ismert falu.",
-      ro: "Un sat cunoscut pentru berÄƒria sa È™i baia de bere.",
+      de: "Ein Dorf bekannt für seine Brauerei und das Bierbad.",
+      hu: "Sörf�?zdéjér�?l és a sörfürd�?jér�?l ismert falu.",
+      ro: "Un sat cunoscut pentru ber�?ria sa �?i baia de bere.",
       en: "A village famous for its brewery and unique beer spa."
     },
     facts: {
-      de: ["Heimat der Kaldi-Brauerei.", "Beherbergt das erste Bierbad Islands (BjÃ³rbÃ¶Ã°in).", "Ankunftsort der FÃ¤hre zur Insel HrÃ­sey."],
-      hu: ["A Kaldi sÃ¶rfÅ‘zde otthona.", "Itt talÃ¡lhatÃ³ Izland elsÅ‘ sÃ¶rfÃ¼rdÅ‘je (BjÃ³rbÃ¶Ã°in).", "A HrÃ­sey-szigetre indulÃ³ komp kikÃ¶tÅ‘helye."],
-      ro: ["Casa berÄƒriei Kaldi.", "GÄƒzduieÈ™te prima baie de bere din Islanda (BjÃ³rbÃ¶Ã°in).", "Punctul de plecare pentru feribotul cÄƒtre insula HrÃ­sey."],
-      en: ["Home to the Kaldi brewery.", "Features Iceland's first beer spa (BjÃ³rbÃ¶Ã°in).", "Departure point for the HrÃ­sey island ferry."]
+      de: ["Heimat der Kaldi-Brauerei.", "Beherbergt das erste Bierbad Islands (Bjórböðin).", "Ankunftsort der Fähre zur Insel Hrísey."],
+      hu: ["A Kaldi sörf�?zde otthona.", "Itt található Izland els�? sörfürd�?je (Bjórböðin).", "A Hrísey-szigetre induló komp kiköt�?helye."],
+      ro: ["Casa ber�?riei Kaldi.", "G�?zduie�?te prima baie de bere din Islanda (Bjórböðin).", "Punctul de plecare pentru feribotul c�?tre insula Hrísey."],
+      en: ["Home to the Kaldi brewery.", "Features Iceland's first beer spa (Bjórböðin).", "Departure point for the Hrísey island ferry."]
     }
   },
   {
-    id: "city-skagastrÃ¶nd-is-008-extra",
+    id: "city-skagaströnd-is-008-extra",
     type: "city",
     parent: "IS-008",
     coords: [-20.3, 65.83],
-    name: { de: "SkagastrÃ¶nd", hu: "SkagastrÃ¶nd", ro: "SkagastrÃ¶nd", en: "SkagastrÃ¶nd" },
+    name: { de: "Skagaströnd", hu: "Skagaströnd", ro: "Skagaströnd", en: "Skagaströnd" },
     description: {
-      de: "Ein Fischerdorf mit einer langen Geschichte und kÃ¼nstlerischem Flair.",
-      hu: "HosszÃº mÃºltra visszatekintÅ‘ halÃ¡szfalu, mÅ±vÃ©szi hangulattal.",
-      ro: "Un sat de pescari cu o lungÄƒ istorie È™i fler artistic.",
+      de: "Ein Fischerdorf mit einer langen Geschichte und künstlerischem Flair.",
+      hu: "Hosszú múltra visszatekint�? halászfalu, művészi hangulattal.",
+      ro: "Un sat de pescari cu o lung�? istorie �?i fler artistic.",
       en: "A fishing town with a long history and a vibrant artistic community."
     },
     facts: {
-      de: ["Bekannt fÃ¼r die Prophetin ÃžÃ³rdÃ­s.", "Ein Zentrum fÃ¼r kÃ¼nstlerische Residenzen.", "Bietet tolle Ausblicke auf den HÃºnaflÃ³i."],
-      hu: ["ÃžÃ³rdÃ­s jÃ¶vendÅ‘mondÃ³rÃ³l is ismert.", "MÅ±vÃ©szeti rezidenciÃ¡k kÃ¶zpontja.", "NagyszerÅ± kilÃ¡tÃ¡st nyÃºjt a HÃºnaflÃ³i-Ã¶bÃ¶lre."],
-      ro: ["Cunoscut pentru profetesa ÃžÃ³rdÃ­s.", "Un centru pentru rezidenÈ›e artistice.", "OferÄƒ vederi minunate spre HÃºnaflÃ³i."],
-      en: ["Famous for the prophetess ÃžÃ³rdÃ­s.", "A hub for international artist residencies.", "Offers expansive views over HÃºnaflÃ³i."]
+      de: ["Bekannt für die Prophetin �?órdís.", "Ein Zentrum für künstlerische Residenzen.", "Bietet tolle Ausblicke auf den Húnaflói."],
+      hu: ["�?órdís jövend�?mondóról is ismert.", "Művészeti rezidenciák központja.", "Nagyszerű kilátást nyújt a Húnaflói-öbölre."],
+      ro: ["Cunoscut pentru profetesa �?órdís.", "Un centru pentru reziden�?e artistice.", "Ofer�? vederi minunate spre Húnaflói."],
+      en: ["Famous for the prophetess �?órdís.", "A hub for international artist residencies.", "Offers expansive views over Húnaflói."]
     }
   },
   {
@@ -1871,17 +1871,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.41, 65.9],
-    name: { de: "HofsÃ³s", hu: "HofsÃ³s", ro: "HofsÃ³s", en: "HofsÃ³s" },
+    name: { de: "Hofsós", hu: "Hofsós", ro: "Hofsós", en: "Hofsós" },
     description: {
-      de: "Ein idyllisches Dorf im SkagafjÃ¶rÃ°ur mit reicher Auswanderungsgeschichte.",
-      hu: "Idilli falu a SkagafjÃ¶rÃ°urban, gazdag kivÃ¡ndorlÃ¡si mÃºlttal.",
-      ro: "Un sat idilic Ã®n SkagafjÃ¶rÃ°ur cu o bogatÄƒ istorie a emigrÄƒrii.",
-      en: "An idyllic village in SkagafjÃ¶rÃ°ur with a deep history of emigration to North America."
+      de: "Ein idyllisches Dorf im Skagafjörður mit reicher Auswanderungsgeschichte.",
+      hu: "Idilli falu a Skagafjörðurban, gazdag kivándorlási múlttal.",
+      ro: "Un sat idilic în Skagafjörður cu o bogat�? istorie a emigr�?rii.",
+      en: "An idyllic village in Skagafjörður with a deep history of emigration to North America."
     },
     facts: {
-      de: ["Beherbergt historische HolzhÃ¤user.", "Das Schwimmbad ist architektonisch preisgekrÃ¶nt.", "Ein ruhiger und entspannender Ort."],
-      hu: ["TÃ¶rtÃ©nelmi fahÃ¡zaknak ad otthont.", "Az uszodÃ¡ja Ã©pÃ­tÃ©szeti dÃ­jat nyert.", "Csendes Ã©s pihentetÅ‘ hely."],
-      ro: ["GÄƒzduieÈ™te case istorice din lemn.", "Piscina sa a cÃ¢È™tigat premii de arhitecturÄƒ.", "Un loc liniÈ™tit È™i relaxant."],
+      de: ["Beherbergt historische Holzhäuser.", "Das Schwimmbad ist architektonisch preisgekrönt.", "Ein ruhiger und entspannender Ort."],
+      hu: ["Történelmi faházaknak ad otthont.", "Az uszodája építészeti díjat nyert.", "Csendes és pihentet�? hely."],
+      ro: ["G�?zduie�?te case istorice din lemn.", "Piscina sa a câ�?tigat premii de arhitectur�?.", "Un loc lini�?tit �?i relaxant."],
       en: ["Home to several historic wooden buildings.", "The swimming pool has won architectural awards.", "A peaceful and relaxing destination."]
     }
   },
@@ -1890,17 +1890,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.45, 65.45],
-    name: { de: "VarmahlÃ­Ã°", hu: "VarmahlÃ­Ã°", ro: "VarmahlÃ­Ã°", en: "VarmahlÃ­Ã°" },
+    name: { de: "Varmahlíð", hu: "Varmahlíð", ro: "Varmahlíð", en: "Varmahlíð" },
     description: {
-      de: "Ein wichtiger Knotenpunkt fÃ¼r Reisende im Norden Islands.",
-      hu: "Fontos csomÃ³pont az utazÃ³k szÃ¡mÃ¡ra Izland Ã©szaki rÃ©szÃ©n.",
-      ro: "Un nod important pentru cÄƒlÄƒtori Ã®n nordul Islandei.",
+      de: "Ein wichtiger Knotenpunkt für Reisende im Norden Islands.",
+      hu: "Fontos csomópont az utazók számára Izland északi részén.",
+      ro: "Un nod important pentru c�?l�?tori în nordul Islandei.",
       en: "A central hub for travelers in the northern part of Iceland."
     },
     facts: {
-      de: ["Zentrum fÃ¼r River Rafting-Touren.", "In der NÃ¤he gibt es viele Islandpferde-Farmen.", "Bietet einen botanischen Garten."],
-      hu: ["A vadvÃ­zi evezÅ‘s tÃºrÃ¡k kÃ¶zpontja.", "A kÃ¶zelben szÃ¡mos izlandi lovasfarm talÃ¡lhatÃ³.", "Botanikus kerttel is rendelkezik."],
-      ro: ["Centru pentru tururi de river rafting.", "ÃŽn apropiere sunt multe ferme de cai islandezi.", "Dispune de o grÄƒdinÄƒ botanicÄƒ."],
+      de: ["Zentrum für River Rafting-Touren.", "In der Nähe gibt es viele Islandpferde-Farmen.", "Bietet einen botanischen Garten."],
+      hu: ["A vadvízi evez�?s túrák központja.", "A közelben számos izlandi lovasfarm található.", "Botanikus kerttel is rendelkezik."],
+      ro: ["Centru pentru tururi de river rafting.", "�?n apropiere sunt multe ferme de cai islandezi.", "Dispune de o gr�?din�? botanic�?."],
       en: ["A center for white-water rafting tours.", "Surrounded by numerous Icelandic horse farms.", "Features a small botanical garden."]
     }
   },
@@ -1909,18 +1909,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.11, 65.73],
-    name: { de: "HÃ³lar", hu: "HÃ³lar", ro: "HÃ³lar", en: "HÃ³lar" },
+    name: { de: "Hólar", hu: "Hólar", ro: "Hólar", en: "Hólar" },
     description: {
-      de: "Ein Ort mit groÃŸer historischer und religiÃ¶ser Bedeutung.",
-      hu: "Nagy tÃ¶rtÃ©nelmi Ã©s vallÃ¡si jelentÅ‘sÃ©gÅ± telepÃ¼lÃ©s.",
-      ro: "O aÈ™ezare de mare importanÈ›Äƒ istoricÄƒ È™i religioasÄƒ.",
+      de: "Ein Ort mit gro�?er historischer und religiöser Bedeutung.",
+      hu: "Nagy történelmi és vallási jelent�?ségű település.",
+      ro: "O a�?ezare de mare importan�?�? istoric�? �?i religioas�?.",
       en: "A site of great historical and religious importance in North Iceland."
     },
     facts: {
-      de: ["Sitz der ersten Druckerei Islands.", "Ort der jÃ¤hrlichen HÃ³lar-Festspiele.", "Ein Zentrum fÃ¼r Pferdewissenschaften."],
-      hu: ["Itt mÅ±kÃ¶dÃ¶tt Izland elsÅ‘ nyomdÃ¡ja.", "Az Ã©venkÃ©nti HÃ³lar-fesztivÃ¡l helyszÃ­ne.", "A lovas tudomÃ¡nyok kÃ¶zpontja."],
-      ro: ["Sediul primei tipografii din Islanda.", "Locul festivalului anual HÃ³lar.", "Un centru pentru È™tiinÈ›e ecvestre."],
-      en: ["Site of the first printing press in Iceland.", "Host of the annual HÃ³lar Festival.", "A center for equine studies."]
+      de: ["Sitz der ersten Druckerei Islands.", "Ort der jährlichen Hólar-Festspiele.", "Ein Zentrum für Pferdewissenschaften."],
+      hu: ["Itt működött Izland els�? nyomdája.", "Az évenkénti Hólar-fesztivál helyszíne.", "A lovas tudományok központja."],
+      ro: ["Sediul primei tipografii din Islanda.", "Locul festivalului anual Hólar.", "Un centru pentru �?tiin�?e ecvestre."],
+      en: ["Site of the first printing press in Iceland.", "Host of the annual Hólar Festival.", "A center for equine studies."]
     }
   },
   {
@@ -1930,15 +1930,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.07, 63.83],
     name: { de: "Stokkseyri", hu: "Stokkseyri", ro: "Stokkseyri", en: "Stokkseyri" },
     description: {
-      de: "Ein KÃ¼stendorf bekannt fÃ¼r sein kulturelles Erbe.",
-      hu: "KulturÃ¡lis Ã¶rÃ¶ksÃ©gÃ©rÅ‘l ismert tengerparti falu.",
-      ro: "Un sat de coastÄƒ cunoscut pentru moÈ™tenirea sa culturalÄƒ.",
+      de: "Ein Küstendorf bekannt für sein kulturelles Erbe.",
+      hu: "Kulturális örökségér�?l ismert tengerparti falu.",
+      ro: "Un sat de coast�? cunoscut pentru mo�?tenirea sa cultural�?.",
       en: "A coastal village known for its rich cultural heritage and seafood."
     },
     facts: {
-      de: ["Bekannt fÃ¼r Kunstgalerien.", "Bietet gefÃ¼hrte Kajaktouren an.", "Ein ruhiges Ziel fÃ¼r Naturliebhaber."],
-      hu: ["MÅ±vÃ©szeti galÃ©riÃ¡irÃ³l ismert.", "Vezetett kajaktÃºrÃ¡kat kÃ­nÃ¡l.", "Csendes cÃ©lpont a termÃ©szet kedvelÅ‘inek."],
-      ro: ["Cunoscut pentru galeriile de artÄƒ.", "OferÄƒ tururi ghidate cu caiacul.", "O destinaÈ›ie liniÈ™titÄƒ pentru iubitorii de naturÄƒ."],
+      de: ["Bekannt für Kunstgalerien.", "Bietet geführte Kajaktouren an.", "Ein ruhiges Ziel für Naturliebhaber."],
+      hu: ["Művészeti galériáiról ismert.", "Vezetett kajaktúrákat kínál.", "Csendes célpont a természet kedvel�?inek."],
+      ro: ["Cunoscut pentru galeriile de art�?.", "Ofer�? tururi ghidate cu caiacul.", "O destina�?ie lini�?tit�? pentru iubitorii de natur�?."],
       en: ["Known for its art galleries.", "Offers guided kayaking tours.", "A peaceful destination for nature lovers."]
     }
   },
@@ -1947,18 +1947,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.41, 65.28],
-    name: { de: "FellabÃ¦r", hu: "FellabÃ¦r", ro: "FellabÃ¦r", en: "FellabÃ¦r" },
+    name: { de: "Fellabær", hu: "Fellabær", ro: "Fellabær", en: "Fellabær" },
     description: {
       de: "Eine ruhige Wohngegend mit Blick auf den Fluss.",
-      hu: "Nyugodt lakÃ³Ã¶vezet, kilÃ¡tÃ¡ssal a folyÃ³ra.",
-      ro: "O zonÄƒ rezidenÈ›ialÄƒ liniÈ™titÄƒ, cu vedere la rÃ¢u.",
+      hu: "Nyugodt lakóövezet, kilátással a folyóra.",
+      ro: "O zon�? reziden�?ial�? lini�?tit�?, cu vedere la râu.",
       en: "A peaceful residential area with scenic river views."
     },
     facts: {
-      de: ["Teil des wachsenden EgilsstaÃ°ir-Gebiets.", "Bietet Wanderwege am Ufer.", "Ideal fÃ¼r Familien."],
-      hu: ["A nÃ¶vekvÅ‘ EgilsstaÃ°ir-tÃ©rsÃ©g rÃ©sze.", "VÃ­zparti tÃºraÃºtvonalakat kÃ­nÃ¡l.", "IdeÃ¡lis csalÃ¡dok szÃ¡mÃ¡ra."],
-      ro: ["Parte a zonei Ã®n creÈ™tere EgilsstaÃ°ir.", "OferÄƒ poteci de drumeÈ›ie pe malul apei.", "Ideal pentru familii."],
-      en: ["Part of the expanding EgilsstaÃ°ir area.", "Offers waterfront hiking trails.", "Ideal for families."]
+      de: ["Teil des wachsenden Egilsstaðir-Gebiets.", "Bietet Wanderwege am Ufer.", "Ideal für Familien."],
+      hu: ["A növekv�? Egilsstaðir-térség része.", "Vízparti túraútvonalakat kínál.", "Ideális családok számára."],
+      ro: ["Parte a zonei în cre�?tere Egilsstaðir.", "Ofer�? poteci de drume�?ie pe malul apei.", "Ideal pentru familii."],
+      en: ["Part of the expanding Egilsstaðir area.", "Offers waterfront hiking trails.", "Ideal for families."]
     }
   },
   {
@@ -1966,36 +1966,36 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.39, 65.27],
-    name: { de: "FellabÃ¦r", hu: "FellabÃ¦r", ro: "FellabÃ¦r", en: "FellabÃ¦r" },
+    name: { de: "Fellabær", hu: "Fellabær", ro: "Fellabær", en: "Fellabær" },
     description: {
-      de: "Eine freundliche Gemeinde am Fluss LagarfljÃ³t.",
-      hu: "BarÃ¡tsÃ¡gos kÃ¶zÃ¶ssÃ©g a LagarfljÃ³t-folyÃ³ partjÃ¡n.",
-      ro: "O comunitate prietenoasÄƒ pe rÃ¢ul LagarfljÃ³t.",
-      en: "A friendly community situated on the banks of the LagarfljÃ³t river."
+      de: "Eine freundliche Gemeinde am Fluss Lagarfljót.",
+      hu: "Barátságos közösség a Lagarfljót-folyó partján.",
+      ro: "O comunitate prietenoas�? pe râul Lagarfljót.",
+      en: "A friendly community situated on the banks of the Lagarfljót river."
     },
     facts: {
-      de: ["Ein wichtiger Teil der MÃºlaÃ¾ing-Region.", "Bietet einen einfachen Zugang zur Natur.", "Bekannt fÃ¼r seine ruhige Lage."],
-      hu: ["A MÃºlaÃ¾ing-rÃ©giÃ³ fontos rÃ©sze.", "KÃ¶nnyÅ± hozzÃ¡fÃ©rÃ©st biztosÃ­t a termÃ©szethez.", "Nyugodt fekvÃ©sÃ©rÅ‘l ismert."],
-      ro: ["O parte importantÄƒ a regiunii MÃºlaÃ¾ing.", "OferÄƒ acces uÈ™or la naturÄƒ.", "Cunoscut pentru locaÈ›ia sa liniÈ™titÄƒ."],
-      en: ["A key part of the MÃºlaÃ¾ing region.", "Provides easy access to nature.", "Known for its peaceful location."]
+      de: ["Ein wichtiger Teil der Múlaþing-Region.", "Bietet einen einfachen Zugang zur Natur.", "Bekannt für seine ruhige Lage."],
+      hu: ["A Múlaþing-régió fontos része.", "Könnyű hozzáférést biztosít a természethez.", "Nyugodt fekvésér�?l ismert."],
+      ro: ["O parte important�? a regiunii Múlaþing.", "Ofer�? acces u�?or la natur�?.", "Cunoscut pentru loca�?ia sa lini�?tit�?."],
+      en: ["A key part of the Múlaþing region.", "Provides easy access to nature.", "Known for its peaceful location."]
     }
   },
   {
-    id: "city-skagastrÃ¶nd-north-extra",
+    id: "city-skagaströnd-north-extra",
     type: "city",
     parent: "IS-008",
     coords: [-20.31, 65.84],
-    name: { de: "SkagastrÃ¶nd", hu: "SkagastrÃ¶nd", ro: "SkagastrÃ¶nd", en: "SkagastrÃ¶nd" },
+    name: { de: "Skagaströnd", hu: "Skagaströnd", ro: "Skagaströnd", en: "Skagaströnd" },
     description: {
-      de: "Ein malerisches Dorf an der OstkÃ¼ste des HÃºnaflÃ³i.",
-      hu: "FestÅ‘i falu a HÃºnaflÃ³i keleti partjÃ¡n.",
-      ro: "Un sat pitoresc pe coasta de est a HÃºnaflÃ³i.",
-      en: "A scenic village on the eastern shore of HÃºnaflÃ³i."
+      de: "Ein malerisches Dorf an der Ostküste des Húnaflói.",
+      hu: "Fest�?i falu a Húnaflói keleti partján.",
+      ro: "Un sat pitoresc pe coasta de est a Húnaflói.",
+      en: "A scenic village on the eastern shore of Húnaflói."
     },
     facts: {
-      de: ["Bietet spektakulÃ¤re SonnenuntergÃ¤nge.", "Ein ruhiger Ort fÃ¼r Erholungssuchende.", "Umgeben von fischreichen GewÃ¤ssern."],
-      hu: ["LÃ¡tvÃ¡nyos naplementÃ©ket kÃ­nÃ¡l.", "Nyugodt hely a kikapcsolÃ³dni vÃ¡gyÃ³knak.", "Halban gazdag vizek veszik kÃ¶rÃ¼l."],
-      ro: ["OferÄƒ apusuri spectaculoase.", "Un loc liniÈ™tit pentru cei care cautÄƒ relaxare.", "ÃŽnconjurat de ape bogate Ã®n peÈ™te."],
+      de: ["Bietet spektakuläre Sonnenuntergänge.", "Ein ruhiger Ort für Erholungssuchende.", "Umgeben von fischreichen Gewässern."],
+      hu: ["Látványos naplementéket kínál.", "Nyugodt hely a kikapcsolódni vágyóknak.", "Halban gazdag vizek veszik körül."],
+      ro: ["Ofer�? apusuri spectaculoase.", "Un loc lini�?tit pentru cei care caut�? relaxare.", "�?nconjurat de ape bogate în pe�?te."],
       en: ["Offers spectacular sunsets.", "A peaceful spot for those seeking relaxation.", "Surrounded by fish-rich waters."]
     }
   },
@@ -2004,17 +2004,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.64, 65.74],
-    name: { de: "SauÃ°Ã¡rkrÃ³kur", hu: "SauÃ°Ã¡rkrÃ³kur", ro: "SauÃ°Ã¡rkrÃ³kur", en: "SauÃ°Ã¡rkrÃ³kur" },
+    name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur" },
     description: {
-      de: "Eine Stadt bekannt fÃ¼r ihre Verbindung zum SkagafjÃ¶rÃ°ur.",
-      hu: "A SkagafjÃ¶rÃ°ur-hÃ¶z fÅ±zÅ‘dÅ‘ kapcsolatairÃ³l ismert vÃ¡ros.",
-      ro: "Un oraÈ™ cunoscut pentru legÄƒtura sa cu SkagafjÃ¶rÃ°ur.",
-      en: "A town known for its strong ties to the SkagafjÃ¶rÃ°ur fjord."
+      de: "Eine Stadt bekannt für ihre Verbindung zum Skagafjörður.",
+      hu: "A Skagafjörður-höz fűz�?d�? kapcsolatairól ismert város.",
+      ro: "Un ora�? cunoscut pentru leg�?tura sa cu Skagafjörður.",
+      en: "A town known for its strong ties to the Skagafjörður fjord."
     },
     facts: {
-      de: ["Ein Zentrum fÃ¼r lokale Kultur.", "Beliebt bei Reitbegeisterten.", "Bietet alle modernen Annehmlichkeiten."],
-      hu: ["A helyi kultÃºra kÃ¶zpontja.", "NÃ©pszerÅ± a lovaglÃ¡s kedvelÅ‘i kÃ¶rÃ©ben.", "Minden modern kÃ©nyelmet biztosÃ­t."],
-      ro: ["Un centru pentru cultura localÄƒ.", "Popular printre pasionaÈ›ii de cÄƒlÄƒrie.", "OferÄƒ toate facilitÄƒÈ›ile moderne."],
+      de: ["Ein Zentrum für lokale Kultur.", "Beliebt bei Reitbegeisterten.", "Bietet alle modernen Annehmlichkeiten."],
+      hu: ["A helyi kultúra központja.", "Népszerű a lovaglás kedvel�?i körében.", "Minden modern kényelmet biztosít."],
+      ro: ["Un centru pentru cultura local�?.", "Popular printre pasiona�?ii de c�?l�?rie.", "Ofer�? toate facilit�?�?ile moderne."],
       en: ["A hub for local culture.", "Popular with horseback riding enthusiasts.", "Provides all modern amenities."]
     }
   },
@@ -2023,17 +2023,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-20.29, 65.65],
-    name: { de: "BlÃ¶nduÃ³s", hu: "BlÃ¶nduÃ³s", ro: "BlÃ¶nduÃ³s", en: "BlÃ¶nduÃ³s" },
+    name: { de: "Blönduós", hu: "Blönduós", ro: "Blönduós", en: "Blönduós" },
     description: {
       de: "Ein wichtiger Standort im Norden Islands.",
-      hu: "Fontos telepÃ¼lÃ©s Izland Ã©szaki rÃ©szÃ©n.",
-      ro: "O locaÈ›ie importantÄƒ Ã®n nordul Islandei.",
+      hu: "Fontos település Izland északi részén.",
+      ro: "O loca�?ie important�? în nordul Islandei.",
       en: "A key location in North Iceland situated on the Ring Road."
     },
     facts: {
-      de: ["Bekannt fÃ¼r Fischerei im Fluss Blanda.", "Bietet Dienstleistungen fÃ¼r Touristen.", "Ein schÃ¶ner Ort am Ozean."],
-      hu: ["A Blanda-folyÃ³ horgÃ¡szatÃ¡rÃ³l ismert.", "Turisztikai szolgÃ¡ltatÃ¡sokat kÃ­nÃ¡l.", "SzÃ©p telepÃ¼lÃ©s az Ã³ceÃ¡n partjÃ¡n."],
-      ro: ["Cunoscut pentru pescuitul Ã®n rÃ¢ul Blanda.", "OferÄƒ servicii pentru turiÈ™ti.", "Un loc frumos la ocean."],
+      de: ["Bekannt für Fischerei im Fluss Blanda.", "Bietet Dienstleistungen für Touristen.", "Ein schöner Ort am Ozean."],
+      hu: ["A Blanda-folyó horgászatáról ismert.", "Turisztikai szolgáltatásokat kínál.", "Szép település az óceán partján."],
+      ro: ["Cunoscut pentru pescuitul în râul Blanda.", "Ofer�? servicii pentru turi�?ti.", "Un loc frumos la ocean."],
       en: ["Known for fishing in the Blanda river.", "Provides essential services for tourists.", "A beautiful spot by the ocean."]
     }
   },
@@ -2042,17 +2042,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-008",
     coords: [-19.46, 65.46],
-    name: { de: "VarmahlÃ­Ã°", hu: "VarmahlÃ­Ã°", ro: "VarmahlÃ­Ã°", en: "VarmahlÃ­Ã°" },
+    name: { de: "Varmahlíð", hu: "Varmahlíð", ro: "Varmahlíð", en: "Varmahlíð" },
     description: {
-      de: "Ein kleiner, aber wichtiger Ort fÃ¼r Reisende.",
-      hu: "Kicsi, de fontos telepÃ¼lÃ©s az utazÃ³k szÃ¡mÃ¡ra.",
-      ro: "O micÄƒ, dar importantÄƒ aÈ™ezare pentru cÄƒlÄƒtori.",
+      de: "Ein kleiner, aber wichtiger Ort für Reisende.",
+      hu: "Kicsi, de fontos település az utazók számára.",
+      ro: "O mic�?, dar important�? a�?ezare pentru c�?l�?tori.",
       en: "A small but essential stop for travelers in North Iceland."
     },
     facts: {
-      de: ["Bietet Informationen Ã¼ber den Norden.", "Ein guter Ausgangspunkt fÃ¼r Exkursionen.", "Bekannt fÃ¼r seine Gastfreundschaft."],
-      hu: ["InformÃ¡ciÃ³kat nyÃºjt Ã©szakrÃ³l.", "JÃ³ kiindulÃ³pont a kirÃ¡ndulÃ¡sokhoz.", "VendÃ©gszeretetÃ©rÅ‘l ismert."],
-      ro: ["OferÄƒ informaÈ›ii despre nord.", "Un bun punct de plecare pentru excursii.", "Cunoscut pentru hospitalitatea sa."],
+      de: ["Bietet Informationen über den Norden.", "Ein guter Ausgangspunkt für Exkursionen.", "Bekannt für seine Gastfreundschaft."],
+      hu: ["Információkat nyújt északról.", "Jó kiindulópont a kirándulásokhoz.", "Vendégszeretetér�?l ismert."],
+      ro: ["Ofer�? informa�?ii despre nord.", "Un bun punct de plecare pentru excursii.", "Cunoscut pentru hospitalitatea sa."],
       en: ["Provides information about the north.", "A good starting point for excursions.", "Known for its hospitality."]
     }
   },
@@ -2064,14 +2064,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Hvammstangi", hu: "Hvammstangi", ro: "Hvammstangi", en: "Hvammstangi" },
     description: {
       de: "Ein Dorf im Nordwesten, das Reisenden viel zu bieten hat.",
-      hu: "Ã‰szaknyugati falu, amely sokat kÃ­nÃ¡l az utazÃ³knak.",
-      ro: "Un sat din nord-vest care are multe de oferit cÄƒlÄƒtorilor.",
+      hu: "�?szaknyugati falu, amely sokat kínál az utazóknak.",
+      ro: "Un sat din nord-vest care are multe de oferit c�?l�?torilor.",
       en: "A village in the northwest with plenty to offer to travelers."
     },
     facts: {
-      de: ["BerÃ¼hmt fÃ¼r Robbenbeobachtung.", "Hat ein schÃ¶nes Schwimmbad.", "Bietet vielfÃ¤ltige Dienstleistungen."],
-      hu: ["HÃ­res a fÃ³kamegfigyelÃ©srÅ‘l.", "SzÃ©p ÃºszÃ³medencÃ©je van.", "VÃ¡ltozatos szolgÃ¡ltatÃ¡sokat kÃ­nÃ¡l."],
-      ro: ["Faimos pentru observarea focilor.", "Are o piscinÄƒ frumoasÄƒ.", "OferÄƒ servicii variate."],
+      de: ["Berühmt für Robbenbeobachtung.", "Hat ein schönes Schwimmbad.", "Bietet vielfältige Dienstleistungen."],
+      hu: ["Híres a fókamegfigyelésr�?l.", "Szép úszómedencéje van.", "Változatos szolgáltatásokat kínál."],
+      ro: ["Faimos pentru observarea focilor.", "Are o piscin�? frumoas�?.", "Ofer�? servicii variate."],
       en: ["Famous for seal watching.", "Has a beautiful swimming pool.", "Offers diverse services."]
     }
   },
@@ -2080,17 +2080,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-16.9, 65.65],
-    name: { de: "ReykjahlÃ­Ã°", hu: "ReykjahlÃ­Ã°", ro: "ReykjahlÃ­Ã°", en: "ReykjahlÃ­Ã°" },
+    name: { de: "Reykjahlíð", hu: "Reykjahlíð", ro: "Reykjahlíð", en: "Reykjahlíð" },
     description: {
-      de: "Ein Ort am MÃ½vatn-See, ideal fÃ¼r Naturliebhaber.",
-      hu: "A MÃ½vatn-tÃ³ partjÃ¡n fekvÅ‘ telepÃ¼lÃ©s, ideÃ¡lis a termÃ©szet kedvelÅ‘inek.",
-      ro: "O aÈ™ezare pe malul lacului MÃ½vatn, idealÄƒ pentru iubitorii de naturÄƒ.",
-      en: "A settlement on Lake MÃ½vatn, ideal for nature enthusiasts."
+      de: "Ein Ort am Mývatn-See, ideal für Naturliebhaber.",
+      hu: "A Mývatn-tó partján fekv�? település, ideális a természet kedvel�?inek.",
+      ro: "O a�?ezare pe malul lacului Mývatn, ideal�? pentru iubitorii de natur�?.",
+      en: "A settlement on Lake Mývatn, ideal for nature enthusiasts."
     },
     facts: {
-      de: ["Nahe an vulkanischen Kratern.", "Bietet UnterkÃ¼nfte und Restaurants.", "Ein lebhafter Ort im Sommer."],
-      hu: ["VulkÃ¡ni krÃ¡terek kÃ¶zelÃ©ben fekszik.", "SzÃ¡llÃ¡st Ã©s Ã©ttermeket kÃ­nÃ¡l.", "NyÃ¡ron Ã©lÃ©nk telepÃ¼lÃ©s."],
-      ro: ["Aproape de cratere vulcanice.", "OferÄƒ cazare È™i restaurante.", "Un loc plin de viaÈ›Äƒ vara."],
+      de: ["Nahe an vulkanischen Kratern.", "Bietet Unterkünfte und Restaurants.", "Ein lebhafter Ort im Sommer."],
+      hu: ["Vulkáni kráterek közelében fekszik.", "Szállást és éttermeket kínál.", "Nyáron élénk település."],
+      ro: ["Aproape de cratere vulcanice.", "Ofer�? cazare �?i restaurante.", "Un loc plin de via�?�? vara."],
       en: ["Close to volcanic craters.", "Provides accommodation and restaurants.", "A lively spot during summer."]
     }
   },
@@ -2102,14 +2102,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Laugar", hu: "Laugar", ro: "Laugar", en: "Laugar" },
     description: {
       de: "Ein kleiner Bildungs- und Dienstleistungsort.",
-      hu: "Kis oktatÃ¡si Ã©s szolgÃ¡ltatÃ³ kÃ¶zpont.",
-      ro: "Un mic centru de educaÈ›ie È™i servicii.",
+      hu: "Kis oktatási és szolgáltató központ.",
+      ro: "Un mic centru de educa�?ie �?i servicii.",
       en: "A small educational and service center in Northeast Iceland."
     },
     facts: {
-      de: ["Bekannt fÃ¼r sein Sportzentrum.", "Ein geothermischer Ort.", "Ruhige Umgebung."],
-      hu: ["SportkÃ¶zpontjÃ¡rÃ³l ismert.", "Geotermikus telepÃ¼lÃ©s.", "Csendes kÃ¶rnyezet."],
-      ro: ["Cunoscut pentru centrul sÄƒu sportiv.", "O locaÈ›ie geotermalÄƒ.", "Mediu liniÈ™tit."],
+      de: ["Bekannt für sein Sportzentrum.", "Ein geothermischer Ort.", "Ruhige Umgebung."],
+      hu: ["Sportközpontjáról ismert.", "Geotermikus település.", "Csendes környezet."],
+      ro: ["Cunoscut pentru centrul s�?u sportiv.", "O loca�?ie geotermal�?.", "Mediu lini�?tit."],
       en: ["Known for its sports center.", "A geothermal location.", "Quiet surroundings."]
     }
   },
@@ -2118,7 +2118,7 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-16.44, 66.31],
-    name: { de: "KÃ³pasker", hu: "KÃ³pasker", ro: "KÃ³pasker", en: "KÃ³pasker" },
+    name: { de: "Kópasker", hu: "Kópasker", ro: "Kópasker", en: "Kópasker" },
     description: {
       de: "Ein entlegenes Dorf mit maritimem Charakter.",
       hu: "Elszigetelt falu, tengerparti jelleggel.",
@@ -2126,9 +2126,9 @@ export const poiExtraIcelandCities: POI[] = [
       en: "A remote village with a strong maritime character."
     },
     facts: {
-      de: ["Ein Ort fÃ¼r authentische Erfahrungen.", "Bekannt fÃ¼r Naturerlebnisse.", "Ein Zentrum der Schafhaltung."],
-      hu: ["Autentikus Ã©lmÃ©nyeket kÃ­nÃ¡l.", "TermÃ©szeti Ã©lmÃ©nyeirÅ‘l ismert.", "JuhtenyÃ©sztÃ©si kÃ¶zpont."],
-      ro: ["OferÄƒ experienÈ›e autentice.", "Cunoscut pentru experienÈ›e Ã®n naturÄƒ.", "Un centru al creÈ™terii oilor."],
+      de: ["Ein Ort für authentische Erfahrungen.", "Bekannt für Naturerlebnisse.", "Ein Zentrum der Schafhaltung."],
+      hu: ["Autentikus élményeket kínál.", "Természeti élményeir�?l ismert.", "Juhtenyésztési központ."],
+      ro: ["Ofer�? experien�?e autentice.", "Cunoscut pentru experien�?e în natur�?.", "Un centru al cre�?terii oilor."],
       en: ["Offers authentic experiences.", "Known for nature experiences.", "A hub for sheep farming."]
     }
   },
@@ -2137,17 +2137,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-15.32, 66.21],
-    name: { de: "ÃžÃ³rshÃ¶fn", hu: "ÃžÃ³rshÃ¶fn", ro: "ÃžÃ³rshÃ¶fn", en: "ÃžÃ³rshÃ¶fn" },
+    name: { de: "�?órshöfn", hu: "�?órshöfn", ro: "�?órshöfn", en: "�?órshöfn" },
     description: {
       de: "Ein wichtiges Fischerdorf im hohen Norden.",
-      hu: "Fontos halÃ¡szfalu a tÃ¡voli Ã©szakon.",
-      ro: "Un sat de pescari important Ã®n nordul Ã®ndepÄƒrtat.",
+      hu: "Fontos halászfalu a távoli északon.",
+      ro: "Un sat de pescari important în nordul îndep�?rtat.",
       en: "An important fishing village in the far north of Iceland."
     },
     facts: {
-      de: ["Ein Tor zur Arktis.", "Bietet Dienstleistungen fÃ¼r Reisende.", "Bekannt fÃ¼r Fischverarbeitung."],
-      hu: ["Kapu az Arktisz felÃ©.", "SzolgÃ¡ltatÃ¡sokat kÃ­nÃ¡l az utazÃ³knak.", "Hal-feldolgozÃ¡sÃ¡rÃ³l ismert."],
-      ro: ["O poartÄƒ cÄƒtre Arctica.", "OferÄƒ servicii pentru cÄƒlÄƒtori.", "Cunoscut pentru procesarea peÈ™telui."],
+      de: ["Ein Tor zur Arktis.", "Bietet Dienstleistungen für Reisende.", "Bekannt für Fischverarbeitung."],
+      hu: ["Kapu az Arktisz felé.", "Szolgáltatásokat kínál az utazóknak.", "Hal-feldolgozásáról ismert."],
+      ro: ["O poart�? c�?tre Arctica.", "Ofer�? servicii pentru c�?l�?tori.", "Cunoscut pentru procesarea pe�?telui."],
       en: ["A gateway to the Arctic.", "Provides services for travelers.", "Known for fish processing."]
     }
   },
@@ -2156,17 +2156,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-15.94, 66.44],
-    name: { de: "RaufarhÃ¶fn", hu: "RaufarhÃ¶fn", ro: "RaufarhÃ¶fn", en: "RaufarhÃ¶fn" },
+    name: { de: "Raufarhöfn", hu: "Raufarhöfn", ro: "Raufarhöfn", en: "Raufarhöfn" },
     description: {
-      de: "Ein Dorf, das eine mystische AtmosphÃ¤re ausstrahlt.",
-      hu: "Misztikus hangulatot Ã¡rasztÃ³ telepÃ¼lÃ©s.",
-      ro: "Un sat care emanÄƒ o atmosferÄƒ misticÄƒ.",
+      de: "Ein Dorf, das eine mystische Atmosphäre ausstrahlt.",
+      hu: "Misztikus hangulatot árasztó település.",
+      ro: "Un sat care eman�? o atmosfer�? mistic�?.",
       en: "A village that exudes a mystical atmosphere near the Arctic Circle."
     },
     facts: {
-      de: ["Ort des Arctic Henge.", "FrÃ¼her ein Zentrum des Heringsbooms.", "Sehr abgelegen."],
-      hu: ["Az Arctic Henge helyszÃ­ne.", "Egykor a hering-bumm kÃ¶zpontja volt.", "Nagyon elszigetelt."],
-      ro: ["Locul unde se aflÄƒ Arctic Henge.", "Fost centru al boom-ului heringului.", "Foarte izolat."],
+      de: ["Ort des Arctic Henge.", "Früher ein Zentrum des Heringsbooms.", "Sehr abgelegen."],
+      hu: ["Az Arctic Henge helyszíne.", "Egykor a hering-bumm központja volt.", "Nagyon elszigetelt."],
+      ro: ["Locul unde se afl�? Arctic Henge.", "Fost centru al boom-ului heringului.", "Foarte izolat."],
       en: ["Site of the Arctic Henge.", "Former center of the herring boom.", "Very remote location."]
     }
   },
@@ -2175,17 +2175,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.11, 65.94],
-    name: { de: "GrenivÃ­k", hu: "GrenivÃ­k", ro: "GrenivÃ­k", en: "GrenivÃ­k" },
+    name: { de: "Grenivík", hu: "Grenivík", ro: "Grenivík", en: "Grenivík" },
     description: {
-      de: "Ein friedlicher Ort am Nordufer des EyjafjÃ¶rÃ°ur.",
-      hu: "BÃ©kÃ©s telepÃ¼lÃ©s az EyjafjÃ¶rÃ°ur Ã©szaki partjÃ¡n.",
-      ro: "O aÈ™ezare liniÈ™titÄƒ pe malul nordic al fiordului EyjafjÃ¶rÃ°ur.",
-      en: "A peaceful settlement on the northern shore of EyjafjÃ¶rÃ°ur."
+      de: "Ein friedlicher Ort am Nordufer des Eyjafjörður.",
+      hu: "Békés település az Eyjafjörður északi partján.",
+      ro: "O a�?ezare lini�?tit�? pe malul nordic al fiordului Eyjafjörður.",
+      en: "A peaceful settlement on the northern shore of Eyjafjörður."
     },
     facts: {
       de: ["Bietet Ruhe und Abgeschiedenheit.", "Ein guter Ort zum Wandern.", "Blick auf den Fjord."],
-      hu: ["Nyugalmat Ã©s elszigeteltsÃ©get kÃ­nÃ¡l.", "JÃ³ hely a tÃºrÃ¡zÃ¡shoz.", "KilÃ¡tÃ¡s a fjordra."],
-      ro: ["OferÄƒ liniÈ™te È™i izolare.", "Un loc bun pentru drumeÈ›ii.", "Vedere spre fiord."],
+      hu: ["Nyugalmat és elszigeteltséget kínál.", "Jó hely a túrázáshoz.", "Kilátás a fjordra."],
+      ro: ["Ofer�? lini�?te �?i izolare.", "Un loc bun pentru drume�?ii.", "Vedere spre fiord."],
       en: ["Offers peace and seclusion.", "A good spot for hiking.", "Scenic fjord views."]
     }
   },
@@ -2194,18 +2194,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.52, 65.97],
-    name: { de: "DalvÃ­k", hu: "DalvÃ­k", ro: "DalvÃ­k", en: "DalvÃ­k" },
+    name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík" },
     description: {
       de: "Ein lebhaftes Dorf mit Fokus auf das Meer.",
-      hu: "Ã‰lÃ©nk telepÃ¼lÃ©s, fÃ³kuszban a tengerrel.",
-      ro: "O aÈ™ezare plinÄƒ de viaÈ›Äƒ, axatÄƒ pe mare.",
+      hu: "�?lénk település, fókuszban a tengerrel.",
+      ro: "O a�?ezare plin�? de via�?�?, axat�? pe mare.",
       en: "A lively town with a focus on maritime activities."
     },
     facts: {
-      de: ["Tor zu HrÃ­sey und GrÃ­msey.", "Bekannt fÃ¼r Fischerei.", "SchÃ¶ne Berglandschaft."],
-      hu: ["HrÃ­sey Ã©s GrÃ­msey kapuja.", "HalÃ¡szatÃ¡rÃ³l ismert.", "SzÃ©p hegyi tÃ¡j."],
-      ro: ["Poarta cÄƒtre HrÃ­sey È™i GrÃ­msey.", "Cunoscut pentru pescuit.", "Peisaj montan frumos."],
-      en: ["Gateway to HrÃ­sey and GrÃ­msey islands.", "Famous for its fishing industry.", "Beautiful mountain surroundings."]
+      de: ["Tor zu Hrísey und Grímsey.", "Bekannt für Fischerei.", "Schöne Berglandschaft."],
+      hu: ["Hrísey és Grímsey kapuja.", "Halászatáról ismert.", "Szép hegyi táj."],
+      ro: ["Poarta c�?tre Hrísey �?i Grímsey.", "Cunoscut pentru pescuit.", "Peisaj montan frumos."],
+      en: ["Gateway to Hrísey and Grímsey islands.", "Famous for its fishing industry.", "Beautiful mountain surroundings."]
     }
   },
   {
@@ -2213,18 +2213,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.64, 66.07],
-    name: { de: "Ã“lafsfjÃ¶rÃ°ur", hu: "Ã“lafsfjÃ¶rÃ°ur", ro: "Ã“lafsfjÃ¶rÃ°ur", en: "Ã“lafsfjÃ¶rÃ°ur" },
+    name: { de: "�?lafsfjörður", hu: "�?lafsfjörður", ro: "�?lafsfjörður", en: "�?lafsfjörður" },
     description: {
-      de: "Ein Ort bekannt fÃ¼r seine WintersportmÃ¶glichkeiten.",
-      hu: "TÃ©li sportolÃ¡si lehetÅ‘sÃ©geirÅ‘l ismert telepÃ¼lÃ©s.",
-      ro: "O aÈ™ezare cunoscutÄƒ pentru oportunitÄƒÈ›ile sale de sporturi de iarnÄƒ.",
+      de: "Ein Ort bekannt für seine Wintersportmöglichkeiten.",
+      hu: "Téli sportolási lehet�?ségeir�?l ismert település.",
+      ro: "O a�?ezare cunoscut�? pentru oportunit�?�?ile sale de sporturi de iarn�?.",
       en: "A town famous for its winter sports and skiing opportunities."
     },
     facts: {
-      de: ["Teil von FjallabyggÃ°.", "Ein Fischereizentrum.", "SchÃ¶ne Fjordlage."],
-      hu: ["FjallabyggÃ° rÃ©sze.", "HalÃ¡szati kÃ¶zpont.", "SzÃ©p fjord-fekvÃ©s."],
-      ro: ["Parte din FjallabyggÃ°.", "Un centru pescÄƒresc.", "LocaÈ›ie frumoasÄƒ pe fiord."],
-      en: ["Part of the FjallabyggÃ° municipality.", "A regional fishing hub.", "Beautifully situated on a fjord."]
+      de: ["Teil von Fjallabyggð.", "Ein Fischereizentrum.", "Schöne Fjordlage."],
+      hu: ["Fjallabyggð része.", "Halászati központ.", "Szép fjord-fekvés."],
+      ro: ["Parte din Fjallabyggð.", "Un centru pesc�?resc.", "Loca�?ie frumoas�? pe fiord."],
+      en: ["Part of the Fjallabyggð municipality.", "A regional fishing hub.", "Beautifully situated on a fjord."]
     }
   },
   {
@@ -2232,17 +2232,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.9, 66.16],
-    name: { de: "SiglufjÃ¶rÃ°ur", hu: "SiglufjÃ¶rÃ°ur", ro: "SiglufjÃ¶rÃ°ur", en: "SiglufjÃ¶rÃ°ur" },
+    name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður" },
     description: {
       de: "Eine Stadt mit einer glanzvollen Fischereivergangenheit.",
-      hu: "VÃ¡ros ragyogÃ³ halÃ¡szati mÃºlttal.",
-      ro: "Un oraÈ™ cu un trecut pescÄƒresc strÄƒlucit.",
+      hu: "Város ragyogó halászati múlttal.",
+      ro: "Un ora�? cu un trecut pesc�?resc str�?lucit.",
       en: "A town with a illustrious fishing past and vibrant present."
     },
     facts: {
-      de: ["Ein wichtiges touristisches Ziel.", "Bekannt fÃ¼r Museen.", "Bietet kulturelle Veranstaltungen."],
-      hu: ["Fontos turisztikai cÃ©lpont.", "MÃºzeumairÃ³l ismert.", "KulturÃ¡lis rendezvÃ©nyeket kÃ­nÃ¡l."],
-      ro: ["O destinaÈ›ie turisticÄƒ importantÄƒ.", "Cunoscut pentru muzee.", "OferÄƒ evenimente culturale."],
+      de: ["Ein wichtiges touristisches Ziel.", "Bekannt für Museen.", "Bietet kulturelle Veranstaltungen."],
+      hu: ["Fontos turisztikai célpont.", "Múzeumairól ismert.", "Kulturális rendezvényeket kínál."],
+      ro: ["O destina�?ie turistic�? important�?.", "Cunoscut pentru muzee.", "Ofer�? evenimente culturale."],
       en: ["A major tourist destination.", "Famous for its museums.", "Host to various cultural events."]
     }
   },
@@ -2253,15 +2253,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-18.21, 65.84],
     name: { de: "Hjalteyri", hu: "Hjalteyri", ro: "Hjalteyri", en: "Hjalteyri" },
     description: {
-      de: "Ein Ort mit industriellem Charme am EyjafjÃ¶rÃ°ur.",
-      hu: "Ipari bÃ¡jjal rendelkezÅ‘ telepÃ¼lÃ©s az EyjafjÃ¶rÃ°ur partjÃ¡n.",
-      ro: "O aÈ™ezare cu farmec industrial pe EyjafjÃ¶rÃ°ur.",
-      en: "A settlement with industrial charm located on EyjafjÃ¶rÃ°ur."
+      de: "Ein Ort mit industriellem Charme am Eyjafjörður.",
+      hu: "Ipari bájjal rendelkez�? település az Eyjafjörður partján.",
+      ro: "O a�?ezare cu farmec industrial pe Eyjafjörður.",
+      en: "A settlement with industrial charm located on Eyjafjörður."
     },
     facts: {
-      de: ["Beliebt bei Tauchern.", "Historische Heringsfabrik.", "Ruhige AtmosphÃ¤re."],
-      hu: ["NÃ©pszerÅ± a bÃºvÃ¡rok kÃ¶rÃ©ben.", "TÃ¶rtÃ©nelmi heringgyÃ¡r.", "Nyugodt lÃ©gkÃ¶r."],
-      ro: ["Popular printre scafandri.", "FabricÄƒ de hering istoricÄƒ.", "AtmosferÄƒ liniÈ™titÄƒ."],
+      de: ["Beliebt bei Tauchern.", "Historische Heringsfabrik.", "Ruhige Atmosphäre."],
+      hu: ["Népszerű a búvárok körében.", "Történelmi heringgyár.", "Nyugodt légkör."],
+      ro: ["Popular printre scafandri.", "Fabric�? de hering istoric�?.", "Atmosfer�? lini�?tit�?."],
       en: ["Popular among scuba divers.", "Historic herring factory site.", "Quiet and peaceful atmosphere."]
     }
   },
@@ -2272,15 +2272,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-18.31, 65.92],
     name: { de: "Hauganes", hu: "Hauganes", ro: "Hauganes", en: "Hauganes" },
     description: {
-      de: "Ein Dorf bekannt fÃ¼r seine Meeresprodukte und Tourismus.",
-      hu: "Tengeri termÃ©keirÅ‘l Ã©s turizmusÃ¡rÃ³l ismert falu.",
-      ro: "Un sat cunoscut pentru produsele sale marine È™i turism.",
+      de: "Ein Dorf bekannt für seine Meeresprodukte und Tourismus.",
+      hu: "Tengeri termékeir�?l és turizmusáról ismert falu.",
+      ro: "Un sat cunoscut pentru produsele sale marine �?i turism.",
       en: "A village famous for its seafood and growing tourism industry."
     },
     facts: {
-      de: ["Bietet Walbeobachtung an.", "Bekannt fÃ¼r Fischverarbeitung.", "Hot Tubs am Strand."],
-      hu: ["BÃ¡lnalest kÃ­nÃ¡l.", "Hal-feldolgozÃ¡sÃ¡rÃ³l ismert.", "ForrÃ³ fÃ¼rdÅ‘k a parton."],
-      ro: ["OferÄƒ observarea balenelor.", "Cunoscut pentru procesarea peÈ™telui.", "Bazine cu apÄƒ caldÄƒ pe plajÄƒ."],
+      de: ["Bietet Walbeobachtung an.", "Bekannt für Fischverarbeitung.", "Hot Tubs am Strand."],
+      hu: ["Bálnalest kínál.", "Hal-feldolgozásáról ismert.", "Forró fürd�?k a parton."],
+      ro: ["Ofer�? observarea balenelor.", "Cunoscut pentru procesarea pe�?telui.", "Bazine cu ap�? cald�? pe plaj�?."],
       en: ["Offers whale watching tours.", "Known for its fish processing.", "Features hot tubs on the beach."]
     }
   },
@@ -2289,18 +2289,18 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.34, 65.94],
-    name: { de: "ÃrskÃ³gssandur", hu: "ÃrskÃ³gssandur", ro: "ÃrskÃ³gssandur", en: "ÃrskÃ³gssandur" },
+    name: { de: "Árskógssandur", hu: "Árskógssandur", ro: "Árskógssandur", en: "Árskógssandur" },
     description: {
       de: "Ein Dorf, das Tradition und Innovation verbindet.",
-      hu: "A hagyomÃ¡nyt Ã©s az innovÃ¡ciÃ³t Ã¶tvÃ¶zÅ‘ falu.",
-      ro: "Un sat care Ã®mbinÄƒ tradiÈ›ia È™i inovaÈ›ia.",
+      hu: "A hagyományt és az innovációt ötvöz�? falu.",
+      ro: "Un sat care îmbin�? tradi�?ia �?i inova�?ia.",
       en: "A village that combines tradition with innovative tourism."
     },
     facts: {
-      de: ["Heimat der Kaldi-Brauerei.", "Bietet ein Bierbad.", "Tor zur Insel HrÃ­sey."],
-      hu: ["A Kaldi sÃ¶rfÅ‘zde otthona.", "SÃ¶rfÃ¼rdÅ‘t kÃ­nÃ¡l.", "HrÃ­sey kapuja."],
-      ro: ["Casa berÄƒriei Kaldi.", "OferÄƒ o baie de bere.", "Poarta cÄƒtre insula HrÃ­sey."],
-      en: ["Home to the Kaldi brewery.", "Offers a unique beer spa experience.", "Gateway to HrÃ­sey Island."]
+      de: ["Heimat der Kaldi-Brauerei.", "Bietet ein Bierbad.", "Tor zur Insel Hrísey."],
+      hu: ["A Kaldi sörf�?zde otthona.", "Sörfürd�?t kínál.", "Hrísey kapuja."],
+      ro: ["Casa ber�?riei Kaldi.", "Ofer�? o baie de bere.", "Poarta c�?tre insula Hrísey."],
+      en: ["Home to the Kaldi brewery.", "Offers a unique beer spa experience.", "Gateway to Hrísey Island."]
     }
   },
   {
@@ -2308,17 +2308,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-009",
     coords: [-18.07, 65.74],
-    name: { de: "SvalbarÃ°seyri", hu: "SvalbarÃ°seyri", ro: "SvalbarÃ°seyri", en: "SvalbarÃ°seyri" },
+    name: { de: "Svalbarðseyri", hu: "Svalbarðseyri", ro: "Svalbarðseyri", en: "Svalbarðseyri" },
     description: {
       de: "Ein Ort mit herrlichem Blick auf den Fjord.",
-      hu: "TelepÃ¼lÃ©s gyÃ¶nyÃ¶rÅ± kilÃ¡tÃ¡ssal a fjordra.",
-      ro: "O aÈ™ezare cu o vedere superbÄƒ spre fiord.",
+      hu: "Település gyönyörű kilátással a fjordra.",
+      ro: "O a�?ezare cu o vedere superb�? spre fiord.",
       en: "A settlement with a magnificent view across the fjord."
     },
     facts: {
-      de: ["Nahe bei Akureyri.", "Ein ruhiger Wohnort.", "SchÃ¶ne KÃ¼stenlage."],
-      hu: ["Akureyri kÃ¶zelÃ©ben.", "Csendes lakÃ³hely.", "SzÃ©p tengerparti fekvÃ©s."],
-      ro: ["Aproape de Akureyri.", "O locaÈ›ie rezidenÈ›ialÄƒ liniÈ™titÄƒ.", "LocaÈ›ie frumoasÄƒ la coastÄƒ."],
+      de: ["Nahe bei Akureyri.", "Ein ruhiger Wohnort.", "Schöne Küstenlage."],
+      hu: ["Akureyri közelében.", "Csendes lakóhely.", "Szép tengerparti fekvés."],
+      ro: ["Aproape de Akureyri.", "O loca�?ie reziden�?ial�? lini�?tit�?.", "Loca�?ie frumoas�? la coast�?."],
       en: ["Close to Akureyri.", "A peaceful residential area.", "Beautiful coastal setting."]
     }
   },
@@ -2327,17 +2327,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.81, 65.74],
-    name: { de: "VopnafjÃ¶rÃ°ur", hu: "VopnafjÃ¶rÃ°ur", ro: "VopnafjÃ¶rÃ°ur", en: "VopnafjÃ¶rÃ°ur" },
+    name: { de: "Vopnafjörður", hu: "Vopnafjörður", ro: "Vopnafjörður", en: "Vopnafjörður" },
     description: {
-      de: "Ein Dorf mit einem starken GemeinschaftsgefÃ¼hl im Nordosten.",
-      hu: "Falu erÅ‘s kÃ¶zÃ¶ssÃ©gi Ã©rzÃ©ssel az Ã©szakkeleti rÃ©szen.",
-      ro: "Un sat cu un puternic simÈ› al comunitÄƒÈ›ii Ã®n nord-est.",
+      de: "Ein Dorf mit einem starken Gemeinschaftsgefühl im Nordosten.",
+      hu: "Falu er�?s közösségi érzéssel az északkeleti részen.",
+      ro: "Un sat cu un puternic sim�? al comunit�?�?ii în nord-est.",
       en: "A village with a strong sense of community in the northeast."
     },
     facts: {
-      de: ["Ein Zentrum der Schafzucht.", "Bietet unberÃ¼hrte Natur.", "Bekannt fÃ¼r Lachsfischerei."],
-      hu: ["JuhtenyÃ©sztÃ©si kÃ¶zpont.", "Ã‰rintetlen termÃ©szetet kÃ­nÃ¡l.", "LazachalÃ¡szatÃ¡rÃ³l ismert."],
-      ro: ["Un centru al creÈ™terii oilor.", "OferÄƒ naturÄƒ neatinsÄƒ.", "Cunoscut pentru pescuitul de somon."],
+      de: ["Ein Zentrum der Schafzucht.", "Bietet unberührte Natur.", "Bekannt für Lachsfischerei."],
+      hu: ["Juhtenyésztési központ.", "�?rintetlen természetet kínál.", "Lazachalászatáról ismert."],
+      ro: ["Un centru al cre�?terii oilor.", "Ofer�? natur�? neatins�?.", "Cunoscut pentru pescuitul de somon."],
       en: ["A hub for sheep farming.", "Offers pristine natural surroundings.", "Famous for its salmon fishing."]
     }
   },
@@ -2346,17 +2346,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.81, 66.02],
-    name: { de: "BakkafjÃ¶rÃ°ur", hu: "BakkafjÃ¶rÃ°ur", ro: "BakkafjÃ¶rÃ°ur", en: "BakkafjÃ¶rÃ°ur" },
+    name: { de: "Bakkafjörður", hu: "Bakkafjörður", ro: "Bakkafjörður", en: "Bakkafjörður" },
     description: {
-      de: "Ein kleiner Ort, der fÃ¼r seine Ruhe geschÃ¤tzt wird.",
-      hu: "Kis telepÃ¼lÃ©s, amelyet nyugalmÃ¡Ã©rt Ã©rtÃ©kelnek.",
-      ro: "O micÄƒ aÈ™ezare apreciatÄƒ pentru liniÈ™tea sa.",
+      de: "Ein kleiner Ort, der für seine Ruhe geschätzt wird.",
+      hu: "Kis település, amelyet nyugalmáért értékelnek.",
+      ro: "O mic�? a�?ezare apreciat�? pentru lini�?tea sa.",
       en: "A small settlement valued for its profound tranquility."
     },
     facts: {
       de: ["Sehr abgelegen.", "Traditionelle Fischerei.", "Blick auf den Ozean."],
-      hu: ["Nagyon elszigetelt.", "HagyomÃ¡nyos halÃ¡szat.", "KilÃ¡tÃ¡s az Ã³ceÃ¡nra."],
-      ro: ["Foarte izolat.", "Pescuit tradiÈ›ional.", "Vedere la ocean."],
+      hu: ["Nagyon elszigetelt.", "Hagyományos halászat.", "Kilátás az óceánra."],
+      ro: ["Foarte izolat.", "Pescuit tradi�?ional.", "Vedere la ocean."],
       en: ["Extremely remote.", "Traditional fishing practices.", "Stunning ocean views."]
     }
   },
@@ -2365,17 +2365,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.76, 65.53],
-    name: { de: "BorgarfjÃ¶rÃ°ur eystri", hu: "BorgarfjÃ¶rÃ°ur eystri", ro: "BorgarfjÃ¶rÃ°ur eystri", en: "BorgarfjÃ¶rÃ°ur eystri" },
+    name: { de: "Borgarfjörður eystri", hu: "Borgarfjörður eystri", ro: "Borgarfjörður eystri", en: "Borgarfjörður eystri" },
     description: {
       de: "Ein magischer Ort in den Ostfjorden.",
-      hu: "VarÃ¡zslatos telepÃ¼lÃ©s a Keleti-fjordokban.",
-      ro: "O locaÈ›ie magicÄƒ Ã®n fiordurile de est.",
+      hu: "Varázslatos település a Keleti-fjordokban.",
+      ro: "O loca�?ie magic�? în fiordurile de est.",
       en: "A magical location nestled in the East Fjords."
     },
     facts: {
-      de: ["Zentrum fÃ¼r Wanderungen.", "Bekannt fÃ¼r Papageitaucher.", "Sitz der ElfenkÃ¶nigin."],
-      hu: ["TÃºrÃ¡zÃ¡si kÃ¶zpont.", "LundÃ¡irÃ³l ismert.", "Az elf-kirÃ¡lynÅ‘ szÃ©khelye."],
-      ro: ["Centru pentru drumeÈ›ii.", "Cunoscut pentru pufini.", "Sediul reginei elfilor."],
+      de: ["Zentrum für Wanderungen.", "Bekannt für Papageitaucher.", "Sitz der Elfenkönigin."],
+      hu: ["Túrázási központ.", "Lundáiról ismert.", "Az elf-királyn�? székhelye."],
+      ro: ["Centru pentru drume�?ii.", "Cunoscut pentru pufini.", "Sediul reginei elfilor."],
       en: ["A hub for hiking enthusiasts.", "Famous for its puffin colonies.", "Legendary home of the Elf Queen."]
     }
   },
@@ -2384,17 +2384,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.29, 64.66],
-    name: { de: "DjÃºpivogur", hu: "DjÃºpivogur", ro: "DjÃºpivogur", en: "DjÃºpivogur" },
+    name: { de: "Djúpivogur", hu: "Djúpivogur", ro: "Djúpivogur", en: "Djúpivogur" },
     description: {
       de: "Ein charmanter Ort mit kultureller Vielfalt.",
-      hu: "BÃ¡jos telepÃ¼lÃ©s kulturÃ¡lis sokszÃ­nÅ±sÃ©ggel.",
-      ro: "O aÈ™ezare fermecÄƒtoare cu diversitate culturalÄƒ.",
+      hu: "Bájos település kulturális sokszínűséggel.",
+      ro: "O a�?ezare fermec�?toare cu diversitate cultural�?.",
       en: "A charming settlement with a diverse cultural scene."
     },
     facts: {
-      de: ["Teil von Cittaslow.", "Bekannt fÃ¼r Kunst.", "Historischer Hafen."],
-      hu: ["Cittaslow tagja.", "MÅ±vÃ©szetÃ©rÅ‘l ismert.", "TÃ¶rtÃ©nelmi kikÃ¶tÅ‘."],
-      ro: ["Membru Cittaslow.", "Cunoscut pentru artÄƒ.", "Port istoric."],
+      de: ["Teil von Cittaslow.", "Bekannt für Kunst.", "Historischer Hafen."],
+      hu: ["Cittaslow tagja.", "Művészetér�?l ismert.", "Történelmi kiköt�?."],
+      ro: ["Membru Cittaslow.", "Cunoscut pentru art�?.", "Port istoric."],
       en: ["A member of the Cittaslow movement.", "Known for its local art scene.", "Features a historic harbor."]
     }
   },
@@ -2403,17 +2403,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.02, 64.92],
-    name: { de: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", hu: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", ro: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur", en: "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur" },
+    name: { de: "Fáskrúðsfjörður", hu: "Fáskrúðsfjörður", ro: "Fáskrúðsfjörður", en: "Fáskrúðsfjörður" },
     description: {
       de: "Ein Dorf mit einem Hauch von Frankreich.",
-      hu: "Falu, egy csipetnyi FranciaorszÃ¡ggal.",
-      ro: "Un sat cu un strop de FranÈ›a.",
+      hu: "Falu, egy csipetnyi Franciaországgal.",
+      ro: "Un sat cu un strop de Fran�?a.",
       en: "A village with a distinct French influence."
     },
     facts: {
-      de: ["FranzÃ¶sisches Erbe.", "Zweisprachige Schilder.", "SchÃ¶ner Fjord."],
-      hu: ["Francia Ã¶rÃ¶ksÃ©g.", "KÃ©tnyelvÅ± tÃ¡blÃ¡k.", "SzÃ©p fjord."],
-      ro: ["MoÈ™tenire francezÄƒ.", "Semne bilingve.", "Fiord frumos."],
+      de: ["Französisches Erbe.", "Zweisprachige Schilder.", "Schöner Fjord."],
+      hu: ["Francia örökség.", "Kétnyelvű táblák.", "Szép fjord."],
+      ro: ["Mo�?tenire francez�?.", "Semne bilingve.", "Fiord frumos."],
       en: ["Rich French heritage.", "Bilingual street signs.", "Beautiful fjord setting."]
     }
   },
@@ -2422,17 +2422,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.22, 65.04],
-    name: { de: "ReyÃ°arfjÃ¶rÃ°ur", hu: "ReyÃ°arfjÃ¶rÃ°ur", ro: "ReyÃ°arfjÃ¶rÃ°ur", en: "ReyÃ°arfjÃ¶rÃ°ur" },
+    name: { de: "Reyðarfjörður", hu: "Reyðarfjörður", ro: "Reyðarfjörður", en: "Reyðarfjörður" },
     description: {
-      de: "Eine Industriestadt mit groÃŸer Geschichte.",
-      hu: "Ipari vÃ¡ros nagy tÃ¶rtÃ©nelemmel.",
-      ro: "Un oraÈ™ industrial cu o mare istorie.",
+      de: "Eine Industriestadt mit gro�?er Geschichte.",
+      hu: "Ipari város nagy történelemmel.",
+      ro: "Un ora�? industrial cu o mare istorie.",
       en: "An industrial town with a significant history."
     },
     facts: {
-      de: ["Aluminiumwerk.", "Kriegsmuseum.", "GrÃ¶ÃŸter Fjord im Osten."],
-      hu: ["AlumÃ­niumkohÃ³.", "HÃ¡borÃºs mÃºzeum.", "A legnagyobb keleti fjord."],
-      ro: ["Topitorie de aluminiu.", "Muzeu al rÄƒzboiului.", "Cel mai mare fiord din est."],
+      de: ["Aluminiumwerk.", "Kriegsmuseum.", "Grö�?ter Fjord im Osten."],
+      hu: ["Alumíniumkohó.", "Háborús múzeum.", "A legnagyobb keleti fjord."],
+      ro: ["Topitorie de aluminiu.", "Muzeu al r�?zboiului.", "Cel mai mare fiord din est."],
       en: ["Home to an aluminum smelter.", "War history museum.", "The largest fjord in the east."]
     }
   },
@@ -2441,17 +2441,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.69, 65.16],
-    name: { de: "NeskaupstaÃ°ur", hu: "NeskaupstaÃ°ur", ro: "NeskaupstaÃ°ur", en: "NeskaupstaÃ°ur" },
+    name: { de: "Neskaupstaður", hu: "Neskaupstaður", ro: "Neskaupstaður", en: "Neskaupstaður" },
     description: {
       de: "Eine lebendige Stadt mit Fokus auf die Fischerei.",
-      hu: "Ã‰lÃ©nk vÃ¡ros, kÃ¶zÃ©ppontban a halÃ¡szattal.",
-      ro: "Un oraÈ™ plin de viaÈ›Äƒ, axat pe pescuit.",
+      hu: "�?lénk város, középpontban a halászattal.",
+      ro: "Un ora�? plin de via�?�?, axat pe pescuit.",
       en: "A vibrant town with a strong focus on the fishing industry."
     },
     facts: {
-      de: ["Fischverarbeitung.", "Eistnaflug Festival.", "SchÃ¶ner Ausblick."],
-      hu: ["Hal-feldolgozÃ¡s.", "Eistnaflug fesztivÃ¡l.", "SzÃ©p kilÃ¡tÃ¡s."],
-      ro: ["Procesarea peÈ™telui.", "Festivalul Eistnaflug.", "Vedere frumoasÄƒ."],
+      de: ["Fischverarbeitung.", "Eistnaflug Festival.", "Schöner Ausblick."],
+      hu: ["Hal-feldolgozás.", "Eistnaflug fesztivál.", "Szép kilátás."],
+      ro: ["Procesarea pe�?telui.", "Festivalul Eistnaflug.", "Vedere frumoas�?."],
       en: ["Significant fish processing.", "Eistnaflug music festival.", "Beautiful scenic views."]
     }
   },
@@ -2460,17 +2460,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-13.92, 65.08],
-    name: { de: "EskifjÃ¶rÃ°ur", hu: "EskifjÃ¶rÃ°ur", ro: "EskifjÃ¶rÃ°ur", en: "EskifjÃ¶rÃ°ur" },
+    name: { de: "Eskifjörður", hu: "Eskifjörður", ro: "Eskifjörður", en: "Eskifjörður" },
     description: {
       de: "Ein malerischer Ort mit maritimem Erbe.",
-      hu: "FestÅ‘i telepÃ¼lÃ©s tengeri Ã¶rÃ¶ksÃ©ggel.",
-      ro: "O aÈ™ezare pitoreascÄƒ cu moÈ™tenire maritimÄƒ.",
+      hu: "Fest�?i település tengeri örökséggel.",
+      ro: "O a�?ezare pitoreasc�? cu mo�?tenire maritim�?.",
       en: "A picturesque settlement with a rich maritime heritage."
     },
     facts: {
       de: ["Schifffahrtsmuseum.", "Bergbaugeschichte.", "Fischerdorf."],
-      hu: ["TengerÃ©szeti mÃºzeum.", "BÃ¡nyÃ¡szati mÃºlt.", "HalÃ¡szfalu."],
-      ro: ["Muzeu maritim.", "Istorie minierÄƒ.", "Sat de pescari."],
+      hu: ["Tengerészeti múzeum.", "Bányászati múlt.", "Halászfalu."],
+      ro: ["Muzeu maritim.", "Istorie minier�?.", "Sat de pescari."],
       en: ["Maritime museum.", "Mining history.", "Traditional fishing village."]
     }
   },
@@ -2479,16 +2479,16 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-001",
     coords: [-14.4, 65.26],
-    name: { de: "EgilsstaÃ°ir", hu: "EgilsstaÃ°ir", ro: "EgilsstaÃ°ir", en: "EgilsstaÃ°ir" },
+    name: { de: "Egilsstaðir", hu: "Egilsstaðir", ro: "Egilsstaðir", en: "Egilsstaðir" },
     description: {
       de: "Die wichtigste Stadt im Osten Islands.",
-      hu: "Kelet-Izland legfontosabb vÃ¡rosa.",
-      ro: "Cel mai important oraÈ™ din estul Islandei.",
+      hu: "Kelet-Izland legfontosabb városa.",
+      ro: "Cel mai important ora�? din estul Islandei.",
       en: "The most important town in the eastern part of Iceland."
     },
     facts: {
       de: ["Verkehrsknotenpunkt.", "Regionaler Flughafen.", "Dienstleistungszentrum."],
-      hu: ["KÃ¶zlekedÃ©si csomÃ³pont.", "RegionÃ¡lis repÃ¼lÅ‘tÃ©r.", "SzolgÃ¡ltatÃ³ kÃ¶zpont."],
+      hu: ["Közlekedési csomópont.", "Regionális repül�?tér.", "Szolgáltató központ."],
       ro: ["Nod de transport.", "Aeroport regional.", "Centru de servicii."],
       en: ["Major transport hub.", "Regional airport.", "A hub for services."]
     }
@@ -2500,16 +2500,16 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.01, 63.94],
     name: { de: "Selfoss", hu: "Selfoss", ro: "Selfoss", en: "Selfoss" },
     description: {
-      de: "Eine wachsende Stadt im SÃ¼den Islands.",
-      hu: "NÃ¶vekvÅ‘ vÃ¡ros Izland dÃ©li rÃ©szÃ©n.",
-      ro: "Un oraÈ™ Ã®n creÈ™tere Ã®n sudul Islandei.",
+      de: "Eine wachsende Stadt im Süden Islands.",
+      hu: "Növekv�? város Izland déli részén.",
+      ro: "Un ora�? în cre�?tere în sudul Islandei.",
       en: "A rapidly growing town in southern Iceland."
     },
     facts: {
-      de: ["Wirtschaftszentrum.", "An der RingstraÃŸe.", "Nahe dem Ã–lfusÃ¡ Fluss."],
-      hu: ["GazdasÃ¡gi kÃ¶zpont.", "A gyÅ±rÅ±s Ãºt mentÃ©n.", "Az Ã–lfusÃ¡-folyÃ³ kÃ¶zelÃ©ben."],
-      ro: ["Centru economic.", "Pe È™oseaua de centurÄƒ.", "LÃ¢ngÄƒ rÃ¢ul Ã–lfusÃ¡."],
-      en: ["An economic hub.", "Located on the Ring Road.", "Near the Ã–lfusÃ¡ river."]
+      de: ["Wirtschaftszentrum.", "An der Ringstra�?e.", "Nahe dem �?lfusá Fluss."],
+      hu: ["Gazdasági központ.", "A gyűrűs út mentén.", "Az �?lfusá-folyó közelében."],
+      ro: ["Centru economic.", "Pe �?oseaua de centur�?.", "Lâng�? râul �?lfusá."],
+      en: ["An economic hub.", "Located on the Ring Road.", "Near the �?lfusá river."]
     }
   },
   {
@@ -2519,15 +2519,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-20.41, 63.84],
     name: { de: "Hella", hu: "Hella", ro: "Hella", en: "Hella" },
     description: {
-      de: "Ein Ort bekannt fÃ¼r Outdoor-AktivitÃ¤ten.",
-      hu: "KÃ¼ltÃ©ri tevÃ©kenysÃ©geirÅ‘l ismert telepÃ¼lÃ©s.",
-      ro: "O aÈ™ezare cunoscutÄƒ pentru activitÄƒÈ›i Ã®n aer liber.",
+      de: "Ein Ort bekannt für Outdoor-Aktivitäten.",
+      hu: "Kültéri tevékenységeir�?l ismert település.",
+      ro: "O a�?ezare cunoscut�? pentru activit�?�?i în aer liber.",
       en: "A town well-known for its outdoor and equestrian activities."
     },
     facts: {
       de: ["Pferdetouren.", "Angeln am Fluss.", "Touristische Dienstleistungen."],
-      hu: ["LovastÃºrÃ¡k.", "HorgÃ¡szat a folyÃ³n.", "Turisztikai szolgÃ¡ltatÃ¡sok."],
-      ro: ["Tururi cÄƒlare.", "Pescuit pe rÃ¢u.", "Servicii turistice."],
+      hu: ["Lovastúrák.", "Horgászat a folyón.", "Turisztikai szolgáltatások."],
+      ro: ["Tururi c�?lare.", "Pescuit pe râu.", "Servicii turistice."],
       en: ["Horseback riding tours.", "River fishing.", "Tourism-related services."]
     }
   },
@@ -2536,17 +2536,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-20.23, 63.75],
-    name: { de: "HvolsvÃ¶llur", hu: "HvolsvÃ¶llur", ro: "HvolsvÃ¶llur", en: "HvolsvÃ¶llur" },
+    name: { de: "Hvolsvöllur", hu: "Hvolsvöllur", ro: "Hvolsvöllur", en: "Hvolsvöllur" },
     description: {
       de: "Ein Dorf mit Fokus auf Geschichte und Natur.",
-      hu: "TÃ¶rtÃ©nelemre Ã©s termÃ©szetre fÃ³kuszÃ¡lÃ³ falu.",
-      ro: "Un sat axat pe istorie È™i naturÄƒ.",
+      hu: "Történelemre és természetre fókuszáló falu.",
+      ro: "Un sat axat pe istorie �?i natur�?.",
       en: "A village focused on history and its natural surroundings."
     },
     facts: {
       de: ["LAVA Centre.", "Saga-Geschichte.", "Tor zum Hochland."],
-      hu: ["LAVA Centre.", "Szaga-tÃ¶rtÃ©nelem.", "Kapu a felfÃ¶ldre."],
-      ro: ["LAVA Centre.", "Istoria sagÄƒi.", "Poarta cÄƒtre zonele muntoase."],
+      hu: ["LAVA Centre.", "Szaga-történelem.", "Kapu a felföldre."],
+      ro: ["LAVA Centre.", "Istoria sag�?i.", "Poarta c�?tre zonele muntoase."],
       en: ["Home to the LAVA Centre.", "Rich saga history.", "Gateway to the Highlands."]
     }
   },
@@ -2555,17 +2555,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-19.02, 63.42],
-    name: { de: "VÃ­k Ã­ MÃ½rdal", hu: "VÃ­k Ã­ MÃ½rdal", ro: "VÃ­k Ã­ MÃ½rdal", en: "VÃ­k Ã­ MÃ½rdal" },
+    name: { de: "Vík í Mýrdal", hu: "Vík í Mýrdal", ro: "Vík í Mýrdal", en: "Vík í Mýrdal" },
     description: {
-      de: "Ein malerischer Ort an der SÃ¼dkÃ¼ste.",
-      hu: "FestÅ‘i telepÃ¼lÃ©s a dÃ©li parton.",
-      ro: "O aÈ™ezare pitoreascÄƒ pe coasta de sud.",
+      de: "Ein malerischer Ort an der Südküste.",
+      hu: "Fest�?i település a déli parton.",
+      ro: "O a�?ezare pitoreasc�? pe coasta de sud.",
       en: "A picturesque settlement on the southern coast of Iceland."
     },
     facts: {
-      de: ["Schwarze StrÃ¤nde.", "Vogelbeobachtung.", "Ikonische Kirche."],
-      hu: ["Fekete strandok.", "MadÃ¡rmegfigyelÃ©s.", "Ikonikus templom."],
-      ro: ["Plaje negre.", "Observarea pÄƒsÄƒrilor.", "BisericÄƒ emblematicÄƒ."],
+      de: ["Schwarze Strände.", "Vogelbeobachtung.", "Ikonische Kirche."],
+      hu: ["Fekete strandok.", "Madármegfigyelés.", "Ikonikus templom."],
+      ro: ["Plaje negre.", "Observarea p�?s�?rilor.", "Biseric�? emblematic�?."],
       en: ["Black sand beaches.", "Great birdwatching.", "Iconic hilltop church."]
     }
   },
@@ -2574,37 +2574,37 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-18.06, 63.79],
-    name: { de: "KirkjubÃ¦jarklaustur", hu: "KirkjubÃ¦jarklaustur", ro: "KirkjubÃ¦jarklaustur", en: "KirkjubÃ¦jarklaustur" },
+    name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur" },
     description: {
       de: "Ein Dorf mit einer spirituellen Vergangenheit.",
-      hu: "SpirituÃ¡lis mÃºlttal rendelkezÅ‘ falu.",
+      hu: "Spirituális múlttal rendelkez�? falu.",
       ro: "Un sat cu un trecut spiritual.",
       en: "A village with a significant spiritual and religious past."
     },
     facts: {
       de: ["Ehemaliges Kloster.", "Basaltformationen.", "Ruhiger Stopp."],
-      hu: ["Egykori kolostor.", "BazaltformÃ¡ciÃ³k.", "Csendes megÃ¡llÃ³."],
-      ro: ["FostÄƒ mÄƒnÄƒstire.", "FormaÈ›iuni de bazalt.", "O oprire liniÈ™titÄƒ."],
+      hu: ["Egykori kolostor.", "Bazaltformációk.", "Csendes megálló."],
+      ro: ["Fost�? m�?n�?stire.", "Forma�?iuni de bazalt.", "O oprire lini�?tit�?."],
       en: ["Site of a former convent.", "Natural basalt formations.", "A peaceful rest stop."]
     }
   },
   {
-    id: "city-hÃ¶fn-new-extra",
+    id: "city-höfn-new-extra",
     type: "city",
     parent: "IS-002",
     coords: [-15.21, 64.26],
-    name: { de: "HÃ¶fn", hu: "HÃ¶fn", ro: "HÃ¶fn", en: "HÃ¶fn" },
+    name: { de: "Höfn", hu: "Höfn", ro: "Höfn", en: "Höfn" },
     description: {
-      de: "Eine Stadt bekannt fÃ¼r ihre MeeresfrÃ¼chte.",
-      hu: "Tengeri gyÃ¼mÃ¶lcseirÅ‘l ismert vÃ¡ros.",
-      ro: "Un oraÈ™ cunoscut pentru fructele sale de mare.",
+      de: "Eine Stadt bekannt für ihre Meeresfrüchte.",
+      hu: "Tengeri gyümölcseir�?l ismert város.",
+      ro: "Un ora�? cunoscut pentru fructele sale de mare.",
       en: "A town famous for its high-quality seafood and glaciers."
     },
     facts: {
-      de: ["Hummer-Hauptstadt.", "Blick auf VatnajÃ¶kull.", "Fischerdorf."],
-      hu: ["HomÃ¡r-fÅ‘vÃ¡ros.", "KilÃ¡tÃ¡s a VatnajÃ¶kullra.", "HalÃ¡szfalu."],
-      ro: ["Capitala homarului.", "Vedere spre VatnajÃ¶kull.", "Sat de pescari."],
-      en: ["The lobster capital.", "Views of VatnajÃ¶kull.", "Traditional fishing village."]
+      de: ["Hummer-Hauptstadt.", "Blick auf Vatnajökull.", "Fischerdorf."],
+      hu: ["Homár-f�?város.", "Kilátás a Vatnajökullra.", "Halászfalu."],
+      ro: ["Capitala homarului.", "Vedere spre Vatnajökull.", "Sat de pescari."],
+      en: ["The lobster capital.", "Views of Vatnajökull.", "Traditional fishing village."]
     }
   },
   {
@@ -2612,16 +2612,16 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-21.39, 63.86],
-    name: { de: "ÃžorlÃ¡kshÃ¶fn", hu: "ÃžorlÃ¡kshÃ¶fn", ro: "ÃžorlÃ¡kshÃ¶fn", en: "ÃžorlÃ¡kshÃ¶fn" },
+    name: { de: "�?orlákshöfn", hu: "�?orlákshöfn", ro: "�?orlákshöfn", en: "�?orlákshöfn" },
     description: {
-      de: "Ein wichtiger KÃ¼stenort im SÃ¼den.",
-      hu: "Fontos tengerparti telepÃ¼lÃ©s dÃ©len.",
-      ro: "O aÈ™ezare de coastÄƒ importantÄƒ Ã®n sud.",
+      de: "Ein wichtiger Küstenort im Süden.",
+      hu: "Fontos tengerparti település délen.",
+      ro: "O a�?ezare de coast�? important�? în sud.",
       en: "An important coastal settlement in the southern region."
     },
     facts: {
-      de: ["Hafen fÃ¼r WestmÃ¤nnerinseln.", "Schwarze StrÃ¤nde.", "Fischerei."],
-      hu: ["KikÃ¶tÅ‘ a Vestmannaeyjar felÃ©.", "Fekete strandok.", "HalÃ¡szat."],
+      de: ["Hafen für Westmännerinseln.", "Schwarze Strände.", "Fischerei."],
+      hu: ["Kiköt�? a Vestmannaeyjar felé.", "Fekete strandok.", "Halászat."],
       ro: ["Port pentru Insulele Westman.", "Plaje negre.", "Pescuit."],
       en: ["Ferry port for Westman Islands.", "Black sand beaches.", "Active fishing industry."]
     }
@@ -2634,14 +2634,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Eyrarbakki", hu: "Eyrarbakki", ro: "Eyrarbakki", en: "Eyrarbakki" },
     description: {
       de: "Ein historisches Dorf mit Charme.",
-      hu: "BÃ¡jos tÃ¶rtÃ©nelmi falu.",
+      hu: "Bájos történelmi falu.",
       ro: "Un sat istoric cu farmec.",
       en: "A charming historic village with a unique character."
     },
     facts: {
-      de: ["Alte Architektur.", "FrÃ¼herer Haupthafen.", "Kulturerbe."],
-      hu: ["RÃ©gi Ã©pÃ­tÃ©szet.", "Egykori fÅ‘ kikÃ¶tÅ‘.", "KulturÃ¡lis Ã¶rÃ¶ksÃ©g."],
-      ro: ["ArhitecturÄƒ veche.", "Fost port principal.", "MoÈ™tenire culturalÄƒ."],
+      de: ["Alte Architektur.", "Früherer Haupthafen.", "Kulturerbe."],
+      hu: ["Régi építészet.", "Egykori f�? kiköt�?.", "Kulturális örökség."],
+      ro: ["Arhitectur�? veche.", "Fost port principal.", "Mo�?tenire cultural�?."],
       en: ["Old architecture.", "Former major port.", "Rich cultural heritage."]
     }
   },
@@ -2652,15 +2652,15 @@ export const poiExtraIcelandCities: POI[] = [
     coords: [-21.08, 63.84],
     name: { de: "Stokkseyri", hu: "Stokkseyri", ro: "Stokkseyri", en: "Stokkseyri" },
     description: {
-      de: "Ein Dorf bekannt fÃ¼r Kultur und Gastronomie.",
-      hu: "KultÃºrÃ¡jÃ¡rÃ³l Ã©s gasztronÃ³miÃ¡jÃ¡rÃ³l ismert falu.",
-      ro: "Un sat cunoscut pentru culturÄƒ È™i gastronomie.",
+      de: "Ein Dorf bekannt für Kultur und Gastronomie.",
+      hu: "Kultúrájáról és gasztronómiájáról ismert falu.",
+      ro: "Un sat cunoscut pentru cultur�? �?i gastronomie.",
       en: "A village famous for its culture and local cuisine."
     },
     facts: {
-      de: ["Hummer-Restaurant.", "Elfenmuseum.", "KÃ¼stenlage."],
-      hu: ["HomÃ¡r-Ã©tterem.", "Elf-mÃºzeum.", "Tengerparti fekvÃ©s."],
-      ro: ["Restaurant de homari.", "Muzeu al elfilor.", "LocaÈ›ie la coastÄƒ."],
+      de: ["Hummer-Restaurant.", "Elfenmuseum.", "Küstenlage."],
+      hu: ["Homár-étterem.", "Elf-múzeum.", "Tengerparti fekvés."],
+      ro: ["Restaurant de homari.", "Muzeu al elfilor.", "Loca�?ie la coast�?."],
       en: ["Famous lobster restaurant.", "Elf museum.", "Scenic coastal setting."]
     }
   },
@@ -2669,17 +2669,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-21.19, 64.0],
-    name: { de: "HveragerÃ°i", hu: "HveragerÃ°i", ro: "HveragerÃ°i", en: "HveragerÃ°i" },
+    name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði" },
     description: {
       de: "Ein Ort mit dampfenden Quellen.",
-      hu: "GÅ‘zÃ¶lgÅ‘ forrÃ¡sokkal rendelkezÅ‘ telepÃ¼lÃ©s.",
-      ro: "O aÈ™ezare cu izvoare aburinde.",
+      hu: "G�?zölg�? forrásokkal rendelkez�? település.",
+      ro: "O a�?ezare cu izvoare aburinde.",
       en: "A town characterized by its steaming geothermal springs."
     },
     facts: {
-      de: ["GewÃ¤chshÃ¤user.", "HeiÃŸer Fluss.", "Geothermalpark."],
-      hu: ["MeleghÃ¡zak.", "ForrÃ³ folyÃ³.", "Geotermikus park."],
-      ro: ["Sere.", "RÃ¢u fierbinte.", "Parc geotermal."],
+      de: ["Gewächshäuser.", "Hei�?er Fluss.", "Geothermalpark."],
+      hu: ["Melegházak.", "Forró folyó.", "Geotermikus park."],
+      ro: ["Sere.", "Râu fierbinte.", "Parc geotermal."],
       en: ["Numerous greenhouses.", "Hot river hiking area.", "Geothermal park."]
     }
   },
@@ -2688,17 +2688,17 @@ export const poiExtraIcelandCities: POI[] = [
     type: "city",
     parent: "IS-002",
     coords: [-20.34, 64.14],
-    name: { de: "FlÃºÃ°ir", hu: "FlÃºÃ°ir", ro: "FlÃºÃ°ir", en: "FlÃºÃ°ir" },
+    name: { de: "Flúðir", hu: "Flúðir", ro: "Flúðir", en: "Flúðir" },
     description: {
       de: "Ein Dorf in einer fruchtbaren Gegend.",
-      hu: "TelepÃ¼lÃ©s egy termÃ©keny vidÃ©ken.",
-      ro: "O aÈ™ezare Ã®ntr-o zonÄƒ fertilÄƒ.",
+      hu: "Település egy termékeny vidéken.",
+      ro: "O a�?ezare într-o zon�? fertil�?.",
       en: "A village situated in a highly fertile region."
     },
     facts: {
-      de: ["Secret Lagoon.", "GemÃ¼seanbau.", "Nahe Golden Circle."],
-      hu: ["Titkos LagÃºna.", "ZÃ¶ldsÃ©gtermesztÃ©s.", "Arany kÃ¶rÃºt kÃ¶zelÃ©ben."],
-      ro: ["Secret Lagoon.", "Cultivarea legumelor.", "LÃ¢ngÄƒ Cercul de Aur."],
+      de: ["Secret Lagoon.", "Gemüseanbau.", "Nahe Golden Circle."],
+      hu: ["Titkos Lagúna.", "Zöldségtermesztés.", "Arany körút közelében."],
+      ro: ["Secret Lagoon.", "Cultivarea legumelor.", "Lâng�? Cercul de Aur."],
       en: ["Home to the Secret Lagoon.", "Vegetable farming.", "Near the Golden Circle."]
     }
   },
@@ -2710,14 +2710,14 @@ export const poiExtraIcelandCities: POI[] = [
     name: { de: "Laugarvatn", hu: "Laugarvatn", ro: "Laugarvatn", en: "Laugarvatn" },
     description: {
       de: "Ein Ort der Entspannung und Bildung.",
-      hu: "A kikapcsolÃ³dÃ¡s Ã©s az oktatÃ¡s helyszÃ­ne.",
-      ro: "Un loc de relaxare È™i educaÈ›ie.",
+      hu: "A kikapcsolódás és az oktatás helyszíne.",
+      ro: "Un loc de relaxare �?i educa�?ie.",
       en: "A place dedicated to relaxation and education."
     },
     facts: {
       de: ["Laugarvatn Fontana.", "Brotbacken in der Erde.", "Schulort."],
-      hu: ["Laugarvatn Fontana.", "KenyÃ©rsÃ¼tÃ©s a fÃ¶ldben.", "IskolavÃ¡ros."],
-      ro: ["Laugarvatn Fontana.", "Coacerea pÃ¢inii Ã®n pÄƒmÃ¢nt.", "OraÈ™ È™colar."],
+      hu: ["Laugarvatn Fontana.", "Kenyérsütés a földben.", "Iskolaváros."],
+      ro: ["Laugarvatn Fontana.", "Coacerea pâinii în p�?mânt.", "Ora�? �?colar."],
       en: ["Fontana geothermal baths.", "Bread baked in the earth.", "Educational center."]
     }
   }

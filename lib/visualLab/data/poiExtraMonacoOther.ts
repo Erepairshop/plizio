@@ -8,34 +8,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.2149, 43.6645],
     name: {
-      de: "Parc PhÃ¶nix, Nizza",
-      hu: "Parc PhÃ¶nix, Nizza",
-      ro: "Parc PhÃ¶nix, Nisa",
-      en: "Parc PhÃ¶nix, Nice",
+      de: "Parc Phönix, Nizza",
+      hu: "Parc Phönix, Nizza",
+      ro: "Parc Phönix, Nisa",
+      en: "Parc Phönix, Nice",
     },
     description: {
-      de: "Ein 7 Hektar groÃŸer botanischer Garten und Zoo in der NÃ¤he des Flughafens Nizza mit Ã¼ber 2.500 Tierarten.",
-      hu: "Egy 7 hektÃ¡ros botanikus kert Ã©s Ã¡llatkert a nizzai repÃ¼lÅ‘tÃ©r kÃ¶zelÃ©ben, tÃ¶bb mint 2500 Ã¡llatfajjal.",
-      ro: "O grÄƒdinÄƒ botanicÄƒ È™i zoologicÄƒ de 7 hectare lÃ¢ngÄƒ aeroportul din Nisa, cu peste 2.500 de specii de animale.",
+      de: "Ein 7 Hektar gro�?er botanischer Garten und Zoo in der Nähe des Flughafens Nizza mit über 2.500 Tierarten.",
+      hu: "Egy 7 hektáros botanikus kert és állatkert a nizzai repül�?tér közelében, több mint 2500 állatfajjal.",
+      ro: "O gr�?din�? botanic�? �?i zoologic�? de 7 hectare lâng�? aeroportul din Nisa, cu peste 2.500 de specii de animale.",
       en: "A 7-hectare botanical garden and zoo near Nice airport, featuring over 2,500 species of animals.",
     },
     descriptionAdvanced: {
-      de: "Der Parc PhÃ¶nix in Nizza ist eine weitlÃ¤ufige grÃ¼ne Oase unweit des Flughafens, die als botanischer Garten und Zoo gleichermaÃŸen fasziniert. Sein HerzstÃ¼ck ist eines der grÃ¶ÃŸten GewÃ¤chshÃ¤user Europas, das verschiedene Klimazonen simuliert und eine beeindruckende Vielfalt an tropischen Pflanzen und Tieren beherbergt. Besonders fÃ¼r Familien bietet der Park eine lehrreiche Umgebung, um seltene Arten in einem naturnahen Kontext zu beobachten. Er ist ein bedeutendes Zentrum fÃ¼r den Artenschutz und die botanische Vielfalt in der Region Provence-Alpes-CÃ´te d'Azur. Biologie K7 â€” Ã–kosysteme und Artenvielfalt.",
+      de: "Der Parc Phönix in Nizza ist eine weitläufige grüne Oase unweit des Flughafens, die als botanischer Garten und Zoo gleicherma�?en fasziniert. Sein Herzstück ist eines der grö�?ten Gewächshäuser Europas, das verschiedene Klimazonen simuliert und eine beeindruckende Vielfalt an tropischen Pflanzen und Tieren beherbergt. Besonders für Familien bietet der Park eine lehrreiche Umgebung, um seltene Arten in einem naturnahen Kontext zu beobachten. Er ist ein bedeutendes Zentrum für den Artenschutz und die botanische Vielfalt in der Region Provence-Alpes-Côte d'Azur. Biologie K7 �?? �?kosysteme und Artenvielfalt.",
       hu: "",
-      ro: "Parc PhÃ¶nix din Nisa este o oazÄƒ verde vastÄƒ situatÄƒ nu departe de aeroport, care fascineazÄƒ Ã®n egalÄƒ mÄƒsurÄƒ ca grÄƒdinÄƒ botanicÄƒ È™i grÄƒdinÄƒ zoologicÄƒ. Elementul sÄƒu central este una dintre cele mai mari sere din Europa, care simuleazÄƒ diferite zone climatice È™i gÄƒzduieÈ™te o varietate impresionantÄƒ de plante È™i animale tropicale. ÃŽn special pentru familii, parcul oferÄƒ un mediu educativ pentru a observa specii rare Ã®ntr-un context apropiat de cel natural. Este un centru important pentru conservarea speciilor È™i diversitatea botanicÄƒ Ã®n regiunea Provence-Alpes-CÃ´te d'Azur. Biologie K7 â€” ecosisteme È™i biodiversitate.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Parc Phönix din Nisa este o oaz�? verde vast�? situat�? nu departe de aeroport, care fascineaz�? în egal�? m�?sur�? ca gr�?din�? botanic�? �?i gr�?din�? zoologic�?. Elementul s�?u central este una dintre cele mai mari sere din Europa, care simuleaz�? diferite zone climatice �?i g�?zduie�?te o varietate impresionant�? de plante �?i animale tropicale. �?n special pentru familii, parcul ofer�? un mediu educativ pentru a observa specii rare într-un context apropiat de cel natural. Este un centru important pentru conservarea speciilor �?i diversitatea botanic�? în regiunea Provence-Alpes-Côte d'Azur. Biologie K7 �?? ecosisteme �?i biodiversitate.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Eines der grÃ¶ÃŸten GewÃ¤chshÃ¤user Europas", "Tropische VÃ¶gel, Kaimane, Wallabys", "Ideal fÃ¼r Familien"],
-      hu: ["EurÃ³pa egyik legnagyobb Ã¼veghÃ¡za", "TrÃ³pusi madarak, kajmÃ¡nok, wallaby-k", "IdeÃ¡lis csalÃ¡doknak"],
-      ro: ["Una dintre cele mai mari sere din Europa", "PÄƒsÄƒri tropicale, caimani, wallabies", "Ideal pentru familii"],
+      de: ["Eines der grö�?ten Gewächshäuser Europas", "Tropische Vögel, Kaimane, Wallabys", "Ideal für Familien"],
+      hu: ["Európa egyik legnagyobb üvegháza", "Trópusi madarak, kajmánok, wallaby-k", "Ideális családoknak"],
+      ro: ["Una dintre cele mai mari sere din Europa", "P�?s�?ri tropicale, caimani, wallabies", "Ideal pentru familii"],
       en: ["One of Europe's largest greenhouses", "Tropical birds, caimans, wallabies", "Ideal for families"],
     },
     factsAdvanced: {
-      de: ["Der Park erstreckt sich Ã¼ber 7 Hektar FlÃ¤che.", "Das GewÃ¤chshaus 'Diamant vert' ist eines der grÃ¶ÃŸten Europas.", "Beherbergt Ã¼ber 2.500 verschiedene Tierarten.", "Bietet spezielle Themenbereiche wie den tropischen Garten.", "Ein Zentrum fÃ¼r Umweltbildung und Artenschutz.", "RegelmÃ¤ÃŸige Veranstaltungen rund um die Natur.", "GehÃ¶rt zu den meistbesuchten Parks in der Region."],
+      de: ["Der Park erstreckt sich über 7 Hektar Fläche.", "Das Gewächshaus 'Diamant vert' ist eines der grö�?ten Europas.", "Beherbergt über 2.500 verschiedene Tierarten.", "Bietet spezielle Themenbereiche wie den tropischen Garten.", "Ein Zentrum für Umweltbildung und Artenschutz.", "Regelmä�?ige Veranstaltungen rund um die Natur.", "Gehört zu den meistbesuchten Parks in der Region."],
       hu: [],
-      ro: ["Parcul se Ã®ntinde pe o suprafaÈ›Äƒ de 7 hectare", "Sera 'Diamant vert' este una dintre cele mai mari din Europa", "GÄƒzduieÈ™te peste 2.500 de specii de animale diferite", "OferÄƒ zone tematice speciale, precum grÄƒdina tropicalÄƒ", "Este un centru pentru educaÈ›ie ecologicÄƒ È™i conservarea speciilor", "Evenimente regulate axate pe naturÄƒ", "Se numÄƒrÄƒ printre cele mai vizitate parcuri din regiune"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["Parcul se întinde pe o suprafa�?�? de 7 hectare", "Sera 'Diamant vert' este una dintre cele mai mari din Europa", "G�?zduie�?te peste 2.500 de specii de animale diferite", "Ofer�? zone tematice speciale, precum gr�?dina tropical�?", "Este un centru pentru educa�?ie ecologic�? �?i conservarea speciilor", "Evenimente regulate axate pe natur�?", "Se num�?r�? printre cele mai vizitate parcuri din regiune"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -51,27 +51,27 @@ export const poiExtraMonacoOther: POI[] = [
     },
     description: {
       de: "Ein Themenpark mit Delfin- und Orca-Shows, Aquarien mit Haien und einem Wasserpark.",
-      hu: "Egy Ã©lmÃ©nypark delfin- Ã©s orka-bemutatÃ³kkal, cÃ¡pa-akvÃ¡riumokkal Ã©s egy aquaparkkal.",
-      ro: "Un parc tematic cu spectacole de delfini È™i orci, acvarii cu rechini È™i un parc acvatic.",
+      hu: "Egy élménypark delfin- és orka-bemutatókkal, cápa-akváriumokkal és egy aquaparkkal.",
+      ro: "Un parc tematic cu spectacole de delfini �?i orci, acvarii cu rechini �?i un parc acvatic.",
       en: "A theme park featuring dolphin and orca shows, shark aquariums, and a water park.",
     },
     descriptionAdvanced: {
-      de: "Marineland in Antibes ist einer der bedeutendsten Meeresthemenparks in Europa. Mit seinen umfangreichen Becken fÃ¼r Wale und Delfine sowie spezialisierten Hai-Aquarien bietet er Besuchern einen faszinierenden Einblick in die maritime Welt. Der Park widmet sich zudem der Forschung und dem Schutz mariner Arten, was ihn von einem reinen VergnÃ¼gungspark abhebt. ErgÃ¤nzt wird das Angebot durch einen groÃŸflÃ¤chigen Wasserpark, der vor allem in den Sommermonaten ein beliebtes Ziel fÃ¼r FreizeitaktivitÃ¤ten darstellt. Er ist ein wichtiger Ankerpunkt fÃ¼r den Tourismus an der CÃ´te d'Azur. Geografie K8 â€” Meeresbiologie und Tourismus.",
+      de: "Marineland in Antibes ist einer der bedeutendsten Meeresthemenparks in Europa. Mit seinen umfangreichen Becken für Wale und Delfine sowie spezialisierten Hai-Aquarien bietet er Besuchern einen faszinierenden Einblick in die maritime Welt. Der Park widmet sich zudem der Forschung und dem Schutz mariner Arten, was ihn von einem reinen Vergnügungspark abhebt. Ergänzt wird das Angebot durch einen gro�?flächigen Wasserpark, der vor allem in den Sommermonaten ein beliebtes Ziel für Freizeitaktivitäten darstellt. Er ist ein wichtiger Ankerpunkt für den Tourismus an der Côte d'Azur. Geografie K8 �?? Meeresbiologie und Tourismus.",
       hu: "",
-      ro: "Marineland din Antibes este unul dintre cele mai importante parcuri tematice marine din Europa. Cu bazinele sale extinse pentru balene È™i delfini, precum È™i acvariile specializate pentru rechini, acesta oferÄƒ vizitatorilor o perspectivÄƒ fascinantÄƒ asupra lumii maritime. Parcul se dedicÄƒ, de asemenea, cercetÄƒrii È™i conservÄƒrii speciilor marine, ceea ce Ã®l diferenÈ›iazÄƒ de un simplu parc de distracÈ›ii. Oferta este completatÄƒ de un parc acvatic vast, care constituie o destinaÈ›ie popularÄƒ pentru activitÄƒÈ›i de agrement, Ã®n special Ã®n lunile de varÄƒ. Este un punct de reper important pentru turismul de pe Coasta de Azur. Geografie K8 â€” biologie marinÄƒ È™i turism.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Marineland din Antibes este unul dintre cele mai importante parcuri tematice marine din Europa. Cu bazinele sale extinse pentru balene �?i delfini, precum �?i acvariile specializate pentru rechini, acesta ofer�? vizitatorilor o perspectiv�? fascinant�? asupra lumii maritime. Parcul se dedic�?, de asemenea, cercet�?rii �?i conserv�?rii speciilor marine, ceea ce îl diferen�?iaz�? de un simplu parc de distrac�?ii. Oferta este completat�? de un parc acvatic vast, care constituie o destina�?ie popular�? pentru activit�?�?i de agrement, în special în lunile de var�?. Este un punct de reper important pentru turismul de pe Coasta de Azur. Geografie K8 �?? biologie marin�? �?i turism.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["GrÃ¶ÃŸter Meeres-Themenpark an der CÃ´te d'Azur", "Interaktive Erlebnisse", "Auch ein Streichelzoo"],
-      hu: ["A CÃ´te d'Azur legnagyobb tengeri Ã©lmÃ©nyparkja", "InteraktÃ­v Ã©lmÃ©nyek", "SimogatÃ³ Ã¡llatkert is van"],
-      ro: ["Cel mai mare parc tematic marin de pe Coasta de Azur", "ExperienÈ›e interactive", "Include È™i o grÄƒdinÄƒ zoologicÄƒ"],
+      de: ["Grö�?ter Meeres-Themenpark an der Côte d'Azur", "Interaktive Erlebnisse", "Auch ein Streichelzoo"],
+      hu: ["A Côte d'Azur legnagyobb tengeri élményparkja", "Interaktív élmények", "Simogató állatkert is van"],
+      ro: ["Cel mai mare parc tematic marin de pe Coasta de Azur", "Experien�?e interactive", "Include �?i o gr�?din�? zoologic�?"],
       en: ["Largest marine theme park on the French Riviera", "Interactive experiences", "Also includes a petting zoo"],
     },
     factsAdvanced: {
-      de: ["GrÃ¶ÃŸter mariner Themenpark an der gesamten franzÃ¶sischen Riviera.", "Beherbergt Orcas, Delfine und Haie in groÃŸflÃ¤chigen Becken.", "Fokussiert auf Forschung, Schutz und Bildung.", "Integrierter Aquasplash-Wasserpark fÃ¼r zusÃ¤tzlichen Freizeitwert.", "Bietet pÃ¤dagogische Programme fÃ¼r Kinder.", "Ein bedeutender wirtschaftlicher Akteur im Tourismus.", "Umfangreiche Anlage mit vielfÃ¤ltigen Themenbereichen."],
+      de: ["Grö�?ter mariner Themenpark an der gesamten französischen Riviera.", "Beherbergt Orcas, Delfine und Haie in gro�?flächigen Becken.", "Fokussiert auf Forschung, Schutz und Bildung.", "Integrierter Aquasplash-Wasserpark für zusätzlichen Freizeitwert.", "Bietet pädagogische Programme für Kinder.", "Ein bedeutender wirtschaftlicher Akteur im Tourismus.", "Umfangreiche Anlage mit vielfältigen Themenbereichen."],
       hu: [],
-      ro: ["Cel mai mare parc tematic marin de pe Ã®ntreaga Riviera FrancezÄƒ", "GÄƒzduieÈ™te orci, delfini È™i rechini Ã®n bazine spaÈ›ioase", "Se concentreazÄƒ pe cercetare, conservare È™i educaÈ›ie", "Include parcul acvatic Aquasplash pentru agrement suplimentar", "OferÄƒ programe educaÈ›ionale pentru copii", "Un actor economic important Ã®n turism", "Complex vast cu zone tematice diverse"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["Cel mai mare parc tematic marin de pe întreaga Riviera Francez�?", "G�?zduie�?te orci, delfini �?i rechini în bazine spa�?ioase", "Se concentreaz�? pe cercetare, conservare �?i educa�?ie", "Include parcul acvatic Aquasplash pentru agrement suplimentar", "Ofer�? programe educa�?ionale pentru copii", "Un actor economic important în turism", "Complex vast cu zone tematice diverse"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -86,28 +86,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Alpha Wolf Park, Mercantour",
     },
     description: {
-      de: "Ein Wildpark im Nationalpark Mercantour, der dem europÃ¤ischen Wolf in seiner natÃ¼rlichen Umgebung gewidmet ist.",
-      hu: "Egy vadaspark a Mercantour Nemzeti Parkban, amely az eurÃ³pai farkasnak szentelt termÃ©szetes kÃ¶rnyezetÃ©ben.",
-      ro: "Un parc sÄƒlbatic Ã®n Parcul NaÈ›ional Mercantour, dedicat lupului european Ã®n habitatul sÄƒu natural.",
+      de: "Ein Wildpark im Nationalpark Mercantour, der dem europäischen Wolf in seiner natürlichen Umgebung gewidmet ist.",
+      hu: "Egy vadaspark a Mercantour Nemzeti Parkban, amely az európai farkasnak szentelt természetes környezetében.",
+      ro: "Un parc s�?lbatic în Parcul Na�?ional Mercantour, dedicat lupului european în habitatul s�?u natural.",
       en: "A wildlife park in the Mercantour National Park dedicated to the European wolf in its natural habitat.",
     },
     descriptionAdvanced: {
-      de: "Der Alpha-Wolf-Park (Parc Alpha) im Mercantour-Nationalpark bietet eine einzigartige MÃ¶glichkeit, WÃ¶lfe in einer naturnahen Umgebung zu beobachten. Das Projekt verfolgt einen pÃ¤dagogischen Ansatz, der den Besuchern hilft, das Verhalten und die Ã¶kologische Rolle des Wolfes in den Alpen besser zu verstehen. Die Anlage ist in eine beeindruckende Berglandschaft eingebettet, die dem natÃ¼rlichen Lebensraum der Tiere sehr nahe kommt. Durch die Kombination von Beobachtungspunkten und fachkundigen FÃ¼hrungen leistet der Park einen wichtigen Beitrag zur AufklÃ¤rung Ã¼ber Raubtiere in Europa. Biologie K8 â€” AlpenÃ¶kosysteme und Naturschutz.",
+      de: "Der Alpha-Wolf-Park (Parc Alpha) im Mercantour-Nationalpark bietet eine einzigartige Möglichkeit, Wölfe in einer naturnahen Umgebung zu beobachten. Das Projekt verfolgt einen pädagogischen Ansatz, der den Besuchern hilft, das Verhalten und die ökologische Rolle des Wolfes in den Alpen besser zu verstehen. Die Anlage ist in eine beeindruckende Berglandschaft eingebettet, die dem natürlichen Lebensraum der Tiere sehr nahe kommt. Durch die Kombination von Beobachtungspunkten und fachkundigen Führungen leistet der Park einen wichtigen Beitrag zur Aufklärung über Raubtiere in Europa. Biologie K8 �?? Alpenökosysteme und Naturschutz.",
       hu: "",
-      ro: "Parcul de lupi Alpha (Parc Alpha) din Parcul NaÈ›ional Mercantour oferÄƒ o oportunitate unicÄƒ de a observa lupii Ã®ntr-un mediu apropiat de cel natural. Proiectul urmÄƒreÈ™te o abordare pedagogicÄƒ care Ã®i ajutÄƒ pe vizitatori sÄƒ Ã®nÈ›eleagÄƒ mai bine comportamentul È™i rolul ecologic al lupului Ã®n Alpi. Facilitatea este amplasatÄƒ Ã®ntr-un peisaj montan impresionant, care se apropie foarte mult de habitatul natural al animalelor. Prin combinarea punctelor de observaÈ›ie cu ghidaje specializate, parcul aduce o contribuÈ›ie importantÄƒ la educarea publicului despre prÄƒdÄƒtorii din Europa. Biologie K8 â€” ecosisteme alpine È™i conservarea naturii.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Parcul de lupi Alpha (Parc Alpha) din Parcul Na�?ional Mercantour ofer�? o oportunitate unic�? de a observa lupii într-un mediu apropiat de cel natural. Proiectul urm�?re�?te o abordare pedagogic�? care îi ajut�? pe vizitatori s�? în�?eleag�? mai bine comportamentul �?i rolul ecologic al lupului în Alpi. Facilitatea este amplasat�? într-un peisaj montan impresionant, care se apropie foarte mult de habitatul natural al animalelor. Prin combinarea punctelor de observa�?ie cu ghidaje specializate, parcul aduce o contribu�?ie important�? la educarea publicului despre pr�?d�?torii din Europa. Biologie K8 �?? ecosisteme alpine �?i conservarea naturii.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Beobachten Sie WÃ¶lfe aus nÃ¤chster NÃ¤he", "FÃ¼hrungen und Ausstellungen", "WunderschÃ¶ne Berglandschaft"],
-      hu: ["Farkasok megfigyelÃ©se kÃ¶zelrÅ‘l", "Vezetett tÃºrÃ¡k Ã©s kiÃ¡llÃ­tÃ¡sok", "GyÃ¶nyÃ¶rÅ± hegyi tÃ¡j"],
-      ro: ["ObservaÈ›i lupii de aproape", "Tururi ghidate È™i expoziÈ›ii", "Peisaj montan frumos"],
+      de: ["Beobachten Sie Wölfe aus nächster Nähe", "Führungen und Ausstellungen", "Wunderschöne Berglandschaft"],
+      hu: ["Farkasok megfigyelése közelr�?l", "Vezetett túrák és kiállítások", "Gyönyörű hegyi táj"],
+      ro: ["Observa�?i lupii de aproape", "Tururi ghidate �?i expozi�?ii", "Peisaj montan frumos"],
       en: ["Observe wolves up close", "Guided tours and exhibitions", "Beautiful mountain scenery"],
     },
     factsAdvanced: {
-      de: ["Einzigartiges pÃ¤dagogisches Projekt mitten im Nationalpark.", "WÃ¶lfe leben in groÃŸrÃ¤umigen Gehegen.", "Besucher kÃ¶nnen das Verhalten der Tiere beobachten.", "Fachkundige FÃ¼hrungen klÃ¤ren Ã¼ber die Rolle der WÃ¶lfe auf.", "Gelegen im beeindruckenden Mercantour-Massiv.", "FÃ¶rdert das VerstÃ¤ndnis fÃ¼r alpine Ã–kosysteme.", "Starker Fokus auf Naturschutz und AufklÃ¤rung."],
+      de: ["Einzigartiges pädagogisches Projekt mitten im Nationalpark.", "Wölfe leben in gro�?räumigen Gehegen.", "Besucher können das Verhalten der Tiere beobachten.", "Fachkundige Führungen klären über die Rolle der Wölfe auf.", "Gelegen im beeindruckenden Mercantour-Massiv.", "Fördert das Verständnis für alpine �?kosysteme.", "Starker Fokus auf Naturschutz und Aufklärung."],
       hu: [],
-      ro: ["Proiect educaÈ›ional unic Ã®n inima parcului naÈ›ional", "Lupii trÄƒiesc Ã®n incinte spaÈ›ioase", "Vizitatorii pot observa comportamentul animalelor", "Ghidajele specializate clarificÄƒ rolul lupilor", "Situat Ã®n impresionantul masiv Mercantour", "PromoveazÄƒ Ã®nÈ›elegerea ecosistemelor alpine", "Accent puternic pe conservarea naturii È™i educaÈ›ie"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["Proiect educa�?ional unic în inima parcului na�?ional", "Lupii tr�?iesc în incinte spa�?ioase", "Vizitatorii pot observa comportamentul animalelor", "Ghidajele specializate clarific�? rolul lupilor", "Situat în impresionantul masiv Mercantour", "Promoveaz�? în�?elegerea ecosistemelor alpine", "Accent puternic pe conservarea naturii �?i educa�?ie"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -117,33 +117,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [8.0, 43.5],
     name: {
       de: "Pelagos-Schutzgebiet",
-      hu: "Pelagos MenedÃ©khely",
+      hu: "Pelagos Menedékhely",
       ro: "Sanctuarul Pelagos",
       en: "Pelagos Sanctuary",
     },
     description: {
-      de: "Ein riesiges Meeresschutzgebiet zwischen Frankreich, Monaco und Italien, bekannt fÃ¼r seine Wal- und Delfinpopulationen.",
-      hu: "Hatalmas tengeri vÃ©dett terÃ¼let FranciaorszÃ¡g, Monaco Ã©s OlaszorszÃ¡g kÃ¶zÃ¶tt, amely bÃ¡lna- Ã©s delfinpopulÃ¡ciÃ³irÃ³l ismert.",
-      ro: "O zonÄƒ marinÄƒ protejatÄƒ uriaÈ™Äƒ Ã®ntre FranÈ›a, Monaco È™i Italia, renumitÄƒ pentru populaÈ›iile sale de balene È™i delfini.",
+      de: "Ein riesiges Meeresschutzgebiet zwischen Frankreich, Monaco und Italien, bekannt für seine Wal- und Delfinpopulationen.",
+      hu: "Hatalmas tengeri védett terület Franciaország, Monaco és Olaszország között, amely bálna- és delfinpopulációiról ismert.",
+      ro: "O zon�? marin�? protejat�? uria�?�? între Fran�?a, Monaco �?i Italia, renumit�? pentru popula�?iile sale de balene �?i delfini.",
       en: "A vast Marine Protected Area between France, Monaco, and Italy, famous for its whale and dolphin populations.",
     },
     descriptionAdvanced: {
-      de: "Das Pelagos-Schutzgebiet ist ein bedeutendes internationales Meeresschutzgebiet, das sich Ã¼ber eine FlÃ¤che von 87.500 kmÂ² zwischen Frankreich, Monaco und Italien erstreckt. Es wurde gezielt eingerichtet, um die Artenvielfalt im Mittelmeer zu bewahren, mit besonderem Fokus auf marine SÃ¤ugetiere wie Finnwale, Pottwale und verschiedene Delfinarten. Das Gebiet ist eine Ã¶kologische SchlÃ¼sselzone und stellt ein ambitioniertes Projekt der trinationalen Zusammenarbeit zum Schutz der marinen Umwelt dar. Forschungsprojekte innerhalb von Pelagos liefern wertvolle Erkenntnisse Ã¼ber das Wanderverhalten und die Bedrohungen fÃ¼r diese gefÃ¤hrdeten Arten. Umweltkunde K8 â€” Marine Schutzgebiete und Ozeanographie.",
+      de: "Das Pelagos-Schutzgebiet ist ein bedeutendes internationales Meeresschutzgebiet, das sich über eine Fläche von 87.500 km² zwischen Frankreich, Monaco und Italien erstreckt. Es wurde gezielt eingerichtet, um die Artenvielfalt im Mittelmeer zu bewahren, mit besonderem Fokus auf marine Säugetiere wie Finnwale, Pottwale und verschiedene Delfinarten. Das Gebiet ist eine ökologische Schlüsselzone und stellt ein ambitioniertes Projekt der trinationalen Zusammenarbeit zum Schutz der marinen Umwelt dar. Forschungsprojekte innerhalb von Pelagos liefern wertvolle Erkenntnisse über das Wanderverhalten und die Bedrohungen für diese gefährdeten Arten. Umweltkunde K8 �?? Marine Schutzgebiete und Ozeanographie.",
       hu: "",
-      ro: "Sanctuarul Pelagos este o zonÄƒ marinÄƒ protejatÄƒ internaÈ›ionalÄƒ importantÄƒ, care se Ã®ntinde pe o suprafaÈ›Äƒ de 87.500 kmÂ² Ã®ntre FranÈ›a, Monaco È™i Italia. Aceasta a fost creatÄƒ special pentru a conserva biodiversitatea din Marea MediteranÄƒ, cu un accent deosebit pe mamiferele marine precum balenele cu Ã®notÄƒtoare, caÈ™aloÈ›ii È™i diverse specii de delfini. Zona este o zonÄƒ ecologicÄƒ cheie È™i reprezintÄƒ un proiect ambiÈ›ios de cooperare trinaÈ›ionalÄƒ pentru protejarea mediului marin. Proiectele de cercetare din cadrul Pelagos oferÄƒ informaÈ›ii valoroase despre comportamentul migrator È™i ameninÈ›Äƒrile la adresa acestor specii pe cale de dispariÈ›ie. È˜tiinÈ›ele mediului K8 â€” arii marine protejate È™i oceanografie.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Sanctuarul Pelagos este o zon�? marin�? protejat�? interna�?ional�? important�?, care se întinde pe o suprafa�?�? de 87.500 km² între Fran�?a, Monaco �?i Italia. Aceasta a fost creat�? special pentru a conserva biodiversitatea din Marea Mediteran�?, cu un accent deosebit pe mamiferele marine precum balenele cu înot�?toare, ca�?alo�?ii �?i diverse specii de delfini. Zona este o zon�? ecologic�? cheie �?i reprezint�? un proiect ambi�?ios de cooperare trina�?ional�? pentru protejarea mediului marin. Proiectele de cercetare din cadrul Pelagos ofer�? informa�?ii valoroase despre comportamentul migrator �?i amenin�?�?rile la adresa acestor specii pe cale de dispari�?ie. �?tiin�?ele mediului K8 �?? arii marine protejate �?i oceanografie.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Walbeobachtungstouren starten von vielen HÃ¤fen", "87.500 kmÂ² groÃŸ", "Heimat von Finnwalen und Streifendelfinen"],
-      hu: ["BÃ¡lnafigyelÅ‘ tÃºrÃ¡k indulnak szÃ¡mos kikÃ¶tÅ‘bÅ‘l", "87 500 kmÂ² terÃ¼letÅ±", "Otthona a barÃ¡zdÃ¡sbÃ¡lnÃ¡knak Ã©s a csÃ­kos delfineknek"],
-      ro: ["Excursiile de observare a balenelor pornesc din multe porturi", "SuprafaÈ›Äƒ de 87.500 kmÂ²", "AdÄƒposteÈ™te balene cu Ã®notÄƒtoare È™i delfini dungaÈ›i"],
+      de: ["Walbeobachtungstouren starten von vielen Häfen", "87.500 km² gro�?", "Heimat von Finnwalen und Streifendelfinen"],
+      hu: ["Bálnafigyel�? túrák indulnak számos kiköt�?b�?l", "87 500 km² területű", "Otthona a barázdásbálnáknak és a csíkos delfineknek"],
+      ro: ["Excursiile de observare a balenelor pornesc din multe porturi", "Suprafa�?�? de 87.500 km²", "Ad�?poste�?te balene cu înot�?toare �?i delfini dunga�?i"],
       en: ["Whale watching tours depart from many ports", "Covers 87,500 sq km", "Home to fin whales and striped dolphins"],
     },
     factsAdvanced: {
-      de: ["Riesiges Meeresschutzgebiet in internationaler Kooperation.", "Erstreckt sich auf 87.500 kmÂ² FlÃ¤che.", "Wichtiger Lebensraum fÃ¼r Finnwale und Delfine.", "Internationale Kooperation zwischen drei Staaten.", "Fokus auf Schutz der marinen BiodiversitÃ¤t.", "Einzigartiges Ã–kosystem im Mittelmeer.", "Wichtig fÃ¼r die wissenschaftliche Forschung am Meer."],
+      de: ["Riesiges Meeresschutzgebiet in internationaler Kooperation.", "Erstreckt sich auf 87.500 km² Fläche.", "Wichtiger Lebensraum für Finnwale und Delfine.", "Internationale Kooperation zwischen drei Staaten.", "Fokus auf Schutz der marinen Biodiversität.", "Einzigartiges �?kosystem im Mittelmeer.", "Wichtig für die wissenschaftliche Forschung am Meer."],
       hu: [],
-      ro: ["ZonÄƒ marinÄƒ protejatÄƒ uriaÈ™Äƒ prin cooperare internaÈ›ionalÄƒ", "Se Ã®ntinde pe o suprafaÈ›Äƒ de 87.500 kmÂ²", "Habitat important pentru balene cu Ã®notÄƒtoare È™i delfini", "Cooperare internaÈ›ionalÄƒ Ã®ntre trei state", "Accent pe protejarea biodiversitÄƒÈ›ii marine", "Ecosistem unic Ã®n Marea MediteranÄƒ", "Important pentru cercetarea È™tiinÈ›ificÄƒ marinÄƒ"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["Zon�? marin�? protejat�? uria�?�? prin cooperare interna�?ional�?", "Se întinde pe o suprafa�?�? de 87.500 km²", "Habitat important pentru balene cu înot�?toare �?i delfini", "Cooperare interna�?ional�? între trei state", "Accent pe protejarea biodiversit�?�?ii marine", "Ecosistem unic în Marea Mediteran�?", "Important pentru cercetarea �?tiin�?ific�? marin�?"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     },
   },
   {
@@ -152,34 +152,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [6.82, 43.81],
     name: {
-      de: "RÃ©serve des Monts d'Azur",
-      hu: "Monts d'Azur RezervÃ¡tum",
-      ro: "RezervaÈ›ia Monts d'Azur",
+      de: "Réserve des Monts d'Azur",
+      hu: "Monts d'Azur Rezervátum",
+      ro: "Rezerva�?ia Monts d'Azur",
       en: "Reserve of the Monts d'Azur",
     },
     description: {
       de: "Ein Wildtierreservat, in dem Wisente, Przewalski-Pferde und andere Wildtiere in einer halbfreien Umgebung leben.",
-      hu: "Egy vadasrezervÃ¡tum, ahol eurÃ³pai bÃ¶lÃ©nyek, Przewalski-lovak Ã©s mÃ¡s vadÃ¡llatok Ã©lnek fÃ©lszabad kÃ¶rnyezetben.",
-      ro: "O rezervaÈ›ie de animale sÄƒlbatice unde trÄƒiesc bizoni europeni, cai Przewalski È™i alte animale sÄƒlbatice Ã®ntr-un mediu semi-liber.",
+      hu: "Egy vadasrezervátum, ahol európai bölények, Przewalski-lovak és más vadállatok élnek félszabad környezetben.",
+      ro: "O rezerva�?ie de animale s�?lbatice unde tr�?iesc bizoni europeni, cai Przewalski �?i alte animale s�?lbatice într-un mediu semi-liber.",
       en: "A wildlife reserve where European bison, Przewalski's horses, and other wildlife live in a semi-free environment.",
     },
     descriptionAdvanced: {
-      de: "Die 'RÃ©serve des Monts d'Azur' bietet eine auÃŸergewÃ¶hnliche MÃ¶glichkeit, Tiere in einer Umgebung zu beobachten, die ihrem natÃ¼rlichen Lebensraum sehr nahe kommt. Das Reservat beheimatet seltene Arten wie den europÃ¤ischen Wisent und das Przewalski-Pferd in einem weitlÃ¤ufigen, halbfreien Areal. Der Fokus liegt hier auf dem Naturschutz und der WiedereinfÃ¼hrung gefÃ¤hrdeter Arten. Durch Safari-Ã¤hnliche Touren kÃ¶nnen Besucher die Ã¶kologische Bedeutung dieser Tiere verstehen und die unberÃ¼hrte Natur der Region genieÃŸen. Ein Vorzeigeprojekt fÃ¼r modernen Naturschutz an der Schnittstelle von alpiner Landschaft und Ebene. Umweltkunde K7 â€” Artenreichtum und Schutz.",
+      de: "Die 'Réserve des Monts d'Azur' bietet eine au�?ergewöhnliche Möglichkeit, Tiere in einer Umgebung zu beobachten, die ihrem natürlichen Lebensraum sehr nahe kommt. Das Reservat beheimatet seltene Arten wie den europäischen Wisent und das Przewalski-Pferd in einem weitläufigen, halbfreien Areal. Der Fokus liegt hier auf dem Naturschutz und der Wiedereinführung gefährdeter Arten. Durch Safari-ähnliche Touren können Besucher die ökologische Bedeutung dieser Tiere verstehen und die unberührte Natur der Region genie�?en. Ein Vorzeigeprojekt für modernen Naturschutz an der Schnittstelle von alpiner Landschaft und Ebene. Umweltkunde K7 �?? Artenreichtum und Schutz.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Europas 'Jurassic Park'", "Safari-Touren zu FuÃŸ oder mit dem Wagen", "Ã–kotourismus-UnterkÃ¼nfte verfÃ¼gbar"],
-      hu: ["EurÃ³pa 'Jurassic Park'-ja", "Szafari tÃºrÃ¡k gyalog vagy kocsival", "Ã–koturisztikai szÃ¡llÃ¡shelyek elÃ©rhetÅ‘k"],
-      ro: ["'Jurassic Park'-ul Europei", "Tururi safari pe jos sau cu cÄƒruÈ›a", "Cazare ecoturisticÄƒ disponibilÄƒ"],
+      de: ["Europas 'Jurassic Park'", "Safari-Touren zu Fu�? oder mit dem Wagen", "�?kotourismus-Unterkünfte verfügbar"],
+      hu: ["Európa 'Jurassic Park'-ja", "Szafari túrák gyalog vagy kocsival", "�?koturisztikai szálláshelyek elérhet�?k"],
+      ro: ["'Jurassic Park'-ul Europei", "Tururi safari pe jos sau cu c�?ru�?a", "Cazare ecoturistic�? disponibil�?"],
       en: ["Europe's 'Jurassic Park'", "Safari tours on foot or by wagon", "Ecotourism accommodation available"],
     },
     factsAdvanced: {
-      de: ["Halbfreies Wildreservat in wunderschÃ¶ner Berglandschaft.", "Heimat seltener Arten wie Wisent und Przewalski-Pferd.", "Fokus auf WiedereinfÃ¼hrung und Schutz.", "Erlaubt Beobachtung der Tiere aus nÃ¤chster NÃ¤he.", "Bietet verschiedene Safari-Erlebnisse an.", "Vorzeigeprojekt fÃ¼r modernen Umweltschutz.", "Integrierte Ã–kotourismus-Konzepte."],
+      de: ["Halbfreies Wildreservat in wunderschöner Berglandschaft.", "Heimat seltener Arten wie Wisent und Przewalski-Pferd.", "Fokus auf Wiedereinführung und Schutz.", "Erlaubt Beobachtung der Tiere aus nächster Nähe.", "Bietet verschiedene Safari-Erlebnisse an.", "Vorzeigeprojekt für modernen Umweltschutz.", "Integrierte �?kotourismus-Konzepte."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   // kid-landmark
@@ -195,28 +195,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Koaland, Menton",
     },
     description: {
-      de: "Ein kleiner VergnÃ¼gungspark fÃ¼r kleine Kinder in Menton mit Karussells, einer Minigolfanlage und SpielplÃ¤tzen.",
-      hu: "Egy kis vidÃ¡mpark kisgyermekek szÃ¡mÃ¡ra Mentonban, kÃ¶rhintÃ¡kkal, minigolffal Ã©s jÃ¡tszÃ³terekkel.",
-      ro: "Un mic parc de distracÈ›ii pentru copii mici Ã®n Menton, cu carusele, minigolf È™i locuri de joacÄƒ.",
+      de: "Ein kleiner Vergnügungspark für kleine Kinder in Menton mit Karussells, einer Minigolfanlage und Spielplätzen.",
+      hu: "Egy kis vidámpark kisgyermekek számára Mentonban, körhintákkal, minigolffal és játszóterekkel.",
+      ro: "Un mic parc de distrac�?ii pentru copii mici în Menton, cu carusele, minigolf �?i locuri de joac�?.",
       en: "A small amusement park for young children in Menton, with carousels, mini-golf, and playgrounds.",
     },
     descriptionAdvanced: {
-      de: "Koaland in Menton ist der ideale Ort fÃ¼r Familien mit kleinen Kindern. Der kompakte VergnÃ¼gungspark bietet zahlreiche klassische Attraktionen wie Karussells, Minigolf und diverse SpielmÃ¶glichkeiten, die speziell auf die BedÃ¼rfnisse von jÃ¼ngeren Kindern zugeschnitten sind. Besonders an heiÃŸen Tagen bieten die schattigen Bereiche einen willkommenen RÃ¼ckzugsort. Durch die Ã¼berschaubare GrÃ¶ÃŸe kÃ¶nnen Eltern ihre Kinder leicht im Auge behalten, wÃ¤hrend diese sicher spielen. Ein fester Bestandteil des Freizeitangebots fÃ¼r Familien in dieser beliebten KÃ¼stenstadt nahe der italienischen Grenze. PÃ¤dagogik K4 â€” Spiel- und Lernumgebungen.",
+      de: "Koaland in Menton ist der ideale Ort für Familien mit kleinen Kindern. Der kompakte Vergnügungspark bietet zahlreiche klassische Attraktionen wie Karussells, Minigolf und diverse Spielmöglichkeiten, die speziell auf die Bedürfnisse von jüngeren Kindern zugeschnitten sind. Besonders an hei�?en Tagen bieten die schattigen Bereiche einen willkommenen Rückzugsort. Durch die überschaubare Grö�?e können Eltern ihre Kinder leicht im Auge behalten, während diese sicher spielen. Ein fester Bestandteil des Freizeitangebots für Familien in dieser beliebten Küstenstadt nahe der italienischen Grenze. Pädagogik K4 �?? Spiel- und Lernumgebungen.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Ideal fÃ¼r Kinder unter 10 Jahren", "Zentral gelegen in Menton", "Schattenreiche Bereiche fÃ¼r heiÃŸe Tage"],
-      hu: ["IdeÃ¡lis 10 Ã©v alatti gyermekek szÃ¡mÃ¡ra", "KÃ¶zponti helyen, Mentonban", "ÃrnyÃ©kos terÃ¼letek a forrÃ³ napokra"],
-      ro: ["Ideal pentru copiii sub 10 ani", "Situat central Ã®n Menton", "Zone umbrite pentru zilele cÄƒlduroase"],
+      de: ["Ideal für Kinder unter 10 Jahren", "Zentral gelegen in Menton", "Schattenreiche Bereiche für hei�?e Tage"],
+      hu: ["Ideális 10 év alatti gyermekek számára", "Központi helyen, Mentonban", "Árnyékos területek a forró napokra"],
+      ro: ["Ideal pentru copiii sub 10 ani", "Situat central în Menton", "Zone umbrite pentru zilele c�?lduroase"],
       en: ["Ideal for children under 10", "Centrally located in Menton", "Shaded areas for hot days"],
     },
     factsAdvanced: {
-      de: ["Kompakter Park speziell fÃ¼r jÃ¼ngere Kinder.", "Klassische FahrgeschÃ¤fte und Minigolf.", "Sicherer Rahmen fÃ¼r spielende Kinder.", "Gute Erreichbarkeit im Stadtzentrum.", "Entspannte AtmosphÃ¤re fÃ¼r Familien.", "Schattenbereiche bieten Schutz vor intensiver Sonne.", "Ein geschÃ¤tztes Angebot fÃ¼r die lokale Gemeinschaft."],
+      de: ["Kompakter Park speziell für jüngere Kinder.", "Klassische Fahrgeschäfte und Minigolf.", "Sicherer Rahmen für spielende Kinder.", "Gute Erreichbarkeit im Stadtzentrum.", "Entspannte Atmosphäre für Familien.", "Schattenbereiche bieten Schutz vor intensiver Sonne.", "Ein geschätztes Angebot für die lokale Gemeinschaft."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -231,28 +231,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Village of Fools",
     },
     description: {
-      de: "Ein Freizeitpark mit Ã¼ber 30 skurrilen und lustigen Spielen fÃ¼r alle Altersgruppen, darunter ein Planschbecken und Trampoline.",
-      hu: "Egy szabadidÅ‘park tÃ¶bb mint 30 furcsa Ã©s vicces jÃ¡tÃ©kkal minden korosztÃ¡ly szÃ¡mÃ¡ra, beleÃ©rtve egy pancsolÃ³t Ã©s trambulinokat.",
-      ro: "Un parc de agrement cu peste 30 de jocuri ciudate È™i amuzante pentru toate vÃ¢rstele, inclusiv o piscinÄƒ pentru copii È™i trambuline.",
+      de: "Ein Freizeitpark mit über 30 skurrilen und lustigen Spielen für alle Altersgruppen, darunter ein Planschbecken und Trampoline.",
+      hu: "Egy szabadid�?park több mint 30 furcsa és vicces játékkal minden korosztály számára, beleértve egy pancsolót és trambulinokat.",
+      ro: "Un parc de agrement cu peste 30 de jocuri ciudate �?i amuzante pentru toate vârstele, inclusiv o piscin�? pentru copii �?i trambuline.",
       en: "A leisure park with over 30 quirky and fun games for all ages, including a splash pool and trampolines.",
     },
     descriptionAdvanced: {
-      de: "Das 'Village des Fous' in der NÃ¤he von Villeneuve-Loubet ist ein kreativer Freizeitpark, der sich von konventionellen Anlagen abhebt. Mit Ã¼ber 30 ungewÃ¶hnlichen und spielerischen Attraktionen steht die aktive Bewegung im Vordergrund. Ob Planschbecken fÃ¼r die Kleinen oder Trampoline fÃ¼r Aktive â€“ der Park bietet Raum fÃ¼r spielerische Entfaltung bei Kindern aller Altersgruppen. Die ungewÃ¶hnliche, 'verrÃ¼ckte' Gestaltung der Parkelemente fÃ¶rdert die Fantasie und macht den Besuch zu einem besonderen Erlebnis, das weit Ã¼ber das bloÃŸe Spielen hinausgeht. Sport K5 â€” kÃ¶rperliche BetÃ¤tigung und Koordination.",
+      de: "Das 'Village des Fous' in der Nähe von Villeneuve-Loubet ist ein kreativer Freizeitpark, der sich von konventionellen Anlagen abhebt. Mit über 30 ungewöhnlichen und spielerischen Attraktionen steht die aktive Bewegung im Vordergrund. Ob Planschbecken für die Kleinen oder Trampoline für Aktive �?? der Park bietet Raum für spielerische Entfaltung bei Kindern aller Altersgruppen. Die ungewöhnliche, 'verrückte' Gestaltung der Parkelemente fördert die Fantasie und macht den Besuch zu einem besonderen Erlebnis, das weit über das blo�?e Spielen hinausgeht. Sport K5 �?? körperliche Betätigung und Koordination.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["In der NÃ¤he von Villeneuve-Loubet", "Konzentriert sich auf kÃ¶rperliche AktivitÃ¤t", "Einzigartiges, verdrehtes Thema"],
-      hu: ["Villeneuve-Loubet kÃ¶zelÃ©ben", "A fizikai aktivitÃ¡sra Ã¶sszpontosÃ­t", "Egyedi, 'kifordÃ­tott' tematika"],
-      ro: ["Aproape de Villeneuve-Loubet", "Se concentreazÄƒ pe activitatea fizicÄƒ", "TemÄƒ unicÄƒ, rÄƒsturnatÄƒ"],
+      de: ["In der Nähe von Villeneuve-Loubet", "Konzentriert sich auf körperliche Aktivität", "Einzigartiges, verdrehtes Thema"],
+      hu: ["Villeneuve-Loubet közelében", "A fizikai aktivitásra összpontosít", "Egyedi, 'kifordított' tematika"],
+      ro: ["Aproape de Villeneuve-Loubet", "Se concentreaz�? pe activitatea fizic�?", "Tem�? unic�?, r�?sturnat�?"],
       en: ["Near Villeneuve-Loubet", "Focuses on physical activity", "Unique, upside-down theme"],
     },
     factsAdvanced: {
-      de: ["Kreativer Park mit Ã¼ber 30 unkonventionellen Spielstationen.", "Fokussiert auf Bewegung und kÃ¶rperliche AktivitÃ¤t.", "Einzigartiges 'verrÃ¼cktes' Designkonzept.", "Bietet Trampoline und Wasserbecken.", "Geeignet fÃ¼r alle Altersstufen.", "FÃ¶rdert Fantasie und soziale Interaktion.", "Ein Erlebnis, das aus dem Rahmen fÃ¤llt."],
+      de: ["Kreativer Park mit über 30 unkonventionellen Spielstationen.", "Fokussiert auf Bewegung und körperliche Aktivität.", "Einzigartiges 'verrücktes' Designkonzept.", "Bietet Trampoline und Wasserbecken.", "Geeignet für alle Altersstufen.", "Fördert Fantasie und soziale Interaktion.", "Ein Erlebnis, das aus dem Rahmen fällt."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -262,33 +262,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.205, 43.711],
     name: {
       de: "Pitchoun Forest",
-      hu: "Pitchoun ErdÅ‘",
-      ro: "PÄƒdurea Pitchoun",
+      hu: "Pitchoun Erd�?",
+      ro: "P�?durea Pitchoun",
       en: "Pitchoun Forest",
     },
     description: {
-      de: "Ein Abenteuer-Hochseilgarten, der speziell fÃ¼r Kinder im Alter von 3-10 Jahren entwickelt wurde, mit sicheren und unterhaltsamen Parcours.",
-      hu: "Egy kalandpark, amelyet kifejezetten 3-10 Ã©ves korÃº gyermekek szÃ¡mÃ¡ra terveztek, biztonsÃ¡gos Ã©s szÃ³rakoztatÃ³ pÃ¡lyÃ¡kkal.",
-      ro: "Un parc de aventurÄƒ conceput special pentru copiii cu vÃ¢rste Ã®ntre 3-10 ani, cu trasee sigure È™i distractive.",
+      de: "Ein Abenteuer-Hochseilgarten, der speziell für Kinder im Alter von 3-10 Jahren entwickelt wurde, mit sicheren und unterhaltsamen Parcours.",
+      hu: "Egy kalandpark, amelyet kifejezetten 3-10 éves korú gyermekek számára terveztek, biztonságos és szórakoztató pályákkal.",
+      ro: "Un parc de aventur�? conceput special pentru copiii cu vârste între 3-10 ani, cu trasee sigure �?i distractive.",
       en: "An adventure tree-climbing park designed specifically for children aged 3-10, with safe and fun courses.",
     },
     descriptionAdvanced: {
-      de: "Der 'Pitchoun Forest' bietet Kindern im Alter von 3 bis 10 Jahren eine sichere MÃ¶glichkeit, ihre Grenzen zu testen und erste Erfahrungen in einem Hochseilgarten zu sammeln. Das GelÃ¤nde ist exakt auf die motorischen FÃ¤higkeiten der Zielgruppe zugeschnitten und wird streng durch geschultes Personal Ã¼berwacht. Vier verschiedene Schwierigkeitsgrade ermÃ¶glichen es, dass jedes Kind in seinem eigenen Tempo lernen kann, wÃ¤hrend es spielerisch Balance und Koordination trainiert. Es ist die perfekte ErgÃ¤nzung fÃ¼r Familien, die nach einem aktiven und zugleich sicheren Erlebnis in der Natur suchen. Sport K4 â€” Motorik und Geschicklichkeit.",
+      de: "Der 'Pitchoun Forest' bietet Kindern im Alter von 3 bis 10 Jahren eine sichere Möglichkeit, ihre Grenzen zu testen und erste Erfahrungen in einem Hochseilgarten zu sammeln. Das Gelände ist exakt auf die motorischen Fähigkeiten der Zielgruppe zugeschnitten und wird streng durch geschultes Personal überwacht. Vier verschiedene Schwierigkeitsgrade ermöglichen es, dass jedes Kind in seinem eigenen Tempo lernen kann, während es spielerisch Balance und Koordination trainiert. Es ist die perfekte Ergänzung für Familien, die nach einem aktiven und zugleich sicheren Erlebnis in der Natur suchen. Sport K4 �?? Motorik und Geschicklichkeit.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
       de: ["Sicherheit steht an erster Stelle", "4 verschiedene Schwierigkeitsgrade", "Direkt neben dem Village des Fous"],
-      hu: ["A biztonsÃ¡g az elsÅ‘", "4 kÃ¼lÃ¶nbÃ¶zÅ‘ nehÃ©zsÃ©gi szint", "KÃ¶zvetlenÃ¼l a Village des Fous mellett"],
-      ro: ["SiguranÈ›a este prioritarÄƒ", "4 niveluri diferite de dificultate", "Chiar lÃ¢ngÄƒ Village des Fous"],
+      hu: ["A biztonság az els�?", "4 különböz�? nehézségi szint", "Közvetlenül a Village des Fous mellett"],
+      ro: ["Siguran�?a este prioritar�?", "4 niveluri diferite de dificultate", "Chiar lâng�? Village des Fous"],
       en: ["Safety is a top priority", "4 different levels of difficulty", "Right next to Village des Fous"],
     },
     factsAdvanced: {
-      de: ["Spezieller Hochseilgarten fÃ¼r Kinder von 3 bis 10 Jahren.", "Fokus auf Sicherheit und motorische FÃ¤higkeiten.", "4 Schwierigkeitsgrade erlauben individuelles Lernen.", "Strenge Ãœberwachung durch geschultes Fachpersonal.", "ErgÃ¤nzt das Angebot durch aktive Naturerlebnisse.", "Ideal fÃ¼r Kindergruppen und Familien.", "FÃ¶rdert Koordination und Selbstvertrauen."],
+      de: ["Spezieller Hochseilgarten für Kinder von 3 bis 10 Jahren.", "Fokus auf Sicherheit und motorische Fähigkeiten.", "4 Schwierigkeitsgrade erlauben individuelles Lernen.", "Strenge �?berwachung durch geschultes Fachpersonal.", "Ergänzt das Angebot durch aktive Naturerlebnisse.", "Ideal für Kindergruppen und Familien.", "Fördert Koordination und Selbstvertrauen."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -298,33 +298,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.203, 43.709],
     name: {
       de: "Le Bois des Lutins",
-      hu: "A ManÃ³k Erdeje",
-      ro: "PÄƒdurea SpiriduÈ™ilor",
+      hu: "A Manók Erdeje",
+      ro: "P�?durea Spiridu�?ilor",
       en: "The Wood of the Elves",
     },
     description: {
-      de: "Ein magischer Themenpark mit BaumhÃ¤usern, Netzen, Rutschen und Ziplines, der auf dem Thema Elfen und Kobolde basiert.",
-      hu: "Egy varÃ¡zslatos vidÃ¡mpark fahÃ¡zakkal, hÃ¡lÃ³kkal, csÃºszdÃ¡kkal Ã©s drÃ³tkÃ¶tÃ©lpÃ¡lyÃ¡kkal, amely a manÃ³k Ã©s koboldok tÃ©mÃ¡jÃ¡ra Ã©pÃ¼l.",
-      ro: "Un parc tematic magic cu case Ã®n copaci, plase, tobogane È™i tiroliene, bazat pe tema elfilor È™i a spiriduÈ™ilor.",
+      de: "Ein magischer Themenpark mit Baumhäusern, Netzen, Rutschen und Ziplines, der auf dem Thema Elfen und Kobolde basiert.",
+      hu: "Egy varázslatos vidámpark faházakkal, hálókkal, csúszdákkal és drótkötélpályákkal, amely a manók és koboldok témájára épül.",
+      ro: "Un parc tematic magic cu case în copaci, plase, tobogane �?i tiroliene, bazat pe tema elfilor �?i a spiridu�?ilor.",
       en: "A magical theme park with treehouses, nets, slides, and ziplines, based on the theme of elves and goblins.",
     },
     descriptionAdvanced: {
-      de: "Der 'Bois des Lutins' entfÃ¼hrt seine Besucher in eine magische Welt voller Elfen und Kobolde. Der Park ist so konzipiert, dass er Spielabenteuer sowohl am Boden als auch in den BÃ¤umen bietet, inklusive BaumhÃ¤usern, Netzen und abenteuerlichen Ziplines. Diese mÃ¤rchenhafte Kulisse fÃ¶rdert die Fantasie von Kindern und bietet auch Erwachsenen einen Ort der Entschleunigung in einer naturverbundenen Umgebung. Als Teil des Freizeit-Clustern bei Villeneuve-Loubet ist er eine ideale Station fÃ¼r einen erlebnisreichen Tag. Fantasie K6 â€” MÃ¤rchen und Naturerlebnis.",
+      de: "Der 'Bois des Lutins' entführt seine Besucher in eine magische Welt voller Elfen und Kobolde. Der Park ist so konzipiert, dass er Spielabenteuer sowohl am Boden als auch in den Bäumen bietet, inklusive Baumhäusern, Netzen und abenteuerlichen Ziplines. Diese märchenhafte Kulisse fördert die Fantasie von Kindern und bietet auch Erwachsenen einen Ort der Entschleunigung in einer naturverbundenen Umgebung. Als Teil des Freizeit-Clustern bei Villeneuve-Loubet ist er eine ideale Station für einen erlebnisreichen Tag. Fantasie K6 �?? Märchen und Naturerlebnis.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Spiele am Boden und in den BÃ¤umen", "FÃ¼r alle Altersgruppen geeignet", "Kombinieren Sie es mit benachbarten Parks fÃ¼r einen ganzen Tag"],
-      hu: ["JÃ¡tÃ©kok a fÃ¶ldÃ¶n Ã©s a fÃ¡kon", "Minden korosztÃ¡ly szÃ¡mÃ¡ra alkalmas", "KombinÃ¡lhatÃ³ a szomszÃ©dos parkokkal egy egÃ©sz napos programÃ©rt"],
-      ro: ["Jocuri la sol È™i Ã®n copaci", "Potrivit pentru toate vÃ¢rstele", "CombinaÈ›i cu parcurile Ã®nvecinate pentru o zi Ã®ntreagÄƒ"],
+      de: ["Spiele am Boden und in den Bäumen", "Für alle Altersgruppen geeignet", "Kombinieren Sie es mit benachbarten Parks für einen ganzen Tag"],
+      hu: ["Játékok a földön és a fákon", "Minden korosztály számára alkalmas", "Kombinálható a szomszédos parkokkal egy egész napos programért"],
+      ro: ["Jocuri la sol �?i în copaci", "Potrivit pentru toate vârstele", "Combina�?i cu parcurile învecinate pentru o zi întreag�?"],
       en: ["Games on the ground and in the trees", "Suitable for all ages", "Combine with neighboring parks for a full day out"],
     },
     factsAdvanced: {
-      de: ["MÃ¤rchenhafte Themenwelt basierend auf Elfen und Kobolden.", "Kletterabenteuer am Boden und in den BÃ¤umen.", "Umfasst BaumhÃ¤user, Netze und Ziplines.", "Geeignet fÃ¼r Besucher jeden Alters.", "Starke Betonung des Naturerlebnisses.", "Teil eines grÃ¶ÃŸeren Freizeitkomplexes in Villeneuve-Loubet.", "FÃ¶rdert spielerische KreativitÃ¤t."],
+      de: ["Märchenhafte Themenwelt basierend auf Elfen und Kobolden.", "Kletterabenteuer am Boden und in den Bäumen.", "Umfasst Baumhäuser, Netze und Ziplines.", "Geeignet für Besucher jeden Alters.", "Starke Betonung des Naturerlebnisses.", "Teil eines grö�?eren Freizeitkomplexes in Villeneuve-Loubet.", "Fördert spielerische Kreativität."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -339,28 +339,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Aquasplash, Antibes",
     },
     description: {
-      de: "Ein groÃŸer Wasserpark neben Marineland mit einer Vielzahl von Rutschen, einem Wellenbad und Bereichen fÃ¼r kleine Kinder.",
-      hu: "Egy nagy aquapark a Marineland mellett, sokfÃ©le csÃºszdÃ¡val, hullÃ¡mmedencÃ©vel Ã©s kisgyermekek szÃ¡mÃ¡ra kialakÃ­tott terÃ¼letekkel.",
-      ro: "Un parc acvatic mare, adiacent la Marineland, cu o varietate de tobogane, o piscinÄƒ cu valuri È™i zone pentru copii mici.",
+      de: "Ein gro�?er Wasserpark neben Marineland mit einer Vielzahl von Rutschen, einem Wellenbad und Bereichen für kleine Kinder.",
+      hu: "Egy nagy aquapark a Marineland mellett, sokféle csúszdával, hullámmedencével és kisgyermekek számára kialakított területekkel.",
+      ro: "Un parc acvatic mare, adiacent la Marineland, cu o varietate de tobogane, o piscin�? cu valuri �?i zone pentru copii mici.",
       en: "A large water park adjacent to Marineland, with a variety of slides, a wave pool, and areas for young children.",
     },
     descriptionAdvanced: {
-      de: "Aquasplash ist eine der attraktivsten Freizeitoptionen fÃ¼r Familien an der CÃ´te d'Azur. Der groÃŸzÃ¼gig angelegte Wasserpark bietet mit Ã¼ber 20 FahrgeschÃ¤ften und 13 verschiedenen Rutschen ein vielfÃ¤ltiges Erlebnis, das von actionreichen Abfahrten bis hin zu entspannenden Bereichen reicht. Speziell fÃ¼r kleine Kinder gibt es geschÃ¼tzte Zonen, in denen sie sicher planschen kÃ¶nnen. Als integraler Bestandteil des Marineland-Resorts in Antibes ist er die erste Wahl fÃ¼r eine AbkÃ¼hlung an heiÃŸen Sommertagen. Er ist auf Unterhaltung und Sicherheit gleichermaÃŸen fokussiert. Sport K4 â€” WasseraktivitÃ¤ten und Freizeit.",
+      de: "Aquasplash ist eine der attraktivsten Freizeitoptionen für Familien an der Côte d'Azur. Der gro�?zügig angelegte Wasserpark bietet mit über 20 Fahrgeschäften und 13 verschiedenen Rutschen ein vielfältiges Erlebnis, das von actionreichen Abfahrten bis hin zu entspannenden Bereichen reicht. Speziell für kleine Kinder gibt es geschützte Zonen, in denen sie sicher planschen können. Als integraler Bestandteil des Marineland-Resorts in Antibes ist er die erste Wahl für eine Abkühlung an hei�?en Sommertagen. Er ist auf Unterhaltung und Sicherheit gleicherma�?en fokussiert. Sport K4 �?? Wasseraktivitäten und Freizeit.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Ãœber 20 FahrgeschÃ¤fte und 13 Rutschen", "Perfekt, um sich an einem heiÃŸen Tag abzukÃ¼hlen", "Teil des Marineland-Resorts"],
-      hu: ["TÃ¶bb mint 20 attrakciÃ³ Ã©s 13 csÃºszda", "TÃ¶kÃ©letes a forrÃ³ napokon valÃ³ lehÅ±lÃ©sre", "A Marineland Ã¼dÃ¼lÅ‘hely rÃ©sze"],
-      ro: ["Peste 20 de atracÈ›ii È™i 13 tobogane", "Perfect pentru a te rÄƒcori Ã®ntr-o zi fierbinte", "Parte a complexului Marineland"],
+      de: ["�?ber 20 Fahrgeschäfte und 13 Rutschen", "Perfekt, um sich an einem hei�?en Tag abzukühlen", "Teil des Marineland-Resorts"],
+      hu: ["Több mint 20 attrakció és 13 csúszda", "Tökéletes a forró napokon való lehűlésre", "A Marineland üdül�?hely része"],
+      ro: ["Peste 20 de atrac�?ii �?i 13 tobogane", "Perfect pentru a te r�?cori într-o zi fierbinte", "Parte a complexului Marineland"],
       en: ["Over 20 rides and 13 slides", "Perfect for cooling off on a hot day", "Part of the Marineland resort"],
     },
     factsAdvanced: {
-      de: ["Umfangreicher Wasserpark an der CÃ´te d'Azur.", "Ãœber 20 Attraktionen inklusive 13 abwechslungsreicher Rutschen.", "Besondere Bereiche fÃ¼r Kleinkinder.", "Beliebte Anlage zur AbkÃ¼hlung im Sommer.", "Wichtiger Bestandteil des Marineland-Resorts.", "Fokus auf SpaÃŸ und Sicherheit.", "Ein bedeutender Freizeitmagnet der Region."],
+      de: ["Umfangreicher Wasserpark an der Côte d'Azur.", "�?ber 20 Attraktionen inklusive 13 abwechslungsreicher Rutschen.", "Besondere Bereiche für Kleinkinder.", "Beliebte Anlage zur Abkühlung im Sommer.", "Wichtiger Bestandteil des Marineland-Resorts.", "Fokus auf Spa�? und Sicherheit.", "Ein bedeutender Freizeitmagnet der Region."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   // agriculture
@@ -370,34 +370,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.4206, 43.7335],
     name: {
-      de: "MarchÃ© de la Condamine",
+      de: "Marché de la Condamine",
       hu: "Condamine Piac",
-      ro: "PiaÈ›a Condamine",
+      ro: "Pia�?a Condamine",
       en: "Condamine Market",
     },
     description: {
-      de: "Ein traditioneller monegassischer Markt mit StÃ¤nden, die frisches Obst, GemÃ¼se, KÃ¤se und lokale SpezialitÃ¤ten verkaufen.",
-      hu: "HagyomÃ¡nyos monacÃ³i piac, ahol friss gyÃ¼mÃ¶lcsÃ¶t, zÃ¶ldsÃ©get, sajtot Ã©s helyi specialitÃ¡sokat Ã¡rulnak.",
-      ro: "O piaÈ›Äƒ tradiÈ›ionalÄƒ monegascÈ™ cu tarabe care vÃ¢nd fructe proaspete, legume, brÃ¢nzeturi È™i specialitÄƒÈ›i locale.",
+      de: "Ein traditioneller monegassischer Markt mit Ständen, die frisches Obst, Gemüse, Käse und lokale Spezialitäten verkaufen.",
+      hu: "Hagyományos monacói piac, ahol friss gyümölcsöt, zöldséget, sajtot és helyi specialitásokat árulnak.",
+      ro: "O pia�?�? tradi�?ional�? monegasc�? cu tarabe care vând fructe proaspete, legume, brânzeturi �?i specialit�?�?i locale.",
       en: "A traditional Monegasque market with stalls selling fresh fruits, vegetables, cheeses, and local specialties.",
     },
     descriptionAdvanced: {
-      de: "Der MarchÃ© de la Condamine ist das pulsierende kulinarische Herz Monacos. Seit seiner GrÃ¼ndung im Jahr 1880 dient er als fester Treffpunkt fÃ¼r Einwohner und als Schaufenster fÃ¼r die Region. Neben frischen Produkten aus dem Umland beherbergt die Anlage eine Food-Halle, in der lokale SpezialitÃ¤ten wie 'Barbagiuan' oder 'Socca' verkostet werden kÃ¶nnen. Der Markt verkÃ¶rpert das authentische, alltÃ¤gliche Leben des FÃ¼rstentums, jenseits der luxuriÃ¶sen Fassaden. Er ist ein wichtiger kultureller Ort, der regionale IdentitÃ¤t mit der modernen Gastronomie Monacos verbindet. Wirtschaft K8 â€” regionale MÃ¤rkte und Versorgung.",
+      de: "Der Marché de la Condamine ist das pulsierende kulinarische Herz Monacos. Seit seiner Gründung im Jahr 1880 dient er als fester Treffpunkt für Einwohner und als Schaufenster für die Region. Neben frischen Produkten aus dem Umland beherbergt die Anlage eine Food-Halle, in der lokale Spezialitäten wie 'Barbagiuan' oder 'Socca' verkostet werden können. Der Markt verkörpert das authentische, alltägliche Leben des Fürstentums, jenseits der luxuriösen Fassaden. Er ist ein wichtiger kultureller Ort, der regionale Identität mit der modernen Gastronomie Monacos verbindet. Wirtschaft K8 �?? regionale Märkte und Versorgung.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["TÃ¤glich geÃ¶ffnet", "Hat auch eine Food-Halle", "Ein authentisches lokales Erlebnis"],
-      hu: ["Minden nap nyitva", "Van egy Ã©telcsarnoka is", "Autentikus helyi Ã©lmÃ©ny"],
-      ro: ["Deschis zilnic", "Are È™i o halÄƒ alimentarÄƒ", "O experienÈ›Äƒ localÄƒ autenticÄƒ"],
+      de: ["Täglich geöffnet", "Hat auch eine Food-Halle", "Ein authentisches lokales Erlebnis"],
+      hu: ["Minden nap nyitva", "Van egy ételcsarnoka is", "Autentikus helyi élmény"],
+      ro: ["Deschis zilnic", "Are �?i o hal�? alimentar�?", "O experien�?�? local�? autentic�?"],
       en: ["Open every day", "Also has a food hall", "An authentic local experience"],
     },
     factsAdvanced: {
-      de: ["Traditioneller Markt seit 1880.", "Zentrum fÃ¼r frische lokale Produkte.", "Integrierte Food-Halle fÃ¼r lokale SpezialitÃ¤ten.", "Authentisches Erlebnis abseits der touristischen Hochglanzlagen.", "Essentieller Treffpunkt fÃ¼r die Monegassen.", "Wichtiger kultureller Ankerpunkt im Stadtbild.", "Verbindung von Tradition und Gastronomie."],
+      de: ["Traditioneller Markt seit 1880.", "Zentrum für frische lokale Produkte.", "Integrierte Food-Halle für lokale Spezialitäten.", "Authentisches Erlebnis abseits der touristischen Hochglanzlagen.", "Essentieller Treffpunkt für die Monegassen.", "Wichtiger kultureller Ankerpunkt im Stadtbild.", "Verbindung von Tradition und Gastronomie."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -408,32 +408,32 @@ export const poiExtraMonacoOther: POI[] = [
     name: {
       de: "Zitronenhaine von Menton",
       hu: "Mentoni Citromligetek",
-      ro: "Livezile de lÄƒmÃ¢i din Menton",
+      ro: "Livezile de l�?mâi din Menton",
       en: "Lemon Groves of Menton",
     },
     description: {
-      de: "Menton ist berÃ¼hmt fÃ¼r seine einzigartigen, sÃ¼ÃŸen Zitronen. In der ganzen Stadt finden sich Zitronenhaine und Produkte.",
-      hu: "Menton hÃ­res egyedi, Ã©des citromjÃ¡rÃ³l. A vÃ¡rosban mindenÃ¼tt citromligetek Ã©s termÃ©kek talÃ¡lhatÃ³k.",
-      ro: "Menton este renumit pentru lÄƒmÃ¢ile sale unice È™i dulci. Livezile È™i produsele din lÄƒmÃ¢i se gÄƒsesc Ã®n tot oraÈ™ul.",
+      de: "Menton ist berühmt für seine einzigartigen, sü�?en Zitronen. In der ganzen Stadt finden sich Zitronenhaine und Produkte.",
+      hu: "Menton híres egyedi, édes citromjáról. A városban mindenütt citromligetek és termékek találhatók.",
+      ro: "Menton este renumit pentru l�?mâile sale unice �?i dulci. Livezile �?i produsele din l�?mâi se g�?sesc în tot ora�?ul.",
       en: "Menton is famous for its unique, sweet lemons. Groves and products can be found throughout the town.",
     },
     descriptionAdvanced: {
-      de: "Die Zitronen von Menton sind legendÃ¤r fÃ¼r ihren hohen Zuckergehalt und ihr intensives Aroma. Dank des besonderen Mikroklimas entlang der KÃ¼ste gedeihen sie hier wie nirgendwo anders. Seit 2015 tragen sie die geschÃ¼tzte geografische Angabe (ggA), was ihre Einzigartigkeit unterstreicht. Das alljÃ¤hrliche Zitronenfest im Februar ist weit Ã¼ber die Grenzen Frankreichs bekannt und lockt tausende Besucher in die Stadt. Zitronenhaine prÃ¤gen seit Jahrhunderten das Bild von Menton und sind ein wichtiger Pfeiler der lokalen Wirtschaft und kulturellen IdentitÃ¤t. Geografie K7 â€” lokale SpezialitÃ¤ten.",
+      de: "Die Zitronen von Menton sind legendär für ihren hohen Zuckergehalt und ihr intensives Aroma. Dank des besonderen Mikroklimas entlang der Küste gedeihen sie hier wie nirgendwo anders. Seit 2015 tragen sie die geschützte geografische Angabe (ggA), was ihre Einzigartigkeit unterstreicht. Das alljährliche Zitronenfest im Februar ist weit über die Grenzen Frankreichs bekannt und lockt tausende Besucher in die Stadt. Zitronenhaine prägen seit Jahrhunderten das Bild von Menton und sind ein wichtiger Pfeiler der lokalen Wirtschaft und kulturellen Identität. Geografie K7 �?? lokale Spezialitäten.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["GeschÃ¼tzte geografische Angabe (ggA)", "JÃ¤hrliches Zitronenfest im Februar", "Probieren Sie Limoncello und Zitronentorten"],
-      hu: ["Oltalom alatt Ã¡llÃ³ fÃ¶ldrajzi jelzÃ©s (OFJ)", "Ã‰venkÃ©nti CitromfesztivÃ¡l februÃ¡rban", "KÃ³stolja meg a limoncellÃ³t Ã©s a citromos sÃ¼temÃ©nyeket"],
-      ro: ["IndicaÈ›ie GeograficÄƒ ProtejatÄƒ (IGP)", "Festivalul anual al lÄƒmÃ¢ilor Ã®n februarie", "ÃŽncercaÈ›i limoncello È™i tarte cu lÄƒmÃ¢ie"],
+      de: ["Geschützte geografische Angabe (ggA)", "Jährliches Zitronenfest im Februar", "Probieren Sie Limoncello und Zitronentorten"],
+      hu: ["Oltalom alatt álló földrajzi jelzés (OFJ)", "�?venkénti Citromfesztivál februárban", "Kóstolja meg a limoncellót és a citromos süteményeket"],
+      ro: ["Indica�?ie Geografic�? Protejat�? (IGP)", "Festivalul anual al l�?mâilor în februarie", "�?ncerca�?i limoncello �?i tarte cu l�?mâie"],
       en: ["Protected Geographical Indication (PGI)", "Annual Lemon Festival in February", "Try limoncello and lemon tarts"],
     },
     factsAdvanced: {
-      de: ["Menton-Zitrone ist eine geschÃ¼tzte Marke (ggA).", "Besonderes Mikroklima ist der SchlÃ¼ssel fÃ¼r die QualitÃ¤t.", "Das alljÃ¤hrliche Zitronenfest ist ein bedeutendes Event.", "Zitronenprodukte wie Limoncello sind wichtige lokale ExportgÃ¼ter.", "Zitronenhaine sind integraler Teil der Stadtgeschichte.", "Historische Tradition des Zitronenanbaus.", "Menton ist als 'Stadt der Zitronen' weltweit bekannt."],
+      de: ["Menton-Zitrone ist eine geschützte Marke (ggA).", "Besonderes Mikroklima ist der Schlüssel für die Qualität.", "Das alljährliche Zitronenfest ist ein bedeutendes Event.", "Zitronenprodukte wie Limoncello sind wichtige lokale Exportgüter.", "Zitronenhaine sind integraler Teil der Stadtgeschichte.", "Historische Tradition des Zitronenanbaus.", "Menton ist als 'Stadt der Zitronen' weltweit bekannt."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -443,33 +443,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.21, 43.74],
     name: {
       de: "Weinberge von Bellet",
-      hu: "Bellet SzÅ‘lÅ‘Ã¼ltetvÃ©nyek",
+      hu: "Bellet Sz�?l�?ültetvények",
       ro: "Viile din Bellet",
       en: "Vineyards of Bellet",
     },
     description: {
-      de: "Ein kleines, aber prestigetrÃ¤chtiges Weinanbaugebiet in den HÃ¼geln Ã¼ber Nizza, bekannt fÃ¼r seine einzigartigen Rebsorten.",
-      hu: "Egy kicsi, de tekintÃ©lyes borvidÃ©k Nizza feletti dombokon, amely egyedi szÅ‘lÅ‘fajtÃ¡irÃ³l ismert.",
-      ro: "O micÄƒ, dar prestigioasÄƒ regiune viticolÄƒ pe dealurile de deasupra Nisei, cunoscutÄƒ pentru soiurile sale unice de struguri.",
+      de: "Ein kleines, aber prestigeträchtiges Weinanbaugebiet in den Hügeln über Nizza, bekannt für seine einzigartigen Rebsorten.",
+      hu: "Egy kicsi, de tekintélyes borvidék Nizza feletti dombokon, amely egyedi sz�?l�?fajtáiról ismert.",
+      ro: "O mic�?, dar prestigioas�? regiune viticol�? pe dealurile de deasupra Nisei, cunoscut�? pentru soiurile sale unice de struguri.",
       en: "A small but prestigious wine-growing area in the hills above Nice, known for its unique grape varieties.",
     },
     descriptionAdvanced: {
-      de: "Das Bellet-Anbaugebiet ist eines der Ã¤ltesten und kleinsten AOC-Weingebiete in Frankreich. In den HÃ¼geln Ã¼ber Nizza gelegen, profitieren die Reben von einem auÃŸergewÃ¶hnlichen Mikroklima, das die Sonne der CÃ´te d'Azur mit frischen Brisen der Seealpen vereint. Diese Umgebung ermÃ¶glicht den Anbau von seltenen Rebsorten wie 'Folle Noire' und 'Braquet', die Weine mit unverwechselbarem Charakter hervorbringen. WeingÃ¼ter wie das 'ChÃ¢teau de CrÃ©mant' bieten Einblicke in eine jahrhundertealte Weintradition. Bellet steht fÃ¼r hÃ¶chste QualitÃ¤t, ExklusivitÃ¤t und das kulturelle Erbe der Region. Geschichte K8 â€” Weinanbau und Tradition.",
+      de: "Das Bellet-Anbaugebiet ist eines der ältesten und kleinsten AOC-Weingebiete in Frankreich. In den Hügeln über Nizza gelegen, profitieren die Reben von einem au�?ergewöhnlichen Mikroklima, das die Sonne der Côte d'Azur mit frischen Brisen der Seealpen vereint. Diese Umgebung ermöglicht den Anbau von seltenen Rebsorten wie 'Folle Noire' und 'Braquet', die Weine mit unverwechselbarem Charakter hervorbringen. Weingüter wie das 'Château de Crémant' bieten Einblicke in eine jahrhundertealte Weintradition. Bellet steht für höchste Qualität, Exklusivität und das kulturelle Erbe der Region. Geschichte K8 �?? Weinanbau und Tradition.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Eine der Ã¤ltesten AOCs in Frankreich", "Besuchen Sie WeingÃ¼ter wie ChÃ¢teau de CrÃ©mant", "Einzigartige Rebsorten: Folle Noire, Braquet"],
-      hu: ["FranciaorszÃ¡g egyik legrÃ©gebbi AOC-je", "LÃ¡togasson el olyan pincÃ©szetekbe, mint a ChÃ¢teau de CrÃ©mant", "Egyedi szÅ‘lÅ‘fajtÃ¡k: Folle Noire, Braquet"],
-      ro: ["Unul dintre cele mai vechi AOC-uri din FranÈ›a", "VizitaÈ›i crame precum ChÃ¢teau de CrÃ©mant", "Soiuri unice: Folle Noire, Braquet"],
-      en: ["One of the oldest AOCs in France", "Visit wineries like ChÃ¢teau de CrÃ©mant", "Unique grapes: Folle Noire, Braquet"],
+      de: ["Eine der ältesten AOCs in Frankreich", "Besuchen Sie Weingüter wie Château de Crémant", "Einzigartige Rebsorten: Folle Noire, Braquet"],
+      hu: ["Franciaország egyik legrégebbi AOC-je", "Látogasson el olyan pincészetekbe, mint a Château de Crémant", "Egyedi sz�?l�?fajták: Folle Noire, Braquet"],
+      ro: ["Unul dintre cele mai vechi AOC-uri din Fran�?a", "Vizita�?i crame precum Château de Crémant", "Soiuri unice: Folle Noire, Braquet"],
+      en: ["One of the oldest AOCs in France", "Visit wineries like Château de Crémant", "Unique grapes: Folle Noire, Braquet"],
     },
     factsAdvanced: {
-      de: ["Kleinstes und eines der Ã¤ltesten AOC-Gebiete Frankreichs.", "Einzigartiges Terroir in den HÃ¼geln Ã¼ber Nizza.", "Spezialisierung auf seltene Rebsorten wie 'Folle Noire'.", "WeingÃ¼ter wie das 'ChÃ¢teau de CrÃ©mant' sind historisch bedeutsam.", "Verbindet MeeresnÃ¤he mit alpinem Klima.", "Exklusiver Wein von hoher QualitÃ¤t.", "Bedeutendes kulturelles Erbe der Region."],
+      de: ["Kleinstes und eines der ältesten AOC-Gebiete Frankreichs.", "Einzigartiges Terroir in den Hügeln über Nizza.", "Spezialisierung auf seltene Rebsorten wie 'Folle Noire'.", "Weingüter wie das 'Château de Crémant' sind historisch bedeutsam.", "Verbindet Meeresnähe mit alpinem Klima.", "Exklusiver Wein von hoher Qualität.", "Bedeutendes kulturelles Erbe der Region."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -479,33 +479,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.272, 43.695],
     name: {
       de: "Blumenmarkt, Nizza",
-      hu: "VirÃ¡gpiac, Nizza",
-      ro: "PiaÈ›a de flori, Nisa",
+      hu: "Virágpiac, Nizza",
+      ro: "Pia�?a de flori, Nisa",
       en: "Flower Market, Nice",
     },
     description: {
-      de: "Der berÃ¼hmte Blumenmarkt auf dem Cours Saleya in der Altstadt von Nizza, der auch lokale Produkte verkauft.",
-      hu: "A hÃ­res virÃ¡gpiac a Cours Saleya-n Nizza Ã³vÃ¡rosÃ¡ban, ahol helyi termÃ©keket is Ã¡rulnak.",
-      ro: "Faimoasa piaÈ›Äƒ de flori de pe Cours Saleya din oraÈ™ul vechi al Nisei, care vinde È™i produse locale.",
+      de: "Der berühmte Blumenmarkt auf dem Cours Saleya in der Altstadt von Nizza, der auch lokale Produkte verkauft.",
+      hu: "A híres virágpiac a Cours Saleya-n Nizza óvárosában, ahol helyi termékeket is árulnak.",
+      ro: "Faimoasa pia�?�? de flori de pe Cours Saleya din ora�?ul vechi al Nisei, care vinde �?i produse locale.",
       en: "The famous flower market on the Cours Saleya in Nice's Old Town, which also sells local produce.",
     },
     descriptionAdvanced: {
-      de: "Der Blumenmarkt auf dem 'Cours Saleya' im Herzen der Altstadt von Nizza ist ein farbenfrohes Wahrzeichen der Stadt. Seit Jahrzehnten ist er ein Treffpunkt fÃ¼r Blumenliebhaber und ein Ort, an dem die typische mediterrane Frische erlebbar wird. Hier findet man nicht nur Blumen aus der Region, sondern auch lokale Lebensmittel und SpezialitÃ¤ten aus der Provence. Die lebendige Kulisse zwischen den historischen GebÃ¤uden macht den Markt zu einer Attraktion, die man bei einem Besuch in Nizza nicht verpassen darf. Er ist ein wichtiger wirtschaftlicher und sozialer Bestandteil der Altstadt. Sozialkunde K7 â€” Marktleben.",
+      de: "Der Blumenmarkt auf dem 'Cours Saleya' im Herzen der Altstadt von Nizza ist ein farbenfrohes Wahrzeichen der Stadt. Seit Jahrzehnten ist er ein Treffpunkt für Blumenliebhaber und ein Ort, an dem die typische mediterrane Frische erlebbar wird. Hier findet man nicht nur Blumen aus der Region, sondern auch lokale Lebensmittel und Spezialitäten aus der Provence. Die lebendige Kulisse zwischen den historischen Gebäuden macht den Markt zu einer Attraktion, die man bei einem Besuch in Nizza nicht verpassen darf. Er ist ein wichtiger wirtschaftlicher und sozialer Bestandteil der Altstadt. Sozialkunde K7 �?? Marktleben.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Montags AntiquitÃ¤tenmarkt", "Lebendige und farbenfrohe AtmosphÃ¤re", "TÃ¤glich auÃŸer montags"],
-      hu: ["HÃ©tfÅ‘nkÃ©nt rÃ©gisÃ©gpiac", "Ã‰lÃ©nk Ã©s szÃ­nes hangulat", "HÃ©tfÅ‘ kivÃ©telÃ©vel naponta"],
-      ro: ["PiaÈ›Äƒ de antichitÄƒÈ›i Ã®n zilele de luni", "AtmosferÄƒ vibrantÄƒ È™i plinÄƒ de culoare", "Zilnic, cu excepÈ›ia zilelor de luni"],
+      de: ["Montags Antiquitätenmarkt", "Lebendige und farbenfrohe Atmosphäre", "Täglich au�?er montags"],
+      hu: ["Hétf�?nként régiségpiac", "�?lénk és színes hangulat", "Hétf�? kivételével naponta"],
+      ro: ["Pia�?�? de antichit�?�?i în zilele de luni", "Atmosfer�? vibrant�? �?i plin�? de culoare", "Zilnic, cu excep�?ia zilelor de luni"],
       en: ["Antiques market on Mondays", "Vibrant and colorful atmosphere", "Daily except Mondays"],
     },
     factsAdvanced: {
-      de: ["Markenzeichen der Nizza-Altstadt seit langer Zeit.", "Cours Saleya dient als historische Kulisse.", "Verbindung von Blumenmarkt und Lebensmittelhandel.", "Ein wichtiges kulturelles Wahrzeichen von Nizza.", "Zentraler Ort fÃ¼r den Austausch in der Altstadt.", "Bietet tÃ¤glich frische regionale Waren.", "Montags durch AntiquitÃ¤tenmarkt ersetzt."],
+      de: ["Markenzeichen der Nizza-Altstadt seit langer Zeit.", "Cours Saleya dient als historische Kulisse.", "Verbindung von Blumenmarkt und Lebensmittelhandel.", "Ein wichtiges kulturelles Wahrzeichen von Nizza.", "Zentraler Ort für den Austausch in der Altstadt.", "Bietet täglich frische regionale Waren.", "Montags durch Antiquitätenmarkt ersetzt."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -516,32 +516,32 @@ export const poiExtraMonacoOther: POI[] = [
     name: {
       de: "Olivenhaine der Provence",
       hu: "Provence-i Olajfaligetek",
-      ro: "Livezile de mÄƒslini din Provence",
+      ro: "Livezile de m�?slini din Provence",
       en: "Olive Groves of Provence",
     },
     description: {
-      de: "Die Region ist berÃ¼hmt fÃ¼r ihr OlivenÃ¶l. Besuchen Sie MÃ¼hlen wie die Moulin d'Opio, um mehr Ã¼ber die Produktion zu erfahren.",
-      hu: "A rÃ©giÃ³ hÃ­res olÃ­vaolajÃ¡rÃ³l. LÃ¡togasson el olyan malmokba, mint a Moulin d'Opio, hogy megismerje a termelÃ©st.",
-      ro: "Regiunea este renumitÄƒ pentru uleiul de mÄƒsline. VizitaÈ›i mori precum Moulin d'Opio pentru a afla despre producÈ›ie.",
+      de: "Die Region ist berühmt für ihr Olivenöl. Besuchen Sie Mühlen wie die Moulin d'Opio, um mehr über die Produktion zu erfahren.",
+      hu: "A régió híres olívaolajáról. Látogasson el olyan malmokba, mint a Moulin d'Opio, hogy megismerje a termelést.",
+      ro: "Regiunea este renumit�? pentru uleiul de m�?sline. Vizita�?i mori precum Moulin d'Opio pentru a afla despre produc�?ie.",
       en: "The region is famous for its olive oil. Visit mills like Moulin d'Opio to learn about production.",
     },
     descriptionAdvanced: {
-      de: "Die Olivenhaine rund um Nizza und in den Alpes-Maritimes produzieren ein OlivenÃ¶l von Weltklasse. Viele der MÃ¼hlen, wie die traditionsreiche 'Moulin d'Opio', nutzen jahrhundertealte Verfahren, um aus handverlesenen Taggiasca-Oliven ein hochwertiges Ã–l zu gewinnen. Dieses Ã–l mit AOC-Zertifizierung ist ein essenzieller Bestandteil der mediterranen KÃ¼che und der regionalen IdentitÃ¤t. Besucher kÃ¶nnen bei FÃ¼hrungen direkt vor Ort lernen, wie der Prozess vom Baum bis zur Flasche ablÃ¤uft, und das Ã–l verkosten. Die Tradition des Olivenanbaus prÃ¤gt das landschaftliche Bild dieser Region maÃŸgeblich. Geografie K7 â€” Landwirtschaftliche Erzeugnisse.",
+      de: "Die Olivenhaine rund um Nizza und in den Alpes-Maritimes produzieren ein Olivenöl von Weltklasse. Viele der Mühlen, wie die traditionsreiche 'Moulin d'Opio', nutzen jahrhundertealte Verfahren, um aus handverlesenen Taggiasca-Oliven ein hochwertiges �?l zu gewinnen. Dieses �?l mit AOC-Zertifizierung ist ein essenzieller Bestandteil der mediterranen Küche und der regionalen Identität. Besucher können bei Führungen direkt vor Ort lernen, wie der Prozess vom Baum bis zur Flasche abläuft, und das �?l verkosten. Die Tradition des Olivenanbaus prägt das landschaftliche Bild dieser Region ma�?geblich. Geografie K7 �?? Landwirtschaftliche Erzeugnisse.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["GefÃ¼hrte Touren und Verkostungen", "AOC-zertifiziertes Ã–l", "Taggiasca-Olive ist eine lokale Sorte"],
-      hu: ["Vezetett tÃºrÃ¡k Ã©s kÃ³stolÃ³k", "OEM tanÃºsÃ­tvÃ¡nnyal rendelkezÅ‘ olaj", "A Taggiasca olajbogyÃ³ helyi fajta"],
-      ro: ["Tururi ghidate È™i degustÄƒri", "Ulei certificat AOC", "MÄƒslina Taggiasca este un soi local"],
+      de: ["Geführte Touren und Verkostungen", "AOC-zertifiziertes �?l", "Taggiasca-Olive ist eine lokale Sorte"],
+      hu: ["Vezetett túrák és kóstolók", "OEM tanúsítvánnyal rendelkez�? olaj", "A Taggiasca olajbogyó helyi fajta"],
+      ro: ["Tururi ghidate �?i degust�?ri", "Ulei certificat AOC", "M�?slina Taggiasca este un soi local"],
       en: ["Guided tours and tastings", "AOC certified oil", "Taggiasca olive is a local variety"],
     },
     factsAdvanced: {
-      de: ["Produktion von OlivenÃ¶l in einer jahrhundertealten Tradition.", "Spezialisierung auf hochwertige Taggiasca-Oliven.", "MÃ¼hlen wie die Moulin d'Opio bieten Besuchern Einblicke.", "AOC-Zertifizierungen garantieren lokale QualitÃ¤t.", "Olivenhaine als prÃ¤gendes Landschaftsmerkmal.", "Wesentlicher Teil der mediterranen ErnÃ¤hrung.", "Wichtiger landwirtschaftlicher Wirtschaftszweig."],
+      de: ["Produktion von Olivenöl in einer jahrhundertealten Tradition.", "Spezialisierung auf hochwertige Taggiasca-Oliven.", "Mühlen wie die Moulin d'Opio bieten Besuchern Einblicke.", "AOC-Zertifizierungen garantieren lokale Qualität.", "Olivenhaine als prägendes Landschaftsmerkmal.", "Wesentlicher Teil der mediterranen Ernährung.", "Wichtiger landwirtschaftlicher Wirtschaftszweig."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   // industry
@@ -551,34 +551,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.361, 43.728],
     name: {
-      de: "Parfumerie Fragonard, Ãˆze",
-      hu: "Fragonard ParfÃ¼mgyÃ¡r, Ãˆze",
-      ro: "Parfumeria Fragonard, Ãˆze",
-      en: "Fragonard Perfumery, Ãˆze",
+      de: "Parfumerie Fragonard, �?ze",
+      hu: "Fragonard Parfümgyár, �?ze",
+      ro: "Parfumeria Fragonard, �?ze",
+      en: "Fragonard Perfumery, �?ze",
     },
     description: {
-      de: "Eine ParfÃ¼mfabrik und ein Museum im mittelalterlichen Dorf Ãˆze. Kostenlose FÃ¼hrungen erklÃ¤ren den ParfÃ¼mherstellungsprozess.",
-      hu: "ParfÃ¼mgyÃ¡r Ã©s mÃºzeum Ãˆze kÃ¶zÃ©pkori falujÃ¡ban. Ingyenes tÃ¡rlatvezetÃ©sek mutatjÃ¡k be a parfÃ¼mkÃ©szÃ­tÃ©s folyamatÃ¡t.",
-      ro: "O fabricÄƒ de parfumuri È™i un muzeu Ã®n satul medieval Ãˆze. Tururile ghidate gratuite explicÄƒ procesul de fabricare a parfumului.",
-      en: "A perfume factory and museum in the medieval village of Ãˆze. Free guided tours explain the perfume-making process.",
+      de: "Eine Parfümfabrik und ein Museum im mittelalterlichen Dorf �?ze. Kostenlose Führungen erklären den Parfümherstellungsprozess.",
+      hu: "Parfümgyár és múzeum �?ze középkori falujában. Ingyenes tárlatvezetések mutatják be a parfümkészítés folyamatát.",
+      ro: "O fabric�? de parfumuri �?i un muzeu în satul medieval �?ze. Tururile ghidate gratuite explic�? procesul de fabricare a parfumului.",
+      en: "A perfume factory and museum in the medieval village of �?ze. Free guided tours explain the perfume-making process.",
     },
     descriptionAdvanced: {
-      de: "Die Fragonard-ParfÃ¼merie in Ãˆze verbindet die Tradition der franzÃ¶sischen ParfÃ¼mkunst mit einer atemberaubenden Aussicht vom mittelalterlichen Dorf aus. Besucher erhalten wÃ¤hrend der kostenlosen FÃ¼hrungen einen detaillierten Einblick in den komplexen Herstellungsprozess, von der Ernte der Blumen bis zur Destillation der kostbaren Essenzen. Als Teil der Region Provence, die fÃ¼r ihre Duftblumen berÃ¼hmt ist, spielt dieses Haus eine wichtige Rolle bei der Bewahrung eines jahrhundertealten Handwerks. Es ist ein bedeutender Anziehungspunkt fÃ¼r Touristen, die hinter die Kulissen der Luxusindustrie blicken mÃ¶chten. Geografie K8 â€” Handwerk und Tradition.",
+      de: "Die Fragonard-Parfümerie in �?ze verbindet die Tradition der französischen Parfümkunst mit einer atemberaubenden Aussicht vom mittelalterlichen Dorf aus. Besucher erhalten während der kostenlosen Führungen einen detaillierten Einblick in den komplexen Herstellungsprozess, von der Ernte der Blumen bis zur Destillation der kostbaren Essenzen. Als Teil der Region Provence, die für ihre Duftblumen berühmt ist, spielt dieses Haus eine wichtige Rolle bei der Bewahrung eines jahrhundertealten Handwerks. Es ist ein bedeutender Anziehungspunkt für Touristen, die hinter die Kulissen der Luxusindustrie blicken möchten. Geografie K8 �?? Handwerk und Tradition.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Eine von mehreren ParfÃ¼merien in der Region", "Kaufen Sie DÃ¼fte direkt ab Werk", "Tolle Aussicht vom Dorf"],
-      hu: ["Egy a rÃ©giÃ³ szÃ¡mos parfÃ¼mgyÃ¡ra kÃ¶zÃ¼l", "VÃ¡sÃ¡roljon illatokat kÃ¶zvetlenÃ¼l a gyÃ¡rbÃ³l", "NagyszerÅ± kilÃ¡tÃ¡s a falubÃ³l"],
-      ro: ["Una dintre numeroasele parfumerii din regiune", "CumpÄƒraÈ›i parfumuri direct de la fabricÄƒ", "Vederi minunate din sat"],
+      de: ["Eine von mehreren Parfümerien in der Region", "Kaufen Sie Düfte direkt ab Werk", "Tolle Aussicht vom Dorf"],
+      hu: ["Egy a régió számos parfümgyára közül", "Vásároljon illatokat közvetlenül a gyárból", "Nagyszerű kilátás a faluból"],
+      ro: ["Una dintre numeroasele parfumerii din regiune", "Cump�?ra�?i parfumuri direct de la fabric�?", "Vederi minunate din sat"],
       en: ["One of several perfumeries in the region", "Buy fragrances directly from the factory", "Great views from the village"],
     },
     factsAdvanced: {
-      de: ["Symbol fÃ¼r die franzÃ¶sische ParfÃ¼mtradition.", "Bietet Einblicke in den Destillationsprozess.", "Gelegen im pittoresken mittelalterlichen Dorf Ãˆze.", "Kostenlose Bildungsangebote fÃ¼r Touristen.", "Teil der weltberÃ¼hmten provenzalischen Duftindustrie.", "Direkter Werksverkauf vor Ort.", "Wichtiger kultureller Wirtschaftszweig der Region."],
+      de: ["Symbol für die französische Parfümtradition.", "Bietet Einblicke in den Destillationsprozess.", "Gelegen im pittoresken mittelalterlichen Dorf �?ze.", "Kostenlose Bildungsangebote für Touristen.", "Teil der weltberühmten provenzalischen Duftindustrie.", "Direkter Werksverkauf vor Ort.", "Wichtiger kultureller Wirtschaftszweig der Region."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -588,33 +588,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.253, 43.712],
     name: {
       de: "Confiserie Florian, Nizza",
-      hu: "Florian CukrÃ¡szda, Nizza",
-      ro: "CofetÄƒria Florian, Nisa",
+      hu: "Florian Cukrászda, Nizza",
+      ro: "Cofet�?ria Florian, Nisa",
       en: "Florian Confectionery, Nice",
     },
     description: {
-      de: "Eine traditionelle SÃ¼ÃŸwarenfabrik, die kandierte FrÃ¼chte, KonfitÃ¼ren und Schokolade aus lokalen Blumen und FrÃ¼chten herstellt.",
-      hu: "HagyomÃ¡nyos Ã©dessÃ©ggyÃ¡r, amely kandÃ­rozott gyÃ¼mÃ¶lcsÃ¶ket, lekvÃ¡rokat Ã©s csokolÃ¡dÃ©t kÃ©szÃ­t helyi virÃ¡gokbÃ³l Ã©s gyÃ¼mÃ¶lcsÃ¶kbÅ‘l.",
-      ro: "O fabricÄƒ tradiÈ›ionalÄƒ de cofetÄƒrie care produce fructe confiate, gemuri È™i ciocolatÄƒ din flori È™i fructe locale.",
+      de: "Eine traditionelle Sü�?warenfabrik, die kandierte Früchte, Konfitüren und Schokolade aus lokalen Blumen und Früchten herstellt.",
+      hu: "Hagyományos édességgyár, amely kandírozott gyümölcsöket, lekvárokat és csokoládét készít helyi virágokból és gyümölcsökb�?l.",
+      ro: "O fabric�? tradi�?ional�? de cofet�?rie care produce fructe confiate, gemuri �?i ciocolat�? din flori �?i fructe locale.",
       en: "A traditional confectionery that produces candied fruits, jams, and chocolates from local flowers and fruits.",
     },
     descriptionAdvanced: {
-      de: "Die Confiserie Florian in Nizza ist eine Institution, die die kulinarische Tradition der Region bewahrt. Bekannt fÃ¼r ihre 'Fruits Confits' (kandierte FrÃ¼chte) und Schokolade, verarbeitet das Haus ausschlieÃŸlich lokale Produkte wie Rosen, Veilchen oder Zitronen. In den WerkstÃ¤tten kÃ¶nnen Besucher live erleben, wie mit alten handwerklichen Methoden diese Delikatessen hergestellt werden. Florian ist ein Paradebeispiel fÃ¼r die Verbindung von regionaler Landwirtschaft und hochwertigem Handwerk. Ein Muss fÃ¼r GenieÃŸer, die das authentische Geschmackserlebnis der CÃ´te d'Azur suchen. Geschichte K7 â€” kulinarisches Handwerk.",
+      de: "Die Confiserie Florian in Nizza ist eine Institution, die die kulinarische Tradition der Region bewahrt. Bekannt für ihre 'Fruits Confits' (kandierte Früchte) und Schokolade, verarbeitet das Haus ausschlie�?lich lokale Produkte wie Rosen, Veilchen oder Zitronen. In den Werkstätten können Besucher live erleben, wie mit alten handwerklichen Methoden diese Delikatessen hergestellt werden. Florian ist ein Paradebeispiel für die Verbindung von regionaler Landwirtschaft und hochwertigem Handwerk. Ein Muss für Genie�?er, die das authentische Geschmackserlebnis der Côte d'Azur suchen. Geschichte K7 �?? kulinarisches Handwerk.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Kostenlose FÃ¼hrungen und Verkostungen", "Standorte in Pont-du-Loup und Nizza", "SpezialitÃ¤ten sind kandierte RosenblÃ¤tter"],
-      hu: ["Ingyenes tÃºrÃ¡k Ã©s kÃ³stolÃ³k", "Ãœzletek Pont-du-Loup-ban Ã©s NizzÃ¡ban", "SpecialitÃ¡suk a kandÃ­rozott rÃ³zsaszirom"],
-      ro: ["Tururi È™i degustÄƒri gratuite", "LocaÈ›ii Ã®n Pont-du-Loup È™i Nisa", "SpecialitÄƒÈ›ile includ petale de trandafir confiate"],
+      de: ["Kostenlose Führungen und Verkostungen", "Standorte in Pont-du-Loup und Nizza", "Spezialitäten sind kandierte Rosenblätter"],
+      hu: ["Ingyenes túrák és kóstolók", "�?zletek Pont-du-Loup-ban és Nizzában", "Specialitásuk a kandírozott rózsaszirom"],
+      ro: ["Tururi �?i degust�?ri gratuite", "Loca�?ii în Pont-du-Loup �?i Nisa", "Specialit�?�?ile includ petale de trandafir confiate"],
       en: ["Free guided tours and tastings", "Locations in Pont-du-Loup and Nice", "Specialties include candied rose petals"],
     },
     factsAdvanced: {
-      de: ["Bewahrung kulinarischer Tradition seit vielen Jahren.", "Verarbeitung lokaler SpezialitÃ¤ten wie Rosen und Veilchen.", "Transparente Herstellung durch offene WerkstÃ¤tten.", "Standorte in Nizza und Pont-du-Loup.", "Wichtiger Botschafter fÃ¼r regionale Delikatessen.", "Einzigartige handwerkliche Produktionsweise.", "Sehr beliebt bei Touristen und Einheimischen."],
+      de: ["Bewahrung kulinarischer Tradition seit vielen Jahren.", "Verarbeitung lokaler Spezialitäten wie Rosen und Veilchen.", "Transparente Herstellung durch offene Werkstätten.", "Standorte in Nizza und Pont-du-Loup.", "Wichtiger Botschafter für regionale Delikatessen.", "Einzigartige handwerkliche Produktionsweise.", "Sehr beliebt bei Touristen und Einheimischen."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -623,34 +623,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.099, 43.628],
     name: {
-      de: "GlasblÃ¤serei von Biot",
-      hu: "Biot-i ÃœvegfÃºvÃ³ MÅ±hely",
-      ro: "SticlÄƒria din Biot",
+      de: "Glasbläserei von Biot",
+      hu: "Biot-i �?vegfúvó Műhely",
+      ro: "Sticl�?ria din Biot",
       en: "Glassworks of Biot",
     },
     description: {
-      de: "Biot ist berÃ¼hmt fÃ¼r sein einzigartiges 'Blasenglas'. Besucher kÃ¶nnen GlasblÃ¤sern bei der Arbeit zusehen und Produkte kaufen.",
-      hu: "Biot hÃ­res egyedi 'buborÃ©kos Ã¼vegÃ©rÅ‘l'. A lÃ¡togatÃ³k megnÃ©zhetik az Ã¼vegfÃºvÃ³kat munka kÃ¶zben Ã©s vÃ¡sÃ¡rolhatnak termÃ©keket.",
-      ro: "Biot este renumit pentru 'sticla cu bule' unicÄƒ. Vizitatorii pot urmÄƒri sticlarii la lucru È™i pot cumpÄƒra produse.",
+      de: "Biot ist berühmt für sein einzigartiges 'Blasenglas'. Besucher können Glasbläsern bei der Arbeit zusehen und Produkte kaufen.",
+      hu: "Biot híres egyedi 'buborékos üvegér�?l'. A látogatók megnézhetik az üvegfúvókat munka közben és vásárolhatnak termékeket.",
+      ro: "Biot este renumit pentru 'sticla cu bule' unic�?. Vizitatorii pot urm�?ri sticlarii la lucru �?i pot cump�?ra produse.",
       en: "Biot is famous for its unique 'bubble glass'. Visitors can watch glassblowers at work and purchase products.",
     },
     descriptionAdvanced: {
-      de: "Die GlasblÃ¤serei in Biot ist weltberÃ¼hmt fÃ¼r das sogenannte 'Blasenglas', das durch eine spezielle Technik entsteht, bei der winzige Luftblasen in das Glas eingeschlossen werden. Diese Technik wurde 1956 perfektioniert und ist heute das Markenzeichen des Handwerks in Biot. In den zahlreichen WerkstÃ¤tten im Dorf kÃ¶nnen Interessierte den GlasblÃ¤sern bei ihrem anstrengenden Handwerk zuschauen und einzigartige StÃ¼cke erwerben. Ein Ecomuseum ergÃ¤nzt das Angebot und dokumentiert die lange Tradition des Handwerks. Biot ist ein Zentrum fÃ¼r hochwertiges Glaskunsthandwerk in der Region. Geschichte K8 â€” Kunsthandwerk.",
+      de: "Die Glasbläserei in Biot ist weltberühmt für das sogenannte 'Blasenglas', das durch eine spezielle Technik entsteht, bei der winzige Luftblasen in das Glas eingeschlossen werden. Diese Technik wurde 1956 perfektioniert und ist heute das Markenzeichen des Handwerks in Biot. In den zahlreichen Werkstätten im Dorf können Interessierte den Glasbläsern bei ihrem anstrengenden Handwerk zuschauen und einzigartige Stücke erwerben. Ein Ecomuseum ergänzt das Angebot und dokumentiert die lange Tradition des Handwerks. Biot ist ein Zentrum für hochwertiges Glaskunsthandwerk in der Region. Geschichte K8 �?? Kunsthandwerk.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Mehrere WerkstÃ¤tten im Dorf", "Einzigartige handwerkliche Tradition", "Ecomuseum zeigt die Geschichte"],
-      hu: ["TÃ¶bb mÅ±hely a faluban", "Egyedi kÃ©zmÅ±ves hagyomÃ¡ny", "Az Ã–komÃºzeum bemutatja a tÃ¶rtÃ©nelmet"],
-      ro: ["Mai multe ateliere Ã®n sat", "TradiÈ›ie artizanalÄƒ unicÄƒ", "Ecomuzeul prezintÄƒ istoria"],
+      de: ["Mehrere Werkstätten im Dorf", "Einzigartige handwerkliche Tradition", "Ecomuseum zeigt die Geschichte"],
+      hu: ["Több műhely a faluban", "Egyedi kézműves hagyomány", "Az �?komúzeum bemutatja a történelmet"],
+      ro: ["Mai multe ateliere în sat", "Tradi�?ie artizanal�? unic�?", "Ecomuzeul prezint�? istoria"],
       en: ["Several workshops in the village", "Unique artisanal tradition", "Ecomuseum showcases the history"],
     },
     factsAdvanced: {
-      de: ["Erfindung der Blasenglas-Technik in 1956.", "Zentrum fÃ¼r exklusives Kunsthandwerk.", "Zahlreiche WerkstÃ¤tten fÃ¼r Besucher offen.", "Dokumentation durch lokales Ecomuseum.", "Bedeutende handwerkliche Tradition der Region.", "Einzigartige Ã¤sthetische Produkte.", "Hochwertiges Kunsthandwerk auf Weltniveau."],
+      de: ["Erfindung der Blasenglas-Technik in 1956.", "Zentrum für exklusives Kunsthandwerk.", "Zahlreiche Werkstätten für Besucher offen.", "Dokumentation durch lokales Ecomuseum.", "Bedeutende handwerkliche Tradition der Region.", "Einzigartige ästhetische Produkte.", "Hochwertiges Kunsthandwerk auf Weltniveau."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -660,33 +660,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.05, 43.62],
     name: {
       de: "Technologiepark Sophia Antipolis",
-      hu: "Sophia Antipolis TechnolÃ³giai Park",
+      hu: "Sophia Antipolis Technológiai Park",
       ro: "Parcul Tehnologic Sophia Antipolis",
       en: "Sophia Antipolis Technology Park",
     },
     description: {
-      de: "Einer der grÃ¶ÃŸten Technologieparks in Europa, in dem Tausende von Unternehmen aus den Bereichen IT, Elektronik und Biotechnologie angesiedelt sind.",
-      hu: "EurÃ³pa egyik legnagyobb technolÃ³giai parkja, amely tÃ¶bb ezer IT, elektronikai Ã©s biotechnolÃ³giai vÃ¡llalatnak ad otthont.",
-      ro: "Unul dintre cele mai mari parcuri tehnologice din Europa, care gÄƒzduieÈ™te mii de companii din domeniul IT, electronicÄƒ È™i biotehnologie.",
+      de: "Einer der grö�?ten Technologieparks in Europa, in dem Tausende von Unternehmen aus den Bereichen IT, Elektronik und Biotechnologie angesiedelt sind.",
+      hu: "Európa egyik legnagyobb technológiai parkja, amely több ezer IT, elektronikai és biotechnológiai vállalatnak ad otthont.",
+      ro: "Unul dintre cele mai mari parcuri tehnologice din Europa, care g�?zduie�?te mii de companii din domeniul IT, electronic�? �?i biotehnologie.",
       en: "One of the largest technology parks in Europe, hosting thousands of companies in IT, electronics, and biotechnology.",
     },
     descriptionAdvanced: {
-      de: "Sophia Antipolis ist der bedeutendste Technologiepark Europas und ein internationales Zentrum fÃ¼r Forschung und Innovation. Gelegen in einer weitlÃ¤ufigen Waldumgebung, dient er als Ankerpunkt fÃ¼r Unternehmen aus den Bereichen IT, Elektronik, Biotechnologie und nachhaltige Energien. Seit seiner GrÃ¼ndung im Jahr 1969 fungiert er als 'Europas Silicon Valley' und fÃ¶rdert die Zusammenarbeit zwischen Forschungseinrichtungen und der Wirtschaft. Der Park ist ein Symbol fÃ¼r Monacos und der Region Streben nach wissenschaftlichem Fortschritt und technologischer FÃ¼hrerschaft. Geografie K8 â€” Innovation und Standortpolitik.",
+      de: "Sophia Antipolis ist der bedeutendste Technologiepark Europas und ein internationales Zentrum für Forschung und Innovation. Gelegen in einer weitläufigen Waldumgebung, dient er als Ankerpunkt für Unternehmen aus den Bereichen IT, Elektronik, Biotechnologie und nachhaltige Energien. Seit seiner Gründung im Jahr 1969 fungiert er als 'Europas Silicon Valley' und fördert die Zusammenarbeit zwischen Forschungseinrichtungen und der Wirtschaft. Der Park ist ein Symbol für Monacos und der Region Streben nach wissenschaftlichem Fortschritt und technologischer Führerschaft. Geografie K8 �?? Innovation und Standortpolitik.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["GegrÃ¼ndet 1969", "Spitzname 'Europas Silicon Valley'", "Liegt in einer wunderschÃ¶nen Waldumgebung"],
-      hu: ["1969-ben alapÃ­tottÃ¡k", "Beceneve 'EurÃ³pa SzilÃ­cium-vÃ¶lgye'", "GyÃ¶nyÃ¶rÅ± erdei kÃ¶rnyezetben fekszik"],
-      ro: ["Fondat Ã®n 1969", "Poreclit 'Silicon Valley-ul Europei'", "Situat Ã®ntr-un cadru frumos de pÄƒdure"],
+      de: ["Gegründet 1969", "Spitzname 'Europas Silicon Valley'", "Liegt in einer wunderschönen Waldumgebung"],
+      hu: ["1969-ben alapították", "Beceneve 'Európa Szilícium-völgye'", "Gyönyörű erdei környezetben fekszik"],
+      ro: ["Fondat în 1969", "Poreclit 'Silicon Valley-ul Europei'", "Situat într-un cadru frumos de p�?dure"],
       en: ["Founded in 1969", "Nicknamed 'Europe's Silicon Valley'", "Set in a beautiful forested environment"],
     },
     factsAdvanced: {
-      de: ["Einer der weltweit fÃ¼hrenden Technologieparks.", "Internationaler Treffpunkt fÃ¼r IT und Biotech.", "Strategische Verbindung von Forschung und Wirtschaft.", "Gelegen in einer geschÃ¼tzten Waldumgebung.", "Zentrum fÃ¼r Innovation in Europa.", "Bedeutender wirtschaftlicher Innovationsmotor.", "Starke Vernetzung mit den UniversitÃ¤ten der Region."],
+      de: ["Einer der weltweit führenden Technologieparks.", "Internationaler Treffpunkt für IT und Biotech.", "Strategische Verbindung von Forschung und Wirtschaft.", "Gelegen in einer geschützten Waldumgebung.", "Zentrum für Innovation in Europa.", "Bedeutender wirtschaftlicher Innovationsmotor.", "Starke Vernetzung mit den Universitäten der Region."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -696,33 +696,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.425, 43.737],
     name: {
       de: "Brauerei von Monaco",
-      hu: "MonacÃ³i SÃ¶rfÅ‘zde",
-      ro: "BerÄƒria din Monaco",
+      hu: "Monacói Sörf�?zde",
+      ro: "Ber�?ria din Monaco",
       en: "Brasserie of Monaco",
     },
     description: {
       de: "Eine Handwerksbrauerei am Port Hercules, die eine Reihe von Bieren mit Bio-Zutaten herstellt.",
-      hu: "KÃ©zmÅ±ves sÃ¶rfÅ‘zde a Port Hercules-nÃ©l, amely biotermÃ©kekbÅ‘l kÃ©szÃ­t sÃ¶rÃ¶ket.",
-      ro: "O fabricÄƒ de bere artizanalÄƒ situatÄƒ Ã®n Port Hercules, care produce o gamÄƒ de beri folosind ingrediente organice.",
+      hu: "Kézműves sörf�?zde a Port Hercules-nél, amely biotermékekb�?l készít söröket.",
+      ro: "O fabric�? de bere artizanal�? situat�? în Port Hercules, care produce o gam�? de beri folosind ingrediente organice.",
       en: "A craft brewery located on Port Hercules, producing a range of beers using organic ingredients.",
     },
     descriptionAdvanced: {
-      de: "Die Brauerei von Monaco in Port Hercules verbindet traditionelle Braukunst mit den modernen AnsprÃ¼chen an Bio-QualitÃ¤t. Sie ist ein beliebter Ankerpunkt sowohl fÃ¼r Einheimische als auch fÃ¼r Touristen, die ein handwerklich gebrautes Bier in einer spektakulÃ¤ren Lage am Hafen genieÃŸen mÃ¶chten. Mit ihrer WiedererÃ¶ffnung im Jahr 2008 wurde die Geschichte der Brauerei, deren UrsprÃ¼nge bis ins Jahr 1905 zurÃ¼ckreichen, erfolgreich in die Moderne Ã¼berfÃ¼hrt. Sie bietet neben dem Brauereibetrieb ein lebendiges Ambiente mit Live-Musik und Happy Hours. Sozialkunde K7 â€” Gastronomie und Lifestyle.",
+      de: "Die Brauerei von Monaco in Port Hercules verbindet traditionelle Braukunst mit den modernen Ansprüchen an Bio-Qualität. Sie ist ein beliebter Ankerpunkt sowohl für Einheimische als auch für Touristen, die ein handwerklich gebrautes Bier in einer spektakulären Lage am Hafen genie�?en möchten. Mit ihrer Wiedereröffnung im Jahr 2008 wurde die Geschichte der Brauerei, deren Ursprünge bis ins Jahr 1905 zurückreichen, erfolgreich in die Moderne überführt. Sie bietet neben dem Brauereibetrieb ein lebendiges Ambiente mit Live-Musik und Happy Hours. Sozialkunde K7 �?? Gastronomie und Lifestyle.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Probieren Sie das Bier mit Blick auf die Yachten", "Happy Hour und Live-Musik", "GegrÃ¼ndet im Jahr 1905, wiedererÃ¶ffnet 2008"],
-      hu: ["KÃ³stolja meg a sÃ¶rt a jachtokra nÃ©zÅ‘ kilÃ¡tÃ¡ssal", "Happy hour Ã©s Ã©lÅ‘ zene", "1905-ben alapÃ­tottÃ¡k, 2008-ban nyitottÃ¡k Ãºjra"],
-      ro: ["GustaÈ›i berea cu vedere la iahturi", "Happy hour È™i muzicÄƒ live", "FondatÄƒ Ã®n 1905, redeschisÄƒ Ã®n 2008"],
+      de: ["Probieren Sie das Bier mit Blick auf die Yachten", "Happy Hour und Live-Musik", "Gegründet im Jahr 1905, wiedereröffnet 2008"],
+      hu: ["Kóstolja meg a sört a jachtokra néz�? kilátással", "Happy hour és él�? zene", "1905-ben alapították, 2008-ban nyitották újra"],
+      ro: ["Gusta�?i berea cu vedere la iahturi", "Happy hour �?i muzic�? live", "Fondat�? în 1905, redeschis�? în 2008"],
       en: ["Taste the beer overlooking the yachts", "Happy hour and live music", "Founded in 1905, reopened in 2008"],
     },
     factsAdvanced: {
-      de: ["Handwerksbrauerei in bester Hafenlage.", "Fokus auf biologische Zutaten.", "Historische Wurzeln von 1905 neu belebt.", "Lebendiger Treffpunkt mit Gastronomie.", "Verbindet Tradition mit moderner Brautechnik.", "Sinnbild fÃ¼r den Lifestyle am Hafen.", "Beliebter Ort fÃ¼r Live-Events."],
+      de: ["Handwerksbrauerei in bester Hafenlage.", "Fokus auf biologische Zutaten.", "Historische Wurzeln von 1905 neu belebt.", "Lebendiger Treffpunkt mit Gastronomie.", "Verbindet Tradition mit moderner Brautechnik.", "Sinnbild für den Lifestyle am Hafen.", "Beliebter Ort für Live-Events."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   // port
@@ -738,28 +738,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Port Hercules",
     },
     description: {
-      de: "Der Haupthafen von Monaco, bekannt fÃ¼r seine Superyachten und die jÃ¤hrliche Monaco Yacht Show.",
-      hu: "Monaco fÅ‘ kikÃ¶tÅ‘je, amely szuperjachtjairÃ³l Ã©s az Ã©ves Monaco Yacht Show-rÃ³l ismert.",
-      ro: "Principalul port din Monaco, renumit pentru super-iahturile sale È™i pentru Monaco Yacht Show anual.",
+      de: "Der Haupthafen von Monaco, bekannt für seine Superyachten und die jährliche Monaco Yacht Show.",
+      hu: "Monaco f�? kiköt�?je, amely szuperjachtjairól és az éves Monaco Yacht Show-ról ismert.",
+      ro: "Principalul port din Monaco, renumit pentru super-iahturile sale �?i pentru Monaco Yacht Show anual.",
       en: "The main port of Monaco, famous for its superyachts and the annual Monaco Yacht Show.",
     },
     descriptionAdvanced: {
-      de: "Port Hercules ist nicht nur der wichtigste Hafen von Monaco, sondern ein weltweit bekanntes Symbol fÃ¼r Luxus und nautische Exzellenz. Als einer der wenigen TiefwasserhÃ¤fen an der franzÃ¶sischen Riviera bietet er LiegeplÃ¤tze fÃ¼r einige der eindrucksvollsten Superyachten der Welt. Der Hafen ist das ganze Jahr Ã¼ber lebendig, besonders zur Zeit der legendÃ¤ren Monaco Yacht Show oder wÃ¤hrend des Grand Prix, bei dem er zur malerischen Kulisse fÃ¼r das Rennen wird. Die moderne Infrastruktur macht ihn zu einem Drehpunkt fÃ¼r den internationalen Yacht-Tourismus und das gesellschaftliche Leben Monacos. Geografie K8 â€” Nautik und Wirtschaft.",
+      de: "Port Hercules ist nicht nur der wichtigste Hafen von Monaco, sondern ein weltweit bekanntes Symbol für Luxus und nautische Exzellenz. Als einer der wenigen Tiefwasserhäfen an der französischen Riviera bietet er Liegeplätze für einige der eindrucksvollsten Superyachten der Welt. Der Hafen ist das ganze Jahr über lebendig, besonders zur Zeit der legendären Monaco Yacht Show oder während des Grand Prix, bei dem er zur malerischen Kulisse für das Rennen wird. Die moderne Infrastruktur macht ihn zu einem Drehpunkt für den internationalen Yacht-Tourismus und das gesellschaftliche Leben Monacos. Geografie K8 �?? Nautik und Wirtschaft.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Einer der wenigen TiefwasserhÃ¤fen an der Riviera", "Heimat des Yacht Club de Monaco", "Start- und Ziellinie des F1 Grand Prix"],
-      hu: ["A RiviÃ©ra kevÃ©s mÃ©lyvÃ­zi kikÃ¶tÅ‘jÃ©nek egyike", "A MonacÃ³i Yacht Klub otthona", "Az F1 NagydÃ­j rajt- Ã©s cÃ©lvonala"],
-      ro: ["Unul dintre puÈ›inele porturi cu apÄƒ adÃ¢ncÄƒ de pe RivierÄƒ", "GÄƒzduieÈ™te Yacht Club de Monaco", "Linia de start/sosire a Marelui Premiu de F1"],
+      de: ["Einer der wenigen Tiefwasserhäfen an der Riviera", "Heimat des Yacht Club de Monaco", "Start- und Ziellinie des F1 Grand Prix"],
+      hu: ["A Riviéra kevés mélyvízi kiköt�?jének egyike", "A Monacói Yacht Klub otthona", "Az F1 Nagydíj rajt- és célvonala"],
+      ro: ["Unul dintre pu�?inele porturi cu ap�? adânc�? de pe Rivier�?", "G�?zduie�?te Yacht Club de Monaco", "Linia de start/sosire a Marelui Premiu de F1"],
       en: ["One of the few deep-water ports on the Riviera", "Home to the Yacht Club de Monaco", "Start/finish line of the F1 Grand Prix"],
     },
     factsAdvanced: {
-      de: ["WeltberÃ¼hmter Hafen fÃ¼r Superyachten.", "Wichtiger Ankerplatz fÃ¼r die internationale Yacht-Elite.", "Symbol fÃ¼r den mondÃ¤nen Lebensstil.", "Zentrum gesellschaftlicher Events wie die Yacht Show.", "Integrierter Bestandteil des F1-Kurses.", "Moderner Knotenpunkt nautischer Dienstleistungen.", "Ein zentrales wirtschaftliches Wahrzeichen Monacos."],
+      de: ["Weltberühmter Hafen für Superyachten.", "Wichtiger Ankerplatz für die internationale Yacht-Elite.", "Symbol für den mondänen Lebensstil.", "Zentrum gesellschaftlicher Events wie die Yacht Show.", "Integrierter Bestandteil des F1-Kurses.", "Moderner Knotenpunkt nautischer Dienstleistungen.", "Ein zentrales wirtschaftliches Wahrzeichen Monacos."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -769,33 +769,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.42, 43.729],
     name: {
       de: "Hafen von Fontvieille",
-      hu: "Fontvieille-i kikÃ¶tÅ‘",
+      hu: "Fontvieille-i kiköt�?",
       ro: "Portul Fontvieille",
       en: "Port of Fontvieille",
     },
     description: {
-      de: "Ein kleinerer, malerischer Hafen im Stadtteil Fontvieille, umgeben von Parks und WohngebÃ¤uden.",
-      hu: "Kisebb, festÅ‘i kikÃ¶tÅ‘ Fontvieille negyedÃ©ben, parkokkal Ã©s lakÃ³Ã©pÃ¼letekkel kÃ¶rÃ¼lvÃ©ve.",
-      ro: "Un port mai mic È™i pitoresc Ã®n districtul Fontvieille, Ã®nconjurat de parcuri È™i clÄƒdiri rezidenÈ›iale.",
+      de: "Ein kleinerer, malerischer Hafen im Stadtteil Fontvieille, umgeben von Parks und Wohngebäuden.",
+      hu: "Kisebb, fest�?i kiköt�? Fontvieille negyedében, parkokkal és lakóépületekkel körülvéve.",
+      ro: "Un port mai mic �?i pitoresc în districtul Fontvieille, înconjurat de parcuri �?i cl�?diri reziden�?iale.",
       en: "A smaller, picturesque port in the Fontvieille district, surrounded by parks and residential buildings.",
     },
     descriptionAdvanced: {
-      de: "Im Gegensatz zum Port Hercules ist der Hafen von Fontvieille ein ruhigerer, durch Landgewinnung erschlossener Yachthafen. Er besticht durch seine geschÃ¼tzte Lage und die unmittelbare NÃ¤he zu grÃ¼nen Parks und modernen WohngebÃ¤uden, was eine entspannte AtmosphÃ¤re schafft. Mit Platz fÃ¼r rund 275 Boote ist er besonders bei FreizeitkapitÃ¤nen beliebt. Fontvieille zeigt die gelungene Balance zwischen maritimem Betrieb und hochwertigem urbanen Lebensraum. Der Hafen ist das HerzstÃ¼ck dieses modernen Stadtteils und ein Beispiel fÃ¼r nachhaltige Stadtentwicklung auf kleinem Raum. Stadtplanung K8 â€” LebensqualitÃ¤t am Wasser.",
+      de: "Im Gegensatz zum Port Hercules ist der Hafen von Fontvieille ein ruhigerer, durch Landgewinnung erschlossener Yachthafen. Er besticht durch seine geschützte Lage und die unmittelbare Nähe zu grünen Parks und modernen Wohngebäuden, was eine entspannte Atmosphäre schafft. Mit Platz für rund 275 Boote ist er besonders bei Freizeitkapitänen beliebt. Fontvieille zeigt die gelungene Balance zwischen maritimem Betrieb und hochwertigem urbanen Lebensraum. Der Hafen ist das Herzstück dieses modernen Stadtteils und ein Beispiel für nachhaltige Stadtentwicklung auf kleinem Raum. Stadtplanung K8 �?? Lebensqualität am Wasser.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["GeschÃ¼tzter als Port Hercules", "Etwa 275 LiegeplÃ¤tze", "Viele Restaurants am Wasser"],
-      hu: ["VÃ©dettebb, mint a Port Hercules", "KÃ¶rÃ¼lbelÃ¼l 275 kikÃ¶tÅ‘hely", "SzÃ¡mos vÃ­zparti Ã©tterem"],
-      ro: ["Mai adÄƒpostit decÃ¢t Port Hercules", "Aproape de 275 de dane", "Multe restaurante pe malul apei"],
+      de: ["Geschützter als Port Hercules", "Etwa 275 Liegeplätze", "Viele Restaurants am Wasser"],
+      hu: ["Védettebb, mint a Port Hercules", "Körülbelül 275 kiköt�?hely", "Számos vízparti étterem"],
+      ro: ["Mai ad�?postit decât Port Hercules", "Aproape de 275 de dane", "Multe restaurante pe malul apei"],
       en: ["More sheltered than Port Hercules", "Around 275 berths", "Many waterfront restaurants"],
     },
     factsAdvanced: {
-      de: ["Ruhigere Alternative zum Port Hercules.", "GeschÃ¼tzte Lage fÃ¼r Freizeitboote.", "Integrierter Bestandteil eines modernen Wohnviertels.", "Umgeben von GrÃ¼nanlagen und FreizeitflÃ¤chen.", "Zeugnis moderner Stadtplanung durch Landgewinnung.", "Wichtiger Ort fÃ¼r lokale nautische AktivitÃ¤ten.", "Sehr hohe AufenthaltsqualitÃ¤t am Wasser."],
+      de: ["Ruhigere Alternative zum Port Hercules.", "Geschützte Lage für Freizeitboote.", "Integrierter Bestandteil eines modernen Wohnviertels.", "Umgeben von Grünanlagen und Freizeitflächen.", "Zeugnis moderner Stadtplanung durch Landgewinnung.", "Wichtiger Ort für lokale nautische Aktivitäten.", "Sehr hohe Aufenthaltsqualität am Wasser."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -805,33 +805,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.285, 43.693],
     name: {
       de: "Hafen von Nizza",
-      hu: "Nizzai kikÃ¶tÅ‘",
+      hu: "Nizzai kiköt�?",
       ro: "Portul din Nisa",
       en: "Port of Nice",
     },
     description: {
-      de: "Ein wichtiger FÃ¤hr- und Kreuzfahrthafen, der Nizza mit Korsika, Sardinien und anderen Zielen verbindet.",
-      hu: "Fontos komp- Ã©s kÃ¶rutazÃ¡si kikÃ¶tÅ‘, amely Ã¶sszekÃ¶ti NizzÃ¡t KorzikÃ¡val, SzardÃ­niÃ¡val Ã©s mÃ¡s cÃ©lÃ¡llomÃ¡sokkal.",
-      ro: "Un port important de feriboturi È™i croaziere care leagÄƒ Nisa de Corsica, Sardinia È™i alte destinaÈ›ii.",
+      de: "Ein wichtiger Fähr- und Kreuzfahrthafen, der Nizza mit Korsika, Sardinien und anderen Zielen verbindet.",
+      hu: "Fontos komp- és körutazási kiköt�?, amely összeköti Nizzát Korzikával, Szardíniával és más célállomásokkal.",
+      ro: "Un port important de feriboturi �?i croaziere care leag�? Nisa de Corsica, Sardinia �?i alte destina�?ii.",
       en: "A major ferry and cruise port connecting Nice to Corsica, Sardinia, and other destinations.",
     },
     descriptionAdvanced: {
-      de: "Der Hafen von Nizza, auch als 'Port Lympia' bekannt, ist einer der bedeutendsten Verkehrsknotenpunkte an der CÃ´te d'Azur. Seit seiner Entstehung im 18. Jahrhundert ist er nicht nur fÃ¼r den GÃ¼terumschlag und als FÃ¤hrhafen wichtig, sondern prÃ¤gt durch seine architektonisch anspruchsvolle, genuesische Umgebung auch das Bild der Stadt. Er dient als Tor zu Korsika und Sardinien und ist zudem ein beliebter Anlaufpunkt fÃ¼r Kreuzfahrtschiffe. Das Zusammenspiel aus geschÃ¤ftigem Hafenbetrieb und den historischen, farbenfrohen GebÃ¤uden am Kai macht ihn zu einer SehenswÃ¼rdigkeit. Wirtschaft K8 â€” maritimer Handel.",
+      de: "Der Hafen von Nizza, auch als 'Port Lympia' bekannt, ist einer der bedeutendsten Verkehrsknotenpunkte an der Côte d'Azur. Seit seiner Entstehung im 18. Jahrhundert ist er nicht nur für den Güterumschlag und als Fährhafen wichtig, sondern prägt durch seine architektonisch anspruchsvolle, genuesische Umgebung auch das Bild der Stadt. Er dient als Tor zu Korsika und Sardinien und ist zudem ein beliebter Anlaufpunkt für Kreuzfahrtschiffe. Das Zusammenspiel aus geschäftigem Hafenbetrieb und den historischen, farbenfrohen Gebäuden am Kai macht ihn zu einer Sehenswürdigkeit. Wirtschaft K8 �?? maritimer Handel.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Auch bekannt als Port Lympia", "Umgeben von schÃ¶nen genuesischen GebÃ¤uden", "Viele Restaurants und Bars"],
-      hu: ["Port Lympia nÃ©ven is ismert", "GyÃ¶nyÃ¶rÅ± genovai stÃ­lusÃº Ã©pÃ¼letek veszik kÃ¶rÃ¼l", "SzÃ¡mos Ã©tterem Ã©s bÃ¡r"],
-      ro: ["Cunoscut È™i ca Port Lympia", "ÃŽnconjurat de clÄƒdiri frumoase Ã®n stil genovez", "Multe restaurante È™i baruri"],
+      de: ["Auch bekannt als Port Lympia", "Umgeben von schönen genuesischen Gebäuden", "Viele Restaurants und Bars"],
+      hu: ["Port Lympia néven is ismert", "Gyönyörű genovai stílusú épületek veszik körül", "Számos étterem és bár"],
+      ro: ["Cunoscut �?i ca Port Lympia", "�?nconjurat de cl�?diri frumoase în stil genovez", "Multe restaurante �?i baruri"],
       en: ["Also known as Port Lympia", "Surrounded by beautiful Genoese-style buildings", "Many restaurants and bars"],
     },
     factsAdvanced: {
-      de: ["Bedeutender FÃ¤hr- und Kreuzfahrthafen.", "Historische genuesische Architektur am Hafen.", "Wichtige Verbindung zu korsischen und sardischen HÃ¤fen.", "Kombination aus Wirtschaftshafen und touristischem Ort.", "Lebendiger Bereich mit vielen Bars und CafÃ©s.", "Zentrale Rolle fÃ¼r den Personenverkehr auf See.", "Ein Wahrzeichen der Stadt Nizza."],
+      de: ["Bedeutender Fähr- und Kreuzfahrthafen.", "Historische genuesische Architektur am Hafen.", "Wichtige Verbindung zu korsischen und sardischen Häfen.", "Kombination aus Wirtschaftshafen und touristischem Ort.", "Lebendiger Bereich mit vielen Bars und Cafés.", "Zentrale Rolle für den Personenverkehr auf See.", "Ein Wahrzeichen der Stadt Nizza."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -841,33 +841,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.012, 43.549],
     name: {
       de: "Hafen von Cannes",
-      hu: "Cannes-i kikÃ¶tÅ‘",
+      hu: "Cannes-i kiköt�?",
       ro: "Portul din Cannes",
       en: "Port of Cannes",
     },
     description: {
-      de: "Der alte Hafen von Cannes, der 'Vieux Port', liegt am FuÃŸe des HÃ¼gels Le Suquet und ist voller Fischerboote und Yachten.",
-      hu: "Cannes rÃ©gi kikÃ¶tÅ‘je, a 'Vieux Port', a Le Suquet-domb lÃ¡bÃ¡nÃ¡l fekszik, tele halÃ¡szhajÃ³kkal Ã©s jachtokkal.",
-      ro: "Portul vechi din Cannes, 'Vieux Port', se aflÄƒ la poalele dealului Le Suquet È™i este plin de bÄƒrci de pescuit È™i iahturi.",
+      de: "Der alte Hafen von Cannes, der 'Vieux Port', liegt am Fu�?e des Hügels Le Suquet und ist voller Fischerboote und Yachten.",
+      hu: "Cannes régi kiköt�?je, a 'Vieux Port', a Le Suquet-domb lábánál fekszik, tele halászhajókkal és jachtokkal.",
+      ro: "Portul vechi din Cannes, 'Vieux Port', se afl�? la poalele dealului Le Suquet �?i este plin de b�?rci de pescuit �?i iahturi.",
       en: "The old port of Cannes, the 'Vieux Port', sits at the foot of Le Suquet hill, filled with fishing boats and yachts.",
     },
     descriptionAdvanced: {
-      de: "Der 'Vieux Port' von Cannes ist das historische maritime Herz der Stadt. Direkt am FuÃŸe des charmanten Stadtviertels Le Suquet gelegen, verbindet er die Tradition der Fischer mit dem modernen Glamour der Yachtwelt. Der Hafen ist Schauplatz renommierter Veranstaltungen wie dem Cannes Yachting Festival und bildet den malerischen Rahmen fÃ¼r SpaziergÃ¤nge entlang der berÃ¼hmten 'AllÃ©e de la LibertÃ©'. Die authentische Mischung aus traditionellen Booten und luxuriÃ¶sen Yachten ist ein Paradebeispiel fÃ¼r die Vielschichtigkeit von Cannes. Geografie K7 â€” Tourismus und Tradition.",
+      de: "Der 'Vieux Port' von Cannes ist das historische maritime Herz der Stadt. Direkt am Fu�?e des charmanten Stadtviertels Le Suquet gelegen, verbindet er die Tradition der Fischer mit dem modernen Glamour der Yachtwelt. Der Hafen ist Schauplatz renommierter Veranstaltungen wie dem Cannes Yachting Festival und bildet den malerischen Rahmen für Spaziergänge entlang der berühmten 'Allée de la Liberté'. Die authentische Mischung aus traditionellen Booten und luxuriösen Yachten ist ein Paradebeispiel für die Vielschichtigkeit von Cannes. Geografie K7 �?? Tourismus und Tradition.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Austragungsort der jÃ¤hrlichen Cannes Yachting Festival", "FÃ¤hren zu den LÃ©rins-Inseln", "Umgeben von der AllÃ©e de la LibertÃ©"],
-      hu: ["Az Ã©ves Cannes-i Yachting FesztivÃ¡l helyszÃ­ne", "Kompok a LÃ©rins-szigetekre", "Az AllÃ©e de la LibertÃ© veszi kÃ¶rÃ¼l"],
-      ro: ["GÄƒzduieÈ™te Festivalul anual de iahting de la Cannes", "Feriboturi cÄƒtre Insulele LÃ©rins", "ÃŽnconjurat de AllÃ©e de la LibertÃ©"],
-      en: ["Host of the annual Cannes Yachting Festival", "Ferries to the LÃ©rins Islands", "Bordered by the AllÃ©e de la LibertÃ©"],
+      de: ["Austragungsort der jährlichen Cannes Yachting Festival", "Fähren zu den Lérins-Inseln", "Umgeben von der Allée de la Liberté"],
+      hu: ["Az éves Cannes-i Yachting Fesztivál helyszíne", "Kompok a Lérins-szigetekre", "Az Allée de la Liberté veszi körül"],
+      ro: ["G�?zduie�?te Festivalul anual de iahting de la Cannes", "Feriboturi c�?tre Insulele Lérins", "�?nconjurat de Allée de la Liberté"],
+      en: ["Host of the annual Cannes Yachting Festival", "Ferries to the Lérins Islands", "Bordered by the Allée de la Liberté"],
     },
     factsAdvanced: {
-      de: ["Historischer 'Vieux Port' von Cannes.", "Mischung aus Fischerei und Luxusyachten.", "Direkte Lage unterhalb der Altstadt Le Suquet.", "Bedeutender Ort fÃ¼r nautische GroÃŸevents.", "Wichtige Verbindung zu den LÃ©rins-Inseln.", "Touristisch hochfrequentierter Bereich.", "Wichtiges kulturelles Erbe der Stadt."],
+      de: ["Historischer 'Vieux Port' von Cannes.", "Mischung aus Fischerei und Luxusyachten.", "Direkte Lage unterhalb der Altstadt Le Suquet.", "Bedeutender Ort für nautische Gro�?events.", "Wichtige Verbindung zu den Lérins-Inseln.", "Touristisch hochfrequentierter Bereich.", "Wichtiges kulturelles Erbe der Stadt."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -877,33 +877,33 @@ export const poiExtraMonacoOther: POI[] = [
     coords: [7.417, 43.727],
     name: {
       de: "Heliport von Monaco",
-      hu: "MonacÃ³i Heliport",
+      hu: "Monacói Heliport",
       ro: "Heliportul Monaco",
       en: "Monaco Heliport",
     },
     description: {
-      de: "Verbindet Monaco mit dem Flughafen Nizza in nur 7 Minuten und bietet einen schnellen und luxuriÃ¶sen Transport.",
-      hu: "MindÃ¶ssze 7 perc alatt kÃ¶ti Ã¶ssze MonacÃ³t a nizzai repÃ¼lÅ‘tÃ©rrel, gyors Ã©s luxus kÃ¶zlekedÃ©st biztosÃ­tva.",
-      ro: "ConecteazÄƒ Monaco de Aeroportul Nisa Ã®n doar 7 minute, oferind un transport rapid È™i de lux.",
+      de: "Verbindet Monaco mit dem Flughafen Nizza in nur 7 Minuten und bietet einen schnellen und luxuriösen Transport.",
+      hu: "Mindössze 7 perc alatt köti össze Monacót a nizzai repül�?térrel, gyors és luxus közlekedést biztosítva.",
+      ro: "Conecteaz�? Monaco de Aeroportul Nisa în doar 7 minute, oferind un transport rapid �?i de lux.",
       en: "Connects Monaco to Nice Airport in just 7 minutes, providing rapid and luxurious transport.",
     },
     descriptionAdvanced: {
-      de: "Der Heliport von Monaco ist ein essentieller Bestandteil der luxuriÃ¶sen Infrastruktur des FÃ¼rstentums. Er ermÃ¶glicht einen schnellen Transfer zum Flughafen Nizza innerhalb von nur 7 Minuten, was ihn fÃ¼r internationale GeschÃ¤ftsreisende und Touristen gleichermaÃŸen unverzichtbar macht. Gelegen im Stadtteil Fontvieille, ist die Anlage ein Beispiel fÃ¼r die effiziente Anbindung des kleinen FÃ¼rstentums an globale Verkehrsnetze. WÃ¤hrend des Flugs genieÃŸen die Passagiere einen atemberaubenden Blick Ã¼ber die gesamte KÃ¼ste. Er steht symbolisch fÃ¼r Monacos Anspruch an Effizienz und exklusive MobilitÃ¤t. Wirtschaft K8 â€” Transportinfrastruktur.",
+      de: "Der Heliport von Monaco ist ein essentieller Bestandteil der luxuriösen Infrastruktur des Fürstentums. Er ermöglicht einen schnellen Transfer zum Flughafen Nizza innerhalb von nur 7 Minuten, was ihn für internationale Geschäftsreisende und Touristen gleicherma�?en unverzichtbar macht. Gelegen im Stadtteil Fontvieille, ist die Anlage ein Beispiel für die effiziente Anbindung des kleinen Fürstentums an globale Verkehrsnetze. Während des Flugs genie�?en die Passagiere einen atemberaubenden Blick über die gesamte Küste. Er steht symbolisch für Monacos Anspruch an Effizienz und exklusive Mobilität. Wirtschaft K8 �?? Transportinfrastruktur.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Im Stadtteil Fontvieille gelegen", "Mehrere Fluggesellschaften bieten FlÃ¼ge an", "Panoramablick auf die KÃ¼ste wÃ¤hrend des Fluges"],
-      hu: ["Fontvieille negyedÃ©ben talÃ¡lhatÃ³", "TÃ¶bb lÃ©gitÃ¡rsasÃ¡g is Ã¼zemeltet jÃ¡ratokat", "PanorÃ¡mÃ¡s kilÃ¡tÃ¡s a partra a repÃ¼lÃ©s alatt"],
-      ro: ["Situat Ã®n districtul Fontvieille", "Mai multe companii aeriene opereazÄƒ zboruri", "Vederi panoramice ale coastei Ã®n timpul zborului"],
+      de: ["Im Stadtteil Fontvieille gelegen", "Mehrere Fluggesellschaften bieten Flüge an", "Panoramablick auf die Küste während des Fluges"],
+      hu: ["Fontvieille negyedében található", "Több légitársaság is üzemeltet járatokat", "Panorámás kilátás a partra a repülés alatt"],
+      ro: ["Situat în districtul Fontvieille", "Mai multe companii aeriene opereaz�? zboruri", "Vederi panoramice ale coastei în timpul zborului"],
       en: ["Located in the Fontvieille district", "Several airlines operate flights", "Panoramic coastal views during the flight"],
     },
     factsAdvanced: {
-      de: ["Schnellverbindung zum internationalen Flughafen Nizza.", "Unverzichtbar fÃ¼r den exklusiven Tourismus.", "Zentraler Standort im Stadtteil Fontvieille.", "Effiziente Ãœberwindung der topografischen Distanz.", "Bietet luxuriÃ¶se und schnelle TransportlÃ¶sungen.", "SpektakulÃ¤re Perspektive auf das FÃ¼rstentum.", "Wesentliches Element der modernen MobilitÃ¤t."],
+      de: ["Schnellverbindung zum internationalen Flughafen Nizza.", "Unverzichtbar für den exklusiven Tourismus.", "Zentraler Standort im Stadtteil Fontvieille.", "Effiziente �?berwindung der topografischen Distanz.", "Bietet luxuriöse und schnelle Transportlösungen.", "Spektakuläre Perspektive auf das Fürstentum.", "Wesentliches Element der modernen Mobilität."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   // landscape
@@ -913,34 +913,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.397, 43.735],
     name: {
-      de: "TÃªte de Chien",
-      hu: "TÃªte de Chien (Kutyafej-szikla)",
-      ro: "TÃªte de Chien (Capul CÃ¢inelui)",
-      en: "TÃªte de Chien (Dog's Head)",
+      de: "Tête de Chien",
+      hu: "Tête de Chien (Kutyafej-szikla)",
+      ro: "Tête de Chien (Capul Câinelui)",
+      en: "Tête de Chien (Dog's Head)",
     },
     description: {
-      de: "Ein markanter Felsvorsprung, der 550 Meter Ã¼ber Monaco thront und einen atemberaubenden Panoramablick bietet.",
-      hu: "Egy feltÅ±nÅ‘ szikla, amely 550 mÃ©terrel Monaco fÃ¶lÃ© magasodik, Ã©s lÃ©legzetelÃ¡llÃ­tÃ³ panorÃ¡mÃ¡t nyÃºjt.",
-      ro: "Un promontoriu stÃ¢ncos proeminent, la 550 de metri deasupra Monacoului, oferind vederi panoramice uluitoare.",
+      de: "Ein markanter Felsvorsprung, der 550 Meter über Monaco thront und einen atemberaubenden Panoramablick bietet.",
+      hu: "Egy feltűn�? szikla, amely 550 méterrel Monaco fölé magasodik, és lélegzetelállító panorámát nyújt.",
+      ro: "Un promontoriu stâncos proeminent, la 550 de metri deasupra Monacoului, oferind vederi panoramice uluitoare.",
       en: "A prominent rocky outcrop towering 550 meters above Monaco, offering breathtaking panoramic views.",
     },
     descriptionAdvanced: {
-      de: "Der 'TÃªte de Chien' (Hundekopf) ist ein massiver Felsvorsprung, der auf franzÃ¶sischer Seite bei La Turbie thront und Monaco aus 550 Metern HÃ¶he Ã¼berragt. Er bietet eine der beeindruckendsten Aussichtsplattformen der gesamten Region. Die Klippe war in der Vergangenheit strategisch wichtig und ist heute ein beliebtes Ziel fÃ¼r Wanderer und Fotografen. Die Aussicht erstreckt sich Ã¼ber den gesamten KÃ¼stenverlauf des FÃ¼rstentums und das tiefblaue Mittelmeer bis weit in die italienische Landschaft hinein. Ein Besuch hier ermÃ¶glicht einen Perspektivwechsel und verdeutlicht die exponierte Lage des FÃ¼rstentums zwischen Fels und Meer. Geografie K7 â€” Geologie und Aussichtspunkte.",
+      de: "Der 'Tête de Chien' (Hundekopf) ist ein massiver Felsvorsprung, der auf französischer Seite bei La Turbie thront und Monaco aus 550 Metern Höhe überragt. Er bietet eine der beeindruckendsten Aussichtsplattformen der gesamten Region. Die Klippe war in der Vergangenheit strategisch wichtig und ist heute ein beliebtes Ziel für Wanderer und Fotografen. Die Aussicht erstreckt sich über den gesamten Küstenverlauf des Fürstentums und das tiefblaue Mittelmeer bis weit in die italienische Landschaft hinein. Ein Besuch hier ermöglicht einen Perspektivwechsel und verdeutlicht die exponierte Lage des Fürstentums zwischen Fels und Meer. Geografie K7 �?? Geologie und Aussichtspunkte.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["In La Turbie, Frankreich, gelegen", "Beliebter Ort fÃ¼r Wanderer und Fotografen", "RÃ¶mische Ruine 'Tropaeum Alpium' in der NÃ¤he"],
-      hu: ["La Turbie-ban, FranciaorszÃ¡gban talÃ¡lhatÃ³", "NÃ©pszerÅ± hely a tÃºrÃ¡zÃ³k Ã©s fotÃ³sok szÃ¡mÃ¡ra", "A kÃ¶zelben talÃ¡lhatÃ³ a 'Tropaeum Alpium' rÃ³mai kori rom"],
-      ro: ["Situat Ã®n La Turbie, FranÈ›a", "Loc popular pentru excursioniÈ™ti È™i fotografi", "Ruina romanÄƒ 'Tropaeum Alpium' Ã®n apropiere"],
+      de: ["In La Turbie, Frankreich, gelegen", "Beliebter Ort für Wanderer und Fotografen", "Römische Ruine 'Tropaeum Alpium' in der Nähe"],
+      hu: ["La Turbie-ban, Franciaországban található", "Népszerű hely a túrázók és fotósok számára", "A közelben található a 'Tropaeum Alpium' római kori rom"],
+      ro: ["Situat în La Turbie, Fran�?a", "Loc popular pentru excursioni�?ti �?i fotografi", "Ruina roman�? 'Tropaeum Alpium' în apropiere"],
       en: ["Located in La Turbie, France", "Popular spot for hikers and photographers", "Roman ruin 'Tropaeum Alpium' nearby"],
     },
     factsAdvanced: {
-      de: ["Massiver Felsvorsprung 550 m Ã¼ber dem Meeresspiegel.", "Strategischer Aussichtspunkt Ã¼ber Monaco.", "Infrastrukturell angebunden durch La Turbie.", "Historisch von strategischer Bedeutung.", "Beliebt fÃ¼r anspruchsvolle Wanderungen.", "Bietet 360-Grad-Panoramen der CÃ´te d'Azur.", "Eines der bekanntesten Fotomotive der Region."],
+      de: ["Massiver Felsvorsprung 550 m über dem Meeresspiegel.", "Strategischer Aussichtspunkt über Monaco.", "Infrastrukturell angebunden durch La Turbie.", "Historisch von strategischer Bedeutung.", "Beliebt für anspruchsvolle Wanderungen.", "Bietet 360-Grad-Panoramen der Côte d'Azur.", "Eines der bekanntesten Fotomotive der Region."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -955,28 +955,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Cap-Ferrat",
     },
     description: {
-      de: "Eine exklusive Halbinsel mit Ã¼ppiger Vegetation, luxuriÃ¶sen Villen und einem malerischen KÃ¼stenwanderweg.",
-      hu: "ExkluzÃ­v fÃ©lsziget buja nÃ¶vÃ©nyzettel, luxusvillÃ¡kkal Ã©s egy festÅ‘i tengerparti sÃ©tÃ¡nnyal.",
-      ro: "O peninsulÄƒ exclusivistÄƒ cu vegetaÈ›ie luxuriantÄƒ, vile de lux È™i o potecÄƒ pitoreascÄƒ de coastÄƒ.",
+      de: "Eine exklusive Halbinsel mit üppiger Vegetation, luxuriösen Villen und einem malerischen Küstenwanderweg.",
+      hu: "Exkluzív félsziget buja növényzettel, luxusvillákkal és egy fest�?i tengerparti sétánnyal.",
+      ro: "O peninsul�? exclusivist�? cu vegeta�?ie luxuriant�?, vile de lux �?i o potec�? pitoreasc�? de coast�?.",
       en: "An exclusive peninsula with lush vegetation, luxurious villas, and a scenic coastal walking path.",
     },
     descriptionAdvanced: {
-      de: "Cap-Ferrat ist eine der exklusivsten Wohnlagen an der CÃ´te d'Azur. Die Halbinsel besticht durch ihre luxuriÃ¶sen Villen aus der Belle Ã‰poque, ihre Ã¼ppige Gartenarchitektur und den berÃ¼hmten KÃ¼stenwanderweg, der einmal rund um die Halbinsel fÃ¼hrt. Zu den kulturellen Highlights gehÃ¶rt die 'Villa Ephrussi de Rothschild' mit ihren spektakulÃ¤ren ThemengÃ¤rten. Das Zusammenspiel von unberÃ¼hrter Natur am Klippenrand und privatem Luxus macht Cap-Ferrat zu einem Symbol fÃ¼r den Lebensstil an der Riviera. Der Wanderweg ist bei SpaziergÃ¤ngern sehr beliebt, da er eine einzigartige NÃ¤he zum Meer bietet. Geografie K7 â€” KÃ¼stenlandschaften.",
+      de: "Cap-Ferrat ist eine der exklusivsten Wohnlagen an der Côte d'Azur. Die Halbinsel besticht durch ihre luxuriösen Villen aus der Belle �?poque, ihre üppige Gartenarchitektur und den berühmten Küstenwanderweg, der einmal rund um die Halbinsel führt. Zu den kulturellen Highlights gehört die 'Villa Ephrussi de Rothschild' mit ihren spektakulären Themengärten. Das Zusammenspiel von unberührter Natur am Klippenrand und privatem Luxus macht Cap-Ferrat zu einem Symbol für den Lebensstil an der Riviera. Der Wanderweg ist bei Spaziergängern sehr beliebt, da er eine einzigartige Nähe zum Meer bietet. Geografie K7 �?? Küstenlandschaften.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Heimat der Villa Ephrussi de Rothschild", "Der Leuchtturm bietet eine tolle Aussicht", "Der KÃ¼stenweg ist ca. 11 km lang"],
-      hu: ["Itt talÃ¡lhatÃ³ a Villa Ephrussi de Rothschild", "A vilÃ¡gÃ­tÃ³toronybÃ³l nagyszerÅ± kilÃ¡tÃ¡s nyÃ­lik", "A tengerparti Ãºt kb. 11 km hosszÃº"],
-      ro: ["AdÄƒposteÈ™te Vila Ephrussi de Rothschild", "Farul oferÄƒ priveliÈ™ti minunate", "Poteca de coastÄƒ are aproximativ 11 km"],
+      de: ["Heimat der Villa Ephrussi de Rothschild", "Der Leuchtturm bietet eine tolle Aussicht", "Der Küstenweg ist ca. 11 km lang"],
+      hu: ["Itt található a Villa Ephrussi de Rothschild", "A világítótoronyból nagyszerű kilátás nyílik", "A tengerparti út kb. 11 km hosszú"],
+      ro: ["Ad�?poste�?te Vila Ephrussi de Rothschild", "Farul ofer�? priveli�?ti minunate", "Poteca de coast�? are aproximativ 11 km"],
       en: ["Home to the Villa Ephrussi de Rothschild", "The lighthouse offers great views", "The coastal path is about 11 km long"],
     },
     factsAdvanced: {
-      de: ["Exklusive Halbinsel mit hohem Prominenten-Aufkommen.", "WeltberÃ¼hmte Villa Ephrussi de Rothschild.", "Umfassende Gartenanlagen.", "Bekannter KÃ¼stenwanderweg von 11 km LÃ¤nge.", "Sinnbild fÃ¼r den Lebensstil der Belle Ã‰poque.", "Hohe BiodiversitÃ¤t an der KÃ¼ste.", "Ein bedeutender touristischer Ankerpunkt."],
+      de: ["Exklusive Halbinsel mit hohem Prominenten-Aufkommen.", "Weltberühmte Villa Ephrussi de Rothschild.", "Umfassende Gartenanlagen.", "Bekannter Küstenwanderweg von 11 km Länge.", "Sinnbild für den Lebensstil der Belle �?poque.", "Hohe Biodiversität an der Küste.", "Ein bedeutender touristischer Ankerpunkt."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -985,34 +985,34 @@ export const poiExtraMonacoOther: POI[] = [
     parent: "MC",
     coords: [7.362, 43.728],
     name: {
-      de: "Ãˆze Village",
-      hu: "Ãˆze Falu",
-      ro: "Satul Ãˆze",
-      en: "Ãˆze Village",
+      de: "�?ze Village",
+      hu: "�?ze Falu",
+      ro: "Satul �?ze",
+      en: "�?ze Village",
     },
     description: {
-      de: "Ein mittelalterliches 'Adlerhorst'-Dorf, das auf einem HÃ¼gel thront und einen spektakulÃ¤ren Blick auf das Mittelmeer bietet.",
-      hu: "Egy kÃ¶zÃ©pkori 'sasfÃ©szek' falu, amely egy hegytetÅ‘n helyezkedik el, Ã©s lÃ¡tvÃ¡nyos kilÃ¡tÃ¡st nyÃºjt a FÃ¶ldkÃ¶zi-tengerre.",
-      ro: "Un sat medieval 'cuib de vultur', cocoÈ›at pe un deal, cu vederi spectaculoase la Marea MediteranÄƒ.",
+      de: "Ein mittelalterliches 'Adlerhorst'-Dorf, das auf einem Hügel thront und einen spektakulären Blick auf das Mittelmeer bietet.",
+      hu: "Egy középkori 'sasfészek' falu, amely egy hegytet�?n helyezkedik el, és látványos kilátást nyújt a Földközi-tengerre.",
+      ro: "Un sat medieval 'cuib de vultur', coco�?at pe un deal, cu vederi spectaculoase la Marea Mediteran�?.",
       en: "A medieval 'eagle's nest' village perched on a hilltop with spectacular views of the Mediterranean.",
     },
     descriptionAdvanced: {
-      de: "Ãˆze-Village ist eines der am besten erhaltenen mittelalterlichen DÃ¶rfer SÃ¼dfrankreichs. Hoch oben auf einer Klippe gelegen, bietet es einen 'Adlerblick' Ã¼ber die gesamte Riviera. Die verwinkelten Gassen, die Steinmauern und die prÃ¤chtige Kirche bewahren das GefÃ¼hl vergangener Jahrhunderte. Besonders beeindruckend ist der Exotische Garten am hÃ¶chsten Punkt des Dorfes, der neben der Pflanzenpracht auch eine unvergleichliche Fernsicht ermÃ¶glicht. Auch Friedrich Nietzsche fand hier Inspiration fÃ¼r sein Werk 'Also sprach Zarathustra'. Ein Ort, an dem Geschichte und Natur auf faszinierende Weise verschmelzen. Geschichte K6 â€” Architektur und Inspiration.",
+      de: "�?ze-Village ist eines der am besten erhaltenen mittelalterlichen Dörfer Südfrankreichs. Hoch oben auf einer Klippe gelegen, bietet es einen 'Adlerblick' über die gesamte Riviera. Die verwinkelten Gassen, die Steinmauern und die prächtige Kirche bewahren das Gefühl vergangener Jahrhunderte. Besonders beeindruckend ist der Exotische Garten am höchsten Punkt des Dorfes, der neben der Pflanzenpracht auch eine unvergleichliche Fernsicht ermöglicht. Auch Friedrich Nietzsche fand hier Inspiration für sein Werk 'Also sprach Zarathustra'. Ein Ort, an dem Geschichte und Natur auf faszinierende Weise verschmelzen. Geschichte K6 �?? Architektur und Inspiration.",
       hu: "",
       ro: "",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["BerÃ¼hmt fÃ¼r seinen exotischen Garten", "Enge, verwinkelte Gassen", "Nietzsche verbrachte hier Zeit"],
-      hu: ["HÃ­res egzotikus kertjÃ©rÅ‘l", "SzÅ±k, kanyargÃ³s sikÃ¡torok", "Nietzsche itt tÃ¶ltÃ¶tt idÅ‘t"],
-      ro: ["Renumit pentru grÄƒdina sa exoticÄƒ", "StrÄƒzi Ã®nguste È™i sinuoase", "Nietzsche a petrecut timp aici"],
+      de: ["Berühmt für seinen exotischen Garten", "Enge, verwinkelte Gassen", "Nietzsche verbrachte hier Zeit"],
+      hu: ["Híres egzotikus kertjér�?l", "Szűk, kanyargós sikátorok", "Nietzsche itt töltött id�?t"],
+      ro: ["Renumit pentru gr�?dina sa exotic�?", "Str�?zi înguste �?i sinuoase", "Nietzsche a petrecut timp aici"],
       en: ["Famous for its exotic garden", "Narrow, winding alleyways", "Nietzsche spent time here"],
     },
     factsAdvanced: {
-      de: ["Mittelalterliches 'Adlerhorst'-Dorf auf der Klippe.", "Bekannt fÃ¼r den beeindruckenden botanischen Garten.", "Historisch verwinkeltes StraÃŸennetz.", "Inspirationsort fÃ¼r Friedrich Nietzsche.", "SpektakulÃ¤re Fernsicht Ã¼ber die gesamte KÃ¼ste.", "Wichtiger Anziehungspunkt fÃ¼r Touristen.", "Sehr gut erhaltene mittelalterliche Bausubstanz."],
+      de: ["Mittelalterliches 'Adlerhorst'-Dorf auf der Klippe.", "Bekannt für den beeindruckenden botanischen Garten.", "Historisch verwinkeltes Stra�?ennetz.", "Inspirationsort für Friedrich Nietzsche.", "Spektakuläre Fernsicht über die gesamte Küste.", "Wichtiger Anziehungspunkt für Touristen.", "Sehr gut erhaltene mittelalterliche Bausubstanz."],
       hu: [],
       ro: [],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -1027,28 +1027,28 @@ export const poiExtraMonacoOther: POI[] = [
       en: "Verdon Gorge",
     },
     description: {
-      de: "Eine atemberaubende Flussschlucht, die oft als 'Europas Grand Canyon' bezeichnet wird. Ideal zum Kajakfahren, Wandern und fÃ¼r Fahrten.",
-      hu: "LÃ©legzetelÃ¡llÃ­tÃ³ folyÃ³-kanyon, amelyet gyakran 'EurÃ³pa Grand CanyonjÃ¡nak' is neveznek. IdeÃ¡lis kajakozÃ¡shoz, tÃºrÃ¡zÃ¡shoz Ã©s autÃ³zÃ¡shoz.",
-      ro: "Un canion fluvial uimitor, adesea numit 'Marele Canion al Europei'. Ideal pentru caiac, drumeÈ›ii È™i plimbÄƒri.",
+      de: "Eine atemberaubende Flussschlucht, die oft als 'Europas Grand Canyon' bezeichnet wird. Ideal zum Kajakfahren, Wandern und für Fahrten.",
+      hu: "Lélegzetelállító folyó-kanyon, amelyet gyakran 'Európa Grand Canyonjának' is neveznek. Ideális kajakozáshoz, túrázáshoz és autózáshoz.",
+      ro: "Un canion fluvial uimitor, adesea numit 'Marele Canion al Europei'. Ideal pentru caiac, drume�?ii �?i plimb�?ri.",
       en: "A stunning river canyon often called 'Europe's Grand Canyon'. Ideal for kayaking, hiking, and driving.",
     },
     descriptionAdvanced: {
-      de: "Die Verdonschlucht ist eine der eindrucksvollsten geologischen Formationen Europas. Tief in den Kalkstein eingegraben, erstreckt sich die Schlucht Ã¼ber 25 km LÃ¤nge und erreicht Tiefen von bis zu 700 Metern. Das tÃ¼rkisfarbene Wasser des Flusses Verdon bildet einen faszinierenden Kontrast zu den steilen FelswÃ¤nden. Die 'Route des CrÃªtes' ermÃ¶glicht es, die AusmaÃŸe dieser Naturgewalt von verschiedenen Aussichtspunkten aus zu bewundern. Die Schlucht ist ein Paradies fÃ¼r Outdoor-Enthusiasten und bietet vielfÃ¤ltige AktivitÃ¤ten wie Kajakfahren, Wandern oder Klettern, eingebettet in eine spektakulÃ¤re Naturlandschaft. Geografie K7 â€” Geologie und Outdoor-AktivitÃ¤ten.",
+      de: "Die Verdonschlucht ist eine der eindrucksvollsten geologischen Formationen Europas. Tief in den Kalkstein eingegraben, erstreckt sich die Schlucht über 25 km Länge und erreicht Tiefen von bis zu 700 Metern. Das türkisfarbene Wasser des Flusses Verdon bildet einen faszinierenden Kontrast zu den steilen Felswänden. Die 'Route des Crêtes' ermöglicht es, die Ausma�?e dieser Naturgewalt von verschiedenen Aussichtspunkten aus zu bewundern. Die Schlucht ist ein Paradies für Outdoor-Enthusiasten und bietet vielfältige Aktivitäten wie Kajakfahren, Wandern oder Klettern, eingebettet in eine spektakuläre Naturlandschaft. Geografie K7 �?? Geologie und Outdoor-Aktivitäten.",
       hu: "",
-      ro: "Cheile Verdonului reprezintÄƒ una dintre cele mai impresionante formaÈ›iuni geologice din Europa. SÄƒpate adÃ¢nc Ã®n calcar, cheile se Ã®ntind pe o lungime de 25 km È™i ating adÃ¢ncimi de pÃ¢nÄƒ la 700 de metri. Apa de culoarea turcoaz a rÃ¢ului Verdon formeazÄƒ un contrast fascinant cu pereÈ›ii abrupÈ›i de stÃ¢ncÄƒ. 'Route des CrÃªtes' permite admirarea dimensiunilor acestei forÈ›e a naturii din diverse puncte de belvedere. Canionul este un paradis pentru pasionaÈ›ii de activitÄƒÈ›i Ã®n aer liber, oferind posibilitÄƒÈ›i diverse precum caiacul, drumeÈ›ia sau alpinismul, totul Ã®ntr-un cadru natural spectaculos. Geografie K7 â€” geologie È™i activitÄƒÈ›i Ã®n aer liber.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Cheile Verdonului reprezint�? una dintre cele mai impresionante forma�?iuni geologice din Europa. S�?pate adânc în calcar, cheile se întind pe o lungime de 25 km �?i ating adâncimi de pân�? la 700 de metri. Apa de culoarea turcoaz a râului Verdon formeaz�? un contrast fascinant cu pere�?ii abrup�?i de stânc�?. 'Route des Crêtes' permite admirarea dimensiunilor acestei for�?e a naturii din diverse puncte de belvedere. Canionul este un paradis pentru pasiona�?ii de activit�?�?i în aer liber, oferind posibilit�?�?i diverse precum caiacul, drume�?ia sau alpinismul, totul într-un cadru natural spectaculos. Geografie K7 �?? geologie �?i activit�?�?i în aer liber.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Etwa 25 km lang und bis zu 700 m tief", "TÃ¼rkisfarbenes Wasser", "Die Route des CrÃªtes bietet spektakulÃ¤re Ausblicke"],
-      hu: ["Kb. 25 km hosszÃº Ã©s akÃ¡r 700 m mÃ©ly", "TÃ¼rkizkÃ©k vÃ­z", "A Route des CrÃªtes Ãºtvonal lÃ¡tvÃ¡nyos kilÃ¡tÃ¡st kÃ­nÃ¡l"],
-      ro: ["Aproximativ 25 km lungime È™i pÃ¢nÄƒ la 700 m adÃ¢ncime", "ApÄƒ de culoare turcoaz", "Route des CrÃªtes oferÄƒ vederi spectaculoase"],
-      en: ["About 25 km long and up to 700m deep", "Turquoise-colored water", "The Route des CrÃªtes offers spectacular views"],
+      de: ["Etwa 25 km lang und bis zu 700 m tief", "Türkisfarbenes Wasser", "Die Route des Crêtes bietet spektakuläre Ausblicke"],
+      hu: ["Kb. 25 km hosszú és akár 700 m mély", "Türkizkék víz", "A Route des Crêtes útvonal látványos kilátást kínál"],
+      ro: ["Aproximativ 25 km lungime �?i pân�? la 700 m adâncime", "Ap�? de culoare turcoaz", "Route des Crêtes ofer�? vederi spectaculoase"],
+      en: ["About 25 km long and up to 700m deep", "Turquoise-colored water", "The Route des Crêtes offers spectacular views"],
     },
     factsAdvanced: {
-      de: ["'Grand Canyon Europas' mit 25 km LÃ¤nge.", "Bis zu 700 m tiefe Kalksteinschlucht.", "Markantes tÃ¼rkisfarbenes Flusswasser.", "Die 'Route des CrÃªtes' ist bekannt fÃ¼r Aussichtspunkte.", "Ein Paradies fÃ¼r Outdoor-Sportarten.", "Geologisch faszinierende Formation.", "SpektakulÃ¤re Naturlandschaft der Alpes-de-Haute-Provence."],
+      de: ["'Grand Canyon Europas' mit 25 km Länge.", "Bis zu 700 m tiefe Kalksteinschlucht.", "Markantes türkisfarbenes Flusswasser.", "Die 'Route des Crêtes' ist bekannt für Aussichtspunkte.", "Ein Paradies für Outdoor-Sportarten.", "Geologisch faszinierende Formation.", "Spektakuläre Naturlandschaft der Alpes-de-Haute-Provence."],
       hu: [],
-      ro: ["'Marele Canion al Europei' cu o lungime de 25 km", "Canion de calcar cu o adÃ¢ncime de pÃ¢nÄƒ la 700 m", "Apa rÃ¢ului are o culoare turcoaz distinctivÄƒ", "Route des CrÃªtes este renumitÄƒ pentru punctele de belvedere", "Un paradis pentru sporturile Ã®n aer liber", "FormaÈ›iune geologicÄƒ fascinantÄƒ", "Peisaj natural spectaculos Ã®n departamentul Alpes-de-Haute-Provence"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["'Marele Canion al Europei' cu o lungime de 25 km", "Canion de calcar cu o adâncime de pân�? la 700 m", "Apa râului are o culoare turcoaz distinctiv�?", "Route des Crêtes este renumit�? pentru punctele de belvedere", "Un paradis pentru sporturile în aer liber", "Forma�?iune geologic�? fascinant�?", "Peisaj natural spectaculos în departamentul Alpes-de-Haute-Provence"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   },
   {
@@ -1059,32 +1059,32 @@ export const poiExtraMonacoOther: POI[] = [
     name: {
       de: "Nationalpark Mercantour",
       hu: "Mercantour Nemzeti Park",
-      ro: "Parcul NaÈ›ional Mercantour",
+      ro: "Parcul Na�?ional Mercantour",
       en: "Mercantour National Park",
     },
     description: {
-      de: "Ein Nationalpark in den Seealpen mit vielfÃ¤ltiger Flora und Fauna und prÃ¤historischen Felsritzungen im Tal der Wunder.",
-      hu: "Nemzeti park a Tengeri-Alpokban, vÃ¡ltozatos nÃ¶vÃ©ny- Ã©s Ã¡llatvilÃ¡ggal, valamint Å‘skori sziklarajzokkal a CsodÃ¡k vÃ¶lgyÃ©ben.",
-      ro: "Un parc naÈ›ional Ã®n Alpii Maritimi, cu o florÄƒ È™i faunÄƒ diversÄƒ È™i gravuri rupestre preistorice Ã®n Valea Minunilor.",
+      de: "Ein Nationalpark in den Seealpen mit vielfältiger Flora und Fauna und prähistorischen Felsritzungen im Tal der Wunder.",
+      hu: "Nemzeti park a Tengeri-Alpokban, változatos növény- és állatvilággal, valamint �?skori sziklarajzokkal a Csodák völgyében.",
+      ro: "Un parc na�?ional în Alpii Maritimi, cu o flor�? �?i faun�? divers�? �?i gravuri rupestre preistorice în Valea Minunilor.",
       en: "A national park in the Maritime Alps, with diverse flora and fauna, and prehistoric rock carvings in the Valley of Wonders.",
     },
     descriptionAdvanced: {
-      de: "Der Nationalpark Mercantour in den Seealpen bietet eine beeindruckende Vielfalt an alpinen LebensrÃ¤umen. Mit seinen rauen Bergmassiven, die HÃ¶hen von Ã¼ber 3.000 Metern erreichen, und dem berÃ¼hmten 'Tal der Wunder' (VallÃ©e des Merveilles), das Tausende prÃ¤historischer Felsritzungen beherbergt, ist er ein Ort von auÃŸerordentlicher kultureller und natÃ¼rlicher Bedeutung. Die Flora und Fauna ist Ã¤uÃŸerst vielfÃ¤ltig und umfasst seltene Arten wie den Steinbock und den Wolf. Mehr als 600 Kilometer an Wanderwegen laden dazu ein, die unberÃ¼hrte Natur zu erkunden. Der Park ist einer der wichtigsten Schutzgebiete Frankreichs. Biologie K7 â€” Alpine Fauna und Geschichte.",
+      de: "Der Nationalpark Mercantour in den Seealpen bietet eine beeindruckende Vielfalt an alpinen Lebensräumen. Mit seinen rauen Bergmassiven, die Höhen von über 3.000 Metern erreichen, und dem berühmten 'Tal der Wunder' (Vallée des Merveilles), das Tausende prähistorischer Felsritzungen beherbergt, ist er ein Ort von au�?erordentlicher kultureller und natürlicher Bedeutung. Die Flora und Fauna ist äu�?erst vielfältig und umfasst seltene Arten wie den Steinbock und den Wolf. Mehr als 600 Kilometer an Wanderwegen laden dazu ein, die unberührte Natur zu erkunden. Der Park ist einer der wichtigsten Schutzgebiete Frankreichs. Biologie K7 �?? Alpine Fauna und Geschichte.",
       hu: "",
-      ro: "Parcul NaÈ›ional Mercantour din Alpii Maritimi oferÄƒ o diversitate impresionantÄƒ de habitate alpine. Cu masivele sale muntoase accidentate, care ating Ã®nÄƒlÈ›imi de peste 3.000 de metri, È™i celebra 'Valea a Minunilor' (VallÃ©e des Merveilles), care gÄƒzduieÈ™te mii de gravuri rupestre preistorice, acesta este un loc de o importanÈ›Äƒ culturalÄƒ È™i naturalÄƒ extraordinarÄƒ. Flora È™i fauna sunt extrem de diverse È™i includ specii rare precum ibexul È™i lupul. Peste 600 de kilometri de trasee de drumeÈ›ie invitÄƒ la explorarea naturii neatinse. Parcul este una dintre cele mai importante arii protejate din FranÈ›a. Biologie K7 â€” faunÄƒ alpinÄƒ È™i istorie.",
-      en: "The this location is a cornerstone of the MonÃ©gasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of MonÃ©gasque culture and infrastructure. Geography K7 â€” urban development."
+      ro: "Parcul Na�?ional Mercantour din Alpii Maritimi ofer�? o diversitate impresionant�? de habitate alpine. Cu masivele sale muntoase accidentate, care ating în�?l�?imi de peste 3.000 de metri, �?i celebra 'Valea a Minunilor' (Vallée des Merveilles), care g�?zduie�?te mii de gravuri rupestre preistorice, acesta este un loc de o importan�?�? cultural�? �?i natural�? extraordinar�?. Flora �?i fauna sunt extrem de diverse �?i includ specii rare precum ibexul �?i lupul. Peste 600 de kilometri de trasee de drume�?ie invit�? la explorarea naturii neatinse. Parcul este una dintre cele mai importante arii protejate din Fran�?a. Biologie K7 �?? faun�? alpin�? �?i istorie.",
+      en: "The this location is a cornerstone of the Monégasque landscape, reflecting the principality's unique blend of tradition and ultra-modern luxury. Located in a prime area, it offers visitors a window into the refined lifestyle that defines Monaco on the global stage. Whether it is the architectural brilliance that mirrors the historical evolution of the region or its role as a social and economic hub, this spot encapsulates what makes the city-state a premier destination for the international elite. Its strategic importance and aesthetic appeal contribute significantly to the overall charm of the urban environment, making it a must-see for anyone exploring the intricate layers of Monégasque culture and infrastructure. Geography K7 �?? urban development."
     },
     facts: {
-      de: ["Ãœber 600 km Wanderwege", "Heimat von SteinbÃ¶cken, GÃ¤msen und Murmeltieren", "Einer der 11 Nationalparks Frankreichs"],
-      hu: ["TÃ¶bb mint 600 km tÃºraÃºtvonal", "Otthona a kÅ‘szÃ¡li kecskÃ©knek, zergÃ©knek Ã©s mormotÃ¡knak", "FranciaorszÃ¡g 11 nemzeti parkjÃ¡nak egyike"],
-      ro: ["Peste 600 km de trasee de drumeÈ›ie", "AdÄƒposteÈ™te ibexi, capre negre È™i marmote", "Unul dintre cele 11 parcuri naÈ›ionale ale FranÈ›ei"],
+      de: ["�?ber 600 km Wanderwege", "Heimat von Steinböcken, Gämsen und Murmeltieren", "Einer der 11 Nationalparks Frankreichs"],
+      hu: ["Több mint 600 km túraútvonal", "Otthona a k�?száli kecskéknek, zergéknek és mormotáknak", "Franciaország 11 nemzeti parkjának egyike"],
+      ro: ["Peste 600 km de trasee de drume�?ie", "Ad�?poste�?te ibexi, capre negre �?i marmote", "Unul dintre cele 11 parcuri na�?ionale ale Fran�?ei"],
       en: ["Over 600 km of hiking trails", "Home to ibex, chamois, and marmots", "One of France's 11 national parks"],
     },
     factsAdvanced: {
-      de: ["Umfangreicher Nationalpark in den Seealpen.", "BerÃ¼hmt fÃ¼r das VallÃ©e des Merveilles (prÃ¤historische Ritzungen).", "Heimat seltener alpiner Tierarten.", "Ãœber 600 km ausgeschilderte Wanderwege.", "SpektakulÃ¤re Bergwelt mit Ã¼ber 3.000 Metern HÃ¶he.", "Wichtiges Schutzgebiet fÃ¼r BiodiversitÃ¤t.", "Kulturelle SchÃ¤tze durch Felsgravuren."],
+      de: ["Umfangreicher Nationalpark in den Seealpen.", "Berühmt für das Vallée des Merveilles (prähistorische Ritzungen).", "Heimat seltener alpiner Tierarten.", "�?ber 600 km ausgeschilderte Wanderwege.", "Spektakuläre Bergwelt mit über 3.000 Metern Höhe.", "Wichtiges Schutzgebiet für Biodiversität.", "Kulturelle Schätze durch Felsgravuren."],
       hu: [],
-      ro: ["Parc naÈ›ional vast Ã®n Alpii Maritimi", "Celebru pentru VallÃ©e des Merveilles (gravuri preistorice)", "Habitat pentru specii alpine rare", "Peste 600 km de trasee de drumeÈ›ie marcate", "Peisaj montan spectaculos cu Ã®nÄƒlÈ›imi de peste 3.000 de metri", "Arie protejatÄƒ importantÄƒ pentru biodiversitate", "Comori culturale prin gravuri rupestre"],
-      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into MonÃ©gasque society"]
+      ro: ["Parc na�?ional vast în Alpii Maritimi", "Celebru pentru Vallée des Merveilles (gravuri preistorice)", "Habitat pentru specii alpine rare", "Peste 600 km de trasee de drume�?ie marcate", "Peisaj montan spectaculos cu în�?l�?imi de peste 3.000 de metri", "Arie protejat�? important�? pentru biodiversitate", "Comori culturale prin gravuri rupestre"],
+      en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
     }
   }
 ];

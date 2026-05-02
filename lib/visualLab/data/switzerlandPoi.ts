@@ -7,58 +7,58 @@ export const switzerlandCountry: POI = {
   coords: [8.2275, 46.8182],
   name: {
     de: "Schweiz",
-    hu: "SvÃ¡jc",
-    ro: "ElveÈ›ia",
+    hu: "Svájc",
+    ro: "Elve�?ia",
     en: "Switzerland"
   },
   description: {
-    de: "Die Schweiz ist ein Alpenland in Mitteleuropa, bekannt fÃ¼r ihre atemberaubenden Berglandschaften, erstklassige Uhren, kÃ¶stliche Schokolade und ihre jahrhundertelange Tradition der NeutralitÃ¤t.",
-    hu: "SvÃ¡jc egy kÃ¶zÃ©p-eurÃ³pai alpesi orszÃ¡g, amely lÃ©legzetelÃ¡llÃ­tÃ³ hegyi tÃ¡jairÃ³l, vilÃ¡gszÃ­nvonalÃº Ã³rÃ¡irÃ³l, finom csokolÃ¡dÃ©jÃ¡rÃ³l Ã©s Ã©vszÃ¡zados semlegessÃ©gi hagyomÃ¡nyÃ¡rÃ³l ismert.",
-    ro: "ElveÈ›ia este o È›arÄƒ alpinÄƒ din Europa CentralÄƒ, cunoscutÄƒ pentru peisajele sale montane uluitoare, ceasurile de clasÄƒ mondialÄƒ, ciocolata delicioasÄƒ È™i tradiÈ›ia sa de secole de neutralitate.",
+    de: "Die Schweiz ist ein Alpenland in Mitteleuropa, bekannt für ihre atemberaubenden Berglandschaften, erstklassige Uhren, köstliche Schokolade und ihre jahrhundertelange Tradition der Neutralität.",
+    hu: "Svájc egy közép-európai alpesi ország, amely lélegzetelállító hegyi tájairól, világszínvonalú óráiról, finom csokoládéjáról és évszázados semlegességi hagyományáról ismert.",
+    ro: "Elve�?ia este o �?ar�? alpin�? din Europa Central�?, cunoscut�? pentru peisajele sale montane uluitoare, ceasurile de clas�? mondial�?, ciocolata delicioas�? �?i tradi�?ia sa de secole de neutralitate.",
     en: "Switzerland is an Alpine country in Central Europe, known for its breathtaking mountain landscapes, world-class watches, delicious chocolate, and its centuries-old tradition of neutrality."
   },
   descriptionAdvanced: {
-    de: "Die Schweiz, offiziell die Schweizerische Eidgenossenschaft, ist ein faszinierendes Binnenland im Herzen Europas, das fÃ¼r seine auÃŸergewÃ¶hnliche natÃ¼rliche SchÃ¶nheit, seine politische StabilitÃ¤t und seine kulturelle Vielfalt bekannt ist. Das Land grenzt an Deutschland, Frankreich, Italien, Ã–sterreich und Liechtenstein. Die Geografie der Schweiz wird maÃŸgeblich von den Alpen geprÃ¤gt, die Ã¼ber 60 % der LandesflÃ¤che einnehmen und mit Ikonen wie dem Matterhorn und dem Jungfraujoch Bergsteiger und Wintersportler aus aller Welt anlocken. Neben den Bergen besticht die Schweiz durch ihre zahlreichen kristallklaren Seen wie den Genfersee, den VierwaldstÃ¤ttersee und den ZÃ¼richsee. Einzigartig ist das politische System der Schweiz, das auf direkter Demokratie, FÃ¶deralismus und einer strikten NeutralitÃ¤t basiert, was das Land zum Sitz zahlreicher internationaler Organisationen wie dem Roten Kreuz und der UNO gemacht hat. Kulturell ist die Schweiz ein Schmelztiegel mit vier offiziellen Landessprachen (Deutsch, FranzÃ¶sisch, Italienisch und RÃ¤toromanisch), was sich in einer reichen regionalen Vielfalt an Traditionen, Architektur und Gastronomie widerspiegelt. Kulinarisch ist das Land weltberÃ¼hmt fÃ¼r seinen KÃ¤se (Fondue, Raclette) und seine Schokolade, die als Inbegriff von QualitÃ¤t gilt. Wirtschaftlich gehÃ¶rt die Schweiz zu den wohlhabendsten und innovativsten Nationen der Welt, mit einer fÃ¼hrenden Rolle im Finanzsektor, in der Pharmaindustrie und in der PrÃ¤zisionsmechanik, insbesondere der Uhrmacherkunst. Ob man mit den berÃ¼hmten PanoramazÃ¼gen wie dem Glacier Express durch die Alpen reist, die charmante Hauptstadt Bern erkundet oder die kosmopolitische AtmosphÃ¤re in ZÃ¼rich und Genf genieÃŸt â€“ die Schweiz empfÃ¤ngt ihre Besucher mit einer Mischung aus alpiner Idylle, technischer Perfektion und hÃ¶chster LebensqualitÃ¤t.",
-    hu: "SvÃ¡jc, hivatalos nevÃ©n a SvÃ¡jci KonfÃ¶derÃ¡ciÃ³, egy lenyÅ±gÃ¶zÅ‘ szÃ¡razfÃ¶ldi orszÃ¡g EurÃ³pa szÃ­vÃ©ben, amely rendkÃ­vÃ¼li termÃ©szeti szÃ©psÃ©gÃ©rÅ‘l, politikai stabilitÃ¡sÃ¡rÃ³l Ã©s kulturÃ¡lis sokszÃ­nÅ±sÃ©gÃ©rÅ‘l ismert. Az orszÃ¡g NÃ©metorszÃ¡ggal, FranciaorszÃ¡ggal, OlaszorszÃ¡ggal, AusztriÃ¡val Ã©s Liechtensteinnel hatÃ¡ros. SvÃ¡jc fÃ¶ldrajzÃ¡t meghatÃ¡rozzÃ¡k az Alpok, amelyek az orszÃ¡g terÃ¼letÃ©nek tÃ¶bb mint 60%-Ã¡t foglaljÃ¡k el, Ã©s olyan ikonokkal, mint a Matterhorn Ã©s a Jungfraujoch, vonzzÃ¡k a hegymÃ¡szÃ³kat Ã©s a tÃ©li sportok kedvelÅ‘it a vilÃ¡g minden tÃ¡jÃ¡rÃ³l. A hegyek mellett SvÃ¡jc szÃ¡mos kristÃ¡lytiszta tavÃ¡val is bÅ±vÃ¶l, mint pÃ©ldÃ¡ul a Genfi-tÃ³, a VierwaldstÃ¤tti-tÃ³ Ã©s a ZÃ¼richi-tÃ³. EgyedÃ¼lÃ¡llÃ³ SvÃ¡jc politikai rendszere, amely a kÃ¶zvetlen demokrÃ¡ciÃ¡n, a fÃ¶deralizmuson Ã©s a szigorÃº semlegessÃ©gen alapul, ami szÃ¡mos nemzetkÃ¶zi szervezet, pÃ©ldÃ¡ul a VÃ¶rÃ¶skereszt Ã©s az ENSZ szÃ©khelyÃ©vÃ© tette az orszÃ¡got. KulturÃ¡lis szempontbÃ³l SvÃ¡jc egy olvasztÃ³tÃ©gely nÃ©gy hivatalos nyelvvel (nÃ©met, francia, olasz Ã©s romans), ami a hagyomÃ¡nyok, az Ã©pÃ­tÃ©szet Ã©s a gasztronÃ³mia gazdag regionÃ¡lis vÃ¡ltozatossÃ¡gÃ¡ban tÃ¼krÃ¶zÅ‘dik. KulinÃ¡risan az orszÃ¡g vilÃ¡ghÃ­rÅ± sajtjairÃ³l (fondue, raclette) Ã©s csokolÃ¡dÃ©jÃ¡rÃ³l, amely a minÅ‘sÃ©g szinonimÃ¡ja. GazdasÃ¡gilag SvÃ¡jc a vilÃ¡g egyik leggazdagabb Ã©s leginnovatÃ­vabb nemzete, vezetÅ‘ szerepet tÃ¶lt be a pÃ©nzÃ¼gyi szektorban, a gyÃ³gyszeriparban Ã©s a precÃ­ziÃ³s mechanikÃ¡ban, kÃ¼lÃ¶nÃ¶sen az Ã³ragyÃ¡rtÃ¡sban. AkÃ¡r a hÃ­res panorÃ¡mavonatokkal, pÃ©ldÃ¡ul a Glacier Expresszel utazik valaki az Alpokon keresztÃ¼l, akÃ¡r a bÃ¡jos fÅ‘vÃ¡rost, Bernt fedezi fel, vagy ZÃ¼rich Ã©s Genf kozmopolita hangulatÃ¡t Ã©lvezi â€“ SvÃ¡jc az alpesi idill, a technikai tÃ¶kÃ©letessÃ©g Ã©s a legmagasabb Ã©letminÅ‘sÃ©g keverÃ©kÃ©vel fogadja lÃ¡togatÃ³it.",
-    ro: "ElveÈ›ia, oficial ConfederaÈ›ia ElveÈ›ianÄƒ, este o È›arÄƒ fascinantÄƒ fÄƒrÄƒ ieÈ™ire la mare, situatÄƒ Ã®n inima Europei, cunoscutÄƒ pentru frumuseÈ›ea sa naturalÄƒ extraordinarÄƒ, stabilitatea politicÄƒ È™i diversitatea culturalÄƒ. Èšara se Ã®nvecineazÄƒ cu Germania, FranÈ›a, Italia, Austria È™i Liechtenstein. Geografia ElveÈ›iei este dominatÄƒ de Alpi, care ocupÄƒ peste 60% din suprafaÈ›a È›Äƒrii È™i atrag alpiniÈ™ti È™i pasionaÈ›i de sporturi de iarnÄƒ din Ã®ntreaga lume cu simboluri precum Matterhorn È™i Jungfraujoch. Pe lÃ¢ngÄƒ munÈ›i, ElveÈ›ia impresioneazÄƒ prin numeroasele sale lacuri cristaline, cum ar fi Lacul Leman, Lacul celor Patru Cantoane È™i Lacul ZÃ¼rich. Sistemul politic al ElveÈ›iei este unic, bazat pe democraÈ›ie directÄƒ, federalism È™i o neutralitate strictÄƒ, fapt ce a transformat È›ara Ã®n sediul a numeroase organizaÈ›ii internaÈ›ionale, precum Crucea RoÈ™ie È™i ONU. Din punct de vedere cultural, ElveÈ›ia este un creuzet cu patru limbi oficiale (germanÄƒ, francezÄƒ, italianÄƒ È™i retoromanÄƒ), fapt reflectat Ã®ntr-o bogatÄƒ diversitate regionalÄƒ de tradiÈ›ii, arhitecturÄƒ È™i gastronomie. Din punct de vedere culinar, È›ara este renumitÄƒ Ã®n Ã®ntreaga lume pentru brÃ¢nzeturile sale (fondue, raclette) È™i ciocolata sa, consideratÄƒ simbolul calitÄƒÈ›ii. Din punct de vedere economic, ElveÈ›ia este una dintre cele mai prospere È™i inovatoare naÈ›iuni din lume, avÃ¢nd un rol de lider Ã®n sectorul financiar, industria farmaceuticÄƒ È™i mecanica de precizie, Ã®n special orologeria. Fie cÄƒ cÄƒlÄƒtoriÈ›i cu faimoasele trenuri panoramice precum Glacier Express prin Alpi, exploraÈ›i fermecÄƒtoarea capitalÄƒ Berna sau vÄƒ bucuraÈ›i de atmosfera cosmopolitÄƒ din ZÃ¼rich È™i Geneva â€“ ElveÈ›ia Ã®È™i Ã®ntÃ¢mpinÄƒ vizitatorii cu un amestec de idilÄƒ alpinÄƒ, perfecÈ›iune tehnicÄƒ È™i cea mai Ã®naltÄƒ calitate a vieÈ›ii.",
-    en: "Switzerland, officially the Swiss Confederation, is a fascinating landlocked country in the heart of Europe, known for its extraordinary natural beauty, political stability, and cultural diversity. The country borders Germany, France, Italy, Austria, and Liechtenstein. Switzerland's geography is significantly shaped by the Alps, which occupy over 60% of the land area and attract mountaineers and winter sports enthusiasts from around the world with icons like the Matterhorn and the Jungfraujoch. In addition to the mountains, Switzerland charms with its numerous crystal-clear lakes such as Lake Geneva, Lake Lucerne, and Lake Zurich. Switzerland's political system is unique, based on direct democracy, federalism, and strict neutrality, which has made the country the seat of numerous international organizations such as the Red Cross and the UN. Culturally, Switzerland is a melting pot with four official languages (German, French, Italian, and Romansh), reflected in a rich regional variety of traditions, architecture, and gastronomy. Culinarily, the country is world-famous for its cheese (fondue, raclette) and its chocolate, which is considered the epitome of quality. Economically, Switzerland is one of the wealthiest and most innovative nations in the world, with a leading role in the financial sector, the pharmaceutical industry, and precision mechanics, particularly watchmaking. Whether traveling through the Alps on famous panoramic trains like the Glacier Express, exploring the charming capital Bern, or enjoying the cosmopolitan atmosphere in Zurich and Genevaâ€”Switzerland welcomes its visitors with a blend of Alpine idyll, technical perfection, and the highest quality of life."
+    de: "Die Schweiz, offiziell die Schweizerische Eidgenossenschaft, ist ein faszinierendes Binnenland im Herzen Europas, das für seine au�?ergewöhnliche natürliche Schönheit, seine politische Stabilität und seine kulturelle Vielfalt bekannt ist. Das Land grenzt an Deutschland, Frankreich, Italien, �?sterreich und Liechtenstein. Die Geografie der Schweiz wird ma�?geblich von den Alpen geprägt, die über 60 % der Landesfläche einnehmen und mit Ikonen wie dem Matterhorn und dem Jungfraujoch Bergsteiger und Wintersportler aus aller Welt anlocken. Neben den Bergen besticht die Schweiz durch ihre zahlreichen kristallklaren Seen wie den Genfersee, den Vierwaldstättersee und den Zürichsee. Einzigartig ist das politische System der Schweiz, das auf direkter Demokratie, Föderalismus und einer strikten Neutralität basiert, was das Land zum Sitz zahlreicher internationaler Organisationen wie dem Roten Kreuz und der UNO gemacht hat. Kulturell ist die Schweiz ein Schmelztiegel mit vier offiziellen Landessprachen (Deutsch, Französisch, Italienisch und Rätoromanisch), was sich in einer reichen regionalen Vielfalt an Traditionen, Architektur und Gastronomie widerspiegelt. Kulinarisch ist das Land weltberühmt für seinen Käse (Fondue, Raclette) und seine Schokolade, die als Inbegriff von Qualität gilt. Wirtschaftlich gehört die Schweiz zu den wohlhabendsten und innovativsten Nationen der Welt, mit einer führenden Rolle im Finanzsektor, in der Pharmaindustrie und in der Präzisionsmechanik, insbesondere der Uhrmacherkunst. Ob man mit den berühmten Panoramazügen wie dem Glacier Express durch die Alpen reist, die charmante Hauptstadt Bern erkundet oder die kosmopolitische Atmosphäre in Zürich und Genf genie�?t �?? die Schweiz empfängt ihre Besucher mit einer Mischung aus alpiner Idylle, technischer Perfektion und höchster Lebensqualität.",
+    hu: "Svájc, hivatalos nevén a Svájci Konföderáció, egy lenyűgöz�? szárazföldi ország Európa szívében, amely rendkívüli természeti szépségér�?l, politikai stabilitásáról és kulturális sokszínűségér�?l ismert. Az ország Németországgal, Franciaországgal, Olaszországgal, Ausztriával és Liechtensteinnel határos. Svájc földrajzát meghatározzák az Alpok, amelyek az ország területének több mint 60%-át foglalják el, és olyan ikonokkal, mint a Matterhorn és a Jungfraujoch, vonzzák a hegymászókat és a téli sportok kedvel�?it a világ minden tájáról. A hegyek mellett Svájc számos kristálytiszta tavával is bűvöl, mint például a Genfi-tó, a Vierwaldstätti-tó és a Zürichi-tó. Egyedülálló Svájc politikai rendszere, amely a közvetlen demokrácián, a föderalizmuson és a szigorú semlegességen alapul, ami számos nemzetközi szervezet, például a Vöröskereszt és az ENSZ székhelyévé tette az országot. Kulturális szempontból Svájc egy olvasztótégely négy hivatalos nyelvvel (német, francia, olasz és romans), ami a hagyományok, az építészet és a gasztronómia gazdag regionális változatosságában tükröz�?dik. Kulinárisan az ország világhírű sajtjairól (fondue, raclette) és csokoládéjáról, amely a min�?ség szinonimája. Gazdaságilag Svájc a világ egyik leggazdagabb és leginnovatívabb nemzete, vezet�? szerepet tölt be a pénzügyi szektorban, a gyógyszeriparban és a precíziós mechanikában, különösen az óragyártásban. Akár a híres panorámavonatokkal, például a Glacier Expresszel utazik valaki az Alpokon keresztül, akár a bájos f�?várost, Bernt fedezi fel, vagy Zürich és Genf kozmopolita hangulatát élvezi �?? Svájc az alpesi idill, a technikai tökéletesség és a legmagasabb életmin�?ség keverékével fogadja látogatóit.",
+    ro: "Elve�?ia, oficial Confedera�?ia Elve�?ian�?, este o �?ar�? fascinant�? f�?r�? ie�?ire la mare, situat�? în inima Europei, cunoscut�? pentru frumuse�?ea sa natural�? extraordinar�?, stabilitatea politic�? �?i diversitatea cultural�?. �?ara se învecineaz�? cu Germania, Fran�?a, Italia, Austria �?i Liechtenstein. Geografia Elve�?iei este dominat�? de Alpi, care ocup�? peste 60% din suprafa�?a �?�?rii �?i atrag alpini�?ti �?i pasiona�?i de sporturi de iarn�? din întreaga lume cu simboluri precum Matterhorn �?i Jungfraujoch. Pe lâng�? mun�?i, Elve�?ia impresioneaz�? prin numeroasele sale lacuri cristaline, cum ar fi Lacul Leman, Lacul celor Patru Cantoane �?i Lacul Zürich. Sistemul politic al Elve�?iei este unic, bazat pe democra�?ie direct�?, federalism �?i o neutralitate strict�?, fapt ce a transformat �?ara în sediul a numeroase organiza�?ii interna�?ionale, precum Crucea Ro�?ie �?i ONU. Din punct de vedere cultural, Elve�?ia este un creuzet cu patru limbi oficiale (german�?, francez�?, italian�? �?i retoroman�?), fapt reflectat într-o bogat�? diversitate regional�? de tradi�?ii, arhitectur�? �?i gastronomie. Din punct de vedere culinar, �?ara este renumit�? în întreaga lume pentru brânzeturile sale (fondue, raclette) �?i ciocolata sa, considerat�? simbolul calit�?�?ii. Din punct de vedere economic, Elve�?ia este una dintre cele mai prospere �?i inovatoare na�?iuni din lume, având un rol de lider în sectorul financiar, industria farmaceutic�? �?i mecanica de precizie, în special orologeria. Fie c�? c�?l�?tori�?i cu faimoasele trenuri panoramice precum Glacier Express prin Alpi, explora�?i fermec�?toarea capital�? Berna sau v�? bucura�?i de atmosfera cosmopolit�? din Zürich �?i Geneva �?? Elve�?ia î�?i întâmpin�? vizitatorii cu un amestec de idil�? alpin�?, perfec�?iune tehnic�? �?i cea mai înalt�? calitate a vie�?ii.",
+    en: "Switzerland, officially the Swiss Confederation, is a fascinating landlocked country in the heart of Europe, known for its extraordinary natural beauty, political stability, and cultural diversity. The country borders Germany, France, Italy, Austria, and Liechtenstein. Switzerland's geography is significantly shaped by the Alps, which occupy over 60% of the land area and attract mountaineers and winter sports enthusiasts from around the world with icons like the Matterhorn and the Jungfraujoch. In addition to the mountains, Switzerland charms with its numerous crystal-clear lakes such as Lake Geneva, Lake Lucerne, and Lake Zurich. Switzerland's political system is unique, based on direct democracy, federalism, and strict neutrality, which has made the country the seat of numerous international organizations such as the Red Cross and the UN. Culturally, Switzerland is a melting pot with four official languages (German, French, Italian, and Romansh), reflected in a rich regional variety of traditions, architecture, and gastronomy. Culinarily, the country is world-famous for its cheese (fondue, raclette) and its chocolate, which is considered the epitome of quality. Economically, Switzerland is one of the wealthiest and most innovative nations in the world, with a leading role in the financial sector, the pharmaceutical industry, and precision mechanics, particularly watchmaking. Whether traveling through the Alps on famous panoramic trains like the Glacier Express, exploring the charming capital Bern, or enjoying the cosmopolitan atmosphere in Zurich and Geneva�??Switzerland welcomes its visitors with a blend of Alpine idyll, technical perfection, and the highest quality of life."
   },
   facts: {
     de: [
       "Hauptstadt: Bern (de facto)",
-      "WÃ¤hrung: Schweizer Franken (CHF)",
-      "Sprachen: Deutsch, FranzÃ¶sisch, Italienisch und RÃ¤toromanisch sind offizielle Amtssprachen.",
-      "Geografie: Die Alpen bedecken etwa 60 % der LandesflÃ¤che.",
-      "Politik: Die Schweiz ist seit 1815 vÃ¶lkerrechtlich neutral.",
-      "Natur: Es gibt Ã¼ber 1.500 Seen in der Schweiz.",
-      "Wissenschaft: Das CERN bei Genf beherbergt den grÃ¶ÃŸten Teilchenbeschleuniger der Welt.",
+      "Währung: Schweizer Franken (CHF)",
+      "Sprachen: Deutsch, Französisch, Italienisch und Rätoromanisch sind offizielle Amtssprachen.",
+      "Geografie: Die Alpen bedecken etwa 60 % der Landesfläche.",
+      "Politik: Die Schweiz ist seit 1815 völkerrechtlich neutral.",
+      "Natur: Es gibt über 1.500 Seen in der Schweiz.",
+      "Wissenschaft: Das CERN bei Genf beherbergt den grö�?ten Teilchenbeschleuniger der Welt.",
       "Kulinarik: Die Schweizer essen pro Kopf weltweit am meisten Schokolade.",
-      "Infrastruktur: Die Schweiz hat eines der dichtesten und pÃ¼nktlichsten Schienennetze der Welt.",
-      "Glaube: Die Schweiz hat keine offizielle Staatsreligion, ist aber christlich geprÃ¤gt."
+      "Infrastruktur: Die Schweiz hat eines der dichtesten und pünktlichsten Schienennetze der Welt.",
+      "Glaube: Die Schweiz hat keine offizielle Staatsreligion, ist aber christlich geprägt."
     ],
     hu: [
-      "FÅ‘vÃ¡ros: Bern (de facto)",
-      "PÃ©nznem: SvÃ¡jci frank (CHF)",
-      "Nyelvek: A nÃ©met, a francia, az olasz Ã©s a romans hivatalos Ã¡llamnyelvek.",
-      "FÃ¶ldrajz: Az Alpok az orszÃ¡g terÃ¼letÃ©nek mintegy 60%-Ã¡t borÃ­tjÃ¡k.",
-      "Politika: SvÃ¡jc 1815 Ã³ta nemzetkÃ¶zileg elismerten semleges.",
-      "TermÃ©szet: SvÃ¡jcban tÃ¶bb mint 1500 tÃ³ talÃ¡lhatÃ³.",
-      "TudomÃ¡ny: A Genf melletti CERN ad otthont a vilÃ¡g legnagyobb rÃ©szecskegyorsÃ­tÃ³jÃ¡nak.",
-      "GasztronÃ³mia: A svÃ¡jciak eszik az egy fÅ‘re jutÃ³ legtÃ¶bb csokolÃ¡dÃ©t a vilÃ¡gon.",
-      "InfrastruktÃºra: SvÃ¡jc rendelkezik a vilÃ¡g egyik legsÅ±rÅ±bb Ã©s legpontosabb vasÃºthÃ¡lÃ³zatÃ¡val.",
-      "VallÃ¡s: SvÃ¡jcnak nincs hivatalos Ã¡llamvallÃ¡sa, de keresztÃ©ny gyÃ¶kerÅ±."
+      "F�?város: Bern (de facto)",
+      "Pénznem: Svájci frank (CHF)",
+      "Nyelvek: A német, a francia, az olasz és a romans hivatalos államnyelvek.",
+      "Földrajz: Az Alpok az ország területének mintegy 60%-át borítják.",
+      "Politika: Svájc 1815 óta nemzetközileg elismerten semleges.",
+      "Természet: Svájcban több mint 1500 tó található.",
+      "Tudomány: A Genf melletti CERN ad otthont a világ legnagyobb részecskegyorsítójának.",
+      "Gasztronómia: A svájciak eszik az egy f�?re jutó legtöbb csokoládét a világon.",
+      "Infrastruktúra: Svájc rendelkezik a világ egyik legsűrűbb és legpontosabb vasúthálózatával.",
+      "Vallás: Svájcnak nincs hivatalos államvallása, de keresztény gyökerű."
     ],
     ro: [
       "Capitala: Berna (de facto)",
-      "Moneda: Franc elveÈ›ian (CHF)",
-      "Limbi: Germana, franceza, italiana È™i retoromana sunt limbi oficiale de stat.",
-      "Geografie: Alpii acoperÄƒ aproximativ 60% din suprafaÈ›a È›Äƒrii.",
-      "PoliticÄƒ: ElveÈ›ia este neutrÄƒ din punct de vedere internaÈ›ional din 1815.",
-      "NaturÄƒ: ExistÄƒ peste 1.500 de lacuri Ã®n ElveÈ›ia.",
-      "È˜tiinÈ›Äƒ: CERN de lÃ¢ngÄƒ Geneva gÄƒzduieÈ™te cel mai mare accelerator de particule din lume.",
-      "Gastronomie: ElveÈ›ienii consumÄƒ cea mai mare cantitate de ciocolatÄƒ pe cap de locuitor din lume.",
-      "InfrastructurÄƒ: ElveÈ›ia are una dintre cele mai dense È™i punctuale reÈ›ele feroviare din lume.",
-      "Religie: ElveÈ›ia nu are o religie oficialÄƒ de stat, dar este marcatÄƒ de tradiÈ›ia creÈ™tinÄƒ."
+      "Moneda: Franc elve�?ian (CHF)",
+      "Limbi: Germana, franceza, italiana �?i retoromana sunt limbi oficiale de stat.",
+      "Geografie: Alpii acoper�? aproximativ 60% din suprafa�?a �?�?rii.",
+      "Politic�?: Elve�?ia este neutr�? din punct de vedere interna�?ional din 1815.",
+      "Natur�?: Exist�? peste 1.500 de lacuri în Elve�?ia.",
+      "�?tiin�?�?: CERN de lâng�? Geneva g�?zduie�?te cel mai mare accelerator de particule din lume.",
+      "Gastronomie: Elve�?ienii consum�? cea mai mare cantitate de ciocolat�? pe cap de locuitor din lume.",
+      "Infrastructur�?: Elve�?ia are una dintre cele mai dense �?i punctuale re�?ele feroviare din lume.",
+      "Religie: Elve�?ia nu are o religie oficial�? de stat, dar este marcat�? de tradi�?ia cre�?tin�?."
     ],
     en: [
       "Capital: Bern (de facto)",
@@ -77,11 +77,11 @@ export const switzerlandCountry: POI = {
     de: [],
     hu: [],
     ro: [
-      "Elveția găzduiește peste 200 de vârfuri montane care depășesc altitudinea de 3.000 de metri.",
-      "Pactul Federal din 1291, semnat în pajiștea Rütli, reprezintă fundamentul istoric al statului elvețian.",
-      "Țara adăpostește Tunelul de Bază Gotthard, cel mai lung și mai adânc tunel feroviar din lume.",
-      "Celebrul cuțit elvețian a fost comandat inițial de armata elvețiană în anul 1891.",
-      "Elveția este singura națiune din lume care adoptă patru limbi oficiale distincte, cultivând un peisaj multicultural unic."
+      "Elve?ia g?zduie?te peste 200 de v�rfuri montane care dep??esc altitudinea de 3.000 de metri.",
+      "Pactul Federal din 1291, semnat �n paji?tea R�tli, reprezint? fundamentul istoric al statului elve?ian.",
+      "?ara ad?poste?te Tunelul de Baz? Gotthard, cel mai lung ?i mai ad�nc tunel feroviar din lume.",
+      "Celebrul cu?it elve?ian a fost comandat ini?ial de armata elve?ian? �n anul 1891.",
+      "Elve?ia este singura na?iune din lume care adopt? patru limbi oficiale distincte, cultiv�nd un peisaj multicultural unic."
     ],
     en: []
   },
@@ -95,48 +95,48 @@ export const switzerlandRegions: POI[] = [
     parent: "country-switzerland",
     coords: [8.5417, 47.3769],
     name: {
-      de: "ZÃ¼rich",
-      hu: "ZÃ¼rich",
-      ro: "ZÃ¼rich",
+      de: "Zürich",
+      hu: "Zürich",
+      ro: "Zürich",
       en: "Zurich"
     },
     description: {
-      de: "ZÃ¼rich ist die grÃ¶ÃŸte Stadt der Schweiz, ein globales Zentrum fÃ¼r Finanzen und Innovation, bekannt fÃ¼r seine hohe LebensqualitÃ¤t, den malerischen ZÃ¼richsee und die luxuriÃ¶se Bahnhofstrasse.",
-      hu: "ZÃ¼rich SvÃ¡jc legnagyobb vÃ¡rosa, a pÃ©nzÃ¼gy Ã©s az innovÃ¡ciÃ³ globÃ¡lis kÃ¶zpontja, amely magas Ã©letminÅ‘sÃ©gÃ©rÅ‘l, a festÅ‘i ZÃ¼richi-tÃ³rÃ³l Ã©s a luxus Bahnhofstrasse-rÃ³l ismert.",
-      ro: "ZÃ¼rich este cel mai mare oraÈ™ din ElveÈ›ia, un centru global pentru finanÈ›e È™i inovare, cunoscut pentru calitatea ridicatÄƒ a vieÈ›ii, pitorescul lac ZÃ¼rich È™i luxoasa Bahnhofstrasse.",
+      de: "Zürich ist die grö�?te Stadt der Schweiz, ein globales Zentrum für Finanzen und Innovation, bekannt für seine hohe Lebensqualität, den malerischen Zürichsee und die luxuriöse Bahnhofstrasse.",
+      hu: "Zürich Svájc legnagyobb városa, a pénzügy és az innováció globális központja, amely magas életmin�?ségér�?l, a fest�?i Zürichi-tóról és a luxus Bahnhofstrasse-ról ismert.",
+      ro: "Zürich este cel mai mare ora�? din Elve�?ia, un centru global pentru finan�?e �?i inovare, cunoscut pentru calitatea ridicat�? a vie�?ii, pitorescul lac Zürich �?i luxoasa Bahnhofstrasse.",
       en: "Zurich is the largest city in Switzerland, a global hub for finance and innovation, known for its high quality of life, the picturesque Lake Zurich, and the luxurious Bahnhofstrasse."
     },
     descriptionAdvanced: {
-      de: "ZÃ¼rich ist die grÃ¶ÃŸte Stadt der Schweiz und ein globales Zentrum fÃ¼r Banken und Finanzen. Sie liegt am Nordende des ZÃ¼richsees. Die Stadt bietet eine hohe LebensqualitÃ¤t.",
-      hu: "ZÃ¼rich SvÃ¡jc legnagyobb vÃ¡rosa, valamint a bank- Ã©s pÃ©nzÃ¼gyi szektor globÃ¡lis kÃ¶zpontja. A ZÃ¼richi-tÃ³ Ã©szaki vÃ©gÃ©n fekszik. A vÃ¡ros magas Ã©letminÅ‘sÃ©get kÃ­nÃ¡l.",
-      ro: "ZÃ¼rich este centrul economic al ElveÈ›iei. Bahnhofstrasse este una dintre cele mai scumpe strÄƒzi comerciale din lume. OraÈ™ul are peste 1.200 de fÃ¢ntÃ¢ni cu apÄƒ potabilÄƒ. GrossmÃ¼nster este un punct de reper al oraÈ™ului.",
+      de: "Zürich ist die grö�?te Stadt der Schweiz und ein globales Zentrum für Banken und Finanzen. Sie liegt am Nordende des Zürichsees. Die Stadt bietet eine hohe Lebensqualität.",
+      hu: "Zürich Svájc legnagyobb városa, valamint a bank- és pénzügyi szektor globális központja. A Zürichi-tó északi végén fekszik. A város magas életmin�?séget kínál.",
+      ro: "Zürich este centrul economic al Elve�?iei. Bahnhofstrasse este una dintre cele mai scumpe str�?zi comerciale din lume. Ora�?ul are peste 1.200 de fântâni cu ap�? potabil�?. Grossmünster este un punct de reper al ora�?ului.",
       en: "Zurich is the largest city in Switzerland and a global center for banking and finance. It lies at the north end of Lake Zurich. The city offers a high quality of life."
     },
     facts: {
       de: [
-        "ZÃ¼rich ist das wirtschaftliche Zentrum der Schweiz.",
-        "Die Bahnhofstrasse ist eine der teuersten EinkaufsstraÃŸen der Welt.",
-        "Die Stadt hat Ã¼ber 1.200 Brunnen mit Trinkwasser.",
-        "Das GrossmÃ¼nster ist ein Wahrzeichen der Stadt."
+        "Zürich ist das wirtschaftliche Zentrum der Schweiz.",
+        "Die Bahnhofstrasse ist eine der teuersten Einkaufsstra�?en der Welt.",
+        "Die Stadt hat über 1.200 Brunnen mit Trinkwasser.",
+        "Das Grossmünster ist ein Wahrzeichen der Stadt."
       ],
       hu: [
-        "ZÃ¼rich SvÃ¡jc gazdasÃ¡gi kÃ¶zpontja.",
-        "A Bahnhofstrasse a vilÃ¡g egyik legdrÃ¡gÃ¡bb bevÃ¡sÃ¡rlÃ³utcÃ¡ja.",
-        "A vÃ¡rosban tÃ¶bb mint 1200 ivÃ³vizes kÃºt talÃ¡lhatÃ³.",
-        "A GrossmÃ¼nster a vÃ¡ros egyik jelkÃ©pe."
+        "Zürich Svájc gazdasági központja.",
+        "A Bahnhofstrasse a világ egyik legdrágább bevásárlóutcája.",
+        "A városban több mint 1200 ivóvizes kút található.",
+        "A Grossmünster a város egyik jelképe."
       ],
       ro: [
-        "ZÃ¼rich este centrul economic al ElveÈ›iei.",
-        "Bahnhofstrasse este una dintre cele mai scumpe strÄƒzi comerciale din lume.",
-        "OraÈ™ul are peste 1.200 de fÃ¢ntÃ¢ni cu apÄƒ potabilÄƒ.",
-        "GrossmÃ¼nster este un punct de reper al oraÈ™ului.",
-        "ZÃ¼rich gÄƒzduieÈ™te una dintre cele mai mari universitÄƒÈ›i tehnice din lume, ETH ZÃ¼rich."
+        "Zürich este centrul economic al Elve�?iei.",
+        "Bahnhofstrasse este una dintre cele mai scumpe str�?zi comerciale din lume.",
+        "Ora�?ul are peste 1.200 de fântâni cu ap�? potabil�?.",
+        "Grossmünster este un punct de reper al ora�?ului.",
+        "Zürich g�?zduie�?te una dintre cele mai mari universit�?�?i tehnice din lume, ETH Zürich."
       ],
       en: [
         "Zurich is the economic center of Switzerland.",
         "Bahnhofstrasse is one of the world's most expensive shopping streets.",
         "The city has over 1,200 fountains with drinking water.",
-        "The GrossmÃ¼nster is a landmark of the city.",
+        "The Grossmünster is a landmark of the city.",
         "Zurich is home to ETH Zurich, one of the world's top technical universities."
       ]
     },
@@ -144,11 +144,11 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Zürich este recunoscut constant ca unul dintre orașele cu cel mai ridicat nivel de trai din lume.",
-      "Orașul găzduiește prestigioasa universitate ETH Zürich, unde a predat Albert Einstein.",
-      "Biserica Fraumünster din centrul orașului este faimoasă pentru vitraliile sale create de Marc Chagall.",
-      "Gara Centrală din Zürich (Hauptbahnhof) este cel mai mare și mai aglomerat nod feroviar din Elveția.",
-      "Zürich este centrul pieței financiare elvețiene și găzduiește sediile multor bănci internaționale."
+      "Z�rich este recunoscut constant ca unul dintre ora?ele cu cel mai ridicat nivel de trai din lume.",
+      "Ora?ul g?zduie?te prestigioasa universitate ETH Z�rich, unde a predat Albert Einstein.",
+      "Biserica Fraum�nster din centrul ora?ului este faimoas? pentru vitraliile sale create de Marc Chagall.",
+      "Gara Central? din Z�rich (Hauptbahnhof) este cel mai mare ?i mai aglomerat nod feroviar din Elve?ia.",
+      "Z�rich este centrul pie?ei financiare elve?iene ?i g?zduie?te sediile multor b?nci interna?ionale."
     ],
       en: [
         "Zurich consistently ranks as one of the top cities globally for quality of life and wealth.",
@@ -172,35 +172,35 @@ export const switzerlandRegions: POI[] = [
       en: "Geneva"
     },
     description: {
-      de: "Genf ist eine weltoffene Stadt am Genfersee, bekannt als Sitz zahlreicher internationaler Organisationen, fÃ¼r den beeindruckenden Jet d'Eau und ihre humanitÃ¤re Tradition.",
-      hu: "Genf egy vilÃ¡gpolgÃ¡ri vÃ¡ros a Genfi-tÃ³ partjÃ¡n, amely szÃ¡mos nemzetkÃ¶zi szervezet szÃ©khelyekÃ©nt, a lenyÅ±gÃ¶zÅ‘ Jet d'Eau szÃ¶kÅ‘kÃºtrÃ³l Ã©s humanitÃ¡rius hagyomÃ¡nyairÃ³l ismert.",
-      ro: "Geneva este un oraÈ™ cosmopolit pe malul lacului Leman, cunoscut ca sediu al numeroaselor organizaÈ›ii internaÈ›ionale, pentru impresionanta fÃ¢ntÃ¢nÄƒ Jet d'Eau È™i tradiÈ›ia sa umanitarÄƒ.",
+      de: "Genf ist eine weltoffene Stadt am Genfersee, bekannt als Sitz zahlreicher internationaler Organisationen, für den beeindruckenden Jet d'Eau und ihre humanitäre Tradition.",
+      hu: "Genf egy világpolgári város a Genfi-tó partján, amely számos nemzetközi szervezet székhelyeként, a lenyűgöz�? Jet d'Eau szök�?kútról és humanitárius hagyományairól ismert.",
+      ro: "Geneva este un ora�? cosmopolit pe malul lacului Leman, cunoscut ca sediu al numeroaselor organiza�?ii interna�?ionale, pentru impresionanta fântân�? Jet d'Eau �?i tradi�?ia sa umanitar�?.",
       en: "Geneva is a cosmopolitan city on Lake Geneva, known as the seat of numerous international organizations, for the impressive Jet d'Eau fountain, and its humanitarian tradition."
     },
     descriptionAdvanced: {
-      de: "Genf ist eine globale Stadt, ein Finanzzentrum und ein weltweites Zentrum fÃ¼r Diplomatie. Hier befinden sich der europÃ¤ische Hauptsitz der UNO und das Rote Kreuz. Die Stadt liegt am Genfersee.",
-      hu: "Genf globÃ¡lis vÃ¡ros, pÃ©nzÃ¼gyi kÃ¶zpont Ã©s a diplomÃ¡cia vilÃ¡gkÃ¶zpontja. Itt talÃ¡lhatÃ³ az ENSZ eurÃ³pai kÃ¶zpontja Ã©s a VÃ¶rÃ¶skereszt. A vÃ¡ros a Genfi-tÃ³ partjÃ¡n fekszik.",
-      ro: "Geneva este un oraÈ™ global, un centru financiar È™i un centru mondial pentru diplomaÈ›ie. GÄƒzduieÈ™te sediul european al ONU È™i Crucea RoÈ™ie. OraÈ™ul este situat pe malul Lacului Geneva.",
+      de: "Genf ist eine globale Stadt, ein Finanzzentrum und ein weltweites Zentrum für Diplomatie. Hier befinden sich der europäische Hauptsitz der UNO und das Rote Kreuz. Die Stadt liegt am Genfersee.",
+      hu: "Genf globális város, pénzügyi központ és a diplomácia világközpontja. Itt található az ENSZ európai központja és a Vöröskereszt. A város a Genfi-tó partján fekszik.",
+      ro: "Geneva este un ora�? global, un centru financiar �?i un centru mondial pentru diploma�?ie. G�?zduie�?te sediul european al ONU �?i Crucea Ro�?ie. Ora�?ul este situat pe malul Lacului Geneva.",
       en: "Geneva is a global city, a financial center, and a worldwide center for diplomacy. It hosts the European headquarters of the UN and the Red Cross. The city is located on Lake Geneva."
     },
     facts: {
       de: [
-        "Genf ist bekannt fÃ¼r den Jet d'Eau, eine groÃŸe WasserfontÃ¤ne.",
+        "Genf ist bekannt für den Jet d'Eau, eine gro�?e Wasserfontäne.",
         "Es ist der Hauptsitz vieler internationaler Organisationen.",
         "Die Stadt ist das Zentrum der Schweizer Uhrenindustrie.",
-        "FranzÃ¶sisch ist die Hauptsprache in Genf."
+        "Französisch ist die Hauptsprache in Genf."
       ],
       hu: [
-        "Genf hÃ­res a Jet d'Eau-rÃ³l, egy hatalmas szÃ¶kÅ‘kÃºtrÃ³l.",
-        "SzÃ¡mos nemzetkÃ¶zi szervezet szÃ©khelye.",
-        "A vÃ¡ros a svÃ¡jci Ã³raipar kÃ¶zpontja.",
-        "A francia a fÅ‘ nyelv Genfben."
+        "Genf híres a Jet d'Eau-ról, egy hatalmas szök�?kútról.",
+        "Számos nemzetközi szervezet székhelye.",
+        "A város a svájci óraipar központja.",
+        "A francia a f�? nyelv Genfben."
       ],
       ro: [
-        "Geneva este cunoscutÄƒ pentru Jet d'Eau, o fÃ¢ntÃ¢nÄƒ mare de apÄƒ.",
-        "Este sediul multor organizaÈ›ii internaÈ›ionale.",
-        "OraÈ™ul este centrul industriei elveÈ›iene de ceasuri.",
-        "Franceza este limba principalÄƒ Ã®n Geneva."
+        "Geneva este cunoscut�? pentru Jet d'Eau, o fântân�? mare de ap�?.",
+        "Este sediul multor organiza�?ii interna�?ionale.",
+        "Ora�?ul este centrul industriei elve�?iene de ceasuri.",
+        "Franceza este limba principal�? în Geneva."
       ],
       en: [
         "Geneva is known for the Jet d'Eau, a large water fountain.",
@@ -213,11 +213,11 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Geneva găzduiește cel mai mare număr de organizații internaționale din lume.",
-      "Jet d'Eau este unul dintre cele mai faimoase repere ale orașului, vizibil de la kilometri distanță.",
-      "Orașul a fost locul de naștere al Comitetului Internațional al Crucii Roșii în anul 1863.",
-      "CERN, principalul laborator european de cercetare nucleară, se află la periferia orașului Geneva.",
-      "Geneva este capitala mondială a orologeriei de lux, găzduind branduri precum Patek Philippe și Rolex."
+      "Geneva g?zduie?te cel mai mare num?r de organiza?ii interna?ionale din lume.",
+      "Jet d'Eau este unul dintre cele mai faimoase repere ale ora?ului, vizibil de la kilometri distan??.",
+      "Ora?ul a fost locul de na?tere al Comitetului Interna?ional al Crucii Ro?ii �n anul 1863.",
+      "CERN, principalul laborator european de cercetare nuclear?, se afl? la periferia ora?ului Geneva.",
+      "Geneva este capitala mondial? a orologeriei de lux, g?zduind branduri precum Patek Philippe ?i Rolex."
     ],
       en: [
         "Geneva is often called the 'Peace Capital' because it is home to the European headquarters of the United Nations and the Red Cross.",
@@ -241,35 +241,35 @@ export const switzerlandRegions: POI[] = [
       en: "Bern"
     },
     description: {
-      de: "Bern ist die charmante Hauptstadt der Schweiz, bekannt fÃ¼r ihre zum UNESCO-Welterbe gehÃ¶rende mittelalterliche Altstadt, die gemÃ¼tlichen Arkaden und den berÃ¼hmten BÃ¤renpark.",
-      hu: "Bern SvÃ¡jc bÃ¡jos fÅ‘vÃ¡rosa, amely az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©szÃ©t kÃ©pezÅ‘ kÃ¶zÃ©pkori Ã³vÃ¡rosÃ¡rÃ³l, hangulatos Ã¡rkÃ¡djairÃ³l Ã©s a hÃ­res MedveparkrÃ³l ismert.",
-      ro: "Berna este capitala fermecÄƒtoare a ElveÈ›iei, cunoscutÄƒ pentru oraÈ™ul sÄƒu vechi medieval inclus Ã®n UNESCO, arcadele primitoare È™i faimosul Parc al UrÈ™ilor.",
+      de: "Bern ist die charmante Hauptstadt der Schweiz, bekannt für ihre zum UNESCO-Welterbe gehörende mittelalterliche Altstadt, die gemütlichen Arkaden und den berühmten Bärenpark.",
+      hu: "Bern Svájc bájos f�?városa, amely az UNESCO Világörökség részét képez�? középkori óvárosáról, hangulatos árkádjairól és a híres Medveparkról ismert.",
+      ro: "Berna este capitala fermec�?toare a Elve�?iei, cunoscut�? pentru ora�?ul s�?u vechi medieval inclus în UNESCO, arcadele primitoare �?i faimosul Parc al Ur�?ilor.",
       en: "Bern is the charming capital of Switzerland, known for its UNESCO World Heritage-listed medieval old town, cozy arcades, and the famous Bear Park."
     },
     descriptionAdvanced: {
-      de: "Bern ist die Bundesstadt (Hauptstadt) der Schweiz. Die Altstadt von Bern gehÃ¶rt zum UNESCO-Welterbe. Die Stadt ist bekannt fÃ¼r ihre mittelalterliche Architektur und die Zytglogge.",
-      hu: "Bern SvÃ¡jc szÃ¶vetsÃ©gi vÃ¡rosa (fÅ‘vÃ¡rosa). Bern Ã³vÃ¡rosa az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze. A vÃ¡ros kÃ¶zÃ©pkori Ã©pÃ­tÃ©szetÃ©rÅ‘l Ã©s a Zytglogge Ã³ratoronyrÃ³l ismert.",
-      ro: "Berna este oraÈ™ul federal (capitala) al ElveÈ›iei. OraÈ™ul vechi din Berna este un sit al Patrimoniului Mondial UNESCO. OraÈ™ul este cunoscut pentru arhitectura sa medievalÄƒ È™i Zytglogge.",
+      de: "Bern ist die Bundesstadt (Hauptstadt) der Schweiz. Die Altstadt von Bern gehört zum UNESCO-Welterbe. Die Stadt ist bekannt für ihre mittelalterliche Architektur und die Zytglogge.",
+      hu: "Bern Svájc szövetségi városa (f�?városa). Bern óvárosa az UNESCO Világörökség része. A város középkori építészetér�?l és a Zytglogge óratoronyról ismert.",
+      ro: "Berna este ora�?ul federal (capitala) al Elve�?iei. Ora�?ul vechi din Berna este un sit al Patrimoniului Mondial UNESCO. Ora�?ul este cunoscut pentru arhitectura sa medieval�? �?i Zytglogge.",
       en: "Bern is the federal city (capital) of Switzerland. The Old City of Bern is a UNESCO World Heritage site. The city is known for its medieval architecture and the Zytglogge."
     },
     facts: {
       de: [
-        "Bern wurde 1191 gegrÃ¼ndet.",
-        "Albert Einstein entwickelte hier seine RelativitÃ¤tstheorie.",
-        "Der BÃ¤renpark ist eine bekannte Attraktion.",
-        "Die Aare flieÃŸt durch die Stadt."
+        "Bern wurde 1191 gegründet.",
+        "Albert Einstein entwickelte hier seine Relativitätstheorie.",
+        "Der Bärenpark ist eine bekannte Attraktion.",
+        "Die Aare flie�?t durch die Stadt."
       ],
       hu: [
-        "Bernt 1191-ben alapÃ­tottÃ¡k.",
-        "Albert Einstein itt dolgozta ki relativitÃ¡selmÃ©letÃ©t.",
-        "A Medvepark egy jÃ³l ismert lÃ¡tvÃ¡nyossÃ¡g.",
-        "Az Aare folyÃ³ folyik Ã¡t a vÃ¡roson."
+        "Bernt 1191-ben alapították.",
+        "Albert Einstein itt dolgozta ki relativitáselméletét.",
+        "A Medvepark egy jól ismert látványosság.",
+        "Az Aare folyó folyik át a városon."
       ],
       ro: [
-        "Berna a fost fondatÄƒ Ã®n 1191.",
-        "Albert Einstein È™i-a dezvoltat teoria relativitÄƒÈ›ii aici.",
-        "Parcul UrÈ™ilor este o atracÈ›ie bine cunoscutÄƒ.",
-        "RÃ¢ul Aare curge prin oraÈ™."
+        "Berna a fost fondat�? în 1191.",
+        "Albert Einstein �?i-a dezvoltat teoria relativit�?�?ii aici.",
+        "Parcul Ur�?ilor este o atrac�?ie bine cunoscut�?.",
+        "Râul Aare curge prin ora�?."
       ],
       en: [
         "Bern was founded in 1191.",
@@ -284,9 +284,9 @@ export const switzerlandRegions: POI[] = [
       ro: [
       "Centrul vechi din Berna este recunoscut ca sit al Patrimoniului Mondial UNESCO din anul 1983.",
       "Turnul cu ceas (Zytglogge) din Berna este un monument medieval faimos, cu un ceas astronomic elaborat.",
-      "Albert Einstein a formulat teoria relativității în timp ce lucra și locuia în Berna.",
-      "Arcadele din Berna (Lauben) însumează o lungime de 6 kilometri, formând o zonă de promenadă acoperită.",
-      "BärenPark (Parcul Urșilor) găzduiește urși adevărați, animalul simbol al orașului și al cantonului."
+      "Albert Einstein a formulat teoria relativit??ii �n timp ce lucra ?i locuia �n Berna.",
+      "Arcadele din Berna (Lauben) �nsumeaz? o lungime de 6 kilometri, form�nd o zon? de promenad? acoperit?.",
+      "B�renPark (Parcul Ur?ilor) g?zduie?te ur?i adev?ra?i, animalul simbol al ora?ului ?i al cantonului."
     ],
       en: [
         "Bern's medieval city center, surrounded by the Aare River, has been a UNESCO World Heritage site since 1983.",
@@ -305,40 +305,40 @@ export const switzerlandRegions: POI[] = [
     coords: [7.5886, 47.5596],
     name: {
       de: "Basel",
-      hu: "BÃ¡zel",
+      hu: "Bázel",
       ro: "Basel",
       en: "Basel"
     },
     description: {
-      de: "Basel liegt am Rheinknie im DreilÃ¤ndereck, bekannt als Kulturhauptstadt der Schweiz mit erstklassigen Museen, einer lebendigen Kunstszene und der Ã¤ltesten UniversitÃ¤t des Landes.",
-      hu: "BÃ¡zel a Rajna-kanyarban, a hÃ¡rmashatÃ¡rnÃ¡l fekszik, SvÃ¡jc kulturÃ¡lis fÅ‘vÃ¡rosakÃ©nt ismert vilÃ¡gszÃ­nvonalÃº mÃºzeumaival, vibrÃ¡lÃ³ mÅ±vÃ©szeti Ã©letÃ©vel Ã©s az orszÃ¡g legrÃ©gebbi egyetemÃ©vel.",
-      ro: "Basel este situat la cotul Rinului, la graniÈ›a a trei È›Äƒri, cunoscut drept capitala culturalÄƒ a ElveÈ›iei, cu muzee de primÄƒ clasÄƒ, o scenÄƒ artisticÄƒ vibrantÄƒ È™i cea mai veche universitate din È›arÄƒ.",
+      de: "Basel liegt am Rheinknie im Dreiländereck, bekannt als Kulturhauptstadt der Schweiz mit erstklassigen Museen, einer lebendigen Kunstszene und der ältesten Universität des Landes.",
+      hu: "Bázel a Rajna-kanyarban, a hármashatárnál fekszik, Svájc kulturális f�?városaként ismert világszínvonalú múzeumaival, vibráló művészeti életével és az ország legrégebbi egyetemével.",
+      ro: "Basel este situat la cotul Rinului, la grani�?a a trei �?�?ri, cunoscut drept capitala cultural�? a Elve�?iei, cu muzee de prim�? clas�?, o scen�? artistic�? vibrant�? �?i cea mai veche universitate din �?ar�?.",
       en: "Basel is located at the Rhine knee at the border of three countries, known as the cultural capital of Switzerland with world-class museums, a vibrant art scene, and the country's oldest university."
     },
     descriptionAdvanced: {
-      de: "Basel liegt im DreilÃ¤ndereck Schweiz-Deutschland-Frankreich. Die Stadt wird vom Rhein geteilt und ist ein wichtiges Zentrum fÃ¼r die Chemie- und Pharmaindustrie. Sie ist auch fÃ¼r ihre Kunstmuseen bekannt.",
-      hu: "BÃ¡zel a svÃ¡jci-nÃ©met-francia hÃ¡rmashatÃ¡rnÃ¡l fekszik. A vÃ¡rost a Rajna osztja kettÃ©, Ã©s a vegy- Ã©s gyÃ³gyszeripar fontos kÃ¶zpontja. MÅ±vÃ©szeti mÃºzeumairÃ³l is ismert.",
-      ro: "Basel este situat la graniÈ›a dintre ElveÈ›ia, Germania È™i FranÈ›a. OraÈ™ul este Ã®mpÄƒrÈ›it de rÃ¢ul Rin È™i este un centru important pentru industria chimicÄƒ È™i farmaceuticÄƒ. Este, de asemenea, cunoscut pentru muzeele sale de artÄƒ.",
+      de: "Basel liegt im Dreiländereck Schweiz-Deutschland-Frankreich. Die Stadt wird vom Rhein geteilt und ist ein wichtiges Zentrum für die Chemie- und Pharmaindustrie. Sie ist auch für ihre Kunstmuseen bekannt.",
+      hu: "Bázel a svájci-német-francia hármashatárnál fekszik. A várost a Rajna osztja ketté, és a vegy- és gyógyszeripar fontos központja. Művészeti múzeumairól is ismert.",
+      ro: "Basel este situat la grani�?a dintre Elve�?ia, Germania �?i Fran�?a. Ora�?ul este împ�?r�?it de râul Rin �?i este un centru important pentru industria chimic�? �?i farmaceutic�?. Este, de asemenea, cunoscut pentru muzeele sale de art�?.",
       en: "Basel is located at the borders of Switzerland, Germany, and France. The city is divided by the Rhine river and is a major center for the chemical and pharmaceutical industries. It is also known for its art museums."
     },
     facts: {
       de: [
-        "Basel hat die Ã¤lteste UniversitÃ¤t der Schweiz (gegrÃ¼ndet 1460).",
+        "Basel hat die älteste Universität der Schweiz (gegründet 1460).",
         "Die Art Basel ist eine der wichtigsten Kunstmessen der Welt.",
-        "Die Basler Fasnacht ist die grÃ¶ÃŸte der Schweiz.",
-        "Der Rhein ist eine wichtige WasserstraÃŸe fÃ¼r die Stadt."
+        "Die Basler Fasnacht ist die grö�?te der Schweiz.",
+        "Der Rhein ist eine wichtige Wasserstra�?e für die Stadt."
       ],
       hu: [
-        "BÃ¡zelben talÃ¡lhatÃ³ SvÃ¡jc legrÃ©gebbi egyeteme (1460-ban alapÃ­tottÃ¡k).",
-        "Az Art Basel a vilÃ¡g egyik legfontosabb mÅ±vÃ©szeti vÃ¡sÃ¡ra.",
-        "A bÃ¡zeli karnevÃ¡l a legnagyobb SvÃ¡jcban.",
-        "A Rajna fontos vÃ­zi Ãºt a vÃ¡ros szÃ¡mÃ¡ra."
+        "Bázelben található Svájc legrégebbi egyeteme (1460-ban alapították).",
+        "Az Art Basel a világ egyik legfontosabb művészeti vására.",
+        "A bázeli karnevál a legnagyobb Svájcban.",
+        "A Rajna fontos vízi út a város számára."
       ],
       ro: [
-        "Basel are cea mai veche universitate din ElveÈ›ia (fondatÄƒ Ã®n 1460).",
-        "Art Basel este unul dintre cele mai importante tÃ¢rguri de artÄƒ din lume.",
-        "Carnavalul din Basel este cel mai mare din ElveÈ›ia.",
-        "Rinul este o cale navigabilÄƒ importantÄƒ pentru oraÈ™."
+        "Basel are cea mai veche universitate din Elve�?ia (fondat�? în 1460).",
+        "Art Basel este unul dintre cele mai importante târguri de art�? din lume.",
+        "Carnavalul din Basel este cel mai mare din Elve�?ia.",
+        "Rinul este o cale navigabil�? important�? pentru ora�?."
       ],
       en: [
         "Basel has the oldest university in Switzerland (founded in 1460).",
@@ -351,14 +351,14 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Basel găzduiește peste 40 de muzee, având cea mai mare densitate de muzee din Elveția.",
-      "Târgul anual Art Basel este unul dintre cele mai importante evenimente internaționale de artă contemporană.",
-      "Portul Basel pe râul Rin este singura cale navigabilă comercială care conectează Elveția de ocean.",
-      "Universitatea din Basel, fondată în 1460, este cea mai veche universitate din țară.",
-      "Orașul este centrul global al industriei farmaceutice, găzduind mari companii multinaționale."
+      "Basel g?zduie?te peste 40 de muzee, av�nd cea mai mare densitate de muzee din Elve?ia.",
+      "T�rgul anual Art Basel este unul dintre cele mai importante evenimente interna?ionale de art? contemporan?.",
+      "Portul Basel pe r�ul Rin este singura cale navigabil? comercial? care conecteaz? Elve?ia de ocean.",
+      "Universitatea din Basel, fondat? �n 1460, este cea mai veche universitate din ?ar?.",
+      "Ora?ul este centrul global al industriei farmaceutice, g?zduind mari companii multina?ionale."
     ],
       en: [
-        "Basel is situated at the 'Dreiländereck', where the borders of Switzerland, France, and Germany meet.",
+        "Basel is situated at the 'Dreil�ndereck', where the borders of Switzerland, France, and Germany meet.",
         "The city is widely regarded as the cultural capital of Switzerland, boasting nearly 40 museums, including the renowned Kunstmuseum.",
         "Basel hosts Art Basel, the world's premier international art fair for modern and contemporary works.",
         "The University of Basel, founded in 1460, is the oldest university in Switzerland and was a center for Renaissance humanism.",
@@ -379,35 +379,35 @@ export const switzerlandRegions: POI[] = [
       en: "Lausanne"
     },
     description: {
-      de: "Lausanne ist eine dynamische Stadt am Genfersee, bekannt als 'Olympische Hauptstadt', fÃ¼r ihre steilen Gassen, die beeindruckende Kathedrale und ihre lebendige studentische AtmosphÃ¤re.",
-      hu: "Lausanne egy dinamikus vÃ¡ros a Genfi-tÃ³ partjÃ¡n, amely â€žolimpiai fÅ‘vÃ¡roskÃ©ntâ€, meredek utcÃ¡irÃ³l, lenyÅ±gÃ¶zÅ‘ szÃ©kesegyhÃ¡zÃ¡rÃ³l Ã©s vibrÃ¡lÃ³ diÃ¡kÃ©letÃ©rÅ‘l ismert.",
-      ro: "Lausanne este un oraÈ™ dinamic pe malul lacului Leman, cunoscut drept â€žCapitala OlimpicÄƒâ€, pentru strÄƒzile sale abrupte, catedrala impresionantÄƒ È™i atmosfera sa studenÈ›eascÄƒ vibrantÄƒ.",
+      de: "Lausanne ist eine dynamische Stadt am Genfersee, bekannt als 'Olympische Hauptstadt', für ihre steilen Gassen, die beeindruckende Kathedrale und ihre lebendige studentische Atmosphäre.",
+      hu: "Lausanne egy dinamikus város a Genfi-tó partján, amely �??olimpiai f�?városként�?�, meredek utcáiról, lenyűgöz�? székesegyházáról és vibráló diákéletér�?l ismert.",
+      ro: "Lausanne este un ora�? dinamic pe malul lacului Leman, cunoscut drept �??Capitala Olimpic�?�?�, pentru str�?zile sale abrupte, catedrala impresionant�? �?i atmosfera sa studen�?easc�? vibrant�?.",
       en: "Lausanne is a dynamic city on Lake Geneva, known as the 'Olympic Capital', for its steep streets, impressive cathedral, and vibrant student atmosphere."
     },
     descriptionAdvanced: {
-      de: "Lausanne liegt am Genfersee und ist die Hauptstadt des Kantons Waadt. Sie ist als 'Olympische Hauptstadt' bekannt, da hier das Internationale Olympische Komitee (IOC) seinen Sitz hat. Die Stadt ist auf drei HÃ¼geln erbaut.",
-      hu: "Lausanne a Genfi-tÃ³ partjÃ¡n fekszik, Ã©s Vaud kanton fÅ‘vÃ¡rosa. 'Olimpiai fÅ‘vÃ¡roskÃ©nt' ismert, mivel itt talÃ¡lhatÃ³ a NemzetkÃ¶zi Olimpiai BizottsÃ¡g (NOB) szÃ©khelye. A vÃ¡ros hÃ¡rom dombra Ã©pÃ¼lt.",
-      ro: "Lausanne este situat pe Lacul Geneva È™i este capitala cantonului Vaud. Este cunoscutÄƒ drept 'Capitala OlimpicÄƒ', deoarece gÄƒzduieÈ™te Comitetul Olimpic InternaÈ›ional (CIO). OraÈ™ul este construit pe trei dealuri.",
+      de: "Lausanne liegt am Genfersee und ist die Hauptstadt des Kantons Waadt. Sie ist als 'Olympische Hauptstadt' bekannt, da hier das Internationale Olympische Komitee (IOC) seinen Sitz hat. Die Stadt ist auf drei Hügeln erbaut.",
+      hu: "Lausanne a Genfi-tó partján fekszik, és Vaud kanton f�?városa. 'Olimpiai f�?városként' ismert, mivel itt található a Nemzetközi Olimpiai Bizottság (NOB) székhelye. A város három dombra épült.",
+      ro: "Lausanne este situat pe Lacul Geneva �?i este capitala cantonului Vaud. Este cunoscut�? drept 'Capitala Olimpic�?', deoarece g�?zduie�?te Comitetul Olimpic Interna�?ional (CIO). Ora�?ul este construit pe trei dealuri.",
       en: "Lausanne is located on Lake Geneva and is the capital of the canton of Vaud. It is known as the 'Olympic Capital' because it hosts the International Olympic Committee (IOC). The city is built on three hills."
     },
     facts: {
       de: [
         "Lausanne beherbergt das Olympische Museum.",
         "Die Stadt hat eine Metro, die einzige in der Schweiz.",
-        "Die Kathedrale von Lausanne gilt als das schÃ¶nste gotische Bauwerk der Schweiz.",
+        "Die Kathedrale von Lausanne gilt als das schönste gotische Bauwerk der Schweiz.",
         "Sie ist ein wichtiges Bildungszentrum mit der EPFL."
       ],
       hu: [
-        "Lausanne-ban talÃ¡lhatÃ³ az Olimpiai MÃºzeum.",
-        "A vÃ¡rosnak van metrÃ³ja, az egyetlen SvÃ¡jcban.",
-        "A lausanne-i katedrÃ¡list SvÃ¡jc legszebb gÃ³tikus Ã©pÃ¼letÃ©nek tartjÃ¡k.",
-        "Fontos oktatÃ¡si kÃ¶zpont az EPFL-lel."
+        "Lausanne-ban található az Olimpiai Múzeum.",
+        "A városnak van metrója, az egyetlen Svájcban.",
+        "A lausanne-i katedrálist Svájc legszebb gótikus épületének tartják.",
+        "Fontos oktatási központ az EPFL-lel."
       ],
       ro: [
-        "Lausanne gÄƒzduieÈ™te Muzeul Olimpic.",
-        "OraÈ™ul are un metrou, singurul din ElveÈ›ia.",
-        "Catedrala din Lausanne este consideratÄƒ cea mai frumoasÄƒ clÄƒdire goticÄƒ din ElveÈ›ia.",
-        "Este un important centru educaÈ›ional cu EPFL."
+        "Lausanne g�?zduie�?te Muzeul Olimpic.",
+        "Ora�?ul are un metrou, singurul din Elve�?ia.",
+        "Catedrala din Lausanne este considerat�? cea mai frumoas�? cl�?dire gotic�? din Elve�?ia.",
+        "Este un important centru educa�?ional cu EPFL."
       ],
       en: [
         "Lausanne is home to the Olympic Museum.",
@@ -420,11 +420,11 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Lausanne este sediul Comitetului Olimpic Internațional și este cunoscută drept Capitala Olimpică.",
-      "Catedrala Notre-Dame din Lausanne este considerată una dintre cele mai frumoase clădiri gotice din Elveția.",
-      "Orașul găzduiește Muzeul Olimpic, care documentează istoria Jocurilor Olimpice moderne.",
-      "Metro din Lausanne este singurul sistem de metrou din Elveția și unul dintre cele mai abrupte din lume.",
-      "Universitatea din Lausanne și EPFL formează unul dintre cele mai mari centre universitare din țară."
+      "Lausanne este sediul Comitetului Olimpic Interna?ional ?i este cunoscut? drept Capitala Olimpic?.",
+      "Catedrala Notre-Dame din Lausanne este considerat? una dintre cele mai frumoase cl?diri gotice din Elve?ia.",
+      "Ora?ul g?zduie?te Muzeul Olimpic, care documenteaz? istoria Jocurilor Olimpice moderne.",
+      "Metro din Lausanne este singurul sistem de metrou din Elve?ia ?i unul dintre cele mai abrupte din lume.",
+      "Universitatea din Lausanne ?i EPFL formeaz? unul dintre cele mai mari centre universitare din ?ar?."
     ],
       en: [
         "Lausanne is officially recognized as the 'Olympic Capital' because it has hosted the International Olympic Committee since 1914.",
@@ -448,33 +448,33 @@ export const switzerlandRegions: POI[] = [
       en: "Matterhorn"
     },
     description: {
-      de: "Das Matterhorn ist einer der bekanntesten Berge der Welt, ein Wahrzeichen der Schweiz mit seiner markanten Pyramidenform und ein Magnet fÃ¼r Bergsteiger und Fotografen.",
-      hu: "A Matterhorn a vilÃ¡g egyik legismertebb hegye, SvÃ¡jc jelkÃ©pe jellegzetes piramis alakjÃ¡val, amely mÃ¡gneskÃ©nt vonzza a hegymÃ¡szÃ³kat Ã©s a fotÃ³sokat.",
-      ro: "Matterhorn este unul dintre cei mai cunoscuÈ›i munÈ›i din lume, un simbol al ElveÈ›iei cu forma sa piramidalÄƒ distinctivÄƒ È™i un magnet pentru alpiniÈ™ti È™i fotografi.",
+      de: "Das Matterhorn ist einer der bekanntesten Berge der Welt, ein Wahrzeichen der Schweiz mit seiner markanten Pyramidenform und ein Magnet für Bergsteiger und Fotografen.",
+      hu: "A Matterhorn a világ egyik legismertebb hegye, Svájc jelképe jellegzetes piramis alakjával, amely mágnesként vonzza a hegymászókat és a fotósokat.",
+      ro: "Matterhorn este unul dintre cei mai cunoscu�?i mun�?i din lume, un simbol al Elve�?iei cu forma sa piramidal�? distinctiv�? �?i un magnet pentru alpini�?ti �?i fotografi.",
       en: "The Matterhorn is one of the most famous mountains in the world, a landmark of Switzerland with its distinctive pyramidal shape and a magnet for mountaineers and photographers."
     },
     descriptionAdvanced: {
-      de: "Das Matterhorn ist einer der hÃ¶chsten Berge der Alpen und ein Wahrzeichen der Schweiz. Seine markante Pyramidenform macht ihn zu einem der meistfotografierten Berge der Welt. Er liegt an der Grenze zu Italien.",
-      hu: "A Matterhorn az Alpok egyik legmagasabb hegye Ã©s SvÃ¡jc jelkÃ©pe. Jellegzetes piramis alakja a vilÃ¡g egyik legtÃ¶bbet fÃ©nykÃ©pezett hegyÃ©vÃ© teszi. Az olasz hatÃ¡ron fekszik.",
-      ro: "Matterhorn este unul dintre cei mai Ã®nalÈ›i munÈ›i din Alpi È™i un punct de reper al ElveÈ›iei. Forma sa piramidalÄƒ distinctivÄƒ Ã®l face unul dintre cei mai fotografiaÈ›i munÈ›i din lume. Este situat la graniÈ›a cu Italia.",
+      de: "Das Matterhorn ist einer der höchsten Berge der Alpen und ein Wahrzeichen der Schweiz. Seine markante Pyramidenform macht ihn zu einem der meistfotografierten Berge der Welt. Er liegt an der Grenze zu Italien.",
+      hu: "A Matterhorn az Alpok egyik legmagasabb hegye és Svájc jelképe. Jellegzetes piramis alakja a világ egyik legtöbbet fényképezett hegyévé teszi. Az olasz határon fekszik.",
+      ro: "Matterhorn este unul dintre cei mai înal�?i mun�?i din Alpi �?i un punct de reper al Elve�?iei. Forma sa piramidal�? distinctiv�? îl face unul dintre cei mai fotografia�?i mun�?i din lume. Este situat la grani�?a cu Italia.",
       en: "The Matterhorn is one of the highest mountains in the Alps and a landmark of Switzerland. Its distinctive pyramidal shape makes it one of the most photographed mountains in the world. It lies on the border with Italy."
     },
     facts: {
       de: [
         "Das Matterhorn ist 4.478 Meter hoch.",
         "Die Erstbesteigung fand 1865 statt.",
-        "Zermatt ist das bekannteste Dorf am FuÃŸe des Berges.",
+        "Zermatt ist das bekannteste Dorf am Fu�?e des Berges.",
         "Die Form des Berges inspirierte die Toblerone-Schokolade."
       ],
       hu: [
-        "A Matterhorn 4478 mÃ©ter magas.",
-        "Az elsÅ‘ megmÃ¡szÃ¡sra 1865-ben kerÃ¼lt sor.",
-        "Zermatt a legismertebb falu a hegy lÃ¡bÃ¡nÃ¡l.",
-        "A hegy alakja ihlette a Toblerone csokolÃ¡dÃ©t."
+        "A Matterhorn 4478 méter magas.",
+        "Az els�? megmászásra 1865-ben került sor.",
+        "Zermatt a legismertebb falu a hegy lábánál.",
+        "A hegy alakja ihlette a Toblerone csokoládét."
       ],
       ro: [
-        "Matterhorn are o Ã®nÄƒlÈ›ime de 4.478 de metri.",
-        "Prima ascensiune a avut loc Ã®n 1865.",
+        "Matterhorn are o în�?l�?ime de 4.478 de metri.",
+        "Prima ascensiune a avut loc în 1865.",
         "Zermatt este cel mai faimos sat de la poalele muntelui.",
         "Forma muntelui a inspirat ciocolata Toblerone."
       ],
@@ -489,11 +489,11 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Matterhorn atinge o altitudine impresionantă de 4.478 de metri deasupra nivelului mării.",
-      "Muntele are o formă piramidală aproape simetrică, cu patru fețe care indică punctele cardinale.",
-      "Prima ascensiune reușită a avut loc în iulie 1865, condusă de alpinistul britanic Edward Whymper.",
-      "Satul Zermatt, situat la baza muntelui, este o stațiune ecologică unde circulația mașinilor cu combustie este interzisă.",
-      "Forma inconfundabilă a Matterhorn-ului a inspirat faimosul design al ciocolatei Toblerone."
+      "Matterhorn atinge o altitudine impresionant? de 4.478 de metri deasupra nivelului m?rii.",
+      "Muntele are o form? piramidal? aproape simetric?, cu patru fe?e care indic? punctele cardinale.",
+      "Prima ascensiune reu?it? a avut loc �n iulie 1865, condus? de alpinistul britanic Edward Whymper.",
+      "Satul Zermatt, situat la baza muntelui, este o sta?iune ecologic? unde circula?ia ma?inilor cu combustie este interzis?.",
+      "Forma inconfundabil? a Matterhorn-ului a inspirat faimosul design al ciocolatei Toblerone."
     ],
       en: [
         "The Matterhorn stands at an impressive 4,478 meters, making it one of the highest peaks in the Alps.",
@@ -517,35 +517,35 @@ export const switzerlandRegions: POI[] = [
       en: "Lucerne"
     },
     description: {
-      de: "Luzern ist das Tor zur Zentralschweiz, eine malerische Stadt am VierwaldstÃ¤ttersee, bekannt fÃ¼r ihre mittelalterliche KapellbrÃ¼cke und die beeindruckende Bergkulisse von Pilatus und Rigi.",
-      hu: "Luzern KÃ¶zÃ©p-SvÃ¡jc kapuja, egy festÅ‘i vÃ¡ros a VierwaldstÃ¤tti-tÃ³ partjÃ¡n, amely kÃ¶zÃ©pkori KÃ¡polna-hÃ­djÃ¡rÃ³l, valamint a Pilatus Ã©s a Rigi lenyÅ±gÃ¶zÅ‘ hegyi panorÃ¡mÃ¡jÃ¡rÃ³l ismert.",
-      ro: "Lucerna este poarta cÄƒtre centrul ElveÈ›iei, un oraÈ™ pitoresc pe malul lacului celor Patru Cantoane, cunoscut pentru Podul Capelei medieval È™i decorul montan impresionant al munÈ›ilor Pilatus È™i Rigi.",
+      de: "Luzern ist das Tor zur Zentralschweiz, eine malerische Stadt am Vierwaldstättersee, bekannt für ihre mittelalterliche Kapellbrücke und die beeindruckende Bergkulisse von Pilatus und Rigi.",
+      hu: "Luzern Közép-Svájc kapuja, egy fest�?i város a Vierwaldstätti-tó partján, amely középkori Kápolna-hídjáról, valamint a Pilatus és a Rigi lenyűgöz�? hegyi panorámájáról ismert.",
+      ro: "Lucerna este poarta c�?tre centrul Elve�?iei, un ora�? pitoresc pe malul lacului celor Patru Cantoane, cunoscut pentru Podul Capelei medieval �?i decorul montan impresionant al mun�?ilor Pilatus �?i Rigi.",
       en: "Lucerne is the gateway to central Switzerland, a picturesque city on Lake Lucerne, known for its medieval Chapel Bridge and the impressive mountain backdrop of Pilatus and Rigi."
     },
     descriptionAdvanced: {
-      de: "Luzern ist eine Stadt in der Zentralschweiz, gelegen am VierwaldstÃ¤ttersee. Sie ist bekannt fÃ¼r ihre gut erhaltene mittelalterliche Architektur und die KapellbrÃ¼cke. Die Stadt ist von Bergen umgeben.",
-      hu: "Luzern egy vÃ¡ros KÃ¶zÃ©p-SvÃ¡jcban, a VierwaldstÃ¤tti-tÃ³ partjÃ¡n. JÃ³l megÅ‘rzÃ¶tt kÃ¶zÃ©pkori Ã©pÃ­tÃ©szetÃ©rÅ‘l Ã©s a KÃ¡polna-hÃ­drÃ³l ismert. A vÃ¡rost hegyek veszik kÃ¶rÃ¼l.",
-      ro: "Lucerna este un oraÈ™ din centrul ElveÈ›iei, situat pe Lacul Lucerna. Este cunoscut pentru arhitectura sa medievalÄƒ bine conservatÄƒ È™i Podul Capelei. OraÈ™ul este Ã®nconjurat de munÈ›i.",
+      de: "Luzern ist eine Stadt in der Zentralschweiz, gelegen am Vierwaldstättersee. Sie ist bekannt für ihre gut erhaltene mittelalterliche Architektur und die Kapellbrücke. Die Stadt ist von Bergen umgeben.",
+      hu: "Luzern egy város Közép-Svájcban, a Vierwaldstätti-tó partján. Jól meg�?rzött középkori építészetér�?l és a Kápolna-hídról ismert. A várost hegyek veszik körül.",
+      ro: "Lucerna este un ora�? din centrul Elve�?iei, situat pe Lacul Lucerna. Este cunoscut pentru arhitectura sa medieval�? bine conservat�? �?i Podul Capelei. Ora�?ul este înconjurat de mun�?i.",
       en: "Lucerne is a city in central Switzerland, located on Lake Lucerne. It is known for its well-preserved medieval architecture and the Chapel Bridge. The city is surrounded by mountains."
     },
     facts: {
       de: [
-        "Die KapellbrÃ¼cke ist die Ã¤lteste Ã¼berdachte HolzbrÃ¼cke Europas.",
-        "Das LÃ¶wendenkmal erinnert an die Schweizergarde.",
-        "Der Pilatus und die Rigi sind beliebte Ausflugsberge in der NÃ¤he.",
+        "Die Kapellbrücke ist die älteste überdachte Holzbrücke Europas.",
+        "Das Löwendenkmal erinnert an die Schweizergarde.",
+        "Der Pilatus und die Rigi sind beliebte Ausflugsberge in der Nähe.",
         "Das Verkehrshaus der Schweiz ist das meistbesuchte Museum des Landes."
       ],
       hu: [
-        "A KÃ¡polna-hÃ­d EurÃ³pa legrÃ©gebbi fedett fahÃ­dja.",
-        "Az OroszlÃ¡n-emlÃ©kmÅ± a SvÃ¡jci GÃ¡rdÃ¡nak Ã¡llÃ­t emlÃ©ket.",
-        "A Pilatus Ã©s a Rigi nÃ©pszerÅ± kirÃ¡ndulÃ³hegyek a kÃ¶zelben.",
-        "A SvÃ¡jci KÃ¶zlekedÃ©si MÃºzeum az orszÃ¡g leglÃ¡togatottabb mÃºzeuma."
+        "A Kápolna-híd Európa legrégebbi fedett fahídja.",
+        "Az Oroszlán-emlékmű a Svájci Gárdának állít emléket.",
+        "A Pilatus és a Rigi népszerű kirándulóhegyek a közelben.",
+        "A Svájci Közlekedési Múzeum az ország leglátogatottabb múzeuma."
       ],
       ro: [
         "Podul Capelei este cel mai vechi pod de lemn acoperit din Europa.",
-        "Monumentul Leului comemoreazÄƒ Garda ElveÈ›ianÄƒ.",
-        "Pilatus È™i Rigi sunt munÈ›i populari pentru excursii Ã®n apropiere.",
-        "Muzeul ElveÈ›ian al Transporturilor este cel mai vizitat muzeu din È›arÄƒ."
+        "Monumentul Leului comemoreaz�? Garda Elve�?ian�?.",
+        "Pilatus �?i Rigi sunt mun�?i populari pentru excursii în apropiere.",
+        "Muzeul Elve�?ian al Transporturilor este cel mai vizitat muzeu din �?ar�?."
       ],
       en: [
         "The Chapel Bridge is the oldest covered wooden bridge in Europe.",
@@ -558,14 +558,14 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Kapellbrücke din Lucerna este cel mai vechi pod de lemn acoperit care a supraviețuit în Europa.",
-      "Monumentul Leului din Lucerna a fost sculptat pentru a onora Gărzile Elvețiene căzute în timpul Revoluției Franceze.",
-      "Orașul este poarta de acces către Lacul celor Patru Cantoane, una dintre cele mai vizitate destinații din Elveția.",
-      "Centrul de Cultură și Congrese (KKL) din Lucerna a fost proiectat de celebrul arhitect Jean Nouvel.",
-      "Muzeul Elvețian al Transporturilor, situat aici, este cel mai vizitat muzeu din întreaga țară."
+      "Kapellbr�cke din Lucerna este cel mai vechi pod de lemn acoperit care a supravie?uit �n Europa.",
+      "Monumentul Leului din Lucerna a fost sculptat pentru a onora G?rzile Elve?iene c?zute �n timpul Revolu?iei Franceze.",
+      "Ora?ul este poarta de acces c?tre Lacul celor Patru Cantoane, una dintre cele mai vizitate destina?ii din Elve?ia.",
+      "Centrul de Cultur? ?i Congrese (KKL) din Lucerna a fost proiectat de celebrul arhitect Jean Nouvel.",
+      "Muzeul Elve?ian al Transporturilor, situat aici, este cel mai vizitat muzeu din �ntreaga ?ar?."
     ],
       en: [
-        "Lucerne is world-famous for the Chapel Bridge (Kapellbrücke), the oldest wooden covered bridge in Europe.",
+        "Lucerne is world-famous for the Chapel Bridge (Kapellbr�cke), the oldest wooden covered bridge in Europe.",
         "The poignant Lion Monument, carved into a rock face, honors the Swiss Guards who died during the French Revolution.",
         "Located on the shores of Lake Lucerne, the city acts as the primary gateway to Central Switzerland and its stunning peaks.",
         "The modern Culture and Congress Centre (KKL), designed by Jean Nouvel, is celebrated for its exceptional acoustics.",
@@ -586,35 +586,35 @@ export const switzerlandRegions: POI[] = [
       en: "Jungfraujoch"
     },
     description: {
-      de: "Das Jungfraujoch, bekannt als 'Top of Europe', beherbergt den hÃ¶chstgelegenen Bahnhof Europas und bietet einen atemberaubenden Blick auf den Aletschgletscher und die Berner Alpen.",
-      hu: "A Jungfraujoch, az â€žEurÃ³pa tetejekÃ©ntâ€ ismert helyszÃ­n ad otthont EurÃ³pa legmagasabban fekvÅ‘ vasÃºtÃ¡llomÃ¡sÃ¡nak, Ã©s lenyÅ±gÃ¶zÅ‘ kilÃ¡tÃ¡st nyÃºjt az Aletsch-gleccserre Ã©s a Berni-Alpokra.",
-      ro: "Jungfraujoch, cunoscut sub numele de â€žTop of Europeâ€, gÄƒzduieÈ™te cea mai Ã®naltÄƒ garÄƒ din Europa È™i oferÄƒ o vedere uluitoare asupra gheÈ›arului Aletsch È™i a Alpilor Bernezi.",
+      de: "Das Jungfraujoch, bekannt als 'Top of Europe', beherbergt den höchstgelegenen Bahnhof Europas und bietet einen atemberaubenden Blick auf den Aletschgletscher und die Berner Alpen.",
+      hu: "A Jungfraujoch, az �??Európa tetejeként�?� ismert helyszín ad otthont Európa legmagasabban fekv�? vasútállomásának, és lenyűgöz�? kilátást nyújt az Aletsch-gleccserre és a Berni-Alpokra.",
+      ro: "Jungfraujoch, cunoscut sub numele de �??Top of Europe�?�, g�?zduie�?te cea mai înalt�? gar�? din Europa �?i ofer�? o vedere uluitoare asupra ghe�?arului Aletsch �?i a Alpilor Bernezi.",
       en: "Jungfraujoch, known as the 'Top of Europe', is home to the highest railway station in Europe and offers breathtaking views of the Aletsch Glacier and the Bernese Alps."
     },
     descriptionAdvanced: {
-      de: "Das Jungfraujoch ist ein Pass zwischen den Bergen MÃ¶nch und Jungfrau. Es wird oft als 'Top of Europe' bezeichnet, da sich hier der hÃ¶chste Bahnhof Europas befindet. Es bietet spektakulÃ¤re Ausblicke auf den Aletschgletscher.",
-      hu: "A Jungfraujoch egy hÃ¡gÃ³ a MÃ¶nch Ã©s a Jungfrau hegyek kÃ¶zÃ¶tt. Gyakran 'EurÃ³pa tetejÃ©nek' nevezik, mivel itt talÃ¡lhatÃ³ EurÃ³pa legmagasabban fekvÅ‘ vasÃºtÃ¡llomÃ¡sa. LÃ¡tvÃ¡nyos kilÃ¡tÃ¡st nyÃºjt az Aletsch-gleccserre.",
-      ro: "Jungfraujoch este o trecÄƒtoare Ã®ntre munÈ›ii MÃ¶nch È™i Jungfrau. Este adesea numit 'Top of Europe', deoarece aici se aflÄƒ cea mai Ã®naltÄƒ garÄƒ din Europa. OferÄƒ vederi spectaculoase ale gheÈ›arului Aletsch.",
-      en: "The Jungfraujoch is a pass between the MÃ¶nch and Jungfrau mountains. It is often called the 'Top of Europe' because it is home to the highest railway station in Europe. It offers spectacular views of the Aletsch Glacier."
+      de: "Das Jungfraujoch ist ein Pass zwischen den Bergen Mönch und Jungfrau. Es wird oft als 'Top of Europe' bezeichnet, da sich hier der höchste Bahnhof Europas befindet. Es bietet spektakuläre Ausblicke auf den Aletschgletscher.",
+      hu: "A Jungfraujoch egy hágó a Mönch és a Jungfrau hegyek között. Gyakran 'Európa tetejének' nevezik, mivel itt található Európa legmagasabban fekv�? vasútállomása. Látványos kilátást nyújt az Aletsch-gleccserre.",
+      ro: "Jungfraujoch este o trec�?toare între mun�?ii Mönch �?i Jungfrau. Este adesea numit 'Top of Europe', deoarece aici se afl�? cea mai înalt�? gar�? din Europa. Ofer�? vederi spectaculoase ale ghe�?arului Aletsch.",
+      en: "The Jungfraujoch is a pass between the Mönch and Jungfrau mountains. It is often called the 'Top of Europe' because it is home to the highest railway station in Europe. It offers spectacular views of the Aletsch Glacier."
     },
     facts: {
       de: [
-        "Der Bahnhof liegt auf 3.454 Metern HÃ¶he.",
-        "Die Jungfraubahn wurde 1912 erÃ¶ffnet.",
+        "Der Bahnhof liegt auf 3.454 Metern Höhe.",
+        "Die Jungfraubahn wurde 1912 eröffnet.",
         "Hier befindet sich das Sphinx-Observatorium.",
-        "Der Aletschgletscher ist der grÃ¶ÃŸte Gletscher der Alpen."
+        "Der Aletschgletscher ist der grö�?te Gletscher der Alpen."
       ],
       hu: [
-        "A vasÃºtÃ¡llomÃ¡s 3454 mÃ©ter magasan talÃ¡lhatÃ³.",
-        "A Jungfrau-vasutat 1912-ben nyitottÃ¡k meg.",
-        "Itt talÃ¡lhatÃ³ a Szfinx ObszervatÃ³rium.",
+        "A vasútállomás 3454 méter magasan található.",
+        "A Jungfrau-vasutat 1912-ben nyitották meg.",
+        "Itt található a Szfinx Obszervatórium.",
         "Az Aletsch-gleccser az Alpok legnagyobb gleccsere."
       ],
       ro: [
-        "Gara este situatÄƒ la o altitudine de 3.454 de metri.",
-        "Calea feratÄƒ Jungfrau a fost deschisÄƒ Ã®n 1912.",
-        "Aici se aflÄƒ Observatorul Sfinx.",
-        "GheÈ›arul Aletsch este cel mai mare gheÈ›ar din Alpi."
+        "Gara este situat�? la o altitudine de 3.454 de metri.",
+        "Calea ferat�? Jungfrau a fost deschis�? în 1912.",
+        "Aici se afl�? Observatorul Sfinx.",
+        "Ghe�?arul Aletsch este cel mai mare ghe�?ar din Alpi."
       ],
       en: [
         "The railway station is located at an altitude of 3,454 meters.",
@@ -627,11 +627,11 @@ export const switzerlandRegions: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Stația feroviară Jungfraujoch este cea mai înaltă gară din Europa, situată la 3.454 metri altitudine.",
-      "Calea ferată a fost finalizată în anul 1912, necesitând eforturi inginerești extraordinare pentru a tăia stânca.",
-      "De pe platforma Sphinx se poate admira Marele Ghețar Aletsch, lung de peste 22 de kilometri.",
-      "Locația găzduiește Observatorul Sphinx, un important centru internațional pentru cercetare astronomică și de mediu.",
-      "Jungfraujoch este acoperit de zăpadă și gheață în mod permanent, oferind o experiență alpină pe tot parcursul anului."
+      "Sta?ia feroviar? Jungfraujoch este cea mai �nalt? gar? din Europa, situat? la 3.454 metri altitudine.",
+      "Calea ferat? a fost finalizat? �n anul 1912, necesit�nd eforturi inginere?ti extraordinare pentru a t?ia st�nca.",
+      "De pe platforma Sphinx se poate admira Marele Ghe?ar Aletsch, lung de peste 22 de kilometri.",
+      "Loca?ia g?zduie?te Observatorul Sphinx, un important centru interna?ional pentru cercetare astronomic? ?i de mediu.",
+      "Jungfraujoch este acoperit de z?pad? ?i ghea?? �n mod permanent, oferind o experien?? alpin? pe tot parcursul anului."
     ],
       en: [
         "Often referred to as the 'Top of Europe', Jungfraujoch boasts the highest railway station in Europe at an altitude of 3,454 meters.",
@@ -658,38 +658,38 @@ export const switzerlandCities: POI[] = [
       en: "Winterthur"
     },
     description: {
-      de: "Winterthur ist eine bedeutende Kultur- und Industriestadt im Kanton ZÃ¼rich, bekannt fÃ¼r ihre erstklassigen Kunstsammlungen, ihre zahlreichen Parks und als Zentrum fÃ¼r Technik und Innovation.",
-      hu: "Winterthur jelentÅ‘s kulturÃ¡lis Ã©s ipari vÃ¡ros ZÃ¼rich kantonban, amely vilÃ¡gszÃ­nvonalÃº mÅ±vÃ©szeti gyÅ±jtemÃ©nyeirÅ‘l, szÃ¡mos parkjÃ¡rÃ³l, valamint technolÃ³giai Ã©s innovÃ¡ciÃ³s kÃ¶zpontkÃ©nt ismert.",
-      ro: "Winterthur este un oraÈ™ cultural È™i industrial important din cantonul ZÃ¼rich, cunoscut pentru colecÈ›iile sale de artÄƒ de primÄƒ clasÄƒ, numeroasele sale parcuri È™i ca centru pentru tehnologie È™i inovare.",
+      de: "Winterthur ist eine bedeutende Kultur- und Industriestadt im Kanton Zürich, bekannt für ihre erstklassigen Kunstsammlungen, ihre zahlreichen Parks und als Zentrum für Technik und Innovation.",
+      hu: "Winterthur jelent�?s kulturális és ipari város Zürich kantonban, amely világszínvonalú művészeti gyűjteményeir�?l, számos parkjáról, valamint technológiai és innovációs központként ismert.",
+      ro: "Winterthur este un ora�? cultural �?i industrial important din cantonul Zürich, cunoscut pentru colec�?iile sale de art�? de prim�? clas�?, numeroasele sale parcuri �?i ca centru pentru tehnologie �?i inovare.",
       en: "Winterthur is a major cultural and industrial city in the canton of Zurich, known for its world-class art collections, numerous parks, and as a hub for technology and innovation."
     },
     descriptionAdvanced: {
-      de: "Winterthur ist eine der grÃ¶ÃŸten StÃ¤dte der Schweiz und ein wichtiger Standort fÃ¼r Industrie, Bildung und Kultur. Die Stadt ist fÃ¼r ihre Museen, Parks und lebendige Altstadt bekannt. Als Wirtschaftsstandort im Kanton ZÃ¼rich bietet sie starken Anschluss an die Deutschschweiz. Winterthur verbindet urbane Dichte mit einer hohen LebensqualitÃ¤t.",
-      hu: "Winterthur SvÃ¡jc egyik legnagyobb vÃ¡rosa, Ã©s fontos ipari, oktatÃ¡si Ã©s kulturÃ¡lis kÃ¶zpont. A vÃ¡ros mÃºzeumairÃ³l, parkjairÃ³l Ã©s Ã©lÅ‘ Ã³vÃ¡rosÃ¡rÃ³l ismert. A zÃ¼richi kantonban erÅ‘s gazdasÃ¡gi kapcsolatokkal rendelkezik a nÃ©met nyelvÅ± SvÃ¡jc felÃ©. Winterthur a vÃ¡rosi Ã©letet kiemelkedÅ‘ Ã©letminÅ‘sÃ©ggel Ã¶tvÃ¶zi.",
-      ro: "Winterthur este unul dintre cele mai mari oraÈ™e din ElveÈ›ia È™i un centru important pentru industrie, educaÈ›ie È™i culturÄƒ. OraÈ™ul este cunoscut pentru muzeele, parcurile È™i centrul sÄƒu vechi animat. Ca nod economic din cantonul ZÃ¼rich, are legÄƒturi puternice cu ElveÈ›ia germanofonÄƒ. Winterthur combinÄƒ densitatea urbanÄƒ cu o calitate ridicatÄƒ a vieÈ›ii.",
+      de: "Winterthur ist eine der grö�?ten Städte der Schweiz und ein wichtiger Standort für Industrie, Bildung und Kultur. Die Stadt ist für ihre Museen, Parks und lebendige Altstadt bekannt. Als Wirtschaftsstandort im Kanton Zürich bietet sie starken Anschluss an die Deutschschweiz. Winterthur verbindet urbane Dichte mit einer hohen Lebensqualität.",
+      hu: "Winterthur Svájc egyik legnagyobb városa, és fontos ipari, oktatási és kulturális központ. A város múzeumairól, parkjairól és él�? óvárosáról ismert. A zürichi kantonban er�?s gazdasági kapcsolatokkal rendelkezik a német nyelvű Svájc felé. Winterthur a városi életet kiemelked�? életmin�?séggel ötvözi.",
+      ro: "Winterthur este unul dintre cele mai mari ora�?e din Elve�?ia �?i un centru important pentru industrie, educa�?ie �?i cultur�?. Ora�?ul este cunoscut pentru muzeele, parcurile �?i centrul s�?u vechi animat. Ca nod economic din cantonul Zürich, are leg�?turi puternice cu Elve�?ia germanofon�?. Winterthur combin�? densitatea urban�? cu o calitate ridicat�? a vie�?ii.",
       en: "Winterthur is one of the largest cities in Switzerland and an important hub for industry, education, and culture. The city is known for its museums, parks, and lively old town. As an economic center in the canton of Zurich, it has strong links across German-speaking Switzerland. Winterthur combines urban density with a high quality of life."
     },
     facts: {
       de: [
-        "Winterthur liegt im Kanton ZÃ¼rich.",
+        "Winterthur liegt im Kanton Zürich.",
         "Die Stadt ist ein wichtiger Museumsstandort.",
         "Sie hat eine starke industrielle Tradition.",
         "Die Altstadt ist kompakt und gut erreichbar.",
         "Winterthur ist an den Regional- und Fernverkehr gut angebunden."
       ],
       hu: [
-        "Winterthur a zÃ¼richi kantonban talÃ¡lhatÃ³.",
-        "A vÃ¡ros fontos mÃºzeumi kÃ¶zpont.",
-        "ErÅ‘s ipari hagyomÃ¡nyokkal rendelkezik.",
-        "Az Ã³vÃ¡ros kompakt Ã©s jÃ³l bejÃ¡rhatÃ³.",
-        "JÃ³ regionÃ¡lis Ã©s orszÃ¡gos kÃ¶zlekedÃ©si kapcsolatai vannak."
+        "Winterthur a zürichi kantonban található.",
+        "A város fontos múzeumi központ.",
+        "Er�?s ipari hagyományokkal rendelkezik.",
+        "Az óváros kompakt és jól bejárható.",
+        "Jó regionális és országos közlekedési kapcsolatai vannak."
       ],
       ro: [
-        "Winterthur se aflÄƒ Ã®n cantonul ZÃ¼rich.",
-        "OraÈ™ul este un centru muzeal important.",
-        "Are o tradiÈ›ie industrialÄƒ puternicÄƒ.",
-        "Centrul vechi este compact È™i uÈ™or de explorat.",
-        "Este bine conectat la transportul regional È™i naÈ›ional."
+        "Winterthur se afl�? în cantonul Zürich.",
+        "Ora�?ul este un centru muzeal important.",
+        "Are o tradi�?ie industrial�? puternic�?.",
+        "Centrul vechi este compact �?i u�?or de explorat.",
+        "Este bine conectat la transportul regional �?i na�?ional."
       ],
       en: [
         "Winterthur is located in the canton of Zurich.",
@@ -703,11 +703,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Winterthur a fost un centru major al industriei grele elvețiene, cunoscut pentru producția de motoare și locomotive.",
-      "Fostele zone industriale au fost transformate în cartiere moderne, precum districtul Sulzerareal.",
-      "Technorama din Winterthur este unul dintre cele mai interactive centre de știință din Europa.",
-      "Orașul are un număr impresionant de muzee de artă, inclusiv renumitele Colecții Oskar Reinhart.",
-      "Zona sa pietonală din centrul vechi este una dintre cele mai mari și mai animate din Elveția."
+      "Winterthur a fost un centru major al industriei grele elve?iene, cunoscut pentru produc?ia de motoare ?i locomotive.",
+      "Fostele zone industriale au fost transformate �n cartiere moderne, precum districtul Sulzerareal.",
+      "Technorama din Winterthur este unul dintre cele mai interactive centre de ?tiin?? din Europa.",
+      "Ora?ul are un num?r impresionant de muzee de art?, inclusiv renumitele Colec?ii Oskar Reinhart.",
+      "Zona sa pietonal? din centrul vechi este una dintre cele mai mari ?i mai animate din Elve?ia."
     ],
       en: [
         "Winterthur, historically an industrial powerhouse, has successfully transformed into a vibrant cultural center.",
@@ -731,41 +731,41 @@ export const switzerlandCities: POI[] = [
       en: "Chur"
     },
     description: {
-      de: "Chur ist die Ã¤lteste Stadt der Schweiz, die Hauptstadt des Kantons GraubÃ¼nden und ein wichtiges Tor zu den Alpen, bekannt fÃ¼r ihre autofreie Altstadt und die Kathedrale St. MariÃ¤ Himmelfahrt.",
-      hu: "Chur SvÃ¡jc legrÃ©gebbi vÃ¡rosa, GraubÃ¼nden kanton fÅ‘vÃ¡rosa Ã©s az Alpok fontos kapuja, amely autÃ³mentes Ã³vÃ¡rosÃ¡rÃ³l Ã©s a Szent MÃ¡ria Mennybemenetele-szÃ©kesegyhÃ¡zrÃ³l ismert.",
-      ro: "Chur este cel mai vechi oraÈ™ din ElveÈ›ia, capitala cantonului GraubÃ¼nden È™i o poartÄƒ importantÄƒ cÄƒtre Alpi, cunoscut pentru centrul sÄƒu vechi fÄƒrÄƒ maÈ™ini È™i Catedrala Adormirea Maicii Domnului.",
-      en: "Chur is the oldest city in Switzerland, the capital of the canton of GraubÃ¼nden, and an important gateway to the Alps, known for its car-free old town and the Cathedral of Saint Mary of the Assumption."
+      de: "Chur ist die älteste Stadt der Schweiz, die Hauptstadt des Kantons Graubünden und ein wichtiges Tor zu den Alpen, bekannt für ihre autofreie Altstadt und die Kathedrale St. Mariä Himmelfahrt.",
+      hu: "Chur Svájc legrégebbi városa, Graubünden kanton f�?városa és az Alpok fontos kapuja, amely autómentes óvárosáról és a Szent Mária Mennybemenetele-székesegyházról ismert.",
+      ro: "Chur este cel mai vechi ora�? din Elve�?ia, capitala cantonului Graubünden �?i o poart�? important�? c�?tre Alpi, cunoscut pentru centrul s�?u vechi f�?r�? ma�?ini �?i Catedrala Adormirea Maicii Domnului.",
+      en: "Chur is the oldest city in Switzerland, the capital of the canton of Graubünden, and an important gateway to the Alps, known for its car-free old town and the Cathedral of Saint Mary of the Assumption."
     },
     descriptionAdvanced: {
-      de: "Chur ist die Hauptstadt des Kantons GraubÃ¼nden und gilt als die Ã¤lteste Stadt der Schweiz. Die Lage macht sie zu einem natÃ¼rlichen Tor zu den Alpen und zu bekannten Ferienregionen. Die Altstadt, die BahnanschlÃ¼sse und die Bergkulisse schaffen ein starkes Reiseziel in der SÃ¼dostschweiz. Chur ist zugleich urban, historisch und klar alpin geprÃ¤gt.",
-      hu: "Chur GraubÃ¼nden kanton fÅ‘vÃ¡rosa, Ã©s SvÃ¡jc legÅ‘sibb vÃ¡rosÃ¡nak tartjÃ¡k. ElhelyezkedÃ©se miatt termÃ©szetes kapu az Alpok Ã©s a hÃ­res Ã¼dÃ¼lÅ‘rÃ©giÃ³k felÃ©. Az Ã³vÃ¡ros, a vasÃºti kapcsolatok Ã©s a hegyek lÃ¡tvÃ¡nya erÅ‘s turisztikai vonzerÅ‘t ad DÃ©lkelet-SvÃ¡jcban. Chur egyszerre vÃ¡rosi, tÃ¶rtÃ©nelmi Ã©s erÅ‘sen alpesi karakterÅ±.",
-      ro: "Chur este capitala cantonului GraubÃ¼nden È™i este considerat cel mai vechi oraÈ™ din ElveÈ›ia. PoziÈ›ia sa Ã®l transformÄƒ Ã®ntr-o poartÄƒ naturalÄƒ cÄƒtre Alpi È™i cÄƒtre regiuni turistice celebre. Centrul vechi, legÄƒturile feroviare È™i decorul montan creeazÄƒ o destinaÈ›ie puternicÄƒ Ã®n sud-estul ElveÈ›iei. Chur este urban, istoric È™i profund alpin Ã®n acelaÈ™i timp.",
-      en: "Chur is the capital of the canton of GraubÃ¼nden and is considered the oldest city in Switzerland. Its location makes it a natural gateway to the Alps and to famous holiday regions. The old town, rail connections, and mountain setting create a strong travel destination in southeast Switzerland. Chur is urban, historic, and distinctly Alpine at the same time."
+      de: "Chur ist die Hauptstadt des Kantons Graubünden und gilt als die älteste Stadt der Schweiz. Die Lage macht sie zu einem natürlichen Tor zu den Alpen und zu bekannten Ferienregionen. Die Altstadt, die Bahnanschlüsse und die Bergkulisse schaffen ein starkes Reiseziel in der Südostschweiz. Chur ist zugleich urban, historisch und klar alpin geprägt.",
+      hu: "Chur Graubünden kanton f�?városa, és Svájc leg�?sibb városának tartják. Elhelyezkedése miatt természetes kapu az Alpok és a híres üdül�?régiók felé. Az óváros, a vasúti kapcsolatok és a hegyek látványa er�?s turisztikai vonzer�?t ad Délkelet-Svájcban. Chur egyszerre városi, történelmi és er�?sen alpesi karakterű.",
+      ro: "Chur este capitala cantonului Graubünden �?i este considerat cel mai vechi ora�? din Elve�?ia. Pozi�?ia sa îl transform�? într-o poart�? natural�? c�?tre Alpi �?i c�?tre regiuni turistice celebre. Centrul vechi, leg�?turile feroviare �?i decorul montan creeaz�? o destina�?ie puternic�? în sud-estul Elve�?iei. Chur este urban, istoric �?i profund alpin în acela�?i timp.",
+      en: "Chur is the capital of the canton of Graubünden and is considered the oldest city in Switzerland. Its location makes it a natural gateway to the Alps and to famous holiday regions. The old town, rail connections, and mountain setting create a strong travel destination in southeast Switzerland. Chur is urban, historic, and distinctly Alpine at the same time."
     },
     facts: {
       de: [
-        "Chur ist Hauptstadt von GraubÃ¼nden.",
-        "Die Stadt gilt als Ã¤lteste Stadt der Schweiz.",
-        "Sie ist ein wichtiger Knotenpunkt fÃ¼r Bahn- und Bergreisen.",
-        "Die Altstadt gehÃ¶rt zu den sehenswerten Stadtbildern der Alpen.",
+        "Chur ist Hauptstadt von Graubünden.",
+        "Die Stadt gilt als älteste Stadt der Schweiz.",
+        "Sie ist ein wichtiger Knotenpunkt für Bahn- und Bergreisen.",
+        "Die Altstadt gehört zu den sehenswerten Stadtbildern der Alpen.",
         "Chur liegt am Rand mehrerer wichtiger Alpenrouten."
       ],
       hu: [
-        "Chur GraubÃ¼nden fÅ‘vÃ¡rosa.",
-        "A vÃ¡rost SvÃ¡jc legÅ‘sibb vÃ¡rosÃ¡nak tartjÃ¡k.",
-        "Fontos vasÃºti Ã©s hegyi utazÃ¡si csomÃ³pont.",
-        "Az Ã³vÃ¡ros az alpesi vÃ¡roskÃ©pek kÃ¶zÃ¶tt kiemelkedÅ‘.",
-        "TÃ¶bb fontos alpesi Ãºtvonal peremÃ©n fekszik."
+        "Chur Graubünden f�?városa.",
+        "A várost Svájc leg�?sibb városának tartják.",
+        "Fontos vasúti és hegyi utazási csomópont.",
+        "Az óváros az alpesi városképek között kiemelked�?.",
+        "Több fontos alpesi útvonal peremén fekszik."
       ],
       ro: [
-        "Chur este capitala cantonului GraubÃ¼nden.",
-        "OraÈ™ul este considerat cel mai vechi din ElveÈ›ia.",
-        "Este un nod important pentru trenuri È™i excursii montane.",
-        "Centrul vechi se numÄƒrÄƒ printre cele mai frumoase peisaje urbane alpine.",
-        "Se aflÄƒ lÃ¢ngÄƒ mai multe rute alpine majore."
+        "Chur este capitala cantonului Graubünden.",
+        "Ora�?ul este considerat cel mai vechi din Elve�?ia.",
+        "Este un nod important pentru trenuri �?i excursii montane.",
+        "Centrul vechi se num�?r�? printre cele mai frumoase peisaje urbane alpine.",
+        "Se afl�? lâng�? mai multe rute alpine majore."
       ],
       en: [
-        "Chur is the capital of GraubÃ¼nden.",
+        "Chur is the capital of Graubünden.",
         "The city is considered the oldest in Switzerland.",
         "It is an important hub for rail and mountain travel.",
         "The old town ranks among the notable Alpine urban landscapes.",
@@ -776,15 +776,15 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Descoperirile arheologice atestă că regiunea Chur a fost locuită încă din mileniul al III-lea î.Hr.",
-      "Orașul este punctul de plecare pentru renumitul traseu feroviar Bernina Express, parte a patrimoniului UNESCO.",
-      "Palatul Episcopal și Catedrala Adormirii Maicii Domnului sunt monumente emblematice care domină orașul.",
-      "Chur se află pe traseul istoric care lega nordul Europei de Italia prin trecătorile alpine.",
-      "Aici, dialectele germane interacționează puternic cu influențele limbii retoromane specifice cantonului Graubünden."
+      "Descoperirile arheologice atest? c? regiunea Chur a fost locuit? �nc? din mileniul al III-lea �.Hr.",
+      "Ora?ul este punctul de plecare pentru renumitul traseu feroviar Bernina Express, parte a patrimoniului UNESCO.",
+      "Palatul Episcopal ?i Catedrala Adormirii Maicii Domnului sunt monumente emblematice care domin? ora?ul.",
+      "Chur se afl? pe traseul istoric care lega nordul Europei de Italia prin trec?torile alpine.",
+      "Aici, dialectele germane interac?ioneaz? puternic cu influen?ele limbii retoromane specifice cantonului Graub�nden."
     ],
       en: [
         "Chur is recognized as the oldest continuously inhabited city in Switzerland, with a history spanning over 5,000 years.",
-        "It serves as the capital of the canton of Graubünden and is a primary transport hub for the region.",
+        "It serves as the capital of the canton of Graub�nden and is a primary transport hub for the region.",
         "The city is the starting point for the famous Bernina Express and Glacier Express panoramic train routes.",
         "Its car-free old town features winding alleys, historic buildings, and the 800-year-old Cathedral of the Assumption.",
         "Chur seamlessly blends an urban atmosphere with immediate access to pristine alpine nature."
@@ -804,15 +804,15 @@ export const switzerlandCities: POI[] = [
       en: "Lugano"
     },
     description: {
-      de: "Lugano ist die grÃ¶ÃŸte Stadt im italienischsprachigen Kanton Tessin, eine elegante Stadt am Luganersee, bekannt fÃ¼r ihr mediterranes Flair, ihre Parks und als bedeutendes Finanzzentrum.",
-      hu: "Lugano az olasz nyelvÅ± Ticino kanton legnagyobb vÃ¡rosa, egy elegÃ¡ns vÃ¡ros a LuganÃ³i-tÃ³ partjÃ¡n, amely mediterrÃ¡n hangulatÃ¡rÃ³l, parkjairÃ³l Ã©s jelentÅ‘s pÃ©nzÃ¼gyi kÃ¶zpontkÃ©nt ismert.",
-      ro: "Lugano este cel mai mare oraÈ™ din cantonul de limbÄƒ italianÄƒ Ticino, un oraÈ™ elegant pe malul lacului Lugano, cunoscut pentru atmosfera sa mediteraneanÄƒ, parcurile sale È™i ca centru financiar important.",
+      de: "Lugano ist die grö�?te Stadt im italienischsprachigen Kanton Tessin, eine elegante Stadt am Luganersee, bekannt für ihr mediterranes Flair, ihre Parks und als bedeutendes Finanzzentrum.",
+      hu: "Lugano az olasz nyelvű Ticino kanton legnagyobb városa, egy elegáns város a Luganói-tó partján, amely mediterrán hangulatáról, parkjairól és jelent�?s pénzügyi központként ismert.",
+      ro: "Lugano este cel mai mare ora�? din cantonul de limb�? italian�? Ticino, un ora�? elegant pe malul lacului Lugano, cunoscut pentru atmosfera sa mediteranean�?, parcurile sale �?i ca centru financiar important.",
       en: "Lugano is the largest city in the Italian-speaking canton of Ticino, an elegant city on Lake Lugano, known for its Mediterranean flair, its parks, and as a major financial center."
     },
     descriptionAdvanced: {
-      de: "Lugano ist die grÃ¶ÃŸte Stadt im Tessin und verbindet Schweizer Struktur mit mediterranem Flair. Die Seepromenade, die Berge und die italienische Sprachkultur prÃ¤gen das Stadtbild. Als Finanz- und Messestandort ist Lugano auch wirtschaftlich stark. Die Stadt ist ein beliebtes Ziel fÃ¼r Besucher, die See, Sonne und Alpenblick kombinieren wollen.",
-      hu: "Lugano Tessin legnagyobb vÃ¡rosa, Ã©s a svÃ¡jci szervezettsÃ©get mediterrÃ¡n hangulattal Ã¶tvÃ¶zi. A tÃ³parti sÃ©tÃ¡ny, a hegyek Ã©s az olasz nyelvi kultÃºra hatÃ¡rozza meg a vÃ¡roskÃ©pet. PÃ©nzÃ¼gyi Ã©s vÃ¡sÃ¡ri kÃ¶zpontkÃ©nt gazdasÃ¡gilag is erÅ‘s. Lugano nÃ©pszerÅ± cÃ©lpont azoknak, akik egyszerre keresnek tavat, napsÃ¼tÃ©st Ã©s alpesi kilÃ¡tÃ¡st.",
-      ro: "Lugano este cel mai mare oraÈ™ din Ticino È™i combinÄƒ structura elveÈ›ianÄƒ cu o atmosferÄƒ mediteraneanÄƒ. Promenada de pe malul lacului, munÈ›ii È™i cultura de limbÄƒ italianÄƒ definesc peisajul urban. Ca centru financiar È™i expoziÈ›ional, Lugano este puternic È™i economic. OraÈ™ul este o destinaÈ›ie popularÄƒ pentru cei care vor lac, soare È™i priveliÈ™ti alpine.",
+      de: "Lugano ist die grö�?te Stadt im Tessin und verbindet Schweizer Struktur mit mediterranem Flair. Die Seepromenade, die Berge und die italienische Sprachkultur prägen das Stadtbild. Als Finanz- und Messestandort ist Lugano auch wirtschaftlich stark. Die Stadt ist ein beliebtes Ziel für Besucher, die See, Sonne und Alpenblick kombinieren wollen.",
+      hu: "Lugano Tessin legnagyobb városa, és a svájci szervezettséget mediterrán hangulattal ötvözi. A tóparti sétány, a hegyek és az olasz nyelvi kultúra határozza meg a városképet. Pénzügyi és vásári központként gazdaságilag is er�?s. Lugano népszerű célpont azoknak, akik egyszerre keresnek tavat, napsütést és alpesi kilátást.",
+      ro: "Lugano este cel mai mare ora�? din Ticino �?i combin�? structura elve�?ian�? cu o atmosfer�? mediteranean�?. Promenada de pe malul lacului, mun�?ii �?i cultura de limb�? italian�? definesc peisajul urban. Ca centru financiar �?i expozi�?ional, Lugano este puternic �?i economic. Ora�?ul este o destina�?ie popular�? pentru cei care vor lac, soare �?i priveli�?ti alpine.",
       en: "Lugano is the largest city in Ticino and combines Swiss order with a Mediterranean feel. The lakeside promenade, the mountains, and the Italian-language culture shape the cityscape. As a financial and event center, Lugano is also economically strong. The city is a popular destination for travelers who want a mix of lake, sunshine, and Alpine views."
     },
     facts: {
@@ -824,18 +824,18 @@ export const switzerlandCities: POI[] = [
         "Lugano verbindet urbane Eleganz mit Berglandschaft."
       ],
       hu: [
-        "Lugano az olasz nyelvÅ± Tessinben talÃ¡lhatÃ³.",
-        "A vÃ¡ros a Lugano-tÃ³ partjÃ¡n fekszik.",
-        "Fontos pÃ©nzÃ¼gyi Ã©s kiÃ¡llÃ­tÃ¡si kÃ¶zpont.",
-        "A tÃ³parti sÃ©tÃ¡ny kiemelt lÃ¡tvÃ¡nyossÃ¡g.",
-        "A vÃ¡ros a vÃ¡rosi eleganciÃ¡t hegyvidÃ©ki kÃ¶rnyezettel Ã¶tvÃ¶zi."
+        "Lugano az olasz nyelvű Tessinben található.",
+        "A város a Lugano-tó partján fekszik.",
+        "Fontos pénzügyi és kiállítási központ.",
+        "A tóparti sétány kiemelt látványosság.",
+        "A város a városi eleganciát hegyvidéki környezettel ötvözi."
       ],
       ro: [
-        "Lugano se aflÄƒ Ã®n cantonul italianofon Ticino.",
-        "OraÈ™ul este situat pe malul Lacului Lugano.",
-        "Este un centru important financiar È™i expoziÈ›ional.",
-        "Promenada de pe malul lacului este o atracÈ›ie centralÄƒ.",
-        "OraÈ™ul Ã®mbinÄƒ eleganÈ›a urbanÄƒ cu peisajul montan."
+        "Lugano se afl�? în cantonul italianofon Ticino.",
+        "Ora�?ul este situat pe malul Lacului Lugano.",
+        "Este un centru important financiar �?i expozi�?ional.",
+        "Promenada de pe malul lacului este o atrac�?ie central�?.",
+        "Ora�?ul îmbin�? elegan�?a urban�? cu peisajul montan."
       ],
       en: [
         "Lugano is in the Italian-speaking canton of Ticino.",
@@ -849,11 +849,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Lugano este al treilea cel mai important centru financiar din Elveția, după Zürich și Geneva.",
-      "Orașul are un climat predominant mediteranean, favorizând creșterea palmierilor și a vegetației subtropicale.",
-      "Munții Monte San Salvatore și Monte Brè străjuiesc orașul, oferind panorame uluitoare accesibile cu funicularul.",
-      "Lacul Lugano (Ceresio) este de origine glaciară și își împarte apele între Elveția și Italia.",
-      "Muzeul de Artă LAC (Lugano Arte e Cultura) este unul dintre cele mai moderne centre culturale din Elveția."
+      "Lugano este al treilea cel mai important centru financiar din Elve?ia, dup? Z�rich ?i Geneva.",
+      "Ora?ul are un climat predominant mediteranean, favoriz�nd cre?terea palmierilor ?i a vegeta?iei subtropicale.",
+      "Mun?ii Monte San Salvatore ?i Monte Br� str?juiesc ora?ul, oferind panorame uluitoare accesibile cu funicularul.",
+      "Lacul Lugano (Ceresio) este de origine glaciar? ?i �?i �mparte apele �ntre Elve?ia ?i Italia.",
+      "Muzeul de Art? LAC (Lugano Arte e Cultura) este unul dintre cele mai moderne centre culturale din Elve?ia."
     ],
       en: [
         "Lugano is the largest city in the Italian-speaking canton of Ticino, blending Swiss efficiency with Mediterranean charm.",
@@ -877,38 +877,38 @@ export const switzerlandCities: POI[] = [
       en: "St. Gallen"
     },
     description: {
-      de: "St. Gallen ist das Zentrum der Ostschweiz, bekannt fÃ¼r seinen prÃ¤chtigen barocken Stiftsbezirk mit der weltberÃ¼hmten Stiftsbibliothek, die zum UNESCO-Welterbe gehÃ¶rt.",
-      hu: "Szent Gallen Kelet-SvÃ¡jc kÃ¶zpontja, amely pompÃ¡s barokk kolostornegyedÃ©rÅ‘l Ã©s a vilÃ¡ghÃ­rÅ±, UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©szÃ©t kÃ©pezÅ‘ kolostori kÃ¶nyvtÃ¡rÃ¡rÃ³l ismert.",
-      ro: "St. Gallen este centrul estului ElveÈ›iei, cunoscut pentru complexul sÄƒu baroc magnific al abaÈ›iei, cu biblioteca sa renumitÄƒ Ã®n Ã®ntreaga lume, inclusÄƒ Ã®n UNESCO.",
+      de: "St. Gallen ist das Zentrum der Ostschweiz, bekannt für seinen prächtigen barocken Stiftsbezirk mit der weltberühmten Stiftsbibliothek, die zum UNESCO-Welterbe gehört.",
+      hu: "Szent Gallen Kelet-Svájc központja, amely pompás barokk kolostornegyedér�?l és a világhírű, UNESCO Világörökség részét képez�? kolostori könyvtáráról ismert.",
+      ro: "St. Gallen este centrul estului Elve�?iei, cunoscut pentru complexul s�?u baroc magnific al aba�?iei, cu biblioteca sa renumit�? în întreaga lume, inclus�? în UNESCO.",
       en: "St. Gallen is the center of eastern Switzerland, known for its magnificent Baroque abbey district with the world-famous Abbey Library, a UNESCO World Heritage site."
     },
     descriptionAdvanced: {
-      de: "St. Gallen ist ein bedeutendes Zentrum in der Ostschweiz und bekannt fÃ¼r seine Klostertradition. Die Stadt verbindet Bildung, Textilgeschichte und eine starke urbane Kultur. Der barocke Stiftsbezirk ist international berÃ¼hmt und prÃ¤gt das Image der Stadt. St. Gallen ist ein attraktiver Standort fÃ¼r Reisen, Wirtschaft und Kultur im Nordosten der Schweiz.",
-      hu: "Szent Gallen fontos kÃ¶zpont Kelet-SvÃ¡jcban, Ã©s kolostori hagyomÃ¡nyairÃ³l ismert. A vÃ¡ros az oktatÃ¡st, a textilipari mÃºltat Ã©s az erÅ‘s vÃ¡rosi kultÃºrÃ¡t Ã¶tvÃ¶zi. A barokk kolostornegyed nemzetkÃ¶zileg is hÃ­res, Ã©s meghatÃ¡rozza a vÃ¡ros arculatÃ¡t. Szent Gallen vonzÃ³ cÃ©lpont utazÃ¡shoz, Ã¼zleti Ã©lethez Ã©s kultÃºrÃ¡hoz Ã‰szakkelet-SvÃ¡jcban.",
-      ro: "St. Gallen este un centru important din estul ElveÈ›iei È™i este cunoscut pentru tradiÈ›ia sa monasticÄƒ. OraÈ™ul combinÄƒ educaÈ›ia, istoria industriei textile È™i o culturÄƒ urbanÄƒ puternicÄƒ. Complexul baroc al mÄƒnÄƒstirii este celebru internaÈ›ional È™i defineÈ™te imaginea oraÈ™ului. St. Gallen este o destinaÈ›ie atractivÄƒ pentru cÄƒlÄƒtorii, afaceri È™i culturÄƒ Ã®n nord-estul ElveÈ›iei.",
+      de: "St. Gallen ist ein bedeutendes Zentrum in der Ostschweiz und bekannt für seine Klostertradition. Die Stadt verbindet Bildung, Textilgeschichte und eine starke urbane Kultur. Der barocke Stiftsbezirk ist international berühmt und prägt das Image der Stadt. St. Gallen ist ein attraktiver Standort für Reisen, Wirtschaft und Kultur im Nordosten der Schweiz.",
+      hu: "Szent Gallen fontos központ Kelet-Svájcban, és kolostori hagyományairól ismert. A város az oktatást, a textilipari múltat és az er�?s városi kultúrát ötvözi. A barokk kolostornegyed nemzetközileg is híres, és meghatározza a város arculatát. Szent Gallen vonzó célpont utazáshoz, üzleti élethez és kultúrához �?szakkelet-Svájcban.",
+      ro: "St. Gallen este un centru important din estul Elve�?iei �?i este cunoscut pentru tradi�?ia sa monastic�?. Ora�?ul combin�? educa�?ia, istoria industriei textile �?i o cultur�? urban�? puternic�?. Complexul baroc al m�?n�?stirii este celebru interna�?ional �?i define�?te imaginea ora�?ului. St. Gallen este o destina�?ie atractiv�? pentru c�?l�?torii, afaceri �?i cultur�? în nord-estul Elve�?iei.",
       en: "St. Gallen is a major center in eastern Switzerland and is known for its monastic tradition. The city combines education, textile history, and a strong urban culture. The baroque abbey district is internationally famous and shapes the city's image. St. Gallen is an attractive destination for travel, business, and culture in northeastern Switzerland."
     },
     facts: {
       de: [
         "St. Gallen ist ein Zentrum der Ostschweiz.",
-        "Der Stiftsbezirk gehÃ¶rt zum UNESCO-Welterbe.",
+        "Der Stiftsbezirk gehört zum UNESCO-Welterbe.",
         "Die Stadt hat eine lange Textiltradition.",
-        "Sie ist fÃ¼r Hochschulen und Forschung bekannt.",
-        "Die Altstadt und das Kloster prÃ¤gen das Stadtbild."
+        "Sie ist für Hochschulen und Forschung bekannt.",
+        "Die Altstadt und das Kloster prägen das Stadtbild."
       ],
       hu: [
-        "Szent Gallen Kelet-SvÃ¡jc kÃ¶zpontja.",
-        "A kolostornegyed az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "A vÃ¡rosnak hosszÃº textilipari hagyomÃ¡nya van.",
-        "Ismert egyetemeirÅ‘l Ã©s kutatÃ³helyeirÅ‘l.",
-        "Az Ã³vÃ¡ros Ã©s a kolostor hatÃ¡rozza meg a vÃ¡roskÃ©pet."
+        "Szent Gallen Kelet-Svájc központja.",
+        "A kolostornegyed az UNESCO Világörökség része.",
+        "A városnak hosszú textilipari hagyománya van.",
+        "Ismert egyetemeir�?l és kutatóhelyeir�?l.",
+        "Az óváros és a kolostor határozza meg a városképet."
       ],
       ro: [
-        "St. Gallen este un centru al ElveÈ›iei de est.",
-        "Districtul abaÈ›iei face parte din patrimoniul mondial UNESCO.",
-        "OraÈ™ul are o lungÄƒ tradiÈ›ie textilÄƒ.",
-        "Este cunoscut pentru universitÄƒÈ›i È™i cercetare.",
-        "Centrul vechi È™i mÄƒnÄƒstirea definesc oraÈ™ul."
+        "St. Gallen este un centru al Elve�?iei de est.",
+        "Districtul aba�?iei face parte din patrimoniul mondial UNESCO.",
+        "Ora�?ul are o lung�? tradi�?ie textil�?.",
+        "Este cunoscut pentru universit�?�?i �?i cercetare.",
+        "Centrul vechi �?i m�?n�?stirea definesc ora�?ul."
       ],
       en: [
         "St. Gallen is a center of eastern Switzerland.",
@@ -922,11 +922,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Biblioteca Abației din St. Gallen deține manuscrise inestimabile care datează din Evul Mediu timpuriu.",
-      "Districtul Abației a fost înscris pe lista Patrimoniului Mondial UNESCO în anul 1983.",
-      "Orașul este renumit pe plan internațional pentru broderiile și textilele sale de lux, cunoscute drept „St. Galler Spitze”.",
-      "Catedrala Abației este una dintre cele mai mari și mai somptuoase structuri religioase baroce din Elveția.",
-      "Universitatea din St. Gallen (HSG) se clasează printre cele mai bune școli de afaceri din Europa."
+      "Biblioteca Aba?iei din St. Gallen de?ine manuscrise inestimabile care dateaz? din Evul Mediu timpuriu.",
+      "Districtul Aba?iei a fost �nscris pe lista Patrimoniului Mondial UNESCO �n anul 1983.",
+      "Ora?ul este renumit pe plan interna?ional pentru broderiile ?i textilele sale de lux, cunoscute drept ?St. Galler Spitze?.",
+      "Catedrala Aba?iei este una dintre cele mai mari ?i mai somptuoase structuri religioase baroce din Elve?ia.",
+      "Universitatea din St. Gallen (HSG) se claseaz? printre cele mai bune ?coli de afaceri din Europa."
     ],
       en: [
         "St. Gallen is celebrated for its magnificent Abbey District, which has been a UNESCO World Heritage site since 1983.",
@@ -950,38 +950,38 @@ export const switzerlandCities: POI[] = [
       en: "Biel/Bienne"
     },
     description: {
-      de: "Biel/Bienne ist die grÃ¶ÃŸte zweisprachige Stadt der Schweiz, ein bedeutendes Zentrum der Uhrenindustrie am Bielersee, wo Tradition auf moderne PrÃ¤zision trifft.",
-      hu: "Biel/Bienne SvÃ¡jc legnagyobb kÃ©tnyelvÅ± vÃ¡rosa, az Ã³ragyÃ¡rtÃ¡s jelentÅ‘s kÃ¶zpontja a Bieli-tÃ³ partjÃ¡n, ahol a hagyomÃ¡ny modern precizitÃ¡ssal talÃ¡lkozik.",
-      ro: "Biel/Bienne este cel mai mare oraÈ™ bilingv din ElveÈ›ia, un centru important al industriei ceasurilor pe malul lacului Biel, unde tradiÈ›ia Ã®ntÃ¢lneÈ™te precizia modernÄƒ.",
+      de: "Biel/Bienne ist die grö�?te zweisprachige Stadt der Schweiz, ein bedeutendes Zentrum der Uhrenindustrie am Bielersee, wo Tradition auf moderne Präzision trifft.",
+      hu: "Biel/Bienne Svájc legnagyobb kétnyelvű városa, az óragyártás jelent�?s központja a Bieli-tó partján, ahol a hagyomány modern precizitással találkozik.",
+      ro: "Biel/Bienne este cel mai mare ora�? bilingv din Elve�?ia, un centru important al industriei ceasurilor pe malul lacului Biel, unde tradi�?ia întâlne�?te precizia modern�?.",
       en: "Biel/Bienne is the largest bilingual city in Switzerland, a major center of the watchmaking industry on Lake Biel, where tradition meets modern precision."
     },
     descriptionAdvanced: {
-      de: "Biel/Bienne ist eine zweisprachige Stadt am Bielersee und ein wichtiger Ort der Schweizer Uhrenindustrie. Die Stadt ist fÃ¼r ihre Balance aus Industrie, Wasserlage und urbanem Leben bekannt. Als grÃ¶ÃŸte zweisprachige Stadt des Landes ist sie kulturell besonders interessant. Biel/Bienne eignet sich gut fÃ¼r Besucher, die Technik, Design und Seestimmung verbinden wollen.",
-      hu: "Biel/Bienne kÃ©tnyelvÅ± vÃ¡ros a Bieli-tÃ³ partjÃ¡n, Ã©s a svÃ¡jci Ã³ragyÃ¡rtÃ¡s fontos kÃ¶zpontja. A vÃ¡ros az ipar, a vÃ­zpart Ã©s a vÃ¡rosi Ã©let egyensÃºlyÃ¡rÃ³l ismert. Az orszÃ¡g legnagyobb kÃ©tnyelvÅ± vÃ¡rosakÃ©nt kulturÃ¡lisan kÃ¼lÃ¶nÃ¶sen Ã©rdekes. Biel/Bienne jÃ³ vÃ¡lasztÃ¡s azoknak, akik a technikÃ¡t, a dizÃ¡jnt Ã©s a tÃ³parti hangulatot egyszerre keresik.",
-      ro: "Biel/Bienne este un oraÈ™ bilingv pe malul lacului Biel È™i un loc important al industriei elveÈ›iene de ceasuri. OraÈ™ul este cunoscut pentru echilibrul sÄƒu Ã®ntre industrie, malul apei È™i viaÈ›a urbanÄƒ. Ca cel mai mare oraÈ™ bilingv al È›Äƒrii, are un interes cultural deosebit. Biel/Bienne este potrivit pentru vizitatorii care vor sÄƒ combine tehnologia, designul È™i atmosfera de lac.",
+      de: "Biel/Bienne ist eine zweisprachige Stadt am Bielersee und ein wichtiger Ort der Schweizer Uhrenindustrie. Die Stadt ist für ihre Balance aus Industrie, Wasserlage und urbanem Leben bekannt. Als grö�?te zweisprachige Stadt des Landes ist sie kulturell besonders interessant. Biel/Bienne eignet sich gut für Besucher, die Technik, Design und Seestimmung verbinden wollen.",
+      hu: "Biel/Bienne kétnyelvű város a Bieli-tó partján, és a svájci óragyártás fontos központja. A város az ipar, a vízpart és a városi élet egyensúlyáról ismert. Az ország legnagyobb kétnyelvű városaként kulturálisan különösen érdekes. Biel/Bienne jó választás azoknak, akik a technikát, a dizájnt és a tóparti hangulatot egyszerre keresik.",
+      ro: "Biel/Bienne este un ora�? bilingv pe malul lacului Biel �?i un loc important al industriei elve�?iene de ceasuri. Ora�?ul este cunoscut pentru echilibrul s�?u între industrie, malul apei �?i via�?a urban�?. Ca cel mai mare ora�? bilingv al �?�?rii, are un interes cultural deosebit. Biel/Bienne este potrivit pentru vizitatorii care vor s�? combine tehnologia, designul �?i atmosfera de lac.",
       en: "Biel/Bienne is a bilingual city on Lake Biel and an important center of Swiss watchmaking. The city is known for its balance of industry, waterfront, and urban life. As the country's largest bilingual city, it is especially interesting culturally. Biel/Bienne works well for visitors who want to combine technology, design, and lakeside atmosphere."
     },
     facts: {
       de: [
-        "Biel/Bienne ist die grÃ¶ÃŸte zweisprachige Stadt der Schweiz.",
+        "Biel/Bienne ist die grö�?te zweisprachige Stadt der Schweiz.",
         "Die Stadt liegt am Bielersee.",
         "Sie ist eng mit der Uhrenindustrie verbunden.",
-        "Deutsch und FranzÃ¶sisch sind beide wichtig.",
+        "Deutsch und Französisch sind beide wichtig.",
         "Der Seeuferbereich ist ein beliebtes Freizeitgebiet."
       ],
       hu: [
-        "Biel/Bienne SvÃ¡jc legnagyobb kÃ©tnyelvÅ± vÃ¡rosa.",
-        "A vÃ¡ros a Bieli-tÃ³ partjÃ¡n talÃ¡lhatÃ³.",
-        "ErÅ‘sen kÃ¶tÅ‘dik az Ã³ragyÃ¡rtÃ¡shoz.",
-        "A nÃ©met Ã©s a francia nyelv egyarÃ¡nt fontos.",
-        "A tÃ³part nÃ©pszerÅ± szabadidÅ‘s terÃ¼let."
+        "Biel/Bienne Svájc legnagyobb kétnyelvű városa.",
+        "A város a Bieli-tó partján található.",
+        "Er�?sen köt�?dik az óragyártáshoz.",
+        "A német és a francia nyelv egyaránt fontos.",
+        "A tópart népszerű szabadid�?s terület."
       ],
       ro: [
-        "Biel/Bienne este cel mai mare oraÈ™ bilingv din ElveÈ›ia.",
-        "OraÈ™ul se aflÄƒ pe malul lacului Biel.",
-        "Este strÃ¢ns legat de industria ceasurilor.",
-        "AtÃ¢t germana, cÃ¢t È™i franceza sunt importante aici.",
-        "Zona de pe malul lacului este popularÄƒ pentru recreere."
+        "Biel/Bienne este cel mai mare ora�? bilingv din Elve�?ia.",
+        "Ora�?ul se afl�? pe malul lacului Biel.",
+        "Este strâns legat de industria ceasurilor.",
+        "Atât germana, cât �?i franceza sunt importante aici.",
+        "Zona de pe malul lacului este popular�? pentru recreere."
       ],
       en: [
         "Biel/Bienne is Switzerland's largest bilingual city.",
@@ -995,11 +995,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Biel/Bienne este recunoscut oficial ca cel mai mare oraș bilingv (germană-franceză) al Elveției.",
-      "Orașul este centrul mondial de producție pentru faimoasele branduri de ceasuri Rolex și Swatch.",
-      "Grupul Swatch are un sediu cu o arhitectură futuristă din lemn, proiectat de arhitectul japonez Shigeru Ban.",
-      "Lacul Biel formează, alături de lacurile Neuchâtel și Murten, faimoasa regiune a Celor Trei Lacuri.",
-      "Orașul găzduiește anual festivaluri dedicate filmului și culturii bilingve."
+      "Biel/Bienne este recunoscut oficial ca cel mai mare ora? bilingv (german?-francez?) al Elve?iei.",
+      "Ora?ul este centrul mondial de produc?ie pentru faimoasele branduri de ceasuri Rolex ?i Swatch.",
+      "Grupul Swatch are un sediu cu o arhitectur? futurist? din lemn, proiectat de arhitectul japonez Shigeru Ban.",
+      "Lacul Biel formeaz?, al?turi de lacurile Neuch�tel ?i Murten, faimoasa regiune a Celor Trei Lacuri.",
+      "Ora?ul g?zduie?te anual festivaluri dedicate filmului ?i culturii bilingve."
     ],
       en: [
         "Biel/Bienne is the largest fully bilingual city in Switzerland, where both German and French are equally spoken.",
@@ -1023,15 +1023,15 @@ export const switzerlandCities: POI[] = [
       en: "Thun"
     },
     description: {
-      de: "Thun ist das malerische Tor zum Berner Oberland, eine historische Stadt am Thunersee, bekannt fÃ¼r ihr markantes Schloss und die charmante Altstadt an der Aare.",
-      hu: "Thun a Berner Oberland festÅ‘i kapuja, egy tÃ¶rtÃ©nelmi vÃ¡ros a Thuni-tÃ³ partjÃ¡n, amely jellegzetes vÃ¡rÃ¡rÃ³l Ã©s az Aare-folyÃ³ menti bÃ¡jos Ã³vÃ¡rosÃ¡rÃ³l ismert.",
-      ro: "Thun este poarta pitoreascÄƒ cÄƒtre Oberlandul Bernez, un oraÈ™ istoric pe malul lacului Thun, cunoscut pentru castelul sÄƒu distinctiv È™i centrul vechi fermecÄƒtor de pe rÃ¢ul Aare.",
+      de: "Thun ist das malerische Tor zum Berner Oberland, eine historische Stadt am Thunersee, bekannt für ihr markantes Schloss und die charmante Altstadt an der Aare.",
+      hu: "Thun a Berner Oberland fest�?i kapuja, egy történelmi város a Thuni-tó partján, amely jellegzetes váráról és az Aare-folyó menti bájos óvárosáról ismert.",
+      ro: "Thun este poarta pitoreasc�? c�?tre Oberlandul Bernez, un ora�? istoric pe malul lacului Thun, cunoscut pentru castelul s�?u distinctiv �?i centrul vechi fermec�?tor de pe râul Aare.",
       en: "Thun is the picturesque gateway to the Bernese Oberland, a historic city on Lake Thun, known for its distinctive castle and charming old town on the Aare River."
     },
     descriptionAdvanced: {
-      de: "Thun liegt am Ausfluss des Thunersees und ist das Tor zum Berner Oberland. Die Altstadt, der Fluss und das Schloss machen die Stadt besonders fotogen. Thun verbindet MilitÃ¤rgeschichte, Seenlandschaft und Bergblick auf engem Raum. FÃ¼r Reisen in die Berner Alpen ist Thun ein beliebter Ausgangspunkt.",
-      hu: "Thun a Thuni-tÃ³ kifolyÃ¡sÃ¡nÃ¡l fekszik, Ã©s a Berner Oberland kapuja. Az Ã³vÃ¡ros, a folyÃ³ Ã©s a kastÃ©ly kÃ¼lÃ¶nÃ¶sen fotÃ³zhatÃ³vÃ¡ teszi a vÃ¡rost. Thun a katonai mÃºltat, a tÃ³vidÃ©ket Ã©s a hegyi panorÃ¡mÃ¡t kis terÃ¼leten Ã¶tvÃ¶zi. A Berni-Alpok felÃ© tartÃ³ utazÃ¡sok egyik kedvelt kiindulÃ³pontja.",
-      ro: "Thun se aflÄƒ la ieÈ™irea din Lacul Thun È™i este poarta cÄƒtre Oberlandul Bernez. Centrul vechi, rÃ¢ul È™i castelul fac oraÈ™ul foarte fotogenic. Thun combinÄƒ istoria militarÄƒ, peisajul de lac È™i priveliÈ™tile montane Ã®ntr-un spaÈ›iu compact. Este un punct de plecare popular pentru excursiile Ã®n Alpii Bernezi.",
+      de: "Thun liegt am Ausfluss des Thunersees und ist das Tor zum Berner Oberland. Die Altstadt, der Fluss und das Schloss machen die Stadt besonders fotogen. Thun verbindet Militärgeschichte, Seenlandschaft und Bergblick auf engem Raum. Für Reisen in die Berner Alpen ist Thun ein beliebter Ausgangspunkt.",
+      hu: "Thun a Thuni-tó kifolyásánál fekszik, és a Berner Oberland kapuja. Az óváros, a folyó és a kastély különösen fotózhatóvá teszi a várost. Thun a katonai múltat, a tóvidéket és a hegyi panorámát kis területen ötvözi. A Berni-Alpok felé tartó utazások egyik kedvelt kiindulópontja.",
+      ro: "Thun se afl�? la ie�?irea din Lacul Thun �?i este poarta c�?tre Oberlandul Bernez. Centrul vechi, râul �?i castelul fac ora�?ul foarte fotogenic. Thun combin�? istoria militar�?, peisajul de lac �?i priveli�?tile montane într-un spa�?iu compact. Este un punct de plecare popular pentru excursiile în Alpii Bernezi.",
       en: "Thun sits at the outflow of Lake Thun and serves as the gateway to the Bernese Oberland. The old town, the river, and the castle make the city highly photogenic. Thun combines military history, lake scenery, and mountain views in a compact area. It is a popular starting point for trips into the Bernese Alps."
     },
     facts: {
@@ -1039,22 +1039,22 @@ export const switzerlandCities: POI[] = [
         "Thun liegt am Thunersee.",
         "Das Schloss Thun ist ein wichtiges Wahrzeichen.",
         "Die Stadt ist ein Tor zum Berner Oberland.",
-        "Der Aare-Abfluss prÃ¤gt das Stadtbild.",
+        "Der Aare-Abfluss prägt das Stadtbild.",
         "Thun ist ein beliebter Tourismus- und Freizeitort."
       ],
       hu: [
-        "Thun a Thuni-tÃ³ partjÃ¡n fekszik.",
-        "A Thuni vÃ¡r fontos jelkÃ©p.",
-        "A vÃ¡ros a Berner Oberland kapuja.",
-        "Az Aare kifolyÃ¡sa meghatÃ¡rozza a vÃ¡roskÃ©pet.",
-        "Thun nÃ©pszerÅ± turisztikai Ã©s szabadidÅ‘s helyszÃ­n."
+        "Thun a Thuni-tó partján fekszik.",
+        "A Thuni vár fontos jelkép.",
+        "A város a Berner Oberland kapuja.",
+        "Az Aare kifolyása meghatározza a városképet.",
+        "Thun népszerű turisztikai és szabadid�?s helyszín."
       ],
       ro: [
-        "Thun se aflÄƒ pe malul lacului Thun.",
+        "Thun se afl�? pe malul lacului Thun.",
         "Castelul Thun este un reper important.",
-        "OraÈ™ul este poarta cÄƒtre Oberlandul Bernez.",
-        "IeÈ™irea rÃ¢ului Aare defineÈ™te peisajul urban.",
-        "Thun este o destinaÈ›ie popularÄƒ pentru turism È™i recreere."
+        "Ora�?ul este poarta c�?tre Oberlandul Bernez.",
+        "Ie�?irea râului Aare define�?te peisajul urban.",
+        "Thun este o destina�?ie popular�? pentru turism �?i recreere."
       ],
       en: [
         "Thun lies on Lake Thun.",
@@ -1068,11 +1068,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Castelul Thun a fost construit în anul 1190 de către Ducii de Zähringen.",
-      "Orașul se află exact în punctul unde râul Aare se scurge din frumosul Lac Thun.",
-      "Trotuarele supraetajate (Hochtrottoirs) din centrul vechi sunt unice în Europa din punct de vedere arhitectural.",
-      "Thun găzduiește principala garnizoană a armatei elvețiene, aducând un flux constant de tineri în oraș.",
-      "Panorama orașului include o vedere spectaculoasă asupra faimosului trio montan Eiger, Mönch și Jungfrau."
+      "Castelul Thun a fost construit �n anul 1190 de c?tre Ducii de Z�hringen.",
+      "Ora?ul se afl? exact �n punctul unde r�ul Aare se scurge din frumosul Lac Thun.",
+      "Trotuarele supraetajate (Hochtrottoirs) din centrul vechi sunt unice �n Europa din punct de vedere arhitectural.",
+      "Thun g?zduie?te principala garnizoan? a armatei elve?iene, aduc�nd un flux constant de tineri �n ora?.",
+      "Panorama ora?ului include o vedere spectaculoas? asupra faimosului trio montan Eiger, M�nch ?i Jungfrau."
     ],
       en: [
         "Thun is dramatically situated at the point where the Aare River flows out of Lake Thun.",
@@ -1096,15 +1096,15 @@ export const switzerlandCities: POI[] = [
       en: "Schaffhausen"
     },
     description: {
-      de: "Schaffhausen ist eine historische Stadt am Hochrhein, bekannt fÃ¼r ihre gut erhaltene mittelalterliche Altstadt, die Festung Munot und ihre unmittelbare NÃ¤he zum spektakulÃ¤ren Rheinfall.",
-      hu: "Schaffhausen egy tÃ¶rtÃ©nelmi vÃ¡ros a FelsÅ‘-Rajna mentÃ©n, amely jÃ³l megÅ‘rzÃ¶tt kÃ¶zÃ©pkori Ã³vÃ¡rosÃ¡rÃ³l, a Munot-erÅ‘drÅ‘l Ã©s a lÃ¡tvÃ¡nyos Rajna-vÃ­zesÃ©s kÃ¶zvetlen kÃ¶zelsÃ©gÃ©rÅ‘l ismert.",
-      ro: "Schaffhausen este un oraÈ™ istoric pe Rinul Superior, cunoscut pentru centrul sÄƒu vechi medieval bine conservat, fortÄƒreaÈ›a Munot È™i proximitatea sa imediatÄƒ de spectaculoasa CascadÄƒ a Rinului.",
+      de: "Schaffhausen ist eine historische Stadt am Hochrhein, bekannt für ihre gut erhaltene mittelalterliche Altstadt, die Festung Munot und ihre unmittelbare Nähe zum spektakulären Rheinfall.",
+      hu: "Schaffhausen egy történelmi város a Fels�?-Rajna mentén, amely jól meg�?rzött középkori óvárosáról, a Munot-er�?dr�?l és a látványos Rajna-vízesés közvetlen közelségér�?l ismert.",
+      ro: "Schaffhausen este un ora�? istoric pe Rinul Superior, cunoscut pentru centrul s�?u vechi medieval bine conservat, fort�?rea�?a Munot �?i proximitatea sa imediat�? de spectaculoasa Cascad�? a Rinului.",
       en: "Schaffhausen is a historic city on the High Rhine, known for its well-preserved medieval old town, the Munot fortress, and its immediate proximity to the spectacular Rhine Falls."
     },
     descriptionAdvanced: {
-      de: "Schaffhausen ist bekannt fÃ¼r seine historische Altstadt, den Munot und die NÃ¤he zum Rheinfall. Die Stadt liegt nahe der deutschen Grenze und hat eine starke grenznahe Wirtschaft. Ihre Lage am Hochrhein macht sie landschaftlich und logistisch interessant. Schaffhausen ist ein attraktives Ziel fÃ¼r StadtspaziergÃ¤nge, Flussblicke und TagesausflÃ¼ge.",
-      hu: "Schaffhausen tÃ¶rtÃ©nelmi Ã³vÃ¡rosÃ¡rÃ³l, a Munot erÅ‘drÅ‘l Ã©s a Rajna-vÃ­zesÃ©s kÃ¶zelsÃ©gÃ©rÅ‘l ismert. A vÃ¡ros kÃ¶zel fekszik a nÃ©met hatÃ¡rhoz, Ã©s erÅ‘s hatÃ¡r menti gazdasÃ¡ggal rendelkezik. A FelsÅ‘-Rajna melletti fekvÃ©se tÃ¡jkÃ©pi Ã©s logisztikai szempontbÃ³l is Ã©rdekessÃ© teszi. Schaffhausen jÃ³ cÃ©lpont vÃ¡rosi sÃ©tÃ¡khoz, folyÃ³parti Ã©lmÃ©nyekhez Ã©s egynapos kirÃ¡ndulÃ¡sokhoz.",
-      ro: "Schaffhausen este cunoscut pentru centrul sÄƒu istoric, fortÄƒreaÈ›a Munot È™i apropierea de Cascada Rinului. OraÈ™ul se aflÄƒ aproape de graniÈ›a cu Germania È™i are o economie de frontierÄƒ puternicÄƒ. PoziÈ›ia sa pe Rinul Superior Ã®l face interesant atÃ¢t peisagistic, cÃ¢t È™i logistic. Schaffhausen este o destinaÈ›ie atractivÄƒ pentru plimbÄƒri urbane, priveliÈ™ti de rÃ¢u È™i excursii de o zi.",
+      de: "Schaffhausen ist bekannt für seine historische Altstadt, den Munot und die Nähe zum Rheinfall. Die Stadt liegt nahe der deutschen Grenze und hat eine starke grenznahe Wirtschaft. Ihre Lage am Hochrhein macht sie landschaftlich und logistisch interessant. Schaffhausen ist ein attraktives Ziel für Stadtspaziergänge, Flussblicke und Tagesausflüge.",
+      hu: "Schaffhausen történelmi óvárosáról, a Munot er�?dr�?l és a Rajna-vízesés közelségér�?l ismert. A város közel fekszik a német határhoz, és er�?s határ menti gazdasággal rendelkezik. A Fels�?-Rajna melletti fekvése tájképi és logisztikai szempontból is érdekessé teszi. Schaffhausen jó célpont városi sétákhoz, folyóparti élményekhez és egynapos kirándulásokhoz.",
+      ro: "Schaffhausen este cunoscut pentru centrul s�?u istoric, fort�?rea�?a Munot �?i apropierea de Cascada Rinului. Ora�?ul se afl�? aproape de grani�?a cu Germania �?i are o economie de frontier�? puternic�?. Pozi�?ia sa pe Rinul Superior îl face interesant atât peisagistic, cât �?i logistic. Schaffhausen este o destina�?ie atractiv�? pentru plimb�?ri urbane, priveli�?ti de râu �?i excursii de o zi.",
       en: "Schaffhausen is known for its historic old town, the Munot fortress, and its proximity to the Rhine Falls. The city lies close to the German border and has a strong cross-border economy. Its location on the High Rhine makes it interesting both scenically and logistically. Schaffhausen is a great destination for city walks, river views, and day trips."
     },
     facts: {
@@ -1112,22 +1112,22 @@ export const switzerlandCities: POI[] = [
         "Schaffhausen liegt am Hochrhein.",
         "Die Stadt ist nah am Rheinfall.",
         "Der Munot ist ihr bekanntestes Bauwerk.",
-        "Die Altstadt ist stark historisch geprÃ¤gt.",
+        "Die Altstadt ist stark historisch geprägt.",
         "Die Lage an der Grenze beeinflusst Handel und Alltag."
       ],
       hu: [
-        "Schaffhausen a FelsÅ‘-Rajna partjÃ¡n talÃ¡lhatÃ³.",
-        "A vÃ¡ros kÃ¶zel van a Rajna-vÃ­zesÃ©shez.",
-        "A Munot a legismertebb Ã©pÃ¼lete.",
-        "Az Ã³vÃ¡ros erÅ‘sen tÃ¶rtÃ©nelmi jellegÅ±.",
-        "A hatÃ¡r kÃ¶zelsÃ©ge befolyÃ¡solja a kereskedelmet Ã©s a mindennapokat."
+        "Schaffhausen a Fels�?-Rajna partján található.",
+        "A város közel van a Rajna-vízeséshez.",
+        "A Munot a legismertebb épülete.",
+        "Az óváros er�?sen történelmi jellegű.",
+        "A határ közelsége befolyásolja a kereskedelmet és a mindennapokat."
       ],
       ro: [
-        "Schaffhausen se aflÄƒ pe Rinul Superior.",
-        "OraÈ™ul este aproape de Cascada Rinului.",
-        "Munot este cea mai cunoscutÄƒ clÄƒdire a sa.",
+        "Schaffhausen se afl�? pe Rinul Superior.",
+        "Ora�?ul este aproape de Cascada Rinului.",
+        "Munot este cea mai cunoscut�? cl�?dire a sa.",
         "Centrul vechi are un caracter istoric puternic.",
-        "Apropierea de graniÈ›Äƒ influenÈ›eazÄƒ comerÈ›ul È™i viaÈ›a zilnicÄƒ."
+        "Apropierea de grani�?�? influen�?eaz�? comer�?ul �?i via�?a zilnic�?."
       ],
       en: [
         "Schaffhausen is located on the High Rhine.",
@@ -1141,11 +1141,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Schaffhausen a prosperat datorită comercianților care trebuiau să descarce mărfurile pentru a ocoli Cascada Rinului.",
-      "Orașul este renumit pentru cele peste 170 de ferestre proeminente (oriel) frumos decorate de pe clădirile istorice.",
-      "Fortăreața Munot este simbolul orașului și o structură defensivă inelară unică, finalizată în 1589.",
-      "În fiecare seară, la ora 21:00, paznicul cetății Munot trage clopotul, o tradiție păstrată din anul 1589.",
-      "Orașul este centrul producției renumitelor ceasuri de lux marca IWC Schaffhausen."
+      "Schaffhausen a prosperat datorit? comercian?ilor care trebuiau s? descarce m?rfurile pentru a ocoli Cascada Rinului.",
+      "Ora?ul este renumit pentru cele peste 170 de ferestre proeminente (oriel) frumos decorate de pe cl?dirile istorice.",
+      "Fort?rea?a Munot este simbolul ora?ului ?i o structur? defensiv? inelar? unic?, finalizat? �n 1589.",
+      "�n fiecare sear?, la ora 21:00, paznicul cet??ii Munot trage clopotul, o tradi?ie p?strat? din anul 1589.",
+      "Ora?ul este centrul produc?iei renumitelor ceasuri de lux marca IWC Schaffhausen."
     ],
       en: [
         "Schaffhausen is the northernmost city in Switzerland, uniquely located on the northern bank of the Rhine River.",
@@ -1169,37 +1169,37 @@ export const switzerlandCities: POI[] = [
       en: "Fribourg"
     },
     description: {
-      de: "Freiburg (Fribourg) ist eine zweisprachige Stadt an der Saane, bekannt fÃ¼r ihre beeindruckende mittelalterliche Altstadt auf einem Felsvorsprung, die gotische Kathedrale und ihre renommierte UniversitÃ¤t.",
-      hu: "Fribourg (Freiburg) egy kÃ©tnyelvÅ± vÃ¡ros a Sarine-folyÃ³ mentÃ©n, amely egy sziklakiszÃ¶gellÃ©sen fekvÅ‘ lenyÅ±gÃ¶zÅ‘ kÃ¶zÃ©pkori Ã³vÃ¡rosÃ¡rÃ³l, gÃ³tikus szÃ©kesegyhÃ¡zÃ¡rÃ³l Ã©s neves egyetemÃ©rÅ‘l ismert.",
-      ro: "Fribourg (Freiburg) este un oraÈ™ bilingv pe rÃ¢ul Sarine, cunoscut pentru centrul sÄƒu vechi medieval impresionant situat pe un promontoriu stÃ¢ncos, catedrala goticÄƒ È™i universitatea sa renumitÄƒ.",
+      de: "Freiburg (Fribourg) ist eine zweisprachige Stadt an der Saane, bekannt für ihre beeindruckende mittelalterliche Altstadt auf einem Felsvorsprung, die gotische Kathedrale und ihre renommierte Universität.",
+      hu: "Fribourg (Freiburg) egy kétnyelvű város a Sarine-folyó mentén, amely egy sziklakiszögellésen fekv�? lenyűgöz�? középkori óvárosáról, gótikus székesegyházáról és neves egyetemér�?l ismert.",
+      ro: "Fribourg (Freiburg) este un ora�? bilingv pe râul Sarine, cunoscut pentru centrul s�?u vechi medieval impresionant situat pe un promontoriu stâncos, catedrala gotic�? �?i universitatea sa renumit�?.",
       en: "Fribourg (Freiburg) is a bilingual city on the Sarine River, known for its impressive medieval old town on a rocky promontory, the Gothic cathedral, and its renowned university."
     },
     descriptionAdvanced: {
-      de: "Fribourg ist eine der bekanntesten zweisprachigen StÃ¤dte der Schweiz und liegt an einer spektakulÃ¤ren Flussschleife der Saane. Die mittelalterliche Altstadt, BrÃ¼cken und Kirchen schaffen eine starke historische AtmosphÃ¤re. Die Stadt ist administrativ, kulturell und akademisch wichtig. Fribourg ist ein typisches Ziel fÃ¼r Besucher, die urbane Geschichte mit Schweizer Alltag verbinden mÃ¶chten.",
-      hu: "Fribourg SvÃ¡jc egyik legismertebb kÃ©tnyelvÅ± vÃ¡rosa, Ã©s a Saane egy lÃ¡tvÃ¡nyos folyÃ³kanyarulatÃ¡nÃ¡l fekszik. A kÃ¶zÃ©pkori Ã³vÃ¡ros, a hidak Ã©s a templomok erÅ‘s tÃ¶rtÃ©nelmi hangulatot teremtenek. A vÃ¡ros kÃ¶zigazgatÃ¡si, kulturÃ¡lis Ã©s egyetemi szempontbÃ³l is fontos. Fribourg ideÃ¡lis cÃ©lpont azoknak, akik a vÃ¡rosi tÃ¶rtÃ©nelmet a svÃ¡jci mindennapokkal szeretnÃ©k Ã¶tvÃ¶zni.",
-      ro: "Fribourg este unul dintre cele mai cunoscute oraÈ™e bilingve din ElveÈ›ia È™i se aflÄƒ pe o buclÄƒ spectaculoasÄƒ a rÃ¢ului Saane. Centrul vechi medieval, podurile È™i bisericile creeazÄƒ o atmosferÄƒ istoricÄƒ puternicÄƒ. OraÈ™ul este important administrativ, cultural È™i universitar. Fribourg este o destinaÈ›ie potrivitÄƒ pentru cei care vor sÄƒ combine istoria urbanÄƒ cu viaÈ›a elveÈ›ianÄƒ cotidianÄƒ.",
+      de: "Fribourg ist eine der bekanntesten zweisprachigen Städte der Schweiz und liegt an einer spektakulären Flussschleife der Saane. Die mittelalterliche Altstadt, Brücken und Kirchen schaffen eine starke historische Atmosphäre. Die Stadt ist administrativ, kulturell und akademisch wichtig. Fribourg ist ein typisches Ziel für Besucher, die urbane Geschichte mit Schweizer Alltag verbinden möchten.",
+      hu: "Fribourg Svájc egyik legismertebb kétnyelvű városa, és a Saane egy látványos folyókanyarulatánál fekszik. A középkori óváros, a hidak és a templomok er�?s történelmi hangulatot teremtenek. A város közigazgatási, kulturális és egyetemi szempontból is fontos. Fribourg ideális célpont azoknak, akik a városi történelmet a svájci mindennapokkal szeretnék ötvözni.",
+      ro: "Fribourg este unul dintre cele mai cunoscute ora�?e bilingve din Elve�?ia �?i se afl�? pe o bucl�? spectaculoas�? a râului Saane. Centrul vechi medieval, podurile �?i bisericile creeaz�? o atmosfer�? istoric�? puternic�?. Ora�?ul este important administrativ, cultural �?i universitar. Fribourg este o destina�?ie potrivit�? pentru cei care vor s�? combine istoria urban�? cu via�?a elve�?ian�? cotidian�?.",
       en: "Fribourg is one of Switzerland's best-known bilingual cities and sits on a dramatic bend of the Sarine River. The medieval old town, bridges, and churches create a strong historic atmosphere. The city is important for administration, culture, and academia. Fribourg is a good destination for visitors who want to mix urban history with everyday Swiss life."
     },
     facts: {
       de: [
         "Fribourg ist zweisprachig.",
         "Die Stadt liegt an der Saane.",
-        "Die Altstadt ist mittelalterlich geprÃ¤gt.",
+        "Die Altstadt ist mittelalterlich geprägt.",
         "Fribourg ist ein wichtiges Verwaltungs- und Hochschulzentrum.",
-        "Die BrÃ¼cken Ã¼ber die Saane sind prÃ¤gend fÃ¼r das Stadtbild."
+        "Die Brücken über die Saane sind prägend für das Stadtbild."
       ],
       hu: [
-        "Fribourg kÃ©tnyelvÅ± vÃ¡ros.",
-        "A vÃ¡ros a Saane folyÃ³nÃ¡l fekszik.",
-        "Az Ã³vÃ¡ros kÃ¶zÃ©pkori jellegÅ±.",
-        "Fribourg fontos kÃ¶zigazgatÃ¡si Ã©s egyetemi kÃ¶zpont.",
-        "A Saane fÃ¶lÃ¶tti hidak meghatÃ¡rozzÃ¡k a vÃ¡roskÃ©pet."
+        "Fribourg kétnyelvű város.",
+        "A város a Saane folyónál fekszik.",
+        "Az óváros középkori jellegű.",
+        "Fribourg fontos közigazgatási és egyetemi központ.",
+        "A Saane fölötti hidak meghatározzák a városképet."
       ],
       ro: [
-        "Fribourg este un oraÈ™ bilingv.",
-        "OraÈ™ul se aflÄƒ pe rÃ¢ul Saane.",
+        "Fribourg este un ora�? bilingv.",
+        "Ora�?ul se afl�? pe râul Saane.",
         "Centrul vechi are un caracter medieval.",
-        "Fribourg este un centru important administrativ È™i universitar.",
+        "Fribourg este un centru important administrativ �?i universitar.",
         "Podurile peste Saane definesc peisajul urban."
       ],
       en: [
@@ -1214,11 +1214,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Orașul a fost fondat în 1157 pe un promontoriu stâncos apărat natural de curba râului Sarine.",
-      "Fribourg marchează granița lingvistică elvețiană (Röstigraben), fiind situat la confluența limbilor franceză și germană.",
-      "Catedrala Sfântul Nicolae are un turn nefinalizat cu o înălțime de 74 de metri și ferestre uluitoare în stil Art Nouveau.",
-      "Centrul vechi din Fribourg reprezintă unul dintre cele mai mari și mai intacte ansambluri de arhitectură gotică din Europa.",
-      "Funicularul orașului, inaugurat în 1899, funcționează ecologic, folosind greutatea apelor reziduale pentru propulsie."
+      "Ora?ul a fost fondat �n 1157 pe un promontoriu st�ncos ap?rat natural de curba r�ului Sarine.",
+      "Fribourg marcheaz? grani?a lingvistic? elve?ian? (R�stigraben), fiind situat la confluen?a limbilor francez? ?i german?.",
+      "Catedrala Sf�ntul Nicolae are un turn nefinalizat cu o �n?l?ime de 74 de metri ?i ferestre uluitoare �n stil Art Nouveau.",
+      "Centrul vechi din Fribourg reprezint? unul dintre cele mai mari ?i mai intacte ansambluri de arhitectur? gotic? din Europa.",
+      "Funicularul ora?ului, inaugurat �n 1899, func?ioneaz? ecologic, folosind greutatea apelor reziduale pentru propulsie."
     ],
       en: [
         "Fribourg is built on a dramatic rocky promontory, surrounded on three sides by the meandering Sarine River.",
@@ -1242,43 +1242,43 @@ export const switzerlandCities: POI[] = [
       en: "Sion"
     },
     description: {
-      de: "Sion (Sitten) ist die Hauptstadt des Kantons Wallis, eine sonnenverwÃ¶hnte Stadt im Rhonetal, bekannt fÃ¼r ihre zwei markanten HÃ¼gelburgen ValÃ¨re und Tourbillon.",
-      hu: "Sion (Sitten) Wallis kanton fÅ‘vÃ¡rosa, a Rhone-vÃ¶lgy napsÃ¼tÃ¶tte vÃ¡rosa, amely kÃ©t jellegzetes dombtetÅ‘n Ã¡llÃ³ vÃ¡rÃ¡rÃ³l, ValÃ¨re-rÅ‘l Ã©s TourbillonrÃ³l ismert.",
-      ro: "Sion (Sitten) este capitala cantonului Valais, un oraÈ™ Ã®nsorit Ã®n valea Ronului, cunoscut pentru cele douÄƒ castele distinctive de pe dealuri, ValÃ¨re È™i Tourbillon.",
-      en: "Sion (Sitten) is the capital of the canton of Valais, a sun-drenched city in the Rhone Valley, known for its two distinctive hilltop castles, ValÃ¨re and Tourbillon."
+      de: "Sion (Sitten) ist die Hauptstadt des Kantons Wallis, eine sonnenverwöhnte Stadt im Rhonetal, bekannt für ihre zwei markanten Hügelburgen Valère und Tourbillon.",
+      hu: "Sion (Sitten) Wallis kanton f�?városa, a Rhone-völgy napsütötte városa, amely két jellegzetes dombtet�?n álló váráról, Valère-r�?l és Tourbillonról ismert.",
+      ro: "Sion (Sitten) este capitala cantonului Valais, un ora�? însorit în valea Ronului, cunoscut pentru cele dou�? castele distinctive de pe dealuri, Valère �?i Tourbillon.",
+      en: "Sion (Sitten) is the capital of the canton of Valais, a sun-drenched city in the Rhone Valley, known for its two distinctive hilltop castles, Valère and Tourbillon."
     },
     descriptionAdvanced: {
-      de: "Sion ist die Hauptstadt des Kantons Wallis und liegt in einem der sonnigsten TÃ¤ler der Schweiz. Die Stadt ist fÃ¼r ihre HÃ¼gel mit den Burgen Tourbillon und ValÃ¨re bekannt. Weinbau, Alpenzugang und Verwaltungsfunktionen machen Sion besonders vielseitig. Als regionales Zentrum verbindet die Stadt Geschichte, Landschaft und wirtschaftliche Bedeutung.",
-      hu: "Sion Valais kanton fÅ‘vÃ¡rosa, Ã©s SvÃ¡jc egyik legnaposabb vÃ¶lgyÃ©ben fekszik. A vÃ¡ros hÃ­res a Tourbillon Ã©s ValÃ¨re vÃ¡raival koronÃ¡zott dombjairÃ³l. A szÅ‘lÅ‘termesztÃ©s, az alpesi kapcsolatok Ã©s a kÃ¶zigazgatÃ¡si szerep nagyon sokoldalÃºvÃ¡ teszik Siont. RegionÃ¡lis kÃ¶zpontkÃ©nt a tÃ¶rtÃ©nelem, a tÃ¡j Ã©s a gazdasÃ¡gi jelentÅ‘sÃ©g talÃ¡lkozik itt.",
-      ro: "Sion este capitala cantonului Valais È™i se aflÄƒ Ã®ntr-una dintre cele mai Ã®nsorite vÄƒi din ElveÈ›ia. OraÈ™ul este cunoscut pentru colinele sale dominate de castelele Tourbillon È™i ValÃ¨re. Viticultura, accesul la Alpi È™i funcÈ›iile administrative fac din Sion un oraÈ™ foarte versatil. Ca centru regional, el combinÄƒ istoria, peisajul È™i importanÈ›a economicÄƒ.",
-      en: "Sion is the capital of the canton of Valais and sits in one of the sunniest valleys in Switzerland. The city is known for its hilltop castles, Tourbillon and ValÃ¨re. Vine growing, access to the Alps, and administrative functions make Sion especially versatile. As a regional center, it combines history, landscape, and economic importance."
+      de: "Sion ist die Hauptstadt des Kantons Wallis und liegt in einem der sonnigsten Täler der Schweiz. Die Stadt ist für ihre Hügel mit den Burgen Tourbillon und Valère bekannt. Weinbau, Alpenzugang und Verwaltungsfunktionen machen Sion besonders vielseitig. Als regionales Zentrum verbindet die Stadt Geschichte, Landschaft und wirtschaftliche Bedeutung.",
+      hu: "Sion Valais kanton f�?városa, és Svájc egyik legnaposabb völgyében fekszik. A város híres a Tourbillon és Valère váraival koronázott dombjairól. A sz�?l�?termesztés, az alpesi kapcsolatok és a közigazgatási szerep nagyon sokoldalúvá teszik Siont. Regionális központként a történelem, a táj és a gazdasági jelent�?ség találkozik itt.",
+      ro: "Sion este capitala cantonului Valais �?i se afl�? într-una dintre cele mai însorite v�?i din Elve�?ia. Ora�?ul este cunoscut pentru colinele sale dominate de castelele Tourbillon �?i Valère. Viticultura, accesul la Alpi �?i func�?iile administrative fac din Sion un ora�? foarte versatil. Ca centru regional, el combin�? istoria, peisajul �?i importan�?a economic�?.",
+      en: "Sion is the capital of the canton of Valais and sits in one of the sunniest valleys in Switzerland. The city is known for its hilltop castles, Tourbillon and Valère. Vine growing, access to the Alps, and administrative functions make Sion especially versatile. As a regional center, it combines history, landscape, and economic importance."
     },
     facts: {
       de: [
         "Sion ist Hauptstadt des Kantons Wallis.",
         "Die Stadt liegt im Rhonetal.",
-        "Tourbillon und ValÃ¨re sind markante Burganlagen.",
-        "Die Region ist bekannt fÃ¼r Weinbau.",
-        "Sion ist ein wichtiger Ausgangspunkt fÃ¼r Walliser Alpenreisen."
+        "Tourbillon und Valère sind markante Burganlagen.",
+        "Die Region ist bekannt für Weinbau.",
+        "Sion ist ein wichtiger Ausgangspunkt für Walliser Alpenreisen."
       ],
       hu: [
-        "Sion Valais kanton fÅ‘vÃ¡rosa.",
-        "A vÃ¡ros a Rhone-vÃ¶lgyben fekszik.",
-        "A Tourbillon Ã©s a ValÃ¨re jellegzetes vÃ¡rak.",
-        "A rÃ©giÃ³ hÃ­res a szÅ‘lÅ‘termesztÃ©srÅ‘l.",
-        "Sion fontos kiindulÃ³pont a Valais-i alpesi utazÃ¡sokhoz."
+        "Sion Valais kanton f�?városa.",
+        "A város a Rhone-völgyben fekszik.",
+        "A Tourbillon és a Valère jellegzetes várak.",
+        "A régió híres a sz�?l�?termesztésr�?l.",
+        "Sion fontos kiindulópont a Valais-i alpesi utazásokhoz."
       ],
       ro: [
         "Sion este capitala cantonului Valais.",
-        "OraÈ™ul se aflÄƒ Ã®n Valea Ronului.",
-        "Tourbillon È™i ValÃ¨re sunt castele emblematice.",
-        "Regiunea este cunoscutÄƒ pentru viticulturÄƒ.",
-        "Sion este un punct important de plecare pentru excursii alpine Ã®n Valais."
+        "Ora�?ul se afl�? în Valea Ronului.",
+        "Tourbillon �?i Valère sunt castele emblematice.",
+        "Regiunea este cunoscut�? pentru viticultur�?.",
+        "Sion este un punct important de plecare pentru excursii alpine în Valais."
       ],
       en: [
         "Sion is the capital of the canton of Valais.",
-        "The city lies in the RhÃÂ´ne Valley.",
-        "Tourbillon and ValÃ¨re are signature castle sites.",
+        "The city lies in the RhÁ´ne Valley.",
+        "Tourbillon and Valère are signature castle sites.",
         "The region is known for wine growing.",
         "Sion is an important base for Alpine trips in Valais."
       ]
@@ -1287,16 +1287,16 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Descoperirile arheologice din Sion datează încă din Epoca de Piatră, orașul lăudându-se cu un trecut de 7.000 de ani.",
-      "Cele două dealuri emblematice, Valère și Tourbillon, găzduiesc fortărețe istorice definitorii pentru cantonul Valais.",
-      "Biserica Valère găzduiește o orgă din secolul al XV-lea, recunoscută drept cea mai veche orgă încă funcțională din lume.",
-      "Orașul beneficiază de un climat excepțional de uscat și însorit, fiind una dintre cele mai mari regiuni viticole din țară.",
-      "Sion a fost nominalizat de mai multe ori ca oraș candidat elvețian pentru organizarea Jocurilor Olimpice de Iarnă."
+      "Descoperirile arheologice din Sion dateaz? �nc? din Epoca de Piatr?, ora?ul l?ud�ndu-se cu un trecut de 7.000 de ani.",
+      "Cele dou? dealuri emblematice, Val�re ?i Tourbillon, g?zduiesc fort?re?e istorice definitorii pentru cantonul Valais.",
+      "Biserica Val�re g?zduie?te o org? din secolul al XV-lea, recunoscut? drept cea mai veche org? �nc? func?ional? din lume.",
+      "Ora?ul beneficiaz? de un climat excep?ional de uscat ?i �nsorit, fiind una dintre cele mai mari regiuni viticole din ?ar?.",
+      "Sion a fost nominalizat de mai multe ori ca ora? candidat elve?ian pentru organizarea Jocurilor Olimpice de Iarn?."
     ],
       en: [
         "Sion is the capital of the canton of Valais and is distinguished as the most sun-drenched city in Switzerland.",
-        "The city's landscape is marked by two dramatic rocky hills, crowned by the Tourbillon Castle and the Valère Basilica.",
-        "The Valère Basilica houses one of the oldest playable organs in the world, dating back to the 15th century.",
+        "The city's landscape is marked by two dramatic rocky hills, crowned by the Tourbillon Castle and the Val�re Basilica.",
+        "The Val�re Basilica houses one of the oldest playable organs in the world, dating back to the 15th century.",
         "Sion is a major economic hub and a crucial gateway for accessing the famous ski resorts of the Valais Alps.",
         "The surrounding region is one of the most important and productive wine-growing areas in Switzerland."
       ]
@@ -1315,38 +1315,38 @@ export const switzerlandCities: POI[] = [
       en: "Montreux"
     },
     description: {
-      de: "Montreux liegt am Genfersee und ist international fÃ¼r sein mildes Klima und seine elegante Uferpromenade bekannt. Die Stadt ist stark mit Musik, Festivals und Tourismus verbunden. In der NÃ¤he liegt Schloss Chillon, was Montreux zusÃ¤tzlich aufwertet. Der Ort ist ideal fÃ¼r Reisen, die Seepanorama, Kultur und Riviera-AtmosphÃ¤re vereinen sollen.",
-      hu: "Montreux a Genfi-tÃ³ partjÃ¡n fekszik, Ã©s nemzetkÃ¶zileg ismert enyhe klÃ­mÃ¡jÃ¡rÃ³l Ã©s elegÃ¡ns tÃ³parti sÃ©tÃ¡nyÃ¡rÃ³l. A vÃ¡ros erÅ‘sen kÃ¶tÅ‘dik a zenÃ©hez, fesztivÃ¡lokhoz Ã©s a turizmushoz. A kÃ¶zelben talÃ¡lhatÃ³ Chillon vÃ¡ra tovÃ¡bb nÃ¶veli a vonzerejÃ©t. Montreux ideÃ¡lis olyan utazÃ¡sokhoz, amelyek a tÃ³parti panorÃ¡mÃ¡t, a kultÃºrÃ¡t Ã©s a riviÃ©ra-hangulatot Ã¶tvÃ¶zik.",
-      ro: "Montreux se aflÄƒ pe malul Lacului Geneva È™i este cunoscut internaÈ›ional pentru clima sa blÃ¢ndÄƒ È™i promenada elegantÄƒ de pe malul apei. OraÈ™ul este puternic asociat cu muzica, festivalurile È™i turismul. ÃŽn apropiere se aflÄƒ Castelul Chillon, ceea ce Ã®i sporeÈ™te atractivitatea. Localitatea este idealÄƒ pentru cÄƒlÄƒtorii care combinÄƒ panorame de lac, culturÄƒ È™i atmosferÄƒ de Riviera.",
+      de: "Montreux liegt am Genfersee und ist international für sein mildes Klima und seine elegante Uferpromenade bekannt. Die Stadt ist stark mit Musik, Festivals und Tourismus verbunden. In der Nähe liegt Schloss Chillon, was Montreux zusätzlich aufwertet. Der Ort ist ideal für Reisen, die Seepanorama, Kultur und Riviera-Atmosphäre vereinen sollen.",
+      hu: "Montreux a Genfi-tó partján fekszik, és nemzetközileg ismert enyhe klímájáról és elegáns tóparti sétányáról. A város er�?sen köt�?dik a zenéhez, fesztiválokhoz és a turizmushoz. A közelben található Chillon vára tovább növeli a vonzerejét. Montreux ideális olyan utazásokhoz, amelyek a tóparti panorámát, a kultúrát és a riviéra-hangulatot ötvözik.",
+      ro: "Montreux se afl�? pe malul Lacului Geneva �?i este cunoscut interna�?ional pentru clima sa blând�? �?i promenada elegant�? de pe malul apei. Ora�?ul este puternic asociat cu muzica, festivalurile �?i turismul. �?n apropiere se afl�? Castelul Chillon, ceea ce îi spore�?te atractivitatea. Localitatea este ideal�? pentru c�?l�?torii care combin�? panorame de lac, cultur�? �?i atmosfer�? de Riviera.",
       en: "Montreux sits on Lake Geneva and is internationally known for its mild climate and elegant lakeside promenade. The city is strongly associated with music, festivals, and tourism. Nearby Chillon Castle further boosts its appeal. It is ideal for trips that combine lake scenery, culture, and a Riviera atmosphere."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Montreux este o stațiune elegantă situată pe țărmul estic al Lacului Geneva, fiind perla regiunii cunoscute sub numele de Riviera Elvețiană. Orașul este protejat de vânturile reci de lanțurile muntoase înalte de peste 2.000 de metri, beneficiind astfel de un microclimat deosebit de blând care permite creșterea palmierilor, chiparoșilor și a altor plante mediteraneene de-a lungul faimoasei sale promenade de pe malul lacului. De mai bine de un secol, Montreux este un refugiu preferat pentru scriitori, muzicieni și artiști, de la Lord Byron până la Freddie Mercury, a cărui statuie de bronz se înalță în fața lacului. În fiecare vară, orașul prinde viață prin Montreux Jazz Festival, un eveniment muzical de prestigiu global care adună legende ale muzicii pe aceeași scenă. Eleganța specifică Belle Époque și proximitatea Castelului Chillon îi conferă o atmosferă atemporală de neuitat. (Muzică și Arte K8 — Festivaluri internaționale și turism cultural)",
-      en: "Montreux, elegantly situated on the eastern shores of Lake Geneva, is internationally celebrated for its exceptionally mild microclimate and Mediterranean-style lakeside promenade. Surrounded by steeply rising Alpine peaks and lush vineyards, the city has long been a retreat for artists, writers, and musicians, most notably serving as a haven for Freddie Mercury. Montreux is synonymous with its world-renowned annual Jazz Festival, which draws legendary performers and music enthusiasts from around the globe. A short walk along the flower-lined shores leads to the majestic Chillon Castle, one of the most visited historic monuments in Switzerland. The city effortlessly combines Belle Époque architecture with a vibrant cultural scene, making it a quintessential destination on the Swiss Riviera."
+      ro: "Montreux este o sta?iune elegant? situat? pe ??rmul estic al Lacului Geneva, fiind perla regiunii cunoscute sub numele de Riviera Elve?ian?. Ora?ul este protejat de v�nturile reci de lan?urile muntoase �nalte de peste 2.000 de metri, beneficiind astfel de un microclimat deosebit de bl�nd care permite cre?terea palmierilor, chiparo?ilor ?i a altor plante mediteraneene de-a lungul faimoasei sale promenade de pe malul lacului. De mai bine de un secol, Montreux este un refugiu preferat pentru scriitori, muzicieni ?i arti?ti, de la Lord Byron p�n? la Freddie Mercury, a c?rui statuie de bronz se �nal?? �n fa?a lacului. �n fiecare var?, ora?ul prinde via?? prin Montreux Jazz Festival, un eveniment muzical de prestigiu global care adun? legende ale muzicii pe aceea?i scen?. Elegan?a specific? Belle �poque ?i proximitatea Castelului Chillon �i confer? o atmosfer? atemporal? de neuitat. (Muzic? ?i Arte K8 ? Festivaluri interna?ionale ?i turism cultural)",
+      en: "Montreux, elegantly situated on the eastern shores of Lake Geneva, is internationally celebrated for its exceptionally mild microclimate and Mediterranean-style lakeside promenade. Surrounded by steeply rising Alpine peaks and lush vineyards, the city has long been a retreat for artists, writers, and musicians, most notably serving as a haven for Freddie Mercury. Montreux is synonymous with its world-renowned annual Jazz Festival, which draws legendary performers and music enthusiasts from around the globe. A short walk along the flower-lined shores leads to the majestic Chillon Castle, one of the most visited historic monuments in Switzerland. The city effortlessly combines Belle �poque architecture with a vibrant cultural scene, making it a quintessential destination on the Swiss Riviera."
     },
     facts: {
       de: [
         "Montreux liegt am Genfersee.",
         "Die Stadt ist eng mit Musik- und Festivalgeschichte verbunden.",
-        "Die Uferpromenade ist ein berÃ¼hmtes Fotomotiv.",
-        "Schloss Chillon liegt in der NÃ¤he.",
+        "Die Uferpromenade ist ein berühmtes Fotomotiv.",
+        "Schloss Chillon liegt in der Nähe.",
         "Das milde Mikroklima ist ein wichtiger Standortvorteil."
       ],
       hu: [
-        "Montreux a Genfi-tÃ³ partjÃ¡n talÃ¡lhatÃ³.",
-        "A vÃ¡ros szorosan kÃ¶tÅ‘dik a zenei Ã©s fesztivÃ¡lkultÃºrÃ¡hoz.",
-        "A tÃ³parti sÃ©tÃ¡ny hÃ­res fotÃ³tÃ©ma.",
-        "A Chillon-kastÃ©ly a kÃ¶zelben van.",
-        "Az enyhe mikroklÃ­ma fontos elÅ‘ny."
+        "Montreux a Genfi-tó partján található.",
+        "A város szorosan köt�?dik a zenei és fesztiválkultúrához.",
+        "A tóparti sétány híres fotótéma.",
+        "A Chillon-kastély a közelben van.",
+        "Az enyhe mikroklíma fontos el�?ny."
       ],
       ro: [
-        "Montreux se aflÄƒ pe malul Lacului Geneva.",
-        "OraÈ™ul este puternic legat de muzicÄƒ È™i festivaluri.",
+        "Montreux se afl�? pe malul Lacului Geneva.",
+        "Ora�?ul este puternic legat de muzic�? �?i festivaluri.",
         "Promenada de pe malul apei este un subiect foto celebru.",
-        "Castelul Chillon se aflÄƒ Ã®n apropiere.",
-        "Microclimatul blÃ¢nd este un avantaj important."
+        "Castelul Chillon se afl�? în apropiere.",
+        "Microclimatul blând este un avantaj important."
       ],
       en: [
         "Montreux lies on Lake Geneva.",
@@ -1360,11 +1360,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Montreux Jazz Festival, înființat în 1967, este al doilea cel mai mare festival de jazz din lume.",
-      "Freddie Mercury a iubit acest oraș și a înregistrat aici mai multe albume cu formația Queen la studiourile Mountain.",
-      "Promenada cu flori, extinsă pe kilometri întregi de-a lungul lacului, oferă un peisaj exotic unic în Elveția.",
-      "Stațiunea a atins apogeul dezvoltării turistice în perioada Belle Époque, lăsând în urmă hoteluri grandioase.",
-      "Faimosul cântec „Smoke on the Water” al trupei Deep Purple a fost inspirat de un incendiu real din timpul unui concert în Montreux."
+      "Montreux Jazz Festival, �nfiin?at �n 1967, este al doilea cel mai mare festival de jazz din lume.",
+      "Freddie Mercury a iubit acest ora? ?i a �nregistrat aici mai multe albume cu forma?ia Queen la studiourile Mountain.",
+      "Promenada cu flori, extins? pe kilometri �ntregi de-a lungul lacului, ofer? un peisaj exotic unic �n Elve?ia.",
+      "Sta?iunea a atins apogeul dezvolt?rii turistice �n perioada Belle �poque, l?s�nd �n urm? hoteluri grandioase.",
+      "Faimosul c�ntec ?Smoke on the Water? al trupei Deep Purple a fost inspirat de un incendiu real din timpul unui concert �n Montreux."
     ],
       en: [
         "Montreux hosts the second-largest annual jazz festival in the world, the Montreux Jazz Festival.",
@@ -1388,37 +1388,37 @@ export const switzerlandCities: POI[] = [
       en: "Castelgrande"
     },
     description: {
-      de: "Castelgrande ist die mÃ¤chtigste der drei Burgen von Bellinzona und ein SchlÃ¼sselort der Schweizer Festungslandschaft. Die Anlage thront Ã¼ber der Altstadt und zeigt eindrucksvoll die Rolle Bellinzonas als Alpenpass-Kontrollpunkt. Ihre Mauern, TÃ¼rme und Aussichtspunkte machen sie zu einem Top-Ziel fÃ¼r Geschichts- und Architekturinteressierte. Zusammen mit den anderen Burgen bildet Castelgrande ein starkes UNESCO-geprÃ¤gtes Besuchserlebnis.",
-      hu: "A Castelgrande Bellinzona hÃ¡rom vÃ¡ra kÃ¶zÃ¼l a legimpozÃ¡nsabb, Ã©s kulcsfontossÃ¡gÃº helyszÃ­n a svÃ¡jci erÅ‘dÃ­tmÃ©nyek vilÃ¡gÃ¡ban. Az Ã©pÃ­tmÃ©ny az Ã³vÃ¡ros fÃ¶lÃ© magasodik, Ã©s lÃ¡tvÃ¡nyosan mutatja Bellinzona szerepÃ©t az alpesi hÃ¡gÃ³k ellenÅ‘rzÃ©sÃ©ben. Falai, tornyai Ã©s kilÃ¡tÃ³pontjai miatt a tÃ¶rtÃ©nelem- Ã©s Ã©pÃ­tÃ©szetkedvelÅ‘k egyik legjobb cÃ©lpontja. A tÃ¶bbi vÃ¡rral egyÃ¼tt erÅ‘s, UNESCO-hatÃ¡sÃº Ã©lmÃ©nyt ad.",
-      ro: "Castelgrande este cea mai impunÄƒtoare dintre cele trei fortÄƒreÈ›e din Bellinzona È™i un punct-cheie al peisajului defensiv elveÈ›ian. Ansamblul dominÄƒ centrul vechi È™i aratÄƒ clar rolul Bellinzonei ca punct de control al trecÄƒtorilor alpine. Zidurile, turnurile È™i punctele de belvedere Ã®l fac o destinaÈ›ie excelentÄƒ pentru pasionaÈ›ii de istorie È™i arhitecturÄƒ. ÃŽmpreunÄƒ cu celelalte castele, Castelgrande oferÄƒ o experienÈ›Äƒ de vizitare puternic marcatÄƒ de UNESCO.",
+      de: "Castelgrande ist die mächtigste der drei Burgen von Bellinzona und ein Schlüsselort der Schweizer Festungslandschaft. Die Anlage thront über der Altstadt und zeigt eindrucksvoll die Rolle Bellinzonas als Alpenpass-Kontrollpunkt. Ihre Mauern, Türme und Aussichtspunkte machen sie zu einem Top-Ziel für Geschichts- und Architekturinteressierte. Zusammen mit den anderen Burgen bildet Castelgrande ein starkes UNESCO-geprägtes Besuchserlebnis.",
+      hu: "A Castelgrande Bellinzona három vára közül a legimpozánsabb, és kulcsfontosságú helyszín a svájci er�?dítmények világában. Az építmény az óváros fölé magasodik, és látványosan mutatja Bellinzona szerepét az alpesi hágók ellen�?rzésében. Falai, tornyai és kilátópontjai miatt a történelem- és építészetkedvel�?k egyik legjobb célpontja. A többi várral együtt er�?s, UNESCO-hatású élményt ad.",
+      ro: "Castelgrande este cea mai impun�?toare dintre cele trei fort�?re�?e din Bellinzona �?i un punct-cheie al peisajului defensiv elve�?ian. Ansamblul domin�? centrul vechi �?i arat�? clar rolul Bellinzonei ca punct de control al trec�?torilor alpine. Zidurile, turnurile �?i punctele de belvedere îl fac o destina�?ie excelent�? pentru pasiona�?ii de istorie �?i arhitectur�?. �?mpreun�? cu celelalte castele, Castelgrande ofer�? o experien�?�? de vizitare puternic marcat�? de UNESCO.",
       en: "Castelgrande is the most imposing of Bellinzona's three castles and a key site in Switzerland's fortress landscape. The complex rises above the old town and clearly shows Bellinzona's role as a control point for Alpine passes. Its walls, towers, and viewpoints make it a top destination for history and architecture enthusiasts. Together with the other castles, Castelgrande creates a visit shaped strongly by UNESCO heritage."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Castelgrande este cel mai impunător și cel mai vechi dintre cele trei castele uimitoare din Bellinzona, cantonul Ticino, care împreună cu fortificațiile orașului formează un sit al Patrimoniului Mondial UNESCO. Având o istorie care începe cu primele fortificații romane, castelul pe care îl vedem astăzi a fost extins succesiv de-a lungul Evului Mediu, în special de ducii de Milano, pentru a apăra rutele comerciale vitale care traversau trecătorile alpine. Situat pe o stâncă centrală masivă ce domină valea Ticino, Castelgrande se mândrește cu două turnuri zvelte și cu ziduri lungi care se întind spre oraș. În anii 1980 și 1990, castelul a suferit o lucrare de restaurare impresionantă și îndrăzneață condusă de arhitectul Aurelio Galfetti, care a introdus elemente moderne precum lifturi ascunse în stâncă, revitalizând structura milenară. (Istorie K7 — Fortificații alpine și rute comerciale)",
-      en: "Castelgrande is the oldest and most imposing of the three UNESCO World Heritage-listed castles that dominate the skyline of Bellinzona in the canton of Ticino. Situated on a rocky outcropping that has been fortified since Roman times, the castle stands as a testament to the region's strategic importance in controlling the crucial Alpine passes. The current structure, characterized by its twin defensive towers—the Torre Bianca and the Torre Nera—was primarily constructed between the 13th and 15th centuries. Following a brilliant modern restoration by architect Aurelio Galfetti, the fortress now features sleek elevators embedded in the rock and expansive, manicured lawns within its ancient walls. Castelgrande offers visitors a captivating blend of formidable medieval military architecture and contemporary design."
+      ro: "Castelgrande este cel mai impun?tor ?i cel mai vechi dintre cele trei castele uimitoare din Bellinzona, cantonul Ticino, care �mpreun? cu fortifica?iile ora?ului formeaz? un sit al Patrimoniului Mondial UNESCO. Av�nd o istorie care �ncepe cu primele fortifica?ii romane, castelul pe care �l vedem ast?zi a fost extins succesiv de-a lungul Evului Mediu, �n special de ducii de Milano, pentru a ap?ra rutele comerciale vitale care traversau trec?torile alpine. Situat pe o st�nc? central? masiv? ce domin? valea Ticino, Castelgrande se m�ndre?te cu dou? turnuri zvelte ?i cu ziduri lungi care se �ntind spre ora?. �n anii 1980 ?i 1990, castelul a suferit o lucrare de restaurare impresionant? ?i �ndr?znea?? condus? de arhitectul Aurelio Galfetti, care a introdus elemente moderne precum lifturi ascunse �n st�nc?, revitaliz�nd structura milenar?. (Istorie K7 ? Fortifica?ii alpine ?i rute comerciale)",
+      en: "Castelgrande is the oldest and most imposing of the three UNESCO World Heritage-listed castles that dominate the skyline of Bellinzona in the canton of Ticino. Situated on a rocky outcropping that has been fortified since Roman times, the castle stands as a testament to the region's strategic importance in controlling the crucial Alpine passes. The current structure, characterized by its twin defensive towers?the Torre Bianca and the Torre Nera?was primarily constructed between the 13th and 15th centuries. Following a brilliant modern restoration by architect Aurelio Galfetti, the fortress now features sleek elevators embedded in the rock and expansive, manicured lawns within its ancient walls. Castelgrande offers visitors a captivating blend of formidable medieval military architecture and contemporary design."
     },
     facts: {
       de: [
-        "Castelgrande gehÃ¶rt zu den Burgen von Bellinzona.",
+        "Castelgrande gehört zu den Burgen von Bellinzona.",
         "Die Anlage ist Teil des UNESCO-Welterbes.",
         "Sie kontrollierte historisch wichtige Alpenrouten.",
-        "Die Burg steht Ã¼ber der Altstadt von Bellinzona.",
+        "Die Burg steht über der Altstadt von Bellinzona.",
         "Sie ist die bekannteste der drei Bellinzona-Burgen."
       ],
       hu: [
-        "A Castelgrande a bellinzonai vÃ¡rak egyike.",
-        "Az Ã©pÃ¼let az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "TÃ¶rtÃ©nelmileg fontos alpesi Ãºtvonalakat ellenÅ‘rzÃ¶tt.",
-        "A vÃ¡r Bellinzona Ã³vÃ¡rosa fÃ¶lÃ¶tt Ã¡ll.",
-        "Ez a legismertebb a hÃ¡rom bellinzonai vÃ¡r kÃ¶zÃ¼l."
+        "A Castelgrande a bellinzonai várak egyike.",
+        "Az épület az UNESCO Világörökség része.",
+        "Történelmileg fontos alpesi útvonalakat ellen�?rzött.",
+        "A vár Bellinzona óvárosa fölött áll.",
+        "Ez a legismertebb a három bellinzonai vár közül."
       ],
       ro: [
         "Castelgrande face parte din castelele din Bellinzona.",
         "Ansamblul este patrimoniu mondial UNESCO.",
         "A controlat istoric rute alpine importante.",
-        "Castelul se aflÄƒ deasupra centrului vechi din Bellinzona.",
+        "Castelul se afl�? deasupra centrului vechi din Bellinzona.",
         "Este cel mai cunoscut dintre cele trei castele din Bellinzona."
       ],
       en: [
@@ -1433,11 +1433,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Castelgrande face parte din complexul defensiv medieval din Bellinzona, inclus pe lista UNESCO în 2000.",
-      "Dealul pe care este situat castelul prezintă urme de ocupare neîntreruptă încă din mileniul al IV-lea î.Hr.",
-      "Ducii de Milano din familiile Visconti și Sforza au extins semnificativ cetatea în secolul al XV-lea.",
-      "Castelul dispune de două turnuri iconice: Turnul Alb (Torre Bianca) și Turnul Negru (Torre Nera).",
-      "Restaurarea recentă a lui Aurelio Galfetti este lăudată la nivel internațional pentru echilibrul dintre vechi și modern."
+      "Castelgrande face parte din complexul defensiv medieval din Bellinzona, inclus pe lista UNESCO �n 2000.",
+      "Dealul pe care este situat castelul prezint? urme de ocupare ne�ntrerupt? �nc? din mileniul al IV-lea �.Hr.",
+      "Ducii de Milano din familiile Visconti ?i Sforza au extins semnificativ cetatea �n secolul al XV-lea.",
+      "Castelul dispune de dou? turnuri iconice: Turnul Alb (Torre Bianca) ?i Turnul Negru (Torre Nera).",
+      "Restaurarea recent? a lui Aurelio Galfetti este l?udat? la nivel interna?ional pentru echilibrul dintre vechi ?i modern."
     ],
       en: [
         "Castelgrande is part of a complex that has been continuously fortified since the late Roman period.",
@@ -1456,43 +1456,43 @@ export const switzerlandCities: POI[] = [
     coords: [9.0278, 46.1947],
     name: {
       de: "Castello di Montebello",
-      hu: "Montebello vÃ¡ra",
+      hu: "Montebello vára",
       ro: "Castelul Montebello",
       en: "Montebello Castle"
     },
     description: {
-      de: "Castello di Montebello liegt oberhalb von Bellinzona und ergÃ¤nzt das Festungssystem der Stadt auf eindrucksvolle Weise. Die Burg bietet starke Ausblicke auf das Tal und die anderen Bellinzona-Burgen. Ihr mittelalterlicher Charakter macht sie zu einem wichtigen Ankerpunkt fÃ¼r historische Reisen im Tessin. Montebello ist ein Musterbeispiel dafÃ¼r, wie Verteidigung, Landschaft und Stadtgeschichte zusammenwirken.",
-      hu: "A Castello di Montebello Bellinzona fÃ¶lÃ¶tt Ã¡ll, Ã©s lÃ¡tvÃ¡nyosan egÃ©szÃ­ti ki a vÃ¡ros erÅ‘drendszerÃ©t. A vÃ¡r remek kilÃ¡tÃ¡st nyÃºjt a vÃ¶lgyre Ã©s a tÃ¶bbi bellinzonai vÃ¡rra. KÃ¶zÃ©pkori karaktere fontos hivatkozÃ¡si ponttÃ¡ teszi a tessini tÃ¶rtÃ©nelmi utazÃ¡sokban. Montebello jÃ³l mutatja, hogyan kapcsolÃ³dik Ã¶ssze a vÃ©delem, a tÃ¡j Ã©s a vÃ¡rostÃ¶rtÃ©net.",
-      ro: "Castello di Montebello se aflÄƒ deasupra Bellinzonei È™i completeazÄƒ spectaculos sistemul defensiv al oraÈ™ului. Castelul oferÄƒ priveliÈ™ti excelente asupra vÄƒii È™i asupra celorlalte castele din Bellinzona. Caracterul sÄƒu medieval Ã®l transformÄƒ Ã®ntr-un reper important pentru cÄƒlÄƒtoriile istorice din Ticino. Montebello aratÄƒ foarte bine cum se Ã®mbinÄƒ apÄƒrarea, peisajul È™i istoria urbanÄƒ.",
+      de: "Castello di Montebello liegt oberhalb von Bellinzona und ergänzt das Festungssystem der Stadt auf eindrucksvolle Weise. Die Burg bietet starke Ausblicke auf das Tal und die anderen Bellinzona-Burgen. Ihr mittelalterlicher Charakter macht sie zu einem wichtigen Ankerpunkt für historische Reisen im Tessin. Montebello ist ein Musterbeispiel dafür, wie Verteidigung, Landschaft und Stadtgeschichte zusammenwirken.",
+      hu: "A Castello di Montebello Bellinzona fölött áll, és látványosan egészíti ki a város er�?drendszerét. A vár remek kilátást nyújt a völgyre és a többi bellinzonai várra. Középkori karaktere fontos hivatkozási ponttá teszi a tessini történelmi utazásokban. Montebello jól mutatja, hogyan kapcsolódik össze a védelem, a táj és a várostörténet.",
+      ro: "Castello di Montebello se afl�? deasupra Bellinzonei �?i completeaz�? spectaculos sistemul defensiv al ora�?ului. Castelul ofer�? priveli�?ti excelente asupra v�?ii �?i asupra celorlalte castele din Bellinzona. Caracterul s�?u medieval îl transform�? într-un reper important pentru c�?l�?toriile istorice din Ticino. Montebello arat�? foarte bine cum se îmbin�? ap�?rarea, peisajul �?i istoria urban�?.",
       en: "Castello di Montebello rises above Bellinzona and complements the city's fortress system in a striking way. The castle offers strong views over the valley and the other Bellinzona castles. Its medieval character makes it an important anchor point for historic travel in Ticino. Montebello shows how defense, landscape, and city history work together."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Castelul Montebello este a doua fortăreață ca mărime din rețeaua defensivă medievală a orașului Bellinzona, recunoscută oficial ca sit al Patrimoniului Mondial UNESCO. Situat cu aproximație la 90 de metri deasupra nivelului văii, acest castel impresionant cu șanțuri adânci și ziduri zimțate a fost ridicat strategic pentru a consolida flancul estic al orașului împotriva atacurilor inamice. Primele sale structuri au fost construite de familia influentă Rusca din Como, în secolul al XIV-lea, iar ulterior complexul a fost preluat și modernizat sub controlul milanezilor. Astăzi, curtea sa spațioasă și interiorul autentic găzduiesc Muzeul Civic, ce oferă o colecție valoroasă de arme, documente și artefacte care povestesc secole de conflicte și comerț alpin. Frumusețea și integritatea formei sale arhitecturale îl fac una dintre cele mai idilice fortărețe medievale din Elveția. (Istorie K6 — Arhitectură militară medievală)",
+      ro: "Castelul Montebello este a doua fort?rea?? ca m?rime din re?eaua defensiv? medieval? a ora?ului Bellinzona, recunoscut? oficial ca sit al Patrimoniului Mondial UNESCO. Situat cu aproxima?ie la 90 de metri deasupra nivelului v?ii, acest castel impresionant cu ?an?uri ad�nci ?i ziduri zim?ate a fost ridicat strategic pentru a consolida flancul estic al ora?ului �mpotriva atacurilor inamice. Primele sale structuri au fost construite de familia influent? Rusca din Como, �n secolul al XIV-lea, iar ulterior complexul a fost preluat ?i modernizat sub controlul milanezilor. Ast?zi, curtea sa spa?ioas? ?i interiorul autentic g?zduiesc Muzeul Civic, ce ofer? o colec?ie valoroas? de arme, documente ?i artefacte care povestesc secole de conflicte ?i comer? alpin. Frumuse?ea ?i integritatea formei sale arhitecturale �l fac una dintre cele mai idilice fort?re?e medievale din Elve?ia. (Istorie K6 ? Arhitectur? militar? medieval?)",
       en: "Montebello Castle, the second of Bellinzona's trio of medieval fortifications, is perched dramatically on a rocky ridge roughly 90 meters above the city. Constructed in the late 13th century by the powerful Rusca family of Como, the castle was later expanded by the Visconti and the Sforza families of Milan. It presents a classic image of a formidable medieval stronghold, complete with deep moats, drawbridges, and crenellated walls that enclose a diamond-shaped central keep. Today, Montebello houses an engaging archaeological and civic museum, displaying artifacts that trace the history of human settlement in the region. The castle's elevated position provides sweeping, uninterrupted views over Bellinzona and its sister fortress, Castelgrande."
     },
     facts: {
       de: [
         "Montebello ist Teil der Bellinzona-Burgen.",
-        "Die Anlage gehÃ¶rt zum UNESCO-Welterbe.",
+        "Die Anlage gehört zum UNESCO-Welterbe.",
         "Sie liegt oberhalb der Tessiner Hauptstadt Bellinzona.",
-        "Die Burg ist mittelalterlich geprÃ¤gt.",
-        "Sie ergÃ¤nzt Castelgrande und Sasso Corbaro."
+        "Die Burg ist mittelalterlich geprägt.",
+        "Sie ergänzt Castelgrande und Sasso Corbaro."
       ],
       hu: [
-        "Montebello a bellinzonai vÃ¡rak rÃ©sze.",
-        "Az Ã©pÃ­tmÃ©ny az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "A tessini fÅ‘vÃ¡ros, Bellinzona fÃ¶lÃ¶tt talÃ¡lhatÃ³.",
-        "KÃ¶zÃ©pkori jellegÅ± vÃ¡r.",
-        "KiegÃ©szÃ­ti a Castelgrande Ã©s a Sasso Corbaro erÅ‘djeit."
+        "Montebello a bellinzonai várak része.",
+        "Az építmény az UNESCO Világörökség része.",
+        "A tessini f�?város, Bellinzona fölött található.",
+        "Középkori jellegű vár.",
+        "Kiegészíti a Castelgrande és a Sasso Corbaro er�?djeit."
       ],
       ro: [
         "Montebello face parte din castelele din Bellinzona.",
         "Ansamblul este patrimoniu mondial UNESCO.",
-        "Se aflÄƒ deasupra capitalei ticinese Bellinzona.",
+        "Se afl�? deasupra capitalei ticinese Bellinzona.",
         "Castelul are un caracter medieval.",
-        "ÃŽl completeazÄƒ pe Castelgrande È™i Sasso Corbaro."
+        "�?l completeaz�? pe Castelgrande �?i Sasso Corbaro."
       ],
       en: [
         "Montebello is part of the Bellinzona castles.",
@@ -1506,11 +1506,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Montebello este integrat în rețeaua celor trei castele din Bellinzona, aflate sub protecția UNESCO.",
-      "Castelul a fost ridicat de familia Rusca în anul 1313, ca un bastion strategic defensiv.",
-      "Numele său provine de la dealul „Montebello” pe care a fost construit, la o altitudine de 313 metri.",
-      "Spre deosebire de Castelgrande, Montebello dispune de șanțuri defensive adânci menite să descurajeze asediile.",
-      "În prezent, clădirea principală adăpostește colecții arheologice valoroase despre istoria cantonului Ticino."
+      "Montebello este integrat �n re?eaua celor trei castele din Bellinzona, aflate sub protec?ia UNESCO.",
+      "Castelul a fost ridicat de familia Rusca �n anul 1313, ca un bastion strategic defensiv.",
+      "Numele s?u provine de la dealul ?Montebello? pe care a fost construit, la o altitudine de 313 metri.",
+      "Spre deosebire de Castelgrande, Montebello dispune de ?an?uri defensive ad�nci menite s? descurajeze asediile.",
+      "�n prezent, cl?direa principal? ad?poste?te colec?ii arheologice valoroase despre istoria cantonului Ticino."
     ],
       en: [
         "Montebello Castle was named a UNESCO World Heritage site in 2000 as part of the Bellinzona fortress complex.",
@@ -1534,38 +1534,38 @@ export const switzerlandCities: POI[] = [
       en: "Sasso Corbaro"
     },
     description: {
-      de: "Sasso Corbaro ist die hÃ¶chstgelegene der Bellinzona-Burgen und ein markanter Teil des UNESCO-Ensembles. Der kompakte Wehrbau bietet weite Blicke Ã¼ber die Stadt und das Tessiner Tal. Gerade wegen seiner Lage wirkt die Burg besonders strategisch und fotogen. Sasso Corbaro ergÃ¤nzt die historische Festungslinie von Bellinzona mit einem klaren militÃ¤rischen Charakter.",
-      hu: "A Sasso Corbaro a bellinzonai vÃ¡rak legmagasabban fekvÅ‘ tagja, Ã©s az UNESCO-egyÃ¼ttes lÃ¡tvÃ¡nyos rÃ©sze. A kompakt erÅ‘d szÃ©les kilÃ¡tÃ¡st ad a vÃ¡rosra Ã©s a tessini vÃ¶lgyre. ElhelyezkedÃ©se miatt kÃ¼lÃ¶nÃ¶sen stratÃ©giai Ã©s fotogÃ©n hatÃ¡sÃº. A Sasso Corbaro a bellinzonai erÅ‘dvonal katonai jellegÃ©t emeli ki.",
-      ro: "Sasso Corbaro este cel mai Ã®nalt dintre castelele din Bellinzona È™i o parte remarcabilÄƒ a ansamblului UNESCO. FortÄƒreaÈ›a compactÄƒ oferÄƒ priveliÈ™ti largi asupra oraÈ™ului È™i a vÄƒii ticinese. Prin poziÈ›ia sa, castelul pare deosebit de strategic È™i fotogenic. Sasso Corbaro completeazÄƒ linia defensivÄƒ istoricÄƒ din Bellinzona cu un caracter militar clar.",
+      de: "Sasso Corbaro ist die höchstgelegene der Bellinzona-Burgen und ein markanter Teil des UNESCO-Ensembles. Der kompakte Wehrbau bietet weite Blicke über die Stadt und das Tessiner Tal. Gerade wegen seiner Lage wirkt die Burg besonders strategisch und fotogen. Sasso Corbaro ergänzt die historische Festungslinie von Bellinzona mit einem klaren militärischen Charakter.",
+      hu: "A Sasso Corbaro a bellinzonai várak legmagasabban fekv�? tagja, és az UNESCO-együttes látványos része. A kompakt er�?d széles kilátást ad a városra és a tessini völgyre. Elhelyezkedése miatt különösen stratégiai és fotogén hatású. A Sasso Corbaro a bellinzonai er�?dvonal katonai jellegét emeli ki.",
+      ro: "Sasso Corbaro este cel mai înalt dintre castelele din Bellinzona �?i o parte remarcabil�? a ansamblului UNESCO. Fort�?rea�?a compact�? ofer�? priveli�?ti largi asupra ora�?ului �?i a v�?ii ticinese. Prin pozi�?ia sa, castelul pare deosebit de strategic �?i fotogenic. Sasso Corbaro completeaz�? linia defensiv�? istoric�? din Bellinzona cu un caracter militar clar.",
       en: "Sasso Corbaro is the highest of the Bellinzona castles and a striking part of the UNESCO ensemble. The compact fortress offers wide views over the city and the Ticino valley. Its position makes the castle feel especially strategic and photogenic. Sasso Corbaro adds a clear military character to Bellinzona's historic defensive line."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Sasso Corbaro, situat izolat pe un deal împădurit deasupra orașului Bellinzona, este cel mai înalt și ultimul construit dintre cele trei castele incluse în Patrimoniul Mondial UNESCO din regiunea Ticino. Edificat rapid în doar șase luni, la sfârșitul secolului al XV-lea, la ordinele familiei milaneze Sforza, acest bastion avea rolul critic de a preveni încercuirea trupelor confederate elvețiene care avansau spre sud. Spre deosebire de celelalte două castele, Sasso Corbaro prezintă o formă geometrică mai compactă și rigidă, axată exclusiv pe apărare eficientă, fără ziduri extinse care să-l conecteze de oraș. Datorită altitudinii sale remarcabile de 460 de metri deasupra nivelului mării, oferă o panoramă spectaculoasă, deschisă spre valea râului Ticino până la Lacul Maggiore. (Istorie K8 — Apărarea strategică a trecătorilor alpine)",
+      ro: "Sasso Corbaro, situat izolat pe un deal �mp?durit deasupra ora?ului Bellinzona, este cel mai �nalt ?i ultimul construit dintre cele trei castele incluse �n Patrimoniul Mondial UNESCO din regiunea Ticino. Edificat rapid �n doar ?ase luni, la sf�r?itul secolului al XV-lea, la ordinele familiei milaneze Sforza, acest bastion avea rolul critic de a preveni �ncercuirea trupelor confederate elve?iene care avansau spre sud. Spre deosebire de celelalte dou? castele, Sasso Corbaro prezint? o form? geometric? mai compact? ?i rigid?, axat? exclusiv pe ap?rare eficient?, f?r? ziduri extinse care s?-l conecteze de ora?. Datorit? altitudinii sale remarcabile de 460 de metri deasupra nivelului m?rii, ofer? o panoram? spectaculoas?, deschis? spre valea r�ului Ticino p�n? la Lacul Maggiore. (Istorie K8 ? Ap?rarea strategic? a trec?torilor alpine)",
       en: "Sasso Corbaro is the highest and youngest of the three iconic castles of Bellinzona, standing solitary on a forested hill 230 meters above the valley floor. Built rapidly in 1479 under the orders of the Duke of Milan, its primary purpose was to close a critical gap in the valley's defensive line against the expanding Swiss Confederation. Unlike Castelgrande and Montebello, Sasso Corbaro is designed as a geometric, standalone keep with incredibly thick, austere walls designed to withstand artillery fire. The high-altitude vantage point offers breathtaking panoramas of the Ticino River valley, stretching down to Lake Maggiore. Today, its elegant halls frequently host temporary art and historical exhibitions."
     },
     facts: {
       de: [
-        "Sasso Corbaro gehÃ¶rt zu den Bellinzona-Burgen.",
+        "Sasso Corbaro gehört zu den Bellinzona-Burgen.",
         "Die Burg ist Teil des UNESCO-Welterbes.",
-        "Sie liegt hÃ¶her als Castelgrande und Montebello.",
-        "Der Standort war militÃ¤risch strategisch wichtig.",
-        "Die Aussicht Ã¼ber Bellinzona ist besonders stark."
+        "Sie liegt höher als Castelgrande und Montebello.",
+        "Der Standort war militärisch strategisch wichtig.",
+        "Die Aussicht über Bellinzona ist besonders stark."
       ],
       hu: [
-        "A Sasso Corbaro a bellinzonai vÃ¡rak egyike.",
-        "A vÃ¡r az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "Magasabban fekszik, mint a Castelgrande Ã©s a Montebello.",
-        "A helyszÃ­n katonai szempontbÃ³l stratÃ©giai volt.",
-        "A Bellinzona fÃ¶lÃ¶tti kilÃ¡tÃ¡s kÃ¼lÃ¶nÃ¶sen erÅ‘s."
+        "A Sasso Corbaro a bellinzonai várak egyike.",
+        "A vár az UNESCO Világörökség része.",
+        "Magasabban fekszik, mint a Castelgrande és a Montebello.",
+        "A helyszín katonai szempontból stratégiai volt.",
+        "A Bellinzona fölötti kilátás különösen er�?s."
       ],
       ro: [
         "Sasso Corbaro face parte din castelele din Bellinzona.",
         "Castelul este patrimoniu mondial UNESCO.",
-        "Se aflÄƒ mai sus decÃ¢t Castelgrande È™i Montebello.",
+        "Se afl�? mai sus decât Castelgrande �?i Montebello.",
         "Locul a fost important strategic militar.",
-        "PriveliÈ™tea asupra Bellinzonei este foarte puternicÄƒ."
+        "Priveli�?tea asupra Bellinzonei este foarte puternic�?."
       ],
       en: [
         "Sasso Corbaro is one of the Bellinzona castles.",
@@ -1579,11 +1579,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Sasso Corbaro este cel mai înalt dintre cele trei castele faimoase care veghează asupra orașului Bellinzona.",
-      "Spre deosebire de Castelgrande și Montebello, acesta nu este integrat în zidurile de apărare ale orașului.",
-      "A fost construit într-un timp record de doar șase luni în anul 1479, din rațiuni strategice urgente.",
-      "Construcția sa a fost ordonată de familia Sforza din Milano, după înfrângerea trupelor milaneze în Bătălia de la Giornico.",
-      "În incinta castelului sunt frecvent găzduite expoziții temporare de artă și istorie."
+      "Sasso Corbaro este cel mai �nalt dintre cele trei castele faimoase care vegheaz? asupra ora?ului Bellinzona.",
+      "Spre deosebire de Castelgrande ?i Montebello, acesta nu este integrat �n zidurile de ap?rare ale ora?ului.",
+      "A fost construit �ntr-un timp record de doar ?ase luni �n anul 1479, din ra?iuni strategice urgente.",
+      "Construc?ia sa a fost ordonat? de familia Sforza din Milano, dup? �nfr�ngerea trupelor milaneze �n B?t?lia de la Giornico.",
+      "�n incinta castelului sunt frecvent g?zduite expozi?ii temporare de art? ?i istorie."
     ],
       en: [
         "Sasso Corbaro was constructed in just six months in 1479 to reinforce Bellinzona's defenses.",
@@ -1603,42 +1603,42 @@ export const switzerlandCities: POI[] = [
     name: {
       de: "Stiftsbezirk St. Gallen",
       hu: "Szent Gallen kolostornegyede",
-      ro: "Districtul abaÈ›iei din St. Gallen",
+      ro: "Districtul aba�?iei din St. Gallen",
       en: "Abbey District of St. Gallen"
     },
     description: {
-      de: "Der Stiftsbezirk St. Gallen ist eines der wichtigsten historischen Ensembles der Schweiz und eng mit Kloster- und Wissensgeschichte verbunden. Die barocke Kathedrale und die berÃ¼hmte Stiftsbibliothek ziehen Besucher aus aller Welt an. Das Viertel zeigt, wie stark religiÃ¶se, kulturelle und wissenschaftliche Traditionen hier zusammenkommen. Als UNESCO-Ort ist es ein zentrales Ziel fÃ¼r historische Reisen in der Ostschweiz.",
-      hu: "A Szent Gallen-i kolostornegyed SvÃ¡jc egyik legfontosabb tÃ¶rtÃ©nelmi egyÃ¼ttese, amely erÅ‘sen kÃ¶tÅ‘dik a kolostori Ã©s tudÃ¡stÃ¶rtÃ©neti hagyomÃ¡nyokhoz. A barokk szÃ©kesegyhÃ¡z Ã©s a hÃ­res apÃ¡tsÃ¡gi kÃ¶nyvtÃ¡r a vilÃ¡g minden tÃ¡jÃ¡rÃ³l vonzza a lÃ¡togatÃ³kat. A negyed jÃ³l mutatja, mennyire Ã¶sszefonÃ³dik itt a vallÃ¡si, kulturÃ¡lis Ã©s tudomÃ¡nyos Ã¶rÃ¶ksÃ©g. UNESCO-helykÃ©nt Kelet-SvÃ¡jc tÃ¶rtÃ©nelmi utazÃ¡sainak egyik kÃ¶zponti cÃ©lpontja.",
-      ro: "Districtul abaÈ›iei din St. Gallen este unul dintre cele mai importante ansambluri istorice din ElveÈ›ia È™i este strÃ¢ns legat de tradiÈ›ia monasticÄƒ È™i de istoria cunoaÈ™terii. Catedrala barocÄƒ È™i celebra bibliotecÄƒ a abaÈ›iei atrag vizitatori din toatÄƒ lumea. Cartierul aratÄƒ cÃ¢t de puternic se Ã®mbinÄƒ aici tradiÈ›iile religioase, culturale È™i È™tiinÈ›ifice. Ca sit UNESCO, este o destinaÈ›ie centralÄƒ pentru cÄƒlÄƒtoriile istorice din estul ElveÈ›iei.",
+      de: "Der Stiftsbezirk St. Gallen ist eines der wichtigsten historischen Ensembles der Schweiz und eng mit Kloster- und Wissensgeschichte verbunden. Die barocke Kathedrale und die berühmte Stiftsbibliothek ziehen Besucher aus aller Welt an. Das Viertel zeigt, wie stark religiöse, kulturelle und wissenschaftliche Traditionen hier zusammenkommen. Als UNESCO-Ort ist es ein zentrales Ziel für historische Reisen in der Ostschweiz.",
+      hu: "A Szent Gallen-i kolostornegyed Svájc egyik legfontosabb történelmi együttese, amely er�?sen köt�?dik a kolostori és tudástörténeti hagyományokhoz. A barokk székesegyház és a híres apátsági könyvtár a világ minden tájáról vonzza a látogatókat. A negyed jól mutatja, mennyire összefonódik itt a vallási, kulturális és tudományos örökség. UNESCO-helyként Kelet-Svájc történelmi utazásainak egyik központi célpontja.",
+      ro: "Districtul aba�?iei din St. Gallen este unul dintre cele mai importante ansambluri istorice din Elve�?ia �?i este strâns legat de tradi�?ia monastic�? �?i de istoria cunoa�?terii. Catedrala baroc�? �?i celebra bibliotec�? a aba�?iei atrag vizitatori din toat�? lumea. Cartierul arat�? cât de puternic se îmbin�? aici tradi�?iile religioase, culturale �?i �?tiin�?ifice. Ca sit UNESCO, este o destina�?ie central�? pentru c�?l�?toriile istorice din estul Elve�?iei.",
       en: "The Abbey District of St. Gallen is one of Switzerland's most important historic ensembles and is closely linked to monastic and knowledge history. The baroque cathedral and the famous abbey library draw visitors from around the world. The district shows how strongly religious, cultural, and scholarly traditions come together here. As a UNESCO site, it is a central destination for historic travel in eastern Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Districtul Abației din St. Gallen este un complex arhitectural uimitor ce reflectă peste 1.200 de ani de istorie spirituală și culturală, fiind înscris în Patrimoniul Mondial UNESCO datorită contribuției sale esențiale la civilizația europeană. Fondată în secolul al VIII-lea, mănăstirea a devenit în perioada carolingiană și ottoniană unul dintre cele mai importante centre de învățământ și caligrafie din Europa. Inima acestui complex este Biblioteca Mănăstirii (Stiftsbibliothek), faimoasă pentru fastuoasa sa sală în stil baroc târziu și pentru deținerea unora dintre cele mai prețioase manuscrise scrise de mână din lume, inclusiv primul plan arhitectural realizat pe pergament. Superba catedrală barocă, construită la mijlocul secolului al XVIII-lea, cu turnurile sale gemene impresionante, domină orașul. Vizitarea acestui loc este o călătorie unică la sursele literaturii și religiei Europei occidentale. (Istorie K8 — Centre de erudiție medievală și artă barocă)",
+      ro: "Districtul Aba?iei din St. Gallen este un complex arhitectural uimitor ce reflect? peste 1.200 de ani de istorie spiritual? ?i cultural?, fiind �nscris �n Patrimoniul Mondial UNESCO datorit? contribu?iei sale esen?iale la civiliza?ia european?. Fondat? �n secolul al VIII-lea, m?n?stirea a devenit �n perioada carolingian? ?i ottonian? unul dintre cele mai importante centre de �nv???m�nt ?i caligrafie din Europa. Inima acestui complex este Biblioteca M?n?stirii (Stiftsbibliothek), faimoas? pentru fastuoasa sa sal? �n stil baroc t�rziu ?i pentru de?inerea unora dintre cele mai pre?ioase manuscrise scrise de m�n? din lume, inclusiv primul plan arhitectural realizat pe pergament. Superba catedral? baroc?, construit? la mijlocul secolului al XVIII-lea, cu turnurile sale gemene impresionante, domin? ora?ul. Vizitarea acestui loc este o c?l?torie unic? la sursele literaturii ?i religiei Europei occidentale. (Istorie K8 ? Centre de erudi?ie medieval? ?i art? baroc?)",
       en: "The Abbey District of St. Gallen is a remarkably preserved ecclesiastical complex that vividly illustrates the development of a major Carolingian monastery. Founded in the 8th century, it operated as one of the most important intellectual and cultural centers in Europe for over a millennium. The centerpiece of the district is the stunning Baroque Cathedral, completed in the late 18th century, featuring an awe-inspiring twin-towered facade and an ornate interior. Equally famous is the Abbey Library (Stiftsbibliothek), which holds an invaluable collection of medieval manuscripts and features breathtaking Rococo architecture. Recognizing its outstanding historical and architectural significance, the entire precinct was designated a UNESCO World Heritage site in 1983."
     },
     facts: {
       de: [
-        "Der Stiftsbezirk gehÃ¶rt zum UNESCO-Welterbe.",
-        "Die Stiftsbibliothek ist weltberÃ¼hmt.",
+        "Der Stiftsbezirk gehört zum UNESCO-Welterbe.",
+        "Die Stiftsbibliothek ist weltberühmt.",
         "Das Ensemble liegt im Zentrum von St. Gallen.",
-        "Barocke Architektur prÃ¤gt den Ort.",
+        "Barocke Architektur prägt den Ort.",
         "Kloster- und Bildungsgeschichte sind eng verbunden."
       ],
       hu: [
-        "A kolostornegyed az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "Az apÃ¡tsÃ¡gi kÃ¶nyvtÃ¡r vilÃ¡ghÃ­rÅ±.",
-        "Az egyÃ¼ttes St. Gallen kÃ¶zpontjÃ¡ban talÃ¡lhatÃ³.",
-        "A barokk Ã©pÃ­tÃ©szet meghatÃ¡rozza a helyet.",
-        "A kolostori Ã©s oktatÃ¡stÃ¶rtÃ©neti hagyomÃ¡nyok szorosan kapcsolÃ³dnak."
+        "A kolostornegyed az UNESCO Világörökség része.",
+        "Az apátsági könyvtár világhírű.",
+        "Az együttes St. Gallen központjában található.",
+        "A barokk építészet meghatározza a helyet.",
+        "A kolostori és oktatástörténeti hagyományok szorosan kapcsolódnak."
       ],
       ro: [
-        "Districtul abaÈ›iei face parte din patrimoniul mondial UNESCO.",
-        "Biblioteca abaÈ›iei este celebrÄƒ Ã®n Ã®ntreaga lume.",
-        "Ansamblul se aflÄƒ Ã®n centrul oraÈ™ului St. Gallen.",
-        "Arhitectura barocÄƒ defineÈ™te locul.",
-        "Istoria monasticÄƒ È™i cea educaÈ›ionalÄƒ sunt strÃ¢ns legate."
+        "Districtul aba�?iei face parte din patrimoniul mondial UNESCO.",
+        "Biblioteca aba�?iei este celebr�? în întreaga lume.",
+        "Ansamblul se afl�? în centrul ora�?ului St. Gallen.",
+        "Arhitectura baroc�? define�?te locul.",
+        "Istoria monastic�? �?i cea educa�?ional�? sunt strâns legate."
       ],
       en: [
         "The abbey district is a UNESCO World Heritage site.",
@@ -1652,11 +1652,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Districtul Abației din St. Gallen este inclus pe lista Patrimoniului Mondial UNESCO din 1983.",
-      "Biblioteca deține impresionantul număr de 170.000 de volume, inclusiv 2.000 de manuscrise medievale de o valoare inestimabilă.",
-      "Sala bibliotecii este considerată una dintre cele mai magnifice camere în stil baroc rococo din lume.",
-      "Printre cele mai de preț artefacte se numără celebrul Plan al Mănăstirii St. Gallen, realizat în jurul anului 820.",
-      "Complexul abațial a fost nucleul cultural al nordului Europei de-a lungul întregului Ev Mediu Timpuriu."
+      "Districtul Aba?iei din St. Gallen este inclus pe lista Patrimoniului Mondial UNESCO din 1983.",
+      "Biblioteca de?ine impresionantul num?r de 170.000 de volume, inclusiv 2.000 de manuscrise medievale de o valoare inestimabil?.",
+      "Sala bibliotecii este considerat? una dintre cele mai magnifice camere �n stil baroc rococo din lume.",
+      "Printre cele mai de pre? artefacte se num?r? celebrul Plan al M?n?stirii St. Gallen, realizat �n jurul anului 820.",
+      "Complexul aba?ial a fost nucleul cultural al nordului Europei de-a lungul �ntregului Ev Mediu Timpuriu."
     ],
       en: [
         "The Abbey of St. Gall was established in 719 AD on the site of the hermitage of the Irish monk Saint Gall.",
@@ -1675,47 +1675,47 @@ export const switzerlandCities: POI[] = [
     coords: [8.6129, 47.0802],
     name: {
       de: "Morgarten Schlachtort",
-      hu: "Morgarteni csatatÃ©r",
-      ro: "CÃ¢mpul de luptÄƒ de la Morgarten",
+      hu: "Morgarteni csatatér",
+      ro: "Câmpul de lupt�? de la Morgarten",
       en: "Morgarten Battlefield"
     },
     description: {
-      de: "Der Schlachtort von Morgarten ist ein SchlÃ¼sselort der frÃ¼hen Eidgenossenschaft und steht fÃ¼r einen prÃ¤genden Moment der Schweizer Geschichte. Die Landschaft am ÄŒgerisee erinnert an die historische Auseinandersetzung von 1315. Heute ist der Ort ein starkes Symbol fÃ¼r UnabhÃ¤ngigkeit und Erinnerungskultur. FÃ¼r historisch interessierte Reisende gehÃ¶rt Morgarten zu den bedeutenden SchauplÃ¤tzen der Ursprungszeit der Schweiz.",
-      hu: "A Morgarten melletti csatatÃ©r a korai Eidgenossenschaft kulcsfontossÃ¡gÃº helyszÃ­ne, Ã©s a svÃ¡jci tÃ¶rtÃ©nelem egyik meghatÃ¡rozÃ³ pillanatÃ¡t idÃ©zi. Az ÄŒgeri-tÃ³ kÃ¶rnyÃ©ki tÃ¡j az 1315-Ã¶s Ã¼tkÃ¶zet emlÃ©kÃ©t Å‘rzi. Ma a hely az Ã¶nÃ¡llÃ³sÃ¡g Ã©s az emlÃ©kezetkultÃºra erÅ‘s jelkÃ©pe. A tÃ¶rtÃ©nelem irÃ¡nt Ã©rdeklÅ‘dÅ‘ utazÃ³k szÃ¡mÃ¡ra Morgarten a svÃ¡jci eredettÃ¶rtÃ©net fontos Ã¡llomÃ¡sa.",
-      ro: "Locul bÄƒtÄƒliei de la Morgarten este un punct-cheie al vechii ConfederaÈ›ii ElveÈ›iene È™i reprezintÄƒ un moment definitoriu Ã®n istoria elveÈ›ianÄƒ. Peisajul de lÃ¢ngÄƒ lacul ÄŒgeri aminteÈ™te de confruntarea din 1315. AstÄƒzi, locul este un simbol puternic al independenÈ›ei È™i al memoriei istorice. Pentru cÄƒlÄƒtorii interesaÈ›i de istorie, Morgarten este unul dintre reperele esenÈ›iale ale originilor ElveÈ›iei.",
-      en: "The Morgarten battlefield is a key site of the early Swiss Confederation and marks a defining moment in Swiss history. The landscape near Lake ÄŒgeri recalls the 1315 conflict. Today the site is a strong symbol of independence and historical memory. For history-focused travelers, Morgarten is one of the essential places in Switzerland's origin story."
+      de: "Der Schlachtort von Morgarten ist ein Schlüsselort der frühen Eidgenossenschaft und steht für einen prägenden Moment der Schweizer Geschichte. Die Landschaft am �?gerisee erinnert an die historische Auseinandersetzung von 1315. Heute ist der Ort ein starkes Symbol für Unabhängigkeit und Erinnerungskultur. Für historisch interessierte Reisende gehört Morgarten zu den bedeutenden Schauplätzen der Ursprungszeit der Schweiz.",
+      hu: "A Morgarten melletti csatatér a korai Eidgenossenschaft kulcsfontosságú helyszíne, és a svájci történelem egyik meghatározó pillanatát idézi. Az �?geri-tó környéki táj az 1315-ös ütközet emlékét �?rzi. Ma a hely az önállóság és az emlékezetkultúra er�?s jelképe. A történelem iránt érdekl�?d�? utazók számára Morgarten a svájci eredettörténet fontos állomása.",
+      ro: "Locul b�?t�?liei de la Morgarten este un punct-cheie al vechii Confedera�?ii Elve�?iene �?i reprezint�? un moment definitoriu în istoria elve�?ian�?. Peisajul de lâng�? lacul �?geri aminte�?te de confruntarea din 1315. Ast�?zi, locul este un simbol puternic al independen�?ei �?i al memoriei istorice. Pentru c�?l�?torii interesa�?i de istorie, Morgarten este unul dintre reperele esen�?iale ale originilor Elve�?iei.",
+      en: "The Morgarten battlefield is a key site of the early Swiss Confederation and marks a defining moment in Swiss history. The landscape near Lake �?geri recalls the 1315 conflict. Today the site is a strong symbol of independence and historical memory. For history-focused travelers, Morgarten is one of the essential places in Switzerland's origin story."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Câmpul de luptă de la Morgarten, situat în apropierea pitorescului Lac Ägeri, are o semnificație patriotică legendară în istoria formării Elveției. La 15 noiembrie 1315, o forță mică de fermieri din cantoanele originare Uri, Schwyz și Unterwalden a pus la cale o ambuscadă ingenioasă și a înfrânt trupele masive și puternic armate ale Ducelui Leopold I de Habsburg. Printr-o cunoaștere excelentă a terenului accidentat, aruncând stânci și trunchiuri de copaci din pădurile de deasupra, forțele elvețiene au demonstrat eficiența tacticii de gherilă împotriva cavaleriei grele clasice. Această victorie spectaculoasă a consolidat Pactul Federal și a asigurat independența noii confederații față de imperiul austriac. Astăzi, un monument comemorativ și un traseu tematic ajută vizitatorii să înțeleagă importanța acestui loc istoric crucial. (Istorie K6 — Bătăliile de formare a statelor și tactici militare)",
-      en: "The Morgarten Battlefield, situated near the tranquil Lake Ägeri, is a site of profound national significance in Swiss history. It was here, in November 1315, that a small, lightly armed force from the original Swiss cantons famously ambushed and decisively defeated the heavy cavalry of the Habsburg Duke Leopold I. This unexpected victory proved to the world that peasant militias could overcome heavily armored knights using favorable terrain and tactical ingenuity. The battle cemented the alliance of the early Swiss Confederation and has since become a powerful symbol of Swiss independence and defiance. Today, visitors can walk the historical trails, view the commemorative monument, and explore the modern information center that brings the medieval conflict to life."
+      ro: "C�mpul de lupt? de la Morgarten, situat �n apropierea pitorescului Lac �geri, are o semnifica?ie patriotic? legendar? �n istoria form?rii Elve?iei. La 15 noiembrie 1315, o for?? mic? de fermieri din cantoanele originare Uri, Schwyz ?i Unterwalden a pus la cale o ambuscad? ingenioas? ?i a �nfr�nt trupele masive ?i puternic armate ale Ducelui Leopold I de Habsburg. Printr-o cunoa?tere excelent? a terenului accidentat, arunc�nd st�nci ?i trunchiuri de copaci din p?durile de deasupra, for?ele elve?iene au demonstrat eficien?a tacticii de gheril? �mpotriva cavaleriei grele clasice. Aceast? victorie spectaculoas? a consolidat Pactul Federal ?i a asigurat independen?a noii confedera?ii fa?? de imperiul austriac. Ast?zi, un monument comemorativ ?i un traseu tematic ajut? vizitatorii s? �n?eleag? importan?a acestui loc istoric crucial. (Istorie K6 ? B?t?liile de formare a statelor ?i tactici militare)",
+      en: "The Morgarten Battlefield, situated near the tranquil Lake �geri, is a site of profound national significance in Swiss history. It was here, in November 1315, that a small, lightly armed force from the original Swiss cantons famously ambushed and decisively defeated the heavy cavalry of the Habsburg Duke Leopold I. This unexpected victory proved to the world that peasant militias could overcome heavily armored knights using favorable terrain and tactical ingenuity. The battle cemented the alliance of the early Swiss Confederation and has since become a powerful symbol of Swiss independence and defiance. Today, visitors can walk the historical trails, view the commemorative monument, and explore the modern information center that brings the medieval conflict to life."
     },
     facts: {
       de: [
-        "Morgarten steht fÃ¼r die Schlacht von 1315.",
-        "Der Ort liegt am ÄŒgerisee.",
-        "Er ist ein Symbol der frÃ¼hen Eidgenossenschaft.",
-        "Das GelÃ¤nde ist stark mit Erinnerungskultur verbunden.",
-        "Morgarten gehÃ¶rt zu den bekanntesten Schweizer Schlachtorten."
+        "Morgarten steht für die Schlacht von 1315.",
+        "Der Ort liegt am �?gerisee.",
+        "Er ist ein Symbol der frühen Eidgenossenschaft.",
+        "Das Gelände ist stark mit Erinnerungskultur verbunden.",
+        "Morgarten gehört zu den bekanntesten Schweizer Schlachtorten."
       ],
       hu: [
-        "Morgarten az 1315-Ã¶s csatÃ¡ra utal.",
-        "A helyszÃ­n az ÄŒgeri-tÃ³ mellett talÃ¡lhatÃ³.",
-        "A korai Eidgenossenschaft jelkÃ©pe.",
-        "ErÅ‘sen kapcsolÃ³dik az emlÃ©kezetkultÃºrÃ¡hoz.",
-        "Morgarten SvÃ¡jc egyik legismertebb csatatere."
+        "Morgarten az 1315-ös csatára utal.",
+        "A helyszín az �?geri-tó mellett található.",
+        "A korai Eidgenossenschaft jelképe.",
+        "Er�?sen kapcsolódik az emlékezetkultúrához.",
+        "Morgarten Svájc egyik legismertebb csatatere."
       ],
       ro: [
-        "Morgarten trimite la bÄƒtÄƒlia din 1315.",
-        "Locul se aflÄƒ lÃ¢ngÄƒ lacul ÄŒgeri.",
-        "Este un simbol al vechii ConfederaÈ›ii ElveÈ›iene.",
-        "Este strÃ¢ns legat de memoria istoricÄƒ.",
-        "Morgarten este unul dintre cele mai cunoscute cÃ¢mpuri de luptÄƒ din ElveÈ›ia."
+        "Morgarten trimite la b�?t�?lia din 1315.",
+        "Locul se afl�? lâng�? lacul �?geri.",
+        "Este un simbol al vechii Confedera�?ii Elve�?iene.",
+        "Este strâns legat de memoria istoric�?.",
+        "Morgarten este unul dintre cele mai cunoscute câmpuri de lupt�? din Elve�?ia."
       ],
       en: [
         "Morgarten refers to the 1315 battle.",
-        "The site lies near Lake ÄŒgeri.",
+        "The site lies near Lake �?geri.",
         "It is a symbol of the early Swiss Confederation.",
         "It is closely tied to historical memory.",
         "Morgarten is one of Switzerland's best-known battle sites."
@@ -1725,16 +1725,16 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Bătălia de la Morgarten (1315) este adesea denumită prima victorie militară majoră a vechii Confederații Elvețiene.",
-      "Forțele habsburgice superioare numeric au fost învinse de elvețieni printr-o ambuscadă strategică pe un traseu îngust.",
-      "Evenimentul a demonstrat superioritatea infanteriei cu halebarde asupra cavaleriei medievale grele în teren accidentat.",
-      "Această victorie a dus la Pactul de la Brunnen, care a reînnoit și a consolidat prima alianță a cantoanelor.",
-      "Monumentul Bătăliei de la Morgarten, inaugurat în 1908, atrage patrioți și pasionați de istorie."
+      "B?t?lia de la Morgarten (1315) este adesea denumit? prima victorie militar? major? a vechii Confedera?ii Elve?iene.",
+      "For?ele habsburgice superioare numeric au fost �nvinse de elve?ieni printr-o ambuscad? strategic? pe un traseu �ngust.",
+      "Evenimentul a demonstrat superioritatea infanteriei cu halebarde asupra cavaleriei medievale grele �n teren accidentat.",
+      "Aceast? victorie a dus la Pactul de la Brunnen, care a re�nnoit ?i a consolidat prima alian?? a cantoanelor.",
+      "Monumentul B?t?liei de la Morgarten, inaugurat �n 1908, atrage patrio?i ?i pasiona?i de istorie."
     ],
       en: [
         "The Battle of Morgarten occurred on November 15, 1315, marking a major turning point in Swiss history.",
         "It is often referred to as the first true battle of the Swiss Confederation against external domination.",
-        "The Swiss forces utilized the narrow pass between Lake Ägeri and the steep mountain slopes to ambush the Habsburg knights.",
+        "The Swiss forces utilized the narrow pass between Lake �geri and the steep mountain slopes to ambush the Habsburg knights.",
         "A stone monument and a chapel were erected near the site to commemorate the historic victory.",
         "The battle demonstrated the effectiveness of halberds and rolling logs against heavily armored cavalry."
       ]
@@ -1748,43 +1748,43 @@ export const switzerlandCities: POI[] = [
     coords: [8.1928, 47.1198],
     name: {
       de: "Sempacher Schlachtfeld",
-      hu: "Sempachi csatatÃ©r",
-      ro: "CÃ¢mpul de luptÄƒ de la Sempach",
+      hu: "Sempachi csatatér",
+      ro: "Câmpul de lupt�? de la Sempach",
       en: "Sempach Battlefield"
     },
     description: {
-      de: "Das Sempacher Schlachtfeld erinnert an die berÃ¼hmte Schlacht von 1386, die in der Schweizer Erinnerungskultur einen festen Platz hat. Die Region um Sempach verbindet historische Ãœberlieferung mit einer ruhigen Seelandschaft. FÃ¼r Besucher ist der Ort ein anschauliches Ziel, um frÃ¼he Eidgenossenschaft und nationale Mythen zu verstehen. Das Schlachtfeld gehÃ¶rt zu den wichtigsten historischen Referenzorten der Zentralschweiz.",
-      hu: "A Sempach melletti csatatÃ©r az 1386-os hÃ­res csatÃ¡ra emlÃ©keztet, amely a svÃ¡jci emlÃ©kezetkultÃºrÃ¡ban kiemelt helyet foglal el. Sempach kÃ¶rnyÃ©ke a tÃ¶rtÃ©nelmi hagyomÃ¡nyt nyugodt tÃ³vidÃ©ki tÃ¡jjal Ã¶tvÃ¶zi. A lÃ¡togatÃ³k szÃ¡mÃ¡ra szemlÃ©letes helyszÃ­n a korai Eidgenossenschaft Ã©s a nemzeti mÃ­toszok megÃ©rtÃ©sÃ©hez. A csatatÃ©r a kÃ¶zÃ©p-svÃ¡jci tÃ¶rtÃ©nelmi referenciapontok kÃ¶zÃ¶tt is kiemelkedÅ‘.",
-      ro: "CÃ¢mpul de luptÄƒ de la Sempach aminteÈ™te de celebra bÄƒtÄƒlie din 1386, care ocupÄƒ un loc important Ã®n memoria istoricÄƒ elveÈ›ianÄƒ. Regiunea Sempach combinÄƒ tradiÈ›ia istoricÄƒ cu un peisaj liniÈ™tit de lac. Pentru vizitatori, locul este o destinaÈ›ie clarÄƒ pentru Ã®nÈ›elegerea vechii ConfederaÈ›ii È™i a miturilor naÈ›ionale. CÃ¢mpul de luptÄƒ este unul dintre cele mai importante repere istorice din ElveÈ›ia centralÄƒ.",
+      de: "Das Sempacher Schlachtfeld erinnert an die berühmte Schlacht von 1386, die in der Schweizer Erinnerungskultur einen festen Platz hat. Die Region um Sempach verbindet historische �?berlieferung mit einer ruhigen Seelandschaft. Für Besucher ist der Ort ein anschauliches Ziel, um frühe Eidgenossenschaft und nationale Mythen zu verstehen. Das Schlachtfeld gehört zu den wichtigsten historischen Referenzorten der Zentralschweiz.",
+      hu: "A Sempach melletti csatatér az 1386-os híres csatára emlékeztet, amely a svájci emlékezetkultúrában kiemelt helyet foglal el. Sempach környéke a történelmi hagyományt nyugodt tóvidéki tájjal ötvözi. A látogatók számára szemléletes helyszín a korai Eidgenossenschaft és a nemzeti mítoszok megértéséhez. A csatatér a közép-svájci történelmi referenciapontok között is kiemelked�?.",
+      ro: "Câmpul de lupt�? de la Sempach aminte�?te de celebra b�?t�?lie din 1386, care ocup�? un loc important în memoria istoric�? elve�?ian�?. Regiunea Sempach combin�? tradi�?ia istoric�? cu un peisaj lini�?tit de lac. Pentru vizitatori, locul este o destina�?ie clar�? pentru în�?elegerea vechii Confedera�?ii �?i a miturilor na�?ionale. Câmpul de lupt�? este unul dintre cele mai importante repere istorice din Elve�?ia central�?.",
       en: "The Sempach battlefield recalls the famous 1386 battle, which has a firm place in Swiss historical memory. The Sempach area combines historical tradition with a calm lakeside landscape. For visitors, the site is a clear place to understand the early Swiss Confederation and national myths. The battlefield is one of the most important historic reference points in Central Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Sempach este locul unei bătălii decisive din istoria Elveției, purtată la 9 iulie 1386 între trupele tinerei Confederații Elvețiene și o armată formidabilă a familiei Habsburgilor, condusă de Ducele Leopold al III-lea de Austria. Confederații se aflau într-o situație disperată împotriva lăncilor dese ale cavalerilor habsburgici, până când, conform legendei naționale, eroul elvețian Arnold von Winkelried s-a aruncat eroic peste o duzină de lănci inamice, deschizând o breșă prin care confederații au pătruns și au obținut o victorie zdrobitoare. Leopold al III-lea însuși a fost ucis pe câmpul de luptă, ceea ce a dus la o slăbire majoră a puterii Habsburgilor în regiune și a asigurat independența cantoanelor elvețiene aliate. Astăzi, un frumos monument comemorativ și o capelă veghează asupra acestui teren istoric, onorând sacrificiul fondatorilor națiunii. (Istorie K7 — Legendele naționale și independența elvețiană)",
+      ro: "Sempach este locul unei b?t?lii decisive din istoria Elve?iei, purtat? la 9 iulie 1386 �ntre trupele tinerei Confedera?ii Elve?iene ?i o armat? formidabil? a familiei Habsburgilor, condus? de Ducele Leopold al III-lea de Austria. Confedera?ii se aflau �ntr-o situa?ie disperat? �mpotriva l?ncilor dese ale cavalerilor habsburgici, p�n? c�nd, conform legendei na?ionale, eroul elve?ian Arnold von Winkelried s-a aruncat eroic peste o duzin? de l?nci inamice, deschiz�nd o bre?? prin care confedera?ii au p?truns ?i au ob?inut o victorie zdrobitoare. Leopold al III-lea �nsu?i a fost ucis pe c�mpul de lupt?, ceea ce a dus la o sl?bire major? a puterii Habsburgilor �n regiune ?i a asigurat independen?a cantoanelor elve?iene aliate. Ast?zi, un frumos monument comemorativ ?i o capel? vegheaz? asupra acestui teren istoric, onor�nd sacrificiul fondatorilor na?iunii. (Istorie K7 ? Legendele na?ionale ?i independen?a elve?ian?)",
       en: "The Sempach Battlefield, located just outside the charming town of Sempach in Central Switzerland, marks the site of one of the most legendary conflicts in the nation's history. In 1386, the expanding Swiss Confederation clashed again with the powerful Habsburg army, resulting in another decisive Swiss victory that secured the independence of Lucerne and the surrounding cantons. The battle is famously associated with the heroic sacrifice of Arnold von Winkelried, who, according to legend, threw himself onto the enemy's pikes to open a breach for his comrades. Today, a memorial chapel and a stone monument stand on the peaceful fields where the battle took place. The site continues to serve as a vital anchor for Swiss national identity and historical remembrance."
     },
     facts: {
       de: [
         "Sempach erinnert an die Schlacht von 1386.",
         "Der Ort liegt in der Zentralschweiz.",
-        "Er ist wichtig fÃ¼r die Schweizer Erinnerungskultur.",
-        "Die Seelandschaft macht den Ort zusÃ¤tzlich attraktiv.",
+        "Er ist wichtig für die Schweizer Erinnerungskultur.",
+        "Die Seelandschaft macht den Ort zusätzlich attraktiv.",
         "Das Schlachtfeld ist ein historischer Lernort."
       ],
       hu: [
-        "Sempach az 1386-os csatÃ¡ra emlÃ©keztet.",
-        "A helyszÃ­n KÃ¶zÃ©p-SvÃ¡jcban talÃ¡lhatÃ³.",
-        "Fontos a svÃ¡jci emlÃ©kezetkultÃºrÃ¡ban.",
-        "A tÃ³vidÃ©k kÃ¼lÃ¶n vonzerÅ‘t ad a helynek.",
-        "A csatatÃ©r tÃ¶rtÃ©nelmi tanulÃ³helyszÃ­n."
+        "Sempach az 1386-os csatára emlékeztet.",
+        "A helyszín Közép-Svájcban található.",
+        "Fontos a svájci emlékezetkultúrában.",
+        "A tóvidék külön vonzer�?t ad a helynek.",
+        "A csatatér történelmi tanulóhelyszín."
       ],
       ro: [
-        "Sempach aminteÈ™te de bÄƒtÄƒlia din 1386.",
-        "Locul se aflÄƒ Ã®n ElveÈ›ia centralÄƒ.",
-        "Este important pentru memoria istoricÄƒ elveÈ›ianÄƒ.",
-        "Peisajul de lac adaugÄƒ atractivitate locului.",
-        "CÃ¢mpul de luptÄƒ este un loc istoric de Ã®nvÄƒÈ›are."
+        "Sempach aminte�?te de b�?t�?lia din 1386.",
+        "Locul se afl�? în Elve�?ia central�?.",
+        "Este important pentru memoria istoric�? elve�?ian�?.",
+        "Peisajul de lac adaug�? atractivitate locului.",
+        "Câmpul de lupt�? este un loc istoric de înv�?�?are."
       ],
       en: [
         "Sempach recalls the 1386 battle.",
@@ -1798,11 +1798,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Bătălia de la Sempach din 1386 a fost un punct de cotitură esențial pentru independența Confederației Elvețiene.",
-      "Legenda eroului Arnold von Winkelried, care s-a sacrificat pe sulițele inamice, este esențială pentru identitatea elvețiană.",
-      "Ducele Leopold al III-lea de Austria a murit în timpul luptei, suferind o pierdere grea pentru dinastia Habsburgilor.",
-      "Victoria a asigurat dominația și extinderea cantoanelor confederate (în special Lucerna) în regiune.",
-      "Câmpul de luptă găzduiește o capelă comemorativă pitorească decorată cu picturi murale reprezentând scena luptei."
+      "B?t?lia de la Sempach din 1386 a fost un punct de cotitur? esen?ial pentru independen?a Confedera?iei Elve?iene.",
+      "Legenda eroului Arnold von Winkelried, care s-a sacrificat pe suli?ele inamice, este esen?ial? pentru identitatea elve?ian?.",
+      "Ducele Leopold al III-lea de Austria a murit �n timpul luptei, suferind o pierdere grea pentru dinastia Habsburgilor.",
+      "Victoria a asigurat domina?ia ?i extinderea cantoanelor confederate (�n special Lucerna) �n regiune.",
+      "C�mpul de lupt? g?zduie?te o capel? comemorativ? pitoreasc? decorat? cu picturi murale reprezent�nd scena luptei."
     ],
       en: [
         "The Battle of Sempach was fought on July 9, 1386, between the Swiss Confederation and the Habsburgs.",
@@ -1826,38 +1826,38 @@ export const switzerlandCities: POI[] = [
       en: "Augusta Raurica"
     },
     description: {
-      de: "Augusta Raurica ist eine der wichtigsten rÃ¶mischen AusgrabungsstÃ¤tten der Schweiz und macht die Antike im Raum Basel erlebbar. Das Areal umfasst Ruinen, ein Theater und spannende Museumsangebote. Die Anlage ist ideal fÃ¼r Reisende, die ArchÃ¤ologie und gut erklÃ¤rtes Kulturerbe suchen. Augusta Raurica zeigt die lange Geschichte der Region weit vor der modernen Schweiz.",
-      hu: "Az Augusta Raurica SvÃ¡jc egyik legfontosabb rÃ³mai rÃ©gÃ©szeti helyszÃ­ne, Ã©s a Basel kÃ¶rnyÃ©ki Ã³kort kÃ©zzelfoghatÃ³vÃ¡ teszi. A terÃ¼let romokat, szÃ­nhÃ¡zat Ã©s izgalmas mÃºzeumi kÃ­nÃ¡latot foglal magÃ¡ban. KivÃ¡lÃ³ cÃ©lpont azoknak az utazÃ³knak, akik rÃ©gÃ©szetet Ã©s jÃ³l bemutatott Ã¶rÃ¶ksÃ©get keresnek. Az Augusta Raurica a rÃ©giÃ³ hosszÃº tÃ¶rtÃ©netÃ©t mutatja be a modern SvÃ¡jc elÅ‘tti idÅ‘kbÅ‘l.",
-      ro: "Augusta Raurica este unul dintre cele mai importante situri arheologice romane din ElveÈ›ia È™i face antichitatea vizibilÄƒ Ã®n zona Basel. Ansamblul include ruine, un teatru È™i oferte muzeale interesante. Este o destinaÈ›ie idealÄƒ pentru cÄƒlÄƒtorii care cautÄƒ arheologie È™i patrimoniu bine explicat. Augusta Raurica aratÄƒ istoria lungÄƒ a regiunii, cu mult Ã®nainte de ElveÈ›ia modernÄƒ.",
+      de: "Augusta Raurica ist eine der wichtigsten römischen Ausgrabungsstätten der Schweiz und macht die Antike im Raum Basel erlebbar. Das Areal umfasst Ruinen, ein Theater und spannende Museumsangebote. Die Anlage ist ideal für Reisende, die Archäologie und gut erklärtes Kulturerbe suchen. Augusta Raurica zeigt die lange Geschichte der Region weit vor der modernen Schweiz.",
+      hu: "Az Augusta Raurica Svájc egyik legfontosabb római régészeti helyszíne, és a Basel környéki ókort kézzelfoghatóvá teszi. A terület romokat, színházat és izgalmas múzeumi kínálatot foglal magában. Kiváló célpont azoknak az utazóknak, akik régészetet és jól bemutatott örökséget keresnek. Az Augusta Raurica a régió hosszú történetét mutatja be a modern Svájc el�?tti id�?kb�?l.",
+      ro: "Augusta Raurica este unul dintre cele mai importante situri arheologice romane din Elve�?ia �?i face antichitatea vizibil�? în zona Basel. Ansamblul include ruine, un teatru �?i oferte muzeale interesante. Este o destina�?ie ideal�? pentru c�?l�?torii care caut�? arheologie �?i patrimoniu bine explicat. Augusta Raurica arat�? istoria lung�? a regiunii, cu mult înainte de Elve�?ia modern�?.",
       en: "Augusta Raurica is one of Switzerland's most important Roman archaeological sites and brings antiquity to life near Basel. The site includes ruins, a theater, and engaging museum facilities. It is ideal for travelers looking for archaeology and well-presented heritage. Augusta Raurica shows the region's long history long before modern Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Augusta Raurica, situată pe malurile Rinului în apropiere de Basel, este cel mai mare și mai important sit arheologic roman din Elveția, oferind o perspectivă uimitoare asupra vieții din Antichitate. Fondat în anul 44 î.Hr. de comandantul roman Lucius Munatius Plancus, așezarea a crescut rapid într-un oraș prosper, găzduind la apogeul său aproximativ 20.000 de locuitori. Astăzi, vizitatorii pot explora rămășițe impresionante extrem de bine conservate, printre care se numără cel mai mare amfiteatru roman de la nord de Alpi, temple, terme publice și forul orașului. Muzeul sitului prezintă fabulosul „Tezaur de la Kaiseraugst”, cea mai importantă descoperire de argintărie romană din Antichitatea târzie. Reconstituirile fidele, cum ar fi Casa Romană, oferă o experiență educativă profundă pentru familii și pasionați de istorie. (Istorie K6 — Imperiul Roman și viața cotidiană în Antichitate)",
+      ro: "Augusta Raurica, situat? pe malurile Rinului �n apropiere de Basel, este cel mai mare ?i mai important sit arheologic roman din Elve?ia, oferind o perspectiv? uimitoare asupra vie?ii din Antichitate. Fondat �n anul 44 �.Hr. de comandantul roman Lucius Munatius Plancus, a?ezarea a crescut rapid �ntr-un ora? prosper, g?zduind la apogeul s?u aproximativ 20.000 de locuitori. Ast?zi, vizitatorii pot explora r?m??i?e impresionante extrem de bine conservate, printre care se num?r? cel mai mare amfiteatru roman de la nord de Alpi, temple, terme publice ?i forul ora?ului. Muzeul sitului prezint? fabulosul ?Tezaur de la Kaiseraugst?, cea mai important? descoperire de argint?rie roman? din Antichitatea t�rzie. Reconstituirile fidele, cum ar fi Casa Roman?, ofer? o experien?? educativ? profund? pentru familii ?i pasiona?i de istorie. (Istorie K6 ? Imperiul Roman ?i via?a cotidian? �n Antichitate)",
       en: "Augusta Raurica, situated near Basel, is the largest and most extensively excavated Roman archaeological park in Switzerland. Founded around 44 BC by the Roman commander Lucius Munatius Plancus, the settlement grew into a prosperous provincial capital with a population of up to 20,000 people. Today, visitors can wander through an astonishing array of ancient ruins, including the best-preserved Roman theater north of the Alps, the imposing main forum, and an intricate aqueduct system. The adjacent museum houses the legendary Silver Treasure of Kaiseraugst, one of the most significant collections of late Roman silver ever discovered. Augusta Raurica offers an immersive, open-air journey into the daily life, engineering prowess, and culture of the Roman Empire."
     },
     facts: {
       de: [
-        "Augusta Raurica ist eine rÃ¶mische StÃ¤tte bei Basel.",
+        "Augusta Raurica ist eine römische Stätte bei Basel.",
         "Das Areal umfasst ein antikes Theater.",
-        "Es gehÃ¶rt zu den wichtigsten Ausgrabungen der Schweiz.",
-        "Die Anlage vermittelt die Geschichte der RÃ¶merzeit.",
+        "Es gehört zu den wichtigsten Ausgrabungen der Schweiz.",
+        "Die Anlage vermittelt die Geschichte der Römerzeit.",
         "Besucher finden dort Ruinen und Museumsangebote."
       ],
       hu: [
-        "Az Augusta Raurica egy rÃ³mai kori helyszÃ­n Basel kÃ¶zelÃ©ben.",
-        "A terÃ¼let egy antik szÃ­nhÃ¡zat is magÃ¡ban foglal.",
-        "SvÃ¡jc egyik legfontosabb Ã¡satÃ¡si helyszÃ­ne.",
-        "Az Ã©pÃ¼letegyÃ¼ttes a rÃ³mai kor tÃ¶rtÃ©netÃ©t mutatja be.",
-        "A lÃ¡togatÃ³k romokat Ã©s mÃºzeumi kÃ­nÃ¡latot talÃ¡lnak."
+        "Az Augusta Raurica egy római kori helyszín Basel közelében.",
+        "A terület egy antik színházat is magában foglal.",
+        "Svájc egyik legfontosabb ásatási helyszíne.",
+        "Az épületegyüttes a római kor történetét mutatja be.",
+        "A látogatók romokat és múzeumi kínálatot találnak."
       ],
       ro: [
-        "Augusta Raurica este un sit roman lÃ¢ngÄƒ Basel.",
+        "Augusta Raurica este un sit roman lâng�? Basel.",
         "Ansamblul include un teatru antic.",
-        "Este una dintre cele mai importante sÄƒpÄƒturi din ElveÈ›ia.",
-        "Situl prezintÄƒ istoria epocii romane.",
-        "Vizitatorii gÄƒsesc ruine È™i oferte muzeale."
+        "Este una dintre cele mai importante s�?p�?turi din Elve�?ia.",
+        "Situl prezint�? istoria epocii romane.",
+        "Vizitatorii g�?sesc ruine �?i oferte muzeale."
       ],
       en: [
         "Augusta Raurica is a Roman site near Basel.",
@@ -1871,11 +1871,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Augusta Raurica este considerată cea mai veche colonie romană cunoscută fondată pe cursul râului Rin.",
-      "Teatrul roman conservat de pe sit avea o capacitate impresionantă de până la 10.000 de spectatori.",
-      "Situl arheologic prezintă peste 20 de monumente și clădiri antice expuse vizitatorilor în aer liber.",
-      "La fața locului a fost descoperit Tezaurul de la Kaiseraugst, ce conține 270 de piese din argint masiv de o valoare incalculabilă.",
-      "Muzeul include o reconstrucție precisă a unei case patriciene romane, echipată cu mobilier și băi termale."
+      "Augusta Raurica este considerat? cea mai veche colonie roman? cunoscut? fondat? pe cursul r�ului Rin.",
+      "Teatrul roman conservat de pe sit avea o capacitate impresionant? de p�n? la 10.000 de spectatori.",
+      "Situl arheologic prezint? peste 20 de monumente ?i cl?diri antice expuse vizitatorilor �n aer liber.",
+      "La fa?a locului a fost descoperit Tezaurul de la Kaiseraugst, ce con?ine 270 de piese din argint masiv de o valoare incalculabil?.",
+      "Muzeul include o reconstruc?ie precis? a unei case patriciene romane, echipat? cu mobilier ?i b?i termale."
     ],
       en: [
         "Augusta Raurica is the oldest known Roman colony situated on the Rhine river.",
@@ -1894,46 +1894,46 @@ export const switzerlandCities: POI[] = [
     coords: [7.0841, 46.5815],
     name: {
       de: "Schloss Greyerz",
-      hu: "GruyÃ¨res vÃ¡ra",
-      ro: "Castelul GruyÃ¨res",
-      en: "GruyÃ¨res Castle"
+      hu: "Gruyères vára",
+      ro: "Castelul Gruyères",
+      en: "Gruyères Castle"
     },
     description: {
-      de: "Schloss Greyerz steht Ã¼ber dem gleichnamigen mittelalterlichen StÃ¤dtchen und ist ein starkes Symbol der Westschweizer Geschichte. Das Schloss verbindet Wehrarchitektur, Adelstradition und eine eindrucksvolle Lage Ã¼ber dem Tal. In Kombination mit der Altstadt von GruyÃ¨res entsteht ein sehr stimmiges historisches Reiseziel. Der Ort ist besonders attraktiv fÃ¼r Besucher, die SchlÃ¶sser, Alpenrand und alte Stadtbilder suchen.",
-      hu: "A GruyÃ¨res vÃ¡ra a kÃ¶zÃ©pkori nevÃ©t viselÅ‘ kisvÃ¡ros fÃ¶lÃ¶tt Ã¡ll, Ã©s a nyugat-svÃ¡jci tÃ¶rtÃ©nelem erÅ‘s szimbÃ³luma. A vÃ¡r a vÃ©delmi Ã©pÃ­tÃ©szetet, az arisztokrata hagyomÃ¡nyt Ã©s a vÃ¶lgy fÃ¶lÃ¶tti lÃ¡tvÃ¡nyos fekvÃ©st Ã¶tvÃ¶zi. A gruyÃ¨res-i Ã³vÃ¡rossal egyÃ¼tt nagyon egysÃ©ges tÃ¶rtÃ©nelmi utazÃ¡si cÃ©lpontot alkot. KÃ¼lÃ¶nÃ¶sen vonzÃ³ azoknak, akik vÃ¡rakat, alpok szÃ©lÃ©t Ã©s rÃ©gi vÃ¡roskÃ©peket keresnek.",
-      ro: "Castelul GruyÃ¨res se aflÄƒ deasupra oraÈ™ului medieval cu acelaÈ™i nume È™i este un simbol puternic al istoriei din ElveÈ›ia de vest. Castelul combinÄƒ arhitectura defensivÄƒ, tradiÈ›ia nobilÄƒ È™i o poziÈ›ie spectaculoasÄƒ deasupra vÄƒii. ÃŽmpreunÄƒ cu centrul vechi din GruyÃ¨res, creeazÄƒ o destinaÈ›ie istoricÄƒ foarte coerentÄƒ. Locul este atractiv mai ales pentru cei care cautÄƒ castele, marginea Alpilor È™i peisaje urbane vechi.",
-      en: "GruyÃ¨res Castle rises above the medieval town of the same name and is a strong symbol of western Swiss history. The castle combines defensive architecture, noble tradition, and a striking position over the valley. Together with the old town of GruyÃ¨res, it creates a very coherent historic destination. The site is especially appealing to visitors seeking castles, the edge of the Alps, and old cityscapes."
+      de: "Schloss Greyerz steht über dem gleichnamigen mittelalterlichen Städtchen und ist ein starkes Symbol der Westschweizer Geschichte. Das Schloss verbindet Wehrarchitektur, Adelstradition und eine eindrucksvolle Lage über dem Tal. In Kombination mit der Altstadt von Gruyères entsteht ein sehr stimmiges historisches Reiseziel. Der Ort ist besonders attraktiv für Besucher, die Schlösser, Alpenrand und alte Stadtbilder suchen.",
+      hu: "A Gruyères vára a középkori nevét visel�? kisváros fölött áll, és a nyugat-svájci történelem er�?s szimbóluma. A vár a védelmi építészetet, az arisztokrata hagyományt és a völgy fölötti látványos fekvést ötvözi. A gruyères-i óvárossal együtt nagyon egységes történelmi utazási célpontot alkot. Különösen vonzó azoknak, akik várakat, alpok szélét és régi városképeket keresnek.",
+      ro: "Castelul Gruyères se afl�? deasupra ora�?ului medieval cu acela�?i nume �?i este un simbol puternic al istoriei din Elve�?ia de vest. Castelul combin�? arhitectura defensiv�?, tradi�?ia nobil�? �?i o pozi�?ie spectaculoas�? deasupra v�?ii. �?mpreun�? cu centrul vechi din Gruyères, creeaz�? o destina�?ie istoric�? foarte coerent�?. Locul este atractiv mai ales pentru cei care caut�? castele, marginea Alpilor �?i peisaje urbane vechi.",
+      en: "Gruyères Castle rises above the medieval town of the same name and is a strong symbol of western Swiss history. The castle combines defensive architecture, noble tradition, and a striking position over the valley. Together with the old town of Gruyères, it creates a very coherent historic destination. The site is especially appealing to visitors seeking castles, the edge of the Alps, and old cityscapes."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Castelul Gruyères (Château de Gruyères) este o bijuterie arhitecturală maiestuoasă a Elveției, cocoțată pe o colină pitorească ce domină un peisaj verde din cantonul Fribourg. Construit în secolul al XIII-lea, a fost timp de opt secole reședința falnicilor conți de Gruyères, înainte de a fi preluat de oficialii friburghezi și ulterior restaurat romantic în secolul al XIX-lea de către familiile Bovy și Balland. Interiorul său este un amestec fermecător de săli medievale decorate cu pelerine heraldice impresionante, un salon spectaculos pictat de faimosul artist Jean-Baptiste Camille Corot și camere romantice de la 1850. Orașul pietonal din jurul castelului completează experiența magică, fiind inima regiunii faimoase la nivel mondial pentru producția delicioasei brânze Le Gruyère. (Istorie K7 — Dinastiile nobiliare și conservarea patrimoniului)",
-      en: "Gruyères Castle stands as a majestic medieval fortress crowning a lush green hill in the canton of Fribourg, perfectly framing the picturesque, car-free town below. Constructed in the 13th century, the castle served as the seat of the influential Counts of Gruyères for over five centuries. The interior offers a fascinating walk through time, featuring rooms that range from austere medieval kitchens and knight's halls to opulent, romantic salons adorned with delicate 19th-century landscape paintings by Camille Corot. The castle's manicured French-style gardens offer sweeping, panoramic views of the Fribourg Pre-Alps. This historic jewel beautifully encapsulates the transition from a robust defensive stronghold to an elegant aristocratic residence."
+      ro: "Castelul Gruy�res (Ch�teau de Gruy�res) este o bijuterie arhitectural? maiestuoas? a Elve?iei, coco?at? pe o colin? pitoreasc? ce domin? un peisaj verde din cantonul Fribourg. Construit �n secolul al XIII-lea, a fost timp de opt secole re?edin?a falnicilor con?i de Gruy�res, �nainte de a fi preluat de oficialii friburghezi ?i ulterior restaurat romantic �n secolul al XIX-lea de c?tre familiile Bovy ?i Balland. Interiorul s?u este un amestec fermec?tor de s?li medievale decorate cu pelerine heraldice impresionante, un salon spectaculos pictat de faimosul artist Jean-Baptiste Camille Corot ?i camere romantice de la 1850. Ora?ul pietonal din jurul castelului completeaz? experien?a magic?, fiind inima regiunii faimoase la nivel mondial pentru produc?ia delicioasei br�nze Le Gruy�re. (Istorie K7 ? Dinastiile nobiliare ?i conservarea patrimoniului)",
+      en: "Gruy�res Castle stands as a majestic medieval fortress crowning a lush green hill in the canton of Fribourg, perfectly framing the picturesque, car-free town below. Constructed in the 13th century, the castle served as the seat of the influential Counts of Gruy�res for over five centuries. The interior offers a fascinating walk through time, featuring rooms that range from austere medieval kitchens and knight's halls to opulent, romantic salons adorned with delicate 19th-century landscape paintings by Camille Corot. The castle's manicured French-style gardens offer sweeping, panoramic views of the Fribourg Pre-Alps. This historic jewel beautifully encapsulates the transition from a robust defensive stronghold to an elegant aristocratic residence."
     },
     facts: {
       de: [
-        "Schloss Greyerz liegt Ã¼ber der Stadt GruyÃ¨res.",
-        "Der Ort ist fÃ¼r mittelalterliche Geschichte bekannt.",
-        "Die Burg prÃ¤gt das Stadtbild stark.",
-        "Sie ist ein beliebtes Ziel fÃ¼r Kulturerbe-Tourismus.",
-        "Die Lage Ã¼ber dem Tal ist besonders eindrucksvoll."
+        "Schloss Greyerz liegt über der Stadt Gruyères.",
+        "Der Ort ist für mittelalterliche Geschichte bekannt.",
+        "Die Burg prägt das Stadtbild stark.",
+        "Sie ist ein beliebtes Ziel für Kulturerbe-Tourismus.",
+        "Die Lage über dem Tal ist besonders eindrucksvoll."
       ],
       hu: [
-        "A GruyÃ¨res vÃ¡ra a GruyÃ¨res vÃ¡ros fÃ¶lÃ¶tt Ã¡ll.",
-        "A hely kÃ¶zÃ©pkori tÃ¶rtÃ©nelmÃ©rÅ‘l ismert.",
-        "A vÃ¡r erÅ‘sen meghatÃ¡rozza a vÃ¡roskÃ©pet.",
-        "NÃ©pszerÅ± Ã¶rÃ¶ksÃ©gturisztikai cÃ©lpont.",
-        "A vÃ¶lgy fÃ¶lÃ¶tti fekvÃ©s kÃ¼lÃ¶nÃ¶sen lÃ¡tvÃ¡nyos."
+        "A Gruyères vára a Gruyères város fölött áll.",
+        "A hely középkori történelmér�?l ismert.",
+        "A vár er�?sen meghatározza a városképet.",
+        "Népszerű örökségturisztikai célpont.",
+        "A völgy fölötti fekvés különösen látványos."
       ],
       ro: [
-        "Castelul GruyÃ¨res se aflÄƒ deasupra oraÈ™ului GruyÃ¨res.",
-        "Locul este cunoscut pentru istoria medievalÄƒ.",
-        "Castelul defineÈ™te puternic imaginea oraÈ™ului.",
-        "Este o destinaÈ›ie popularÄƒ pentru turismul de patrimoniu.",
-        "PoziÈ›ia deasupra vÄƒii este deosebit de impresionantÄƒ."
+        "Castelul Gruyères se afl�? deasupra ora�?ului Gruyères.",
+        "Locul este cunoscut pentru istoria medieval�?.",
+        "Castelul define�?te puternic imaginea ora�?ului.",
+        "Este o destina�?ie popular�? pentru turismul de patrimoniu.",
+        "Pozi�?ia deasupra v�?ii este deosebit de impresionant�?."
       ],
       en: [
-        "GruyÃ¨res Castle stands above the town of GruyÃ¨res.",
+        "Gruyères Castle stands above the town of Gruyères.",
         "The site is known for its medieval history.",
         "The castle strongly shapes the town's image.",
         "It is a popular heritage tourism destination.",
@@ -1944,18 +1944,18 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Castelul a fost fondat între 1270 și 1282, fiind sediul prestigios al dinastiei Conților de Gruyères.",
-      "Clădirea îmbină elemente pure ale arhitecturii defensive medievale cu decorațiuni rafinate din secolul al XIX-lea.",
-      "Castelul este o atracție turistică de top, oferind o incursiune de opt secole prin arhitectura și cultura locală.",
-      "În interior, vizitatorii pot admira o colecție rară de trei pelerine cavalerești bogat brodate purtate de cavaleri din Ordinul Lânei de Aur.",
-      "Situat deasupra câmpurilor verzi prealpine, satul Gruyères de lângă castel este renumit pentru brânza sa aromată."
+      "Castelul a fost fondat �ntre 1270 ?i 1282, fiind sediul prestigios al dinastiei Con?ilor de Gruy�res.",
+      "Cl?direa �mbin? elemente pure ale arhitecturii defensive medievale cu decora?iuni rafinate din secolul al XIX-lea.",
+      "Castelul este o atrac?ie turistic? de top, oferind o incursiune de opt secole prin arhitectura ?i cultura local?.",
+      "�n interior, vizitatorii pot admira o colec?ie rar? de trei pelerine cavalere?ti bogat brodate purtate de cavaleri din Ordinul L�nei de Aur.",
+      "Situat deasupra c�mpurilor verzi prealpine, satul Gruy�res de l�ng? castel este renumit pentru br�nza sa aromat?."
     ],
       en: [
-        "Gruyères Castle is one of the most famous and most visited historical castles in Switzerland.",
-        "It was owned by the Counts of Gruyères from the 11th century until their bankruptcy in 1554.",
+        "Gruy�res Castle is one of the most famous and most visited historical castles in Switzerland.",
+        "It was owned by the Counts of Gruy�res from the 11th century until their bankruptcy in 1554.",
         "The castle features a collection of exquisite landscape paintings by the famous French artist Camille Corot.",
         "Its architecture beautifully blends stark medieval fortifications with elegant Renaissance and Romantic interiors.",
-        "The castle overlooks the traditional cheese-making region that produces the world-famous Gruyère cheese."
+        "The castle overlooks the traditional cheese-making region that produces the world-famous Gruy�re cheese."
       ]
     },
     image: "/geo-images/switzerland/hist-gruyeres-castle.webp"
@@ -1972,44 +1972,44 @@ export const switzerlandCities: POI[] = [
       en: "Eiger"
     },
     description: {
-      de: "Der Eiger ist einer der berÃ¼hmtesten Berge der Berner Alpen und ein ikonischer Name fÃ¼r den Schweizer Alpentourismus. Seine Nordwand ist unter Bergsteigern weltweit berÃ¼chtigt und hat den Mythos des Gipfels stark geprÃ¤gt. Zusammen mit MÃ¶nch und Jungfrau bildet der Eiger ein unverwechselbares Alpenpanorama. Der Berg steht fÃ¼r Herausforderung, Naturdrama und klassische Schweiz-Bilder zugleich.",
-      hu: "Az Eiger a Berni-Alpok egyik leghÃ­resebb hegye, Ã©s ikonikus nÃ©v a svÃ¡jci alpesi turizmusban. Ã‰szaki fala vilÃ¡gszerte hÃ­rhedt a hegymÃ¡szÃ³k kÃ¶rÃ©ben, Ã©s erÅ‘sen formÃ¡lta a csÃºcs mÃ­toszÃ¡t. A MÃ¶nch Ã©s a Jungfrau mellett az Eiger egy Ã¶sszetÃ©veszthetetlen alpesi panorÃ¡mÃ¡t alkot. A hegy egyszerre jelenti a kihÃ­vÃ¡st, a termÃ©szeti drÃ¡mÃ¡t Ã©s a klasszikus svÃ¡jci kÃ©pi vilÃ¡got.",
-      ro: "Eigerul este unul dintre cei mai faimoÈ™i munÈ›i ai Alpilor Bernezi È™i un nume iconic pentru turismul alpin elveÈ›ian. FaÈ›a sa nordicÄƒ este notorie printre alpiniÈ™ti din Ã®ntreaga lume È™i a contribuit mult la mitul muntelui. ÃŽmpreunÄƒ cu MÃ¶nch È™i Jungfrau, Eigerul formeazÄƒ un peisaj alpin inconfundabil. Muntele Ã®nseamnÄƒ Ã®n acelaÈ™i timp provocare, dramÄƒ naturalÄƒ È™i imagini clasice ale ElveÈ›iei.",
-      en: "The Eiger is one of the most famous mountains in the Bernese Alps and an iconic name in Swiss Alpine tourism. Its north face is notorious among mountaineers worldwide and has shaped the mountain's legend. Together with the MÃ¶nch and Jungfrau, the Eiger creates an unmistakable Alpine panorama. The mountain stands for challenge, natural drama, and classic Swiss imagery at the same time."
+      de: "Der Eiger ist einer der berühmtesten Berge der Berner Alpen und ein ikonischer Name für den Schweizer Alpentourismus. Seine Nordwand ist unter Bergsteigern weltweit berüchtigt und hat den Mythos des Gipfels stark geprägt. Zusammen mit Mönch und Jungfrau bildet der Eiger ein unverwechselbares Alpenpanorama. Der Berg steht für Herausforderung, Naturdrama und klassische Schweiz-Bilder zugleich.",
+      hu: "Az Eiger a Berni-Alpok egyik leghíresebb hegye, és ikonikus név a svájci alpesi turizmusban. �?szaki fala világszerte hírhedt a hegymászók körében, és er�?sen formálta a csúcs mítoszát. A Mönch és a Jungfrau mellett az Eiger egy összetéveszthetetlen alpesi panorámát alkot. A hegy egyszerre jelenti a kihívást, a természeti drámát és a klasszikus svájci képi világot.",
+      ro: "Eigerul este unul dintre cei mai faimo�?i mun�?i ai Alpilor Bernezi �?i un nume iconic pentru turismul alpin elve�?ian. Fa�?a sa nordic�? este notorie printre alpini�?ti din întreaga lume �?i a contribuit mult la mitul muntelui. �?mpreun�? cu Mönch �?i Jungfrau, Eigerul formeaz�? un peisaj alpin inconfundabil. Muntele înseamn�? în acela�?i timp provocare, dram�? natural�? �?i imagini clasice ale Elve�?iei.",
+      en: "The Eiger is one of the most famous mountains in the Bernese Alps and an iconic name in Swiss Alpine tourism. Its north face is notorious among mountaineers worldwide and has shaped the mountain's legend. Together with the Mönch and Jungfrau, the Eiger creates an unmistakable Alpine panorama. The mountain stands for challenge, natural drama, and classic Swiss imagery at the same time."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muntele Eiger, cu o altitudine de 3.967 metri, este unul dintre cei mai faimoși și periculoși munți din Alpii Bernezi. Ceea ce îl face legendar pe plan mondial este peretele său nordic, Nordwand, o stâncă aproape verticală de 1.800 de metri care a fost escaladată cu succes pentru prima dată abia în anul 1938. Silueta sa formidabilă face parte din faimosul trio montan alături de Mönch și Jungfrau, formând un peisaj glaciar de o frumusețe inegalabilă vizibil din zeci de kilometri depărtare. Calea ferată Jungfrau traversează muntele printr-un tunel tăiat direct în stânca solidă, oferind pasagerilor ferestre panoramice scobite în temutul perete nordic. Eiger atrage nu doar alpiniști curajoși, ci și zeci de mii de turiști care îi admiră grandoarea de la o distanță sigură. (Geografie K8 — Munți extremi și alpinism)",
-      en: "The Eiger is a formidable 3,967-meter peak in the Bernese Alps, internationally renowned for its sheer, imposing North Face (Nordwand). Rising almost vertically for 1,800 meters, the North Face represents one of the most ultimate and dangerous challenges in the history of alpine mountaineering, earning it the grim nickname 'Murder Wall' (Mordwand). Despite its treacherous reputation, the mountain's majestic profile, standing alongside the Mönch and the Jungfrau, forms one of the most recognizable and photographed mountain panoramas in the world. For non-climbers, the Eiger provides spectacular viewing opportunities from the nearby resort of Grindelwald and via the Jungfrau Railway, which remarkably tunnels straight through the mountain's solid rock."
+      ro: "Muntele Eiger, cu o altitudine de 3.967 metri, este unul dintre cei mai faimo?i ?i periculo?i mun?i din Alpii Bernezi. Ceea ce �l face legendar pe plan mondial este peretele s?u nordic, Nordwand, o st�nc? aproape vertical? de 1.800 de metri care a fost escaladat? cu succes pentru prima dat? abia �n anul 1938. Silueta sa formidabil? face parte din faimosul trio montan al?turi de M�nch ?i Jungfrau, form�nd un peisaj glaciar de o frumuse?e inegalabil? vizibil din zeci de kilometri dep?rtare. Calea ferat? Jungfrau traverseaz? muntele printr-un tunel t?iat direct �n st�nca solid?, oferind pasagerilor ferestre panoramice scobite �n temutul perete nordic. Eiger atrage nu doar alpini?ti curajo?i, ci ?i zeci de mii de turi?ti care �i admir? grandoarea de la o distan?? sigur?. (Geografie K8 ? Mun?i extremi ?i alpinism)",
+      en: "The Eiger is a formidable 3,967-meter peak in the Bernese Alps, internationally renowned for its sheer, imposing North Face (Nordwand). Rising almost vertically for 1,800 meters, the North Face represents one of the most ultimate and dangerous challenges in the history of alpine mountaineering, earning it the grim nickname 'Murder Wall' (Mordwand). Despite its treacherous reputation, the mountain's majestic profile, standing alongside the M�nch and the Jungfrau, forms one of the most recognizable and photographed mountain panoramas in the world. For non-climbers, the Eiger provides spectacular viewing opportunities from the nearby resort of Grindelwald and via the Jungfrau Railway, which remarkably tunnels straight through the mountain's solid rock."
     },
     facts: {
       de: [
-        "Der Eiger gehÃ¶rt zu den Berner Alpen.",
+        "Der Eiger gehört zu den Berner Alpen.",
         "Seine Nordwand ist weltbekannt.",
         "Der Berg liegt bei Grindelwald und Lauterbrunnen.",
-        "Er bildet mit MÃ¶nch und Jungfrau ein bekanntes Trio.",
+        "Er bildet mit Mönch und Jungfrau ein bekanntes Trio.",
         "Der Eiger ist ein Symbol des Alpinismus."
       ],
       hu: [
-        "Az Eiger a Berni-Alpok rÃ©sze.",
-        "Ã‰szaki fala vilÃ¡ghÃ­rÅ±.",
-        "A hegy Grindelwald Ã©s Lauterbrunnen kÃ¶zelÃ©ben talÃ¡lhatÃ³.",
-        "A MÃ¶nch Ã©s a Jungfrau mellett hÃ­res hÃ¡rmast alkot.",
-        "Az Eiger az alpinizmus egyik jelkÃ©pe."
+        "Az Eiger a Berni-Alpok része.",
+        "�?szaki fala világhírű.",
+        "A hegy Grindelwald és Lauterbrunnen közelében található.",
+        "A Mönch és a Jungfrau mellett híres hármast alkot.",
+        "Az Eiger az alpinizmus egyik jelképe."
       ],
       ro: [
         "Eigerul face parte din Alpii Bernezi.",
-        "FaÈ›a sa nordicÄƒ este celebrÄƒ Ã®n Ã®ntreaga lume.",
-        "Muntele se aflÄƒ lÃ¢ngÄƒ Grindelwald È™i Lauterbrunnen.",
-        "Forma un trio faimos cu MÃ¶nch È™i Jungfrau.",
+        "Fa�?a sa nordic�? este celebr�? în întreaga lume.",
+        "Muntele se afl�? lâng�? Grindelwald �?i Lauterbrunnen.",
+        "Forma un trio faimos cu Mönch �?i Jungfrau.",
         "Eigerul este un simbol al alpinismului."
       ],
       en: [
         "The Eiger is part of the Bernese Alps.",
         "Its north face is famous worldwide.",
         "The mountain lies near Grindelwald and Lauterbrunnen.",
-        "It forms a famous trio with the MÃ¶nch and Jungfrau.",
+        "It forms a famous trio with the Mönch and Jungfrau.",
         "The Eiger is a symbol of mountaineering."
       ]
     },
@@ -2017,11 +2017,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Peretele nordic al muntelui Eiger este unul dintre cele mai înalte și dificile verticale de stâncă din Alpi.",
-      "Altitudinea maximă a muntelui este de 3.967 metri deasupra nivelului mării.",
-      "Tunelul Căii Ferate Jungfrau trece direct prin inima stâncoasă a muntelui Eiger.",
-      "Muntele formează un trio inconfundabil împreună cu vecinii săi, Mönch și Jungfrau.",
-      "Numele Eiger derivă probabil din termenul vechi „Agiger”, care înseamnă ascuțit sau ascuțiș."
+      "Peretele nordic al muntelui Eiger este unul dintre cele mai �nalte ?i dificile verticale de st�nc? din Alpi.",
+      "Altitudinea maxim? a muntelui este de 3.967 metri deasupra nivelului m?rii.",
+      "Tunelul C?ii Ferate Jungfrau trece direct prin inima st�ncoas? a muntelui Eiger.",
+      "Muntele formeaz? un trio inconfundabil �mpreun? cu vecinii s?i, M�nch ?i Jungfrau.",
+      "Numele Eiger deriv? probabil din termenul vechi ?Agiger?, care �nseamn? ascu?it sau ascu?i?."
     ],
       en: [
         "The Eiger stands at an elevation of 3,967 meters above sea level in the Bernese Alps.",
@@ -2045,38 +2045,38 @@ export const switzerlandCities: POI[] = [
       en: "Jungfrau"
     },
     description: {
-      de: "Die Jungfrau ist einer der bekanntesten Berge der Schweiz und ein zentraler Teil der Berner Alpen. Der Gipfel ist eng mit dem Jungfraujoch und dem Berner Oberland verbunden. Die alpine Umgebung zieht Reisende an, die Hochgebirge, Gletscher und Bahnabenteuer suchen. Als Markenname fÃ¼r die Region ist die Jungfrau tief im Schweizer Tourismus verankert.",
-      hu: "A Jungfrau SvÃ¡jc egyik legismertebb hegye, Ã©s a Berni-Alpok kÃ¶zponti rÃ©sze. A csÃºcs szorosan kapcsolÃ³dik a Jungfraujochhoz Ã©s a Berner Oberlandhoz. Az alpesi kÃ¶rnyezet vonzza azokat az utazÃ³kat, akik magashegyet, gleccsert Ã©s vasÃºti kalandot keresnek. RÃ©giÃ³s mÃ¡rkanÃ©vkÃ©nt a Jungfrau mÃ©lyen beÃ¡gyazÃ³dott a svÃ¡jci turizmusba.",
-      ro: "Jungfrau este unul dintre cei mai cunoscuÈ›i munÈ›i ai ElveÈ›iei È™i o piesÄƒ centralÄƒ a Alpilor Bernezi. VÃ¢rful este strÃ¢ns legat de Jungfraujoch È™i de Oberlandul Bernez. Mediul alpin atrage cÄƒlÄƒtori care cautÄƒ munÈ›i Ã®nalÈ›i, gheÈ›ari È™i aventuri feroviare. Ca nume de marcÄƒ pentru regiune, Jungfrau este adÃ¢nc Ã®nrÄƒdÄƒcinat Ã®n turismul elveÈ›ian.",
+      de: "Die Jungfrau ist einer der bekanntesten Berge der Schweiz und ein zentraler Teil der Berner Alpen. Der Gipfel ist eng mit dem Jungfraujoch und dem Berner Oberland verbunden. Die alpine Umgebung zieht Reisende an, die Hochgebirge, Gletscher und Bahnabenteuer suchen. Als Markenname für die Region ist die Jungfrau tief im Schweizer Tourismus verankert.",
+      hu: "A Jungfrau Svájc egyik legismertebb hegye, és a Berni-Alpok központi része. A csúcs szorosan kapcsolódik a Jungfraujochhoz és a Berner Oberlandhoz. Az alpesi környezet vonzza azokat az utazókat, akik magashegyet, gleccsert és vasúti kalandot keresnek. Régiós márkanévként a Jungfrau mélyen beágyazódott a svájci turizmusba.",
+      ro: "Jungfrau este unul dintre cei mai cunoscu�?i mun�?i ai Elve�?iei �?i o pies�? central�? a Alpilor Bernezi. Vârful este strâns legat de Jungfraujoch �?i de Oberlandul Bernez. Mediul alpin atrage c�?l�?tori care caut�? mun�?i înal�?i, ghe�?ari �?i aventuri feroviare. Ca nume de marc�? pentru regiune, Jungfrau este adânc înr�?d�?cinat în turismul elve�?ian.",
       en: "The Jungfrau is one of Switzerland's best-known mountains and a central part of the Bernese Alps. The peak is closely linked with Jungfraujoch and the Bernese Oberland. The Alpine setting attracts travelers seeking high mountains, glaciers, and railway adventures. As a regional brand, the Jungfrau is deeply embedded in Swiss tourism."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Jungfrau, tradus literal „Fecioara”, este un vârf maiestuos de 4.158 de metri situat în Alpii Bernezi, a cărui frumusețe imaculată i-a adus numele poetic. Muntele domină linia orizontului din regiunea Interlaken și este piesa centrală a zonei protejate Jungfrau-Aletsch, primul sit natural alpin inclus în Patrimoniul Mondial UNESCO. Ascensiunea sa a fost realizată pentru prima dată în anul 1811 de către frații Meyer. Jungfrau se remarcă prin versanții săi acoperiți de zăpadă eternă și ghețari abrupți, fiind destinația finală a faimoasei Căi Ferate Jungfrau, care duce turiștii până la șaua montană Jungfraujoch. Este un paradis al sporturilor de iarnă și o sursă continuă de inspirație pentru iubitorii naturii de pretutindeni. (Geografie K7 — Ghețari și situri naturale UNESCO)",
-      en: "The Jungfrau, reaching an elevation of 4,158 meters, is the majestic third peak in the famous Eiger, Mönch, and Jungfrau massif of the Bernese Alps. Its brilliant, ice-covered summit has long been a symbol of untouched alpine purity and sublime natural beauty. In recognition of its outstanding glaciological and geological features, the Jungfrau, along with the Aletsch Glacier, was designated as the first natural UNESCO World Heritage site in the Alps. The mountain is most famously accessed via the Jungfrau Railway, an incredible feat of early 20th-century engineering that transports visitors to the Jungfraujoch saddle. From this elevated vantage point, visitors are treated to breathtaking views of an endless sea of ice and snow."
+      ro: "Jungfrau, tradus literal ?Fecioara?, este un v�rf maiestuos de 4.158 de metri situat �n Alpii Bernezi, a c?rui frumuse?e imaculat? i-a adus numele poetic. Muntele domin? linia orizontului din regiunea Interlaken ?i este piesa central? a zonei protejate Jungfrau-Aletsch, primul sit natural alpin inclus �n Patrimoniul Mondial UNESCO. Ascensiunea sa a fost realizat? pentru prima dat? �n anul 1811 de c?tre fra?ii Meyer. Jungfrau se remarc? prin versan?ii s?i acoperi?i de z?pad? etern? ?i ghe?ari abrup?i, fiind destina?ia final? a faimoasei C?i Ferate Jungfrau, care duce turi?tii p�n? la ?aua montan? Jungfraujoch. Este un paradis al sporturilor de iarn? ?i o surs? continu? de inspira?ie pentru iubitorii naturii de pretutindeni. (Geografie K7 ? Ghe?ari ?i situri naturale UNESCO)",
+      en: "The Jungfrau, reaching an elevation of 4,158 meters, is the majestic third peak in the famous Eiger, M�nch, and Jungfrau massif of the Bernese Alps. Its brilliant, ice-covered summit has long been a symbol of untouched alpine purity and sublime natural beauty. In recognition of its outstanding glaciological and geological features, the Jungfrau, along with the Aletsch Glacier, was designated as the first natural UNESCO World Heritage site in the Alps. The mountain is most famously accessed via the Jungfrau Railway, an incredible feat of early 20th-century engineering that transports visitors to the Jungfraujoch saddle. From this elevated vantage point, visitors are treated to breathtaking views of an endless sea of ice and snow."
     },
     facts: {
       de: [
-        "Die Jungfrau gehÃ¶rt zu den Berner Alpen.",
+        "Die Jungfrau gehört zu den Berner Alpen.",
         "Sie ist eng mit dem Jungfraujoch verbunden.",
         "Der Gipfel ist ein Klassiker des Schweizer Bergtourismus.",
-        "Die Region ist bekannt fÃ¼r Gletscher und Aussichtspunkte.",
-        "Die Jungfrau gehÃ¶rt zu den meistfotografierten Schweizer Bergen."
+        "Die Region ist bekannt für Gletscher und Aussichtspunkte.",
+        "Die Jungfrau gehört zu den meistfotografierten Schweizer Bergen."
       ],
       hu: [
-        "A Jungfrau a Berni-Alpok rÃ©sze.",
-        "Szorosan kapcsolÃ³dik a Jungfraujochhoz.",
-        "A csÃºcs a svÃ¡jci hegyi turizmus klasszikusa.",
-        "A rÃ©giÃ³ gleccsereirÅ‘l Ã©s kilÃ¡tÃ³pontjairÃ³l hÃ­res.",
-        "A Jungfrau SvÃ¡jc egyik legtÃ¶bbet fotÃ³zott hegye."
+        "A Jungfrau a Berni-Alpok része.",
+        "Szorosan kapcsolódik a Jungfraujochhoz.",
+        "A csúcs a svájci hegyi turizmus klasszikusa.",
+        "A régió gleccsereir�?l és kilátópontjairól híres.",
+        "A Jungfrau Svájc egyik legtöbbet fotózott hegye."
       ],
       ro: [
         "Jungfrau face parte din Alpii Bernezi.",
-        "Este strÃ¢ns legatÄƒ de Jungfraujoch.",
-        "VÃ¢rful este un clasic al turismului montan elveÈ›ian.",
-        "Regiunea este cunoscutÄƒ pentru gheÈ›ari È™i puncte de belvedere.",
-        "Jungfrau este unul dintre cei mai fotografiaÈ›i munÈ›i din ElveÈ›ia."
+        "Este strâns legat�? de Jungfraujoch.",
+        "Vârful este un clasic al turismului montan elve�?ian.",
+        "Regiunea este cunoscut�? pentru ghe�?ari �?i puncte de belvedere.",
+        "Jungfrau este unul dintre cei mai fotografia�?i mun�?i din Elve�?ia."
       ],
       en: [
         "The Jungfrau is part of the Bernese Alps.",
@@ -2090,11 +2090,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Jungfrau are o înălțime de 4.158 metri, fiind cel mai înalt munte din trioul Eiger-Mönch-Jungfrau.",
-      "Prima sa ascensiune documentată a avut loc în anul 1811, un eveniment marcant în istoria alpinismului.",
-      "Regiunea montană Jungfrau-Aletsch a fost prima zonă din Alpi declarată Patrimoniu Mondial UNESCO (2001).",
-      "Ghețarul Aletsch, cel mai lung ghețar din Europa, își are originea pe versanții acestui munte.",
-      "Numele muntelui este derivat de la călugărițele (fecioarele) mănăstirii din Interlaken care dețineau pășunile de la poalele sale."
+      "Jungfrau are o �n?l?ime de 4.158 metri, fiind cel mai �nalt munte din trioul Eiger-M�nch-Jungfrau.",
+      "Prima sa ascensiune documentat? a avut loc �n anul 1811, un eveniment marcant �n istoria alpinismului.",
+      "Regiunea montan? Jungfrau-Aletsch a fost prima zon? din Alpi declarat? Patrimoniu Mondial UNESCO (2001).",
+      "Ghe?arul Aletsch, cel mai lung ghe?ar din Europa, �?i are originea pe versan?ii acestui munte.",
+      "Numele muntelui este derivat de la c?lug?ri?ele (fecioarele) m?n?stirii din Interlaken care de?ineau p??unile de la poalele sale."
     ],
       en: [
         "The Jungfrau is one of the highest peaks in the Bernese Alps, standing at 4,158 meters.",
@@ -2118,38 +2118,38 @@ export const switzerlandCities: POI[] = [
       en: "Titlis"
     },
     description: {
-      de: "Der Titlis bei Engelberg ist ein bekannter Aussichts- und Erlebnisberg in der Zentralschweiz. Die markante Gletscherwelt und die Seilbahnen machen ihn zu einem klassischen Ziel fÃ¼r Sommer und Winter. Besucher erleben hier Gletscherpanorama, Schneesicherheit und alpine Freizeitangebote in einem Ort. Der Titlis ist damit ein starker Magnet fÃ¼r den Schweizer Bergtourismus.",
-      hu: "A Titlis Engelberg fÃ¶lÃ¶tt ismert kilÃ¡tÃ³- Ã©s Ã©lmÃ©nyhegy KÃ¶zÃ©p-SvÃ¡jcban. A jellegzetes gleccservilÃ¡g Ã©s a felvonÃ³k miatt klasszikus cÃ©lpont nyÃ¡ron Ã©s tÃ©len is. A lÃ¡togatÃ³k gleccserpanorÃ¡mÃ¡t, hÃ³biztonsÃ¡got Ã©s alpesi szabadidÅ‘s lehetÅ‘sÃ©geket kapnak egy helyen. A Titlis Ã­gy a svÃ¡jci hegyi turizmus erÅ‘s vonzereje.",
-      ro: "Titlisul de lÃ¢ngÄƒ Engelberg este un munte popular pentru panoramÄƒ È™i experienÈ›e Ã®n ElveÈ›ia centralÄƒ. Lumea gheÈ›arilor È™i telecabinele Ã®l fac o destinaÈ›ie clasicÄƒ atÃ¢t vara, cÃ¢t È™i iarna. Vizitatorii primesc aici peisaje glaciare, siguranÈ›a zÄƒpezii È™i activitÄƒÈ›i alpine Ã®ntr-un singur loc. Titlisul este astfel un magnet puternic pentru turismul montan elveÈ›ian.",
+      de: "Der Titlis bei Engelberg ist ein bekannter Aussichts- und Erlebnisberg in der Zentralschweiz. Die markante Gletscherwelt und die Seilbahnen machen ihn zu einem klassischen Ziel für Sommer und Winter. Besucher erleben hier Gletscherpanorama, Schneesicherheit und alpine Freizeitangebote in einem Ort. Der Titlis ist damit ein starker Magnet für den Schweizer Bergtourismus.",
+      hu: "A Titlis Engelberg fölött ismert kilátó- és élményhegy Közép-Svájcban. A jellegzetes gleccservilág és a felvonók miatt klasszikus célpont nyáron és télen is. A látogatók gleccserpanorámát, hóbiztonságot és alpesi szabadid�?s lehet�?ségeket kapnak egy helyen. A Titlis így a svájci hegyi turizmus er�?s vonzereje.",
+      ro: "Titlisul de lâng�? Engelberg este un munte popular pentru panoram�? �?i experien�?e în Elve�?ia central�?. Lumea ghe�?arilor �?i telecabinele îl fac o destina�?ie clasic�? atât vara, cât �?i iarna. Vizitatorii primesc aici peisaje glaciare, siguran�?a z�?pezii �?i activit�?�?i alpine într-un singur loc. Titlisul este astfel un magnet puternic pentru turismul montan elve�?ian.",
       en: "Titlis near Engelberg is a well-known viewpoint and activity mountain in Central Switzerland. Its glacier landscape and cable cars make it a classic destination in both summer and winter. Visitors get glacier panoramas, reliable snow conditions, and Alpine leisure activities in one place. Titlis is therefore a strong magnet for Swiss mountain tourism."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muntele Titlis, cu o înălțime de 3.238 metri, este cel mai înalt vârf din centrul Elveției și o destinație montană de prim rang accesibilă din stațiunea Engelberg. Accesul pe vârful acoperit permanent de gheață se face spectaculos prin Titlis Rotair, prima telecabină rotativă din lume, care oferă o panoramă uluitoare de 360 de grade asupra Alpilor în timpul urcării. La stația superioară, vizitatorii pot experimenta Titlis Cliff Walk, cel mai înalt pod suspendat din Europa, ce se înalță amețitor la peste 3.000 de metri deasupra nivelului mării. Pe lângă infrastructura turistică modernă, muntele adăpostește o peșteră glaciară naturală și o varietate de trasee pentru schi și snowboarding cu zăpadă garantată din octombrie până în mai. Este o minune a ingineriei elvețiene îmbinată cu peisaje montane dramatice. (Științele Naturii K6 — Relief alpin și inginerie pe cablu)",
+      ro: "Muntele Titlis, cu o �n?l?ime de 3.238 metri, este cel mai �nalt v�rf din centrul Elve?iei ?i o destina?ie montan? de prim rang accesibil? din sta?iunea Engelberg. Accesul pe v�rful acoperit permanent de ghea?? se face spectaculos prin Titlis Rotair, prima telecabin? rotativ? din lume, care ofer? o panoram? uluitoare de 360 de grade asupra Alpilor �n timpul urc?rii. La sta?ia superioar?, vizitatorii pot experimenta Titlis Cliff Walk, cel mai �nalt pod suspendat din Europa, ce se �nal?? ame?itor la peste 3.000 de metri deasupra nivelului m?rii. Pe l�ng? infrastructura turistic? modern?, muntele ad?poste?te o pe?ter? glaciar? natural? ?i o varietate de trasee pentru schi ?i snowboarding cu z?pad? garantat? din octombrie p�n? �n mai. Este o minune a ingineriei elve?iene �mbinat? cu peisaje montane dramatice. (?tiin?ele Naturii K6 ? Relief alpin ?i inginerie pe cablu)",
       en: "Mount Titlis, towering at 3,238 meters above the resort town of Engelberg, is the highest peak in Central Switzerland and a premier destination for glacier excursions. Renowned for its year-round snow cover, the mountain offers a dramatic, high-alpine environment that is easily accessible to visitors. The journey to the summit is an experience in itself, featuring the Titlis Rotair, the world's first fully rotating cable car, which provides a sweeping 360-degree panorama of steep rock faces and deep crevasses. At the summit, thrill-seekers can cross the Titlis Cliff Walk, Europe's highest suspension bridge, or explore the magical, blue-lit Ice Cave carved deep into the glacier. Titlis perfectly combines extreme alpine scenery with accessible, world-class tourism infrastructure."
     },
     facts: {
       de: [
         "Der Titlis liegt bei Engelberg.",
-        "Der Berg ist fÃ¼r seine Gletscherwelt bekannt.",
+        "Der Berg ist für seine Gletscherwelt bekannt.",
         "Seilbahnen machen den Gipfel gut erreichbar.",
-        "Titlis ist ein klassisches Ziel fÃ¼r Ganzjahrestourismus.",
+        "Titlis ist ein klassisches Ziel für Ganzjahrestourismus.",
         "Die Region ist stark auf Alpen- und Schneetourismus ausgerichtet."
       ],
       hu: [
-        "A Titlis Engelberg mellett talÃ¡lhatÃ³.",
-        "A hegy hÃ­res gleccservilÃ¡gÃ¡rÃ³l.",
-        "A felvonÃ³k jÃ³l megkÃ¶zelÃ­thetÅ‘vÃ© teszik a csÃºcsot.",
-        "A Titlis klasszikus egÃ©sz Ã©ves turisztikai cÃ©lpont.",
-        "A rÃ©giÃ³ erÅ‘sen az alpesi Ã©s havas turizmusra Ã©pÃ¼l."
+        "A Titlis Engelberg mellett található.",
+        "A hegy híres gleccservilágáról.",
+        "A felvonók jól megközelíthet�?vé teszik a csúcsot.",
+        "A Titlis klasszikus egész éves turisztikai célpont.",
+        "A régió er�?sen az alpesi és havas turizmusra épül."
       ],
       ro: [
-        "Titlisul se aflÄƒ lÃ¢ngÄƒ Engelberg.",
-        "Muntele este cunoscut pentru lumea sa glaciarÄƒ.",
-        "Telecabinele fac vÃ¢rful uÈ™or accesibil.",
-        "Titlisul este o destinaÈ›ie clasicÄƒ pentru turismul de tot anul.",
-        "Regiunea este orientatÄƒ puternic spre turismul alpin È™i de iarnÄƒ."
+        "Titlisul se afl�? lâng�? Engelberg.",
+        "Muntele este cunoscut pentru lumea sa glaciar�?.",
+        "Telecabinele fac vârful u�?or accesibil.",
+        "Titlisul este o destina�?ie clasic�? pentru turismul de tot anul.",
+        "Regiunea este orientat�? puternic spre turismul alpin �?i de iarn�?."
       ],
       en: [
         "Titlis is located near Engelberg.",
@@ -2163,11 +2163,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Telecabina Titlis Rotair a fost prima gondolă complet rotativă din lume, inaugurată în 1992.",
-      "Podul suspendat Titlis Cliff Walk este ancorat la 3.041 metri altitudine, deasupra unui abis stâncos.",
-      "Ghețarul Titlis permite practicarea sporturilor de iarnă pe o perioadă extinsă, adesea peste opt luni pe an.",
-      "Muntele domină stațiunea Engelberg, renumită pentru mănăstirea sa benedictină veche de 900 de ani.",
-      "La vârf a fost excavată o peșteră de gheață vizitabilă, cu pasaje luminate în inima ghețarului."
+      "Telecabina Titlis Rotair a fost prima gondol? complet rotativ? din lume, inaugurat? �n 1992.",
+      "Podul suspendat Titlis Cliff Walk este ancorat la 3.041 metri altitudine, deasupra unui abis st�ncos.",
+      "Ghe?arul Titlis permite practicarea sporturilor de iarn? pe o perioad? extins?, adesea peste opt luni pe an.",
+      "Muntele domin? sta?iunea Engelberg, renumit? pentru m?n?stirea sa benedictin? veche de 900 de ani.",
+      "La v�rf a fost excavat? o pe?ter? de ghea?? vizitabil?, cu pasaje luminate �n inima ghe?arului."
     ],
       en: [
         "Mount Titlis is the highest peak in Central Switzerland, reaching an altitude of 3,238 meters.",
@@ -2186,43 +2186,43 @@ export const switzerlandCities: POI[] = [
     coords: [8.9700, 45.9850],
     name: {
       de: "Luganersee",
-      hu: "Lugano-tÃ³",
+      hu: "Lugano-tó",
       ro: "Lacul Lugano",
       en: "Lake Lugano"
     },
     description: {
-      de: "Der Luganersee liegt zwischen der Schweiz und Italien und prÃ¤gt die sÃ¼dliche Ferienlandschaft des Tessins. Sein warmes Klima, die Uferorte und die Bergkulisse machen ihn zu einem besonders attraktiven Reiseziel. Die Seenpromenaden von Lugano und den umliegenden Ortschaften schaffen einen sehr mediterranen Eindruck. Der See ist ideal fÃ¼r Bootstouren, SpaziergÃ¤nge und genussorientierte Reisen.",
-      hu: "A Lugano-tÃ³ SvÃ¡jc Ã©s OlaszorszÃ¡g kÃ¶zÃ¶tt fekszik, Ã©s meghatÃ¡rozza a Tessin dÃ©li Ã¼dÃ¼lÅ‘vidÃ©kÃ©t. Enyhe klÃ­mÃ¡ja, a part menti telepÃ¼lÃ©sek Ã©s a hegyek lÃ¡tvÃ¡nya kÃ¼lÃ¶nÃ¶sen vonzÃ³ Ãºti cÃ©llÃ¡ teszik. Lugano Ã©s a kÃ¶rnyezÅ‘ helyek tÃ³parti sÃ©tÃ¡nyai erÅ‘sen mediterrÃ¡n hangulatot keltenek. A tÃ³ ideÃ¡lis hajÃ³kirÃ¡ndulÃ¡sokhoz, sÃ©tÃ¡khoz Ã©s Ã©lmÃ©nykÃ¶zpontÃº utazÃ¡sokhoz.",
-      ro: "Lacul Lugano se aflÄƒ Ã®ntre ElveÈ›ia È™i Italia È™i defineÈ™te peisajul de vacanÈ›Äƒ din sudul Ticino. Clima caldÄƒ, localitÄƒÈ›ile de pe mal È™i decorul montan Ã®l fac o destinaÈ›ie deosebit de atractivÄƒ. Promenadele de pe malul apei din Lugano È™i din localitÄƒÈ›ile din jur creeazÄƒ o atmosferÄƒ puternic mediteraneanÄƒ. Lacul este ideal pentru excursii cu barca, plimbÄƒri È™i cÄƒlÄƒtorii orientate spre relaxare.",
+      de: "Der Luganersee liegt zwischen der Schweiz und Italien und prägt die südliche Ferienlandschaft des Tessins. Sein warmes Klima, die Uferorte und die Bergkulisse machen ihn zu einem besonders attraktiven Reiseziel. Die Seenpromenaden von Lugano und den umliegenden Ortschaften schaffen einen sehr mediterranen Eindruck. Der See ist ideal für Bootstouren, Spaziergänge und genussorientierte Reisen.",
+      hu: "A Lugano-tó Svájc és Olaszország között fekszik, és meghatározza a Tessin déli üdül�?vidékét. Enyhe klímája, a part menti települések és a hegyek látványa különösen vonzó úti céllá teszik. Lugano és a környez�? helyek tóparti sétányai er�?sen mediterrán hangulatot keltenek. A tó ideális hajókirándulásokhoz, sétákhoz és élményközpontú utazásokhoz.",
+      ro: "Lacul Lugano se afl�? între Elve�?ia �?i Italia �?i define�?te peisajul de vacan�?�? din sudul Ticino. Clima cald�?, localit�?�?ile de pe mal �?i decorul montan îl fac o destina�?ie deosebit de atractiv�?. Promenadele de pe malul apei din Lugano �?i din localit�?�?ile din jur creeaz�? o atmosfer�? puternic mediteranean�?. Lacul este ideal pentru excursii cu barca, plimb�?ri �?i c�?l�?torii orientate spre relaxare.",
       en: "Lake Lugano lies between Switzerland and Italy and shapes the southern holiday landscape of Ticino. Its warm climate, shoreline towns, and mountain backdrop make it a particularly attractive destination. The lakeside promenades in Lugano and nearby towns create a distinctly Mediterranean feel. The lake is ideal for boat trips, walks, and experience-focused travel."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Lacul Lugano (Lago di Lugano sau Ceresio) este un corp de apă cristalină de formă neregulată și complexă, situat la granița dintre Elveția și Italia. Mărginit de munți împăduriți care coboară abrupt în apă, precum Monte Generoso și Monte San Salvatore, lacul are un farmec mediteranean distinct datorită climei sale blânde care permite creșterea arborilor subtropicali pe țărmuri. Orașul Lugano, principala așezare de pe mal, este o destinație cosmopolită recunoscută pentru eleganța sa. Pe lac se găsește și pitorescul sat pescăresc Gandria, accesibil doar pe jos sau cu barca. Navigația cu vaporașe albe este o tradiție veche, oferind turiștilor cea mai bună modalitate de a explora țărmurile stâncoase și stațiunile liniștite care mărginesc aceste ape glaciare. (Geografie K7 — Lacuri transfrontaliere și microclimate)",
-      en: "Lake Lugano is a stunningly intricate, highly branched glacial lake situated on the border between southern Switzerland and northern Italy. Surrounded by the steep, forested slopes of the Prealps, including Monte San Salvatore and Monte Brè, the lake offers a dramatic landscape that feels distinctively Mediterranean. The region is blessed with a remarkably mild climate, allowing palm trees, citrus, and vibrant subtropical flora to thrive along its shores. Picturesque fishing villages and the elegant city of Lugano line its banks, offering charming promenades and world-class culinary experiences. Boat cruises are highly popular, providing the perfect vantage point to appreciate the seamless blend of Swiss precision and vibrant Italian culture that defines the area."
+      ro: "Lacul Lugano (Lago di Lugano sau Ceresio) este un corp de ap? cristalin? de form? neregulat? ?i complex?, situat la grani?a dintre Elve?ia ?i Italia. M?rginit de mun?i �mp?duri?i care coboar? abrupt �n ap?, precum Monte Generoso ?i Monte San Salvatore, lacul are un farmec mediteranean distinct datorit? climei sale bl�nde care permite cre?terea arborilor subtropicali pe ??rmuri. Ora?ul Lugano, principala a?ezare de pe mal, este o destina?ie cosmopolit? recunoscut? pentru elegan?a sa. Pe lac se g?se?te ?i pitorescul sat pesc?resc Gandria, accesibil doar pe jos sau cu barca. Naviga?ia cu vapora?e albe este o tradi?ie veche, oferind turi?tilor cea mai bun? modalitate de a explora ??rmurile st�ncoase ?i sta?iunile lini?tite care m?rginesc aceste ape glaciare. (Geografie K7 ? Lacuri transfrontaliere ?i microclimate)",
+      en: "Lake Lugano is a stunningly intricate, highly branched glacial lake situated on the border between southern Switzerland and northern Italy. Surrounded by the steep, forested slopes of the Prealps, including Monte San Salvatore and Monte Br�, the lake offers a dramatic landscape that feels distinctively Mediterranean. The region is blessed with a remarkably mild climate, allowing palm trees, citrus, and vibrant subtropical flora to thrive along its shores. Picturesque fishing villages and the elegant city of Lugano line its banks, offering charming promenades and world-class culinary experiences. Boat cruises are highly popular, providing the perfect vantage point to appreciate the seamless blend of Swiss precision and vibrant Italian culture that defines the area."
     },
     facts: {
       de: [
         "Der Luganersee liegt im Tessin.",
         "Er erstreckt sich bis nach Italien.",
         "Die Stadt Lugano liegt direkt am See.",
-        "Das Klima ist fÃ¼r die Schweiz relativ mild.",
+        "Das Klima ist für die Schweiz relativ mild.",
         "Der See ist ein wichtiger Freizeit- und Ausflugsraum."
       ],
       hu: [
-        "A Lugano-tÃ³ Tessinben talÃ¡lhatÃ³.",
-        "A tÃ³ OlaszorszÃ¡gig benyÃºlik.",
-        "Lugano vÃ¡rosa kÃ¶zvetlenÃ¼l a partjÃ¡n fekszik.",
-        "A klÃ­ma a svÃ¡jci viszonyokhoz kÃ©pest enyhe.",
-        "A tÃ³ fontos szabadidÅ‘s Ã©s kirÃ¡ndulÃ³terÃ¼let."
+        "A Lugano-tó Tessinben található.",
+        "A tó Olaszországig benyúlik.",
+        "Lugano városa közvetlenül a partján fekszik.",
+        "A klíma a svájci viszonyokhoz képest enyhe.",
+        "A tó fontos szabadid�?s és kirándulóterület."
       ],
       ro: [
-        "Lacul Lugano se aflÄƒ Ã®n Ticino.",
-        "Lacul se extinde pÃ¢nÄƒ Ã®n Italia.",
-        "OraÈ™ul Lugano este situat direct pe mal.",
-        "Clima este relativ blÃ¢ndÄƒ pentru ElveÈ›ia.",
-        "Lacul este o zonÄƒ importantÄƒ de recreere È™i excursii."
+        "Lacul Lugano se afl�? în Ticino.",
+        "Lacul se extinde pân�? în Italia.",
+        "Ora�?ul Lugano este situat direct pe mal.",
+        "Clima este relativ blând�? pentru Elve�?ia.",
+        "Lacul este o zon�? important�? de recreere �?i excursii."
       ],
       en: [
         "Lake Lugano is located in Ticino.",
@@ -2236,11 +2236,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Lacul Lugano este împărțit între cantonul elvețian Ticino (63%) și regiunea italiană Lombardia (37%).",
-      "Forma sa extrem de ramificată se datorează originii sale glaciare din timpul Epocii de Gheață.",
-      "Adâncimea maximă a lacului atinge aproape 290 de metri.",
-      "Lacul are o enclavă italiană pe malul său elvețian, numită Campione d'Italia.",
-      "Zona beneficiază de un microclimat care susține vegetație luxuriantă, o raritate la această latitudine alpină."
+      "Lacul Lugano este �mp?r?it �ntre cantonul elve?ian Ticino (63%) ?i regiunea italian? Lombardia (37%).",
+      "Forma sa extrem de ramificat? se datoreaz? originii sale glaciare din timpul Epocii de Ghea??.",
+      "Ad�ncimea maxim? a lacului atinge aproape 290 de metri.",
+      "Lacul are o enclav? italian? pe malul s?u elve?ian, numit? Campione d'Italia.",
+      "Zona beneficiaz? de un microclimat care sus?ine vegeta?ie luxuriant?, o raritate la aceast? latitudine alpin?."
     ],
       en: [
         "Lake Lugano is shared by two countries, with roughly 63% of its surface area in Switzerland and 37% in Italy.",
@@ -2259,43 +2259,43 @@ export const switzerlandCities: POI[] = [
     coords: [9.3500, 47.5500],
     name: {
       de: "Bodensee",
-      hu: "Bodeni-tÃ³",
+      hu: "Bodeni-tó",
       ro: "Lacul Constance",
       en: "Lake Constance"
     },
     description: {
-      de: "Der Bodensee ist einer der groÃŸen Seen Mitteleuropas und prÃ¤gt die Nordostschweiz mit Wasser, UferstÃ¤dten und weitem Blick. Schweizer Orte wie Kreuzlingen und Romanshorn profitieren von der offenen Seelandschaft und der NÃ¤he zu Deutschland und Ã–sterreich. Der See ist wichtig fÃ¼r Freizeit, Schifffahrt und grenzÃ¼berschreitende MobilitÃ¤t. Als Reiseziel verbindet er NaturgefÃ¼hl mit urbanen Uferorten.",
-      hu: "A Bodeni-tÃ³ KÃ¶zÃ©p-EurÃ³pa egyik nagy tava, Ã©s vÃ­zfelÃ¼lettel, partmenti vÃ¡rosokkal Ã©s tÃ¡gas kilÃ¡tÃ¡ssal hatÃ¡rozza meg Ã‰szakkelet-SvÃ¡jcot. Olyan svÃ¡jci helyek, mint Kreuzlingen Ã©s Romanshorn, az OlaszorszÃ¡ghoz vezetÅ‘ nyÃ­lt tÃ©r Ã©s a nÃ©met-osztrÃ¡k kÃ¶zelsÃ©g elÅ‘nyeit Ã©lvezik. A tÃ³ fontos a szabadidÅ‘, a hajÃ³zÃ¡s Ã©s a hatÃ¡rokon Ã¡tnyÃºlÃ³ mobilitÃ¡s szempontjÃ¡bÃ³l. UtazÃ¡si cÃ©lkÃ©nt a termÃ©szetÃ©rzetet a parti vÃ¡rosokkal Ã¶tvÃ¶zi.",
-      ro: "Lacul Constance este unul dintre marile lacuri ale Europei Centrale È™i defineÈ™te nord-estul ElveÈ›iei prin apÄƒ, oraÈ™e de pe mal È™i priveliÈ™ti largi. LocalitÄƒÈ›i elveÈ›iene precum Kreuzlingen È™i Romanshorn beneficiazÄƒ de peisajul lacustru deschis È™i de apropierea de Germania È™i Austria. Lacul este important pentru agrement, navigaÈ›ie È™i mobilitate transfrontalierÄƒ. Ca destinaÈ›ie, combinÄƒ senzaÈ›ia de naturÄƒ cu oraÈ™ele de pe mal.",
+      de: "Der Bodensee ist einer der gro�?en Seen Mitteleuropas und prägt die Nordostschweiz mit Wasser, Uferstädten und weitem Blick. Schweizer Orte wie Kreuzlingen und Romanshorn profitieren von der offenen Seelandschaft und der Nähe zu Deutschland und �?sterreich. Der See ist wichtig für Freizeit, Schifffahrt und grenzüberschreitende Mobilität. Als Reiseziel verbindet er Naturgefühl mit urbanen Uferorten.",
+      hu: "A Bodeni-tó Közép-Európa egyik nagy tava, és vízfelülettel, partmenti városokkal és tágas kilátással határozza meg �?szakkelet-Svájcot. Olyan svájci helyek, mint Kreuzlingen és Romanshorn, az Olaszországhoz vezet�? nyílt tér és a német-osztrák közelség el�?nyeit élvezik. A tó fontos a szabadid�?, a hajózás és a határokon átnyúló mobilitás szempontjából. Utazási célként a természetérzetet a parti városokkal ötvözi.",
+      ro: "Lacul Constance este unul dintre marile lacuri ale Europei Centrale �?i define�?te nord-estul Elve�?iei prin ap�?, ora�?e de pe mal �?i priveli�?ti largi. Localit�?�?i elve�?iene precum Kreuzlingen �?i Romanshorn beneficiaz�? de peisajul lacustru deschis �?i de apropierea de Germania �?i Austria. Lacul este important pentru agrement, naviga�?ie �?i mobilitate transfrontalier�?. Ca destina�?ie, combin�? senza�?ia de natur�? cu ora�?ele de pe mal.",
       en: "Lake Constance is one of Central Europe's major lakes and shapes northeastern Switzerland with water, shoreline towns, and wide-open views. Swiss places such as Kreuzlingen and Romanshorn benefit from the open lakescape and their proximity to Germany and Austria. The lake matters for leisure, shipping, and cross-border mobility. As a destination, it combines a nature feel with waterfront towns."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Lacul Constance (Bodensee) este unul dintre cele mai mari și mai importante lacuri din Europa Centrală, acționând ca o graniță naturală spectaculoasă între Elveția, Germania și Austria. Partea elvețiană a lacului, situată în principal în cantonul Thurgau, este renumită pentru livezile de meri înflorite, orașele portuare pitorești și piste de ciclism extrem de bine întreținute. Apa sa alimentează cursul superior al fluviului Rin, care părăsește lacul în apropiere de orașul Stein am Rhein. Datorită volumului său enorm, lacul acționează ca un rezervor uriaș de apă potabilă pentru milioane de europeni și este un habitat vital pentru nenumărate specii de păsări acvatice. Este un centru major de agrement pentru navigație, sporturi nautice și turism cultural. (Geografie K8 — Hidrografie europeană și granițe naturale)",
+      ro: "Lacul Constance (Bodensee) este unul dintre cele mai mari ?i mai importante lacuri din Europa Central?, ac?ion�nd ca o grani?? natural? spectaculoas? �ntre Elve?ia, Germania ?i Austria. Partea elve?ian? a lacului, situat? �n principal �n cantonul Thurgau, este renumit? pentru livezile de meri �nflorite, ora?ele portuare pitore?ti ?i piste de ciclism extrem de bine �ntre?inute. Apa sa alimenteaz? cursul superior al fluviului Rin, care p?r?se?te lacul �n apropiere de ora?ul Stein am Rhein. Datorit? volumului s?u enorm, lacul ac?ioneaz? ca un rezervor uria? de ap? potabil? pentru milioane de europeni ?i este un habitat vital pentru nenum?rate specii de p?s?ri acvatice. Este un centru major de agrement pentru naviga?ie, sporturi nautice ?i turism cultural. (Geografie K8 ? Hidrografie european? ?i grani?e naturale)",
       en: "Lake Constance (Bodensee) is a vast and majestic body of water situated at the northern foot of the Alps, bordered by Switzerland, Germany, and Austria. As the third-largest freshwater lake in Central Europe, it serves as an immense natural reservoir and a vital recreational playground. The Swiss shoreline, stretching through the cantons of Thurgau and St. Gallen, is characterized by rolling hills, expansive apple orchards, and charming historic harbor towns like Romanshorn and Kreuzlingen. The lake is a paradise for sailing, windsurfing, and cycling, featuring a popular bike path that completely encircles its shores. With its expansive horizons and rich cultural heritage, Lake Constance is a vibrant, cross-border region connecting three nations."
     },
     facts: {
       de: [
         "Der Bodensee liegt im Nordosten der Schweiz.",
         "Schweizer Uferorte sind unter anderem Kreuzlingen und Romanshorn.",
-        "Der See ist mit Deutschland und Ã–sterreich verbunden.",
-        "Er ist ein wichtiger Raum fÃ¼r Schifffahrt und Freizeit.",
+        "Der See ist mit Deutschland und �?sterreich verbunden.",
+        "Er ist ein wichtiger Raum für Schifffahrt und Freizeit.",
         "Die Uferlandschaft ist flach und sehr offen."
       ],
       hu: [
-        "A Bodeni-tÃ³ Ã‰szakkelet-SvÃ¡jcban talÃ¡lhatÃ³.",
-        "SvÃ¡jci part menti vÃ¡rosok pÃ©ldÃ¡ul Kreuzlingen Ã©s Romanshorn.",
-        "A tÃ³ NÃ©metorszÃ¡ghoz Ã©s AusztriÃ¡hoz is kapcsolÃ³dik.",
-        "Fontos hajÃ³zÃ¡si Ã©s szabadidÅ‘s terÃ¼let.",
-        "A partvidÃ©k lapos Ã©s nagyon nyitott."
+        "A Bodeni-tó �?szakkelet-Svájcban található.",
+        "Svájci part menti városok például Kreuzlingen és Romanshorn.",
+        "A tó Németországhoz és Ausztriához is kapcsolódik.",
+        "Fontos hajózási és szabadid�?s terület.",
+        "A partvidék lapos és nagyon nyitott."
       ],
       ro: [
-        "Lacul Constance se aflÄƒ Ã®n nord-estul ElveÈ›iei.",
-        "OraÈ™e elveÈ›iene de pe mal sunt Kreuzlingen È™i Romanshorn.",
-        "Lacul este conectat cu Germania È™i Austria.",
-        "Este o zonÄƒ importantÄƒ pentru navigaÈ›ie È™i agrement.",
-        "Peisajul de pe mal este plat È™i foarte deschis."
+        "Lacul Constance se afl�? în nord-estul Elve�?iei.",
+        "Ora�?e elve�?iene de pe mal sunt Kreuzlingen �?i Romanshorn.",
+        "Lacul este conectat cu Germania �?i Austria.",
+        "Este o zon�? important�? pentru naviga�?ie �?i agrement.",
+        "Peisajul de pe mal este plat �?i foarte deschis."
       ],
       en: [
         "Lake Constance lies in northeastern Switzerland.",
@@ -2309,11 +2309,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Lacul Constance este al treilea lac ca mărime din Europa Centrală, după Balaton și Geneva.",
-      "Apele sale reprezintă un bazin de apă potabilă de o calitate excepțională, furnizând apă pentru peste 4 milioane de oameni.",
-      "Lacul este format din două părți principale conectate printr-un segment al râului Rin: Obersee și Untersee.",
-      "Mii de bicicliști străbat anual traseul Bodensee-Radweg, care înconjoară întregul perimetru al lacului.",
-      "Regiunea riverană a lacului are o economie puternic bazată pe turism, agricultură și pomicultură."
+      "Lacul Constance este al treilea lac ca m?rime din Europa Central?, dup? Balaton ?i Geneva.",
+      "Apele sale reprezint? un bazin de ap? potabil? de o calitate excep?ional?, furniz�nd ap? pentru peste 4 milioane de oameni.",
+      "Lacul este format din dou? p?r?i principale conectate printr-un segment al r�ului Rin: Obersee ?i Untersee.",
+      "Mii de bicicli?ti str?bat anual traseul Bodensee-Radweg, care �nconjoar? �ntregul perimetru al lacului.",
+      "Regiunea riveran? a lacului are o economie puternic bazat? pe turism, agricultur? ?i pomicultur?."
     ],
       en: [
         "Lake Constance is the third-largest lake in Central Europe, shared by Switzerland, Germany, and Austria.",
@@ -2337,38 +2337,38 @@ export const switzerlandCities: POI[] = [
       en: "Rhine"
     },
     description: {
-      de: "Der Rhein ist einer der wichtigsten FlÃ¼sse Europas und bildet in der Schweiz weite Teile der Nord- und Westgrenze. Zwischen Basel, Schaffhausen und dem Bodensee prÃ¤gt er StÃ¤dte, Industrie und Landschaft auf unterschiedliche Weise. Der Fluss ist fÃ¼r Handel, Schifffahrt und Wasserkraft von zentraler Bedeutung. Gleichzeitig schafft er sehr beliebte Ufer- und AusflugsrÃ¤ume mit starker Anziehungskraft.",
-      hu: "A Rajna EurÃ³pa egyik legfontosabb folyÃ³ja, Ã©s SvÃ¡jcban az Ã©szaki Ã©s nyugati hatÃ¡r nagy rÃ©szÃ©t meghatÃ¡rozza. Basel, Schaffhausen Ã©s a Bodeni-tÃ³ kÃ¶zÃ¶tt kÃ¼lÃ¶nbÃ¶zÅ‘ mÃ³don formÃ¡lja a vÃ¡rosokat, az ipart Ã©s a tÃ¡jat. A folyÃ³ kÃ¶zponti jelentÅ‘sÃ©gÅ± a kereskedelem, a hajÃ³zÃ¡s Ã©s a vÃ­zenergia szempontjÃ¡bÃ³l. Ugyanakkor nagyon nÃ©pszerÅ± partmenti Ã©s kirÃ¡ndulÃ³terÃ¼leteket is lÃ©trehoz.",
-      ro: "Rinul este unul dintre cele mai importante rÃ¢uri ale Europei È™i formeazÄƒ Ã®n ElveÈ›ia o mare parte a graniÈ›ei nordice È™i vestice. ÃŽntre Basel, Schaffhausen È™i Lacul Constance, el modeleazÄƒ Ã®n mod diferit oraÈ™ele, industria È™i peisajul. RÃ¢ul este esenÈ›ial pentru comerÈ›, navigaÈ›ie È™i energie hidroelectricÄƒ. ÃŽn acelaÈ™i timp, creeazÄƒ zone foarte populare de promenadÄƒ È™i excursii.",
+      de: "Der Rhein ist einer der wichtigsten Flüsse Europas und bildet in der Schweiz weite Teile der Nord- und Westgrenze. Zwischen Basel, Schaffhausen und dem Bodensee prägt er Städte, Industrie und Landschaft auf unterschiedliche Weise. Der Fluss ist für Handel, Schifffahrt und Wasserkraft von zentraler Bedeutung. Gleichzeitig schafft er sehr beliebte Ufer- und Ausflugsräume mit starker Anziehungskraft.",
+      hu: "A Rajna Európa egyik legfontosabb folyója, és Svájcban az északi és nyugati határ nagy részét meghatározza. Basel, Schaffhausen és a Bodeni-tó között különböz�? módon formálja a városokat, az ipart és a tájat. A folyó központi jelent�?ségű a kereskedelem, a hajózás és a vízenergia szempontjából. Ugyanakkor nagyon népszerű partmenti és kirándulóterületeket is létrehoz.",
+      ro: "Rinul este unul dintre cele mai importante râuri ale Europei �?i formeaz�? în Elve�?ia o mare parte a grani�?ei nordice �?i vestice. �?ntre Basel, Schaffhausen �?i Lacul Constance, el modeleaz�? în mod diferit ora�?ele, industria �?i peisajul. Râul este esen�?ial pentru comer�?, naviga�?ie �?i energie hidroelectric�?. �?n acela�?i timp, creeaz�? zone foarte populare de promenad�? �?i excursii.",
       en: "The Rhine is one of Europe's most important rivers and forms much of Switzerland's northern and western boundary. Between Basel, Schaffhausen, and Lake Constance, it shapes cities, industry, and landscapes in different ways. The river is central to trade, shipping, and hydropower. At the same time, it creates highly popular riverside and excursion areas."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Fluviul Rin este una dintre cele mai lungi și mai vitale artere navigabile din Europa, avându-și izvoarele adânc ascunse în inima Alpilor elvețieni, în cantonul Graubünden. Cursul său superior (Vorderrhein și Hinterrhein) străbate peisaje montane dramatice înainte de a se vărsa în Lacul Constance. La ieșirea din lac, fluviul formează Cascada Rinului, cea mai puternică cădere de apă de pe continent, oferind un spectacol natural uluitor. Mai târziu, Rinul devine frontiera naturală dintre Elveția și Germania, ajungând la Basel, unde portul orașului asigură singura rută maritimă comercială a Elveției către Marea Nordului. Fluviul a modelat secole la rând istoria, comerțul și dezvoltarea așezărilor elvețiene riverane. (Geografie K7 — Fluviile majore ale Europei și comerț)",
-      en: "The Rhine is one of Europe's longest and most historically significant rivers, originating in the soaring heights of the Swiss Alps in the canton of Graubünden. It flows through diverse Swiss landscapes, passing through Lake Constance and dramatically plunging over the spectacular Rhine Falls near Schaffhausen before shaping the border with Germany. The river has been a critical artery of trade, culture, and transport since the Roman Empire, deeply influencing the economic development of cities like Basel, which operates Switzerland's only major port. Beyond its industrial importance, the Rhine is celebrated for its natural beauty, offering pristine sections for swimming, leisurely river cruises, and vibrant riverside promenades. The river serves as a flowing testament to Switzerland's connection to the broader European continent."
+      ro: "Fluviul Rin este una dintre cele mai lungi ?i mai vitale artere navigabile din Europa, av�ndu-?i izvoarele ad�nc ascunse �n inima Alpilor elve?ieni, �n cantonul Graub�nden. Cursul s?u superior (Vorderrhein ?i Hinterrhein) str?bate peisaje montane dramatice �nainte de a se v?rsa �n Lacul Constance. La ie?irea din lac, fluviul formeaz? Cascada Rinului, cea mai puternic? c?dere de ap? de pe continent, oferind un spectacol natural uluitor. Mai t�rziu, Rinul devine frontiera natural? dintre Elve?ia ?i Germania, ajung�nd la Basel, unde portul ora?ului asigur? singura rut? maritim? comercial? a Elve?iei c?tre Marea Nordului. Fluviul a modelat secole la r�nd istoria, comer?ul ?i dezvoltarea a?ez?rilor elve?iene riverane. (Geografie K7 ? Fluviile majore ale Europei ?i comer?)",
+      en: "The Rhine is one of Europe's longest and most historically significant rivers, originating in the soaring heights of the Swiss Alps in the canton of Graub�nden. It flows through diverse Swiss landscapes, passing through Lake Constance and dramatically plunging over the spectacular Rhine Falls near Schaffhausen before shaping the border with Germany. The river has been a critical artery of trade, culture, and transport since the Roman Empire, deeply influencing the economic development of cities like Basel, which operates Switzerland's only major port. Beyond its industrial importance, the Rhine is celebrated for its natural beauty, offering pristine sections for swimming, leisurely river cruises, and vibrant riverside promenades. The river serves as a flowing testament to Switzerland's connection to the broader European continent."
     },
     facts: {
       de: [
-        "Der Rhein ist ein zentraler europÃ¤ischer Fluss.",
-        "Er flieÃŸt durch oder entlang mehrerer Schweizer Regionen.",
+        "Der Rhein ist ein zentraler europäischer Fluss.",
+        "Er flie�?t durch oder entlang mehrerer Schweizer Regionen.",
         "Basel ist einer der wichtigsten Rheinorte der Schweiz.",
-        "Der Fluss ist fÃ¼r Schifffahrt und Industrie wichtig.",
+        "Der Fluss ist für Schifffahrt und Industrie wichtig.",
         "Viele Promenaden und Ausflugsorte liegen am Rhein."
       ],
       hu: [
-        "A Rajna kÃ¶zponti eurÃ³pai folyÃ³.",
-        "TÃ¶bb svÃ¡jci rÃ©giÃ³n Ã¡thalad vagy azok mentÃ©n fut.",
-        "Basel az egyik legfontosabb svÃ¡jci Rajna-parti vÃ¡ros.",
-        "A folyÃ³ fontos a hajÃ³zÃ¡s Ã©s az ipar szÃ¡mÃ¡ra.",
-        "Sok sÃ©tÃ¡ny Ã©s kirÃ¡ndulÃ³hely talÃ¡lhatÃ³ a Rajna mentÃ©n."
+        "A Rajna központi európai folyó.",
+        "Több svájci régión áthalad vagy azok mentén fut.",
+        "Basel az egyik legfontosabb svájci Rajna-parti város.",
+        "A folyó fontos a hajózás és az ipar számára.",
+        "Sok sétány és kirándulóhely található a Rajna mentén."
       ],
       ro: [
-        "Rinul este un rÃ¢u central al Europei.",
-        "Trece prin sau pe lÃ¢ngÄƒ mai multe regiuni elveÈ›iene.",
-        "Basel este unul dintre cele mai importante oraÈ™e de pe Rin din ElveÈ›ia.",
-        "RÃ¢ul este important pentru navigaÈ›ie È™i industrie.",
-        "Multe promenade È™i locuri de excursie se aflÄƒ pe Rin."
+        "Rinul este un râu central al Europei.",
+        "Trece prin sau pe lâng�? mai multe regiuni elve�?iene.",
+        "Basel este unul dintre cele mai importante ora�?e de pe Rin din Elve�?ia.",
+        "Râul este important pentru naviga�?ie �?i industrie.",
+        "Multe promenade �?i locuri de excursie se afl�? pe Rin."
       ],
       en: [
         "The Rhine is a central European river.",
@@ -2382,14 +2382,14 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Rinul își începe călătoria în Alpii Elvețieni, fluviul izvorând din zona Pasului Oberalp.",
-      "Lungimea sa totală este de 1.230 de kilometri, vărsându-se în Marea Nordului în Olanda.",
-      "Cascada Rinului din Elveția este cea mai mare și mai puternică cascadă din Europa ca debit de apă.",
-      "Portul Basel de pe Rin este singurul port maritim comercial al țării, facilitând importurile vitale.",
-      "Fluviul marchează frontierele Elveției cu statele vecine Liechtenstein, Austria, Germania și Franța."
+      "Rinul �?i �ncepe c?l?toria �n Alpii Elve?ieni, fluviul izvor�nd din zona Pasului Oberalp.",
+      "Lungimea sa total? este de 1.230 de kilometri, v?rs�ndu-se �n Marea Nordului �n Olanda.",
+      "Cascada Rinului din Elve?ia este cea mai mare ?i mai puternic? cascad? din Europa ca debit de ap?.",
+      "Portul Basel de pe Rin este singurul port maritim comercial al ??rii, facilit�nd importurile vitale.",
+      "Fluviul marcheaz? frontierele Elve?iei cu statele vecine Liechtenstein, Austria, Germania ?i Fran?a."
     ],
       en: [
-        "The Rhine originates in the Swiss Alps, specifically from the Tomasee in the canton of Graubünden.",
+        "The Rhine originates in the Swiss Alps, specifically from the Tomasee in the canton of Graub�nden.",
         "It forms the majestic Rhine Falls near Schaffhausen, which is the most powerful waterfall in Europe.",
         "The river serves as a major international shipping route, connecting landlocked Switzerland to the North Sea.",
         "Basel relies on the Rhine for its port, making it the only city in Switzerland with direct maritime access.",
@@ -2410,38 +2410,38 @@ export const switzerlandCities: POI[] = [
       en: "Sihlwald"
     },
     description: {
-      de: "Der Sihlwald liegt nahe ZÃ¼rich und gilt als eines der wichtigsten Waldgebiete im Schweizer Mittelland. Der Mischwald bietet einen starken Kontrast zur nahen GroÃŸstadt und ist ein beliebtes Ziel fÃ¼r SpaziergÃ¤nge und Naturpausen. Als Schutz- und Erholungsraum zeigt er, wie eng Stadt und Wald in der Schweiz zusammenliegen. Der Sihlwald ist damit ein guter Ort fÃ¼r sanften Naturtourismus und kurze Auszeiten im GrÃ¼nen.",
-      hu: "A Sihlwald ZÃ¼rich kÃ¶zelÃ©ben talÃ¡lhatÃ³, Ã©s a svÃ¡jci kÃ¶zÃ©pfÃ¶ld egyik legfontosabb erdÅ‘terÃ¼lete. A vegyes erdÅ‘ erÅ‘s kontrasztot kÃ©pez a kÃ¶zeli nagyvÃ¡rossal, ezÃ©rt kedvelt hely sÃ©tÃ¡khoz Ã©s termÃ©szetkÃ¶zeli pihenÃ©shez. VÃ©dett Ã©s rekreÃ¡ciÃ³s tÃ©rkÃ©nt jÃ³l mutatja, milyen kÃ¶zel van egymÃ¡shoz vÃ¡ros Ã©s erdÅ‘ SvÃ¡jcban. A Sihlwald ideÃ¡lis a lÃ¡gy termÃ©szetturizmushoz Ã©s a zÃ¶ldben eltÃ¶ltÃ¶tt rÃ¶vid szÃ¼netekhez.",
-      ro: "Sihlwaldul se aflÄƒ lÃ¢ngÄƒ ZÃ¼rich È™i este una dintre cele mai importante zone forestiere din platoul elveÈ›ian. PÄƒdurea mixtÄƒ creeazÄƒ un contrast puternic cu oraÈ™ul mare din apropiere È™i este o destinaÈ›ie popularÄƒ pentru plimbÄƒri È™i pauze Ã®n naturÄƒ. Ca zonÄƒ protejatÄƒ È™i de recreere, aratÄƒ cÃ¢t de strÃ¢ns coexistÄƒ oraÈ™ul È™i pÄƒdurea Ã®n ElveÈ›ia. Sihlwaldul este astfel un loc bun pentru turism lent È™i scurte escapade verzi.",
+      de: "Der Sihlwald liegt nahe Zürich und gilt als eines der wichtigsten Waldgebiete im Schweizer Mittelland. Der Mischwald bietet einen starken Kontrast zur nahen Gro�?stadt und ist ein beliebtes Ziel für Spaziergänge und Naturpausen. Als Schutz- und Erholungsraum zeigt er, wie eng Stadt und Wald in der Schweiz zusammenliegen. Der Sihlwald ist damit ein guter Ort für sanften Naturtourismus und kurze Auszeiten im Grünen.",
+      hu: "A Sihlwald Zürich közelében található, és a svájci középföld egyik legfontosabb erd�?területe. A vegyes erd�? er�?s kontrasztot képez a közeli nagyvárossal, ezért kedvelt hely sétákhoz és természetközeli pihenéshez. Védett és rekreációs térként jól mutatja, milyen közel van egymáshoz város és erd�? Svájcban. A Sihlwald ideális a lágy természetturizmushoz és a zöldben eltöltött rövid szünetekhez.",
+      ro: "Sihlwaldul se afl�? lâng�? Zürich �?i este una dintre cele mai importante zone forestiere din platoul elve�?ian. P�?durea mixt�? creeaz�? un contrast puternic cu ora�?ul mare din apropiere �?i este o destina�?ie popular�? pentru plimb�?ri �?i pauze în natur�?. Ca zon�? protejat�? �?i de recreere, arat�? cât de strâns coexist�? ora�?ul �?i p�?durea în Elve�?ia. Sihlwaldul este astfel un loc bun pentru turism lent �?i scurte escapade verzi.",
       en: "Sihlwald lies near Zurich and is one of the most important forest areas in the Swiss Plateau. The mixed forest creates a strong contrast to the nearby big city and is a popular place for walks and nature breaks. As a protected and recreational area, it shows how closely city and forest sit together in Switzerland. Sihlwald is therefore a great place for soft nature tourism and short green escapes."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Pădurea Sihlwald, situată la doar o scurtă călătorie de agitatul oraș Zürich, este o rezervație naturală unică ce a fost lăsată să se dezvolte sălbatic și neperturbată din anul 2000. În trecut, această pădure vastă de foioase și conifere furniza lemnul esențial pentru oraș, dar astăzi se mândrește cu statutul de primul „Parc Natural de Descoperire” (Naturerlebnispark) recunoscut național în Elveția. Râul Sihl șerpuiește prin centrul său, susținând un ecosistem bogat în specii de floră și faună sălbatică. Arborii căzuți sunt lăsați la sol pentru a încuraja biodiversitatea fungilor și a insectelor, recreând un peisaj autentic de codru antic. Această sălbăticie urbană este extrem de prețuită de localnici pentru drumeții, relaxare și educație ecologică. (Biologie K6 — Ecosisteme forestiere și conservare)",
+      ro: "P?durea Sihlwald, situat? la doar o scurt? c?l?torie de agitatul ora? Z�rich, este o rezerva?ie natural? unic? ce a fost l?sat? s? se dezvolte s?lbatic ?i neperturbat? din anul 2000. �n trecut, aceast? p?dure vast? de foioase ?i conifere furniza lemnul esen?ial pentru ora?, dar ast?zi se m�ndre?te cu statutul de primul ?Parc Natural de Descoperire? (Naturerlebnispark) recunoscut na?ional �n Elve?ia. R�ul Sihl ?erpuie?te prin centrul s?u, sus?in�nd un ecosistem bogat �n specii de flor? ?i faun? s?lbatic?. Arborii c?zu?i sunt l?sa?i la sol pentru a �ncuraja biodiversitatea fungilor ?i a insectelor, recre�nd un peisaj autentic de codru antic. Aceast? s?lb?ticie urban? este extrem de pre?uit? de localnici pentru drume?ii, relaxare ?i educa?ie ecologic?. (Biologie K6 ? Ecosisteme forestiere ?i conservare)",
       en: "The Sihlwald, located just south of Zurich, is a sprawling, ancient beech and mixed deciduous forest that stands as the largest continuous stretch of woodland in the Swiss Plateau. For centuries, it served as the primary source of timber and firewood for the rapidly growing city of Zurich, meticulously managed by the local government. In a profound shift toward conservation, commercial forestry was completely halted in the year 2000, allowing the area to transition back into a primeval, unmanaged wilderness. Today, the Sihlwald is recognized as a 'Nature Discovery Park', providing a vital sanctuary for rare flora and fauna while offering city dwellers an immersive, untamed natural escape. It vividly demonstrates Switzerland's commitment to returning exploited landscapes back to the wild."
     },
     facts: {
       de: [
-        "Der Sihlwald liegt nahe ZÃ¼rich.",
+        "Der Sihlwald liegt nahe Zürich.",
         "Er ist ein bedeutendes Waldgebiet im Schweizer Mittelland.",
         "Der Wald ist ein beliebtes Naherholungsgebiet.",
         "Er bietet starke Kontraste zur Stadt.",
-        "Sihlwald ist gut fÃ¼r SpaziergÃ¤nge und Naturbeobachtung geeignet."
+        "Sihlwald ist gut für Spaziergänge und Naturbeobachtung geeignet."
       ],
       hu: [
-        "A Sihlwald ZÃ¼rich kÃ¶zelÃ©ben talÃ¡lhatÃ³.",
-        "Fontos erdÅ‘terÃ¼let a svÃ¡jci kÃ¶zÃ©pfÃ¶ldÃ¶n.",
-        "NÃ©pszerÅ± kÃ¶zeli pihenÅ‘terÃ¼let.",
-        "ErÅ‘s kontrasztot ad a vÃ¡roshoz kÃ©pest.",
-        "JÃ³ hely sÃ©tÃ¡khoz Ã©s termÃ©szetmegfigyelÃ©shez."
+        "A Sihlwald Zürich közelében található.",
+        "Fontos erd�?terület a svájci középföldön.",
+        "Népszerű közeli pihen�?terület.",
+        "Er�?s kontrasztot ad a városhoz képest.",
+        "Jó hely sétákhoz és természetmegfigyeléshez."
       ],
       ro: [
-        "Sihlwaldul se aflÄƒ lÃ¢ngÄƒ ZÃ¼rich.",
-        "Este o zonÄƒ forestierÄƒ importantÄƒ pe Platoul ElveÈ›ian.",
-        "Este o zonÄƒ popularÄƒ de recreere localÄƒ.",
-        "OferÄƒ un contrast puternic faÈ›Äƒ de oraÈ™.",
-        "Este potrivit pentru plimbÄƒri È™i observarea naturii."
+        "Sihlwaldul se afl�? lâng�? Zürich.",
+        "Este o zon�? forestier�? important�? pe Platoul Elve�?ian.",
+        "Este o zon�? popular�? de recreere local�?.",
+        "Ofer�? un contrast puternic fa�?�? de ora�?.",
+        "Este potrivit pentru plimb�?ri �?i observarea naturii."
       ],
       en: [
         "Sihlwald lies near Zurich.",
@@ -2455,11 +2455,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Sihlwald este cea mai mare zonă contiguă de pădure mixtă de foioase din regiunea centrală a Elveției.",
-      "Din anul 2000, exploatarea forestieră comercială a fost complet oprită pentru a permite naturii să se vindece.",
-      "Pădurea a primit prestigiosul statut de Parc Natural Elvețian, garantând protecția sa pe termen lung.",
-      "În centrul pentru vizitatori sunt organizate programe educaționale extinse despre importanța lemnului mort în ecosistem.",
-      "Pădurea era denumită „Pădurea orașului Zürich”, deținând un rol vital în istoria încălzirii locuințelor din metropolă."
+      "Sihlwald este cea mai mare zon? contigu? de p?dure mixt? de foioase din regiunea central? a Elve?iei.",
+      "Din anul 2000, exploatarea forestier? comercial? a fost complet oprit? pentru a permite naturii s? se vindece.",
+      "P?durea a primit prestigiosul statut de Parc Natural Elve?ian, garant�nd protec?ia sa pe termen lung.",
+      "�n centrul pentru vizitatori sunt organizate programe educa?ionale extinse despre importan?a lemnului mort �n ecosistem.",
+      "P?durea era denumit? ?P?durea ora?ului Z�rich?, de?in�nd un rol vital �n istoria �nc?lzirii locuin?elor din metropol?."
     ],
       en: [
         "The Sihlwald is the largest contiguous deciduous forest located in the Swiss Plateau.",
@@ -2478,20 +2478,20 @@ export const switzerlandCities: POI[] = [
     coords: [7.0577, 46.9894],
     name: {
       de: "St. Petersinsel",
-      hu: "Szent PÃ©ter-sziget",
-      ro: "Insula SfÃ¢ntul Petru",
+      hu: "Szent Péter-sziget",
+      ro: "Insula Sfântul Petru",
       en: "St. Peter's Island"
     },
     description: {
-      de: "Die St. Petersinsel im Bielersee ist eine der bekanntesten Inseln der Schweiz und ein ruhiger Natur- und Geschichtsort. Sie ist durch Jean-Jacques Rousseau literarisch berÃ¼hmt geworden und zieht heute Besucher fÃ¼r SpaziergÃ¤nge und Ausblicke an. Die schmale Landzunge mit ihrer besonderen Lage macht den Ort einzigartig. Als Ausflugsziel verbindet die Insel Seenlandschaft, Kulturgeschichte und stille Erholung.",
-      hu: "A Bieli-tÃ³ban fekvÅ‘ Szent PÃ©ter-sziget SvÃ¡jc egyik legismertebb szigete, Ã©s nyugodt termÃ©szeti valamint tÃ¶rtÃ©nelmi helyszÃ­n. Jean-Jacques Rousseau rÃ©vÃ©n irodalmi hÃ­rnevet is szerzett, Ã©s ma sÃ©tÃ¡kra Ã©s kilÃ¡tÃ¡sra Ã©rkezÅ‘ lÃ¡togatÃ³kat vonz. A keskeny fÃ¶ldnyelv kÃ¼lÃ¶nleges fekvÃ©se egyedivÃ© teszi a helyet. KirÃ¡ndulÃ³helykÃ©nt a sziget a tÃ³vidÃ©ket, a kulturÃ¡lis tÃ¶rtÃ©nelmet Ã©s a csendes pihenÃ©st kapcsolja Ã¶ssze.",
-      ro: "Insula SfÃ¢ntul Petru din lacul Biel este una dintre cele mai cunoscute insule ale ElveÈ›iei È™i un loc liniÈ™tit, de naturÄƒ È™i istorie. A devenit celebrÄƒ È™i literar datoritÄƒ lui Jean-Jacques Rousseau È™i atrage astÄƒzi vizitatori pentru plimbÄƒri È™i priveliÈ™ti. Istmul Ã®ngust È™i poziÈ›ia specialÄƒ o fac un loc unic. Ca destinaÈ›ie de excursie, insula combinÄƒ peisajul de lac, istoria culturalÄƒ È™i relaxarea liniÈ™titÄƒ.",
+      de: "Die St. Petersinsel im Bielersee ist eine der bekanntesten Inseln der Schweiz und ein ruhiger Natur- und Geschichtsort. Sie ist durch Jean-Jacques Rousseau literarisch berühmt geworden und zieht heute Besucher für Spaziergänge und Ausblicke an. Die schmale Landzunge mit ihrer besonderen Lage macht den Ort einzigartig. Als Ausflugsziel verbindet die Insel Seenlandschaft, Kulturgeschichte und stille Erholung.",
+      hu: "A Bieli-tóban fekv�? Szent Péter-sziget Svájc egyik legismertebb szigete, és nyugodt természeti valamint történelmi helyszín. Jean-Jacques Rousseau révén irodalmi hírnevet is szerzett, és ma sétákra és kilátásra érkez�? látogatókat vonz. A keskeny földnyelv különleges fekvése egyedivé teszi a helyet. Kirándulóhelyként a sziget a tóvidéket, a kulturális történelmet és a csendes pihenést kapcsolja össze.",
+      ro: "Insula Sfântul Petru din lacul Biel este una dintre cele mai cunoscute insule ale Elve�?iei �?i un loc lini�?tit, de natur�? �?i istorie. A devenit celebr�? �?i literar datorit�? lui Jean-Jacques Rousseau �?i atrage ast�?zi vizitatori pentru plimb�?ri �?i priveli�?ti. Istmul îngust �?i pozi�?ia special�? o fac un loc unic. Ca destina�?ie de excursie, insula combin�? peisajul de lac, istoria cultural�? �?i relaxarea lini�?tit�?.",
       en: "St. Peter's Island in Lake Biel is one of Switzerland's best-known islands and a calm place of nature and history. It became literarily famous through Jean-Jacques Rousseau and now draws visitors for walks and views. The narrow peninsula-like shape and special location make it unique. As an excursion spot, the island combines lakeside scenery, cultural history, and quiet relaxation."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Insula Sfântului Petru (St. Petersinsel), aflată în mijlocul Lacului Biel, nu este de fapt o insulă adevărată, ci o peninsulă alungită, accesibilă printr-un pod de pământ romantic împădurit. Renumele ei global a fost asigurat de filozoful Jean-Jacques Rousseau, care a petrecut aici câteva săptămâni în anul 1765, declarându-le cele mai fericite zile din viața sa. Pe insulă tronează o fostă mănăstire cluniacensă fondată în secolul al XII-lea, transformată astăzi într-un han și restaurant pitoresc. Zona este o rezervație naturală strict protejată, caracterizată prin liniște absolută, stufărișuri abundente și pajiști ce găzduiesc specii rare de păsări. Atmosfera sa idilică oferă o evadare perfectă în natură pentru cei care caută inspirație și relaxare departe de orașe. (Literatura și Arte K7 — Romantismul și refugiile scriitorilor)",
+      ro: "Insula Sf�ntului Petru (St. Petersinsel), aflat? �n mijlocul Lacului Biel, nu este de fapt o insul? adev?rat?, ci o peninsul? alungit?, accesibil? printr-un pod de p?m�nt romantic �mp?durit. Renumele ei global a fost asigurat de filozoful Jean-Jacques Rousseau, care a petrecut aici c�teva s?pt?m�ni �n anul 1765, declar�ndu-le cele mai fericite zile din via?a sa. Pe insul? troneaz? o fost? m?n?stire cluniacens? fondat? �n secolul al XII-lea, transformat? ast?zi �ntr-un han ?i restaurant pitoresc. Zona este o rezerva?ie natural? strict protejat?, caracterizat? prin lini?te absolut?, stuf?ri?uri abundente ?i paji?ti ce g?zduiesc specii rare de p?s?ri. Atmosfera sa idilic? ofer? o evadare perfect? �n natur? pentru cei care caut? inspira?ie ?i relaxare departe de ora?e. (Literatura ?i Arte K7 ? Romantismul ?i refugiile scriitorilor)",
       en: "St. Peter's Island, a serene peninsula extending into the picturesque Lake Biel, is a place of exceptional natural beauty and profound literary history. The island gained international fame in the 18th century when the Enlightenment philosopher Jean-Jacques Rousseau sought refuge here, later describing his time on the island as the happiest of his life. Today, it remains a tranquil, car-free sanctuary featuring ancient oak forests, lush vineyards, and a beautifully preserved former Cluniac monastery that now serves as an elegant hotel. The island is accessible by boat or via a long, scenic pedestrian path known as the Heidenweg, making it a highly popular destination for peaceful walks and reflection. It stands as a perfect marriage of pristine Swiss nature and rich cultural heritage."
     },
     facts: {
@@ -2503,18 +2503,18 @@ export const switzerlandCities: POI[] = [
         "Die Insel verbindet Natur- und Kulturgeschichte."
       ],
       hu: [
-        "A Szent PÃ©ter-sziget a Bieli-tÃ³ban talÃ¡lhatÃ³.",
-        "Rousseau rÃ©vÃ©n irodalmi hÃ­rÅ±.",
-        "NÃ©pszerÅ± kirÃ¡ndulÃ³hely.",
-        "A tÃ¡j nyugodt Ã©s vÃ­zben gazdag.",
-        "A sziget a termÃ©szeti Ã©s kulturÃ¡lis tÃ¶rtÃ©nelmet Ã¶tvÃ¶zi."
+        "A Szent Péter-sziget a Bieli-tóban található.",
+        "Rousseau révén irodalmi hírű.",
+        "Népszerű kirándulóhely.",
+        "A táj nyugodt és vízben gazdag.",
+        "A sziget a természeti és kulturális történelmet ötvözi."
       ],
       ro: [
-        "Insula SfÃ¢ntul Petru se aflÄƒ Ã®n lacul Biel.",
-        "Este cunoscutÄƒ literar datoritÄƒ lui Rousseau.",
-        "Este o destinaÈ›ie popularÄƒ pentru excursii.",
-        "Peisajul este liniÈ™tit È™i bogat Ã®n apÄƒ.",
-        "Insula combinÄƒ istoria naturalÄƒ È™i cea culturalÄƒ."
+        "Insula Sfântul Petru se afl�? în lacul Biel.",
+        "Este cunoscut�? literar datorit�? lui Rousseau.",
+        "Este o destina�?ie popular�? pentru excursii.",
+        "Peisajul este lini�?tit �?i bogat în ap�?.",
+        "Insula combin�? istoria natural�? �?i cea cultural�?."
       ],
       en: [
         "St. Peter's Island lies in Lake Biel.",
@@ -2528,11 +2528,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Insula Sfântului Petru este accesibilă la pas datorită unui canal de pământ format în secolul al XIX-lea.",
-      "Filozoful și scriitorul iluminist Jean-Jacques Rousseau a imortalizat frumusețea locului în scrierile sale.",
-      "Clădirea principală a insulei a fost inițial o mănăstire benedictină fondată în 1127.",
-      "Insula nu permite traficul motorizat, fiind o oază de liniște destinată exclusiv pietonilor și bicicliștilor.",
-      "Vegetația și zonele umede ale insulei sunt un paradis ornitologic, protejând zeci de specii de păsări."
+      "Insula Sf�ntului Petru este accesibil? la pas datorit? unui canal de p?m�nt format �n secolul al XIX-lea.",
+      "Filozoful ?i scriitorul iluminist Jean-Jacques Rousseau a imortalizat frumuse?ea locului �n scrierile sale.",
+      "Cl?direa principal? a insulei a fost ini?ial o m?n?stire benedictin? fondat? �n 1127.",
+      "Insula nu permite traficul motorizat, fiind o oaz? de lini?te destinat? exclusiv pietonilor ?i bicicli?tilor.",
+      "Vegeta?ia ?i zonele umede ale insulei sunt un paradis ornitologic, protej�nd zeci de specii de p?s?ri."
     ],
       en: [
         "Despite its name, St. Peter's Island is actually a peninsula, connected to the mainland by the Heidenweg path.",
@@ -2550,44 +2550,44 @@ export const switzerlandCities: POI[] = [
     parent: "country-switzerland",
     coords: [8.5469, 47.3706],
     name: {
-      de: "Kunsthaus ZÃ¼rich",
-      hu: "ZÃ¼richi Kunsthaus",
-      ro: "Kunsthaus ZÃ¼rich",
+      de: "Kunsthaus Zürich",
+      hu: "Zürichi Kunsthaus",
+      ro: "Kunsthaus Zürich",
       en: "Kunsthaus Zurich"
     },
     description: {
-      de: "Das Kunsthaus ZÃ¼rich ist eines der wichtigsten Kunstmuseen der Schweiz und ein Magnet fÃ¼r internationale Kulturreisen. Die Sammlung reicht von der Moderne bis zur Gegenwart und macht das Haus fÃ¼r Kunstfans besonders attraktiv. Auch architektonisch ist das Museum ein starkes Stadtzeichen im Zentrum von ZÃ¼rich. Wer Schweizer GroÃŸstadt, Museumskultur und Spitzenkunst verbinden will, findet hier ein ideales Ziel.",
-      hu: "A ZÃ¼richi Kunsthaus SvÃ¡jc egyik legfontosabb mÅ±vÃ©szeti mÃºzeuma, Ã©s a nemzetkÃ¶zi kulturÃ¡lis utazÃ¡sok vonzereje. GyÅ±jtemÃ©nye a modern kortÃ³l a kortÃ¡rs mÅ±vÃ©szetig terjed, ezÃ©rt kÃ¼lÃ¶nÃ¶sen vonzÃ³ a mÅ±vÃ©szetkedvelÅ‘k szÃ¡mÃ¡ra. Ã‰pÃ­tÃ©szetileg is erÅ‘s vÃ¡rosjelzÅ‘ ZÃ¼rich kÃ¶zpontjÃ¡ban. Aki a svÃ¡jci nagyvÃ¡rost, a mÃºzeumi kultÃºrÃ¡t Ã©s a csÃºcsmÅ±vÃ©szetet szeretnÃ© Ã¶sszekapcsolni, ideÃ¡lis cÃ©lpontot talÃ¡l itt.",
-      ro: "Kunsthaus ZÃ¼rich este unul dintre cele mai importante muzee de artÄƒ din ElveÈ›ia È™i un magnet pentru cÄƒlÄƒtoriile culturale internaÈ›ionale. ColecÈ›ia merge de la modernism la arta contemporanÄƒ È™i face muzeul foarte atractiv pentru iubitorii de artÄƒ. Din punct de vedere arhitectural, clÄƒdirea este È™i un reper urban puternic Ã®n centrul oraÈ™ului ZÃ¼rich. Cine vrea sÄƒ combine oraÈ™ul elveÈ›ian mare, cultura muzealÄƒ È™i arta de top, gÄƒseÈ™te aici o destinaÈ›ie idealÄƒ.",
+      de: "Das Kunsthaus Zürich ist eines der wichtigsten Kunstmuseen der Schweiz und ein Magnet für internationale Kulturreisen. Die Sammlung reicht von der Moderne bis zur Gegenwart und macht das Haus für Kunstfans besonders attraktiv. Auch architektonisch ist das Museum ein starkes Stadtzeichen im Zentrum von Zürich. Wer Schweizer Gro�?stadt, Museumskultur und Spitzenkunst verbinden will, findet hier ein ideales Ziel.",
+      hu: "A Zürichi Kunsthaus Svájc egyik legfontosabb művészeti múzeuma, és a nemzetközi kulturális utazások vonzereje. Gyűjteménye a modern kortól a kortárs művészetig terjed, ezért különösen vonzó a művészetkedvel�?k számára. �?pítészetileg is er�?s városjelz�? Zürich központjában. Aki a svájci nagyvárost, a múzeumi kultúrát és a csúcsművészetet szeretné összekapcsolni, ideális célpontot talál itt.",
+      ro: "Kunsthaus Zürich este unul dintre cele mai importante muzee de art�? din Elve�?ia �?i un magnet pentru c�?l�?toriile culturale interna�?ionale. Colec�?ia merge de la modernism la arta contemporan�? �?i face muzeul foarte atractiv pentru iubitorii de art�?. Din punct de vedere arhitectural, cl�?direa este �?i un reper urban puternic în centrul ora�?ului Zürich. Cine vrea s�? combine ora�?ul elve�?ian mare, cultura muzeal�? �?i arta de top, g�?se�?te aici o destina�?ie ideal�?.",
       en: "Kunsthaus Zurich is one of Switzerland's most important art museums and a magnet for international cultural travel. Its collection ranges from modern art to contemporary work, making it especially attractive for art lovers. Architecturally, it is also a strong city marker in central Zurich. If you want to combine Swiss big-city life, museum culture, and top-tier art, this is an ideal destination."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Kunsthaus Zürich este cel mai mare și mai prestigios muzeu de artă din Elveția, găzduind o colecție vastă și extrem de valoroasă care acoperă capodopere de la perioada medievală până la arta contemporană. Odată cu finalizarea recentă a extensiei proiectate de renumitul arhitect David Chipperfield, muzeul și-a dublat spațiul expozițional, transformând piața din fața clădirii într-un vibrant hub cultural. Printre nestematele colecției se numără cea mai mare expoziție de lucrări ale pictorului expresionist Edvard Munch din afara Norvegiei și o selecție impresionantă de sculpturi ale lui Alberto Giacometti. Muzeul impresionează, de asemenea, prin pânze ale impresioniștilor francezi și un fond substanțial de artă elvețiană. Acesta atrage anual iubitori de artă din toată lumea, rămânând o destinație de top a scenei culturale europene. (Istoria Artei K8 — Colecții naționale și arhitectură modernă)",
+      ro: "Kunsthaus Z�rich este cel mai mare ?i mai prestigios muzeu de art? din Elve?ia, g?zduind o colec?ie vast? ?i extrem de valoroas? care acoper? capodopere de la perioada medieval? p�n? la arta contemporan?. Odat? cu finalizarea recent? a extensiei proiectate de renumitul arhitect David Chipperfield, muzeul ?i-a dublat spa?iul expozi?ional, transform�nd pia?a din fa?a cl?dirii �ntr-un vibrant hub cultural. Printre nestematele colec?iei se num?r? cea mai mare expozi?ie de lucr?ri ale pictorului expresionist Edvard Munch din afara Norvegiei ?i o selec?ie impresionant? de sculpturi ale lui Alberto Giacometti. Muzeul impresioneaz?, de asemenea, prin p�nze ale impresioni?tilor francezi ?i un fond substan?ial de art? elve?ian?. Acesta atrage anual iubitori de art? din toat? lumea, r?m�n�nd o destina?ie de top a scenei culturale europene. (Istoria Artei K8 ? Colec?ii na?ionale ?i arhitectur? modern?)",
       en: "The Kunsthaus Zurich is one of the most prominent and prestigious art museums in Switzerland, holding a collection of international importance. Located in the heart of Zurich, the museum's extensive holdings span from the Middle Ages to contemporary art, with a particularly strong emphasis on classical modernism. It is globally celebrated for housing the largest collection of works by Edvard Munch outside of Norway, alongside major masterpieces by Picasso, Monet, Chagall, and the definitive collection of the Swiss sculptor Alberto Giacometti. A massive, modern architectural extension designed by David Chipperfield opened in 2021, dramatically expanding the exhibition space and creating a vibrant new cultural hub. The Kunsthaus brilliantly merges traditional Swiss artistic heritage with global avant-garde movements."
     },
     facts: {
       de: [
-        "Das Kunsthaus ist ein zentrales Kunstmuseum in ZÃ¼rich.",
-        "Die Sammlung umfasst moderne und zeitgenÃ¶ssische Kunst.",
+        "Das Kunsthaus ist ein zentrales Kunstmuseum in Zürich.",
+        "Die Sammlung umfasst moderne und zeitgenössische Kunst.",
         "Es liegt in einem wichtigen Kulturviertel der Stadt.",
-        "Das Haus ist ein Top-Ziel fÃ¼r Kunst- und Stadtreisen.",
-        "ZÃ¼rich profitiert stark von diesem Museum als Kulturmarke."
+        "Das Haus ist ein Top-Ziel für Kunst- und Stadtreisen.",
+        "Zürich profitiert stark von diesem Museum als Kulturmarke."
       ],
       hu: [
-        "A Kunsthaus ZÃ¼rich kÃ¶zponti mÅ±vÃ©szeti mÃºzeum.",
-        "GyÅ±jtemÃ©nye modern Ã©s kortÃ¡rs mÅ±veket is tartalmaz.",
-        "A vÃ¡ros fontos kulturÃ¡lis negyedÃ©ben talÃ¡lhatÃ³.",
-        "Top cÃ©lpont mÅ±vÃ©szeti Ã©s vÃ¡rosi utazÃ¡sokhoz.",
-        "ZÃ¼rich sokat profitÃ¡l ebbÅ‘l a mÃºzeumbÃ³l mint kulturÃ¡lis mÃ¡rkÃ¡bÃ³l."
+        "A Kunsthaus Zürich központi művészeti múzeum.",
+        "Gyűjteménye modern és kortárs műveket is tartalmaz.",
+        "A város fontos kulturális negyedében található.",
+        "Top célpont művészeti és városi utazásokhoz.",
+        "Zürich sokat profitál ebb�?l a múzeumból mint kulturális márkából."
       ],
       ro: [
-        "Kunsthaus este un muzeu de artÄƒ central Ã®n ZÃ¼rich.",
-        "ColecÈ›ia include artÄƒ modernÄƒ È™i contemporanÄƒ.",
-        "Se aflÄƒ Ã®ntr-un cartier cultural important al oraÈ™ului.",
-        "Este o destinaÈ›ie de top pentru turismul de artÄƒ È™i urban.",
-        "ZÃ¼rich beneficiazÄƒ puternic de acest muzeu ca brand cultural."
+        "Kunsthaus este un muzeu de art�? central în Zürich.",
+        "Colec�?ia include art�? modern�? �?i contemporan�?.",
+        "Se afl�? într-un cartier cultural important al ora�?ului.",
+        "Este o destina�?ie de top pentru turismul de art�? �?i urban.",
+        "Zürich beneficiaz�? puternic de acest muzeu ca brand cultural."
       ],
       en: [
         "The Kunsthaus is a central art museum in Zurich.",
@@ -2601,18 +2601,18 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Kunsthaus Zürich deține cea mai mare colecție permanentă de artă vizuală din întreaga Elveție.",
-      "Muzeul găzduiește lucrări esențiale semnate de maeștri precum Picasso, Monet, Chagall și Rothko.",
-      "Noua clădire semnată de David Chipperfield a fost deschisă în 2021, redefinind peisajul urban local.",
-      "Instituția este susținută parțial de asociația Zürcher Kunstgesellschaft, una dintre cele mai mari asociații de artă din Europa.",
-      "Colecția se bucură de donații și împrumuturi pe termen lung din partea unor importanți colecționari privați."
+      "Kunsthaus Z�rich de?ine cea mai mare colec?ie permanent? de art? vizual? din �ntreaga Elve?ie.",
+      "Muzeul g?zduie?te lucr?ri esen?iale semnate de mae?tri precum Picasso, Monet, Chagall ?i Rothko.",
+      "Noua cl?dire semnat? de David Chipperfield a fost deschis? �n 2021, redefinind peisajul urban local.",
+      "Institu?ia este sus?inut? par?ial de asocia?ia Z�rcher Kunstgesellschaft, una dintre cele mai mari asocia?ii de art? din Europa.",
+      "Colec?ia se bucur? de dona?ii ?i �mprumuturi pe termen lung din partea unor importan?i colec?ionari priva?i."
     ],
       en: [
         "The Kunsthaus Zurich holds the largest and most important art collection in Switzerland.",
         "It houses the most extensive collection of works by the Norwegian artist Edvard Munch outside of Oslo.",
         "The museum features the definitive collection of works by the famous Swiss sculptor Alberto Giacometti.",
         "A major modern extension designed by star architect David Chipperfield was completed and opened in 2021.",
-        "The institution was originally founded by the Zürcher Kunstgesellschaft (Zurich Art Society) in 1787."
+        "The institution was originally founded by the Z�rcher Kunstgesellschaft (Zurich Art Society) in 1787."
       ]
     },
     image: "/geo-images/switzerland/landmark-kunsthaus-zurich.webp"
@@ -2624,43 +2624,43 @@ export const switzerlandCities: POI[] = [
     coords: [8.5451, 47.3791],
     name: {
       de: "Schweizerisches Nationalmuseum",
-      hu: "SvÃ¡jci Nemzeti MÃºzeum",
-      ro: "Muzeul NaÈ›ional ElveÈ›ian",
+      hu: "Svájci Nemzeti Múzeum",
+      ro: "Muzeul Na�?ional Elve�?ian",
       en: "Swiss National Museum"
     },
     description: {
-      de: "Das Schweizerische Nationalmuseum in ZÃ¼rich gehÃ¶rt zu den wichtigsten Adressen fÃ¼r Schweizer Geschichte und IdentitÃ¤t. Das markante GebÃ¤ude mit seinen TÃ¼rmen macht schon von auÃŸen einen starken Eindruck. Im Inneren erleben Besucher eine kompakte, gut erzÃ¤hlte Reise durch die Schweizer Vergangenheit. Das Museum ist damit ein perfekter Einstieg fÃ¼r Kultur- und Geschichtsreisen in der Schweiz.",
-      hu: "A ZÃ¼richi SvÃ¡jci Nemzeti MÃºzeum a svÃ¡jci tÃ¶rtÃ©nelem Ã©s identitÃ¡s egyik legfontosabb helyszÃ­ne. A jellegzetes, tornyokkal tagolt Ã©pÃ¼let kÃ­vÃ¼lrÅ‘l is erÅ‘s benyomÃ¡st kelt. Bent a lÃ¡togatÃ³k jÃ³l felÃ©pÃ­tett, tÃ¶mÃ¶r utazÃ¡st kapnak a svÃ¡jci mÃºltba. A mÃºzeum ezÃ©rt tÃ¶kÃ©letes belÃ©pÅ‘ a svÃ¡jci kulturÃ¡lis Ã©s tÃ¶rtÃ©nelmi utazÃ¡sokhoz.",
-      ro: "Muzeul NaÈ›ional ElveÈ›ian din ZÃ¼rich este una dintre cele mai importante adrese pentru istoria È™i identitatea elveÈ›ianÄƒ. ClÄƒdirea distinctivÄƒ, cu turnuri, impresioneazÄƒ Ã®ncÄƒ de la exterior. ÃŽn interior, vizitatorii au parte de o cÄƒlÄƒtorie clarÄƒ È™i bine povestitÄƒ prin trecutul ElveÈ›iei. Muzeul este astfel o introducere perfectÄƒ pentru cÄƒlÄƒtorii culturale È™i istorice Ã®n ElveÈ›ia.",
+      de: "Das Schweizerische Nationalmuseum in Zürich gehört zu den wichtigsten Adressen für Schweizer Geschichte und Identität. Das markante Gebäude mit seinen Türmen macht schon von au�?en einen starken Eindruck. Im Inneren erleben Besucher eine kompakte, gut erzählte Reise durch die Schweizer Vergangenheit. Das Museum ist damit ein perfekter Einstieg für Kultur- und Geschichtsreisen in der Schweiz.",
+      hu: "A Zürichi Svájci Nemzeti Múzeum a svájci történelem és identitás egyik legfontosabb helyszíne. A jellegzetes, tornyokkal tagolt épület kívülr�?l is er�?s benyomást kelt. Bent a látogatók jól felépített, tömör utazást kapnak a svájci múltba. A múzeum ezért tökéletes belép�? a svájci kulturális és történelmi utazásokhoz.",
+      ro: "Muzeul Na�?ional Elve�?ian din Zürich este una dintre cele mai importante adrese pentru istoria �?i identitatea elve�?ian�?. Cl�?direa distinctiv�?, cu turnuri, impresioneaz�? înc�? de la exterior. �?n interior, vizitatorii au parte de o c�?l�?torie clar�? �?i bine povestit�? prin trecutul Elve�?iei. Muzeul este astfel o introducere perfect�? pentru c�?l�?torii culturale �?i istorice în Elve�?ia.",
       en: "The Swiss National Museum in Zurich is one of the most important places for Swiss history and identity. The distinctive building with its towers makes a strong impression from the outside. Inside, visitors get a compact and well-told journey through Switzerland's past. The museum is therefore a perfect starting point for cultural and historical travel in Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muzeul Național Elvețian (Landesmuseum Zürich), situat lângă Gara Centrală din Zürich, este cea mai importantă instituție dedicată istoriei și culturii culturale a țării. Găzduit într-un impresionant castel de basm construit la sfârșitul secolului al XIX-lea, muzeul face un contrast fascinant cu o anexă arhitecturală contemporană și angulară recent inaugurată. Colecțiile sale uriașe poartă vizitatorii într-o călătorie cronologică captivantă, de la primele așezări preistorice pe piloni în lacuri, trecând prin armurile și bătăliile fondării Confederației, până la era industrială modernă. Muzeul excelează în expunerea obiectelor de artizanat tradițional, a colecțiilor de orologerie timpurie și a costumelor naționale detaliate. Este un pilon esențial pentru înțelegerea evoluției unice a identității și neutralității elvețiene. (Istorie K6 — Patrimoniu național și identitate culturală)",
-      en: "The Swiss National Museum (Landesmuseum Zürich) is the premier institution dedicated to the rich cultural history and diverse heritage of Switzerland. Housed in a striking, 19th-century Neo-Gothic building that resembles an eccentric fairytale castle, the museum sits prominently next to Zurich's main railway station. Inside, visitors are taken on a comprehensive journey from prehistoric pile dwellings and Roman settlements to the Middle Ages and modern Swiss democracy. The museum masterfully contrasts its historic castle-like exterior with a sleek, contemporary concrete extension added in 2016, symbolizing the nation's bridge between tradition and innovation. It is an indispensable destination for anyone wishing to understand the complex tapestry of Swiss identity."
+      ro: "Muzeul Na?ional Elve?ian (Landesmuseum Z�rich), situat l�ng? Gara Central? din Z�rich, este cea mai important? institu?ie dedicat? istoriei ?i culturii culturale a ??rii. G?zduit �ntr-un impresionant castel de basm construit la sf�r?itul secolului al XIX-lea, muzeul face un contrast fascinant cu o anex? arhitectural? contemporan? ?i angular? recent inaugurat?. Colec?iile sale uria?e poart? vizitatorii �ntr-o c?l?torie cronologic? captivant?, de la primele a?ez?ri preistorice pe piloni �n lacuri, trec�nd prin armurile ?i b?t?liile fond?rii Confedera?iei, p�n? la era industrial? modern?. Muzeul exceleaz? �n expunerea obiectelor de artizanat tradi?ional, a colec?iilor de orologerie timpurie ?i a costumelor na?ionale detaliate. Este un pilon esen?ial pentru �n?elegerea evolu?iei unice a identit??ii ?i neutralit??ii elve?iene. (Istorie K6 ? Patrimoniu na?ional ?i identitate cultural?)",
+      en: "The Swiss National Museum (Landesmuseum Z�rich) is the premier institution dedicated to the rich cultural history and diverse heritage of Switzerland. Housed in a striking, 19th-century Neo-Gothic building that resembles an eccentric fairytale castle, the museum sits prominently next to Zurich's main railway station. Inside, visitors are taken on a comprehensive journey from prehistoric pile dwellings and Roman settlements to the Middle Ages and modern Swiss democracy. The museum masterfully contrasts its historic castle-like exterior with a sleek, contemporary concrete extension added in 2016, symbolizing the nation's bridge between tradition and innovation. It is an indispensable destination for anyone wishing to understand the complex tapestry of Swiss identity."
     },
     facts: {
       de: [
-        "Das Museum liegt direkt beim ZÃ¼rcher Hauptbahnhof.",
-        "Es ist ein zentrales Haus fÃ¼r Schweizer Geschichte.",
+        "Das Museum liegt direkt beim Zürcher Hauptbahnhof.",
+        "Es ist ein zentrales Haus für Schweizer Geschichte.",
         "Die Architektur ist selbst ein starkes Wahrzeichen.",
-        "Die Ausstellungen sind gut fÃ¼r Erstbesucher geeignet.",
-        "Es gehÃ¶rt zu den bekanntesten Museen des Landes."
+        "Die Ausstellungen sind gut für Erstbesucher geeignet.",
+        "Es gehört zu den bekanntesten Museen des Landes."
       ],
       hu: [
-        "A mÃºzeum kÃ¶zvetlenÃ¼l a zÃ¼richi fÅ‘pÃ¡lyaudvar mellett talÃ¡lhatÃ³.",
-        "A svÃ¡jci tÃ¶rtÃ©nelem egyik kÃ¶zponti intÃ©zmÃ©nye.",
-        "Az Ã©pÃ­tÃ©szet Ã¶nmagÃ¡ban is erÅ‘s jelkÃ©p.",
-        "A kiÃ¡llÃ­tÃ¡sok elsÅ‘ lÃ¡togatÃ³knak is jÃ³l Ã©rthetÅ‘k.",
-        "Az orszÃ¡g egyik legismertebb mÃºzeuma."
+        "A múzeum közvetlenül a zürichi f�?pályaudvar mellett található.",
+        "A svájci történelem egyik központi intézménye.",
+        "Az építészet önmagában is er�?s jelkép.",
+        "A kiállítások els�? látogatóknak is jól érthet�?k.",
+        "Az ország egyik legismertebb múzeuma."
       ],
       ro: [
-        "Muzeul se aflÄƒ chiar lÃ¢ngÄƒ gara centralÄƒ din ZÃ¼rich.",
-        "Este o instituÈ›ie centralÄƒ pentru istoria ElveÈ›iei.",
-        "Arhitectura este ea Ã®nsÄƒÈ™i un reper puternic.",
-        "ExpoziÈ›iile sunt potrivite È™i pentru vizitatorii aflaÈ›i la prima vizitÄƒ.",
-        "Este unul dintre cele mai cunoscute muzee din È›arÄƒ."
+        "Muzeul se afl�? chiar lâng�? gara central�? din Zürich.",
+        "Este o institu�?ie central�? pentru istoria Elve�?iei.",
+        "Arhitectura este ea îns�?�?i un reper puternic.",
+        "Expozi�?iile sunt potrivite �?i pentru vizitatorii afla�?i la prima vizit�?.",
+        "Este unul dintre cele mai cunoscute muzee din �?ar�?."
       ],
       en: [
         "The museum is located right by Zurich main station.",
@@ -2674,11 +2674,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Clădirea originală a muzeului a fost finalizată în 1898 și proiectată de arhitectul Gustav Gull sub forma unui castel istoricist.",
-      "Muzeul este situat strategic între Gara Centrală din Zürich și un parc idilic de pe malul râurilor Limmat și Sihl.",
-      "Piesele de rezistență ale muzeului includ artefacte rare din perioada de dominație a civilizației celtice din regiune.",
-      "Extinderea modernă a clădirii, cu fațada sa unghiulară din beton, a adăugat spații generoase pentru expoziții temporare.",
-      "Colecția națională oferă cea mai cuprinzătoare imagine asupra originilor mitice și reale ale Elveției."
+      "Cl?direa original? a muzeului a fost finalizat? �n 1898 ?i proiectat? de arhitectul Gustav Gull sub forma unui castel istoricist.",
+      "Muzeul este situat strategic �ntre Gara Central? din Z�rich ?i un parc idilic de pe malul r�urilor Limmat ?i Sihl.",
+      "Piesele de rezisten?? ale muzeului includ artefacte rare din perioada de domina?ie a civiliza?iei celtice din regiune.",
+      "Extinderea modern? a cl?dirii, cu fa?ada sa unghiular? din beton, a ad?ugat spa?ii generoase pentru expozi?ii temporare.",
+      "Colec?ia na?ional? ofer? cea mai cuprinz?toare imagine asupra originilor mitice ?i reale ale Elve?iei."
     ],
       en: [
         "The Swiss National Museum is the most frequently visited museum of cultural history in Switzerland.",
@@ -2697,43 +2697,43 @@ export const switzerlandCities: POI[] = [
     coords: [7.4474, 46.9469],
     name: {
       de: "Bundeshaus",
-      hu: "SzÃ¶vetsÃ©gi palota",
+      hu: "Szövetségi palota",
       ro: "Palatul Federal",
       en: "Federal Palace"
     },
     description: {
-      de: "Das Bundeshaus in Bern ist das politische Herz der Schweiz und ein starkes Symbol der direkten Demokratie. Das reprÃ¤sentative GebÃ¤ude am Bundesplatz prÃ¤gt die Hauptstadtoptik und zieht zahlreiche Besucher an. Wer Bern besucht, erlebt hier nicht nur Politik, sondern auch Architektur und stÃ¤dtische IdentitÃ¤t. Das Bundeshaus ist damit ein Muss fÃ¼r jede Reise in die Schweizer Hauptstadt.",
-      hu: "A berni Bundeshaus SvÃ¡jc politikai szÃ­ve Ã©s a kÃ¶zvetlen demokrÃ¡cia erÅ‘s jelkÃ©pe. A Bundesplatzon Ã¡llÃ³ reprezentatÃ­v Ã©pÃ¼let meghatÃ¡rozza a fÅ‘vÃ¡ros lÃ¡tvÃ¡nyÃ¡t, Ã©s sok lÃ¡togatÃ³t vonz. Bern meglÃ¡togatÃ¡sakor itt nemcsak politikÃ¡t, hanem Ã©pÃ­tÃ©szetet Ã©s vÃ¡rosi identitÃ¡st is lÃ¡tni lehet. A Bundeshaus ezÃ©rt kÃ¶telezÅ‘ Ã¡llomÃ¡s minden svÃ¡jci fÅ‘vÃ¡rosi utazÃ¡son.",
-      ro: "Palatul Federal din Berna este inima politicÄƒ a ElveÈ›iei È™i un simbol puternic al democraÈ›iei directe. ClÄƒdirea reprezentativÄƒ din piaÈ›a Bundesplatz defineÈ™te imaginea capitalei È™i atrage mulÈ›i vizitatori. ÃŽn Berna, aici nu vezi doar politica, ci È™i arhitecturÄƒ È™i identitate urbanÄƒ. Palatul Federal este astfel o oprire esenÈ›ialÄƒ Ã®n orice vizitÄƒ Ã®n capitala ElveÈ›iei.",
+      de: "Das Bundeshaus in Bern ist das politische Herz der Schweiz und ein starkes Symbol der direkten Demokratie. Das repräsentative Gebäude am Bundesplatz prägt die Hauptstadtoptik und zieht zahlreiche Besucher an. Wer Bern besucht, erlebt hier nicht nur Politik, sondern auch Architektur und städtische Identität. Das Bundeshaus ist damit ein Muss für jede Reise in die Schweizer Hauptstadt.",
+      hu: "A berni Bundeshaus Svájc politikai szíve és a közvetlen demokrácia er�?s jelképe. A Bundesplatzon álló reprezentatív épület meghatározza a f�?város látványát, és sok látogatót vonz. Bern meglátogatásakor itt nemcsak politikát, hanem építészetet és városi identitást is látni lehet. A Bundeshaus ezért kötelez�? állomás minden svájci f�?városi utazáson.",
+      ro: "Palatul Federal din Berna este inima politic�? a Elve�?iei �?i un simbol puternic al democra�?iei directe. Cl�?direa reprezentativ�? din pia�?a Bundesplatz define�?te imaginea capitalei �?i atrage mul�?i vizitatori. �?n Berna, aici nu vezi doar politica, ci �?i arhitectur�? �?i identitate urban�?. Palatul Federal este astfel o oprire esen�?ial�? în orice vizit�? în capitala Elve�?iei.",
       en: "The Federal Palace in Bern is the political heart of Switzerland and a strong symbol of direct democracy. The representative building on Bundesplatz shapes the capital's skyline and attracts many visitors. In Bern, you experience not only politics but also architecture and urban identity. The Federal Palace is therefore a must on any visit to the Swiss capital."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Palatul Federal (Bundeshaus) din Berna este sediul guvernului elvețian și al parlamentului național (Adunarea Federală), fiind inima simbolică și funcțională a democrației țării. Construită la sfârșitul secolului al XIX-lea din gresie verde, clădirea este încoronată de o cupolă impresionantă din cupru, sub care se află o sală imensă decorată cu statuile a trei luptători pentru libertate din Rütli și o spectaculoasă lucrare din sticlă colorată ce reprezintă stemele cantoanelor. Spre deosebire de multe alte clădiri guvernamentale din lume, Palatul Federal reflectă idealul elvețian de transparență, vizitatorii putând asista la sesiunile parlamentare de la tribunele publice. Piața din fața sa (Bundesplatz) este animată de fântâni arteziene și găzduiește frecvent piețe tradiționale și evenimente politice pașnice. (Educație Civică K8 — Democrație directă și instituții de stat)",
-      en: "The Federal Palace (Bundeshaus) in Bern serves as the majestic seat of the Swiss federal government and parliament, symbolizing the country's deep-rooted tradition of direct democracy. Completed in 1902, the monumental building features a striking central copper dome that dominates the Bernese skyline. Inside, the architecture pays homage to the nation's history, with rich symbolic artwork, statues of national heroes, and a stunning stained-glass dome featuring the coats of arms of the Swiss cantons. The expansive Bundesplatz square directly in front of the palace is a lively public space, famous for its 26 dancing water fountains—each representing a canton. The building remains a vibrant center of political life while simultaneously functioning as one of the capital's top architectural attractions."
+      ro: "Palatul Federal (Bundeshaus) din Berna este sediul guvernului elve?ian ?i al parlamentului na?ional (Adunarea Federal?), fiind inima simbolic? ?i func?ional? a democra?iei ??rii. Construit? la sf�r?itul secolului al XIX-lea din gresie verde, cl?direa este �ncoronat? de o cupol? impresionant? din cupru, sub care se afl? o sal? imens? decorat? cu statuile a trei lupt?tori pentru libertate din R�tli ?i o spectaculoas? lucrare din sticl? colorat? ce reprezint? stemele cantoanelor. Spre deosebire de multe alte cl?diri guvernamentale din lume, Palatul Federal reflect? idealul elve?ian de transparen??, vizitatorii put�nd asista la sesiunile parlamentare de la tribunele publice. Pia?a din fa?a sa (Bundesplatz) este animat? de f�nt�ni arteziene ?i g?zduie?te frecvent pie?e tradi?ionale ?i evenimente politice pa?nice. (Educa?ie Civic? K8 ? Democra?ie direct? ?i institu?ii de stat)",
+      en: "The Federal Palace (Bundeshaus) in Bern serves as the majestic seat of the Swiss federal government and parliament, symbolizing the country's deep-rooted tradition of direct democracy. Completed in 1902, the monumental building features a striking central copper dome that dominates the Bernese skyline. Inside, the architecture pays homage to the nation's history, with rich symbolic artwork, statues of national heroes, and a stunning stained-glass dome featuring the coats of arms of the Swiss cantons. The expansive Bundesplatz square directly in front of the palace is a lively public space, famous for its 26 dancing water fountains?each representing a canton. The building remains a vibrant center of political life while simultaneously functioning as one of the capital's top architectural attractions."
     },
     facts: {
       de: [
         "Das Bundeshaus ist Sitz von Parlament und Regierung.",
         "Es steht in Bern am Bundesplatz.",
-        "Das GebÃ¤ude ist ein Symbol der Schweizer Demokratie.",
+        "Das Gebäude ist ein Symbol der Schweizer Demokratie.",
         "Der Platz davor ist ein beliebter Treffpunkt.",
-        "Besuche und FÃ¼hrungen sind ein wichtiger Teil des Angebots."
+        "Besuche und Führungen sind ein wichtiger Teil des Angebots."
       ],
       hu: [
-        "A Bundeshaus a parlament Ã©s a kormÃ¡ny szÃ©khelye.",
-        "Bernben, a Bundesplatzon Ã¡ll.",
-        "Az Ã©pÃ¼let a svÃ¡jci demokrÃ¡cia jelkÃ©pe.",
-        "Az elÅ‘tte lÃ©vÅ‘ tÃ©r nÃ©pszerÅ± talÃ¡lkozÃ³hely.",
-        "A lÃ¡togatÃ¡sok Ã©s vezetett tÃºrÃ¡k fontosak az Ã©lmÃ©nyben."
+        "A Bundeshaus a parlament és a kormány székhelye.",
+        "Bernben, a Bundesplatzon áll.",
+        "Az épület a svájci demokrácia jelképe.",
+        "Az el�?tte lév�? tér népszerű találkozóhely.",
+        "A látogatások és vezetett túrák fontosak az élményben."
       ],
       ro: [
-        "Palatul Federal gÄƒzduieÈ™te parlamentul È™i guvernul.",
-        "Se aflÄƒ Ã®n Berna, pe Bundesplatz.",
-        "ClÄƒdirea este un simbol al democraÈ›iei elveÈ›iene.",
-        "PiaÈ›a din faÈ›Äƒ este un loc de Ã®ntÃ¢lnire popular.",
-        "Vizitele ghidate fac parte importantÄƒ din ofertÄƒ."
+        "Palatul Federal g�?zduie�?te parlamentul �?i guvernul.",
+        "Se afl�? în Berna, pe Bundesplatz.",
+        "Cl�?direa este un simbol al democra�?iei elve�?iene.",
+        "Pia�?a din fa�?�? este un loc de întâlnire popular.",
+        "Vizitele ghidate fac parte important�? din ofert�?."
       ],
       en: [
         "The Federal Palace houses parliament and government.",
@@ -2747,11 +2747,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Palatul Federal a fost proiectat de Hans Auer și inaugurat oficial în anul 1902.",
-      "Sub marea cupolă centrală este montat un candelabru uriaș cu stemele celor 22 de cantoane originale.",
-      "Clădirea găzduiește atât Consiliul Național (camera inferioară), cât și Consiliul Statelor (camera superioară).",
-      "Fațada clădirii este decorată cu sculpturi și fresce simbolizând virtuțile naționale și unitatea elvețiană.",
-      "Fântânile din Bundesplatz prezintă 26 de jeturi de apă, reprezentând cele 26 de cantoane din prezent."
+      "Palatul Federal a fost proiectat de Hans Auer ?i inaugurat oficial �n anul 1902.",
+      "Sub marea cupol? central? este montat un candelabru uria? cu stemele celor 22 de cantoane originale.",
+      "Cl?direa g?zduie?te at�t Consiliul Na?ional (camera inferioar?), c�t ?i Consiliul Statelor (camera superioar?).",
+      "Fa?ada cl?dirii este decorat? cu sculpturi ?i fresce simboliz�nd virtu?ile na?ionale ?i unitatea elve?ian?.",
+      "F�nt�nile din Bundesplatz prezint? 26 de jeturi de ap?, reprezent�nd cele 26 de cantoane din prezent."
     ],
       en: [
         "The Federal Palace was completed in 1902 and designed by the Swiss architect Hans Auer.",
@@ -2770,20 +2770,20 @@ export const switzerlandCities: POI[] = [
     coords: [6.6356, 46.5097],
     name: {
       de: "Olympisches Museum",
-      hu: "Olimpiai MÃºzeum",
+      hu: "Olimpiai Múzeum",
       ro: "Muzeul Olimpic",
       en: "Olympic Museum"
     },
     description: {
-      de: "Das Olympische Museum in Lausanne ist ein weltweit bekanntes Kulturziel am Ufer des Genfersees. Es verbindet Sportgeschichte, internationale Themen und eine starke Seelage zu einem sehr modernen Besuchserlebnis. Der Standort passt perfekt zur olympischen IdentitÃ¤t Lausannes. FÃ¼r Sportfans und Familien ist das Museum eines der markantesten Ziele in der Westschweiz.",
-      hu: "A lausanne-i Olimpiai MÃºzeum vilÃ¡gszerte ismert kulturÃ¡lis cÃ©lpont a Genfi-tÃ³ partjÃ¡n. A sporttÃ¶rtÃ©nelmet, a nemzetkÃ¶zi tÃ©mÃ¡kat Ã©s a tÃ³parti fekvÃ©st nagyon modern Ã©lmÃ©nnyÃ© kapcsolja Ã¶ssze. A helyszÃ­n tÃ¶kÃ©letesen illik Lausanne olimpiai identitÃ¡sÃ¡hoz. SportkedvelÅ‘knek Ã©s csalÃ¡doknak ez Nyugat-SvÃ¡jc egyik legjellemzÅ‘bb cÃ©lpontja.",
-      ro: "Muzeul Olimpic din Lausanne este o destinaÈ›ie culturalÄƒ cunoscutÄƒ Ã®n Ã®ntreaga lume, pe malul Lacului Geneva. El combinÄƒ istoria sportului, temele internaÈ›ionale È™i poziÈ›ia de pe malul apei Ã®ntr-o experienÈ›Äƒ foarte modernÄƒ. LocaÈ›ia se potriveÈ™te perfect cu identitatea olimpicÄƒ a oraÈ™ului Lausanne. Pentru iubitorii de sport È™i familii, muzeul este una dintre cele mai reprezentative destinaÈ›ii din vestul ElveÈ›iei.",
+      de: "Das Olympische Museum in Lausanne ist ein weltweit bekanntes Kulturziel am Ufer des Genfersees. Es verbindet Sportgeschichte, internationale Themen und eine starke Seelage zu einem sehr modernen Besuchserlebnis. Der Standort passt perfekt zur olympischen Identität Lausannes. Für Sportfans und Familien ist das Museum eines der markantesten Ziele in der Westschweiz.",
+      hu: "A lausanne-i Olimpiai Múzeum világszerte ismert kulturális célpont a Genfi-tó partján. A sporttörténelmet, a nemzetközi témákat és a tóparti fekvést nagyon modern élménnyé kapcsolja össze. A helyszín tökéletesen illik Lausanne olimpiai identitásához. Sportkedvel�?knek és családoknak ez Nyugat-Svájc egyik legjellemz�?bb célpontja.",
+      ro: "Muzeul Olimpic din Lausanne este o destina�?ie cultural�? cunoscut�? în întreaga lume, pe malul Lacului Geneva. El combin�? istoria sportului, temele interna�?ionale �?i pozi�?ia de pe malul apei într-o experien�?�? foarte modern�?. Loca�?ia se potrive�?te perfect cu identitatea olimpic�? a ora�?ului Lausanne. Pentru iubitorii de sport �?i familii, muzeul este una dintre cele mai reprezentative destina�?ii din vestul Elve�?iei.",
       en: "The Olympic Museum in Lausanne is a world-famous cultural destination on the shore of Lake Geneva. It combines sports history, international themes, and a strong lakeside setting into a very modern visitor experience. The location fits Lausanne's Olympic identity perfectly. For sports fans and families, the museum is one of the most distinctive destinations in western Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muzeul Olimpic din Lausanne este cel mai mare centru informațional și memorial din lume dedicat mișcării olimpice și idealurilor sale. Situat într-un peisaj de vis pe malul Lacului Geneva, înconjurat de un parc vast presărat cu sculpturi monumentale pe teme sportive, muzeul atrage anual sute de mii de vizitatori. Expoziția este complet interactivă și prezintă o incursiune fascinantă de la originile antice ale Jocurilor în Grecia până la performanțele eroice și tehnologia de ultimă oră a sportivilor moderni. Pe lângă medaliile originale și torțele purtate de-a lungul deceniilor, colecțiile includ echipamente sportive legendare donate de campioni. Instituția servește drept testament al excelenței umane, rezilienței și spiritului de unitate globală adus de competițiile olimpice. (Educație Fizică K6 — Spirit sportiv și competiții globale)",
+      ro: "Muzeul Olimpic din Lausanne este cel mai mare centru informa?ional ?i memorial din lume dedicat mi?c?rii olimpice ?i idealurilor sale. Situat �ntr-un peisaj de vis pe malul Lacului Geneva, �nconjurat de un parc vast pres?rat cu sculpturi monumentale pe teme sportive, muzeul atrage anual sute de mii de vizitatori. Expozi?ia este complet interactiv? ?i prezint? o incursiune fascinant? de la originile antice ale Jocurilor �n Grecia p�n? la performan?ele eroice ?i tehnologia de ultim? or? a sportivilor moderni. Pe l�ng? medaliile originale ?i tor?ele purtate de-a lungul deceniilor, colec?iile includ echipamente sportive legendare donate de campioni. Institu?ia serve?te drept testament al excelen?ei umane, rezilien?ei ?i spiritului de unitate global? adus de competi?iile olimpice. (Educa?ie Fizic? K6 ? Spirit sportiv ?i competi?ii globale)",
       en: "The Olympic Museum in Lausanne, perched elegantly on a terraced slope overlooking Lake Geneva, is the world's largest information center dedicated to the Olympic Games. Opened in 1993, the museum offers an immersive, interactive journey through the history of the Games, from their origins in ancient Greece to the spectacular modern events of today. The exhibitions showcase an extraordinary collection of artifacts, including iconic torches from every relay, historic athlete equipment, and original Olympic medals. The surrounding Olympic Park features beautiful gardens dotted with sports-themed sculptures and a track where visitors can test their sprinting speed. The museum vividly captures the global spirit of athletic excellence and the enduring values of the Olympic movement."
     },
     facts: {
@@ -2792,20 +2792,20 @@ export const switzerlandCities: POI[] = [
         "Es ist eng mit dem Internationalen Olympischen Komitee verbunden.",
         "Die Ausstellung verbindet Sport, Geschichte und Design.",
         "Der Standort am See ist Teil des Reizes.",
-        "Es ist ein wichtiges Symbol fÃ¼r Lausanne."
+        "Es ist ein wichtiges Symbol für Lausanne."
       ],
       hu: [
-        "A mÃºzeum Lausanne-ban, a Genfi-tÃ³ partjÃ¡n talÃ¡lhatÃ³.",
-        "Szorosan kapcsolÃ³dik a NemzetkÃ¶zi Olimpiai BizottsÃ¡ghoz.",
-        "A kiÃ¡llÃ­tÃ¡s a sportot, a tÃ¶rtÃ©nelmet Ã©s a dizÃ¡jnt Ã¶tvÃ¶zi.",
-        "A tÃ³parti fekvÃ©s az Ã©lmÃ©ny rÃ©sze.",
-        "Fontos Lausanne-i jelkÃ©p."
+        "A múzeum Lausanne-ban, a Genfi-tó partján található.",
+        "Szorosan kapcsolódik a Nemzetközi Olimpiai Bizottsághoz.",
+        "A kiállítás a sportot, a történelmet és a dizájnt ötvözi.",
+        "A tóparti fekvés az élmény része.",
+        "Fontos Lausanne-i jelkép."
       ],
       ro: [
-        "Muzeul se aflÄƒ Ã®n Lausanne, pe malul Lacului Geneva.",
-        "Este strÃ¢ns legat de Comitetul InternaÈ›ional Olimpic.",
-        "ExpoziÈ›ia combinÄƒ sportul, istoria È™i designul.",
-        "PoziÈ›ia pe malul lacului face parte din farmecul sÄƒu.",
+        "Muzeul se afl�? în Lausanne, pe malul Lacului Geneva.",
+        "Este strâns legat de Comitetul Interna�?ional Olimpic.",
+        "Expozi�?ia combin�? sportul, istoria �?i designul.",
+        "Pozi�?ia pe malul lacului face parte din farmecul s�?u.",
         "Este un simbol important pentru Lausanne."
       ],
       en: [
@@ -2820,11 +2820,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Muzeul Olimpic a fost inaugurat în 1993 din inițiativa președintelui CIO de la acea vreme, Juan Antonio Samaranch.",
-      "Colecția sa include toate modelele de torțe olimpice folosite vreodată în jocurile de vară și de iarnă.",
-      "Parcul Muzeului este presărat cu opere de artă semnate de artiști faimoși precum Auguste Rodin și Fernando Botero.",
-      "Muzeul a beneficiat de o modernizare completă și digitalizare a expozițiilor în anul 2013.",
-      "Lausanne găzduiește, datorită acestei instituții, arhiva documentară oficială a întregii mișcări olimpice."
+      "Muzeul Olimpic a fost inaugurat �n 1993 din ini?iativa pre?edintelui CIO de la acea vreme, Juan Antonio Samaranch.",
+      "Colec?ia sa include toate modelele de tor?e olimpice folosite vreodat? �n jocurile de var? ?i de iarn?.",
+      "Parcul Muzeului este pres?rat cu opere de art? semnate de arti?ti faimo?i precum Auguste Rodin ?i Fernando Botero.",
+      "Muzeul a beneficiat de o modernizare complet? ?i digitalizare a expozi?iilor �n anul 2013.",
+      "Lausanne g?zduie?te, datorit? acestei institu?ii, arhiva documentar? oficial? a �ntregii mi?c?ri olimpice."
     ],
       en: [
         "The Olympic Museum in Lausanne attracts over 300,000 visitors annually, making it one of Switzerland's most visited museums.",
@@ -2848,38 +2848,38 @@ export const switzerlandCities: POI[] = [
       en: "Rolex Learning Center"
     },
     description: {
-      de: "Das Rolex Learning Center in Lausanne ist ein architektonisches AushÃ¤ngeschild mit internationaler Strahlkraft. Der geschwungene Bau der EPFL verbindet Lernen, Forschung und markante Formensprache. Besonders Besucher mit Interesse an Architektur und zeitgenÃ¶ssischem Design finden hier ein starkes Reiseziel. Das GebÃ¤ude ist ein Symbol fÃ¼r den Innovationscharakter der Schweizer Westschweiz.",
-      hu: "A lausanne-i Rolex Learning Center nemzetkÃ¶zi hatÃ¡sÃº Ã©pÃ­tÃ©szeti ikon. Az EPFL hullÃ¡mzÃ³ Ã©pÃ¼lete az oktatÃ¡st, a kutatÃ¡st Ã©s a karakteres formanyelvet kapcsolja Ã¶ssze. KÃ¼lÃ¶nÃ¶sen azoknak jelent erÅ‘s cÃ©lpontot, akiket az Ã©pÃ­tÃ©szet Ã©s a kortÃ¡rs dizÃ¡jn Ã©rdekel. Az Ã©pÃ¼let a svÃ¡jci francia nyelvÅ± rÃ©giÃ³ innovÃ¡ciÃ³s karakterÃ©nek jelkÃ©pe.",
-      ro: "Rolex Learning Center din Lausanne este un reper arhitectural cu rezonanÈ›Äƒ internaÈ›ionalÄƒ. ClÄƒdirea curbatÄƒ a EPFL combinÄƒ Ã®nvÄƒÈ›area, cercetarea È™i un limbaj formal distinctiv. Este o destinaÈ›ie puternicÄƒ mai ales pentru vizitatorii interesaÈ›i de arhitecturÄƒ È™i design contemporan. ClÄƒdirea este un simbol al caracterului inovator al ElveÈ›iei de vest.",
+      de: "Das Rolex Learning Center in Lausanne ist ein architektonisches Aushängeschild mit internationaler Strahlkraft. Der geschwungene Bau der EPFL verbindet Lernen, Forschung und markante Formensprache. Besonders Besucher mit Interesse an Architektur und zeitgenössischem Design finden hier ein starkes Reiseziel. Das Gebäude ist ein Symbol für den Innovationscharakter der Schweizer Westschweiz.",
+      hu: "A lausanne-i Rolex Learning Center nemzetközi hatású építészeti ikon. Az EPFL hullámzó épülete az oktatást, a kutatást és a karakteres formanyelvet kapcsolja össze. Különösen azoknak jelent er�?s célpontot, akiket az építészet és a kortárs dizájn érdekel. Az épület a svájci francia nyelvű régió innovációs karakterének jelképe.",
+      ro: "Rolex Learning Center din Lausanne este un reper arhitectural cu rezonan�?�? interna�?ional�?. Cl�?direa curbat�? a EPFL combin�? înv�?�?area, cercetarea �?i un limbaj formal distinctiv. Este o destina�?ie puternic�? mai ales pentru vizitatorii interesa�?i de arhitectur�? �?i design contemporan. Cl�?direa este un simbol al caracterului inovator al Elve�?iei de vest.",
       en: "The Rolex Learning Center in Lausanne is an architectural showcase with international reach. The flowing EPFL building combines learning, research, and a distinctive design language. It is a strong destination especially for visitors interested in architecture and contemporary design. The building is a symbol of the innovative character of western Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Rolex Learning Center, piesa de rezistență a campusului universitar EPFL (École Polytechnique Fédérale de Lausanne), este o minune arhitecturală contemporană cu un design avangardist. Proiectată de renumita firmă japoneză de arhitectură SANAA, clădirea are un plan fluid și neconvențional, lipsit de pereți interiori tradiționali, unde pantele blânde și curbele unduitoare ale podelei servesc drept separatoare naturale de spațiu. Structura circulară cu nenumărate terase luminoase adăpostește biblioteca principală, spații de studiu colaborativ, laboratoare de cercetare inovatoare, restaurante și zone de recreere. Designul subliniază inovația și transparența, caracteristici esențiale pentru spiritul instituției. Construcția este considerată un punct de referință global pentru viitorul spațiilor academice interdisciplinare. (Știință și Inovație K8 — Arhitectură funcțională și centre universitare)",
+      ro: "Rolex Learning Center, piesa de rezisten?? a campusului universitar EPFL (�cole Polytechnique F�d�rale de Lausanne), este o minune arhitectural? contemporan? cu un design avangardist. Proiectat? de renumita firm? japonez? de arhitectur? SANAA, cl?direa are un plan fluid ?i neconven?ional, lipsit de pere?i interiori tradi?ionali, unde pantele bl�nde ?i curbele unduitoare ale podelei servesc drept separatoare naturale de spa?iu. Structura circular? cu nenum?rate terase luminoase ad?poste?te biblioteca principal?, spa?ii de studiu colaborativ, laboratoare de cercetare inovatoare, restaurante ?i zone de recreere. Designul subliniaz? inova?ia ?i transparen?a, caracteristici esen?iale pentru spiritul institu?iei. Construc?ia este considerat? un punct de referin?? global pentru viitorul spa?iilor academice interdisciplinare. (?tiin?? ?i Inova?ie K8 ? Arhitectur? func?ional? ?i centre universitare)",
       en: "The Rolex Learning Center, situated on the campus of the Swiss Federal Institute of Technology (EPFL) in Lausanne, is a globally celebrated masterpiece of contemporary architecture. Designed by the acclaimed Japanese architectural firm SANAA and opened in 2010, the building entirely reimagines the concept of a library and study space. Its design consists of a single, continuous, fluid structure that gently undulates like a rolling landscape, creating interconnected hills and valleys rather than traditional walled rooms. This innovative layout fosters an open, collaborative environment, housing a vast scientific library, student workspaces, cafes, and exhibition areas. The building stands as a bold, physical manifestation of Switzerland's commitment to forward-thinking education and technological innovation."
     },
     facts: {
       de: [
-        "Das GebÃ¤ude gehÃ¶rt zur EPFL in Lausanne.",
+        "Das Gebäude gehört zur EPFL in Lausanne.",
         "Die Architektur ist international bekannt.",
         "Es verbindet Lernen, Forschung und Begegnung.",
         "Die Form des Baus ist sehr markant.",
         "Der Standort macht Lausanne als Innovationsstadt sichtbar."
       ],
       hu: [
-        "Az Ã©pÃ¼let a lausanne-i EPFL rÃ©sze.",
-        "Az Ã©pÃ­tÃ©szet nemzetkÃ¶zileg ismert.",
-        "Az oktatÃ¡st, kutatÃ¡st Ã©s talÃ¡lkozÃ¡st kapcsolja Ã¶ssze.",
-        "Az Ã©pÃ¼let formÃ¡ja nagyon jellegzetes.",
-        "A helyszÃ­n Lausanne innovÃ¡ciÃ³s vÃ¡rosÃ¡t erÅ‘sÃ­ti."
+        "Az épület a lausanne-i EPFL része.",
+        "Az építészet nemzetközileg ismert.",
+        "Az oktatást, kutatást és találkozást kapcsolja össze.",
+        "Az épület formája nagyon jellegzetes.",
+        "A helyszín Lausanne innovációs városát er�?síti."
       ],
       ro: [
-        "ClÄƒdirea aparÈ›ine EPFL din Lausanne.",
-        "Arhitectura este cunoscutÄƒ internaÈ›ional.",
-        "ConecteazÄƒ Ã®nvÄƒÈ›area, cercetarea È™i Ã®ntÃ¢lnirile.",
-        "Forma construcÈ›iei este foarte distinctivÄƒ.",
-        "LocaÈ›ia pune Ã®n valoare Lausanne ca oraÈ™ al inovaÈ›iei."
+        "Cl�?direa apar�?ine EPFL din Lausanne.",
+        "Arhitectura este cunoscut�? interna�?ional.",
+        "Conecteaz�? înv�?�?area, cercetarea �?i întâlnirile.",
+        "Forma construc�?iei este foarte distinctiv�?.",
+        "Loca�?ia pune în valoare Lausanne ca ora�? al inova�?iei."
       ],
       en: [
         "The building belongs to EPFL in Lausanne.",
@@ -2893,11 +2893,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Clădirea a fost deschisă în anul 2010 și finanțată printr-un parteneriat între statul elvețian și sponsori privați.",
-      "Arhitecții japonezi Kazuyo Sejima și Ryue Nishizawa (SANAA) au câștigat premiul Pritzker parțial pentru acest design.",
-      "Podeaua clădirii imită topografia unui deal elvețian ondulat, neexistând trepte interioare.",
-      "Acoperișul structurii este susținut de doar câțiva stâlpi invizibili, oferind o senzație de planare liberă.",
-      "Clădirea are o suprafață enormă, găzduind o bibliotecă academică vastă de peste 500.000 de volume tipărite."
+      "Cl?direa a fost deschis? �n anul 2010 ?i finan?at? printr-un parteneriat �ntre statul elve?ian ?i sponsori priva?i.",
+      "Arhitec?ii japonezi Kazuyo Sejima ?i Ryue Nishizawa (SANAA) au c�?tigat premiul Pritzker par?ial pentru acest design.",
+      "Podeaua cl?dirii imit? topografia unui deal elve?ian ondulat, neexist�nd trepte interioare.",
+      "Acoperi?ul structurii este sus?inut de doar c�?iva st�lpi invizibili, oferind o senza?ie de planare liber?.",
+      "Cl?direa are o suprafa?? enorm?, g?zduind o bibliotec? academic? vast? de peste 500.000 de volume tip?rite."
     ],
       en: [
         "The Rolex Learning Center was designed by the Pritzker Prize-winning Japanese architectural firm SANAA.",
@@ -2916,43 +2916,43 @@ export const switzerlandCities: POI[] = [
     coords: [8.5293, 47.3729],
     name: {
       de: "FIFA Museum",
-      hu: "FIFA MÃºzeum",
+      hu: "FIFA Múzeum",
       ro: "Muzeul FIFA",
       en: "FIFA Museum"
     },
     description: {
-      de: "Das FIFA Museum in ZÃ¼rich ist ein moderner Publikumsmagnet rund um die Welt des FuÃŸballs. Die Ausstellung verbindet Sportgeschichte, interaktive Elemente und eine internationale ErzÃ¤hlung. Durch die Lage in ZÃ¼rich wird das Museum leicht in eine StÃ¤dtereise integriert. FÃ¼r FuÃŸballfans ist es eines der klarsten Themenziele in der Schweiz.",
-      hu: "A zÃ¼richi FIFA MÃºzeum modern kÃ¶zÃ¶nsÃ©gvonzÃ³ helyszÃ­n a futball vilÃ¡gÃ¡ban. A kiÃ¡llÃ­tÃ¡s a sporttÃ¶rtÃ©netet, az interaktÃ­v elemeket Ã©s a nemzetkÃ¶zi tÃ¶rtÃ©netmesÃ©lÃ©st kapcsolja Ã¶ssze. ZÃ¼richi elhelyezkedÃ©se miatt kÃ¶nnyen beilleszthetÅ‘ egy vÃ¡rosi utazÃ¡sba. FutballrajongÃ³knak ez SvÃ¡jc egyik legkÃ©zenfekvÅ‘bb tematikus cÃ©lpontja.",
-      ro: "Muzeul FIFA din ZÃ¼rich este o atracÈ›ie modernÄƒ dedicatÄƒ lumii fotbalului. ExpoziÈ›ia combinÄƒ istoria sportului, elemente interactive È™i o poveste internaÈ›ionalÄƒ. DatoritÄƒ poziÈ›iei Ã®n ZÃ¼rich, muzeul se integreazÄƒ uÈ™or Ã®ntr-o vizitÄƒ urbanÄƒ. Pentru fanii fotbalului, este una dintre cele mai clare destinaÈ›ii tematice din ElveÈ›ia.",
+      de: "Das FIFA Museum in Zürich ist ein moderner Publikumsmagnet rund um die Welt des Fu�?balls. Die Ausstellung verbindet Sportgeschichte, interaktive Elemente und eine internationale Erzählung. Durch die Lage in Zürich wird das Museum leicht in eine Städtereise integriert. Für Fu�?ballfans ist es eines der klarsten Themenziele in der Schweiz.",
+      hu: "A zürichi FIFA Múzeum modern közönségvonzó helyszín a futball világában. A kiállítás a sporttörténetet, az interaktív elemeket és a nemzetközi történetmesélést kapcsolja össze. Zürichi elhelyezkedése miatt könnyen beilleszthet�? egy városi utazásba. Futballrajongóknak ez Svájc egyik legkézenfekv�?bb tematikus célpontja.",
+      ro: "Muzeul FIFA din Zürich este o atrac�?ie modern�? dedicat�? lumii fotbalului. Expozi�?ia combin�? istoria sportului, elemente interactive �?i o poveste interna�?ional�?. Datorit�? pozi�?iei în Zürich, muzeul se integreaz�? u�?or într-o vizit�? urban�?. Pentru fanii fotbalului, este una dintre cele mai clare destina�?ii tematice din Elve�?ia.",
       en: "The FIFA Museum in Zurich is a modern crowd-puller dedicated to the world of football. The exhibition combines sports history, interactive elements, and an international storyline. Its Zurich location makes it easy to add to a city trip. For football fans, it is one of the clearest themed destinations in Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muzeul FIFA din Zürich este un loc de pelerinaj pentru fanii fotbalului din întreaga lume, celebrând istoria bogată, emoția și impactul cultural al „Sportului Rege”. Deschis în 2016, muzeul oferă un spațiu expozițional imens repartizat pe trei etaje, cu mii de obiecte originale din istoria turneelor internaționale. Piesa centrală absolută este trofeul original și autentic al Cupei Mondiale FIFA, expus într-o vitrină spectaculoasă. Muzeul îmbină cu succes tehnologia interactivă modernă, stațiile de joc și pinball uriaș cu exponate de o valoare inestimabilă, cum ar fi tricouri purtate de legende ale fotbalului, mingi istorice și arhive video exclusive. Instalațiile interactive îi invită pe tineri și pe adulți deopotrivă să experimenteze agilitatea și îndemânarea necesare pe terenul de fotbal. (Educație Fizică K6 — Fotbal internațional și cultura sportivă)",
+      ro: "Muzeul FIFA din Z�rich este un loc de pelerinaj pentru fanii fotbalului din �ntreaga lume, celebr�nd istoria bogat?, emo?ia ?i impactul cultural al ?Sportului Rege?. Deschis �n 2016, muzeul ofer? un spa?iu expozi?ional imens repartizat pe trei etaje, cu mii de obiecte originale din istoria turneelor interna?ionale. Piesa central? absolut? este trofeul original ?i autentic al Cupei Mondiale FIFA, expus �ntr-o vitrin? spectaculoas?. Muzeul �mbin? cu succes tehnologia interactiv? modern?, sta?iile de joc ?i pinball uria? cu exponate de o valoare inestimabil?, cum ar fi tricouri purtate de legende ale fotbalului, mingi istorice ?i arhive video exclusive. Instala?iile interactive �i invit? pe tineri ?i pe adul?i deopotriv? s? experimenteze agilitatea ?i �ndem�narea necesare pe terenul de fotbal. (Educa?ie Fizic? K6 ? Fotbal interna?ional ?i cultura sportiv?)",
       en: "The FIFA Museum in Zurich is an interactive, state-of-the-art tribute to the global phenomenon of association football. Located in the Enge quarter, the museum opened in 2016 and spans three floors filled with multimedia exhibits, historical artifacts, and immersive experiences that chronicle the rich history of the beautiful game. The unquestionable highlight of the collection is the original FIFA World Cup Trophy, displayed in a high-security showcase. Visitors can trace the evolution of the sport across the globe, view iconic jerseys from legendary players, and test their own skills in a massive interactive pinball-style football zone. The museum successfully captures the passion, drama, and unifying power of football."
     },
     facts: {
       de: [
-        "Das Museum liegt in ZÃ¼rich.",
-        "Es ist ein internationales FuÃŸballmuseum.",
+        "Das Museum liegt in Zürich.",
+        "Es ist ein internationales Fu�?ballmuseum.",
         "Die Ausstellung ist interaktiv und familienfreundlich.",
         "Die Lage in der Stadt macht den Besuch einfach.",
-        "Es ist ein starkes Ziel fÃ¼r Sporttourismus."
+        "Es ist ein starkes Ziel für Sporttourismus."
       ],
       hu: [
-        "A mÃºzeum ZÃ¼richben talÃ¡lhatÃ³.",
-        "NemzetkÃ¶zi futballmÃºzeum.",
-        "A kiÃ¡llÃ­tÃ¡s interaktÃ­v Ã©s csalÃ¡dbarÃ¡t.",
-        "A vÃ¡rosi elhelyezkedÃ©s megkÃ¶nnyÃ­ti a lÃ¡togatÃ¡st.",
-        "ErÅ‘s cÃ©lpont a sportturizmus szÃ¡mÃ¡ra."
+        "A múzeum Zürichben található.",
+        "Nemzetközi futballmúzeum.",
+        "A kiállítás interaktív és családbarát.",
+        "A városi elhelyezkedés megkönnyíti a látogatást.",
+        "Er�?s célpont a sportturizmus számára."
       ],
       ro: [
-        "Muzeul se aflÄƒ Ã®n ZÃ¼rich.",
-        "Este un muzeu internaÈ›ional al fotbalului.",
-        "ExpoziÈ›ia este interactivÄƒ È™i prietenoasÄƒ cu familiile.",
-        "PoziÈ›ia urbanÄƒ face vizita uÈ™oarÄƒ.",
-        "Este o destinaÈ›ie puternicÄƒ pentru turismul sportiv."
+        "Muzeul se afl�? în Zürich.",
+        "Este un muzeu interna�?ional al fotbalului.",
+        "Expozi�?ia este interactiv�? �?i prietenoas�? cu familiile.",
+        "Pozi�?ia urban�? face vizita u�?oar�?.",
+        "Este o destina�?ie puternic�? pentru turismul sportiv."
       ],
       en: [
         "The museum is located in Zurich.",
@@ -2966,11 +2966,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Muzeul găzduiește și expune în mod permanent trofeul original din aur masiv al Cupei Mondiale FIFA.",
-      "Expoziția principală include o uriașă vitrină semicirculară ce expune tricourile oficiale ale celor peste 200 de federații membre.",
+      "Muzeul g?zduie?te ?i expune �n mod permanent trofeul original din aur masiv al Cupei Mondiale FIFA.",
+      "Expozi?ia principal? include o uria?? vitrin? semicircular? ce expune tricourile oficiale ale celor peste 200 de federa?ii membre.",
       "Sunt expuse documente fundamentale din istoria fotbalului, inclusiv regulamente originale din secolul al XIX-lea.",
-      "Instalația interactivă de pinball de fotbal este una dintre atracțiile favorite ale vizitatorilor de toate vârstele.",
-      "Clădirea care găzduiește muzeul din Zürich poartă numele Haus zur Enge și include apartamente de lux și birouri."
+      "Instala?ia interactiv? de pinball de fotbal este una dintre atrac?iile favorite ale vizitatorilor de toate v�rstele.",
+      "Cl?direa care g?zduie?te muzeul din Z�rich poart? numele Haus zur Enge ?i include apartamente de lux ?i birouri."
     ],
       en: [
         "The FIFA Museum houses the authentic, solid-gold FIFA World Cup Trophy, the ultimate prize in global football.",
@@ -2994,38 +2994,38 @@ export const switzerlandCities: POI[] = [
       en: "Fondation Beyeler"
     },
     description: {
-      de: "Die Fondation Beyeler in Riehen bei Basel gehÃ¶rt zu den bekanntesten Kunstadressen der Schweiz. Das Museum verbindet Spitzenkunst mit einer ruhigen, landschaftsnahen Umgebung. Der Bau und seine Sammlung machen den Ort besonders attraktiv fÃ¼r anspruchsvolle Kulturreisen. Als Landmark in der Region Basel steht die Fondation fÃ¼r QualitÃ¤t, Kunst und klare Architektur.",
-      hu: "A bÃ¡zeli Riehenben talÃ¡lhatÃ³ Fondation Beyeler SvÃ¡jc egyik legismertebb mÅ±vÃ©szeti cÃ­me. A mÃºzeum a csÃºcsmÅ±vÃ©szetet nyugodt, tÃ¡jkÃ¶zeli kÃ¶rnyezettel kapcsolja Ã¶ssze. Az Ã©pÃ¼let Ã©s a gyÅ±jtemÃ©ny kÃ¼lÃ¶nÃ¶sen vonzÃ³vÃ¡ teszi az igÃ©nyes kulturÃ¡lis utazÃ¡sokhoz. Basel rÃ©giÃ³jÃ¡nak jelkÃ©pjekÃ©nt a Fondation a minÅ‘sÃ©get, a mÅ±vÃ©szetet Ã©s a tiszta Ã©pÃ­tÃ©szetet kÃ©pviseli.",
-      ro: "Fondation Beyeler din Riehen, lÃ¢ngÄƒ Basel, este una dintre cele mai cunoscute adrese de artÄƒ din ElveÈ›ia. Muzeul combinÄƒ arta de top cu un cadru liniÈ™tit, apropiat de peisaj. ClÄƒdirea È™i colecÈ›ia Ã®l fac foarte atractiv pentru cÄƒlÄƒtorii culturale exigente. Ca reper Ã®n zona Basel, Fondation Beyeler reprezintÄƒ calitatea, arta È™i arhitectura clarÄƒ.",
+      de: "Die Fondation Beyeler in Riehen bei Basel gehört zu den bekanntesten Kunstadressen der Schweiz. Das Museum verbindet Spitzenkunst mit einer ruhigen, landschaftsnahen Umgebung. Der Bau und seine Sammlung machen den Ort besonders attraktiv für anspruchsvolle Kulturreisen. Als Landmark in der Region Basel steht die Fondation für Qualität, Kunst und klare Architektur.",
+      hu: "A bázeli Riehenben található Fondation Beyeler Svájc egyik legismertebb művészeti címe. A múzeum a csúcsművészetet nyugodt, tájközeli környezettel kapcsolja össze. Az épület és a gyűjtemény különösen vonzóvá teszi az igényes kulturális utazásokhoz. Basel régiójának jelképjeként a Fondation a min�?séget, a művészetet és a tiszta építészetet képviseli.",
+      ro: "Fondation Beyeler din Riehen, lâng�? Basel, este una dintre cele mai cunoscute adrese de art�? din Elve�?ia. Muzeul combin�? arta de top cu un cadru lini�?tit, apropiat de peisaj. Cl�?direa �?i colec�?ia îl fac foarte atractiv pentru c�?l�?torii culturale exigente. Ca reper în zona Basel, Fondation Beyeler reprezint�? calitatea, arta �?i arhitectura clar�?.",
       en: "Fondation Beyeler in Riehen near Basel is one of Switzerland's best-known art addresses. The museum combines top-level art with a calm, landscape-adjacent setting. The building and collection make it especially attractive for demanding cultural travel. As a landmark in the Basel area, Fondation Beyeler stands for quality, art, and clean architecture."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Fondation Beyeler, situată în satul pitoresc Riehen de lângă Basel, este probabil cel mai iubit și vizitat muzeu de artă privată din Elveția. Colecția extraordinară a fost adunată cu pasiune pe parcursul a zeci de ani de soții Ernst și Hildy Beyeler și cuprinde aproximativ 400 de capodopere ale modernismului clasic și artei contemporane, alături de artă tribală din Africa și Oceania. Pentru a adăposti această comoară, faimosul arhitect Renzo Piano a proiectat o clădire elegantă și inundată de lumină naturală, perfect integrată într-un parc istoric englezesc cu arbori seculari și heleșteie cu nuferi. Armonia dintre operele de artă semnate de Van Gogh, Cézanne sau Picasso, arhitectura minimalistă și natura înconjurătoare oferă o experiență estetică contemplativă unică. Muzeul organizează frecvent expoziții temporare de senzație, atrăgând public internațional numeros. (Istoria Artei K8 — Colecționari privați și modernism)",
-      en: "The Fondation Beyeler, located in the tranquil suburb of Riehen near Basel, is Switzerland's most visited art museum, celebrated for both its exceptional collection and its harmonious architecture. The museum was designed by the renowned architect Renzo Piano to perfectly integrate with the surrounding Berower Park, utilizing natural light and offering serene views of water lily ponds and distant fields. The collection, originally gathered by art dealers Ernst and Hildy Beyeler, features an extraordinary array of classical modernism and contemporary art, including major works by Monet, Cézanne, Picasso, Warhol, and Rothko. The Fondation Beyeler stands out globally for creating a profound, contemplative dialogue between high art, striking architecture, and the natural landscape."
+      ro: "Fondation Beyeler, situat? �n satul pitoresc Riehen de l�ng? Basel, este probabil cel mai iubit ?i vizitat muzeu de art? privat? din Elve?ia. Colec?ia extraordinar? a fost adunat? cu pasiune pe parcursul a zeci de ani de so?ii Ernst ?i Hildy Beyeler ?i cuprinde aproximativ 400 de capodopere ale modernismului clasic ?i artei contemporane, al?turi de art? tribal? din Africa ?i Oceania. Pentru a ad?posti aceast? comoar?, faimosul arhitect Renzo Piano a proiectat o cl?dire elegant? ?i inundat? de lumin? natural?, perfect integrat? �ntr-un parc istoric englezesc cu arbori seculari ?i hele?teie cu nuferi. Armonia dintre operele de art? semnate de Van Gogh, C�zanne sau Picasso, arhitectura minimalist? ?i natura �nconjur?toare ofer? o experien?? estetic? contemplativ? unic?. Muzeul organizeaz? frecvent expozi?ii temporare de senza?ie, atr?g�nd public interna?ional numeros. (Istoria Artei K8 ? Colec?ionari priva?i ?i modernism)",
+      en: "The Fondation Beyeler, located in the tranquil suburb of Riehen near Basel, is Switzerland's most visited art museum, celebrated for both its exceptional collection and its harmonious architecture. The museum was designed by the renowned architect Renzo Piano to perfectly integrate with the surrounding Berower Park, utilizing natural light and offering serene views of water lily ponds and distant fields. The collection, originally gathered by art dealers Ernst and Hildy Beyeler, features an extraordinary array of classical modernism and contemporary art, including major works by Monet, C�zanne, Picasso, Warhol, and Rothko. The Fondation Beyeler stands out globally for creating a profound, contemplative dialogue between high art, striking architecture, and the natural landscape."
     },
     facts: {
       de: [
         "Die Fondation Beyeler liegt bei Basel.",
         "Sie ist eines der bekanntesten Kunstmuseen der Schweiz.",
-        "Der Standort in Riehen ist ruhig und grÃ¼n.",
+        "Der Standort in Riehen ist ruhig und grün.",
         "Die Sammlung ist international ausgerichtet.",
-        "Das Museum ist fÃ¼r Kunst- und Architekturfreunde attraktiv."
+        "Das Museum ist für Kunst- und Architekturfreunde attraktiv."
       ],
       hu: [
-        "A Fondation Beyeler Basel mellett talÃ¡lhatÃ³.",
-        "SvÃ¡jc egyik legismertebb mÅ±vÃ©szeti mÃºzeuma.",
-        "A richeni helyszÃ­n nyugodt Ã©s zÃ¶ld.",
-        "A gyÅ±jtemÃ©ny nemzetkÃ¶zi fÃ³kuszÃº.",
-        "A mÃºzeum vonzÃ³ mÅ±vÃ©szet- Ã©s Ã©pÃ­tÃ©szetkedvelÅ‘knek."
+        "A Fondation Beyeler Basel mellett található.",
+        "Svájc egyik legismertebb művészeti múzeuma.",
+        "A richeni helyszín nyugodt és zöld.",
+        "A gyűjtemény nemzetközi fókuszú.",
+        "A múzeum vonzó művészet- és építészetkedvel�?knek."
       ],
       ro: [
-        "Fondation Beyeler se aflÄƒ lÃ¢ngÄƒ Basel.",
-        "Este unul dintre cele mai cunoscute muzee de artÄƒ din ElveÈ›ia.",
-        "LocaÈ›ia din Riehen este liniÈ™titÄƒ È™i verde.",
-        "ColecÈ›ia are o orientare internaÈ›ionalÄƒ.",
-        "Muzeul este atractiv pentru pasionaÈ›ii de artÄƒ È™i arhitecturÄƒ."
+        "Fondation Beyeler se afl�? lâng�? Basel.",
+        "Este unul dintre cele mai cunoscute muzee de art�? din Elve�?ia.",
+        "Loca�?ia din Riehen este lini�?tit�? �?i verde.",
+        "Colec�?ia are o orientare interna�?ional�?.",
+        "Muzeul este atractiv pentru pasiona�?ii de art�? �?i arhitectur�?."
       ],
       en: [
         "Fondation Beyeler is located near Basel.",
@@ -3039,11 +3039,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Clădirea muzeului a fost inaugurată în 1997 și este considerată o capodoperă a arhitecturii muzeale de Renzo Piano.",
-      "Fondation Beyeler deține una dintre cele mai importante colecții de lucrări semnate de Claude Monet din regiune.",
-      "Colecția permanentă este caracterizată de un dialog vizual inovator între modernismul vestic și arta etnografică mondială.",
-      "Faimosul bazin cu nuferi de la intrarea muzeului reflectă obsesia lui Monet pentru temele acvatice.",
-      "Ernst Beyeler a fost nu doar un mare colecționar, ci și unul dintre co-fondatorii târgului de artă Art Basel."
+      "Cl?direa muzeului a fost inaugurat? �n 1997 ?i este considerat? o capodoper? a arhitecturii muzeale de Renzo Piano.",
+      "Fondation Beyeler de?ine una dintre cele mai importante colec?ii de lucr?ri semnate de Claude Monet din regiune.",
+      "Colec?ia permanent? este caracterizat? de un dialog vizual inovator �ntre modernismul vestic ?i arta etnografic? mondial?.",
+      "Faimosul bazin cu nuferi de la intrarea muzeului reflect? obsesia lui Monet pentru temele acvatice.",
+      "Ernst Beyeler a fost nu doar un mare colec?ionar, ci ?i unul dintre co-fondatorii t�rgului de art? Art Basel."
     ],
       en: [
         "The Fondation Beyeler is the most visited art museum in Switzerland, drawing international art lovers year-round.",
@@ -3067,38 +3067,38 @@ export const switzerlandCities: POI[] = [
       en: "CERN Science Gateway"
     },
     description: {
-      de: "Das CERN Science Gateway bei Genf ist ein moderner Besucherort rund um Wissenschaft und Teilchenphysik. Das GebÃ¤ude ergÃ¤nzt das weltberÃ¼hmte CERN um ein starkes Ã¶ffentliches Erlebnis fÃ¼r Familien und Neugierige. Mit seiner klaren Architektursprache passt es perfekt zum Innovationsimage der Region Genf. FÃ¼r Technik- und Wissenschaftstourismus ist es eines der spannendsten Ziele der Schweiz.",
-      hu: "A Genf melletti CERN Science Gateway modern lÃ¡togatÃ³tÃ©r a tudomÃ¡nyrÃ³l Ã©s a rÃ©szecskefizikÃ¡rÃ³l. Az Ã©pÃ¼let a vilÃ¡ghÃ­rÅ± CERN-t erÅ‘s, nyilvÃ¡nos Ã©lmÃ©nnyel egÃ©szÃ­ti ki csalÃ¡dok Ã©s Ã©rdeklÅ‘dÅ‘k szÃ¡mÃ¡ra. Tiszta Ã©pÃ­tÃ©szeti nyelvÃ©vel tÃ¶kÃ©letesen illeszkedik Genf innovÃ¡ciÃ³s arculatÃ¡hoz. A technika- Ã©s tudomÃ¡nyturizmus szÃ¡mÃ¡ra ez SvÃ¡jc egyik legizgalmasabb cÃ©lpontja.",
-      ro: "CERN Science Gateway de lÃ¢ngÄƒ Geneva este un spaÈ›iu modern pentru vizitatori dedicat È™tiinÈ›ei È™i fizicii particulelor. ClÄƒdirea completeazÄƒ faimosul CERN cu o experienÈ›Äƒ publicÄƒ puternicÄƒ pentru familii È™i vizitatori curioÈ™i. Prin limbajul sÄƒu arhitectural clar, se potriveÈ™te perfect imaginii de inovaÈ›ie a regiunii Geneva. Pentru turismul tehnic È™i È™tiinÈ›ific, este una dintre cele mai interesante destinaÈ›ii din ElveÈ›ia.",
+      de: "Das CERN Science Gateway bei Genf ist ein moderner Besucherort rund um Wissenschaft und Teilchenphysik. Das Gebäude ergänzt das weltberühmte CERN um ein starkes öffentliches Erlebnis für Familien und Neugierige. Mit seiner klaren Architektursprache passt es perfekt zum Innovationsimage der Region Genf. Für Technik- und Wissenschaftstourismus ist es eines der spannendsten Ziele der Schweiz.",
+      hu: "A Genf melletti CERN Science Gateway modern látogatótér a tudományról és a részecskefizikáról. Az épület a világhírű CERN-t er�?s, nyilvános élménnyel egészíti ki családok és érdekl�?d�?k számára. Tiszta építészeti nyelvével tökéletesen illeszkedik Genf innovációs arculatához. A technika- és tudományturizmus számára ez Svájc egyik legizgalmasabb célpontja.",
+      ro: "CERN Science Gateway de lâng�? Geneva este un spa�?iu modern pentru vizitatori dedicat �?tiin�?ei �?i fizicii particulelor. Cl�?direa completeaz�? faimosul CERN cu o experien�?�? public�? puternic�? pentru familii �?i vizitatori curio�?i. Prin limbajul s�?u arhitectural clar, se potrive�?te perfect imaginii de inova�?ie a regiunii Geneva. Pentru turismul tehnic �?i �?tiin�?ific, este una dintre cele mai interesante destina�?ii din Elve�?ia.",
       en: "The CERN Science Gateway near Geneva is a modern visitor space about science and particle physics. The building complements the world-famous CERN with a strong public experience for families and curious visitors. Its clean architectural language fits the innovation image of the Geneva region perfectly. For tech and science tourism, it is one of the most exciting destinations in Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "CERN Science Gateway, deschis recent la periferia orașului Geneva, este noul centru inovator de educație și popularizare a științei aparținând laboratorului european de fizică a particulelor (CERN). Designul spectaculos al centrului, semnat de arhitectul Renzo Piano, include tuburi structurale imense care evocă arhitectura celebrului accelerator Large Hadron Collider subteran. Scopul centrului este de a aduce descoperirile complexe din domeniul mecanicii cuantice, cosmologiei și structurii universului mai aproape de publicul larg prin expoziții extrem de interactive și vizuale. Vizitatorii de toate vârstele sunt încurajați să participe la experimente în laboratoare demonstrative reale, să exploreze misterele antimateriei și să înțeleagă tehnologia de detectare a particulelor subatomice. Locația consolidează statutul orașului Geneva de epicentru global al științei de pionierat. (Fizică K8 — Fizica particulelor și educație științifică)",
+      ro: "CERN Science Gateway, deschis recent la periferia ora?ului Geneva, este noul centru inovator de educa?ie ?i popularizare a ?tiin?ei apar?in�nd laboratorului european de fizic? a particulelor (CERN). Designul spectaculos al centrului, semnat de arhitectul Renzo Piano, include tuburi structurale imense care evoc? arhitectura celebrului accelerator Large Hadron Collider subteran. Scopul centrului este de a aduce descoperirile complexe din domeniul mecanicii cuantice, cosmologiei ?i structurii universului mai aproape de publicul larg prin expozi?ii extrem de interactive ?i vizuale. Vizitatorii de toate v�rstele sunt �ncuraja?i s? participe la experimente �n laboratoare demonstrative reale, s? exploreze misterele antimateriei ?i s? �n?eleag? tehnologia de detectare a particulelor subatomice. Loca?ia consolideaz? statutul ora?ului Geneva de epicentru global al ?tiin?ei de pionierat. (Fizic? K8 ? Fizica particulelor ?i educa?ie ?tiin?ific?)",
       en: "The CERN Science Gateway, located just outside Geneva, is a cutting-edge visitor center designed to make the mind-bending world of particle physics accessible to the public. Designed by renowned architect Renzo Piano, the striking structure features tubular pavilions suspended above the ground, echoing the aesthetic of the massive particle accelerators buried deep beneath the earth. The facility offers highly interactive exhibitions, hands-on laboratory workshops for children, and immersive multimedia shows that explain the origins of the universe and the fundamental building blocks of matter. By demystifying complex concepts like the Higgs boson and antimatter, the Science Gateway bridges the gap between the world's most advanced scientific research and everyday curiosity."
     },
     facts: {
       de: [
-        "Der Science Gateway liegt beim CERN in der NÃ¤he von Genf.",
+        "Der Science Gateway liegt beim CERN in der Nähe von Genf.",
         "Er richtet sich an ein breites Publikum.",
         "Das Thema ist Wissenschaft und Teilchenphysik.",
-        "Die Architektur ist Teil der AttraktivitÃ¤t.",
-        "Der Ort stÃ¤rkt das internationale Image von Genf."
+        "Die Architektur ist Teil der Attraktivität.",
+        "Der Ort stärkt das internationale Image von Genf."
       ],
       hu: [
-        "A Science Gateway a CERN mellett, Genf kÃ¶zelÃ©ben talÃ¡lhatÃ³.",
-        "SzÃ©les kÃ¶zÃ¶nsÃ©gnek szÃ³l.",
-        "A tÃ©ma a tudomÃ¡ny Ã©s a rÃ©szecskefizika.",
-        "Az Ã©pÃ­tÃ©szet az attrakciÃ³ rÃ©sze.",
-        "A helyszÃ­n erÅ‘sÃ­ti Genf nemzetkÃ¶zi arculatÃ¡t."
+        "A Science Gateway a CERN mellett, Genf közelében található.",
+        "Széles közönségnek szól.",
+        "A téma a tudomány és a részecskefizika.",
+        "Az építészet az attrakció része.",
+        "A helyszín er�?síti Genf nemzetközi arculatát."
       ],
       ro: [
-        "Science Gateway se aflÄƒ la CERN, lÃ¢ngÄƒ Geneva.",
-        "Se adreseazÄƒ unui public larg.",
-        "Tema este È™tiinÈ›a È™i fizica particulelor.",
-        "Arhitectura face parte din atracÈ›ie.",
-        "Locul Ã®ntÄƒreÈ™te imaginea internaÈ›ionalÄƒ a Genevei."
+        "Science Gateway se afl�? la CERN, lâng�? Geneva.",
+        "Se adreseaz�? unui public larg.",
+        "Tema este �?tiin�?a �?i fizica particulelor.",
+        "Arhitectura face parte din atrac�?ie.",
+        "Locul înt�?re�?te imaginea interna�?ional�? a Genevei."
       ],
       en: [
         "The Science Gateway is at CERN near Geneva.",
@@ -3112,11 +3112,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "CERN Science Gateway este conceput pentru a găzdui peste 500.000 de vizitatori curioși în fiecare an.",
-      "Complexul a fost proiectat cu o atenție deosebită la durabilitate, producând energie curată prin panouri solare uriașe.",
-      "Vizitatorii pot experimenta modul în care funcționează acceleratoarele de particule prin intermediul unor modele la scară redusă.",
-      "Clădirile tubulare ale complexului traversează simbolic autostrada, reflectând ideea de știință fără bariere.",
-      "Laboratoarele de educație practică (Labo) din incintă sunt dotate pentru experimente destinate studenților de gimnaziu și liceu."
+      "CERN Science Gateway este conceput pentru a g?zdui peste 500.000 de vizitatori curio?i �n fiecare an.",
+      "Complexul a fost proiectat cu o aten?ie deosebit? la durabilitate, produc�nd energie curat? prin panouri solare uria?e.",
+      "Vizitatorii pot experimenta modul �n care func?ioneaz? acceleratoarele de particule prin intermediul unor modele la scar? redus?.",
+      "Cl?dirile tubulare ale complexului traverseaz? simbolic autostrada, reflect�nd ideea de ?tiin?? f?r? bariere.",
+      "Laboratoarele de educa?ie practic? (Labo) din incint? sunt dotate pentru experimente destinate studen?ilor de gimnaziu ?i liceu."
     ],
       en: [
         "The CERN Science Gateway was designed by Italian architect Renzo Piano and officially opened in 2023.",
@@ -3135,42 +3135,42 @@ export const switzerlandCities: POI[] = [
     coords: [7.5907, 47.5689],
     name: {
       de: "Rheinhafen Basel",
-      hu: "BÃ¡zeli Rajna-kikÃ¶tÅ‘",
+      hu: "Bázeli Rajna-kiköt�?",
       ro: "Portul Rinului din Basel",
       en: "Port of Basel"
     },
     description: {
-      de: "Der Rheinhafen Basel ist der wichtigste Binnenhafen der Schweiz und ein zentraler Knotenpunkt fÃ¼r GÃ¼terverkehr am Rhein. Hier treffen Schifffahrt, Logistik und internationale WarenstrÃ¶me aufeinander. Der Hafen zeigt sehr deutlich die wirtschaftliche Seite der Schweiz jenseits von Alpen und Tourismus. FÃ¼r Industrie- und Transportthemen ist Basel damit ein besonders starker Standort.",
-      hu: "A bÃ¡zeli Rajna-kikÃ¶tÅ‘ SvÃ¡jc legfontosabb belvÃ­zi kikÃ¶tÅ‘je Ã©s a Rajna menti Ã¡ruszÃ¡llÃ­tÃ¡s kÃ¶zponti csomÃ³pontja. Itt a hajÃ³zÃ¡s, a logisztika Ã©s a nemzetkÃ¶zi Ã¡ruforgalom talÃ¡lkozik. A kikÃ¶tÅ‘ nagyon jÃ³l mutatja SvÃ¡jc gazdasÃ¡gi oldalÃ¡t az Alpokon Ã©s a turizmuson tÃºl. Ipari Ã©s szÃ¡llÃ­tÃ¡si tÃ©mÃ¡khoz Basel kÃ¼lÃ¶nÃ¶sen erÅ‘s helyszÃ­n.",
-      ro: "Portul Rinului din Basel este cel mai important port interior al ElveÈ›iei È™i un nod central pentru transportul de mÄƒrfuri pe Rin. Aici se Ã®ntÃ¢lnesc navigaÈ›ia, logistica È™i fluxurile comerciale internaÈ›ionale. Portul aratÄƒ foarte clar latura economicÄƒ a ElveÈ›iei dincolo de Alpi È™i turism. Pentru temele industriale È™i de transport, Basel este o locaÈ›ie deosebit de puternicÄƒ.",
+      de: "Der Rheinhafen Basel ist der wichtigste Binnenhafen der Schweiz und ein zentraler Knotenpunkt für Güterverkehr am Rhein. Hier treffen Schifffahrt, Logistik und internationale Warenströme aufeinander. Der Hafen zeigt sehr deutlich die wirtschaftliche Seite der Schweiz jenseits von Alpen und Tourismus. Für Industrie- und Transportthemen ist Basel damit ein besonders starker Standort.",
+      hu: "A bázeli Rajna-kiköt�? Svájc legfontosabb belvízi kiköt�?je és a Rajna menti áruszállítás központi csomópontja. Itt a hajózás, a logisztika és a nemzetközi áruforgalom találkozik. A kiköt�? nagyon jól mutatja Svájc gazdasági oldalát az Alpokon és a turizmuson túl. Ipari és szállítási témákhoz Basel különösen er�?s helyszín.",
+      ro: "Portul Rinului din Basel este cel mai important port interior al Elve�?iei �?i un nod central pentru transportul de m�?rfuri pe Rin. Aici se întâlnesc naviga�?ia, logistica �?i fluxurile comerciale interna�?ionale. Portul arat�? foarte clar latura economic�? a Elve�?iei dincolo de Alpi �?i turism. Pentru temele industriale �?i de transport, Basel este o loca�?ie deosebit de puternic�?.",
       en: "The Port of Basel is Switzerland's most important inland port and a central hub for freight traffic on the Rhine. Shipping, logistics, and international goods flows meet here. The port shows Switzerland's economic side very clearly beyond the Alps and tourism. For industrial and transport topics, Basel is a particularly strong location."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Portul Basel (Rheinhafen), situat pe râul Rin, este inima logistică și comercială a Elveției, reprezentând singurul port și singura poartă de acces maritim indirectă a națiunii. Datorită conectivității navigabile de aici până la portul Rotterdam de la Marea Nordului, o mare parte din materiile prime grele, inclusiv petrol, oțel și grâne, intră în Elveția prin intermediul navelor fluviale de mare tonaj. Complexul portuar se întinde pe ambele maluri ale Rinului și găzduiește terminale uriașe de containere, depozite de combustibil și macarale gigantice de transbordare, generând o atmosferă industrială impresionantă. Mai mult decât o infrastructură comercială, regiunea de graniță, cunoscută sub numele de Dreiländereck (Colțul celor Trei Țări), s-a dezvoltat și ca o zonă de promenadă spectaculoasă și o destinație interesantă pentru cei pasionați de ingineria modernă. (Geografie K7 — Noduri de transport fluvial și comerț european)",
-      en: "The Port of Basel, situated at the 'Dreiländereck' where Switzerland, Germany, and France intersect, is the beating heart of Swiss international trade and logistics. As Switzerland's only direct connection to the global oceans via the Rhine River, the port is an indispensable economic lifeline, handling millions of tons of crucial raw materials, petroleum products, and containerized goods annually. The sprawling industrial complex features massive cranes, towering silos, and a constant flow of cargo barges navigating the river's currents. Beyond its immense economic significance, the port area has developed a unique, gritty urban charm, with converted industrial spaces hosting trendy cafes, art installations, and vibrant nightlife, creating a fascinating contrast between heavy industry and modern culture."
+      ro: "Portul Basel (Rheinhafen), situat pe r�ul Rin, este inima logistic? ?i comercial? a Elve?iei, reprezent�nd singurul port ?i singura poart? de acces maritim indirect? a na?iunii. Datorit? conectivit??ii navigabile de aici p�n? la portul Rotterdam de la Marea Nordului, o mare parte din materiile prime grele, inclusiv petrol, o?el ?i gr�ne, intr? �n Elve?ia prin intermediul navelor fluviale de mare tonaj. Complexul portuar se �ntinde pe ambele maluri ale Rinului ?i g?zduie?te terminale uria?e de containere, depozite de combustibil ?i macarale gigantice de transbordare, gener�nd o atmosfer? industrial? impresionant?. Mai mult dec�t o infrastructur? comercial?, regiunea de grani??, cunoscut? sub numele de Dreil�ndereck (Col?ul celor Trei ??ri), s-a dezvoltat ?i ca o zon? de promenad? spectaculoas? ?i o destina?ie interesant? pentru cei pasiona?i de ingineria modern?. (Geografie K7 ? Noduri de transport fluvial ?i comer? european)",
+      en: "The Port of Basel, situated at the 'Dreil�ndereck' where Switzerland, Germany, and France intersect, is the beating heart of Swiss international trade and logistics. As Switzerland's only direct connection to the global oceans via the Rhine River, the port is an indispensable economic lifeline, handling millions of tons of crucial raw materials, petroleum products, and containerized goods annually. The sprawling industrial complex features massive cranes, towering silos, and a constant flow of cargo barges navigating the river's currents. Beyond its immense economic significance, the port area has developed a unique, gritty urban charm, with converted industrial spaces hosting trendy cafes, art installations, and vibrant nightlife, creating a fascinating contrast between heavy industry and modern culture."
     },
     facts: {
       de: [
         "Basel ist der wichtigste Binnenhafen der Schweiz.",
         "Der Hafen liegt direkt am Rhein.",
-        "Er ist zentral fÃ¼r Import und Export.",
+        "Er ist zentral für Import und Export.",
         "Die Lage macht Basel zu einem Logistikzentrum.",
         "Der Rheinhafen ist ein starkes Industrie-Symbol."
       ],
       hu: [
-        "Basel SvÃ¡jc legfontosabb belvÃ­zi kikÃ¶tÅ‘je.",
-        "A kikÃ¶tÅ‘ kÃ¶zvetlenÃ¼l a Rajna partjÃ¡n talÃ¡lhatÃ³.",
-        "KulcsfontossÃ¡gÃº az import Ã©s export szÃ¡mÃ¡ra.",
-        "FekvÃ©se logisztikai kÃ¶zponttÃ¡ teszi Baselt.",
-        "A Rajna-kikÃ¶tÅ‘ erÅ‘s ipari jelkÃ©p."
+        "Basel Svájc legfontosabb belvízi kiköt�?je.",
+        "A kiköt�? közvetlenül a Rajna partján található.",
+        "Kulcsfontosságú az import és export számára.",
+        "Fekvése logisztikai központtá teszi Baselt.",
+        "A Rajna-kiköt�? er�?s ipari jelkép."
       ],
       ro: [
-        "Basel este cel mai important port interior al ElveÈ›iei.",
-        "Portul se aflÄƒ direct pe Rin.",
-        "Este esenÈ›ial pentru import È™i export.",
-        "PoziÈ›ia Ã®l transformÄƒ pe Basel Ã®ntr-un centru logistic.",
+        "Basel este cel mai important port interior al Elve�?iei.",
+        "Portul se afl�? direct pe Rin.",
+        "Este esen�?ial pentru import �?i export.",
+        "Pozi�?ia îl transform�? pe Basel într-un centru logistic.",
         "Portul Rinului este un simbol industrial puternic."
       ],
       en: [
@@ -3185,18 +3185,18 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Aproximativ 10-12% din totalul importurilor fizice elvețiene sunt procesate prin terminalele Portului Basel.",
-      "Cea mai cunoscută bornă a zonei este monumentul de la granița dintre Elveția, Germania și Franța (Dreiländereck).",
+      "Aproximativ 10-12% din totalul importurilor fizice elve?iene sunt procesate prin terminalele Portului Basel.",
+      "Cea mai cunoscut? born? a zonei este monumentul de la grani?a dintre Elve?ia, Germania ?i Fran?a (Dreil�ndereck).",
       "Rinul devine navigabil pentru navele de mare tonaj chiar din portul Basel.",
-      "Silozurile gigantice și rezervoarele de petrol din zonă formează rezervele strategice naționale ale Elveției.",
-      "Portul reprezintă o parte esențială a lanțului european de aprovizionare, legând Alpii de oceanul global."
+      "Silozurile gigantice ?i rezervoarele de petrol din zon? formeaz? rezervele strategice na?ionale ale Elve?iei.",
+      "Portul reprezint? o parte esen?ial? a lan?ului european de aprovizionare, leg�nd Alpii de oceanul global."
     ],
       en: [
         "The Port of Basel handles roughly 10% of all Swiss imports, making it crucial to the national economy.",
         "It is the only port in Switzerland that provides direct maritime access to the North Sea via the Rhine.",
-        "The port complex is actually divided into three distinct operational areas: Kleinhüningen, St. Johann, and Birsfelden.",
+        "The port complex is actually divided into three distinct operational areas: Kleinh�ningen, St. Johann, and Birsfelden.",
         "Massive petroleum storage tanks at the port hold a significant portion of Switzerland's strategic fuel reserves.",
-        "The 'Dreiländereck' monument within the port area marks the exact meeting point of Switzerland, Germany, and France."
+        "The 'Dreil�ndereck' monument within the port area marks the exact meeting point of Switzerland, Germany, and France."
       ]
     },
     image: "/geo-images/switzerland/port-basel.webp"
@@ -3208,20 +3208,20 @@ export const switzerlandCities: POI[] = [
     coords: [7.6248, 47.5515],
     name: {
       de: "Hafen Birsfelden",
-      hu: "Birsfeldeni kikÃ¶tÅ‘",
+      hu: "Birsfeldeni kiköt�?",
       ro: "Portul Birsfelden",
       en: "Port of Birsfelden"
     },
     description: {
-      de: "Der Hafen Birsfelden ergÃ¤nzt den Basler Rheinhafen und ist ein wichtiger Standort fÃ¼r Umschlag und Verteilung in der Nordwestschweiz. Die NÃ¤he zu Basel, Deutschland und Frankreich macht ihn fÃ¼r die regionale Logistik besonders wertvoll. Der Hafen zeigt, wie stark der Rhein als Wirtschaftsachse funktioniert. FÃ¼r Besucher ist der Ort ein klares Beispiel fÃ¼r moderne Schweizer Infrastruktur und Handel.",
-      hu: "A birsfeldeni kikÃ¶tÅ‘ kiegÃ©szÃ­ti a bÃ¡zeli Rajna-kikÃ¶tÅ‘t, Ã©s fontos Ã¡trakodÃ¡si, valamint elosztÃ¡si helyszÃ­n Ã‰szaknyugat-SvÃ¡jcban. Basel, NÃ©metorszÃ¡g Ã©s FranciaorszÃ¡g kÃ¶zelsÃ©ge kÃ¼lÃ¶nÃ¶sen Ã©rtÃ©kessÃ© teszi regionÃ¡lis logisztikÃ¡ban. A kikÃ¶tÅ‘ jÃ³l mutatja, milyen erÅ‘s gazdasÃ¡gi tengely a Rajna. A lÃ¡togatÃ³k szÃ¡mÃ¡ra ez a modern svÃ¡jci infrastruktÃºra Ã©s kereskedelem vilÃ¡gos pÃ©ldÃ¡ja.",
-      ro: "Portul Birsfelden completeazÄƒ portul Rinului din Basel È™i este o locaÈ›ie importantÄƒ pentru transbordare È™i distribuÈ›ie Ã®n nord-vestul ElveÈ›iei. Apropierea de Basel, Germania È™i FranÈ›a Ã®l face deosebit de valoros pentru logistica regionalÄƒ. Portul aratÄƒ cÃ¢t de puternic funcÈ›ioneazÄƒ Rinul ca axÄƒ economicÄƒ. Pentru vizitatori, locul este un exemplu clar de infrastructurÄƒ È™i comerÈ› elveÈ›ian modern.",
+      de: "Der Hafen Birsfelden ergänzt den Basler Rheinhafen und ist ein wichtiger Standort für Umschlag und Verteilung in der Nordwestschweiz. Die Nähe zu Basel, Deutschland und Frankreich macht ihn für die regionale Logistik besonders wertvoll. Der Hafen zeigt, wie stark der Rhein als Wirtschaftsachse funktioniert. Für Besucher ist der Ort ein klares Beispiel für moderne Schweizer Infrastruktur und Handel.",
+      hu: "A birsfeldeni kiköt�? kiegészíti a bázeli Rajna-kiköt�?t, és fontos átrakodási, valamint elosztási helyszín �?szaknyugat-Svájcban. Basel, Németország és Franciaország közelsége különösen értékessé teszi regionális logisztikában. A kiköt�? jól mutatja, milyen er�?s gazdasági tengely a Rajna. A látogatók számára ez a modern svájci infrastruktúra és kereskedelem világos példája.",
+      ro: "Portul Birsfelden completeaz�? portul Rinului din Basel �?i este o loca�?ie important�? pentru transbordare �?i distribu�?ie în nord-vestul Elve�?iei. Apropierea de Basel, Germania �?i Fran�?a îl face deosebit de valoros pentru logistica regional�?. Portul arat�? cât de puternic func�?ioneaz�? Rinul ca ax�? economic�?. Pentru vizitatori, locul este un exemplu clar de infrastructur�? �?i comer�? elve�?ian modern.",
       en: "The Port of Birsfelden complements Basel's Rhine port and is an important transshipment and distribution site in northwest Switzerland. Its proximity to Basel, Germany, and France makes it especially valuable for regional logistics. The port shows how strongly the Rhine functions as an economic axis. For visitors, it is a clear example of modern Swiss infrastructure and trade."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Portul Birsfelden este un segment esențial și extrem de productiv al complexului portuar extins al Rinului din regiunea Basel. Situat chiar în amonte de principala centrală hidroelectrică a fluviului din zonă, acest port se specializează pe prelucrarea produselor petroliere lichide, având pe teritoriul său o mare parte din silozurile și rezervoarele gigantice care stochează rezerva națională de carburanți a Elveției. Macaralele masive din Birsfelden descarcă zilnic materii prime siderurgice vitale și cereale. Dincolo de funcționalitatea sa brutal industrială, o insulă ecologică amenajată la sistemul de ecluze atrage locuitorii pasionați de privitul navelor și de plimbări, oferind o perspectivă captivantă asupra modului în care navele fluviale imense sunt urcate și coborâte prin ecluză pentru a-și continua călătoria. (Economie K8 — Infrastructura energetică și stocarea strategică)",
+      ro: "Portul Birsfelden este un segment esen?ial ?i extrem de productiv al complexului portuar extins al Rinului din regiunea Basel. Situat chiar �n amonte de principala central? hidroelectric? a fluviului din zon?, acest port se specializeaz? pe prelucrarea produselor petroliere lichide, av�nd pe teritoriul s?u o mare parte din silozurile ?i rezervoarele gigantice care stocheaz? rezerva na?ional? de carburan?i a Elve?iei. Macaralele masive din Birsfelden descarc? zilnic materii prime siderurgice vitale ?i cereale. Dincolo de func?ionalitatea sa brutal industrial?, o insul? ecologic? amenajat? la sistemul de ecluze atrage locuitorii pasiona?i de privitul navelor ?i de plimb?ri, oferind o perspectiv? captivant? asupra modului �n care navele fluviale imense sunt urcate ?i cobor�te prin ecluz? pentru a-?i continua c?l?toria. (Economie K8 ? Infrastructura energetic? ?i stocarea strategic?)",
       en: "The Port of Birsfelden is a vital, specialized component of the broader Swiss Rhine Ports network, located just upstream from the main Basel docks. Operating since the 1930s, this bustling transshipment hub focuses heavily on the storage and distribution of liquid fuels, chemicals, and heavy bulk goods essential for Swiss industry. The port's infrastructure is defined by its extensive pipeline networks, towering storage silos, and the impressive Birsfelden lock and hydroelectric power station, which enables barges to safely navigate the changing river levels. Despite its intensely industrial nature, the port area is flanked by a popular recreational island (Birsfelden Kraftwerkinsel), demonstrating a unique Swiss balance between heavy logistics and protected public green spaces."
     },
     facts: {
@@ -3229,22 +3229,22 @@ export const switzerlandCities: POI[] = [
         "Birsfelden liegt neben Basel am Rhein.",
         "Der Hafen ist Teil der wichtigen Nordwestschweizer Logistik.",
         "Er dient als Umschlag- und Verteilzentrum.",
-        "Die Lage nahe drei LÃ¤ndern ist ein Vorteil.",
-        "Der Standort ist fÃ¼r Handel und Transport bedeutsam."
+        "Die Lage nahe drei Ländern ist ein Vorteil.",
+        "Der Standort ist für Handel und Transport bedeutsam."
       ],
       hu: [
-        "Birsfelden Basel mellett, a RajnÃ¡nÃ¡l talÃ¡lhatÃ³.",
-        "A kikÃ¶tÅ‘ az Ã©szaknyugat-svÃ¡jci logisztika rÃ©sze.",
-        "ÃÂtrakodÃ¡si Ã©s elosztÃ³kÃ¶zpontkÃ©nt mÅ±kÃ¶dik.",
-        "A hÃ¡rom orszÃ¡g kÃ¶zelsÃ©ge elÅ‘ny.",
-        "A helyszÃ­n fontos a kereskedelem Ã©s a szÃ¡llÃ­tÃ¡s szÃ¡mÃ¡ra."
+        "Birsfelden Basel mellett, a Rajnánál található.",
+        "A kiköt�? az északnyugat-svájci logisztika része.",
+        "Átrakodási és elosztóközpontként működik.",
+        "A három ország közelsége el�?ny.",
+        "A helyszín fontos a kereskedelem és a szállítás számára."
       ],
       ro: [
-        "Birsfelden se aflÄƒ lÃ¢ngÄƒ Basel, pe Rin.",
-        "Portul face parte din logistica nord-vestului ElveÈ›iei.",
-        "FuncÈ›ioneazÄƒ ca centru de transbordare È™i distribuÈ›ie.",
-        "Apropierea de trei È›Äƒri este un avantaj.",
-        "LocaÈ›ia este importantÄƒ pentru comerÈ› È™i transport."
+        "Birsfelden se afl�? lâng�? Basel, pe Rin.",
+        "Portul face parte din logistica nord-vestului Elve�?iei.",
+        "Func�?ioneaz�? ca centru de transbordare �?i distribu�?ie.",
+        "Apropierea de trei �?�?ri este un avantaj.",
+        "Loca�?ia este important�? pentru comer�? �?i transport."
       ],
       en: [
         "Birsfelden lies beside Basel on the Rhine.",
@@ -3258,11 +3258,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Birsfelden gestionează marea majoritate a importurilor de combustibili petrolieri pe cale fluvială în Elveția.",
-      "Portul este parte integrantă din organizația Porturile Elvețiene ale Rinului (Schweizerische Rheinhäfen).",
-      "Ecluza Birsfelden permite vaselor lungi de zeci de metri să depășească diferența de nivel a cursului râului.",
-      "Zona de depozitare masivă de aici joacă un rol imperativ în securitatea resurselor naționale de urgență.",
-      "Traseul din preajma portului și insula Kraftwerkinsel sunt zone populare de relaxare industrial-urbană pentru localnici."
+      "Birsfelden gestioneaz? marea majoritate a importurilor de combustibili petrolieri pe cale fluvial? �n Elve?ia.",
+      "Portul este parte integrant? din organiza?ia Porturile Elve?iene ale Rinului (Schweizerische Rheinh�fen).",
+      "Ecluza Birsfelden permite vaselor lungi de zeci de metri s? dep??easc? diferen?a de nivel a cursului r�ului.",
+      "Zona de depozitare masiv? de aici joac? un rol imperativ �n securitatea resurselor na?ionale de urgen??.",
+      "Traseul din preajma portului ?i insula Kraftwerkinsel sunt zone populare de relaxare industrial-urban? pentru localnici."
     ],
       en: [
         "The Port of Birsfelden is one of the three major sections that make up the Swiss Rhine Ports.",
@@ -3286,38 +3286,38 @@ export const switzerlandCities: POI[] = [
       en: "Swissmill Tower"
     },
     description: {
-      de: "Der Swissmill Turm in ZÃ¼rich ist ein markantes IndustriegebÃ¤ude und ein sichtbares Zeichen fÃ¼r die moderne Lebensmittelproduktion in der Stadt. Als hoher Getreidespeicher prÃ¤gt er die Stadtsilhouette am Limmat-Ufer deutlich. Das GebÃ¤ude verbindet FunktionalitÃ¤t mit einer sehr starken urbanen PrÃ¤senz. FÃ¼r Besucher ist es ein ungewÃ¶hnliches, aber typisches Beispiel fÃ¼r Schweizer Industriearchitektur.",
-      hu: "A zÃ¼richi Swissmill torony lÃ¡tvÃ¡nyos ipari Ã©pÃ¼let, Ã©s a modern Ã©lelmiszer-termelÃ©s markÃ¡ns jele a vÃ¡rosban. Magas gabonaraktÃ¡rkÃ©nt erÅ‘sen formÃ¡lja a Limmat-parti vÃ¡roskÃ©pet. Az Ã©pÃ¼let a funkcionalitÃ¡st nagyon erÅ‘s vÃ¡rosi jelenlÃ©ttel Ã¶tvÃ¶zi. A lÃ¡togatÃ³k szÃ¡mÃ¡ra szokatlan, mÃ©gis tipikus pÃ©ldÃ¡ja a svÃ¡jci ipari Ã©pÃ­tÃ©szetnek.",
-      ro: "Turnul Swissmill din ZÃ¼rich este o clÄƒdire industrialÄƒ distinctivÄƒ È™i un semn vizibil al producÈ›iei moderne de alimente Ã®n oraÈ™. Ca siloz Ã®nalt pentru cereale, marcheazÄƒ puternic silueta urbanÄƒ de pe malul Limmatului. ClÄƒdirea combinÄƒ funcÈ›ionalitatea cu o prezenÈ›Äƒ urbanÄƒ foarte puternicÄƒ. Pentru vizitatori, este un exemplu neobiÈ™nuit, dar tipic, de arhitecturÄƒ industrialÄƒ elveÈ›ianÄƒ.",
+      de: "Der Swissmill Turm in Zürich ist ein markantes Industriegebäude und ein sichtbares Zeichen für die moderne Lebensmittelproduktion in der Stadt. Als hoher Getreidespeicher prägt er die Stadtsilhouette am Limmat-Ufer deutlich. Das Gebäude verbindet Funktionalität mit einer sehr starken urbanen Präsenz. Für Besucher ist es ein ungewöhnliches, aber typisches Beispiel für Schweizer Industriearchitektur.",
+      hu: "A zürichi Swissmill torony látványos ipari épület, és a modern élelmiszer-termelés markáns jele a városban. Magas gabonaraktárként er�?sen formálja a Limmat-parti városképet. Az épület a funkcionalitást nagyon er�?s városi jelenléttel ötvözi. A látogatók számára szokatlan, mégis tipikus példája a svájci ipari építészetnek.",
+      ro: "Turnul Swissmill din Zürich este o cl�?dire industrial�? distinctiv�? �?i un semn vizibil al produc�?iei moderne de alimente în ora�?. Ca siloz înalt pentru cereale, marcheaz�? puternic silueta urban�? de pe malul Limmatului. Cl�?direa combin�? func�?ionalitatea cu o prezen�?�? urban�? foarte puternic�?. Pentru vizitatori, este un exemplu neobi�?nuit, dar tipic, de arhitectur�? industrial�? elve�?ian�?.",
       en: "The Swissmill Tower in Zurich is a striking industrial building and a visible sign of modern food production in the city. As a tall grain silo, it strongly shapes the skyline on the Limmat. The building combines functionality with a very strong urban presence. For visitors, it is an unusual but typical example of Swiss industrial architecture."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Turnul Swissmill (Swissmill Tower) din Zürich este o structură de stocare uriașă și o caracteristică proeminentă și controversată a orizontului urban al celui mai mare oraș elvețian. Atingând impresionanta înălțime de 118 metri, a fost considerat la momentul finalizării cel mai înalt siloz de cereale în funcțiune de pe glob, fiind, de asemenea, a doua cea mai înaltă clădire din oraș. Situat de-a lungul râului Limmat, turnul adăpostește peste o sută de silozuri care stochează grânele esențiale pentru morile Swissmill, o companie care produce aproximativ 30% din tot făina consumată în țară. Designul său complet opac și aspectul de monolit gri i-au adus critici privind estetica urbană, însă prezența sa garantează siguranța alimentară a Elveției, reducând drastic nevoia de transport pe cale rutieră din depozitele rurale. (Geografie K8 — Securitatea alimentară și industria alimentară)",
+      ro: "Turnul Swissmill (Swissmill Tower) din Z�rich este o structur? de stocare uria?? ?i o caracteristic? proeminent? ?i controversat? a orizontului urban al celui mai mare ora? elve?ian. Ating�nd impresionanta �n?l?ime de 118 metri, a fost considerat la momentul finaliz?rii cel mai �nalt siloz de cereale �n func?iune de pe glob, fiind, de asemenea, a doua cea mai �nalt? cl?dire din ora?. Situat de-a lungul r�ului Limmat, turnul ad?poste?te peste o sut? de silozuri care stocheaz? gr�nele esen?iale pentru morile Swissmill, o companie care produce aproximativ 30% din tot f?ina consumat? �n ?ar?. Designul s?u complet opac ?i aspectul de monolit gri i-au adus critici privind estetica urban?, �ns? prezen?a sa garanteaz? siguran?a alimentar? a Elve?iei, reduc�nd drastic nevoia de transport pe cale rutier? din depozitele rurale. (Geografie K8 ? Securitatea alimentar? ?i industria alimentar?)",
       en: "The Swissmill Tower, looming dramatically over the Limmat River in Zurich's vibrant District 5, is an extraordinary piece of modern industrial architecture. At 118 meters tall, it is the second-highest building in Zurich and the tallest active grain silo in the world. Rather than moving its operations to the outskirts of the city, the Swissmill company chose to expand vertically, resulting in a striking, concrete monolith that operates 24/7 to produce the flour needed to feed much of Switzerland. The tower stands as a powerful symbol of urban industrial integration, proving that large-scale food production can coexist seamlessly within a rapidly gentrifying, densely populated modern city center."
     },
     facts: {
       de: [
-        "Der Swissmill Turm steht in ZÃ¼rich.",
-        "Er ist eines der auffÃ¤lligsten IndustriegebÃ¤ude der Stadt.",
-        "Das GebÃ¤ude dient der Getreidelagerung.",
+        "Der Swissmill Turm steht in Zürich.",
+        "Er ist eines der auffälligsten Industriegebäude der Stadt.",
+        "Das Gebäude dient der Getreidelagerung.",
         "Die Lage am Limmat-Ufer macht ihn sehr sichtbar.",
-        "Er ist ein Beispiel fÃ¼r urbane Industriearchitektur."
+        "Er ist ein Beispiel für urbane Industriearchitektur."
       ],
       hu: [
-        "A Swissmill torony ZÃ¼richben Ã¡ll.",
-        "A vÃ¡ros egyik legfeltÅ±nÅ‘bb ipari Ã©pÃ¼lete.",
-        "GabonatÃ¡rolÃ³ funkciÃ³t lÃ¡t el.",
-        "A Limmat-parti fekvÃ©s nagyon lÃ¡thatÃ³vÃ¡ teszi.",
-        "A vÃ¡rosi ipari Ã©pÃ­tÃ©szet jÃ³ pÃ©ldÃ¡ja."
+        "A Swissmill torony Zürichben áll.",
+        "A város egyik legfeltűn�?bb ipari épülete.",
+        "Gabonatároló funkciót lát el.",
+        "A Limmat-parti fekvés nagyon láthatóvá teszi.",
+        "A városi ipari építészet jó példája."
       ],
       ro: [
-        "Turnul Swissmill se aflÄƒ Ã®n ZÃ¼rich.",
-        "Este una dintre cele mai vizibile clÄƒdiri industriale ale oraÈ™ului.",
+        "Turnul Swissmill se afl�? în Zürich.",
+        "Este una dintre cele mai vizibile cl�?diri industriale ale ora�?ului.",
         "Are rol de depozitare a cerealelor.",
-        "PoziÈ›ia pe malul Limmatului Ã®l face foarte vizibil.",
-        "Este un exemplu de arhitecturÄƒ industrialÄƒ urbanÄƒ."
+        "Pozi�?ia pe malul Limmatului îl face foarte vizibil.",
+        "Este un exemplu de arhitectur�? industrial�? urban�?."
       ],
       en: [
         "The Swissmill Tower stands in Zurich.",
@@ -3331,11 +3331,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Turnul măsoară 118 metri și este cel mai înalt siloz operațional de stocare din lume.",
-      "Deține capacitatea impresionantă de a stoca 40.000 de tone de grâu și alte cereale.",
-      "Extinderea silozului a fost aprobată de locuitorii din Zürich printr-un referendum public organizat în 2011.",
-      "Proiectul are o bază extrem de ecologică, eliminând necesitatea a peste 25.000 de călătorii cu camioanele de marfă pe an.",
-      "Structura din beton nu are ferestre destinate funcțiilor rezidențiale sau de birou, fiind dedicată exclusiv industriei."
+      "Turnul m?soar? 118 metri ?i este cel mai �nalt siloz opera?ional de stocare din lume.",
+      "De?ine capacitatea impresionant? de a stoca 40.000 de tone de gr�u ?i alte cereale.",
+      "Extinderea silozului a fost aprobat? de locuitorii din Z�rich printr-un referendum public organizat �n 2011.",
+      "Proiectul are o baz? extrem de ecologic?, elimin�nd necesitatea a peste 25.000 de c?l?torii cu camioanele de marf? pe an.",
+      "Structura din beton nu are ferestre destinate func?iilor reziden?iale sau de birou, fiind dedicat? exclusiv industriei."
     ],
       en: [
         "The Swissmill Tower is currently the tallest operating grain silo in the world, standing at 118 meters.",
@@ -3359,15 +3359,15 @@ export const switzerlandCities: POI[] = [
       en: "Novartis Campus"
     },
     description: {
-      de: "Der Novartis Campus in Basel ist ein bedeutender Standort fÃ¼r Pharma, Forschung und moderne Unternehmensarchitektur. Das GelÃ¤nde zeigt, wie stark die Life-Sciences-Industrie die Region Basel prÃ¤gt. Gleichzeitig ist der Campus fÃ¼r seine zeitgenÃ¶ssischen Bauten und die klare stÃ¤dtebauliche Sprache bekannt. FÃ¼r Wirtschafts- und Innovationsreisen ist er eines der wichtigsten Ziele der Nordwestschweiz.",
-      hu: "A bÃ¡zeli Novartis Campus fontos helyszÃ­n a gyÃ³gyszeripar, a kutatÃ¡s Ã©s a modern vÃ¡llalati Ã©pÃ­tÃ©szet szÃ¡mÃ¡ra. A terÃ¼let jÃ³l mutatja, mennyire meghatÃ¡rozza a life sciences ipar a bÃ¡zeli rÃ©giÃ³t. Ugyanakkor a campus kortÃ¡rs Ã©pÃ¼leteirÅ‘l Ã©s vilÃ¡gos vÃ¡rosÃ©pÃ­tÃ©szeti nyelvÃ©rÅ‘l ismert. Ãœzleti Ã©s innovÃ¡ciÃ³s utazÃ¡sokhoz ez Ã‰szaknyugat-SvÃ¡jc egyik legfontosabb cÃ©lpontja.",
-      ro: "Novartis Campus din Basel este o locaÈ›ie importantÄƒ pentru industria farmaceuticÄƒ, cercetare È™i arhitecturÄƒ corporativÄƒ modernÄƒ. Complexul aratÄƒ cÃ¢t de puternic defineÈ™te industria life sciences regiunea Basel. ÃŽn acelaÈ™i timp, campusul este cunoscut pentru clÄƒdirile sale contemporane È™i limbajul urbanistic clar. Pentru cÄƒlÄƒtoriile de business È™i inovaÈ›ie, este una dintre cele mai importante destinaÈ›ii din nord-vestul ElveÈ›iei.",
+      de: "Der Novartis Campus in Basel ist ein bedeutender Standort für Pharma, Forschung und moderne Unternehmensarchitektur. Das Gelände zeigt, wie stark die Life-Sciences-Industrie die Region Basel prägt. Gleichzeitig ist der Campus für seine zeitgenössischen Bauten und die klare städtebauliche Sprache bekannt. Für Wirtschafts- und Innovationsreisen ist er eines der wichtigsten Ziele der Nordwestschweiz.",
+      hu: "A bázeli Novartis Campus fontos helyszín a gyógyszeripar, a kutatás és a modern vállalati építészet számára. A terület jól mutatja, mennyire meghatározza a life sciences ipar a bázeli régiót. Ugyanakkor a campus kortárs épületeir�?l és világos városépítészeti nyelvér�?l ismert. �?zleti és innovációs utazásokhoz ez �?szaknyugat-Svájc egyik legfontosabb célpontja.",
+      ro: "Novartis Campus din Basel este o loca�?ie important�? pentru industria farmaceutic�?, cercetare �?i arhitectur�? corporativ�? modern�?. Complexul arat�? cât de puternic define�?te industria life sciences regiunea Basel. �?n acela�?i timp, campusul este cunoscut pentru cl�?dirile sale contemporane �?i limbajul urbanistic clar. Pentru c�?l�?toriile de business �?i inova�?ie, este una dintre cele mai importante destina�?ii din nord-vestul Elve�?iei.",
       en: "The Novartis Campus in Basel is an important site for pharmaceuticals, research, and modern corporate architecture. The grounds show how strongly the life sciences industry shapes the Basel region. At the same time, the campus is known for its contemporary buildings and clear urban design language. For business and innovation travel, it is one of the most important destinations in northwest Switzerland."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Novartis Campus din Basel este sediul global ultra-modern și inima de cercetare a unuia dintre giganții farmaceutici ai lumii, reprezentând o capodoperă a planificării urbane contemporane corporative. Amplasat pe fosta zonă industrială chimică a fabricii Sandoz din apropierea graniței cu Franța, campusul a fost reimaginat ca o „orășel al cunoașterii” (City of Knowledge). La designul său au contribuit o pleiadă impresionantă de arhitecți de renume mondial, inclusiv Frank Gehry, Tadao Ando, Álvaro Siza și Eduardo Souto de Moura, fiecare semnând clădiri inovatoare cu forme, culori și materiale variate. Pe lângă birouri și laboratoare, complexul oferă angajaților parcuri bogate, restaurante și galerii de artă menite să stimuleze inovația și interacțiunea. Astăzi, anumite sectoare ale complexului au fost deschise publicului, oferind un studiu uimitor despre cum știința de înaltă performanță se îmbină cu arhitectura premiată. (Științe Sociale K8 — Arhitectură corporativă și inovație farmaceutică)",
+      ro: "Novartis Campus din Basel este sediul global ultra-modern ?i inima de cercetare a unuia dintre gigan?ii farmaceutici ai lumii, reprezent�nd o capodoper? a planific?rii urbane contemporane corporative. Amplasat pe fosta zon? industrial? chimic? a fabricii Sandoz din apropierea grani?ei cu Fran?a, campusul a fost reimaginat ca o ?or??el al cunoa?terii? (City of Knowledge). La designul s?u au contribuit o pleiad? impresionant? de arhitec?i de renume mondial, inclusiv Frank Gehry, Tadao Ando, �lvaro Siza ?i Eduardo Souto de Moura, fiecare semn�nd cl?diri inovatoare cu forme, culori ?i materiale variate. Pe l�ng? birouri ?i laboratoare, complexul ofer? angaja?ilor parcuri bogate, restaurante ?i galerii de art? menite s? stimuleze inova?ia ?i interac?iunea. Ast?zi, anumite sectoare ale complexului au fost deschise publicului, oferind un studiu uimitor despre cum ?tiin?a de �nalt? performan?? se �mbin? cu arhitectura premiat?. (?tiin?e Sociale K8 ? Arhitectur? corporativ? ?i inova?ie farmaceutic?)",
       en: "The Novartis Campus in Basel is a spectacular, ultra-modern headquarters for the global pharmaceutical giant, renowned worldwide as a masterclass in corporate architecture and urban planning. Transformed from a gritty, enclosed chemical manufacturing site, the campus now functions as a 'city of knowledge' featuring buildings designed by a veritable who's who of Pritzker Prize-winning architects, including Frank Gehry, Tadao Ando, and Herzog & de Meuron. The layout prioritizes open, light-filled laboratories, serene green parks, and pedestrian-friendly avenues designed to foster spontaneous collaboration and scientific innovation. Once strictly closed to the public, parts of the campus are now accessible, offering visitors a fascinating glimpse into the intersection of cutting-edge life sciences and elite contemporary design."
     },
     facts: {
@@ -3375,22 +3375,22 @@ export const switzerlandCities: POI[] = [
         "Der Novartis Campus liegt in Basel.",
         "Er ist ein zentraler Standort der Life-Sciences-Industrie.",
         "Forschung und Unternehmensarchitektur treffen hier zusammen.",
-        "Das GelÃ¤nde prÃ¤gt das moderne Basel-Bild.",
+        "Das Gelände prägt das moderne Basel-Bild.",
         "Der Standort ist international wirtschaftlich relevant."
       ],
       hu: [
-        "A Novartis Campus Baselben talÃ¡lhatÃ³.",
-        "A life sciences ipar egyik kÃ¶zponti helyszÃ­ne.",
-        "Itt talÃ¡lkozik a kutatÃ¡s Ã©s a vÃ¡llalati Ã©pÃ­tÃ©szet.",
-        "A terÃ¼let formÃ¡lja a modern Basel-kÃ©pet.",
-        "A helyszÃ­n nemzetkÃ¶zileg is gazdasÃ¡gilag fontos."
+        "A Novartis Campus Baselben található.",
+        "A life sciences ipar egyik központi helyszíne.",
+        "Itt találkozik a kutatás és a vállalati építészet.",
+        "A terület formálja a modern Basel-képet.",
+        "A helyszín nemzetközileg is gazdaságilag fontos."
       ],
       ro: [
-        "Novartis Campus se aflÄƒ Ã®n Basel.",
+        "Novartis Campus se afl�? în Basel.",
         "Este un loc central pentru industria life sciences.",
-        "Aici se Ã®ntÃ¢lnesc cercetarea È™i arhitectura corporativÄƒ.",
-        "Ansamblul modeleazÄƒ imaginea modernÄƒ a Baselului.",
-        "LocaÈ›ia are o relevanÈ›Äƒ economicÄƒ internaÈ›ionalÄƒ."
+        "Aici se întâlnesc cercetarea �?i arhitectura corporativ�?.",
+        "Ansamblul modeleaz�? imaginea modern�? a Baselului.",
+        "Loca�?ia are o relevan�?�? economic�? interna�?ional�?."
       ],
       en: [
         "The Novartis Campus is in Basel.",
@@ -3404,11 +3404,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Novartis Campus ocupă zona unde anterior a funcționat industria chimică grea din secolul al XIX-lea în Basel.",
-      "Masterplanul general al acestui campus de inovație a fost conceput de reputatul arhitect Vittorio Magnago Lampugnani.",
-      "Campusul conține zeci de clădiri de cercetare și administrative distincte, proiectate de o elită a arhitecturii globale.",
-      "Designul campusului promovează mișcarea pietonală, traficul mașinilor fiind direcționat exclusiv în parcări subterane vaste.",
-      "Proiectul urmărește să creeze un mediu ideal de lucru și colaborare pentru mai mult de 10.000 de cercetători și specialiști."
+      "Novartis Campus ocup? zona unde anterior a func?ionat industria chimic? grea din secolul al XIX-lea �n Basel.",
+      "Masterplanul general al acestui campus de inova?ie a fost conceput de reputatul arhitect Vittorio Magnago Lampugnani.",
+      "Campusul con?ine zeci de cl?diri de cercetare ?i administrative distincte, proiectate de o elit? a arhitecturii globale.",
+      "Designul campusului promoveaz? mi?carea pietonal?, traficul ma?inilor fiind direc?ionat exclusiv �n parc?ri subterane vaste.",
+      "Proiectul urm?re?te s? creeze un mediu ideal de lucru ?i colaborare pentru mai mult de 10.000 de cercet?tori ?i speciali?ti."
     ],
       en: [
         "The Novartis Campus was master-planned by the renowned Italian architect and urban designer Vittorio Magnago Lampugnani.",
@@ -3427,43 +3427,43 @@ export const switzerlandCities: POI[] = [
     coords: [6.7606, 46.4993],
     name: {
       de: "Lavaux-Weinberge",
-      hu: "Lavaux szÅ‘lÅ‘teraszok",
+      hu: "Lavaux sz�?l�?teraszok",
       ro: "Terasele viticole Lavaux",
       en: "Lavaux Vineyards"
     },
     description: {
-      de: "Die Lavaux-Weinberge am Genfersee sind eines der bekanntesten Weinbaugebiete der Schweiz und ein Musterbeispiel fÃ¼r terrassierte Landwirtschaft. Die steilen HÃ¤nge mit Blick auf den See schaffen eine auÃŸergewÃ¶hnlich attraktive Kulturlandschaft. Der Weinbau ist hier wirtschaftlich, landschaftlich und touristisch eng miteinander verbunden. Lavaux steht damit fÃ¼r hochwertige Schweizer Agrarlandschaft und starke Genusskultur.",
-      hu: "A Genfi-tÃ³ menti lavaux-i szÅ‘lÅ‘teraszok SvÃ¡jc egyik legismertebb borvidÃ©kei, Ã©s a teraszos mezÅ‘gazdasÃ¡g mintapÃ©ldÃ¡i. A tÃ³ra nÃ©zÅ‘ meredek lejtÅ‘k rendkÃ­vÃ¼l vonzÃ³ tÃ¡jkÃ©pet teremtenek. Itt a szÅ‘lÅ‘termesztÃ©s gazdasÃ¡gi, tÃ¡ji Ã©s turisztikai szempontbÃ³l szorosan Ã¶sszekapcsolÃ³dik. Lavaux ezÃ©rt a minÅ‘sÃ©gi svÃ¡jci agrÃ¡rtÃ¡j Ã©s az erÅ‘s gasztronÃ³miai kultÃºra jelkÃ©pe.",
-      ro: "Terasele viticole Lavaux de pe malul Lacului Geneva sunt una dintre cele mai cunoscute regiuni viticole din ElveÈ›ia È™i un exemplu de agriculturÄƒ Ã®n terase. Pantele abrupte cu vedere la lac creeazÄƒ un peisaj cultural deosebit de atractiv. Aici viticultura este strÃ¢ns legatÄƒ de economie, peisaj È™i turism. Lavaux reprezintÄƒ astfel peisajul agricol elveÈ›ian de calitate È™i o culturÄƒ gastronomicÄƒ puternicÄƒ.",
+      de: "Die Lavaux-Weinberge am Genfersee sind eines der bekanntesten Weinbaugebiete der Schweiz und ein Musterbeispiel für terrassierte Landwirtschaft. Die steilen Hänge mit Blick auf den See schaffen eine au�?ergewöhnlich attraktive Kulturlandschaft. Der Weinbau ist hier wirtschaftlich, landschaftlich und touristisch eng miteinander verbunden. Lavaux steht damit für hochwertige Schweizer Agrarlandschaft und starke Genusskultur.",
+      hu: "A Genfi-tó menti lavaux-i sz�?l�?teraszok Svájc egyik legismertebb borvidékei, és a teraszos mez�?gazdaság mintapéldái. A tóra néz�? meredek lejt�?k rendkívül vonzó tájképet teremtenek. Itt a sz�?l�?termesztés gazdasági, táji és turisztikai szempontból szorosan összekapcsolódik. Lavaux ezért a min�?ségi svájci agrártáj és az er�?s gasztronómiai kultúra jelképe.",
+      ro: "Terasele viticole Lavaux de pe malul Lacului Geneva sunt una dintre cele mai cunoscute regiuni viticole din Elve�?ia �?i un exemplu de agricultur�? în terase. Pantele abrupte cu vedere la lac creeaz�? un peisaj cultural deosebit de atractiv. Aici viticultura este strâns legat�? de economie, peisaj �?i turism. Lavaux reprezint�? astfel peisajul agricol elve�?ian de calitate �?i o cultur�? gastronomic�? puternic�?.",
       en: "The Lavaux vineyards on Lake Geneva are one of Switzerland's best-known wine regions and a model of terraced agriculture. The steep slopes overlooking the lake create an exceptionally attractive cultural landscape. Here, wine growing is closely tied to the economy, landscape, and tourism. Lavaux therefore stands for high-quality Swiss agricultural scenery and a strong food culture."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Terasele viticole din Lavaux, care se întind pe 30 de kilometri de-a lungul pantelor sudice și însorite ale Lacului Geneva între Lausanne și Montreux, reprezintă una dintre cele mai spectaculoase și istorice zone agricole din Elveția. Din acest motiv, regiunea a fost recunoscută drept Patrimoniu Mondial UNESCO. Acest peisaj cultural a fost modelat manual încă din secolul al XI-lea de către călugării benedictini și cistercieni care au ridicat ziduri masive de piatră pentru a stabiliza vița de vie pe versanții abrupți. Viile de aici produc vinuri locale extrem de apreciate, în special soiul de struguri albi Chasselas. Conform unei zicale locale tradiționale, vița de vie din Lavaux este încălzită de „trei sori”: soarele direct de pe cer, soarele reflectat de pe suprafața lacului și soarele absorbit în timpul zilei de zidurile de piatră încălzite care degajă căldura pe timpul nopții. (Geografie K7 — Viticultură și peisaje agricole istorice)",
+      ro: "Terasele viticole din Lavaux, care se �ntind pe 30 de kilometri de-a lungul pantelor sudice ?i �nsorite ale Lacului Geneva �ntre Lausanne ?i Montreux, reprezint? una dintre cele mai spectaculoase ?i istorice zone agricole din Elve?ia. Din acest motiv, regiunea a fost recunoscut? drept Patrimoniu Mondial UNESCO. Acest peisaj cultural a fost modelat manual �nc? din secolul al XI-lea de c?tre c?lug?rii benedictini ?i cistercieni care au ridicat ziduri masive de piatr? pentru a stabiliza vi?a de vie pe versan?ii abrup?i. Viile de aici produc vinuri locale extrem de apreciate, �n special soiul de struguri albi Chasselas. Conform unei zicale locale tradi?ionale, vi?a de vie din Lavaux este �nc?lzit? de ?trei sori?: soarele direct de pe cer, soarele reflectat de pe suprafa?a lacului ?i soarele absorbit �n timpul zilei de zidurile de piatr? �nc?lzite care degaj? c?ldura pe timpul nop?ii. (Geografie K7 ? Viticultur? ?i peisaje agricole istorice)",
       en: "The Lavaux Vineyard Terraces, stretching majestically along the northern shores of Lake Geneva between Lausanne and Montreux, represent one of Switzerland's most breathtaking cultural landscapes. This UNESCO World Heritage site features miles of steeply terraced vines, supported by ancient stone walls originally constructed by Cistercian monks in the 11th century. The region benefits from the 'rule of three suns': direct sunlight, rays reflected off the lake, and heat retained by the stone walls, creating the perfect microclimate for cultivating the celebrated Chasselas grape. Visitors can hike through the narrow, winding paths connecting charming wine-making villages like Saint-Saphorin and Epesses, tasting exquisite, crisp white wines while enjoying sweeping panoramas of the lake and the distant French Alps."
     },
     facts: {
       de: [
         "Lavaux liegt am Genfersee.",
         "Die Terrassen sind ein wichtiges Weinbaugebiet.",
-        "Der Weinbau prÃ¤gt die Kulturlandschaft stark.",
-        "Die HÃ¤nge sind steil und sehr fotogen.",
+        "Der Weinbau prägt die Kulturlandschaft stark.",
+        "Die Hänge sind steil und sehr fotogen.",
         "Lavaux ist ein starker Tourismus- und Genussort."
       ],
       hu: [
-        "Lavaux a Genfi-tÃ³ partjÃ¡n talÃ¡lhatÃ³.",
-        "A teraszok fontos borvidÃ©ket alkotnak.",
-        "A szÅ‘lÅ‘termesztÃ©s erÅ‘sen meghatÃ¡rozza a tÃ¡jat.",
-        "A lejtÅ‘k meredekek Ã©s nagyon fotogÃ©nek.",
-        "Lavaux erÅ‘s turisztikai Ã©s gasztronÃ³miai helyszÃ­n."
+        "Lavaux a Genfi-tó partján található.",
+        "A teraszok fontos borvidéket alkotnak.",
+        "A sz�?l�?termesztés er�?sen meghatározza a tájat.",
+        "A lejt�?k meredekek és nagyon fotogének.",
+        "Lavaux er�?s turisztikai és gasztronómiai helyszín."
       ],
       ro: [
-        "Lavaux se aflÄƒ pe malul Lacului Geneva.",
-        "Terasele formeazÄƒ o zonÄƒ viticolÄƒ importantÄƒ.",
-        "Viticultura defineÈ™te puternic peisajul.",
-        "Pantele sunt abrupte È™i foarte fotogenice.",
-        "Lavaux este o destinaÈ›ie puternicÄƒ pentru turism È™i gastronomie."
+        "Lavaux se afl�? pe malul Lacului Geneva.",
+        "Terasele formeaz�? o zon�? viticol�? important�?.",
+        "Viticultura define�?te puternic peisajul.",
+        "Pantele sunt abrupte �?i foarte fotogenice.",
+        "Lavaux este o destina�?ie puternic�? pentru turism �?i gastronomie."
       ],
       en: [
         "Lavaux lies on Lake Geneva.",
@@ -3477,11 +3477,11 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Regiunea viticolă a teraselor din Lavaux este protejată de UNESCO din anul 2007 datorită unicității și vechimii sale.",
-      "Soiul de struguri Chasselas acoperă majoritatea covârșitoare a producției din această zonă prețioasă.",
-      "Majoritatea vinurilor produse pe aceste terase sunt consumate exclusiv în Elveția, exportul fiind extrem de limitat.",
-      "Aproximativ 10.000 de terase de piatră distincte pot fi găsite de-a lungul acestei coaste montane de lac.",
-      "Traseele și drumurile pitorești dintre vii atrag numeroși turiști și pasionați de turism enologic de-a lungul întregului an."
+      "Regiunea viticol? a teraselor din Lavaux este protejat? de UNESCO din anul 2007 datorit? unicit??ii ?i vechimii sale.",
+      "Soiul de struguri Chasselas acoper? majoritatea cov�r?itoare a produc?iei din aceast? zon? pre?ioas?.",
+      "Majoritatea vinurilor produse pe aceste terase sunt consumate exclusiv �n Elve?ia, exportul fiind extrem de limitat.",
+      "Aproximativ 10.000 de terase de piatr? distincte pot fi g?site de-a lungul acestei coaste montane de lac.",
+      "Traseele ?i drumurile pitore?ti dintre vii atrag numero?i turi?ti ?i pasiona?i de turism enologic de-a lungul �ntregului an."
     ],
       en: [
         "The Lavaux Vineyard Terraces were designated a UNESCO World Heritage site in 2007.",
@@ -3505,38 +3505,38 @@ export const switzerlandCities: POI[] = [
       en: "Emmental"
     },
     description: {
-      de: "Das Emmental ist ein klassisches Schweizer Landwirtschaftsgebiet und weltweit fÃ¼r seine KÃ¤seproduktion bekannt. Die sanften HÃ¼gel, HÃ¶fe und Wiesen schaffen ein sehr typisches Bild der lÃ¤ndlichen Schweiz. Hier verbinden sich Landwirtschaft, Handwerk und regionale IdentitÃ¤t besonders eng. FÃ¼r Besucher ist das Emmental ein ideales Ziel, um die agrarische Seite der Schweiz authentisch zu erleben.",
-      hu: "Az Emmental klasszikus svÃ¡jci mezÅ‘gazdasÃ¡gi vidÃ©k, Ã©s vilÃ¡gszerte hÃ­res a sajtgyÃ¡rtÃ¡sÃ¡rÃ³l. A lÃ¡gy dombok, a farmok Ã©s a rÃ©tek nagyon tipikus kÃ©pÃ©t adjÃ¡k a vidÃ©ki SvÃ¡jcnak. Itt a mezÅ‘gazdasÃ¡g, a kÃ©zmÅ±vessÃ©g Ã©s a regionÃ¡lis identitÃ¡s kÃ¼lÃ¶nÃ¶sen szorosan Ã¶sszekapcsolÃ³dik. A lÃ¡togatÃ³k szÃ¡mÃ¡ra az Emmental ideÃ¡lis hely a svÃ¡jci agrÃ¡rvilÃ¡g hiteles megtapasztalÃ¡sÃ¡ra.",
-      ro: "Emmentalul este o regiune agricolÄƒ clasicÄƒ a ElveÈ›iei È™i este cunoscut Ã®n Ã®ntreaga lume pentru producÈ›ia de brÃ¢nzÄƒ. Dealurile line, fermele È™i pajiÈ™tile creeazÄƒ o imagine foarte tipicÄƒ a ElveÈ›iei rurale. Aici agricultura, meÈ™teÈ™ugul È™i identitatea regionalÄƒ sunt strÃ¢ns legate. Pentru vizitatori, Emmentalul este o destinaÈ›ie idealÄƒ pentru a experimenta autentic latura agricolÄƒ a ElveÈ›iei.",
+      de: "Das Emmental ist ein klassisches Schweizer Landwirtschaftsgebiet und weltweit für seine Käseproduktion bekannt. Die sanften Hügel, Höfe und Wiesen schaffen ein sehr typisches Bild der ländlichen Schweiz. Hier verbinden sich Landwirtschaft, Handwerk und regionale Identität besonders eng. Für Besucher ist das Emmental ein ideales Ziel, um die agrarische Seite der Schweiz authentisch zu erleben.",
+      hu: "Az Emmental klasszikus svájci mez�?gazdasági vidék, és világszerte híres a sajtgyártásáról. A lágy dombok, a farmok és a rétek nagyon tipikus képét adják a vidéki Svájcnak. Itt a mez�?gazdaság, a kézművesség és a regionális identitás különösen szorosan összekapcsolódik. A látogatók számára az Emmental ideális hely a svájci agrárvilág hiteles megtapasztalására.",
+      ro: "Emmentalul este o regiune agricol�? clasic�? a Elve�?iei �?i este cunoscut în întreaga lume pentru produc�?ia de brânz�?. Dealurile line, fermele �?i paji�?tile creeaz�? o imagine foarte tipic�? a Elve�?iei rurale. Aici agricultura, me�?te�?ugul �?i identitatea regional�? sunt strâns legate. Pentru vizitatori, Emmentalul este o destina�?ie ideal�? pentru a experimenta autentic latura agricol�? a Elve�?iei.",
       en: "Emmental is a classic Swiss agricultural region and is known worldwide for cheese production. The gentle hills, farms, and meadows create a very typical picture of rural Switzerland. Agriculture, craft, and regional identity are especially closely linked here. For visitors, Emmental is an ideal place to experience Switzerland's agricultural side authentically."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Emmental este o regiune profund rurală și colinară idilică din cantonul Berna, celebră pe plan mondial ca fiind locul de origine al inconfundabilei brânze elvețiene cu găuri (Emmentaler). Peisajul său liniștit pare scos dintr-o carte poștală clasică: pășuni de un verde vibrant pe care pasc vaci pașnice, văi adânci și case țărănești masive din lemn cu acoperișuri extinse, specifice regiunii, împodobite adesea cu flori luxuriante. Aici, procesul tradițional de producere a brânzei continuă pe sute de ferme mici de lapte, păstrând proceduri manuale neschimbate de secole. Laptele brut de cea mai înaltă calitate este prelucrat zilnic în cazane gigantice de cupru. O vizită în Emmental nu oferă doar delicii culinare excelente, ci o imagine completă a tradițiilor agricole de durată care stau la baza reputației agricole superioare a Elveției. (Cultură K6 — Tradiții lactat-agricole și gastronomie locală)",
+      ro: "Emmental este o regiune profund rural? ?i colinar? idilic? din cantonul Berna, celebr? pe plan mondial ca fiind locul de origine al inconfundabilei br�nze elve?iene cu g?uri (Emmentaler). Peisajul s?u lini?tit pare scos dintr-o carte po?tal? clasic?: p??uni de un verde vibrant pe care pasc vaci pa?nice, v?i ad�nci ?i case ??r?ne?ti masive din lemn cu acoperi?uri extinse, specifice regiunii, �mpodobite adesea cu flori luxuriante. Aici, procesul tradi?ional de producere a br�nzei continu? pe sute de ferme mici de lapte, p?str�nd proceduri manuale neschimbate de secole. Laptele brut de cea mai �nalt? calitate este prelucrat zilnic �n cazane gigantice de cupru. O vizit? �n Emmental nu ofer? doar delicii culinare excelente, ci o imagine complet? a tradi?iilor agricole de durat? care stau la baza reputa?iei agricole superioare a Elve?iei. (Cultur? K6 ? Tradi?ii lactat-agricole ?i gastronomie local?)",
       en: "The Emmental region, situated in the heart of the canton of Bern, is a quintessentially Swiss agricultural landscape of rolling green hills, deep valleys, and majestic, large-roofed wooden farmhouses. It is globally famous as the birthplace of Emmentaler, the iconic Swiss cheese characterized by its large holes and nutty flavor. Agriculture here remains deeply tied to tradition; lush, flower-filled meadows provide the perfect grazing grounds for the cows whose raw milk is crucial to authentic cheese production. Visitors to the region can explore historic show dairies, where the ancient craft of cheese-making is demonstrated over open fires, and hike along scenic trails that offer an idyllic, unspoiled view of rural Swiss life."
     },
     facts: {
       de: [
-        "Das Emmental ist fÃ¼r Schweizer KÃ¤se bekannt.",
+        "Das Emmental ist für Schweizer Käse bekannt.",
         "Die Region liegt im Kanton Bern.",
-        "Sanfte HÃ¼gel prÃ¤gen die Landschaft.",
+        "Sanfte Hügel prägen die Landschaft.",
         "Landwirtschaft und Tradition sind eng verbunden.",
-        "Die Region steht fÃ¼r lÃ¤ndliche Schweizer AuthentizitÃ¤t."
+        "Die Region steht für ländliche Schweizer Authentizität."
       ],
       hu: [
-        "Az Emmental a svÃ¡jci sajtrÃ³l ismert.",
-        "A rÃ©giÃ³ Bern kantonban talÃ¡lhatÃ³.",
-        "LÃ¡gy dombok hatÃ¡rozzÃ¡k meg a tÃ¡jat.",
-        "A mezÅ‘gazdasÃ¡g Ã©s a hagyomÃ¡ny szorosan Ã¶sszekapcsolÃ³dik.",
-        "A rÃ©giÃ³ a vidÃ©ki svÃ¡jci hitelessÃ©get kÃ©pviseli."
+        "Az Emmental a svájci sajtról ismert.",
+        "A régió Bern kantonban található.",
+        "Lágy dombok határozzák meg a tájat.",
+        "A mez�?gazdaság és a hagyomány szorosan összekapcsolódik.",
+        "A régió a vidéki svájci hitelességet képviseli."
       ],
       ro: [
-        "Emmentalul este cunoscut pentru brÃ¢nza elveÈ›ianÄƒ.",
-        "Regiunea se aflÄƒ Ã®n cantonul Berna.",
+        "Emmentalul este cunoscut pentru brânza elve�?ian�?.",
+        "Regiunea se afl�? în cantonul Berna.",
         "Peisajul este dominat de dealuri line.",
-        "Agricultura È™i tradiÈ›ia sunt strÃ¢ns legate.",
-        "Regiunea reprezintÄƒ autenticitatea ruralÄƒ elveÈ›ianÄƒ."
+        "Agricultura �?i tradi�?ia sunt strâns legate.",
+        "Regiunea reprezint�? autenticitatea rural�? elve�?ian�?."
       ],
       en: [
         "Emmental is known for Swiss cheese.",
@@ -3550,18 +3550,18 @@ export const switzerlandCities: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Adevărata brânză Emmentaler AOC este produsă doar folosind lapte nepasteurizat și fără furaje artificiale din siloz.",
-      "O singură roată imensă de brânză tradițională Emmental poate cântări până la 120 de kilograme și necesită peste 1.000 litri de lapte.",
-      "Celebrele găuri rotunde ale brânzei se formează în timpul maturării, când bacteriile eliberează gaz dioxid de carbon.",
-      "Arhitectura fermelor Emmental se caracterizează prin acoperișuri uriașe asimetrice care se coboară aproape de pământ pe o parte.",
-      "Regiunea pune la dispoziție renumitul „Traseu al Brânzei” (Käseroute) care poate fi explorat excelent folosind biciclete electrice."
+      "Adev?rata br�nz? Emmentaler AOC este produs? doar folosind lapte nepasteurizat ?i f?r? furaje artificiale din siloz.",
+      "O singur? roat? imens? de br�nz? tradi?ional? Emmental poate c�nt?ri p�n? la 120 de kilograme ?i necesit? peste 1.000 litri de lapte.",
+      "Celebrele g?uri rotunde ale br�nzei se formeaz? �n timpul matur?rii, c�nd bacteriile elibereaz? gaz dioxid de carbon.",
+      "Arhitectura fermelor Emmental se caracterizeaz? prin acoperi?uri uria?e asimetrice care se coboar? aproape de p?m�nt pe o parte.",
+      "Regiunea pune la dispozi?ie renumitul ?Traseu al Br�nzei? (K�seroute) care poate fi explorat excelent folosind biciclete electrice."
     ],
       en: [
         "The region is the historic birthplace of Emmentaler cheese, famously known worldwide simply as 'Swiss cheese'.",
         "Authentic Emmentaler AOC is still made exclusively from the raw, unpasteurized milk of grass-fed cows.",
         "The characteristic large holes in the cheese are caused by carbon dioxide bubbles forming during the fermentation process.",
         "The landscape is famous for its massive, traditional wooden farmhouses featuring distinctive, sweeping overhanging roofs.",
-        "Visitors can watch cheese being made the traditional way over an open wood fire at the Emmentaler Schaukäserei."
+        "Visitors can watch cheese being made the traditional way over an open wood fire at the Emmentaler Schauk�serei."
       ]
     },
     image: "/geo-images/switzerland/agriculture-emmental-dairy.webp"
@@ -3576,40 +3576,40 @@ export const switzerlandCulture: POI[] = [
     coords: [7.4474, 46.9481],
     name: {
       de: "Berner Altstadt",
-      hu: "Bern Ã³vÃ¡rosa",
+      hu: "Bern óvárosa",
       ro: "Centrul vechi din Berna",
       en: "Bern Old Town"
     },
     description: {
-      de: "Die Berner Altstadt ist ein auÃŸergewÃ¶hnlich gut erhaltenes mittelalterliches Stadtzentrum. Der Zytglogge-Turm ist eines ihrer bekanntesten Symbole. Das Gebiet gehÃ¶rt zum UNESCO-Welterbe.",
-      hu: "Bern Ã³vÃ¡rosa kivÃ©telesen jÃ³l megÅ‘rzÃ¶tt kÃ¶zÃ©pkori vÃ¡roskÃ¶zpont. A Zytglogge torony az egyik legismertebb jelkÃ©pe. A terÃ¼let az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
+      de: "Die Berner Altstadt ist ein au�?ergewöhnlich gut erhaltenes mittelalterliches Stadtzentrum. Der Zytglogge-Turm ist eines ihrer bekanntesten Symbole. Das Gebiet gehört zum UNESCO-Welterbe.",
+      hu: "Bern óvárosa kivételesen jól meg�?rzött középkori városközpont. A Zytglogge torony az egyik legismertebb jelképe. A terület az UNESCO Világörökség része.",
       ro: "Centrul vechi din Berna este un centru medieval extraordinar de bine conservat. Turnul Zytglogge este unul dintre cele mai cunoscute simboluri ale sale. Zona face parte din patrimoniul mondial UNESCO.",
       en: "Bern Old Town is an exceptionally well-preserved medieval city center. The Zytglogge tower is one of its best-known symbols. The area is a UNESCO World Heritage site."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Centrul vechi istoric al capitalei Berna este un monument perfect conservat al inovației urbanistice medievale târzii, motiv pentru care a fost inclus integral pe lista Patrimoniului Mondial UNESCO în 1983. După ce orașul original construit din lemn a ars aproape în totalitate într-un incendiu devastator din 1405, el a fost meticulos reconstruit din gresie masivă locală. Această reconstrucție a dus la apariția caracteristicilor sale definitorii de astăzi: arcadele (Lauben) acoperite spectaculoase care flanchează pe ambele părți străzile lungi și înguste, nenumăratele fântâni colorate renascentiste din secolul al XVI-lea împodobite cu figuri eroice sau fanteziste, și fațadele omogene aliniate perfect. Străzile sale au găzduit minți strălucite precum Albert Einstein, iar catedrala târziu-gotică Berner Münster domină peisajul, având cel mai înalt turn bisericesc din Elveția (100 de metri). (Istorie K7 — Restaurarea urbană și patrimoniul european)",
-      en: "The Old City of Bern (Altstadt) is a breathtakingly preserved medieval townscape that has earned a rightful place as a UNESCO World Heritage site. Founded in the 12th century on a peninsular hill surrounded by the sweeping curves of the Aare River, the city was rebuilt in distinct local sandstone after a devastating fire in 1405. The Altstadt is famous for its six kilometers of continuous, covered shopping arcades (Lauben), making it one of the longest weather-sheltered promenades in Europe. Historic fountains adorned with colorful Renaissance figures, the towering Gothic Cathedral (Münster), and the intricate astronomical clock of the Zytglogge complete a cityscape that feels entirely untouched by time."
+      ro: "Centrul vechi istoric al capitalei Berna este un monument perfect conservat al inova?iei urbanistice medievale t�rzii, motiv pentru care a fost inclus integral pe lista Patrimoniului Mondial UNESCO �n 1983. Dup? ce ora?ul original construit din lemn a ars aproape �n totalitate �ntr-un incendiu devastator din 1405, el a fost meticulos reconstruit din gresie masiv? local?. Aceast? reconstruc?ie a dus la apari?ia caracteristicilor sale definitorii de ast?zi: arcadele (Lauben) acoperite spectaculoase care flancheaz? pe ambele p?r?i str?zile lungi ?i �nguste, nenum?ratele f�nt�ni colorate renascentiste din secolul al XVI-lea �mpodobite cu figuri eroice sau fanteziste, ?i fa?adele omogene aliniate perfect. Str?zile sale au g?zduit min?i str?lucite precum Albert Einstein, iar catedrala t�rziu-gotic? Berner M�nster domin? peisajul, av�nd cel mai �nalt turn bisericesc din Elve?ia (100 de metri). (Istorie K7 ? Restaurarea urban? ?i patrimoniul european)",
+      en: "The Old City of Bern (Altstadt) is a breathtakingly preserved medieval townscape that has earned a rightful place as a UNESCO World Heritage site. Founded in the 12th century on a peninsular hill surrounded by the sweeping curves of the Aare River, the city was rebuilt in distinct local sandstone after a devastating fire in 1405. The Altstadt is famous for its six kilometers of continuous, covered shopping arcades (Lauben), making it one of the longest weather-sheltered promenades in Europe. Historic fountains adorned with colorful Renaissance figures, the towering Gothic Cathedral (M�nster), and the intricate astronomical clock of the Zytglogge complete a cityscape that feels entirely untouched by time."
     },
     facts: {
       de: [
         "Die Altstadt ist UNESCO-Welterbe.",
-        "Die LaubengÃ¤nge prÃ¤gen das Stadtbild.",
+        "Die Laubengänge prägen das Stadtbild.",
         "Der Zytglogge-Turm ist ein Wahrzeichen.",
-        "Viele StraÃŸen stammen aus dem Mittelalter."
+        "Viele Stra�?en stammen aus dem Mittelalter."
       ],
       hu: [
-        "Az Ã³vÃ¡ros UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g.",
-        "Az Ã¡rkÃ¡dos sÃ©tÃ¡lÃ³folyosÃ³k meghatÃ¡rozzÃ¡k a vÃ¡roskÃ©pet.",
-        "A Zytglogge torony a vÃ¡ros jelkÃ©pe.",
-        "Sok utca a kÃ¶zÃ©pkorbÃ³l szÃ¡rmazik."
+        "Az óváros UNESCO Világörökség.",
+        "Az árkádos sétálófolyosók meghatározzák a városképet.",
+        "A Zytglogge torony a város jelképe.",
+        "Sok utca a középkorból származik."
       ],
       ro: [
         "Centrul vechi este patrimoniu mondial UNESCO.",
-        "Pasajele cu arcade definesc aspectul oraÈ™ului.",
-        "Turnul Zytglogge este un simbol al oraÈ™ului.",
-        "Multe strÄƒzi dateazÄƒ din Evul Mediu."
+        "Pasajele cu arcade definesc aspectul ora�?ului.",
+        "Turnul Zytglogge este un simbol al ora�?ului.",
+        "Multe str�?zi dateaz�? din Evul Mediu."
       ],
       en: [
         "The old town is a UNESCO World Heritage site.",
@@ -3622,11 +3622,11 @@ export const switzerlandCulture: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Berna a fost refăcută din piatră după incendiul din anul 1405, ceea ce i-a conferit un aspect uniform inconfundabil.",
-      "Catedrala Berner Münster are un turn impunător, cel mai înalt de pe întreg teritoriul Elveției, oferind priveliști extinse.",
-      "Celebrul Turn cu Ceas (Zytglogge) a funcționat odată ca poartă defensivă principală pentru barierele exterioare ale orașului.",
-      "11 fântâni din epoca Renașterii, decorate cu coloane colorate și alegorii cu animale și eroi, străjuiesc zonele pietonale.",
-      "Arhitectura orașului prezintă un model rar de planificare stradală urbană medievală strict rectangulară."
+      "Berna a fost ref?cut? din piatr? dup? incendiul din anul 1405, ceea ce i-a conferit un aspect uniform inconfundabil.",
+      "Catedrala Berner M�nster are un turn impun?tor, cel mai �nalt de pe �ntreg teritoriul Elve?iei, oferind priveli?ti extinse.",
+      "Celebrul Turn cu Ceas (Zytglogge) a func?ionat odat? ca poart? defensiv? principal? pentru barierele exterioare ale ora?ului.",
+      "11 f�nt�ni din epoca Rena?terii, decorate cu coloane colorate ?i alegorii cu animale ?i eroi, str?juiesc zonele pietonale.",
+      "Arhitectura ora?ului prezint? un model rar de planificare stradal? urban? medieval? strict rectangular?."
     ],
       en: [
         "The Old City of Bern was designated a UNESCO World Heritage site in 1983 due to its preserved medieval layout.",
@@ -3644,41 +3644,41 @@ export const switzerlandCulture: POI[] = [
     parent: "country-switzerland",
     coords: [10.0, 46.4],
     name: {
-      de: "RhÃ¤tische Bahn Bernina",
+      de: "Rhätische Bahn Bernina",
       hu: "Rhaetian Railway Bernina",
-      ro: "Calea feratÄƒ reticÄƒ Bernina",
+      ro: "Calea ferat�? retic�? Bernina",
       en: "Rhaetian Railway Bernina"
     },
     description: {
-      de: "Die RhÃ¤tische Bahn auf der Berninastrecke ist eine spektakulÃ¤re Gebirgsbahn in den Alpen. Sie verbindet beeindruckende Ingenieurskunst mit Landschaften von groÃŸer SchÃ¶nheit. Der Abschnitt gehÃ¶rt zum UNESCO-Welterbe.",
-      hu: "A Bernina-szakaszon futÃ³ RhÃ¤tische Bahn lÃ¡tvÃ¡nyos hegyi vasÃºt az Alpokban. Az inÅ¾enieria Ã©s a tÃ¡j szÃ©psÃ©ge itt kÃ¼lÃ¶nÃ¶sen erÅ‘sen talÃ¡lkozik. Ez a szakasz az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-      ro: "Calea feratÄƒ reticÄƒ de pe traseul Bernina este o linie montanÄƒ spectaculoasÄƒ din Alpi. Ea combinÄƒ ingineria impresionantÄƒ cu peisaje de mare frumuseÈ›e. SecÈ›iunea face parte din patrimoniul mondial UNESCO.",
+      de: "Die Rhätische Bahn auf der Berninastrecke ist eine spektakuläre Gebirgsbahn in den Alpen. Sie verbindet beeindruckende Ingenieurskunst mit Landschaften von gro�?er Schönheit. Der Abschnitt gehört zum UNESCO-Welterbe.",
+      hu: "A Bernina-szakaszon futó Rhätische Bahn látványos hegyi vasút az Alpokban. Az inženieria és a táj szépsége itt különösen er�?sen találkozik. Ez a szakasz az UNESCO Világörökség része.",
+      ro: "Calea ferat�? retic�? de pe traseul Bernina este o linie montan�? spectaculoas�? din Alpi. Ea combin�? ingineria impresionant�? cu peisaje de mare frumuse�?e. Sec�?iunea face parte din patrimoniul mondial UNESCO.",
       en: "The Rhaetian Railway on the Bernina route is a spectacular mountain railway in the Alps. It combines impressive engineering with landscapes of great beauty. The section is part of the UNESCO World Heritage list."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Calea ferată retică din peisajele Albula și Bernina este o minune inginerească montană legendară din cantonul Graubünden, declarată Patrimoniu Mondial UNESCO. Construită la începutul secolului al XX-lea pentru a aduce turismul în văile alpine anterior izolate ale Elveției, rețeaua șerpuiește peste zeci de poduri din piatră și prin numeroase tuneluri spirale tăiate ingenios în munte pentru a câștiga altitudine fără utilizarea unor angrenaje cu cremalieră. Faimosul viaduct Landwasser, cu arcurile sale elegante din piatră curbată la mare înălțime, este o emblemă vizuală faimoasă în toată lumea. Pe lângă perfecțiunea tehnică a realizării sale, călătoria faimoaselor trenuri (în special Bernina Express) oferă pasagerilor oportunitatea de a experimenta unele dintre cele mai pitorești, abrupte și dramatice treceri din Europa, chiar la baza ghețarilor masivi. (Științele Naturii K8 — Ingineria transporturilor și dezvoltarea zonelor alpine)",
-      en: "The Rhaetian Railway in the Albula/Bernina Landscapes is a triumph of early 20th-century railway engineering, seamlessly weaving through the dramatic, high-alpine terrain of the canton of Graubünden. Recognizing its outstanding architectural and engineering value, this narrow-gauge railway network was awarded UNESCO World Heritage status. The route connecting Thusis to Tirano in Italy traverses breathtaking mountain passes, dark spiral tunnels, and soaring stone viaducts, most famously the multi-arched Landwasser Viaduct. Traveling on the panoramic Bernina Express, passengers experience an unparalleled journey that transitions from glistening, high-altitude glaciers down to the palm-lined, Mediterranean climate of the Italian border, demonstrating a perfect harmony between technology and raw nature."
+      ro: "Calea ferat? retic? din peisajele Albula ?i Bernina este o minune inginereasc? montan? legendar? din cantonul Graub�nden, declarat? Patrimoniu Mondial UNESCO. Construit? la �nceputul secolului al XX-lea pentru a aduce turismul �n v?ile alpine anterior izolate ale Elve?iei, re?eaua ?erpuie?te peste zeci de poduri din piatr? ?i prin numeroase tuneluri spirale t?iate ingenios �n munte pentru a c�?tiga altitudine f?r? utilizarea unor angrenaje cu cremalier?. Faimosul viaduct Landwasser, cu arcurile sale elegante din piatr? curbat? la mare �n?l?ime, este o emblem? vizual? faimoas? �n toat? lumea. Pe l�ng? perfec?iunea tehnic? a realiz?rii sale, c?l?toria faimoaselor trenuri (�n special Bernina Express) ofer? pasagerilor oportunitatea de a experimenta unele dintre cele mai pitore?ti, abrupte ?i dramatice treceri din Europa, chiar la baza ghe?arilor masivi. (?tiin?ele Naturii K8 ? Ingineria transporturilor ?i dezvoltarea zonelor alpine)",
+      en: "The Rhaetian Railway in the Albula/Bernina Landscapes is a triumph of early 20th-century railway engineering, seamlessly weaving through the dramatic, high-alpine terrain of the canton of Graub�nden. Recognizing its outstanding architectural and engineering value, this narrow-gauge railway network was awarded UNESCO World Heritage status. The route connecting Thusis to Tirano in Italy traverses breathtaking mountain passes, dark spiral tunnels, and soaring stone viaducts, most famously the multi-arched Landwasser Viaduct. Traveling on the panoramic Bernina Express, passengers experience an unparalleled journey that transitions from glistening, high-altitude glaciers down to the palm-lined, Mediterranean climate of the Italian border, demonstrating a perfect harmony between technology and raw nature."
     },
     facts: {
       de: [
-        "Die Berninastrecke gehÃ¶rt zum UNESCO-Welterbe.",
-        "Sie verbindet die Schweiz mit spektakulÃ¤ren AlpenpÃ¤ssen.",
+        "Die Berninastrecke gehört zum UNESCO-Welterbe.",
+        "Sie verbindet die Schweiz mit spektakulären Alpenpässen.",
         "Die Bahn gilt als Meisterwerk der Ingenieurkunst.",
         "Die Strecke ist bei Touristen sehr beliebt."
       ],
       hu: [
-        "A Bernina-szakasz az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.",
-        "LÃ¡tvÃ¡nyos alpesi hÃ¡gÃ³kon halad Ã¡t.",
-        "A vasÃºt a mÃ©rnÃ¶ki munka mestermÅ±vÃ©nek szÃ¡mÃ­t.",
-        "A vonal nagyon nÃ©pszerÅ± a turistÃ¡k kÃ¶rÃ©ben."
+        "A Bernina-szakasz az UNESCO Világörökség része.",
+        "Látványos alpesi hágókon halad át.",
+        "A vasút a mérnöki munka mesterművének számít.",
+        "A vonal nagyon népszerű a turisták körében."
       ],
       ro: [
         "Traseul Bernina face parte din patrimoniul mondial UNESCO.",
-        "TraverseazÄƒ trecÄƒtori alpine spectaculoase.",
-        "Linia este consideratÄƒ o capodoperÄƒ inginereascÄƒ.",
-        "Este foarte popularÄƒ printre turiÈ™ti."
+        "Traverseaz�? trec�?tori alpine spectaculoase.",
+        "Linia este considerat�? o capodoper�? inginereasc�?.",
+        "Este foarte popular�? printre turi�?ti."
       ],
       en: [
         "The Bernina route is a UNESCO World Heritage site.",
@@ -3691,11 +3691,11 @@ export const switzerlandCulture: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Traseul feroviar UNESCO combină două segmente distincte și provocatoare tehnic: linia Albula și linia Bernina.",
-      "Linia Bernina este remarcabilă deoarece atinge altitudinea record de 2.253 de metri fără utilizarea niciunei cremaliere.",
-      "Pentru construcția liniei Albula, s-au folosit 144 de poduri magnifice și 42 de tuneluri și galerii complexe.",
-      "Viaductul spectaculos Landwasser atrage trenul din curbă ascuțită, introducându-l direct prin peretele stâncos din calcar.",
-      "Trenurile roșii ale acestei căi ferate, care taie zăpada iarna, sunt unele dintre cele mai iubite și fotografiate simboluri turistice."
+      "Traseul feroviar UNESCO combin? dou? segmente distincte ?i provocatoare tehnic: linia Albula ?i linia Bernina.",
+      "Linia Bernina este remarcabil? deoarece atinge altitudinea record de 2.253 de metri f?r? utilizarea niciunei cremaliere.",
+      "Pentru construc?ia liniei Albula, s-au folosit 144 de poduri magnifice ?i 42 de tuneluri ?i galerii complexe.",
+      "Viaductul spectaculos Landwasser atrage trenul din curb? ascu?it?, introduc�ndu-l direct prin peretele st�ncos din calcar.",
+      "Trenurile ro?ii ale acestei c?i ferate, care taie z?pada iarna, sunt unele dintre cele mai iubite ?i fotografiate simboluri turistice."
     ],
       en: [
         "The railway line was inscribed as a UNESCO World Heritage site in 2008, a rare honor for a railway network.",
@@ -3714,40 +3714,40 @@ export const switzerlandCulture: POI[] = [
     coords: [6.9275, 46.4143],
     name: {
       de: "Schloss Chillon",
-      hu: "Chillon-kastÃ©ly",
+      hu: "Chillon-kastély",
       ro: "Castelul Chillon",
       en: "Chillon Castle"
     },
     description: {
-      de: "Schloss Chillon liegt malerisch am Ufer des Genfersees bei Montreux. Die Wasserburg ist eines der bekanntesten historischen Bauwerke der Schweiz. Lord Byron machte sie durch ein Gedicht berÃ¼hmt.",
-      hu: "A Chillon-kastÃ©ly festÅ‘i helyen, Montreux kÃ¶zelÃ©ben, a Genfi-tÃ³ partjÃ¡n Ã¡ll. A vÃ­zi vÃ¡r SvÃ¡jc egyik legismertebb tÃ¶rtÃ©nelmi Ã©pÃ¼lete. Lord Byron egy verssel tette hÃ­ressÃ©.",
-      ro: "Castelul Chillon se aflÄƒ pitoresc pe malul Lacului Geneva, lÃ¢ngÄƒ Montreux. Castelul de apÄƒ este una dintre cele mai cunoscute clÄƒdiri istorice din ElveÈ›ia. Lord Byron l-a fÄƒcut celebru printr-o poezie.",
+      de: "Schloss Chillon liegt malerisch am Ufer des Genfersees bei Montreux. Die Wasserburg ist eines der bekanntesten historischen Bauwerke der Schweiz. Lord Byron machte sie durch ein Gedicht berühmt.",
+      hu: "A Chillon-kastély fest�?i helyen, Montreux közelében, a Genfi-tó partján áll. A vízi vár Svájc egyik legismertebb történelmi épülete. Lord Byron egy verssel tette híressé.",
+      ro: "Castelul Chillon se afl�? pitoresc pe malul Lacului Geneva, lâng�? Montreux. Castelul de ap�? este una dintre cele mai cunoscute cl�?diri istorice din Elve�?ia. Lord Byron l-a f�?cut celebru printr-o poezie.",
       en: "Chillon Castle sits picturesquely on the shore of Lake Geneva near Montreux. The water castle is one of Switzerland's best-known historic buildings. Lord Byron made it famous with a poem."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Castelul Chillon este, fără îndoială, cea mai iconică și vizitată fortăreață istorică a Elveției, așezată dramatic pe un mic ostrov stâncos pe malul estic al Lacului Geneva, formând un fundal sublim cu Alpii. Timp de secole, de la dominația puternicilor Duci de Savoia, poziția strategică a bastionului a controlat strict comerțul de-a lungul rutei ce lega nordul Europei de Italia prin Pasul Marele Sfânt Bernard. Din punct de vedere arhitectural, fortăreața are două fațade complet diferite: o latură aspră, inaccesibilă și puternic fortificată către drum și una romantică, bogat decorată cu arhitectură regală către peisajul de basm al lacului. Faima sa internațională a explodat cu adevărat în secolul al XIX-lea, când poetul englez Lord Byron a publicat poemul „Prizonierul din Chillon”, transformând castelul din închisoare sumbră în simbol literar. (Istorie K7 — Fortărețe strategice medievale și poezia romantică)",
-      en: "Chillon Castle (Château de Chillon) is an architectural jewel and the most visited historic monument in Switzerland. Sited romantically on a rocky islet at the eastern end of Lake Geneva, the fortress boasts the dramatic, snow-capped Alps as a backdrop. Built primarily by the powerful House of Savoy during the 12th and 13th centuries, the castle controlled the vital trade route through the Great St Bernard Pass. The interior offers a labyrinth of grand banquet halls, gothic dungeons, and hidden courtyards. The castle achieved legendary international fame in 1816 when the English Romantic poet Lord Byron wrote 'The Prisoner of Chillon', inspired by the true story of a Genevan monk imprisoned in its dark, watery cellars."
+      ro: "Castelul Chillon este, f?r? �ndoial?, cea mai iconic? ?i vizitat? fort?rea?? istoric? a Elve?iei, a?ezat? dramatic pe un mic ostrov st�ncos pe malul estic al Lacului Geneva, form�nd un fundal sublim cu Alpii. Timp de secole, de la domina?ia puternicilor Duci de Savoia, pozi?ia strategic? a bastionului a controlat strict comer?ul de-a lungul rutei ce lega nordul Europei de Italia prin Pasul Marele Sf�nt Bernard. Din punct de vedere arhitectural, fort?rea?a are dou? fa?ade complet diferite: o latur? aspr?, inaccesibil? ?i puternic fortificat? c?tre drum ?i una romantic?, bogat decorat? cu arhitectur? regal? c?tre peisajul de basm al lacului. Faima sa interna?ional? a explodat cu adev?rat �n secolul al XIX-lea, c�nd poetul englez Lord Byron a publicat poemul ?Prizonierul din Chillon?, transform�nd castelul din �nchisoare sumbr? �n simbol literar. (Istorie K7 ? Fort?re?e strategice medievale ?i poezia romantic?)",
+      en: "Chillon Castle (Ch�teau de Chillon) is an architectural jewel and the most visited historic monument in Switzerland. Sited romantically on a rocky islet at the eastern end of Lake Geneva, the fortress boasts the dramatic, snow-capped Alps as a backdrop. Built primarily by the powerful House of Savoy during the 12th and 13th centuries, the castle controlled the vital trade route through the Great St Bernard Pass. The interior offers a labyrinth of grand banquet halls, gothic dungeons, and hidden courtyards. The castle achieved legendary international fame in 1816 when the English Romantic poet Lord Byron wrote 'The Prisoner of Chillon', inspired by the true story of a Genevan monk imprisoned in its dark, watery cellars."
     },
     facts: {
       de: [
         "Chillon liegt direkt am Genfersee.",
-        "Es ist eine der meistbesuchten SehenswÃ¼rdigkeiten der Schweiz.",
-        "Lord Byron schrieb ein bekanntes Gedicht Ã¼ber das Schloss.",
-        "Die Burg war Ã¼ber Jahrhunderte eine strategische Festung."
+        "Es ist eine der meistbesuchten Sehenswürdigkeiten der Schweiz.",
+        "Lord Byron schrieb ein bekanntes Gedicht über das Schloss.",
+        "Die Burg war über Jahrhunderte eine strategische Festung."
       ],
       hu: [
-        "Chillon kÃ¶zvetlenÃ¼l a Genfi-tÃ³ partjÃ¡n Ã¡ll.",
-        "SvÃ¡jc egyik leglÃ¡togatottabb lÃ¡tnivalÃ³ja.",
-        "Lord Byron hÃ­res verset Ã­rt a kastÃ©lyrÃ³l.",
-        "A vÃ¡r Ã©vszÃ¡zadokon Ã¡t stratÃ©giai erÅ‘d volt."
+        "Chillon közvetlenül a Genfi-tó partján áll.",
+        "Svájc egyik leglátogatottabb látnivalója.",
+        "Lord Byron híres verset írt a kastélyról.",
+        "A vár évszázadokon át stratégiai er�?d volt."
       ],
       ro: [
-        "Chillon se aflÄƒ direct pe malul Lacului Geneva.",
-        "Este una dintre cele mai vizitate atracÈ›ii din ElveÈ›ia.",
-        "Lord Byron a scris o poezie celebrÄƒ despre castel.",
-        "Cetatea a fost timp de secole o fortÄƒreaÈ›Äƒ strategicÄƒ."
+        "Chillon se afl�? direct pe malul Lacului Geneva.",
+        "Este una dintre cele mai vizitate atrac�?ii din Elve�?ia.",
+        "Lord Byron a scris o poezie celebr�? despre castel.",
+        "Cetatea a fost timp de secole o fort�?rea�?�? strategic�?."
       ],
       en: [
         "Chillon sits directly on Lake Geneva.",
@@ -3760,11 +3760,11 @@ export const switzerlandCulture: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Castelul Chillon atrage cel mai mare număr anual de turiști dintre toate reperele și monumentele istorice elvețiene.",
-      "Forma complexului defensiv de astăzi aparține în mare măsură perioadei Ducatului de Savoia (secolele XII și XIII).",
-      "Închisoarea subterană sculptată în stâncă l-a ținut captiv pe nobilul Bonivard, personaj real din opera lui Lord Byron.",
-      "Numele de familie Lord Byron și al scriitorului Victor Hugo pot fi văzute scrijelite și lăsate pe stâlpii castelului.",
-      "Săpăturile arheologice dovedesc cu succes că insulița pe care stă castelul a fost deja ocupată încă din Epoca Bronzului."
+      "Castelul Chillon atrage cel mai mare num?r anual de turi?ti dintre toate reperele ?i monumentele istorice elve?iene.",
+      "Forma complexului defensiv de ast?zi apar?ine �n mare m?sur? perioadei Ducatului de Savoia (secolele XII ?i XIII).",
+      "�nchisoarea subteran? sculptat? �n st�nc? l-a ?inut captiv pe nobilul Bonivard, personaj real din opera lui Lord Byron.",
+      "Numele de familie Lord Byron ?i al scriitorului Victor Hugo pot fi v?zute scrijelite ?i l?sate pe st�lpii castelului.",
+      "S?p?turile arheologice dovedesc cu succes c? insuli?a pe care st? castelul a fost deja ocupat? �nc? din Epoca Bronzului."
     ],
       en: [
         "Chillon Castle is officially the most visited historic building in all of Switzerland, drawing hundreds of thousands annually.",
@@ -3788,35 +3788,35 @@ export const switzerlandCulture: POI[] = [
       en: "Mount Pilatus"
     },
     description: {
-      de: "Der Pilatus Ã¼ber Luzern ist ein bekannter Ausflugsberg mit spektakulÃ¤ren Ausblicken. Die Zahnradbahn gilt als eine der steilsten der Welt. Der Berg ist eng mit regionalen Sagen verbunden.",
-      hu: "A Luzern fÃ¶lÃ© magasodÃ³ Pilatus hÃ­res kirÃ¡ndulÃ³hegy lÃ¡tvÃ¡nyos kilÃ¡tÃ¡ssal. A fogaskerekÅ± vasÃºt a vilÃ¡g egyik legmeredekebbje. A hegyet szÃ¡mos helyi legenda Ã¶vezi.",
-      ro: "Pilatusul deasupra oraÈ™ului Lucerna este un munte de excursie bine cunoscut, cu priveliÈ™ti spectaculoase. Funicularul cu roÈ›i dinÈ›ate este considerat unul dintre cele mai abrupte din lume. Muntele este legat de numeroase legende locale.",
+      de: "Der Pilatus über Luzern ist ein bekannter Ausflugsberg mit spektakulären Ausblicken. Die Zahnradbahn gilt als eine der steilsten der Welt. Der Berg ist eng mit regionalen Sagen verbunden.",
+      hu: "A Luzern fölé magasodó Pilatus híres kirándulóhegy látványos kilátással. A fogaskerekű vasút a világ egyik legmeredekebbje. A hegyet számos helyi legenda övezi.",
+      ro: "Pilatusul deasupra ora�?ului Lucerna este un munte de excursie bine cunoscut, cu priveli�?ti spectaculoase. Funicularul cu ro�?i din�?ate este considerat unul dintre cele mai abrupte din lume. Muntele este legat de numeroase legende locale.",
       en: "Mount Pilatus above Lucerne is a well-known excursion mountain with spectacular views. The cogwheel railway is considered one of the steepest in the world. The mountain is tied to many local legends."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Muntele Pilatus, masivul cu multiple vârfuri franjurate stâncoase care străjuiește orașul Lucerna, este o atracție esențială bogată în povești antice și premiere inginerești. Timp de secole în Evul Mediu, urcarea pe munte a fost aspru și oficial interzisă, de teamă că vizitatorii neavizați vor înfuria pe Pontius Pilat, al cărui spirit necredincios se credea că își doarme somnul etern într-un fost lac glaciar de aici. Legendele relatează, de asemenea, dragoni maiestuoși vindecători care zburau prin crăpăturile muntelui. Turismul modern a triumfat la sfârșitul secolului al XIX-lea când a fost finalizată ingenioasa cale ferată Pilatus. Traseul este uluitor și palpitant, atingând un unghi imposibil ce oferă priveliști spectaculoase. Platformele somptuoase ale vârfurilor domină lacurile pitorești de dedesubt și oferă o vizibilitate panoramică largă pe tot arcul alpin pe vreme senină. (Istorie K6 — Legende elvețiene și progres tehnic turistic)",
-      en: "Mount Pilatus is a rugged, multi-peaked mountain massif overlooking the city of Lucerne, steeped in captivating local myths and medieval folklore. According to legend, a fearsome dragon lived in its jagged peaks, and the restless ghost of Pontius Pilate was said to haunt a small lake near the summit. Today, it is one of the most spectacular excursion mountains in Central Switzerland, accessible via the Pilatus Railway—the steepest cogwheel railway in the world, boasting a mind-bending maximum gradient of 48%. Upon reaching the summit at 2,132 meters, visitors are rewarded with breathtaking, panoramic views stretching across Lake Lucerne to the distant, snow-capped peaks of the Bernese Alps, making it an unforgettable alpine experience."
+      ro: "Muntele Pilatus, masivul cu multiple v�rfuri franjurate st�ncoase care str?juie?te ora?ul Lucerna, este o atrac?ie esen?ial? bogat? �n pove?ti antice ?i premiere inginere?ti. Timp de secole �n Evul Mediu, urcarea pe munte a fost aspru ?i oficial interzis?, de team? c? vizitatorii neaviza?i vor �nfuria pe Pontius Pilat, al c?rui spirit necredincios se credea c? �?i doarme somnul etern �ntr-un fost lac glaciar de aici. Legendele relateaz?, de asemenea, dragoni maiestuo?i vindec?tori care zburau prin cr?p?turile muntelui. Turismul modern a triumfat la sf�r?itul secolului al XIX-lea c�nd a fost finalizat? ingenioasa cale ferat? Pilatus. Traseul este uluitor ?i palpitant, ating�nd un unghi imposibil ce ofer? priveli?ti spectaculoase. Platformele somptuoase ale v�rfurilor domin? lacurile pitore?ti de dedesubt ?i ofer? o vizibilitate panoramic? larg? pe tot arcul alpin pe vreme senin?. (Istorie K6 ? Legende elve?iene ?i progres tehnic turistic)",
+      en: "Mount Pilatus is a rugged, multi-peaked mountain massif overlooking the city of Lucerne, steeped in captivating local myths and medieval folklore. According to legend, a fearsome dragon lived in its jagged peaks, and the restless ghost of Pontius Pilate was said to haunt a small lake near the summit. Today, it is one of the most spectacular excursion mountains in Central Switzerland, accessible via the Pilatus Railway?the steepest cogwheel railway in the world, boasting a mind-bending maximum gradient of 48%. Upon reaching the summit at 2,132 meters, visitors are rewarded with breathtaking, panoramic views stretching across Lake Lucerne to the distant, snow-capped peaks of the Bernese Alps, making it an unforgettable alpine experience."
     },
     facts: {
       de: [
-        "Die Zahnradbahn zÃ¤hlt zu den steilsten der Welt.",
+        "Die Zahnradbahn zählt zu den steilsten der Welt.",
         "Pilatus liegt oberhalb von Luzern.",
         "Der Berg ist von Sagen umgeben.",
         "Er ist ein beliebtes Ausflugsziel."
       ],
       hu: [
-        "A fogaskerekÅ± a vilÃ¡g egyik legmeredekebbje.",
-        "A Pilatus Luzern fÃ¶lÃ¶tt talÃ¡lhatÃ³.",
-        "A hegyet legendÃ¡k Ã¶vezik.",
-        "NÃ©pszerÅ± kirÃ¡ndulÃ³hely."
+        "A fogaskerekű a világ egyik legmeredekebbje.",
+        "A Pilatus Luzern fölött található.",
+        "A hegyet legendák övezik.",
+        "Népszerű kirándulóhely."
       ],
       ro: [
-        "Linia cu roÈ›i dinÈ›ate este una dintre cele mai abrupte din lume.",
-        "Pilatusul se aflÄƒ deasupra oraÈ™ului Lucerna.",
-        "Muntele este Ã®nconjurat de legende.",
-        "Este o destinaÈ›ie popularÄƒ pentru excursii."
+        "Linia cu ro�?i din�?ate este una dintre cele mai abrupte din lume.",
+        "Pilatusul se afl�? deasupra ora�?ului Lucerna.",
+        "Muntele este înconjurat de legende.",
+        "Este o destina�?ie popular�? pentru excursii."
       ],
       en: [
         "The cogwheel railway is among the steepest in the world.",
@@ -3829,11 +3829,11 @@ export const switzerlandCulture: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Faimoasa cale ferată Pilatus este certificată drept cea mai abruptă cale ferată cu roți dințate construită vreodată pe pământ (gradient de până la 48%).",
-      "Proiectantul curajos al căii ferate, Eduard Locher, a inventat în 1889 un mecanism dentat rotativ cu dublă mișcare orizontală pentru a preveni deraierea.",
-      "Vârful Kulm al muntelui Pilatus atinge o impresionantă altitudine alpină de 2.128 metri deasupra mării.",
-      "Hotelul impunător și luxos inaugurat pe vârful montant datează din faimoasa și glorioasa perioadă a turismului de vârf Belle Époque.",
-      "Plecând pe faimosul „Traseu de Aur” al turiștilor, urcarea la dus se face pe șine grele de oțel, iar coborârea rapidă prin cablurile de telecabină silențioase."
+      "Faimoasa cale ferat? Pilatus este certificat? drept cea mai abrupt? cale ferat? cu ro?i din?ate construit? vreodat? pe p?m�nt (gradient de p�n? la 48%).",
+      "Proiectantul curajos al c?ii ferate, Eduard Locher, a inventat �n 1889 un mecanism dentat rotativ cu dubl? mi?care orizontal? pentru a preveni deraierea.",
+      "V�rful Kulm al muntelui Pilatus atinge o impresionant? altitudine alpin? de 2.128 metri deasupra m?rii.",
+      "Hotelul impun?tor ?i luxos inaugurat pe v�rful montant dateaz? din faimoasa ?i glorioasa perioad? a turismului de v�rf Belle �poque.",
+      "Plec�nd pe faimosul ?Traseu de Aur? al turi?tilor, urcarea la dus se face pe ?ine grele de o?el, iar cobor�rea rapid? prin cablurile de telecabin? silen?ioase."
     ],
       en: [
         "The Pilatus Railway is the steepest cogwheel railway in the world, with a maximum gradient of 48%.",
@@ -3857,35 +3857,35 @@ export const switzerlandCulture: POI[] = [
       en: "CERN"
     },
     description: {
-      de: "CERN bei Genf ist eines der bedeutendsten Forschungszentren der Welt. Hier befindet sich der Large Hadron Collider, der grÃ¶ÃŸte Teilchenbeschleuniger der Erde. Das Zentrum ist eng mit der modernen Physik verbunden.",
-      hu: "A Genf melletti CERN a vilÃ¡g egyik legfontosabb kutatÃ³kÃ¶zpontja. Itt talÃ¡lhatÃ³ a Large Hadron Collider, a FÃ¶ld legnagyobb rÃ©szecskegyorsÃ­tÃ³ja. A kÃ¶zpont szorosan kapcsolÃ³dik a modern fizikÃ¡hoz.",
-      ro: "CERN-ul de lÃ¢ngÄƒ Geneva este unul dintre cele mai importante centre de cercetare din lume. Aici se aflÄƒ Large Hadron Collider, cel mai mare accelerator de particule de pe PÄƒmÃ¢nt. Centrul este strÃ¢ns legat de fizica modernÄƒ.",
+      de: "CERN bei Genf ist eines der bedeutendsten Forschungszentren der Welt. Hier befindet sich der Large Hadron Collider, der grö�?te Teilchenbeschleuniger der Erde. Das Zentrum ist eng mit der modernen Physik verbunden.",
+      hu: "A Genf melletti CERN a világ egyik legfontosabb kutatóközpontja. Itt található a Large Hadron Collider, a Föld legnagyobb részecskegyorsítója. A központ szorosan kapcsolódik a modern fizikához.",
+      ro: "CERN-ul de lâng�? Geneva este unul dintre cele mai importante centre de cercetare din lume. Aici se afl�? Large Hadron Collider, cel mai mare accelerator de particule de pe P�?mânt. Centrul este strâns legat de fizica modern�?.",
       en: "CERN near Geneva is one of the world's most important research centers. It is home to the Large Hadron Collider, the largest particle accelerator on Earth. The center is closely linked to modern physics."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "CERN (Organizația Europeană pentru Cercetare Nucleară) este apogeul eforturilor globale de a înțelege materia invizibilă a cosmosului și legile care o guvernează. Situat exact pe granița de stat dintre Elveția (lângă Geneva) și Franța, laboratorul imens a fost fondat în 1954 cu dublul scop de a oferi rezultate științifice superioare după al Doilea Război Mondial și de a uni popoarele Europei distruse de conflict într-o activitate pașnică colaborativă de pionierat. Astăzi este inima fizicii particulelor la nivel mondial. Aici este îngropat la sute de metri adâncime legendarul Large Hadron Collider, inelul electromagnetic gigant care a recreat circumstanțele Marelui Bang pentru a demonstra teoretic existenta „Particulei lui Dumnezeu” – bosonul Higgs. Descoperirile derivate din activitățile colosale desfășurate zilnic aici includ nu doar noi perspective astronomice, ci și invenția tehnologică care schimbă vieți – World Wide Web. (Fizică K8 — Cercetarea materiei și știință transfrontalieră)",
+      ro: "CERN (Organiza?ia European? pentru Cercetare Nuclear?) este apogeul eforturilor globale de a �n?elege materia invizibil? a cosmosului ?i legile care o guverneaz?. Situat exact pe grani?a de stat dintre Elve?ia (l�ng? Geneva) ?i Fran?a, laboratorul imens a fost fondat �n 1954 cu dublul scop de a oferi rezultate ?tiin?ifice superioare dup? al Doilea R?zboi Mondial ?i de a uni popoarele Europei distruse de conflict �ntr-o activitate pa?nic? colaborativ? de pionierat. Ast?zi este inima fizicii particulelor la nivel mondial. Aici este �ngropat la sute de metri ad�ncime legendarul Large Hadron Collider, inelul electromagnetic gigant care a recreat circumstan?ele Marelui Bang pentru a demonstra teoretic existenta ?Particulei lui Dumnezeu? ? bosonul Higgs. Descoperirile derivate din activit??ile colosale desf??urate zilnic aici includ nu doar noi perspective astronomice, ci ?i inven?ia tehnologic? care schimb? vie?i ? World Wide Web. (Fizic? K8 ? Cercetarea materiei ?i ?tiin?? transfrontalier?)",
       en: "CERN, the European Organization for Nuclear Research, sits on the border of Switzerland and France near Geneva and represents the absolute pinnacle of human scientific endeavor. Founded in 1954, the facility is dedicated to uncovering the fundamental mysteries of the universe by studying the basic constituents of matter. It is most famous for housing the Large Hadron Collider (LHC), a massive, 27-kilometer circular tunnel buried deep underground, where particles are smashed together at close to the speed of light. This groundbreaking research led to the historic discovery of the Higgs boson particle in 2012. Beyond physics, CERN holds a unique place in cultural history as the undisputed birthplace of the World Wide Web, invented here by Tim Berners-Lee in 1989."
     },
     facts: {
       de: [
         "Am CERN wurde das World Wide Web mitentwickelt.",
-        "Der Large Hadron Collider ist der grÃ¶ÃŸte Teilchenbeschleuniger der Welt.",
+        "Der Large Hadron Collider ist der grö�?te Teilchenbeschleuniger der Welt.",
         "Das Forschungszentrum liegt bei Genf.",
-        "Es ist ein Symbol fÃ¼r internationale Wissenschaft."
+        "Es ist ein Symbol für internationale Wissenschaft."
       ],
       hu: [
-        "A CERN-ben a World Wide Web is fejlÅ‘dÃ¶tt.",
-        "A Large Hadron Collider a vilÃ¡g legnagyobb rÃ©szecskegyorsÃ­tÃ³ja.",
-        "A kutatÃ³kÃ¶zpont Genf mellett talÃ¡lhatÃ³.",
-        "A nemzetkÃ¶zi tudomÃ¡ny jelkÃ©pe."
+        "A CERN-ben a World Wide Web is fejl�?dött.",
+        "A Large Hadron Collider a világ legnagyobb részecskegyorsítója.",
+        "A kutatóközpont Genf mellett található.",
+        "A nemzetközi tudomány jelképe."
       ],
       ro: [
-        "La CERN s-a dezvoltat È™i World Wide Web-ul.",
+        "La CERN s-a dezvoltat �?i World Wide Web-ul.",
         "Large Hadron Collider este cel mai mare accelerator de particule din lume.",
-        "Centrul de cercetare se aflÄƒ lÃ¢ngÄƒ Geneva.",
-        "Este un simbol al È™tiinÈ›ei internaÈ›ionale."
+        "Centrul de cercetare se afl�? lâng�? Geneva.",
+        "Este un simbol al �?tiin�?ei interna�?ionale."
       ],
       en: [
         "The World Wide Web was developed at CERN.",
@@ -3898,11 +3898,11 @@ export const switzerlandCulture: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Marele Accelerator LHC este o minune cilindrică lungă de 27 de kilometri care trece nedetectată prin subteranele graniței elvețiano-franceze.",
-      "În birourile organizației, omul de știință britanic Tim Berners-Lee a conceput și fondat celebrul internet (WWW) în anul istoric 1989.",
-      "Mii de fizicieni supradotați veniți de pe întreg teritoriul globului participă zilnic ca și colaboratori la variatele operațiuni uluitoare din cadrul CERN.",
-      "Baza de cercetare LHC a confirmat indubitabil și clar existența Bosonului Higgs revoluționar în anul fundamental 2012.",
-      "Echipele specializate de cercetători construiesc aici constant detectoare magnetice monumentale pentru a analiza mișcările de particule microscopice la nivel invizibil."
+      "Marele Accelerator LHC este o minune cilindric? lung? de 27 de kilometri care trece nedetectat? prin subteranele grani?ei elve?iano-franceze.",
+      "�n birourile organiza?iei, omul de ?tiin?? britanic Tim Berners-Lee a conceput ?i fondat celebrul internet (WWW) �n anul istoric 1989.",
+      "Mii de fizicieni supradota?i veni?i de pe �ntreg teritoriul globului particip? zilnic ca ?i colaboratori la variatele opera?iuni uluitoare din cadrul CERN.",
+      "Baza de cercetare LHC a confirmat indubitabil ?i clar existen?a Bosonului Higgs revolu?ionar �n anul fundamental 2012.",
+      "Echipele specializate de cercet?tori construiesc aici constant detectoare magnetice monumentale pentru a analiza mi?c?rile de particule microscopice la nivel invizibil."
     ],
       en: [
         "CERN hosts the Large Hadron Collider (LHC), the largest and most powerful particle accelerator in the world.",
@@ -3923,41 +3923,41 @@ export const switzerlandNature: POI[] = [
     parent: "country-switzerland",
     coords: [8.3057, 47.0502],
     name: {
-      de: "VierwaldstÃ¤ttersee",
-      hu: "VierwaldstÃ¤ttersee",
+      de: "Vierwaldstättersee",
+      hu: "Vierwaldstättersee",
       ro: "Lacul Lucerna",
       en: "Lake Lucerne"
     },
     description: {
-      de: "Der VierwaldstÃ¤ttersee bei Luzern ist einer der schÃ¶nsten Seen der Schweiz. Er ist von Bergen umgeben und eng mit der Geschichte der Eidgenossenschaft verbunden. Die KapellbrÃ¼cke ergÃ¤nzt das Stadtbild von Luzern.",
-      hu: "A luzerni VierwaldstÃ¤ttersee SvÃ¡jc egyik legszebb tava. Hegyek veszik kÃ¶rÃ¼l, Ã©s szorosan kapcsolÃ³dik a svÃ¡jci Ã¡llamalapÃ­tÃ¡s tÃ¶rtÃ©netÃ©hez. A KapellbrÃ¼cke jÃ³l kiegÃ©szÃ­ti Luzern vÃ¡roskÃ©pÃ©t.",
-      ro: "Lacul Lucerna de lÃ¢ngÄƒ Luzern este unul dintre cele mai frumoase lacuri din ElveÈ›ia. Este Ã®nconjurat de munÈ›i È™i este strÃ¢ns legat de istoria ConfederaÈ›iei ElveÈ›iene. KapellbrÃ¼cke completeazÄƒ peisajul urban al oraÈ™ului Lucerna.",
+      de: "Der Vierwaldstättersee bei Luzern ist einer der schönsten Seen der Schweiz. Er ist von Bergen umgeben und eng mit der Geschichte der Eidgenossenschaft verbunden. Die Kapellbrücke ergänzt das Stadtbild von Luzern.",
+      hu: "A luzerni Vierwaldstättersee Svájc egyik legszebb tava. Hegyek veszik körül, és szorosan kapcsolódik a svájci államalapítás történetéhez. A Kapellbrücke jól kiegészíti Luzern városképét.",
+      ro: "Lacul Lucerna de lâng�? Luzern este unul dintre cele mai frumoase lacuri din Elve�?ia. Este înconjurat de mun�?i �?i este strâns legat de istoria Confedera�?iei Elve�?iene. Kapellbrücke completeaz�? peisajul urban al ora�?ului Lucerna.",
       en: "Lake Lucerne near Lucerne is one of the most beautiful lakes in Switzerland. It is surrounded by mountains and is closely tied to the history of the Swiss Confederation. The Chapel Bridge complements Lucerne's cityscape."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Lacul Lucerna (cunoscut în regiune sub numele istoric adecvat de Vierwaldstättersee – Lacul celor Patru Cantoane Forestiere) este un braț masiv și întortocheat de ape înghețate scânteietoare, adăpostit idilic între vârfuri impunătoare. El reprezintă leagănul geografic primordial și mitologic veridic în care, pe un câmp denumit Rütli aflat pe țărmul său izolat, primii cetățeni au depus legământul sacru prin care s-a format Elveția originală (1291). Ramurile acvatice spectaculoase cu adâncimi neașteptate amintesc clar de superbele și faimoasele fiorduri tipic norvegiene. Orașul principal cu același nume din partea superioară vestică reprezintă centrul și inima turismului local maritim navigabil cu flotile întregi de faimoase vaporase vechi cu abur datând istoric din anii 1900 și destinate transportului relaxant al turiștilor pe sub fațade stâncoase neospitaliere. Este probabil lacul care îmbină perfect cele mai esențiale perspective de frumusețe spectaculoasă și pură rezonanță identitară civică elvețiană. (Geografie K7 — Lacuri glaciare masive și peisaje identitare naționale)",
-      en: "Lake Lucerne (Vierwaldstättersee), deeply intertwined with the founding myths of Switzerland, is an incredibly complex and beautiful body of water in Central Switzerland. Its name translates to 'Lake of the Four Forested Settlements', referencing the original cantons that formed the Swiss Confederation on its shores in 1291. The lake's highly irregular shape creates fjord-like arms that reach deep into the dramatic surrounding mountains, including the famous peaks of Rigi, Pilatus, and Stanserhorn. Cruising the lake on one of the elegant, historic paddle steamers offers unparalleled views of the sheer cliffs and the picturesque city of Lucerne. The landscape perfectly embodies the romantic, rugged alpine beauty that defines the Swiss heartland."
+      ro: "Lacul Lucerna (cunoscut �n regiune sub numele istoric adecvat de Vierwaldst�ttersee ? Lacul celor Patru Cantoane Forestiere) este un bra? masiv ?i �ntortocheat de ape �nghe?ate sc�nteietoare, ad?postit idilic �ntre v�rfuri impun?toare. El reprezint? leag?nul geografic primordial ?i mitologic veridic �n care, pe un c�mp denumit R�tli aflat pe ??rmul s?u izolat, primii cet??eni au depus leg?m�ntul sacru prin care s-a format Elve?ia original? (1291). Ramurile acvatice spectaculoase cu ad�ncimi nea?teptate amintesc clar de superbele ?i faimoasele fiorduri tipic norvegiene. Ora?ul principal cu acela?i nume din partea superioar? vestic? reprezint? centrul ?i inima turismului local maritim navigabil cu flotile �ntregi de faimoase vaporase vechi cu abur dat�nd istoric din anii 1900 ?i destinate transportului relaxant al turi?tilor pe sub fa?ade st�ncoase neospitaliere. Este probabil lacul care �mbin? perfect cele mai esen?iale perspective de frumuse?e spectaculoas? ?i pur? rezonan?? identitar? civic? elve?ian?. (Geografie K7 ? Lacuri glaciare masive ?i peisaje identitare na?ionale)",
+      en: "Lake Lucerne (Vierwaldst�ttersee), deeply intertwined with the founding myths of Switzerland, is an incredibly complex and beautiful body of water in Central Switzerland. Its name translates to 'Lake of the Four Forested Settlements', referencing the original cantons that formed the Swiss Confederation on its shores in 1291. The lake's highly irregular shape creates fjord-like arms that reach deep into the dramatic surrounding mountains, including the famous peaks of Rigi, Pilatus, and Stanserhorn. Cruising the lake on one of the elegant, historic paddle steamers offers unparalleled views of the sheer cliffs and the picturesque city of Lucerne. The landscape perfectly embodies the romantic, rugged alpine beauty that defines the Swiss heartland."
     },
     facts: {
       de: [
         "Der See liegt bei Luzern.",
         "Er ist von Bergen umgeben.",
-        "Die KapellbrÃ¼cke prÃ¤gt das Uferbild.",
-        "Der See ist ein beliebtes Ziel fÃ¼r Schifffahrten."
+        "Die Kapellbrücke prägt das Uferbild.",
+        "Der See ist ein beliebtes Ziel für Schifffahrten."
       ],
       hu: [
-        "A tÃ³ Luzern mellett talÃ¡lhatÃ³.",
-        "Hegyek veszik kÃ¶rÃ¼l.",
-        "A KapellbrÃ¼cke meghatÃ¡rozza a vÃ¡roskÃ©pet.",
-        "NÃ©pszerÅ± hajÃ³kirÃ¡ndulÃ¡si cÃ©lpont."
+        "A tó Luzern mellett található.",
+        "Hegyek veszik körül.",
+        "A Kapellbrücke meghatározza a városképet.",
+        "Népszerű hajókirándulási célpont."
       ],
       ro: [
-        "Lacul se aflÄƒ lÃ¢ngÄƒ Lucerna.",
-        "Este Ã®nconjurat de munÈ›i.",
-        "KapellbrÃ¼cke defineÈ™te imaginea malului.",
-        "Este o destinaÈ›ie popularÄƒ pentru croaziere."
+        "Lacul se afl�? lâng�? Lucerna.",
+        "Este înconjurat de mun�?i.",
+        "Kapellbrücke define�?te imaginea malului.",
+        "Este o destina�?ie popular�? pentru croaziere."
       ],
       en: [
         "The lake lies by Lucerne.",
@@ -3970,15 +3970,15 @@ export const switzerlandNature: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Lacul este unic datorită formei geometrice ciudate conturate istoric de ramurile separate de munți de gheață prăbușiți.",
-      "Traseul drumeților numit Calea Elvețiană (Weg der Schweiz) mărginește secțiuni acvatice mari ale țărmurilor de o frumusețe sălbatică monumentală.",
-      "Celebrele faimoase vase turistice cu zbaturi propulsate lent de puterea aburilor de epocă parcurg mândre rutele cele mai populare.",
-      "Pe versantul montan adiacent țărmului idilic se găsesc stațiile spectaculoase pe cablu ce duc la muntele sacru Pilatus și vârfurile falnice ale muntelui Rigi.",
-      "Poiana protejată denumită Rütli aflată discret pe una din ramificațiile naturale sudice ale lacului este exact și istoric locul nașterii de drept a Confederației din munți."
+      "Lacul este unic datorit? formei geometrice ciudate conturate istoric de ramurile separate de mun?i de ghea?? pr?bu?i?i.",
+      "Traseul drume?ilor numit Calea Elve?ian? (Weg der Schweiz) m?rgine?te sec?iuni acvatice mari ale ??rmurilor de o frumuse?e s?lbatic? monumental?.",
+      "Celebrele faimoase vase turistice cu zbaturi propulsate lent de puterea aburilor de epoc? parcurg m�ndre rutele cele mai populare.",
+      "Pe versantul montan adiacent ??rmului idilic se g?sesc sta?iile spectaculoase pe cablu ce duc la muntele sacru Pilatus ?i v�rfurile falnice ale muntelui Rigi.",
+      "Poiana protejat? denumit? R�tli aflat? discret pe una din ramifica?iile naturale sudice ale lacului este exact ?i istoric locul na?terii de drept a Confedera?iei din mun?i."
     ],
       en: [
-        "The lake's German name, Vierwaldstättersee, refers to the four original cantons that founded Switzerland on its shores.",
-        "The historic Rütli meadow, where the foundational Swiss oath was sworn in 1291, is located above the lake.",
+        "The lake's German name, Vierwaldst�ttersee, refers to the four original cantons that founded Switzerland on its shores.",
+        "The historic R�tli meadow, where the foundational Swiss oath was sworn in 1291, is located above the lake.",
         "It features the largest fleet of historic, active paddle steamers on any lake in Switzerland.",
         "The lake has a highly complex shape with numerous distinct arms, resembling a Norwegian fjord.",
         "Lake Lucerne is surrounded by some of Switzerland's most famous excursion mountains, including Rigi and Pilatus."
@@ -3993,40 +3993,40 @@ export const switzerlandNature: POI[] = [
     coords: [7.9083, 46.5936],
     name: {
       de: "Lauterbrunnental",
-      hu: "Lauterbrunnen-vÃ¶lgy",
+      hu: "Lauterbrunnen-völgy",
       ro: "Valea Lauterbrunnen",
       en: "Lauterbrunnen Valley"
     },
     description: {
-      de: "Das Lauterbrunnental ist ein dramatisches Alpental mit steilen FelswÃ¤nden und vielen WasserfÃ¤llen. Der Staubbachfall ist besonders bekannt. Das Tal ist ein Symbol fÃ¼r die Berner Alpen.",
-      hu: "A Lauterbrunnen-vÃ¶lgy drÃ¡mai alpesi vÃ¶lgy meredek sziklafalakkal Ã©s sok vÃ­zesÃ©ssel. A Staubbach-vÃ­zesÃ©s kÃ¼lÃ¶nÃ¶sen hÃ­res. A vÃ¶lgy a Berni-Alpok jelkÃ©pe.",
-      ro: "Valea Lauterbrunnen este o vale alpinÄƒ spectaculoasÄƒ, cu pereÈ›i stÃ¢ncoÈ™i abrupÈ›i È™i multe cascade. Cascada Staubbach este deosebit de cunoscutÄƒ. Valea este un simbol al Alpilor Bernezi.",
+      de: "Das Lauterbrunnental ist ein dramatisches Alpental mit steilen Felswänden und vielen Wasserfällen. Der Staubbachfall ist besonders bekannt. Das Tal ist ein Symbol für die Berner Alpen.",
+      hu: "A Lauterbrunnen-völgy drámai alpesi völgy meredek sziklafalakkal és sok vízeséssel. A Staubbach-vízesés különösen híres. A völgy a Berni-Alpok jelképe.",
+      ro: "Valea Lauterbrunnen este o vale alpin�? spectaculoas�?, cu pere�?i stânco�?i abrup�?i �?i multe cascade. Cascada Staubbach este deosebit de cunoscut�?. Valea este un simbol al Alpilor Bernezi.",
       en: "The Lauterbrunnen Valley is a dramatic Alpine valley with steep cliffs and many waterfalls. Staubbach Falls is especially famous. The valley is a symbol of the Bernese Alps."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Valea Lauterbrunnen este de o frumusețe copleșitoare și hipnotizantă; un spectacol geografic de excepție modelat treptat prin glaciațiuni antice uriașe din regiunea centrală masivă a superbilor munți aparținând regiunii Berner Oberland. Este recunoscută și descrisă poetic drept fascinanta „Vale a celor 72 de Cascade”, apa izvorând feeric din crăpăturile peretelui stâncos perpendicular adânc ce coboară mândru până în poienile pline de culoare. Cascada spectaculoasă emblematică a zonei muntoase Staubbach este o cădere amețitoare unde, de-a lungul istoriei, vaporii fini rezultați în aer formau curcubee superbe pe care le-a imortalizat pe deplin și poetul iluminist faimos german Johann Wolfgang von Goethe. Valea acționează la propriu pe timp de vară ca nodul logistic turistic de transport absolut prin trenulețe alpine galbene pline de zâmbete cu ecartament redus către zone rurale elvețiene lipsite istoric de aglomerație auto de munte renumite precum idilicul Mürren ori cel de peste peretele stâncos vestic faimos și legendar denumit Wengen. (Științele Naturii K7 — Formare glaciară alpină tipică cu pereți stâncoși uriași și cascade suspendate)",
-      en: "The Lauterbrunnen Valley is widely considered one of the most spectacular and dramatic glacial valleys in the entire world. Carved deep into the Bernese Alps, the valley features massive, near-vertical limestone cliffs that rise hundreds of meters on either side, providing the dramatic backdrop for an astonishing 72 waterfalls. The most famous of these is the Staubbach Fall, which plunges nearly 300 meters in a fine, mesmerizing mist that inspired the poetry of Johann Wolfgang von Goethe. The valley serves as the gateway to the car-free mountain villages of Mürren and Wengen, and ultimately to the high peaks of the Jungfrau region. Its breathtaking, towering scenery famously provided J.R.R. Tolkien with the visual inspiration for the elven realm of Rivendell."
+      ro: "Valea Lauterbrunnen este de o frumuse?e cople?itoare ?i hipnotizant?; un spectacol geografic de excep?ie modelat treptat prin glacia?iuni antice uria?e din regiunea central? masiv? a superbilor mun?i apar?in�nd regiunii Berner Oberland. Este recunoscut? ?i descris? poetic drept fascinanta ?Vale a celor 72 de Cascade?, apa izvor�nd feeric din cr?p?turile peretelui st�ncos perpendicular ad�nc ce coboar? m�ndru p�n? �n poienile pline de culoare. Cascada spectaculoas? emblematic? a zonei muntoase Staubbach este o c?dere ame?itoare unde, de-a lungul istoriei, vaporii fini rezulta?i �n aer formau curcubee superbe pe care le-a imortalizat pe deplin ?i poetul iluminist faimos german Johann Wolfgang von Goethe. Valea ac?ioneaz? la propriu pe timp de var? ca nodul logistic turistic de transport absolut prin trenule?e alpine galbene pline de z�mbete cu ecartament redus c?tre zone rurale elve?iene lipsite istoric de aglomera?ie auto de munte renumite precum idilicul M�rren ori cel de peste peretele st�ncos vestic faimos ?i legendar denumit Wengen. (?tiin?ele Naturii K7 ? Formare glaciar? alpin? tipic? cu pere?i st�nco?i uria?i ?i cascade suspendate)",
+      en: "The Lauterbrunnen Valley is widely considered one of the most spectacular and dramatic glacial valleys in the entire world. Carved deep into the Bernese Alps, the valley features massive, near-vertical limestone cliffs that rise hundreds of meters on either side, providing the dramatic backdrop for an astonishing 72 waterfalls. The most famous of these is the Staubbach Fall, which plunges nearly 300 meters in a fine, mesmerizing mist that inspired the poetry of Johann Wolfgang von Goethe. The valley serves as the gateway to the car-free mountain villages of M�rren and Wengen, and ultimately to the high peaks of the Jungfrau region. Its breathtaking, towering scenery famously provided J.R.R. Tolkien with the visual inspiration for the elven realm of Rivendell."
     },
     facts: {
       de: [
-        "Das Tal ist fÃ¼r seine vielen WasserfÃ¤lle bekannt.",
+        "Das Tal ist für seine vielen Wasserfälle bekannt.",
         "Der Staubbachfall ist etwa 300 Meter hoch.",
         "Lauterbrunnen liegt in den Berner Alpen.",
-        "Die Landschaft inspirierte viele KÃ¼nstler."
+        "Die Landschaft inspirierte viele Künstler."
       ],
       hu: [
-        "A vÃ¶lgy sok vÃ­zesÃ©sÃ©rÅ‘l hÃ­res.",
-        "A Staubbach-vÃ­zesÃ©s kÃ¶rÃ¼lbelÃ¼l 300 mÃ©ter magas.",
-        "Lauterbrunnen a Berni-Alpokban talÃ¡lhatÃ³.",
-        "A tÃ¡j sok mÅ±vÃ©szt inspirÃ¡lt."
+        "A völgy sok vízesésér�?l híres.",
+        "A Staubbach-vízesés körülbelül 300 méter magas.",
+        "Lauterbrunnen a Berni-Alpokban található.",
+        "A táj sok művészt inspirált."
       ],
       ro: [
-        "Valea este cunoscutÄƒ pentru numeroasele sale cascade.",
+        "Valea este cunoscut�? pentru numeroasele sale cascade.",
         "Cascada Staubbach are aproximativ 300 de metri.",
-        "Lauterbrunnen se aflÄƒ Ã®n Alpii Bernezi.",
-        "Peisajul a inspirat mulÈ›i artiÈ™ti."
+        "Lauterbrunnen se afl�? în Alpii Bernezi.",
+        "Peisajul a inspirat mul�?i arti�?ti."
       ],
       en: [
         "The valley is known for its many waterfalls.",
@@ -4039,17 +4039,17 @@ export const switzerlandNature: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Pereții mari montani uriași și verticali ridicați la altitudini fabuloase mărginesc o vale adâncă tăiată neted și clar în formă faimoasă tipică latinescului U glaciare.",
-      "Dramatismul impresionant unic a furnizat lui faimosului scriitor și creator de povești J.R.R. Tolkien principala sursă și model direct pentru valea elfilor glorioși cunoscuți din ținutul Rivendell.",
-      "Staubbach are o cădere spectaculoasă total liberă impresionant măsurată a atinge ușor pragul unic fabulos al aproape 300 de metri în aer.",
-      "Sistemul minunat alpin cascadat impresionant cunoscut larg de public de la râul faimos montan Trümmelbach include la rândul lui zece super cascade galagioase și glaciare puternic ascunse complet de pereții de stâncă muntoasă rece.",
-      "Valea principală superbă de acces și baza alpinistilor spre temutul și recele și renumitul munte impunător și periculos al Europei denumit Eiger."
+      "Pere?ii mari montani uria?i ?i verticali ridica?i la altitudini fabuloase m?rginesc o vale ad�nc? t?iat? neted ?i clar �n form? faimoas? tipic? latinescului U glaciare.",
+      "Dramatismul impresionant unic a furnizat lui faimosului scriitor ?i creator de pove?ti J.R.R. Tolkien principala surs? ?i model direct pentru valea elfilor glorio?i cunoscu?i din ?inutul Rivendell.",
+      "Staubbach are o c?dere spectaculoas? total liber? impresionant m?surat? a atinge u?or pragul unic fabulos al aproape 300 de metri �n aer.",
+      "Sistemul minunat alpin cascadat impresionant cunoscut larg de public de la r�ul faimos montan Tr�mmelbach include la r�ndul lui zece super cascade galagioase ?i glaciare puternic ascunse complet de pere?ii de st�nc? muntoas? rece.",
+      "Valea principal? superb? de acces ?i baza alpinistilor spre temutul ?i recele ?i renumitul munte impun?tor ?i periculos al Europei denumit Eiger."
     ],
       en: [
         "The Lauterbrunnen Valley is famous for hosting exactly 72 distinct waterfalls cascading down its steep cliffs.",
         "The iconic Staubbach Fall drops almost 300 meters, making it one of the highest free-falling waterfalls in Europe.",
         "J.R.R. Tolkien hiked through the valley in 1911, and it heavily inspired his vision of the elven valley of Rivendell.",
-        "The Trümmelbach Falls are a series of ten impressive glacier-fed waterfalls hidden entirely inside the mountain rock.",
+        "The Tr�mmelbach Falls are a series of ten impressive glacier-fed waterfalls hidden entirely inside the mountain rock.",
         "The valley serves as the primary starting point for taking the train to the famous Jungfraujoch."
       ]
     },
@@ -4067,35 +4067,35 @@ export const switzerlandNature: POI[] = [
       en: "Interlaken"
     },
     description: {
-      de: "Interlaken liegt zwischen dem Thunersee und dem Brienzersee. Der Ort ist ein Zentrum fÃ¼r Outdoor-AktivitÃ¤ten und Paragliding. Die Lage macht ihn zu einem beliebten Ausgangspunkt fÃ¼r AusflÃ¼ge in die Alpen.",
-      hu: "Interlaken a Thuni-tÃ³ Ã©s a Brienzi-tÃ³ kÃ¶zÃ¶tt fekszik. A telepÃ¼lÃ©s az outdoor-programok Ã©s a siklÃ³ernyÅ‘zÃ©s kÃ¶zpontja. ElhelyezkedÃ©se miatt nÃ©pszerÅ± alpesi kirÃ¡ndulÃ³hely.",
-      ro: "Interlaken se aflÄƒ Ã®ntre Lacul Thun È™i Lacul Brienz. Localitatea este un centru pentru activitÄƒÈ›i Ã®n aer liber È™i parapantÄƒ. PoziÈ›ia sa o face un punct de plecare popular pentru excursii Ã®n Alpi.",
+      de: "Interlaken liegt zwischen dem Thunersee und dem Brienzersee. Der Ort ist ein Zentrum für Outdoor-Aktivitäten und Paragliding. Die Lage macht ihn zu einem beliebten Ausgangspunkt für Ausflüge in die Alpen.",
+      hu: "Interlaken a Thuni-tó és a Brienzi-tó között fekszik. A település az outdoor-programok és a siklóerny�?zés központja. Elhelyezkedése miatt népszerű alpesi kirándulóhely.",
+      ro: "Interlaken se afl�? între Lacul Thun �?i Lacul Brienz. Localitatea este un centru pentru activit�?�?i în aer liber �?i parapant�?. Pozi�?ia sa o face un punct de plecare popular pentru excursii în Alpi.",
       en: "Interlaken lies between Lake Thun and Lake Brienz. The town is a center for outdoor activities and paragliding. Its location makes it a popular base for Alpine excursions."
     },
     descriptionAdvanced: {
       de: "",
       hu: "",
-      ro: "Interlaken a fost timp îndelungat descris romantic chiar prin nume („Așezarea dintre Lacuri”) datorită amplasamentului uluitor geografic pe mica întindere fertilă plată alluvială existentă înghesuit între faimoasele corpuri acvatice alpine montane renumite la nivel mondial Thunersee de est rece și verzuiul și stâncosul Brienzersee aparținând zonei vestice uriașe muntoase berneze elvețiene. Priveliștile montane maiestuoase deschise clar spre valea de sud spectaculoasă faimosă adesea oferă viziunea senină clară impunătoare a falnicului Jungfrau perfect alb. Stațiunea turistică cosmopolită din secolul XIX acționează constant mereu în deceniile epocii trecute drept cartierul general montan absolut necontestat din zona centrală pentru toți aventurierii europeni. Din cauza poziției avantajoase geografice și a munților foarte apropiați și accesibili ea servește modern zilnic pe tot teritoriul turistic vast ca principal epicentru național activ de turism tip extrem de o anvergură recunoscută absolut oriunde generos internațional la nivel de top în zbor cu parașuta sau activitățile pe cablu extrem palpitante. (Geografie K8 — Hub-uri logistice turistice de excepție tipică elvețiană de altitudine alpină joasă)",
-      en: "Interlaken, perfectly situated on an alluvial plain between the emerald waters of Lake Thun and the brilliant turquoise of Lake Brienz, is the undisputed adventure capital of Switzerland. Guarded by the majestic peaks of the Eiger, Mönch, and Jungfrau, the town has been a magnet for tourists and thrill-seekers since the early 19th century. Today, it is globally renowned as a hub for extreme sports, offering world-class paragliding, skydiving, canyoning, and white-water rafting. Beyond the adrenaline rush, Interlaken serves as a critical transport junction, providing seamless access to the surrounding alpine villages and high-altitude railways. The charming Höhematte park in the town center offers a spectacular, unobstructed view of the Jungfrau, blending urban comfort with rugged alpine majesty."
+      ro: "Interlaken a fost timp �ndelungat descris romantic chiar prin nume (?A?ezarea dintre Lacuri?) datorit? amplasamentului uluitor geografic pe mica �ntindere fertil? plat? alluvial? existent? �nghesuit �ntre faimoasele corpuri acvatice alpine montane renumite la nivel mondial Thunersee de est rece ?i verzuiul ?i st�ncosul Brienzersee apar?in�nd zonei vestice uria?e muntoase berneze elve?iene. Priveli?tile montane maiestuoase deschise clar spre valea de sud spectaculoas? faimos? adesea ofer? viziunea senin? clar? impun?toare a falnicului Jungfrau perfect alb. Sta?iunea turistic? cosmopolit? din secolul XIX ac?ioneaz? constant mereu �n deceniile epocii trecute drept cartierul general montan absolut necontestat din zona central? pentru to?i aventurierii europeni. Din cauza pozi?iei avantajoase geografice ?i a mun?ilor foarte apropia?i ?i accesibili ea serve?te modern zilnic pe tot teritoriul turistic vast ca principal epicentru na?ional activ de turism tip extrem de o anvergur? recunoscut? absolut oriunde generos interna?ional la nivel de top �n zbor cu para?uta sau activit??ile pe cablu extrem palpitante. (Geografie K8 ? Hub-uri logistice turistice de excep?ie tipic? elve?ian? de altitudine alpin? joas?)",
+      en: "Interlaken, perfectly situated on an alluvial plain between the emerald waters of Lake Thun and the brilliant turquoise of Lake Brienz, is the undisputed adventure capital of Switzerland. Guarded by the majestic peaks of the Eiger, M�nch, and Jungfrau, the town has been a magnet for tourists and thrill-seekers since the early 19th century. Today, it is globally renowned as a hub for extreme sports, offering world-class paragliding, skydiving, canyoning, and white-water rafting. Beyond the adrenaline rush, Interlaken serves as a critical transport junction, providing seamless access to the surrounding alpine villages and high-altitude railways. The charming H�hematte park in the town center offers a spectacular, unobstructed view of the Jungfrau, blending urban comfort with rugged alpine majesty."
     },
     facts: {
       de: [
         "Interlaken liegt zwischen zwei Seen.",
-        "Der Ort ist ein Zentrum fÃ¼r Paragliding.",
-        "Er ist ein beliebter Ausgangspunkt fÃ¼r Alpentouren.",
+        "Der Ort ist ein Zentrum für Paragliding.",
+        "Er ist ein beliebter Ausgangspunkt für Alpentouren.",
         "Die Lage macht ihn touristisch sehr attraktiv."
       ],
       hu: [
-        "Interlaken kÃ©t tÃ³ kÃ¶zÃ¶tt fekszik.",
-        "A siklÃ³ernyÅ‘zÃ©s kÃ¶zpontja.",
-        "NÃ©pszerÅ± alpesi tÃºrÃ¡k kiindulÃ³pontja.",
-        "Az elhelyezkedÃ©se miatt nagyon vonzÃ³ turisztikai cÃ©lpont."
+        "Interlaken két tó között fekszik.",
+        "A siklóerny�?zés központja.",
+        "Népszerű alpesi túrák kiindulópontja.",
+        "Az elhelyezkedése miatt nagyon vonzó turisztikai célpont."
       ],
       ro: [
-        "Interlaken se aflÄƒ Ã®ntre douÄƒ lacuri.",
-        "Este un centru pentru parapantÄƒ.",
+        "Interlaken se afl�? între dou�? lacuri.",
+        "Este un centru pentru parapant�?.",
         "Este un punct de plecare popular pentru tururi alpine.",
-        "PoziÈ›ia sa Ã®l face foarte atractiv turistic."
+        "Pozi�?ia sa îl face foarte atractiv turistic."
       ],
       en: [
         "Interlaken lies between two lakes.",
@@ -4108,16 +4108,16 @@ export const switzerlandNature: POI[] = [
       de: [],
       hu: [],
       ro: [
-      "Așezarea alpină geografică naturală distinctă clară de legătură între râurile montane curgătoare se realizează simplu de legătura albiei hidrografice lente formată de apele faimosului și clarului fluviu Aare elvețian.",
-      "Datorită zonei istorice de relaxare aristocratică faimosă uriașă în era modernă este recunoscută cu predilecție clar drept centrul absolut și Mecca mondială sportivă aeriană a celebrului zbor curajos modern cunoscut și atestat drept paragliding.",
-      "Marea zonă pajiște publică largă plată elvețiană centrală renumită Höhematte protejează precis și ferm din vechime cu tărie vederea faimoasă curată orientată unic impecabil către maiestuosul și de un alb complet sclipitor Jungfrau.",
-      "Stațiile multiple urbane imense pline de trenulețe funcționează perfect strategic sincronizate extrem eficient deservind necontenit tot parcursul de flux uriaș internațional globalizat ce se îndreaptă frenetic spre toate pantele faimoasei regiuni montane superbe Jungfrau.",
-      "Hotelurile sale mari arhitecturale frumoase din epoca de dinainte de marile războaie de top luxoase rezonează ferm continuu cu imaginea tipică istorică nobilă turistică tradițională bogată a unei renumite prestigioase și bogate Elveții alpine autentice de început de mare secol internațional grandios."
+      "A?ezarea alpin? geografic? natural? distinct? clar? de leg?tur? �ntre r�urile montane curg?toare se realizeaz? simplu de leg?tura albiei hidrografice lente format? de apele faimosului ?i clarului fluviu Aare elve?ian.",
+      "Datorit? zonei istorice de relaxare aristocratic? faimos? uria?? �n era modern? este recunoscut? cu predilec?ie clar drept centrul absolut ?i Mecca mondial? sportiv? aerian? a celebrului zbor curajos modern cunoscut ?i atestat drept paragliding.",
+      "Marea zon? paji?te public? larg? plat? elve?ian? central? renumit? H�hematte protejeaz? precis ?i ferm din vechime cu t?rie vederea faimoas? curat? orientat? unic impecabil c?tre maiestuosul ?i de un alb complet sclipitor Jungfrau.",
+      "Sta?iile multiple urbane imense pline de trenule?e func?ioneaz? perfect strategic sincronizate extrem eficient deservind necontenit tot parcursul de flux uria? interna?ional globalizat ce se �ndreapt? frenetic spre toate pantele faimoasei regiuni montane superbe Jungfrau.",
+      "Hotelurile sale mari arhitecturale frumoase din epoca de dinainte de marile r?zboaie de top luxoase rezoneaz? ferm continuu cu imaginea tipic? istoric? nobil? turistic? tradi?ional? bogat? a unei renumite prestigioase ?i bogate Elve?ii alpine autentice de �nceput de mare secol interna?ional grandios."
     ],
       en: [
         "The name 'Interlaken' literally translates to 'between the lakes', referring to its position between Lake Thun and Lake Brienz.",
         "It is globally recognized as the premier hub for adventure sports and paragliding in Switzerland.",
-        "The Höhematte is a large, protected green space in the town center that provides a clear, famous view of the Jungfrau.",
+        "The H�hematte is a large, protected green space in the town center that provides a clear, famous view of the Jungfrau.",
         "Interlaken has been a highly popular tourist destination since the early 1800s, visited by figures like Mark Twain.",
         "It serves as the main transfer point for the mountain railways heading up to Grindelwald, Lauterbrunnen, and Jungfraujoch."
       ]
