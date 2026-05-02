@@ -1,8 +1,8 @@
-import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
-import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
-import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
 
-export const luxembourgAllPoi = [
+
+
+
+const luxembourgAllPoi = [
   {
     id: "lu-country",
     type: "country",
@@ -23,7 +23,7 @@ export const luxembourgAllPoi = [
       de: "Luxemburg, offiziell das Großherzogtum Luxemburg, ist ein faszinierendes, kleines Binnenland in Westeuropa, das eine Brücke zwischen der germanischen und der romanischen Kultur schlägt. Es grenzt im Westen und Norden an Belgien, im Osten an Deutschland und im Süden an Frankreich. Trotz seiner geringen Größe spielt Luxemburg eine überproportionale Rolle auf der Weltbühne, sowohl politisch als auch wirtschaftlich. Als eines der Gründungsmitglieder der Europäischen Union beherbergt es zahlreiche EU-Institutionen, darunter den Europäischen Gerichtshof und die Europäische Investitionsbank. Die Hauptstadt, Luxemburg-Stadt, ist ein beeindruckendes Beispiel für die Verschmelzung von Geschichte und Moderne, wobei ihre befestigte Altstadt zum UNESCO-Weltkulturerbe gehört. Die Geografie des Landes ist zweigeteilt: Der Norden, das Ösling, ist Teil der Ardennen und besticht durch bewaldete Hügel und tiefe Täler, während das Gutland im Süden durch fruchtbare Ebenen und sanfte Weinberge entlang der Mosel geprägt ist. Luxemburg ist das einzige verbliebene Großherzogtum der Welt, was ihm eine einzigartige monarchische Identität verleiht. Die sprachliche Vielfalt ist bemerkenswert, mit Luxemburgisch als Nationalsprache sowie Französisch und Deutsch als Amtssprachen. Wirtschaftlich gehört das Land zu den wohlhabendsten der Welt, mit einem starken Fokus auf Finanzdienstleistungen, Technologie und Stahlproduktion. Für Reisende bietet Luxemburg eine reiche Palette an Erlebnissen: von Wanderungen durch die felsige Region Müllerthal, auch bekannt als 'Kleine Luxemburger Schweiz', über den Besuch mächtiger mittelalterlicher Burgen wie Vianden bis hin zu Weinverkostungen im malerischen Moseltal. Die luxemburgische Gastronomie spiegelt die Einflüsse der Nachbarländer wider und kombiniert französische Raffinesse mit deutscher Herzhaftigkeit. Ob man die historischen Kasematten erkundet, die moderne Architektur auf dem Kirchberg-Plateau bewundert oder die Ruhe der Ardennen genießt – Luxemburg überrascht durch seine Vielfalt und Beständigkeit. Es ist ein Land, das seine Traditionen pflegt und gleichzeitig mutig in die Zukunft blickt, was es zu einem unverzichtbaren Ziel für Entdecker in Europa macht. Die hohe Lebensqualität und die internationale Atmosphäre machen es zu einem Schmelztiegel der Kulturen, in dem Menschen aus über 170 Nationen friedlich zusammenleben.",
       hu: "Luxemburg, hivatalos nevén a Luxemburgi Nagyhercegség, egy lenyűgöző kis szárazföldi ország Nyugat-Európában, amely hidat képez a germán és a román kultúra között. Nyugaton és északon Belgiummal, keleten Németországgal, délen pedig Franciaországgal határos. Kis mérete ellenére Luxemburg aránytalanul nagy szerepet játszik a világpolitikai és gazdasági porondon. Az Európai Unió egyik alapító tagjaként számos uniós intézménynek ad otthont, köztük az Európai Bíróságnak és az Európai Beruházási Banknak. Fővárosa, Luxemburg város, a történelem és a modernitás ötvözésének lenyűgöző példája, erődített óvárosa pedig az UNESCO Világörökség része. Az ország földrajza két részre oszlik: az északi Oesling régió az Ardennek része, erdős dombokkal és mély völgyekkel, míg a déli Gutland termékeny síkságokkal és a Moselle menti szelíd szőlőültetvényekkel büszkélkedhet. Luxemburg a világ egyetlen fennmaradó nagyhercegsége, ami egyedülálló monarchikus identitást kölcsönöz neki. Nyelvi sokszínűsége figyelemre méltó: a luxemburgi a nemzeti nyelv, míg a francia és a német a hivatalos nyelvek. Gazdaságilag a világ egyik leggazdagabb országa, erős pénzügyi szolgáltatási, technológiai és acélipari fókusszal. Az utazók számára Luxemburg élmények gazdag tárházát kínálja: a sziklás Müllerthal régióban (a 'Kis Luxemburgi Svájcban') tett túráktól kezdve a hatalmas középkori várak, például Vianden meglátogatásán át a festői Moselle-völgyben tartott borkóstolókig. A luxemburgi gasztronómia a szomszédos országok hatásait tükrözi, ötvözve a francia kifinomultságot a német kiadóssággal. Akár a történelmi kazamatákat fedezi fel az ember, akár a Kirchberg-fennsík modern építészetét csodálja, vagy az Ardennek nyugalmát élvezi – Luxemburg meglep sokszínűségével és állandóságával. Ez egy olyan ország, amely ápolja hagyományait, ugyanakkor bátran tekint a jövőbe, így Európa felfedezői számára kihagyhatatlan úti cél. A magas életminőség és a nemzetközi légkör a kultúrák olvasztótégelyévé teszi, ahol több mint 170 nemzet fiai élnek békében egymás mellett.",
       ro: "Luxemburg, oficial Marele Ducat de Luxemburg, este o țară mică, fascinantă, fără ieșire la mare, situată în Europa de Vest, care face legătura între culturile germanică și romanică. Se învecinează cu Belgia la vest și nord, cu Germania la est și cu Franța la sud. În ciuda dimensiunilor sale reduse, Luxemburg joacă un rol disproporționat pe scena mondială, atât politic, cât și economic. Ca unul dintre membrii fondatori ai Uniunii Europene, găzduiește numeroase instituții ale UE, inclusiv Curtea de Justiție a Uniunii Europene și Banca Europeană de Investiții. Capitala, orașul Luxemburg, este un exemplu impresionant de fuziune între istorie și modernitate, orașul său vechi fortificat fiind inclus în Patrimoniul Mondial UNESCO. Geografia țării este împărțită în două: nordul, Oesling, face parte din Ardeni și impresionează prin dealuri împădurite și văi adânci, în timp ce Gutland, în sud, este caracterizat de câmpii fertile și podgorii blânde de-a lungul râului Mosela. Luxemburg este singurul mare ducat rămas în lume, ceea ce îi conferă o identitate monarhică unică. Diversitatea lingvistică este remarcabilă, luxemburgheza fiind limba națională, iar franceza și germana fiind limbi oficiale. Din punct de vedere economic, țara este una dintre cele mai bogate din lume, cu un accent puternic pe serviciile financiare, tehnologie și producția de oțel. Pentru călători, Luxemburg oferă o gamă bogată de experiențe: de la drumeții prin regiunea stâncoasă Mullerthal, cunoscută și sub numele de 'Mica Elveție Luxemburgheză', la vizitarea unor castele medievale impunătoare precum Vianden, până la degustări de vinuri în pitoreasca vale a Moselei. Gastronomia luxemburgheză reflectă influențele țărilor vecine, combinând rafinamentul francez cu consistența germană. Fie că explorați casematele istorice, admirați arhitectura modernă de pe platoul Kirchberg sau vă bucurați de liniștea Ardenilor – Luxemburg surprinde prin diversitatea și stabilitatea sa. Este o țară care își prețuiește tradițiile și, în același timp, privește cu curaj spre viitor, fiind o destinație esențială pentru exploratorii din Europa. Calitatea înaltă a vieții și atmosfera internațională o transformă într-un creuzet al culturilor, unde oameni din peste 170 de națiuni trăiesc în armonie.",
-      en: "Luxembourg, officially the Grand Duchy of Luxembourg, is a captivating small landlocked country in Western Europe that serves as a bridge between Germanic and Romance cultures. Despite its small size, Luxembourg plays a disproportionate role on the world stage, both politically and economically. As one of the founding members of the European Union, it hosts numerous EU institutions. The country's geography is divided into the northern Ardennes (Oesling) and the southern Gutland. Luxembourg is the world's only remaining Grand Duchy, giving it a unique monarchical identity. Exploring Luxembourg offers a mix of ancient castles, modern financial centers, and dense, tranquil forests. This country is a prime example of successful European integration."
+      en: "Luxembourg, officially the Grand Duchy of Luxembourg, is a captivating small landlocked country in Western Europe that serves as a bridge between Germanic and Romance cultures. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Despite its small size, Luxembourg plays a disproportionate role on the world stage, both politically and economically. As one of the founding members of the European Union, it hosts numerous EU institutions, including the Court of Justice of the European Union and the European Investment Bank. The capital, Luxembourg City, is a stunning example of the fusion of history and modernity, with its fortified old town designated as a UNESCO World Heritage site. The country's geography is divided into two main regions: the north, known as the Oesling, is part of the Ardennes and features forested hills and deep valleys, while the Gutland in the south is characterized by fertile plains and gentle vineyards along the Moselle River. Luxembourg is the world's only remaining Grand Duchy, giving it a unique monarchical identity. Its linguistic diversity is remarkable, with Luxembourgish as the national language and French and German as official languages. Economically, the country is one of the wealthiest in the world, with a strong focus on financial services, technology, and steel production. For travelers, Luxembourg offers a rich palette of experiences: from hiking through the rocky Mullerthal region, also known as 'Little Switzerland,' to visiting mighty medieval castles like Vianden, and enjoying wine tastings in the picturesque Moselle Valley. Luxembourgish gastronomy reflects the influences of neighboring countries, combining French sophistication with German heartiness. Whether exploring the historic casemates, admiring the modern architecture on the Kirchberg plateau, or enjoying the tranquility of the Ardennes, Luxembourg surprises with its diversity and resilience. It is a country that cherishes its traditions while looking boldly toward the future, making it an essential destination for explorers in Europe. The high quality of life and international atmosphere make it a melting pot of cultures, where people from over 170 nations live peacefully side by side."
     },
     facts: {
       de: [
@@ -75,18 +75,6 @@ export const luxembourgAllPoi = [
         "Major financial hub with over 150 banks"
       ]
     },
-    factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Luxembourg covers an area of just 2,586 square kilometers.",
-        "It is the only remaining sovereign Grand Duchy in the world.",
-        "The country has three official languages: Luxembourgish, French, and German.",
-        "Nearly half of its population consists of foreign nationals."
-      ]
-    },
-
     image: "/images/visualLab/luxembourg/country.jpg"
   },
   {
@@ -109,8 +97,8 @@ export const luxembourgAllPoi = [
     descriptionAdvanced: {
       de: "Luxemburg-Stadt, die Hauptstadt des Großherzogtums, ist eine Stadt der dramatischen Kontraste und atemberaubenden Schönheit. Auf steilen Klippen über den tiefen Tälern der Flüsse Alzette und Pétrusse thronend, ist die Stadt berühmt für ihre außergewöhnlich gut erhaltenen mittelalterlichen Befestigungsanlagen, die ihr 1994 einen Platz auf der UNESCO-Liste des Weltkulturerbes einbrachten. Oft als 'Gibraltar des Nordens' bezeichnet, ist die Geschichte der Stadt durch ihre strategische Bedeutung als einer der am stärksten befestigten Orte Europas geprägt. Das Herz der Stadt ist die Ville Haute (Oberstadt), wo historische Plätze wie die Place d'Armes und die Place Guillaume II als lebendige Treffpunkte dienen. Hier befinden sich der Großherzogliche Palast, die offizielle Residenz des Großherzogs, und die Kathedrale unserer lieben Frau, ein Meisterwerk der Spätgotik. Die engen, gewundenen Gassen der Altstadt führen zum Chemin de la Corniche, der oft als 'schönster Balkon Europas' bezeichnet wird und atemberaubende Ausblicke auf den tiefer gelegenen Stadtteil Grund bietet. Der Grund, im Tal gelegen, bietet mit seinen Steinhäusern, Uferwegen und der Abtei Neumünster, die heute als Kulturzentrum dient, eine ruhigere Atmosphäre. Eine der einzigartigsten Attraktionen der Stadt sind die Bock-Kasematten, ein riesiges Netzwerk aus unterirdischen Tunneln und Galerien, die in den Fels gehauen wurden und einst Tausenden von Soldaten und ihren Pferden Schutz boten. Im krassen Gegensatz zu ihren mittelalterlichen Wurzeln repräsentiert das Kirchberg-Plateau das moderne, internationale Gesicht der Stadt. Dieser Bezirk beherbergt zahlreiche Institutionen der Europäischen Union, darunter den Europäischen Gerichtshof und das Sekretariat des Europäischen Parlaments, sowie bedeutende internationale Banken und die futuristische Philharmonie Luxembourg. Das Mudam (Museum für Moderne Kunst Großherzog Jean), entworfen von I.M. Pei, ist ein weiteres architektonisches Highlight dieser Gegend. Luxemburg-Stadt ist nicht nur ein politisches und finanzielles Zentrum, sondern auch eine grüne Stadt mit weitläufigen Parks und Gärten wie dem Parc de la Pétrusse und dem Stadtpark, die reichlich Raum für Erholung bieten. Das kulturelle Leben der Stadt ist reich und vielfältig, mit erstklassigen Museen, Theatern und Festivals das ganze Jahr über. Ihr kosmopolitischer Charakter spiegelt sich in der Bevölkerung wider, wobei über 70 % der Einwohner Ausländer sind, was ein wahrhaft internationales und mehrsprachiges Umfeld schafft. Ob man die antike Geschichte oder die modernen Innovationen erkundet, Luxemburg-Stadt bietet ein einzigartiges und unvergessliches europäisches Erlebnis. Die Stadt verbindet nahtlos ihren historischen Charme mit einer dynamischen, zukunftsorientierten Vision, was sie zu einem faszinierenden Ziel für Touristen und Geschäftsreisende gleichermaßen macht.",
       hu: "Luxemburg város, a Nagyhercegség fővárosa, a drámai kontrasztok és a lenyűgöző szépség városa. Az Alzette és a Pétrusse folyók mély völgyei fölé magasodó meredek sziklákon elhelyezkedő város híres kivételesen jól megőrzött középkori erődítményeiről, amelyek 1994-ben kiérdemelték helyüket az UNESCO Világörökségi listáján. A várost gyakran 'Észak Gibraltárjaként' emlegetik, történelmét pedig stratégiai jelentősége határozta meg, mint Európa egyik legjobban megerősített helyszíne. A város szíve a Ville Haute (Felsőváros), ahol olyan történelmi terek, mint a Place d'Armes és a Place Guillaume II, vibráló találkozóhelyként szolgálnak. Itt található a Nagyhercegi Palota, a nagyherceg hivatalos rezidenciája, valamint a Notre-Dame székesegyház, a késő gótikus építészet remekműve. Az óváros szűk, kanyargós utcái a Chemin de la Corniche-hoz vezetnek, amelyet gyakran 'Európa legszebb erkélyének' neveznek, és lélegzetelállító kilátást nyújt az alatta fekvő Grund negyedre. A völgyben található Grund nyugodtabb légkört kínál kőházaival, folyóparti sétányaival és a Neumünster-apátsággal, amely ma kulturális központként működik. A város egyik legegyedibb látványossága a Bock-kazamaták, a sziklába vájt föld alatti alagutak és galériák hatalmas hálózata, amely egykor katonák ezreinek és lovaiknak nyújtott menedéket. A középkori gyökerekkel éles ellentétben a Kirchberg-fennsík a város modern, nemzetközi arcát képviseli. Ez a negyed ad otthont az Európai Unió számos intézményének, köztük az Európai Bíróságnak és az Európai Parlament Titkárságának, valamint jelentős nemzetközi bankoknak és a futurisztikus Philharmonie Luxembourg koncertteremnek. A Mudam (Jean nagyherceg Modern Művészeti Múzeum), amelyet I.M. Pei tervezett, a terület másik építészeti fénypontja. Luxemburg város nemcsak politikai és pénzügyi központ, hanem zöld város is, kiterjedt parkokkal és kertekkel, mint például a Pétrusse-park és a Városi Park, amelyek bőséges teret biztosítanak a kikapcsolódáshoz. A város kulturális élete gazdag és sokszínű, világszínvonalú múzeumokkal, színházakkal és fesztiválokkal egész évben. Kozmopolita jellege tükröződik lakosságában is, ahol a lakosok több mint 70%-a külföldi állampolgár, ami valóban nemzetközi és többnyelvű környezetet teremt. Akár az ősi történelmet, akár a modern innovációkat fedezi fel az ember, Luxemburg város egyedülálló és felejthetetlen európai élményt nyújt. A város zökkenőmentesen ötvözi történelmi báját a dinamikus, jövőorientált szemlélettel, így lenyűgöző célpont a turisták és az üzleti utazók számára egyaránt.",
-      ro: "Orașul Luxemburg, capitala Marelui Ducat de Luxemburg, este un oraș al contrastelor dramatice și al frumuseții uluitoare. Situat pe stânci abrupte care domină văile adânci ale râurilor Alzette și Pétrusse, orașul este faimos pentru fortificațiile sale medievale excepțional de bine conservate, care i-au adus centrului vechi un loc în Patrimoniul Mondial UNESCO în 1994. Supranumit adesea 'Gibraltarul Nordului', istoria orașului este definită de importanța sa strategică ca unul dintre cele mai puternic fortificate locuri din Europa. Inima orașului este Ville Haute (Orașul de Sus), unde piețe istorice precum Place d'Armes și Place Guillaume II servesc drept puncte de întâlnire vibrante. Aici se află Palatul Marilor Duci, reședința oficială a Marelui Duce, și Catedrala Notre-Dame, o capodoperă a arhitecturii gotice târzii. Străzile înguste și sinuoase ale orașului vechi duc spre Chemin de la Corniche, numit adesea 'cel mai frumos balcon al Europei', oferind vederi spectaculoase asupra cartierului Grund de mai jos. Grund, situat în vale, oferă o atmosferă mai liniștită, cu casele sale din piatră, potecile de pe malul râului și Abația Neumünster, care servește acum ca centru cultural. Una dintre cele mai unice atracții ale orașului sunt Casematele Bock, o rețea vastă de tuneluri și galerii subterane săpate în stâncă, care odinioară ofereau adăpost pentru mii de soldați și caii lor. În contrast puternic cu rădăcinile sale medievale, platoul Kirchberg reprezintă fața modernă și internațională a orașului. Acest district găzduiește numeroase instituții ale Uniunii Europene, inclusiv Curtea Europeană de Justiție și Secretariatul Parlamentului European, precum și bănci internaționale majore și sala de concerte futuristă Philharmonie Luxembourg. Mudam (Muzeul de Artă Modernă Marele Duce Jean), proiectat de I.M. Pei, este un alt punct de reper arhitectural al acestei zone. Orașul Luxemburg nu este doar un centru politic și financiar, ci și un oraș verde, cu parcuri și grădini întinse, precum Parcul Pétrusse și Parcul Municipal, care oferă spațiu generos pentru recreere. Viața culturală a orașului este bogată și diversă, cu muzee de talie mondială, teatre și festivaluri pe tot parcursul anului. Natura sa cosmopolită se reflectă în populația sa, peste 70% dintre rezidenți fiind cetățeni străini, creând un mediu cu adevărat internațional și multilingv. Fie că explorați istoria sa antică sau inovațiile sale moderne, orașul Luxemburg oferă o experiență europeană unică și de neuitat. Orașul îmbină perfect farmecul istoric cu o viziune dinamică, orientată spre viitor, fiind o destinație fascinantă atât pentru turiști, cât și pentru călătorii de afaceri.",
-      en: "Luxembourg City, the capital of the Grand Duchy, is a city of dramatic contrasts and breathtaking beauty. Perched on steep cliffs above the deep valleys of the Alzette and Pétrusse rivers, the city is famous for its exceptionally well-preserved medieval fortifications, which earned it a spot on the UNESCO World Heritage list in 1994. Often referred to as the 'Gibraltar of the North', its history is shaped by its strategic importance as one of Europe's most fortified sites. Today, it beautifully balances its ancient casemates with the sleek, modern architecture of the Kirchberg plateau, home to numerous EU institutions."
+      ro: "Orașul Luxemburg, capitala Marelui Ducat de Luxemburg, este un oraș al contrastelor dramatice și al frumuseții uluitoare. Situat pe stânci abrupte care domină văile adânci ale râurilor Alzette și Pétrusse, orașul este faimos pentru fortificațiile sale medievale excepțional de bine conservate, care i-au adus centrului vechi un loc în Patrimoniul Mondial UNESCO în 1994. Supranumit adesea 'Gibraltarul Nordului', istoria orașului este definită de 
+      en: "Luxembourg City, the capital of the Grand Duchy of Luxembourg, is a city of dramatic contrasts and stunning beauty. Perched on steep cliffs overlooking the deep valleys of the Alzette and Pétrusse rivers, the city is famous for its exceptionally preserved medieval fortifications, which earned its Old Quarters a place on the UNESCO World Heritage list in 1994. Often referred to as the 'Gibraltar of the North,' the city's history is defined by its strategic 
     },
     facts: {
       de: [
@@ -162,18 +150,6 @@ export const luxembourgAllPoi = [
         "Free public transport throughout the city"
       ]
     },
-    factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The city's ancient fortifications are part of a UNESCO World Heritage site.",
-        "It is built across dramatic gorges cut by the Alzette and Pétrusse rivers.",
-        "The Bock Casemates once sheltered thousands of soldiers and horses.",
-        "Over 70% of the city's residents are foreign nationals."
-      ]
-    },
-
     image: "/images/visualLab/luxembourg/luxembourg-city.jpg"
   },
   {
@@ -197,7 +173,7 @@ export const luxembourgAllPoi = [
       de: "Das malerische Städtchen Vianden liegt im Nordosten Luxemburgs an der Grenze zu Deutschland im idyllischen Our-Tal. Berühmt ist Vianden vor allem für seine imposante mittelalterliche Burg, die majestätisch über der Stadt thront und zu den bedeutendsten historischen Denkmälern Europas zählt. Die engen, gepflasterten Gassen und die historische Stadtmauer versetzen Besucher in eine längst vergangene Zeit. Sogar der französische Schriftsteller Victor Hugo verbrachte hier mehrfach seine Zeit, um sich inspirieren zu lassen. Ein perfektes Beispiel für die Epoche des Mittelalters im Fach Geschichte K6.",
       hu: "",
       ro: "",
-      en: "Vianden is a picturesque town nestled in the valley of the Our River in northern Luxembourg, known as one of the country's most enchanting historical destinations. Dominated by its magnificent medieval castle, which perches majestically on a rocky promontory, Vianden feels like a place where time has stood still. The town's history is deeply intertwined with the House of Vianden, one of the most powerful noble families in the region during the Middle Ages. Beyond the castle, the town features narrow cobblestone streets, traditional houses, and scenic hiking trails that offer stunning views of the Ardennes landscape."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -213,12 +189,7 @@ export const luxembourgAllPoi = [
         "Orașul găzduiește un mare festival medieval în fiecare an.",
         "Un telescaun oferă vizitatorilor vederi panoramice fantastice ale orașului și ale Văii Our."
       ],
-      en: [
-        "Vianden Castle is one of the largest and finest feudal residences of the Romanesque and Gothic periods.",
-        "The town is located in the Our valley near the border with Germany.",
-        "Famous French author Victor Hugo lived here in exile in 1871.",
-        "The local chairlift is the only one of its kind in Luxembourg."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -253,7 +224,7 @@ export const luxembourgAllPoi = [
         "Castelul a fost construit pe fundații romane",
         "Orașul este situat în pitoreasca vale a râului Our",
         "Muzeul Victor Hugo în fosta sa casă",
-        "Oprire importantă pe 'Drumul Castelelor'",
+        "Oprire 
         "Râul Our formează aici granița cu Germania",
         "Castelul a fost preluat de statul Luxemburg în 1977"
       ],
@@ -292,8 +263,8 @@ export const luxembourgAllPoi = [
     descriptionAdvanced: {
       de: "Echternach ist die älteste Stadt Luxemburgs und ein wichtiges kulturelles Zentrum im Osten des Landes. Bekannt ist sie vor allem durch die Abtei Echternach, die im Jahr 698 vom irischen Mönch Willibrord gegründet wurde. Jährlich zieht die berühmte Echternacher Springprozession, die zum immateriellen UNESCO-Weltkulturerbe gehört, Tausende von Pilgern und Touristen an. Umgeben ist die historische Stadt von der atemberaubenden Landschaft des Müllerthals, das auch als 'Kleine Luxemburger Schweiz' bekannt ist. Dies ist ein hervorragendes Beispiel für sakrale Geschichte im Fach Geschichte K7.",
       hu: "",
-      ro: "Echternach este cel mai vechi oraș din Luxemburg și un important centru cultural din estul țării. Este cel mai cunoscut pentru Abația Echternach, care a fost fondată în 698 de călugărul irlandez Willibrord. În fiecare an, faimoasa procesiune de sărituri din Echternach, care este un sit al patrimoniului mondial imaterial UNESCO, atrage mii de pelerini și turiști. Orașul istoric este înconjurat de peisajul uluitor al Müllerthal, cunoscut și sub numele de „Mica Elveție a Luxemburgului”. Acesta este un exemplu excelent de istorie sacră la materia de istorie K7.",
-      en: "Echternach is the oldest town in Luxembourg, steeped in deep historical and religious significance. Located in the east near the German border, it grew around the Abbey of Echternach, founded in 698 by the Anglo-Saxon monk Willibrord. The town's basilica still houses the remains of St. Willibrord and is the destination of the famous 'Dancing Procession' held every Whit Tuesday, a unique tradition recognized by UNESCO. With its medieval market square, ancient abbey walls, and proximity to the stunning rock formations of the Mullerthal region, Echternach perfectly blends cultural heritage with natural beauty."
+      ro: "Echternach este cel mai vechi oraș din Luxemburg și un 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -309,12 +280,7 @@ export const luxembourgAllPoi = [
         "Vila romană din Echternach a fost una dintre cele mai mari din Europa Centrală.",
         "Orașul este situat direct la granița cu Germania pe Sauer."
       ],
-      en: [
-        "Echternach is recognized as the oldest town in Luxembourg.",
-        "The town's Abbey was founded in the year 698 by St. Willibrord.",
-        "The traditional Dancing Procession is inscribed on the UNESCO Intangible Cultural Heritage list.",
-        "It serves as the main gateway to the Mullerthal region, known as Little Switzerland."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -381,7 +347,7 @@ export const luxembourgAllPoi = [
       de: "Das Müllerthal, oft als 'Kleine Luxemburger Schweiz' bezeichnet, ist eine faszinierende Region im Osten Luxemburgs, die für ihre spektakulären Felsformationen und tiefen Wälder bekannt ist. Das Gebiet wird durchzogen von einem dichten Netz aus Wanderwegen, darunter der berühmte Mullerthal Trail, der Wanderer durch moosbedeckte Schluchten und vorbei an malerischen Wasserfällen führt. Entstanden sind diese bizarren Sandsteinlandschaften vor Millionen von Jahren durch geologische Prozesse und Erosion. Geomorphologie und Naturerhaltung in dieser Region sind ein spannendes Thema für Geografie K8.",
       hu: "",
       ro: "Müllerthal, denumită adesea „Mica Elveție a Luxemburgului”, este o regiune fascinantă din estul Luxemburgului, cunoscută pentru formațiunile spectaculoase de stâncă și pădurile adânci. Zona este străbătută de o rețea densă de trasee de drumeții, inclusiv faimosul traseu Mullerthal, care îi duce pe drumeți prin chei acoperite cu mușchi și prin cascade pitorești. Aceste peisaje bizare de gresie au fost create cu milioane de ani în urmă prin procese geologice și eroziune. Geomorfologia și conservarea naturii în această regiune sunt un subiect interesant pentru geografie K8.",
-      en: "The Mullerthal region, often lovingly referred to as 'Little Switzerland,' is a true paradise for nature lovers and hikers. Located in the east of Luxembourg, it is characterized by its extraordinary sandstone rock formations, deep gorges, and dense, enchanting forests. Over millennia, the Black Ernz river and other streams have carved bizarre shapes into the sandstone, creating mystical landscapes that feel straight out of a fairy tale. The Mullerthal Trail, spanning over 112 kilometers, winds through these dramatic geological wonders, taking hikers past waterfalls like the famous Schiessentümpel and ancient caves used by early inhabitants."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -397,12 +363,7 @@ export const luxembourgAllPoi = [
         "Multe formațiuni stâncoase au nume bazate pe mituri și legende.",
         "Rocile de gresie constau din depozite dintr-o mare antică din perioada jurasică."
       ],
-      en: [
-        "The region is renowned for its spectacular sandstone rock formations.",
-        "The Mullerthal Trail spans 112 kilometers of hiking paths.",
-        "The Schiessentümpel waterfall is one of its most photographed natural landmarks.",
-        "The landscape was shaped by erosion over millions of years."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -477,7 +438,7 @@ export const luxembourgAllPoi = [
       de: "Schengen ist ein kleines, friedliches Winzerdorf im Dreiländereck von Luxemburg, Deutschland und Frankreich. Weltberühmt wurde der Ort durch das 1985 hier unterzeichnete Schengener Abkommen, das die Abschaffung der stationären Grenzkontrollen in Europa einleitete. Besucher können am Ufer der Mosel das Europamuseum besuchen, das die Geschichte des grenzenlosen Europas dokumentiert. Die Weinberge um das Dorf produzieren einige der besten Weine Luxemburgs. Dieses symbolträchtige Dorf wird im Fach Politik K8 bei der Europäischen Integration behandelt.",
       hu: "",
       ro: "Schengen este un sat mic și pașnic viticol din triunghiul de graniță dintre Luxemburg, Germania și Franța. Locul a devenit celebru în întreaga lume datorită Acordului Schengen semnat aici în 1985, care a inițiat abolirea controalelor staționare la frontieră în Europa. Vizitatorii pot vizita Muzeul European de pe malul Mosellei, care documentează istoria Europei fără granițe. Podgoriile din jurul satului produc unele dintre cele mai bune vinuri din Luxemburg. Acest sat simbolic este abordat la materia Politică K8 în Integrare europeană.",
-      en: "Schengen is a small, tranquil wine-producing village on the Moselle River, located at the precise tripoint where Luxembourg, Germany, and France meet. Despite its modest size, Schengen's name resonates globally, as it was here in 1985 that the historic Schengen Agreement was signed aboard the riverboat 'Princesse Marie-Astrid.' This treaty paved the way for the borderless travel zone that defines modern Europe today. Beyond its immense political significance, the village offers picturesque vineyards, an interesting European Museum, and a peaceful riverside atmosphere that celebrates cross-border harmony."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -493,12 +454,7 @@ export const luxembourgAllPoi = [
         "O bucată din Zidul Berlinului este expusă în Schengen.",
         "Satul are doar în jur de 500 de locuitori, dar este cunoscut în întreaga lume."
       ],
-      en: [
-        "Schengen is located at the exact border tripoint of Luxembourg, Germany, and France.",
-        "The famous Schengen Agreement was signed here on June 14, 1985.",
-        "The treaty was signed on a boat named 'Princesse Marie-Astrid' anchored on the Moselle River.",
-        "The village is surrounded by scenic vineyards producing excellent Moselle wines."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -525,7 +481,7 @@ export const luxembourgAllPoi = [
         "Locul semnării Acordului Schengen (1985)",
         "Punct triplu de frontieră: Luxemburg, Franța, Germania",
         "Muzeul European Schengen documentează istoria",
-        "Centru important al viticulturii luxemburgheze",
+        "Centru 
         "Monument cu o bucată originală din Zidul Berlinului",
         "Situat pe malul pitoresc al râului Mosela",
         "Trei stele de oțel simbolizează statele fondatoare",
@@ -546,7 +502,7 @@ export const luxembourgAllPoi = [
   }
 , ...luxembourgExtraCities, ...luxembourgExtraHistory, ...luxembourgExtraOther];
 
-export const luxembourgCities = [
+const luxembourgCities = [
   {
     id: "city-luxembourg",
     type: "city",
@@ -568,7 +524,7 @@ export const luxembourgCities = [
       de: "Die Hauptstadt Luxemburg ist das pulsierende Herz des Landes und ein Schmelztiegel der europäischen Kulturen. Ihre einzigartige Topografie mit tiefen Tälern und hoch aufragenden Festungsmauern macht sie architektonisch unverwechselbar. Als globales Finanzzentrum und europäische Institutionenstadt zieht sie Fachkräfte aus aller Welt an, was sich in einer vielfältigen und dynamischen Gastronomieszene widerspiegelt. Die Altstadt, die seit 1994 zum UNESCO-Weltkulturerbe gehört, verbindet harmonisch historische Bausubstanz mit modernem städtischen Leben. Ein spannendes Fallbeispiel für Urbanisierung im Fach Geografie K8.",
       hu: "",
       ro: "Capitala, Luxemburg, este inima care bate a țării și o oală de topire a culturilor europene. Topografia sa unică, cu văi adânci și ziduri falnice de fortăreață, o face distinctă din punct de vedere arhitectural. Ca centru financiar global și oraș instituție europeană, atrage profesioniști din întreaga lume, ceea ce se reflectă într-o scenă gastronomică diversă și dinamică. Orașul vechi, care este inclus în Patrimoniul Mondial UNESCO din 1994, îmbină armonios clădirile istorice cu viața urbană modernă. Un studiu de caz interesant al urbanizării în domeniul geografiei K8.",
-      en: "Luxembourg City is the dynamic and cosmopolitan capital of the Grand Duchy, serving as a vital political and financial center in Europe. The city's geography is spectacular, built across deep gorges carved by the Alzette and Pétrusse rivers, seamlessly blending ancient fortifications with sleek modern architecture. Its historic heart, a UNESCO World Heritage site, is filled with winding cobblestone streets, majestic squares, and the Grand Ducal Palace. In contrast, the Kirchberg plateau showcases the city's modern European identity, hosting international banks, EU institutions, and the striking Philharmonie concert hall."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -584,12 +540,7 @@ export const luxembourgCities = [
         "Cartierul European de pe Podișul Kirchberg găzduiește Curtea Europeană de Justiție.",
         "Cazematele Bock au servit drept adăpost pentru zeci de mii de oameni în timpul celui de-al Doilea Război Mondial."
       ],
-      en: [
-        "The historic old town and fortifications are a UNESCO World Heritage site.",
-        "The city is often called the 'Gibraltar of the North' due to its past military strength.",
-        "It hosts several key European Union institutions on the Kirchberg plateau.",
-        "The Grand Ducal Palace serves as the official residence of the Grand Duke."
-      ]
+      en: []
     },
     facts: {
       de: ["Hauptstadt Luxemburgs", "UNESCO-Altstadt", "Bock-Felsen und Kasematten"],
@@ -619,8 +570,8 @@ export const luxembourgCities = [
     descriptionAdvanced: {
       de: "Esch-sur-Alzette, oft nur Esch genannt, ist die zweitgrößte Stadt Luxemburgs und das historische Zentrum der luxemburgischen Stahlindustrie. Die Stadt erlebte im 20. Jahrhundert durch die Eisenerzförderung einen enormen wirtschaftlichen Aufschwung und hat sich seitdem stark gewandelt. Heute ist das Viertel Belval ein Paradebeispiel für gelungene Industriekonversion, wo ehemalige Hochöfen auf moderne Universitätsgebäude und Start-ups treffen. Die Stadt war 2022 Kulturhauptstadt Europas. Die industrielle Transformation ist ein wichtiges Thema für Geschichte und Geografie K8.",
       hu: "",
-      ro: "Esch-sur-Alzette, numit adesea Esch, este al doilea oraș ca mărime din Luxemburg și centrul istoric al industriei siderurgice din Luxemburg. Orașul a cunoscut un boom economic enorm în secolul al XX-lea datorită exploatării minereului de fier și s-a schimbat semnificativ de atunci. Astăzi, cartierul Belval este un prim exemplu de conversie industrială de succes, unde fostele furnale se întâlnesc cu clădirile universitare moderne și start-up-urile. Orașul a fost Capitală Europeană a Culturii în 2022. Transformarea industrială este un subiect important pentru istorie și geografie K8.",
-      en: "Esch-sur-Alzette, commonly known as Esch, is the second-largest city in Luxembourg and the cultural capital of the southern Minett region. Once the beating heart of the country's booming iron and steel industry, the city has undergone a remarkable transformation over recent decades. Its industrial past is still visible, especially in the striking Belval district, where decommissioned blast furnaces now stand alongside modern university buildings, concert venues, and start-up hubs. Esch-sur-Alzette is a vibrant testament to successful urban regeneration, blending a rich industrial heritage with a forward-looking, youthful energy."
+      ro: "Esch-sur-Alzette, numit adesea Esch, este al doilea oraș ca mărime din Luxemburg și centrul istoric al industriei siderurgice din Luxemburg. Orașul a cunoscut un boom economic enorm în secolul al XX-lea datorită exploatării minereului de fier și s-a schimbat semnificativ de atunci. Astăzi, cartierul Belval este un prim exemplu de conversie industrială de succes, unde fostele furnale se întâlnesc cu clădirile universitare moderne și start-up-urile. Orașul a fost Capitală Europeană a Culturii în 2022. Transformarea industrială este un subiect 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -636,12 +587,7 @@ export const luxembourgCities = [
         "Furnalul Belval poate fi urcat de vizitatori pentru o priveliște spectaculoasă.",
         "Cea mai lungă stradă comercială din Luxemburg se află în centrul orașului Esch."
       ],
-      en: [
-        "Esch-sur-Alzette is the second most populous city in Luxembourg.",
-        "The city was the center of Luxembourg's iron ore mining and steel production.",
-        "The Belval district features a university campus built around preserved blast furnaces.",
-        "It served as the European Capital of Culture in 2022."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -701,14 +647,14 @@ export const luxembourgCities = [
     description: {
       de: "Differdingen, oft als 'Eisenstadt' bezeichnet, ist ein bedeutendes Industrie- und Kulturzentrum im Südwesten Luxemburgs. Wie seine Nachbarstadt Esch-sur-Alzette ist die Identität von Differdingen in der Eisen- und Stahlindustrie geschmiedet. Die Stadt spielte eine entscheidende Rolle in der industriellen Entwicklung des Landes, und ihre Landschaft ist immer noch durch die Präsenz des ArcelorMittal-Stahlwerks geprägt, das einer der größten Arbeitgeber der Region bleibt. Trotz seiner industriellen Wurzeln hat Differdingen seine Wirtschaft und sein kulturelles Angebot erfolgreich diversifiziert. Die Stadt beherbergt das Luxembourg Science Center, ein interaktives Museum, das Wissenschaft und Technologie für alle Altersgruppen zugänglich und unterhaltsam macht. Das Schloss Differdingen aus dem 16. Jahrhundert, das heute als Campus für die Miami University dient, verleiht der Stadt einen Hauch von historischer Eleganz. Differdingen ist auch eine Stadt der Natur, umgeben von üppigen Wäldern und Hügeln, die zahlreiche Möglichkeiten für Outdoor-Aktivitäten bieten. Der Industrie- und Eisenbahnpark 'Fond-de-Gras' in der Nähe bietet eine faszinierende Zeitreise mit Oldtimer-Zügen und einem erhaltenen Bergbaudorf. Differdingens Engagement für Innovation und sein reiches soziales Gefüge machen es zu einer lebendigen und einladenden Stadt, die ihre Vergangenheit ehrt und gleichzeitig in eine nachhaltige Zukunft blickt.",
       hu: "Differdange, amelyet gyakran 'Vasmunkások városának' is neveznek, jelentős ipari és kulturális központ Luxemburg délnyugati részén. Szomszédjához, Esch-sur-Alzette-hez hasonlóan Differdange identitása is a vas- és acéliparban forrott ki. A város döntő szerepet játszott az ország ipari fejlődésében, és tájképét ma is meghatározza az ArcelorMittal acélmű jelenléte, amely a régió egyik legnagyobb munkaadója marad. Ipari gyökerei ellenére Differdange sikeresen diverzifikálta gazdaságát és kulturális kínálatát. Itt található a Luxemburgi Tudományos Központ (Luxembourg Science Center), egy interaktív múzeum, amely minden korosztály számára elérhetővé és szórakoztatóvá teszi a tudományt és a technológiát. A 16. századi Differdange-i kastély, amely ma a Miami Egyetem kampuszaként szolgál, történelmi eleganciát kölcsönöz a városnak. Differdange a természet városa is, buja erdők és dombok veszik körül, amelyek számos lehetőséget kínálnak a szabadtéri kikapcsolódásra. A közeli 'Fond-de-Gras' ipari és vasúti park lenyűgöző időutazást kínál veterán vonatokkal és egy megőrzött bányászfaluval. Differdange innováció iránti elkötelezettsége és gazdag társadalmi szövete vibráló és vendégszerető várossá teszi, amely tiszteli múltját, miközben a fenntartható jövő felé tekint.",
-      ro: "Differdange, supranumit adesea 'Orașul Fierului', este un important centru industrial și cultural din sud-vestul Luxemburgului. La fel ca vecinul său Esch-sur-Alzette, identitatea orașului Differdange este forjată în industria fierului și oțelului. Orașul a jucat un rol crucial în dezvoltarea industrială a țării, iar peisajul său este încă marcat de prezența uzinei siderurgice ArcelorMittal, care rămâne unul dintre cei mai mari angajatori din regiune. În ciuda rădăcinilor sale industriale, Differdange și-a diversificat cu succes economia și ofertele culturale. Orașul găzduiește Luxembourg Science Center, un muzeu interactiv care face știința și tehnologia accesibile și distractive pentru toate vârstele. Castelul Differdange din secolul al XVI-lea, care servește acum ca campus pentru Universitatea Miami, adaugă o notă de eleganță istorică orașului. Differdange este, de asemenea, un oraș al naturii, înconjurat de păduri luxuriante și dealuri care oferă numeroase oportunități de recreere în aer liber. Parcul industrial și feroviar 'Fond-de-Gras', situat în apropiere, oferă o călătorie fascinantă în timp, cu trenuri de epocă și un sat minier conservat. Angajamentul orașului Differdange față de inovare și țesutul său social bogat îl fac un oraș vibrant și primitor, care își onorează trecutul în timp ce privește spre un viitor durabil.",
+      ro: "Differdange, supranumit adesea 'Orașul Fierului', este un 
       en: "Differdange, often called the 'Iron City,' is a major industrial and cultural hub in southwestern Luxembourg. Like its neighbor Esch-sur-Alzette, Differdange's identity is forged in the iron and steel industry. The city played a crucial role in the country's industrial development, and its landscape is still marked by the presence of the ArcelorMittal steel plant, which remains one of the largest employers in the region. Despite its industrial roots, Differdange has successfully diversified its economy and cultural offerings. The city is home to the Luxembourg Science Center, an interactive museum that makes science and technology accessible and fun for all ages. The 16th-century Differdange Castle, which now serves as a campus for Miami University, adds a touch of historical elegance to the city. Differdange is also a city of nature, surrounded by lush forests and hills that offer numerous opportunities for outdoor recreation. The 'Fond-de-Gras' industrial and railway park, located nearby, provides a fascinating journey back in time, with vintage trains and a preserved mining village. Differdange's commitment to innovation and its rich social fabric make it a vibrant and welcoming city that honors its past while looking toward a sustainable future."
     },
     descriptionAdvanced: {
       de: "Differdingen ist eine dynamische Industriestadt im Südwesten Luxemburgs, die ebenfalls tief von der Eisen- und Stahlproduktion geprägt wurde. Hier befindet sich das Luxembourg Science Center, das mit interaktiven Experimenten besonders junge Menschen für Naturwissenschaften begeistert. Die Stadt verbindet stolz ihr industrielles Erbe mit zukunftsorientierten Projekten wie nachhaltigen Wohnquartieren und Bildungszentren. Das Zisterzienserinnenkloster in der Stadtmitte bildet einen faszinierenden Kontrast zur industriellen Umgebung. Perfekt für das Fach Sachkunde K5 und Physik K6 zur Einführung in die Technik.",
       hu: "",
       ro: "Differdange este un oraș industrial dinamic din sud-vestul Luxemburgului, care a fost, de asemenea, profund influențat de producția de fier și oțel. Aici se află Centrul de Știință din Luxemburg, care folosește experimente interactive pentru a-i face pe tineri să fie entuziasmați în special de știință. Orașul îmbină cu mândrie moștenirea industrială cu proiecte orientate spre viitor, cum ar fi zone rezidențiale durabile și centre educaționale. Mănăstirea cisterciană din centrul orașului formează un contrast fascinant cu împrejurimile industriale. Perfect pentru subiectele K5 și fizică K6 pentru o introducere în tehnologie.",
-      en: "Differdange is an industrious and rapidly evolving city located in the southwest Minett region of Luxembourg. Rooted deeply in the country's steelmaking history, it is home to one of the most important steel plants in the world, which continues to produce massive steel beams used in global architecture, including the Freedom Tower in New York. Beyond its industrial core, Differdange boasts beautiful natural surroundings, historical sites like the 12th-century Differdange Castle, and the modern Luxembourg Science Center, which makes learning about technology engaging for all ages."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -724,12 +670,7 @@ export const luxembourgCities = [
         "Castelul Differdange găzduiește acum Centrul European Dolibois al Universității din Miami.",
         "Orașul se află în inima regiunii „Minett”, numită după minereul de fier de acolo."
       ],
-      en: [
-        "Differdange's steel plant produced the beams used in the New York Freedom Tower.",
-        "The city is home to the interactive Luxembourg Science Center.",
-        "Differdange Castle, dating back to the 12th century, now houses an international university.",
-        "It is located in the Minett region, historically known as the 'Land of the Red Earth'."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -756,7 +697,7 @@ export const luxembourgCities = [
         "Cunoscut sub numele de 'Orașul Fierului' din Luxemburg",
         "Sediul Luxembourg Science Center",
         "Castelul Differdange găzduiește Universitatea Miami",
-        "Locație importantă a ArcelorMittal",
+        "Locație 
         "Proximitatea de parcul industrial Fond-de-Gras",
         "Al treilea oraș ca mărime din Marele Ducat",
         "Tradiție puternică în minerit și siderurgie",
@@ -777,7 +718,7 @@ export const luxembourgCities = [
   }
 ];
 
-export const luxembourgCulture = [
+const luxembourgCulture = [
   {
     id: "cult-bock",
     type: "historical",
@@ -792,14 +733,14 @@ export const luxembourgCulture = [
     description: {
       de: "Der Bock-Felsen und seine unterirdischen Kasematten sind die ikonischsten Symbole der gewaltigen militärischen Vergangenheit von Luxemburg-Stadt. Dieser massive Felsvorsprung, der steil über der Alzette aufragt, war der Ort, an dem Graf Siegfried 963 seine Burg 'Lucilinburhuc' errichtete und damit den Grundstein für die Stadt und die Nation legte. Im Laufe der Jahrhunderte wurde der Bock in eine der mächtigsten Festungen Europas verwandelt, was der Stadt den Beinamen 'Gibraltar des Nordens' einbrachte. Die Kasematten sind ein riesiges Netzwerk aus unterirdischen Tunneln und Galerien, die direkt in den Fels gehauen wurden. Der Bau begann 1644 unter spanischer Herrschaft und wurde später von den Franzosen und Österreichern erweitert. Auf ihrem Höhepunkt erstreckten sich die Kasematten über 23 Kilometer und erreichten Tiefen von bis zu 40 Metern. Sie boten Schutz für Tausende von Soldaten und ihre Pferde sowie Werkstätten, Küchen und Bäckereien. Während der Weltkriege dienten die Kasematten der Stadtbevölkerung als Luftschutzbunker. Heute gehören die Bock-Kasematten zum UNESCO-Weltkulturerbe und sind eine der beliebtesten Touristenattraktionen Luxemburgs. Besucher können einen Teil der Tunnel erkunden, die technische Genialität der Vergangenheit bewundern und durch die 'Embrasuren' (Kanonenöffnungen) im Fels spektakuläre Ausblicke auf den Stadtteil Grund und das Alzette-Tal genießen. Der Bock-Felsen bleibt eine eindrucksvolle Erinnerung an die strategische Bedeutung der Stadt und ihre Widerstandsfähigkeit durch Jahrhunderte voller Konflikte.",
       hu: "A Bock-szikla és a föld alatti kazamaták Luxemburg város félelmetes katonai múltjának legikonikusabb szimbólumai. Ez a hatalmas sziklás kiszögellés, amely meredeken magasodik az Alzette folyó fölé, az a hely, ahol Siegfried gróf 963-ban felépítette 'Lucilinburhuc' várát, lefektetve a város és a nemzet alapjait. Az évszázadok során a Bockot Európa egyik legerősebb erődjévé alakították át, amivel a város kiérdemelte az 'Észak Gibraltárja' becenevet. A kazamaták a sziklába vájt föld alatti alagutak és galériák hatalmas hálózatai. Az építkezés 1644-ben kezdődött spanyol fennhatóság alatt, majd később a franciák és az osztrákok bővítették. Fénykorukban a kazamaták 23 kilométer hosszan nyúltak el, és akár 40 méteres mélységet is elértek. Több ezer katonának és lovaiknak nyújtottak menedéket, emellett műhelyek, konyhák és pékségek is működtek bennük. A világháborúk idején a kazamaták óvóhelyként szolgáltak a város lakossága számára. Ma a Bock-kazamaták az UNESCO Világörökség részét képezik, és Luxemburg egyik legnépszerűbb turisztikai látványosságai. A látogatók felfedezhetik az alagutak egy szakaszát, megcsodálhatják a múlt mérnöki zsenialitását, és a sziklába vágott lőréseken keresztül látványos kilátást élvezhetnek a Grund negyedre és az Alzette-völgyre. A Bock-szikla továbbra is erőteljes emlékeztető a város stratégiai jelentőségére és az évszázados konfliktusok során tanúsított ellenálló képességére.",
-      ro: "Stânca Bock și casematele sale subterane sunt cele mai emblematice simboluri ale trecutului militar formidabil al orașului Luxemburg. Acest promontoriu stâncos masiv, care se ridică abrupt deasupra râului Alzette, a fost locul unde contele Siegfried și-a construit castelul 'Lucilinburhuc' în 963, punând bazele orașului și ale națiunii. De-a lungul secolelor, Bock a fost transformat într-una dintre cele mai puternice cetăți din Europa, aducând orașului porecla de 'Gibraltarul Nordului'. Casematele sunt o rețea vastă de tuneluri și galerii subterane săpate direct în stâncă. Construcția a început în 1644 sub stăpânire spaniolă și a fost extinsă ulterior de francezi și austrieci. La apogeul lor, casematele se întindeau pe 23 de kilometri și atingeau adâncimi de până la 40 de metri. Acestea ofereau adăpost pentru mii de soldați și caii lor, precum și ateliere, bucătării și brutării. În timpul războaielor mondiale, casematele au servit ca adăposturi antiaeriene pentru populația orașului. Astăzi, Casematele Bock sunt incluse în Patrimoniul Mondial UNESCO și reprezintă una dintre cele mai populare atracții turistice din Luxemburg. Vizitatorii pot explora o secțiune a tunelurilor, admirând ingeniozitatea inginerească a trecutului și bucurându-se de vederi spectaculoase asupra cartierului Grund și a văii Alzette prin 'embrasurele' (deschiderile pentru tunuri) din stâncă. Stânca Bock rămâne o amintire puternică a importanței strategice a orașului și a rezilienței sale de-a lungul secolelor de conflict.",
-      en: "The Bock Rock and its underground casemates are the most iconic symbols of Luxembourg City's formidable military past. This massive rocky promontory, which rises steeply above the Alzette River, was the site where Count Siegfried built his 'Lucilinburhuc' castle in 963, laying the foundation for the city and the nation. Over the centuries, the Bock was transformed into one of the most powerful fortresses in Europe, earning the city the nickname 'Gibraltar of the North.' The casemates are a vast network of underground tunnels and galleries carved directly into the rock. Construction began in 1644 under Spanish rule and was later expanded by the French and Austrians. At their peak, the casemates spanned 23 kilometers and reached depths of up to 40 meters. They provided shelter for thousands of soldiers and their horses, as well as workshops, kitchens, and bakeries. During the world wars, the casemates served as air-raid shelters for the city's population. Today, the Bock Casemates are a UNESCO World Heritage site and one of Luxembourg's most popular tourist attractions. Visitors can explore a section of the tunnels, marveling at the engineering ingenuity of the past and enjoying spectacular views of the Grund district and the Alzette valley through the 'embrasures' (cannon openings) in the rock. The Bock Rock remains a powerful reminder of the city's strategic importance and its resilience through centuries of conflict."
+      ro: "Stânca Bock și casematele sale subterane sunt cele mai emblematice simboluri ale trecutului militar formidabil al orașului Luxemburg. Acest promontoriu stâncos masiv, care se ridică abrupt deasupra râului Alzette, a fost locul unde contele Siegfried și-a construit castelul 'Lucilinburhuc' în 963, punând bazele orașului și ale națiunii. De-a lungul secolelor, Bock a fost transformat într-una dintre cele mai puternice cetăți din Europa, aducând orașului porecla de 'Gibraltarul Nordului'. Casematele sunt o rețea vastă de tuneluri și galerii subterane săpate direct în stâncă. Construcția a început în 1644 sub stăpânire spaniolă și a fost extinsă ulterior de francezi și austrieci. La apogeul lor, casematele se întindeau pe 23 de kilometri și atingeau adâncimi de până la 40 de metri. Acestea ofereau adăpost pentru mii de soldați și caii lor, precum și ateliere, bucătării și brutării. În timpul războaielor mondiale, casematele au servit ca adăposturi antiaeriene pentru populația orașului. Astăzi, Casematele Bock sunt incluse în Patrimoniul Mondial UNESCO și reprezintă una dintre cele mai populare atracții turistice din Luxemburg. Vizitatorii pot explora o secțiune a tunelurilor, admirând ingeniozitatea inginerească a trecutului și bucurându-se de vederi spectaculoase asupra cartierului Grund și a văii Alzette prin 'embrasurele' (deschiderile pentru tunuri) din stâncă. Stânca Bock rămâne o amintire puternică a 
+      en: "The Bock Rock and its underground casemates are the most iconic symbols of Luxembourg City's formidable military past. This massive rocky promontory, which rises steeply above the Alzette River, was the site where Count Siegfried built his 'Lucilinburhuc' castle in 963, laying the foundation for the city and the nation. Over the centuries, the Bock was transformed into one of the most powerful fortresses in Europe, earning the city the nickname 'Gibraltar of the North.' The casemates are a vast network of underground tunnels and galleries carved directly into the rock. Construction began in 1644 under Spanish rule and was later expanded by the French and Austrians. At their peak, the casemates spanned 23 kilometers and reached depths of up to 40 meters. They provided shelter for thousands of soldiers and their horses, as well as workshops, kitchens, and bakeries. During the world wars, the casemates served as air-raid shelters for the city's population. Today, the Bock Casemates are a UNESCO World Heritage site and one of Luxembourg's most popular tourist attractions. Visitors can explore a section of the tunnels, marveling at the engineering ingenuity of the past and enjoying spectacular views of the Grund district and the Alzette valley through the 'embrasures' (cannon openings) in the rock. The Bock Rock remains a powerful reminder of the city's strategic 
     },
     descriptionAdvanced: {
       de: "Der Bockfelsen gilt als die Wiege der Stadt Luxemburg; hier errichtete Graf Siegfried im Jahr 963 seine erste Festung. Im Laufe der Jahrhunderte bauten verschiedene Fremdmächte diese Burg zu einer gigantischen Festungsanlage aus, deren berühmtester Teil die Kasematten sind. Diese unterirdischen Verteidigungsgänge wurden tief in den massiven Fels gehauen und boten Platz für Tausende von Soldaten, Pferde und Kanonen. Heute sind die Bock-Kasematten eine der größten touristischen Attraktionen des Landes. Die strategische Festungsbauweise wird in Geschichte K7 unterrichtet.",
       hu: "",
       ro: "Bockfelsen este considerat leagănul orașului Luxemburg; Contele Siegfried și-a construit prima cetate aici în 963. De-a lungul secolelor, diferite puteri străine au extins acest castel într-o fortăreață gigantică, cea mai faimoasă parte din care sunt cazematele. Aceste pasaje subterane de apărare au fost săpate adânc în stânca solidă și puteau găzdui mii de soldați, cai și tunuri. Astăzi cazematele Bock sunt una dintre cele mai mari atracții turistice ale țării. Construcția strategică a fortărețelor este predată în Istorie K7.",
-      en: "The Bock Promontory and its intricate network of casemates represent the historical cradle of Luxembourg City. In 963, Count Siegfried built his first fortification, the 'Lucilinburhuc', on this sheer rocky cliff, laying the foundation for the city and the nation. Over the centuries, military engineers from various empires expanded the defenses, carving a vast, multi-level labyrinth of tunnels and galleries directly into the rock. These casemates once housed thousands of soldiers, bakeries, and slaughterhouses, turning the city into the legendary 'Gibraltar of the North' and providing an awe-inspiring glimpse into military history."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -815,12 +756,7 @@ export const luxembourgCulture = [
         "În 1994 cazematele Bock au fost declarate Patrimoniu Mondial UNESCO.",
         "Tunelurile se extind uneori până la 40 de metri adâncime în roca solidă."
       ],
-      en: [
-        "The original fortification 'Lucilinburhuc' was established here in the year 963.",
-        "The casemates consist of a vast network of underground tunnels carved into solid rock.",
-        "At their peak, the tunnels stretched over 23 kilometers in total length.",
-        "The site is a core component of Luxembourg's UNESCO World Heritage designation."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -886,8 +822,8 @@ export const luxembourgCulture = [
     descriptionAdvanced: {
       de: "Die Echternacher Basilika St. Willibrord ist das wichtigste religiöse Bauwerk Luxemburgs und das Zentrum der historischen Abtei Echternach. Die ursprüngliche Kirche wurde um 700 n. Chr. vom heiligen Willibrord gegründet, dessen Gebeine bis heute in der Krypta der Basilika ruhen. Die heutige romanische Struktur ist das Ergebnis mehrerer Umbauten und Wiederaufbauten, insbesondere nach den schweren Zerstörungen im Zweiten Weltkrieg. Sie ist der Ausgangspunkt der weltberühmten Echternacher Springprozession. Architekturbetrachtungen dieses Bauwerks finden sich in Geschichte K6.",
       hu: "",
-      ro: "Bazilica Echternach Sf. Willibrord este cea mai importantă clădire religioasă din Luxemburg și centrul istoricului Abație Echternach. Biserica inițială a fost fondată în jurul anului 700 d.Hr. de Sfântul Willibrord, ale cărui oase încă se află astăzi în cripta bazilicii. Structura romanică de astăzi este rezultatul mai multor renovări și reconstrucții, mai ales după distrugerea severă din cel de-al Doilea Război Mondial. Este punctul de plecare al procesiunii de sărituri de renume mondial Echternach. Considerațiile arhitecturale ale acestei clădiri pot fi găsite în Istoria K6.",
-      en: "The Basilica of St. Willibrord in Echternach is the religious epicenter of Luxembourg and an outstanding monument of Romanesque architecture. Originally founded by the Anglo-Saxon missionary Willibrord in the 8th century, the site has experienced centuries of profound religious influence, destruction, and faithful reconstruction. The current basilica, beautifully restored after heavy damage in World War II, features a majestic, serene interior and a historic Merovingian crypt where the saint's tomb rests. It is also the focal point for the annual Dancing Procession, drawing pilgrims and visitors from across Europe."
+      ro: "Bazilica Echternach Sf. Willibrord este cea mai 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -903,17 +839,12 @@ export const luxembourgCulture = [
         "Biserica a primit în 1939 de la Papa Pius al XII-lea. titlul unei bazilici minore papale.",
         "Procesiunea anuală de sărituri în cinstea sfântului este un sit al patrimoniului cultural UNESCO."
       ],
-      en: [
-        "The basilica houses the tomb of St. Willibrord in an 8th-century crypt.",
-        "The building is a prime example of Romanesque ecclesiastical architecture.",
-        "It was almost entirely destroyed in 1944 and meticulously rebuilt.",
-        "The site is the destination for the UNESCO-recognized Dancing Procession."
-      ]
+      en: []
     },
     facts: {
       de: ["Člteste Stadt des Landes", "Starke Klostertradition", "Wichtiger Pilgerort"],
       hu: ["Az ország legrégebbi városa", "Erős kolostori hagyomány", "Fontos zarándokhely"],
-      ro: ["Cel mai vechi oraș al țării", "Tradiție monastică puternică", "Loc important de pelerinaj"],
+      ro: ["Cel mai vechi oraș al țării", "Tradiție monastică puternică", "Loc 
       en: ["Oldest town in the country", "Strong monastic tradition", "Important pilgrimage site"]
     },
     image: "/geo-images/luxembourg/cult-echternach.webp"
@@ -938,8 +869,8 @@ export const luxembourgCulture = [
     descriptionAdvanced: {
       de: "Das Dorf Schengen, malerisch an den Hängen der Mosel gelegen, ist weit mehr als nur ein landwirtschaftliches Zentrum; es ist das Symbol für das vereinte Europa ohne Grenzen. Im Europäischen Museum erfahren Besucher alles über die Entstehung des Schengener Abkommens und die Entwicklung der offenen Binnengrenzen. Monumente wie die Schengener Säulen und die Plaketten am Moselufer unterstreichen die geopolitische Bedeutung dieses kleinen Ortes. Schengen zeigt anschaulich, wie aus einem historischen Dokument gelebter europäischer Alltag wurde. Diese Thematik ist Kernstoff für Politik K8.",
       hu: "",
-      ro: "Satul Schengen, situat pitoresc pe versanții Mosellei, este mult mai mult decât un simplu centru agricol; este simbolul unei Europe unite fără frontiere. În Muzeul European, vizitatorii învață totul despre crearea Acordului Schengen și dezvoltarea granițelor interne deschise. Monumente precum Coloanele Schengen și plăcile de pe malurile Mosellei subliniază importanța geopolitică a acestui mic loc. Schengen arată în mod clar cum un document istoric a devenit parte a vieții europene de zi cu zi. Acest subiect este material de bază pentru politică K8.",
-      en: "The Schengen Monument is a powerful symbol of a united, borderless Europe, located in the peaceful riverside village of Schengen. Situated along the Moselle River, this site marks the exact location where representatives from five European nations signed the Schengen Agreement in 1985. The monument area features three imposing steel columns representing the original signatories, pieces of the Berlin Wall, and flags of the participating countries. Visiting this site provides a tangible connection to one of the most significant geopolitical achievements of modern times, highlighting the importance of cooperation and freedom of movement."
+      ro: "Satul Schengen, situat pitoresc pe versanții Mosellei, este mult mai mult decât un simplu centru agricol; este simbolul unei Europe unite fără frontiere. În Muzeul European, vizitatorii învață totul despre crearea Acordului Schengen și dezvoltarea granițelor interne deschise. Monumente precum Coloanele Schengen și plăcile de pe malurile Mosellei subliniază 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -955,12 +886,7 @@ export const luxembourgCulture = [
         "O secțiune din Zidul Berlinului original a fost ridicată în centrul satului ca un memorial.",
         "Schengen găzduiește și Castelul Schengen, un vechi castel cu șanț din secolul al XIV-lea."
       ],
-      en: [
-        "The monument commemorates the signing of the Schengen Agreement in 1985.",
-        "It is situated on the banks of the Moselle River near the European tripoint.",
-        "The site includes three steel pillars and fragments of the Berlin Wall.",
-        "The agreement signed here eliminated internal border checks for millions of Europeans."
-      ]
+      en: []
     },
     facts: {
       de: ["Schengener Abkommen 1985", "An der Mosel", "Symbol für offene Grenzen"],
@@ -972,7 +898,7 @@ export const luxembourgCulture = [
   }
 ];
 
-export const luxembourgNature = [
+const luxembourgNature = [
   {
     id: "nat-ardennek-lu",
     type: "landmark",
@@ -994,7 +920,7 @@ export const luxembourgNature = [
       de: "Die Luxemburger Ardennen, lokal auch Éislek genannt, bilden den nördlichen Teil des Landes und zeichnen sich durch raue Natur, dichte Wälder und tief eingeschnittene Täler aus. Diese Region ist ein Paradies für Naturliebhaber, Wanderer und Radfahrer und beherbergt zahlreiche mittelalterliche Burgen wie Bourscheid und Vianden. Geologisch gehört das Gebiet zum Rheinischen Schiefergebirge. Im Winter sind die Ardennen die einzige Region Luxemburgs, die regelmäßig Schnee verzeichnet. Dies ist ein hervorragendes Gebiet für den Geografieunterricht K7 über Mittelgebirge.",
       hu: "",
       ro: "Ardenele luxemburgheze, cunoscute și sub numele de Éislek, formează partea de nord a țării și sunt caracterizate de natură accidentată, păduri dese și văi adânci. Această regiune este un paradis pentru iubitorii de natură, drumeții și bicicliști și găzduiește numeroase castele medievale precum Bourscheid și Vianden. Din punct de vedere geologic, zona aparține Munților Ardeziei renani. Iarna, Ardenele sunt singura regiune din Luxemburg care înregistrează în mod regulat zăpadă. Aceasta este o zonă excelentă pentru lecțiile de geografie K7 despre lanțurile muntoase joase.",
-      en: "The Luxembourg Ardennes, known locally as the Oesling, is a breathtaking region in the north of the country characterized by rolling, forested hills, deep river valleys, and sweeping panoramic views. This rugged terrain is a paradise for hikers, cyclists, and nature enthusiasts seeking tranquility and pristine environments. Historically, the Ardennes served as a formidable natural barrier and the site of significant conflicts, most notably the Battle of the Bulge during World War II. Today, its dense woodlands and winding rivers, like the Sûre and Our, host an incredible biodiversity and several majestic medieval castles."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1007,15 +933,10 @@ export const luxembourgNature = [
       ro: [
         "Cel mai înalt punct din Luxemburg, Kneiff (560 de metri), se află aici.",
         "Éislek ocupă aproximativ o treime din suprafața totală a Luxemburgului.",
-        "Parcul Natural Upper Sûre din Ardenne protejează cel mai important rezervor de apă potabilă din țară.",
+        "Parcul Natural Upper Sûre din Ardenne protejează cel mai 
         "Regiunea a fost scena acerbei Bătălii de la Bulge din iarna anului 1944/1945."
       ],
-      en: [
-        "The Oesling region covers roughly the northern third of Luxembourg.",
-        "It features the highest elevations in the country, reaching up to 560 meters.",
-        "The region was the site of the fierce Battle of the Bulge in the winter of 1944-1945.",
-        "It is characterized by dense forests, deep valleys, and meandering rivers."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1082,7 +1003,7 @@ export const luxembourgNature = [
       de: "Das Moseltal bildet die natürliche Grenze zwischen Luxemburg und Deutschland und ist eine der schönsten Kulturlandschaften der Region. Die steilen, sonnenverwöhnten Hänge entlang des Flusses sind die Heimat der luxemburgischen Weinproduktion, die für ihre exzellenten Weißweine und Crémants international ausgezeichnet ist. Entlang der Luxemburger Weinstraße laden zahlreiche Winzerdörfer wie Remich und Grevenmacher zur Verkostung ein. Die friedliche Flusslandschaft bietet zudem hervorragende Bedingungen für Wassersport und Radtourismus. Wirtschaft und Agrarökologie der Mosel sind Themen für Geografie K8.",
       hu: "",
       ro: "Valea Mosellei formează granița naturală dintre Luxemburg și Germania și este unul dintre cele mai frumoase peisaje culturale din regiune. Pantele abrupte și însorite de-a lungul râului găzduiesc producția de vin din Luxemburg, care a câștigat premii internaționale pentru excelentele sale vinuri albe și crémants. De-a lungul Rutei Vinului din Luxemburg, numeroase sate producătoare de vin, cum ar fi Remich și Grevenmacher, vă invită să degustați. Peisajul liniștit al râului oferă, de asemenea, condiții excelente pentru sporturile nautice și turismul cu bicicleta. Economia și agroecologia din Moselle sunt subiecte pentru geografie K8.",
-      en: "The Moselle Valley is Luxembourg's premier wine-growing region, stretching along the eastern border with Germany. Here, the gently sloping hills are covered with meticulously terraced vineyards that benefit from a uniquely mild microclimate, perfect for cultivating world-class grapes. The region is especially renowned for its crisp Rieslings, elegant Pinot Blancs, and the highly celebrated Crémant de Luxembourg, a premium sparkling wine. The picturesque villages dotting the riverbanks offer charming wine cellars, delightful gastronomy, and relaxing boat cruises, making the Moselle Valley a perfect blend of agricultural tradition and leisurely tourism."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1098,12 +1019,7 @@ export const luxembourgNature = [
         "„Crémant de Luxembourg” câștigă în mod regulat premii internaționale de calitate.",
         "Moselle este singura cale navigabilă din Luxemburg cu o legătură directă cu Rinul."
       ],
-      en: [
-        "The valley runs for 39 kilometers along the border between Luxembourg and Germany.",
-        "It is the sole wine-producing region in the Grand Duchy of Luxembourg.",
-        "The region is famous for producing the sparkling wine known as Crémant de Luxembourg.",
-        "The area benefits from a distinct microclimate ideal for white grape varieties."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1154,7 +1070,7 @@ export const luxembourgNature = [
     id: "city-bourscheid",
     type: "city",
     parent: "LU",
-    coords: [6.0972, 49.9057] as [number, number],
+    coords: [6.0972, 49.9057],
     name: {
       de: "Bourscheid",
       hu: "Bourscheid",
@@ -1171,7 +1087,7 @@ export const luxembourgNature = [
       de: "Bourscheid ist eine charmante Gemeinde in den Luxemburger Ardennen, die vor allem für ihre monumentale Burgruine bekannt ist. Die Burg Bourscheid, die auf einem von der Sauer umflossenen Felssporn ruht, ist die größte mittelalterliche Festungsanlage Luxemburgs. Das Dorf selbst bietet traditionelle luxemburgische Architektur und dient als idealer Ausgangspunkt für spektakuläre Wanderungen durch das Sauertal. Besonders die Aussichtspunkte rund um den Ort ziehen zahlreiche Landschaftsfotografen an. Der mittelalterliche Festungsbau wird oft im Fach Geschichte K6 thematisiert.",
       hu: "",
       ro: "Bourscheid este un oraș fermecător din Ardenele Luxemburgului, cel mai cunoscut pentru ruinele sale monumentale ale castelului. Castelul Bourscheid, care se sprijină pe un pinten stâncos înconjurat de Sauer, este cea mai mare fortăreață medievală din Luxemburg. Satul în sine oferă arhitectură tradițională luxemburgheză și servește drept punct de plecare ideal pentru drumeții spectaculoase prin Valea Sûre. Punctele de belvedere din jurul orașului atrag în special numeroși fotografi de peisaj. Construcția cetății medievale este adesea discutată în Istoria K6.",
-      en: "Bourscheid is a small, scenic village situated high above the winding Sûre River in the Luxembourg Ardennes. It is most famous for the breathtaking ruins of Bourscheid Castle, which majestically dominate the landscape from a rocky spur 150 meters above the river. The village itself offers traditional rural charm and serves as an excellent starting point for exploring the dense forests and steep trails of the Oesling region. The panoramic views from Bourscheid, combining the meandering river, lush woodlands, and ancient stone walls, are among the most spectacular in the entire country."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1187,12 +1103,7 @@ export const luxembourgNature = [
         "Noaptea întreg complexul castelului este impresionant iluminat.",
         "În cartierul Michelau există o binecunoscută plajă fluvială naturală."
       ],
-      en: [
-        "Bourscheid is home to one of Luxembourg's largest and most impressive castle ruins.",
-        "The castle sits on a steep promontory 150 meters above the Sûre River.",
-        "The original stone fortifications of the castle date back to the year 1000.",
-        "The village is a popular hub for hiking and nature tourism in the Ardennes."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1215,7 +1126,7 @@ export const luxembourgNature = [
         "Găzduiește cel mai mare castel din Luxemburg",
         "Locație spectaculoasă la 150 de metri deasupra râului Sauer",
         "Puncte de belvedere cu panoramă de 360 de grade",
-        "Oprire importantă în Ardenele luxemburgheze",
+        "Oprire 
         "Castelul datează inițial din secolul al X-lea",
         "Destinație populară pentru fotografia de noapte (castel iluminat)"
       ],
@@ -1234,7 +1145,7 @@ export const luxembourgNature = [
     id: "city-berdorf",
     type: "city",
     parent: "LU",
-    coords: [6.3480, 49.8180] as [number, number],
+    coords: [6.3480, 49.8180],
     name: {
       de: "Berdorf",
       hu: "Berdorf",
@@ -1251,7 +1162,7 @@ export const luxembourgNature = [
       de: "Berdorf ist ein malerisches Dorf auf einem Hochplateau im Herzen des Müllerthals und das unbestrittene Zentrum für Klettersportler in Luxemburg. Die Region rund um Berdorf ist berühmt für ihre spektakulären, hoch aufragenden Sandsteinfelsformationen, tiefe Schluchten und unzählige Höhlen. Das Dorf ist ein beliebter Ausgangspunkt für Etappen auf dem Mullerthal Trail. Neben der beeindruckenden Natur ist Berdorf auch landesweit für seinen handwerklich hergestellten Käse, den 'Berdorfer', bekannt. Gesteinskunde und Erosion sind typische Themen der Geografie K8.",
       hu: "",
       ro: "Berdorf este un sat pitoresc pe un platou înalt din inima Müllerthal și centrul incontestabil pentru sportivii de alpinism din Luxemburg. Regiunea din jurul Berdorf este renumită pentru formațiunile sale spectaculoase, falnice de roci de gresie, cheile adânci și nenumăratele peșteri. Satul este un punct de plecare popular pentru etapele de pe traseul Mullerthal. Pe lângă natura impresionantă, Berdorf este cunoscut și la nivel național pentru brânza artizanală, „Berdorfer”. Știința rocilor și eroziunea sunt subiecte tipice în geografie K8.",
-      en: "Berdorf is a charming village located on a high plateau right in the heart of the Mullerthal region, widely known as Luxembourg's 'Little Switzerland'. It is arguably the most famous climbing and hiking center in the country, surrounded by spectacular sandstone formations, deep crevices, and lush forests. The area is intersected by the renowned Mullerthal Trail, leading adventurers through geological wonders like the Hohllay cave and the Predigtstuhl rock. Besides its natural attractions, Berdorf is also known for its local agricultural products, particularly its distinct regional cheese."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1267,12 +1178,7 @@ export const luxembourgNature = [
         "Hohllay (Hohle Fels) de lângă Berdorf a servit ca o carieră pentru pietre de moară.",
         "Amfiteatrul Breechkaul este o formațiune de stâncă naturală folosită pentru concerte."
       ],
-      en: [
-        "Berdorf is situated on a plateau at an altitude of approximately 375 meters.",
-        "It is the main center for outdoor rock climbing in Luxembourg.",
-        "The village is surrounded by impressive sandstone formations like the Predigtstuhl.",
-        "Local dairy farms produce the well-known Berdorf regional cheese."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1314,7 +1220,7 @@ export const luxembourgNature = [
     id: "city-beaufort",
     type: "city",
     parent: "LU",
-    coords: [6.2847, 49.8360] as [number, number],
+    coords: [6.2847, 49.8360],
     name: {
       de: "Befort",
       hu: "Beaufort",
@@ -1331,7 +1237,7 @@ export const luxembourgNature = [
       de: "Befort, auch Beaufort genannt, ist eine historische Ortschaft am Rand der 'Kleinen Luxemburger Schweiz'. Berühmt ist das Dorf für seine zwei nebeneinanderliegenden Schlösser: Die romantische Ruine einer mittelalterlichen Burg und ein Renaissance-Schloss aus dem 17. Jahrhundert. In den Kellern des Schlosses wird bis heute der traditionelle Cassero-Likör aus schwarzen Johannisbeeren hergestellt. Die Wälder um Beaufort mit ihren wilden Bächen laden zu ausgedehnten Erkundungstouren ein. Ein klassisches Beispiel für den Übergang vom Mittelalter zur Renaissance für Geschichte K7.",
       hu: "",
       ro: "Befort, numit și Beaufort, este un oraș istoric la marginea",
-      en: "Beaufort is a historic town nestled in the eastern part of Luxembourg, renowned for its impressive dual castle complex and surrounding natural beauty. The site features the evocative ruins of an 11th-century medieval fortress, complete with a moat and torture chamber, standing right next to a well-preserved 17th-century Renaissance chateau. The town is deeply connected to the surrounding Mullerthal forests, offering enchanting trails that lead along babbling brooks and moss-covered rocks. Beaufort is also famous for its production of Cassero, a traditional blackcurrant liqueur made in the castle's cellars."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1345,14 +1251,9 @@ export const luxembourgNature = [
         "Castelul medieval Beaufort a fost în mare parte distrus în războiul de treizeci de ani.",
         "Noul castel renascentist a fost construit în 1649 de Jean de Beck.",
         "Lichiorul „Cassero de Beaufort” este produs direct în castel, fără aditivi artificiali.",
-        "Rezervațiile naturale din jur sunt habitate importante pentru speciile rare de păsări."
+        "Rezervațiile naturale din jur sunt habitate 
       ],
-      en: [
-        "The town features two distinct castles: a medieval ruin and a Renaissance chateau.",
-        "The medieval castle was originally built in the 11th century.",
-        "The castle cellars produce a traditional blackcurrant liqueur called Cassero.",
-        "Beaufort is a key gateway to the hiking trails of the Mullerthal region."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1377,7 +1278,7 @@ export const luxembourgNature = [
         "Situat într-o vale pitorească din Mullerthal",
         "Castelul medieval datează din anul 1150",
         "Degustări regulate și tururi ghidate în complexul castelului",
-        "Nod important pentru traseele de drumeție din regiune"
+        "Nod 
       ],
       en: [
         "Features a medieval castle ruin and a Renaissance palace",
@@ -1394,7 +1295,7 @@ export const luxembourgNature = [
     id: "city-clervaux",
     type: "city",
     parent: "lu-country",
-    coords: [6.0328, 50.0540] as [number, number],
+    coords: [6.0328, 50.0540],
     name: {
       de: "Clerf",
       hu: "Clervaux",
@@ -1411,7 +1312,7 @@ export const luxembourgNature = [
       de: "Clerf, malerisch im Tal der Clerve in den Ardennen gelegen, ist eine Stadt mit tiefer kultureller und historischer Bedeutung. Über dem Zentrum thront das blendend weiße Schloss Clervaux, das heute die weltberühmte Fotoausstellung 'The Family of Man' beherbergt, die von Edward Steichen kuratiert wurde. Die Stadt ist zudem geprägt von der Abtei St. Mauritius und St. Maurus, deren markanter Turm das Stadtbild bestimmt. Während der Ardennenoffensive erlitt Clerf schwere Zerstörungen, die heute in einem lokalen Museum dokumentiert sind. Ideal für den Kunst- und Geschichtsunterricht K8.",
       hu: "",
       ro: "Clervaux, situat pitoresc în Valea Clerve din Ardeni, este un oraș cu o profundă semnificație culturală și istorică. Se ridică deasupra centrului castelului alb orbitor Clervaux, care acum găzduiește expoziția de fotografie de renume mondial „Familia omului”, curatoriată de Edward Steichen. Orașul este caracterizat și de Abația St. Mauritius și St. Maurus, al cărui turn izbitor definește peisajul urban. În timpul bătăliei de la Bulge, Clervaux a suferit distrugeri severe, care acum este documentată într-un muzeu local. Ideal pentru lecțiile de artă și istorie K8.",
-      en: "Clervaux is a striking town in the northern Ardennes, dramatically situated in the deep, narrow valley of the Clerve River. The town is dominated by its white-washed, 12th-century castle and the prominent towers of the Abbey of St. Maurice and St. Maur, which stand high on the surrounding hills. Clervaux Castle is of particular international significance as it houses 'The Family of Man', a famous photography exhibition curated by Edward Steichen and inscribed on the UNESCO Memory of the World register. The town perfectly combines medieval architecture, deep historical resonance, and profound cultural heritage."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1427,12 +1328,7 @@ export const luxembourgNature = [
         "Un tanc american Sherman din al Doilea Război Mondial este expus în curtea castelului.",
         "Biserica parohială neoromanică a orașului a fost construită între 1910 și 1912."
       ],
-      en: [
-        "The town's 12th-century castle houses 'The Family of Man' photography exhibition.",
-        "This exhibition by Edward Steichen is a UNESCO Memory of the World.",
-        "The Abbey of St. Maurice and St. Maur towers over the town from a high ridge.",
-        "Clervaux saw heavy fighting during the World War II Battle of the Bulge."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1461,7 +1357,7 @@ export const luxembourgNature = [
         "Abația Benedictină Sfântul Maurice și Sfântul Maur",
         "Muzeul Ofensivei din Ardeni în incinta castelului",
         "Situat în valea pitorească a râului Clerve",
-        "Nod cultural important în nordul țării",
+        "Nod cultural 
         "Muzeul machetelor castelelor luxemburgheze",
         "Centru pentru turismul de drumeție în Ardeni"
       ],
@@ -1482,7 +1378,7 @@ export const luxembourgNature = [
     id: "city-wiltz",
     type: "city",
     parent: "lu-country",
-    coords: [5.9318, 49.9680] as [number, number],
+    coords: [5.9318, 49.9680],
     name: {
       de: "Wiltz",
       hu: "Wiltz",
@@ -1499,7 +1395,7 @@ export const luxembourgNature = [
       de: "Wiltz ist eine lebendige Stadt in den Ardennen und stolz auf ihren Titel als 'Hauptstadt der Éislek'. Sie ist in eine Oberstadt rund um das historische Schloss und eine Unterstadt im Tal unterteilt. Weltweit bekannt ist Wiltz für sein Europäisches Pfadfinderzentrum und als 'Cité des Martyrs', eine Anerkennung für den Widerstand der Bevölkerung während des landesweiten Streiks 1942 gegen die deutsche Besatzung. Im Sommer zieht das Festival de Wiltz tausende Besucher zu Open-Air-Konzerten in das Amphitheater des Schlosses. Der zivile Widerstand ist ein Schlüsselthema in Geschichte K8.",
       hu: "",
       ro: "Wiltz este un oraș plin de viață din Ardeni și mândru de titlul său de „capitala Éislek”. Este împărțit într-un oraș de sus în jurul castelului istoric și un oraș inferior în vale. Wiltz este cunoscut în întreaga lume pentru Centrul European de Cercetași și ca „Cité des Martyrs”, o recunoaștere a rezistenței populației în timpul grevei naționale din 1942 împotriva ocupației germane. Vara, Festivalul de Wiltz atrage mii de vizitatori la concerte în aer liber în amfiteatrul castelului. Rezistența civilă este o temă cheie în Istoria K8.",
-      en: "Wiltz is a vibrant town in the Luxembourg Ardennes, often referred to as the 'Capital of the Ardennes'. Spread across different elevation levels, the town is divided into an upper historic center and a lower section situated in the Wiltz river valley. The majestic Wiltz Castle, with its grand renaissance architecture, hosts an acclaimed international music and theater festival every summer. Wiltz also played a poignant role in history; it was the center of a national general strike against the Nazi occupation in 1942, an event commemorated by a striking national monument in the town."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1515,12 +1411,7 @@ export const luxembourgNature = [
         "Un monument semnificativ îi onorează pe greviștii celui de-al Doilea Război Mondial.",
         "Orașul este înconjurat de păduri adânci și este un centru pentru turismul natural."
       ],
-      en: [
-        "Wiltz is traditionally known as the capital of the Luxembourg Ardennes.",
-        "The town initiated a historic general strike against Nazi occupation in August 1942.",
-        "Wiltz Castle hosts a major international outdoor music and theater festival annually.",
-        "The local brewing tradition is celebrated at the National Museum of Brewing Arts."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1562,7 +1453,7 @@ export const luxembourgNature = [
     id: "city-larochette",
     type: "city",
     parent: "lu-country",
-    coords: [6.2178, 49.7830] as [number, number],
+    coords: [6.2178, 49.7830],
     name: {
       de: "Fels",
       hu: "Larochette",
@@ -1578,8 +1469,8 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Fels, oder Larochette, liegt idyllisch in einem engen Tal, das vom Fluss Weiße Ernz tief in den Sandstein gegraben wurde. Das markanteste Wahrzeichen ist die teilweise restaurierte Burgruine, die eindrucksvoll auf einem Felsvorsprung 150 Meter über dem Zentrum der Ortschaft aufragt. Fels ist heute ein beliebter Erholungsort und ein wichtiger Knotenpunkt für Wanderwege in der Region Müllerthal. Historisch war die Stadt ein Zentrum der Textilindustrie, was sich noch in einigen alten Gebäuden erkennen lässt. Die lokale Topografie ist ein Fallbeispiel für Geografie K6.",
       hu: "",
-      ro: "Fels, sau Larochette, este situată idilic într-o vale îngustă săpată adânc în gresie de râul Weiße Ernz. Cel mai izbitor reper sunt ruinele castelului parțial restaurate, care se înalță impresionant pe un afloriment stâncos la 150 de metri deasupra centrului orașului. Astăzi, Fels este o stațiune populară și o intersecție importantă pentru traseele de drumeții din regiunea Müllerthal. Din punct de vedere istoric, orașul a fost un centru al industriei textile, care mai poate fi văzut în unele dintre clădirile vechi. Topografia locală este un studiu de caz pentru Geografia K6.",
-      en: "Larochette is a highly picturesque market town located in a narrow, rocky valley carved by the White Ernz river. The town's skyline is dominated by the dramatic ruins of Larochette Castle, which sits on a rocky outcrop directly above the traditional slate-roofed houses of the valley floor. Once a bustling center for the textile and clothing industry, Larochette has preserved its historical charm and is now a favored destination for tourists and hikers exploring the fringes of the Mullerthal region. The town's vibrant central square, the 'Bleech', reflects its diverse and welcoming community."
+      ro: "Fels, sau Larochette, este situată idilic într-o vale îngustă săpată adânc în gresie de râul Weiße Ernz. Cel mai izbitor reper sunt ruinele castelului parțial restaurate, care se înalță impresionant pe un afloriment stâncos la 150 de metri deasupra centrului orașului. Astăzi, Fels este o stațiune populară și o intersecție 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1595,12 +1486,7 @@ export const luxembourgNature = [
         "În perioada de glorie a industriei textile, în vale existau numeroase fabrici de pânze.",
         "O piață istorică cu case tradiționale formează centrul orașului."
       ],
-      en: [
-        "The town is situated in a narrow valley created by the White Ernz river.",
-        "Larochette Castle dates back to the 11th century and overlooks the town.",
-        "Historically, the town was a major center for Luxembourg's textile industry.",
-        "A significant portion of Larochette's population is of Portuguese descent."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1622,7 +1508,7 @@ export const luxembourgNature = [
       ro: [
         "Dominat de o ruină de castel pe o stâncă de 150 m",
         "Situat în valea râului Ernz Albă",
-        "Nod important al regiunii Mullerthal",
+        "Nod 
         "Piața medievală 'Place Bleue'",
         "Destinație populară pentru drumeți și excursioniști",
         "Castelul datează din secolul al XI-lea"
@@ -1642,7 +1528,7 @@ export const luxembourgNature = [
     id: "city-ettelbruck",
     type: "city",
     parent: "lu-country",
-    coords: [6.1026, 49.8470] as [number, number],
+    coords: [6.1026, 49.8470],
     name: {
       de: "Ettelbrück",
       hu: "Ettelbruck",
@@ -1652,14 +1538,14 @@ export const luxembourgNature = [
     description: {
       de: "Ettelbrück ist ein wichtiger Verkehrs- und Handelsknotenpunkt im Zentrum Luxemburgs, der oft als 'Tor zum Norden' bezeichnet wird. Die Stadt ist berühmt für ihre starke Verbindung zu General George S. Patton, dessen dritte US-Armee die Stadt während des Zweiten Weltkriegs befreite. Das General Patton Memorial Museum in Ettelbrück ist ein Muss und dokumentiert die Kriegsgeschichte der Stadt sowie das Leben des berühmten Generals. Ettelbrück ist auch ein lebendiges Zentrum für Bildung und Landwirtschaft und beherbergt die jährliche Agrarmesse, die größte ihrer Art im Land. Mit seiner zentralen Lage und reichen Geschichte dient Ettelbrück als wichtiges Bindeglied zwischen der Hauptstadt und der nördlichen Ardennenregion. Die Stadt bietet eine Mischung aus historischem Gedenken und moderner Dynamik.",
       hu: "Ettelbruck fontos közlekedési és kereskedelmi csomópont Luxemburg központjában, amelyet gyakran az 'észak kapujának' neveznek. A város híres George S. Patton tábornokhoz fűződő szoros kapcsolatáról, akinek harmadik amerikai hadserege felszabadította a várost a második világháború alatt. Az ettelbrucki General Patton Memorial Museum kihagyhatatlan látnivaló, amely dokumentálja a város háborús történelmét és a híres tábornok életét. Ettelbruck az oktatás és a mezőgazdaság vibráló központja is, itt rendezik meg az évente esedékes Mezőgazdasági Vásárt, amely az ország legnagyobb ilyen jellegű eseménye. Központi elhelyezkedésével és gazdag történelmével Ettelbruck létfontosságú kapocs a főváros és az északi Ardennek régió között. A város a történelmi emlékezet és a modern dinamizmus ötvözetét kínálja.",
-      ro: "Ettelbruck este un important nod de transport și comercial din centrul Luxemburgului, numit adesea 'Poarta către Nord'. Orașul este faimos pentru legătura sa puternică cu generalul George S. Patton, a cărui a treia armată americană a eliberat orașul în timpul celui de-al Doilea Război Mondial. Muzeul Memorial General Patton din Ettelbruck este o vizită obligatorie, documentând istoria orașului din timpul războiului și viața celebrului general. Ettelbruck este, de asemenea, un centru vibrant pentru educație și agricultură, găzduind Târgul Agricol anual, cel mai mare de acest gen din țară. Cu locația sa centrală și istoria bogată, Ettelbruck servește ca o legătură vitală între capitală și regiunea nordică a Ardenilor. Orașul oferă un amestec de comemorare istorică și dinamism modern.",
+      ro: "Ettelbruck este un 
       en: "Ettelbruck is a major transportation and commercial hub in central Luxembourg, often called the 'Gateway to the North.' The town is famous for its strong connection to General George S. Patton, whose third U.S. Army liberated the town during World War II. The General Patton Memorial Museum in Ettelbruck is a must-visit, documenting the town's wartime history and the life of the famous general. Ettelbruck is also a vibrant center for education and agriculture, hosting the annual Agricultural Fair, the largest of its kind in the country. With its central location and rich history, Ettelbruck serves as a vital link between the capital and the northern Ardennes region. The town offers a blend of historical remembrance and modern dynamism."
     },
     descriptionAdvanced: {
       de: "Ettelbrück ist ein wichtiger Verkehrsknotenpunkt und ein bedeutendes Handelszentrum am Rande der luxemburgischen Ardennen. Die Stadt wird oft als 'Patton Town' bezeichnet, da sie 1944 von den Truppen des amerikanischen Generals George S. Patton von der deutschen Besatzung befreit wurde; das General-Patton-Memorial-Museum ehrt dieses Ereignis. Die Stadt liegt strategisch günstig am Zusammenfluss von Sauer, Alzette und Wark, was sie landwirtschaftlich und kommerziell sehr attraktiv macht. Die Ereignisse des Zweiten Weltkriegs in dieser Region sind Thema in Geschichte K8.",
       hu: "",
-      ro: "Ettelbruck este un important nod de transport și un important centru comercial la marginea Ardenelor Luxemburgului. Orașul este adesea numit „Patton Town” deoarece a fost eliberat de ocupația germană în 1944 de trupele generalului american George S. Patton; Muzeul Memorial General Patton onorează acest eveniment. Orașul este situat strategic la confluența dintre Sauer, Alzette și Wark, ceea ce îl face foarte atractiv din punct de vedere agricol și comercial. Evenimentele celui de-al Doilea Război Mondial din această regiune fac obiectul Istoriei K8.",
-      en: "Ettelbruck is a bustling town in central Luxembourg, often serving as the primary commercial and transport hub connecting the southern Gutland with the northern Ardennes. Historically, it is known as 'Patton Town' due to the crucial role played by US General George S. Patton and his Third Army in liberating the town during the intense Battle of the Bulge in World War II. The town honors this legacy with a dedicated museum and a prominent monument. Today, Ettelbruck is a lively agricultural and educational center, hosting the country's largest open-air agricultural fair every year."
+      ro: "Ettelbruck este un 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1675,12 +1561,7 @@ export const luxembourgNature = [
         "În fiecare iulie, la Ettelbruck are loc cel mai mare târg agricol din Luxemburg (Foire Agricole).",
         "Orașul este cunoscut și ca centrul educațional al regiunii, cu numeroase școli."
       ],
-      en: [
-        "Ettelbruck is widely known as 'Patton Town' in honor of US General George S. Patton.",
-        "The town was a strategic focal point during the Battle of the Bulge in 1944.",
-        "It hosts Luxembourg's largest annual agricultural fair, the Foire Agricole.",
-        "It acts as a major railway and transport junction for the northern region."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1702,7 +1583,7 @@ export const luxembourgNature = [
       ro: [
         "Cunoscut drept 'Poarta către Nord'",
         "Găzduiește Muzeul Memorial General Patton",
-        "Nod feroviar important al țării",
+        "Nod feroviar 
         "Gazda celui mai mare târg agricol din Luxemburg",
         "Eliberat de armata americană în 1944",
         "Centru pentru comerț și educație în regiune"
@@ -1722,7 +1603,7 @@ export const luxembourgNature = [
     id: "city-grevenmacher",
     type: "city",
     parent: "lu-country",
-    coords: [6.4458, 49.6850] as [number, number],
+    coords: [6.4458, 49.6850],
     name: {
       de: "Grevenmacher",
       hu: "Grevenmacher",
@@ -1738,8 +1619,8 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Grevenmacher ist die wichtigste Stadt an der Luxemburger Mosel und das wirtschaftliche Zentrum des Weinbaus im Land. Entlang der malerischen Flusspromenade finden sich zahlreiche Kellereien, in denen die feinen Moselweine und der prickelnde Crémant verkostet werden können. Eine der Hauptattraktionen ist der Schmetterlingsgarten, der Familien und Naturliebhaber aus der ganzen Großregion anzieht. Historisch war die Stadt im Mittelalter stark befestigt, heute zeugt noch der alte Glockenturm von dieser Zeit. Der Einfluss des Klimas auf die Landwirtschaft wird in Geografie K7 behandelt.",
       hu: "",
-      ro: "Grevenmacher este cel mai important oraș din Luxemburg Moselle și centrul economic al viticulturii din țară. De-a lungul promenadei pitorești ale fluviului există numeroase crame unde pot fi degustate vinurile fine Moselle și cremantul spumos. Una dintre principalele atracții este grădina cu fluturi, care atrage familii și iubitori de natură din întreaga regiune. Din punct de vedere istoric, orașul a fost puternic fortificat în Evul Mediu, iar astăzi vechiul turn-clopotniță este încă mărturie despre acest timp. Influența climei asupra agriculturii este tratată în Geografie K7.",
-      en: "Grevenmacher is a vibrant and historic town on the banks of the Moselle River, serving as the commercial and administrative center of the Luxembourgish wine region. With its roots stretching back to Roman times, the town boasts narrow alleys, remnants of medieval fortifications, and a charming riverside promenade. Grevenmacher is deeply synonymous with viticulture; it is home to major wine cooperatives and historic cellars that produce some of the region's finest white wines and Crémants. The town also attracts families with attractions like the exotic Butterfly Garden and the scenic riverboat tours."
+      ro: "Grevenmacher este cel mai 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1755,12 +1636,7 @@ export const luxembourgNature = [
         "Grădina tropicală cu fluturi reproduce sute de specii exotice.",
         "Festivalul anual al strugurilor și vinului (Fête du Raisin et du Vin) este unul dintre cele mai mari din țară."
       ],
-      en: [
-        "Grevenmacher is the principal administrative center of the Moselle wine region.",
-        "The town has a rich viticultural heritage dating back to the Roman era.",
-        "It is home to the Caves Bernard-Massard, a major producer of sparkling wine.",
-        "The town features a popular exotic Butterfly Garden (Päiperlécksgaart)."
-      ]
+      en: []
     },
     facts: {
       de: [
@@ -1780,7 +1656,7 @@ export const luxembourgNature = [
         "Híres az évente megrendezett szőlő- és borfesztiváljáról"
       ],
       ro: [
-        "Centru important al viticulturii pe Mosela",
+        "Centru 
         "Găzduiește celebra Grădină a Fluturilor",
         "Sediul cramei de vinuri spumante Bernard-Massard",
         "Fortificații istorice parțial conservate",
@@ -1802,7 +1678,7 @@ export const luxembourgNature = [
     id: "city-consdorf",
     type: "city",
     parent: "LU",
-    coords: [6.3350, 49.7840] as [number, number],
+    coords: [6.3350, 49.7840],
     name: {
       de: "Consdorf",
       hu: "Consdorf",
@@ -1819,7 +1695,7 @@ export const luxembourgNature = [
       de: "Consdorf liegt auf einem grünen Plateau im Zentrum des Müllerthals und ist ein bevorzugtes Ziel für Naturforscher und Wanderer. Die Wälder um Consdorf verbergen einige der eindrucksvollsten und dunkelsten Felsschluchten der Region, wie die 'Kuelscheier', in der man fast ohne Tageslicht durch schmale Gänge manövrieren muss. Das Dorf hat sich seinen ländlichen Charme bewahrt und dient als ruhiger Rückzugsort für Touristen abseits der großen Städte. Naturgeschichte und Geologie sind wesentliche Aspekte für das Fach Sachkunde K5.",
       hu: "",
       ro: "Consdorf se află pe un platou verde din centrul Müllerthal și este o destinație preferată pentru naturaliști și drumeți. Pădurile din jurul Consdorf ascund unele dintre cele mai impresionante și mai întunecate chei stâncoase din regiune, cum ar fi „Kuelscheier”, unde trebuie să manevrezi prin pasaje înguste, aproape fără lumină naturală. Satul și-a păstrat farmecul rural și servește drept refugiu liniștit pentru turiști departe de marile orașe. Istoria naturală și geologia sunt aspecte esențiale pentru materia K5.",
-      en: "Consdorf is a peaceful rural village situated on a high plateau in the Mullerthal region, functioning as a perfect starting point for nature explorations. The village is completely surrounded by some of the most dramatic and intricate sandstone formations in Luxembourg's 'Little Switzerland'. Trails leading from Consdorf take hikers through incredibly narrow, dark rock crevices, such as the famous 'Kuelscheier' cave, where navigating without a flashlight is nearly impossible. The village retains its quiet, traditional agricultural character, offering a serene retreat after a day of adventurous hiking."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1832,15 +1708,10 @@ export const luxembourgNature = [
       ro: [
         "„Kuelscheier” (hambar de cărbuni) este o crăpătură extrem de îngustă și adâncă în stâncă pentru care aveți nevoie de o lanternă.",
         "În timpul celui de-al Doilea Război Mondial, aceste crăpături au oferit ascunzătoare sigure pentru luptătorii de rezistență.",
-        "Satul Consdorf a fost o stație importantă pe calea ferată cu ecartament îngust din Luxemburg.",
+        "Satul Consdorf a fost o stație 
         "Traseele de drumeții locale din Consdorf au fost certificate ca trasee premium de mai multe ori."
       ],
-      en: [
-        "Consdorf is located at the heart of the Mullerthal's intricate sandstone landscapes.",
-        "The surrounding trails feature extremely narrow rock crevices like the Kuelscheier.",
-        "Hikers often need flashlights to navigate the area's deep, dark rock passages.",
-        "The village maintains a strong traditional agricultural and rural character."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -1854,7 +1725,7 @@ export const luxembourgNature = [
     id: "city-waldbillig",
     type: "city",
     parent: "LU",
-    coords: [6.2960, 49.8010] as [number, number],
+    coords: [6.2960, 49.8010],
     name: {
       de: "Waldbillig",
       hu: "Waldbillig",
@@ -1870,8 +1741,8 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Waldbillig ist eine malerische Landgemeinde, die tief in die grüne Landschaft des Müllerthals eingebettet ist. Besondere historische Bedeutung erlangte der Ort durch Michel Rodange, den berühmten luxemburgischen Nationaldichter und Autor des 'Renert', der hier geboren wurde. Heute ist Waldbillig Ausgangspunkt für Ausflüge in die Natur, unter anderem zum malerischen Schiessentümpel-Wasserfall, der sich auf dem Gemeindegebiet befindet. Die Bewahrung luxemburgischer Literatur und Sprache macht den Ort wichtig für die nationale Identität, ein Thema für Kultur K6.",
       hu: "",
-      ro: "Waldbillig este o comunitate rurală pitorească, care este adânc încorporată în peisajul verde din Müllerthal. Locul a căpătat o semnificație istorică deosebită datorită lui Michel Rodange, celebrul poet național luxemburghez și autor al cărții „Renert”, care s-a născut aici. Astăzi, Waldbillig este punctul de plecare pentru excursii în natură, inclusiv la pitorescul cascadă Schiessentümpel, care se află în municipiu. Păstrarea literaturii și limbii luxemburgheze face ca locul să fie important pentru identitatea națională, un subiect pentru Cultura K6.",
-      en: "Waldbillig is a small, quiet municipality located near the spectacular Mullerthal region, deeply rooted in the country's agricultural and historical tapestry. It is most famous as the birthplace of Michel Rodange, the national poet who authored 'Renert', the great Luxembourgish epic featuring a cunning fox. The surrounding landscape is a serene mix of open farmlands and dense forests, transitioning into the rocky gorges of the Black Ernz. Waldbillig represents the quintessential calm of rural Luxembourg, preserving local traditions and honoring its literary heritage."
+      ro: "Waldbillig este o comunitate rurală pitorească, care este adânc încorporată în peisajul verde din Müllerthal. Locul a căpătat o semnificație istorică deosebită datorită lui Michel Rodange, celebrul poet național luxemburghez și autor al cărții „Renert”, care s-a născut aici. Astăzi, Waldbillig este punctul de plecare pentru excursii în natură, inclusiv la pitorescul cascadă Schiessentümpel, care se află în municipiu. Păstrarea literaturii și limbii luxemburgheze face ca locul să fie 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1887,12 +1758,7 @@ export const luxembourgNature = [
         "O parte din ruinele castelului Heringerburg este situată în pădurile din Waldbillig.",
         "Comunitatea se angajează ferm să păstreze fermele tradiționale luxemburgheze."
       ],
-      en: [
-        "Waldbillig is the birthplace of Michel Rodange, Luxembourg's most famous poet.",
-        "Rodange wrote the national epic 'Renert', a satirical tale about a fox.",
-        "The municipality is located on the edge of the rocky Mullerthal region.",
-        "It features a monument dedicated to its famous literary son."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -1906,7 +1772,7 @@ export const luxembourgNature = [
     id: "city-weiswampach",
     type: "city",
     parent: "LU",
-    coords: [6.0750, 50.0550] as [number, number],
+    coords: [6.0750, 50.0550],
     name: {
       de: "Weiswampach",
       hu: "Weiswampach",
@@ -1923,7 +1789,7 @@ export const luxembourgNature = [
       de: "Weiswampach liegt ganz im Norden Luxemburgs an der Grenze zu Belgien und Deutschland in den hohen Lagen der Ardennen. Die Gemeinde ist bekannt für ihre beiden künstlichen Seen, die im Sommer ein Zentrum für Freizeitaktivitäten, Schwimmen und Wassersport darstellen. Aufgrund seiner Nähe zur Grenze ist der Ort auch ein beliebtes Einkaufsziel. Die Hochebene bietet zudem ideale Bedingungen für Wintersport wie Skilanglauf, wenn genügend Schnee liegt. Die Geografie der Grenzregionen wird im Fach Geografie K7 behandelt.",
       hu: "",
       ro: "Weiswampach este situat în nordul Luxemburgului, la granița cu Belgia și Germania, la altitudinile mari din Ardeni. Municipiul este cunoscut pentru cele două lacuri artificiale ale sale, care sunt un centru pentru activități de agrement, înot și sporturi nautice vara. Datorită apropierii de graniță, locul este și o destinație populară de cumpărături. Platoul oferă, de asemenea, condiții ideale pentru sporturi de iarnă, cum ar fi schiul de fond, atunci când este suficientă zăpadă. Geografia regiunilor de frontieră este acoperită la materia Geografie K7.",
-      en: "Weiswampach is a vibrant municipality situated in the extreme north of Luxembourg, right on the border with Belgium and Germany. Due to its strategic location on a high plateau in the Ardennes, it has developed into a bustling commercial and tourist center. The town is widely known for its two artificial lakes, which provide excellent facilities for swimming, wakeboarding, and fishing during the summer months. Surrounded by extensive forests and rolling hills, Weiswampach offers a perfect blend of lively cross-border commerce and relaxing outdoor recreational activities."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1939,12 +1805,7 @@ export const luxembourgNature = [
         "Vara, pe lacuri are loc un cunoscut triatlon internațional.",
         "Un memorial din apropiere din comunitate comemorează piloții aliați doborâți."
       ],
-      en: [
-        "Weiswampach is located at the northernmost tip of Luxembourg.",
-        "The town borders both Belgium and Germany, creating a busy cross-border hub.",
-        "It features two 6-hectare artificial lakes designed for summer recreation.",
-        "The lakes offer activities ranging from wakeboarding to peaceful trout fishing."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -1958,7 +1819,7 @@ export const luxembourgNature = [
     id: "city-troisvierges",
     type: "city",
     parent: "LU",
-    coords: [6.0005, 50.1220] as [number, number],
+    coords: [6.0005, 50.1220],
     name: {
       de: "Troisvierges",
       hu: "Troisvierges",
@@ -1974,8 +1835,8 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Troisvierges (Ulflingen) ist die nördlichste Gemeinde Luxemburgs und war historisch ein extrem wichtiger Knotenpunkt für den Eisenbahnverkehr in den Ardennen. Eine Besonderheit der Region ist der Vennbahn-Radweg, der auf stillgelegten Bahntrassen verläuft und Troisvierges mit Aachen in Deutschland verbindet. In der Geschichte Luxemburgs ist der Ort bekannt, da hier am 1. August 1914 die ersten deutschen Soldaten die Grenze überschritten und damit die Besetzung im Ersten Weltkrieg begann. Die Auswirkungen europäischer Kriege werden intensiv in Geschichte K8 behandelt.",
       hu: "",
-      ro: "Troisvierges (Ulflingen) este cel mai nordic municipiu al Luxemburgului și a fost istoric un nod extrem de important pentru traficul feroviar din Ardenne. O caracteristică specială a regiunii este traseul de biciclete Vennbahn, care circulă pe linii de cale ferată dezafectate și leagă Troisvierges de Aachen în Germania. Locul este cunoscut în istoria Luxemburgului deoarece primii soldați germani au trecut granița aici la 1 august 1914 și astfel au început ocupația în Primul Război Mondial. Efectele războaielor europene sunt tratate intens în Istoria K8.",
-      en: "Troisvierges, named after the three virgins of faith, hope, and charity, is a historic town in the northernmost part of the Luxembourg Ardennes. The town grew significantly in the 19th century as a crucial railway junction connecting Luxembourg to Belgium and Germany. Historically, it was the site where the very first German troops disembarked at the onset of World War I, marking the beginning of the conflict on the Western Front. Today, Troisvierges is a peaceful community, offering access to beautiful nature reserves and the scenic Vennbahn cycle path built on former railway lines."
+      ro: "Troisvierges (Ulflingen) este cel mai nordic municipiu al Luxemburgului și a fost istoric un nod extrem de 
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -1988,15 +1849,10 @@ export const luxembourgNature = [
       ro: [
         "Invazia germană a Luxemburgului în timpul primului război mondial a început la Troisvierges în 1914.",
         "Pista de biciclete Vennbahn este una dintre cele mai lungi și mai plate piste de biciclete din Europa.",
-        "Gara locală a fost multă vreme cel mai important punct de transbordare a mărfurilor agricole din nord.",
+        "Gara locală a fost multă vreme cel mai 
         "Rezervațiile naturale din jurul Troisvierges găzduiesc specii rare de plante, cum ar fi orhideele sălbatice."
       ],
-      en: [
-        "Troisvierges developed as a major international railway junction in the 19th century.",
-        "The town marks the start of the Vennbahn, one of Europe's longest railway cycle paths.",
-        "It was the site of the first German troop incursion on the Western Front in 1914.",
-        "The local church houses highly valuable baroque altars from the 17th century."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -2010,7 +1866,7 @@ export const luxembourgNature = [
     id: "city-beckerich",
     type: "city",
     parent: "LU",
-    coords: [5.8865, 49.7280] as [number, number],
+    coords: [5.8865, 49.7280],
     name: {
       de: "Beckerich",
       hu: "Beckerich",
@@ -2027,7 +1883,7 @@ export const luxembourgNature = [
       de: "Beckerich liegt im Westen Luxemburgs nahe der belgischen Grenze und hat sich landesweit einen Namen als Pioniergemeinde für ökologische Nachhaltigkeit und alternative Energien gemacht. Seit Jahrzehnten investiert die Gemeinde erfolgreich in Biogas, Solarenergie und eine eigene Wasserabfüllanlage für das bekannte 'Beckericher Wasser'. Die alte Mühle im Ortszentrum wurde liebevoll restauriert und dient heute als Kulturzentrum und Restaurant, das den Wandel vom Agrar- zum Ökodorf symbolisiert. Diese nachhaltige Entwicklung ist ein perfektes Anschauungsobjekt für Ökologie und Geografie K8.",
       hu: "",
       ro: "Beckerich este situat în vestul Luxemburgului, lângă granița cu Belgia și și-a făcut un nume la nivel național ca o comunitate de pionierat pentru sustenabilitatea ecologică și energiile alternative. De zeci de ani, comunitatea a investit cu succes în biogaz, energie solară și propria fabrică de îmbuteliere a apei pentru binecunoscutul „Beckericher Wasser”. Vechea moară din centrul orașului a fost restaurată cu dragoste și servește acum ca centru cultural și restaurant, simbolizând trecerea de la un sat agricol la unul ecologic. Această dezvoltare durabilă este un obiect de afișare perfect pentru ecologie și geografie K8.",
-      en: "Beckerich is a progressive and eco-conscious village located in western Luxembourg, near the Belgian border. It is internationally recognized as a pioneer in sustainable development, renewable energy, and ecological transition. The municipality produces its own biogas, solar, and wind energy, striving for complete energy autonomy. Besides its environmental achievements, Beckerich is famous for its high-quality mineral water, which is bottled locally and exported widely. The old mill complex in the village center has been beautifully restored into a cultural and educational center focusing on sustainability."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -2043,12 +1899,7 @@ export const luxembourgNature = [
         "„D'Millen” (moara veche) oferă ateliere despre istorie și viață durabilă.",
         "Municipalitatea a fost una dintre primele din Luxemburg care a înființat o rețea locală de termoficare cu biogaz."
       ],
-      en: [
-        "Beckerich is a national pioneer in renewable energy and ecological sustainability.",
-        "The village aims for complete energy autonomy using biogas, solar, and wind power.",
-        "It is famous for bottling high-quality mineral water sourced from local springs.",
-        "An old restored mill serves as the village's cultural and environmental center."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -2062,7 +1913,7 @@ export const luxembourgNature = [
     id: "city-walferdange",
     type: "city",
     parent: "LU",
-    coords: [6.1290, 49.6590] as [number, number],
+    coords: [6.1290, 49.6590],
     name: {
       de: "Walferdange",
       hu: "Walferdange",
@@ -2079,7 +1930,7 @@ export const luxembourgNature = [
       de: "Walferdange ist eine wohlhabende Gemeinde, die sich im landschaftlich reizvollen Tal der Alzette unmittelbar nördlich der Hauptstadt erstreckt. Historisch bedeutsam ist das majestätische Schloss Walferdange, das im 19. Jahrhundert als Residenz für Prinz Heinrich von den Niederlanden diente und später Teile der Universität Luxemburg beherbergte. Die Gemeinde ist auch berühmt für die unterirdischen Gipsminen, in denen sich seit Jahren das seismologische Labor Europas befindet. Der Kontrast von höfischer Geschichte und moderner Wissenschaft eignet sich gut für Physik und Geschichte K7.",
       hu: "",
       ro: "Walferdange este o comunitate prosperă răspândită în valea pitorească Alzette, chiar la nord de capitală. Important din punct de vedere istoric este maiestuosul castel Walferdange, care a servit drept reședință pentru Prințul Henric al Țărilor de Jos în secolul al XIX-lea și a găzduit mai târziu părți ale Universității din Luxemburg. Municipiul este renumit și pentru minele subterane de gips, care găzduiesc de ani de zile laboratorul seismologic al Europei. Contrastul dintre istoria curtenească și știința modernă este bine potrivit pentru fizică și istorie K7.",
-      en: "Walferdange is a prosperous and highly desirable residential town located just north of Luxembourg City, in the lush valley of the Alzette River. The town seamlessly blends suburban convenience with deep historical roots, notably featuring the remains of an expansive Roman villa and the mysterious 'Raschpëtzer', an ancient Roman underground aqueduct system. Walferdange also hosts a branch of the University of Luxembourg and is surrounded by the expansive Grünewald forest, providing residents and visitors with abundant green spaces for recreation right on the capital's doorstep."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -2095,12 +1946,7 @@ export const luxembourgNature = [
         "Rămășițe semnificative ale unei vile romane au fost găsite în timpul săpăturilor din comunitate.",
         "Walferdange organizează cel mai mare târg de carte din Luxemburg, „Bicherdeeg”."
       ],
-      en: [
-        "Walferdange is situated in the Alzette valley just north of the capital city.",
-        "It is home to the 'Raschpëtzer', an impressive ancient Roman underground aqueduct.",
-        "The town features the well-preserved ruins of a large Roman villa.",
-        "It borders the Grünewald, one of the largest continuous forests in Luxembourg."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -2114,7 +1960,7 @@ export const luxembourgNature = [
     id: "city-strassen",
     type: "city",
     parent: "LU",
-    coords: [6.0730, 49.6200] as [number, number],
+    coords: [6.0730, 49.6200],
     name: {
       de: "Strassen",
       hu: "Strassen",
@@ -2131,7 +1977,7 @@ export const luxembourgNature = [
       de: "Strassen ist eine moderne und stark wachsende Gemeinde westlich der Hauptstadt, die durch ihre Lage an der historischen Römerstraße von Trier nach Arlon geprägt wurde. Heute ist Strassen vor allem für seine erstklassige Infrastruktur, das Thermal- und Erlebnisbad 'Les Thermes' und eine sehr dynamische Wirtschaftsstruktur bekannt. Trotz der fortschreitenden Urbanisierung bemüht sich die Gemeinde um den Erhalt von Grünflächen und fördert aktiv die Kunst im öffentlichen Raum. Die Entwicklung von Vororten ist ein spannendes Thema für die Siedlungsgeografie K8.",
       hu: "",
       ro: "Strassen este o comunitate modernă și în creștere rapidă la vest de capitală, care s-a caracterizat prin amplasarea sa pe drumul istoric roman de la Trier la Arlon. Astăzi, Strassen este cel mai bine cunoscut pentru infrastructura sa de primă clasă, piscina termală și de aventură „Les Thermes” și o structură economică foarte dinamică. În ciuda creșterii urbanizării, comunitatea se străduiește să păstreze spațiile verzi și promovează activ arta în spațiile publice. Dezvoltarea suburbiilor este un subiect interesant pentru geografia așezărilor K8.",
-      en: "Strassen is a dynamic and affluent municipality immediately bordering the western edge of Luxembourg City. Due to its proximity to the capital, it has grown rapidly into a modern residential and commercial hub, favored by international expatriates and professionals. Despite its urban development, Strassen maintains a high quality of life with excellent infrastructure, including the popular 'Les Thermes' aquatic center and extensive parklands. The town is characterized by its cosmopolitan atmosphere, blending upscale suburban living with very easy access to the economic center of the country."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -2147,12 +1993,7 @@ export const luxembourgNature = [
         "Strassen are cea mai mare proporție de rezidenți străini din toate municipalitățile din Luxemburg (peste 60%).",
         "Comunitatea are un parc extins de sculpturi cu lucrări ale artiștilor locali și internaționali."
       ],
-      en: [
-        "Strassen directly borders the western districts of Luxembourg City.",
-        "It is one of the most affluent and cosmopolitan municipalities in the country.",
-        "The town features 'Les Thermes', a highly popular modern aquatic and wellness center.",
-        "A very high percentage of its residents are international expatriates."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -2166,7 +2007,7 @@ export const luxembourgNature = [
     id: "city-mamer",
     type: "city",
     parent: "LU",
-    coords: [6.0225, 49.6275] as [number, number],
+    coords: [6.0225, 49.6275],
     name: {
       de: "Mamer",
       hu: "Mamer",
@@ -2183,7 +2024,7 @@ export const luxembourgNature = [
       de: "Mamer ist eine charmante Ortschaft westlich der Hauptstadt, die auf eine reiche gallorömische Geschichte zurückblickt; Ausgrabungen römischer Thermen dokumentieren diese frühe Besiedlung. Das prächtige Schloss Mamer im Zentrum beherbergt heute die Gemeindeverwaltung und ist von einem wunderschönen öffentlichen Park umgeben. Mamer hat sich erfolgreich von einem kleinen Bauerndorf zu einer modernen Wohn- und Bildungsgemeinde entwickelt, insbesondere durch die Ansiedlung der renommierten Europäischen Schule. Diese historische Kontinuität ist ein Kernthema für Geschichte K6.",
       hu: "",
       ro: "Mamer este un oraș fermecător la vest de capitală care are o bogată istorie galo-romană; Săpăturile băilor romane documentează această așezare timpurie. Magnificul Castel Mamer din centru găzduiește acum administrația municipală și este înconjurat de un frumos parc public. Mamer s-a dezvoltat cu succes dintr-un mic sat fermier într-o comunitate rezidențială și educațională modernă, în special prin înființarea renumitei școli europene. Această continuitate istorică este o temă de bază pentru History K6.",
-      en: "Mamer is a charming and historic town located just west of the capital, uniquely positioned on the site of a former Roman settlement. The town's rich heritage is still visible today through excavated Roman thermal baths, which offer a glimpse into ancient life. Mamer is also the proud birthplace of Nicolas Frantz, the author of the beloved Luxembourgish epic 'Renert', and the renowned European cyclist Nicolas Frantz, a two-time winner of the Tour de France. The modern town features a beautiful central park, a grand chateau serving as the town hall, and an esteemed European School."
+      en: ""
     },
     factsAdvanced: {
       de: [
@@ -2199,12 +2040,7 @@ export const luxembourgNature = [
         "Castelul Mamer a fost construit pe ruinele unui castel medieval.",
         "Școala Europeană II din Mamer îi învață pe copiii funcționarilor UE mai multe limbi."
       ],
-      en: [
-        "Mamer is built on the remains of a significant ancient Roman settlement.",
-        "The town features excavated and preserved Roman thermal baths.",
-        "It is the birthplace of Nicolas Frantz, who won the Tour de France twice in the 1920s.",
-        "A grand, beautifully restored chateau now serves as the municipal town hall."
-      ]
+      en: []
     },
     facts: {
       de: ["Lokaler Ort in Luxemburg", "Gut fuer Tagesausfluege", "Mit Nachbarorten gut kombinierbar", "Familienfreundliche Basis", "Relevant fuer Kurzreisen"],
@@ -2218,7 +2054,7 @@ export const luxembourgNature = [
     id: "city-hesperange",
     type: "city",
     parent: "LU",
-    coords: [6.1540, 49.5750] as [number, number],
+    coords: [6.1540, 49.5750],
     name: {
       de: "Hesperange",
       hu: "Hesperange",
@@ -2248,7 +2084,7 @@ export const luxembourgNature = [
       ro: [
         "Castelul Hesperange a fost distrus în 1480 de împăratul habsburgic Maximilian I.",
         "Spațiosul Hesper Park oferă un lac, locuri de joacă și grădini tematice.",
-        "Comunitatea a fost anterior o locație importantă de moară de-a lungul Alzette.",
+        "Comunitatea a fost anterior o locație 
         "Castelul local este acum proprietate privată și este un monument cultural național."
       ],
       en: []
@@ -2265,7 +2101,7 @@ export const luxembourgNature = [
     id: "city-betzdorf",
     type: "city",
     parent: "LU",
-    coords: [6.3480, 49.6878] as [number, number],
+    coords: [6.3480, 49.6878],
     name: {
       de: "Betzdorf",
       hu: "Betzdorf",
@@ -2281,7 +2117,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Betzdorf ist eine beschauliche ländliche Gemeinde im Osten Luxemburgs, die weltweite Bedeutung in der Satellitenkommunikation erlangt hat. Auf dem Schloss Betzdorf hat das luxemburgische Satellitenunternehmen SES (Société Européenne des Satellites), einer der größten Satellitenbetreiber der Welt, seinen Hauptsitz. Während das Dorf selbst stark landwirtschaftlich geprägt bleibt, fließen hier modernste Technologie und Tradition auf faszinierende Weise zusammen. Diese Kombination aus Hightech und ländlichem Raum ist ein spannendes Thema für Wirtschaft und Physik K8.",
       hu: "",
-      ro: "Betzdorf este o comunitate rurală liniștită din estul Luxemburgului, care a atins importanță globală în comunicațiile prin satelit. Compania de sateliti din Luxemburg SES (Société Européenne des Satellites), unul dintre cei mai mari operatori de sateliti din lume, isi are sediul la Castelul Betzdorf. În timp ce satul în sine rămâne puternic agricol, tehnologia modernă și tradiția se reunesc aici într-un mod fascinant. Această combinație de înaltă tehnologie și zone rurale este un subiect interesant pentru economie și fizică K8.",
+      ro: "Betzdorf este o comunitate rurală liniștită din estul Luxemburgului, care a atins 
       en: ""
     },
     factsAdvanced: {
@@ -2312,7 +2148,7 @@ export const luxembourgNature = [
     id: "city-biwer",
     type: "city",
     parent: "LU",
-    coords: [6.3910, 49.6820] as [number, number],
+    coords: [6.3910, 49.6820],
     name: {
       de: "Biwer",
       hu: "Biwer",
@@ -2341,7 +2177,7 @@ export const luxembourgNature = [
       hu: [],
       ro: [
         "Regiunea din jurul Biwer este cunoscută pentru pajiștile sale extinse cu pomi fructiferi (Bongerten).",
-        "Valea Syr este o rezervație naturală importantă pentru specii rare de păsări și insecte.",
+        "Valea Syr este o rezervație naturală 
         "Biwer este una dintre comunitățile cu cea mai scăzută densitate a populației din estul țării.",
         "Biserica satului Saint-André a fost construită în secolul al XIX-lea în stil neoclasic."
       ],
@@ -2359,7 +2195,7 @@ export const luxembourgNature = [
     id: "city-petange",
     type: "city",
     parent: "LU",
-    coords: [5.8800, 49.5580] as [number, number],
+    coords: [5.8800, 49.5580],
     name: {
       de: "Petange",
       hu: "Petange",
@@ -2375,7 +2211,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Petingen, gelegen im äußersten Südwesten an der Grenze zu Belgien und Frankreich, ist eine historisch bedeutende Industriestadt. Sie war im 19. und 20. Jahrhundert ein wichtiges Zentrum der luxemburgischen Eisenbahn- und Stahlindustrie, was sich noch heute am historischen Bahnhof und den umliegenden Gebäuden ablesen lässt. Petingen ist auch dafür bekannt, dass hier im September 1944 der erste amerikanische Soldat bei der Befreiung Luxemburgs fiel. Die industrielle Revolution und ihre Folgen sind Hauptthemen in Geschichte K8.",
       hu: "",
-      ro: "Pétange, situat în sud-vestul extrem, la granița cu Belgia și Franța, este un oraș industrial important din punct de vedere istoric. A fost un centru important al industriei feroviare și siderurgice din Luxemburg în secolele al XIX-lea și al XX-lea, care poate fi văzut și astăzi în gara istorică și în clădirile din jur. Pétange este cunoscută și pentru faptul că primul soldat american a căzut aici în septembrie 1944, în timpul eliberării Luxemburgului. Revoluția industrială și consecințele ei sunt teme principale în Istoria K8.",
+      ro: "Pétange, situat în sud-vestul extrem, la granița cu Belgia și Franța, este un oraș industrial 
       en: ""
     },
     factsAdvanced: {
@@ -2406,7 +2242,7 @@ export const luxembourgNature = [
     id: "historical-echternach-basilica",
     type: "historical",
     parent: "LU",
-    coords: [6.4284, 49.8130] as [number, number],
+    coords: [6.4284, 49.8130],
     name: {
       de: "Basilika St. Willibrord",
       hu: "Szent Willibrord bazilika",
@@ -2422,7 +2258,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Die Basilika St. Willibrord in Echternach ist das bedeutendste religiöse Monument Luxemburgs und das Zentrum der historischen Abtei Echternach. Sie wurde ursprünglich vom angelsächsischen Missionar Willibrord im späten 7. Jahrhundert gegründet, dessen Gebeine in der ehrwürdigen Krypta unter dem Chor ruhen. Die heutige Struktur besticht durch ihre beeindruckende romanische Architektur, obwohl sie nach starken Zerstörungen in der Ardennenoffensive wieder aufgebaut werden musste. Sie ist Ziel der jährlichen Springprozession. Dies ist ein hervorragendes architektonisches Beispiel für sakrale Baukunst im Fach Geschichte K7.",
       hu: "",
-      ro: "Bazilica Sf. Willibrord din Echternach este cel mai important monument religios din Luxemburg și centrul istoricului Abație Echternach. A fost fondată inițial de misionarul anglo-saxon Willibrord la sfârșitul secolului al VII-lea, ale cărui rămășițe se află în venerabila criptă de sub cor. Structura actuală impresionează prin arhitectura sa romanică impresionantă, deși a trebuit să fie reconstruită după avarii grave în Bătălia de la Bulge. Este destinația procesiunii anuale de sărituri. Acesta este un excelent exemplu arhitectural de arhitectură sacră la subiectul de istorie K7.",
+      ro: "Bazilica Sf. Willibrord din Echternach este cel mai 
       en: ""
     },
     factsAdvanced: {
@@ -2453,7 +2289,7 @@ export const luxembourgNature = [
     id: "historical-victor-hugo-house",
     type: "historical",
     parent: "LU",
-    coords: [6.2100, 49.9360] as [number, number],
+    coords: [6.2100, 49.9360],
     name: {
       de: "Victor-Hugo-Haus",
       hu: "Victor Hugo haz",
@@ -2500,7 +2336,7 @@ export const luxembourgNature = [
     id: "historical-berg-castle",
     type: "historical",
     parent: "LU",
-    coords: [6.1220, 49.6110] as [number, number],
+    coords: [6.1220, 49.6110],
     name: {
       de: "Schloss Berg",
       hu: "Berg kastely",
@@ -2516,7 +2352,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Schloss Berg, gelegen in der Gemeinde Colmar-Berg, ist die offizielle Hauptresidenz der luxemburgischen großherzoglichen Familie. Das prächtige Schloss wurde im 19. Jahrhundert erbaut und nach Beschädigungen und Plünderungen während des Zweiten Weltkriegs in den 1960er Jahren aufwendig renoviert und modernisiert. Obwohl das Innere des Schlosses für die Öffentlichkeit nicht zugänglich ist, sind die Architektur und die umgebenden Gärten ein wichtiges nationales Symbol für die Souveränität des Landes. Die Funktion europäischer Monarchien wird im Fach Politik K7 behandelt.",
       hu: "",
-      ro: "Castelul Berg, situat în municipiul Colmar-Berg, este reședința principală oficială a familiei Marelui Ducal Luxemburg. Magnificul castel a fost construit în secolul al XIX-lea și a fost renovat și modernizat pe scară largă în anii 1960 după distrugeri și jefuiri în timpul celui de-al Doilea Război Mondial. Deși interiorul castelului nu este deschis publicului, arhitectura și grădinile din jur sunt un important simbol național al suveranității țării. Funcția monarhiilor europene este acoperită la subiectul Politică K7.",
+      ro: "Castelul Berg, situat în municipiul Colmar-Berg, este reședința principală oficială a familiei Marelui Ducal Luxemburg. Magnificul castel a fost construit în secolul al XIX-lea și a fost renovat și modernizat pe scară largă în anii 1960 după distrugeri și jefuiri în timpul celui de-al Doilea Război Mondial. Deși interiorul castelului nu este deschis publicului, arhitectura și grădinile din jur sunt un 
       en: ""
     },
     factsAdvanced: {
@@ -2547,7 +2383,7 @@ export const luxembourgNature = [
     id: "historical-schengen-monument",
     type: "historical",
     parent: "LU",
-    coords: [6.3548, 49.4715] as [number, number],
+    coords: [6.3548, 49.4715],
     name: {
       de: "Schengener Denkmal",
       hu: "Schengeni emlekmu",
@@ -2594,7 +2430,7 @@ export const luxembourgNature = [
     id: "historical-diekirch-military-history",
     type: "historical",
     parent: "LU",
-    coords: [6.1550, 49.8695] as [number, number],
+    coords: [6.1550, 49.8695],
     name: {
       de: "Nationales Museum der Militaergeschichte",
       hu: "Nemzeti Hadtorteneti Muzeum",
@@ -2641,7 +2477,7 @@ export const luxembourgNature = [
     id: "landmark-bourglinster-castle",
     type: "landmark",
     parent: "LU",
-    coords: [6.1928, 49.7190] as [number, number],
+    coords: [6.1928, 49.7190],
     name: {
       de: "Schloss Bourglinster",
       hu: "Bourglinster kastely",
@@ -2657,7 +2493,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Schloss Bourglinster ist eine malerische Burganlage aus dem 11. Jahrhundert, die auf einem Felsvorsprung über dem gleichnamigen Dorf thront. Nach einer umfassenden Restaurierung in den 1980er Jahren wurde die Burg zu einem wichtigen kulturellen Zentrum und Austragungsort für klassische Konzerte und Kunstausstellungen. Besonders berühmt ist das Schloss heute für seine Gastronomie: Es beherbergt eines der besten Sternerestaurants Luxemburgs, wo hochklassige Kulinarik auf mittelalterliches Ambiente trifft. Die Nutzung historischer Gebäude in der Moderne ist ein Thema für Kultur K7.",
       hu: "",
-      ro: "Castelul Bourglinster este un complex de castel pitoresc din secolul al XI-lea, care se află pe un afloriment stâncos deasupra satului cu același nume. După o restaurare extinsă în anii 1980, castelul a devenit un important centru cultural și loc pentru concerte clasice și expoziții de artă. Astăzi, castelul este renumit în special pentru gastronomia sa: găzduiește unul dintre cele mai bune restaurante cu stele din Luxemburg, unde bucătăria de înaltă clasă se întâlnește cu o atmosferă medievală. Utilizarea clădirilor istorice în timpurile moderne este un subiect pentru Cultura K7.",
+      ro: "Castelul Bourglinster este un complex de castel pitoresc din secolul al XI-lea, care se află pe un afloriment stâncos deasupra satului cu același nume. După o restaurare extinsă în anii 1980, castelul a devenit un 
       en: ""
     },
     factsAdvanced: {
@@ -2688,7 +2524,7 @@ export const luxembourgNature = [
     id: "historical-roman-villa-echternach",
     type: "historical",
     parent: "LU",
-    coords: [6.4248, 49.8032] as [number, number],
+    coords: [6.4248, 49.8032],
     name: {
       de: "Roemische Villa Echternach",
       hu: "Roman villa Echternach",
@@ -2704,7 +2540,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Die Römische Villa Echternach ist eine der größten und luxuriösesten jemals entdeckten römischen Gutsanlagen (Villa Rustica) in Mitteleuropa. Die Ruinen, die in der Nähe des Echternacher Sees liegen, vermitteln ein faszinierendes Bild vom Leben der römischen Oberschicht vor etwa 2000 Jahren. Die Anlage umfasste über 70 Räume, darunter großzügige Badeanlagen mit Fußbodenheizung, prächtige Mosaike und weitläufige Innenhöfe. Das zugehörige Besucherzentrum veranschaulicht das gallorömische Alltagsleben. Diese archäologische Stätte ist von größter Bedeutung für das Fach Geschichte K6.",
       hu: "",
-      ro: "Vila romană Echternach este una dintre cele mai mari și mai luxoase moșii romane (Vila Rustica) descoperite vreodată în Europa Centrală. Ruinele, care se află lângă lacul Echternach, oferă o imagine fascinantă a vieții clasei superioare romane în urmă cu aproximativ 2.000 de ani. Complexul cuprindea peste 70 de camere, inclusiv facilități de baie spațioase cu încălzire prin pardoseală, mozaicuri magnifice și curți interioare extinse. Centrul de vizitatori asociat ilustrează viața de zi cu zi galo-romană. Acest sit arheologic este de cea mai mare importanță pentru materia Istorie K6.",
+      ro: "Vila romană Echternach este una dintre cele mai mari și mai luxoase moșii romane (Vila Rustica) descoperite vreodată în Europa Centrală. Ruinele, care se află lângă lacul Echternach, oferă o imagine fascinantă a vieții clasei superioare romane în urmă cu aproximativ 2.000 de ani. Complexul cuprindea peste 70 de camere, inclusiv facilități de baie spațioase cu încălzire prin pardoseală, mozaicuri magnifice și curți interioare extinse. Centrul de vizitatori asociat ilustrează viața de zi cu zi galo-romană. Acest sit arheologic este de cea mai mare 
       en: ""
     },
     factsAdvanced: {
@@ -2735,7 +2571,7 @@ export const luxembourgNature = [
     id: "landmark-mersch-castle",
     type: "landmark",
     parent: "LU",
-    coords: [6.1060, 49.7480] as [number, number],
+    coords: [6.1060, 49.7480],
     name: {
       de: "Schloss Mersch",
       hu: "Mersch kastely",
@@ -2782,7 +2618,7 @@ export const luxembourgNature = [
     id: "river-our-river",
     type: "river",
     parent: "LU",
-    coords: [6.1900, 50.0400] as [number, number],
+    coords: [6.1900, 50.0400],
     name: {
       de: "Our",
       hu: "Our",
@@ -2811,7 +2647,7 @@ export const luxembourgNature = [
       hu: [],
       ro: [
         "Our are o lungime totală de aproximativ 78 de kilometri.",
-        "Valea Our este un habitat important pentru berza neagră rară și pisica sălbatică.",
+        "Valea Our este un habitat 
         "Centrala de acumulare prin pompare de pe Our este una dintre cele mai mari de acest gen din Europa.",
         "Râul se varsă în Sauer lângă Wallendorf."
       ],
@@ -2829,7 +2665,7 @@ export const luxembourgNature = [
     id: "river-alzette-river",
     type: "river",
     parent: "LU",
-    coords: [6.1280, 49.6200] as [number, number],
+    coords: [6.1280, 49.6200],
     name: {
       de: "Alzette",
       hu: "Alzette",
@@ -2876,7 +2712,7 @@ export const luxembourgNature = [
     id: "river-clerve-river",
     type: "river",
     parent: "LU",
-    coords: [6.0400, 49.9600] as [number, number],
+    coords: [6.0400, 49.9600],
     name: {
       de: "Clerve",
       hu: "Clerve",
@@ -2923,7 +2759,7 @@ export const luxembourgNature = [
     id: "lake-echternach-lake",
     type: "lake",
     parent: "LU",
-    coords: [6.4210, 49.8150] as [number, number],
+    coords: [6.4210, 49.8150],
     name: {
       de: "Echternacher See",
       hu: "Echternachi-to",
@@ -2970,7 +2806,7 @@ export const luxembourgNature = [
     id: "mountain-berdorf-rocks",
     type: "mountain",
     parent: "LU",
-    coords: [6.3540, 49.8120] as [number, number],
+    coords: [6.3540, 49.8120],
     name: {
       de: "Berdorfer Felsen",
       hu: "Berdorf sziklai",
@@ -2986,7 +2822,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Die Berdorfer Felsen sind eine spektakuläre geologische Formation aus Luxemburger Sandstein im Herzen des Müllerthals. Diese hoch aufragenden, von tiefen Rissen durchzogenen Felsmassive wurden über Millionen von Jahren durch Wind- und Wassererosion geformt. Heute sind sie nicht nur ein landschaftliches Highlight, sondern auch das wichtigste Klettergebiet des Landes mit zahlreichen markierten Routen. Wanderer erkunden die unzähligen Höhlen und Schluchten wie die berühmte 'Hohllay'. Gesteinsformationen und Verwitterungsprozesse sind zentrale Inhalte in Geografie K8.",
       hu: "",
-      ro: "Stâncile Berdorf sunt o formațiune geologică spectaculoasă realizată din gresie de Luxemburg în inima Müllerthal. Aceste masive stâncoase falnice, pline de fisuri adânci, s-au format de-a lungul a milioane de ani de eroziunea vântului și a apei. Astăzi nu sunt doar un punct culminant pitoresc, ci și cea mai importantă zonă de alpinism din țară cu numeroase trasee marcate. Drumeții explorează nenumăratele peșteri și chei, cum ar fi faimosul „Hohllay”. Formațiunile de rocă și procesele de intemperii sunt conținutul central în Geografie K8.",
+      ro: "Stâncile Berdorf sunt o formațiune geologică spectaculoasă realizată din gresie de Luxemburg în inima Müllerthal. Aceste masive stâncoase falnice, pline de fisuri adânci, s-au format de-a lungul a milioane de ani de eroziunea vântului și a apei. Astăzi nu sunt doar un punct culminant pitoresc, ci și cea mai 
       en: ""
     },
     factsAdvanced: {
@@ -3017,7 +2853,7 @@ export const luxembourgNature = [
     id: "mountain-gaalgebierg-hill",
     type: "mountain",
     parent: "LU",
-    coords: [6.1180, 49.4985] as [number, number],
+    coords: [6.1180, 49.4985],
     name: {
       de: "Gaalgebierg",
       hu: "Gaalgebierg",
@@ -3033,7 +2869,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Der Gaalgebierg, oder Galgenberg, ist eine bewaldete Erhebung, die sich schützend über die Industriestadt Esch-sur-Alzette im Süden Luxemburgs erhebt. In der Vergangenheit wurden an diesem Berg Eisenerz abgebaut, heute ist das Gebiet jedoch vollständig renaturiert und dient als die wichtigste grüne Lunge der Stadt. Der Berg bietet ausgedehnte Wanderwege, einen gepflegten Tierpark und zahlreiche Sportanlagen. Er symbolisiert eindrucksvoll den erfolgreichen Strukturwandel von einer Industrielandschaft zu einem Naherholungsgebiet, ein wichtiges Thema in Geografie K7.",
       hu: "",
-      ro: "Gaalgebierg, sau Galgenberg, este un deal împădurit care se înalță protector deasupra orașului industrial Esch-sur-Alzette din sudul Luxemburgului. În trecut, pe acest munte se extragea minereu de fier, dar astăzi zona a fost complet restaurată și servește drept cel mai important plămân verde al orașului. Muntele oferă trasee extinse de drumeții, o grădină zoologică bine întreținută și numeroase facilități sportive. Simbolizează în mod impresionant schimbarea structurală de succes de la un peisaj industrial la o zonă locală de recreere, un subiect important în Geografie K7.",
+      ro: "Gaalgebierg, sau Galgenberg, este un deal împădurit care se înalță protector deasupra orașului industrial Esch-sur-Alzette din sudul Luxemburgului. În trecut, pe acest munte se extragea minereu de fier, dar astăzi zona a fost complet restaurată și servește drept cel mai 
       en: ""
     },
     factsAdvanced: {
@@ -3064,7 +2900,7 @@ export const luxembourgNature = [
     id: "forest-kockelscheuer-forest",
     type: "forest",
     parent: "LU",
-    coords: [6.0900, 49.5680] as [number, number],
+    coords: [6.0900, 49.5680],
     name: {
       de: "Kockelscheuerer Wald",
       hu: "Kockelscheuer erdo",
@@ -3080,7 +2916,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Der Kockelscheuerer Wald ist ein ausgedehntes Wald- und Naherholungsgebiet am südlichen Rand der Hauptstadt Luxemburg. Er ist ein zentrales Refugium für Großstädter, das neben dichten Buchen- und Eichenwäldern auch mehrere kleine Seen und Freizeiteinrichtungen beherbergt. Bekannt ist der Ort vor allem für das große Eissportzentrum 'Kockelscheuer', das nationale und internationale Wettbewerbe austrägt. Zudem ist der Wald ein wichtiges Rückzugsgebiet für die städtische Fauna. Ökologie und Naherholung werden in Sachkunde K5 und Biologie K6 behandelt.",
       hu: "",
-      ro: "Pădurea Kockelscheuerer este o pădure extinsă și o zonă de agrement situată la marginea de sud a capitalei Luxemburg. Este un refugiu central pentru locuitorii orașului, care, pe lângă pădurile dense de fag și stejar, găzduiește și câteva lacuri mici și facilități de agrement. Locul este cel mai bine cunoscut pentru marele centru de sport pe gheață „Kockelscheuer”, care găzduiește competiții naționale și internaționale. Pădurea este, de asemenea, un important refugiu pentru fauna urbană. Ecologia și recreerea locală sunt acoperite în știință K5 și biologie K6.",
+      ro: "Pădurea Kockelscheuerer este o pădure extinsă și o zonă de agrement situată la marginea de sud a capitalei Luxemburg. Este un refugiu central pentru locuitorii orașului, care, pe lângă pădurile dense de fag și stejar, găzduiește și câteva lacuri mici și facilități de agrement. Locul este cel mai bine cunoscut pentru marele centru de sport pe gheață „Kockelscheuer”, care găzduiește competiții naționale și internaționale. Pădurea este, de asemenea, un 
       en: ""
     },
     factsAdvanced: {
@@ -3111,7 +2947,7 @@ export const luxembourgNature = [
     id: "forest-eislek-forest",
     type: "forest",
     parent: "LU",
-    coords: [6.0160, 50.0500] as [number, number],
+    coords: [6.0160, 50.0500],
     name: {
       de: "Eislek-Wald",
       hu: "Eislek erdo",
@@ -3127,7 +2963,7 @@ export const luxembourgNature = [
     descriptionAdvanced: {
       de: "Der Éislek-Wald bezeichnet die weitläufigen, dichten Waldgebiete in den Luxemburger Ardennen im Norden des Landes. Diese Region ist stark bewaldet, wild und naturbelassen, geprägt von steilen Hängen und tief eingeschnittenen Flusstälern. Vorherrschend sind alte Eichen- und Buchenbestände, die Lebensraum für eine reiche Tierwelt, darunter Hirsche, Wildschweine und gelegentlich Wildkatzen, bieten. Die Region ist von großer wirtschaftlicher Bedeutung für die Forstwirtschaft und ein Magnet für den Ökotourismus. Ökosystem Wald ist ein fundamentales Thema für Biologie K7.",
       hu: "",
-      ro: "Pădurea Éislek se referă la zonele forestiere extinse și dense din Ardenele Luxemburgului, în nordul țării. Această regiune este puternic împădurită, sălbatică și naturală, caracterizată prin pante abrupte și văi adânci ale râurilor. Arboretele vechi de stejar și fag predomină, oferind habitat pentru o abundență de animale sălbatice, inclusiv căprioare, mistreți și ocazional pisici sălbatice. Regiunea are o mare importanță economică pentru silvicultură și un magnet pentru ecoturism. Ecosistemul forestier este o temă fundamentală pentru biologie K7.",
+      ro: "Pădurea Éislek se referă la zonele forestiere extinse și dense din Ardenele Luxemburgului, în nordul țării. Această regiune este puternic împădurită, sălbatică și naturală, caracterizată prin pante abrupte și văi adânci ale râurilor. Arboretele vechi de stejar și fag predomină, oferind habitat pentru o abundență de animale sălbatice, inclusiv căprioare, mistreți și ocazional pisici sălbatice. Regiunea are o mare 
       en: ""
     },
     factsAdvanced: {
@@ -3158,7 +2994,7 @@ export const luxembourgNature = [
     id: "agriculture-caves-st-martin",
     type: "agriculture",
     parent: "LU",
-    coords: [6.3488, 49.5355] as [number, number],
+    coords: [6.3488, 49.5355],
     name: {
       de: "Caves St. Martin",
       hu: "Caves St. Martin",
@@ -3205,7 +3041,7 @@ export const luxembourgNature = [
     id: "agriculture-caves-bernard-massard",
     type: "agriculture",
     parent: "LU",
-    coords: [6.4060, 49.6828] as [number, number],
+    coords: [6.4060, 49.6828],
     name: {
       de: "Caves Bernard-Massard",
       hu: "Caves Bernard-Massard",
@@ -3252,7 +3088,7 @@ export const luxembourgNature = [
     id: "agriculture-clos-des-rochers",
     type: "agriculture",
     parent: "LU",
-    coords: [6.4045, 49.6845] as [number, number],
+    coords: [6.4045, 49.6845],
     name: {
       de: "Clos des Rochers",
       hu: "Clos des Rochers",
@@ -3299,7 +3135,7 @@ export const luxembourgNature = [
     id: "industry-bofferding-brewery",
     type: "industry",
     parent: "LU",
-    coords: [5.9195, 49.5195] as [number, number],
+    coords: [5.9195, 49.5195],
     name: {
       de: "Bofferding Brauerei",
       hu: "Bofferding fozde",
@@ -3346,7 +3182,7 @@ export const luxembourgNature = [
     id: "industry-rumelange-mining-museum",
     type: "industry",
     parent: "LU",
-    coords: [6.0310, 49.4620] as [number, number],
+    coords: [6.0310, 49.4620],
     name: {
       de: "Rumelange Bergbaumuseum",
       hu: "Rumelange banyamuzeum",
@@ -3375,7 +3211,7 @@ export const luxembourgNature = [
       hu: [],
       ro: [
         "Vizitatorii merg pe o mică cale ferată cu ecartament îngust, adânc în vechile tuneluri ale minei.",
-        "Mina „Walert” din Rumelange a fost una dintre cele mai importante și mai mari din Luxemburg.",
+        "Mina „Walert” din Rumelange a fost una dintre cele mai 
         "Minereul de fier din regiune este cunoscut și sub numele de „minette” datorită oxidului său de fier roșcat.",
         "Muzeul prezintă dezvoltarea tehnologiei miniere de la lucru manual la mașini masive."
       ],
@@ -3393,7 +3229,7 @@ export const luxembourgNature = [
     id: "kid-landmark-parc-merveilleux",
     type: "kid-landmark",
     parent: "LU",
-    coords: [6.2060, 49.5310] as [number, number],
+    coords: [6.2060, 49.5310],
     name: {
       de: "Parc Merveilleux",
       hu: "Parc Merveilleux",
@@ -3440,7 +3276,7 @@ export const luxembourgNature = [
     id: "kid-landmark-luxembourg-science-center",
     type: "kid-landmark",
     parent: "LU",
-    coords: [5.8935, 49.5235] as [number, number],
+    coords: [5.8935, 49.5235],
     name: {
       de: "Luxembourg Science Center",
       hu: "Luxembourg Science Center",
@@ -3469,8 +3305,8 @@ export const luxembourgNature = [
       hu: [],
       ro: [
         "Centrul este situat în istoricul „Léierbud”, fostul atelier de formare în industria siderurgică.",
-        "Unul dintre cele mai importante este un generator de fulgere artificial (transformator Tesla).",
-        "Centrul acordă o mare importanță faptului că atingerea și participarea sunt strict încurajate.",
+        "Unul dintre cele mai 
+        "Centrul acordă o mare 
         "Multe explicații și spectacole sunt oferite în până la cinci limbi diferite."
       ],
       en: []
@@ -3487,7 +3323,7 @@ export const luxembourgNature = [
     id: "kid-landmark-escher-deierepark",
     type: "kid-landmark",
     parent: "LU",
-    coords: [5.9775, 49.5015] as [number, number],
+    coords: [5.9775, 49.5015],
     name: {
       de: "Escher Deierepark",
       hu: "Escher Deierepark",
@@ -3534,7 +3370,7 @@ export const luxembourgNature = [
     id: "kid-landmark-parc-leh",
     type: "kid-landmark",
     parent: "LU",
-    coords: [6.1115, 49.5468] as [number, number],
+    coords: [6.1115, 49.5468],
     name: {
       de: "Parc Leh",
       hu: "Parc Leh",
@@ -3582,7 +3418,7 @@ export const luxembourgNature = [
 luxembourgAllPoi.push(...luxembourgCities, ...luxembourgCulture, ...luxembourgNature);
 
 const luxembourgRound2BigSpecs = [
-  { id: "city-remich", type: "city", coords: [6.3667, 49.5456] as [number, number], name: { de: "Remich", hu: "Remich", ro: "Remich", en: "Remich" },
+  { id: "city-remich", type: "city", coords: [6.3667, 49.5456], name: { de: "Remich", hu: "Remich", ro: "Remich", en: "Remich" },
     descriptionAdvanced: {
       de: "Remich wird oft als die 'Perle der Mosel' bezeichnet und ist das touristische Zentrum der Luxemburger Weinstraße. Die charmante Stadt lockt mit einer kilometerlangen Flusspromenade, die von Linden gesäumt ist und zu entspannten Spaziergängen oder Bootsfahrten einlädt. Die steilen Weinberge im Hinterland prägen die lokale Wirtschaft, und die zahlreichen Kellereien bieten Verkostungen der exzellenten Moselweine an. Im Sommer vermittelt die Stadt mit ihren Cafés und Terrassen fast mediterranes Flair. Die Bedeutung des Tourismus an Flüssen ist ein Thema für Geografie K7.",
       hu: "",
@@ -3601,11 +3437,11 @@ const luxembourgRound2BigSpecs = [
         "După capitală, Remich are una dintre cele mai mari concentrații de restaurante din Luxemburg.",
         "Terenul de minigolf de pe Esplanada este unul dintre cele mai vechi și mai populare din țară.",
         "Un festival tradițional este parada lui Bacchus (Festivalul lui Bacchus) în august pentru a sărbători vinul.",
-        "În ciuda dimensiunilor sale mici, Remich are un mic, dar important port fluvial pentru navele de pasageri."
+        "În ciuda dimensiunilor sale mici, Remich are un mic, dar 
       ],
       en: []
     } },
-  { id: "city-steinfort", type: "city", coords: [5.9175, 49.6610] as [number, number], name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort" },
+  { id: "city-steinfort", type: "city", coords: [5.9175, 49.6610], name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort" },
     descriptionAdvanced: {
       de: "Steinfort ist eine charmante Grenzgemeinde im Westen Luxemburgs und bildet das Tor zur belgischen Provinz Luxemburg. Die Gemeinde erlebte im 19. Jahrhundert durch die Eisenerzverhüttung einen industriellen Aufschwung; das ehemalige Albel-Hüttenwerk mit seinem markanten Schornstein erinnert an diese Ära. Heute ist Steinfort vor allem als attraktives Wohngebiet mit dem Naherholungszentrum 'Mirador' und ausgedehnten Wäldern bekannt. Der Ort verbindet geschickt den Erhalt des industriellen Erbes mit modernem Naturschutz. Die Umnutzung von Industriebrachen ist Thema in Geografie K8.",
       hu: "",
@@ -3624,15 +3460,15 @@ const luxembourgRound2BigSpecs = [
         "Centrul de Conservare a Naturii Mirador este situat într-un fost complex industrial.",
         "Linia de cale ferată dezafectată a Linia Attert a fost transformată într-o pistă de biciclete populară.",
         "Vechea fierărie Steinfort a fost în funcțiune până în anii 1930.",
-        "Steinfort găzduiește una dintre cele mai importante stații de pompare a apei din țară."
+        "Steinfort găzduiește una dintre cele mai 
       ],
       en: []
     } },
-  { id: "city-bertrange", type: "city", coords: [6.0507, 49.6140] as [number, number], name: { de: "Bertrange", hu: "Bertrange", ro: "Bertrange", en: "Bertrange" },
+  { id: "city-bertrange", type: "city", coords: [6.0507, 49.6140], name: { de: "Bertrange", hu: "Bertrange", ro: "Bertrange", en: "Bertrange" },
     descriptionAdvanced: {
       de: "Bartringen (Bertrange) ist eine florierende Gemeinde westlich von Luxemburg-Stadt, die als eines der wichtigsten Handels- und Dienstleistungszentren des Landes gilt. Geprägt wird die Wirtschaft stark durch große Einkaufszentren wie die 'City Concorde', die täglich Tausende von Besuchern anziehen. Trotz dieser urbanen Entwicklung hat der historische Dorfkern mit dem alten Schloss Schauwenburg seinen dörflichen Charakter bewahrt. Das Thermalbad 'Les Thermes', das auf der Grenze zu Strassen liegt, ergänzt das Freizeitangebot. Suburbanisierungsprozesse werden in der Geografie K8 ausführlich behandelt.",
       hu: "",
-      ro: "Bartrange (Bertrange) este o municipalitate înfloritoare la vest de orașul Luxemburg, considerat unul dintre cele mai importante centre comerciale și de servicii ale țării. Economia este puternic influențată de marile centre comerciale precum „City Concorde”, care atrag mii de vizitatori în fiecare zi. În ciuda acestei dezvoltări urbane, centrul istoric al satului cu vechiul castel Schauwenburg și-a păstrat caracterul de sat. Baia termală „Les Thermes”, care se află la granița cu Strassen, completează activitățile de agrement. Procesele de suburbanizare sunt discutate în detaliu în Geografie K8.",
+      ro: "Bartrange (Bertrange) este o municipalitate înfloritoare la vest de orașul Luxemburg, considerat unul dintre cele mai 
       en: ""
     },
     factsAdvanced: {
@@ -3646,16 +3482,16 @@ const luxembourgRound2BigSpecs = [
       ro: [
         "Centrele comerciale din Bertrange sunt printre cele mai mari din țară ca suprafață.",
         "Castelul Schauwenburg găzduiește acum birourile administrației municipale.",
-        "Bartringen era deja un important nod de trafic pe drumul roman pe vremea romanilor.",
+        "Bartringen era deja un 
         "Municipalitatea are o rețea excelent dezvoltată de piste pentru biciclete (Vël'Ok)."
       ],
       en: []
     } },
-  { id: "city-dudelange", type: "city", coords: [6.0814, 49.4799] as [number, number], name: { de: "Dudelange", hu: "Dudelange", ro: "Dudelange", en: "Dudelange" },
+  { id: "city-dudelange", type: "city", coords: [6.0814, 49.4799], name: { de: "Dudelange", hu: "Dudelange", ro: "Dudelange", en: "Dudelange" },
     descriptionAdvanced: {
       de: "Düdelingen im tiefen Süden ist die viertgrößte Stadt Luxemburgs und war historisch eine der bedeutendsten Stahlmetropolen Europas. Das kolossale Erbe der Stahlindustrie prägt noch heute das Stadtbild, auch wenn viele der alten Industrieanlagen, wie das Viertel 'NeiSchmelz', in moderne Wohn- und Kulturquartiere umgewandelt werden. Heute positioniert sich Düdelingen als 'Stadt der Kulturen' mit dem Centre National de l'Audiovisuel (CNA) und zahlreichen Kunstausstellungen. Die soziale Geschichte der Arbeiterklasse und die Integration ausländischer Arbeiter ist ein wichtiges Thema in Geschichte K8.",
       hu: "",
-      ro: "Dudelange din sudul adânc este al patrulea oraș ca mărime din Luxemburg și a fost istoric una dintre cele mai importante metropole din oțel din Europa. Moștenirea colosală a industriei siderurgice modelează și astăzi peisajul urban, chiar dacă multe dintre vechile facilități industriale, cum ar fi cartierul „NeiSchmelz”, sunt transformate în cartiere rezidențiale și culturale moderne. Astăzi, Dudelange se poziționează ca un „oraș al culturilor” cu Centrul Național de l'Audiovisuel (CNA) și numeroase expoziții de artă. Istoria socială a clasei muncitoare și integrarea lucrătorilor străini este o temă importantă în Istoria K8.",
+      ro: "Dudelange din sudul adânc este al patrulea oraș ca mărime din Luxemburg și a fost istoric una dintre cele mai 
       en: ""
     },
     factsAdvanced: {
@@ -3674,11 +3510,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "city-schifflange", type: "city", coords: [6.0112, 49.5068] as [number, number], name: { de: "Schifflange", hu: "Schifflange", ro: "Schifflange", en: "Schifflange" },
+  { id: "city-schifflange", type: "city", coords: [6.0112, 49.5068], name: { de: "Schifflange", hu: "Schifflange", ro: "Schifflange", en: "Schifflange" },
     descriptionAdvanced: {
       de: "Schifflingen ist eine klassische Arbeiterstadt in der roten Minett-Region, die im Schatten des gewaltigen, stillgelegten Arbed-Stahlwerks liegt. Die Identität der Stadt ist tief mit der Schwerindustrie und der Gewerkschaftsbewegung verwurzelt; von hier gingen in den 1940er Jahren wichtige Streiks gegen die Besatzungsmacht aus. In den kommenden Jahren soll das brachliegende Hüttenareal in ein innovatives, klimaneutrales Stadtviertel transformiert werden. Der Wandel von der Schwerindustrie zu nachhaltigen Lebensräumen ist ein hervorragendes Fallbeispiel für Geografie K8.",
       hu: "",
-      ro: "Schiflingen este un oraș clasic al clasei muncitoare din regiunea roșie Minett, situat în umbra fabricii masive de oțel Arbed, dezafectate. Identitatea orașului este adânc înrădăcinată în industria grea și mișcarea sindicală; Greve importante împotriva puterii ocupante au venit de aici în anii 1940. În următorii ani, zona de cabane abandonate urmează să fie transformată într-un cartier urban inovator, neutru din punct de vedere climatic. Trecerea de la industria grea la spații de locuit durabile este un studiu de caz excelent pentru Geography K8.",
+      ro: "Schiflingen este un oraș clasic al clasei muncitoare din regiunea roșie Minett, situat în umbra fabricii masive de oțel Arbed, dezafectate. Identitatea orașului este adânc înrădăcinată în industria grea și mișcarea sindicală; Greve 
       en: ""
     },
     factsAdvanced: {
@@ -3697,7 +3533,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "city-kayl", type: "city", coords: [6.0391, 49.4879] as [number, number], name: { de: "Kayl", hu: "Kayl", ro: "Kayl", en: "Kayl" },
+  { id: "city-kayl", type: "city", coords: [6.0391, 49.4879], name: { de: "Kayl", hu: "Kayl", ro: "Kayl", en: "Kayl" },
     descriptionAdvanced: {
       de: "Kayl, tief im Süden an der französischen Grenze, ist eine Gemeinde, die eng mit der Geschichte des luxemburgischen Bergbaus verbunden ist. Auf den Hängen des 'Léiffrächen' erinnert das nationale Bergarbeiterdenkmal an die schwere und oft gefährliche Arbeit der Kumpel in den Eisenerzminen. Heute sind die ehemaligen Tagebaugebiete renaturiert und bilden ein ausgedehntes, rotes Canyon-Netzwerk, das als 'Minett Trail' bei Wanderern sehr beliebt ist. Die physischen und sozialen Auswirkungen des Bergbaus werden in Geografie und Geschichte K7 behandelt.",
       hu: "",
@@ -3720,7 +3556,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "city-mondorf-les-bains", type: "city", coords: [6.2812, 49.5039] as [number, number], name: { de: "Mondorf-les-Bains", hu: "Mondorf-les-Bains", ro: "Mondorf-les-Bains", en: "Mondorf-les-Bains" },
+  { id: "city-mondorf-les-bains", type: "city", coords: [6.2812, 49.5039], name: { de: "Mondorf-les-Bains", hu: "Mondorf-les-Bains", ro: "Mondorf-les-Bains", en: "Mondorf-les-Bains" },
     descriptionAdvanced: {
       de: "Bad Mondorf ist der einzige echte Kurort in Luxemburg und international bekannt für sein weitläufiges Thermalbad (Domaine Thermal). Die Thermalquellen, deren Wasser reich an Mineralien ist, wurden Mitte des 19. Jahrhunderts bei Probebohrungen entdeckt. Die Gemeinde besticht durch eine elegante Bäderarchitektur, den großen französischen Kurpark und das luxuriöse Casino 2000. Mondorf liegt direkt an der französischen Grenze und zieht Gesundheitstouristen aus der ganzen Großregion an. Die Entwicklung von Kurorten ist ein Thema für die Wirtschaftsgeografie K8.",
       hu: "",
@@ -3743,11 +3579,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "city-redange-sur-attert", type: "city", coords: [5.8909, 49.7669] as [number, number], name: { de: "Redange-sur-Attert", hu: "Redange-sur-Attert", ro: "Redange-sur-Attert", en: "Redange-sur-Attert" },
+  { id: "city-redange-sur-attert", type: "city", coords: [5.8909, 49.7669], name: { de: "Redange-sur-Attert", hu: "Redange-sur-Attert", ro: "Redange-sur-Attert", en: "Redange-sur-Attert" },
     descriptionAdvanced: {
       de: "Redingen an der Attert ist der Hauptort des ländlich geprägten Kantons Redingen im Westen des Landes. Die Kleinstadt liegt im Tal der Attert und dient als wichtiges landwirtschaftliches und schulisches Zentrum für die umliegende Region. Besonders bekannt ist Redingen als Geburtsort des prominenten europäischen Politikers Jean-Claude Juncker, des ehemaligen EU-Kommissionspräsidenten. Die Umgebung ist durch sanfte Hügel und ausgedehnte Bauernhöfe charakterisiert. Ländliche Räume und Agrarwirtschaft sind zentrale Themen im Fach Sachkunde K5.",
       hu: "",
-      ro: "Redingen an der Attert este capitala cantonului rural Redingen din vestul țării. Micul oraș se află în valea Attert și servește ca un important centru agricol și educațional pentru regiunea înconjurătoare. Redingen este cunoscut în special ca locul de naștere al proeminentului politician european Jean-Claude Juncker, fostul președinte al Comisiei UE. Zona înconjurătoare este caracterizată de dealuri și ferme extinse. Zonele rurale și agricultura sunt subiecte centrale în materia K5.",
+      ro: "Redingen an der Attert este capitala cantonului rural Redingen din vestul țării. Micul oraș se află în valea Attert și servește ca un 
       en: ""
     },
     factsAdvanced: {
@@ -3762,11 +3598,11 @@ const luxembourgRound2BigSpecs = [
         "Jean-Claude Juncker s-a născut în 1954 la Redingen.",
         "Piscina cantonală „Reidener Schwemm” este o atracție regională.",
         "Multă vreme regiunea a fost deservită de linia ferată Wark și Attert.",
-        "Agricultura, în special producția de lapte, este cea mai importantă industrie aici."
+        "Agricultura, în special producția de lapte, este cea mai 
       ],
       en: []
     } },
-  { id: "city-junglinster", type: "city", coords: [6.2512, 49.7080] as [number, number], name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster" },
+  { id: "city-junglinster", type: "city", coords: [6.2512, 49.7080], name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster" },
     descriptionAdvanced: {
       de: "Junglinster ist eine der flächenmäßig größten Gemeinden Luxemburgs und liegt landschaftlich reizvoll zwischen der Hauptstadt und der Region Müllerthal. Das markanteste Wahrzeichen ist die gigantische RTL-Sendeanlage mit ihren über 200 Meter hohen Sendemasten, die lange Zeit eines der stärksten Radiosignale Europas ausstrahlte. Das historische Zentrum wird von der imposanten Barockkirche St. Martin dominiert. Junglinster hat sich zu einer begehrten Wohngemeinde mit hoher Lebensqualität entwickelt. Technologie und Kommunikation werden in Physik K7 besprochen.",
       hu: "",
@@ -3789,11 +3625,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "city-mertert", type: "city", coords: [6.4810, 49.7415] as [number, number], name: { de: "Mertert", hu: "Mertert", ro: "Mertert", en: "Mertert" },
+  { id: "city-mertert", type: "city", coords: [6.4810, 49.7415], name: { de: "Mertert", hu: "Mertert", ro: "Mertert", en: "Mertert" },
     descriptionAdvanced: {
       de: "Mertert, an der Mündung der Syr in die Mosel gelegen, ist eine strategisch äußerst wichtige Stadt für die luxemburgische Wirtschaft. Hier befindet sich der einzige Flusshafen des Landes (Port de Mertert), der Luxemburg direkt an das europäische Wasserstraßennetz und den Rhein anbindet. Über diesen Hafen werden große Mengen an Treibstoff, Stahl und landwirtschaftlichen Gütern umgeschlagen. Neben seiner industriellen Bedeutung bietet Mertert auch wunderschöne Moselpromenaden und einen großen Park. Logistik und Wasserstraßen sind ein wichtiges Thema in Wirtschaft K8.",
       hu: "",
-      ro: "Mertert, situat la gura Syr și Moselle, este un oraș extrem de important din punct de vedere strategic pentru economia Luxemburgului. Aici se află singurul port fluvial al țării (Port de Mertert), care leagă Luxemburg direct de rețeaua europeană de căi navigabile și de Rin. Prin acest port sunt manipulate cantități mari de combustibil, oțel și produse agricole. Pe lângă importanța sa industrială, Mertert oferă și frumoase promenade din Moselle și un parc mare. Logistica și căile navigabile sunt un subiect important în Economie K8.",
+      ro: "Mertert, situat la gura Syr și Moselle, este un oraș extrem de 
       en: ""
     },
     factsAdvanced: {
@@ -3812,11 +3648,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "landmark-st-willibrord-basilica", type: "landmark", coords: [6.4190, 49.8146] as [number, number], name: { de: "St. Willibrord Basilika", hu: "Szent Willibrord bazilika", ro: "Bazilica Sfantului Willibrord", en: "St. Willibrord Basilica" },
+  { id: "landmark-st-willibrord-basilica", type: "landmark", coords: [6.4190, 49.8146], name: { de: "St. Willibrord Basilika", hu: "Szent Willibrord bazilika", ro: "Bazilica Sfantului Willibrord", en: "St. Willibrord Basilica" },
     descriptionAdvanced: {
       de: "Die Basilika St. Willibrord in Echternach ist das religiöse Zentrum Luxemburgs und ein Meisterwerk der romanischen Architektur. Gegründet vom angelsächsischen Mönch Willibrord, spiegelt sie Jahrhunderte von Glaube und Zerstörung wider; nach dem Zweiten Weltkrieg wurde sie originalgetreu wieder aufgebaut. Die Krypta aus dem 8. Jahrhundert beherbergt das kunstvolle Marmorgrab des Heiligen. Die angrenzenden Abteigebäude zeugen von der einstigen Macht des Klosters. Die Bedeutung von Klöstern im europäischen Mittelalter ist ein wichtiges Thema in Geschichte K7.",
       hu: "",
-      ro: "Bazilica Sf. Willibrord din Echternach este centrul religios al Luxemburgului și o capodopera a arhitecturii romanice. Fondată de călugărul anglo-saxon Willibrord, reflectă secole de credință și distrugere; După cel de-al Doilea Război Mondial, a fost reconstruit conform originalului. Cripta din secolul al VIII-lea găzduiește mormântul de marmură ornamentat al sfântului. Clădirile abației adiacente stau mărturie despre fosta putere a mănăstirii. Importanța mănăstirilor în Evul Mediu european este un subiect important în Istorie K7.",
+      ro: "Bazilica Sf. Willibrord din Echternach este centrul religios al Luxemburgului și o capodopera a arhitecturii romanice. Fondată de călugărul anglo-saxon Willibrord, reflectă secole de credință și distrugere; După cel de-al Doilea Război Mondial, a fost reconstruit conform originalului. Cripta din secolul al VIII-lea găzduiește mormântul de marmură ornamentat al sfântului. Clădirile abației adiacente stau mărturie despre fosta putere a mănăstirii. Importanța mănăstirilor în Evul Mediu european este un subiect 
       en: ""
     },
     factsAdvanced: {
@@ -3835,7 +3671,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "historical-neumunster-abbey", type: "historical", coords: [6.1338, 49.6147] as [number, number], name: { de: "Neumunster Abtei", hu: "Neumunster apatsag", ro: "Abatia Neumunster", en: "Neumunster Abbey" },
+  { id: "historical-neumunster-abbey", type: "historical", coords: [6.1338, 49.6147], name: { de: "Neumunster Abtei", hu: "Neumunster apatsag", ro: "Abatia Neumunster", en: "Neumunster Abbey" },
     descriptionAdvanced: {
       de: "Die Abtei Neumünster (Neimënster) ist ein majestätischer Gebäudekomplex im idyllischen Grund-Viertel von Luxemburg-Stadt, direkt am Ufer der Alzette. Ursprünglich im 17. Jahrhundert von Benediktinermönchen erbaut, erlebte die Abtei eine wechselvolle Geschichte: Sie diente zeitweise als Militärhospital, Kaserne und sogar als Männergefängnis. Heute ist sie ein pulsierendes Kulturzentrum und beherbergt Ausstellungen, Konzerte und Konferenzen. Die gelungene Transformation von einem Gefängnis zu einem Ort des kulturellen Austauschs ist ein Thema im Kunstunterricht K8.",
       hu: "",
@@ -3858,7 +3694,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "forest-bambesch", type: "forest", coords: [6.0910, 49.6260] as [number, number], name: { de: "Bambesch", hu: "Bambesch", ro: "Bambesch", en: "Bambesch" },
+  { id: "forest-bambesch", type: "forest", coords: [6.0910, 49.6260], name: { de: "Bambesch", hu: "Bambesch", ro: "Bambesch", en: "Bambesch" },
     descriptionAdvanced: {
       de: "Der Bambësch ist der größte und bekannteste Wald der Hauptstadt Luxemburg und fungiert als die 'grüne Lunge' der Metropole. Auf dem Rolligergrund gelegen, bietet dieses weitläufige Waldgebiet hunderte Kilometer an Wander-, Jogging- und Radwegen. Neben Erholung beherbergt der Wald historische Überreste der alten Festungsgürtel, alte Bunkeranlagen sowie große Spielplätze und Trimm-Dich-Pfade. Er ist von unschätzbarem Wert für die Lebensqualität der Stadtbewohner. Die Bedeutung von Stadtwäldern für das städtische Mikroklima wird in Geografie K8 behandelt.",
       hu: "",
@@ -3881,7 +3717,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "forest-grunewald", type: "forest", coords: [6.1480, 49.6185] as [number, number], name: { de: "Grunewald", hu: "Grunewald", ro: "Grunewald", en: "Grunewald" },
+  { id: "forest-grunewald", type: "forest", coords: [6.1480, 49.6185], name: { de: "Grunewald", hu: "Grunewald", ro: "Grunewald", en: "Grunewald" },
     descriptionAdvanced: {
       de: "Der Grünewald (Gréngewald) ist eines der größten zusammenhängenden Waldgebiete in Luxemburg und liegt größtenteils nordöstlich der Hauptstadt. Historisch gesehen war dieser Wald jahrhundertelang das exklusive Jagdrevier des luxemburgischen Großherzogs und später des Staates. Im Wald verbergen sich geheimnisvolle Quellen, wie die 'Raschpëtzer' – ein antikes römisches unterirdisches Aquädukt. Heute ist der Gréngewald ein streng geschütztes Naturschutzgebiet, das für seine alten Eichenbestände und Biodiversität berühmt ist. Das Ökosystem Wald wird detailliert in Biologie K7 besprochen.",
       hu: "",
@@ -3904,7 +3740,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "lake-haute-sure", type: "lake", coords: [5.8258, 49.9110] as [number, number], name: { de: "Stausee Obersauer", hu: "Felsosaueri tavat", ro: "Lacul de acumulare Haute-Sure", en: "Upper Sûre Lake" },
+  { id: "lake-haute-sure", type: "lake", coords: [5.8258, 49.9110], name: { de: "Stausee Obersauer", hu: "Felsosaueri tavat", ro: "Lacul de acumulare Haute-Sure", en: "Upper Sûre Lake" },
     descriptionAdvanced: {
       de: "Der Stausee Obersauer im Naturpark Obersauer in den Ardennen ist das größte Binnengewässer Luxemburgs. Der in den 1950er Jahren errichtete Staudamm nahe Esch-sur-Sûre staut den Fluss Sauer, um rund 70% der luxemburgischen Bevölkerung mit sauberem Trinkwasser zu versorgen. Gleichzeitig hat sich der See, der von dichten Wäldern und sanften Bergen umgeben ist, zum wichtigsten Zentrum für Wassersport und Ökotourismus entwickelt, wo Segeln, Tauchen und Schwimmen erlaubt sind. Die Bedeutung von Trinkwasserspeichern ist ein klassisches Thema für Geografie K8.",
       hu: "",
@@ -3927,7 +3763,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "lake-weiswampach", type: "lake", coords: [6.0824, 50.1062] as [number, number], name: { de: "Weiswampacher See", hu: "Weiswampach-to", ro: "Lacul Weiswampach", en: "Lake Weiswampach" },
+  { id: "lake-weiswampach", type: "lake", coords: [6.0824, 50.1062], name: { de: "Weiswampacher See", hu: "Weiswampach-to", ro: "Lacul Weiswampach", en: "Lake Weiswampach" },
     descriptionAdvanced: {
       de: "Die beiden künstlich angelegten Weiswampacher Seen liegen auf einem Hochplateau im äußersten Norden Luxemburgs und bilden das Herzstück der lokalen Freizeitinfrastruktur. Der obere See ist hauptsächlich den Anglern und Naturfreunden vorbehalten, während der untere See im Sommer als beliebter Badesee mit Sandstrand, Tretbootverleih und Wakeboard-Anlage dient. Die von Wald umgebenen Seen sind ein perfektes Beispiel für die touristische Aufwertung ländlicher Grenzregionen. Die Förderung von lokalem Tourismus wird in der Wirtschaftsgeografie K7 thematisiert.",
       hu: "",
@@ -3950,11 +3786,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "lake-remerschen-lakes", type: "lake", coords: [6.3498, 49.5190] as [number, number], name: { de: "Remerscher Weiher", hu: "Remerscheni tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes" },
+  { id: "lake-remerschen-lakes", type: "lake", coords: [6.3498, 49.5190], name: { de: "Remerscher Weiher", hu: "Remerscheni tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes" },
     descriptionAdvanced: {
       de: "Die Remerscher Weiher, lokal als 'Baggerweier' bekannt, sind eine Kette von Baggerseen nahe der Mosel, die durch den intensiven Sand- und Kiesabbau entstanden sind. Heute ist das Gebiet des 'Haff Réimech' ein duales Natur- und Freizeitzentrum. Während ein Teil der Seenkomplexe als beliebtes Freibad für die Sommermonate fungiert, bildet der andere Teil das wichtigste Feuchtbiotop Luxemburgs, in dem seltene Zugvögel nisten und überwintern. Im Biodiversum-Zentrum am See können Besucher mehr über die lokale Flora und Fauna erfahren. Naturschutz ist ein Schlüsselthema in Biologie K7.",
       hu: "",
-      ro: "Remerscher Weiher, cunoscut la nivel local sub numele de „Baggerweier”, este un lanț de iazuri de carieră în apropiere de Moselle, care au fost create de exploatarea intensivă a nisipului și pietrișului. Astăzi, zona „Haff Réimech” este un centru dublu de natură și agrement. În timp ce o parte a complexului lacului funcționează ca o piscină în aer liber populară pentru lunile de vară, cealaltă parte formează cel mai important biotop al zonelor umede din Luxemburg, unde păsările migratoare rare cuibăresc și iernează. La Centrul Biodiversum de pe malul lacului, vizitatorii pot afla mai multe despre flora și fauna locală. Conservarea este un subiect cheie în biologia K7.",
+      ro: "Remerscher Weiher, cunoscut la nivel local sub numele de „Baggerweier”, este un lanț de iazuri de carieră în apropiere de Moselle, care au fost create de exploatarea intensivă a nisipului și pietrișului. Astăzi, zona „Haff Réimech” este un centru dublu de natură și agrement. În timp ce o parte a complexului lacului funcționează ca o piscină în aer liber populară pentru lunile de vară, cealaltă parte formează cel mai 
       en: ""
     },
     factsAdvanced: {
@@ -3973,11 +3809,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "river-sure", type: "river", coords: [6.3290, 49.7250] as [number, number], name: { de: "Sauer", hu: "Sauer folyo", ro: "Sauer", en: "Sauer River" },
+  { id: "river-sure", type: "river", coords: [6.3290, 49.7250], name: { de: "Sauer", hu: "Sauer folyo", ro: "Sauer", en: "Sauer River" },
     descriptionAdvanced: {
       de: "Die Sauer (Sûre) ist der wasserreichste Fluss Luxemburgs. Sie entspringt in den belgischen Ardennen und durchquert das Land von West nach Ost, bevor sie bei Wasserbillig in die Mosel mündet. Im Norden staut sie sich zum imposanten Obersauer-Stausee, während ihr tiefer Mittellauf beeindruckende Mäander (Flussschleifen) um Burgen wie Bourscheid zieht. Die Sauer ist ein Lebensnerv für den luxemburgischen Naturtourismus und bietet erstklassige Reviere zum Fliegenfischen und Kanufahren. Fluvialgeomorphologie (Flussentwicklung) ist ein wichtiges Thema in Geografie K8.",
       hu: "",
-      ro: "Sauer (Sûre) este cel mai bogat râu din Luxemburg. Se ridică în Ardenele belgiene și traversează țara de la vest la est înainte de a se vărsa în Moselle lângă Wasserbillig. În nord, se acumulează pentru a forma impresionantul lac de acumulare Upper Sûre, în timp ce cursurile sale medii adânci creează meandre impresionante (bucle de râu) în jurul castelelor precum Bourscheid. Sauer este un motiv vital pentru turismul natural din Luxemburg și oferă zone de primă clasă pentru pescuitul cu muscă și canotaj. Geomorfologia fluvială (dezvoltarea râului) este un subiect important în Geografie K8.",
+      ro: "Sauer (Sûre) este cel mai bogat râu din Luxemburg. Se ridică în Ardenele belgiene și traversează țara de la vest la est înainte de a se vărsa în Moselle lângă Wasserbillig. În nord, se acumulează pentru a forma impresionantul lac de acumulare Upper Sûre, în timp ce cursurile sale medii adânci creează meandre impresionante (bucle de râu) în jurul castelelor precum Bourscheid. Sauer este un motiv vital pentru turismul natural din Luxemburg și oferă zone de primă clasă pentru pescuitul cu muscă și canotaj. Geomorfologia fluvială (dezvoltarea râului) este un subiect 
       en: ""
     },
     factsAdvanced: {
@@ -3996,11 +3832,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "river-moselle", type: "river", coords: [6.3565, 49.5395] as [number, number], name: { de: "Mosel", hu: "Mosel folyo", ro: "Mosela", en: "Moselle River" },
+  { id: "river-moselle", type: "river", coords: [6.3565, 49.5395], name: { de: "Mosel", hu: "Mosel folyo", ro: "Mosela", en: "Moselle River" },
     descriptionAdvanced: {
       de: "Die Mosel ist der wichtigste internationale Grenzfluss Luxemburgs und trennt das Land über 39 Kilometer von Deutschland. Sie ist der Lebensnerv der luxemburgischen Weinproduktion; an ihren steilen, klimatisch begünstigten Hängen gedeihen weltbekannte Rebsorten. Seit ihrer Kanalisierung in den 1960er Jahren ist die Mosel zudem die einzige für große Frachtschiffe befahrbare Wasserstraße des Landes, angebunden durch den Hafen Mertert. Die wirtschaftliche Bedeutung von Grenzflüssen und europäischer Binnenschifffahrt ist ein elementares Thema im Geografieunterricht K8.",
       hu: "",
-      ro: "Moselle este cel mai important fluviu internațional de graniță al Luxemburgului și separă țara de Germania cu peste 39 de kilometri. Este sânul vital al producției de vin din Luxemburg; Soiurile de struguri de renume mondial prosperă pe pantele sale abrupte, favorabile din punct de vedere climatic. De la canalizarea sa în anii 1960, Moselle a fost, de asemenea, singura cale navigabilă din țară care este navigabilă pentru navele mari de marfă, conectate prin portul Mertert. Importanța economică a râurilor de frontieră și a transporturilor maritime europene interioare este un subiect elementar în lecțiile de geografie K8.",
+      ro: "Moselle este cel mai 
       en: ""
     },
     factsAdvanced: {
@@ -4019,7 +3855,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "river-ernz-noire", type: "river", coords: [6.2850, 49.7890] as [number, number], name: { de: "Schwarze Ernz", hu: "Fekete Ernz", ro: "Ernz Neagra", en: "Black Ernz" },
+  { id: "river-ernz-noire", type: "river", coords: [6.2850, 49.7890], name: { de: "Schwarze Ernz", hu: "Fekete Ernz", ro: "Ernz Neagra", en: "Black Ernz" },
     descriptionAdvanced: {
       de: "Die Schwarze Ernz (Ernz Noire) ist ein kleiner, aber spektakulärer Fluss, der durch die zerklüfteten Sandsteinlandschaften des Müllerthals (Kleine Luxemburger Schweiz) fließt. Über Jahrtausende hat sie tiefe Schluchten, romantische Wasserfälle wie den berühmten Schiessentümpel und verwunschene Täler geschaffen. Das dunkle, moosbewachsene Bett des Flusses, umgeben von dichtem Wald, gibt dem Fluss seinen Namen. Die Erosionskraft kleiner Gewässer auf weiches Sandsteingestein wird ausführlich in der physischen Geografie K7 behandelt.",
       hu: "",
@@ -4042,7 +3878,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "agriculture-domaine-vinsmoselle-remerschen", type: "agriculture", coords: [6.3492, 49.5178] as [number, number], name: { de: "Domaine Vinsmoselle Remerschen", hu: "Domaine Vinsmoselle Remerschen", ro: "Domaine Vinsmoselle Remerschen", en: "Domaine Vinsmoselle Remerschen" },
+  { id: "agriculture-domaine-vinsmoselle-remerschen", type: "agriculture", coords: [6.3492, 49.5178], name: { de: "Domaine Vinsmoselle Remerschen", hu: "Domaine Vinsmoselle Remerschen", ro: "Domaine Vinsmoselle Remerschen", en: "Domaine Vinsmoselle Remerschen" },
     descriptionAdvanced: {
       de: "Die Domaine Vinsmoselle in Remerschen (Caves de Wormeldange/Remerschen) ist ein Teil der größten Winzergenossenschaft Luxemburgs. Sie vereint die Kraft von Hunderten kleiner Weinbauern entlang der Mosel, um Qualitätsweine auf internationalem Niveau zu produzieren. Das Haus in Remerschen besticht durch seine hochmoderne Produktionsanlage und das lichtdurchflutete Besucherzentrum inmitten der Weinberge. Besondere Beachtung finden hier die Rebsorten Pinot Blanc, Pinot Gris und der renommierte Crémant Poll-Fabaire. Das Genossenschaftsmodell in der Landwirtschaft ist ein klassisches Wirtschaftsthema für K8.",
       hu: "",
@@ -4065,7 +3901,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "agriculture-domaine-mathis-bastian-remich", type: "agriculture", coords: [6.3636, 49.5399] as [number, number], name: { de: "Domaine Mathis Bastian", hu: "Domaine Mathis Bastian", ro: "Domaine Mathis Bastian", en: "Domaine Mathis Bastian" },
+  { id: "agriculture-domaine-mathis-bastian-remich", type: "agriculture", coords: [6.3636, 49.5399], name: { de: "Domaine Mathis Bastian", hu: "Domaine Mathis Bastian", ro: "Domaine Mathis Bastian", en: "Domaine Mathis Bastian" },
     descriptionAdvanced: {
       de: "Die Domaine Mathis Bastian, gelegen an den Hängen über Remich, ist ein familiengeführtes Premiumweingut, das für exzellente handwerkliche Weinbaukunst steht. Das Weingut legt den Fokus auf strenge Ertragsreduzierung und nachhaltige Anbaumethoden, um extrem hochwertige Rieslinge und elegante Auxerrois-Weine zu erzeugen. Der Weinkeller bietet Besuchern nicht nur eine intime Atmosphäre für Verkostungen, sondern auch einen atemberaubenden Blick über das weite Moseltal. Der Unterschied zwischen industriellem und privatem Premiumweinbau ist ein interessantes Thema für die Wirtschaftsgeografie K7.",
       hu: "",
@@ -4088,7 +3924,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "agriculture-clos-mon-vieux-moulin", type: "agriculture", coords: [6.4090, 49.6838] as [number, number], name: { de: "Clos Mon Vieux Moulin", hu: "Clos Mon Vieux Moulin", ro: "Clos Mon Vieux Moulin", en: "Clos Mon Vieux Moulin" },
+  { id: "agriculture-clos-mon-vieux-moulin", type: "agriculture", coords: [6.4090, 49.6838], name: { de: "Clos Mon Vieux Moulin", hu: "Clos Mon Vieux Moulin", ro: "Clos Mon Vieux Moulin", en: "Clos Mon Vieux Moulin" },
     descriptionAdvanced: {
       de: "Clos Mon Vieux Moulin ist ein historisches Familienweingut in Ahn, einem der prestigeträchtigsten Weindörfer an der Mosel. Das Gut befindet sich auf dem Gelände einer alten Mühle und nutzt die exzellenten Steillagen, insbesondere den 'Palmberg', um finessenreiche und mineralische Rieslinge zu kultivieren. Die Familie Duhr führt die Tradition bereits in der 11. Generation weiter, kombiniert aber altes Wissen mit modernster Kellereitechnik. Die Bedeutung des Terroirs (Boden und Mikroklima) in der Landwirtschaft wird im Fach Biologie und Geografie K8 behandelt.",
       hu: "",
@@ -4111,7 +3947,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "industry-arcelormittal-belval", type: "industry", coords: [5.9475, 49.5120] as [number, number], name: { de: "ArcelorMittal Belval", hu: "ArcelorMittal Belval", ro: "ArcelorMittal Belval", en: "ArcelorMittal Belval" },
+  { id: "industry-arcelormittal-belval", type: "industry", coords: [5.9475, 49.5120], name: { de: "ArcelorMittal Belval", hu: "ArcelorMittal Belval", ro: "ArcelorMittal Belval", en: "ArcelorMittal Belval" },
     descriptionAdvanced: {
       de: "Das ArcelorMittal Stahlwerk in Belval (Esch-sur-Alzette) ist das Herzstück der modernen luxemburgischen Stahlindustrie. Während früher große Hochöfen die Skyline dominierten, nutzt das moderne Werk heute ressourcenschonende Elektrolichtbogenöfen zur Produktion schwerer Stahlträger. Der von ArcelorMittal in Belval hergestellte Stahl wird weltweit verbaut, unter anderem im Freedom Tower in New York. Die Anlage steht direkt neben den stillgelegten historischen Hochöfen und der Universität, ein Sinnbild für Vergangenheit und Zukunft. Die Transformation der Schwerindustrie ist Lehrstoff in Geografie K8.",
       hu: "",
@@ -4134,11 +3970,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "industry-minett-park-fond-de-gras", type: "industry", coords: [5.8530, 49.5407] as [number, number], name: { de: "Minett Park Fond-de-Gras", hu: "Minett Park Fond-de-Gras", ro: "Minett Park Fond-de-Gras", en: "Minett Park Fond-de-Gras" },
+  { id: "industry-minett-park-fond-de-gras", type: "industry", coords: [5.8530, 49.5407], name: { de: "Minett Park Fond-de-Gras", hu: "Minett Park Fond-de-Gras", ro: "Minett Park Fond-de-Gras", en: "Minett Park Fond-de-Gras" },
     descriptionAdvanced: {
       de: "Der Minett Park Fond-de-Gras ist ein Freilichtmuseum im Süden Luxemburgs, das die Ära des Eisenerzabbaus (Minett) eindrucksvoll zum Leben erweckt. Das Gelände war bis Mitte des 20. Jahrhunderts einer der wichtigsten Verladebahnhöfe für das rote Eisenerz. Besucher können heute in historischen Dampfzügen ('Train 1900') oder einer kleinen Grubenbahn ('Minièresbunn') fahren und alte Fördertürme, Arbeiterwohnungen und Krämerläden besichtigen. Dieses interaktive Erbe der industriellen Revolution eignet sich hervorragend als Studienobjekt für Geschichte und Sachkunde K6.",
       hu: "",
-      ro: "Parcul Minett Fond-de-Gras este un muzeu în aer liber din sudul Luxemburgului, care aduce la viață în mod impresionant epoca minereului de fier (Minett). Situl a fost una dintre cele mai importante stații de încărcare a minereului de fier roșu până la mijlocul secolului al XX-lea. Astăzi, vizitatorii se pot urca în trenurile istorice cu abur (",
+      ro: "Parcul Minett Fond-de-Gras este un muzeu în aer liber din sudul Luxemburgului, care aduce la viață în mod impresionant epoca minereului de fier (Minett). Situl a fost una dintre cele mai 
       en: ""
     },
     factsAdvanced: {
@@ -4157,7 +3993,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "kid-landmark-paiperleksgaart", type: "kid-landmark", coords: [6.4410, 49.6768] as [number, number], name: { de: "Papierlkesgaart", hu: "Papierlkesgaart", ro: "Papierlkesgaart", en: "Papierlkesgaart" },
+  { id: "kid-landmark-paiperleksgaart", type: "kid-landmark", coords: [6.4410, 49.6768], name: { de: "Papierlkesgaart", hu: "Papierlkesgaart", ro: "Papierlkesgaart", en: "Papierlkesgaart" },
     descriptionAdvanced: {
       de: "Der Päiperleksgaart (Schmetterlingsgarten) in Grevenmacher ist eine faszinierende, tropische Oase direkt an der luxemburgischen Mosel. In einem speziell klimatisierten Gewächshaus können Familien Hunderte exotische Schmetterlinge bewundern, die frei zwischen tropischen Pflanzen umherfliegen. Der Park bietet zudem Einblicke in den Lebenszyklus der Tiere – von der Raupe über die Puppe bis zum Schlüpfen. Neben Schmetterlingen leben auch Chamäleons und verschiedene Insektenarten im Garten. Die Metamorphose von Insekten ist ein klassisches und faszinierendes Thema im Fach Sachkunde K3 und K4.",
       hu: "",
@@ -4167,20 +4003,20 @@ const luxembourgRound2BigSpecs = [
     factsAdvanced: {
       de: [
         "Der Tropengarten wird konstant auf rund 27 Grad Celsius und 70% Luftfeuchtigkeit gehalten.",
-        "Viele Schmetterlingspuppen werden direkt aus Zuchtfarmen in Südamerika und Asien importiert.",
+        "Viele Schmetterlingspuppen werden direkt aus Zuchtfarmen in Südamerika und Asien 
         "Betrieben wird der Garten von Yolande COOP, einer Organisation zur Integration behinderter Menschen.",
         "Besucher können das magische Schlüpfen der Schmetterlinge aus ihren Kokons live beobachten.",
       ],
       hu: [],
       ro: [
         "Grădina tropicală este menținută constant la aproximativ 27 de grade Celsius și 70% umiditate.",
-        "Multe pupe de fluturi sunt importate direct din fermele de reproducție din America de Sud și Asia.",
+        "Multe pupe de fluturi sunt 
         "Grădina este condusă de Yolande COOP, o organizație pentru integrarea persoanelor cu dizabilități.",
         "Vizitatorii pot urmări în direct eclozionarea magică a fluturilor din coconii lor."
       ],
       en: []
     } },
-  { id: "kid-landmark-syrdall-schwemm", type: "kid-landmark", coords: [6.2580, 49.6600] as [number, number], name: { de: "Syrdall Schwemm", hu: "Syrdall Schwemm", ro: "Syrdall Schwemm", en: "Syrdall Schwemm" },
+  { id: "kid-landmark-syrdall-schwemm", type: "kid-landmark", coords: [6.2580, 49.6600], name: { de: "Syrdall Schwemm", hu: "Syrdall Schwemm", ro: "Syrdall Schwemm", en: "Syrdall Schwemm" },
     descriptionAdvanced: {
       de: "Die Syrdall Schwemm ist ein modernes, familienfreundliches Freizeit- und Erlebnisbad in der Gemeinde Niederanven. Bekannt ist das Bad vor allem für seine beeindruckende Architektur mit einem großen Glasdach, das viel Tageslicht hineinlässt. Für Familien bietet das Bad Riesenrutschen, Strömungskanäle und großzügige Kinderbecken. Gleichzeitig steht Sportlern ein großes Schwimmbecken zur Verfügung. Das Bad nutzt modernste ökologische Technologien, um den Energieverbrauch der Wasseraufbereitung zu minimieren. Wasser als Freizeitelement wird oft im Sport- und Schwimmunterricht K5 behandelt.",
       hu: "",
@@ -4203,11 +4039,11 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "kid-landmark-aquatower-berdorf", type: "kid-landmark", coords: [6.3458, 49.8225] as [number, number], name: { de: "Aquatower Berdorf", hu: "Aquatower Berdorf", ro: "Aquatower Berdorf", en: "Aquatower Berdorf" },
+  { id: "kid-landmark-aquatower-berdorf", type: "kid-landmark", coords: [6.3458, 49.8225], name: { de: "Aquatower Berdorf", hu: "Aquatower Berdorf", ro: "Aquatower Berdorf", en: "Aquatower Berdorf" },
     descriptionAdvanced: {
       de: "Der Aquatower in Berdorf ist ein 50 Meter hoher, futuristisch anmutender Wasserturm, der gleichzeitig als Bildungszentrum und Aussichtsplattform dient. In über 30 Metern Höhe befindet sich eine multimediale Ausstellung, die Besuchern alles über Trinkwassergewinnung, Grundwasserschutz und die Geologie der Müllerthal-Region erklärt. Neben dem Wissen bietet die Plattform einen atemberaubenden 360-Grad-Blick über die weiten Wälder der 'Kleinen Luxemburger Schweiz'. Der Wasserkreislauf und die Bedeutung von sauberem Trinkwasser sind essentielle Themen im Fach Geografie K6 und Physik K7.",
       hu: "",
-      ro: "Aquatower din Berdorf este un turn de apă de 50 de metri înălțime, cu aspect futurist, care servește și ca centru educațional și platformă de vizionare. La o înălțime de peste 30 de metri există o expoziție multimedia care explică vizitatorilor totul despre producția de apă potabilă, protecția apelor subterane și geologia regiunii Müllerthal. Pe lângă cunoștințe, platforma oferă o vedere uluitoare de 360 ​​de grade asupra pădurilor vaste din „Mica Elveție a Luxemburgului”. Ciclul apei și importanța apei potabile curate sunt subiecte esențiale în Geografie K6 și Fizică K7.",
+      ro: "Aquatower din Berdorf este un turn de apă de 50 de metri înălțime, cu aspect futurist, care servește și ca centru educațional și platformă de vizionare. La o înălțime de peste 30 de metri există o expoziție multimedia care explică vizitatorilor totul despre producția de apă potabilă, protecția apelor subterane și geologia regiunii Müllerthal. Pe lângă cunoștințe, platforma oferă o vedere uluitoare de 360 ​​de grade asupra pădurilor vaste din „Mica Elveție a Luxemburgului”. Ciclul apei și 
       en: ""
     },
     factsAdvanced: {
@@ -4226,7 +4062,7 @@ const luxembourgRound2BigSpecs = [
       ],
       en: []
     } },
-  { id: "kid-landmark-vianden-chairlift", type: "kid-landmark", coords: [6.2105, 49.9354] as [number, number], name: { de: "Viandener Sessellift", hu: "Viandeni libego", ro: "Telecabina Vianden", en: "Vianden Chairlift" },
+  { id: "kid-landmark-vianden-chairlift", type: "kid-landmark", coords: [6.2105, 49.9354], name: { de: "Viandener Sessellift", hu: "Viandeni libego", ro: "Telecabina Vianden", en: "Vianden Chairlift" },
     descriptionAdvanced: {
       de: "Der Viandener Sessellift (Télésiège) ist die einzige Seilbahn in ganz Luxemburg und eine der Hauptattraktionen der historischen Stadt Vianden im Our-Tal. Er bringt Touristen und Familien von dem tief im Tal gelegenen Ort hinauf auf eine Höhe von 440 Metern zum Aussichtspunkt am 'Treidel'. Während der gemächlichen Fahrt schweben die Passagiere direkt über die Our und haben einen unvergleichlichen Panoramablick auf die imposante Burg Vianden und den Staudamm. Die Technik von Seilbahnen kann als Einführung in einfache Maschinen für Physik K6 genutzt werden.",
       hu: "",

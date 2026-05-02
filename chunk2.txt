@@ -1,0 +1,40 @@
+city-olomouc|Olmütz
+city-hradec-kralove|Königgrätz
+city-pardubice|Pardubitz
+city-zlin|Zlin
+city-jihlava|Iglau
+city-ceske-budejovice|Budweis
+city-usti-nad-labem|Aussig an der Elbe
+city-tabor|Tabor
+city-cheb|Cheb
+city-as|As
+city-domazlice|Domazlice
+city-tachov|Tachau
+city-zatec|Saaz
+city-litomerice|Litomerice
+city-decin|Decin
+city-trutnov|Trutnov
+city-nachod|Nachod
+city-trebic|Trebic
+city-mikulov|Mikulov
+city-valtice|Valtice
+city-breclav|Lundenburg
+city-uherske-hradiste|Uherske Hradiste
+city-frydek-mistek|Frydek-Mistek
+cult-charles-bridge|Karlsbrücke
+cult-prague-castle|Prager Burg
+cult-karlstejn|Burg Karlstein
+cult-kutna-hora|Kutná Hora - Sedlec
+historical-telc|Teltsch
+historical-kromeriz|Kromau
+historical-litomysl|Leitomischl
+historical-zdar-nad-sazavou|Saar an der Sázava
+historical-kuks|Kuks
+historical-white-mountain|Weißer Berg
+historical-konopiste|Burg Konopiště
+historical-trosky|Burg Trosky
+cz-national-museum-prague|Nationalmuseum Prag
+landmark-dancing-house|Tanzendes Haus
+landmark-zizkov-tower|Fernsehturm Žižkov
+landmark-st-vitus-cathedral|Veitsdom
+landmark-villa-tugendhat|Villa Tugendhat

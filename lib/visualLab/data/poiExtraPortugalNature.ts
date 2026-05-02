@@ -21,7 +21,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Constă din insula principală Berlenga Grande și insule mai mici.", "Apele sunt bogate în viață marină, fiind un loc popular pentru scufundări.", "Fortul São João Baptista este un punct de reper."],
       en: ["Consists of the main island of Berlenga Grande and smaller islets.", "The waters are rich in marine life, being a popular diving spot.", "The Fort of São João Baptista is a landmark."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The archipelago is a highly vital breeding ground for the rare Cory's shearwater and thousands of seagulls.", "Access to the main island is strictly limited by a daily quota to protect the fragile ecosystem.", "The surrounding waters are exceptionally rich in marine biodiversity, attracting divers from all over Europe.", "The islands feature a stark, dramatic 17th-century fortress connected to the mainland only by a narrow stone bridge."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The archipelago is a highly vital breeding ground for the rare Cory's shearwater and thousands of seagulls.","Access to the main island is strictly limited by a daily quota to protect the fragile ecosystem.","The surrounding waters are exceptionally rich in marine biodiversity, attracting divers from all over Europe.","The islands feature a stark, dramatic 17th-century fortress connected to the mainland only by a narrow stone bridge."] }
   },
   {
     id: "kid-landmark-krazy-world-zoo-extra",
@@ -63,7 +63,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Găzduiește o floră rară, găsită doar în această regiune.", "Plajele Galapinhos și Portinho da Arrábida sunt renumite.", "Un paradis pentru drumeți și fotografi."],
       en: ["Home to rare flora only found in this region.", "The beaches of Galapinhos and Portinho da Arrábida are famous.", "A paradise for hikers and photographers."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park is famously home to one of the rarest and oldest examples of Mediterranean maquis scrubland in Europe.", "A stark, whitewashed 16th-century Franciscan monastery is perfectly hidden among the dense vegetation on the hillside.", "The waters of the Arrábida coast are a highly protected marine reserve, rich in diverse underwater life.", "The scenic, winding road running along the top of the ridge offers some of the most breathtaking panoramic views in the country."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park is famously home to one of the rarest and oldest examples of Mediterranean maquis scrubland in Europe.","A stark, whitewashed 16th-century Franciscan monastery is perfectly hidden among the dense vegetation on the hillside.","The waters of the Arrábida coast are a highly protected marine reserve, rich in diverse underwater life.","The scenic, winding road running along the top of the ridge offers some of the most breathtaking panoramic views in the country."] }
   },
   {
     id: "animal-habitat-sado-estuary-dolphins-extra",
@@ -105,7 +105,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Fondat în anii 1940.", "Educativ și distractiv pentru copii și adulți.", "Împărțit în diferite zone tematice, inclusiv fostele colonii."],
       en: ["Founded in the 1940s.", "Educational and fun for both children and adults.", "Divided into different thematic areas, including the former colonies."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park was originally designed by the highly influential Portuguese architect Cassiano Branco.", "It features meticulously detailed, child-sized versions of massive monuments like the Jerónimos Monastery and the Tower of Belém.", "The park is officially the oldest continuously operating theme park in Portugal, having opened in 1940.", "Proceeds from the park's ticket sales directly support the Bissaya Barreto Foundation, a prominent local social charity."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park was originally designed by the highly influential Portuguese architect Cassiano Branco.","It features meticulously detailed, child-sized versions of massive monuments like the Jerónimos Monastery and the Tower of Belém.","The park is officially the oldest continuously operating theme park in Portugal, having opened in 1940.","Proceeds from the park's ticket sales directly support the Bissaya Barreto Foundation, a prominent local social charity."] }
   },
   {
     id: "nature-lagoa-do-fogo-azores-extra",
@@ -126,7 +126,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Numele înseamnă 'Lacul de Foc'.", "Oferă priveliști spectaculoase de pe marginile înconjurătoare.", "Traseele de drumeție coboară până la malul lacului."],
       en: ["The name means 'Lake of Fire'.", "Offers spectacular views from the surrounding rims.", "Hiking trails lead down to the lake's shore."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The colossal volcanic eruption that formed the current caldera occurred relatively recently, in 1563.", "Lagoa do Fogo is a strictly protected nature reserve, completely devoid of any modern buildings or tourist infrastructure.", "The steep hike down to the lake's pumice beaches is considered one of the most rewarding trails on the island.", "The pristine lake provides a highly important nesting ground for significant colonies of local seagulls."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The colossal volcanic eruption that formed the current caldera occurred relatively recently, in 1563.","Lagoa do Fogo is a strictly protected nature reserve, completely devoid of any modern buildings or tourist infrastructure.","The steep hike down to the lake's pumice beaches is considered one of the most rewarding trails on the island.","The pristine lake provides a highly important nesting ground for significant colonies of local seagulls."] }
   },
   {
     id: "forest-madeira-laurisilva-forest-extra",
@@ -147,7 +147,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Acoperă aproximativ 20% din insula Madeira.", "Caracterizată de o rețea de canale de irigații numite 'levadas'.", "Găzduiește multe specii de plante și animale endemice."],
       en: ["Covers about 20% of Madeira island.", "Characterized by a network of irrigation channels called 'levadas'.", "Home to many endemic species of flora and fauna."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The forest is estimated to be over 15 million years old, a true living fossil of ancient European ecosystems.", "It covers approximately 20% of the entire island of Madeira, mostly clinging to the inaccessible northern slopes.", "The highly endangered Madeira long-toed pigeon is an endemic bird species found nowhere else on Earth.", "The Laurisilva's complex root systems prevent soil erosion and naturally filter the island's pure drinking water."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The forest is estimated to be over 15 million years old, a true living fossil of ancient European ecosystems.","It covers approximately 20% of the entire island of Madeira, mostly clinging to the inaccessible northern slopes.","The highly endangered Madeira long-toed pigeon is an endemic bird species found nowhere else on Earth.","The Laurisilva's complex root systems prevent soil erosion and naturally filter the island's pure drinking water."] }
   },
   {
     id: "animal-habitat-lince-iberico-breeding-center-extra",
@@ -189,7 +189,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Deschis în timpul lunilor de vară.", "De asemenea, prezintă spectacole cu păsări de pradă și reptile.", "Un clasic pentru familiile care vizitează Algarve."],
       en: ["Open during the summer months.", "Also features animal shows with birds of prey and reptiles.", "A classic for families visiting the Algarve."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park opened in 1986 and has continuously expanded to become a major pillar of Algarve family tourism.", "One of its most famous attractions, the 'Kamikaze', features an intense, heart-stopping 20-meter vertical drop.", "The park operates entirely on advanced water recycling systems to minimize its environmental footprint.", "Slide & Splash frequently incorporates live animal shows, aiming to educate visitors about wildlife conservation."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park opened in 1986 and has continuously expanded to become a major pillar of Algarve family tourism.","One of its most famous attractions, the 'Kamikaze', features an intense, heart-stopping 20-meter vertical drop.","The park operates entirely on advanced water recycling systems to minimize its environmental footprint.","Slide & Splash frequently incorporates live animal shows, aiming to educate visitors about wildlife conservation."] }
   },
   {
     id: "nature-ponta-da-piedade-grottoes-extra",
@@ -210,7 +210,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Lumina aurie a apusului accentuează culorile stâncilor.", "Un far se află pe promontoriu.", "Caiacul este o modalitate populară de a explora grotele."],
       en: ["The golden light of sunset enhances the colors of the cliffs.", "A lighthouse stands on the headland.", "Kayaking is a popular way to explore the grottoes."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["Local fishermen have playfully given names to many of the rock formations, such as 'The Elephant', 'The Kissing Couple', and 'The Camel'.", "A steep, dizzying staircase consisting of 182 steps leads visitors down the cliff face directly to the water's edge.", "The unique geological formations are composed entirely of highly porous, sedimentary Miocene limestone.", "The top of the cliffs is crowned by a historic lighthouse, guiding ships safely around the treacherous rocky point."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Local fishermen have playfully given names to many of the rock formations, such as 'The Elephant', 'The Kissing Couple', and 'The Camel'.","A steep, dizzying staircase consisting of 182 steps leads visitors down the cliff face directly to the water's edge.","The unique geological formations are composed entirely of highly porous, sedimentary Miocene limestone.","The top of the cliffs is crowned by a historic lighthouse, guiding ships safely around the treacherous rocky point."] }
   },
   {
     id: "animal-habitat-tapada-nacional-de-mafra-extra",
@@ -231,7 +231,7 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Creat în secolul al XVIII-lea de regele Ioan al V-lea.", "Oferă trasee de drumeții și ciclism montan.", "Un exemplu de conservare a florei și faunei portugheze."],
       en: ["Created in the 18th century by King John V.", "Offers hiking and mountain biking trails.", "An example of Portuguese flora and fauna conservation."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The entire 8-square-kilometer perimeter is still enclosed by the original 18th-century stone wall built by the King.", "It serves as an incredibly important sanctuary for several endangered raptor species, including the massive Bonelli's eagle.", "During the autumn mating season (the rut), the forest echoes with the powerful, resonating roars of the stags.", "The reserve features a specialized falconry center dedicated to the rehabilitation and training of birds of prey."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The entire 8-square-kilometer perimeter is still enclosed by the original 18th-century stone wall built by the King.","It serves as an incredibly important sanctuary for several endangered raptor species, including the massive Bonelli's eagle.","During the autumn mating season (the rut), the forest echoes with the powerful, resonating roars of the stags.","The reserve features a specialized falconry center dedicated to the rehabilitation and training of birds of prey."] }
   },
   {
     id: "kid-landmark-dino-parque-lourinha-extra",
@@ -252,6 +252,6 @@ export const poiExtraPortugalNature: POI[] = [
       ro: ["Lourinhã este cunoscută pentru descoperirile sale bogate de fosile de dinozaur.", "Parcul are patru trasee diferite care reprezintă perioade din istoria Pământului.", "Include și un muzeu cu fosile reale."],
       en: ["Lourinhã is known for its rich dinosaur fossil discoveries.", "The park has four different trails representing periods of Earth's history.", "Also includes a museum with real fossils."]
     },
-    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park includes a full-scale model of the massive 'Supersaurus', stretching an incredible 45 meters in length.", "Lourinhã is famously the site where scientists discovered the nests and fossilized embryos of late Jurassic dinosaurs.", "The models were developed in strict collaboration with leading paleontologists to ensure maximum scientific accuracy.", "Children can actively participate in highly realistic, simulated fossil excavation activities in large sand pits."] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["The park includes a full-scale model of the massive 'Supersaurus', stretching an incredible 45 meters in length.","Lourinhã is famously the site where scientists discovered the nests and fossilized embryos of late Jurassic dinosaurs.","The models were developed in strict collaboration with leading paleontologists to ensure maximum scientific accuracy.","Children can actively participate in highly realistic, simulated fossil excavation activities in large sand pits."] }
   }
 ];

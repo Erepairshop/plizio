@@ -1,263 +1,100 @@
-{
-  "poland": {
-    "description": "Polonia este o țară cu o moștenire istorică profundă, situată la răscrucea dintre Europa de Est și cea de Vest. Peisajul său variază de la plajele nisipoase ale Mării Baltice în nord, la lanțurile muntoase impunătoare, cum ar fi Munții Tatra, în sud. După distrugerile masive din timpul celui de-al Doilea Război Mondial, națiunea a trecut printr-o reconstrucție impresionantă, păstrându-și identitatea culturală. Astăzi, Polonia se remarcă printr-o economie vibrantă, castele medievale bine conservate și păduri virgine neatinse. Orașe precum Varșovia și Cracovia împletesc arhitectura istorică cu dinamismul modern. (Geografie K7 — Europa Centrală și peisajele sale)",
-    "facts": [
-      "Polonia găzduiește Pădurea Białowieża, una dintre ultimele păduri primare din Europa.",
-      "Țara are nu mai puțin de 17 situri incluse în Patrimoniul Mondial UNESCO.",
-      "Constituția Poloniei din 1791 a fost prima constituție modernă din Europa.",
-      "Polonia este cel mai mare exportator de chihlimbar din lume."
+[
+  {
+    "id": "country-czech-republic",
+    "factsAdvanced_de": [
+      "Die Tschechische Republik entstand 1993 nach der friedlichen Auflösung der Tschechoslowakei.",
+      "Das Land verfügt über ein ausgedehntes Netz gut markierter Wanderwege, eines der besten in Europa.",
+      "Tschechien ist ein bedeutender Produzent von Škoda-Automobilen und hat eine lange Tradition im Maschinenbau.",
+      "Sachkunde K8 — europäische Staaten und ihre Entwicklung im 20. Jahrhundert."
     ]
   },
-  "PL-MZ": {
-    "description": "Mazovia este inima istorică și economică a Poloniei, cuprinzând capitala națiunii, Varșovia. Regiunea se întinde pe câmpiile vaste ale Europei Centrale, fiind străbătută de fluviul Vistula, cel mai mare curs de apă din țară. Deși este puternic urbanizată și industrializată în jurul capitalei, provincia ascunde numeroase parcuri naționale, păduri dese și reședințe nobiliare rurale. Din punct de vedere istoric, Mazovia a fost un ducat independent înainte de a se integra complet în Regatul Poloniei în secolul al XVI-lea. Astăzi, este cel mai populat și mai dezvoltat voievodat al țării. (Geografie K7 — Regiunile economice ale Poloniei)",
-    "facts": [
-      "Mazovia produce peste o cincime din Produsul Intern Brut al Poloniei.",
-      "Parcul Național Kampinos, situat chiar lângă Varșovia, este recunoscut ca rezervație a biosferei UNESCO.",
-      "În această regiune s-a născut celebrul compozitor Frédéric Chopin, la Żelazowa Wola.",
-      "Vistula creează aici numeroase insule nisipoase și meandre spectaculoase."
+  {
+    "id": "city-prague",
+    "factsAdvanced_de": [
+      "Das historische Zentrum von Prag gehört seit 1992 zum UNESCO-Weltkulturerbe.",
+      "Die Prager Burg war historisch der Sitz böhmischer Könige, römisch-deutscher Kaiser und Präsidenten.",
+      "Der Veitsdom in der Prager Burg ist das wichtigste und größte Kirchengebäude Tschechiens.",
+      "Geschichte K7 — europäische Hauptstädte im Mittelalter."
     ]
   },
-  "PL-MA": {
-    "description": "Polonia Mică (Małopolska) este una dintre cele mai pitorești și mai bogate din punct de vedere istoric regiuni ale țării, având capitala la Cracovia. Situată în sud, topografia sa este dominată de Munții Carpați, inclusiv spectaculoșii Munți Tatra și Pieniny. Regiunea a fost inima Regatului Poloniei timp de secole, păstrând o moștenire arhitecturală și culturală inegalabilă, neafectată masiv de războaie. Tradițiile locale, precum cultura Goral din zonele montane, sunt încă vii și atrag milioane de turiști anual. De asemenea, găzduiește mine istorice de sare și numeroase castele din lemn. (Istorie K6 — Centrele istorice și tradițiile montane)",
-    "facts": [
-      "Cracovia, capitala regiunii, a fost capitala regală a Poloniei până în 1596.",
-      "Regiunea găzduiește faimoasa Mină de Sare de la Wieliczka, activă din secolul al XIII-lea.",
-      "Munții Tatra din sudul regiunii includ cel mai înalt vârf din Polonia, Rysy.",
-      "Arhitectura tradițională din lemn este o caracteristică distinctivă a bisericilor din sudul provinciei."
+  {
+    "id": "city-brno",
+    "descriptionAdvanced_de": "Brünn (Brno) ist die zweitgrößte Stadt der Tschechischen Republik und das historische Zentrum von Mähren. Die Stadt ist für ihre modernistische Architektur bekannt, insbesondere für die zum UNESCO-Weltkulturerbe zählende Villa Tugendhat. Brünn hat eine lebendige studentische Atmosphäre und ist ein wichtiger Standort für Technologie und Innovation. Auf einem Hügel über der Stadt thront die Festung Spielberg (Špilberk), die einst als berüchtigtes Gefängnis der Habsburger Monarchie diente. Heute vereint Brünn auf einzigartige Weise sein reiches historisches Erbe mit einer dynamischen, modernen Entwicklung. Geografie K6 — bedeutende europäische Industrie- und Universitätsstädte.",
+    "factsAdvanced_de": [
+      "Die Villa Tugendhat ist ein Meisterwerk der modernen Architektur von Ludwig Mies van der Rohe.",
+      "In der Festung Spielberg wurden im 18. und 19. Jahrhundert zahlreiche politische Gefangene inhaftiert.",
+      "Das Brünner Messegelände ist eines der wichtigsten Messezentren in Mitteleuropa.",
+      "Die Stadt besitzt ein umfangreiches unterirdisches Labyrinth, das teilweise für Besucher geöffnet ist."
     ]
   },
-  "PL-PM": {
-    "description": "Pomerania este fereastra Poloniei către Marea Baltică, o regiune definită de tradiții maritime și comerț internațional. Zona cuprinde faimoasa zonă metropolitană Trioraș, formată din Gdańsk, Gdynia și Sopot, care reprezintă motorul economic al litoralului polonez. Peisajul este dominat de plaje lungi cu nisip fin, dune mișcătoare, lacuri glaciare și păduri dese de pini. Istoria sa a fost marcată de influența Ordinului Teutonic, precum și de puternica alianță comercială hanseatică. Astăzi, este o destinație turistică majoră datorită stațiunilor sale balneare de primă clasă. (Geografie K7 — Comerțul maritim și turismul de coastă)",
-    "facts": [
-      "Triciudadul (Trójmiasto) are o populație de peste un milion de locuitori.",
-      "Regiunea găzduiește Peninsula Hel, o fâșie lungă și îngustă de nisip care se întinde în Marea Baltică.",
-      "Gdańsk a fost locul de naștere al mișcării sindicale Solidaritatea în anii 1980.",
-      "Aici se găsesc cele mai mari zăcăminte de chihlimbar din regiunea baltică."
+  {
+    "id": "city-plzen",
+    "descriptionAdvanced_de": "Pilsen (Plzeň) ist die viertgrößte Stadt in der Tschechischen Republik und liegt im Westen Böhmens. Sie ist weltweit berühmt als der Geburtsort des Pilsner Bieres, das hier 1842 zum ersten Mal gebraut wurde. Die historische Altstadt wird vom mächtigen Turm der St.-Bartholomäus-Kathedrale dominiert, dem höchsten Kirchturm des Landes. Pilsen hat eine lange industrielle Tradition, die stark mit den Škoda-Werken verbunden ist. Die Stadt war 2015 Kulturhauptstadt Europas und bietet eine lebendige Mischung aus Industriekultur, Brautradition und moderner Kunst. Sachkunde K7 — europäische Industriegeschichte und urbane Entwicklung.",
+    "factsAdvanced_de": [
+      "Das Pilsner Urquell, 1842 hier gebraut, gilt als das erste helle Lagerbier der Welt.",
+      "Der Turm der St.-Bartholomäus-Kathedrale ist mit 102 Metern der höchste in Tschechien.",
+      "Die Große Synagoge in Pilsen ist die drittgrößte Synagoge der Welt.",
+      "Pilsen verfügt über ein ausgedehntes historisches Kellersystem unter der Altstadt."
     ]
   },
-  "PL-DS": {
-    "description": "Silezia Inferioară, situată în sud-vestul Poloniei, este o regiune fascinantă, caracterizată prin diversitate geologică și istorie multiculturală. Dominată la sud de Munții Sudeți, provincia se bucură de văi adânci, stațiuni termale și stațiuni de schi renumite. Capitala regiunii, Wrocław, este renumită pentru canalele și podurile sale de pe râul Oder. Timp de secole, teritoriul a fost disputat între Cehia, Austria, Prusia și Polonia, ceea ce a lăsat în urmă un mozaic arhitectural unic, cu zeci de castele medievale și palate somptuoase. Este una dintre cele mai dezvoltate regiuni tehnologice din țară. (Istorie K7 — Multiculturalismul Europei Centrale)",
-    "facts": [
-      "Regiunea are una dintre cele mai mari densități de castele și palate din întreaga Europă.",
-      "Bisericile Păcii din Jawor și Świdnica sunt cele mai mari edificii religioase din lemn de pe continent.",
-      "Wrocław a fost desemnată Capitală Europeană a Culturii în 2016.",
-      "Munții Sudeți includ Parcul Național Karkonosze, faimos pentru formațiunile sale stâncoase bizare."
+  {
+    "id": "city-cesky-krumlov",
+    "descriptionAdvanced_de": "Krumau an der Moldau (Český Krumlov) ist eine der malerischsten Städte Europas und ein herausragendes Beispiel einer kleinen mittelalterlichen Stadt in Mitteleuropa. Das historische Zentrum, das von einer Schleife der Moldau umschlossen wird, gehört zum UNESCO-Weltkulturerbe. Über der Altstadt thront ein riesiger Schlosskomplex, der nach der Prager Burg der zweitgrößte des Landes ist. Die verwinkelten Gassen, die farbenfrohen Renaissance- und Barockhäuser und die romantische Atmosphäre ziehen jährlich Tausende von Besuchern an. Krumau ist auch ein kulturelles Zentrum, das unter anderem für sein einzigartiges Barocktheater bekannt ist. Geschichte K6 — mittelalterliche Stadtstrukturen in Mitteleuropa.",
+    "factsAdvanced_de": [
+      "Der Schlosskomplex von Český Krumlov umfasst 40 Gebäude und Paläste sowie einen großen Schlosspark.",
+      "Das Barocktheater des Schlosses ist eines der wenigen erhaltenen Theater dieser Epoche mit originaler Bühnenmaschinerie.",
+      "Die Altstadt hat ihr ursprüngliches Straßennetz aus dem Mittelalter weitgehend bewahrt.",
+      "Egon Schiele, ein berühmter Künstler, lebte und arbeitete einige Zeit in der Stadt."
     ]
   },
-  "PL-WP": {
-    "description": "Polonia Mare (Wielkopolska) este adesea considerată leagănul statului polonez, locul unde primele triburi slave s-au unit în secolul al X-lea. Capitala sa istorică, Poznań, a servit ca prima reședință a domnitorilor Piast, jucând un rol crucial în adoptarea creștinismului în anul 966. Peisajul este predominant plat, brăzdat de râul Warta și presărat cu sute de lacuri de origine glaciară în partea sa nordică. Din punct de vedere agricol și industrial, este o putere națională, având o puternică tradiție antreprenorială formată în timpul divizării Poloniei. Regiunea păstrează o identitate puternică și un dialect regional distinct. (Istorie K6 — Formarea primelor state europene)",
-    "facts": [
-      "Catedrala din Poznań găzduiește mormintele primilor conducători ai Poloniei.",
-      "Insula Ostrów Lednicki este recunoscută ca unul dintre cele mai vechi centre de putere poloneze.",
-      "Economia regiunii este renumită pentru târgurile comerciale internaționale, o tradiție din anii 1920.",
-      "Parcul Național Wielkopolska protejează peisaje modelate de ghețari în timpul Epocii de Gheață."
+  {
+    "id": "city-karlovy-vary",
+    "descriptionAdvanced_de": "Karlsbad (Karlovy Vary) ist der berühmteste und größte Kurort der Tschechischen Republik und liegt im malerischen Tal des Flusses Teplá. Die Stadt wurde im 14. Jahrhundert von Kaiser Karl IV. gegründet und zog im 18. und 19. Jahrhundert die europäische Elite an. Karlsbad ist bekannt für seine zahlreichen heißen Thermalquellen, deren Wasser in eleganten Kolonnaden ausgeschenkt wird. Die Architektur der Stadt ist stark vom Historismus und Jugendstil geprägt, was ihr ein mondänes Flair verleiht. Neben dem Kurbetrieb ist Karlsbad auch berühmt für die Herstellung von Becherovka-Likör, Moser-Glas und für das internationale Filmfestival. Geografie K7 — Heilquellen und der europäische Kurtourismus.",
+    "factsAdvanced_de": [
+      "Der Sprudel (Vřídlo) ist die heißeste Quelle in Karlsbad und schießt Wasser mit 72°C bis zu 12 Meter hoch.",
+      "Berühmte Persönlichkeiten wie Goethe, Beethoven und Karl Marx zählten zu den Kurgästen.",
+      "Der traditionelle Kräuterlikör Becherovka wird seit 1807 in Karlsbad produziert.",
+      "Das Internationale Filmfestival Karlovy Vary ist eines der ältesten und wichtigsten Filmfestivals in Europa."
     ]
   },
-  "PL-SL": {
-    "description": "Silezia (Șląskie) este inima industrială tradițională a Poloniei, renumită la nivel mondial pentru rezervele sale masive de cărbune și industria siderurgică grea. Deși sudul regiunii atinge vârfurile Munților Beskizi oferind peisaje montane superbe, centrul este dominat de o imensă aglomerație urbană interconectată. În ciuda reputației sale industriale, regiunea a suferit o tranziție verde remarcabilă, transformând fostele mine și oțelării în centre culturale, parcuri tehnologice și muzee moderne. Cultura locală este un amestec fascinant de influențe poloneze, germane și cehe, menținând vii dialectul și tradițiile minerilor. (Geografie K8 — Industrializare și tranziție ecologică)",
-    "facts": [
-      "Aglomerația Sileziei Superioare numără peste două milioane de locuitori.",
-      "Mina istorică de argint din Tarnowskie Góry face parte din Patrimoniul Mondial UNESCO.",
-      "Deșertul Błędów din apropiere este cea mai mare acumulare de nisip afânat din Europa Centrală.",
-      "Multe foste mine sunt acum conectate prin populara Rută a Monumentelor Industriale."
+  {
+    "id": "city-kutna-hora",
+    "descriptionAdvanced_de": "Kuttenberg (Kutná Hora) ist eine historische Stadt in Mittelböhmen, die im Mittelalter dank ihrer reichen Silberminen nach Prag die zweitwichtigste Stadt des böhmischen Königreichs war. Der einstige Reichtum der Stadt spiegelt sich in prächtigen Bauwerken wider, die heute zum UNESCO-Weltkulturerbe gehören. Zu den herausragendsten Monumenten zählt die majestätische gotische St.-Barbara-Kirche, die den Bergleuten gewidmet ist. Ein weiterer morbider, aber faszinierender Anziehungspunkt ist das nahegelegene Beinhaus im Vorort Sedlec, dessen Innenausstattung aus menschlichen Knochen besteht. Kuttenberg bietet einen tiefen Einblick in die wirtschaftliche und kulturelle Blütezeit Böhmens im späten Mittelalter. Geschichte K8 — Bergbau und Wirtschaft im mittelalterlichen Europa.",
+    "factsAdvanced_de": [
+      "Der Prager Groschen, eine der stärksten europäischen Währungen des Mittelalters, wurde im Welschen Hof in Kuttenberg geprägt.",
+      "Das Beinhaus von Sedlec enthält die Gebeine von schätzungsweise 40.000 bis 70.000 Menschen.",
+      "Die St.-Barbara-Kirche zeichnet sich durch ihr einzigartiges Zelt-Dach und prächtige spätgotische Fresken aus.",
+      "Der Silberabbau in der Stadt war die Hauptfinanzquelle für den Bau der monumentalen Kirchen."
     ]
   },
-  "PL-LD": {
-    "description": "Voievodatul Łódź, situat chiar în centrul geografic al Poloniei, este o regiune a cărei istorie a fost modelată fulminant de revoluția industrială din secolul al XIX-lea. Capitala sa, Łódź, a evoluat de la un mic sat la o imensă metropolă textilă, supranumită odinioară 'Manchester-ul Poloniei'. Peisajul post-industrial al regiunii, dominat de vechi fabrici din cărămidă roșie și vile ale foștilor magnați ai bumbacului, a fost revitalizat transformându-se în complexe artistice moderne și centre comerciale vibrante. Regiunea prezintă, de asemenea, un interesant mix de culturi, fiind istoric un spațiu unde polonezi, evrei, germani și ruși au colaborat. (Istorie K7 — Revoluția industrială și urbanizarea)",
-    "facts": [
-      "Strada Piotrkowska din Łódź este una dintre cele mai lungi străzi comerciale din Europa.",
-      "Regiunea este renumită pentru faimoasa Școală Națională de Film din Łódź.",
-      "Complexul Manufaktura este unul dintre cele mai mari proiecte de revitalizare urbană din Europa.",
-      "Centrul geografic oficial al Poloniei este situat în satul Piątek, din această regiune."
+  {
+    "id": "nature-sumava",
+    "descriptionAdvanced_de": "Der Böhmerwald (Šumava) ist ein ausgedehntes Mittelgebirge entlang der Grenze zwischen Tschechien, Deutschland und Österreich. Er ist eines der größten zusammenhängenden Waldgebiete in Mitteleuropa und wird oft als das 'grüne Dach Europas' bezeichnet. Der tschechische Nationalpark Šumava schützt eine einzigartige Landschaft aus alten Wäldern, tiefen Hochmooren, Gletscherseen und malerischen Bergbächen. Die Region ist ein Refugium für seltene Tier- und Pflanzenarten, darunter auch der wiederangesiedelte Luchs. Der Böhmerwald bietet hervorragende Bedingungen für Wanderer, Radfahrer und im Winter für Skilangläufer, während er gleichzeitig eine Atmosphäre von unberührter und rauer Natur bewahrt. Biologie K7 — Waldökosysteme und Naturschutzgebiete in Mitteleuropa.",
+    "factsAdvanced_de": [
+      "Der Schwarze See (Černé jezero) ist der größte und tiefste natürliche See in Tschechien.",
+      "Die Moldau (Vltava), der längste Fluss Tschechiens, entspringt im Böhmerwald.",
+      "Das Gebiet war während des Kalten Krieges Teil des Eisernen Vorhangs, was ironischerweise zum Erhalt der Natur beitrug.",
+      "Typisch für den Böhmerwald sind ausgedehnte, nährstoffarme Hochmoore."
     ]
   },
-  "PL-LU": {
-    "description": "Voievodatul Lublin se află la granița estică a Poloniei, acționând istoric ca o punte culturală și comercială între Europa de Vest și lumea ortodoxă răsăriteană. Orașul său principal, Lublin, este renumit pentru superbul său castel medieval și atmosfera istorică vibrantă, unde Renașterea poloneză strălucește în arhitectura veche. Această provincie este predominant agricolă, caracterizată prin câmpii rurale vaste, defileuri pitorești și parcuri naționale, precum Parcul Național Roztocze. Până în timpul celui de-al Doilea Război Mondial, regiunea a fost un centru extrem de important pentru viața și cultura comunității evreiești din Europa. (Istorie K6 — Comunități multiculturale și granițe istorice)",
-    "facts": [
-      "Uniunea de la Lublin din 1569 a creat Comunitatea Polono-Lituaniană, unul dintre cele mai mari state europene de la acea vreme.",
-      "Zamość, un oraș din sudul regiunii, este un model perfect conservat de oraș renascentist.",
-      "Regiunea este unul dintre principalii producători europeni de mere și fructe de pădure.",
-      "Lagărul de concentrare Majdanek de la periferia Lublinului rămâne un sit memorial crucial."
+  {
+    "id": "city-ostrava",
+    "descriptionAdvanced_de": "Ostrau (Ostrava) ist die drittgrößte Stadt der Tschechischen Republik und liegt im Osten des Landes nahe der polnischen Grenze. Lange Zeit wurde sie wegen ihrer intensiven Kohleförderung und Stahlproduktion als das 'stahlharte Herz der Republik' bezeichnet. Nach dem Ende des Kohleabbaus im Jahr 1994 hat die Stadt einen beeindruckenden Strukturwandel durchlaufen. Ehemalige Industrieareale wie Dolní Vítkovice wurden in lebendige kulturelle, edukative und gesellschaftliche Zentren umgewandelt. Ostrau ist heute eine dynamische, grüne Stadt, die stolz ihr industrielles Erbe präsentiert und gleichzeitig als moderner Universitätsstandort aufblüht. Geografie K8 — Strukturwandel in europäischen Industrieregionen.",
+    "factsAdvanced_de": [
+      "Das Industrieareal Dolní Vítkovice ist ein europäisches Kulturerbe und zeigt den kompletten Produktionsprozess von Kohle zu Stahl.",
+      "Der Hochofen Nr. 1 wurde zu einem Aussichtsturm mit Café, dem 'Bolt Tower', umgebaut.",
+      "Das jährliche Musikfestival 'Colours of Ostrava' ist eines der größten in Mitteleuropa.",
+      "Ostrau hat die höchste Konzentration an Bergbaumuseen in Tschechien."
     ]
   },
-  "PL-WN": {
-    "description": "Warmia și Mazuria este adesea denumită 'Țara celor o mie de lacuri', fiind incontestabil cea mai spectaculoasă regiune naturală din nord-estul Poloniei. Peisajul său a fost modelat dramatic de ghețari în ultima epocă glaciară, lăsând în urmă o rețea uriașă de lacuri interconectate prin canale și râuri pitorești. Dincolo de frumusețea naturală, regiunea are o istorie complexă, fiind mult timp sub dominația Cavalerilor Teutoni, ale căror castele gotice din cărămidă roșie împânzesc teritoriul. Astăzi, zona este un veritabil paradis pentru pasionații de navigație, sporturi nautice și ecoturism, păstrându-și caracterul sălbatic și nepoluat. (Geografie K7 — Glaciațiuni și ecosisteme lacustre)",
-    "facts": [
-      "Cel mai mare lac din Polonia, Lacul Śniardwy, este situat în inima Mazuriei.",
-      "Regiunea găzduiește sediul Bârlogului Lupului, fostul cartier general ascuns al lui Hitler din al Doilea Război Mondial.",
-      "Canalul Elbląg este o minune inginerească unde ambarcațiunile sunt tractate pe iarbă între lacuri.",
-      "Nicolaus Copernic și-a petrecut o mare parte a vieții în castelul teutonic din Olsztyn, capitala regiunii."
-    ]
-  },
-  "PL-ZP": {
-    "description": "Pomerania Occidentală (Zachodniopomorskie) formează colțul de nord-vest al Poloniei, întinzându-se de-a lungul coastei Mării Baltice până la granița cu Germania. Regiunea este renumită pentru portul său istoric și aglomerat, Szczecin, care deși este situat în interiorul uscatului pe estuarul râului Oder, funcționează ca un hub maritim major. Zona de coastă impresionează cu stânci abrupte, păduri de pini umbroase și faimoasele stațiuni balneare precum Świnoujście și Kołobrzeg. Această regiune are legături istorice profunde cu Suedia, Danemarca și Germania, reflectate în arhitectura gotică baltică și în fortificațiile sale masive. (Geografie K7 — Economia maritimă și granițele naturale)",
-    "facts": [
-      "Parcul Național Wolin protejează cele mai înalte faleze de pe coasta poloneză a Mării Baltice.",
-      "Portul Szczecin este unul dintre cele mai mari porturi maritime din zona Mării Baltice.",
-      "Orașul Świnoujście este unic, fiind răspândit pe 44 de insule de pe coasta Mării Baltice.",
-      "Regiunea deține cea mai mare insulă din Polonia, Insula Wolin."
-    ]
-  },
-  "PL-PD": {
-    "description": "Podlasia (Podlaskie) este regiunea cea mai sălbatică, diversă din punct de vedere cultural și mai puțin populată din nord-estul Poloniei. Renumită pentru pădurile sale virgine masive, inclusiv vestita Pădure Białowieża, regiunea funcționează ca un adevărat sanctuar ecologic al Europei Centrale. Istoric, a reprezentat o zonă de graniță unde cultura poloneză catolică s-a întâlnit cu ortodoxia răsăriteană și tradițiile islamice tătare, creând un mozaic etnic fascinant vizibil și astăzi în satele tradiționale din lemn. Białystok, capitala regiunii, este un centru universitar în plină dezvoltare, păstrându-și influențele multiculturale ale trecutului. (Biologie K6 — Păduri primare și conservarea faunei sălbatice)",
-    "facts": [
-      "Pădurea Białowieża găzduiește cea mai mare populație mondială de zimbri europeni aflați în libertate.",
-      "Este singura regiune din Polonia cu o comunitate istorică musulmană, tătarii lipcani.",
-      "Satul pitoresc Tykocin prezintă una dintre cele mai bine conservate sinagogi baroce din Europa.",
-      "Limba esperanto a fost creată de L.L. Zamenhof, care s-a născut în Białystok, capitala provinciei."
-    ]
-  },
-  "PL-PK": {
-    "description": "Voievodatul Subcarpatic (Podkarpackie), amplasat în extremitatea de sud-est a Poloniei, este definit de peisajele sale montane neatinse și pădurile dese. Partea sa sudică este dominată de sălbaticii Munți Bieszczady, renumiți pentru pajiștile lor alpine vaste și biodiversitatea impresionantă, fiind un refugiu perfect pentru eco-turiști. Regiunea are un trecut bogat și agitat, marcat de coexistența seculară dintre populațiile poloneză, ucraineană și boikă, lăsând moștenire o arhitectură impresionantă a bisericilor de lemn ortodoxe (tserkvas). Pe lângă frumusețile naturale, Rzeszów, capitala regiunii, este centrul așanumitei 'Văi a Aviației', un hub tehnologic prosper. (Geografie K7 — Carpații Orientali și turismul montan)",
-    "facts": [
-      "Munții Bieszczady sunt renumiți ca un refugiu vital pentru urșii bruni, lupii și lincșii din Polonia.",
-      "Numeroase biserici din lemn de pe teritoriul regiunii sunt înscrise în Patrimoniul Mondial UNESCO.",
-      "Castelul renascentist din Łańcut este faimos pentru una dintre cele mai mari colecții de trăsuri din Europa.",
-      "Regiunea este un lider național în industria aerospațială și a tehnologiilor înalte."
-    ]
-  },
-  "PL-KP": {
-    "description": "Voievodatul Cuiavia-Pomerania (Kujawsko-Pomorskie) servește ca punte de legătură geografică și istorică între Polonia Centrală și Marea Baltică. Această regiune este unică prin faptul că este administrată din două capitale concurente: Bydgoszcz, un centru industrial și comercial cu canale navigabile spectaculoase, și Toruń, faimos la nivel mondial pentru centrul său gotic perfect conservat și ca loc de naștere al lui Nicolaus Copernic. Dincolo de centrele urbane, peisajul cuprinde vaste câmpii agricole presărate cu lacuri, precum și așezări străvechi precum complexul fortificat din Epoca Fierului de la Biskupin, adesea numit 'Pompeiul Polonez'. (Istorie K6 — Arhitectura gotică și comerțul fluvial)",
-    "facts": [
-      "Toruń, capitala istorică a regiunii, a supraviețuit aproape intactă bombardamentelor din timpul celui de-al Doilea Război Mondial.",
-      "Bydgoszcz este adesea supranumit 'Veneția poloneză' datorită sistemului său extins de canale navigabile.",
-      "Așezarea reconstruită Biskupin datează din secolul al VIII-lea î.Hr., aparținând culturii Lusatiene.",
-      "Toruń este celebru în întreaga lume pentru tradiția sa seculară de a produce turtă dulce aromată."
-    ]
-  },
-  "PL-SK": {
-    "description": "Voievodatul Sfintei Cruci (Świętokrzyskie) este una dintre cele mai mici și mai enigmatice regiuni ale Poloniei, denumită după vechii munți care îi domină inima. Munții Sfintei Cruci, printre cei mai vechi din Europa din punct de vedere geologic, sunt învăluiți în mituri păgâne și legende monahale. Regiunea este o comoară pentru pasionații de geologie și speologie, adăpostind fosile rare, peșteri ascunse și cariere preistorice de silex, cum ar fi Krzemionki, un sit din Patrimoniul UNESCO. Dincolo de peisajul antic, regiunea este împânzită de ruine de castele romantice, cum ar fi palatul monumental Krzyżtopór, și mici orașe istorice pitorești. (Geografie K8 — Formarea munților vechi și geologia Europei)",
-    "facts": [
-      "Munții Sfintei Cruci s-au format în urmă cu peste 400 de milioane de ani, fiind printre primii munți din Europa.",
-      "Mina preistorică de silex dungat de la Krzemionki datează din perioada neolitică târzie.",
-      "Orașul Sandomierz din sudul provinciei este construit peste o rețea secretă de crame subterane antice.",
-      "Aici se găsește Stejarul Bartek, unul dintre cei mai bătrâni copaci din Polonia, estimat la aproape 700 de ani."
-    ]
-  },
-  "PL-LB": {
-    "description": "Voievodatul Lubusz (Lubuskie), situat de-a lungul graniței vestice cu Germania, este adesea menționat ca fiind cea mai împădurită regiune a Poloniei. Este un tărâm caracterizat prin natură liniștită, străbătut de râurile majore Oder și Warta, care formează câmpii inundabile spectaculoase și sanctuare de păsări vitale. Din punct de vedere administrativ, este împărțit între orașele Gorzów Wielkopolski și Zielona Góra, acesta din urmă fiind inima incontestabilă a tradiției viticole poloneze reînviate. Istoria zonei reflectă tranziția sa constantă între stăpânirea poloneză, prusacă și germană, lăsând în urmă o arhitectură eclectică și un puternic spirit transfrontalier. (Biologie K6 — Ecosisteme fluviale și protecția mediului)",
-    "facts": [
-      "Peste jumătate din suprafața teritoriului provinciei Lubusz este acoperită de păduri bogate.",
-      "Zielona Góra găzduiește anual cel mai mare festival de recoltare a strugurilor din Polonia, 'Winobranie'.",
-      "Parcul Peisagistic Warta, numit și 'Gura râului Warta', este un paradis esențial pentru păsările migratoare.",
-      "Parcul transfrontalier Muskau este o capodoperă a designului peisagistic și parte a patrimoniului mondial."
-    ]
-  },
-  "PL-OP": {
-    "description": "Voievodatul Opole este cea mai mică provincie a Poloniei, dar compensează dimensiunea prin bogăția sa culturală și arhitecturală deosebită. Situat pe cursul superior al râului Oder, voievodatul a fost istoric o punte între culturile poloneză, cehă și germană, păstrând și astăzi cea mai mare minoritate etnică germană din țară. Regiunea este presărată cu zeci de castele somptuoase, adesea numită 'Valea Loarei a Poloniei', cel mai faimos fiind castelul de basm Moszna. Dincolo de patrimoniul nobiliar, sudul regiunii este dominat de Muntele Sfânta Ana, un vechi vulcan și un loc crucial de pelerinaj catolic. (Istorie K7 — Moștenirea multiculturală și frontierele dinamice)",
-    "facts": [
-      "Castelul pitoresc Moszna impresionează vizitatorii prin cele 99 de turnuri și 365 de camere ale sale.",
-      "Muntele Sfânta Ana a fost locul celei mai mari și sângeroase bătălii din timpul revoltelor sileziene.",
-      "Orașul Opole, capitala provinciei, este cunoscut pentru organizarea festivalului anual de muzică poloneză.",
-      "Aici se găsesc cele mai vechi descoperiri paleontologice de reptile primitive din Polonia, în satul Krasiejów."
-    ]
-  },
-  "poznan": {
-    "description": "Poznań, capitala istorică a provinciei Polonia Mare, este unul dintre cele mai vechi și mai prospere orașe ale națiunii, situat pe malurile râului Warta. Centrul său istoric este dominat de fabuloasa Piață Veche (Stary Rynek), unde Primăria renascentistă uimește vizitatorii în fiecare zi la prânz cu spectacolul tradițional al celor doi țapi mecanici. Orașul este mândru de istoria sa timpurie, Insula Catedralei (Ostrów Tumski) fiind locul presupusului botez al primului conducător polonez în 966. Astăzi, Poznań este un puternic centru comercial, universitar și antreprenorial, menținându-și reputația internațională datorită Târgului Internațional Poznań. (Istorie K6 — Arhitectura renascentistă și comerțul)",
-    "facts": [
-      "Legenda spune că cei doi țapi mecanici au fost adăugați primăriei după ce au scăpat dintr-o bucătărie.",
-      "Ostrów Tumski adăpostește mormintele primilor doi domnitori istorici ai Poloniei.",
-      "Orașul este centrul economic al regiunii și găzduiește Târgul Internațional încă din anul 1921.",
-      "Bătălia pentru Poznań din 1945 a dus la distrugerea aproape completă a superbului său centru vechi."
-    ]
-  },
-  "szczecin": {
-    "description": "Szczecin este cel mai mare port și capitala regiunii Pomerania Occidentală, bucurându-se de o amplasare unică pe estuarul fluviului Oder, aproape de Marea Baltică și granița cu Germania. Aspectul modern al orașului, marcat de bulevarde largi și sensuri giratorii spectaculoase, este o reflectare a planificării urbane pariziene de la sfârșitul secolului al XIX-lea, implementată în perioada prusacă. Castelul istoric al Ducilor de Pomerania amintește de epoca de aur medievală a orașului. După devastările celui de-al Doilea Război Mondial, Szczecin a fost complet revitalizat, devenind un centru naval și academic de top în vestul țării. (Geografie K7 — Dezvoltarea urbană și planificarea orașelor-port)",
-    "facts": [
-      "Deși este un port maritim esențial, Szczecin este situat la peste 60 de kilometri distanță de Marea Baltică.",
-      "Orașul a fost controlat în istoria sa de polonezi, prusaci, suedezi și germani.",
-      "Faimoasa țarină a Rusiei, Ecaterina cea Mare, s-a născut în acest oraș impresionant.",
-      "Filarmonica modernă din Szczecin a câștigat prestigiosul premiu Mies van der Rohe pentru arhitectură."
-    ]
-  },
-  "lodz-city": {
-    "description": "Łódź este un oraș cu o dezvoltare fascinantă, transformându-se radical în timpul secolului al XIX-lea de la o așezare mică la una dintre cele mai formidabile metropole textile ale lumii. Moștenirea sa unică este compusă din kilometri de fabrici de cărămidă roșie uluitoare, vile somptuoase ale industriașilor și palate eclectice, multe dintre ele fiind astăzi reconvertite în centre culturale sau artistice complexe. Strada Piotrkowska, coloana vertebrală a orașului, pulsează de viață datorită barurilor, muralelor gigantice și evenimentelor stradale. În plus, orașul deține un loc legendar în istoria cinematografiei, datorită faimoasei sale Școli Naționale de Film. (Istorie K8 — Revoluția industrială și patrimoniul textil)",
-    "facts": [
-      "În perioada sa de glorie industrială, Łódź era cunoscută la nivel global ca 'Manchester-ul Poloniei'.",
-      "Școala de Film din Łódź i-a format pe regizorii mondiali de renume Roman Polanski și Andrzej Wajda.",
-      "Manufaktura, inima modernă a orașului, a fost cândva cel mai mare complex textil deținut de Izrael Poznański.",
-      "Cimitirul Evreiesc din Łódź, atestând istoria sa diversă, este cel mai mare cimitir evreiesc din Europa."
-    ]
-  },
-  "katowice": {
-    "description": "Katowice a apărut pe harta europeană ca o așezare modestă, dar dezvoltarea explozivă a industriei siderurgice și miniere din secolul al XIX-lea l-a transformat în motorul neoficial al regiunii Silezia. Multă vreme stigmatizat din cauza poluării grele și a peisajului cenușiu post-industrial, orașul a traversat în ultimele decenii o revoluție urbană și culturală fără precedent. Fostele mine de cărbune și fabricile abandonate formează acum o 'Zonă Culturală' modernă, care găzduiește sediul spectaculos al Orchestrei Simfonice Naționale a Radioului Polonez și complexul vizual uimitor al Muzeului Sileziei. Aici arhitectura brutalistă, cum ar fi faimoasa arenă Spodek, se îmbină perfect cu designul avangardist. (Geografie K8 — Revitalizarea zonelor industriale)",
-    "facts": [
-      "Complexul Spodek, construit în formă de farfurie zburătoare, este un simbol arhitectural național din 1971.",
-      "Orașul a fost desemnat de UNESCO drept 'Oraș al Muzicii' datorită inovațiilor sale acustice remarcabile.",
-      "Muzeul Sileziei a fost construit în mod inovator în galeriile subterane ale unei foste mine masive de cărbune.",
-      "Districtul Nikiszowiec oferă cel mai bine păstrat exemplu de arhitectură rezidențială minieră de la începutul secolului XX."
-    ]
-  },
-  "bialystok": {
-    "description": "Białystok este capitala vibrantă a regiunii Podlasia, situată în estul apropiat de pădurile sălbatice ale frontierei poloneze. De-a lungul istoriei, orașul s-a format ca un punct de întâlnire profund multicultural, găzduind comunități de polonezi, evrei, ruși, belaruși și tătari care au trăit împreună timp de secole. Perioada sa de glorie se leagă de secolul al XVIII-lea, când puternicul hatman Jan Klemens Branicki a construit aici un magnific palat baroc, înconjurat de grădini vaste, supranumit de mulți 'Versailles-ul Podlasiei'. În prezent, este un centru universitar dinamic, faimos pentru natura înconjurătoare și ritmul de viață reconfortant. (Istorie K6 — Arhitectura barocă și influențe estice)",
-    "facts": [
-      "Białystok a fost orașul natal al lui L.L. Zamenhof, oftalmologul care a creat limba internațională Esperanto.",
-      "Aproape o treime din locuitorii orașului sunt adepți ai Bisericii Ortodoxe, reflectând influențele sale răsăritene.",
-      "Palatul Branicki a fost distrus complet în timpul războiului, dar a fost reconstruit cu o precizie istorică extraordinară.",
-      "Orașul se mândrește cu cea mai curată calitate a aerului dintre toate metropolele majore poloneze."
-    ]
-  },
-  "torun": {
-    "description": "Toruń stă mândru pe malurile abrupte ale râului Vistula ca unul dintre cele mai frumoase și mai bine conservate orașe medievale din Europa de Nord, neafectat de dezastrele militare moderne. Orașul vechi, inclus în Patrimoniul Mondial UNESCO, fascinează prin clădirile sale masive din cărămidă roșie arsă, ridicate inițial de redutabilii Cavaleri Teutoni în secolul al XIII-lea. Faima globală a orașului este asigurată în mod definitiv ca loc de naștere al revoluționarului astronom Nicolaus Copernic, cel care a oprit soarele și a pus pământul în mișcare. Aerul străzilor din Toruń este constant parfumat de aroma dulce a faimoasei lor turte dulci artizanale. (Istorie K7 — Patrimoniul Ligii Hanseatice și astronomia)",
-    "facts": [
-      "Centrul istoric al orașului prezintă un plan arhitectural hanseatic medieval autentic și perfect vizibil.",
-      "Spre deosebire de majoritatea orașelor poloneze mari, Toruń a scăpat de bombardamentele celui de-al Doilea Război Mondial.",
-      "Aici puteți admira ruinele unuia dintre cele mai vechi castele construite de Cavalerii Teutoni pe teritoriul polonez.",
-      "Tradiția coacerii turtelor dulci din Toruń, cunoscute sub numele de 'pierniki', datează încă din secolul al XIV-lea."
-    ]
-  },
-  "czestochowa": {
-    "description": "Częstochowa, situată pitoresc pe fluviul Warta în sudul regiunii Polonia Mică, este unanim recunoscută drept inima spirituală și religioasă incontestabilă a națiunii poloneze. Cel mai important reper al orașului este mănăstirea fortificată medievală Jasna Góra, situată pe un deal vizibil de la depărtare. Aici este adăpostită celebra icoană a Madonei Negre, venerată de milioane de credincioși care întreprind anual pelerinaje masive, adesea mergând pe jos zile întregi din întreaga țară. În spatele importanței sale sacre, Częstochowa deține, de asemenea, un istoric industrial puternic, dezvoltat vizibil pe parcursul secolelor XIX și XX. (Religie K6 — Centre de pelerinaj și cultură catolică)",
-    "facts": [
-      "Sanctuarul Jasna Góra atrage cu impresionanță aproximativ 4 milioane de pelerini credincioși în fiecare an.",
-      "Icoana originală a Madonei Negre prezintă două cicatrici vizibile legendare cauzate de profanatori în anul 1430.",
-      "Monahii de la Jasna Góra au apărat eroic sanctuarul împotriva unei armate masive de invadatori suedezi în 1655.",
-      "Cel mai lung și larg bulevard din oraș, Bulevardul Sfânta Maria, duce drept către impunătoarea mănăstire."
-    ]
-  },
-  "gdynia": {
-    "description": "Gdynia este un triumf absolut al ingineriei și al voinței naționale poloneze din perioada interbelică. Transformat într-un deceniu dintr-un sat minuscul de pescari izolat, într-unul dintre cele mai mari porturi comerciale și baze navale din regiunea Mării Baltice, dezvoltarea sa a fost menită să ofere Poloniei propriul acces esențial la mare, ocolind orașul independent Danzig. Arhitectura centrului său strălucește printr-un stil modern remarcabil, caracterizat de balcoane și fațade albe menite să imite formele aerodinamice ale navelor maritime masive de pasageri. În prezent, orașul găzduiește evenimente de film prestigioase și festivaluri muzicale internaționale. (Istorie K8 — Dezvoltarea urbană interbelică)",
-    "facts": [
-      "Lucrările ample de construcție pentru noul port maritim modern au început abia în anul 1921.",
-      "Centrul orașului este celebru pe plan mondial pentru arhitectura sa modernă și constructivistă absolut spectaculoasă.",
-      "Orașul Gdynia este recunoscut ca gazdă principală a prestigiosului Festival anual de Film Polonez.",
-      "Nave muzeu legendare, precum distrugătorul istoric Błyskawica, stau ancorate proeminent în portul sudic."
-    ]
-  },
-  "sopot": {
-    "description": "Sopot este, fără îndoială, cea mai prestigioasă și mai elegantă stațiune balneară de pe întreaga coastă baltică a Poloniei. Cunoscut drept „Capitala de vară a Poloniei”, a atras de-a lungul secolelor aristocrația, artiștii și elita europeană, cuplând rafinamentul arhitecturii sale Art Nouveau cu atmosfera vibrantă a litoralului. Plajele fine cu nisip alb strălucitor se desfășoară alături de un dig istoric din lemn, cel mai lung de acest fel din Europa. Punctul principal de atracție al orașului, Bulevardul Monte Cassino, pulsează intens zi și noapte cu terase rafinate, baruri luxoase și turiști încântați. (Turism K6 — Istoria destinațiilor balneare europene)",
-    "facts": [
-      "Impresionantul său dig turistic maritim se extinde grațios la peste 511 metri distanță în Marea Baltică.",
-      "Bizarul edificiu 'Krzywy Domek' (Casa Strâmbă) este faimos, deși nu pare să aibă nicio linie dreaptă pe fațadă.",
-      "Sopot este renumit în mod deosebit pentru apele sale sărate și iodate, folosite eficient pentru tratamente de sănătate din secolul XIX.",
-      "Faimosul său Festival Internațional de Cântec a început să aibă un impact enorm încă din 1961."
-    ]
-  },
-  "wawel": {
-    "description": "Castelul Wawel, care se înalță maiestuos pe o stâncă deasupra râului Vistula în Cracovia, este inima istorică și spirituală de necontestat a Poloniei regale. Mai bine de cinci secole, acest impresionant complex a servit ca reședință principală a monarhilor polonezi din dinastiile Piast, Jagiellonă și Vasa. În complex, palatul renascentist masiv cu curtea sa interioară perfect proporționată uimește prin tapiseriile sale uriașe din secolul al XVI-lea, cunoscute sub numele de arpazele Jagiellone. Catedrala Wawel adiacentă nu este doar locul de încoronare a regilor, ci și necropola sfinților și a eroilor naționali. (Istorie K6 — Arhitectura renascentistă și sedii regale)",
-    "facts": [
-      "Curtea interioară a palatului, cu arcadele sale armonioase, a fost modelată rafinat de sculptori italieni veniți special în Polonia.",
-      "Zilnic poate fi văzută grota legendarei ființe cunoscute drept Dragonul Wawel, sculptură care respiră efectiv foc.",
-      "Unul dintre cele mai sonore nume înmormântate aici este faimosul general revoluționar Tadeusz Kościuszko.",
-      "Colecția celebră de tapiserii flamande originale a fost adusă în siguranță în Canada în timpul Războiului Mondial, apoi returnată."
-    ]
-  },
-  "rynek-glowny": {
-    "description": "Rynek Główny din Cracovia reprezintă nu doar piața principală a orașului vechi, ci deține recordul de a fi cea mai mare piață publică medievală supraviețuitoare din Europa. Trasată cu o geometrie riguroasă încă din îndepărtatul an 1257, ea continuă să fie un punct de întâlnire aglomerat și uimitor. Epicentrul său comercial vizual este Sukiennice (Hala Postăvarilor), o capodoperă renascentistă absolută, unde meșteșugarii vând bijuterii din chihlimbar tradițional și astăzi. Între timp, din turnurile înalte ale falnicei Biserici Sfânta Maria, un trompetist solitar intonează melancolicul 'Hejnał' la fiecare oră fixă a zilei. (Istorie K7 — Planificarea orașelor medievale)",
-    "facts": [
-      "Măsurând impresionant 200 de metri pe fiecare latură exactă, piața reprezintă o bijuterie matematică medievală.",
-      "Hala masivă a Postăvarilor este adesea considerată onorific drept primul mare „centru comercial” real al istoriei europene.",
-      "Impresionantul altar sculptat complex în lemn de la Biserica Sfânta Maria a fost finalizat abia după 12 ani de muncă de meșterul Veit Stoss.",
-      "Sunetul simbolic de trompetă 'Hejnał' se oprește întotdeauna complet brusc, comemorând un atacatar legendar ucis în 1241."
-    ]
-  },
-  "zamek-ksiaz": {
-    "description": "Castelul Książ, ascuns magistral pe o stâncă stâncoasă proeminentă din zona împădurită a Sileziei Inferioare, este adesea menționat drept 'Perla Sileziei' și rămâne al treilea castel ca mărime din națiune. Fondat în secolul al XIII-lea sub patronajul principilor dinastiei Piast, palatul reflectă amestecul glorios al peste șapte secole de stiluri diferite, inclusiv reconstrucțiile elaborate baroce și renascentiste aduse de excentrica și redutabila familie germană von Hochberg. Însă, cel mai mare secret rămâne rețeaua misterioasă masivă de tuneluri, săpată frenetic în munți de forțele naziste în timpul proiectului 'Riese' din Al Doilea Război Mondial, a cărui menire finală nu a fost niciodată dezvăluită total. (Istorie K8 — Castele medievale și secrete militare)",
-    "facts": [
-      "Monumentalul castel are peste 400 de camere somptuoase decorate extravagant cu faimosul portelan silezian de aur.",
-      "Imensa sa grădină palatină spectaculoasă include peste douăsprezece terase tematice bogate care coboară vizual către stâncă.",
-      "Faimosul rege britanic Winston Churchill a fost, se pare, o rudă a ultimei principese oficiale a castelului Książ, Daisy.",
-      "Sistemul nenumărat de coridoare subterane secrete face parte din uriașul proiect neterminat al armatei naziste „Riese”."
+  {
+    "id": "city-liberec",
+    "descriptionAdvanced_de": "Reichenberg (Liberec) ist eine bedeutende Stadt im Norden Böhmens, am Fuße des Isergebirges gelegen. Im 19. Jahrhundert erlebte die Stadt durch die blühende Textilindustrie einen enormen Aufschwung, der sich in prachtvollen Villenvierteln und repräsentativen öffentlichen Gebäuden wie dem imposanten Rathaus widerspiegelt. Das unangefochtene Wahrzeichen der Stadt und der Region ist jedoch der Fernsehturm auf dem Berg Ještěd (Jeschken), dessen futuristische Architektur oft mit einem Raumschiff verglichen wird. Liberec ist heute ein wichtiges Wintersportzentrum und zieht mit botanischem Garten, Zoo und interaktivem Wissenschaftszentrum viele Familien an. Geografie K6 — regionale Entwicklung durch Textilindustrie.",
+    "factsAdvanced_de": [
+      "Das Rathaus von Liberec wurde im Stil der Neorenaissance erbaut und ähnelt stark dem Wiener Rathaus.",
+      "Der Fernsehturm Ještěd wurde mit dem Perret-Preis für herausragende Architektur ausgezeichnet.",
+      "Der Zoo Liberec ist der älteste Zoologische Garten in der Tschechischen Republik (gegründet 1904).",
+      "Die Stadt ist stark vom Gebirgsklima geprägt und hat lange, schneereiche Winter."
     ]
   }
-}
+]

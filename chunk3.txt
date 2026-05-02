@@ -1,0 +1,46 @@
+landmark-national-theatre|Nationaltheater Prag
+landmark-national-technical-museum|Technisches Nationalmuseum
+landmark-holy-trinity-column|Dreifaltigkeitssäule
+industry-dolni-vitkovice|Dolní Vítkovice
+industry-skoda-auto-mlada-boleslav|Škoda Auto Mladá Boleslav
+industry-pilsner-urquell-brewery|Pilsner Urquell Brauerei
+port-melnik-river-port|Elbehafen Mělník
+port-usti-nad-labem-river-port|Elbehafen Aussig
+agriculture-moravian-vineyards-mikulov|Mikulover Weinberge
+landmark-jested-tower|Jested Tower
+historical-sedlec-ossuary|Sedlec Ossuary
+landmark-st-barbara-church|St.-Barbara-Kirche
+historical-zelena-hora-church|Pilgerkirche Gruner Berg
+landmark-svaty-hostyn-basilica|Basilika Svaty Hostyn
+historical-svaty-kopecek-basilica|Svaty Kopecek
+landmark-marianske-lazne-colonnade|Marienbad Kolonnade
+landmark-valtice-chateau|Schloss Valtice
+agriculture-zatec-hop-fields|Saazer Hopfenfelder
+cz-melnik-vineyards|Melniker Weinberge
+industry-tatra-trucks-koprivnice|Tatra Trucks Koprivnice
+industry-bata-shoe-factory-zlin|Bata Fabrik Zlin
+industry-skoda-kvasiny|Skoda Kvasiny
+kid-landmark-prague-zoo|Prager Zoo
+kid-landmark-mirakulum-milovice|Mirakulum
+kid-landmark-dinopark-vyskov|Dinopark Vyskov
+kid-landmark-zlin-zoo|Zoo Zlin
+nat-bohemian-switzerland|Böhmische Schweiz NP
+nat-sumava|Böhmerwald NP
+nat-moravian-karst|Mährischer Karst
+nat-krkonose|Riesengebirge
+mountain-snezka|Schneekoppe
+mountain-praded|Altvater
+mountain-lysa-hora|Lysa Hora
+lake-lipno|Lipno-Stausee
+lake-machovo|Máchasee
+river-vltava|Moldau
+river-labe|Elbe
+island-kampa|Kampa
+mountain-jested|Jested
+mountain-klinovec|Keilberg
+mountain-blanik|Blanik
+lake-cerne-jezero|Schwarzer See
+lake-rozmberk|Rozmberk Teich
+river-ohre|Eger
+river-dyje|Thaya
+forest-bohemian-switzerland|Boehmische Schweiz Wald

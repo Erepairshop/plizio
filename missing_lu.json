@@ -1,0 +1,948 @@
+[
+  {
+    "id": "lu-country",
+    "name": "Luxemburg",
+    "deDesc": "Luxemburg, offiziell das Großherzogtum Luxemburg, ist ein faszinierendes, kleines Binnenland in Westeuropa, das eine Brücke zwischen der germanischen und der romanischen Kultur schlägt. Es grenzt im Westen und Norden an Belgien, im Osten an Deutschland und im Süden an Frankreich. Trotz seiner geringen Größe spielt Luxemburg eine überproportionale Rolle auf der Weltbühne, sowohl politisch als auch wirtschaftlich. Als eines der Gründungsmitglieder der Europäischen Union beherbergt es zahlreiche EU-Institutionen, darunter den Europäischen Gerichtshof und die Europäische Investitionsbank. Die Hauptstadt, Luxemburg-Stadt, ist ein beeindruckendes Beispiel für die Verschmelzung von Geschichte und Moderne, wobei ihre befestigte Altstadt zum UNESCO-Weltkulturerbe gehört. Die Geografie des Landes ist zweigeteilt: Der Norden, das Ösling, ist Teil der Ardennen und besticht durch bewaldete Hügel und tiefe Täler, während das Gutland im Süden durch fruchtbare Ebenen und sanfte Weinberge entlang der Mosel geprägt ist. Luxemburg ist das einzige verbliebene Großherzogtum der Welt, was ihm eine einzigartige monarchische Identität verleiht. Die sprachliche Vielfalt ist bemerkenswert, mit Luxemburgisch als Nationalsprache sowie Französisch und Deutsch als Amtssprachen. Wirtschaftlich gehört das Land zu den wohlhabendsten der Welt, mit einem starken Fokus auf Finanzdienstleistungen, Technologie und Stahlproduktion. Für Reisende bietet Luxemburg eine reiche Palette an Erlebnissen: von Wanderungen durch die felsige Region Müllerthal, auch bekannt als 'Kleine Luxemburger Schweiz', über den Besuch mächtiger mittelalterlicher Burgen wie Vianden bis hin zu Weinverkostungen im malerischen Moseltal. Die luxemburgische Gastronomie spiegelt die Einflüsse der Nachbarländer wider und kombiniert französische Raffinesse mit deutscher Herzhaftigkeit. Ob man die historischen Kasematten erkundet, die moderne Architektur auf dem Kirchberg-Plateau bewundert oder die Ruhe der Ardennen genießt – Luxemburg überrascht durch seine Vielfalt und Beständigkeit. Es ist ein Land, das seine Traditionen pflegt und gleichzeitig mutig in die Zukunft blickt, was es zu einem unverzichtbaren Ziel für Entdecker in Europa macht. Die hohe Lebensqualität und die internationale Atmosphäre machen es zu einem Schmelztiegel der Kulturen, in dem Menschen aus über 170 Nationen friedlich zusammenleben.",
+    "deFacts": [
+      "Die Burg Vianden ist eine der größten erhaltenen Feudalresidenzen Europas.",
+      "Victor Hugo lebte 1871 als politischer Flüchtling in Vianden.",
+      "Die Stadt veranstaltet jährlich ein großes mittelalterliches Festival.",
+      "Ein Sessellift bietet Besuchern einen fantastischen Panoramablick auf die Stadt und das Our-Tal."
+    ]
+  },
+  {
+    "id": "lu-echternach",
+    "name": "Echternach",
+    "deDesc": "Echternach ist die älteste Stadt Luxemburgs und ein wichtiges kulturelles Zentrum im Osten des Landes. Bekannt ist sie vor allem durch die Abtei Echternach, die im Jahr 698 vom irischen Mönch Willibrord gegründet wurde. Jährlich zieht die berühmte Echternacher Springprozession, die zum immateriellen UNESCO-Weltkulturerbe gehört, Tausende von Pilgern und Touristen an. Umgeben ist die historische Stadt von der atemberaubenden Landschaft des Müllerthals, das auch als 'Kleine Luxemburger Schweiz' bekannt ist. Dies ist ein hervorragendes Beispiel für sakrale Geschichte im Fach Geschichte K7.",
+    "deFacts": [
+      "Echternach erhielt seine Stadtrechte bereits im Jahr 1236.",
+      "Die Springprozession findet jedes Jahr am Pfingstdienstag statt.",
+      "Die römische Villa in Echternach war eine der größten in Mitteleuropa.",
+      "Die Stadt liegt direkt an der Grenze zu Deutschland an der Sauer."
+    ]
+  },
+  {
+    "id": "lu-mullerthal",
+    "name": "Müllerthal",
+    "deDesc": "Das Müllerthal, oft als 'Kleine Luxemburger Schweiz' bezeichnet, ist eine faszinierende Region im Osten Luxemburgs, die für ihre spektakulären Felsformationen und tiefen Wälder bekannt ist. Das Gebiet wird durchzogen von einem dichten Netz aus Wanderwegen, darunter der berühmte Mullerthal Trail, der Wanderer durch moosbedeckte Schluchten und vorbei an malerischen Wasserfällen führt. Entstanden sind diese bizarren Sandsteinlandschaften vor Millionen von Jahren durch geologische Prozesse und Erosion. Geomorphologie und Naturerhaltung in dieser Region sind ein spannendes Thema für Geografie K8.",
+    "deFacts": [
+      "Der Mullerthal Trail ist ein 112 Kilometer langer, mehrfach ausgezeichneter Wanderweg.",
+      "Der Schiessentümpel ist ein dreigeteilter Wasserfall mit einer malerischen Steinbrücke.",
+      "Viele Felsformationen tragen Namen, die auf Mythen und Legenden basieren.",
+      "Die Sandsteinfelsen bestehen aus Ablagerungen eines Urmeeres aus der Jurazeit."
+    ]
+  },
+  {
+    "id": "lu-schengen",
+    "name": "Schengen",
+    "deDesc": "Schengen ist ein kleines, friedliches Winzerdorf im Dreiländereck von Luxemburg, Deutschland und Frankreich. Weltberühmt wurde der Ort durch das 1985 hier unterzeichnete Schengener Abkommen, das die Abschaffung der stationären Grenzkontrollen in Europa einleitete. Besucher können am Ufer der Mosel das Europamuseum besuchen, das die Geschichte des grenzenlosen Europas dokumentiert. Die Weinberge um das Dorf produzieren einige der besten Weine Luxemburgs. Dieses symbolträchtige Dorf wird im Fach Politik K8 bei der Europäischen Integration behandelt.",
+    "deFacts": [
+      "Das Schengener Abkommen wurde auf dem Passagierschiff 'Princesse Marie-Astrid' unterzeichnet.",
+      "Die Schengener Säulen im Dorf symbolisieren die Nationen des Abkommens.",
+      "Ein Stück der Berliner Mauer ist in Schengen ausgestellt.",
+      "Das Dorf hat nur etwa rund 500 Einwohner, aber weltweite Bekanntheit."
+    ]
+  },
+  {
+    "id": "city-luxembourg",
+    "name": "Luxemburg-Stadt",
+    "deDesc": "Die Hauptstadt Luxemburg ist das pulsierende Herz des Landes und ein Schmelztiegel der europäischen Kulturen. Ihre einzigartige Topografie mit tiefen Tälern und hoch aufragenden Festungsmauern macht sie architektonisch unverwechselbar. Als globales Finanzzentrum und europäische Institutionenstadt zieht sie Fachkräfte aus aller Welt an, was sich in einer vielfältigen und dynamischen Gastronomieszene widerspiegelt. Die Altstadt, die seit 1994 zum UNESCO-Weltkulturerbe gehört, verbindet harmonisch historische Bausubstanz mit modernem städtischen Leben. Ein spannendes Fallbeispiel für Urbanisierung im Fach Geografie K8.",
+    "deFacts": [
+      "Über 70% der arbeitenden Bevölkerung der Stadt sind keine gebürtigen Luxemburger.",
+      "Die Adolphe-Brücke war bei ihrer Eröffnung die größte Steinbogenbrücke der Welt.",
+      "Das Europaviertel auf dem Kirchberg-Plateau beherbergt den Europäischen Gerichtshof.",
+      "Die Bock-Kasematten dienten im Zweiten Weltkrieg zehntausenden Menschen als Schutzraum."
+    ]
+  },
+  {
+    "id": "city-esch",
+    "name": "Esch-sur-Alzette",
+    "deDesc": "Esch-sur-Alzette, oft nur Esch genannt, ist die zweitgrößte Stadt Luxemburgs und das historische Zentrum der luxemburgischen Stahlindustrie. Die Stadt erlebte im 20. Jahrhundert durch die Eisenerzförderung einen enormen wirtschaftlichen Aufschwung und hat sich seitdem stark gewandelt. Heute ist das Viertel Belval ein Paradebeispiel für gelungene Industriekonversion, wo ehemalige Hochöfen auf moderne Universitätsgebäude und Start-ups treffen. Die Stadt war 2022 Kulturhauptstadt Europas. Die industrielle Transformation ist ein wichtiges Thema für Geschichte und Geografie K8.",
+    "deFacts": [
+      "Esch-sur-Alzette war 2022 Europäische Kulturhauptstadt (Esch2022).",
+      "Die Universität Luxemburg hat ihren Hauptsitz im umgestalteten Industriequartier Belval.",
+      "Der Hochofen Belval kann von Besuchern für einen spektakulären Ausblick bestiegen werden.",
+      "Die längste Einkaufsstraße Luxemburgs befindet sich im Zentrum von Esch."
+    ]
+  },
+  {
+    "id": "city-differdange",
+    "name": "Differdingen",
+    "deDesc": "Differdingen ist eine dynamische Industriestadt im Südwesten Luxemburgs, die ebenfalls tief von der Eisen- und Stahlproduktion geprägt wurde. Hier befindet sich das Luxembourg Science Center, das mit interaktiven Experimenten besonders junge Menschen für Naturwissenschaften begeistert. Die Stadt verbindet stolz ihr industrielles Erbe mit zukunftsorientierten Projekten wie nachhaltigen Wohnquartieren und Bildungszentren. Das Zisterzienserinnenkloster in der Stadtmitte bildet einen faszinierenden Kontrast zur industriellen Umgebung. Perfekt für das Fach Sachkunde K5 und Physik K6 zur Einführung in die Technik.",
+    "deFacts": [
+      "Differdingen ist bekannt für die Herstellung der sogenannten 'Grey-Träger' aus Stahl.",
+      "Das Luxembourg Science Center bietet über 100 interaktive Wissenschaftsstationen.",
+      "Schloss Differdingen beherbergt heute die Miami University Dolibois European Center.",
+      "Die Stadt liegt im Herzen der Region 'Minett', benannt nach dem dortigen Eisenerz."
+    ]
+  },
+  {
+    "id": "cult-bock",
+    "name": "Bock-Felsen und Kasematten",
+    "deDesc": "Der Bockfelsen gilt als die Wiege der Stadt Luxemburg; hier errichtete Graf Siegfried im Jahr 963 seine erste Festung. Im Laufe der Jahrhunderte bauten verschiedene Fremdmächte diese Burg zu einer gigantischen Festungsanlage aus, deren berühmtester Teil die Kasematten sind. Diese unterirdischen Verteidigungsgänge wurden tief in den massiven Fels gehauen und boten Platz für Tausende von Soldaten, Pferde und Kanonen. Heute sind die Bock-Kasematten eine der größten touristischen Attraktionen des Landes. Die strategische Festungsbauweise wird in Geschichte K7 unterrichtet.",
+    "deFacts": [
+      "Das Kasematten-Netzwerk war einst 23 Kilometer lang.",
+      "Im 19. Jahrhundert wurde die Festung geschleift, doch die unterirdischen Gänge blieben erhalten.",
+      "1994 wurden die Bock-Kasematten zum UNESCO-Weltkulturerbe erklärt.",
+      "Die Stollen reichen teilweise bis zu 40 Meter tief in den massiven Fels."
+    ]
+  },
+  {
+    "id": "cult-echternach",
+    "name": "Echternacher Basilika",
+    "deDesc": "Die Echternacher Basilika St. Willibrord ist das wichtigste religiöse Bauwerk Luxemburgs und das Zentrum der historischen Abtei Echternach. Die ursprüngliche Kirche wurde um 700 n. Chr. vom heiligen Willibrord gegründet, dessen Gebeine bis heute in der Krypta der Basilika ruhen. Die heutige romanische Struktur ist das Ergebnis mehrerer Umbauten und Wiederaufbauten, insbesondere nach den schweren Zerstörungen im Zweiten Weltkrieg. Sie ist der Ausgangspunkt der weltberühmten Echternacher Springprozession. Architekturbetrachtungen dieses Bauwerks finden sich in Geschichte K6.",
+    "deFacts": [
+      "Die Krypta aus dem 8. Jahrhundert beherbergt das Grab des heiligen Willibrord.",
+      "Die Basilika wurde 1944 in der Ardennenoffensive stark beschädigt und danach originalgetreu rekonstruiert.",
+      "Die Kirche erhielt 1939 von Papst Pius XII. den Titel einer päpstlichen Basilica minor.",
+      "Die jährliche Springprozession zu Ehren des Heiligen ist UNESCO-Kulturerbe."
+    ]
+  },
+  {
+    "id": "cult-schengen",
+    "name": "Schengen-Dorf",
+    "deDesc": "Das Dorf Schengen, malerisch an den Hängen der Mosel gelegen, ist weit mehr als nur ein landwirtschaftliches Zentrum; es ist das Symbol für das vereinte Europa ohne Grenzen. Im Europäischen Museum erfahren Besucher alles über die Entstehung des Schengener Abkommens und die Entwicklung der offenen Binnengrenzen. Monumente wie die Schengener Säulen und die Plaketten am Moselufer unterstreichen die geopolitische Bedeutung dieses kleinen Ortes. Schengen zeigt anschaulich, wie aus einem historischen Dokument gelebter europäischer Alltag wurde. Diese Thematik ist Kernstoff für Politik K8.",
+    "deFacts": [
+      "Das berühmte Abkommen wurde am 14. Juni 1985 unterzeichnet.",
+      "Vor dem Abkommen gab es hier strenge Grenzkontrollen zwischen Deutschland, Frankreich und Luxemburg.",
+      "Ein Abschnitt der originalen Berliner Mauer wurde zur Erinnerung im Dorfzentrum aufgestellt.",
+      "In Schengen steht auch das Schloss Schengen, ein altes Wasserschloss aus dem 14. Jahrhundert."
+    ]
+  },
+  {
+    "id": "nat-ardennek-lu",
+    "name": "Luxemburger Ardennen",
+    "deDesc": "Die Luxemburger Ardennen, lokal auch Éislek genannt, bilden den nördlichen Teil des Landes und zeichnen sich durch raue Natur, dichte Wälder und tief eingeschnittene Täler aus. Diese Region ist ein Paradies für Naturliebhaber, Wanderer und Radfahrer und beherbergt zahlreiche mittelalterliche Burgen wie Bourscheid und Vianden. Geologisch gehört das Gebiet zum Rheinischen Schiefergebirge. Im Winter sind die Ardennen die einzige Region Luxemburgs, die regelmäßig Schnee verzeichnet. Dies ist ein hervorragendes Gebiet für den Geografieunterricht K7 über Mittelgebirge.",
+    "deFacts": [
+      "Die höchste Erhebung Luxemburgs, der Kneiff (560 Meter), befindet sich hier.",
+      "Das Éislek nimmt etwa ein Drittel der gesamten Landesfläche Luxemburgs ein.",
+      "Der Naturpark Obersauer in den Ardennen schützt den wichtigsten Trinkwasserspeicher des Landes.",
+      "Die Region war im Winter 1944/1945 Schauplatz der erbitterten Ardennenoffensive."
+    ]
+  },
+  {
+    "id": "nat-moselle",
+    "name": "Mosel-Tal",
+    "deDesc": "Das Moseltal bildet die natürliche Grenze zwischen Luxemburg und Deutschland und ist eine der schönsten Kulturlandschaften der Region. Die steilen, sonnenverwöhnten Hänge entlang des Flusses sind die Heimat der luxemburgischen Weinproduktion, die für ihre exzellenten Weißweine und Crémants international ausgezeichnet ist. Entlang der Luxemburger Weinstraße laden zahlreiche Winzerdörfer wie Remich und Grevenmacher zur Verkostung ein. Die friedliche Flusslandschaft bietet zudem hervorragende Bedingungen für Wassersport und Radtourismus. Wirtschaft und Agrarökologie der Mosel sind Themen für Geografie K8.",
+    "deFacts": [
+      "Die Luxemburger Weinstraße erstreckt sich über 42 Kilometer von Schengen bis Wasserbillig.",
+      "Elbling, Rivaner, Auxerrois und Riesling sind die häufigsten Rebsorten der Region.",
+      "Der 'Crémant de Luxembourg' gewinnt regelmäßig internationale Qualitätspreise.",
+      "Die Mosel ist die einzige schiffbare Wasserstraße Luxemburgs mit direkter Verbindung zum Rhein."
+    ]
+  },
+  {
+    "id": "city-bourscheid",
+    "name": "Bourscheid",
+    "deDesc": "Bourscheid ist eine charmante Gemeinde in den Luxemburger Ardennen, die vor allem für ihre monumentale Burgruine bekannt ist. Die Burg Bourscheid, die auf einem von der Sauer umflossenen Felssporn ruht, ist die größte mittelalterliche Festungsanlage Luxemburgs. Das Dorf selbst bietet traditionelle luxemburgische Architektur und dient als idealer Ausgangspunkt für spektakuläre Wanderungen durch das Sauertal. Besonders die Aussichtspunkte rund um den Ort ziehen zahlreiche Landschaftsfotografen an. Der mittelalterliche Festungsbau wird oft im Fach Geschichte K6 thematisiert.",
+    "deFacts": [
+      "Die Ursprünge der Burg Bourscheid reichen bis ins Jahr 1000 zurück.",
+      "Die Burgruine liegt beeindruckende 150 Meter über dem Flusstal der Sauer.",
+      "Nachts wird die gesamte Burganlage eindrucksvoll illuminiert.",
+      "Im Ortsteil Michelau befindet sich ein bekannter, naturnaher Flussstrand."
+    ]
+  },
+  {
+    "id": "city-berdorf",
+    "name": "Berdorf",
+    "deDesc": "Berdorf ist ein malerisches Dorf auf einem Hochplateau im Herzen des Müllerthals und das unbestrittene Zentrum für Klettersportler in Luxemburg. Die Region rund um Berdorf ist berühmt für ihre spektakulären, hoch aufragenden Sandsteinfelsformationen, tiefe Schluchten und unzählige Höhlen. Das Dorf ist ein beliebter Ausgangspunkt für Etappen auf dem Mullerthal Trail. Neben der beeindruckenden Natur ist Berdorf auch landesweit für seinen handwerklich hergestellten Käse, den 'Berdorfer', bekannt. Gesteinskunde und Erosion sind typische Themen der Geografie K8.",
+    "deFacts": [
+      "Das Klettergebiet 'Wanterbaach' in Berdorf bietet Kletterrouten in beeindruckendem Sandstein.",
+      "Der lokale Käse 'Roude Bouf' wird in vielen luxemburgischen Restaurants serviert.",
+      "Die Hohllay (Hohle Fels) bei Berdorf diente früher als Steinbruch für Mühlsteine.",
+      "Das Amphitheater Breechkaul ist eine natürliche Felsformation, die für Konzerte genutzt wird."
+    ]
+  },
+  {
+    "id": "city-beaufort",
+    "name": "Befort",
+    "deDesc": "Befort, auch Beaufort genannt, ist eine historische Ortschaft am Rand der 'Kleinen Luxemburger Schweiz'. Berühmt ist das Dorf für seine zwei nebeneinanderliegenden Schlösser: Die romantische Ruine einer mittelalterlichen Burg und ein Renaissance-Schloss aus dem 17. Jahrhundert. In den Kellern des Schlosses wird bis heute der traditionelle Cassero-Likör aus schwarzen Johannisbeeren hergestellt. Die Wälder um Beaufort mit ihren wilden Bächen laden zu ausgedehnten Erkundungstouren ein. Ein klassisches Beispiel für den Übergang vom Mittelalter zur Renaissance für Geschichte K7.",
+    "deFacts": [
+      "Die mittelalterliche Burg Beaufort wurde im Dreißigjährigen Krieg weitgehend zerstört.",
+      "Das neue Renaissance-Schloss wurde 1649 von Jean de Beck erbaut.",
+      "Der Likör 'Cassero de Beaufort' wird ohne künstliche Zusätze direkt im Schloss produziert.",
+      "Die Naturreservate der Umgebung sind wichtige Lebensräume für seltene Vogelarten."
+    ]
+  },
+  {
+    "id": "city-clervaux",
+    "name": "Clerf",
+    "deDesc": "Clerf, malerisch im Tal der Clerve in den Ardennen gelegen, ist eine Stadt mit tiefer kultureller und historischer Bedeutung. Über dem Zentrum thront das blendend weiße Schloss Clervaux, das heute die weltberühmte Fotoausstellung 'The Family of Man' beherbergt, die von Edward Steichen kuratiert wurde. Die Stadt ist zudem geprägt von der Abtei St. Mauritius und St. Maurus, deren markanter Turm das Stadtbild bestimmt. Während der Ardennenoffensive erlitt Clerf schwere Zerstörungen, die heute in einem lokalen Museum dokumentiert sind. Ideal für den Kunst- und Geschichtsunterricht K8.",
+    "deFacts": [
+      "Die Fotoausstellung 'The Family of Man' gehört zum UNESCO-Weltdokumentenerbe.",
+      "Die Abtei Clervaux beherbergt Benediktinermönche, die für ihren gregorianischen Gesang bekannt sind.",
+      "Im Innenhof des Schlosses ist ein amerikanischer Sherman-Panzer aus dem Zweiten Weltkrieg ausgestellt.",
+      "Die neoromanische Pfarrkirche der Stadt wurde zwischen 1910 und 1912 erbaut."
+    ]
+  },
+  {
+    "id": "city-wiltz",
+    "name": "Wiltz",
+    "deDesc": "Wiltz ist eine lebendige Stadt in den Ardennen und stolz auf ihren Titel als 'Hauptstadt der Éislek'. Sie ist in eine Oberstadt rund um das historische Schloss und eine Unterstadt im Tal unterteilt. Weltweit bekannt ist Wiltz für sein Europäisches Pfadfinderzentrum und als 'Cité des Martyrs', eine Anerkennung für den Widerstand der Bevölkerung während des landesweiten Streiks 1942 gegen die deutsche Besatzung. Im Sommer zieht das Festival de Wiltz tausende Besucher zu Open-Air-Konzerten in das Amphitheater des Schlosses. Der zivile Widerstand ist ein Schlüsselthema in Geschichte K8.",
+    "deFacts": [
+      "In Wiltz begann 1942 der Generalstreik gegen die Zwangsrekrutierung durch die Nazis.",
+      "Das Schloss Wiltz beherbergt ein nationales Braukunstmuseum.",
+      "Ein bedeutendes Monument ehrt die Streikenden des Zweiten Weltkriegs.",
+      "Die Stadt ist von tiefen Wäldern umgeben und ein Zentrum für Naturtourismus."
+    ]
+  },
+  {
+    "id": "city-larochette",
+    "name": "Fels",
+    "deDesc": "Fels, oder Larochette, liegt idyllisch in einem engen Tal, das vom Fluss Weiße Ernz tief in den Sandstein gegraben wurde. Das markanteste Wahrzeichen ist die teilweise restaurierte Burgruine, die eindrucksvoll auf einem Felsvorsprung 150 Meter über dem Zentrum der Ortschaft aufragt. Fels ist heute ein beliebter Erholungsort und ein wichtiger Knotenpunkt für Wanderwege in der Region Müllerthal. Historisch war die Stadt ein Zentrum der Textilindustrie, was sich noch in einigen alten Gebäuden erkennen lässt. Die lokale Topografie ist ein Fallbeispiel für Geografie K6.",
+    "deFacts": [
+      "Die Burg Larochette wurde Ende des 16. Jahrhunderts durch ein Feuer zerstört.",
+      "Der Ort ist umgeben von tiefen Wäldern und markanten Felsformationen.",
+      "In der Blütezeit der Textilindustrie gab es zahlreiche Tuchfabriken im Tal.",
+      "Ein historischer Marktplatz mit traditionellen Häusern bildet das Zentrum der Stadt."
+    ]
+  },
+  {
+    "id": "city-ettelbruck",
+    "name": "Ettelbrück",
+    "deDesc": "Ettelbrück ist ein wichtiger Verkehrsknotenpunkt und ein bedeutendes Handelszentrum am Rande der luxemburgischen Ardennen. Die Stadt wird oft als 'Patton Town' bezeichnet, da sie 1944 von den Truppen des amerikanischen Generals George S. Patton von der deutschen Besatzung befreit wurde; das General-Patton-Memorial-Museum ehrt dieses Ereignis. Die Stadt liegt strategisch günstig am Zusammenfluss von Sauer, Alzette und Wark, was sie landwirtschaftlich und kommerziell sehr attraktiv macht. Die Ereignisse des Zweiten Weltkriegs in dieser Region sind Thema in Geschichte K8.",
+    "deFacts": [
+      "Ettelbrück war eines der Epizentren der harten Kämpfe während der Ardennenoffensive.",
+      "Das Patton-Museum besitzt eine der größten Sammlungen militärischer Artefakte in Luxemburg.",
+      "Jedes Jahr im Juli findet in Ettelbrück die größte Landwirtschaftsmesse Luxemburgs (Foire Agricole) statt.",
+      "Die Stadt ist auch als Bildungszentrum der Region mit zahlreichen Schulen bekannt."
+    ]
+  },
+  {
+    "id": "city-grevenmacher",
+    "name": "Grevenmacher",
+    "deDesc": "Grevenmacher ist die wichtigste Stadt an der Luxemburger Mosel und das wirtschaftliche Zentrum des Weinbaus im Land. Entlang der malerischen Flusspromenade finden sich zahlreiche Kellereien, in denen die feinen Moselweine und der prickelnde Crémant verkostet werden können. Eine der Hauptattraktionen ist der Schmetterlingsgarten, der Familien und Naturliebhaber aus der ganzen Großregion anzieht. Historisch war die Stadt im Mittelalter stark befestigt, heute zeugt noch der alte Glockenturm von dieser Zeit. Der Einfluss des Klimas auf die Landwirtschaft wird in Geografie K7 behandelt.",
+    "deFacts": [
+      "In Grevenmacher hat die größte Weinbaugenossenschaft Luxemburgs, Domaines Vinsmoselle, ihren Sitz.",
+      "Die Stadt beherbergt eine historische Spielkartenfabrik, die heute ein Museum ist.",
+      "Der tropische Schmetterlingsgarten züchtet Hunderte von exotischen Arten.",
+      "Das alljährliche Trauben- und Weinfest (Fête du Raisin et du Vin) ist eines der größten des Landes."
+    ]
+  },
+  {
+    "id": "city-consdorf",
+    "name": "Consdorf",
+    "deDesc": "Consdorf liegt auf einem grünen Plateau im Zentrum des Müllerthals und ist ein bevorzugtes Ziel für Naturforscher und Wanderer. Die Wälder um Consdorf verbergen einige der eindrucksvollsten und dunkelsten Felsschluchten der Region, wie die 'Kuelscheier', in der man fast ohne Tageslicht durch schmale Gänge manövrieren muss. Das Dorf hat sich seinen ländlichen Charme bewahrt und dient als ruhiger Rückzugsort für Touristen abseits der großen Städte. Naturgeschichte und Geologie sind wesentliche Aspekte für das Fach Sachkunde K5.",
+    "deFacts": [
+      "Die 'Kuelscheier' (Kohlenscheune) ist eine extrem schmale, tiefe Felsspalte, für die man eine Taschenlampe benötigt.",
+      "Während des Zweiten Weltkriegs boten diese Felsspalten Widerstandskämpfern sichere Verstecke.",
+      "Das Dorf Consdorf war früher ein wichtiger Bahnhof der luxemburgischen Schmalspurbahn.",
+      "Lokale Wanderwege in Consdorf wurden mehrfach als Premiumwege zertifiziert."
+    ]
+  },
+  {
+    "id": "city-waldbillig",
+    "name": "Waldbillig",
+    "deDesc": "Waldbillig ist eine malerische Landgemeinde, die tief in die grüne Landschaft des Müllerthals eingebettet ist. Besondere historische Bedeutung erlangte der Ort durch Michel Rodange, den berühmten luxemburgischen Nationaldichter und Autor des 'Renert', der hier geboren wurde. Heute ist Waldbillig Ausgangspunkt für Ausflüge in die Natur, unter anderem zum malerischen Schiessentümpel-Wasserfall, der sich auf dem Gemeindegebiet befindet. Die Bewahrung luxemburgischer Literatur und Sprache macht den Ort wichtig für die nationale Identität, ein Thema für Kultur K6.",
+    "deFacts": [
+      "Der Schriftsteller Michel Rodange wurde 1827 in Waldbillig geboren.",
+      "Der berühmte Schiessentümpel, eine steinerne Brücke über einem dreiteiligen Wasserfall, gehört zur Gemeinde.",
+      "Ein Teil der Burgruine Heringerburg befindet sich in den Wäldern von Waldbillig.",
+      "Die Gemeinde engagiert sich stark für den Erhalt traditioneller luxemburgischer Bauernhäuser."
+    ]
+  },
+  {
+    "id": "city-weiswampach",
+    "name": "Weiswampach",
+    "deDesc": "Weiswampach liegt ganz im Norden Luxemburgs an der Grenze zu Belgien und Deutschland in den hohen Lagen der Ardennen. Die Gemeinde ist bekannt für ihre beiden künstlichen Seen, die im Sommer ein Zentrum für Freizeitaktivitäten, Schwimmen und Wassersport darstellen. Aufgrund seiner Nähe zur Grenze ist der Ort auch ein beliebtes Einkaufsziel. Die Hochebene bietet zudem ideale Bedingungen für Wintersport wie Skilanglauf, wenn genügend Schnee liegt. Die Geografie der Grenzregionen wird im Fach Geografie K7 behandelt.",
+    "deFacts": [
+      "Weiswampach hat den höchsten Anteil an ausländischen Grenzgängern im lokalen Einzelhandel.",
+      "Die beiden Stauseen haben eine Gesamtfläche von über 16 Hektar.",
+      "Im Sommer findet an den Seen ein bekannter internationaler Triathlon statt.",
+      "Ein nahegelegenes Denkmal in der Gemeinde erinnert an abgeschossene alliierte Piloten."
+    ]
+  },
+  {
+    "id": "city-troisvierges",
+    "name": "Troisvierges",
+    "deDesc": "Troisvierges (Ulflingen) ist die nördlichste Gemeinde Luxemburgs und war historisch ein extrem wichtiger Knotenpunkt für den Eisenbahnverkehr in den Ardennen. Eine Besonderheit der Region ist der Vennbahn-Radweg, der auf stillgelegten Bahntrassen verläuft und Troisvierges mit Aachen in Deutschland verbindet. In der Geschichte Luxemburgs ist der Ort bekannt, da hier am 1. August 1914 die ersten deutschen Soldaten die Grenze überschritten und damit die Besetzung im Ersten Weltkrieg begann. Die Auswirkungen europäischer Kriege werden intensiv in Geschichte K8 behandelt.",
+    "deFacts": [
+      "In Troisvierges begann 1914 die deutsche Invasion Luxemburgs im Ersten Weltkrieg.",
+      "Der Vennbahn-Radweg ist einer der längsten und flachsten Bahnstrecken-Radwege Europas.",
+      "Der lokale Bahnhof war lange Zeit der wichtigste Umschlagplatz für landwirtschaftliche Güter im Norden.",
+      "Die Naturreservate um Troisvierges beheimaten seltene Pflanzenarten wie wilde Orchideen."
+    ]
+  },
+  {
+    "id": "city-beckerich",
+    "name": "Beckerich",
+    "deDesc": "Beckerich liegt im Westen Luxemburgs nahe der belgischen Grenze und hat sich landesweit einen Namen als Pioniergemeinde für ökologische Nachhaltigkeit und alternative Energien gemacht. Seit Jahrzehnten investiert die Gemeinde erfolgreich in Biogas, Solarenergie und eine eigene Wasserabfüllanlage für das bekannte 'Beckericher Wasser'. Die alte Mühle im Ortszentrum wurde liebevoll restauriert und dient heute als Kulturzentrum und Restaurant, das den Wandel vom Agrar- zum Ökodorf symbolisiert. Diese nachhaltige Entwicklung ist ein perfektes Anschauungsobjekt für Ökologie und Geografie K8.",
+    "deFacts": [
+      "Beckerich produziert mehr erneuerbare Energie als die Gemeinde selbst verbraucht.",
+      "Die Wasserquelle 'Beckerich' exportiert ihr Mineralwasser auch ins Ausland.",
+      "Die 'D'Millen' (alte Mühle) bietet Workshops zur Geschichte und zum nachhaltigen Leben an.",
+      "Die Gemeinde war eine der ersten in Luxemburg, die ein lokales Biogas-Fernwärmenetz aufbaute."
+    ]
+  },
+  {
+    "id": "city-walferdange",
+    "name": "Walferdange",
+    "deDesc": "Walferdange ist eine wohlhabende Gemeinde, die sich im landschaftlich reizvollen Tal der Alzette unmittelbar nördlich der Hauptstadt erstreckt. Historisch bedeutsam ist das majestätische Schloss Walferdange, das im 19. Jahrhundert als Residenz für Prinz Heinrich von den Niederlanden diente und später Teile der Universität Luxemburg beherbergte. Die Gemeinde ist auch berühmt für die unterirdischen Gipsminen, in denen sich seit Jahren das seismologische Labor Europas befindet. Der Kontrast von höfischer Geschichte und moderner Wissenschaft eignet sich gut für Physik und Geschichte K7.",
+    "deFacts": [
+      "Das seismologische Labor in den alten Gipsminen misst Erdbeben auf der ganzen Welt.",
+      "Schloss Walferdange war in der Vergangenheit ein Lehrerseminar und Universitätsstandort.",
+      "In der Gemeinde wurden bei Ausgrabungen bedeutende Überreste einer römischen Villa gefunden.",
+      "Walferdange veranstaltet die größte Buchmesse Luxemburgs, die 'Bicherdeeg'."
+    ]
+  },
+  {
+    "id": "city-strassen",
+    "name": "Strassen",
+    "deDesc": "Strassen ist eine moderne und stark wachsende Gemeinde westlich der Hauptstadt, die durch ihre Lage an der historischen Römerstraße von Trier nach Arlon geprägt wurde. Heute ist Strassen vor allem für seine erstklassige Infrastruktur, das Thermal- und Erlebnisbad 'Les Thermes' und eine sehr dynamische Wirtschaftsstruktur bekannt. Trotz der fortschreitenden Urbanisierung bemüht sich die Gemeinde um den Erhalt von Grünflächen und fördert aktiv die Kunst im öffentlichen Raum. Die Entwicklung von Vororten ist ein spannendes Thema für die Siedlungsgeografie K8.",
+    "deFacts": [
+      "Der Name der Gemeinde leitet sich direkt vom lateinischen 'strata' (gepflasterte Straße) ab.",
+      "Das Erlebnisbad 'Les Thermes' ist bekannt für seine futuristische, raumschiffartige Architektur.",
+      "Strassen hat den höchsten Anteil an ausländischen Einwohnern aller luxemburgischen Gemeinden (über 60%).",
+      "Die Gemeinde verfügt über einen ausgedehnten Skulpturenpark mit Werken lokaler und internationaler Künstler."
+    ]
+  },
+  {
+    "id": "city-mamer",
+    "name": "Mamer",
+    "deDesc": "Mamer ist eine charmante Ortschaft westlich der Hauptstadt, die auf eine reiche gallorömische Geschichte zurückblickt; Ausgrabungen römischer Thermen dokumentieren diese frühe Besiedlung. Das prächtige Schloss Mamer im Zentrum beherbergt heute die Gemeindeverwaltung und ist von einem wunderschönen öffentlichen Park umgeben. Mamer hat sich erfolgreich von einem kleinen Bauerndorf zu einer modernen Wohn- und Bildungsgemeinde entwickelt, insbesondere durch die Ansiedlung der renommierten Europäischen Schule. Diese historische Kontinuität ist ein Kernthema für Geschichte K6.",
+    "deFacts": [
+      "In Mamer wurden in den 1970er Jahren die Überreste einer großen römischen Badeanlage entdeckt.",
+      "Nicolas Frantz, der zweimalige Gewinner der Tour de France (1927, 1928), wurde in Mamer geboren.",
+      "Das Schloss Mamer wurde auf den Ruinen einer mittelalterlichen Burg errichtet.",
+      "Die Europäische Schule II in Mamer unterrichtet Kinder von EU-Beamten in mehreren Sprachen."
+    ]
+  },
+  {
+    "id": "city-hesperange",
+    "name": "Hesperange",
+    "deDesc": "Hesperingen liegt südöstlich der Hauptstadt Luxemburg und wird von dem idyllischen Fluss Alzette durchquert. Die Gemeinde beherbergt die romantische Ruine der Burg Hesperingen, die hoch über dem Tal thront und eine bewegte Geschichte aus dem 13. Jahrhundert erzählt. Heute ist Hesperingen eine dynamische Vorstadtgemeinde, die für ihre ausgedehnten Parkanlagen und Naherholungsgebiete wie den Hesper Park geschätzt wird. Die Mischung aus historischem Erbe und moderner Infrastruktur macht sie zu einem beliebten Wohnort. Diese Stadtentwicklung wird im Fach Geografie K7 behandelt.",
+    "deFacts": [
+      "Die Burg Hesperingen wurde 1480 vom Habsburger Kaiser Maximilian I. zerstört.",
+      "Der großzügige Hesper Park bietet einen See, Spielplätze und Themengärten.",
+      "Die Gemeinde war früher ein wichtiger Mühlenstandort entlang der Alzette.",
+      "Das örtliche Schloss steht heute in Privatbesitz und ist ein nationales Kulturdenkmal."
+    ]
+  },
+  {
+    "id": "city-betzdorf",
+    "name": "Betzdorf",
+    "deDesc": "Betzdorf ist eine beschauliche ländliche Gemeinde im Osten Luxemburgs, die weltweite Bedeutung in der Satellitenkommunikation erlangt hat. Auf dem Schloss Betzdorf hat das luxemburgische Satellitenunternehmen SES (Société Européenne des Satellites), einer der größten Satellitenbetreiber der Welt, seinen Hauptsitz. Während das Dorf selbst stark landwirtschaftlich geprägt bleibt, fließen hier modernste Technologie und Tradition auf faszinierende Weise zusammen. Diese Kombination aus Hightech und ländlichem Raum ist ein spannendes Thema für Wirtschaft und Physik K8.",
+    "deFacts": [
+      "Schloss Betzdorf war zeitweise die Residenz des ehemaligen Großherzogs Jean von Luxemburg.",
+      "Von Betzdorf aus werden über 70 Kommunikationssatelliten im All gesteuert.",
+      "Das Unternehmen SES überträgt von hier aus Tausende von Fernsehsendern weltweit.",
+      "Die Gemeinde engagiert sich in verschiedenen Umweltschutzprojekten, insbesondere im Bereich Wasserwirtschaft."
+    ]
+  },
+  {
+    "id": "city-biwer",
+    "name": "Biwer",
+    "deDesc": "Biwer ist eine kleine, traditionelle Gemeinde im Syr-Tal, die für ihre unberührte Natur und ruhige Lebensart bekannt ist. Das Dorfbild wird von klassischen luxemburgischen Bauernhäusern, dichten Wäldern und sanften Hügeln dominiert, die Wanderer und Radfahrer anziehen. Biwer bewahrt erfolgreich sein agrarisches Erbe und hat sich bewusst gegen eine starke Urbanisierung entschieden. Die lokale Kirche Saint-André bildet das historische Herzstück des Ortes. Die Struktur ländlicher Siedlungen ist ein klassisches Thema für den Geografieunterricht K6.",
+    "deFacts": [
+      "Die Region um Biwer ist bekannt für ihre ausgedehnten Obstbaumwiesen (Bongerten).",
+      "Das Syr-Tal ist ein wichtiges Naturschutzgebiet für seltene Vogelarten und Insekten.",
+      "Biwer gehört zu den Gemeinden mit der geringsten Bevölkerungsdichte im Osten des Landes.",
+      "Die Dorfkirche Saint-André wurde im 19. Jahrhundert im neoklassizistischen Stil erbaut."
+    ]
+  },
+  {
+    "id": "city-petange",
+    "name": "Petange",
+    "deDesc": "Petingen, gelegen im äußersten Südwesten an der Grenze zu Belgien und Frankreich, ist eine historisch bedeutende Industriestadt. Sie war im 19. und 20. Jahrhundert ein wichtiges Zentrum der luxemburgischen Eisenbahn- und Stahlindustrie, was sich noch heute am historischen Bahnhof und den umliegenden Gebäuden ablesen lässt. Petingen ist auch dafür bekannt, dass hier im September 1944 der erste amerikanische Soldat bei der Befreiung Luxemburgs fiel. Die industrielle Revolution und ihre Folgen sind Hauptthemen in Geschichte K8.",
+    "deFacts": [
+      "In Petingen wurde 1944 der US-Soldat Hyman Josefson als erster Amerikaner auf luxemburgischem Boden getötet.",
+      "Der 'Minett Park Fond-de-Gras', ein Freilichtmuseum für Industriegeschichte, liegt teilweise auf Petinger Gebiet.",
+      "Die Stadt feiert jährlich einen der ältesten und größten Karnevalsumzüge Luxemburgs, die Kavalkade.",
+      "Petingen hat eine historische Dampfeisenbahn, den 'Train 1900', der Touristen anzieht."
+    ]
+  },
+  {
+    "id": "historical-echternach-basilica",
+    "name": "Basilika St. Willibrord",
+    "deDesc": "Die Basilika St. Willibrord in Echternach ist das bedeutendste religiöse Monument Luxemburgs und das Zentrum der historischen Abtei Echternach. Sie wurde ursprünglich vom angelsächsischen Missionar Willibrord im späten 7. Jahrhundert gegründet, dessen Gebeine in der ehrwürdigen Krypta unter dem Chor ruhen. Die heutige Struktur besticht durch ihre beeindruckende romanische Architektur, obwohl sie nach starken Zerstörungen in der Ardennenoffensive wieder aufgebaut werden musste. Sie ist Ziel der jährlichen Springprozession. Dies ist ein hervorragendes architektonisches Beispiel für sakrale Baukunst im Fach Geschichte K7.",
+    "deFacts": [
+      "Die Krypta stammt aus vorkarolingischer Zeit und ist der älteste Teil des Bauwerks.",
+      "Die Kirche erhielt 1939 den päpstlichen Ehrentitel einer 'Basilica minor'.",
+      "Die Echternacher Springprozession ist seit 2010 immaterielles UNESCO-Weltkulturerbe.",
+      "Im Mittelalter war die Abtei für ihre herausragende Schreibschule (Skriptorium) europaweit berühmt."
+    ]
+  },
+  {
+    "id": "historical-victor-hugo-house",
+    "name": "Victor-Hugo-Haus",
+    "deDesc": "Das Victor-Hugo-Haus in Vianden ist ein literarisches Museum, das im ehemaligen Wohnhaus des berühmten französischen Schriftstellers eingerichtet wurde. Victor Hugo besuchte Vianden zwischen 1862 und 1871 mehrfach, teilweise auch als politischer Flüchtling, und war von der romantischen Kulisse der Burgruine und des Our-Tals zutiefst fasziniert. Das Museum beherbergt originale Briefe, Manuskripte, Zeichnungen und persönliche Gegenstände, die seine tiefe Verbundenheit zu Luxemburg dokumentieren. Die europäische Literaturgeschichte und das Exil sind Themen im Fach Kultur K8.",
+    "deFacts": [
+      "Victor Hugo hielt das Schloss Vianden in über 60 detaillierten Skizzen fest.",
+      "Das Haus wurde 1935 zu einem Museum umgestaltet.",
+      "Hugo nannte Vianden oft ein 'Juwel' und lobte die wilde Natur der Ardennen.",
+      "Die vor dem Museum stehende Victor-Hugo-Büste wurde vom berühmten Bildhauer Auguste Rodin geschaffen."
+    ]
+  },
+  {
+    "id": "historical-berg-castle",
+    "name": "Schloss Berg",
+    "deDesc": "Schloss Berg, gelegen in der Gemeinde Colmar-Berg, ist die offizielle Hauptresidenz der luxemburgischen großherzoglichen Familie. Das prächtige Schloss wurde im 19. Jahrhundert erbaut und nach Beschädigungen und Plünderungen während des Zweiten Weltkriegs in den 1960er Jahren aufwendig renoviert und modernisiert. Obwohl das Innere des Schlosses für die Öffentlichkeit nicht zugänglich ist, sind die Architektur und die umgebenden Gärten ein wichtiges nationales Symbol für die Souveränität des Landes. Die Funktion europäischer Monarchien wird im Fach Politik K7 behandelt.",
+    "deFacts": [
+      "Während der deutschen Besatzung im Zweiten Weltkrieg diente das Schloss zeitweise als Mädchenschule.",
+      "Großherzog Henri, der frühere Herrscher, wurde auf Schloss Berg geboren.",
+      "Die Residenz ist seit 1845 im Besitz der großherzoglichen Familie.",
+      "Das Schloss verbindet architektonische Elemente der Neugotik und Neorenaissance."
+    ]
+  },
+  {
+    "id": "historical-schengen-monument",
+    "name": "Schengener Denkmal",
+    "deDesc": "Das Schengener Denkmal am Ufer der Mosel ist ein eindrucksvolles Symbol für das grenzenlose Europa. Es erinnert an die Unterzeichnung des Schengener Abkommens im Jahr 1985, das den freien Personenverkehr innerhalb der Europäischen Union begründete. Das Monument besteht aus drei markanten Stahlstelen, die mit Sternen versehen sind und für die ursprünglichen Unterzeichnerstaaten sowie die Idee eines geeinten Europas stehen. Es ist ein Pilgerort für politisch interessierte Europäer und ein zentrales Fallbeispiel für die Europäische Integration im Fach Politik K8.",
+    "deFacts": [
+      "Das Abkommen wurde auf dem Flussschiff 'Princesse Marie-Astrid' direkt vor dem heutigen Denkmal unterzeichnet.",
+      "Die drei Stelen symbolisieren die Benelux-Staaten, Deutschland und Frankreich.",
+      "Direkt neben dem Denkmal befindet sich ein Stück der Berliner Mauer.",
+      "Vor dem Monument sind Messingplatten in den Boden eingelassen, die alle heutigen Schengen-Mitgliedstaaten repräsentieren."
+    ]
+  },
+  {
+    "id": "historical-diekirch-military-history",
+    "name": "Nationales Museum der Militaergeschichte",
+    "deDesc": "Das Nationale Museum für Militärgeschichte (MNHM) in Diekirch bietet eine der weltweit umfassendsten und eindrucksvollsten Ausstellungen zur Ardennenoffensive (Battle of the Bulge) von 1944-1945. Auf über 3000 Quadratmetern präsentiert das Museum großflächige Dioramen, die den harten Winterkampf beider Seiten mit originalen Ausrüstungsgegenständen, Fahrzeugen und persönlichen Berichten authentisch nachstellen. Das Museum ist ein unverzichtbarer Ort der Erinnerung, der das Leid der Soldaten und der luxemburgischen Zivilbevölkerung aufzeigt. Der Zweite Weltkrieg ist ein zentrales Kernthema in Geschichte K8.",
+    "deFacts": [
+      "Das Museum besitzt eine Sammlung von über 100.000 militärischen Artefakten.",
+      "Eines der beeindruckendsten Ausstellungsstücke ist das Diorama der nächtlichen Überquerung der Sauer.",
+      "Das Museum ehrt besonders die US-Soldaten, die Luxemburg befreiten.",
+      "Auch das Schicksal der luxemburgischen Zwangsrekrutierten in der deutschen Wehrmacht wird ausführlich behandelt."
+    ]
+  },
+  {
+    "id": "landmark-bourglinster-castle",
+    "name": "Schloss Bourglinster",
+    "deDesc": "Schloss Bourglinster ist eine malerische Burganlage aus dem 11. Jahrhundert, die auf einem Felsvorsprung über dem gleichnamigen Dorf thront. Nach einer umfassenden Restaurierung in den 1980er Jahren wurde die Burg zu einem wichtigen kulturellen Zentrum und Austragungsort für klassische Konzerte und Kunstausstellungen. Besonders berühmt ist das Schloss heute für seine Gastronomie: Es beherbergt eines der besten Sternerestaurants Luxemburgs, wo hochklassige Kulinarik auf mittelalterliches Ambiente trifft. Die Nutzung historischer Gebäude in der Moderne ist ein Thema für Kultur K7.",
+    "deFacts": [
+      "Die unteren Teile der Burg wurden im 11. Jahrhundert als Verteidigungsanlage erbaut.",
+      "Im 16. Jahrhundert wurde die Burg nach Zerstörungen im Renaissancestil umgestaltet.",
+      "Das Sternerestaurant 'La Distillerie' befindet sich in den historischen Mauern des Schlosses.",
+      "Das Schloss ist Eigentum des Luxemburger Staates und fördert aktiv das Kunsthandwerk."
+    ]
+  },
+  {
+    "id": "historical-roman-villa-echternach",
+    "name": "Roemische Villa Echternach",
+    "deDesc": "Die Römische Villa Echternach ist eine der größten und luxuriösesten jemals entdeckten römischen Gutsanlagen (Villa Rustica) in Mitteleuropa. Die Ruinen, die in der Nähe des Echternacher Sees liegen, vermitteln ein faszinierendes Bild vom Leben der römischen Oberschicht vor etwa 2000 Jahren. Die Anlage umfasste über 70 Räume, darunter großzügige Badeanlagen mit Fußbodenheizung, prächtige Mosaike und weitläufige Innenhöfe. Das zugehörige Besucherzentrum veranschaulicht das gallorömische Alltagsleben. Diese archäologische Stätte ist von größter Bedeutung für das Fach Geschichte K6.",
+    "deFacts": [
+      "Die Villa wurde im 1. Jahrhundert nach Christus erbaut und mehrfach erweitert.",
+      "Das Anwesen umfasste ein Gelände von rund 10 Hektar.",
+      "Ein ausgeklügeltes römisches Hypokaustum (Fußbodenheizung) ist noch gut zu erkennen.",
+      "Ein rekonstruierter römischer Garten zeigt typische Pflanzen und Kräuter der damaligen Zeit."
+    ]
+  },
+  {
+    "id": "landmark-mersch-castle",
+    "name": "Schloss Mersch",
+    "deDesc": "Schloss Mersch liegt im Herzen der Stadt Mersch und ist ein charmantes Wasserschloss, dessen Wurzeln bis ins 13. Jahrhundert zurückreichen. Das Gebäude erlebte eine turbulente Geschichte mit mehreren Zerstörungen und Umbauten, wodurch es heute architektonische Elemente aus Gotik und Renaissance vereint. Heute beherbergt das renovierte Schloss die Gemeindeverwaltung und steht im Zentrum des kulturellen Lebens der Stadt. Die Erhaltung dieses Baudenkmals ist ein exzellentes Beispiel für den Denkmalschutz, der im Fach Geschichte K7 thematisiert wird.",
+    "deFacts": [
+      "Das Schloss wurde 1593 bei einem Brand zerstört und später wieder aufgebaut.",
+      "Die auffälligen Zwiebeltürme wurden im 17. Jahrhundert hinzugefügt.",
+      "Heute wird das Schloss teilweise als Sitz der örtlichen Kommunalverwaltung genutzt.",
+      "Vor dem Schloss befindet sich der malerische Schlosspark, der im Sommer für Festivitäten genutzt wird."
+    ]
+  },
+  {
+    "id": "river-our-river",
+    "name": "Our",
+    "deDesc": "Die Our ist ein landschaftlich bezaubernder Fluss, der in den belgischen Ardennen entspringt und über weite Strecken die natürliche Grenze zwischen Luxemburg und Deutschland bildet. Der Fluss gräbt sich tief durch das rheinische Schiefergebirge und prägt das enge, waldreiche Our-Tal, an dessen Hängen Burgen wie Vianden majestätisch thronen. Die Our ist besonders für ihren Reichtum an Fischen und für das große Pumpspeicherkraftwerk Vianden bekannt, das Wasser aus dem Fluss nutzt. Flusslandschaften und Geomorphologie werden ausführlich in Geografie K7 behandelt.",
+    "deFacts": [
+      "Die Our hat eine Gesamtlänge von rund 78 Kilometern.",
+      "Das Our-Tal ist ein wichtiger Lebensraum für den seltenen Schwarzstorch und die Wildkatze.",
+      "Das Pumpspeicherkraftwerk an der Our gehört zu den größten seiner Art in Europa.",
+      "Der Fluss mündet bei Wallendorf in die Sauer."
+    ]
+  },
+  {
+    "id": "river-alzette-river",
+    "name": "Alzette",
+    "deDesc": "Die Alzette ist der wichtigste innere Fluss Luxemburgs und fließt von der französischen Grenze im Süden nach Norden durch das Zentrum des Landes. Sie hat maßgeblich zur wirtschaftlichen Entwicklung beigetragen, da sie die Industrieregion Minett durchquert und einst das Kühlwasser für die Stahlindustrie lieferte. Die Alzette formt auch das dramatische Tal rund um den Bockfelsen in Luxemburg-Stadt, bevor sie nach etwa 73 Kilometern in die Sauer mündet. Die Wechselwirkung von Flüssen und Industrie ist ein Hauptthema für Geografie K8.",
+    "deFacts": [
+      "Die Alzette wird in der luxemburgischen Nationalhymne 'De Wilhelmus' besungen.",
+      "In der Vergangenheit war der Fluss durch die Stahlindustrie stark verschmutzt, wurde aber erfolgreich renaturiert.",
+      "Das Grund-Viertel in Luxemburg-Stadt liegt direkt am Ufer der Alzette.",
+      "Der Fluss ist sehr anfällig für Hochwasser, weshalb in den letzten Jahren zahlreiche Rückhaltebecken gebaut wurden."
+    ]
+  },
+  {
+    "id": "river-clerve-river",
+    "name": "Clerve",
+    "deDesc": "Die Clerve, ein Nebenfluss der Wiltz, fließt durch die raue und waldreiche Landschaft der luxemburgischen Ardennen (Éislek). Der Fluss prägt das Landschaftsbild maßgeblich und hat tiefe Täler in die Hochebene geschnitten, an deren Hängen sich historische Ortschaften wie Clervaux befinden. Die Clerve ist bekannt für ihre hervorragende Wasserqualität und bietet Lebensraum für sensible Arten wie Bachforellen und Krebse. Sie ist ein perfektes Anschauungsobjekt für Flusserosion und Gewässerökologie im Fach Sachkunde K5 und Biologie K7.",
+    "deFacts": [
+      "Die Clerve hat eine Länge von knapp 48 Kilometern.",
+      "Das Tal der Clerve wird von einer der malerischsten Eisenbahnstrecken Luxemburgs durchquert.",
+      "Die Flussufer bieten beliebte Routen für Wanderer und Naturfotografen.",
+      "Die Renaturierung der Clerve in den letzten Jahren hat die lokale Biodiversität stark gefördert."
+    ]
+  },
+  {
+    "id": "lake-echternach-lake",
+    "name": "Echternacher See",
+    "deDesc": "Der Echternacher See ist ein etwa 30 Hektar großer künstlicher Freizeitsee, der südlich der historischen Stadt Echternach liegt. Er wurde in den 1970er Jahren angelegt und hat sich zu einem der beliebtesten Naherholungsgebiete der Region entwickelt. Der See ist von einem ausgedehnten Park umgeben, der Spaziergänger, Jogger und Familien anzieht. Zu den Hauptattraktionen gehören Tretbootfahren, Minigolf und die angrenzenden Ruinen der größten römischen Villa Luxemburgs. Die touristische Nutzung von Gewässern ist ein Thema für Geografie K6.",
+    "deFacts": [
+      "Schwimmen ist im Echternacher See aus Gründen des Naturschutzes und der Wasserqualität streng verboten.",
+      "Jedes Jahr im Sommer findet hier das große Open-Air-Musikfestival 'e-Lake' statt.",
+      "Ein durchgängiger Weg von 3 Kilometern Länge führt direkt um das gesamte Ufer.",
+      "Eine kleine, bewaldete Insel liegt im Zentrum des Sees."
+    ]
+  },
+  {
+    "id": "mountain-berdorf-rocks",
+    "name": "Berdorfer Felsen",
+    "deDesc": "Die Berdorfer Felsen sind eine spektakuläre geologische Formation aus Luxemburger Sandstein im Herzen des Müllerthals. Diese hoch aufragenden, von tiefen Rissen durchzogenen Felsmassive wurden über Millionen von Jahren durch Wind- und Wassererosion geformt. Heute sind sie nicht nur ein landschaftliches Highlight, sondern auch das wichtigste Klettergebiet des Landes mit zahlreichen markierten Routen. Wanderer erkunden die unzähligen Höhlen und Schluchten wie die berühmte 'Hohllay'. Gesteinsformationen und Verwitterungsprozesse sind zentrale Inhalte in Geografie K8.",
+    "deFacts": [
+      "Die Felsen bestehen aus Sandsteinablagerungen, die im Jurazeitalter entstanden sind.",
+      "Die Felswände können Höhen von bis zu 50 Metern erreichen.",
+      "Die 'Hohllay' (Hohle Fels) wurde früher von Menschen als Steinbruch genutzt.",
+      "Das Klettergebiet 'Wanterbaach' erfordert eine spezielle Erlaubnis, um die Natur zu schützen."
+    ]
+  },
+  {
+    "id": "mountain-gaalgebierg-hill",
+    "name": "Gaalgebierg",
+    "deDesc": "Der Gaalgebierg, oder Galgenberg, ist eine bewaldete Erhebung, die sich schützend über die Industriestadt Esch-sur-Alzette im Süden Luxemburgs erhebt. In der Vergangenheit wurden an diesem Berg Eisenerz abgebaut, heute ist das Gebiet jedoch vollständig renaturiert und dient als die wichtigste grüne Lunge der Stadt. Der Berg bietet ausgedehnte Wanderwege, einen gepflegten Tierpark und zahlreiche Sportanlagen. Er symbolisiert eindrucksvoll den erfolgreichen Strukturwandel von einer Industrielandschaft zu einem Naherholungsgebiet, ein wichtiges Thema in Geografie K7.",
+    "deFacts": [
+      "Der düstere Name 'Galgenberg' verweist auf die einstige Hinrichtungsstätte im Mittelalter.",
+      "Auf dem Gaalgebierg liegt der städtische Rosengarten mit tausenden Blüten.",
+      "Der städtische Campingplatz auf der Anhöhe ist einer der beliebtesten im Süden des Landes.",
+      "Im Winter verwandelt sich eine Wiese auf dem Berg oft in eine künstliche Eislaufbahn."
+    ]
+  },
+  {
+    "id": "forest-kockelscheuer-forest",
+    "name": "Kockelscheuerer Wald",
+    "deDesc": "Der Kockelscheuerer Wald ist ein ausgedehntes Wald- und Naherholungsgebiet am südlichen Rand der Hauptstadt Luxemburg. Er ist ein zentrales Refugium für Großstädter, das neben dichten Buchen- und Eichenwäldern auch mehrere kleine Seen und Freizeiteinrichtungen beherbergt. Bekannt ist der Ort vor allem für das große Eissportzentrum 'Kockelscheuer', das nationale und internationale Wettbewerbe austrägt. Zudem ist der Wald ein wichtiges Rückzugsgebiet für die städtische Fauna. Ökologie und Naherholung werden in Sachkunde K5 und Biologie K6 behandelt.",
+    "deFacts": [
+      "Im Waldgebiet befindet sich das nationale Eissportzentrum mit drei Eisbahnen.",
+      "Das CK Sportcenter bietet Anlagen für Tennis, Squash und Badminton mitten im Grünen.",
+      "Das Gebiet wird von mehreren ökologischen Lehrpfaden durchzogen.",
+      "Die Teiche von Kockelscheuer entstanden durch die Stauung kleinerer Bäche."
+    ]
+  },
+  {
+    "id": "forest-eislek-forest",
+    "name": "Eislek-Wald",
+    "deDesc": "Der Éislek-Wald bezeichnet die weitläufigen, dichten Waldgebiete in den Luxemburger Ardennen im Norden des Landes. Diese Region ist stark bewaldet, wild und naturbelassen, geprägt von steilen Hängen und tief eingeschnittenen Flusstälern. Vorherrschend sind alte Eichen- und Buchenbestände, die Lebensraum für eine reiche Tierwelt, darunter Hirsche, Wildschweine und gelegentlich Wildkatzen, bieten. Die Region ist von großer wirtschaftlicher Bedeutung für die Forstwirtschaft und ein Magnet für den Ökotourismus. Ökosystem Wald ist ein fundamentales Thema für Biologie K7.",
+    "deFacts": [
+      "Rund ein Drittel der gesamten Landesfläche Luxemburgs ist bewaldet, größtenteils im Éislek.",
+      "Der Naturpark Obersauer und der Naturpark Our schützen große Teile dieses Waldgebiets.",
+      "In den letzten Jahren gibt es Bemühungen, den fast ausgestorbenen Luchs wieder anzusiedeln.",
+      "Das raue Klima des Éislek führt zu einer deutlich späteren Vegetation als im Süden des Landes."
+    ]
+  },
+  {
+    "id": "agriculture-caves-st-martin",
+    "name": "Caves St. Martin",
+    "deDesc": "Die Caves St. Martin in Remich sind eine der faszinierendsten Weinkellereien Luxemburgs, da ihre Gewölbe tief in die massiven Kalkfelsen des Moseltals gehauen wurden. Die Kellerei wurde 1919 gegründet und hat sich auf die traditionelle Flaschengärung zur Herstellung des berühmten Luxemburger Crémants spezialisiert. Besucher können durch die kilometerlangen unterirdischen Gänge spazieren, in denen bei konstanten Temperaturen Millionen von Flaschen reifen. Die Weinherstellung und der Weinbau an der Mosel sind perfekte Anschauungsbeispiele für die landwirtschaftliche Produktion in Geografie K8.",
+    "deFacts": [
+      "Die unterirdischen Stollen haben eine Gesamtlänge von über einem Kilometer.",
+      "Die Felsenkeller bieten das ganze Jahr über eine konstante natürliche Temperatur von 12 Grad Celsius.",
+      "Die Kellerei wurde unmittelbar nach dem Ende des Ersten Weltkriegs gegründet.",
+      "Flaschen werden in den Gängen noch traditionell auf Rüttelpulten (Pupitres) per Hand gedreht."
+    ]
+  },
+  {
+    "id": "agriculture-caves-bernard-massard",
+    "name": "Caves Bernard-Massard",
+    "deDesc": "Caves Bernard-Massard in Grevenmacher ist die größte in Privatbesitz befindliche Sektkellerei Luxemburgs und eine der bekanntesten Marken des Landes. Seit 1921 produziert das Haus hochwertige Schaumweine nach der klassischen 'Méthode Traditionnelle', inspiriert von den Verfahren in der Champagne. Die Kellerei direkt an der Moselpromenade ist nicht nur ein Produktionsort, sondern mit ihrem modernen Besucherzentrum ein Magnet für Weintouristen aus aller Welt. Die Bedeutung der Weinwirtschaft für den Export wird im Fach Wirtschaft K8 behandelt.",
+    "deFacts": [
+      "Bernard-Massard produziert jährlich fast 3 Millionen Flaschen Sekt und Wein.",
+      "Das Unternehmen ist seit Jahrzehnten offizieller Hoflieferant des großherzoglichen Hofes.",
+      "Der Gründer Jean Bernard-Massard lernte sein Handwerk direkt in der französischen Champagne.",
+      "Die Kellerei exportiert ihre Weine und Schaumweine in über 20 verschiedene Länder weltweit."
+    ]
+  },
+  {
+    "id": "agriculture-clos-des-rochers",
+    "name": "Clos des Rochers",
+    "deDesc": "Das Weingut Clos des Rochers in Grevenmacher ist eines der traditionsreichsten und renommiertesten privaten Weingüter an der Luxemburger Mosel. Es gehört zu den Pionieren des modernen, qualitätsorientierten Weinbaus in der Region und ist besonders bekannt für seine herausragenden Rieslinge und Auxerrois. Die Rebstöcke wachsen auf einigen der steilsten und besten Terroirs des Moseltals, was die Lese extrem aufwendig macht, aber höchste Qualität garantiert. Der Einfluss von Boden und Klima (Terroir) auf die Landwirtschaft wird in Geografie K7 thematisiert.",
+    "deFacts": [
+      "Das Weingut ist seit dem 19. Jahrhundert im Besitz der einflussreichen Winzerfamilie Clasen.",
+      "Viele der Weintrauben müssen aufgrund der Steillage der Weinberge aufwendig von Hand geerntet werden.",
+      "Clos des Rochers war maßgeblich an der Einführung der Qualitätsbezeichnung 'Domaine et Tradition' beteiligt.",
+      "Das Gut betreibt nachhaltigen Weinbau, um die Biodiversität der Weinberge zu erhalten."
+    ]
+  },
+  {
+    "id": "industry-bofferding-brewery",
+    "name": "Bofferding Brauerei",
+    "deDesc": "Die Brasserie Nationale, besser bekannt als Bofferding Brauerei, befindet sich in Bascharage und ist die größte und erfolgreichste Brauerei Luxemburgs. Seit 1764 braut das Familienunternehmen Bier und hat seine Produktionstechniken im Laufe der Jahrhunderte stetig modernisiert, ohne die luxemburgische Brautradition aufzugeben. Bei Führungen können Besucher den gesamten Brauprozess von den Sudkesseln bis zur Abfüllung hautnah miterleben. Die Brauerei ist ein zentrales Element der luxemburgischen Industriegeschichte und ein Fallbeispiel für Produktionsprozesse im Fach Wirtschaft K8.",
+    "deFacts": [
+      "Das Bofferding-Bier hat einen Marktanteil von über 50% in der luxemburgischen Gastronomie.",
+      "Das Brauwasser stammt aus einem brauereieigenen, über 300 Meter tiefen Brunnen.",
+      "Bofferding ist das einzige luxemburgische Bier, das in großem Maßstab exportiert wird.",
+      "Die Brauerei fördert ein Pfandsystem und setzt fast ausschließlich auf Mehrwegflaschen."
+    ]
+  },
+  {
+    "id": "industry-rumelange-mining-museum",
+    "name": "Rumelange Bergbaumuseum",
+    "deDesc": "Das Nationale Grubenmuseum (Musée National des Mines) in Rümelingen ist eine einzigartige Hommage an das industrielle Herz Luxemburgs, die Erzförderung (Minett). Das Museum liegt direkt in einer ehemaligen Eisenerzgrube, in die Besucher mit einer authentischen Grubenbahn tief einfahren können. Unter Tage wird unter realen, rauen Bedingungen veranschaulicht, wie die Bergleute im 19. und 20. Jahrhundert das Erz (Minette) abbauten, das Luxemburg reich machte. Die Geschichte der Industrialisierung und ihre sozialen Folgen ist ein zentrales Thema für Geschichte K8.",
+    "deFacts": [
+      "Besucher fahren mit einer kleinen Schmalspurbahn tief in die alten Bergwerksstollen ein.",
+      "Die Mine 'Walert' in Rümelingen war eine der wichtigsten und größten in Luxemburg.",
+      "Das Eisenerz der Region ist aufgrund seines rötlichen Eisenoxids auch als 'Minette' bekannt.",
+      "Das Museum zeigt die Entwicklung der Abbautechnik von Handarbeit zu massiven Maschinen."
+    ]
+  },
+  {
+    "id": "kid-landmark-parc-merveilleux",
+    "name": "Parc Merveilleux",
+    "deDesc": "Der Parc Merveilleux in Bettemburg ist der einzige Freizeit- und Tierpark Luxemburgs und seit Generationen ein beliebtes Ausflugsziel für Familien mit Kindern. Der Park verbindet geschickt zoologische Gehege mit exotischen Tieren von fünf Kontinenten mit Märchenwald-Installationen, in denen klassische Märchen animiert dargestellt werden. Zudem bietet der Park zahlreiche Spielplätze und interaktive Lernstationen zur Natur. Für das Fach Sachkunde K3 bietet der Park eine hervorragende Gelegenheit, verschiedene Tierarten und deren Lebensräume kennenzulernen.",
+    "deFacts": [
+      "Der Park beheimatet fast 200 verschiedene Tierarten aus aller Welt.",
+      "Der Parc Merveilleux wurde 1956 eröffnet und kontinuierlich erweitert.",
+      "Ein Großteil des Parks wird von der APEMH, einer Organisation für Inklusion von Menschen mit Behinderung, betrieben.",
+      "Besonders das Amazonien-Haus mit seinen tropischen Vögeln und Reptilien ist ein Highlight."
+    ]
+  },
+  {
+    "id": "kid-landmark-luxembourg-science-center",
+    "name": "Luxembourg Science Center",
+    "deDesc": "Das Luxembourg Science Center in Differdingen ist ein hochmodernes interaktives Entdeckungszentrum für Wissenschaft und Technologie. Auf Tausenden von Quadratmetern in ehemaligen Industriehallen können Besucher jeden Alters an über 100 Experimentierstationen Phänomene aus Physik, Mathematik und Robotik selbst erforschen. Tägliche Wissenschaftsshows zu Themen wie Elektrizität und Chemie ergänzen das Angebot und machen komplexe Zusammenhänge spielerisch begreifbar. Das Center ist ein perfekter außerschulischer Lernort für das Fach Physik und Mathematik K6 bis K8.",
+    "deFacts": [
+      "Das Center befindet sich in der historischen 'Léierbud', der ehemaligen Ausbildungswerkstatt der Stahlindustrie.",
+      "Zu den Highlights gehört ein künstlicher Blitze-Erzeuger (Tesla-Transformator).",
+      "Das Center legt großen Wert darauf, dass Anfassen und Mitmachen strengstens erwünscht sind.",
+      "Viele Erklärungen und Shows werden in bis zu fünf verschiedenen Sprachen angeboten."
+    ]
+  },
+  {
+    "id": "kid-landmark-escher-deierepark",
+    "name": "Escher Deierepark",
+    "deDesc": "Der Escher Déierepark liegt idyllisch auf dem Gaalgebierg in Esch-sur-Alzette und ist ein familienfreundlicher, kostenfrei zugänglicher Tierpark. Der Park konzentriert sich vor allem auf europäische Haus- und Nutztiere sowie heimische Wildtiere, darunter Rehe, Ziegen, Kaninchen und Waschbären. Durch offene Gehege und Fütterungsmöglichkeiten können Kinder direkten Kontakt zu den Tieren aufnehmen. Ein riesiges Baumhaus-Café bietet zudem eine großartige Aussicht über die Anlage. Das Kennenlernen heimischer Tierarten ist ein Kernthema für das Fach Sachkunde K3.",
+    "deFacts": [
+      "Der Tierpark umfasst eine Fläche von knapp zwei Hektar auf dem Galgenberg.",
+      "Der Eintritt in den Park ist das ganze Jahr über kostenlos.",
+      "Zahlreiche Wege im Park sind barrierefrei und rollstuhlgerecht angelegt.",
+      "Ein spezieller Streichelzoo ermöglicht es Kindern, Tiere hautnah zu erleben."
+    ]
+  },
+  {
+    "id": "kid-landmark-parc-leh",
+    "name": "Parc Leh",
+    "deDesc": "Der Parc Leh in Düdelingen ist ein ausgedehnter Naherholungswald, der besonders für seinen abenteuerlichen Kletter- und Hochseilgarten bekannt ist. Zwischen den Wipfeln alter Eichen und Buchen können Kinder und Erwachsene auf verschiedenen Parcours unterschiedlicher Schwierigkeitsgrade ihre Geschicklichkeit und ihren Mut testen. Neben dem Kletterabenteuer bietet der Park auch ausgedehnte, schattige Spazierwege und ein Restaurant, was ihn zu einem idealen Ziel für Tagesausflüge macht. Körperliche Betätigung in der Natur verbindet die Fächer Sport und Sachkunde K5.",
+    "deFacts": [
+      "Der Hochseilgarten im Parc Leh bietet über 100 verschiedene Kletterelemente in den Bäumen.",
+      "Spezielle Kinderparcours sind bereits für junge Abenteurer ab 5 Jahren zugänglich.",
+      "Die Kletterrouten reichen von 2 Metern bis zu beeindruckenden 15 Metern Höhe.",
+      "Der Wald war früher das Jagdrevier der Industriellenfamilien aus Düdelingen."
+    ]
+  },
+  {
+    "id": "city-remich",
+    "name": "Remich",
+    "deDesc": "Remich wird oft als die 'Perle der Mosel' bezeichnet und ist das touristische Zentrum der Luxemburger Weinstraße. Die charmante Stadt lockt mit einer kilometerlangen Flusspromenade, die von Linden gesäumt ist und zu entspannten Spaziergängen oder Bootsfahrten einlädt. Die steilen Weinberge im Hinterland prägen die lokale Wirtschaft, und die zahlreichen Kellereien bieten Verkostungen der exzellenten Moselweine an. Im Sommer vermittelt die Stadt mit ihren Cafés und Terrassen fast mediterranes Flair. Die Bedeutung des Tourismus an Flüssen ist ein Thema für Geografie K7.",
+    "deFacts": [
+      "Remich hat nach der Hauptstadt eine der höchsten Dichten an Gastronomiebetrieben in Luxemburg.",
+      "Die Minigolfanlage an der Esplanade ist eine der ältesten und beliebtesten des Landes.",
+      "Ein traditionelles Fest ist der Bacchus-Umzug (Bacchusfest) im August zur Feier des Weines.",
+      "Trotz seiner geringen Größe besitzt Remich einen kleinen, aber wichtigen Flusshafen für Personenschiffe."
+    ]
+  },
+  {
+    "id": "city-steinfort",
+    "name": "Steinfort",
+    "deDesc": "Steinfort ist eine charmante Grenzgemeinde im Westen Luxemburgs und bildet das Tor zur belgischen Provinz Luxemburg. Die Gemeinde erlebte im 19. Jahrhundert durch die Eisenerzverhüttung einen industriellen Aufschwung; das ehemalige Albel-Hüttenwerk mit seinem markanten Schornstein erinnert an diese Ära. Heute ist Steinfort vor allem als attraktives Wohngebiet mit dem Naherholungszentrum 'Mirador' und ausgedehnten Wäldern bekannt. Der Ort verbindet geschickt den Erhalt des industriellen Erbes mit modernem Naturschutz. Die Umnutzung von Industriebrachen ist Thema in Geografie K8.",
+    "deFacts": [
+      "Das Naturschutzzentrum Mirador befindet sich in einem ehemaligen Industriekomplex.",
+      "Die stillgelegte Eisenbahnstrecke Attert-Linie wurde zu einem beliebten Radweg umgebaut.",
+      "Das alte Hüttenwerk von Steinfort stand bis in die 1930er Jahre in Betrieb.",
+      "In Steinfort befindet sich eine der wichtigsten Wasserpumpstationen des Landes."
+    ]
+  },
+  {
+    "id": "city-bertrange",
+    "name": "Bertrange",
+    "deDesc": "Bartringen (Bertrange) ist eine florierende Gemeinde westlich von Luxemburg-Stadt, die als eines der wichtigsten Handels- und Dienstleistungszentren des Landes gilt. Geprägt wird die Wirtschaft stark durch große Einkaufszentren wie die 'City Concorde', die täglich Tausende von Besuchern anziehen. Trotz dieser urbanen Entwicklung hat der historische Dorfkern mit dem alten Schloss Schauwenburg seinen dörflichen Charakter bewahrt. Das Thermalbad 'Les Thermes', das auf der Grenze zu Strassen liegt, ergänzt das Freizeitangebot. Suburbanisierungsprozesse werden in der Geografie K8 ausführlich behandelt.",
+    "deFacts": [
+      "Die Einkaufszentren in Bartringen gehören zu den flächenmäßig größten im ganzen Land.",
+      "Das Schloss Schauwenburg beherbergt heute die Büros der Gemeindeverwaltung.",
+      "Bartringen war bereits zur Römerzeit ein wichtiger Verkehrsknotenpunkt an der Römerstraße.",
+      "Die Gemeinde verfügt über ein hervorragend ausgebautes Radwegenetz (Vël'Ok)."
+    ]
+  },
+  {
+    "id": "city-dudelange",
+    "name": "Dudelange",
+    "deDesc": "Düdelingen im tiefen Süden ist die viertgrößte Stadt Luxemburgs und war historisch eine der bedeutendsten Stahlmetropolen Europas. Das kolossale Erbe der Stahlindustrie prägt noch heute das Stadtbild, auch wenn viele der alten Industrieanlagen, wie das Viertel 'NeiSchmelz', in moderne Wohn- und Kulturquartiere umgewandelt werden. Heute positioniert sich Düdelingen als 'Stadt der Kulturen' mit dem Centre National de l'Audiovisuel (CNA) und zahlreichen Kunstausstellungen. Die soziale Geschichte der Arbeiterklasse und die Integration ausländischer Arbeiter ist ein wichtiges Thema in Geschichte K8.",
+    "deFacts": [
+      "Düdelingen hatte Ende des 19. Jahrhunderts eines der modernsten Stahlwerke Europas.",
+      "Fast 50% der Einwohner von Düdelingen haben einen Migrationshintergrund.",
+      "Der alte Wasserturm des Stahlwerks ist heute ein markanter Aussichtspunkt und Kulturzentrum.",
+      "Das 'CNA' beherbergt das nationale Archiv für Film, Fotografie und Musik."
+    ]
+  },
+  {
+    "id": "city-schifflange",
+    "name": "Schifflange",
+    "deDesc": "Schifflingen ist eine klassische Arbeiterstadt in der roten Minett-Region, die im Schatten des gewaltigen, stillgelegten Arbed-Stahlwerks liegt. Die Identität der Stadt ist tief mit der Schwerindustrie und der Gewerkschaftsbewegung verwurzelt; von hier gingen in den 1940er Jahren wichtige Streiks gegen die Besatzungsmacht aus. In den kommenden Jahren soll das brachliegende Hüttenareal in ein innovatives, klimaneutrales Stadtviertel transformiert werden. Der Wandel von der Schwerindustrie zu nachhaltigen Lebensräumen ist ein hervorragendes Fallbeispiel für Geografie K8.",
+    "deFacts": [
+      "Schifflingen ist die luxemburgische Gemeinde mit der zweithöchsten Bevölkerungsdichte.",
+      "Die Stadt ist stark vom luxemburgischen Arbeiterführer Jean Schortgen geprägt.",
+      "Das Arbed-Stahlwerk in Schifflingen wurde erst 2012 endgültig geschlossen.",
+      "Das benachbarte Naturschutzgebiet 'Brucherbierg' bietet seltene Orchideenarten."
+    ]
+  },
+  {
+    "id": "city-kayl",
+    "name": "Kayl",
+    "deDesc": "Kayl, tief im Süden an der französischen Grenze, ist eine Gemeinde, die eng mit der Geschichte des luxemburgischen Bergbaus verbunden ist. Auf den Hängen des 'Léiffrächen' erinnert das nationale Bergarbeiterdenkmal an die schwere und oft gefährliche Arbeit der Kumpel in den Eisenerzminen. Heute sind die ehemaligen Tagebaugebiete renaturiert und bilden ein ausgedehntes, rotes Canyon-Netzwerk, das als 'Minett Trail' bei Wanderern sehr beliebt ist. Die physischen und sozialen Auswirkungen des Bergbaus werden in Geografie und Geschichte K7 behandelt.",
+    "deFacts": [
+      "Das Nationale Bergarbeiterdenkmal in Kayl wurde 1957 eingeweiht.",
+      "Das Tal in Kayl wird auch als das 'Tal der Tränen' bezeichnet, wegen der vielen Grubenunglücke.",
+      "In der Wallfahrtskapelle Léiffrächen wird seit Jahrhunderten die Schutzpatronin der Bergleute verehrt.",
+      "Die rote Erde im Minett stammt von einem hohen Eisengehalt im Gestein."
+    ]
+  },
+  {
+    "id": "city-mondorf-les-bains",
+    "name": "Mondorf-les-Bains",
+    "deDesc": "Bad Mondorf ist der einzige echte Kurort in Luxemburg und international bekannt für sein weitläufiges Thermalbad (Domaine Thermal). Die Thermalquellen, deren Wasser reich an Mineralien ist, wurden Mitte des 19. Jahrhunderts bei Probebohrungen entdeckt. Die Gemeinde besticht durch eine elegante Bäderarchitektur, den großen französischen Kurpark und das luxuriöse Casino 2000. Mondorf liegt direkt an der französischen Grenze und zieht Gesundheitstouristen aus der ganzen Großregion an. Die Entwicklung von Kurorten ist ein Thema für die Wirtschaftsgeografie K8.",
+    "deFacts": [
+      "Das Thermalwasser kommt aus einer Tiefe von knapp 700 Metern.",
+      "Das Casino 2000 in Mondorf ist das einzige legale Spielcasino in ganz Luxemburg.",
+      "Der große Kurpark umfasst fast 50 Hektar mit altem Baumbestand.",
+      "Im Sommer ist das Rosarium mit seinen hunderten Rosenarten eine Hauptattraktion."
+    ]
+  },
+  {
+    "id": "city-redange-sur-attert",
+    "name": "Redange-sur-Attert",
+    "deDesc": "Redingen an der Attert ist der Hauptort des ländlich geprägten Kantons Redingen im Westen des Landes. Die Kleinstadt liegt im Tal der Attert und dient als wichtiges landwirtschaftliches und schulisches Zentrum für die umliegende Region. Besonders bekannt ist Redingen als Geburtsort des prominenten europäischen Politikers Jean-Claude Juncker, des ehemaligen EU-Kommissionspräsidenten. Die Umgebung ist durch sanfte Hügel und ausgedehnte Bauernhöfe charakterisiert. Ländliche Räume und Agrarwirtschaft sind zentrale Themen im Fach Sachkunde K5.",
+    "deFacts": [
+      "Jean-Claude Juncker wurde 1954 in Redingen geboren.",
+      "Das Kantonal-Schwimmbad 'Reidener Schwemm' ist ein regionaler Anziehungspunkt.",
+      "Die Region war lange Zeit durch die Wark- und Attert-Eisenbahnlinie erschlossen.",
+      "Landwirtschaft, insbesondere die Milchwirtschaft, ist hier der wichtigste Wirtschaftszweig."
+    ]
+  },
+  {
+    "id": "city-junglinster",
+    "name": "Junglinster",
+    "deDesc": "Junglinster ist eine der flächenmäßig größten Gemeinden Luxemburgs und liegt landschaftlich reizvoll zwischen der Hauptstadt und der Region Müllerthal. Das markanteste Wahrzeichen ist die gigantische RTL-Sendeanlage mit ihren über 200 Meter hohen Sendemasten, die lange Zeit eines der stärksten Radiosignale Europas ausstrahlte. Das historische Zentrum wird von der imposanten Barockkirche St. Martin dominiert. Junglinster hat sich zu einer begehrten Wohngemeinde mit hoher Lebensqualität entwickelt. Technologie und Kommunikation werden in Physik K7 besprochen.",
+    "deFacts": [
+      "Die Langwellensender von RTL in Junglinster wurden 1932 in Betrieb genommen.",
+      "Die Kirche St. Martin ist eine der wenigen vollständig erhaltenen Barockkirchen Luxemburgs.",
+      "Junglinster ist das Tor zur sogenannten 'Kleinen Luxemburger Schweiz'.",
+      "Aufgrund der großen Waldgebiete ist die Holzwirtschaft hier immer noch präsent."
+    ]
+  },
+  {
+    "id": "city-mertert",
+    "name": "Mertert",
+    "deDesc": "Mertert, an der Mündung der Syr in die Mosel gelegen, ist eine strategisch äußerst wichtige Stadt für die luxemburgische Wirtschaft. Hier befindet sich der einzige Flusshafen des Landes (Port de Mertert), der Luxemburg direkt an das europäische Wasserstraßennetz und den Rhein anbindet. Über diesen Hafen werden große Mengen an Treibstoff, Stahl und landwirtschaftlichen Gütern umgeschlagen. Neben seiner industriellen Bedeutung bietet Mertert auch wunderschöne Moselpromenaden und einen großen Park. Logistik und Wasserstraßen sind ein wichtiges Thema in Wirtschaft K8.",
+    "deFacts": [
+      "Der Hafen von Mertert wurde in den 1960er Jahren erbaut und eröffnet.",
+      "Über den Hafen können Binnenschiffe mit bis zu 2500 Tonnen Ladekapazität abgefertigt werden.",
+      "Der weitläufige Parc Mertert liegt direkt am Ufer der Syr.",
+      "Die Gemeinde teilt sich die Verwaltung mit dem bekannten Winzerort Wasserbillig."
+    ]
+  },
+  {
+    "id": "landmark-st-willibrord-basilica",
+    "name": "St. Willibrord Basilika",
+    "deDesc": "Die Basilika St. Willibrord in Echternach ist das religiöse Zentrum Luxemburgs und ein Meisterwerk der romanischen Architektur. Gegründet vom angelsächsischen Mönch Willibrord, spiegelt sie Jahrhunderte von Glaube und Zerstörung wider; nach dem Zweiten Weltkrieg wurde sie originalgetreu wieder aufgebaut. Die Krypta aus dem 8. Jahrhundert beherbergt das kunstvolle Marmorgrab des Heiligen. Die angrenzenden Abteigebäude zeugen von der einstigen Macht des Klosters. Die Bedeutung von Klöstern im europäischen Mittelalter ist ein wichtiges Thema in Geschichte K7.",
+    "deFacts": [
+      "Die berühmte Echternacher Springprozession endet traditionell am Grab des Willibrord in der Basilika.",
+      "Die Kirche besitzt einige der schönsten modernen Glasmalereien in Luxemburg.",
+      "Papst Johannes Paul II. besuchte die Basilika während seines Besuchs 1985.",
+      "Die erste Klosterkirche an diesem Ort wurde bereits um das Jahr 700 erbaut."
+    ]
+  },
+  {
+    "id": "historical-neumunster-abbey",
+    "name": "Neumunster Abtei",
+    "deDesc": "Die Abtei Neumünster (Neimënster) ist ein majestätischer Gebäudekomplex im idyllischen Grund-Viertel von Luxemburg-Stadt, direkt am Ufer der Alzette. Ursprünglich im 17. Jahrhundert von Benediktinermönchen erbaut, erlebte die Abtei eine wechselvolle Geschichte: Sie diente zeitweise als Militärhospital, Kaserne und sogar als Männergefängnis. Heute ist sie ein pulsierendes Kulturzentrum und beherbergt Ausstellungen, Konzerte und Konferenzen. Die gelungene Transformation von einem Gefängnis zu einem Ort des kulturellen Austauschs ist ein Thema im Kunstunterricht K8.",
+    "deFacts": [
+      "Das Gebäude wurde während der Französischen Revolution als Militärkrankenhaus genutzt.",
+      "Bis ins späte 20. Jahrhundert diente die Abtei als eines der berüchtigtsten Gefängnisse Luxemburgs.",
+      "Der Gebäudekomplex liegt direkt am Fuße des gigantischen Bockfelsens.",
+      "Heute ist das Kulturzentrum 'Neimënster' für das Publikum weitgehend kostenlos zugänglich."
+    ]
+  },
+  {
+    "id": "forest-bambesch",
+    "name": "Bambesch",
+    "deDesc": "Der Bambësch ist der größte und bekannteste Wald der Hauptstadt Luxemburg und fungiert als die 'grüne Lunge' der Metropole. Auf dem Rolligergrund gelegen, bietet dieses weitläufige Waldgebiet hunderte Kilometer an Wander-, Jogging- und Radwegen. Neben Erholung beherbergt der Wald historische Überreste der alten Festungsgürtel, alte Bunkeranlagen sowie große Spielplätze und Trimm-Dich-Pfade. Er ist von unschätzbarem Wert für die Lebensqualität der Stadtbewohner. Die Bedeutung von Stadtwäldern für das städtische Mikroklima wird in Geografie K8 behandelt.",
+    "deFacts": [
+      "Der Wald erstreckt sich über eine Fläche von fast 400 Hektar.",
+      "Der große Abenteuerspielplatz im Bambësch wurde komplett aus Naturholz errichtet.",
+      "Zahlreiche unterirdische Quellen im Wald versorgen Teile der Stadt mit Trinkwasser.",
+      "Es gibt markierte Reitwege speziell für Pferdebegeisterte."
+    ]
+  },
+  {
+    "id": "forest-grunewald",
+    "name": "Grunewald",
+    "deDesc": "Der Grünewald (Gréngewald) ist eines der größten zusammenhängenden Waldgebiete in Luxemburg und liegt größtenteils nordöstlich der Hauptstadt. Historisch gesehen war dieser Wald jahrhundertelang das exklusive Jagdrevier des luxemburgischen Großherzogs und später des Staates. Im Wald verbergen sich geheimnisvolle Quellen, wie die 'Raschpëtzer' – ein antikes römisches unterirdisches Aquädukt. Heute ist der Gréngewald ein streng geschütztes Naturschutzgebiet, das für seine alten Eichenbestände und Biodiversität berühmt ist. Das Ökosystem Wald wird detailliert in Biologie K7 besprochen.",
+    "deFacts": [
+      "Die 'Raschpëtzer' im Wald sind eine der größten römischen Tunnelanlagen Europas.",
+      "Große Teile des Waldes gehören der großherzoglichen Familie.",
+      "Der Gréngewald bildet das größte Trinkwasserschutzgebiet Luxemburgs.",
+      "Eine alte Römerstraße von Reims nach Trier verlief direkt durch dieses Gebiet."
+    ]
+  },
+  {
+    "id": "lake-haute-sure",
+    "name": "Stausee Obersauer",
+    "deDesc": "Der Stausee Obersauer im Naturpark Obersauer in den Ardennen ist das größte Binnengewässer Luxemburgs. Der in den 1950er Jahren errichtete Staudamm nahe Esch-sur-Sûre staut den Fluss Sauer, um rund 70% der luxemburgischen Bevölkerung mit sauberem Trinkwasser zu versorgen. Gleichzeitig hat sich der See, der von dichten Wäldern und sanften Bergen umgeben ist, zum wichtigsten Zentrum für Wassersport und Ökotourismus entwickelt, wo Segeln, Tauchen und Schwimmen erlaubt sind. Die Bedeutung von Trinkwasserspeichern ist ein klassisches Thema für Geografie K8.",
+    "deFacts": [
+      "Der See hat eine Fläche von 3,8 Quadratkilometern und fasst rund 60 Millionen Kubikmeter Wasser.",
+      "Motorboote (Verbrennungsmotoren) sind auf dem See strengstens verboten.",
+      "Die 47 Meter hohe Staumauer erzeugt zusätzlich hydroelektrische Energie.",
+      "Im Naturparkzentrum in Esch-sur-Sûre gibt es eine alte Tuchfabrik zu besichtigen."
+    ]
+  },
+  {
+    "id": "lake-weiswampach",
+    "name": "Weiswampacher See",
+    "deDesc": "Die beiden künstlich angelegten Weiswampacher Seen liegen auf einem Hochplateau im äußersten Norden Luxemburgs und bilden das Herzstück der lokalen Freizeitinfrastruktur. Der obere See ist hauptsächlich den Anglern und Naturfreunden vorbehalten, während der untere See im Sommer als beliebter Badesee mit Sandstrand, Tretbootverleih und Wakeboard-Anlage dient. Die von Wald umgebenen Seen sind ein perfektes Beispiel für die touristische Aufwertung ländlicher Grenzregionen. Die Förderung von lokalem Tourismus wird in der Wirtschaftsgeografie K7 thematisiert.",
+    "deFacts": [
+      "Die beiden Seen haben zusammen eine Gesamtfläche von rund 16 Hektar.",
+      "Im Sommer findet auf dem Gelände ein internationaler Triathlon-Wettbewerb statt.",
+      "Das Gebiet ist auch bei Campern aus Belgien und den Niederlanden extrem beliebt.",
+      "Der obere See wird regelmäßig mit Forellen, Hechten und Karpfen besetzt."
+    ]
+  },
+  {
+    "id": "lake-remerschen-lakes",
+    "name": "Remerscher Weiher",
+    "deDesc": "Die Remerscher Weiher, lokal als 'Baggerweier' bekannt, sind eine Kette von Baggerseen nahe der Mosel, die durch den intensiven Sand- und Kiesabbau entstanden sind. Heute ist das Gebiet des 'Haff Réimech' ein duales Natur- und Freizeitzentrum. Während ein Teil der Seenkomplexe als beliebtes Freibad für die Sommermonate fungiert, bildet der andere Teil das wichtigste Feuchtbiotop Luxemburgs, in dem seltene Zugvögel nisten und überwintern. Im Biodiversum-Zentrum am See können Besucher mehr über die lokale Flora und Fauna erfahren. Naturschutz ist ein Schlüsselthema in Biologie K7.",
+    "deFacts": [
+      "Das Naturschutzgebiet 'Haff Réimech' beheimatet über 250 verschiedene Vogelarten.",
+      "Das Besucherzentrum 'Biodiversum' ist in Form eines gigantischen, umgedrehten Holzbootes gebaut.",
+      "Die Seen verdanken ihre Entstehung dem Sandabbau in der Mosel-Region.",
+      "Während der Badesaison können hier bis zu 4000 Besucher pro Tag gezählt werden."
+    ]
+  },
+  {
+    "id": "river-sure",
+    "name": "Sauer",
+    "deDesc": "Die Sauer (Sûre) ist der wasserreichste Fluss Luxemburgs. Sie entspringt in den belgischen Ardennen und durchquert das Land von West nach Ost, bevor sie bei Wasserbillig in die Mosel mündet. Im Norden staut sie sich zum imposanten Obersauer-Stausee, während ihr tiefer Mittellauf beeindruckende Mäander (Flussschleifen) um Burgen wie Bourscheid zieht. Die Sauer ist ein Lebensnerv für den luxemburgischen Naturtourismus und bietet erstklassige Reviere zum Fliegenfischen und Kanufahren. Fluvialgeomorphologie (Flussentwicklung) ist ein wichtiges Thema in Geografie K8.",
+    "deFacts": [
+      "Die Sauer ist mit etwa 173 Kilometern der zweitlängste Fluss, der Luxemburg durchfließt.",
+      "Das Grenzgebiet entlang der Sauer zum deutschen Eifelkreis ist ein geschützter Naturpark.",
+      "Die Flusstäler der Sauer sind geprägt von dichten, feuchten Laubwäldern.",
+      "Die Mündung der Sauer in die Mosel bildet den tiefsten Punkt Luxemburgs (130 Meter ü. M.)."
+    ]
+  },
+  {
+    "id": "river-moselle",
+    "name": "Mosel",
+    "deDesc": "Die Mosel ist der wichtigste internationale Grenzfluss Luxemburgs und trennt das Land über 39 Kilometer von Deutschland. Sie ist der Lebensnerv der luxemburgischen Weinproduktion; an ihren steilen, klimatisch begünstigten Hängen gedeihen weltbekannte Rebsorten. Seit ihrer Kanalisierung in den 1960er Jahren ist die Mosel zudem die einzige für große Frachtschiffe befahrbare Wasserstraße des Landes, angebunden durch den Hafen Mertert. Die wirtschaftliche Bedeutung von Grenzflüssen und europäischer Binnenschifffahrt ist ein elementares Thema im Geografieunterricht K8.",
+    "deFacts": [
+      "Die Mosel ist eine der am stärksten befahrenen Binnenwasserstraßen Europas.",
+      "Die Weinstraße von Schengen bis Wasserbillig folgt komplett dem Verlauf des Flusses.",
+      "Der Vertrag von Schengen wurde auf der Mosel unterzeichnet.",
+      "In der Mosel gibt es ein sogenanntes 'Kondominium', eine gemeinsam von Deutschland und Luxemburg verwaltete Wasserfläche."
+    ]
+  },
+  {
+    "id": "river-ernz-noire",
+    "name": "Schwarze Ernz",
+    "deDesc": "Die Schwarze Ernz (Ernz Noire) ist ein kleiner, aber spektakulärer Fluss, der durch die zerklüfteten Sandsteinlandschaften des Müllerthals (Kleine Luxemburger Schweiz) fließt. Über Jahrtausende hat sie tiefe Schluchten, romantische Wasserfälle wie den berühmten Schiessentümpel und verwunschene Täler geschaffen. Das dunkle, moosbewachsene Bett des Flusses, umgeben von dichtem Wald, gibt dem Fluss seinen Namen. Die Erosionskraft kleiner Gewässer auf weiches Sandsteingestein wird ausführlich in der physischen Geografie K7 behandelt.",
+    "deFacts": [
+      "Die malerische Brücke über dem Schiessentümpel-Wasserfall ist das Wahrzeichen des Müllerthals.",
+      "Der Flussverlauf bietet viele historische Mühlen, wie die Heringer Millen.",
+      "Die Schwarze Ernz mündet bei Grundhof in die weitaus größere Sauer.",
+      "Aufgrund der steilen Felswände wirkt das Flusstal oft dunkel und mystisch."
+    ]
+  },
+  {
+    "id": "agriculture-domaine-vinsmoselle-remerschen",
+    "name": "Domaine Vinsmoselle Remerschen",
+    "deDesc": "Die Domaine Vinsmoselle in Remerschen (Caves de Wormeldange/Remerschen) ist ein Teil der größten Winzergenossenschaft Luxemburgs. Sie vereint die Kraft von Hunderten kleiner Weinbauern entlang der Mosel, um Qualitätsweine auf internationalem Niveau zu produzieren. Das Haus in Remerschen besticht durch seine hochmoderne Produktionsanlage und das lichtdurchflutete Besucherzentrum inmitten der Weinberge. Besondere Beachtung finden hier die Rebsorten Pinot Blanc, Pinot Gris und der renommierte Crémant Poll-Fabaire. Das Genossenschaftsmodell in der Landwirtschaft ist ein klassisches Wirtschaftsthema für K8.",
+    "deFacts": [
+      "Vinsmoselle vereint fast 200 Winzerfamilien entlang der gesamten Luxemburger Mosel.",
+      "Der Markenname 'Poll-Fabaire' ist synonym für luxuriösen luxemburgischen Crémant.",
+      "Die Architektur des Keltergebäudes in Remerschen wurde mehrfach für ihr Design ausgezeichnet.",
+      "Die Genossenschaft kontrolliert rund zwei Drittel der gesamten luxemburgischen Weinproduktion."
+    ]
+  },
+  {
+    "id": "agriculture-domaine-mathis-bastian-remich",
+    "name": "Domaine Mathis Bastian",
+    "deDesc": "Die Domaine Mathis Bastian, gelegen an den Hängen über Remich, ist ein familiengeführtes Premiumweingut, das für exzellente handwerkliche Weinbaukunst steht. Das Weingut legt den Fokus auf strenge Ertragsreduzierung und nachhaltige Anbaumethoden, um extrem hochwertige Rieslinge und elegante Auxerrois-Weine zu erzeugen. Der Weinkeller bietet Besuchern nicht nur eine intime Atmosphäre für Verkostungen, sondern auch einen atemberaubenden Blick über das weite Moseltal. Der Unterschied zwischen industriellem und privatem Premiumweinbau ist ein interessantes Thema für die Wirtschaftsgeografie K7.",
+    "deFacts": [
+      "Das Gut gehört zu den Gründungsmitgliedern der Elite-Vereinigung 'Domaine et Tradition'.",
+      "Mathis Bastian war einer der Pioniere des integrierten und naturnahen Weinbaus in Luxemburg.",
+      "Die Weinberge des Guts liegen in absoluten Spitzenlagen wie 'Remich Primerberg'.",
+      "Die Produktion ist stark limitiert, um höchste Qualität auf Sterneniveau zu gewährleisten."
+    ]
+  },
+  {
+    "id": "agriculture-clos-mon-vieux-moulin",
+    "name": "Clos Mon Vieux Moulin",
+    "deDesc": "Clos Mon Vieux Moulin ist ein historisches Familienweingut in Ahn, einem der prestigeträchtigsten Weindörfer an der Mosel. Das Gut befindet sich auf dem Gelände einer alten Mühle und nutzt die exzellenten Steillagen, insbesondere den 'Palmberg', um finessenreiche und mineralische Rieslinge zu kultivieren. Die Familie Duhr führt die Tradition bereits in der 11. Generation weiter, kombiniert aber altes Wissen mit modernster Kellereitechnik. Die Bedeutung des Terroirs (Boden und Mikroklima) in der Landwirtschaft wird im Fach Biologie und Geografie K8 behandelt.",
+    "deFacts": [
+      "Der Name 'Mon Vieux Moulin' (Meine alte Mühle) geht auf den historischen Mühlenbetrieb der Familie zurück.",
+      "Das Weingut wird seit dem 17. Jahrhundert von der Winzerfamilie Duhr bewirtschaftet.",
+      "Die Weinlage 'Ahn Palmberg' ist weithin berühmt für ihren kalkhaltigen Muschelkalkboden.",
+      "Das Weingut bietet hochgelobte Weinverkostungen direkt in den historischen Kellerräumen an."
+    ]
+  },
+  {
+    "id": "industry-arcelormittal-belval",
+    "name": "ArcelorMittal Belval",
+    "deDesc": "Das ArcelorMittal Stahlwerk in Belval (Esch-sur-Alzette) ist das Herzstück der modernen luxemburgischen Stahlindustrie. Während früher große Hochöfen die Skyline dominierten, nutzt das moderne Werk heute ressourcenschonende Elektrolichtbogenöfen zur Produktion schwerer Stahlträger. Der von ArcelorMittal in Belval hergestellte Stahl wird weltweit verbaut, unter anderem im Freedom Tower in New York. Die Anlage steht direkt neben den stillgelegten historischen Hochöfen und der Universität, ein Sinnbild für Vergangenheit und Zukunft. Die Transformation der Schwerindustrie ist Lehrstoff in Geografie K8.",
+    "deFacts": [
+      "ArcelorMittal in Belval ist der weltgrößte Produzent von schweren Stahlträgern ('Grey-Trägern').",
+      "Das Werk produziert seinen Stahl heute zu 100% aus recyceltem Stahlschrott.",
+      "Die gigantischen Walzstraßen in der Produktionshalle sind über einen Kilometer lang.",
+      "ArcelorMittal, mit Hauptsitz in Luxemburg, ist der zweitgrößte Stahlproduzent der Welt."
+    ]
+  },
+  {
+    "id": "industry-minett-park-fond-de-gras",
+    "name": "Minett Park Fond-de-Gras",
+    "deDesc": "Der Minett Park Fond-de-Gras ist ein Freilichtmuseum im Süden Luxemburgs, das die Ära des Eisenerzabbaus (Minett) eindrucksvoll zum Leben erweckt. Das Gelände war bis Mitte des 20. Jahrhunderts einer der wichtigsten Verladebahnhöfe für das rote Eisenerz. Besucher können heute in historischen Dampfzügen ('Train 1900') oder einer kleinen Grubenbahn ('Minièresbunn') fahren und alte Fördertürme, Arbeiterwohnungen und Krämerläden besichtigen. Dieses interaktive Erbe der industriellen Revolution eignet sich hervorragend als Studienobjekt für Geschichte und Sachkunde K6.",
+    "deFacts": [
+      "Die Minen in Fond-de-Gras waren bis in die 1960er Jahre in Betrieb.",
+      "Der historische Dampfzug 'Train 1900' fährt auf der Originalstrecke von Petingen nach Fond-de-Gras.",
+      "Ein alter Tante-Emma-Laden (Épicerie) zeigt den typischen Alltag der Bergarbeiterfamilien.",
+      "Die alte Stromzentrale 'Hall Paul Wurth' im Park dokumentiert die Frühzeit der Elektrifizierung."
+    ]
+  },
+  {
+    "id": "kid-landmark-paiperleksgaart",
+    "name": "Papierlkesgaart",
+    "deDesc": "Der Päiperleksgaart (Schmetterlingsgarten) in Grevenmacher ist eine faszinierende, tropische Oase direkt an der luxemburgischen Mosel. In einem speziell klimatisierten Gewächshaus können Familien Hunderte exotische Schmetterlinge bewundern, die frei zwischen tropischen Pflanzen umherfliegen. Der Park bietet zudem Einblicke in den Lebenszyklus der Tiere – von der Raupe über die Puppe bis zum Schlüpfen. Neben Schmetterlingen leben auch Chamäleons und verschiedene Insektenarten im Garten. Die Metamorphose von Insekten ist ein klassisches und faszinierendes Thema im Fach Sachkunde K3 und K4.",
+    "deFacts": [
+      "Der Tropengarten wird konstant auf rund 27 Grad Celsius und 70% Luftfeuchtigkeit gehalten.",
+      "Viele Schmetterlingspuppen werden direkt aus Zuchtfarmen in Südamerika und Asien importiert.",
+      "Betrieben wird der Garten von Yolande COOP, einer Organisation zur Integration behinderter Menschen.",
+      "Besucher können das magische Schlüpfen der Schmetterlinge aus ihren Kokons live beobachten."
+    ]
+  },
+  {
+    "id": "kid-landmark-syrdall-schwemm",
+    "name": "Syrdall Schwemm",
+    "deDesc": "Die Syrdall Schwemm ist ein modernes, familienfreundliches Freizeit- und Erlebnisbad in der Gemeinde Niederanven. Bekannt ist das Bad vor allem für seine beeindruckende Architektur mit einem großen Glasdach, das viel Tageslicht hineinlässt. Für Familien bietet das Bad Riesenrutschen, Strömungskanäle und großzügige Kinderbecken. Gleichzeitig steht Sportlern ein großes Schwimmbecken zur Verfügung. Das Bad nutzt modernste ökologische Technologien, um den Energieverbrauch der Wasseraufbereitung zu minimieren. Wasser als Freizeitelement wird oft im Sport- und Schwimmunterricht K5 behandelt.",
+    "deFacts": [
+      "Das Schwimmbadgebäude besticht durch seine markante, fast raumschiffartige Fassade.",
+      "Die Hauptattraktion für Kinder ist eine Röhrenrutsche mit Licht- und Soundeffekten.",
+      "Ein großer Wellness- und Saunabereich gehört ebenfalls zur Anlage.",
+      "Das Bad setzt auf ressourcenschonende Energiegewinnung und Wasserrecycling."
+    ]
+  },
+  {
+    "id": "kid-landmark-aquatower-berdorf",
+    "name": "Aquatower Berdorf",
+    "deDesc": "Der Aquatower in Berdorf ist ein 50 Meter hoher, futuristisch anmutender Wasserturm, der gleichzeitig als Bildungszentrum und Aussichtsplattform dient. In über 30 Metern Höhe befindet sich eine multimediale Ausstellung, die Besuchern alles über Trinkwassergewinnung, Grundwasserschutz und die Geologie der Müllerthal-Region erklärt. Neben dem Wissen bietet die Plattform einen atemberaubenden 360-Grad-Blick über die weiten Wälder der 'Kleinen Luxemburger Schweiz'. Der Wasserkreislauf und die Bedeutung von sauberem Trinkwasser sind essentielle Themen im Fach Geografie K6 und Physik K7.",
+    "deFacts": [
+      "Der Turm speichert bis zu 500 Kubikmeter reinstes Trinkwasser für die lokale Gemeinde.",
+      "Interaktive Stationen im Turm ermöglichen es Besuchern, Wasserströmungen selbst zu simulieren.",
+      "An der Basis des Turms befindet sich ein großer Wasserspielplatz für Kinder.",
+      "Die Konstruktion des Turms erinnert absichtlich an einen überdimensionalen Wassertropfen."
+    ]
+  },
+  {
+    "id": "kid-landmark-vianden-chairlift",
+    "name": "Viandener Sessellift",
+    "deDesc": "Der Viandener Sessellift (Télésiège) ist die einzige Seilbahn in ganz Luxemburg und eine der Hauptattraktionen der historischen Stadt Vianden im Our-Tal. Er bringt Touristen und Familien von dem tief im Tal gelegenen Ort hinauf auf eine Höhe von 440 Metern zum Aussichtspunkt am 'Treidel'. Während der gemächlichen Fahrt schweben die Passagiere direkt über die Our und haben einen unvergleichlichen Panoramablick auf die imposante Burg Vianden und den Staudamm. Die Technik von Seilbahnen kann als Einführung in einfache Maschinen für Physik K6 genutzt werden.",
+    "deFacts": [
+      "Der Sessellift wurde in den 1950er Jahren erbaut und ist seitdem eine Institution im Ort.",
+      "Die Auffahrt von der Tal- zur Bergstation dauert entspannte zehn Minuten.",
+      "An der Bergstation befindet sich ein Panoramarestaurant mit weitem Blick über die Ardennen.",
+      "Mountainbiker können ihre Fahrräder für eine rasante Talfahrt oft an die Gondeln anhängen."
+    ]
+  }
+]

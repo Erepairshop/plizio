@@ -1,0 +1,566 @@
+{
+  "main": [
+    {
+      "id": "country-czech-republic",
+      "name": "Csehország"
+    },
+    {
+      "id": "city-prague",
+      "name": "Prága"
+    },
+    {
+      "id": "city-brno",
+      "name": "Brno"
+    },
+    {
+      "id": "city-plzen",
+      "name": "Plzeň"
+    },
+    {
+      "id": "city-cesky-krumlov",
+      "name": "Český Krumlov"
+    },
+    {
+      "id": "city-karlovy-vary",
+      "name": "Karlovy Vary"
+    },
+    {
+      "id": "city-kutna-hora",
+      "name": "Kutná Hora"
+    },
+    {
+      "id": "nature-sumava",
+      "name": "Šumava"
+    },
+    {
+      "id": "city-ostrava",
+      "name": "Osztrava"
+    },
+    {
+      "id": "city-liberec",
+      "name": "Liberec"
+    },
+    {
+      "id": "city-olomouc",
+      "name": "Olomouc"
+    },
+    {
+      "id": "city-hradec-kralove",
+      "name": "Hradec Králové"
+    },
+    {
+      "id": "city-pardubice",
+      "name": "Pardubice"
+    },
+    {
+      "id": "city-zlin",
+      "name": "Zlín"
+    },
+    {
+      "id": "city-jihlava",
+      "name": "Jihlava"
+    },
+    {
+      "id": "city-ceske-budejovice",
+      "name": "České Budějovice"
+    },
+    {
+      "id": "city-usti-nad-labem",
+      "name": "Ústí nad Labem"
+    },
+    {
+      "id": "city-tabor",
+      "name": "Tábor"
+    },
+    {
+      "id": "city-cheb",
+      "name": "Cheb"
+    },
+    {
+      "id": "city-as",
+      "name": "As"
+    },
+    {
+      "id": "city-domazlice",
+      "name": "Domazlice"
+    },
+    {
+      "id": "city-tachov",
+      "name": "Tachov"
+    },
+    {
+      "id": "city-zatec",
+      "name": "Zatec"
+    },
+    {
+      "id": "city-litomerice",
+      "name": "Litomerice"
+    },
+    {
+      "id": "city-decin",
+      "name": "Decin"
+    },
+    {
+      "id": "city-trutnov",
+      "name": "Trutnov"
+    },
+    {
+      "id": "city-nachod",
+      "name": "Nachod"
+    },
+    {
+      "id": "city-trebic",
+      "name": "Trebic"
+    },
+    {
+      "id": "city-mikulov",
+      "name": "Mikulov"
+    },
+    {
+      "id": "city-valtice",
+      "name": "Valtice"
+    },
+    {
+      "id": "city-breclav",
+      "name": "Breclav"
+    },
+    {
+      "id": "city-uherske-hradiste",
+      "name": "Uherske Hradiste"
+    },
+    {
+      "id": "city-frydek-mistek",
+      "name": "Frydek-Mistek"
+    },
+    {
+      "id": "cult-charles-bridge",
+      "name": "Károly-híd Prága"
+    },
+    {
+      "id": "cult-prague-castle",
+      "name": "Hradzsin"
+    },
+    {
+      "id": "cult-karlstejn",
+      "name": "Karlštejn-vár"
+    },
+    {
+      "id": "cult-kutna-hora",
+      "name": "Kutná Hora Sedlec"
+    },
+    {
+      "id": "historical-telc",
+      "name": "Telč"
+    },
+    {
+      "id": "historical-kromeriz",
+      "name": "Kroměříž"
+    },
+    {
+      "id": "historical-litomysl",
+      "name": "Litomyšl"
+    },
+    {
+      "id": "historical-zdar-nad-sazavou",
+      "name": "Žďár nad Sázavou"
+    },
+    {
+      "id": "historical-kuks",
+      "name": "Kuks"
+    },
+    {
+      "id": "historical-white-mountain",
+      "name": "Fehér-hegy"
+    },
+    {
+      "id": "historical-konopiste",
+      "name": "Konopiště-kastély"
+    },
+    {
+      "id": "historical-trosky",
+      "name": "Trosky-vár"
+    },
+    {
+      "id": "cz-national-museum-prague",
+      "name": "Prágai Nemzeti Múzeum"
+    },
+    {
+      "id": "landmark-dancing-house",
+      "name": "Táncoló ház"
+    },
+    {
+      "id": "landmark-zizkov-tower",
+      "name": "Žižkov-torony"
+    },
+    {
+      "id": "landmark-st-vitus-cathedral",
+      "name": "Szent Vitus-székesegyház"
+    },
+    {
+      "id": "landmark-villa-tugendhat",
+      "name": "Tugendhat-villa"
+    },
+    {
+      "id": "landmark-national-theatre",
+      "name": "Prágai Nemzeti Színház"
+    },
+    {
+      "id": "landmark-national-technical-museum",
+      "name": "Nemzeti Műszaki Múzeum"
+    },
+    {
+      "id": "landmark-holy-trinity-column",
+      "name": "Szentháromság-oszlop"
+    },
+    {
+      "id": "industry-dolni-vitkovice",
+      "name": "Dolní Vítkovice"
+    },
+    {
+      "id": "industry-skoda-auto-mlada-boleslav",
+      "name": "Škoda Auto Mladá Boleslav"
+    },
+    {
+      "id": "industry-pilsner-urquell-brewery",
+      "name": "Pilsner Urquell sörgyár"
+    },
+    {
+      "id": "port-melnik-river-port",
+      "name": "Mělník-folyami kikötő"
+    },
+    {
+      "id": "port-usti-nad-labem-river-port",
+      "name": "Ústí nad Labem kikötő"
+    },
+    {
+      "id": "agriculture-moravian-vineyards-mikulov",
+      "name": "Mikulovi szőlővidék"
+    },
+    {
+      "id": "landmark-jested-tower",
+      "name": "Jested Torony"
+    },
+    {
+      "id": "historical-sedlec-ossuary",
+      "name": "Sedleci osszarium"
+    },
+    {
+      "id": "landmark-st-barbara-church",
+      "name": "Szent Barbara templom"
+    },
+    {
+      "id": "historical-zelena-hora-church",
+      "name": "Zelena Hora templom"
+    },
+    {
+      "id": "landmark-svaty-hostyn-basilica",
+      "name": "Svaty Hostyn bazilika"
+    },
+    {
+      "id": "historical-svaty-kopecek-basilica",
+      "name": "Svaty Kopecek"
+    },
+    {
+      "id": "landmark-marianske-lazne-colonnade",
+      "name": "Marianske Lazne kolonnad"
+    },
+    {
+      "id": "landmark-valtice-chateau",
+      "name": "Valticei kastely"
+    },
+    {
+      "id": "agriculture-zatec-hop-fields",
+      "name": "Zateci komlofek"
+    },
+    {
+      "id": "cz-melnik-vineyards",
+      "name": "Melniki szolok"
+    },
+    {
+      "id": "industry-tatra-trucks-koprivnice",
+      "name": "Tatra teherautok Koprivnice"
+    },
+    {
+      "id": "industry-bata-shoe-factory-zlin",
+      "name": "Bata gyar Zlin"
+    },
+    {
+      "id": "industry-skoda-kvasiny",
+      "name": "Skoda Kvasiny"
+    },
+    {
+      "id": "kid-landmark-prague-zoo",
+      "name": "Pragai allatkert"
+    },
+    {
+      "id": "kid-landmark-mirakulum-milovice",
+      "name": "Mirakulum"
+    },
+    {
+      "id": "kid-landmark-dinopark-vyskov",
+      "name": "Dinopark Vyskov"
+    },
+    {
+      "id": "kid-landmark-zlin-zoo",
+      "name": "Zlini allatkert"
+    },
+    {
+      "id": "nat-bohemian-switzerland",
+      "name": "Cseh Svájc Nemzeti Park"
+    },
+    {
+      "id": "nat-sumava",
+      "name": "Šumava NP"
+    },
+    {
+      "id": "nat-moravian-karst",
+      "name": "Morva-karszt"
+    },
+    {
+      "id": "nat-krkonose",
+      "name": "Krkonoše Óriás-hegység"
+    },
+    {
+      "id": "mountain-snezka",
+      "name": "Sněžka"
+    },
+    {
+      "id": "mountain-praded",
+      "name": "Praděd"
+    },
+    {
+      "id": "mountain-lysa-hora",
+      "name": "Lysá hora"
+    },
+    {
+      "id": "lake-lipno",
+      "name": "Lipno-tó"
+    },
+    {
+      "id": "lake-machovo",
+      "name": "Máchovo jezero"
+    },
+    {
+      "id": "river-vltava",
+      "name": "Moldva"
+    },
+    {
+      "id": "river-labe",
+      "name": "Labe"
+    },
+    {
+      "id": "island-kampa",
+      "name": "Kampa"
+    },
+    {
+      "id": "mountain-jested",
+      "name": "Jested"
+    },
+    {
+      "id": "mountain-klinovec",
+      "name": "Klinovec"
+    },
+    {
+      "id": "mountain-blanik",
+      "name": "Blanik"
+    },
+    {
+      "id": "lake-cerne-jezero",
+      "name": "Cerne jezero"
+    },
+    {
+      "id": "lake-rozmberk",
+      "name": "Rozmberk-to"
+    },
+    {
+      "id": "river-ohre",
+      "name": "Ohre"
+    },
+    {
+      "id": "river-dyje",
+      "name": "Dyje"
+    },
+    {
+      "id": "forest-bohemian-switzerland",
+      "name": "Cseh-Svajc erdo"
+    }
+  ],
+  "extra": [
+    {
+      "id": "city-most-extra",
+      "name": "Most"
+    },
+    {
+      "id": "city-opava-extra",
+      "name": "Opava"
+    },
+    {
+      "id": "city-karvina-extra",
+      "name": "Karviná"
+    },
+    {
+      "id": "city-teplice-extra",
+      "name": "Teplice"
+    },
+    {
+      "id": "city-chomutov-extra",
+      "name": "Chomutov"
+    },
+    {
+      "id": "city-prerov-extra",
+      "name": "Přerov"
+    },
+    {
+      "id": "city-prostejov-extra",
+      "name": "Prostějov"
+    },
+    {
+      "id": "city-jablonec-nad-nisou-extra",
+      "name": "Jablonec nad Nisou"
+    },
+    {
+      "id": "city-mlada-boleslav-extra",
+      "name": "Mladá Boleslav"
+    },
+    {
+      "id": "city-havirov-extra",
+      "name": "Havířov"
+    },
+    {
+      "id": "city-kladno-extra",
+      "name": "Kladno"
+    },
+    {
+      "id": "city-havlickuv-brod-extra",
+      "name": "Havlíčkův Brod"
+    },
+    {
+      "id": "city-pisek-extra",
+      "name": "Písek"
+    },
+    {
+      "id": "city-kolin-extra",
+      "name": "Kolín"
+    },
+    {
+      "id": "city-sumperk-extra",
+      "name": "Šumperk"
+    },
+    {
+      "id": "city-vsetin-extra",
+      "name": "Vsetín"
+    },
+    {
+      "id": "castle-cesky-krumlov-extra",
+      "name": "Český Krumlov-i vár"
+    },
+    {
+      "id": "castle-hluboka-extra",
+      "name": "Hluboká kastély"
+    },
+    {
+      "id": "historical-terezin-extra",
+      "name": "Terezíni Emlékhely"
+    },
+    {
+      "id": "castle-lednice-extra",
+      "name": "Lednicei kastély"
+    },
+    {
+      "id": "monastery-vyssibrod-extra",
+      "name": "Vyšší Brod-i kolostor"
+    },
+    {
+      "id": "castle-konopiste-extra",
+      "name": "Konopištěi kastély"
+    },
+    {
+      "id": "castle-pernstejn-extra",
+      "name": "Pernštejn vára"
+    },
+    {
+      "id": "castle-bouzov-extra",
+      "name": "Bouzov vára"
+    },
+    {
+      "id": "castle-krivoklat-extra",
+      "name": "Křivoklát vára"
+    },
+    {
+      "id": "monastery-kladruby-extra",
+      "name": "Kladrubyi kolostor"
+    },
+    {
+      "id": "castle-zvikov-extra",
+      "name": "Zvíkov vára"
+    },
+    {
+      "id": "castle-orlik-extra",
+      "name": "Orlíki kastély"
+    },
+    {
+      "id": "landmark-slavonice-underground-extra",
+      "name": "Slavonice-i földalatti"
+    },
+    {
+      "id": "industry-skoda-auto-mlada-boleslav-extra",
+      "name": "Škoda Auto gyár, Mladá Boleslav"
+    },
+    {
+      "id": "industry-budweiser-budvar-brewery-extra",
+      "name": "Budweiser Budvar Sörgyár"
+    },
+    {
+      "id": "industry-moser-glassworks-extra",
+      "name": "Moser Üveggyár"
+    },
+    {
+      "id": "agriculture-znojmo-wine-region-extra",
+      "name": "Znojmói borvidék"
+    },
+    {
+      "id": "agriculture-mikulov-wine-region-extra",
+      "name": "Mikulovi borvidék"
+    },
+    {
+      "id": "industry-semtex-factory-explosia-extra",
+      "name": "Explosia a.s. (Semtex)"
+    },
+    {
+      "id": "port-usti-nad-labem-port-extra",
+      "name": "Ústí nad Labem-i kikötő"
+    },
+    {
+      "id": "industry-trinecke-zelezarny-extra",
+      "name": "Třineci Vasmű"
+    },
+    {
+      "id": "kid-landmark-techmania-science-center-extra",
+      "name": "Techmania Tudományos Központ"
+    },
+    {
+      "id": "animal-habitat-zoo-liberec-extra",
+      "name": "Libereci Állatkert"
+    },
+    {
+      "id": "kid-landmark-aquapalace-praha-extra",
+      "name": "Aquapalace Prága"
+    },
+    {
+      "id": "animal-habitat-zoo-dvur-kralove-extra",
+      "name": "Dvůr Králové-i Állatkert"
+    },
+    {
+      "id": "nature-bohemian-paradise-extra",
+      "name": "Cseh Paradicsom"
+    },
+    {
+      "id": "mountain-krkonose-giant-mountains-extra",
+      "name": "Óriás-hegység"
+    },
+    {
+      "id": "lake-lipno-dam-extra",
+      "name": "Lipnói-víztározó"
+    }
+  ]
+}

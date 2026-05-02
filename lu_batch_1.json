@@ -1,0 +1,272 @@
+{
+  "lu-country": {
+    "descriptionAdvanced": "Luxembourg, officially the Grand Duchy of Luxembourg, is a captivating small landlocked country in Western Europe that serves as a bridge between Germanic and Romance cultures. Despite its small size, Luxembourg plays a disproportionate role on the world stage, both politically and economically. As one of the founding members of the European Union, it hosts numerous EU institutions. The country's geography is divided into the northern Ardennes (Oesling) and the southern Gutland. Luxembourg is the world's only remaining Grand Duchy, giving it a unique monarchical identity. Exploring Luxembourg offers a mix of ancient castles, modern financial centers, and dense, tranquil forests. This country is a prime example of successful European integration.",
+    "factsAdvanced": [
+      "Luxembourg covers an area of just 2,586 square kilometers.",
+      "It is the only remaining sovereign Grand Duchy in the world.",
+      "The country has three official languages: Luxembourgish, French, and German.",
+      "Nearly half of its population consists of foreign nationals."
+    ]
+  },
+  "lu-luxembourg-city": {
+    "descriptionAdvanced": "Luxembourg City, the capital of the Grand Duchy, is a city of dramatic contrasts and breathtaking beauty. Perched on steep cliffs above the deep valleys of the Alzette and Pétrusse rivers, the city is famous for its exceptionally well-preserved medieval fortifications, which earned it a spot on the UNESCO World Heritage list in 1994. Often referred to as the 'Gibraltar of the North', its history is shaped by its strategic importance as one of Europe's most fortified sites. Today, it beautifully balances its ancient casemates with the sleek, modern architecture of the Kirchberg plateau, home to numerous EU institutions.",
+    "factsAdvanced": [
+      "The city's ancient fortifications are part of a UNESCO World Heritage site.",
+      "It is built across dramatic gorges cut by the Alzette and Pétrusse rivers.",
+      "The Bock Casemates once sheltered thousands of soldiers and horses.",
+      "Over 70% of the city's residents are foreign nationals."
+    ]
+  },
+  "lu-vianden": {
+    "descriptionAdvanced": "Vianden is a picturesque town nestled in the valley of the Our River in northern Luxembourg, known as one of the country's most enchanting historical destinations. Dominated by its magnificent medieval castle, which perches majestically on a rocky promontory, Vianden feels like a place where time has stood still. The town's history is deeply intertwined with the House of Vianden, one of the most powerful noble families in the region during the Middle Ages. Beyond the castle, the town features narrow cobblestone streets, traditional houses, and scenic hiking trails that offer stunning views of the Ardennes landscape.",
+    "factsAdvanced": [
+      "Vianden Castle is one of the largest and finest feudal residences of the Romanesque and Gothic periods.",
+      "The town is located in the Our valley near the border with Germany.",
+      "Famous French author Victor Hugo lived here in exile in 1871.",
+      "The local chairlift is the only one of its kind in Luxembourg."
+    ]
+  },
+  "lu-echternach": {
+    "descriptionAdvanced": "Echternach is the oldest town in Luxembourg, steeped in deep historical and religious significance. Located in the east near the German border, it grew around the Abbey of Echternach, founded in 698 by the Anglo-Saxon monk Willibrord. The town's basilica still houses the remains of St. Willibrord and is the destination of the famous 'Dancing Procession' held every Whit Tuesday, a unique tradition recognized by UNESCO. With its medieval market square, ancient abbey walls, and proximity to the stunning rock formations of the Mullerthal region, Echternach perfectly blends cultural heritage with natural beauty.",
+    "factsAdvanced": [
+      "Echternach is recognized as the oldest town in Luxembourg.",
+      "The town's Abbey was founded in the year 698 by St. Willibrord.",
+      "The traditional Dancing Procession is inscribed on the UNESCO Intangible Cultural Heritage list.",
+      "It serves as the main gateway to the Mullerthal region, known as Little Switzerland."
+    ]
+  },
+  "lu-mullerthal": {
+    "descriptionAdvanced": "The Mullerthal region, often lovingly referred to as 'Little Switzerland,' is a true paradise for nature lovers and hikers. Located in the east of Luxembourg, it is characterized by its extraordinary sandstone rock formations, deep gorges, and dense, enchanting forests. Over millennia, the Black Ernz river and other streams have carved bizarre shapes into the sandstone, creating mystical landscapes that feel straight out of a fairy tale. The Mullerthal Trail, spanning over 112 kilometers, winds through these dramatic geological wonders, taking hikers past waterfalls like the famous Schiessentümpel and ancient caves used by early inhabitants.",
+    "factsAdvanced": [
+      "The region is renowned for its spectacular sandstone rock formations.",
+      "The Mullerthal Trail spans 112 kilometers of hiking paths.",
+      "The Schiessentümpel waterfall is one of its most photographed natural landmarks.",
+      "The landscape was shaped by erosion over millions of years."
+    ]
+  },
+  "lu-schengen": {
+    "descriptionAdvanced": "Schengen is a small, tranquil wine-producing village on the Moselle River, located at the precise tripoint where Luxembourg, Germany, and France meet. Despite its modest size, Schengen's name resonates globally, as it was here in 1985 that the historic Schengen Agreement was signed aboard the riverboat 'Princesse Marie-Astrid.' This treaty paved the way for the borderless travel zone that defines modern Europe today. Beyond its immense political significance, the village offers picturesque vineyards, an interesting European Museum, and a peaceful riverside atmosphere that celebrates cross-border harmony.",
+    "factsAdvanced": [
+      "Schengen is located at the exact border tripoint of Luxembourg, Germany, and France.",
+      "The famous Schengen Agreement was signed here on June 14, 1985.",
+      "The treaty was signed on a boat named 'Princesse Marie-Astrid' anchored on the Moselle River.",
+      "The village is surrounded by scenic vineyards producing excellent Moselle wines."
+    ]
+  },
+  "city-luxembourg": {
+    "descriptionAdvanced": "Luxembourg City is the dynamic and cosmopolitan capital of the Grand Duchy, serving as a vital political and financial center in Europe. The city's geography is spectacular, built across deep gorges carved by the Alzette and Pétrusse rivers, seamlessly blending ancient fortifications with sleek modern architecture. Its historic heart, a UNESCO World Heritage site, is filled with winding cobblestone streets, majestic squares, and the Grand Ducal Palace. In contrast, the Kirchberg plateau showcases the city's modern European identity, hosting international banks, EU institutions, and the striking Philharmonie concert hall.",
+    "factsAdvanced": [
+      "The historic old town and fortifications are a UNESCO World Heritage site.",
+      "The city is often called the 'Gibraltar of the North' due to its past military strength.",
+      "It hosts several key European Union institutions on the Kirchberg plateau.",
+      "The Grand Ducal Palace serves as the official residence of the Grand Duke."
+    ]
+  },
+  "city-esch": {
+    "descriptionAdvanced": "Esch-sur-Alzette, commonly known as Esch, is the second-largest city in Luxembourg and the cultural capital of the southern Minett region. Once the beating heart of the country's booming iron and steel industry, the city has undergone a remarkable transformation over recent decades. Its industrial past is still visible, especially in the striking Belval district, where decommissioned blast furnaces now stand alongside modern university buildings, concert venues, and start-up hubs. Esch-sur-Alzette is a vibrant testament to successful urban regeneration, blending a rich industrial heritage with a forward-looking, youthful energy.",
+    "factsAdvanced": [
+      "Esch-sur-Alzette is the second most populous city in Luxembourg.",
+      "The city was the center of Luxembourg's iron ore mining and steel production.",
+      "The Belval district features a university campus built around preserved blast furnaces.",
+      "It served as the European Capital of Culture in 2022."
+    ]
+  },
+  "city-differdange": {
+    "descriptionAdvanced": "Differdange is an industrious and rapidly evolving city located in the southwest Minett region of Luxembourg. Rooted deeply in the country's steelmaking history, it is home to one of the most important steel plants in the world, which continues to produce massive steel beams used in global architecture, including the Freedom Tower in New York. Beyond its industrial core, Differdange boasts beautiful natural surroundings, historical sites like the 12th-century Differdange Castle, and the modern Luxembourg Science Center, which makes learning about technology engaging for all ages.",
+    "factsAdvanced": [
+      "Differdange's steel plant produced the beams used in the New York Freedom Tower.",
+      "The city is home to the interactive Luxembourg Science Center.",
+      "Differdange Castle, dating back to the 12th century, now houses an international university.",
+      "It is located in the Minett region, historically known as the 'Land of the Red Earth'."
+    ]
+  },
+  "cult-bock": {
+    "descriptionAdvanced": "The Bock Promontory and its intricate network of casemates represent the historical cradle of Luxembourg City. In 963, Count Siegfried built his first fortification, the 'Lucilinburhuc', on this sheer rocky cliff, laying the foundation for the city and the nation. Over the centuries, military engineers from various empires expanded the defenses, carving a vast, multi-level labyrinth of tunnels and galleries directly into the rock. These casemates once housed thousands of soldiers, bakeries, and slaughterhouses, turning the city into the legendary 'Gibraltar of the North' and providing an awe-inspiring glimpse into military history.",
+    "factsAdvanced": [
+      "The original fortification 'Lucilinburhuc' was established here in the year 963.",
+      "The casemates consist of a vast network of underground tunnels carved into solid rock.",
+      "At their peak, the tunnels stretched over 23 kilometers in total length.",
+      "The site is a core component of Luxembourg's UNESCO World Heritage designation."
+    ]
+  },
+  "cult-echternach": {
+    "descriptionAdvanced": "The Basilica of St. Willibrord in Echternach is the religious epicenter of Luxembourg and an outstanding monument of Romanesque architecture. Originally founded by the Anglo-Saxon missionary Willibrord in the 8th century, the site has experienced centuries of profound religious influence, destruction, and faithful reconstruction. The current basilica, beautifully restored after heavy damage in World War II, features a majestic, serene interior and a historic Merovingian crypt where the saint's tomb rests. It is also the focal point for the annual Dancing Procession, drawing pilgrims and visitors from across Europe.",
+    "factsAdvanced": [
+      "The basilica houses the tomb of St. Willibrord in an 8th-century crypt.",
+      "The building is a prime example of Romanesque ecclesiastical architecture.",
+      "It was almost entirely destroyed in 1944 and meticulously rebuilt.",
+      "The site is the destination for the UNESCO-recognized Dancing Procession."
+    ]
+  },
+  "cult-schengen": {
+    "descriptionAdvanced": "The Schengen Monument is a powerful symbol of a united, borderless Europe, located in the peaceful riverside village of Schengen. Situated along the Moselle River, this site marks the exact location where representatives from five European nations signed the Schengen Agreement in 1985. The monument area features three imposing steel columns representing the original signatories, pieces of the Berlin Wall, and flags of the participating countries. Visiting this site provides a tangible connection to one of the most significant geopolitical achievements of modern times, highlighting the importance of cooperation and freedom of movement.",
+    "factsAdvanced": [
+      "The monument commemorates the signing of the Schengen Agreement in 1985.",
+      "It is situated on the banks of the Moselle River near the European tripoint.",
+      "The site includes three steel pillars and fragments of the Berlin Wall.",
+      "The agreement signed here eliminated internal border checks for millions of Europeans."
+    ]
+  },
+  "nat-ardennek-lu": {
+    "descriptionAdvanced": "The Luxembourg Ardennes, known locally as the Oesling, is a breathtaking region in the north of the country characterized by rolling, forested hills, deep river valleys, and sweeping panoramic views. This rugged terrain is a paradise for hikers, cyclists, and nature enthusiasts seeking tranquility and pristine environments. Historically, the Ardennes served as a formidable natural barrier and the site of significant conflicts, most notably the Battle of the Bulge during World War II. Today, its dense woodlands and winding rivers, like the Sûre and Our, host an incredible biodiversity and several majestic medieval castles.",
+    "factsAdvanced": [
+      "The Oesling region covers roughly the northern third of Luxembourg.",
+      "It features the highest elevations in the country, reaching up to 560 meters.",
+      "The region was the site of the fierce Battle of the Bulge in the winter of 1944-1945.",
+      "It is characterized by dense forests, deep valleys, and meandering rivers."
+    ]
+  },
+  "nat-moselle": {
+    "descriptionAdvanced": "The Moselle Valley is Luxembourg's premier wine-growing region, stretching along the eastern border with Germany. Here, the gently sloping hills are covered with meticulously terraced vineyards that benefit from a uniquely mild microclimate, perfect for cultivating world-class grapes. The region is especially renowned for its crisp Rieslings, elegant Pinot Blancs, and the highly celebrated Crémant de Luxembourg, a premium sparkling wine. The picturesque villages dotting the riverbanks offer charming wine cellars, delightful gastronomy, and relaxing boat cruises, making the Moselle Valley a perfect blend of agricultural tradition and leisurely tourism.",
+    "factsAdvanced": [
+      "The valley runs for 39 kilometers along the border between Luxembourg and Germany.",
+      "It is the sole wine-producing region in the Grand Duchy of Luxembourg.",
+      "The region is famous for producing the sparkling wine known as Crémant de Luxembourg.",
+      "The area benefits from a distinct microclimate ideal for white grape varieties."
+    ]
+  },
+  "city-bourscheid": {
+    "descriptionAdvanced": "Bourscheid is a small, scenic village situated high above the winding Sûre River in the Luxembourg Ardennes. It is most famous for the breathtaking ruins of Bourscheid Castle, which majestically dominate the landscape from a rocky spur 150 meters above the river. The village itself offers traditional rural charm and serves as an excellent starting point for exploring the dense forests and steep trails of the Oesling region. The panoramic views from Bourscheid, combining the meandering river, lush woodlands, and ancient stone walls, are among the most spectacular in the entire country.",
+    "factsAdvanced": [
+      "Bourscheid is home to one of Luxembourg's largest and most impressive castle ruins.",
+      "The castle sits on a steep promontory 150 meters above the Sûre River.",
+      "The original stone fortifications of the castle date back to the year 1000.",
+      "The village is a popular hub for hiking and nature tourism in the Ardennes."
+    ]
+  },
+  "city-berdorf": {
+    "descriptionAdvanced": "Berdorf is a charming village located on a high plateau right in the heart of the Mullerthal region, widely known as Luxembourg's 'Little Switzerland'. It is arguably the most famous climbing and hiking center in the country, surrounded by spectacular sandstone formations, deep crevices, and lush forests. The area is intersected by the renowned Mullerthal Trail, leading adventurers through geological wonders like the Hohllay cave and the Predigtstuhl rock. Besides its natural attractions, Berdorf is also known for its local agricultural products, particularly its distinct regional cheese.",
+    "factsAdvanced": [
+      "Berdorf is situated on a plateau at an altitude of approximately 375 meters.",
+      "It is the main center for outdoor rock climbing in Luxembourg.",
+      "The village is surrounded by impressive sandstone formations like the Predigtstuhl.",
+      "Local dairy farms produce the well-known Berdorf regional cheese."
+    ]
+  },
+  "city-beaufort": {
+    "descriptionAdvanced": "Beaufort is a historic town nestled in the eastern part of Luxembourg, renowned for its impressive dual castle complex and surrounding natural beauty. The site features the evocative ruins of an 11th-century medieval fortress, complete with a moat and torture chamber, standing right next to a well-preserved 17th-century Renaissance chateau. The town is deeply connected to the surrounding Mullerthal forests, offering enchanting trails that lead along babbling brooks and moss-covered rocks. Beaufort is also famous for its production of Cassero, a traditional blackcurrant liqueur made in the castle's cellars.",
+    "factsAdvanced": [
+      "The town features two distinct castles: a medieval ruin and a Renaissance chateau.",
+      "The medieval castle was originally built in the 11th century.",
+      "The castle cellars produce a traditional blackcurrant liqueur called Cassero.",
+      "Beaufort is a key gateway to the hiking trails of the Mullerthal region."
+    ]
+  },
+  "city-clervaux": {
+    "descriptionAdvanced": "Clervaux is a striking town in the northern Ardennes, dramatically situated in the deep, narrow valley of the Clerve River. The town is dominated by its white-washed, 12th-century castle and the prominent towers of the Abbey of St. Maurice and St. Maur, which stand high on the surrounding hills. Clervaux Castle is of particular international significance as it houses 'The Family of Man', a famous photography exhibition curated by Edward Steichen and inscribed on the UNESCO Memory of the World register. The town perfectly combines medieval architecture, deep historical resonance, and profound cultural heritage.",
+    "factsAdvanced": [
+      "The town's 12th-century castle houses 'The Family of Man' photography exhibition.",
+      "This exhibition by Edward Steichen is a UNESCO Memory of the World.",
+      "The Abbey of St. Maurice and St. Maur towers over the town from a high ridge.",
+      "Clervaux saw heavy fighting during the World War II Battle of the Bulge."
+    ]
+  },
+  "city-wiltz": {
+    "descriptionAdvanced": "Wiltz is a vibrant town in the Luxembourg Ardennes, often referred to as the 'Capital of the Ardennes'. Spread across different elevation levels, the town is divided into an upper historic center and a lower section situated in the Wiltz river valley. The majestic Wiltz Castle, with its grand renaissance architecture, hosts an acclaimed international music and theater festival every summer. Wiltz also played a poignant role in history; it was the center of a national general strike against the Nazi occupation in 1942, an event commemorated by a striking national monument in the town.",
+    "factsAdvanced": [
+      "Wiltz is traditionally known as the capital of the Luxembourg Ardennes.",
+      "The town initiated a historic general strike against Nazi occupation in August 1942.",
+      "Wiltz Castle hosts a major international outdoor music and theater festival annually.",
+      "The local brewing tradition is celebrated at the National Museum of Brewing Arts."
+    ]
+  },
+  "city-larochette": {
+    "descriptionAdvanced": "Larochette is a highly picturesque market town located in a narrow, rocky valley carved by the White Ernz river. The town's skyline is dominated by the dramatic ruins of Larochette Castle, which sits on a rocky outcrop directly above the traditional slate-roofed houses of the valley floor. Once a bustling center for the textile and clothing industry, Larochette has preserved its historical charm and is now a favored destination for tourists and hikers exploring the fringes of the Mullerthal region. The town's vibrant central square, the 'Bleech', reflects its diverse and welcoming community.",
+    "factsAdvanced": [
+      "The town is situated in a narrow valley created by the White Ernz river.",
+      "Larochette Castle dates back to the 11th century and overlooks the town.",
+      "Historically, the town was a major center for Luxembourg's textile industry.",
+      "A significant portion of Larochette's population is of Portuguese descent."
+    ]
+  },
+  "city-ettelbruck": {
+    "descriptionAdvanced": "Ettelbruck is a bustling town in central Luxembourg, often serving as the primary commercial and transport hub connecting the southern Gutland with the northern Ardennes. Historically, it is known as 'Patton Town' due to the crucial role played by US General George S. Patton and his Third Army in liberating the town during the intense Battle of the Bulge in World War II. The town honors this legacy with a dedicated museum and a prominent monument. Today, Ettelbruck is a lively agricultural and educational center, hosting the country's largest open-air agricultural fair every year.",
+    "factsAdvanced": [
+      "Ettelbruck is widely known as 'Patton Town' in honor of US General George S. Patton.",
+      "The town was a strategic focal point during the Battle of the Bulge in 1944.",
+      "It hosts Luxembourg's largest annual agricultural fair, the Foire Agricole.",
+      "It acts as a major railway and transport junction for the northern region."
+    ]
+  },
+  "city-grevenmacher": {
+    "descriptionAdvanced": "Grevenmacher is a vibrant and historic town on the banks of the Moselle River, serving as the commercial and administrative center of the Luxembourgish wine region. With its roots stretching back to Roman times, the town boasts narrow alleys, remnants of medieval fortifications, and a charming riverside promenade. Grevenmacher is deeply synonymous with viticulture; it is home to major wine cooperatives and historic cellars that produce some of the region's finest white wines and Crémants. The town also attracts families with attractions like the exotic Butterfly Garden and the scenic riverboat tours.",
+    "factsAdvanced": [
+      "Grevenmacher is the principal administrative center of the Moselle wine region.",
+      "The town has a rich viticultural heritage dating back to the Roman era.",
+      "It is home to the Caves Bernard-Massard, a major producer of sparkling wine.",
+      "The town features a popular exotic Butterfly Garden (Päiperlécksgaart)."
+    ]
+  },
+  "city-consdorf": {
+    "descriptionAdvanced": "Consdorf is a peaceful rural village situated on a high plateau in the Mullerthal region, functioning as a perfect starting point for nature explorations. The village is completely surrounded by some of the most dramatic and intricate sandstone formations in Luxembourg's 'Little Switzerland'. Trails leading from Consdorf take hikers through incredibly narrow, dark rock crevices, such as the famous 'Kuelscheier' cave, where navigating without a flashlight is nearly impossible. The village retains its quiet, traditional agricultural character, offering a serene retreat after a day of adventurous hiking.",
+    "factsAdvanced": [
+      "Consdorf is located at the heart of the Mullerthal's intricate sandstone landscapes.",
+      "The surrounding trails feature extremely narrow rock crevices like the Kuelscheier.",
+      "Hikers often need flashlights to navigate the area's deep, dark rock passages.",
+      "The village maintains a strong traditional agricultural and rural character."
+    ]
+  },
+  "city-waldbillig": {
+    "descriptionAdvanced": "Waldbillig is a small, quiet municipality located near the spectacular Mullerthal region, deeply rooted in the country's agricultural and historical tapestry. It is most famous as the birthplace of Michel Rodange, the national poet who authored 'Renert', the great Luxembourgish epic featuring a cunning fox. The surrounding landscape is a serene mix of open farmlands and dense forests, transitioning into the rocky gorges of the Black Ernz. Waldbillig represents the quintessential calm of rural Luxembourg, preserving local traditions and honoring its literary heritage.",
+    "factsAdvanced": [
+      "Waldbillig is the birthplace of Michel Rodange, Luxembourg's most famous poet.",
+      "Rodange wrote the national epic 'Renert', a satirical tale about a fox.",
+      "The municipality is located on the edge of the rocky Mullerthal region.",
+      "It features a monument dedicated to its famous literary son."
+    ]
+  },
+  "city-weiswampach": {
+    "descriptionAdvanced": "Weiswampach is a vibrant municipality situated in the extreme north of Luxembourg, right on the border with Belgium and Germany. Due to its strategic location on a high plateau in the Ardennes, it has developed into a bustling commercial and tourist center. The town is widely known for its two artificial lakes, which provide excellent facilities for swimming, wakeboarding, and fishing during the summer months. Surrounded by extensive forests and rolling hills, Weiswampach offers a perfect blend of lively cross-border commerce and relaxing outdoor recreational activities.",
+    "factsAdvanced": [
+      "Weiswampach is located at the northernmost tip of Luxembourg.",
+      "The town borders both Belgium and Germany, creating a busy cross-border hub.",
+      "It features two 6-hectare artificial lakes designed for summer recreation.",
+      "The lakes offer activities ranging from wakeboarding to peaceful trout fishing."
+    ]
+  },
+  "city-troisvierges": {
+    "descriptionAdvanced": "Troisvierges, named after the three virgins of faith, hope, and charity, is a historic town in the northernmost part of the Luxembourg Ardennes. The town grew significantly in the 19th century as a crucial railway junction connecting Luxembourg to Belgium and Germany. Historically, it was the site where the very first German troops disembarked at the onset of World War I, marking the beginning of the conflict on the Western Front. Today, Troisvierges is a peaceful community, offering access to beautiful nature reserves and the scenic Vennbahn cycle path built on former railway lines.",
+    "factsAdvanced": [
+      "Troisvierges developed as a major international railway junction in the 19th century.",
+      "The town marks the start of the Vennbahn, one of Europe's longest railway cycle paths.",
+      "It was the site of the first German troop incursion on the Western Front in 1914.",
+      "The local church houses highly valuable baroque altars from the 17th century."
+    ]
+  },
+  "city-beckerich": {
+    "descriptionAdvanced": "Beckerich is a progressive and eco-conscious village located in western Luxembourg, near the Belgian border. It is internationally recognized as a pioneer in sustainable development, renewable energy, and ecological transition. The municipality produces its own biogas, solar, and wind energy, striving for complete energy autonomy. Besides its environmental achievements, Beckerich is famous for its high-quality mineral water, which is bottled locally and exported widely. The old mill complex in the village center has been beautifully restored into a cultural and educational center focusing on sustainability.",
+    "factsAdvanced": [
+      "Beckerich is a national pioneer in renewable energy and ecological sustainability.",
+      "The village aims for complete energy autonomy using biogas, solar, and wind power.",
+      "It is famous for bottling high-quality mineral water sourced from local springs.",
+      "An old restored mill serves as the village's cultural and environmental center."
+    ]
+  },
+  "city-walferdange": {
+    "descriptionAdvanced": "Walferdange is a prosperous and highly desirable residential town located just north of Luxembourg City, in the lush valley of the Alzette River. The town seamlessly blends suburban convenience with deep historical roots, notably featuring the remains of an expansive Roman villa and the mysterious 'Raschpëtzer', an ancient Roman underground aqueduct system. Walferdange also hosts a branch of the University of Luxembourg and is surrounded by the expansive Grünewald forest, providing residents and visitors with abundant green spaces for recreation right on the capital's doorstep.",
+    "factsAdvanced": [
+      "Walferdange is situated in the Alzette valley just north of the capital city.",
+      "It is home to the 'Raschpëtzer', an impressive ancient Roman underground aqueduct.",
+      "The town features the well-preserved ruins of a large Roman villa.",
+      "It borders the Grünewald, one of the largest continuous forests in Luxembourg."
+    ]
+  },
+  "city-strassen": {
+    "descriptionAdvanced": "Strassen is a dynamic and affluent municipality immediately bordering the western edge of Luxembourg City. Due to its proximity to the capital, it has grown rapidly into a modern residential and commercial hub, favored by international expatriates and professionals. Despite its urban development, Strassen maintains a high quality of life with excellent infrastructure, including the popular 'Les Thermes' aquatic center and extensive parklands. The town is characterized by its cosmopolitan atmosphere, blending upscale suburban living with very easy access to the economic center of the country.",
+    "factsAdvanced": [
+      "Strassen directly borders the western districts of Luxembourg City.",
+      "It is one of the most affluent and cosmopolitan municipalities in the country.",
+      "The town features 'Les Thermes', a highly popular modern aquatic and wellness center.",
+      "A very high percentage of its residents are international expatriates."
+    ]
+  },
+  "city-mamer": {
+    "descriptionAdvanced": "Mamer is a charming and historic town located just west of the capital, uniquely positioned on the site of a former Roman settlement. The town's rich heritage is still visible today through excavated Roman thermal baths, which offer a glimpse into ancient life. Mamer is also the proud birthplace of Nicolas Frantz, the author of the beloved Luxembourgish epic 'Renert', and the renowned European cyclist Nicolas Frantz, a two-time winner of the Tour de France. The modern town features a beautiful central park, a grand chateau serving as the town hall, and an esteemed European School.",
+    "factsAdvanced": [
+      "Mamer is built on the remains of a significant ancient Roman settlement.",
+      "The town features excavated and preserved Roman thermal baths.",
+      "It is the birthplace of Nicolas Frantz, who won the Tour de France twice in the 1920s.",
+      "A grand, beautifully restored chateau now serves as the municipal town hall."
+    ]
+  }
+}

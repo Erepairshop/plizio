@@ -1,0 +1,140 @@
+country-czech-republic|Tschechien
+city-prague|Prag
+city-brno|Brünn
+city-plzen|Pilsen
+city-cesky-krumlov|Krumau
+city-karlovy-vary|Karlsbad
+city-kutna-hora|Kuttenberg
+nature-sumava|Böhmerwald
+city-ostrava|Ostrau
+city-liberec|Reichenberg
+city-olomouc|Olmütz
+city-hradec-kralove|Königgrätz
+city-pardubice|Pardubitz
+city-zlin|Zlin
+city-jihlava|Iglau
+city-ceske-budejovice|Budweis
+city-usti-nad-labem|Aussig an der Elbe
+city-tabor|Tabor
+city-cheb|Cheb
+city-as|As
+city-domazlice|Domazlice
+city-tachov|Tachau
+city-zatec|Saaz
+city-litomerice|Litomerice
+city-decin|Decin
+city-trutnov|Trutnov
+city-nachod|Nachod
+city-trebic|Trebic
+city-mikulov|Mikulov
+city-valtice|Valtice
+city-breclav|Lundenburg
+city-uherske-hradiste|Uherske Hradiste
+city-frydek-mistek|Frydek-Mistek
+cult-charles-bridge|Karlsbrücke
+cult-prague-castle|Prager Burg
+cult-karlstejn|Burg Karlstein
+cult-kutna-hora|Kutná Hora - Sedlec
+historical-telc|Teltsch
+historical-kromeriz|Kromau
+historical-litomysl|Leitomischl
+historical-zdar-nad-sazavou|Saar an der Sázava
+historical-kuks|Kuks
+historical-white-mountain|Weißer Berg
+historical-konopiste|Burg Konopiště
+historical-trosky|Burg Trosky
+cz-national-museum-prague|Nationalmuseum Prag
+landmark-dancing-house|Tanzendes Haus
+landmark-zizkov-tower|Fernsehturm Žižkov
+landmark-st-vitus-cathedral|Veitsdom
+landmark-villa-tugendhat|Villa Tugendhat
+landmark-national-theatre|Nationaltheater Prag
+landmark-national-technical-museum|Technisches Nationalmuseum
+landmark-holy-trinity-column|Dreifaltigkeitssäule
+industry-dolni-vitkovice|Dolní Vítkovice
+industry-skoda-auto-mlada-boleslav|Škoda Auto Mladá Boleslav
+industry-pilsner-urquell-brewery|Pilsner Urquell Brauerei
+port-melnik-river-port|Elbehafen Mělník
+port-usti-nad-labem-river-port|Elbehafen Aussig
+agriculture-moravian-vineyards-mikulov|Mikulover Weinberge
+landmark-jested-tower|Jested Tower
+historical-sedlec-ossuary|Sedlec Ossuary
+landmark-st-barbara-church|St.-Barbara-Kirche
+historical-zelena-hora-church|Pilgerkirche Gruner Berg
+landmark-svaty-hostyn-basilica|Basilika Svaty Hostyn
+historical-svaty-kopecek-basilica|Svaty Kopecek
+landmark-marianske-lazne-colonnade|Marienbad Kolonnade
+landmark-valtice-chateau|Schloss Valtice
+agriculture-zatec-hop-fields|Saazer Hopfenfelder
+cz-melnik-vineyards|Melniker Weinberge
+industry-tatra-trucks-koprivnice|Tatra Trucks Koprivnice
+industry-bata-shoe-factory-zlin|Bata Fabrik Zlin
+industry-skoda-kvasiny|Skoda Kvasiny
+kid-landmark-prague-zoo|Prager Zoo
+kid-landmark-mirakulum-milovice|Mirakulum
+kid-landmark-dinopark-vyskov|Dinopark Vyskov
+kid-landmark-zlin-zoo|Zoo Zlin
+nat-bohemian-switzerland|Böhmische Schweiz NP
+nat-sumava|Böhmerwald NP
+nat-moravian-karst|Mährischer Karst
+nat-krkonose|Riesengebirge
+mountain-snezka|Schneekoppe
+mountain-praded|Altvater
+mountain-lysa-hora|Lysa Hora
+lake-lipno|Lipno-Stausee
+lake-machovo|Máchasee
+river-vltava|Moldau
+river-labe|Elbe
+island-kampa|Kampa
+mountain-jested|Jested
+mountain-klinovec|Keilberg
+mountain-blanik|Blanik
+lake-cerne-jezero|Schwarzer See
+lake-rozmberk|Rozmberk Teich
+river-ohre|Eger
+river-dyje|Thaya
+forest-bohemian-switzerland|Boehmische Schweiz Wald
+city-most-extra|Brüx
+city-opava-extra|Troppau
+city-karvina-extra|Karwin
+city-teplice-extra|Teplitz
+city-chomutov-extra|Komotau
+city-prerov-extra|Prerau
+city-prostejov-extra|Proßnitz
+city-jablonec-nad-nisou-extra|Gablonz an der Neiße
+city-mlada-boleslav-extra|Jungbunzlau
+city-havirov-extra|Hawierow
+city-kladno-extra|Kladen
+city-havlickuv-brod-extra|Deutschbrod
+city-pisek-extra|Pisek
+city-kolin-extra|Kolin
+city-sumperk-extra|Mährisch-Schönberg
+city-vsetin-extra|Wsetin
+castle-cesky-krumlov-extra|Schloss Český Krumlov
+castle-hluboka-extra|Schloss Hluboká
+historical-terezin-extra|Gedenkstätte Theresienstadt
+castle-lednice-extra|Schloss Lednice
+monastery-vyssibrod-extra|Kloster Vyšší Brod
+castle-konopiste-extra|Schloss Konopiště
+castle-pernstejn-extra|Burg Pernštejn
+castle-bouzov-extra|Burg Bouzov
+castle-krivoklat-extra|Burg Křivoklát
+monastery-kladruby-extra|Kloster Kladrau
+castle-zvikov-extra|Burg Zvíkov
+castle-orlik-extra|Schloss Orlík
+landmark-slavonice-underground-extra|Slavonice Untergrund
+industry-skoda-auto-mlada-boleslav-extra|Škoda Auto Werk Mladá Boleslav
+industry-budweiser-budvar-brewery-extra|Budweiser Budvar Brauerei
+industry-moser-glassworks-extra|Moser Glashütte
+agriculture-znojmo-wine-region-extra|Weinregion Znojmo
+agriculture-mikulov-wine-region-extra|Weinregion Mikulov
+industry-semtex-factory-explosia-extra|Explosia a.s. (Semtex)
+port-usti-nad-labem-port-extra|Hafen Ústí nad Labem
+industry-trinecke-zelezarny-extra|Třinecer Eisenwerke
+kid-landmark-techmania-science-center-extra|Techmania Science Center
+animal-habitat-zoo-liberec-extra|Zoo Liberec
+kid-landmark-aquapalace-praha-extra|Aquapalace Prag
+animal-habitat-zoo-dvur-kralove-extra|Zoo Dvůr Králové
+nature-bohemian-paradise-extra|Böhmisches Paradies
+mountain-krkonose-giant-mountains-extra|Riesengebirge
+lake-lipno-dam-extra|Lipno-Stausee
