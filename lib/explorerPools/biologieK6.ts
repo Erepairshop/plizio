@@ -384,7 +384,7 @@ export const BIO_K6_I1_LABELS: Record<string, Record<string, string>> = {
     t2_h1: "Trei secțiuni ale corpului", t2_h2: "Exact șase picioare",
     t2_inst: "Construiește insecta!",
     t2_q: "Câte picioare are o insectă?",
-    t2_qa: "È˜ase (3 perechi)", t2_qb: "Opt (4 perechi)", t2_qc: "Zece", t2_qd: "Multe",
+    t2_qa: "Șase (3 perechi)", t2_qb: "Opt (4 perechi)", t2_qc: "Zece", t2_qd: "Multe",
     t3_title: "Păianjeni",
     t3_text: "Păianjenii au doar două secțiuni ale corpului (cefalotorace și abdomen) și posedă opt picioare. Ei nu au antene.",
     t3_h1: "Două secțiuni ale corpului", t3_h2: "Opt picioare",
@@ -396,7 +396,7 @@ export const BIO_K6_I1_LABELS: Record<string, Record<string, string>> = {
     t4_h1: "Carapace dură", t4_h2: "Majoritatea acvatice",
     t4_inst: "Găsește crustaceul!",
     t4_q: "Câte picioare au majoritatea crustaceelor (cum este racul)?",
-    t4_qa: "Zece (5 perechi)", t4_qb: "È˜ase", t4_qc: "Opt", t4_qd: "O sută",
+    t4_qa: "Zece (5 perechi)", t4_qb: "Șase", t4_qc: "Opt", t4_qd: "O sută",
     t5_title: "Metamorfoză",
     t5_text: "Multe insecte se dezvoltă de la ou, prin stadiile de larvă și pupă, până la insecta adultă (imago).",
     t5_h1: "Stadiul de pupă", t5_h2: "Metamorfoză completă",
@@ -1056,7 +1056,7 @@ export const BIO_K6_I3_POOL: PoolTopicDef[] = [
   }
 ];
 
-// â”€â”€â”€ i4: GEWÄSSER (WATER ECOSYSTEMS) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// â”€â”€â”€ i4: GEWĐSSER (WATER ECOSYSTEMS) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 export const BIO_K6_I4_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1253,7 +1253,7 @@ export const BIO_K6_I4_LABELS: Record<string, Record<string, string>> = {
     t6_h1: "Stadiu larvar", t6_h2: "Adaptare",
     t6_inst: "Găsește larva!",
     t6_q: "Care insectă folosește tensiunea superficială pentru a merge pe apă?",
-    t6_qa: "Păianjenul de apă", t6_qb: "Libelula", t6_qc: "Gândacul de apă", t6_qd: "Èšânțarul",
+    t6_qa: "Păianjenul de apă", t6_qb: "Libelula", t6_qc: "Gândacul de apă", t6_qd: "Țânțarul",
     t7_title: "Protecția peștilor",
     t7_text: "Peștii au nevoie de apă curată, bogată în oxigen și de rute de migrație fără obstacole.",
     t7_h1: "Conectivitate", t7_h2: "Locuri de depunere a icrelor",
@@ -1543,7 +1543,7 @@ export const BIO_K6_I5_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Atriu și ventricul", t7_h2: "Sept",
     t7_inst: "Aranjează camerele!",
     t7_q: "Câte camere (atrii + ventricule) are inima omului în total?",
-    t7_qa: "Patru", t7_qb: "Două", t7_qc: "Trei", t7_qd: "È˜ase",
+    t7_qa: "Patru", t7_qb: "Două", t7_qc: "Trei", t7_qd: "Șase",
     t8_title: "Valvele cardiace",
     t8_text: "Valvele acționează ca niște supape și se asigură că sângele curge într-o singură direcție.",
     t8_h1: "Funcție de supapă", t8_h2: "Prevenirea refluxului",
@@ -1589,7 +1589,7 @@ export const BIO_K6_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "biologie-diagram", name: "HeartSvg", bg: "#FEF2F2" },
-    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Das Herz schlägt in Ruhe ___ mal pro Minute.", choices: ["60â€“80 Mal", "10â€“20 Mal", "200 Mal", "500 Mal"], correctIndex: 0 },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Das Herz schlägt in Ruhe ___ mal pro Minute.", choices: ["60–80 Mal", "10–20 Mal", "200 Mal", "500 Mal"], correctIndex: 0 },
     quiz: { generate: "heart" }
   },
   {
@@ -1944,7 +1944,7 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
   }
 ];
 
-// â”€â”€â”€ i8: PUBERTÄT & FORTPFLANZUNG (PUBERTY) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// â”€â”€â”€ i8: PUBERTĐT & FORTPFLANZUNG (PUBERTY) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 export const BIO_K6_I8_LABELS: Record<string, Record<string, string>> = {
   de: {

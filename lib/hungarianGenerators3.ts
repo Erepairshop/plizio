@@ -1318,7 +1318,7 @@ export function generateCompoundSentenceBasics(seed?: number): CurriculumQuestio
       // Mi az kötőszó jelentése?
       const correct = sent.meaning;
       const wrongs = shuffle(COMPOUND_SENTENCE_BASICS, rng).slice(0, 3).map(s => s.meaning);
-      q.push(createMCQ("mondat", "osszetett_alap", `A(z) â€ž${sent.connector}" kötőszó jelentése:`, correct, wrongs));
+      q.push(createMCQ("mondat", "osszetett_alap", `A(z) „${sent.connector}" kötőszó jelentése:`, correct, wrongs));
     } else if (type === 1) {
       // Melyik a helyes kötőszó?
       const correct = sent.connector;
@@ -1371,7 +1371,7 @@ export function generateDialogueVerbs(seed?: number): CurriculumQuestion[] {
       // Mondat kiegészítés
       const correct = dverb.verb;
       const wrongs = shuffle(DIALOGUE_VERBS, rng).slice(0, 3).map(d => d.verb);
-      q.push(createMCQ("fogalmazas", "parbeszed", `â€žJátszunk!" â€“ ___ a tanár. (Melyik párbeszéd-ige illik ide?)`, correct, wrongs));
+      q.push(createMCQ("fogalmazas", "parbeszed", `„Játszunk!" – ___ a tanár. (Melyik párbeszéd-ige illik ide?)`, correct, wrongs));
     }
   }
   const typingPool: [string, string | string[]][] = [
