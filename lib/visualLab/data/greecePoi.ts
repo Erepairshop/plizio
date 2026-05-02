@@ -202,7 +202,7 @@ export const greeceRegions: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Thessaloniki, Greece's second-largest city and the capital of Macedonia, is a vibrant port city that serves as a cultural and historical crossroads. Founded in 315 BC by Cassander, it was named after his wife, the half-sister of Alexander the Great. The city's rich history is evident in its diverse architectural landscape, which includes Roman, Byzantine, and Ottoman monuments. Thessaloniki is particularly famous for its UNESCO World Heritage-listed Paleochristian and Byzantine monuments, such as the Rotunda and the Church of Saint Demetrius. The iconic White Tower, situated on the waterfront, is the most recognizable symbol of the city and houses a museum dedicated to its history. Thessaloniki is also known as the cultural capital of Greece, hosting numerous festivals, including the Thessaloniki International Film Festival. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Founded in 315 BC by Cassander of Macedon.",
@@ -279,7 +279,7 @@ export const greeceRegions: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Crete, the largest and most populous of the Greek islands, is a land of myth, history, and breathtaking natural beauty. Located in the southern part of the Aegean Sea, it is the fifth-largest island in the Mediterranean and serves as a bridge between Europe, Africa, and Asia. Crete is famous as the birthplace of the Minoan civilization, the first advanced civilization in Europe, which flourished from approximately 2700 to 1420 BC. The Palace of Knossos, located near the capital Heraklion, is the most significant archaeological site of this era and is associated with the legend of the Minotaur and the Labyrinth. The island's landscape is incredibly diverse, featuring rugged mountains that span from west to east, fertile plateaus, and some of the world's most beautiful beaches, such as Elafonisi and Balos. The White Mountains (Lefka Ori) in the west are home to the Samaria Gorge, one of the longest and most spectacular canyons in Europe. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Crete is the largest island in Greece and the fifth largest in the Mediterranean.",
@@ -351,7 +351,7 @@ export const greeceCities: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Heraklion is the largest city and the administrative capital of the island of Crete, Greece. It is one of the fastest-growing tourist destinations in Europe, owing to its rich history and strategic location. The city's roots trace back to the Minoan civilization, with the nearby Palace of Knossos being a major draw. Throughout its history, Heraklion has been influenced by various powers, including the Byzantines, Moors, Venetians, and Ottomans. The Venetian legacy is particularly prominent, visible in the imposing Koules Fortress that guards the harbor and the elegant Morosini Fountain. The Heraklion Archaeological Museum houses the world's most comprehensive collection of Minoan artifacts, offering a deep dive into ancient Mediterranean history. Today, Heraklion is a bustling metropolis that seamlessly blends ancient ruins with modern urban life. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Heraklion is the fourth largest city in Greece.",
@@ -420,7 +420,7 @@ export const greeceCities: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Chania is a picturesque coastal city on the northwest coast of Crete, known for its enchanting Old Town and vibrant Venetian harbor. The city's architecture reflects a fascinating blend of Venetian, Ottoman, and neoclassical influences, a testament to its complex history. Walking through the narrow, labyrinthine streets of the Old Town, visitors can admire restored mansions, ancient mosques, and historic churches. The prominent lighthouse at the entrance of the harbor, built by the Venetians and later modified by the Egyptians, is a hallmark of the city's skyline. Chania is also a gateway to the spectacular natural wonders of western Crete, including the White Mountains and pristine beaches. The local markets, especially the Agora, offer a rich array of Cretan culinary delights and traditional crafts. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Chania was the capital of Crete from 1898 until 1971.",
@@ -489,7 +489,7 @@ export const greeceCities: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Rhodes, the capital of the Dodecanese islands, is a city steeped in antiquity and medieval grandeur. It is perhaps best known historically for the Colossus of Rhodes, one of the Seven Wonders of the Ancient World, which once straddled its harbor. The medieval Old Town of Rhodes is a designated UNESCO World Heritage site and is one of the best-preserved medieval towns in Europe. Enclosed by massive stone walls built by the Knights Hospitaller, the Old Town features the awe-inspiring Palace of the Grand Master and the picturesque Street of the Knights. The modern city extends beyond the walls, offering beautiful beaches, a lively commercial center, and a vibrant nightlife. Rhodes seamlessly integrates its ancient ruins, such as the Acropolis of Rhodes, with its medieval and modern elements. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Colossus of Rhodes, a giant statue of the sun god Helios, was located here.",
@@ -525,7 +525,7 @@ export const greeceCulture: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Delphi, situated on the slopes of Mount Parnassus, was considered the center of the world in ancient Greek religion. It was the site of the most important oracle in the classical Greek world, the Oracle of Delphi, where the priestess Pythia delivered prophecies inspired by the god Apollo. The archaeological site features the remnants of the Temple of Apollo, the ancient theater, and the stadium where the Pythian Games were held. Visitors would travel from all over the Mediterranean to seek guidance on critical matters, ranging from personal decisions to matters of state. The site is surrounded by a breathtaking mountainous landscape, enhancing its mystical and sacred atmosphere. Today, the Delphi Archaeological Museum houses remarkable artifacts found at the site, including the famous Charioteer of Delphi. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Ancient Greeks believed Delphi was the 'Omphalos' or navel of the earth.",
@@ -558,7 +558,7 @@ export const greeceCulture: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Meteora is a spectacular rock formation in central Greece, hosting one of the largest and most precipitously built complexes of Eastern Orthodox monasteries. The name 'Meteora' translates to 'suspended in the air,' which aptly describes the monasteries perched atop towering sandstone pillars. These natural sandstone rock pillars offer a surreal and otherworldly landscape that has fascinated visitors for centuries. Originally, monks settled in caves on the rocks in the 11th century, and by the 14th century, the first monasteries were constructed to provide safety and seclusion. Access to the monasteries was intentionally difficult, requiring long ladders or large nets to haul up goods and people. Today, six of the original twenty-four monasteries remain active and are accessible via stairs cut into the rock formations. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The monasteries were built atop rock pillars that rise up to 400 meters high.",
@@ -635,7 +635,7 @@ export const greeceCulture: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, containing the remains of several architecturally and historically significant buildings. The most famous of these is the Parthenon, a temple dedicated to the goddess Athena, whom the people of Athens considered their patron. Constructed in the 5th century BC during the Golden Age of Pericles, the Acropolis monuments represent the pinnacle of classical Greek art and architecture. The site also includes the Erechtheion, with its iconic Porch of the Caryatids, the Propylaea, and the Temple of Athena Nike. The Acropolis has endured centuries of war, earthquakes, and alterations, yet it stands as a universal symbol of classical spirit and civilization. Ongoing restoration efforts aim to preserve these masterpieces for future generations. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Parthenon was designed by the architects Iktinos and Kallikrates.",
@@ -712,7 +712,7 @@ export const greeceCulture: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Olympia, located in the Peloponnese peninsula of Greece, is renowned worldwide as the birthplace of the Olympic Games. Beginning in 776 BC, the ancient games were held here every four years in honor of Zeus, bringing together athletes and spectators from across the Greek world. The archaeological site encompasses the ruins of the sanctuary of Zeus, which once housed a massive chryselephantine statue of the god, one of the Seven Wonders of the Ancient World. Visitors can explore the ancient stadium, where the running events took place, as well as the gymnasium, the palaestra, and the Temple of Hera. The tradition of lighting the Olympic flame still takes place at Olympia before the modern games, symbolizing a connection between the ancient and modern sporting ideals. The nearby Archaeological Museum of Olympia displays significant finds, including the exquisite statue of Hermes by Praxiteles. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The ancient Olympic Games were held at Olympia from 776 BC until 393 AD.",
@@ -789,7 +789,7 @@ export const greeceCulture: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mycenae is an archaeological site in the northeastern Peloponnese, Greece, representing the center of the Mycenaean civilization, which dominated the eastern Mediterranean from the 15th to the 12th century BC. This heavily fortified citadel, described by Homer as 'rich in gold,' is intrinsically linked to the legendary King Agamemnon, who led the Greeks in the Trojan War. The site is famous for the imposing Lion Gate, the monumental entrance to the citadel featuring a relief of two lions, which is the oldest monumental sculpture in Europe. Within the cyclopean walls, archaeologists have discovered royal tombs, intricate palace structures, and massive tholos (beehive) tombs like the Treasury of Atreus. The excavations initiated by Heinrich Schliemann in the late 19th century unearthed spectacular golden artifacts, including the famous 'Mask of Agamemnon.' Mycenae offers profound insights into early Greek history and the origins of classical mythology. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Mycenaean civilization is the first advanced civilization on mainland Greece.",
@@ -825,7 +825,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Santorini, officially known as Thira, is a spectacular volcanic island in the southern Aegean Sea, famous for its dramatic landscapes and stunning sunsets. The island is essentially what remains after an enormous volcanic eruption that destroyed the earliest settlements on a formerly single island and created the current geological caldera. The whitewashed, cubiform houses of its two principal towns, Fira and Oia, cling to cliffs above an underwater crater (caldera), offering breathtaking panoramic views. The eruption, which occurred around 1600 BC, is one of the largest volcanic events in recorded history and is often linked to the myth of Atlantis. Santorini is also renowned for its unique viticulture, producing distinctive wines from grapes grown in volcanic soil, and its distinctive red, white, and black sand beaches. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Santorini's caldera was formed by a massive volcanic eruption around 3,600 years ago.",
@@ -894,7 +894,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mykonos is a cosmopolitan island in the Cyclades group, renowned for its vibrant nightlife, stunning beaches, and iconic whitewashed architecture. The island's charming main town, Chora, is a labyrinth of narrow streets, blue-domed churches, and brightly painted doors and balconies. One of the most famous landmarks in Mykonos is the row of 16th-century windmills that stand on a hill overlooking the town, a nod to the island's agricultural past. Another picturesque area is 'Little Venice,' where historic houses with colorful balconies are situated right on the water's edge. Despite its modern reputation as a luxury party destination, Mykonos retains a strong connection to its history and traditions, lying close to the sacred island of Delos, a major archaeological site. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "According to mythology, Mykonos was formed from the petrified bodies of giants killed by Hercules.",
@@ -955,7 +955,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mount Olympus is the highest mountain in Greece and holds a central place in ancient Greek mythology as the dwelling place of the Twelve Olympian gods. Located on the border between Thessaly and Macedonia, the mountain boasts a dramatic and rugged terrain with deep gorges, thick forests, and alpine peaks. The highest peak, Mytikas, reaches an elevation of 2,917 meters and was successfully scaled for the first time in 1913. The Mount Olympus area was declared Greece's first national park in 1938, recognized for its exceptional biodiversity, including over 1,700 plant species and numerous endemic varieties. The mountain offers extensive hiking and mountaineering opportunities, attracting thousands of nature lovers and adventurers annually. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Mount Olympus was the mythical home of the 12 major deities of the ancient Greek pantheon.",
@@ -1016,7 +1016,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Samaria Gorge is a stunning National Park in Greece, located in the White Mountains (Lefka Ori) of western Crete. It is one of the longest and most famous gorges in Europe, stretching for about 16 kilometers from the Omalos plateau down to the coastal village of Agia Roumeli on the Libyan Sea. The gorge was designated a National Park in 1962, primarily to protect the endemic Kri-Kri, a rare species of Cretan wild goat that finds refuge in its steep cliffs. The hike through the gorge offers dramatic scenery, featuring towering vertical rock faces, narrow passages known as the 'Iron Gates,' and a lush forest environment. The trek is a popular attraction, drawing hikers from around the world who seek to experience Crete's rugged natural beauty firsthand. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Samaria Gorge is 16 kilometers long, making it one of Europe's longest canyons.",
@@ -1077,7 +1077,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Myrtos Beach is widely considered one of the most beautiful and iconic beaches in Greece, located in the north-western part of Kefalonia island in the Ionian Sea. The beach is famous for its dramatic setting, framed by towering, steep limestone cliffs that plunge directly into the vibrant turquoise and azure waters. The shoreline consists of smooth white marble pebbles that contribute to the striking contrast of colors against the sea. Myrtos has frequently been featured in travel magazines and consistently ranks among the top beaches worldwide for its pristine natural beauty. Due to the steep terrain and powerful currents, the beach remains relatively uncommercialized, offering a raw and awe-inspiring natural experience. Geography K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Myrtos Beach is situated at the base of two mountains, Agia Dynati and Kalon Oros.",
@@ -1087,7 +1087,7 @@ export const greeceNature: POI[] = [
     ]
   }
 }
-  ,
+
   {
     id: "city-patras",
     type: "city",
@@ -1111,7 +1111,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Patras is the third-largest city in Greece and the regional capital of Western Greece, serving as a major port and commercial hub connecting the country with Italy and Western Europe. Known as Greece's 'Gate to the West,' Patras has a rich history that spans from antiquity through the Roman period and the Byzantine Empire. The city is famous for hosting the Patras Carnival, the largest and most vibrant carnival event in Greece, attracting thousands of participants with its grand parades and festivities. The medieval Patras Castle, perched on a hill above the city, offers panoramic views of the Gulf of Patras. The modern city is defined by its vibrant student population, neoclassical architecture, and the impressive Rio-Antirrio bridge, one of the world's longest multi-span cable-stayed bridges. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Patras is Greece's third-largest city and a major maritime port.",
@@ -1144,7 +1144,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Larissa is the capital and largest city of the Thessaly region, situated in a fertile plain that is the agricultural heartland of Greece. The city has been continuously inhabited for thousands of years, with archaeological findings suggesting human presence since the Paleolithic era. In antiquity, Larissa was a major center and the reputed home of the famous physician Hippocrates. Today, the city is a vital economic and transportation center, linking Northern and Southern Greece. The prominent ancient theater of Larissa, located in the city center, highlights its historical significance. Larissa combines its rich historical legacy with a lively modern atmosphere, characterized by numerous pedestrian streets, cafes, and parks. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Larissa is the fifth-largest city in Greece.",
@@ -1177,7 +1177,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Volos is a picturesque coastal port city situated at the foot of Mount Pelion in the Thessaly region of Greece. It is the mythical home of Jason and the Argonauts, who supposedly set sail from this very harbor on their quest for the Golden Fleece. The city boasts a beautiful waterfront promenade lined with 'tsipouradika,' traditional tavernas where locals enjoy tsipouro (a strong local spirit) paired with meze. Behind the city rises Mount Pelion, known for its lush forests, traditional stone villages, and historical role as the mythological land of the Centaurs. Volos is a major industrial and commercial center and features a unique blend of modern urban planning and neoclassical architecture. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Volos is considered the starting point of the mythical Argonautic expedition.",
@@ -1210,7 +1210,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Ioannina, the capital of the Epirus region, is a beautiful city set along the shores of Lake Pamvotis in northwestern Greece. The city is renowned for its enchanting atmosphere, largely defined by the lake and the historic island located at its center, one of the few inhabited lake islands in Europe. Ioannina has a rich multicultural history, profoundly influenced by its time under Ottoman rule, particularly during the era of Ali Pasha in the late 18th and early 19th centuries. The city's prominent castle, the Kastro, encloses an old town with traditional stone houses, Byzantine monuments, and the Fethiye Mosque. Today, Ioannina is a bustling university town recognized for its exquisite silversmithing tradition and its scenic natural environment. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Ioannina is located by Lake Pamvotis, which features a rare inhabited lake island.",
@@ -1243,7 +1243,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Kavala is a major seaport and commercial center in eastern Macedonia, Northern Greece, built amphitheatrically on the slopes of Mount Symvolo. Often referred to as the 'blue city' due to its spectacular coastal setting, Kavala boasts a rich history spanning over two and a half millennia. The city's landscape is dominated by an impressive 15th-century Byzantine castle and the striking Kamares, an enormous Ottoman aqueduct that once supplied the city with water. Kavala was an important center for tobacco processing in the 19th and early 20th centuries, which brought significant wealth and architectural development. Nearby lies the ancient city of Philippi, where St. Paul established the first Christian church on European soil. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Kavala was originally founded by settlers from Paros in the 7th century BC as Neapolis.",
@@ -1276,7 +1276,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Trikala is a picturesque city in northwestern Thessaly, known for its well-planned urban layout, historical monuments, and the Lithaios River that flows through its center. The city is built on the site of the ancient city of Trikka, which is reputed to be the birthplace of Asclepius, the ancient Greek god of medicine. The riverbanks, lined with trees and pedestrian paths, are a hallmark of the city's tranquil atmosphere. Above the city stands a notable Byzantine castle, later fortified by the Ottomans, featuring a distinctive clock tower. Trikala is also recognized as one of Greece's first 'smart cities,' integrating advanced digital technologies into its municipal services and public transportation. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Trikala is reputed to be the mythological birthplace of Asclepius, god of medicine.",
@@ -1309,7 +1309,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Kalamata is the second-most populous city of the Peloponnese peninsula and the capital of the Messenia region in southern Greece. The city is world-renowned for its high-quality agricultural exports, particularly Kalamata olives and olive oil, which are staples of the Mediterranean diet. Located in the shadow of Mount Taygetus, Kalamata features a beautiful waterfront and a vibrant modern center that was largely rebuilt following a devastating earthquake in 1986. The city's history is crowned by a 13th-century castle established by the Franks, which now hosts various cultural events. Kalamata is also known for the traditional 'Kalamatianos' dance, showcasing its deep-rooted cultural heritage. Geography K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Kalamata is famous worldwide for its namesake black olives and premium olive oil.",
@@ -1342,7 +1342,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Serres is a prominent commercial and administrative center in the region of Central Macedonia, northern Greece. It is situated in a fertile plain and is historically known for its strategic location along the major routes connecting the Balkans. The city features a notable Acropolis, known as the Koulas fortress, which offers commanding views of the surrounding landscape. Serres played a significant role during the Byzantine and Ottoman periods, as evidenced by its surviving architecture, including the Zincirli Mosque and the Bezesteni covered market. Today, it is recognized for its dynamic local economy, vibrant student population, and traditional culinary specialties, most notably 'Akanes,' a unique local sweet. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Serres was a major stronghold during the Byzantine Empire.",
@@ -1375,7 +1375,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Agrinio is the largest city in the Aetolia-Acarnania regional unit in western Greece, serving as a vital economic and cultural hub for the area. Nestled near the Acheloos River and Lake Trichonida, Greece's largest natural lake, the city has a profound connection to its surrounding aquatic landscapes. Historically, Agrinio developed rapidly in the late 19th and early 20th centuries primarily due to the tobacco industry, which shaped much of its neoclassical architecture and economic prosperity. The city is rich in history, with nearby archaeological sites like ancient Stratos highlighting its past significance. Today, Agrinio maintains an agricultural base while offering modern amenities and access to spectacular natural reserves. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Agrinio is the largest city in the Aetolia-Acarnania region.",
@@ -1408,7 +1408,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Tripoli is the capital city of the Peloponnese region and the regional unit of Arcadia, located in the central part of the peninsula. Situated on an inland plateau, the city boasts a cooler climate compared to the coastal areas and serves as a vital transportation and commercial hub. Tripoli was founded during the Ottoman era and became a major administrative center, playing a pivotal role during the Greek War of Independence in 1821. The city features spacious squares, neoclassical buildings, and a vibrant local market that reflects its agricultural surroundings. Tripoli's strategic location makes it an ideal base for exploring the mountainous landscapes and traditional villages of Arcadia. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Tripoli is located on a high plateau, approximately 650 meters above sea level.",
@@ -1441,7 +1441,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Philippi is an ancient city in eastern Macedonia, founded by King Philip II of Macedon in 356 BC. It holds immense historical significance due to the Battle of Philippi in 42 BC, where the forces of Mark Antony and Octavian defeated the assassins of Julius Caesar, shaping the course of the Roman Empire. Furthermore, Philippi is a crucial site in Christian history, as it is where the Apostle Paul visited in 49 or 50 AD, establishing the first Christian church on European soil. The archaeological site features impressive ruins, including an ancient theater, the Roman forum, and remains of early Christian basilicas. It was designated as a UNESCO World Heritage site in 2016 for its exceptional Roman and early Christian heritage. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The city was founded by Philip II of Macedon, the father of Alexander the Great.",
@@ -1474,7 +1474,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mystras is a fortified town and a former municipality in Laconia, Peloponnese, situated on the slopes of Mount Taygetus. It served as the capital of the Byzantine Despotate of the Morea in the 14th and 15th centuries, experiencing a period of intense cultural and artistic prosperity known as the 'Palaeologan Renaissance.' The site is a spectacular open-air museum of Byzantine architecture, featuring a hilltop castle, beautiful churches with exceptional frescoes, and ruined palaces. Mystras remained inhabited throughout the Ottoman period until it was abandoned in the 1830s when modern Sparta was built nearby. Today, it is a UNESCO World Heritage site, celebrated as one of the most important surviving examples of late Byzantine culture. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Mystras was the capital of the Byzantine Despotate of the Morea.",
@@ -1507,7 +1507,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Vergina, known in antiquity as Aigai, was the first capital of the ancient Kingdom of Macedonia. The site gained international fame in 1977 when Greek archaeologist Manolis Andronikos discovered the unlooted royal tombs of the Macedonian kings. The most significant of these is the tomb of Philip II, the father of Alexander the Great, which contained spectacular golden artifacts, including a golden larnax and intricate ceremonial armor. The site also features the monumental ruins of a grand palace and an ancient theater where Philip II was assassinated in 336 BC. Today, the Museum of the Royal Tombs of Aigai is built over the tombs themselves, preserving the monuments and displaying the extraordinary treasures of the Macedonian dynasty. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Vergina is the site of Aigai, the ancient capital of the Macedonian kings.",
@@ -1540,7 +1540,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Marathon is a town in Attica, historically famous as the site of the Battle of Marathon in 490 BC. In this pivotal conflict, the heavily outnumbered Athenian army achieved a decisive victory over the invading Persian forces, effectively halting the first Persian invasion of Greece. The town is universally known for inspiring the modern marathon race, which commemorates the legendary run of the messenger Pheidippides, who reportedly ran from Marathon to Athens to announce the victory before collapsing. Visitors to the area can see the Tymbos, a large burial mound where the 192 fallen Athenians were interred. Today, the modern classic marathon begins here, maintaining the legacy of endurance and triumph associated with the site. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Battle of Marathon in 490 BC was a crucial victory for the Greeks over the Persians.",
@@ -1573,7 +1573,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Thermopylae, meaning 'Hot Gates,' is a narrow coastal pass in central Greece, universally famous for the Battle of Thermopylae in 480 BC. Here, a small Greek force led by King Leonidas of Sparta held off the massive Persian army of Xerxes I for three days, becoming an enduring symbol of courage and sacrifice against overwhelming odds. The name originates from its hot sulfur springs, which exist to this day. Although the coastline has advanced significantly due to sediment deposition over the centuries, rendering the pass much wider today, the site retains immense historical resonance. A prominent monument featuring a bronze statue of Leonidas stands at the site, inscribed with the famous phrase 'Molon labe' (Come and take them). History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Thermopylae translates to 'Hot Gates', named after its local hot sulfur springs.",
@@ -1606,7 +1606,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Salamis is the largest island in the Saronic Gulf, situated very close to the coast of Attica and the port of Piraeus. It is most historically significant for the Battle of Salamis in 480 BC, a monumental naval battle in which the allied Greek fleet decisively defeated the larger Persian armada led by King Xerxes. This victory is widely regarded by historians as one of the most significant battles in human history, as it saved Greece and Western civilization from Persian subjugation. Today, Salamis is heavily populated and serves largely as a maritime and industrial extension of the Piraeus port. The island features several historical sites, including the Cave of Euripides and the monastery of Faneromeni. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Salamis was the site of the decisive naval Battle of Salamis in 480 BC.",
@@ -1639,7 +1639,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mount Parnassus is a magnificent limestone mountain in central Greece that towers above Delphi, reaching an elevation of 2,457 meters. In Greek mythology, the mountain was sacred to Apollo and the Corycian nymphs, and it was considered the home of the Muses, making it the mythological home of music and poetry. Its slopes harbor the ancient sanctuary of Delphi, adding a profound historical and cultural dimension to its natural beauty. Today, Parnassus is a major recreational destination, featuring two of the largest and best-organized ski centers in Greece. The mountain is also a designated national park, protecting diverse flora and fauna, including the native Greek fir. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Mount Parnassus was sacred to Apollo and the Muses in Greek mythology.",
@@ -1672,7 +1672,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mount Taygetus is the highest mountain range in the Peloponnese peninsula, creating a formidable natural barrier between the regions of Laconia and Messenia. Its highest peak, Profitis Ilias, reaches 2,404 meters and is characterized by its striking pyramidal shape, which casts a distinctive shadow across the landscape at sunrise and sunset. In ancient times, the mountain was associated with the harsh physical training of Spartan youths. Taygetus is known for its rugged beauty, featuring deep gorges like the Viros Gorge, dense forests, and numerous traditional mountain villages. The mountain is a paradise for hikers and nature lovers, offering diverse ecosystems and challenging trekking routes. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Taygetus is the highest mountain range in the Peloponnese.",
@@ -1705,7 +1705,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mount Psiloritis, also known as Mount Ida, is the highest mountain on the island of Crete, standing at an impressive 2,456 meters. The mountain dominates the central part of the island and is deeply woven into Greek mythology as the legendary birthplace of Zeus, the king of the gods, who was purportedly hidden in the Ideon Cave to escape his father Cronus. The Psiloritis massif is recognized as a UNESCO Global Geopark due to its outstanding geological features, diverse flora, and endemic species. The mountain features diverse landscapes ranging from rocky alpine zones to fertile plateaus, such as the Nida Plateau. It offers an authentic glimpse into traditional Cretan pastoral life, as local shepherds still maintain their flocks on its slopes. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Psiloritis is the highest mountain on the island of Crete.",
@@ -1738,7 +1738,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Lake Trichonida is the largest natural lake in Greece, situated in the eastern part of the Aetolia-Acarnania regional unit. Despite its massive size, covering approximately 95 square kilometers, the lake remains relatively undisturbed by mass tourism, preserving its pristine natural beauty. Trichonida boasts a highly diverse ecosystem, hosting over 200 bird species and a variety of rare fish, making it a critical habitat for wildlife conservation. The lake's surroundings feature lush vegetation, citrus groves, and charming traditional villages, offering opportunities for eco-tourism and outdoor activities like rowing and birdwatching. Its serene waters and rich biodiversity make Lake Trichonida a vital yet often overlooked ecological treasure of western Greece. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Lake Trichonida is the largest natural lake in Greece.",
@@ -1771,7 +1771,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Lake Kerkini is an artificial reservoir in Central Macedonia, created in 1932 by damming the Strymon River, which has since evolved into one of Europe's premier wetlands. The lake and its surrounding wetlands are protected under the Ramsar Convention due to their incredible ecological significance. It serves as a crucial stopover and breeding ground for hundreds of bird species, most notably the Dalmatian pelican and greater flamingo. Visitors flock to Kerkini for eco-tourism, enjoying boat tours, birdwatching, and photography. The lake is also unique for its population of water buffalo, which graze in the shallow waters and are a staple of the local agricultural economy. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Lake Kerkini is an artificial reservoir that became a vital wetland ecosystem.",
@@ -1804,7 +1804,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Axios River, also known as the Vardar, is one of the longest and most significant rivers in the Balkan Peninsula, originating in North Macedonia and flowing into the Aegean Sea in Greece. In its Greek section, the river creates an expansive and ecologically vital delta west of Thessaloniki, which is part of the Axios-Loudias-Aliakmonas National Park. This delta is a massive wetland complex that supports diverse wildlife, particularly providing a haven for migratory birds and wild horses. The river has historically served as a major trade and migration route connecting the central Balkans with the Aegean. The preservation of the Axios delta is critical for maintaining regional biodiversity and protecting the coastal ecosystem. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Axios River is the longest river in North Macedonia and a major river in Greece.",
@@ -1837,7 +1837,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Evros River, known as the Maritsa in Bulgaria and Meriç in Turkey, is the longest river that runs solely within the interior of the Balkan Peninsula. In its lower course, it forms the natural border between Greece and Turkey before emptying into the Thracian Sea. The Evros Delta is an internationally significant wetland, serving as a critical sanctuary for wildlife, including thousands of wintering waterfowl and rare bird species like the flamingo and the sea eagle. Historically, the river has been a significant geographic and political boundary, serving as a vital waterway for trade. Today, the delta is a protected area focusing on conservation and eco-tourism, allowing visitors to experience its unique biodiversity. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Evros River forms the natural land border between Greece and Turkey.",
@@ -1870,7 +1870,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Corfu is a prominent Greek island in the Ionian Sea, distinguished by its lush, green landscapes and rich multicultural heritage. Its strategic location historically made it a prime target for various empires, leading to a unique cultural blend reflecting Venetian, French, and British influences. The Old Town of Corfu, a UNESCO World Heritage site, is renowned for its well-preserved Venetian architecture, narrow cobblestone streets (kantounia), and impressive fortresses. Unlike much of Greece, Corfu was never conquered by the Ottoman Empire, which allowed its distinct European character to flourish. Today, the island is a major tourist destination, offering pristine beaches, elegant palaces like the Achilleion, and a vibrant cultural life. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Corfu's Old Town is a UNESCO World Heritage site known for its Venetian architecture.",
@@ -1903,7 +1903,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Acropolis Museum is a world-class archaeological museum located in Athens, dedicated exclusively to the artifacts found on and around the Acropolis. Opened in 2009, the museum's striking modern design, featuring extensive use of glass, provides panoramic views of the Parthenon while showcasing the ancient treasures in natural light. The museum is built over an extensive archaeological excavation, which is visible through massive glass floors on the ground level. Its crowning feature is the top-floor Parthenon Gallery, which displays the surviving friezes and pediment sculptures in the exact orientation and dimensions of the original temple. The museum also symbolically leaves space for the return of the Elgin Marbles, currently held in the British Museum. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The museum was opened to the public in 2009, replacing the older museum on the Acropolis hill.",
@@ -1936,7 +1936,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The National Archaeological Museum in Athens is the largest archaeological museum in Greece and one of the most important in the world devoted to ancient Greek art. Founded at the end of the 19th century to house and protect antiquities from all over Greece, its vast collection spans from prehistory to late antiquity. Housed in a grand neoclassical building designed by architects Ludwig Lange and Ernst Ziller, the museum's exhibits are organized chronologically and thematically. Visitors can marvel at iconic masterpieces such as the Mask of Agamemnon, the Antikythera mechanism (the world's oldest analog computer), and the bronze statue of Poseidon or Zeus of Artemision. The museum provides an unparalleled, comprehensive narrative of the evolution of Greek civilization over millennia. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The museum is the largest archaeological museum in Greece.",
@@ -1969,7 +1969,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Benaki Museum, established by Antonis Benakis in 1930 in memory of his father Emmanuel Benakis, is housed in the Benakis family mansion in downtown Athens. It is unique among Greek museums because its collections illustrate the entire panorama of Greek culture from prehistoric times to the 20th century. The museum features an extraordinary array of artifacts, including ancient Greek art, Byzantine icons, post-Byzantine and Neo-Hellenic crafts, and historical heirlooms from the Greek War of Independence. By seamlessly weaving together different epochs, the Benaki Museum offers a holistic view of the Greek historical continuum and its cultural identity. The institution has also expanded to several satellite locations across Athens, each focusing on specific themes such as Islamic art and contemporary Greek culture. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Benaki Museum was founded in 1930 by Antonis Benakis.",
@@ -2002,7 +2002,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Stavros Niarchos Foundation Cultural Center (SNFCC) is a modern architectural masterpiece in Athens, designed by the world-renowned architect Renzo Piano. Completed in 2016, this multifunctional public space houses the new facilities of the National Library of Greece and the Greek National Opera, alongside a sprawling 21-hectare public park. The SNFCC is celebrated for its commitment to sustainability, featuring a massive, energy-producing canopy known as the 'Energy Canopy' that floats above the opera house and library. The park offers extensive green spaces, a large artificial canal, and diverse Mediterranean flora, serving as an urban oasis for Athenians and visitors alike. It represents a monumental philanthropic gift to the Greek state, symbolizing a hopeful and forward-looking modern Greece. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The SNFCC was designed by the acclaimed Italian architect Renzo Piano.",
@@ -2035,7 +2035,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Panathenaic Stadium, also known locally as the Kallimarmaro (meaning 'beautiful marble'), is a historic stadium in Athens and the only stadium in the world built entirely of marble. Originally a natural ravine, it was transformed into a monumental stadium by the Athenian statesman Lykourgos in 330 BC to host the athletic competitions of the Panathenaic Games. After centuries of disuse and ruin, it was completely reconstructed in white Pentelic marble to host the first modern Olympic Games in 1896. With its classic U-shape design, the stadium can accommodate tens of thousands of spectators and remains a potent symbol of the Olympic spirit. Today, it serves as the traditional finishing point for the annual Athens Classic Marathon and the venue for the Olympic flame handover ceremony. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "It is the only stadium in the world constructed entirely of marble.",
@@ -2068,7 +2068,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Hellenic Parliament building is an imposing neoclassical structure overlooking Syntagma Square, the central hub of modern Athens. Originally constructed between 1836 and 1843 as the Royal Palace for King Otto, the first modern King of Greece, it was repurposed to house the national parliament in 1934. The building's austere, monumental facade reflects its intended regal grandeur, designed by Bavarian architect Friedrich von Gärtner. In front of the Parliament lies the Tomb of the Unknown Soldier, a monument dedicated to all fallen Greek soldiers, which is continuously guarded by the elite Evzones presidential guard. The hourly changing of the guard ceremony, characterized by the Evzones' distinctive traditional uniforms and synchronized movements, is a major cultural attraction. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The building originally served as the Royal Palace for King Otto, the first King of modern Greece.",
@@ -2101,7 +2101,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Temple of Poseidon is a majestic ancient Greek temple perched on the edge of Cape Sounion, a rugged promontory at the southernmost tip of the Attica peninsula. Built in the mid-5th century BC during the Golden Age of Pericles, the temple was dedicated to Poseidon, the god of the sea, serving as a beacon of comfort for sailors navigating the treacherous Aegean waters. The remaining Doric columns, made of local white marble, stand in stark contrast against the deep blue backdrop of the sea and sky, creating one of the most recognizable and dramatic vistas in Greece. The site is deeply intertwined with Greek mythology; it is famously known as the place where King Aegeus leaped to his death, giving his name to the Aegean Sea. The sunset viewed from the temple ruins is considered one of the most beautiful in the Mediterranean. History K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The temple was built around 444–440 BC during the 'Golden Age' of Athens.",
@@ -2134,7 +2134,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Corinth Canal is a remarkable engineering feat that connects the Gulf of Corinth in the Ionian Sea with the Saronic Gulf in the Aegean Sea. By cutting through the narrow Isthmus of Corinth, the canal effectively separates the Peloponnese peninsula from the Greek mainland, arguably turning it into an island. Although the idea of a canal was proposed in antiquity by rulers like Periander and the Roman Emperor Nero, it was not successfully completed until 1893. The canal is relatively narrow, measuring just 21.4 meters wide at its base, with sheer limestone walls rising nearly 90 meters above the water surface. While it is too narrow for modern ocean freighters, it remains a vital passage for smaller ships and a major tourist attraction due to its dramatic, precipitous profile. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Corinth Canal is 6.4 kilometers (4 miles) in length.",
@@ -2167,7 +2167,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Port of Piraeus is the largest seaport in Greece and one of the most significant and bustling ports in the Mediterranean and Europe. Located just southwest of Athens, Piraeus has served as the port city for the Greek capital since antiquity, when it was fortified by Themistocles in the 5th century BC to house the Athenian fleet. Today, it is a massive, multi-faceted complex comprising a massive passenger port—which handles millions of tourists traveling to the Aegean islands annually—and a colossal commercial container terminal that acts as a primary gateway for goods entering Europe from Asia. The modern port city also boasts a rich maritime history, reflected in its Naval Museum and the picturesque marinas of Zea and Mikrolimano. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Piraeus is the largest passenger port in Europe, serving millions of passengers annually.",
@@ -2200,7 +2200,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Port of Thessaloniki is the second-largest commercial port in Greece and the most important seaport for the broader region of Northern Greece and the Balkans. Thanks to its highly strategic location at the head of the Thermaic Gulf, it serves as a critical maritime gateway for international trade connecting the Mediterranean with Eastern Europe and the Black Sea region. Originally established in antiquity, the port has evolved continuously, expanding its infrastructure to handle large container ships, dry bulk cargo, and a growing number of cruise liners. In recent years, parts of the old port area have been successfully redeveloped into vibrant cultural spaces, hosting museums, art exhibitions, and the renowned Thessaloniki International Film Festival. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "It is the largest transit trade port in Greece for the Balkan Peninsula.",
@@ -2233,7 +2233,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Port of Heraklion is the primary seaport of the island of Crete and a crucial hub for passenger and freight transportation in the southern Aegean Sea. The port complex consists of an old Venetian harbor, guarded by the imposing 16th-century Koules Fortress, and a modern commercial and passenger terminal. It is a vital artery for Crete's economy, handling the export of local agricultural products like olive oil and facilitating the massive influx of tourists visiting the island's renowned archaeological sites. The modern facilities accommodate large ferries connecting Crete with the Greek mainland (Piraeus) and numerous cruise ships that bring international travelers eager to explore the nearby Palace of Knossos and the island's spectacular beaches. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Heraklion is the busiest port on the island of Crete.",
@@ -2266,7 +2266,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Port of Patras is a major maritime transport hub located in the northwestern Peloponnese, serving as Greece's primary western gateway to Europe. Due to its geographical proximity to the Italian peninsula, Patras is the principal port for passenger ferries and roll-on/roll-off (Ro-Ro) cargo connecting Greece with Italian ports such as Ancona, Bari, and Brindisi. The port has played a pivotal historical role in facilitating trade, cultural exchange, and migration between Greece and Western Europe. Recently, the port operations have shifted to a modern, expansive facility south of the city center, significantly improving logistics and reducing urban congestion while accommodating larger vessels. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Port of Patras is often referred to as Greece's 'Gate to the West'.",
@@ -2299,7 +2299,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Nemea Vineyards, situated in a fertile valley in the northeastern Peloponnese, constitute the largest and most prestigious wine-producing zone in Greece. This region has a viticultural history that stretches back millennia, deeply intertwined with the mythology of Heracles (Hercules) and the Nemean Lion. The local climate and unique terroir are ideally suited for the cultivation of 'Agiorgitiko,' a versatile and highly prized indigenous red grape variety often referred to as the 'Blood of Hercules.' The Nemea Appellation produces a wide range of red wines, from fresh and fruity to deeply complex, age-worthy vintages. The area's rolling hills are dotted with modern and traditional wineries that form the heart of the Peloponnesian 'Wine Roads,' attracting oenophiles from around the globe. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Nemea is the largest Protected Designation of Origin (PDO) for red wine in Greece.",
@@ -2332,7 +2332,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Lavrio, a coastal town in southeastern Attica, holds immense historical significance as one of the oldest and most vital mining centers of the ancient world. The exploitation of the rich silver and lead mines in the Lavrion area financed the massive fleet of triremes that secured the Athenian victory at the Battle of Salamis in 480 BC, and subsequently funded the architectural marvels of the Athenian Golden Age, including the Parthenon. After lying dormant for centuries, the mines were reactivated in the late 19th century by French and Greek companies, sparking a brief industrial renaissance in the town. Today, Lavrio seamlessly blends its industrial heritage, visible in the abandoned mining facilities and the impressive Technological Cultural Park, with a modern marina serving sailboats and ferries heading to the Cyclades. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The ancient silver mines of Lavrio financed the Golden Age of Athens.",
@@ -2365,7 +2365,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Nafplio, nestled on the shores of the Argolic Gulf in the Peloponnese, is widely considered one of the most romantic and beautiful towns in Greece. It holds immense historical prestige as the first capital of the newly born Greek State from 1823 to 1834, following the Greek War of Independence. The town is an architectural gem, featuring a labyrinth of narrow streets, neoclassical mansions, elegant squares, and flower-draped balconies that reflect a strong Venetian and neoclassical influence. Nafplio is guarded by two imposing fortresses: the towering Palamidi, accessible via 999 steps, and the Akronafplia. Additionally, the picturesque Bourtzi castle sits on a tiny islet in the harbor, creating an iconic defensive landscape that underscores the town's tumultuous and strategic past. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Nafplio was the first capital of modern Greece after the War of Independence.",
@@ -2398,7 +2398,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Sparta, located in the fertile Evrotas River valley in the Laconia region of the Peloponnese, is a modern city built over the legendary ancient city-state of the same name. In antiquity, Sparta was a formidable military power, famous for its austere lifestyle, rigorous military training (the agoge), and unparalleled phalanx warriors who famously fought at Thermopylae. Unlike Athens, ancient Sparta did not build monumental temples or massive walls, relying instead on the prowess of its soldiers for defense. The modern city, established by decree of King Otto in 1834, features wide boulevards, neoclassical buildings, and a serene atmosphere, with Mount Taygetus providing a dramatic backdrop. Visitors can explore the ruins of the ancient acropolis, the theater, and the distinctive Sanctuary of Artemis Orthia. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Ancient Sparta was renowned for its highly disciplined and powerful military.",
@@ -2431,7 +2431,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Nafpaktos, known historically as Lepanto, is a picturesque coastal town situated on the northern shores of the Corinthian Gulf in western Greece. The town is universally famous for the Battle of Lepanto in 1571, a massive naval engagement where the Holy League defeated the Ottoman Empire fleet, marking a turning point in Mediterranean naval history. Today, the town's most striking feature is its incredibly well-preserved medieval Venetian harbor, completely enclosed by stone walls and fortifications that extend up the hill to a magnificent castle. This castle is one of the largest and best-preserved in Greece, offering breathtaking views of the gulf and the modern Rio-Antirrio bridge. Nafpaktos combines its dense historical legacy with a lively waterfront and beautiful pebble beaches. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Nafpaktos is famous for the historic naval Battle of Lepanto fought nearby in 1571.",
@@ -2464,7 +2464,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Arta is a historic city located in the Epirus region of northwestern Greece, renowned for its rich Byzantine heritage and stunning medieval architecture. The city was once the prosperous capital of the Despotate of Epirus in the 13th century, a period that left behind spectacular monuments such as the Church of Panagia Parigoritissa, famous for its magnificent floating dome and mosaics. Arta's most iconic landmark, however, is the legendary Bridge of Arta, a 17th-century stone bridge crossing the Arachthos River, which is the subject of a famous tragic folk ballad about its construction. The city also features a well-preserved 13th-century Byzantine castle built upon ancient foundations. Today, Arta is an agricultural center surrounded by lush citrus groves, blending its profound historical narrative with vibrant modern life. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Arta served as the capital of the Byzantine Despotate of Epirus in the 13th century.",
@@ -2497,7 +2497,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Kozani is a lively city located in the mountainous region of Western Macedonia, Greece, situated at an altitude of 710 meters. The city has historically been a major center of commerce and culture in northern Greece, flourishing during the 17th and 18th centuries, which is evident in the impressive preserved mansions of the old town. Kozani is deeply intertwined with energy production, as the surrounding region has extensive lignite (brown coal) mines that historically fueled Greece's main power plants. Beyond its industrial significance, the city is culturally vibrant, famous for its extravagant pre-Lenten carnival traditions, the 'Fanoi,' where locals light large bonfires and sing satirical songs. It also houses the Koventareios Municipal Library, one of the most important and historic libraries in Greece. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Kozani is traditionally the energy-producing capital of Greece due to nearby lignite mines.",
@@ -2530,7 +2530,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Kastoria is a visually stunning city in Western Macedonia, built on a peninsula extending into the serene Lake Orestiada. The city's landscape is defined by the tranquil waters of the lake and the dramatic backdrop of the surrounding mountains. Kastoria is internationally renowned as a historic center for the fur and leather trade, a craft that has sustained the local economy since the Byzantine era. The city's wealth is reflected in its exceptional architecture, featuring dozens of stately 18th and 19th-century mansions (archontika) and over 70 beautifully preserved Byzantine and post-Byzantine churches scattered throughout the old neighborhoods. The lake itself is a critical ecosystem, hosting diverse birdlife, while the nearby Dispilio settlement reveals fascinating Neolithic lakeside dwellings. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Kastoria is situated on a peninsula extending into Lake Orestiada.",
@@ -2563,7 +2563,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Florina is a scenic, mountainous city in the region of Western Macedonia, located near the borders with North Macedonia and Albania. Situated at an elevation of nearly 700 meters, it experiences some of the coldest winters in Greece, often covered in thick snow that gives the city a distinct, alpine charm. The Sakoulevas River runs directly through the city center, lined by beautifully preserved neoclassical buildings, art deco mansions, and traditional cafes. Florina has a strong artistic tradition and serves as a popular gateway for winter tourism, offering easy access to the Vigla-Pisoderi ski resort and the stunning Prespa Lakes National Park. The city's unique cinematic atmosphere has made it a favorite filming location for renowned Greek director Theo Angelopoulos. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Florina experiences some of the lowest winter temperatures in Greece.",
@@ -2596,7 +2596,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Veria, also historically known as Beroea, is a vibrant city situated on the eastern foothills of the Vermio Mountains in Central Macedonia. The city boasts an exceptionally rich historical legacy, stretching from antiquity through the Roman, Byzantine, and Ottoman periods. It is prominent in Christian history as a place where the Apostle Paul preached successfully, a site now commemorated by the 'Altar of St. Paul.' Veria is often referred to as 'Little Jerusalem' due to its astonishing concentration of Byzantine and post-Byzantine churches—nearly 50 in total—many hidden behind unassuming facades but containing magnificent frescoes. The city's traditional neighborhoods, Barbouta (the old Jewish quarter) and Kyriotissa, are beautifully preserved examples of vernacular Balkan architecture. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Apostle Paul visited Veria and preached there, commemorated at the 'Altar of St. Paul'.",
@@ -2629,7 +2629,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Edessa, the capital of the Pella regional unit in Central Macedonia, is universally known throughout Greece as the 'City of Water.' The city is uniquely built on the edge of a high plateau, and its defining feature is the spectacular Edessa Waterfalls, the largest in Greece, where the Edessaios River plunges dramatically 70 meters into the valley below. The area surrounding the waterfalls is a lush, landscaped park offering panoramic views over the Macedonian plains. Historically, the power of the water was harnessed to drive numerous textile and water mills, creating a thriving industrial center in the 19th and early 20th centuries. Visitors today can explore the Open-Air Water Museum to understand this industrial past and wander through Varosi, the picturesque old Christian neighborhood. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Edessa is famous for its massive waterfalls, the largest in Greece.",
@@ -2662,7 +2662,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Xanthi is a culturally diverse and enchanting city in the Thrace region of northeastern Greece, nestled at the foot of the Rhodope Mountains. The city is celebrated for its remarkably well-preserved Old Town, a labyrinth of cobbled streets lined with grand, vividly colored mansions built by wealthy tobacco merchants in the 19th century, reflecting a unique blend of local, Ottoman, and neoclassical architectural styles. Xanthi is widely known as the 'City of a Thousand Colors' due to its multicultural population, vibrant atmosphere, and rich traditions. The city hosts the famous Xanthi Carnival, the largest such celebration in northern Greece, as well as the renowned Old Town Festival in the autumn. It serves as an excellent base for exploring the pristine natural environment of the Nestos River valley. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Xanthi's Old Town is famous for its elaborate mansions built from 19th-century tobacco wealth.",
@@ -2695,7 +2695,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Komotini is the vibrant administrative center of the East Macedonia and Thrace region, located in northeastern Greece. The city is distinguished by its profoundly multicultural character, where Christian and Muslim populations have coexisted for centuries, creating a fascinating blend of cultures, architectures, and traditions. The cityscape features modern buildings alongside traditional Ottoman-era monuments, such as the Yeni Mosque, the Eski Mosque, and the historic Imaret. Komotini is a lively university town, home to the Democritus University of Thrace, which infuses the city with a dynamic, youthful energy. Visitors are drawn to the local markets, where they can experience the unique local cuisine, famous for traditional sweets like soutzouk loukoum and freshly roasted chickpeas. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Komotini is known for its strong multicultural character and significant Muslim minority.",
@@ -2728,7 +2728,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Alexandroupoli is a vibrant coastal city and a major transportation hub located in the Thrace region, serving as Greece's easternmost major seaport near the border with Turkey. The city's defining landmark is its towering, operational 19th-century lighthouse, which stands prominently on the coastal promenade and symbolizes the city's maritime heritage. Alexandroupoli is relatively modern compared to other Greek cities, meticulously planned with wide avenues and a bustling commercial center. It acts as the primary gateway to the magnificent Evros Delta National Park, a vital wetland for migratory birds, and the ancient Dadia Forest, famous for its birds of prey. The city seamlessly combines its strategic geopolitical importance with excellent tourist infrastructure and beautiful nearby beaches. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The city's iconic landmark is a 27-meter-tall lighthouse built in 1880.",
@@ -2761,7 +2761,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Rethymno is a remarkably picturesque city located on the northern coast of Crete, positioned between the larger cities of Chania and Heraklion. It is renowned for its extraordinarily well-preserved historic center, which presents a fascinating architectural fusion of Venetian and Ottoman elements. The narrow, maze-like streets of the Old Town are filled with elegant Venetian palazzi, gracefully carved stone doorways, ornate public fountains like the Rimondi Fountain, and Ottoman minarets. Above the town dominates the Fortezza, a massive, star-shaped 16th-century Venetian citadel built to protect the city from pirate attacks. Beyond its rich history, Rethymno is a vibrant university city with a lively waterfront, a long, sandy urban beach, and a renowned summer cultural festival. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Rethymno features one of the best-preserved Venetian old towns in Greece.",
@@ -2794,7 +2794,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Ierapetra, situated on the southeastern coast of Crete, proudly holds the title of the southernmost town in Europe. Due to its unique geographic position, it enjoys an exceptionally mild and sunny climate, making it a highly productive agricultural center, particularly known for its extensive greenhouse cultivation of early vegetables. The town boasts a long history dating back to the Minoan era, and its strategic location made it a thriving Roman port and later a pirate stronghold. Visitors can explore the charming old quarter of Kato Mera, which features the formidable Kales Fortress, built by the Venetians, and a historic house where Napoleon Bonaparte reputedly stayed. Ierapetra is also the departure point for boats visiting the spectacular, uninhabited island of Chrissi. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Ierapetra is the southernmost town in Greece and Europe.",
@@ -2827,7 +2827,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Sitia is a tranquil and deeply traditional coastal town located in the far eastern part of Crete, offering a more relaxed alternative to the island's bustling tourist hubs. The town is built amphitheatrically around a scenic bay, characterized by whitewashed houses, a lively waterfront promenade lined with tavernas, and a welcoming, authentic atmosphere. Overlooking the town is the Kazarma, a medieval Venetian fortress that now serves as a venue for summer cultural events. Sitia is the hometown of Vitsentzos Kornaros, the famous 17th-century poet who wrote the epic romance 'Erotokritos.' The surrounding Sitia Geopark is a UNESCO-recognized site, featuring rugged gorges, pristine beaches like the famous Vai palm forest, and significant Minoan archaeological sites. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Sitia is the easternmost major town on the island of Crete.",
@@ -2860,7 +2860,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Palamidi Fortress is a spectacular, massive military fortification situated on a towering 216-meter high hill overlooking the city of Nafplio in the Peloponnese. Built by the Venetians during their second occupation of the area in the early 18th century, it is considered one of the most brilliant achievements of Venetian military architecture. The complex consists of eight mutually supporting bastions, designed to be impregnable. Despite its formidable defenses, it was captured by the Ottoman Turks in 1715, and later played a crucial role in the Greek War of Independence when Greek forces seized it in 1822. Today, visitors can access the fortress either by driving or by climbing the famous stairway of 999 steps, being rewarded with breathtaking panoramic views of the Argolic Gulf. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The fortress was built by the Venetians between 1711 and 1714.",
@@ -2893,7 +2893,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Nafpaktos Castle is a magnificent and sprawling fortification that dominates the town of Nafpaktos, extending from the hilltop down to enclose the historic harbor. Built primarily by the Venetians on the foundations of ancient and Byzantine walls, it is one of the most beautiful and well-preserved castles in Greece. The fortification features five defensive tiers (or enclosures) designed to protect the town and its vital port from land and sea attacks. The castle's strategic position overlooking the narrowest point of the Corinthian Gulf made it a highly prized stronghold throughout history, changing hands between Venetians, Ottomans, and Greeks. A walk through the pine-forested castle grounds offers a journey through centuries of military architecture and provides stunning views over the town and the Rio-Antirrio bridge. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The castle's fortifications stretch from the hilltop down to completely encircle the harbor.",
@@ -2926,7 +2926,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Museum of Byzantine Culture in Thessaloniki is a premier institution dedicated to preserving, researching, and showcasing the art and culture of the Byzantine and post-Byzantine eras. Opened in 1994, the museum is housed in a widely acclaimed modern building designed by architect Kyriakos Krokos, which perfectly balances contemporary aesthetics with reverence for its historical contents. The extensive exhibits feature over 3,000 artifacts, including stunning mosaics, intricate icons, jewelry, and architectural fragments, primarily sourced from Thessaloniki and the broader region of Macedonia. The museum's narrative brilliantly illustrates daily life, religious practices, burial customs, and the eventual decline of the Byzantine Empire, cementing Thessaloniki's status as the 'co-reigning' city of the empire alongside Constantinople. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The museum was awarded the Council of Europe Museum Prize in 2005.",
@@ -2959,7 +2959,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Church of Agios Dimitrios (Saint Demetrius) is the most important sanctuary in Thessaloniki, dedicated to the city's patron saint and protector. Originally constructed in the early 4th century over the Roman bath where Demetrius, a Roman officer, was martyred, the current impressive five-aisled basilica dates largely from the 7th century. The church features remarkable early Byzantine mosaics that uniquely depict the saint interacting with children and city officials, rather than traditional biblical scenes. Below the church lies the crypt, the exact site of the saint's martyrdom, which now serves as a fascinating museum. After being destroyed in the Great Fire of 1917, the church was meticulously restored and is recognized as a UNESCO World Heritage site. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The church is dedicated to Saint Demetrius, the patron saint of Thessaloniki.",
@@ -2992,7 +2992,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Rotunda of Thessaloniki is a massive, cylindrical structure that stands as one of the city's oldest and most impressive monuments. Built in 306 AD by the Roman Emperor Galerius, it was originally intended to be his mausoleum or a temple dedicated to Zeus. Characterized by its monumental scale, with walls more than 6 meters thick and a vast brick dome, the building has undergone profound transformations reflecting the city's history. In the 4th century, it was converted into a Christian church and decorated with spectacular, high-quality mosaics depicting early Christian martyrs. During the Ottoman era, it functioned as a mosque, and a surviving minaret still stands beside it. Today, this UNESCO World Heritage site operates as a museum and occasionally hosts religious and cultural events. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Rotunda was built by Roman Emperor Galerius around 306 AD.",
@@ -3025,7 +3025,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Heraklion Archaeological Museum in Crete is globally recognized as the preeminent museum for Minoan art and culture. It houses an unparalleled, exhaustive collection of artifacts unearthed from all the major Minoan palatial sites on the island, including Knossos, Phaistos, and Malia. The museum's chronologically arranged exhibits allow visitors to trace the evolution of Europe's first advanced civilization across more than 5,000 years, from the Neolithic period to the Roman era. Masterpieces on display include the enigmatic Phaistos Disc, the exquisite fresco of the 'Prince of the Lilies,' and the mesmerizing Snake Goddess statuettes. The recently renovated museum utilizes state-of-the-art displays to vividly resurrect the sophisticated artistry, religion, and daily life of the ancient Minoans. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "It holds the largest and most significant collection of Minoan antiquities in the world.",
@@ -3058,7 +3058,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Archaeological Museum of Olympia is one of the most important museums in Greece, dedicated to showcasing the spectacular finds from the sanctuary of Zeus at Olympia, the birthplace of the ancient Olympic Games. The museum's crown jewels are the magnificent sculptural ornaments from the Temple of Zeus, particularly the pediments depicting the chariot race between Pelops and Oenomaus, and the battle between Centaurs and Lapiths, which are masterpieces of the Severe classical style. Another universally recognized treasure is the statue of Hermes holding the infant Dionysus, sculpted by Praxiteles, famed for its perfect proportions and polished marble. The museum also contains the largest collection of ancient Greek bronze artifacts in the world, including armor, tripods, and offerings to the gods. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The museum houses the surviving architectural sculptures from the colossal Temple of Zeus.",
@@ -3091,7 +3091,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Monastery of Panagia Kera, located near the village of Kritsa in eastern Crete, is one of the island's most celebrated Byzantine monuments. It is particularly renowned for its extraordinarily vibrant and well-preserved frescoes, which are considered some of the finest examples of Byzantine art in Crete. The church's unique architecture consists of a central nave dedicated to the Assumption of the Virgin Mary, and two side aisles added later, dedicated to Saint Anna and Saint Anthony. The 13th and 14th-century frescoes cover almost every inch of the interior, vividly illustrating biblical scenes, the life of the Virgin Mary, and various saints. The monument stands as a powerful testament to the flourishing of Orthodox Christian art during the Venetian occupation of Crete. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The church is famous for containing the best-preserved Byzantine frescoes in Crete.",
@@ -3124,7 +3124,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Mount Parnitha is the tallest and most extensive mountain range closely surrounding Athens, forming a massive, densely forested natural barrier to the north of the Greek capital. Reaching an elevation of 1,413 meters, it is designated as a National Park, serving as a vital 'green lung' and recreational escape for the city's millions of residents. The mountain boasts exceptional biodiversity, being home to an isolated population of red deer, numerous bird species, and diverse flora, including dense fir and pine forests. Parnitha is heavily crisscrossed with hiking and mountain biking trails, and hosts several mountain refuges. Despite suffering severe damage from a catastrophic wildfire in 2007, extensive ongoing reforestation efforts have helped the mountain slowly recover its natural splendor. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Mount Parnitha is the highest mountain in the immediate vicinity of Athens.",
@@ -3157,7 +3157,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Prespa Lakes are two spectacular, high-altitude freshwater lakes, Great Prespa and Small Prespa, located in the mountainous tri-border area shared by Greece, Albania, and North Macedonia. This region is a designated transboundary park and is considered one of the most important wetland ecosystems in Europe, highly prized for its astonishing biodiversity and pristine natural beauty. Small Prespa Lake, largely within Greek territory, is particularly famous as the world's largest breeding colony for the rare Dalmatian pelican. The surrounding landscape features traditional stone villages, abandoned Byzantine hermitages carved into cliff faces, and a tranquil atmosphere untouched by mass tourism. The Prespa region stands as a shining example of international environmental cooperation and eco-tourism. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Prespa Lakes are shared between Greece, Albania, and North Macedonia.",
@@ -3190,7 +3190,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Aliakmonas River is the longest river located entirely within the borders of Greece, flowing for approximately 297 kilometers through the regions of West and Central Macedonia. Originating in the Grammos mountains near the Albanian border, it carves through deep gorges and creates fertile valleys before emptying into the Thermaic Gulf, south of Thessaloniki. The river has been extensively dammed to create massive artificial lakes, such as Lake Polyfytos, which provide crucial hydroelectric power and irrigation for the region's agriculture. The Aliakmonas forms a critical part of the vast Axios-Loudias-Aliakmonas delta ecosystem, a protected wetland vital for migratory bird species. The river's majestic, winding path through northern Greece offers stunning landscapes and essential ecological habitats. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Aliakmonas is the longest river that flows entirely within Greek territory.",
@@ -3223,7 +3223,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Elafonisos is a tiny, incredibly picturesque island located just off the southeastern tip of the Peloponnese peninsula. Measuring only 19 square kilometers, the island is world-renowned for its pristine, exotic beaches with fine white sand and spectacular turquoise waters. The most famous of these is Simos Beach, characterized by its twin bays and the backdrop of rare, towering sand dunes covered with sea cedars. Elafonisos is essentially a traditional fishing community; its main village features a picturesque harbor filled with colorful wooden fishing boats (kaikia) and excellent seafood tavernas. The island offers a tranquil, unspoiled escape, embodying the quintessential relaxed atmosphere of the Greek summer. Geography K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Elafonisos is famous for Simos Beach, often ranked among the best beaches in the Mediterranean.",
@@ -3256,7 +3256,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Dadia Forest, officially the Dadia-Lefkimi-Soufli Forest National Park, is a spectacularly diverse ecological reserve situated in the Evros region of northeastern Greece. It is internationally renowned as one of the most important habitats for birds of prey in Europe. Due to its unique geographical position at the crossroads of Europe and Asia, and its varied topography ranging from dense pine forests to open rocky terrain, it supports an incredible variety of flora and fauna. The forest is most famous for hosting 36 of the 38 diurnal bird of prey species found in Europe, including the only breeding population of the Eurasian black vulture in the Balkans. Visitors can observe these majestic birds safely from specialized viewing observatories, making the park a premier destination for eco-tourism and wildlife photography. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Dadia Forest is recognized globally as a sanctuary for diverse birds of prey.",
@@ -3289,7 +3289,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The White Mountains, or Lefka Ori, are a vast and rugged limestone mountain range that dominates the western part of Crete, particularly the Chania region. The range gets its name from the snow that covers its high peaks late into the spring, and from the bleached limestone that reflects the sun brilliantly during the summer. The massif features over 50 peaks exceeding 2,000 meters, with the highest, Pachnes, standing at 2,453 meters. The White Mountains are famously cut by numerous deep, spectacular gorges, the most renowned being the Samaria Gorge, which attracts thousands of hikers annually. The harsh, rocky terrain in the high altitudes, often referred to as a 'moonscape,' provides a stark contrast to the lush plateaus and is a refuge for unique Cretan flora and fauna. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The White Mountains feature over 50 peaks that rise above 2,000 meters.",
@@ -3322,7 +3322,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Lake Kournas is the only natural freshwater lake on the island of Crete, nestled in a picturesque valley surrounded by the towering slopes of the White Mountains. Located just a short distance from the northern coast between Chania and Rethymno, the lake offers a serene and lush environment that sharply contrasts with the island's typical dry summer landscape. The lake is fed by underground springs coming from the mountains, and its water levels fluctuate significantly with the changing seasons. It serves as an important, protected wetland habitat for diverse wildlife, including eels, freshwater turtles, and rare bicolored terrapins. Visitors flock to the lake to rent pedal boats, swim in its crystal-clear waters, and dine at the traditional tavernas along its shores. Geography K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Lake Kournas is Crete's only natural freshwater lake.",
@@ -3355,7 +3355,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Keritis River is a significant waterway located in the Chania regional unit of western Crete, flowing through a lush, verdant valley known for its rich agricultural output. The river originates from the northern slopes of the White Mountains and eventually empties into the sea near the coastal village of Platanias. Historically, the river valley was a crucial breadbasket for the region, heavily cultivated with vast citrus groves, avocado orchards, and olive trees that thrive in the fertile soil and abundant water supply. A defining historic landmark over the river was the historic Keritis Bridge, a beautiful three-arch stone bridge built in 1908, which sadly collapsed during severe floods in 2019 but remains a symbol of the area's heritage. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Keritis River originates in the White Mountains and flows into the Aegean Sea.",
@@ -3388,7 +3388,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Naoussa, located in the Vermio Mountains of Central Macedonia, is one of Greece's most esteemed and historic wine-producing regions. The area is celebrated worldwide for cultivating 'Xinomavro', a noble, indigenous red grape variety that produces robust, highly structured, and age-worthy wines often compared to the Italian Nebbiolo. The unique microclimate of the region, characterized by cool mountain breezes and significant diurnal temperature variations, contributes perfectly to the slow ripening and complexity of the grapes. The Naoussa wine route offers visitors a chance to explore numerous family-owned and modern estates, combining wine tasting with the region's rich local gastronomy and stunning mountainous scenery. The deep, ruby-red wines of Naoussa are a cornerstone of modern Greek viticulture. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Naoussa was officially recognized as a Protected Designation of Origin (PDO) for wine in 1971.",
@@ -3421,7 +3421,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The island of Samos, situated in the eastern Aegean Sea, boasts a viticultural history that stretches back to antiquity, famously praised by writers like Hippocrates and Galen. The island is globally recognized for its exceptional sweet dessert wines produced almost exclusively from the 'Muscat Blanc à Petits Grains' grape variety. The unique terroir of Samos features steep, terraced vineyards built on the slopes of Mount Ambelos, reaching altitudes up to 900 meters, which forces the vines to struggle and produce highly concentrated, aromatic grapes. The traditional, labor-intensive cultivation on these narrow stone terraces creates a spectacular, stepped landscape. Samos Muscat wines have won countless international awards and historically supplied the Vatican with its communion wine. Geography K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Samos is world-famous for its sweet dessert wines made from the Muscat grape.",
@@ -3454,7 +3454,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Crete is universally recognized as one of the world's premier regions for olive oil production, a tradition deeply embedded in the island's culture and history since the Minoan civilization over 4,000 years ago. The island's landscape is blanketed by an estimated 30 million olive trees, making it a critical component of the local economy and the foundation of the world-renowned Cretan diet. The primary olive variety cultivated is the small, resilient 'Koroneiki', which yields an exceptional, high-quality extra virgin olive oil known for its low acidity, vibrant green color, and robust, fruity flavor. Many families on the island maintain their own ancestral groves and participate in the annual winter harvest. Crete is home to several monumental, ancient olive trees, including the famous Olive Tree of Vouves, which is estimated to be over 3,000 years old and still produces olives today. Geography K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Crete contains approximately 30 million olive trees.",
@@ -3487,7 +3487,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The island of Syros, located in the heart of the Cyclades, has a profound industrial and maritime heritage, epitomized by its historic shipyards. Founded in the mid-19th century in the capital city of Ermoupoli, the Neorion Shipyards quickly became the largest and most significant industrial facility in the newly formed Greek state. The shipyards fueled an era of immense economic prosperity, transforming Ermoupoli into a major commercial hub and the leading port of Greece before the rise of Piraeus. While the shipbuilding industry has faced various economic challenges over the decades, the towering cranes and massive dry docks of the Neorion Shipyards remain a dominating presence in the harbor. They stand as a powerful symbol of Greece's modern industrial awakening and its enduring connection to the sea. History K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Neorion Shipyards on Syros were founded in 1861.",
@@ -3520,7 +3520,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Volos, a major port city in the Thessaly region, developed into one of Greece's most important industrial centers during the late 19th and early 20th centuries. The city's strategic coastal location, combined with the development of the local railway network, facilitated a massive boom in manufacturing, particularly in the textile, tobacco, and metalworking sectors. Numerous grand, brick-built factories with tall smokestacks were erected along the waterfront and the city's outskirts, profoundly shaping its architectural and social landscape. While many of these heavy industries eventually declined, Volos has successfully repurposed several of its iconic industrial buildings into vibrant cultural spaces, such as the Rooftile and Brickworks Museum N. & S. Tsalapatas. This successful integration preserves the city's proud working-class heritage while adapting to modern economic realities. History K8."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Volos experienced massive industrialization in the late 19th and 20th centuries.",
@@ -3553,7 +3553,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Eugenides Planetarium in Athens is one of the largest and most technologically advanced digital planetariums in the world. Established by the Eugenides Foundation, an institution dedicated to scientific and technical education, the planetarium offers an immersive, educational journey through the cosmos. Featuring a massive 27.5-meter hemispherical dome and state-of-the-art projection systems, it provides spectacular 3D shows exploring astronomy, space exploration, and natural sciences. The facility serves as a primary educational destination for families and schools, aiming to inspire the next generation of scientists and astronomers. In addition to the shows, the foundation hosts interactive science exhibits and a specialized library, making it a comprehensive center for scientific discovery in Greece. Science K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "The Eugenides Planetarium is one of the largest digital planetariums in the world.",
@@ -3586,7 +3586,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "The Attica Zoological Park, located in the suburb of Spata near the Athens International Airport, is the largest and most comprehensive zoo in Greece. Spanning a vast area, the park is home to over 2,000 animals representing nearly 300 diverse species from around the globe, including majestic big cats, diverse primates, and rare reptiles. Originally established as a bird park, it has expanded significantly over the years and now features a highly popular marine mammal facility. The zoo places a strong emphasis on animal conservation, environmental education, and public awareness, participating in numerous European endangered species breeding programs. It provides an engaging, family-friendly environment with expansive enclosures designed to closely mimic the animals' natural habitats. Science K5."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "It is the largest zoological park in Greece.",
@@ -3619,7 +3619,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "NOESIS, the Thessaloniki Science Center and Technology Museum, is the premier institution in Northern Greece dedicated to the popularization of science and technology. The center features a striking, modern architectural design and offers a highly interactive and educational experience designed to engage visitors of all ages. Its extensive facilities include a fascinating Technology Museum that highlights ancient Greek technological achievements, alongside a classic car exhibition. NOESIS is uniquely equipped with multiple impressive venues, including a state-of-the-art digital Planetarium, a massive 'Cosmotheater' with a flat screen for large-format films, and an exciting Motion Simulator. It serves as a vital hub for school excursions and family visits, making complex scientific concepts accessible and highly entertaining. Science K7."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "NOESIS is the most important science and technology center in Northern Greece.",
@@ -3652,7 +3652,7 @@ export const greeceNature: POI[] = [
   descriptionAdvanced: {
     de: "", hu: "", ro: "", en: "Cretaquarium, officially known as 'Thalassocosmos,' is one of the largest and most modern public aquariums in Europe, located near Heraklion, Crete. Operated by the Hellenic Centre for Marine Research, the facility is deeply dedicated to the study, conservation, and public presentation of the incredibly diverse marine life found in the Mediterranean Sea. The aquarium features dozens of large tanks simulating various underwater environments, housing thousands of marine organisms, ranging from tiny, colorful seahorses and jellyfish to impressive, large sand tiger sharks and sea turtles. The meticulously designed exhibits provide visitors, especially children, with an immersive, educational experience that highlights the fragility and beauty of the Mediterranean ecosystem, fostering a strong message of environmental stewardship. Science K6."
   }
-,
+
   factsAdvanced: {
     de: [], hu: [], ro: [], en: [
       "Cretaquarium is one of the largest aquariums in Europe dedicated strictly to Mediterranean marine life.",
