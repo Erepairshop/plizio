@@ -218,3 +218,14 @@ Mielőtt write_file: gondold át mentálisan az **első és utolsó 5 sort**:
 3. Harmadik sor: `export const poiExtra<Country><Layer>V2: POI[] = [`
 4. Utolsó sor: `];` (semmi extra utána)
 Ha ez nem stimmel → ne mentsd, írd újra.
+
+### TILOS UTF-8 MOJIBAKE — ÉKEZETEK MEGŐRZÉSE
+A fájlokat MINDIG UTF-8 kódolásban menteni, NEM CP1252-ben vagy Latin-1-ben. Az utóbbi időben sok POI fájlban mojibake került:
+- ROSSZ: `Ã©` (ahelyett: `é`), `Ãƒâ€¢` (ahelyett: `Ő`), `ÃƒÆ'Ã‚Â©` (4-szintű mojibake `é` helyett), `Ű‘` (ahelyett: `ő`)
+- JÓ: `é`, `ő`, `Ő`, `Ű` natív UTF-8 karakterekkel
+
+**Szabály**: ha tartalom-generáláskor magyar/német/román ékezetet írsz, mindig direkt a végső karaktert írd a fájlba. SOHA ne írd `Ã`+valami szekvenciával. Ha látod hogy az output `Ã`/`Å`/`Â`/`Ű‘` karaktereket tartalmaz string értékben, **regeneráld** a feladatot — ezek mind mojibake-jelek.
+
+**Magyar `ő` és `ű`**: ezek külön karakterek (`U+0151` és `U+0171`), NEM `o`+`'` vagy `u`+`'`. Ha az írásmód `Ű‘` vagy `Å'` lenne, az hibás kódolás.
+
+**Ellenőrzés**: a `descriptionAdvanced` és `factsAdvanced` mezőkben minden `Ã`, `Å`, `Â`, `Ű` karakter gyanús. Csak akkor szabad, ha az egy valódi szó-kezdő nagybetű (pl. ország-név).
