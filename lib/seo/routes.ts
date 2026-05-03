@@ -30,6 +30,106 @@ export const SEO_LOCALES: Record<Lang, string> = {
   en: "en_US",
 };
 
+// Lokalizált országnevek minden ország minden nyelven (4 lang × 50+ ország)
+export const COUNTRY_NAMES: Record<string, Record<Lang, string>> = {
+  germany: { de: "Deutschland", hu: "Németország", ro: "Germania", en: "Germany" },
+  romania: { de: "Rumänien", hu: "Románia", ro: "România", en: "Romania" },
+  hungary: { de: "Ungarn", hu: "Magyarország", ro: "Ungaria", en: "Hungary" },
+  vatican: { de: "Vatikanstadt", hu: "Vatikán", ro: "Vatican", en: "Vatican" },
+  austria: { de: "Österreich", hu: "Ausztria", ro: "Austria", en: "Austria" },
+  switzerland: { de: "Schweiz", hu: "Svájc", ro: "Elveția", en: "Switzerland" },
+  france: { de: "Frankreich", hu: "Franciaország", ro: "Franța", en: "France" },
+  italy: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" },
+  spain: { de: "Spanien", hu: "Spanyolország", ro: "Spania", en: "Spain" },
+  portugal: { de: "Portugal", hu: "Portugália", ro: "Portugalia", en: "Portugal" },
+  netherlands: { de: "Niederlande", hu: "Hollandia", ro: "Olanda", en: "Netherlands" },
+  belgium: { de: "Belgien", hu: "Belgium", ro: "Belgia", en: "Belgium" },
+  luxembourg: { de: "Luxemburg", hu: "Luxemburg", ro: "Luxemburg", en: "Luxembourg" },
+  "united-kingdom": { de: "Vereinigtes Königreich", hu: "Egyesült Királyság", ro: "Regatul Unit", en: "United Kingdom" },
+  ireland: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" },
+  poland: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" },
+  "czech-republic": { de: "Tschechien", hu: "Csehország", ro: "Cehia", en: "Czech Republic" },
+  slovakia: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia" },
+  slovenia: { de: "Slowenien", hu: "Szlovénia", ro: "Slovenia", en: "Slovenia" },
+  croatia: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" },
+  serbia: { de: "Serbien", hu: "Szerbia", ro: "Serbia", en: "Serbia" },
+  bosnia: { de: "Bosnien und Herzegowina", hu: "Bosznia-Hercegovina", ro: "Bosnia și Herțegovina", en: "Bosnia and Herzegovina" },
+  montenegro: { de: "Montenegro", hu: "Montenegró", ro: "Muntenegru", en: "Montenegro" },
+  "north-macedonia": { de: "Nordmazedonien", hu: "Észak-Macedónia", ro: "Macedonia de Nord", en: "North Macedonia" },
+  albania: { de: "Albanien", hu: "Albánia", ro: "Albania", en: "Albania" },
+  kosovo: { de: "Kosovo", hu: "Koszovó", ro: "Kosovo", en: "Kosovo" },
+  bulgaria: { de: "Bulgarien", hu: "Bulgária", ro: "Bulgaria", en: "Bulgaria" },
+  greece: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" },
+  turkey: { de: "Türkei", hu: "Törökország", ro: "Turcia", en: "Turkey" },
+  cyprus: { de: "Zypern", hu: "Ciprus", ro: "Cipru", en: "Cyprus" },
+  malta: { de: "Malta", hu: "Málta", ro: "Malta", en: "Malta" },
+  denmark: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
+  norway: { de: "Norwegen", hu: "Norvégia", ro: "Norvegia", en: "Norway" },
+  sweden: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden" },
+  finland: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland" },
+  iceland: { de: "Island", hu: "Izland", ro: "Islanda", en: "Iceland" },
+  estonia: { de: "Estland", hu: "Észtország", ro: "Estonia", en: "Estonia" },
+  latvia: { de: "Lettland", hu: "Lettország", ro: "Letonia", en: "Latvia" },
+  lithuania: { de: "Litauen", hu: "Litvánia", ro: "Lituania", en: "Lithuania" },
+  belarus: { de: "Belarus", hu: "Fehéroroszország", ro: "Belarus", en: "Belarus" },
+  ukraine: { de: "Ukraine", hu: "Ukrajna", ro: "Ucraina", en: "Ukraine" },
+  moldova: { de: "Moldau", hu: "Moldova", ro: "Moldova", en: "Moldova" },
+  andorra: { de: "Andorra", hu: "Andorra", ro: "Andorra", en: "Andorra" },
+  monaco: { de: "Monaco", hu: "Monaco", ro: "Monaco", en: "Monaco" },
+  "san-marino": { de: "San Marino", hu: "San Marino", ro: "San Marino", en: "San Marino" },
+  liechtenstein: { de: "Liechtenstein", hu: "Liechtenstein", ro: "Liechtenstein", en: "Liechtenstein" },
+  usa: { de: "USA", hu: "Amerikai Egyesült Államok", ro: "Statele Unite", en: "United States" },
+  canada: { de: "Kanada", hu: "Kanada", ro: "Canada", en: "Canada" },
+  mexico: { de: "Mexiko", hu: "Mexikó", ro: "Mexic", en: "Mexico" },
+  guatemala: { de: "Guatemala", hu: "Guatemala", ro: "Guatemala", en: "Guatemala" },
+  honduras: { de: "Honduras", hu: "Honduras", ro: "Honduras", en: "Honduras" },
+  nicaragua: { de: "Nicaragua", hu: "Nicaragua", ro: "Nicaragua", en: "Nicaragua" },
+  "costa-rica": { de: "Costa Rica", hu: "Costa Rica", ro: "Costa Rica", en: "Costa Rica" },
+  panama: { de: "Panama", hu: "Panama", ro: "Panama", en: "Panama" },
+  cuba: { de: "Kuba", hu: "Kuba", ro: "Cuba", en: "Cuba" },
+  "dominican-republic": { de: "Dominikanische Republik", hu: "Dominikai Köztársaság", ro: "Republica Dominicană", en: "Dominican Republic" },
+  haiti: { de: "Haiti", hu: "Haiti", ro: "Haiti", en: "Haiti" },
+  jamaica: { de: "Jamaika", hu: "Jamaica", ro: "Jamaica", en: "Jamaica" },
+  bahamas: { de: "Bahamas", hu: "Bahama-szigetek", ro: "Bahamas", en: "Bahamas" },
+  trinidad: { de: "Trinidad und Tobago", hu: "Trinidad és Tobago", ro: "Trinidad și Tobago", en: "Trinidad and Tobago" },
+  belize: { de: "Belize", hu: "Belize", ro: "Belize", en: "Belize" },
+  "el-salvador": { de: "El Salvador", hu: "El Salvador", ro: "El Salvador", en: "El Salvador" },
+};
+
+// Sablon-alapú ország-szintű meta (title, description) generálás —
+// kerüli a duplicate content-et: minden ország saját lokalizált szöveget kap.
+function templateCopy(countryId: string, lang: Lang): { title: string; description: string; name: string } {
+  const name = COUNTRY_NAMES[countryId]?.[lang] ?? countryId;
+  if (lang === "de") {
+    return {
+      title: `Interaktive ${name}-Karte`,
+      description: `Statische Lernseiten zu Regionen, Städten, Natur, Geschichte und Sehenswürdigkeiten in ${name}.`,
+      name,
+    };
+  }
+  if (lang === "hu") {
+    return {
+      title: `${name} interaktív térképe`,
+      description: `Statikus tanulóoldalak ${name} régióiról, városairól, természeti helyeiről, történelméről és nevezetességeiről.`,
+      name,
+    };
+  }
+  if (lang === "ro") {
+    return {
+      title: `Harta interactivă a ${name}`,
+      description: `Pagini statice de studiu despre regiuni, orașe, natură, istorie și obiective turistice din ${name}.`,
+      name,
+    };
+  }
+  return {
+    title: `Interactive ${name} Map`,
+    description: `Static study pages about regions, cities, nature, history, and landmarks in ${name}.`,
+    name,
+  };
+}
+
+// Kézi (kurátorított) leírás germany/romania/hungary-hez. A többi ország
+// automatikus templateCopy-t kap a getCountryCopy() helperen keresztül.
 export const COUNTRY_COPY: Record<string, Record<Lang, { title: string; description: string; name: string }>> = {
   germany: {
     de: { title: "Interaktive Deutschlandkarte", description: "Statische Lernseiten zu Bundesländern, Städten, Natur, Geschichte und Sehenswürdigkeiten in Deutschland.", name: "Deutschland" },
@@ -50,6 +150,21 @@ export const COUNTRY_COPY: Record<string, Record<Lang, { title: string; descript
     en: { title: "Interactive Hungary Map", description: "Static study pages about Hungarian counties, cities, nature, history, and landmarks.", name: "Hungary" },
   },
 };
+
+// Egyetlen lookup: kurátorált COUNTRY_COPY ha van, különben sablon.
+export function getCountryCopy(countryId: string, lang: Lang) {
+  return COUNTRY_COPY[countryId]?.[lang] ?? templateCopy(countryId, lang);
+}
+
+// Per-ország og:image URL — a generic fallback "/geo-images/${countryId}-full.jpg".
+const COUNTRY_OG_IMAGE: Record<string, string> = {
+  germany: "/geo-images/germany-full.jpg",
+  romania: "/geo-images/romania/RO.webp",
+  hungary: "/geo-images/hungary/HU.webp",
+};
+function getCountryOgImage(countryId: string) {
+  return COUNTRY_OG_IMAGE[countryId] ?? `/geo-images/${countryId}-full.jpg`;
+}
 
 export const SEO_COPY = {
   de: {
@@ -218,15 +333,13 @@ export function poiDescription(poi: POI, lang: Lang) {
 export function stateDescription(stateId: string, lang: Lang) {
   const state = regions.find((entry) => entry.id === stateId);
   const countryId = getCountryId(stateId);
-  const countryCopy = COUNTRY_COPY[countryId]?.[lang];
-  return truncateDescription(localizedValue(state?.description, lang) || countryCopy?.description || "");
+  const countryCopy = getCountryCopy(countryId, lang);
+  return truncateDescription(localizedValue(state?.description, lang) || countryCopy.description);
 }
 
 export function countryMetadata(lang: Lang, countryId: string = "germany"): Metadata {
-  const copy = COUNTRY_COPY[countryId]?.[lang] || COUNTRY_COPY.germany[lang];
-  let imageUrl = "/geo-images/germany-full.jpg";
-  if (countryId === "romania") imageUrl = "/geo-images/romania/RO.webp";
-  else if (countryId === "hungary") imageUrl = "/geo-images/hungary/HU.webp";
+  const copy = getCountryCopy(countryId, lang);
+  const imageUrl = getCountryOgImage(countryId);
 
   return {
     title: `${copy.title} | Plizio Visual Lab`,
