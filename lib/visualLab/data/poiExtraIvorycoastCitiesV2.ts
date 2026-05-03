@@ -23,6 +23,18 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Elefántcsontpart gazdasági központja.", "Fontos városi csomópont."],
       ro: ["Metropola economică a Coastei de Fildeș.", "Nod urban important."],
       en: ["Economic metropolis of Ivory Coast.", "Important urban hub."]
+    },
+    descriptionAdvanced: {
+      de: "Abidjan, die wirtschaftliche Hauptstadt der Elfenbeinküste, ist eine pulsierende Metropole am Golf von Guinea. Mit über 4,3 Millionen Einwohnern ist die Stadt ein bedeutender Hafenstandort und Finanzzentrum Westafrikas. Die Skyline wird von modernen Hochhäusern wie dem Plateau-Viertel geprägt, während die Stadt durch die Ébrié-Lagune in zwei Teile getrennt ist. Ein Wahrzeichen ist die Kathedrale St. Paul, die 1985 eingeweiht wurde und für ihre Architektur bekannt ist. Die Stadt dient als zentraler Handelsknotenpunkt für den Export von Kakao und Kaffee. Geographie K8 – küstennahe Metropolen.",
+      hu: "Abidjan, Elefántcsontpart gazdasági fővárosa, egy nyüzsgő metropolisz a Guineai-öböl partján. Több mint 4,3 millió lakosával a város Nyugat-Afrika egyik legfontosabb kikötője és pénzügyi központja. A városképet a Plateau negyed modern felhőkarcolói uralják, a várost pedig az Ébrié-lagúna szeli ketté. Jelképe az 1985-ben felszentelt Szent Pál-katedrális, amely különleges építészeti megoldásairól ismert. Abidjan a kakaó- és kávéexport központi kereskedelmi csomópontja. Földrajz K8 – tengerparti metropoliszok.",
+      ro: "Abidjan, capitala economică a Coastei de Fildeș, este o metropolă vibrantă situată pe malul Golfului Guineei. Cu peste 4,3 milioane de locuitori, orașul este un important port și centru financiar al Africii de Vest. Orizontul este dominat de zgârie-norii din districtul Plateau, în timp ce orașul este separat în două de laguna Ébrié. Un simbol al orașului este Catedrala Sfântul Paul, sfințită în 1985, cunoscută pentru arhitectura sa unică. Orașul servește drept hub comercial central pentru exportul de cacao și cafea. Geografie K8 – metropole de coastă.",
+      en: "Abidjan, the economic capital of Ivory Coast, is a vibrant metropolis on the Gulf of Guinea. With over 4.3 million residents, the city is a major port and financial hub of West Africa. The skyline is dominated by modern skyscrapers in the Plateau district, while the city is bisected by the Ébrié Lagoon. A landmark is St. Paul's Cathedral, consecrated in 1985, known for its unique architecture. The city serves as a central trade hub for the export of cocoa and coffee. Geography K8 – coastal metropolises."
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung von über 4,3 Millionen Menschen.", "Zentrales Finanz- und Hafen-Zentrum.", "St. Paul-Kathedrale 1985 fertiggestellt.", "Wichtigster Exporthafen für Kakao.", "Gelegen an der Ébrié-Lagune.", "Wirtschaftsmotor der Elfenbeinküste."],
+      hu: ["Több mint 4,3 millió lakos.", "Központi pénzügyi és kikötői csomópont.", "A Szent Pál-katedrális 1985-ben épült.", "A kakaó legfontosabb kiviteli kikötője.", "Az Ébrié-lagúna partján fekszik.", "Elefántcsontpart gazdasági motorja."],
+      ro: ["Populație de peste 4,3 milioane de oameni.", "Centru financiar și portuar central.", "Catedrala Sf. Paul a fost finalizată în 1985.", "Cel mai important port de export pentru cacao.", "Situat pe laguna Ébrié.", "Motorul economic al Coastei de Fildeș."],
+      en: ["Population of over 4.3 million people.", "Central financial and port hub.", "St. Paul's Cathedral completed in 1985.", "Most important export port for cocoa.", "Located on the Ébrié Lagoon.", "Economic engine of Ivory Coast."]
     }
   },
   {
@@ -47,6 +59,18 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az ország politikai fővárosa.", "Fontos városi csomópont."],
       ro: ["Capitala politică a țării.", "Nod urban important."],
       en: ["The political capital of the country.", "Important urban hub."]
+    },
+    descriptionAdvanced: {
+      de: "Yamoussoukro ist die politische Hauptstadt der Elfenbeinküste und liegt etwa 240 Kilometer nördlich von Abidjan. Die Stadt erlangte weltweite Bekanntheit durch den Bau der Basilika Unserer Lieben Frau vom Frieden, die von Präsident Félix Houphouët-Boigny in Auftrag gegeben wurde. Die zwischen 1985 und 1989 erbaute Basilika gilt als eines der größten Kirchengebäude der Welt. Yamoussoukro fungiert zudem als Bildungs- und Verwaltungszentrum des Landes. Die Stadt zeichnet sich durch breite Boulevards und weitläufige Grünflächen aus, die eine geplante städtische Struktur widerspiegeln. Geschichte K8 – Architektur der Moderne.",
+      hu: "Yamoussoukro Elefántcsontpart politikai fővárosa, körülbelül 240 kilométerre északra Abidjantól. A város világszerte hírnevet szerzett a Béke Miasszonyunk-bazilika építésével, amelyet Félix Houphouët-Boigny elnök rendelt meg. Az 1985 és 1989 között épült bazilika a világ egyik legnagyobb templomépülete. Yamoussoukro emellett az ország oktatási és közigazgatási központja is. A várost széles sugárutak és kiterjedt zöldfelületek jellemzik, amelyek egy tervezett városszerkezetet tükröznek. Történelem K8 – modern építészet.",
+      ro: "Yamoussoukro este capitala politică a Coastei de Fildeș și este situată la aproximativ 240 de kilometri nord de Abidjan. Orașul a câștigat faimă mondială prin construcția Bazilicii Maicii Domnului a Păcii, comandată de președintele Félix Houphouët-Boigny. Construită între 1985 și 1989, bazilica este considerată una dintre cele mai mari clădiri bisericești din lume. Yamoussoukro funcționează, de asemenea, ca centru educațional și administrativ al țării. Orașul se remarcă prin bulevarde largi și spații verzi întinse, reflectând o structură urbană planificată. Istorie K8 – arhitectură modernă.",
+      en: "Yamoussoukro is the political capital of Ivory Coast and is located about 240 kilometers north of Abidjan. The city gained worldwide fame through the construction of the Basilica of Our Lady of Peace, commissioned by President Félix Houphouët-Boigny. Built between 1985 and 1989, the basilica is considered one of the largest church buildings in the world. Yamoussoukro also functions as the country's educational and administrative center. The city is characterized by wide boulevards and expansive green spaces, reflecting a planned urban structure. History K8 – modern architecture."
+    },
+    factsAdvanced: {
+      de: ["Politische Hauptstadt seit 1983.", "Basilika Notre-Dame de la Paix 1989 vollendet.", "Geplante Stadt mit breiten Boulevards.", "Heimat des Gründungspräsidenten.", "Administrative Bedeutung.", "Zentrales Bildungszentrum."],
+      hu: ["Politikai főváros 1983 óta.", "A Béke-bazilika 1989-ben fejeződött be.", "Tervezett város széles sugárutakkal.", "Az alapító elnök szülővárosa.", "Közigazgatási jelentőség.", "Központi oktatási központ."],
+      ro: ["Capitală politică din 1983.", "Bazilica Păcii finalizată în 1989.", "Oraș planificat cu bulevarde largi.", "Casa președintelui fondator.", "Importanță administrativă.", "Centru educațional central."],
+      en: ["Political capital since 1983.", "Basilica of Peace completed in 1989.", "Planned city with wide boulevards.", "Home of the founding president.", "Administrative importance.", "Central educational hub."]
     }
   },
   {
