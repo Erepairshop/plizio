@@ -2,7 +2,8 @@
 
 import { useRef, useState } from "react";
 import { useRouter } from "next/navigation";
-import { africaMap, africaViewBox } from "@/lib/visualLab/maps/africa.svg";
+import { africaMap, africaViewBox, projectCoordsAF } from "@/lib/visualLab/maps/africa.svg";
+import { AFRICA_CAPITALS } from "@/lib/visualLab/maps/africaCapitals";
 import type { Lang } from "@/lib/visualLab/maps/resolver";
 import { motion, AnimatePresence } from "framer-motion";
 import { Plus, Minus, Maximize2 } from "lucide-react";
@@ -263,6 +264,71 @@ export default function AfricaMap({ lang }: AfricaMapProps) {
               </path>
             );
           })}
+
+          {/* Country name + capital labels — always visible */}
+          <g pointerEvents="none">
+            {AFRICA_CAPITALS.map((cap) => {
+              const labels = COUNTRY_LABELS[cap.countryId];
+              const countryLabel = labels ? labels[lang as keyof typeof labels] || labels.en : cap.countryId;
+              const capitalName = cap.name[lang as keyof typeof cap.name] || cap.name.en;
+              const [cx, cy] = projectCoordsAF(cap.lon, cap.lat);
+              const dotR = 4 / view.scale;
+              const countryFont = 18 / view.scale;
+              const capitalFont = 13 / view.scale;
+              const strokeW = 4 / view.scale;
+              const dyCountry = -14 / view.scale;
+              const dyCapital = 16 / view.scale;
+              return (
+                <g key={`lbl-${cap.countryId}`}>
+                  <text
+                    x={cx}
+                    y={cy + dyCountry}
+                    fill="#ffffff"
+                    fontSize={countryFont}
+                    fontWeight={700}
+                    textAnchor="middle"
+                    style={{
+                      userSelect: "none",
+                      paintOrder: "stroke",
+                      stroke: "#020408",
+                      strokeWidth: strokeW,
+                      strokeOpacity: 0.85,
+                      filter: "drop-shadow(0px 2px 2px rgba(0,0,0,0.8))",
+                    }}
+                  >
+                    {countryLabel}
+                  </text>
+                  <circle
+                    cx={cx}
+                    cy={cy}
+                    r={dotR}
+                    fill="#FFD166"
+                    stroke="#020408"
+                    strokeWidth={0.4 / view.scale}
+                    style={{ filter: "drop-shadow(0px 1px 1px rgba(0,0,0,0.8))" }}
+                  />
+                  <text
+                    x={cx}
+                    y={cy + dyCapital}
+                    fill="#FFD166"
+                    fontSize={capitalFont}
+                    fontWeight={600}
+                    textAnchor="middle"
+                    style={{
+                      userSelect: "none",
+                      paintOrder: "stroke",
+                      stroke: "#020408",
+                      strokeWidth: strokeW,
+                      strokeOpacity: 0.85,
+                      filter: "drop-shadow(0px 2px 2px rgba(0,0,0,0.8))",
+                    }}
+                  >
+                    {capitalName}
+                  </text>
+                </g>
+              );
+            })}
+          </g>
         </g>
       </svg>
     </div>

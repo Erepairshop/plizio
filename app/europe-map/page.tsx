@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
@@ -18,6 +19,17 @@ export default function EuropeMapPage() {
   const router = useRouter();
   const { lang } = useLang();
   const l = (lang as Lang) ?? "de";
+
+  // Idle-prefetch the heavy InteractiveMap chunk so the first country click is instant.
+  useEffect(() => {
+    const idle = (cb: () => void) =>
+      typeof (window as any).requestIdleCallback === "function"
+        ? (window as any).requestIdleCallback(cb, { timeout: 2000 })
+        : window.setTimeout(cb, 600);
+    idle(() => {
+      import("@/lib/visualLab/components/InteractiveMap").catch(() => {});
+    });
+  }, []);
 
   return (
     <div className="fixed inset-0 bg-[#060614] flex flex-col">

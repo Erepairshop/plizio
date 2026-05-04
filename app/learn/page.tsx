@@ -29,6 +29,27 @@ const EUROPA_LABEL: Record<Lang, string> = {
   en: "Europe Map",
 };
 
+const AFRICA_LABEL: Record<Lang, string> = {
+  de: "Afrika",
+  hu: "Afrika",
+  ro: "Africa",
+  en: "Africa",
+};
+
+const SAM_LABEL: Record<Lang, string> = {
+  de: "Südamerika",
+  hu: "Dél-Amerika",
+  ro: "America de Sud",
+  en: "South America",
+};
+
+const NAM_LABEL: Record<Lang, string> = {
+  de: "Nordamerika",
+  hu: "Észak-Amerika",
+  ro: "America de Nord",
+  en: "North America",
+};
+
 const GLOBE_LABEL: Record<Lang, string> = {
   de: "3D Globus",
   hu: "3D Glóbusz",
@@ -82,7 +103,7 @@ export default function LearnPage() {
             <h1 className="text-xl font-black text-white leading-tight">{TITLE[l]}</h1>
             <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex flex-wrap items-center gap-2">
             <button
               onClick={() => router.push("/world-globe")}
               aria-label={GLOBE_LABEL[l]}
@@ -98,6 +119,30 @@ export default function LearnPage() {
             >
               <Map size={14} className="text-cyan-300" />
               {EUROPA_LABEL[l]}
+            </button>
+            <button
+              onClick={() => router.push("/africa-map")}
+              aria-label={AFRICA_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-amber-500/30 to-orange-500/30 hover:from-amber-500/45 hover:to-orange-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Map size={14} className="text-amber-300" />
+              {AFRICA_LABEL[l]}
+            </button>
+            <button
+              onClick={() => router.push("/southamerica-map")}
+              aria-label={SAM_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-emerald-500/30 to-teal-500/30 hover:from-emerald-500/45 hover:to-teal-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Map size={14} className="text-emerald-300" />
+              {SAM_LABEL[l]}
+            </button>
+            <button
+              onClick={() => router.push("/northamerica-map")}
+              aria-label={NAM_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-rose-500/30 to-pink-500/30 hover:from-rose-500/45 hover:to-pink-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Map size={14} className="text-rose-300" />
+              {NAM_LABEL[l]}
             </button>
           </div>
         </header>
