@@ -3,44 +3,6 @@ import type { POI } from "./poi";
 export const poiExtraDe3b: POI[] = [
   // ── DE-BB Brandenburg (15) ──────────────────────────────────────────────────
   {
-    id: "city-potsdam-extra",
-    type: "state-capital",
-    parent: "DE-BB",
-    coords: [13.0645, 52.3989],
-    name: { de: "Potsdam", hu: "Potsdam", ro: "Potsdam", en: "Potsdam" },
-    description: {
-      de: "Potsdam ist die Landeshauptstadt Brandenburgs und liegt am südwestlichen Stadtrand Berlins. Die Stadt ist weltberühmt für ihre Schlösser und Gartenanlagen, vor allem das Schloss Sanssouci, das Friedrich der Große errichten ließ. Potsdam war jahrhundertelang Residenzstadt der brandenburgisch-preußischen Herrscher.",
-      hu: "Potsdam Brandenburg tartomány fővárosa, és Berlin délnyugati szélén helyezkedik el. A város világhírű kastélyairól és kertjeiről, különösen a Nagy Frigyes által épített Sanssouci kastélyról. Potsdam évszázadokon át a brandenburgi-porosz uralkodók rezidencia-városa volt.",
-      ro: "Potsdam este capitala landului Brandenburg și este situată la marginea de sud-vest a Berlinului. Orașul este renumit în întreaga lume pentru castelele și grădinile sale, în special Castelul Sanssouci, construit de Frederic cel Mare. Potsdam a fost timp de secole reședința conducătorilor brandenburgico-prusaci.",
-      en: "Potsdam is the state capital of Brandenburg and lies on the southwestern outskirts of Berlin. The city is world-famous for its palaces and gardens, especially Sanssouci Palace, built by Frederick the Great. Potsdam was for centuries the residence of the Brandenburg-Prussian rulers.",
-    },
-    facts: {
-      de: ["Sanssouci gehört zum UNESCO-Weltkulturerbe.", "Friedrich der Große ließ das Schloss 1745 errichten.", "Die Potsdamer Konferenz 1945 fand im Schloss Cecilienhof statt.", "Potsdam hat über 170.000 Einwohner."],
-      hu: ["A Sanssouci az UNESCO világörökség része.", "Nagy Frigyes 1745-ben emeltette a kastélyt.", "Az 1945-ös potsdami konferenciát a Cecilienhof kastélyban tartották.", "Potsdam több mint 170 000 lakossal rendelkezik."],
-      ro: ["Sanssouci face parte din Patrimoniul Mondial UNESCO.", "Frederic cel Mare a construit castelul în 1745.", "Conferința de la Potsdam din 1945 a avut loc în Castelul Cecilienhof.", "Potsdam are peste 170.000 de locuitori."],
-      en: ["Sanssouci is part of the UNESCO World Heritage.", "Frederick the Great had the palace built in 1745.", "The 1945 Potsdam Conference took place at Cecilienhof Palace.", "Potsdam has over 170,000 inhabitants."],
-    },
-    descriptionAdvanced: {
-      de: "Potsdam, die Hauptstadt Brandenburgs, ist ein Juwel europäischer Kulturgeschichte und war über Jahrhunderte die glanzvolle Residenzstadt der preußischen Könige. Die Stadt ist weltbekannt für ihr einzigartiges Ensemble aus Schlössern und Gärten, allen voran Park Sanssouci mit dem berühmten Sommerschloss Friedrichs des Großen. Neben der preußischen Pracht ist Potsdam ein Ort der Weltgeschichte: Im Schloss Cecilienhof fand 1945 die Potsdamer Konferenz statt. Die Stadt besticht zudem durch Viertel wie das Holländische Viertel oder die russische Kolonie Alexandrowka. Heute ist Potsdam ein führender Wissenschaftsstandort und das Zentrum der deutschen Filmindustrie mit den traditionsreichen Babelsberger Studios. Geschichte K7 – Preußische Geschichte und europäische Diplomatie.",
-      hu: "A(z) Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Potsdam, capitala landului Brandenburg, este unul dintre cele mai splendide orașe rezidențiale din Europa, fiind faimos pentru palatele și parcurile sale incluse în patrimoniul mondial UNESCO. Perla orașului este Palatul Sanssouci, construit de regele Frederic cel Mare ca refugiu de vară, înconjurat de grădini terasate spectaculoase. Potsdam a fost scena unor evenimente istorice majore, precum Conferința de la Potsdam din 1945 la Palatul Cecilienhof. Orașul este, de asemenea, un centru al cinematografiei mondiale prin Studiourile Babelsberg, cele mai vechi de acest tip din lume. Podul Glienicke, locul schimbului de spioni în timpul Războiului Rece, completează identitatea complexă a acestui oraș regal. Istorie K7 – Absolutismul prusac și istoria secolului XX.",
-      en: "Potsdam, the capital of Brandenburg, is a city of royal dreams and world-class scientific innovation. As the former residence of the Prussian kings and German emperors, it features a unique ensemble of palaces and parks, recognized as a UNESCO World Heritage site. Its most famous landmark is Sanssouci Palace, the summer retreat of Frederick the Great. Beyond its royal past, Potsdam is a city of film, home to the historic Babelsberg Studio, and a major hub for research, hosting over 30 scientific institutions including the Max Planck Institute. The city's silhouette is defined by its elegant baroque architecture, its numerous lakes, and the historic Dutch Quarter. Potsdam remains a symbol of the Prussian Enlightenment and a vibrant center for culture and knowledge. Geschichte K8 – The Prussian monarchy and Enlightenment."
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt von Brandenburg und ehemalige preußische Residenzstadt.", "Über 75 % der Stadtfläche gehören zum UNESCO-Weltkulturerbe.", "Beherbergt 12 Schlösser, darunter Sanssouci, Cecilienhof und Babelsberg.", "Ort der Potsdamer Konferenz 1945 zum Ende des Zweiten Weltkriegs.", "Sitz des ältesten Großfilmstudios der Welt (Studio Babelsberg).", "Das Holländische Viertel besitzt 134 Häuser aus roten Ziegeln."],
-      hu: [
-        "A(z) Potsdam területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Potsdam tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Palatul Sanssouci este considerat 'Versailles-ul german', fiind finalizat în 1747.", "Întregul peisaj cultural al orașului (500 ha) este sub protecție UNESCO din 1990.", "Studioul Babelsberg, fondat în 1912, este cel mai vechi studio de film din lume.", "Palatul Cecilienhof a găzduit liderii 'Cei Trei Mari' după al Doilea Război Mondial.", "Podul Glienicke a fost locul a trei schimburi celebre de spioni între Est și Vest.", "Cartierul Olandez (Holländisches Viertel) cuprinde 134 de case din cărămidă roșie."],
-      en: ["UNESCO World Heritage site for its unique palaces and parks.", "Home to Sanssouci Palace, the masterpiece of Frederick the Great.", "The birthplace of German cinema at Studio Babelsberg (1912).", "Hosted the historic Potsdam Conference in 1945 at Cecilienhof Palace.", "Features the 'Dutch Quarter', the largest ensemble of Dutch-style houses outside the Netherlands.", "A leading European center for climate and gravitational research."]
-    },
-  },
-  {
     id: "city-cottbus-extra",
     type: "city",
     parent: "DE-BB",
@@ -190,44 +152,6 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Este al doilea ca mărime dintre lacurile naturale din Brandenburg (12 km²).", "Bad Saarow este prima stațiune balneară din Germania certificată pentru nămol terapeutic.", "Lacul are o formă alungită, cu o lungime de aproximativ 10 kilometri.", "Este conectat la rețeaua de căi navigabile federale prin canalul Storkower.", "Adâncimea maximă a lacului este de aproximativ 29 de metri.", "Regiunea găzduiește unele dintre cele mai bune terenuri de golf din Europa (A-ROSA)."],
       en: ["The largest lake in Brandenburg, covering 12 square kilometers.", "Known as the 'Märkisches Meer' for its impressive size.", "The lake reaches a maximum depth of approximately 29 meters.", "Home to the state-certified spa town of Bad Saarow.", "A premier European destination for golfing and wellness.", "Historically a preferred summer retreat for Berlin's high society."]
-    },
-  },
-  {
-    id: "lake-schwielowsee-extra",
-    type: "lake",
-    parent: "DE-BB",
-    coords: [12.9400, 52.3500],
-    name: { de: "Schwielowsee", hu: "Schwielowsee", ro: "Lacul Schwielowsee", en: "Schwielowsee" },
-    description: {
-      de: "Der Schwielowsee liegt südwestlich von Potsdam und ist Teil der Havelseenkette. Er ist ein beliebtes Naherholungsziel für die Bevölkerung Berlins und Potsdams. Am Ufer liegen charmante Ortschaften mit Badestränden und historischen Villen.",
-      hu: "A Schwielowsee Potsdamtól délnyugatra fekszik, és a Havel-tólánc részét képezi. Berlin és Potsdam lakóinak kedvelt közeli pihenőhelye. Partján bájos kisvárosok találhatók strandfürdőkkel és történelmi villákkal.",
-      ro: "Schwielowsee se află la sud-vest de Potsdam și face parte din lanțul de lacuri Havel. Este o destinație populară de agrement în apropiere pentru locuitorii Berlinului și Potsdamului. Pe maluri se află localități fermecătoare cu plaje și vile istorice.",
-      en: "Schwielowsee lies southwest of Potsdam and is part of the Havel lake chain. It is a popular local recreation destination for residents of Berlin and Potsdam. Charming villages with swimming beaches and historic villas line its shores.",
-    },
-    facts: {
-      de: ["Der Schwielowsee ist Teil des Naturparks Westhavelland.", "Er ist ein wichtiges Gebiet für Wasservögel.", "Die Ufer sind von Schilfgürteln gesäumt.", "Caputh, ein Dorf am See, war Sommerdomizil Albert Einsteins."],
-      hu: ["A Schwielowsee a Westhavelland Természeti Park része.", "Fontos területe a vízimadaraknak.", "Partjait nádszegélyek kísérik.", "Caputh, a tóparti kis falu, Albert Einstein nyári otthona volt."],
-      ro: ["Schwielowsee face parte din Parcul Natural Westhavelland.", "Este o zonă importantă pentru păsările de apă.", "Malurile sunt mărginite de stufărișuri.", "Caputh, un sat de pe malul lacului, a fost reședința de vară a lui Albert Einstein."],
-      en: ["Schwielowsee is part of the Westhavelland Nature Park.", "It is an important area for waterfowl.", "The shores are lined with reed belts.", "Caputh, a village on the lake, was Albert Einstein's summer residence."],
-    },
-    descriptionAdvanced: {
-      de: "Der Schwielowsee südwestlich von Potsdam gilt als einer der landschaftlich schönsten Seen im Verlauf der Havel. Theodor Fontane pries ihn als 'Gottes weite Welt', da er sich fast quadratisch auf über sieben Quadratkilometern ausdehnt. Die Orte rund um den See, wie Werder (Havel), Ferch und Caputh, sind Inbegriffe brandenburgischer Idylle. Besonders Caputh erlangte Weltruhm durch Albert Einstein, der hier in den Sommermonaten in seinem Holzhaus wohnte und auf dem See segelte. Der See ist nicht nur ein beliebtes Naherholungsgebiet für Berliner und Potsdamer, sondern auch ein Zentrum des Segelsports. Die Verbindung von Kulturlandschaft, Geschichte und Wassersport macht ihn einzigartig in Brandenburg. Geographie K6 – Die Havelseen als Teil der preußischen Kulturlandschaft.",
-      hu: "A(z) Schwielowsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwielowsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Schwielowsee este considerat cel mai frumos lac din lanțul de lacuri formate de râul Havel, situat în apropiere de Potsdam și Berlin. Farmecul său i-a atras de-a lungul timpului pe renumiți artiști și oameni de știință, printre care Albert Einstein, care a avut o casă de vară în satul Caputh de pe malul lacului. Orașul viticol Werder (Havel), situat pe o insulă la capătul nordic, și palatul baroc din Caputh completează acest peisaj cultural prusac. Cu apele sale liniștite și malurile verzi, Schwielowsee este un centru pentru navigația de agrement și un simbol al idilei rurale din Brandenburg, imortalizat în scrierile lui Theodor Fontane. Istorie K7 – Peisajele culturale prusace și personalități istorice.",
-      en: "Lake Schwielowsee is a wide and picturesque broadening of the Havel river, famously described by the poet Theodor Fontane as 'sun-drenched and majestic.' Located just south of Potsdam, it is the heart of a culturally rich landscape that includes the historic village of Caputh and the artists' colony of Ferch. Albert Einstein famously had his summer home in Caputh overlooking the lake, finding peace in its quiet waters. The lake is a haven for sailors and painters, known for its incredible light and its wide, flat horizon. Surrounded by reed beds and pine forests, Schwielowsee remains a quintessential symbol of Brandenburg's 'Havel-Romanticism' and a vital part of the regional heritage. Földrajz K7 – River broadenings and cultural landscapes."
-    },
-    factsAdvanced: {
-      de: ["Breiteste Stelle im Lauf der Havel mit ca. 7,8 km² Wasserfläche.", "Sommerresidenz des Physikers Albert Einstein in Caputh (1929–1932).", "Wichtigster Schauplatz in Fontanes 'Wanderungen durch die Mark Brandenburg'.", "Beherbergt das Schloss Caputh, das älteste erhaltene Schloss der Hohenzollern.", "Gilt als Wiege des brandenburgischen Obstanbaus (Werder).", "Bekannt für das jährliche Blütenfest in Werder am Nordufer."],
-      hu: [
-        "A(z) Schwielowsee területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schwielowsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Lacul are o suprafață de aproximativ 7,8 kilometri pătrați.", "Casa de vară a lui Albert Einstein din Caputh poate fi vizitată și astăzi.", "Werder (Havel) este renumit pentru festivalul său anual al pomilor înfloriți (Baumblütenfest).", "Schwielowsee este o parte integrantă a parcului fluvial UNESCO din Potsdam.", "Adâncimea sa este redusă, atingând maximum 9 metri.", "Biserica din satul Petzow de pe malul lacului a fost proiectată de Karl Friedrich Schinkel."],
-      en: ["A large broadening of the Havel river, covering nearly 8 km².", "Famous as the site of Albert Einstein's summer house in Caputh.", "Described by Theodor Fontane as the most beautiful lake in Brandenburg.", "Home to the historic 'Caputh Palace', a 17th-century Baroque gem.", "A major center for traditional Brandenburg inland sailing.", "The lake is exceptionally shallow, with an average depth of 3 meters."]
     },
   },
   {
@@ -497,44 +421,6 @@ export const poiExtraDe3b: POI[] = [
     },
   },
   {
-    id: "hist-filmpark-babelsberg-extra",
-    type: "historical",
-    parent: "DE-BB",
-    coords: [13.1300, 52.3900],
-    name: { de: "Filmpark Babelsberg", hu: "Babelsberg Filmpark", ro: "Parcul Cinematografic Babelsberg", en: "Filmpark Babelsberg" },
-    description: {
-      de: "Der Filmpark Babelsberg in Potsdam ist eines der ältesten Filmstudios der Welt und Europas größtes Filmstudio. Hier entstanden Stummfilmklassiker und bedeutende internationale Produktionen. Das Studio ist ein wichtiger Teil der deutschen Filmgeschichte und heute auch Freizeitpark.",
-      hu: "A potsdami Babelsberg Filmpark a világ egyik legrégebbi és Európa legnagyobb filmstúdiója. Itt készültek némafilmes klasszikusok és fontos nemzetközi produkciók. A stúdió a német filmtörténet fontos része, és ma szabadidőpark is egyben.",
-      ro: "Parcul Cinematografic Babelsberg din Potsdam este unul dintre cele mai vechi studiouri de film din lume și cel mai mare din Europa. Aici au fost create clasice ale filmului mut și importante producții internaționale. Studioul este o parte importantă a istoriei filmului german și astăzi este și un parc de agrement.",
-      en: "Filmpark Babelsberg in Potsdam is one of the oldest film studios in the world and Europe's largest film studio. Silent film classics and major international productions were made here. The studio is an important part of German film history and today also a leisure park.",
-    },
-    facts: {
-      de: ["Babelsberg wurde 1912 gegründet.", "Hier wurden Klassiker wie 'Metropolis' gedreht.", "Es ist Europas größtes Filmstudio.", "Internationale Produktionen wie 'Inglourious Basterds' wurden hier gedreht."],
-      hu: ["Babelsberget 1912-ben alapították.", "Itt forgatták a Metropolis-hoz hasonló klasszikusokat.", "Európa legnagyobb filmstúdiója.", "Olyan nemzetközi produkciók forgattak itt, mint az 'Inglourious Basterds'."],
-      ro: ["Babelsberg a fost fondată în 1912.", "Aici au fost filmate clasice precum 'Metropolis'.", "Este cel mai mare studio de film din Europa.", "Producții internaționale precum 'Inglourious Basterds' au fost filmate aici."],
-      en: ["Babelsberg was founded in 1912.", "Classics such as 'Metropolis' were filmed here.", "It is Europe's largest film studio.", "International productions like 'Inglourious Basterds' were shot here."],
-    },
-    descriptionAdvanced: {
-      de: "Der Filmpark Babelsberg in Potsdam ist Teil der ältesten Großfilmstudios der Welt und ein faszinierendes Ausflugsziel für Cineasten. In Babelsberg wurde Filmgeschichte geschrieben – von Stummfilmklassikern wie 'Metropolis' bis hin zu modernen Hollywood-Produktionen wie 'Inglourious Basterds'. Der Filmpark ermöglicht einen Blick hinter die Kulissen der Traumfabrik: Stunt-Shows, Kulissen aus bekannten Filmen wie 'GZSZ' oder das 'Ganseliesel'-Dorf entführen Besucher in die Welt der Illusionen. Besonders beeindruckend ist das Atelier der Traumwerker, wo Maskenbildner und Kostümbildner ihr Handwerk zeigen. Babelsberg ist das Herz des Medienstandortes Deutschland und ein Symbol für die künstlerische Innovationskraft Brandenburgs. Geschichte K8 – Filmgeschichte und Medientechnologie im 20. Jahrhundert.",
-      hu: "A(z) Filmpark Babelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Filmpark Babelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Filmpark Babelsberg din Potsdam este inima celui mai vechi și important centru de producție cinematografică din lume, Studiourile Babelsberg. Fondat în 1912, acest 'Hollywood al Europei' a fost martorul nașterii unor capodopere precum 'Metropolis' și 'Îngerul Albastru' cu Marlene Dietrich. Vizitatorii pot explora platouri de filmare autentice, decoruri medievale și laboratoare de efecte speciale. Parcul oferă o privire fascinantă în culisele cinematografiei, de la epoca filmului mut până la producțiile moderne de succes ca 'Inglourious Basterds'. Este un loc unde istoria artei cinematografice se împletește cu tehnologia modernă a divertismentului. Arta K8 – Istoria cinematografiei și tehnici de producție.",
-      en: "Filmpark Babelsberg in Potsdam is a high-tech journey into the history and future of German cinema, situated directly adjacent to the legendary Studio Babelsberg. Founded in 1912, Babelsberg is the oldest large-scale film studio in the world and has been the site of masterpieces from 'Metropolis' to 'The Grand Budapest Hotel.' The Filmpark offers visitors a look behind the scenes, featuring original sets, props, and spectacular stunt shows. Highlights include the 'Outdoor Set of GZSZ' and the original 'Medal of Honor' tank. It is a place where Hollywood meets Prussian history, showcasing the incredible craftsmanship and technical innovation that have made Potsdam a global city of film. Geschichte K8 – The history of cinema and modern media production."
-    },
-    factsAdvanced: {
-      de: ["Standort der ältesten Großfilmstudios weltweit (gegründet 1912).", "Hier entstanden Meilensteine wie 'Der Blaue Engel' mit Marlene Dietrich.", "Studio Babelsberg umfasst 21 moderne Filmstudios auf 46 Hektar.", "Der Filmpark zeigt Originalkulissen aus der Serie 'Gute Zeiten, schlechte Zeiten'.", "Zentrum des ersten UNESCO Creative City of Film in Deutschland.", "Besitzt eine der größten Stunt-Arenen in ganz Europa."],
-      hu: [
-        "A(z) Filmpark Babelsberg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Filmpark Babelsberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Studiourile Babelsberg au fost fondate în anul 1912, fiind primele de acest tip.", "Aici s-a filmat 'Metropolis' (1927), primul film inclus în patrimoniul UNESCO.", "Parcul tematic a fost deschis pentru publicul larg în anul 1991.", "Include platoul de filmare 'Gassen des Mittelalters' (Ulițele Evului Mediu).", "Oferă spectacole live cu cascadori și prezentări despre machiajul de film.", "Aici au lucrat regizori legendari precum Fritz Lang și Alfred Hitchcock."],
-      en: ["Located next to the oldest large-scale film studio in the world (1912).", "The birthplace of cinema masterpieces like Murnau's 'Metropolis'.", "Features the original 'Petrov' house from the film 'Vier gegen die Bank'.", "Includes a spectacular 4D cinema and world-class stunt shows.", "The Babelsberg Studio is a preferred location for modern Hollywood directors.", "A central part of the UNESCO Creative City of Film, Potsdam."]
-    },
-  },
-  {
     id: "city-frankfurt-oder-extra",
     type: "city",
     parent: "DE-BB",
@@ -574,82 +460,6 @@ export const poiExtraDe3b: POI[] = [
   },
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
-  {
-    id: "city-magdeburg-extra",
-    type: "state-capital",
-    parent: "DE-ST",
-    coords: [11.6276, 52.1205],
-    name: { de: "Magdeburg", hu: "Magdeburg", ro: "Magdeburg", en: "Magdeburg" },
-    description: {
-      de: "Magdeburg ist die Landeshauptstadt von Sachsen-Anhalt und liegt an der Elbe. Die Stadt hat eine über 1200-jährige Geschichte und war einst eine der mächtigsten Städte des Heiligen Römischen Reiches. Der Magdeburger Dom, das älteste gotische Bauwerk Deutschlands, prägt die Silhouette der Stadt.",
-      hu: "Magdeburg Sachsen-Anhalt tartomány fővárosa és az Elba partján terül el. A városnak több mint 1200 éves története van, és egykor a Német-Római Birodalom egyik legerősebb városai közé tartozott. A magdeburgi dóm, Németország legrégebbi gótikus épülete, meghatározza a város sziluettjét.",
-      ro: "Magdeburg este capitala landului Saxonia-Anhalt și se află pe malul Elbei. Orașul are o istorie de peste 1200 de ani și a fost cândva unul dintre cele mai puternice orașe ale Sfântului Imperiu Roman. Domul din Magdeburg, cea mai veche construcție gotică din Germania, definește silueta orașului.",
-      en: "Magdeburg is the state capital of Saxony-Anhalt and lies on the Elbe. The city has a history spanning over 1,200 years and was once one of the most powerful cities in the Holy Roman Empire. Magdeburg Cathedral, Germany's oldest Gothic building, defines the city's skyline.",
-    },
-    facts: {
-      de: ["Magdeburg hat ca. 238.000 Einwohner.", "Der Dom wurde im 13. Jahrhundert begonnen.", "Magdeburg wurde im Dreißigjährigen Krieg 1631 fast vollständig zerstört.", "Otto der Große wurde in Magdeburg begraben."],
-      hu: ["Magdeburgnak kb. 238 000 lakosa van.", "A dóm építése a 13. században kezdődött.", "Magdeburget a harmincéves háborúban 1631-ben szinte teljesen elpusztították.", "I. Ottót Magdeburgban temették el."],
-      ro: ["Magdeburg are aproximativ 238.000 de locuitori.", "Construcția domului a început în secolul al XIII-lea.", "Magdeburg a fost aproape complet distrus în Războiul de Treizeci de Ani în 1631.", "Otto cel Mare a fost îngropat la Magdeburg."],
-      en: ["Magdeburg has approximately 238,000 inhabitants.", "Construction of the cathedral began in the 13th century.", "Magdeburg was almost completely destroyed in the Thirty Years' War in 1631.", "Otto the Great was buried in Magdeburg."],
-    },
-    descriptionAdvanced: {
-      de: "Magdeburg, die Hauptstadt Sachsen-Anhalts, blickt auf eine über 1.200-jährige Geschichte als Kaiserresidenz und Hansestadt zurück. Otto der Große, der erste Kaiser des Heiligen Römischen Reiches, machte Magdeburg zu seinem Lieblingsort, wovon der imposante Dom St. Mauritius und St. Katharina – der erste gotische Dom auf deutschem Boden – zeugt. Die Stadt war zudem Schauplatz wegweisender Experimente durch Otto von Guericke. Heute besticht Magdeburg durch eine Mischung aus historischem Erbe und moderner Architektur, wie Hundertwassers 'Grüner Zitadelle'. Als bedeutender Binnenhafen und Wissenschaftsstandort hat sich die Stadt zu einem dynamischen Zentrum an der Elbe entwickelt. Geschichte K6 – Das Heilige Römische Reich unter den Ottonen.",
-      hu: "A(z) Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Magdeburg, capitala landului Saxonia-Anhalt, este unul dintre cele mai vechi și importante orașe din estul Germaniei, având o istorie de peste 1200 de ani. Orașul a fost reședința favorită a împăratului Otto cel Mare, care este înmormântat în impresionanta Catedrală din Magdeburg, prima catedrală gotică construită pe pământ german. Orașul este, de asemenea, locul unde fizicianul Otto von Guericke a demonstrat puterea vidului prin celebrul experiment cu emisferele de Magdeburg. Astăzi, orașul îmbină monumentele istorice cu arhitectura modernă avangardistă, precum 'Citadela Verde' proiectată de Friedensreich Hundertwasser, ultimul mare proiect al artistului austriac. Istorie K7 – Împărați medievali și inovații științifice.",
-      en: "Magdeburg, the capital of Saxony-Anhalt, is a city of imperial destiny and incredible resilience, known as the 'Ottostadt.' Its history is defined by two giants: Emperor Otto the Great, who made the city his favorite residence, and Otto von Guericke, the scientist who demonstrated the power of atmospheric pressure here. Magdeburg Cathedral, the first Gothic cathedral on German soil, houses the tomb of Otto the Great and stands as a majestic monument to the city's medieval power. Despite being almost completely destroyed during the Thirty Years' War and again in World War II, Magdeburg has transformed into a modern green metropolis. Its skyline is now highlighted by the 'Green Citadel,' a whimsical pink architectural masterpiece by Friedensreich Hundertwasser. Geschichte K8 – Otto the Great and the Holy Roman Empire."
-    },
-    factsAdvanced: {
-      de: ["Residenzstadt Ottos des Großen und Sitz des Erzbistums seit 968.", "Der Magdeburger Dom beherbergt die Grablege des Kaisers Otto I.", "Berühmt für die 'Magdeburger Halbkugeln' des Erfinders Otto von Guericke.", "Besitzt mit der 'Grünen Zitadelle' das letzte Bauwerk von Friedensreich Hundertwasser.", "Wichtigster Elbhafen in Sachsen-Anhalt und logistisches Drehkreuz.", "Diente im Mittelalter als Namensgeber für das verbreitete 'Magdeburger Recht'."],
-      hu: [
-        "A(z) Magdeburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Magdeburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Catedrala din Magdeburg este prima catedrală gotică de pe teritoriul Germaniei.", "Împăratul Otto cel Mare a făcut din Magdeburg 'al treilea centru al Romei'.", "Otto von Guericke a inventat pompa de aer și a demonstrat vidul aici în 1654.", "Orașul a fost distrus aproape complet în 1631, în timpul Războiului de 30 de ani.", "Citadela Verde (Die Grüne Zitadelle) este o clădire rezidențială roz proiectată de Hundertwasser.", "Canalul Magdeburg trece peste râul Elbe printr-un pod de apă unic în lume."],
-      en: ["Known as the 'Ottostadt' in honor of Emperor Otto I and Otto von Guericke.", "Home to Germany's oldest Gothic cathedral, completed in 1363.", "The site of the first world demonstration of the vacuum (Magdeburg Hemispheres).", "One of the most important members of the Hanseatic League for centuries.", "Features the 'Green Citadel', the last building designed by Hundertwasser.", "A major hub for the German mechanical engineering and logistics industry."]
-    },
-  },
-  {
-    id: "city-halle-saale-extra",
-    type: "city",
-    parent: "DE-ST",
-    coords: [11.9695, 51.4825],
-    name: { de: "Halle (Saale)", hu: "Halle (Saale)", ro: "Halle (Saale)", en: "Halle (Saale)" },
-    description: {
-      de: "Halle (Saale) ist die größte Stadt Sachsen-Anhalts und liegt an der Saale. Die Stadt war ein bedeutendes Salzzentrum und ist Geburtsort des Barockkomponisten Georg Friedrich Händel. Halle ist heute eine wichtige Universitätsstadt mit einer der ältesten deutschen Universitäten.",
-      hu: "Halle (Saale) Sachsen-Anhalt legnagyobb városa, a Saale folyó partján. A város jelentős sóipari központ volt, és itt született a barokk zeneszerző Georg Friedrich Händel. Halle ma fontos egyetemváros, Németország egyik legrégebbi egyetemével.",
-      ro: "Halle (Saale) este cel mai mare oraș din Saxonia-Anhalt și se află pe malul Salei. Orașul a fost un important centru al sării și este locul de naștere al compozitorului baroc Georg Friedrich Händel. Halle este astăzi un important oraș universitar cu una dintre cele mai vechi universități germane.",
-      en: "Halle (Saale) is the largest city in Saxony-Anhalt, lying on the Saale. The city was a major salt centre and is the birthplace of Baroque composer Georg Friedrich Händel. Halle is today an important university city, home to one of Germany's oldest universities.",
-    },
-    facts: {
-      de: ["Georg Friedrich Händel wurde 1685 in Halle geboren.", "Die Martin-Luther-Universität wurde 1694 gegründet.", "Halle war jahrhundertelang ein wichtiges Salzzentrum.", "Die Stadt hat eine lebendige Kunstszene."],
-      hu: ["Georg Friedrich Händel 1685-ben született Halléban.", "A Marthin-Luther Egyetemet 1694-ben alapították.", "Halle évszázadokon át fontos sóközpont volt.", "A városnak élénk művészeti élete van."],
-      ro: ["Georg Friedrich Händel s-a născut la Halle în 1685.", "Universitatea Martin Luther a fost fondată în 1694.", "Halle a fost timp de secole un important centru al sării.", "Orașul are o scenă artistică vibrantă."],
-      en: ["Georg Friedrich Händel was born in Halle in 1685.", "Martin Luther University was founded in 1694.", "Halle was an important salt centre for centuries.", "The city has a vibrant arts scene."],
-    },
-    descriptionAdvanced: {
-      de: "Halle an der Saale ist eine Stadt der Kunst, Kultur und Wissenschaft mit einer über 1.000-jährigen Salztradition. Der Reichtum aus den Solequellen machte Halle im Mittelalter zu einer wohlhabenden Hansestadt. Das Wahrzeichen der Stadt ist der Marktplatz mit den fünf Türmen der Marktkirche und dem Roten Turm. Halle ist zudem die Geburtsstadt des Komponisten Georg Friedrich Händel, dessen Erbe alljährlich mit den Händel-Festspielen gefeiert wird. Mit der Leopoldina, der ältesten naturwissenschaftlichen Akademie der Welt, ist die Stadt ein internationales Zentrum der Forschung. Das fast vollständig erhaltene historische Stadtbild und die lebendige Kunsthochschule Burg Giebichenstein verleihen Halle ein einzigartiges Flair. Geschichte K7 – Salzhandel und hanseatische Handelsgeschichte.",
-      hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország Halle, város Észak-Rajna-Vesztfália tartományban, Németország Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban Halle, város Belgiumban Halle, kanton Belgium Halle-Vilvoorde járásában Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "Halle pe Saale este un centru cultural și științific major, faimos pentru producția sa de sare care datează de peste un mileniu. Orașul este locul de naștere al compozitorului Georg Friedrich Händel, în onoarea căruia se organizează anual un festival internațional. Halle găzduiește, de asemenea, celebra Academie Națională de Științe Leopoldina și Universitatea Martin Luther, una dintre cele mai vechi din Germania. Un punct de atracție de importanță mondială este Discul de la Nebra, cea mai veche reprezentare a cerului, expus la Muzeul Preistoriei. Orașul îmbină arhitectura industrială a salinelor cu palatele renascentiste și modernismul. Istorie K7 – Producția de sare și Iluminismul german.",
-      en: "Halle (Saale) is a city of profound musical heritage and scientific prestige, often called the 'Cultural Capital' of Saxony-Anhalt. It is world-famous as the birthplace of the Baroque composer George Frideric Handel, whose legacy is celebrated in his historic home and an annual festival. Halle is also home to the Leopoldina, the German National Academy of Sciences, and the prestigious Martin Luther University. The city's unique silhouette is defined by the 'Five Towers' on the marketplace and the medieval Giebichenstein Castle. Unlike many other large German cities, Halle's historic center survived World War II largely intact, preserving its maze of narrow streets and elegant plazas. Today, the city is a vibrant center for the digital economy and nanotechnology, bridging its rich scholarly past with a high-tech future. Geschichte K8 – The history of music and scientific academies."
-    },
-    factsAdvanced: {
-      de: ["Älteste wissenschaftliche Akademie der Welt (Leopoldina) hat hier ihren Sitz.", "Geburtsstadt des Weltkomponisten Georg Friedrich Händel (1685).", "Wahrzeichen: Die vier Türme der Marktkirche Unser Lieben Frauen.", "Beherbergt die 'Himmelsscheibe von Nebra' im Landesmuseum für Vorgeschichte.", "Historisches Zentrum der Salzgewinnung durch die Bruderschaft der Halloren.", "Größte Stadt in Sachsen-Anhalt und bedeutender Hochschulstandort."],
-      hu: [
-        "A(z) Halle (Saale) területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Halle (Saale) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Compozitorul Georg Friedrich Händel s-a născut aici în anul 1685.", "Academia Leopoldina, fondată în 1652, este cea mai veche societate științifică din lume.", "Producția de sare (Halloren) este atestată documentar încă din anul 806.", "Discul de la Nebra, vechi de 3.600 de ani, este piesa centrală a muzeului local.", "Turnurile Bisericii Mari (Marktkirche) sunt un simbol inconfundabil al pieței centrale.", "Găzduiește Fundațiile Francke, un complex educațional și social unic din secolul XVIII."],
-      en: ["The birthplace of the world-famous composer George Frideric Handel (1685).", "Home to the Leopoldina, the oldest scientific academy in the world.", "Features the iconic 'Five Towers' on the historic marketplace.", "The 'Himmelsscheibe von Nebra' (Nebra Sky Disk) is displayed here.", "Site of the Francke Foundations, a world-unique pietist educational ensemble.", "Historically one of the wealthiest cities due to its salt production (Halloren)."]
-    },
-  },
   {
     id: "city-dessau-extra",
     type: "city",
@@ -917,44 +727,6 @@ export const poiExtraDe3b: POI[] = [
     },
   },
   {
-    id: "hist-naumburg-dom-extra",
-    type: "historical",
-    parent: "DE-ST",
-    coords: [11.8100, 51.1500],
-    name: { de: "Naumburger Dom", hu: "Naumburgi dóm", ro: "Domul din Naumburg", en: "Naumburg Cathedral" },
-    description: {
-      de: "Der Naumburger Dom ist ein romanisch-gotischer Bau aus dem 13. Jahrhundert und gehört seit 2018 zum UNESCO-Weltkulturerbe. Berühmt sind die Stifterfiguren im Westchor, darunter die legendäre Uta von Naumburg. Das Kunstwerk gilt als eines der bedeutendsten Zeugnisse mittelalterlicher Bildhauerei.",
-      hu: "A naumburgi dóm egy 13. századi románkori-gótikus épület, amely 2018 óta UNESCO-világörökség. Híresek a nyugati kórus alapítói szobrai, köztük a legendás Naumburgi Uta. A műalkotás a középkori szobrászat egyik legjelentősebb emlékeként tartják számon.",
-      ro: "Domul din Naumburg este o construcție romanico-gotică din secolul al XIII-lea și face parte din Patrimoniul Mondial UNESCO din 2018. Celebre sunt figurile fondatorilor din corul de vest, printre care legendara Uta von Naumburg. Opera de artă este considerată una dintre cele mai importante mărturii ale sculpturii medievale.",
-      en: "Naumburg Cathedral is a Romanesque-Gothic structure from the 13th century and has been a UNESCO World Heritage site since 2018. Famous are the founder figures in the west choir, including the legendary Uta von Naumburg. The artwork is considered one of the most significant testimonies of medieval sculpture.",
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe seit 2018.", "Die Stifterfigur Uta ist weltberühmt.", "Der Dom wurde im 13. Jahrhundert gebaut.", "Naumburg liegt an der Saale."],
-      hu: ["2018 óta UNESCO-világörökség.", "Az Uta alapítói szobor világhíres.", "A dóm a 13. században épült.", "Naumburg a Saale partján fekszik."],
-      ro: ["Patrimoniu Mondial UNESCO din 2018.", "Figura fondatoarei Uta este renumită în întreaga lume.", "Domul a fost construit în secolul al XIII-lea.", "Naumburg se află pe malul Saalei."],
-      en: ["UNESCO World Heritage site since 2018.", "The founder figure of Uta is world-famous.", "The cathedral was built in the 13th century.", "Naumburg lies on the Saale."],
-    },
-    descriptionAdvanced: {
-      de: "Der Naumburger Dom St. Peter und Paul ist ein Meisterwerk der Architektur und Bildhauerkunst des hohen Mittelalters und gehört seit 2018 zum UNESCO-Weltkulturerbe. Weltberühmt ist er vor allem für den Westchor mit den zwölf lebensgroßen Stifterfiguren des sogenannten Naumburger Meisters. Die Figur der Markgräfin Uta gilt als die 'schönste Frau des Mittelalters' und ist eine Ikone der europäischen Kunstgeschichte. Die Architektur des Doms markiert in einzigartiger Weise den Übergang von der Spätromanik zur Frühgotik. Die geschlossene mittelalterliche Ausstattung und die eindrucksvollen Glasmalereien machen den Dom zu einem der bedeutendsten Kulturgüter Europas. Kunstgeschichte K8 – Mittelalterliche Bildhauerkunst und Kathedralbau.",
-      hu: "A(z) Naumburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Naumburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Catedrala din Naumburg, inclusă în patrimoniul UNESCO, este o capodoperă a artei și arhitecturii medievale europene. Este celebră în special pentru cele 12 statui ale ctitorilor, realizate de misteriosul 'Maestru de Naumburg', printre care se numără și figura fascinantă a margrafei Uta, considerată un ideal de frumusețe medievală. Catedrala îmbină elemente romanice și gotice într-un mod armonios, având două coruri opuse, un caz rar în arhitectura sacră. Situată în inima regiunii viticole Saale-Unstrut, catedrala rămâne un simbol al puterii spirituale și artistice a secolului al XIII-lea, atrăgând anual mii de pelerini și iubitori de artă. Istorie K7 – Sculptura gotică și importanța episcopiilor medievale.",
-      en: "Naumburg Cathedral, dedicated to St. Peter and St. Paul, is one of the most significant architectural monuments of the European Middle Ages and a UNESCO World Heritage site since 2018. It is world-famous for the 'Naumbburg Master,' an anonymous sculptor who created the twelve donor statues in the west choir, including the iconic 'Uta von Ballenstedt.' These statues are considered masterpieces of realism and psychological depth, unlike anything else in 13th-century art. The cathedral uniquely features two choirs, reflecting the transition from Romanesque to Gothic architecture. Perched in the heart of the Saale-Unstrut wine region, it remains a majestic symbol of the spiritual and artistic wealth of the medieval Holy Roman Empire. Geschichte K8 – Medieval sculpture and the Naumburg Master."
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Weltkulturerbe seit 2018 als Meisterwerk menschlicher Schöpferkraft.", "Die Stifterfigur 'Uta von Ballenstedt' ist eine Ikone der Bildhauerei.", "Besitzt zwei Chöre (Ost- und Westchor), was für Dome extrem selten ist.", "Die Lettner (Trennwände zwischen Chor und Schiff) sind meisterhaft verziert.", "Der Naumburger Meister ist ein namentlich unbekannter, genialer Bildhauer.", "Die ältesten Glasmalereien im Dom stammen aus der Zeit um 1250."],
-      hu: [
-        "A(z) Naumburger Dom területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Naumburger Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Inclusă în lista patrimoniului mondial UNESCO în anul 2018.", "Statuia margrafei Uta este considerată o 'Mona Lisa a Germaniei'.", "Edificiul actual a fost construit în principal în secolul al XIII-lea.", "Deține două ecrane de cor (Lettner) medievale, singura catedrală cu această trăsătură.", "Vitraliile din corul de vest sunt printre cele mai vechi și bine conservate din Germania.", "Este situată la confluența râurilor Saale și Unstrut, într-o zonă viticolă veche."],
-      en: ["UNESCO World Heritage site since 2018.", "Home to the statue of 'Uta of Naumburg', a global icon of medieval beauty.", "Features unique double-choir architecture with two rood screens.", "Designed and sculpted by the mysterious 'Naumburg Master' in the 13th century.", "The cathedral's Treasury is one of the richest in Saxony-Anhalt.", "A primary stop on the 'Romanesque Road' across Germany."]
-    },
-  },
-  {
     id: "landmark-nebra-himmelsscheibe-extra",
     type: "landmark",
     parent: "DE-ST",
@@ -990,44 +762,6 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Discul are un diametru de aproximativ 32 de centimetri și cântărește 2 kilograme.", "A fost găsit de căutători de comori neautorizați pe muntele Mittelberg.", "Datează din aproximativ anul 1600 î.Hr., aparținând culturii Unetice.", "Este considerat o 'Busolă a Credinței' care combina religia cu observația astronomică.", "Piesa originală este expusă la Muzeul de Stat pentru Preistorie din Halle (Saale).", "Arche Nebra include un planetariu și o platformă de observație pe locul descoperirii."],
       en: ["The world's oldest concrete representation of the night sky (3,600 years old).", "Found in 1999 by looters on the Mittelberg hill near Nebra.", "Made of bronze with gold inlays representing the sun, moon, and stars.", "Part of the UNESCO 'Memory of the World' International Register.", "Proves that Bronze Age humans had advanced astronomical knowledge.", "Original is displayed in the State Museum of Prehistory in Halle."]
-    },
-  },
-  {
-    id: "landmark-bauhaus-dessau-extra",
-    type: "landmark",
-    parent: "DE-ST",
-    coords: [12.2300, 51.8400],
-    name: { de: "Bauhaus Dessau", hu: "Bauhaus Dessau", ro: "Bauhaus Dessau", en: "Bauhaus Dessau" },
-    description: {
-      de: "Das Bauhausgebäude in Dessau ist eines der bedeutendsten Bauwerke der Moderne und wurde von Walter Gropius entworfen. Es ist Teil des UNESCO-Welterbes 'Bauhaus und seine Stätten in Weimar, Dessau und Bernau'. Das Gebäude ist ein Meilenstein in der Geschichte des Designs und der Architektur.",
-      hu: "A dessaui Bauhaus-épület a modernizmus egyik legjelentősebb alkotása, Walter Gropius tervezte. Az 'UNESCO-világörökség: Bauhaus és helyszínei Weimarban, Dessauban és Bernauban' részét képezi. Az épület mérföldkő a design és az építészet történetében.",
-      ro: "Clădirea Bauhaus din Dessau este una dintre cele mai importante construcții ale modernismului și a fost proiectată de Walter Gropius. Face parte din Patrimoniul Mondial UNESCO 'Bauhaus și siturile sale din Weimar, Dessau și Bernau'. Clădirea este un jalon în istoria designului și arhitecturii.",
-      en: "The Bauhaus building in Dessau is one of the most significant buildings of Modernism and was designed by Walter Gropius. It is part of the UNESCO World Heritage 'Bauhaus and its Sites in Weimar, Dessau and Bernau'. The building is a milestone in the history of design and architecture.",
-    },
-    facts: {
-      de: ["Das Bauhausgebäude wurde 1926 fertiggestellt.", "UNESCO-Welterbe seit 1996.", "Walter Gropius entwarf das Gebäude.", "Das Bauhaus beeinflusste Design und Architektur weltweit."],
-      hu: ["A Bauhaus-épület 1926-ban készült el.", "1996 óta UNESCO-világörökség.", "Walter Gropius tervezte az épületet.", "A Bauhaus a tervezés és az építészet területén világszerte hatást gyakorolt."],
-      ro: ["Clădirea Bauhaus a fost finalizată în 1926.", "Patrimoniu Mondial UNESCO din 1996.", "Walter Gropius a proiectat clădirea.", "Bauhaus a influențat designul și arhitectura la nivel mondial."],
-      en: ["The Bauhaus building was completed in 1926.", "UNESCO World Heritage site since 1996.", "Walter Gropius designed the building.", "The Bauhaus influenced design and architecture worldwide."],
-    },
-    descriptionAdvanced: {
-      de: "Das Bauhaus Dessau ist das weltweit bekannteste Bauwerk der klassischen Moderne und war von 1925 bis 1932 Sitz der berühmten Designschule. Entworfen von Walter Gropius, verkörpert es mit seiner Glasvorhangfassade und der funktionalen Trennung der Gebäudeteile die radikale Erneuerung der Architektur. Hier lehrten Künstler wie Kandinsky, Klee und Moholy-Nagy an der Vision einer neuen Gestaltung für den modernen Menschen. Zusammen mit den Meisterhäusern gehört das Ensemble zum UNESCO-Weltkulturerbe. Heute ist die Stiftung Bauhaus Dessau ein Ort der Forschung, Lehre und Gestaltung, der jährlich hunderttausende Besucher anzieht, die den Geist der Avantgarde hautnah erleben wollen. Kunstgeschichte K8 – Die Moderne und das Prinzip 'Form follows Function'.",
-      hu: "A(z) Bauhaus Dessau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bauhaus Dessau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Clădirea Bauhaus din Dessau, proiectată de Walter Gropius și inaugurată în 1926, este cel mai influent monument al arhitecturii moderne din lume. Cu fațada sa revoluționară de sticlă 'curtain wall' și designul funcționalist care elimină ornamentele inutile, edificiul a stabilit principiile care definesc designul și arhitectura secolului XX: 'forma urmează funcția'. Inclus în patrimoniul UNESCO, complexul include atelierele, școala și căminele studențești unde au activat pionieri precum Kandinsky și Klee. Bauhaus Dessau nu este doar o clădire, ci simbolul unei mișcări intelectuale care a căutat să integreze arta cu tehnologia industrială pentru a îmbunătăți viața cotidiană. Arta K8 – Modernismul și revoluția designului industrial.",
-      en: "The Bauhaus Dessau is the global icon of modern architecture and the most influential design school of the 20th century. Established in 1925 after moving from Weimar, the school's main building, designed by Walter Gropius, is a masterpiece of functionalism, featuring the revolutionary glass curtain wall. Here, masters like Kandinsky, Klee, and Schlemmer taught a new generation of artists to merge industrial production with individual creativity. The Dessau site, recognized as a UNESCO World Heritage site, includes the Bauhaus building, the Masters' Houses, and the Dessau-Törten Housing Estate. Today, it remains a living laboratory for architecture and design, attracting visitors from all over the world who want to experience the birthplace of the 'International Style.' Geschichte K8 – Modernism and the Bauhaus movement."
-    },
-    factsAdvanced: {
-      de: ["Hauptsitz der Bauhaus-Schule unter Walter Gropius ab 1925.", "UNESCO-Weltkulturerbe seit 1996 als Ikone der Moderne.", "Markenzeichen ist die gläserne 'Curtain Wall' des Werkstättentraktes.", "Geburtsstätte zahlreicher Design-Klassiker (z. B. Freischwinger-Stühle).", "Beherbergt heute das neue Bauhaus-Museum Dessau im Stadtzentrum.", "In den Meisterhäusern lebten und arbeiteten die berühmtesten Bauhaus-Lehrer."],
-      hu: [
-        "A(z) Bauhaus Dessau területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Bauhaus Dessau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Clădirea a fost sediul școlii Bauhaus între anii 1925 și 1932.", "Fațada de sticlă de 1.000 m² a fost o inovație tehnică absolută la data construcției.", "Include Casele Maeștrilor (Meisterhäuser), unde locuiau profesorii școlii.", "A fost declarată patrimoniu mondial UNESCO în anul 1996.", "A fost grav avariată în timpul războiului și restaurată fidel în anii 1970.", "Găzduiește astăzi Fundația Bauhaus Dessau și un muzeu dedicat mișcării."],
-      en: ["UNESCO World Heritage site and birthplace of modern design.", "The Bauhaus school was active in Dessau from 1925 to 1932.", "The building features the first large-scale 'glass curtain wall' in history.", "Home to the 'Masters' Houses' (Meisterhäuser) for famous artists.", "Includes the new Bauhaus Museum Dessau, opened in 2019.", "A central pillar of the 'Modernism Route' through Saxony-Anhalt."]
     },
   },
   {

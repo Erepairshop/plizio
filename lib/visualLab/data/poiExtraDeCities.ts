@@ -3452,7 +3452,7 @@ export const poiExtraDeCities: POI[] = [
     "facts": {
       "de": [
         "Zentrum der Sorben",
-        "Bautz’ner Senf",
+        "Bautz'ner Senf",
         "Alte Wasserkunst",
         "Stadt der Türme"
       ],
@@ -4449,7 +4449,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Neumünster, un oraș vibrant din inima landului Schleswig-Holstein, este un centru economic și cultural important, situat pe râul Schwale. Cunoscut istoric pentru industria sa textilă înfloritoare, orașul și-a transformat cu succes moștenirea industrială într-o atracție modernă. Astăzi, este renumit pentru McArthurGlen Designer Outlet, care atrage vizitatori din întreaga regiune pentru cumpărături de lux la prețuri reduse. Pe lângă comerț, Neumünster este un nod feroviar crucial, conectând nordul Germaniei. Muzeul 'Tuch + Technik' oferă o incursiune fascinantă în trecutul textil al orașului, prezentând mașini istorice și procese de fabricație. Orașul, a cărui primă mențiune documentară datează din 1127, îmbină farmecul istoric cu dinamismul economic, fiind un exemplu de regenerare urbană reușită în Geografia K7 — Râuri și orașe.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4508,7 +4508,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Norderstedt, cel mai mare oraș din districtul Segeberg, este un exemplu de dezvoltare modernă, fiind format în 1970 prin unirea a patru localități. Ca parte a regiunii metropolitane Hamburg, beneficiază de o locație strategică, aproape de aeroportul Hamburg, ceea ce a impulsionat dezvoltarea sa economică. Orașul este un centru de afaceri dinamic, cu numeroase parcuri industriale și companii inovatoare. Pentru recreere, Norderstedt oferă parcuri extinse și complexul acvatic 'Arriba', o destinație populară pentru familii. Cu o infrastructură excelentă și o calitate înaltă a vieții, orașul reprezintă o sinteză reușită între viața urbană și proximitatea față de natură. Istorie K8 — Dezvoltare urbană postbelică.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4567,7 +4567,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Pinneberg, capitala districtului omonim, este un oraș recunoscut pentru pepinierele sale, care joacă un rol central în economia locală și i-au adus renumele de 'orașul pepinierelor'. Situat la nord-vest de Hamburg, orașul îmbină farmecul provincial cu avantajele proximității față de metropolă. Un simbol al orașului este turnul de apă istoric, o mărturie a arhitecturii industriale de la începutul secolului XX. Centrul orașului, cu clădirile sale din cărămidă și micile magazine, invită la plimbări relaxante. Pinneberg este, de asemenea, un punct de plecare ideal pentru a explora peisajul rural înconjurător, caracterizat de spații verzi și de râul Pinnau. Agricultură K6 — Horticultură și pepiniere.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4626,7 +4626,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Itzehoe, unul dintre cele mai vechi orașe din Schleswig-Holstein, are o istorie bogată ce datează din secolul al IX-lea, fiind fondat în jurul unui castel construit pentru a se apăra împotriva vikingilor. Astăzi, este un centru administrativ și comercial pe malul râului Stör. Orașul vechi (Altstadt) păstrează clădiri istorice, precum Biserica Sf. Laurențiu, o impunătoare biserică gotică din cărămidă. Itzehoe este, de asemenea, un sediu important pentru inovație, găzduind Fraunhofer-Institut für Siliziumtechnologie (ISIT), un lider în cercetarea microelectronicii. Această dualitate între moștenirea istorică și tehnologia de vârf definește caracterul unic al orașului. Istorie K7 — Evul Mediu timpuriu în nordul Germaniei.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4685,7 +4685,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Elmshorn este un oraș industrial și comercial important în districtul Pinneberg, situat pe râul Krückau. Dezvoltarea sa a fost puternic influențată de industrializare în secolul al XIX-lea, în special în prelucrarea pieilor și producția de cereale. Astăzi, orașul este un centru economic diversificat, cu companii din sectorul alimentar (Kölln Flocken) și inginerie. Podul basculant istoric (Käsklappbrücke) peste Krückau este un reper tehnic interesant. Elmshorn este, de asemenea, cunoscut pentru 'Flora-Woche', un festival anual popular care atrage numeroși vizitatori. Proximitatea față de Hamburg și buna conectivitate fac din Elmshorn o locație atractivă pentru afaceri și rezidenți. Industrie K8 — Revoluția industrială.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4744,7 +4744,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Schleswig, un oraș cu o importanță istorică deosebită, este situat pe malurile fiordului Schlei. A fost un centru vital în epoca vikingilor, cunoscut sub numele de Hedeby (Haithabu), unul dintre cele mai mari așezări comerciale din nordul Europei. Astăzi, Muzeul Viking Haithabu, aflat în apropiere, oferă o reconstituire impresionantă a vieții de atunci. Castelul Gottorf, o altă atracție majoră, domină peisajul și găzduiește două muzee de stat importante. Catedrala Sf. Petru, cu faimosul său altar Brüggemann, este un exemplu remarcabil de arhitectură gotică. Istoria bogată, de la vikingi la ducii de Schleswig-Holstein, face din acest oraș o destinație culturală fascinantă. Istorie K6 — Epoca Vikingilor.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4803,7 +4803,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Rendsburg este un oraș situat strategic în centrul landului Schleswig-Holstein, pe malurile Canalului Kiel, cea mai aglomerată cale navigabilă artificială din lume. Simbolul orașului este podul feroviar înalt, o capodoperă a ingineriei de la începutul secolului XX. Sub pod se află o 'navă-bac' suspendată (Schwebefähre), un mod de traversare unic în Germania. Centrul istoric al orașului, cu piețele sale vechi și străzile înguste, reflectă o istorie de peste 800 de ani. Evenimentul anual 'Rendsburger Herbst', un mare târg popular, atrage zeci de mii de vizitatori. Poziția sa pe canal și rolul de nod de transport subliniază importanța sa economică. Geografie K8 — Canale navigabile și transport maritim.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4862,7 +4862,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Heide, situat în districtul Dithmarschen, este cunoscut pentru cea mai mare piață neconstruită din Germania, cu o suprafață de 4,7 hectare. Această piață imensă găzduiește săptămânal târguri tradiționale, inclusiv faimosul 'Heider Marktfrieden', un festival medieval. Orașul are o identitate regională puternică, legată de istoria Republicii țărănești libere Dithmarschen. Biserica Sf. Jurgen este o clădire importantă, iar turnul său de apă oferă o priveliște panoramică asupra regiunii plate. Economia locală este diversificată, incluzând energie regenerabilă și turism. Proximitatea față de coasta Mării Nordului face din Heide un punct de plecare pentru a explora parcul național Wadden Sea. Istorie K7 — Forme de guvernare medievale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4921,7 +4921,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Husum, 'orașul gri de la mare' (die graue Stadt am Meer), așa cum l-a numit scriitorul Theodor Storm, este un port pitoresc la Marea Nordului. În ciuda poreclei, orașul este plin de culoare, în special primăvara, când milioane de brândușe înfloresc în parcul castelului, creând un 'covor' mov spectaculos. Portul interior, cu mareele sale vizibile, este inima orașului, plin de restaurante și magazine. Casa memorială Theodor Storm, unde a locuit faimosul scriitor, este acum un muzeu. Castelul din Husum (Schloss vor Husum) găzduiește evenimente culturale și un muzeu. Economia este bazată pe turism, energie eoliană și comerț. Geografie K6 — Maree și zone costiere.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -4980,7 +4980,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Eckernförde este o stațiune balneară fermecătoare pe coasta Mării Baltice, situată la capătul fiordului Eckernförder Bucht. Orașul este renumit pentru plaja sa lungă de nisip, portul pitoresc și centrul istoric bine conservat. În fiecare lună, aici are loc cel mai mare târg de pește din Schleswig-Holstein. O specialitate locală este 'Kieler Sprotte', un tip de pește afumat, care, în ciuda numelui, provine din Eckernförde. Podul pietonal din lemn care traversează portul și farul vechi sunt simboluri ale orașului. Fabrica de bomboane 'Bonbonkocherei Hermann Hinrichs' este o atracție dulce pentru vizitatori. Economia se bazează pe turism, servicii și industria alimentară. Geografie K7 — Marea Baltică și fiordurile sale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5039,7 +5039,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Homburg, al treilea cel mai mare oraș din Saarland, este un centru administrativ și comercial important. Orașul este cunoscut pentru fabrica de bere Karlsberg, una dintre cele mai mari din Germania, care oferă și tururi pentru vizitatori. Un punct de atracție major sunt peșterile Schlossberg (Schlossberghöhlen), cele mai mari peșteri de gresie colorată din Europa, create de mâna omului. Ruinele cetății Hohenburg de pe dealul Schlossberg oferă o priveliște panoramică asupra orașului. Homburg este, de asemenea, un centru medical important, găzduind spitalul universitar al landului Saarland. Istorie K8 — Minerit și peșteri artificiale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5098,7 +5098,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Völklingen este un oraș dominat de moștenirea sa industrială, fiind faimos pentru Uzinele Siderurgice Völklingen (Völklinger Hütte), un monument industrial masiv și singurul de acest fel din lume care a fost păstrat integral. Acest complex, un sit al Patrimoniului Mondial UNESCO, este o mărturie impresionantă a epocii fierului și oțelului. Astăzi, fosta uzină este un centru cultural vibrant, găzduind expoziții de artă, concerte și evenimente. Vizitatorii pot explora furnalele înalte și instalațiile complexe, înțelegând procesul de producție a fontei. Orașul în sine reflectă istoria sa muncitorească, oferind o perspectivă unică asupra transformării unei regiuni industriale. Industrie K8 — Patrimoniu industrial UNESCO.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5157,7 +5157,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Sankt Wendel, un oraș pitoresc din Saarland, este numit după Sfântul Wendelin, un sfânt patron al păstorilor. Bazilica gotică târzie, care adăpostește mormântul sfântului, este centrul spiritual și arhitectural al orașului și un important loc de pelerinaj. Centrul vechi este plin de farmec, cu clădiri medievale și piețe animate. Orașul este, de asemenea, cunoscut ca un centru pentru ciclism, găzduind frecvent competiții internaționale de mountain bike și ciclocros. Drumul Sculpturilor (Straße der Skulpturen), care leagă St. Wendel de Lacul Bostal, este o galerie de artă în aer liber. Istorie K7 — Pelerinaje și artă gotică.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5216,7 +5216,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Merzig, 'orașul lupilor', este situat pe râul Saar și este cunoscut pentru parcul de lupi Werner Freund (Wolfspark Werner Freund), unde vizitatorii pot observa lupi în semi-libertate. Orașul este, de asemenea, un 'oraș verde', cu numeroase parcuri și grădini, cum ar fi Grădina Sănătății (Garten der Sinne). Biserica romanică Sf. Petru este una dintre cele mai vechi clădiri din regiune. Merzig este un centru pentru producția de 'Viez', un tip de cidru de mere tradițional. Economia locală este diversificată, incluzând producția de plăci ceramice Villeroy & Boch. Poziția sa în 'Triunghiul Saar-Lor-Lux' îi conferă o importanță transfrontalieră. Natură K5 — Animale sălbatice din Europa.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5275,7 +5275,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Dillingen/Saar este un oraș industrial cu o istorie lungă în producția de oțel. Uzinele siderurgice (Dillinger Hütte), fondate în 1685, sunt cele mai vechi în funcțiune din Germania și un pilon al economiei locale. Orașul este un exemplu de simbioză între industrie și viața urbană. Castelul Dillingen, o clădire renascentistă, servește astăzi ca primărie și centru cultural. 'Lokschuppen', un depou de locomotive restaurat, este acum o sală de evenimente impresionantă. Portul de pe râul Saar subliniază importanța logistică a orașului. Dillingen este un exemplu viu al istoriei industriale a regiunii Saar. Industrie K9 — Istoria oțelului.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5334,7 +5334,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Lebach este situat în inima geografică a landului Saarland, ceea ce i-a conferit porecla 'inima verde a Saarlandului'. Orașul este un centru militar important, găzduind o garnizoană a Bundeswehr. Din punct de vedere istoric, este cunoscut pentru 'Crimele din Lebach' din 1969, un caz care a șocat Germania și a dus la o decizie importantă a Curții Constituționale privind libertatea presei. Kaltenstein, o formațiune de rocă vulcanică, este un monument natural și un punct de belvedere. 'Grüne Woche', un festival anual, este cel mai mare eveniment de acest gen din sud-vestul Germaniei. Istorie K9 — Istorie recentă și media.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5393,7 +5393,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Suhl, un oraș situat în inima Pădurii Turingiei, este renumit de secole pentru producția de arme de foc. Supranumit 'Waffenstadt' (orașul armelor), are o tradiție neîntreruptă în armurieri din secolul al XVI-lea. Muzeul Armelor (Waffenmuseum) din centrul orașului prezintă această istorie bogată. Pe lângă aceasta, Suhl este un centru pentru sporturile de iarnă, având facilități pentru biatlon și sărituri cu schiurile. Clădirile din perioada RDG, cum ar fi fostul hotel 'Merkur', definesc o parte a peisajului urban. Datorită locației sale, este un punct de plecare popular pentru drumeții în Pădurea Turingiei. Industrie K8 — Meșteșuguri specializate.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5452,7 +5452,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Mühlhausen, un oraș istoric din Turingia, se mândrește cu unul dintre cele mai mari centre medievale din Germania. Zidurile de apărare ale orașului, cu numeroasele lor turnuri, sunt remarcabil de bine conservate. Biserica Sf. Maria (Marienkirche), unde a activat ca organist compozitorul Johann Sebastian Bach, este un important monument gotic. Orașul a fost, de asemenea, un centru al Războiului Țărănesc German, condus de reformatorul radical Thomas Müntzer. În fiecare an, festivalul 'Mühlhäuser Kirmes' este cel mai mare târg de oraș din Germania. Istorie K7 — Orașe medievale și Reforma.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5511,7 +5511,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Nordhausen, situat la poalele sudice ale munților Harz, este un oraș cu o istorie complexă. Este cunoscut pentru producția de băuturi spirtoase, în special 'Nordhäuser Doppelkorn', o tradiție de peste 500 de ani. Istoria sa este însă marcată și de perioade întunecate; în apropiere se afla lagărul de concentrare Mittelbau-Dora, unde prizonierii produceau rachete V2 în condiții inumane. Astăzi, un memorial comemorează victimele. Orașul vechi, parțial distrus în 1945, a fost reconstruit și păstrează clădiri istorice precum Catedrala Sf. Cruce. Calea ferată cu ecartament îngust din Harz (Harzer Schmalspurbahnen) leagă orașul de peisajele montane. Istorie K9 — Al Doilea Război Mondial și memoria sa.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5570,7 +5570,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Altenburg, un oraș de peste o mie de ani în Turingia, este considerat leagănul jocului de cărți Skat. Muzeul Cărților de Joc, situat în castelul rezidențial, prezintă această istorie fascinantă. Castelul însuși, cu turnurile sale impunătoare, domină orașul și a fost reședința ducilor de Saxa-Altenburg. Teatrul de stat, o clădire splendidă în stil neo-baroc, este un alt punct de atracție culturală. Centrul istoric este bine conservat, cu clădiri renascentiste și o primărie impunătoare. Grădina Botanică și muzeul de istorie naturală Mauritianum completează oferta culturală a orașului. Cultură K6 — Jocuri și tradiții.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5629,7 +5629,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Sondershausen, situat în nordul Turingiei, este un oraș al muzicii și al mineritului de potasiu. Castelul rezidențial, o combinație de stiluri arhitecturale, a fost reședința prinților de Schwarzburg-Sondershausen și găzduiește un muzeu cu colecții unice, inclusiv o 'trăsură de aur'. Orașul este renumit pentru orchestra sa, Loh-Orchester Sondershausen, cu o istorie de peste 400 de ani. O atracție unică este mina de potasiu vizitabilă (Erlebnisbergwerk), unde vizitatorii pot coborî la 700 de metri sub pământ și pot explora o lume de sare, inclusiv o sală de concerte subterană. Geografie K8 — Minerit și resurse naturale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5688,7 +5688,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Apolda este un oraș din Turingia cunoscut pentru două tradiții distincte: tricotajele și clopotele. Timp de secole, a fost un centru major al industriei textile, în special pentru ciorapi și tricotaje, o moștenire explorată în muzeul local. În același timp, Apolda a fost un centru renumit pentru turnarea clopotelor; clopote din Apolda pot fi găsite în catedrale din întreaga lume, inclusiv la Köln. Kunsthaus Apolda Avantgarde, o galerie de artă modernă, atrage expoziții de renume internațional. Viaductul feroviar, construit în 1846, este un monument tehnic impresionant. Orașul este un amestec de moștenire industrială și ambiție culturală. Industrie K7 — Meșteșuguri și producție.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5747,7 +5747,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Ilmenau, un oraș universitar situat în Pădurea Turingiei, este strâns legat de viața și opera lui Johann Wolfgang von Goethe. Poetul a vizitat frecvent orașul și a găsit inspirație în peisajele sale, scriind celebrul poem 'Wandrers Nachtlied' pe un perete al unei cabane de vânătoare de pe muntele Kickelhahn. Astăzi, Universitatea Tehnică din Ilmenau este un centru de excelență în cercetare. Orașul este un punct de plecare ideal pentru drumeții pe 'Goethewanderweg', un traseu tematic. Industria sticlei a avut, de asemenea, o lungă tradiție aici. Cultură K9 — Romantismul german și Goethe.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5806,7 +5806,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Schmalkalden este un oraș istoric cu un centru medieval excepțional de bine conservat, plin de case pe jumătate din lemn (Fachwerk). Orașul a jucat un rol crucial în istoria Reformei Protestante, fiind locul unde a fost formată Liga de la Schmalkalden în 1531, o alianță a principilor protestanți. Castelul Wilhelmsburg, o bijuterie a arhitecturii renascentiste, a fost construit ca reședință secundară pentru landgrafii de Hessa și este aproape neschimbat de la construcția sa. Expoziția 'Viba Nougat-Welt' oferă o incursiune dulce în lumea producției de nugat. Istorie K8 — Reforma Protestantă.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5865,7 +5865,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Anklam, situat pe râul Peene, este cunoscut ca 'orașul lui Lilienthal' (Lilienthalstadt), în onoarea pionierului aviației Otto Lilienthal, care s-a născut aici. Muzeul Otto Lilienthal, cu replicile sale de planoare, celebrează viața și munca sa inovatoare. Orașul face parte din regiunea istorică Pomerania și are un centru cu clădiri gotice din cărămidă, tipice pentru regiunea baltică. Biserica Sf. Maria și Poarta de Piatră (Steintor) sunt exemple remarcabile. Datorită locației sale, orașul este un punct de plecare pentru excursii în Parcul Natural 'Flusslandschaft Peenetal', supranumit 'Amazonul Nordului'. Istorie K8 — Pionierii aviației.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5924,7 +5924,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Waren (Müritz) este o stațiune balneară situată pe malul celui mai mare lac interior din Germania, Müritz. Inima orașului este portul său plin de viață, de unde pornesc vapoare de pasageri pentru a explora regiunea lacurilor Mecklenburg. Müritzeum, un centru modern al naturii, oferă o incursiune fascinantă în flora și fauna regiunii, cu un acvariu imens pentru peștii de apă dulce. Centrul istoric este bine conservat, cu case pe jumătate din lemn și biserici din cărămidă. Orașul este poarta de intrare către Parcul Național Müritz, o zonă vastă de păduri și lacuri, ideală pentru drumeții și observarea păsărilor. Natură K6 — Ecosisteme lacustre.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -5983,7 +5983,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Güstrow, un oraș renascentist din Mecklenburg, este strâns legat de numele sculptorului Ernst Barlach. Atelierul și casa sa sunt acum muzee, iar multe dintre operele sale celebre, cum ar fi 'Îngerul plutitor' (Der Schwebende Engel), pot fi văzute în oraș. Castelul Güstrow este una dintre cele mai importante clădiri renascentiste din nordul Germaniei și a fost reședința ducilor de Mecklenburg. Catedrala, o biserică gotică din cărămidă, adăpostește o replică a 'Îngerului plutitor'. Parcul natural și de mediu (Natur- und Umweltpark) oferă o experiență educativă, prezentând fauna locală, inclusiv lupi și urși. Cultură K9 — Expresionismul german și Ernst Barlach.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -6042,7 +6042,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Parchim, situat în Mecklenburg-Vorpommern, este un oraș cu o istorie bogată, marcat de arhitectura gotică din cărămidă. Primăria impunătoare și cele două biserici parohiale, Sf. Gheorghe și Sf. Maria, domină peisajul urban. Orașul este locul de naștere al mareșalului prusac Helmuth von Moltke cel Bătrân, a cărui casă memorială poate fi vizitată. Zidurile medievale ale orașului sunt parțial conservate. În ultimii ani, orașul a devenit cunoscut pentru aeroportul său, Parchim International Airport, care a fost dezvoltat cu investiții chineze pentru a deveni un hub de marfă între China și Europa. Istorie K8 — Istoria Prusiei.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -6101,7 +6101,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Demmin, un oraș hanseatic situat la confluența a trei râuri (Peene, Tollense și Trebel), este adesea numit 'orașul celor trei râuri'. Această locație strategică i-a adus prosperitate în Evul Mediu. Biserica Sf. Bartolomeu, o impunătoare biserică gotică din cărămidă, domină silueta orașului. Istoria sa este marcată de o tragedie la sfârșitul celui de-al Doilea Război Mondial, când sute de civili s-au sinucis în masă la venirea Armatei Roșii. Astăzi, Demmin este un centru regional liniștit, înconjurat de peisaje naturale atractive, ideale pentru sporturi nautice și pescuit. Geografie K7 — Confluențe de râuri.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {
@@ -6160,7 +6160,7 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
+      "ro": "Bad Doberan este o stațiune balneară elegantă, renumită pentru complexul său monastic cistercian. Catedrala (Doberaner Münster), o capodoperă a goticului din cărămidă, este considerată una dintre cele mai importante biserici de acest stil din regiunea baltică și are un interior aproape complet conservat din Evul Mediu. O altă atracție unică este 'Molli', un tren cu aburi istoric cu ecartament îngust, care leagă Bad Doberan de stațiunile de pe litoral Heiligendamm și Kühlungsborn, circulând parțial chiar pe străzile orașului. Heiligendamm, parte a orașului, este cea mai veche stațiune balneară de pe litoralul german, fondată în 1793. Arhitectură K8 — Goticul din cărămidă.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
     },
     "facts": {

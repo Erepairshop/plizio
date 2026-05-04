@@ -121,7 +121,7 @@ export const mvQuiz: QuizTask[] = [
     optionPoiIds: [
       "hist-stralsund-hansestadt",
       "city-rostock",
-      "city-rostock-extra",
+      "hist-wismar-hansestadt",
       "city-schwerin",
       "island-usedom"
     ],
