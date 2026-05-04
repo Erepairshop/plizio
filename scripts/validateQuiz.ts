@@ -54,7 +54,7 @@ function parsePois(filePath: string) {
   // Match each POI entry: { id: "...", type: "...", parent: "...", coords: [lon, lat], ... }
   // Simple but effective for the current data style
   const idRe = /id:\s*["']([^"']+)["']/g;
-  const blocks = src.split(/\n  \{/); // split on object-start
+  const blocks = src.split(/\n\s*\{/); // split on object-start (any leading indent)
   for (const block of blocks) {
     const idM = /id:\s*["']([^"']+)["']/.exec(block);
     if (!idM) continue;

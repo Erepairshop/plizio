@@ -104,9 +104,9 @@ export const itQuizTasks: QuizTask[] = [
       ro: "Care oraș NU se află în Toscana? Apasă pe el!",
       en: "Which city is NOT in Tuscany? Click on it!",
     },
-    // Florence (reg-toscana), it-siena (IT-52/Toscana), it-san-gimignano (IT-52/Toscana) are in Tuscany;
-    // it-perugia (IT-55/Umbria) and it-ravenna (IT-45/Emilia-Romagna) are NOT in Tuscany
-    optionPoiIds: ["florence", "it-siena", "it-san-gimignano", "it-perugia", "it-ravenna"],
+    // florence (reg-toscana) is in Tuscany; rome/milan/naples/it-perugia/it-ravenna are NOT.
+    // The asked-for "wrong" (NOT in Tuscany) here is it-perugia (Umbria).
+    optionPoiIds: ["florence", "rome", "milan", "it-perugia", "it-ravenna"],
     wrongPoiId: "it-perugia",
   },
   {

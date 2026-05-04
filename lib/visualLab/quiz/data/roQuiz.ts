@@ -15,7 +15,7 @@ export const roQuizTasks: QuizTask[] = [
       ro: "Apasă pe București pe hartă!",
       en: "Click on Bucharest on the map!",
     },
-    targetPoiId: "city-bucuresti",
+    targetPoiId: "RO-B",
   },
   {
     id: "ro-cp-2",
@@ -26,7 +26,7 @@ export const roQuizTasks: QuizTask[] = [
       ro: "Arată Cluj-Napoca pe hartă!",
       en: "Show Cluj-Napoca on the map!",
     },
-    targetPoiId: "city-cluj-napoca",
+    targetPoiId: "RO-CJ",
   },
   {
     id: "ro-cp-3",
@@ -37,7 +37,7 @@ export const roQuizTasks: QuizTask[] = [
       ro: "Apasă pe Timișoara pe hartă!",
       en: "Click on Timișoara on the map!",
     },
-    targetPoiId: "city-timisoara",
+    targetPoiId: "RO-TM",
   },
 
   // --- 2 × click_county ---
@@ -74,8 +74,8 @@ export const roQuizTasks: QuizTask[] = [
       ro: "Cât de departe este București de Cluj-Napoca? Apasă pe ambele orașe!",
       en: "How far is Bucharest from Cluj-Napoca? Click on both cities!",
     },
-    targetPoiId: "city-bucuresti",
-    targetPoiId2: "city-cluj-napoca",
+    targetPoiId: "RO-B",
+    targetPoiId2: "RO-CJ",
     expectedKm: 324,
   },
   {
@@ -87,8 +87,8 @@ export const roQuizTasks: QuizTask[] = [
       ro: "Cât de departe este Timișoara de Iași? Apasă pe ambele orașe!",
       en: "How far is Timișoara from Iași? Click on both cities!",
     },
-    targetPoiId: "city-timisoara",
-    targetPoiId2: "city-iasi",
+    targetPoiId: "RO-TM",
+    targetPoiId2: "RO-IS",
     expectedKm: 560,
   },
 
@@ -103,8 +103,8 @@ export const roQuizTasks: QuizTask[] = [
       en: "One city has a wrong label! Click on the incorrectly labeled city.",
     },
     // city-brasov is shown labeled as "Sibiu" (wrong — Brasov is in RO-BV, not RO-SB)
-    optionPoiIds: ["city-bucuresti", "city-cluj-napoca", "city-brasov", "city-iasi", "city-timisoara"],
-    wrongPoiId: "city-brasov",
+    optionPoiIds: ["RO-B", "RO-CJ", "RO-BV", "RO-IS", "RO-TM"],
+    wrongPoiId: "RO-BV",
   },
   {
     id: "ro-se-2",
@@ -116,8 +116,8 @@ export const roQuizTasks: QuizTask[] = [
       en: "Which city is NOT in Transylvania? Click on it!",
     },
     // Cluj, Brasov, Sibiu, Targu-Mures are in Transylvania; Craiova is in Oltenia (RO-DJ)
-    optionPoiIds: ["city-cluj-napoca", "city-brasov", "city-sibiu", "city-targu-mures", "city-craiova"],
-    wrongPoiId: "city-craiova",
+    optionPoiIds: ["RO-CJ", "RO-BV", "RO-SB", "RO-MS", "RO-DJ"],
+    wrongPoiId: "RO-DJ",
   },
 
   // --- 1 × order_by ---
@@ -131,7 +131,7 @@ export const roQuizTasks: QuizTask[] = [
       en: "Click the cities from west to east: Timișoara → Sibiu → Constanța!",
     },
     // Timișoara (21.21°), Sibiu (24.15°), Constanța (28.63°) — west to east
-    orderedPoiIds: ["city-timisoara", "city-sibiu", "city-constanta"],
+    orderedPoiIds: ["RO-TM", "RO-SB", "RO-CT"],
     orderBy: "west_to_east",
   },
 ];

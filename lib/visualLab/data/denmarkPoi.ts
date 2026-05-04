@@ -1,2160 +1,2495 @@
 import type { POI } from "./poi";
 
 export const denmarkCountry: POI = {
-  id: "denmark",
-  type: "country",
-  parent: "EU",
-  coords: [12.5683, 55.6761],
-  name: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
-  description: {
-    de: "Dänemark ist ein skandinavisches Land, bekannt für seine hohe Lebensqualität, ikonisches Design und als das älteste Königreich Europas.",
-    hu: "Dánia egy skandináv ország, amely magas életminőségéről, ikonikus dizájnjáról és Európa legrégebbi királyságaként ismert.",
-    ro: "Danemarca este o țară scandinavă, cunoscută pentru calitatea ridicată a vieții, designul iconic și ca fiind cel mai vechi regat din Europa.",
-    en: "Denmark is a Scandinavian country known for its high quality of life, iconic design, and as the oldest kingdom in Europe."},
-  descriptionAdvanced: {
-    de: "Dänemark, offiziell das Königreich Dänemark, ist ein faszinierendes Land im Norden Europas, das als südlichstes der skandinavischen Länder eine Brücke zwischen Mitteleuropa und Skandinavien schlägt. Das Land besteht aus der Halbinsel Jütland und einem Archipel von über 400 Inseln, von denen Seeland und Fünen die bedeutendsten sind. Dänemark ist weltberühmt für seine außergewöhnlich hohe Lebensqualität, seine progressive Sozialpolitik und sein wegweisendes Design, das Funktionalität mit Čsthetik verbindet. Als eines der ältesten Königreiche der Welt blickt Dänemark auf eine reiche Geschichte zurück, die von den furchtlosen Wikingern über das mächtige dänische Weltreich bis hin zur modernen, friedliebenden Demokratie reicht. Die Hauptstadt Kopenhagen ist ein globales Vorbild für Nachhaltigkeit und Fahrradkultur, geprägt von malerischen Kanälen, königlichen Palästen und einer erstklassigen Gastronomieszene. Die dänische Landschaft ist geprägt von sanften Hügeln, fruchtbarem Ackerland und einer schier endlosen Küstenlinie mit weißen Sandstränden und dramatischen Klippen wie Møns Klint. Ein zentraler Aspekt der dänischen Identität ist das Konzept von 'Hygge' – ein Gefühl von Gemütlichkeit, Geborgenheit und dem Genuss der kleinen Dinge im Leben. Kulinarisch ist Dänemark die Heimat des Smørrebrød, erstklassiger Backwaren und einer innovativen 'New Nordic Cuisine', die weltweit Maßstäbe setzt. Auch als Geburtsland von Lego und den Märchen von Hans Christian Andersen hat Dänemark die globale Kultur maßgeblich beeinflusst. Heute ist Dänemark ein Vorreiter in den Bereichen erneuerbare Energien, insbesondere Windkraft, und setzt sich leidenschaftlich für den Umweltschutz ein. Ob man die pulsierende Atmosphäre Kopenhagens genießt, die historischen Wikingerstätten in Roskilde erkundet oder die Ruhe an den weiten Stränden Jütlands sucht – Dänemark empfängt seine Besucher mit einer Mischung aus nordischer Gelassenheit, modernem Fortschritt und herzlicher Gastfreundschaft.",
-    hu: "Dánia, hivatalos nevén a Dán Királyság, egy lenyűgöző ország Észak-Európában, amely a skandináv országok legdélibbikeként hidat képez Közép-Európa és Skandinávia között. Az ország a Jütland-félszigetből és egy több mint 400 szigetből álló szigetvilágból áll, amelyek közül Sjælland és Fünen a legjelentősebbek. Dánia világhírű kivételesen magas életminőségéről, progresszív szociális politikájáról és úttörő dizájnjáról, amely a funkcionalitást az esztétikával ötvözi. A világ egyik legrégebbi királyságaként Dánia gazdag történelmi múltra tekint vissza, a félelmet nem ismerő vikingektől kezdve a hatalmas dán birodalmon át a modern, békeszerető demokráciáig. A főváros, Koppenhága, a fenntarthatóság és a kerékpáros kultúra globális példaképe, amelyet festői csatornák, királyi paloták és világszínvonalú gasztronómia jellemez. A dán tájat szelíd dombok, termékeny szántóföldek és egy szinte végtelen tengerpart határozza meg, fehér homokos strandokkal és olyan drámai sziklákkal, mint a Møns Klint. A dán identitás központi eleme a 'Hygge' fogalma – a meghittség, a biztonság és az élet apró örömeinek élvezete. Kulináris szempontból Dánia a Smørrebrød, a kiváló péksütemények és az innovatív 'New Nordic Cuisine' hazája, amely világszerte mércét állít fel. A Lego és Hans Christian Andersen meséinek szülőhazájaként Dánia a globális kultúrára is meghatározó hatást gyakorolt. Ma Dánia úttörő a megújuló energiák, különösen a szélenergia területén, és szenvedélyesen elkötelezett a környezetvédelem mellett. Akár Koppenhága lüktető hangulatát élvezi valaki, akár Roskilde történelmi viking helyszíneit fedezi fel, vagy Jütland tágas strandjain keresi a nyugalmat – Dánia az északi nyugalom, a modern haladás és a szívélyes vendégszeretet keverékével fogadja látogatóit. Földrajz K7 – Dánia földrajza és társadalma.",
-    ro: "Danemarca, oficial Regatul Danemarcei, este o țară fascinantă din nordul Europei, care, fiind cea mai sudică dintre țările scandinave, face legătura între Europa Centrală și Scandinavia. Țara este formată din Peninsula Iutlanda și un arhipelag de peste 400 de insule, dintre care Seeland și Funen sunt cele mai importante. Danemarca este renumită în întreaga lume pentru calitatea sa excepțional de ridicată a vieții, politicile sociale progresiste și designul său inovator, care îmbină funcționalitatea cu estetica. Fiind unul dintre cele mai vechi regate din lume, Danemarca are o istorie bogată, care se întinde de la vikingii neînfricați, prin puternicul imperiu danez, până la democrația modernă și iubitoare de pace de astăzi. Capitala Copenhaga este un model global de sustenabilitate și cultură a bicicletei, marcată de canale pitorești, palate regale și o scenă gastronomică de primă clasă. Peisajul danez este caracterizat de dealuri blânde, terenuri agricole fertile și o linie de coastă aproape nesfârșită, cu plaje cu nisip alb și stânci dramatice precum Møns Klint. Un aspect central al identității daneze este conceptul de 'Hygge' – un sentiment de confort, siguranță și bucurie de a trăi momentele mici ale vieții. Din punct de vedere culinar, Danemarca este patria Smørrebrød-ului, a produselor de patiserie excelente și a unei 'New Nordic Cuisine' inovatoare, care stabilește standarde la nivel mondial. De asemenea, ca țară de origine a Lego și a poveștilor lui Hans Christian Andersen, Danemarca a influențat semnificativ cultura globală. Astăzi, Danemarca este un pionier în domeniul energiilor regenerabile, în special al energiei eoliene, și este pasionată de protecția mediului. Fie că vă bucurați de atmosfera vibrantă a Copenhagăi, explorați siturile istorice ale vikingilor din Roskilde sau căutați liniștea pe plajele întinse ale Iutlandei – Danemarca își întâmpină vizitatorii cu un amestec de calm nordic, progres modern și ospitalitate caldă.",
-    en: "Denmark, officially the Kingdom of Denmark, is a fascinating country in Northern Europe that, as the southernmost of the Scandinavian nations, serves as a bridge between Central Europe and Scandinavia. The country consists of the Jutland Peninsula and an archipelago of over 400 islands, with Zealand and Funen being the most significant. Denmark is world-renowned for its exceptionally high quality of life, progressive social policies, and pioneering design that blends functionality with aesthetics. As one of the oldest kingdoms in the world, Denmark looks back on a rich history spanning from the fearless Vikings through the powerful Danish Empire to today's modern, peace-loving democracy. The capital, Copenhagen, is a global role model for sustainability and bicycle culture, characterized by picturesque canals, royal palaces, and a world-class culinary scene. The Danish landscape is defined by rolling hills, fertile farmland, and a seemingly endless coastline with white sandy beaches and dramatic cliffs like Møns Klint. A central aspect of Danish identity is the concept of 'Hygge'—a sense of coziness, security, and enjoying the small things in life. Culinarily, Denmark is the home of Smørrebrød, excellent pastries, and an innovative 'New Nordic Cuisine' that sets global standards. As the birthplace of Lego and the fairytales of Hans Christian Andersen, Denmark has also significantly influenced global culture. Today, Denmark is a leader in renewable energy, particularly wind power, and is passionately committed to environmental protection. Whether enjoying the vibrant atmosphere of Copenhagen, exploring the historic Viking sites in Roskilde, or seeking peace on the vast beaches of Jutland—Denmark welcomes its visitors with a blend of Nordic composure, modern progress, and warm hospitality."
-  },
-  facts: {
-    en: [
-      "Denmark is often ranked as one of the happiest countries in the world.",
-      "The Danish monarchy is one of the oldest in the world, dating back over 1,000 years.",
-      "The Danish flag, the Dannebrog, is the oldest continuously used national flag in the world.",
-      "Denmark has more bicycles than people in its capital, Copenhagen.",
-      "The country is made up of over 400 named islands.",
-      "Lego was invented in Denmark in 1932.",
-      "The word 'hygge' is a central part of Danish culture, meaning a sense of coziness and well-being.",
-      "Denmark has the world's highest number of Michelin stars per capita.",
-      "The Little Mermaid statue in Copenhagen is one of the most photographed landmarks in the world.",
-      "Denmark is a world leader in wind energy, with wind turbines providing a large part of its electricity."
-    ],
-    de: [
-      "Dänemark wird oft als eines der glücklichsten Länder der Welt eingestuft.",
-      "Die dänische Monarchie ist eine der ältesten der Welt und blickt auf eine über 1.000-jährige Geschichte zurück.",
-      "Die dänische Flagge, der Dannebrog, ist die älteste kontinuierlich verwendete Nationalflagge der Welt.",
-      "In der Hauptstadt Kopenhagen gibt es mehr Fahrräder als Einwohner.",
-      "Das Land besteht aus über 400 benannten Inseln.",
-      "Lego wurde 1932 in Dänemark erfunden.",
-      "Das Wort 'Hygge' ist ein zentraler Bestandteil der dänischen Kultur und bedeutet Gemütlichkeit und Wohlbefinden.",
-      "Dänemark hat weltweit die höchste Anzahl an Michelin-Sternen pro Kopf.",
-      "Die Statue der Kleinen Meerjungfrau in Kopenhagen ist eines der meistfotografierten Wahrzeichen der Welt.",
-      "Dänemark ist weltweit führend bei der Windenergie; Windturbinen liefern einen Großteil des Stroms."
-    ],
-    hu: [
-      "Dániát gyakran a világ egyik legboldogabb országaként tartják számon.",
-      "A dán monarchia az egyik legrégebbi a világon, több mint 1000 éves múltra tekint vissza.",
-      "A dán zászló, a Dannebrog, a világ legrégebbi, folyamatosan használt nemzeti lobogója.",
-      "A fővárosban, Koppenhágában több kerékpár van, mint ember.",
-      "Az ország több mint 400 elnevezett szigetből áll.",
-      "A Legót Dániában találták fel 1932-ben.",
-      "A 'hygge' szó a dán kultúra központi eleme, amely a meghittséget és a jólétet jelenti.",
-      "Dániában található az egy főre jutó legtöbb Michelin-csillagos étterem a világon.",
-      "A koppenhágai Kis hableány szobor a világ egyik legtöbbet fényképezett látványossága.",
-      "Dánia világelső a szélenergia területén, a szélturbinák biztosítják az áram jelentős részét."
-    ],
-    ro: [
-      "Danemarca este adesea clasată ca fiind una dintre cele mai fericite țări din lume.",
-      "Monarhia daneză este una dintre cele mai vechi din lume, datând de peste 1.000 de ani.",
-      "Steagul danez, Dannebrog, este cel mai vechi steag național utilizat continuu din lume.",
-      "Danemarca are mai multe biciclete decât oameni în capitala sa, Copenhaga.",
-      "Țara este formată din peste 400 de insule cu nume.",
-      "Lego a fost inventat în Danemarca în 1932.",
-      "Cuvântul 'hygge' este o parte centrală a culturii daneze, însemnând un sentiment de confort și bine.",
-      "Danemarca are cel mai mare număr de stele Michelin pe cap de locuitor din lume.",
-      "Statuia Mica Sirenă din Copenhaga este unul dintre cele mai fotografiate repere din lume.",
-      "Danemarca este un lider mondial în energia eoliană, turbinele eoliene furnizând o mare parte din electricitate."
-    ]
-  },
-  factsAdvanced: {
-    de: [],
-    hu: [
-      "A dán monarchia az egyik legrégebbi a világon, amelynek gyökerei egészen az i.sz. 958-ban elhunyt Öreg Gorm királyig nyúlnak vissza.",
-      "Dánia több mint 7300 kilométernyi partvonallal rendelkezik, így az ország egyetlen pontja sincs 52 kilométernél messzebb a tengertől.",
-      "Az ország úttörő szerepet játszik a megújuló energiák terén; elektromos áramának közel 50%-át szél- és napenergiából állítja elő.",
-      "A Koppenhágát a svédországi Malmővel összekötő Øresund híd Európa leghosszabb kombinált közúti és vasúti hídja.",
-      "A dán útlevél a világ egyik legerősebbje, tulajdonosai 189 országba utazhatnak be vízummentesen."
-    ],
-    ro: ["Monarhia daneză este una dintre cele mai vechi din lume, având o linie regală care poate fi urmărită până la Gorm cel Bătrân în secolul al X-lea.", "Cu peste 7.300 de kilometri de coastă, niciun loc din Danemarca nu se află la mai mult de 52 de kilometri distanță de mare.", "Danemarca a fost un pionier global în politicile sociale, fiind prima țară din lume care a legalizat parteneriatele între persoane de același sex în 1989.", "Aproape 50% din energia electrică a țării este generată din surse eoliene și solare, reflectând un angajament profund față de sustenabilitate.", "Podul Øresund, care leagă Copenhaga de Malmö, este cel mai lung pod combinat rutier și feroviar din Europa, măsurând aproape 8 kilometri."],
-    en: [
-        "The current Danish monarch is part of a royal line that can be traced back to Gorm the Old, who died in 958 AD, making it the oldest continuous monarchy in Europe.",
-        "With over 7,314 kilometers of coastline, no location in Denmark is more than 52 kilometers from the sea.",
-        "The country has consistently been a pioneer in social policies, including being the first country to legalize same-sex unions in 1989.",
-        "Denmark generates almost 50% of its electricity from wind and solar power, with ambitious goals to become carbon-neutral.",
-        "The Øresund Bridge, connecting Copenhagen to Malmö, Sweden, is an engineering marvel at nearly 8 kilometers long and is the longest combined road and rail bridge in Europe.",
-        "The Faroe Islands and Greenland are autonomous constituent countries within the Kingdom of Denmark, granting them extensive self-governance.",
-        "The concept of the 'folk high school' (folkehøjskole) originated in Denmark, promoting lifelong learning without exams, focusing on personal development and democratic citizenship.",
-        "Danish passport holders have visa-free or visa-on-arrival access to 189 countries, making it one of the most powerful passports in the world."
-    ]
-  },
-  image: "/geo-images/denmark/denmark-main.webp",
+ id: "denmark",
+ type: "country",
+ parent: "EU",
+ coords: [12.5683, 55.6761],
+ name: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
+ description: {
+ de: "Dänemark ist ein skandinavisches Land, bekannt für seine hohe Lebensqualität, ikonisches Design und als das älteste Königreich Europas.",
+ hu: "Dánia egy skandináv ország, amely magas életminőségéről, ikonikus dizájnjáról és Európa legrégebbi királyságaként ismert.",
+ ro: "Danemarca este o țară scandinavă, cunoscută pentru calitatea ridicată a vieții, designul iconic și ca fiind cel mai vechi regat din Europa.",
+ en: "Denmark is a Scandinavian country known for its high quality of life, iconic design, and as the oldest kingdom in Europe."},
+ descriptionAdvanced: {
+ de: "Dänemark, offiziell das Königreich Dänemark, ist ein faszinierendes Land im Norden Europas, das als südlichstes der skandinavischen Länder eine Brücke zwischen Mitteleuropa und Skandinavien schlägt. Das Land besteht aus der Halbinsel Jütland und einem Archipel von über 400 Inseln, von denen Seeland und Fünen die bedeutendsten sind. Dänemark ist weltberühmt für seine außergewöhnlich hohe Lebensqualität, seine progressive Sozialpolitik und sein wegweisendes Design, das Funktionalität mit Čsthetik verbindet. Als eines der ältesten Königreiche der Welt blickt Dänemark auf eine reiche Geschichte zurück, die von den furchtlosen Wikingern über das mächtige dänische Weltreich bis hin zur modernen, friedliebenden Demokratie reicht. Die Hauptstadt Kopenhagen ist ein globales Vorbild für Nachhaltigkeit und Fahrradkultur, geprägt von malerischen Kanälen, königlichen Palästen und einer erstklassigen Gastronomieszene. Die dänische Landschaft ist geprägt von sanften Hügeln, fruchtbarem Ackerland und einer schier endlosen Küstenlinie mit weißen Sandstränden und dramatischen Klippen wie Møns Klint. Ein zentraler Aspekt der dänischen Identität ist das Konzept von 'Hygge' – ein Gefühl von Gemütlichkeit, Geborgenheit und dem Genuss der kleinen Dinge im Leben. Kulinarisch ist Dänemark die Heimat des Smørrebrød, erstklassiger Backwaren und einer innovativen 'New Nordic Cuisine', die weltweit Maßstäbe setzt. Auch als Geburtsland von Lego und den Märchen von Hans Christian Andersen hat Dänemark die globale Kultur maßgeblich beeinflusst. Heute ist Dänemark ein Vorreiter in den Bereichen erneuerbare Energien, insbesondere Windkraft, und setzt sich leidenschaftlich für den Umweltschutz ein. Ob man die pulsierende Atmosphäre Kopenhagens genießt, die historischen Wikingerstätten in Roskilde erkundet oder die Ruhe an den weiten Stränden Jütlands sucht – Dänemark empfängt seine Besucher mit einer Mischung aus nordischer Gelassenheit, modernem Fortschritt und herzlicher Gastfreundschaft. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Dánia, hivatalos nevén a Dán Királyság, egy lenyűgöző ország Észak-Európában, amely a skandináv országok legdélibbikeként hidat képez Közép-Európa és Skandinávia között. Az ország a Jütland-félszigetből és egy több mint 400 szigetből álló szigetvilágból áll, amelyek közül Sjælland és Fünen a legjelentősebbek. Dánia világhírű kivételesen magas életminőségéről, progresszív szociális politikájáról és úttörő dizájnjáról, amely a funkcionalitást az esztétikával ötvözi. A világ egyik legrégebbi királyságaként Dánia gazdag történelmi múltra tekint vissza, a félelmet nem ismerő vikingektől kezdve a hatalmas dán birodalmon át a modern, békeszerető demokráciáig. A főváros, Koppenhága, a fenntarthatóság és a kerékpáros kultúra globális példaképe, amelyet festői csatornák, királyi paloták és világszínvonalú gasztronómia jellemez. A dán tájat szelíd dombok, termékeny szántóföldek és egy szinte végtelen tengerpart határozza meg, fehér homokos strandokkal és olyan drámai sziklákkal, mint a Møns Klint. A dán identitás központi eleme a 'Hygge' fogalma – a meghittség, a biztonság és az élet apró örömeinek élvezete. Kulináris szempontból Dánia a Smørrebrød, a kiváló péksütemények és az innovatív 'New Nordic Cuisine' hazája, amely világszerte mércét állít fel. A Lego és Hans Christian Andersen meséinek szülőhazájaként Dánia a globális kultúrára is meghatározó hatást gyakorolt. Ma Dánia úttörő a megújuló energiák, különösen a szélenergia területén, és szenvedélyesen elkötelezett a környezetvédelem mellett. Akár Koppenhága lüktető hangulatát élvezi valaki, akár Roskilde történelmi viking helyszíneit fedezi fel, vagy Jütland tágas strandjain keresi a nyugalmat – Dánia az északi nyugalom, a modern haladás és a szívélyes vendégszeretet keverékével fogadja látogatóit. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Danemarca, oficial Regatul Danemarcei, este o țară fascinantă din nordul Europei, care, fiind cea mai sudică dintre țările scandinave, face legătura între Europa Centrală și Scandinavia. Țara este formată din Peninsula Iutlanda și un arhipelag de peste 400 de insule, dintre care Seeland și Funen sunt cele mai importante. Danemarca este renumită în întreaga lume pentru calitatea sa excepțional de ridicată a vieții, politicile sociale progresiste și designul său inovator, care îmbină funcționalitatea cu estetica. Fiind unul dintre cele mai vechi regate din lume, Danemarca are o istorie bogată, care se întinde de la vikingii neînfricați, prin puternicul imperiu danez, până la democrația modernă și iubitoare de pace de astăzi. Capitala Copenhaga este un model global de sustenabilitate și cultură a bicicletei, marcată de canale pitorești, palate regale și o scenă gastronomică de primă clasă. Peisajul danez este caracterizat de dealuri blânde, terenuri agricole fertile și o linie de coastă aproape nesfârșită, cu plaje cu nisip alb și stânci dramatice precum Møns Klint. Un aspect central al identității daneze este conceptul de 'Hygge' – un sentiment de confort, siguranță și bucurie de a trăi momentele mici ale vieții. Din punct de vedere culinar, Danemarca este patria Smørrebrød-ului, a produselor de patiserie excelente și a unei 'New Nordic Cuisine' inovatoare, care stabilește standarde la nivel mondial. De asemenea, ca țară de origine a Lego și a poveștilor lui Hans Christian Andersen, Danemarca a influențat semnificativ cultura globală. Astăzi, Danemarca este un pionier în domeniul energiilor regenerabile, în special al energiei eoliene, și este pasionată de protecția mediului. Fie că vă bucurați de atmosfera vibrantă a Copenhagăi, explorați siturile istorice ale vikingilor din Roskilde sau căutați liniștea pe plajele întinse ale Iutlandei – Danemarca își întâmpină vizitatorii cu un amestec de calm nordic, progres modern și ospitalitate caldă. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Denmark, officially the Kingdom of Denmark, is a fascinating country in Northern Europe that, as the southernmost of the Scandinavian nations, serves as a bridge between Central Europe and Scandinavia. The country consists of the Jutland Peninsula and an archipelago of over 400 islands, with Zealand and Funen being the most significant. Denmark is world-renowned for its exceptionally high quality of life, progressive social policies, and pioneering design that blends functionality with aesthetics. As one of the oldest kingdoms in the world, Denmark looks back on a rich history spanning from the fearless Vikings through the powerful Danish Empire to today's modern, peace-loving democracy. The capital, Copenhagen, is a global role model for sustainability and bicycle culture, characterized by picturesque canals, royal palaces, and a world-class culinary scene. The Danish landscape is defined by rolling hills, fertile farmland, and a seemingly endless coastline with white sandy beaches and dramatic cliffs like Møns Klint. A central aspect of Danish identity is the concept of 'Hygge'—a sense of coziness, security, and enjoying the small things in life. Culinarily, Denmark is the home of Smørrebrød, excellent pastries, and an innovative 'New Nordic Cuisine' that sets global standards. As the birthplace of Lego and the fairytales of Hans Christian Andersen, Denmark has also significantly influenced global culture. Today, Denmark is a leader in renewable energy, particularly wind power, and is passionately committed to environmental protection. Whether enjoying the vibrant atmosphere of Copenhagen, exploring the historic Viking sites in Roskilde, or seeking peace on the vast beaches of Jutland—Denmark welcomes its visitors with a blend of Nordic composure, modern progress, and warm hospitality. Geography K7 – Denmark's geography and society."
+ },
+ facts: {
+ en: [
+ "Denmark is often ranked as one of the happiest countries in the world.",
+ "The Danish monarchy is one of the oldest in the world, dating back over 1,000 years.",
+ "The Danish flag, the Dannebrog, is the oldest continuously used national flag in the world.",
+ "Denmark has more bicycles than people in its capital, Copenhagen.",
+ "The country is made up of over 400 named islands.",
+ "Lego was invented in Denmark in 1932.",
+ "The word 'hygge' is a central part of Danish culture, meaning a sense of coziness and well-being.",
+ "Denmark has the world's highest number of Michelin stars per capita.",
+ "The Little Mermaid statue in Copenhagen is one of the most photographed landmarks in the world.",
+ "Denmark is a world leader in wind energy, with wind turbines providing a large part of its electricity."
+ ],
+ de: [
+ "Dänemark wird oft als eines der glücklichsten Länder der Welt eingestuft.",
+ "Die dänische Monarchie ist eine der ältesten der Welt und blickt auf eine über 1.000-jährige Geschichte zurück.",
+ "Die dänische Flagge, der Dannebrog, ist die älteste kontinuierlich verwendete Nationalflagge der Welt.",
+ "In der Hauptstadt Kopenhagen gibt es mehr Fahrräder als Einwohner.",
+ "Das Land besteht aus über 400 benannten Inseln.",
+ "Lego wurde 1932 in Dänemark erfunden.",
+ "Das Wort 'Hygge' ist ein zentraler Bestandteil der dänischen Kultur und bedeutet Gemütlichkeit und Wohlbefinden.",
+ "Dänemark hat weltweit die höchste Anzahl an Michelin-Sternen pro Kopf.",
+ "Die Statue der Kleinen Meerjungfrau in Kopenhagen ist eines der meistfotografierten Wahrzeichen der Welt.",
+ "Dänemark ist weltweit führend bei der Windenergie; Windturbinen liefern einen Großteil des Stroms."
+ ],
+ hu: [
+ "Dániát gyakran a világ egyik legboldogabb országaként tartják számon.",
+ "A dán monarchia az egyik legrégebbi a világon, több mint 1000 éves múltra tekint vissza.",
+ "A dán zászló, a Dannebrog, a világ legrégebbi, folyamatosan használt nemzeti lobogója.",
+ "A fővárosban, Koppenhágában több kerékpár van, mint ember.",
+ "Az ország több mint 400 elnevezett szigetből áll.",
+ "A Legót Dániában találták fel 1932-ben.",
+ "A 'hygge' szó a dán kultúra központi eleme, amely a meghittséget és a jólétet jelenti.",
+ "Dániában található az egy főre jutó legtöbb Michelin-csillagos étterem a világon.",
+ "A koppenhágai Kis hableány szobor a világ egyik legtöbbet fényképezett látványossága.",
+ "Dánia világelső a szélenergia területén, a szélturbinák biztosítják az áram jelentős részét."
+ ],
+ ro: [
+ "Danemarca este adesea clasată ca fiind una dintre cele mai fericite țări din lume.",
+ "Monarhia daneză este una dintre cele mai vechi din lume, datând de peste 1.000 de ani.",
+ "Steagul danez, Dannebrog, este cel mai vechi steag național utilizat continuu din lume.",
+ "Danemarca are mai multe biciclete decât oameni în capitala sa, Copenhaga.",
+ "Țara este formată din peste 400 de insule cu nume.",
+ "Lego a fost inventat în Danemarca în 1932.",
+ "Cuvântul 'hygge' este o parte centrală a culturii daneze, însemnând un sentiment de confort și bine.",
+ "Danemarca are cel mai mare număr de stele Michelin pe cap de locuitor din lume.",
+ "Statuia Mica Sirenă din Copenhaga este unul dintre cele mai fotografiate repere din lume.",
+ "Danemarca este un lider mondial în energia eoliană, turbinele eoliene furnizând o mare parte din electricitate."
+ ]
+ },
+ factsAdvanced: {
+ de: [],
+ hu: [
+ "A dán monarchia az egyik legrégebbi a világon, amelynek gyökerei egészen az i.sz. 958-ban elhunyt Öreg Gorm királyig nyúlnak vissza.",
+ "Dánia több mint 7300 kilométernyi partvonallal rendelkezik, így az ország egyetlen pontja sincs 52 kilométernél messzebb a tengertől.",
+ "Az ország úttörő szerepet játszik a megújuló energiák terén; elektromos áramának közel 50%-át szél- és napenergiából állítja elő.",
+ "A Koppenhágát a svédországi Malmővel összekötő Øresund híd Európa leghosszabb kombinált közúti és vasúti hídja.",
+ "A dán útlevél a világ egyik legerősebbje, tulajdonosai 189 országba utazhatnak be vízummentesen."
+ ],
+ ro: ["Monarhia daneză este una dintre cele mai vechi din lume, având o linie regală care poate fi urmărită până la Gorm cel Bătrân în secolul al X-lea.", "Cu peste 7.300 de kilometri de coastă, niciun loc din Danemarca nu se află la mai mult de 52 de kilometri distanță de mare.", "Danemarca a fost un pionier global în politicile sociale, fiind prima țară din lume care a legalizat parteneriatele între persoane de același sex în 1989.", "Aproape 50% din energia electrică a țării este generată din surse eoliene și solare, reflectând un angajament profund față de sustenabilitate.", "Podul Øresund, care leagă Copenhaga de Malmö, este cel mai lung pod combinat rutier și feroviar din Europa, măsurând aproape 8 kilometri."],
+ en: [
+ "The current Danish monarch is part of a royal line that can be traced back to Gorm the Old, who died in 958 AD, making it the oldest continuous monarchy in Europe.",
+ "With over 7,314 kilometers of coastline, no location in Denmark is more than 52 kilometers from the sea.",
+ "The country has consistently been a pioneer in social policies, including being the first country to legalize same-sex unions in 1989.",
+ "Denmark generates almost 50% of its electricity from wind and solar power, with ambitious goals to become carbon-neutral.",
+ "The Øresund Bridge, connecting Copenhagen to Malmö, Sweden, is an engineering marvel at nearly 8 kilometers long and is the longest combined road and rail bridge in Europe.",
+ "The Faroe Islands and Greenland are autonomous constituent countries within the Kingdom of Denmark, granting them extensive self-governance.",
+ "The concept of the 'folk high school' (folkehøjskole) originated in Denmark, promoting lifelong learning without exams, focusing on personal development and democratic citizenship.",
+ "Danish passport holders have visa-free or visa-on-arrival access to 189 countries, making it one of the most powerful passports in the world."
+ ]
+ },
+ image: "/geo-images/denmark/denmark-main.webp",
 };
 
 export const denmarkRegions: POI[] = [
-  {
-    id: "city-copenhagen",
-    type: "city",
-    parent: "denmark",
-    coords: [12.5683, 55.6761],
-    name: { de: "Kopenhagen", hu: "Koppenhága", ro: "Copenhaga", en: "Copenhagen" },
-    description: {
-      de: "Kopenhagen ist die Hauptstadt Dänemarks, bekannt für ihren malerischen Hafen Nyhavn, die Tivoli-Gärten und als eine der fahrradfreundlichsten Städte der Welt.",
-      hu: "Koppenhága Dánia fővárosa, amely festői Nyhavn kikötőjéről, a Tivoli kertekről és a világ egyik leginkább kerékpárosbarát városaként ismert.",
-      ro: "Copenhaga este capitala Danemarcei, cunoscută pentru portul său pitoresc Nyhavn, Grădinile Tivoli și ca fiind unul dintre cele mai prietenoase orașe pentru bicicliști din lume.",
-      en: "Copenhagen is the capital of Denmark, known for its picturesque Nyhavn harbor, Tivoli Gardens, and as one of the most bicycle-friendly cities in the world."},
-    descriptionAdvanced: {
-      en: "Copenhagen, the capital of Denmark, is a vibrant city known for its historic charm and modern innovation. It features the famous Nyhavn harbor with its colorful houses, the historic Tivoli Gardens amusement park, and the iconic Little Mermaid statue. The city is a global leader in sustainability and bicycle culture, offering a high quality of life and a rich culinary scene, including many Michelin-starred restaurants.",
-      de: "Kopenhagen, die Hauptstadt Dänemarks, ist eine lebendige Stadt, die für ihren historischen Charme und ihre modernen Innovationen bekannt ist. Sie beherbergt den berühmten Hafen Nyhavn mit seinen bunten Häusern, den historischen Vergnügungspark Tivoli und die ikonische Statue der Kleinen Meerjungfrau. Die Stadt ist weltweit führend in Sachen Nachhaltigkeit und Fahrradkultur und bietet eine hohe Lebensqualität sowie eine reiche kulinarische Szene mit vielen Michelin-Stern-Restaurants.",
-      hu: "Koppenhága, Dánia fővárosa, történelmi bájáról és modern innovációiról ismert vibráló város. Itt található a híres Nyhavn kikötő színes házaival, a történelmi Tivoli kertek vidámparkja és az ikonikus Kis hableány szobor. A város világelső a fenntarthatóság és a kerékpáros kultúra terén, magas életminőséget és gazdag gasztronómiai kínálatot nyújt, számos Michelin-csillagos étteremmel. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Copenhaga, capitala Danemarcei, este un oraș vibrant cunoscut pentru farmecul său istoric și inovația modernă. Acesta găzduiește faimosul port Nyhavn cu casele sale colorate, parcul istoric de distracții Grădinile Tivoli și emblematica statuie Mica Sirenă. Orașul este un lider global în sustenabilitate și cultura bicicletelor, oferind o calitate ridicată a vieții și o scenă culinară bogată, inclusiv multe restaurante cu stele Michelin."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A város nevét a 'Købmandshavn' szóból kapta, ami 'Kereskedők kikötőjét' jelent.",
-        "Koppenhága büszkélkedhet a világ egyik leghosszabb sétálóutcájával, a Strøgettel.",
-        "A város lakóinak több mint fele kerékpárral közlekedik a mindennapokban.",
-        "A helyi egyetem, a Koppenhágai Egyetem 1479-ben alakult, Dánia legrégebbi felsőoktatási intézménye."
-      ],
-      ro: ["Copenhaga este constant votată ca unul dintre cele mai fericite și mai locuibile orașe din lume datorită echilibrului dintre viața personală și cea profesională.", "Sistemul de metrou din Copenhaga funcționează complet automat, fără conductori, și este disponibil 24 de ore din 24.", "Strøget, aflată în centrul orașului, este una dintre cele mai lungi străzi comerciale pietonale din întreaga Europă.", "Peste 60% dintre locuitorii orașului folosesc bicicleta ca principal mijloc de transport zilnic către serviciu sau școală.", "Cartierul Freetown Christiania este o comunitate autonomă unică, cunoscută pentru stilul de viață alternativ și regulile sale sociale distincte."],
-      en: ["The city was originally a Viking fishing village established in the 10th century.", "Copenhagen's Strøget is one of the longest pedestrian shopping streets in Europe.", "Over 60% of the city's residents commute to work or school by bicycle every day.", "The University of Copenhagen, founded in 1479, is the oldest university and research institution in Denmark."]
-    },
-    facts: {
-      en: ["Tivoli Gardens is one of the oldest operating amusement parks in the world.","The city is home to the Freetown Christiania, a self-proclaimed autonomous neighborhood.","Copenhagen's harbor is clean enough to swim in.","The Strøget is one of the longest pedestrian shopping streets in Europe."],
-      de: ["Die Tivoli-Gärten sind einer der ältesten in Betrieb befindlichen Vergnügungsparks der Welt.","In der Stadt befindet sich die Freistadt Christiania, ein selbsternanntes autonomes Viertel.","Der Hafen von Kopenhagen ist sauber genug, um darin zu schwimmen.","Der Strøget ist eine der längsten Fußgängerzonen Europas."],
-      hu: ["A Tivoli kertek a világ egyik legrégebbi működő vidámparkja.","A városban található Christiania, egy önjelölt autonóm negyed.","Koppenhága kikötője elég tiszta ahhoz, hogy úszni lehessen benne.","A Strøget Európa egyik leghosszabb sétálóutcája."],
-      ro: ["Grădinile Tivoli sunt unul dintre cele mai vechi parcuri de distracții în funcțiune din lume.","Orașul găzduiește Orașul Liber Christiania, un cartier autonom autoproclamat.","Portul Copenhagăi este suficient de curat pentru a înota în el.","Strøget este una dintre cele mai lungi străzi comerciale pietonale din Europa."]
-    },
-    image: "/geo-images/denmark/copenhagen.webp",
-  },
-  {
-    id: "city-aarhus",
-    type: "city",
-    parent: "denmark",
-    coords: [10.2039, 56.1567],
-    name: { de: "Aarhus", hu: "Aarhus", ro: "Aarhus", en: "Aarhus" },
-    description: {
-      en: "Aarhus is Denmark's second-largest city, located on the east coast of the Jutland peninsula. It is a dynamic university city known for its blend of history and contemporary culture. Key attractions include the ARoS Aarhus Art Museum with its rainbow panorama, and Den Gamle By, an open-air museum showcasing Danish urban history. Aarhus offers a cozy atmosphere, beautiful forests, and beaches just a short distance from the city center.",
-      de: "Aarhus ist die zweitgrößte Stadt Dänemarks und liegt an der Ostküste der Halbinsel Jütland. Es ist eine dynamische Universitätsstadt, die für ihre Mischung aus Geschichte und zeitgenössischer Kultur bekannt ist. Zu den Hauptattraktionen gehören das Kunstmuseum ARoS Aarhus mit seinem Regenbogen-Panorama und Den Gamle By, ein Freilichtmuseum, das die dänische Stadtgeschichte zeigt. Aarhus bietet eine gemütliche Atmosphäre, wunderschöne Wälder und Strände in unmittelbarer Nähe des Stadtzentrums.",
-      hu: "Aarhus Dánia második legnagyobb városa, a Jütland-félsziget keleti partján fekszik. Dinamikus egyetemi város, amely a történelem és a kortárs kultúra ötvözetéről ismert. Főbb látnivalói közé tartozik az ARoS Aarhus Művészeti Múzeum a szivárványos panorámájával, valamint a Den Gamle By, egy szabadtéri múzeum, amely a dán várostörténetet mutatja be. Aarhus hangulatos légkört, gyönyörű erdőket és strandokat kínál a városközponttól nem messze.",
-      ro: "Aarhus este al doilea oraș ca mărime din Danemarca, situat pe coasta de est a peninsulei Iutlanda. Este un oraș universitar dinamic, cunoscut pentru amestecul său de istorie și cultură contemporană. Atracțiile principale includ Muzeul de Artă ARoS Aarhus cu panorama sa curcubeu și Den Gamle By, un muzeu în aer liber care prezintă istoria urbană daneză. Aarhus oferă o atmosferă primitoare, păduri frumoase și plaje la mică distanță de centrul orașului."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Aarhus, Dánia második legnagyobb városa a Jütland-félsziget keleti partján fekszik, és a 'mosolyok városaként' ismert. Ez a vibráló egyetemváros a történelem és a kortárs művészetek izgalmas találkozási pontja. A Den Gamle By (Óváros) szabadtéri múzeum a dán városi életet mutatja be az elmúlt évszázadokból. Modern jelképévé vált az ARoS Művészeti Múzeum a tetején található ikonikus, szivárványszínű panoráma-sétánnyal. Aarhus dinamikus kulturális élete és hangulatos kávézói vonzzák a fiatalokat és a művészetkedvelőket egyaránt. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Aarhus este al doilea oraș ca mărime din Danemarca și se mândrește cu o populație tânără și o atmosferă vibrantă, datorată în mare parte universității sale prestigioase. Cunoscut drept un centru cultural important, orașul găzduiește muzee renumite, galerii de artă contemporană și festivaluri anuale care atrag vizitatori din toată lumea. Arhitectura din Aarhus este un amestec fascinant de clădiri istorice din secolele trecute și structuri moderne, cum ar fi cartierul inovator Aarhus Ø. Orașul este înconjurat de păduri pitorești și plaje la Marea Baltică, oferind un echilibru perfect între viața urbană și natură. În plus, portul său joacă un rol crucial în comerțul și economia regională a Scandinaviei.",
-      en: "Aarhus, Denmark's second-largest city, is a dynamic mix of youthful energy and rich historical heritage. Located on the eastern coast of the Jutland peninsula, it is often referred to as the 'City of Smiles'. The city is renowned for its impressive architecture, ranging from the historic Aarhus Cathedral to the modern Iceberg residential complex in the docklands. The ARoS Art Museum, featuring Olafur Eliasson's rainbow panorama, serves as a prominent cultural beacon. With a vibrant student population, Aarhus offers a lively cafe culture, diverse culinary experiences, and a strong sense of community. The open-air museum Den Gamle By (The Old Town) provides a fascinating glimpse into Danish urban history through its carefully preserved buildings."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A várost eredetileg a vikingek alapították a 8. században az Aarhus folyó torkolatánál.",
-        "Az aarhusi dóm (Aarhus Domkirke) Dánia leghosszabb és legmagasabb temploma.",
-        "A város 2017-ben viselte az Európa Kulturális Fővárosa címet.",
-        "Az aarhusi kikötő Dánia egyik legforgalmasabb és legnagyobb teherkikötője."
-      ],
-      ro: ["Aarhus a fost fondat ca o așezare vikingă în secolul al VIII-lea, fiind unul dintre cele mai vechi orașe din Scandinavia.", "Muzeul de Artă ARoS este renumit pentru panorama sa circulară din sticlă colorată, creată de Olafur Eliasson.", "Den Gamle By este un muzeu în aer liber impresionant, care recreează fidel viața urbană daneză din diferite epoci istorice.", "Catedrala din Aarhus, finalizată în secolul al XVI-lea, este cea mai înaltă și cea mai lungă biserică din întreaga Danemarcă.", "Orașul a fost desemnat Capitală Europeană a Culturii în anul 2017, consolidându-și statutul pe harta turistică internațională."],
-      en: ["Aarhus was originally founded as a fortified Viking settlement named Aros in the 8th century.", "The Aarhus Cathedral is the tallest and longest church in Denmark.", "The city was designated as the European Capital of Culture in 2017.", "Den Gamle By is a unique open-air museum where entire historic buildings from across Denmark were relocated and reassembled."]
-    },
-    facts: {
-      en: ["Aarhus was a European Capital of Culture in 2017.","The city was founded as a Viking settlement in the 8th century.","The Aarhus Cathedral is the tallest and longest church in Denmark.","The Moesgaard Museum is famous for its archaeological exhibits, including the Grauballe Man."],
-      de: ["Aarhus war 2017 Kulturhauptstadt Europas.","Die Stadt wurde im 8. Jahrhundert als Wikingersiedlung gegründet.","Der Dom von Aarhus ist die höchste und längste Kirche Dänemarks.","Das Moesgaard Museum ist berühmt für seine archäologischen Exponate, darunter der Grauballe-Mann."],
-      hu: ["Aarhus 2017-ben Európa Kulturális Fővárosa volt.","A várost viking településként alapították a 8. században.","Az aarhus-i katedrális Dánia legmagasabb és leghosszabb temploma.","A Moesgaard Múzeum híres régészeti kiállításairól, köztük a Grauballe-i férfiról."],
-      ro: ["Aarhus a fost Capitală Europeană a Culturii în 2017.","Orașul a fost fondat ca așezare vikingă în secolul al VIII-lea.","Catedrala din Aarhus este cea mai înaltă și mai lungă biserică din Danemarca.","Muzeul Moesgaard este faimos pentru exponatele sale arheologice, inclusiv Omul de la Grauballe."]
-    },
-    image: "/geo-images/denmark/aarhus.webp",
-  },
-  {
-    id: "city-odense",
-    type: "city",
-    parent: "denmark",
-    coords: [10.3883, 55.3958],
-    name: { de: "Odense", hu: "Odense", ro: "Odense", en: "Odense" },
-    description: {
-      en: "Odense, located on the island of Funen, is the birthplace of the world-famous fairytale writer Hans Christian Andersen. The city celebrates its literary heritage with museums, statues, and annual festivals dedicated to his work. Odense is one of Denmark's oldest cities, offering a charming old town, beautiful parks, and a lively cultural scene. It is also a center for robotics and technology in Denmark.",
-      de: "Odense auf der Insel Fünen ist der Geburtsort des weltberühmten Märchenschreibers Hans Christian Andersen. Die Stadt feiert ihr literarisches Erbe mit Museen, Statuen und jährlichen Festivals, die seinem Werk gewidmet sind. Odense ist eine der ältesten Städte Dänemarks und bietet eine charmante Altstadt, wunderschöne Parks und eine lebendige Kulturszene. Es ist auch ein Zentrum für Robotik und Technologie in Dänemark.",
-      hu: "Odense, amely Fünen szigetén található, a világhírű meseíró, Hans Christian Andersen szülőhelye. A város múzeumokkal, szobrokkal és a munkásságának szentelt éves fesztiválokkal ünnepli irodalmi örökségét. Odense Dánia egyik legrégebbi városa, hangulatos óvárossal, gyönyörű parkokkal és élénk kulturális élettel. Emellett a robotika és a technológia központja is Dániában.",
-      ro: "Odense, situat pe insula Funen, este locul de naștere al celebrului scriitor de basme Hans Christian Andersen. Orașul își celebrează moștenirea literară prin muzee, statui și festivaluri anuale dedicate operei sale. Odense este unul dintre cele mai vechi orașe din Danemarca, oferind un oraș vechi fermecător, parcuri frumoase și o scenă culturală plină de viață. Este, de asemenea, un centru pentru robotică și tehnologie în Danemarca."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Odense, Fünen szigetének legnagyobb városa, leginkább Hans Christian Andersen világhírű meseíró szülővárosaként él a köztudatban. A város varázslatos macskaköves utcái és jól megőrzött favázas házai egy letűnt kor romantikáját idézik. Odense nemcsak a mesék, hanem a dán történelem fontos központja is, amelyet Odin, a skandináv főisten után neveztek el. A modern Odense egy feltörekvő technológiai központ, különösen a robotika és a drónfejlesztés területén. A város zöld parkjai és csatornái idilli környezetet biztosítanak a pihenni vágyóknak. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Odense, situat pe insula Funen, este renumit la nivel mondial drept locul de naștere al faimosului scriitor de basme Hans Christian Andersen. Orașul a știut să își păstreze farmecul de basm, cu străzi pietruite și case tradiționale pe jumătate din lemn care amintesc de secolul al XIX-lea. În ciuda moștenirii sale istorice profunde, Odense s-a dezvoltat într-un centru modern pentru robotică și tehnologie avansată în Danemarca. Vizitatorii pot explora numeroase parcuri verzi, precum pitorescul Munke Mose, sau pot naviga pe râul Odense, care traversează liniștit orașul. Orașul este, de asemenea, un exemplu de sustenabilitate, cu o infrastructură dedicată bicicliștilor extrem de bine dezvoltată.",
-      en: "Odense is the third-largest city in Denmark and the charming capital of the island of Funen. It is most famous worldwide as the birthplace of the legendary fairy tale writer Hans Christian Andersen. The city beautifully balances its historic legacy with modern urban development, offering picturesque cobblestone streets and innovative museums. Visitors can explore the H.C. Andersen House, which provides an immersive journey into the author's vivid imagination. Odense is also a city of parks and green spaces, intertwined by the Odense River. Its rich history extends back over a thousand years, making it one of the oldest settlements in the country."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Odense neve az ónorse 'Óðinsvé' szóból ered, ami Odin szentélyét jelenti.",
-        "A város büszkélkedhet a Hans Christian Andersen Múzeummal, amelyet a szerző szülőházában alakítottak ki.",
-        "A Szent Knud székesegyházban őrzik a 11. században meggyilkolt IV. Knut dán király földi maradványait.",
-        "Odense ma a dán robotikai ipar központja, több mint száz tech cég működik itt."
-      ],
-      ro: ["Odense este al treilea cel mai mare oraș din Danemarca și poartă numele zeului nordic Odin.", "Noua casă memorială și muzeu Hans Christian Andersen oferă o experiență interactivă unică în lumea poveștilor sale.", "Orașul găzduiește unul dintre cele mai avansate hub-uri de dezvoltare a roboticii colaborative din Europa.", "Catedrala Sfântul Knut din Odense are un altar impresionant și adăpostește relicvele regelui Knut cel Sfânt.", "Festivalul anual al florilor din Odense transformă străzile orașului într-o expoziție spectaculoasă de artă florală și culori."],
-      en: ["Odense celebrated its 1000th anniversary in 1988, highlighting its deep historical roots.", "The city's name is derived from 'Odins Vi', meaning 'Odin's Sanctuary' in Old Norse.", "Hans Christian Andersen was born here in 1805, and his legacy is celebrated throughout the city.", "The Odense Zoo is home to an impressive oceanarium and diverse wildlife exhibits."]
-    },
-    facts: {
-      en: ["The H.C. Andersen Museum is a major attraction in the city.","Odense is named after the Norse god Odin.","The city has a strong tradition of cycling, with extensive bike paths.","The Odense Zoo is consistently ranked as one of the best in Europe."],
-      de: ["Das H.C. Andersen Museum ist eine Hauptattraktion der Stadt.","Odense ist nach dem nordischen Gott Odin benannt.","Die Stadt hat eine starke Radfahrtradition mit ausgedehnten Radwegen.","Der Zoo von Odense wird regelmäßig als einer der besten in Europa eingestuft."],
-      hu: ["A H.C. Andersen Múzeum a város egyik fő látványossága.","Odense a skandináv istenről, Odinról kapta a nevét.","A városban erős a kerékpározás hagyománya, kiterjedt kerékpárutakkal.","Az Odense-i Állatkertet rendszeresen Európa legjobbjai közé sorolják."],
-      ro: ["Muzeul H.C. Andersen este o atracție majoră în oraș.","Odense poartă numele zeului nordic Odin.","Orașul are o tradiție puternică în ciclism, cu piste extinse pentru biciclete.","Grădina Zoologică din Odense este clasată constant printre cele mai bune din Europa."]
-    },
-    image: "/geo-images/denmark/odense.webp",
-  },
-  {
-    id: "reg-jutland",
-    type: "region",
-    parent: "denmark",
-    coords: [9.5018, 56.2639],
-    name: { de: "Jütland", hu: "Jütland", ro: "Iutlanda", en: "Jutland" },
-    description: {
-      en: "Jutland is the large peninsula that forms the mainland part of Denmark. It is characterized by diverse landscapes, from the rugged North Sea coast with its vast sandy beaches and dunes to the gentler hills and fjords of the east coast. Jutland is home to historic towns, Viking monuments like the Jelling Stones, and the original Legoland in Billund. The region is known for its agricultural heritage and strong local traditions.",
-      de: "Jütland ist die große Halbinsel, die den Festlandteil Dänemarks bildet. Sie ist geprägt von vielfältigen Landschaften, von der schroffen Nordseeküste mit ihren weiten Sandstränden und Dünen bis hin zu den sanfteren Hügeln und Fjorden der Ostküste. Jütland beherbergt historische Städte, Wikingerdenkmäler wie die Steine von Jelling und das ursprüngliche Legoland in Billund. Die Region ist bekannt für ihr landwirtschaftliches Erbe und ihre starken lokalen Traditionen.",
-      hu: "Jütland a nagy félsziget, amely Dánia szárazföldi részét alkotja. Változatos tájak jellemzik, a zord északi-tengeri partvidéktől a hatalmas homokos strandokkal és dűnékkel, a keleti part szelídebb dombjaiig és fjordjaiig. Jütland történelmi városoknak, viking emlékeknek, mint például a Jelling-kövek, és az eredeti Legolandnek ad otthont Billundban. A régió mezőgazdasági örökségéről és erős helyi hagyományairól ismert.",
-      ro: "Iutlanda este marea peninsulă care formează partea continentală a Danemarcei. Este caracterizată de peisaje diverse, de la coasta aspră a Mării Nordului, cu plajele sale vaste de nisip și dune, până la dealurile și fiordurile mai blânde de pe coasta de est. Iutlanda găzduiește orașe istorice, monumente vikinge precum Pietrele de la Jelling și originalul Legoland din Billund. Regiunea este cunoscută pentru moștenirea sa agricolă și tradițiile locale puternice."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Jütland-félsziget Dánia kontinentális része, amely hatalmas, érintetlen tájaival és drámai partvonalaival tűnik ki. A nyugati part mentén a szélfútta dűnék és a végtelen homokos strandok vonzzák a természet szerelmeseit. Északon a Skagen-foknál találkozik a Balti-tenger és az Északi-tenger, egyedülálló természeti jelenséget hozva létre. Jütland belső területei lankás dombvidékeket, mély erdőket és kristálytiszta tavakat rejtenek, amelyek ideálisak a túrázásra. A régió történelmi városai és viking emlékei Dánia ősi gyökereit tárják a látogatók elé. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Peninsula Iutlanda reprezintă principala legătură terestră a Danemarcei cu continentul european, mărginită de Marea Nordului la vest și Marea Baltică la est. Această regiune este caracterizată de contraste geografice puternice, de la plajele nesfârșite și dunele de nisip dramatice de pe coasta de vest, până la pădurile dese și dealurile blânde din partea de est. Iutlanda este inima agricolă a țării, cu ferme extinse care susțin renumita industrie alimentară daneză. Din punct de vedere cultural, locuitorii peninsulei sunt cunoscuți pentru calmul și spiritul lor muncitor, diferențiindu-se subtil de atmosfera mai agitată a capitalei. Aici se găsesc și numeroase vestigii istorice, inclusiv faimoasele monumente runice vikinge de la Jelling.",
-      en: "Jutland is the large peninsula that makes up the continental portion of Denmark, connecting the country to Germany and the rest of Europe. It features a diverse landscape of rolling hills, deep fjords, dense forests, and expansive sandy beaches along the North Sea coast. The region is known for its strong agricultural traditions, Viking history, and vibrant coastal towns. From the artistic hub of Skagen in the far north to the historic borderlands in the south, Jutland offers a rich tapestry of Danish culture. The area is also home to significant national parks and nature reserves, providing ample opportunities for outdoor recreation."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Jütland az egyetlen dán régió, amely szárazföldi határral rendelkezik egy másik országgal, Németországgal.",
-        "Itt található a Wadden-tenger Nemzeti Park, amely az UNESCO Világörökség része.",
-        "A félsziget nyugati partján található a Råbjerg Mile, Észak-Európa egyik legnagyobb vándorló homokdűnéje.",
-        "Jelling városa Jütlandon ad otthont a híres Jellingi rúnaköveknek, Dánia 'keresztlevelének'."
-      ],
-      ro: ["Iutlanda constituie aproximativ două treimi din suprafața totală a Danemarcei, fiind singura parte continentală a țării.", "Skagen, situat în extremitatea nordică a Iutlandei, este locul unde se întâlnesc curenții Mării Nordului și Mării Baltice.", "Coasta de vest a Iutlandei este renumită pentru buncărele sale din Al Doilea Război Mondial, parte a Zidului Atlanticului.", "Pietrele runice de la Jelling, adesea numite „certificatul de naștere al Danemarcei”, se află în centrul acestei peninsule.", "În Iutlanda se află cel mai înalt punct natural al Danemarcei, Møllehøj, care atinge modesta altitudine de 170 de metri."],
-      en: ["Jutland accounts for over two-thirds of Denmark's total land area.", "The western coast of Jutland is famous for its wide sandy beaches and dramatic dune landscapes.", "The region historically served as the homeland for the Jutes, a Germanic tribe that played a key role in European history.", "It is the only part of Denmark that is physically connected to the European mainland."]
-    },
-    facts: {
-      en: ["The Jelling Stones are a UNESCO World Heritage site, often called 'Denmark's birth certificate'.","Skagen, at the northern tip of Jutland, is where the North Sea and Baltic Sea meet.","Jutland is the only part of Denmark connected to mainland Europe.","The region has a rich Viking history, with many burial mounds and settlements."],
-      de: ["Die Steine von Jelling sind ein UNESCO-Weltkulturerbe und werden oft als 'Geburtsurkunde Dänemarks' bezeichnet.","In Skagen, an der Nordspitze Jütlands, treffen Nord- und Ostsee aufeinander.","Jütland ist der einzige Teil Dänemarks, der mit dem europäischen Festland verbunden ist.","Die Region hat eine reiche Wikingergeschichte mit vielen Grabhügeln und Siedlungen."],
-      hu: ["A Jelling-kövek az UNESCO Világörökség részei, gyakran 'Dánia születési anyakönyvi kivonataként' emlegetik őket.","Skagenben, Jütland északi csücskén találkozik az Északi-tenger és a Balti-tenger.","Jütland Dánia egyetlen része, amely kapcsolódik a kontinentális Európához.","A régió gazdag viking történelemmel rendelkezik, számos sírhalommal és településsel."],
-      ro: ["Pietrele de la Jelling sunt un sit al Patrimoniului Mondial UNESCO, fiind adesea numite 'certificatul de naștere al Danemarcei'.","Skagen, în vârful nordic al Iutlandei, este locul unde se întâlnesc Marea Nordului și Marea Baltică.","Iutlanda este singura parte a Danemarcei conectată la Europa continentală.","Regiunea are o istorie vikingă bogată, cu multe movile funerare și așezări."]
-    },
-    image: "/geo-images/denmark/jutland.webp",
-  },
-  {
-    id: "reg-zealand",
-    type: "region",
-    parent: "denmark",
-    coords: [11.7600, 55.4800],
-    name: { de: "Seeland", hu: "Sjælland", ro: "Zeelanda", en: "Zealand" },
-    description: {
-      en: "Zealand is the largest and most populous island in Denmark, home to the capital city, Copenhagen. The island offers a mix of bustling urban areas, historic royal palaces, and beautiful coastal landscapes. Key sites include Roskilde with its Viking Ship Museum and cathedral, and the stunning Møns Klint chalk cliffs. Zealand is the cultural and political heart of Denmark, connected to Sweden by the impressive Øresund Bridge.",
-      de: "Seeland ist die größte und bevölkerungsreichste Insel Dänemarks und beherbergt die Hauptstadt Kopenhagen. Die Insel bietet eine Mischung aus geschäftigen Stadtgebieten, historischen Königsschlössern und wunderschönen Küstenlandschaften. Zu den wichtigsten Sehenswürdigkeiten gehören Roskilde mit seinem Wikingerschiffsmuseum und der Kathedrale sowie die beeindruckenden Kreidefelsen von Møns Klint. Seeland ist das kulturelle und politische Herz Dänemarks und durch die beeindruckende Öresundbrücke mit Schweden verbunden.",
-      hu: "Sjælland Dánia legnagyobb és legnépesebb szigete, itt található a főváros, Koppenhága. A sziget nyüzsgő városi területek, történelmi királyi paloták és gyönyörű tengerparti tájak keverékét kínálja. Főbb helyszínei közé tartozik Roskilde a Viking Hajómúzeummal és a székesegyházzal, valamint a lenyűgöző Møns Klint krétafalak. Sjælland Dánia kulturális és politikai szíve, amelyet a lenyűgöző Øresund híd köt össze Svédországgal.",
-      ro: "Zeelanda este cea mai mare și mai populată insulă din Danemarca, găzduind capitala, Copenhaga. Insula oferă un amestec de zone urbane pline de viață, palate regale istorice și peisaje de coastă frumoase. Siturile cheie includ Roskilde, cu Muzeul Navelor Vikinge și catedrala sa, și uimitoarele stânci de cretă Møns Klint. Zeelanda este inima culturală și politică a Danemarcei, fiind conectată de Suedia prin impresionantul Pod Øresund."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Sjælland, avagy Zealand Dánia legnagyobb és legnépesebb szigete, amely az ország keleti részén, a Balti-tengerben fekszik. Ez a sziget ad otthont Koppenhágának, így Dánia politikai, gazdasági és kulturális központja is egyben. A sziget északi részét a 'dán Riviéraként' ismerik, gyönyörű strandjaival és impozáns kastélyaival, mint például a Hamletből ismert Kronborg. Dél felé haladva festői falvak, lankás mezőgazdasági területek és ősi viking sírok tarkítják a tájat. A szigetet a hatalmas Øresund híd köti össze a szomszédos Svédországgal, szoros kapcsolatot teremtve a két nemzet között. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Zeeland (Sjælland) este cea mai mare și mai populată insulă a Danemarcei, fiind centrul politic, economic și cultural al națiunii. Insula adăpostește capitala Copenhaga, dar oferă mult mai mult decât agitația urbană, având peisaje idilice cu păduri seculare, lacuri glaciare și coaste stâncoase. Castelele regale impresionante, cum ar fi Frederiksborg și Kronborg, punctează peisajul, atrăgând iubitorii de istorie și literatură din toată lumea. Regiunea combină în mod armonios infrastructura modernă de transport, inclusiv impresionantul pod Øresund care o leagă de Suedia, cu respectul pentru conservarea naturii. De-a lungul coastelor sale, numeroase sate pescărești pitorești continuă să păstreze tradițiile maritime străvechi ale țării.",
-      en: "Zealand is the largest and most populous island in Denmark, serving as the cultural and economic heart of the nation. It is home to the capital city, Copenhagen, as well as numerous historic castles, lush forests, and picturesque coastlines. The island's landscape is characterized by gentle moraine hills and deep inlets, reflecting its glacial origins. Zealand is steeped in royal history, featuring magnificent palaces like Frederiksborg and Kronborg, which inspired Shakespeare's Hamlet. The region blends metropolitan sophistication with tranquil rural beauty, making it a microcosm of Danish life."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Sjælland Dánia lakosságának több mint felét adja.",
-        "A sziget déli részén található Møns Klint fehér krétasziklái drámaian emelkednek ki a tengerből.",
-        "Roskilde, a sziget egyik legősibb városa, a dán királyok hagyományos temetkezési helye.",
-        "Az Øresund híd 2000-ben nyílt meg, és a szigetet a svédországi Malmővel köti össze."
-      ],
-      ro: ["Zeeland este a 95-a cea mai mare insulă din lume și găzduiește peste 2,3 milioane de locuitori.", "Podul Øresund, finalizat în anul 2000, conectează direct insula Zeeland de sudul Suediei printr-un tunel și un pod spectaculos.", "Castelul Kronborg din Elsinore, situat în Zeeland, este faimos la nivel mondial ca decorul tragediei Hamlet de William Shakespeare.", "Stevns Klint, o faleză spectaculoasă de cretă albă de pe insulă, a fost inclusă în patrimoniul mondial UNESCO în anul 2014.", "Insula este despărțită de Funen prin Marea Centură (Storebælt), o strâmtoare traversată de unul dintre cele mai lungi poduri suspendate din lume."],
-      en: ["Zealand is connected to the Swedish city of Malmö by the remarkable Øresund Bridge.", "The island is the 95th largest island in the world by land area.", "Roskilde, located on Zealand, was the capital of Denmark until 1443.", "The northern coast of Zealand is often referred to as the 'Danish Riviera' due to its affluent towns and beautiful beaches."]
-    },
-    facts: {
-      en: ["Zealand is the 13th largest island in Europe.","The Øresund Bridge connects Zealand to the Swedish city of Malmö.","Kronborg Castle in Helsingør is the setting for Shakespeare's Hamlet.","Roskilde was the capital of Denmark until the 15th century."],
-      de: ["Seeland ist die 13. größte Insel Europas.","Die Öresundbrücke verbindet Seeland mit der schwedischen Stadt Malmö.","Schloss Kronborg in Helsingør ist der Schauplatz von Shakespeares Hamlet.","Roskilde war bis zum 15. Jahrhundert die Hauptstadt Dänemarks."],
-      hu: ["Sjælland Európa 13. legnagyobb szigete.","Az Øresund híd köti össze Sjællandot a svédországi Malmővel.","A helsingőri Kronborg-kastély Shakespeare Hamletjének helyszíne.","Roskilde a 15. századig Dánia fővárosa volt."],
-      ro: ["Zeelanda este a 13-a cea mai mare insulă din Europa.","Podul Øresund conectează Zeelanda de orașul suedez Malmö.","Castelul Kronborg din Helsingør este cadrul pentru piesa Hamlet de Shakespeare.","Roskilde a fost capitala Danemarcei până în secolul al XV-lea."]
-    },
-    image: "/geo-images/denmark/zealand.webp",
-  }
+ {
+ id: "city-copenhagen",
+ type: "city",
+ parent: "denmark",
+ coords: [12.5683, 55.6761],
+ name: { de: "Kopenhagen", hu: "Koppenhága", ro: "Copenhaga", en: "Copenhagen" },
+ description: {
+ de: "Kopenhagen ist die Hauptstadt Dänemarks, bekannt für ihren malerischen Hafen Nyhavn, die Tivoli-Gärten und als eine der fahrradfreundlichsten Städte der Welt.",
+ hu: "Koppenhága Dánia fővárosa, amely festői Nyhavn kikötőjéről, a Tivoli kertekről és a világ egyik leginkább kerékpárosbarát városaként ismert.",
+ ro: "Copenhaga este capitala Danemarcei, cunoscută pentru portul său pitoresc Nyhavn, Grădinile Tivoli și ca fiind unul dintre cele mai prietenoase orașe pentru bicicliști din lume.",
+ en: "Copenhagen is the capital of Denmark, known for its picturesque Nyhavn harbor, Tivoli Gardens, and as one of the most bicycle-friendly cities in the world."},
+ descriptionAdvanced: {
+ en: "Copenhagen, the capital of Denmark, is a vibrant city known for its historic charm and modern innovation. It features the famous Nyhavn harbor with its colorful houses, the historic Tivoli Gardens amusement park, and the iconic Little Mermaid statue. The city is a global leader in sustainability and bicycle culture, offering a high quality of life and a rich culinary scene, including many Michelin-starred restaurants. Geography K7 – Denmark's geography and society.",
+ de: "Kopenhagen, die Hauptstadt Dänemarks, ist eine lebendige Stadt, die für ihren historischen Charme und ihre modernen Innovationen bekannt ist. Sie beherbergt den berühmten Hafen Nyhavn mit seinen bunten Häusern, den historischen Vergnügungspark Tivoli und die ikonische Statue der Kleinen Meerjungfrau. Die Stadt ist weltweit führend in Sachen Nachhaltigkeit und Fahrradkultur und bietet eine hohe Lebensqualität sowie eine reiche kulinarische Szene mit vielen Michelin-Stern-Restaurants. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Koppenhága, Dánia fővárosa, történelmi bájáról és modern innovációiról ismert vibráló város. Itt található a híres Nyhavn kikötő színes házaival, a történelmi Tivoli kertek vidámparkja és az ikonikus Kis hableány szobor. A város világelső a fenntarthatóság és a kerékpáros kultúra terén, magas életminőséget és gazdag gasztronómiai kínálatot nyújt, számos Michelin-csillagos étteremmel. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Copenhaga, capitala Danemarcei, este un oraș vibrant cunoscut pentru farmecul său istoric și inovația modernă. Acesta găzduiește faimosul port Nyhavn cu casele sale colorate, parcul istoric de distracții Grădinile Tivoli și emblematica statuie Mica Sirenă. Orașul este un lider global în sustenabilitate și cultura bicicletelor, oferind o calitate ridicată a vieții și o scenă culinară bogată, inclusiv multe restaurante cu stele Michelin. Geografie K7 – Geografia și societatea Danemarcei."
+ },
+ factsAdvanced: {
+ de: [],
+ hu: [
+ "A város nevét a 'Købmandshavn' szóból kapta, ami 'Kereskedők kikötőjét' jelent.",
+ "Koppenhága büszkélkedhet a világ egyik leghosszabb sétálóutcájával, a Strøgettel.",
+ "A város lakóinak több mint fele kerékpárral közlekedik a mindennapokban.",
+ "A helyi egyetem, a Koppenhágai Egyetem 1479-ben alakult, Dánia legrégebbi felsőoktatási intézménye."
+ ],
+ ro: ["Copenhaga este constant votată ca unul dintre cele mai fericite și mai locuibile orașe din lume datorită echilibrului dintre viața personală și cea profesională.", "Sistemul de metrou din Copenhaga funcționează complet automat, fără conductori, și este disponibil 24 de ore din 24.", "Strøget, aflată în centrul orașului, este una dintre cele mai lungi străzi comerciale pietonale din întreaga Europă.", "Peste 60% dintre locuitorii orașului folosesc bicicleta ca principal mijloc de transport zilnic către serviciu sau școală.", "Cartierul Freetown Christiania este o comunitate autonomă unică, cunoscută pentru stilul de viață alternativ și regulile sale sociale distincte."],
+ en: ["The city was originally a Viking fishing village established in the 10th century.", "Copenhagen's Strøget is one of the longest pedestrian shopping streets in Europe.", "Over 60% of the city's residents commute to work or school by bicycle every day.", "The University of Copenhagen, founded in 1479, is the oldest university and research institution in Denmark."]
+ },
+ facts: {
+ en: ["Tivoli Gardens is one of the oldest operating amusement parks in the world.","The city is home to the Freetown Christiania, a self-proclaimed autonomous neighborhood.","Copenhagen's harbor is clean enough to swim in.","The Strøget is one of the longest pedestrian shopping streets in Europe."],
+ de: ["Die Tivoli-Gärten sind einer der ältesten in Betrieb befindlichen Vergnügungsparks der Welt.","In der Stadt befindet sich die Freistadt Christiania, ein selbsternanntes autonomes Viertel.","Der Hafen von Kopenhagen ist sauber genug, um darin zu schwimmen.","Der Strøget ist eine der längsten Fußgängerzonen Europas."],
+ hu: ["A Tivoli kertek a világ egyik legrégebbi működő vidámparkja.","A városban található Christiania, egy önjelölt autonóm negyed.","Koppenhága kikötője elég tiszta ahhoz, hogy úszni lehessen benne.","A Strøget Európa egyik leghosszabb sétálóutcája."],
+ ro: ["Grădinile Tivoli sunt unul dintre cele mai vechi parcuri de distracții în funcțiune din lume.","Orașul găzduiește Orașul Liber Christiania, un cartier autonom autoproclamat.","Portul Copenhagăi este suficient de curat pentru a înota în el.","Strøget este una dintre cele mai lungi străzi comerciale pietonale din Europa."]
+ },
+ image: "/geo-images/denmark/copenhagen.webp",
+ },
+ {
+ id: "city-aarhus",
+ type: "city",
+ parent: "denmark",
+ coords: [10.2039, 56.1567],
+ name: { de: "Aarhus", hu: "Aarhus", ro: "Aarhus", en: "Aarhus" },
+ description: {
+ en: "Aarhus is Denmark's second-largest city, located on the east coast of the Jutland peninsula. It is a dynamic university city known for its blend of history and contemporary culture. Key attractions include the ARoS Aarhus Art Museum with its rainbow panorama, and Den Gamle By, an open-air museum showcasing Danish urban history. Aarhus offers a cozy atmosphere, beautiful forests, and beaches just a short distance from the city center.",
+ de: "Aarhus ist die zweitgrößte Stadt Dänemarks und liegt an der Ostküste der Halbinsel Jütland. Es ist eine dynamische Universitätsstadt, die für ihre Mischung aus Geschichte und zeitgenössischer Kultur bekannt ist. Zu den Hauptattraktionen gehören das Kunstmuseum ARoS Aarhus mit seinem Regenbogen-Panorama und Den Gamle By, ein Freilichtmuseum, das die dänische Stadtgeschichte zeigt. Aarhus bietet eine gemütliche Atmosphäre, wunderschöne Wälder und Strände in unmittelbarer Nähe des Stadtzentrums.",
+ hu: "Aarhus Dánia második legnagyobb városa, a Jütland-félsziget keleti partján fekszik. Dinamikus egyetemi város, amely a történelem és a kortárs kultúra ötvözetéről ismert. Főbb látnivalói közé tartozik az ARoS Aarhus Művészeti Múzeum a szivárványos panorámájával, valamint a Den Gamle By, egy szabadtéri múzeum, amely a dán várostörténetet mutatja be. Aarhus hangulatos légkört, gyönyörű erdőket és strandokat kínál a városközponttól nem messze.",
+ ro: "Aarhus este al doilea oraș ca mărime din Danemarca, situat pe coasta de est a peninsulei Iutlanda. Este un oraș universitar dinamic, cunoscut pentru amestecul său de istorie și cultură contemporană. Atracțiile principale includ Muzeul de Artă ARoS Aarhus cu panorama sa curcubeu și Den Gamle By, un muzeu în aer liber care prezintă istoria urbană daneză. Aarhus oferă o atmosferă primitoare, păduri frumoase și plaje la mică distanță de centrul orașului."},
+ descriptionAdvanced: {
+ de: "Aarhus ist die zweitgrößte Stadt Dänemarks und das dynamische Kulturzentrum Jütlands. Die Stadt ist bekannt für ihre gelungene Mischung aus historischem Erbe und modernem Design, was sich besonders im ARoS Kunstmuseum und der Dokk1-Bibliothek zeigt. Das berühmte Freilichtmuseum Den Gamle By bietet eine beeindruckende Reise durch die dänische Stadtgeschichte mit originalgetreu erhaltenen Gebäuden. Dank der großen Studentenpopulation und einer lebendigen Gastronomieszene verbindet Aarhus jugendliche Energie mit tief verwurzelten Traditionen. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Aarhus, Dánia második legnagyobb városa a Jütland-félsziget keleti partján fekszik, és a 'mosolyok városaként' ismert. Ez a vibráló egyetemváros a történelem és a kortárs művészetek izgalmas találkozási pontja. A Den Gamle By (Óváros) szabadtéri múzeum a dán városi életet mutatja be az elmúlt évszázadokból. Modern jelképévé vált az ARoS Művészeti Múzeum a tetején található ikonikus, szivárványszínű panoráma-sétánnyal. Aarhus dinamikus kulturális élete és hangulatos kávézói vonzzák a fiatalokat és a művészetkedvelőket egyaránt. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Aarhus este al doilea oraș ca mărime din Danemarca și se mândrește cu o populație tânără și o atmosferă vibrantă, datorată în mare parte universității sale prestigioase. Cunoscut drept un centru cultural important, orașul găzduiește muzee renumite, galerii de artă contemporană și festivaluri anuale care atrag vizitatori din toată lumea. Arhitectura din Aarhus este un amestec fascinant de clădiri istorice din secolele trecute și structuri moderne, cum ar fi cartierul inovator Aarhus Ø. Orașul este înconjurat de păduri pitorești și plaje la Marea Baltică, oferind un echilibru perfect între viața urbană și natură. În plus, portul său joacă un rol crucial în comerțul și economia regională a Scandinaviei. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Aarhus, Denmark's second-largest city, is a dynamic mix of youthful energy and rich historical heritage. Located on the eastern coast of the Jutland peninsula, it is often referred to as the 'City of Smiles'. The city is renowned for its impressive architecture, ranging from the historic Aarhus Cathedral to the modern Iceberg residential complex in the docklands. The ARoS Art Museum, featuring Olafur Eliasson's rainbow panorama, serves as a prominent cultural beacon. With a vibrant student population, Aarhus offers a lively cafe culture, diverse culinary experiences, and a strong sense of community. The open-air museum Den Gamle By (The Old Town) provides a fascinating glimpse into Danish urban history through its carefully preserved buildings. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Aarhus wurde ursprünglich im späten 8. Jahrhundert als Wikingersiedlung gegründet.",
+ "Die Stadt war im Jahr 2017 Kulturhauptstadt Europas.",
+ "Sie beherbergt die Universität Aarhus, die regelmäßig zu den 100 besten Universitäten weltweit zählt.",
+ "Das Marselisborg-Schloss in Aarhus ist die Sommerresidenz der dänischen Königsfamilie."
+ ],
+ hu: [
+ "A várost eredetileg a vikingek alapították a 8. században az Aarhus folyó torkolatánál.",
+ "Az aarhusi dóm (Aarhus Domkirke) Dánia leghosszabb és legmagasabb temploma.",
+ "A város 2017-ben viselte az Európa Kulturális Fővárosa címet.",
+ "Az aarhusi kikötő Dánia egyik legforgalmasabb és legnagyobb teherkikötője."
+ ],
+ ro: ["Aarhus a fost fondat ca o așezare vikingă în secolul al VIII-lea, fiind unul dintre cele mai vechi orașe din Scandinavia.", "Muzeul de Artă ARoS este renumit pentru panorama sa circulară din sticlă colorată, creată de Olafur Eliasson.", "Den Gamle By este un muzeu în aer liber impresionant, care recreează fidel viața urbană daneză din diferite epoci istorice.", "Catedrala din Aarhus, finalizată în secolul al XVI-lea, este cea mai înaltă și cea mai lungă biserică din întreaga Danemarcă.", "Orașul a fost desemnat Capitală Europeană a Culturii în anul 2017, consolidându-și statutul pe harta turistică internațională."],
+ en: ["Aarhus was originally founded as a fortified Viking settlement named Aros in the 8th century.", "The Aarhus Cathedral is the tallest and longest church in Denmark.", "The city was designated as the European Capital of Culture in 2017.", "Den Gamle By is a unique open-air museum where entire historic buildings from across Denmark were relocated and reassembled."]
+ },
+ facts: {
+ en: ["Aarhus was a European Capital of Culture in 2017.","The city was founded as a Viking settlement in the 8th century.","The Aarhus Cathedral is the tallest and longest church in Denmark.","The Moesgaard Museum is famous for its archaeological exhibits, including the Grauballe Man."],
+ de: ["Aarhus war 2017 Kulturhauptstadt Europas.","Die Stadt wurde im 8. Jahrhundert als Wikingersiedlung gegründet.","Der Dom von Aarhus ist die höchste und längste Kirche Dänemarks.","Das Moesgaard Museum ist berühmt für seine archäologischen Exponate, darunter der Grauballe-Mann."],
+ hu: ["Aarhus 2017-ben Európa Kulturális Fővárosa volt.","A várost viking településként alapították a 8. században.","Az aarhus-i katedrális Dánia legmagasabb és leghosszabb temploma.","A Moesgaard Múzeum híres régészeti kiállításairól, köztük a Grauballe-i férfiról."],
+ ro: ["Aarhus a fost Capitală Europeană a Culturii în 2017.","Orașul a fost fondat ca așezare vikingă în secolul al VIII-lea.","Catedrala din Aarhus este cea mai înaltă și mai lungă biserică din Danemarca.","Muzeul Moesgaard este faimos pentru exponatele sale arheologice, inclusiv Omul de la Grauballe."]
+ },
+ image: "/geo-images/denmark/aarhus.webp",
+ },
+ {
+ id: "city-odense",
+ type: "city",
+ parent: "denmark",
+ coords: [10.3883, 55.3958],
+ name: { de: "Odense", hu: "Odense", ro: "Odense", en: "Odense" },
+ description: {
+ en: "Odense, located on the island of Funen, is the birthplace of the world-famous fairytale writer Hans Christian Andersen. The city celebrates its literary heritage with museums, statues, and annual festivals dedicated to his work. Odense is one of Denmark's oldest cities, offering a charming old town, beautiful parks, and a lively cultural scene. It is also a center for robotics and technology in Denmark.",
+ de: "Odense auf der Insel Fünen ist der Geburtsort des weltberühmten Märchenschreibers Hans Christian Andersen. Die Stadt feiert ihr literarisches Erbe mit Museen, Statuen und jährlichen Festivals, die seinem Werk gewidmet sind. Odense ist eine der ältesten Städte Dänemarks und bietet eine charmante Altstadt, wunderschöne Parks und eine lebendige Kulturszene. Es ist auch ein Zentrum für Robotik und Technologie in Dänemark.",
+ hu: "Odense, amely Fünen szigetén található, a világhírű meseíró, Hans Christian Andersen szülőhelye. A város múzeumokkal, szobrokkal és a munkásságának szentelt éves fesztiválokkal ünnepli irodalmi örökségét. Odense Dánia egyik legrégebbi városa, hangulatos óvárossal, gyönyörű parkokkal és élénk kulturális élettel. Emellett a robotika és a technológia központja is Dániában.",
+ ro: "Odense, situat pe insula Funen, este locul de naștere al celebrului scriitor de basme Hans Christian Andersen. Orașul își celebrează moștenirea literară prin muzee, statui și festivaluri anuale dedicate operei sale. Odense este unul dintre cele mai vechi orașe din Danemarca, oferind un oraș vechi fermecător, parcuri frumoase și o scenă culturală plină de viață. Este, de asemenea, un centru pentru robotică și tehnologie în Danemarca."},
+ descriptionAdvanced: {
+ de: "Odense ist die drittgrößte Stadt Dänemarks und als Geburtsort des Märchendichters Hans Christian Andersen weltberühmt. Die Stadt auf der Insel Fünen verbindet ihren historischen Charme, der in den kopfsteingepflasterten Gassen des alten Viertels spürbar ist, mit moderner Urbanität. Das neue H.C. Andersen Haus bietet eine innovative und poetische Erfahrung, die das Erbe des Dichters auf einzigartige Weise würdigt. Odense hat sich zudem zu einem bedeutenden Zentrum für Robotik und Technologie entwickelt, was der traditionsreichen Stadt ein zukunftsorientiertes Gesicht verleiht. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Odense, Fünen szigetének legnagyobb városa, leginkább Hans Christian Andersen világhírű meseíró szülővárosaként él a köztudatban. A város varázslatos macskaköves utcái és jól megőrzött favázas házai egy letűnt kor romantikáját idézik. Odense nemcsak a mesék, hanem a dán történelem fontos központja is, amelyet Odin, a skandináv főisten után neveztek el. A modern Odense egy feltörekvő technológiai központ, különösen a robotika és a drónfejlesztés területén. A város zöld parkjai és csatornái idilli környezetet biztosítanak a pihenni vágyóknak. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Odense, situat pe insula Funen, este renumit la nivel mondial drept locul de naștere al faimosului scriitor de basme Hans Christian Andersen. Orașul a știut să își păstreze farmecul de basm, cu străzi pietruite și case tradiționale pe jumătate din lemn care amintesc de secolul al XIX-lea. În ciuda moștenirii sale istorice profunde, Odense s-a dezvoltat într-un centru modern pentru robotică și tehnologie avansată în Danemarca. Vizitatorii pot explora numeroase parcuri verzi, precum pitorescul Munke Mose, sau pot naviga pe râul Odense, care traversează liniștit orașul. Orașul este, de asemenea, un exemplu de sustenabilitate, cu o infrastructură dedicată bicicliștilor extrem de bine dezvoltată. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Odense is the third-largest city in Denmark and the charming capital of the island of Funen. It is most famous worldwide as the birthplace of the legendary fairy tale writer Hans Christian Andersen. The city beautifully balances its historic legacy with modern urban development, offering picturesque cobblestone streets and innovative museums. Visitors can explore the H.C. Andersen House, which provides an immersive journey into the author's vivid imagination. Odense is also a city of parks and green spaces, intertwined by the Odense River. Its rich history extends back over a thousand years, making it one of the oldest settlements in the country. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Odense ist eine der ältesten Städte Dänemarks und feierte bereits 1988 ihr 1000-jähriges Bestehen.",
+ "Die Stadt beherbergt das Dänische Eisenbahnmuseum, das sich in einem historischen Lokschuppen befindet.",
+ "Der St.-Knuds-Dom in Odense gilt als eines der bedeutendsten gotischen Bauwerke Dänemarks.",
+ "Jedes Jahr im August verwandelt das H.C. Andersen Festival die Stadt in eine große Bühne für Kunst und Kultur."
+ ],
+ hu: [
+ "Odense neve az ónorse 'Óðinsvé' szóból ered, ami Odin szentélyét jelenti.",
+ "A város büszkélkedhet a Hans Christian Andersen Múzeummal, amelyet a szerző szülőházában alakítottak ki.",
+ "A Szent Knud székesegyházban őrzik a 11. században meggyilkolt IV. Knut dán király földi maradványait.",
+ "Odense ma a dán robotikai ipar központja, több mint száz tech cég működik itt."
+ ],
+ ro: ["Odense este al treilea cel mai mare oraș din Danemarca și poartă numele zeului nordic Odin.", "Noua casă memorială și muzeu Hans Christian Andersen oferă o experiență interactivă unică în lumea poveștilor sale.", "Orașul găzduiește unul dintre cele mai avansate hub-uri de dezvoltare a roboticii colaborative din Europa.", "Catedrala Sfântul Knut din Odense are un altar impresionant și adăpostește relicvele regelui Knut cel Sfânt.", "Festivalul anual al florilor din Odense transformă străzile orașului într-o expoziție spectaculoasă de artă florală și culori."],
+ en: ["Odense celebrated its 1000th anniversary in 1988, highlighting its deep historical roots.", "The city's name is derived from 'Odins Vi', meaning 'Odin's Sanctuary' in Old Norse.", "Hans Christian Andersen was born here in 1805, and his legacy is celebrated throughout the city.", "The Odense Zoo is home to an impressive oceanarium and diverse wildlife exhibits."]
+ },
+ facts: {
+ en: ["The H.C. Andersen Museum is a major attraction in the city.","Odense is named after the Norse god Odin.","The city has a strong tradition of cycling, with extensive bike paths.","The Odense Zoo is consistently ranked as one of the best in Europe."],
+ de: ["Das H.C. Andersen Museum ist eine Hauptattraktion der Stadt.","Odense ist nach dem nordischen Gott Odin benannt.","Die Stadt hat eine starke Radfahrtradition mit ausgedehnten Radwegen.","Der Zoo von Odense wird regelmäßig als einer der besten in Europa eingestuft."],
+ hu: ["A H.C. Andersen Múzeum a város egyik fő látványossága.","Odense a skandináv istenről, Odinról kapta a nevét.","A városban erős a kerékpározás hagyománya, kiterjedt kerékpárutakkal.","Az Odense-i Állatkertet rendszeresen Európa legjobbjai közé sorolják."],
+ ro: ["Muzeul H.C. Andersen este o atracție majoră în oraș.","Odense poartă numele zeului nordic Odin.","Orașul are o tradiție puternică în ciclism, cu piste extinse pentru biciclete.","Grădina Zoologică din Odense este clasată constant printre cele mai bune din Europa."]
+ },
+ image: "/geo-images/denmark/odense.webp",
+ },
+ {
+ id: "reg-jutland",
+ type: "region",
+ parent: "denmark",
+ coords: [9.5018, 56.2639],
+ name: { de: "Jütland", hu: "Jütland", ro: "Iutlanda", en: "Jutland" },
+ description: {
+ en: "Jutland is the large peninsula that forms the mainland part of Denmark. It is characterized by diverse landscapes, from the rugged North Sea coast with its vast sandy beaches and dunes to the gentler hills and fjords of the east coast. Jutland is home to historic towns, Viking monuments like the Jelling Stones, and the original Legoland in Billund. The region is known for its agricultural heritage and strong local traditions.",
+ de: "Jütland ist die große Halbinsel, die den Festlandteil Dänemarks bildet. Sie ist geprägt von vielfältigen Landschaften, von der schroffen Nordseeküste mit ihren weiten Sandstränden und Dünen bis hin zu den sanfteren Hügeln und Fjorden der Ostküste. Jütland beherbergt historische Städte, Wikingerdenkmäler wie die Steine von Jelling und das ursprüngliche Legoland in Billund. Die Region ist bekannt für ihr landwirtschaftliches Erbe und ihre starken lokalen Traditionen.",
+ hu: "Jütland a nagy félsziget, amely Dánia szárazföldi részét alkotja. Változatos tájak jellemzik, a zord északi-tengeri partvidéktől a hatalmas homokos strandokkal és dűnékkel, a keleti part szelídebb dombjaiig és fjordjaiig. Jütland történelmi városoknak, viking emlékeknek, mint például a Jelling-kövek, és az eredeti Legolandnek ad otthont Billundban. A régió mezőgazdasági örökségéről és erős helyi hagyományairól ismert.",
+ ro: "Iutlanda este marea peninsulă care formează partea continentală a Danemarcei. Este caracterizată de peisaje diverse, de la coasta aspră a Mării Nordului, cu plajele sale vaste de nisip și dune, până la dealurile și fiordurile mai blânde de pe coasta de est. Iutlanda găzduiește orașe istorice, monumente vikinge precum Pietrele de la Jelling și originalul Legoland din Billund. Regiunea este cunoscută pentru moștenirea sa agricolă și tradițiile locale puternice."},
+ descriptionAdvanced: {
+ de: "Jütland ist der einzige Teil Dänemarks, der mit dem europäischen Festland verbunden ist, und macht den größten Teil der Landesfläche aus. Die Halbinsel ist geprägt von einer enormen landschaftlichen Vielfalt, die von den dramatischen Wanderdünen und weiten Sandstränden der Nordseeküste bis zu den sanften Hügeln und tiefen Fjorden im Osten reicht. Jütland ist nicht nur landwirtschaftlich bedeutend, sondern beherbergt auch wichtige Industrie- und Hafenstädte wie Aarhus und Aalborg. Die Region ist reich an Geschichte, von den Wikingermonumenten in Jelling bis zu den historischen Handelsstädten der Westküste. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "A Jütland-félsziget Dánia kontinentális része, amely hatalmas, érintetlen tájaival és drámai partvonalaival tűnik ki. A nyugati part mentén a szélfútta dűnék és a végtelen homokos strandok vonzzák a természet szerelmeseit. Északon a Skagen-foknál találkozik a Balti-tenger és az Északi-tenger, egyedülálló természeti jelenséget hozva létre. Jütland belső területei lankás dombvidékeket, mély erdőket és kristálytiszta tavakat rejtenek, amelyek ideálisak a túrázásra. A régió történelmi városai és viking emlékei Dánia ősi gyökereit tárják a látogatók elé. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Peninsula Iutlanda reprezintă principala legătură terestră a Danemarcei cu continentul european, mărginită de Marea Nordului la vest și Marea Baltică la est. Această regiune este caracterizată de contraste geografice puternice, de la plajele nesfârșite și dunele de nisip dramatice de pe coasta de vest, până la pădurile dese și dealurile blânde din partea de est. Iutlanda este inima agricolă a țării, cu ferme extinse care susțin renumita industrie alimentară daneză. Din punct de vedere cultural, locuitorii peninsulei sunt cunoscuți pentru calmul și spiritul lor muncitor, diferențiindu-se subtil de atmosfera mai agitată a capitalei. Aici se găsesc și numeroase vestigii istorice, inclusiv faimoasele monumente runice vikinge de la Jelling. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Jutland is the large peninsula that makes up the continental portion of Denmark, connecting the country to Germany and the rest of Europe. It features a diverse landscape of rolling hills, deep fjords, dense forests, and expansive sandy beaches along the North Sea coast. The region is known for its strong agricultural traditions, Viking history, and vibrant coastal towns. From the artistic hub of Skagen in the far north to the historic borderlands in the south, Jutland offers a rich tapestry of Danish culture. The area is also home to significant national parks and nature reserves, providing ample opportunities for outdoor recreation. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Jütland ist die einzige dänische Region, die eine Landgrenze zu einem anderen Staat (Deutschland) hat.",
+ "Der höchste punkt Dänemarks, Møllehøj, befindet sich in den Hügeln von Mitteljütland.",
+ "An der Nordspitze bei Skagen treffen Nord- und Ostsee sichtbar aufeinander.",
+ "Die Halbinsel wurde historisch von den Jüten besiedelt, einem germanischen Stamm der Völkerwanderungszeit."
+ ],
+ hu: [
+ "Jütland az egyetlen dán régió, amely szárazföldi határral rendelkezik egy másik országgal, Németországgal.",
+ "Itt található a Wadden-tenger Nemzeti Park, amely az UNESCO Világörökség része.",
+ "A félsziget nyugati partján található a Råbjerg Mile, Észak-Európa egyik legnagyobb vándorló homokdűnéje.",
+ "Jelling városa Jütlandon ad otthont a híres Jellingi rúnaköveknek, Dánia 'keresztlevelének'."
+ ],
+ ro: ["Iutlanda constituie aproximativ două treimi din suprafața totală a Danemarcei, fiind singura parte continentală a țării.", "Skagen, situat în extremitatea nordică a Iutlandei, este locul unde se întâlnesc curenții Mării Nordului și Mării Baltice.", "Coasta de vest a Iutlandei este renumită pentru buncărele sale din Al Doilea Război Mondial, parte a Zidului Atlanticului.", "Pietrele runice de la Jelling, adesea numite „certificatul de naștere al Danemarcei”, se află în centrul acestei peninsule.", "În Iutlanda se află cel mai înalt punct natural al Danemarcei, Møllehøj, care atinge modesta altitudine de 170 de metri."],
+ en: ["Jutland accounts for over two-thirds of Denmark's total land area.", "The western coast of Jutland is famous for its wide sandy beaches and dramatic dune landscapes.", "The region historically served as the homeland for the Jutes, a Germanic tribe that played a key role in European history.", "It is the only part of Denmark that is physically connected to the European mainland."]
+ },
+ facts: {
+ en: ["The Jelling Stones are a UNESCO World Heritage site, often called 'Denmark's birth certificate'.","Skagen, at the northern tip of Jutland, is where the North Sea and Baltic Sea meet.","Jutland is the only part of Denmark connected to mainland Europe.","The region has a rich Viking history, with many burial mounds and settlements."],
+ de: ["Die Steine von Jelling sind ein UNESCO-Weltkulturerbe und werden oft als 'Geburtsurkunde Dänemarks' bezeichnet.","In Skagen, an der Nordspitze Jütlands, treffen Nord- und Ostsee aufeinander.","Jütland ist der einzige Teil Dänemarks, der mit dem europäischen Festland verbunden ist.","Die Region hat eine reiche Wikingergeschichte mit vielen Grabhügeln und Siedlungen."],
+ hu: ["A Jelling-kövek az UNESCO Világörökség részei, gyakran 'Dánia születési anyakönyvi kivonataként' emlegetik őket.","Skagenben, Jütland északi csücskén találkozik az Északi-tenger és a Balti-tenger.","Jütland Dánia egyetlen része, amely kapcsolódik a kontinentális Európához.","A régió gazdag viking történelemmel rendelkezik, számos sírhalommal és településsel."],
+ ro: ["Pietrele de la Jelling sunt un sit al Patrimoniului Mondial UNESCO, fiind adesea numite 'certificatul de naștere al Danemarcei'.","Skagen, în vârful nordic al Iutlandei, este locul unde se întâlnesc Marea Nordului și Marea Baltică.","Iutlanda este singura parte a Danemarcei conectată la Europa continentală.","Regiunea are o istorie vikingă bogată, cu multe movile funerare și așezări."]
+ },
+ image: "/geo-images/denmark/jutland.webp",
+ },
+ {
+ id: "reg-zealand",
+ type: "region",
+ parent: "denmark",
+ coords: [11.7600, 55.4800],
+ name: { de: "Seeland", hu: "Sjælland", ro: "Zeelanda", en: "Zealand" },
+ description: {
+ en: "Zealand is the largest and most populous island in Denmark, home to the capital city, Copenhagen. The island offers a mix of bustling urban areas, historic royal palaces, and beautiful coastal landscapes. Key sites include Roskilde with its Viking Ship Museum and cathedral, and the stunning Møns Klint chalk cliffs. Zealand is the cultural and political heart of Denmark, connected to Sweden by the impressive Øresund Bridge.",
+ de: "Seeland ist die größte und bevölkerungsreichste Insel Dänemarks und beherbergt die Hauptstadt Kopenhagen. Die Insel bietet eine Mischung aus geschäftigen Stadtgebieten, historischen Königsschlössern und wunderschönen Küstenlandschaften. Zu den wichtigsten Sehenswürdigkeiten gehören Roskilde mit seinem Wikingerschiffsmuseum und der Kathedrale sowie die beeindruckenden Kreidefelsen von Møns Klint. Seeland ist das kulturelle und politische Herz Dänemarks und durch die beeindruckende Öresundbrücke mit Schweden verbunden.",
+ hu: "Sjælland Dánia legnagyobb és legnépesebb szigete, itt található a főváros, Koppenhága. A sziget nyüzsgő városi területek, történelmi királyi paloták és gyönyörű tengerparti tájak keverékét kínálja. Főbb helyszínei közé tartozik Roskilde a Viking Hajómúzeummal és a székesegyházzal, valamint a lenyűgöző Møns Klint krétafalak. Sjælland Dánia kulturális és politikai szíve, amelyet a lenyűgöző Øresund híd köt össze Svédországgal.",
+ ro: "Zeelanda este cea mai mare și mai populată insulă din Danemarca, găzduind capitala, Copenhaga. Insula oferă un amestec de zone urbane pline de viață, palate regale istorice și peisaje de coastă frumoase. Siturile cheie includ Roskilde, cu Muzeul Navelor Vikinge și catedrala sa, și uimitoarele stânci de cretă Møns Klint. Zeelanda este inima culturală și politică a Danemarcei, fiind conectată de Suedia prin impresionantul Pod Øresund."},
+ descriptionAdvanced: {
+ de: "Seeland, auf Dänisch Sjælland, ist die größte Insel Dänemarks und bildet das politische sowie wirtschaftliche Herz des Landes. Hier liegt die Hauptstadt Kopenhagen, die als Brücke zum restlichen Skandinaviens fungiert und durch die Öresundverbindung eng mit Schweden vernetzt ist. Die Insel bietet eine abwechslungsreiche Landschaft mit fruchtbaren Feldern, großen Seen wie dem Arresø und einer malerischen Küstenlinie. Historisch gesehen war Seeland das Zentrum der dänischen Monarchie, was sich in den prächtigen Schlössern wie Kronborg und Frederiksborg widerspiegelt. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Sjælland, avagy Zealand Dánia legnagyobb és legnépesebb szigete, amely az ország keleti részén, a Balti-tengerben fekszik. Ez a sziget ad otthont Koppenhágának, így Dánia politikai, gazdasági és kulturális központja is egyben. A sziget északi részét a 'dán Riviéraként' ismerik, gyönyörű strandjaival és impozáns kastélyaival, mint például a Hamletből ismert Kronborg. Dél felé haladva festői falvak, lankás mezőgazdasági területek és ősi viking sírok tarkítják a tájat. A szigetet a hatalmas Øresund híd köti össze a szomszédos Svédországgal, szoros kapcsolatot teremtve a két nemzet között. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Zeeland (Sjælland) este cea mai mare și mai populată insulă a Danemarcei, fiind centrul politic, economic și cultural al națiunii. Insula adăpostește capitala Copenhaga, dar oferă mult mai mult decât agitația urbană, având peisaje idilice cu păduri seculare, lacuri glaciare și coaste stâncoase. Castelele regale impresionante, cum ar fi Frederiksborg și Kronborg, punctează peisajul, atrăgând iubitorii de istorie și literatură din toată lumea. Regiunea combină în mod armonios infrastructura modernă de transport, inclusiv impresionantul pod Øresund care o leagă de Suedia, cu respectul pentru conservarea naturii. De-a lungul coastelor sale, numeroase sate pescărești pitorești continuă să păstreze tradițiile maritime străvechi ale țării. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Zealand is the largest and most populous island in Denmark, serving as the cultural and economic heart of the nation. It is home to the capital city, Copenhagen, as well as numerous historic castles, lush forests, and picturesque coastlines. The island's landscape is characterized by gentle moraine hills and deep inlets, reflecting its glacial origins. Zealand is steeped in royal history, featuring magnificent palaces like Frederiksborg and Kronborg, which inspired Shakespeare's Hamlet. The region blends metropolitan sophistication with tranquil rural beauty, making it a microcosm of Danish life. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Seeland ist die bevölkerungsreichste Insel Dänemarks, auf der etwa 40 % der Einwohner des Landes leben.",
+ "Die Insel ist durch die Große-Belt-Brücke mit Fünen und durch die Öresundbrücke mit Schweden verbunden.",
+ "Roskilde, die ehemalige Hauptstadt Dänemarks, liegt im Zentrum der Insel.",
+ "Die Steilküste von Stevns Klint auf Seeland gehört zum UNESCO-Welterbe."
+ ],
+ hu: [
+ "Sjælland Dánia lakosságának több mint felét adja.",
+ "A sziget déli részén található Møns Klint fehér krétasziklái drámaian emelkednek ki a tengerből.",
+ "Roskilde, a sziget egyik legősibb városa, a dán királyok hagyományos temetkezési helye.",
+ "Az Øresund híd 2000-ben nyílt meg, és a szigetet a svédországi Malmővel köti össze."
+ ],
+ ro: ["Zeeland este a 95-a cea mai mare insulă din lume și găzduiește peste 2,3 milioane de locuitori.", "Podul Øresund, finalizat în anul 2000, conectează direct insula Zeeland de sudul Suediei printr-un tunel și un pod spectaculos.", "Castelul Kronborg din Elsinore, situat în Zeeland, este faimos la nivel mondial ca decorul tragediei Hamlet de William Shakespeare.", "Stevns Klint, o faleză spectaculoasă de cretă albă de pe insulă, a fost inclusă în patrimoniul mondial UNESCO în anul 2014.", "Insula este despărțită de Funen prin Marea Centură (Storebælt), o strâmtoare traversată de unul dintre cele mai lungi poduri suspendate din lume."],
+ en: ["Zealand is connected to the Swedish city of Malmö by the remarkable Øresund Bridge.", "The island is the 95th largest island in the world by land area.", "Roskilde, located on Zealand, was the capital of Denmark until 1443.", "The northern coast of Zealand is often referred to as the 'Danish Riviera' due to its affluent towns and beautiful beaches."]
+ },
+ facts: {
+ en: ["Zealand is the 13th largest island in Europe.","The Øresund Bridge connects Zealand to the Swedish city of Malmö.","Kronborg Castle in Helsingør is the setting for Shakespeare's Hamlet.","Roskilde was the capital of Denmark until the 15th century."],
+ de: ["Seeland ist die 13. größte Insel Europas.","Die Öresundbrücke verbindet Seeland mit der schwedischen Stadt Malmö.","Schloss Kronborg in Helsingør ist der Schauplatz von Shakespeares Hamlet.","Roskilde war bis zum 15. Jahrhundert die Hauptstadt Dänemarks."],
+ hu: ["Sjælland Európa 13. legnagyobb szigete.","Az Øresund híd köti össze Sjællandot a svédországi Malmővel.","A helsingőri Kronborg-kastély Shakespeare Hamletjének helyszíne.","Roskilde a 15. századig Dánia fővárosa volt."],
+ ro: ["Zeelanda este a 13-a cea mai mare insulă din Europa.","Podul Øresund conectează Zeelanda de orașul suedez Malmö.","Castelul Kronborg din Helsingør este cadrul pentru piesa Hamlet de Shakespeare.","Roskilde a fost capitala Danemarcei până în secolul al XV-lea."]
+ },
+ image: "/geo-images/denmark/zealand.webp",
+ }
 ];
 
 export const denmarkCities: POI[] = [
-  {
-    id: "city-aalborg",
-    type: "city",
-    parent: "denmark",
-    coords: [9.9217, 57.0488],
-    name: { de: "Aalborg", hu: "Aalborg", ro: "Aalborg", en: "Aalborg" },
-    description: {
-      en: "Aalborg is a major city in northern Jutland with a strong industrial past and a lively modern waterfront. It is known for its university, cultural venues, and a compact center filled with cafes, museums, and nightlife. The city has transformed from a port and manufacturing hub into a creative northern urban destination.",
-      de: "Aalborg ist eine bedeutende Stadt im Norden Jütlands mit einer starken industriellen Vergangenheit und einer lebendigen modernen Uferzone. Sie ist bekannt für ihre Universität, kulturelle Einrichtungen und ein kompaktes Zentrum voller Cafés, Museen und Nachtleben. Die Stadt hat sich von einem Hafen- und Industriezentrum zu einem kreativen urbanen Ziel im Norden entwickelt.",
-      hu: "Aalborg Észak-Jütland egyik fontos városa, erős ipari múlttal és élénk, modern vízparttal. Egyeteméről, kulturális helyszíneiről, valamint kávézókkal, múzeumokkal és éjszakai élettel teli kompakt belvárosáról ismert. A város a kikötői és gyártóközpontból kreatív északi városi célponttá alakult.",
-      ro: "Aalborg este un oraș important din nordul Iutlandei, cu un trecut industrial puternic și un mal al apei modern și animat. Este cunoscut pentru universitatea sa, spațiile culturale și centrul compact plin de cafenele, muzee și viață de noapte. Orașul s-a transformat dintr-un port și centru de producție într-o destinație urbană creativă din nord."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Aalborg az észak-jütlandi régió központja és Dánia negyedik legnagyobb városa, amely a Limfjord partján terül el. Történelmileg egy forgalmas ipari és kereskedelmi kikötő volt, ma pedig a kultúra és a tudás modern fellegvára. A város jellegzetes épülete az Utzon Center, amelyet Jørn Utzon, a sydney-i operaház dán tervezője álmodott meg. Aalborg híres az élénk éjszakai életéről is, különösen a Jomfru Ane Gade nevű utcáról, amely tele van bárokkal és éttermekkel. A város sikeresen ötvözi a viking múltat az élvonalbeli építészettel és oktatással. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Aalborg este un oraș dinamic situat în nordul Iutlandei, traversat de apele spectaculosului Limfjord, care împarte peisajul urban în două. Evoluând dintr-un oraș industrial puternic într-un hub cultural și educațional modern, Aalborg surprinde prin arhitectura sa revitalizată pe malul apei. Universitatea din Aalborg atrage o comunitate studențească masivă, ceea ce conferă orașului o viață de noapte vibrantă, în special pe celebra stradă Jomfru Ane Gade. Orașul este recunoscut pentru inițiativele sale ecologice și transformarea vechilor zone portuare în spații de agrement de ultimă generație, precum Utzon Center. Cu o istorie care datează din epoca vikingilor, Aalborg reușește să păstreze monumente medievale valoroase printre clădirile sale moderne.",
-      en: "Aalborg is an industrious and vibrant city located in North Jutland, beautifully situated along the Limfjord. Historically an important industrial and maritime center, it has successfully transformed into a modern hub of knowledge and culture. The waterfront has undergone a dramatic revitalization, now featuring striking modern architecture like the Utzon Center and the House of Music. Aalborg retains its historical charm with landmarks such as the half-timbered Aalborghus Castle and Jens Bang's House. The city is also famous for its lively cultural scene, including the annual Aalborg Carnival, which is one of the largest in Northern Europe."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Aalborg közelében található a Lindholm Høje, Skandinávia egyik legnagyobb és legjobb állapotban megőrzött viking temetője.",
-        "A várost 1040-ben említik először, mint fontos kereskedelmi csomópontot.",
-        "Az Aalborgi Egyetem, a város legnagyobb felsőoktatási intézménye, több mint 20 000 hallgatóval rendelkezik.",
-        "A Limfjord híd köti össze Aalborgot a fjordon túli Nørresundbyvel."
-      ],
-      ro: ["Aalborg este al patrulea oraș ca mărime din Danemarca și un important centru universitar și de cercetare.", "Utzon Center, de pe faleza orașului, a fost ultima lucrare proiectată de Jørn Utzon, arhitectul faimos al Operei din Sydney.", "Carnavalul din Aalborg, desfășurat anual în luna mai, este cel mai mare carnaval din întreaga regiune scandinavă.", "Jomfru Ane Gade este faimoasă ca fiind cea mai lungă stradă continuă din Scandinavia dedicată exclusiv barurilor și restaurantelor.", "Cimitirul Lindholm Høje, situat în apropiere, este unul dintre cele mai importante și mai mari situri funerare vikinge descoperite vreodată."],
-      en: ["Aalborg Akvavit, a famous Danish spirit, has been produced in the city since the 19th century.", "The city hosts the Aalborg Carnival, attracting over 100,000 participants annually.", "The Limfjord connects the North Sea to the Kattegat, making Aalborg an historically vital port.", "The Utzon Center was the last building designed by Jørn Utzon, the architect of the Sydney Opera House."]
-    },
-    facts: {
-      en: ["Aalborg sits on the Limfjord.", "The city hosts one of Denmark's largest carnival events.", "It is a major center for education in northern Denmark.", "Aalborg's waterfront has been heavily redeveloped in recent years."],
-      de: ["Aalborg liegt am Limfjord.", "Die Stadt veranstaltet einen der größten Karnevals Dänemarks.", "Sie ist ein wichtiger Bildungsstandort in Norddänemark.", "Die Uferzone von Aalborg wurde in den letzten Jahren stark umgestaltet."],
-      hu: ["Aalborg a Limfjord mentén fekszik.", "A város ad otthont Dánia egyik legnagyobb karneváljának.", "Észak-Dánia egyik fontos oktatási központja.", "Aalborg vízpartját az utóbbi években jelentősen átalakították."],
-      ro: ["Aalborg este situat pe Limfjord.", "Orașul găzduiește unul dintre cele mai mari carnavaluri din Danemarca.", "Este un centru important pentru educație în nordul Danemarcei.", "Zona sa de waterfront a fost reamenajată masiv în ultimii ani."]
-    },
-    image: "/geo-images/denmark/aalborg.webp",
-  },
-  {
-    id: "city-helsingor",
-    type: "city",
-    parent: "denmark",
-    coords: [12.6136, 56.0361],
-    name: { de: "Helsingør", hu: "Helsingør", ro: "Helsingør", en: "Helsingør" },
-    description: {
-      en: "Helsingor sits on the narrowest point of the Øresund and has long been a strategic gateway between Denmark and Sweden. The city is best known for Kronborg Castle, a UNESCO World Heritage site that inspired Shakespeare's Hamlet. Its waterfront setting, old streets, and ferry connections give it a strong historical character.",
-      de: "Helsingør liegt an der schmalsten Stelle des Øresunds und war lange ein strategisches Tor zwischen Dänemark und Schweden. Die Stadt ist vor allem für Schloss Kronborg bekannt, ein UNESCO-Weltkulturerbe, das Shakespeare zu Hamlet inspirierte. Ihre Lage am Wasser, die alten Straßen und die Fährverbindungen verleihen ihr einen starken historischen Charakter.",
-      hu: "Helsingør az Øresund legszűkebb pontján fekszik, és hosszú ideig stratégiai kapu volt Dánia és Svédország között. A város leginkább a Kronborg várról ismert, amely UNESCO világörökségi helyszín és Shakespeare Hamletjének ihletője volt. Vízparti fekvése, régi utcái és kompösszeköttetései erős történelmi jelleget adnak neki.",
-      ro: "Helsingør se află în cel mai îngust punct al strâmtorii Øresund și a fost mult timp o poartă strategică între Danemarca și Suedia. Orașul este cunoscut mai ales pentru Castelul Kronborg, sit UNESCO care l-a inspirat pe Shakespeare pentru Hamlet. Poziția sa la apă, străzile vechi și legăturile de feribot îi dau un caracter istoric puternic."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Helsingør egy lenyűgöző kikötőváros Sjælland szigetének északkeleti csücskében, közvetlenül a svéd partokkal szemben. Világhírnevét elsősorban a Kronborg-kastélynak köszönheti, amely Shakespeare 'Hamlet' című drámájának ikonikus helyszíne. A város a középkorban gazdagodott meg a tengeri kereskedelemből és az Øresund-szoroson áthaladó hajóktól szedett vámokból. A hangulatos óvárosban sétálva szűk, macskaköves utcák és gyönyörűen felújított, régi kereskedőházak fogadják a látogatókat. Helsingør ma is fontos tengerészeti és kulturális csomópont Dániában. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Helsingør, cunoscut la nivel internațional și sub numele de Elsinore, este un oraș portuar pitoresc de o importanță istorică majoră, situat la capătul nordic al insulei Zeeland. Strâmtoarea Øresund este cea mai îngustă aici, motiv pentru care orașul a controlat timp de secole traficul maritim din și spre Marea Baltică, percepând taxe vamale foarte profitabile. Astăzi, orașul își încântă vizitatorii cu un centru medieval perfect conservat, cu străzi înguste, case istorice pe jumătate din lemn și o atmosferă maritimă autentică. Portul orașului a fost recent revitalizat și găzduiește acum Muzeul Maritim Național și modernul complex cultural Kulturværftet. Helsingør rămâne, mai presus de toate, inextricabil legat de legenda lui Hamlet, castelul său dominând în continuare peisajul litoral.",
-      en: "Helsingør, also known as Elsinore in English, is a historic port city on the northeastern coast of Zealand. It is internationally renowned as the setting for William Shakespeare's tragic play, Hamlet, centered around the imposing Kronborg Castle. The city's strategic location at the narrowest point of the Øresund strait historically made it a wealthy center for collecting Sound Dues from passing ships. Today, Helsingør's beautifully preserved medieval town center features narrow cobblestone streets and well-kept half-timbered houses. The city also hosts an impressive modern maritime museum, reflecting its deep connection to the sea."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Helsingør és a svédországi Helsingborg közötti kompközlekedés az egyik legforgalmasabb a világon.",
-        "A Kronborg-kastély 2000 óta az UNESCO Világörökség része.",
-        "A város Tengerészeti Múzeuma egy régi szárazdokkban kapott helyet, izgalmas építészeti megoldással.",
-        "A történelmi Øresund-vámot (Sundtolden) több mint 400 évig szedték a városon áthaladó hajóktól."
-      ],
-      ro: ["Taxa Øresund, colectată la Helsingør timp de peste 400 de ani, a reprezentat la un moment dat până la două treimi din veniturile coroanei daneze.", "Castelul Kronborg, fortăreața impunătoare a orașului, face parte din Patrimoniul Mondial UNESCO din anul 2000.", "Kulturværftet (Șantierul Cultural) este un centru modern de artă și cultură creat prin transformarea vechiului șantier naval al orașului.", "Feriboturile dintre Helsingør și orașul suedez Helsingborg parcurg distanța de doar 4 kilometri în aproximativ 20 de minute.", "Muzeul Maritim M/S din oraș are o arhitectură unică, fiind construit în întregime sub nivelul solului într-un fost doc uscat."],
-      en: ["Helsingør is situated just 4 kilometers across the Øresund strait from Helsingborg, Sweden.", "The city grew incredibly wealthy between 1429 and 1857 by collecting Sound Dues from merchant ships.", "Kronborg Castle, the home of Hamlet, is recognized as a UNESCO World Heritage site.", "The futuristic M/S Maritime Museum of Denmark is uniquely built into a former dry dock."]
-    },
-    facts: {
-      en: ["Kronborg Castle dominates Helsingor's skyline.", "The city is a key ferry point to Sweden.", "It once collected tolls from passing ships.", "Shakespeare's Hamlet is set at Kronborg."],
-      de: ["Schloss Kronborg prägt die Silhouette von Helsingør.", "Die Stadt ist ein wichtiger Fährpunkt nach Schweden.", "Hier wurden einst Gebühren von vorbeifahrenden Schiffen erhoben.", "Shakespeares Hamlet spielt in Kronborg."],
-      hu: ["A Kronborg vár uralja Helsingør látképét.", "A város fontos kompállomás Svédország felé.", "Egykor díjat szedtek a hajóktól az áthaladásért.", "Shakespeare Hamletje Kronborgban játszódik."],
-      ro: ["Castelul Kronborg domină silueta orașului Helsingør.", "Orașul este un important punct de feribot către Suedia.", "Aici se colectau odinioară taxe de la navele care treceau.", "Hamlet de Shakespeare este plasat la Kronborg."]
-    },
-    image: "/geo-images/denmark/helsingor.webp",
-  },
-  {
-    id: "city-roskilde",
-    type: "city",
-    parent: "DK",
-    coords: [12.0803, 55.6415],
-    name: { de: "Roskilde", hu: "Roskilde", ro: "Roskilde", en: "Roskilde" },
-    description: {
-      en: "Roskilde is one of Denmark's most important historic cities and a strong SEO keyword for travelers who want cathedral heritage, Viking history, and a compact old town. The city grew around the Roskilde Cathedral and later became famous for the Viking Ship Museum and its lively festival culture. Its fjord-side setting adds scenic walks, harbor views, and easy access to the wider Zealand region. Roskilde works especially well for visitors who want a classic Danish day trip with history, museums, and waterfront atmosphere.",
-      de: "Roskilde ist eine der wichtigsten historischen Städte Dänemarks und ein starkes SEO-Thema für Reisende, die Kathedralen, Wikinger-Geschichte und eine kompakte Altstadt suchen. Die Stadt wuchs rund um den Dom von Roskilde und wurde später durch das Wikingerschiffsmuseum und seine lebendige Festivalkultur berühmt. Die Lage am Fjord sorgt für schöne Spazierwege, Hafenblicke und gute Anbindung an ganz Seeland. Roskilde eignet sich besonders für Besucher, die einen klassischen dänischen Tagesausflug mit Geschichte, Museen und Uferatmosphäre suchen.",
-      hu: "Roskilde Dánia egyik legfontosabb történelmi városa, és erős SEO-téma az olyan utazóknak, akik katedrálisörökséget, viking történelmet és hangulatos óvárost keresnek. A város a roskildei katedrális körül fejlődött ki, majd a Viking Hajómúzeum és az élénk fesztiválkultúra tette híressé. Fjord menti fekvése sétányokat, kikötői kilátásokat és jó összeköttetést ad egész Sjælland felé. Roskilde különösen jó választás azoknak, akik klasszikus dán egynapos kirándulást akarnak történelemmel, múzeumokkal és vízparti hangulattal.",
-      ro: "Roskilde este unul dintre cele mai importante orașe istorice ale Danemarcei și un cuvânt-cheie SEO puternic pentru călătorii care caută patrimoniu de catedrală, istorie vikingă și un centru vechi compact. Orașul a crescut în jurul Catedralei din Roskilde și a devenit celebru ulterior pentru Muzeul Navelor Vikinge și pentru cultura sa de festivaluri. Poziția de lângă fiord adaugă plimbări pitorești, priveliști spre port și acces ușor către restul insulei Zealand. Roskilde este ideal pentru vizitatorii care vor o excursie daneză clasică, cu istorie, muzee și atmosferă de mal de apă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Roskilde Dánia egyik legrégebbi városa, amely hosszú ideig az ország fővárosa és spirituális központja volt a középkorban. A város büszkesége az UNESCO Világörökség részét képező Roskilde-székesegyház, a dán uralkodók hagyományos temetkezési helye. A Roskilde-fjord partján fekvő város mélyen gyökerezik a viking történelemben, amit a híres Viking Hajómúzeum lenyűgöző leletei is bizonyítanak. Emellett a város ad otthont Észak-Európa legnagyobb zenei fesztiváljának, a Roskilde Fesztiválnak, amely minden nyáron százezreket vonz. Roskilde sikeresen ötvözi a királyi méltóságot, az ősi történelmet és a fiatalos lendületet. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Roskilde este un oraș cu o profundă rezonanță istorică pentru danezi, servind drept capitală a Danemarcei din secolul al XI-lea până la jumătatea secolului al XV-lea. Așezat pitoresc la capătul fiordului Roskilde, orașul este faimos pentru conexiunile sale puternice cu epoca vikingilor, conservate remarcabil la Muzeul Navelor Vikinge. Catedrala impunătoare a orașului, o capodoperă a arhitecturii gotice din cărămidă roșie, este locul de odihnă veșnică pentru aproape toți monarhii danezi. Dincolo de istoria sa regală, Roskilde este astăzi sinonim cu tineretul și muzica alternativă, grație celebrului său festival de vară. Combinația dintre străzile liniștite din secolul al XVII-lea și efervescența sa culturală modernă îi conferă o identitate absolut unică.",
-      en: "Roskilde is one of Denmark's oldest and most historically significant cities, located at the end of the Roskilde Fjord on Zealand. It served as the capital of Denmark from the 11th century until 1443, making it a crucial center for the monarchy and the church. The city's skyline is dominated by the twin spires of the majestic Roskilde Cathedral, the traditional burial site for Danish monarchs. Roskilde is also celebrated for its Viking Ship Museum, which houses five perfectly reconstructed longships found in the nearby fjord. Every summer, the city transforms as it hosts the Roskilde Festival, one of the largest music and culture festivals in Europe."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Roskilde-székesegyházban 39 dán király és királynő nyugszik.",
-        "A város a 11. századtól a reformációig püspöki székhely volt.",
-        "A Viking Hajómúzeumban öt eredeti viking hajóroncs tekinthető meg, amelyeket a fjordból emeltek ki.",
-        "Az 1971-ben indult Roskilde Fesztivál bevételeit teljes egészében jótékonysági célokra fordítják."
-      ],
-      ro: ["Festivalul Roskilde, care a debutat în 1971, este unul dintre cele mai mari și mai vechi festivaluri de muzică rock și pop din Europa.", "Catedrala din Roskilde, inclusă în patrimoniul UNESCO, adăpostește mormintele a nu mai puțin de 39 de regi și regine daneze.", "Muzeul Navelor Vikinge din oraș expune cinci nave originale scufundate intenționat în secolul al XI-lea pentru a proteja portul.", "Roskilde a fost desemnat oficial un 'Hub al Inovației' în domeniul tehnologiilor muzicale și producției de evenimente.", "Universitatea din Roskilde (RUC) este recunoscută pentru metodele sale neconvenționale de predare, bazate pe proiecte interdisciplinare."],
-      en: ["Roskilde Cathedral holds the tombs of 39 Danish kings and queens.", "The Roskilde Festival attracts over 130,000 attendees annually, making it one of the largest in Europe.", "The city was established by the Vikings more than 1,000 years ago.", "The five Viking ships on display in the local museum were deliberately sunk in the 11th century to block the channel."]
-    },
-    facts: {
-      en: ["Roskilde Cathedral is a UNESCO World Heritage site.", "The city was once an early royal capital of Denmark.", "The Viking Ship Museum is one of its headline attractions.", "Roskilde Festival is among the largest music festivals in Northern Europe.", "The fjord gives the city a scenic waterfront setting."],
-      de: ["Der Dom von Roskilde ist UNESCO-Welterbe.", "Die Stadt war einst eine frühe Königshauptstadt Dänemarks.", "Das Wikingerschiffsmuseum gehört zu ihren Hauptattraktionen.", "Das Roskilde Festival ist eines der größten Musikfestivals in Nordeuropa.", "Der Fjord verleiht der Stadt eine malerische Uferlage."],
-      hu: ["A roskildei katedrális UNESCO Világörökség része.", "A város egykor Dánia korai királyi fővárosa volt.", "A Viking Hajómúzeum a legfontosabb látnivalói közé tartozik.", "A Roskilde Festival Észak-Európa egyik legnagyobb zenei fesztiválja.", "A fjord festői vízparti környezetet ad a városnak."],
-      ro: ["Catedrala din Roskilde este sit UNESCO al Patrimoniului Mondial.", "Orașul a fost cândva o capitală regală timpurie a Danemarcei.", "Muzeul Navelor Vikinge este una dintre atracțiile sale principale.", "Festivalul Roskilde este printre cele mai mari festivaluri de muzică din Europa de Nord.", "Fiordul oferă orașului un cadru pitoresc la malul apei."]
-    },
-    image: "/geo-images/denmark/roskilde.webp",
-  },
-  {
-    id: "city-esbjerg",
-    type: "city",
-    parent: "DK",
-    coords: [8.4508, 55.4765],
-    name: { de: "Esbjerg", hu: "Esbjerg", ro: "Esbjerg", en: "Esbjerg" },
-    description: {
-      en: "Esbjerg is Denmark's big west-coast port city and a practical SEO destination for ferry travel, offshore energy, and North Sea coastal trips. It grew rapidly in the 19th century as a planned harbor town and remains one of the country's most important gateways to the sea. The city mixes modern industry with beaches, sculpture, and a strong maritime identity. Esbjerg is also a useful base for exploring the Wadden Sea and the southwestern part of Jutland.",
-      de: "Esbjerg ist Dänemarks große Hafenstadt an der Westküste und ein starkes SEO-Ziel für Fährreisen, Offshore-Energie und Nordsee-Küstenausflüge. Sie wuchs im 19. Jahrhundert rasch als geplante Hafenstadt und ist bis heute eines der wichtigsten Tore des Landes zum Meer. Die Stadt verbindet moderne Industrie mit Stränden, Kunstwerken und einer ausgeprägten maritimen Identität. Esbjerg ist auch ein guter Ausgangspunkt für das Wattenmeer und den Südwesten Jütlands.",
-      hu: "Esbjerg Dánia nagy nyugati parti kikötővárosa, és erős SEO-célpont a kompátkelések, az offshore energia és az Északi-tengeri utazások szempontjából. A 19. században tervezett kikötővárosként nőtt nagyra, és ma is az ország egyik legfontosabb tengeri kapuja. A város a modern ipart strandokkal, szobrokkal és erős tengeri identitással ötvözi. Esbjerg jó kiindulópont a Wadden-tenger és Dél-Nyugat-Jütland felfedezéséhez is.",
-      ro: "Esbjerg este marele oraș-port al Danemarcei de pe coasta de vest și o destinație SEO puternică pentru feriboturi, energie offshore și excursii pe litoralul Mării Nordului. S-a dezvoltat rapid în secolul al XIX-lea ca un oraș-port planificat și rămâne una dintre cele mai importante porți maritime ale țării. Orașul combină industria modernă cu plaje, sculpturi și o identitate maritimă puternică. Esbjerg este și o bază bună pentru explorarea Mării Wadden și a sud-vestului Iutlandei."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Esbjerg Dánia legfontosabb nyugati parti városa, amely a Wadden-tenger partján fekszik. Bár a város viszonylag fiatal – csak a 19. század végén alapították kikötőként –, gyorsan Dánia tengeri kapujává vált. Esbjerg gazdasága kezdetben a halászatra és a tengeri kereskedelemre épült, mára azonban a dán offshore ipar, az olaj- és szélenergia központjává fejlődött. A város partvonalát Svend Wiig Hansen lenyűgöző 'Az ember találkozik a tengerrel' című óriási szobra őrzi. A modern Esbjerg egy ipari központ, amely erős tengeri identitással és dinamikus fejlődéssel rendelkezik. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Esbjerg este cel mai tânăr oraș mare al Danemarcei, fondat abia în anul 1868 ca răspuns strategic la necesitatea unui port important cu acces direct la Marea Nordului. Așezat pe coasta de vest a Iutlandei, orașul s-a transformat rapid dintr-un simplu port pescăresc în capitala energiei offshore a Danemarcei. Orașul are un rol cheie în ambițioasa tranziție verde a națiunii, găzduind operațiuni masive de instalare a parcurilor eoliene maritime. Vizitatorii sunt adesea întâmpinați de celebra sculptură monumentală „Omul întâlnește marea” („Mennesket ved Havet”), care domină intrarea în port. În plus, Esbjerg servește drept poartă de acces principală către superbul parc național Wadden Sea, renumit pentru biodiversitatea sa unică.",
-      en: "Esbjerg is a relatively young and dynamic city on the west coast of Jutland, originally established in the late 19th century as a primary export harbor. It quickly grew into Denmark's most important fishing and shipping port on the North Sea. Today, Esbjerg is recognized as the offshore energy capital of Denmark, serving as a hub for both the oil, gas, and rapidly expanding wind energy sectors. The city is famous for the monumental 'Men at Sea' sculpture, which gazes out over the coastal waters. With a vibrant cultural life and a prominent music academy, Esbjerg bridges robust industrial heritage with modern cultural development."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Esbjerget 1868-ban alapították királyi rendelettel egy új tengeri kikötő megépítésére.",
-        "A város Dánia ötödik legnépesebb települése.",
-        "Az 'Az ember találkozik a tengerrel' nevű kilenc méter magas szobrot 1995-ben állították fel.",
-        "Esbjerg kikötője a legnagyobb a világon az offshore szélerőművek szállításában és telepítésében."
-      ],
-      ro: ["Esbjerg este în prezent al cincilea oraș ca mărime din Danemarca și cel mai important centru pentru industria petrolieră și eoliană din țară.", "Sculptura impresionantă 'Omul întâlnește marea' este formată din patru bărbați de culoare albă, înalți de 9 metri, care privesc spre orizont.", "Portul Esbjerg a fost construit în mod artificial de către statul danez, după pierderea regiunilor Schleswig-Holstein în 1864.", "Orașul este poarta principală de acces către insula Fanø și Marea Wadden, un ecosistem protejat de UNESCO.", "Esbjerg găzduiește anual festivalul de muzică 'Esbjerg Rock Festival', o tradiție care datează încă din anul 1989."],
-      en: ["Esbjerg is the fifth-largest city in Denmark by population.", "The iconic 'Men at Sea' sculpture features four 9-meter-tall white figures overlooking the coast.", "The city was founded by royal decree in 1868 to serve as a vital harbor after the loss of Altona in the Second Schleswig War.", "Esbjerg serves as the primary base for Denmark's booming offshore wind farm industry."]
-    },
-    facts: {
-      en: ["Esbjerg is one of Denmark's largest ports.", "The city became important after the 1860s as a planned harbor town.", "The Men at Sea sculpture is a major coastal landmark.", "It is a common departure point for North Sea routes.", "The city has strong links to offshore wind and energy industries."],
-      de: ["Esbjerg ist einer der größten Häfen Dänemarks.", "Die Stadt wurde nach den 1860er-Jahren als geplante Hafenstadt wichtig.", "Die Skulptur 'Mennesket ved Havet' ist ein wichtiges Küstenwahrzeichen.", "Sie ist ein häufiger Ausgangspunkt für Nordseerouten.", "Die Stadt hat enge Verbindungen zur Offshore-Wind- und Energieindustrie."],
-      hu: ["Esbjerg Dánia egyik legnagyobb kikötője.", "A város az 1860-as évektől vált fontossá tervezett kikötővárosként.", "A Mennesket ved Havet szoborcsoport fontos parti jelkép.", "Gyakori indulási pont az északi-tengeri útvonalakhoz.", "A város erős kapcsolatban áll az offshore szél- és energiaiparral."],
-      ro: ["Esbjerg este unul dintre cele mai mari porturi ale Danemarcei.", "Orașul a devenit important după anii 1860 ca oraș-port planificat.", "Sculptura Mennesket ved Havet este un reper de coastă major.", "Este un punct frecvent de plecare pentru rutele din Marea Nordului.", "Orașul are legături puternice cu industria eoliană offshore și energetică."]
-    },
-    image: "/geo-images/denmark/esbjerg.webp",
-  },
-  {
-    id: "city-viborg",
-    type: "city",
-    parent: "DK",
-    coords: [9.4169, 56.4520],
-    name: { de: "Viborg", hu: "Viborg", ro: "Viborg", en: "Viborg" },
-    description: {
-      en: "Viborg is a central Jutland city with deep medieval roots and a strong SEO appeal for cathedral history and old Danish town charm. It was once an important political and religious center, and its old streets still reflect that long legacy. The city combines lakes, parks, museums, and a relaxed local atmosphere. Viborg is a smart stop for travelers who want history without the crowds of the biggest Danish cities.",
-      de: "Viborg ist eine Stadt in der Mitte Jütlands mit tiefen mittelalterlichen Wurzeln und starker SEO-Wirkung für Kathedralengeschichte und den Charme alter dänischer Städte. Einst war sie ein wichtiges politisches und religiöses Zentrum, und ihre alten Straßen spiegeln dieses lange Erbe noch heute wider. Die Stadt verbindet Seen, Parks, Museen und eine entspannte lokale Atmosphäre. Viborg ist eine gute Wahl für Reisende, die Geschichte ohne die großen Menschenmengen der bekanntesten dänischen Städte suchen.",
-      hu: "Viborg Közép-Jütland városa, mély középkori gyökerekkel és erős SEO-vonzóerővel a katedrálistörténet és az ódán városi hangulat miatt. Egykor fontos politikai és vallási központ volt, és régi utcái ma is ezt a hosszú örökséget tükrözik. A város tavakat, parkokat, múzeumokat és nyugodt helyi atmoszférát ötvöz. Viborg jó választás azoknak, akik történelmet keresnek a legnagyobb dán városok tömegei nélkül.",
-      ro: "Viborg este un oraș din centrul Iutlandei, cu rădăcini medievale adânci și un mare potențial SEO pentru istoria catedralei și farmecul vechilor orașe daneze. A fost cândva un centru politic și religios important, iar străzile sale vechi încă reflectă această moștenire. Orașul combină lacuri, parcuri, muzee și o atmosferă locală relaxată. Viborg este o oprire bună pentru călătorii care vor istorie fără aglomerația celor mai mari orașe daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Viborg egyike Dánia legősibb városainak, Jütland szívében fekszik, és évszázadokon át az ország egyik legfontosabb politikai és vallási központja volt. A város neve az óészaki 'vibjerg' szóból ered, ami szent dombot jelent, utalva pogány vallási múltjára. A középkorban itt koronázták meg a jütlandi királyokat, és itt zajlottak a legfontosabb országgyűlések is. A város legkiemelkedőbb épülete a lenyűgöző Viborgi székesegyház, amelyet gyönyörű freskók díszítenek. Viborg történelmi jelentősége és festői, dombos környezete a dán történelem szerelmeseinek kötelező úti célja. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Viborg este unul dintre cele mai vechi orașe din Danemarca, cu rădăcini care se întind adânc în epoca vikingă, fiind un centru politic și religios extrem de important în Evul Mediu. Situat în inima Peninsulei Iutlanda, orașul este renumit pentru peisajele sale rurale pitorești, fiind înconjurat de lacuri glaciare limpezi și dealuri line. Catedrala din Viborg, cu frescele sale interioare vibrante și cele două turnuri masive, domină orizontul orașului și este o mărturie a puterii istorice a episcopiei locale. În prezent, orașul combină farmecul său medieval cu o abordare modernă a educației și a afacerilor, fiind cunoscut pentru un mare sector de IT și animație. Străzile sale înguste și pietruite spun vizitatorilor o poveste tăcută despre regii care, odinioară, au fost încoronați aici.",
-      en: "Viborg is one of the oldest cities in Denmark, centrally located in the heart of Jutland. Historically, it held immense political and religious power, serving as the site where ancient Danish kings were crowned and where the regional assembly, the 'Ting', was held. The city's crown jewel is the Viborg Cathedral, featuring magnificent frescoes painted by Joakim Skovgaard in the early 20th century. Surrounded by scenic lakes and lush forests, Viborg offers a serene and historically rich atmosphere. The city's historic center, with its winding streets and classical architecture, continues to tell the story of Denmark's early foundations."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Viborg 1060 óta püspöki székhely.",
-        "A dán királyokat az úgynevezett 'Landsting' gyűlésen kiáltották ki Viborgban a középkor folyamán.",
-        "A székesegyházat Joakim Skovgaard dán festő 20. század elején készült freskói teszik egyedülállóvá.",
-        "A Hærvejen, Dánia legrégebbi kereskedelmi és zarándokútvonala áthalad a városon."
-      ],
-      ro: ["Până la mijlocul secolului al XVII-lea, regii danezi trebuiau să fie aclamați oficial de adunarea nobililor din Viborg pentru a fi recunoscuți.", "Catedrala din Viborg se remarcă prin celebrele fresce realizate de Joakim Skovgaard la începutul secolului XX.", "Orașul găzduiește 'The Animation Workshop', una dintre cele mai apreciate și prestigioase școli de animație din întreaga lume.", "Numele orașului, 'Viborg', se traduce vechiul termen nordic pentru 'Muntele Sfânt', subliniind importanța sa religioasă precreștină.", "În timpul evului mediu, Viborg avea nu mai puțin de cinci mănăstiri mari și 12 biserici parohiale, dominând spiritual regiunea."],
-      en: ["The name Viborg derives from Old Norse 'Vé', meaning a holy place, and 'Borg', meaning a fort.", "Viborg Cathedral was originally established in 1130, though the current structure is a 19th-century restoration.", "For centuries, Viborg was the starting point of the ancient Hærvejen (The Ox Road) trade route.", "The city's High Court of Western Denmark has been a central judicial institution for hundreds of years."]
-    },
-    facts: {
-      en: ["Viborg was one of Denmark's early power centers.", "The cathedral square is a key part of the old town.", "The city is surrounded by lakes and green areas.", "Viborg has a strong link to medieval church history.", "It is known for a calm, walkable urban core."],
-      de: ["Viborg war eines der frühen Machtzentren Dänemarks.", "Der Domplatz ist ein wichtiger Teil der Altstadt.", "Die Stadt ist von Seen und Grünflächen umgeben.", "Viborg ist eng mit der mittelalterlichen Kirchengeschichte verbunden.", "Sie ist für ihren ruhigen, gut zu Fuß erkundbaren Stadtkern bekannt."],
-      hu: ["Viborg Dánia egyik korai hatalmi központja volt.", "A katedrális tér az óváros kulcsfontosságú része.", "A várost tavak és zöldterületek veszik körül.", "Viborg erősen kapcsolódik a középkori egyháztörténethez.", "Nyugodt, gyalogosan jól bejárható belvárosáról ismert."],
-      ro: ["Viborg a fost unul dintre primele centre de putere ale Danemarcei.", "Piața catedralei este o parte cheie a centrului vechi.", "Orașul este înconjurat de lacuri și zone verzi.", "Viborg are o legătură puternică cu istoria bisericească medievală.", "Este cunoscut pentru un centru urban liniștit, ușor de parcurs pe jos."]
-    },
-    image: "/geo-images/denmark/viborg.webp",
-  },
-  {
-    id: "city-randers",
-    type: "city",
-    parent: "DK",
-    coords: [10.0368, 56.4607],
-    name: { de: "Randers", hu: "Randers", ro: "Randers", en: "Randers" },
-    description: {
-      en: "Randers sits on the Gudenå river and offers a strong mix of river scenery, old market-town character, and family-friendly attractions. The city is known for Randers Rainforest, its historic center, and easy access to eastern Jutland. Its SEO value comes from being both practical and picturesque, with a genuine Danish small-city feel. Randers is especially appealing for travelers looking for culture, river views, and a relaxed pace.",
-      de: "Randers liegt an der Gudenå und bietet eine starke Mischung aus Flusslandschaft, altem Marktplatzcharakter und familienfreundlichen Attraktionen. Die Stadt ist bekannt für den Randers Regnskov, ihr historisches Zentrum und die gute Anbindung an Ostjütland. Ihr SEO-Wert liegt darin, dass sie zugleich praktisch und malerisch ist und sich echt nach einer kleinen dänischen Stadt anfühlt. Randers ist besonders attraktiv für Reisende, die Kultur, Flussblicke und ein entspanntes Tempo suchen.",
-      hu: "Randers a Gudenå folyó mellett fekszik, és erős keveréket kínál folyóparti látképből, régi vásárvárosi karakterből és családbarát látnivalókból. A város a Randers Rainforest-ről, történelmi belvárosáról és a kelet-jütlandi elérhetőségről ismert. SEO-értékét az adja, hogy egyszerre praktikus és festői, valódi dán kisvárosi hangulattal. Randers különösen vonzó azoknak, akik kultúrát, folyóparti kilátást és nyugodt tempót keresnek.",
-      ro: "Randers se află pe râul Gudenå și oferă un amestec puternic de peisaj de râu, caracter de vechi târg danez și atracții pentru familii. Orașul este cunoscut pentru Randers Rainforest, centrul său istoric și accesul facil către estul Iutlandei. Valoarea sa SEO vine din faptul că este în același timp practic și pitoresc, cu un adevărat aer de oraș mic danez. Randers este atrăgător mai ales pentru călătorii care caută cultură, priveliști la râu și un ritm relaxat."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Randers a Gudenå folyó partján, Kelet-Jütlandon fekszik, egy fontos történelmi és kereskedelmi csomópont. A középkorban a város a dán kereskedelem egyik kulcsfontosságú kikötője volt, mivel a folyó összekötötte a belső területeket a tengerrel. A város hírnevet szerzett a ló- és szarvasmarha-kereskedelemben, valamint a hagyományos dán kesztyűgyártásban. Randers ma leginkább a Randers Regnskovról, Észak-Európa egyik legnagyobb fedett trópusi esőerdőjéről ismert, amely három hatalmas üvegkupolában kapott helyet. A város hangulatos utcái és folyóparti elhelyezkedése barátságos, élhető atmoszférát biztosít. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Randers este situat de-a lungul râului Gudenå, cel mai lung râu din Danemarca, și a fost timp de secole un important centru comercial și strategic. Orașul își trage prosperitatea istorică din accesul facil la rutele navigabile, lucru vizibil și astăzi în portul său activ. Deși are un puternic trecut industrial, Randers a reușit să se reinventeze ca o destinație turistică captivantă, oferind vizitatorilor o combinație interesantă de istorie și natură. O atracție unică este Randers Regnskov, o cupolă tropicală masivă care aduce ecosistemele junglei direct în inima Scandinaviei. Arhitectura orașului este un amestec pitoresc de case pe jumătate din lemn din secolul al XVI-lea și dezvoltări urbane moderne.",
-      en: "Randers is a historic market town located in eastern Jutland at the mouth of the Gudenå, Denmark's longest river. The city's history is deeply connected to trade and maritime activities, having flourished as a commercial hub since the Middle Ages. Randers is distinguished by its charming medieval center, lined with half-timbered houses and narrow alleys. One of its most famous modern attractions is the Randers Regnskov, an impressive indoor tropical rainforest housed in large glass domes. The city successfully blends its rich historical legacy with unique modern attractions and a strong connection to the surrounding river landscape."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A város nevét 1086-ban említik először egy érme feliratán, mint 'Randros'.",
-        "A Randers Regnskov trópusi állatkert több mint 200 állatfajnak ad otthont.",
-        "A dán történelemben a város Niels Ebbesen nemzeti hős révén híresült el, aki 1340-ben itt gyilkolta meg a német Gerhard grófot.",
-        "A Randers Kesztyűgyár a világ egyik legrégebbi márkája, a 13. század óta működik."
-      ],
-      ro: ["Randers Regnskov este formată din trei domuri de sticlă imense, fiecare reprezentând un continent tropical: America de Sud, Asia și Africa.", "Orașul are cea mai veche și mai bine conservată rețea de străzi pietonale comerciale din Danemarca.", "În Evul Mediu, Randers a fost singurul oraș din Iutlanda care avea permisiunea de a bate propria sa monedă.", "Copacul lui Niels Ebbesen, un erou național danez din secolul al XIV-lea, este o atracție locală legată de rezistența împotriva germanilor.", "Elvis Presley are o stradă numită în onoarea sa în apropiere de Randers, unde se află și un muzeu dedicat muzicii și vieții lui."],
-      en: ["Randers is the sixth-largest city in Denmark and the only natural river harbor in the country.", "The Randers Regnskov tropical zoo features three large geodesic domes housing diverse rainforest ecosystems.", "The city was the site of the famous rebellion led by Niels Ebbesen in 1340 against German rule.", "Randers has a long history of glove-making, an industry that brought it significant wealth in the 18th century."]
-    },
-    facts: {
-      en: ["Randers lies along the Gudenå river system.", "Randers Rainforest is one of its biggest family attractions.", "The city developed as an important trading town.", "Its old streets preserve a market-town atmosphere.", "The river setting makes it attractive for scenic walks."],
-      de: ["Randers liegt am Flusssystem der Gudenå.", "Der Randers Regnskov ist eine der größten Familienattraktionen.", "Die Stadt entwickelte sich als wichtiger Handelsort.", "Ihre alten Straßen bewahren eine Marktplatzatmosphäre.", "Die Lage am Fluss macht sie für Spaziergänge besonders reizvoll."],
-      hu: ["Randers a Gudenå folyórendszer mellett fekszik.", "A Randers Rainforest az egyik legnagyobb családi látnivalója.", "A város fontos kereskedővárosként fejlődött ki.", "Régi utcái megőrzik a vásárvárosi hangulatot.", "A folyóparti fekvés különösen alkalmassá teszi sétákra."],
-      ro: ["Randers se află pe sistemul fluviului Gudenå.", "Randers Rainforest este una dintre cele mai mari atracții pentru familii.", "Orașul s-a dezvoltat ca un important oraș comercial.", "Străzile sale vechi păstrează atmosfera de târg.", "Poziția pe râu îl face atractiv pentru plimbări pitorești."]
-    },
-    image: "/geo-images/denmark/randers.webp",
-  },
-  {
-    id: "city-silkeborg",
-    type: "city",
-    parent: "DK",
-    coords: [9.5210, 56.1697],
-    name: { de: "Silkeborg", hu: "Silkeborg", ro: "Silkeborg", en: "Silkeborg" },
-    description: {
-      en: "Silkeborg is one of Denmark's best-known lake cities and a strong SEO match for outdoor travel, kayaking, and forest scenery. It sits in central Jutland among lakes, hills, and the river landscape of the Gudenå. The city blends nature access with museums, cafes, and a comfortable small-city vibe. Silkeborg is a top choice for visitors who want a scenic Danish base with water, woodland, and active experiences.",
-      de: "Silkeborg ist eine der bekanntesten dänischen Seenstädte und ein starkes SEO-Thema für Outdoor-Reisen, Kajakfahren und Waldlandschaften. Die Stadt liegt in Mitteljütland zwischen Seen, Hügeln und der Flusslandschaft der Gudenå. Sie verbindet Naturzugang mit Museen, Cafés und einer angenehmen Kleinstadtatmosphäre. Silkeborg ist eine gute Wahl für Besucher, die eine landschaftlich reizvolle dänische Basis mit Wasser, Wald und Aktivurlaub suchen.",
-      hu: "Silkeborg Dánia egyik legismertebb tóvárosa, és erős SEO-egyezés a szabadtéri utazás, a kajakozás és az erdei tájak iránt érdeklődőknek. Közép-Jütlandban fekszik, tavak, dombok és a Gudenå folyóvidéke között. A város a természetközeli élményeket múzeumokkal, kávézókkal és kellemes kisvárosi hangulattal ötvözi. Silkeborg kiváló választás azoknak, akik festői dán bázist keresnek vízzel, erdővel és aktív programokkal.",
-      ro: "Silkeborg este unul dintre cele mai cunoscute orașe daneze de lângă lacuri și un termen SEO puternic pentru călătorii outdoor, caiac și peisaje de pădure. Este situat în centrul Iutlandei, printre lacuri, dealuri și peisajul fluviului Gudenå. Orașul combină accesul la natură cu muzee, cafenele și o atmosferă confortabilă de oraș mic. Silkeborg este o alegere excelentă pentru vizitatorii care vor o bază daneză pitorească, cu apă, pădure și experiențe active."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Silkeborg Dánia közepén, a Gudenå folyó mentén található, és az ország 'tóvidékének' fővárosaként ismert. A várost sűrű erdők és kristálytiszta tavak veszik körül, így a természetjárók, evezősök és horgászok valóságos paradicsoma. Bár a település viszonylag fiatal, a 19. századi papíripar fellendülésével indult fejlődésnek. A Silkeborgi Múzeumban őrzik a híres Tollund-embert, egy hihetetlenül jó állapotban fennmaradt, 2400 éves mocsári holttestet. A város egyszerre kínál aktív kikapcsolódást a természetben és mély kulturális élményeket. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Silkeborg este adesea numit 'capitala în aer liber' a Danemarcei datorită locației sale excepționale în regiunea Lacurilor (Søhøjlandet), fiind înconjurat de unele dintre cele mai frumoase păduri din țară. Acest oraș relativ modern, dezvoltat în principal în secolul al XIX-lea în jurul unei fabrici de hârtie, atrage iubitorii de natură, canotaj și drumeții. Peisajul său verde și curat este dominat de râul Gudenå, ale cărui ape cristaline străbat orașul și creează o rețea de lacuri superbe. Din punct de vedere cultural, Silkeborg găzduiește faimosul Muzeu Silkeborg, unde este expus Omul de la Tollund, o mumie antică perfect conservată din mlaștină. Atmosfera relaxată și accesul imediat la natură fac din Silkeborg o destinație esențială pentru ecoturism.",
-      en: "Silkeborg is a beautifully situated city in central Jutland, famously known as the outdoor capital of Denmark. It is surrounded by an extensive network of pristine lakes and dense forests, making it a premier destination for hiking, canoeing, and nature appreciation. The city is bisected by the Gudenå river, which connects the scenic Silkeborg Lakes. Culturally, Silkeborg is renowned for its fascinating museum housing the Tollund Man, a remarkably well-preserved Iron Age bog body. The city's modern art museum, Museum Jorn, honors the local avant-garde artist Asger Jorn, adding a vibrant artistic dimension to the natural surroundings."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Silkeborg mellett magasodik a Himmelbjerget (Mennyország-hegy), amely Dánia egyik legmagasabb pontja.",
-        "A Tollund-embert 1950-ben találták meg a közeli tőzeglápban.",
-        "Michael Drewsen, a helyi papírgyár alapítója tekinthető a modern Silkeborg atyjának.",
-        "A városban nyaranta megrendezik a Riverboat Jazz Fesztivált, Skandinávia egyik legrégebbi jazz eseményét."
-      ],
-      ro: ["Omul de la Tollund, expus la muzeul local, este unul dintre cele mai bine conservate cadavre din epoca fierului descoperite vreodată în lume.", "Fabrica de hârtie din Silkeborg, fondată în 1844, a tipărit bancnotele oficiale ale Danemarcei pentru mai bine de un secol.", "Himmelbjerget, unul dintre cele mai înalte dealuri din Danemarca la 147 de metri, se află la o scurtă plimbare cu barca de Silkeborg.", "Orașul este gazda Festivalului Riverboat Jazz, cel mai mare festival de muzică jazz în aer liber și pe apă din regiune.", "Muzeul de Artă Asger Jorn prezintă colecții impresionante ale celebrului pictor danez contemporan care și-a petrecut tinerețea aici."],
-      en: ["Silkeborg is often referred to as Denmark's 'Lake District' due to its surrounding waterways.", "The Tollund Man, discovered nearby in 1950, lived during the 4th century BC.", "The city hosts the Riverboat Jazz Festival, one of the oldest and largest jazz festivals in Northern Europe.", "Hjejlen, the world's oldest original coal-fired paddle steamer, operates on the Silkeborg Lakes."]
-    },
-    facts: {
-      en: ["Silkeborg is surrounded by lakes and forested hills.", "The Gudenå river flows through the broader area.", "It is popular for boating and kayaking.", "The city has a strong outdoor recreation profile.", "Silkeborg is often promoted as a lake district destination."],
-      de: ["Silkeborg ist von Seen und bewaldeten Hügeln umgeben.", "Die Gudenå fließt durch die weitere Umgebung.", "Die Stadt ist beliebt für Bootstouren und Kajakfahren.", "Sie hat ein starkes Profil für Outdoor-Erholung.", "Silkeborg wird oft als Reiseziel im Seengebiet vermarktet."],
-      hu: ["Silkeborgot tavak és erdős dombok veszik körül.", "A Gudenå a tágabb térségen halad át.", "Népszerű csónakázásra és kajakozásra.", "Erős a szabadtéri kikapcsolódási arculata.", "Silkeborgot gyakran a tóvidék úti céljaként reklámozzák."],
-      ro: ["Silkeborg este înconjurat de lacuri și dealuri împădurite.", "Gudenå trece prin zona mai largă.", "Este popular pentru plimbări cu barca și caiac.", "Are un profil puternic de recreere în aer liber.", "Silkeborg este promovat adesea ca destinație de ținut al lacurilor."]
-    },
-    image: "/geo-images/denmark/silkeborg.webp",
-  },
-  {
-    id: "city-hilleroed",
-    type: "city",
-    parent: "DK",
-    coords: [12.3020, 55.9260],
-    name: { de: "Hillerød", hu: "Hillerød", ro: "Hillerød", en: "Hillerød" },
-    description: {
-      en: "Hillerod is a northern Zealand city best known for Frederiksborg Castle and its elegant lake setting. It has a polished historical feel that makes it a useful SEO keyword for castle trips from Copenhagen. The town center is compact, walkable, and surrounded by parks and water. Hillerod is ideal for visitors who want a royal day trip with calm scenery and easy access.",
-      de: "Hillerød ist eine Stadt im Norden Seelands, die vor allem durch Schloss Frederiksborg und seine elegante Lage am See bekannt ist. Sie hat ein gepflegtes historisches Flair und ist damit ein nützliches SEO-Thema für Schlossausflüge ab Kopenhagen. Das Stadtzentrum ist kompakt, gut zu Fuß erkundbar und von Parks und Wasser umgeben. Hillerød ist ideal für Besucher, die einen königlichen Tagesausflug mit ruhiger Landschaft und guter Erreichbarkeit suchen.",
-      hu: "Hillerød Észak-Sjælland városa, amelyet leginkább a Frederiksborg kastély és elegáns tóparti fekvése tesz ismertté. Csiszolt történelmi hangulata miatt hasznos SEO-kulcsszó a koppenhágai kastélytúrákhoz. A belváros kompakt, gyalogosan jól bejárható, és parkok valamint víz veszik körül. Hillerød ideális azoknak, akik nyugodt környezetű, királyi egynapos kirándulást keresnek.",
-      ro: "Hillerød este un oraș din nordul insulei Zealand, cunoscut mai ales pentru Castelul Frederiksborg și amplasarea sa elegantă lângă lac. Are o atmosferă istorică rafinată, ceea ce îl face un cuvânt-cheie SEO util pentru excursii la castel din Copenhaga. Centrul orașului este compact, ușor de parcurs pe jos și înconjurat de parcuri și apă. Hillerød este ideal pentru vizitatorii care vor o excursie regală de o zi, cu peisaj calm și acces simplu."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Hillerød Észak-Sjælland szívében található, és elsősorban a fenséges Frederiksborg-kastélyról híres. A város a kastély és az azt körülvevő gyönyörű barokk kertek köré épült, amelyek egész évben vonzzák a látogatókat. A kastély a dán Nemzeti Történeti Múzeumnak is otthont ad, gazdag gyűjteménnyel a dán királyi történelemből. Hillerød hangulatos tava, a Slotssøen, tökéletes tükörképet ad a reneszánsz építészet remekművének. A történelmi pompa mellett a város egy modern, virágzó központ, kiváló vásárlási lehetőségekkel és zöld parkokkal. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Hillerød este o destinație pitorească situată în inima insulei Zeeland, devenită faimoasă la nivel internațional datorită magnificului Castel Frederiksborg. Orașul are o istorie regală puternică, evoluând ca așezare în jurul acestui domeniu somptuos folosit de regii Danemarcei pentru încoronări și retrageri. Castelul renascentist, așezat grațios pe trei insule mici într-un lac, domină complet estetica și atmosfera așezării. Hillerød este totodată poarta de acces spre Pădurea Gribskov și Parcul Național al Regilor din nordul insulei Zeeland. Cu zone pietonale fermecătoare, magazine de tip boutique și natură imaculată, orașul oferă o imagine perfectă a vieții provinciale daneze tradiționale.",
-      en: "Hillerød is an elegant city situated in the heart of North Zealand, widely celebrated for its royal history and stunning architecture. The city's centerpiece is the magnificent Frederiksborg Castle, a Dutch Renaissance masterpiece built by King Christian IV in the early 17th century. The castle is surrounded by exquisite baroque gardens and sits romantically on three small islands in the Castle Lake. Beyond its royal heritage, Hillerød offers a charming downtown area with vibrant shopping streets and cafes. The city serves as a cultural and commercial center for the surrounding region, effortlessly combining historical grandeur with modern living."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Frederiksborg-kastélyt IV. Keresztély király építtette a 17. század elején.",
-        "Ez Észak-Európa legnagyobb reneszánsz kastélya.",
-        "A kastélykápolna a Dannebrog Rend (a legmagasabb dán lovagrend) hivatalos kápolnája.",
-        "A várost sűrű erdők, köztük a Gribskov veszik körül, amely az ősi dán királyok kedvelt vadászterülete volt."
-      ],
-      ro: ["Castelul Frederiksborg, situat în Hillerød, este cel mai mare complex renascentist din întreaga regiune scandinavă.", "Între anii 1671 și 1840, absolut toți monarhii absoluți ai Danemarcei au fost încoronați oficial în capela Castelului Frederiksborg.", "Orașul a suferit incendii devastatoare în secolele trecute, motiv pentru care majoritatea caselor istorice din centru datează doar din secolul XIX.", "Parcul baroc al castelului din Hillerød a fost refăcut meticulos în anii 1990 pentru a reflecta designul său original din 1720.", "Hillerød este punctul final al liniei de tren Hillerødbanen, parte vitală a sistemului de S-train (S-tog) care îl conectează cu Copenhaga."],
-      en: ["Frederiksborg Castle is the largest Renaissance residence in Scandinavia.", "The castle currently houses the Museum of National History of Denmark.", "Hillerød is surrounded by the expansive Gribskov forest, one of Denmark's largest woodlands.", "The beautiful baroque gardens of the castle feature highly symmetrical parterres and cascading fountains."]
-    },
-    facts: {
-      en: ["Frederiksborg Castle is the city's star attraction.", "Hillerod is a common day trip from Copenhagen.", "The old town center is compact and walkable.", "The city is surrounded by lakes and parkland.", "It has a strong royal and aristocratic atmosphere."],
-      de: ["Schloss Frederiksborg ist die Hauptattraktion der Stadt.", "Hillerød ist ein beliebtes Tagesausflugsziel ab Kopenhagen.", "Das alte Stadtzentrum ist kompakt und gut zu Fuß begehbar.", "Die Stadt ist von Seen und Parkanlagen umgeben.", "Sie hat eine ausgeprägte königliche und aristokratische Atmosphäre."],
-      hu: ["A Frederiksborg kastély a város fő látványossága.", "Hillerød gyakori egynapos kirándulóhely Koppenhágából.", "A régi városközpont kompakt és gyalogosbarát.", "A várost tavak és parkos területek veszik körül.", "Erős királyi és arisztokratikus hangulata van."],
-      ro: ["Castelul Frederiksborg este atracția principală a orașului.", "Hillerød este o excursie de o zi frecventă din Copenhaga.", "Centrul vechi este compact și ușor de parcurs pe jos.", "Orașul este înconjurat de lacuri și zone parculare.", "Are o atmosferă regală și aristocratică puternică."]
-    },
-    image: "/geo-images/denmark/hilleroed.webp",
-  },
-  {
-    id: "city-kolding",
-    type: "city",
-    parent: "DK",
-    coords: [9.4731, 55.4904],
-    name: { de: "Kolding", hu: "Kolding", ro: "Kolding", en: "Kolding" },
-    description: {
-      en: "Kolding is a south Jutland city that combines castle history, design culture, and a strong regional shopping and education role. Koldinghus gives the city a powerful historic center, while modern museums and the waterfront add contemporary appeal. It is a practical SEO destination for Denmark road trips through the southern part of the country. Kolding offers an easy mix of heritage, urban life, and access to the fjord.",
-      de: "Kolding ist eine Stadt in Südjütland, die Schlossgeschichte, Designkultur und eine wichtige regionale Rolle im Handel und in der Bildung verbindet. Koldinghus gibt der Stadt ein starkes historisches Zentrum, während moderne Museen und die Uferzone zeitgenössische Attraktivität hinzufügen. Sie ist ein praktisches SEO-Ziel für Dänemark-Roadtrips durch den südlichen Teil des Landes. Kolding bietet eine einfache Mischung aus Erbe, Stadtleben und Fjordzugang.",
-      hu: "Kolding Dél-Jütland városa, amely a kastélytörténelmet, a designkultúrát és az oktatásban, valamint a vásárlásban betöltött regionális szerepet ötvözi. A Koldinghus erőteljes történelmi központot ad a városnak, míg a modern múzeumok és a vízpart kortárs vonzerőt biztosítanak. Praktikus SEO-célpont a dániai autós utakhoz az ország déli részén. Kolding könnyen ötvözi az örökséget, a városi életet és a fjordhoz való hozzáférést.",
-      ro: "Kolding este un oraș din sudul Iutlandei care combină istoria castelului, cultura designului și un rol regional puternic în comerț și educație. Koldinghus îi oferă un centru istoric puternic, iar muzeele moderne și malul apei adaugă atractivitate contemporană. Este o destinație SEO practică pentru road trip-uri în Danemarca, în partea sudică a țării. Kolding oferă un amestec ușor de patrimoniu, viață urbană și acces la fiord."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Kolding egy dinamikus ipari és formatervezési központ Dél-Jütlandon, a Kolding-fjord végénél. A város büszkesége a Koldinghus, a 13. században épült királyi vár, amely egykor Dánia déli határát védte, ma pedig lenyűgöző kulturális központ és múzeum. Kolding az innovációra fókuszál, számos dizájniskolának ad otthont, köztük a rangos Designskolen Koldingnak. A Trapholt Művészeti Múzeum hatalmas gyűjteményével a dán bútortervezés és modern művészet egyik fellegvára. A város tökéletes egyensúlyt teremt a történelmi örökség és a modern, kreatív iparágak között. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Kolding este un oraș vibrant, așezat strategic la capătul unui fiord impresionant pe coasta de est a Iutlandei, cu o istorie comercială și militară puternică. Simbolul de necontestat al orașului este Koldinghus, un fost castel regal care a fost parțial ruinat de un incendiu în 1808 și a fost restaurat spectaculos într-un stil arhitectural contemporan. Orașul se definește astăzi printr-un mix captivant de istorie bogată și spirit antreprenorial modern, fiind un centru recunoscut pentru inovație în design și artă aplicată. Muzeul Trapholt adaugă valoare profilului său artistic, expunând design contemporan de top într-o locație cu vedere panoramică asupra apei. Prin universitatea sa și sectorul industrial creativ, Kolding se menține ca un pilon economic important al regiunii Triunghiului din sudul Danemarcei.",
-      en: "Kolding is a historic and dynamic seaport located at the head of Kolding Fjord in the Region of Southern Denmark. The city's skyline is crowned by Koldinghus, an impressive royal castle originally built in the 13th century to guard the southern border of the kingdom. Today, Kolding is recognized for its strong focus on design, education, and innovation, housing an esteemed design school and the Trapholt Art Museum. The city's architecture is a fascinating mix of medieval streets, restored historic buildings, and cutting-edge modern structures. Kolding serves as an important transportation and commercial hub bridging Jutland and Funen."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Koldinghus vár 1808-ban egy hatalmas tűzvészben leégett, majd a 20. század végén egyedi, modern építészeti megoldásokkal állították helyre.",
-        "A város a dániai fa- és bútortervező ipar jelentős központja.",
-        "A Kolding-fjord hídja fontos közlekedési kapcsolatot biztosít a régióban.",
-        "Kolding egyike a 'Triangle Region' nevű dán gazdasági övezet kulcsvárosainak."
-      ],
-      ro: ["Koldinghus a fost ultimul castel regal construit în Iutlanda, fiind folosit în principal pentru a păzi granița de sud a Danemarcei.", "Muzeul Trapholt din Kolding deține cea mai mare colecție din țară dedicată exclusiv scaunelor create de faimoșii designeri danezi.", "Restaurarea Castelului Koldinghus a durat mai multe decenii și a câștigat prestigiosul premiu european Nostra pentru conservare arhitecturală.", "Orașul este parte din 'Regiunea Triunghiului' (Trekantområdet), una dintre cele mai industrializate și dinamice zone economice din afara Copenhagăi.", "Kolding are un sistem extins de energie geotermală, contribuind activ la obiectivele ambițioase de reducere a emisiilor de carbon ale Danemarcei."],
-      en: ["Koldinghus was severely damaged by a fire in 1808 caused by Spanish soldiers stationed there.", "The Trapholt Museum features a large collection of Danish furniture design and contemporary art.", "Kolding is a major node in Denmark's transport network, connecting the north-south and east-west corridors.", "The Geografisk Have is an impressive botanical garden featuring plants from around the world."]
-    },
-    facts: {
-      en: ["Koldinghus is the city's signature landmark.", "The city sits near the Kolding Fjord.", "It is a regional center for design and education.", "Kolding has a strong mix of old and new architecture.", "The town works well as a southern Denmark stop."],
-      de: ["Koldinghus ist das Wahrzeichen der Stadt.", "Die Stadt liegt in der Nähe des Kolding-Fjords.", "Sie ist ein regionales Zentrum für Design und Bildung.", "Kolding bietet eine starke Mischung aus alter und neuer Architektur.", "Die Stadt eignet sich gut als Zwischenstopp in Südjütland."],
-      hu: ["A Koldinghus a város jelképe.", "A város a Kolding-fjord közelében fekszik.", "Regionális központ a design és az oktatás területén.", "Koldingban erős az ó- és újépítészet keveréke.", "A város jól működik dél-dániai megállóként."],
-      ro: ["Koldinghus este reperul emblematic al orașului.", "Orașul se află lângă Fiordul Kolding.", "Este un centru regional pentru design și educație.", "Kolding are un amestec puternic de arhitectură veche și nouă.", "Orașul funcționează bine ca oprire în sudul Danemarcei."]
-    },
-    image: "/geo-images/denmark/kolding.webp",
-  },
-  {
-    id: "city-frederikshavn",
-    type: "city",
-    parent: "DK",
-    coords: [10.5366, 57.4419],
-    name: { de: "Frederikshavn", hu: "Frederikshavn", ro: "Frederikshavn", en: "Frederikshavn" },
-    description: {
-      en: "Frederikshavn is a major ferry and coastal city in northern Jutland with strong SEO value for Baltic and Scandinavian travel routes. It connects Denmark with Sweden and Norway and has long been a strategic port town. The city also offers beaches, maritime museums, and a clean seaside atmosphere. Frederikshavn is a natural choice for travelers crossing the North Sea or planning island access.",
-      de: "Frederikshavn ist eine wichtige Fähr- und Küstenstadt im Norden Jütlands mit starkem SEO-Wert für Ostsee- und Skandinavienrouten. Sie verbindet Dänemark mit Schweden und Norwegen und ist seit langem eine strategische Hafenstadt. Die Stadt bietet außerdem Strände, maritime Museen und eine saubere Seeluft. Frederikshavn ist eine natürliche Wahl für Reisende, die über die Nordsee unterwegs sind oder Inselverbindungen planen.",
-      hu: "Frederikshavn Észak-Jütland fontos komp- és tengerparti városa, erős SEO-értékkel a balti és skandináv útvonalakhoz. Dánia, Svédország és Norvégia közötti kapcsolatot ad, és régóta stratégiai kikötőváros. A város strandokat, tengeri múzeumokat és tiszta üdülőhangulatot is kínál. Frederikshavn természetes választás azoknak, akik az Északi-tengeren át utaznak vagy szigetekre készülnek.",
-      ro: "Frederikshavn este un important oraș-port și de coastă din nordul Iutlandei, cu o valoare SEO mare pentru rutele baltice și scandinave. Leagă Danemarca de Suedia și Norvegia și a fost de mult timp un port strategic. Orașul oferă și plaje, muzee maritime și o atmosferă curată de litoral. Frederikshavn este o alegere firească pentru călătorii care traversează Marea Nordului sau plănuiesc acces la insule."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Frederikshavn egy jelentős északi kikötőváros Jütland partjainál, amely stratégiai szerepet tölt be a dán tengeri kereskedelemben. A város kompközlekedése a legfontosabb kapocs Skandinávia többi részéhez, napi járatokkal Svédországba és Norvégiába. A tengerészeti örökséget őrzi a Bangsbo Múzeum, valamint a környék védelmét szolgáló régi erődítmények és bunkerek. A hosszú, finom homokos strandok és az egyedülálló pálmafás tengerpart (Palmestranden) különleges hangulatot ad a településnek. Frederikshavn igazi tengerészváros, ahol az ipar és a tengerparti pihenés jól megfér egymás mellett. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Frederikshavn este un oraș maritim animat din nord-estul extrem al Iutlandei, cunoscut de secole ca un nod esențial de transport maritim către Suedia și Norvegia. Identitatea așezării este complet contopită cu portul său masiv și traficul constant al feriboturilor uriașe, care îi conferă o energie cosmopolită unică în regiune. Orașul are, de asemenea, o istorie militară bogată, mărturie stând impresionantul Turn de Pulbere (Krudttårnet), un vestigiu al vechilor fortificații daneze care protejau portul. Frederikshavn este renumit pentru un mediu natural curat, inclusiv plaja unică Palm Beach (Palmestranden), unde zeci de palmieri sunt plantați pe nisip în timpul verilor daneze. Cu străzi comerciale vibrante și pește proaspăt de cea mai bună calitate, orașul a devenit o destinație îndrăgită pe timpul verii.",
-      en: "Frederikshavn is a bustling port city located on the northeast coast of the Jutland peninsula. It serves as a vital maritime gateway connecting Denmark to Sweden and Norway via extensive ferry routes. Originally a small fishing village named Fladstrand, it was renamed and granted market town status in 1818. The city boasts a rich naval history, highlighted by the historic Gunpowder Tower (Krudttårnet) and various coastal defense structures. With its sandy beaches, lively harbor, and proximity to the unique northern tip of Denmark, Frederikshavn offers a distinctive maritime charm."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A várost 1818-ban nevezték el Frederikshavn-nek VI. Frigyes dán király tiszteletére; korábban Fladstrandnak hívták.",
-        "A Palmestranden (Pálmastrand) nyaranta valódi pálmafákkal várja a strandolókat.",
-        "A kikötő Dánia egyik legnagyobb tengerészeti és hajójavító bázisa.",
-        "A Bangsbo erőd a második világháború alatt épült, és a partvédelem fontos része volt."
-      ],
-      ro: ["Până în anul 1818, orașul era un simplu sat pescăresc, cunoscut sub numele de Fladstrand, înainte de a fi redenumit în onoarea Regelui Frederik al VI-lea.", "Krudttårnet (Turnul de Pulbere) din Frederikshavn a fost construit în anul 1688 și este singura rămășiță a citadelei Fladstrand.", "Plaja Palmestranden folosește aproximativ 100 de palmieri adevărați, care pe timpul iernii înghețate sunt mutați în sere uriașe.", "Portul din Frederikshavn este unul dintre cele mai aglomerate porturi de pasageri din Scandinavia, deservind milioane de călători anual.", "Zona din jurul orașului este una dintre cele mai bune locații din Danemarca pentru observarea păsărilor marine migratoare."],
-      en: ["Frederikshavn handles millions of ferry passengers traveling to Gothenburg and Oslo every year.", "The city is home to the Palm City beach, an artificial beach adorned with real palm trees during summer.", "The historic Krudttårnet was originally built in 1686 as a military magazine to defend the port.", "Frederikshavn has a long tradition of shipbuilding and maritime engineering."]
-    },
-    facts: {
-      en: ["Frederikshavn is a key ferry gateway to Sweden and Norway.", "It has long served as a strategic naval and commercial port.", "The city is close to the island of Læsø by ferry.", "Palm Beach is one of its surprising coastal draws.", "Its harbor makes it important for North Sea travel."],
-      de: ["Frederikshavn ist ein wichtiger Fährknotenpunkt nach Schweden und Norwegen.", "Die Stadt diente lange als strategischer Marine- und Handelshafen.", "Mit der Fähre ist die Insel Læsø gut erreichbar.", "Der Palm Beach ist eine überraschende Küstenattraktion.", "Ihr Hafen macht sie für Reisen über die Nordsee wichtig."],
-      hu: ["Frederikshavn kulcsfontosságú kompkapu Svédország és Norvégia felé.", "Hosszú ideig stratégiai haditengerészeti és kereskedelmi kikötőként szolgált.", "Kompjárattal közel van Læsø szigetéhez.", "A Palm Beach meglepő part menti vonzereje.", "Kikötője fontossá teszi az északi-tengeri utazásoknál."],
-      ro: ["Frederikshavn este o poartă-cheie cu feribotul către Suedia și Norvegia.", "A servit mult timp ca port naval și comercial strategic.", "Este aproape de insula Læsø prin feribot.", "Palm Beach este una dintre atracțiile sale de coastă surprinzătoare.", "Portul îl face important pentru călătoriile pe Marea Nordului."]
-    },
-    image: "/geo-images/denmark/frederikshavn.webp",
-  },
-  {
-    id: "city-sonderborg",
-    type: "city",
-    parent: "DK",
-    coords: [9.7836, 54.9102],
-    name: { de: "Sønderborg", hu: "Sønderborg", ro: "Sønderborg", en: "Sønderborg" },
-    description: {
-      en: "Sonderborg is a southern Jutland city with castle views, a waterfront promenade, and a strong cross-border identity close to Germany. It is a useful SEO location for travelers interested in borderland history, fjord scenery, and Danish-German connections. The city feels compact and scenic, with modern urban renewal around the harbor. Sonderborg offers a smart blend of history, business, and coastal relaxation.",
-      de: "Sønderborg ist eine Stadt in Südjütland mit Blick auf das Schloss, einer Uferpromenade und einer starken grenzüberschreitenden Identität nahe Deutschland. Sie ist ein nützliches SEO-Ziel für Reisende, die sich für Grenzlandgeschichte, Fjordlandschaften und dänisch-deutsche Verbindungen interessieren. Die Stadt wirkt kompakt und landschaftlich schön, mit moderner Stadterneuerung rund um den Hafen. Sønderborg bietet eine kluge Mischung aus Geschichte, Wirtschaft und Küstenentspannung.",
-      hu: "Sønderborg dél-jütlandi város, kastélyra néző panorámával, vízparti sétánnyal és Németországhoz közeli, erős határmenti identitással. Hasznos SEO-helyszín azoknak, akiket a határvidék történelme, a fjord tájai és a dán–német kapcsolatok érdekelnek. A város kompakt és festői, a kikötő körül modern városmegújítással. Sønderborg okos elegye a történelemnek, az üzleti életnek és a tengerparti kikapcsolódásnak.",
-      ro: "Sønderborg este un oraș din sudul Iutlandei, cu vedere la castel, promenadă la apă și o identitate de frontieră puternică, aproape de Germania. Este o locație SEO utilă pentru călătorii interesați de istoria zonei de graniță, peisajul de fiord și conexiunile danezo-germane. Orașul pare compact și pitoresc, cu o regenerare urbană modernă în jurul portului. Sønderborg oferă un amestec bun de istorie, business și relaxare pe coastă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Sønderborg Als szigetén és a Jütland-félszigeten terül el, amelyet a szűk Alssund-szoros választ ketté. A város kiemelkedő szerepet játszott a dán történelemben, különösen a porosz-dán háborúk idején; az itt található Dybbøl Malom a dán nemzeti ellenállás szimbóluma. A Sønderborgi kastély évszázadokon át nyújtott menedéket a királyi családnak, ma pedig Dél-Jütland történelmét bemutató múzeumként működik. A modern Sønderborg egy fiatalos egyetemváros és az innovatív 'Project Zero' kezdeményezés központja, amely célul tűzte ki a szén-dioxid-semlegességet. A határ menti elhelyezkedés gazdag, kétkultúrájú atmoszférát kölcsönöz a városnak. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Sønderborg, așezat grațios de-a lungul strâmtorii Alssund, este un oraș definit de relația sa strânsă cu marea și istoria frontierei germano-daneze. Centrul istoric al orașului este fermecător, caracterizat de o arhitectură colorată și de o frumoasă promenadă maritimă care invită la plimbări lungi. Punctul focal absolut este Castelul Sønderborg, a cărui siluetă robustă găzduiește astăzi un muzeu fascinant dedicat culturii și luptelor din sudul Iutlandei. Orașul este recunoscut în întreaga Danemarcă pentru atmosfera sa studențească și inovația industrială, fiind sediul sediului principal al Danfoss. Datorită poziției sale geografice, Sønderborg servește și ca punte de legătură excelentă între cultura scandinavă și cea a Europei Centrale.",
-      en: "Sønderborg is a picturesque and historically significant city located on both sides of the Alssund strait in Southern Denmark. The city plays a crucial role in the history of the border region between Denmark and Germany, most notably associated with the Battle of Dybbøl in 1864. The beautiful Sønderborg Castle, situated on the waterfront, showcases the region's complex history and royal heritage. Today, the city is a vibrant educational and technological hub, strongly influenced by the presence of the Danfoss headquarters nearby. Sønderborg combines striking coastal scenery, rich historical narratives, and a forward-looking industrial environment."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az 1864-es dybbøli csata helyszíne Sønderborg mellett található, ahol Dánia jelentős területeket veszített el.",
-        "A Sønderborg-kastély börtönként is szolgált II. Keresztély király számára a 16. században.",
-        "A város központjában működik a Danfoss, a világhírű dán fűtés- és hűtéstechnikai vállalat globális központja.",
-        "A város egyedi elhelyezkedése miatt a dán és a német kultúra békés egymás mellett élése figyelhető meg."
-      ],
-      ro: ["Castelul Sønderborg a servit drept închisoare pentru fostul rege danez Christian al II-lea timp de 17 ani în secolul al XVI-lea.", "Centrul de Cercetare Danfoss Universe este una dintre atracțiile majore, popularizând știința și tehnologia pentru familii.", "În fiecare vară, orașul găzduiește 'Ringridning', cel mai mare festival de turnire și lupte medievale ecvestre din Scandinavia.", "Bătălia de la Dybbøl, esențială în Războiul din 1864, a avut loc chiar la marginea vestică a orașului.", "Sønderborg a lansat inițiativa ambițioasă 'Project Zero', propunându-și să devină o municipalitate complet neutră din punct de vedere al emisiilor de carbon până în 2029."],
-      en: ["Sønderborg is partly located on the island of Als and partly on the Jutland peninsula.", "The Battle of Dybbøl in 1864, fought nearby, was a defining moment in modern Danish history.", "Sønderborg Castle houses an extensive museum dedicated to the history of the border region.", "The city is known for the traditional ring riding festivals (Ringridning) held every summer."]
-    },
-    facts: {
-      en: ["Sonderborg sits on the Alssund strait.", "The city is closely linked to the island of Als.", "It has strong ties to Danish-German border history.", "The harbor area has seen major redevelopment.", "Sonderborg Castle is a major local highlight."],
-      de: ["Sønderborg liegt am Alssund.", "Die Stadt ist eng mit der Insel Als verbunden.", "Sie hat starke Bezüge zur dänisch-deutschen Grenzgeschichte.", "Der Hafenbereich wurde stark umgestaltet.", "Schloss Sønderborg ist ein wichtiges lokales Highlight."],
-      hu: ["Sønderborg az Alssund szorosnál fekszik.", "A város szorosan kapcsolódik Als szigetéhez.", "Erős dán–német határtörténeti kötődése van.", "A kikötő környékét jelentősen megújították.", "A Sønderborg kastély fontos helyi látnivaló."],
-      ro: ["Sønderborg se află pe strâmtoarea Alssund.", "Orașul este strâns legat de insula Als.", "Are legături puternice cu istoria de frontieră danezo-germană.", "Zona portuară a fost reamenajată masiv.", "Castelul Sønderborg este un punct de atracție local major."]
-    },
-    image: "/geo-images/denmark/sonderborg.webp",
-  },
-  {
-    id: "city-holstebro",
-    type: "city",
-    parent: "DK",
-    coords: [8.6161, 56.3601],
-    name: { de: "Holstebro", hu: "Holstebro", ro: "Holstebro", en: "Holstebro" },
-    description: {
-      en: "Holstebro is a west Jutland city known for its cultural scene, riverside setting, and appealing small-city atmosphere. It combines sculpture, shopping streets, and local museums with a practical role in the region. The city is an excellent SEO addition for travelers searching for authentic Danish towns beyond the main tourist circuit. Holstebro feels both modern and rooted in local tradition.",
-      de: "Holstebro ist eine Stadt in Westjütland, bekannt für ihre Kulturszene, ihre Lage am Fluss und ihre attraktive Kleinstadtatmosphäre. Sie verbindet Skulpturen, Einkaufsstraßen und lokale Museen mit einer praktischen regionalen Rolle. Die Stadt ist eine hervorragende SEO-Ergänzung für Reisende, die authentische dänische Orte abseits der großen Touristenpfade suchen. Holstebro wirkt zugleich modern und tief in der lokalen Tradition verwurzelt.",
-      hu: "Holstebro egy nyugat-jütlandi város, amely kulturális életéről, folyóparti fekvéséről és vonzó kisvárosi hangulatáról ismert. Szobrokat, bevásárlóutcákat és helyi múzeumokat kapcsol össze regionális szereppel. Kiváló SEO-kiegészítés azoknak az utazóknak, akik hiteles dán városokat keresnek a fő turistaútvonalakon túl. Holstebro egyszerre modern és mélyen helyi hagyományokra épülő város.",
-      ro: "Holstebro este un oraș din vestul Iutlandei, cunoscut pentru scena sa culturală, amplasarea pe malul râului și atmosfera atractivă de oraș mic. Îmbină sculpturi, străzi comerciale și muzee locale cu un rol regional practic. Orașul este o completare SEO excelentă pentru călătorii care caută orașe daneze autentice, în afara circuitului turistic principal. Holstebro pare în același timp modern și bine ancorat în tradiția locală."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Holstebro egy dinamikus város Nyugat-Jütlandon, amely gazdag kulturális élettel és művészeti kezdeményezéseivel emelkedik ki a régióból. A városvezetők évtizedekkel ezelőtt úgy döntöttek, hogy a művészetet a városkép részévé teszik, így ma számos köztéri szobor és műalkotás díszíti az utcákat. A legismerebb közülük Alberto Giacometti 'Nő a kocsin' című alkotása. A várost átszelő Storå folyó nemcsak festői szépségű, hanem nagyszerű lehetőséget kínál kenu- és kajaktúrákra. Holstebro az Odin Teatret otthona is, amely egy nemzetközileg elismert kísérleti színházi laboratórium. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Holstebro este un oraș cultural efervescent din vestul Iutlandei, cunoscut la nivel național pentru angajamentul său extraordinar față de arta publică. Râul Storå străbate centrul orașului, creând peisaje idilice și spații verzi de care se bucură atât localnicii, cât și turiștii în mod regulat. Din anii 1960, municipalitatea a investit masiv în cultură, transformând străzile sale într-o veritabilă galerie de artă modernă în aer liber. Această abordare progresistă a creat un contrast fascinant între moștenirea istorică tradițională și instalațiile de artă de avangardă. În plus, Holstebro este o bază excelentă pentru excursii de-a lungul sălbaticei coaste a Mării Nordului sau spre dealurile blânde din regiune.",
-      en: "Holstebro is a thriving cultural and commercial center situated on the banks of the Storå river in western Jutland. The city is widely recognized for its robust commitment to the arts, featuring numerous public sculptures, most famously Alberto Giacometti's 'Woman on the Cart'. Holstebro offers a vibrant pedestrian shopping area alongside rich cultural institutions like the Odin Teatret, an internationally renowned theater laboratory. The surrounding landscape includes expansive heathlands and proximity to the raw beauty of the North Sea coast. Holstebro's dedication to integrating art into everyday urban life makes it a unique destination in Jutland."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Holstebro első írásos említése 1274-ből származik, ami egy régi várra utal a folyó partján.",
-        "A város büszkélkedhet a dániai kísérleti színház és táncművészet egyik legnagyobb bázisával.",
-        "A híres 'Nő a kocsin' szobrot a város a 60-as években vásárolta, és mára az egyik legértékesebb köztéri műalkotás Dániában.",
-        "A várost övező nyugat-jütlandi régió erős mezőgazdasági és élelmiszeripari hagyományokkal bír."
-      ],
-      ro: ["Orașul este faimos pentru sculptura „Femeia pe Căruță” (Maren å æ Wogn) de Alberto Giacometti, plasată chiar în centrul pietonal.", "Holstebro a fost declarat de mai multe ori cel mai bun oraș comercial din Danemarca datorită străzilor sale pietonale inovatoare.", "Odin Teatret, o renumită companie internațională de teatru experimental fondată de Eugenio Barba, are sediul în acest oraș.", "Râul Storå, care traversează orașul, a fost istoric ruta principală pentru comerțul cu lemne și produse agricole.", "Muzeul de Artă din Holstebro deține o colecție impresionantă de opere de artă modernă daneză și grafică internațională."],
-      en: ["Holstebro purchased Giacometti's 'Woman on the Cart' in 1966, which is now a prized symbol of the city.", "The Storå river, running through the city, is Denmark's second-longest river.", "The city hosts a prominent ballet school and a widely respected music academy.", "Holstebro serves as an important garrison town, housing the Jutland Dragoon Regiment."]
-    },
-    facts: {
-      en: ["Holstebro is known for public art and cultural programming.", "The city sits near the Storå river.", "It has a strong local shopping and service role.", "The old center is compact and pedestrian-friendly.", "Holstebro is a good base for western Jutland exploration."],
-      de: ["Holstebro ist für öffentliche Kunst und Kulturprogramme bekannt.", "Die Stadt liegt in der Nähe der Storå.", "Sie hat eine starke lokale Rolle im Handel und Dienstleistungsbereich.", "Das alte Zentrum ist kompakt und fußgängerfreundlich.", "Holstebro ist ein guter Ausgangspunkt für den Westen Jütlands."],
-      hu: ["Holstebro közterületi művészetéről és kulturális programjairól ismert.", "A város közelében folyik a Storå.", "Erős helyi kereskedelmi és szolgáltatási szerepe van.", "A régi központ kompakt és gyalogosbarát.", "Holstebro jó bázis Nyugat-Jütland felfedezéséhez."],
-      ro: ["Holstebro este cunoscut pentru arta publică și programele culturale.", "Orașul se află aproape de râul Storå.", "Are un rol local puternic în comerț și servicii.", "Centrul vechi este compact și prietenos cu pietonii.", "Holstebro este o bază bună pentru explorarea vestului Iutlandei."]
-    },
-    image: "/geo-images/denmark/holstebro.webp",
-  },
+ {
+ id: "city-aalborg",
+ type: "city",
+ parent: "denmark",
+ coords: [9.9217, 57.0488],
+ name: { de: "Aalborg", hu: "Aalborg", ro: "Aalborg", en: "Aalborg" },
+ description: {
+ en: "Aalborg is a major city in northern Jutland with a strong industrial past and a lively modern waterfront. It is known for its university, cultural venues, and a compact center filled with cafes, museums, and nightlife. The city has transformed from a port and manufacturing hub into a creative northern urban destination.",
+ de: "Aalborg ist eine bedeutende Stadt im Norden Jütlands mit einer starken industriellen Vergangenheit und einer lebendigen modernen Uferzone. Sie ist bekannt für ihre Universität, kulturelle Einrichtungen und ein kompaktes Zentrum voller Cafés, Museen und Nachtleben. Die Stadt hat sich von einem Hafen- und Industriezentrum zu einem kreativen urbanen Ziel im Norden entwickelt.",
+ hu: "Aalborg Észak-Jütland egyik fontos városa, erős ipari múlttal és élénk, modern vízparttal. Egyeteméről, kulturális helyszíneiről, valamint kávézókkal, múzeumokkal és éjszakai élettel teli kompakt belvárosáról ismert. A város a kikötői és gyártóközpontból kreatív északi városi célponttá alakult.",
+ ro: "Aalborg este un oraș important din nordul Iutlandei, cu un trecut industrial puternic și un mal al apei modern și animat. Este cunoscut pentru universitatea sa, spațiile culturale și centrul compact plin de cafenele, muzee și viață de noapte. Orașul s-a transformat dintr-un port și centru de producție într-o destinație urbană creativă din nord."},
+ descriptionAdvanced: {
+ de: "Aalborg ist die viertgrößte Stadt Dänemarks und ein bedeutendes Industrie- und Kulturzentrum am Limfjord im Norden Jütlands. Die Stadt hat einen beeindruckenden Wandel von einer rauen Industriestadt zu einem modernen Standort für Architektur und Bildung vollzogen, was sich besonders am neu gestalteten Hafenviertel mit dem Utzon Center zeigt. Aalborg ist bekannt für seine lebendige Atmosphäre, insbesondere in der berühmten Jomfru Ane Gade, einer der längsten Partymeilen Skandinaviens. Trotz ihrer Modernität bewahrt die Stadt ihr historisches Erbe, wie das Schloss Aalborghus und die mittelalterliche Architektur im Stadtkern beweisen. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Aalborg az észak-jütlandi régió központja és Dánia negyedik legnagyobb városa, amely a Limfjord partján terül el. Történelmileg egy forgalmas ipari és kereskedelmi kikötő volt, ma pedig a kultúra és a tudás modern fellegvára. A város jellegzetes épülete az Utzon Center, amelyet Jørn Utzon, a sydney-i operaház dán tervezője álmodott meg. Aalborg híres az élénk éjszakai életéről is, különösen a Jomfru Ane Gade nevű utcáról, amely tele van bárokkal és éttermekkel. A város sikeresen ötvözi a viking múltat az élvonalbeli építészettel és oktatással. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Aalborg este un oraș dinamic situat în nordul Iutlandei, traversat de apele spectaculosului Limfjord, care împarte peisajul urban în două. Evoluând dintr-un oraș industrial puternic într-un hub cultural și educațional modern, Aalborg surprinde prin arhitectura sa revitalizată pe malul apei. Universitatea din Aalborg atrage o comunitate studențească masivă, ceea ce conferă orașului o viață de noapte vibrantă, în special pe celebra stradă Jomfru Ane Gade. Orașul este recunoscut pentru inițiativele sale ecologice și transformarea vechilor zone portuare în spații de agrement de ultimă generație, precum Utzon Center. Cu o istorie care datează din epoca vikingilor, Aalborg reușește să păstreze monumente medievale valoroase printre clădirile sale moderne. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Aalborg is an industrious and vibrant city located in North Jutland, beautifully situated along the Limfjord. Historically an important industrial and maritime center, it has successfully transformed into a modern hub of knowledge and culture. The waterfront has undergone a dramatic revitalization, now featuring striking modern architecture like the Utzon Center and the House of Music. Aalborg retains its historical charm with landmarks such as the half-timbered Aalborghus Castle and Jens Bang's House. The city is also famous for its lively cultural scene, including the annual Aalborg Carnival, which is one of the largest in Northern Europe. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Aalborg war über Jahrhunderte das Zentrum der dänischen Branntweinproduktion (Aalborg Akvavit).",
+ "Der Lindholm Høje bei Aalborg ist einer der bedeutendsten Wikinger-Begräbnisplätze Skandinaviens.",
+ "Das Utzon Center wurde vom Architekten des Sydney Opera House, Jørn Utzon, entworfen, der in Aalborg aufwuchs.",
+ "Jedes Jahr im Mai findet in der Stadt der größte Karneval Nordeuropas statt."
+ ],
+ hu: [
+ "Aalborg közelében található a Lindholm Høje, Skandinávia egyik legnagyobb és legjobb állapotban megőrzött viking temetője.",
+ "A várost 1040-ben említik először, mint fontos kereskedelmi csomópontot.",
+ "Az Aalborgi Egyetem, a város legnagyobb felsőoktatási intézménye, több mint 20 000 hallgatóval rendelkezik.",
+ "A Limfjord híd köti össze Aalborgot a fjordon túli Nørresundbyvel."
+ ],
+ ro: ["Aalborg este al patrulea oraș ca mărime din Danemarca și un important centru universitar și de cercetare.", "Utzon Center, de pe faleza orașului, a fost ultima lucrare proiectată de Jørn Utzon, arhitectul faimos al Operei din Sydney.", "Carnavalul din Aalborg, desfășurat anual în luna mai, este cel mai mare carnaval din întreaga regiune scandinavă.", "Jomfru Ane Gade este faimoasă ca fiind cea mai lungă stradă continuă din Scandinavia dedicată exclusiv barurilor și restaurantelor.", "Cimitirul Lindholm Høje, situat în apropiere, este unul dintre cele mai importante și mai mari situri funerare vikinge descoperite vreodată."],
+ en: ["Aalborg Akvavit, a famous Danish spirit, has been produced in the city since the 19th century.", "The city hosts the Aalborg Carnival, attracting over 100,000 participants annually.", "The Limfjord connects the North Sea to the Kattegat, making Aalborg an historically vital port.", "The Utzon Center was the last building designed by Jørn Utzon, the architect of the Sydney Opera House."]
+ },
+ facts: {
+ en: ["Aalborg sits on the Limfjord.", "The city hosts one of Denmark's largest carnival events.", "It is a major center for education in northern Denmark.", "Aalborg's waterfront has been heavily redeveloped in recent years."],
+ de: ["Aalborg liegt am Limfjord.", "Die Stadt veranstaltet einen der größten Karnevals Dänemarks.", "Sie ist ein wichtiger Bildungsstandort in Norddänemark.", "Die Uferzone von Aalborg wurde in den letzten Jahren stark umgestaltet."],
+ hu: ["Aalborg a Limfjord mentén fekszik.", "A város ad otthont Dánia egyik legnagyobb karneváljának.", "Észak-Dánia egyik fontos oktatási központja.", "Aalborg vízpartját az utóbbi években jelentősen átalakították."],
+ ro: ["Aalborg este situat pe Limfjord.", "Orașul găzduiește unul dintre cele mai mari carnavaluri din Danemarca.", "Este un centru important pentru educație în nordul Danemarcei.", "Zona sa de waterfront a fost reamenajată masiv în ultimii ani."]
+ },
+ image: "/geo-images/denmark/aalborg.webp",
+ },
+ {
+ id: "city-helsingor",
+ type: "city",
+ parent: "denmark",
+ coords: [12.6136, 56.0361],
+ name: { de: "Helsingør", hu: "Helsingør", ro: "Helsingør", en: "Helsingør" },
+ description: {
+ en: "Helsingor sits on the narrowest point of the Øresund and has long been a strategic gateway between Denmark and Sweden. The city is best known for Kronborg Castle, a UNESCO World Heritage site that inspired Shakespeare's Hamlet. Its waterfront setting, old streets, and ferry connections give it a strong historical character.",
+ de: "Helsingør liegt an der schmalsten Stelle des Øresunds und war lange ein strategisches Tor zwischen Dänemark und Schweden. Die Stadt ist vor allem für Schloss Kronborg bekannt, ein UNESCO-Weltkulturerbe, das Shakespeare zu Hamlet inspirierte. Ihre Lage am Wasser, die alten Straßen und die Fährverbindungen verleihen ihr einen starken historischen Charakter.",
+ hu: "Helsingør az Øresund legszűkebb pontján fekszik, és hosszú ideig stratégiai kapu volt Dánia és Svédország között. A város leginkább a Kronborg várról ismert, amely UNESCO világörökségi helyszín és Shakespeare Hamletjének ihletője volt. Vízparti fekvése, régi utcái és kompösszeköttetései erős történelmi jelleget adnak neki.",
+ ro: "Helsingør se află în cel mai îngust punct al strâmtorii Øresund și a fost mult timp o poartă strategică între Danemarca și Suedia. Orașul este cunoscut mai ales pentru Castelul Kronborg, sit UNESCO care l-a inspirat pe Shakespeare pentru Hamlet. Poziția sa la apă, străzile vechi și legăturile de feribot îi dau un caracter istoric puternic."},
+ descriptionAdvanced: {
+ de: "Helsingør ist eine beeindruckende Hafenstadt an der nordöstlichen Spitze Seelands, direkt gegenüber der schwedischen Küste. Weltberühmt ist die Stadt vor allem für Schloss Kronborg, das als Schauplatz für Shakespeares „Hamlet“ Weltruhm erlangte. Im Mittelalter wurde Helsingør durch den Sundzoll, den jedes Schiff bei der Passage des Öresunds entrichten musste, äußerst wohlhabend. Die historische Altstadt lädt mit ihren kopfsteingepflasterten Gassen und gut erhaltenen Fachwerkhäusern zu Entdeckungsreisen ein. Heute ist Helsingør ein modernes Kulturzentrum, das seine maritime Geschichte im preisgekrönten M/S Maritimen Museum Dänemarks lebendig hält. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Helsingør egy lenyűgöző kikötőváros Sjælland szigetének északkeleti csücskében, közvetlenül a svéd partokkal szemben. Világhírnevét elsősorban a Kronborg-kastélynak köszönheti, amely Shakespeare 'Hamlet' című drámájának ikonikus helyszíne. A város a középkorban gazdagodott meg a tengeri kereskedelemből és az Øresund-szoroson áthaladó hajóktól szedett vámokból. A hangulatos óvárosban sétálva szűk, macskaköves utcák és gyönyörűen felújított, régi kereskedőházak fogadják a látogatókat. Helsingør ma is fontos tengerészeti és kulturális csomópont Dániában. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Helsingør, cunoscut la nivel internațional și sub numele de Elsinore, este un oraș portuar pitoresc de o importanță istorică majoră, situat la capătul nordic al insulei Zeeland. Strâmtoarea Øresund este cea mai îngustă aici, motiv pentru care orașul a controlat timp de secole traficul maritim din și spre Marea Baltică, percepând taxe vamale foarte profitabile. Astăzi, orașul își încântă vizitatorii cu un centru medieval perfect conservat, cu străzi înguste, case istorice pe jumătate din lemn și o atmosferă maritimă autentică. Portul orașului a fost recent revitalizat și găzduiește acum Muzeul Maritim Național și modernul complex cultural Kulturværftet. Helsingør rămâne, mai presus de toate, inextricabil legat de legenda lui Hamlet, castelul său dominând în continuare peisajul litoral. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Helsingør, also known as Elsinore in English, is a historic port city on the northeastern coast of Zealand. It is internationally renowned as the setting for William Shakespeare's tragic play, Hamlet, centered around the imposing Kronborg Castle. The city's strategic location at the narrowest point of the Øresund strait historically made it a wealthy center for collecting Sound Dues from passing ships. Today, Helsingør's beautifully preserved medieval town center features narrow cobblestone streets and well-kept half-timbered houses. The city also hosts an impressive modern maritime museum, reflecting its deep connection to the sea. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Fährverbindung zwischen Helsingør und dem schwedischen Helsingborg ist eine der am stärksten befahrenen der Welt.",
+ "Schloss Kronborg gehört seit dem Jahr 2000 zum UNESCO-Weltkulturerbe.",
+ "Das Maritime Museum der Stadt wurde spektakulär in ein altes Trockendock hineingebaut.",
+ "Der Sundzoll wurde über 400 Jahre lang erhoben und war zeitweise die wichtigste Einnahmequelle der dänischen Krone."
+ ],
+ hu: [
+ "A Helsingør és a svédországi Helsingborg közötti kompközlekedés az egyik legforgalmasabb a világon.",
+ "A Kronborg-kastély 2000 óta az UNESCO Világörökség része.",
+ "A város Tengerészeti Múzeuma egy régi szárazdokkban kapott helyet, izgalmas építészeti megoldással.",
+ "A történelmi Øresund-vámot (Sundtolden) több mint 400 évig szedték a városon áthaladó hajóktól."
+ ],
+ ro: ["Taxa Øresund, colectată la Helsingør timp de peste 400 de ani, a reprezentat la un moment dat până la două treimi din veniturile coroanei daneze.", "Castelul Kronborg, fortăreața impunătoare a orașului, face parte din Patrimoniul Mondial UNESCO din anul 2000.", "Kulturværftet (Șantierul Cultural) este un centru modern de artă și cultură creat prin transformarea vechiului șantier naval al orașului.", "Feriboturile dintre Helsingør și orașul suedez Helsingborg parcurg distanța de doar 4 kilometri în aproximativ 20 de minute.", "Muzeul Maritim M/S din oraș are o arhitectură unică, fiind construit în întregime sub nivelul solului într-un fost doc uscat."],
+ en: ["Helsingør is situated just 4 kilometers across the Øresund strait from Helsingborg, Sweden.", "The city grew incredibly wealthy between 1429 and 1857 by collecting Sound Dues from merchant ships.", "Kronborg Castle, the home of Hamlet, is recognized as a UNESCO World Heritage site.", "The futuristic M/S Maritime Museum of Denmark is uniquely built into a former dry dock."]
+ },
+ facts: {
+ en: ["Kronborg Castle dominates Helsingor's skyline.", "The city is a key ferry point to Sweden.", "It once collected tolls from passing ships.", "Shakespeare's Hamlet is set at Kronborg."],
+ de: ["Schloss Kronborg prägt die Silhouette von Helsingør.", "Die Stadt ist ein wichtiger Fährpunkt nach Schweden.", "Hier wurden einst Gebühren von vorbeifahrenden Schiffen erhoben.", "Shakespeares Hamlet spielt in Kronborg."],
+ hu: ["A Kronborg vár uralja Helsingør látképét.", "A város fontos kompállomás Svédország felé.", "Egykor díjat szedtek a hajóktól az áthaladásért.", "Shakespeare Hamletje Kronborgban játszódik."],
+ ro: ["Castelul Kronborg domină silueta orașului Helsingør.", "Orașul este un important punct de feribot către Suedia.", "Aici se colectau odinioară taxe de la navele care treceau.", "Hamlet de Shakespeare este plasat la Kronborg."]
+ },
+ image: "/geo-images/denmark/helsingor.webp",
+ },
+ {
+ id: "city-roskilde",
+ type: "city",
+ parent: "DK",
+ coords: [12.0803, 55.6415],
+ name: { de: "Roskilde", hu: "Roskilde", ro: "Roskilde", en: "Roskilde" },
+ description: {
+ en: "Roskilde is one of Denmark's most important historic cities making it a premier destination for travelers seeking cathedral heritage, Viking history, and a compact old town. The city grew around the Roskilde Cathedral and later became famous for the Viking Ship Museum and its lively festival culture. Its fjord-side setting adds scenic walks, harbor views, and easy access to the wider Zealand region. Roskilde works especially well for visitors who want a classic Danish day trip with history, museums, and waterfront atmosphere.",
+ de: "Roskilde ist eine der wichtigsten historischen Städte Dänemarks was es zu einem erstklassigen Ziel für Reisende macht, die Kathedralen, Wikinger-Geschichte und eine kompakte Altstadt suchen. Die Stadt wuchs rund um den Dom von Roskilde und wurde später durch das Wikingerschiffsmuseum und seine lebendige Festivalkultur berühmt. Die Lage am Fjord sorgt für schöne Spazierwege, Hafenblicke und gute Anbindung an ganz Seeland. Roskilde eignet sich besonders für Besucher, die einen klassischen dänischen Tagesausflug mit Geschichte, Museen und Uferatmosphäre suchen.",
+ hu: "Roskilde Dánia egyik legfontosabb történelmi városa, így kiváló úti cél az olyan utazók számára, akik katedrálisörökséget, viking történelmet és hangulatos óvárost keresnek. A város a roskildei katedrális körül fejlődött ki, majd a Viking Hajómúzeum és az élénk fesztiválkultúra tette híressé. Fjord menti fekvése sétányokat, kikötői kilátásokat és jó összeköttetést ad egész Sjælland felé. Roskilde különösen jó választás azoknak, akik klasszikus dán egynapos kirándulást akarnak történelemmel, múzeumokkal és vízparti hangulattal.",
+ ro: "Roskilde este unul dintre cele mai importante orașe istorice ale Danemarcei fiind o destinație de prim rang pentru călătorii care caută patrimoniu de catedrală, istorie vikingă și un centru vechi compact. Orașul a crescut în jurul Catedralei din Roskilde și a devenit celebru ulterior pentru Muzeul Navelor Vikinge și pentru cultura sa de festivaluri. Poziția de lângă fiord adaugă plimbări pitorești, priveliști spre port și acces ușor către restul insulei Zealand. Roskilde este ideal pentru vizitatorii care vor o excursie daneză clasică, cu istorie, muzee și atmosferă de mal de apă."},
+ descriptionAdvanced: {
+ de: "Roskilde ist eine der ältesten Städte Dänemarks und war im Mittelalter über Jahrhunderte die Hauptstadt und das religiöse Zentrum des Landes. Stolz der Stadt ist der Dom von Roskilde, ein UNESCO-Weltkulturerbe und die traditionelle Grablege der dänischen Könige und Königinnen. Die Stadt am Roskilde-Fjord ist tief in der Wikingergeschichte verwurzelt, was durch die beeindruckenden Funde im berühmten Wikingerschiffsmuseum belegt wird. Neben ihrer historischen Bedeutung ist Roskilde heute weltweit für das Roskilde Festival bekannt, das größte Musikfestival Nordeuropas. Roskilde verbindet so auf einzigartige Weise königliche Würde, antike Geschichte und jugendliche Energie. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Roskilde Dánia egyik legrégebbi városa, amely hosszú ideig az ország fővárosa és spirituális központja volt a középkorban. A város büszkesége az UNESCO Világörökség részét képező Roskilde-székesegyház, a dán uralkodók hagyományos temetkezési helye. A Roskilde-fjord partján fekvő város mélyen gyökerezik a viking történelemben, amit a híres Viking Hajómúzeum lenyűgöző leletei is bizonyítanak. Emellett a város ad otthont Észak-Európa legnagyobb zenei fesztiváljának, a Roskilde Fesztiválnak, amely minden nyáron százezreket vonz. Roskilde sikeresen ötvözi a királyi méltóságot, az ősi történelmet és a fiatalos lendületet. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Roskilde este un oraș cu o profundă rezonanță istorică pentru danezi, servind drept capitală a Danemarcei din secolul al XI-lea până la jumătatea secolului al XV-lea. Așezat pitoresc la capătul fiordului Roskilde, orașul este faimos pentru conexiunile sale puternice cu epoca vikingilor, conservate remarcabil la Muzeul Navelor Vikinge. Catedrala impunătoare a orașului, o capodoperă a arhitecturii gotice din cărămidă roșie, este locul de odihnă veșnică pentru aproape toți monarhii danezi. Dincolo de istoria sa regală, Roskilde este astăzi sinonim cu tineretul și muzica alternativă, grație celebrului său festival de vară. Combinația dintre străzile liniștite din secolul al XVII-lea și efervescența sa culturală modernă îi conferă o identitate absolut unică. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Roskilde is one of Denmark's oldest and most historically significant cities, located at the end of the Roskilde Fjord on Zealand. It served as the capital of Denmark from the 11th century until 1443, making it a crucial center for the monarchy and the church. The city's skyline is dominated by the twin spires of the majestic Roskilde Cathedral, the traditional burial site for Danish monarchs. Roskilde is also celebrated for its Viking Ship Museum, which houses five perfectly reconstructed longships found in the nearby fjord. Every summer, the city transforms as it hosts the Roskilde Festival, one of the largest music and culture festivals in Europe. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Im Dom von Roskilde ruhen die Gebeine von 39 dänischen Königen und Königinnen.",
+ "Die Stadt war vom 11. Jahrhundert bis zur Reformation ein bedeutender Bischofssitz.",
+ "Das Wikingerschiffsmuseum stellt fünf Original-Schiffswracks aus, die im Fjord versenkt worden waren.",
+ "Das 1971 gegründete Roskilde Festival spendet all seine Gewinne für wohltätige Zwecke."
+ ],
+ hu: [
+ "A Roskilde-székesegyházban 39 dán király és királynő nyugszik.",
+ "A város a 11. századtól a reformációig püspöki székhely volt.",
+ "A Viking Hajómúzeumban öt eredeti viking hajóroncs tekinthető meg, amelyeket a fjordból emeltek ki.",
+ "Az 1971-ben indult Roskilde Fesztivál bevételeit teljes egészében jótékonysági célokra fordítják."
+ ],
+ ro: ["Festivalul Roskilde, care a debutat în 1971, este unul dintre cele mai mari și mai vechi festivaluri de muzică rock și pop din Europa.", "Catedrala din Roskilde, inclusă în patrimoniul UNESCO, adăpostește mormintele a nu mai puțin de 39 de regi și regine daneze.", "Muzeul Navelor Vikinge din oraș expune cinci nave originale scufundate intenționat în secolul al XI-lea pentru a proteja portul.", "Roskilde a fost desemnat oficial un 'Hub al Inovației' în domeniul tehnologiilor muzicale și producției de evenimente.", "Universitatea din Roskilde (RUC) este recunoscută pentru metodele sale neconvenționale de predare, bazate pe proiecte interdisciplinare."],
+ en: ["Roskilde Cathedral holds the tombs of 39 Danish kings and queens.", "The Roskilde Festival attracts over 130,000 attendees annually, making it one of the largest in Europe.", "The city was established by the Vikings more than 1,000 years ago.", "The five Viking ships on display in the local museum were deliberately sunk in the 11th century to block the channel."]
+ },
+ facts: {
+ en: ["Roskilde Cathedral is a UNESCO World Heritage site.", "The city was once an early royal capital of Denmark.", "The Viking Ship Museum is one of its headline attractions.", "Roskilde Festival is among the largest music festivals in Northern Europe.", "The fjord gives the city a scenic waterfront setting."],
+ de: ["Der Dom von Roskilde ist UNESCO-Welterbe.", "Die Stadt war einst eine frühe Königshauptstadt Dänemarks.", "Das Wikingerschiffsmuseum gehört zu ihren Hauptattraktionen.", "Das Roskilde Festival ist eines der größten Musikfestivals in Nordeuropa.", "Der Fjord verleiht der Stadt eine malerische Uferlage."],
+ hu: ["A roskildei katedrális UNESCO Világörökség része.", "A város egykor Dánia korai királyi fővárosa volt.", "A Viking Hajómúzeum a legfontosabb látnivalói közé tartozik.", "A Roskilde Festival Észak-Európa egyik legnagyobb zenei fesztiválja.", "A fjord festői vízparti környezetet ad a városnak."],
+ ro: ["Catedrala din Roskilde este sit UNESCO al Patrimoniului Mondial.", "Orașul a fost cândva o capitală regală timpurie a Danemarcei.", "Muzeul Navelor Vikinge este una dintre atracțiile sale principale.", "Festivalul Roskilde este printre cele mai mari festivaluri de muzică din Europa de Nord.", "Fiordul oferă orașului un cadru pitoresc la malul apei."]
+ },
+ image: "/geo-images/denmark/roskilde.webp",
+ },
+ {
+ id: "city-esbjerg",
+ type: "city",
+ parent: "DK",
+ coords: [8.4508, 55.4765],
+ name: { de: "Esbjerg", hu: "Esbjerg", ro: "Esbjerg", en: "Esbjerg" },
+ description: {
+ en: "Esbjerg is Denmark's big west-coast port city making it a key hub for ferry travel, offshore energy, and North Sea coastal trips. It grew rapidly in the 19th century as a planned harbor town and remains one of the country's most important gateways to the sea. The city mixes modern industry with beaches, sculpture, and a strong maritime identity. Esbjerg is also a useful base for exploring the Wadden Sea and the southwestern part of Jutland.",
+ de: "Esbjerg ist Dänemarks große Hafenstadt an der Westküste was es zu einem wichtigen Ausgangspunkt für ... macht Fährreisen, Offshore-Energie und Nordsee-Küstenausflüge. Sie wuchs im 19. Jahrhundert rasch als geplante Hafenstadt und ist bis heute eines der wichtigsten Tore des Landes zum Meer. Die Stadt verbindet moderne Industrie mit Stränden, Kunstwerken und einer ausgeprägten maritimen Identität. Esbjerg ist auch ein guter Ausgangspunkt für das Wattenmeer und den Südwesten Jütlands.",
+ hu: "Esbjerg Dánia nagy nyugati parti kikötővárosa, így fontos központ a kompátkelések, az offshore energia és az Északi-tengeri utazások szempontjából. A 19. században tervezett kikötővárosként nőtt nagyra, és ma is az ország egyik legfontosabb tengeri kapuja. A város a modern ipart strandokkal, szobrokkal és erős tengeri identitással ötvözi. Esbjerg jó kiindulópont a Wadden-tenger és Dél-Nyugat-Jütland felfedezéséhez is.",
+ ro: "Esbjerg este marele oraș-port al Danemarcei de pe coasta de vest fiind un punct cheie pentru feriboturi, energie offshore și excursii pe litoralul Mării Nordului. S-a dezvoltat rapid în secolul al XIX-lea ca un oraș-port planificat și rămâne una dintre cele mai importante porți maritime ale țării. Orașul combină industria modernă cu plaje, sculpturi și o identitate maritimă puternică. Esbjerg este și o bază bună pentru explorarea Mării Wadden și a sud-vestului Iutlandei."},
+ descriptionAdvanced: {
+ de: "Esbjerg ist die bedeutendste Stadt an der dänischen Westküste und liegt direkt am Nationalpark Wattenmeer. Obwohl die Stadt relativ jung ist – sie wurde erst Ende des 19. Jahrhunderts als Hafen gegründet –, entwickelte sie sich schnell zum wichtigsten Nordsee-Tor Dänemarks. War die Wirtschaft Esbjergs anfangs von Fischerei geprägt, ist sie heute das Zentrum der dänischen Offshore-Industrie für Öl, Gas und Windenergie. Das Wahrzeichen der Stadt ist die monumentale Skulpturengruppe „Der Mensch begegnet dem Meer“, die majestätisch den Hafen bewacht. Das moderne Esbjerg ist ein dynamisches Industriezentrum mit starker maritimer Identität und direktem Zugang zur unberührten Natur der Nordsee. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Esbjerg Dánia legfontosabb nyugati parti városa, amely a Wadden-tenger partján fekszik. Bár a város viszonylag fiatal – csak a 19. század végén alapították kikötőként –, gyorsan Dánia tengeri kapujává vált. Esbjerg gazdasága kezdetben a halászatra és a tengeri kereskedelemre épült, mára azonban a dán offshore ipar, az olaj- és szélenergia központjává fejlődött. A város partvonalát Svend Wiig Hansen lenyűgöző 'Az ember találkozik a tengerrel' című óriási szobra őrzi. A modern Esbjerg egy ipari központ, amely erős tengeri identitással és dinamikus fejlődéssel rendelkezik. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Esbjerg este cel mai tânăr oraș mare al Danemarcei, fondat abia în anul 1868 ca răspuns strategic la necesitatea unui port important cu acces direct la Marea Nordului. Așezat pe coasta de vest a Iutlandei, orașul s-a transformat rapid dintr-un simplu port pescăresc în capitala energiei offshore a Danemarcei. Orașul are un rol cheie în ambițioasa tranziție verde a națiunii, găzduind operațiuni masive de instalare a parcurilor eoliene maritime. Vizitatorii sunt adesea întâmpinați de celebra sculptură monumentală „Omul întâlnește marea” („Mennesket ved Havet”), care domină intrarea în port. În plus, Esbjerg servește drept poartă de acces principală către superbul parc național Wadden Sea, renumit pentru biodiversitatea sa unică. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Esbjerg is a relatively young and dynamic city on the west coast of Jutland, originally established in the late 19th century as a primary export harbor. It quickly grew into Denmark's most important fishing and shipping port on the North Sea. Today, Esbjerg is recognized as the offshore energy capital of Denmark, serving as a hub for both the oil, gas, and rapidly expanding wind energy sectors. The city is famous for the monumental 'Men at Sea' sculpture, which gazes out over the coastal waters. With a vibrant cultural life and a prominent music academy, Esbjerg bridges robust industrial heritage with modern cultural development. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Skulptur 'Der Mensch begegnet dem Meer' besteht aus vier neun Meter hohen weißen Betonfiguren.",
+ "Esbjerg ist der wichtigste Stützpunkt für den Bau und die Wartung von Offshore-Windparks in der Nordsee.",
+ "Die Stadt wurde 1868 geplant, um nach dem Verlust von Schleswig einen Ersatzhafen an der Westküste zu haben.",
+ "Das Fischerei- und Seefahrtsmuseum in Esbjerg beherbergt eines der größten Aquarien Dänemarks."
+ ],
+ hu: [
+ "Esbjerget 1868-ban alapították királyi rendelettel egy új tengeri kikötő megépítésére.",
+ "A város Dánia ötödik legnépesebb települése.",
+ "Az 'Az ember találkozik a tengerrel' nevű kilenc méter magas szobrot 1995-ben állították fel.",
+ "Esbjerg kikötője a legnagyobb a világon az offshore szélerőművek szállításában és telepítésében."
+ ],
+ ro: ["Esbjerg este în prezent al cincilea oraș ca mărime din Danemarca și cel mai important centru pentru industria petrolieră și eoliană din țară.", "Sculptura impresionantă 'Omul întâlnește marea' este formată din patru bărbați de culoare albă, înalți de 9 metri, care privesc spre orizont.", "Portul Esbjerg a fost construit în mod artificial de către statul danez, după pierderea regiunilor Schleswig-Holstein în 1864.", "Orașul este poarta principală de acces către insula Fanø și Marea Wadden, un ecosistem protejat de UNESCO.", "Esbjerg găzduiește anual festivalul de muzică 'Esbjerg Rock Festival', o tradiție care datează încă din anul 1989."],
+ en: ["Esbjerg is the fifth-largest city in Denmark by population.", "The iconic 'Men at Sea' sculpture features four 9-meter-tall white figures overlooking the coast.", "The city was founded by royal decree in 1868 to serve as a vital harbor after the loss of Altona in the Second Schleswig War.", "Esbjerg serves as the primary base for Denmark's booming offshore wind farm industry."]
+ },
+ facts: {
+ en: ["Esbjerg is one of Denmark's largest ports.", "The city became important after the 1860s as a planned harbor town.", "The Men at Sea sculpture is a major coastal landmark.", "It is a common departure point for North Sea routes.", "The city has strong links to offshore wind and energy industries."],
+ de: ["Esbjerg ist einer der größten Häfen Dänemarks.", "Die Stadt wurde nach den 1860er-Jahren als geplante Hafenstadt wichtig.", "Die Skulptur 'Mennesket ved Havet' ist ein wichtiges Küstenwahrzeichen.", "Sie ist ein häufiger Ausgangspunkt für Nordseerouten.", "Die Stadt hat enge Verbindungen zur Offshore-Wind- und Energieindustrie."],
+ hu: ["Esbjerg Dánia egyik legnagyobb kikötője.", "A város az 1860-as évektől vált fontossá tervezett kikötővárosként.", "A Mennesket ved Havet szoborcsoport fontos parti jelkép.", "Gyakori indulási pont az északi-tengeri útvonalakhoz.", "A város erős kapcsolatban áll az offshore szél- és energiaiparral."],
+ ro: ["Esbjerg este unul dintre cele mai mari porturi ale Danemarcei.", "Orașul a devenit important după anii 1860 ca oraș-port planificat.", "Sculptura Mennesket ved Havet este un reper de coastă major.", "Este un punct frecvent de plecare pentru rutele din Marea Nordului.", "Orașul are legături puternice cu industria eoliană offshore și energetică."]
+ },
+ image: "/geo-images/denmark/esbjerg.webp",
+ },
+ {
+ id: "city-viborg",
+ type: "city",
+ parent: "DK",
+ coords: [9.4169, 56.4520],
+ name: { de: "Viborg", hu: "Viborg", ro: "Viborg", en: "Viborg" },
+ description: {
+ en: "Viborg is a central Jutland city with deep medieval roots offering an attractive mix for cathedral history and old Danish town charm. It was once an important political and religious center, and its old streets still reflect that long legacy. The city combines lakes, parks, museums, and a relaxed local atmosphere. Viborg is a smart stop for travelers who want history without the crowds of the biggest Danish cities.",
+ de: "Viborg ist eine Stadt in der Mitte Jütlands mit tiefen mittelalterlichen Wurzeln mit einer großen Anziehungskraft für Kathedralengeschichte und den Charme alter dänischer Städte. Einst war sie ein wichtiges politisches und religiöses Zentrum, und ihre alten Straßen spiegeln dieses lange Erbe noch heute wider. Die Stadt verbindet Seen, Parks, Museen und eine entspannte lokale Atmosphäre. Viborg ist eine gute Wahl für Reisende, die Geschichte ohne die großen Menschenmengen der bekanntesten dänischen Städte suchen.",
+ hu: "Viborg Közép-Jütland városa, mély középkori gyökerekkel így vonzó célpont a katedrálistörténet és az ódán városi hangulat miatt. Egykor fontos politikai és vallási központ volt, és régi utcái ma is ezt a hosszú örökséget tükrözik. A város tavakat, parkokat, múzeumokat és nyugodt helyi atmoszférát ötvöz. Viborg jó választás azoknak, akik történelmet keresnek a legnagyobb dán városok tömegei nélkül.",
+ ro: "Viborg este un oraș din centrul Iutlandei, cu rădăcini medievale adânci oferind o atracție deosebită pentru istoria catedralei și farmecul vechilor orașe daneze. A fost cândva un centru politic și religios important, iar străzile sale vechi încă reflectă această moștenire. Orașul combină lacuri, parcuri, muzee și o atmosferă locală relaxată. Viborg este o oprire bună pentru călătorii care vor istorie fără aglomerația celor mai mari orașe daneze."},
+ descriptionAdvanced: {
+ de: "Viborg ist eine der historisch bedeutendsten Städte Dänemarks und war über Jahrhunderte das administrative und juristische Zentrum Jütlands. Gelegen im Herzen der Halbinsel, ist die Stadt vor allem für ihren imposanten Dom bekannt, der die größte granitene Kirche der Welt darstellt und mit beeindruckenden Fresken von Joakim Skovgaard geschmückt ist. In Viborg wurden einst die dänischen Könige auf dem „Landsting“ gewählt, was die zentrale Rolle der Stadt in der Staatsbildung unterstreicht. Die historische Altstadt mit ihren kopfsteingepflasterten Gassen erzählt von der reichen Vergangenheit als Handels- und Kirchenstadt. Heute ist Viborg eine moderne Verwaltungsstadt, die von einer malerischen Seenlandschaft umgeben ist. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Viborg egyike Dánia legősibb városainak, Jütland szívében fekszik, és évszázadokon át az ország egyik legfontosabb politikai és vallási központja volt. A város neve az óészaki 'vibjerg' szóból ered, ami szent dombot jelent, utalva pogány vallási múltjára. A középkorban itt koronázták meg a jütlandi királyokat, és itt zajlottak a legfontosabb országgyűlések is. A város legkiemelkedőbb épülete a lenyűgöző Viborgi székesegyház, amelyet gyönyörű freskók díszítenek. Viborg történelmi jelentősége és festői, dombos környezete a dán történelem szerelmeseinek kötelező úti célja. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Viborg este unul dintre cele mai vechi orașe din Danemarca, cu rădăcini care se întind adânc în epoca vikingă, fiind un centru politic și religios extrem de important în Evul Mediu. Situat în inima Peninsulei Iutlanda, orașul este renumit pentru peisajele sale rurale pitorești, fiind înconjurat de lacuri glaciare limpezi și dealuri line. Catedrala din Viborg, cu frescele sale interioare vibrante și cele două turnuri masive, domină orizontul orașului și este o mărturie a puterii istorice a episcopiei locale. În prezent, orașul combină farmecul său medieval cu o abordare modernă a educației și a afacerilor, fiind cunoscut pentru un mare sector de IT și animație. Străzile sale înguste și pietruite spun vizitatorilor o poveste tăcută despre regii care, odinioară, au fost încoronați aici. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Viborg is one of the oldest cities in Denmark, centrally located in the heart of Jutland. Historically, it held immense political and religious power, serving as the site where ancient Danish kings were crowned and where the regional assembly, the 'Ting', was held. The city's crown jewel is the Viborg Cathedral, featuring magnificent frescoes painted by Joakim Skovgaard in the early 20th century. Surrounded by scenic lakes and lush forests, Viborg offers a serene and historically rich atmosphere. The city's historic center, with its winding streets and classical architecture, continues to tell the story of Denmark's early foundations. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Viborg war der Ausgangspunkt des dänischen Pilgerwegs (Hærvejen), der durch ganz Jütland führt.",
+ "Der Name Viborg leitet sich von 'Wibihorgh' ab, was 'heilige Stätte auf dem Hügel' bedeutet.",
+ "Die Fresken im Dom von Viborg gelten als eines der bedeutendsten Kunstwerke der dänischen Moderne.",
+ "Viborg beherbergt das Oberlandesgericht für Westdänemark, eine Fortsetzung seiner historischen Rolle als Gerichtsort."
+ ],
+ hu: [
+ "Viborg 1060 óta püspöki székhely.",
+ "A dán királyokat az úgynevezett 'Landsting' gyűlésen kiáltották ki Viborgban a középkor folyamán.",
+ "A székesegyházat Joakim Skovgaard dán festő 20. század elején készült freskói teszik egyedülállóvá.",
+ "A Hærvejen, Dánia legrégebbi kereskedelmi és zarándokútvonala áthalad a városon."
+ ],
+ ro: ["Până la mijlocul secolului al XVII-lea, regii danezi trebuiau să fie aclamați oficial de adunarea nobililor din Viborg pentru a fi recunoscuți.", "Catedrala din Viborg se remarcă prin celebrele fresce realizate de Joakim Skovgaard la începutul secolului XX.", "Orașul găzduiește 'The Animation Workshop', una dintre cele mai apreciate și prestigioase școli de animație din întreaga lume.", "Numele orașului, 'Viborg', se traduce vechiul termen nordic pentru 'Muntele Sfânt', subliniind importanța sa religioasă precreștină.", "În timpul evului mediu, Viborg avea nu mai puțin de cinci mănăstiri mari și 12 biserici parohiale, dominând spiritual regiunea."],
+ en: ["The name Viborg derives from Old Norse 'Vé', meaning a holy place, and 'Borg', meaning a fort.", "Viborg Cathedral was originally established in 1130, though the current structure is a 19th-century restoration.", "For centuries, Viborg was the starting point of the ancient Hærvejen (The Ox Road) trade route.", "The city's High Court of Western Denmark has been a central judicial institution for hundreds of years."]
+ },
+ facts: {
+ en: ["Viborg was one of Denmark's early power centers.", "The cathedral square is a key part of the old town.", "The city is surrounded by lakes and green areas.", "Viborg has a strong link to medieval church history.", "It is known for a calm, walkable urban core."],
+ de: ["Viborg war eines der frühen Machtzentren Dänemarks.", "Der Domplatz ist ein wichtiger Teil der Altstadt.", "Die Stadt ist von Seen und Grünflächen umgeben.", "Viborg ist eng mit der mittelalterlichen Kirchengeschichte verbunden.", "Sie ist für ihren ruhigen, gut zu Fuß erkundbaren Stadtkern bekannt."],
+ hu: ["Viborg Dánia egyik korai hatalmi központja volt.", "A katedrális tér az óváros kulcsfontosságú része.", "A várost tavak és zöldterületek veszik körül.", "Viborg erősen kapcsolódik a középkori egyháztörténethez.", "Nyugodt, gyalogosan jól bejárható belvárosáról ismert."],
+ ro: ["Viborg a fost unul dintre primele centre de putere ale Danemarcei.", "Piața catedralei este o parte cheie a centrului vechi.", "Orașul este înconjurat de lacuri și zone verzi.", "Viborg are o legătură puternică cu istoria bisericească medievală.", "Este cunoscut pentru un centru urban liniștit, ușor de parcurs pe jos."]
+ },
+ image: "/geo-images/denmark/viborg.webp",
+ },
+ {
+ id: "city-randers",
+ type: "city",
+ parent: "DK",
+ coords: [10.0368, 56.4607],
+ name: { de: "Randers", hu: "Randers", ro: "Randers", en: "Randers" },
+ description: {
+ en: "Randers sits on the Gudenå river and offers a strong mix of river scenery, old market-town character, and family-friendly attractions. The city is known for Randers Rainforest, its historic center, and easy access to eastern Jutland. It is highly regarded for being both practical and picturesque, with a genuine Danish small-city feel. Randers is especially appealing for travelers looking for culture, river views, and a relaxed pace.",
+ de: "Randers liegt an der Gudenå und bietet eine starke Mischung aus Flusslandschaft, altem Marktplatzcharakter und familienfreundlichen Attraktionen. Die Stadt ist bekannt für den Randers Regnskov, ihr historisches Zentrum und die gute Anbindung an Ostjütland. Besonders hervorzuheben ist, dass sie zugleich praktisch und malerisch ist und sich echt nach einer kleinen dänischen Stadt anfühlt. Randers ist besonders attraktiv für Reisende, die Kultur, Flussblicke und ein entspanntes Tempo suchen.",
+ hu: "Randers a Gudenå folyó mellett fekszik, és erős keveréket kínál folyóparti látképből, régi vásárvárosi karakterből és családbarát látnivalókból. A város a Randers Rainforest-ről, történelmi belvárosáról és a kelet-jütlandi elérhetőségről ismert. Különlegessége abban rejlik, hogy egyszerre praktikus és festői, valódi dán kisvárosi hangulattal. Randers különösen vonzó azoknak, akik kultúrát, folyóparti kilátást és nyugodt tempót keresnek.",
+ ro: "Randers se află pe râul Gudenå și oferă un amestec puternic de peisaj de râu, caracter de vechi târg danez și atracții pentru familii. Orașul este cunoscut pentru Randers Rainforest, centrul său istoric și accesul facil către estul Iutlandei. Atractivitatea sa rezidă în faptul că este în același timp practic și pitoresc, cu un adevărat aer de oraș mic danez. Randers este atrăgător mai ales pentru călătorii care caută cultură, priveliști la râu și un ritm relaxat."},
+ descriptionAdvanced: {
+ de: "Randers ist eine dynamische Stadt in Ostjütland, die am einzigen natürlichen Flusshafen Dänemarks an der Mündung der Gudenå liegt. Die Stadt ist bekannt für ihre reiche Handelsgeschichte und ihre historische Altstadt mit gut erhaltenen Fachwerkhäusern. Eine der bekanntesten Attraktionen ist der „Randers Regnskov“, ein tropischer Zoo, der unter drei großen Glaskuppeln verschiedene Kontinente simuliert. Randers war historisch ein Zentrum der Handschuh- und Textilproduktion, was ihr den Beinamen „Stadt der Handschuhe“ einbrachte. Die Lage am Randers Fjord macht sie zudem zu einem idealen Ausgangspunkt für Naturerlebnisse am Wasser und in der jütländischen Hügellandschaft. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Randers a Gudenå folyó partján, Kelet-Jütlandon fekszik, egy fontos történelmi és kereskedelmi csomópont. A középkorban a város a dán kereskedelem egyik kulcsfontosságú kikötője volt, mivel a folyó összekötötte a belső területeket a tengerrel. A város hírnevet szerzett a ló- és szarvasmarha-kereskedelemben, valamint a hagyományos dán kesztyűgyártásban. Randers ma leginkább a Randers Regnskovról, Észak-Európa egyik legnagyobb fedett trópusi esőerdőjéről ismert, amely három hatalmas üvegkupolában kapott helyet. A város hangulatos utcái és folyóparti elhelyezkedése barátságos, élhető atmoszférát biztosít. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Randers este situat de-a lungul râului Gudenå, cel mai lung râu din Danemarca, și a fost timp de secole un important centru comercial și strategic. Orașul își trage prosperitatea istorică din accesul facil la rutele navigabile, lucru vizibil și astăzi în portul său activ. Deși are un puternic trecut industrial, Randers a reușit să se reinventeze ca o destinație turistică captivantă, oferind vizitatorilor o combinație interesantă de istorie și natură. O atracție unică este Randers Regnskov, o cupolă tropicală masivă care aduce ecosistemele junglei direct în inima Scandinaviei. Arhitectura orașului este un amestec pitoresc de case pe jumătate din lemn din secolul al XVI-lea și dezvoltări urbane moderne. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Randers is a historic market town located in eastern Jutland at the mouth of the Gudenå, Denmark's longest river. The city's history is deeply connected to trade and maritime activities, having flourished as a commercial hub since the Middle Ages. Randers is distinguished by its charming medieval center, lined with half-timbered houses and narrow alleys. One of its most famous modern attractions is the Randers Regnskov, an impressive indoor tropical rainforest housed in large glass domes. The city successfully blends its rich historical legacy with unique modern attractions and a strong connection to the surrounding river landscape. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Randers Regnskov beherbergt über 250 verschiedene Tierarten in einem künstlichen Regenwald-Ökosystem.",
+ "Das historische Rathaus von Randers stammt aus dem Jahr 1778 und ist eines der schönsten des Landes.",
+ "Die Stadt ist für das Kulturhaus 'Graceland Randers' bekannt, eine Kopie von Elvis Presleys Wohnsitz.",
+ "Randers liegt an der Mündung der Gudenå, dem längsten Fluss Dänemarks."
+ ],
+ hu: [
+ "A város nevét 1086-ban említik először egy érme feliratán, mint 'Randros'.",
+ "A Randers Regnskov trópusi állatkert több mint 200 állatfajnak ad otthont.",
+ "A dán történelemben a város Niels Ebbesen nemzeti hős révén híresült el, aki 1340-ben itt gyilkolta meg a német Gerhard grófot.",
+ "A Randers Kesztyűgyár a világ egyik legrégebbi márkája, a 13. század óta működik."
+ ],
+ ro: ["Randers Regnskov este formată din trei domuri de sticlă imense, fiecare reprezentând un continent tropical: America de Sud, Asia și Africa.", "Orașul are cea mai veche și mai bine conservată rețea de străzi pietonale comerciale din Danemarca.", "În Evul Mediu, Randers a fost singurul oraș din Iutlanda care avea permisiunea de a bate propria sa monedă.", "Copacul lui Niels Ebbesen, un erou național danez din secolul al XIV-lea, este o atracție locală legată de rezistența împotriva germanilor.", "Elvis Presley are o stradă numită în onoarea sa în apropiere de Randers, unde se află și un muzeu dedicat muzicii și vieții lui."],
+ en: ["Randers is the sixth-largest city in Denmark and the only natural river harbor in the country.", "The Randers Regnskov tropical zoo features three large geodesic domes housing diverse rainforest ecosystems.", "The city was the site of the famous rebellion led by Niels Ebbesen in 1340 against German rule.", "Randers has a long history of glove-making, an industry that brought it significant wealth in the 18th century."]
+ },
+ facts: {
+ en: ["Randers lies along the Gudenå river system.", "Randers Rainforest is one of its biggest family attractions.", "The city developed as an important trading town.", "Its old streets preserve a market-town atmosphere.", "The river setting makes it attractive for scenic walks."],
+ de: ["Randers liegt am Flusssystem der Gudenå.", "Der Randers Regnskov ist eine der größten Familienattraktionen.", "Die Stadt entwickelte sich als wichtiger Handelsort.", "Ihre alten Straßen bewahren eine Marktplatzatmosphäre.", "Die Lage am Fluss macht sie für Spaziergänge besonders reizvoll."],
+ hu: ["Randers a Gudenå folyórendszer mellett fekszik.", "A Randers Rainforest az egyik legnagyobb családi látnivalója.", "A város fontos kereskedővárosként fejlődött ki.", "Régi utcái megőrzik a vásárvárosi hangulatot.", "A folyóparti fekvés különösen alkalmassá teszi sétákra."],
+ ro: ["Randers se află pe sistemul fluviului Gudenå.", "Randers Rainforest este una dintre cele mai mari atracții pentru familii.", "Orașul s-a dezvoltat ca un important oraș comercial.", "Străzile sale vechi păstrează atmosfera de târg.", "Poziția pe râu îl face atractiv pentru plimbări pitorești."]
+ },
+ image: "/geo-images/denmark/randers.webp",
+ },
+ {
+ id: "city-silkeborg",
+ type: "city",
+ parent: "DK",
+ coords: [9.5210, 56.1697],
+ name: { de: "Silkeborg", hu: "Silkeborg", ro: "Silkeborg", en: "Silkeborg" },
+ description: {
+ en: "Silkeborg is one of Denmark's best-known lake cities making it an ideal choice for outdoor travel, kayaking, and forest scenery. It sits in central Jutland among lakes, hills, and the river landscape of the Gudenå. The city blends nature access with museums, cafes, and a comfortable small-city vibe. Silkeborg is a top choice for visitors who want a scenic Danish base with water, woodland, and active experiences.",
+ de: "Silkeborg ist eine der bekanntesten dänischen Seenstädte und ein erstklassiges Ziel für Outdoor-Reisen, Kajakfahren und Waldlandschaften. Die Stadt liegt in Mitteljütland zwischen Seen, Hügeln und der Flusslandschaft der Gudenå. Sie verbindet Naturzugang mit Museen, Cafés und einer angenehmen Kleinstadtatmosphäre. Silkeborg ist eine gute Wahl für Besucher, die eine landschaftlich reizvolle dänische Basis mit Wasser, Wald und Aktivurlaub suchen.",
+ hu: "Silkeborg Dánia egyik legismertebb tóvárosa, így ideális választás a szabadtéri utazás, a kajakozás és az erdei tájak iránt érdeklődőknek. Közép-Jütlandban fekszik, tavak, dombok és a Gudenå folyóvidéke között. A város a természetközeli élményeket múzeumokkal, kávézókkal és kellemes kisvárosi hangulattal ötvözi. Silkeborg kiváló választás azoknak, akik festői dán bázist keresnek vízzel, erdővel és aktív programokkal.",
+ ro: "Silkeborg este unul dintre cele mai cunoscute orașe daneze de lângă lacuri fiind o alegere ideală pentru călătorii outdoor, caiac și peisaje de pădure. Este situat în centrul Iutlandei, printre lacuri, dealuri și peisajul fluviului Gudenå. Orașul combină accesul la natură cu muzee, cafenele și o atmosferă confortabilă de oraș mic. Silkeborg este o alegere excelentă pentru vizitatorii care vor o bază daneză pitorească, cu apă, pădure și experiențe active."},
+ descriptionAdvanced: {
+ de: "Silkeborg liegt im Herzen des jütländischen Seenhochlands und ist als „Outdoor-Hauptstadt“ Dänemarks bekannt. Die Stadt ist umgeben von tiefen Wäldern und einer glitzernden Seenplatte, durch die der Fluss Gudenå fließt. Silkeborg hat eine starke industrielle Vergangenheit in der Papierherstellung, hat sich aber heute zu einem Paradies für Wanderer, Radfahrer und Kanuten entwickelt. Eine besondere Attraktion ist das Museum Silkeborg, das die berühmte Moorleiche „Tollund-Mann“ beherbergt, ein faszinierendes Zeugnis aus der Eisenzeit. Die Fahrt mit dem historischen Raddampfer „Hjejlen“ auf dem See ist ein Muss für jeden Besucher. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Silkeborg Dánia közepén, a Gudenå folyó mentén található, és az ország 'tóvidékének' fővárosaként ismert. A várost sűrű erdők és kristálytiszta tavak veszik körül, így a természetjárók, evezősök és horgászok valóságos paradicsoma. Bár a település viszonylag fiatal, a 19. századi papíripar fellendülésével indult fejlődésnek. A Silkeborgi Múzeumban őrzik a híres Tollund-embert, egy hihetetlenül jó állapotban fennmaradt, 2400 éves mocsári holttestet. A város egyszerre kínál aktív kikapcsolódást a természetben és mély kulturális élményeket. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Silkeborg este adesea numit 'capitala în aer liber' a Danemarcei datorită locației sale excepționale în regiunea Lacurilor (Søhøjlandet), fiind înconjurat de unele dintre cele mai frumoase păduri din țară. Acest oraș relativ modern, dezvoltat în principal în secolul al XIX-lea în jurul unei fabrici de hârtie, atrage iubitorii de natură, canotaj și drumeții. Peisajul său verde și curat este dominat de râul Gudenå, ale cărui ape cristaline străbat orașul și creează o rețea de lacuri superbe. Din punct de vedere cultural, Silkeborg găzduiește faimosul Muzeu Silkeborg, unde este expus Omul de la Tollund, o mumie antică perfect conservată din mlaștină. Atmosfera relaxată și accesul imediat la natură fac din Silkeborg o destinație esențială pentru ecoturism. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Silkeborg is a beautifully situated city in central Jutland, famously known as the outdoor capital of Denmark. It is surrounded by an extensive network of pristine lakes and dense forests, making it a premier destination for hiking, canoeing, and nature appreciation. The city is bisected by the Gudenå river, which connects the scenic Silkeborg Lakes. Culturally, Silkeborg is renowned for its fascinating museum housing the Tollund Man, a remarkably well-preserved Iron Age bog body. The city's modern art museum, Museum Jorn, honors the local avant-garde artist Asger Jorn, adding a vibrant artistic dimension to the natural surroundings. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Silkeborg wurde Mitte des 19. Jahrhunderts rund um eine Papierfabrik gegründet.",
+ "Der Tollund-Mann im Museum Silkeborg ist eine über 2000 Jahre alte, natürlich konservierte Moorleiche.",
+ "Die Stadt ist von den größten zusammenhängenden Waldgebieten Dänemarks umgeben.",
+ "Der Raddampfer Hjejlen ist der weltweit älteste noch in Betrieb befindliche Kohle-Raddampfer."
+ ],
+ hu: [
+ "Silkeborg mellett magasodik a Himmelbjerget (Mennyország-hegy), amely Dánia egyik legmagasabb pontja.",
+ "A Tollund-embert 1950-ben találták meg a közeli tőzeglápban.",
+ "Michael Drewsen, a helyi papírgyár alapítója tekinthető a modern Silkeborg atyjának.",
+ "A városban nyaranta megrendezik a Riverboat Jazz Fesztivált, Skandinávia egyik legrégebbi jazz eseményét."
+ ],
+ ro: ["Omul de la Tollund, expus la muzeul local, este unul dintre cele mai bine conservate cadavre din epoca fierului descoperite vreodată în lume.", "Fabrica de hârtie din Silkeborg, fondată în 1844, a tipărit bancnotele oficiale ale Danemarcei pentru mai bine de un secol.", "Himmelbjerget, unul dintre cele mai înalte dealuri din Danemarca la 147 de metri, se află la o scurtă plimbare cu barca de Silkeborg.", "Orașul este gazda Festivalului Riverboat Jazz, cel mai mare festival de muzică jazz în aer liber și pe apă din regiune.", "Muzeul de Artă Asger Jorn prezintă colecții impresionante ale celebrului pictor danez contemporan care și-a petrecut tinerețea aici."],
+ en: ["Silkeborg is often referred to as Denmark's 'Lake District' due to its surrounding waterways.", "The Tollund Man, discovered nearby in 1950, lived during the 4th century BC.", "The city hosts the Riverboat Jazz Festival, one of the oldest and largest jazz festivals in Northern Europe.", "Hjejlen, the world's oldest original coal-fired paddle steamer, operates on the Silkeborg Lakes."]
+ },
+ facts: {
+ en: ["Silkeborg is surrounded by lakes and forested hills.", "The Gudenå river flows through the broader area.", "It is popular for boating and kayaking.", "The city has a strong outdoor recreation profile.", "Silkeborg is often promoted as a lake district destination."],
+ de: ["Silkeborg ist von Seen und bewaldeten Hügeln umgeben.", "Die Gudenå fließt durch die weitere Umgebung.", "Die Stadt ist beliebt für Bootstouren und Kajakfahren.", "Sie hat ein starkes Profil für Outdoor-Erholung.", "Silkeborg wird oft als Reiseziel im Seengebiet vermarktet."],
+ hu: ["Silkeborgot tavak és erdős dombok veszik körül.", "A Gudenå a tágabb térségen halad át.", "Népszerű csónakázásra és kajakozásra.", "Erős a szabadtéri kikapcsolódási arculata.", "Silkeborgot gyakran a tóvidék úti céljaként reklámozzák."],
+ ro: ["Silkeborg este înconjurat de lacuri și dealuri împădurite.", "Gudenå trece prin zona mai largă.", "Este popular pentru plimbări cu barca și caiac.", "Are un profil puternic de recreere în aer liber.", "Silkeborg este promovat adesea ca destinație de ținut al lacurilor."]
+ },
+ image: "/geo-images/denmark/silkeborg.webp",
+ },
+ {
+ id: "city-hilleroed",
+ type: "city",
+ parent: "DK",
+ coords: [12.3020, 55.9260],
+ name: { de: "Hillerød", hu: "Hillerød", ro: "Hillerød", en: "Hillerød" },
+ description: {
+ en: "Hillerod is a northern Zealand city best known for Frederiksborg Castle and its elegant lake setting. It has a polished historical feel that makes it a useful keyword for castle trips from Copenhagen. The town center is compact, walkable, and surrounded by parks and water. Hillerod is ideal for visitors who want a royal day trip with calm scenery and easy access.",
+ de: "Hillerød ist eine Stadt im Norden Seelands, die vor allem durch Schloss Frederiksborg und seine elegante Lage am See bekannt ist. Sie hat ein gepflegtes historisches Flair und ist damit ein attraktives Ziel für Schlossausflüge ab Kopenhagen. Das Stadtzentrum ist kompakt, gut zu Fuß erkundbar und von Parks und Wasser umgeben. Hillerød ist ideal für Besucher, die einen königlichen Tagesausflug mit ruhiger Landschaft und guter Erreichbarkeit suchen.",
+ hu: "Hillerød Észak-Sjælland városa, amelyet leginkább a Frederiksborg kastély és elegáns tóparti fekvése tesz ismertté. Csiszolt történelmi hangulata miatt hasznos támpont a koppenhágai kastélytúrákhoz. A belváros kompakt, gyalogosan jól bejárható, és parkok valamint víz veszik körül. Hillerød ideális azoknak, akik nyugodt környezetű, királyi egynapos kirándulást keresnek.",
+ ro: "Hillerød este un oraș din nordul insulei Zealand, cunoscut mai ales pentru Castelul Frederiksborg și amplasarea sa elegantă lângă lac. Are o atmosferă istorică rafinată, ceea ce îl face un punct de referință util pentru excursii la castel din Copenhaga. Centrul orașului este compact, ușor de parcurs pe jos și înconjurat de parcuri și apă. Hillerød este ideal pentru vizitatorii care vor o excursie regală de o zi, cu peisaj calm și acces simplu."},
+ descriptionAdvanced: {
+ de: "Hillerød ist eine charmante Stadt im Norden Seelands, die vor allem für das prächtige Schloss Frederiksborg bekannt ist. Dieses Wasserschloss, das auf drei kleinen Inseln im Schlosssee liegt, gilt als das bedeutendste Renaissancebauwerk Skandinaviens und beherbergt heute das Nationalhistorische Museum. Die barocke Gartenanlage des Schlosses ist ein Meisterwerk der Gartenkunst und lädt zu ausgiebigen Spaziergängen ein. Hillerød ist zudem ein wichtiger Knotenpunkt für Ausflüge in die großen Wälder von Nordseeland, wie den Gribskov. Die Stadt verbindet königliche Geschichte mit einer entspannten Atmosphäre und einer hohen Lebensqualität. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Hillerød Észak-Sjælland szívében található, és elsősorban a fenséges Frederiksborg-kastélyról híres. A város a kastély és az azt körülvevő gyönyörű barokk kertek köré épült, amelyek egész évben vonzzák a látogatókat. A kastély a dán Nemzeti Történeti Múzeumnak is otthont ad, gazdag gyűjteménnyel a dán királyi történelemből. Hillerød hangulatos tava, a Slotssøen, tökéletes tükörképet ad a reneszánsz építészet remekművének. A történelmi pompa mellett a város egy modern, virágzó központ, kiváló vásárlási lehetőségekkel és zöld parkokkal. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Hillerød este o destinație pitorească situată în inima insulei Zeeland, devenită faimoasă la nivel internațional datorită magnificului Castel Frederiksborg. Orașul are o istorie regală puternică, evoluând ca așezare în jurul acestui domeniu somptuos folosit de regii Danemarcei pentru încoronări și retrageri. Castelul renascentist, așezat grațios pe trei insule mici într-un lac, domină complet estetica și atmosfera așezării. Hillerød este totodată poarta de acces spre Pădurea Gribskov și Parcul Național al Regilor din nordul insulei Zeeland. Cu zone pietonale fermecătoare, magazine de tip boutique și natură imaculată, orașul oferă o imagine perfectă a vieții provinciale daneze tradiționale. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Hillerød is an elegant city situated in the heart of North Zealand, widely celebrated for its royal history and stunning architecture. The city's centerpiece is the magnificent Frederiksborg Castle, a Dutch Renaissance masterpiece built by King Christian IV in the early 17th century. The castle is surrounded by exquisite baroque gardens and sits romantically on three small islands in the Castle Lake. Beyond its royal heritage, Hillerød offers a charming downtown area with vibrant shopping streets and cafes. The city serves as a cultural and commercial center for the surrounding region, effortlessly combining historical grandeur with modern living. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Schloss Frederiksborg wurde von König Christian IV. im frühen 17. Jahrhundert erbaut.",
+ "Das Nationalhistorische Museum im Schloss zeigt eine beeindruckende Sammlung von Porträts und Historienbildern.",
+ "Hillerød liegt am Rande des Gribskov, einem der größten Wälder Dänemarks.",
+ "Die Schlosskirche war über jahrhunderte der Ort der Salbung dänischer Könige."
+ ],
+ hu: [
+ "A Frederiksborg-kastélyt IV. Keresztély király építtette a 17. század elején.",
+ "Ez Észak-Európa legnagyobb reneszánsz kastélya.",
+ "A kastélykápolna a Dannebrog Rend (a legmagasabb dán lovagrend) hivatalos kápolnája.",
+ "A várost sűrű erdők, köztük a Gribskov veszik körül, amely az ősi dán királyok kedvelt vadászterülete volt."
+ ],
+ ro: ["Castelul Frederiksborg, situat în Hillerød, este cel mai mare complex renascentist din întreaga regiune scandinavă.", "Între anii 1671 și 1840, absolut toți monarhii absoluți ai Danemarcei au fost încoronați oficial în capela Castelului Frederiksborg.", "Orașul a suferit incendii devastatoare în secolele trecute, motiv pentru care majoritatea caselor istorice din centru datează doar din secolul XIX.", "Parcul baroc al castelului din Hillerød a fost refăcut meticulos în anii 1990 pentru a reflecta designul său original din 1720.", "Hillerød este punctul final al liniei de tren Hillerødbanen, parte vitală a sistemului de S-train (S-tog) care îl conectează cu Copenhaga."],
+ en: ["Frederiksborg Castle is the largest Renaissance residence in Scandinavia.", "The castle currently houses the Museum of National History of Denmark.", "Hillerød is surrounded by the expansive Gribskov forest, one of Denmark's largest woodlands.", "The beautiful baroque gardens of the castle feature highly symmetrical parterres and cascading fountains."]
+ },
+ facts: {
+ en: ["Frederiksborg Castle is the city's star attraction.", "Hillerod is a common day trip from Copenhagen.", "The old town center is compact and walkable.", "The city is surrounded by lakes and parkland.", "It has a strong royal and aristocratic atmosphere."],
+ de: ["Schloss Frederiksborg ist die Hauptattraktion der Stadt.", "Hillerød ist ein beliebtes Tagesausflugsziel ab Kopenhagen.", "Das alte Stadtzentrum ist kompakt und gut zu Fuß begehbar.", "Die Stadt ist von Seen und Parkanlagen umgeben.", "Sie hat eine ausgeprägte königliche und aristokratische Atmosphäre."],
+ hu: ["A Frederiksborg kastély a város fő látványossága.", "Hillerød gyakori egynapos kirándulóhely Koppenhágából.", "A régi városközpont kompakt és gyalogosbarát.", "A várost tavak és parkos területek veszik körül.", "Erős királyi és arisztokratikus hangulata van."],
+ ro: ["Castelul Frederiksborg este atracția principală a orașului.", "Hillerød este o excursie de o zi frecventă din Copenhaga.", "Centrul vechi este compact și ușor de parcurs pe jos.", "Orașul este înconjurat de lacuri și zone parculare.", "Are o atmosferă regală și aristocratică puternică."]
+ },
+ image: "/geo-images/denmark/hilleroed.webp",
+ },
+ {
+ id: "city-kolding",
+ type: "city",
+ parent: "DK",
+ coords: [9.4731, 55.4904],
+ name: { de: "Kolding", hu: "Kolding", ro: "Kolding", en: "Kolding" },
+ description: {
+ en: "Kolding is a south Jutland city that combines castle history, design culture, and a strong regional shopping and education role. Koldinghus gives the city a powerful historic center, while modern museums and the waterfront add contemporary appeal. It is a practical destination for Denmark road trips through the southern part of the country. Kolding offers an easy mix of heritage, urban life, and access to the fjord.",
+ de: "Kolding ist eine Stadt in Südjütland, die Schlossgeschichte, Designkultur und eine wichtige regionale Rolle im Handel und in der Bildung verbindet. Koldinghus gibt der Stadt ein starkes historisches Zentrum, während moderne Museen und die Uferzone zeitgenössische Attraktivität hinzufügen. Sie ist ein praktisches Ziel für Dänemark-Roadtrips durch den südlichen Teil des Landes. Kolding bietet eine einfache Mischung aus Erbe, Stadtleben und Fjordzugang.",
+ hu: "Kolding Dél-Jütland városa, amely a kastélytörténelmet, a designkultúrát és az oktatásban, valamint a vásárlásban betöltött regionális szerepet ötvözi. A Koldinghus erőteljes történelmi központot ad a városnak, míg a modern múzeumok és a vízpart kortárs vonzerőt biztosítanak. Praktikus-célpont a dániai autós utakhoz az ország déli részén. Kolding könnyen ötvözi az örökséget, a városi életet és a fjordhoz való hozzáférést.",
+ ro: "Kolding este un oraș din sudul Iutlandei care combină istoria castelului, cultura designului și un rol regional puternic în comerț și educație. Koldinghus îi oferă un centru istoric puternic, iar muzeele moderne și malul apei adaugă atractivitate contemporană. Este o destinație practică pentru road trip-uri în Danemarca, în partea sudică a țării. Kolding oferă un amestec ușor de patrimoniu, viață urbană și acces la fiord."},
+ descriptionAdvanced: {
+ de: "Kolding ist eine bedeutende Handels- und Hafenstadt am Ende des Kolding Fjords im Südosten Jütlands. Das Wahrzeichen der Stadt ist das Koldinghus, die letzte königliche Burg in Jütland, die nach einem verheerenden Brand spektakulär mit moderner Architektur restauriert wurde. Kolding hat sich zu einem Zentrum für Design und Innovation entwickelt, was sich im Trapholt-Museum für moderne Kunst und Design widerspiegelt. Die Stadt bietet eine gelungene Mischung aus historischem Erbe und moderner Stadtentwicklung. Durch ihre zentrale Lage an den Verkehrswegen zwischen Jütland, Fünen und Deutschland ist Kolding ein wichtiger wirtschaftlicher Knotenpunkt. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Kolding egy dinamikus ipari és formatervezési központ Dél-Jütlandon, a Kolding-fjord végénél. A város büszkesége a Koldinghus, a 13. században épült királyi vár, amely egykor Dánia déli határát védte, ma pedig lenyűgöző kulturális központ és múzeum. Kolding az innovációra fókuszál, számos dizájniskolának ad otthont, köztük a rangos Designskolen Koldingnak. A Trapholt Művészeti Múzeum hatalmas gyűjteményével a dán bútortervezés és modern művészet egyik fellegvára. A város tökéletes egyensúlyt teremt a történelmi örökség és a modern, kreatív iparágak között. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Kolding este un oraș vibrant, așezat strategic la capătul unui fiord impresionant pe coasta de est a Iutlandei, cu o istorie comercială și militară puternică. Simbolul de necontestat al orașului este Koldinghus, un fost castel regal care a fost parțial ruinat de un incendiu în 1808 și a fost restaurat spectaculos într-un stil arhitectural contemporan. Orașul se definește astăzi printr-un mix captivant de istorie bogată și spirit antreprenorial modern, fiind un centru recunoscut pentru inovație în design și artă aplicată. Muzeul Trapholt adaugă valoare profilului său artistic, expunând design contemporan de top într-o locație cu vedere panoramică asupra apei. Prin universitatea sa și sectorul industrial creativ, Kolding se menține ca un pilon economic important al regiunii Triunghiului din sudul Danemarcei. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Kolding is a historic and dynamic seaport located at the head of Kolding Fjord in the Region of Southern Denmark. The city's skyline is crowned by Koldinghus, an impressive royal castle originally built in the 13th century to guard the southern border of the kingdom. Today, Kolding is recognized for its strong focus on design, education, and innovation, housing an esteemed design school and the Trapholt Art Museum. The city's architecture is a fascinating mix of medieval streets, restored historic buildings, and cutting-edge modern structures. Kolding serves as an important transportation and commercial hub bridging Jutland and Funen. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Koldinghus wurde im 13. Jahrhundert als Grenzfestung gegen das Herzogtum Schleswig gegründet.",
+ "Das Trapholt-Museum wird oft als das 'Louisiana des Westens' bezeichnet.",
+ "In Kolding befindet sich der geografische Mittelpunkt der sogenannten 'Triangle Region', einem dänischen Wirtschaftszentrum.",
+ "Die Nikolaikirche in Kolding ist eine der ältesten Backsteinkirchen der Region."
+ ],
+ hu: [
+ "A Koldinghus vár 1808-ban egy hatalmas tűzvészben leégett, majd a 20. század végén egyedi, modern építészeti megoldásokkal állították helyre.",
+ "A város a dániai fa- és bútortervező ipar jelentős központja.",
+ "A Kolding-fjord hídja fontos közlekedési kapcsolatot biztosít a régióban.",
+ "Kolding egyike a 'Triangle Region' nevű dán gazdasági övezet kulcsvárosainak."
+ ],
+ ro: ["Koldinghus a fost ultimul castel regal construit în Iutlanda, fiind folosit în principal pentru a păzi granița de sud a Danemarcei.", "Muzeul Trapholt din Kolding deține cea mai mare colecție din țară dedicată exclusiv scaunelor create de faimoșii designeri danezi.", "Restaurarea Castelului Koldinghus a durat mai multe decenii și a câștigat prestigiosul premiu european Nostra pentru conservare arhitecturală.", "Orașul este parte din 'Regiunea Triunghiului' (Trekantområdet), una dintre cele mai industrializate și dinamice zone economice din afara Copenhagăi.", "Kolding are un sistem extins de energie geotermală, contribuind activ la obiectivele ambițioase de reducere a emisiilor de carbon ale Danemarcei."],
+ en: ["Koldinghus was severely damaged by a fire in 1808 caused by Spanish soldiers stationed there.", "The Trapholt Museum features a large collection of Danish furniture design and contemporary art.", "Kolding is a major node in Denmark's transport network, connecting the north-south and east-west corridors.", "The Geografisk Have is an impressive botanical garden featuring plants from around the world."]
+ },
+ facts: {
+ en: ["Koldinghus is the city's signature landmark.", "The city sits near the Kolding Fjord.", "It is a regional center for design and education.", "Kolding has a strong mix of old and new architecture.", "The town works well as a southern Denmark stop."],
+ de: ["Koldinghus ist das Wahrzeichen der Stadt.", "Die Stadt liegt in der Nähe des Kolding-Fjords.", "Sie ist ein regionales Zentrum für Design und Bildung.", "Kolding bietet eine starke Mischung aus alter und neuer Architektur.", "Die Stadt eignet sich gut als Zwischenstopp in Südjütland."],
+ hu: ["A Koldinghus a város jelképe.", "A város a Kolding-fjord közelében fekszik.", "Regionális központ a design és az oktatás területén.", "Koldingban erős az ó- és újépítészet keveréke.", "A város jól működik dél-dániai megállóként."],
+ ro: ["Koldinghus este reperul emblematic al orașului.", "Orașul se află lângă Fiordul Kolding.", "Este un centru regional pentru design și educație.", "Kolding are un amestec puternic de arhitectură veche și nouă.", "Orașul funcționează bine ca oprire în sudul Danemarcei."]
+ },
+ image: "/geo-images/denmark/kolding.webp",
+ },
+ {
+ id: "city-frederikshavn",
+ type: "city",
+ parent: "DK",
+ coords: [10.5366, 57.4419],
+ name: { de: "Frederikshavn", hu: "Frederikshavn", ro: "Frederikshavn", en: "Frederikshavn" },
+ description: {
+ en: "Frederikshavn is a major ferry and coastal city in northern Jutland with strong value for Baltic and Scandinavian travel routes. It connects Denmark with Sweden and Norway and has long been a strategic port town. The city also offers beaches, maritime museums, and a clean seaside atmosphere. Frederikshavn is a natural choice for travelers crossing the North Sea or planning island access.",
+ de: "Frederikshavn ist eine wichtige Fähr- und Küstenstadt im Norden Jütlands mit starkem-Wert für Ostsee- und Skandinavienrouten. Sie verbindet Dänemark mit Schweden und Norwegen und ist seit langem eine strategische Hafenstadt. Die Stadt bietet außerdem Strände, maritime Museen und eine saubere Seeluft. Frederikshavn ist eine natürliche Wahl für Reisende, die über die Nordsee unterwegs sind oder Inselverbindungen planen.",
+ hu: "Frederikshavn Észak-Jütland fontos komp- és tengerparti városa, jelentős vonzerővel a balti és skandináv útvonalakhoz. Dánia, Svédország és Norvégia közötti kapcsolatot ad, és régóta stratégiai kikötőváros. A város strandokat, tengeri múzeumokat és tiszta üdülőhangulatot is kínál. Frederikshavn természetes választás azoknak, akik az Északi-tengeren át utaznak vagy szigetekre készülnek.",
+ ro: "Frederikshavn este un important oraș-port și de coastă din nordul Iutlandei, cu o valoare turistică mare pentru rutele baltice și scandinave. Leagă Danemarca de Suedia și Norvegia și a fost de mult timp un port strategic. Orașul oferă și plaje, muzee maritime și o atmosferă curată de litoral. Frederikshavn este o alegere firească pentru călătorii care traversează Marea Nordului sau plănuiesc acces la insule."},
+ descriptionAdvanced: {
+ de: "Frederikshavn ist eine wichtige Hafenstadt im Norden Jütlands und dient als bedeutendes Tor nach Norwegen und Schweden. Die Stadt hieß ursprünglich Fladstrand und wurde erst nach König Friedrich VI. benannt, als sie Stadtrechte erhielt. Bekannt ist Frederikshavn für seinen „Palmenstrand“, den einzigen seiner Art in Dänemark, der im Sommer ein fast exotisches Flair verbreitet. Der Pulverturm (Krudttårnet) ist das Wahrzeichen der Stadt und ein Überbleibsel der alten Befestigungsanlagen. Heute ist die Stadt ein Zentrum für maritime Industrie und Tourismus, geprägt von ihrer strategischen Lage am Kattegat. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Frederikshavn egy jelentős északi kikötőváros Jütland partjainál, amely stratégiai szerepet tölt be a dán tengeri kereskedelemben. A város kompközlekedése a legfontosabb kapocs Skandinávia többi részéhez, napi járatokkal Svédországba és Norvégiába. A tengerészeti örökséget őrzi a Bangsbo Múzeum, valamint a környék védelmét szolgáló régi erődítmények és bunkerek. A hosszú, finom homokos strandok és az egyedülálló pálmafás tengerpart (Palmestranden) különleges hangulatot ad a településnek. Frederikshavn igazi tengerészváros, ahol az ipar és a tengerparti pihenés jól megfér egymás mellett. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Frederikshavn este un oraș maritim animat din nord-estul extrem al Iutlandei, cunoscut de secole ca un nod esențial de transport maritim către Suedia și Norvegia. Identitatea așezării este complet contopită cu portul său masiv și traficul constant al feriboturilor uriașe, care îi conferă o energie cosmopolită unică în regiune. Orașul are, de asemenea, o istorie militară bogată, mărturie stând impresionantul Turn de Pulbere (Krudttårnet), un vestigiu al vechilor fortificații daneze care protejau portul. Frederikshavn este renumit pentru un mediu natural curat, inclusiv plaja unică Palm Beach (Palmestranden), unde zeci de palmieri sunt plantați pe nisip în timpul verilor daneze. Cu străzi comerciale vibrante și pește proaspăt de cea mai bună calitate, orașul a devenit o destinație îndrăgită pe timpul verii. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Frederikshavn is a bustling port city located on the northeast coast of the Jutland peninsula. It serves as a vital maritime gateway connecting Denmark to Sweden and Norway via extensive ferry routes. Originally a small fishing village named Fladstrand, it was renamed and granted market town status in 1818. The city boasts a rich naval history, highlighted by the historic Gunpowder Tower (Krudttårnet) and various coastal defense structures. With its sandy beaches, lively harbor, and proximity to the unique northern tip of Denmark, Frederikshavn offers a distinctive maritime charm. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Frederikshavn ist einer der wichtigsten Fährhäfen Dänemarks mit täglichen Verbindungen nach Göteborg und Oslo.",
+ "Der Krudttårnet stammt aus dem Jahr 1686 und war Teil der Festung Fladstrand.",
+ "Die Stadt besitzt den einzigen Strand Dänemarks, an dem im Sommer echte Palmen aufgestellt werden.",
+ "Frederikshavn ist ein bedeutender Stützpunkt der dänischen Marine."
+ ],
+ hu: [
+ "A várost 1818-ban nevezték el Frederikshavn-nek VI. Frigyes dán király tiszteletére; korábban Fladstrandnak hívták.",
+ "A Palmestranden (Pálmastrand) nyaranta valódi pálmafákkal várja a strandolókat.",
+ "A kikötő Dánia egyik legnagyobb tengerészeti és hajójavító bázisa.",
+ "A Bangsbo erőd a második világháború alatt épült, és a partvédelem fontos része volt."
+ ],
+ ro: ["Până în anul 1818, orașul era un simplu sat pescăresc, cunoscut sub numele de Fladstrand, înainte de a fi redenumit în onoarea Regelui Frederik al VI-lea.", "Krudttårnet (Turnul de Pulbere) din Frederikshavn a fost construit în anul 1688 și este singura rămășiță a citadelei Fladstrand.", "Plaja Palmestranden folosește aproximativ 100 de palmieri adevărați, care pe timpul iernii înghețate sunt mutați în sere uriașe.", "Portul din Frederikshavn este unul dintre cele mai aglomerate porturi de pasageri din Scandinavia, deservind milioane de călători anual.", "Zona din jurul orașului este una dintre cele mai bune locații din Danemarca pentru observarea păsărilor marine migratoare."],
+ en: ["Frederikshavn handles millions of ferry passengers traveling to Gothenburg and Oslo every year.", "The city is home to the Palm City beach, an artificial beach adorned with real palm trees during summer.", "The historic Krudttårnet was originally built in 1686 as a military magazine to defend the port.", "Frederikshavn has a long tradition of shipbuilding and maritime engineering."]
+ },
+ facts: {
+ en: ["Frederikshavn is a key ferry gateway to Sweden and Norway.", "It has long served as a strategic naval and commercial port.", "The city is close to the island of Læsø by ferry.", "Palm Beach is one of its surprising coastal draws.", "Its harbor makes it important for North Sea travel."],
+ de: ["Frederikshavn ist ein wichtiger Fährknotenpunkt nach Schweden und Norwegen.", "Die Stadt diente lange als strategischer Marine- und Handelshafen.", "Mit der Fähre ist die Insel Læsø gut erreichbar.", "Der Palm Beach ist eine überraschende Küstenattraktion.", "Ihr Hafen macht sie für Reisen über die Nordsee wichtig."],
+ hu: ["Frederikshavn kulcsfontosságú kompkapu Svédország és Norvégia felé.", "Hosszú ideig stratégiai haditengerészeti és kereskedelmi kikötőként szolgált.", "Kompjárattal közel van Læsø szigetéhez.", "A Palm Beach meglepő part menti vonzereje.", "Kikötője fontossá teszi az északi-tengeri utazásoknál."],
+ ro: ["Frederikshavn este o poartă-cheie cu feribotul către Suedia și Norvegia.", "A servit mult timp ca port naval și comercial strategic.", "Este aproape de insula Læsø prin feribot.", "Palm Beach este una dintre atracțiile sale de coastă surprinzătoare.", "Portul îl face important pentru călătoriile pe Marea Nordului."]
+ },
+ image: "/geo-images/denmark/frederikshavn.webp",
+ },
+ {
+ id: "city-sonderborg",
+ type: "city",
+ parent: "DK",
+ coords: [9.7836, 54.9102],
+ name: { de: "Sønderborg", hu: "Sønderborg", ro: "Sønderborg", en: "Sønderborg" },
+ description: {
+ en: "Sonderborg is a southern Jutland city with castle views, a waterfront promenade, and a strong cross-border identity close to Germany. It is a useful location for travelers interested in borderland history, fjord scenery, and Danish-German connections. The city feels compact and scenic, with modern urban renewal around the harbor. Sonderborg offers a smart blend of history, business, and coastal relaxation.",
+ de: "Sønderborg ist eine Stadt in Südjütland mit Blick auf das Schloss, einer Uferpromenade und einer starken grenzüberschreitenden Identität nahe Deutschland. Sie ist ein nützliches-Ziel für Reisende, die sich für Grenzlandgeschichte, Fjordlandschaften und dänisch-deutsche Verbindungen interessieren. Die Stadt wirkt kompakt und landschaftlich schön, mit moderner Stadterneuerung rund um den Hafen. Sønderborg bietet eine kluge Mischung aus Geschichte, Wirtschaft und Küstenentspannung.",
+ hu: "Sønderborg dél-jütlandi város, kastélyra néző panorámával, vízparti sétánnyal és Németországhoz közeli, erős határmenti identitással. Hasznos-helyszín azoknak, akiket a határvidék történelme, a fjord tájai és a dán–német kapcsolatok érdekelnek. A város kompakt és festői, a kikötő körül modern városmegújítással. Sønderborg okos elegye a történelemnek, az üzleti életnek és a tengerparti kikapcsolódásnak.",
+ ro: "Sønderborg este un oraș din sudul Iutlandei, cu vedere la castel, promenadă la apă și o identitate de frontieră puternică, aproape de Germania. Este o locație utilă pentru călătorii interesați de istoria zonei de graniță, peisajul de fiord și conexiunile danezo-germane. Orașul pare compact și pitoresc, cu o regenerare urbană modernă în jurul portului. Sønderborg oferă un amestec bun de istorie, business și relaxare pe coastă."},
+ descriptionAdvanced: {
+ de: "Sønderborg ist eine geschichtsträchtige Stadt im Süden Jütlands, die malerisch am Alsensund liegt. Die Stadt ist untrennbar mit der dänisch-deutschen Geschichte verbunden, insbesondere durch die Schlacht von Düppel (Dybbøl) im Jahr 1864, die das moderne dänische Nationalbewusstsein prägte. Das Schloss Sønderborg, das direkt am Wasser liegt, beherbergt ein Museum zur Geschichte der Grenzregion. Heute ist Sønderborg eine lebendige Stadt mit einer Universität und einer starken Ausrichtung auf grüne Energie und Technologie. Die maritime Atmosphäre am Hafen und die Nähe zu Deutschland machen sie zu einem einzigartigen kulturellen Treffpunkt. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Sønderborg Als szigetén és a Jütland-félszigeten terül el, amelyet a szűk Alssund-szoros választ ketté. A város kiemelkedő szerepet játszott a dán történelemben, különösen a porosz-dán háborúk idején; az itt található Dybbøl Malom a dán nemzeti ellenállás szimbóluma. A Sønderborgi kastély évszázadokon át nyújtott menedéket a királyi családnak, ma pedig Dél-Jütland történelmét bemutató múzeumként működik. A modern Sønderborg egy fiatalos egyetemváros és az innovatív 'Project Zero' kezdeményezés központja, amely célul tűzte ki a szén-dioxid-semlegességet. A határ menti elhelyezkedés gazdag, kétkultúrájú atmoszférát kölcsönöz a városnak. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Sønderborg, așezat grațios de-a lungul strâmtorii Alssund, este un oraș definit de relația sa strânsă cu marea și istoria frontierei germano-daneze. Centrul istoric al orașului este fermecător, caracterizat de o arhitectură colorată și de o frumoasă promenadă maritimă care invită la plimbări lungi. Punctul focal absolut este Castelul Sønderborg, a cărui siluetă robustă găzduiește astăzi un muzeu fascinant dedicat culturii și luptelor din sudul Iutlandei. Orașul este recunoscut în întreaga Danemarcă pentru atmosfera sa studențească și inovația industrială, fiind sediul sediului principal al Danfoss. Datorită poziției sale geografice, Sønderborg servește și ca punte de legătură excelentă între cultura scandinavă și cea a Europei Centrale. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Sønderborg is a picturesque and historically significant city located on both sides of the Alssund strait in Southern Denmark. The city plays a crucial role in the history of the border region between Denmark and Germany, most notably associated with the Battle of Dybbøl in 1864. The beautiful Sønderborg Castle, situated on the waterfront, showcases the region's complex history and royal heritage. Today, the city is a vibrant educational and technological hub, strongly influenced by the presence of the Danfoss headquarters nearby. Sønderborg combines striking coastal scenery, rich historical narratives, and a forward-looking industrial environment. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Schloss Sønderborg diente im 16. Jahrhundert als Gefängnis für den abgesetzten König Christian II.",
+ "Die Stadt liegt teils auf der Halbinsel Sundewitt und teils auf der Insel Alsen.",
+ "Sønderborg ist das Zentrum der dänischen High-Tech-Region im Süden, in der Firmen wie Danfoss ansässig sind.",
+ "Jedes Jahr findet in Sønderborg das traditionelle Ringreiten statt, ein großes Volksfest."
+ ],
+ hu: [
+ "Az 1864-es dybbøli csata helyszíne Sønderborg mellett található, ahol Dánia jelentős területeket veszített el.",
+ "A Sønderborg-kastély börtönként is szolgált II. Keresztély király számára a 16. században.",
+ "A város központjában működik a Danfoss, a világhírű dán fűtés- és hűtéstechnikai vállalat globális központja.",
+ "A város egyedi elhelyezkedése miatt a dán és a német kultúra békés egymás mellett élése figyelhető meg."
+ ],
+ ro: ["Castelul Sønderborg a servit drept închisoare pentru fostul rege danez Christian al II-lea timp de 17 ani în secolul al XVI-lea.", "Centrul de Cercetare Danfoss Universe este una dintre atracțiile majore, popularizând știința și tehnologia pentru familii.", "În fiecare vară, orașul găzduiește 'Ringridning', cel mai mare festival de turnire și lupte medievale ecvestre din Scandinavia.", "Bătălia de la Dybbøl, esențială în Războiul din 1864, a avut loc chiar la marginea vestică a orașului.", "Sønderborg a lansat inițiativa ambițioasă 'Project Zero', propunându-și să devină o municipalitate complet neutră din punct de vedere al emisiilor de carbon până în 2029."],
+ en: ["Sønderborg is partly located on the island of Als and partly on the Jutland peninsula.", "The Battle of Dybbøl in 1864, fought nearby, was a defining moment in modern Danish history.", "Sønderborg Castle houses an extensive museum dedicated to the history of the border region.", "The city is known for the traditional ring riding festivals (Ringridning) held every summer."]
+ },
+ facts: {
+ en: ["Sonderborg sits on the Alssund strait.", "The city is closely linked to the island of Als.", "It has strong ties to Danish-German border history.", "The harbor area has seen major redevelopment.", "Sonderborg Castle is a major local highlight."],
+ de: ["Sønderborg liegt am Alssund.", "Die Stadt ist eng mit der Insel Als verbunden.", "Sie hat starke Bezüge zur dänisch-deutschen Grenzgeschichte.", "Der Hafenbereich wurde stark umgestaltet.", "Schloss Sønderborg ist ein wichtiges lokales Highlight."],
+ hu: ["Sønderborg az Alssund szorosnál fekszik.", "A város szorosan kapcsolódik Als szigetéhez.", "Erős dán–német határtörténeti kötődése van.", "A kikötő környékét jelentősen megújították.", "A Sønderborg kastély fontos helyi látnivaló."],
+ ro: ["Sønderborg se află pe strâmtoarea Alssund.", "Orașul este strâns legat de insula Als.", "Are legături puternice cu istoria de frontieră danezo-germană.", "Zona portuară a fost reamenajată masiv.", "Castelul Sønderborg este un punct de atracție local major."]
+ },
+ image: "/geo-images/denmark/sonderborg.webp",
+ },
+ {
+ id: "city-holstebro",
+ type: "city",
+ parent: "DK",
+ coords: [8.6161, 56.3601],
+ name: { de: "Holstebro", hu: "Holstebro", ro: "Holstebro", en: "Holstebro" },
+ description: {
+ en: "Holstebro is a west Jutland city known for its cultural scene, riverside setting, and appealing small-city atmosphere. It combines sculpture, shopping streets, and local museums with a practical role in the region. The city is an excellent addition for travelers searching for authentic Danish towns beyond the main tourist circuit. Holstebro feels both modern and rooted in local tradition.",
+ de: "Holstebro ist eine Stadt in Westjütland, bekannt für ihre Kulturszene, ihre Lage am Fluss und ihre attraktive Kleinstadtatmosphäre. Sie verbindet Skulpturen, Einkaufsstraßen und lokale Museen mit einer praktischen regionalen Rolle. Die Stadt ist eine hervorragende Ergänzung für Reisende, die authentische dänische Orte abseits der großen Touristenpfade suchen. Holstebro wirkt zugleich modern und tief in der lokalen Tradition verwurzelt.",
+ hu: "Holstebro egy nyugat-jütlandi város, amely kulturális életéről, folyóparti fekvéséről és vonzó kisvárosi hangulatáról ismert. Szobrokat, bevásárlóutcákat és helyi múzeumokat kapcsol össze regionális szereppel. Kiváló kiegészítés azoknak az utazóknak, akik hiteles dán városokat keresnek a fő turistaútvonalakon túl. Holstebro egyszerre modern és mélyen helyi hagyományokra épülő város.",
+ ro: "Holstebro este un oraș din vestul Iutlandei, cunoscut pentru scena sa culturală, amplasarea pe malul râului și atmosfera atractivă de oraș mic. Îmbină sculpturi, străzi comerciale și muzee locale cu un rol regional practic. Orașul este o completare excelentă pentru călătorii care caută orașe daneze autentice, în afara circuitului turistic principal. Holstebro pare în același timp modern și bine ancorat în tradiția locală."},
+ descriptionAdvanced: {
+ de: "Holstebro ist ein lebendiges Kulturzentrum in Westjütland, das für seine mutige Förderung moderner Kunst und Skulpturen bekannt ist. Die Stadt am Fluss Storå bietet eine charmante Mischung aus historischem Erbe und einer preisgekrönten Einkaufsatmosphäre. Ein absolutes Highlight ist das Odin Teatret, ein international renommiertes Laboratorium für Theaterkunst. Die malerische Umgebung mit Heidelandschaften und der Nähe zur Nordsee macht Holstebro zu einem idealen Ziel für Natur- und Kulturliebhaber. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Holstebro egy dinamikus város Nyugat-Jütlandon, amely gazdag kulturális élettel és művészeti kezdeményezéseivel emelkedik ki a régióból. A városvezetők évtizedekkel ezelőtt úgy döntöttek, hogy a művészetet a városkép részévé teszik, így ma számos köztéri szobor és műalkotás díszíti az utcákat. A legismerebb közülük Alberto Giacometti 'Nő a kocsin' című alkotása. A várost átszelő Storå folyó nemcsak festői szépségű, hanem nagyszerű lehetőséget kínál kenu- és kajaktúrákra. Holstebro az Odin Teatret otthona is, amely egy nemzetközileg elismert kísérleti színházi laboratórium. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Holstebro este un oraș cultural efervescent din vestul Iutlandei, cunoscut la nivel național pentru angajamentul său extraordinar față de arta publică. Râul Storå străbate centrul orașului, creând peisaje idilice și spații verzi de care se bucură atât localnicii, cât și turiștii în mod regulat. Din anii 1960, municipalitatea a investit masiv în cultură, transformând străzile sale într-o veritabilă galerie de artă modernă în aer liber. Această abordare progresistă a creat un contrast fascinant între moștenirea istorică tradițională și instalațiile de artă de avangardă. În plus, Holstebro este o bază excelentă pentru excursii de-a lungul sălbaticei coaste a Mării Nordului sau spre dealurile blânde din regiune. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Holstebro is a thriving cultural and commercial center situated on the banks of the Storå river in western Jutland. The city is widely recognized for its robust commitment to the arts, featuring numerous public sculptures, most famously Alberto Giacometti's 'Woman on the Cart'. Holstebro offers a vibrant pedestrian shopping area alongside rich cultural institutions like the Odin Teatret, an internationally renowned theater laboratory. The surrounding landscape includes expansive heathlands and proximity to the raw beauty of the North Sea coast. Holstebro's dedication to integrating art into everyday urban life makes it a unique destination in Jutland. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Holstebro wurde bereits im 13. Jahrhundert als wichtiger Handelsort am Fluss Storå erwähnt.",
+ "Die Stadt beherbergt die berühmte Skulptur 'Frau auf dem Wagen' von Alberto Giacometti.",
+ "Sie gilt regelmäßig als eine der besten Einkaufsstädte Dänemarks.",
+ "Das Holstebro Kunstmuseum ist in einem markanten modernen Gebäude untergebracht und zeigt internationale Gegenwartskunst."
+ ],
+ hu: [
+ "Holstebro első írásos említése 1274-ből származik, ami egy régi várra utal a folyó partján.",
+ "A város büszkélkedhet a dániai kísérleti színház és táncművészet egyik legnagyobb bázisával.",
+ "A híres 'Nő a kocsin' szobrot a város a 60-as években vásárolta, és mára az egyik legértékesebb köztéri műalkotás Dániában.",
+ "A várost övező nyugat-jütlandi régió erős mezőgazdasági és élelmiszeripari hagyományokkal bír."
+ ],
+ ro: ["Orașul este faimos pentru sculptura „Femeia pe Căruță” (Maren å æ Wogn) de Alberto Giacometti, plasată chiar în centrul pietonal.", "Holstebro a fost declarat de mai multe ori cel mai bun oraș comercial din Danemarca datorită străzilor sale pietonale inovatoare.", "Odin Teatret, o renumită companie internațională de teatru experimental fondată de Eugenio Barba, are sediul în acest oraș.", "Râul Storå, care traversează orașul, a fost istoric ruta principală pentru comerțul cu lemne și produse agricole.", "Muzeul de Artă din Holstebro deține o colecție impresionantă de opere de artă modernă daneză și grafică internațională."],
+ en: ["Holstebro purchased Giacometti's 'Woman on the Cart' in 1966, which is now a prized symbol of the city.", "The Storå river, running through the city, is Denmark's second-longest river.", "The city hosts a prominent ballet school and a widely respected music academy.", "Holstebro serves as an important garrison town, housing the Jutland Dragoon Regiment."]
+ },
+ facts: {
+ en: ["Holstebro is known for public art and cultural programming.", "The city sits near the Storå river.", "It has a strong local shopping and service role.", "The old center is compact and pedestrian-friendly.", "Holstebro is a good base for western Jutland exploration."],
+ de: ["Holstebro ist für öffentliche Kunst und Kulturprogramme bekannt.", "Die Stadt liegt in der Nähe der Storå.", "Sie hat eine starke lokale Rolle im Handel und Dienstleistungsbereich.", "Das alte Zentrum ist kompakt und fußgängerfreundlich.", "Holstebro ist ein guter Ausgangspunkt für den Westen Jütlands."],
+ hu: ["Holstebro közterületi művészetéről és kulturális programjairól ismert.", "A város közelében folyik a Storå.", "Erős helyi kereskedelmi és szolgáltatási szerepe van.", "A régi központ kompakt és gyalogosbarát.", "Holstebro jó bázis Nyugat-Jütland felfedezéséhez."],
+ ro: ["Holstebro este cunoscut pentru arta publică și programele culturale.", "Orașul se află aproape de râul Storå.", "Are un rol local puternic în comerț și servicii.", "Centrul vechi este compact și prietenos cu pietonii.", "Holstebro este o bază bună pentru explorarea vestului Iutlandei."]
+ },
+ image: "/geo-images/denmark/holstebro.webp",
+ },
 ];
 
 export const denmarkCulture: POI[] = [
-  {
-    id: "cult-legoland",
-    type: "landmark",
-    parent: "denmark",
-    coords: [9.1261, 55.7353],
-    name: { de: "Legoland Billund", hu: "Legoland Billund", ro: "Legoland Billund", en: "Legoland Billund" },
-    description: {
-      en: "Legoland Billund is the original Legoland park, opened in 1968 near the Lego factory. It is one of Denmark's most popular tourist attractions, featuring incredible models built from millions of Lego bricks, thrilling rides, and themed areas. The park celebrates creativity and imagination, attracting families from all over the world. It is a testament to the global impact of the Danish toy company and its commitment to play and learning.",
-      de: "Legoland Billund ist der ursprüngliche Legoland-Park, der 1968 in der Nähe der Lego-Fabrik eröffnet wurde. Er ist eine der beliebtesten Touristenattraktionen Dänemarks und bietet unglaubliche Modelle aus Millionen von Legosteinen, aufregende Fahrgeschäfte und Themenbereiche. Der Park feiert Kreativität und Fantasie und zieht Familien aus der ganzen Welt an. Er ist ein Zeugnis für den weltweiten Einfluss des dänischen Spielzeugunternehmens und sein Engagement für Spiel und Lernen.",
-      hu: "A Legoland Billund az eredeti Legoland park, amely 1968-ban nyílt meg a Lego gyár közelében. Dánia egyik legnépszerűbb turisztikai látványossága, amely több millió Lego kockából épült hihetetlen modelleket, izgalmas játékokat és tematikus területeket kínál. A park a kreativitást és a képzeletet ünnepli, a világ minden tájáról vonzza a családokat. Ez a dán játékgyártó cég globális hatásának, valamint a játék és a tanulás iránti elkötelezettségének bizonyítéka.",
-      ro: "Legoland Billund este parcul original Legoland, deschis în 1968 lângă fabrica Lego. Este una dintre cele mai populare atracții turistice din Danemarca, oferind modele incredibile construite din milioane de piese Lego, atracții palpitante și zone tematice. Parcul celebrează creativitatea și imaginația, atrăgând familii din întreaga lume. Este o dovadă a impactului global al companiei daneze de jucării și a angajamentului său față de joc și învățare."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Legoland Billund a világ legelső és legismertebb Legoland vidámparkja, amely 1968-ban nyitotta meg kapuit az eredeti Lego gyár közvetlen szomszédságában. A park szíve a 'Miniland', ahol a világ híres épületeit és városait építették fel több tízmillió Lego kockából, lenyűgöző részletességgel. A családok számára számtalan hullámvasút, interaktív játék és tematikus zóna nyújt felejthetetlen élményt. A park az elmúlt évtizedekben Dánia egyik legvonzóbb turisztikai célpontjává vált a nemzetközi látogatók körében. A Legoland nemcsak egy vidámpark, hanem a dán kreativitás és a játékos tanulás globális szimbóluma. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Legoland Billund este cel mai vechi parc de distracții Legoland din lume, inaugurat în anul 1968, chiar în localitatea în care a fost inventată celebra piesă de jucărie. Parcul este o adevărată capodoperă a creativității și ingineriei, aducând la viață lumi întregi folosind peste 60 de milioane de cărămizi colorate. Principala atracție, Miniland, reproduce în miniatură celebre repere mondiale și cartiere daneze cu un nivel extraordinar de detaliu. Pe lângă sculpturile din piese de construcție, parcul oferă numeroase montagne rousse, zone de aventură interactivă și spectacole live pentru familii. Legoland atrage milioane de vizitatori anual, reprezentând o parte esențială a copilăriei scandinave și un simbol al turismului danez.",
-      en: "Legoland Billund is the original and most famous Legoland theme park in the world, located in the town where the iconic toy was invented. Opening its doors in 1968, the park has grown into one of Denmark's most beloved and visited family attractions. At its heart lies Miniland, an astonishing area featuring miniature reconstructions of famous global landmarks built entirely from millions of Lego bricks. The park expands across diverse themed areas, offering thrilling rides, interactive exhibits, and creative workshops. Legoland Billund continues to evolve, captivating the imaginations of both children and nostalgic adults worldwide."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A parkot Godtfred Kirk Christiansen, a Lego alapítójának fia nyitotta meg 1968-ban.",
-        "A Miniland felépítéséhez becslések szerint több mint 20 millió Lego kockát használtak fel.",
-        "A Legoland Billund évente közel 2 millió látogatót fogad.",
-        "A park közvetlenül a billundi repülőtér mellett található, amelyet eredetileg a Lego cég építtetett."
-      ],
-      ro: ["Primul parc Legoland a fost deschis pe 7 iunie 1968 și a avut un succes instantaneu, atrăgând peste o jumătate de milion de vizitatori în primul an.", "Secțiunea Miniland este reconstruită și întreținută constant de o echipă dedicată de 'Model Builders' profesioniști.", "Satul viking, zonele piraților și regatul cavalerilor sunt printre cele mai apreciate zone tematice ale întregului complex.", "Trenulețul Legoland, construit la inaugurare, este încă funcțional și face turul complet al principalelor expoziții de bază.", "Atracția 'Ninjago The Ride' folosește tehnologie avansată cu senzori de mișcare pentru a permite vizitatorilor să controleze elementele digitale cu mâinile libere."],
-      en: ["Legoland Billund was the very first Legoland park, opening in 1968 next to the original Lego factory.", "The iconic Miniland section uses over 20 million Lego bricks to recreate famous cities and monuments.", "The park welcomes approximately 2 million visitors each year, making it Denmark's top tourist attraction outside Copenhagen.", "Many of the original Miniland models from the 1960s are still on display and meticulously maintained."]
-    },
-    facts: {
-      en: ["The park is located right next to the original Lego factory.","Miniland features famous landmarks from around the world built to scale.","More than 60 million Lego bricks were used to build the park.","Billund is also home to the Lego House, an interactive experience center."],
-      de: ["Der Park befindet sich direkt neben der ursprünglichen Lego-Fabrik.","Das Miniland zeigt berühmte Wahrzeichen aus aller Welt im Maßstab.","Für den Bau des Parks wurden mehr als 60 Millionen Legosteine verwendet.","In Billund befindet sich auch das Lego House, ein interaktives Erlebniszentrum."],
-      hu: ["A park közvetlenül az eredeti Lego gyár mellett található.","A Miniland a világ híres látnivalóit mutatja be méretarányos maketteken.","A park felépítéséhez több mint 60 millió Lego kockát használtak fel.","Billundban található a Lego House is, egy interaktív élményközpont."],
-      ro: ["Parcul este situat chiar lângă fabrica originală Lego.","Miniland prezintă repere faimoase din întreaga lume construite la scară.","Peste 60 de milioane de piese Lego au fost folosite pentru a construi parcul.","Billund găzduiește, de asemenea, Lego House, un centru de experiență interactiv."]
-    },
-    image: "/geo-images/denmark/legoland.webp",
-  }
-  ,
-  {
-    id: "cult-tivoli",
-    type: "landmark",
-    parent: "denmark",
-    coords: [12.5683, 55.6739],
-    name: { de: "Tivoli-Gärten", hu: "Tivoli Kertek", ro: "Grădinile Tivoli", en: "Tivoli Gardens" },
-    description: {
-      en: "Tivoli Gardens is the famous Copenhagen amusement park that opened in 1843 and became one of the world's earliest theme parks. Its blend of rides, gardens, performances, and seasonal lights made it a model for later entertainment parks, including ones that inspired Walt Disney. Today it remains a defining cultural landmark of the Danish capital.",
-      de: "Die Tivoli-Gärten sind der berühmte Vergnügungspark in Kopenhagen, der 1843 eröffnet wurde und zu den frühesten Themenparks der Welt gehört. Seine Mischung aus Fahrgeschäften, Gärten, Aufführungen und saisonaler Beleuchtung wurde zu einem Vorbild für spätere Freizeitparks, darunter auch solche, die Walt Disney inspirierten. Heute ist er weiterhin ein prägendes Kulturdenkmal der dänischen Hauptstadt.",
-      hu: "A Tivoli Kertek a híres koppenhágai vidámpark, amely 1843-ban nyílt meg, és a világ egyik legkorábbi tematikus parkja lett. A játékok, kertek, előadások és szezonális fények keveréke mintát adott a későbbi szórakoztató parkoknak, köztük azoknak is, amelyek Walt Disneyt inspirálták. Ma is a dán főváros meghatározó kulturális nevezetessége.",
-      ro: "Grădinile Tivoli sunt celebrul parc de distracții din Copenhaga, deschis în 1843 și devenit unul dintre cele mai timpurii parcuri tematice din lume. Amestecul său de atracții, grădini, spectacole și lumini sezoniere a devenit un model pentru parcurile de divertisment ulterioare, inclusiv pentru cele care l-au inspirat pe Walt Disney. Astăzi rămâne un reper cultural definitoriu al capitalei daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A koppenhágai Tivoli a világ második legrégebbi máig működő vidámparkja, amely 1843 óta nyűgözi le a látogatókat a dán főváros szívében. A park nem csupán a gyors hullámvasutakról híres, hanem lenyűgöző egzotikus kertjeiről, történelmi pavilonjairól és esténkénti ezer színben pompázó kivilágításáról. A Tivoli egyedülálló hangulata írókat és művészeket ihletett meg, köztük Hans Christian Andersent és Walt Disneyt is. Kínálatában a nosztalgikus fa hullámvasúttól kezdve a modern adrenalinbombákig minden megtalálható. A park szabadtéri koncertjeivel és karácsonyi vásárával a dán kulturális élet egyik központi pillére. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Grădinile Tivoli, situate chiar în inima orașului Copenhaga, sunt o comoară istorică națională și unul dintre cele mai faimoase parcuri de distracții la nivel mondial. Inaugurat în 1843, Tivoli a reușit să își păstreze eleganța nostalgică din secolul al XIX-lea, încorporând în același timp atracții moderne de senzație. Peisajul este un amestec încântător de vegetație luxuriantă, arhitectură exotică, pavilioane iluminate feeric și muzică live la fiecare colț. Este mai mult decât un parc cu montagne rousse; este un epicentru cultural care găzduiește concerte de muzică clasică, spectacole de balet și pantomimă. O vizită seara la Tivoli, sub mii de lumini colorate, este o experiență cu adevărat magică și definitorie pentru orice călătorie în Danemarca.",
-      en: "Tivoli Gardens, located in the heart of Copenhagen, is one of the world's oldest and most enchanting amusement parks. Opened in 1843, it perfectly blends thrilling rides, beautifully landscaped gardens, and a magical atmosphere that changes with the seasons. The park is famous for its historic wooden roller coaster, as well as its dazzling light displays, pantomime theater, and open-air concerts. Tivoli's unique aesthetic was highly influential, notably inspiring Walt Disney when he created Disneyland. Whether visiting during the lively summer, the spooky Halloween season, or the cozy Christmas market, Tivoli offers an unforgettable experience."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Tivolit Georg Carstensen alapította, miután meggyőzte VIII. Keresztély királyt, hogy 'amíg az emberek szórakoznak, nem gondolnak a politikára'.",
-        "A park 1914-ben épült fából készült hullámvasútja (Rutschebanen) a mai napig működik, és manuálisan fékezik.",
-        "Walt Disney a Tivoli látogatása után kapott inspirációt a kaliforniai Disneyland megépítéséhez.",
-        "A park évente több mint 4 millió látogatót fogad, ezzel Skandinávia leglátogatottabb tematikus parkja."
-      ],
-      ro: ["Grădinile Tivoli reprezintă al doilea cel mai vechi parc de distracții funcțional din lume, după Dyrehavsbakken, tot din Danemarca.", "Montagne rousse-ul său de lemn (Rutschebanen), construit în 1914, este unul dintre puținele din lume care mai folosește un controlor manual de frânare la bord.", "Walt Disney a vizitat Grădinile Tivoli de mai multe ori pentru a se inspira înainte de a crea primul său parc Disneyland în California.", "Parcul se transformă spectaculos de două ori pe an pentru a reflecta sezonul de Halloween și, respectiv, pe cel de Crăciun.", "Restaurantul Nimb din incinta parcului a fost construit inițial ca un 'bazar maur', ieșind în evidență prin arhitectura sa inspirată de Taj Mahal."],
-      en: ["Tivoli Gardens is the second-oldest operating amusement park in the world.", "The park's famous wooden roller coaster, Rutschebanen, was built in 1914 and still requires an onboard brakeman.", "Walt Disney visited Tivoli several times in the early 1950s for inspiration before opening Disneyland.", "During the Christmas season, the park is illuminated by over one million twinkling lights."]
-    },
-    facts: {
-      en: ["Opened in 1843, Tivoli is one of the world's oldest amusement parks.", "Walt Disney reportedly drew inspiration from Tivoli.", "The park mixes rides with gardens and live performances.", "It is especially famous for its night lighting and seasonal events."],
-      de: ["Die Tivoli-Gärten wurden 1843 eröffnet und gehören zu den ältesten Vergnügungsparks der Welt.", "Walt Disney ließ sich Berichten zufolge von Tivoli inspirieren.", "Der Park verbindet Fahrgeschäfte mit Gärten und Live-Aufführungen.", "Besonders berühmt ist er für seine Nachtbeleuchtung und saisonalen Veranstaltungen."],
-      hu: ["A Tivoli 1843-ban nyílt meg, és a világ egyik legrégebbi vidámparkja.", "A hírek szerint Walt Disneyt is inspirálta a Tivoli.", "A park a játékokat kertekkel és élő előadásokkal ötvözi.", "Különösen híres az esti fényekről és a szezonális eseményekről."],
-      ro: ["Deschis în 1843, Tivoli este unul dintre cele mai vechi parcuri de distracții din lume.", "Se spune că Walt Disney s-a inspirat din Tivoli.", "Parcul combină atracțiile cu grădini și spectacole live.", "Este faimos mai ales pentru luminile de noapte și evenimentele sezoniere."]
-    },
-    image: "/geo-images/denmark/tivoli.webp",
-  },
-  {
-    id: "cult-nyhavn",
-    type: "landmark",
-    parent: "denmark",
-    coords: [12.5916, 55.6795],
-    name: { de: "Nyhavn", hu: "Nyhavn", ro: "Nyhavn", en: "Nyhavn" },
-    description: {
-      en: "Nyhavn is Copenhagen's iconic 17th-century harbor district, instantly recognizable for its colorful townhouses and historic ships. Once a working commercial port, it has become a lively place for cafes, restaurants, and summer strolling. The canal area captures the city's maritime past and its easygoing present at the same time.",
-      de: "Nyhavn ist das ikonische Hafenviertel Kopenhagens aus dem 17. Jahrhundert, sofort erkennbar an seinen bunten Stadthäusern und historischen Schiffen. Einst ein Arbeitshafen für den Handel, ist es heute ein lebhafter Ort für Cafés, Restaurants und sommerliche Spaziergänge. Das Kanalviertel fängt zugleich die maritime Vergangenheit der Stadt und ihre entspannte Gegenwart ein.",
-      hu: "A Nyhavn Koppenhága ikonikus, 17. századi kikötőnegyede, amelyet színes házai és történelmi hajói miatt azonnal fel lehet ismerni. Egykor kereskedelmi munkakikötő volt, ma pedig kávézók, éttermek és nyári séták népszerű helyszíne. A csatorna menti terület egyszerre idézi fel a város tengeri múltját és könnyed jelenét.",
-      ro: "Nyhavn este cartierul portuar iconic din Copenhaga, din secolul al XVII-lea, ușor de recunoscut datorită caselor sale colorate și navelor istorice. Cândva un port comercial activ, a devenit un loc animat pentru cafenele, restaurante și plimbări de vară. Zona canalului surprinde în același timp trecutul maritim al orașului și prezentul său relaxat."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Nyhavn (Új Kikötő) Koppenhága legfotózottabb és legikonikusabb negyede, egy 17. századi tengerészeti csatorna mentén fekszik. A csatornát élénk színűre festett, 17-18. századi kereskedőházak szegélyezik, amelyek egykor matrózok és tengerészek zajos törzshelyei voltak. Ma a Nyhavn elegáns kávézóknak, jazz kluboknak és kiváló éttermeknek ad otthont, egy igazi hygge atmoszférájú turistacélpont. A kikötőben horgonyzó régi favitorlások hűen őrzik a dán tengerhajózás dicső múltját. Ez a negyed a koppenhágai élet lüktető szíve, különösen a hosszú nyári estéken. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Nyhavn (Portul Nou) este, fără îndoială, cea mai fotografiată și recunoscută atracție turistică din Copenhaga, capturând spiritul vibrant al orașului danez. Această zonă a fost construită inițial în secolul al XVII-lea sub comanda Regelui Christian al V-lea ca un port comercial extrem de activ. Astăzi, casele sale vechi din secolele XVII și XVIII, vopsite în culori aprinse și impecabil restaurate, străjuiesc un canal plin de nave istorice din lemn. Zona s-a transformat dintr-un cartier portuar zgomotos, plin de marinari și taverne rău famate, într-o promenadă luxoasă, presărată cu cafenele, restaurante și terase cu muzică jazz live. Deși foarte turistic, Nyhavn rămâne inima incontestabilă a Copenhagăi pe timp de vară.",
-      en: "Nyhavn, meaning 'New Harbour', is an iconic 17th-century waterfront and canal district in Copenhagen. Famous for its brightly colored historical townhouses, wooden ships, and bustling atmosphere, it is one of the most recognizable sights in Denmark. Originally a busy commercial port where ships from all over the world docked, it was notorious for its sailors, alehouses, and vibrant nightlife. Today, Nyhavn is a picturesque promenade lined with popular cafes, restaurants, and jazz bars. It is also well-known as the former residence of the famous Danish author Hans Christian Andersen, who wrote several of his fairy tales here."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Nyhavn csatornáját 1670-1675 között építették svéd hadifoglyok munkájával.",
-        "Hans Christian Andersen éveken át élt a Nyhavn különböző házaiban, többek között a 18-as és 20-as szám alatt.",
-        "A csatorna legrégebbi fennmaradt háza, a 9-es számú ház 1681-ben épült.",
-        "Ma a Nyhavn a koppenhágai csatornahajózási túrák legfőbb kiindulópontja."
-      ],
-      ro: ["Faimosul autor de basme Hans Christian Andersen a locuit la diferite momente în trei case diferite de pe canalul Nyhavn (la numerele 18, 20 și 67).", "Cea mai veche casă de pe Nyhavn, situată la numărul 9, datează din anul 1681 și a rămas aproape neatinsă arhitectural de atunci.", "Canalul a fost săpat manual de către prizonierii de război suedezi în timpul Războiului Scanian, finalizându-se în jurul anului 1673.", "Partea nordică a canalului este denumită cu umor 'Partea însorită' și este de departe cea mai aglomerată datorită zecilor de terase în aer liber.", "Ancora Memorială (Mindeankeret) situată la capătul canalului este dedicată memoriei ofițerilor și marinarilor danezi căzuți în Al Doilea Război Mondial."],
-      en: ["Nyhavn was constructed by King Christian V in the late 1600s using Swedish prisoners of war.", "The oldest house in the harbor, No. 9, dates back to 1681 and remains beautifully preserved.", "Fairy tale author Hans Christian Andersen lived at numbers 18, 20, and 67 throughout his life.", "The Veteran Ship and Museum Harbour in Nyhavn features a collection of historically significant wooden vessels."]
-    },
-    facts: {
-      en: ["Nyhavn means 'new harbor'.", "The harbor was dug in the 1600s.", "Hans Christian Andersen lived here for a time.", "It is one of Copenhagen's most photographed places."],
-      de: ["Nyhavn bedeutet 'neuer Hafen'.", "Der Hafen wurde im 17. Jahrhundert ausgehoben.", "Hans Christian Andersen lebte zeitweise hier.", "Es ist einer der meistfotografierten Orte Kopenhagens."],
-      hu: ["A Nyhavn neve 'új kikötőt' jelent.", "A kikötőt a 17. században alakították ki.", "Hans Christian Andersen egy ideig itt élt.", "Koppenhága egyik legtöbbet fényképezett helye."],
-      ro: ["Nyhavn înseamnă 'port nou'.", "Portul a fost săpat în anii 1600.", "Hans Christian Andersen a locuit aici o perioadă.", "Este unul dintre cele mai fotografiate locuri din Copenhaga."]
-    },
-    image: "/geo-images/denmark/nyhavn.webp",
-  },
-  {
-    id: "cult-little-mermaid",
-    type: "landmark",
-    parent: "denmark",
-    coords: [12.5993, 55.6929],
-    name: { de: "Kleine Meerjungfrau", hu: "Kis Hableány szobor", ro: "Mica Sirenă", en: "Little Mermaid Statue" },
-    description: {
-      en: "The Little Mermaid statue is one of Copenhagen's most famous symbols and is inspired by Hans Christian Andersen's fairytale. Sculpted by Edvard Eriksen and unveiled in 1913, it has become a modest but enduring landmark on the city's waterfront. Its small size contrasts with its huge international fame.",
-      de: "Die Statue der Kleinen Meerjungfrau ist eines der berühmtesten Symbole Kopenhagens und basiert auf dem Märchen von Hans Christian Andersen. Sie wurde von Edvard Eriksen geschaffen und 1913 enthüllt und ist zu einem bescheidenen, aber dauerhaften Wahrzeichen an der Uferpromenade der Stadt geworden. Ihre kleine Größe steht im Kontrast zu ihrer großen internationalen Bekanntheit.",
-      hu: "A Kis Hableány szobor Koppenhága egyik leghíresebb szimbóluma, amely Hans Christian Andersen meséje nyomán készült. Edvard Eriksen alkotása 1913-ban került felavatásra, és azóta szerény, de maradandó jelképe a város vízpartjának. Apró mérete éles ellentétben áll hatalmas nemzetközi ismertségével.",
-      ro: "Statuia Mica Sirenă este unul dintre cele mai cunoscute simboluri ale Copenhagăi și este inspirată de basmul lui Hans Christian Andersen. Sculptată de Edvard Eriksen și dezvăluită în 1913, a devenit un reper modest, dar durabil, pe malul apei orașului. Dimensiunea ei mică contrastează cu faima internațională uriașă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A koppenhágai Kis hableány (Den Lille Havfrue) szobra a dán főváros legismertebb szimbóluma, amely a Langelinie sétány egyik kövén pihenve kémleli a tengert. A bronzszobrot Edvard Eriksen dán szobrász alkotta meg 1913-ban, Hans Christian Andersen világhírű meséje nyomán. A szobrot Carl Jacobsen, a Carlsberg sörgyár alapítójának fia rendelte meg, miután lenyűgözte őt a meséből készült balettelőadás. Bár a szobor mindössze 1,25 méter magas, a dán tengeri örökség és a mesevilág tökéletes megtestesülése. Az évtizedek során számos vandalizmus áldozata lett, de a dánok mindig helyreállították ikonikus kincsüket. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Mica Sirenă (Den lille Havfrue) este o sculptură din bronz mică, dar de importanță mondială, situată pe o stâncă de pe faleza Langelinie din Copenhaga. Dezvelită în 1913, statuia a fost inspirată de personajul melancolic al basmului scris de faimosul autor danez Hans Christian Andersen. Deși dimensiunile sale relativ modeste îi surprind adesea pe vizitatori, statuia este un simbol inconfundabil al capitalei daneze și un punct de pelerinaj obligatoriu. Sculptura este un dar pentru oraș oferit de fondatorul fabricii de bere Carlsberg, Carl Jacobsen, fiind realizată cu grație de sculptorul Edvard Eriksen. De-a lungul deceniilor, Mica Sirenă a devenit nu doar o atracție turistică, ci și un simbol cultural rezilient al Danemarcei însăși.",
-      en: "The Little Mermaid is a timeless bronze statue sitting gracefully on a rock by the waterside at the Langelinie promenade in Copenhagen. Unveiled in 1913, the sculpture was inspired by Hans Christian Andersen's tragic and beautiful fairy tale of the same name. It was commissioned by Carl Jacobsen, the founder of Carlsberg, who was fascinated by a ballet performance of the story. Despite its relatively small size, the statue has become a quintessential symbol of Copenhagen and an international icon. Over the years, the mermaid has survived numerous acts of vandalism, standing as a resilient emblem of Danish cultural heritage."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A szobor arcát Ellen Price balerináról, míg a testét a szobrász feleségéről, Eline Eriksenről mintázták.",
-        "A Kis hableányt 1913. augusztus 23-án avatták fel hivatalosan.",
-        "A szobrot története során többször is megrongálták: kétszer a fejét, egyszer a karját lopták el.",
-        "2010-ben a szobor története során először hagyta el Dániát, hogy a sanghaji Világkiállításon képviselje az országot."
-      ],
-      ro: ["Statuia are o înălțime de doar 1,25 metri și cântărește aproximativ 175 de kilograme, fiind adesea descrisă ca o frumusețe miniaturală.", "Capul sirenei a fost modelat după prim-balerina Ellen Price, în timp ce trupul a fost modelat după soția sculptorului, Eline Eriksen.", "De-a lungul istoriei sale zbuciumate, statuia a fost decapitată de două ori, i-a fost tăiat un braț și a fost acoperită cu vopsea de nenumărate ori.", "Mica Sirenă originală a părăsit Copenhaga o singură dată, în anul 2010, pentru a fi expusă în Pavilionul Danez la Expoziția Mondială din Shanghai.", "Pentru a o proteja de vandali și aglomerație, statuia a fost mutată mai departe în apele golfului față de poziția sa inițială din apropierea țărmului."],
-      en: ["The statue was sculpted by Danish artist Edvard Eriksen and stands just 1.25 meters tall.", "The mermaid's head was modeled after ballerina Ellen Price, while the sculptor's wife posed for the body.", "It is one of the most photographed statues in the world, drawing millions of visitors annually.", "The statue has been decapitated twice and had its arm amputated once by vandals, but has always been restored."]
-    },
-    facts: {
-      en: ["The statue was unveiled in 1913.", "It was inspired by Andersen's fairy tale.", "Edvard Eriksen created the sculpture.", "The statue sits on a rock by the harbor."],
-      de: ["Die Statue wurde 1913 enthüllt.", "Sie ist von Andersens Märchen inspiriert.", "Edvard Eriksen schuf die Skulptur.", "Die Statue sitzt auf einem Felsen am Hafen."],
-      hu: ["A szobrot 1913-ban avatták fel.", "Andersen meséje ihlette.", "Edvard Eriksen készítette a szobrot.", "A szobor a kikötőben egy sziklán áll."],
-      ro: ["Statuia a fost dezvăluită în 1913.", "Este inspirată de basmul lui Andersen.", "Edvard Eriksen a creat sculptura.", "Statuia stă pe o stâncă lângă port."]
-    },
-    image: "/geo-images/denmark/little-mermaid.webp",
-  },
-  {
-    id: "cult-kronborg",
-    type: "landmark",
-    parent: "denmark",
-    coords: [12.6217, 56.039],
-    name: { de: "Schloss Kronborg", hu: "Kronborg vár", ro: "Castelul Kronborg", en: "Kronborg Castle" },
-    description: {
-      en: "Kronborg Castle rises above the Øresund near Helsingor and is one of Denmark's most important historic fortresses. It is globally known as the setting of Shakespeare's Hamlet and is recognized by UNESCO for its cultural value. The castle's bastions, halls, and sea views make it a powerful symbol of Danish history.",
-      de: "Schloss Kronborg erhebt sich über den Øresund bei Helsingør und gehört zu Dänemarks wichtigsten historischen Festungen. Es ist weltweit als Schauplatz von Shakespeares Hamlet bekannt und wird von der UNESCO für seinen kulturellen Wert anerkannt. Seine Bastionen, Säle und der Blick aufs Meer machen es zu einem starken Symbol dänischer Geschichte.",
-      hu: "A Kronborg vár Helsingør közelében magasodik az Øresund fölé, és Dánia egyik legfontosabb történelmi erődje. Világszerte Shakespeare Hamletjének helyszíneként ismert, és az UNESCO is elismeri kulturális értékét. Bástyái, termei és tengeri kilátása a dán történelem erőteljes jelképévé teszik.",
-      ro: "Castelul Kronborg se ridică deasupra strâmtorii Øresund, lângă Helsingør, și este una dintre cele mai importante fortărețe istorice ale Danemarcei. Este cunoscut în întreaga lume ca decorul piesei Hamlet de Shakespeare și este recunoscut de UNESCO pentru valoarea sa culturală. Bastioanele, sălile și priveliștea către mare îl transformă într-un simbol puternic al istoriei daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Kronborg-kastély Helsingør partjainál magasodik, Dánia egyik legfontosabb reneszánsz épülete és az UNESCO Világörökség része. A kastély stratégiai helyen, az Øresund-szoros legszűkebb pontján épült, és évszázadokon át a tengeri kereskedelem feletti hatalmat szimbolizálta a híres Øresund-vám révén. Világhírét azonban William Shakespeare drámájának, a 'Hamletnek' köszönheti, amely a műben Elsinore néven szerepel. A pazar báltermek és a nyomasztó kazamaták bejárása során megelevenedik a dán királyi történelem. A kazamaták mélyén alszik a dánok mitikus hőse, Holger Danske, aki a legenda szerint felébred, ha az országot veszély fenyegeti. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Castelul Kronborg, o capodoperă renascentistă magnifică din orașul Elsinore (Helsingør), stă mândru la intrarea în strâmtoarea Øresund. Construit pentru a domina traficul maritim și a colecta taxe vamale valoroase, acest castel a jucat un rol crucial în afirmarea puterii Regatului Danemarcei în Europa de Nord. Arhitectura sa se caracterizează prin spire verzi elegante de cupru, pereți din gresie masivă și interioare luxoase, care au supraviețuit parțial incendiilor și asediilor suedeze din secolul al XVII-lea. Renumele internațional al Kronborg-ului derivă din asocierea sa legendară cu capodopera lui William Shakespeare, 'Hamlet', care l-a plasat ca decor principal. Fiecare colț al castelului respiră istorie regală, drame teatrale și mistere vechi.",
-      en: "Kronborg Castle is a majestic Renaissance stronghold situated on a strategic promontory in Helsingør, overlooking the narrowest point of the Øresund strait. The castle's imposing copper-roofed towers and formidable fortifications have guarded the entrance to the Baltic Sea since the 16th century. Kronborg is globally celebrated as 'Elsinore', the immortalized setting of William Shakespeare's masterpiece, Hamlet. Inside, visitors can explore opulent royal apartments, the magnificent ballroom, and the dark, mythic casemates below, home to the sleeping hero Holger Danske. Recognized as a UNESCO World Heritage site, Kronborg represents a powerful symbol of Denmark's historical naval dominance."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A kastélyt II. Frigyes dán király építtette át monumentális reneszánsz palotává a 16. század végén.",
-        "Shakespeare valószínűleg soha nem járt a kastélyban, hanem tengerészek és vándorszínészek leírásaira támaszkodott.",
-        "A kastély 1629-ben szinte teljesen leégett, de IV. Keresztély király újjáépíttette.",
-        "Minden nyáron nagyszabású Shakespeare Fesztivált rendeznek a kastély udvarán."
-      ],
-      ro: ["În fiecare vară, castelul prinde viață prin 'Shakespeare Festival', unde companii teatrale renumite din întreaga lume pun în scenă piesele lui Shakespeare.", "În catacombele întunecate ale castelului se odihnește statuia eroului adormit Holger Danske, care, conform legendei, se va trezi doar când Danemarca se va afla în mare primejdii.", "Kronborg a fost adăugat oficial pe Lista Patrimoniului Mondial UNESCO în anul 2000, fiind recunoscut pentru arhitectura și istoria sa simbolică.", "Castelul a fost reconstruit într-un stil și mai grandios de către Regele Christian al IV-lea, după un incendiu masiv din anul 1629.", "Din turnurile Kronborg-ului, distanța până la coasta Suediei este de doar 4 kilometri, permițând vizitatorilor să vadă clar orașul suedez vecin Helsingborg."],
-      en: ["Kronborg was designated as a UNESCO World Heritage site in 2000.", "The castle's strategic position allowed Danish kings to ruthlessly enforce the lucrative Sound Dues on passing ships.", "A legend says that the mythical hero Holger Danske sleeps in the castle's dungeons and will awaken to save Denmark in its hour of greatest need.", "The castle hosts an annual Shakespeare festival where renowned theater companies perform Hamlet."]
-    },
-    facts: {
-      en: ["Kronborg is a UNESCO World Heritage site.", "It is famously associated with Hamlet.", "The castle controlled the Øresund tolls for centuries.", "Its location gave Denmark major strategic power."],
-      de: ["Kronborg ist UNESCO-Weltkulturerbe.", "Es ist berühmt mit Hamlet verbunden.", "Das Schloss kontrollierte jahrhundertelang die Øresund-Zölle.", "Seine Lage verschaffte Dänemark große strategische Macht."],
-      hu: ["A Kronborg UNESCO világörökségi helyszín.", "A kastély híresen Hamlethez kapcsolódik.", "A vár évszázadokon át ellenőrizte az Øresund vámjait.", "Fekvése jelentős stratégiai erőt adott Dániának."],
-      ro: ["Kronborg este sit UNESCO al Patrimoniului Mondial.", "Castelul este asociat în mod celebru cu Hamlet.", "Timp de secole a controlat taxele din Øresund.", "Poziția sa i-a oferit Danemarcei o putere strategică majoră."]
-    },
-    image: "/geo-images/denmark/kronborg.webp",
-  },
-  {
-    id: "land-round-tower",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.5747, 55.6818],
-    name: { de: "Rundetårn", hu: "Rundetårn", ro: "Turnul Rotund", en: "Round Tower" },
-    description: {
-      en: "The Round Tower is one of Copenhagen's most recognizable landmarks and a strong SEO keyword for city views and historic architecture. Built in the 17th century as an astronomical observatory, it combines practical science history with a graceful spiral ramp and panoramic views. Its location in the old center makes it easy to pair with shopping streets, churches, and classic Copenhagen sightseeing. The Round Tower remains a compact but memorable symbol of the Danish capital.",
-      de: "Der Rundetårn ist eines der bekanntesten Wahrzeichen Kopenhagens und ein starkes SEO-Thema für Stadtblicke und historische Architektur. Im 17. Jahrhundert als astronomisches Observatorium erbaut, verbindet er praktische Wissenschaftsgeschichte mit einer eleganten Spirale und Panoramaausblicken. Seine Lage im alten Zentrum macht ihn leicht kombinierbar mit Einkaufsstraßen, Kirchen und klassischem Kopenhagen-Sightseeing. Der Rundetårn bleibt ein kompaktes, aber unvergessliches Symbol der dänischen Hauptstadt.",
-      hu: "A Rundetårn Koppenhága egyik legismertebb jelképéhez tartozik, és erős SEO-kulcsszó a városi kilátás és a történelmi építészet témájában. A 17. században csillagászati obszervatóriumnak épült, és a gyakorlati tudománytörténetet elegáns spirálrámpával és panorámával ötvözi. Az óvárosi elhelyezkedése miatt könnyen összeköthető bevásárlóutcákkal, templomokkal és klasszikus koppenhágai városnézéssel. A Rundetårn kicsi, mégis emlékezetes szimbóluma a dán fővárosnak.",
-      ro: "Turnul Rotund este unul dintre cele mai recognoscibile repere ale Copenhagăi și un cuvânt-cheie SEO puternic pentru priveliști urbane și arhitectură istorică. Construit în secolul al XVII-lea ca observator astronomic, el combină istoria științei cu o rampă spiralată elegantă și priveliști panoramice. Amplasarea sa în centrul vechi îl face ușor de combinat cu străzi comerciale, biserici și obiective clasice din Copenhaga. Turnul Rotund rămâne un simbol compact, dar memorabil, al capitalei daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Rundetårn (Kerek torony) Koppenhága belvárosának egyik legjellegzetesebb 17. századi épülete, amelyet csillagvizsgálóként emeltek. A torony különlegessége a lépcsők hiánya; ehelyett egy széles, spirális rámpa vezet a mintegy 35 méter magasan lévő kilátóba, ahonnan páratlan körpanoráma nyílik a városra. IV. Keresztély dán király azért rendelte el a felépítését, hogy a híres csillagász, Tycho Brahe munkássága folytatódhasson a fővárosban. A torony egykor a Koppenhágai Egyetem csillagászati központja, egyetemi templom és könyvtár is volt egyben. Ma népszerű turisztikai látványosság és Európa legrégebbi működő csillagvizsgálója. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Turnul Rotund (Rundetårn) din inima Copenhagăi este o minune arhitecturală a secolului al XVII-lea, remarcându-se prin platforma sa observatorie care domină orizontul orașului vechi. Construit de regele pasionat de știință Christian al IV-lea, a fost conceput ca un observator astronomic universitar, o biserică și o bibliotecă pentru studenți, toate reunite într-o singură structură monumentală. În loc de scări tradiționale abrupte, vizitatorii urcă o rampă spiralată impresionantă, placată cu cărămidă, care înconjoară nucleul gol al turnului până în vârf. Designul a permis urcarea echipamentelor grele și a instrumentelor cu ajutorul cailor și al căruțelor direct până la punctul de observație. Turnul Rotund este un simbol al Iluminismului danez și o structură iconică în cultura europeană.",
-      en: "The Round Tower, or Rundetårn, is a striking 17th-century architectural marvel in central Copenhagen, built as an astronomical observatory. Commissioned by King Christian IV, the tower is most famous for its unique equestrian staircase—a wide, spiral ramp that leads to the top without a single step. This design allowed horses and carts to transport heavy astronomical equipment directly to the observation deck. Today, the tower offers visitors panoramic views over the old city's red-tiled roofs and spires. It remains the oldest functioning observatory in Europe, seamlessly blending historical science with exceptional architectural design."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A torony spirális rámpája több mint 200 méter hosszú, és hét és félszer kanyarodik a tengely körül.",
-        "A legenda szerint Nagy Péter orosz cár 1716-os látogatásakor lóháton vágtatott fel a toronyba, míg felesége hintóban követte.",
-        "A torony homlokzatán egy aranyozott rebusz (képrejtvény) látható, amelyet maga IV. Keresztély király tervezett.",
-        "A Rundetårn a mai napig használatos amatőr csillagászati megfigyelésekre, különösen a téli hónapokban."
-      ],
-      ro: ["Turnul Rotund este cel mai vechi observator astronomic funcțional din Europa și continuă să fie folosit și astăzi de către astronomii amatori.", "Rampa ecvestră lungă de 209 metri face șapte rotații și jumătate în jurul miezului central înainte de a ajunge la nivelul superior.", "În anul 1716, Țarul Petru cel Mare al Rusiei ar fi urcat rampa călare, în timp ce soția sa, Ecaterina, l-a urmat într-o trăsură trasă de cai.", "Complexul Trinitatis, din care face parte turnul, a adăpostit Biblioteca Universitară, complet distrusă de focul mare al orașului din 1728.", "Fațada exterioară a turnului are o grilă aurită unică, concepută chiar de regele Christian al IV-lea, cu mesaje și referințe divine în latină și ebraică."],
-      en: ["The tower's spiral ramp twists 7.5 times around the hollow core before reaching the top.", "Russian Tsar Peter the Great famously rode his horse up the tower's ramp in 1716.", "The Round Tower forms part of the Trinitatis Complex, which also includes a church and a university library.", "An inscription on the tower's facade features a golden rebus designed by King Christian IV himself."]
-    },
-    facts: {
-      en: ["The tower was built in the 1600s.", "It originally served as an astronomical observatory.", "Its spiral ramp is one of its most famous features.", "The tower offers panoramic city views.", "It is one of Copenhagen's classic landmarks."],
-      de: ["Der Turm wurde im 17. Jahrhundert erbaut.", "Er diente ursprünglich als astronomisches Observatorium.", "Seine Spirale ist eines seiner bekanntesten Merkmale.", "Der Turm bietet Panoramablicke über die Stadt.", "Er gehört zu den klassischen Wahrzeichen Kopenhagens."],
-      hu: ["A torony a 17. században épült.", "Eredetileg csillagászati obszervatóriumként szolgált.", "Spirális rámpája az egyik leghíresebb eleme.", "A torony panorámás városi kilátást kínál.", "Koppenhága klasszikus jelképei közé tartozik."],
-      ro: ["Turnul a fost construit în anii 1600.", "Inițial a servit ca observator astronomic.", "Rampa spiralată este una dintre cele mai faimoase caracteristici.", "Turnul oferă priveliști panoramice asupra orașului.", "Este unul dintre reperele clasice ale Copenhagăi."]
-    },
-    image: "/geo-images/denmark/round-tower.webp",
-  },
-  {
-    id: "land-copenhagen-opera-house",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.6032, 55.6829],
-    name: { de: "Kopenhagener Opernhaus", hu: "Koppenhágai Operaház", ro: "Opera din Copenhaga", en: "Copenhagen Opera House" },
-    description: {
-      en: "The Copenhagen Opera House is a modern landmark on the harbor and an important SEO keyword for architecture and waterfront sightseeing in Denmark. Its bold design and prominent position across from Amalienborg make it one of the most photographed contemporary buildings in the city. Visitors often combine it with harbor walks, ferry views, and the nearby royal district. The opera house represents the modern side of Danish design while still sitting within a historic skyline.",
-      de: "Das Kopenhagener Opernhaus ist ein modernes Wahrzeichen am Hafen und ein wichtiges SEO-Thema für Architektur und Ufer-Sightseeing in Dänemark. Sein kühnes Design und die prominente Lage gegenüber von Amalienborg machen es zu einem der meistfotografierten zeitgenössischen Gebäude der Stadt. Besucher kombinieren es oft mit Spaziergängen am Hafen, Fährblicken und dem nahe gelegenen königlichen Viertel. Das Opernhaus steht für die moderne Seite des dänischen Designs und fügt sich dennoch in eine historische Skyline ein.",
-      hu: "A Koppenhágai Operaház modern jelkép a kikötőnél, és fontos SEO-kulcsszó a dániai építészethez és vízparti városnézéshez. Merész formája és az Amalienborggal szembeni kiemelt helyzete miatt a város egyik legtöbbet fotózott kortárs épülete. A látogatók gyakran kötik össze kikötői sétákkal, kompkilátással és a közeli királyi negyeddel. Az operaház a dán dizájn modern oldalát képviseli, miközben mégis a történelmi városkép része marad.",
-      ro: "Opera din Copenhaga este un reper modern al portului și un cuvânt-cheie SEO important pentru arhitectură și vizitarea falezei în Danemarca. Designul său îndrăzneț și poziția proeminentă vizavi de Amalienborg îl fac una dintre cele mai fotografiate clădiri contemporane ale orașului. Vizitatorii îl combină adesea cu plimbări pe malul apei, priveliști către feriboturi și cartierul regal din apropiere. Opera reprezintă latura modernă a designului danez, rămânând totuși în cadrul unui skyline istoric."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Koppenhágai Operaház (Operaen) a modern dán építészet egyik legkiemelkedőbb alkotása, amely a kikötő partján, az Amalienborg palotával egy tengelyen helyezkedik el. A Henning Larsen építész által tervezett neofuturista épületet 2005-ben adták át, és a világ egyik legdrágább és legmodernebb operaházának számít. A hatalmas, lebegő tető és a hatalmas üvegfalak szoros kapcsolatot teremtenek az épület belső tere és a tengeri panoráma között. A fő előadóterem lenyűgöző akusztikával és klasszikus patkó alakú elrendezéssel várja a látogatókat. Az Operaház nemcsak a művészetek szentélye, hanem a dán főváros 21. századi arculatának meghatározó eleme is. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Opera din Copenhaga (Operaen) este o structură de avangardă extraordinară, situată pe malul apei din portul orașului, fiind considerată una dintre cele mai moderne opere din lume. Proiectată de renumitul arhitect danez Henning Larsen, clădirea masivă se distinge prin fațada spectaculoasă din sticlă, liniile sale geometrice curate și acoperișul uriaș în consolă care pare să plutească deasupra intrării. Interiorul este la fel de impresionant ca și exteriorul, cu o aulă magnifică din lemn de arțar cald, acustică perfectă și foiță de aur integrată în tavanul auditoriului principal. Cu dotările sale tehnice complexe și scena capabilă să facă schimbări de decor incredibil de rapide, Opera a devenit un bastion al artelor spectacolului la nivel global. A fost finanțată și donată statului danez de către Mærsk Mc-Kinney Møller, unul dintre cei mai bogați magnați din Danemarca.",
-      en: "The Copenhagen Opera House is a breathtaking masterpiece of modern architecture, situated prominently on the island of Holmen in central Copenhagen. Designed by the renowned Danish architect Henning Larsen, it is recognized as one of the most expensive and technically advanced opera houses ever built. The structure features a massive, gravity-defying cantilevered roof and a stunning glass facade that beautifully illuminates the harbor at night. The interior boasts world-class acoustics, opulent materials, and a ceiling adorned with gold leaf in the main auditorium. It stands as a profound modern monument to Danish cultural ambition and architectural excellence."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az Operaház építésének teljes költségét, több mint 500 millió dollárt, a dán milliárdos Mærsk Mc-Kinney Møller alapítványa adományozta a dán államnak.",
-        "Az épület több mint 41 000 négyzetméteres, és 14 emelettel rendelkezik, amelyből öt a föld alatt található.",
-        "A fő előadóterem mennyezetét mintegy 105 000 lap 24 karátos aranyfüsttel borították be.",
-        "A zenekari árok Európa egyik legnagyobbja, több mint 110 zenész befogadására alkalmas."
-      ],
-      ro: ["Clădirea are 14 etaje uimitoare, dar nu mai puțin de cinci dintre acestea sunt complet subterane, extinzându-se mult sub nivelul mării.", "Tavanul auditoriului principal strălucește spectaculos, fiind acoperit cu nu mai puțin de 105.000 de foițe individuale de aur pur de 24 de carate.", "Podul acoperișului suspendat al clădirii măsoară o lungime impresionantă de 158 de metri, oferind o priveliște clară către Palatul Amalienborg.", "Candelabrele colosale de sticlă din foaier, proiectate de faimosul artist islandez-danez Olafur Eliasson, amintesc vizual de formele planetelor luminate.", "Acustica incredibilă a sălii a fost optimizată la extrem, chiar și suprafața scaunelor fiind tăiată strategic pentru a preveni reflectarea excesivă a sunetului."],
-      en: ["The Opera House was generously donated to the Danish state by the A.P. Møller and Chastine Mc-Kinney Møller Foundation.", "Its construction cost exceeded 2.5 billion Danish kroner, making it one of the most expensive opera houses in the world.", "The main auditorium is decorated with exactly 105,000 sheets of 24-carat gold leaf.", "The building features 14 stories, five of which are constructed completely underground."]
-    },
-    facts: {
-      en: ["The building opened in 2005.", "It was designed by Henning Larsen.", "It sits directly on Copenhagen's harbor front.", "The roof extends dramatically over the entrance.", "It is one of the city's signature modern landmarks."],
-      de: ["Das Gebäude wurde 2005 eröffnet.", "Es wurde von Henning Larsen entworfen.", "Es liegt direkt an Kopenhagens Hafenfront.", "Das Dach ragt dramatisch über den Eingang hinaus.", "Es ist eines der typischen modernen Wahrzeichen der Stadt."],
-      hu: ["Az épület 2005-ben nyílt meg.", "Henning Larsen tervezte.", "Közvetlenül Koppenhága kikötőfrontján áll.", "A tető látványosan nyúlik a bejárat fölé.", "A város egyik jellegzetes modern jelképe."],
-      ro: ["Clădirea a fost inaugurată în 2005.", "A fost proiectată de Henning Larsen.", "Se află direct pe faleza portului din Copenhaga.", "Acoperișul se extinde dramatic peste intrare.", "Este unul dintre reperele moderne emblematice ale orașului."]
-    },
-    image: "/geo-images/denmark/copenhagen-opera-house.webp",
-  },
-  {
-    id: "land-louisiana-museum",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.5317, 55.9689],
-    name: { de: "Louisiana Museum", hu: "Louisiana Múzeum", ro: "Muzeul Louisiana", en: "Louisiana Museum of Modern Art" },
-    description: {
-      en: "Louisiana Museum of Modern Art is a top SEO landmark north of Copenhagen, combining art, architecture, and sea views in one visit. The museum is famous for its sculpture park, contemporary exhibitions, and the way its buildings connect with the coastal landscape. It attracts both art lovers and travelers who want a refined Danish day trip. Louisiana is one of the clearest examples of how Denmark blends culture, design, and scenery.",
-      de: "Das Louisiana Museum of Modern Art ist ein erstklassiges SEO-Wahrzeichen nördlich von Kopenhagen und verbindet Kunst, Architektur und Meerblick in einem Besuch. Das Museum ist berühmt für seinen Skulpturenpark, seine zeitgenössischen Ausstellungen und die Art, wie sich die Gebäude in die Küstenlandschaft einfügen. Es zieht sowohl Kunstliebhaber als auch Reisende an, die einen anspruchsvollen dänischen Tagesausflug suchen. Louisiana ist eines der klarsten Beispiele dafür, wie Dänemark Kultur, Design und Landschaft verbindet.",
-      hu: "A Louisiana Museum of Modern Art kiemelkedő SEO-jelentőségű látványosság Koppenhágától északra, mert egyetlen látogatásban ötvözi a művészetet, az építészetet és a tengeri kilátást. A múzeum híres szoborkertjéről, kortárs kiállításairól és arról, ahogyan az épületek kapcsolódnak a tengerparti tájhoz. Egyszerre vonzza a művészetkedvelőket és azokat az utazókat, akik kifinomult dán egynapos kirándulást keresnek. A Louisiana annak az egyik legtisztább példája, ahogyan Dánia a kultúrát, a dizájnt és a tájat összekapcsolja.",
-      ro: "Muzeul de Artă Modernă Louisiana este un reper SEO de top la nord de Copenhaga, combinând arta, arhitectura și priveliștile către mare într-o singură vizită. Muzeul este celebru pentru parcul său de sculpturi, expozițiile contemporane și modul în care clădirile se integrează în peisajul de coastă. Atrage atât iubitorii de artă, cât și călătorii care vor o excursie daneză rafinată de o zi. Louisiana este unul dintre cele mai clare exemple ale modului în care Danemarca îmbină cultura, designul și peisajul."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Louisiana Modern Művészeti Múzeum a tengerparton, egy gyönyörű parkban fekszik Koppenhágától északra, és Dánia leglátogatottabb művészeti intézménye. A múzeum az építészet, a táj és a művészet tökéletes szintézisét nyújtja; az üvegfolyosókról csodálatos kilátás nyílik az Øresund-szorosra és a szoborparkra. A gyűjtemény a második világháború utáni nemzetközi kortárs művészetre fókuszál, olyan neves művészek alkotásaival, mint Picasso, Giacometti és Warhol. A múzeum alapítója, Knud W. Jensen egy olyan helyet álmodott meg, ahol a művészet nem elitista, hanem mindenki számára elérhető és élvezhető. A Louisiana nem pusztán egy kiállítótér, hanem egy teljes kulturális oázis. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Muzeul de Artă Modernă Louisiana, amplasat superb pe coasta de nord a insulei Zeeland, reunește într-o armonie rară capodopere artistice internaționale și natura daneză. Arhitectura complexului evită formele grandioase, concentrându-se pe pavilioane vitrate joase, conectate subtil, care ghidează natural vizitatorul prin diversele colecții expoziționale. Considerat unul dintre cele mai influente și respectate muzee de artă modernă din Europa, Louisiana expune o diversitate impresionantă de pictură contemporană, sculptură și o secțiune remarcabilă de pop-art. Parcul de sculpturi exterioare, cu vedere clară peste Strâmtoarea Øresund către țărmul suedez, este la fel de esențial pentru experiența oferită ca și interiorul clădirii. Atmosfera relaxată subliniază dorința fondatorului său de a face arta vizuală mai accesibilă tuturor oamenilor, nu doar elitelor.",
-      en: "The Louisiana Museum of Modern Art is an internationally acclaimed art institution located on the coast of North Zealand, offering stunning views across the Øresund strait to Sweden. The museum is celebrated for its seamless integration of modern art, visionary architecture, and serene landscape design. It houses an extensive permanent collection featuring modern masters like Picasso, Warhol, and Giacometti, alongside dynamic temporary exhibitions. The museum's sculpture park is particularly renowned, perfectly harmonizing large-scale artworks with nature. Louisiana is not just a gallery, but a holistic cultural experience that redefines how art is engaged with."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeum nevét az eredeti ingatlan tulajdonosának három feleségéről kapta, akiket mind Louise-nak hívtak.",
-        "A múzeum szoborparkjában több mint 60 alkotás található harmonikus természeti környezetben.",
-        "A Louisiana évente mintegy 600 ezer látogatót vonz, ezzel a világ egyik legnépszerűbb modern művészeti múzeuma.",
-        "Az épületegyüttes többszöri bővítése úgy történt, hogy szigorúan megőrizték a régi fák és a természetes táj épségét."
-      ],
-      ro: ["Numele neobișnuit al muzeului, 'Louisiana', derivă pur și simplu de la primele trei soții ale proprietarului inițial al domeniului, pe care le chema pe toate Louise.", "Muzeul este renumit în întreaga lume pentru colecția sa vastă permanentă de sculpturi gigantice create de artistul elvețian Alberto Giacometti.", "Complexul a fost extins în mai multe faze invizibile de-a lungul deceniilor, păstrând mereu aspectul neintruziv, intim, cu tavane plate joase.", "Faimoasa 'Camera Strălucitoare' ('Gleaming Lights of the Souls') de Yayoi Kusama este o instalație permanentă halucinantă, acoperită cu oglinzi, extrem de populară.", "Parcul vast se integrează complet cu peisajul natural de coastă, prezentând opere majore de la Calder, Moore și Richard Serra încadrate în natură."],
-      en: ["The museum was founded in 1958 by Knud W. Jensen, who aimed to make modern art accessible to a broader public.", "The name 'Louisiana' was chosen because the property's original owner had three successive wives, all named Louise.", "It is the most visited art museum in Denmark, attracting hundreds of thousands of international guests annually.", "The museum's architecture is a prime example of Danish modernist style, characterized by glass corridors connecting pavilions."]
-    },
-    facts: {
-      en: ["It is located in Humlebæk north of Copenhagen.", "The museum is known for world-class modern art.", "Its sculpture park is a major attraction.", "The sea-facing setting is part of its appeal.", "Louisiana is one of Denmark's most visited museums."],
-      de: ["Es liegt in Humlebæk nördlich von Kopenhagen.", "Das Museum ist für Kunst von Weltrang bekannt.", "Der Skulpturenpark ist eine Hauptattraktion.", "Die Lage mit Blick aufs Meer ist Teil seines Reizes.", "Louisiana gehört zu den meistbesuchten Museen Dänemarks."],
-      hu: ["Humlebækben, Koppenhágától északra található.", "A múzeum világszínvonalú modern művészetéről ismert.", "A szoborkertje nagy vonzerő.", "A tengerre néző fekvése az egyik fő vonzereje.", "A Louisiana Dánia egyik leglátogatottabb múzeuma."],
-      ro: ["Este situat în Humlebæk, la nord de Copenhaga.", "Muzeul este cunoscut pentru artă modernă de clasă mondială.", "Parcul său de sculpturi este o atracție majoră.", "Amplasarea cu vedere la mare face parte din farmecul lui.", "Louisiana este unul dintre cele mai vizitate muzee din Danemarca."]
-    },
-    image: "/geo-images/denmark/louisiana-museum.webp",
-  },
-  {
-    id: "land-aros-aarhus-art-museum",
-    type: "landmark",
-    parent: "DK",
-    coords: [10.2076, 56.1572],
-    name: { de: "ARoS Aarhus Kunstmuseum", hu: "ARoS Aarhus Művészeti Múzeum", ro: "Muzeul de Artă ARoS Aarhus", en: "ARoS Aarhus Art Museum" },
-    description: {
-      en: "ARoS Aarhus Art Museum is one of the strongest modern landmark keywords for Denmark and a signature stop in Aarhus. Its rainbow panorama on the roof has become an international image of the city, while the exhibitions inside keep it culturally relevant year-round. The museum anchors Aarhus as a contemporary art destination with global reach. It is a must for visitors who want design, color, and skyline views in one place.",
-      de: "Das ARoS Aarhus Kunstmuseum ist eines der stärksten modernen Wahrzeichen für Dänemark und ein typischer Anlaufpunkt in Aarhus. Sein Regenbogenpanorama auf dem Dach ist zu einem internationalen Bild der Stadt geworden, während die Ausstellungen im Inneren es ganzjährig kulturell relevant halten. Das Museum verankert Aarhus als zeitgenössisches Kunstziel mit globaler Ausstrahlung. Es ist ein Muss für Besucher, die Design, Farbe und Skyline-Blicke an einem Ort wollen.",
-      hu: "Az ARoS Aarhus Művészeti Múzeum Dánia egyik legerősebb modern landmark kulcsszava és Aarhus egyik jellegzetes állomása. A tetőn lévő szivárvány panoráma a város nemzetközi jelképévé vált, miközben a belső kiállítások egész évben kulturálisan relevánssá teszik. A múzeum Aarhus-t kortárs művészeti célpontként pozicionálja globális hatókörrel. Kötelező mindazoknak, akik egy helyen keresnek dizájnt, színeket és városi kilátást.",
-      ro: "Muzeul de Artă ARoS Aarhus este unul dintre cele mai puternice cuvinte-cheie pentru repere moderne în Danemarca și o oprire emblematică în Aarhus. Panorama curcubeu de pe acoperiș a devenit o imagine internațională a orașului, iar expozițiile din interior îl păstrează relevant cultural pe tot parcursul anului. Muzeul consolidează Aarhus ca destinație de artă contemporană cu anvergură globală. Este obligatoriu pentru vizitatorii care vor design, culoare și priveliști urbane într-un singur loc."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az ARoS Aarhus Művészeti Múzeum Dánia egyik legnagyobb és leginnovatívabb múzeuma, Aarhus városának modern ikonja. A múzeum építészetileg Dante 'Isteni színjátékát' modellezi, ahol a kiállítóterek a Pokoltól a Mennyországig ívelnek. Az épület koronája a 'Your rainbow panorama', egy 150 méter hosszú, szivárványszínű üveg körsétány, amelyet az izlandi-dán művész, Olafur Eliasson tervezett. Ebből a sétányból páratlan, színpompás kilátás nyílik az egész városra. Az ARoS nemcsak jelentős dán aranykori gyűjteménnyel rendelkezik, hanem merész kortárs kiállításaival a globális művészeti színtér meghatározó szereplője. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Muzeul de Artă ARoS este un colos arhitectural curajos din centrul orașului Aarhus și reprezintă unul dintre cele mai mari și mai vibrante muzee de artă din întreaga Europă de Nord. Clădirea masivă, de formă cubică și construită din cărămidă roșie solidă, urmează metaforic structura lumii descrise în 'Divina Comedie' de celebrul Dante Alighieri. Colecțiile muzeului variază imens ca tematică, de la artă daneză aparținând „Epocii de Aur”, până la lucrări contemporane provocatoare, instalații interactive și artă video. Simbolul său inconfundabil este 'Your rainbow panorama', un spectaculos coridor circular suspendat pe acoperiș, care acoperă întregul spectru de culori. Acest element oferă vizitatorilor nu doar vederi epice asupra orașului Aarhus, dar și posibilitatea de a vedea realitatea însăși în zeci de nuanțe diferite.",
-      en: "The ARoS Aarhus Art Museum is one of Northern Europe's largest and most visually striking contemporary art museums, located in the heart of Aarhus. The building's cubic architecture is famously crowned by 'Your rainbow panorama', a spectacular circular glass walkway created by artist Olafur Eliasson that offers 360-degree views of the city in all colors of the spectrum. The museum's interior is inspired by Dante's 'Divine Comedy', guiding visitors from the dark underworld galleries up to the celestial light of the roof. ARoS features extensive collections ranging from Danish Golden Age paintings to cutting-edge international contemporary installations."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeum neve Aarhus városának ősi, viking kori nevéből ('Aros') származik.",
-        "A 'Your rainbow panorama' 2011-es átadása után az épület Észak-Európa egyik legtöbbet fényképezett nevezetessége lett.",
-        "A múzeum alsó szintjén egy Ron Mueck által készített, 4,5 méter magas, hiperrealista 'Fiú' (Boy) szobor található.",
-        "A tízemeletes épület területe meghaladja a 20 000 négyzetmétert."
-      ],
-      ro: ["Capodopera 'Your rainbow panorama' de pe acoperiș a fost proiectată ingenios de celebrul artist danez-islandez Olafur Eliasson.", "Faimoasa lucrare gigantică din silicon „Băiatul” (Boy), a artistului australian Ron Mueck, domină parterul, având o înălțime de aproximativ 4,5 metri.", "Galeriile expoziționale ale muzeului sunt concepute ingenios ca 'Iadul' lui Dante la subsol, ajungând progresiv până la 'Paradisul' colorat reprezentat de panorama superioară.", "Complexul adăpostește peste 8000 de lucrări de artă de primă mărime, fiind fondat în mod oficial în anul 1859 și reinaugurat în locația curentă în 2004.", "Clădirea principală în formă de cub are dimensiuni colosale de 52x52x52 de metri, acționând efectiv ca un reper imens pentru orizontul orașului Aarhus."],
-      en: ["ARoS is one of the largest art museums in Northern Europe, spanning over 10 stories.", "Olafur Eliasson's 'Your rainbow panorama' measures 150 meters in length and 3 meters in width.", "The museum famously houses Ron Mueck's massive, hyper-realistic sculpture 'Boy'.", "The building's design concept represents a journey from Dante's hell in the basement to heaven on the roof."]
-    },
-    facts: {
-      en: ["ARoS is one of the largest art museums in Northern Europe.", "The rainbow panorama is its best-known feature.", "It is located in central Aarhus.", "The museum hosts major modern and contemporary exhibitions.", "It is a key symbol of Aarhus's creative identity."],
-      de: ["ARoS ist eines der größten Kunstmuseen Nordeuropas.", "Das Regenbogenpanorama ist sein bekanntestes Merkmal.", "Es liegt im Zentrum von Aarhus.", "Das Museum zeigt große moderne und zeitgenössische Ausstellungen.", "Es ist ein wichtiges Symbol der kreativen Identität von Aarhus."],
-      hu: ["Az ARoS Észak-Európa egyik legnagyobb művészeti múzeuma.", "A szivárvány panoráma a legismertebb eleme.", "Aarhus központjában található.", "A múzeum jelentős modern és kortárs kiállításokat rendez.", "Aarhus kreatív identitásának fontos szimbóluma."],
-      ro: ["ARoS este unul dintre cele mai mari muzee de artă din Europa de Nord.", "Panorama curcubeu este cea mai cunoscută caracteristică a sa.", "Este situat în centrul orașului Aarhus.", "Muzeul găzduiește expoziții importante de artă modernă și contemporană.", "Este un simbol cheie al identității creative a orașului Aarhus."]
-    },
-    image: "/geo-images/denmark/aros-aarhus-art-museum.webp",
-  },
-  {
-    id: "land-blue-planet",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.6558, 55.6294],
-    name: { de: "Den Blå Planet", hu: "A Kék Bolygó", ro: "Planeta Albastră", en: "The Blue Planet" },
-    description: {
-      en: "The Blue Planet is Denmark's national aquarium and a standout landmark for family travel and marine-themed SEO content. Its striking architecture on the Copenhagen waterfront makes it instantly recognizable, and its exhibits cover sea life from Nordic waters to tropical ecosystems. Visitors come here for immersive tanks, educational value, and a memorable harbor-side setting. The Blue Planet is a strong fit for pages about Copenhagen attractions beyond the usual city icons.",
-      de: "Den Blå Planet ist Dänemarks nationales Aquarium und ein herausragendes Wahrzeichen für Familienreisen und SEO-Inhalte mit Meeresbezug. Seine markante Architektur an der Uferfront Kopenhagens macht es sofort erkennbar, und die Ausstellungen decken Meeresleben von nordischen Gewässern bis zu tropischen Ökosystemen ab. Besucher kommen wegen der eindrucksvollen Becken, des Bildungswerts und der unvergesslichen Lage am Hafen. Den Blå Planet passt hervorragend zu Seiten über Kopenhagener Attraktionen jenseits der üblichen Stadtikonen.",
-      hu: "A Kék Bolygó Dánia nemzeti akváriuma és kiemelkedő landmark családi utazásokhoz és tengeri témájú SEO-tartalomhoz. Feltűnő koppenhágai vízparti épülete azonnal felismerhető, kiállításai pedig az északi vizek élővilágától a trópusi ökoszisztémákig terjednek. A látogatók az immerzív medencék, az oktatási érték és az emlékezetes kikötőparti környezet miatt érkeznek ide. A Kék Bolygó jól illeszkedik a Koppenhága látnivalóiról szóló oldalakhoz az ismert városi ikonokon túl.",
-      ro: "Planeta Albastră este acvariul național al Danemarcei și un reper remarcabil pentru turismul de familie și conținutul SEO cu tematică marină. Arhitectura sa spectaculoasă de pe faleza Copenhagăi îl face imediat recognoscibil, iar expozițiile acoperă viața marină de la apele nordice până la ecosisteme tropicale. Vizitatorii vin pentru bazinele imersive, valoarea educațională și cadrul memorabil de lângă port. Planeta Albastră se potrivește foarte bine paginilor despre atracțiile din Copenhaga dincolo de reperele obișnuite."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Kék Bolygó (Den Blå Planet) Észak-Európa legnagyobb akváriuma, amely Koppenhága mellett, közvetlenül a tengerparton kapott helyet. A 3XN építésziroda által tervezett lenyűgöző épület egy hatalmas, ezüstös örvényt formáz, amely a víz dinamikus mozgását szimbolizálja. A látogatók a világ minden tájáról származó vízi ökoszisztémákat fedezhetnek fel, a trópusi korallzátonyoktól a hideg északi tengerekig. A hatalmas Óceán-tartály egy üvegalagúttal biztosítja, hogy a cápák és ráják testközelből, mégis biztonságosan megfigyelhetők legyenek. Az akvárium kiemelt hangsúlyt fektet a tengeri élővilág kutatására és a természetvédelem fontosságának oktatására. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Planeta Albastră (Den Blå Planet), noul acvariu național al Danemarcei situat lângă Aeroportul Copenhaga, este o capodoperă a designului organic care atrage privirile imediat. Arhitectura spectaculoasă, vizibilă direct și din avioanele care aterizează, imită un vârtej masiv de apă sau o formă stelară fluidă acoperită complet cu plăci argintii de aluminiu strălucitor. În interiorul clădirii futuriste, vizitatorii pășesc literalmente sub suprafața oceanelor planetei, explorând mii de specii acvatice, de la recife tropicale vibrante la faună nordică. Tunelurile subacvatice gigantice și rezervoarele cu volume imense de apă invită publicul să observe rechini de dimensiuni mari, diavoli de mare și piranha plutind grațios la o distanță mică de ei. Prin activitățile și panourile sale, atracția combină spectaculosul cu lecții importante despre conservarea oceanelor și salvarea ecosistemelor fragile.",
-      en: "The Blue Planet (Den Blå Planet) is the National Aquarium of Denmark and the largest aquarium in Northern Europe. Located on the coast of Kastrup, its spectacular, swirling architecture is designed to mimic the shape of a whirlpool pulling visitors into the deep sea. The aquarium houses thousands of marine animals, ranging from elegant hammerhead sharks to vibrant coral reef fish and sea otters. The immersive exhibits are divided into distinct zones, covering the oceans, tropical rainforests, and cold northern waters. Through cutting-edge technology and expansive viewing tanks, The Blue Planet offers a profound educational and sensory journey into aquatic life."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Kék Bolygó 2013-ban nyílt meg, a régi koppenhágai akvárium utódjaként.",
-        "Az akvárium tartályai összesen 7 millió liter vizet fognak be.",
-        "Az épület különleges alumínium burkolata a tenger hullámain megcsillanó fényt hivatott utánozni.",
-        "A komplexumban több mint 20 000 állat él, mintegy 450 különböző fajból."
-      ],
-      ro: ["Planeta Albastră este considerat cel mai mare acvariu funcțional din nordul Europei, cu o capacitate imensă de aproximativ 7 milioane de litri de apă.", "Designul uluitor, creat de prestigiosul birou de arhitectură 3XN, este complet învelit în peste 33.000 de solzi de aluminiu care imită mișcarea apelor și solzii peștilor.", "Acvariul este poziționat strategic pe coastă și folosește un sistem complex de captare directă și filtrare constantă a apei marine din strâmtoarea Øresund.", "Rezervorul principal monumental „Oceanul” are geamuri groase din acril rezistent, realizate cu măiestrie în Japonia, de 41 de centimetri grosime.", "Ecosistemul Amazonian imens include un adevărat zbor de păsări tropicale libere și specii gigantice precum peștii uriași pirarucu."],
-      en: ["The aquarium holds over 7 million liters of water across 53 different exhibits.", "Its futuristic whirlpool-shaped building is clad in thousands of shimmering aluminum plates.", "The Ocean Tank, the largest exhibit, features a massive 16-meter-long curved acrylic viewing tunnel.", "The Blue Planet replaced the original Denmark Aquarium, which operated in Charlottenlund since 1939."]
-    },
-    facts: {
-      en: ["The Blue Planet is the national aquarium of Denmark.", "It opened in 2013.", "The building sits on the edge of Copenhagen's harbor area.", "Its design resembles a swirling water form.", "It is popular with both families and school groups."],
-      de: ["Den Blå Planet ist das nationale Aquarium Dänemarks.", "Es wurde 2013 eröffnet.", "Das Gebäude liegt am Rand des Kopenhagener Hafenbereichs.", "Sein Design erinnert an eine wirbelnde Wasserform.", "Es ist bei Familien und Schulgruppen beliebt."],
-      hu: ["A Kék Bolygó Dánia nemzeti akváriuma.", "2013-ban nyílt meg.", "Az épület Koppenhága kikötői részének szélén áll.", "Formavilága egy örvénylő vízmozgást idéz.", "Családok és iskolai csoportok körében is népszerű."],
-      ro: ["Planeta Albastră este acvariul național al Danemarcei.", "S-a deschis în 2013.", "Clădirea se află la marginea zonei portuare a Copenhagăi.", "Designul său amintește de o formă de apă învârtită.", "Este popular atât pentru familii, cât și pentru grupuri școlare."]
-    },
-    image: "/geo-images/denmark/blue-planet.webp",
-  },
-  {
-    id: "land-lego-house",
-    type: "landmark",
-    parent: "DK",
-    coords: [9.1157, 55.7344],
-    name: { de: "LEGO House", hu: "LEGO House", ro: "LEGO House", en: "LEGO House" },
-    description: {
-      en: "LEGO House in Billund is one of the best-known family landmarks in Denmark and a powerful SEO term for creativity, play, and design. The building itself is shaped like stacked LEGO bricks, making it instantly readable as a modern Danish icon. Inside, interactive zones turn the company's story into an experience for children and adults alike. LEGO House is ideal for content that links Denmark with innovation, family travel, and playful architecture.",
-      de: "Das LEGO House in Billund ist eines der bekanntesten Familien-Wahrzeichen Dänemarks und ein starkes SEO-Thema für Kreativität, Spiel und Design. Das Gebäude selbst ist wie gestapelte LEGO-Steine geformt und damit sofort als modernes dänisches Symbol erkennbar. Im Inneren verwandeln interaktive Bereiche die Firmengeschichte in ein Erlebnis für Kinder und Erwachsene. LEGO House eignet sich ideal für Inhalte, die Dänemark mit Innovation, Familienreisen und spielerischer Architektur verbinden.",
-      hu: "A billundi LEGO House Dánia egyik legismertebb családi látványossága és erős SEO-kifejezés a kreativitás, a játék és a dizájn témájában. Maga az épület egymásra rakott LEGO kockákra emlékeztet, így azonnal felismerhető modern dán ikonná válik. Belül interaktív zónák alakítják élménnyé a vállalat történetét gyerekek és felnőttek számára egyaránt. A LEGO House ideális tartalomhoz, amely Dániát az innovációval, a családi utazással és a játékos építészettel köti össze.",
-      ro: "LEGO House din Billund este unul dintre cele mai cunoscute repere de familie din Danemarca și un termen SEO puternic pentru creativitate, joacă și design. Clădirea însăși are forma unor cărămizi LEGO suprapuse, fiind imediat recognoscibilă ca icon modern danez. În interior, zonele interactive transformă povestea companiei într-o experiență pentru copii și adulți deopotrivă. LEGO House este ideal pentru conținutul care leagă Danemarca de inovație, turism de familie și arhitectură jucăușă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Billundban található LEGO House, amelyet a 'Kockák Házának' is neveznek, a kreativitás és a játék dán szentélye. A Bjarke Ingels Group (BIG) által tervezett futurisztikus épület maga is úgy néz ki, mintha 21 hatalmas fehér Lego kockából épült volna. A belső terek interaktív élményzónákra vannak osztva, amelyeket színek szerint kódoltak, és a tanulás különböző aspektusaira (logika, kreativitás, érzelem) fókuszálnak. A létesítmény központjában egy hatalmas, több mint hat méter magas, épített Lego 'Kreativitás Fája' áll. A LEGO House célja, hogy minden korosztályt inspiráljon a szabad, fantáziadús építésre. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "LEGO House, cunoscută la nivel internațional și sub numele afecționat de „Casa Cărămizii”, este o clădire minune din centrul orașului Billund, considerată o declarație absolută de dragoste pentru creativitate. Clădirea se remarcă instant prin exteriorul său vesel, format din 21 de volume imense, albe și colorate, care par efectiv construite din piese clasice supradimensionate de Lego. Gândit nu ca un parc tipic de distracții pentru senzații tari, ci ca un centru de joacă senzorial profund, muzeul pune accent pe stimularea inteligenței, jocul liber și posibilitățile infinite. Diversele „Zone de Culoare” invită atât copiii mici cât și adulții nostalgici să rezolve puzzle-uri complexe, să animeze scurte filme și să-și contruiască efectiv propriile visuri. Un punct forte spectaculos este 'Arborele Creativității', un monument uimitor, considerat una dintre cele mai grandioase structuri Lego create vreodată în lume.",
-      en: "LEGO House, affectionately known as the 'Home of the Brick', is an incredible experiential center located in Billund, the birthplace of the LEGO brick. Designed by the renowned architectural firm BIG (Bjarke Ingels Group), the building itself resembles 21 giant overlapping LEGO bricks. Inside, visitors are treated to an interactive universe divided into color-coded experience zones that stimulate creativity, cognitive skills, and logic. The center also features a comprehensive museum detailing the history of the LEGO company and a stunning 'Tree of Creativity' built from over 6 million bricks. It is the ultimate pilgrimage site for LEGO enthusiasts of all ages."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az épületet 2017-ben adták át, pontosan a Lego szülővárosában, Billundban.",
-        "A Kreativitás Fája több mint 6,3 millió Lego kockából épült fel, és a világ egyik legnagyobb Lego építménye.",
-        "Az épület tetején található teraszok szabadon látogathatók és mindegyik különböző játszótereket kínál.",
-        "A Mestermű Galéria (Masterpiece Gallery) a legtehetségesebb rajongók által készített Lego alkotásokat mutatja be."
-      ],
-      ro: ["Grandiosul 'Arbore al Creativității' are impresionanta înălțime de peste 15 metri și a necesitat utilizarea a nu mai puțin de 6.316.611 de piese Lego individuale.", "Pentru ca experiența tactilă să nu fie limitată, podelele din interiorul atracției dispun de peste 25 de milioane de cărămizi Lego disponibile fizic pentru toți vizitatorii.", "Structura arhitecturală de excepție a muzeului a fost dezvoltată de Bjarke Ingels Group (BIG), o firmă de arhitectură daneză cu recunoaștere globală masivă.", "În restaurantul inovator 'Mini Chef', vizitatorii își construiesc propriile comenzi de mâncare din blocuri și primesc tava finală de la roboți adorabili.", "Pe terasa acoperișului din clădire, blocurile individuale au la exterior exact aceleași faimoase dimensiuni proporționale ca legendara cărămidă clasică '2x4'."],
-      en: ["The building's design literally mimics the proportions of a standard 2x4 LEGO brick.", "The 'Tree of Creativity' inside is 15 meters tall and took over 24,000 hours to assemble.", "LEGO House contains a collection of iconic vintage LEGO sets dating back to the company's origins.", "The center includes an innovative restaurant where visitors 'program' their orders using LEGO bricks for robots to serve."]
-    },
-    facts: {
-      en: ["LEGO House is located in Billund.", "The building is designed to resemble LEGO bricks.", "It focuses on interactive play and creativity.", "Billund is the birthplace of the LEGO brand.", "It is one of Denmark's top family landmarks."],
-      de: ["Das LEGO House liegt in Billund.", "Das Gebäude ist wie LEGO-Steine gestaltet.", "Der Schwerpunkt liegt auf interaktivem Spiel und Kreativität.", "Billund ist die Geburtsstadt der LEGO-Marke.", "Es gehört zu den wichtigsten Familienwahrzeichen Dänemarks."],
-      hu: ["A LEGO House Billundban található.", "Az épület LEGO kockákat idéz.", "Az interaktív játékra és kreativitásra összpontosít.", "Billund a LEGO márka szülőhelye.", "Dánia egyik legfontosabb családi látványossága."],
-      ro: ["LEGO House se află în Billund.", "Clădirea este concepută să semene cu cărămizile LEGO.", "Se concentrează pe joacă interactivă și creativitate.", "Billund este locul de naștere al brandului LEGO.", "Este unul dintre reperele de familie de top din Danemarca."]
-    },
-    image: "/geo-images/denmark/lego-house.webp",
-  },
-  {
-    id: "land-statens-museum-for-kunst",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.5798, 55.6884],
-    name: { de: "Statens Museum for Kunst", hu: "Statens Museum for Kunst", ro: "Muzeul Național de Artă", en: "Statens Museum for Kunst" },
-    description: {
-      en: "Statens Museum for Kunst is Denmark's national gallery and a strong landmark for cultural SEO around Copenhagen. The museum covers centuries of European and Danish art, making it valuable for visitors who want depth rather than just a quick photo stop. Its classic building and central location make it easy to include in city itineraries. For art-focused Denmark content, this museum is one of the most authoritative names to mention.",
-      de: "Das Statens Museum for Kunst ist Dänemarks Nationalgalerie und ein starkes Wahrzeichen für kulturelle SEO rund um Kopenhagen. Das Museum deckt Jahrhunderte europäischer und dänischer Kunst ab und ist daher für Besucher wertvoll, die Tiefe statt eines kurzen Fotostopps suchen. Sein klassisches Gebäude und die zentrale Lage machen es leicht, in Stadtprogramme einzubauen. Für kunstorientierte Dänemark-Inhalte ist dieses Museum einer der wichtigsten Namen, die man nennen sollte.",
-      hu: "A Statens Museum for Kunst Dánia nemzeti galériája és erős landmark a koppenhágai kulturális SEO-ban. A múzeum évszázadokon átívelő európai és dán művészetet mutat be, így azoknak is értékes, akik mélységet keresnek egy gyors fotómegálló helyett. Klasszikus épülete és központi elhelyezkedése miatt könnyen beilleszthető a városi útitervbe. Művészetközpontú dán tartalomhoz ez az egyik legtekintélyesebb név.",
-      ro: "Statens Museum for Kunst este galeria națională a Danemarcei și un reper puternic pentru SEO cultural în Copenhaga. Muzeul acoperă secole de artă europeană și daneză, fiind valoros pentru vizitatorii care caută profunzime, nu doar o oprire rapidă pentru fotografii. Clădirea clasică și locația centrală îl fac ușor de inclus în itinerariile urbane. Pentru conținutul despre Danemarca axat pe artă, acesta este unul dintre cele mai autoritare nume de menționat."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Statens Museum for Kunst (SMK) Dánia Nemzeti Galériája, amely Koppenhága központjában őrzi az ország legnagyobb és legfontosabb művészeti gyűjteményét. A múzeum alapjait a dán királyok egykori magángyűjteményei adták, amelyeket a 19. században adományoztak az államnak. A kiállítások átfogó képet nyújtanak a dán és az európai művészetről a 14. századtól napjainkig, különös tekintettel a dán aranykor festészetére. A történelmi, 1896-ban épült reneszánsz stílusú épületet 1998-ban egy modern, üvegfalú szárnnyal bővítették ki. Az SMK ma nyüzsgő kulturális központ, amely innovatív módon közelíti meg a klasszikus művészet bemutatását. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Galeria Națională a Danemarcei, cunoscută pe plan local sub acronimul SMK (Statens Museum for Kunst), deține de departe cea mai amplă și valoroasă colecție de artă a regatului. Situată convenabil chiar în pitorescul parc Kongens Have din Copenhaga, arhitectura muzeului este o juxtapunere simbolică: o aripă somptuoasă și clasică din secolul XIX unită transparent cu o adăugare de un modernism strălucitor și minimalist. Vasta colecție acoperă impecabil peste șapte secole de geniu creativ european și danez, integrând de la Maeștrii vechi renascentiști la expresioniști contemporani și instalații avangardiste bizare. Galeria funcționează ca inima cercetării și conservării artistice la nivel național, restaurând activ patrimoniul istoric comunitar. Datorită programului frecvent de evenimente „SMK Fridays”, instituția a creat un model exemplar despre cum să conectezi tinerele generații cu arta culturii clasice nordice.",
-      en: "The Statens Museum for Kunst (SMK), or the National Gallery of Denmark, is the country's premier museum for visual arts, located in Copenhagen. The museum holds an extraordinary collection of Danish and international art spanning from the 14th century to the present day. Its extensive galleries feature masterpieces by European giants like Rubens, Rembrandt, and Matisse, alongside a comprehensive collection of the Danish Golden Age. The museum building is a fascinating fusion of a grand, historical 19th-century structure and a sleek, modern glass extension. SMK serves as a vital cultural repository, meticulously preserving and exhibiting the visual heritage of the nation."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeum több mint 260 000 műalkotást őriz, beleértve festményeket, szobrokat és grafikákat.",
-        "A gyűjteményben kiemelkedő alkotások találhatók Picassótól, Matissétól és a skandináv mesterektől, például Vilhelm Hammershøitól.",
-        "A régi és az új épületszárnyat a lenyűgöző 'Szobor utca' (Skulpturgaden) köti össze.",
-        "A dán aranykor (1800-1850) festményei a múzeum legbüszkébb és legnépszerűbb állandó kiállítását alkotják."
-      ],
-      ro: ["Fundația vastelor colecții naționale datează din secolul al XVI-lea, fiind direct reprezentată de achizițiile masive ale puternicului rege Christian al II-lea.", "Extinderea modernă și elegantă din spate a fost proiectată impecabil de Anna Maria Indrio și a fost finalizată în anul 1998 sub denumirea „Aleea Sculpturii”.", "Galeria națională dispune în arhiva sa colosală de una dintre cele mai respectate și importante colecții de lucrări din lume create de artistul Henri Matisse.", "Muzeul este recunoscut pentru „Epoca de Aur Daneză” a picturii, cu sute de tablouri cheie extrem de precise semnate de maestrul Christen Købke.", "Multe exponate majore și elemente din colecția națională imensă au fost complet digitizate cu atenție și lansate în mod complet gratuit către public."],
-      en: ["The museum's foundational collection was originally established from the private art chambers of the Danish kings.", "SMK houses one of the world's most significant collections of works by the French artist Henri Matisse.", "The striking modern glass extension was added in 1998, dramatically expanding the exhibition space.", "The museum features over 260,000 artworks, including paintings, sculptures, and works on paper."]
-    },
-    facts: {
-      en: ["It is Denmark's national art museum.", "The museum is located in central Copenhagen.", "Its collections include both Danish and European art.", "It is a key stop for culture-focused city trips.", "The museum is also known for temporary exhibitions."],
-      de: ["Es ist Dänemarks Nationalmuseum für Kunst.", "Das Museum liegt im Zentrum von Kopenhagen.", "Die Sammlungen umfassen dänische und europäische Kunst.", "Es ist ein wichtiger Halt für kulturorientierte Städtereisen.", "Das Museum ist auch für Wechselausstellungen bekannt."],
-      hu: ["Dánia nemzeti művészeti múzeuma.", "Koppenhága központjában található.", "Gyűjteménye dán és európai művészetet is tartalmaz.", "Fontos állomás a kultúra-központú városlátogatásokon.", "Időszaki kiállításairól is ismert."],
-      ro: ["Este muzeul național de artă al Danemarcei.", "Muzeul este situat în centrul Copenhagăi.", "Colecțiile includ artă daneză și europeană.", "Este o oprire cheie pentru city break-uri axate pe cultură.", "Muzeul este cunoscut și pentru expozițiile temporare."]
-    },
-    image: "/geo-images/denmark/statens-museum-for-kunst.webp",
-  },
-  {
-    id: "land-viking-ship-museum",
-    type: "landmark",
-    parent: "DK",
-    coords: [12.0855, 55.6524],
-    name: { de: "Wikingerschiffsmuseum", hu: "Viking Hajómúzeum", ro: "Muzeul Navelor Vikinge", en: "Viking Ship Museum" },
-    description: {
-      en: "The Viking Ship Museum in Roskilde is a landmark museum with strong SEO value for history, archaeology, and maritime culture. Its preserved ships and reconstructions give visitors a direct connection to Denmark's seafaring past. The museum also works well for families because of its live demonstrations and hands-on atmosphere. It is one of the best places in Denmark to understand Viking ships as both tools of war and symbols of trade.",
-      de: "Das Wikingerschiffsmuseum in Roskilde ist ein Wahrzeichenmuseum mit starkem SEO-Wert für Geschichte, Archäologie und maritime Kultur. Seine erhaltenen Schiffe und Rekonstruktionen geben Besuchern eine direkte Verbindung zur seefahrenden Vergangenheit Dänemarks. Das Museum eignet sich auch gut für Familien wegen seiner Vorführungen und seines praktischen Erlebniskonzepts. Es ist einer der besten Orte in Dänemark, um Wikingerschiffe sowohl als Kriegswerkzeuge als auch als Handelszeichen zu verstehen.",
-      hu: "A roskildei Viking Hajómúzeum olyan landmark múzeum, amely erős SEO-értékkel bír a történelem, a régészet és a tengeri kultúra számára. A megőrzött hajók és rekonstrukciók közvetlen kapcsolatot adnak Dánia hajózó múltjához. A múzeum családok számára is jól működik az élő bemutatók és a gyakorlati élmény miatt. Ez az egyik legjobb hely Dániában annak megértéséhez, hogy a viking hajók egyszerre voltak hadieszközök és kereskedelmi szimbólumok.",
-      ro: "Muzeul Navelor Vikinge din Roskilde este un muzeu-reper cu valoare SEO puternică pentru istorie, arheologie și cultură maritimă. Navele păstrate și reconstrucțiile oferă vizitatorilor o legătură directă cu trecutul maritim al Danemarcei. Muzeul funcționează foarte bine și pentru familii datorită demonstrațiilor live și atmosferei interactive. Este unul dintre cele mai bune locuri din Danemarca pentru a înțelege navele vikinge atât ca arme de război, cât și ca simboluri ale comerțului."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Roskildében található Viking Hajómúzeum (Vikingeskibsmuseet) a tengerjáró vikingek életét és hajóépítési zsenialitását mutatja be. A múzeum központjában öt eredeti, 11. századi viking hajó roncsa áll, amelyeket a Roskilde-fjordból tártak fel, miután egykor elsüllyesztették őket, hogy blokkolják a támadók útját. A komplexum nemcsak egy kiállítótér, hanem egy aktív hajóépítő műhely is, ahol a látogatók megfigyelhetik, ahogy a szakemberek hagyományos viking eszközökkel építik újjá a hajók másolatait. A nyári hónapokban lehetőség nyílik arra is, hogy ezekkel a hű másolatokkal a látogatók maguk is vízre szálljanak. A múzeum a dánok büszke tengerészeti múltjának és ősi mesterségeinek őrzője. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Muzeul Navelor Vikinge (Vikingeskibsmuseet), aflat direct pe malurile calme ale fiordului din Roskilde, expune și explorează ingeniozitatea neîntrecută a artei navale din epoca vikingă veche. În inima expoziției spectaculoase din clădirea de beton masiv se găsesc cinci ambarcațiuni antice complet originale, scufundate intenționat chiar în acel fiord pentru a crea o barieră subacvatică de apărare în secolul al XI-lea. Ceea ce diferențiază profund acest muzeu este activitatea sa plină de viață ca centru meșteșugăresc de reconstrucție nautică autentică, nu doar ca simplu spațiu pasiv de expunere. În docurile și atelierele externe, tâmplarii pricepuți folosesc topoare și tehnici scandinave exacte de acum 1000 de ani, tăind și fasonând stejari enormi pentru a construi replici navigabile funcționale. Vara, vizitatorii au inclusiv posibilitatea extraordinară de a vâsli direct pe apele adânci ale fiordului într-un lung drakkar autentic reconstituit.",
-      en: "The Viking Ship Museum in Roskilde is a captivating institution dedicated to the seafaring culture, craftsmanship, and history of the Vikings. The museum's centerpiece is the exhibition of five original 11th-century Viking longships, which were deliberately scuttled to blockade the Roskilde Fjord and protect the city. The museum beautifully combines archaeological displays with active, experimental maritime research. Visitors can observe skilled boatbuilders reconstructing authentic Viking ships using traditional tools and methods in the museum's boatyard. It offers an unparalleled, immersive insight into the extraordinary navigational skills that allowed the Vikings to explore from North America to the Middle East."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az öt 'Skuldelev-hajót' 1962-ben emelték ki a fjord vizéből egy hatalmas régészeti projekt keretében.",
-        "A kiállított hajók között van kereskedelmi hajó, halászhajó és karcsú, gyors hadihajó is.",
-        "A 'Havhingsten fra Glendalough' a múzeum által épített egyik leghíresebb viking hadihajó-másolat, amellyel Dublinig is elhajóztak.",
-        "A múzeum a Roskilde-fjord partján épült, hatalmas üvegablakain keresztül a hajóroncsok a tengerre néznek."
-      ],
-      ro: ["Celebrele cinci nave „Skuldelev” masive reprezintă de fapt varietăți tehnice diverse: două nave de transport durabile, două drakkare subțiri și o mică ambarcațiune ușoară de pescuit.", "Faimosul „Skuldelev 2”, drakkarul uriaș de război de 30 de metri lungime din muzeu, a fost construit istoric din cherestea dură preluată chiar din regiunea Dublinului, în Irlanda.", "Spectaculoasa replică modernă principală, denumită 'Havhingsten fra Glendalough', a navigat complet cu succes din portul danez Roskilde până la portul irlandez Dublin și înapoi.", "Inginerii și arheologii instituției trebuie să păstreze permanent ambarcațiunile din lemn vechi umede cu produse chimice sintetice avansate pentru a opri crăparea ruinelor deshidratate.", "Un uriaș val de furtună destructivă din iarna anului 2013 a amenințat să spargă geamurile și să distrugă comorile vikinge expuse, muzeul necesitând de atunci întăriri arhitecturale esențiale."],
-      en: ["The five original Skuldelev ships were excavated from the Roskilde Fjord in 1962.", "The museum maintains a fleet of reconstructed Viking ships that visitors can actually sail in during the summer.", "One of the reconstructed ships, the Sea Stallion of Glendalough, successfully sailed from Denmark to Dublin in 2007.", "The museum's active boatyard uses authentic replica tools, including hand-forged axes and traditional rope-making techniques."]
-    },
-    facts: {
-      en: ["The museum is located in Roskilde.", "It preserves original Viking ship finds.", "Reconstructed boats are used for demonstrations.", "The site focuses on maritime archaeology.", "It is one of Denmark's best-known history museums."],
-      de: ["Das Museum befindet sich in Roskilde.", "Es bewahrt originale Wikinger-Schiffsfunde.", "Rekonstruierte Boote werden für Vorführungen genutzt.", "Der Schwerpunkt liegt auf maritimer Archäologie.", "Es ist eines der bekanntesten Geschichtsmuseen Dänemarks."],
-      hu: ["A múzeum Roskildében található.", "Eredeti viking hajóleleteket őriz.", "A rekonstrukciós hajókat bemutatókhoz használják.", "A tengeri régészetre összpontosít.", "Dánia egyik legismertebb történeti múzeuma."],
-      ro: ["Muzeul se află în Roskilde.", "Păstrează descoperiri originale de nave vikinge.", "Bărcile reconstruite sunt folosite pentru demonstrații.", "Situl se concentrează pe arheologie maritimă.", "Este unul dintre cele mai cunoscute muzee de istorie din Danemarca."]
-    },
-    image: "/geo-images/denmark/viking-ship-museum.webp",
-  },
-  {
-    id: "port-copenhagen",
-    type: "port",
-    parent: "DK",
-    coords: [12.5945, 55.6903],
-    name: { de: "Hafen Kopenhagen", hu: "Koppenhágai kikötő", ro: "Portul Copenhaga", en: "Port of Copenhagen" },
-    description: {
-      en: "The Port of Copenhagen is a major maritime gateway and a high-value SEO keyword for cruises, shipping, and waterfront city travel in Denmark. It anchors the capital's historic relationship with the sea while supporting modern logistics and passenger traffic. The harbor area connects easily with the city center, making it useful for both travelers and commerce content. As a port landmark, it reinforces Copenhagen's role as a modern northern European capital with deep maritime roots.",
-      de: "Der Hafen Kopenhagen ist ein wichtiges maritimes Tor und ein hochwertiges SEO-Thema für Kreuzfahrten, Schifffahrt und Uferreisen in Dänemark. Er verankert die historische Beziehung der Hauptstadt zum Meer und unterstützt zugleich moderne Logistik und Passagierverkehr. Das Hafengebiet ist gut mit dem Stadtzentrum verbunden, was es für Reise- und Handelsinhalte gleichermaßen nützlich macht. Als Hafenwahrzeichen unterstreicht er Kopenhagens Rolle als moderne nordeuropäische Hauptstadt mit tiefen maritimen Wurzeln.",
-      hu: "A Koppenhágai kikötő fontos tengeri kapu és nagy értékű SEO-kulcsszó a hajóutak, a szállítmányozás és a vízparti városi utazás témájában. A főváros tengerhez fűződő történelmi kapcsolatát hordozza, miközben a modern logisztikát és az utasforgalmat is kiszolgálja. A kikötő könnyen kapcsolódik a belvároshoz, így utazási és kereskedelmi tartalmakhoz egyaránt hasznos. Kikötői jelképént erősíti Koppenhága szerepét mint modern északi európai főváros mély tengeri gyökerekkel.",
-      ro: "Portul Copenhaga este o poartă maritimă majoră și un cuvânt-cheie SEO de mare valoare pentru croaziere, transport maritim și turism urban la malul apei în Danemarca. El ancorează relația istorică a capitalei cu marea, sprijinind în același timp logistica modernă și traficul de pasageri. Zona portuară se conectează ușor cu centrul orașului, ceea ce o face utilă atât pentru conținut de călătorie, cât și pentru cel comercial. Ca reper portuar, întărește rolul Copenhagăi de capitală nord-europeană modernă cu rădăcini maritime profunde."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A koppenhágai kikötő Dánia legnagyobb tengeri kapuja, amely történelmileg a város gazdaságának mozgatórugója volt. A Balti-tenger és az Északi-tenger közötti stratégiai fekvése miatt évszázadokon át kulcsfontosságú kereskedelmi csomópontként szolgált. Bár az ipari tevékenység egy része mára kiköltözött a belvárosból, a kikötő továbbra is Európa egyik legforgalmasabb tengerjáró (cruise) célpontja. Az egykori raktárépületeket és ipari dokkokat ma modern lakónegyedekké és rekreációs zónákká alakították át, mint például a Nordhavn területén. A kikötő vize ma olyan tiszta, hogy több kijelölt kikötői fürdőben is lehet úszni a nyári hónapokban. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Portul Copenhaga este un centru maritim istoric vital care s-a transformat complet într-o destinație urbană vibrantă și modernă. În timp ce facilitățile industriale și comerciale au fost treptat mutate, zonele vechi din centrul orașului, precum Nyhavn și Christianshavn, oferă astăzi o combinație fermecătoare de arhitectură maritimă istorică, cafenele de lux și spații de locuit de pe malul apei. Portul este renumit în întreaga lume pentru apele sale atât de curate încât municipalitatea a deschis mai multe băi portuare oficiale unde rezidenții pot înota direct în mare în timpul verii. În același timp, funcționează ca cel mai mare port de croazieră din Scandinavia, întâmpinând sute de nave internaționale gigantice anual. De la bărci solare electrice la feriboturi și iahturi private, activitatea din port definește pulsul capitalei.",
-      en: "The Port of Copenhagen is the largest maritime port in Denmark and a critical hub for the entire Baltic Sea region. Historically, the port was the foundation of the city's wealth and military power, handling massive trade volumes since the Middle Ages. Today, it has merged with the Port of Malmö to form Copenhagen Malmö Port (CMP), reflecting a highly integrated cross-border infrastructure. The port handles a diverse mix of commercial cargo, container traffic, and is notably one of the most popular cruise ship destinations in Northern Europe. The continuous modernization of the port areas has seamlessly integrated historic industrial zones with contemporary urban living spaces."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Koppenhága nevének eredeti jelentése ('Kereskedők kikötője') egyenesen a kikötő történelmi fontosságára utal.",
-        "A koppenhágai és a malmői kikötő 2001-ben egyesült, létrehozva a Copenhagen Malmö Port (CMP) vállalatot.",
-        "Az utóbbi évtizedekben a kikötő jelentős környezetvédelmi fejlesztéseken ment keresztül, biztosítva a tiszta vizet.",
-        "Több mint 300 sétahajó köt ki itt évente, közel 1 millió utast hozva a városba."
-      ],
-      ro: ["Băile portuare din Copenhaga, cum ar fi celebrul complex Islands Brygge, au o arhitectură inovatoare din lemn care permite înotul sigur direct în centrul capitalei.", "Terminalele moderne Ocean Quay (Oceankaj) pot gestiona simultan până la trei nave gigantice de croazieră și zeci de mii de pasageri zilnic.", "O rețea completă de autobuze acvatice (havnebusser) ecologice de culoare galbenă deservește portul, funcționând exact ca un sistem normal de transport public.", "Curățenia uimitoare a apelor portuare a fost obținută printr-o investiție masivă pe parcursul a 15 ani în redirecționarea completă a apelor uzate municipale.", "La nordul portului se construiește Nordhavn, un nou cartier urban masiv care va fi un exemplu internațional absolut de sustenabilitate ecologică și arhitecturală."],
-      en: ["The Port of Copenhagen welcomes over 300 cruise ships and one million cruise passengers annually.", "It is part of the Copenhagen Malmö Port, a unique bi-national port operation spanning Denmark and Sweden.", "Many former docklands, like Nordhavn, have been transformed into highly sustainable residential and commercial districts.", "The port's strategic location connects the Baltic Sea with the North Sea, making it essential for regional trade."]
-    },
-    facts: {
-      en: ["The port supports cruise and freight traffic.", "It is closely tied to Copenhagen's waterfront identity.", "The harbor links directly to the city center.", "It is one of Denmark's most important maritime hubs.", "The port reflects the capital's long seafaring history."],
-      de: ["Der Hafen unterstützt Kreuzfahrt- und Frachtverkehr.", "Er ist eng mit Kopenhagens Uferidentität verbunden.", "Der Hafen ist direkt mit dem Stadtzentrum verknüpft.", "Er ist einer der wichtigsten maritimen Knotenpunkte Dänemarks.", "Der Hafen spiegelt die lange Seefahrtsgeschichte der Hauptstadt wider."],
-      hu: ["A kikötő a cruise- és áruszállítást is szolgálja.", "Erősen kapcsolódik Koppenhága vízparti identitásához.", "A kikötő közvetlenül összekapcsolódik a belvárossal.", "Dánia egyik legfontosabb tengeri csomópontja.", "A kikötő a főváros hosszú hajózási múltját tükrözi."],
-      ro: ["Portul susține traficul de croaziere și marfă.", "Este strâns legat de identitatea de faleza a Copenhagăi.", "Portul este conectat direct cu centrul orașului.", "Este unul dintre cele mai importante noduri maritime ale Danemarcei.", "Portul reflectă lunga istorie maritimă a capitalei."]
-    },
-    image: "/geo-images/denmark/port-copenhagen.webp",
-  },
-  {
-    id: "port-aarhus",
-    type: "port",
-    parent: "DK",
-    coords: [10.2216, 56.1553],
-    name: { de: "Hafen Aarhus", hu: "Aarhusi kikötő", ro: "Portul Aarhus", en: "Port of Aarhus" },
-    description: {
-      en: "The Port of Aarhus is Denmark's largest container port and a powerful SEO term for logistics, shipping, and east Jutland commerce. It gives Aarhus a strong industrial edge while staying close to a lively urban center and cultural district. The port's scale makes it central to Danish trade and maritime infrastructure. For transport and business pages, this is one of the most important port names in the country.",
-      de: "Der Hafen Aarhus ist Dänemarks größter Containerhafen und ein starkes SEO-Thema für Logistik, Schifffahrt und den Handel in Ostjütland. Er verleiht Aarhus eine starke industrielle Note und liegt dennoch nahe an einem lebhaften Stadtzentrum und Kulturviertel. Die Größe des Hafens macht ihn zentral für den dänischen Handel und die maritime Infrastruktur. Für Transport- und Wirtschaftsseiten ist dies einer der wichtigsten Hafennamen des Landes.",
-      hu: "Az Aarhusi kikötő Dánia legnagyobb konténerkikötője és erős SEO-kifejezés a logisztika, a szállítmányozás és a kelet-jütlandi kereskedelem területén. Erős ipari karaktert ad Aarhusnak, miközben közel marad a nyüzsgő városközponthoz és kulturális negyedhez. Mérete kulcsszerepet ad neki a dán kereskedelemben és tengeri infrastruktúrában. Közlekedési és üzleti oldalak számára ez az egyik legfontosabb kikötőnév az országban.",
-      ro: "Portul Aarhus este cel mai mare port de containere al Danemarcei și un termen SEO puternic pentru logistică, transport maritim și comerț în estul Iutlandei. Oferă orașului Aarhus o latură industrială puternică, rămânând în același timp aproape de un centru urban animat și de cartiere culturale. Dimensiunea portului îl face central pentru comerțul danez și infrastructura maritimă. Pentru paginile despre transport și business, acesta este unul dintre cele mai importante nume de port din țară."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az aarhusi kikötő Dánia legnagyobb és legfontosabb teherkikötője, amely a nemzetközi kereskedelem fő ütőere az ország nyugati felén. A kikötő mély vizű létesítményei lehetővé teszik a világ legnagyobb konténerszállító hajóinak fogadását is. Az elmúlt években az aarhusi dokkok egy része hatalmas városfejlesztési projekten esett át, amelynek keretében létrejött a modern Aarhus Ø negyed. Ez a terület ikonikus, jéghegy alakú lakóépületekkel (Isbjerget) és modern kikötői fürdőkkel várja a lakókat és a turistákat. Az ipari teljesítmény és a fenntartható városfejlesztés lenyűgöző egyensúlya figyelhető meg itt. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Portul Aarhus este o centrală comercială formidabilă, recunoscut oficial drept cel mai mare port de containere din întreaga Danemarcă. Situat pe coasta de est a Peninsulei Iutlanda, portul se remarcă prin eficiența sa operațională incredibilă, manipulând majoritatea exporturilor industriale și agricole daneze. Zona limitrofă portului a fost subiectul uneia dintre cele mai grandioase dezvoltări urbane din Europa, denumită Aarhus Ø, unde silozurile de grâne și depozitele vechi au fost înlocuite de clădiri rezidențiale spectaculoase, precum faimosul complex 'Iceberg' (Isbjerget). Pe măsură ce industria grea se extinde mai departe spre mare, portul vechi s-a deschis cetățenilor, incluzând piețe stradale de alimente, biblioteci inovatoare și spații de recreere impresionante. Astfel, el ilustrează perfect echilibrul danez între dezvoltarea comercială brutală și calitatea înaltă a vieții comunitare.",
-      en: "The Port of Aarhus is Denmark's largest container port and the primary industrial gateway for international trade on the Jutland peninsula. It handles a significant majority of the country's maritime container traffic, serving as a vital link in global supply chains. The port has expanded aggressively over recent decades, featuring state-of-the-art logistics facilities, massive gantry cranes, and deep-water terminals. Despite its heavy industrial focus, the port area is continuously evolving, with the nearby modern 'Aarhus Ø' development blending residential life with the maritime environment. The port's efficiency and capacity make it an economic powerhouse for the region."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az aarhusi kikötő kezeli Dánia konténerforgalmának több mint 65 százalékát.",
-        "A dokkok bővítése folyamatos, jelenleg is új terminálok épülnek a tenger felé terjeszkedve.",
-        "A kikötő jelentős mezőgazdasági exportcsomópont, különösen a dán hús- és tejtermékek számára.",
-        "Az Aarhus Ø negyed építészeti díjak sokaságát nyerte el innovatív lakóépületeivel."
-      ],
-      ro: ["Portul Aarhus gestionează cu succes peste 65% din traficul național total de containere maritime al Danemarcei, fiind o poartă crucială către Marea Baltică.", "Complexul arhitectural Isbjerget (Aisbergul), situat exact în zona portuară revitalizată, a câștigat numeroase premii internaționale prestigioase pentru designul său curajos.", "Pentru a proteja spațiul vizual urban, portul industrial actual s-a extins intenționat dincolo de țărm prin ample și complexe procese de recuperare a pământului din mare.", "Dokk1, o structură publică uriașă din port, găzduiește cea mai mare bibliotecă publică modernă din Scandinavia, oferind și cel mai complet sistem de parcare robotizat din Europa.", "Sistemul feroviar intern al portului are conexiuni zilnice extrem de rapide care asigură un lanț complet de aprovizionare direct către inima Europei Centrale."],
-      en: ["The Port of Aarhus processes more than 60% of Denmark's total container traffic.", "It features some of the largest ship-to-shore gantry cranes in Northern Europe.", "The port is a crucial export hub for Danish agricultural and industrial products.", "Aarhus Ø, a new city district, is being built directly on former port industrial areas."]
-    },
-    facts: {
-      en: ["It is Denmark's largest container port.", "The port is a key trade hub for eastern Jutland.", "Aarhus combines port activity with a major urban center.", "The harbor plays a big role in Danish logistics.", "It is central to freight and shipping operations."],
-      de: ["Es ist Dänemarks größter Containerhafen.", "Der Hafen ist ein wichtiger Handelsknotenpunkt für Ostjütland.", "Aarhus verbindet Hafenbetrieb mit einem großen Stadtzentrum.", "Der Hafen spielt eine große Rolle in der dänischen Logistik.", "Er ist zentral für Fracht- und Schifffahrtsoperationen."],
-      hu: ["Ez Dánia legnagyobb konténerkikötője.", "A kikötő fontos kereskedelmi csomópont Kelet-Jütlandban.", "Aarhus a kikötői tevékenységet nagyvárosi központtal ötvözi.", "A kikötő nagy szerepet játszik a dán logisztikában.", "Központi szerepű az áruszállításban és a hajózásban."],
-      ro: ["Este cel mai mare port de containere din Danemarca.", "Portul este un nod comercial cheie pentru estul Iutlandei.", "Aarhus combină activitatea portuară cu un centru urban major.", "Portul joacă un rol mare în logistica daneză.", "Este central pentru operațiunile de marfă și transport maritim."]
-    },
-    image: "/geo-images/denmark/port-aarhus.webp",
-  },
-  {
-    id: "port-esbjerg",
-    type: "port",
-    parent: "DK",
-    coords: [8.4103, 55.4705],
-    name: { de: "Hafen Esbjerg", hu: "Esbjergi kikötő", ro: "Portul Esbjerg", en: "Port of Esbjerg" },
-    description: {
-      en: "The Port of Esbjerg is a crucial North Sea port and a strong SEO keyword for offshore wind, shipping, and coastal industry in Denmark. It has evolved from a fishing and export harbor into a major logistics base for energy and maritime services. The port's location makes it central to west coast trade and offshore operations. Esbjerg's harbor story is ideal for industrial and transport-focused travel content.",
-      de: "Der Hafen Esbjerg ist ein wichtiger Nordseehafen und ein starkes SEO-Thema für Offshore-Wind, Schifffahrt und Küstenindustrie in Dänemark. Er hat sich von einem Fischerei- und Exporthafen zu einem wichtigen Logistikstandort für Energie und maritime Dienstleistungen entwickelt. Seine Lage macht ihn zentral für den Handel an der Westküste und Offshore-Einsätze. Die Hafengeschichte Esbjergs eignet sich ideal für industrie- und transportorientierte Reiseinhalte.",
-      hu: "Az Esbjergi kikötő kulcsfontosságú északi-tengeri kikötő és erős SEO-kulcsszó az offshore szélenergia, a hajózás és a dániai parti ipar témájában. A halászati és exportkikötőből mára az energia és a tengeri szolgáltatások egyik fontos logisztikai bázisává vált. Fekvése a nyugati parti kereskedelem és az offshore műveletek központjává teszi. Esbjerg kikötői története ideális ipari és közlekedésközpontú utazási tartalmakhoz.",
-      ro: "Portul Esbjerg este un port crucial la Marea Nordului și un cuvânt-cheie SEO puternic pentru energia eoliană offshore, transport maritim și industrie de coastă în Danemarca. A evoluat de la un port de pescuit și export la o bază logistică majoră pentru energie și servicii maritime. Poziția sa îl face central pentru comerțul de pe coasta de vest și pentru operațiunile offshore. Povestea portului Esbjerg este ideală pentru conținutul de călătorie axat pe industrie și transport."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az esbjergi kikötő a Wadden-tenger partján található, és a világ egyik legfontosabb tengeri bázisa az offshore energiaipar számára. Míg a 19. századi alapításakor az elsődleges cél a Nagy-Britanniába irányuló mezőgazdasági export támogatása volt, a 20. század végétől a fókusz az Északi-tengeri olaj- és gázkitermelésre helyeződött át. Ma a kikötő az offshore szélerőművek telepítésének és karbantartásának globális központja, hatalmas turbinalapátok és alkatrészek sorakoznak a dokkokban. Ez a nyüzsgő tengeri csomópont kulcsszerepet játszik Dánia zöld energia átmenetében. A hatalmas teherhajók és speciális daruk lenyűgöző látványt nyújtanak a látogatóknak. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Portul Esbjerg de pe coasta Mării Nordului este o minune a ingineriei umane, fiind inițial construit la sfârșitul secolului al XIX-lea dintr-o pură necesitate națională după pierderea altor teritorii vitale. Astăzi, el s-a transformat total de la cel mai mare port pescăresc al națiunii la indiscutabila capitală a energiei eoliene offshore a Europei. De-a lungul cheiurilor sale nesfârșite, componente colosale ale turbinelor eoliene, precum palete și nacelă, așteaptă să fie încărcate pe nave specializate uriașe pentru a fi asamblate în largul mării. Zona portuară fuzionează organic cu peisajele protejate ale Mării Wadden (Vadehavet), o arie UNESCO unde se pot observa fenomene incredibile de maree. Vibrația industrială, macarelele gigantice și determinarea oamenilor care lucrează acolo subliniază dedicarea exclusivă a Danemarcei pentru un viitor energetic verde absolut.",
-      en: "The Port of Esbjerg is the leading port in Denmark for the offshore industry, uniquely positioned on the west coast of Jutland facing the North Sea. Established in the late 19th century to facilitate agricultural exports, it has dramatically evolved into a global powerhouse for the offshore energy sector. The port is the world's largest base for the shipping and installation of offshore wind turbines. It also serves as a critical support hub for oil and gas extraction in the North Sea. The vast, bustling port areas are a testament to Denmark's ambitious transition toward renewable energy dominance."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az esbjergi kikötőt 1868-ban kezdték építeni, hogy pótolják a porosz háborúban elvesztett altonai kikötőt.",
-        "A kikötőből eddig több mint 4000 tengeri szélturbinát szállítottak ki az Északi-tengerre.",
-        "Esbjerg több mint ezer cégnek ad otthont, amelyek többsége az energiaiparhoz kapcsolódik.",
-        "A kikötő teljes területe meghaladja a 4,5 millió négyzetmétert."
-      ],
-      ro: ["Peste trei sferturi din toate turbinele eoliene marine instalate în apele continentului european au trecut fizic prin portul Esbjerg la un moment dat.", "Esbjerg se bucură de poziția favorabilă rară de a fi principalul hub de deservire și întreținere pentru masivele câmpuri petroliere și gaziere daneze din Marea Nordului.", "Istoric, din acest port s-au realizat primele exporturi rurale organizate și masive de bacon, unt și ouă de la fermele daneze către piața din Marea Britanie.", "Pentru a acomoda palele de turbină din ce în ce mai gigantice, drumurile interne și structura portului sunt continuu ranforsate și lărgite masiv.", "Feriboturile frecvente pleacă direct din portul Esbjerg către mica și frumoasa insulă Fanø, o călătorie relaxantă și esențială de doar 12 minute."],
-      en: ["Esbjerg is globally recognized as the world's largest port for handling offshore wind turbines.", "The port covers an immense area of over 4.5 million square meters.", "It was originally founded by the Danish state in 1868 to secure a viable North Sea export harbor.", "The port provides direct ferry and freight connections to the United Kingdom and other international markets."]
-    },
-    facts: {
-      en: ["The port is important for offshore wind logistics.", "It supports North Sea shipping and services.", "Esbjerg grew as a major export harbor.", "The port is central to west coast industry.", "It is one of Denmark's most strategically useful ports."],
-      de: ["Der Hafen ist wichtig für die Offshore-Windlogistik.", "Er unterstützt Schifffahrt und Dienstleistungen in der Nordsee.", "Esbjerg wuchs als wichtiger Exporthafen.", "Der Hafen ist zentral für die Industrie an der Westküste.", "Er gehört zu Dänemarks strategisch nützlichsten Häfen."],
-      hu: ["A kikötő fontos az offshore szélenergia logisztikájában.", "Támogatja az északi-tengeri hajózást és szolgáltatásokat.", "Esbjerg nagy exportkikötőként nőtt fel.", "A kikötő központi szerepű a nyugati parti iparban.", "Dánia egyik stratégiailag leghasznosabb kikötője."],
-      ro: ["Portul este important pentru logistica energiei eoliene offshore.", "Sprijină transportul maritim și serviciile din Marea Nordului.", "Esbjerg a crescut ca port major de export.", "Portul este central pentru industria de pe coasta de vest.", "Este unul dintre cele mai utile porturi strategice ale Danemarcei."]
-    },
-    image: "/geo-images/denmark/port-esbjerg.webp",
-  },
-  {
-    id: "port-frederikshavn",
-    type: "port",
-    parent: "DK",
-    coords: [10.5402, 57.4460],
-    name: { de: "Hafen Frederikshavn", hu: "Frederikshavni kikötő", ro: "Portul Frederikshavn", en: "Port of Frederikshavn" },
-    description: {
-      en: "The Port of Frederikshavn is a vital ferry port in northern Denmark and a highly useful SEO term for travel to Sweden, Norway, and the Baltic. It has long served both commercial shipping and passenger routes, giving the town a distinctly maritime identity. The harbor area underlines the city's role as a transport gateway to Scandinavia. Frederikshavn port content works well for ferry schedules, island access, and northern coastal routes.",
-      de: "Der Hafen Frederikshavn ist ein wichtiger Fährhafen in Norddänemark und ein sehr nützliches SEO-Thema für Reisen nach Schweden, Norwegen und in den Ostseeraum. Er diente lange sowohl dem Handelsschiffverkehr als auch Passagierlinien und verleiht der Stadt eine ausgeprägt maritime Identität. Das Hafengebiet unterstreicht die Rolle der Stadt als Verkehrstor nach Skandinavien. Hafeninhalte zu Frederikshavn eignen sich gut für Fährpläne, Inselzugänge und nördliche Küstenrouten.",
-      hu: "A Frederikshavni kikötő létfontosságú kompkikötő Észak-Dániában, és rendkívül hasznos SEO-kifejezés Svédország, Norvégia és a balti térség felé utazók számára. Régóta szolgálja mind a kereskedelmi hajózást, mind az utasjáratokat, ami erősen tengeri identitást ad a városnak. A kikötői terület kiemeli a város szerepét mint skandináv közlekedési kapu. A frederikshavni kikötő tartalma jól működik menetrendekhez, szigetek eléréséhez és északi tengerparti útvonalakhoz.",
-      ro: "Portul Frederikshavn este un port de feribot vital în nordul Danemarcei și un termen SEO foarte util pentru călătoriile către Suedia, Norvegia și zona baltică. A servit mult timp atât transportului comercial, cât și rutelor de pasageri, conferind orașului o identitate maritimă clară. Zona portuară subliniază rolul orașului ca poartă de transport spre Scandinavia. Conținutul despre portul Frederikshavn funcționează bine pentru orare de feribot, acces la insule și rute de coastă nordice."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A frederikshavni kikötő Észak-Jütland létfontosságú tengeri csomópontja, amely Dániát köti össze Norvégiával és Svédországgal. A folyamatos kompjáratoknak köszönhetően a kikötő hatalmas személy- és teherforgalmat bonyolít le, és kaput nyit Skandinávia felé. A kikötő híres magas szintű hajójavító és hajóépítő szolgáltatásairól is, amelyeket modern szárazdokkok támogatnak. A haditengerészet is fenntart itt egy támaszpontot, hangsúlyozva a hely stratégiai jelentőségét. A dokkok körüli pezsgő élet és az érkező kompok látványa meghatározza Frederikshavn városának dinamikus arculatát. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Portul Frederikshavn este coloana vertebrală și sufletul extremității nordice a Iutlandei, funcționând ca o legătură absolut vitală pentru întregul transport din zona scandinavă. Este recunoscut în special pentru traficul comercial imens de feriboturi, care aduc și duc zilnic pasageri, autoturisme private și camioane imense de marfă între Danemarca, Suedia și Norvegia. Fără acest port strategic, economia regiunii de nord și a țărilor vecine ar fi complet paralizată. În plus, portul dispune de șantiere navale extrem de avansate tehnologic și oferă o arie largă de servicii pentru navele mari de război și flotele de pescuit locale. Peisajul său este dominat de siluetele impunătoare ale navelor „Stena Line”, în timp ce tavernele locale încă mai păstrează aerul rustic al mateloților de odinioară.",
-      en: "The Port of Frederikshavn is an essential commercial and ferry port located at the northern tip of the Jutland peninsula. It serves as a major strategic maritime gateway connecting Denmark directly with Sweden and Norway. The port has a rich history deeply tied to shipbuilding and naval operations, reflecting its critical position guarding the Kattegat strait. Today, it remains a bustling hub for passenger ferries, cargo transport, and the fishing industry. The port has recently undergone significant expansions to accommodate larger vessels and support sustainable maritime technologies, cementing its importance in regional logistics."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A kikötőből naponta indulnak Stena Line és DFDS kompok Göteborg és Oslo felé.",
-        "A kikötőt az elmúlt években jelentősen kibővítették, hogy még nagyobb teherhajókat és olajfúró tornyokat fogadhasson.",
-        "A hajó-újrahasznosítás (bontás) egyre fontosabb és fenntartható iparággá válik a kikötőben.",
-        "A terület egyben fontos halászkikötő is, különösen a nyílt tengeri vonóhálós hajók számára."
-      ],
-      ro: ["Frederikshavn deține onorabilul titlu istoric de a fi cel de-al doilea cel mai aglomerat port de feriboturi comerciale la nivel național din Danemarca.", "Instalațiile portuare complexe ocupă un spațiu fizic masiv care depășește proporțional chiar dimensiunea rezidențială efectivă a orașului propriu-zis.", "Apropierea relativă unică de orașul Göteborg din Suedia transformă portul într-o opțiune populară rapidă pentru cumpărături peste graniță pe feribot în weekend.", "În mod oficial, Danemarca menține în permanență un element dedicat al marinei sale naționale cantonat strategic în cadrul structurii portului Frederikshavn.", "Baza navală oferă adăpost sigur și vital pentru unicul și cel mai cunoscut vas-școală regal din Danemarca, nava „Danmark”, construită istoric în 1932."],
-      en: ["Frederikshavn is one of the busiest passenger ferry ports in Denmark, linking to Oslo and Gothenburg.", "The port has recently established advanced facilities for environmentally friendly ship recycling.", "It is a key base for the Danish naval fleet operating in northern waters.", "The town originally grew as a fortified naval harbor known as Fladstrand before becoming a commercial port."]
-    },
-    facts: {
-      en: ["It is a major ferry gateway to Sweden and Norway.", "The port has long supported passenger travel.", "It also serves commercial shipping needs.", "Frederikshavn is a key maritime town in northern Jutland.", "The harbor is important for island connections."],
-      de: ["Es ist ein wichtiger Fährknotenpunkt nach Schweden und Norwegen.", "Der Hafen unterstützt seit langem den Passagierverkehr.", "Er dient auch den Bedürfnissen der Frachtschifffahrt.", "Frederikshavn ist eine wichtige Hafenstadt in Nordjütland.", "Der Hafen ist wichtig für Inselverbindungen."],
-      hu: ["Fontos kompkapu Svédország és Norvégia felé.", "A kikötő régóta támogatja az utasforgalmat.", "A kereskedelmi hajózás igényeit is kiszolgálja.", "Frederikshavn Észak-Jütland fontos tengeri városa.", "A kikötő fontos a szigetkapcsolatok miatt."],
-      ro: ["Este o poartă majoră cu feribotul către Suedia și Norvegia.", "Portul susține de mult timp transportul de pasageri.", "Servește și nevoilor de transport comercial.", "Frederikshavn este un oraș maritim important în nordul Iutlandei.", "Portul este important pentru legăturile cu insulele."]
-    },
-    image: "/geo-images/denmark/port-frederikshavn.webp",
-  },
-  {
-    id: "ind-carlsberg-brewery",
-    type: "industry",
-    parent: "DK",
-    coords: [12.5344, 55.6641],
-    name: { de: "Carlsberg-Brauerei", hu: "Carlsberg sörgyár", ro: "Berea Carlsberg", en: "Carlsberg Brewery" },
-    description: {
-      en: "Carlsberg Brewery is one of Denmark's most famous industrial landmarks and a strong SEO keyword for beer history, branding, and Copenhagen industry tours. The site tells the story of a global company that shaped Danish exports and helped define modern brewing culture. Visitors can connect the brewery with architecture, innovation, and the wider Carlsberg district in Copenhagen. It is an excellent fit for pages about Danish industry with a heritage angle.",
-      de: "Die Carlsberg-Brauerei ist eines der berühmtesten Industriedenkmäler Dänemarks und ein starkes SEO-Thema für Biergeschichte, Marke und Industrietouren in Kopenhagen. Der Ort erzählt die Geschichte eines globalen Unternehmens, das dänische Exporte prägte und die moderne Braukultur mitformte. Besucher können die Brauerei mit Architektur, Innovation und dem größeren Carlsberg-Viertel in Kopenhagen verbinden. Sie passt hervorragend zu Seiten über dänische Industrie mit historischem Bezug.",
-      hu: "A Carlsberg sörgyár Dánia egyik leghíresebb ipari jelképe és erős SEO-kulcsszó a sörtörténet, a márka és a koppenhágai ipari túrák témájában. A helyszín egy globális vállalat történetét meséli el, amely formálta a dán exportot és meghatározta a modern sörfőzést. A látogatók az építészettel, az innovációval és a koppenhágai Carlsberg-negyeddel is összekapcsolhatják. Kiválóan illik a dán iparról szóló, örökségi szempontú oldalakhoz.",
-      ro: "Berea Carlsberg este unul dintre cele mai faimoase repere industriale ale Danemarcei și un cuvânt-cheie SEO puternic pentru istoria berii, branding și tururi industriale în Copenhaga. Situl spune povestea unei companii globale care a modelat exporturile daneze și cultura modernă a berii. Vizitatorii pot lega fabrica de arhitectură, inovație și de cartierul mai larg Carlsberg din Copenhaga. Este o alegere excelentă pentru paginile despre industria daneză cu accent pe patrimoniu."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Carlsberg Sörfőzde a dán ipartörténet egyik legfontosabb helyszíne, amelyet J.C. Jacobsen alapított 1847-ben Koppenhágában. A sörfőzde komplexuma, a Carlsberg Byen, mára egy nyüzsgő városrésszé alakult, ahol a modern építészet és a 19. századi indusztriális műemlékek találkoznak. Az ikonikus Elefánt-kapu (Elefantporten), amelyet négy gránitelefánt tart, a sörgyár legismertebb szimbóluma. Bár a nagyüzemi sörgyártás nagy része kiköltözött a fővárosból, a régi épületekben látogatóközpont, mikrosörfőzde és múzeum működik. A Carlsberg a dán kultúra és az innovatív sörkészítés globális nagykövete. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Fosta Fabrică de Bere Carlsberg din districtul Valby, Copenhaga, este un loc legendar care marchează însăși nașterea uneia dintre cele mai respectate beri din întreaga lume. Fondată în 1847 de către pasionatul JC Jacobsen, zona arhitecturală include clădiri industriale spectaculoase din cărămidă roșie, decorate generos cu turnuri, portaluri și mozaicuri unice. Faimoasa 'Poartă a Elefanților' și sculpturile sale colosale impresionează și astăzi orice vizitator al vechiului sit industrial de producție. Astăzi, producția grea a fost mutată complet din oraș, dar locul original s-a transformat spectaculos în „Cartierul Carlsberg” (Carlsberg Byen), un amestec vibrant de rezidențe urbane avangardiste, spații de cultură alternativă și tururi istorice ale vechilor berării. Este o experiență profundă despre modul în care industria berii a influențat efectiv cultura, arta și dezvoltarea arhitecturală a națiunii daneze.",
-      en: "The historical Carlsberg Brewery in Copenhagen is the birthplace of one of the world's most famous beer brands. Founded in 1847 by J.C. Jacobsen, the brewery area is a monumental piece of Danish industrial history, featuring impressive 19th-century architecture like the iconic Elephant Gate. Jacobsen was a pioneer of modern brewing, famously sharing the pure yeast strain developed in his laboratories with the rest of the world. The expansive industrial site is currently undergoing a massive transformation into the 'Carlsberg City District', a vibrant new urban neighborhood. The legacy of the brewery profoundly impacted Danish culture, funding massive artistic and scientific endeavors."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "J.C. Jacobsen a fiáról, Carlról és a dombos ('berg') elhelyezkedésről nevezte el a sörfőzdét.",
-        "A sörfőzde laboratóriumában Emil Christian Hansen professzor 1883-ban először izolálta a tiszta élesztőkultúrát (Saccharomyces carlsbergensis).",
-        "Az alapító fia, Carl Jacobsen hozta létre a Ny Carlsberg Glyptotek művészeti múzeumot a sörfőzde bevételeiből.",
-        "A gyárterületen még mindig tartanak jütlandi igáslovakat, amelyekkel hagyományosan a sört szállították."
-      ],
-      ro: ["Laboratorul vechi de cercetare Carlsberg de aici a izolat și cultivat pentru prima dată în istoria omenirii tulpina pură completă a drojdiei de bere 'Saccharomyces carlsbergensis'.", "Fondatorul original, Jacobsen, a numit efectiv masiva fabrică „Carlsberg” onorându-și direct fiul său pe nume Carl, precum și dealul („bjerg” în daneză) pe care a fost ridicată.", "Poarta masivă din piatră a Elefanților este ornată curios cu simboluri antice ale zvasticii indiene, care pe atunci reprezentau un simbol vechi comun pentru prosperitate și noroc bun.", "O componentă populară a vechii berării sunt hergheliile tradiționale care încă adăpostesc faimoșii cai solizi de rasă Jutland, folosiți inițial la transportul de căruțe de bere grele.", "Fundația Carlsberg imensă, creată în 1876 din profiturile directe ale fabricii, sprijină oficial cu fonduri uriașe știința, literatura și mai ales artele frumoase daneze."],
-      en: ["The iconic Elephant Gate features four life-size granite elephants carrying the brewery's tower.", "Carlsberg's laboratory was the first to successfully isolate a pure strain of brewer's yeast in 1883.", "J.C. Jacobsen founded the Ny Carlsberg Glyptotek, one of Denmark's most important art museums.", "The brewery site houses the world's largest collection of unopened beer bottles, numbering over 22,000."]
-    },
-    facts: {
-      en: ["Carlsberg is one of Denmark's most famous brands.", "The brewery has deep roots in Copenhagen.", "It helped shape Danish beer culture worldwide.", "The Carlsberg district blends industry and urban renewal.", "It is a strong example of industrial heritage tourism."],
-      de: ["Carlsberg ist eine der bekanntesten Marken Dänemarks.", "Die Brauerei hat tiefe Wurzeln in Kopenhagen.", "Sie prägte die dänische Bierkultur weltweit.", "Das Carlsberg-Viertel verbindet Industrie und Stadterneuerung.", "Es ist ein starkes Beispiel für industriellen Kulturtourismus."],
-      hu: ["A Carlsberg Dánia egyik leghíresebb márkája.", "A sörgyár mély gyökerekkel rendelkezik Koppenhágában.", "Világszerte formálta a dán sörkultúrát.", "A Carlsberg-negyed az ipart és a városmegújítást ötvözi.", "Erős példa az ipari örökségturizmusra."],
-      ro: ["Carlsberg este unul dintre cele mai faimoase branduri ale Danemarcei.", "Berea are rădăcini adânci în Copenhaga.", "A modelat cultura berii daneze la nivel mondial.", "Districtul Carlsberg combină industria cu regenerarea urbană.", "Este un exemplu puternic de turism al patrimoniului industrial."]
-    },
-    image: "/geo-images/denmark/carlsberg-brewery.webp",
-  },
-  {
-    id: "ind-lego-factory-billund",
-    type: "industry",
-    parent: "DK",
-    coords: [9.1200, 55.7305],
-    name: { de: "LEGO-Fabrik Billund", hu: "Billundi LEGO gyár", ro: "Fabrica LEGO Billund", en: "LEGO Factory Billund" },
-    description: {
-      en: "The LEGO Factory in Billund is an important industrial landmark and a high-performing SEO term for toys, manufacturing, and Danish innovation. It stands at the origin of a global brand that began as a small Danish workshop and grew into one of the world's best-known companies. The factory area ties directly to the story of Billund as a creative family destination. For industry and business content, LEGO Factory Billund is both practical and iconic.",
-      de: "Die LEGO-Fabrik in Billund ist ein wichtiges Industriedenkmal und ein starkes SEO-Thema für Spielzeug, Produktion und dänische Innovation. Sie steht am Ursprung einer globalen Marke, die als kleine dänische Werkstatt begann und zu einem der bekanntesten Unternehmen der Welt wurde. Das Fabrikgelände ist eng mit der Geschichte Billunds als kreatives Familienziel verbunden. Für Industrie- und Wirtschaftsinhalte ist die LEGO-Fabrik Billund sowohl praktisch als auch ikonisch.",
-      hu: "A billundi LEGO gyár fontos ipari jelkép és erős SEO-kulcsszó a játékok, a gyártás és a dán innováció témájában. Egy globális márka eredeténél áll, amely kis dán műhelyként indult, majd a világ egyik legismertebb vállalatává nőtte ki magát. A gyárterület szorosan kapcsolódik Billund kreatív családi célponttá válásához. Ipari és üzleti tartalmakhoz a LEGO gyár egyszerre praktikus és ikonikus.",
-      ro: "Fabrica LEGO din Billund este un reper industrial important și un termen SEO performant pentru jucării, producție și inovație daneză. Se află la originea unui brand global care a început ca un mic atelier danez și a devenit una dintre cele mai cunoscute companii din lume. Zona fabricii este strâns legată de povestea lui Billund ca destinație creativă pentru familii. Pentru conținutul despre industrie și business, fabrica LEGO din Billund este în același timp practică și iconică."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A billundi LEGO gyár a világ legismertebb építőjátékának szülőhelye és legfontosabb gyártóközpontja. Bár a LEGO mára globális nagyvállalattá nőtt, a billundi gyár továbbra is a vállalat szíve és az innováció központja. A hatalmas, csúcstechnológiás üzemben naponta több millió apró műanyag kockát fröccsöntenek hibátlan precizitással. Bár a gyár belső területei a nagyközönség számára csak korlátozottan, speciális túrák keretében látogathatók, a környék atmoszférája mélyen át van itatva a kreativitással. A gyár jelentős lépéseket tesz a fenntarthatóság felé, célul tűzve ki a növényi alapú és újrahasznosított műanyagok használatát. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Fabrica principală LEGO din orășelul Billund, Danemarca, este centrul nervos și inima istorică a celui mai iubit brand global de jucării de construcție. Aici, procesele industriale extrem de avansate, care folosesc mașinării colosale de turnare prin injecție de mare precizie, funcționează non-stop pentru a crea milioane de cărămizi individuale din plastic. Precizia germanică și inovația permanentă a inginerilor danezi au făcut ca o cărămidă produsă în anul 1958 să se poată cupla perfect cu una abia turnată astăzi. Fabrica în sine nu este în general deschisă publicului larg fără programare foarte strictă, însă prezența sa a transformat complet comunitatea locală Billund dintr-un sat agricol într-un hub internațional. Magia locului rezidă în faptul că aceste hale tăcute de metal ascund practic sursa de bucurie și creativitate pentru generații întregi de copii de pe toate continentele.",
-      en: "The LEGO Factory in Billund is the highly secure and incredibly efficient manufacturing heart of the global LEGO empire. Located in the town where Ole Kirk Christiansen invented the iconic interlocking brick, the factory is a marvel of modern automated manufacturing. Inside, massive molding machines operate 24 hours a day, precisely pressing molten plastic into billions of flawless bricks annually. The facility embodies the company's motto, 'Only the best is good enough', maintaining extraordinary standards of quality control. While mostly closed to the public, the sheer scale of production at this site sustains the imaginative play of millions globally."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A LEGO név a dán 'leg godt' kifejezésből származik, ami azt jelenti: 'játssz jól'.",
-        "Az ikonikus, ma is használt LEGO kocka dizájnját 1958-ban szabadalmaztatták Billundban.",
-        "A gyárban használt öntőformák precizitása eléri a 0,004 millimétert.",
-        "A billundi gyár naponta több mint 100 millió LEGO elemet gyárt le a legszigorúbb minőségi ellenőrzések mellett."
-      ],
-      ro: ["Compania enormă LEGO a fost fondată în anul 1932 ca un mic atelier local de jucării de lemn cioplite manual de tâmplarul simplu Ole Kirk Christiansen.", "Numele global „LEGO” provine direct din limba daneză din fraza specifică „leg godt”, care se traduce simplu și frumos prin cuvintele „joacă-te frumos”.", "Modelele matematice ale companiei estimează oficial că la nivel global se produc anual aproximativ impresionanta cifră de 36 de miliarde de cărămizi individuale de plastic.", "Sistemul avansat de stocare este automatizat la maxim, cu roboți care operează eficient într-un depozit întunecat pentru a muta pachetele grele cu piese abia turnate.", "Toleranța de precizie pentru eroare în turnarea oricărei forme individuale LEGO la fabrică este de abia incredibila limită de 10 micrometri (0,01 milimetri)."],
-      en: ["The molding machines in Billund produce billions of individual LEGO elements every single year.", "The precision of the molds is so high that only 18 out of every million bricks fail quality testing.", "The factory uses automated guided vehicles (AGVs) to transport freshly molded bricks across the factory floor.", "The iconic 2x4 LEGO brick was patented from this very town in 1958."]
-    },
-    facts: {
-      en: ["Billund is the home town of the LEGO brand.", "The factory area is linked to the company's origin story.", "LEGO became a global toy powerhouse.", "The site helps define Billund's identity.", "It is a key industrial name in Danish innovation."],
-      de: ["Billund ist die Heimatstadt der Marke LEGO.", "Das Fabrikgelände ist mit der Herkunftsgeschichte des Unternehmens verbunden.", "LEGO wurde zu einem globalen Spielzeuggiganten.", "Der Ort prägt die Identität Billunds.", "Es ist ein wichtiger Industriename der dänischen Innovation."],
-      hu: ["Billund a LEGO márka szülővárosa.", "A gyárterület a cég eredettörténetéhez kapcsolódik.", "A LEGO globális játékóriássá vált.", "A hely meghatározza Billund identitását.", "Fontos ipari név a dán innovációban."],
-      ro: ["Billund este orașul de origine al brandului LEGO.", "Zona fabricii este legată de povestea de început a companiei.", "LEGO a devenit un gigant global al jucăriilor.", "Situl ajută la definirea identității orașului Billund.", "Este un nume industrial cheie în inovația daneză."]
-    },
-    image: "/geo-images/denmark/lego-factory-billund.webp",
-  },
-  {
-    id: "hist-jelling-monuments",
-    type: "historical",
-    parent: "DK",
-    coords: [9.4169, 55.7581],
-    name: { de: "Jelling-Steine", hu: "Jelling-kövek", ro: "Pietrele de la Jelling", en: "Jelling Monuments" },
-    description: {
-      en: "The Jelling Monuments are one of Denmark's strongest historical SEO landmarks because they connect Viking power, royal origins, and UNESCO recognition in one site. The two rune stones and burial mounds mark a turning point in Danish history and are often described as the country's birth certificate. Visitors come here for the open landscape, the modern visitor center, and the deep story behind King Harold Bluetooth. Jelling is essential for travelers who want the roots of Denmark explained in a clear, memorable place.",
-      de: "Die Jelling-Steine gehören zu den stärksten historischen SEO-Wahrzeichen Dänemarks, weil sie Wikingermacht, königliche Ursprünge und UNESCO-Anerkennung an einem Ort verbinden. Die beiden Runensteine und Grabhügel markieren einen Wendepunkt der dänischen Geschichte und werden oft als Geburtsurkunde des Landes bezeichnet. Besucher kommen wegen der offenen Landschaft, des modernen Besucherzentrums und der großen Geschichte hinter König Harald Blauzahn. Jelling ist unverzichtbar für Reisende, die die Wurzeln Dänemarks an einem klaren, einprägsamen Ort verstehen wollen.",
-      hu: "A Jelling-kövek Dánia egyik legerősebb történelmi SEO-helyszínei, mert egyszerre kapcsolják össze a viking hatalmat, a királyi eredetet és az UNESCO-elismerést. A két rúnakő és a temetkezési halmok a dán történelem fordulópontját jelölik, és gyakran az ország születési anyakönyvi kivonatának nevezik őket. A látogatók az nyílt táj, a modern látogatóközpont és Harald Blåtand király nagy története miatt érkeznek ide. Jelling nélkülözhetetlen azoknak, akik egy emlékezetes helyen szeretnék megérteni Dánia gyökereit.",
-      ro: "Monumentele de la Jelling sunt unul dintre cele mai puternice repere istorice SEO ale Danemarcei, deoarece reunesc puterea vikingă, originile regale și recunoașterea UNESCO într-un singur sit. Cele două pietre runice și movilele funerare marchează un moment de cotitură în istoria daneză și sunt adesea numite certificatul de naștere al țării. Vizitatorii vin pentru peisajul deschis, centrul modern pentru vizitatori și povestea profundă a regelui Harald Bluetooth. Jelling este esențial pentru călătorii care vor să înțeleagă rădăcinile Danemarcei într-un loc clar și memorabil."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A jütlandi Jellingben található rúnakövek, halomsírok és a kis kőtemplom Dánia születési anyakönyvi kivonataként ismertek. Az UNESCO Világörökség részét képező komplexum a dán nemzetállam és a kereszténység kezdeteit szimbolizálja. A kisebbik rúnakövet Öreg Gorm király állíttatta felesége, Thyra emlékére, míg a nagyobbikat fiuk, Kékfogú Harald állíttatta szülei és saját tettei dicsőítésére. A nagyobbik kövön található felirat említi először egyben 'Dániát', és büszkén hirdeti a dánok keresztény hitre térését. A terület interaktív látogatóközpontja, a Kongernes Jelling, lenyűgöző vizuális élményt nyújt a viking korról. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Monumentele de la Jelling reprezintă cel mai venerat și semnificativ sit istoric național al Danemarcei, fiind adesea descris cu respect drept „certificatul de naștere al națiunii”. Complexul monumental UNESCO din secolul al X-lea este format din două tumuli funerari masivi cu aspect de movile verzi, două pietre runice imense și o veche biserică rustică din piatră albă. Prima piatră runică masivă a fost ridicată cu mândrie de regele Gorm cel Bătrân pentru a-și cinsti soția defunctă. Însă a doua piatră, uriașă și faimoasă, a fost sculptată direct de regele Harald Dinte Albastru (Harald Bluetooth), fiind primul document istoric gravat care folosește în mod explicit cuvântul „Danemarca” și care decretează introducerea noii religii creștine. Acest spațiu sacru deschide o fereastră emoționantă și esențială direct în inima tranziției scandinave dramatice de la vechii zei nordici la perioada civilizației creștine europene.",
-      en: "The Jelling Monuments are profound historical artifacts often referred to as Denmark's 'birth certificate', located in the small town of Jelling in Jutland. The site consists of two massive runestones, two enormous burial mounds, and a historic church. The larger runestone was erected by King Harald Bluetooth in the 10th century to commemorate his parents and to declare that he had united Denmark and brought Christianity to the Danes. These monuments represent the pivotal transition of the Danish people from pagan Viking traditions to a unified Christian nation. Recognized as a UNESCO World Heritage site, Jelling is an indispensable piece of European history."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Kékfogú Harald (Harald Bluetooth) rúnaköve után kapta a nevét a jól ismert vezeték nélküli Bluetooth technológia.",
-        "A nagyobbik rúnakövön található Krisztus-ábrázolás a legrégebbi ismert Dániában.",
-        "A két hatalmas, lapos halomsír valószínűleg pogány temetkezési hely volt, mielőtt a terület kereszténnyé vált.",
-        "A jellingi kövek 1994-ben Dánia első világörökségi helyszíneként kerültek fel az UNESCO listájára."
-      ],
-      ro: ["Piatra masivă impresionantă sculptată de regele Harald Dinte Albastru prezintă pe o parte cea mai veche și complexă imagine fizică a lui Hristos cunoscută vreodată în Peninsula Scandinavă.", "Regiunea regală veche Jelling a funcționat scurt timp drept sediul oficial central al regilor primordiali danezi înainte ca puterea să fie transferată strategic către orașul Roskilde.", "Cercetările tehnologice arheologice recente au dezvăluit complet existența unei vaste incinte defensive ascunse sub pământ, având structură de palisadă în formă precisă de navă uriașă.", "Tehnologia wireless faimoasă „Bluetooth” a primit numele exact de la regele Harald, deoarece inițial a „unit” dispozitive la fel cum el a unit odinioară triburile daneze rebele.", "Biserica rustică medievală situată direct între cei doi tumuli enormi a fost construită inițial integral din lemn rezistent, fiind ulterior modificată complet din piatră dură."],
-      en: ["The Jelling runestones are designated as a UNESCO World Heritage site.", "The larger stone features the oldest known depiction of Christ in Scandinavia.", "The monuments declare Harald Bluetooth's claim of 'making the Danes Christian'.", "The site represents the historical transition from the Viking Age to the Middle Ages in Denmark."]
-    },
-    facts: {
-      en: ["The monuments are a UNESCO World Heritage site.", "The rune stones date to the 10th century.", "Harald Bluetooth is linked to the site's royal message.", "The burial mounds are part of the historic landscape.", "Jelling is often called Denmark's birth certificate."],
-      de: ["Die Denkmale sind UNESCO-Weltkulturerbe.", "Die Runensteine stammen aus dem 10. Jahrhundert.", "Harald Blauzahn ist mit der königlichen Botschaft des Ortes verbunden.", "Die Grabhügel gehören zur historischen Landschaft.", "Jelling wird oft als Geburtsurkunde Dänemarks bezeichnet."],
-      hu: ["Az emlékhely UNESCO Világörökség része.", "A rúnakövek a 10. századból származnak.", "Harald Blåtand királyhoz köthető a hely uralkodói üzenete.", "A halomsírok a történelmi táj részei.", "Jellinget gyakran Dánia születési anyakönyvi kivonatának nevezik."],
-      ro: ["Monumentele sunt sit UNESCO al Patrimoniului Mondial.", "Pietrele runice datează din secolul al X-lea.", "Harald Bluetooth este legat de mesajul regal al sitului.", "Movilele funerare fac parte din peisajul istoric.", "Jelling este adesea numit certificatul de naștere al Danemarcei."]
-    },
-    image: "/geo-images/denmark/jelling-monuments.webp",
-  },
-  {
-    id: "hist-roskilde-cathedral",
-    type: "historical",
-    parent: "DK",
-    coords: [12.0809, 55.6421],
-    name: { de: "Dom von Roskilde", hu: "Roskildei katedrális", ro: "Catedrala din Roskilde", en: "Roskilde Cathedral" },
-    description: {
-      en: "Roskilde Cathedral is a major Danish historical site and one of the best SEO answers for visitors searching for royal tombs and UNESCO architecture. The brick Gothic cathedral has served as the burial church of Danish monarchs for centuries, making it a symbolic center of national memory. Its towers, interior chapels, and long lineage create a powerful blend of faith, monarchy, and craftsmanship. For Denmark history pages, Roskilde Cathedral is a must-have landmark with deep cultural weight.",
-      de: "Der Dom von Roskilde ist ein bedeutender historischer Ort in Dänemark und eine der besten SEO-Antworten für Besucher, die nach königlichen Gräbern und UNESCO-Architektur suchen. Die Backsteingotik-Kathedrale dient seit Jahrhunderten als Begräbniskirche der dänischen Monarchen und ist damit ein symbolisches Zentrum des nationalen Gedächtnisses. Ihre Türme, Innenkapellen und lange Geschichte schaffen eine kraftvolle Mischung aus Glaube, Monarchie und Handwerk. Für Dänemark-Historienseiten ist der Dom von Roskilde ein unverzichtbares Wahrzeichen mit großem kulturellem Gewicht.",
-      hu: "A roskildei katedrális jelentős dán történelmi helyszín, és az egyik legjobb SEO-válasz azoknak, akik királyi sírokra és UNESCO-építészetre keresnek. A téglagótikus katedrális évszázadok óta a dán uralkodók temetkező temploma, így a nemzeti emlékezet szimbolikus központja. Tornyai, belső kápolnái és hosszú története a hit, a monarchia és a mesteri kézművesség erős keverékét adják. Dánia történelmi oldalain ez kötelező látványosság a maga mély kulturális súlyával.",
-      ro: "Catedrala din Roskilde este un sit istoric major al Danemarcei și unul dintre cele mai bune răspunsuri SEO pentru vizitatorii care caută morminte regale și arhitectură UNESCO. Catedrala gotică din cărămidă a servit secole la rând drept biserică de înmormântare a monarhilor danezi, devenind un centru simbolic al memoriei naționale. Turnurile, capelele interioare și lunga sa genealogie creează un amestec puternic de credință, monarhie și măiestrie. Pentru paginile despre istoria Danemarcei, este un reper obligatoriu, cu o greutate culturală profundă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Roskilde-székesegyház (Roskilde Domkirke) a dán gótikus téglaépítészet legfontosabb alkotása és az UNESCO Világörökség része. Az 1170-es években megkezdett építkezés mérföldkő volt Skandináviában, mivel ez volt az egyik első nagy épület, amelyet égetett téglából emeltek. A székesegyház leginkább a dán uralkodóház, a Glücksburg- és az Oldenburg-ház hagyományos temetkezési helyeként ismert. Az évszázadok során hozzáépített kápolnák az európai építészettörténet különböző stílusait – a romanikától a barokkig és a neoklasszicizmusig – tükrözik. A templom fenséges ikertornyai évszázadok óta uralják a város látképét. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Catedrala din Roskilde, o clădire copleșitoare inclusă pe lista Patrimoniului Mondial UNESCO, este una dintre primele și cele mai maiestuoase catedrale construite exclusiv din cărămidă roșie în Europa de Nord. Arhitectura gotică impunătoare, cu turnurile sale ascuțite de cupru verde verdigris, domină vizual întregul oraș și zona fiordului înconjurător. Rolul său suprem în cultura daneză este acela de necropolă regală absolută; aici sunt înmormântați zeci de monarhi, de la fioroșii regi medievali din secolul al XV-lea, până la suveranii recenți. Fiecare capelă adosată de-a lungul secolelor navei principale reflectă fidel stilul arhitectural grandios la modă în perioada construcției sale: de la gotic pur, trecând prin renaștere și până la neoclasicism sobru. Plimbarea prin acest lăcaș uriaș este echivalentă, în esență, cu o imersiune emoționantă profundă prin toți cei 1000 de ani din istoria tumultoasă a monarhiei daneze.",
-      en: "Roskilde Cathedral is a magnificent architectural triumph and the most important church in Danish history, located on the island of Zealand. Built during the 12th and 13th centuries, it was the first Gothic cathedral to be constructed of brick, profoundly influencing the spread of this architectural style across Northern Europe. The cathedral is most famous as the traditional mausoleum of the Danish royal family, housing the ornate tombs of 39 kings and queens in a series of highly decorated chapels. Its soaring twin spires dominate the city's skyline, representing centuries of uninterrupted royal and religious heritage."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A székesegyházban összesen 39 dán királyt és királynőt temettek el, ami világrekord a királyi temetkezési helyek között.",
-        "A téglagótika itt alkalmazott stílusa egész Észak-Európában mintaként szolgált az egyházi építészetben.",
-        "A templom pompás főoltára Antwerpenben készült az 1500-as évek közepén.",
-        "A jelenlegi uralkodó, II. Margit királynő jövőbeli síremlékének modern dizájnját már elhelyezték az egyik kápolnában."
-      ],
-      ro: ["Catedrala regală din Roskilde servește neîntrerupt drept lăcașul principal oficial de odihnă regală pentru un număr total uluitor de 39 de regi și regine daneze.", "Biserica de mari dimensiuni a fost prima expresie monumentală pură a arhitecturii gotice majore realizată complet din cărămidă solidă în toată regiunea de est a Europei nordice.", "Construcția grandioasă a actualei structuri din cărămidă roșie a fost începută de puternicul episcop Absalon undeva în jurul secolului al XII-lea, durând peste un secol.", "Regina Margrethe I faimoasă, care a unificat cu autoritate Danemarca, Suedia și Norvegia sub Uniunea de la Kalmar, se odihnește onorată într-un sarcofag bogat sculptat chiar lângă altar.", "În prezent, în incinta sacră se pregătește activ monumentul funerar viitor complet personalizat din sticlă pentru fosta suverană Regina Margrethe a II-a a Danemarcei."],
-      en: ["Roskilde Cathedral has been a UNESCO World Heritage site since 1995.", "It is considered the pioneering building for Brick Gothic architecture in Northern Europe.", "The cathedral contains the tombs of 39 Danish monarchs, spanning over 1,000 years of royal history.", "The church's elaborate royal chapels showcase a stunning evolution of architectural styles from medieval to modern."]
-    },
-    facts: {
-      en: ["It is a UNESCO World Heritage site.", "Many Danish kings and queens are buried here.", "The cathedral is a masterpiece of brick Gothic architecture.", "Construction began in the 12th century.", "It remains one of the most important churches in Denmark."],
-      de: ["Es ist UNESCO-Weltkulturerbe.", "Viele dänische Könige und Königinnen sind hier begraben.", "Die Kathedrale ist ein Meisterwerk der Backsteingotik.", "Der Bau begann im 12. Jahrhundert.", "Sie bleibt eine der wichtigsten Kirchen Dänemarks."],
-      hu: ["UNESCO Világörökségi helyszín.", "Számos dán király és királynő nyugszik itt.", "A katedrális a tégla-gótika mesterműve.", "Az építkezés a 12. században kezdődött.", "Továbbra is Dánia egyik legfontosabb temploma."],
-      ro: ["Este sit UNESCO al Patrimoniului Mondial.", "Mulți regi și regine danezi sunt îngropați aici.", "Catedrala este o capodoperă a goticului din cărămidă.", "Construcția a început în secolul al XII-lea.", "Rămâne una dintre cele mai importante biserici din Danemarca."]
-    },
-    image: "/geo-images/denmark/roskilde-cathedral.webp",
-  },
-  {
-    id: "hist-frederiksborg-castle",
-    type: "historical",
-    parent: "DK",
-    coords: [12.3032, 55.9363],
-    name: { de: "Schloss Frederiksborg", hu: "Frederiksborg kastély", ro: "Castelul Frederiksborg", en: "Frederiksborg Castle" },
-    description: {
-      en: "Frederiksborg Castle in Hillerod is one of the most photogenic historical attractions in Denmark and a powerful SEO keyword for royal travel. Built during the Renaissance, it later became a museum of national history and a showcase for Danish monarchy and statecraft. The castle sits on lakes and gardens, creating a dramatic setting that feels both elegant and monumental. Travelers searching for castles in Denmark will find Frederiksborg Castle near the top of any serious list.",
-      de: "Schloss Frederiksborg in Hillerød ist eine der fotogensten historischen Attraktionen Dänemarks und ein starkes SEO-Thema für königliches Reisen. In der Renaissance erbaut, wurde es später zum Museum der Nationalgeschichte und zu einer Bühne für dänische Monarchie und Staatskunst. Das Schloss liegt auf Seen und in Gärten und schafft eine dramatische Kulisse, die zugleich elegant und monumental wirkt. Reisende, die nach Schlössern in Dänemark suchen, werden Frederiksborg ganz oben auf jeder ernsthaften Liste finden.",
-      hu: "A hillerødi Frederiksborg kastély Dánia egyik legfotogénebb történelmi látványossága és erős SEO-kulcsszó a királyi utazásokhoz. A reneszánsz idején épült, később pedig a nemzeti történelem múzeuma és a dán monarchia, valamint az államépítés bemutatóhelye lett. A kastély tavak és kertek közé épült, ami egyszerre elegáns és monumentális díszletet ad neki. A dán kastélyokat kereső utazók számára a Frederiksborg az első helyek egyikén szerepel.",
-      ro: "Castelul Frederiksborg din Hillerød este una dintre cele mai fotogenice atracții istorice din Danemarca și un cuvânt-cheie SEO puternic pentru turismul regal. Construit în perioada Renașterii, a devenit ulterior muzeu de istorie națională și o vitrină pentru monarhia daneză și arta guvernării. Castelul este amplasat pe lacuri și grădini, creând un cadru dramatic care pare și elegant, și monumental. Pentru călătorii care caută castele în Danemarca, Frederiksborg este printre primele opțiuni serioase."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Hillerødban található Frederiksborg-kastély Észak-Európa legnagyobb és legpompásabb reneszánsz kastélya. A három kis szigeten, egy festői tó közepén elterülő épületegyüttest IV. Keresztély dán király építtette a 17. század elején, hogy demonstrálja uralkodói hatalmát és Dánia gazdagságát. A kastély a holland reneszánsz stílus jegyeit viseli magán, gazdagon díszített homlokzatokkal, réz tetőkkel és tornyokkal. 1859-ben egy pusztító tűzvész nagy részét megsemmisítette, de a Carlsberg sörgyár alapítója, J.C. Jacobsen támogatásával teljesen újjáépítették. Ma a kastély ad otthont a Dán Nemzeti Történeti Múzeumnak, amely felbecsülhetetlen értékű festményeket és műtárgyakat mutat be. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Castelul Frederiksborg, adesea aclamat ca Versailles-ul Nordului, este cel mai mare și mai spectaculos complex de clădiri în stil renascentist olandez existent vreodată în țările scandinave. Așezat feeric pe trei insulițe interconectate pe lacul din centrul orașului Hillerød, aspectul său exterior este definit de cărămida roșie caldă, decorațiuni ample din gresie, frontoane luxuriante și turle din cupru elegant. Astăzi, clădirea uriașă găzduiește oficial Muzeul Național de Istorie al Danemarcei, care expune colecții neprețuite de portrete regale imense, mobilă de epocă somptuoasă și artă istorică. Sala Cavalerilor masivă și Capela bogat aurită sunt realizări artistice neprețuite de o grandoare copleșitoare absolută. Parcul baroc perfect simetric al castelului invită la plimbări nesfârșite și oferă peisaje vizuale de neuitat demne de cărți poștale europene clasice.",
-      en: "Frederiksborg Castle is an awe-inspiring royal residence situated on three small islands in the Castle Lake of Hillerød. Commissioned by King Christian IV in the early 17th century, it is the largest Renaissance castle in Scandinavia. The castle's striking copper roofs, intricate sandstone ornaments, and majestic courtyards reflect the absolute wealth and ambition of the Danish monarchy. Since 1878, it has housed the Museum of National History, offering an extensive journey through Danish history via its vast collection of portraits, historical paintings, and opulent interiors. The meticulously restored baroque gardens perfectly complement the castle's romantic grandeur."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A kastély gyönyörű kápolnája csodával határos módon épségben túlélte az 1859-es tűzvészt.",
-        "1671 és 1840 között a dán abszolút uralkodókat a Frederiksborg-kastély kápolnájában koronázták meg.",
-        "A kastély mögött egy szimmetrikus, teraszos barokk kert található, amelyet a 90-es években eredeti pompájában állítottak helyre.",
-        "A kastély lenyűgöző lovagterme falikárpitokkal és aranyozott mennyezettel idézi meg a régi királyi lakomákat."
-      ],
-      ro: ["Extravagantul rege Christian al IV-lea, considerat adesea cel mai celebru constructor al națiunii, a ridicat complexul arhitectural actual grandios la începutul anilor 1600.", "O conflagrație catastrofală majoră a mistuit teribil o mare parte a interiorului în anul 1859, fiind apoi reconstruit meticulos prin eforturi naționale uriașe și sponsorizări private de la J.C. Jacobsen.", "Capela regală magnifică a castelului nu a fost distrusă complet de flăcări, păstrând miraculos decorațiunile sale extravagante extrem de rare intacte până în zilele moderne.", "Capela de pe domeniu a fost folosită sistematic pentru ceremoniile formale de ungere sacră a tuturor monarhilor absoluți danezi succesivi între anii 1671 și 1840.", "Sistemul acustic impresionant al capelei include și o orgă istorică rară neprețuită denumită „Compenius”, datând din anul 1610, care încă este cântată activ manual în fiecare săptămână."],
-      en: ["Frederiksborg Castle is the largest and most significant Renaissance castle in Scandinavia.", "A devastating fire in 1859 destroyed much of the interior, but it was meticulously rebuilt with funding from J.C. Jacobsen of Carlsberg.", "The castle's chapel is adorned with silver, gold, and a historic organ built in 1610 that is still played today.", "The Museum of National History inside the castle was established by the Carlsberg Foundation."]
-    },
-    facts: {
-      en: ["It is located in Hillerod, north of Copenhagen.", "The castle houses the Museum of National History.", "Its lake setting is a major part of the experience.", "It was built by King Christian IV.", "The gardens are a key part of the site."],
-      de: ["Es liegt in Hillerød nördlich von Kopenhagen.", "Im Schloss befindet sich das Museum für Nationalgeschichte.", "Die Lage am See ist ein wesentlicher Teil des Erlebnisses.", "Es wurde von König Christian IV. erbaut.", "Die Gärten sind ein wichtiger Teil des Ortes."],
-      hu: ["Hillerødben, Koppenhágától északra található.", "A kastélyban a Nemzeti Történeti Múzeum működik.", "A tóparti fekvés az élmény egyik fő része.", "IV. Keresztély király építtette.", "A kertek a helyszín fontos részét képezik."],
-      ro: ["Se află în Hillerød, la nord de Copenhaga.", "Castelul găzduiește Muzeul de Istorie Națională.", "Amplasarea pe lac este o parte majoră a experienței.", "A fost construit de regele Christian IV.", "Grădinile sunt o parte esențială a sitului."]
-    },
-    image: "/geo-images/denmark/frederiksborg-castle.webp",
-  },
-  {
-    id: "hist-koldinghus",
-    type: "historical",
-    parent: "DK",
-    coords: [9.4735, 55.4921],
-    name: { de: "Koldinghus", hu: "Koldinghus", ro: "Koldinghus", en: "Koldinghus" },
-    description: {
-      en: "Koldinghus is a standout historical fortress for travelers who want castle architecture, royal history, and a central Jutland stop in one place. The castle dates back to the 13th century and has been rebuilt and restored after fire damage, which adds to its layered story. Today it works as a museum and a dramatic skyline feature above the city. Koldinghus is a strong SEO choice for anyone researching castles in southern Denmark.",
-      de: "Koldinghus ist eine herausragende historische Festung für Reisende, die Schlossarchitektur, Königsgeschichte und einen Stopp in Mitteljütland an einem Ort suchen. Die Burg stammt aus dem 13. Jahrhundert und wurde nach Brandschäden wiederaufgebaut und restauriert, was ihre vielschichtige Geschichte noch verstärkt. Heute dient sie als Museum und prägt als dramatisches Wahrzeichen die Stadtsilhouette. Koldinghus ist eine starke SEO-Wahl für alle, die nach Schlössern in Südjütland suchen.",
-      hu: "A Koldinghus kiemelkedő történelmi erőd azoknak, akik egy helyen keresnek kastélyépítészetet, királyi történelmet és közép-jütlandi megállót. A vár a 13. századból származik, és tűzkár után újjáépítették, illetve helyreállították, ami rétegzett történetet ad neki. Ma múzeumként működik, és drámai látványelemmé válik a város fölött. A Koldinghus erős SEO-választás mindazok számára, akik dél-dániai kastélyokat keresnek.",
-      ro: "Koldinghus este o fortăreață istorică remarcabilă pentru călătorii care vor arhitectură de castel, istorie regală și o oprire în centrul Iutlandei într-un singur loc. Castelul datează din secolul al XIII-lea și a fost reconstruit și restaurat după incendii, ceea ce îi adaugă o poveste stratificată. Astăzi funcționează ca muzeu și ca element dramatic al orizontului orașului. Koldinghus este o alegere SEO puternică pentru oricine caută castele în sudul Danemarcei."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Koldinghus a jütlandi Kolding felett magasodó egykori királyi vár, amely a középkorban Dánia déli határának legfontosabb védőbástyája volt. A 13. század közepén alapított erődítmény a századok során számos átépítésen esett át, fokozatosan kényelmes reneszánsz királyi rezidenciává alakult. Az 1808-as napóleoni háborúk idején, amikor spanyol csapatok állomásoztak itt, egy végzetes tűzvész során a vár romba dőlt, és majdnem két évszázadon át romként állt. A 20. század végén egy nemzetközileg is díjazott építészeti projekt keretében állították helyre, amely során a modern fagerendák és acélszerkezetek tiszteletben tartották az ősi romokat. Ma a Koldinghus múzeumként működik, bemutatva a vár történelmét és dán dizájnkiállításokat. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Koldinghus a fost timp de nenumărate secole cel mai important și masiv castel regal din întreaga peninsulă Iutlanda, fiind ridicat inițial strict ca o fortăreață de frontieră dură pentru a păzi regatul danez de sud. După ce a ars violent și a devenit aproape o ruină tristă la începutul secolului al XIX-lea, locul a suferit una dintre cele mai spectaculoase și unice reconversii de design arhitectural din toată istoria europeană a restaurărilor moderne. În loc de a ascunde sau șterge rănile focului antic, noile suprafețe interioare de lemn suspendat și stâlpii masivi din oțel contemporan încadrează dramatic cu respect zidurile scorojite și distruse. Astăzi, structura funcționează perfect ca un muzeu impresionant ce deține colecții masive de artă daneză din argint, pictură clasică și modă de elită. Amestecul senzațional de vechi distrus și arhitectură daneză contemporană oferă o emoție vizuală rară absolut de neegalat.",
-      en: "Koldinghus is a remarkable royal castle in Kolding, originally established in 1268 to guard the border between the Kingdom of Denmark and the Duchy of Schleswig. Over the centuries, it served as a medieval fortress, a Renaissance royal residence, and a strategic military stronghold. In 1808, during the Napoleonic Wars, a catastrophic fire broke out due to Spanish auxiliary troops, leaving the castle as an evocative ruin for over a century. Today, Koldinghus is celebrated for its award-winning architectural restoration, where modern wooden pillars and walkways elegantly support the preserved ancient ruins, creating a unique historical museum experience."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A várat 1268-ban alapította Erik Klipping király, hogy megvédje a Dán Királyságot déli szomszédaitól.",
-        "A helyreállítási munkálatok során a dán építészek arra törekedtek, hogy a tűzkár nyomait ne tüntessék el, hanem integrálják a dizájnba.",
-        "A hatalmas Öregtornyot IV. Keresztély király építtette, amelynek tetejéről négy óriási címerpajzs nézett a tájra.",
-        "A múzeumban található a dán ezüst- és zománcművészet egyik legnagyobb gyűjteménye."
-      ],
-      ro: ["Uriașul incendiu devastator din anul 1808 a fost de fapt cauzat în mod complet accidental de către soldații auxiliari spanioli trimiși greșit de Napoleon care s-au adăpostit în interior.", "Fortăreața originală strategică a fost fondată oficial în secolul al XIII-lea târziu, mai precis în anul 1268, sub domnia fermă a primului rege danez Erik Klipping.", "Faimoasa restaurare arhitecturală contemporană a durat decenii și a fost magistral condusă la perfecțiune de valoroșii arhitecți Inger și Johannes Exner, fiind lăudată la nivel mondial.", "Aripa modernă restaurată a primit din partea instituțiilor de artă prestigiosul premiu internațional major „Europa Nostra” ca apreciere pentru modul respectuos de conservare a ruinelor existente.", "Muzeul este recunoscut internațional pentru că deține cu sfințenie cea mai mare, importantă și vastă colecție regală de bijuterii fine și piese complexe din argint pur danez."],
-      en: ["Koldinghus functioned as a vital border fortress for centuries due to its strategic location in Southern Jutland.", "The catastrophic fire of 1808 was caused by Spanish soldiers trying to keep warm with oversized fires.", "The innovative restoration by architects Inger and Johannes Exner left the fire damage visible as part of the monument's history.", "The castle's museum features an extensive collection of Danish silver and modern design."]
-    },
-    facts: {
-      en: ["The castle dates to the 13th century.", "It was heavily damaged by fire and later restored.", "Koldinghus now operates as a museum.", "It overlooks the city from a central hill.", "The site is a major symbol of Kolding."],
-      de: ["Die Burg stammt aus dem 13. Jahrhundert.", "Sie wurde durch Feuer stark beschädigt und später restauriert.", "Koldinghus ist heute ein Museum.", "Sie überragt die Stadt von einem zentralen Hügel aus.", "Der Ort ist ein wichtiges Symbol von Kolding."],
-      hu: ["A vár a 13. századból származik.", "Tűz súlyosan megrongálta, majd helyreállították.", "Ma a Koldinghus múzeumként működik.", "Egy központi dombon magasodik a város fölé.", "A hely Kolding egyik fő jelképe."],
-      ro: ["Castelul datează din secolul al XIII-lea.", "A fost grav avariat de incendiu și apoi restaurat.", "Koldinghus funcționează acum ca muzeu.", "Domină orașul de pe un deal central.", "Situl este un simbol major al orașului Kolding."]
-    },
-    image: "/geo-images/denmark/koldinghus.webp",
-  },
-  {
-    id: "hist-christiansfeld",
-    type: "historical",
-    parent: "DK",
-    coords: [9.4861, 55.3572],
-    name: { de: "Christiansfeld", hu: "Christiansfeld", ro: "Christiansfeld", en: "Christiansfeld" },
-    description: {
-      en: "Christiansfeld is a unique planned settlement in southern Jutland and a compelling SEO destination for UNESCO heritage and religious history. Founded by the Moravian Church, the town is famous for its clean street layout, yellow brick buildings, and calm, ordered atmosphere. It offers a rare glimpse into 18th-century town planning and community life. Christiansfeld is ideal for travelers seeking a quiet historical town with strong architectural identity.",
-      de: "Christiansfeld ist eine einzigartige Planstadt in Südjütland und ein überzeugendes SEO-Ziel für UNESCO-Erbe und Religionsgeschichte. Die von der Brüdergemeine gegründete Stadt ist berühmt für ihren klaren Straßenplan, gelbe Backsteingebäude und ihre ruhige, geordnete Atmosphäre. Sie bietet einen seltenen Einblick in die Stadtplanung und das Gemeinschaftsleben des 18. Jahrhunderts. Christiansfeld ist ideal für Reisende, die eine ruhige historische Stadt mit starker architektonischer Identität suchen.",
-      hu: "Christiansfeld egy különleges tervezett település Dél-Jütlandban, és vonzó SEO-célpont az UNESCO-örökség és a vallástörténet iránt érdeklődőknek. A morva egyház által alapított város rendezett utcahálózatáról, sárga téglaházairól és nyugodt, fegyelmezett hangulatáról híres. Ritka bepillantást ad a 18. századi várostervezésbe és közösségi életbe. Christiansfeld ideális azoknak, akik csendes, erős építészeti identitással rendelkező történelmi várost keresnek.",
-      ro: "Christiansfeld este o așezare planificată unică în sudul Iutlandei și o destinație SEO convingătoare pentru patrimoniu UNESCO și istorie religioasă. Fondat de Biserica Moravă, orașul este renumit pentru planul său ordonat al străzilor, clădirile din cărămidă galbenă și atmosfera calmă și disciplinată. Oferă o imagine rară asupra urbanismului și vieții comunitare din secolul al XVIII-lea. Christiansfeld este ideal pentru călătorii care caută un oraș istoric liniștit, cu identitate arhitecturală puternică."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Christiansfeld egy különleges, tökéletesen megtervezett település Dél-Jütlandon, amelyet a morva egyház (Herrnhuti testvérgyülekezet) tagjai alapítottak 1773-ban. Az UNESCO Világörökség részét képező városka a sárga téglás, vörös cseréptetős házak szigorú, rácsos elrendezéséről híres, amely a vallási közösség egyenlőségre épülő ideológiáját tükrözi. VII. Keresztély dán király adományozta a területet a közösségnek, hogy ipari és kereskedelmi tudásukkal fellendítsék a régiót. A város központja a templomtér (Kerkplads), amelyet hársfák öveznek. Christiansfeld ma is őrzi békés, spirituális atmoszféráját, és világszerte ismert finom mézeskalácsáról. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Christiansfeld este un miracol planificat al urbanismului european timpuriu, inclus recent în mod justificat pe Lista exclusivă a Patrimoniului Mondial UNESCO din Danemarca. Orașul idilic a fost construit practic de la zero în 1773 de către o comunitate religioasă refugiată denumită Frații Moravi, care primiseră personal invitația și scutiri mari de taxe direct de la Regele Christian al VII-lea. Așezarea are o structură complet diferită de orașele organice daneze, remarcându-se printr-o rețea de străzi uimitor de perfect paralele, piețe urbane aliniate, clădiri uniforme impecabile din cărămidă de nuanță galbenă și niciun acoperiș ieșit inestetic din comun. Filosofia spirituală egalitară și calmă a congregației transpare și astăzi cu forță clară direct în designul arhitectural sobru, fără ostentație și curat al întregii așezări. În prezent, micii artizani din oraș continuă de asemenea vechea și renumita tradiție de coacere a celor mai bune prăjituri speciale din turtă dulce daneză din toată națiunea.",
-      en: "Christiansfeld is an exceptionally well-preserved town in Southern Jutland, founded in 1773 by the Moravian Church. Designed as a utopian, egalitarian settlement, the town is defined by its strict, harmonious grid layout, yellow brick buildings, and distinct lack of social hierarchy in its architecture. It is considered one of the best-preserved Moravian settlements in the world, reflecting the religious and social ideals of the community. Christiansfeld is also famous for its traditional honey cakes (Honningkager), baked according to recipes dating back to the town's founding. Its unique architectural and cultural legacy earned it a UNESCO World Heritage designation in 2015."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A várost VII. Keresztély dán király tiszteletére nevezték el Christiansfeldnek.",
-        "A város szerkezete és építészete olyannyira egységes maradt, hogy 2015-ben felvették az UNESCO Világörökség listájára.",
-        "A hagyományos mézeskalácsot (honningkager) az 1780-as évek óta ugyanazon titkos recept alapján készítik itt.",
-        "A morva testvérek temetőjében ('Gudsageren') a sírkövek mind teljesen egyformák, szimbolizálva a halál előtti egyenlőséget."
-      ],
-      ro: ["Proiectarea unică la scară largă a așezării a influențat masiv mai târziu o mulțime mare de designeri și urbaniști importanți moderni aflați de-a lungul continentului scandinav.", "Cimitirul central local (Godsageren) reflectă clar credința egalitară supremă a bisericii, absolut toate pietrele masive funerare fiind identic plate și complet nediferențiate între oameni.", "Faimoasele prăjituri mari speciale de miere condimentată și turtă dulce produse după rețeta moravă originală din anii 1700 sunt exportate cu mare succes anual din micul oraș.", "Clădirea Bisericii Fraților din centru posedă proporții uriașe, putând fizic să acomodeze confortabil peste 1000 de participanți activi la rugăciune, neavând însă niciun fel de altar împodobit vizual.", "Complexul municipal Christiansfeld rămâne de departe cel mai bine, precis și intact conservat exemplu global rămas de fostă așezare comunitară aparținând comunității strictelor congregații ale Fraților Moravi."],
-      en: ["Christiansfeld was designated as a UNESCO World Heritage site in 2015.", "The town was founded by the Moravian Brethren under the invitation of King Christian VII.", "Its architecture reflects a highly structured, egalitarian society with separate houses for unmarried men, women, and widows.", "The town's famous honey cakes have been baked continuously since 1783."]
-    },
-    facts: {
-      en: ["Christiansfeld is a UNESCO World Heritage site.", "It was founded by the Moravian Church in 1773.", "The town is known for its yellow brick buildings.", "Its layout reflects planned religious settlement design.", "Honey cakes from Christiansfeld are a local specialty."],
-      de: ["Christiansfeld ist UNESCO-Weltkulturerbe.", "Es wurde 1773 von der Brüdergemeine gegründet.", "Die Stadt ist für ihre gelben Backsteingebäude bekannt.", "Ihr Grundriss spiegelt die Planung religiöser Siedlungen wider.", "Honigkuchen aus Christiansfeld sind eine lokale Spezialität."],
-      hu: ["Christiansfeld UNESCO Világörökségi helyszín.", "1773-ban alapította a morva egyház.", "A város sárga téglaházairól ismert.", "Alaprajza a tervezett vallási települések mintáját követi.", "A Christiansfeld-i mézeskalács helyi specialitás."],
-      ro: ["Christiansfeld este sit UNESCO al Patrimoniului Mondial.", "A fost fondat în 1773 de Biserica Moravă.", "Orașul este cunoscut pentru clădirile sale din cărămidă galbenă.", "Planul său reflectă o așezare religioasă planificată.", "Prăjiturile cu miere din Christiansfeld sunt o specialitate locală."]
-    },
-    image: "/geo-images/denmark/christiansfeld.webp",
-  },
-  {
-    id: "hist-dybbol-banke",
-    type: "historical",
-    parent: "DK",
-    coords: [9.6837, 54.9124],
-    name: { de: "Dybbøl Banke", hu: "Dybbøl Banke", ro: "Dybbøl Banke", en: "Dybbøl Banke" },
-    description: {
-      en: "Dybbol Banke is one of Denmark's most important battlefields and a powerful SEO location for military history in southern Jutland. It is closely tied to the 1864 war and the Battle of Dybbol, which shaped Danish national identity for generations. The site now combines memorials, museum exhibits, and views across the former front line. Dybbol Banke is essential for visitors who want to understand a defining conflict in modern Danish history.",
-      de: "Dybbøl Banke ist eines der wichtigsten Schlachtfelder Dänemarks und ein starkes SEO-Ziel für Militärgeschichte in Südjütland. Es ist eng mit dem Krieg von 1864 und der Schlacht von Dybbøl verbunden, die die dänische nationale Identität über Generationen prägte. Der Ort verbindet heute Denkmäler, Museumsausstellungen und Ausblicke über die ehemalige Frontlinie. Dybbøl Banke ist unverzichtbar für Besucher, die einen prägende Konflikt der neueren dänischen Geschichte verstehen wollen.",
-      hu: "A Dybbøl Banke Dánia egyik legfontosabb csatamezője, és erős SEO-helyszín a dél-jütlandi hadtörténelemhez. Szorosan kapcsolódik az 1864-es háborúhoz és a dybbøli csatához, amely nemzedékeken át formálta a dán nemzeti identitást. A hely ma emlékhelyeket, múzeumi bemutatókat és kilátást kínál az egykori frontvonalra. Dybbøl Banke nélkülözhetetlen azoknak, akik meg akarják érteni a modern dán történelem egyik meghatározó konfliktusát.",
-      ro: "Dybbøl Banke este unul dintre cele mai importante câmpuri de luptă ale Danemarcei și o locație SEO puternică pentru istoria militară din sudul Iutlandei. Este strâns legat de războiul din 1864 și de Bătălia de la Dybbøl, care a modelat identitatea națională daneză timp de generații. Astăzi situl combină memoriale, expoziții muzeale și priveliști asupra vechii linii a frontului. Dybbøl Banke este esențial pentru vizitatorii care vor să înțeleagă un conflict definitoriu al istoriei daneze moderne."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Dybbøl Banke a dán történelem egyik legfontosabb és legszomorúbb emlékhelye, amely a Jütland déli részén, Sønderborg közelében található. Ez a dombvidék volt a helyszíne az 1864-es porosz–dán háború döntő csatájának, ahol a dán seregek hősies küzdelem után súlyos vereséget szenvedtek. A vereség eredményeként Dánia elvesztette területének mintegy harmadát, ami mélyen befolyásolta a modern dán nemzeti identitás és a békés, befelé forduló külpolitika kialakulását. A helyreállított Dybbøl Malom (Dybbøl Mølle) a dán kitartás és ellenállás nemzeti szimbólumává vált. Ma a Történelmi Központ interaktív kiállításokkal és korhű bemutatókkal állít emléket az elesett katonáknak. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Centrul Istoric Național Dybbøl Banke, amplasat strategic printre câmpiile verzi de la marginea orașului Sønderborg, marchează fizic cel mai dureros, tragic și fundamental punct de cotitură din toată istoria armată modernă a Danemarcei. Aici, în timpul teribilului război din anul 1864, trupele curajoase daneze au purtat o bătălie defensivă complet disperată și inegală împotriva armatei prusace masive echipate mult superior. Înfrângerea națională zdrobitoare rezultată a dus la pierderea definitivă și dramatică a întregului teritoriu sudic populat din regiunea Schleswig-Holstein, forțând profund Danemarca să își redefinească dureros total viziunea politică pe plan mondial ca pe un mic stat neutru complet pașnic. Moara tradițională albă de vânt reconstruită de pe dealul curbat a devenit un puternic și incontestabil simbol de rezistență națională mută și supraviețuire psihologică a culturii daneze locale împotriva dominației grele germane ulterioare.",
-      en: "Dybbøl Banke is a historically profound battlefield and memorial site located near Sønderborg in Southern Jutland. It was the site of the catastrophic Battle of Dybbøl on April 18, 1864, where the Danish army suffered a decisive defeat by Prussian forces. This loss resulted in Denmark ceding the duchies of Schleswig, Holstein, and Lauenburg, fundamentally reshaping the modern Danish national identity. Today, the site features reconstructed redoubts, an evocative historical center, and the iconic Dybbøl Mill. It serves as a solemn monument to the realities of war and a symbol of reconciliation and peace in the border region."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az 1864. április 18-i csata során a porosz tüzérség szinte teljesen megsemmisítette a dán erődítményeket.",
-        "A Dybbøl Malmot a háborúk során többször is lerombolták, de mindig újjáépítették, így lett a túlélés jelképe.",
-        "Az elvesztett területek egy része (Észak-Schleswig) csak az első világháború után, 1920-ban tért vissza Dániához egy népszavazás révén.",
-        "Minden év április 18-án hivatalos megemlékezést tartanak a dombon a katonák tiszteletére."
-      ],
-      ro: ["Bătălia teribilă inegală de la fortificațiile Dybbøl s-a desfășurat în dimineața devreme de 18 aprilie 1864 și a durat doar câteva ore însângerate înainte de retragerea masivă daneză decisivă.", "Imediat după acel război sângeros scurt din 1864, regatul Danemarcei s-a micșorat considerabil și dureros ca suprafață teritorială suverană cu aproximativ 40% din masa sa geografică totală absolută.", "În prezent, în locația vechiului front, există faimosul și impresionantul muzeu complex interactiv sub formă de stea masivă de fortificație denumit simplu „Centrul de Istorie Dybbøl Banke”.", "Sute de buncăre reconstruite militar cu detalii și tunuri grele istorice oferă emoționant publicului actual iluzia înghețată tactilă a greutăților fizice ale ostașilor din secolul al XIX-lea timpuriu.", "Ceremoniile solemne și demne anuale organizate de forțele statului se desfășoară chiar aici constant pe data de 18 aprilie pentru a marca respectuos cu durere și cinste comemorarea victimelor colaterale."],
-      en: ["The Battle of Dybbøl in 1864 led to Denmark losing nearly one-third of its land area.", "The iconic Dybbøl Mill was repeatedly destroyed in conflicts but was always rebuilt as a national symbol.", "The defeat fundamentally shifted Danish foreign policy from regional aggression to absolute neutrality.", "The History Center Dybbøl Banke provides immersive reenactments and detailed accounts of the 1864 conflict."]
-    },
-    facts: {
-      en: ["The site is linked to the Second Schleswig War of 1864.", "The Battle of Dybbol was a turning point in Danish history.", "Memorials and museum exhibits explain the conflict.", "It is located near Sonderborg in southern Jutland.", "The landscape still evokes the old battlefield."],
-      de: ["Der Ort ist mit dem Deutsch-Dänischen Krieg von 1864 verbunden.", "Die Schlacht von Dybbøl war ein Wendepunkt der dänischen Geschichte.", "Denkmäler und Museumsausstellungen erklären den Konflikt.", "Er liegt bei Sønderborg in Südjütland.", "Die Landschaft erinnert noch immer an das alte Schlachtfeld."],
-      hu: ["A hely az 1864-es második schleswigi háborúhoz kapcsolódik.", "A dybbøli csata fordulópont volt a dán történelemben.", "Emlékművek és múzeumi kiállítások mutatják be a konfliktust.", "Sønderborg közelében, Dél-Jütlandban található.", "A táj ma is az egykori csatamezőt idézi."],
-      ro: ["Situl este legat de Al Doilea Război Schleswig din 1864.", "Bătălia de la Dybbøl a fost un moment de cotitură în istoria daneză.", "Memorialele și expozițiile muzeale explică conflictul.", "Se află lângă Sønderborg, în sudul Iutlandei.", "Peisajul încă evocă vechiul câmp de luptă."]
-    },
-    image: "/geo-images/denmark/dybbol-banke.webp",
-  },
-  {
-    id: "hist-trelleborg-viking-fortress",
-    type: "historical",
-    parent: "DK",
-    coords: [11.3020, 55.3620],
-    name: { de: "Trelleborg", hu: "Trelleborg", ro: "Trelleborg", en: "Trelleborg Viking Fortress" },
-    description: {
-      en: "The Trelleborg Viking Fortress is a major archaeological site and a strong SEO fit for Viking tourism in Denmark. Its circular earthworks reveal the military planning of the Viking Age and connect visitors with King Harald Bluetooth's era. The site includes reconstructed buildings and interpretation that make the fortress easy to understand. Trelleborg is especially useful for content focused on Viking Denmark, archaeology, and early state power.",
-      de: "Die Wikingerfestung Trelleborg ist eine bedeutende archäologische Stätte und ein starkes SEO-Thema für Wikingertourismus in Dänemark. Ihre kreisförmigen Erdwerke zeigen die militärische Planung der Wikingerzeit und verbinden Besucher mit der Čra von König Harald Blauzahn. Die Anlage umfasst rekonstruierte Gebäude und Erklärungen, die die Festung leicht verständlich machen. Trelleborg ist besonders nützlich für Inhalte über Wikinger-Dänemark, Archäologie und frühe Staatsmacht.",
-      hu: "A Trelleborg viking erőd jelentős régészeti helyszín és erős SEO-illeszkedés a dániai viking turizmushoz. Kör alakú földszerkezetei a viking kor katonai tervezését mutatják, és Harald Blåtand király korszakához kapcsolják a látogatókat. A helyszínen rekonstruált épületek és magyarázó elemek segítik az erőd megértését. Trelleborg különösen hasznos a viking Dánia, a régészet és a korai államhatalom témájú tartalmakhoz.",
-      ro: "Fortăreața vikingă Trelleborg este un sit arheologic major și o potrivire SEO puternică pentru turismul viking din Danemarca. Lucrările sale circulare de pământ arată planificarea militară a Epocii Vikinge și îi conectează pe vizitatori cu epoca regelui Harald Bluetooth. Situl include clădiri reconstruite și panouri interpretative care fac fortăreața ușor de înțeles. Trelleborg este deosebit de util pentru conținutul despre Danemarca vikingă, arheologie și puterea timpurie a statului."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Trelleborg viking körgyűrűs erődítmény Sjælland szigetének nyugati részén, Slagelse közelében található, és a viking katonai építészet mesterműve. A feltételezések szerint Kékfogú Harald király parancsára épült 980 körül, egy átfogó védelmi és hatalmi hálózat részeként. Az erődöt tökéletes mértani pontossággal tervezték; a hatalmas, kör alakú földsáncot két egymásra merőleges út négy egyenlő negyedre osztja. Mindegyik negyedben pontosan ugyanakkora, csónak alakú hosszúházak álltak. Ma az erődítmény területén egy újjáépített hosszúház és egy szabadtéri múzeum található, ahol a látogatók bepillantást nyerhetnek a viking harcosok és családjaik mindennapjaiba. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Trelleborg este cel mai important și excelent conservat dintre marile forturi militare vikinge circulare cu plan simetric strategic din întreaga istorie descoperite vreodată în Danemarca. Ridicată sub ordinele aspre ale legendarului Rege viking Harald Dinte Albastru în secolul târziu al X-lea, structura monumentală de apărare are forma unui cerc geometric uimitor de perfect cu o precizie uluitoare, traversat riguros de străzi drepte încrucișate tăiate la unghiuri de exact 90 de grade. Designul său complet revoluționar atestă indubitabil o organizare a societății vikingilor, un regim matematic și ingineresc de neimaginat cu mult diferit față de simpla mitologie legată doar de un popor barbar sălbatic dezorganizat haotic. Vizitatorii care poposesc la sit pot rătăci activ pe meterezele naturale reconstituite pe marginea pământului circular înalt și pot aprecia la prima mână un sat și mai ales o splendidă casă lungă durabilă reconstruită total.",
-      en: "Trelleborg is a formidable Viking ring fortress situated near Slagelse on the island of Zealand. Constructed around 980 AD during the reign of King Harald Bluetooth, it is one of the best-preserved examples of precise Viking military engineering. The fortress features a strict geometrical design with a perfectly circular rampart, exact gates facing the four cardinal directions, and symmetrically arranged longhouses. This highly organized structure reflects the centralized power and administrative capability of the late Viking Age monarchy. Today, visitors can explore the reconstructed ramparts and experience authentic Viking life at the adjacent open-air museum."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A trelleborgi erőd belső átmérője pontosan 136 méter.",
-        "A komplexumban eredetileg 16 hosszúház állt a sáncokon belül, és további 15 a sáncon kívül.",
-        "A 'trelleborg' elnevezés ma már egy általános kifejezés a Dániában és Dél-Svédországban talált hasonló körkörös viking erődökre.",
-        "A régészeti feltárások során talált egyetlen viking pajzsmaradványt is itt fedezték fel Dániában."
-      ],
-      ro: ["Fortăreața militară rotundă are diametrul enorm stabil de 136 de metri pe interior și oferea strategic suficient spațiu planificat simetric pentru nu mai puțin de 16 clădiri uriașe lungi construite perfect.", "Descoperirea uluitoare modernă a fortificației a infirmat științific complet miturile false conform cărora vikingii nordici erau doar simpli luptători nomazi cu bărci, lipsiți total de organizare structurală fixă solidă.", "Trelleborg faimoasă face de asemenea efectiv parte acum din grupul fortificațiilor ringului istoric recent nominalizate ferm către comitetele UNESCO în vederea unei atestări oficiale speciale depline globale unice.", "Situl impresionant arheologic local expune o lungă, grea și masivă clădire robustă principală „Longhouse” din stejar solid cu uși unice grele ascuțite, reconstruită tehnic de către dulgheri experți actuali atestați.", "Dovezile arheologice atestă surprinzător clar faptul că aceste grandioase complexe militare au fost utilizate fizic probabil pe o perioadă efemeră uimitor de scurtă de aproximativ un singur deceniu istoric limitat."],
-      en: ["Trelleborg was built with astonishing geometric precision, a hallmark of Harald Bluetooth's ring fortresses.", "The site originally housed 16 massive longhouses arranged symmetrically in four distinct quarters.", "Excavations revealed numerous weapons, tools, and the graves of warriors, providing rich insights into Viking life.", "The fortress design reflects potential military influences from the Byzantine or Carolingian empires."]
-    },
-    facts: {
-      en: ["Trelleborg is a Viking ring fortress.", "It is associated with King Harald Bluetooth.", "The site dates to the late 10th century.", "Reconstructed buildings help visitors visualize the fortress.", "It is one of Denmark's key Viking archaeology sites."],
-      de: ["Trelleborg ist eine Wikinger-Ringfestung.", "Sie ist mit König Harald Blauzahn verbunden.", "Die Stätte stammt aus dem späten 10. Jahrhundert.", "Rekonstruierte Gebäude helfen beim Verständnis der Anlage.", "Sie gehört zu den wichtigsten Wikinger-Archäologiestätten Dänemarks."],
-      hu: ["Trelleborg egy viking kori gyűrűerőd.", "Harald Blåtand királyhoz kapcsolódik.", "A helyszín a 10. század végéről származik.", "A rekonstruált épületek segítenek elképzelni az erődöt.", "Dánia egyik kulcsfontosságú viking régészeti helyszíne."],
-      ro: ["Trelleborg este o fortăreață inelară vikingă.", "Este asociată cu regele Harald Bluetooth.", "Situl datează de la sfârșitul secolului al X-lea.", "Clădirile reconstruite îi ajută pe vizitatori să vizualizeze fortăreața.", "Este unul dintre cele mai importante situri arheologice vikinge din Danemarca."]
-    },
-    image: "/geo-images/denmark/trelleborg-viking-fortress.webp",
-  },
-  {
-    id: "hist-egeskov-castle",
-    type: "historical",
-    parent: "DK",
-    coords: [10.5127, 55.1769],
-    name: { de: "Schloss Egeskov", hu: "Egeskov kastély", ro: "Castelul Egeskov", en: "Egeskov Castle" },
-    description: {
-      en: "Egeskov Castle is one of Denmark's best-known moated castles and a very strong SEO keyword for family travel and castle tourism. Built in the Renaissance period, it is famous for its preserved water defenses, elegant architecture, and extensive gardens. The site also includes museums and experiences that broaden its appeal beyond a classic castle visit. Egeskov is a top-tier stop for travelers who want a scenic and story-rich southern Funen landmark.",
-      de: "Schloss Egeskov ist eines der bekanntesten Wasserburgen Dänemarks und ein sehr starkes SEO-Thema für Familienreisen und Schlosstourismus. In der Renaissance erbaut, ist es berühmt für seine erhaltenen Wassergräben, elegante Architektur und weitläufigen Gärten. Die Anlage umfasst auch Museen und Erlebnisse, die ihren Reiz über den klassischen Schlossbesuch hinaus erweitern. Egeskov ist ein erstklassiger Halt für Reisende, die ein landschaftlich schönes und geschichtsträchtiges Wahrzeichen auf Südfünen suchen.",
-      hu: "Az Egeskov kastély Dánia egyik legismertebb vízi kastélya és nagyon erős SEO-kulcsszó a családi utazás és a kastélyturizmus témájában. A reneszánsz korban épült, és híres megőrzött védvizes rendszeréről, elegáns építészetéről és kiterjedt kertjeiről. A helyszínen múzeumok és élmények is vannak, amelyek túlmutatnak a hagyományos kastélylátogatáson. Egeskov kiváló megálló azoknak az utazóknak, akik festői, történetekkel teli dél-füneni látványosságot keresnek.",
-      ro: "Castelul Egeskov este unul dintre cele mai cunoscute castele pe apă din Danemarca și un cuvânt-cheie SEO foarte puternic pentru turismul de familie și turismul de castel. Construit în perioada Renașterii, este celebru pentru șanțurile sale de apă bine păstrate, arhitectura elegantă și grădinile întinse. Situl include și muzee și experiențe care îi extind atractivitatea dincolo de o simplă vizită la castel. Egeskov este o oprire de top pentru călătorii care vor un reper pitoresc și plin de poveste în sudul insulei Funen."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Egeskov-kastély Fünen szigetén fekszik, és Európa egyik legjobb állapotban fennmaradt reneszánsz vízi kastélya. A 16. század közepén, a dán grófi viszályok (polgárháború) idején épült, ezért vastag falai és védelmi rendszerei inkább egy erődítményre, semmint egy békés rezidenciára emlékeztetnek. A legenda szerint a tölgyfából készült cölöpalapzatokhoz egy teljes tölgyerdőt (dánul 'egeskov') kellett kivágni. Az impozáns vöröstéglás épületet gyönyörű parkok és labirintusok veszik körül, amelyek a világ legszebb kertjei közé tartoznak. A kastély területén hatalmas klasszikus autó-, motorkerékpár- és repülőgépmúzeum is működik, amely minden korosztálynak lenyűgöző élményt nyújt. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Castelul splendid Egeskov din sudul pașnic al insulei Funen este apreciat în lumea întreagă ca fiind cel mai frumos, complex și perfect conservat castel masiv de apă curată din epoca pură a Renașterii în Europa. Așezat grațios în centrul unui lac pitoresc complet izolat și susținut de o fundație adâncă colosală așezată din sute și sute de stâlpi duri din trunchiuri masive de stejar curat scufundați total, impunătoarea cetate roșiatică era inițial proiectată intenționat ca un bastion militar defensiv strategic privat într-o epocă instabilă politic teribilă tulbure marcată adânc de războaiele sângeroase civile nesfârșite. Exteriorul magnific din nenumărate cărămizi cu masive turnuri lungi ascuțite la ambele capete opuse atrage anual priviri uluite. Domeniul de lux înconjurător gigantic prezintă vizitatorilor parcuri luxuriante faimoase pe plan global pentru arta lor simetrică pură englezească, garduri vii gigantice extrem de vechi, dar și pavilioane cu expoziții tehnice excentrice ample care găzduiesc de pildă faimoasa colecție generoasă uimitoare a zeci de mașini epice scumpe și avioane de epocă retro.",
-      en: "Egeskov Castle is an exquisite Renaissance water castle located on the island of Funen, renowned as one of the best-preserved moat castles in Europe. Built in 1554 during an era of civil unrest, the castle was designed for absolute defense, featuring thick walls, an integrated water supply, and loopholes for cannons. It famously stands on thousands of deeply driven oak piles in the middle of a small lake. Today, Egeskov is surrounded by magnificent award-winning gardens, including historical mazes and expansive parterres. The castle estate also hosts impressive museums of vintage automobiles, motorcycles, and historical artifacts."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A kastély két különálló épületszárnyból áll, amelyeket egy vastag dupla fal választ el, hogy ha az egyik elesik, a másik védhető maradjon.",
-        "Az Egeskov-kastély kertjét az év európai történelmi kertjének is megválasztották.",
-        "A padláson található a 'Titania palotája' nevű, felbecsülhetetlen értékű, elképesztően részletes babaház.",
-        "A kastély jelenleg is magántulajdonban van, a grófi Ahlefeldt-Laurvig-Bille család otthona."
-      ],
-      ro: ["Legenda incredibilă populară nordică spune ferm că efectiv a fost nevoie tăierii drastice masive fizice a unei întregi uriașe și dese păduri de stejar bătrân din regiune pentru a obține fundațiile masive solide scufundate complet în lac.", "Contele greu de mulțumit și influentul fondator Frands Brockenhuus a terminat fizic ridicarea arhitecturală colosală extremă a castelului uimitor chiar în perioada de cumpănă dură fixată istoric precis la jumătatea anului agitat 1554.", "Zidurile duble impunătoare uriașe au fost ridicate masiv și izolate suficient de distanțat cu rolul ascuns pentru a ascunde efectiv treceri secrete interne strategice utile pentru salvare sau o puț simplu de utilitate cu sistem tehnic cu lanț complex.", "Palatul legendar deosebit expune permanent impresionantul, vastul și minuțios asamblatul 'Palat Titania', cel mai minunat, sofisticat și celebru complex artistic neprețuit scump palat modern al păpușilor existent pe acest mapamond.", "Grădinile somptuoase ale complexului regal sunt constant premiate extrem, primind oficial respectatul premiu faimos european acordat pentru 'Cel mai bun parc istoric uluitor al anului istoric european pe continentul European'."],
-      en: ["The name 'Egeskov' means 'Oak Forest', referencing the thousands of oak trunks supposedly used for its foundation.", "It is regarded as Europe's best-preserved Renaissance water castle.", "A legend claims a wooden doll rests in the attic, and moving it will cause the castle to sink into the moat.", "The expansive estate features a classic labyrinth made of towering beech hedges designed in 1730."]
-    },
-    facts: {
-      en: ["Egeskov is one of Europe's best-preserved moat castles.", "The castle dates to the mid-1500s.", "Its gardens are a major visitor draw.", "The site includes several themed museums.", "It is among Denmark's most popular castle attractions."],
-      de: ["Egeskov ist eine der am besten erhaltenen Wasserburgen Europas.", "Das Schloss stammt aus der Mitte des 16. Jahrhunderts.", "Die Gärten sind eine große Besucherattraktion.", "Die Anlage umfasst mehrere Themenmuseen.", "Es gehört zu Dänemarks beliebtesten Schlossattraktionen."],
-      hu: ["Az Egeskov Európa egyik legjobban megőrzött vízi vára.", "A kastély a 16. század közepéről származik.", "A kertek nagy vonzerőt jelentenek a látogatók számára.", "A helyszínen több tematikus múzeum is található.", "Dánia egyik legnépszerűbb kastélylátványossága."],
-      ro: ["Egeskov este unul dintre cele mai bine păstrate castele cu șanț de apă din Europa.", "Castelul datează din mijlocul secolului al XVI-lea.", "Grădinile sale sunt o mare atracție pentru vizitatori.", "Situl include mai multe muzee tematice.", "Este printre cele mai populare atracții de castel din Danemarca."]
-    },
-    image: "/geo-images/denmark/egeskov-castle.webp",
-  },
+ {
+ id: "cult-legoland",
+ type: "landmark",
+ parent: "denmark",
+ coords: [9.1261, 55.7353],
+ name: { de: "Legoland Billund", hu: "Legoland Billund", ro: "Legoland Billund", en: "Legoland Billund" },
+ description: {
+ en: "Legoland Billund is the original Legoland park, opened in 1968 near the Lego factory. It is one of Denmark's most popular tourist attractions, featuring incredible models built from millions of Lego bricks, thrilling rides, and themed areas. The park celebrates creativity and imagination, attracting families from all over the world. It is a testament to the global impact of the Danish toy company and its commitment to play and learning.",
+ de: "Legoland Billund ist der ursprüngliche Legoland-Park, der 1968 in der Nähe der Lego-Fabrik eröffnet wurde. Er ist eine der beliebtesten Touristenattraktionen Dänemarks und bietet unglaubliche Modelle aus Millionen von Legosteinen, aufregende Fahrgeschäfte und Themenbereiche. Der Park feiert Kreativität und Fantasie und zieht Familien aus der ganzen Welt an. Er ist ein Zeugnis für den weltweiten Einfluss des dänischen Spielzeugunternehmens und sein Engagement für Spiel und Lernen.",
+ hu: "A Legoland Billund az eredeti Legoland park, amely 1968-ban nyílt meg a Lego gyár közelében. Dánia egyik legnépszerűbb turisztikai látványossága, amely több millió Lego kockából épült hihetetlen modelleket, izgalmas játékokat és tematikus területeket kínál. A park a kreativitást és a képzeletet ünnepli, a világ minden tájáról vonzza a családokat. Ez a dán játékgyártó cég globális hatásának, valamint a játék és a tanulás iránti elkötelezettségének bizonyítéka.",
+ ro: "Legoland Billund este parcul original Legoland, deschis în 1968 lângă fabrica Lego. Este una dintre cele mai populare atracții turistice din Danemarca, oferind modele incredibile construite din milioane de piese Lego, atracții palpitante și zone tematice. Parcul celebrează creativitatea și imaginația, atrăgând familii din întreaga lume. Este o dovadă a impactului global al companiei daneze de jucării și a angajamentului său față de joc și învățare."},
+ descriptionAdvanced: {
+ de: "Legoland Billund ist der weltweit erste Legoland-Park und das Herzstück der dänischen Spielzeuggeschichte. Seit seiner Eröffnung im Jahr 1968 begeistert der Park Millionen von Besuchern mit dem berühmten Miniland, in dem Wahrzeichen aus aller Welt im Miniaturformat nachgebaut sind. Neben den beeindruckenden Lego-Modellen bietet der Park zahlreiche Fahrgeschäfte und Themenwelten für die ganze Familie. Es ist ein Ort, der Kreativität und spielerisches Lernen auf einzigartige Weise miteinander verbindet. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Legoland Billund a világ legelső és legismertebb Legoland vidámparkja, amely 1968-ban nyitotta meg kapuit az eredeti Lego gyár közvetlen szomszédságában. A park szíve a 'Miniland', ahol a világ híres épületeit és városait építették fel több tízmillió Lego kockából, lenyűgöző részletességgel. A családok számára számtalan hullámvasút, interaktív játék és tematikus zóna nyújt felejthetetlen élményt. A park az elmúlt évtizedekben Dánia egyik legvonzóbb turisztikai célpontjává vált a nemzetközi látogatók körében. A Legoland nemcsak egy vidámpark, hanem a dán kreativitás és a játékos tanulás globális szimbóluma. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Legoland Billund este cel mai vechi parc de distracții Legoland din lume, inaugurat în anul 1968, chiar în localitatea în care a fost inventată celebra piesă de jucărie. Parcul este o adevărată capodoperă a creativității și ingineriei, aducând la viață lumi întregi folosind peste 60 de milioane de cărămizi colorate. Principala atracție, Miniland, reproduce în miniatură celebre repere mondiale și cartiere daneze cu un nivel extraordinar de detaliu. Pe lângă sculpturile din piese de construcție, parcul oferă numeroase montagne rousse, zone de aventură interactivă și spectacole live pentru familii. Legoland atrage milioane de vizitatori anual, reprezentând o parte esențială a copilăriei scandinave și un simbol al turismului danez. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Legoland Billund is the original and most famous Legoland theme park in the world, located in the town where the iconic toy was invented. Opening its doors in 1968, the park has grown into one of Denmark's most beloved and visited family attractions. At its heart lies Miniland, an astonishing area featuring miniature reconstructions of famous global landmarks built entirely from millions of Lego bricks. The park expands across diverse themed areas, offering thrilling rides, interactive exhibits, and creative workshops. Legoland Billund continues to evolve, captivating the imaginations of both children and nostalgic adults worldwide. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Legoland Billund wurde direkt neben der ursprünglichen Lego-Fabrik errichtet.",
+ "Für den Bau des Parks wurden über 60 Millionen Legosteine verwendet.",
+ "Das Miniland zeigt maßstabsgetreue Nachbildungen berühmter Städte wie Amsterdam, Kopenhagen und Bangkok.",
+ "Der Park ist die meistbesuchte Touristenattraktion in Jütland."
+ ],
+ hu: [
+ "A parkot Godtfred Kirk Christiansen, a Lego alapítójának fia nyitotta meg 1968-ban.",
+ "A Miniland felépítéséhez becslések szerint több mint 20 millió Lego kockát használtak fel.",
+ "A Legoland Billund évente közel 2 millió látogatót fogad.",
+ "A park közvetlenül a billundi repülőtér mellett található, amelyet eredetileg a Lego cég építtetett."
+ ],
+ ro: ["Primul parc Legoland a fost deschis pe 7 iunie 1968 și a avut un succes instantaneu, atrăgând peste o jumătate de milion de vizitatori în primul an.", "Secțiunea Miniland este reconstruită și întreținută constant de o echipă dedicată de 'Model Builders' profesioniști.", "Satul viking, zonele piraților și regatul cavalerilor sunt printre cele mai apreciate zone tematice ale întregului complex.", "Trenulețul Legoland, construit la inaugurare, este încă funcțional și face turul complet al principalelor expoziții de bază.", "Atracția 'Ninjago The Ride' folosește tehnologie avansată cu senzori de mișcare pentru a permite vizitatorilor să controleze elementele digitale cu mâinile libere."],
+ en: ["Legoland Billund was the very first Legoland park, opening in 1968 next to the original Lego factory.", "The iconic Miniland section uses over 20 million Lego bricks to recreate famous cities and monuments.", "The park welcomes approximately 2 million visitors each year, making it Denmark's top tourist attraction outside Copenhagen.", "Many of the original Miniland models from the 1960s are still on display and meticulously maintained."]
+ },
+ facts: {
+ en: ["The park is located right next to the original Lego factory.","Miniland features famous landmarks from around the world built to scale.","More than 60 million Lego bricks were used to build the park.","Billund is also home to the Lego House, an interactive experience center."],
+ de: ["Der Park befindet sich direkt neben der ursprünglichen Lego-Fabrik.","Das Miniland zeigt berühmte Wahrzeichen aus aller Welt im Maßstab.","Für den Bau des Parks wurden mehr als 60 Millionen Legosteine verwendet.","In Billund befindet sich auch das Lego House, ein interaktives Erlebniszentrum."],
+ hu: ["A park közvetlenül az eredeti Lego gyár mellett található.","A Miniland a világ híres látnivalóit mutatja be méretarányos maketteken.","A park felépítéséhez több mint 60 millió Lego kockát használtak fel.","Billundban található a Lego House is, egy interaktív élményközpont."],
+ ro: ["Parcul este situat chiar lângă fabrica originală Lego.","Miniland prezintă repere faimoase din întreaga lume construite la scară.","Peste 60 de milioane de piese Lego au fost folosite pentru a construi parcul.","Billund găzduiește, de asemenea, Lego House, un centru de experiență interactiv."]
+ },
+ image: "/geo-images/denmark/legoland.webp",
+ }
+ ,
+ {
+ id: "cult-tivoli",
+ type: "landmark",
+ parent: "denmark",
+ coords: [12.5683, 55.6739],
+ name: { de: "Tivoli-Gärten", hu: "Tivoli Kertek", ro: "Grădinile Tivoli", en: "Tivoli Gardens" },
+ description: {
+ en: "Tivoli Gardens is the famous Copenhagen amusement park that opened in 1843 and became one of the world's earliest theme parks. Its blend of rides, gardens, performances, and seasonal lights made it a model for later entertainment parks, including ones that inspired Walt Disney. Today it remains a defining cultural landmark of the Danish capital.",
+ de: "Die Tivoli-Gärten sind der berühmte Vergnügungspark in Kopenhagen, der 1843 eröffnet wurde und zu den frühesten Themenparks der Welt gehört. Seine Mischung aus Fahrgeschäften, Gärten, Aufführungen und saisonaler Beleuchtung wurde zu einem Vorbild für spätere Freizeitparks, darunter auch solche, die Walt Disney inspirierten. Heute ist er weiterhin ein prägendes Kulturdenkmal der dänischen Hauptstadt.",
+ hu: "A Tivoli Kertek a híres koppenhágai vidámpark, amely 1843-ban nyílt meg, és a világ egyik legkorábbi tematikus parkja lett. A játékok, kertek, előadások és szezonális fények keveréke mintát adott a későbbi szórakoztató parkoknak, köztük azoknak is, amelyek Walt Disneyt inspirálták. Ma is a dán főváros meghatározó kulturális nevezetessége.",
+ ro: "Grădinile Tivoli sunt celebrul parc de distracții din Copenhaga, deschis în 1843 și devenit unul dintre cele mai timpurii parcuri tematice din lume. Amestecul său de atracții, grădini, spectacole și lumini sezoniere a devenit un model pentru parcurile de divertisment ulterioare, inclusiv pentru cele care l-au inspirat pe Walt Disney. Astăzi rămâne un reper cultural definitoriu al capitalei daneze."},
+ descriptionAdvanced: {
+ de: "Die Tivoli-Gärten im Herzen von Kopenhagen gehören zu den ältesten und schönsten Vergnügungsparks der Welt. Seit 1843 verzaubert Tivoli seine Gäste mit einer märchenhaften Atmosphäre aus historischen Fahrgeschäften, prachtvollen Gärten und vielfältigen kulturellen Darbietungen. Besonders bei Nacht, wenn Tausende von Lichtern den Park illuminieren, entfaltet Tivoli eine ganz besondere Magie. Der Park diente sogar Walt Disney als Inspiration für seine eigenen Themenparks und bleibt bis heute ein Symbol für dänische Lebensart. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A koppenhágai Tivoli a világ második legrégebbi máig működő vidámparkja, amely 1843 óta nyűgözi le a látogatókat a dán főváros szívében. A park nem csupán a gyors hullámvasutakról híres, hanem lenyűgöző egzotikus kertjeiről, történelmi pavilonjairól és esténkénti ezer színben pompázó kivilágításáról. A Tivoli egyedülálló hangulata írókat és művészeket ihletett meg, köztük Hans Christian Andersent és Walt Disneyt is. Kínálatában a nosztalgikus fa hullámvasúttól kezdve a modern adrenalinbombákig minden megtalálható. A park szabadtéri koncertjeivel és karácsonyi vásárával a dán kulturális élet egyik központi pillére. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Grădinile Tivoli, situate chiar în inima orașului Copenhaga, sunt o comoară istorică națională și unul dintre cele mai faimoase parcuri de distracții la nivel mondial. Inaugurat în 1843, Tivoli a reușit să își păstreze eleganța nostalgică din secolul al XIX-lea, încorporând în același timp atracții moderne de senzație. Peisajul este un amestec încântător de vegetație luxuriantă, arhitectură exotică, pavilioane iluminate feeric și muzică live la fiecare colț. Este mai mult decât un parc cu montagne rousse; este un epicentru cultural care găzduiește concerte de muzică clasică, spectacole de balet și pantomimă. O vizită seara la Tivoli, sub mii de lumini colorate, este o experiență cu adevărat magică și definitorie pentru orice călătorie în Danemarca. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Tivoli Gardens, located in the heart of Copenhagen, is one of the world's oldest and most enchanting amusement parks. Opened in 1843, it perfectly blends thrilling rides, beautifully landscaped gardens, and a magical atmosphere that changes with the seasons. The park is famous for its historic wooden roller coaster, as well as its dazzling light displays, pantomime theater, and open-air concerts. Tivoli's unique aesthetic was highly influential, notably inspiring Walt Disney when he created Disneyland. Whether visiting during the lively summer, the spooky Halloween season, or the cozy Christmas market, Tivoli offers an unforgettable experience. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Tivoli wurde am 15. August 1843 von Georg Carstensen eröffnet.",
+ "Die Holzachterbahn 'Rutschebanen' aus dem Jahr 1914 ist eine der ältesten noch in Betrieb befindlichen Achterbahnen weltweit.",
+ "Der Park beherbergt ein berühmtes Pantomimentheater im chinesischen Stil.",
+ "Tivoli ist Kopenhagens meistbesuchte Attraktion und das ganze Jahr über Schauplatz von Konzerten und Festivals."
+ ],
+ hu: [
+ "A Tivolit Georg Carstensen alapította, miután meggyőzte VIII. Keresztély királyt, hogy 'amíg az emberek szórakoznak, nem gondolnak a politikára'.",
+ "A park 1914-ben épült fából készült hullámvasútja (Rutschebanen) a mai napig működik, és manuálisan fékezik.",
+ "Walt Disney a Tivoli látogatása után kapott inspirációt a kaliforniai Disneyland megépítéséhez.",
+ "A park évente több mint 4 millió látogatót fogad, ezzel Skandinávia leglátogatottabb tematikus parkja."
+ ],
+ ro: ["Grădinile Tivoli reprezintă al doilea cel mai vechi parc de distracții funcțional din lume, după Dyrehavsbakken, tot din Danemarca.", "Montagne rousse-ul său de lemn (Rutschebanen), construit în 1914, este unul dintre puținele din lume care mai folosește un controlor manual de frânare la bord.", "Walt Disney a vizitat Grădinile Tivoli de mai multe ori pentru a se inspira înainte de a crea primul său parc Disneyland în California.", "Parcul se transformă spectaculos de două ori pe an pentru a reflecta sezonul de Halloween și, respectiv, pe cel de Crăciun.", "Restaurantul Nimb din incinta parcului a fost construit inițial ca un 'bazar maur', ieșind în evidență prin arhitectura sa inspirată de Taj Mahal."],
+ en: ["Tivoli Gardens is the second-oldest operating amusement park in the world.", "The park's famous wooden roller coaster, Rutschebanen, was built in 1914 and still requires an onboard brakeman.", "Walt Disney visited Tivoli several times in the early 1950s for inspiration before opening Disneyland.", "During the Christmas season, the park is illuminated by over one million twinkling lights."]
+ },
+ facts: {
+ en: ["Opened in 1843, Tivoli is one of the world's oldest amusement parks.", "Walt Disney reportedly drew inspiration from Tivoli.", "The park mixes rides with gardens and live performances.", "It is especially famous for its night lighting and seasonal events."],
+ de: ["Die Tivoli-Gärten wurden 1843 eröffnet und gehören zu den ältesten Vergnügungsparks der Welt.", "Walt Disney ließ sich Berichten zufolge von Tivoli inspirieren.", "Der Park verbindet Fahrgeschäfte mit Gärten und Live-Aufführungen.", "Besonders berühmt ist er für seine Nachtbeleuchtung und saisonalen Veranstaltungen."],
+ hu: ["A Tivoli 1843-ban nyílt meg, és a világ egyik legrégebbi vidámparkja.", "A hírek szerint Walt Disneyt is inspirálta a Tivoli.", "A park a játékokat kertekkel és élő előadásokkal ötvözi.", "Különösen híres az esti fényekről és a szezonális eseményekről."],
+ ro: ["Deschis în 1843, Tivoli este unul dintre cele mai vechi parcuri de distracții din lume.", "Se spune că Walt Disney s-a inspirat din Tivoli.", "Parcul combină atracțiile cu grădini și spectacole live.", "Este faimos mai ales pentru luminile de noapte și evenimentele sezoniere."]
+ },
+ image: "/geo-images/denmark/tivoli.webp",
+ },
+ {
+ id: "cult-nyhavn",
+ type: "landmark",
+ parent: "denmark",
+ coords: [12.5916, 55.6795],
+ name: { de: "Nyhavn", hu: "Nyhavn", ro: "Nyhavn", en: "Nyhavn" },
+ description: {
+ en: "Nyhavn is Copenhagen's iconic 17th-century harbor district, instantly recognizable for its colorful townhouses and historic ships. Once a working commercial port, it has become a lively place for cafes, restaurants, and summer strolling. The canal area captures the city's maritime past and its easygoing present at the same time.",
+ de: "Nyhavn ist das ikonische Hafenviertel Kopenhagens aus dem 17. Jahrhundert, sofort erkennbar an seinen bunten Stadthäusern und historischen Schiffen. Einst ein Arbeitshafen für den Handel, ist es heute ein lebhafter Ort für Cafés, Restaurants und sommerliche Spaziergänge. Das Kanalviertel fängt zugleich die maritime Vergangenheit der Stadt und ihre entspannte Gegenwart ein.",
+ hu: "A Nyhavn Koppenhága ikonikus, 17. századi kikötőnegyede, amelyet színes házai és történelmi hajói miatt azonnal fel lehet ismerni. Egykor kereskedelmi munkakikötő volt, ma pedig kávézók, éttermek és nyári séták népszerű helyszíne. A csatorna menti terület egyszerre idézi fel a város tengeri múltját és könnyed jelenét.",
+ ro: "Nyhavn este cartierul portuar iconic din Copenhaga, din secolul al XVII-lea, ușor de recunoscut datorită caselor sale colorate și navelor istorice. Cândva un port comercial activ, a devenit un loc animat pentru cafenele, restaurante și plimbări de vară. Zona canalului surprinde în același timp trecutul maritim al orașului și prezentul său relaxat."},
+ descriptionAdvanced: {
+ de: "Nyhavn ist der wohl bekannteste Hafenkanal Kopenhagens und ein Sinnbild für den maritimen Charme der dänischen Hauptstadt. Die farbenfrohen Giebelhäuser aus dem 17. und 18. Jahrhundert beherbergen heute zahlreiche Restaurants und Cafés, die zum Verweilen einladen. Historische Holzsegelschiffe, die im Kanal vor Anker liegen, verleihen dem Ort eine nostalgische Atmosphäre. Nyhavn war zudem viele Jahre lang die Heimat des berühmten Märchenerzählers Hans Christian Andersen. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Nyhavn (Új Kikötő) Koppenhága legfotózottabb és legikonikusabb negyede, egy 17. századi tengerészeti csatorna mentén fekszik. A csatornát élénk színűre festett, 17-18. századi kereskedőházak szegélyezik, amelyek egykor matrózok és tengerészek zajos törzshelyei voltak. Ma a Nyhavn elegáns kávézóknak, jazz kluboknak és kiváló éttermeknek ad otthont, egy igazi hygge atmoszférájú turistacélpont. A kikötőben horgonyzó régi favitorlások hűen őrzik a dán tengerhajózás dicső múltját. Ez a negyed a koppenhágai élet lüktető szíve, különösen a hosszú nyári estéken. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Nyhavn (Portul Nou) este, fără îndoială, cea mai fotografiată și recunoscută atracție turistică din Copenhaga, capturând spiritul vibrant al orașului danez. Această zonă a fost construită inițial în secolul al XVII-lea sub comanda Regelui Christian al V-lea ca un port comercial extrem de activ. Astăzi, casele sale vechi din secolele XVII și XVIII, vopsite în culori aprinse și impecabil restaurate, străjuiesc un canal plin de nave istorice din lemn. Zona s-a transformat dintr-un cartier portuar zgomotos, plin de marinari și taverne rău famate, într-o promenadă luxoasă, presărată cu cafenele, restaurante și terase cu muzică jazz live. Deși foarte turistic, Nyhavn rămâne inima incontestabilă a Copenhagăi pe timp de vară. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Nyhavn, meaning 'New Harbour', is an iconic 17th-century waterfront and canal district in Copenhagen. Famous for its brightly colored historical townhouses, wooden ships, and bustling atmosphere, it is one of the most recognizable sights in Denmark. Originally a busy commercial port where ships from all over the world docked, it was notorious for its sailors, alehouses, and vibrant nightlife. Today, Nyhavn is a picturesque promenade lined with popular cafes, restaurants, and jazz bars. It is also well-known as the former residence of the famous Danish author Hans Christian Andersen, who wrote several of his fairy tales here. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Kanal wurde zwischen 1670 und 1673 von dänischen Soldaten und schwedischen Kriegsgefangenen gegraben.",
+ "Hans Christian Andersen lebte in verschiedenen Häusern in Nyhavn, darunter in den Hausnummern 18, 20 und 67.",
+ "Das älteste haus in Nyhavn ist das Gebäude Nummer 9 aus dem Jahr 1681.",
+ "Am Ende des Kanals befindet sich der 'Gedenkanker', der an die dänischen Seeleute des Zweiten Weltkriegs erinnert."
+ ],
+ hu: [
+ "A Nyhavn csatornáját 1670-1675 között építették svéd hadifoglyok munkájával.",
+ "Hans Christian Andersen éveken át élt a Nyhavn különböző házaiban, többek között a 18-as és 20-as szám alatt.",
+ "A csatorna legrégebbi fennmaradt háza, a 9-es számú ház 1681-ben épült.",
+ "Ma a Nyhavn a koppenhágai csatornahajózási túrák legfőbb kiindulópontja."
+ ],
+ ro: ["Faimosul autor de basme Hans Christian Andersen a locuit la diferite momente în trei case diferite de pe canalul Nyhavn (la numerele 18, 20 și 67).", "Cea mai veche casă de pe Nyhavn, situată la numărul 9, datează din anul 1681 și a rămas aproape neatinsă arhitectural de atunci.", "Canalul a fost săpat manual de către prizonierii de război suedezi în timpul Războiului Scanian, finalizându-se în jurul anului 1673.", "Partea nordică a canalului este denumită cu umor 'Partea însorită' și este de departe cea mai aglomerată datorită zecilor de terase în aer liber.", "Ancora Memorială (Mindeankeret) situată la capătul canalului este dedicată memoriei ofițerilor și marinarilor danezi căzuți în Al Doilea Război Mondial."],
+ en: ["Nyhavn was constructed by King Christian V in the late 1600s using Swedish prisoners of war.", "The oldest house in the harbor, No. 9, dates back to 1681 and remains beautifully preserved.", "Fairy tale author Hans Christian Andersen lived at numbers 18, 20, and 67 throughout his life.", "The Veteran Ship and Museum Harbour in Nyhavn features a collection of historically significant wooden vessels."]
+ },
+ facts: {
+ en: ["Nyhavn means 'new harbor'.", "The harbor was dug in the 1600s.", "Hans Christian Andersen lived here for a time.", "It is one of Copenhagen's most photographed places."],
+ de: ["Nyhavn bedeutet 'neuer Hafen'.", "Der Hafen wurde im 17. Jahrhundert ausgehoben.", "Hans Christian Andersen lebte zeitweise hier.", "Es ist einer der meistfotografierten Orte Kopenhagens."],
+ hu: ["A Nyhavn neve 'új kikötőt' jelent.", "A kikötőt a 17. században alakították ki.", "Hans Christian Andersen egy ideig itt élt.", "Koppenhága egyik legtöbbet fényképezett helye."],
+ ro: ["Nyhavn înseamnă 'port nou'.", "Portul a fost săpat în anii 1600.", "Hans Christian Andersen a locuit aici o perioadă.", "Este unul dintre cele mai fotografiate locuri din Copenhaga."]
+ },
+ image: "/geo-images/denmark/nyhavn.webp",
+ },
+ {
+ id: "cult-little-mermaid",
+ type: "landmark",
+ parent: "denmark",
+ coords: [12.5993, 55.6929],
+ name: { de: "Kleine Meerjungfrau", hu: "Kis Hableány szobor", ro: "Mica Sirenă", en: "Little Mermaid Statue" },
+ description: {
+ en: "The Little Mermaid statue is one of Copenhagen's most famous symbols and is inspired by Hans Christian Andersen's fairytale. Sculpted by Edvard Eriksen and unveiled in 1913, it has become a modest but enduring landmark on the city's waterfront. Its small size contrasts with its huge international fame.",
+ de: "Die Statue der Kleinen Meerjungfrau ist eines der berühmtesten Symbole Kopenhagens und basiert auf dem Märchen von Hans Christian Andersen. Sie wurde von Edvard Eriksen geschaffen und 1913 enthüllt und ist zu einem bescheidenen, aber dauerhaften Wahrzeichen an der Uferpromenade der Stadt geworden. Ihre kleine Größe steht im Kontrast zu ihrer großen internationalen Bekanntheit.",
+ hu: "A Kis Hableány szobor Koppenhága egyik leghíresebb szimbóluma, amely Hans Christian Andersen meséje nyomán készült. Edvard Eriksen alkotása 1913-ban került felavatásra, és azóta szerény, de maradandó jelképe a város vízpartjának. Apró mérete éles ellentétben áll hatalmas nemzetközi ismertségével.",
+ ro: "Statuia Mica Sirenă este unul dintre cele mai cunoscute simboluri ale Copenhagăi și este inspirată de basmul lui Hans Christian Andersen. Sculptată de Edvard Eriksen și dezvăluită în 1913, a devenit un reper modest, dar durabil, pe malul apei orașului. Dimensiunea ei mică contrastează cu faima internațională uriașă."},
+ descriptionAdvanced: {
+ de: "Die Statue der Kleinen Meerjungfrau ist das unangefochtene Wahrzeichen Kopenhagens und eines der meistfotografierten Kunstwerke der Welt. Inspiriert durch das berühmte Märchen von Hans Christian Andersen, sitzt die Bronzefigur anmutig auf einem felsen an der Langelinie-Promenade. Das Kunstwerk wurde von Edvard Eriksen geschaffen und im Jahr 1913 enthüllt. Trotz ihrer bescheidenen Größe symbolisiert sie die tiefe Verbindung Dänemarks zur Welt der Märchen und des Meeres. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A koppenhágai Kis hableány (Den Lille Havfrue) szobra a dán főváros legismertebb szimbóluma, amely a Langelinie sétány egyik kövén pihenve kémleli a tengert. A bronzszobrot Edvard Eriksen dán szobrász alkotta meg 1913-ban, Hans Christian Andersen világhírű meséje nyomán. A szobrot Carl Jacobsen, a Carlsberg sörgyár alapítójának fia rendelte meg, miután lenyűgözte őt a meséből készült balettelőadás. Bár a szobor mindössze 1,25 méter magas, a dán tengeri örökség és a mesevilág tökéletes megtestesülése. Az évtizedek során számos vandalizmus áldozata lett, de a dánok mindig helyreállították ikonikus kincsüket. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Mica Sirenă (Den lille Havfrue) este o sculptură din bronz mică, dar de importanță mondială, situată pe o stâncă de pe faleza Langelinie din Copenhaga. Dezvelită în 1913, statuia a fost inspirată de personajul melancolic al basmului scris de faimosul autor danez Hans Christian Andersen. Deși dimensiunile sale relativ modeste îi surprind adesea pe vizitatori, statuia este un simbol inconfundabil al capitalei daneze și un punct de pelerinaj obligatoriu. Sculptura este un dar pentru oraș oferit de fondatorul fabricii de bere Carlsberg, Carl Jacobsen, fiind realizată cu grație de sculptorul Edvard Eriksen. De-a lungul deceniilor, Mica Sirenă a devenit nu doar o atracție turistică, ci și un simbol cultural rezilient al Danemarcei însăși. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Little Mermaid is a timeless bronze statue sitting gracefully on a rock by the waterside at the Langelinie promenade in Copenhagen. Unveiled in 1913, the sculpture was inspired by Hans Christian Andersen's tragic and beautiful fairy tale of the same name. It was commissioned by Carl Jacobsen, the founder of Carlsberg, who was fascinated by a ballet performance of the story. Despite its relatively small size, the statue has become a quintessential symbol of Copenhagen and an international icon. Over the years, the mermaid has survived numerous acts of vandalism, standing as a resilient emblem of Danish cultural heritage. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Statue wurde vom Brauer Carl Jacobsen, dem Gründer von Carlsberg, in Auftrag gegeben.",
+ "Das Gesicht der Statue wurde nach der Primaballerina Ellen Price modelliert.",
+ "Die Statue ist lediglich 1,25 Meter groß und wiegt etwa 175 Kilogramm.",
+ "Im Jahr 2010 reiste die Statue für die Weltausstellung EXPO nach Shanghai."
+ ],
+ hu: [
+ "A szobor arcát Ellen Price balerináról, míg a testét a szobrász feleségéről, Eline Eriksenről mintázták.",
+ "A Kis hableányt 1913. augusztus 23-án avatták fel hivatalosan.",
+ "A szobrot története során többször is megrongálták: kétszer a fejét, egyszer a karját lopták el.",
+ "2010-ben a szobor története során először hagyta el Dániát, hogy a sanghaji Világkiállításon képviselje az országot."
+ ],
+ ro: ["Statuia are o înălțime de doar 1,25 metri și cântărește aproximativ 175 de kilograme, fiind adesea descrisă ca o frumusețe miniaturală.", "Capul sirenei a fost modelat după prim-balerina Ellen Price, în timp ce trupul a fost modelat după soția sculptorului, Eline Eriksen.", "De-a lungul istoriei sale zbuciumate, statuia a fost decapitată de două ori, i-a fost tăiat un braț și a fost acoperită cu vopsea de nenumărate ori.", "Mica Sirenă originală a părăsit Copenhaga o singură dată, în anul 2010, pentru a fi expusă în Pavilionul Danez la Expoziția Mondială din Shanghai.", "Pentru a o proteja de vandali și aglomerație, statuia a fost mutată mai departe în apele golfului față de poziția sa inițială din apropierea țărmului."],
+ en: ["The statue was sculpted by Danish artist Edvard Eriksen and stands just 1.25 meters tall.", "The mermaid's head was modeled after ballerina Ellen Price, while the sculptor's wife posed for the body.", "It is one of the most photographed statues in the world, drawing millions of visitors annually.", "The statue has been decapitated twice and had its arm amputated once by vandals, but has always been restored."]
+ },
+ facts: {
+ en: ["The statue was unveiled in 1913.", "It was inspired by Andersen's fairy tale.", "Edvard Eriksen created the sculpture.", "The statue sits on a rock by the harbor."],
+ de: ["Die Statue wurde 1913 enthüllt.", "Sie ist von Andersens Märchen inspiriert.", "Edvard Eriksen schuf die Skulptur.", "Die Statue sitzt auf einem Felsen am Hafen."],
+ hu: ["A szobrot 1913-ban avatták fel.", "Andersen meséje ihlette.", "Edvard Eriksen készítette a szobrot.", "A szobor a kikötőben egy sziklán áll."],
+ ro: ["Statuia a fost dezvăluită în 1913.", "Este inspirată de basmul lui Andersen.", "Edvard Eriksen a creat sculptura.", "Statuia stă pe o stâncă lângă port."]
+ },
+ image: "/geo-images/denmark/little-mermaid.webp",
+ },
+ {
+ id: "cult-kronborg",
+ type: "landmark",
+ parent: "denmark",
+ coords: [12.6217, 56.039],
+ name: { de: "Schloss Kronborg", hu: "Kronborg vár", ro: "Castelul Kronborg", en: "Kronborg Castle" },
+ description: {
+ en: "Kronborg Castle rises above the Øresund near Helsingor and is one of Denmark's most important historic fortresses. It is globally known as the setting of Shakespeare's Hamlet and is recognized by UNESCO for its cultural value. The castle's bastions, halls, and sea views make it a powerful symbol of Danish history.",
+ de: "Schloss Kronborg erhebt sich über den Øresund bei Helsingør und gehört zu Dänemarks wichtigsten historischen Festungen. Es ist weltweit als Schauplatz von Shakespeares Hamlet bekannt und wird von der UNESCO für seinen kulturellen Wert anerkannt. Seine Bastionen, Säle und der Blick aufs Meer machen es zu einem starken Symbol dänischer Geschichte.",
+ hu: "A Kronborg vár Helsingør közelében magasodik az Øresund fölé, és Dánia egyik legfontosabb történelmi erődje. Világszerte Shakespeare Hamletjének helyszíneként ismert, és az UNESCO is elismeri kulturális értékét. Bástyái, termei és tengeri kilátása a dán történelem erőteljes jelképévé teszik.",
+ ro: "Castelul Kronborg se ridică deasupra strâmtorii Øresund, lângă Helsingør, și este una dintre cele mai importante fortărețe istorice ale Danemarcei. Este cunoscut în întreaga lume ca decorul piesei Hamlet de Shakespeare și este recunoscut de UNESCO pentru valoarea sa culturală. Bastioanele, sălile și priveliștea către mare îl transformă într-un simbol puternic al istoriei daneze."},
+ descriptionAdvanced: {
+ de: "Schloss Kronborg in Helsingør ist eine der bedeutendsten Renaissanceschlösser Nordeuropas und ein UNESCO-Weltkulturerbe. Strategisch am Öresund gelegen, diente es jahrhundertelang der Kontrolle der Schifffahrt und der Erhebung des Sundzolls. Weltberühmt wurde die Festung als Schauplatz für William Shakespeares Tragödie „Hamlet“, in der das Schloss als Elsinore bekannt ist. In den dunklen Kasematten tief unter dem Schloss schläft zudem die Sagengestalt Holger Danske, der Dänemark in Zeiten der Not beschützen soll. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Kronborg-kastély Helsingør partjainál magasodik, Dánia egyik legfontosabb reneszánsz épülete és az UNESCO Világörökség része. A kastély stratégiai helyen, az Øresund-szoros legszűkebb pontján épült, és évszázadokon át a tengeri kereskedelem feletti hatalmat szimbolizálta a híres Øresund-vám révén. Világhírét azonban William Shakespeare drámájának, a 'Hamletnek' köszönheti, amely a műben Elsinore néven szerepel. A pazar báltermek és a nyomasztó kazamaták bejárása során megelevenedik a dán királyi történelem. A kazamaták mélyén alszik a dánok mitikus hőse, Holger Danske, aki a legenda szerint felébred, ha az országot veszély fenyegeti. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Castelul Kronborg, o capodoperă renascentistă magnifică din orașul Elsinore (Helsingør), stă mândru la intrarea în strâmtoarea Øresund. Construit pentru a domina traficul maritim și a colecta taxe vamale valoroase, acest castel a jucat un rol crucial în afirmarea puterii Regatului Danemarcei în Europa de Nord. Arhitectura sa se caracterizează prin spire verzi elegante de cupru, pereți din gresie masivă și interioare luxoase, care au supraviețuit parțial incendiilor și asediilor suedeze din secolul al XVII-lea. Renumele internațional al Kronborg-ului derivă din asocierea sa legendară cu capodopera lui William Shakespeare, 'Hamlet', care l-a plasat ca decor principal. Fiecare colț al castelului respiră istorie regală, drame teatrale și mistere vechi. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Kronborg Castle is a majestic Renaissance stronghold situated on a strategic promontory in Helsingør, overlooking the narrowest point of the Øresund strait. The castle's imposing copper-roofed towers and formidable fortifications have guarded the entrance to the Baltic Sea since the 16th century. Kronborg is globally celebrated as 'Elsinore', the immortalized setting of William Shakespeare's masterpiece, Hamlet. Inside, visitors can explore opulent royal apartments, the magnificent ballroom, and the dark, mythic casemates below, home to the sleeping hero Holger Danske. Recognized as a UNESCO World Heritage site, Kronborg represents a powerful symbol of Denmark's historical naval dominance. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Schloss Kronborg wurde im Jahr 2000 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+ "Der Rittersaal des Schlosses war bei seiner Fertigstellung einer der größten in Europa.",
+ "Das Schloss wurde nach einem verheerenden Brand im 17. Jahrhundert von Christian IV. wiederaufgebaut.",
+ "Jährlich finden im Schlosshof Aufführungen von Shakespeares Stücken statt."
+ ],
+ hu: [
+ "A kastélyt II. Frigyes dán király építtette át monumentális reneszánsz palotává a 16. század végén.",
+ "Shakespeare valószínűleg soha nem járt a kastélyban, hanem tengerészek és vándorszínészek leírásaira támaszkodott.",
+ "A kastély 1629-ben szinte teljesen leégett, de IV. Keresztély király újjáépíttette.",
+ "Minden nyáron nagyszabású Shakespeare Fesztivált rendeznek a kastély udvarán."
+ ],
+ ro: ["În fiecare vară, castelul prinde viață prin 'Shakespeare Festival', unde companii teatrale renumite din întreaga lume pun în scenă piesele lui Shakespeare.", "În catacombele întunecate ale castelului se odihnește statuia eroului adormit Holger Danske, care, conform legendei, se va trezi doar când Danemarca se va afla în mare primejdii.", "Kronborg a fost adăugat oficial pe Lista Patrimoniului Mondial UNESCO în anul 2000, fiind recunoscut pentru arhitectura și istoria sa simbolică.", "Castelul a fost reconstruit într-un stil și mai grandios de către Regele Christian al IV-lea, după un incendiu masiv din anul 1629.", "Din turnurile Kronborg-ului, distanța până la coasta Suediei este de doar 4 kilometri, permițând vizitatorilor să vadă clar orașul suedez vecin Helsingborg."],
+ en: ["Kronborg was designated as a UNESCO World Heritage site in 2000.", "The castle's strategic position allowed Danish kings to ruthlessly enforce the lucrative Sound Dues on passing ships.", "A legend says that the mythical hero Holger Danske sleeps in the castle's dungeons and will awaken to save Denmark in its hour of greatest need.", "The castle hosts an annual Shakespeare festival where renowned theater companies perform Hamlet."]
+ },
+ facts: {
+ en: ["Kronborg is a UNESCO World Heritage site.", "It is famously associated with Hamlet.", "The castle controlled the Øresund tolls for centuries.", "Its location gave Denmark major strategic power."],
+ de: ["Kronborg ist UNESCO-Weltkulturerbe.", "Es ist berühmt mit Hamlet verbunden.", "Das Schloss kontrollierte jahrhundertelang die Øresund-Zölle.", "Seine Lage verschaffte Dänemark große strategische Macht."],
+ hu: ["A Kronborg UNESCO világörökségi helyszín.", "A kastély híresen Hamlethez kapcsolódik.", "A vár évszázadokon át ellenőrizte az Øresund vámjait.", "Fekvése jelentős stratégiai erőt adott Dániának."],
+ ro: ["Kronborg este sit UNESCO al Patrimoniului Mondial.", "Castelul este asociat în mod celebru cu Hamlet.", "Timp de secole a controlat taxele din Øresund.", "Poziția sa i-a oferit Danemarcei o putere strategică majoră."]
+ },
+ image: "/geo-images/denmark/kronborg.webp",
+ },
+ {
+ id: "land-round-tower",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.5747, 55.6818],
+ name: { de: "Rundetårn", hu: "Rundetårn", ro: "Turnul Rotund", en: "Round Tower" },
+ description: {
+ en: "The Round Tower is one of Copenhagen's most recognizable landmarks and a premier destination for city views and historic architecture. Built in the 17th century as an astronomical observatory, it combines practical science history with a graceful spiral ramp and panoramic views. Its location in the old center makes it easy to pair with shopping streets, churches, and classic Copenhagen sightseeing. The Round Tower remains a compact but memorable symbol of the Danish capital.",
+ de: "Der Rundetårn ist eines der bekanntesten Wahrzeichen Kopenhagens und ein erstklassiges Ziel für Stadtblicke und historische Architektur. Im 17. Jahrhundert als astronomisches Observatorium erbaut, verbindet er praktische Wissenschaftsgeschichte mit einer eleganten Spirale und Panoramaausblicken. Seine Lage im alten Zentrum macht ihn leicht kombinierbar mit Einkaufsstraßen, Kirchen und klassischem Kopenhagen-Sightseeing. Der Rundetårn bleibt ein kompaktes, aber unvergessliches Symbol der dänischen Hauptstadt.",
+ hu: "A Rundetårn Koppenhága egyik legismertebb jelképéhez tartozik, így kiemelkedő célpont a városi kilátás és a történelmi építészet témájában. A 17. században csillagászati obszervatóriumnak épült, és a gyakorlati tudománytörténetet elegáns spirálrámpával és panorámával ötvözi. Az óvárosi elhelyezkedése miatt könnyen összeköthető bevásárlóutcákkal, templomokkal és klasszikus koppenhágai városnézéssel. A Rundetårn kicsi, mégis emlékezetes szimbóluma a dán fővárosnak.",
+ ro: "Turnul Rotund este unul dintre cele mai recognoscibile repere ale Copenhagăi și o alegere excelentă pentru priveliști urbane și arhitectură istorică. Construit în secolul al XVII-lea ca observator astronomic, el combină istoria științei cu o rampă spiralată elegantă și priveliști panoramice. Amplasarea sa în centrul vechi îl face ușor de combinat cu străzi comerciale, biserici și obiective clasice din Copenhaga. Turnul Rotund rămâne un simbol compact, dar memorabil, al capitalei daneze."},
+ descriptionAdvanced: {
+ de: "Der Rundetårn in Kopenhagen ist ein einzigartiges architektonisches Juwel aus dem 17. Jahrhundert und das älteste funktionierende Observatorium Europas. Anstatt einer Treppe führt ein breiter, spiralförmiger Gang im Inneren des Turms zur Aussichtsplattform hinauf. Dieser wurde ursprünglich gebaut, damit Pferdegespanne schwere astronomische Instrumente nach oben ziehen konnten. Von der Spitze bietet sich ein herrlicher Panoramablick über die roten Dächer der Kopenhagener Altstadt. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Rundetårn (Kerek torony) Koppenhága belvárosának egyik legjellegzetesebb 17. századi épülete, amelyet csillagvizsgálóként emeltek. A torony különlegessége a lépcsők hiánya; ehelyett egy széles, spirális rámpa vezet a mintegy 35 méter magasan lévő kilátóba, ahonnan páratlan körpanoráma nyílik a városra. IV. Keresztély dán király azért rendelte el a felépítését, hogy a híres csillagász, Tycho Brahe munkássága folytatódhasson a fővárosban. A torony egykor a Koppenhágai Egyetem csillagászati központja, egyetemi templom és könyvtár is volt egyben. Ma népszerű turisztikai látványosság és Európa legrégebbi működő csillagvizsgálója. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Turnul Rotund (Rundetårn) din inima Copenhagăi este o minune arhitecturală a secolului al XVII-lea, remarcându-se prin platforma sa observatorie care domină orizontul orașului vechi. Construit de regele pasionat de știință Christian al IV-lea, a fost conceput ca un observator astronomic universitar, o biserică și o bibliotecă pentru studenți, toate reunite într-o singură structură monumentală. În loc de scări tradiționale abrupte, vizitatorii urcă o rampă spiralată impresionantă, placată cu cărămidă, care înconjoară nucleul gol al turnului până în vârf. Designul a permis urcarea echipamentelor grele și a instrumentelor cu ajutorul cailor și al căruțelor direct până la punctul de observație. Turnul Rotund este un simbol al Iluminismului danez și o structură iconică în cultura europeană. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Round Tower, or Rundetårn, is a striking 17th-century architectural marvel in central Copenhagen, built as an astronomical observatory. Commissioned by King Christian IV, the tower is most famous for its unique equestrian staircase—a wide, spiral ramp that leads to the top without a single step. This design allowed horses and carts to transport heavy astronomical equipment directly to the observation deck. Today, the tower offers visitors panoramic views over the old city's red-tiled roofs and spires. It remains the oldest functioning observatory in Europe, seamlessly blending historical science with exceptional architectural design. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Turm wurde von König Christian IV. als Teil des Trinitatis-Komplexes erbaut.",
+ "Der spiralförmige Gang ist rund 209 Meter lang und windet sich 7,5-mal um den Kern des Turms.",
+ "Im Jahr 1716 ritt Zar Peter der Große von Russland auf einem Pferd den Gang hinauf.",
+ "In der Mitte des Turms befindet sich eine Glasnische, von der man in den hohlen Kern des Bauwerks blicken kann."
+ ],
+ hu: [
+ "A torony spirális rámpája több mint 200 méter hosszú, és hét és félszer kanyarodik a tengely körül.",
+ "A legenda szerint Nagy Péter orosz cár 1716-os látogatásakor lóháton vágtatott fel a toronyba, míg felesége hintóban követte.",
+ "A torony homlokzatán egy aranyozott rebusz (képrejtvény) látható, amelyet maga IV. Keresztély király tervezett.",
+ "A Rundetårn a mai napig használatos amatőr csillagászati megfigyelésekre, különösen a téli hónapokban."
+ ],
+ ro: ["Turnul Rotund este cel mai vechi observator astronomic funcțional din Europa și continuă să fie folosit și astăzi de către astronomii amatori.", "Rampa ecvestră lungă de 209 metri face șapte rotații și jumătate în jurul miezului central înainte de a ajunge la nivelul superior.", "În anul 1716, Țarul Petru cel Mare al Rusiei ar fi urcat rampa călare, în timp ce soția sa, Ecaterina, l-a urmat într-o trăsură trasă de cai.", "Complexul Trinitatis, din care face parte turnul, a adăpostit Biblioteca Universitară, complet distrusă de focul mare al orașului din 1728.", "Fațada exterioară a turnului are o grilă aurită unică, concepută chiar de regele Christian al IV-lea, cu mesaje și referințe divine în latină și ebraică."],
+ en: ["The tower's spiral ramp twists 7.5 times around the hollow core before reaching the top.", "Russian Tsar Peter the Great famously rode his horse up the tower's ramp in 1716.", "The Round Tower forms part of the Trinitatis Complex, which also includes a church and a university library.", "An inscription on the tower's facade features a golden rebus designed by King Christian IV himself."]
+ },
+ facts: {
+ en: ["The tower was built in the 1600s.", "It originally served as an astronomical observatory.", "Its spiral ramp is one of its most famous features.", "The tower offers panoramic city views.", "It is one of Copenhagen's classic landmarks."],
+ de: ["Der Turm wurde im 17. Jahrhundert erbaut.", "Er diente ursprünglich als astronomisches Observatorium.", "Seine Spirale ist eines seiner bekanntesten Merkmale.", "Der Turm bietet Panoramablicke über die Stadt.", "Er gehört zu den klassischen Wahrzeichen Kopenhagens."],
+ hu: ["A torony a 17. században épült.", "Eredetileg csillagászati obszervatóriumként szolgált.", "Spirális rámpája az egyik leghíresebb eleme.", "A torony panorámás városi kilátást kínál.", "Koppenhága klasszikus jelképei közé tartozik."],
+ ro: ["Turnul a fost construit în anii 1600.", "Inițial a servit ca observator astronomic.", "Rampa spiralată este una dintre cele mai faimoase caracteristici.", "Turnul oferă priveliști panoramice asupra orașului.", "Este unul dintre reperele clasice ale Copenhagăi."]
+ },
+ image: "/geo-images/denmark/round-tower.webp",
+ },
+ {
+ id: "land-copenhagen-opera-house",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.6032, 55.6829],
+ name: { de: "Kopenhagener Opernhaus", hu: "Koppenhágai Operaház", ro: "Opera din Copenhaga", en: "Copenhagen Opera House" },
+ description: {
+ en: "The Copenhagen Opera House is a modern landmark on the harbor and a significant landmark for architecture and waterfront sightseeing in Denmark. Its bold design and prominent position across from Amalienborg make it one of the most photographed contemporary buildings in the city. Visitors often combine it with harbor walks, ferry views, and the nearby royal district. The opera house represents the modern side of Danish design while still sitting within a historic skyline.",
+ de: "Das Kopenhagener Opernhaus ist ein modernes Wahrzeichen am Hafen und ein bedeutendes Wahrzeichen für Architektur und Ufer-Sightseeing in Dänemark. Sein kühnes Design und die prominente Lage gegenüber von Amalienborg machen es zu einem der meistfotografierten zeitgenössischen Gebäude der Stadt. Besucher kombinieren es oft mit Spaziergängen am Hafen, Fährblicken und dem nahe gelegenen königlichen Viertel. Das Opernhaus steht für die moderne Seite des dänischen Designs und fügt sich dennoch in eine historische Skyline ein.",
+ hu: "A Koppenhágai Operaház modern jelkép a kikötőnél, és fontos-kulcsszó a dániai építészethez és vízparti városnézéshez. Merész formája és az Amalienborggal szembeni kiemelt helyzete miatt a város egyik legtöbbet fotózott kortárs épülete. A látogatók gyakran kötik össze kikötői sétákkal, kompkilátással és a közeli királyi negyeddel. Az operaház a dán dizájn modern oldalát képviseli, miközben mégis a történelmi városkép része marad.",
+ ro: "Opera din Copenhaga este un reper modern al portului și un cuvânt-cheie important pentru arhitectură și vizitarea falezei în Danemarca. Designul său îndrăzneț și poziția proeminentă vizavi de Amalienborg îl fac una dintre cele mai fotografiate clădiri contemporane ale orașului. Vizitatorii îl combină adesea cu plimbări pe malul apei, priveliști către feriboturi și cartierul regal din apropiere. Opera reprezintă latura modernă a designului danez, rămânând totuși în cadrul unui skyline istoric."},
+ descriptionAdvanced: {
+ de: "Das Kopenhagener Opernhaus ist eines der modernsten und architektonisch spektakulärsten Gebäude der Welt. Direkt am Wasser auf der Insel Holmen gelegen, besticht das Bauwerk durch seine markante Dachkonstruktion und die gläserne Fassade. Die Oper wurde vom Architekten Henning Larsen entworfen und war ein großzügiges Geschenk einer privaten Stiftung an den dänischen Staat. Die Innenausstattung glänzt mit edlen Materialien wie Ahornholz und Blattgold, was den hohen kulturellen Anspruch Dänemarks widerspiegelt. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Koppenhágai Operaház (Operaen) a modern dán építészet egyik legkiemelkedőbb alkotása, amely a kikötő partján, az Amalienborg palotával egy tengelyen helyezkedik el. A Henning Larsen építész által tervezett neofuturista épületet 2005-ben adták át, és a világ egyik legdrágább és legmodernebb operaházának számít. A hatalmas, lebegő tető és a hatalmas üvegfalak szoros kapcsolatot teremtenek az épület belső tere és a tengeri panoráma között. A fő előadóterem lenyűgöző akusztikával és klasszikus patkó alakú elrendezéssel várja a látogatókat. Az Operaház nemcsak a művészetek szentélye, hanem a dán főváros 21. századi arculatának meghatározó eleme is. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Opera din Copenhaga (Operaen) este o structură de avangardă extraordinară, situată pe malul apei din portul orașului, fiind considerată una dintre cele mai moderne opere din lume. Proiectată de renumitul arhitect danez Henning Larsen, clădirea masivă se distinge prin fațada spectaculoasă din sticlă, liniile sale geometrice curate și acoperișul uriaș în consolă care pare să plutească deasupra intrării. Interiorul este la fel de impresionant ca și exteriorul, cu o aulă magnifică din lemn de arțar cald, acustică perfectă și foiță de aur integrată în tavanul auditoriului principal. Cu dotările sale tehnice complexe și scena capabilă să facă schimbări de decor incredibil de rapide, Opera a devenit un bastion al artelor spectacolului la nivel global. A fost finanțată și donată statului danez de către Mærsk Mc-Kinney Møller, unul dintre cei mai bogați magnați din Danemarca. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Copenhagen Opera House is a breathtaking masterpiece of modern architecture, situated prominently on the island of Holmen in central Copenhagen. Designed by the renowned Danish architect Henning Larsen, it is recognized as one of the most expensive and technically advanced opera houses ever built. The structure features a massive, gravity-defying cantilevered roof and a stunning glass facade that beautifully illuminates the harbor at night. The interior boasts world-class acoustics, opulent materials, and a ceiling adorned with gold leaf in the main auditorium. It stands as a profound modern monument to Danish cultural ambition and architectural excellence. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Opernhaus wurde im Jahr 2005 eingeweiht und kostete über 2,3 Milliarden Dänische Kronen.",
+ "Die Decke des Hauptsaals ist mit 105.000 Blättern aus 24-karätigem Blattgold belegt.",
+ "Das Gebäude verfügt über 14 Stockwerke, von denen sich fünf unter der Erde befinden.",
+ "Es liegt in einer direkten Sichtachse mit Schloss Amalienborg und der Marmorkirche."
+ ],
+ hu: [
+ "Az Operaház építésének teljes költségét, több mint 500 millió dollárt, a dán milliárdos Mærsk Mc-Kinney Møller alapítványa adományozta a dán államnak.",
+ "Az épület több mint 41 000 négyzetméteres, és 14 emelettel rendelkezik, amelyből öt a föld alatt található.",
+ "A fő előadóterem mennyezetét mintegy 105 000 lap 24 karátos aranyfüsttel borították be.",
+ "A zenekari árok Európa egyik legnagyobbja, több mint 110 zenész befogadására alkalmas."
+ ],
+ ro: ["Clădirea are 14 etaje uimitoare, dar nu mai puțin de cinci dintre acestea sunt complet subterane, extinzându-se mult sub nivelul mării.", "Tavanul auditoriului principal strălucește spectaculos, fiind acoperit cu nu mai puțin de 105.000 de foițe individuale de aur pur de 24 de carate.", "Podul acoperișului suspendat al clădirii măsoară o lungime impresionantă de 158 de metri, oferind o priveliște clară către Palatul Amalienborg.", "Candelabrele colosale de sticlă din foaier, proiectate de faimosul artist islandez-danez Olafur Eliasson, amintesc vizual de formele planetelor luminate.", "Acustica incredibilă a sălii a fost optimizată la extrem, chiar și suprafața scaunelor fiind tăiată strategic pentru a preveni reflectarea excesivă a sunetului."],
+ en: ["The Opera House was generously donated to the Danish state by the A.P. Møller and Chastine Mc-Kinney Møller Foundation.", "Its construction cost exceeded 2.5 billion Danish kroner, making it one of the most expensive opera houses in the world.", "The main auditorium is decorated with exactly 105,000 sheets of 24-carat gold leaf.", "The building features 14 stories, five of which are constructed completely underground."]
+ },
+ facts: {
+ en: ["The building opened in 2005.", "It was designed by Henning Larsen.", "It sits directly on Copenhagen's harbor front.", "The roof extends dramatically over the entrance.", "It is one of the city's signature modern landmarks."],
+ de: ["Das Gebäude wurde 2005 eröffnet.", "Es wurde von Henning Larsen entworfen.", "Es liegt direkt an Kopenhagens Hafenfront.", "Das Dach ragt dramatisch über den Eingang hinaus.", "Es ist eines der typischen modernen Wahrzeichen der Stadt."],
+ hu: ["Az épület 2005-ben nyílt meg.", "Henning Larsen tervezte.", "Közvetlenül Koppenhága kikötőfrontján áll.", "A tető látványosan nyúlik a bejárat fölé.", "A város egyik jellegzetes modern jelképe."],
+ ro: ["Clădirea a fost inaugurată în 2005.", "A fost proiectată de Henning Larsen.", "Se află direct pe faleza portului din Copenhaga.", "Acoperișul se extinde dramatic peste intrare.", "Este unul dintre reperele moderne emblematice ale orașului."]
+ },
+ image: "/geo-images/denmark/copenhagen-opera-house.webp",
+ },
+ {
+ id: "land-louisiana-museum",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.5317, 55.9689],
+ name: { de: "Louisiana Museum", hu: "Louisiana Múzeum", ro: "Muzeul Louisiana", en: "Louisiana Museum of Modern Art" },
+ description: {
+ en: "Louisiana Museum of Modern Art is a premier landmark north of Copenhagen, combining art, architecture, and sea views in one visit. The museum is famous for its sculpture park, contemporary exhibitions, and the way its buildings connect with the coastal landscape. It attracts both art lovers and travelers who want a refined Danish day trip. Louisiana is one of the clearest examples of how Denmark blends culture, design, and scenery.",
+ de: "Das Louisiana Museum of Modern Art ist ein erstklassiges Wahrzeichen nördlich von Kopenhagen und verbindet Kunst, Architektur und Meerblick in einem Besuch. Das Museum ist berühmt für seinen Skulpturenpark, seine zeitgenössischen Ausstellungen und die Art, wie sich die Gebäude in die Küstenlandschaft einfügen. Es zieht sowohl Kunstliebhaber als auch Reisende an, die einen anspruchsvollen dänischen Tagesausflug suchen. Louisiana ist eines der klarsten Beispiele dafür, wie Dänemark Kultur, Design und Landschaft verbindet.",
+ hu: "A Louisiana Museum of Modern Art kiemelkedő-jelentőségű látványosság Koppenhágától északra, mert egyetlen látogatásban ötvözi a művészetet, az építészetet és a tengeri kilátást. A múzeum híres szoborkertjéről, kortárs kiállításairól és arról, ahogyan az épületek kapcsolódnak a tengerparti tájhoz. Egyszerre vonzza a művészetkedvelőket és azokat az utazókat, akik kifinomult dán egynapos kirándulást keresnek. A Louisiana annak az egyik legtisztább példája, ahogyan Dánia a kultúrát, a dizájnt és a tájat összekapcsolja.",
+ ro: "Muzeul de Artă Modernă Louisiana este un reper de top la nord de Copenhaga, combinând arta, arhitectura și priveliștile către mare într-o singură vizită. Muzeul este celebru pentru parcul său de sculpturi, expozițiile contemporane și modul în care clădirile se integrează în peisajul de coastă. Atrage atât iubitorii de artă, cât și călătorii care vor o excursie daneză rafinată de o zi. Louisiana este unul dintre cele mai clare exemple ale modului în care Danemarca îmbină cultura, designul și peisajul."},
+ descriptionAdvanced: {
+ de: "Das Louisiana Museum of Modern Art in Humlebæk gilt als eines der schönsten Kunstmuseen der Welt. Die Architektur des Museums fügt sich harmonisch in die Küstenlandschaft am Öresund ein und verbindet Innen- und Außenräume auf einzigartige Weise. In der umfangreichen Sammlung finden sich Meisterwerke der internationalen Moderne, darunter Werke von Picasso, Giacometti und Yayoi Kusama. Der weitläufige Skulpturenpark bietet zudem Kunstgenuss unter freiem Himmel mit Blick auf die schwedische Küste. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Louisiana Modern Művészeti Múzeum a tengerparton, egy gyönyörű parkban fekszik Koppenhágától északra, és Dánia leglátogatottabb művészeti intézménye. A múzeum az építészet, a táj és a művészet tökéletes szintézisét nyújtja; az üvegfolyosókról csodálatos kilátás nyílik az Øresund-szorosra és a szoborparkra. A gyűjtemény a második világháború utáni nemzetközi kortárs művészetre fókuszál, olyan neves művészek alkotásaival, mint Picasso, Giacometti és Warhol. A múzeum alapítója, Knud W. Jensen egy olyan helyet álmodott meg, ahol a művészet nem elitista, hanem mindenki számára elérhető és élvezhető. A Louisiana nem pusztán egy kiállítótér, hanem egy teljes kulturális oázis. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Muzeul de Artă Modernă Louisiana, amplasat superb pe coasta de nord a insulei Zeeland, reunește într-o armonie rară capodopere artistice internaționale și natura daneză. Arhitectura complexului evită formele grandioase, concentrându-se pe pavilioane vitrate joase, conectate subtil, care ghidează natural vizitatorul prin diversele colecții expoziționale. Considerat unul dintre cele mai influente și respectate muzee de artă modernă din Europa, Louisiana expune o diversitate impresionantă de pictură contemporană, sculptură și o secțiune remarcabilă de pop-art. Parcul de sculpturi exterioare, cu vedere clară peste Strâmtoarea Øresund către țărmul suedez, este la fel de esențial pentru experiența oferită ca și interiorul clădirii. Atmosfera relaxată subliniază dorința fondatorului său de a face arta vizuală mai accesibilă tuturor oamenilor, nu doar elitelor. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Louisiana Museum of Modern Art is an internationally acclaimed art institution located on the coast of North Zealand, offering stunning views across the Øresund strait to Sweden. The museum is celebrated for its seamless integration of modern art, visionary architecture, and serene landscape design. It houses an extensive permanent collection featuring modern masters like Picasso, Warhol, and Giacometti, alongside dynamic temporary exhibitions. The museum's sculpture park is particularly renowned, perfectly harmonizing large-scale artworks with nature. Louisiana is not just a gallery, but a holistic cultural experience that redefines how art is engaged with. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Museum wurde 1958 von Knud W. Jensen gegründet.",
+ "Der Name 'Louisiana' stammt von den drei Ehefrauen des ursprünglichen Grundstücksbesitzers, die alle Louise hießen.",
+ "Das Museum beherbergt die weltweit größte Sammlung von Werken Alberto Giacomettis.",
+ "Louisiana ist das meistbesuchte Kunstmuseum in ganz Dänemark."
+ ],
+ hu: [
+ "A múzeum nevét az eredeti ingatlan tulajdonosának három feleségéről kapta, akiket mind Louise-nak hívtak.",
+ "A múzeum szoborparkjában több mint 60 alkotás található harmonikus természeti környezetben.",
+ "A Louisiana évente mintegy 600 ezer látogatót vonz, ezzel a világ egyik legnépszerűbb modern művészeti múzeuma.",
+ "Az épületegyüttes többszöri bővítése úgy történt, hogy szigorúan megőrizték a régi fák és a természetes táj épségét."
+ ],
+ ro: ["Numele neobișnuit al muzeului, 'Louisiana', derivă pur și simplu de la primele trei soții ale proprietarului inițial al domeniului, pe care le chema pe toate Louise.", "Muzeul este renumit în întreaga lume pentru colecția sa vastă permanentă de sculpturi gigantice create de artistul elvețian Alberto Giacometti.", "Complexul a fost extins în mai multe faze invizibile de-a lungul deceniilor, păstrând mereu aspectul neintruziv, intim, cu tavane plate joase.", "Faimoasa 'Camera Strălucitoare' ('Gleaming Lights of the Souls') de Yayoi Kusama este o instalație permanentă halucinantă, acoperită cu oglinzi, extrem de populară.", "Parcul vast se integrează complet cu peisajul natural de coastă, prezentând opere majore de la Calder, Moore și Richard Serra încadrate în natură."],
+ en: ["The museum was founded in 1958 by Knud W. Jensen, who aimed to make modern art accessible to a broader public.", "The name 'Louisiana' was chosen because the property's original owner had three successive wives, all named Louise.", "It is the most visited art museum in Denmark, attracting hundreds of thousands of international guests annually.", "The museum's architecture is a prime example of Danish modernist style, characterized by glass corridors connecting pavilions."]
+ },
+ facts: {
+ en: ["It is located in Humlebæk north of Copenhagen.", "The museum is known for world-class modern art.", "Its sculpture park is a major attraction.", "The sea-facing setting is part of its appeal.", "Louisiana is one of Denmark's most visited museums."],
+ de: ["Es liegt in Humlebæk nördlich von Kopenhagen.", "Das Museum ist für Kunst von Weltrang bekannt.", "Der Skulpturenpark ist eine Hauptattraktion.", "Die Lage mit Blick aufs Meer ist Teil seines Reizes.", "Louisiana gehört zu den meistbesuchten Museen Dänemarks."],
+ hu: ["Humlebækben, Koppenhágától északra található.", "A múzeum világszínvonalú modern művészetéről ismert.", "A szoborkertje nagy vonzerő.", "A tengerre néző fekvése az egyik fő vonzereje.", "A Louisiana Dánia egyik leglátogatottabb múzeuma."],
+ ro: ["Este situat în Humlebæk, la nord de Copenhaga.", "Muzeul este cunoscut pentru artă modernă de clasă mondială.", "Parcul său de sculpturi este o atracție majoră.", "Amplasarea cu vedere la mare face parte din farmecul lui.", "Louisiana este unul dintre cele mai vizitate muzee din Danemarca."]
+ },
+ image: "/geo-images/denmark/louisiana-museum.webp",
+ },
+ {
+ id: "land-aros-aarhus-art-museum",
+ type: "landmark",
+ parent: "DK",
+ coords: [10.2076, 56.1572],
+ name: { de: "ARoS Aarhus Kunstmuseum", hu: "ARoS Aarhus Művészeti Múzeum", ro: "Muzeul de Artă ARoS Aarhus", en: "ARoS Aarhus Art Museum" },
+ description: {
+ en: "ARoS Aarhus Art Museum is one of the strongest modern landmark keywords for Denmark and a signature stop in Aarhus. Its rainbow panorama on the roof has become an international image of the city, while the exhibitions inside keep it culturally relevant year-round. The museum anchors Aarhus as a contemporary art destination with global reach. It is a must for visitors who want design, color, and skyline views in one place.",
+ de: "Das ARoS Aarhus Kunstmuseum ist eines der stärksten modernen Wahrzeichen für Dänemark und ein typischer Anlaufpunkt in Aarhus. Sein Regenbogenpanorama auf dem Dach ist zu einem internationalen Bild der Stadt geworden, während die Ausstellungen im Inneren es ganzjährig kulturell relevant halten. Das Museum verankert Aarhus als zeitgenössisches Kunstziel mit globaler Ausstrahlung. Es ist ein Muss für Besucher, die Design, Farbe und Skyline-Blicke an einem Ort wollen.",
+ hu: "Az ARoS Aarhus Művészeti Múzeum Dánia egyik legerősebb modern landmark kulcsszava és Aarhus egyik jellegzetes állomása. A tetőn lévő szivárvány panoráma a város nemzetközi jelképévé vált, miközben a belső kiállítások egész évben kulturálisan relevánssá teszik. A múzeum Aarhus-t kortárs művészeti célpontként pozicionálja globális hatókörrel. Kötelező mindazoknak, akik egy helyen keresnek dizájnt, színeket és városi kilátást.",
+ ro: "Muzeul de Artă ARoS Aarhus este unul dintre cele mai puternice cuvinte-cheie pentru repere moderne în Danemarca și o oprire emblematică în Aarhus. Panorama curcubeu de pe acoperiș a devenit o imagine internațională a orașului, iar expozițiile din interior îl păstrează relevant cultural pe tot parcursul anului. Muzeul consolidează Aarhus ca destinație de artă contemporană cu anvergură globală. Este obligatoriu pentru vizitatorii care vor design, culoare și priveliști urbane într-un singur loc."},
+ descriptionAdvanced: {
+ de: "Das ARoS Aarhus Kunstmuseum ist eines der größten und wegweisendsten Kunstmuseen Nordeuropas. Das architektonische Meisterwerk ist weithin bekannt für das „Your rainbow panorama“, einen begehbaren kreisförmigen Glaskanal in Regenbogenfarben auf dem Dach des Gebäudes. Im Inneren führt der Weg die Besucher durch verschiedene thematische Ebenen, die von der Unterwelt bis zum Himmel reichen. ARoS präsentiert eine beeindruckende Sammlung von der dänischen Romantik bis hin zu zeitgenössischen Installationen. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "Az ARoS Aarhus Művészeti Múzeum Dánia egyik legnagyobb és leginnovatívabb múzeuma, Aarhus városának modern ikonja. A múzeum építészetileg Dante 'Isteni színjátékát' modellezi, ahol a kiállítóterek a Pokoltól a Mennyországig ívelnek. Az épület koronája a 'Your rainbow panorama', egy 150 méter hosszú, szivárványszínű üveg körsétány, amelyet az izlandi-dán művész, Olafur Eliasson tervezett. Ebből a sétányból páratlan, színpompás kilátás nyílik az egész városra. Az ARoS nemcsak jelentős dán aranykori gyűjteménnyel rendelkezik, hanem merész kortárs kiállításaival a globális művészeti színtér meghatározó szereplője. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Muzeul de Artă ARoS este un colos arhitectural curajos din centrul orașului Aarhus și reprezintă unul dintre cele mai mari și mai vibrante muzee de artă din întreaga Europă de Nord. Clădirea masivă, de formă cubică și construită din cărămidă roșie solidă, urmează metaforic structura lumii descrise în 'Divina Comedie' de celebrul Dante Alighieri. Colecțiile muzeului variază imens ca tematică, de la artă daneză aparținând „Epocii de Aur”, până la lucrări contemporane provocatoare, instalații interactive și artă video. Simbolul său inconfundabil este 'Your rainbow panorama', un spectaculos coridor circular suspendat pe acoperiș, care acoperă întregul spectru de culori. Acest element oferă vizitatorilor nu doar vederi epice asupra orașului Aarhus, dar și posibilitatea de a vedea realitatea însăși în zeci de nuanțe diferite. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The ARoS Aarhus Art Museum is one of Northern Europe's largest and most visually striking contemporary art museums, located in the heart of Aarhus. The building's cubic architecture is famously crowned by 'Your rainbow panorama', a spectacular circular glass walkway created by artist Olafur Eliasson that offers 360-degree views of the city in all colors of the spectrum. The museum's interior is inspired by Dante's 'Divine Comedy', guiding visitors from the dark underworld galleries up to the celestial light of the roof. ARoS features extensive collections ranging from Danish Golden Age paintings to cutting-edge international contemporary installations. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Name ARoS leitet sich vom alten Wikingernamen der Stadt Aarhus, 'Aros', ab.",
+ "Das Regenbogenpanorama auf dem Dach wurde vom dänisch-isländischen Künstler Olafur Eliasson entworfen.",
+ "Ein Wahrzeichen des Museums ist die 4,5 Meter hohe, hyperrealistische Skulptur 'Boy' von Ron Mueck.",
+ "Das Museum verfügt über insgesamt 10 Stockwerke und eine Ausstellungsfläche von rund 20.000 Quadratmetern."
+ ],
+ hu: [
+ "A múzeum neve Aarhus városának ősi, viking kori nevéből ('Aros') származik.",
+ "A 'Your rainbow panorama' 2011-es átadása után az épület Észak-Európa egyik legtöbbet fényképezett nevezetessége lett.",
+ "A múzeum alsó szintjén egy Ron Mueck által készített, 4,5 méter magas, hiperrealista 'Fiú' (Boy) szobor található.",
+ "A tízemeletes épület területe meghaladja a 20 000 négyzetmétert."
+ ],
+ ro: ["Capodopera 'Your rainbow panorama' de pe acoperiș a fost proiectată ingenios de celebrul artist danez-islandez Olafur Eliasson.", "Faimoasa lucrare gigantică din silicon „Băiatul” (Boy), a artistului australian Ron Mueck, domină parterul, având o înălțime de aproximativ 4,5 metri.", "Galeriile expoziționale ale muzeului sunt concepute ingenios ca 'Iadul' lui Dante la subsol, ajungând progresiv până la 'Paradisul' colorat reprezentat de panorama superioară.", "Complexul adăpostește peste 8000 de lucrări de artă de primă mărime, fiind fondat în mod oficial în anul 1859 și reinaugurat în locația curentă în 2004.", "Clădirea principală în formă de cub are dimensiuni colosale de 52x52x52 de metri, acționând efectiv ca un reper imens pentru orizontul orașului Aarhus."],
+ en: ["ARoS is one of the largest art museums in Northern Europe, spanning over 10 stories.", "Olafur Eliasson's 'Your rainbow panorama' measures 150 meters in length and 3 meters in width.", "The museum famously houses Ron Mueck's massive, hyper-realistic sculpture 'Boy'.", "The building's design concept represents a journey from Dante's hell in the basement to heaven on the roof."]
+ },
+ facts: {
+ en: ["ARoS is one of the largest art museums in Northern Europe.", "The rainbow panorama is its best-known feature.", "It is located in central Aarhus.", "The museum hosts major modern and contemporary exhibitions.", "It is a key symbol of Aarhus's creative identity."],
+ de: ["ARoS ist eines der größten Kunstmuseen Nordeuropas.", "Das Regenbogenpanorama ist sein bekanntestes Merkmal.", "Es liegt im Zentrum von Aarhus.", "Das Museum zeigt große moderne und zeitgenössische Ausstellungen.", "Es ist ein wichtiges Symbol der kreativen Identität von Aarhus."],
+ hu: ["Az ARoS Észak-Európa egyik legnagyobb művészeti múzeuma.", "A szivárvány panoráma a legismertebb eleme.", "Aarhus központjában található.", "A múzeum jelentős modern és kortárs kiállításokat rendez.", "Aarhus kreatív identitásának fontos szimbóluma."],
+ ro: ["ARoS este unul dintre cele mai mari muzee de artă din Europa de Nord.", "Panorama curcubeu este cea mai cunoscută caracteristică a sa.", "Este situat în centrul orașului Aarhus.", "Muzeul găzduiește expoziții importante de artă modernă și contemporană.", "Este un simbol cheie al identității creative a orașului Aarhus."]
+ },
+ image: "/geo-images/denmark/aros-aarhus-art-museum.webp",
+ },
+ {
+ id: "land-blue-planet",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.6558, 55.6294],
+ name: { de: "Den Blå Planet", hu: "A Kék Bolygó", ro: "Planeta Albastră", en: "The Blue Planet" },
+ description: {
+ en: "The Blue Planet is Denmark's national aquarium and a standout landmark for family travel and marine-themed content. Its striking architecture on the Copenhagen waterfront makes it instantly recognizable, and its exhibits cover sea life from Nordic waters to tropical ecosystems. Visitors come here for immersive tanks, educational value, and a memorable harbor-side setting. The Blue Planet is a strong fit for pages about Copenhagen attractions beyond the usual city icons.",
+ de: "Den Blå Planet ist Dänemarks nationales Aquarium und ein herausragendes Wahrzeichen für Familienreisen und-Inhalte mit Meeresbezug. Seine markante Architektur an der Uferfront Kopenhagens macht es sofort erkennbar, und die Ausstellungen decken Meeresleben von nordischen Gewässern bis zu tropischen Ökosystemen ab. Besucher kommen wegen der eindrucksvollen Becken, des Bildungswerts und der unvergesslichen Lage am Hafen. Den Blå Planet passt hervorragend zu Seiten über Kopenhagener Attraktionen jenseits der üblichen Stadtikonen.",
+ hu: "A Kék Bolygó Dánia nemzeti akváriuma és kiemelkedő landmark családi utazásokhoz és tengeri témájú-tartalomhoz. Feltűnő koppenhágai vízparti épülete azonnal felismerhető, kiállításai pedig az északi vizek élővilágától a trópusi ökoszisztémákig terjednek. A látogatók az immerzív medencék, az oktatási érték és az emlékezetes kikötőparti környezet miatt érkeznek ide. A Kék Bolygó jól illeszkedik a Koppenhága látnivalóiról szóló oldalakhoz az ismert városi ikonokon túl.",
+ ro: "Planeta Albastră este acvariul național al Danemarcei și un reper remarcabil pentru turismul de familie și conținutul cu tematică marină. Arhitectura sa spectaculoasă de pe faleza Copenhagăi îl face imediat recognoscibil, iar expozițiile acoperă viața marină de la apele nordice până la ecosisteme tropicale. Vizitatorii vin pentru bazinele imersive, valoarea educațională și cadrul memorabil de lângă port. Planeta Albastră se potrivește foarte bine paginilor despre atracțiile din Copenhaga dincolo de reperele obișnuite."},
+ descriptionAdvanced: {
+ de: "Den Blå Planet ist Dänemarks Nationalaquarium und das größte Aquarium Nordeuropas. Die futuristische Architektur des Gebäudes ist einem riesigen Wasserwirbel nachempfunden und liegt markant an der Küste in der Nähe des Kopenhagener Flughafens. In den riesigen Becken können Besucher die faszinierende Unterwelt von den tropischen Korallenriffen bis zu den kalten Gewässern des Nordatlantiks erkunden. Besonders beeindruckend ist der Ozeantunnel, in dem Haie und Rochen majestätisch über die Köpfe der Gäste hinweggleiten. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Kék Bolygó (Den Blå Planet) Észak-Európa legnagyobb akváriuma, amely Koppenhága mellett, közvetlenül a tengerparton kapott helyet. A 3XN építésziroda által tervezett lenyűgöző épület egy hatalmas, ezüstös örvényt formáz, amely a víz dinamikus mozgását szimbolizálja. A látogatók a világ minden tájáról származó vízi ökoszisztémákat fedezhetnek fel, a trópusi korallzátonyoktól a hideg északi tengerekig. A hatalmas Óceán-tartály egy üvegalagúttal biztosítja, hogy a cápák és ráják testközelből, mégis biztonságosan megfigyelhetők legyenek. Az akvárium kiemelt hangsúlyt fektet a tengeri élővilág kutatására és a természetvédelem fontosságának oktatására. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Planeta Albastră (Den Blå Planet), noul acvariu național al Danemarcei situat lângă Aeroportul Copenhaga, este o capodoperă a designului organic care atrage privirile imediat. Arhitectura spectaculoasă, vizibilă direct și din avioanele care aterizează, imită un vârtej masiv de apă sau o formă stelară fluidă acoperită complet cu plăci argintii de aluminiu strălucitor. În interiorul clădirii futuriste, vizitatorii pășesc literalmente sub suprafața oceanelor planetei, explorând mii de specii acvatice, de la recife tropicale vibrante la faună nordică. Tunelurile subacvatice gigantice și rezervoarele cu volume imense de apă invită publicul să observe rechini de dimensiuni mari, diavoli de mare și piranha plutind grațios la o distanță mică de ei. Prin activitățile și panourile sale, atracția combină spectaculosul cu lecții importante despre conservarea oceanelor și salvarea ecosistemelor fragile. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Blue Planet (Den Blå Planet) is the National Aquarium of Denmark and the largest aquarium in Northern Europe. Located on the coast of Kastrup, its spectacular, swirling architecture is designed to mimic the shape of a whirlpool pulling visitors into the deep sea. The aquarium houses thousands of marine animals, ranging from elegant hammerhead sharks to vibrant coral reef fish and sea otters. The immersive exhibits are divided into distinct zones, covering the oceans, tropical rainforests, and cold northern waters. Through cutting-edge technology and expansive viewing tanks, The Blue Planet offers a profound educational and sensory journey into aquatic life. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Aquarium wurde 2013 eröffnet und ersetzte das alte Dänische Aquarium in Charlottenlund.",
+ "Es beherbergt über 20.000 Tiere in 53 verschiedenen Becken.",
+ "Das Gebäude ist mit rund 33.000 kleinen Aluminiumschindeln verkleidet, die an Fischschuppen erinnern.",
+ "Das größte Becken, der Ozean-Tank, enthält allein vier Millionen Liter Salzwasser."
+ ],
+ hu: [
+ "A Kék Bolygó 2013-ban nyílt meg, a régi koppenhágai akvárium utódjaként.",
+ "Az akvárium tartályai összesen 7 millió liter vizet fognak be.",
+ "Az épület különleges alumínium burkolata a tenger hullámain megcsillanó fényt hivatott utánozni.",
+ "A komplexumban több mint 20 000 állat él, mintegy 450 különböző fajból."
+ ],
+ ro: ["Planeta Albastră este considerat cel mai mare acvariu funcțional din nordul Europei, cu o capacitate imensă de aproximativ 7 milioane de litri de apă.", "Designul uluitor, creat de prestigiosul birou de arhitectură 3XN, este complet învelit în peste 33.000 de solzi de aluminiu care imită mișcarea apelor și solzii peștilor.", "Acvariul este poziționat strategic pe coastă și folosește un sistem complex de captare directă și filtrare constantă a apei marine din strâmtoarea Øresund.", "Rezervorul principal monumental „Oceanul” are geamuri groase din acril rezistent, realizate cu măiestrie în Japonia, de 41 de centimetri grosime.", "Ecosistemul Amazonian imens include un adevărat zbor de păsări tropicale libere și specii gigantice precum peștii uriași pirarucu."],
+ en: ["The aquarium holds over 7 million liters of water across 53 different exhibits.", "Its futuristic whirlpool-shaped building is clad in thousands of shimmering aluminum plates.", "The Ocean Tank, the largest exhibit, features a massive 16-meter-long curved acrylic viewing tunnel.", "The Blue Planet replaced the original Denmark Aquarium, which operated in Charlottenlund since 1939."]
+ },
+ facts: {
+ en: ["The Blue Planet is the national aquarium of Denmark.", "It opened in 2013.", "The building sits on the edge of Copenhagen's harbor area.", "Its design resembles a swirling water form.", "It is popular with both families and school groups."],
+ de: ["Den Blå Planet ist das nationale Aquarium Dänemarks.", "Es wurde 2013 eröffnet.", "Das Gebäude liegt am Rand des Kopenhagener Hafenbereichs.", "Sein Design erinnert an eine wirbelnde Wasserform.", "Es ist bei Familien und Schulgruppen beliebt."],
+ hu: ["A Kék Bolygó Dánia nemzeti akváriuma.", "2013-ban nyílt meg.", "Az épület Koppenhága kikötői részének szélén áll.", "Formavilága egy örvénylő vízmozgást idéz.", "Családok és iskolai csoportok körében is népszerű."],
+ ro: ["Planeta Albastră este acvariul național al Danemarcei.", "S-a deschis în 2013.", "Clădirea se află la marginea zonei portuare a Copenhagăi.", "Designul său amintește de o formă de apă învârtită.", "Este popular atât pentru familii, cât și pentru grupuri școlare."]
+ },
+ image: "/geo-images/denmark/blue-planet.webp",
+ },
+ {
+ id: "land-lego-house",
+ type: "landmark",
+ parent: "DK",
+ coords: [9.1157, 55.7344],
+ name: { de: "LEGO House", hu: "LEGO House", ro: "LEGO House", en: "LEGO House" },
+ description: {
+ en: "LEGO House in Billund is one of the best-known family landmarks in Denmark and a powerful term for creativity, play, and design. The building itself is shaped like stacked LEGO bricks, making it instantly readable as a modern Danish icon. Inside, interactive zones turn the company's story into an experience for children and adults alike. LEGO House is ideal for content that links Denmark with innovation, family travel, and playful architecture.",
+ de: "Das LEGO House in Billund ist eines der bekanntesten Familien-Wahrzeichen Dänemarks und ein erstklassiges Ziel für Kreativität, Spiel und Design. Das Gebäude selbst ist wie gestapelte LEGO-Steine geformt und damit sofort als modernes dänisches Symbol erkennbar. Im Inneren verwandeln interaktive Bereiche die Firmengeschichte in ein Erlebnis für Kinder und Erwachsene. LEGO House eignet sich ideal für Inhalte, die Dänemark mit Innovation, Familienreisen und spielerischer Architektur verbinden.",
+ hu: "A billundi LEGO House Dánia egyik legismertebb családi látványossága és kiváló választás a kreativitás, a játék és a dizájn témájában. Maga az épület egymásra rakott LEGO kockákra emlékeztet, így azonnal felismerhető modern dán ikonná válik. Belül interaktív zónák alakítják élménnyé a vállalat történetét gyerekek és felnőttek számára egyaránt. A LEGO House ideális tartalomhoz, amely Dániát az innovációval, a családi utazással és a játékos építészettel köti össze.",
+ ro: "LEGO House din Billund este unul dintre cele mai cunoscute repere de familie din Danemarca fiind o alegere ideală pentru creativitate, joacă și design. Clădirea însăși are forma unor cărămizi LEGO suprapuse, fiind imediat recognoscibilă ca icon modern danez. În interior, zonele interactive transformă povestea companiei într-o experiență pentru copii și adulți deopotrivă. LEGO House este ideal pentru conținutul care leagă Danemarca de inovație, turism de familie și arhitectură jucăușă."},
+ descriptionAdvanced: {
+ de: "Das LEGO House in Billund, auch bekannt als „Home of the Brick“, ist ein weltweit einzigartiges Erlebniszentrum für LEGO-Fans jeden Alters. Das vom Architekturbüro BIG entworfenes Gebäude gleicht einem riesigen Gebilde aus aufeinandergestapelten Legosteinen. Im Inneren bieten verschiedene Erlebniszonen unendliche Möglichkeiten zum Bauen, Programmieren und Experimentieren. LEGO House ist nicht nur eine Hommage an die Geschichte des Unternehmens, sondern vor allem ein Ort, der Kreativität und Innovation fördert. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Billundban található LEGO House, amelyet a 'Kockák Házának' is neveznek, a kreativitás és a játék dán szentélye. A Bjarke Ingels Group (BIG) által tervezett futurisztikus épület maga is úgy néz ki, mintha 21 hatalmas fehér Lego kockából épült volna. A belső terek interaktív élményzónákra vannak osztva, amelyeket színek szerint kódoltak, és a tanulás különböző aspektusaira (logika, kreativitás, érzelem) fókuszálnak. A létesítmény központjában egy hatalmas, több mint hat méter magas, épített Lego 'Kreativitás Fája' áll. A LEGO House célja, hogy minden korosztályt inspiráljon a szabad, fantáziadús építésre. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "LEGO House, cunoscută la nivel internațional și sub numele afecționat de „Casa Cărămizii”, este o clădire minune din centrul orașului Billund, considerată o declarație absolută de dragoste pentru creativitate. Clădirea se remarcă instant prin exteriorul său vesel, format din 21 de volume imense, albe și colorate, care par efectiv construite din piese clasice supradimensionate de Lego. Gândit nu ca un parc tipic de distracții pentru senzații tari, ci ca un centru de joacă senzorial profund, muzeul pune accent pe stimularea inteligenței, jocul liber și posibilitățile infinite. Diversele „Zone de Culoare” invită atât copiii mici cât și adulții nostalgici să rezolve puzzle-uri complexe, să animeze scurte filme și să-și contruiască efectiv propriile visuri. Un punct forte spectaculos este 'Arborele Creativității', un monument uimitor, considerat una dintre cele mai grandioase structuri Lego create vreodată în lume. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "LEGO House, affectionately known as the 'Home of the Brick', is an incredible experiential center located in Billund, the birthplace of the LEGO brick. Designed by the renowned architectural firm BIG (Bjarke Ingels Group), the building itself resembles 21 giant overlapping LEGO bricks. Inside, visitors are treated to an interactive universe divided into color-coded experience zones that stimulate creativity, cognitive skills, and logic. The center also features a comprehensive museum detailing the history of the LEGO company and a stunning 'Tree of Creativity' built from over 6 million bricks. It is the ultimate pilgrimage site for LEGO enthusiasts of all ages. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "LEGO House wurde 2017 eröffnet und befindet sich im Herzen von Billund.",
+ "In der Mitte des Hauses steht der 'Baum der Kreativität', der aus über sechs Millionen Legosteinen gebaut wurde.",
+ "Das Gebäude besteht aus 21 übereinanderliegenden Blöcken, die wie riesige Legosteine geformt sind.",
+ "Im 'Mini Chef' Restaurant wird die Bestellung per Lego-Modell aufgegeben und von Robotern serviert."
+ ],
+ hu: [
+ "Az épületet 2017-ben adták át, pontosan a Lego szülővárosában, Billundban.",
+ "A Kreativitás Fája több mint 6,3 millió Lego kockából épült fel, és a világ egyik legnagyobb Lego építménye.",
+ "Az épület tetején található teraszok szabadon látogathatók és mindegyik különböző játszótereket kínál.",
+ "A Mestermű Galéria (Masterpiece Gallery) a legtehetségesebb rajongók által készített Lego alkotásokat mutatja be."
+ ],
+ ro: ["Grandiosul 'Arbore al Creativității' are impresionanta înălțime de peste 15 metri și a necesitat utilizarea a nu mai puțin de 6.316.611 de piese Lego individuale.", "Pentru ca experiența tactilă să nu fie limitată, podelele din interiorul atracției dispun de peste 25 de milioane de cărămizi Lego disponibile fizic pentru toți vizitatorii.", "Structura arhitecturală de excepție a muzeului a fost dezvoltată de Bjarke Ingels Group (BIG), o firmă de arhitectură daneză cu recunoaștere globală masivă.", "În restaurantul inovator 'Mini Chef', vizitatorii își construiesc propriile comenzi de mâncare din blocuri și primesc tava finală de la roboți adorabili.", "Pe terasa acoperișului din clădire, blocurile individuale au la exterior exact aceleași faimoase dimensiuni proporționale ca legendara cărămidă clasică '2x4'."],
+ en: ["The building's design literally mimics the proportions of a standard 2x4 LEGO brick.", "The 'Tree of Creativity' inside is 15 meters tall and took over 24,000 hours to assemble.", "LEGO House contains a collection of iconic vintage LEGO sets dating back to the company's origins.", "The center includes an innovative restaurant where visitors 'program' their orders using LEGO bricks for robots to serve."]
+ },
+ facts: {
+ en: ["LEGO House is located in Billund.", "The building is designed to resemble LEGO bricks.", "It focuses on interactive play and creativity.", "Billund is the birthplace of the LEGO brand.", "It is one of Denmark's top family landmarks."],
+ de: ["Das LEGO House liegt in Billund.", "Das Gebäude ist wie LEGO-Steine gestaltet.", "Der Schwerpunkt liegt auf interaktivem Spiel und Kreativität.", "Billund ist die Geburtsstadt der LEGO-Marke.", "Es gehört zu den wichtigsten Familienwahrzeichen Dänemarks."],
+ hu: ["A LEGO House Billundban található.", "Az épület LEGO kockákat idéz.", "Az interaktív játékra és kreativitásra összpontosít.", "Billund a LEGO márka szülőhelye.", "Dánia egyik legfontosabb családi látványossága."],
+ ro: ["LEGO House se află în Billund.", "Clădirea este concepută să semene cu cărămizile LEGO.", "Se concentrează pe joacă interactivă și creativitate.", "Billund este locul de naștere al brandului LEGO.", "Este unul dintre reperele de familie de top din Danemarca."]
+ },
+ image: "/geo-images/denmark/lego-house.webp",
+ },
+ {
+ id: "land-statens-museum-for-kunst",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.5798, 55.6884],
+ name: { de: "Statens Museum for Kunst", hu: "Statens Museum for Kunst", ro: "Muzeul Național de Artă", en: "Statens Museum for Kunst" },
+ description: {
+ en: "Statens Museum for Kunst is Denmark's national gallery and a strong landmark for cultural around Copenhagen. The museum covers centuries of European and Danish art, making it valuable for visitors who want depth rather than just a quick photo stop. Its classic building and central location make it easy to include in city itineraries. For art-focused Denmark content, this museum is one of the most authoritative names to mention.",
+ de: "Das Statens Museum for Kunst ist Dänemarks Nationalgalerie und ein starkes Wahrzeichen für kulturelle rund um Kopenhagen. Das Museum deckt Jahrhunderte europäischer und dänischer Kunst ab und ist daher für Besucher wertvoll, die Tiefe statt eines kurzen Fotostopps suchen. Sein klassisches Gebäude und die zentrale Lage machen es leicht, in Stadtprogramme einzubauen. Für kunstorientierte Dänemark-Inhalte ist dieses Museum einer der wichtigsten Namen, die man nennen sollte.",
+ hu: "A Statens Museum for Kunst Dánia nemzeti galériája és erős landmark a koppenhágai kulturális-ban. A múzeum évszázadokon átívelő európai és dán művészetet mutat be, így azoknak is értékes, akik mélységet keresnek egy gyors fotómegálló helyett. Klasszikus épülete és központi elhelyezkedése miatt könnyen beilleszthető a városi útitervbe. Művészetközpontú dán tartalomhoz ez az egyik legtekintélyesebb név.",
+ ro: "Statens Museum for Kunst este galeria națională a Danemarcei și un reper puternic pentru cultural în Copenhaga. Muzeul acoperă secole de artă europeană și daneză, fiind valoros pentru vizitatorii care caută profunzime, nu doar o oprire rapidă pentru fotografii. Clădirea clasică și locația centrală îl fac ușor de inclus în itinerariile urbane. Pentru conținutul despre Danemarca axat pe artă, acesta este unul dintre cele mai autoritare nume de menționat."},
+ descriptionAdvanced: {
+ de: "Das Statens Museum for Kunst (SMK) in Kopenhagen ist die Nationalgalerie Dänemarks und beherbergt die umfangreichste Kunstsammlung des Landes. Die Ausstellungen reichen von Meisterwerken des Mittelalters und der Renaissance bis hin zur zeitgenössischen Kunst. Ein besonderer Schwerpunkt liegt auf der dänischen Malerei des Goldenen Zeitalters, die die kulturelle Identität des Landes maßgeblich geprägt hat. Die Architektur des Museums ist eine faszinierende Verbindung aus einem prachtvollen historischen Gebäude und einem modernen Glasanbau. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Statens Museum for Kunst (SMK) Dánia Nemzeti Galériája, amely Koppenhága központjában őrzi az ország legnagyobb és legfontosabb művészeti gyűjteményét. A múzeum alapjait a dán királyok egykori magángyűjteményei adták, amelyeket a 19. században adományoztak az államnak. A kiállítások átfogó képet nyújtanak a dán és az európai művészetről a 14. századtól napjainkig, különös tekintettel a dán aranykor festészetére. A történelmi, 1896-ban épült reneszánsz stílusú épületet 1998-ban egy modern, üvegfalú szárnnyal bővítették ki. Az SMK ma nyüzsgő kulturális központ, amely innovatív módon közelíti meg a klasszikus művészet bemutatását. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Galeria Națională a Danemarcei, cunoscută pe plan local sub acronimul SMK (Statens Museum for Kunst), deține de departe cea mai amplă și valoroasă colecție de artă a regatului. Situată convenabil chiar în pitorescul parc Kongens Have din Copenhaga, arhitectura muzeului este o juxtapunere simbolică: o aripă somptuoasă și clasică din secolul XIX unită transparent cu o adăugare de un modernism strălucitor și minimalist. Vasta colecție acoperă impecabil peste șapte secole de geniu creativ european și danez, integrând de la Maeștrii vechi renascentiști la expresioniști contemporani și instalații avangardiste bizare. Galeria funcționează ca inima cercetării și conservării artistice la nivel național, restaurând activ patrimoniul istoric comunitar. Datorită programului frecvent de evenimente „SMK Fridays”, instituția a creat un model exemplar despre cum să conectezi tinerele generații cu arta culturii clasice nordice. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Statens Museum for Kunst (SMK), or the National Gallery of Denmark, is the country's premier museum for visual arts, located in Copenhagen. The museum holds an extraordinary collection of Danish and international art spanning from the 14th century to the present day. Its extensive galleries feature masterpieces by European giants like Rubens, Rembrandt, and Matisse, alongside a comprehensive collection of the Danish Golden Age. The museum building is a fascinating fusion of a grand, historical 19th-century structure and a sleek, modern glass extension. SMK serves as a vital cultural repository, meticulously preserving and exhibiting the visual heritage of the nation. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Sammlung geht auf die Kunstkammern der dänischen Könige zurück.",
+ "Das Museum besitzt eine der bedeutendsten Sammlungen von Werken Henri Matisses weltweit.",
+ "Eine lichtdurchflutete 'Skulpturenstraße' verbindet den historischen Altbau mit dem modernen Neubau.",
+ "Der Eintritt zu den Dauerausstellungen war über viele Jahre hinweg kostenlos, um Kunst für alle zugänglich zu machen."
+ ],
+ hu: [
+ "A múzeum több mint 260 000 műalkotást őriz, beleértve festményeket, szobrokat és grafikákat.",
+ "A gyűjteményben kiemelkedő alkotások találhatók Picassótól, Matissétól és a skandináv mesterektől, például Vilhelm Hammershøitól.",
+ "A régi és az új épületszárnyat a lenyűgöző 'Szobor utca' (Skulpturgaden) köti össze.",
+ "A dán aranykor (1800-1850) festményei a múzeum legbüszkébb és legnépszerűbb állandó kiállítását alkotják."
+ ],
+ ro: ["Fundația vastelor colecții naționale datează din secolul al XVI-lea, fiind direct reprezentată de achizițiile masive ale puternicului rege Christian al II-lea.", "Extinderea modernă și elegantă din spate a fost proiectată impecabil de Anna Maria Indrio și a fost finalizată în anul 1998 sub denumirea „Aleea Sculpturii”.", "Galeria națională dispune în arhiva sa colosală de una dintre cele mai respectate și importante colecții de lucrări din lume create de artistul Henri Matisse.", "Muzeul este recunoscut pentru „Epoca de Aur Daneză” a picturii, cu sute de tablouri cheie extrem de precise semnate de maestrul Christen Købke.", "Multe exponate majore și elemente din colecția națională imensă au fost complet digitizate cu atenție și lansate în mod complet gratuit către public."],
+ en: ["The museum's foundational collection was originally established from the private art chambers of the Danish kings.", "SMK houses one of the world's most significant collections of works by the French artist Henri Matisse.", "The striking modern glass extension was added in 1998, dramatically expanding the exhibition space.", "The museum features over 260,000 artworks, including paintings, sculptures, and works on paper."]
+ },
+ facts: {
+ en: ["It is Denmark's national art museum.", "The museum is located in central Copenhagen.", "Its collections include both Danish and European art.", "It is a key stop for culture-focused city trips.", "The museum is also known for temporary exhibitions."],
+ de: ["Es ist Dänemarks Nationalmuseum für Kunst.", "Das Museum liegt im Zentrum von Kopenhagen.", "Die Sammlungen umfassen dänische und europäische Kunst.", "Es ist ein wichtiger Halt für kulturorientierte Städtereisen.", "Das Museum ist auch für Wechselausstellungen bekannt."],
+ hu: ["Dánia nemzeti művészeti múzeuma.", "Koppenhága központjában található.", "Gyűjteménye dán és európai művészetet is tartalmaz.", "Fontos állomás a kultúra-központú városlátogatásokon.", "Időszaki kiállításairól is ismert."],
+ ro: ["Este muzeul național de artă al Danemarcei.", "Muzeul este situat în centrul Copenhagăi.", "Colecțiile includ artă daneză și europeană.", "Este o oprire cheie pentru city break-uri axate pe cultură.", "Muzeul este cunoscut și pentru expozițiile temporare."]
+ },
+ image: "/geo-images/denmark/statens-museum-for-kunst.webp",
+ },
+ {
+ id: "land-viking-ship-museum",
+ type: "landmark",
+ parent: "DK",
+ coords: [12.0855, 55.6524],
+ name: { de: "Wikingerschiffsmuseum", hu: "Viking Hajómúzeum", ro: "Muzeul Navelor Vikinge", en: "Viking Ship Museum" },
+ description: {
+ en: "The Viking Ship Museum in Roskilde is a landmark museum with strong value for history, archaeology, and maritime culture. Its preserved ships and reconstructions give visitors a direct connection to Denmark's seafaring past. The museum also works well for families because of its live demonstrations and hands-on atmosphere. It is one of the best places in Denmark to understand Viking ships as both tools of war and symbols of trade.",
+ de: "Das Wikingerschiffsmuseum in Roskilde ist ein Wahrzeichenmuseum mit starkem-Wert für Geschichte, Archäologie und maritime Kultur. Seine erhaltenen Schiffe und Rekonstruktionen geben Besuchern eine direkte Verbindung zur seefahrenden Vergangenheit Dänemarks. Das Museum eignet sich auch gut für Familien wegen seiner Vorführungen und seines praktischen Erlebniskonzepts. Es ist einer der besten Orte in Dänemark, um Wikingerschiffe sowohl als Kriegswerkzeuge als auch als Handelszeichen zu verstehen.",
+ hu: "A roskildei Viking Hajómúzeum olyan landmark múzeum, amely erős-értékkel bír a történelem, a régészet és a tengeri kultúra számára. A megőrzött hajók és rekonstrukciók közvetlen kapcsolatot adnak Dánia hajózó múltjához. A múzeum családok számára is jól működik az élő bemutatók és a gyakorlati élmény miatt. Ez az egyik legjobb hely Dániában annak megértéséhez, hogy a viking hajók egyszerre voltak hadieszközök és kereskedelmi szimbólumok.",
+ ro: "Muzeul Navelor Vikinge din Roskilde este un muzeu-reper cu valoare puternică pentru istorie, arheologie și cultură maritimă. Navele păstrate și reconstrucțiile oferă vizitatorilor o legătură directă cu trecutul maritim al Danemarcei. Muzeul funcționează foarte bine și pentru familii datorită demonstrațiilor live și atmosferei interactive. Este unul dintre cele mai bune locuri din Danemarca pentru a înțelege navele vikinge atât ca arme de război, cât și ca simboluri ale comerțului."},
+ descriptionAdvanced: {
+ de: "Das Wikingerschiffsmuseum in Roskilde bietet einen faszinierenden Einblick in die maritime Welt der Wikinger. Das Herzstück des Museums sind fünf originale Wikingerschiffe aus dem 11. Jahrhundert, die im Roskilde-Fjord gefunden und spektakulär restauriert wurden. In der museumseigenen Werft können Besucher beobachten, wie originalgetreue Rekonstruktionen mit traditionellen Werkzeugen gebaut werden. Das Museum verbindet Archäologie auf einzigartige Weise mit lebendiger Geschichtsvermittlung und handwerklichem Erbe. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Roskildében található Viking Hajómúzeum (Vikingeskibsmuseet) a tengerjáró vikingek életét és hajóépítési zsenialitását mutatja be. A múzeum központjában öt eredeti, 11. századi viking hajó roncsa áll, amelyeket a Roskilde-fjordból tártak fel, miután egykor elsüllyesztették őket, hogy blokkolják a támadók útját. A komplexum nemcsak egy kiállítótér, hanem egy aktív hajóépítő műhely is, ahol a látogatók megfigyelhetik, ahogy a szakemberek hagyományos viking eszközökkel építik újjá a hajók másolatait. A nyári hónapokban lehetőség nyílik arra is, hogy ezekkel a hű másolatokkal a látogatók maguk is vízre szálljanak. A múzeum a dánok büszke tengerészeti múltjának és ősi mesterségeinek őrzője. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Muzeul Navelor Vikinge (Vikingeskibsmuseet), aflat direct pe malurile calme ale fiordului din Roskilde, expune și explorează ingeniozitatea neîntrecută a artei navale din epoca vikingă veche. În inima expoziției spectaculoase din clădirea de beton masiv se găsesc cinci ambarcațiuni antice complet originale, scufundate intenționat chiar în acel fiord pentru a crea o barieră subacvatică de apărare în secolul al XI-lea. Ceea ce diferențiază profund acest muzeu este activitatea sa plină de viață ca centru meșteșugăresc de reconstrucție nautică autentică, nu doar ca simplu spațiu pasiv de expunere. În docurile și atelierele externe, tâmplarii pricepuți folosesc topoare și tehnici scandinave exacte de acum 1000 de ani, tăind și fasonând stejari enormi pentru a construi replici navigabile funcționale. Vara, vizitatorii au inclusiv posibilitatea extraordinară de a vâsli direct pe apele adânci ale fiordului într-un lung drakkar autentic reconstituit. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Viking Ship Museum in Roskilde is a captivating institution dedicated to the seafaring culture, craftsmanship, and history of the Vikings. The museum's centerpiece is the exhibition of five original 11th-century Viking longships, which were deliberately scuttled to blockade the Roskilde Fjord and protect the city. The museum beautifully combines archaeological displays with active, experimental maritime research. Visitors can observe skilled boatbuilders reconstructing authentic Viking ships using traditional tools and methods in the museum's boatyard. It offers an unparalleled, immersive insight into the extraordinary navigational skills that allowed the Vikings to explore from North America to the Middle East. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Die fünf 'Skuldelev-Schiffe' wurden im Jahr 1962 aus dem Schlick des Fjords geborgen.",
+ "Sie wurden im 11. Jahrhundert absichtlich versenkt, um eine Fahrrinne gegen feindliche Angriffe zu blockieren.",
+ "Das Museum verfügt über eine Flotte von Rekonstruktionen, mit denen man im Sommer auf dem Fjord segeln kann.",
+ "Das Museumsgelände umfasst auch eine Insel mit einer Schmiede und einer Seilerei."
+ ],
+ hu: [
+ "Az öt 'Skuldelev-hajót' 1962-ben emelték ki a fjord vizéből egy hatalmas régészeti projekt keretében.",
+ "A kiállított hajók között van kereskedelmi hajó, halászhajó és karcsú, gyors hadihajó is.",
+ "A 'Havhingsten fra Glendalough' a múzeum által épített egyik leghíresebb viking hadihajó-másolat, amellyel Dublinig is elhajóztak.",
+ "A múzeum a Roskilde-fjord partján épült, hatalmas üvegablakain keresztül a hajóroncsok a tengerre néznek."
+ ],
+ ro: ["Celebrele cinci nave „Skuldelev” masive reprezintă de fapt varietăți tehnice diverse: două nave de transport durabile, două drakkare subțiri și o mică ambarcațiune ușoară de pescuit.", "Faimosul „Skuldelev 2”, drakkarul uriaș de război de 30 de metri lungime din muzeu, a fost construit istoric din cherestea dură preluată chiar din regiunea Dublinului, în Irlanda.", "Spectaculoasa replică modernă principală, denumită 'Havhingsten fra Glendalough', a navigat complet cu succes din portul danez Roskilde până la portul irlandez Dublin și înapoi.", "Inginerii și arheologii instituției trebuie să păstreze permanent ambarcațiunile din lemn vechi umede cu produse chimice sintetice avansate pentru a opri crăparea ruinelor deshidratate.", "Un uriaș val de furtună destructivă din iarna anului 2013 a amenințat să spargă geamurile și să distrugă comorile vikinge expuse, muzeul necesitând de atunci întăriri arhitecturale esențiale."],
+ en: ["The five original Skuldelev ships were excavated from the Roskilde Fjord in 1962.", "The museum maintains a fleet of reconstructed Viking ships that visitors can actually sail in during the summer.", "One of the reconstructed ships, the Sea Stallion of Glendalough, successfully sailed from Denmark to Dublin in 2007.", "The museum's active boatyard uses authentic replica tools, including hand-forged axes and traditional rope-making techniques."]
+ },
+ facts: {
+ en: ["The museum is located in Roskilde.", "It preserves original Viking ship finds.", "Reconstructed boats are used for demonstrations.", "The site focuses on maritime archaeology.", "It is one of Denmark's best-known history museums."],
+ de: ["Das Museum befindet sich in Roskilde.", "Es bewahrt originale Wikinger-Schiffsfunde.", "Rekonstruierte Boote werden für Vorführungen genutzt.", "Der Schwerpunkt liegt auf maritimer Archäologie.", "Es ist eines der bekanntesten Geschichtsmuseen Dänemarks."],
+ hu: ["A múzeum Roskildében található.", "Eredeti viking hajóleleteket őriz.", "A rekonstrukciós hajókat bemutatókhoz használják.", "A tengeri régészetre összpontosít.", "Dánia egyik legismertebb történeti múzeuma."],
+ ro: ["Muzeul se află în Roskilde.", "Păstrează descoperiri originale de nave vikinge.", "Bărcile reconstruite sunt folosite pentru demonstrații.", "Situl se concentrează pe arheologie maritimă.", "Este unul dintre cele mai cunoscute muzee de istorie din Danemarca."]
+ },
+ image: "/geo-images/denmark/viking-ship-museum.webp",
+ },
+ {
+ id: "port-copenhagen",
+ type: "port",
+ parent: "DK",
+ coords: [12.5945, 55.6903],
+ name: { de: "Hafen Kopenhagen", hu: "Koppenhágai kikötő", ro: "Portul Copenhaga", en: "Port of Copenhagen" },
+ description: {
+ en: "The Port of Copenhagen is a major maritime gateway and a high-value keyword for cruises, shipping, and waterfront city travel in Denmark. It anchors the capital's historic relationship with the sea while supporting modern logistics and passenger traffic. The harbor area connects easily with the city center, making it useful for both travelers and commerce content. As a port landmark, it reinforces Copenhagen's role as a modern northern European capital with deep maritime roots.",
+ de: "Der Hafen Kopenhagen ist ein wichtiges maritimes Tor und ein hochwertiges-Thema für Kreuzfahrten, Schifffahrt und Uferreisen in Dänemark. Er verankert die historische Beziehung der Hauptstadt zum Meer und unterstützt zugleich moderne Logistik und Passagierverkehr. Das Hafengebiet ist gut mit dem Stadtzentrum verbunden, was es für Reise- und Handelsinhalte gleichermaßen nützlich macht. Als Hafenwahrzeichen unterstreicht er Kopenhagens Rolle als moderne nordeuropäische Hauptstadt mit tiefen maritimen Wurzeln.",
+ hu: "A Koppenhágai kikötő fontos tengeri kapu és nagy értékű-kulcsszó a hajóutak, a szállítmányozás és a vízparti városi utazás témájában. A főváros tengerhez fűződő történelmi kapcsolatát hordozza, miközben a modern logisztikát és az utasforgalmat is kiszolgálja. A kikötő könnyen kapcsolódik a belvároshoz, így utazási és kereskedelmi tartalmakhoz egyaránt hasznos. Kikötői jelképént erősíti Koppenhága szerepét mint modern északi európai főváros mély tengeri gyökerekkel.",
+ ro: "Portul Copenhaga este o poartă maritimă majoră și un cuvânt-cheie de mare valoare pentru croaziere, transport maritim și turism urban la malul apei în Danemarca. El ancorează relația istorică a capitalei cu marea, sprijinind în același timp logistica modernă și traficul de pasageri. Zona portuară se conectează ușor cu centrul orașului, ceea ce o face utilă atât pentru conținut de călătorie, cât și pentru cel comercial. Ca reper portuar, întărește rolul Copenhagăi de capitală nord-europeană modernă cu rădăcini maritime profunde."},
+ descriptionAdvanced: {
+ de: "Der Hafen von Kopenhagen ist ein dynamisches maritimes Zentrum, das die dänische Hauptstadt seit Jahrhunderten prägt. Während die historischen Teile wie Nyhavn heute vor allem touristisch genutzt werden, ist der moderne Hafen ein wichtiger Knotenpunkt für den internationalen Schiffsverkehr und die Kreuzschifffahrt. In den letzten Jahrzehnten hat sich das Hafengebiet zudem zu einem Vorbild für moderne Stadtentwicklung entwickelt, in der Wohnen, Kultur und sauberes Badewasser nebeneinander existieren. Der Hafen ist das pulsierende Herz der Stadt und verbindet Tradition mit zukunftsorientierter Nachhaltigkeit. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "A koppenhágai kikötő Dánia legnagyobb tengeri kapuja, amely történelmileg a város gazdaságának mozgatórugója volt. A Balti-tenger és az Északi-tenger közötti stratégiai fekvése miatt évszázadokon át kulcsfontosságú kereskedelmi csomópontként szolgált. Bár az ipari tevékenység egy része mára kiköltözött a belvárosból, a kikötő továbbra is Európa egyik legforgalmasabb tengerjáró (cruise) célpontja. Az egykori raktárépületeket és ipari dokkokat ma modern lakónegyedekké és rekreációs zónákká alakították át, mint például a Nordhavn területén. A kikötő vize ma olyan tiszta, hogy több kijelölt kikötői fürdőben is lehet úszni a nyári hónapokban. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Portul Copenhaga este un centru maritim istoric vital care s-a transformat complet într-o destinație urbană vibrantă și modernă. În timp ce facilitățile industriale și comerciale au fost treptat mutate, zonele vechi din centrul orașului, precum Nyhavn și Christianshavn, oferă astăzi o combinație fermecătoare de arhitectură maritimă istorică, cafenele de lux și spații de locuit de pe malul apei. Portul este renumit în întreaga lume pentru apele sale atât de curate încât municipalitatea a deschis mai multe băi portuare oficiale unde rezidenții pot înota direct în mare în timpul verii. În același timp, funcționează ca cel mai mare port de croazieră din Scandinavia, întâmpinând sute de nave internaționale gigantice anual. De la bărci solare electrice la feriboturi și iahturi private, activitatea din port definește pulsul capitalei. Economie K8 – Economia și industria Danemarcei.",
+ en: "The Port of Copenhagen is the largest maritime port in Denmark and a critical hub for the entire Baltic Sea region. Historically, the port was the foundation of the city's wealth and military power, handling massive trade volumes since the Middle Ages. Today, it has merged with the Port of Malmö to form Copenhagen Malmö Port (CMP), reflecting a highly integrated cross-border infrastructure. The port handles a diverse mix of commercial cargo, container traffic, and is notably one of the most popular cruise ship destinations in Northern Europe. The continuous modernization of the port areas has seamlessly integrated historic industrial zones with contemporary urban living spaces. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "Kopenhagen Malmö Port (CMP) ist ein gemeinsames Unternehmen, das die Häfen von Kopenhagen und Malmö betreibt.",
+ "Der Hafen von Kopenhagen empfängt jährlich über 300 Kreuzfahrtschiffe.",
+ "Das Wasser im Kopenhagener Hafen ist so sauber, dass es mehrere öffentliche Hafenbäder zum Schwimmen gibt.",
+ "Nordhavn ist eines der größten Stadtentwicklungsprojekte in Europa, das auf ehemaligem Hafengelände entsteht."
+ ],
+ hu: [
+ "Koppenhága nevének eredeti jelentése ('Kereskedők kikötője') egyenesen a kikötő történelmi fontosságára utal.",
+ "A koppenhágai és a malmői kikötő 2001-ben egyesült, létrehozva a Copenhagen Malmö Port (CMP) vállalatot.",
+ "Az utóbbi évtizedekben a kikötő jelentős környezetvédelmi fejlesztéseken ment keresztül, biztosítva a tiszta vizet.",
+ "Több mint 300 sétahajó köt ki itt évente, közel 1 millió utast hozva a városba."
+ ],
+ ro: ["Băile portuare din Copenhaga, cum ar fi celebrul complex Islands Brygge, au o arhitectură inovatoare din lemn care permite înotul sigur direct în centrul capitalei.", "Terminalele moderne Ocean Quay (Oceankaj) pot gestiona simultan până la trei nave gigantice de croazieră și zeci de mii de pasageri zilnic.", "O rețea completă de autobuze acvatice (havnebusser) ecologice de culoare galbenă deservește portul, funcționând exact ca un sistem normal de transport public.", "Curățenia uimitoare a apelor portuare a fost obținută printr-o investiție masivă pe parcursul a 15 ani în redirecționarea completă a apelor uzate municipale.", "La nordul portului se construiește Nordhavn, un nou cartier urban masiv care va fi un exemplu internațional absolut de sustenabilitate ecologică și arhitecturală."],
+ en: ["The Port of Copenhagen welcomes over 300 cruise ships and one million cruise passengers annually.", "It is part of the Copenhagen Malmö Port, a unique bi-national port operation spanning Denmark and Sweden.", "Many former docklands, like Nordhavn, have been transformed into highly sustainable residential and commercial districts.", "The port's strategic location connects the Baltic Sea with the North Sea, making it essential for regional trade."]
+ },
+ facts: {
+ en: ["The port supports cruise and freight traffic.", "It is closely tied to Copenhagen's waterfront identity.", "The harbor links directly to the city center.", "It is one of Denmark's most important maritime hubs.", "The port reflects the capital's long seafaring history."],
+ de: ["Der Hafen unterstützt Kreuzfahrt- und Frachtverkehr.", "Er ist eng mit Kopenhagens Uferidentität verbunden.", "Der Hafen ist direkt mit dem Stadtzentrum verknüpft.", "Er ist einer der wichtigsten maritimen Knotenpunkte Dänemarks.", "Der Hafen spiegelt die lange Seefahrtsgeschichte der Hauptstadt wider."],
+ hu: ["A kikötő a cruise- és áruszállítást is szolgálja.", "Erősen kapcsolódik Koppenhága vízparti identitásához.", "A kikötő közvetlenül összekapcsolódik a belvárossal.", "Dánia egyik legfontosabb tengeri csomópontja.", "A kikötő a főváros hosszú hajózási múltját tükrözi."],
+ ro: ["Portul susține traficul de croaziere și marfă.", "Este strâns legat de identitatea de faleza a Copenhagăi.", "Portul este conectat direct cu centrul orașului.", "Este unul dintre cele mai importante noduri maritime ale Danemarcei.", "Portul reflectă lunga istorie maritimă a capitalei."]
+ },
+ image: "/geo-images/denmark/port-copenhagen.webp",
+ },
+ {
+ id: "port-aarhus",
+ type: "port",
+ parent: "DK",
+ coords: [10.2216, 56.1553],
+ name: { de: "Hafen Aarhus", hu: "Aarhusi kikötő", ro: "Portul Aarhus", en: "Port of Aarhus" },
+ description: {
+ en: "The Port of Aarhus is Denmark's largest container port and a powerful term for logistics, shipping, and east Jutland commerce. It gives Aarhus a strong industrial edge while staying close to a lively urban center and cultural district. The port's scale makes it central to Danish trade and maritime infrastructure. For transport and business pages, this is one of the most important port names in the country.",
+ de: "Der Hafen Aarhus ist Dänemarks größter Containerhafen und ein erstklassiges Ziel für Logistik, Schifffahrt und den Handel in Ostjütland. Er verleiht Aarhus eine starke industrielle Note und liegt dennoch nahe an einem lebhaften Stadtzentrum und Kulturviertel. Die Größe des Hafens macht ihn zentral für den dänischen Handel und die maritime Infrastruktur. Für Transport- und Wirtschaftsseiten ist dies einer der wichtigsten Hafennamen des Landes.",
+ hu: "Az Aarhusi kikötő Dánia legnagyobb konténerkikötője és kiváló választás a logisztika, a szállítmányozás és a kelet-jütlandi kereskedelem területén. Erős ipari karaktert ad Aarhusnak, miközben közel marad a nyüzsgő városközponthoz és kulturális negyedhez. Mérete kulcsszerepet ad neki a dán kereskedelemben és tengeri infrastruktúrában. Közlekedési és üzleti oldalak számára ez az egyik legfontosabb kikötőnév az országban.",
+ ro: "Portul Aarhus este cel mai mare port de containere al Danemarcei fiind o alegere ideală pentru logistică, transport maritim și comerț în estul Iutlandei. Oferă orașului Aarhus o latură industrială puternică, rămânând în același timp aproape de un centru urban animat și de cartiere culturale. Dimensiunea portului îl face central pentru comerțul danez și infrastructura maritimă. Pentru paginile despre transport și business, acesta este unul dintre cele mai importante nume de port din țară."},
+ descriptionAdvanced: {
+ de: "Der Hafen von Aarhus ist der größte Containerhafen Dänemarks und ein zentraler Wirtschaftsfaktor für das gesamte Land. Durch seine strategische Lage an der Ostküste Jütlands dient er als wichtiges Drehkreuz für den Handel mit dem Ostseeraum und dem Rest der Welt. In den letzten Jahren hat sich der Hafenbereich durch das Stadtentwicklungsprojekt Aarhus Ø stark gewandelt, wo moderne Architektur und maritimes Leben aufeinandertreffen. Hier befindet sich auch das ikonische Wohngebäude „Isbjerget“, das den Wandel von der Industrie zur modernen Urbanität symbolisiert. Trotz der modernen Bebauung bleibt der Hafen ein geschäftiger Industriestandort, der rund um die Uhr in Betrieb ist. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "Az aarhusi kikötő Dánia legnagyobb és legfontosabb teherkikötője, amely a nemzetközi kereskedelem fő ütőere az ország nyugati felén. A kikötő mély vizű létesítményei lehetővé teszik a világ legnagyobb konténerszállító hajóinak fogadását is. Az elmúlt években az aarhusi dokkok egy része hatalmas városfejlesztési projekten esett át, amelynek keretében létrejött a modern Aarhus Ø negyed. Ez a terület ikonikus, jéghegy alakú lakóépületekkel (Isbjerget) és modern kikötői fürdőkkel várja a lakókat és a turistákat. Az ipari teljesítmény és a fenntartható városfejlesztés lenyűgöző egyensúlya figyelhető meg itt. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Portul Aarhus este o centrală comercială formidabilă, recunoscut oficial drept cel mai mare port de containere din întreaga Danemarcă. Situat pe coasta de est a Peninsulei Iutlanda, portul se remarcă prin eficiența sa operațională incredibilă, manipulând majoritatea exporturilor industriale și agricole daneze. Zona limitrofă portului a fost subiectul uneia dintre cele mai grandioase dezvoltări urbane din Europa, denumită Aarhus Ø, unde silozurile de grâne și depozitele vechi au fost înlocuite de clădiri rezidențiale spectaculoase, precum faimosul complex 'Iceberg' (Isbjerget). Pe măsură ce industria grea se extinde mai departe spre mare, portul vechi s-a deschis cetățenilor, incluzând piețe stradale de alimente, biblioteci inovatoare și spații de recreere impresionante. Astfel, el ilustrează perfect echilibrul danez între dezvoltarea comercială brutală și calitatea înaltă a vieții comunitare. Economie K8 – Economia și industria Danemarcei.",
+ en: "The Port of Aarhus is Denmark's largest container port and the primary industrial gateway for international trade on the Jutland peninsula. It handles a significant majority of the country's maritime container traffic, serving as a vital link in global supply chains. The port has expanded aggressively over recent decades, featuring state-of-the-art logistics facilities, massive gantry cranes, and deep-water terminals. Despite its heavy industrial focus, the port area is continuously evolving, with the nearby modern 'Aarhus Ø' development blending residential life with the maritime environment. The port's efficiency and capacity make it an economic powerhouse for the region. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Hafen von Aarhus schlägt jährlich Millionen Tonnen Fracht um und ist Marktführer in Dänemark.",
+ "Das Stadtviertel Aarhus Ø auf dem ehemaligen Hafengelände ist eines der größten Hafenentwicklungsprojekte Europas.",
+ "Der Hafen verfügt über moderne Terminals für Container, Schüttgut und Kreuzfahrtschiffe.",
+ "Aarhus Ø beherbergt mit dem 'Lighthouse' das höchste bewohnbare Gebäude Dänemarks."
+ ],
+ hu: [
+ "Az aarhusi kikötő kezeli Dánia konténerforgalmának több mint 65 százalékát.",
+ "A dokkok bővítése folyamatos, jelenleg is új terminálok épülnek a tenger felé terjeszkedve.",
+ "A kikötő jelentős mezőgazdasági exportcsomópont, különösen a dán hús- és tejtermékek számára.",
+ "Az Aarhus Ø negyed építészeti díjak sokaságát nyerte el innovatív lakóépületeivel."
+ ],
+ ro: ["Portul Aarhus gestionează cu succes peste 65% din traficul național total de containere maritime al Danemarcei, fiind o poartă crucială către Marea Baltică.", "Complexul arhitectural Isbjerget (Aisbergul), situat exact în zona portuară revitalizată, a câștigat numeroase premii internaționale prestigioase pentru designul său curajos.", "Pentru a proteja spațiul vizual urban, portul industrial actual s-a extins intenționat dincolo de țărm prin ample și complexe procese de recuperare a pământului din mare.", "Dokk1, o structură publică uriașă din port, găzduiește cea mai mare bibliotecă publică modernă din Scandinavia, oferind și cel mai complet sistem de parcare robotizat din Europa.", "Sistemul feroviar intern al portului are conexiuni zilnice extrem de rapide care asigură un lanț complet de aprovizionare direct către inima Europei Centrale."],
+ en: ["The Port of Aarhus processes more than 60% of Denmark's total container traffic.", "It features some of the largest ship-to-shore gantry cranes in Northern Europe.", "The port is a crucial export hub for Danish agricultural and industrial products.", "Aarhus Ø, a new city district, is being built directly on former port industrial areas."]
+ },
+ facts: {
+ en: ["It is Denmark's largest container port.", "The port is a key trade hub for eastern Jutland.", "Aarhus combines port activity with a major urban center.", "The harbor plays a big role in Danish logistics.", "It is central to freight and shipping operations."],
+ de: ["Es ist Dänemarks größter Containerhafen.", "Der Hafen ist ein wichtiger Handelsknotenpunkt für Ostjütland.", "Aarhus verbindet Hafenbetrieb mit einem großen Stadtzentrum.", "Der Hafen spielt eine große Rolle in der dänischen Logistik.", "Er ist zentral für Fracht- und Schifffahrtsoperationen."],
+ hu: ["Ez Dánia legnagyobb konténerkikötője.", "A kikötő fontos kereskedelmi csomópont Kelet-Jütlandban.", "Aarhus a kikötői tevékenységet nagyvárosi központtal ötvözi.", "A kikötő nagy szerepet játszik a dán logisztikában.", "Központi szerepű az áruszállításban és a hajózásban."],
+ ro: ["Este cel mai mare port de containere din Danemarca.", "Portul este un nod comercial cheie pentru estul Iutlandei.", "Aarhus combină activitatea portuară cu un centru urban major.", "Portul joacă un rol mare în logistica daneză.", "Este central pentru operațiunile de marfă și transport maritim."]
+ },
+ image: "/geo-images/denmark/port-aarhus.webp",
+ },
+ {
+ id: "port-esbjerg",
+ type: "port",
+ parent: "DK",
+ coords: [8.4103, 55.4705],
+ name: { de: "Hafen Esbjerg", hu: "Esbjergi kikötő", ro: "Portul Esbjerg", en: "Port of Esbjerg" },
+ description: {
+ en: "The Port of Esbjerg is a crucial North Sea port and a premier destination for offshore wind, shipping, and coastal industry in Denmark. It has evolved from a fishing and export harbor into a major logistics base for energy and maritime services. The port's location makes it central to west coast trade and offshore operations. Esbjerg's harbor story is ideal for industrial and transport-focused travel content.",
+ de: "Der Hafen Esbjerg ist ein wichtiger Nordseehafen und ein erstklassiges Ziel für Offshore-Wind, Schifffahrt und Küstenindustrie in Dänemark. Er hat sich von einem Fischerei- und Exporthafen zu einem wichtigen Logistikstandort für Energie und maritime Dienstleistungen entwickelt. Seine Lage macht ihn zentral für den Handel an der Westküste und Offshore-Einsätze. Die Hafengeschichte Esbjergs eignet sich ideal für industrie- und transportorientierte Reiseinhalte.",
+ hu: "Az Esbjergi kikötő kulcsfontosságú északi-tengeri kikötő így kiemelkedő célpont az offshore szélenergia, a hajózás és a dániai parti ipar témájában. A halászati és exportkikötőből mára az energia és a tengeri szolgáltatások egyik fontos logisztikai bázisává vált. Fekvése a nyugati parti kereskedelem és az offshore műveletek központjává teszi. Esbjerg kikötői története ideális ipari és közlekedésközpontú utazási tartalmakhoz.",
+ ro: "Portul Esbjerg este un port crucial la Marea Nordului și o alegere excelentă pentru energia eoliană offshore, transport maritim și industrie de coastă în Danemarca. A evoluat de la un port de pescuit și export la o bază logistică majoră pentru energie și servicii maritime. Poziția sa îl face central pentru comerțul de pe coasta de vest și pentru operațiunile offshore. Povestea portului Esbjerg este ideală pentru conținutul de călătorie axat pe industrie și transport."},
+ descriptionAdvanced: {
+ de: "Der Hafen von Esbjerg ist das bedeutendste maritime Tor Dänemarks zur Nordsee und ein weltweit führender Standort für die Offshore-Windenergie. Ursprünglich als Exporthafen für landwirtschaftliche Produkte geplant, hat er sich heute zum zentralen Stützpunkt für die Installation und Wartung von Windparks auf hoher See entwickelt. Seine enorme Kapazität und spezialisierte Infrastruktur machen ihn zu einem unverzichtbaren Teil der globalen Energiewende. Neben der Windenergie spielt der Hafen weiterhin eine wichtige Rolle für die Öl- und Gasindustrie sowie den Güterumschlag. Die ständige Erweiterung des Hafengeländes zeigt die wachsende Bedeutung Esbjergs als logistisches Zentrum Nordeuropas. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "Az esbjergi kikötő a Wadden-tenger partján található, és a világ egyik legfontosabb tengeri bázisa az offshore energiaipar számára. Míg a 19. századi alapításakor az elsődleges cél a Nagy-Britanniába irányuló mezőgazdasági export támogatása volt, a 20. század végétől a fókusz az Északi-tengeri olaj- és gázkitermelésre helyeződött át. Ma a kikötő az offshore szélerőművek telepítésének és karbantartásának globális központja, hatalmas turbinalapátok és alkatrészek sorakoznak a dokkokban. Ez a nyüzsgő tengeri csomópont kulcsszerepet játszik Dánia zöld energia átmenetében. A hatalmas teherhajók és speciális daruk lenyűgöző látványt nyújtanak a látogatóknak. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Portul Esbjerg de pe coasta Mării Nordului este o minune a ingineriei umane, fiind inițial construit la sfârșitul secolului al XIX-lea dintr-o pură necesitate națională după pierderea altor teritorii vitale. Astăzi, el s-a transformat total de la cel mai mare port pescăresc al națiunii la indiscutabila capitală a energiei eoliene offshore a Europei. De-a lungul cheiurilor sale nesfârșite, componente colosale ale turbinelor eoliene, precum palete și nacelă, așteaptă să fie încărcate pe nave specializate uriașe pentru a fi asamblate în largul mării. Zona portuară fuzionează organic cu peisajele protejate ale Mării Wadden (Vadehavet), o arie UNESCO unde se pot observa fenomene incredibile de maree. Vibrația industrială, macarelele gigantice și determinarea oamenilor care lucrează acolo subliniază dedicarea exclusivă a Danemarcei pentru un viitor energetic verde absolut. Economie K8 – Economia și industria Danemarcei.",
+ en: "The Port of Esbjerg is the leading port in Denmark for the offshore industry, uniquely positioned on the west coast of Jutland facing the North Sea. Established in the late 19th century to facilitate agricultural exports, it has dramatically evolved into a global powerhouse for the offshore energy sector. The port is the world's largest base for the shipping and installation of offshore wind turbines. It also serves as a critical support hub for oil and gas extraction in the North Sea. The vast, bustling port areas are a testament to Denmark's ambitious transition toward renewable energy dominance. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "Esbjerg ist der größte Hafen der Welt für den Umschlag und die Verschiffung von Offshore-Windkraftanlagen.",
+ "Der Hafen wurde 1868 künstlich angelegt, um einen direkten Zugang zur Nordsee zu erhalten.",
+ "Von hier aus startete historisch der Großteil der dänischen Agrarexporte nach Großbritannien.",
+ "Der Hafen ist ein bedeutender Arbeitgeber in der Region mit Tausenden von direkt verbundenen Arbeitsplätzen."
+ ],
+ hu: [
+ "Az esbjergi kikötőt 1868-ban kezdték építeni, hogy pótolják a porosz háborúban elvesztett altonai kikötőt.",
+ "A kikötőből eddig több mint 4000 tengeri szélturbinát szállítottak ki az Északi-tengerre.",
+ "Esbjerg több mint ezer cégnek ad otthont, amelyek többsége az energiaiparhoz kapcsolódik.",
+ "A kikötő teljes területe meghaladja a 4,5 millió négyzetmétert."
+ ],
+ ro: ["Peste trei sferturi din toate turbinele eoliene marine instalate în apele continentului european au trecut fizic prin portul Esbjerg la un moment dat.", "Esbjerg se bucură de poziția favorabilă rară de a fi principalul hub de deservire și întreținere pentru masivele câmpuri petroliere și gaziere daneze din Marea Nordului.", "Istoric, din acest port s-au realizat primele exporturi rurale organizate și masive de bacon, unt și ouă de la fermele daneze către piața din Marea Britanie.", "Pentru a acomoda palele de turbină din ce în ce mai gigantice, drumurile interne și structura portului sunt continuu ranforsate și lărgite masiv.", "Feriboturile frecvente pleacă direct din portul Esbjerg către mica și frumoasa insulă Fanø, o călătorie relaxantă și esențială de doar 12 minute."],
+ en: ["Esbjerg is globally recognized as the world's largest port for handling offshore wind turbines.", "The port covers an immense area of over 4.5 million square meters.", "It was originally founded by the Danish state in 1868 to secure a viable North Sea export harbor.", "The port provides direct ferry and freight connections to the United Kingdom and other international markets."]
+ },
+ facts: {
+ en: ["The port is important for offshore wind logistics.", "It supports North Sea shipping and services.", "Esbjerg grew as a major export harbor.", "The port is central to west coast industry.", "It is one of Denmark's most strategically useful ports."],
+ de: ["Der Hafen ist wichtig für die Offshore-Windlogistik.", "Er unterstützt Schifffahrt und Dienstleistungen in der Nordsee.", "Esbjerg wuchs als wichtiger Exporthafen.", "Der Hafen ist zentral für die Industrie an der Westküste.", "Er gehört zu Dänemarks strategisch nützlichsten Häfen."],
+ hu: ["A kikötő fontos az offshore szélenergia logisztikájában.", "Támogatja az északi-tengeri hajózást és szolgáltatásokat.", "Esbjerg nagy exportkikötőként nőtt fel.", "A kikötő központi szerepű a nyugati parti iparban.", "Dánia egyik stratégiailag leghasznosabb kikötője."],
+ ro: ["Portul este important pentru logistica energiei eoliene offshore.", "Sprijină transportul maritim și serviciile din Marea Nordului.", "Esbjerg a crescut ca port major de export.", "Portul este central pentru industria de pe coasta de vest.", "Este unul dintre cele mai utile porturi strategice ale Danemarcei."]
+ },
+ image: "/geo-images/denmark/port-esbjerg.webp",
+ },
+ {
+ id: "port-frederikshavn",
+ type: "port",
+ parent: "DK",
+ coords: [10.5402, 57.4460],
+ name: { de: "Hafen Frederikshavn", hu: "Frederikshavni kikötő", ro: "Portul Frederikshavn", en: "Port of Frederikshavn" },
+ description: {
+ en: "The Port of Frederikshavn is a vital ferry port in northern Denmark and a highly useful term for travel to Sweden, Norway, and the Baltic. It has long served both commercial shipping and passenger routes, giving the town a distinctly maritime identity. The harbor area underlines the city's role as a transport gateway to Scandinavia. Frederikshavn port content works well for ferry schedules, island access, and northern coastal routes.",
+ de: "Der Hafen Frederikshavn ist ein wichtiger Fährhafen in Norddänemark und ein sehr nützliches-Thema für Reisen nach Schweden, Norwegen und in den Ostseeraum. Er diente lange sowohl dem Handelsschiffverkehr als auch Passagierlinien und verleiht der Stadt eine ausgeprägt maritime Identität. Das Hafengebiet unterstreicht die Rolle der Stadt als Verkehrstor nach Skandinavien. Hafeninhalte zu Frederikshavn eignen sich gut für Fährpläne, Inselzugänge und nördliche Küstenrouten.",
+ hu: "A Frederikshavni kikötő létfontosságú kompkikötő Észak-Dániában, és rendkívül hasznos-kifejezés Svédország, Norvégia és a balti térség felé utazók számára. Régóta szolgálja mind a kereskedelmi hajózást, mind az utasjáratokat, ami erősen tengeri identitást ad a városnak. A kikötői terület kiemeli a város szerepét mint skandináv közlekedési kapu. A frederikshavni kikötő tartalma jól működik menetrendekhez, szigetek eléréséhez és északi tengerparti útvonalakhoz.",
+ ro: "Portul Frederikshavn este un port de feribot vital în nordul Danemarcei și un termen foarte util pentru călătoriile către Suedia, Norvegia și zona baltică. A servit mult timp atât transportului comercial, cât și rutelor de pasageri, conferind orașului o identitate maritimă clară. Zona portuară subliniază rolul orașului ca poartă de transport spre Scandinavia. Conținutul despre portul Frederikshavn funcționează bine pentru orare de feribot, acces la insule și rute de coastă nordice."},
+ descriptionAdvanced: {
+ de: "Der Hafen von Frederikshavn ist einer der geschäftigsten Fährhäfen Dänemarks und ein strategisch wichtiger Punkt am Kattegat. Er dient als primäre Verbindung für den Personen- und Güterverkehr nach Göteborg in Schweden und Oslo in Norwegen. Neben seiner Rolle im Fährverkehr ist der Hafen ein bedeutendes Zentrum für maritime Dienstleistungen, Schiffbau und die Verschrottung von Bohrinseln auf umweltfreundliche Weise. Der Hafen ist zudem ein wichtiger Stützpunkt für die dänische Marine, was seine strategische Bedeutung unterstreicht. Die kontinuierliche Modernisierung sorgt dafür, dass Frederikshavn ein wettbewerbsfähiger Akteur im skandinavischen Logistiknetzwerk bleibt. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "A frederikshavni kikötő Észak-Jütland létfontosságú tengeri csomópontja, amely Dániát köti össze Norvégiával és Svédországgal. A folyamatos kompjáratoknak köszönhetően a kikötő hatalmas személy- és teherforgalmat bonyolít le, és kaput nyit Skandinávia felé. A kikötő híres magas szintű hajójavító és hajóépítő szolgáltatásairól is, amelyeket modern szárazdokkok támogatnak. A haditengerészet is fenntart itt egy támaszpontot, hangsúlyozva a hely stratégiai jelentőségét. A dokkok körüli pezsgő élet és az érkező kompok látványa meghatározza Frederikshavn városának dinamikus arculatát. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Portul Frederikshavn este coloana vertebrală și sufletul extremității nordice a Iutlandei, funcționând ca o legătură absolut vitală pentru întregul transport din zona scandinavă. Este recunoscut în special pentru traficul comercial imens de feriboturi, care aduc și duc zilnic pasageri, autoturisme private și camioane imense de marfă între Danemarca, Suedia și Norvegia. Fără acest port strategic, economia regiunii de nord și a țărilor vecine ar fi complet paralizată. În plus, portul dispune de șantiere navale extrem de avansate tehnologic și oferă o arie largă de servicii pentru navele mari de război și flotele de pescuit locale. Peisajul său este dominat de siluetele impunătoare ale navelor „Stena Line”, în timp ce tavernele locale încă mai păstrează aerul rustic al mateloților de odinioară. Economie K8 – Economia și industria Danemarcei.",
+ en: "The Port of Frederikshavn is an essential commercial and ferry port located at the northern tip of the Jutland peninsula. It serves as a major strategic maritime gateway connecting Denmark directly with Sweden and Norway. The port has a rich history deeply tied to shipbuilding and naval operations, reflecting its critical position guarding the Kattegat strait. Today, it remains a bustling hub for passenger ferries, cargo transport, and the fishing industry. The port has recently undergone significant expansions to accommodate larger vessels and support sustainable maritime technologies, cementing its importance in regional logistics. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Hafen von Frederikshavn fertigt jährlich Millionen von Passagieren auf den Routen nach Schweden und Norwegen ab.",
+ "Er ist bekannt für seine Kompetenz im Bereich 'Maritime Recycling', der umweltgerechten Zerlegung großer Seestrukturen.",
+ "Die dänische Marine unterhält hier einen ihrer Hauptstützpunkte (Flådestation Frederikshavn).",
+ "Der Hafen bietet spezialisierte Einrichtungen für die Reparatur und Wartung großer Seeschiffe."
+ ],
+ hu: [
+ "A kikötőből naponta indulnak Stena Line és DFDS kompok Göteborg és Oslo felé.",
+ "A kikötőt az elmúlt években jelentősen kibővítették, hogy még nagyobb teherhajókat és olajfúró tornyokat fogadhasson.",
+ "A hajó-újrahasznosítás (bontás) egyre fontosabb és fenntartható iparággá válik a kikötőben.",
+ "A terület egyben fontos halászkikötő is, különösen a nyílt tengeri vonóhálós hajók számára."
+ ],
+ ro: ["Frederikshavn deține onorabilul titlu istoric de a fi cel de-al doilea cel mai aglomerat port de feriboturi comerciale la nivel național din Danemarca.", "Instalațiile portuare complexe ocupă un spațiu fizic masiv care depășește proporțional chiar dimensiunea rezidențială efectivă a orașului propriu-zis.", "Apropierea relativă unică de orașul Göteborg din Suedia transformă portul într-o opțiune populară rapidă pentru cumpărături peste graniță pe feribot în weekend.", "În mod oficial, Danemarca menține în permanență un element dedicat al marinei sale naționale cantonat strategic în cadrul structurii portului Frederikshavn.", "Baza navală oferă adăpost sigur și vital pentru unicul și cel mai cunoscut vas-școală regal din Danemarca, nava „Danmark”, construită istoric în 1932."],
+ en: ["Frederikshavn is one of the busiest passenger ferry ports in Denmark, linking to Oslo and Gothenburg.", "The port has recently established advanced facilities for environmentally friendly ship recycling.", "It is a key base for the Danish naval fleet operating in northern waters.", "The town originally grew as a fortified naval harbor known as Fladstrand before becoming a commercial port."]
+ },
+ facts: {
+ en: ["It is a major ferry gateway to Sweden and Norway.", "The port has long supported passenger travel.", "It also serves commercial shipping needs.", "Frederikshavn is a key maritime town in northern Jutland.", "The harbor is important for island connections."],
+ de: ["Es ist ein wichtiger Fährknotenpunkt nach Schweden und Norwegen.", "Der Hafen unterstützt seit langem den Passagierverkehr.", "Er dient auch den Bedürfnissen der Frachtschifffahrt.", "Frederikshavn ist eine wichtige Hafenstadt in Nordjütland.", "Der Hafen ist wichtig für Inselverbindungen."],
+ hu: ["Fontos kompkapu Svédország és Norvégia felé.", "A kikötő régóta támogatja az utasforgalmat.", "A kereskedelmi hajózás igényeit is kiszolgálja.", "Frederikshavn Észak-Jütland fontos tengeri városa.", "A kikötő fontos a szigetkapcsolatok miatt."],
+ ro: ["Este o poartă majoră cu feribotul către Suedia și Norvegia.", "Portul susține de mult timp transportul de pasageri.", "Servește și nevoilor de transport comercial.", "Frederikshavn este un oraș maritim important în nordul Iutlandei.", "Portul este important pentru legăturile cu insulele."]
+ },
+ image: "/geo-images/denmark/port-frederikshavn.webp",
+ },
+ {
+ id: "ind-carlsberg-brewery",
+ type: "industry",
+ parent: "DK",
+ coords: [12.5344, 55.6641],
+ name: { de: "Carlsberg-Brauerei", hu: "Carlsberg sörgyár", ro: "Berea Carlsberg", en: "Carlsberg Brewery" },
+ description: {
+ en: "Carlsberg Brewery is one of Denmark's most famous industrial landmarks and a premier destination for beer history, branding, and Copenhagen industry tours. The site tells the story of a global company that shaped Danish exports and helped define modern brewing culture. Visitors can connect the brewery with architecture, innovation, and the wider Carlsberg district in Copenhagen. It is an excellent fit for pages about Danish industry with a heritage angle.",
+ de: "Die Carlsberg-Brauerei ist eines der berühmtesten Industriedenkmäler Dänemarks und ein erstklassiges Ziel für Biergeschichte, Marke und Industrietouren in Kopenhagen. Der Ort erzählt die Geschichte eines globalen Unternehmens, das dänische Exporte prägte und die moderne Braukultur mitformte. Besucher können die Brauerei mit Architektur, Innovation und dem größeren Carlsberg-Viertel in Kopenhagen verbinden. Sie passt hervorragend zu Seiten über dänische Industrie mit historischem Bezug.",
+ hu: "A Carlsberg sörgyár Dánia egyik leghíresebb ipari jelképe így kiemelkedő célpont a sörtörténet, a márka és a koppenhágai ipari túrák témájában. A helyszín egy globális vállalat történetét meséli el, amely formálta a dán exportot és meghatározta a modern sörfőzést. A látogatók az építészettel, az innovációval és a koppenhágai Carlsberg-negyeddel is összekapcsolhatják. Kiválóan illik a dán iparról szóló, örökségi szempontú oldalakhoz.",
+ ro: "Berea Carlsberg este unul dintre cele mai faimoase repere industriale ale Danemarcei și o alegere excelentă pentru istoria berii, branding și tururi industriale în Copenhaga. Situl spune povestea unei companii globale care a modelat exporturile daneze și cultura modernă a berii. Vizitatorii pot lega fabrica de arhitectură, inovație și de cartierul mai larg Carlsberg din Copenhaga. Este o alegere excelentă pentru paginile despre industria daneză cu accent pe patrimoniu."},
+ descriptionAdvanced: {
+ de: "Die Carlsberg-Brauerei in Kopenhagen ist ein Symbol dänischer Industriegeschichte und weltweiter Markenbekanntheit. Gegründet von J.C. Jacobsen im Jahr 1847, revolutionierte das Unternehmen die Bierbraukunst durch wissenschaftliche Methoden und die Entdeckung der Reinzuchthefe. Das ursprüngliche Brauereigelände im Stadtteil Valby wird heute zu einem modernen Wohn- und Kulturviertel umgewandelt, wobei viele historische Backsteinbauten erhalten bleiben. Das Besucherzentrum „Home of Carlsberg“ bietet Einblicke in die Geschichte, die Wissenschaft hinter dem Brauen und die bedeutende Kunstsammlung der Familie Jacobsen. Carlsberg ist nicht nur eine Brauerei, sondern durch die Carlsberg-Stiftung auch ein bedeutender Förderer von Wissenschaft und Kultur in Dänemark. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "A Carlsberg Sörfőzde a dán ipartörténet egyik legfontosabb helyszíne, amelyet J.C. Jacobsen alapított 1847-ben Koppenhágában. A sörfőzde komplexuma, a Carlsberg Byen, mára egy nyüzsgő városrésszé alakult, ahol a modern építészet és a 19. századi indusztriális műemlékek találkoznak. Az ikonikus Elefánt-kapu (Elefantporten), amelyet négy gránitelefánt tart, a sörgyár legismertebb szimbóluma. Bár a nagyüzemi sörgyártás nagy része kiköltözött a fővárosból, a régi épületekben látogatóközpont, mikrosörfőzde és múzeum működik. A Carlsberg a dán kultúra és az innovatív sörkészítés globális nagykövete. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Fosta Fabrică de Bere Carlsberg din districtul Valby, Copenhaga, este un loc legendar care marchează însăși nașterea uneia dintre cele mai respectate beri din întreaga lume. Fondată în 1847 de către pasionatul JC Jacobsen, zona arhitecturală include clădiri industriale spectaculoase din cărămidă roșie, decorate generos cu turnuri, portaluri și mozaicuri unice. Faimoasa 'Poartă a Elefanților' și sculpturile sale colosale impresionează și astăzi orice vizitator al vechiului sit industrial de producție. Astăzi, producția grea a fost mutată complet din oraș, dar locul original s-a transformat spectaculos în „Cartierul Carlsberg” (Carlsberg Byen), un amestec vibrant de rezidențe urbane avangardiste, spații de cultură alternativă și tururi istorice ale vechilor berării. Este o experiență profundă despre modul în care industria berii a influențat efectiv cultura, arta și dezvoltarea arhitecturală a națiunii daneze. Economie K8 – Economia și industria Danemarcei.",
+ en: "The historical Carlsberg Brewery in Copenhagen is the birthplace of one of the world's most famous beer brands. Founded in 1847 by J.C. Jacobsen, the brewery area is a monumental piece of Danish industrial history, featuring impressive 19th-century architecture like the iconic Elephant Gate. Jacobsen was a pioneer of modern brewing, famously sharing the pure yeast strain developed in his laboratories with the rest of the world. The expansive industrial site is currently undergoing a massive transformation into the 'Carlsberg City District', a vibrant new urban neighborhood. The legacy of the brewery profoundly impacted Danish culture, funding massive artistic and scientific endeavors. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "Carlsberg wurde nach dem Sohn des Gründers, Carl Jacobsen, benannt.",
+ "In den Carlsberg-Laboren wurde 1883 die Reinzuchthefe (Saccharomyces carlsbergensis) entdeckt.",
+ "Die berühmten Elefanten-Tore auf dem Brauereigelände sind ein Wahrzeichen Kopenhagens.",
+ "Die Carlsberg-Stiftung besitzt die Mehrheit der Anteile am Unternehmen und investiert die Gewinne in die Forschung."
+ ],
+ hu: [
+ "J.C. Jacobsen a fiáról, Carlról és a dombos ('berg') elhelyezkedésről nevezte el a sörfőzdét.",
+ "A sörfőzde laboratóriumában Emil Christian Hansen professzor 1883-ban először izolálta a tiszta élesztőkultúrát (Saccharomyces carlsbergensis).",
+ "Az alapító fia, Carl Jacobsen hozta létre a Ny Carlsberg Glyptotek művészeti múzeumot a sörfőzde bevételeiből.",
+ "A gyárterületen még mindig tartanak jütlandi igáslovakat, amelyekkel hagyományosan a sört szállították."
+ ],
+ ro: ["Laboratorul vechi de cercetare Carlsberg de aici a izolat și cultivat pentru prima dată în istoria omenirii tulpina pură completă a drojdiei de bere 'Saccharomyces carlsbergensis'.", "Fondatorul original, Jacobsen, a numit efectiv masiva fabrică „Carlsberg” onorându-și direct fiul său pe nume Carl, precum și dealul („bjerg” în daneză) pe care a fost ridicată.", "Poarta masivă din piatră a Elefanților este ornată curios cu simboluri antice ale zvasticii indiene, care pe atunci reprezentau un simbol vechi comun pentru prosperitate și noroc bun.", "O componentă populară a vechii berării sunt hergheliile tradiționale care încă adăpostesc faimoșii cai solizi de rasă Jutland, folosiți inițial la transportul de căruțe de bere grele.", "Fundația Carlsberg imensă, creată în 1876 din profiturile directe ale fabricii, sprijină oficial cu fonduri uriașe știința, literatura și mai ales artele frumoase daneze."],
+ en: ["The iconic Elephant Gate features four life-size granite elephants carrying the brewery's tower.", "Carlsberg's laboratory was the first to successfully isolate a pure strain of brewer's yeast in 1883.", "J.C. Jacobsen founded the Ny Carlsberg Glyptotek, one of Denmark's most important art museums.", "The brewery site houses the world's largest collection of unopened beer bottles, numbering over 22,000."]
+ },
+ facts: {
+ en: ["Carlsberg is one of Denmark's most famous brands.", "The brewery has deep roots in Copenhagen.", "It helped shape Danish beer culture worldwide.", "The Carlsberg district blends industry and urban renewal.", "It is a strong example of industrial heritage tourism."],
+ de: ["Carlsberg ist eine der bekanntesten Marken Dänemarks.", "Die Brauerei hat tiefe Wurzeln in Kopenhagen.", "Sie prägte die dänische Bierkultur weltweit.", "Das Carlsberg-Viertel verbindet Industrie und Stadterneuerung.", "Es ist ein starkes Beispiel für industriellen Kulturtourismus."],
+ hu: ["A Carlsberg Dánia egyik leghíresebb márkája.", "A sörgyár mély gyökerekkel rendelkezik Koppenhágában.", "Világszerte formálta a dán sörkultúrát.", "A Carlsberg-negyed az ipart és a városmegújítást ötvözi.", "Erős példa az ipari örökségturizmusra."],
+ ro: ["Carlsberg este unul dintre cele mai faimoase branduri ale Danemarcei.", "Berea are rădăcini adânci în Copenhaga.", "A modelat cultura berii daneze la nivel mondial.", "Districtul Carlsberg combină industria cu regenerarea urbană.", "Este un exemplu puternic de turism al patrimoniului industrial."]
+ },
+ image: "/geo-images/denmark/carlsberg-brewery.webp",
+ },
+ {
+ id: "ind-lego-factory-billund",
+ type: "industry",
+ parent: "DK",
+ coords: [9.1200, 55.7305],
+ name: { de: "LEGO-Fabrik Billund", hu: "Billundi LEGO gyár", ro: "Fabrica LEGO Billund", en: "LEGO Factory Billund" },
+ description: {
+ en: "The LEGO Factory in Billund is an important industrial landmark and a high-performing term for toys, manufacturing, and Danish innovation. It stands at the origin of a global brand that began as a small Danish workshop and grew into one of the world's best-known companies. The factory area ties directly to the story of Billund as a creative family destination. For industry and business content, LEGO Factory Billund is both practical and iconic.",
+ de: "Die LEGO-Fabrik in Billund ist ein wichtiges Industriedenkmal und ein erstklassiges Ziel für Spielzeug, Produktion und dänische Innovation. Sie steht am Ursprung einer globalen Marke, die als kleine dänische Werkstatt begann und zu einem der bekanntesten Unternehmen der Welt wurde. Das Fabrikgelände ist eng mit der Geschichte Billunds als kreatives Familienziel verbunden. Für Industrie- und Wirtschaftsinhalte ist die LEGO-Fabrik Billund sowohl praktisch als auch ikonisch.",
+ hu: "A billundi LEGO gyár fontos ipari jelkép így kiemelkedő célpont a játékok, a gyártás és a dán innováció témájában. Egy globális márka eredeténél áll, amely kis dán műhelyként indult, majd a világ egyik legismertebb vállalatává nőtte ki magát. A gyárterület szorosan kapcsolódik Billund kreatív családi célponttá válásához. Ipari és üzleti tartalmakhoz a LEGO gyár egyszerre praktikus és ikonikus.",
+ ro: "Fabrica LEGO din Billund este un reper industrial important fiind un punct de referință pentru jucării, producție și inovație daneză. Se află la originea unui brand global care a început ca un mic atelier danez și a devenit una dintre cele mai cunoscute companii din lume. Zona fabricii este strâns legată de povestea lui Billund ca destinație creativă pentru familii. Pentru conținutul despre industrie și business, fabrica LEGO din Billund este în același timp practică și iconică."},
+ descriptionAdvanced: {
+ de: "Die LEGO-Fabrik in Billund ist das globale Herzstück eines der bekanntesten Spielzeughersteller der Welt. Hier in der kleinen Stadt in Jütland begann alles in der Werkstatt von Ole Kirk Christiansen, der zunächst Holzspielzeug fertigte, bevor er die ikonischen Kunststoffsteine erfand. Die hochmodernen Fertigungsanlagen arbeiten mit enormer Präzision und produzieren täglich Millionen von LEGO-Elementen, die in Kinderzimmer auf der ganzen Welt verschickt werden. Billund hat sich durch den Erfolg von LEGO von einem kleinen Dorf zu einer international bekannten Stadt mit eigenem Flughafen entwickelt. Die Fabrik ist ein beeindruckendes Beispiel für dänisches Design, Innovationskraft und höchste Qualitätsstandards. Sachkunde K3 – Wie Dinge hergestellt werden. Wirtschaft K8 – Dänemarks Wirtschaft und Industrie.",
+ hu: "A billundi LEGO gyár a világ legismertebb építőjátékának szülőhelye és legfontosabb gyártóközpontja. Bár a LEGO mára globális nagyvállalattá nőtt, a billundi gyár továbbra is a vállalat szíve és az innováció központja. A hatalmas, csúcstechnológiás üzemben naponta több millió apró műanyag kockát fröccsöntenek hibátlan precizitással. Bár a gyár belső területei a nagyközönség számára csak korlátozottan, speciális túrák keretében látogathatók, a környék atmoszférája mélyen át van itatva a kreativitással. A gyár jelentős lépéseket tesz a fenntarthatóság felé, célul tűzve ki a növényi alapú és újrahasznosított műanyagok használatát. Gazdaságtan K8 – Dánia gazdasága és ipara.",
+ ro: "Fabrica principală LEGO din orășelul Billund, Danemarca, este centrul nervos și inima istorică a celui mai iubit brand global de jucării de construcție. Aici, procesele industriale extrem de avansate, care folosesc mașinării colosale de turnare prin injecție de mare precizie, funcționează non-stop pentru a crea milioane de cărămizi individuale din plastic. Precizia germanică și inovația permanentă a inginerilor danezi au făcut ca o cărămidă produsă în anul 1958 să se poată cupla perfect cu una abia turnată astăzi. Fabrica în sine nu este în general deschisă publicului larg fără programare foarte strictă, însă prezența sa a transformat complet comunitatea locală Billund dintr-un sat agricol într-un hub internațional. Magia locului rezidă în faptul că aceste hale tăcute de metal ascund practic sursa de bucurie și creativitate pentru generații întregi de copii de pe toate continentele. Economie K8 – Economia și industria Danemarcei.",
+ en: "The LEGO Factory in Billund is the highly secure and incredibly efficient manufacturing heart of the global LEGO empire. Located in the town where Ole Kirk Christiansen invented the iconic interlocking brick, the factory is a marvel of modern automated manufacturing. Inside, massive molding machines operate 24 hours a day, precisely pressing molten plastic into billions of flawless bricks annually. The facility embodies the company's motto, 'Only the best is good enough', maintaining extraordinary standards of quality control. While mostly closed to the public, the sheer scale of production at this site sustains the imaginative play of millions globally. Economics K8 – Denmark's economy and industry."
+ },
+ factsAdvanced: {
+ de: [
+ "In der Fabrik in Billund werden jede Stunde etwa zwei Millionen LEGO-Steine gegossen.",
+ "Die Präzision der gussformen ist so hoch, dass nur etwa 18 von einer Million Steinen Ausschuss sind.",
+ "Der Name LEGO leitet sich vom dänischen 'Leg godt' ab, was 'Spiel gut' bedeutet.",
+ "LEGO ist seit Jahrzehnten einer der wichtigsten Arbeitgeber in der Region Jütland."
+ ],
+ hu: [
+ "A LEGO név a dán 'leg godt' kifejezésből származik, ami azt jelenti: 'játssz jól'.",
+ "Az ikonikus, ma is használt LEGO kocka dizájnját 1958-ban szabadalmaztatták Billundban.",
+ "A gyárban használt öntőformák precizitása eléri a 0,004 millimétert.",
+ "A billundi gyár naponta több mint 100 millió LEGO elemet gyárt le a legszigorúbb minőségi ellenőrzések mellett."
+ ],
+ ro: ["Compania enormă LEGO a fost fondată în anul 1932 ca un mic atelier local de jucării de lemn cioplite manual de tâmplarul simplu Ole Kirk Christiansen.", "Numele global „LEGO” provine direct din limba daneză din fraza specifică „leg godt”, care se traduce simplu și frumos prin cuvintele „joacă-te frumos”.", "Modelele matematice ale companiei estimează oficial că la nivel global se produc anual aproximativ impresionanta cifră de 36 de miliarde de cărămizi individuale de plastic.", "Sistemul avansat de stocare este automatizat la maxim, cu roboți care operează eficient într-un depozit întunecat pentru a muta pachetele grele cu piese abia turnate.", "Toleranța de precizie pentru eroare în turnarea oricărei forme individuale LEGO la fabrică este de abia incredibila limită de 10 micrometri (0,01 milimetri)."],
+ en: ["The molding machines in Billund produce billions of individual LEGO elements every single year.", "The precision of the molds is so high that only 18 out of every million bricks fail quality testing.", "The factory uses automated guided vehicles (AGVs) to transport freshly molded bricks across the factory floor.", "The iconic 2x4 LEGO brick was patented from this very town in 1958."]
+ },
+ facts: {
+ en: ["Billund is the home town of the LEGO brand.", "The factory area is linked to the company's origin story.", "LEGO became a global toy powerhouse.", "The site helps define Billund's identity.", "It is a key industrial name in Danish innovation."],
+ de: ["Billund ist die Heimatstadt der Marke LEGO.", "Das Fabrikgelände ist mit der Herkunftsgeschichte des Unternehmens verbunden.", "LEGO wurde zu einem globalen Spielzeuggiganten.", "Der Ort prägt die Identität Billunds.", "Es ist ein wichtiger Industriename der dänischen Innovation."],
+ hu: ["Billund a LEGO márka szülővárosa.", "A gyárterület a cég eredettörténetéhez kapcsolódik.", "A LEGO globális játékóriássá vált.", "A hely meghatározza Billund identitását.", "Fontos ipari név a dán innovációban."],
+ ro: ["Billund este orașul de origine al brandului LEGO.", "Zona fabricii este legată de povestea de început a companiei.", "LEGO a devenit un gigant global al jucăriilor.", "Situl ajută la definirea identității orașului Billund.", "Este un nume industrial cheie în inovația daneză."]
+ },
+ image: "/geo-images/denmark/lego-factory-billund.webp",
+ },
+ {
+ id: "hist-jelling-monuments",
+ type: "historical",
+ parent: "DK",
+ coords: [9.4169, 55.7581],
+ name: { de: "Jelling-Steine", hu: "Jelling-kövek", ro: "Pietrele de la Jelling", en: "Jelling Monuments" },
+ description: {
+ en: "The Jelling Monuments are one of Denmark's most significant historical landmarks because they connect Viking power, royal origins, and UNESCO recognition in one site. The two rune stones and burial mounds mark a turning point in Danish history and are often described as the country's birth certificate. Visitors come here for the open landscape, the modern visitor center, and the deep story behind King Harold Bluetooth. Jelling is essential for travelers who want the roots of Denmark explained in a clear, memorable place.",
+ de: "Die Jelling-Steine gehören zu den bedeutendsten historischen Wahrzeichen Dänemarks, weil sie Wikingermacht, königliche Ursprünge und UNESCO-Anerkennung an einem Ort verbinden. Die beiden Runensteine und Grabhügel markieren einen Wendepunkt der dänischen Geschichte und werden oft als Geburtsurkunde des Landes bezeichnet. Besucher kommen wegen der offenen Landschaft, des modernen Besucherzentrums und der großen Geschichte hinter König Harald Blauzahn. Jelling ist unverzichtbar für Reisende, die die Wurzeln Dänemarks an einem klaren, einprägsamen Ort verstehen wollen.",
+ hu: "A Jelling-kövek Dánia egyik legjelentősebb történelmi helyszíne, mert egyszerre kapcsolják össze a viking hatalmat, a királyi eredetet és az UNESCO-elismerést. A két rúnakő és a temetkezési halmok a dán történelem fordulópontját jelölik, és gyakran az ország születési anyakönyvi kivonatának nevezik őket. A látogatók az nyílt táj, a modern látogatóközpont és Harald Blåtand király nagy története miatt érkeznek ide. Jelling nélkülözhetetlen azoknak, akik egy emlékezetes helyen szeretnék megérteni Dánia gyökereit.",
+ ro: "Monumentele de la Jelling sunt unul dintre cele mai importante repere istorice ale Danemarcei, deoarece reunesc puterea vikingă, originile regale și recunoașterea UNESCO într-un singur sit. Cele două pietre runice și movilele funerare marchează un moment de cotitură în istoria daneză și sunt adesea numite certificatul de naștere al țării. Vizitatorii vin pentru peisajul deschis, centrul modern pentru vizitatori și povestea profundă a regelui Harald Bluetooth. Jelling este esențial pentru călătorii care vor să înțeleagă rădăcinile Danemarcei într-un loc clar și memorabil."},
+ descriptionAdvanced: {
+ de: "Die Monumente von Jelling gelten als die „Taufurkunde Dänemarks“ und sind eine der bedeutendsten Wikingerstätten Nordeuropas. Sie bestehen aus zwei riesigen Grabhügeln, zwei Runensteinen und einer mittelalterlichen Kirche, die zusammen die Geschichte des Übergangs von den heidnischen Wikingertraditionen zum Christentum erzählen. Der größere Runenstein wurde von König Harald Blauzahn errichtet, um seinen Eltern zu gedenken und seinen Erfolg bei der Christianisierung der Dänen zu verkünden. Die Anlage ist ein UNESCO-Weltkulturerbe und beeindruckt durch ihre monumentale Größe und historische Tiefe. Ein modernes Besucherzentrum, das „Kongernes Jelling“, macht die Geschichte der Wikingerkönige für Besucher interaktiv erlebbar. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A jütlandi Jellingben található rúnakövek, halomsírok és a kis kőtemplom Dánia születési anyakönyvi kivonataként ismertek. Az UNESCO Világörökség részét képező komplexum a dán nemzetállam és a kereszténység kezdeteit szimbolizálja. A kisebbik rúnakövet Öreg Gorm király állíttatta felesége, Thyra emlékére, míg a nagyobbikat fiuk, Kékfogú Harald állíttatta szülei és saját tettei dicsőítésére. A nagyobbik kövön található felirat említi először egyben 'Dániát', és büszkén hirdeti a dánok keresztény hitre térését. A terület interaktív látogatóközpontja, a Kongernes Jelling, lenyűgöző vizuális élményt nyújt a viking korról. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Monumentele de la Jelling reprezintă cel mai venerat și semnificativ sit istoric național al Danemarcei, fiind adesea descris cu respect drept „certificatul de naștere al națiunii”. Complexul monumental UNESCO din secolul al X-lea este format din două tumuli funerari masivi cu aspect de movile verzi, două pietre runice imense și o veche biserică rustică din piatră albă. Prima piatră runică masivă a fost ridicată cu mândrie de regele Gorm cel Bătrân pentru a-și cinsti soția defunctă. Însă a doua piatră, uriașă și faimoasă, a fost sculptată direct de regele Harald Dinte Albastru (Harald Bluetooth), fiind primul document istoric gravat care folosește în mod explicit cuvântul „Danemarca” și care decretează introducerea noii religii creștine. Acest spațiu sacru deschide o fereastră emoționantă și esențială direct în inima tranziției scandinave dramatice de la vechii zei nordici la perioada civilizației creștine europene. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "The Jelling Monuments are profound historical artifacts often referred to as Denmark's 'birth certificate', located in the small town of Jelling in Jutland. The site consists of two massive runestones, two enormous burial mounds, and a historic church. The larger runestone was erected by King Harald Bluetooth in the 10th century to commemorate his parents and to declare that he had united Denmark and brought Christianity to the Danes. These monuments represent the pivotal transition of the Danish people from pagan Viking traditions to a unified Christian nation. Recognized as a UNESCO World Heritage site, Jelling is an indispensable piece of European history. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Jelling-Stein von Harald Blauzahn enthält die älteste bildliche Darstellung von Christus in Skandinavien.",
+ "Harald Blauzahn ist auch der Namensgeber für die moderne Bluetooth-Technologie.",
+ "Die Anlage wurde 1994 als erste dänische Stätte in die UNESCO-Welterbeliste aufgenommen.",
+ "Unter der heutigen Kirche wurden Reste von mindestens drei älteren Holzkirchen gefunden."
+ ],
+ hu: [
+ "Kékfogú Harald (Harald Bluetooth) rúnaköve után kapta a nevét a jól ismert vezeték nélküli Bluetooth technológia.",
+ "A nagyobbik rúnakövön található Krisztus-ábrázolás a legrégebbi ismert Dániában.",
+ "A két hatalmas, lapos halomsír valószínűleg pogány temetkezési hely volt, mielőtt a terület kereszténnyé vált.",
+ "A jellingi kövek 1994-ben Dánia első világörökségi helyszíneként kerültek fel az UNESCO listájára."
+ ],
+ ro: ["Piatra masivă impresionantă sculptată de regele Harald Dinte Albastru prezintă pe o parte cea mai veche și complexă imagine fizică a lui Hristos cunoscută vreodată în Peninsula Scandinavă.", "Regiunea regală veche Jelling a funcționat scurt timp drept sediul oficial central al regilor primordiali danezi înainte ca puterea să fie transferată strategic către orașul Roskilde.", "Cercetările tehnologice arheologice recente au dezvăluit complet existența unei vaste incinte defensive ascunse sub pământ, având structură de palisadă în formă precisă de navă uriașă.", "Tehnologia wireless faimoasă „Bluetooth” a primit numele exact de la regele Harald, deoarece inițial a „unit” dispozitive la fel cum el a unit odinioară triburile daneze rebele.", "Biserica rustică medievală situată direct între cei doi tumuli enormi a fost construită inițial integral din lemn rezistent, fiind ulterior modificată complet din piatră dură."],
+ en: ["The Jelling runestones are designated as a UNESCO World Heritage site.", "The larger stone features the oldest known depiction of Christ in Scandinavia.", "The monuments declare Harald Bluetooth's claim of 'making the Danes Christian'.", "The site represents the historical transition from the Viking Age to the Middle Ages in Denmark."]
+ },
+ facts: {
+ en: ["The monuments are a UNESCO World Heritage site.", "The rune stones date to the 10th century.", "Harald Bluetooth is linked to the site's royal message.", "The burial mounds are part of the historic landscape.", "Jelling is often called Denmark's birth certificate."],
+ de: ["Die Denkmale sind UNESCO-Weltkulturerbe.", "Die Runensteine stammen aus dem 10. Jahrhundert.", "Harald Blauzahn ist mit der königlichen Botschaft des Ortes verbunden.", "Die Grabhügel gehören zur historischen Landschaft.", "Jelling wird oft als Geburtsurkunde Dänemarks bezeichnet."],
+ hu: ["Az emlékhely UNESCO Világörökség része.", "A rúnakövek a 10. századból származnak.", "Harald Blåtand királyhoz köthető a hely uralkodói üzenete.", "A halomsírok a történelmi táj részei.", "Jellinget gyakran Dánia születési anyakönyvi kivonatának nevezik."],
+ ro: ["Monumentele sunt sit UNESCO al Patrimoniului Mondial.", "Pietrele runice datează din secolul al X-lea.", "Harald Bluetooth este legat de mesajul regal al sitului.", "Movilele funerare fac parte din peisajul istoric.", "Jelling este adesea numit certificatul de naștere al Danemarcei."]
+ },
+ image: "/geo-images/denmark/jelling-monuments.webp",
+ },
+ {
+ id: "hist-roskilde-cathedral",
+ type: "historical",
+ parent: "DK",
+ coords: [12.0809, 55.6421],
+ name: { de: "Dom von Roskilde", hu: "Roskildei katedrális", ro: "Catedrala din Roskilde", en: "Roskilde Cathedral" },
+ description: {
+ en: "Roskilde Cathedral is a major Danish historical site and one of the top recommendations for visitors searching for royal tombs and UNESCO architecture. The brick Gothic cathedral has served as the burial church of Danish monarchs for centuries, making it a symbolic center of national memory. Its towers, interior chapels, and long lineage create a powerful blend of faith, monarchy, and craftsmanship. For Denmark history pages, Roskilde Cathedral is a must-have landmark with deep cultural weight.",
+ de: "Der Dom von Roskilde ist ein bedeutender historischer Ort in Dänemark und eine der besten Adressen für Besucher, die nach königlichen Gräbern und UNESCO-Architektur suchen. Die Backsteingotik-Kathedrale dient seit Jahrhunderten als Begräbniskirche der dänischen Monarchen und ist damit ein symbolisches Zentrum des nationalen Gedächtnisses. Ihre Türme, Innenkapellen und lange Geschichte schaffen eine kraftvolle Mischung aus Glaube, Monarchie und Handwerk. Für Dänemark-Historienseiten ist der Dom von Roskilde ein unverzichtbares Wahrzeichen mit großem kulturellem Gewicht.",
+ hu: "A roskildei katedrális jelentős dán történelmi helyszín, és az egyik legjobb választás azoknak, akik királyi sírokra és UNESCO-építészetre keresnek. A téglagótikus katedrális évszázadok óta a dán uralkodók temetkező temploma, így a nemzeti emlékezet szimbolikus központja. Tornyai, belső kápolnái és hosszú története a hit, a monarchia és a mesteri kézművesség erős keverékét adják. Dánia történelmi oldalain ez kötelező látványosság a maga mély kulturális súlyával.",
+ ro: "Catedrala din Roskilde este un sit istoric major al Danemarcei și unul dintre cele mai bune răspunsuri pentru vizitatorii care caută morminte regale și arhitectură UNESCO. Catedrala gotică din cărămidă a servit secole la rând drept biserică de înmormântare a monarhilor danezi, devenind un centru simbolic al memoriei naționale. Turnurile, capelele interioare și lunga sa genealogie creează un amestec puternic de credință, monarhie și măiestrie. Pentru paginile despre istoria Danemarcei, este un reper obligatoriu, cu o greutate culturală profundă."},
+ descriptionAdvanced: {
+ de: "Der Dom von Roskilde ist ein architektonisches Meisterwerk und das spirituelle Herz der dänischen Monarchie. Als erster gotischer Backsteindom Nordeuropas setzte er neue Maßstäbe im Kirchenbau und beeinflusste die Architektur im gesamten Ostseeraum. Seit Jahrhunderten dient der Dom als offizielle Grablege der dänischen Könige und Königinnen, was ihn zu einem Ort von unschätzbarem nationalen Wert macht. Die verschiedenen Kapellen spiegeln die Stilepochen der dänischen Geschichte wider, von der Romanik über den Barock bis zur Moderne. Die Kathedrale gehört zum UNESCO-Weltkulturerbe und ist ein beeindruckendes Zeugnis der engen Verbindung zwischen Staat, Kirche und Monarchie in Dänemark. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Roskilde-székesegyház (Roskilde Domkirke) a dán gótikus téglaépítészet legfontosabb alkotása és az UNESCO Világörökség része. Az 1170-es években megkezdett építkezés mérföldkő volt Skandináviában, mivel ez volt az egyik első nagy épület, amelyet égetett téglából emeltek. A székesegyház leginkább a dán uralkodóház, a Glücksburg- és az Oldenburg-ház hagyományos temetkezési helyeként ismert. Az évszázadok során hozzáépített kápolnák az európai építészettörténet különböző stílusait – a romanikától a barokkig és a neoklasszicizmusig – tükrözik. A templom fenséges ikertornyai évszázadok óta uralják a város látképét. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Catedrala din Roskilde, o clădire copleșitoare inclusă pe lista Patrimoniului Mondial UNESCO, este una dintre primele și cele mai maiestuoase catedrale construite exclusiv din cărămidă roșie în Europa de Nord. Arhitectura gotică impunătoare, cu turnurile sale ascuțite de cupru verde verdigris, domină vizual întregul oraș și zona fiordului înconjurător. Rolul său suprem în cultura daneză este acela de necropolă regală absolută; aici sunt înmormântați zeci de monarhi, de la fioroșii regi medievali din secolul al XV-lea, până la suveranii recenți. Fiecare capelă adosată de-a lungul secolelor navei principale reflectă fidel stilul arhitectural grandios la modă în perioada construcției sale: de la gotic pur, trecând prin renaștere și până la neoclasicism sobru. Plimbarea prin acest lăcaș uriaș este echivalentă, în esență, cu o imersiune emoționantă profundă prin toți cei 1000 de ani din istoria tumultoasă a monarhiei daneze. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Roskilde Cathedral is a magnificent architectural triumph and the most important church in Danish history, located on the island of Zealand. Built during the 12th and 13th centuries, it was the first Gothic cathedral to be constructed of brick, profoundly influencing the spread of this architectural style across Northern Europe. The cathedral is most famous as the traditional mausoleum of the Danish royal family, housing the ornate tombs of 39 kings and queens in a series of highly decorated chapels. Its soaring twin spires dominate the city's skyline, representing centuries of uninterrupted royal and religious heritage. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Dom von Roskilde beherbergt die Gräber von 21 Königen und 18 Königinnen Dänemarks.",
+ "Das Gebäude wurde im 12. und 13. Jahrhundert aus Millionen roter Backsteine errichtet.",
+ "Königin Margrethe II. hat bereits ihren eigenen, modernen Sarkophag im Dom entwerfen lassen.",
+ "Die Kathedrale wird jährlich von über 150.000 Besuchern aus aller Welt besichtigt."
+ ],
+ hu: [
+ "A székesegyházban összesen 39 dán királyt és királynőt temettek el, ami világrekord a királyi temetkezési helyek között.",
+ "A téglagótika itt alkalmazott stílusa egész Észak-Európában mintaként szolgált az egyházi építészetben.",
+ "A templom pompás főoltára Antwerpenben készült az 1500-as évek közepén.",
+ "A jelenlegi uralkodó, II. Margit királynő jövőbeli síremlékének modern dizájnját már elhelyezték az egyik kápolnában."
+ ],
+ ro: ["Catedrala regală din Roskilde servește neîntrerupt drept lăcașul principal oficial de odihnă regală pentru un număr total uluitor de 39 de regi și regine daneze.", "Biserica de mari dimensiuni a fost prima expresie monumentală pură a arhitecturii gotice majore realizată complet din cărămidă solidă în toată regiunea de est a Europei nordice.", "Construcția grandioasă a actualei structuri din cărămidă roșie a fost începută de puternicul episcop Absalon undeva în jurul secolului al XII-lea, durând peste un secol.", "Regina Margrethe I faimoasă, care a unificat cu autoritate Danemarca, Suedia și Norvegia sub Uniunea de la Kalmar, se odihnește onorată într-un sarcofag bogat sculptat chiar lângă altar.", "În prezent, în incinta sacră se pregătește activ monumentul funerar viitor complet personalizat din sticlă pentru fosta suverană Regina Margrethe a II-a a Danemarcei."],
+ en: ["Roskilde Cathedral has been a UNESCO World Heritage site since 1995.", "It is considered the pioneering building for Brick Gothic architecture in Northern Europe.", "The cathedral contains the tombs of 39 Danish monarchs, spanning over 1,000 years of royal history.", "The church's elaborate royal chapels showcase a stunning evolution of architectural styles from medieval to modern."]
+ },
+ facts: {
+ en: ["It is a UNESCO World Heritage site.", "Many Danish kings and queens are buried here.", "The cathedral is a masterpiece of brick Gothic architecture.", "Construction began in the 12th century.", "It remains one of the most important churches in Denmark."],
+ de: ["Es ist UNESCO-Weltkulturerbe.", "Viele dänische Könige und Königinnen sind hier begraben.", "Die Kathedrale ist ein Meisterwerk der Backsteingotik.", "Der Bau begann im 12. Jahrhundert.", "Sie bleibt eine der wichtigsten Kirchen Dänemarks."],
+ hu: ["UNESCO Világörökségi helyszín.", "Számos dán király és királynő nyugszik itt.", "A katedrális a tégla-gótika mesterműve.", "Az építkezés a 12. században kezdődött.", "Továbbra is Dánia egyik legfontosabb temploma."],
+ ro: ["Este sit UNESCO al Patrimoniului Mondial.", "Mulți regi și regine danezi sunt îngropați aici.", "Catedrala este o capodoperă a goticului din cărămidă.", "Construcția a început în secolul al XII-lea.", "Rămâne una dintre cele mai importante biserici din Danemarca."]
+ },
+ image: "/geo-images/denmark/roskilde-cathedral.webp",
+ },
+ {
+ id: "hist-frederiksborg-castle",
+ type: "historical",
+ parent: "DK",
+ coords: [12.3032, 55.9363],
+ name: { de: "Schloss Frederiksborg", hu: "Frederiksborg kastély", ro: "Castelul Frederiksborg", en: "Frederiksborg Castle" },
+ description: {
+ en: "Frederiksborg Castle in Hillerod is one of the most photogenic historical attractions in Denmark offering an exceptional experience for royal travel. Built during the Renaissance, it later became a museum of national history and a showcase for Danish monarchy and statecraft. The castle sits on lakes and gardens, creating a dramatic setting that feels both elegant and monumental. Travelers searching for castles in Denmark will find Frederiksborg Castle near the top of any serious list.",
+ de: "Schloss Frederiksborg in Hillerød ist eine der fotogensten historischen Attraktionen Dänemarks und ein erstklassiges Ziel für königliches Reisen. In der Renaissance erbaut, wurde es später zum Museum der Nationalgeschichte und zu einer Bühne für dänische Monarchie und Staatskunst. Das Schloss liegt auf Seen und in Gärten und schafft eine dramatische Kulisse, die zugleich elegant und monumental wirkt. Reisende, die nach Schlössern in Dänemark suchen, werden Frederiksborg ganz oben auf jeder ernsthaften Liste finden.",
+ hu: "A hillerødi Frederiksborg kastély Dánia egyik legfotogénebb történelmi látványossága így kiemelkedő célpont a királyi utazásokhoz. A reneszánsz idején épült, később pedig a nemzeti történelem múzeuma és a dán monarchia, valamint az államépítés bemutatóhelye lett. A kastély tavak és kertek közé épült, ami egyszerre elegáns és monumentális díszletet ad neki. A dán kastélyokat kereső utazók számára a Frederiksborg az első helyek egyikén szerepel.",
+ ro: "Castelul Frederiksborg din Hillerød este una dintre cele mai fotogenice atracții istorice din Danemarca și o alegere excelentă pentru turismul regal. Construit în perioada Renașterii, a devenit ulterior muzeu de istorie națională și o vitrină pentru monarhia daneză și arta guvernării. Castelul este amplasat pe lacuri și grădini, creând un cadru dramatic care pare și elegant, și monumental. Pentru călătorii care caută castele în Danemarca, Frederiksborg este printre primele opțiuni serioase."},
+ descriptionAdvanced: {
+ de: "Schloss Frederiksborg in Hillerød ist das größte und prächtigste Renaissanceschloss Skandinaviens. Erbaut von König Christian IV. im frühen 17. Jahrhundert, beeindruckt es durch seine Lage auf drei kleinen Inseln inmitten des Schlosssees. Das Schloss ist ein Symbol für die Macht und den Glanz der dänischen Renaissance-Monarchie und beherbergt heute das Nationalhistorische Museum. Besucher können prunkvolle Säle, die königliche Kapelle und eine riesige Sammlung von Porträts und historischen Gemälden bestaunen. Der weitläufige Barockgarten mit seinen Kaskaden und geometrischen Formen ist ein ebenso bedeutendes Kunstwerk wie das Schloss selbst. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Hillerødban található Frederiksborg-kastély Észak-Európa legnagyobb és legpompásabb reneszánsz kastélya. A három kis szigeten, egy festői tó közepén elterülő épületegyüttest IV. Keresztély dán király építtette a 17. század elején, hogy demonstrálja uralkodói hatalmát és Dánia gazdagságát. A kastély a holland reneszánsz stílus jegyeit viseli magán, gazdagon díszített homlokzatokkal, réz tetőkkel és tornyokkal. 1859-ben egy pusztító tűzvész nagy részét megsemmisítette, de a Carlsberg sörgyár alapítója, J.C. Jacobsen támogatásával teljesen újjáépítették. Ma a kastély ad otthont a Dán Nemzeti Történeti Múzeumnak, amely felbecsülhetetlen értékű festményeket és műtárgyakat mutat be. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Castelul Frederiksborg, adesea aclamat ca Versailles-ul Nordului, este cel mai mare și mai spectaculos complex de clădiri în stil renascentist olandez existent vreodată în țările scandinave. Așezat feeric pe trei insulițe interconectate pe lacul din centrul orașului Hillerød, aspectul său exterior este definit de cărămida roșie caldă, decorațiuni ample din gresie, frontoane luxuriante și turle din cupru elegant. Astăzi, clădirea uriașă găzduiește oficial Muzeul Național de Istorie al Danemarcei, care expune colecții neprețuite de portrete regale imense, mobilă de epocă somptuoasă și artă istorică. Sala Cavalerilor masivă și Capela bogat aurită sunt realizări artistice neprețuite de o grandoare copleșitoare absolută. Parcul baroc perfect simetric al castelului invită la plimbări nesfârșite și oferă peisaje vizuale de neuitat demne de cărți poștale europene clasice. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Frederiksborg Castle is an awe-inspiring royal residence situated on three small islands in the Castle Lake of Hillerød. Commissioned by King Christian IV in the early 17th century, it is the largest Renaissance castle in Scandinavia. The castle's striking copper roofs, intricate sandstone ornaments, and majestic courtyards reflect the absolute wealth and ambition of the Danish monarchy. Since 1878, it has housed the Museum of National History, offering an extensive journey through Danish history via its vast collection of portraits, historical paintings, and opulent interiors. The meticulously restored baroque gardens perfectly complement the castle's romantic grandeur. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Schloss Frederiksborg wurde nach einem verheerenden Brand im Jahr 1859 mit Hilfe von J.C. Jacobsen wiederaufgebaut.",
+ "Die Schlosskirche war von 1671 bis 1840 der Krönungsort der dänischen absolutistischen Monarchen.",
+ "Das Nationalhistorische Museum wurde 1878 im Schloss eingerichtet.",
+ "Der Barockgarten wurde nach den Originalplänen aus dem 18. Jahrhundert detailgetreu rekonstruiert."
+ ],
+ hu: [
+ "A kastély gyönyörű kápolnája csodával határos módon épségben túlélte az 1859-es tűzvészt.",
+ "1671 és 1840 között a dán abszolút uralkodókat a Frederiksborg-kastély kápolnájában koronázták meg.",
+ "A kastély mögött egy szimmetrikus, teraszos barokk kert található, amelyet a 90-es években eredeti pompájában állítottak helyre.",
+ "A kastély lenyűgöző lovagterme falikárpitokkal és aranyozott mennyezettel idézi meg a régi királyi lakomákat."
+ ],
+ ro: ["Extravagantul rege Christian al IV-lea, considerat adesea cel mai celebru constructor al națiunii, a ridicat complexul arhitectural actual grandios la începutul anilor 1600.", "O conflagrație catastrofală majoră a mistuit teribil o mare parte a interiorului în anul 1859, fiind apoi reconstruit meticulos prin eforturi naționale uriașe și sponsorizări private de la J.C. Jacobsen.", "Capela regală magnifică a castelului nu a fost distrusă complet de flăcări, păstrând miraculos decorațiunile sale extravagante extrem de rare intacte până în zilele moderne.", "Capela de pe domeniu a fost folosită sistematic pentru ceremoniile formale de ungere sacră a tuturor monarhilor absoluți danezi succesivi între anii 1671 și 1840.", "Sistemul acustic impresionant al capelei include și o orgă istorică rară neprețuită denumită „Compenius”, datând din anul 1610, care încă este cântată activ manual în fiecare săptămână."],
+ en: ["Frederiksborg Castle is the largest and most significant Renaissance castle in Scandinavia.", "A devastating fire in 1859 destroyed much of the interior, but it was meticulously rebuilt with funding from J.C. Jacobsen of Carlsberg.", "The castle's chapel is adorned with silver, gold, and a historic organ built in 1610 that is still played today.", "The Museum of National History inside the castle was established by the Carlsberg Foundation."]
+ },
+ facts: {
+ en: ["It is located in Hillerod, north of Copenhagen.", "The castle houses the Museum of National History.", "Its lake setting is a major part of the experience.", "It was built by King Christian IV.", "The gardens are a key part of the site."],
+ de: ["Es liegt in Hillerød nördlich von Kopenhagen.", "Im Schloss befindet sich das Museum für Nationalgeschichte.", "Die Lage am See ist ein wesentlicher Teil des Erlebnisses.", "Es wurde von König Christian IV. erbaut.", "Die Gärten sind ein wichtiger Teil des Ortes."],
+ hu: ["Hillerødben, Koppenhágától északra található.", "A kastélyban a Nemzeti Történeti Múzeum működik.", "A tóparti fekvés az élmény egyik fő része.", "IV. Keresztély király építtette.", "A kertek a helyszín fontos részét képezik."],
+ ro: ["Se află în Hillerød, la nord de Copenhaga.", "Castelul găzduiește Muzeul de Istorie Națională.", "Amplasarea pe lac este o parte majoră a experienței.", "A fost construit de regele Christian IV.", "Grădinile sunt o parte esențială a sitului."]
+ },
+ image: "/geo-images/denmark/frederiksborg-castle.webp",
+ },
+ {
+ id: "hist-koldinghus",
+ type: "historical",
+ parent: "DK",
+ coords: [9.4735, 55.4921],
+ name: { de: "Koldinghus", hu: "Koldinghus", ro: "Koldinghus", en: "Koldinghus" },
+ description: {
+ en: "Koldinghus is a standout historical fortress for travelers who want castle architecture, royal history, and a central Jutland stop in one place. The castle dates back to the 13th century and has been rebuilt and restored after fire damage, which adds to its layered story. Today it works as a museum and a dramatic skyline feature above the city. Koldinghus is an excellent choice for anyone researching castles in southern Denmark.",
+ de: "Koldinghus ist eine herausragende historische Festung für Reisende, die Schlossarchitektur, Königsgeschichte und einen Stopp in Mitteljütland an einem Ort suchen. Die Burg stammt aus dem 13. Jahrhundert und wurde nach Brandschäden wiederaufgebaut und restauriert, was ihre vielschichtige Geschichte noch verstärkt. Heute dient sie als Museum und prägt als dramatisches Wahrzeichen die Stadtsilhouette. Koldinghus ist eine hervorragende Wahl für alle, die nach Schlössern in Südjütland suchen.",
+ hu: "A Koldinghus kiemelkedő történelmi erőd azoknak, akik egy helyen keresnek kastélyépítészetet, királyi történelmet és közép-jütlandi megállót. A vár a 13. századból származik, és tűzkár után újjáépítették, illetve helyreállították, ami rétegzett történetet ad neki. Ma múzeumként működik, és drámai látványelemmé válik a város fölött. A Koldinghus kiváló választás mindazok számára, akik dél-dániai kastélyokat keresnek.",
+ ro: "Koldinghus este o fortăreață istorică remarcabilă pentru călătorii care vor arhitectură de castel, istorie regală și o oprire în centrul Iutlandei într-un singur loc. Castelul datează din secolul al XIII-lea și a fost reconstruit și restaurat după incendii, ceea ce îi adaugă o poveste stratificată. Astăzi funcționează ca muzeu și ca element dramatic al orizontului orașului. Koldinghus este o alegere excelentă pentru oricine caută castele în sudul Danemarcei."},
+ descriptionAdvanced: {
+ de: "Das Koldinghus war über Jahrhunderte eine strategisch wichtige Grenzfestung und königliche Residenz im Süden Jütlands. Gegründet im 13. Jahrhundert, diente es dem Schutz der dänischen Grenze gegen das Herzogtum Schleswig. Nach einem katastrophalen Brand im Jahr 1808 blieb die Burg lange Zeit eine Ruine, bevor sie Ende des 20. Jahrhunderts spektakulär restauriert wurde. Die Architekten Inger und Johannes Exner schufen eine preisgekrönte Kombination aus alter Substanz und moderner Holz- und Stahlkonstruktion. Heute beherbergt das Koldinghus ein bedeutendes Museum und ist ein Ort für kulturelle Veranstaltungen und Ausstellungen von internationalem Rang. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Koldinghus a jütlandi Kolding felett magasodó egykori királyi vár, amely a középkorban Dánia déli határának legfontosabb védőbástyája volt. A 13. század közepén alapított erődítmény a századok során számos átépítésen esett át, fokozatosan kényelmes reneszánsz királyi rezidenciává alakult. Az 1808-as napóleoni háborúk idején, amikor spanyol csapatok állomásoztak itt, egy végzetes tűzvész során a vár romba dőlt, és majdnem két évszázadon át romként állt. A 20. század végén egy nemzetközileg is díjazott építészeti projekt keretében állították helyre, amely során a modern fagerendák és acélszerkezetek tiszteletben tartották az ősi romokat. Ma a Koldinghus múzeumként működik, bemutatva a vár történelmét és dán dizájnkiállításokat. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Koldinghus a fost timp de nenumărate secole cel mai important și masiv castel regal din întreaga peninsulă Iutlanda, fiind ridicat inițial strict ca o fortăreață de frontieră dură pentru a păzi regatul danez de sud. După ce a ars violent și a devenit aproape o ruină tristă la începutul secolului al XIX-lea, locul a suferit una dintre cele mai spectaculoase și unice reconversii de design arhitectural din toată istoria europeană a restaurărilor moderne. În loc de a ascunde sau șterge rănile focului antic, noile suprafețe interioare de lemn suspendat și stâlpii masivi din oțel contemporan încadrează dramatic cu respect zidurile scorojite și distruse. Astăzi, structura funcționează perfect ca un muzeu impresionant ce deține colecții masive de artă daneză din argint, pictură clasică și modă de elită. Amestecul senzațional de vechi distrus și arhitectură daneză contemporană oferă o emoție vizuală rară absolut de neegalat. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Koldinghus is a remarkable royal castle in Kolding, originally established in 1268 to guard the border between the Kingdom of Denmark and the Duchy of Schleswig. Over the centuries, it served as a medieval fortress, a Renaissance royal residence, and a strategic military stronghold. In 1808, during the Napoleonic Wars, a catastrophic fire broke out due to Spanish auxiliary troops, leaving the castle as an evocative ruin for over a century. Today, Koldinghus is celebrated for its award-winning architectural restoration, where modern wooden pillars and walkways elegantly support the preserved ancient ruins, creating a unique historical museum experience. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Koldinghus war die letzte königliche Burg auf der Halbinsel Jütland.",
+ "Die moderne Restaurierung lässt die Brandspuren bewusst sichtbar, um die Geschichte des Gebäudes zu erzählen.",
+ "Während der napoleonischen Kriege verursachten spanische Soldaten versehentlich den großen Brand von 1808.",
+ "Der gewaltige 'Riesenturm' bietet einen weiten Panoramablick über Kolding und den Fjord."
+ ],
+ hu: [
+ "A várat 1268-ban alapította Erik Klipping király, hogy megvédje a Dán Királyságot déli szomszédaitól.",
+ "A helyreállítási munkálatok során a dán építészek arra törekedtek, hogy a tűzkár nyomait ne tüntessék el, hanem integrálják a dizájnba.",
+ "A hatalmas Öregtornyot IV. Keresztély király építtette, amelynek tetejéről négy óriási címerpajzs nézett a tájra.",
+ "A múzeumban található a dán ezüst- és zománcművészet egyik legnagyobb gyűjteménye."
+ ],
+ ro: ["Uriașul incendiu devastator din anul 1808 a fost de fapt cauzat în mod complet accidental de către soldații auxiliari spanioli trimiși greșit de Napoleon care s-au adăpostit în interior.", "Fortăreața originală strategică a fost fondată oficial în secolul al XIII-lea târziu, mai precis în anul 1268, sub domnia fermă a primului rege danez Erik Klipping.", "Faimoasa restaurare arhitecturală contemporană a durat decenii și a fost magistral condusă la perfecțiune de valoroșii arhitecți Inger și Johannes Exner, fiind lăudată la nivel mondial.", "Aripa modernă restaurată a primit din partea instituțiilor de artă prestigiosul premiu internațional major „Europa Nostra” ca apreciere pentru modul respectuos de conservare a ruinelor existente.", "Muzeul este recunoscut internațional pentru că deține cu sfințenie cea mai mare, importantă și vastă colecție regală de bijuterii fine și piese complexe din argint pur danez."],
+ en: ["Koldinghus functioned as a vital border fortress for centuries due to its strategic location in Southern Jutland.", "The catastrophic fire of 1808 was caused by Spanish soldiers trying to keep warm with oversized fires.", "The innovative restoration by architects Inger and Johannes Exner left the fire damage visible as part of the monument's history.", "The castle's museum features an extensive collection of Danish silver and modern design."]
+ },
+ facts: {
+ en: ["The castle dates to the 13th century.", "It was heavily damaged by fire and later restored.", "Koldinghus now operates as a museum.", "It overlooks the city from a central hill.", "The site is a major symbol of Kolding."],
+ de: ["Die Burg stammt aus dem 13. Jahrhundert.", "Sie wurde durch Feuer stark beschädigt und später restauriert.", "Koldinghus ist heute ein Museum.", "Sie überragt die Stadt von einem zentralen Hügel aus.", "Der Ort ist ein wichtiges Symbol von Kolding."],
+ hu: ["A vár a 13. századból származik.", "Tűz súlyosan megrongálta, majd helyreállították.", "Ma a Koldinghus múzeumként működik.", "Egy központi dombon magasodik a város fölé.", "A hely Kolding egyik fő jelképe."],
+ ro: ["Castelul datează din secolul al XIII-lea.", "A fost grav avariat de incendiu și apoi restaurat.", "Koldinghus funcționează acum ca muzeu.", "Domină orașul de pe un deal central.", "Situl este un simbol major al orașului Kolding."]
+ },
+ image: "/geo-images/denmark/koldinghus.webp",
+ },
+ {
+ id: "hist-christiansfeld",
+ type: "historical",
+ parent: "DK",
+ coords: [9.4861, 55.3572],
+ name: { de: "Christiansfeld", hu: "Christiansfeld", ro: "Christiansfeld", en: "Christiansfeld" },
+ description: {
+ en: "Christiansfeld is a unique planned settlement in southern Jutland making it a fascinating destination for UNESCO heritage and religious history. Founded by the Moravian Church, the town is famous for its clean street layout, yellow brick buildings, and calm, ordered atmosphere. It offers a rare glimpse into 18th-century town planning and community life. Christiansfeld is ideal for travelers seeking a quiet historical town with strong architectural identity.",
+ de: "Christiansfeld ist eine einzigartige Planstadt in Südjütland und ein überzeugendes-Ziel für UNESCO-Erbe und Religionsgeschichte. Die von der Brüdergemeine gegründete Stadt ist berühmt für ihren klaren Straßenplan, gelbe Backsteingebäude und ihre ruhige, geordnete Atmosphäre. Sie bietet einen seltenen Einblick in die Stadtplanung und das Gemeinschaftsleben des 18. Jahrhunderts. Christiansfeld ist ideal für Reisende, die eine ruhige historische Stadt mit starker architektonischer Identität suchen.",
+ hu: "Christiansfeld egy különleges tervezett település Dél-Jütlandban, és vonzó célpont az UNESCO-örökség és a vallástörténet iránt érdeklődőknek. A morva egyház által alapított város rendezett utcahálózatáról, sárga téglaházairól és nyugodt, fegyelmezett hangulatáról híres. Ritka bepillantást ad a 18. századi várostervezésbe és közösségi életbe. Christiansfeld ideális azoknak, akik csendes, erős építészeti identitással rendelkező történelmi várost keresnek.",
+ ro: "Christiansfeld este o așezare planificată unică în sudul Iutlandei și o destinație fascinantă pentru patrimoniu UNESCO și istorie religioasă. Fondat de Biserica Moravă, orașul este renumit pentru planul său ordonat al străzilor, clădirile din cărămidă galbenă și atmosfera calmă și disciplinată. Oferă o imagine rară asupra urbanismului și vieții comunitare din secolul al XVIII-lea. Christiansfeld este ideal pentru călătorii care caută un oraș istoric liniștit, cu identitate arhitecturală puternică."},
+ descriptionAdvanced: {
+ de: "Christiansfeld ist eine einzigartige Siedlung in Jütland, die 1773 von der Herrnhuter Brüdergemeine als geplante Stadt gegründet wurde. Die Architektur der Stadt ist geprägt von einheitlichen, gelben Backsteinhäusern und einer streng geometrischen Anordnung, die die religiösen Ideale von Gleichheit und Gemeinschaft widerspiegelt. Christiansfeld gilt als eines der am besten erhaltenen Beispiele für eine protestantische Planstadt weltweit und gehört zum UNESCO-Weltkulturerbe. Die Stadt ist zudem berühmt für ihre traditionellen Honigkuchen, die noch heute nach alten Rezepten gebacken werden. Ein Spaziergang durch Christiansfeld fühlt sich an wie eine Zeitreise in eine Welt der Ruhe, Ordnung und handwerklichen Perfektion. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "Christiansfeld egy különleges, tökéletesen megtervezett település Dél-Jütlandon, amelyet a morva egyház (Herrnhuti testvérgyülekezet) tagjai alapítottak 1773-ban. Az UNESCO Világörökség részét képező városka a sárga téglás, vörös cseréptetős házak szigorú, rácsos elrendezéséről híres, amely a vallási közösség egyenlőségre épülő ideológiáját tükrözi. VII. Keresztély dán király adományozta a területet a közösségnek, hogy ipari és kereskedelmi tudásukkal fellendítsék a régiót. A város központja a templomtér (Kerkplads), amelyet hársfák öveznek. Christiansfeld ma is őrzi békés, spirituális atmoszféráját, és világszerte ismert finom mézeskalácsáról. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Christiansfeld este un miracol planificat al urbanismului european timpuriu, inclus recent în mod justificat pe Lista exclusivă a Patrimoniului Mondial UNESCO din Danemarca. Orașul idilic a fost construit practic de la zero în 1773 de către o comunitate religioasă refugiată denumită Frații Moravi, care primiseră personal invitația și scutiri mari de taxe direct de la Regele Christian al VII-lea. Așezarea are o structură complet diferită de orașele organice daneze, remarcându-se printr-o rețea de străzi uimitor de perfect paralele, piețe urbane aliniate, clădiri uniforme impecabile din cărămidă de nuanță galbenă și niciun acoperiș ieșit inestetic din comun. Filosofia spirituală egalitară și calmă a congregației transpare și astăzi cu forță clară direct în designul arhitectural sobru, fără ostentație și curat al întregii așezări. În prezent, micii artizani din oraș continuă de asemenea vechea și renumita tradiție de coacere a celor mai bune prăjituri speciale din turtă dulce daneză din toată națiunea. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Christiansfeld is an exceptionally well-preserved town in Southern Jutland, founded in 1773 by the Moravian Church. Designed as a utopian, egalitarian settlement, the town is defined by its strict, harmonious grid layout, yellow brick buildings, and distinct lack of social hierarchy in its architecture. It is considered one of the best-preserved Moravian settlements in the world, reflecting the religious and social ideals of the community. Christiansfeld is also famous for its traditional honey cakes (Honningkager), baked according to recipes dating back to the town's founding. Its unique architectural and cultural legacy earned it a UNESCO World Heritage designation in 2015. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Christiansfeld wurde nach König Christian VII. benannt, der den Herrnhutern das Land und Steuerfreiheit gewährte.",
+ "Die Stadt besitzt keine herkömmliche Kirche, sondern einen großen, schlichten 'Kirchsaal'.",
+ "Die Honigkuchen aus Christiansfeld sind eine dänische Spezialität mit über 200-jähriger Tradition.",
+ "Die Siedlung wurde 2015 aufgrund ihrer außergewöhnlichen architektonischen und kulturellen Bedeutung zum UNESCO-Welterbe ernannt."
+ ],
+ hu: [
+ "A várost VII. Keresztély dán király tiszteletére nevezték el Christiansfeldnek.",
+ "A város szerkezete és építészete olyannyira egységes maradt, hogy 2015-ben felvették az UNESCO Világörökség listájára.",
+ "A hagyományos mézeskalácsot (honningkager) az 1780-as évek óta ugyanazon titkos recept alapján készítik itt.",
+ "A morva testvérek temetőjében ('Gudsageren') a sírkövek mind teljesen egyformák, szimbolizálva a halál előtti egyenlőséget."
+ ],
+ ro: ["Proiectarea unică la scară largă a așezării a influențat masiv mai târziu o mulțime mare de designeri și urbaniști importanți moderni aflați de-a lungul continentului scandinav.", "Cimitirul central local (Godsageren) reflectă clar credința egalitară supremă a bisericii, absolut toate pietrele masive funerare fiind identic plate și complet nediferențiate între oameni.", "Faimoasele prăjituri mari speciale de miere condimentată și turtă dulce produse după rețeta moravă originală din anii 1700 sunt exportate cu mare succes anual din micul oraș.", "Clădirea Bisericii Fraților din centru posedă proporții uriașe, putând fizic să acomodeze confortabil peste 1000 de participanți activi la rugăciune, neavând însă niciun fel de altar împodobit vizual.", "Complexul municipal Christiansfeld rămâne de departe cel mai bine, precis și intact conservat exemplu global rămas de fostă așezare comunitară aparținând comunității strictelor congregații ale Fraților Moravi."],
+ en: ["Christiansfeld was designated as a UNESCO World Heritage site in 2015.", "The town was founded by the Moravian Brethren under the invitation of King Christian VII.", "Its architecture reflects a highly structured, egalitarian society with separate houses for unmarried men, women, and widows.", "The town's famous honey cakes have been baked continuously since 1783."]
+ },
+ facts: {
+ en: ["Christiansfeld is a UNESCO World Heritage site.", "It was founded by the Moravian Church in 1773.", "The town is known for its yellow brick buildings.", "Its layout reflects planned religious settlement design.", "Honey cakes from Christiansfeld are a local specialty."],
+ de: ["Christiansfeld ist UNESCO-Weltkulturerbe.", "Es wurde 1773 von der Brüdergemeine gegründet.", "Die Stadt ist für ihre gelben Backsteingebäude bekannt.", "Ihr Grundriss spiegelt die Planung religiöser Siedlungen wider.", "Honigkuchen aus Christiansfeld sind eine lokale Spezialität."],
+ hu: ["Christiansfeld UNESCO Világörökségi helyszín.", "1773-ban alapította a morva egyház.", "A város sárga téglaházairól ismert.", "Alaprajza a tervezett vallási települések mintáját követi.", "A Christiansfeld-i mézeskalács helyi specialitás."],
+ ro: ["Christiansfeld este sit UNESCO al Patrimoniului Mondial.", "A fost fondat în 1773 de Biserica Moravă.", "Orașul este cunoscut pentru clădirile sale din cărămidă galbenă.", "Planul său reflectă o așezare religioasă planificată.", "Prăjiturile cu miere din Christiansfeld sunt o specialitate locală."]
+ },
+ image: "/geo-images/denmark/christiansfeld.webp",
+ },
+ {
+ id: "hist-dybbol-banke",
+ type: "historical",
+ parent: "DK",
+ coords: [9.6837, 54.9124],
+ name: { de: "Dybbøl Banke", hu: "Dybbøl Banke", ro: "Dybbøl Banke", en: "Dybbøl Banke" },
+ description: {
+ en: "Dybbol Banke is one of Denmark's most important battlefields serving as a significant site for military history in southern Jutland. It is closely tied to the 1864 war and the Battle of Dybbol, which shaped Danish national identity for generations. The site now combines memorials, museum exhibits, and views across the former front line. Dybbol Banke is essential for visitors who want to understand a defining conflict in modern Danish history.",
+ de: "Dybbøl Banke ist eines der wichtigsten Schlachtfelder Dänemarks was es zu einem wichtigen Ausgangspunkt für ... macht Militärgeschichte in Südjütland. Es ist eng mit dem Krieg von 1864 und der Schlacht von Dybbøl verbunden, die die dänische nationale Identität über Generationen prägte. Der Ort verbindet heute Denkmäler, Museumsausstellungen und Ausblicke über die ehemalige Frontlinie. Dybbøl Banke ist unverzichtbar für Besucher, die einen prägende Konflikt der neueren dänischen Geschichte verstehen wollen.",
+ hu: "A Dybbøl Banke Dánia egyik legfontosabb csatamezője, így jelentős helyszín a dél-jütlandi hadtörténelemhez. Szorosan kapcsolódik az 1864-es háborúhoz és a dybbøli csatához, amely nemzedékeken át formálta a dán nemzeti identitást. A hely ma emlékhelyeket, múzeumi bemutatókat és kilátást kínál az egykori frontvonalra. Dybbøl Banke nélkülözhetetlen azoknak, akik meg akarják érteni a modern dán történelem egyik meghatározó konfliktusát.",
+ ro: "Dybbøl Banke este unul dintre cele mai importante câmpuri de luptă ale Danemarcei fiind un loc emblematic pentru istoria militară din sudul Iutlandei. Este strâns legat de războiul din 1864 și de Bătălia de la Dybbøl, care a modelat identitatea națională daneză timp de generații. Astăzi situl combină memoriale, expoziții muzeale și priveliști asupra vechii linii a frontului. Dybbøl Banke este esențial pentru vizitatorii care vor să înțeleagă un conflict definitoriu al istoriei daneze moderne."},
+ descriptionAdvanced: {
+ de: "Die Düppeler Schanzen (Dybbøl Banke) sind einer der bedeutendsten nationalen Gedenkorte Dänemarks und Schauplatz einer entscheidenden Schlacht im Deutsch-Dänischen Krieg von 1864. Die Niederlage gegen Preußen und Österreich führte zum Verlust der Herzogtümer Schleswig und Holstein und prägte das moderne dänische Nationalbewusstsein nachhaltig. Das Historische Zentrum Dybbøl Banke macht die Ereignisse der Belagerung und des Sturmangriffs für Besucher greifbar. Die ikonische Düppeler Mühle, die während der Kämpfe zweimal zerstört wurde, gilt heute als nationales Symbol für dänische Standhaftigkeit. Das weitläufige Gelände mit den Resten der Schanzen bietet nicht nur Geschichte, sondern auch einen weiten Blick über den Alsensund. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Dybbøl Banke a dán történelem egyik legfontosabb és legszomorúbb emlékhelye, amely a Jütland déli részén, Sønderborg közelében található. Ez a dombvidék volt a helyszíne az 1864-es porosz–dán háború döntő csatájának, ahol a dán seregek hősies küzdelem után súlyos vereséget szenvedtek. A vereség eredményeként Dánia elvesztette területének mintegy harmadát, ami mélyen befolyásolta a modern dán nemzeti identitás és a békés, befelé forduló külpolitika kialakulását. A helyreállított Dybbøl Malom (Dybbøl Mølle) a dán kitartás és ellenállás nemzeti szimbólumává vált. Ma a Történelmi Központ interaktív kiállításokkal és korhű bemutatókkal állít emléket az elesett katonáknak. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Centrul Istoric Național Dybbøl Banke, amplasat strategic printre câmpiile verzi de la marginea orașului Sønderborg, marchează fizic cel mai dureros, tragic și fundamental punct de cotitură din toată istoria armată modernă a Danemarcei. Aici, în timpul teribilului război din anul 1864, trupele curajoase daneze au purtat o bătălie defensivă complet disperată și inegală împotriva armatei prusace masive echipate mult superior. Înfrângerea națională zdrobitoare rezultată a dus la pierderea definitivă și dramatică a întregului teritoriu sudic populat din regiunea Schleswig-Holstein, forțând profund Danemarca să își redefinească dureros total viziunea politică pe plan mondial ca pe un mic stat neutru complet pașnic. Moara tradițională albă de vânt reconstruită de pe dealul curbat a devenit un puternic și incontestabil simbol de rezistență națională mută și supraviețuire psihologică a culturii daneze locale împotriva dominației grele germane ulterioare. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Dybbøl Banke is a historically profound battlefield and memorial site located near Sønderborg in Southern Jutland. It was the site of the catastrophic Battle of Dybbøl on April 18, 1864, where the Danish army suffered a decisive defeat by Prussian forces. This loss resulted in Denmark ceding the duchies of Schleswig, Holstein, and Lauenburg, fundamentally reshaping the modern Danish national identity. Today, the site features reconstructed redoubts, an evocative historical center, and the iconic Dybbøl Mill. It serves as a solemn monument to the realities of war and a symbol of reconciliation and peace in the border region. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Schlacht bei Düppel am 18. April 1864 war das entscheidende Ereignis des Zweiten Schleswigschen Krieges.",
+ "Die Düppeler Mühle ist heute ein Museum und ein wichtiges dänisches Nationalsymbol.",
+ "Im Historischen Zentrum können Besucher einen nachgebauten Schützengraben aus der Zeit von 1864 erkunden.",
+ "Der Gedenktag der Schlacht wird jedes Jahr am 18. April in Anwesenheit der königlichen Familie begangen."
+ ],
+ hu: [
+ "Az 1864. április 18-i csata során a porosz tüzérség szinte teljesen megsemmisítette a dán erődítményeket.",
+ "A Dybbøl Malmot a háborúk során többször is lerombolták, de mindig újjáépítették, így lett a túlélés jelképe.",
+ "Az elvesztett területek egy része (Észak-Schleswig) csak az első világháború után, 1920-ban tért vissza Dániához egy népszavazás révén.",
+ "Minden év április 18-án hivatalos megemlékezést tartanak a dombon a katonák tiszteletére."
+ ],
+ ro: ["Bătălia teribilă inegală de la fortificațiile Dybbøl s-a desfășurat în dimineața devreme de 18 aprilie 1864 și a durat doar câteva ore însângerate înainte de retragerea masivă daneză decisivă.", "Imediat după acel război sângeros scurt din 1864, regatul Danemarcei s-a micșorat considerabil și dureros ca suprafață teritorială suverană cu aproximativ 40% din masa sa geografică totală absolută.", "În prezent, în locația vechiului front, există faimosul și impresionantul muzeu complex interactiv sub formă de stea masivă de fortificație denumit simplu „Centrul de Istorie Dybbøl Banke”.", "Sute de buncăre reconstruite militar cu detalii și tunuri grele istorice oferă emoționant publicului actual iluzia înghețată tactilă a greutăților fizice ale ostașilor din secolul al XIX-lea timpuriu.", "Ceremoniile solemne și demne anuale organizate de forțele statului se desfășoară chiar aici constant pe data de 18 aprilie pentru a marca respectuos cu durere și cinste comemorarea victimelor colaterale."],
+ en: ["The Battle of Dybbøl in 1864 led to Denmark losing nearly one-third of its land area.", "The iconic Dybbøl Mill was repeatedly destroyed in conflicts but was always rebuilt as a national symbol.", "The defeat fundamentally shifted Danish foreign policy from regional aggression to absolute neutrality.", "The History Center Dybbøl Banke provides immersive reenactments and detailed accounts of the 1864 conflict."]
+ },
+ facts: {
+ en: ["The site is linked to the Second Schleswig War of 1864.", "The Battle of Dybbol was a turning point in Danish history.", "Memorials and museum exhibits explain the conflict.", "It is located near Sonderborg in southern Jutland.", "The landscape still evokes the old battlefield."],
+ de: ["Der Ort ist mit dem Deutsch-Dänischen Krieg von 1864 verbunden.", "Die Schlacht von Dybbøl war ein Wendepunkt der dänischen Geschichte.", "Denkmäler und Museumsausstellungen erklären den Konflikt.", "Er liegt bei Sønderborg in Südjütland.", "Die Landschaft erinnert noch immer an das alte Schlachtfeld."],
+ hu: ["A hely az 1864-es második schleswigi háborúhoz kapcsolódik.", "A dybbøli csata fordulópont volt a dán történelemben.", "Emlékművek és múzeumi kiállítások mutatják be a konfliktust.", "Sønderborg közelében, Dél-Jütlandban található.", "A táj ma is az egykori csatamezőt idézi."],
+ ro: ["Situl este legat de Al Doilea Război Schleswig din 1864.", "Bătălia de la Dybbøl a fost un moment de cotitură în istoria daneză.", "Memorialele și expozițiile muzeale explică conflictul.", "Se află lângă Sønderborg, în sudul Iutlandei.", "Peisajul încă evocă vechiul câmp de luptă."]
+ },
+ image: "/geo-images/denmark/dybbol-banke.webp",
+ },
+ {
+ id: "hist-trelleborg-viking-fortress",
+ type: "historical",
+ parent: "DK",
+ coords: [11.3020, 55.3620],
+ name: { de: "Trelleborg", hu: "Trelleborg", ro: "Trelleborg", en: "Trelleborg Viking Fortress" },
+ description: {
+ en: "The Trelleborg Viking Fortress is a major archaeological site making it a perfect fit for Viking tourism in Denmark. Its circular earthworks reveal the military planning of the Viking Age and connect visitors with King Harald Bluetooth's era. The site includes reconstructed buildings and interpretation that make the fortress easy to understand. Trelleborg is especially useful for content focused on Viking Denmark, archaeology, and early state power.",
+ de: "Die Wikingerfestung Trelleborg ist eine bedeutende archäologische Stätte und ein erstklassiges Ziel für Wikingertourismus in Dänemark. Ihre kreisförmigen Erdwerke zeigen die militärische Planung der Wikingerzeit und verbinden Besucher mit der Čra von König Harald Blauzahn. Die Anlage umfasst rekonstruierte Gebäude und Erklärungen, die die Festung leicht verständlich machen. Trelleborg ist besonders nützlich für Inhalte über Wikinger-Dänemark, Archäologie und frühe Staatsmacht.",
+ hu: "A Trelleborg viking erőd jelentős régészeti helyszín így tökéletes választás a dániai viking turizmushoz. Kör alakú földszerkezetei a viking kor katonai tervezését mutatják, és Harald Blåtand király korszakához kapcsolják a látogatókat. A helyszínen rekonstruált épületek és magyarázó elemek segítik az erőd megértését. Trelleborg különösen hasznos a viking Dánia, a régészet és a korai államhatalom témájú tartalmakhoz.",
+ ro: "Fortăreața vikingă Trelleborg este un sit arheologic major fiind o destinație perfectă pentru turismul viking din Danemarca. Lucrările sale circulare de pământ arată planificarea militară a Epocii Vikinge și îi conectează pe vizitatori cu epoca regelui Harald Bluetooth. Situl include clădiri reconstruite și panouri interpretative care fac fortăreața ușor de înțeles. Trelleborg este deosebit de util pentru conținutul despre Danemarca vikingă, arheologie și puterea timpurie a statului."},
+ descriptionAdvanced: {
+ de: "Trelleborg bei Slagelse auf Seeland ist das besterhaltene Beispiel einer wikingerzeitlichen Ringburg in Dänemark. Erbaut um das Jahr 980 unter König Harald Blauzahn, demonstriert sie die beeindruckende Ingenieurskunst und zentrale Machtorganisation der Wikinger. Die Burg besteht aus einem exakten Kreiswall, in dem ursprünglich 16 große Langhäuser in streng geometrischer Anordnung standen. Trelleborg diente wahrscheinlich als militärisches Lager und Machtzentrum zur Festigung des dänischen Reiches. Ein rekonstruiertes Langhaus und ein Museum vor Ort vermitteln ein lebendiges Bild vom Alltag, der Handwerkskunst und den militärischen Strukturen der Wikingerzeit. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "A Trelleborg viking körgyűrűs erődítmény Sjælland szigetének nyugati részén, Slagelse közelében található, és a viking katonai építészet mesterműve. A feltételezések szerint Kékfogú Harald király parancsára épült 980 körül, egy átfogó védelmi és hatalmi hálózat részeként. Az erődöt tökéletes mértani pontossággal tervezték; a hatalmas, kör alakú földsáncot két egymásra merőleges út négy egyenlő negyedre osztja. Mindegyik negyedben pontosan ugyanakkora, csónak alakú hosszúházak álltak. Ma az erődítmény területén egy újjáépített hosszúház és egy szabadtéri múzeum található, ahol a látogatók bepillantást nyerhetnek a viking harcosok és családjaik mindennapjaiba. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Trelleborg este cel mai important și excelent conservat dintre marile forturi militare vikinge circulare cu plan simetric strategic din întreaga istorie descoperite vreodată în Danemarca. Ridicată sub ordinele aspre ale legendarului Rege viking Harald Dinte Albastru în secolul târziu al X-lea, structura monumentală de apărare are forma unui cerc geometric uimitor de perfect cu o precizie uluitoare, traversat riguros de străzi drepte încrucișate tăiate la unghiuri de exact 90 de grade. Designul său complet revoluționar atestă indubitabil o organizare a societății vikingilor, un regim matematic și ingineresc de neimaginat cu mult diferit față de simpla mitologie legată doar de un popor barbar sălbatic dezorganizat haotic. Vizitatorii care poposesc la sit pot rătăci activ pe meterezele naturale reconstituite pe marginea pământului circular înalt și pot aprecia la prima mână un sat și mai ales o splendidă casă lungă durabilă reconstruită total. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Trelleborg is a formidable Viking ring fortress situated near Slagelse on the island of Zealand. Constructed around 980 AD during the reign of King Harald Bluetooth, it is one of the best-preserved examples of precise Viking military engineering. The fortress features a strict geometrical design with a perfectly circular rampart, exact gates facing the four cardinal directions, and symmetrically arranged longhouses. This highly organized structure reflects the centralized power and administrative capability of the late Viking Age monarchy. Today, visitors can explore the reconstructed ramparts and experience authentic Viking life at the adjacent open-air museum. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Trelleborg gehört zu einer Gruppe von fünf dänischen Ringburgen, die zusammen UNESCO-Welterbe sind.",
+ "Die Burg hat einen präzisen Innendurchmesser von 137 Metern.",
+ "Archäologen fanden bei Ausgrabungen einen Massengräber von jungen Männern, was die militärische Rolle bestätigt.",
+ "Jedes Jahr findet auf dem Gelände eines der größten Wikinger-Festivals Dänemarks statt."
+ ],
+ hu: [
+ "A trelleborgi erőd belső átmérője pontosan 136 méter.",
+ "A komplexumban eredetileg 16 hosszúház állt a sáncokon belül, és további 15 a sáncon kívül.",
+ "A 'trelleborg' elnevezés ma már egy általános kifejezés a Dániában és Dél-Svédországban talált hasonló körkörös viking erődökre.",
+ "A régészeti feltárások során talált egyetlen viking pajzsmaradványt is itt fedezték fel Dániában."
+ ],
+ ro: ["Fortăreața militară rotundă are diametrul enorm stabil de 136 de metri pe interior și oferea strategic suficient spațiu planificat simetric pentru nu mai puțin de 16 clădiri uriașe lungi construite perfect.", "Descoperirea uluitoare modernă a fortificației a infirmat științific complet miturile false conform cărora vikingii nordici erau doar simpli luptători nomazi cu bărci, lipsiți total de organizare structurală fixă solidă.", "Trelleborg faimoasă face de asemenea efectiv parte acum din grupul fortificațiilor ringului istoric recent nominalizate ferm către comitetele UNESCO în vederea unei atestări oficiale speciale depline globale unice.", "Situl impresionant arheologic local expune o lungă, grea și masivă clădire robustă principală „Longhouse” din stejar solid cu uși unice grele ascuțite, reconstruită tehnic de către dulgheri experți actuali atestați.", "Dovezile arheologice atestă surprinzător clar faptul că aceste grandioase complexe militare au fost utilizate fizic probabil pe o perioadă efemeră uimitor de scurtă de aproximativ un singur deceniu istoric limitat."],
+ en: ["Trelleborg was built with astonishing geometric precision, a hallmark of Harald Bluetooth's ring fortresses.", "The site originally housed 16 massive longhouses arranged symmetrically in four distinct quarters.", "Excavations revealed numerous weapons, tools, and the graves of warriors, providing rich insights into Viking life.", "The fortress design reflects potential military influences from the Byzantine or Carolingian empires."]
+ },
+ facts: {
+ en: ["Trelleborg is a Viking ring fortress.", "It is associated with King Harald Bluetooth.", "The site dates to the late 10th century.", "Reconstructed buildings help visitors visualize the fortress.", "It is one of Denmark's key Viking archaeology sites."],
+ de: ["Trelleborg ist eine Wikinger-Ringfestung.", "Sie ist mit König Harald Blauzahn verbunden.", "Die Stätte stammt aus dem späten 10. Jahrhundert.", "Rekonstruierte Gebäude helfen beim Verständnis der Anlage.", "Sie gehört zu den wichtigsten Wikinger-Archäologiestätten Dänemarks."],
+ hu: ["Trelleborg egy viking kori gyűrűerőd.", "Harald Blåtand királyhoz kapcsolódik.", "A helyszín a 10. század végéről származik.", "A rekonstruált épületek segítenek elképzelni az erődöt.", "Dánia egyik kulcsfontosságú viking régészeti helyszíne."],
+ ro: ["Trelleborg este o fortăreață inelară vikingă.", "Este asociată cu regele Harald Bluetooth.", "Situl datează de la sfârșitul secolului al X-lea.", "Clădirile reconstruite îi ajută pe vizitatori să vizualizeze fortăreața.", "Este unul dintre cele mai importante situri arheologice vikinge din Danemarca."]
+ },
+ image: "/geo-images/denmark/trelleborg-viking-fortress.webp",
+ },
+ {
+ id: "hist-egeskov-castle",
+ type: "historical",
+ parent: "DK",
+ coords: [10.5127, 55.1769],
+ name: { de: "Schloss Egeskov", hu: "Egeskov kastély", ro: "Castelul Egeskov", en: "Egeskov Castle" },
+ description: {
+ en: "Egeskov Castle is one of Denmark's best-known moated castles and is a highly recommended destination for family travel and castle tourism. Built in the Renaissance period, it is famous for its preserved water defenses, elegant architecture, and extensive gardens. The site also includes museums and experiences that broaden its appeal beyond a classic castle visit. Egeskov is a top-tier stop for travelers who want a scenic and story-rich southern Funen landmark.",
+ de: "Schloss Egeskov ist eines der bekanntesten Wasserburgen Dänemarks und ein sehr beliebtes Thema für Familienreisen und Schlosstourismus. In der Renaissance erbaut, ist es berühmt für seine erhaltenen Wassergräben, elegante Architektur und weitläufigen Gärten. Die Anlage umfasst auch Museen und Erlebnisse, die ihren Reiz über den klassischen Schlossbesuch hinaus erweitern. Egeskov ist ein erstklassiger Halt für Reisende, die ein landschaftlich schönes und geschichtsträchtiges Wahrzeichen auf Südfünen suchen.",
+ hu: "Az Egeskov kastély Dánia egyik legismertebb vízi kastélya és nagyon kiváló választás a családi utazás és a kastélyturizmus témájában. A reneszánsz korban épült, és híres megőrzött védvizes rendszeréről, elegáns építészetéről és kiterjedt kertjeiről. A helyszínen múzeumok és élmények is vannak, amelyek túlmutatnak a hagyományos kastélylátogatáson. Egeskov kiváló megálló azoknak az utazóknak, akik festői, történetekkel teli dél-füneni látványosságot keresnek.",
+ ro: "Castelul Egeskov este unul dintre cele mai cunoscute castele pe apă din Danemarca fiind un punct de atracție major pentru turismul de familie și turismul de castel. Construit în perioada Renașterii, este celebru pentru șanțurile sale de apă bine păstrate, arhitectura elegantă și grădinile întinse. Situl include și muzee și experiențe care îi extind atractivitatea dincolo de o simplă vizită la castel. Egeskov este o oprire de top pentru călătorii care vor un reper pitoresc și plin de poveste în sudul insulei Funen."},
+ descriptionAdvanced: {
+ de: "Schloss Egeskov auf der Insel Fünen gilt als die am besten erhaltene Wasserburg der Renaissance in Europa. Erbaut mitten in einem See auf tausenden von Eichenpfählen – daher der Name „Eichenwald“ –, wirkt das Schloss wie aus einem Märchen entsprungen. Neben der beeindruckenden Architektur ist Egeskov für seine preisgekrönten Gärten bekannt, die zu den schönsten des Kontinents gehören. Das Anwesen beherbergt zudem eine riesige Sammlung von Oldtimern, Motorrädern und historischen Flugzeugen. Ein besonderes Highlight für Familien ist der große Spielbereich mit einem der weltweit größten Irrgärten. Egeskov ist ein lebendiges Denkmal, das Geschichte, Natur und Unterhaltung perfekt verbindet. Geschichte K8 – Dänemarks historisches Erbe.",
+ hu: "Az Egeskov-kastély Fünen szigetén fekszik, és Európa egyik legjobb állapotban fennmaradt reneszánsz vízi kastélya. A 16. század közepén, a dán grófi viszályok (polgárháború) idején épült, ezért vastag falai és védelmi rendszerei inkább egy erődítményre, semmint egy békés rezidenciára emlékeztetnek. A legenda szerint a tölgyfából készült cölöpalapzatokhoz egy teljes tölgyerdőt (dánul 'egeskov') kellett kivágni. Az impozáns vöröstéglás épületet gyönyörű parkok és labirintusok veszik körül, amelyek a világ legszebb kertjei közé tartoznak. A kastély területén hatalmas klasszikus autó-, motorkerékpár- és repülőgépmúzeum is működik, amely minden korosztálynak lenyűgöző élményt nyújt. Történelem K8 – Dánia történelmi öröksége.",
+ ro: "Castelul splendid Egeskov din sudul pașnic al insulei Funen este apreciat în lumea întreagă ca fiind cel mai frumos, complex și perfect conservat castel masiv de apă curată din epoca pură a Renașterii în Europa. Așezat grațios în centrul unui lac pitoresc complet izolat și susținut de o fundație adâncă colosală așezată din sute și sute de stâlpi duri din trunchiuri masive de stejar curat scufundați total, impunătoarea cetate roșiatică era inițial proiectată intenționat ca un bastion militar defensiv strategic privat într-o epocă instabilă politic teribilă tulbure marcată adânc de războaiele sângeroase civile nesfârșite. Exteriorul magnific din nenumărate cărămizi cu masive turnuri lungi ascuțite la ambele capete opuse atrage anual priviri uluite. Domeniul de lux înconjurător gigantic prezintă vizitatorilor parcuri luxuriante faimoase pe plan global pentru arta lor simetrică pură englezească, garduri vii gigantice extrem de vechi, dar și pavilioane cu expoziții tehnice excentrice ample care găzduiesc de pildă faimoasa colecție generoasă uimitoare a zeci de mașini epice scumpe și avioane de epocă retro. Istorie K8 – Moștenirea istorică a Danemarcei.",
+ en: "Egeskov Castle is an exquisite Renaissance water castle located on the island of Funen, renowned as one of the best-preserved moat castles in Europe. Built in 1554 during an era of civil unrest, the castle was designed for absolute defense, featuring thick walls, an integrated water supply, and loopholes for cannons. It famously stands on thousands of deeply driven oak piles in the middle of a small lake. Today, Egeskov is surrounded by magnificent award-winning gardens, including historical mazes and expansive parterres. The castle estate also hosts impressive museums of vintage automobiles, motorcycles, and historical artifacts. History K8 – Denmark's historical heritage."
+ },
+ factsAdvanced: {
+ de: [
+ "Egeskov wurde 1554 auf einem fundierung aus ganzen Eichenstämmen errichtet.",
+ "Das Schloss ist noch immer im Privatbesitz der gräflichen Familie Ahlefeldt-Laurvig-Bille.",
+ "Das 'Titania’s Palace' im Schloss ist eines der aufwendigsten Puppenhäuser der Welt.",
+ "Die Gartenanlagen wurden mehrfach als beste historische Gärten Europas ausgezeichnet."
+ ],
+ hu: [
+ "A kastély két különálló épületszárnyból áll, amelyeket egy vastag dupla fal választ el, hogy ha az egyik elesik, a másik védhető maradjon.",
+ "Az Egeskov-kastély kertjét az év európai történelmi kertjének is megválasztották.",
+ "A padláson található a 'Titania palotája' nevű, felbecsülhetetlen értékű, elképesztően részletes babaház.",
+ "A kastély jelenleg is magántulajdonban van, a grófi Ahlefeldt-Laurvig-Bille család otthona."
+ ],
+ ro: ["Legenda incredibilă populară nordică spune ferm că efectiv a fost nevoie tăierii drastice masive fizice a unei întregi uriașe și dese păduri de stejar bătrân din regiune pentru a obține fundațiile masive solide scufundate complet în lac.", "Contele greu de mulțumit și influentul fondator Frands Brockenhuus a terminat fizic ridicarea arhitecturală colosală extremă a castelului uimitor chiar în perioada de cumpănă dură fixată istoric precis la jumătatea anului agitat 1554.", "Zidurile duble impunătoare uriașe au fost ridicate masiv și izolate suficient de distanțat cu rolul ascuns pentru a ascunde efectiv treceri secrete interne strategice utile pentru salvare sau o puț simplu de utilitate cu sistem tehnic cu lanț complex.", "Palatul legendar deosebit expune permanent impresionantul, vastul și minuțios asamblatul 'Palat Titania', cel mai minunat, sofisticat și celebru complex artistic neprețuit scump palat modern al păpușilor existent pe acest mapamond.", "Grădinile somptuoase ale complexului regal sunt constant premiate extrem, primind oficial respectatul premiu faimos european acordat pentru 'Cel mai bun parc istoric uluitor al anului istoric european pe continentul European'."],
+ en: ["The name 'Egeskov' means 'Oak Forest', referencing the thousands of oak trunks supposedly used for its foundation.", "It is regarded as Europe's best-preserved Renaissance water castle.", "A legend claims a wooden doll rests in the attic, and moving it will cause the castle to sink into the moat.", "The expansive estate features a classic labyrinth made of towering beech hedges designed in 1730."]
+ },
+ facts: {
+ en: ["Egeskov is one of Europe's best-preserved moat castles.", "The castle dates to the mid-1500s.", "Its gardens are a major visitor draw.", "The site includes several themed museums.", "It is among Denmark's most popular castle attractions."],
+ de: ["Egeskov ist eine der am besten erhaltenen Wasserburgen Europas.", "Das Schloss stammt aus der Mitte des 16. Jahrhunderts.", "Die Gärten sind eine große Besucherattraktion.", "Die Anlage umfasst mehrere Themenmuseen.", "Es gehört zu Dänemarks beliebtesten Schlossattraktionen."],
+ hu: ["Az Egeskov Európa egyik legjobban megőrzött vízi vára.", "A kastély a 16. század közepéről származik.", "A kertek nagy vonzerőt jelentenek a látogatók számára.", "A helyszínen több tematikus múzeum is található.", "Dánia egyik legnépszerűbb kastélylátványossága."],
+ ro: ["Egeskov este unul dintre cele mai bine păstrate castele cu șanț de apă din Europa.", "Castelul datează din mijlocul secolului al XVI-lea.", "Grădinile sale sunt o mare atracție pentru vizitatori.", "Situl include mai multe muzee tematice.", "Este printre cele mai populare atracții de castel din Danemarca."]
+ },
+ image: "/geo-images/denmark/egeskov-castle.webp",
+ },
 ];
 
 export const denmarkNature: POI[] = [
-  {
-    id: "nat-bornholm",
-    type: "landmark",
-    parent: "denmark",
-    coords: [14.9100, 55.1100],
-    name: { de: "Bornholm", hu: "Bornholm", ro: "Bornholm", en: "Bornholm" },
-    description: {
-      en: "Bornholm is a Danish island in the Baltic Sea, known for its unique geography, including rocky coastlines, sandy beaches, and lush forests. It is a popular destination for outdoor enthusiasts, offering excellent hiking, cycling, and sailing opportunities. The island is also famous for its round churches, medieval fortress ruins of Hammershus, and its vibrant arts and crafts scene, particularly ceramics and glassblowing.",
-      de: "Bornholm ist eine dänische Insel in der Ostsee, die für ihre einzigartige Geografie bekannt ist, darunter felsige Küsten, Sandstrände und üppige Wälder. Sie ist ein beliebtes Ziel für Outdoor-Enthusiasten und bietet hervorragende Möglichkeiten zum Wandern, Radfahren und Segeln. Die Insel ist auch berühmt für ihre Rundkirchen, die mittelalterlichen Festungsruinen von Hammershus und ihre lebendige Kunsthandwerksszene, insbesondere Keramik und Glasbläserei.",
-      hu: "Bornholm egy dán sziget a Balti-tengeren, amely egyedülálló földrajzáról ismert, beleértve a sziklás partokat, a homokos strandokat és a buja erdőket. A szabadtéri tevékenységek kedvelőinek népszerű úti célja, kiváló túrázási, kerékpározási és vitorlázási lehetőségeket kínál. A sziget híres körtemplomairól, Hammershus középkori várromjairól, valamint élénk művészeti és kézműves életéről, különösen a kerámiáról és az üvegfúvásról.",
-      ro: "Bornholm este o insulă daneză din Marea Baltică, cunoscută pentru geografia sa unică, incluzând coaste stâncoase, plaje cu nisip și păduri luxuriante. Este o destinație populară pentru pasionații de activități în aer liber, oferind oportunități excelente pentru drumeții, ciclism și navigație. Insula este, de asemenea, faimoasă pentru bisericile sale rotunde, ruinele cetății medievale Hammershus și scena sa vibrantă de artă și meșteșuguri, în special ceramică și suflarea sticlei."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Bornholm egy lenyűgöző sziklasziget a Balti-tengerben, amely földrajzilag távolabb esik Dánia többi részétől, közelebb fekszik Svédországhoz és Lengyelországhoz. A 'napsütés szigeteként' is ismert Bornholm a dánok egyik kedvenc belföldi nyaralóhelye. Az északi partvonalat drámai gránitsziklák és a középkori Hammershus erőd romjai uralják, míg délen a finom homokos Dueodde strand található. A sziget híres egyedi kerek templomairól (rundkirker), amelyeket a középkorban nemcsak vallási, hanem védelmi célokra is építettek. Bornholm gasztronómiája, különösen a füstölt hering és a helyi kerámiaművészet szintén messze földön híres. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Mica, îndepărtata și faimoasa insulă stâncoasă Bornholm, așezată izolat adânc în pitorescul mediu maritim al Mării Baltice departe de continentul ei nordic, are un caracter absolut fascinant total unic care o separă și o face total diferită de fizionomia tradițională de câmpie uniformă lină a restului ținuturilor Danemarcei. Denumită frecvent în literatură și reviste ca faimoasa „Insula strălucitoare de Soare” datorită uimitorului său microclimat pur neobișnuit de uscat și cald extrem de însorit și relaxant vara, ea ademenește mereu iubitorii nordici pasionați total de mediul curat al naturii marine și de artele rafinate. Coasta nordică de relief dur este dominată vizual dur de faleze abrupte din granit de o rară frumusețe sălbatică tăioasă și de incredibilele ruine colosale magnifice de piatră faimoase denumite popular curând Castelul formidabil vechi de piatră masivă misterioasă numit popular la fel „Hammershus”. Bornholm mai este extrem de renumită clar printre gurmanzii continentului pentru afumătoriile ei spectaculoase vizuale unice locale vechi artizanale uriașe care prezintă mii de heringi aurii atârnați.",
-      en: "Bornholm, known affectionately as the 'Sunshine Island', is a spectacular Danish island located far east in the Baltic Sea, closer to Sweden than the Danish mainland. The island is renowned for its dramatic, rocky northern coastline and stunning white sandy beaches in the south, such as Dueodde. Bornholm features unique round churches (Rundkirker), historic smokehouses, and the imposing medieval ruins of Hammershus castle. The island enjoys a unique microclimate that fosters exceptional local agriculture and a thriving arts and crafts scene, particularly in ceramics and glassblowing. Bornholm represents a rugged, deeply charming contrast to the rest of the flat Danish landscape."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A szigeten található Hammershus Észak-Európa legnagyobb középkori erődromja.",
-        "Dueodde strandjának homokja olyan finom, hogy régen homokórák töltésére használták.",
-        "Bornholmon négy jellegzetes kerek templom áll, amelyeket a 12. században építettek.",
-        "A sziget Dánia egyetlen olyan része, ahol a jégkorszak előtti ősi gránitkőzet a felszínre bukkan."
-      ],
-      ro: ["Formidabilele și impunătoarele ruine mari lăsate pe munte de masivul castel puternic Hammershus compun efectiv cel mai lung, impresionant și masiv sistem total ruinat medieval supraviețuitor fortificat complet la nivel de Nord al întregii Europe.", "Faimoasa și uimitoarea rocă de mari dimensiuni stâncoasă grea masivă oscilantă uriașă masivă vizibil numită masiv pe bună dreptate „Rokkestenen” din pădurea verde Paradisbakkerne masivă gigantică gigantică verde poate fizic clar chiar și azi să fie mișcată lin grațios ușor extrem clar la simpla și corecta simplă presiune ușoară a unei singure forțe simple la mână.", "În prezent pe întreaga mică suprafață vastă verde a insulei retrase liniștite funcționează perfect pașnic zilnic vizual celebrele neprețuite de mii de ori fotografiate cele patru misterioase unice clădiri mari neprețuite albe rotunde faimoase antice biserici cilindrice masive groase cu funcție mare triplă fortificată secretă defensivă.", "Calitatea specială fină și moale naturală de renume a uriașelor dune cu finețe albă și mare finisaj cu pietriș fin și granulație pură cu nivel mărunt moale pur de nisip dur plajă sudică lungă liniștită plajă numită Dueodde este faimoasă din timpuri istorice bune încât curând multă vreme în istorie pe o perioadă s-a folosit natural numai acesta exclusiv fin folosit finisat pentru rafinate cronometre instrumentale pentru exact măsurarea timpului vechi cu fin instrument mare clepsidră de lemn pur.", "Aproape absolut cu toții mari pasionați culinari masivi profesioniști experți o laudă pur și simplu considerabil mereu și o recunosc culinar ca patria de bază gastronomică și capitala principală recunoscută pur ca patria mică principală și capitala națională culinară rafinată a națiunii culinare de mii de pești buni heringi fumigați cunoscuți cu afecțiune istoric denumiți ca tradițional 'Sol over Gudhjem'."],
-      en: ["Bornholm is famously home to four distinct medieval round churches, originally built for both worship and defense.", "The ruins of Hammershus, perched on a rocky cliff, form the largest medieval fortress ruin in Northern Europe.", "The sand at Dueodde beach is so incredibly fine that it was historically used to fill hour-glasses.", "Bornholm has the most hours of sunshine of any region in Denmark, supporting a unique local ecology."]
-    },
-    facts: {
-      en: ["Bornholm is known as the 'Sunshine Island' of Denmark.","The island has four unique medieval round churches.","Hammershus is Northern Europe's largest medieval fortress ruin.","Bornholm is famous for its smoked herring, a local delicacy."],
-      de: ["Bornholm ist als die 'Sonneninsel' Dänemarks bekannt.","Die Insel besitzt vier einzigartige mittelalterliche Rundkirchen.","Hammershus ist Nordeuropas größte mittelalterliche Festungsruine.","Bornholm ist berühmt für seinen Räucherhering, eine lokale Spezialität."],
-      hu: ["Bornholm Dánia 'Napsütötte szigeteként' ismert.","A szigeten négy egyedülálló középkori körtemplom található.","Hammershus Észak-Európa legnagyobb középkori várromja.","Bornholm híres a füstölt heringről, amely helyi különlegesség."],
-      ro: ["Bornholm este cunoscută sub numele de 'Insula Soarelui' a Danemarcei.","Insula are patru biserici rotunde medievale unice.","Hammershus este cea mai mare ruină de cetate medievală din Europa de Nord.","Bornholm este faimoasă pentru heringul afumat, o delicatesă locală."]
-    },
-    image: "/geo-images/denmark/bornholm.webp",
-  }
-  ,
-  {
-    id: "nat-rabjerg-mile",
-    type: "landmark",
-    parent: "denmark",
-    coords: [10.4311, 57.6772],
-    name: { de: "Råbjerg Mile", hu: "Råbjerg Mile", ro: "Råbjerg Mile", en: "Råbjerg Mile" },
-    description: {
-      en: "Råbjerg Mile is a massive migrating sand dune in northern Jutland and one of Denmark's most striking natural sights. Driven by wind, it slowly moves across the landscape and can feel almost desert-like despite the country's generally green scenery. The dune offers sweeping views and a dramatic reminder of the power of coastal nature.",
-      de: "Råbjerg Mile ist eine gewaltige wandernde Sanddüne im Norden Jütlands und eines der eindrucksvollsten Naturwunder Dänemarks. Vom Wind angetrieben bewegt sie sich langsam durch die Landschaft und wirkt trotz der sonst grünen Umgebung fast wüstenartig. Die Düne bietet weite Ausblicke und erinnert eindrucksvoll an die Kraft der Küstennatur.",
-      hu: "A Råbjerg Mile egy hatalmas, vándorló homokdűne Észak-Jütlandban, és Dánia egyik leglátványosabb természeti helyszíne. A szél hajtja, lassan mozog a tájon, és a többnyire zöld környezet ellenére szinte sivatagi hangulatot áraszt. A dűne széles panorámát kínál, és látványosan mutatja a partvidéki természet erejét.",
-      ro: "Råbjerg Mile este o uriașă dună de nisip în mișcare din nordul Iutlandei și unul dintre cele mai spectaculoase peisaje naturale ale Danemarcei. Determinată de vânt, se deplasează lent prin peisaj și aproape că dă impresia unui deșert, în ciuda cadrului în mod normal verde. Duna oferă priveliști largi și amintește dramatic de puterea naturii de coastă."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Råbjerg Mile Dánia és Észak-Európa legnagyobb vándorló homokdűnéje, amely a Jütland-félsziget legészakibb részén, Skagen közelében található. Ez a mintegy 40 méter magas és hatalmas kiterjedésű homoktömeg a folyamatos nyugati szelek hatására évente körülbelül 15 métert halad kelet felé. A táj kietlen, sivatagi hangulatot áraszt, éles ellentétben a környező zöld erdőkkel és lápokkal. Míg Dánia más részein a 19. században fákat ültettek a homokvándorlás megállítására, a Råbjerg Mile-t szándékosan szabadon hagyták, hogy a jövő generációi is megcsodálhassák ezt a különleges természeti erőt. A dűne lenyűgöző látványt nyújt, és a látogatók szabadon megmászhatják a homokhegyeket. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "Impresionanta întindere mare enormă masivă gigantică de nisip migrator și faimos denumită oficial și mereu Råbjerg Mile constituie indubitabil cea mai spectaculoasă și gigantică vastă fină și înaltă masivă și teribil de fină impresionantă uriașă vastă uriașă unică dune colosal masivă complet albă uluitoare masivă plină mereu mișcătoare formată total complet alb din nisipuri albe zburătoare migrate activ constant situate geografic strategic pe partea cu vest vestică mare sălbatică tăioasă de uscat peninsular cel mai de sus cap nordic dur din coasta extrem vestică a teritoriului complet al marii regiuni nordice izolate de platou masiv Iutlanda din regatul mare verde danez. Acest uimitor rar teribil și neîblânzit absolut de om și formidabil peisaj arid extrem imens cu profil colosal arid deșertic spectaculos unic spectaculos colosal mișcător uluitor masiv în mare schimbare continuă teribilă vizual deplasându-se progresiv continuu an de an dur prin intermediul bătăii grele și suflului cu forță constant extrem a temutului curent mare extrem și uluitor uimitor curent mare agresiv și furtunos ascuțit de vânt intens furtunos nordic, acoperind dur lent și dur înghițind masiv progresiv prin nisipuri orice tip dur vegetație dură aspră plantată forestieră pini uluitori ce îndrăznește greu efectiv măcar total puțin deodată neapărat cumva vag măcar fizic clar să îi stea fizic constant mare total complet pasiv complet pasiv fizic greu deloc o fărâmă masivă măcar puțin fizic clar în fața căii grele sale implacabile. Este, metaforic, ultimul ecosistem pur complet neatins total pe scară uluitoare mare pe plan intern național complet danez de control masiv, o rezervă naturală magică și total specială ce uluiește privirile pasionaților.",
-      en: "Råbjerg Mile is a spectacular migrating coastal dune located in the very north of Jutland. Formed on the western coast in the 16th century during the great sand drift, it is the largest moving sand dune in Northern Europe. Containing approximately 3.5 million cubic meters of sand, it creeps eastward at a rate of 15 meters per year, driven by the powerful prevailing winds. The massive, undulating landscape of the dune offers an almost desert-like, otherworldly experience. Unlike other dunes in Denmark, Råbjerg Mile was deliberately left unplanted to allow future generations to witness the awesome power of natural sand migration."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A dűne több mint 3,5 millió köbméter homokból áll, és kiterjedése eléri az egy négyzetkilométert.",
-        "A Råbjerg Mile várhatóan a 22. század végére eléri a keleti partot, és belevész a Kattegat tengerbe.",
-        "A dűne vándorlása során elnyeli az útjába eső fákat, amelyek évtizedekkel később a túloldalon bukkannak fel újra, kiszáradva.",
-        "A terület 1900 óta szigorú természetvédelmi oltalmat élvez."
-      ],
-      ro: ["Faimoasa formă masivă duna teribilă enormă unică uluitoare deplasată în principal mișcă constant pur masiv colosal neîncetat anual uluitor aproximativ la nivel enorm estimat masiv enorm mare vizibil cam uriaș minim constant sigur uluitor la rata anuală 15 de mii metri pătrați lungime dură estic continuu pe metru mare curat direcție direcția strict spre punctul total nord-est mare.", "Rezerva gigantică impresionantă imensă mare suprafață fizică a cantității nisipoase uriașe masive pure deține masiv colosal oficial vizibil în totalitate incredibila cifră extrem uriașă cifră dur masivă estimată la proporția astronomic uriaș masiv astronomic estimat clar estimat masiv incredibil a masivului număr uluitor precis volum aproximativ de patru un sfert total sute milioane metrice uriașe complet cantitativ pure de pur fin metru pur metric cubi masivi plini doar cubi tari plini mari rotunzi fini clari metrici exclusivi cu cu cubi fini de nisip uscat gros uluitor mișcător.", "Guvernul rațional clar masiv conștient prudent complet absolut logic și decident și perfect prudent modern responsabil ecologic clar statal responsabil verde modern central danez special inteligent ecologist logic masiv național conștient responsabil statal logic inteligent clar guvernamental a oprit masiv intenționat total logic precis perfect orice fel de procedură sau tentativă falsă dură masiv a blocat constant a oprit clar pur simplu stopat absolut complet clar oricare măcar pur și simplu clar deloc deloc efort orice efort simplu minim absolut vreun minim oricare tentativă masiv curaj complet pentru a controla planta plante de pin masiv stabilizatoare sau bariere false protecție fixare simplu artificiale dure false în jurul zonei ei de bază dur fixare baze masive centrale uriașe mari grele lungi și izolate tocmai simplu doar exact direct așadar doar absolut fix așadar simplu clar pentru a lăsa pur naturii dure șansa pur să își uluitor completeze ciclul vizual ecologic pur masiv spectaculos vizual lung lăsat.", "Uimitoarea plajă deșertică masivă mișcătoare uriașă dună are fizic clar profilul pur uriaș masiv colosal colosal cu înălțimea înălțată cu forma teribilă masivă ce fizic ajunge colosal absolut impresionant maxim uriaș fizic curat pur incredibil uriaș la punctul clar vârful vizual imens uriaș de sus curat curat punctul culme punctul clar uluitor uimitor uriaș uluitor înălțat impresionant cu uluitor vârful imens masiv pur înalt masiv de incredibila cotă colosal estimată oficial dur stabil absolut oficial fix clar măsurat fizic a cotei cota curat dură a exact a aproximativ incredibila stabil măsurat a impresionanta limită oficial măsurat aproximativ cu oficial la de măsurată valoare la incredibila 40 curat dur total simplu 40 incredibili vizibili 40 fizici m masivi clar masiv simplu mari înălțimi înălțime masivi metri reali mari de deasupra cu clar măsurat nivel la deasupra simplu a sol mare.", "Acest punct neobișnuit absolut peisaj a inspirat frecvent numeroase de decoruri dure producții daneze cinematografice ca simplu colosal substitut vizual așezare fals dur de mare deșert arid."],
-      en: ["Råbjerg Mile is the largest migrating sand dune in Northern Europe.", "The dune moves an average of 15 meters eastward across the Jutland peninsula every year.", "It contains an estimated 3.5 million cubic meters of pure, shifting sand.", "The Danish government purchased the dune in 1900 specifically to preserve it as an active natural monument."]
-    },
-    facts: {
-      en: ["Råbjerg Mile is a moving sand dune.", "It shifts about 15 meters per year on average.", "The dune is among the largest in Northern Europe.", "It is protected as a natural monument."],
-      de: ["Råbjerg Mile ist eine wandernde Sanddüne.", "Sie verschiebt sich im Durchschnitt etwa 15 Meter pro Jahr.", "Die Düne gehört zu den größten in Nordeuropa.", "Sie steht unter Naturschutz als Naturdenkmal."],
-      hu: ["A Råbjerg Mile vándorló homokdűne.", "Évente átlagosan körülbelül 15 métert mozdul el.", "Európa északi részének egyik legnagyobb dűnéje.", "Természeti emlékként védett."],
-      ro: ["Råbjerg Mile este o dună de nisip în mișcare.", "Se deplasează în medie cu aproximativ 15 metri pe an.", "Este printre cele mai mari dune din nordul Europei.", "Este protejată ca monument natural."]
-    },
-    image: "/geo-images/denmark/rabjerg-mile.webp",
-  },
-  {
-    id: "nat-skagen",
-    type: "landmark",
-    parent: "denmark",
-    coords: [10.6, 57.7281],
-    name: { de: "Skagen", hu: "Skagen", ro: "Skagen", en: "Skagen" },
-    description: {
-      en: "Skagen sits at the northern tip of Jutland, where Denmark meets the meeting point of two seas. The area is famous for its bright light, wide beaches, and dramatic dunes that have long attracted artists and travelers. It is a place where the landscape feels open, wind-swept, and closely tied to the sea.",
-      de: "Skagen liegt an der Nordspitze Jütlands, wo Dänemark am Treffpunkt zweier Meere liegt. Die Gegend ist berühmt für ihr helles Licht, breite Strände und dramatische Dünen, die seit Langem Künstler und Reisende anziehen. Es ist ein Ort, an dem die Landschaft offen, vom Wind geprägt und eng mit dem Meer verbunden wirkt.",
-      hu: "Skagen Jütland északi csúcsán fekszik, ahol Dánia a két tenger találkozási pontjánál ér véget. A terület híres a különleges fényéről, a széles strandokról és a drámai dűnékről, amelyek régóta vonzzák a művészeket és az utazókat. Olyan hely, ahol a táj nyitott, szeles és szorosan kapcsolódik a tengerhez.",
-      ro: "Skagen se află în vârful nordic al Iutlandei, acolo unde Danemarca întâlnește punctul de întâlnire al două mări. Zona este faimoasă pentru lumina sa puternică, plajele largi și dunele spectaculoase care au atras de mult artiști și călători. Este un loc în care peisajul pare deschis, bătut de vânt și profund legat de mare."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Skagen Dánia legészakibb városa, ahol a Jütland-félsziget egy elkeskenyedő homoknyelvben, a Grenenben végződik. Itt, a Grenen-foknál találkozik egymással a Skagerrak (Északi-tenger) és a Kattegat (Balti-tenger), amelynek összecsapó hullámai lenyűgöző és ritka tengeri jelenséget alkotnak. Skagen a 19. század végén vált híressé, amikor a különleges fényviszonyok és a vad táj idevonzotta a skageni festők néven ismert művészcsoportot. A város sárgára festett, piros tetős házai, hangulatos kikötője és a tengeri halászat hagyományai ma is meghatározzák arculatát. A homokdűnék által betemetett régi templom (Den Tilsandede Kirke) tornya drámai mementója a természet erejének. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Skagen is a captivating town at the absolute northernmost tip of Jutland, renowned for its incredible light, wild nature, and artistic heritage. At the very end of Skagen lies Grenen, a dramatic sandy spit where the Skagerrak and Kattegat seas visibly clash together in turbulent waves. In the late 19th century, the area's unique luminescence and rugged beauty attracted a famous colony of impressionist painters known as the Skagen Painters. The town is characterized by its distinct yellow houses with white-edged roofs, vibrant harbor, and historic lighthouses. Skagen perfectly embodies the raw, elemental power of the Danish coastline."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Grenen-foknál a látogatók szó szerint két tengerben állhatnak egyszerre, ha a két lábukkal a hullámok találkozásához lépnek.",
-        "A Skageni Múzeum őrzi a híres dán impresszionista festők, például P.S. Krøyer és Anna Ancher legszebb alkotásait.",
-        "A skageni Világítótorony (Det Grå Fyr) Dánia egyik legmagasabb világítótornya, 46 méteres magasságával.",
-        "A terület évente több százezer vándormadár fontos pihenőhelye a tavaszi vonulás során."
-      ],
-      ro: [],
-      en: ["At Grenen, visitors can stand with one foot in the Skagerrak Sea and the other in the Kattegat Sea.", "The intense, natural light in Skagen inspired the famous group of impressionist artists called the Skagen Painters.", "The Sand-Covered Church (Den Tilsandede Kirke) near Skagen was buried by migrating dunes, leaving only the tower visible.", "Skagen is Denmark's northernmost town and a premier destination for observing bird migrations."]
-    },
-    facts: {
-      en: ["Skagen is known for the meeting of the North Sea and Baltic Sea.", "The region inspired the Skagen Painters.", "Its light is famous among artists.", "The coastline features long sandy beaches and dunes."],
-      de: ["Skagen ist bekannt als Treffpunkt von Nord- und Ostsee.", "Die Region inspirierte die Skagen-Maler.", "Ihr Licht ist bei Künstlern berühmt.", "Die Küste hat lange Sandstrände und Dünen."],
-      hu: ["Skagen arról ismert, hogy itt találkozik az Északi- és a Balti-tenger.", "A vidék inspirálta a skageni festőket.", "A fénye híres a művészek körében.", "A partvonalat hosszú homokos strandok és dűnék jellemzik."],
-      ro: ["Skagen este cunoscut pentru întâlnirea Mării Nordului cu Marea Baltică.", "Regiunea i-a inspirat pe pictorii din Skagen.", "Lumina sa este faimoasă printre artiști.", "Coasta are plaje lungi cu nisip și dune."]
-    },
-    image: "/geo-images/denmark/skagen.webp",
-  },
-  {
-    id: "nat-mons-klint",
-    type: "landmark",
-    parent: "denmark",
-    coords: [12.543, 54.9667],
-    name: { de: "Møns Klint", hu: "Møns Klint", ro: "Møns Klint", en: "Møns Klint" },
-    description: {
-      en: "Møns Klint is a dramatic white chalk cliff on the island of Møn, rising above the Baltic Sea. The cliffs are among Denmark's most spectacular landscapes, with steep faces, forested slopes, and clear sea views. The area is popular for hiking and for its striking contrast between bright chalk and deep blue water.",
-      de: "Møns Klint ist eine dramatische weiße Kreideklippe auf der Insel Møn, die sich über die Ostsee erhebt. Die Klippen gehören zu Dänemarks spektakulärsten Landschaften mit steilen Wänden, bewaldeten Hängen und weitem Blick auf das Meer. Das Gebiet ist beliebt zum Wandern und für den starken Kontrast zwischen heller Kreide und tiefblauem Wasser.",
-      hu: "A Møns Klint egy drámai fehér krétaszikla Møn szigetén, amely a Balti-tenger fölé magasodik. A sziklák Dánia egyik leglátványosabb táját alkotják, meredek falakkal, erdős lejtőkkel és tiszta tengeri kilátással. A terület népszerű túrázásra, és lenyűgöző kontrasztot mutat a világos kréta és a sötétkék víz között.",
-      ro: "Møns Klint este o faleză dramatică de cretă albă pe insula Møn, ridicându-se deasupra Mării Baltice. Stâncile se numără printre cele mai spectaculoase peisaje ale Danemarcei, cu pereți abrupți, pante împădurite și priveliști clare către mare. Zona este populară pentru drumeții și pentru contrastul izbitor dintre creta albă și apa albastru intens."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Møns Klint egy lélegzetelállító, fehér krétafal Møn szigetének keleti partján, amely drámaian, helyenként 128 méter magasan emelkedik ki a Balti-tenger kékeszöld vizéből. Ez a lenyűgöző geológiai képződmény mintegy 70 millió évvel ezelőtt alakult ki apró tengeri élőlények mészvázából, amelyet később a jégkorszak gleccserei toltak fel a felszínre. A sziklák tetején húzódó ősi bükkerdőkből falépcsők százai vezetnek le a kavicsos partra, ahol a szerencsés látogatók őskori fosszíliákat, például belemniteszeket találhatnak. A terület Dánia egyik legszebb és leginkább fotózott természeti látványossága, amely az UNESCO bioszféra-rezervátum része. A közeli GeoCenter interaktív módon mutatja be a krétafalak geológiai történetét. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Møns Klint is a breathtaking geological wonder located on the eastern coast of the island of Møn. The site features dramatic, sheer white chalk cliffs that plunge up to 120 meters vertically into the turquoise waters of the Baltic Sea. Formed millions of years ago from the remains of microscopic sea creatures, the cliffs were thrust upwards during the last Ice Age. Visitors can descend long wooden staircases to hunt for ancient fossils along the stony beach below. The contrast between the brilliant white chalk, the green beech forests above, and the blue sea creates one of Denmark's most spectacular natural landscapes."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Møns Klint fehér sziklái évente átlagosan 2-4 centimétert kopnak a tenger és az időjárás eróziója miatt.",
-        "A sziklák legmagasabb pontját Dronningestolen-nek (Királynői szék) nevezik, amely 128 méter magas.",
-        "A terület egyike azon ritka dániai helyeknek, ahol a vándorsólyom fészkel.",
-        "A sziklákhoz vezető leghosszabb lépcsősor majdnem 500 fokból áll."
-      ],
-      ro: [],
-      en: ["The chalk cliffs of Møns Klint reach a staggering height of 120 meters above sea level.", "The chalk was formed over 70 million years ago from the microscopic shells of algae in a tropical sea.", "The beach below the cliffs is one of the best places in Denmark to hunt for ancient fossils, such as belemnites and sea urchins.", "The surrounding area was designated as Denmark's first UNESCO Biosphere Reserve."]
-    },
-    facts: {
-      en: ["The cliffs rise up to 128 meters above sea level.", "Møns Klint is on the island of Møn.", "The area is a UNESCO Biosphere Reserve.", "It is one of Denmark's top hiking destinations."],
-      de: ["Die Klippen ragen bis zu 128 Meter über den Meeresspiegel auf.", "Møns Klint liegt auf der Insel Møn.", "Das Gebiet ist ein UNESCO-Biosphärenreservat.", "Es ist eines der beliebtesten Wanderziele Dänemarks."],
-      hu: ["A sziklák akár 128 méterre is a tengerszint fölé emelkednek.", "A Møns Klint Møn szigetén található.", "A terület UNESCO bioszféra-rezervátum.", "Dánia egyik legnépszerűbb túracélpontja."],
-      ro: ["Falezele se ridică până la 128 de metri deasupra nivelului mării.", "Møns Klint se află pe insula Møn.", "Zona este rezervație a biosferei UNESCO.", "Este una dintre cele mai bune destinații de drumeție din Danemarca."]
-    },
-    image: "/geo-images/denmark/mons-klint.webp",
-  },
-  {
-    id: "nat-wadden-sea",
-    type: "landmark",
-    parent: "denmark",
-    coords: [8.8, 55.3],
-    name: { de: "Wattenmeer", hu: "Wadden-tenger", ro: "Marea Wadden", en: "Wadden Sea" },
-    description: {
-      en: "The Danish Wadden Sea is a vast tidal wetland that forms part of the larger North Sea ecosystem. It is a UNESCO-listed nature area known for mudflats, salt marshes, migratory birds, and dramatic tidal changes. The landscape is open and remote, making it one of the most important coastal habitats in Europe.",
-      de: "Das dänische Wattenmeer ist ein ausgedehntes Gezeitenfeuchtgebiet und Teil des größeren Ökosystems der Nordsee. Es ist ein UNESCO-geschütztes Naturgebiet, bekannt für Schlickflächen, Salzwiesen, Zugvögel und starke Gezeitenwechsel. Die Landschaft ist offen und abgelegen und zählt zu den wichtigsten Küstenlebensräumen Europas.",
-      hu: "A dán Wadden-tenger hatalmas árapályos vizes élőhely, amely az Északi-tenger nagyobb ökoszisztémájának része. UNESCO által védett természeti terület, amely iszaplapályairól, sós mocsarairól, vonuló madarairól és drámai árapályváltozásairól ismert. A táj nyílt és távoli, ezért Európa egyik legfontosabb part menti élőhelye.",
-      ro: "Marea Wadden daneză este o vastă zonă umedă de maree, parte a ecosistemului mai mare al Mării Nordului. Este o zonă naturală listată UNESCO, cunoscută pentru mlaștinile de nămol, pajiștile sărate, păsările migratoare și schimbările dramatice ale mareei. Peisajul este deschis și izolat, fiind unul dintre cele mai importante habitate de coastă din Europa."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A dán Wadden-tenger (Vadehavet) a Jütland délnyugati partja mentén elterülő egyedülálló árapálysíkság, amely az UNESCO Világörökség részét képezi. Ez a hatalmas, sekély tengeri ökoszisztéma Hollandiától egészen Dániáig húzódik, és a világ legnagyobb egybefüggő iszapos-homokos árapályrendszere. Naponta kétszer a tenger visszahúzódik, hatalmas iszapmezőket hagyva hátra, amelyek táplálékban rendkívül gazdagok. Ennek köszönhetően a Wadden-tenger több millió vándormadár, valamint nagyszámú borjúfóka elengedhetetlen élőhelye. Az apály idején a látogatók szervezett 'iszapsétákon' (mud flat walking) vehetnek részt, vagy osztrigát gyűjthetnek közvetlenül a tengerfenékről. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "The Wadden Sea (Vadehavet) is an extraordinary, unbroken system of intertidal sand and mudflats located along the southwestern coast of Jutland. It is part of the largest tidal flats system in the world, stretching down to Germany and the Netherlands. The area is incredibly dynamic, completely changing character with the massive tidal shifts that expose vast stretches of seabed. It serves as a crucial staging, wintering, and breeding area for millions of migratory birds. Recognized as a UNESCO World Heritage site and a National Park, the Wadden Sea is a vital sanctuary for exceptional biodiversity and natural preservation."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Évente több mint 10-12 millió vándormadár pihen meg és táplálkozik a Wadden-tenger vidékén.",
-        "Itt figyelhető meg a 'Fekete Nap' (Sort Sol) nevű jelenség, amikor több százezer seregély repülése szinte elsötétíti az eget.",
-        "A dán Wadden-tenger Nemzeti Park az ország legnagyobb nemzeti parkja.",
-        "A terület homokpadjain található Dánia legnagyobb borjúfóka-populációja."
-      ],
-      ro: [],
-      en: ["The Wadden Sea National Park is the largest national park in Denmark.", "It is a recognized UNESCO World Heritage site due to its unique geological and ecological significance.", "The area is famous for 'Sort Sol' (Black Sun), a stunning phenomenon where millions of starlings fly in synchronized murmuration.", "During low tide, visitors can walk directly on the exposed seabed to forage for Pacific oysters."]
-    },
-    facts: {
-      en: ["The Wadden Sea is a UNESCO World Heritage area.", "It is crucial for migratory birds.", "Tidal flats are exposed at low tide.", "The area stretches across several countries."],
-      de: ["Das Wattenmeer ist UNESCO-Welterbe.", "Es ist für Zugvögel von entscheidender Bedeutung.", "Bei Ebbe werden Wattflächen freigelegt.", "Das Gebiet erstreckt sich über mehrere Länder."],
-      hu: ["A Wadden-tenger UNESCO világörökségi terület.", "Kulcsfontosságú a vonuló madarak számára.", "Apály idején iszapos lapályok tárulnak fel.", "A terület több országon is átnyúlik."],
-      ro: ["Marea Wadden este sit UNESCO al Patrimoniului Mondial.", "Este esențială pentru păsările migratoare.", "La reflux apar suprafețe întinse de nămol.", "Zona se întinde peste mai multe țări."]
-    },
-    image: "/geo-images/denmark/wadden-sea.webp",
-  },
-  {
-    id: "nat-mollehøj",
-    type: "mountain",
-    parent: "DK",
-    coords: [9.8629, 56.0931],
-    name: { de: "Møllehøj", hu: "Møllehøj", ro: "Møllehøj", en: "Møllehøj" },
-    description: {
-      en: "Møllehøj is Denmark's highest natural point and a useful SEO keyword for travelers searching for the country's top landscape viewpoint. Although it is more of a gentle hill than a dramatic mountain, it carries symbolic weight as the peak of Denmark's low-relief terrain. The site is surrounded by farmland and rolling countryside, which makes the climb easy and the scenery broad. Møllehøj is ideal for visitors who want a simple but memorable geography stop in central Jutland.",
-      de: "Møllehøj ist der höchste natürliche Punkt Dänemarks und ein nützliches SEO-Thema für Reisende, die nach dem höchsten Aussichtspunkt des Landes suchen. Obwohl er eher ein sanfter Hügel als ein dramatischer Berg ist, hat er symbolisches Gewicht als Gipfel des flachen dänischen Reliefs. Die Umgebung besteht aus Feldern und sanfter Landschaft, was den Aufstieg leicht und die Aussicht weit macht. Møllehøj ist ideal für Besucher, die einen einfachen, aber einprägsamen Geografie-Stopp in Mitteljütland wollen.",
-      hu: "Møllehøj Dánia legmagasabb természetes pontja, és hasznos SEO-kulcsszó azoknak az utazóknak, akik az ország legmagasabb kilátópontját keresik. Bár inkább gyengéd domb, mint drámai hegy, szimbolikus jelentősége nagy a dán alacsony domborzat csúcsaként. A környék mezőgazdasági területekkel és hullámzó vidékkel van körülvéve, ami könnyűvé teszi a megközelítést és szélessé a kilátást. Møllehøj ideális azoknak, akik egyszerű, de emlékezetes földrajzi megállót szeretnének Közép-Jütlandban.",
-      ro: "Møllehøj este cel mai înalt punct natural al Danemarcei și un cuvânt-cheie SEO util pentru călătorii care caută cel mai înalt punct de belvedere al țării. Deși este mai degrabă un deal blând decât un munte dramatic, are o greutate simbolică mare ca vârf al reliefului jos danez. Zona este înconjurată de terenuri agricole și de peisaj ondulat, ceea ce face urcarea ușoară și priveliștea amplă. Møllehøj este ideal pentru vizitatorii care vor o oprire geografică simplă, dar memorabilă în centrul Iutlandei."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Møllehøj Dánia hivatalosan elismert legmagasabb természetes pontja, bár magassága – mindössze 170,86 méter a tengerszint felett – inkább mosolyt fakaszt a hegyvidéki országok turistáinak arcára. Kelet-Jütland lankás, mezőgazdasági dombvidékén található, egy régi szélmalom romjainak közvetlen közelében. Sokáig a szomszédos Yding Skovhøj-t vagy a Himmelbjerget-t hitték a legmagasabbnak, de a 2005-ös precíziós lézeres mérések egyértelműen a Møllehøj-t hozták ki győztesnek. A dombtetőről békés panoráma nyílik a dán vidékre. Bár nem nyújt alpesi élményt, a csúcs meghódítása népszerű és humoros kihívás a kerékpárosok és túrázók körében. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Møllehøj is officially recognized as the highest natural point in Denmark, located in the gently rolling Ejerbjerge hills of eastern Jutland. Standing at a modest 170.86 meters above sea level, it perfectly illustrates the famously flat topography of the Danish landscape. The summit is marked by a simple millstone, a remnant of the Ejer windmill that once stood on the site until 1917. While it may lack the dramatic peaks of other nations, the surrounding landscape offers sweeping, serene views over the fertile farmland. Its discovery as the true highest point in 2005 settled a long-standing geographical debate in Denmark."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A domb tetején található régi Ejer-malom maradványa egy malomkő, amely ma a csúcsot jelöli.",
-        "A szomszédos Yding Skovhøj ember alkotta bronzkori sírhalmokkal együtt magasabb lenne, de a természetes talajszintje alacsonyabb.",
-        "A csúcs olyannyira lapos, hogy egy tehénlegelő közepén helyezkedik el.",
-        "Mivel Dánia nagyrészt lapos, a 170 méteres magasságból tiszta időben akár 40-50 kilométerre is el lehet látni."
-      ],
-      ro: [],
-      en: ["Møllehøj is the highest natural point in Denmark at exactly 170.86 meters above sea level.", "It officially claimed the title of Denmark's highest point only in 2005, after precise modern measurements were taken.", "The peak is situated just a few hundred meters from Ejer Bavnehøj, which was previously thought to be the highest point.", "The name Møllehøj translates to 'Mill Hill', referencing a windmill that operated there from 1838 to 1917."]
-    },
-    facts: {
-      en: ["Møllehøj is Denmark's highest natural point.", "It is located in central Jutland.", "The hill is part of the Ejer Bjerge area.", "Its elevation is modest by global standards.", "It is a classic geography stop for Denmark trips."],
-      de: ["Møllehøj ist Dänemarks höchster natürlicher Punkt.", "Er liegt in Mitteljütland.", "Der Hügel gehört zum Gebiet Ejer Bjerge.", "Seine Höhe ist nach globalen Maßstäben bescheiden.", "Er ist ein klassischer Geografie-Stopp für Dänemark-Reisen."],
-      hu: ["Møllehøj Dánia legmagasabb természetes pontja.", "Közép-Jütlandban található.", "A domb az Ejer Bjerge területéhez tartozik.", "Magassága globális mércével szerény.", "Klasszikus földrajzi megálló dániai utazásokhoz."],
-      ro: ["Møllehøj este cel mai înalt punct natural al Danemarcei.", "Se află în centrul Iutlandei.", "Dealul face parte din zona Ejer Bjerge.", "Înălțimea sa este modestă după standarde globale.", "Este o oprire geografică clasică pentru călătoriile în Danemarca."]
-    },
-    image: "/geo-images/denmark/mollehoj.webp",
-  },
-  {
-    id: "nat-himmelbjerget",
-    type: "mountain",
-    parent: "DK",
-    coords: [9.8440, 56.1019],
-    name: { de: "Himmelbjerget", hu: "Himmelbjerget", ro: "Himmelbjerget", en: "Himmelbjerget" },
-    description: {
-      en: "Himmelbjerget is one of Denmark's most famous landscape viewpoints and a strong SEO term for nature travel around Silkeborg. It rises above the lake district rather than the sea, giving visitors broad views over water, forests, and hills. The site has long attracted excursion seekers because it combines easy access with a dramatic sense of height in an otherwise flat country. Himmelbjerget is a classic Danish stop for hiking, picnics, and scenic photography.",
-      de: "Himmelbjerget ist einer der berühmtesten Aussichtspunkte Dänemarks und ein starkes SEO-Thema für Naturreisen rund um Silkeborg. Er ragt über das Seengebiet hinaus und bietet weite Blicke über Wasser, Wälder und Hügel. Der Ort zieht seit Langem Ausflügler an, weil er leichten Zugang mit einem dramatischen Höhengefühl in einem ansonsten flachen Land verbindet. Himmelbjerget ist ein klassischer dänischer Halt für Wandern, Picknicks und landschaftliche Fotografie.",
-      hu: "A Himmelbjerget Dánia egyik leghíresebb kilátópontja és erős SEO-kifejezés a Silkeborg környéki természeti utazásokhoz. Nem a tenger fölé, hanem a tóvidék fölé magasodik, így széles kilátást nyújt vízre, erdőkre és dombokra. A hely régóta vonzza a kirándulókat, mert könnyű megközelíthetőséget ötvöz a magasság látványos érzetével egy egyébként lapos országban. A Himmelbjerget klasszikus dán megálló túrázáshoz, piknikhez és tájfotózáshoz.",
-      ro: "Himmelbjerget este unul dintre cele mai faimoase puncte de belvedere ale Danemarcei și un termen SEO puternic pentru turismul în natură din jurul Silkeborgului. Se ridică deasupra zonei lacurilor, oferind priveliști largi asupra apei, pădurilor și dealurilor. Locul atrage de mult timp excursioniștii, deoarece combină accesul ușor cu o senzație dramatică de înălțime într-o țară altfel plată. Himmelbjerget este o oprire daneză clasică pentru drumeții, picnicuri și fotografie de peisaj."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Himmelbjerget (Mennyország-hegy) Silkeborg közelében emelkedik, és bár csak 147 méter magas, meredek lejtői miatt a leginkább 'hegynek' látszó domb Dániában. A 19. század közepéig az ország legmagasabb pontjának hitték, és a dán nemzeti ébredés egyik szimbolikus helyszíne lett. A domb tetejéről lenyűgöző kilátás nyílik a Julsø tóra és a környező hatalmas, zöld erdőségekre, amelyeket a Gudenå folyó szel át. A csúcson egy 25 méter magas téglatorony áll, amelyet VII. Frigyes dán király tiszteletére emeltek az 1849-es dán alkotmány megadásáért. A Himmelbjerget ma a dánok kedvelt túrázó- és kirándulóhelye. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Himmelbjerget, meaning 'The Sky Mountain', is one of Denmark's most famous and beloved hills, located near Silkeborg in the Lake District. Rising steeply 147 meters above the shimmering Julsø lake, it offers a stunning, dramatic profile against the surrounding forests. Historically, it became a focal point for Danish national romanticism in the 19th century, hosting large public meetings to celebrate democracy and national identity. The summit is crowned by a striking red brick tower built to honor King Frederik VII and his role in establishing the Danish constitution. Himmelbjerget remains a quintessential destination for hiking and admiring Denmark's natural beauty."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Steen Steensen Blicher dán író 1839-től népgyűléseket ('Himmelbjergfest') szervezett itt a nemzeti egység erősítésére.",
-        "A csúcson lévő emléktoronyba fel lehet mászni, ami további magasságot ad a kilátásnak.",
-        "A Silkeborgból induló régi, lapátkerekes gőzhajóval (Hjejlen) közvetlenül a hegy lábához lehet hajózni.",
-        "A Himmelbjerget környéki tavak a dán tóvidék legmélyebb és legtisztább vizű tavai közé tartoznak."
-      ],
-      ro: [],
-      en: ["Despite its name, Himmelbjerget is not a true mountain, nor is it the highest point in Denmark.", "The prominent 25-meter tower at the top was erected in 1875 to commemorate King Frederik VII.", "For many years until 1847, it was widely, though incorrectly, believed to be the highest point in Denmark.", "The hill has been a traditional gathering place for democratic movements and constitution celebrations since the 1830s."]
-    },
-    facts: {
-      en: ["Himmelbjerget is one of Denmark's best-known viewpoints.", "It is located near Silkeborg.", "The site overlooks lakes and forested hills.", "It has long been a popular excursion destination.", "The hill is a symbol of central Jutland scenery."],
-      de: ["Himmelbjerget ist einer der bekanntesten Aussichtspunkte Dänemarks.", "Er liegt bei Silkeborg.", "Der Ort überblickt Seen und bewaldete Hügel.", "Er ist seit Langem ein beliebtes Ausflugsziel.", "Der Hügel ist ein Symbol für die Landschaft Mitteljütlands."],
-      hu: ["A Himmelbjerget Dánia egyik legismertebb kilátópontja.", "Silkeborg közelében található.", "A hely tavakra és erdős dombokra néz.", "Régóta népszerű kirándulóhely.", "A domb Közép-Jütland tájának jelképe."],
-      ro: ["Himmelbjerget este unul dintre cele mai cunoscute puncte de belvedere din Danemarca.", "Se află lângă Silkeborg.", "Locul domină lacuri și dealuri împădurite.", "A fost de mult timp o destinație populară de excursie.", "Dealul este un simbol al peisajului din centrul Iutlandei."]
-    },
-    image: "/geo-images/denmark/himmelbjerget.webp",
-  },
-  {
-    id: "nat-arreso",
-    type: "lake",
-    parent: "DK",
-    coords: [12.05, 56.03],
-    name: { de: "Arresø", hu: "Arresø", ro: "Arresø", en: "Arresø" },
-    description: {
-      en: "Arreso is Denmark's largest lake and a practical SEO keyword for nature, birdlife, and quiet day trips in North Zealand. The lake has a calm, open character that fits well with walking routes, wetland scenery, and countryside relaxation. It is not as dramatic as a mountain or sea coast, but its scale and stillness make it memorable. Arreso is a good match for travelers looking for lakeside Denmark rather than urban landmarks.",
-      de: "Arresø ist Dänemarks größter See und ein praktisches SEO-Thema für Natur, Vogelwelt und ruhige Tagesausflüge im Norden Seelands. Der See hat einen ruhigen, offenen Charakter, der gut zu Wanderwegen, Feuchtgebietslandschaften und Erholung auf dem Land passt. Er ist nicht so dramatisch wie ein Berg oder eine Küste, aber seine Größe und Ruhe machen ihn unvergesslich. Arresø ist eine gute Wahl für Reisende, die das Seengebiet Dänemarks statt städtischer Wahrzeichen suchen.",
-      hu: "Az Arresø Dánia legnagyobb tava, és praktikus SEO-kulcsszó a természet, a madárvilág és az észak-sjællandi nyugodt egynapos kirándulások témájában. A tó csendes, nyitott karaktere jól illik a túraútvonalakhoz, a vizes élőhelyekhez és a vidéki pihenéshez. Nem olyan drámai, mint egy hegy vagy tengerpart, de mérete és nyugalma emlékezetessé teszi. Az Arresø jó választás azoknak az utazóknak, akik vízparti Dániát keresnek városi nevezetességek helyett.",
-      ro: "Arresø este cel mai mare lac al Danemarcei și un cuvânt-cheie SEO practic pentru natură, păsări și excursii liniștite de o zi în nordul insulei Zealand. Lacul are un caracter calm și deschis, potrivit pentru trasee de mers, peisaje umede și relaxare la țară. Nu este la fel de dramatic ca un munte sau o coastă, dar dimensiunea și liniștea sa îl fac memorabil. Arresø este potrivit pentru călătorii care caută Danemarca de la malul lacului, nu repere urbane."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Arresø Észak-Sjællandban fekszik, és közel 40 négyzetkilométeres kiterjedésével Dánia legnagyobb tava. Bár a tó vize sekély, partjait gyönyörű nádasok, zöldellő mezők és erdők övezik, amelyek gazdag madárvilágnak nyújtanak otthont. A tavat a jégkorszak után eredetileg egy nyitott fjord alkotta, de a szárazföld fokozatos megemelkedése elzárta a tengertől. Az Arresø ma a Dán Nemzeti Park Kongernes Nordsjælland (Észak-Sjælland Királyai) része. A tó kiváló lehetőséget biztosít a nyugodt kenuzásra, kajakozásra és a természetközeli kikapcsolódásra. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Arresø is the largest lake in Denmark by area, situated in the scenic region of North Zealand. Originally, it was an open fjord connected to the Kattegat sea, but land uplift following the last Ice Age eventually sealed it off into a freshwater lake. Today, it spans an impressive 40 square kilometers and features highly irregular, forested shorelines. The lake and its surrounding wetlands provide a crucial habitat for a diverse range of bird species, including majestic sea eagles and cormorants. Boat tours offer a tranquil way to explore the lake's rich biodiversity and the peaceful, unspoiled nature of Zealand."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az Arresø átlagos mélysége mindössze 3 méter.",
-        "A tavat egy ember által ásott csatorna, az Frederiksværk-csatorna köti össze a Roskilde-fjorddal.",
-        "A tavon rendszeresen indítanak sétahajókat, amelyekről kormoránokat és tengeri sasokat lehet megfigyelni.",
-        "A tó körül kerékpárutak futnak, amelyek összekötik a környék történelmi városait."
-      ],
-      ro: [],
-      en: ["Arresø is officially the largest lake in Denmark by surface area, covering nearly 40 square kilometers.", "It was a saltwater fjord until the Stone Age, when geological land uplift isolated it from the sea.", "A canal was dug by soldiers in the 1700s to control the lake's water levels and prevent flooding.", "The lake area is a protected nature reserve, renowned for its significant populations of breeding and migratory birds."]
-    },
-    facts: {
-      en: ["Arreso is Denmark's largest lake.", "It lies in North Zealand.", "The lake is important for birdlife and wetlands.", "Its shoreline is suited to quiet outdoor visits.", "It is a good stop for nature-focused Denmark content."],
-      de: ["Arresø ist Dänemarks größter See.", "Er liegt im Norden Seelands.", "Der See ist wichtig für Vogelwelt und Feuchtgebiete.", "Sein Ufer eignet sich für ruhige Naturbesuche.", "Er ist ein guter Stopp für naturbezogene Dänemark-Inhalte."],
-      hu: ["Az Arresø Dánia legnagyobb tava.", "Észak-Sjællandban található.", "A tó fontos a madárvilág és a vizes élőhelyek szempontjából.", "Partvonala nyugodt természetjárásokra alkalmas.", "Jó megálló a természetközpontú dán tartalmakhoz."],
-      ro: ["Arresø este cel mai mare lac din Danemarca.", "Se află în nordul insulei Zealand.", "Lacul este important pentru păsări și zone umede.", "Malul său este potrivit pentru vizite liniștite în aer liber.", "Este o oprire bună pentru conținutul despre natura Danemarcei."]
-    },
-    image: "/geo-images/denmark/arreso.webp",
-  },
-  {
-    id: "nat-fureso",
-    type: "lake",
-    parent: "DK",
-    coords: [12.33, 55.78],
-    name: { de: "Furesø", hu: "Furesø", ro: "Furesø", en: "Furesø" },
-    description: {
-      en: "Fureso is a scenic lake near Copenhagen and a valuable SEO term for lakeside walks, swimming spots, and suburban nature escapes. It is prized for its clean water, recreational use, and easy access from the capital region. The lake fits perfectly into content about short escapes from Copenhagen without leaving North Zealand. Fureso is a strong choice for travelers who want water, greenery, and a relaxed outdoor break.",
-      de: "Furesø ist ein malerischer See nahe Kopenhagen und ein wertvolles SEO-Thema für Spaziergänge am Wasser, Bademöglichkeiten und naturnahe Ausflüge vor der Stadt. Er wird wegen seines sauberen Wassers, seiner Freizeitnutzung und der guten Erreichbarkeit aus der Hauptstadtregion geschätzt. Der See passt hervorragend zu Inhalten über kurze Ausflüge ab Kopenhagen, ohne Nordseeland zu verlassen. Furesø ist eine starke Wahl für Reisende, die Wasser, Grün und eine entspannte Pause im Freien suchen.",
-      hu: "A Furesø festői tó Koppenhága közelében, és értékes SEO-kulcsszó a vízparti séták, a fürdőhelyek és az elővárosi természetjárás témájában. Tiszta vizéről, rekreációs használatáról és a fővárosi régióból való könnyű elérhetőségéről ismert. A tó tökéletesen illik a Koppenhágából induló rövid kiruccanások témájához anélkül, hogy elhagynánk Észak-Sjællandot. A Furesø jó választás azoknak, akik vizet, zöldet és laza szabadtéri pihenést keresnek.",
-      ro: "Furesø este un lac pitoresc lângă Copenhaga și un termen SEO valoros pentru plimbări la malul apei, locuri de înot și evadări în natură din zona suburbană. Este apreciat pentru apa sa curată, utilizarea recreativă și accesul ușor din regiunea capitalei. Lacul se potrivește perfect în conținutul despre escapade scurte din Copenhaga fără a părăsi nordul insulei Zealand. Furesø este o alegere puternică pentru călătorii care vor apă, verdeață și o pauză relaxantă în aer liber."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Furesø Koppenhága északi elővárosai közelében található, és a régió legmélyebb tava, amely népszerű célpont a fővárosiak körében. A tó partjait sűrű, festői bükkerdők szegélyezik, mint például a Nørreskov, amelyek ősszel gyönyörű színkavalkáddal kápráztatják el a kirándulókat. A Furesø kristálytiszta vize nyáron kiváló fürdőhelyeket biztosít, a vitorlázók és evezősök számára pedig ideális feltételeket nyújt. A tó kulturális jelentőséggel is bír, partjain számos 19. századi dán művész és költő talált ihletet. A nyugalom és a természet közelsége miatt a Furesø igazi menedék a városi élet elől. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Furesø is the deepest lake in Denmark, located in the picturesque, wooded landscape north of Copenhagen. Plunging to a depth of nearly 38 meters, the lake is highly popular for sailing, kayaking, and recreational swimming. The surrounding area is characterized by lush beech forests, grand historic estates, and meandering hiking trails, making it a favorite retreat for city dwellers. The lake is connected to an intricate system of waterways, reflecting its glacial origins. Furesø beautifully encapsulates the tranquil, pristine nature that lies just a short distance from the bustling Danish capital."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Furesø maximális mélysége eléri a 38 métert, ami Dániában ritkaságnak számít.",
-        "A tó a koppenhágai 'zöld gyűrű' nevű kiterjedt zöldterület-hálózat központi eleme.",
-        "A tavon több kis kikötő és hajóklub is működik.",
-        "A tó melletti erdei ösvények a Hillerød felé vezető régi királyi útvonalak részei voltak."
-      ],
-      ro: [],
-      en: ["Furesø holds the title of Denmark's deepest lake, with a maximum depth of 37.7 meters.", "The lake covers a surface area of approximately 9.4 square kilometers.", "It is a highly popular area for recreational activities, including rowing, fishing, and hiking.", "The lake's water quality has dramatically improved in recent years due to extensive environmental restoration projects."]
-    },
-    facts: {
-      en: ["Fureso is close to Copenhagen.", "It is popular for recreation and swimming.", "The lake is known for clear water.", "It is part of the North Zealand lake landscape.", "It is a strong keyword for outdoor Denmark trips."],
-      de: ["Furesø liegt nahe Kopenhagen.", "Er ist beliebt für Erholung und Schwimmen.", "Der See ist für klares Wasser bekannt.", "Er gehört zur Seelandschaft Nordseelands.", "Er ist ein starkes Keyword für Outdoor-Reisen in Dänemark."],
-      hu: ["A Furesø Koppenhága közelében található.", "Népszerű pihenésre és úszásra.", "A tó tiszta vizéről ismert.", "Az észak-sjællandi tóvidék része.", "Erős kulcsszó a dán szabadtéri utazásokhoz."],
-      ro: ["Furesø este aproape de Copenhaga.", "Este popular pentru recreere și înot.", "Lacul este cunoscut pentru apa sa limpede.", "Face parte din peisajul lacustru din nordul insulei Zealand.", "Este un cuvânt-cheie puternic pentru excursiile în aer liber din Danemarca."]
-    },
-    image: "/geo-images/denmark/fureso.webp",
-  },
-  {
-    id: "nat-gudenaen",
-    type: "river",
-    parent: "DK",
-    coords: [9.7000, 56.1800],
-    name: { de: "Gudenå", hu: "Gudenå", ro: "Gudenå", en: "Gudenå" },
-    description: {
-      en: "The Gudenå is Denmark's longest river and a strong SEO keyword for river trips, canoeing, and scenic inland nature. It flows through central Jutland and links lakes, towns, and forested stretches into one continuous landscape. The river is widely used for kayaking and outdoor recreation, making it attractive for active travel content. Gudenå is one of the clearest natural symbols of inland Denmark.",
-      de: "Die Gudenå ist der längste Fluss Dänemarks und ein starkes SEO-Thema für Flussreisen, Kanufahren und landschaftliche Binnennatur. Sie fließt durch Mitteljütland und verbindet Seen, Städte und bewaldete Abschnitte zu einer durchgehenden Landschaft. Der Fluss wird häufig zum Kajakfahren und für Outdoor-Erholung genutzt, was ihn für aktive Reiseinhalte attraktiv macht. Die Gudenå ist eines der klarsten natürlichen Symbole des Binnenlands Dänemarks.",
-      hu: "A Gudenå Dánia leghosszabb folyója, és erős SEO-kulcsszó a folyóutakhoz, a kenuzáshoz és a festői beltéri természethez. Közép-Jütlandon folyik át, és tavakat, városokat valamint erdős szakaszokat köt össze egy folytonos tájban. A folyót széles körben használják kajakozásra és szabadtéri kikapcsolódásra, ezért jól működik az aktív utazási tartalmakban. A Gudenå a szárazföldi Dánia egyik legtisztább természeti szimbóluma.",
-      ro: "Gudenå este cel mai lung râu din Danemarca și un cuvânt-cheie SEO puternic pentru excursii pe râu, caiac și natură pitorească din interiorul țării. Curge prin centrul Iutlandei și leagă lacuri, orașe și porțiuni împădurite într-un peisaj continuu. Râul este folosit pe scară largă pentru caiac și recreere în aer liber, ceea ce îl face atractiv pentru conținutul de turism activ. Gudenå este unul dintre cele mai clare simboluri naturale ale Danemarcei continentale."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Gudenå Dánia leghosszabb és legbővizűbb folyója, amely több mint 150 kilométeren keresztül kanyarog Közép- és Kelet-Jütland lankás tájain. A folyó történelmileg kulcsfontosságú közlekedési és kereskedelmi útvonal volt, különösen a fakitermelés és a papíripar számára Silkeborg térségében. Ma a Gudenå egy igazi rekreációs paradicsom; csendes, tiszta vizén több ezer kenu- és kajaktúrázó evez végig minden nyáron. A folyó átszeli a dán tóvidéket, gyönyörű erdők, rétek és gazdag állatvilág mellett haladva el. A horgászok körében is népszerű, különösen a pisztráng- és lazacállománya miatt. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Gudenå is the longest river in Denmark, meandering over 150 kilometers through the scenic heart of the Jutland peninsula. It begins its journey in the rolling hills of Tinnet Krat and flows northward, passing through the beautiful Silkeborg Lakes before emptying into the Randers Fjord. Historically, the river was a vital artery for transportation and trade, moving goods like timber and agricultural produce. Today, the Gudenå is celebrated as a pristine recreational paradise, widely popular for multi-day canoeing trips, fishing, and nature camping. Its tranquil waters carve through some of the most idyllic and untouched landscapes in the country."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Gudenå forrása Tinnet Krat közelében található, és a Randers-fjordba ömlik.",
-        "Ez az egyetlen dániai folyó, amelyet mérete miatt egyesek 'folyamnak' (flod) is neveznek.",
-        "A folyó mentén található Tangeværket vízerőmű gátja az ország legnagyobb mesterséges tavát, a Tange-tavat hozta létre.",
-        "A középkorban szerzetesek építettek malmokat a folyó mentén, megalapozva a helyi ipart."
-      ],
-      ro: [],
-      en: ["Gudenå is Denmark's longest river, stretching approximately 158 kilometers.", "The river drops a total of 65 meters in elevation from its source to the sea.", "It features Denmark's largest hydroelectric power plant, the historic Tangeværket.", "The river basin is home to an incredible diversity of fish, making it a premier destination for angling."]
-    },
-    facts: {
-      en: ["Gudenå is Denmark's longest river.", "It runs through central Jutland.", "The river is popular for canoeing and kayaking.", "It connects several lakes and nature areas.", "It is a key inland nature landmark."],
-      de: ["Die Gudenå ist Dänemarks längster Fluss.", "Sie fließt durch Mitteljütland.", "Der Fluss ist beliebt zum Kanufahren und Kajakfahren.", "Er verbindet mehrere Seen und Naturgebiete.", "Er ist ein wichtiges Naturwahrzeichen im Binnenland."],
-      hu: ["A Gudenå Dánia leghosszabb folyója.", "Közép-Jütlandon halad át.", "Népszerű a kenuzás és kajakozás miatt.", "Több tavat és természeti területet köt össze.", "Fontos szárazföldi természeti jelkép."],
-      ro: ["Gudenå este cel mai lung râu din Danemarca.", "Curge prin centrul Iutlandei.", "Râul este popular pentru canoe și caiac.", "Leagă mai multe lacuri și zone naturale.", "Este un reper natural cheie al interiorului țării."]
-    },
-    image: "/geo-images/denmark/gudenaen.webp",
-  },
-  {
-    id: "nat-skern-aa",
-    type: "river",
-    parent: "DK",
-    coords: [8.6000, 56.0500],
-    name: { de: "Skjern Ł", hu: "Skjern Ł", ro: "Skjern Ł", en: "Skjern Ł" },
-    description: {
-      en: "Skjern A is one of Denmark's best-known river restoration stories and a useful SEO keyword for wetlands, birdlife, and western Jutland nature. The river and its surrounding landscape have been reshaped into a rich habitat that supports wildlife and outdoor exploration. It offers a quieter and more ecological contrast to the country's urban highlights. Skjern A is ideal for nature-focused content that wants a real Danish conservation success story.",
-      de: "Skjern Šist eine der bekanntesten Flussrenaturierungs-Geschichten Dänemarks und ein nützliches SEO-Thema für Feuchtgebiete, Vogelwelt und die Natur Westjütlands. Der Fluss und seine Umgebung wurden zu einem reichhaltigen Lebensraum umgestaltet, der Wildtiere und Naturerlebnisse unterstützt. Er bietet einen ruhigeren und ökologischeren Kontrast zu den städtischen Höhepunkten des Landes. Skjern Šist ideal für naturbezogene Inhalte, die eine echte dänische Erfolgsgeschichte im Naturschutz erzählen wollen.",
-      hu: "A Skjern ŠDánia egyik legismertebb folyó-helyreállítási története, és hasznos SEO-kulcsszó a vizes élőhelyek, a madárvilág és Nyugat-Jütland természete témájában. A folyót és környezetét gazdag élőhellyé alakították át, amely támogatja a vadon élő állatokat és a szabadtéri felfedezést. Csendesebb és ökológiaibb kontrasztot ad az ország városi csúcspontjaihoz képest. A Skjern Šideális a természetközpontú tartalomhoz, ha valódi dán természetvédelmi sikertörténetet szeretnénk bemutatni.",
-      ro: "Skjern Šeste una dintre cele mai cunoscute povești de restaurare a unui râu din Danemarca și un cuvânt-cheie SEO util pentru zone umede, păsări și natura din vestul Iutlandei. Râul și peisajul din jur au fost transformate într-un habitat bogat care susține fauna și explorarea în aer liber. Oferă un contrast mai liniștit și mai ecologic față de reperele urbane ale țării. Skjern Šeste ideal pentru conținutul axat pe natură care dorește o poveste autentică de succes a conservării daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Skjern Å Nyugat-Jütland legfontosabb folyója, amely vízhozamát tekintve a legnagyobb Dániában. A folyó különösen híres a 2000-es évek elején végrehajtott hatalmas természetvédelmi helyreállítási projektről. A 20. század közepén a folyót kiegyenesítették és a környező lápokat lecsapolták a mezőgazdaság számára, ami súlyos ökológiai károkat okozott. Később Dánia történetének legnagyobb környezetvédelmi beruházásával visszaadták a folyó eredeti, kanyargós medrét, újrateremtve a vizeslőhelyeket. Ma a Skjern Å völgye ismét gazdag madárvilágnak és különleges lazacpopulációnak ad otthont, a fenntartható tájgazdálkodás mintapéldája. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Skjern Å is the largest river in Denmark by water volume, flowing westward across Jutland to the Ringkøbing Fjord. During the 1960s, the river was heavily straightened and channelized for agricultural purposes, which severely damaged its delicate ecosystem. However, in one of Northern Europe's largest nature restoration projects, the river's natural meanders and surrounding wetlands were painstakingly recreated in the early 2000s. Today, the Skjern Å valley is a thriving, vibrant natural habitat, celebrated for its spectacular return of wildlife, including wild salmon and rare bird species. It stands as a profound testament to successful environmental conservation."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A folyó vízhozama torkolatánál eléri a másodpercenkénti 35 köbmétert.",
-        "A 'Skjern Å lazac' egy egyedi génállományú lazacfajta, amely csak ebben a folyóban él.",
-        "A folyó helyreállítási projektje közel 40 millió dollárba került, és 2200 hektárnyi területet érintett.",
-        "A folyó a Ringkøbing-fjordba ömlik, amely fontos pihenőhelye az Északi-tenger felé tartó vándormadaraknak."
-      ],
-      ro: [],
-      en: ["Skjern Å discharges more water into the sea than any other river in Denmark.", "The massive restoration project completed in 2003 cost roughly 280 million Danish kroner.", "The restoration successfully brought back the native, highly prized Skjern Å wild salmon.", "The river delta includes a unique, manually operated cable ferry for hikers and cyclists to cross."]
-    },
-    facts: {
-      en: ["Skjern A is a major river restoration success.", "It is located in western Jutland.", "The area is important for birds and wetlands.", "It offers quiet outdoor and ecological tourism.", "The river is a well-known conservation story."],
-      de: ["Skjern Šist ein großer Erfolg der Flussrenaturierung.", "Sie liegt in Westjütland.", "Das Gebiet ist wichtig für Vögel und Feuchtgebiete.", "Es bietet ruhigen Natur- und Ökotourismus.", "Der Fluss ist eine bekannte Naturschutzgeschichte."],
-      hu: ["A Skjern Šnagy sikerű folyó-rehabilitációs példa.", "Nyugat-Jütlandban található.", "A terület fontos a madarak és a vizes élőhelyek számára.", "Csendes természet- és ökoturizmust kínál.", "A folyó jól ismert természetvédelmi történet."],
-      ro: ["Skjern Šeste un mare succes de restaurare a râului.", "Se află în vestul Iutlandei.", "Zona este importantă pentru păsări și zone umede.", "Oferă turism liniștit în natură și ecologic.", "Râul este o poveste bine-cunoscută de conservare."]
-    },
-    image: "/geo-images/denmark/skjern-aa.webp",
-  },
-  {
-    id: "nat-aero",
-    type: "island",
-    parent: "DK",
-    coords: [10.4490, 54.8880],
-    name: { de: "Ærø", hu: "Ærø", ro: "Ærø", en: "Ærø" },
-    description: {
-      en: "Ærø is a charming Danish island and a strong SEO keyword for island hopping, seaside villages, and slow travel in the South Funen Archipelago. Its colorful harbor towns, cycling routes, and intimate scale make it especially appealing to visitors seeking a calm coastal escape. The island feels distinctly Danish in both landscape and rhythm, with a strong local identity. Ærø is a top choice for content about relaxed island experiences in Denmark.",
-      de: "Ærø ist eine charmante dänische Insel und ein starkes SEO-Thema für Inselhopping, Seedorfer und Slow Travel im Südfünischen Inselmeer. Ihre farbenfrohen Hafenstädtchen, Radwege und die intime Größe machen sie besonders attraktiv für Besucher, die einen ruhigen Küstenurlaub suchen. Die Insel wirkt sowohl in ihrer Landschaft als auch in ihrem Rhythmus unverkennbar dänisch und besitzt eine starke lokale Identität. Ærø ist eine Top-Wahl für Inhalte über entspannte Inselerlebnisse in Dänemark.",
-      hu: "Ærø bájos dán sziget és erős SEO-kulcsszó az island hopping, a tengerparti falvak és a lassú utazás témájában a Dél-Füneni szigetvilágban. Színes kikötővárosai, kerékpárútjai és meghitt mérete különösen vonzóvá teszik a nyugodt part menti kikapcsolódást keresők számára. A sziget tájában és ritmusában is kifejezetten dán, erős helyi identitással. Ærø kiváló választás a dániai laza szigeti élményekről szóló tartalmakhoz.",
-      ro: "Ærø este o insulă daneză fermecătoare și un cuvânt-cheie SEO puternic pentru island hopping, sate de coastă și slow travel în arhipelagul de sud al insulei Funen. Orașele sale-port colorate, traseele de bicicletă și scara intimă o fac deosebit de atractivă pentru vizitatorii care caută o evadare liniștită la malul mării. Insula se simte profund daneză atât în peisaj, cât și în ritm, cu o identitate locală puternică. Ærø este o alegere de top pentru conținutul despre experiențe relaxate pe insulele Danemarcei."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "Ærø egy idilli, képeslapba illő sziget a Dél-Füneni szigettengerben, amelyet gyakran Dánia legromantikusabb helyeként emlegetnek. A sziget elzártsága – híd nem köti össze a szárazfölddel, csak komppal megközelíthető – segített megőrizni egyedülálló, 18. századi atmoszféráját. Fővárosa, Ærøskøbing, szűk macskaköves utcáival és színes, rózsákkal befuttatott faházaival a dán mesevárosok mintaképe. A sziget lakói büszkék tengerészeti örökségükre és a fenntartható életmódra; a sziget energiaellátását nagyrészt szél- és napenergiából fedezik. A békés táj, a dombok és a tengerpartok mágnesként vonzzák a nyugalmat kereső párokat és túrázókat. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Ærø is an exceptionally charming and picturesque island located in the South Funen Archipelago. Untouched by large-scale modern development or major bridges, the island feels like a serene step back in time. The town of Ærøskøbing is often considered Denmark's fairy-tale town, famous for its impeccably preserved 18th-century half-timbered houses and cobblestone streets. The island's rolling landscape is dotted with historic windmills, old farmhouses, and vibrant coastal paths. Ærø is renowned for its maritime heritage, strong local community, and an enduring atmosphere of romance, making it one of the most popular wedding destinations in Northern Europe."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Ærøskøbing városképe olyan érintetlen, hogy 2002-ben elnyerte az Európa Nostra-díjat a kulturális örökség megőrzéséért.",
-        "A sziget Dánia legnépszerűbb esküvői célpontja, évente több ezer nemzetközi pár házasodik itt össze.",
-        "Ærø rendelkezik a világ egyik legnagyobb napkollektoros távfűtési rendszerével.",
-        "Marstal kikötővárosában található a Dán Tengerészeti Múzeum, amely bemutatja a sziget dicső tengerész múltját."
-      ],
-      ro: [],
-      en: ["Ærø is completely independent of bridges and can only be accessed via ferry.", "The town of Ærøskøbing features incredibly preserved architecture and won the Europa Nostra prize for cultural heritage.", "The island is a pioneer in renewable energy and operates one of the world's largest solar thermal power plants.", "Ærø's idyllic setting makes it an extraordinarily popular destination for international weddings."]
-    },
-    facts: {
-      en: ["Ærø is part of the South Funen Archipelago.", "It is known for colorful harbor towns.", "The island is popular for cycling and slow travel.", "Its scale makes it easy to explore.", "It is a classic Danish island getaway."],
-      de: ["Ærø gehört zum Südfünischen Inselmeer.", "Die Insel ist für ihre bunten Hafenstädte bekannt.", "Sie ist beliebt für Radfahren und Slow Travel.", "Ihre Größe macht sie leicht erkundbar.", "Sie ist ein klassisches dänisches Inselreiseziel."],
-      hu: ["Ærø a Dél-Füneni szigetvilág része.", "Színes kikötővárosairól ismert.", "Népszerű kerékpározásra és lassú utazásra.", "Mérete miatt könnyen bejárható.", "Klasszikus dán szigetes menedékhely."],
-      ro: ["Ærø face parte din arhipelagul de sud al insulei Funen.", "Este cunoscută pentru orașele sale portuare colorate.", "Este populară pentru ciclism și slow travel.", "Dimensiunea sa o face ușor de explorat.", "Este o escapadă insulară daneză clasică."]
-    },
-    image: "/geo-images/denmark/aero.webp",
-  },
-  {
-    id: "nat-gribskov",
-    type: "forest",
-    parent: "DK",
-    coords: [12.3120, 56.0040],
-    name: { de: "Gribskov", hu: "Gribskov", ro: "Gribskov", en: "Gribskov" },
-    description: {
-      en: "Gribskov is one of Denmark's largest forests and a valuable SEO keyword for hiking, woodland scenery, and North Zealand nature escapes. The forest's mix of trails, wildlife, and historic hunting landscapes makes it attractive for both short walks and longer outdoor days. It sits close enough to Copenhagen to work as a realistic nature break from the capital. Gribskov is a strong choice for readers who want classic Danish forest atmosphere.",
-      de: "Gribskov ist einer der größten Wälder Dänemarks und ein wertvolles SEO-Thema für Wandern, Waldlandschaften und Naturausflüge im Norden Seelands. Die Mischung aus Wegen, Tierwelt und historischen Jagdlandschaften macht ihn sowohl für kurze Spaziergänge als auch für längere Tage im Freien attraktiv. Er liegt nahe genug an Kopenhagen, um als realistische Naturoption von der Hauptstadt aus zu funktionieren. Gribskov ist eine starke Wahl für Leser, die klassische dänische Waldatmosphäre suchen.",
-      hu: "A Gribskov Dánia egyik legnagyobb erdeje, és értékes SEO-kulcsszó a túrázás, az erdei tájak és az észak-sjællandi természetközeli kiruccanások témájában. Ösvényei, élővilága és történelmi vadászterületei miatt rövid sétákra és hosszabb szabadtéri napokra is vonzó. Elég közel van Koppenhágához ahhoz, hogy reális természetes kiruccanás legyen a fővárosból. A Gribskov erős választás azoknak, akik klasszikus dán erdei hangulatot keresnek.",
-      ro: "Gribskov este una dintre cele mai mari păduri ale Danemarcei și un cuvânt-cheie SEO valoros pentru drumeții, peisaje de pădure și escapade în natură în nordul insulei Zealand. Amestecul de trasee, faună și peisaje istorice de vânătoare o face atractivă atât pentru plimbări scurte, cât și pentru zile lungi în aer liber. Este suficient de aproape de Copenhaga pentru a funcționa ca o pauză realistă în natură din capitală. Gribskov este o alegere bună pentru cititorii care vor atmosfera clasică a pădurilor daneze."},
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Gribskov Dánia negyedik legnagyobb erdeje, amely Észak-Sjælland szívében terül el, Hillerød és a Fredensborg-kastély közelében. Az erdő évszázadokon át a dán királyok kedvelt vadászterülete volt, és a különleges, csillag alakú vadászati útvonalak ma is jól láthatók a fák között. Hatalmas öreg tölgyek, csendes tavak és mocsaras tisztások jellemzik, amelyek számos ritka állatfajnak, köztük gímszarvasoknak és hollóknak nyújtanak menedéket. A Gribskov része a par force vadászati tájnak, amely 2015-ben felkerült az UNESCO Világörökségi listájára. Az erdő kiváló túra- és kerékpárútvonalakat kínál a természetbe vágyóknak. Földrajz K7 – Dánia földrajza és társadalma.",
-      ro: "",
-      en: "Gribskov is one of Denmark's largest and most historic forests, located in North Zealand just north of Hillerød. Originally serving as the royal hunting grounds for the Danish kings, the forest is steeped in history and folklore. The landscape features deep, ancient woodlands, hidden bogs, and the expansive Esrum Lake on its western edge. It forms part of the 'Par force hunting landscape in North Zealand', a UNESCO World Heritage site recognized for its geometric road network designed for hunting with hounds. Today, Gribskov offers a vast, tranquil sanctuary for wildlife and endless opportunities for hiking and exploration."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az erdő területe mintegy 5600 hektár, és az ország egyik legrégebbi védett erdeje.",
-        "A 'par force' vadászat egy francia eredetű vadászati stílus volt, ahol a kutyák kifáradásig űzték a szarvast, majd a király ölte meg a zsákmányt.",
-        "A Gribskovban található Dánia legnagyobb vadon élő gímszarvas populációja.",
-        "Az erdőben található az Esrum-tó, Dánia második legnagyobb tava."
-      ],
-      ro: [],
-      en: ["Gribskov is the fourth-largest forest in Denmark, covering approximately 5,600 hectares.", "It is a key component of the UNESCO World Heritage par force hunting landscape.", "The forest is home to Denmark's largest population of wild fallow deer.", "A section of the forest contains a historic stud farm for breeding purebred Frederiksborg horses."]
-    },
-    facts: {
-      en: ["Gribskov is one of Denmark's largest forests.", "It is located in North Zealand.", "The forest is popular for hiking and biking.", "It has a long history as a hunting landscape.", "It is a major nature escape near Copenhagen."],
-      de: ["Gribskov ist einer der größten Wälder Dänemarks.", "Er liegt in Nordseeland.", "Der Wald ist beliebt zum Wandern und Radfahren.", "Er hat eine lange Geschichte als Jagdlandschaft.", "Er ist ein wichtiges Naturziel nahe Kopenhagen."],
-      hu: ["A Gribskov Dánia egyik legnagyobb erdeje.", "Észak-Sjællandban található.", "Az erdő népszerű túrázásra és kerékpározásra.", "Hosszú története van mint vadászati táj.", "Fontos természetes menekülőhely Koppenhága közelében."],
-      ro: ["Gribskov este una dintre cele mai mari păduri din Danemarca.", "Se află în nordul insulei Zealand.", "Pădurea este populară pentru drumeții și ciclism.", "Are o lungă istorie ca peisaj de vânătoare.", "Este o evadare majoră în natură aproape de Copenhaga."]
-    },
-    image: "/geo-images/denmark/gribskov.webp",
-  },
+ {
+ id: "nat-bornholm",
+ type: "landmark",
+ parent: "denmark",
+ coords: [14.9100, 55.1100],
+ name: { de: "Bornholm", hu: "Bornholm", ro: "Bornholm", en: "Bornholm" },
+ description: {
+ en: "Bornholm is a Danish island in the Baltic Sea, known for its unique geography, including rocky coastlines, sandy beaches, and lush forests. It is a popular destination for outdoor enthusiasts, offering excellent hiking, cycling, and sailing opportunities. The island is also famous for its round churches, medieval fortress ruins of Hammershus, and its vibrant arts and crafts scene, particularly ceramics and glassblowing.",
+ de: "Bornholm ist eine dänische Insel in der Ostsee, die für ihre einzigartige Geografie bekannt ist, darunter felsige Küsten, Sandstrände und üppige Wälder. Sie ist ein beliebtes Ziel für Outdoor-Enthusiasten und bietet hervorragende Möglichkeiten zum Wandern, Radfahren und Segeln. Die Insel ist auch berühmt für ihre Rundkirchen, die mittelalterlichen Festungsruinen von Hammershus und ihre lebendige Kunsthandwerksszene, insbesondere Keramik und Glasbläserei.",
+ hu: "Bornholm egy dán sziget a Balti-tengeren, amely egyedülálló földrajzáról ismert, beleértve a sziklás partokat, a homokos strandokat és a buja erdőket. A szabadtéri tevékenységek kedvelőinek népszerű úti célja, kiváló túrázási, kerékpározási és vitorlázási lehetőségeket kínál. A sziget híres körtemplomairól, Hammershus középkori várromjairól, valamint élénk művészeti és kézműves életéről, különösen a kerámiáról és az üvegfúvásról.",
+ ro: "Bornholm este o insulă daneză din Marea Baltică, cunoscută pentru geografia sa unică, incluzând coaste stâncoase, plaje cu nisip și păduri luxuriante. Este o destinație populară pentru pasionații de activități în aer liber, oferind oportunități excelente pentru drumeții, ciclism și navigație. Insula este, de asemenea, faimoasă pentru bisericile sale rotunde, ruinele cetății medievale Hammershus și scena sa vibrantă de artă și meșteșuguri, în special ceramică și suflarea sticlei."},
+ descriptionAdvanced: {
+ de: "Bornholm, die „Sonneninsel“ Dänemarks, liegt weit östlich in der Ostsee und bietet eine für das Land einzigartige Geologie. Während der Rest Dänemarks eher flach und sandig ist, beeindruckt Bornholm durch seine schroffen Granitklippen im Norden und feinsten Sandstrände wie Dueodde im Süden. Die Insel ist berühmt für ihre charakteristischen Rundkirchen, die mittelalterlichen Burgruinen von Hammershus und die traditionellen Fischräuchereien. Durch ihr mildes Klima gedeihen hier sogar Feigen und Maulbeeren, was der Insel ein fast mediterranes Flair verleiht. Bornholm ist ein Paradies für Radfahrer, Wanderer und Feinschmecker, die die hochwertige lokale Produktion schätzen. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "Bornholm egy lenyűgöző sziklasziget a Balti-tengerben, amely földrajzilag távolabb esik Dánia többi részétől, közelebb fekszik Svédországhoz és Lengyelországhoz. A 'napsütés szigeteként' is ismert Bornholm a dánok egyik kedvenc belföldi nyaralóhelye. Az északi partvonalat drámai gránitsziklák és a középkori Hammershus erőd romjai uralják, míg délen a finom homokos Dueodde strand található. A sziget híres egyedi kerek templomairól (rundkirker), amelyeket a középkorban nemcsak vallási, hanem védelmi célokra is építettek. Bornholm gasztronómiája, különösen a füstölt hering és a helyi kerámiaművészet szintén messze földön híres. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Mica, îndepărtata și faimoasa insulă stâncoasă Bornholm, așezată izolat adânc în pitorescul mediu maritim al Mării Baltice departe de continentul ei nordic, are un caracter absolut fascinant total unic care o separă și o face total diferită de fizionomia tradițională de câmpie uniformă lină a restului ținuturilor Danemarcei. Denumită frecvent în literatură și reviste ca faimoasa „Insula strălucitoare de Soare” datorită uimitorului său microclimat pur neobișnuit de uscat și cald extrem de însorit și relaxant vara, ea ademenește mereu iubitorii nordici pasionați total de mediul curat al naturii marine și de artele rafinate. Coasta nordică de relief dur este dominată vizual dur de faleze abrupte din granit de o rară frumusețe sălbatică tăioasă și de incredibilele ruine colosale magnifice de piatră faimoase denumite popular curând Castelul formidabil vechi de piatră masivă misterioasă numit popular la fel „Hammershus”. Bornholm mai este extrem de renumită clar printre gurmanzii continentului pentru afumătoriile ei spectaculoase vizuale unice locale vechi artizanale uriașe care prezintă mii de heringi aurii atârnați. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Bornholm, known affectionately as the 'Sunshine Island', is a spectacular Danish island located far east in the Baltic Sea, closer to Sweden than the Danish mainland. The island is renowned for its dramatic, rocky northern coastline and stunning white sandy beaches in the south, such as Dueodde. Bornholm features unique round churches (Rundkirker), historic smokehouses, and the imposing medieval ruins of Hammershus castle. The island enjoys a unique microclimate that fosters exceptional local agriculture and a thriving arts and crafts scene, particularly in ceramics and glassblowing. Bornholm represents a rugged, deeply charming contrast to the rest of the flat Danish landscape. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Bornholm besitzt die einzigen Felsklippen Dänemarks, die direkt aus dem Meer ragen.",
+ "Die Ruine Hammershus ist die größte mittelalterliche Festungsanlage Nordeuropas.",
+ "Die vier Rundkirchen der Insel dienten im Mittelalter sowohl als Gotteshäuser als auch als Schutzburgen.",
+ "Der Sand von Dueodde ist so fein, dass er früher in Sanduhren verwendet wurde."
+ ],
+ hu: [
+ "A szigeten található Hammershus Észak-Európa legnagyobb középkori erődromja.",
+ "Dueodde strandjának homokja olyan finom, hogy régen homokórák töltésére használták.",
+ "Bornholmon négy jellegzetes kerek templom áll, amelyeket a 12. században építettek.",
+ "A sziget Dánia egyetlen olyan része, ahol a jégkorszak előtti ősi gránitkőzet a felszínre bukkan."
+ ],
+ ro: ["Formidabilele și impunătoarele ruine mari lăsate pe munte de masivul castel puternic Hammershus compun efectiv cel mai lung, impresionant și masiv sistem total ruinat medieval supraviețuitor fortificat complet la nivel de Nord al întregii Europe.", "Faimoasa și uimitoarea rocă de mari dimensiuni stâncoasă grea masivă oscilantă uriașă masivă vizibil numită masiv pe bună dreptate „Rokkestenen” din pădurea verde Paradisbakkerne masivă gigantică gigantică verde poate fizic clar chiar și azi să fie mișcată lin grațios ușor extrem clar la simpla și corecta simplă presiune ușoară a unei singure forțe simple la mână.", "În prezent pe întreaga mică suprafață vastă verde a insulei retrase liniștite funcționează perfect pașnic zilnic vizual celebrele neprețuite de mii de ori fotografiate cele patru misterioase unice clădiri mari neprețuite albe rotunde faimoase antice biserici cilindrice masive groase cu funcție mare triplă fortificată secretă defensivă.", "Calitatea specială fină și moale naturală de renume a uriașelor dune cu finețe albă și mare finisaj cu pietriș fin și granulație pură cu nivel mărunt moale pur de nisip dur plajă sudică lungă liniștită plajă numită Dueodde este faimoasă din timpuri istorice bune încât curând multă vreme în istorie pe o perioadă s-a folosit natural numai acesta exclusiv fin folosit finisat pentru rafinate cronometre instrumentale pentru exact măsurarea timpului vechi cu fin instrument mare clepsidră de lemn pur.", "Aproape absolut cu toții mari pasionați culinari masivi profesioniști experți o laudă pur și simplu considerabil mereu și o recunosc culinar ca patria de bază gastronomică și capitala principală recunoscută pur ca patria mică principală și capitala națională culinară rafinată a națiunii culinare de mii de pești buni heringi fumigați cunoscuți cu afecțiune istoric denumiți ca tradițional 'Sol over Gudhjem'."],
+ en: ["Bornholm is famously home to four distinct medieval round churches, originally built for both worship and defense.", "The ruins of Hammershus, perched on a rocky cliff, form the largest medieval fortress ruin in Northern Europe.", "The sand at Dueodde beach is so incredibly fine that it was historically used to fill hour-glasses.", "Bornholm has the most hours of sunshine of any region in Denmark, supporting a unique local ecology."]
+ },
+ facts: {
+ en: ["Bornholm is known as the 'Sunshine Island' of Denmark.","The island has four unique medieval round churches.","Hammershus is Northern Europe's largest medieval fortress ruin.","Bornholm is famous for its smoked herring, a local delicacy."],
+ de: ["Bornholm ist als die 'Sonneninsel' Dänemarks bekannt.","Die Insel besitzt vier einzigartige mittelalterliche Rundkirchen.","Hammershus ist Nordeuropas größte mittelalterliche Festungsruine.","Bornholm ist berühmt für seinen Räucherhering, eine lokale Spezialität."],
+ hu: ["Bornholm Dánia 'Napsütötte szigeteként' ismert.","A szigeten négy egyedülálló középkori körtemplom található.","Hammershus Észak-Európa legnagyobb középkori várromja.","Bornholm híres a füstölt heringről, amely helyi különlegesség."],
+ ro: ["Bornholm este cunoscută sub numele de 'Insula Soarelui' a Danemarcei.","Insula are patru biserici rotunde medievale unice.","Hammershus este cea mai mare ruină de cetate medievală din Europa de Nord.","Bornholm este faimoasă pentru heringul afumat, o delicatesă locală."]
+ },
+ image: "/geo-images/denmark/bornholm.webp",
+ }
+ ,
+ {
+ id: "nat-rabjerg-mile",
+ type: "landmark",
+ parent: "denmark",
+ coords: [10.4311, 57.6772],
+ name: { de: "Råbjerg Mile", hu: "Råbjerg Mile", ro: "Råbjerg Mile", en: "Råbjerg Mile" },
+ description: {
+ en: "Råbjerg Mile is a massive migrating sand dune in northern Jutland and one of Denmark's most striking natural sights. Driven by wind, it slowly moves across the landscape and can feel almost desert-like despite the country's generally green scenery. The dune offers sweeping views and a dramatic reminder of the power of coastal nature.",
+ de: "Råbjerg Mile ist eine gewaltige wandernde Sanddüne im Norden Jütlands und eines der eindrucksvollsten Naturwunder Dänemarks. Vom Wind angetrieben bewegt sie sich langsam durch die Landschaft und wirkt trotz der sonst grünen Umgebung fast wüstenartig. Die Düne bietet weite Ausblicke und erinnert eindrucksvoll an die Kraft der Küstennatur.",
+ hu: "A Råbjerg Mile egy hatalmas, vándorló homokdűne Észak-Jütlandban, és Dánia egyik leglátványosabb természeti helyszíne. A szél hajtja, lassan mozog a tájon, és a többnyire zöld környezet ellenére szinte sivatagi hangulatot áraszt. A dűne széles panorámát kínál, és látványosan mutatja a partvidéki természet erejét.",
+ ro: "Råbjerg Mile este o uriașă dună de nisip în mișcare din nordul Iutlandei și unul dintre cele mai spectaculoase peisaje naturale ale Danemarcei. Determinată de vânt, se deplasează lent prin peisaj și aproape că dă impresia unui deșert, în ciuda cadrului în mod normal verde. Duna oferă priveliști largi și amintește dramatic de puterea naturii de coastă."},
+ descriptionAdvanced: {
+ de: "Die Råbjerg Mile an der Nordspitze Jütlands ist die größte Wanderdüne Nordeuropas und ein beeindruckendes Naturschauspiel. Diese riesige Sandmasse bewegt sich durch die starken Westwinde jedes Jahr etwa 15 Meter in Richtung Nordosten und begräbt dabei alles unter sich, was ihr im Weg steht. Die Düne umfasst eine Fläche von etwa zwei Quadratkilometern und erreicht Höhen von bis zu 40 Metern, was den Besuchern das Gefühl gibt, in einer echten Wüste zu stehen. Die Råbjerg Mile ist ein geschütztes Naturdenkmal, das die gewaltige Kraft der Natur und die ständigen Veränderungen der dänischen Küstenlandschaft verdeutlicht. Ein Spaziergang auf dem weichen Sand bietet spektakuläre Ausblicke über das Kattegat und Skagen. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A Råbjerg Mile Dánia és Észak-Európa legnagyobb vándorló homokdűnéje, amely a Jütland-félsziget legészakibb részén, Skagen közelében található. Ez a mintegy 40 méter magas és hatalmas kiterjedésű homoktömeg a folyamatos nyugati szelek hatására évente körülbelül 15 métert halad kelet felé. A táj kietlen, sivatagi hangulatot áraszt, éles ellentétben a környező zöld erdőkkel és lápokkal. Míg Dánia más részein a 19. században fákat ültettek a homokvándorlás megállítására, a Råbjerg Mile-t szándékosan szabadon hagyták, hogy a jövő generációi is megcsodálhassák ezt a különleges természeti erőt. A dűne lenyűgöző látványt nyújt, és a látogatók szabadon megmászhatják a homokhegyeket. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Impresionanta întindere mare enormă masivă gigantică de nisip migrator și faimos denumită oficial și mereu Råbjerg Mile constituie indubitabil cea mai spectaculoasă și gigantică vastă fină și înaltă masivă și teribil de fină impresionantă uriașă vastă uriașă unică dune colosal masivă complet albă uluitoare masivă plină mereu mișcătoare formată total complet alb din nisipuri albe zburătoare migrate activ constant situate geografic strategic pe partea cu vest vestică mare sălbatică tăioasă de uscat peninsular cel mai de sus cap nordic dur din coasta extrem vestică a teritoriului complet al marii regiuni nordice izolate de platou masiv Iutlanda din regatul mare verde danez. Acest uimitor rar teribil și neîblânzit absolut de om și formidabil peisaj arid extrem imens cu profil colosal arid deșertic spectaculos unic spectaculos colosal mișcător uluitor masiv în mare schimbare continuă teribilă vizual deplasându-se progresiv continuu an de an dur prin intermediul bătăii grele și suflului cu forță constant extrem a temutului curent mare extrem și uluitor uimitor curent mare agresiv și furtunos ascuțit de vânt intens furtunos nordic, acoperind dur lent și dur înghițind masiv progresiv prin nisipuri orice tip dur vegetație dură aspră plantată forestieră pini uluitori ce îndrăznește greu efectiv măcar total puțin deodată neapărat cumva vag măcar fizic clar să îi stea fizic constant mare total complet pasiv complet pasiv fizic greu deloc o fărâmă masivă măcar puțin fizic clar în fața căii grele sale implacabile. Este, metaforic, ultimul ecosistem pur complet neatins total pe scară uluitoare mare pe plan intern național complet danez de control masiv, o rezervă naturală magică și total specială ce uluiește privirile pasionaților. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Råbjerg Mile is a spectacular migrating coastal dune located in the very north of Jutland. Formed on the western coast in the 16th century during the great sand drift, it is the largest moving sand dune in Northern Europe. Containing approximately 3.5 million cubic meters of sand, it creeps eastward at a rate of 15 meters per year, driven by the powerful prevailing winds. The massive, undulating landscape of the dune offers an almost desert-like, otherworldly experience. Unlike other dunes in Denmark, Råbjerg Mile was deliberately left unplanted to allow future generations to witness the awesome power of natural sand migration. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Råbjerg Mile enthält etwa 3,5 Millionen Kubikmeter Sand.",
+ "In etwa 100 bis 200 Jahren wird die Düne voraussichtlich die Hauptstraße nach Skagen erreichen.",
+ "Die Düne entstand während der großen Sandfluchten des 16. und 17. Jahrhunderts.",
+ "Es ist eines der wenigen Gebiete Dänemarks, in denen die natürliche Sandwanderung bewusst nicht gestoppt wird."
+ ],
+ hu: [
+ "A dűne több mint 3,5 millió köbméter homokból áll, és kiterjedése eléri az egy négyzetkilométert.",
+ "A Råbjerg Mile várhatóan a 22. század végére eléri a keleti partot, és belevész a Kattegat tengerbe.",
+ "A dűne vándorlása során elnyeli az útjába eső fákat, amelyek évtizedekkel később a túloldalon bukkannak fel újra, kiszáradva.",
+ "A terület 1900 óta szigorú természetvédelmi oltalmat élvez."
+ ],
+ ro: ["Faimoasa formă masivă duna teribilă enormă unică uluitoare deplasată în principal mișcă constant pur masiv colosal neîncetat anual uluitor aproximativ la nivel enorm estimat masiv enorm mare vizibil cam uriaș minim constant sigur uluitor la rata anuală 15 de mii metri pătrați lungime dură estic continuu pe metru mare curat direcție direcția strict spre punctul total nord-est mare.", "Rezerva gigantică impresionantă imensă mare suprafață fizică a cantității nisipoase uriașe masive pure deține masiv colosal oficial vizibil în totalitate incredibila cifră extrem uriașă cifră dur masivă estimată la proporția astronomic uriaș masiv astronomic estimat clar estimat masiv incredibil a masivului număr uluitor precis volum aproximativ de patru un sfert total sute milioane metrice uriașe complet cantitativ pure de pur fin metru pur metric cubi masivi plini doar cubi tari plini mari rotunzi fini clari metrici exclusivi cu cu cubi fini de nisip uscat gros uluitor mișcător.", "Guvernul rațional clar masiv conștient prudent complet absolut logic și decident și perfect prudent modern responsabil ecologic clar statal responsabil verde modern central danez special inteligent ecologist logic masiv național conștient responsabil statal logic inteligent clar guvernamental a oprit masiv intenționat total logic precis perfect orice fel de procedură sau tentativă falsă dură masiv a blocat constant a oprit clar pur simplu stopat absolut complet clar oricare măcar pur și simplu clar deloc deloc efort orice efort simplu minim absolut vreun minim oricare tentativă masiv curaj complet pentru a controla planta plante de pin masiv stabilizatoare sau bariere false protecție fixare simplu artificiale dure false în jurul zonei ei de bază dur fixare baze masive centrale uriașe mari grele lungi și izolate tocmai simplu doar exact direct așadar doar absolut fix așadar simplu clar pentru a lăsa pur naturii dure șansa pur să își uluitor completeze ciclul vizual ecologic pur masiv spectaculos vizual lung lăsat.", "Uimitoarea plajă deșertică masivă mișcătoare uriașă dună are fizic clar profilul pur uriaș masiv colosal colosal cu înălțimea înălțată cu forma teribilă masivă ce fizic ajunge colosal absolut impresionant maxim uriaș fizic curat pur incredibil uriaș la punctul clar vârful vizual imens uriaș de sus curat curat punctul culme punctul clar uluitor uimitor uriaș uluitor înălțat impresionant cu uluitor vârful imens masiv pur înalt masiv de incredibila cotă colosal estimată oficial dur stabil absolut oficial fix clar măsurat fizic a cotei cota curat dură a exact a aproximativ incredibila stabil măsurat a impresionanta limită oficial măsurat aproximativ cu oficial la de măsurată valoare la incredibila 40 curat dur total simplu 40 incredibili vizibili 40 fizici m masivi clar masiv simplu mari înălțimi înălțime masivi metri reali mari de deasupra cu clar măsurat nivel la deasupra simplu a sol mare.", "Acest punct neobișnuit absolut peisaj a inspirat frecvent numeroase de decoruri dure producții daneze cinematografice ca simplu colosal substitut vizual așezare fals dur de mare deșert arid."],
+ en: ["Råbjerg Mile is the largest migrating sand dune in Northern Europe.", "The dune moves an average of 15 meters eastward across the Jutland peninsula every year.", "It contains an estimated 3.5 million cubic meters of pure, shifting sand.", "The Danish government purchased the dune in 1900 specifically to preserve it as an active natural monument."]
+ },
+ facts: {
+ en: ["Råbjerg Mile is a moving sand dune.", "It shifts about 15 meters per year on average.", "The dune is among the largest in Northern Europe.", "It is protected as a natural monument."],
+ de: ["Råbjerg Mile ist eine wandernde Sanddüne.", "Sie verschiebt sich im Durchschnitt etwa 15 Meter pro Jahr.", "Die Düne gehört zu den größten in Nordeuropa.", "Sie steht unter Naturschutz als Naturdenkmal."],
+ hu: ["A Råbjerg Mile vándorló homokdűne.", "Évente átlagosan körülbelül 15 métert mozdul el.", "Európa északi részének egyik legnagyobb dűnéje.", "Természeti emlékként védett."],
+ ro: ["Råbjerg Mile este o dună de nisip în mișcare.", "Se deplasează în medie cu aproximativ 15 metri pe an.", "Este printre cele mai mari dune din nordul Europei.", "Este protejată ca monument natural."]
+ },
+ image: "/geo-images/denmark/rabjerg-mile.webp",
+ },
+ {
+ id: "nat-skagen",
+ type: "landmark",
+ parent: "denmark",
+ coords: [10.6, 57.7281],
+ name: { de: "Skagen", hu: "Skagen", ro: "Skagen", en: "Skagen" },
+ description: {
+ en: "Skagen sits at the northern tip of Jutland, where Denmark meets the meeting point of two seas. The area is famous for its bright light, wide beaches, and dramatic dunes that have long attracted artists and travelers. It is a place where the landscape feels open, wind-swept, and closely tied to the sea.",
+ de: "Skagen liegt an der Nordspitze Jütlands, wo Dänemark am Treffpunkt zweier Meere liegt. Die Gegend ist berühmt für ihr helles Licht, breite Strände und dramatische Dünen, die seit Langem Künstler und Reisende anziehen. Es ist ein Ort, an dem die Landschaft offen, vom Wind geprägt und eng mit dem Meer verbunden wirkt.",
+ hu: "Skagen Jütland északi csúcsán fekszik, ahol Dánia a két tenger találkozási pontjánál ér véget. A terület híres a különleges fényéről, a széles strandokról és a drámai dűnékről, amelyek régóta vonzzák a művészeket és az utazókat. Olyan hely, ahol a táj nyitott, szeles és szorosan kapcsolódik a tengerhez.",
+ ro: "Skagen se află în vârful nordic al Iutlandei, acolo unde Danemarca întâlnește punctul de întâlnire al două mări. Zona este faimoasă pentru lumina sa puternică, plajele largi și dunele spectaculoase care au atras de mult artiști și călători. Este un loc în care peisajul pare deschis, bătut de vânt și profund legat de mare."},
+ descriptionAdvanced: {
+ de: "Skagen ist der nördlichste Ort Dänemarks und berühmt für sein ganz besonderes Licht, das im 19. Jahrhundert die berühmten Skagen-Maler anzog. An der Spitze der Halbinsel, Grenen genannt, treffen die Wellen von Nordsee (Skagerrak) und Ostsee (Kattegat) sichtbar aufeinander – ein einzigartiges Naturschauspiel. Die Stadt selbst besticht durch ihre charakteristischen gelben Häuser mit roten Ziegeldächern und weißen Fensterrahmen. Skagen ist zudem ein bedeutender Fischereihafen und ein beliebtes Urlaubsziel für Segler und Kulturliebhaber. Die Kombination aus dramatischer Natur, reicher Kunstgeschichte und maritimem Charme macht Skagen zu einem der ikonischsten Orte Dänemarks. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "Skagen Dánia legészakibb városa, ahol a Jütland-félsziget egy elkeskenyedő homoknyelvben, a Grenenben végződik. Itt, a Grenen-foknál találkozik egymással a Skagerrak (Északi-tenger) és a Kattegat (Balti-tenger), amelynek összecsapó hullámai lenyűgöző és ritka tengeri jelenséget alkotnak. Skagen a 19. század végén vált híressé, amikor a különleges fényviszonyok és a vad táj idevonzotta a skageni festők néven ismert művészcsoportot. A város sárgára festett, piros tetős házai, hangulatos kikötője és a tengeri halászat hagyományai ma is meghatározzák arculatát. A homokdűnék által betemetett régi templom (Den Tilsandede Kirke) tornya drámai mementója a természet erejének. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Skagen este cel mai nordic punct al Danemarcei, un loc fascinant unde apele M??rii Nordului ??i ale M??rii Baltice se ??nt??lnesc ??n mod spectaculos la Grenen. Aceast?? peninsul?? de nisip ofer?? un spectacol natural unic, vizibil prin valurile care se ciocnesc din direc??ii opuse. Ora??ul este celebru pentru lumina sa special??, care a atras ??n secolul al XIX-lea grupul de \"Pictori din Skagen\", mae??tri ai impresionismului nordic. Peisajul este dominat de dune de nisip mi??c??toare, plaje nesf??r??ite ??i case galbene pitore??ti cu acoperi??uri ro??ii. Este o destina??ie esen??ial?? pentru cei care caut?? frumuse??ea s??lbatic?? a naturii ??i istoria artistic?? a peninsulei Iutlanda. Biologie K7 ??? Fauna ??i ecosistemele Danemarcei.",
+ en: "Skagen is a captivating town at the absolute northernmost tip of Jutland, renowned for its incredible light, wild nature, and artistic heritage. At the very end of Skagen lies Grenen, a dramatic sandy spit where the Skagerrak and Kattegat seas visibly clash together in turbulent waves. In the late 19th century, the area's unique luminescence and rugged beauty attracted a famous colony of impressionist painters known as the Skagen Painters. The town is characterized by its distinct yellow houses with white-edged roofs, vibrant harbor, and historic lighthouses. Skagen perfectly embodies the raw, elemental power of the Danish coastline. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "In Grenen ist das Baden streng verboten, da die gegensätzlichen Strömungen lebensgefährlich sind.",
+ "Die 'Versunkene Kirche' (Den Tilsandede Kirke) bei Skagen wurde im 18. Jahrhundert vom Flugsand begraben.",
+ "Skagen ist der größte Fischereihafen Dänemarks, gemessen an der angelandeten Menge.",
+ "Die Skagens-Maler machten den Ort zu einer der bedeutendsten Künstlerkolonien Europas."
+ ],
+ hu: [
+ "A Grenen-foknál a látogatók szó szerint két tengerben állhatnak egyszerre, ha a két lábukkal a hullámok találkozásához lépnek.",
+ "A Skageni Múzeum őrzi a híres dán impresszionista festők, például P.S. Krøyer és Anna Ancher legszebb alkotásait.",
+ "A skageni Világítótorony (Det Grå Fyr) Dánia egyik legmagasabb világítótornya, 46 méteres magasságával.",
+ "A terület évente több százezer vándormadár fontos pihenőhelye a tavaszi vonulás során."
+ ],
+ ro: [
+ "Grenen este punctul exact unde Skagerrak și Kattegat se unesc, fiind interzis înotul din cauza curenților extrem de puternici.",
+ "Biserica Îngropată (Den Tilsandede Kirke) a fost abandonată în 1795 din cauza dunelor de nisip care o acopereau constant.",
+ "Skagen primește cea mai mare cantitate de lumină solară din Danemarca, fapt ce explică popularitatea sa istorică printre artiști.",
+ "Farul Gri din Skagen este al doilea cel mai înalt far din țară, oferind o panoramă vastă asupra celor două mări."
+ ],
+ en: ["At Grenen, visitors can stand with one foot in the Skagerrak Sea and the other in the Kattegat Sea.", "The intense, natural light in Skagen inspired the famous group of impressionist artists called the Skagen Painters.", "The Sand-Covered Church (Den Tilsandede Kirke) near Skagen was buried by migrating dunes, leaving only the tower visible.", "Skagen is Denmark's northernmost town and a premier destination for observing bird migrations."]
+ },
+ facts: {
+ en: ["Skagen is known for the meeting of the North Sea and Baltic Sea.", "The region inspired the Skagen Painters.", "Its light is famous among artists.", "The coastline features long sandy beaches and dunes."],
+ de: ["Skagen ist bekannt als Treffpunkt von Nord- und Ostsee.", "Die Region inspirierte die Skagen-Maler.", "Ihr Licht ist bei Künstlern berühmt.", "Die Küste hat lange Sandstrände und Dünen."],
+ hu: ["Skagen arról ismert, hogy itt találkozik az Északi- és a Balti-tenger.", "A vidék inspirálta a skageni festőket.", "A fénye híres a művészek körében.", "A partvonalat hosszú homokos strandok és dűnék jellemzik."],
+ ro: ["Skagen este cunoscut pentru întâlnirea Mării Nordului cu Marea Baltică.", "Regiunea i-a inspirat pe pictorii din Skagen.", "Lumina sa este faimoasă printre artiști.", "Coasta are plaje lungi cu nisip și dune."]
+ },
+ image: "/geo-images/denmark/skagen.webp",
+ },
+ {
+ id: "nat-mons-klint",
+ type: "landmark",
+ parent: "denmark",
+ coords: [12.543, 54.9667],
+ name: { de: "Møns Klint", hu: "Møns Klint", ro: "Møns Klint", en: "Møns Klint" },
+ description: {
+ en: "Møns Klint is a dramatic white chalk cliff on the island of Møn, rising above the Baltic Sea. The cliffs are among Denmark's most spectacular landscapes, with steep faces, forested slopes, and clear sea views. The area is popular for hiking and for its striking contrast between bright chalk and deep blue water.",
+ de: "Møns Klint ist eine dramatische weiße Kreideklippe auf der Insel Møn, die sich über die Ostsee erhebt. Die Klippen gehören zu Dänemarks spektakulärsten Landschaften mit steilen Wänden, bewaldeten Hängen und weitem Blick auf das Meer. Das Gebiet ist beliebt zum Wandern und für den starken Kontrast zwischen heller Kreide und tiefblauem Wasser.",
+ hu: "A Møns Klint egy drámai fehér krétaszikla Møn szigetén, amely a Balti-tenger fölé magasodik. A sziklák Dánia egyik leglátványosabb táját alkotják, meredek falakkal, erdős lejtőkkel és tiszta tengeri kilátással. A terület népszerű túrázásra, és lenyűgöző kontrasztot mutat a világos kréta és a sötétkék víz között.",
+ ro: "Møns Klint este o faleză dramatică de cretă albă pe insula Møn, ridicându-se deasupra Mării Baltice. Stâncile se numără printre cele mai spectaculoase peisaje ale Danemarcei, cu pereți abrupți, pante împădurite și priveliști clare către mare. Zona este populară pentru drumeții și pentru contrastul izbitor dintre creta albă și apa albastru intens."},
+ descriptionAdvanced: {
+ de: "Møns Klint auf der Insel Møn ist eine der spektakulärsten Naturattraktionen Dänemarks. Die strahlend weißen Kreidefelsen ragen bis zu 128 Meter senkrecht aus der türkisblauen Ostsee empor und bieten einen dramatischen Kontrast zum grünen Buchenwald, der direkt an der Abbruchkante wächst. Die Felsen entstanden vor Millionen von Jahren aus den Resten mikroskopisch kleiner Algen und enthalten heute unzählige Fossilien, die man am Strand finden kann. Wanderwege entlang der Kante bieten atemberaubende Ausblicke, während steile Treppen hinunter zum Kieselstrand führen. Møns Klint ist nicht nur geologisch faszinierend, sondern auch Teil des ersten Dark Sky Parks Skandinaviens, wo man einen unvergleichlichen Sternenhimmel erleben kann. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A Møns Klint egy lélegzetelállító, fehér krétafal Møn szigetének keleti partján, amely drámaian, helyenként 128 méter magasan emelkedik ki a Balti-tenger kékeszöld vizéből. Ez a lenyűgöző geológiai képződmény mintegy 70 millió évvel ezelőtt alakult ki apró tengeri élőlények mészvázából, amelyet később a jégkorszak gleccserei toltak fel a felszínre. A sziklák tetején húzódó ősi bükkerdőkből falépcsők százai vezetnek le a kavicsos partra, ahol a szerencsés látogatók őskori fosszíliákat, például belemniteszeket találhatnak. A terület Dánia egyik legszebb és leginkább fotózott természeti látványossága, amely az UNESCO bioszféra-rezervátum része. A közeli GeoCenter interaktív módon mutatja be a krétafalak geológiai történetét. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Møns Klint reprezintă unul dintre cele mai dramatice și spectaculoase peisaje naturale din Danemarca, cu faleze de cretă albă care se ridică vertical până la 128 de metri deasupra Mării Baltice. Aceste formațiuni geologice s-au format acum milioane de ani din scheletele unor organisme microscopice marine, fiind ulterior modelate de ghețarii din ultima eră glaciară. Contrastul dintre albul strălucitor al cretei, pădurile verzi de fag de deasupra și albastrul intens al mării creează un tablou vizual de neuitat. Vizitatorii pot coborî pe plajă pe scări lungi pentru a căuta fosile sau pot parcurge traseele de drumeție de-a lungul marginii falezei. Este un sit de o importanță geologică excepțională și o destinație de top pentru ecoturism. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Møns Klint is a breathtaking geological wonder located on the eastern coast of the island of Møn. The site features dramatic, sheer white chalk cliffs that plunge up to 120 meters vertically into the turquoise waters of the Baltic Sea. Formed millions of years ago from the remains of microscopic sea creatures, the cliffs were thrust upwards during the last Ice Age. Visitors can descend long wooden staircases to hunt for ancient fossils along the stony beach below. The contrast between the brilliant white chalk, the green beech forests above, and the blue sea creates one of Denmark's most spectacular natural landscapes. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Møns Klint erstreckt sich über eine Länge von etwa sechs Kilometern entlang der Küste.",
+ "Die Kreideschichten sind etwa 70 Millionen Jahre alt und stammen aus der späten Kreidezeit.",
+ "Das GeoCenter Møns Klint bietet interaktive Ausstellungen zur Entstehung der Landschaft.",
+ "An klaren Tagen kann man von den Aussichtspunkten bis zur deutschen Küste blicken."
+ ],
+ hu: [
+ "A Møns Klint fehér sziklái évente átlagosan 2-4 centimétert kopnak a tenger és az időjárás eróziója miatt.",
+ "A sziklák legmagasabb pontját Dronningestolen-nek (Királynői szék) nevezik, amely 128 méter magas.",
+ "A terület egyike azon ritka dániai helyeknek, ahol a vándorsólyom fészkel.",
+ "A sziklákhoz vezető leghosszabb lépcsősor majdnem 500 fokból áll."
+ ],
+ ro: [
+ "Falezele se întind pe o distanță de aproximativ 6 kilometri de-a lungul coastei estice a insulei Møn.",
+ "GeoCenter Møns Klint este un muzeu modern situat lângă faleze, unde pot fi văzute fosile de dinozauri marini și alte creaturi antice.",
+ "Punctul cel mai înalt, Store Klint, atinge 128 de metri deasupra nivelului mării.",
+ "Zona este un habitat rar pentru mai multe specii de orhidee sălbatice, protejate prin lege."
+ ],
+ en: ["The chalk cliffs of Møns Klint reach a staggering height of 120 meters above sea level.", "The chalk was formed over 70 million years ago from the microscopic shells of algae in a tropical sea.", "The beach below the cliffs is one of the best places in Denmark to hunt for ancient fossils, such as belemnites and sea urchins.", "The surrounding area was designated as Denmark's first UNESCO Biosphere Reserve."]
+ },
+ facts: {
+ en: ["The cliffs rise up to 128 meters above sea level.", "Møns Klint is on the island of Møn.", "The area is a UNESCO Biosphere Reserve.", "It is one of Denmark's top hiking destinations."],
+ de: ["Die Klippen ragen bis zu 128 Meter über den Meeresspiegel auf.", "Møns Klint liegt auf der Insel Møn.", "Das Gebiet ist ein UNESCO-Biosphärenreservat.", "Es ist eines der beliebtesten Wanderziele Dänemarks."],
+ hu: ["A sziklák akár 128 méterre is a tengerszint fölé emelkednek.", "A Møns Klint Møn szigetén található.", "A terület UNESCO bioszféra-rezervátum.", "Dánia egyik legnépszerűbb túracélpontja."],
+ ro: ["Falezele se ridică până la 128 de metri deasupra nivelului mării.", "Møns Klint se află pe insula Møn.", "Zona este rezervație a biosferei UNESCO.", "Este una dintre cele mai bune destinații de drumeție din Danemarca."]
+ },
+ image: "/geo-images/denmark/mons-klint.webp",
+ },
+ {
+ id: "nat-wadden-sea",
+ type: "landmark",
+ parent: "denmark",
+ coords: [8.8, 55.3],
+ name: { de: "Wattenmeer", hu: "Wadden-tenger", ro: "Marea Wadden", en: "Wadden Sea" },
+ description: {
+ en: "The Danish Wadden Sea is a vast tidal wetland that forms part of the larger North Sea ecosystem. It is a UNESCO-listed nature area known for mudflats, salt marshes, migratory birds, and dramatic tidal changes. The landscape is open and remote, making it one of the most important coastal habitats in Europe.",
+ de: "Das dänische Wattenmeer ist ein ausgedehntes Gezeitenfeuchtgebiet und Teil des größeren Ökosystems der Nordsee. Es ist ein UNESCO-geschütztes Naturgebiet, bekannt für Schlickflächen, Salzwiesen, Zugvögel und starke Gezeitenwechsel. Die Landschaft ist offen und abgelegen und zählt zu den wichtigsten Küstenlebensräumen Europas.",
+ hu: "A dán Wadden-tenger hatalmas árapályos vizes élőhely, amely az Északi-tenger nagyobb ökoszisztémájának része. UNESCO által védett természeti terület, amely iszaplapályairól, sós mocsarairól, vonuló madarairól és drámai árapályváltozásairól ismert. A táj nyílt és távoli, ezért Európa egyik legfontosabb part menti élőhelye.",
+ ro: "Marea Wadden daneză este o vastă zonă umedă de maree, parte a ecosistemului mai mare al Mării Nordului. Este o zonă naturală listată UNESCO, cunoscută pentru mlaștinile de nămol, pajiștile sărate, păsările migratoare și schimbările dramatice ale mareei. Peisajul este deschis și izolat, fiind unul dintre cele mai importante habitate de coastă din Europa."},
+ descriptionAdvanced: {
+ de: "Der Nationalpark Wattenmeer (Vadehavet) an der dänischen Westküste ist eines der wertvollsten Ökosysteme der Welt und gehört zum UNESCO-Weltnaturerbe. Durch das Spiel von Ebbe und Flut entsteht eine einzigartige Landschaft aus Wattflächen, Prielen und Salzwiesen, die Millionen von Zugvögeln als lebenswichtiger Rastplatz dient. Besonders spektakulär ist das Naturphänomen der „Schwarzen Sonne“, wenn riesige Starenschwärme bei Sonnenuntergang in den Marschen tanzen. Die Inseln Rømø und Fanø bieten weite Sandstrände und traditionelle Seedörfer direkt im Nationalpark. Das Wattenmeer ist ein Ort, an dem man die Gezeiten hautnah erleben kann, sei es bei einer geführten Wattwanderung oder beim Beobachten von Seehunden. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A dán Wadden-tenger (Vadehavet) a Jütland délnyugati partja mentén elterülő egyedülálló árapálysíkság, amely az UNESCO Világörökség részét képezi. Ez a hatalmas, sekély tengeri ökoszisztéma Hollandiától egészen Dániáig húzódik, és a világ legnagyobb egybefüggő iszapos-homokos árapályrendszere. Naponta kétszer a tenger visszahúzódik, hatalmas iszapmezőket hagyva hátra, amelyek táplálékban rendkívül gazdagok. Ennek köszönhetően a Wadden-tenger több millió vándormadár, valamint nagyszámú borjúfóka elengedhetetlen élőhelye. Az apály idején a látogatók szervezett 'iszapsétákon' (mud flat walking) vehetnek részt, vagy osztrigát gyűjthetnek közvetlenül a tengerfenékről. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Marea Wadden (Vadehavet) este cel mai mare sistem ne??ntrerupt de zone intertidale de nisip ??i n??mol din lume, inclus ??n Patrimoniul Mondial UNESCO pentru valoarea sa ecologic?? inestimabil??. Aceast?? zon?? unic?? se ??ntinde de-a lungul coastei de vest a Danemarcei ??i este modelat?? de fluxul ??i refluxul zilnic, care creeaz?? un peisaj mereu schimb??tor. Este un punct de oprire critic pentru milioane de p??s??ri migratoare care traverseaz?? ruta est-atlantic?? pentru a se hr??ni ??i a se odihni. Parcul Na??ional Vadehavet ofer?? oportunit????i fascinante de explorare, de la safari cu foci p??n?? la observarea fenomenului \"Soarele Negru\" (Sort Sol). Este un loc unde natura ????i demonstreaz?? for??a brut?? ??i fragilitatea ??n acela??i timp. Biologie K7 ??? Fauna ??i ecosistemele Danemarcei.",
+ en: "The Wadden Sea (Vadehavet) is an extraordinary, unbroken system of intertidal sand and mudflats located along the southwestern coast of Jutland. It is part of the largest tidal flats system in the world, stretching down to Germany and the Netherlands. The area is incredibly dynamic, completely changing character with the massive tidal shifts that expose vast stretches of seabed. It serves as a crucial staging, wintering, and breeding area for millions of migratory birds. Recognized as a UNESCO World Heritage site and a National Park, the Wadden Sea is a vital sanctuary for exceptional biodiversity and natural preservation. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Das Wattenmeer ist das weltweit größte zusammenhängende System aus Sand- und Schlickflächen.",
+ "Zweimal täglich wird das Watt durch die Gezeiten überflutet und wieder freigegeben.",
+ "Der dänische Teil des Nationalparks umfasst eine Fläche von etwa 1.460 Quadratkilometern.",
+ "Etwa 10 bis 12 Millionen Zugvögel nutzen das Gebiet jedes Jahr als Rast- oder Brutstätte."
+ ],
+ hu: [
+ "Évente több mint 10-12 millió vándormadár pihen meg és táplálkozik a Wadden-tenger vidékén.",
+ "Itt figyelhető meg a 'Fekete Nap' (Sort Sol) nevű jelenség, amikor több százezer seregély repülése szinte elsötétíti az eget.",
+ "A dán Wadden-tenger Nemzeti Park az ország legnagyobb nemzeti parkja.",
+ "A terület homokpadjain található Dánia legnagyobb borjúfóka-populációja."
+ ],
+ ro: [
+ "Fenomenul Sort Sol implică sute de mii de grauri care zboară în formațiuni coordonate, întunecând cerul la apus.",
+ "În timpul refluxului, vizitatorii pot merge direct pe fundul mării pentru a culege stridii proaspete sau a observa micile creaturi marine.",
+ "Marea Wadden este casa celei mai mari populații de foci din Danemarca, vizibile adesea pe bancurile de nisip.",
+ "Zona este esențială pentru peste 10 milioane de păsări migratoare în fiecare an, fiind o resursă vitală de hrană."
+ ],
+ en: ["The Wadden Sea National Park is the largest national park in Denmark.", "It is a recognized UNESCO World Heritage site due to its unique geological and ecological significance.", "The area is famous for 'Sort Sol' (Black Sun), a stunning phenomenon where millions of starlings fly in synchronized murmuration.", "During low tide, visitors can walk directly on the exposed seabed to forage for Pacific oysters."]
+ },
+ facts: {
+ en: ["The Wadden Sea is a UNESCO World Heritage area.", "It is crucial for migratory birds.", "Tidal flats are exposed at low tide.", "The area stretches across several countries."],
+ de: ["Das Wattenmeer ist UNESCO-Welterbe.", "Es ist für Zugvögel von entscheidender Bedeutung.", "Bei Ebbe werden Wattflächen freigelegt.", "Das Gebiet erstreckt sich über mehrere Länder."],
+ hu: ["A Wadden-tenger UNESCO világörökségi terület.", "Kulcsfontosságú a vonuló madarak számára.", "Apály idején iszapos lapályok tárulnak fel.", "A terület több országon is átnyúlik."],
+ ro: ["Marea Wadden este sit UNESCO al Patrimoniului Mondial.", "Este esențială pentru păsările migratoare.", "La reflux apar suprafețe întinse de nămol.", "Zona se întinde peste mai multe țări."]
+ },
+ image: "/geo-images/denmark/wadden-sea.webp",
+ },
+ {
+ id: "nat-mollehøj",
+ type: "mountain",
+ parent: "DK",
+ coords: [9.8629, 56.0931],
+ name: { de: "Møllehøj", hu: "Møllehøj", ro: "Møllehøj", en: "Møllehøj" },
+ description: {
+ en: "Møllehøj is Denmark's highest natural point making it a popular choice for travelers searching for the country's top landscape viewpoint. Although it is more of a gentle hill than a dramatic mountain, it carries symbolic weight as the peak of Denmark's low-relief terrain. The site is surrounded by farmland and rolling countryside, which makes the climb easy and the scenery broad. Møllehøj is ideal for visitors who want a simple but memorable geography stop in central Jutland.",
+ de: "Møllehøj ist der höchste natürliche Punkt Dänemarks und ein hervorragendes Ziel für Reisende, die nach dem höchsten Aussichtspunkt des Landes suchen. Obwohl er eher ein sanfter Hügel als ein dramatischer Berg ist, hat er symbolisches Gewicht als Gipfel des flachen dänischen Reliefs. Die Umgebung besteht aus Feldern und sanfter Landschaft, was den Aufstieg leicht und die Aussicht weit macht. Møllehøj ist ideal für Besucher, die einen einfachen, aber einprägsamen Geografie-Stopp in Mitteljütland wollen.",
+ hu: "Møllehøj Dánia legmagasabb természetes pontja, így népszerű célpont azoknak az utazóknak, akik az ország legmagasabb kilátópontját keresik. Bár inkább gyengéd domb, mint drámai hegy, szimbolikus jelentősége nagy a dán alacsony domborzat csúcsaként. A környék mezőgazdasági területekkel és hullámzó vidékkel van körülvéve, ami könnyűvé teszi a megközelítést és szélessé a kilátást. Møllehøj ideális azoknak, akik egyszerű, de emlékezetes földrajzi megállót szeretnének Közép-Jütlandban.",
+ ro: "Møllehøj este cel mai înalt punct natural al Danemarcei fiind o destinație populară pentru călătorii care caută cel mai înalt punct de belvedere al țării. Deși este mai degrabă un deal blând decât un munte dramatic, are o greutate simbolică mare ca vârf al reliefului jos danez. Zona este înconjurată de terenuri agricole și de peisaj ondulat, ceea ce face urcarea ușoară și priveliștea amplă. Møllehøj este ideal pentru vizitatorii care vor o oprire geografică simplă, dar memorabilă în centrul Iutlandei."},
+ descriptionAdvanced: {
+ de: "Der Møllehøj ist mit einer Höhe von 170,86 Metern der höchste natürliche Punkt Dänemarks. Er liegt in den malerischen Ejer Bjerge in Jütland, einer Region, die für ihre sanften Hügel und fruchtbaren Böden bekannt ist. Lange Zeit galt der nahegelegene Ejer Bavnehøj als höchster Punkt, bis moderne Messungen dem Møllehøj den Titel zusprachen. Auf dem Gipfel befindet sich ein alter Mühlstein der ehemaligen Ejer-Mühle, die dem Ort seinen Namen gab. Die Umgebung bietet weite Ausblicke über die typisch dänische Agrarlandschaft und ist ein beliebtes Ziel für Wanderer und Radfahrer. Obwohl er im internationalen Vergleich niedrig erscheint, ist der Møllehøj ein wichtiger geografischer Meilenstein für die Dänen. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "A Møllehøj Dánia hivatalosan elismert legmagasabb természetes pontja, bár magassága – mindössze 170,86 méter a tengerszint felett – inkább mosolyt fakaszt a hegyvidéki országok turistáinak arcára. Kelet-Jütland lankás, mezőgazdasági dombvidékén található, egy régi szélmalom romjainak közvetlen közelében. Sokáig a szomszédos Yding Skovhøj-t vagy a Himmelbjerget-t hitték a legmagasabbnak, de a 2005-ös precíziós lézeres mérések egyértelműen a Møllehøj-t hozták ki győztesnek. A dombtetőről békés panoráma nyílik a dán vidékre. Bár nem nyújt alpesi élményt, a csúcs meghódítása népszerű és humoros kihívás a kerékpárosok és túrázók körében. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Møllehøj este recunoscut oficial ca fiind cel mai înalt punct natural din Danemarca, situat în dealurile line Ejerbjerge din estul Iutlandei. Cu o înălțime modestă de exact 170,86 metri deasupra nivelului mării, acest vârf ilustrează perfect topografia plată caracteristică peisajului danez. Locul este marcat de o piatră de moară simbolică, rest al unei mori de vânt care a funcționat aici până în 1917. Deși nu oferă drama vârfurilor montane din alte țări, peisajul înconjurător oferă vederi senine și largi peste terenurile agricole fertile. Identificarea sa ca punct culminant real în 2005 a pus capăt unei lungi dezbateri geografice în Danemarca. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Møllehøj is officially recognized as the highest natural point in Denmark, located in the gently rolling Ejerbjerge hills of eastern Jutland. Standing at a modest 170.86 meters above sea level, it perfectly illustrates the famously flat topography of the Danish landscape. The summit is marked by a simple millstone, a remnant of the Ejer windmill that once stood on the site until 1917. While it may lack the dramatic peaks of other nations, the surrounding landscape offers sweeping, serene views over the fertile farmland. Its discovery as the true highest point in 2005 settled a long-standing geographical debate in Denmark. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Møllehøj ist nur wenige Zentimeter höher als der benachbarte Yding Skovhøj.",
+ "Der höchste Punkt wurde erst im Jahr 2005 durch neue Messmethoden offiziell bestätigt.",
+ "Dänemark gehört zu den flachsten Ländern der Welt mit einer durchschnittlichen Höhe von nur 31 Metern.",
+ "Die Hügelkette entstand durch Ablagerungen während der letzten Eiszeit."
+ ],
+ hu: [
+ "A domb tetején található régi Ejer-malom maradványa egy malomkő, amely ma a csúcsot jelöli.",
+ "A szomszédos Yding Skovhøj ember alkotta bronzkori sírhalmokkal együtt magasabb lenne, de a természetes talajszintje alacsonyabb.",
+ "A csúcs olyannyira lapos, hogy egy tehénlegelő közepén helyezkedik el.",
+ "Mivel Dánia nagyrészt lapos, a 170 méteres magasságból tiszta időben akár 40-50 kilométerre is el lehet látni."
+ ],
+ ro: [
+ "Møllehøj a fost confirmat ca cel mai înalt punct natural al țării abia în 2005, în urma unor măsurători laser de precizie.",
+ "Numele se traduce prin \"Dealul Morii\", referindu-se la moara de vânt care a stat aici timp de aproape 80 de ani.",
+ "Se află la doar câțiva metri de Ejer Bavnehøj, un alt punct înalt marcat de un turn de observație istoric.",
+ "Datorită reliefului plat, în zilele senine, vizibilitatea de pe acest \"vârf\" poate ajunge până la 40-50 de kilometri."
+ ],
+ en: ["Møllehøj is the highest natural point in Denmark at exactly 170.86 meters above sea level.", "It officially claimed the title of Denmark's highest point only in 2005, after precise modern measurements were taken.", "The peak is situated just a few hundred meters from Ejer Bavnehøj, which was previously thought to be the highest point.", "The name Møllehøj translates to 'Mill Hill', referencing a windmill that operated there from 1838 to 1917."]
+ },
+ facts: {
+ en: ["Møllehøj is Denmark's highest natural point.", "It is located in central Jutland.", "The hill is part of the Ejer Bjerge area.", "Its elevation is modest by global standards.", "It is a classic geography stop for Denmark trips."],
+ de: ["Møllehøj ist Dänemarks höchster natürlicher Punkt.", "Er liegt in Mitteljütland.", "Der Hügel gehört zum Gebiet Ejer Bjerge.", "Seine Höhe ist nach globalen Maßstäben bescheiden.", "Er ist ein klassischer Geografie-Stopp für Dänemark-Reisen."],
+ hu: ["Møllehøj Dánia legmagasabb természetes pontja.", "Közép-Jütlandban található.", "A domb az Ejer Bjerge területéhez tartozik.", "Magassága globális mércével szerény.", "Klasszikus földrajzi megálló dániai utazásokhoz."],
+ ro: ["Møllehøj este cel mai înalt punct natural al Danemarcei.", "Se află în centrul Iutlandei.", "Dealul face parte din zona Ejer Bjerge.", "Înălțimea sa este modestă după standarde globale.", "Este o oprire geografică clasică pentru călătoriile în Danemarca."]
+ },
+ image: "/geo-images/denmark/mollehoj.webp",
+ },
+ {
+ id: "nat-himmelbjerget",
+ type: "mountain",
+ parent: "DK",
+ coords: [9.8440, 56.1019],
+ name: { de: "Himmelbjerget", hu: "Himmelbjerget", ro: "Himmelbjerget", en: "Himmelbjerget" },
+ description: {
+ en: "Himmelbjerget is one of Denmark's most famous landscape viewpoints making it a top-rated area for nature travel around Silkeborg. It rises above the lake district rather than the sea, giving visitors broad views over water, forests, and hills. The site has long attracted excursion seekers because it combines easy access with a dramatic sense of height in an otherwise flat country. Himmelbjerget is a classic Danish stop for hiking, picnics, and scenic photography.",
+ de: "Himmelbjerget ist einer der berühmtesten Aussichtspunkte Dänemarks und ein erstklassiges Ziel für Naturreisen rund um Silkeborg. Er ragt über das Seengebiet hinaus und bietet weite Blicke über Wasser, Wälder und Hügel. Der Ort zieht seit Langem Ausflügler an, weil er leichten Zugang mit einem dramatischen Höhengefühl in einem ansonsten flachen Land verbindet. Himmelbjerget ist ein klassischer dänischer Halt für Wandern, Picknicks und landschaftliche Fotografie.",
+ hu: "A Himmelbjerget Dánia egyik leghíresebb kilátópontja és kiváló választás a Silkeborg környéki természeti utazásokhoz. Nem a tenger fölé, hanem a tóvidék fölé magasodik, így széles kilátást nyújt vízre, erdőkre és dombokra. A hely régóta vonzza a kirándulókat, mert könnyű megközelíthetőséget ötvöz a magasság látványos érzetével egy egyébként lapos országban. A Himmelbjerget klasszikus dán megálló túrázáshoz, piknikhez és tájfotózáshoz.",
+ ro: "Himmelbjerget este unul dintre cele mai faimoase puncte de belvedere ale Danemarcei fiind o alegere ideală pentru turismul în natură din jurul Silkeborgului. Se ridică deasupra zonei lacurilor, oferind priveliști largi asupra apei, pădurilor și dealurilor. Locul atrage de mult timp excursioniștii, deoarece combină accesul ușor cu o senzație dramatică de înălțime într-o țară altfel plată. Himmelbjerget este o oprire daneză clasică pentru drumeții, picnicuri și fotografie de peisaj."},
+ descriptionAdvanced: {
+ de: "Der Himmelbjerget ist einer der bekanntesten und geschichtsträchtigsten Hügel Dänemarks und liegt mitten im jütländischen Seenhochland. Mit seinen 147 Metern bietet er einen fantastischen Blick über den See Julsø und die umliegenden Wälder. Im 19. Jahrhundert wurde der Hügel zum Symbol der dänischen Nationalbewegung und des Kampfes für Demokratie, was durch den markanten Backsteinturm auf dem Gipfel unterstrichen wird. Die Tradition der Volksversammlungen auf dem Himmelbjerget wird bis heute gepflegt. Besucher erreichen den Hügel oft auf romantische Weise mit dem historischen Raddampfer „Hjejlen“ von Silkeborg aus. Er ist ein idealer Ort für Wanderungen und Picknicks in einer der schönsten Landschaften Dänemarks. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "A Himmelbjerget (Mennyország-hegy) Silkeborg közelében emelkedik, és bár csak 147 méter magas, meredek lejtői miatt a leginkább 'hegynek' látszó domb Dániában. A 19. század közepéig az ország legmagasabb pontjának hitték, és a dán nemzeti ébredés egyik szimbolikus helyszíne lett. A domb tetejéről lenyűgöző kilátás nyílik a Julsø tóra és a környező hatalmas, zöld erdőségekre, amelyeket a Gudenå folyó szel át. A csúcson egy 25 méter magas téglatorony áll, amelyet VII. Frigyes dán király tiszteletére emeltek az 1849-es dán alkotmány megadásáért. A Himmelbjerget ma a dánok kedvelt túrázó- és kirándulóhelye. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Himmelbjerget, care se traduce prin \"Muntele Cerului\", este unul dintre cele mai faimoase ??i ??ndr??gite locuri de belvedere din Danemarca, situat l??ng?? Silkeborg. De??i are doar 147 de metri ??n??l??ime, pantele sale abrupte care se ridic?? deasupra lacului Juls?? ??i confer?? un aspect mult mai impun??tor dec??t sugereaz?? cifrele. Din punct de vedere istoric, dealul a devenit un punct central al romantismului na??ional danez ??n secolul al XIX-lea, g??zduind mari ??nt??lniri publice pentru a celebra democra??ia. V??rful este dominat de un turn de c??r??mid?? ro??ie, ridicat ??n onoarea regelui Frederik al VII-lea pentru rolul s??u ??n stabilirea constitu??iei. Este o destina??ie clasic?? pentru drume??ii, picnicuri ??i admirarea frumuse??ii naturale a centrului Iutlandei. Geografie K7 ??? Geografia ??i societatea Danemarcei.",
+ en: "Himmelbjerget, meaning 'The Sky Mountain', is one of Denmark's most famous and beloved hills, located near Silkeborg in the Lake District. Rising steeply 147 meters above the shimmering Julsø lake, it offers a stunning, dramatic profile against the surrounding forests. Historically, it became a focal point for Danish national romanticism in the 19th century, hosting large public meetings to celebrate democracy and national identity. The summit is crowned by a striking red brick tower built to honor King Frederik VII and his role in establishing the Danish constitution. Himmelbjerget remains a quintessential destination for hiking and admiring Denmark's natural beauty. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Aussichtsturm auf dem Gipfel wurde 1875 zu Ehren von König Frederik VII. errichtet.",
+ "Himmelbjerget galt bis 1847 fälschlicherweise als der höchste Berg Dänemarks.",
+ "Die ersten großen Volksversammlungen für Freiheit und Grundgesetz fanden hier ab 1839 statt.",
+ "Der Name bedeutet wörtlich 'Himmelsberg'."
+ ],
+ hu: [
+ "Steen Steensen Blicher dán író 1839-től népgyűléseket ('Himmelbjergfest') szervezett itt a nemzeti egység erősítésére.",
+ "A csúcson lévő emléktoronyba fel lehet mászni, ami további magasságot ad a kilátásnak.",
+ "A Silkeborgból induló régi, lapátkerekes gőzhajóval (Hjejlen) közvetlenül a hegy lábához lehet hajózni.",
+ "A Himmelbjerget környéki tavak a dán tóvidék legmélyebb és legtisztább vizű tavai közé tartoznak."
+ ],
+ ro: [
+ "Până la mijlocul secolului al XIX-lea, s-a crezut în mod eronat că Himmelbjerget este cel mai înalt punct din Danemarca.",
+ "Turnul de pe vârf are 25 de metri înălțime și a fost finalizat în 1875 prin subscripție publică.",
+ "Se poate ajunge la baza dealului cu Hjejlen, cel mai vechi vapor cu aburi din lume care încă mai funcționează.",
+ "Zona este renumită pentru \"Lacurile Silkeborg\", un sistem complex de ape și păduri ideale pentru canotaj."
+ ],
+ en: ["Despite its name, Himmelbjerget is not a true mountain, nor is it the highest point in Denmark.", "The prominent 25-meter tower at the top was erected in 1875 to commemorate King Frederik VII.", "For many years until 1847, it was widely, though incorrectly, believed to be the highest point in Denmark.", "The hill has been a traditional gathering place for democratic movements and constitution celebrations since the 1830s."]
+ },
+ facts: {
+ en: ["Himmelbjerget is one of Denmark's best-known viewpoints.", "It is located near Silkeborg.", "The site overlooks lakes and forested hills.", "It has long been a popular excursion destination.", "The hill is a symbol of central Jutland scenery."],
+ de: ["Himmelbjerget ist einer der bekanntesten Aussichtspunkte Dänemarks.", "Er liegt bei Silkeborg.", "Der Ort überblickt Seen und bewaldete Hügel.", "Er ist seit Langem ein beliebtes Ausflugsziel.", "Der Hügel ist ein Symbol für die Landschaft Mitteljütlands."],
+ hu: ["A Himmelbjerget Dánia egyik legismertebb kilátópontja.", "Silkeborg közelében található.", "A hely tavakra és erdős dombokra néz.", "Régóta népszerű kirándulóhely.", "A domb Közép-Jütland tájának jelképe."],
+ ro: ["Himmelbjerget este unul dintre cele mai cunoscute puncte de belvedere din Danemarca.", "Se află lângă Silkeborg.", "Locul domină lacuri și dealuri împădurite.", "A fost de mult timp o destinație populară de excursie.", "Dealul este un simbol al peisajului din centrul Iutlandei."]
+ },
+ image: "/geo-images/denmark/himmelbjerget.webp",
+ },
+ {
+ id: "nat-arreso",
+ type: "lake",
+ parent: "DK",
+ coords: [12.05, 56.03],
+ name: { de: "Arresø", hu: "Arresø", ro: "Arresø", en: "Arresø" },
+ description: {
+ en: "Arreso is Denmark's largest lake and a practical keyword for nature, birdlife, and quiet day trips in North Zealand. The lake has a calm, open character that fits well with walking routes, wetland scenery, and countryside relaxation. It is not as dramatic as a mountain or sea coast, but its scale and stillness make it memorable. Arreso is a good match for travelers looking for lakeside Denmark rather than urban landmarks.",
+ de: "Arresø ist Dänemarks größter See und ein praktisches-Thema für Natur, Vogelwelt und ruhige Tagesausflüge im Norden Seelands. Der See hat einen ruhigen, offenen Charakter, der gut zu Wanderwegen, Feuchtgebietslandschaften und Erholung auf dem Land passt. Er ist nicht so dramatisch wie ein Berg oder eine Küste, aber seine Größe und Ruhe machen ihn unvergesslich. Arresø ist eine gute Wahl für Reisende, die das Seengebiet Dänemarks statt städtischer Wahrzeichen suchen.",
+ hu: "Az Arresø Dánia legnagyobb tava, és praktikus választás a természet, a madárvilág és az észak-sjællandi nyugodt egynapos kirándulások témájában. A tó csendes, nyitott karaktere jól illik a túraútvonalakhoz, a vizes élőhelyekhez és a vidéki pihenéshez. Nem olyan drámai, mint egy hegy vagy tengerpart, de mérete és nyugalma emlékezetessé teszi. Az Arresø jó választás azoknak az utazóknak, akik vízparti Dániát keresnek városi nevezetességek helyett.",
+ ro: "Arresø este cel mai mare lac al Danemarcei și un cuvânt-cheie practic pentru natură, păsări și excursii liniștite de o zi în nordul insulei Zealand. Lacul are un caracter calm și deschis, potrivit pentru trasee de mers, peisaje umede și relaxare la țară. Nu este la fel de dramatic ca un munte sau o coastă, dar dimensiunea și liniștea sa îl fac memorabil. Arresø este potrivit pentru călătorii care caută Danemarca de la malul lacului, nu repere urbane."},
+ descriptionAdvanced: {
+ de: "Der Arresø im Norden Seelands ist flächenmäßig der größte See Dänemarks und ein bedeutendes Naturreservat. Ursprünglich war der See ein Fjord des Kattegats, wurde aber durch Landhebung und Sandfluchten vor etwa 4.000 Jahren vom Meer abgeschnitten. Heute ist er durch den Arresø-Kanal mit dem Roskilde-Fjord verbunden, was historisch für den Betrieb von Mühlen und Industrien in Frederiksværk wichtig war. Der See ist von Schilfgürteln und Mooren umgeben, die einen idealen Lebensraum für seltene Vogelarten wie den Seeadler bieten. Die flache Wasserfläche eignet sich hervorragend für Segeln und Kanufahren, während die Uferwege zu ausgiebigen Naturbeobachtungen einladen. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "Az Arresø Észak-Sjællandban fekszik, és közel 40 négyzetkilométeres kiterjedésével Dánia legnagyobb tava. Bár a tó vize sekély, partjait gyönyörű nádasok, zöldellő mezők és erdők övezik, amelyek gazdag madárvilágnak nyújtanak otthont. A tavat a jégkorszak után eredetileg egy nyitott fjord alkotta, de a szárazföld fokozatos megemelkedése elzárta a tengertől. Az Arresø ma a Dán Nemzeti Park Kongernes Nordsjælland (Észak-Sjælland Királyai) része. A tó kiváló lehetőséget biztosít a nyugodt kenuzásra, kajakozásra és a természetközeli kikapcsolódásra. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Arres?? este cel mai mare lac din Danemarca dup?? suprafa????, ??ntinz??ndu-se pe aproximativ 40 de kilometri p??tra??i ??n nordul insulei Zealand. Ini??ial, acesta a fost un fjord deschis conectat la mare, dar ridicarea solului dup?? ultima er?? glaciar?? l-a izolat, transform??ndu-l ??ntr-un lac cu ap?? dulce. Malurile sale sunt neregulate ??i ??mp??durite, oferind un habitat crucial pentru numeroase specii de p??s??ri, inclusiv vulturi codalb. Lacul face parte din Parcul Na??ional \"Kongernes Nordsj??lland\" (Nordul Zealandului al Regilor), fiind o zon?? protejat?? de o frumuse??e lini??tit??. Este o destina??ie ideal?? pentru observarea p??s??rilor, plimb??ri cu barca ??i explorarea naturii neatinse din apropierea capitalei. Geografie K7 ??? Geografia ??i societatea Danemarcei.",
+ en: "Arresø is the largest lake in Denmark by area, situated in the scenic region of North Zealand. Originally, it was an open fjord connected to the Kattegat sea, but land uplift following the last Ice Age eventually sealed it off into a freshwater lake. Today, it spans an impressive 40 square kilometers and features highly irregular, forested shorelines. The lake and its surrounding wetlands provide a crucial habitat for a diverse range of bird species, including majestic sea eagles and cormorants. Boat tours offer a tranquil way to explore the lake's rich biodiversity and the peaceful, unspoiled nature of Zealand. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Arresø umfasst eine Wasserfläche von etwa 40 Quadratkilometern.",
+ "Der See ist sehr flach, mit einer durchschnittlichen Tiefe von nur etwa drei Metern.",
+ "Er ist Teil des Nationalparks 'Kongernes Nordsjælland' (Nordseeland der Könige).",
+ "Die künstliche Anlage des Arresø-Kanals im 18. Jahrhundert war eines der größten dänischen Bauprojekte seiner Zeit."
+ ],
+ hu: [
+ "Az Arresø átlagos mélysége mindössze 3 méter.",
+ "A tavat egy ember által ásott csatorna, az Frederiksværk-csatorna köti össze a Roskilde-fjorddal.",
+ "A tavon rendszeresen indítanak sétahajókat, amelyekről kormoránokat és tengeri sasokat lehet megfigyelni.",
+ "A tó körül kerékpárutak futnak, amelyek összekötik a környék történelmi városait."
+ ],
+ ro: [
+ "Arresø are o adâncime medie de doar 3 metri, în ciuda suprafeței sale impresionante.",
+ "Un canal săpat de soldați în secolul al XVIII-lea, Canalul Frederiksværk, leagă lacul de Fjordul Roskilde.",
+ "Lacul este un sit Ramsar de importanță internațională pentru protecția zonelor umede și a păsărilor migratoare.",
+ "Vulturii codalb sunt o prezență constantă aici, fiind una dintre cele mai bune zone din țară pentru a-i vedea în libertate."
+ ],
+ en: ["Arresø is officially the largest lake in Denmark by surface area, covering nearly 40 square kilometers.", "It was a saltwater fjord until the Stone Age, when geological land uplift isolated it from the sea.", "A canal was dug by soldiers in the 1700s to control the lake's water levels and prevent flooding.", "The lake area is a protected nature reserve, renowned for its significant populations of breeding and migratory birds."]
+ },
+ facts: {
+ en: ["Arreso is Denmark's largest lake.", "It lies in North Zealand.", "The lake is important for birdlife and wetlands.", "Its shoreline is suited to quiet outdoor visits.", "It is a good stop for nature-focused Denmark content."],
+ de: ["Arresø ist Dänemarks größter See.", "Er liegt im Norden Seelands.", "Der See ist wichtig für Vogelwelt und Feuchtgebiete.", "Sein Ufer eignet sich für ruhige Naturbesuche.", "Er ist ein guter Stopp für naturbezogene Dänemark-Inhalte."],
+ hu: ["Az Arresø Dánia legnagyobb tava.", "Észak-Sjællandban található.", "A tó fontos a madárvilág és a vizes élőhelyek szempontjából.", "Partvonala nyugodt természetjárásokra alkalmas.", "Jó megálló a természetközpontú dán tartalmakhoz."],
+ ro: ["Arresø este cel mai mare lac din Danemarca.", "Se află în nordul insulei Zealand.", "Lacul este important pentru păsări și zone umede.", "Malul său este potrivit pentru vizite liniștite în aer liber.", "Este o oprire bună pentru conținutul despre natura Danemarcei."]
+ },
+ image: "/geo-images/denmark/arreso.webp",
+ },
+ {
+ id: "nat-fureso",
+ type: "lake",
+ parent: "DK",
+ coords: [12.33, 55.78],
+ name: { de: "Furesø", hu: "Furesø", ro: "Furesø", en: "Furesø" },
+ description: {
+ en: "Fureso is a scenic lake near Copenhagen making it a prized location for lakeside walks, swimming spots, and suburban nature escapes. It is prized for its clean water, recreational use, and easy access from the capital region. The lake fits perfectly into content about short escapes from Copenhagen without leaving North Zealand. Fureso is a strong choice for travelers who want water, greenery, and a relaxed outdoor break.",
+ de: "Furesø ist ein malerischer See nahe Kopenhagen und ein geschätztes Ziel für Spaziergänge am Wasser, Bademöglichkeiten und naturnahe Ausflüge vor der Stadt. Er wird wegen seines sauberen Wassers, seiner Freizeitnutzung und der guten Erreichbarkeit aus der Hauptstadtregion geschätzt. Der See passt hervorragend zu Inhalten über kurze Ausflüge ab Kopenhagen, ohne Nordseeland zu verlassen. Furesø ist eine starke Wahl für Reisende, die Wasser, Grün und eine entspannte Pause im Freien suchen.",
+ hu: "A Furesø festői tó Koppenhága közelében, így értékes célpont a vízparti séták, a fürdőhelyek és az elővárosi természetjárás témájában. Tiszta vizéről, rekreációs használatáról és a fővárosi régióból való könnyű elérhetőségéről ismert. A tó tökéletesen illik a Koppenhágából induló rövid kiruccanások témájához anélkül, hogy elhagynánk Észak-Sjællandot. A Furesø jó választás azoknak, akik vizet, zöldet és laza szabadtéri pihenést keresnek.",
+ ro: "Furesø este un lac pitoresc lângă Copenhaga fiind o locație prețuită pentru plimbări la malul apei, locuri de înot și evadări în natură din zona suburbană. Este apreciat pentru apa sa curată, utilizarea recreativă și accesul ușor din regiunea capitalei. Lacul se potrivește perfect în conținutul despre escapade scurte din Copenhaga fără a părăsi nordul insulei Zealand. Furesø este o alegere puternică pentru călătorii care vor apă, verdeață și o pauză relaxantă în aer liber."},
+ descriptionAdvanced: {
+ de: "Der Furesø ist der tiefste See Dänemarks und liegt in einer malerischen Moränenlandschaft nördlich von Kopenhagen. Er ist Teil eines großen Seensystems, das durch eiszeitliche Gletscher geformt wurde und heute ein wichtiges Naherholungsgebiet für die Hauptstadtregion darstellt. Das klare, tiefe Wasser ist bei Schwimmern, Seglern und Ruderern gleichermaßen beliebt. Die waldreichen Ufer bieten zahlreiche Wanderwege und Picknickplätze mit spektakulären Ausblicken über den See. In den letzten Jahrzehnten wurden enorme Anstrengungen unternommen, um die Wasserqualität des Furesø durch moderne Renaturierungsprojekte zu sichern. Der See ist ein Paradebeispiel für die Verbindung von natürlicher Schönheit und aktivem Freizeitwert in unmittelbarer Nähe zum urbanen Raum. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
+ hu: "A Furesø Koppenhága északi elővárosai közelében található, és a régió legmélyebb tava, amely népszerű célpont a fővárosiak körében. A tó partjait sűrű, festői bükkerdők szegélyezik, mint például a Nørreskov, amelyek ősszel gyönyörű színkavalkáddal kápráztatják el a kirándulókat. A Furesø kristálytiszta vize nyáron kiváló fürdőhelyeket biztosít, a vitorlázók és evezősök számára pedig ideális feltételeket nyújt. A tó kulturális jelentőséggel is bír, partjain számos 19. századi dán művész és költő talált ihletet. A nyugalom és a természet közelsége miatt a Furesø igazi menedék a városi élet elől. Földrajz K7 – Dánia földrajza és társadalma.",
+ ro: "Furesø este cel mai adânc lac din Danemarca, situat într-un peisaj pitoresc la nord de Copenhaga. Cu o adâncime maximă de aproape 38 de metri, lacul este o destinație foarte populară pentru navigație, caiac și înot recreativ. Zona înconjurătoare este caracterizată de păduri bogate de fag, domenii istorice mari și trasee de drumeție șerpuite, fiind refugiul preferat al locuitorilor din capitală. Lacul este conectat la un sistem complex de căi navigabile, reflectând originile sale glaciare. Furesø încapsulează perfect natura liniștită și curată care se află la doar o scurtă distanță de agitația orașului, fiind o bijuterie a regiunii Zealand. Geografie K7 – Geografia și societatea Danemarcei.",
+ en: "Furesø is the deepest lake in Denmark, located in the picturesque, wooded landscape north of Copenhagen. Plunging to a depth of nearly 38 meters, the lake is highly popular for sailing, kayaking, and recreational swimming. The surrounding area is characterized by lush beech forests, grand historic estates, and meandering hiking trails, making it a favorite retreat for city dwellers. The lake is connected to an intricate system of waterways, reflecting its glacial origins. Furesø beautifully encapsulates the tranquil, pristine nature that lies just a short distance from the bustling Danish capital. Geography K7 – Denmark's geography and society."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Furesø erreicht eine maximale Tiefe von 37,7 Metern.",
+ "Er ist der zentrale Teil des Mølleå-Flusssystems, das historisch als 'Wiege der dänischen Industrie' galt.",
+ "Die Wasserqualität gehört zu den besten unter den großen dänischen Seen.",
+ "Am Ufer befindet sich das berühmte Furesøbad, ein beliebtes Freibad mit langer Tradition."
+ ],
+ hu: [
+ "A Furesø maximális mélysége eléri a 38 métert, ami Dániában ritkaságnak számít.",
+ "A tó a koppenhágai 'zöld gyűrű' nevű kiterjedt zöldterület-hálózat központi eleme.",
+ "A tavon több kis kikötő és hajóklub is működik.",
+ "A tó melletti erdei ösvények a Hillerød felé vezető régi királyi útvonalak részei voltak."
+ ],
+ ro: [
+ "Adâncimea maximă a lacului este de 37,7 metri, o raritate în topografia predominant joasă a Danemarcei.",
+ "Lacul face parte din sistemul de apă Mølleåen, care a fost vital pentru industrializarea timpurie a zonei.",
+ "Calitatea apei este monitorizată strict, fiind una dintre cele mai bune locații pentru înot în aer liber din apropierea Copenhagăi.",
+ "Malul sudic găzduiește pădurea Nørreskov, unde se găsesc unii dintre cei mai bătrâni fagi din Danemarca."
+ ],
+ en: ["Furesø holds the title of Denmark's deepest lake, with a maximum depth of 37.7 meters.", "The lake covers a surface area of approximately 9.4 square kilometers.", "It is a highly popular area for recreational activities, including rowing, fishing, and hiking.", "The lake's water quality has dramatically improved in recent years due to extensive environmental restoration projects."]
+ },
+ facts: {
+ en: ["Fureso is close to Copenhagen.", "It is popular for recreation and swimming.", "The lake is known for clear water.", "It is part of the North Zealand lake landscape.", "It is a strong keyword for outdoor Denmark trips."],
+ de: ["Furesø liegt nahe Kopenhagen.", "Er ist beliebt für Erholung und Schwimmen.", "Der See ist für klares Wasser bekannt.", "Er gehört zur Seelandschaft Nordseelands.", "Er ist ein starkes Keyword für Outdoor-Reisen in Dänemark."],
+ hu: ["A Furesø Koppenhága közelében található.", "Népszerű pihenésre és úszásra.", "A tó tiszta vizéről ismert.", "Az észak-sjællandi tóvidék része.", "Erős kulcsszó a dán szabadtéri utazásokhoz."],
+ ro: ["Furesø este aproape de Copenhaga.", "Este popular pentru recreere și înot.", "Lacul este cunoscut pentru apa sa limpede.", "Face parte din peisajul lacustru din nordul insulei Zealand.", "Este un cuvânt-cheie puternic pentru excursiile în aer liber din Danemarca."]
+ },
+ image: "/geo-images/denmark/fureso.webp",
+ },
+ {
+ id: "nat-gudenaen",
+ type: "river",
+ parent: "DK",
+ coords: [9.7000, 56.1800],
+ name: { de: "Gudenå", hu: "Gudenå", ro: "Gudenå", en: "Gudenå" },
+ description: {
+ en: "The Gudenå is Denmark's longest river and a premier destination for river trips, canoeing, and scenic inland nature. It flows through central Jutland and links lakes, towns, and forested stretches into one continuous landscape. The river is widely used for kayaking and outdoor recreation, making it attractive for active travel content. Gudenå is one of the clearest natural symbols of inland Denmark.",
+ de: "Die Gudenå ist der längste Fluss Dänemarks und ein erstklassiges Ziel für Flussreisen, Kanufahren und landschaftliche Binnennatur. Sie fließt durch Mitteljütland und verbindet Seen, Städte und bewaldete Abschnitte zu einer durchgehenden Landschaft. Der Fluss wird häufig zum Kajakfahren und für Outdoor-Erholung genutzt, was ihn für aktive Reiseinhalte attraktiv macht. Die Gudenå ist eines der klarsten natürlichen Symbole des Binnenlands Dänemarks.",
+ hu: "A Gudenå Dánia leghosszabb folyója, így kiemelkedő célpont a folyóutakhoz, a kenuzáshoz és a festői beltéri természethez. Közép-Jütlandon folyik át, és tavakat, városokat valamint erdős szakaszokat köt össze egy folytonos tájban. A folyót széles körben használják kajakozásra és szabadtéri kikapcsolódásra, ezért jól működik az aktív utazási tartalmakban. A Gudenå a szárazföldi Dánia egyik legtisztább természeti szimbóluma.",
+ ro: "Gudenå este cel mai lung râu din Danemarca și o alegere excelentă pentru excursii pe râu, caiac și natură pitorească din interiorul țării. Curge prin centrul Iutlandei și leagă lacuri, orașe și porțiuni împădurite într-un peisaj continuu. Râul este folosit pe scară largă pentru caiac și recreere în aer liber, ceea ce îl face atractiv pentru conținutul de turism activ. Gudenå este unul dintre cele mai clare simboluri naturale ale Danemarcei continentale."},
+ descriptionAdvanced: {
+ de: "Die Gudenå ist der längste Fluss Dänemarks und schlängelt sich über 150 Kilometer durch das Herz Jütlands. Sie entspringt in den sanften Hügeln bei Tinnet Krat und fließt durch die malerische Silkeborger Seenplatte, bevor sie in den Randers Fjord mündet. Historisch war der Fluss eine lebenswichtige Verkehrsader für den Transport von Waren wie Holz und landwirtschaftlichen Erzeugnissen. Heute ist die Gudenå ein Paradies für Naturliebhaber und Aktivurlauber, besonders beliebt für mehrtägige Kanutouren und zum Angeln. Die abwechslungsreiche Landschaft entlang des Flusses bietet eine Mischung aus dichten Wäldern, offenen Wiesen und idyllischen Uferstädten. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A Gudenå Dánia leghosszabb és legbővizűbb folyója, amely több mint 150 kilométeren keresztül kanyarog Közép- és Kelet-Jütland lankás tájain. A folyó történelmileg kulcsfontosságú közlekedési és kereskedelmi útvonal volt, különösen a fakitermelés és a papíripar számára Silkeborg térségében. Ma a Gudenå egy igazi rekreációs paradicsom; csendes, tiszta vizén több ezer kenu- és kajaktúrázó evez végig minden nyáron. A folyó átszeli a dán tóvidéket, gyönyörű erdők, rétek és gazdag állatvilág mellett haladva el. A horgászok körében is népszerű, különösen a pisztráng- és lazacállománya miatt. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Gudenå este cel mai lung râu din Danemarca, șerpuind pe o distanță de peste 150 de kilometri prin inima peninsulei Iutlanda. Acesta își începe cursul în dealurile din Tinnet Krat și curge spre nord, traversând regiunea pitorească a lacurilor din Silkeborg înainte de a se vărsa în Fjordul Randers. Din punct de vedere istoric, râul a fost o arteră vitală pentru transport și comerț, fiind folosit pentru transportul lemnului și al produselor agricole. Astăzi, Gudenå este celebrat ca un paradis recreativ, fiind extrem de popular pentru excursii de mai multe zile cu canoea, pescuit și camping în natură. Apele sale liniștite traversează unele dintre cele mai idilice și neatinse peisaje din țară. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Gudenå is the longest river in Denmark, meandering over 150 kilometers through the scenic heart of the Jutland peninsula. It begins its journey in the rolling hills of Tinnet Krat and flows northward, passing through the beautiful Silkeborg Lakes before emptying into the Randers Fjord. Historically, the river was a vital artery for transportation and trade, moving goods like timber and agricultural produce. Today, the Gudenå is celebrated as a pristine recreational paradise, widely popular for multi-day canoeing trips, fishing, and nature camping. Its tranquil waters carve through some of the most idyllic and untouched landscapes in the country. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Gudenå ist etwa 158 Kilometer lang und entwässert große Teile Mitteljütlands.",
+ "Der Fluss überwindet von der Quelle bis zur Mündung einen Höhenunterschied von 65 Metern.",
+ "Entlang der Gudenå befindet sich Dänemarks größtes Wasserkraftwerk, das historische Tangeværket.",
+ "Der Flusslauf beherbergt eine außergewöhnlich hohe Vielfalt an Fischarten, darunter Lachse und Forellen."
+ ],
+ hu: [
+ "A Gudenå forrása Tinnet Krat közelében található, és a Randers-fjordba ömlik.",
+ "Ez az egyetlen dániai folyó, amelyet mérete miatt egyesek 'folyamnak' (flod) is neveznek.",
+ "A folyó mentén található Tangeværket vízerőmű gátja az ország legnagyobb mesterséges tavát, a Tange-tavat hozta létre.",
+ "A középkorban szerzetesek építettek malmokat a folyó mentén, megalapozva a helyi ipart."
+ ],
+ ro: [
+ "Gudenå este singurul curs de apă din Danemarca care poate fi considerat cu adevărat un râu mare, având o lungime de 158 km.",
+ "Pe cursul său se află centrala hidroelectrică Tangeværket, cea mai mare de acest tip din Danemarca.",
+ "Râul găzduiește o diversitate incredibilă de pești, fiind una dintre cele mai bune destinații pentru pescuitul la păstrăv și somon.",
+ "Traseul \"Pramdragerstien\" de-a lungul râului a fost folosit istoric de bărbații care trăgeau bărcile cu funii împotriva curentului."
+ ],
+ en: ["Gudenå is Denmark's longest river, stretching approximately 158 kilometers.", "The river drops a total of 65 meters in elevation from its source to the sea.", "It features Denmark's largest hydroelectric power plant, the historic Tangeværket.", "The river basin is home to an incredible diversity of fish, making it a premier destination for angling."]
+ },
+ facts: {
+ en: ["Gudenå is Denmark's longest river.", "It runs through central Jutland.", "The river is popular for canoeing and kayaking.", "It connects several lakes and nature areas.", "It is a key inland nature landmark."],
+ de: ["Die Gudenå ist Dänemarks längster Fluss.", "Sie fließt durch Mitteljütland.", "Der Fluss ist beliebt zum Kanufahren und Kajakfahren.", "Er verbindet mehrere Seen und Naturgebiete.", "Er ist ein wichtiges Naturwahrzeichen im Binnenland."],
+ hu: ["A Gudenå Dánia leghosszabb folyója.", "Közép-Jütlandon halad át.", "Népszerű a kenuzás és kajakozás miatt.", "Több tavat és természeti területet köt össze.", "Fontos szárazföldi természeti jelkép."],
+ ro: ["Gudenå este cel mai lung râu din Danemarca.", "Curge prin centrul Iutlandei.", "Râul este popular pentru canoe și caiac.", "Leagă mai multe lacuri și zone naturale.", "Este un reper natural cheie al interiorului țării."]
+ },
+ image: "/geo-images/denmark/gudenaen.webp",
+ },
+ {
+ id: "nat-skern-aa",
+ type: "river",
+ parent: "DK",
+ coords: [8.6000, 56.0500],
+ name: { de: "Skjern Ł", hu: "Skjern Ł", ro: "Skjern Ł", en: "Skjern Ł" },
+ description: {
+ en: "Skjern A is one of Denmark's best-known river restoration stories making it a popular choice for wetlands, birdlife, and western Jutland nature. The river and its surrounding landscape have been reshaped into a rich habitat that supports wildlife and outdoor exploration. It offers a quieter and more ecological contrast to the country's urban highlights. Skjern A is ideal for nature-focused content that wants a real Danish conservation success story.",
+ de: "Skjern Šist eine der bekanntesten Flussrenaturierungs-Geschichten Dänemarks und ein hervorragendes Ziel für Feuchtgebiete, Vogelwelt und die Natur Westjütlands. Der Fluss und seine Umgebung wurden zu einem reichhaltigen Lebensraum umgestaltet, der Wildtiere und Naturerlebnisse unterstützt. Er bietet einen ruhigeren und ökologischeren Kontrast zu den städtischen Höhepunkten des Landes. Skjern Šist ideal für naturbezogene Inhalte, die eine echte dänische Erfolgsgeschichte im Naturschutz erzählen wollen.",
+ hu: "A Skjern ŠDánia egyik legismertebb folyó-helyreállítási története, így népszerű célpont a vizes élőhelyek, a madárvilág és Nyugat-Jütland természete témájában. A folyót és környezetét gazdag élőhellyé alakították át, amely támogatja a vadon élő állatokat és a szabadtéri felfedezést. Csendesebb és ökológiaibb kontrasztot ad az ország városi csúcspontjaihoz képest. A Skjern Šideális a természetközpontú tartalomhoz, ha valódi dán természetvédelmi sikertörténetet szeretnénk bemutatni.",
+ ro: "Skjern Šeste una dintre cele mai cunoscute povești de restaurare a unui râu din Danemarca fiind o destinație populară pentru zone umede, păsări și natura din vestul Iutlandei. Râul și peisajul din jur au fost transformate într-un habitat bogat care susține fauna și explorarea în aer liber. Oferă un contrast mai liniștit și mai ecologic față de reperele urbane ale țării. Skjern Šeste ideal pentru conținutul axat pe natură care dorește o poveste autentică de succes a conservării daneze."},
+ descriptionAdvanced: {
+ de: "Die Skjern Å in Westjütland ist der wasserreichste Fluss Dänemarks und Schauplatz des größten Renaturierungsprojekts Nordeuropas. Nachdem der Fluss in den 1960er Jahren begradigt worden war, um Ackerland zu gewinnen, wurde die Natur in den frühen 2000er Jahren in ihren ursprünglichen Zustand zurückversetzt. Heute mäandert die Skjern Å wieder durch weite Auen und Feuchtgebiete, die ein Paradies für seltene Vogelarten und den berühmten Skjern-Å-Lachs sind. Das Projekt gilt weltweit als Vorzeigebild für erfolgreichen Naturschutz und ökologische Wiederherstellung. Besucher können die weite Delta-Landschaft über Wanderwege, Hängebrücken und kleine Seilfähren erkunden, die ein einzigartiges Naturerlebnis bieten. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A Skjern Å Nyugat-Jütland legfontosabb folyója, amely vízhozamát tekintve a legnagyobb Dániában. A folyó különösen híres a 2000-es évek elején végrehajtott hatalmas természetvédelmi helyreállítási projektről. A 20. század közepén a folyót kiegyenesítették és a környező lápokat lecsapolták a mezőgazdaság számára, ami súlyos ökológiai károkat okozott. Később Dánia történetének legnagyobb környezetvédelmi beruházásával visszaadták a folyó eredeti, kanyargós medrét, újrateremtve a vizeslőhelyeket. Ma a Skjern Å völgye ismét gazdag madárvilágnak és különleges lazacpopulációnak ad otthont, a fenntartható tájgazdálkodás mintapéldája. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Skjern Å este râul cu cel mai mare volum de apă din Danemarca, curgând spre vest prin Iutlanda până la Fjordul Ringkøbing. În anii 1960, râul a fost canalizat și îndreptat în scopuri agricole, ceea ce a afectat grav ecosistemul său delicat. Cu toate acestea, la începutul anilor 2000, a avut loc unul dintre cele mai mari proiecte de restaurare a naturii din Europa de Nord, prin care meandrele naturale ale râului și zonele umede înconjurătoare au fost recreate. Astăzi, valea Skjern Å este un habitat natural vibrant, celebrat pentru revenirea spectaculoasă a faunei sălbatice, inclusiv a somonului sălbatic și a speciilor rare de păsări. Este un testament al succesului conservării mediului în Danemarca. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Skjern Å is the largest river in Denmark by water volume, flowing westward across Jutland to the Ringkøbing Fjord. During the 1960s, the river was heavily straightened and channelized for agricultural purposes, which severely damaged its delicate ecosystem. However, in one of Northern Europe's largest nature restoration projects, the river's natural meanders and surrounding wetlands were painstakingly recreated in the early 2000s. Today, the Skjern Å valley is a thriving, vibrant natural habitat, celebrated for its spectacular return of wildlife, including wild salmon and rare bird species. It stands as a profound testament to successful environmental conservation. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Die Renaturierung der Skjern Å kostete rund 280 Millionen dänische Kronen und umfasst 2.200 Hektar.",
+ "Der Skjern-Å-Lachs besitzt einen einzigartigen genetischen Stamm, der fast ausgestorben war.",
+ "Die Mündung des Flusses bildet ein Binnendelta, das in den Ringkøbing Fjord fließt.",
+ "Über den Fluss führen zwei handbetriebene Seilfähren, die bei Wanderern sehr beliebt sind."
+ ],
+ hu: [
+ "A folyó vízhozama torkolatánál eléri a másodpercenkénti 35 köbmétert.",
+ "A 'Skjern Å lazac' egy egyedi génállományú lazacfajta, amely csak ebben a folyóban él.",
+ "A folyó helyreállítási projektje közel 40 millió dollárba került, és 2200 hektárnyi területet érintett.",
+ "A folyó a Ringkøbing-fjordba ömlik, amely fontos pihenőhelye az Északi-tenger felé tartó vándormadaraknak."
+ ],
+ ro: [
+ "Proiectul de restaurare a costat aproximativ 280 de milioane de coroane daneze și a redat naturii peste 2.200 de hectare.",
+ "Somonul de Skjern Å este o specie nativă unică, celebră pentru dimensiunile sale impresionante, atrăgând pescari din toată lumea.",
+ "În deltă există un feribot cu cablu operat manual, care permite turiștilor și bicicliștilor să traverseze râul într-un mod inedit.",
+ "Zona este acum un Parc Național, fiind un punct esențial pentru biodiversitatea din vestul Iutlandei."
+ ],
+ en: ["Skjern Å discharges more water into the sea than any other river in Denmark.", "The massive restoration project completed in 2003 cost roughly 280 million Danish kroner.", "The restoration successfully brought back the native, highly prized Skjern Å wild salmon.", "The river delta includes a unique, manually operated cable ferry for hikers and cyclists to cross."]
+ },
+ facts: {
+ en: ["Skjern A is a major river restoration success.", "It is located in western Jutland.", "The area is important for birds and wetlands.", "It offers quiet outdoor and ecological tourism.", "The river is a well-known conservation story."],
+ de: ["Skjern Šist ein großer Erfolg der Flussrenaturierung.", "Sie liegt in Westjütland.", "Das Gebiet ist wichtig für Vögel und Feuchtgebiete.", "Es bietet ruhigen Natur- und Ökotourismus.", "Der Fluss ist eine bekannte Naturschutzgeschichte."],
+ hu: ["A Skjern Šnagy sikerű folyó-rehabilitációs példa.", "Nyugat-Jütlandban található.", "A terület fontos a madarak és a vizes élőhelyek számára.", "Csendes természet- és ökoturizmust kínál.", "A folyó jól ismert természetvédelmi történet."],
+ ro: ["Skjern Šeste un mare succes de restaurare a râului.", "Se află în vestul Iutlandei.", "Zona este importantă pentru păsări și zone umede.", "Oferă turism liniștit în natură și ecologic.", "Râul este o poveste bine-cunoscută de conservare."]
+ },
+ image: "/geo-images/denmark/skjern-aa.webp",
+ },
+ {
+ id: "nat-aero",
+ type: "island",
+ parent: "DK",
+ coords: [10.4490, 54.8880],
+ name: { de: "Ærø", hu: "Ærø", ro: "Ærø", en: "Ærø" },
+ description: {
+ en: "Ærø is a charming Danish island and a premier destination for island hopping, seaside villages, and slow travel in the South Funen Archipelago. Its colorful harbor towns, cycling routes, and intimate scale make it especially appealing to visitors seeking a calm coastal escape. The island feels distinctly Danish in both landscape and rhythm, with a strong local identity. Ærø is a top choice for content about relaxed island experiences in Denmark.",
+ de: "Ærø ist eine charmante dänische Insel und ein erstklassiges Ziel für Inselhopping, Seedorfer und Slow Travel im Südfünischen Inselmeer. Ihre farbenfrohen Hafenstädtchen, Radwege und die intime Größe machen sie besonders attraktiv für Besucher, die einen ruhigen Küstenurlaub suchen. Die Insel wirkt sowohl in ihrer Landschaft als auch in ihrem Rhythmus unverkennbar dänisch und besitzt eine starke lokale Identität. Ærø ist eine Top-Wahl für Inhalte über entspannte Inselerlebnisse in Dänemark.",
+ hu: "Ærø bájos dán sziget így kiemelkedő célpont az island hopping, a tengerparti falvak és a lassú utazás témájában a Dél-Füneni szigetvilágban. Színes kikötővárosai, kerékpárútjai és meghitt mérete különösen vonzóvá teszik a nyugodt part menti kikapcsolódást keresők számára. A sziget tájában és ritmusában is kifejezetten dán, erős helyi identitással. Ærø kiváló választás a dániai laza szigeti élményekről szóló tartalmakhoz.",
+ ro: "Ærø este o insulă daneză fermecătoare și o alegere excelentă pentru island hopping, sate de coastă și slow travel în arhipelagul de sud al insulei Funen. Orașele sale-port colorate, traseele de bicicletă și scara intimă o fac deosebit de atractivă pentru vizitatorii care caută o evadare liniștită la malul mării. Insula se simte profund daneză atât în peisaj, cât și în ritm, cu o identitate locală puternică. Ærø este o alegere de top pentru conținutul despre experiențe relaxate pe insulele Danemarcei."},
+ descriptionAdvanced: {
+ de: "Ærø ist eine der charmantesten Inseln in der dänischen Südsee und bekannt für ihre idyllische Atmosphäre und gut erhaltenen Fachwerkhäuser. Da die Insel keine Brückenverbindung zum Festland hat, hat sie sich eine besondere Ruhe und Ursprünglichkeit bewahrt. Die Stadt Ærøskøbing gilt mit ihren kopfsteingepflasterten Gassen und blumengeschmückten Häusern als eine der schönsten Kleinstädte Dänemarks. Ærø ist zudem ein Pionier in Sachen Nachhaltigkeit und deckt einen großen Teil seines Energiebedarfs aus erneuerbaren Quellen wie Sonne und Wind. Die sanfte Hügellandschaft der Insel lädt zu entspannten Radtouren und Spaziergängen entlang der Küste ein. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "Ærø egy idilli, képeslapba illő sziget a Dél-Füneni szigettengerben, amelyet gyakran Dánia legromantikusabb helyeként emlegetnek. A sziget elzártsága – híd nem köti össze a szárazfölddel, csak komppal megközelíthető – segített megőrizni egyedülálló, 18. századi atmoszféráját. Fővárosa, Ærøskøbing, szűk macskaköves utcáival és színes, rózsákkal befuttatott faházaival a dán mesevárosok mintaképe. A sziget lakói büszkék tengerészeti örökségükre és a fenntartható életmódra; a sziget energiaellátását nagyrészt szél- és napenergiából fedezik. A békés táj, a dombok és a tengerpartok mágnesként vonzzák a nyugalmat kereső párokat és túrázókat. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Ærø este o insulă daneză de o frumusețe excepțională, situată în arhipelagul de sud al insulei Funen. Neatinsă de dezvoltările moderne la scară largă sau de poduri rutiere, insula oferă o atmosferă senină, care pare încremenită în timp. Orașul Ærøskøbing este adesea considerat cel mai pitoresc oraș de poveste din Danemarca, faimos pentru casele sale din lemn din secolul al XVIII-lea perfect conservate și străzile pietruite. Peisajul ondulat al insulei este punctat de mori de vânt istorice, ferme vechi și trasee de coastă vibrante. Ærø este renumită pentru moștenirea sa maritimă și pentru atmosfera romantică, fiind una dintre cele mai populare destinații de nuntă din Europa de Nord. Biologie K7 – Fauna și ecosistemele Danemarcei.",
+ en: "Ærø is an exceptionally charming and picturesque island located in the South Funen Archipelago. Untouched by large-scale modern development or major bridges, the island feels like a serene step back in time. The town of Ærøskøbing is often considered Denmark's fairy-tale town, famous for its impeccably preserved 18th-century half-timbered houses and cobblestone streets. The island's rolling landscape is dotted with historic windmills, old farmhouses, and vibrant coastal paths. Ærø is renowned for its maritime heritage, strong local community, and an enduring atmosphere of romance, making it one of the most popular wedding destinations in Northern Europe. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Ærøskøbing wurde aufgrund seines hervorragend erhaltenen Stadtbildes mit dem Europa-Nostra-Preis ausgezeichnet.",
+ "Die Insel ist einer der weltweit beliebtesten Orte für internationale Hochzeiten.",
+ "In Marstal befindet sich ein bedeutendes Seefahrtsmuseum, das die Geschichte der Segelschifffahrt zeigt.",
+ "Ærø betreibt eines der weltweit größten solarthermischen Fernwärmesysteme."
+ ],
+ hu: [
+ "Ærøskøbing városképe olyan érintetlen, hogy 2002-ben elnyerte az Európa Nostra-díjat a kulturális örökség megőrzéséért.",
+ "A sziget Dánia legnépszerűbb esküvői célpontja, évente több ezer nemzetközi pár házasodik itt össze.",
+ "Ærø rendelkezik a világ egyik legnagyobb napkollektoros távfűtési rendszerével.",
+ "Marstal kikötővárosában található a Dán Tengerészeti Múzeum, amely bemutatja a sziget dicső tengerész múltját."
+ ],
+ ro: [
+ "Ærø este complet independentă de poduri, accesul fiind posibil exclusiv cu feribotul din localitățile învecinate.",
+ "Orașul Ærøskøbing a primit premiul Europa Nostra pentru conservarea remarcabilă a patrimoniului său arhitectural.",
+ "Insula este un pionier în energia regenerabilă, operând unul dintre cele mai mari sisteme de încălzire solară din lume.",
+ "Datorită cadrului său idilic, Ærø găzduiește anual mii de nunți internaționale, fiind supranumită \"Las Vegas-ul Europei\"."
+ ],
+ en: ["Ærø is completely independent of bridges and can only be accessed via ferry.", "The town of Ærøskøbing features incredibly preserved architecture and won the Europa Nostra prize for cultural heritage.", "The island is a pioneer in renewable energy and operates one of the world's largest solar thermal power plants.", "Ærø's idyllic setting makes it an extraordinarily popular destination for international weddings."]
+ },
+ facts: {
+ en: ["Ærø is part of the South Funen Archipelago.", "It is known for colorful harbor towns.", "The island is popular for cycling and slow travel.", "Its scale makes it easy to explore.", "It is a classic Danish island getaway."],
+ de: ["Ærø gehört zum Südfünischen Inselmeer.", "Die Insel ist für ihre bunten Hafenstädte bekannt.", "Sie ist beliebt für Radfahren und Slow Travel.", "Ihre Größe macht sie leicht erkundbar.", "Sie ist ein klassisches dänisches Inselreiseziel."],
+ hu: ["Ærø a Dél-Füneni szigetvilág része.", "Színes kikötővárosairól ismert.", "Népszerű kerékpározásra és lassú utazásra.", "Mérete miatt könnyen bejárható.", "Klasszikus dán szigetes menedékhely."],
+ ro: ["Ærø face parte din arhipelagul de sud al insulei Funen.", "Este cunoscută pentru orașele sale portuare colorate.", "Este populară pentru ciclism și slow travel.", "Dimensiunea sa o face ușor de explorat.", "Este o escapadă insulară daneză clasică."]
+ },
+ image: "/geo-images/denmark/aero.webp",
+ },
+ {
+ id: "nat-gribskov",
+ type: "forest",
+ parent: "DK",
+ coords: [12.3120, 56.0040],
+ name: { de: "Gribskov", hu: "Gribskov", ro: "Gribskov", en: "Gribskov" },
+ description: {
+ en: "Gribskov is one of Denmark's largest forests and a valuable keyword for hiking, woodland scenery, and North Zealand nature escapes. The forest's mix of trails, wildlife, and historic hunting landscapes makes it attractive for both short walks and longer outdoor days. It sits close enough to Copenhagen to work as a realistic nature break from the capital. Gribskov is a strong choice for readers who want classic Danish forest atmosphere.",
+ de: "Gribskov ist einer der größten Wälder Dänemarks und ein geschätztes Ziel für Wandern, Waldlandschaften und Naturausflüge im Norden Seelands. Die Mischung aus Wegen, Tierwelt und historischen Jagdlandschaften macht ihn sowohl für kurze Spaziergänge als auch für längere Tage im Freien attraktiv. Er liegt nahe genug an Kopenhagen, um als realistische Naturoption von der Hauptstadt aus zu funktionieren. Gribskov ist eine starke Wahl für Leser, die klassische dänische Waldatmosphäre suchen.",
+ hu: "A Gribskov Dánia egyik legnagyobb erdeje, így értékes célpont a túrázás, az erdei tájak és az észak-sjællandi természetközeli kiruccanások témájában. Ösvényei, élővilága és történelmi vadászterületei miatt rövid sétákra és hosszabb szabadtéri napokra is vonzó. Elég közel van Koppenhágához ahhoz, hogy reális természetes kiruccanás legyen a fővárosból. A Gribskov erős választás azoknak, akik klasszikus dán erdei hangulatot keresnek.",
+ ro: "Gribskov este una dintre cele mai mari păduri ale Danemarcei și un cuvânt-cheie valoros pentru drumeții, peisaje de pădure și escapade în natură în nordul insulei Zealand. Amestecul de trasee, faună și peisaje istorice de vânătoare o face atractivă atât pentru plimbări scurte, cât și pentru zile lungi în aer liber. Este suficient de aproape de Copenhaga pentru a funcționa ca o pauză realistă în natură din capitală. Gribskov este o alegere bună pentru cititorii care vor atmosfera clasică a pădurilor daneze."},
+ descriptionAdvanced: {
+ de: "Der Gribskov im Norden Seelands ist einer der größten und historischsten Wälder Dänemarks. Jahrhundertelang diente er als königliches Jagdrevier und ist heute Teil des UNESCO-Welterbes „Parforce-Jagdlandschaft Nordseeland“. Der Wald ist geprägt von alten Buchen- und Eichenbeständen, versteckten Mooren und dem angrenzenden Esrum-See. Das geometrische Wegenetz, das im 17. Jahrhundert für die Hetzjagd zu Pferd angelegt wurde, ist noch heute ein charakteristisches Merkmal des Geländes. Heute ist der Gribskov ein wichtiges Refugium für Wildtiere wie Damhirsche und Seeadler sowie ein beliebtes Ziel für Wanderer, Reiter und Naturbeobachter. Biologie K7 – Dänemarks Tierwelt und Ökosysteme.",
+ hu: "A Gribskov Dánia negyedik legnagyobb erdeje, amely Észak-Sjælland szívében terül el, Hillerød és a Fredensborg-kastély közelében. Az erdő évszázadokon át a dán királyok kedvelt vadászterülete volt, és a különleges, csillag alakú vadászati útvonalak ma is jól láthatók a fák között. Hatalmas öreg tölgyek, csendes tavak és mocsaras tisztások jellemzik, amelyek számos ritka állatfajnak, köztük gímszarvasoknak és hollóknak nyújtanak menedéket. A Gribskov része a par force vadászati tájnak, amely 2015-ben felkerült az UNESCO Világörökségi listájára. Az erdő kiváló túra- és kerékpárútvonalakat kínál a természetbe vágyóknak. Biológia K7 – Dánia élővilága és ökoszisztémái.",
+ ro: "Gribskov este una dintre cele mai mari ??i mai istorice p??duri din Danemarca, situat?? ??n nordul insulei Zealand, chiar la nord de Hiller??d. Servind ini??ial ca teren de v??n??toare regal pentru regii danezi, p??durea este bogat?? ??n istorie ??i folclor. Peisajul include p??duri ad??nci de foioase, mla??tini ascunse ??i Lacul Esrum pe marginea sa vestic??. Face parte din \"Peisajul de v??n??toare par force din Nordul Zealandului\", un sit al Patrimoniului Mondial UNESCO recunoscut pentru re??eaua sa geometric?? de drumuri conceput?? pentru v??n??toarea cu c??ini. Ast??zi, Gribskov ofer?? un sanctuar vast ??i lini??tit pentru fauna s??lbatic?? ??i oportunit????i nelimitate pentru drume??ii ??i explorare. Biologie K7 ??? Fauna ??i ecosistemele Danemarcei.",
+ en: "Gribskov is one of Denmark's largest and most historic forests, located in North Zealand just north of Hillerød. Originally serving as the royal hunting grounds for the Danish kings, the forest is steeped in history and folklore. The landscape features deep, ancient woodlands, hidden bogs, and the expansive Esrum Lake on its western edge. It forms part of the 'Par force hunting landscape in North Zealand', a UNESCO World Heritage site recognized for its geometric road network designed for hunting with hounds. Today, Gribskov offers a vast, tranquil sanctuary for wildlife and endless opportunities for hiking and exploration. Biology K7 – Denmark's wildlife and ecosystems."
+ },
+ factsAdvanced: {
+ de: [
+ "Der Gribskov umfasst eine Fläche von etwa 5.600 Hektar.",
+ "Er gehört zum UNESCO-Welterbe der Parforce-Jagdlandschaften.",
+ "Im Wald lebt eine der größten Populationen wilder Damhirsche in Dänemark.",
+ "Ein Teil des Waldes beherbergt historische Zuchtanlagen für die berühmten Frederiksborg-Pferde."
+ ],
+ hu: [
+ "Az erdő területe mintegy 5600 hektár, és az ország egyik legrégebbi védett erdeje.",
+ "A 'par force' vadászat egy francia eredetű vadászati stílus volt, ahol a kutyák kifáradásig űzték a szarvast, majd a király ölte meg a zsákmányt.",
+ "A Gribskovban található Dánia legnagyobb vadon élő gímszarvas populációja.",
+ "Az erdőben található az Esrum-tó, Dánia második legnagyobb tava."
+ ],
+ ro: [
+ "Gribskov este a patra cea mai mare pădure din Danemarca, acoperind o suprafață de aproximativ 5.600 de hectare.",
+ "Pădurea găzduiește cea mai mare populație de căpriori sălbatici din țară, vizibili adesea în zorii zilei.",
+ "În interiorul pădurii se află ruinele mănăstirii Esrum, un centru religios important din perioada medievală.",
+ "Sistemul de drumuri în formă de stea a fost creat în secolul al XVII-lea pentru a facilitar vânătoarea regală de tip \"par force\"."
+ ],
+ en: ["Gribskov is the fourth-largest forest in Denmark, covering approximately 5,600 hectares.", "It is a key component of the UNESCO World Heritage par force hunting landscape.", "The forest is home to Denmark's largest population of wild fallow deer.", "A section of the forest contains a historic stud farm for breeding purebred Frederiksborg horses."]
+ },
+ facts: {
+ en: ["Gribskov is one of Denmark's largest forests.", "It is located in North Zealand.", "The forest is popular for hiking and biking.", "It has a long history as a hunting landscape.", "It is a major nature escape near Copenhagen."],
+ de: ["Gribskov ist einer der größten Wälder Dänemarks.", "Er liegt in Nordseeland.", "Der Wald ist beliebt zum Wandern und Radfahren.", "Er hat eine lange Geschichte als Jagdlandschaft.", "Er ist ein wichtiges Naturziel nahe Kopenhagen."],
+ hu: ["A Gribskov Dánia egyik legnagyobb erdeje.", "Észak-Sjællandban található.", "Az erdő népszerű túrázásra és kerékpározásra.", "Hosszú története van mint vadászati táj.", "Fontos természetes menekülőhely Koppenhága közelében."],
+ ro: ["Gribskov este una dintre cele mai mari păduri din Danemarca.", "Se află în nordul insulei Zealand.", "Pădurea este populară pentru drumeții și ciclism.", "Are o lungă istorie ca peisaj de vânătoare.", "Este o evadare majoră în natură aproape de Copenhaga."]
+ },
+ image: "/geo-images/denmark/gribskov.webp",
+ },
 ];
 
 export const denmarkAllPoi: POI[] = [denmarkCountry, ...denmarkRegions, ...denmarkCities, ...denmarkCulture, ...denmarkNature];
