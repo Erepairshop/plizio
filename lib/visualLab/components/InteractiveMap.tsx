@@ -10,6 +10,7 @@ import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star, Ruler, 
 import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
+import { getAfricaCountryMap } from "../maps/africaResolver";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
@@ -125,6 +126,7 @@ export const InteractiveMap = ({
   initialPoiId = null,
   defaultCoords,
   defaultZoom,
+  countryId,
 }: {
   lang?: string;
   subject?: Subject;
@@ -132,6 +134,8 @@ export const InteractiveMap = ({
   initialPoiId?: string | null;
   defaultCoords?: [number, number];
   defaultZoom?: number;
+  /** Afrika orszag slug (pl. "egypt", "nigeria") — ha meg van adva, felülírja a lang-alapú resolver-t */
+  countryId?: string;
 }) => {
   const router = useRouter();
   // Static-export-safe URL param reader (avoids useSearchParams Suspense requirement)
@@ -140,8 +144,11 @@ export const InteractiveMap = ({
     return new URLSearchParams(window.location.search);
   }, []);
 
-  // ---- Country map resolver (lang-based) ---------------------------------
-  const countryData = useMemo(() => getCountryMap(lang as Lang), [lang]);
+  // ---- Country map resolver (countryId prop vagy lang-alapu) --------------
+  const countryData = useMemo(
+    () => (countryId ? getAfricaCountryMap(countryId) ?? getCountryMap(lang as Lang) : getCountryMap(lang as Lang)),
+    [countryId, lang]
+  );
   const deutschlandMap = countryData.map;
   const deutschlandViewBox = countryData.viewBox;
   const projectCoords = countryData.projectCoords;
