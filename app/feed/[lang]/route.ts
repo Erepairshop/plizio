@@ -5,6 +5,7 @@ import {
   type Lang,
 } from "@/lib/seo/slugs";
 import { SITE_URL, poiTitle, poiDescription } from "@/lib/seo/routes";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 
 export const dynamic = "force-static";
 export const dynamicParams = false;
@@ -50,10 +51,11 @@ export async function GET(
   const lang = langCode as Lang;
 
   const items = pois
-    .filter((p) => p && p.parent && p.type !== "region" && p.type !== "country" && p.image)
-    .map((poi) => {
+    .map((poi) => ({ poi, src: getPoiImage(poi) }))
+    .filter((x): x is { poi: typeof x.poi; src: string } => Boolean(x.poi && x.poi.parent && x.poi.type !== "region" && x.poi.type !== "country" && x.src))
+    .map(({ poi, src }) => {
       const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
-      const image = poi.image!.startsWith("http") ? poi.image! : `${SITE_URL}${poi.image}`;
+      const image = src.startsWith("http") ? src : `${SITE_URL}${src}`;
       const title = poiTitle(poi, lang);
       const desc = poiDescription(poi, lang);
       return `  <item>

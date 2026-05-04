@@ -28,6 +28,7 @@ import {
 } from "@/lib/seo/slugs";
 import type { POI } from "@/lib/visualLab/data/poi";
 import { poiImageAlt } from "@/lib/seo/imageAlt";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { getLearnMoreSuggestion, learnMoreCtaCopy } from "@/lib/seo/poiLearnMore";
 import { getFaqForPoi } from "@/lib/visualLab/data/faq";
 
@@ -71,6 +72,7 @@ export async function generateMetadata({
   const title = poiTitle(poi, resolved.lang as Lang);
   const description = poiDescription(poi, resolved.lang as Lang);
 
+  const ogImage = getPoiImage(poi);
   return {
     title,
     description,
@@ -83,13 +85,13 @@ export async function generateMetadata({
       description,
       url: absoluteUrl(buildPoiPath(resolved.lang as Lang, poi)),
       type: "article",
-      images: poi.image ? [{ url: absoluteUrl(poi.image) }] : undefined,
+      images: ogImage ? [{ url: absoluteUrl(ogImage) }] : undefined,
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
-      images: poi.image ? [absoluteUrl(poi.image)] : undefined,
+      images: ogImage ? [absoluteUrl(ogImage)] : undefined,
     },
   };
 }
@@ -132,11 +134,14 @@ export default async function PoiPage({
         <article className="mt-6 rounded-[28px] border border-cyan-500/15 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.12),_transparent_55%),linear-gradient(180deg,rgba(7,17,27,0.98),rgba(2,4,8,0.98))] overflow-hidden">
           <div className="grid gap-0 lg:grid-cols-[1.05fr_0.95fr]">
             <div className="min-h-[320px] bg-[#07111b]">
-              {poi.image ? (
-                <img src={poi.image} alt={poiImageAlt(poi, resolved.lang as Lang, region.name[resolved.lang as Lang] || region.name.de, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
-              ) : (
-                <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
-              )}
+              {(() => {
+                const src = getPoiImage(poi);
+                return src ? (
+                  <img src={src} alt={poiImageAlt(poi, resolved.lang as Lang, region.name[resolved.lang as Lang] || region.name.de, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
+                ) : (
+                  <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
+                );
+              })()}
             </div>
             <div className="p-6 sm:p-8">
               <div className="flex items-start gap-4">

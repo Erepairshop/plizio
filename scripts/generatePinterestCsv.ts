@@ -24,6 +24,7 @@ import { fileURLToPath } from "node:url";
 import { pois, SUPPORTED_LANGS, buildPoiPath, type Lang } from "@/lib/seo/slugs";
 import { getCountryId } from "@/lib/seo/slugs";
 import { COUNTRY_COPY, absoluteUrl } from "@/lib/seo/routes";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = resolve(__dirname, "..");
@@ -106,7 +107,9 @@ for (const lang of langs) {
   let count = 0;
   for (const poi of pois) {
     if (count >= limit) break;
-    if (!poi || !poi.image || !poi.name || !poi.description) continue;
+    if (!poi || !poi.name || !poi.description) continue;
+    const poiSrc = getPoiImage(poi);
+    if (!poiSrc) continue;
     if (!poi.parent) continue;
     const countryId = getCountryId(poi.parent);
     const countryCopy = COUNTRY_COPY[countryId]?.[lang];
@@ -114,7 +117,7 @@ for (const lang of langs) {
     const countryName = countryCopy.name;
 
     const title = `${poi.name[lang] || poi.name.de || poi.id} — ${countryName}`;
-    const mediaUrl = absoluteUrl(poi.image);
+    const mediaUrl = absoluteUrl(poiSrc);
     const board = pickBoardName(countryName, poi.type);
     const desc = buildDescription(poi, lang).slice(0, 500);
     const linkPath = buildPoiPath(lang, poi as any);

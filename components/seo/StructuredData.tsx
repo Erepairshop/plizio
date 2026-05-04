@@ -1,5 +1,6 @@
 import type { POI } from "@/lib/visualLab/data/poi";
 import { absoluteUrl } from "@/lib/seo/routes";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { localizedStateName, type Lang } from "@/lib/seo/slugs";
 import { getFaqForPoi } from "@/lib/visualLab/data/faq";
 
@@ -48,7 +49,7 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
     ...(poi.type === "island" ? { additionalType: "Island" } : {}),
     name: poi.name[lang] || poi.name.de,
     description: poi.description?.[lang] || poi.description?.de || "",
-    image: poi.image ? absoluteUrl(poi.image) : undefined,
+    image: (() => { const s = getPoiImage(poi); return s ? absoluteUrl(s) : undefined; })(),
     geo: {
       "@type": "GeoCoordinates",
       latitude: poi.coords[1],

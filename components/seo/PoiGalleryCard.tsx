@@ -2,6 +2,7 @@ import type { POI } from "@/lib/visualLab/data/poi";
 import { buildPoiPath, type Lang } from "@/lib/seo/slugs";
 import { SEO_COPY } from "@/lib/seo/routes";
 import { poiImageAlt } from "@/lib/seo/imageAlt";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 
 export default function PoiGalleryCard({
   poi,
@@ -14,6 +15,7 @@ export default function PoiGalleryCard({
   const copy = SEO_COPY[lang];
   const title = poi.name[lang] || poi.name.de;
   const description = poi.description?.[lang] || poi.description?.de || "";
+  const imageSrc = getPoiImage(poi);
 
   return (
     <a
@@ -21,8 +23,8 @@ export default function PoiGalleryCard({
       className="group rounded-2xl border border-cyan-500/15 bg-white/[0.03] overflow-hidden hover:border-cyan-400/40 transition"
     >
       <div className="aspect-[16/10] bg-[#07111b] overflow-hidden">
-        {poi.image ? (
-          <img src={poi.image} alt={poiImageAlt(poi, lang)} loading="lazy" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]" />
+        {imageSrc ? (
+          <img src={imageSrc} alt={poiImageAlt(poi, lang)} loading="lazy" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]" />
         ) : (
           <div className="h-full w-full flex items-center justify-center text-cyan-200/50 text-sm">Visual Lab</div>
         )}
