@@ -279,7 +279,15 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                 stroke={isHovered ? "rgba(34, 211, 238, 0.9)" : "rgba(148, 163, 184, 0.5)"}
                 strokeWidth={(isHovered ? 1.5 : 0.6) / view.scale}
                 style={{ cursor: "pointer", transition: "fill 200ms" }}
-                onMouseEnter={() => setHovered(country.id)}
+                onMouseEnter={() => {
+                  setHovered(country.id);
+                  const bind = COUNTRY_BINDINGS[country.id];
+                  if (bind) router.prefetch(bind);
+                }}
+                onPointerDown={() => {
+                  const bind = COUNTRY_BINDINGS[country.id];
+                  if (bind) router.prefetch(bind);
+                }}
                 onMouseLeave={() => setHovered(null)}
                 onClick={() => handleCountryClick(country)}
               >
