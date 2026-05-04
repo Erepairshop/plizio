@@ -2013,6 +2013,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Cheyenne Frontier Days Old West Múzeum", "Wyoming Állami Capitolium", "Történelmi vasúti csomópont", "Big Boy gőzmozdony"],
       ro: ["Muzeul Vestului Sălbatic Cheyenne Frontier Days", "Capitoliul Statului Wyoming", "Nod feroviar istoric", "Locomotiva cu aburi Big Boy"],
       en: ["Cheyenne Frontier Days Old West Museum", "Wyoming State Capitol", "Historic railroad depot", "Big Boy steam locomotive"]
+    },
+    descriptionAdvanced: {
+      de: "Cheyenne ist die Hauptstadt von Wyoming und liegt auf einer Höhe von 1848 Metern in den High Plains. Die Stadt wurde 1867 als Knotenpunkt der Union Pacific Railroad gegründet und bewahrt bis heute ihr reiches Erbe als Wild-West-Stadt. Geografie K8 – Hochlandsteppen und kontinentale Klimazonen.",
+      hu: "Cheyenne Wyoming fővárosa, 1848 méteres tengerszint feletti magasságban fekszik a High Plains régióban. A várost 1867-ben alapították az Union Pacific vasútvonal csomópontjaként, és a mai napig megőrizte gazdag vadnyugati örökségét. Földrajz K8 – Magasföldi sztyeppék és kontinentális éghajlati övek.",
+      ro: "Cheyenne este capitala statului Wyoming și este situat la o altitudine de 1848 de metri în High Plains. Orașul a fost fondat în 1867 ca un nod feroviar al Union Pacific Railroad și își păstrează până astăzi moștenirea bogată de oraș din Vestul Sălbatic. Geografie K8 – Stepe de podiș și zone climatice continentale.",
+      en: "Cheyenne is the capital of Wyoming, situated at an elevation of 1,848 meters on the High Plains. Founded in 1867 as a hub for the Union Pacific Railroad, the city retains its rich heritage as a Wild West town. Geography K8 – High plains and continental climate zones."
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 4. Juli 1867", "Höhe: 1848 m ü. M.", "Frontier Days Rodeo-Festival", "Strategischer Standort nahe der Interstates 80 und 25", "Bekannt für seine starken Winde", "Staatspalast im Beaux-Arts-Stil"],
+      hu: ["1867. július 4-én alapították", "Tengerszint feletti magasság: 1848 m", "Frontier Days rodeófesztivál", "Stratégiai helyszín a 80-as és 25-ös autópályák közelében", "Erős szeleiről híres", "Beaux-Arts stílusú állami capitolium"],
+      ro: ["Fondat la 4 iulie 1867", "Altitudine: 1848 m", "Festivalul de rodeo Frontier Days", "Locație strategică lângă autostrăzile Interstate 80 și 25", "Cunoscut pentru vânturile sale puternice", "Capitoliu de stat în stil Beaux-Arts"],
+      en: ["Founded on July 4, 1867", "Elevation: 1,848 m", "Frontier Days rodeo festival", "Strategic location near Interstates 80 and 25", "Known for high winds", "Beaux-Arts style state capitol"]
     }
   },
   {
