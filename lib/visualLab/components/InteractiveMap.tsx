@@ -11,6 +11,7 @@ import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
 import { getAfricaCountryMap } from "../maps/africaResolver";
+import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
@@ -987,21 +988,24 @@ export const InteractiveMap = ({
             "
           >
             <div className="flex items-start gap-3 mb-2 sticky top-0 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
-              {selectedPoi.image ? (
-                <img
-                  src={selectedPoi.image}
-                  alt=""
-                  className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
-                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
-                />
-              ) : selectedPoi.coa ? (
+              {(() => {
+                const _poiImg = getPoiImage(selectedPoi);
+                return _poiImg ? (
+                  <img
+                    src={_poiImg}
+                    alt=""
+                    className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
+                    onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
+                  />
+                ) : null;
+              })() ?? (selectedPoi.coa ? (
                 <img
                   src={selectedPoi.coa}
                   alt=""
                   className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-contain p-1"
                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
                 />
-              ) : null}
+              ) : null)}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
                   {selectedPoi.name[displayLang] ?? selectedPoi.name.de}
